@@ -1,0 +1,16 @@
+> This article is converted from Wikipedia: [9 MBC ](https://ko.wikipedia.org/wiki/9_MBC_).
+
+
+**《제9회 MBC 강변가요제》**는 1988년 8월 6일 [강원도](https://ko.wikipedia.org/wiki/강원도 "wikilink") [춘천](https://ko.wikipedia.org/wiki/춘천 "wikilink") [남이섬](https://ko.wikipedia.org/wiki/남이섬 "wikilink")에서 열린 제9회 [MBC 강변가요제](https://ko.wikipedia.org/wiki/MBC_강변가요제 "wikilink") 출전곡이 수록된 음반이다.
+
+## 수록곡
+
+## 특징
+
+  - 제 9회 강변가요제는 대상의 [이상은을](https://ko.wikipedia.org/wiki/이상은_\(가수\) "wikilink") 비롯, [이상우](https://ko.wikipedia.org/wiki/이상우_\(가수\) "wikilink"), [박성신](https://ko.wikipedia.org/wiki/박성신 "wikilink"), 박광현, 이재영 등 가장 많은 인기가수를 배출한 회로도 유명하다.
+
+<!-- end list -->
+
+  - [1988 강변가요제 대상발표 영상](https://www.youtube.com/watch?v=zmDrb2dZN1c) : 당시 화제가 되었던 [이상은의](https://ko.wikipedia.org/wiki/이상은_\(가수\) "wikilink") 수상소감
+
+[분류:지구레코드의 음반](https://ko.wikipedia.org/wiki/분류:지구레코드의_음반 "wikilink") [분류:대한민국의 음반](https://ko.wikipedia.org/wiki/분류:대한민국의_음반 "wikilink") [분류:1988년 음반](https://ko.wikipedia.org/wiki/분류:1988년_음반 "wikilink") [분류:컴필레이션 음반](https://ko.wikipedia.org/wiki/분류:컴필레이션_음반 "wikilink")

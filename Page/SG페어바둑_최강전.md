@@ -1,0 +1,38 @@
+> This article is converted from Wikipedia: [SG ](https://ko.wikipedia.org/wiki/SG_).
+
+
+**SG페어바둑 최강전**은 SG그룹이 후원하는 대회로, 이벤트성 대회로만 열리던 페어대회에서 벗어나 국내 페어대회의 효시가 된 대회이다. 1회 대회는 **SG세계물산배**라고 명명되었다가, 2회 대회부터 현행 대회이름으로 변경되었다. 프로기사와 아마기사가 신분에 제한 없이 참가가 가능하다. 3회 대회부터 우승팀은 중국 허베이에서 열리는 **루양배 한중일 삼국 바둑명인페어전**에 한국대표로 출전한다. 6회 대회부터 해외에 문호를 개방해하여 외국인 초청시드를 신설해 중국ㆍ일본ㆍ대만에서 각 1개팀이 국내 페어와 자웅을 겨루게 됐다
+
+## 상금
+
+  - 우승 3000만원
+  - 준우승 1000만원
+
+## 대회규정
+
+  - 팀 조합에 아마추어 1명을 넣을 수 있다. 프로+프로 조합이거나 프로+아마 조합이어야 하며 아마+아마는 안 된다.
+  - 착수는 흑(여성)→백(여성)→흑(남성)→백(남성) 순으로 순환한다.
+  - 착점 순서를 위반하면 3집이 공제. 누적 3회 위반 시 실격패 처리.
+  - 제한시간 팀당 각 10분. 초읽기 40초 3회
+  - 덤 5집반(1회대회)
+  - 2회 대회부터 덤베팅제라는 독특한 룰이 적용된다. 페어바둑에서는 백을 잡는 쪽이 유리하게 되어 있는 점을 완화하기 위해, 대국전 돌을 가릴때, 각 팀이 제시한 덤을 비교해 흑 백을 가리는 규정이다. 대국이 시작되기 직전에 각 팀은 종이에 덤을 적고 다 적으면 서로 공개해 더 많은 덤을 제시한 쪽이 흑을 잡는다. 만약 같을 경우 돌을 가려 맞힌 쪽이 선택권을 가진다.(페어바둑은 흑을 쥔 상대편 남성의 수를 백을 잡은 남성이 대응할 수 있기 때문에 일반적으로 백을 잡는 것이 유리하다고 알려져 있다.)
+
+## 대회결과
+
+| 회수 | 연도   | 우승                                                                                                                                      | 준우승                                                                                                                                     |
+| -- | ---- | --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| 1  | 2011 | [한상훈](https://ko.wikipedia.org/wiki/한상훈_\(바둑_기사\) "wikilink") 五단 {{·}} [김미리](https://ko.wikipedia.org/wiki/김미리_\(바둑_기사\) "wikilink") 二단 | [목진석](https://ko.wikipedia.org/wiki/목진석 "wikilink") 九단 {{·}} [김혜민](https://ko.wikipedia.org/wiki/김혜민_\(바둑_기사\) "wikilink") 六단           |
+| 2  | 2012 | [유창혁](https://ko.wikipedia.org/wiki/유창혁 "wikilink") 九단 {{·}} [최정](../Page/최정_\(바둑_기사\).md "wikilink") 二단                                | [조한승](https://ko.wikipedia.org/wiki/조한승 "wikilink") 九단 {{·}} [오정아](https://ko.wikipedia.org/wiki/오정아_\(바둑_기사\) "wikilink") 初단           |
+| 3  | 2013 | [진시영](https://ko.wikipedia.org/wiki/진시영 "wikilink") 五단 {{·}} [오정아](https://ko.wikipedia.org/wiki/오정아_\(바둑_기사\) "wikilink") 二단           | [박승화](https://ko.wikipedia.org/wiki/박승화_\(바둑_기사\) "wikilink") 五단 {{·}} [김혜림](https://ko.wikipedia.org/wiki/김혜림_\(바둑_기사\) "wikilink") 二단 |
+| 4  | 2014 | [최원용](https://ko.wikipedia.org/wiki/최원용 "wikilink") 七단 {{·}} [권주리](https://ko.wikipedia.org/wiki/권주리_\(바둑_기사\) "wikilink") 아마           | [나현](../Page/나현_\(바둑_기사\).md "wikilink") 四단 {{·}} [김미리](https://ko.wikipedia.org/wiki/김미리_\(바둑_기사\) "wikilink") 三단                      |
+| 5  | 2015 | [박승화](https://ko.wikipedia.org/wiki/박승화_\(바둑_기사\) "wikilink") 六단 {{·}} [최정](../Page/최정_\(바둑_기사\).md "wikilink") 五단                      | [최철한](https://ko.wikipedia.org/wiki/최철한 "wikilink") 九단 {{·}} [윤지희](https://ko.wikipedia.org/wiki/윤지희_\(바둑_기사\) "wikilink") 三단           |
+| 6  | 2016 | [박승화](https://ko.wikipedia.org/wiki/박승화_\(바둑_기사\) "wikilink") 七단 {{·}} [최정](../Page/최정_\(바둑_기사\).md "wikilink") 六단                      | [김지석](https://ko.wikipedia.org/wiki/김지석_\(바둑_기사\) "wikilink") 九단 {{·}} [오유진](../Page/오유진_\(바둑_기사\).md "wikilink") 二단                    |
+| 7  | 2017 | [이영구](https://ko.wikipedia.org/wiki/이영구_\(바둑_기사\) "wikilink") 九단 {{·}} [김미리](https://ko.wikipedia.org/wiki/김미리_\(바둑_기사\) "wikilink") 三단 | [최철한](https://ko.wikipedia.org/wiki/최철한 "wikilink") 九단 {{·}} [오정아](https://ko.wikipedia.org/wiki/오정아_\(바둑_기사\) "wikilink") 三단           |
+| 8  | 2018 | [김지석](https://ko.wikipedia.org/wiki/김지석_\(바둑_기사\) "wikilink") 九단 {{·}} [오유진](../Page/오유진_\(바둑_기사\).md "wikilink") 六단                    | [전용수](https://ko.wikipedia.org/wiki/전용수 "wikilink") 初단 {{·}} [김노경](https://ko.wikipedia.org/wiki/김노경_\(바둑_기사\) "wikilink") 아마           |
+|    |      |                                                                                                                                         |                                                                                                                                         |
+
+## 같이 보기
+
+  - [한중일 3국 바둑명인페어대회](https://ko.wikipedia.org/wiki/한중일_3국_바둑명인페어대회 "wikilink")
+
+[분류:2011년 설립](https://ko.wikipedia.org/wiki/분류:2011년_설립 "wikilink") [분류:대한민국의 바둑 기전](https://ko.wikipedia.org/wiki/분류:대한민국의_바둑_기전 "wikilink")

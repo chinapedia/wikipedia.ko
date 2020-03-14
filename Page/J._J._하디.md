@@ -1,0 +1,25 @@
+> This article is converted from Wikipedia: [J. J. ](https://ko.wikipedia.org/wiki/J._J._).
+
+
+**제임스 제리 하디**(James Jerry Hardy, [1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink") [8월 19일](https://ko.wikipedia.org/wiki/8월_19일 "wikilink") \~ )는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [야구](https://ko.wikipedia.org/wiki/야구 "wikilink")이다.
+
+## 연도별 타격 성적
+
+|                                                         |                                                           |      |      |     |      |     |    |     |      |     |    |   |    |    |     |    |    |     |     |      |      |      |      |      |
+| ------------------------------------------------------- | --------------------------------------------------------- | ---- | ---- | --- | ---- | --- | -- | --- | ---- | --- | -- | - | -- | -- | --- | -- | -- | --- | --- | ---- | ---- | ---- | ---- | ---- |
+| [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") | [MIL](https://ko.wikipedia.org/wiki/밀워키_브루어스 "wikilink")  | 124  | 427  | 372 | 46   | 92  | 22 | 1   | 9    | 143 | 50 | 0 | 0  | 8  | 2   | 44 | 7  | 1   | 48  | 10   | .247 | .327 | .384 | .711 |
+| [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") | 35                                                        | 139  | 128  | 13  | 31   | 5   | 0  | 5   | 51   | 14  | 1  | 1 | 0  | 1  | 10  | 0  | 0  | 23  | 4   | .242 | .295 | .398 | .693 |      |
+| [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") | 151                                                       | 638  | 592  | 89  | 164  | 30  | 1  | 26  | 274  | 80  | 2  | 3 | 4  | 1  | 40  | 1  | 1  | 73  | 13  | .277 | .323 | .463 | .786 |      |
+| [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") | 146                                                       | 629  | 569  | 78  | 161  | 31  | 4  | 24  | 272  | 74  | 2  | 1 | 5  | 2  | 52  | 3  | 1  | 98  | 18  | .283 | .343 | .478 | .821 |      |
+| [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") | 115                                                       | 465  | 414  | 53  | 95   | 16  | 2  | 11  | 148  | 47  | 0  | 1 | 1  | 5  | 43  | 0  | 2  | 85  | 14  | .229 | .302 | .357 | .659 |      |
+| [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") | [MIN](https://ko.wikipedia.org/wiki/미네소타_트윈스 "wikilink")  | 101  | 375  | 340 | 44   | 91  | 19 | 3   | 6    | 134 | 38 | 1 | 1  | 3  | 4   | 28 | 1  | 0   | 54  | 8    | .268 | .320 | .394 | .714 |
+| [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") | [BAL](https://ko.wikipedia.org/wiki/볼티모어_오리올스 "wikilink") | 129  | 567  | 527 | 76   | 142 | 27 | 0   | 30   | 259 | 80 | 0 | 0  | 2  | 5   | 31 | 3  | 2   | 92  | 10   | .269 | .310 | .491 | .801 |
+| [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") | 158                                                       | 713  | 663  | 85  | 158  | 30  | 2  | 22  | 258  | 68  | 0  | 0 | 7  | 2  | 38  | 4  | 3  | 106 | 21  | .238 | .282 | .389 | .671 |      |
+| [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") | 159                                                       | 644  | 601  | 66  | 158  | 27  | 0  | 25  | 260  | 76  | 2  | 1 | 3  | 2  | 38  | 3  | 0  | 73  | 14  | .263 | .306 | .433 | .738 |      |
+| [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") | 141                                                       | 569  | 529  | 56  | 142  | 28  | 0  | 9   | 197  | 52  | 0  | 0 | 3  | 4  | 29  | 1  | 4  | 104 | 12  | .268 | .309 | .372 | .682 |      |
+| [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") | 114                                                       | 437  | 411  | 45  | 90   | 14  | 0  | 8   | 128  | 37  | 0  | 0 | 2  | 4  | 20  | 0  | 0  | 88  | 11  | .219 | .253 | .311 | .564 |      |
+| 통산：11년                                                  | 1373                                                      | 5603 | 5146 | 651 | 1324 | 249 | 13 | 175 | 2124 | 616 | 8  | 8 | 38 | 32 | 373 | 23 | 14 | 844 | 135 | .257 | .307 | .413 | .720 |      |
+
+  - 2015년 기준, **굵은 글씨**는 시즌 최고 성적.
+
+[분류:1982년 태어남](https://ko.wikipedia.org/wiki/분류:1982년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:애리조나주 출신 야구 선수](https://ko.wikipedia.org/wiki/분류:애리조나주_출신_야구_선수 "wikilink") [분류:미국의 야구 선수](https://ko.wikipedia.org/wiki/분류:미국의_야구_선수 "wikilink") [분류:밀워키 브루어스 선수](https://ko.wikipedia.org/wiki/분류:밀워키_브루어스_선수 "wikilink") [분류:미네소타 트윈스 선수](https://ko.wikipedia.org/wiki/분류:미네소타_트윈스_선수 "wikilink") [분류:볼티모어 오리올스 선수](https://ko.wikipedia.org/wiki/분류:볼티모어_오리올스_선수 "wikilink") [분류:메이저 리그 베이스볼 내야수](https://ko.wikipedia.org/wiki/분류:메이저_리그_베이스볼_내야수 "wikilink") [분류:메이저 리그 베이스볼 유격수](https://ko.wikipedia.org/wiki/분류:메이저_리그_베이스볼_유격수 "wikilink") [분류:아메리칸 리그 올스타](https://ko.wikipedia.org/wiki/분류:아메리칸_리그_올스타 "wikilink") [분류:내셔널 리그 올스타](https://ko.wikipedia.org/wiki/분류:내셔널_리그_올스타 "wikilink") [분류:올스타 퓨처스 게임 참가 선수](https://ko.wikipedia.org/wiki/분류:올스타_퓨처스_게임_참가_선수 "wikilink")

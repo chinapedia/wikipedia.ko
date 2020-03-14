@@ -1,0 +1,68 @@
+> This article is converted from Wikipedia: [HPM](https://ko.wikipedia.org/wiki/HPM).
+
+
+**HPM**(하이페리온 파워 모듈)은 미국 [하이페리온 파워 제네레이션사가](https://ko.wikipedia.org/wiki/하이페리온_파워_제네레이션 "wikilink") 개발한 초소형 원자로를 말한다. **ComStar**라고도 한다.
+
+하이페리온은 25MW 정도의 전력을 생산하는 욕조 크기의 초소형 원자로를 개발하고 있다. 이 원자로는 전지처럼 연결할 수 있는 점이 특징이다. 마을의 인구가 증가해 더 많은 전력이 필요해지면 원자로를 하나 더 연결해 해결한다.\[1\] 10MW 전기출력인 [도시바 4S가](https://ko.wikipedia.org/wiki/도시바_4S "wikilink") 중형차 크기인데 비해, 하이페리온은 더 고출력이면서 훨씬 작다.
+
+HPM은 70MWt의 열출력을 내며, 발전기에 연결하면 27MW의 전기를 생산할 수 있다. 이는 미국 평균 규모의 가정 또는 동급 산업체 2만 곳에 전기를 공급할 수 있는 규모다. 초기 설계 제품은 총 4,000대가 세계 각지에 위치한 3곳의 공장을 통해 생산될 계획이다.\[2\]
+
+## 로스 알라모스
+
+세계 최초로 핵폭탄을 개발한 미국 국립 [로스 알라모스 연구소는](https://ko.wikipedia.org/wiki/로스_알라모스_연구소 "wikilink") 직경 1미터 가정용 소형 핵발전기를 5년 내에 2만 가구에 보급할 예정이며, 이 특허권을 하이페리온사에 허가해 주었다. 로스 알라모스 국립연구소는 폭 1.5m, 길이 2.5m의 2만5000㎾ SMR을 개발했다. 미국 하이페리온사는 2010년부터 이 SMR을 2500만달러(약 289억원)에 판매하기 시작했다.\[3\]
+
+하이페리온의 존 딜(John Deal) 대표는 “세계 어디에서든 1와트에 10센트로 전력을 생산하는 것이 우리의 목표”라며 “소형 발전기는 2500만 달러 정도의 비용이 들어가는데 만일 1만개를 배포한다면 개당 250달러에 설치할 수 있게 된다”고 말했다. 이 회사에는 지금까지 100여개 기업에서 주문이 들어왔으며 대부분은 정유산업체들이라고 밝혔다. 6년치 주문이 이미 밀려있으며, 최초의 수출은 루마니아가 될 것이라고 말했다.\[4\]
+
+## 대한민국
+
+한국은 열출력 70메가와트인 HPM 보다 약간 저출력인 열출력 65메가와트의 [SMART-P](https://ko.wikipedia.org/wiki/SMART-P "wikilink")을 건설중이다. 그러나 미국이 이미 100여개의 6년치 수주를 한 데 비해, 한국은 단 한 대의 판매계약도 없으며, 아직 최초 제품도 만들어지지 않았다. 70메가와트 HPM이 290억원에 100여대가 주문된 것에 비해, 65메가와트 [SMART-P](https://ko.wikipedia.org/wiki/SMART-P "wikilink") 1호기 건설예산은 7000억원으로, 가격이 24배 비싸다.
+
+## 핵잠수함 원자로
+
+HPM은 열출력 70메가와트인데, 세계 최초의 핵잠수함인 미국의 [USS 노틸러스 (SSN-571)와](https://ko.wikipedia.org/wiki/USS_노틸러스_\(SSN-571\) "wikilink") 바로 이어 건조된 러시아 최초의 핵잠수함인 [노벰버급 잠수함의](https://ko.wikipedia.org/wiki/노벰버급_잠수함 "wikilink") 원자로 출력과 비슷하다. 배수량 4천톤인 노벰버급은 열출력 70메가와트 원자로 2개를 사용한다. 노틸러스도 배수량 4천톤이다.
+
+쉽게말해서 1954년 건조된 세계최초 핵잠수함 [USS 노틸러스 (SSN-571)의](https://ko.wikipedia.org/wiki/USS_노틸러스_\(SSN-571\) "wikilink") 원자로를 더욱 소형화 시켜 욕조형 크기로 만든 다음, 이를 한 번 연료장전하면 30년간 연료교환이 필요없게 밀봉해서, 2만가구 이하의 비핵국가인 후진국 섬에까지 미국 정부가 수출을 승인했다는 의미이다. 60년이 지나서 이제는 극비 군사용이 아니라 공개 상업용으로 대량수출하겠다는 전략의 변화이다. 원래 오늘날 대부분의 첨단 제품들([GPS](https://ko.wikipedia.org/wiki/GPS "wikilink"), [인터넷](https://ko.wikipedia.org/wiki/인터넷 "wikilink") 등)이 최초에는 군사기술이었다가 이후에 상업용으로 허가된 것인데, 잠수함용 원자로도 같은 흐름으로 가고 있다.
+
+## 북한
+
+북한이 자주 문제를 일으키는 [영변 5메가와트 원자로는](https://ko.wikipedia.org/wiki/영변_5메가와트_원자로 "wikilink") 열출력 25메가와트로 HPM의 1/3 규모이다. 1년에 플루토늄 6 kg을 생산할 수 있다고 알려져 있다. 3배 출력인 HPM을 비밀리에 지하에 건설하면, 핵확산의 문제가 될 수 있다. HPM은 지하에 밀봉하여 30년간 연료봉 교환이 없어서 핵확산 우려를 제거한 제품이지만, 영변 원자로 처럼 6개월마다 연료교환을 하면, 이론적으로 1년에 20 kg의 플루토늄을 생산할 수 있다.
+
+## 경쟁모델
+
+2011년 1월, 핵업계 유수의 글로벌시장 컨설팅서비스 업체인 [Ux 컨설팅 컴퍼니](https://ko.wikipedia.org/wiki/Ux_컨설팅_컴퍼니 "wikilink")(The Ux Consulting Company, LLC)가 [소형 모듈형 원자로](https://ko.wikipedia.org/wiki/소형_모듈형_원자로 "wikilink") 평가 심층보고서를 출시했다. 이 보고서에 포함된 12개의 최신형 소형 원자로는 다음과 같다.
+
+  - 웨스팅하우스 IRIS(Westinghouse IRIS)
+
+  - B\&W 엠파워(B\&W mPower)
+
+  - 누스케일(NuScale)
+
+  - [스마트 원자로](https://ko.wikipedia.org/wiki/스마트_원자로 "wikilink")(KAERI SMART)
+
+  - [OKBM](https://ko.wikipedia.org/wiki/OKBM "wikilink") [KLT-40S](https://ko.wikipedia.org/wiki/KLT-40S "wikilink")과 [VBER-300](https://ko.wikipedia.org/wiki/VBER-300 "wikilink")
+
+  - PMMR(South Africa PBMR)
+
+  - HTR-PM(China HTR-PM)
+
+  - GA GT-MHR
+
+  - [도시바 4S](https://ko.wikipedia.org/wiki/도시바_4S "wikilink")(Toshiba 4S)
+
+  - [하이페리온 파워 제네레이션사의](https://ko.wikipedia.org/wiki/하이페리온_파워_제네레이션 "wikilink") HPM
+
+  - GEH 프리즘(GEH PRISM)
+
+## 각주
+
+## 더 보기
+
+  - [도시바 4S](https://ko.wikipedia.org/wiki/도시바_4S "wikilink")
+  - [SMART-P](https://ko.wikipedia.org/wiki/SMART-P "wikilink")
+
+[분류:원자로](https://ko.wikipedia.org/wiki/분류:원자로 "wikilink")
+
+1.  욕조 크기 초소형 원자로?, 동아일보, 2009-02-06
+2.  하이페리온 파워 제너레이션, 소형휴대용 핵'전지' 신제품을 52차국제원자력기구총회서 선보이기로, 뉴시스, 2008-09-10
+3.  경제성·안전성 동시만족 '소형 모듈原電', 조선일보, 2011-09-23
+4.  가정용 소형 핵발전기, 5년 내 보급, 세계일보, 2008-11-10

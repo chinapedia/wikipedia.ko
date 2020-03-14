@@ -1,0 +1,24 @@
+> This article is converted from Wikipedia: [KPX](https://ko.wikipedia.org/wiki/KPX).
+
+
+**KPX케미칼**(KPX Chemical Co.,ltd.)은 [폴리우레탄](https://ko.wikipedia.org/wiki/폴리우레탄 "wikilink") 수지 및 그 원료를 주력으로 생산하는 코스피 상장기업이다. 본사는 서울특별시 마포구 마포대로 137, 17층 (공덕동, KPX빌딩)에 있으며 [폴리우레탄](https://ko.wikipedia.org/wiki/폴리우레탄 "wikilink") 관련 외에 반도체 공정에 사용되는 세정제 등의 화학물질도 제조한다.
+
+## 제품
+
+KPX케미칼이 제조하는 대표적인 제품은 [폴리우레탄](https://ko.wikipedia.org/wiki/폴리우레탄 "wikilink")(polyurethane) 수지 및 그 원료가 되는 폴리프로필렌글리콜(Polypropylene glycol)이다. 폴리프로필렌글리콜은 최종생산물이 아니라 석유화학공업에서 중간 단계에 해당하는 소재이다. [폴리우레탄](https://ko.wikipedia.org/wiki/폴리우레탄 "wikilink")은 탄력적인 특성을 가져 합성 섬유로 많이 사용된다.
+
+자세한 것은 [폴리우레탄](https://ko.wikipedia.org/wiki/폴리우레탄 "wikilink") 항목 참조.
+
+## 규모 및 실적
+
+대한민국 내에는 폴리프로필렌글리콜 제조업체가 총 4개가 있으나 KPX케미칼이 시장점유율에서 1위를 차지하고 있다. 2014년 기준으로 시가총액 3,000억원 가량의 규모로, 순이익은 매년 200억대에서 300억대 가량이 나는 흑자 기업이다. 거래량은 보통 하루에 수천만원 가량에 불과하여, 증시에서 많이 거래되는 종목은 아니다. 하지만, CAPEX 싸이클이 2016년으로 완료되기 때문에, 2017년부터 영업이익의 가시성이 견고해 보인다.
+
+## 외부 링크
+
+  -
+## 참고문헌
+
+  - 와이즈에프엔, 2014
+  - 매일경제 증권센터
+
+[분류:대한민국의 기업](https://ko.wikipedia.org/wiki/분류:대한민국의_기업 "wikilink") [분류:1974년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1974년_설립된_기업 "wikilink") [분류:서울특별시의 기업](https://ko.wikipedia.org/wiki/분류:서울특별시의_기업 "wikilink")

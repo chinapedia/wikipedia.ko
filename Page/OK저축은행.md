@@ -1,0 +1,48 @@
+> This article is converted from Wikipedia: [OK](https://ko.wikipedia.org/wiki/OK).
+
+
+**OK저축은행**(Original Korean Savings Bank of Korea)은 2014년 7월 [러시앤캐시](https://ko.wikipedia.org/wiki/러시앤캐시 "wikilink")가 가교저축은행이었던 예주저축은행과 예나래저축은행을 인수하여 출범시킨 저축은행이다.
+
+## 역사
+
+  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink") 예주저축은행 법인설립
+  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [7월](https://ko.wikipedia.org/wiki/7월 "wikilink") 아프로서비스그룹대부와 에이앤피파이낸셜대부의 예주저축은행과 예나래저축은행 인수 금융위원회 승인
+  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [7월](https://ko.wikipedia.org/wiki/7월 "wikilink") OK저축은행 출범
+  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [11월](https://ko.wikipedia.org/wiki/11월 "wikilink") OK저축은행과 OK2저축은행 합병
+
+## 영업점
+
+  - 본점: 서울특별시 중구 세종대로 39-0 대한서울상공회의소 10층
+  - 가산지점: 서울특별시 금천구 디지털로 10길 9, 14층
+  - 강남지점: 서울특별시 강남구 강남대로 310 유니온센터오피스텔 1층 102호
+  - 동대문지점: 서울특별시 종로구 율곡로 309-0 제일은행 동녕빌딩 3층
+  - 선릉지점: 서울특별시 강남구 테헤란로 403 리치타워 2층
+  - 잠실지점: 서울특별시 송파구 백제고분로 364-0 대준빌딩 1층
+  - 이수지점: 서울특별시 동작구 동작대로 137-0 JH타워 2층, 3층
+  - 서울역출장소: 서울특별시 용산구 동자동 43-198 2층, 4층
+  - 분당지점: 경기도 성남시 분당구 서현동 250-1 세현복합빌딩 2층
+  - 일산지점: 경기도 고양시 일산서구 강선로 49 BYC 일산비스타사옥 201호
+  - 인천구월지점: 인천광역시 남동구 인하로 507번길 4-0 한성빌딩 6층
+  - 평촌지점: 경기도 안양시 동안구 시민대로 180 G스퀘어 11층
+  - 부평지점: 인천광역시 부평구 경원대로 1383-0 1층
+  - 수원지점: 경기도 수원시 팔달구 권광로 199-0 세영빌딩 2층
+  - 안산지점: 경기도 안산시 상록구 용신로 394 서해프라자 3층
+  - 천안지점: 충청남도 천안시 동남구 만남로 40-0 광산빌딩 2층
+  - 청주지점: 충청북도 청주시 서원구 사창동 222-7번지 재미슨빌딩 3층
+  - 대전지점: 대전광역시 서구 문예로 33 MB빌딩 1층
+  - 익산지점: 전라북도 익산시 영등동 829-5 샘물빌딩 2층
+  - 전주지점: 전라북도 전주시 완산구 홍산로 249 대신빌딩 2층
+  - 광주지점: 광주광역시 서구 상무평화로 79-0 팔복빌딩 2층
+  - 노원지점: 서울특별시 노원구 노해로 459-0 메가빌딩 2층
+  - 대전중앙지점: 대전광역시 중구 선화동 83-11번지, 유안타증권빌딩 6층
+
+## 외부 링크
+
+  - [OK저축은행](http://www.oksavingsbank.com/)
+  - [OK배정장학재단](http://www.aprovision.or.kr/)
+  - [러시앤캐시배구단](https://web.archive.org/web/20131030024056/http://www.rushncashvespid.co.kr/)
+  - [러시앤캐시(아프로파이낸셜)](http://www.rushncash.com/)
+  - [러시앤캐시(중국)](https://web.archive.org/web/20141020053849/http://www.rushncash.com.cn/)
+  - [OK금융그룹(모기업)](https://www.okfngroup.com/)
+
+[분류:상호저축은행](https://ko.wikipedia.org/wiki/분류:상호저축은행 "wikilink") [분류:2014년 설립](https://ko.wikipedia.org/wiki/분류:2014년_설립 "wikilink")

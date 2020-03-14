@@ -1,0 +1,75 @@
+> This article is converted from Wikipedia: [It Came from the Nightosphere](https://ko.wikipedia.org/wiki/It_Came_from_the_Nightosphere).
+
+
+〈**It Came from the Nightosphere**〉는 [카툰 네트워크의](https://ko.wikipedia.org/wiki/카툰_네트워크 "wikilink") 애니메이션 시리즈 《[핀과 제이크의 어드벤처 타임](https://ko.wikipedia.org/wiki/핀과_제이크의_어드벤처_타임 "wikilink")》의 [두 번째 시즌](../Page/핀과_제이크의_어드벤처_타임_\(시즌_2\).md "wikilink") 첫 번째 에피소드이다. [대한민국](https://ko.wikipedia.org/wiki/카툰_네트워크_\(대한민국\) "wikilink") 방영 명칭은 〈아빠와 딸〉이다. 이 에피소드는 [애덤 무토와](https://ko.wikipedia.org/wiki/애덤_무토 "wikilink") [리베카 슈거가](../Page/리베카_슈거.md "wikilink") 스토리보드 작가로 참여했으며 메리웨더 윌리엄스, 스티브 리틀, 패트릭 맥헤일, [펜들턴 워드](../Page/펜들턴_워드.md "wikilink"), [서럽 밴 오먼이](https://ko.wikipedia.org/wiki/서럽_밴_오먼 "wikilink") 각본을 담당했다. [마틴 올슨이](https://ko.wikipedia.org/wiki/마틴_올슨 "wikilink") 마르셀린의 아빠 헌슨 애버디어 역할의 게스트 성우를 맡았다. 이 편에서는 핀이 밤의 영역에서 마르셀린의 아빠를 만나는 과정을 다루고 있다.
+
+이 에피소드는 리베카 슈거가 처음으로 스토리보드를 맡은 편이다. 시청자 수 2백만 1천 명을 기록하며 대체로 긍정적인 평가를 받았다. 이후에 [프라임타임 에미상](https://ko.wikipedia.org/wiki/프라임타임_에미상 "wikilink") ‘뛰어난 단편 애니메이션 프로그램’의 후보에 올랐지만, 수상에는 실패했다.
+
+## 줄거리
+
+핀이 마르셀린의 노래 녹음을 도와주러 마르셀린의 집에 방문한다. 마르셀린은 노래(〈The Fry Song〉)를 부르기 시작하고, 자신과 아빠인 헌슨 애버디어 사이에 대해 불편한 감정을 드러낸다. 노래를 들은 핀은 밤의 영역에서 마르셀린의 아빠를 불러오고, 그가 영혼을 빨아들이는 능력을 가진 밤의 영역의 지도자라는 사실을 깨닫게 된다. 애버디어는 핀의 영혼을 흡수하려다 실패하고, 대신 마르셀린의 기타를 가져간다.
+
+마르셀린의 아빠는 우 랜드를 돌아다니며 생명체의 영혼을 보는 족족 빨아들인다. 핀과 마르셀린은 그를 잡기 위해 큰 돌을 떨어뜨려 맞추려 하지만, 실패하고 오히려 화만 돋우게 만든다. 기타를 되돌려 받기를 원하는 마르셀린과 달리 애버디어는 마르셀린이 밤의 영역을 차지하기 위해 자신을 죽이려 한다고 오해한다.
+
+얼음대왕의 펭귄들의 영혼을 빨아들인 애버디어는 거인의 크기가 된다. 핀이 애버디어를 공격하다 마르셀린의 기타를 되찾고, 자신에 대해 이해를 해주지 않는 아빠에 화가 난 마르셀린은 자리를 뜨려고 한다. 그 때 핀이 〈The Fry Song〉의 녹음 테이프를 재생하고, 애버디어는 마르셀린이 화가 난 이유에 대해 알게 된다. 둘은 서로 화해를 하게 되고, 핀은 애버디어가 빨아들인 영혼을 풀어준 뒤 그를 밤의 영역으로 되돌려 보낸다.
+
+## 제작
+
+[섬네일는](https://ko.wikipedia.org/wiki/파일:Ukulele1_HiRes.jpg "wikilink") 〈The Fry Song〉을 [우쿨렐레](https://ko.wikipedia.org/wiki/우쿨렐레 "wikilink")를 이용하여 직접 불렀다.\]\] 〈It Came from the Nightosphere〉는 [애덤 무토와](https://ko.wikipedia.org/wiki/애덤_무토 "wikilink") [리베카 슈거가](../Page/리베카_슈거.md "wikilink") 스토리보드 작가로 참여했으며 메리웨더 윌리엄스, 스티브 리틀, 패트릭 맥헤일, [펜들턴 워드](../Page/펜들턴_워드.md "wikilink"), 쓰롭 만 오만이 각본을 담당했다.\[1\] 이 에피소드는 리베카 슈거가 처음으로 스토리보드를 맡은 편이다. 슈거는 “제작 마지막에는 할 수 있는 모든 괴물 같은 짓을 다 했다.”라고 밝힌 반면 무토는 “중요한 건 중간에 다 끝냈다.(did all the meat in the middle)”라고 말했다.\[2\] 슈거는 농담 삼아 재치 있는 내용은 모두 애덤이 넣었고, 자신은 사실 음담패설이나 폭력적인 것 주로 맡는다고 말했다.\[3\] 스토리보드 제작 도중, 슈거와 무토는 시간에 쫓겨 [제시 모이니한에게](https://ko.wikipedia.org/wiki/제시_모이니한 "wikilink") 마르셀린과 그의 아빠가 싸우는 장면을 만드는 것을 도와달라고 요청했다.\[4\]\[5\] 슈거는 워드의 그림을 보고 핀이 쌍칼을 들고 하늘을 날아 애버디어가 삼킨 영혼들을 풀어주는 장면을 만들었다.\[6\]\[7\] 처음에는 슈거 스스로도 잔인한 장면 때문에 마지막 제작까지 해당 장면이 살아남을지 확신을 하지 못했다.\[8\] 애버디어가 펭귄 건터를 만나는 장면은 [네 번째 시즌](../Page/핀과_제이크의_어드벤처_타임_\(시즌_4\).md "wikilink") 에피소드 〈Reign of Gunters〉 제작에 영향을 주었다.\[9\]
+
+에피소드에 등장한 노래인 〈The Fry Song〉은 워드와 슈거가 함께 작사했다.\[10\]\[11\] 이 노래는 슈거가 작품을 위해 처음 만든 노래이며, 곡의 인기로 《어드벤처 타임》의 팬덤을 모으는데 일조가 되었다.\[12\]\[13\] 첫 곡을 만들 당시 슈거는 [브로드웨이 연극에서](https://ko.wikipedia.org/wiki/브로드웨이_연극 "wikilink") 영감을 얻었고, 완성된 곡 보다는 좀 더 침울한 분위기였다. 워드는 이런 곡에 좀 더 재미를 넣는 것을 도와주웠다.\[14\] 해당 에피소드에 대한 허가를 카툰 네트워크에서 받을 때 워드는 [비트박스](https://ko.wikipedia.org/wiki/비트박스 "wikilink")를, 슈거는 [우쿨렐레](https://ko.wikipedia.org/wiki/우쿨렐레 "wikilink")를 이용하여 〈The Fry Song〉을 직접 불렀다. 방송국에서는 긍정적인 반응을 보였지만, 슈거는 후에 그 경험이 “정말로 겁이 났었다.”라고 표현했다.\[15\] 이 에피소드는 시즌 2 에피소드 중 세 번째로 제작이 시작되었지만 실제 방영은 첫 번째로 이루어졌다. 그래서 시즌 2 방영이 시작할 무렵에도 에피소드 제작이 완료되지 않았었다. 프레드레이터의 공식 사이트에서 에릭 호만(Eric Homan)은 “시즌 2로 넘어가기 전에 몇 개의 에피소드를 사전에 미리 제작을 하기를 원했지만, 나는 관여할 수 없는 일이었다.”라고 말했다.\[16\] 또한 어린이에게는 다소 부적절한 내용 때문에 시청자들에게 겁을 주지 않을까 스스로 우려했었다고 밝혔다.\[17\]
+
+마르셀린의 성우 올리비아 올슨의 아빠인 [마틴 올슨은](https://ko.wikipedia.org/wiki/마틴_올슨 "wikilink") 극중에서 마르셀린의 아빠인 헌슨 애버디어 역할을 맡았다.\[18\]\[19\]\[20\] 성우 캐스팅을 시작한 지 1년 뒤, 워드는 올슨에게 작품에 참여할 의향을 물어보았다. 올슨은 자신이 작가라는 이유로 성우 역할은 맞지 않을 것이라며 거절했지만, 지속적인 워드의 권유에 성우로 작품에 참여하게 되었다. 올슨은 자신의 딸과 죽음을 가지고 사투하는 장면을 녹음을 해서 재미있었다고 밝혔다.\[21\] 올리비아 올슨은 자신의 아빠와 더빙을 한 경험이 ‘꽤 멋졌다.’라고 말했다.\[22\] 마틴 올슨은 [세 번째 시즌](../Page/핀과_제이크의_어드벤처_타임_\(시즌_3\).md "wikilink") 〈Memory of a Memory〉에서 카메오로 다시 참여했으며, [네 번째 시즌의](../Page/핀과_제이크의_어드벤처_타임_\(시즌_4\).md "wikilink") 2부작 에피소드인 〈Return to the Nightosphere〉와 〈Daddy's Little Monster〉에서 중심 인물 역할을 다시 맡는다.\[23\]\[24\]</ref>
+
+애버디어의 괴물 디자인은 방송국 심의 관리 부서와 마찰을 불러일으킨다. 초기 괴물 디자인이 [성기](https://ko.wikipedia.org/wiki/성기 "wikilink")의 모양을 연상케 한다는 지적이 있었고, 이로 인해 여러 번 디자인을 수정해야 했다.\[25\] 워드는 후에 “‘단지 정신 나가고 미친 괴물일 뿐인데 어쩌란 말인가’라고 생각했다.”라고 당시 심경을 밝혔다.\[26\] 〈It Came from the Nightosphere〉에서는 애버디어의 이름이 밝혀지지 않으며, 단순히 ‘마르셀린의 아빠’라는 사실만 밝혀진다. 전체 이름은 네 번째 시즌 2부작 에피소드에서 밝혀진다.\[27\]\[28\]
+
+## 반응
+
+〈It Came from the Nightosphere〉는 2010년 10월 11일 첫 방영되었다. [닐슨 시청률에](https://ko.wikipedia.org/wiki/닐슨_시청률 "wikilink") 따르면 2백만 1천 명의 시청자 수를 기록했으며, 전체 TV 시청 가구의 1.3%, 방영 당시 TV를 시청하고 있던 가구 중에서는 2%가 이 에피소드를 보았다.\[29\] 이는 250만 명이 시청한 첫 시즌 첫 에피소드에 비하면 감소한 수치지만, 177만 명을 기록한 첫 시즌 마지막 편과 비교했을 때는 증가하였다.\[30\]\[31\] 〈It Came from the Nightosphere〉는 동일한 시간대의 이전 해 방영 프로그램보다 시청자 수 증가를 보였다. 예를 들어 이전 해에는 6\~11세 연령대에서 732,000명을 기록하였는데, 이에 비해 35% 증가를 보였다.\[32\]
+
+《DVD 토크》(DVD Talk)의 타일러 포스터(Tyler Foster)는 마르셀린과 그의 아빠 사이의 갈등이 다루어지는 방식과 그 도중에 나온 펭귄에 관한 개그가 좋았다고 의견을 밝혔다. 또한 “내 의견으로는 어떤 에피소드에 노래가 들어가던 플러스 요소가 될 것이다.”라고 말했다.\[33\] 《[MTV Geek](https://ko.wikipedia.org/wiki/MTV "wikilink")》의 찰스 웨브(Charles Webb)는 동명의 DVD에 수록된 에피소드 중에서 이 편이 ‘최고의 하이라이트’라고 칭했다.\[34\] [IGN](https://ko.wikipedia.org/wiki/IGN "wikilink")의 작가 매트 파울러(Matt Fowler)는 이 에피소드를 가리켜 ‘명작’(classic)이라는 표현을 사용했다.\[35\] 다른 리뷰에서 파울러는 이 에피소드가 “《어드벤처 타임》의 에피소드 중 최고가 되었고, 마르셀린이 자신의 아빠에 대해 부른 노래와 [프레디 크루거풍의](https://ko.wikipedia.org/wiki/프레디_크루거 "wikilink") 스웨터는 수천 명의 [코스플레이어를](https://ko.wikipedia.org/wiki/코스프레 "wikilink") 만들어냈다.”라고 언급했다.\[36\] 《[스핀](https://ko.wikipedia.org/wiki/스핀_\(잡지\) "wikilink")》에서는 가상의 등장인물이 부른 노래 순위에서 〈The Fry Song〉을 44위에 올렸다.\[37\]
+
+이 에피소드는 2011년 [프라임타임 에미상](https://ko.wikipedia.org/wiki/프라임타임_에미상 "wikilink") ‘뛰어난 단편 애니메이션 프로그램’(Outstanding Short-format Animated Program)의 후보에 올랐지만, 수상에는 실패하였다.\[38\]
+
+## 각주
+
+[분류:2010년 텔레비전 에피소드](https://ko.wikipedia.org/wiki/분류:2010년_텔레비전_에피소드 "wikilink") [분류:핀과 제이크의 어드벤처 타임의 에피소드](https://ko.wikipedia.org/wiki/분류:핀과_제이크의_어드벤처_타임의_에피소드 "wikilink")
+
+1.
+2.
+3.
+4.  [Muto, Adam](https://ko.wikipedia.org/wiki/애덤_무토 "wikilink") (스토리보드 아티스트). 2013. 〈It Came from the Nightosphere〉 \[코멘터리 트랙\], 'Adventure Time' Season Two' \[DVD\], 로스앤젤레스, 카툰 네트워크.
+5.  [Moynihan, Jesse](https://ko.wikipedia.org/wiki/제시_모이니한 "wikilink") (스토리보드 아티스트). 2013. 〈It Came from the Nightosphere〉 \[Commentary track\], 'Adventure Time' Season Two' \[DVD\], 로스앤젤레스, 카툰 네트워크.
+6.
+7.  [Ward, Pendleton](../Page/펜들턴_워드.md "wikilink") (시리즈 제작자). 2013. 〈It Came from the Nightosphere〉 \[코멘터리 트랙\], 'Adventure Time' Season Two' \[DVD\], 로스앤젤레스, 카툰 네트워크.
+8.  [Sugar, Rebecca](../Page/리베카_슈거.md "wikilink") (스토리보드 아티스트). 2013. 〈It Came from the Nightosphere〉 \[코멘터리 트랙\], 'Adventure Time' Season Two' \[DVD\], 로스앤젤레스, 카툰 네트워크.
+9.  [Osborne, Kent](../Page/켄트_오즈본.md "wikilink") (스토리보드 아티스트). 2013. 〈It Came from the Nightosphere〉 \[코멘터리 트랙\], 'Adventure Time' Season Two' \[DVD\], 로스앤젤레스, 카툰 네트워크.
+10.
+11. [Ward, Pendleton](../Page/펜들턴_워드.md "wikilink"), 외. 2014. "Distant Bands: The Music of Adventure Time", 'Adventure Time Season Four' \[DVD\], 로스앤젤레스, 카툰 네트워크.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.

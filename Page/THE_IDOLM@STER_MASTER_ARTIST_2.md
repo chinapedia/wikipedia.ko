@@ -1,0 +1,589 @@
+> This article is converted from Wikipedia: [THE IDOLM@STER MASTER ARTIST 2](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_MASTER_ARTIST_2).
+
+
+**'THE IDOLM@STER MASTER ARTIST 2**' (아이돌마스터 마스터 아티스트 투)는 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [9월 22일부터](https://ko.wikipedia.org/wiki/9월_22일 "wikilink") [일본 컬럼비아에서](../Page/일본_컬럼비아.md "wikilink") 발매된 [앨범](https://ko.wikipedia.org/wiki/컨필레이션_음반 "wikilink") 시리즈.
+
+## 개요
+
+전작으로 호평이었던 '[MASTER ARTIST 시리즈](../Page/THE_IDOLM@STER_MASTER_ARTIST.md "wikilink")'의 '[THE IDOLM@STER 2](../Page/THE_IDOLM@STER_2.md "wikilink")'판.
+
+각 아이돌의 개별 신곡 1곡과 그 가라오케 버전 1곡, 각 아이돌의 개별 커버곡 1곡 (모두 리퀘스트로 선택되었다), 동시 발매의 3명 공통의 커버곡 (이쪽도 리퀘스트로 선택되었다), 기존곡의 리믹스 1곡, 시리즈 공통 신곡 1곡, 토크로부터 구성되어 있다.
+
+공통 커버곡은 캐릭터에 따라서 리믹스가 달라, 동곡을 커버하는 것 외 캐릭터가 백 코러스를 담당하고 있다.
+
+극중 설정에서는, '2'로 프로듀서가 입사하기 전, 솔로 활동으로 별로 팔리고 있지 않은 시기의 아이돌들이 처음으로 낸 솔로 CD라는 것이 되고 있다.
+
+용궁 코마치의 4명의 CD는 '인상이 희미해지기 때문'이라는 이유로 FIRST SEASON과는 동시 발매되지 않고, '2'의 발매 후에 SECOND SEASON으로서 발매되었다.
+
+덧붙여 쟈켓 일러스트는 모두 [안닌도후](../Page/안닌도후.md "wikilink")가 다루고 있다.
+
+CD용 신곡은 굵은 글씨, 커버곡은 이탤릭으로 표기한다.
+
+## Prologue
+
+2010년 9월 22일 발매. 'THE IDOLM@STER 2'의 발매에 앞장 선, 새로운 CD시리즈의 제1탄이다. 토크는 모두 아마미 하루카, 호시이 미키, 하기와라 유키호, 가나하 히비키, 시죠 타카네, 오토나시 코토리.
+
+  - 수록곡
+
+<!-- end list -->
+
+1.  Prologue
+2.  **THE IDOLM@STER 2nd-mix**
+      -
+        가: 아마미 하루카([나카무라 에리코](https://ko.wikipedia.org/wiki/나카무라_에리코 "wikilink")) · 호시이 미키([하세가와 아키코](https://ko.wikipedia.org/wiki/하세가와_아키코 "wikilink")) · 하기와라 유키호([아사쿠라 아즈미](https://ko.wikipedia.org/wiki/아사쿠라_아즈미 "wikilink")) · 가나하 히비키([누마쿠라 마나미](https://ko.wikipedia.org/wiki/누마쿠라_마나미 "wikilink")) · 시죠 타카네([하라 유미](https://ko.wikipedia.org/wiki/하라_유미 "wikilink"))
+        작사: 나카무라 메구미, 작곡: NBGI([사사키 히로시인](https://ko.wikipedia.org/wiki/사사키_히로시인 "wikilink")) , 편곡: [토야마 아키라효](https://ko.wikipedia.org/wiki/토야마_아키라효 "wikilink")
+3.  **단결 2010**
+      -
+        가: IM@S 765 PRO ALLSTARS\[1\]
+        작사: NBGI(이시하라 아키히로), 작곡·편곡: NBGI(사사키 히로시인)
+4.  토크 01
+5.  **빛**
+      -
+        가: 오토나시 코토리([타키타 쥬리](https://ko.wikipedia.org/wiki/타키타_쥬리 "wikilink"))
+        작사: yura, 작곡·편곡: Saeki youthK
+6.  토크 02
+7.  THE IDOLM@STER 2 nd-mix(오리지널 가라오케)
+      -
+        작사: 나카무라 메구미, 작곡: NBGI(사사키 히로시인), 편곡: 토야마 아키라효
+8.  빛(오리지널 가라오케)
+      -
+        작사: yura, 작곡·편곡: Saeki youthK
+
+{{-}}
+
+## FIRST SEASON
+
+### 01 아마미 하루카
+
+2010년 11월 3일 발매. 02 가나하 히비키, 03 호시이 미키와 동시 발매. 토크 게스트는 히비키, 미키.
+
+  - 수록곡
+
+<!-- end list -->
+
+1.  토크 01 -인사-
+2.  **START\!\!**
+      -
+        가: 아마미 하루카(나카무라 에리코)
+        작사: 시로세채, 작곡·편곡: 미야자키 마코토
+3.  태양의 질투(M@STER VERSION)
+      -
+        가: 아마미 하루카(나카무라 에리코)
+        작사: 모리 유리코, 작곡·편곡: NBGI(시이나 고)
+4.  토크 02
+5.  *세계에서 제일 노력하고 있는 너에게*
+      -
+        가: 아마미 하루카(나카무라 에리코)
+        작사: 야마다 에이지, 작곡·편곡: 카와시마 가능, 커버 어레인지: 미우라 세이지
+        오리지널 아티스트: [HARCO](https://ko.wikipedia.org/wiki/HARCO "wikilink")
+6.  토크 03
+7.  ''[Tip Taps Tip](https://ko.wikipedia.org/wiki/교히비키시편_에우레카세분#주제가 "wikilink") (Version Haruka) ''
+      -
+        가: 아마미 하루카(나카무라 에리코)·가나하 히비키(누마쿠라 마나미)·호시이 미키(하세가와 아키코)
+        작사: U, 작곡·편곡: [타나카 유우스케](https://ko.wikipedia.org/wiki/타나카_유우스케 "wikilink") , 커버 어레인지: 하시모토 유카리
+        오리지널 아티스트: [HALCALI](https://ko.wikipedia.org/wiki/HALCALI "wikilink")
+8.  토크 04
+9.  '''MEGARE\!(M@STER VERSION) '''
+      -
+        가: 아마미 하루카(나카무라 에리코)
+        작사: NBGI(mft), 작곡·편곡: NBGI(타카다 류이치)
+10. START\!\! (오리지널 가라오케)
+      -
+        작사: 시로세채, 작곡·편곡: 미야자키 마코토
+11. 토크 05
+
+{{-}}
+
+### 02 가나하 히비키
+
+2010년 11월 3일 발매. 01 아마미 하루카, 03 호시이 미키와 동시 발매. 토크 게스트는 하루카, 미키.
+
+  - 수록곡
+
+<!-- end list -->
+
+1.  **TRIAL DANCE**
+      -
+        가: 가나하 히비키(누마쿠라 마나미)
+        작사: yura, 작곡·편곡: 나카니시 케이조, 편곡: 코니시 타카오
+2.  토크 01 -인사-
+3.  TRIAL DANCE(오리지널 가라오케)
+      -
+        작사: yura, 작곡·편곡: 나카니시 케이조, 편곡: 코니시 타카오
+4.  토크 02
+5.  DREAM
+      -
+        가: 가나하 히비키(누마쿠라 마나미)
+        작사: yura Dark, 작곡·편곡: NBGI(나카가와 코지), 편곡: NBGI(증 후치 유지)
+6.  토크 03
+7.  ''Tip Taps Tip(Version Hibiki) ''
+      -
+        가: 가나하 히비키(누마쿠라 마나미)·아마미 하루카(나카무라 에리코)·호시이 미키(하세가와 아키코)
+        작사: U, 작곡·편곡: 타나카 유우스케, 커버 어레인지: 하시모토 유카리
+        오리지널 아티스트: HALCALI
+8.  토크 04
+9.  ''[눈물 그래그래](https://ko.wikipedia.org/wiki/눈물_그래그래 "wikilink") ''
+      -
+        가: 가나하 히비키(누마쿠라 마나미)
+        작사: [모리야마 요시코](https://ko.wikipedia.org/wiki/모리야마_요시코 "wikilink") , 작곡·편곡: [BEGIN](https://ko.wikipedia.org/wiki/BEGIN_\(밴드\) "wikilink") , 커버 어레인지: 미우라 세이지
+        오리지널 아티스트: 모리야마 요시코
+10. 토크 05
+11. '''MEGARE\!(M@STER VERSION) '''
+      -
+        가: 가나하 히비키(누마쿠라 마나미)
+        작사: NBGI(mft), 작곡·편곡: NBGI(타카다 류이치)
+
+{{-}}
+
+### 03 호시이 미키
+
+2010년 11월 3일 발매. 01 아마미 하루카, 02 가나하 히비키와 동시 발매. 토크 게스트는 하루카, 히비키.
+
+  - 수록곡
+
+<!-- end list -->
+
+1.  토크 01 -인사-
+2.  **Day of the future**
+      -
+        가: 호시이 미키(하세가와 아키코)
+        작사: 오미직엽, 작곡·편곡: Tatsh
+3.  후들후들 퓨처 ☆
+      -
+        가: 호시이 미키(하세가와 아키코)
+        작사: 모리 유리코, 작곡·편곡: NBGI(시이나 고)
+4.  ''[Squall](https://ko.wikipedia.org/wiki/Squall_\(마츠모토_에이코의_곡\) "wikilink") ''
+      -
+        가: 호시이 미키(하세가와 아키코)
+        작사·작곡·편곡: [후쿠야마 마사하루](https://ko.wikipedia.org/wiki/후쿠야마_마사하루 "wikilink") , 커버 어레인지: 나카무라 히사시
+        오리지널 아티스트: [마츠모토 에이코](https://ko.wikipedia.org/wiki/마츠모토_에이코 "wikilink")
+5.  토크 02
+6.  ''Tip Taps Tip(Version Miki) ''
+      -
+        가: 호시이 미키(하세가와 아키코)·아마미 하루카(나카무라 에리코)·가나하 히비키(누마쿠라 마나미)
+        작사: U, 작곡·편곡: 타나카 유우스케, 커버 어레인지: 하시모토 유카리
+        오리지널 아티스트: HALCALI
+7.  토크 03
+8.  '''MEGARE\!(M@STER VERSION) '''
+      -
+        가: 호시이 미키(하세가와 아키코)
+        작사: NBGI(mft), 작곡·편곡: NBGI(타카다 류이치)
+9.  토크 04
+10. Day of the future(오리지널 가라오케)
+      -
+        작사: 오미직엽, 작곡·편곡: Tatsh
+
+{{-}}
+
+### 04 키쿠치 마코토
+
+2010년 12월 1일 발매. 06 시죠 타카네과 동시 발매. 토크 게스트는 치하야와 타카네.
+
+  - 수록곡
+
+<!-- end list -->
+
+1.  토크 01 -인사-
+2.  **tear**
+      -
+        가: 키쿠치 마코토([히라타 히로미](https://ko.wikipedia.org/wiki/히라타_히로미 "wikilink"))
+        작사: 카이타 유리코, 작곡·편곡: 나카야마 신두
+3.  토크 02
+4.  자전거
+      -
+        가: 키쿠치 마코토(히라타 히로미)
+        작사: 시로세채, 작곡: 이토심 타로
+5.  토크 03
+6.  ''[성간 비행](https://ko.wikipedia.org/wiki/성간_비행 "wikilink") ''
+      -
+        가: 키쿠치 마코토(히라타 히로미)
+        작사: [마츠모토 타카시](https://ko.wikipedia.org/wiki/마츠모토_타카시 "wikilink") , 작곡·편곡: [칸노나름 아이](https://ko.wikipedia.org/wiki/칸노나름_아이 "wikilink") , 커버 어레인지: 오오니시 요스케
+        오리지널 아티스트: [란카·리](https://ko.wikipedia.org/wiki/란카·리 "wikilink") = [나카지마 아이](https://ko.wikipedia.org/wiki/나카지마_아이\(성우\) "wikilink")
+7.  토크 04
+8.  ''[별의 파편을 찾으러 가자 again](https://ko.wikipedia.org/wiki/별의_파편을_찾으러_가자_Again "wikilink") (Version Makoto) ''
+      -
+        가: 키쿠치 마코토(히라타 히로미)·키사라기 치하야(이마이 아사미)·시죠 타카네(하라 유미)
+        작사: [쿄코](https://ko.wikipedia.org/wiki/쿄코\(뮤지션\) "wikilink") , 작곡·편곡: 쿄코·바바 카즈요시, 커버 어레인지: 미야자키 마코토
+        오리지널 아티스트: [복이](https://ko.wikipedia.org/wiki/복이\(음악\) "wikilink")
+9.  토크 05
+10. '''MEGARE\!(M@STER VERSION) '''
+      -
+        가: 키쿠치 마코토(히라타 히로미)
+        작사: NBGI(mft), 작곡·편곡: NBGI(타카다 류이치)
+11. tear(오리지널 가라오케)
+      -
+        작사: 카이타 유리코, 작곡·편곡: 나카야마 신두
+
+{{-}}
+
+### 05 키사라기 치하야
+
+2010년 12월 8일 발매. 당초는 12월 1일에 04, 06으로 동시 발매할 예정이었지만, 사정에 의해 연기. 토크 게스트는 마코토와 타카네.
+
+  - 수록곡
+
+<!-- end list -->
+
+1.  토크 01 -인사-
+2.  arcadia
+      -
+        가: 키사라기 치하야(이마이 아사미)
+        작사: 시로세채, 작곡·편곡: 우에마츠범강, 편곡: 나카야마 신두
+3.  ''[사랑에 대해](https://ko.wikipedia.org/wiki/집없는_소년_레미#주제가 "wikilink") ''
+      -
+        가: 키사라기 치하야(이마이 아사미)
+        작사: [사다 마사시](https://ko.wikipedia.org/wiki/사다_마사시 "wikilink") , 작곡·편곡: [핫토리극구](https://ko.wikipedia.org/wiki/핫토리극구 "wikilink") , 커버 어레인지: 마르야마테트오
+        오리지널 아티스트: 사다 마사시
+4.  '''MEGARE\!(M@STER VERSION) '''
+      -
+        가: 키사라기 치하야(이마이 아사미)
+        작사: NBGI(mft), 작곡·편곡: NBGI(타카다 류이치)
+5.  토크 02
+6.  ''별의 파편을 찾으러 가자 again(Version Chihaya) ''
+      -
+        가: 키사라기 치하야(이마이 아사미)·키쿠치 마코토(히라타 히로미)·시죠 타카네(하라 유미)
+        작사: 쿄코, 작곡·편곡: 쿄코·바바 카즈요시, 커버 어레인지: 카와다류하
+        오리지널 아티스트: 복이
+7.  토크 03
+8.  **잠자는 공주**
+      -
+        가: 키사라기 치하야(이마이 아사미)
+        작사: 모리 유리코, 작곡·편곡: NBGI(시이나 고)
+9.  잠자는 공주(오리지널 가라오케)
+      -
+        작사: 모리 유리코, 작곡·편곡: NBGI(시이나 고)
+
+{{-}}
+
+### 06 시죠 타카네
+
+2010년 12월 1일 발매. 04 키쿠치 마코토과 동시 발매. 토크 게스트는 진과 치하야.
+
+  - 수록곡
+
+<!-- end list -->
+
+1.  **흩날리는 눈**
+      -
+        가: 시죠 타카네(하라 유미)
+        작사·작곡·편곡: 하시모토 유카리
+2.  ''[달의 왈츠](https://ko.wikipedia.org/wiki/달의_왈츠 "wikilink") ''
+      -
+        가: 시죠 타카네(하라 유미)
+        작사: [유카와 레이코](https://ko.wikipedia.org/wiki/유카와_레이코 "wikilink") , 작곡·편곡: 간산씨나기, 편곡: 아베 쥰, 커버 어레인지: 미우라 세이지
+        오리지널 아티스트: [이사야마 씨나기](https://ko.wikipedia.org/wiki/이사야마_씨나기 "wikilink")
+3.  THE 사랑
+      -
+        가: 시죠 타카네(하라 유미)
+        작사: yura, 작곡·편곡: 사사키 히로시인
+4.  '''MEGARE\!(M@STER VERSION) '''
+      -
+        가: 시죠 타카네(하라 유미)
+        작사: NBGI(mft), 작곡·편곡: NBGI(타카다 류이치)
+5.  토크 01
+6.  토크 02
+7.  토크 03
+8.  토크 04
+9.  ''별의 파편을 찾으러 가자 again(Version Takane) ''
+      -
+        가: 시죠 타카네(원인미노루)·키쿠치 마코토(히라타 히로미)·키사라기 치하야(이마이 아사미)
+        작사: 쿄코, 작곡·편곡: 쿄코·바바 카즈요시, 커버 어레인지: 사토 야스시장
+10. 흩날리는 눈(오리지널 가라오케)
+      -
+        작사·작곡·편곡: 하시모토 유카리
+
+{{-}}
+
+### 07 하기와라 유키호
+
+2010년 12월 29일 발매. 08 후타미 마미, 09 타카츠키나 좋으면 동시 발매. 토크 게스트는 마미와 야요이.
+
+  - 수록곡
+
+<!-- end list -->
+
+1.  토크 01 -인사-
+2.  **몇 번이고 말할 수 있어**
+      -
+        가: 하기와라 유키호(아사쿠라 아즈미)
+        작사: 엔도 후비트, 작곡·편곡: 카와다류하
+3.  토크 02
+4.  ''[스위트 도넛](https://ko.wikipedia.org/wiki/스위트_도넛 "wikilink") (Version Yukiho) ''
+      -
+        가: 하기와라 유키호(아사쿠라 아즈미)·후타미 마미([시모다 아사미](https://ko.wikipedia.org/wiki/시모다_아사미 "wikilink")) · 타카츠키 야요이([니고 마야코](https://ko.wikipedia.org/wiki/니고_마야코 "wikilink"))
+        작사: 나무의 아이, 작곡·편곡: [나카타 야스타카](https://ko.wikipedia.org/wiki/나카타_야스타카 "wikilink") , 커버 어레인지: 하세가와 토모키
+        오리지널 아티스트: [Perfume](https://ko.wikipedia.org/wiki/Perfume "wikilink")
+5.  토크 03
+6.  LOST
+      -
+        가: 하기와라 유키호(아사쿠라 아즈미)
+        작사: yura-yura Dark, 작곡·편곡: 고사키 사토루
+7.  *사랑*
+      -
+        가: 하기와라 유키호(아사쿠라 아즈미)
+        작사·작곡·편곡: [오쿠 하나코](https://ko.wikipedia.org/wiki/오쿠_하나코 "wikilink") , 커버 어레인지: 마루야마 테츠오
+        오리지널 아티스트: 오쿠 하나코
+8.  토크 04
+9.  '''MEGARE\!(M@STER VERSION) '''
+      -
+        가: 하기와라 유키호(아사쿠라 아즈미)
+        작사: NBGI(mft), 작곡·편곡: NBGI(타카다 류이치)
+10. 몇 번이고 말할 수 있어(오리지널 가라오케)
+      -
+        작사: 엔도 후비트, 작곡·편곡: 카와다류하
+
+{{-}}
+
+### 08 후타미 마미
+
+2010년 12월 29일 발매. 07 하기와라 유키호, 09 타카츠키 야요이 동시 발매. 토크 게스트는 유키호와 야요이.
+
+  - 수록곡
+
+<!-- end list -->
+
+1.  **제이미**
+      -
+        가: 후타미 마미(시모다 아사미)
+        작사: mft, 작곡·편곡: 타무라 신지, 편곡: 매 호리 쥰
+2.  토크 01 -인사-
+3.  여명 스타 라인
+      -
+        가: 후타미 마미(시모다 아사미)
+        작사: NBGI(LindaAI-CUE), 작곡·편곡: NBGI(증 후치 유지)
+4.  토크 02
+5.  ''[꿈 속에](https://ko.wikipedia.org/wiki/꿈_속에 "wikilink") ''
+      -
+        가: 후타미 마미(시모다 아사미)
+        작사·작곡·편곡: [이노우에 요스이](https://ko.wikipedia.org/wiki/이노우에_요스이 "wikilink") , 커버 어레인지: 미우라 세이지
+        오리지널 아티스트: 이노우에 요스이·[사이토 유키](https://ko.wikipedia.org/wiki/사이토_유키 "wikilink")
+6.  토크 03
+7.  스위트 도넛(Version Mami)
+      -
+        가: 후타미 마미(시모다 아사미)·하기와라 유키호(아사쿠라 아즈미)·타카츠키 야요이(니고 마야코)
+        작사: 나무의 아이, 작곡·편곡: 나카타 야스타카, 커버 어레인지: ARM
+        오리지널 아티스트: Perfume
+8.  토크 04
+9.  '''MEGARE\!(M@STER VERSION) '''
+      -
+        가: 후타미 마미(시모다 아사미)
+        작사: NBGI(mft), 작곡·편곡: NBGI(타카다 류이치)
+10. 제이 미(오리지널 가라오케)
+      -
+        작사: mft, 작곡·편곡: 타무라 신지, 편곡: 매 호리 쥰
+
+{{-}}
+
+### 09 타카츠키 야요이
+
+2010년 12월 29일 발매. 07 하기와라 유키호, 08 후타미 마미와 동시 발매. 토크 게스트는 유키호와 마미.
+
+  - 수록곡
+
+<!-- end list -->
+
+1.  토크 01 -인사-
+2.  **스마일 체조**
+      -
+        가: 타카츠키 야요이(니고 마야코)
+        작사: yura, 작곡·편곡: 미야자키 마코토
+3.  키라메키라리
+      -
+        가: 타카츠키 야요이(니고 마야코)
+        작사: yura, 작곡: 고사키 사토루
+4.  스마일 체조(오리지널 가라오케)
+      -
+        작사: yura, 작곡·편곡: 미야자키 마코토
+5.  토크 02
+6.  ''스위트 도넛(Version Yayoi) ''
+      -
+        가: 타카츠키 야요이(니고 마야코)·하기와라 유키호(아사쿠라 아즈미)·후타미 마미(시모다 아사미)
+        작사: 나무의 아이, 작곡·편곡: 나카타 야스타카, 커버 어레인지: 미야자키 마코토
+        오리지널 아티스트: Perfume
+7.  토크 03
+8.  ''[산책](https://ko.wikipedia.org/wiki/이웃의_토토로\(곡\) "wikilink") ''
+      -
+        가: 타카츠키 야요이(니고 마야코)
+        작사: [나카가와리지자](https://ko.wikipedia.org/wiki/나카가와리지자 "wikilink") , 작곡·편곡: [히사이시양](https://ko.wikipedia.org/wiki/히사이시양 "wikilink") , 커버 어레인지: 오쿠다도 물어
+        오리지널 아티스트: [이노우에 아즈미](https://ko.wikipedia.org/wiki/이노우에_아즈미 "wikilink")
+9.  토크 04
+10. '''MEGARE\!(M@STER VERSION) '''
+      -
+        가: 타카츠키 야요이(니고 마야코)
+        작사: NBGI(mft), 작곡·편곡: NBGI(타카다 류이치)
+
+{{-}}
+
+## SECOND SEASON
+
+### 01 미나세 이오리
+
+2011년 5월 25일 발매. 02 후타미 아미와 동시 발매로, 토크 게스트는 아미와 마미.
+
+  - 수록곡
+
+<!-- end list -->
+
+1.  토크 01 -인사-
+2.  '''MEGARE\!(M@STER VERSION) '''
+      -
+        가: 미나세 이오리([쿠기미야 리에](https://ko.wikipedia.org/wiki/쿠기미야_리에 "wikilink"))
+        작사: NBGI(mft), 작곡·편곡: NBGI(타카다 류이치)
+3.  토크 02
+4.  ''[발렌타인 키스](https://ko.wikipedia.org/wiki/발렌타인_키스 "wikilink") ''
+      -
+        가: 미나세 이오리([쿠기미야 리에](https://ko.wikipedia.org/wiki/쿠기미야_리에 "wikilink"))
+        작사: [아키모토 야스시](https://ko.wikipedia.org/wiki/아키모토_야스시 "wikilink") , 작곡·편곡: 뢰정히로아키, 커버 어레인지: 오오니시 요스케
+        오리지널 아티스트: [코쿠쇼 사유리](https://ko.wikipedia.org/wiki/코쿠쇼_사유리 "wikilink") with [오냥코 클럽](https://ko.wikipedia.org/wiki/오냥코_클럽 "wikilink")
+5.  리조라
+      -
+        가: 미나세 이오리(쿠기미야 리에)
+        작사: 시로세채, 작곡·편곡: 야나기다시유
+6.  토크 03
+7.  **DIAMOND**
+      -
+        가: 미나세 이오리(쿠기미야 리에)
+        작사: 시로세채, 작곡·편곡: Asu, 편곡: 세키 쥰지로우
+8.  토크 04 ED
+9.  ''[아\~좋았다](https://ko.wikipedia.org/wiki/아~좋았다 "wikilink") (Version Iori) ''
+      -
+        가: 미나세 이오리(쿠기미야 리에)·후타미 아미(시모다 아사미)
+        작사·작곡·편곡: 고지마 이즈미, 커버 어레인지: 카와다류하
+        오리지널 아티스트: [화\*화](https://ko.wikipedia.org/wiki/화*화 "wikilink")
+10. DIAMOND(오리지널 가라오케)
+      -
+        작사: 시로세채, 작곡·편곡: Asu, 편곡: 세키 쥰지로우
+
+{{-}}
+
+### 02 후타미 아미
+
+2011년 5월 25일 발매. 01 미나세 이오리와 동시 발매로, 토크 게스트는 이오리와 마미.
+
+  - 수록곡
+
+<!-- end list -->
+
+1.  '''YOU왕MY진\! '''
+      -
+        가: 후타미 아미(시모다 아사미)
+        작사: mft, 작곡·편곡: 백호우보, 편곡: [쿠사노좋아 히로](https://ko.wikipedia.org/wiki/쿠사노좋아_히로 "wikilink")
+2.  토크 01 -인사-
+3.  빈틈
+      -
+        가: 후타미 아미(시모다 아사미)
+        작사: 타다노 나츠미, 작곡·편곡: cota
+4.  토크 02
+5.  ''아\~좋았다(Version Ami) ''
+      -
+        가: 후타미 아미(시모다 아사미)·미나세 이오리(쿠기미야 리에)
+        작사·작곡·편곡: 고지마 이즈미, 커버 어레인지: 미야자키 마코토
+        오리지널 아티스트: 화\*화
+6.  토크 03
+7.  ''[추억이 가득](https://ko.wikipedia.org/wiki/추억이_가득 "wikilink") ''
+      -
+        가: 후타미 아미(시모다 아사미)
+        작사: [아기요자](https://ko.wikipedia.org/wiki/아기요자 "wikilink") , 작곡·편곡: [스즈키 키사브로](https://ko.wikipedia.org/wiki/스즈키_키사브로 "wikilink") , 커버 어레인지: 사토 노리치카
+        오리지널 아티스트: [H2O](https://ko.wikipedia.org/wiki/H2O_\(일본의_가수_그룹\) "wikilink")
+8.  토크 04 ED
+9.  '''MEGARE\!(M@STER VERSION) '''
+      -
+        가: 후타미 아미(시모다 아사미)
+        작사: NBGI(mft), 작곡·편곡: NBGI(타카다 류이치)
+10. YOU왕MY진\! (오리지널 가라오케)
+      -
+        작사: mft, 작곡·편곡: 백호우보, 편곡: 쿠사노좋아 히로
+
+{{-}}
+
+### 03 미우라 아즈사
+
+2011년 6월 22일 발매. 04 아키즈키 리츠코와 동시 발매로, 토크 게스트는 리츠코와 히비키.
+
+  - 수록곡
+
+<!-- end list -->
+
+1.  토크 01
+2.  '''MEGARE\!(M@STER VERSION) '''
+      -
+        가: 미우라 아즈사([타나 젓가락 토모아키](https://ko.wikipedia.org/wiki/타나_젓가락_토모아키 "wikilink"))
+        작사: NBGI(mft), 작곡·편곡: NBGI(타카다 류이치)
+3.  토크 02
+4.  *[위스키가, 좋겠죠](https://ko.wikipedia.org/wiki/위스키가,_좋겠죠 "wikilink")*
+      -
+        가: 미우라 아즈사(타나 젓가락 토모아키)
+        작사: 타구치 슌, 작곡·편곡: 스기 마리, 커버 어레인지: 사토 노리치카
+        오리지널 아티스트: [이시카와 사유리](https://ko.wikipedia.org/wiki/이시카와_사유리 "wikilink")
+5.  토크 03
+6.  Mythmaker
+      -
+        가: 미우라 아즈사(타나 젓가락 토모아키)
+        작사: yura, 작곡: 고사키 사토루
+7.  토크 04
+8.  **라♥브♥리♥**
+      -
+        가: 미우라 아즈사(타나 젓가락 토모아키)
+        작사: yura, 작곡·편곡: 마츠다 노부오
+9.  토크 05
+10. ''[Best Friend](https://ko.wikipedia.org/wiki/Best_Friend_\(Kiroro의_곡\) "wikilink") (Version Azusa) ''
+      -
+        가: 미우라 아즈사(타나 젓가락 토모아키)·아키즈키 리츠코([와카바야시 나오미](https://ko.wikipedia.org/wiki/와카바야시_나오미 "wikilink"))
+        작사·작곡·편곡: 타마구스쿠 치하루, 커버 어레인지: R·O·N
+        오리지널 아티스트: [Kiroro](https://ko.wikipedia.org/wiki/Kiroro "wikilink")
+11. 라♥브♥리♥(오리지널 가라오케)
+      -
+        작사: yura, 작곡·편곡: 마츠다 노부오
+
+{{-}}
+
+### 04 아키즈키 리츠코
+
+2011년 6월 22일 발매. 03 미우라 아즈사와 동시 발매로, 토크 게스트는 아즈사와 타카네.
+
+  - 수록곡
+
+<!-- end list -->
+
+1.  토크 01
+2.  ''Best Friend(Version Ritsuko) ''
+      -
+        가: 아키즈키 리츠코(와카바야시 나오미)·미우라 아즈사(타나 젓가락 토모아키)
+        작사·작곡·편곡: 타마구스쿠 치하루, 커버 어레인지: 하세가와 토모키
+        오리지널 아티스트: Kiroro
+3.  토크 02
+4.  **LOVE 오더 메이드**
+      -
+        가: 아키즈키 리츠코(와카바야시 나오미)
+        작사: 미우라 세이지, 작곡·편곡: Akiko Noda, 편곡: 하마사키유우지
+5.  ''[하늘빛 데이즈](https://ko.wikipedia.org/wiki/하늘빛_데이즈 "wikilink") ''
+      -
+        가: 아키즈키 리츠코(와카바야시 나오미)
+        작사: meg rock, 작곡·편곡: 사이토 신야, 커버 어레인지: 미우라 세이지
+        오리지널 아티스트: [나카가와 쇼코](https://ko.wikipedia.org/wiki/나카가와_쇼코 "wikilink")
+6.  livE
+      -
+        가: 아키즈키 리츠코(와카바야시 나오미)
+        작사: yura Dark, 작곡: 하시모토 유카리
+7.  토크 03
+8.  '''MEGARE\!(M@STER VERSION) '''
+      -
+        가: 아키즈키 리츠코(와카바야시 나오미)
+        작사: NBGI(mft), 작곡·편곡: NBGI(타카다 류이치)
+9.  LOVE 오더 메이드(오리지널 가라오케)
+      -
+        작사: 미우라 세이지, 작곡·편곡: Akiko Noda, 편곡: 하마사키유우지
+
+{{-}}
+
+## 각주
+
+### 내용주
+
+## 외부 링크
+
+  - [일본 컬럼비아에 의한 소개 페이지](http://columbia.jp/idolmaster/2010/COCX-36509.html)
+
+[MASTER ARTIST 2](https://ko.wikipedia.org/wiki/분류:아이돌마스터의_음악 "wikilink") [분류:2010년 음반](https://ko.wikipedia.org/wiki/분류:2010년_음반 "wikilink") [분류:2011년 음반](https://ko.wikipedia.org/wiki/분류:2011년_음반 "wikilink") [분류:캐릭터 송 음반](https://ko.wikipedia.org/wiki/분류:캐릭터_송_음반 "wikilink")
+
+1.  하루카·미키·치하야·야요이·유키호·마코토·아미/마미·이오리·아즈사·타카네·히비키·리츠코의 13명.

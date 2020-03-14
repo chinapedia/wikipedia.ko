@@ -1,0 +1,148 @@
+> This article is converted from Wikipedia: [DOAJ](https://ko.wikipedia.org/wiki/DOAJ).
+
+
+[스웨덴](https://ko.wikipedia.org/wiki/스웨덴 "wikilink")의 룬드 대학 도서관에서 제공하는 **DOAJ**(Directory of Open Access Journal)는 이용자가 무료로 정기간행물의 모든 내용을 읽고, 다운로드하고, 복사하고, 배포하고, 인쇄할 수 있게 한다. 이 사이트는 공공자금을 받아서 운영한다. 즉 약 50%의 DOAJ 학술지는 APC로 출판비용을 확보하고 있다. APC는 개인연구자의 비용으로 부담하는 경우보다는 연구비나 소속기관의 도서관 예산, 학과의 지원 등을 통해 이루어지는 경우가 많다.\[1\] 이처럼 공유와 협력적 소비 정신이 살아 움직인다. 전 세계 총 8242개의 저널에 실린 논문 905316건을 볼 수 있다. [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")에서 발행되는 1250개의 학술잡지를 공짜로 이용할 수 있으며, [브라질](https://ko.wikipedia.org/wiki/브라질 "wikilink")(774개), [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")(514개), [인도](https://ko.wikipedia.org/wiki/인도 "wikilink")(443개), [스페인](https://ko.wikipedia.org/wiki/스페인 "wikilink")(422개)이 많은 저널을 제공하고 있다. [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")은 106개로 22위에 올라 있고, 우리나라는 42개로 35위에 올라 있다. 저널을 찾는 방법은 간단하다. 저널의 이름, 저널의 ISSN 넘버, 주제, 출판사, 언어, 키워드 등을 넣으면 쉽게 찾을 수 있다. 저널의 분야도 다양하다. [농업](https://ko.wikipedia.org/wiki/농업 "wikilink"), [예술](https://ko.wikipedia.org/wiki/예술 "wikilink"), [생물](https://ko.wikipedia.org/wiki/생물 "wikilink") 및 [생명과학](https://ko.wikipedia.org/wiki/생명과학 "wikilink"), [화학](https://ko.wikipedia.org/wiki/화학 "wikilink"), 지구환경과학 등에서 [철학](https://ko.wikipedia.org/wiki/철학 "wikilink"), [사회과학](https://ko.wikipedia.org/wiki/사회과학 "wikilink"), [언어학](https://ko.wikipedia.org/wiki/언어학 "wikilink"), [역사학](https://ko.wikipedia.org/wiki/역사학 "wikilink")까지 망라되어 있다.\[2\]
+
+## 프로젝트의 배경
+
+자유롭게 액세스 할 수있는 온라인 저널의 증식은 해당 특정 사전 [EPrints](../Page/EPrints.md "wikilink")[1](http://www.eprints.org/) 보관 및 학습 객체의 컬렉션의 개발, 공개 과학 정보 (책, 잡지, 데이터베이스 등)의 기존 형식에 과학적 지식의 귀중한 보충제를 제공한다. 그러나 이러한 귀중한 컬렉션을 개관하기 어려운 사람들을 위해 라이브러리가 제공하는 도서관과 정보 서비스를 통합 할 수 있다. [룬드코펜하겐](https://web.archive.org/web/20130114140654/http://www.lub.lu.se/ncsc2002/)의 학술 커뮤니케이션에 처음 북유럽 회의에서 오픈 액세스 저널의 포괄적인 디렉토리를 만드는 아이디어가 논의되었다. 결론은 글로벌 연구와 교육 커뮤니티를위한 중요한 서비스가 될 것이라는 것이었다. 열린 사회 연구소 (OSI)가 초기 프로젝트 작업을 지원했다. 가능한 기술은 가능한 기존 서비스에서 이러한 자원을 통합하는 라이브러리 세계적으로 허용하는 방식으로 이러한 리소스를 수집하고 구성 할 수 있도록 함으로써 이러한 리소스의 서비스 제공 및 글로벌 연구 및 교육 공동체 모두에게 부가가치를 제공한다.
+
+## 정의
+
+오픈 액세스 저널 : DOAJ \[[http://www.doaj.org/\]는](http://www.doaj.org/%5D는) 접근을 위해 독자와 그 기관이 충전되지 않는 자금 조달 모델을 사용하여 잡지와 같은 오픈 액세스 저널을 정의한다. [BOAI 정의에서](http://www.earlham.edu/~peters/fos/boaifaq.htm#openaccess), "오픈 액세스"가 잡지를 위한 필수이며 "이 기사의 전체 텍스트를 인쇄, 검색 또는 링크를 읽고 다운​​로드, 복사, 배포"하는 사용자 권리를 지원 디렉토리에 포함되어 있다.
+
+  - 품질 관리 : 전표가 포함되도록 피어 리뷰 및 편집, 품질 관리를 행사
+  - 연구 저널 : 학계의 연구 성과 연구와 소개의 주요 결과를 보고 전표.
+  - 정기 간행물 : 연속적 표시 또는 무한적인 표기 등 일반적으로 숫자나 연속적으로 날짜화 하는 각각의 문제는 별도의 다른 것을 포함한다.
+
+## 목표와 범위
+
+DOAJ의 목표는 오픈액세스를 과학적이고 학문적인 저널로 가시적이고 쉽게 사용할 수 있게 증가시키기 위함이다. 그렇게 함으로써 이용자들의 사용과 영향을 장려한다. DOAJ 목표는 모든 오픈액세스를 과학적이고 학문적인 저널로 포괄적으로 커버하기 위함이다. 그 내용을 보장하기 위해서 질적인 통제서비스를 이용한다. 간략히 말해서 DOAJ 목표는 오픈 액세스 저널의 사용자를 위한 1회 stop shop 이 되기 위함이다. \[3\] 이처럼 OSI와 SPARC의 후원으로 오픈액세스 출판물의 가용성을 증대하고 그 영향력을 높이고자 운영되는 것으로서, 2004년 5월 17일 현재 AAPSPharmSci 등 1,090종의 오픈액세스 학술지를 OpenURL 방식으로 무료 제공하고 있다. \[4\]
+
+## 연혁
+
+1994: 미국출판협회에서 디지털자원의 저 작권 보호를 위해 DOI 스팩을 작성하고, CNRI(Corporation for National Research Initiatives)에 개발을 위탁 - 1997: 프랑크푸르트 도서 박람회에서 프로 토타입을 개발 DOI와 오픈액세스를 활용한 학술지의 국제적 이용 활성화 방안 􋹲 4 􋹲 - 1998: 미국출판협회가 국제DOI재단을 설립 - 1999. 10: 과학, 기술, 의학 분야의 출판사 대표들이 프랑크푸르트 도서 박람회에서 개발된 DOI-X에 대해서 시연 - 2000. 1: PILA(Publishers International Linking Association, Inc.) 설립 - 2000. 6: 출판사 간 논문 데이터의 참조링 크를 위해 CrossRef 서비스 개시
+
+## 현황
+
+자유이용 지향의 저널에 대한 목록 및 검색 서비스를 제공하고 있는 Directory of Open Access Journal(DOAJ)에는 2005년 4월 현재 1,543종의 자유이용 지향 저널이 등록되어 있으며 이중 385종의 저널에 대해서는 저널에 실린 기사에 대한 검색이 가능하다. 전체 논문 수는 72,093편에 달하고 있다. \[5\]
+
+## 국내 학술지 오픈액세스 추진방향
+
+발행 학술지가 오픈액세스 학술지임을 국제적으로 알리기 위한 노력으로서 DOAJ 사이트에 등록을 추진한다. DOAJ 등록 추진 방법은 DOAJ 사이트(http://www.doaj.org) 의 Suggest a Journal 메뉴에 가서 학술지 기본정보를 입력함으로써 등록을 하면된다. 그러면 소정의 심사를 거쳐 등록이 된다. 등록이 된 후 학술지 게재논문의 메타데이터를 제공하면 DOAJ를 통해 검색될 수 있다.\[6\]
+
+## 국내 오픈액세스 저널 출판 및 서비스 현황
+
+2011년 8월 기준, 약 7천종의 오픈액세스 저널이 출판 및 서비스 되고 있다. 이 중 우리나라는 36종으로, 세계 랭킹 35위를 기록해 일본의 34% 수준으로 나타났다.\[7\]
+
+## Browse
+
+Browsing 종류\[8\]
+
+  - all journals - 알파벳에 따라서 분류.
+  - new titles - DOAJ에 새로이 추가된 저널 from \~ to(YYYY-MM-DD HH:MM:SS)
+  - by subject - 농업 및 식품 과학, 예술 및 건축, 생물학 및 생명 과학 등으로 분류.
+  - by country - 영국, 브라질, 미국, 이집트, 독일, 이탈리아 등으로 분류.
+  - by license - Attribution, Attribution Share Alike, Attribution No Derivatives, Attribution Non-commercial, Attribution Non-commercial Share Alike, Attribution Non-commercial No Derivatives (by-nc-nd) (630 journals)
+  - by publication charges - 처리 요금 없음, 요금 있음, 조건부 자료 처리 요금, 재처리 요금 없음
+
+## 선택 기준
+
+  - 적용범위\[9\]
+
+<!-- end list -->
+
+1.  제목 : 모든 과학 학술 과목이 포함되어 있다.
+2.  자원 유형 : 전체 텍스트 연구와 검토 논문을 공개하고 과학 학술 정기 간행물이다.
+3.  허용 소스 : 학술, 정부, 상업, 비영리 민간 근원은 모두 사용할 수 있다.
+4.  레벨 : 저널의 대상 그룹은 주로 연구자이어야 한다.
+5.  내용 : 잡지의 주 내용이 연구 논문으로 구성되어야 한다. 모든 콘텐츠는 전체 텍스트에서 사용할 수 있어야한다.
+6.  모든 언어
+
+<!-- end list -->
+
+  - 접근권한
+
+<!-- end list -->
+
+1.  모든 컨텐츠를 자유롭게 사용할 수 있다.
+2.  사용자 등록을 무료로 온라인으로 허용 할 수 있다.
+
+<!-- end list -->
+
+  - 품질
+
+<!-- end list -->
+
+1.  저널이 포함되어 있기 때문에 저널은 편집자, 편집위원회 또는 심사 시스템을 통해 제출 된 논문에서 품질 관리를 해야한다.
+
+<!-- end list -->
+
+  - 개념\[10\]
+
+<!-- end list -->
+
+1.  오픈액세스의 개념에 적합하도록 열람, 다운로드, 복사, 배포, 인쇄, 검색 또는 전문에 대한 링크를 제공하는데 있어서 무료의 원칙이 준수되어야 한다.
+
+<!-- end list -->
+
+  - 저널의 수준 유지
+
+<!-- end list -->
+
+1.  반드시 심사제도(peer-review)가 시행되거나 이에 상응하는 편집진의 수준유지 장치가 있어야 한다.
+
+<!-- end list -->
+
+  - 연구성
+
+<!-- end list -->
+
+1.  저널은 반드시 기초연구를 알리거나 연구성과물을 수록하는 학술지로서의 자격을 갖추어야 한다.
+
+<!-- end list -->
+
+  - 지속성\[11\]
+
+<!-- end list -->
+
+1.  정기적, 지속적으로 간행되어야 한다. 적어도 1년에 1호 이상은 발간되어야 하며 연속적으로 넘버링되어야 한다. 또한 내용적으로 독립적인 논문과 기사를 수록해야 한다.
+
+<!-- end list -->
+
+  - 연속간행물의 성격
+
+<!-- end list -->
+
+1.  반드시 ISSN이 부여되어 있어야 한다.
+
+## Europeana Libraries Project에의 참가
+
+DOAJ는 Europeana Libraries Project에 2010년부터 2012년까지에 참가하였다. DOAJ는 2012년 6월 27일에 타르 투, 에스토니아에서 시작된 포털에 포함되어 있다. 높은 품질의 전문(full text), 우수한 검색 도구와 포털에 무료 온라인 접근을 제공하는 것은 연구자들에게 광범위한 범위의 자료들을 쉽게 찾아 검색, 사용, 재사용하도록 한다. DOAJ의 콘텐츠는 이러한 포털을 통해 더욱 눈에 띄게 되고 전파될 것이다. 웹 사이트에 대한 홍보 비디오는 또한 YouTube [2](https://www.youtube.com/) 채널에서 볼 수 있다.\[12\]
+
+## 동향
+
+스웨덴의 룬드 대학도서관(Lund University Libraries)과 영국의 Infrastructure Services for Open Access, CIC(IS4OA)는 이번에 오픈액세스 저널 디렉토리, Directory of Open Access Journals(DOAJ)의 향후 운영 관리를 새로운 조직으로 전환하기로 합의했다. 룬드 대학도서관은 지금까지의 성장과 향후 수요를 고려하여 앞으로의 DOAJ는 커뮤니티 기반의 운영관리 쪽이 더 적절하다고 판단했다. 이에 IS4OA와 협의를 거듭하여 새로운 조직을 설치하여 운영하기로 합의한 것이다. 룬드 대학도서관과 IS4OA측은 이러한 DOAJ의 운영 전환이 학술 커뮤니티 시스템이 변화를 지속해 나가는데 매우 중요한 자원의 혜택을 줄 수 있을 것이라는 확신을 가지고 있다. 새로운 운영관리에 관한 새로운 계획은 곧 발표될 예정이다.\[13\]
+
+## 참조
+
+<references/>
+
+## 외부 링크
+
+  -
+[분류:메타데이터](https://ko.wikipedia.org/wiki/분류:메타데이터 "wikilink") [분류:오픈 소스](https://ko.wikipedia.org/wiki/분류:오픈_소스 "wikilink")
+
+1.  정경희. 2012. [오픈액세스](https://ko.wikipedia.org/wiki/오픈액세스 "wikilink") 학술지 출판에서 대학도서관의 역할에 대한 고찰. 한국비블리아 23(4) 45-69 1229-2435 KCI.p.61
+2.
+3.
+4.  황혜경,김혜선,최선희. 2004. 오픈액세스기반 지식정보저장소 구축에 관한 연구. 한국비블리아 제15권 제1호. p.94
+5.  황옥경. 2005. 국내 도서관에서의 자유이용(Open Access) 학술 커뮤니케이션 활성화 방안. 정보관리학회지 제22권 제2호. p.265
+6.  정보관리연구 = Journal of information management / v.42 no.4, 2011년, pp.1-21
+7.  ROARMAP(Registry of Open Access Repository Material Archiving Polices)
+8.  <http://www.doaj.org/doaj?func=browse&uiLanguage=en>
+9.
+10. 강은영,장덕현. 2010. 오픈액세스 저널 평가범주 개발동향에 관한 연구.『한국문헌정보학회지』. 44(1):256.
+11. 강은영,장덕현. 2010. 오픈액세스 저널 평가범주 개발동향에 관한 연구.『한국문헌정보학회지』. 44(1):256.
+12.
+13. 2013\. DOAJ 향후 관리 운영을 위한 새로운 조직 계획. KISTI 정보서비스 동향지식 포털

@@ -1,0 +1,9 @@
+> This article is converted from Wikipedia: [AT\&T ](https://ko.wikipedia.org/wiki/AT\&T_).
+
+
+**AT\&T 센터**(AT\&T Center)는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [텍사스주](https://ko.wikipedia.org/wiki/텍사스주 "wikilink") [샌안토니오](https://ko.wikipedia.org/wiki/샌안토니오 "wikilink")에 소재한 실내 경기장이다. 현재 [NBA](https://ko.wikipedia.org/wiki/전미_농구_협회 "wikilink") [샌안토니오 스퍼스](https://ko.wikipedia.org/wiki/샌안토니오_스퍼스 "wikilink"), [AHL](https://ko.wikipedia.org/wiki/아메리칸_하키_리그 "wikilink") [샌안토니오 램페이지의](https://ko.wikipedia.org/wiki/샌안토니오_램페이지 "wikilink") 홈경기장으로 사용되고 있으며, [G 리그](https://ko.wikipedia.org/wiki/NBA_G_리그 "wikilink") [오스틴 스퍼스의](https://ko.wikipedia.org/wiki/오스틴_스퍼스 "wikilink") 제 2홈경기장으로 사용되고 있다. 과거 [WNBA](https://ko.wikipedia.org/wiki/전미_여자_농구_협회 "wikilink") [샌안토니오 스타스의](https://ko.wikipedia.org/wiki/라스베이거스_WNBA_팀 "wikilink") 홈 경기장으로 사용했다.
+
+## 외부 링크
+
+  -
+[분류:2002년 설립](https://ko.wikipedia.org/wiki/분류:2002년_설립 "wikilink") [분류:미국의 실내 경기장](https://ko.wikipedia.org/wiki/분류:미국의_실내_경기장 "wikilink") [분류:미국의 아이스하키 경기장](https://ko.wikipedia.org/wiki/분류:미국의_아이스하키_경기장 "wikilink") [분류:미국의 농구 경기장](https://ko.wikipedia.org/wiki/분류:미국의_농구_경기장 "wikilink") [분류:텍사스주의 스포츠 시설](https://ko.wikipedia.org/wiki/분류:텍사스주의_스포츠_시설 "wikilink") [분류:샌안토니오의 건축물](https://ko.wikipedia.org/wiki/분류:샌안토니오의_건축물 "wikilink") [분류:샌안토니오의 스포츠](https://ko.wikipedia.org/wiki/분류:샌안토니오의_스포츠 "wikilink") [분류:AT\&T](https://ko.wikipedia.org/wiki/분류:AT&T "wikilink") [분류:샌안토니오 스퍼스](https://ko.wikipedia.org/wiki/분류:샌안토니오_스퍼스 "wikilink") [분류:전미 농구 협회 경기장](https://ko.wikipedia.org/wiki/분류:전미_농구_협회_경기장 "wikilink") [분류:전미 여자 농구 협회](https://ko.wikipedia.org/wiki/분류:전미_여자_농구_협회 "wikilink") [분류:아메리칸 하키 리그](https://ko.wikipedia.org/wiki/분류:아메리칸_하키_리그 "wikilink") [분류:2002년 완공된 스포츠 시설](https://ko.wikipedia.org/wiki/분류:2002년_완공된_스포츠_시설 "wikilink")

@@ -1,0 +1,97 @@
+> This article is converted from Wikipedia: [N ](https://ko.wikipedia.org/wiki/N_).
+
+
+《**N을 위하여**》()는 [미나토 카나에의](https://ko.wikipedia.org/wiki/미나토_가나에 "wikilink") [추리 소설이다](https://ko.wikipedia.org/wiki/추리물 "wikilink").
+
+## 줄거리
+
+대학생 스기시타 노조미는 어느 날, 운명적인 만남을 한다. 태풍에 의해 살고 있는 집의 마루 위까지 침수되었고, 같은 아파트에 살고 있는 안도 노조미·니시자키 마사토와 사이가 좋아진 것이다. 노력가인 안도와 소설가 지망인 니시자키. 각각 굴절과 트라우마 그리고 꿈을 품은 세 명은 곧 어느 계획을 세운다.
+
+## 등장인물
+
+주요 등장인물은 모두 〈**N**〉 이니셜이다.
+
+  - 스기시타 노조미
+    22세. K대학 4학년. 청소 회사에서 아르바이트 중.
+  - 나루세 신지
+    22세. T대학 4학년. 프렌치 레스토랑에서 아르바이트 중.
+  - 안도 노조미
+    23세. M상사 영업부 근무.
+  - 니시자키 마사토
+    24세. M대학 4학년. 자칭·작가.
+  - 노구치 타카히로
+    42세. M상사 영업부 과장. 안도의 상사.
+  - 노구치 나오코
+    29세. 타카히로의 아내.
+
+## 서지 정보
+
+**일본**
+
+  - 단행본: 도쿄 소겐샤, 2010년 1월 27일,
+  - 문고본: 후타바 분코(후타바샤), 2014년 8월 15일,
+
+**대한민국**
+
+  - 재인, 2012년 6월 25일,
+
+## 텔레비전 드라마
+
+[TBS](https://ko.wikipedia.org/wiki/도쿄_방송_홀딩스 "wikilink") [계열의](https://ko.wikipedia.org/wiki/재팬_뉴스_네트워크 "wikilink") [금요드라마](https://ko.wikipedia.org/wiki/TBS_금요드라마 "wikilink") 시간대(매주 [금요일](https://ko.wikipedia.org/wiki/금요일 "wikilink") 20:00 \~ 22:54 〈[JST](https://ko.wikipedia.org/wiki/일본_표준시 "wikilink")〉)에서 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [10월 17일부터](https://ko.wikipedia.org/wiki/10월_17일 "wikilink") [12월 19일까지](https://ko.wikipedia.org/wiki/12월_19일 "wikilink") 방송되었다. 주연은 [에이쿠라 나나](https://ko.wikipedia.org/wiki/에이쿠라_나나 "wikilink").
+
+### 캐스트
+
+  - 스기시타 노조미 - [에이쿠라 나나](https://ko.wikipedia.org/wiki/에이쿠라_나나 "wikilink")
+  - 나루세 신지 - [쿠보타 마사타카](../Page/쿠보타_마사타카.md "wikilink")
+  - 안도 노조미 - [카쿠 켄토](https://ko.wikipedia.org/wiki/카쿠_켄토 "wikilink")
+  - 니시자키 마사토 - [코이데 케이스케](https://ko.wikipedia.org/wiki/코이데_케이스케 "wikilink") (소년 시절:와카야마 키라토)
+  - 타카노 나츠에 - 하라 히데코
+  - 미야모토 유키 - 시바모토 유키
+  - 나루세 슈헤이 - 모로 모로오카
+  - 나루세 미즈호 - 미호 준
+  - 스기시타 요스케 - [하야마 쇼노](https://ko.wikipedia.org/wiki/하야마_쇼노 "wikilink")
+  - 스기시타 스스무 - [미츠이시 켄](https://ko.wikipedia.org/wiki/미츠이시_켄 "wikilink")
+  - 스기시타 사나에 - 야마모토 미라이
+  - 노하라 카네후미 - 오리모토 준키치
+  - 노구치 타카히로 - 토쿠이 요시미
+  - 노구치 나오코 - [코니시 마나미](https://ko.wikipedia.org/wiki/코니시_마나미 "wikilink")
+  - 타카노 시게루 - [미우라 토모카즈](https://ko.wikipedia.org/wiki/미우라_토모카즈 "wikilink")
+
+### 스태프
+
+  - 원작 - [미나토 카나에](https://ko.wikipedia.org/wiki/미나토_가나에 "wikilink") 《N을 위하여》
+  - 각본 - 오쿠데라 사토코
+  - 연출 - 츠카하라 아유코, 야마모토 타케요시, 아나미 아키히로
+  - 주제가 - [이에이리 레오](../Page/이에이리_레오.md "wikilink") 〈Silly〉 ([빅터 엔터테인먼트](https://ko.wikipedia.org/wiki/빅터_엔터테인먼트 "wikilink"))
+  - 프로듀스 - 아라이 준코
+  - 제작 저작 - 드리맥스, [TBS](https://ko.wikipedia.org/wiki/도쿄_방송_홀딩스 "wikilink")
+
+### 방송 일자
+
+| 각 화                                                                                                                                        | 방송일           | 부제                               | 연출        | 시청률\[1\]                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------ | ------------- | -------------------------------- | --------- | ----------------------------- |
+| 제1화                                                                                                                                        | 2014년 10월 17일 | 세레브 부부 살인사건…15년 전에 감춰진 비밀        | 츠카하라 아유코  | <span style="color:red">11.8% |
+| 제2화                                                                                                                                        | 10월 24일       | 방화 사건의 수수께끼…용서받을 수 없는 죄의 공유      | 9.3%      |                               |
+| 제3화                                                                                                                                        | 10월 31일       | 반격 개시 무대는 도쿄에\! 운명의 만남           | 9.9%      |                               |
+| 제4화                                                                                                                                        | 11월 7일        | 피해자 N과 만난 날…엇갈리는 두 사람            | 야마모토 타케요시 | 8.4%                          |
+| 제5화                                                                                                                                        | 11월 14일       | 오키나와의 밤 새로운 사랑에서 톱니바퀴가 어긋나기 시작한다 | 10.0%     |                               |
+| 제6화                                                                                                                                        | 11월 21일       | 용서할 수 없는 사랑…죄인들의 슬픈 고백           | 츠카하라 아유코  | <span style="color:blue">5.8% |
+| 제7화                                                                                                                                        | 11월 28일       | 말하는 사건의 비극…일그러진 사랑의 대가           | 야마모토 타케요시 | 8.3%                          |
+| 제8화                                                                                                                                        | 12월 5일        | 엘릴트 남편의 거짓말과 계략…불길에 사라지는 진실      | 아나미 아키히로  | 9.0%                          |
+| 제9화                                                                                                                                        | 12월 12일       | 최종장\~전편\~오늘 밤 사건의 막이 열린다\!       | 야마모토 타케요시 | 8.2%                          |
+| 최종화                                                                                                                                        | 12월 19일       | 밝혀지는 사건의 진실…N들의 미래               | 츠카하라 아유코  | 8.7%                          |
+| 평균 시청률 9.0% (시청률은 [칸토 지구](https://ko.wikipedia.org/wiki/간토_지방 "wikilink")·[비디오 리서치사](https://ko.wikipedia.org/wiki/비디오_리서치 "wikilink") 조사) |               |                                  |           |                               |
+
+  - 첫회는 15분 확대.
+
+## 각주
+
+<references/>
+
+## 외부 링크
+
+  - [N을 위하여 - TBS](http://www.tbs.co.jp/Nnotameni/)
+
+[분류:일본의 추리 소설](https://ko.wikipedia.org/wiki/분류:일본의_추리_소설 "wikilink") [분류:2010년 소설](https://ko.wikipedia.org/wiki/분류:2010년_소설 "wikilink") [분류:2014년 드라마](https://ko.wikipedia.org/wiki/분류:2014년_드라마 "wikilink") [분류:TBS 금요일 10시 드라마](https://ko.wikipedia.org/wiki/분류:TBS_금요일_10시_드라마 "wikilink") [분류:일본의 로맨스 드라마](https://ko.wikipedia.org/wiki/분류:일본의_로맨스_드라마 "wikilink") [분류:대학교를 배경으로 한 드라마](https://ko.wikipedia.org/wiki/분류:대학교를_배경으로_한_드라마 "wikilink") [분류:소설의 텔레비전 프로그램화 작품](https://ko.wikipedia.org/wiki/분류:소설의_텔레비전_프로그램화_작품 "wikilink") [분류:일본의 서스펜스 드라마](https://ko.wikipedia.org/wiki/분류:일본의_서스펜스_드라마 "wikilink") [분류:추리 드라마](https://ko.wikipedia.org/wiki/분류:추리_드라마 "wikilink") [분류:오쿠데라 사토코 각본 작품](https://ko.wikipedia.org/wiki/분류:오쿠데라_사토코_각본_작품 "wikilink")
+
+1.  [N을 위하여](http://www.sponichi.co.jp/entertainment/yomimono/drama/2014/10_12/Nnotameni/index.html) , 스포니치 어넥스, 2014년 12월 22일 열람.

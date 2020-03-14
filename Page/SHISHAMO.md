@@ -1,0 +1,74 @@
+> This article is converted from Wikipedia: [SHISHAMO](https://ko.wikipedia.org/wiki/SHISHAMO).
+
+
+**시샤모**(SHISHAMO)는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 인디 록 밴드이다.
+
+## 역사
+
+2010년 [가나가와현](https://ko.wikipedia.org/wiki/가나가와현 "wikilink")에 소재한 가와사키 종합 과학 고등학교에 재학중이던 동급생 사이인 미야자키 아사코, 마츠모토 아야, 요시카와 미사키 3명의 멤버에 의해 결성되었다. 그룹의 이름은 결성 초기 보컬인 미야자키 아사코의 언니에 의해 지어졌으며, '어감이 귀엽고 한자로 쓰면 귀엽다'는 이유로 선택되었다. 2012년 TEENS ROCK IN HITACHINAKA에서 우수상 및 베스트 보컬상을 수상했다. 2012년 사무소 GOOD CREATORS RECORDS와 계약하고, 10월 출시한 데모 '숙제가 끝나지 않아'는 오리콘 인디즈 차트 7위에 올랐다. 2013년 CD '졸업 작품'을 발매하고 동년 3월 전국 11개소 투어를 실시했다. 동년 11월 13일 데뷔 앨범 'SHISHAMO'를 발표했다. 2014년 5월 단독 투어를 실시하여 10개 공연이 매진되었다. 2014년 10월 1일 싱글 '양산형 남자친구'를 발표했다. \[1\] \[2\]
+
+## 멤버
+
+### 현재 멤버
+
+  - **미야자키 아사코**(宮崎朝子, 1994년 12월 22일\~)
+      - 밴드에서 기타, 보컬을 담당하며 대부분의 곡을 작사·작곡하고 있다.
+      - 오른손잡이다.
+      - 좋아하는 밴드는 더 피스이다.
+      - 좋아하는 것은 핑크색, 인형, 달콤한 음식이다.
+
+<!-- end list -->
+
+  - **마츠오카 아야**(松岡 彩, 1996년 1월 31일\~)
+      - 밴드에서 베이스를 담당하고 있다.
+      - 마츠모토의 탈퇴에 따라 2014년 9월 11일 가입 사실이 발표되었다.
+      - 2014년 8월 31일, 간사이 지역의 록 페스티벌인 러시 볼(RUSH BALL)에서 스태프로 아르바이트를 하던 중 미야자키의 권유에 의해 가입하게 되었다.
+      - 2번째 싱글 《양산형 남자친구(量産型彼氏)》의 뮤직비디오에 출연하였고 밴드 멤버로 본격적으로 활동하기 시작한 것은 오사카 원맨 투어부터다.\[3\]
+      - [오사카부](https://ko.wikipedia.org/wiki/오사카부 "wikilink") 출신이다.
+      - 베이스를 연주할 때를 제외하고는 왼손잡이다.
+
+<!-- end list -->
+
+  - **요시카와 미사키**(吉川美冴貴, 1994년 11월 26일\~)
+      - 밴드에서 드럼을 담당하고 있으며 일부 곡을 작사했다.
+      - 왼손잡이다.
+
+### 전 멤버
+
+  - **마츠모토 아야**(松本 彩, 1994년 8월 14일\~)
+      - 밴드에서 베이스를 담당했다.
+      - 밴드를 결성할 때 20세까지 밴드 멤버로 활동하겠다고 선언했으며, 2014년 8월에 20세가 된 것을 이유로 같은 해 9월 11일 밴드에서 탈퇴했다.
+
+## 작품
+
+  - 졸업작품 : 2013년 11월 13일 발매, 자체제작 앨범 재출시판
+  - SHISHAMO : 2013년 11월 13일 발매, 메이저 데뷔 앨범
+  - 그대와 여름 페스티벌 : 2014년 7월 2일 발매, 3곡 수록된 싱글
+  - 양산형 남자친구 : 2014년 10월 1일 발매, 3곡 수록된 싱글
+  - 열대야 : 2015년 8월 5일, 2곡 수록된 싱글
+  - 그대와 스키장 : 2015년 12월 2일 발매, 2곡 수록된 싱글
+  - 여름의 연인 : 2016년 9월 7일 발매, 2곡 수록된 싱글
+
+## 관련 영상
+
+  - [양산형 남자친구](https://www.youtube.com/watch?v=GgYgruGKuUA)
+  - [그대와 여름 페스티벌](https://www.youtube.com/watch?v=iYlnPnNzYNw)
+  - [가고 싶지 않아](https://www.youtube.com/watch?v=UWAx0AhjNKU)
+  - [가탄고톤](https://www.youtube.com/watch?v=RlnFzL_GRSs)
+  - [나에게 여자친구가 생겼다](https://www.youtube.com/watch?v=bNiLTsDIJg0)
+
+## 관련 사이트
+
+  - [시샤모 밴드 공식 사이트](http://shishamo.biz)
+  - [시샤모 밴드 공식 트위터](https://twitter.com/@SHISHAMO_BAND)
+  - [시샤모 네이버 팬카페](http://cafe.naver.com/shishamo)
+
+## 각주
+
+<references/>
+
+[분류:일본의 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_음악_그룹 "wikilink") [분류:NHK 홍백가합전 출연자](https://ko.wikipedia.org/wiki/분류:NHK_홍백가합전_출연자 "wikilink") [분류:2010년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년_결성된_음악_그룹 "wikilink")
+
+1.  <http://shishamo.biz/profile>
+2.  <https://ko-kr.facebook.com/music.weiv/posts/756006597758978>
+3.  <https://www.youtube.com/watch?v=JanejzsIkr0>

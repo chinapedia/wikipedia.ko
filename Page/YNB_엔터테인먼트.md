@@ -1,0 +1,62 @@
+> This article is converted from Wikipedia: [YNB ](https://ko.wikipedia.org/wiki/YNB_).
+
+
+**YNB 엔터테인먼트**(YNB Entertainment)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 연예기획사다. 공동대표이사는 양승원과 방윤태 사장이었다. 2011년에 설립되어 2018년에 폐업하였다.
+
+## 연혁
+
+[싸이](https://ko.wikipedia.org/wiki/싸이 "wikilink")와 [이정현의](https://ko.wikipedia.org/wiki/이정현_\(1980년\) "wikilink") 매니저 출신이던 방윤태\[1\]는 2011년 8월 10일\[2\] **카바뮤직**을 설립하였다.\[3\] 2012년 2월 3일 **파스타 엔터테인먼트**로, 이어 7월 25일 **YNB 엔터테인먼트**로 상호를 변경하였다.\[4\] 비슷한 시기에 역시 싸이의 매니저 출신인 양승원이 공동대표\[5\]가 되었다.
+
+2013년 4월 첫 번째 아티스트 [40와](https://ko.wikipedia.org/wiki/40_\(가수\) "wikilink") 계약하였고, 이들은 2013년 4월 10일 디지털 싱글 〈April's Spring〉을 발매하였다.
+
+2013년 7월 YNB 엔터테인먼트의 4인조 걸그룹 [베스티](../Page/베스티.md "wikilink")가 데뷔하였다. 베스티는 전 [EXID](https://ko.wikipedia.org/wiki/EXID "wikilink") 멤버 출신인 [혜연](../Page/강혜연.md "wikilink")(전 예명 다미), [해령](../Page/해령_\(가수\).md "wikilink"), [유지와](https://ko.wikipedia.org/wiki/유지_\(가수\) "wikilink") 댄스 실력으로 화제가 된 연습생 [다혜](https://ko.wikipedia.org/wiki/다혜 "wikilink")가 결성한 걸그룹이다.
+
+2014년 8월 세계 최초 모바일 그룹 [노을이](https://ko.wikipedia.org/wiki/노을_\(음악_그룹\) "wikilink") YNB 엔터테인먼트와 계약하였다. 노을은 2015년 1월 계약한 지 5개월 만에 첫 미니 앨범 《보이지 않는 것들》을 발매하였다.
+
+2014년 10월 [K팝스타 3](../Page/K팝스타_3.md "wikilink") 출신인 혼성 듀오 그룹 [알맹](../Page/알맹.md "wikilink")과 계약하였고, 2014년 10월 21일 첫 미니 앨범 《compoSing Of Love》로 데뷔하였다.
+
+2016년 3월 5인조 보이그룹 [크나큰](https://ko.wikipedia.org/wiki/크나큰 "wikilink")이 데뷔하였다.
+
+2017년 9월 5일 베스티의 유지와 다혜가 전속계약을 해지하며 팀에서 탈퇴하였고\[6\], 2018년 10월 혜연이 스타이엔티와 새 전속계약을 맺으면서 베스티는 해체하였다.\[7\] 한편 크나큰은 2018년 9월 10일에 김유진의 탈퇴와 함께, YNB 엔터테인먼트의 지원이 어렵다는 판단 하에 멤버 전원이 전속계약을 해지\[8\]
+
+2018년 4월 18일 사내이사로 양로니가 취임하였으나 2018년 11월 30일 폐업하였다.\[9\] 현재 방윤태는 [오프더레코드 엔터테인먼트에](https://ko.wikipedia.org/wiki/오프더레코드_엔터테인먼트 "wikilink") 있다.
+
+## 과거 소속 연예인
+
+  - [노을](https://ko.wikipedia.org/wiki/노을_\(음악_그룹\) "wikilink")
+  - [40](https://ko.wikipedia.org/wiki/40_\(가수\) "wikilink")
+  - [알맹](../Page/알맹.md "wikilink")
+  - [크나큰](https://ko.wikipedia.org/wiki/크나큰 "wikilink")
+  - [베스티](../Page/베스티.md "wikilink")
+
+## 연도별 배출 아티스트
+
+| 연도                               | 아티스트                                                        | 형태                       | 구성원                | 데뷔연도                                                                                                                                                                   | 풍선색                                                                                                                                                          | 팬클럽 | 리더  |
+| -------------------------------- | ----------------------------------------------------------- | ------------------------ | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | --- | --- |
+| 2013                             | [40](https://ko.wikipedia.org/wiki/40_\(가수\) "wikilink")    | 솔로                       | 40                 | 2011                                                                                                                                                                   | 없음                                                                                                                                                           | 없음  | 없음  |
+| [베스티](../Page/베스티.md "wikilink") | 그룹                                                          | 혜연, 해령                   | 2013               | 베스티니                                                                                                                                                                   | 혜연                                                                                                                                                           |     |     |
+| 2014                             | [알맹](../Page/알맹.md "wikilink")                              | 듀오                       | 최린, 이해용            | 2014                                                                                                                                                                   | 없음                                                                                                                                                           | 이해용 |     |
+| 2015                             | [노을](https://ko.wikipedia.org/wiki/노을_\(음악_그룹\) "wikilink") | 그룹                       | 강균성, 전우성, 이상곤, 나성호 | 2002                                                                                                                                                                   | style= "background:linear-gradient(yellow, orange); " | [노랑](https://ko.wikipedia.org/wiki/노랑 "wikilink"), [주황](https://ko.wikipedia.org/wiki/주황 "wikilink") | 노을빛 | 이상곤 |
+| 2016                             | [크나큰](https://ko.wikipedia.org/wiki/크나큰 "wikilink")         | 김유진, 오희준, 박서함 , 정인성, 김지훈 | 2016               | style= "background:linear-gradient(\#e7bcb6, \#dcdcdc); " |[로즈 골드](https://ko.wikipedia.org/wiki/금색 "wikilink"), [트윙클 실버](https://ko.wikipedia.org/wiki/은색 "wikilink") | 팅커벨                                                                                                                                                          | 김지훈 |     |
+
+## 디스코그래피
+
+## 각주
+
+## 외부 링크
+
+  -
+  -
+  -
+  -
+[분류:대한민국의 연예 기획사](https://ko.wikipedia.org/wiki/분류:대한민국의_연예_기획사 "wikilink") [분류:2011년 설립](https://ko.wikipedia.org/wiki/분류:2011년_설립 "wikilink") [분류:2018년 폐지](https://ko.wikipedia.org/wiki/분류:2018년_폐지 "wikilink")
+
+1.
+2.  [대중문화예술종합정보시스템](https://ent.kocca.kr/UID/CPI/U002/baseSearch.do) 검색결과. 키워드 “와이앤비”. 2019년 7월 8일 검색함.
+3.
+4.
+5.  ['괴물신인' 알맹, 알고보니 싸이 10년 매니저가 키운다](https://news.joins.com/article/16205988), 일간스포츠, 2014년 10월 23일.
+6.
+7.
+8.
+9.

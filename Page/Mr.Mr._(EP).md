@@ -1,0 +1,229 @@
+> This article is converted from Wikipedia: [Mr.Mr. \(EP\)](https://ko.wikipedia.org/wiki/Mr.Mr._\(EP\)).
+
+
+《**Mr.Mr.**》는 대한민국의 걸 그룹 [소녀시대](https://ko.wikipedia.org/wiki/소녀시대 "wikilink")의 네 번째 미니 앨범으로, 2014년 2월 24일 발매되었다. 원래는 2월 19일 온라인을 통해 최초 공개 될 예정이였지만, 뮤직비디오 데이터 파손으로 인해 24일로 연기되었다. 이번 앨범에는 발라드, 댄스 팝, 신스팝, 알앤비 등의 다양한 장르의 여섯곡이 수록되었고, 더 언더독스, 린디 로빈스, 브렌트 패슈키, [켄지](https://ko.wikipedia.org/wiki/켄지 "wikilink") 등이 참여했다.
+
+대부분의 평론가들은 실험성과 대중성 모두 갖췄지만, 전작에 비해 대중성에 중점을 뒀다고 평가했다. 곡 구성에서도 다양한 장르를 시도했다고 평가했는데, 일부에서는 일관성이 없고 앨범 전체 색이 흐릿해졌다고 말했다. 소녀시대는 3월 6일 《[엠 카운트다운](https://ko.wikipedia.org/wiki/엠_카운트다운 "wikilink")》을 통해 처음으로 컴백 무대를 선보인 이후 3월 30일 《[인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink")》까지 약 한 달간 활동을 했다. 음악 방송 이외에도 다양한 예능, 라디오 등에 출연했다.
+
+《Mr.Mr.》는 발매 첫 주 [가온 앨범 차트](https://ko.wikipedia.org/wiki/가온_앨범_차트 "wikilink") 1위에 올랐고, 2014년 8월까지 16만 장의 판매량을 기록하고 있다.\[1\] 미국에서는 3,000장을 팔아 [빌보드 200](https://ko.wikipedia.org/wiki/빌보드_200 "wikilink") 110위에 오르며 K-Pop 앨범으로는 가장 높은 순위라는 기록을 세웠지만, 같은 날 [2NE1](https://ko.wikipedia.org/wiki/2NE1 "wikilink")의 《[CRUSH](https://ko.wikipedia.org/wiki/CRUSH_\(2NE1의_음반\) "wikilink")》가 기록을 갱신했다.
+
+## 배경 및 개발
+
+2013년 10월 소녀시대의 멤버 [태연](https://ko.wikipedia.org/wiki/태연 "wikilink")은 자신의 [인스타그램](https://ko.wikipedia.org/wiki/인스타그램 "wikilink")에 앨범을 준비 중이라고 전했다.\[2\] 2013년 12월 7일 가요계 한 관계자는 소녀시대 새 앨범의 대부분 녹음과 앨범 작업이 끝났다면서 2014년 1월 컴백이 전망되고 있다고 밝혔다.\[3\] 같은 날 《[스포츠서울닷컴](https://ko.wikipedia.org/wiki/스포츠서울닷컴 "wikilink")》에서 새 앨범 컨셉은 남장인 매니시 컨셉이라고 기사를 보도했지만, SM 엔터테인먼트는 사실이 아니라고 말했다.\[4\] 이후 12월 22일 일산 킨텍스 제1 전시장에서 열린 [SMTOWN WEEK - Marchen Fantasy](../Page/SMTOWN_WEEK.md "wikilink") 중 소녀시대는 "이 자리에 와 주신 여러분을 위해 준비한 우리의 진짜 선물이 있다"며 컴백 티저를 공개했다.\[5\] 2014년 1월 16일 열린 제28회 [골든디스크](https://ko.wikipedia.org/wiki/골든디스크 "wikilink")에서 [티파니가](https://ko.wikipedia.org/wiki/티파니_영 "wikilink") "곧 컴백을 할 테니 응원을 해 달라"고 말하면서 컴백을 예고 했고, 소속사에서는 앨범 작업을 하고는 있지만 정확한 시기는 정해지지 않았다고 말했다.\[6\]
+
+[소녀시대](https://ko.wikipedia.org/wiki/소녀시대 "wikilink")는 이번 앨범에서 음악, 퍼포먼스, 스타일 전반적인 부분에 아이디어를 제안, 특히 곡 녹음, 애드립 부분 신경을 많이 썼다.\[7\] [태연](https://ko.wikipedia.org/wiki/태연 "wikilink")은 2014년 2월 12일 SM 더 발라드 Vol. 2 조인트 리사이틀에서 "소녀시대는 항상 앨범에 장르를 다양하게 담는 편이다. 이번 음악도 뭐라고 규정하기 힘들다. 매번 그렇지만 이번에도 여러 가지 시도를 했다"고 말했다.\[8\] [SM 엔터테인먼트는](https://ko.wikipedia.org/wiki/SM_엔터테인먼트 "wikilink") 《[디스패치](https://ko.wikipedia.org/wiki/디스패치 "wikilink")》와의 인터뷰에서 "걸그룹이 섹시전쟁을 펼치고 있지만, 유행을 따르지 않을 것이다. 늘 변화를 추구했던 만큼 이번에도 색다른 콘셉트에 도전한다"고 말하며 섹시 컨셉이 아니라고 밝혔다.\[9\] 타이틀곡 〈Mr.Mr.〉의 작곡가 더 언더독스의 데먼 토마스는 《[빌보드](https://ko.wikipedia.org/wiki/빌보드 "wikilink")》와의 인터뷰에서 "소녀시대는 뮤직비디오나 안무에 있어서 리듬이 제일 중요한 요소라고 생각했다. 그래서 비디오와 안무를 위한 어반한 언더톤이 있으면서, 사람들이 쉽게 따라부를 수 있는 강력한 팝송을 주고 싶었다"고 말했다.\[10\]
+
+## 구성
+
+동명의 타이틀곡이자 첫 번째 수록곡 〈[Mr.Mr.](https://ko.wikipedia.org/wiki/Mr.Mr._\(노래\) "wikilink")〉는 [더 언더독스가](https://ko.wikipedia.org/wiki/더_언더독스 "wikilink") 참여한 알앤비 리듬을 가미한 댄스 음악으로, 유니크한 가사와 중독적인 멜로디가 특징이다.\[11\] 가사적인 부분에서는 소녀시대가 남자에게 강인해지고 당당해지라는 응원의 메시지를 담고 있다.\[12\] 안무는 [질리언 메이어스가](https://ko.wikipedia.org/wiki/질리언_메이어스 "wikilink") 맡았다.\[13\] 두 번째 수록곡 〈Goodbye〉는 린디 로민슨과 브렌트 패쉬키가 합작해 만든 노래로, 전체적으로 기타 선율이 흐르는 서정적인 느낌의 노래이다.\[14\]
+
+세 번째 수록곡 〈유로파 (Europa)〉는 [켄지](https://ko.wikipedia.org/wiki/켄지 "wikilink")가 작사, 작곡, 편곡을 맡은 [신스팝](https://ko.wikipedia.org/wiki/신스팝 "wikilink") 장르의 노래이다.\[15\] 다음 곡 〈Wait a Minute〉은 빈티지한 사운드와 레트로풍의 리듬이 특징인 노래이다.\[16\] 가사는 상대방의 고백을 기다리는 사랑에 빠진 여자의 마음을 표현했다.\[17\] 다섯 번째 수록곡 〈백허그 (Back Hug)〉기타와 피아노의 선율만을 이용한 아날로그적인 미디엄 템포 곡이다.\[18\]\[19\] 〈백허그〉는 이 앨범에서 유일한 발라드풍의 노래이다.\[20\] 마지막 수록곡 〈Soul〉은 빠른 기타 선율과 리드미컬한 보컬을 특징으로 하는 파워풀한 노래이다.\[21\] 가사에는 젊은이들에게 소울을 찾으라는 메시지를 담았다.\[22\] 이 노래는 앨범에 수록하기 전 [블레이드 앤 소울](https://ko.wikipedia.org/wiki/블레이드_앤_소울 "wikilink") 중국 버전 OST로 쓰였던 곡으로, 중국어 노래를 한국어로 번안한 것이다.\[23\]
+
+## 발매 및 프로모션
+
+[260px](https://ko.wikipedia.org/wiki/파일:KOCIS_Korea_Mnet_Girls_Generation_14_\(12986855965\).jpg "wikilink") 2014년 2월 11일 [SM 엔터테인먼트는](https://ko.wikipedia.org/wiki/SM_엔터테인먼트 "wikilink") 2월 19일 타이틀곡 〈Mr.Mr.〉, 2월 24일에는 동명의 《Mr.Mr.》 미니 앨범을 발매하겠다고 밝혔다. 같은 날 [유튜브](https://ko.wikipedia.org/wiki/유튜브 "wikilink") SMTOWN 채널, [페이스북](https://ko.wikipedia.org/wiki/페이스북 "wikilink") SMTOWN 페이지를 통해 〈Mr.Mr.〉 티저를 공개했다.\[24\] 티저 영상은 공개한 지 하루만에 조회수 130만을 넘겼다.\[25\] 19일 온라인 음원과 뮤직비디오를 공개 할 예정이였지만, 뮤직비디오 후반 작업 도중 데이터가 파손되는 사고가 일어나 발매 일정이 연기되었다.\[26\] 2월 14일 [서현은](https://ko.wikipedia.org/wiki/서현_\(가수\) "wikilink") [트위터](https://ko.wikipedia.org/wiki/트위터 "wikilink")에 컴백이 연기되어 미안하다는 글과 함께 손으로 그린 하트 사진을 같이 업로드했다.\[27\] 2월 15일 SM 엔터테인먼트는 스타뉴스과의 인터뷰에서 음반, 뮤비 공개일은 조율하겠다고 밝히며 컴백 프로모션은 예정대로 진행한다고 밝혔다.\[28\] 컴백 프로모션으로 2월 13일 SMTOWN 공식 홈페이지와 페이스북 페이지를 통해 멤버 [태연](https://ko.wikipedia.org/wiki/태연 "wikilink"), [윤아](https://ko.wikipedia.org/wiki/윤아 "wikilink"), [서현](https://ko.wikipedia.org/wiki/서현 "wikilink")의 티저 이미지가 공개되었다.\[29\] 다음 날 14일에는 [제시카](https://ko.wikipedia.org/wiki/제시카_\(가수\) "wikilink"), [써니](https://ko.wikipedia.org/wiki/써니_\(가수\) "wikilink"), [효연](https://ko.wikipedia.org/wiki/효연 "wikilink")의 티저 이미지를,\[30\] 15일에는 [티파니](https://ko.wikipedia.org/wiki/티파니_영 "wikilink"), [유리](https://ko.wikipedia.org/wiki/유리_\(1989년\) "wikilink"), [수영의](https://ko.wikipedia.org/wiki/수영_\(가수\) "wikilink") 이미지를 순차적으로 공개했다.\[31\] 2월 23일에는 일본 [아이튠즈](https://ko.wikipedia.org/wiki/아이튠즈 "wikilink")에서 타이틀곡 〈Mr.Mr.〉를 포함해 일부 수록곡이 유출 되는 사고가 일어났다.\[32\] 다음 날 2월 24일 온라인 사이트를 통해 전곡 음원이 공개된다고 밝히며 발매일을 확정 지었고, 27일에는 오프라인으로 발매 되었다.\[33\]
+
+소녀시대는 원래 2월 20일 [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") 《[엠 카운트다운](https://ko.wikipedia.org/wiki/엠_카운트다운 "wikilink")》을 통해 처음으로 〈Mr.Mr.〉를 선보일 예정이였으나, 뮤직비디오 데이터 파손으로 컴백일이 미뤄졌다.\[34\] 3월 6일 《엠 카운트다운》에서 〈Wait a Minute〉와 〈Mr.Mr.〉를 선보이며 컴백했다.\[35\] 특히 데뷔 이래 최초로 무대에서 남자 백댄서가 등장한다.\[36\] 이어 7일에는 [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 《[뮤직뱅크](https://ko.wikipedia.org/wiki/뮤직뱅크 "wikilink")》,\[37\] 8일에는 [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink") 《[음악중심](https://ko.wikipedia.org/wiki/음악중심 "wikilink")》,\[38\] 9일에는 [SBS](https://ko.wikipedia.org/wiki/SBS "wikilink") 《[인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink")》에서 차례대로 컴백 무대를 펼쳤다.\[39\] 14일에는 《[유희열의 스케치북](https://ko.wikipedia.org/wiki/유희열의_스케치북 "wikilink")》에 출연했다.\[40\] 19일에는 100회 특집 《[쇼 챔피언](https://ko.wikipedia.org/wiki/쇼_챔피언 "wikilink")》에서 〈Mr.Mr.〉 공연을 했다.\[41\] 이후 3월 30일 《인기가요》를 끝으로 공식적인 앨범 활동을 끝냈다.\[42\]
+
+## 평가
+
+대부분의 음악 전문가들은 대중성과 실험성을 모두 갖췄다고 평가했다. 하지만 이전 작품에 비해 실험보다 대중성에 중점을 뒀다는 평이 대다수이다.\[43\]\[44\] 《[엑스포츠뉴스](https://ko.wikipedia.org/wiki/엑스포츠뉴스 "wikilink")》의 한인구는 "큰 시도보다는 안정적이고 완성도를 높이는데 주안점을 뒀다"고 기사를 썼다.\[45\] 《[오마이뉴스](https://ko.wikipedia.org/wiki/오마이뉴스 "wikilink")》의 김상화 역시 "해외 시장을 겨냥했던 전작 'The Boys', 'I Got A Boy' 등은 대중들의 호불호가 갈리는 논란의 대상이 되었다. 그런 비판의 영향 때문이었을까? 일단 새 미니음반의 전반적인 분위기는 낯섦 대신 익숙함이 지배하고 있다"고 리뷰했다.\[46\] 《[10아시아](https://ko.wikipedia.org/wiki/10아시아 "wikilink")》의 권석정은 "수록된 6곡은 예상한대로 상당한 음악적 완성도를 보이고 있다. 예상 외로 소녀시대가 신보에서 음악적인 파격을 보여주지는 않는다. 새 앨범에서 소녀시대는 파격보다는 익숙함을 택했다"고 평했다.\[47\] 《[이즘](https://ko.wikipedia.org/wiki/이즘 "wikilink")》의 김도헌은 "《I got a boy》가 벌려놓은 대중과의 거리를 좁히는 것이 이번 활동 전체의 목표라 해도 과언이 아니다. 음악성과 대중성 양쪽의 균형을 어느 정도 맞췄다고 평가되는 《The Boys》의 방식을 다시 꺼냈다. 과거 방식으로의 회귀는 안정을 가져다준다. 하지만 이것이 멀어진 여론을 다시 돌릴 수 있는지는 의문이다"라고 평가했다.\[48\] 《[뉴시스](https://ko.wikipedia.org/wiki/뉴시스 "wikilink")》의 이재훈은 "Mr.Mr.에서는 대중성에 대한 고민이 묻어난다. 총평하자면, 총 6곡이 실린 이번 앨범은 대중성과 실험성의 시험 무대다"라며 대중성과 실험성 둘 다 갖추고 있다고 리뷰했다.\[49\] 《[스타투데이](https://ko.wikipedia.org/wiki/스타투데이 "wikilink")》의 조우영은 "전작 더 보이즈(2011년 11월)에 이어 또 호불호가 갈렸다. 대신 성향은 반대다. 앞서 더 보이즈가 소녀시대 답지 않은 변화를 시도했다면, 이번 미스터미스터는 너무 대중적이다. 같은 '호불호'라면 변화를 시도한 쪽에 높은 점수를 줄 수밖에 없다"고 평가했다.\[50\] 《[아이돌로지](https://ko.wikipedia.org/wiki/아이돌로지 "wikilink")》에서는 "멜로디의 개별적인 완성도는 어느 때보다 높은 편이지만 〈Soul〉의 기타/드럼의 복고적 조합이나 〈백허그〉, 〈Wait a Minute〉의 어쿠스틱함은 결과적으로 애매한 뒷맛을 남긴다. 결국 파격을 고민하다 절충주의로 궤도변경을 선택한, 변신을 위한 일종의 무난한 숨고르기라고 읽힌다"라고 리뷰했다.\[51\]
+
+《[웨이브](https://ko.wikipedia.org/wiki/웨이브_\(웹진\) "wikilink")》의 미묘는 "곡들의 구성만을 본다면, 제법 복합적이지만 그럼에도 산만하게 느껴지지 않는다. 포화점을 한참 넘긴 여성 아이돌의 세계에서 섹시함만도 귀여움만도 아닌, 혹은 둘 모두를 발전적으로 끌어안고 나가는 ‘아이돌 제3의 길’을 보여주는 음반"이라 했고, 블럭은 "전체적인 컨셉이나 분위기의 측면에서는 일관성을 유지하는 동시에, 개별 곡마다 서로 다른 작곡가를 기용하여 장르의 일부를 조금씩 차용했다"라고 평했다.\[52\] 《[올뮤직](https://ko.wikipedia.org/wiki/올뮤직 "wikilink")》의 헤더 파레스는 "그동안 해왔던 소녀시대의 여러 노래가 수록되었고 음악적 범위를 넓힌 《Mr.Mr.》는 소녀시대의 장점을 강화했다"고 리뷰했다.\[53\] 《[Soompi](https://ko.wikipedia.org/wiki/Soompi "wikilink")》에서는 "이번 앨범이 신나고 중독된다는 것은 인정한다. 여섯 개의 수록곡은 각각 독특한 사운드와 분위기를 가져 흥미롭다. 몇몇 노래는 어쿠스틱한 느낌을 가지고 있는 반면 다른 노래는 일렉트로닉 댄스 사운드를 가지고 있다"고 리뷰했다.\[54\] 《[빌보드 코리아](https://ko.wikipedia.org/wiki/빌보드 "wikilink")》에서는 "여섯 트랙이 담긴 이번 앨범에서 소녀시대는 아이돌과 뮤지션 사이를 오간다. 장르적으로도 다양성을 추구했는데, 이는 앨범 전체의 일관성 측면에는 큰 도움을 주지 못하고 있다. 곡마다의 개성은 뛰어나지만 앨범 전체의 색깔은 약간 흐릿해졌다"고 평가했다.\[55\]
+
+## 상업적 성과
+
+《Mr.Mr.》는 2014년 11주차 [가온 앨범 차트](https://ko.wikipedia.org/wiki/가온_앨범_차트 "wikilink") 1위에 올랐다.\[56\] 2월 동안에만 87,824장을 팔아 2014년 2월 월간 가온 앨범 차트 2위에 올랐다.\[57\] 바로 다음 주에는 9위로 하락했으며,\[58\] 발매 3주차인 2014년 13주차 차트에 16위를 기록했다.\[59\] 2014년 14주차 차트에서는 아웃을 당했다가 15주차 차트에 33위로 재진입했다.\[60\] 《Mr.Mr.》는 3월 동안 70,295장이 팔리면서 누적 판매량 15만 장을 넘겼고, 2014년 3월 월간 가온 앨범 차트에서 1위에 올랐다.\[61\] 앨범은 대한민국에서 2014년 8월까지 161,637장의 판매량을 기록하고 있다.\[62\]
+
+미국에서는 3,000장을 팔아 [빌보드 200](https://ko.wikipedia.org/wiki/빌보드_200 "wikilink") 110위로 데뷔했는데, 이전에 소녀시대-트윙클의 《[Twinkle](https://ko.wikipedia.org/wiki/Twinkle_\(EP\) "wikilink")》이 기록했던 126위를 깨고 K-Pop 앨범으로는 가장 높은 순위를 기록했다.\[63\] 하지만 같은 날 [2NE1](https://ko.wikipedia.org/wiki/2NE1 "wikilink")의 《[CRUSH](https://ko.wikipedia.org/wiki/CRUSH_\(2NE1의_음반\) "wikilink")》가 4,000장으로 빌보드 200 61위에 오르면서 기록을 경신했다.\[64\] 이 외에 빌보드 월드 앨범 차트 3위,\[65\] 탑 히트시커스 차트 1위를 했다.\[66\] 2014년 3월 17일 [오리콘 주간 앨범 차트에는](https://ko.wikipedia.org/wiki/오리콘 "wikilink") 11위에 올랐다.\[67\]
+
+## 트랙리스트
+
+## 크레딧
+
+앨범의 라이너 노트를 참고한 것이다.\[68\]
+
+  - [이그제큐티브 프로듀서](https://ko.wikipedia.org/wiki/이그제큐티브_프로듀서 "wikilink") - SM 엔터테인먼트 CO. Ltd.
+  - [프로듀서](https://ko.wikipedia.org/wiki/음반_프로듀서 "wikilink") - [이수만](https://ko.wikipedia.org/wiki/이수만 "wikilink")
+  - Director of Management - 남소영
+  - Director of Media Planning - 정창환
+
+## 차트
+
+### 주간 차트
+
+<table>
+<thead>
+<tr class="header">
+<th><p>차트 (2014년)</p></th>
+<th><p>최고<br />
+순위</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>대한민국 (<a href="https://ko.wikipedia.org/wiki/가온_앨범_차트" title="wikilink">가온 차트</a>)[69]</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="even">
+<td><p>미국 (<a href="https://ko.wikipedia.org/wiki/빌보드_200" title="wikilink">빌보드 200</a>)[70]</p></td>
+<td><p>110</p></td>
+</tr>
+<tr class="odd">
+<td><p>미국 (<a href="https://ko.wikipedia.org/wiki/빌보드" title="wikilink">빌보드 월드 앨범</a>)[71]</p></td>
+<td><p>3</p></td>
+</tr>
+<tr class="even">
+<td><p>미국 (<a href="https://ko.wikipedia.org/wiki/빌보드" title="wikilink">빌보드 탑 히트시커스</a>)[72]</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="odd">
+<td><p>일본 (<a href="https://ko.wikipedia.org/wiki/오리콘" title="wikilink">오리콘</a>)[73]</p></td>
+<td><p>11</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 월간 차트
+
+<table>
+<thead>
+<tr class="header">
+<th><p>차트 (2014년)</p></th>
+<th><p>최고<br />
+순위</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>대한민국 (<a href="https://ko.wikipedia.org/wiki/가온_앨범_차트" title="wikilink">가온 차트</a>)[74]</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 연간 차트
+
+<table>
+<thead>
+<tr class="header">
+<th><p>차트 (2014년)</p></th>
+<th><p>최고<br />
+순위</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>대한민국 (<a href="https://ko.wikipedia.org/wiki/가온_앨범_차트" title="wikilink">가온 차트</a>)[75]</p></td>
+<td><p>5</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 발매일
+
+| 국가         | 날짜                                                          | 레이블                                                     | 포맷                                                          |
+| ---------- | ----------------------------------------------------------- | ------------------------------------------------------- | ----------------------------------------------------------- |
+| 대한민국\[76\] | 2014년 2월 24일                                                | [KT 뮤직](https://ko.wikipedia.org/wiki/KT_뮤직 "wikilink") | [디지털 다운로드](https://ko.wikipedia.org/wiki/디지털_음원 "wikilink") |
+| 홍콩\[77\]   | [유니버설 뮤직](https://ko.wikipedia.org/wiki/유니버설_뮤직 "wikilink") | [CD](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink")  |                                                             |
+| 대한민국\[78\] | 2014년 2월 27일                                                | KT 뮤직                                                   |                                                             |
+|            |                                                             |                                                         |                                                             |
+
+## 출처
+
+## 외부 링크
+
+  - [소녀시대 공식 홈페이지](http://girlsgeneration.smtown.com/Intro)
+
+[분류:2014년 EP](https://ko.wikipedia.org/wiki/분류:2014년_EP "wikilink") [분류:소녀시대의 EP](https://ko.wikipedia.org/wiki/분류:소녀시대의_EP "wikilink") [분류:가온 앨범 차트 1위 음반](https://ko.wikipedia.org/wiki/분류:가온_앨범_차트_1위_음반 "wikilink") [분류:지니뮤직 음반](https://ko.wikipedia.org/wiki/분류:지니뮤직_음반 "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+40.
+41.
+42.
+43.
+44.
+45.
+46.
+47.
+48.
+49.
+50.
+51.
+52.
+53.
+54.
+55.
+56.
+57.
+58.
+59.
+60.
+61.
+62.
+63.
+64.
+65.
+66.
+67.
+68. 《Mr.Mr.》. [소녀시대](https://ko.wikipedia.org/wiki/소녀시대 "wikilink"). [SM 엔터테인먼트](https://ko.wikipedia.org/wiki/SM_엔터테인먼트 "wikilink"). 2014.
+69.
+70.
+71.
+72.
+73.
+74.
+75.
+76.
+77.
+78.

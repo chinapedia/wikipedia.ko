@@ -1,0 +1,40 @@
+> This article is converted from Wikipedia: [PBY ](https://ko.wikipedia.org/wiki/PBY_).
+
+
+**PBY 카탈리나**(Consolidated PBY Catalina)는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [비행정](https://ko.wikipedia.org/wiki/비행정 "wikilink")이다. 캐나다에서는 **칸소**(Canso)로 불린다. '컨솔리데이티드 에어크래프트'에서 제작한 1930년대와 1940년대에는 [수륙양용기](https://ko.wikipedia.org/wiki/수륙양용기 "wikilink")로 운용되었다.
+
+카탈리나는 [제2차 세계 대전](https://ko.wikipedia.org/wiki/제2차_세계_대전 "wikilink") 중 가장 폭넓게 쓰인 수상 비행기였다. 이 기종은 [미국 공군의](https://ko.wikipedia.org/wiki/미국_공군 "wikilink") 전 분과에서 사용되었고, 다른 여러 나라의 공군과 해군에서도 사용되었다.
+
+제2차 세계 대전 동안, PBY는 [대잠수함전](https://ko.wikipedia.org/wiki/대잠수함전 "wikilink"), [초계 폭격](https://ko.wikipedia.org/wiki/초계기 "wikilink"), [호송](https://ko.wikipedia.org/wiki/호송 "wikilink"), [탐색 구조](https://ko.wikipedia.org/wiki/탐색_구조 "wikilink") 임무 (특히 [해상 구조](https://ko.wikipedia.org/wiki/해상_구조 "wikilink")), [화물 항공](https://ko.wikipedia.org/wiki/화물_항공기 "wikilink") 등에 사용되었다. PBY는 가장 다양한 동류의 기종이 존재했고, 1980년대까지는 군사적으로 사용되었다. 첫 비행으로부터 80년 가까이 이르는 2014년에도 카탈리나는 전 세계에서 여전히 공중 소방 임무에서 소방항공기로 사용되고 있다.
+
+## 명칭
+
+'PBY'의 명칭은 1922년 미국 해군 항공기 명칭 체계에 따라 결정되었다. 'PB'는 '초계 폭격기'(Patrol Bomber)를 의미하며, 'Y'는 제조사로 '컨솔리데이티드 에어크레프트'에 배정된 것이다. 다른 제조사에 의해 제작된 미국 해군용 카탈리나는 다른 제조사 코드에 따라 명칭이 배정되어, 카나디안 비커스가 제작한 기종은 **PBV**, 보잉 캐나다의 기종은 **PB2B**(보잉사 기종은 이미 **PBB**였다.), 네이벌 에어크래프트 팩토리는 **PBN**이 되었다. [캐나다 왕립 공군의](../Page/캐나다_왕립_공군.md "wikilink") 기종은 **칸소**(Canso)로 명명되었는데, 이는 [노바스코샤주](https://ko.wikipedia.org/wiki/노바스코샤주 "wikilink")의 도시의 명칭이다. [영국 왕립공군에서는](https://ko.wikipedia.org/wiki/영국_왕립공군 "wikilink") **카탈리나**의 명칭을 사용하였고, 미국 해군은 1942년에 이 명칭을 받아들였다.\[1\] [미국 육군 항공대와](https://ko.wikipedia.org/wiki/미국_육군_항공대 "wikilink") 후일 [미국 공군은](https://ko.wikipedia.org/wiki/미국_공군 "wikilink") **0A-10**의 명칭을 사용했다. 미국 해군의 카탈리나는 태평양에서 일본군에 대항하여 야간 작전에 투입되었고, 전체를 검정색으로 칠했기에 일부에서 가끔은 '검은 고양이'로 불리기도 했다.
+
+## 설계
+
+### 배경
+
+원래 PBY는 작전 반경이 길고 적 수송선을 포착, 공격하여 적의 보급선을 차단하는 [초계기](https://ko.wikipedia.org/wiki/초계기 "wikilink")로 설계되었다. 멀리 있는 부대들이 재공급을 요청할 [태평양](https://ko.wikipedia.org/wiki/태평양 "wikilink")에서 충돌이 일어날 가능성이 있기에 [미국 해군은](https://ko.wikipedia.org/wiki/미국_해군 "wikilink") 1930년대에 이러한 용도로 사용될 장거리 비행정 개발을 위해 수백만 달러를 투자하였다. 비행정은 [활주로](https://ko.wikipedia.org/wiki/활주로 "wikilink")가 필요하지 않고 바다 전체를 이용할 수 있는 장점이 있다. 여러 다른 비행정이 해군에서 채택되었으나, PBY는 그중 가장 널리 사용되고 생산되었다.
+
+[오른쪽에](https://ko.wikipedia.org/wiki/파일:PBY_5A_Catalina.jpg "wikilink") 올라탄 PBY.\]\]
+
+느리고 어색하지만 카탈리나는 제2차 세계대전에서 두각을 나타냈다. 연합군은 이들을 전혀 의도하지 않았던 다양한 용도로 성공적으로 사용했다. 카탈리나는 물에 빠진 수천 명의 항공기 승무원을 구한 구조 역할이 유명하다. 카탈리나 승무원들은 그들의 비행기를 전투에서는 '고양이'(Cat)라 불렀고, 해상 구조에서는 '덤보'(Dumbo, 디즈니 만화의 아기 코끼리)라 불렀다.\[2\]
+
+### 개발
+
+1930년대, 미국의 태평양에서의 우세가 일본과의 경쟁에 직면하기 시작하자, 미국 해군은 1933년 10월, 컨솔리데이티드, 마틴, [더글러스와](https://ko.wikipedia.org/wiki/더글러스_에어크래프트 "wikilink") 순찰 비행정의 [시제기를](https://ko.wikipedia.org/wiki/프로토타입 "wikilink") 두고 경쟁할 것을 계약했다.\[3\] 1930년대와 1940년대의 해군의 정책에서 비행정은 현재 다수의 특수 목적의 항공기가 담당하는 다양한 용도에 사용되었다. 1931년 미국 해군은 이허한 역할을 위한 모델로 '컨솔리데이티드 P2Y'와 '마틴 P3M'을 채택하였으나, 두 항공기 모두 동력이 부족했고, 비행 거리와 적재 용량에 제약을 받았다.
+
+컨솔리데이티드와 더글러스는 새로 설계된 단독의 시제기, XP3Y-1과 XP3D-1을 각각 인도하였다. 컨솔리데이티드의 XP3Y-1은 2년 전 P3M의 경쟁에서 졌던 XPY-1과 미 해군이 한정 생산을 인가한 XP2Y의 설계를 발전시킨 것이다. 더글러스의 기종이 우수하긴 했지만 미 해군은 컨솔리데이티드의 기종을 선택하였는데, 이는 예상한 대당 가격이 9만 달러로 저렴했기 때문이다.
+
+## 각주
+
+<references/>
+
+## 외부 링크
+
+[분류:비행정](https://ko.wikipedia.org/wiki/분류:비행정 "wikilink") [분류:수륙양용기](https://ko.wikipedia.org/wiki/분류:수륙양용기 "wikilink") [분류:1935년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1935년_첫_비행한_항공기 "wikilink")
+
+1.  Gunston 1986, p. 63.
+2.  William W. Weathered, 'Comment and Discussion', 《United States Naval Institute Proceedings》, 1968.10.
+3.  Cacutt 1989, p.187\~194.

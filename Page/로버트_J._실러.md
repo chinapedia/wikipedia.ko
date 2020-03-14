@@ -1,0 +1,6 @@
+> This article is converted from Wikipedia: [ J. ](https://ko.wikipedia.org/wiki/_J._).
+
+
+**로버트 제임스 실러**(, 1946년 3월 29일 \~ )는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [경제학자](https://ko.wikipedia.org/wiki/경제학자 "wikilink")로, [예일 대학교의](https://ko.wikipedia.org/wiki/예일_대학교 "wikilink") 교수이다. 2013년 [노벨 경제학상을](https://ko.wikipedia.org/wiki/노벨_경제학상 "wikilink") 수상했다.
+
+[분류:1946년 태어남](https://ko.wikipedia.org/wiki/분류:1946년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:금융경제학자](https://ko.wikipedia.org/wiki/분류:금융경제학자 "wikilink") [분류:미국의 경제학자](https://ko.wikipedia.org/wiki/분류:미국의_경제학자 "wikilink") [분류:미국의 작가](https://ko.wikipedia.org/wiki/분류:미국의_작가 "wikilink") [분류:미국의 노벨상 수상자](https://ko.wikipedia.org/wiki/분류:미국의_노벨상_수상자 "wikilink") [분류:디트로이트 출신](https://ko.wikipedia.org/wiki/분류:디트로이트_출신 "wikilink") [분류:매사추세츠 공과대학교 동문](https://ko.wikipedia.org/wiki/분류:매사추세츠_공과대학교_동문 "wikilink") [분류:미시간 대학교 동문](https://ko.wikipedia.org/wiki/분류:미시간_대학교_동문 "wikilink") [분류:예일 대학교 교수](https://ko.wikipedia.org/wiki/분류:예일_대학교_교수 "wikilink") [분류:리투아니아계 미국인](https://ko.wikipedia.org/wiki/분류:리투아니아계_미국인 "wikilink")

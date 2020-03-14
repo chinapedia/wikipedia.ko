@@ -1,0 +1,58 @@
+> This article is converted from Wikipedia: [SBS ](https://ko.wikipedia.org/wiki/SBS_).
+
+
+**SBS 주말드라마**는 [SBS](https://ko.wikipedia.org/wiki/SBS "wikilink")에서 [토요일](https://ko.wikipedia.org/wiki/토요일 "wikilink") 밤 8시 45분에 방영된 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/텔레비전_드라마 "wikilink").
+
+전신인 《[주말극장](https://ko.wikipedia.org/wiki/SBS_주말극장 "wikilink")》이 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 이후 계속하여 시청률이 심각하게 저조하자 제작비 절감을 이유로 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [3월 15일부터](https://ko.wikipedia.org/wiki/3월_15일 "wikilink") 《[떴다\! 패밀리](https://ko.wikipedia.org/wiki/떴다!_패밀리 "wikilink")》의 끝으로 막을 내리고 《[동상이몽](https://ko.wikipedia.org/wiki/동상이몽,_괜찮아_괜찮아 "wikilink")》, 《[웃찾사](https://ko.wikipedia.org/wiki/웃음을_찾는_사람들 "wikilink")》 등 예능 프로그램으로 대체되었으나 이후 주말드라마는 밤 10시 《[주말 특별기획 드라마](https://ko.wikipedia.org/wiki/SBS_주말_특별기획_드라마 "wikilink")》의 남게 되었으나 [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [2월 13일부터](https://ko.wikipedia.org/wiki/2월_13일 "wikilink") 《[그래, 그런거야](https://ko.wikipedia.org/wiki/그래,_그런거야 "wikilink")》의 시작으로 8시대 주말드라마를 다시 신설했지만 이후 [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [11월 5일부터](https://ko.wikipedia.org/wiki/11월_5일 "wikilink") [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [4월 8일까지](https://ko.wikipedia.org/wiki/4월_8일 "wikilink") 《[우리 갑순이](https://ko.wikipedia.org/wiki/우리_갑순이 "wikilink")》의 개편에 따라 주말 밤 8시 45분부터 방송 시간대를 토요일 2회 연속 방송하는 형식으로 변경되었으나\[1\] 이후 [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [4월 15일부터](https://ko.wikipedia.org/wiki/4월_15일 "wikilink") 주말드라마는 막을 내리고 《[주말 특별기획 드라마](https://ko.wikipedia.org/wiki/SBS_주말_특별기획_드라마 "wikilink")》로 방송 대체되었다.
+
+SBS 가을 개편 이후 프로그램 부분 조정으로 해당 프로그램 방송 전인 [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [11월 6일부터](https://ko.wikipedia.org/wiki/11월_6일 "wikilink") [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [11월 13일까지](https://ko.wikipedia.org/wiki/11월_13일 "wikilink") 같은 달 영화는 《[사도](https://ko.wikipedia.org/wiki/사도_\(영화\) "wikilink")》, 《[암살](https://ko.wikipedia.org/wiki/암살_\(2015년_영화\) "wikilink")》의 개편에 따라 주말 밤 8시 45분부터 방송 시간대를 일요일 2회 연속 방송하는 특별 편성되었으나 이후 [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [11월 20일부터](https://ko.wikipedia.org/wiki/11월_20일 "wikilink") [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [4월 9일까지](https://ko.wikipedia.org/wiki/4월_9일 "wikilink") 《[K팝스타 6 더 라스트 찬스](https://ko.wikipedia.org/wiki/K팝스타_6_더_라스트_찬스 "wikilink")》의 방송 시간대를 일요일 밤 9시 15분에 1부, 2부 분할 방송으로 방영되었으나\[2\] 이후 [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [4월 16일부터](https://ko.wikipedia.org/wiki/4월_16일 "wikilink") 《[미운 우리 새끼](https://ko.wikipedia.org/wiki/미운_우리_새끼 "wikilink")》의 방송 시간대를 일요일 밤 9시 15분에 1부, 2부 분할 방송으로 방영하고 있다.\[3\]
+
+## 방송 시간
+
+<table>
+<thead>
+<tr class="header">
+<th><p>방송 채널</p></th>
+<th><p>방송 기간</p></th>
+<th><p>방송 시간</p></th>
+<th><p>방송 분량</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/SBS_TV" title="wikilink">SBS TV</a></p></td>
+<td><p>2016년 2월 13일 ~ 2016년 10월 30일</p></td>
+<td><p>매주 <a href="https://ko.wikipedia.org/wiki/주말" title="wikilink">주말</a> 밤 8시 45분 ~ 9시 55분</p></td>
+<td><p>1시간 10분</p></td>
+</tr>
+<tr class="even">
+<td><p>2016년 11월 5일 ~ 2017년 4월 8일</p></td>
+<td><p>매주 <a href="https://ko.wikipedia.org/wiki/토요일" title="wikilink">토요일</a> 밤 8시 45분 ~ 11시 5분</p></td>
+<td><p>2시간 20분<br />
+(회당 70분 2회 연속 방송)</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 작품 리스트
+
+  - 《[그래, 그런거야](https://ko.wikipedia.org/wiki/그래,_그런거야 "wikilink")》 : 2016년 2월 13일 \~ 2016년 8월 21일
+  - 《[우리 갑순이](https://ko.wikipedia.org/wiki/우리_갑순이 "wikilink")》 : 2016년 8월 27일 \~ 2017년 4월 8일 (2016년 11월 5일부터 **토요일 2회(회당 70분) 연속 방송**으로 편성 변경)
+
+## 같이 보기
+
+  - [한국방송공사 주말연속극](https://ko.wikipedia.org/wiki/한국방송공사_주말연속극 "wikilink")
+  - [한국방송공사 주말 특별기획 드라마](https://ko.wikipedia.org/wiki/한국방송공사_주말_특별기획_드라마 "wikilink")
+  - [문화방송 주말연속극](https://ko.wikipedia.org/wiki/문화방송_주말연속극 "wikilink")
+  - [문화방송 주말 특별기획 드라마](https://ko.wikipedia.org/wiki/문화방송_주말_특별기획_드라마 "wikilink")
+  - [SBS 주말극장](https://ko.wikipedia.org/wiki/SBS_주말극장 "wikilink")
+  - [SBS 주말 특별기획 드라마](https://ko.wikipedia.org/wiki/SBS_주말_특별기획_드라마 "wikilink")
+
+## 각주
+
+[분류:SBS의 텔레비전 드라마](https://ko.wikipedia.org/wiki/분류:SBS의_텔레비전_드라마 "wikilink") [\*](https://ko.wikipedia.org/wiki/분류:SBS_주말드라마 "wikilink")
+
+1.
+2.
+3.

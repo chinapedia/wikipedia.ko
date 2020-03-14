@@ -1,0 +1,31 @@
+> This article is converted from Wikipedia: [OPPO Find5](https://ko.wikipedia.org/wiki/OPPO_Find5).
+
+
+'''OPPO 파인드5 '''()는 [OPPO](https://ko.wikipedia.org/wiki/OPPO "wikilink")에서 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink")에 출시한 하이엔드 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")이다.
+
+[대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 미출시 폰으로 구매대행으로 사는방법 밖에 없다.\[1\]
+
+## 경쟁 기종
+
+  - [HTC 원](../Page/HTC_원.md "wikilink")
+  - [HTC 버터플라이 S](../Page/HTC_버터플라이_S.md "wikilink")
+  - [LG G2](../Page/LG_G2.md "wikilink")
+  - [샤프 아쿠오스 SHL23](../Page/샤프_아쿠오스_SHL23.md "wikilink")
+  - [삼성 갤럭시 S4](../Page/삼성_갤럭시_S4.md "wikilink")
+  - [화웨이 어센드 D2](../Page/화웨이_어센드_D2.md "wikilink")
+  - [화웨이 어센드 P6](../Page/화웨이_어센드_P6.md "wikilink")
+  - [팬택 베가 시크릿 업](../Page/팬택_베가_시크릿_업.md "wikilink")
+  - [팬택 베가 LTE-A](../Page/팬택_베가_LTE-A.md "wikilink")
+
+## 같이 보기
+
+  - [BBK 일렉트로닉스](https://ko.wikipedia.org/wiki/BBK_일렉트로닉스 "wikilink")
+  - [Vivo](https://ko.wikipedia.org/wiki/Vivo "wikilink")
+
+## 각주
+
+<references/>
+
+[분류:2012년 출시](https://ko.wikipedia.org/wiki/분류:2012년_출시 "wikilink") [분류:안드로이드 장치](https://ko.wikipedia.org/wiki/분류:안드로이드_장치 "wikilink") [OPPO의 스마트폰](https://ko.wikipedia.org/wiki/분류:OPPO의_스마트폰 "wikilink") [OPPO의 휴대 전화기](https://ko.wikipedia.org/wiki/분류:OPPO의_휴대_전화기 "wikilink") [분류:스마트폰](https://ko.wikipedia.org/wiki/분류:스마트폰 "wikilink")
+
+1.

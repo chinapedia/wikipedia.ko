@@ -1,0 +1,141 @@
+> This article is converted from Wikipedia: [  XV](https://ko.wikipedia.org/wiki/__XV).
+
+
+《**파이널 판타지 XV**》(파이널 판타지 15, FINAL FANTASY XV, final fantasy 15, 약칭：**FFXV**、**FF15**)는, [스퀘어 에닉스에서](https://ko.wikipedia.org/wiki/스퀘어_에닉스 "wikilink") 발매한 [플레이스테이션 4](https://ko.wikipedia.org/wiki/플레이스테이션_4 "wikilink"), [엑스박스 원](../Page/엑스박스_원.md "wikilink") 용의 [RPG로](https://ko.wikipedia.org/wiki/컴퓨터_롤플레잉_게임 "wikilink") [파이널 판타지 시리즈](https://ko.wikipedia.org/wiki/파이널_판타지_시리즈 "wikilink")(이하, FF시리즈), 「[파브라 노바 크리스탈리스 파이널 판타지](https://ko.wikipedia.org/wiki/파브라_노바_크리스탈리스_파이널_판타지 "wikilink")」의 하나이다. \< 2016년 [파브라 노바 크리스탈리스 파이널 판타지에서](https://ko.wikipedia.org/wiki/파브라_노바_크리스탈리스_파이널_판타지 "wikilink") 독립된 게임이라고 공식 적인 발언이 있었다.
+
+## 개요
+
+2006년5월에 개최된 [일렉트로닉 엔터테인먼트 엑스포](https://ko.wikipedia.org/wiki/일렉트로닉_엔터테인먼트_엑스포 "wikilink") 2006에서 「[파브라 노바 크리스탈리스 파이널 판타지](https://ko.wikipedia.org/wiki/파브라_노바_크리스탈리스_파이널_판타지 "wikilink")」프로젝트의 중심 타이틀의 하나로서 [PlayStation 3](https://ko.wikipedia.org/wiki/PlayStation_3 "wikilink") 발매를 목표로 **파이널 판타지 베르서스 XIII**라는 타이틀 명을 부여받아 [파이널 판타지 XIII](https://ko.wikipedia.org/wiki/파이널_판타지_XIII "wikilink")(이하, FFXIII)와 파이널 판타지 아기토 XIII(이후에 [파이널 판타지 영식으로](https://ko.wikipedia.org/wiki/파이널_판타지_영식 "wikilink") 타이틀명 변경되 발매. 이하, FF영식)와 더불어 발표되었다.
+
+그 후에 다른 2작품이 무사히 발매되어 『FFXIII』의 속편인『[파이널 판타지 XIII-2](https://ko.wikipedia.org/wiki/파이널_판타지_XIII-2 "wikilink")』도 발매되었으나, 본 작품은 개발 진척에 관해 아무것도 알려지지 않은 상태가 지속되었다\[1\]. 프로젝트 발표로부터 7년 후인2013년 6월에 개최된 [일렉트로닉 엔터테인먼트 엑스포](https://ko.wikipedia.org/wiki/일렉트로닉_엔터테인먼트_엑스포 "wikilink") (2013)의 [SCE의](https://ko.wikipedia.org/wiki/소니_컴퓨터_엔터테인먼트 "wikilink") 프레스 컨퍼런스에서 새로운 넘버링 타이틀 『파이널 판타지XV』로 타이틀 명칭이 변경, 플랫폼을 [플레이스테이션 4와](https://ko.wikipedia.org/wiki/플레이스테이션_4 "wikilink") [엑스박스 원으로](../Page/엑스박스_원.md "wikilink") 변경하겠다고 발표했다\[2\]\[3\].
+
+디렉터인 노무라 테츠야(野村哲也)는 2010년 9월에 트위터에 『VERSUS』는 PS3에 특화되어 제작한다고 코멘트 했었으나\[4\], 타이틀 변경 후인 2013년 6월 인터뷰 기사에서는 「특정한 기종에 특화시키지 않고 DirectX11를 베이스로 오리지널을 개발해, PS4와 Xbox One으로 이식하겠다」고 말한 것에서\[5\] 개발 방침이 크게 변했음을 알 수 있다.
+
+구 타이틀 명인 「Versus」는 「베르서스(방향을 바꾸다)」라고 읽는다. 이 단어는 [라틴어](https://ko.wikipedia.org/wiki/라틴어 "wikilink")라고 발표되었으나 정확한 발음이 아니다\[6\].
+
+본 작품은 외전과 같은 위치가 아니며, 기존의 FF 시리즈 작품의 「인터네셔널 판」이나 혹은,『[파이널 판타지 X](https://ko.wikipedia.org/wiki/파이널_판타지_X "wikilink")』의 『[FFX-2](https://ko.wikipedia.org/wiki/파이널_판타지_X-2 "wikilink")』 등과 같은 속편 관계도 아니다. 『FFXIII』과 『FF영식(零式)』과 같이 각각 보완・독립된 『FFXIII』으로 여겨졌다\[7\]. 『FFXIII』그리고 『FF영식』과는 공통된 신화가 존재하나 시대와 세계관은 다르다.
+
+게임 파트를 『[킹덤 하츠 II](https://ko.wikipedia.org/wiki/킹덤_하츠 "wikilink")』의 스태프가 담당, 무비 파트를 『[파이널 판타지 VII 어드밴트 칠드런](https://ko.wikipedia.org/wiki/:jp:ファイナルファンタジーVII_アドベントチルドレン "wikilink")』의 스태프가 담당한다. 『FFXIII』과 구별하기 위해 비극적이고 슬픈 이야기로 만들어 달라는 의뢰가 있었으나, 수십 시간 플레이해서 마지막에 플레이어를 싫은 기분으로 만들지 않기 위해 고심하고 있다. 주인공의 우정이 스토리의 골격이 되며, 인연을 테마로해 (마음에) 통증을 느낄 수 있는 시나리오로 그려진다. 또한 『FFXIII』에서는 「크리스탈의 신화」가 세계관을 다채롭게하는 조각의 일부에 지나지 않았으나, 본 작품에서는 핵심적 내용이 되었으며, [서사시](https://ko.wikipedia.org/wiki/서사시 "wikilink")적인 작품이 될 것이라 한다. 또한 본 작품의 스토리는 한 작품으로 전부 보여주기 어려울 정도로 장대하기에 시리즈화를 상정하고 있음으로 본 작품만으로는 완결을 맺지 않는다고 한다\[8\].\< 현 디렉터인 타바타씨는 분리된 시리즈로 발매하지 않겠다고 발언한 바 있다.
+
+배틀 시스템은 『[킹덤 하츠 시리즈](https://ko.wikipedia.org/wiki/킹덤_하츠 "wikilink")』처럼 [액션 RPG이다](https://ko.wikipedia.org/wiki/액션_롤플레잉_게임 "wikilink").
+
+## 스토리
+
+세계에 존재하는 최후의 크리스탈을 소유한 루시스 왕국은 군사국가 니플하임(Niflheim)과의 장기간의 냉전 상태에 종지부를 찍으려 평화 협상을 채결하려 하고 있다. 모두가 기쁨에 젖어있을 때, 병기의 사용을 금지하는 루시스의 마법 장벽이 파괴되고 니플하임 군의 공격이 시작된다. 평온한 나날을 보내고 있던 루시스 왕가의 후계자 녹트와 그의 동료들은 돌연 전란 속에 휘말려버리게 된다.
+
+## 등장 인물
+
+  - 녹티스 루시스 첼룸 (Noctis Lucis Caelum)\[9\].
+    [성우](https://ko.wikipedia.org/wiki/성우 "wikilink") - [스즈키 타츠히사](https://ko.wikipedia.org/wiki/:jp:鈴木達央 "wikilink")(鈴木達央)
+    동료들로부터 「녹트」라는 별명으로 불린다.
+    루시스 왕국의 차기 국왕.
+    높은 신체능력을 자랑하며 크리스탈의 힘을 해방하는 것으로 다수의 무기를 자신의 주위로 출현시킬 수가 있다.
+    쿨한 성격은 아니며, 프라이드 높고 자신만만한 성격이나 수줍어할 줄도 안다. 열혈적인 성격은 아니며, 스스로를「강하다」고 굳게 믿으려 하는 평범한 청년
+    왕족으로서의 딱딱함을 싫어하며 자유분방한 언동을 계속해 주위를 질리게 만들기도 한다. 어릴적 경험한 사고에 의해 하늘에서 비추는 "빛"으로 사람의 죽음을 예견하는 눈을 가지게 되었다.
+    강한척 하는 이유는 나라의 모두를 지켜야한다는 생각 때문이며, 모두가 자신을 지키기 위해서 희생하는 모습을 보고 싶지 않기에 동료들이 저지해도 뛰쳐나가 버린다.
+    힘을 해방할 때, 눈동자가 푸른색에서 붉게 변하며, 무기소환과 순간이동이 가능하다.
+    오른손의 반지만이 유일한 장식품.
+
+<!-- end list -->
+
+  - 루나 녹스 플뢰레 (Luna Nox Fleuret)\[10\].
+    [성우](https://ko.wikipedia.org/wiki/성우 "wikilink") - [코시미즈 아미](https://ko.wikipedia.org/wiki/:jp:小清水亜美 "wikilink")(小清水亜美)
+    테네브라에 왕국의 명문 「프루레가」의 영양.
+    좋은 환경에서 살아와서 행동거지가 바르고 곧은 성격에 예의밝다. 하지만 딱딱한 성격인 것은 아니다.
+    겉으로는 양갓집 규수 타입으로 단아해보이지만、겁 먹을 줄 모르는 면도 있다.
+    녹트와 같이 「빛」을 보는 능력이 있다.
+    2015.06월 파이널판타지15 액티브타임레포트에서 "스텔라 녹스 플뢰레"가 시나리오/게임 내에서 삭제되었으며, 여주인공의 자리는 루나프레야 녹스 플뢰레가 되었다고 발표하였다.
+  - 프롬프토 아르젠툼 (Prompto Argentum)
+    [성우](https://ko.wikipedia.org/wiki/성우 "wikilink") - [카키하라 테츠야](https://ko.wikipedia.org/wiki/:jp:柿原徹也 "wikilink")(柿原徹也)
+    녹트의 동료 1인. 밝고 명랑한 성격. 동료들 중에서 무드 메이커 역할을 하고 있다.
+    녹트 일행들과 다르게 특별한 가문 없는 단지 학창시절부터 이어진 허물 없는 친구.
+    마음 속으로는 신분의 차이로 인한 부담감을 안고 있으며, 어릴적부터 알던 사이가 아니라는 것도 마음에 걸리는 모양인지 동료들에게 도움이 되는 존재가 되고 싶다는 기특한 면도 가지고 있다.
+    PV에서 보여준 내용에 한해서 자주 손에 들고 다니는 것으로 유추할 때 샷건과 권총 등의 총기류 무기를 사용하는 듯 하다.
+
+<!-- end list -->
+
+  - 글라디올루스 아미시티아 (Gladiolus Amicitia)
+    [성우](https://ko.wikipedia.org/wiki/성우 "wikilink") - [미야케 켄타](https://ko.wikipedia.org/wiki/:ja:三宅健太 "wikilink")(三宅健太)
+    왕가의 “방패” 역할을 대대로 짊어져온 아미시티아 가(家)의 총령(총 영주)
+    녹트와는 가문을 초월해 어릴적부터 형제처럼 자라왔다.
+    왕가와는 집안 차원의 어울림이 있었기에 신하라기보다는 친한 친구에 가까운 관계.
+    녹트의 동료 중 1인. 자켓을 걸친 남성.
+    성격은 잘 나서는 걸 즐기는 형과 같은 성격.
+
+<!-- end list -->
+
+  - 이그니스 스키엔티아(Ignis Scientia)
+    [성우](https://ko.wikipedia.org/wiki/성우 "wikilink") - [미야노 마모루](https://ko.wikipedia.org/wiki/:jp:宮野真守 "wikilink")(宮野真守)
+    녹트의 동료 중 1인. 키가 크고 안경을 쓴 청년.
+    냉정하고 머리회전이 빠르며 성실한 성격
+    차 운전도 할 줄 아는 듯 하다. 녹트 및 동료들과 리무진으로 이동하는 신에서 운전을 맡고 있다.
+    발도를 떠올리게 하는 격투술을 구사해 적을 쓰러뜨린다.
+    어린 시절부터 녹트의 참모가 되기 위해서 영재교육을 받아왔다.
+    녹트와는 단단한 유대관계로 맺어져 있으며 어릴적부터 친구사이. 서투른 녹트를 커버하며, 녹트가 이런저런 얘기로 상담해오면 친절히 답해주는 이해자.
+
+<!-- end list -->
+
+  - 콜 레오니스(Cor Leonis)
+    [성우](https://ko.wikipedia.org/wiki/성우 "wikilink") - [토우치 히로키](https://ko.wikipedia.org/wiki/:jp:東地宏樹 "wikilink")(東地宏樹)
+    루시스 국왕 친위대장이며 조국과 레기스 왕에 충성을 다하는 강직한 무인. 실력은 루시스 3강에 들 정도로 「불사신 장군」이란 별명을 가지고 있다. 녹트 일행에겐 엄하게 대하기에 거북스런 존재로 취급 받으나, 그들을 지키기 위해 여행에 동행한다.
+
+<!-- end list -->
+
+  - 레기스 113세
+    [성우](https://ko.wikipedia.org/wiki/성우 "wikilink") - [이소베 츠토무](https://ko.wikipedia.org/wiki/:jp:磯部勉 "wikilink")(磯部勉)
+    루시스의 국왕이며 녹트의 아버지.
+
+<!-- end list -->
+
+  - 이도라 엘더캡트
+    [성우](https://ko.wikipedia.org/wiki/성우 "wikilink") - [오가와 신지](https://ko.wikipedia.org/wiki/:jp:小川真司 "wikilink")(小川真司)
+    니플하임의 대표.
+
+## 세계관과 주요 국가
+
+『FFXV』의 주인공이 사는 세계는 현대적인 곳이며, 바깥 세계라고 불리는 이질적인 문화가 주변에 존재하는 세계이다.
+
+  - 루시스(Lucis)
+    녹트의 아버지 레기스가 통치하는 왕국. 이 세계의 최후의 크리스탈을 보유하고 있다. [도쿄](https://ko.wikipedia.org/wiki/도쿄 "wikilink") [신주쿠](https://ko.wikipedia.org/wiki/신주쿠 "wikilink")가 모티브인 인섬니아가 수도이다.
+  - 니플하임(Niflheim)
+    군사 국가로 크리스탈을 뺏기 위해 루시스에 침공한다.
+  - 테네브라에(Tenebrae)
+    여 주인공 루나가 이 왕국 출신이다. 니플헤임의 침공을 받아 니플헤임의 통치를 받게 됐다.
+  - 솔하임(Solheim)
+    오르티시에(altissia)
+    물의 도시. 아코르도의 수도이다.
+
+물이 많아 축복받은 아름다운 나라. [이탈리아](https://ko.wikipedia.org/wiki/이탈리아 "wikilink")의 [베네치아](https://ko.wikipedia.org/wiki/베네치아 "wikilink")가 모티브.
+
+## 스탭
+
+  - 총괄 디렉터 - 타바타 하지메
+  - 캐릭터 디자인 - [노무라 테츠야](https://ko.wikipedia.org/wiki/:jp:野村哲也 "wikilink")(野村哲也)
+  - 무비 디렉터 - 노즈에 타케시(野末武志)
+  - 작곡가 - [시모무라 요우코](https://ko.wikipedia.org/wiki/:jp:下村陽子 "wikilink")(下村陽子)
+  - 프로듀서 - [하시모토 신지](https://ko.wikipedia.org/wiki/:jp:橋本真司 "wikilink")(橋本真司)
+  - 이미지 일러스트레이션 & 타이틀 로고 디자인 - [아마노 요시타카](https://ko.wikipedia.org/wiki/:jp:天野喜孝 "wikilink")(天野喜孝)
+  - 시나리오 - [노지마 카즈시게](https://ko.wikipedia.org/wiki/:jp:野島一成 "wikilink")(野島一成)
+  - 메카닉 컨셉 디자인 - [타케야 타카유키](https://ko.wikipedia.org/wiki/:jp:竹谷隆之 "wikilink")(竹谷隆之)
+
+## 인용 자료
+
+## 외부 링크
+
+  - [FINAL FANTASY XV](http://www.jp.square-enix.com/ff15/)
+
+  -
+  - [FINAL FANTASY Versus XIII (E3 2006특설 페이지)](https://web.archive.org/web/20130617002414/http://www.square-enix.co.jp/e306/titles/fabula/versus/)
+
+[파이널_판타지](https://ko.wikipedia.org/wiki/분류:파이널_판타지 "wikilink") [분류:미디어 믹스](https://ko.wikipedia.org/wiki/분류:미디어_믹스 "wikilink") [분류:엑스박스 원 게임](https://ko.wikipedia.org/wiki/분류:엑스박스_원_게임 "wikilink") [분류:플레이스테이션 4 게임](https://ko.wikipedia.org/wiki/분류:플레이스테이션_4_게임 "wikilink") [분류:취소된 플레이스테이션 3 게임](https://ko.wikipedia.org/wiki/분류:취소된_플레이스테이션_3_게임 "wikilink") [분류:윈도우 게임](https://ko.wikipedia.org/wiki/분류:윈도우_게임 "wikilink")
+
+1.  2012년 7월 24일 스퀘어 에닉스의 와다 요우이치(和田洋一) 사장(당시)이 개발은 계속되고 있다고 Twitter로 밝혔다. [1](https://twitter.com/yoichiw/status/227628674780909568)
+2.
+3.
+4.  [SQEX 제 1 제작부 PR](https://twitter.com/1stPD_PR/status/23862212526)（2010년 9월 8일 - 8:27）
+5.
+6.  고전 라틴어에서는「베르수스」라고 발음하며 영문으로는 「버서스」이다. 베르서스의 경우 양쪽을 섞어 발음한다
+7.
+8.
+9.  이름의 유래는 라틴어로 순서대로 「Noctis（밤의）・Lucis（빛의）・Caelum（하늘）」을 의미한다.
+10. 이름의 「Stella」는 라틴어의 「별」, 마찬가지로 「Nox」는 「밤」에서 유래한다. 「Fleuret」는 프랑스어로 「플뢰레」이다.

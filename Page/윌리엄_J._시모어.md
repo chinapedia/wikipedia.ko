@@ -1,0 +1,81 @@
+> This article is converted from Wikipedia: [ J. ](https://ko.wikipedia.org/wiki/_J._).
+
+
+**윌리엄 조지프 시모어**(William Joseph Seymour, [1870년](https://ko.wikipedia.org/wiki/1870년 "wikilink") [5월 2일](https://ko.wikipedia.org/wiki/5월_2일 "wikilink") \~ [1922년](https://ko.wikipedia.org/wiki/1922년 "wikilink") [9월 28일](https://ko.wikipedia.org/wiki/9월_28일 "wikilink"))는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [목사](https://ko.wikipedia.org/wiki/목사 "wikilink")로 아주사 가 부흥 운동의 지도자이다.\[1\]
+
+시모어는 [찰스 퍼햄](https://ko.wikipedia.org/wiki/찰스_퍼햄 "wikilink"), [하워드 A. 고스와](https://ko.wikipedia.org/wiki/하워드_A._고스 "wikilink") 함께 [오순절운동](https://ko.wikipedia.org/wiki/오순절운동 "wikilink")과 [카리스마 운동을](https://ko.wikipedia.org/wiki/은사주의 "wikilink") 통해 성장한 부흥 운동에서 가장 영향력 있는 사람 중 하나였다.\[2\] 인종 평등의 중요성을 강조한 시모어의 움직임은 역사적 권리를 박탈당했던 많은 사람들로부터 주목을 받았으며 그의 영향력에 힘입어 부흥 운동은 매우 빠르게 성장했다.
+
+## 초기 생애
+
+[루이지애나주](https://ko.wikipedia.org/wiki/루이지애나주 "wikilink") 센터빌에서 태어났다. 그의 부모는 둘다 최근에 해방된 노예들로 사이먼 시모어와 필리스 샐러바이다. 시모어의 유아기와 어린 시절 동안에 그의 가족은 [침례교](https://ko.wikipedia.org/wiki/침례교 "wikilink")와 [가톨릭](https://ko.wikipedia.org/wiki/가톨릭 "wikilink") 교회들과 함께 제휴하였다. 그가 태어난지 4개월 만에 시모어는 루이지애나 주 프랭클린에 있는 성모 승천 교회에서 가톨릭 세례를 받았다.
+
+빈곤에 자라오고, 약간의 정규 교육을 받고 하나님의 전망을 가진 것으로 주장된 것을 제외하고는 그의 초기 생애에 알려진 것이 없다. 청년 시절에 그는 다량으로 여행을 다녔다. [1895년](https://ko.wikipedia.org/wiki/1895년 "wikilink") 25세때 시모어는 [인디애나주](https://ko.wikipedia.org/wiki/인디애나주 "wikilink") [인디애나폴리스](https://ko.wikipedia.org/wiki/인디애나폴리스 "wikilink")로 이주하였다. 평균 이상의 레스토랑과 [호텔](https://ko.wikipedia.org/wiki/호텔 "wikilink")들에서 [웨이터](https://ko.wikipedia.org/wiki/웨이터 "wikilink")로 일하는 동안 그는 우세하게 백인의 [감리교 성공회의](https://ko.wikipedia.org/wiki/감리교_성공회 "wikilink") [아프리카계 미국인](https://ko.wikipedia.org/wiki/아프리카계_미국인 "wikilink") 회중이었던 심슨 예배당 감리교 성공회 교회에 가입하였다.
+
+[1900년](https://ko.wikipedia.org/wiki/1900년 "wikilink") 그는 [오하이오주](https://ko.wikipedia.org/wiki/오하이오주 "wikilink") [신시내티](https://ko.wikipedia.org/wiki/신시내티 "wikilink")로 이주하여 [하나님의 성회](https://ko.wikipedia.org/wiki/하나님의_성회 "wikilink") 만민 구제 운동에 가입하였다. 단체는 신앙의 치유와 [그리스도](https://ko.wikipedia.org/wiki/그리스도 "wikilink")의 절박한 귀환에 믿음, 숭배에서 인종 통합에 의하여 지적될 이벤트 - 자신의 경력을 통하여 가끔 위대한 성공과 함께 시모어가 가져오려고 하던 화해를 포함한 근본적인 교의를 체택한 자라나는 [성결 운동의](https://ko.wikipedia.org/wiki/성결_운동 "wikilink") 일부였다. 단체는 또한 19세기의 [개신교](https://ko.wikipedia.org/wiki/개신교 "wikilink")의 교리로 돌아간 개념인 축성의 교의를 믿기도 하였다. 하지만 그 단체는 그리스도의 수락과 [성령](https://ko.wikipedia.org/wiki/성령 "wikilink")의 세례에 이어 점차적이 아닌 즉시의 개종과 축성을 믿기도 하였다.
+
+## 안수 목사가 되다
+
+신시내티에 사는 동안 시모어는 [천연두](https://ko.wikipedia.org/wiki/천연두 "wikilink")에 걸렸다. 발병은 그가 왼쪽 [눈](https://ko.wikipedia.org/wiki/눈 "wikilink")에 시력을 잃은 원인을 가져왔다. 잠재적으로 치명적인 병으로부터 회복은 그를 전도사가 되는 데 강요하였고 [1902년](https://ko.wikipedia.org/wiki/1902년 "wikilink") 그는 하나님의 성회에서 목사로 안수되었다.
+
+다음 3년 동안 그는 순회 설교자로서 여행을 다니며 [시카고](https://ko.wikipedia.org/wiki/시카고 "wikilink")는 물론 [조지아주](https://ko.wikipedia.org/wiki/조지아주 "wikilink"), [루이지애나주](https://ko.wikipedia.org/wiki/루이지애나주 "wikilink"), [미시시피주](https://ko.wikipedia.org/wiki/미시시피주 "wikilink")와 [텍사스주](https://ko.wikipedia.org/wiki/텍사스주 "wikilink")에 들르기도 하였다. [1905년](https://ko.wikipedia.org/wiki/1905년 "wikilink") 그는 그의 가족이 이주한 [휴스턴](https://ko.wikipedia.org/wiki/휴스턴 "wikilink")에 정착하였다. 그해 [여름](https://ko.wikipedia.org/wiki/여름 "wikilink")에 그는 성결 운동의 목사이자 [프레더릭 더글러스의](https://ko.wikipedia.org/wiki/프레더릭_더글러스 "wikilink") 조카딸 [루시 패로를](https://ko.wikipedia.org/wiki/루시_패로 "wikilink") 위하여 일시적 대체 목사로 지냈다. 패로를 통하여 시모어는 자신의 종교적인 지도와 경력에 강한 영향력을 가지려고 한 사람을 만나려고 하였다.
+
+## 찰스 퍼햄을 만나며
+
+패로는 시모어가 방언의 개념에 흥미를 가지면서 텍사스 주 성경 학교를 운영한 백인 전도자 [찰스 퍼햄에게](https://ko.wikipedia.org/wiki/찰스_퍼햄 "wikilink") 연락하는 데 시모어에게 용기를 주었다. 패로는 한번 [캔자스주](https://ko.wikipedia.org/wiki/캔자스주 "wikilink") [토피카](https://ko.wikipedia.org/wiki/토피카 "wikilink")에서 첫 [오순절운동](https://ko.wikipedia.org/wiki/오순절운동 "wikilink") 성경 학교를 창립하고 방언이 성령의 활동의 기호라고 가르친 퍼햄을 위하여 그 도시에서 하인을 지냈다. 퍼햄은 텍사스 주로 이주하고 [1905년](https://ko.wikipedia.org/wiki/1905년 "wikilink") 휴스턴에서 성경 훈련 학교를 열었다.
+
+시모어는 퍼햄에게 자신이 성경 학교에 가입할 수 있는지 의문하였다. 퍼햄은 동의하였으나 자신의 인종적 분리주의 경향의 이유로 그는 시모어에게 교실에서 의석과 함께 마련하지 않으려고 하였다. 대신 퍼햄은 다만 열린 문 혹은 창문을 통하여 시모어가 과업을 듣도록 하였다. 시모어의 학업 참석은 오래가지 못하였고, 자신이 믿음에서 인종적 합류가 그리스도의 귀환으로 믿으면서 그는 퍼햄의 인종 차별 주의에 의하여 마련되었다. 그러나 퍼햄을 통하여 시모어는 방언에 관하여 더 많이 배우는 데 나타나고, 퍼햄의 가르침에 자신의 드러냄은 곧 미국과 세계에서도 오순절운동의 개발에 막대한 영향력을 가졌다.
+
+## 로스앤젤레스로 이주
+
+휴스턴에 사는 동안 시모어는 또한 [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink")로부터 이주해 오며 성결 운동의 일부였던 여성 닐리 테리를 만나기도 하였다. 다음에 무슨 일이 일어난지 증명하기 어려운 데 시모어가 테리에 의하여 로스앤젤레스로 지도되었거나 혹은 자신이 거기로 떠났던지, 도시의 종교적 공동체에서 무슨 일이 일어났는지에 테리의 서술에 의하여 음모였을 것이다. 또한 그는 아마 퍼햄으로부터 재정적 후원에 의하여 자신의 여행에 동행되거나 그러지 않았을 것이다.
+
+[1906년](https://ko.wikipedia.org/wiki/1906년 "wikilink") [2월 22일](https://ko.wikipedia.org/wiki/2월_22일 "wikilink") 자신의 성결 운동의 전망들의 이유로 로스앤젤레스에서 세컨트 침례 교회로부터 퇴출당해 온 [줄리아 M. 허친스에](https://ko.wikipedia.org/wiki/줄리아_M._허친스 "wikilink") 의하여 그 도시에서 설립된 교회에서 시모어는 설교하였다. 시모어의 설교들은 인종 혼합의 종교적 공동체와 성령의 기호로서 방언의 중요성을 격찬하였다. 하지만 허친스는 그가 성결 운동의 교의에서 방언을 포함한 것에 속상하여 그를 자신의 교회의 외부로 문을 잠가버렸다.
+
+이어서 시모어는 더욱 신성하게 동정심 있는 [리처드 애스베리에](https://ko.wikipedia.org/wiki/리처드_애스베리 "wikilink") 의하여 초청되어 노스 보니 브레이 가에 있는 그들의 집에서 예배를 거행하게 되었다. 그것은 시모어가 결국 자신을 위한 방언을 경험한 애스베리 홈이었다. 그의 열광적인 설교가 방언의 집회의 몇몇 일원들이 방언에서 말하기 시작하는 원인을 가져올 때 [1906년](https://ko.wikipedia.org/wiki/1906년 "wikilink") [4월 9일](https://ko.wikipedia.org/wiki/4월_9일 "wikilink") 이벤트들이 그의 자신의 방언으로 이끌어졌다. 종교적인 열성은 3밤 동안 지속되었고, [4월 12일](https://ko.wikipedia.org/wiki/4월_12일 "wikilink") 시모어는 방언에서 말하기 시작하였다.
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Seywife.jpg "wikilink")
+
+## 아주사 가 부흥 운동의 시작
+
+노스 보니 브레이 가에서 열린 이벤트들에 관하여 기쁨의 소동이 증가하면서 더욱 더 많은 사람들이 모임을 목격하러 왔고, 애스베리 홈은 빠르게 예배의 거행을 조정하는 데 더욱 작아졌다. 시모어는 아주사 가에서 이용되지 않은 교회로 집회를 옮겨 들어갔다.
+
+아주사 가의 312번지에 위치하고 비지니스 구역에 자리잡은 건물은 40에 60 피트나 되었다. 그 건물은 한번 아프리카 감리 성공회 교회를 수용하였으나 이제 창고와 세마로 이용되었다. 시모어의 인종적으로 합류된 집회는 건물을 깨끗이 하였고, 그러고나서 임시 변통의 교회 가구들과 함께 인테리어를 채웠다. 설교단은 함께 [못](https://ko.wikipedia.org/wiki/못 "wikilink")으로 박아진 2개의 박스로 만들어졌고, 신도 좌석은 비어진 통들로 못박은 판자로부터 만들어졌다. 시모어는 교회 위에 있는 층에 자신의 집을 만들고 하루에 3번, 1주에 7일 동안 예배를 거행하였다. 흑인과 백인, 남성과 여성을 포함한 다양한 지원자들이 예배 거행에서 시모어를 보조하였다.
+
+황폐한 건물은 빠르게 아주사 가 부흥 운동으로서 국내적 주의를 얻었으나 그 두드러짐은 [1906년](https://ko.wikipedia.org/wiki/1906년 "wikilink")부터 [1909년](https://ko.wikipedia.org/wiki/1909년 "wikilink")까지 짧은 기간 동안 밖에 못갔다. 아직도 그 일은 오순절운동의 확장을 위하여 거대한 촉매였으며, 미국에서 2천만명으로, 국제적으로 2억명 이상의 일원으로 자라났다.
+
+개장된 후 곧 교회는 거대한 수의 신자들에 의하여 압도되었다.
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:031_apostolic_faith.gif "wikilink") 1906년 [4월 18일에](https://ko.wikipedia.org/wiki/4월_18일 "wikilink") 운영된 신문의 이야기이자 [로스앤젤레스 타임스의](https://ko.wikipedia.org/wiki/로스앤젤레스_타임스 "wikilink") 판은 교회의 활동들의 광범한 보도 범위를 마련하였다. 운명이 가지려 하면서 기사는 [샌프란시스코 지진이](https://ko.wikipedia.org/wiki/샌프란시스코_지진 "wikilink") 일어난 같은 날에 밝혀졌고, 2개의 사건들이 많은 사람들의 마음에 연결되었다. 소문은 지진이 아주사 운동에서 예언되어 왔다고 진술되었다. 곧 후에 10만장 이상의 [팜플렛](https://ko.wikipedia.org/wiki/팜플렛 "wikilink")이 교회, 지진과 금방 일어날 것 같은 세상의 종말의 출현을 함께 묶으면서 발간되었다. 이 방향에서 샌프란시스코 지진은 어쩌다 국내적 규모에 오순절운동의 자라남에서 의미 있는 요인으로서 여겨졌다.
+
+[5월](https://ko.wikipedia.org/wiki/5월 "wikilink")로 봐서 아주사 가 부흥 운동은 하루에 1천명 이상의 사람들을 끌어들이면서 항상 수용력의 범위를 넘어 채워졌다. 그 운동은 또한 참가자들이 방언에서 보고적으로 연설하고 원기가 좋고 육체적으로 활동적인 기도에 종사되면서 "광란의 장면"들을 위한 배경으로서 평판을 얻기도 하였다. 교회는 국가를 통하여 신문들로부터 기자들을 끌어들이는 회전에 지방적 간행물 보도 범위의 거대한 취급을 모았다. 하지만 발행된 이야기들은 크게 물의를 일으키고 가끔 호의를 보이지 않았다.
+
+하지만, 간행물 보도 범위는 부흥 운동에서 더 많은 흥미 만을 생성하였으며 시모어의 집회는 지속적으로 자라났다. 뒤이어 일어나는 세월에 그는 자신의 교회를 위하여 목사들을 안수하고, 다른 집회들을 설립하고, 교회의 신문〈제자 신앙〉을 발간하기 시작하였다. 1906년의 [9월](https://ko.wikipedia.org/wiki/9월 "wikilink")에 소개되어 발간은 결국적으로 2만명의 독자들의 국내적과 국제적 발행 부수를 모았다. [1907년](https://ko.wikipedia.org/wiki/1907년 "wikilink") 시모어는 아주사 가 운동을 로스앤젤레스 태평양 제자 신앙 운동으로서 병합하였다.
+
+1909년을 통하여 부흥 운동은 지속적으로 하루에 3개의 예배를 거행하였고, 하루에 24시간 동안 기도 모임을 지휘하였다. 예배들은 성결 운동의 가르침의 요소들을 통보하였으나 시모어는 방언에서 연설의 중요성을 경시하기 시작하였다.
+
+그 잠시 3년의 최고 기록의 세월 동안 교회는 시모어의 전갈이 국가를 걸쳐 보급되면서 깊은 영향을 발휘할 수 있었다. 국민들은 시모어가 완료적으로 인종 합류된 종교적 공동체의 자신의 전망을 실현한 것에 인상을 받은 것 같이 보였고, 교회를 방문한 많은 종교적 지도자들이 자신들의 집회로 오순절교회의 가르침을 가져갔으며, 곧 더많은 오순절 교회들이 전국에 걸쳐 설립되었다. 그 영향력은 해외마저 느끼게 되었다.
+
+## 운동의 쇠퇴 경험
+
+그러나 오순절운동이 전국을 걸쳐 번창하면서 아주사 가 부흥 운동의 중요성이 감소되었다. 1909년 후에 부흥 운동이 더 이상 큰 관중들을 끌어들이지 않았다. 기구 안의 문제들이 줄어든 그 영향 없이 충실과 요인들을 이간하였다. 어떤 시모어의 신봉자들은 그가 그 자신을 위하여 지은 "하나님의 자리"에 의하여 모면되었다. 또한 곧 다가올 세상의 종말을 예상한 다른 운동들과 일어나면서 신봉자들의 흥미와 생각컨데 절박한 "마지막 날들"의 기대는 점차 감소하기 시작하였다. 더욱 인종적 합류를 위한 시모어의 전망은 고통을 겪었다. 1908년의 시작에 백인 오순절운동 신자들은 흑인들로부터 갈라졌다. 남부 같은 지역들에서 흑인 교인들이 갈라진 교파들을 형성하는 데 용기가 주어진 동안 백인 교인들은 자신들의 단체들을 형성하였다. 로스앤젤레스에서도 백인 교인들이 인종적으로 갈라진 오순절 교회들로 이동하였다.
+
+교회의 거대한 성공적 신문 〈제자 신앙〉도 또한 실질적인 문제들을 향하였다. 시모어가 1908년 [5월 13일](https://ko.wikipedia.org/wiki/5월_13일 "wikilink") 제니 에반스 무어와 결혼한 후, 신문의 행정적 보조인 클래라 럼이 자신이 신문 편집자가 된 [오리건주](https://ko.wikipedia.org/wiki/오리건주 "wikilink") [포틀랜드로](https://ko.wikipedia.org/wiki/포틀랜드_\(오리건주\) "wikilink") 이주하였다. 그녀는 신문의 큰 예약 구독의 명단을 가져갔으며, 그녀의 지도 아래 신문이 실패한 후 시모어는 가치있는 명단을 회복할 수 없었다.
+
+문제들은 지속적으로 솟아올랐다. [1911년](https://ko.wikipedia.org/wiki/1911년 "wikilink") 시모어가 여행하는 동안 백인 설교자 [윌리엄 H. 더럼은](https://ko.wikipedia.org/wiki/윌리엄_H._더럼 "wikilink") 운동을 차지하는 데 시도하였다. 일격은 성공하지 못하였으나 더럼이 떠나는 데 강요된 후 그는 자신과 함께 대략 6백명의 일원들을 데려갔다. [1913년](https://ko.wikipedia.org/wiki/1913년 "wikilink")으로 봐서 시모어의 집회에 대략 20명의 일원들 밖에 안 남았다.
+
+## 사망
+
+시모어는 자신의 일생의 마지막 세월들을 전국을 여행하며 대부분 흑인 관중들에게 설교하며 보냈다. [1915년](https://ko.wikipedia.org/wiki/1915년 "wikilink") 그는 핸드북 《로스앤젤레스 아주사 가의 제자 신앙 운동의 교리와 교행》을 펴냈으나 종교적 인물로서 그의 영향은 약해졌다.
+
+[1922년](https://ko.wikipedia.org/wiki/1922년 "wikilink") [9월 8일](https://ko.wikipedia.org/wiki/9월_8일 "wikilink") 시모어는 로스앤젤레스에서 [심근경색](https://ko.wikipedia.org/wiki/심근경색 "wikilink")으로 사망하였다. 그는 이스트 로스앤젤레스에 있는 에버그린 묘지에 안장되었다. 그의 사망 후, 부인 제니 여사가 교회의 목사가 되어 [1931년](https://ko.wikipedia.org/wiki/1931년 "wikilink") 그녀마저 아주사 가 전도 기관을 잃은 후 [1936년](https://ko.wikipedia.org/wiki/1936년 "wikilink") 사망할 때까지 지속적으로 남편의 일을 하였다.
+
+윌리엄 J. 시모어는 자신의 목표들을 달성할 수 있기 전에 사망하였다. 그는 학교를 설립하고, 전도 기관들을 구하고, 다른 집회들을 형성하는 데 계획을 세웠으나 이 꿈들은 전혀 실행되지 않았다. 아직도 그의 영향의 빠른 쇠퇴에 불구하고 시모어는 세계를 통하여 반조 이상의 신자들을 늘인 오순절운동에 거대한 영향력을 가졌다. 참으로 아주사 가 부흥 운동은 가끔 오늘날 오순절운동의 뿌리들 중의 하나로서 언급되었다.
+
+## 각주
+
+<references/>
+
+[분류:1870년 태어남](https://ko.wikipedia.org/wiki/분류:1870년_태어남 "wikilink") [분류:1922년 죽음](https://ko.wikipedia.org/wiki/분류:1922년_죽음 "wikilink") [분류:미국의 목회자](https://ko.wikipedia.org/wiki/분류:미국의_목회자 "wikilink") [분류:미국의 기독교 성직자](https://ko.wikipedia.org/wiki/분류:미국의_기독교_성직자 "wikilink") [분류:기독교 신비주의자](https://ko.wikipedia.org/wiki/분류:기독교_신비주의자 "wikilink") [분류:아프리카계 미국인](https://ko.wikipedia.org/wiki/분류:아프리카계_미국인 "wikilink") [분류:루이지애나주 출신](https://ko.wikipedia.org/wiki/분류:루이지애나주_출신 "wikilink")
+
+1.
+2.

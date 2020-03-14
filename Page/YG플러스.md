@@ -1,0 +1,69 @@
+> This article is converted from Wikipedia: [YG](https://ko.wikipedia.org/wiki/YG).
+
+
+**YG PLUS** (, )는, [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [광고 대행업](https://ko.wikipedia.org/wiki/광고_대행사 "wikilink") 기업이며 [YG 엔터테인먼트의](https://ko.wikipedia.org/wiki/YG_엔터테인먼트 "wikilink") 자회사이다. 구 [휘닉스홀딩스](https://ko.wikipedia.org/wiki/휘닉스홀딩스 "wikilink")를 인수해 설립한 회사로 2015년 상반기를 기점으로 본업인 [광고 대행업](https://ko.wikipedia.org/wiki/광고_대행사 "wikilink") 외에 화장품(문샷), 모델(YG케이플러스), 골프 매니지먼트(YG스포츠) 외식사업(YG푸드) MD사업 등 다양한 사업을 진행하고 있으며 본사는 [서울특별시](https://ko.wikipedia.org/wiki/서울특별시 "wikilink") [강남구](https://ko.wikipedia.org/wiki/강남구 "wikilink") [도산대로](https://ko.wikipedia.org/wiki/도산대로 "wikilink") 15길 12에 있다.
+
+## 연혁
+
+### 1990년대
+
+  - [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") [11월 15일](https://ko.wikipedia.org/wiki/11월_15일 "wikilink") [주식회사](https://ko.wikipedia.org/wiki/주식회사 "wikilink") 와이지플러스(이하 '(주)YG PLUS') 설립
+
+### 2000년대
+
+  - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [8월 1일](https://ko.wikipedia.org/wiki/8월_1일 "wikilink") [KRX 한국거래소가](https://ko.wikipedia.org/wiki/한국거래소 "wikilink") 개설하는 [유가증권시장에](https://ko.wikipedia.org/wiki/코스피 "wikilink") 주식회사 와이지플러스(이하 '(주)YG PLUS') 상장
+
+## 주요 사업
+
+### 코드코스메(CODECOSME)
+
+2015년 4월 1일, YG플러스는 화장품 회사 코드코스메를 자회사로 편입한다고 공시했다. YG플러스는 코드코스메의 지분 80%를 보유하고 있으며, 지난해 말 홍콩 소재 화장품업체 코드코스메를 인수했다. 코드코스메는 [YG엔터테인먼트](https://ko.wikipedia.org/wiki/YG엔터테인먼트 "wikilink")와 제휴한 국내 화장품업체 코스온의 홍콩 자회사이다.\[1\]
+
+YG엔터테인먼트는 [버버리](../Page/버버리.md "wikilink") 전 한국지사 장재영 대표를 새롭게 론칭하는 화장품 브랜드 ‘문샷’ 사업을 총괄하는 코드코스메 인터내셔널의 새 대표로 임명했다. 2015년 8월 협력회사 코스온과 함께 미국 화장품회사 잉글우드랩에 총액 50억 원을 투자했다. 또한 2015년 9월 24일 글로벌 명품 브랜드인 LVMH(루이비통모헤네시)가 운영하는 화장품 전문매장인 ‘세포라’의 아시아지역 25개 매장에 문샷을 입점하기도 했다.\[2\]
+
+### 지애드커뮤니케이션즈
+
+광고대행사 및 [골프](https://ko.wikipedia.org/wiki/골프 "wikilink") 매니지먼트 사업을 진행하고 있으며, 골프선수 [김효주](../Page/김효주.md "wikilink") 등에 대한 매니지먼트와 KPGA, KLPGA 등 골프대회 관련 이벤트, [한연희](https://ko.wikipedia.org/wiki/한연희 "wikilink") 국가대표 감독의 유망주 육성 프로그램 외에도 골프장 및 골프용품 온라인 몰을 운영하는 '세이골프' 등 4가지 부문 사업을 진행하고 있다.
+
+### YG넥스트
+
+[YG엔터테인먼트](https://ko.wikipedia.org/wiki/YG엔터테인먼트 "wikilink") 소속 아티스트들의 콘서트에서 판매되는 음반, DVD 등 MD상품 등의 개발 기획, 제작, 유통 등을 담당하고 있다. 2015년 8월, 일본 도쿄와 오사카에 [빅뱅의](https://ko.wikipedia.org/wiki/빅뱅_\(음악_그룹\) "wikilink") 캐릭터를 이용한 ‘크렁크X빅뱅 카페’ 매장을 오픈하였다.\[3\]
+
+2015년 12월에는 [SPC그룹](https://ko.wikipedia.org/wiki/SPC그룹 "wikilink")과 손잡고 중국 상하이에 [빅뱅을](https://ko.wikipedia.org/wiki/빅뱅_\(음악_그룹\) "wikilink") 테마로 한 파리바게뜨 매장을 선보였다. YG엔터테인먼트가 2013년 출시한 푸른색 곰인형(크렁크) 캐릭터 상품으로 빅뱅의 이미지에 맞는 크렁크 캐릭터로 디자인한 머그컵, 모자, 티셔츠 등 상품들도 판매한다고 발표하였다. 대중문화 콘텐츠를 베이커리 매장에 접목한 것은 한국과 중국을 통틀어 첫 사례이다.\[4\]
+
+### YG케이플러스
+
+모델 매니지먼트 및 모델 양성 아카데미 사업을 하고 있다. 2014년 2월, YG엔터테인먼트는 본격적인 연기자 매니지먼트 사업 확장을 위하여 국내 모델 컴퍼니 ‘케이플러스(K PLUS)’와 전략적 제휴 및 지분 투자계약을 체결하였다.\[5\] YG 관계자는 케이플러스에 대한 전략적 제휴와 지분 투자를 통해 패션 모델 분야의 인재풀을 확보함으로써, 사업 다각화와 시너지를 창출할 수 있는 윈윈전략을 펼칠 수 있게 되었다고 밝혔다. YG와 케이플러스는 전략적 제휴를 통한 첫번째 주자로 톱모델 [이성경](../Page/이성경.md "wikilink")을 [SBS](https://ko.wikipedia.org/wiki/SBS_TV "wikilink") 드라마 《[괜찮아, 사랑이야](https://ko.wikipedia.org/wiki/괜찮아,_사랑이야 "wikilink")》를 통해 연기자로 데뷔시키기도 하였다.\[6\] 이와 함께 같은 해 7월에는 ‘YG케이플러스 액터스쿨’을 설립, 소속배우인 [차승원](https://ko.wikipedia.org/wiki/차승원 "wikilink")이 연기파트를 총괄 담당하여 본격적인 신인배우 양성에 나섰다.\[7\] 이후 9월에는 YG 엔터테인먼트와 케이플러스가 정식으로 합병을 발표하였고 케이플러스 상호명을 ‘YG케이플러스’로 변경하였다.\[8\] 2015년 7월에는 모델 양성 아카데미를 오픈하였다.
+
+### YG푸드
+
+2015년 6월, [YG엔터테인먼트](https://ko.wikipedia.org/wiki/YG엔터테인먼트 "wikilink")의 양현석 대표는 35억 원을 출자해 신규법인 ‘YG푸드’를 설립한다고 발표했다. YG푸드의 경영을 책임질 신임 대표에 노희영 전 CJ 고문이 선임 되었다. YG 측에 따르면 YG푸드의 주요사업은 외식과 외식 서비스로 자본금은 47억 5천만 원이다.\[9\] 서울 홍대 앞에 대형주점 ‘삼거리포차’에 이어 식당 ‘삼거리푸줏간’을 론칭하였다. ‘삼거리포차’는 홍대 본점에 이어 강남 건대 신천점 등으로 점포를 확장 중이며, ‘삼거리푸줏간’ 또한 점포 확장 후 해외 진출할 계획을 세우고 있다.\[10\]
+
+## 같이 보기
+
+  - [YG 엔터테인먼트](https://ko.wikipedia.org/wiki/YG_엔터테인먼트 "wikilink")
+  - [광고 대행사](https://ko.wikipedia.org/wiki/광고_대행사 "wikilink")
+  - [한국거래소](https://ko.wikipedia.org/wiki/한국거래소 "wikilink")
+
+## 각주
+
+<references/>
+
+## 외부 링크
+
+  - [YG케이플러스 공식 웹사이트](http://www.ygkplus.com/)
+
+  - [YG 엔터테인먼트 공식 웹사이트](http://ygfamily.com/)
+
+[YG PLUS](https://ko.wikipedia.org/wiki/분류:1996년_설립 "wikilink") [분류:YG 엔터테인먼트](https://ko.wikipedia.org/wiki/분류:YG_엔터테인먼트 "wikilink") [분류:서울특별시의 기업](https://ko.wikipedia.org/wiki/분류:서울특별시의_기업 "wikilink") [분류:대한민국의 매체 기업](https://ko.wikipedia.org/wiki/분류:대한민국의_매체_기업 "wikilink") [분류:대한민국의 광고대행사](https://ko.wikipedia.org/wiki/분류:대한민국의_광고대행사 "wikilink")
+
+1.
+2.
+3.
+4.
+5.  [YG, K플러스 전략적 제휴 및 투자‥‘제2의 차승원’ 나오나, 박세연, 매일경제, 2014년 2월 18일](http://star.mk.co.kr/new/view.php?mc=ST&no=261384&year=2014)
+6.  [모델 이성경, YG 계약 체결 첫행보 '괜찮아 사랑이야' 데뷔, 허설희, 마이데일리, 2014년 4월 9일](http://www.mydaily.co.kr/new_yk/html/read.php?newsid=201404091040461113&ext=na)
+7.  [차승원, 모델 출신 연기자 후배 양성 시작…YG케이플러스 총괄, 곽현수, 스포츠동아, 2014년 6월 27일](http://sports.donga.com/3/all/20140627/64732080/1)
+8.
+9.
+10.

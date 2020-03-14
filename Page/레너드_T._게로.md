@@ -1,0 +1,39 @@
+> This article is converted from Wikipedia: [ T. ](https://ko.wikipedia.org/wiki/_T._).
+
+
+**레너드 타운샌드 게로**(1888년 7월 13일 – 1972년 10월 12일)는 미국 육군 중 [제2차 세계 대전에서](https://ko.wikipedia.org/wiki/제2차_세계_대전 "wikilink") 업적을 남긴 장군 중 1명이다.
+
+## 초기 생애
+
+게로는 [피터스버그에서](../Page/피터스버그_\(버지니아주\).md "wikilink") 태어났다. 그의 이름 게로는 프랑스 이름 지라드로부터 유래했다. 게로는 피터스버그의 고등학교에 입학했다가 [버지니아 군사 학회에](https://ko.wikipedia.org/wiki/버지니아_군사_학회 "wikilink") 입학했다. 그는 3번이나 반장이 되었다.\[1\] 그는 정규군 소위가 될 수 있는 VMI 졸업반에 참여할 수 있는 영예 임명장을 수여받았다. 그는 1911년 9월 29일 육군에서 소위 직을 임명받았다.
+
+## 초기 군사 경력
+
+1차 대전 이전에 게로는 보병의 여러 군대에서 임무를 수행했다. 그는 1915년 [텍사스](https://ko.wikipedia.org/wiki/텍사스 "wikilink")의 [갤버스턴](https://ko.wikipedia.org/wiki/갤버스턴 "wikilink")의 허리케인이 발생하자 그것을 복구한 것을 도운 것으로 수상했다. 그는 [미국-멕시코 전쟁](https://ko.wikipedia.org/wiki/미국-멕시코_전쟁 "wikilink") 때 [베라크루즈에서](https://ko.wikipedia.org/wiki/베라크루스 "wikilink") 복무하기도 했다. 그는 1916년 7월 1일 중위로 진급했고, 1917년 5월 15일 대위로 진급했다. 1918년 1월 16일부터 1920년 6월 30일까지, 그리고 [1차 세계 대전](https://ko.wikipedia.org/wiki/1차_세계_대전 "wikilink") 기간에 그는 프랑스의 시그널 군단의 직원으로 일했다. 그는 AEF를 위해 라디오 장비를 구입하는 임무를 맡았었다.
+
+미국으로 돌아온 후 그는 1920년 7월 1일 소장으로 진급했다. 그는 1924년 가을에 미국 보병 학교에서 진급 과정에 참석하라고 지시 받았다. 그는 보병학교에서 1등으로 졸업했으며, [오마 브래들리가](https://ko.wikipedia.org/wiki/오마_브래들리 "wikilink") 2등이었다. 개로는 미국 육군 사령관 및 장교 학교에 참석해 [드와이트 아이젠하워와](https://ko.wikipedia.org/wiki/드와이트_아이젠하워 "wikilink") 공부 파트너가 되었다. 그는 1926년 그곳을 졸업하여 245명 중 11위에 오르는 성적을 거두었다. 1931년 그는 화학전 및 전차에 관한 야전 코스를 미국 전쟁 대학에서 마쳤다. 이후 1932년 그는 중국 [상하이](https://ko.wikipedia.org/wiki/상하이 "wikilink")에서 복무하였다. 1935년 8월 1일 그는 중장 직을 부여받았으며 1940년 10월 1일에는 일시적으로 여단장이 되었다.
+
+## 제2차 세계 대전
+
+게로는 1942년 소장으로 진급하였고, 미국 제29보병사단의 사령관으로 1942년 2월 16일 부임한다. 그는 메리트 훈장을 1943년 9월 27일 받으며 전쟁 계획 사단의 참모총장이라는 직위에 오른다. 그는 1943년 7월 17일까지 그 사단과 함께 했다. 1943년 7월 17일, 그는 제5군단의 사령관이 된다. 이 군대는 유럽 전역의 작전에서 가장 큰 군대 중 하나였다.
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:American_World_War_II_senior_military_officials,_1945.JPEG "wikilink")
+
+이 군단의 사령관이 된 이후에는 유럽 대륙의 침공 계획에서 주요한 역할을 맡았다. 그는 [노르망디 상륙에서](../Page/노르망디_상륙.md "wikilink") 해안가로 다가갈 첫 군단들의 사령관이었다. 제5군단은 제29보병사단과 [제1보병사단으로](https://ko.wikipedia.org/wiki/제1보병사단_\(미국\) "wikilink") 구성되어 있었다. 그는 1943년 7월 17일부터 1944년 9월 17일까지, 그리고 1944년 10월 5일부터 1945년 1월 14일까지 제5군단의 사령관 직을 맡았다. 그는 프랑스 제2기갑사단의 [파리 해방](https://ko.wikipedia.org/wiki/파리_해방 "wikilink") 후 처음으로 고위직 장군으로써 [파리](https://ko.wikipedia.org/wiki/파리 "wikilink")를 입성한 미국 장군이었다. 그의 이 전역 덕분에 그는 [은성무공훈장](https://ko.wikipedia.org/wiki/은성무공훈장 "wikilink")을 수여받았다.
+
+아이젠하워와 브래들리 모두 게로를 높은 직책에 올리기를 원하여 그는 제2차 세계 대전에서 미국 야전 사령관의 고위직 중 1명이 되었다.\[2\] 드와이트 아이젠하워의 1945년 2월 기록에 전쟁 중 그들의 임무의 가치에 기반한 이익을 위해 중요한 미국 사령관들이 기록되어 있었는데, 게로는 32명 중 8번째에 있었다.\[3\] 1945년 4월 26일, [조지 마셜에게](https://ko.wikipedia.org/wiki/조지_마셜 "wikilink") 보내는 편지에 태평양에서 임무를 수행할 사령관을 언급하며 아이젠하워 장군은 오마 브레들리를 가장 높이 칭찬한 후, "유럽에서 전투 사령관으로써의 능력을 시험받은 장군 중에는 [패튼](https://ko.wikipedia.org/wiki/조지_S._패튼 "wikilink"), 게로, [콜린스](https://ko.wikipedia.org/wiki/조셉_로턴_콜린스 "wikilink") 등을 포함한 여럿이 있습니다. 이들 중 어떤 이라도 가장 혹독한 상황의 전투가 와도 육군을 성공적으로 이끌 것입니다."라고 말했다.\[4\] 게로는 1945년 1월 15일 새로 창설된 미국 제15군의 사령관이 되었다. 그는 1945년 1월 1일의 효율적이었던 진급과 더불어 1945년 2월 6일, 중장으로 진급한다.
+
+## 2차 대전 후기 경력
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Gerow_portrait.jpg "wikilink")
+
+전후 게로 중장은 육군 사령관 및 장교 학교의 교장으로 임명되었다. 그는 1946년 2월 게로 보드는 5개의 분리된 대학으로 나눌 것이라 언급되었고, 1948년 1월 그는 미국 제2군의 사령 장교로 임명되었다. 이것은 그의 마지막 직책이었고, 그는 1950년 7월 은퇴했다. 1954년 7월 19일 의회의 특별법으로 대장 직을 부여받았다. 그는 1972년 10월 12일에 그가 태어난 피터스버그에서 사망했다.
+
+## 각주
+
+[분류:미국의 군인](https://ko.wikipedia.org/wiki/분류:미국의_군인 "wikilink") [분류:오버로드 작전 관련자](https://ko.wikipedia.org/wiki/분류:오버로드_작전_관련자 "wikilink") [분류:1888년 태어남](https://ko.wikipedia.org/wiki/분류:1888년_태어남 "wikilink") [분류:1972년 죽음](https://ko.wikipedia.org/wiki/분류:1972년_죽음 "wikilink") [분류:미국의 제2차 세계 대전 참전 군인](https://ko.wikipedia.org/wiki/분류:미국의_제2차_세계_대전_참전_군인 "wikilink") [분류:미국의 제1차 세계 대전 참전 군인](https://ko.wikipedia.org/wiki/분류:미국의_제1차_세계_대전_참전_군인 "wikilink")
+
+1.  "The History of the Fifteenth United States Army", page 82. United States Army, 1946
+2.  Eisenhower's Lieutenants, pp. 758-759.
+3.  Eisenhower's Lieutenants, p.758.
+4.  Eisenhower's Lieutenants, p.759.

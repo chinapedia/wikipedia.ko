@@ -1,0 +1,40 @@
+> This article is converted from Wikipedia: [Be More](https://ko.wikipedia.org/wiki/Be_More).
+
+
+〈**Be More**〉는 [카툰 네트워크의](https://ko.wikipedia.org/wiki/카툰_네트워크 "wikilink") 애니메이션 시리즈 《[핀과 제이크의 어드벤처 타임](https://ko.wikipedia.org/wiki/핀과_제이크의_어드벤처_타임 "wikilink")》의 [다섯 번째 시즌](../Page/핀과_제이크의_어드벤처_타임_\(시즌_5\).md "wikilink") 스물여덟 번째 에피소드이다. [대한민국](https://ko.wikipedia.org/wiki/카툰_네트워크_\(대한민국\) "wikilink") 방영 명칭은 〈비모의 고향〉이다. [톰 허피치](../Page/톰_허피치.md "wikilink"), [스티브 울프하드가](../Page/스티브_울프하드.md "wikilink") 스토리보드 아티스트 및 작가로 참여했으며, 패트릭 맥헤일, [켄트 오즈본](../Page/켄트_오즈본.md "wikilink"), [펜들턴 워드](../Page/펜들턴_워드.md "wikilink"), 톰 허피치, 스티브 울프하드, [리베카 슈거가](../Page/리베카_슈거.md "wikilink") 각본을 담당했다. 2013년 7월 22일 첫 방영 되었다.
+
+## 줄거리
+
+비모(BMO)는 장난삼아 자신의 파일을 지우다가 실수로 중요 시스템 드라이버를 지우고 만다. 핀과 제이크는 비모와 함께 드라이버를 재설치하기 위해 모(Mo) 공장으로 간다. 비모는 둘에게 재설치하기 전 기억을 지운다는 사실을 알리고, 핀과 제이크는 이를 막기 위해 자신들이 로봇인 것처럼 꾸민다. 셋은 공장 입구에 있던 디모(DMO)를 속인 뒤 내부로 들어온 후, 버려져 황폐화된 공장을 구경한다. 드라이버 포트가 있는 곳을 찾은 셋은 그 곳으로 향하지만 비모에게 맞는 것을 찾는데는 실패하고, 뒤따라온 디모와 보안 경비병 에스모(SMO)들은 셋을 잡으려고 한다. 몰래 빠져나온 셋은 에스모들이 머무는 공간으로 잠입한다.
+
+비모는 에스모 중 하나를 해킹하여 시스템 드라이버를 설치할 수 있는 곳을 찾아낸다. 에스모들의 추격을 피하던 셋은 모(Mo)들의 창조자인 모세프 "모" 지오바니(Moseph "Moe" Giovanni)를 만난다. 모는 자신의 아들을 돌보기 위해 비모를 만들었지만 아들을 결국 갖지 못했고, 비모가 새로운 가족을 만날 수 있도록 홀로 세상에 내보냈다고 설명한다. 또한 비모의 드라이버를 업데이트 하면서, 비모가 로봇 그 이상이 되도록(“I made BMO to ‘be more’”) 만들었다고 말한다. 그 뒤 모는 공장에 사는 수많은 모 가족들을 비모에게 보여준다.
+
+## 제작
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Aziz_Ansari_2012.jpg "wikilink").\]\] 〈Be More〉는 [톰 허피치와](../Page/톰_허피치.md "wikilink") [스티브 울프하드가](../Page/스티브_울프하드.md "wikilink") 스토리보드를 맡았으며, [켄트 오즈본](../Page/켄트_오즈본.md "wikilink"), [펜들턴 워드](../Page/펜들턴_워드.md "wikilink"), 패트릭 맥헤일(Patrick McHale), [리베카 슈거](../Page/리베카_슈거.md "wikilink"), 허피치, 울프하드가 각본을 담당했다. 예술 감독은 닉 제닝스(Nick Jennings), 슈퍼바이징 감독은 네이트 캐시(Nate Cash)이다.\[1\] 원래 이 에피소드는 [세 번째 시즌에](../Page/핀과_제이크의_어드벤처_타임_\(시즌_3\).md "wikilink") 제작될 예정이었지만 뒤로 미뤄졌다. 각각 〈[Simon & Marcy](https://ko.wikipedia.org/wiki/Simon_&_Marcy "wikilink")〉와 〈The Suitor〉 이후 《어드벤처 타임》을 떠난 리베카 슈거와 패트릭 맥헤일은 세 번째 시즌 당시 제작에 참여했기에 이름이 올라갔다.\[2\]\[3\]\[4\]
+
+울프하드는 배우 [제이미 파의](https://ko.wikipedia.org/wiki/제이미_파 "wikilink") 모습을 본따 모(Moe)를 디자인했다. 원래 결말은 모가 화장실에 가야하니 핀, 제이크, 비모에게 떠나라고 말하는 것이었다. 울프하드는 허피치와 무토 덕분에 이 부분이 수정되었다고 밝혔다.\[5\] 디모 역할을 맡은 코미디언 [아지즈 안사리는](https://ko.wikipedia.org/wiki/아지즈_안사리 "wikilink") 2011년, 워드에게 [트위터](https://ko.wikipedia.org/wiki/트위터 "wikilink")를 통해서 작품에 출연 해달라는 제의를 받은 적이 있었다.\[6\] [폴 F. 톰킨스는](https://ko.wikipedia.org/wiki/폴_F._톰킨스 "wikilink") 에스모 역할을, [척 맥컨은](https://ko.wikipedia.org/wiki/척_맥컨 "wikilink") 모(Moe) 역할을 맡았다.\[7\]
+
+## 반응
+
+〈Be More〉는 2013년 7월 22일 [카툰 네트워크를](https://ko.wikipedia.org/wiki/카툰_네트워크 "wikilink") 통해 첫 방영되었다. [닐슨 시청률에](https://ko.wikipedia.org/wiki/AGB_닐슨 "wikilink") 따르면 267만 명의 시청자 수를 기록했으며, 18세부터 49세 연령층 중 0.7%가 시청하였다.\[8\] 2014년에는 DVD 《The Suitor》를 통해 첫 실물 발매되었다.\[9\]
+
+《[디 A.V. 클럽](../Page/디_A.V._클럽.md "wikilink")》의 올리버 사바(Oliver Sava)는 ‘B+’ 등급을 주었다. 사바는 비모의 탐험을 다룬 점과 모(Moe)라는 등장인물을 통해 새로운 이야기를 만들었다는 점에서 좋았다고 말했다. 또한 안사리와 톰킨스의 목소리 연기에 대해서는 “이 작품에 등장하는 성우들은 뚜렷한 목소리를 가지고 있으며, 그런 자연스러운 연기가 인물을 더욱 구체적으로 만들고 기억하기 쉽도록 만든다.”라고 언급했다.\[10\]
+
+이 에피소드는 제66회 [프라임타임 에미상](https://ko.wikipedia.org/wiki/프라임타임_에미상 "wikilink") ‘뛰어난 단편 형식 애니메이션 프로그램’(Outstanding Short-Format Animated Program)의 후보에 올랐지만, 수상에는 실패하였다.\[11\] {{-}}
+
+## 각주
+
+[분류:2013년 텔레비전 에피소드](https://ko.wikipedia.org/wiki/분류:2013년_텔레비전_에피소드 "wikilink") [분류:핀과 제이크의 어드벤처 타임의 에피소드](https://ko.wikipedia.org/wiki/분류:핀과_제이크의_어드벤처_타임의_에피소드 "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.

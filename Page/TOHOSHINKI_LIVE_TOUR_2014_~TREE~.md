@@ -1,0 +1,67 @@
+> This article is converted from Wikipedia: [TOHOSHINKI LIVE TOUR 2014 \~TREE\~](https://ko.wikipedia.org/wiki/TOHOSHINKI_LIVE_TOUR_2014_\~TREE\~).
+
+
+《**TOHOSHINKI LIVE TOUR 2014 \~TREE\~**》는 그룹 [동방신기](https://ko.wikipedia.org/wiki/동방신기 "wikilink")의 아레나 위주로 치뤄진 7번째 일본 전국 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").\[1\]
+
+## 개요
+
+2013년 11월 23일, 동방신기는 [사이타마 슈퍼 아레나에서](https://ko.wikipedia.org/wiki/사이타마_슈퍼_아레나 "wikilink") 8회에 걸쳐 개최된 〈東方神起 Bigeast FANCLUB EVENT 2013 THE MISSION II〉 팬미팅 현장에서 이듬해 4월부터 일본 전국 투어를 진행하며, 5월 20, 21, 23일에는 도쿄 돔 라이브를 3일에 걸쳐 진행한다고 밝혔고, 뒤이어 24일, 동방신기 일본 공식 사이트는 일본 11개 도시, 26회로 확정된 일본 투어 일정을 공개하였다. 그간의 일본 투어와 마찬가지로 현지 팬들의 호응이 좋아, 도쿄 돔 1회, 쿄세라 돔 오사카 2회로 3회 분량의 공연 일정이 추가되었다. 이로써 동방신기는 해외 아티스트 중 최초로 3년 연속으로, 한국 아티스트 중 최초로 4회에 걸쳐 도쿄 돔 무대에 오르는 위업을 달성했으며, 더 나아가 최근 세 차례에 걸친 일본 전국 투어로 역시 해외 아티스트 중 최단 기간에 200만 관객을 동원하는 기염을 토했다.
+
+## 투어 일정
+
+| 일정           | 도시                                                      | 장소                                                                 | 관객 수        |
+| ------------ | ------------------------------------------------------- | ------------------------------------------------------------------ | ----------- |
+| 2014년 4월 22일 | [요코하마](https://ko.wikipedia.org/wiki/요코하마 "wikilink")   | [요코하마 아레나](https://ko.wikipedia.org/wiki/요코하마_아레나 "wikilink")\[2\] | 통산 51,000명  |
+| 2014년 4월 23일 |                                                         |                                                                    |             |
+| 2014년 4월 24일 |                                                         |                                                                    |             |
+| 2014년 4월 28일 | [나고야 시](https://ko.wikipedia.org/wiki/나고야_시 "wikilink") | 니혼 가이시 홀                                                           | 통산 30,000명  |
+| 2014년 4월 29일 |                                                         |                                                                    |             |
+| 2014년 4월 30일 |                                                         |                                                                    |             |
+| 2014년 5월 3일  | [미야기](https://ko.wikipedia.org/wiki/미야기 "wikilink")     | 세키스이 하임 슈퍼 아레나                                                     | 통산 14,000명  |
+| 2014년 5월 4일  |                                                         |                                                                    |             |
+| 2014년 5월 7일  | [삿포로](https://ko.wikipedia.org/wiki/삿포로 "wikilink")     | 마코마나이 세키스이 하임 아이스 아레나                                              | 통산 20,050명  |
+| 2014년 5월 8일  |                                                         |                                                                    |             |
+| 2014년 5월 11일 | [니가타](https://ko.wikipedia.org/wiki/니가타 "wikilink")     | 니가타 토키 멧세                                                          | 통산 20,000명  |
+| 2014년 5월 12일 |                                                         |                                                                    |             |
+| 2014년 5월 16일 | [후쿠이](https://ko.wikipedia.org/wiki/후쿠이 "wikilink")     | 후쿠이 선 돔                                                            | 통산 20,000명  |
+| 2014년 5월 17일 |                                                         |                                                                    |             |
+| 2014년 5월 20일 | [도쿄](https://ko.wikipedia.org/wiki/도쿄 "wikilink")       | [도쿄 돔](https://ko.wikipedia.org/wiki/도쿄_돔 "wikilink")              | 통산 220,000명 |
+| 2014년 5월 21일 |                                                         |                                                                    |             |
+| 2014년 5월 23일 |                                                         |                                                                    |             |
+| 2014년 5월 24일 |                                                         |                                                                    |             |
+| 2014년 5월 27일 | [오사카](https://ko.wikipedia.org/wiki/오사카 "wikilink")     | [오사카 성 홀](https://ko.wikipedia.org/wiki/오사카_성_홀 "wikilink")        | 통산 26,910명  |
+| 2014년 5월 28일 |                                                         |                                                                    |             |
+| 2014년 6월 4일  | [후쿠오카](https://ko.wikipedia.org/wiki/후쿠오카 "wikilink")   | 마린 멧세 후쿠오카                                                         | 통산 45,000명  |
+| 2014년 6월 5일  |                                                         |                                                                    |             |
+| 2014년 6월 6일  |                                                         |                                                                    |             |
+| 2014년 6월 11일 | [히로시마](https://ko.wikipedia.org/wiki/히로시마 "wikilink")   | [그린 아레나](https://ko.wikipedia.org/wiki/히로시마_현립_종합_체육관 "wikilink")  | 통산 20,000명  |
+| 2014년 6월 12일 |                                                         |                                                                    |             |
+| 2014년 6월 18일 | 오사카                                                     | [쿄세라 돔 오사카](https://ko.wikipedia.org/wiki/오사카_돔 "wikilink")\[3\]   | 통산 180,000명 |
+| 2014년 6월 19일 |                                                         |                                                                    |             |
+| 2014년 6월 21일 |                                                         |                                                                    |             |
+| 2014년 6월 22일 |                                                         |                                                                    |             |
+
+## 세트 리스트
+
+## 특이사항 및 에피소드
+
+  - [유노윤호](https://ko.wikipedia.org/wiki/유노윤호 "wikilink")가 투어를 3주 가량 앞두었던 3월 11일, 개인 연습 중 발목에 부상을 입어 1\~2주 이상 휴식을 취해야 한다는 진단을 받았다.\[4\] 부상에도 불구하고 투어에는 정상적으로 임하였으며 요코하마에서의 첫 공연에서 "여러분들의 응원 덕분에 80% 이상 회복했다"며 관객들을 안심시키기도 했으나 모 인터뷰를 통해 사실은 50% 정도 회복된 상태에서 투어에 임한 것이라고 밝힌 바 있다.
+  - 나고야에서의 1일차인 4월 28일에는 공연 종료 후 스태프, 댄서들과 동방신기의 일본 데뷔 9주년을 축하하는 깜짝 파티를 열었다.
+
+## 제작
+
+  - [동방신기](https://ko.wikipedia.org/wiki/동방신기 "wikilink") ([유노윤호](https://ko.wikipedia.org/wiki/유노윤호 "wikilink"), [최강창민](https://ko.wikipedia.org/wiki/최강창민 "wikilink"))
+  - 기획·제작 : [에이벡스 엔터테인먼트](https://ko.wikipedia.org/wiki/에이벡스_엔터테인먼트 "wikilink"), SM 엔터테인먼트 재팬
+  - 협찬 : Joysound, 세븐&아이 넷미디어, 세븐일레븐
+  - 총감독 : SAM
+
+## 각주
+
+<references/>
+
+[분류:동방신기의 콘서트 투어](https://ko.wikipedia.org/wiki/분류:동방신기의_콘서트_투어 "wikilink") [분류:2014년 콘서트 투어](https://ko.wikipedia.org/wiki/분류:2014년_콘서트_투어 "wikilink")
+
+1.
+2.
+3.
+4.

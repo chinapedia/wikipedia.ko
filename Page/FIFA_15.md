@@ -1,0 +1,14 @@
+> This article is converted from Wikipedia: [FIFA 15](https://ko.wikipedia.org/wiki/FIFA_15).
+
+
+《**FIFA 15**》는 [일렉트로닉 아츠에서](https://ko.wikipedia.org/wiki/일렉트로닉_아츠 "wikilink") 제작한 22번째 [FIFA 시리즈](https://ko.wikipedia.org/wiki/FIFA_시리즈 "wikilink") 게임이다. 기존 콘솔 버전에서만 탑재된 이그나이트 엔진을 PC 버전에서도 탑재한 최초의 시리즈다.
+
+## 라이선스
+
+## 각주
+
+## 외부 링크
+
+  - [공식 웹사이트](http://www.easports.com/fifa)
+
+[분류:축구 게임](https://ko.wikipedia.org/wiki/분류:축구_게임 "wikilink") [분류:FIFA 게임 시리즈](https://ko.wikipedia.org/wiki/분류:FIFA_게임_시리즈 "wikilink") [분류:닌텐도 3DS 게임](https://ko.wikipedia.org/wiki/분류:닌텐도_3DS_게임 "wikilink") [분류:플레이스테이션 3 게임](https://ko.wikipedia.org/wiki/분류:플레이스테이션_3_게임 "wikilink") [분류:플레이스테이션 4 게임](https://ko.wikipedia.org/wiki/분류:플레이스테이션_4_게임 "wikilink") [분류:플레이스테이션 비타 게임](https://ko.wikipedia.org/wiki/분류:플레이스테이션_비타_게임 "wikilink") [분류:윈도우 게임](https://ko.wikipedia.org/wiki/분류:윈도우_게임 "wikilink") [분류:Wii 게임](https://ko.wikipedia.org/wiki/분류:Wii_게임 "wikilink") [분류:엑스박스 360 게임](https://ko.wikipedia.org/wiki/분류:엑스박스_360_게임 "wikilink") [분류:엑스박스 원 게임](https://ko.wikipedia.org/wiki/분류:엑스박스_원_게임 "wikilink") [분류:2014년 비디오 게임](https://ko.wikipedia.org/wiki/분류:2014년_비디오_게임 "wikilink") [분류:뉴질랜드를 배경으로 한 비디오 게임](https://ko.wikipedia.org/wiki/분류:뉴질랜드를_배경으로_한_비디오_게임 "wikilink") [분류:사우디아라비아를 배경으로 한 비디오 게임](https://ko.wikipedia.org/wiki/분류:사우디아라비아를_배경으로_한_비디오_게임 "wikilink") [분류:네덜란드를 배경으로 한 비디오 게임](https://ko.wikipedia.org/wiki/분류:네덜란드를_배경으로_한_비디오_게임 "wikilink") [분류:독일을 배경으로 한 비디오 게임](https://ko.wikipedia.org/wiki/분류:독일을_배경으로_한_비디오_게임 "wikilink") [분류:스페인을 배경으로 한 비디오 게임](https://ko.wikipedia.org/wiki/분류:스페인을_배경으로_한_비디오_게임 "wikilink") [분류:영국을 배경으로 한 비디오 게임](https://ko.wikipedia.org/wiki/분류:영국을_배경으로_한_비디오_게임 "wikilink") [분류:우크라이나를 배경으로 한 비디오 게임](https://ko.wikipedia.org/wiki/분류:우크라이나를_배경으로_한_비디오_게임 "wikilink") [분류:이탈리아를 배경으로 한 비디오 게임](https://ko.wikipedia.org/wiki/분류:이탈리아를_배경으로_한_비디오_게임 "wikilink") [분류:포르투갈을 배경으로 한 비디오 게임](https://ko.wikipedia.org/wiki/분류:포르투갈을_배경으로_한_비디오_게임 "wikilink") [분류:프랑스를 배경으로 한 비디오 게임](https://ko.wikipedia.org/wiki/분류:프랑스를_배경으로_한_비디오_게임 "wikilink") [분류:멕시코를 배경으로 한 비디오 게임](https://ko.wikipedia.org/wiki/분류:멕시코를_배경으로_한_비디오_게임 "wikilink") [분류:캐나다를 배경으로 한 비디오 게임](https://ko.wikipedia.org/wiki/분류:캐나다를_배경으로_한_비디오_게임 "wikilink") [분류:아르헨티나를 배경으로 한 비디오 게임](https://ko.wikipedia.org/wiki/분류:아르헨티나를_배경으로_한_비디오_게임 "wikilink") [분류:우루과이를 배경으로 한 비디오 게임](https://ko.wikipedia.org/wiki/분류:우루과이를_배경으로_한_비디오_게임 "wikilink") [분류:칠레를 배경으로 한 비디오 게임](https://ko.wikipedia.org/wiki/분류:칠레를_배경으로_한_비디오_게임 "wikilink") [분류:안드로이드 게임](https://ko.wikipedia.org/wiki/분류:안드로이드_게임 "wikilink") [분류:IOS 게임](https://ko.wikipedia.org/wiki/분류:IOS_게임 "wikilink") [분류:2015년을 배경으로 한 비디오 게임](https://ko.wikipedia.org/wiki/분류:2015년을_배경으로_한_비디오_게임 "wikilink")

@@ -1,0 +1,69 @@
+> This article is converted from Wikipedia: [   II ](https://ko.wikipedia.org/wiki/___II_).
+
+
+《**슈퍼 스트리트 파이터 II 터보**》(Super Street Fighter II Turbo)는 [스트리트 파이터 II: 더 월드 워리어의](../Page/스트리트_파이터_II:_더_월드_워리어.md "wikilink") 4번째 갱신판이다.
+
+## 게임보이 어드밴스 버전
+
+게임보이 어드밴스용 [스트리트 파이터](https://ko.wikipedia.org/wiki/스트리트_파이터 "wikilink") 게임. 슈퍼 스트리트 파이터 2 터보를 베이스로 하여 디자인과 게임 시스템을 개량하고 캐릭터 음악도 GBA에 맞게 수정하였다. 휴대용 게임기에 슈퍼 스트리트 파이터 2 시리즈가 이식된 유일한 사례. 일부 캐릭터의 배경은 스트리트 파이터 제로 2에서 따왔으며 일부 캐릭터의 배경은 본작 오리지널이다. 또한 게임보이 어드밴스의 용량 한계로 배경음악 등은 슈퍼패미컴보단 못하다는 평이 있으나 스트리트 파이터 해적판 게임보다는 양호한 것으로 알려지고 있다. 이긴 캐릭터의 모습과 함께 승리 후의 말이 나온다. (단, [계 (천간)단계에](https://ko.wikipedia.org/wiki/계_\(천간\) "wikilink") 이기면 바로 엔딩으로 간다.) 이기면 다음단계로 가고 지면 상대방의 모습과 함께 이어할지 나갈지를 주고 9초의 이어할 수 있는 시간을 준다.
+
+## 단계
+
+[신 (지지)단계](https://ko.wikipedia.org/wiki/신_\(지지\) "wikilink") 상대선수: 마이크 바이슨, [유 (지지)단계](https://ko.wikipedia.org/wiki/유_\(지지\) "wikilink") 상대선수: 발로그, [술 (지지)단계](https://ko.wikipedia.org/wiki/술_\(지지\) "wikilink") 상대선수: 사가트, [해 (지지)단계](https://ko.wikipedia.org/wiki/해_\(지지\) "wikilink") 상대선수: 베가
+
+### 류로 플레이 시
+
+1.  [자 (지지)단계](https://ko.wikipedia.org/wiki/자_\(지지\) "wikilink") 상대선수: 디제이, [축 (지지)단계](https://ko.wikipedia.org/wiki/축_\(지지\) "wikilink") 상대선수: 춘리, [인 (지지)단계](https://ko.wikipedia.org/wiki/인_\(지지\) "wikilink") 상대선수: 블랑카, [묘 (지지)단계](https://ko.wikipedia.org/wiki/묘_\(지지\) "wikilink") 상대선수: 썬더 호크, [진 (지지)단계](https://ko.wikipedia.org/wiki/진_\(지지\) "wikilink") 상대선수: 달심, [사 (지지)단계](https://ko.wikipedia.org/wiki/사_\(지지\) "wikilink") 상대선수: 가일, [오 (지지)단계](https://ko.wikipedia.org/wiki/오_\(지지\) "wikilink") 상대선수: 장기에프, [미 (지지)단계](https://ko.wikipedia.org/wiki/미_\(지지\) "wikilink") 상대선수: 캐미
+2.  [자 (지지)단계](https://ko.wikipedia.org/wiki/자_\(지지\) "wikilink") 상대선수: 가일, [축 (지지)단계](https://ko.wikipedia.org/wiki/축_\(지지\) "wikilink") 상대선수: 페이롱, [인 (지지)단계](https://ko.wikipedia.org/wiki/인_\(지지\) "wikilink") 상대선수: 블랑카, [묘 (지지)단계](https://ko.wikipedia.org/wiki/묘_\(지지\) "wikilink") 상대선수: 디제이, [진 (지지)단계](https://ko.wikipedia.org/wiki/진_\(지지\) "wikilink") 상대선수: 켄, [사 (지지)단계](https://ko.wikipedia.org/wiki/사_\(지지\) "wikilink") 상대선수: 썬더 호크, [오 (지지)단계](https://ko.wikipedia.org/wiki/오_\(지지\) "wikilink") 상대선수: 에드몬드 혼다, [미 (지지)단계](https://ko.wikipedia.org/wiki/미_\(지지\) "wikilink") 상대선수: 장기에프
+3.  [자 (지지)단계](https://ko.wikipedia.org/wiki/자_\(지지\) "wikilink") 상대선수: 썬더 호크, [축 (지지)단계](https://ko.wikipedia.org/wiki/축_\(지지\) "wikilink") 상대선수: 춘리, [인 (지지)단계](https://ko.wikipedia.org/wiki/인_\(지지\) "wikilink") 상대선수: 가일, [묘 (지지)단계](https://ko.wikipedia.org/wiki/묘_\(지지\) "wikilink") 상대선수: 블랑카, [진 (지지)단계](https://ko.wikipedia.org/wiki/진_\(지지\) "wikilink") 상대선수: 페이롱, [사 (지지)단계](https://ko.wikipedia.org/wiki/사_\(지지\) "wikilink") 상대선수: 디제이, [오 (지지)단계](https://ko.wikipedia.org/wiki/오_\(지지\) "wikilink") 상대선수: 달심, [미 (지지)단계](https://ko.wikipedia.org/wiki/미_\(지지\) "wikilink") 상대선수: 켄
+
+### 블랑카로 플레이 시
+
+1.  [자 (지지)단계](https://ko.wikipedia.org/wiki/자_\(지지\) "wikilink") 상대선수: 가일, [축 (지지)단계](https://ko.wikipedia.org/wiki/축_\(지지\) "wikilink") 상대선수: 장기에프, [인 (지지)단계](https://ko.wikipedia.org/wiki/인_\(지지\) "wikilink") 상대선수: 춘리, [묘 (지지)단계](https://ko.wikipedia.org/wiki/묘_\(지지\) "wikilink") 상대선수: 페이롱, [진 (지지)단계](https://ko.wikipedia.org/wiki/진_\(지지\) "wikilink") 상대선수: 썬더 호크, [사 (지지)단계](https://ko.wikipedia.org/wiki/사_\(지지\) "wikilink") 상대선수: 달심, [오 (지지)단계](https://ko.wikipedia.org/wiki/오_\(지지\) "wikilink") 상대선수: 류, [미 (지지)단계](https://ko.wikipedia.org/wiki/미_\(지지\) "wikilink") 상대선수: 디제이
+
+### 가일로 플레이 시
+
+1.  [자 (지지)단계](https://ko.wikipedia.org/wiki/자_\(지지\) "wikilink") 상대선수: 썬더 호크, [축 (지지)단계](https://ko.wikipedia.org/wiki/축_\(지지\) "wikilink") 상대선수: 류, [인 (지지)단계](https://ko.wikipedia.org/wiki/인_\(지지\) "wikilink") 상대선수: 블랑카, [묘 (지지)단계](https://ko.wikipedia.org/wiki/묘_\(지지\) "wikilink") 상대선수: 디제이, [진 (지지)단계](https://ko.wikipedia.org/wiki/진_\(지지\) "wikilink") 상대선수: 켄, [사 (지지)단계](https://ko.wikipedia.org/wiki/사_\(지지\) "wikilink") 상대선수: 장기에프, [오 (지지)단계](https://ko.wikipedia.org/wiki/오_\(지지\) "wikilink") 상대선수: 캐미, [미 (지지)단계](https://ko.wikipedia.org/wiki/미_\(지지\) "wikilink") 상대선수: 페이롱
+2.  [자 (지지)단계](https://ko.wikipedia.org/wiki/자_\(지지\) "wikilink") 상대선수: 캐미, [축 (지지)단계](https://ko.wikipedia.org/wiki/축_\(지지\) "wikilink") 상대선수: 페이롱, [인 (지지)단계](https://ko.wikipedia.org/wiki/인_\(지지\) "wikilink") 상대선수: 에드몬드 혼다, [묘 (지지)단계](https://ko.wikipedia.org/wiki/묘_\(지지\) "wikilink") 상대선수: 블랑카, [진 (지지)단계](https://ko.wikipedia.org/wiki/진_\(지지\) "wikilink") 상대선수: 디제이, [사 (지지)단계](https://ko.wikipedia.org/wiki/사_\(지지\) "wikilink") 상대선수: 썬더 호크, [오 (지지)단계](https://ko.wikipedia.org/wiki/오_\(지지\) "wikilink") 상대선수: 달심, [미 (지지)단계](https://ko.wikipedia.org/wiki/미_\(지지\) "wikilink") 상대선수: 켄
+
+### 춘리로 플레이 시
+
+1.  [자 (지지)단계](https://ko.wikipedia.org/wiki/자_\(지지\) "wikilink") 상대선수: 캐미, [축 (지지)단계](https://ko.wikipedia.org/wiki/축_\(지지\) "wikilink") 상대선수: 켄, [인 (지지)단계](https://ko.wikipedia.org/wiki/인_\(지지\) "wikilink") 상대선수: 디제이, [묘 (지지)단계](https://ko.wikipedia.org/wiki/묘_\(지지\) "wikilink") 상대선수: 장기에프, [진 (지지)단계](https://ko.wikipedia.org/wiki/진_\(지지\) "wikilink") 상대선수: 류, [사 (지지)단계](https://ko.wikipedia.org/wiki/사_\(지지\) "wikilink") 상대선수: 썬더 호크, [오 (지지)단계](https://ko.wikipedia.org/wiki/오_\(지지\) "wikilink") 상대선수: 페이롱, [미 (지지)단계](https://ko.wikipedia.org/wiki/미_\(지지\) "wikilink") 상대선수: 블랑카
+
+### 장기에프로 플레이 시
+
+1.  [자 (지지)단계](https://ko.wikipedia.org/wiki/자_\(지지\) "wikilink") 상대선수: 블랑카, [축 (지지)단계](https://ko.wikipedia.org/wiki/축_\(지지\) "wikilink") 상대선수: 캐미, [인 (지지)단계](https://ko.wikipedia.org/wiki/인_\(지지\) "wikilink") 상대선수: 페이롱, [묘 (지지)단계](https://ko.wikipedia.org/wiki/묘_\(지지\) "wikilink") 상대선수: 가일, [진 (지지)단계](https://ko.wikipedia.org/wiki/진_\(지지\) "wikilink") 상대선수: 썬더 호크, [사 (지지)단계](https://ko.wikipedia.org/wiki/사_\(지지\) "wikilink") 상대선수: 류, [오 (지지)단계](https://ko.wikipedia.org/wiki/오_\(지지\) "wikilink") 상대선수: 디제이, [미 (지지)단계](https://ko.wikipedia.org/wiki/미_\(지지\) "wikilink") 상대선수: 에드몬드 혼다
+
+### 썬더 호크로 플레이 시
+
+1.  [자 (지지)단계](https://ko.wikipedia.org/wiki/자_\(지지\) "wikilink") 상대선수: 블랑카, [축 (지지)단계](https://ko.wikipedia.org/wiki/축_\(지지\) "wikilink") 상대선수: 춘리, [인 (지지)단계](https://ko.wikipedia.org/wiki/인_\(지지\) "wikilink") 상대선수: 장기에프, [묘 (지지)단계](https://ko.wikipedia.org/wiki/묘_\(지지\) "wikilink") 상대선수: 류, [진 (지지)단계](https://ko.wikipedia.org/wiki/진_\(지지\) "wikilink") 상대선수: 썬더 호크, [사 (지지)단계](https://ko.wikipedia.org/wiki/사_\(지지\) "wikilink") 상대선수: 디제이, [오 (지지)단계](https://ko.wikipedia.org/wiki/오_\(지지\) "wikilink") 상대선수: 에드몬드 혼다, [미 (지지)단계](https://ko.wikipedia.org/wiki/미_\(지지\) "wikilink") 상대선수: 가일
+2.  [자 (지지)단계](https://ko.wikipedia.org/wiki/자_\(지지\) "wikilink") 상대선수: 가일, [축 (지지)단계](https://ko.wikipedia.org/wiki/축_\(지지\) "wikilink") 상대선수: 캐미, [인 (지지)단계](https://ko.wikipedia.org/wiki/인_\(지지\) "wikilink") 상대선수: 장기에프, [묘 (지지)단계](https://ko.wikipedia.org/wiki/묘_\(지지\) "wikilink") 상대선수: 켄, [진 (지지)단계](https://ko.wikipedia.org/wiki/진_\(지지\) "wikilink") 상대선수: 에드몬드 혼다, [사 (지지)단계](https://ko.wikipedia.org/wiki/사_\(지지\) "wikilink") 상대선수: 춘리, [오 (지지)단계](https://ko.wikipedia.org/wiki/오_\(지지\) "wikilink") 상대선수: 디제이, [미 (지지)단계](https://ko.wikipedia.org/wiki/미_\(지지\) "wikilink") 상대선수: 썬더 호크
+3.  [자 (지지)단계](https://ko.wikipedia.org/wiki/자_\(지지\) "wikilink") 상대선수: 캐미, [축 (지지)단계](https://ko.wikipedia.org/wiki/축_\(지지\) "wikilink") 상대선수: 류, [인 (지지)단계](https://ko.wikipedia.org/wiki/인_\(지지\) "wikilink") 상대선수: 춘리, [묘 (지지)단계](https://ko.wikipedia.org/wiki/묘_\(지지\) "wikilink") 상대선수: 페이롱, [진 (지지)단계](https://ko.wikipedia.org/wiki/진_\(지지\) "wikilink") 상대선수: 디제이, [사 (지지)단계](https://ko.wikipedia.org/wiki/사_\(지지\) "wikilink") 상대선수: 달심, [오 (지지)단계](https://ko.wikipedia.org/wiki/오_\(지지\) "wikilink") 상대선수: 블랑카, [미 (지지)단계](https://ko.wikipedia.org/wiki/미_\(지지\) "wikilink") 상대선수: 켄
+
+### 캐미로 플레이 시
+
+1.  [자 (지지)단계](https://ko.wikipedia.org/wiki/자_\(지지\) "wikilink") 상대선수: 블랑카, [축 (지지)단계](https://ko.wikipedia.org/wiki/축_\(지지\) "wikilink") 상대선수: 페이롱, [인 (지지)단계](https://ko.wikipedia.org/wiki/인_\(지지\) "wikilink") 상대선수: 디제이, [묘 (지지)단계](https://ko.wikipedia.org/wiki/묘_\(지지\) "wikilink") 상대선수: 가일, [진 (지지)단계](https://ko.wikipedia.org/wiki/진_\(지지\) "wikilink") 상대선수: 켄, [사 (지지)단계](https://ko.wikipedia.org/wiki/사_\(지지\) "wikilink") 상대선수: 춘리, [오 (지지)단계](https://ko.wikipedia.org/wiki/오_\(지지\) "wikilink") 상대선수: 썬더 호크, [미 (지지)단계](https://ko.wikipedia.org/wiki/미_\(지지\) "wikilink") 상대선수: 달심
+2.  [자 (지지)단계](https://ko.wikipedia.org/wiki/자_\(지지\) "wikilink") 상대선수: 페이롱, [축 (지지)단계](https://ko.wikipedia.org/wiki/축_\(지지\) "wikilink") 상대선수: 류, [인 (지지)단계](https://ko.wikipedia.org/wiki/인_\(지지\) "wikilink") 상대선수: 춘리, [묘 (지지)단계](https://ko.wikipedia.org/wiki/묘_\(지지\) "wikilink") 상대선수: 디제이, [진 (지지)단계](https://ko.wikipedia.org/wiki/진_\(지지\) "wikilink") 상대선수: 장기에프, [사 (지지)단계](https://ko.wikipedia.org/wiki/사_\(지지\) "wikilink") 상대선수: 에드몬드 혼다, [오 (지지)단계](https://ko.wikipedia.org/wiki/오_\(지지\) "wikilink") 상대선수: 켄, [미 (지지)단계](https://ko.wikipedia.org/wiki/미_\(지지\) "wikilink") 상대선수: 달심
+3.  [자 (지지)단계](https://ko.wikipedia.org/wiki/자_\(지지\) "wikilink") 상대선수: 가일, [축 (지지)단계](https://ko.wikipedia.org/wiki/축_\(지지\) "wikilink") 상대선수: 썬더 호크, [인 (지지)단계](https://ko.wikipedia.org/wiki/인_\(지지\) "wikilink") 상대선수: 달심, [묘 (지지)단계](https://ko.wikipedia.org/wiki/묘_\(지지\) "wikilink") 상대선수: 류, [진 (지지)단계](https://ko.wikipedia.org/wiki/진_\(지지\) "wikilink") 상대선수: 장기에프, [사 (지지)단계](https://ko.wikipedia.org/wiki/사_\(지지\) "wikilink") 상대선수: 캐미, [오 (지지)단계](https://ko.wikipedia.org/wiki/오_\(지지\) "wikilink") 상대선수: 에드몬드 혼다, [미 (지지)단계](https://ko.wikipedia.org/wiki/미_\(지지\) "wikilink") 상대선수: 블랑카
+4.  [자 (지지)단계](https://ko.wikipedia.org/wiki/자_\(지지\) "wikilink") 상대선수: 에드몬드 혼다, [축 (지지)단계](https://ko.wikipedia.org/wiki/축_\(지지\) "wikilink") 상대선수: 디제이, [인 (지지)단계](https://ko.wikipedia.org/wiki/인_\(지지\) "wikilink") 상대선수: 페이롱, [묘 (지지)단계](https://ko.wikipedia.org/wiki/묘_\(지지\) "wikilink") 상대선수: 켄, [진 (지지)단계](https://ko.wikipedia.org/wiki/진_\(지지\) "wikilink") 상대선수: 춘리, [사 (지지)단계](https://ko.wikipedia.org/wiki/사_\(지지\) "wikilink") 상대선수: 류, [오 (지지)단계](https://ko.wikipedia.org/wiki/오_\(지지\) "wikilink") 상대선수: 장기에프, [미 (지지)단계](https://ko.wikipedia.org/wiki/미_\(지지\) "wikilink") 상대선수: 가일
+
+### 마이크 바이슨으로 플레이 시
+
+1.  [자 (지지)단계](https://ko.wikipedia.org/wiki/자_\(지지\) "wikilink") 상대선수: 디제이, [축 (지지)단계](https://ko.wikipedia.org/wiki/축_\(지지\) "wikilink") 상대선수: 에드몬드 혼다, [인 (지지)단계](https://ko.wikipedia.org/wiki/인_\(지지\) "wikilink") 상대선수: 달심, [묘 (지지)단계](https://ko.wikipedia.org/wiki/묘_\(지지\) "wikilink") 상대선수: 블랑카, [진 (지지)단계](https://ko.wikipedia.org/wiki/진_\(지지\) "wikilink") 상대선수: 페이롱, [사 (지지)단계](https://ko.wikipedia.org/wiki/사_\(지지\) "wikilink") 상대선수: 썬더 호크, [오 (지지)단계](https://ko.wikipedia.org/wiki/오_\(지지\) "wikilink") 상대선수: 캐미, [미 (지지)단계](https://ko.wikipedia.org/wiki/미_\(지지\) "wikilink") 상대선수: 장기에프
+2.  [자 (지지)단계](https://ko.wikipedia.org/wiki/자_\(지지\) "wikilink") 상대선수: 캐미, [축 (지지)단계](https://ko.wikipedia.org/wiki/축_\(지지\) "wikilink") 상대선수: 장기에프, [인 (지지)단계](https://ko.wikipedia.org/wiki/인_\(지지\) "wikilink") 상대선수: 페이롱, [묘 (지지)단계](https://ko.wikipedia.org/wiki/묘_\(지지\) "wikilink") 상대선수: 에드몬드 혼다, [진 (지지)단계](https://ko.wikipedia.org/wiki/진_\(지지\) "wikilink") 상대선수: 썬더 호크, [사 (지지)단계](https://ko.wikipedia.org/wiki/사_\(지지\) "wikilink") 상대선수: 가일, [오 (지지)단계](https://ko.wikipedia.org/wiki/오_\(지지\) "wikilink") 상대선수: 달심, [미 (지지)단계](https://ko.wikipedia.org/wiki/미_\(지지\) "wikilink") 상대선수: 류
+
+### 사가트로 플레이 시
+
+1.  [자 (지지)단계](https://ko.wikipedia.org/wiki/자_\(지지\) "wikilink") 상대선수: 캐미, [축 (지지)단계](https://ko.wikipedia.org/wiki/축_\(지지\) "wikilink") 상대선수: 춘리, [인 (지지)단계](https://ko.wikipedia.org/wiki/인_\(지지\) "wikilink") 상대선수: 장기에프, [묘 (지지)단계](https://ko.wikipedia.org/wiki/묘_\(지지\) "wikilink") 상대선수: 달심, [진 (지지)단계](https://ko.wikipedia.org/wiki/진_\(지지\) "wikilink") 상대선수: 디제이, [사 (지지)단계](https://ko.wikipedia.org/wiki/사_\(지지\) "wikilink") 상대선수: 에드몬드 혼다, [오 (지지)단계](https://ko.wikipedia.org/wiki/오_\(지지\) "wikilink") 상대선수: 페이롱, [미 (지지)단계](https://ko.wikipedia.org/wiki/미_\(지지\) "wikilink") 상대선수: 류
+2.  [자 (지지)단계](https://ko.wikipedia.org/wiki/자_\(지지\) "wikilink") 상대선수: 에드몬드 혼다, [축 (지지)단계](https://ko.wikipedia.org/wiki/축_\(지지\) "wikilink") 상대선수: 페이롱, [인 (지지)단계](https://ko.wikipedia.org/wiki/인_\(지지\) "wikilink") 상대선수: 캐미, [묘 (지지)단계](https://ko.wikipedia.org/wiki/묘_\(지지\) "wikilink") 상대선수: 가일, [진 (지지)단계](https://ko.wikipedia.org/wiki/진_\(지지\) "wikilink") 상대선수: 춘리, [사 (지지)단계](https://ko.wikipedia.org/wiki/사_\(지지\) "wikilink") 상대선수: 썬더 호크, [오 (지지)단계](https://ko.wikipedia.org/wiki/오_\(지지\) "wikilink") 상대선수: 켄, [미 (지지)단계](https://ko.wikipedia.org/wiki/미_\(지지\) "wikilink") 상대선수: 장기에프
+3.  [자 (지지)단계](https://ko.wikipedia.org/wiki/자_\(지지\) "wikilink") 상대선수: 켄, [축 (지지)단계](https://ko.wikipedia.org/wiki/축_\(지지\) "wikilink") 상대선수: 캐미, [인 (지지)단계](https://ko.wikipedia.org/wiki/인_\(지지\) "wikilink") 상대선수: 블랑카, [묘 (지지)단계](https://ko.wikipedia.org/wiki/묘_\(지지\) "wikilink") 상대선수: 썬더 호크, [진 (지지)단계](https://ko.wikipedia.org/wiki/진_\(지지\) "wikilink") 상대선수: 디제이, [사 (지지)단계](https://ko.wikipedia.org/wiki/사_\(지지\) "wikilink") 상대선수: 춘리, [오 (지지)단계](https://ko.wikipedia.org/wiki/오_\(지지\) "wikilink") 상대선수: 가일, [미 (지지)단계](https://ko.wikipedia.org/wiki/미_\(지지\) "wikilink") 상대선수: 페이롱
+
+## 기타
+
+  - 고우키 선택: 류 또는 켄에서 3초, 썬더 호크에서 3초, 가일에서 3초, 캐미에서 3초 류 또는 켄에서 3초를 기다린 후 시작키를 누른 상태에서 3개의 펀치버튼을 누른다.
+  - [해 (지지)단계](https://ko.wikipedia.org/wiki/해_\(지지\) "wikilink"): 고우키가 베가를 쓰러뜨리고 난입하기도 한다.
+  - 고우키 엔딩: 빨리 끝나고 게임을 만든 사람이 나올 때 다친 상대 캐릭터들이 차례로 나온다.
+
+## 각주
+
+[분류:1994년 비디오 게임](https://ko.wikipedia.org/wiki/분류:1994년_비디오_게임 "wikilink") [분류:스트리트 파이터](https://ko.wikipedia.org/wiki/분류:스트리트_파이터 "wikilink") [분류:3DO 게임](https://ko.wikipedia.org/wiki/분류:3DO_게임 "wikilink") [분류:아미가 게임](https://ko.wikipedia.org/wiki/분류:아미가_게임 "wikilink") [분류:아케이드 게임](https://ko.wikipedia.org/wiki/분류:아케이드_게임 "wikilink") [분류:도스 게임](https://ko.wikipedia.org/wiki/분류:도스_게임 "wikilink") [분류:게임보이 어드밴스 게임](https://ko.wikipedia.org/wiki/분류:게임보이_어드밴스_게임 "wikilink") [분류:플레이스테이션 2 게임](https://ko.wikipedia.org/wiki/분류:플레이스테이션_2_게임 "wikilink") [분류:버추얼 콘솔 게임](https://ko.wikipedia.org/wiki/분류:버추얼_콘솔_게임 "wikilink")

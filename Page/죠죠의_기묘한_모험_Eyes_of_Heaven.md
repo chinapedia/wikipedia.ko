@@ -1,0 +1,377 @@
+> This article is converted from Wikipedia: [   Eyes of Heaven](https://ko.wikipedia.org/wiki/___Eyes_of_Heaven).
+
+
+**죠죠의 기묘한 모험 Eyes Of Heaven**(ジョジョの奇妙な冒険 アイズオブヘブン)은 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [12월 17일에](https://ko.wikipedia.org/wiki/12월_17일 "wikilink") [반다이 남코 게임스가](https://ko.wikipedia.org/wiki/반다이_남코_게임스 "wikilink") 발매한 [죠죠의 기묘한 모험 All Star Battle의](../Page/죠죠의_기묘한_모험_All_Star_Battle.md "wikilink") 후속작이다.
+
+## 개요
+
+[죠죠의 기묘한 모험 All Star Battle의](../Page/죠죠의_기묘한_모험_All_Star_Battle.md "wikilink") 후속작이다.12월 19일, 울트라 점프 1월호에 처음으로 공개되었다. 제목의 아이즈 오브 헤븐은 스토리 모드에서 핵심이 되며, 푸치가 찾아 헤매는 그것이다. 스타일리쉬 대전격투 죠죠 액션을 표방했던 전작과 달리 이번엔 『스타일리쉬 태그 죠죠 액션』을 표방했다. 그 말대로 이번엔 전작과 달리 두 캐릭터가 태그를 지어서 싸우는 2 VS 2 팀 플레이 형식의 게임으로 바뀌었다.
+
+## 시스템
+
+전작에서 이어지는 부분과 새로이 추가된 요소가 있다. 전작에서 이어지는 부분은 [죠죠의 기묘한 모험 All Star Battle항목을](../Page/죠죠의_기묘한_모험_All_Star_Battle.md "wikilink") 참고.
+
+### 새로이 추가된 요소
+
+#### 계승 되는 의지
+
+한쪽의 캐릭터가 재기불능이 되는 경우 '계승되는 의지'가 발동하여 남은 캐릭터에게 점점 줄어드는 체력 버프가 붙으며 파워업이 된다. 추가되는 체력이 떨어지면 풀리므로 주의할 필요가 있다.
+
+#### 듀얼 히트 어택
+
+태그 공격으로 파트너와 함께 사용하는 강력한 필살기이다. 특정한 태그의 경우, 원작을 재현한 연출이나 특정한 연출이 나온다.
+
+#### 고고고 피니시
+
+1차 체험판에서 처음 공개되었으며, 당시의 시스템에서는 상대 체력이 얼마 안남은 상태로 다운 될 때 상대 주변의 금빛 영역에 들어가면 발동된다. △ 버튼을 눌러 게이지를 모으면, 플레이어 캐릭터와 적 캐릭터가 대치하는 화면으로 바뀌는데, ○버튼 모양이 중심에 그려진 붉은 원을 중심으로 흰 테두리의 원이 나타나 크기가 줄어든다. 이 흰 테두리의 원이 줄어들다가 붉은 원 안에 들어간 순간 ○버튼을 누르는 것으로 상대를 한 방에 마무리지을 수 있다.
+
+2차 체험판에선 다른 형식으로 나왔다. 플레이어의 파트너가 리타이어 당했을시에만 가능하며. 상대에게 피니쉬를 걸면 4개의 버튼이 화면에 생기는데. 이때 버튼 하나를 눌러서 상대방과 동일한 버튼을 맞추면 피니쉬가 성공한다. 하지만 서로 다른 버튼일경우, 플레이어는 상대방의 반격을 맞고서 멀리 날아간다.
+
+정식발매 이후에도 남아있는 시스템으로 발동조건이 붙었다. 해당 사항은 2차와 동일.
+
+#### 비전
+
+조작할 수 있지만(단색의 그림자 형태로만 나온다), 스킬을 한개밖에 쓸 수가 없고 한대만 맞아도 그냥 죽어버리는 모션으로 쓰러져 버린다.
+
+당연히 데미지도 줄 수 없긴 하나, 대신 상대방에게 경직을 주는 것이 가능하기에 공격을 통해 상대방의 발을 묶어두면서 살아남은 아군이 제대로 활약할 수 있는 조그마한 기회를 줄 수 있다.
+
+## 등장 캐릭터
+
+### 플레이어블 캐릭터
+
+#### 1부 팬텀 블러드
+
+  - [죠나단 죠스타](../Page/죠나단_죠스타.md "wikilink")
+    성우 - [오키츠 카즈유키](https://ko.wikipedia.org/wiki/오키츠_카즈유키 "wikilink")
+  - 윌 A. 체펠리
+    성우 - [시오야 요쿠](https://ko.wikipedia.org/wiki/시오야_요쿠 "wikilink")
+  - 디오 브란도
+    성우 - [코야스 타케히토](https://ko.wikipedia.org/wiki/코야스_타케히토 "wikilink")
+  - 로버트 E.O 스피드 위겐
+    성우-[우에다 요우지](https://ko.wikipedia.org/wiki/우에다_요우지 "wikilink")
+
+#### 2부 전투조류
+
+  - 죠셉 죠스타
+    성우 - [스기타 토모카즈](https://ko.wikipedia.org/wiki/스기타_토모카즈 "wikilink")
+  - 시저 안토니오 체펠리
+    성우 - [사토 타쿠야](../Page/사토_타쿠야.md "wikilink")
+  - 리사리사
+    성우 - [타나카 아츠코](https://ko.wikipedia.org/wiki/타나카_아츠코 "wikilink")
+  - 와무우
+    성우 - [오오츠카 아키오](../Page/오오츠카_아키오.md "wikilink")
+  - 에시디시
+    성우 - [후지와라 케이지](https://ko.wikipedia.org/wiki/후지와라_케이지 "wikilink")
+  - 카즈
+    성우 - [이노우에 카즈히코](https://ko.wikipedia.org/wiki/이노우에_카즈히코 "wikilink")
+  - 루돌 폰 슈트로하임
+    성우- [이마루오카 아츠시](https://ko.wikipedia.org/wiki/이마루오카_아츠시 "wikilink")
+
+#### 3부 스타더스트 크루세이더즈
+
+  - [쿠죠 죠타로](https://ko.wikipedia.org/wiki/쿠죠_죠타로 "wikilink") & 스타 플래티나
+    성우 - [오노 다이스케](https://ko.wikipedia.org/wiki/오노_다이스케 "wikilink")
+  - 카쿄인 노리아키
+    성우 - [히라카와 다이스케](https://ko.wikipedia.org/wiki/히라카와_다이스케 "wikilink")
+  - 장 피에르 폴나레프
+    성우 - [코마츠 후미노리](https://ko.wikipedia.org/wiki/코마츠_후미노리 "wikilink")
+  - 무함마드 압둘
+    성우 - [미야케 켄타](https://ko.wikipedia.org/wiki/미야케_켄타 "wikilink")
+  - 이기 : 성우 - [후쿠엔 미사토](https://ko.wikipedia.org/wiki/후쿠엔_미사토 "wikilink")
+    죠셉 죠스타
+    성우 - [이즈카 운쇼](https://ko.wikipedia.org/wiki/이즈카_운쇼 "wikilink")
+  - 홀 호스 + J. 가일
+    성우 - [카우치 히데노부](https://ko.wikipedia.org/wiki/카우치_히데노부 "wikilink"), [키리모토 타쿠야](https://ko.wikipedia.org/wiki/키리모토_타쿠야 "wikilink")
+  - 은두르
+    성우 - [이토 켄타로](https://ko.wikipedia.org/wiki/이토_켄타로 "wikilink")
+  - 머라이어
+    성우- [타카가키 아야히](https://ko.wikipedia.org/wiki/타카가키_아야히 "wikilink")
+  - 펫숍
+    성우- 없음
+  - 바닐라 아이스
+    성우 - [하야미 쇼](https://ko.wikipedia.org/wiki/하야미_쇼 "wikilink")
+  - DIO & 더 월드
+    성우 - [코야스 타케히토](https://ko.wikipedia.org/wiki/코야스_타케히토 "wikilink")
+
+#### 4부 다이아몬드는 부서지지 않는다
+
+  - [히가시카타 죠스케](../Page/히가시카타_죠스케.md "wikilink") & 크레이지 다이아몬드
+    성우 - [하타노 와타루](https://ko.wikipedia.org/wiki/하타노_와타루 "wikilink")
+  - 니지무라 오쿠야스
+    성우 - [타카기 와타루](https://ko.wikipedia.org/wiki/타카기_와타루 "wikilink")
+  - 히로세 코이치
+    성우 - [박로미](https://ko.wikipedia.org/wiki/박로미 "wikilink")
+  - 오토이시 아키라
+    성우 - [모리쿠보 쇼타로](https://ko.wikipedia.org/wiki/모리쿠보_쇼타로 "wikilink")
+  - 야마기시 유카코
+    성우 - [아카사키 치나츠](https://ko.wikipedia.org/wiki/아카사키_치나츠 "wikilink")
+  - 키시베 로한
+    성우 - [카미야 히로시](https://ko.wikipedia.org/wiki/카미야_히로시 "wikilink")
+  - 키라 요시카게
+    성우 - [코야마 리키야](https://ko.wikipedia.org/wiki/코야마_리키야 "wikilink"), [카시와쿠라 츠토무](https://ko.wikipedia.org/wiki/카시와쿠라_츠토무 "wikilink")
+  - 얀구 시게키요: 성우 - [야마구치 캇페이](https://ko.wikipedia.org/wiki/야마구치_캇페이 "wikilink")
+    카와지리 코우사쿠 + 고양이풀 + 키라 요시히로
+    성우 - [코야마 리키야](https://ko.wikipedia.org/wiki/코야마_리키야 "wikilink"), [시마다 빈](https://ko.wikipedia.org/wiki/시마다_빈 "wikilink")
+  - 4부 죠타로 & 스타 플래티나 더 월드
+    성우- [오노 다이스케](https://ko.wikipedia.org/wiki/오노_다이스케 "wikilink")
+
+#### 5부 황금의 바람
+
+  - 죠르노 죠바나
+    성우 - [나미카와 다이스케](https://ko.wikipedia.org/wiki/나미카와_다이스케 "wikilink")
+  - 귀도 미스타 & 섹스 피스톨즈
+    성우 - [아카바네 겐지](https://ko.wikipedia.org/wiki/아카바네_겐지 "wikilink"), [이마이 아사미](https://ko.wikipedia.org/wiki/이마이_아사미 "wikilink")
+  - 블로노 부첼라티
+    성우- [스기야마 노리아키](https://ko.wikipedia.org/wiki/스기야마_노리아키 "wikilink")
+  - 나란챠 길가
+    성우 - [산페이 유코](https://ko.wikipedia.org/wiki/산페이_유코 "wikilink")
+  - 판나코타 푸고 & 퍼플 헤이즈
+    성우 - [오다 히사후미](https://ko.wikipedia.org/wiki/오다_히사후미 "wikilink"),[에가와 히사오](https://ko.wikipedia.org/wiki/에가와_히사오 "wikilink")
+  - 트리쉬 우나
+    성우 - 토야마 나오
+  - [디아볼로](../Page/디아볼로_\(죠죠의_기묘한_모험\).md "wikilink") + 비네거 도피오
+    성우 - [모리카와 토시유키](https://ko.wikipedia.org/wiki/모리카와_토시유키 "wikilink"), [이시다 아키라](https://ko.wikipedia.org/wiki/이시다_아키라 "wikilink")
+
+#### 6부 스톤 오션
+
+  - 쿠죠 죠린
+    성우 - [사와시로 미유키](https://ko.wikipedia.org/wiki/사와시로_미유키 "wikilink")
+  - 에르메스 코스텔로
+    성우 - [요네모토 치즈](https://ko.wikipedia.org/wiki/요네모토_치즈 "wikilink")
+  - 나르시소 아나수이
+    성우 - [나카무라 유이치](https://ko.wikipedia.org/wiki/나카무라_유이치 "wikilink")
+  - 웨더 리포트
+    성우-[오오카와 토오루](https://ko.wikipedia.org/wiki/오오카와_토오루 "wikilink")
+  - 엔리코 푸치 & 화이트스네이크
+    성우 - [나카타 죠지](https://ko.wikipedia.org/wiki/나카타_죠지 "wikilink"), [미스타니 야스노리](https://ko.wikipedia.org/wiki/미스타니_야스노리 "wikilink")
+  - 신월의 때를 기다리는 푸치 & C-MOON & 메이드 인 헤븐
+    성우 - [나카타 죠지](https://ko.wikipedia.org/wiki/나카타_죠지 "wikilink"), [미스타니 야스노리](https://ko.wikipedia.org/wiki/미스타니_야스노리 "wikilink")
+
+#### 7부 스틸 볼 런
+
+  - [죠니 죠스타](../Page/죠나단_죠스타.md "wikilink")
+    성우 - [카지 유우키](https://ko.wikipedia.org/wiki/카지_유우키 "wikilink")
+  - 쟈이로 체펠리
+    성우 - [미키 신이치로](https://ko.wikipedia.org/wiki/미키_신이치로 "wikilink")
+  - 퍼니 발렌타인 & D4C
+    성우 - [카세 야스유키](../Page/카세_야스유키.md "wikilink")
+  - 디에고 브란도
+    성우- [코야스 타케히토](https://ko.wikipedia.org/wiki/코야스_타케히토 "wikilink")
+  - 평행세계에서 온 디에고
+    성우- [코야스 타케히토](https://ko.wikipedia.org/wiki/코야스_타케히토 "wikilink")
+
+#### 8부 죠죠리온
+
+  - [히가시카타 죠스케](../Page/히가시카타_죠스케.md "wikilink") & 소프트&웨트
+    성우 - [마도노 미츠아키](https://ko.wikipedia.org/wiki/마도노_미츠아키 "wikilink")
+  - 히가시카타 죠슈
+    성우 - 미루아 히로아키
+
+### 비 플레이어블 캐릭터
+
+#### 스테이지 기믹
+
+##### Part.3
+
+  - 데스 13
+    성우 - [오오타니 이쿠에](https://ko.wikipedia.org/wiki/오오타니_이쿠에 "wikilink")
+
+##### Part.4
+
+  - 스기모토 레이미
+
+##### Part.5
+
+  - 비치보이
+    프로슈토 & 더 그레이트풀 데드
+    실버 채리엇 레퀴엠
+    코코 잠보
+
+##### Part.6
+
+  - 귀스
+    성우 - [혼다 타카코](https://ko.wikipedia.org/wiki/혼다_타카코 "wikilink")
+  - 앰포리오 앨니뇨의 텔레포트
+    스포츠 맥스
+    성우 - [토리우미 코스케](https://ko.wikipedia.org/wiki/토리우미_코스케 "wikilink")
+
+##### Part.8
+
+  - 히가시카타 츠루키
+    성우 - [이구치 유카](https://ko.wikipedia.org/wiki/이구치_유카 "wikilink")
+
+#### 카메오
+
+##### Part.1
+
+  - 죠지 죠스타 1세
+    성우 - [스기와라 마사시](https://ko.wikipedia.org/wiki/스기와라_마사시 "wikilink")
+  - 문신
+    성우 - [타지키 히로아키](https://ko.wikipedia.org/wiki/타지키_히로아키 "wikilink")
+  - 동양인
+    성우 - [야마모토 이타루](https://ko.wikipedia.org/wiki/야마모토_이타루 "wikilink")
+  - 톰페티
+    성우 - [오오키 타미오](https://ko.wikipedia.org/wiki/오오키_타미오 "wikilink")
+
+##### Part.2
+
+  - 산타나
+    성우 - [노무라 켄지](https://ko.wikipedia.org/wiki/노무라_켄지 "wikilink")
+
+##### Part.3
+
+  - 그레이플라이
+    성우 - [쵸 카츠미](https://ko.wikipedia.org/wiki/쵸_카츠미 "wikilink")
+  - 러버소울
+    성우 - [카와다 신지](https://ko.wikipedia.org/wiki/카와다_신지 "wikilink")
+  - 행드 맨
+    성우 - [키리모토 타쿠야](https://ko.wikipedia.org/wiki/키리모토_타쿠야 "wikilink")
+  - 알레시
+    성우 - [오오사카 마사야](https://ko.wikipedia.org/wiki/오오사카_마사야 "wikilink")
+
+##### Part.4
+
+  - 토니오 트루사루디
+    성우 - [마츠바라 다이스케](https://ko.wikipedia.org/wiki/마츠바라_다이스케 "wikilink")
+  - 츠지 아야
+    성우 - [미즈하시 카오리](https://ko.wikipedia.org/wiki/미즈하시_카오리 "wikilink")
+  - 훈가미 유야
+    성우 - [칸바라 다이치](https://ko.wikipedia.org/wiki/칸바라_다이치 "wikilink")
+
+##### Part.5
+
+  - 일루죠
+    성우 - [나카이 카즈야](https://ko.wikipedia.org/wiki/나카이_카즈야 "wikilink")
+  - 멜로네
+    성우 - [노가미 켄지](https://ko.wikipedia.org/wiki/노가미_켄지 "wikilink")
+  - 스쿠알로
+    성우 - [모리 노리히사](https://ko.wikipedia.org/wiki/모리_노리히사 "wikilink")
+  - 리조토 네로
+    성우 - [쿠로다 타카야](https://ko.wikipedia.org/wiki/쿠로다_타카야 "wikilink")
+
+##### Part.6
+
+  - 비바노 웨스트우드
+    성우 - [하시 타카야](https://ko.wikipedia.org/wiki/하시_타카야 "wikilink")
+  - 뮤치 뮬러
+    성우 - [와타나베 아케노](https://ko.wikipedia.org/wiki/와타나베_아케노 "wikilink")
+  - 리키엘
+    성우 - [콘도 타카시](https://ko.wikipedia.org/wiki/콘도_타카시 "wikilink")
+
+##### Part.7
+
+  - 샌드맨
+    성우 - [노지마 히로후미](https://ko.wikipedia.org/wiki/노지마_히로후미 "wikilink")
+  - 핫팬츠
+    성우 - [토요치 메구미](https://ko.wikipedia.org/wiki/토요치_메구미 "wikilink")
+  - 벤자민 붐붐
+    성우 - [야마지 카즈히로](https://ko.wikipedia.org/wiki/야마지_카즈히로 "wikilink")
+  - 엑셀 RO
+    성우 - [야시로 타쿠](https://ko.wikipedia.org/wiki/야시로_타쿠 "wikilink")
+
+##### Part.8
+
+  - 히가시카타 노리스케
+    성우 - [코스기 쥬로타](https://ko.wikipedia.org/wiki/코스기_쥬로타 "wikilink")
+  - 히가시카타 다이야
+    성우 - [하야미 사오리](https://ko.wikipedia.org/wiki/하야미_사오리 "wikilink")
+  - 야기야마 요츠유
+    성우 - [마츠카제 마사야](https://ko.wikipedia.org/wiki/마츠카제_마사야 "wikilink")
+
+#### 스토리 모드에서만 등장
+
+  - 천국에 도달한 DIO & 더 월드 오버 헤븐
+    성우 -[코야스 타케히토](https://ko.wikipedia.org/wiki/코야스_타케히토 "wikilink")
+
+  - 어린 쿠죠 죠린
+
+##### Part.3
+
+  - 다니엘 J. 다비
+    성우 - [긴가 반조](https://ko.wikipedia.org/wiki/긴가_반조 "wikilink")
+  - 엔야 할멈
+    성우 - [스츠키 레이코](https://ko.wikipedia.org/wiki/스츠키_레이코 "wikilink")
+
+##### Part.5
+
+  - 코코 잠보
+
+##### Part.6
+
+  - 엠포리오 엘니뇨
+    성우 - [키타시니 준코](https://ko.wikipedia.org/wiki/키타시니_준코 "wikilink")
+
+## 등장 스테이지
+
+  - Part 1 죠스타 가문의 저택
+    막 디오가 흡혈귀가 된 직후의 저택으로 불에 타고있는 복도(계단)가 있으며 불에 닿으면 화염 데미지를 받는다.
+
+일정시간이 지나면 화면이 빨개지면서 불이 번진다. 창문 쪽에 흡혈귀가 있으며 접근하면 잡히고 잡히면 지속적으로 데미지가 들어가고 스틱을 돌리면 빠져나올 수 있다. 2층에서 상대 캐릭터를 날려버리면 자애의 여신상의 창에 찔려 남은 체력에 관계없이 그 상대를 리타이어 시킬 수 있다.
+
+  - Part 2 에어 서플레이나 섬
+    죠셉이 최종시험을 치룰 예정이었으며, 에시디시전의 무대가 된 수련장. 스테이지 중앙에 가시가 빼곡하게 늘어선 곳이 있는데, 보통은 그곳에 들어가면 지속적으로 대미지를 입지만, 파문 스타일의 경우는 스타일 게이지가 남아있는 동안은 대미지를 입지 않으며 기둥 속 사내들과 돌가면의 흡혈귀 계열은 자유롭게 가시 위를 지나다닐 수 있다. 가시 위에서 다운될 시 많이 아프다. 스타일에 관계없이 큰 데미지를 입는다.
+    Part 3 카이로 도심 옥상
+    다전작과는 달리 건물 위, 즉 카쿄인 & 죠셉 죠스타가 DIO를 상대했던 장소에서 싸운다. 그 때문에 상원의원은 등장 불가. 옥상에 차 끌고 올 수는 없으니 건물과 건물 사이에 추락하는 공간이 있으며 떨어지면 큰 데미지를 입으므로 주의. 영어간판으로 상대를 날려보내면 글자가 떨어지면서 가까이에 있는 캐릭터가 데미지를 입는다. 데모 플레이 영상에 의하면 올 스타 배틀에 존재했던 카쿄인이 물탱크에 처박히며 죽을 때의 장면을 재현한 시츄에이션 피니쉬가 여전히 존재하는데 해당 장면으로 상대방의 캐릭터를 쓰러뜨릴 경우, 다른 캐릭터가 남아있어도 시체가 여전히 물탱크에 쳐박혀 있는 엄연한 원작재현을 보인다. 거기에 카쿄인을물탱크로 날려버리면 원작 연출까지 나온다.
+
+방향이 반대여도 물탱크로 날려버릴 수 있다.
+
+  - Part 3 나이트메어 월드(악몽 세계)
+    스테이지 기믹은 데스 13. 일정주기마다 데스 13이 맵을 배회하면서 가까운 캐릭터를 공격한다. 아무래도 단체로 스탠드를 꺼낸 채로 잠들거나 기절한듯
+
+데스 13을 공격하면 그저 한줄 까이면 사라진다.
+
+  - Part 4 디요용 곶
+    유카코가 코이치를 감금한 별장.
+
+스테이지 기믹은 에코즈의 글자. 스테이지 여기저기에 있는 에코즈의 글자를 밟으면 튀어오르거나 데미지를 입는다.
+
+  - Part 4 모리오초
+    스테이지 기믹은 카페 드 마고(CAFE DEUX MAGOTS)와 오토바이. 유카코와 코이치가 이곳에서 첫 데이트를 했으며 시어 하트 어택 전 당시 키라가 차를 마셨던 장소이다. 일정 시간동안 가게를 오픈했다가 닫으며, 오픈한 지역에 접근하면 캐릭터가 휴식을 취하고 체력을 회복한다. 캐릭터들마다 회복하는 모션이 각각 존재한다. 대부분의 모션이 원작에서 해당 캐릭터가 취했던 휴식 자세를 응용했으며 그런 거 없는 캐릭터들은 적당히 만들어서 사용했다. 오토바이는 다른 오브잭트처럼 활용되지만, 죠스케(4부)와 로한은 이 오토바이를 운전할 수 있다. 상대의 체력이 얼마 없을 때 골목길에서 안쪽으로 날리는 공격을 먹이면 스기모토 레이미가 있는 거리에서 손에 의해 끌려간다.
+  - Part 5 네아폴리스 기차역
+    기믹은 비치 보이, 더 그레이트풀 데드&프로슈토. 여담으로 자판기에 있는 포스터에 GORGEOUS IRENE이라는 문구가 적혀 있다. 프로슈토가 더 그레이트풀 데드를 데리고 돌아다니면서 나오는 연기에 닿으면 노화되어 움직임이 느려지지만 필드에 있는 얼음을 습득해 회복할 수 있다. 프로슈토를 쓰러트리면 펫시가 나와 낚싯줄에 걸린 플레이어를 기차 쪽으로 끌고간다.
+  - Parte 5 콜로세움
+    기믹은 실버 채리엇 레퀴엠과 코코 잠보. 스테이지를 배회하는 실버 체리엇 레퀴엠의 일정범위에 들어가면 잠들어버린다. 코코 잠보 안에 들어가서 체력을 회복하고 나올 수 있다. 2층에는 익숙한 휠체어가 보인다.
+  - Part 6 그린돌핀 스트리트 형무소
+    기믹은 구구 돌즈와 엠포리오 엘니뇨의 텔레포트, 림프 비즈킷. 스테이지에 있는 돈을 모아 궤스에게 주면 구구 돌즈를 샤용해 일정 시간 적을 작게 만들어주고, 림프 비즈킷의 투명한 악어 좀비가 출현해 플레이어들을 공격한다.
+  - Part 6 케이프 커내버럴
+    기믹은 게임 시작후 23가 지나면 C-MOON의 영향으로 중력이 역전되면서 스테이지가 바뀐다.
+  - Part 7 록키산 기슭의 마을
+    완만한 계단식 밭 형상의 스테이지. 정기적으로 스케어리 몬스터즈가 스테이지 안을 배회한다. 스케어리 몬스터즈는 소리에 반응하며, 소리를 낸 플레이어를 습격하는 스테이지 기믹이 특징. 스테이지 내를 돌아다니는 공룡을 공격해서 쓰러뜨리는 것도 가능하다. 체험판에서는 '보스 디에고전'의 스테이지로 나온다. 이 공룡들은 단순히 경직만 주는것이 아닌 한방 한방이 매우 강력하므로 꽤나 신경을 써야한다. 두대 맞으면 HP의 반줄 이상이 까일 정도.
+  - Part 8 히가시카타 가
+    히가시카타 가족이 사는 집의 정원. 집은 발코니까지만 들어갈 수 있다. 기믹은 히가시카타 츠루기의 방공호. 츠루기가 문을 열면 안으로 들어가 잠시 체력을 회복하고 나올 수 있다.
+
+## 평가
+
+전작인 ASB와 달리 많이 나아지긴 했지만 아직 갈길이 멀다는 평이다.
+
+### 대전 게임으로서
+
+태그 게임을 지향한 것이 오히려 독이 되어, 게임 시점상의 문제로 오프라인으로는 싱글 플레이만을 지원하여 멀티 플레이로 즐기기 위해선 기기가 두대 이상 필요하게 되었다. 게다가 그 멀티 자체도 좋지 않아 멀티에 사람이 없는건 그렇다쳐도 피격점이 캐릭터보다 커서 맞지 않아야 할 것도 맞아버리고, 벽에 밀리거나 벽 쪽으로 가면 카메라가 반 이상을 가려서 상대가 뭘하는지 볼수가 없는 일명 벽 시점 버그같은 버그들이 존재한다. 또한 트레이닝 모드, 아케이드 모드 등도 지원하지 않는 데다, 게임 밸런스도 그다지 좋은 평을 못 듣고 있다.
+
+하지만 전작인 ASB가 끝없는 패치를 통해, 특히 1.04 패치를 통해 나아졌다는 점을 생각해보면 이 게임도 두고 봐야한다고 하는 의견이 있다.
+
+### 캐릭터 게임으로서
+
+스토리 모드는 전작인 ASB의 부실했던 스토리 연출에 비해 매우 호평을 받고있다. 전작인 ASB의 스토리 모드가 내용이 새로운 스토리 없이 만화책 내용을 그 자체를 축약하여 스토리 모드로 만들었고, 그나마도 캐릭터가 빈약하여 만화책 내용을 게임으로 만들었다고 하기도 부끄러울 정도였던 것에 비해 EOH는 천국에 도달한 DIO에 의해 일어나는 기현상, 이를 막으려는 죠죠일행이라는 원작자의 감수를 거친 오리지널 스토리로 스토리 모드를 만들었다.
+
+게임의 필살기 연출이나 태그 연출도 매우 호평이다. 부자, 과거+미래, 친구 콤비가 거의 재현되어 있고, 듀얼 필살기 연출도 깨알같은 연출요소가 한두가지가 아닐 정도로 매우 매니악하게 재현되어 있어 팬들을 만족시켰다. 게다가 [데킬라 여인\[1\]과 붙을 경우의 대사+태그전 대사까지 전부 재현한다](https://www.youtube.com/watch?v=7jVFcboSKJs)\[\[죠죠의_기묘한_모험_Eyes_of_Heaven\#cite_note-1|<span class="mw-reflink-text">\[1\]</span>\]\]과 붙을 경우의 대사+태그전 대사까지 전부 재현한다\[\[|<span class="mw-reflink-text">\[1\]</span>\]\]과 붙을 경우의 대사+태그전 대사까지 전부 재현한다던가 하는 세세한 스킨 VS 대사도 재현하여 캐릭터 게임으로서의 연출은 매우 호평을 받고있다.
+
+## PV
+
+PV영상도 ASB을 발판 삼아 한층 발전했다. 전작의 경우 원작을 재현하는 대사나 화려한 필살기를 보여주며 죠죠러의 하트를 떨려오게 하였으나, 정작 열어보니 PV에 등장한 걸 제외하곤 별거없었기에 PV가 전부인 게임이란 오명이 생겼는데, 이번 EoH의 1, 2, 3차 PV는 전작처럼 화려한 장면을 모아 내보내기 보다, 키시베 로한을 내세워 새로 참전하는 캐릭터에 대한 간결한 소개를 하며 플레이 스타일을 조금만 보여주는 형식으로 하였다. 게다가 PV 공개 텀도 반년으로 늘었는데, 전작에 비해 묵묵히 게임만 만들고 있는 것 같아 믿음직스럽다는 평도 있다. 게다가 텀이 길어지면서 자연스레 새로운 참전캐릭터도 한꺼번에 등장하는데, 위에서 말했듯 전작처럼 필살기 영상을 하나하나 보여주는게 아니라, 로한의 몇마디 소개정도로 간결하게 보여주니 캐릭터가 많은데도 전작의 PV보다 간결한 느낌이다. 물론, 영상미로서는 전작에 비해 뒤떨어질지라도, 오히려 전작의 마케팅을 생각하면 호평.
+
+[죠죠의 기묘한 모험 Eyes Of Heaven PV](https://www.youtube.com/watch?v=8MLpyHxDkzI&list=PLxDPnE8TmxeaZO2SdqACTXW_2nZ59REpb)
+
+## Eyes Of Heaven 토너먼트
+
+전작처럼 이번에도 CPU 토너먼트가 있었다. 정황상 1000가지가 넘는 조합을 다 넣을 리는 없고 원작재현이나 특정한 듀얼 히트 어택이 가능한 팀으로 구성될 것 같다는 예상이 많았으나 예상을 깨고 콤비를 투표로 다 뽑았다. 일단 콤비 투표를 10월 17일까지 진행했다. 상위 콤비는 ASB 때와 마찬가지로 예선 면제권이 주어진다. 1위는 죠타로 +카쿄인, 2위는 죠타로+DIO, 3위는 죠셉+시저
+
+## 각주
+
+## 외부 링크
+
+  - [죠죠의 기묘한 모험 Eyes Of Heaven 공식 홈페이지](http://jojogame.bngames.net/)
+
+[분류:죠죠의 기묘한 모험](https://ko.wikipedia.org/wiki/분류:죠죠의_기묘한_모험 "wikilink") [분류:플레이스테이션 3 게임](https://ko.wikipedia.org/wiki/분류:플레이스테이션_3_게임 "wikilink") [분류:반다이 남코 게임스의 게임](https://ko.wikipedia.org/wiki/분류:반다이_남코_게임스의_게임 "wikilink") [분류:2013년 비디오 게임](https://ko.wikipedia.org/wiki/분류:2013년_비디오_게임 "wikilink") [분류:플레이스테이션 4 게임](https://ko.wikipedia.org/wiki/분류:플레이스테이션_4_게임 "wikilink") [분류:대전 격투 게임](https://ko.wikipedia.org/wiki/분류:대전_격투_게임 "wikilink")
+
+1.  죠셉 죠스타가 2부 초반 나치의 기지에 잡입하려 했을 때 한 여장. 자세한 것은 [여기를 참조](https://www.youtube.com/watch?v=TKQOj5peHa0)

@@ -1,0 +1,73 @@
+> This article is converted from Wikipedia: [GiGA  2015 KeSPA 1](https://ko.wikipedia.org/wiki/GiGA__2015_KeSPA_1).
+
+
+**GiGA 인터넷 2015 KeSPA컵 시즌1** (GiGA internet 2015 KeSPA Cup Season 1) 은 [한국e스포츠협회](https://ko.wikipedia.org/wiki/한국e스포츠협회 "wikilink")가 주최하는 e스포츠 종목 활성화 및 아마추어 저변 확대를 위한 대한민국 프로와 아마추어의 통합 e스포츠 대회이다. 본선 장소는 [넥슨 아레나에서](../Page/넥슨_아레나.md "wikilink") 진행된다. 주관 방송은 [SPOTV GAMES가](https://ko.wikipedia.org/wiki/SPOTV_GAMES "wikilink") 담당한다.
+
+## 개요
+
+2015년부터는 케스파컵이 시즌제로 개최되며 대회 후원사인 KT는 [KTF BiGi KOREA e스포츠 2005](https://ko.wikipedia.org/wiki/KTF_BiGi_KOREA_e스포츠_2005 "wikilink") 이후 약 10년만에 케스파컵의 메인 스폰서로 참여한다.
+
+[월드 챔피언십 시리즈의](../Page/월드_챔피언십_시리즈.md "wikilink") 공식 2티어 대회이기도 하다.
+
+## 참가 선수
+
+[2014 KeSPA컵](../Page/2014_KeSPA컵.md "wikilink"), [2015 글로벌 스타크래프트 II 리그 시즌 1](../Page/2015_글로벌_스타크래프트_II_리그_시즌_1.md "wikilink"), [네이버 스타크래프트 II 스타리그 2015 시즌 1의](../Page/네이버_스타크래프트_II_스타리그_2015_시즌_1.md "wikilink") 우승자와 준우승자 6명에게 본선 직행 시드를 부여하며 [SK텔레콤 스타크래프트 II 프로리그 2015의](../Page/SK텔레콤_스타크래프트_II_프로리그_2015.md "wikilink") 다승 상위 선수 2명에게도 본선 시드를 제공하여 총 8명이 본선에 직행한다. 나머지 8명의 선수는 2015년 4월 10일과 11일에 열리는 각 서버별 예선을 통해 최종 본선 진출자를 결정한다.
+
+|                                      |                                                                                                         |                                                                                                                                                                  |                                                                                                                                                                                                                           |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 출전 자격 / 종족                           | **테란**                                                                                                  | **저그**                                                                                                                                                           | **프로토스**                                                                                                                                                                                                                  |
+| **2014 KeSPA컵 입상자**<sup>1</sup>      |                                                                                                         |                                                                                                                                                                  | **[주성욱](https://ko.wikipedia.org/wiki/주성욱 "wikilink")**, **[김준호](https://ko.wikipedia.org/wiki/김준호_\(프로게이머\) "wikilink")**                                                                                                |
+| **스타크래프트 II 스타리그 입상자**<sup>1</sup>   | **[조성주](../Page/조성주_\(프로게이머\).md "wikilink")**, **[조중혁](https://ko.wikipedia.org/wiki/조중혁 "wikilink")** |                                                                                                                                                                  |                                                                                                                                                                                                                           |
+| **글로벌 스타크래프트 II 리그 입상자**<sup>1</sup> |                                                                                                         | **[이승현](https://ko.wikipedia.org/wiki/이승현_\(프로게이머\) "wikilink")**                                                                                                | **[원이삭](https://ko.wikipedia.org/wiki/원이삭 "wikilink")**                                                                                                                                                                   |
+| **프로리그 다승 상위 2인**<sup>1</sup>        |                                                                                                         | **[황강호](https://ko.wikipedia.org/wiki/황강호 "wikilink")**, **[이병렬](https://ko.wikipedia.org/wiki/이병렬_\(프로게이머\) "wikilink")**                                       |                                                                                                                                                                                                                           |
+| **예선 통과자**                           | **[정명훈](https://ko.wikipedia.org/wiki/정명훈_\(프로게이머\) "wikilink")**                                       | **[한지원](https://ko.wikipedia.org/wiki/한지원 "wikilink")**, **[김민철](https://ko.wikipedia.org/wiki/김민철_\(프로게이머\) "wikilink")**, **[박령우](../Page/박령우.md "wikilink")** | **[하재상](https://ko.wikipedia.org/wiki/하재상 "wikilink")**, **[김명식](../Page/김명식_\(1994년\).md "wikilink")**, **[백동준](https://ko.wikipedia.org/wiki/백동준 "wikilink")**, **[김대엽](https://ko.wikipedia.org/wiki/김대엽 "wikilink")** |
+
+GiGA 인터넷 2015 KeSPA컵 시즌1 출전 선수 목록
+
+<div style="font-size:85%">
+
+1.  시드권에 해당하는 선수는 1라운드(16강)에서 탈락하면 WCS 포인트가 지급되지 않는다.
+
+</div>
+
+## 대진표
+
+## 리그 중계진
+
+  - 캐스터 : [김철민](https://ko.wikipedia.org/wiki/김철민_\(방송인\) "wikilink"), [채민준](../Page/채민준.md "wikilink")
+  - 해설 : [고인규](https://ko.wikipedia.org/wiki/고인규 "wikilink"), [유대현](https://ko.wikipedia.org/wiki/유대현 "wikilink"), [이승원](https://ko.wikipedia.org/wiki/이승원_\(방송인\) "wikilink")
+
+## 대회 최종 결과
+
+|                                                                           |                                                                   |                 |                |
+| ------------------------------------------------------------------------- | ----------------------------------------------------------------- | --------------- | -------------- |
+| **대회 순위**                                                                 | **해당 선수**                                                         | **획득 상금**       | **획득 WCS 포인트** |
+| **우승**                                                                    | **[김준호](https://ko.wikipedia.org/wiki/김준호_\(프로게이머\) "wikilink")** | **10,000,000원** | **750포인트**     |
+| 준우승                                                                       | [박령우](../Page/박령우.md "wikilink")                                  | 5,000,000원      | 500포인트         |
+| 4강                                                                        | [한지원](https://ko.wikipedia.org/wiki/한지원 "wikilink")               | 2,000,000원      | 375포인트         |
+| [이승현](https://ko.wikipedia.org/wiki/이승현_\(프로게이머\) "wikilink")             |                                                                   |                 |                |
+| 8강                                                                        | [김민철](https://ko.wikipedia.org/wiki/김민철_\(프로게이머\) "wikilink")     | 800,000원        | 250포인트         |
+| [정명훈](https://ko.wikipedia.org/wiki/정명훈_\(프로게이머\) "wikilink")             |                                                                   |                 |                |
+| [김명식](../Page/김명식_\(1994년\).md "wikilink")                                |                                                                   |                 |                |
+| [조중혁](https://ko.wikipedia.org/wiki/조중혁 "wikilink")                       |                                                                   |                 |                |
+| 16강                                                                       | [하재상](https://ko.wikipedia.org/wiki/하재상 "wikilink")               | 350,000원        | 125포인트         |
+| [김대엽](https://ko.wikipedia.org/wiki/김대엽 "wikilink")                       |                                                                   |                 |                |
+| [백동준](https://ko.wikipedia.org/wiki/백동준 "wikilink")                       |                                                                   |                 |                |
+| [원이삭](https://ko.wikipedia.org/wiki/원이삭 "wikilink")<sup>1</sup>           | 0포인트                                                              |                 |                |
+| [이병렬](https://ko.wikipedia.org/wiki/이병렬_\(프로게이머\) "wikilink")<sup>1</sup> |                                                                   |                 |                |
+| [조성주](../Page/조성주_\(프로게이머\).md "wikilink")<sup>1</sup>                    |                                                                   |                 |                |
+| [주성욱](https://ko.wikipedia.org/wiki/주성욱 "wikilink")<sup>1</sup>           |                                                                   |                 |                |
+| [황강호](https://ko.wikipedia.org/wiki/황강호 "wikilink")<sup>1</sup>           |                                                                   |                 |                |
+|                                                                           |                                                                   |                 |                |
+
+대회 상세 기록
+
+<div style="font-size:85%">
+
+1.  시드권에 해당하는 선수가 1라운드(16강)에서 탈락했기 때문에 WCS 포인트가 지급되지 않는다.
+
+</div>
+
+## 외부 링크
+
+[분류:2015년 이스포츠](https://ko.wikipedia.org/wiki/분류:2015년_이스포츠 "wikilink")

@@ -1,0 +1,70 @@
+> This article is converted from Wikipedia: [D\'scover](https://ko.wikipedia.org/wiki/D\'scover).
+
+
+***D'scover***는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악 그룹인 [빅뱅의](https://ko.wikipedia.org/wiki/빅뱅_\(음악_그룹\) "wikilink") [대성이](https://ko.wikipedia.org/wiki/대성_\(가수\) "wikilink") **D-Lite**라는 일본 활동명으로 발매한 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") 데뷔 정규 음반이다. 이 음반은 그의 오리지널 한국어 곡을 새롭게 일본어로 부른 곡들과 인기 일본어 곡들을 리메이크해 부른 곡들이 수록 되었다.
+
+## 배경
+
+[빅뱅은](https://ko.wikipedia.org/wiki/빅뱅_\(음악_그룹\) "wikilink") 다섯 번째 EP 음반 *[Alive](https://ko.wikipedia.org/wiki/Alive_\(EP\) "wikilink")*의 성공적인 프로모션과 그들의 [BIGBANG ALIVE GALAXY TOUR 2012을](https://ko.wikipedia.org/wiki/BIGBANG_ALIVE_GALAXY_TOUR_2012 "wikilink") 끝맞추고, 멤버들의 솔로 활동을 추가해 나갔다. 빅뱅의 리더 [지드래곤](https://ko.wikipedia.org/wiki/지드래곤 "wikilink")은 그의 새 음반 [One of a Kind를](https://ko.wikipedia.org/wiki/One_of_a_Kind "wikilink") 발매하였고, [태양](https://ko.wikipedia.org/wiki/태양_\(가수\) "wikilink") 역시도 자신의 새로운 솔로 음반을 준비하고 있었다.\[1\] 그외의 멤버 [T.O.P](https://ko.wikipedia.org/wiki/T.O.P "wikilink")과 [승리는](https://ko.wikipedia.org/wiki/승리_\(가수\) "wikilink"), 음악 활동 외에 각각 연기와 버라이어티 TV 프로그램에 진행자와 게스트로 활동을 이어 나갔다.\[2\] [대성은](https://ko.wikipedia.org/wiki/대성_\(가수\) "wikilink") 자신의 일본 앨범 발매를 2012년 말부터 준비했다.
+
+## 프로모션
+
+### 발매
+
+2012년 12월 5일, [YG 엔터테인먼트는](https://ko.wikipedia.org/wiki/YG_엔터테인먼트 "wikilink") 언론을 통해 대성의 솔로 음반을 발매한다고 발표했다. 이 음반에는 그의 오리지널 곡 "Baby Don't Cry"와 "날개"와 기존의 인기 일본어 곡들을 리메이크해 부른 곡들을 포함한 총 12 트랙이 수록 된다고 발표 되었다. 또한 이 음반을 서포트하는 일환으로 3월 23일과 24일 고베 월드 기념관에서 3월 30일과 31일에 일본 부도칸에서 그의 첫 솔로 콘서트를 개최한다고 발표 되었다.\[3\] 음반의 발매 전인 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [1월 30일](https://ko.wikipedia.org/wiki/1월_30일 "wikilink"), 음반의 커버 사진과 트랙 리스트와 음반의 다른 버전에 대한 내용이 공개 되었다. 이 음반은 오직 CD 버전과 CD와 DVD 버전, 플레이버튼 버전으로 발매 되었다. DVD에는 "(노래하고 싶은 발라드)"와 "날개"의 뮤직 비디오 메이킹 영상이 수록 되었다. 또한 음반의 수록곡의 미리듣기는 음반을 홍보하기 위한 일환으로 여러 일본 라디오 방송에 소개 되었다.\[4\]\[5\]
+
+2013년 2월 5일, " (노래하고 싶은 발라드)"의 뮤직 비디오(미리보기 버전)가 공개 되었다.\[6\] 며칠 후인, [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [2월 9일에](https://ko.wikipedia.org/wiki/2월_9일 "wikilink"), " (노래하고 싶은 발라드)"의 풀 버전의 뮤직 비디오가 일본 프로그램에서 공개 되었다.\[7\]
+
+### 일본에서의 2013 D'scover Tour
+
+당초, 대성은 음반의 프로모션으로 고베와 도쿄에서 총 4회의 콘서트를 개최한다고 발표 되었다. 그러나 팬들의 열띤 요구로 인해, 대성의 콘서트 투어는 17개 도시 21회 공연에서 18개 도시 25회 공연으로 추가 되었다. 이 콘서트 투어는 3월 23일 고베 월드 기념관에서 시작되어, 6월 18일 카나가와의 요코하마 아레나에서 막을 내렸다.\[8\]
+
+## 트랙 리스트
+
+## 차트
+
+### 오리콘 차트 (일본)
+
+| 발매                        | 오리콘 싱글 차트 | 최고 순위  | 데뷔 판매량 | 합계 판매량 | 차트 롱런 |
+| ------------------------- | --------- | ------ | ------ | ------ | ----- |
+| 2013년 2월 27일              | 일간 차트     | 2      |        | 50,223 | 8주    |
+| 주간 차트                     | 2         | 35,205 |        |        |       |
+| 월간 차트 <small>(2월)</small> | 9         | 35,205 |        |        |       |
+| 월간 차트 <small>(3월)</small> | 45        | 13,519 |        |        |       |
+| 연간 차트                     |           |        |        |        |       |
+
+## 발매
+
+| 국가 | 년도           | 라벨                                                    | 포맷                                                                                                                    | 에디션               |
+| -- | ------------ | ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| 일본 | 2013년 2월 27일 | [YGEX](https://ko.wikipedia.org/wiki/YGEX "wikilink") | [CD](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink"), [디지털 다운로드](https://ko.wikipedia.org/wiki/디지털_다운로드 "wikilink") | CD, CD+DVD, 플레이버튼 |
+|    |              |                                                       |                                                                                                                       |                   |
+
+## 각주
+
+## 외부 링크
+
+  - (한국)
+
+  -  (일본)
+
+  -
+  - [YG 엔터테인먼트](http://ygfamily.com/)
+
+<!-- end list -->
+
+  - 뮤직 비디오
+
+<!-- end list -->
+
+  -
+[분류:대성의 음반](https://ko.wikipedia.org/wiki/분류:대성의_음반 "wikilink") [분류:YG 엔터테인먼트 음반](https://ko.wikipedia.org/wiki/분류:YG_엔터테인먼트_음반 "wikilink") [분류:2013년 음반](https://ko.wikipedia.org/wiki/분류:2013년_음반 "wikilink") [분류:일본어 음반](https://ko.wikipedia.org/wiki/분류:일본어_음반 "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.

@@ -1,0 +1,6 @@
+> This article is converted from Wikipedia: [TD  ](https://ko.wikipedia.org/wiki/TD__).
+
+
+**TD 플레이스 아레나**(TD Place Arena) [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink") [온타리오주](https://ko.wikipedia.org/wiki/온타리오주 "wikilink") [오타와](https://ko.wikipedia.org/wiki/오타와 "wikilink")에 위치한 실내 경기장이다. 과거 [NHL](https://ko.wikipedia.org/wiki/내셔널_하키_리그 "wikilink") [오타와 세너터스와](https://ko.wikipedia.org/wiki/오타와_세너터스 "wikilink") [WHA](https://ko.wikipedia.org/wiki/월드_하키_협회 "wikilink") [오타와 시빅스](https://ko.wikipedia.org/wiki/오타와_시빅스 "wikilink"), [오타와 내셔널스의](https://ko.wikipedia.org/wiki/오타와_내셔널스 "wikilink") 홈경기장으로 사용했으면 현재 [CEBL](https://ko.wikipedia.org/wiki/캐나디언_엘리트_바스켓볼_리그 "wikilink") [오타와 블랙잭스의](https://ko.wikipedia.org/wiki/오타와_블랙잭스 "wikilink") 홈경기장으로 사용하고 있다.
+
+[분류:1967년 설립](https://ko.wikipedia.org/wiki/분류:1967년_설립 "wikilink") [분류:월드 하키 협회](https://ko.wikipedia.org/wiki/분류:월드_하키_협회 "wikilink") [분류:캐나다의 실내 경기장](https://ko.wikipedia.org/wiki/분류:캐나다의_실내_경기장 "wikilink") [분류:캐나다의 아이스하키 경기장](https://ko.wikipedia.org/wiki/분류:캐나다의_아이스하키_경기장 "wikilink") [분류:온타리오주의 스포츠 시설](https://ko.wikipedia.org/wiki/분류:온타리오주의_스포츠_시설 "wikilink")

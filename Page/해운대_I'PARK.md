@@ -1,0 +1,177 @@
+> This article is converted from Wikipedia: [ I\'PARK](https://ko.wikipedia.org/wiki/_I\'PARK).
+
+
+**해운대 I'PARK**()는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink") [해운대구](https://ko.wikipedia.org/wiki/해운대구 "wikilink") [우동](../Page/우동_\(부산\).md "wikilink") [마린시티](https://ko.wikipedia.org/wiki/마린시티 "wikilink")에 위치한 초고층 고급 주상복합 [아파트](https://ko.wikipedia.org/wiki/아파트 "wikilink")이다. [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") 이후 착공하여 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink")에 완공하였고 그리고 개장 및 입주하였고 [해운대 두산위브더제니스](../Page/해운대_두산위브더제니스.md "wikilink")(301m, 80층)보다 낮은 초고층 주상복합 아파트 단지 3개가 있다.
+
+부산 최초 80층인 [해운대 두산위브더제니스](../Page/해운대_두산위브더제니스.md "wikilink")(301m, 80층)가 완공되면서 [해운대 엘시티 더샵이](../Page/해운대_엘시티_더샵.md "wikilink") 완공되기 전까지는 해운대 아이파크 102동이 부산에서 2번째로 높았다. [해운대 엘시티 더샵](../Page/해운대_엘시티_더샵.md "wikilink")(랜드마크 101층 412m, A동 85층 339m, B동 83층 333m)이 완공되면 해운대 아이파크 102동은 부산에서 5번째로 높을 예정이다.
+
+최고 지상 72층 높이로 공급면적 118m<sup>2</sup>\~423m<sup>2</sup> / 3개동 1,631가구 / 단지 내의 각각 3층과 9층 높이의 상업시설 2개동을 포함하여 총 5개동으로 구성된 복합용도개발단지다. 이 중 TOWER 2동은 지상 72층, 높이 298m로 현재 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서 네 번째로 높은 건물이다. 설계는 세계적인 건축가 [다니엘 리베스킨트의](https://ko.wikipedia.org/wiki/다니엘_리베스킨트 "wikilink") Sudio Daniel Libeskind를 비롯해 건원건축과 한미녹원엔지니어링이 담당했고, 시행 및 시공은 [HDC현대산업개발](https://ko.wikipedia.org/wiki/HDC현대산업개발 "wikilink")이 맡았다.
+
+## 역사
+
+해운대 우동에 있는 마린시티는 [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink") 매립이 끝난 동백섬 서쪽의 수영만매립지였다. [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") 대우그룹은 100층 높이의 초고층 건물을 짓기 위해 이곳의 부지를 매입했다. 그러나 [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") 외환위기를 겪으면서 대우는 부도를 맞았고, 부지는 방치된 채 부산의 대표적인 골칫거리 땅으로 전락했다.
+
+부산시와 해운대구가 부지를 소유한 민간업체 제안을 받아들여 본격적인 개발에 나선 시기는 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink")이다. 당초 수영만매립지는 호텔과 회의시설 위주의 상업지역으로 조성될 계획이었다. 하지만 인근 센텀시티가 대표 상업지역으로 급속히 성장하면서 수영만매립지 매력이 떨어졌다.
+
+해운대구는 발상을 전환해 마린시티를 고급 주거지로 개발하기로 했다. 사업 추진 과정에서 민간업체에 특혜를 줬다는 의혹이 제기됐다. 초고층 건물이 해운대의 스카이라인을 해칠 것이라는 환경단체 반발도 거셌다. 해운대구 공무원들은 수차례 공청회를 통해 ‘고층 건물이 들어선 수영만매립지가 대한민국의 명물이 될 것’이라며 주민들을 설득했다. 백선기 해운대구청장은 “당시 개발계획을 일관되게 추진한 공무원들의 노력 덕분에 마린시티가 부산의 대표적인 명소가 될 수 있었다”고 말했다.
+
+부산 해운대 수영만 매립지내에 조성된 해운대 아이파크는 명품 해양레저단지를 표방하며 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 분양 당시 128평짜리 [펜트하우스](https://ko.wikipedia.org/wiki/펜트하우스 "wikilink") 2세대의 분양가가 3.3m<sup>2</sup> 당 4천500만원을 기록하였다
+
+그러나 [2011년 10월](https://ko.wikipedia.org/wiki/2011년_10월 "wikilink") 준공 이후 수영만에서 송정리 해수욕장에 이르는 수려한 해안과 장산 등 천혜의 자연환경을 갖춘 데다 해운대 해수욕장, 동백섬, 오륙도, 요트마리나센터를 비롯한 해양레저 관광단지들이 인접해 있는 등, 세계적인 휴양지에 버금가는 입지가 널리 인정 받아 해운대 마린시티를 대표하고 있고 10월 말에 입주가 시작되었다.\[1\] [2014년 4월](https://ko.wikipedia.org/wiki/2014년_4월 "wikilink") 국토교통부의 발표에 따르면 해운대 아이파크 슈퍼 펜트하우스 전용면적 285m<sup>2</sup>의 공시가격은 41억4400만원으로 전국에서 4번째로 비싼 공동주택으로 조사됐다.\[2\]
+
+## 디자인
+
+[150px](https://ko.wikipedia.org/wiki/파일:Haeundae-IPARK.jpg "wikilink") [150px](https://ko.wikipedia.org/wiki/파일:Daniel_Libeskind.jpg "wikilink")\]\]
+
+현대산업개발은 해운대 아이파크의 세계적인 건축가 [다니엘 리베스킨트](https://ko.wikipedia.org/wiki/다니엘_리베스킨트 "wikilink")(Daniel Libeskind)와 함께 해운대의 입지를 활용해 설계했다. [다니엘 리베스킨트는](https://ko.wikipedia.org/wiki/다니엘_리베스킨트 "wikilink") 베를린 유대인 박물관을 비롯해 대영전쟁박물관 등을 설계한 건축가로, 미국 뉴욕 세계무역센터(WTC) 재건축 설계공모에서 당선돼 명성을 높인 바 있다.\[3\]
+
+[다니엘 리베스킨트는](https://ko.wikipedia.org/wiki/다니엘_리베스킨트 "wikilink") 해운대 아이파크를 디자인하며 해운대의 파도와 부산의 상징인 동백꽃 등 아름다운 한국의 자연과 곡선을 형상화했다. 파도의 역동적인 힘과 동백꽃잎의 우아함, 바람을 머금은 돛과 처마의 아름다운 곡선을 추상화해 입면디자인에 반영했으며, 마스터플랜에서도 부드러운 곡선을 따라 3개 주거동을 배치하고 이를 중심으로 조경공간과 개방공간을 계획했다. 바다를 상징화한 곡선형태의 입면 디자인도 전망을 극대화하기 위한 디자인의 일부다.\[4\]
+
+해운대 아이파크 뿐만 아니라 [파크 하얏트 부산도](../Page/파크_하얏트_부산.md "wikilink") 디자인했으며 이는 해운대 아이파크의 디자인을 연상시키는 호텔이다. 높이 150m, 지상 34층과 지하 6층으로 구성된다.
+
+## 건물
+
+### 단지 구성
+
+주상복합아파트인 해운대 아이파크는 66층 높이의 Tower 1동, 72층 높이의 TOWER 2동, 46층 높이의 TOWER 3동의 아파트 3개 동과 함께 단지 내에 각각 3층과 9층 높이의 상업시설 2개동을 포함하여 총 5개동으로 구성됐다.\[5\]
+
+해운대 아이파크 TOWER 1·2동 50층과 TOWER 3동 30층에는 주민을 위한 다양한 편의시설이 마련된다. TOWER 1동에는 건강과 오락을 콘셉트로 건강회복실, 자가검진실, 가족운동실, 멀티룸 등이 있으며, TOWER 2동에는 교육과 문화를 콘셉트로 아동문고, 독서실, 아이파크 카페, 노인 및 어린이 복지시설 등과 실내골프연습장 등을 조성했다. 그 밖에도 TOWER 3동에는 연회·사교를 콘셉트로 선셋파티가든과 게스트하우스, 회의실 등이 설치됐다.\[6\]
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Tallest_buildings_in_South_Korea_in_2014.png "wikilink")
+
+### 높이
+
+**해운대 아이파크**를 구성하는 각 건물의 높이는 다음과 같다. **해운대 아이파크**의 TOWER 1동은 지상 66층, TOWER 2동은 72층, TOWER 3동은 46층이다. 지하로는 6층까지 있다.
+
+이 건물은 다음과 같은 높이를 갖고 있다.
+
+| 동 명칭 | 층수  | 높이   |
+| ---- | --- | ---- |
+| T1동  | 66층 | 273m |
+| T2동  | 72층 | 292m |
+| T3동  | 46층 | 205m |
+|      |     |      |
+
+[해운대 아이파크는](https://ko.wikipedia.org/wiki/해운대_아이파크 "wikilink") TOWER 1동 \~ TOWER 3동이랑 비교하면 높이와 층수가 다르고 다른 초고층 건물들을 비교하면 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [부천시](https://ko.wikipedia.org/wiki/부천시 "wikilink")의 [중동 리첸시아](https://ko.wikipedia.org/wiki/리첸시아_타워_\(부천\) "wikilink")(241m, 66층), [서울](https://ko.wikipedia.org/wiki/서울 "wikilink") [여의도](https://ko.wikipedia.org/wiki/여의도 "wikilink")의 [전경련회관](../Page/전경련회관.md "wikilink")(246m, 50층), [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [화성시](https://ko.wikipedia.org/wiki/화성시 "wikilink")의 [메타폴리스](https://ko.wikipedia.org/wiki/메타폴리스 "wikilink") 101동, 104동(249m, 66층), [서울](https://ko.wikipedia.org/wiki/서울 "wikilink") [여의도](https://ko.wikipedia.org/wiki/여의도 "wikilink")의 [63빌딩](https://ko.wikipedia.org/wiki/63빌딩 "wikilink")(249m, 60층), [서울](https://ko.wikipedia.org/wiki/서울 "wikilink") [강남구](https://ko.wikipedia.org/wiki/강남구 "wikilink")의 [목동 하이페리온](https://ko.wikipedia.org/wiki/목동_하이페리온 "wikilink")(256m, 69층), [타워팰리스](https://ko.wikipedia.org/wiki/타워팰리스 "wikilink") G동(264m, 73층), [서울](https://ko.wikipedia.org/wiki/서울 "wikilink") [여의도](https://ko.wikipedia.org/wiki/여의도 "wikilink")의 [서울국제금융센터](https://ko.wikipedia.org/wiki/서울국제금융센터 "wikilink") C동(285m, 55층), [부산](https://ko.wikipedia.org/wiki/부산 "wikilink") [남구의](https://ko.wikipedia.org/wiki/남구_\(부산광역시\) "wikilink") [부산국제금융센터](../Page/부산국제금융센터.md "wikilink")(289m, 63층)보다 높고 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 완공 당시 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서 가장 높은 건물 2위지만 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink")에는 [인천](https://ko.wikipedia.org/wiki/인천 "wikilink") [송도국제도시](https://ko.wikipedia.org/wiki/송도국제도시 "wikilink")의 [동북아무역타워](https://ko.wikipedia.org/wiki/동북아무역타워 "wikilink")(305m, 68층)가 완공된 이후 3위로 떨어졌다. 현재는 [롯데월드타워](https://ko.wikipedia.org/wiki/롯데월드타워 "wikilink")(현재 완공시/개장 555m,123층)의 건설로 4위로 더 떨어졌다.
+
+## 특징
+
+### 평면특성
+
+공급면적 118m<sup>2</sup>부터 423m<sup>2</sup>까지의 모든 평면설계 역시 건축물의 형태를 살린 총 199개의 평면으로 구성되어 있다. 인테리어는 내추럴 미니멀리즘 스타일로 디자인하였으며 실내공간에는 투명소재나 거울 등 반사소재를 활용해 내부공간의 확장성과 외부조망의 실내유입을 최대화 하였다. 각각의 평면들은 위치에 따라 특화설계가 적용됐다. 66층 높이 주동의 66층, 65층에만 각 1가구씩, 총 2가구만 조성되는 423.4m<sup>2</sup>(128평형) 타입은 3면 개방형의 설계로 조망권을 확보하였으며 일부세대의 경우 욕실을 세대 바깥쪽에 배치하여 자연최광과 외부조망이 최대한 유입되도록 설계하였다.\[7\]
+
+### 적용기술
+
+[HDC현대산업개발](https://ko.wikipedia.org/wiki/HDC현대산업개발 "wikilink")은 부산 해운대 아이파크를 조성하며 고강도 콘크리트 기술, 칼럼쇼트닝 보정 설계 등 다양한 초고층 설계 및 시공 기술을 적용했다. 초고강도 콘크리트는 초고층 건축에서 필수적인 사항으로 [HDC현대산업개발](https://ko.wikipedia.org/wiki/HDC현대산업개발 "wikilink")은 장시간 화재에 노출됐을 때에도 견딜 수 있는 내화성능까지 갖춘 초고강도 콘크리트 기술을 자체 개발해 적용했다. 해운대 아이파크에 적용된 초고강도 콘크리트는 60MPa급으로, 60MPa은 단위면적1cm<sup>2</sup>당 600Kg에 달하는 하중을 견딜 수 있는 강도를 지녔음을 의미한다. 내화성능은 초고층 건축물의 화재시 안전을 위해 갖춰야 하는 것으로, 고강도 콘크리트가 화재 시 내부의 수분이 제대로 빠져나오지 못해 콘크리트가 부서지는 폭열현상을 방지한다. 현대산업개발은 콘크리트의 내화성능을 향상시키기 위해 메타카올린 등 화학물질을 첨가하고 섬유보강재인PP섬유 등을 사용함으로써, 고강도 콘크리트가 화재에 노출됐을 때에도 폭열현상 없이 3시간 이상 견디도록 했다.
+
+이와 더불어 초고층빌딩의 기둥축소 현상을 보정하는 칼럼쇼트닝 보정 설계가 적용됐다. 고층 건물의 경우 하중의 증가로 인해 수직하중을 받는 기둥이나 내력벽 등이 축소되는 칼럼쇼트닝 현상이 발생해 외장재나 배관 등에 영향을 미치게 된다. 현대산업개발은 이를 방지하기 위해 축소량을 예측하고 이를 설계에 반영하는 보정 설계를 적용해 커튼월 및 마감재의 변형과 균열 등을 방지했다.\[8\]\[9\]
+
+그밖에도 초고층빌딩 내부의 대류현상으로 인해 건물 내에서도 바람이 심하게 부는 연돌현상을 최소화했으며, 고층건물에 주로 쓰이는 철골 구조 대신 입주민들의 거주 편의성을 높일 목적으로 철근-콘크리트 구조를 적용해 소음과 진동 차단 효과를 높이도록 설계 및 시공했다. 모든 층에 세대 간 방화구획을 설치하고, 엘리베이터 홀에2개 구역의 방화구획을 설치함으로써 홀을 통해 불길이 확산되는 것을 막고 안전하게 대피할 수 있도록 하는 등 안전설계가 적용됐다. 25층과 50층에 중간 대피 공간을 마련해 화재 발생 시에도 2시간 동안 불길을 견딜 수 있는 방화구획 및 제연설비도 갖춰져 있다. 소방용 물탱크도 25층, 50층, 옥탑층 등에 설치해 화재 발생시 효율적인 화재 진압을 용이하게 했다. 외벽 소재도 불연재인 유리를 적용했으며, 층간에 설치되는 알루미늄 복합판넬도 실화테스트를 거쳐 안정성을 인정받은 준불연재료를 적용하고, 단열재 또한 내열성이 뛰어난 글라스울(유리섬유)로 시공됐다. 진도 7규모의 지진이나 순간 최대풍속 60m의 태풍 같은 자연재해에도 거뜬히 버틸 수 있도록 설계됐으며, 차수 시스템도 갖췄다.\[10\]
+
+## 시설
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Haeundae-ipark-2012.JPG "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Yacht_in_front_of_Marine_City.png "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Centum_City_and_Gwangan_Bridge_at_Early_Morning.jpg "wikilink")
+
+### 타워 101동 (헬스존)
+
+지하 6층 \~ 지하 1층은 지하주차장, 1층 \~ 2층은 프리 컨디션, 자가 검진실, 아트룸, 가족스포츠, 멀티룸, 파커스 센터가 있고 3층 \~ 24층은 아파트, 25층은 피난안전구역, 26층 \~ 49층은 아파트, 50층은 피트니스센터, 스카이 라운지, 51층 \~ 66층은 아파트다.
+
+| 층수             | 시설                                      |
+| -------------- | --------------------------------------- |
+| 51층 \~ 66층     | 아파트                                     |
+| 50층            | 피트니스센터, 스카이 라운지                         |
+| 26층 \~ 49층     | 아파트                                     |
+| 25층            | 피난안전구역                                  |
+| 3층 \~ 24층      | 아파트                                     |
+| 1층 \~ 2층       | 프리 컨디션, 자가 검진실, 아트룸, 가족스포츠, 멀티룸, 파커스 센터 |
+| 지하 5층 \~ 지하 1층 | 지하주차장                                   |
+
+### 타워 102동 (컬쳐존)
+
+지하 6층 \~ 지하 1층은 지하주차장, 1층 \~ 2층은 아동문고, 아동문고, 리딩룸, 프리이빗 스튜디오, 실버월드, 키즈월드가 있고 3층 \~ 24층은 아파트, 25층은 피난안전구역, 26층 \~ 49층은 아파트, 50층은 피트니스센터, 스카이 라운지, 51층 \~ 66층은 아파트다.
+
+| 층수             | 시설                               |
+| -------------- | -------------------------------- |
+| 51층 \~ 72층     | 아파트                              |
+| 50층            | 피트니스센터, 스카이 라운지                  |
+| 26층 \~ 49층     | 아파트                              |
+| 25층            | 피난안전구역                           |
+| 3층 \~ 24층      | 아파트                              |
+| 1층 \~ 2층       | 아동문고, 리딩룸, 프리이빗 스튜디오, 실버월드, 키즈월드 |
+| 지하 2층 \~ 지하 1층 | 실내골프연습장, 지하주차장                   |
+| 지하 5층 \~ 지하 3층 | 지하주차장                            |
+
+### 타워 103동 (파티존)
+
+지하 6층 \~ 지하 1층은 지하주차장, 1층 \~ 2층은 선셋파티가든, 게스트하우스, 컨퍼런스홀이 있고 3층 \~ 24층은 아파트, 25층은 피난안전구역, 26층 \~ 49층은 아파트, 30층은 피트니스센터, 스카이 라운지, 31층 \~ 46층은 아파트다.
+
+| 층수             | 시설                    |
+| -------------- | --------------------- |
+| 31층 \~ 46층     | 아파트                   |
+| 30층            | 피트니스센터, 스카이 라운지       |
+| 26층 \~ 29층     | 아파트                   |
+| 25층            | 피난안전구역                |
+| 3층 \~ 24층      | 아파트                   |
+| 1층 \~ 2층       | 선셋파티가든, 게스트하우스, 컨퍼런스홀 |
+| 지하 5층 \~ 지하 1층 | 지하주차장                 |
+
+## 사건 및 사고
+
+  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [9월 2일](https://ko.wikipedia.org/wiki/9월_2일 "wikilink") - 49층에서 화재가 발생하여 10여 분만에 진화됐다.\[11\]
+
+## 대중문화
+
+### 드라마
+
+  - [언터처블에](https://ko.wikipedia.org/wiki/언터처블_\(대한민국의_드라마\) "wikilink") 북천시의 마린시티가 나온다.
+  - [고독한 미식가](https://ko.wikipedia.org/wiki/고독한_미식가 "wikilink") 시즌8 연말스페셜에 나온다.
+
+### 영화
+
+  - [해운대에](https://ko.wikipedia.org/wiki/해운대_\(영화\) "wikilink") 건설 현장이 나온다.
+  - [그날의 분위기에](https://ko.wikipedia.org/wiki/그날의_분위기 "wikilink") [마린시티](https://ko.wikipedia.org/wiki/마린시티 "wikilink")가 나온다.
+  - [블랙 팬서가](https://ko.wikipedia.org/wiki/블랙_팬서_\(영화\) "wikilink") [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [3월 24일](https://ko.wikipedia.org/wiki/3월_24일 "wikilink") \~ 25일에 촬영하였다.
+  - [리얼에](https://ko.wikipedia.org/wiki/리얼_\(영화\) "wikilink") 해운대 I'PARK가 나온다.
+  - [돌아와요 부산항애에](https://ko.wikipedia.org/wiki/돌아와요_부산항애 "wikilink") 나온다.
+  - [신과함께: 죄와 벌에](https://ko.wikipedia.org/wiki/신과함께:_죄와_벌 "wikilink") 나온다.
+
+### 뮤직비디오
+
+  - [싸이](https://ko.wikipedia.org/wiki/싸이 "wikilink")의 노래 [대디](https://ko.wikipedia.org/wiki/대디 "wikilink")의 뮤직비디오에 나온다.
+  - [정은지](https://ko.wikipedia.org/wiki/정은지 "wikilink")의 노래 [하늘바라기](https://ko.wikipedia.org/wiki/하늘바라기 "wikilink")의 뮤직비디오에 나온다.
+
+## 갤러리
+
+파일:Skyline of Haeundae, Busan, South Korea in August 2010.jpg|공사 중인 해운대 아이파크와 해운대 두산 위브 더 제니스. (2010년) 파일:Busan, South Korea skyline on September 2010.jpg|공사 중인 해운대 아이파크와 해운대 두산 위브 더 제니스. (2010년) 파일:Gwangalli Beach.jpg|공사 중인 해운대 아이파크와 해운대 두산 위브 더 제니스. (2011년 6월 5일) 파일:Haeundae veiw from Gwangalli.jpg|2012년 4월. 파일:Gwanganli Beach at Day.png|2012년 4월 22일. 파일:Marine City skyline in Busan, South Korea.jpg|2012년 8월 11일. 파일:Sunrise at Gwangalli Beach.jpg|2012년 8월 24일. 파일:View from Igidae.jpg|2014년 7월 4일.
+
+## 더 보기
+
+  - [마린시티](https://ko.wikipedia.org/wiki/마린시티 "wikilink")
+  - [마천루 목록](https://ko.wikipedia.org/wiki/마천루_목록 "wikilink")
+  - [대한민국의 마천루 목록](../Page/대한민국의_마천루_목록.md "wikilink")
+  - [부산광역시의 마천루 목록](https://ko.wikipedia.org/wiki/부산광역시의_마천루_목록 "wikilink")
+  - [높이순 거주용 건축물 목록](https://ko.wikipedia.org/wiki/높이순_거주용_건축물_목록 "wikilink")
+  - [두산위브더제니스](https://ko.wikipedia.org/wiki/두산위브더제니스 "wikilink")
+  - [삼성동 아이파크](https://ko.wikipedia.org/wiki/삼성동_아이파크 "wikilink")
+  - [해운대 엘시티 더샵](../Page/해운대_엘시티_더샵.md "wikilink")
+  - [위브 더 제니스 타워 (해운대)](https://ko.wikipedia.org/wiki/위브_더_제니스_타워_\(해운대\) "wikilink")
+  - [아이파크](https://ko.wikipedia.org/wiki/아이파크 "wikilink")
+
+## 각주
+
+## 외부 링크
+
+  -
+[분류:부산광역시의 아파트](https://ko.wikipedia.org/wiki/분류:부산광역시의_아파트 "wikilink") [분류:부산광역시의 마천루](https://ko.wikipedia.org/wiki/분류:부산광역시의_마천루 "wikilink") [분류:부산 해운대구의 건축물](https://ko.wikipedia.org/wiki/분류:부산_해운대구의_건축물 "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.

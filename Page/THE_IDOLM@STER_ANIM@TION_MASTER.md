@@ -1,0 +1,401 @@
+> This article is converted from Wikipedia: [THE IDOLM@STER ANIM@TION MASTER](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_ANIM@TION_MASTER).
+
+
+**'THE IDOLM@STER ANIM@TION MASTER**' (아이돌마스터 애니메이션 마스터)는 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [8월 10일부터](https://ko.wikipedia.org/wiki/8월_10일 "wikilink") [일본 컬럼비아에서](../Page/일본_컬럼비아.md "wikilink") 발매되고 있는 애니메이션 '[THE IDOLM@STER](../Page/THE_IDOLM@STER_\(애니메이션\).md "wikilink")'의 CD시리즈이다.
+
+'[MASTER ARTIST 2](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_2#CD "wikilink")'에 이어지는 CD시리즈로, 이 시리즈에 이어, '[ANIM@TION MASTER 생방임까 SPECIAL](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_ANIM@TION_MASTER_생방임까_SPECIAL "wikilink")' 시리즈가 발매되고 있다.
+
+## 개요
+
+텔레비전 애니메이션 'THE IDOLM@STER'의 [사운드 트랙](https://ko.wikipedia.org/wiki/사운드_트랙 "wikilink") 시리즈로, 01·04에는 오프닝 테마, 02·03·05 - 07에는 텔레비전 애니메이션으로 사용된 [극반](https://ko.wikipedia.org/wiki/극반 "wikilink") 및 삽입곡의 일부\[1\]·엔딩 테마 (특별편 26화를 제외), 드라마 '오토나시 코토리의 765 프로 비밀 리포트'를 수록하고 있다. 자켓 일러스트는 'MASTER ARTIST' 이후 담당해 온 [안닌 도후가](https://ko.wikipedia.org/wiki/안닌_도후 "wikilink") 아니라, 애니메이션 스탭 (01·04를 [이이즈카 하루코](https://ko.wikipedia.org/wiki/이이즈카_하루코 "wikilink"), 그 이외를 [마츠오 유스케](https://ko.wikipedia.org/wiki/마츠오_유스케 "wikilink"))이 담당하고 있다. 덧붙여 01·04는 싱글, 그 이외는 앨범으로 취급된다.
+
+애니메이션용으로 준비된 신곡을 굵은 글씨, 신규에 리믹스·녹음된 악곡은 이탤릭으로 표기한다. 덧붙여 애니메이션의 극반제작은 [타카다 류이치가](https://ko.wikipedia.org/wiki/타카다_류이치 "wikilink") 담당하였다.
+
+## 01 READY\!\!
+
+2011년 8월 10일 발매. 제1 쿨의 오프닝 테마인 ''''READY\!\! (M@STER VERSION) '''' 등을 수록. 2011년 8월 22일자의 오리콘주간 싱글 랭킹에서 최고 4위를 획득했다\[2\].
+
+## 02
+
+2011년 9월 7일 발매. 'READY\!\! '의 TV사이즈판, 제1화로부터 제5화까지의 극중 삽입곡, 엔딩, BGM와 오리지널 드라마를 수록. 첫회판은 BOX 패키지 사양.
+
+  - 수록곡
+
+<!-- end list -->
+
+1.  레슨
+2.  '''READY\!\! (TV SIZE) '''
+      -
+        가: 765 PRO ALLSTARS<ref group="주" name="765 PRO">아마미 하루카(나카무라 에리코), 호시이 미키(하세가와 아키코), 키사라기 치하야(이마이 아사미), 타카츠키 야요이(니고 마야코), 하기와라 유키호(아사쿠라 아즈미), 키쿠치 마코토(히라타 히로미), 후타미 아미/마미(시모다 아사미), 미나세 이오리(쿠기미야 리에), 미우라 아즈사(타카하시 치아키), 시죠 타카네(하라 유미), 가나하 히비키(누마쿠라 마나미), 아키즈키 리츠코(와카바야시 나오미)의 13명.
+
+</ref>
+
+\#: 작사: [yura](https://ko.wikipedia.org/wiki/yura "wikilink") , 작곡·편곡: [고사키 사토루](https://ko.wikipedia.org/wiki/고사키_사토루 "wikilink")
+
+1.  소녀들
+2.  *[The world is all one \!\! (M@STER VERSION)](../Page/The_world_is_all_one_!!.md "wikilink")*\[3\]
+      -
+        가: 765 PRO ALLSTARS\[4\]
+        작사: RIONA, 작곡: 타시로 토모카즈, 편곡: 아라키계6
+3.  우정
+4.  나는 아이돌♡(M@STER VERSION)
+      -
+        가: 미나세 이오리([쿠기미야 리에](https://ko.wikipedia.org/wiki/쿠기미야_리에 "wikilink")) , 타카츠키 야요이([니고 마야코](https://ko.wikipedia.org/wiki/니고_마야코 "wikilink")) , 후타미 아미/마미([시모다 아사미](https://ko.wikipedia.org/wiki/시모다_아사미 "wikilink"))
+        작사: 나카무라 메구미, 작곡·편곡: [NBGI](https://ko.wikipedia.org/wiki/NBGI "wikilink") ([사사키 히로시인](https://ko.wikipedia.org/wiki/사사키_히로시인 "wikilink"))
+5.  기쁜 기분
+6.  ''포지티브\! (M@STER VERSION) ''
+      -
+        가: 미나세 이오리(쿠기미야 리에), 타카츠키 야요이(니고 마야코)
+        작사: NBGI(mft), 작곡·편곡: NBGI([나카가와 코지](https://ko.wikipedia.org/wiki/나카가와_코지 "wikilink"))
+7.  사이 좋음
+8.  *ALRIGHT\**
+      -
+        가: 하기와라 유키호([아사쿠라 아즈미](https://ko.wikipedia.org/wiki/아사쿠라_아즈미 "wikilink"))
+        작사: yura, 작곡: [cota](https://ko.wikipedia.org/wiki/cota "wikilink") , 편곡: 세키 쥰지로우
+9.  꿈꾸는 아이돌
+10. ''First Stage(M@STER VERSION) ''
+      -
+        가: 하기와라 유키호(아사쿠라 아즈미), 키쿠치 마코토([히라타 히로미](https://ko.wikipedia.org/wiki/히라타_히로미 "wikilink"))
+        작사: 나카무라 메구미, 작곡·편곡: NGBI(사사키 히로시인)
+11. 마음에 당김 하지 않는다 …
+12. 소녀여 큰 뜻을 품어라\!\!
+      -
+        가: 아마미 하루카([나카무라 에리코](https://ko.wikipedia.org/wiki/나카무라_에리코 "wikilink"))
+        작사: yura, 작곡: [백호우보](https://ko.wikipedia.org/wiki/백호우보 "wikilink") , 편곡: 경가순
+13. 밝고 즐겁게
+14. *파랑새(M@STER VERSION)\~TV ARRANGE\~*
+      -
+        가: 키사라기 치하야([이마이 아사미](https://ko.wikipedia.org/wiki/이마이_아사미 "wikilink"))
+        작사: [모리 유리코](https://ko.wikipedia.org/wiki/모리_유리코 "wikilink") , 작곡: NBGI([시이나 고](https://ko.wikipedia.org/wiki/시이나_고 "wikilink")) , 편곡: 미야하라 메구미태
+15. 다망한 날들
+16. 건강합니다
+17. '''신SUMMER\!\! '''
+      -
+        가: 아마미 하루카(나카무라 에리코), 타카츠키 야요이(니고 마야코), 후타미 아미/마미(시모다 아사미), 하기와라 유키호(아사쿠라 아즈미), 미나세 이오리(쿠기미야 리에), 시죠 타카네([하라 유미](https://ko.wikipedia.org/wiki/하라_유미 "wikilink"))
+        작사: yura, 작곡·편곡: [타나카 히데카즈](https://ko.wikipedia.org/wiki/타나카_히데카즈_\(작곡가\) "wikilink")
+18. 평소의 하늘
+19. i(Piano Instrumental Version)
+20. **MOONY**
+      -
+        가: 키사라기 치하야(이마이 아사미), 미우라 아즈사([타카하시 치아키](https://ko.wikipedia.org/wiki/타카하시_치아키 "wikilink")) , 키쿠치 마코토(히라타 히로미), 호시이 미키([하세가와 아키코](https://ko.wikipedia.org/wiki/하세가와_아키코 "wikilink")) , 가나하 히비키([누마쿠라 마나미](https://ko.wikipedia.org/wiki/누마쿠라_마나미 "wikilink")) , 아키즈키 리츠코([와카바야시 나오미](https://ko.wikipedia.org/wiki/와카바야시_나오미 "wikilink"))
+        작사: yura, 작곡·편곡: Funta7
+21. 보너스 트랙 '오토나시 코토리의 765 프로 비밀 리포트\~격동편\~'
+      -
+        출연: 아마미 하루카(나카무라 에리코), 키쿠치 마코토(히라타 히로미), 하기와라 유키호(아사쿠라 아즈미), 오토나시 코토리([타키타 쥬리](https://ko.wikipedia.org/wiki/타키타_쥬리 "wikilink"))
+
+## 03
+
+2011년 10월 5일 발매. 제6화로부터 제10화까지의 극중 삽입곡, 엔딩, BGM와 오리지널 드라마를 수록. 초회판은 BOX 패키지 사양.
+
+  - 수록곡
+
+<!-- end list -->
+
+1.  진지한 눈빛
+2.  [SMOKY THRILL(M@STER VERSION)](../Page/SMOKY_THRILL.md "wikilink")
+      -
+        가: 용궁 코마치(미나세 이오리(쿠기미야 리에)·미우라 아즈사(타카하시 치아키)·후타미 아미(시모다 아사미))
+        작사·작곡·편곡: NBGI(uRy)
+3.  프로듀서, 달린다\!
+4.  *THE IDOLM@STER*
+      -
+        가: 765 PRO ALLSTARS\[5\]
+        작사: 나카무라 메구미, 작곡·편곡: NBGI(사사키 히로시인)
+5.  키라메키라리
+      -
+        가: 타카츠키 야요이(니고 마야코)
+        작사: yura, 작곡: 고사키 사토루
+6.  심정
+7.  안녕\!\! 아침 밥(M@STER VERSION)
+      -
+        가: 타카츠키 야요이(니고 마야코)
+        작사: 나카무라 메구미, 작곡·편곡: NBGI(사사키 히로시인)
+8.  긴박감
+9.  **맑음색**
+      -
+        가: 미우라 아즈사(타카하시 치아키)
+        작사: 이나마을 사치코, 작곡: 코니시 유코, 편곡: 사토 노리치카
+10. 에이전트 밤을 걷다
+      -
+        가: 키쿠치 마코토(히라타 히로미)
+        작사·작곡·편곡: NBGI([LindaAI-CUE](https://ko.wikipedia.org/wiki/LindaAI-CUE "wikilink"))
+11. 미주 Mind
+      -
+        가: 키쿠치 마코토(히라타 히로미)
+        작사: NBGI(mft), 작곡·편곡: NBGI(나카가와 코지)
+12. shiny smile(REM@STER-A)
+      -
+        가: 키쿠치 마코토(히라타 히로미), 미우라 아즈사(타카하시 치아키)
+        작사: 아침해제, 작곡: NBGI(Yoshi), 편곡: 림부 아키코
+13. 간발 …
+14. **하니카미\!퍼스트 바이트**
+      -
+        가: 용궁 코마치(미나세 이오리(쿠기미야 리에)·미우라 아즈사(타카하시 치아키)·후타미 아미(시모다 아사미))
+        작사: 고토 히로유키, 작곡: NBGI(나카가와 코지), 편곡: NBGI(나카가와 코지, 증 후치 유지)
+15. 트러블
+16. Next Life(Instrumental)
+      -
+        작곡·편곡: NBGI([토야마 아키라효](https://ko.wikipedia.org/wiki/토야마_아키라효 "wikilink"))
+17. 감정 다운
+18. 여명 스타 라인
+      -
+        가: 후타미 아미/마미(시모다 아사미)
+        작사: NBGI(LindaAI-CUE), 작곡·편곡: NBGI(증 후치 유지)
+19. THE IDOLM@STER(BGM Version)
+20. *L·O·B·M*
+      -
+        가: 765 PRO ALLSTARS\[6\]
+        작사: NBGI(mft), 작곡·편곡: NBGI(타카다 류이치)
+21. 노력하는 아이돌들
+22. ''GO MY WAY\!\! ''
+      -
+        가: 765+876 PRO ALLSTARS(아마미 하루카(나카무라 에리코), 호시이 미키(하세가와 아키코), 키사라기 치하야(이마이 아사미), 타카츠키 야요이(니고 마야코), 하기와라 유키호(아사쿠라 아즈미), 키쿠치 마코토(히라타 히로미), 후타미 아미/마미(시모다 아사미), 미나세 이오리(쿠기미야 리에), 미우라 아즈사(타카하시 치아키), 시죠 타카네(하라 유미), 가나하 히비키(누마쿠라 마나미), 아키즈키 리츠코(와카바야시 나오미), 히다카 아이([토마츠 하루카](https://ko.wikipedia.org/wiki/토마츠_하루카 "wikilink")), 미즈타니 에리([하나자와 카나](https://ko.wikipedia.org/wiki/하나자와_카나 "wikilink")), 아키즈키 료 ([산페이 유우코](https://ko.wikipedia.org/wiki/산페이_유우코 "wikilink")))
+23. 보너스 트랙 '오토나시 코토리의 765 프로 비밀 리포트\~세기말 구세주편\~'
+      -
+        출연: 타카츠키 야요이(니고 마야코), 미나세 이오리(쿠기미야 리에), 오토나시 코토리(타키타 쥬리)
+
+## 04 CHANGE\!\!\!\!
+
+2011년 11월 9일 발매. 제2 쿨의 오프닝 테마인 **'CHANGE\!\!\!\! (M@STER VERSION)**' 등을 수록. 2011년 11월 21일자의 오리콘주간 싱글 랭킹에서 최고 6위를 획득했다\[7\].
+
+## 05
+
+2011년 11월 30일 발매. 제11화로부터 제15화까지의 극중 삽입곡, 엔딩, BGM와 오리지널 드라마 파트를 수록. 초회판은 BOX 패키지 사양.
+
+  - 수록곡
+
+<!-- end list -->
+
+1.  오늘도 건강\!
+2.  웃어\!
+      -
+        가: 아마미 하루카(나카무라 에리코)
+        작사: 이나마을 사치코, 작곡: DY-T, 편곡: [쿠사노좋아 히로](https://ko.wikipedia.org/wiki/쿠사노좋아_히로 "wikilink")
+3.  START\!\!
+      -
+        가: 아마미 하루카(나카무라 에리코)
+        작사: 시로세채, 작곡·편곡: 미야자키 마코토
+4.  푸른 새(Piano Instrumental Version)
+5.  후들후들 퓨처 ☆
+      -
+        가: 호시이 미키(하세가와 아키코)
+        작사: 아침해제, 작곡·편곡: NBGI(Yoshi)
+6.  쇼킹한 그
+      -
+        가: 호시이 미키(하세가와 아키코)
+        작사: NBGI(mft), 작곡: NBGI(나카가와 코지), 편곡: NBGI(나카가와 코지, 증 후치 유지)
+7.  GO MY WAY\!\! (BGM VERSION)
+8.  '''마리오네트의 마음(M@STER VERSION) '''
+      -
+        가: 호시이 미키(하세가와 아키코)
+        작사: mft, 작곡: [하시모토 유카리](https://ko.wikipedia.org/wiki/하시모토_유카리 "wikilink") , 편곡; 미야자키 마코토
+9.  '''자신 REST@RT(M@STER VERSION) '''
+      -
+        가: 아마미 하루카(나카무라 에리코), 호시이 미키(하세가와 아키코), 키사라기 치하야(이마이 아사미), 타카츠키 야요이(니고 마야코), 하기와라 유키호(아사쿠라 아즈미), 키쿠치 마코토(히라타 히로미), 후타미 마미(시모다 아사미), 시죠 타카네(하라 유미), 가나하 히비키(누마쿠라 마나미)
+        작사: 사사키 히로시인, 작곡·편곡: 타나카 히데카즈
+10. *i*
+      -
+        가: 765 PRO ALLSTARS\[8\]
+        작사: 나카무라 메구미, 작곡·편곡: 사사키 히로시인
+11. ''너는 멜로디(M@STER VERSION) ''
+      -
+        가: 타카츠키 야요이(니고 마야코), 하기와라 유키호(아사쿠라 아즈미), 키쿠치 마코토(히라타 히로미), 미나세 이오리(쿠기미야 리에), 미우라 아즈사(타카하시 치아키), 아키즈키 리츠코(와카바야시 나오미)
+        작사: 엔도 후비트, 작곡·편곡: NBGI(우치다 테츠야)
+12. ''Colorful Days(M@STER VERSION) ''
+      -
+        가: 아마미 하루카(나카무라 에리코), 호시이 미키(하세가와 아키코), 키사라기 치하야(이마이 아사미), 후타미 아미/마미(시모다 아사미), 시죠 타카네(하라 유미), 가나하 히비키(누마쿠라 마나미)
+        작사: 나카무라 메구미, 작곡·편곡: NBGI(사사키 히로시인)
+13. ''MEGARE\!(M@STER VERSION) ''
+      -
+        가: 765 PRO ALLSTARS\[9\]
+        작사: NBGI(mft), 작곡·편곡: NBGI(타카다 류이치)
+14. 보너스 트랙 '오토나시 코토리의 765 프로 비밀 리포트\~3번째의 정직하지만, 아마 평상시와 같은 편\~'
+      -
+        출연: 호시이 미키(하세가와 아키코), 후타미 아미/마미(시모다 아사미), 오토나시 코토리(타키타 쥬리)
+15. 보너스 트랙 2 ' 제13화 LIVE곡메들리'
+      -
+        곡목은 이하와 같다.
+    <!-- end list -->
+    1.  THE IDOLM@STER
+    2.  아가씨야 큰 뜻을 안아라\!\!
+    3.  키라메키라리
+    4.  나는 아이돌♡
+    5.  My Best Friend
+    6.  스타→트스타 →
+    7.  추억 고마워요
+    8.  Next Life
+    9.  플라워 걸
+    10. Day of the future
+    11. 마리오네트의 마음
+    12. 눈이 만나는 순간
+    13. 자신 REST@RT
+
+## 06
+
+2011년 12월 28일 발매. 'CHANGE\!\!\!\! '의 TV사이즈판, 제16화부터 제20화까지의 극중 삽입곡, 엔딩, BGM와 오리지널 드라마 파트를 수록. 초회판은 BOX 패키지 사양.
+
+  - 수록곡
+
+<!-- end list -->
+
+1.  과거의 사건
+2.  '''CHANGE\!\!\!\! (TV SIZE) '''
+      -
+        가: 765 PRO ALLSTARS\[10\]
+        작사: yura, 작곡: NBGI(우치다 테츠야), 편곡: 하시모토 유카리, NBGI(우치다 테츠야)
+3.  열심히
+4.  TRIAL DANCE
+      -
+        가: 가나하 히비키(누마쿠라 마나미)
+        작사: yura, 작곡: 나카니시 케이지, 편곡: [코니시 타카오](https://ko.wikipedia.org/wiki/코니시_타카오 "wikilink")
+5.  '''Brand New Day\! '''
+      -
+        가: 가나하 히비키(누마쿠라 마나미)
+        작사·작곡·편곡: NBGI(움푹 팬 곳 히로시)
+6.  Jupiter의 테마 그 1
+7.  자전거
+      -
+        가: 키쿠치 마코토(히라타 히로미)
+        작사: 시로세채, 작곡·편곡: 이토심 타로
+8.  **치어 링 레터**
+      -
+        가: 키쿠치 마코토(히라타 히로미)
+        작사: mft, 작곡: MIKOTO, 편곡: [매 호리 쥰](https://ko.wikipedia.org/wiki/매_호리_쥰 "wikilink")
+9.  Jupiter의 테마 그 2
+10. 가득 가득
+      -
+        가: 아키즈키 리츠코(와카바야시 나오미)
+        작사: 나카무라 메구미, 작곡·편곡: NBGI(사사키 히로시인)
+11. 마법을 걸쳐\! (M@STER VERSION)
+      -
+        가: 아키즈키 리츠코(와카바야시 나오미)
+        작사·작곡·편곡: NBGI(고사키 사토루)
+12. 하거나 한가로이
+13. 플라워 걸
+      -
+        가: 시죠 타카네(하라 유미)
+        작사: NBGI(Yoshi & Kyon), 작곡·편곡: NBGI(Yoshi)
+14. 흩날리는 눈
+      -
+        가: 시죠 타카네(하라 유미)
+        작사·작곡·편곡: 하시모토 유카리
+15. 모두와의 …
+16. '''약속(TV VERSION) '''
+      -
+        가: 키사라기 치하야(이마이 아사미), 아마미 하루카(나카무라 에리코), 호시이 미키(하세가와 아키코), 타카츠키 야요이(니고 마야코), 하기와라 유키호(아사쿠라 아즈미), 키쿠치 마코토(히라타 히로미), 후타미 아미/마미(시모다 아사미), 미나세 이오리(쿠기미야 리에), 미우라 아즈사(타카하시 치아키), 시죠 타카네(하라 유미), 가나하 히비키(누마쿠라 마나미)
+        작사: 모리 유리코, 작곡: NBGI(나카가와 코지,[코바야시계수](https://ko.wikipedia.org/wiki/코바야시계수 "wikilink")) , 편곡: NBGI(코바야시계수)
+17. 보너스 트랙 '오토나시 코토리의 765 프로 비밀 리포트\~중 2병 전개편\~'
+      -
+        출연: 시죠 타카네(하라 유미), 가나하 히비키(누마쿠라 마나미), 아키즈키 리츠코(와카바야시 나오미), 오토나시 코토리(타키타 쥬리)
+18. 보너스 트랙 2 **약속**
+      -
+        가: 키사라기 치하야(이마이 아사미)
+        작사: 모리 유리코, 작곡: NBGI(나카가와 코지, 코바야시계수), 편곡: NBGI(코바야시계수)
+
+## 07
+
+2012년 2월 1일 발매. 제21화부터 제25화까지의 극중 삽입곡, 엔딩, BGM와 오리지널 드라마 파트를 수록. 초회판은 BOX 패키지 사양.
+
+  - 수록곡
+
+<!-- end list -->
+
+1.  하루카의 갈등
+2.  잠 공주
+      -
+        가: 키사라기 치하야(이마이 아사미)
+        작사: 모리 유리코, 작곡·편곡: NBGI(시이나 고)
+3.  ''꽃(NEW MIX) ''
+      -
+        가: 오토나시 코토리(타키타 쥬리)
+        작사: yura, 작곡·편곡: [등말수](https://ko.wikipedia.org/wiki/등말수 "wikilink") , 편곡: 경가순
+4.  공
+      -
+        가: 오토나시 코토리(타키타 쥬리)
+        작사: yura, 작곡: NBGI(고사키 사토루)
+5.  The world is all one \!\! (BGM VERSION)
+      -
+        제작: 타카다 류이치
+6.  **My Wish**
+      -
+        가: 호시이 미키(하세가와 아키코), 타카츠키 야요이(니고 마야코), 하기와라 유키호(아사쿠라 아즈미), 키쿠치 마코토(히라타 히로미), 미나세 이오리(쿠기미야 리에), 아키즈키 리츠코(와카바야시 나오미)
+        작사·작곡·편곡: Asu, 편곡: 세키 쥰지로우
+7.  **Happy Christmas**
+      -
+        가: 아마미 하루카(나카무라 에리코), 키사라기 치하야(이마이 아사미), 후타미 아미/마미(시모다 아사미), 미우라 아즈사(타카하시 치아키), 시죠 타카네(하라 유미), 가나하 히비키(누마쿠라 마나미)
+        작사: [카이타 유리코](https://ko.wikipedia.org/wiki/카이타_유리코 "wikilink") , 작곡·편곡: NBGI(시이나 고), 편곡: Fuming
+8.  relations(BGM VERSION)
+      -
+        제작: 타카다 류이치
+9.  '''응시해(TV VERSION) '''
+      -
+        작사: 카이타 유리코, 작곡·편곡: NBGI(Yoshi), 편곡: 사쿠마 마코토
+10. **안녕 고마워요**
+      -
+        가: 아마미 하루카(나카무라 에리코)
+        작사·작곡·편곡: 하시모토 유카리
+11. *곧바로*
+      -
+        가: 765 PRO ALLSTARS\[11\]
+        작사: 아침해제, 작곡·편곡: NBGI(Yoshi)
+12. 격려
+13. **READY\!\! & CHANGE\!\!\!\! SPECIAL EDITION**
+      -
+        가: 765 PRO ALLSTARS\[12\]
+        READY\!\!
+          -
+            작사: yura, 작곡·편곡: 고사키 사토루
+        CHANGE\!\!\!\!
+          -
+            작사: yura, 작곡: NBGI(우치다 테츠야), 편곡: 하시모토 유카리, NBGI(우치다 테츠야)
+14. '''우리는 쭉… 이죠? '''\[13\]
+      -
+        가: 765 PRO ALLSTARS\[14\]
+        작사: 전아귀, 작곡·편곡: 사사키 히로시인
+15. ''함께(NEW VERSION) ''
+      -
+        가: 765 PRO ALLSTARS\[15\]
+        작사: yura, 작곡·편곡: 등말수
+16. 보너스 트랙 '오토나시 코토리의 765 프로 비밀 리포트\~안녕히 지구편\~'
+      -
+        출연: 키사라기 치하야(이마이 아사미), 미우라 아즈사(타카하시 치아키), 오토나시 코토리(타키타 쥬리)
+17. 보너스 트랙 2 **응시해**
+      -
+        가: 하기와라 유키호(아사쿠라 아즈미), 시죠 타카네(하라 유미)
+        작사: 카이타 유리코, 작곡·편곡: NBGI(Yoshi), 편곡: 사쿠마 마코토
+
+## READY\!\! 솔로 리믹스
+
+2013년 7월 7일 발매. 8주년 기념 라이브 투어 'THE IDOLM@STER 8 th ANNIVERSARY HOP\! STEP\!\! FESTIV@L\!\!\! '나고야·요코하마·오사카 회장에서의 한정 판매. 오리지널 슬리브들이. 'READY\!\! (M@STER VERSION)'의 솔로 리믹스 12종을 수록.
+
+## CHANGE\!\!\!\! 솔로 리믹스
+
+2013년 9월 15일 발매. 8주년 기념 라이브 투어 'THE IDOLM@STER 8 th ANNIVERSARY HOP\! STEP\!\! FESTIV@L\!\!\! '후쿠오카·도쿄 회장에서의 한정 판매. 오리지널 슬리브들이. 'CHANGE\!\!\!\! (M@STER VERSION)'의 솔로 리믹스 12종을 수록.
+
+## 각주
+
+### 내용주
+
+### 참조주
+
+## 외부 링크
+
+  - [일본 컬럼비아에 의한 소개 페이지](http://columbia.jp/idolmaster/COZC-583.html)
+
+[ANIM@TION MASTER](https://ko.wikipedia.org/wiki/분류:아이돌마스터의_음악 "wikilink") [분류:2011년 음반](https://ko.wikipedia.org/wiki/분류:2011년_음반 "wikilink") [분류:2012년 음반](https://ko.wikipedia.org/wiki/분류:2012년_음반 "wikilink") [분류:캐릭터 송 음반](https://ko.wikipedia.org/wiki/분류:캐릭터_송_음반 "wikilink")
+
+1.  애니메이션으로 사용된 삽입곡에 대한 자세한 것은 '[THE IDOLM@STER (애니메이션)\#삽입곡](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_\(애니메이션\)#삽입곡 "wikilink")'에 기재.
+2.
+3.  싱글판과 달리, 모든 파트가 합창이 되어 있는 리믹스 버전이다.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13. 작사의 단계에서는 다른 타이틀이었지만, 텔레비전 방송시에는 '언제까지나, 어디까지나'라는 타이틀로 방송되었다. 이 변경은 작사자 밭에 대해서 무단으로 행해지고 있어 그 후 일본 컬럼비아로부터 사죄의 코멘트가 발표되어 정식적인 곡명이 '우리는 쭉… 이죠?'으로 변경되었던 것이 고지되었다.
+14.
+15.

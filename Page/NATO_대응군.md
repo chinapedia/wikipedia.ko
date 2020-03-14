@@ -1,0 +1,53 @@
+> This article is converted from Wikipedia: [NATO ](https://ko.wikipedia.org/wiki/NATO_).
+
+
+**NATO 대응군**()은 [북대서양 조약 기구가](https://ko.wikipedia.org/wiki/북대서양_조약_기구 "wikilink") 2002년 창설한 다국적 군사 조직으로, NATO의 단일 작전권 아래에 두는 최초의 부대이다. 전 세계 어디든지 5일 안에 1차 선발부대를 투입할 수 있고, 나머지 병력은 약 1개월 이내에 배치할 수 있다.
+
+[도널드 럼즈펠드](https://ko.wikipedia.org/wiki/도널드_럼즈펠드 "wikilink") 미국 국방장관이 기획하였으며, 2002년 11월 프라하에서 열리는 나토 정상회의에서 조지 부시 대통령이 대응군 창설을 정식 제안하였다.
+
+2003년 10월 15일 나토군사령부로부터 대응군 사령부가 지휘권을 넘겨받았다.\[1\]
+
+21세기형 나토 변혁의 상징으로 간주되고 있는 NRF는 육해공군 및 특수부대 2만5000명 규모로 구성되며, 5일 내 지구상의 어디든지 출동해 임무를 수행할 수 있는 작전능력을 갖추고 있다.\[2\]
+
+## 참가국
+
+  - \- 300명의 병력과 군함 항공기
+
+  - \- 1.100명의 병력
+
+  - \- 2.200명의 병력과 군함 항공기 헬기
+
+  - \- 총사령관의 단일 작전권
+
+  - \- 지상군 사령관
+
+  - \- 1,700명의 병력
+
+  - \- 2013년 참가\[3\]
+
+## 코소보 전쟁
+
+나토 회원국들은 [코소보 전쟁에서](https://ko.wikipedia.org/wiki/코소보_전쟁 "wikilink") 유럽연합군은 서류상으론 막대하지만 실제 이용가능한 병력은 2%에 불과하다는 점을 알게 되었다. 공습의 80%를 미국이 수행했고, 중요한 수송도 모두 미국에 의존해야만 했다.\[4\]
+
+## 독일과 프랑스의 반대
+
+유럽연합 최강대국은 독일이며, 2위는 프랑스이다. 독일과 프랑스는 자국의 국방예산이 많이 들어가므로, 자국의 작전권이 인정되는 별도의 연합군을 창설하려고 했다. 이러한 독일과 프랑스의 이탈 시도를 미국이 선제적으로 대응해 막았다. 결국 2002년에는 반대했지만, 2004년에 두 국가가 찬성하였다. 미국은 [나토](https://ko.wikipedia.org/wiki/나토 "wikilink") 회원국의 국방예산 합계의 3배의 국방예산을 쓰는 나라다.\[5\]
+
+유럽 국가들의 6만명의 대응군을 창설하려고 하자, 미국 [럼즈펠드](https://ko.wikipedia.org/wiki/럼즈펠드 "wikilink") 국방장관이 2만명 규모의 대응군을 제안했다.\[6\]
+
+## 각주
+
+## 외부 링크
+
+  - [소개](http://www.nato.int/cps/en/natolive/topics_49755.htm) - NATO
+
+  - [소개](https://web.archive.org/web/20150414014221/http://www.aco.nato.int/page349011837.aspx) - [연합 작전 사령부](https://ko.wikipedia.org/wiki/연합_작전_사령부 "wikilink")
+
+[분류:2003년 설립](https://ko.wikipedia.org/wiki/분류:2003년_설립 "wikilink") [대응군](https://ko.wikipedia.org/wiki/분류:북대서양_조약_기구의_부대_및_조직 "wikilink")
+
+1.  [나토 신속대응군 독자 지휘권 인수 연합뉴스 2003-10-15 2014-04-3](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=104&oid=001&aid=0000481655)
+2.  [나토 "한국등 일부 활동 참여 동의” 김환기 세계일보 2006-11-30 2014-04-03](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=104&oid=022&aid=0000196121)
+3.
+4.  [<초점> 유럽 신속대응군 창설 배경과 파장 김은주 1999-11-26 2014-04-03](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=104&oid=001&aid=0004559526)
+5.  [나토 신속배치군 창설 힘들듯…獨-佛 여전히 반대입장 박제균 2002-11-20 2014-04-03](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=104&oid=020&aid=0000162997)
+6.  [나토 21∼22일 ‘확대’ 정상회담 현경숙 국민일보 2002-11-20 2014-04-03](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=104&oid=005&aid=0000127028)

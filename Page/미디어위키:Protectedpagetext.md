@@ -1,0 +1,188 @@
+> This article is converted from Wikipedia: [:Protectedpagetext](https://ko.wikipedia.org/wiki/:Protectedpagetext).
+
+
+{{\#ifexist: 틀:편집 안내/보호/ |  |
+
+{{\#switch: $1 | protect |editprotected=
+
+` ``{{#ifexist: ``/연습장`
+`   | 연습장`
+`   }}`
+` | 설명문서 = `
+
+<li>
+
+이 틀은 [설명문서를](https://ko.wikipedia.org/wiki/위키백과:틀_설명문서 "wikilink") 가지고 있습니다. [이 곳에서](https://ko.wikipedia.org/wiki/{{FULLPAGENAME}}/설명문서 "wikilink") 자유롭게 편집이 가능합니다.
+
+</li>
+
+` | 연습장 = `
+
+<li>
+
+이 틀은 연습장을 가지고 있습니다. [이 곳에서](https://ko.wikipedia.org/wiki/{{FULLPAGENAME}}/연습장 "wikilink") 자유롭게 편집이 가능합니다.
+
+</li>
+
+` | 설명문서연습장 = `
+
+<li>
+
+이 틀은 [설명문서인](https://ko.wikipedia.org/wiki/위키백과:틀_설명문서 "wikilink") [/설명문서와](https://ko.wikipedia.org/wiki/{{FULLPAGENAME}}/설명문서 "wikilink") 연습장인 [/연습장을](https://ko.wikipedia.org/wiki/{{FULLPAGENAME}}/연습장 "wikilink") 가지고 있습니다. 두 개 모두 자유롭게 편집이 가능합니다.
+
+</li>
+
+` }}`
+
+}} {{\#ifexist:  | {{\#ifeq:  |
+
+` |`
+` | {{#if:``|`
+
+<li>
+
+다른 사용자와 [이 문서에 대해 토론하세요](https://ko.wikipedia.org/wiki/{{TALKPAGENAME}} "wikilink").
+
+</li>
+
+}} }} }}
+
+<li>
+
+문서의 [보호 해제를](https://ko.wikipedia.org/wiki/위키백과:문서_관리_요청 "wikilink") 요청하세요.
+
+</li>
+
+<li>
+
+[위키백과 편집을 시작하는 방법에 대해 더 알아보세요](https://ko.wikipedia.org/wiki/위키백과:길라잡이 "wikilink").
+
+</li>
+
+{{\#if:|
+
+<li>
+
+문서에 문제점을 발견했거나 사소한 내용 변경에 대한 제안이 있다면, 아래의 링크를 클릭해 편집 요청을 등록할 수 있습니다. 그러면 [관리자가](https://ko.wikipedia.org/wiki/위키백과:관리자 "wikilink") 당신을 대신해 내용을 변경해 줄 것입니다. 그 전에 먼저 [문서의 토론 페이지를](https://ko.wikipedia.org/wiki/{{TALKPAGENAMEE}} "wikilink") 참고해 비슷한 문제가 이미 논의되고 있는지 확인해 주세요.
+
+</li>
+
+<li style="list-style:none; display:inline;">
+
+<div style="text-align:center; margin:auto;">
+
+|class=mw-ui-progressive}}
+
+</div>
+
+</li>
+
+}} }}
+
+</ul>
+
+</td>
+
+</tr>
+
+</table>
+
+| }}
+
+` }}`
+
+|\#default=
+
+` `
+
+<table style="margin-top:1em; background:none;">
+
+<tr>
+
+<td style="width:50%; vertical-align:top;">
+
+<div style="width:80%; vertical-align:top; background:transparent;">
+
+<div style="position:relative; height:25px; left:1.3em; top:4px;">
+
+<h2 style="border-bottom:0; font-size:130%; font-weight:bold; padding:.15em;">
+
+왜 이 문서가 보호되어 있나요?
+
+</h2>
+
+</div>
+
+  - 대부분의 문서는 누구나 편집할 수 있지만, [준보호는](https://ko.wikipedia.org/wiki/위키백과:보호_정책#준보호 "wikilink") 인기있는 문서를 [문서 훼손으로부터](https://ko.wikipedia.org/wiki/위키백과:문서_훼손 "wikilink") 보호하기 위해 필요하기도 합니다.
+  - 문서가 보호된 이유는 \[ 보호 기록\]에서 확인할 수 있습니다. 만약 보호 기록에 관련된 항목이 없다면, 해당 문서는 보호된 이후에 \[ 이동되었을 수 있습니다\].
+
+</div>
+
+</td>
+
+<td style="width:50%; vertical-align:top;">
+
+<div style="position:relative; height:25px; left:1.3em; top:4px;">
+
+<h2 style="border-bottom:0; font-size:130%; font-weight:bold; padding:.15em;">
+
+저는 무엇을 할 수 있나요?
+
+</h2>
+
+</div>
+
+  - 사용자 계정이 있다면 먼저 [로그인해](https://ko.wikipedia.org/wiki/Special:UserLogin "wikilink") 주세요. 아직 계정을 가지고 있지 않다면, \[ 계정을 하나 만들 수도\] 있습니다. 가입 후 [4일이 지났으며 10번의 편집을](https://ko.wikipedia.org/wiki/위키백과:사용자_권한#자동_인증된_사용자 "wikilink") 했다면, 당신은 준보호 문서를 편집할 수 있게 됩니다.
+
+{{\#ifexist:  | {{\#ifeq:  |
+
+` |`
+` | `
+
+<li>
+
+다른 사용자와 [이 문서에 대해 토론하세요](https://ko.wikipedia.org/wiki/{{TALKPAGENAME}} "wikilink").
+
+</li>
+
+<li>
+
+문서의 [보호 해제를](https://ko.wikipedia.org/wiki/위키백과:문서_관리_요청 "wikilink") 요청하세요.
+
+</li>
+
+<li>
+
+[위키백과 편집을 시작하는 방법에 대해 더 알아보세요](https://ko.wikipedia.org/wiki/위키백과:길라잡이 "wikilink").
+
+</li>
+
+<li>
+
+문서에 문제점을 발견했거나 사소한 내용 변경에 대한 제안이 있다면, 아래의 링크를 클릭해 편집 요청을 등록할 수 있습니다. 그러면 [숙련된 사용자가](https://ko.wikipedia.org/wiki/위키백과:사용자_권한#자동_인증된_사용자 "wikilink") 당신을 대신해 내용을 변경해 줄 것입니다. 그 전에 먼저 [문서의 토론 페이지를](https://ko.wikipedia.org/wiki/{{TALKPAGENAMEE}} "wikilink") 참고해 비슷한 문제가 이미 논의되고 있는지 확인해 주세요.
+
+</li>
+
+<li style="list-style:none; display:inline;">
+
+<div style="text-align:center; margin:auto;">
+
+|class=mw-ui-progressive}}
+
+</div>
+
+</li>
+
+}} }}
+
+</ul>
+
+</td>
+
+</tr>
+
+</table>
+
+` }}`
+
+}} }}

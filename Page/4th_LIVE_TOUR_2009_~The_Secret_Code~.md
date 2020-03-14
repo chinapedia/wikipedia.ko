@@ -1,0 +1,51 @@
+> This article is converted from Wikipedia: [4th LIVE TOUR 2009 \~The Secret Code\~](https://ko.wikipedia.org/wiki/4th_LIVE_TOUR_2009_\~The_Secret_Code\~).
+
+
+《**4th LIVE TOUR 2009 \~The Secret Code\~**》는 그룹 [동방신기](https://ko.wikipedia.org/wiki/동방신기 "wikilink")의 4번째이자 2인 재편 이전의 마지막 일본 전국 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").
+
+## 개요
+
+2009년 1월, 동방신기 일본 공식 사이트는 일본 8개 도시, 19회로 확정된 일본 투어 일정을 공개한 후 처음으로 프리미엄석을 포함해 모두 6종류의 입장권을 준비해 8일부터 신청을 받기 시작했다. 프리미엄 좌석표는 가격이 장당 3만 엔(한화로 약 45만 원)에 달했으며, 프리미엄 좌석표를 구입한 팬은 전용 출입구로 입장해 특별석에서 공연을 관람할 수 있었다고 한다.\[1\] 이렇게 현지 팬들의 호응이 폭발적으로 높아지자, 2회 분량의 도쿄 돔 공연 일정이 추가되었다.\[2\] 이로써 동방신기는 [비](https://ko.wikipedia.org/wiki/비_\(가수\) "wikilink"), [류시원](https://ko.wikipedia.org/wiki/류시원 "wikilink")에 이어 한국 아티스트 중 3번째이자 한국 그룹 아티스트 중 최초로, 그리고 류시원에 이어 한국 아티스트 중 2번째이자 한국 그룹 아티스트 중 최초로 2회에 걸쳐 도쿄 돔 무대에 오르는 위업을 달성하게 되었다.
+
+## 투어 일정
+
+| 일정           | 도시                                                      | 장소                                                                  | 관객 수        |
+| ------------ | ------------------------------------------------------- | ------------------------------------------------------------------- | ----------- |
+| 2009년 5월 4일  | [신호](https://ko.wikipedia.org/wiki/고베 "wikilink")       | 고베 월드 기념 홀                                                          | 통산 20,000명  |
+| 2009년 5월 5일  |                                                         |                                                                     |             |
+| 2009년 5월 9일  | [기옥](https://ko.wikipedia.org/wiki/사이타마 "wikilink")     | [사이타마 슈퍼 아레나](https://ko.wikipedia.org/wiki/사이타마_슈퍼_아레나 "wikilink") | 통산 40,000명  |
+| 2009년 5월 10일 |                                                         |                                                                     |             |
+| 2009년 5월 16일 | [선대](https://ko.wikipedia.org/wiki/센다이 "wikilink")      | 핫 하우스 슈퍼 아레나                                                        | 통산 34,000명  |
+| 2009년 5월 17일 |                                                         |                                                                     |             |
+| 2009년 5월 23일 | [찰황](https://ko.wikipedia.org/wiki/찰황 "wikilink")       | 마코마나이 세키스이 하임 아이스 아레나                                               | 통산 26,000명  |
+| 2009년 5월 24일 |                                                         |                                                                     |             |
+| 2009년 5월 30일 | [복강](https://ko.wikipedia.org/wiki/후쿠오카 "wikilink")     | 마린 멧세 후쿠오카                                                          | 통산 30,000명  |
+| 2009년 5월 31일 |                                                         |                                                                     |             |
+| 2009년 6월 6일  | [광도](https://ko.wikipedia.org/wiki/히로시마 "wikilink")     | [그린 아레나](https://ko.wikipedia.org/wiki/히로시마_현립_종합_체육관 "wikilink")   | 통산 20,000명  |
+| 2009년 6월 7일  |                                                         |                                                                     |             |
+| 2009년 6월 10일 | [대판](https://ko.wikipedia.org/wiki/대판 "wikilink")       | [오사카 성 홀](https://ko.wikipedia.org/wiki/오사카_성_홀 "wikilink")         | 통산 44,000명  |
+| 2009년 6월 11일 |                                                         |                                                                     |             |
+| 2009년 6월 13일 |                                                         |                                                                     |             |
+| 2009년 6월 14일 |                                                         |                                                                     |             |
+| 2009년 6월 18일 | [나고야 시](https://ko.wikipedia.org/wiki/나고야_시 "wikilink") | 니혼 가이시 홀                                                            | 통산 30,000명  |
+| 2009년 6월 20일 |                                                         |                                                                     |             |
+| 2009년 6월 21일 |                                                         |                                                                     |             |
+| 2009년 7월 4일  | [동경](https://ko.wikipedia.org/wiki/동경 "wikilink")       | [도쿄 돔](https://ko.wikipedia.org/wiki/도쿄_돔 "wikilink")\[3\]          | 통산 110,000명 |
+| 2009년 7월 5일  |                                                         |                                                                     |             |
+
+## 세트 리스트
+
+## 특이사항 및 에피소드
+
+  - [김준수는](https://ko.wikipedia.org/wiki/김준수_\(가수\) "wikilink") 2009년 5월 4일에 열린 첫 공연 전날에 연 라이브 리허설 당시 다리에 중상을 입어 공연 일정 변경까지 검토되었으나, 공연을 기대하고 있던 팬들을 위해 꼭 무대에 오르겠다며 휠체어를 탄 채로 첫 공연 무대에 올라섰다.\[4\]
+
+## 각주
+
+<references/>
+
+[분류:동방신기의 콘서트 투어](https://ko.wikipedia.org/wiki/분류:동방신기의_콘서트_투어 "wikilink") [분류:2009년 콘서트 투어](https://ko.wikipedia.org/wiki/분류:2009년_콘서트_투어 "wikilink")
+
+1.
+2.
+3.
+4.

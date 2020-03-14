@@ -1,0 +1,6 @@
+> This article is converted from Wikipedia: [U.S.  ](https://ko.wikipedia.org/wiki/U.S.__).
+
+
+**U.S. 셀룰러 콜리시엄**(U.S. Cellular Coliseum)는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [일리노이주](https://ko.wikipedia.org/wiki/일리노이주 "wikilink") [블루밍턴에](https://ko.wikipedia.org/wiki/블루밍턴_\(일리노이주\) "wikilink") 위치한 실내 경기장이다. 과거 [CHL](../Page/센트럴_하키_리그.md "wikilink") [블루밍턴 프레러선더와](../Page/블루밍턴_프레러선더.md "wikilink") [SPHL](../Page/서던_프로페셔널_하키_리그.md "wikilink") [블루밍턴 선더의](https://ko.wikipedia.org/wiki/블루밍턴_선더 "wikilink") 홈경기장으로 사용했다.
+
+[분류:2006년 설립](https://ko.wikipedia.org/wiki/분류:2006년_설립 "wikilink") [분류:미국의 농구 경기장](https://ko.wikipedia.org/wiki/분류:미국의_농구_경기장 "wikilink") [분류:미국의 아이스하키 경기장](https://ko.wikipedia.org/wiki/분류:미국의_아이스하키_경기장 "wikilink") [분류:미국의 실내 경기장](https://ko.wikipedia.org/wiki/분류:미국의_실내_경기장 "wikilink") [분류:센트럴 하키 리그](https://ko.wikipedia.org/wiki/분류:센트럴_하키_리그 "wikilink") [분류:서던 프로페셔널 하키 리그](https://ko.wikipedia.org/wiki/분류:서던_프로페셔널_하키_리그 "wikilink") [분류:2006년 완공된 스포츠 시설](https://ko.wikipedia.org/wiki/분류:2006년_완공된_스포츠_시설 "wikilink")

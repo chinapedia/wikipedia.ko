@@ -1,0 +1,42 @@
+> This article is converted from Wikipedia: [TCP   ](https://ko.wikipedia.org/wiki/TCP___).
+
+
+[전송 제어 프로토콜](https://ko.wikipedia.org/wiki/전송_제어_프로토콜 "wikilink")(TCP)은 네트워크 혼잡 방지 알고리즘을 사용하여 네트워크에서 부하로 인해 패킷 손실이 발생하는 것을 줄인다. 이 문서에서는 TCP에서 사용하는 **TCP 혼잡 방지 알고리즘**을 다룬다.
+
+## TCP 타호와 TCP 리노
+
+네트워크 혼잡으로 인한 붕괴 상황(congestive collapse)를 방지하기 위해서, TCP는 다양한 혼잡 제어 방법을 활용한다. TCP는 각 연결마다 *[혼잡 창](https://ko.wikipedia.org/wiki/혼잡_창 "wikilink")*을 관리하는데, 혼잡 창은 [ACK 패킷이](https://ko.wikipedia.org/wiki/ACK_패킷 "wikilink") 수신되지 않은 패킷의 최대 개수를 제한하게 된다. 이러한 방법은 TCP가 [흐름 제어를](https://ko.wikipedia.org/wiki/흐름_제어 "wikilink") 위해 [슬라이딩 윈도를](https://ko.wikipedia.org/wiki/슬라이딩_윈도 "wikilink") 사용하는 것과 유사하다. TCP는 연결이 시작되었을 때와 시간 초과가 발생했을 때, **[느린 시작](https://ko.wikipedia.org/wiki/혼잡_제어#느린_시작 "wikilink")**\[1\] 이라는 상태에 진입하며, 작은 값에서 시작하여 점차 혼잡 창의 크기를 늘린다. 처음 혼잡 창의 크기는 최대 세그먼트 크기(MSS)의 두 배이다. 비록 작은 값으로 시작하지만, 혼잡 창 크기의 증가 속도는 굉장히 빠르다. 각 패킷에 대해 ACK 패킷을 받을 때마다, 혼잡 창의 크기는 MSS의 크기만큼 늘어난다. 따라서, 실질적으로 매 [왕복 지연 시간](https://ko.wikipedia.org/wiki/왕복_지연_시간 "wikilink")(RTT)마다 혼잡 창의 크기는 두 배가 된다.
+
+혼잡 창의 크기가 느린 시작 한계(*ssthresh*)라고 불리는 한계점을 초과하면, TCP는 **혼잡 방지**라고 불리는 새로운 상태에 진입한다. 리눅스를 비롯한 몇몇 구현에서는 초기 ssthresh 값이 크기 때문에, 첫 느린 시작은 대개 패킷 손실이 일어난 후에야 끝난다. 그러나 느린 시작이 끝나면 ssthresh 값이 더 작은 값으로 조정되고, 이후의 느린 시작에 영향을 미치게 된다.
+
+**혼잡 방지** 상태에서 TCP는 ACK 패킷이 중복으로 수신되지 않는 한 매 왕복 지연 시간마다 혼잡 창의 크기를 MSS만큼 늘린다. 패킷 손실이 발생하면 패킷이 중복 수신될 확률이 매우 높다. (이론적으로는 극단적인 패킷 재정렬로 인해 ACK 중복 수신이 발생할 수도 있다.) 타호와 리노는 패킷 손실의 감지와 대응에 있어서 다른 전략을 취한다.
+
+  - 타호(Tahoe): ACK 중복 수신이 3회 발생하면 시간 초과가 발생한 것과 똑같이 처리한다. 타호는 시간 초과가 발생하면 "[빠른 재전송](https://ko.wikipedia.org/wiki/혼잡_제어#빠른_재전송 "wikilink")"을 수행하는데, 우선 느린 시작 한계를 현재 혼잡 창 크기의 반으로 설정하고, 혼잡 창의 크기는 MSS의 크기와 같게 설정한 후, 다시 느린 시작 상태로 진입한다.
+  - 리노(Reno): ACK 중복 수신이 3회 발생하면 리노는 혼잡 창의 크기를 반으로 줄이고 느린 시작 한계 또한 줄어든 혼잡 창의 크기와 같게 설정한 후, 빠른 회복을 수행하고, [빠른 회복에](https://ko.wikipedia.org/wiki/혼잡_제어#빠른_회복 "wikilink") 진입한다. ACK 시간 초과 시에는 타호에서와 똑같은 방법으로 느린 시작을 한다.
+
+**[빠른 재전송](https://ko.wikipedia.org/wiki/혼잡_제어#빠른_재전송 "wikilink")** 상태는 타호에만 있는 상태로, 이 상태에서 TCP는 중복 수신된 ACK가 가리키는 패킷을 재전송하고, 전송 창에 있는 모든 패킷에 대한 ACK가 수신될 때까지 기다린다. 모든 ACK가 수신되면 비로소 TCP는 다시 혼잡 방지 상태로 돌아간다. 만약 ACK가 수신되지 않으면 시간 초과가 발생하고, TCP는 느린 시작을 하게 될 것이다.
+
+두 알고리즘 모두 시간 초과 시에는 혼잡 창의 크기를 MSS로 줄인다.
+
+두 알고리즘 모두 간혹 혼잡 창의 크기가 0으로 설정되는 경우 동결 상태에 빠져 버릴 수 있다.
+
+## TCP 베이거스
+
+1990년대 중반까지 모든 TCP는 오직 전송 버퍼에 있는 마지막으로 전송된 패킷을 통해서 시간 초과를 감지하거나 왕복 지연 시간을 측정했다. [애리조나 대학교](https://ko.wikipedia.org/wiki/애리조나_대학교 "wikilink") 소속의 래리 피터슨과 로렌스 브라크모는 네바다 주 최대의 도시 [라스베이거스](https://ko.wikipedia.org/wiki/라스베이거스 "wikilink")의 이름을 딴 TCP 베이거스(TCP Vegas)를 소개했다. 이 알고리즘에서 시간 초과의 감지와 왕복 지연 시간의 측정은 전송 버퍼에 있는 모든 패킷에 대해서 이루어졌다. 또한 TCP 베이거스는 혼잡 창에 대해서 [합 증가](https://ko.wikipedia.org/wiki/혼잡_제어#합_증가/곱_감소 "wikilink") 방식을 사용한다. 이 알고리즘은 피터슨의 연구실 바깥에서는 널리 구현되지 못했다. 다양한 TCP 혼잡 제어 알고리즘에 대한 비교 연구에서 TCP 베이거스는 TCP 큐빅과 함께 가장 부드러운 동작을 보여 주었다.
+
+TCP 베이거스는 [DD-WRT](https://ko.wikipedia.org/wiki/DD-WRT "wikilink") 펌웨어 v24 SP2의 기본 혼잡 제어 알고리즘으로 사용되었다.\[2\]
+
+## 참고 자료
+
+## 출처
+
+  -
+  -
+## 외부 링크
+
+  - [Congestion avoidance simulation](http://www.visualland.net/tcp_histrory.php?simu=tcp_swnd&protocol=TCP&title=2.Sliding%20Window&ctype=1)
+
+[분류:컴퓨터 네트워크](https://ko.wikipedia.org/wiki/분류:컴퓨터_네트워크 "wikilink")
+
+1.
+2.

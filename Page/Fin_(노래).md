@@ -1,0 +1,37 @@
+> This article is converted from Wikipedia: [Fin \(\)](https://ko.wikipedia.org/wiki/Fin_\(\)).
+
+
+〈**Fin**〉(핀)은 [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") [9월 25일에](https://ko.wikipedia.org/wiki/9월_25일 "wikilink") 발표한 일본의 가수 [나카모리 아키나](https://ko.wikipedia.org/wiki/나카모리_아키나 "wikilink")()의 16번째 싱글이다. ([EP](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink"): L-1752) 작사는 마츠모토 잇키()가, 작곡은 사토 켄()이, 편곡은 사토 준()이 담당하였으며 [워너 파이오니어의](https://ko.wikipedia.org/wiki/워너_뮤직_재팬 "wikilink") 레이블로 출시되었다. [B면은](https://ko.wikipedia.org/wiki/B사이드 "wikilink") 〈위험한 MON AMOUR〉()이며 작사는 교 에이코()가, 작곡은 스즈키 키사부로()가, 편곡은 시이나 카즈오()가 도맡았다.\[1\]
+
+1986년 10월 6일, 오리콘 주간 싱글 차트에 1위로 처음으로 진입, 이어서 차트 톱100에 20주간 머물렀고, 1985년 연간 싱글 차트에서는 25위를 기록했다.\[2\] 음악평론가 츠츠미 쇼지는 이 곡을 일러 남녀간의 사랑의 종말을 표현하고 있다고 평가하고 보컬에 대해서는 감정을 억제하는 것이 도드라졌으며 곡의 멜로디는 영화의 사운드트랙과도 같은 사운드라고 평하였다.\[3\] 또한 이곡으로 같은 해 제16회 일본가요대상에서 대상을 수상하였다.
+
+## 수록곡
+
+## 수상
+
+  - '86 전일본가요음악제 - 골든 그랑프리
+  - 제13회 요코하마 음악제 - 요코하마 음악제상
+  - 제17회 일본가요대상 - 대상, 방송음악 특별상
+  - 제19회 전일본유선방송대상 - 최다 리퀘스트상, 우수스타상
+
+## 발매 일정
+
+| 버전            | 일정                                                                     | 레이블                                                                  | 포맷                                                                |
+| ------------- | ---------------------------------------------------------------------- | -------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| 〈Fin〉         | 1986년 9월 25일                                                           | [워너 뮤직 재팬](https://ko.wikipedia.org/wiki/워너_뮤직_재팬 "wikilink")        | [EP](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink") (L-1752) |
+| 〈Fin〉 (재발매)   | 1988년 6월 25일                                                           | [8cmCD](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink") (10SL-146) |                                                                   |
+| 1988년 12월 21일 | [CT](https://ko.wikipedia.org/wiki/콤팩트_카세트 "wikilink") (10L5-4055)     |                                                                      |                                                                   |
+| 1998년 11월 26일 | [12cmCD](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink") (WPC6-8673) |                                                                      |                                                                   |
+| 2008년 11월 12일 | [디지털 다운로드](https://ko.wikipedia.org/wiki/디지털_다운로드 "wikilink")          |                                                                      |                                                                   |
+
+## 각주
+
+## 외부 링크
+
+  - [中森明菜 「Fin」- Warner Music Japan](https://web.archive.org/web/20120819031906/http://wmg.jp/artist/akina/WPC6000008673.html)
+
+[분류:나카모리 아키나의 노래](https://ko.wikipedia.org/wiki/분류:나카모리_아키나의_노래 "wikilink") [분류:1986년 싱글](https://ko.wikipedia.org/wiki/분류:1986년_싱글 "wikilink") [분류:1986년 오리콘 싱글 차트 1위 작품](https://ko.wikipedia.org/wiki/분류:1986년_오리콘_싱글_차트_1위_작품 "wikilink")
+
+1.
+2.
+3.

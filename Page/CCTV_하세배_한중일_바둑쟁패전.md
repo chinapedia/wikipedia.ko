@@ -1,0 +1,29 @@
+> This article is converted from Wikipedia: [CCTV   ](https://ko.wikipedia.org/wiki/CCTV___).
+
+
+'''CCTV 하세배 바둑쟁패전 '''()은 중국의 공영방송인 CCTV가 주관하는 대회로, 중국이 춘절(설)을 맞아 매년 한중일의 바둑 고수 3명을 초청해서 개최하는 이벤트 대회이다. 중국 춘절 기간에 중국 베이징에서 열린다. 하세배는 경축할 하(賀)와 새해 세(歲)의 조어로 대략 '새해를 축하하는 대회'라는 뜻이다. 1회 대회는 중국갑조리그 최우수기사와 최우수주장의 자격으로 중국 자국 기사를 초청해 대국을 벌였다.
+
+## 상금
+
+  - 우승 80만위안(약 1억5,000만 원). 준우승 40만 위안(약 7,300만 원). 3위 20만위안(약 3,600만 원).
+
+## 대국규정
+
+  - 역시드 3자 토너먼트 방식으로 진행된다. 역시드를 뽑은 선수는 2회전부터 출전해 1회전 패자와 대결한다. 1회전 승자와 2회전 승자는 결승에서 만난다.(보통의 시드와 달리 이 방식은 시드를 뽑은 자가 불리하기 때문에 편의상 역시드라고 호칭한다.)
+  - 덤은 7.5집이다. 제한시간은 TV바둑아시아 선수권과 같아 제한시간 없이 매수 30초 초읽기를 하며 도중 1분 고려시간 10회를 사용할 수 있다.
+
+## 대회결과
+
+| 회수 | 연도   | 우승                                                               | 준우승                                                                | 3위                                                                 |
+| -- | ---- | ---------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------ |
+| 1  | 2013 | [스웨](../Page/스웨.md "wikilink") 九단                                | [구리](https://ko.wikipedia.org/wiki/구리_\(바둑_기사\) "wikilink") 九단     |                                                                    |
+| 2  | 2014 | [스웨](../Page/스웨.md "wikilink") 九단                                | [무라카와 다이스케](https://ko.wikipedia.org/wiki/무라카와_다이스케 "wikilink") 七단 | [이세돌](https://ko.wikipedia.org/wiki/이세돌 "wikilink") 九단             |
+| 3  | 2015 | [퉈자시](../Page/퉈자시.md "wikilink") 九단                              | [김지석](https://ko.wikipedia.org/wiki/김지석_\(바둑_기사\) "wikilink") 九단   | [무라카와 다이스케](https://ko.wikipedia.org/wiki/무라카와_다이스케 "wikilink") 七단 |
+| 4  | 2016 | [커제](../Page/커제.md "wikilink") 九단                                | [이세돌](https://ko.wikipedia.org/wiki/이세돌 "wikilink") 九단             | [이치리키 료](../Page/이치리키_료.md "wikilink") 七단                          |
+| 5  | 2017 | [커제](../Page/커제.md "wikilink") 九단                                | [이야마 유타](../Page/이야마_유타.md "wikilink") 九단                          | [박정환](https://ko.wikipedia.org/wiki/박정환_\(바둑_기사\) "wikilink") 九단   |
+| 6  | 2018 | [박정환](https://ko.wikipedia.org/wiki/박정환_\(바둑_기사\) "wikilink") 九단 | [커제](../Page/커제.md "wikilink") 九단                                  | [이치리키 료](../Page/이치리키_료.md "wikilink") 八단                          |
+| 7  | 2019 | [박정환](https://ko.wikipedia.org/wiki/박정환_\(바둑_기사\) "wikilink") 九단 | [커제](../Page/커제.md "wikilink") 九단                                  | [시바노 도라마루](https://ko.wikipedia.org/wiki/시바노_도라마루 "wikilink") 七단   |
+| 8  | 2020 | [박정환](https://ko.wikipedia.org/wiki/박정환_\(바둑_기사\) "wikilink") 九단 | [커제](../Page/커제.md "wikilink") 九단                                  | [시바노 도라마루](https://ko.wikipedia.org/wiki/시바노_도라마루 "wikilink") 九단   |
+|    |      |                                                                  |                                                                    |                                                                    |
+
+[분류:2014년 설립](https://ko.wikipedia.org/wiki/분류:2014년_설립 "wikilink") [분류:바둑 국제 기전](https://ko.wikipedia.org/wiki/분류:바둑_국제_기전 "wikilink")

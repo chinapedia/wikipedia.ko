@@ -1,0 +1,117 @@
+> This article is converted from Wikipedia: [WWE   ](https://ko.wikipedia.org/wiki/WWE___).
+
+
+**WWE 러 태그팀 챔피언십**(WWE RAW Tag Team Champion)은 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")의 챔피언십중 둘이며 태그팀 챔피언십이다.
+
+현재는 둘의 태그팀 챔피언만 소지하고있으며 현재 챔피언은 세스 롤린스&버디 머피 이다.
+
+## 역사
+
+2002년 중순, 브랜드 확장시기에서 [월드 태그팀 챔피언십이](https://ko.wikipedia.org/wiki/WWE_월드_태그팀_챔피언십 "wikilink") [스맥다운으로](https://ko.wikipedia.org/wiki/RAW "wikilink") 가고, 로우에서는 당시 단장인 [스테파니 맥맨에](https://ko.wikipedia.org/wiki/스테파니_맥맨 "wikilink") 의해 새롭게 **WWE 태그팀 챔피언**이 탄생하였다.
+
+2002년 10월 1일, 스테파니는 8팀의 토너먼트식을 만들었다. 결승전([10월 20일](https://ko.wikipedia.org/wiki/10월_20일 "wikilink"),[노 머시](https://ko.wikipedia.org/wiki/노_머시 "wikilink"))에서는 [크리스 벤와와](https://ko.wikipedia.org/wiki/크리스_벤와 "wikilink") [커트 앵글이](https://ko.wikipedia.org/wiki/커트_앵글 "wikilink") [레이 미스테리오와](https://ko.wikipedia.org/wiki/레이_미스테리오 "wikilink") [에지](https://ko.wikipedia.org/wiki/에지 "wikilink")를 이기고 새롭게 초대 챔피언으로써 **WWE 태그팀 챔피언**이 탄생한 것이었다. 하지만 그 다음 챔피언으로 [레이 미스테리오와](https://ko.wikipedia.org/wiki/레이_미스테리오 "wikilink") [에지](https://ko.wikipedia.org/wiki/에지 "wikilink")가 챔피언이 되었다. 2007년 에서는 [존 모리슨과](https://ko.wikipedia.org/wiki/존_모리슨 "wikilink") [더 미즈가](https://ko.wikipedia.org/wiki/더_미즈 "wikilink") 챔피언이 되었을때, [ECW](https://ko.wikipedia.org/wiki/ECW "wikilink")브랜드로 옮기다가 다시 스맥다운으로 환원되기도 하였다.
+
+2009년 레슬매니아 25에서 더 콜론즈([칼리토](https://ko.wikipedia.org/wiki/칼리토 "wikilink")와 프리모)가 월드 태그팀 챔피언이었던 존 모리슨과 더 미즈를 이기면서 새로운 통합 태그팀 챔피언십에 올랐다, 그러다 2010년 8월 16일에서는 새로운 챔피언 벨트로 변경하여, 월드 태그팀 챔피언십은 40년 만에 사라지고 WWE 태그팀 챔피언십만 남게 되었다. 따라서 태그팀 챔피언십 디비전은 하나만 존재하게 되었다. 2016년 7월 19일 5년만에 브랜드가 나뉘어 지면서 RAW 브랜드 소속의 타이틀이 되고, 2016년 8월 23일 스맥다운을 통해 스맥다운 브랜드에 [WWE 스맥다운 태그팀 챔피언십이](../Page/WWE_스맥다운_태그팀_챔피언십.md "wikilink") 창설되면서 다시 태그팀 타이틀도 브랜드별로 나뉘게 되었고, 2016년 9월 5일 RAW부터 현재의 명칭으로 바뀐다.
+
+## 역대 타이틀 명칭
+
+| 타이틀 명칭          | 연도                           |
+| --------------- | ---------------------------- |
+| WWE 태그팀 챔피언십    | 2002년 10월 20일 \~ 2009년 4월 5일 |
+| WWE 통합 태그팀 챔피언십 | 2009년 4월 5일 \~ 2010년 8월 16일  |
+| WWE 태그팀 챔피언십    | 2010년 8월 17일 \~ 2016년 9월 4일  |
+| WWE 러 태그팀 챔피언십  | 2016년 9월 5일 \~ 현재            |
+
+## 기록들
+
+  - 초대 챔피언 : 커트 앵글 & 크리스 벤와
+  - 최장수 챔피언 : [더 뉴데이](../Page/더_뉴데이.md "wikilink") (484일)
+  - 최단 기간 챔피언 : 존 시나 & 더 미즈 (14분)
+  - 팀 최다 챔피언 : 더 바 ([세자로](https://ko.wikipedia.org/wiki/클라우디오_카스타뇰리 "wikilink") & [쉐이머스](https://ko.wikipedia.org/wiki/쉐이머스_\(프로레슬링_선수\) "wikilink")) (4회)
+  - 개인 최다 챔피언 : [세스 롤린스](https://ko.wikipedia.org/wiki/타일러_블랙 "wikilink") (6회)
+  - 최중량급 챔피언 : [케인](https://ko.wikipedia.org/wiki/케인 "wikilink") & [빅 쇼](https://ko.wikipedia.org/wiki/빅_쇼 "wikilink") (367kg)
+  - 최경량급 챔피언 : [폴 런던](https://ko.wikipedia.org/wiki/폴_런던 "wikilink") & [브라이언 켄드릭](https://ko.wikipedia.org/wiki/브라이언_켄드릭 "wikilink") (165kg)
+  - 최고령 챔피언 : [빌리 건](https://ko.wikipedia.org/wiki/빌리_건 "wikilink") (50세 112일)
+  - 최연소 챔피언 : 니콜라스 (10세)
+
+## 역대 챔피언
+
+  - 커트 앵글 & 크리스 벤와 (초대 챔피언)
+  - 에지 & 레이 미스테리오
+  - 로스 게레로 (에디 게레로 & 차보 게레로)
+  - 팀 앵글/월즈 그레이티스트 태그팀 (찰리 하스 & 셸턴 벤자민)
+  - 에디 게레로 & 타지리
+  - 배샴 브라더스 (더그 & 대니)
+  - 리키시 & 스카티 투 하티
+  - 찰리 하스 & 리코
+  - 더들리 보이즈 (버버레이 더들리 & 디본 더들리)
+  - 빌리 키드먼 & 폴 런던
+  - 스즈키 켄조 스즈키 & 르네 드퓨리
+  - 레이 미스테리오 & 랍 밴 댐
+  - 에디 게레로 & 레이 미스테리오
+  - MNM (조이 머큐리 & 자니 나이트로)
+  - 리전 오브 둠 2기 (로드 워리어 애니멀 & 하이든라히)
+  - 바티스타 & 레이 미스테리오
+  - 폴 런던 & 브라이언 켄드릭
+  - 듀스 앤 도미노
+  - 매트 하디 & 몬텔 본테비어스 포터
+  - 존 모리슨 & 더 미즈
+  - 커트 호킨스 & 잭 라이더
+  - 더 콜론스 (칼리토 & 프리모) - 통합 태그팀 챔피언
+  - 크리스 제리코 & 에지 - 통합 태그팀 챔피언
+  - 제리쇼 (크리스 제리코 & 빅 쇼) - 통합 태그팀 챔피언
+  - D-제레네이션 X (숀 마이클스 & 트리플 H) - 통합 태그팀 챔피언
+  - 쇼미즈 (더 미즈 & 빅 쇼) - 통합 태그팀 챔피언
+  - 하트 다이너스티 (데이비 하트 스미스 & 타이슨 키드) - 마지막 통합 태그팀 챔피언
+  - 코디 로즈 & 드류 맥킨타이어
+  - 넥서스 (존 시나 & 데이비드 오턴가)
+  - 넥서스/코어 (히스 슬레이터 & 저스틴 가브리엘)
+  - 산티노 마렐라 & 블라디미르 코즐로프
+  - 존 시나 & 더 미즈
+  - 케인 & 빅쇼
+  - 데이비드 오턴가 & 마이클 맥길리커티
+  - 에어 붐 (에반 본 & 코피 킹스턴)
+  - 프리모 & 에피코
+  - 코피 킹스턴 & 알 트루스 (R-붐)
+  - 팀 헬노 (케인 & 다니엘 브라이언)
+  - 더 쉴드 (로만 레인즈 & 세스 롤린스)
+  - 골더스트 & 코디 로즈
+  - 뉴 에이지 아웃로 (빌리 건 & 로드 독)
+  - 우소즈 (지미 우소 & 제이 우소)
+  - 골더스트 & 스타 더스트
+  - 더 미즈 & 데미안 미즈도우
+  - 타이슨 키드 & 세자로
+  - 뉴 데이 (코피 킹스턴 & 빅 E & 재비어 우즈)
+  - 프라임 타임 플레이어스 (타이터스 오닐 & 대런 영)
+  - 세자로 & 셰이머스
+  - 루크 겔로우스 & 칼 앤더슨
+  - 하디 보이즈 (매트 하디 & 제프 하디)
+  - 세스 롤린스 & 딘 앰브로스
+  - 세스 롤린스 & 제이슨 조던
+  - 브라운 스트로우먼 & 니콜라스
+  - 매트 하디 & 브레이 와이어트
+  - B팀 (커티스 엑슬 & 보 댈러스)
+  - 드루 맥킨타이어 & 돌프 지글러
+  - AOP (레자르 & 아캄)
+  - 바비 루드 & 채드 게이블
+  - 리바이벌 (대쉬 와일더 & 스캇 도슨)
+  - 세스 롤린스 & 브라운 스트로우먼
+  - 돌프 지글러 & 로버트 루드
+  - 바이킹 레이더스 (에릭 & 이바르)
+  - **세스 롤린스 & 버디 머피** (현 챔피언)
+
+## 같이 보기
+
+  - [트리플 크라운 챔피언십](https://ko.wikipedia.org/wiki/트리플_크라운_챔피언십 "wikilink")
+  - [그랜드 슬램 챔피언십](https://ko.wikipedia.org/wiki/그랜드_슬램_챔피언십 "wikilink")
+  - [WWE 월드 태그팀 챔피언십](https://ko.wikipedia.org/wiki/WWE_월드_태그팀_챔피언십 "wikilink")
+  - [WWE 스맥다운 태그팀 챔피언십](../Page/WWE_스맥다운_태그팀_챔피언십.md "wikilink")
+  - [WWE NXT 태그팀 챔피언십](https://ko.wikipedia.org/wiki/WWE_NXT_태그팀_챔피언십 "wikilink")
+  - [WCW 월드 태그팀 챔피언십](https://ko.wikipedia.org/wiki/WCW_월드_태그팀_챔피언십 "wikilink")
+  - [ECW 월드 태그팀 챔피언십](https://ko.wikipedia.org/wiki/ECW_월드_태그팀_챔피언십 "wikilink")
+  - [TNA 월드 태그팀 챔피언십](https://ko.wikipedia.org/wiki/TNA_월드_태그팀_챔피언십 "wikilink")
+  - [RoH 월드 태그팀 챔피언십](https://ko.wikipedia.org/wiki/RoH_월드_태그팀_챔피언십 "wikilink")
+  - [GFW 월드 태그팀 챔피언십](https://ko.wikipedia.org/wiki/GFW_월드_태그팀_챔피언십 "wikilink")
+  - [AEW 월드 태그팀 챔피언십](https://ko.wikipedia.org/wiki/AEW_월드_태그팀_챔피언십 "wikilink")
+
+[분류:2002년 설립](https://ko.wikipedia.org/wiki/분류:2002년_설립 "wikilink") [분류:WWE 챔피언십](https://ko.wikipedia.org/wiki/분류:WWE_챔피언십 "wikilink") [분류:태그팀 프로레슬링 챔피언십](https://ko.wikipedia.org/wiki/분류:태그팀_프로레슬링_챔피언십 "wikilink") [분류:WWE 러](https://ko.wikipedia.org/wiki/분류:WWE_러 "wikilink")

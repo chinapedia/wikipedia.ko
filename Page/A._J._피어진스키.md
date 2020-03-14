@@ -1,0 +1,40 @@
+> This article is converted from Wikipedia: [A. J. ](https://ko.wikipedia.org/wiki/A._J._).
+
+
+**A.J. 피어진스키** (Anthony John Pierzynski, [1976년](https://ko.wikipedia.org/wiki/1976년 "wikilink") [12월 30일](https://ko.wikipedia.org/wiki/12월_30일 "wikilink") \~ )는 미국 프로 야구 [애틀랜타 브레이브스의](https://ko.wikipedia.org/wiki/애틀랜타_브레이브스 "wikilink") 선수이다. [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") 3라운드 71픽으로 [미네소타 트윈스에](https://ko.wikipedia.org/wiki/미네소타_트윈스 "wikilink") 입단했다.
+
+## 입단
+
+## 시즌
+
+## 경력
+
+## 주요 기록
+
+## 수상
+
+## 연도별 타격 성적
+
+|                                                         |                                                            |      |      |     |      |     |    |     |      |     |    |    |    |    |     |    |     |     |     |        |      |      |      |      |
+| ------------------------------------------------------- | ---------------------------------------------------------- | ---- | ---- | --- | ---- | --- | -- | --- | ---- | --- | -- | -- | -- | -- | --- | -- | --- | --- | --- | ------ | ---- | ---- | ---- | ---- |
+| [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") | [MIN](https://ko.wikipedia.org/wiki/미네소타_트윈스 "wikilink")   | 7    | 13   | 10  | 1    | 3   | 0  | 0   | 0    | 3   | 1  | 0  | 0  | 0  | 1   | 1  | 0   | 1   | 2   | 0      | .300 | .385 | .300 | .685 |
+| [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") | 9                                                          | 24   | 22   | 3   | 6    | 2   | 0  | 0   | 8    | 3   | 0  | 0  | 0  | 0  | 1   | 0  | 1   | 4   | 0   | .273   | .333 | .364 | .697 |      |
+| [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") | 33                                                         | 96   | 88   | 12  | 27   | 5   | 1  | 2   | 40   | 11  | 1  | 0  | 0  | 1  | 5   | 0  | 2   | 14  | 1   | .307   | .354 | .455 | .809 |      |
+| [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") | 114                                                        | 405  | 381  | 51  | 110  | 33  | 2  | 7   | 168  | 55  | 1  | 7  | 1  | 3  | 16  | 4  | 4   | 57  | 7   | .289   | .322 | .441 | .763 |      |
+| [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") | 130                                                        | 469  | 440  | 54  | 132  | 31  | 6  | 6   | 193  | 49  | 1  | 2  | 2  | 3  | 13  | 1  | 11  | 61  | 14  | .300   | .334 | .439 | .773 |      |
+| [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") | 137                                                        | 533  | 487  | 63  | 152  | 35  | 3  | 11  | 226  | 74  | 3  | 1  | 2  | 5  | 24  | 12 | 15  | 55  | 13  | .312   | .360 | .464 | .824 |      |
+| [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") | [SF](https://ko.wikipedia.org/wiki/샌프란시스코_자이언츠 "wikilink") | 131  | 510  | 471 | 45   | 128 | 28 | 2   | 11   | 193 | 77 | 0  | 1  | 2  | 3   | 19 | 4   | 15  | 27  | **27** | .272 | .319 | .410 | .729 |
+| [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") | [CWS](https://ko.wikipedia.org/wiki/시카고_화이트삭스 "wikilink")  | 128  | 497  | 460 | 61   | 118 | 21 | 0   | 18   | 193 | 56 | 0  | 2  | 1  | 1   | 23 | 5   | 12  | 68  | 13     | .257 | .308 | .420 | .728 |
+| [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") | 140                                                        | 543  | 509  | 65  | 150  | 24  | 0  | 16  | 222  | 64  | 1  | 0  | 3  | 1  | 22  | 6  | 8   | 72  | 10  | .295   | .333 | .436 | .769 |      |
+| [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") | 136                                                        | 509  | 472  | 54  | 124  | 24  | 0  | 14  | 190  | 50  | 1  | 1  | 1  | 3  | 25  | 5  | 8   | 66  | 21  | .263   | .309 | .403 | .712 |      |
+| [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") | 134                                                        | 570  | 534  | 66  | 150  | 31  | 1  | 13  | 222  | 60  | 1  | 0  | 3  | 6  | 19  | 5  | 8   | 71  | 14  | .281   | .312 | .416 | .728 |      |
+| [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") | 138                                                        | 535  | 504  | 57  | 151  | 22  | 1  | 13  | 214  | 49  | 1  | 1  | 3  | 3  | 24  | 6  | 1   | 52  | 18  | .300   | .331 | .425 | .755 |      |
+| [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") | 128                                                        | 503  | 474  | 43  | 128  | 29  | 0  | 9   | 184  | 56  | 3  | 4  | 6  | 2  | 15  | 2  | 6   | 39  | 17  | .270   | .300 | .388 | .688 |      |
+| [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") | 129                                                        | 500  | 464  | 38  | 133  | 29  | 1  | 8   | 188  | 48  | 0  | 0  | 2  | 6  | 23  | 6  | 5   | 33  | 19  | .287   | .323 | .405 | .728 |      |
+| [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") | 135                                                        | 520  | 479  | 68  | 133  | 18  | 4  | 27  | 240  | 77  | 0  | 0  | 1  | 4  | 28  | 5  | 8   | 78  | 8   | .278   | .326 | .501 | .827 |      |
+| [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") | [TEX](https://ko.wikipedia.org/wiki/텍사스_레인저스 "wikilink")   | 134  | 529  | 503 | 48   | 137 | 24 | 1   | 17   | 214 | 70 | 1  | 1  | 0  | 6   | 11 | 2   | 9   | 76  | 14     | .272 | .297 | .425 | .722 |
+| 통산：16년                                                  | 1763                                                       | 6758 | 6298 | 729 | 1782 | 356 | 22 | 172 | 2698 | 800 | 14 | 20 | 27 | 48 | 269 | 63 | 114 | 775 | 196 | .283   | .322 | .428 | .750 |      |
+
+  - 2013년 기준
+
+[분류:1976년 태어남](https://ko.wikipedia.org/wiki/분류:1976년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:미국의 야구 선수](https://ko.wikipedia.org/wiki/분류:미국의_야구_선수 "wikilink") [분류:메이저 리그 베이스볼 포수](https://ko.wikipedia.org/wiki/분류:메이저_리그_베이스볼_포수 "wikilink") [분류:미네소타 트윈스 선수](https://ko.wikipedia.org/wiki/분류:미네소타_트윈스_선수 "wikilink") [분류:샌프란시스코 자이언츠 선수](https://ko.wikipedia.org/wiki/분류:샌프란시스코_자이언츠_선수 "wikilink") [분류:시카고 화이트삭스 선수](https://ko.wikipedia.org/wiki/분류:시카고_화이트삭스_선수 "wikilink") [분류:텍사스 레인저스 선수](https://ko.wikipedia.org/wiki/분류:텍사스_레인저스_선수 "wikilink") [분류:애틀랜타 브레이브스 선수](https://ko.wikipedia.org/wiki/분류:애틀랜타_브레이브스_선수 "wikilink") [분류:폴란드계 미국인](https://ko.wikipedia.org/wiki/분류:폴란드계_미국인 "wikilink") [분류:뉴욕주 출신 야구 선수](https://ko.wikipedia.org/wiki/분류:뉴욕주_출신_야구_선수 "wikilink") [분류:아메리칸 리그 올스타](https://ko.wikipedia.org/wiki/분류:아메리칸_리그_올스타 "wikilink") [분류:보스턴 레드삭스 선수](https://ko.wikipedia.org/wiki/분류:보스턴_레드삭스_선수 "wikilink") [분류:세인트루이스 카디널스 선수](https://ko.wikipedia.org/wiki/분류:세인트루이스_카디널스_선수 "wikilink")

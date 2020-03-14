@@ -1,0 +1,8 @@
+> This article is converted from Wikipedia: [ USA](https://ko.wikipedia.org/wiki/_USA).
+
+
+《**크루즌 USA**》(Cruis'n USA)는 [미드웨이](https://ko.wikipedia.org/wiki/미드웨이 "wikilink")가 제작한 [아케이드](https://ko.wikipedia.org/wiki/아케이드_게임 "wikilink") [경주 게임이며](https://ko.wikipedia.org/wiki/경주_게임 "wikilink"), [크루즌 시리즈의](https://ko.wikipedia.org/wiki/크루즌_\(시리즈\) "wikilink") 첫 작품이다. [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink")에 발매되었으며, 이 게임은 전체적으로 [닌텐도](https://ko.wikipedia.org/wiki/닌텐도 "wikilink")와 퍼블리싱 및 하드웨어 관련으로 협력을 한 게임이기도 하다. 덕분에 울트라 64를 기반으로 한 기판으로 제작되었으며, 물론 동 시스템을 사용하는 [닌텐도 64로도](https://ko.wikipedia.org/wiki/닌텐도_64 "wikilink") [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink")에 이식되었다. 이 게임은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") 곳곳을 순회하는 게임인데, 미국의 명물인 [금문교](https://ko.wikipedia.org/wiki/금문교 "wikilink"), [할리우드](https://ko.wikipedia.org/wiki/할리우드 "wikilink") 등이 나온다. 14가지 트랙과 7대의 차량을 제공한다.
+
+## 각주
+
+[분류:경주 게임](https://ko.wikipedia.org/wiki/분류:경주_게임 "wikilink") [분류:1994년 비디오 게임](https://ko.wikipedia.org/wiki/분류:1994년_비디오_게임 "wikilink") [분류:아케이드 게임](https://ko.wikipedia.org/wiki/분류:아케이드_게임 "wikilink") [분류:닌텐도 64 게임](https://ko.wikipedia.org/wiki/분류:닌텐도_64_게임 "wikilink") [분류:미국을 배경으로 한 비디오 게임](https://ko.wikipedia.org/wiki/분류:미국을_배경으로_한_비디오_게임 "wikilink") [분류:애리조나주를 배경으로 한 비디오 게임](https://ko.wikipedia.org/wiki/분류:애리조나주를_배경으로_한_비디오_게임 "wikilink") [분류:네바다주를 배경으로 한 비디오 게임](https://ko.wikipedia.org/wiki/분류:네바다주를_배경으로_한_비디오_게임 "wikilink") [분류:버추얼 콘솔 게임](https://ko.wikipedia.org/wiki/분류:버추얼_콘솔_게임 "wikilink")

@@ -1,0 +1,49 @@
+> This article is converted from Wikipedia: [LG](https://ko.wikipedia.org/wiki/LG).
+
+
+**LG하우시스**는 [2009년 4월](https://ko.wikipedia.org/wiki/2009년_4월 "wikilink") [LG화학](https://ko.wikipedia.org/wiki/LG화학 "wikilink")에서 산업재 사업부문을 분할해서 설립한 기업이다. 건축자재와 인테리어 소재를 생산한다. [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [2월 27일](https://ko.wikipedia.org/wiki/2월_27일 "wikilink") 키자니아 서울 내에 '인테리어 회사' 체험관을 오픈하였다.
+
+## 슬로건
+
+  - 화학공업을 선도하는 (1981년 \~ 1988년)
+  - 우리 곁에는 LG하우시스가 있습니다. (2009 \~ 현재)
+
+## 연혁
+
+  - [1947년](https://ko.wikipedia.org/wiki/1947년 "wikilink") [1월](https://ko.wikipedia.org/wiki/1월 "wikilink") 락희화학공업사 설립
+  - [1974년](https://ko.wikipedia.org/wiki/1974년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink") '주식회사 럭키'로 상호 변경
+  - [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [1월](https://ko.wikipedia.org/wiki/1월 "wikilink") '(주)LG화학'으로 상호 변경
+  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink") 기업 분할 (LGCI, LG화학, LG생활건강 등)
+  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink") **LG하우시스 출범** (LG화학 산업재산업 분할)
+  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink") '(주)LG토스템비엠' 합작 법인 설립
+  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink") '(주)하우시스이엔지' 자회사 설립
+  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [9월](https://ko.wikipedia.org/wiki/9월 "wikilink") '(주)하우시스인터페인' 합작 법인 설립
+  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [11월](https://ko.wikipedia.org/wiki/11월 "wikilink") '(주)하우시스인터페인' 흡수 합병
+  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink") '(주)하우시스이엔지' 흡수 합병
+
+## 제품
+
+이 회사가 생산하는 제품으로는 PVC, 알루미늄 창호, 기능성 유리, 바닥재, 단열재, 벽지, 인조대리석 등이 있다. 매출 구성은 건축자재 58%, 인테리어용 고기능소재 및 부품 41% 가량이다.
+
+인테리어 소재 제품은 일반 소비자들을 대상으로 하므로 친숙한 이름을 지어 마케팅하고 있다. 그러한 제품으로는 소음방지용 바닥재 '지아소리잠', 새집증후군을 완화시켜준다는 ‘지니아’ 벽지, 내장 벽장재 ‘숨타일’ 등이 있다.\[1\]
+
+## 마케팅
+
+제품군에는 지인(Z:IN)이라는 브랜드를 사용한다. 서울 논현동 ‘강남 지인 스퀘어(Z:IN Square)’를 개장하여 일반 고객을 상대로 각종 인테리어 자재를 체험할 수 있게 하고 있다.
+
+## 규모 및 수익
+
+LG하우시스는 2014년 현재 시가총액 2조원 가량의 대기업이며 코스피200 구성 종목이다. 매분기 흑자를 내고 있으며 2014년의 예상 순이익은 1,106억원으로 2013년의 723억원보다 증가한 수치다. 2013년 2월 70,000원 가량이었던 주가는 2014년 9월까지 지속적으로 상승하여 220,000원을 넘어섰다.
+
+## 경쟁업체
+
+건축자재와 인테리어를 생산하는 동일 업종의 라이벌 기업으로는 [KCC가](https://ko.wikipedia.org/wiki/KCC_\(기업\) "wikilink") 있다. [KCC는](https://ko.wikipedia.org/wiki/KCC_\(기업\) "wikilink") 2014년 9월 LG하우시스를 교묘히 깎아내리는 텔레비전 광고를 내놓아 서로 신경전을 벌이기도 했다.\[2\]
+
+## 참고문헌
+
+<references/>
+
+[분류:LG의 자회사](https://ko.wikipedia.org/wiki/분류:LG의_자회사 "wikilink") [분류:2009년 설립된 기업](https://ko.wikipedia.org/wiki/분류:2009년_설립된_기업 "wikilink")
+
+1.  LG하우시스, ‘지아소리잠’ 등 친환경ㆍ에너지절감 인테리어자재 인기 헤럴드POP 2014.03.26
+2.  KCC '지인'은 모른다?..LG하우시스도 맞불, 머니투데이 2014.09.15 07:45

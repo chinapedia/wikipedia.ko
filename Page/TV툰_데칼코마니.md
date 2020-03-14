@@ -1,0 +1,103 @@
+> This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
+
+
+《**TV툰 데칼코마니**》는 [JTBC](https://ko.wikipedia.org/wiki/JTBC "wikilink")의 교양 [애니메이션](https://ko.wikipedia.org/wiki/텔레비전_애니메이션 "wikilink") [프로그램이다](https://ko.wikipedia.org/wiki/텔레비전_프로그램 "wikilink"). 분할된 화면을 통해 일상 속 서로 다른 상황들을 보여주는 감성 애니메이션 프로그램이다.\[1\]
+
+## 방송 시간
+
+  - 2013년 11월 6일 \~ 2014년 1월 28일 : 수요일 오후 8시 5분 \~ 8시 15분
+
+## 제작진
+
+  - 책임 프로듀서 : 이수영
+  - 프로듀서 : 박범준, 이은희
+
+### 프리 프로덕션
+
+  - 콘티 : 김삼채, 임창묵, 허재선, 차정연
+  - 미술 감독 : 김삼채
+  - 캐릭터 : 김삼채, 임창묵, 허재선, 차정연, 이영기
+  - 배경 : 이현정, 고현정, 정애린
+
+### 메인 프로덕션
+
+  - 작화 연출 : 김삼채, 임창묵, 허재선, 이영기
+  - 원화 : 차정연, 이영기, 김부용, 원혜민
+  - 동화 : 김부용, 원혜민, 한리옥, 김사라, 유지선, 한갑성
+  - 애니메이션 감수 : 김삼채, 임창묵
+  - 3D 효과 : 이선화, 김부용
+  - 합성 · 편집 : 강정아, 이선화, 조수호
+
+### 포스트 프로덕션
+
+  - 내레이션 : [윤승희](https://ko.wikipedia.org/wiki/윤승희 "wikilink")
+  - 성우 : 윤승희, [유동균](https://ko.wikipedia.org/wiki/유동균_\(성우\) "wikilink"), [김용준](https://ko.wikipedia.org/wiki/김용준_\(성우\) "wikilink"), [최하나](https://ko.wikipedia.org/wiki/최하나_\(성우\) "wikilink"), [남도형](https://ko.wikipedia.org/wiki/남도형 "wikilink")
+  - 녹음 연출 : 김희집
+  - 녹음 : GG사운드
+  - 슈퍼바이저 : 김희집
+  - 효과 · 오디오 편집 : 김한나
+  - 주제가
+      - 작사 : 맹준재
+      - 작곡 : 이피어나
+      - 노래 : [김수정](https://ko.wikipedia.org/wiki/김수정_\(2004년\) "wikilink")
+  - 제작 프로듀서 : 맹준재, 서동원
+  - 감독 : 임창묵
+  - 연출 : 김삼채, 허재선
+  - 시나리오 : 임창묵, 김민신
+  - 제작 지원 : [한국방송통신전파진흥원](https://ko.wikipedia.org/wiki/한국방송통신전파진흥원 "wikilink")
+  - 기획 : [JTBC](https://ko.wikipedia.org/wiki/JTBC "wikilink")
+  - 제작 : 아트플러스엠
+
+## 방영 목록
+
+#### 2013년
+
+| 회차  | 방영일       | 부제          |
+| --- | --------- | ----------- |
+| 1화  | 11월 6일    | 도시와 시골      |
+| 2화  | 11월 13일   | 강아지와 소녀     |
+| 3화  | 11월 20일   | 친절한 가게의 그늘  |
+| 4화  | 11월 28일   | 커피          |
+| 5화  | 동네 슈퍼     |             |
+| 6화  | 12월 3일    | 돌아온 4번 타자   |
+| 7화  | 삐삐와 휴대폰   |             |
+| 8화  | 12월 10일   | 윗집과 아랫집     |
+| 9화  | 누나와 동생    |             |
+| 10화 | 12월 17일   | 남편과 아내      |
+| 11화 | 남의 떡      |             |
+| 12화 | 12월 24일   | 똑같아요        |
+| 13화 | 어느 지하철 풍경 |             |
+| 14화 | 12월 31일   | 당신의 친구 스마트폰 |
+
+#### 2014년
+
+| 회차  | 방영일        | 부제        |
+| --- | ---------- | --------- |
+| 15화 | 1월 3일      | 달려라 울엄마   |
+| 16화 | 1월 6일      | 여자와 아내    |
+| 17화 | 1월 10일     | 운전하는 김 여사 |
+| 18화 | 1월 14일     | 선임과 후임    |
+| 19화 | 웰컴 투 우리 마을 |           |
+| 20화 | 1월 17일     | 여자의 명절    |
+| 21화 | 1월 21일     | 슈퍼스타 태혜지  |
+| 22화 | 사랑한다면      |           |
+| 23화 | 1월 24일     | 웃는 여자     |
+| 24화 | 제2의 김연아    |           |
+| 25화 | 1월 28일     | 아빠와 아들    |
+
+## 같이 보기
+
+  - [TV동화 행복한 세상](https://ko.wikipedia.org/wiki/TV동화_행복한_세상 "wikilink")(2000년 \~ 2013년)
+  - [TV동화 빨간 자전거](https://ko.wikipedia.org/wiki/빨간_자전거#애니메이션 "wikilink")(2013년 \~ 2015년)
+  - [별별가족](https://ko.wikipedia.org/wiki/별별가족 "wikilink")(2015년 \~ 2016년, 이상 [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_제1TV "wikilink"))
+  - TV에세이 좋은 생각([EBS](https://ko.wikipedia.org/wiki/EBS_TV "wikilink"))
+
+## 각주
+
+## 외부 링크
+
+  - [TV툰 데칼코마니 홈페이지](https://web.archive.org/web/20131224111254/http://culture.jtbc.co.kr/decalcomanie/)
+
+[분류:JTBC의 텔레비전 애니메이션](https://ko.wikipedia.org/wiki/분류:JTBC의_텔레비전_애니메이션 "wikilink") [분류:2010년대 대한민국의 텔레비전 애니메이션](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_애니메이션 "wikilink") [분류:2013년 애니메이션](https://ko.wikipedia.org/wiki/분류:2013년_애니메이션 "wikilink")
+
+1.

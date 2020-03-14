@@ -1,0 +1,288 @@
+> This article is converted from Wikipedia: [SK LTE-A LoL  2014](https://ko.wikipedia.org/wiki/SK_LTE-A_LoL__2014).
+
+
+**SK텔레콤 LTE-A LoL 마스터즈 2014**(SKT LTE-A LoL Masters 2014)는 [라이엇 게임즈](https://ko.wikipedia.org/wiki/라이엇_게임즈 "wikilink"), [한국e스포츠협회](https://ko.wikipedia.org/wiki/한국e스포츠협회 "wikilink"), [온게임넷](https://ko.wikipedia.org/wiki/온게임넷 "wikilink")이 주최하고 [온게임넷](https://ko.wikipedia.org/wiki/온게임넷 "wikilink")의 주관으로 이루어진 대회이다.
+
+## 대회 개요
+
+### 대회 방식
+
+  - 풀 리그 방식
+      - 본선 리그는 각 1경기당 3세트
+      - 1, 2세트는 단일 팀 로스터 대결, 3세트는 마스터 매치(개별 팀에 상관 없이 구단 내 엔트리 선수 자유 출전)
+      - 승점 분배는 3세트 최종 결과에 따라 분배(3승 +3점, 2승 1패 +1점, 1승 2패 -1점, 3패 -3점)
+  - 준플레이오프, 플레이오프 3전 2선승제 2경기(홈 & 어웨이 방식)(1승1패동률시 2차전종료직후 단판 마스터매치로 진출팀결정)
+  - 결승전 5전 3선승제 1경기
+
+### 대회 일정
+
+  - 본선 풀 리그 : [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [2월 13일](https://ko.wikipedia.org/wiki/2월_13일 "wikilink") \~ [5월 4일](https://ko.wikipedia.org/wiki/5월_4일 "wikilink")
+
+### 경기장
+
+  - 본선리그 - 용산 이스포츠 상설 경기장
+  - 결승전 - 고려대학교 화정체육관
+
+## 참가 팀
+
+| 구단                                                                 | 팀                 |
+| ------------------------------------------------------------------ | ----------------- |
+| [나진 e-엠파이어](https://ko.wikipedia.org/wiki/나진_e-엠파이어 "wikilink")    | 나진 White Shield   |
+| 나진 Black Sword                                                     |                   |
+| [삼성 갤럭시](https://ko.wikipedia.org/wiki/삼성_갤럭시_\(E스포츠\) "wikilink") | 삼성 갤럭시 Blue       |
+| 삼성 갤럭시 Ozone                                                       |                   |
+| [인크레더블 미라클](https://ko.wikipedia.org/wiki/인크레더블_미라클 "wikilink")    | 인크레더블 미라클 \#1     |
+| 인크레더블 미라클 \#2                                                      |                   |
+| [진에어 그린윙스](https://ko.wikipedia.org/wiki/진에어_그린윙스 "wikilink")      | 진에어 그린윙스 Stealths |
+| 진에어 그린윙스 Falcons                                                   |                   |
+| [CJ 엔투스](https://ko.wikipedia.org/wiki/CJ_엔투스 "wikilink")          | CJ 엔투스 Frost      |
+| CJ 엔투스 Blaze                                                       |                   |
+| [KT 롤스터](https://ko.wikipedia.org/wiki/KT_롤스터 "wikilink")          | KT 롤스터 Arrows     |
+| KT 롤스터 Bullets                                                     |                   |
+| [SK텔레콤 T1](https://ko.wikipedia.org/wiki/SK텔레콤_T1 "wikilink")      | SK텔레콤 T1 S        |
+| SK텔레콤 T1 K                                                         |                   |
+
+## 본선 일정 및 결과
+
+### 1주차
+
+  - [2월 13일](https://ko.wikipedia.org/wiki/2월_13일 "wikilink")
+
+| 경기  | 진에어 그린윙스          | CJ 엔투스 |
+| --- | ----------------- | ------ |
+| 1경기 | 진에어 그린윙스 Stealths | 승      |
+| 2경기 | 진에어 그린윙스 Falcons  | 패      |
+| 3경기 | 진에어 그린윙스          | 패      |
+| 승점  | 경기                | \-1    |
+
+| 포지션   | 진에어 그린윙스     | CJ 엔투스       |
+| ----- | ------------ | ------------ |
+| 탑     | TrAce 여창동    | Flame 이호종    |
+| 정글    | Radar 김항민    | Daydream 강경민 |
+| 미드    | Fly 송용준      | Ambition 강찬용 |
+| AD 캐리 | Cpt Jack 강형우 | Emperor 김진현  |
+| 서포터   | XD 이은택       | Lustboy 함장식  |
+
+  - [2월 16일](https://ko.wikipedia.org/wiki/2월_16일 "wikilink")
+
+| 경기  | SK텔레콤 T1   | 인크레더블 미라클 |
+| --- | ---------- | --------- |
+| 1경기 | SK텔레콤 T1 K | 승         |
+| 2경기 | SK텔레콤 T1 S | 승         |
+| 3경기 | SK텔레콤 T1   | 승         |
+| 승점  | 경기         | \+3       |
+
+| 포지션   | SK텔레콤 T1   | 인크레더블 미라클      |
+| ----- | ---------- | -------------- |
+| 탑     | Impact 정언영 | Apple 정철우      |
+| 정글    | Bengi 배성웅  | Reign Over 김의진 |
+| 미드    | Faker 이상혁  | KurO 이서행       |
+| AD 캐리 | Piglet 채광진 | Violet 임두성     |
+| 서포터   | Casper 권지민 | Lasha 권민우      |
+
+### 2주차
+
+  - [2월 20일](https://ko.wikipedia.org/wiki/2월_20일 "wikilink")
+
+| 경기  | KT 롤스터         | 나진 e-엠파이어 |
+| --- | -------------- | --------- |
+| 1경기 | KT 롤스터 Bullets | 패         |
+| 2경기 | KT 롤스터 Arrows  | 패         |
+| 3경기 | KT 롤스터         | 승         |
+| 승점  | 경기             | \-1       |
+
+| 포지션   | KT 롤스터      | 나진 e-엠파이어  |
+| ----- | ----------- | ---------- |
+| 탑     | Ssumday 김찬호 | Save 백영진   |
+| 정글    | KaKAO 이병권   | Watch 조재걸  |
+| 미드    | Rookie 송의진  | Ggoong 유병준 |
+| AD 캐리 | Arrow 노동현   | PraY 김종인   |
+| 서포터   | Hachani 하승찬 | Cain 장누리   |
+
+  - [2월 23일](https://ko.wikipedia.org/wiki/2월_23일 "wikilink")
+
+| 경기  | 삼성 갤럭시       | 진에어 그린윙스 |
+| --- | ------------ | -------- |
+| 1경기 | 삼성 갤럭시 Blue  | 승        |
+| 2경기 | 삼성 갤럭시 Ozone | 패        |
+| 3경기 | 삼성 갤럭시       | 승        |
+| 승점  | 경기           | \+1      |
+
+| 포지션   | 삼성 갤럭시     | 진에어 그린윙스     |
+| ----- | ---------- | ------------ |
+| 탑     | Looper 장형석 | TrAce 여창동    |
+| 정글    | DanDy 최인규  | Radar 김항민    |
+| 미드    | Pawn 허원석   | Fly 송용준      |
+| AD 캐리 | Deft 김혁규   | Cpt Jack 강형우 |
+| 서포터   | Mata 조세형   | XD 이은택       |
+
+### 3주차
+
+  - [2월 27일](https://ko.wikipedia.org/wiki/2월_27일 "wikilink")
+
+| 경기  | CJ 엔투스       | SK텔레콤 T1 |
+| --- | ------------ | -------- |
+| 1경기 | CJ 엔투스 Blaze | 패        |
+| 2경기 | CJ 엔투스 Frost | 패        |
+| 3경기 | CJ 엔투스       | 승        |
+| 승점  | 경기           | \-1      |
+
+| 포지션   | CJ 엔투스       | SK텔레콤 T1   |
+| ----- | ------------ | ---------- |
+| 탑     | Flame 이호종    | Marin 장경환  |
+| 정글    | Daydream 강경민 | H0R0 조재환   |
+| 미드    | Ambition 강찬용 | Ezhoon 이지훈 |
+| AD 캐리 | Emperor 김진현  | Bang 배준식   |
+| 서포터   | Lustboy 함장식  | Wolf 이재완   |
+
+  - [3월 2일](https://ko.wikipedia.org/wiki/3월_2일 "wikilink")
+
+| 경기  | 인크레더블 미라클     | KT 롤스터 |
+| --- | ------------- | ------ |
+| 1경기 | 인크레더블 미라클 \#2 | 승      |
+| 2경기 | 인크레더블 미라클 \#1 | 패      |
+| 3경기 | 인크레더블 미라클     | 승      |
+| 승점  | 경기            | \+1    |
+
+| 포지션   | 인크레더블 미라클   | KT 롤스터      |
+| ----- | ----------- | ----------- |
+| 탑     | Smeb 송경호    | Leopard 이호성 |
+| 정글    | Lil4c 전호진   | inSec 최인석   |
+| 미드    | MidKing 박용우 | Ryu 류상욱     |
+| AD 캐리 | Violet 임두성  | Score 고동빈   |
+| 서포터   | Bbuing 이인용  | Mafa 원상연    |
+
+### 4주차
+
+  - [3월 6일](https://ko.wikipedia.org/wiki/3월_6일 "wikilink")
+
+| 경기  | 나진 e-엠파이어       | 삼성 갤럭시 |
+| --- | --------------- | ------ |
+| 1경기 | 나진 Black Sword  | 패      |
+| 2경기 | 나진 White Shield | 패      |
+| 3경기 | 나진 e-엠파이어       | 승      |
+| 승점  | 경기              | \-1    |
+
+| 포지션   | 나진 e-엠파이어   | 삼성 갤럭시     |
+| ----- | ----------- | ---------- |
+| 탑     | SAVE 백영진    | Acorn 최천주  |
+| 정글    | Watch 조재걸   | Spirit 이다윤 |
+| 미드    | Ggoong 유병준  | dade 배어진   |
+| AD 캐리 | Zefa 이재민    | Deft 김혁규   |
+| 서포터   | GorillA 강범현 | Heart 이관형  |
+
+  - [3월 9일](https://ko.wikipedia.org/wiki/3월_9일 "wikilink")
+
+| 경기  | 진에어 그린윙스          | SK텔레콤 T1 |
+| --- | ----------------- | -------- |
+| 1경기 | 진에어 그린윙스 Stealths | 승        |
+| 2경기 | 진에어 그린윙스 Falcons  | 패        |
+| 3경기 | 진에어 그린윙스          | 패        |
+| 승점  | 경기                | \-3      |
+
+| 포지션   | 진에어 그린윙스     | SKT T1     |
+| ----- | ------------ | ---------- |
+| 탑     | TrAce 여창동    | MaRin 장경환  |
+| 정글    | Radar 김항민    | H0R0 조재환   |
+| 미드    | Fly 송용준      | Faker 이상혁  |
+| AD 캐리 | Cpt Jack 강형우 | Bang 배준식   |
+| 서포터   | XD 이은택       | Casper 권지민 |
+
+### 5주차
+
+  - [3월 13일](https://ko.wikipedia.org/wiki/3월_13일 "wikilink")
+
+| 경기  | CJ 엔투스       | 인크레더블 미라클 |
+| --- | ------------ | --------- |
+| 1경기 | CJ 엔투스 Frost | 승         |
+| 2경기 | CJ 엔투스 Blaze | 패         |
+| 3경기 | CJ 엔투스       | 승         |
+| 승점  | 경기           | \+1       |
+
+| 포지션   | CJ 엔투스      | 인크레더블 미라클   |
+| ----- | ----------- | ----------- |
+| 탑     | Shy 박상면     | Smeb 송경호    |
+| 정글    | Swift 백다훈   | Lil4c 전호진   |
+| 미드    | CoCo 신진영    | MidKing 박용우 |
+| AD 캐리 | Space 선호산   | Violet 임두성  |
+| 서포터   | MadLife 홍민기 | Bbuing 이인용  |
+
+## 포스트시즌
+
+### 준플레이오프
+
+#### 1차전
+
+| 경기  | 나진 e-엠파이어           | CJ 엔투스 |
+| --- | ------------------- | ------ |
+| 1경기 | 나진 Black Sword      | 패      |
+| 2경기 | **나진 White Shield** | **승**  |
+| 3경기 | **나진 e-엠파이어**       | **승**  |
+
+| 포지션   | 나진 e-엠파이어  | CJ 엔투스       |
+| ----- | ---------- | ------------ |
+| 탑     | Save 백영진   | Flame 이호종    |
+| 정글    | Hojin 이호진  | Daydream 강경민 |
+| 미드    | Ggoong 유병준 | Ambition 강찬용 |
+| AD 캐리 | Ohq 오규민    | Emperor 김진현  |
+| 서포터   | Cain 장누리   | Lustboy 함장식  |
+
+#### 2차전
+
+| 경기  | CJ 엔투스           | 나진 e-엠파이어 |
+| --- | ---------------- | --------- |
+| 1경기 | **CJ 엔투스 Blaze** | **승**     |
+| 2경기 | CJ 엔투스 Frost     | 패         |
+| 3경기 | **CJ 엔투스**       | 승         |
+
+| 포지션   | CJ 엔투스      | 나진 e-엠파이어  |
+| ----- | ----------- | ---------- |
+| 탑     | Shy 박상면     | Save 백영진   |
+| 정글    | Swift 백다훈   | Hojin 이호진  |
+| 미드    | Coco 신진영    | Ggoong 유병준 |
+| AD 캐리 | Space 선호산   | Ohq 오규민    |
+| 서포터   | Madlife 홍민기 | Cain 장누리   |
+
+#### 데스매치
+
+| 경기  | **CJ 엔투스** | 나진 e-엠파이어 |
+| --- | ---------- | --------- |
+| 1경기 | **CJ 엔투스** | **승**     |
+
+| 포지션   | 나진 e-엠파이어    | CJ 엔투스     |
+| ----- | ------------ | ---------- |
+| 탑     | Flame 이호종    | Save 백영진   |
+| 정글    | Daydream 강경민 | Hojin 이호진  |
+| 미드    | Coco 신진영     | Ggoong 유병준 |
+| AD 캐리 | Emperor 김진현  | Ohq 오규민    |
+| 서포터   | Madlife 홍민기  | Cain 장누리   |
+
+### 플레이오프
+
+#### 1차전
+
+| 경기  | 삼성 갤럭시           | CJ 엔투스 |
+| --- | ---------------- | ------ |
+| 1경기 | **삼성 갤럭시 Blue**  | **승**  |
+| 2경기 | **삼성 갤럭시 Ozone** | **승**  |
+| 3경기 | \-               |        |
+
+#### 2차전
+
+| 경기  | CJ 엔투스       | 삼성 갤럭시 |
+| --- | ------------ | ------ |
+| 1경기 | CJ 엔투스 Blaze | 패      |
+| 2경기 | CJ 엔투스 Frost | 패      |
+| 3경기 | \-           |        |
+
+### 결승전
+
+| 경기  | SK텔레콤 T1   | 삼성 갤럭시 |
+| --- | ---------- | ------ |
+| 1경기 | SK텔레콤 T1 S | 패      |
+| 2경기 | SK텔레콤 T1 K | 패      |
+| 3경기 | SK텔레콤 T1 K | 패      |
+| 4경기 | SK텔레콤 T1 S | \-     |
+| 5경기 | \-         |        |
+
+[분류:2014년 e스포츠](https://ko.wikipedia.org/wiki/분류:2014년_e스포츠 "wikilink")

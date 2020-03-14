@@ -1,0 +1,6 @@
+> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+
+
+**포터다운 FC**(Portadown F.C.)는 [북아일랜드](https://ko.wikipedia.org/wiki/북아일랜드 "wikilink")에 있는 [포터다운](https://ko.wikipedia.org/wiki/포터다운 "wikilink")을 연고로 하는 프로 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink")팀이다. 이 팀은 [1888년](https://ko.wikipedia.org/wiki/1888년 "wikilink")에 창단되었으며, 현재 [IFA 프리미어십에](https://ko.wikipedia.org/wiki/IFA_프리미어십 "wikilink") 출전하고 있다.
+
+[분류:북아일랜드의 축구단](https://ko.wikipedia.org/wiki/분류:북아일랜드의_축구단 "wikilink") [분류:1924년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1924년_설립된_축구단 "wikilink")

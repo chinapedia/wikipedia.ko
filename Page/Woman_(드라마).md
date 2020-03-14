@@ -1,0 +1,107 @@
+> This article is converted from Wikipedia: [Woman \(\)](https://ko.wikipedia.org/wiki/Woman_\(\)).
+
+
+《**Woman**》(우먼)은, [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [7월 3일부터](https://ko.wikipedia.org/wiki/7월_3일 "wikilink") [9월 11일까지](https://ko.wikipedia.org/wiki/9월_11일 "wikilink") [닛폰 TV의](https://ko.wikipedia.org/wiki/닛폰_TV_방송망 "wikilink") 〈[수요 드라마](https://ko.wikipedia.org/wiki/수요드라마_\(닛폰_TV\) "wikilink")〉(매주 [수요일](https://ko.wikipedia.org/wiki/수요일 "wikilink") 22:00 \~ 22:54, [JST](https://ko.wikipedia.org/wiki/일본_표준시 "wikilink"))에서 방송된 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink"). 주연은 [미츠시마 히카리](https://ko.wikipedia.org/wiki/미츠시마_히카리 "wikilink").
+
+## 개요
+
+[캐치프레이즈](https://ko.wikipedia.org/wiki/캐치프레이즈 "wikilink")는, 〈**나에게는, 목숨을 걸고 지킬 목숨이 있다.**〉.
+
+싱글 마더를 주인공으로, 목숨을 걸고 살아가는 여성의 삶을 그린 사회파 드라마.
+
+## 등장인물
+
+### 아오야기가(家)
+
+  - 아오야기 코하루 \<27\> - [미츠시마 히카리](https://ko.wikipedia.org/wiki/미츠시마_히카리 "wikilink")
+    노조미와 리쿠의 엄마.
+  - 아오야기 노조미 \<5→7\> - [스즈키 리오](https://ko.wikipedia.org/wiki/스즈키_리오 "wikilink")
+    아오야기가(家) 장녀.
+  - 아오야기 리쿠 \<2→4\> - 타카하시 라이
+    아오야기가(家) 장남.
+  - 아오야기 신 \<몰 31\> - [오구리 슌](https://ko.wikipedia.org/wiki/오구리_슌 "wikilink")
+    코하루의 죽은 남편.
+
+### 우에스기가(家)
+
+  - 우에스기 사치 \<56\> - 타나카 유코
+    코하루의 친어머니.
+  - 우에스기 켄타로 \<58\> - [코바야시 카오루](https://ko.wikipedia.org/wiki/코바야시_카오루_\(배우\) "wikilink")
+    사치의 재혼 상대.
+  - 우에스기 시오리 \<19\> - [니카이도 후미](https://ko.wikipedia.org/wiki/니카이도_후미 "wikilink")
+    사치와 켄타로의 딸.
+  - 우에스기 마키 - 히이라기 루미
+    시오리의 사촌.
+
+### 카마타가(家)
+
+  - 카마타 유키 \<26\> - 우스다 아사미
+    코하루의 친구.
+  - 카마타 나오토 \<9\> - 코세 타츠야
+    카마타가(家) 장남.
+  - 카마타 마사토 \<7\> - 타카다 아이토
+    카마타가(家) 차남.
+
+### 스나가와가(家)
+
+  - 스나가와 아이코 \<25\> - [타니무라 미츠키](https://ko.wikipedia.org/wiki/타니무라_미츠키 "wikilink")
+    도립 시부야 병원 혈액내과 연수의.
+  - 스나가와 료스케 \<26\> - [미우라 타카히로](https://ko.wikipedia.org/wiki/미우라_타카히로 "wikilink")
+    생활복지과 생활보호 담당 직원.
+  - 스나가와 슌스케 - 이하라 쇼고
+    료스케와 아이코의 외동 아들.
+
+### 도립 시부야 병원
+
+  - 사와무라 유고 \<35\> - [타카하시 잇세이](https://ko.wikipedia.org/wiki/타카하시_잇세이 "wikilink")
+    혈액내과 의사. 코하루의 담당의.
+  - 나카노 - 오카야마 하지메
+    사와무라의 동료 의사.
+  - 후지타 - 야지마 코이치
+    간호사.
+
+### 그 외
+
+  - 마츠타니 타카오 \<51\> - 이노우에 타카시
+    생활복지과 생활보호 담당 직원. 료스케의 상사.
+
+## 스태프
+
+  - 각본 - 사카모토 유지
+  - 음악 - 미야케 카즈노리
+  - 연출 - 미즈타 노보오, 아이자와 준
+  - 주제가 - androp 〈Voice〉 ([WARNER MUSIC JAPAN](https://ko.wikipedia.org/wiki/워너_뮤직_재팬 "wikilink")/unBORDE)
+  - 프로듀스 - 츠기야 히사시, 치바 유키토시, 오오츠카 에이지
+  - 제작 협력 - K 팩토리
+  - 제작 저작 - [닛폰 TV](https://ko.wikipedia.org/wiki/닛폰_TV_방송망 "wikilink")
+
+## 방송 일자
+
+| 방송회                                                                                                                                         | 방송일         | 부제                              | 연출                                    | 시청률\[1\]                             |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ------------------------------- | ------------------------------------- | ------------------------------------ |
+| 제1화                                                                                                                                         | 2013년 7월 3일 | 목숨을 걸고 내가 아이를 기르는 싱글 마더의 감동 드라마 | 미즈타 노보오                               | 13.9%                                |
+| 제2화                                                                                                                                         | 7월 10일      | 어머니가 어머니로 있기 위한 틀린 선택?          | <span style="color:blue">11.3%</span> |                                      |
+| 제3화                                                                                                                                         | 7월 17일      | 어머니로 있는 것. 그리고 딸로 있는 것          | 아이자와 준                                | 11.4%                                |
+| 제4화                                                                                                                                         | 7월 24일      | 나, 아빠를 만나고 싶어                   | 미즈타 노보오                               | 13.9%                                |
+| 제5화                                                                                                                                         | 7월 31일      | 누구에게도 말할 수 없어, 어머니의 각오          | 아이자와 준                                | 12.6%                                |
+| 제6화                                                                                                                                         | 8월 7일       | 살기 위한 거짓말, 내가 아이를 위해            | 미즈타 노보오                               | 14.7%                                |
+| 제7화                                                                                                                                         | 8월 14일      | 살기 위해 죽은 소중한 사람, 그 진실           | 13.0%                                 |                                      |
+| 제8화                                                                                                                                         | 8월 21일      | 그 아이를 죽이고 나도 죽으면 되는 거야?         | 아이자와 준                                | 13.0%                                |
+| 제9화                                                                                                                                         | 8월 28일      | 살고 싶어\! 적어도 앞으로 10년             | 미즈타 노보오                               | 14.9%                                |
+| 제10화                                                                                                                                        | 9월 4일       | 엄마, 진실을 말해줘\!                   | 아이자와 준                                | 14.0%                                |
+| 최종화                                                                                                                                         | 9월 11일      | 아이들의 아이들에게                      | 미즈타 노보오                               | <span style="color:red">16.4%</span> |
+| 평균 시청률 13.6% (시청률은 [칸토 지구](https://ko.wikipedia.org/wiki/간토_지방 "wikilink")·[비디오 리서치사](https://ko.wikipedia.org/wiki/비디오_리서치 "wikilink") 조사) |             |                                 |                                       |                                      |
+
+  - 첫회·제2화·최종화는 15분 확대 (22:00 \~ 23:09).
+
+## 각주
+
+<references/>
+
+## 외부 링크
+
+  - [Woman - 닛폰 TV](http://www.ntv.co.jp/woman2013/)
+
+[분류:2013년 드라마](https://ko.wikipedia.org/wiki/분류:2013년_드라마 "wikilink") [분류:육아를 소재로 한 작품](https://ko.wikipedia.org/wiki/분류:육아를_소재로_한_작품 "wikilink") [분류:닛폰 TV 수요일 밤 10시 드라마](https://ko.wikipedia.org/wiki/분류:닛폰_TV_수요일_밤_10시_드라마 "wikilink") [분류:사카모토 유지 각본 작품](https://ko.wikipedia.org/wiki/분류:사카모토_유지_각본_작품 "wikilink") [분류:케이 팩토리의 텔레비전 드라마](https://ko.wikipedia.org/wiki/분류:케이_팩토리의_텔레비전_드라마 "wikilink") [분류:사회문제를 소재로 한 작품](https://ko.wikipedia.org/wiki/분류:사회문제를_소재로_한_작품 "wikilink") [분류:일본민간방송연맹 최우수상](https://ko.wikipedia.org/wiki/분류:일본민간방송연맹_최우수상 "wikilink") [분류:방송문화기금상 장려상](https://ko.wikipedia.org/wiki/분류:방송문화기금상_장려상 "wikilink")
+
+1.  [Woman - 스포니치 Sponichi Annex 예능](http://www.sponichi.co.jp/entertainment/yomimono/drama/2013/07_09/woman/index.html) , 2013년 9월 12일 열람.

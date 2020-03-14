@@ -1,0 +1,6 @@
+> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+
+
+**오이긴스 FC**(O'Higgins F.C.)는 [칠레](https://ko.wikipedia.org/wiki/칠레 "wikilink")에 위치한 [랑카과](https://ko.wikipedia.org/wiki/랑카과 "wikilink")를 연고로 하는 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink")팀이다. 이 팀은 [1955년](https://ko.wikipedia.org/wiki/1955년 "wikilink")에 창단하였다.
+
+[오이긴스_FC](https://ko.wikipedia.org/wiki/분류:오이긴스_FC "wikilink") [분류:1955년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1955년_설립된_축구단 "wikilink") [분류:칠레의 축구단](https://ko.wikipedia.org/wiki/분류:칠레의_축구단 "wikilink") [분류:랑카과](https://ko.wikipedia.org/wiki/분류:랑카과 "wikilink")

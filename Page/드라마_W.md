@@ -1,0 +1,1818 @@
+> This article is converted from Wikipedia: [ W](https://ko.wikipedia.org/wiki/_W).
+
+
+*' 드라마 W*'()는 [WOWOW](https://ko.wikipedia.org/wiki/WOWOW "wikilink")가 2003년부터 비 정기적으로 제작 · 방송중인 TV 드라마 시리즈. 전 작품 HD로 제작.
+
+## 작품 목록
+
+### 2000년대 (2003년 - 2009년)
+
+|                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [2003년](https://ko.wikipedia.org/wiki/#2003년 "wikilink") - [2004년](https://ko.wikipedia.org/wiki/#2004년 "wikilink") - [2005년](https://ko.wikipedia.org/wiki/#2005년 "wikilink") - [2006년](https://ko.wikipedia.org/wiki/#2006년 "wikilink") - [2007년](https://ko.wikipedia.org/wiki/#2007년 "wikilink") - [2008년](https://ko.wikipedia.org/wiki/#2008년 "wikilink") - [2009년](https://ko.wikipedia.org/wiki/#2009년 "wikilink") |
+| \#                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| <span id="2003년">[2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") (총7개)</span>                                                                                                                                                                                                                                                                                                                                      |
+| 1                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| 2                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| 3                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| 4                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| 5                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| 6                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| 7                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| <span id="2004년">[2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") (총4개)</span>                                                                                                                                                                                                                                                                                                                                      |
+| 8                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| 9                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| 10                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 11                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| <span id="2005년">[2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") (총7개)</span>                                                                                                                                                                                                                                                                                                                                      |
+| 12                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 13                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 14                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 15                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 16                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 17                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 18                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| <span id="2006년">[2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") (총6개)</span>                                                                                                                                                                                                                                                                                                                                      |
+| 19                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 20                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 21                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 22                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 23                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 24                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| <span id="2007년">[2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") (총10개)</span>                                                                                                                                                                                                                                                                                                                                     |
+| 25                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 26                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 27                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 28                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 29                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 30                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 31                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 32                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 33                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 34                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| <span id="2008년">[2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") (총6개)</span>                                                                                                                                                                                                                                                                                                                                      |
+| 35                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 36                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 37                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 38                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 39                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 40                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| <span id="2009년">[2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") (총10개)</span>                                                                                                                                                                                                                                                                                                                                     |
+| 41                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 42                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 43                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 44                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 45                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 46                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 47                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 48                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 49                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 50                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| \#                                                                                                                                                                                                                                                                                                                                                                                                                         |
+
+### 2010년대
+
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [2010년](https://ko.wikipedia.org/wiki/#2010년 "wikilink") - [2011년](https://ko.wikipedia.org/wiki/#2011년 "wikilink") - [2012년](https://ko.wikipedia.org/wiki/#2012년 "wikilink") - [2013년](https://ko.wikipedia.org/wiki/#2013년 "wikilink") - [2014년](https://ko.wikipedia.org/wiki/#2014년 "wikilink") - [2015년](https://ko.wikipedia.org/wiki/#2015년 "wikilink") - [2016년](https://ko.wikipedia.org/wiki/#2016년 "wikilink") - [2017년](https://ko.wikipedia.org/wiki/#2017년 "wikilink") - [2018년](https://ko.wikipedia.org/wiki/#2018년 "wikilink") |
+| \#                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| <span id="2010년">[2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") (총5개)</span>                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| 51                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| 52                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| 53                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| 54                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| 55                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| <span id="2011년">[2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") (총5개)</span>                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| 56                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| 57                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| 58                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| 59                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| 60                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| 61                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| <span id="2012년">[2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") (총5개)</span>                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| 62                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| 63                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| 64                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| 65                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| 66                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| <span id="2013년">[2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") (총2개)</span>                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| 67                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| 68                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| <span id="2014년">[2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") (총3개)</span>                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| 69                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| 70                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| 71                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| <span id="2015년">[2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink")</span>                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| 72                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| 73                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| <span id="2016년">[2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink")</span>                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| 74                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| 75                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| <span id="2017년">[2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink")</span>                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| 76                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| <span id="2018년">[2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink")</span>                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| 77                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| \#                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+
+## 연속 드라마 W
+
+### 2008년 - 2014년 (1주 1회)
+
+<table>
+<thead>
+<tr class="header">
+<th><p>#</p></th>
+<th><p>제목</p></th>
+<th><p>첫방송일</p></th>
+<th><p>화수</p></th>
+<th><p>감독</p></th>
+<th><p>각본</p></th>
+<th><p>주요 출연자</p></th>
+<th><p>원작 저자</p></th>
+<th><p>비고제목</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2008년</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/판도라_(드라마)" title="wikilink">판도라</a>》</p></td>
+<td><p>4월 6일 - 5월 25일</p></td>
+<td><p>총 8회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/카와케_슌사쿠" title="wikilink">카와케 슌사쿠</a> 외</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/이노우에_유미코" title="wikilink">이노우에 유미코</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/미카미_히로시" title="wikilink">미카미 히로시</a>,<a href="https://ko.wikipedia.org/wiki/야나기바_토시로" title="wikilink">야나기바 토시로</a>,<a href="https://ko.wikipedia.org/wiki/코니시_마나미" title="wikilink">코니시 마나미</a>,<a href="https://ko.wikipedia.org/wiki/쿠니무라_준" title="wikilink">쿠니무라 준</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/프리즈너" title="wikilink">프리즈너</a>》</p></td>
+<td><p>11월 16일 - 12월 13일</p></td>
+<td><p>총 5회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/미즈타니_슌스케" title="wikilink">미즈타니 슌스케</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/오오이시_테츠야" title="wikilink">오오이시 테츠야</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/타마야마_테츠지" title="wikilink">타마야마 테츠지</a>,<a href="https://ko.wikipedia.org/wiki/츠루타_마유" title="wikilink">츠루타 마유</a>,<a href="https://ko.wikipedia.org/wiki/오오모리_나오" title="wikilink">오오모리 나오</a>,<a href="https://ko.wikipedia.org/wiki/이시구로_켄" title="wikilink">이시구로 켄</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/사와이_쿠지라" title="wikilink">사와이 쿠지라</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2009년</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/하늘을_나는_타이어" title="wikilink">하늘을 나는 타이어</a>》</p></td>
+<td><p>3월 29일 - 4월 26일</p></td>
+<td><p>총 5회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/아소_마나부" title="wikilink">아소 마나부</a><br />
+<a href="https://ko.wikipedia.org/wiki/스즈키_코스케_(연출가)" title="wikilink">스즈키 코스케</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/마에카와_요이치" title="wikilink">마에카와 요이치</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/나카무라_토오루" title="wikilink">나카무라 토오루</a>,<a href="https://ko.wikipedia.org/wiki/타나베_세이이치" title="wikilink">타나베 세이이치</a>,<a href="https://ko.wikipedia.org/wiki/하기와라_마사토" title="wikilink">하기와라 마사토</a>,<a href="https://ko.wikipedia.org/wiki/미즈노_미키" title="wikilink">미즈노 미키</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/이케이도_준" title="wikilink">이케이도 준</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/엄마는_옛날에_아빠였다" title="wikilink">엄마는 옛날에 아빠였다</a>》</p></td>
+<td><p>8월 23일 - 9월 27일</p></td>
+<td><p>총 6회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/아카바네_히로시" title="wikilink">아카바네 히로시</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/오오이시_시즈카" title="wikilink">오오이시 시즈카</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/토다_케이코" title="wikilink">토다 케이코</a>,<a href="https://ko.wikipedia.org/wiki/요_키미코" title="wikilink">요 키미코</a>,<a href="https://ko.wikipedia.org/wiki/요시다_에이사쿠" title="wikilink">요시다 에이사쿠</a>,<a href="../Page/츠가와_마사히코.md" title="wikilink">츠가와 마사히코</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/은폐지령" title="wikilink">은폐지령</a>》</p></td>
+<td><p>10월 18일 - 11월 15일</p></td>
+<td><p>총 5회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/호시다_요코" title="wikilink">호시다 요코</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/반_카즈히코" title="wikilink">반 카즈히코</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/타카하시_카츠노리" title="wikilink">타카하시 카츠노리</a>,<a href="https://ko.wikipedia.org/wiki/타카시마_마사히로" title="wikilink">타카시마 마사히로</a>,<a href="https://ko.wikipedia.org/wiki/아소_유미" title="wikilink">아소 유미</a>,<a href="https://ko.wikipedia.org/wiki/이치카와_유이" title="wikilink">이치카와 유이</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/가미_츠요시" title="wikilink">가미 츠요시</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2010년</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>6</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/판도라_(드라마)" title="wikilink">판도라 II 기아열도</a>》</p></td>
+<td><p>4월 18일 - 5월 30일</p></td>
+<td><p>총 7회</p></td>
+<td><p>카와케 슌사쿠 외</p></td>
+<td><p>이노우에 유미코</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/사토_코이치" title="wikilink">사토 코이치</a>,<a href="https://ko.wikipedia.org/wiki/스즈키_쿄카" title="wikilink">스즈키 쿄카</a>,<a href="https://ko.wikipedia.org/wiki/카츠무라_마사노부" title="wikilink">카츠무라 마사노부</a>,<a href="https://ko.wikipedia.org/wiki/야마모토_코지" title="wikilink">야마모토 코지</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>7</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/마크스의_산" title="wikilink">마크스의 산</a>》</p></td>
+<td><p>10월 17일 - 11월 14일</p></td>
+<td><p>총 5회</p></td>
+<td><p>미즈타니 토시유키<br />
+스즈키 코스케</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/마에카와_요이치" title="wikilink">마에카와 요이치</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/카미카와_타카야" title="wikilink">카미카와 타카야</a>,이시구로 켄,코니시 마나미,<a href="https://ko.wikipedia.org/wiki/스즈키_안즈" title="wikilink">스즈키 안즈</a></p></td>
+<td><p><a href="../Page/다카무라_가오루.md" title="wikilink">다카무라 가오루</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>8</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/환야" title="wikilink">히가시노 게이고 환야</a>》</p></td>
+<td><p>2010년 11월 21일 -<br />
+2011년 1월 16일</p></td>
+<td><p>총 8회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/이자키_노부아키" title="wikilink">이자키 노부아키</a><br />
+</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/와타나베_무츠키" title="wikilink">와타나베 무츠키</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/후카다_쿄코" title="wikilink">후카다 쿄코</a>,<a href="https://ko.wikipedia.org/wiki/츠카모토_타카시" title="wikilink">츠카모토 타카시</a>,<a href="https://ko.wikipedia.org/wiki/시바타_쿄헤이" title="wikilink">시바타 쿄헤이</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/히가시노_게이고" title="wikilink">히가시노 게이고</a></p></td>
+<td><p>음악:<a href="https://ko.wikipedia.org/wiki/미조구치_하지메" title="wikilink">미조구치 하지메</a></p></td>
+</tr>
+<tr class="even">
+<td><p>2011년</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>9</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/CO_이식_코디네이터" title="wikilink">CO 이식 코디네이터</a>》</p></td>
+<td><p>3월 20일 - 4월 17일</p></td>
+<td><p>총 5회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/쇼노_지로" title="wikilink">쇼노 지로</a> 외</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/하타_다케히코" title="wikilink">하타 다케히코</a> 외</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/요시오카_히데타카" title="wikilink">요시오카 히데타카</a>,<a href="https://ko.wikipedia.org/wiki/유스케_산타마리아" title="wikilink">유스케 산타마리아</a>,<a href="https://ko.wikipedia.org/wiki/기무라_요시노" title="wikilink">기무라 요시노</a></p></td>
+<td></td>
+<td><p>음악:<a href="https://ko.wikipedia.org/wiki/사토_나오키" title="wikilink">사토 나오키</a></p></td>
+</tr>
+<tr class="even">
+<td><p>10</p></td>
+<td><p>《<a href="../Page/변두리_로켓.md" title="wikilink">변두리 로켓</a>》</p></td>
+<td><p>8월 21일 - 9월 18일</p></td>
+<td><p>총 5회</p></td>
+<td><p>스즈키 코스케<br />
+미즈타니 토시유키</p></td>
+<td><p>마에카와 요이치</p></td>
+<td><p>미카미 히로시,<a href="https://ko.wikipedia.org/wiki/테라지마_시노부" title="wikilink">테라지마 시노부</a>,<a href="https://ko.wikipedia.org/wiki/와타베_아츠로" title="wikilink">와타베 아츠로</a>,<a href="https://ko.wikipedia.org/wiki/이케우치_히로유키" title="wikilink">이케우치 히로유키</a></p></td>
+<td><p>이케이도 준</p></td>
+<td><p>음악:<a href="https://ko.wikipedia.org/wiki/하네오카_케이" title="wikilink">하네오카 케이</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>11</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/판도라_(드라마)" title="wikilink">판도라 III 혁명전야</a>》</p></td>
+<td><p>10월 2일 - 11월 20일</p></td>
+<td><p>총 8회</p></td>
+<td><p>카와케 슌사쿠 외</p></td>
+<td><p>이노우에 유미코</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/에구치_요스케" title="wikilink">에구치 요스케</a>,<a href="https://ko.wikipedia.org/wiki/내야_마사아키" title="wikilink">내야 마사아키</a>,카미카와 타카야,야마모토 코지</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>12</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/조화의_꿀" title="wikilink">조화의 꿀</a>》</p></td>
+<td><p>11월 27일 - 12월 18일</p></td>
+<td><p>총 4회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/고바야시_요시노리" title="wikilink">고바야시 요시노리</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/오카다_요시카즈" title="wikilink">오카다 요시카즈</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/단_레이" title="wikilink">단 레이</a>,타마야마 테츠지,<a href="https://ko.wikipedia.org/wiki/쿠니나카_료코" title="wikilink">쿠니나카 료코</a>,<a href="https://ko.wikipedia.org/wiki/타니무라_미츠키" title="wikilink">타니무라 미츠키</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/렌조_미키히코" title="wikilink">렌조 미키히코</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2012년</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>13</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/속죄_(미나토_가나에의_소설)" title="wikilink">속죄</a>》</p></td>
+<td><p>1월 8일 - 2월 5일</p></td>
+<td><p>총 5회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/구로사와_기요시" title="wikilink">구로사와 기요시</a></p></td>
+<td><p>구로사와 기요시</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/코이즈미_쿄코" title="wikilink">코이즈미 쿄코</a>,<a href="https://ko.wikipedia.org/wiki/아오이_유우" title="wikilink">아오이 유우</a>,<a href="https://ko.wikipedia.org/wiki/코이케_에이코" title="wikilink">코이케 에이코</a>,<a href="https://ko.wikipedia.org/wiki/안도_사쿠라" title="wikilink">안도 사쿠라</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/미나토_가나에" title="wikilink">미나토 가나에</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>14</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/레몬_(소설)" title="wikilink">분신</a>》</p></td>
+<td><p>2월 12일 - 3월 11일</p></td>
+<td><p>총 5회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/나가타_코토" title="wikilink">나가타 코토</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/다나베_미츠루" title="wikilink">다나베 미츠루</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/나가사와_마사미" title="wikilink">나가사와 마사미</a>,<a href="https://ko.wikipedia.org/wiki/카츠지_료" title="wikilink">카츠지 료</a>,<a href="https://ko.wikipedia.org/wiki/우스다_아사미" title="wikilink">우스다 아사미</a>,<a href="https://ko.wikipedia.org/wiki/스즈키_사와" title="wikilink">스즈키 사와</a></p></td>
+<td><p>히가시노 게이고</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>15</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/추정유죄" title="wikilink">추정유죄</a>》</p></td>
+<td><p>3월 25일 - 4월 22일</p></td>
+<td><p>총 5회</p></td>
+<td><p>스즈키 코스케</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/마에카와_요이치" title="wikilink">마에카와 요이치</a></p></td>
+<td><p>나카무라 토오루,<a href="https://ko.wikipedia.org/wiki/쿠로키_히토미" title="wikilink">쿠로키 히토미</a>,<a href="https://ko.wikipedia.org/wiki/미무라" title="wikilink">미무라</a>,<a href="https://ko.wikipedia.org/wiki/모토카리야_유이카" title="wikilink">모토카리야 유이카</a></p></td>
+<td><p>마에카와 요이치</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>16</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/죄와_벌_A_Falsified_Romance" title="wikilink">죄와 벌 A Falsified Romance</a>》</p></td>
+<td><p>4월 29일 - 6월 3일</p></td>
+<td><p>총 6회</p></td>
+<td><p>아소 마나부</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/카미야마_유미코" title="wikilink">카미야마 유미코</a><br />
+<a href="https://ko.wikipedia.org/wiki/후지모토_쿄스케" title="wikilink">후지모토 쿄스케</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/코라_켄고" title="wikilink">코라 켄고</a>,미즈카와 아사미,이토 아유미,<a href="https://ko.wikipedia.org/wiki/호리베_케이스케" title="wikilink">호리베 케이스케</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/오치아이_나오유키" title="wikilink">오치아이 나오유키</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>17</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/마그마_(소설)" title="wikilink">마그마</a>》</p></td>
+<td><p>6월 10일 - 7월 8일</p></td>
+<td><p>총 5회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/카츠키_히데유키" title="wikilink">카츠키 히데유키</a><br />
+스즈키 코스케</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/시노자키_에리코" title="wikilink">시노자키 에리코</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/오노_마치코" title="wikilink">오노 마치코</a>,<a href="https://ko.wikipedia.org/wiki/타니하라_쇼스케" title="wikilink">타니하라 쇼스케</a>,이시구로 켄,<a href="https://ko.wikipedia.org/wiki/나카즈카_교잔" title="wikilink">나카즈카 교잔</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/마야마_진" title="wikilink">마야마 진</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>18</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/플래티넘타운" title="wikilink">플래티넘타운</a>》</p></td>
+<td><p>8월 19일 - 9월 16일</p></td>
+<td><p>총 5회</p></td>
+<td><p>스즈키 코스케</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/오오이시_테츠야" title="wikilink">오오이시 테츠야</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/오오이즈미_요" title="wikilink">오오이즈미 요</a>,단 레이,<a href="https://ko.wikipedia.org/wiki/히라야마_히로유키" title="wikilink">히라야마 히로유키</a>,와타베 아츠로</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/니레_슈헤이" title="wikilink">니레 슈헤이</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>19</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/히토리시즈카" title="wikilink">히토리시즈카</a>》</p></td>
+<td><p>10월 21일 - 11월 25일</p></td>
+<td><p>총 6회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/히라야마_히데유키" title="wikilink">히라야마 히데유키</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/아오시마_타케시" title="wikilink">아오시마 타케시</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/카호" title="wikilink">카호</a>,<a href="https://ko.wikipedia.org/wiki/타카하시_잇세이" title="wikilink">타카하시 잇세이</a>,<a href="https://ko.wikipedia.org/wiki/나가츠카_케이시" title="wikilink">나가츠카 케이시</a>,<a href="https://ko.wikipedia.org/wiki/키시베_잇토쿠" title="wikilink">키시베 잇토쿠</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/혼다_테쓰야" title="wikilink">혼다 테쓰야</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>20</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/하늘의_방주" title="wikilink">하늘의 방주</a>》</p></td>
+<td><p>2012년 12월 9회 -<br />
+2013년 1월 13회</p></td>
+<td><p>총 5회</p></td>
+<td><p>아소 마나부<br />
+<a href="https://ko.wikipedia.org/wiki/코토쿠_코지" title="wikilink">코토쿠 코지</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/아사노_타에코" title="wikilink">아사노 타에코</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/미즈노_미키" title="wikilink">미즈노 미키</a>,<a href="https://ko.wikipedia.org/wiki/이하라_츠요시" title="wikilink">이하라 츠요시</a>,<a href="https://ko.wikipedia.org/wiki/토다_나호" title="wikilink">토다 나호</a>,<a href="https://ko.wikipedia.org/wiki/타카하시_카즈야" title="wikilink">타카하시 카즈야</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/핫토리_마스미" title="wikilink">핫토리 마스미</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2013년</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>21</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/여자와_남자의_열대" title="wikilink">여자와 남자의 열대</a>》</p></td>
+<td><p>1월 20일 - 2월 24일</p></td>
+<td><p>총 6회</p></td>
+<td><p>이쿠노 지로 외</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/아이자와_토모코" title="wikilink">아이자와 토모코</a></p></td>
+<td><p>와타베 아츠로,<a href="https://ko.wikipedia.org/wiki/후지와라_노리카" title="wikilink">후지와라 노리카</a>,<a href="https://ko.wikipedia.org/wiki/나가야마_켄토" title="wikilink">나가야마 켄토</a>,<a href="https://ko.wikipedia.org/wiki/야마모토_케이" title="wikilink">야마모토 케이</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/노자와_히사시" title="wikilink">노자와 히사시</a><br />
+(원안)</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>22</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/레이디_조커" title="wikilink">레이디 조커</a>》</p></td>
+<td><p>3월 3일 - 4월 14일</p></td>
+<td><p>총 7회</p></td>
+<td><p>미즈타니 토시유키<br />
+스즈키 코스케</p></td>
+<td><p>마에카와 요이치</p></td>
+<td><p>카미카와 타카야,시바타 쿄우헤이,토요하라 코스케,이시바시 료</p></td>
+<td><p>다카무라 가오루</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>23</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/소돔의_사과_~_롯을_죽인_딸들" title="wikilink">소돔의 사과 ~ 롯을 죽인 딸들</a>》</p></td>
+<td><p>3월 23일 - 4월 13일</p></td>
+<td><p>총 4회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/히로키_류이치" title="wikilink">히로키 류이치</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/아라이_하루히코" title="wikilink">아라이 하루히코</a><br />
+<a href="https://ko.wikipedia.org/wiki/아라이_미사키" title="wikilink">아라이 미사키</a></p></td>
+<td><p>테라지마 시노부,<a href="../Page/키무라_후미노.md" title="wikilink">키무라 후미노</a>,<a href="https://ko.wikipedia.org/wiki/미조바타_준페이" title="wikilink">미조바타 준페이</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>24</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/배달되고_싶은_우리" title="wikilink">배달되고 싶은 우리</a>》</p></td>
+<td><p>5월 12일 - 6월 9일</p></td>
+<td><p>총 5회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/후루마야_도모유키" title="wikilink">후루마야 도모유키</a><br />
+<a href="https://ko.wikipedia.org/wiki/고바야시_쇼타로" title="wikilink">고바야시 쇼타로</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/잇시키_노부유키" title="wikilink">잇시키 노부유키</a></p></td>
+<td><p>츠카모토 타카시,<a href="https://ko.wikipedia.org/wiki/쿠리야마_치아키" title="wikilink">쿠리야마 치아키</a>,<a href="https://ko.wikipedia.org/wiki/하세가와_쿄코" title="wikilink">하세가와 쿄코</a></p></td>
+<td><p>잇시키 노부유키</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>25</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/떨리는_소" title="wikilink">떨리는 소</a>》</p></td>
+<td><p>6월 16일 - 7월 14일</p></td>
+<td><p>총 5회</p></td>
+<td><p>스즈키 코스케<br />
+<a href="https://ko.wikipedia.org/wiki/곤노_하지메" title="wikilink">곤노 하지메</a></p></td>
+<td><p>시노자키 에리코</p></td>
+<td><p>미카미 히로시,<a href="https://ko.wikipedia.org/wiki/후키이시_카즈에" title="wikilink">후키이시 카즈에</a>,<a href="https://ko.wikipedia.org/wiki/코바야시_카오루" title="wikilink">코바야시 카오루</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/아이바_히데오" title="wikilink">아이바 히데오</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>26</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/빵과_스프와_고양이_날씨" title="wikilink">빵과 스프와 고양이 날씨</a>》</p></td>
+<td><p>7월 21일 - 8월 11일</p></td>
+<td><p>총 4회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/마츠모토_카나" title="wikilink">마츠모토 카나</a></p></td>
+<td><p>카고바츠</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/고바야시_사토미" title="wikilink">고바야시 사토미</a>,<a href="https://ko.wikipedia.org/wiki/카나_(모델)" title="wikilink">카나</a>,<a href="https://ko.wikipedia.org/wiki/미츠이시_켄" title="wikilink">미츠이시 켄</a>,<a href="https://ko.wikipedia.org/wiki/모타이_마사코" title="wikilink">모타이 마사코</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/무레_요코" title="wikilink">무레 요코</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>27</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/열쇠없는_꿈" title="wikilink">열쇠없는 꿈</a>》</p></td>
+<td><p>9월 1일 - 9월 29일</p></td>
+<td><p>총 5회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/무라카미_쇼스케" title="wikilink">무라카미 쇼스케</a> 외</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/타케이_아야" title="wikilink">타케이 아야</a> 외</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/쿠라시나_카나" title="wikilink">쿠라시나 카나</a>,<a href="https://ko.wikipedia.org/wiki/나루미_리코" title="wikilink">나루미 리코</a>,<a href="https://ko.wikipedia.org/wiki/키무라_타에" title="wikilink">키무라 타에</a>,<a href="https://ko.wikipedia.org/wiki/타카나시_린" title="wikilink">타카나시 린</a>,<a href="https://ko.wikipedia.org/wiki/히로스에_료코" title="wikilink">히로스에 료코</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/츠지무라_미즈키" title="wikilink">츠지무라 미즈키</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>28</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/링크_(드라마)" title="wikilink">LINK</a>》</p></td>
+<td><p>10월 6일 - 11월 3일</p></td>
+<td><p>총 5회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/후카가와_요시히로" title="wikilink">후카가와 요시히로</a></p></td>
+<td><p>시노자키 에리코</p></td>
+<td><p>오모리 나오,<a href="https://ko.wikipedia.org/wiki/다나카_레나" title="wikilink">다나카 레나</a>,<a href="https://ko.wikipedia.org/wiki/타마야마_테츠지" title="wikilink">타마야마 테츠지</a>,<a href="https://ko.wikipedia.org/wiki/미무라" title="wikilink">미무라</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>29</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/저쪽의_아이" title="wikilink">저쪽의 아이</a>》</p></td>
+<td><p>12월 1일 - 12월 22일</p></td>
+<td><p>총 4회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/오모리_타츠시" title="wikilink">오모리 타츠시</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/다카하시_이즈미" title="wikilink">다카하시 이즈미</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/사카이_마키" title="wikilink">사카이 마키</a>,<a href="https://ko.wikipedia.org/wiki/이우라_아라타" title="wikilink">이우라 아라타</a>,<a href="https://ko.wikipedia.org/wiki/미야자키_마사루" title="wikilink">미야자키 마사루</a>,<a href="https://ko.wikipedia.org/wiki/미츠시마_히카리" title="wikilink">미츠시마 히카리</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/츠노다_미츠요" title="wikilink">츠노다 미츠요</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2014년</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>30</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/혈액_상습" title="wikilink">혈액 상습</a>》</p></td>
+<td><p>1월 19일 - 2월 9일</p></td>
+<td><p>총 4회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/고바야시_요시노리" title="wikilink">고바야시 요시노리</a></p></td>
+<td><p>시노자키 에리코</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/타니하라_쇼스케" title="wikilink">타니하라 쇼스케</a>,<a href="https://ko.wikipedia.org/wiki/하라다_타이조" title="wikilink">하라다 타이조</a>,<a href="../Page/오카모토_타오.md" title="wikilink">TAO</a>,<a href="https://ko.wikipedia.org/wiki/타카시마_마사노부" title="wikilink">타카시마 마사노부</a></p></td>
+<td><p>아이바 히데오</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>31</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/땅의_소금" title="wikilink">땅의 소금</a>》</p></td>
+<td><p>2월 16일 - 3월 9일</p></td>
+<td><p>총 4회</p></td>
+<td><p>스즈키 코스케<br />
+곤노 하지메</p></td>
+<td><p>이노우에 유미코</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/오오이즈미_요" title="wikilink">오오이즈미 요</a>,<a href="https://ko.wikipedia.org/wiki/마츠유키_야스코" title="wikilink">마츠유키 야스코</a>,<a href="https://ko.wikipedia.org/wiki/타나베_세이이치" title="wikilink">타나베 세이이치</a>,<a href="https://ko.wikipedia.org/wiki/진나이_타카노리" title="wikilink">진나이 타카노리</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>32</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/내가하는_운명에_대해" title="wikilink">내가하는 운명에 대해</a>》</p></td>
+<td><p>3월 23일 - 4월 20일</p></td>
+<td><p>총 5회</p></td>
+<td><p><a href="../Page/타키모토_토모유키.md" title="wikilink">타키모토 토모유키</a></p></td>
+<td><p>오카다 요시카즈</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/나가사쿠_히로미" title="wikilink">나가사쿠 히로미</a>,<a href="https://ko.wikipedia.org/wiki/에구치_요스케" title="wikilink">에구치 요스케</a>,<a href="https://ko.wikipedia.org/wiki/미야모토_노부코" title="wikilink">미야모토 노부코</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/시라이시_카즈후미" title="wikilink">시라이시 카즈후미</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>33</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/사법기자" title="wikilink">토쿠소쿠</a>》</p></td>
+<td><p>5월 11일 - 6월 8일</p></td>
+<td><p>총 5회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/카와이_하야토" title="wikilink">카와이 하야토</a><br />
+<a href="https://ko.wikipedia.org/wiki/타키모토_켄고" title="wikilink">타키모토 켄고</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/스즈키_사토시" title="wikilink">스즈키 사토시</a></p></td>
+<td><p>요시오카 히데타카,<a href="https://ko.wikipedia.org/wiki/미우라_토모카즈" title="wikilink">미우라 토모카즈</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/고하라_노부오" title="wikilink">유라 히데유키</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>34</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/모자이크_재팬" title="wikilink">모자이크 재팬</a>》</p></td>
+<td><p>5월 18일 - 6월 15일</p></td>
+<td><p>총 5회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/미즈타_노부오" title="wikilink">미즈타 노부오</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/사카모토_유지" title="wikilink">사카모토 유지</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/가야마_켄토" title="wikilink">가야마 켄토</a>,<a href="https://ko.wikipedia.org/wiki/타카하시_잇세이" title="wikilink">타카하시 잇세이</a>,<a href="https://ko.wikipedia.org/wiki/하마카와_후미에" title="wikilink">하마카와 후미에</a></p></td>
+<td></td>
+<td><p>범위 30분</p></td>
+</tr>
+<tr class="even">
+<td><p>35</p></td>
+<td><p>《<a href="../Page/MOZU.md" title="wikilink">MOZU Season2 ~환상의 날개~</a>》</p></td>
+<td><p>6월 22일 - 7월 20일</p></td>
+<td><p>총 5회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/하스미_에이이치로" title="wikilink">하스미 에이이치로</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/히토시_코스케" title="wikilink">히토시 코스케</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/니시지마_히데토시" title="wikilink">니시지마 히데토시</a>,<a href="https://ko.wikipedia.org/wiki/카가와_테루유키" title="wikilink">카가와 테루유키</a>,<a href="https://ko.wikipedia.org/wiki/마키_요코" title="wikilink">마키 요코</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/오사카_고" title="wikilink">오사카 고</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>36</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/변신_(히가시노_게이고)" title="wikilink">히가시노 게이고 〈변신〉</a>》</p></td>
+<td><p>7월 27일 - 8월 24일</p></td>
+<td><p>총 5회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/나가타_코토" title="wikilink">나가타 코토</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/요시다_노리코" title="wikilink">요시다 노리코</a><br />
+<a href="https://ko.wikipedia.org/wiki/다나베_미츠루" title="wikilink">다나베 미츠루</a> 외</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/카미키_류노스케" title="wikilink">카미키 류노스케</a>,<a href="../Page/니카이도_후미.md" title="wikilink">니카이도 후미</a></p></td>
+<td><p>히가시노 게이고</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>37</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/죄인의_거짓말" title="wikilink">죄인의 거짓말</a>》</p></td>
+<td><p>8월 31일 - 9월 28일</p></td>
+<td><p>총 5회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/제제_다카히사" title="wikilink">제제 다카히사</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/카네코_아리사" title="wikilink">카네코 아리사</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/이토_히데아키" title="wikilink">이토 히데아키</a>,<a href="https://ko.wikipedia.org/wiki/타키토_켄이치" title="wikilink">타키토 켄이치</a>, 기무라 요시노,<a href="https://ko.wikipedia.org/wiki/나카다이_타츠야" title="wikilink">나카다이 타츠야</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>#</p></td>
+<td><p>제목</p></td>
+<td><p>첫방송일</p></td>
+<td><p>화수</p></td>
+<td><p>감독</p></td>
+<td><p>각본</p></td>
+<td><p>주요 출연자</p></td>
+<td><p>원작 저자</p></td>
+<td><p>비고제목</p></td>
+</tr>
+</tbody>
+</table>
+
+### 2014년 - (1주 2회)
+
+#### 토요일 오리지널 드라마
+
+<table>
+<thead>
+<tr class="header">
+<th><p>#</p></th>
+<th><p>제목</p></th>
+<th><p>첫 방송일</p></th>
+<th><p>화수</p></th>
+<th><p>감독</p></th>
+<th><p>각본</p></th>
+<th><p>주요 출연자</p></th>
+<th><p>원작 저자</p></th>
+<th><p>비고제목</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2014년</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>《<a href="../Page/구구는_고양이다.md" title="wikilink">구구는 고양이다</a>》</p></td>
+<td><p>10월 18일 - 11월 8일</p></td>
+<td><p>총 4회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/이누도_잇신" title="wikilink">이누도 잇신</a></p></td>
+<td><p>타카다 아키라</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/미야자와_리에" title="wikilink">미야자와 리에</a>, <a href="https://ko.wikipedia.org/wiki/나가쓰카_케이시" title="wikilink">나가쓰카 케이시</a>, <a href="../Page/쿠로키_하루.md" title="wikilink">쿠로키 하루</a></p></td>
+<td><p><a href="../Page/오시마_유미코.md" title="wikilink">오시마 유미코</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/헤이세이_원숭이와_게의_전쟁" title="wikilink">헤이세이 원숭이와 게의 전쟁</a>》</p></td>
+<td><p>11월 15일 - 12월 20일</p></td>
+<td><p>총 6회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/유키사다_이사오" title="wikilink">유키사다 이사오</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/하바라_다이스케" title="wikilink">하바라 다이스케</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/스즈키_쿄카" title="wikilink">스즈키 쿄카</a>,코라 켄고</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/요시다_슈이치" title="wikilink">요시다 슈이치</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2015년</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/속죄의_소나타" title="wikilink">속죄의 소나타</a>》</p></td>
+<td><p>1월 24일 - 2월 14일</p></td>
+<td><p>총 4회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/아오야마_신지" title="wikilink">아오야마 신지</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/니시오카_타쿠야" title="wikilink">니시오카 타쿠야</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/미카미_히로시" title="wikilink">미카미 히로시</a>、<a href="https://ko.wikipedia.org/wiki/소메타니_쇼타" title="wikilink">소메타니 쇼타</a>、<a href="https://ko.wikipedia.org/wiki/릴리_프랭키" title="wikilink">릴리 프랭키</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/나카야마_시치리" title="wikilink">나카야마 시치리</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/글라스의_갈대" title="wikilink">글라스의 갈대</a>》</p></td>
+<td><p>2월 21일 - 3월 14일</p></td>
+<td><p>총 4회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/미시마_유키코" title="wikilink">미시마 유키코</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/나가타_유코" title="wikilink">나가타 유코</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/아이부_사키" title="wikilink">아이부 사키</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/사쿠라기_시노" title="wikilink">사쿠라기 시노</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/어둠의_반주자" title="wikilink">어둠의 반주자</a>》</p></td>
+<td><p>4월 11일 - 5월 9일</p></td>
+<td><p>총 5회</p></td>
+<td><p><a href="../Page/미키_타카히로.md" title="wikilink">미키 타카히로</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/사토_다이" title="wikilink">사토 다이</a><br />
+<a href="https://ko.wikipedia.org/wiki/아소_쿠미코" title="wikilink">아소 쿠미코</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/마츠시타_나오" title="wikilink">마츠시타 나오</a>,<a href="https://ko.wikipedia.org/wiki/후루타_아라타" title="wikilink">후루타 아라타</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/나가사키_타카시" title="wikilink">나가사키 타카시</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/꿈을주는" title="wikilink">꿈을주는</a>》</p></td>
+<td><p>5월 16일 - 6월 6일</p></td>
+<td><p>총 4회</p></td>
+<td><p>이누도 잇신</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/다카하시_이즈미" title="wikilink">다카하시 이즈미</a></p></td>
+<td><p><a href="../Page/코마츠_나나.md" title="wikilink">코마츠 나나</a>,<a href="https://ko.wikipedia.org/wiki/키쿠치_린코" title="wikilink">키쿠치 린코</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/와타야_리사" title="wikilink">와타야 리사</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>7</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/후타가시라" title="wikilink">후타가시라</a>》</p></td>
+<td><p>6월 13일 - 7월 11일</p></td>
+<td><p>총 5회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/이리에_유" title="wikilink">이리에 유</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/나카시마_카즈키" title="wikilink">나카시마 카즈키</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/마츠야마_켄이치" title="wikilink">마츠야마 켄이치</a>,<a href="https://ko.wikipedia.org/wiki/사오토메_타이치" title="wikilink">사오토메 타이치</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/오노_나츠메" title="wikilink">오노 나츠메</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>8</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/여하" title="wikilink">여하 -Gold Rush-</a>》</p></td>
+<td><p>7월 18일 - 8월 2일</p></td>
+<td><p>|총 4회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/고바야시_쇼타로" title="wikilink">고바야시 쇼타로</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/에가시라_미치루" title="wikilink">에가시라 미치루</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/모리야마_미라이" title="wikilink">모리야마 미라이</a>,<a href="../Page/타카하타_미츠키.md" title="wikilink">타카하타 미츠키</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/쿠로카와_히로유키" title="wikilink">쿠로카와 히로유키</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>9</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/바다에_내리는" title="wikilink">바다에 내리는</a>》</p></td>
+<td><p>10월 10일 - 11월 14일</p></td>
+<td><p>총 6회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/야마모토_타카요시" title="wikilink">야마모토 타카요시</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/토쿠나가_유이치" title="wikilink">토쿠나가 유이치</a><br />
+<a href="https://ko.wikipedia.org/wiki/야마다_마사히로" title="wikilink">야마다 마사히로</a><br />
+<a href="https://ko.wikipedia.org/wiki/미우라_하야토" title="wikilink">미우라 하야토</a><br />
+<a href="https://ko.wikipedia.org/wiki/아사노_아쓰야" title="wikilink">아사노 아쓰야</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/아리무라_카스미" title="wikilink">아리무라 카스미</a>,<a href="https://ko.wikipedia.org/wiki/이노우에_요시오" title="wikilink">이노우에 요시오</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/아케노_카에루코" title="wikilink">아케노 카에루코</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>10</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/5명의_준코" title="wikilink">5명의 준코</a>》</p></td>
+<td><p>11월 21일 - 12월 19일</p></td>
+<td><p>총 5회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/곤노_하지메" title="wikilink">곤노 하지메</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/와타나베_치호" title="wikilink">와타나베 치호</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/마츠유키_야스코" title="wikilink">마츠유키 야스코</a>,<a href="https://ko.wikipedia.org/wiki/미무라" title="wikilink">미무라</a>,<a href="https://ko.wikipedia.org/wiki/니시다_나오미" title="wikilink">니시다 나오미</a>,<a href="https://ko.wikipedia.org/wiki/아소_유미" title="wikilink">아소 유미</a>,<a href="https://ko.wikipedia.org/wiki/코이케_에이코" title="wikilink">코이케 에이코</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/마리_유키코" title="wikilink">마리 유키코</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2016년</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>11</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/황무지의_연애" title="wikilink">황무지의 연애</a>》</p></td>
+<td><p>1월 9일 - 2월 6일</p></td>
+<td><p>총 5회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/와타나베_타카요시" title="wikilink">와타나베 타카요시</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/토요카와_에츠시" title="wikilink">토요카와 에츠시</a>,<a href="https://ko.wikipedia.org/wiki/스즈키_쿄카" title="wikilink">스즈키 쿄카</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/네지메_쇼이치" title="wikilink">네지메 쇼이치</a></p></td>
+<td><p>[1]</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>12</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/반짝반짝" title="wikilink">반짝반짝</a>》</p></td>
+<td><p>2월 13일 - 3월 12일</p></td>
+<td><p>총 5회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/니시우라_마사키" title="wikilink">니시우라 마사키</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/히사마츠_신이치" title="wikilink">히사마츠 신이치</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/나카이_키이치" title="wikilink">나카이 키이치</a>,<a href="https://ko.wikipedia.org/wiki/유스케_산타_마리아" title="wikilink">유스케 산타 마리아</a>,<a href="https://ko.wikipedia.org/wiki/피에르_타키" title="wikilink">피에르 타키</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/아사다_지로" title="wikilink">아사다 지로</a></p></td>
+<td><p>[2]</p></td>
+</tr>
+<tr class="even">
+<td><p>13</p></td>
+<td><p>《<a href="../Page/구구는_고양이다.md" title="wikilink">구구는 고양이다2<br />
+-good good the fortune cat-</a>》</p></td>
+<td><p>6월 11일 - 7월 9일</p></td>
+<td><p>총 5 회</p></td>
+<td><p>이누도 잇신</p></td>
+<td><p>다카다 아키라</p></td>
+<td><p>미야자와 리에, 나가쓰카 케이시, 쿠로키 하루</p></td>
+<td><p>오시마 유미코</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>14</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/기보가오카의_사람들" title="wikilink">기보가오카의 사람들</a>》</p></td>
+<td><p>7월 16일 - 8월 13일</p></td>
+<td><p>총 5회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/후카가와_요시히로" title="wikilink">후카가와 요시히로</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/오카다_요시카즈" title="wikilink">오카다 요시카즈</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/사와무라_잇키" title="wikilink">사와무라 잇키</a>,<a href="https://ko.wikipedia.org/wiki/사쿠라다_히요리" title="wikilink">사쿠라다 히요리</a>,<a href="https://ko.wikipedia.org/wiki/니노미야_케이타" title="wikilink">니노미야 케이타</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/시게마쓰_기요시" title="wikilink">시게마쓰 기요시</a></p></td>
+<td><p>[3]</p></td>
+</tr>
+<tr class="even">
+<td><p>15</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/현자의_사랑" title="wikilink">현자의 사랑</a>》</p></td>
+<td><p>8월 20일 - 9월 10일</p></td>
+<td><p>총 4회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/미나모토_타카시" title="wikilink">미나모토 타카시</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/Sawa" title="wikilink">Sawa</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/나카야마_미호" title="wikilink">나카야마 미호</a>,<a href="../Page/타카오카_사키.md" title="wikilink">타카오카 사키</a>,<a href="https://ko.wikipedia.org/wiki/류세이_료" title="wikilink">류세이 료</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/야마다_에이미" title="wikilink">야마다 에이미</a></p></td>
+<td><p>[4]</p></td>
+</tr>
+<tr class="odd">
+<td><p>16</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/후타가시라" title="wikilink">후타가시라</a>2》</p></td>
+<td><p>9월 17일 -10월 15일</p></td>
+<td><p>총 5회</p></td>
+<td><p>이리에 유<br />
+요시다 료</p></td>
+<td><p>나카시마 카즈키</p></td>
+<td><p>마츠야마 켄이치,사오토메 타이치</p></td>
+<td><p>오노 나츠메</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>17</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/콜드_케이스" title="wikilink">콜드 케이스 ~진실의 문~</a>》</p></td>
+<td><p>10월 22일 -12월 24일</p></td>
+<td><p>총 10회</p></td>
+<td><p>하타노 타카후미</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/제제_다카히사" title="wikilink">제제 다카히사</a><br />
+<a href="https://ko.wikipedia.org/wiki/요시다_야스히로" title="wikilink">요시다 야스히로</a><br />
+<a href="https://ko.wikipedia.org/wiki/호라이_류타" title="wikilink">호라이 류타</a><br />
+<a href="https://ko.wikipedia.org/wiki/하야시_히로시" title="wikilink">하야시 히로시</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/요시다_요우" title="wikilink">요시다 요우</a></p></td>
+<td></td>
+<td><p>[5]</p></td>
+</tr>
+<tr class="odd">
+<td><p>2017년</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>18</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/오늘은,_일진도_좋고" title="wikilink">오늘은, 일진도 좋고</a>》</p></td>
+<td><p>1월 14일 - 2월 4일</p></td>
+<td><p>총 4회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/사사베_키요시" title="wikilink">사사베 키요시</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/타니구치_준이치로" title="wikilink">타니구치 준이치로</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/히가_마나미" title="wikilink">히가 마나미</a>, <a href="https://ko.wikipedia.org/wiki/하세가와_쿄코" title="wikilink">하세가와 쿄코</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/하라다_마하" title="wikilink">하라다 마하</a></p></td>
+<td><p>[6]</p></td>
+</tr>
+<tr class="odd">
+<td><p>19</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/호쿠토_어느_살인자의_회심#드라마" title="wikilink">호쿠토 -어느 살인자의 회심-</a>》</p></td>
+<td><p>3월 25일 - 4월 22일</p></td>
+<td><p>총 5회</p></td>
+<td><p><a href="../Page/타키모토_토모유키.md" title="wikilink">타키모토 토모유키</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/나카야마_유마" title="wikilink">나카야마 유마</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/이시다_이라" title="wikilink">이시다 이라</a></p></td>
+<td><p>[7]</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>20</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/미야자와_겐지의_식탁" title="wikilink">미야자와 겐지의 식탁</a>》</p></td>
+<td><p>6월 17일 - 7월 15일</p></td>
+<td><p>총 5회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/미노리카와_오사무" title="wikilink">미노리카와 오사무</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/이케다_나츠코" title="wikilink">이케다 나츠코</a></p></td>
+<td><p><a href="../Page/스즈키_료헤이.md" title="wikilink">스즈키 료헤이</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/우오노메_산타" title="wikilink">우오노메 산타</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>21</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/플라즈" title="wikilink">플라즈 있음 만의 쉐어하우스~</a>~번역》</p></td>
+<td><p>8월 12일 - 9월 9일</p></td>
+<td><p>총 5회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/요시다_야스히로_(영화_감독)" title="wikilink">요시다 야스히로</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/오우라_코타" title="wikilink">오우라 코타</a><br />
+요시다 야스히로</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/호시노_겐" title="wikilink">호시노 겐</a>, <a href="https://ko.wikipedia.org/wiki/나카_리이사" title="wikilink">나카 리이사</a>, <a href="https://ko.wikipedia.org/wiki/마시마_히데카즈" title="wikilink">마시마 히데카즈</a>, <a href="https://ko.wikipedia.org/wiki/나카무라_유리_(1982년)" title="wikilink">나카무라 유리</a>, <a href="https://ko.wikipedia.org/wiki/시부카와_키요히코" title="wikilink">시부카와 키요히코</a>, <a href="https://ko.wikipedia.org/wiki/이시다_유리코" title="wikilink">이시다 유리코</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/혼다_테쓰야" title="wikilink">혼다 테쓰야</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>22</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/짝사랑_(소설)" title="wikilink">짝사랑</a>》</p></td>
+<td><p>10월 21일 - 11월 25일</p></td>
+<td><p>총 6회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/나가타_코토" title="wikilink">나가타 코토</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/요시다_노리코" title="wikilink">요시다 노리코</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/나카타니_미키" title="wikilink">나카타니 미키</a>, <a href="https://ko.wikipedia.org/wiki/키리타니_켄타" title="wikilink">키리타니 켄타</a>, <a href="https://ko.wikipedia.org/wiki/쿠니나카_료코" title="wikilink">쿠니나카 료코</a>, <a href="https://ko.wikipedia.org/wiki/오타니_료헤이" title="wikilink">오타니 료헤이</a>, <a href="https://ko.wikipedia.org/wiki/스즈키_코스케_(배우)" title="wikilink">스즈키 코스케</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/히가시노_게이고" title="wikilink">히가시노 게이고</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>23</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/명함_게임" title="wikilink">명함 게임</a>》</p></td>
+<td><p>12월 2일 - 12월 23일</p></td>
+<td><p>총 4회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/키무라_히사시" title="wikilink">키무라 히사시</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/와타나베_료헤이" title="wikilink">와타나베 료헤이</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/츠츠미_신이치" title="wikilink">츠츠미 신이치</a>, <a href="https://ko.wikipedia.org/wiki/오카다_마사키" title="wikilink">오카다 마사키</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/스즈키_오사무" title="wikilink">스즈키 오사무</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2018년</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>24</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/봄이_왔다" title="wikilink">봄이 왔다</a>》</p></td>
+<td><p>1월 13일 - 2월 10일</p></td>
+<td><p>총 5회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/카와이_하야토" title="wikilink">카와이 하야토</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/요시다_야요이" title="wikilink">요시다 야요이</a></p></td>
+<td><p><a href="../Page/카이_(1994년).md" title="wikilink">카이</a> (<a href="https://ko.wikipedia.org/wiki/EXO" title="wikilink">EXO</a>), <a href="https://ko.wikipedia.org/wiki/쿠라시나_카나" title="wikilink">쿠라시나 카나</a>, <a href="https://ko.wikipedia.org/wiki/후루하타_세이카" title="wikilink">후루하타 세이카</a>, <a href="https://ko.wikipedia.org/wiki/켄타로" title="wikilink">켄타로</a>, <a href="https://ko.wikipedia.org/wiki/타카다_쇼코" title="wikilink">타카다 쇼코</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/무코다_구니코" title="wikilink">무코다 구니코</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>25</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/바이바이,_블랙버드" title="wikilink">바이바이, 블랙버드</a>》</p></td>
+<td><p>2월 17일 - 3월 24일</p></td>
+<td><p>총 6회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/모리_요시타카" title="wikilink">모리 요시타카</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/스즈키_켄이치" title="wikilink">스즈키 켄이치</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/코라_켄고" title="wikilink">코라 켄고</a>, <a href="https://ko.wikipedia.org/wiki/시로타_유" title="wikilink">시로타 유</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/이사카_고타로" title="wikilink">이사카 코타로</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>26</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/어둠의_반주자" title="wikilink">어둠의 반주자~편집장의 조건</a>》</p></td>
+<td><p>3월 31일 - 4월 28일</p></td>
+<td><p>총 5회</p></td>
+<td><p>미키 타카히로</p></td>
+<td><p>아소 쿠미코</p></td>
+<td><p>마츠시타 나오, 후루타 아라타</p></td>
+<td><p>나가사키 타카시</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>27</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/더블_판타지" title="wikilink">더블 판타지</a>》</p></td>
+<td><p>6월 16일 - 7월 14일</p></td>
+<td><p>총 5회</p></td>
+<td><p>미노리카와 오사무</p></td>
+<td><p>아소 쿠미코<br />
+미노리카와 오사무</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/미즈카와_아사미" title="wikilink">미즈카와 아사미</a>, <a href="https://ko.wikipedia.org/wiki/타나카_케이" title="wikilink">타나카 케이</a>, <a href="https://ko.wikipedia.org/wiki/마지마_히데카즈" title="wikilink">마지마 히데카즈</a>, <a href="https://ko.wikipedia.org/wiki/야나기_슌타로" title="wikilink">야나기 슌타로</a>, <a href="https://ko.wikipedia.org/wiki/시노하라_유키코" title="wikilink">시노하라 유키코</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/무라야마_유카" title="wikilink">무라야마 유카</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>28</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/이아리_보이지_않는_얼굴" title="wikilink">이아리 보이지 않는 얼굴</a>》</p></td>
+<td><p>8월 4일 - 9월 8일</p></td>
+<td><p>총 6회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/모리_준이치" title="wikilink">모리 준이치</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/타케이_아야" title="wikilink">타케이 아야</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/오다기리_조" title="wikilink">오다기리 조</a>, <a href="https://ko.wikipedia.org/wiki/나카_리이사" title="wikilink">나카 리이사</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/마에카와_유타카" title="wikilink">마에카와 유타카</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>29</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/콜드_케이스" title="wikilink">콜드 케이스 2 ~진실의 문~</a>》</p></td>
+<td><p>10월 13일 - 12월 15일</p></td>
+<td><p>총 10회</p></td>
+<td><p>하타노 타카후미</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/제제_다카히사" title="wikilink">제제 다카히사</a><br />
+<a href="https://ko.wikipedia.org/wiki/요시다_야스히로" title="wikilink">요시다 야스히로</a><br />
+<a href="https://ko.wikipedia.org/wiki/호라이_류타" title="wikilink">호라이 류타</a><br />
+<a href="https://ko.wikipedia.org/wiki/하야시_히로시" title="wikilink">하야시 히로시</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/요시다_요우" title="wikilink">요시다 요우</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019년</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>30</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/도난당한_얼굴_~눈에_띄지_수사반~" title="wikilink">도난당한 얼굴 ~눈에 띄지 수사반~</a>》</p></td>
+<td><p>1월 5일 - 2월 2일</p></td>
+<td><p>총 5회</p></td>
+<td><p>다케 마사하루</p></td>
+<td><p>아다치 신</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/타마키_히로시" title="wikilink">타마키 히로시</a>, <a href="https://ko.wikipedia.org/wiki/우치다_리오" title="wikilink">우치다 리오</a>, <a href="https://ko.wikipedia.org/wiki/마치다_케이타" title="wikilink">마치다 케이타</a>, <a href="https://ko.wikipedia.org/wiki/시부카와_키요히코" title="wikilink">시부카와 키요히코</a>, <a href="https://ko.wikipedia.org/wiki/이토_아유미" title="wikilink">이토 아유미</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/하다_케이스케" title="wikilink">하다 케이스케</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>31</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/그것을_사랑과_착각하니까" title="wikilink">그것을 사랑과 착각하니까</a>》</p></td>
+<td><p>2월 9일 - 3월 9일</p></td>
+<td><p>총 5회</p></td>
+<td><p>미야모토 리에코<br />
+키노시타 나오미</p></td>
+<td><p>마키고 모모네<br />
+아라이 유우카</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/이나모리_이즈미" title="wikilink">이나모리 이즈미</a>, <a href="https://ko.wikipedia.org/wiki/스즈키_코스케" title="wikilink">스즈키 코스케</a>, <a href="https://ko.wikipedia.org/wiki/나카_리이사" title="wikilink">나카 리이사</a>, <a href="https://ko.wikipedia.org/wiki/안도_마사노부" title="wikilink">안도 마사노부</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/이노우에_아레노" title="wikilink">이노우에 아레노</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>32</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/다잉_아이" title="wikilink">다잉 아이</a>》</p></td>
+<td><p>3월 16일 - 4월 20일</p></td>
+<td><p>총 6회</p></td>
+<td><p>쿠니모토 마사히로</p></td>
+<td><p>요시다 노리코</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/미우라_하루마" title="wikilink">미우라 하루마</a>, <a href="https://ko.wikipedia.org/wiki/타카하시_메리준" title="wikilink">타카하시 메리준</a>, <a href="https://ko.wikipedia.org/wiki/마츠모토_마리카" title="wikilink">마츠모토 마리카</a>, <a href="https://ko.wikipedia.org/wiki/카키자와_하야토" title="wikilink">카키자와 하야토</a>, <a href="https://ko.wikipedia.org/wiki/오노즈카_하야토" title="wikilink">오노즈카 하야토</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/히가시노_게이고" title="wikilink">히가시노 게이고</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>33</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/언덕_중간의_집" title="wikilink">언덕 중간의 집</a>》</p></td>
+<td><p>4월 27일 - 6월 1일</p></td>
+<td><p>총 6회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/모리가키_유타" title="wikilink">모리가키 유타</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/시노자키_에리코" title="wikilink">시노자키 에리코</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/시바사키_코우" title="wikilink">시바사키 코우</a></p></td>
+<td><p><a href="../Page/가쿠다_미쓰요.md" title="wikilink">가쿠다 미쓰요</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>34</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/미러_트윈스" title="wikilink">미러 트윈스 시즌2</a>》</p></td>
+<td><p>6월 8일 - 6월 29일</p></td>
+<td><p>총 4회</p></td>
+<td><p>무라카미 마사노리<br />
+<a href="https://ko.wikipedia.org/wiki/이케자와_타츠야" title="wikilink">이케자와 타츠야</a><br />
+<a href="https://ko.wikipedia.org/wiki/모리시타_토시유키" title="wikilink">모리시타 토시유키</a><br />
+<a href="https://ko.wikipedia.org/wiki/노다_켄타" title="wikilink">노다 켄타</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/다카하시_유야" title="wikilink">다카하시 유야</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/후지가야_타이스케" title="wikilink">후지가야 타이스케</a></p></td>
+<td></td>
+<td><p>[8]</p></td>
+</tr>
+<tr class="odd">
+<td><p>35</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/포이즌_도터_홀리_마더" title="wikilink">미나토 카나에 포이즌 도터 홀리 마더</a>》</p></td>
+<td><p>7월 6일 - 8월 10일</p></td>
+<td><p>총 6회</p></td>
+<td><p>요시다 야스히로<br />
+<a href="https://ko.wikipedia.org/wiki/타키모토_켄고" title="wikilink">타키모토 켄고</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/시미즈_유카코" title="wikilink">시미즈 유카코</a><br />
+<a href="https://ko.wikipedia.org/wiki/요시카와_나미" title="wikilink">요시카와 나미</a><br />
+후지사와 히로카즈</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/테라지마_시노부" title="wikilink">테라지마 시노부</a> <a href="https://ko.wikipedia.org/wiki/아다치_리카" title="wikilink">아다치 리카</a>, <a href="https://ko.wikipedia.org/wiki/키요하라_카야" title="wikilink">키요하라 카야</a>, 나카무라 유리, 쿠라시나 카나, 이토 아유미</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/미나토_카나에" title="wikilink">미나토 카나에</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>36</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/톱_리그_(소설)" title="wikilink">톱 리그</a>》</p></td>
+<td><p>10월 5일 - 11월 9일</p></td>
+<td><p>총 6회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/호시노_카즈나리" title="wikilink">호시노 카즈나리</a><br />
+<a href="https://ko.wikipedia.org/wiki/나카마에_유지" title="wikilink">나카마에 유지</a></p></td>
+<td><p>시노자키 에리코</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/타마야마_테츠지" title="wikilink">타마야마 테츠지</a>, <a href="https://ko.wikipedia.org/wiki/이케우치_히로유키" title="wikilink">이케우치 히로유키</a> <a href="https://ko.wikipedia.org/wiki/사쿠마_유이" title="wikilink">사쿠마 유이</a>, <a href="https://ko.wikipedia.org/wiki/코유키_(배우)" title="wikilink">코유키</a>, <a href="https://ko.wikipedia.org/wiki/진나이_타카노리" title="wikilink">진나이 타카노리</a>, <a href="https://ko.wikipedia.org/wiki/코바야시_카오루" title="wikilink">코바야시 카오루</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/아이바_히데오" title="wikilink">아이바 히데오</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>37</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/히키누키야#드라마" title="wikilink">히키누키야~헤드 헌터의 방식~</a>》</p></td>
+<td><p>11월 16일 - 12월 14일</p></td>
+<td><p>총 5회</p></td>
+<td><p>니시우라 마사키</p></td>
+<td><p>와타나베 치호</p></td>
+<td><p>마츠시타 나오, 우치다 유키, <a href="https://ko.wikipedia.org/wiki/코테_신야" title="wikilink">코테 신야</a>, 와타베 아츠로, 스기모토 텟타, 하라다 타이조, 카나메 준</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/시즈쿠이_슈스케" title="wikilink">시즈쿠이 슈스케</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2020년</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>38</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/그들을_보면_알_수_있게_되는_것" title="wikilink">그들을 보면 알 수 있게 되는 것</a>》</p></td>
+<td><p>1월 11일 - 2월 29일</p></td>
+<td><p>총 8회</p></td>
+<td><p>사와키 마히로</p></td>
+<td><p>후카가와 요시히로</p></td>
+<td><p>나카야마 미호, 키무라 타에, 오오시마 유코, 타카하시 유토, 사쿠마 유이, 나나세 코우, 나카가와 츠바사</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>#</p></td>
+<td><p>제목</p></td>
+<td><p>첫 방송일</p></td>
+<td><p>화수</p></td>
+<td><p>감독</p></td>
+<td><p>각본</p></td>
+<td><p>주요 출연자</p></td>
+<td><p>원작 저자</p></td>
+<td><p>비고제목</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### 일요일 오리지널 드라마
+
+<table>
+<thead>
+<tr class="header">
+<th><p>#</p></th>
+<th><p>제목</p></th>
+<th><p>첫방송일</p></th>
+<th><p>화수</p></th>
+<th><p>감독</p></th>
+<th><p>각본</p></th>
+<th><p>주요 출연자</p></th>
+<th><p>원작 저자</p></th>
+<th><p>비고제목</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2014년</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/주가폭락" title="wikilink">주가폭락</a>》</p></td>
+<td><p>10월 19일 - 11월 16일</p></td>
+<td><p>총 5회</p></td>
+<td><p>스즈키 코스케</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/요시모토_마사히로" title="wikilink">요시모토 마사히로</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/오다_유지" title="wikilink">오다 유지</a></p></td>
+<td><p>이케이도 준</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/나쁜_돈" title="wikilink">나쁜 돈</a>》</p></td>
+<td><p>11월 23일 - 12월 21일</p></td>
+<td><p>총 5회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/곤노_하지메" title="wikilink">곤노 하지메</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/와타나베_치호" title="wikilink">와타나베 치호</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/오이카와_미츠히로" title="wikilink">오이카와 미츠히로</a>,<a href="https://ko.wikipedia.org/wiki/쿠로키_메이사" title="wikilink">쿠로키 메이사</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/시마다_마사히코" title="wikilink">시마다 마사히코</a></p></td>
+<td><p>음악:하네오카 케이</p></td>
+</tr>
+<tr class="even">
+<td><p>2015년</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/예가가는_여름" title="wikilink">예가가는 여름</a>》</p></td>
+<td><p>1월 18일 - 2월 15일</p></td>
+<td><p>|총 5회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/하타노_타카후미" title="wikilink">하타노 타카후미</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/요시모토_마사히로" title="wikilink">요시모토 마사히로</a><br />
+코사카 타카시</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/와타베_아츠로" title="wikilink">와타베 아츠로</a>,<a href="https://ko.wikipedia.org/wiki/토키토_사부로" title="wikilink">토키토 사부로</a>,<a href="../Page/카도와키_무기.md" title="wikilink">카도와키 무기</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/아카이_미히로" title="wikilink">아카이 미히로</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/천사의_나이프" title="wikilink">천사의 나이프</a>》</p></td>
+<td><p>2월 22일 - 3월 22일</p></td>
+<td><p>총 5회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/나가야마_코조" title="wikilink">나가야마 코조</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/오니시_켄이치" title="wikilink">오니시 켄이치</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/코이데_케이스케" title="wikilink">코이데 케이스케</a>,<a href="https://ko.wikipedia.org/wiki/쿠라시나_카나" title="wikilink">쿠라시나 카나</a>,<a href="https://ko.wikipedia.org/wiki/와카무라_마유미" title="wikilink">와카무라 마유미</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/야쿠아루_가쿠" title="wikilink">야쿠아루 가쿠</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/스케이프고트_(소설)" title="wikilink">스케이프고트</a>》</p></td>
+<td><p>4월 12일 - 5월 3일</p></td>
+<td><p>총 4회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/호시노_카즈나리" title="wikilink">호시노 카즈나리</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/오오이시_테츠야" title="wikilink">오오이시 테츠야</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/쿠로키_히토미" title="wikilink">쿠로키 히토미</a>,<a href="https://ko.wikipedia.org/wiki/이시마루_간지" title="wikilink">이시마루 간지</a>,<a href="https://ko.wikipedia.org/wiki/후루야_잇코" title="wikilink">후루야 잇코</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/코다_마인" title="wikilink">코다 마인</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/테미스의_구형" title="wikilink">테미스의 구형</a>》</p></td>
+<td><p>5월 10일 - 5월 31일</p></td>
+<td><p>총 4회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/곤노_하지메" title="wikilink">곤노 하지메</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/히사마츠_신이치" title="wikilink">히사마츠 신이치</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/나카_리이사" title="wikilink">나카 리이사</a>,<a href="https://ko.wikipedia.org/wiki/키시다니_고로" title="wikilink">키시다니 고로</a>,<a href="https://ko.wikipedia.org/wiki/스기모토_텟타" title="wikilink">스기모토 텟타</a>,<a href="https://ko.wikipedia.org/wiki/타카오카_소스케" title="wikilink">타카오카 소스케</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/다이몬_다케아키" title="wikilink">다이몬 다케아키</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>7</p></td>
+<td><p>《<a href="../Page/예고범.md" title="wikilink">예고범 -THE PAIN-</a>》</p></td>
+<td><p>6월 7일 - 7월 5일</p></td>
+<td><p>총 5회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/나카무라_요시히로" title="wikilink">나카무라 요시히로</a><br />
+<a href="https://ko.wikipedia.org/wiki/히라바야시_카츠토시" title="wikilink">히라바야시 카츠토시</a><br />
+<a href="https://ko.wikipedia.org/wiki/사와다_메구미" title="wikilink">사와다 메구미</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/하야시_타미오" title="wikilink">하야시 타미오</a><br />
+<a href="https://ko.wikipedia.org/wiki/스즈키_사토시" title="wikilink">스즈키 사토시</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/히가시야마_노리유키" title="wikilink">히가시야마 노리유키</a>,<a href="https://ko.wikipedia.org/wiki/토다_에리카" title="wikilink">토다 에리카</a>,<a href="https://ko.wikipedia.org/wiki/키리타니_켄타" title="wikilink">키리타니 켄타</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/츠츠이_테츠야" title="wikilink">츠츠이 테츠야</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>8</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/죽음의_장기" title="wikilink">죽음의 장기</a>》</p></td>
+<td><p>7월 12일 - 8월 9일</p></td>
+<td><p>총 5회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/사토_유이치" title="wikilink">사토 유이치</a><br />
+<a href="https://ko.wikipedia.org/wiki/우에다_야스시" title="wikilink">우에다 야스시</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/고산_나오야" title="wikilink">고산 나오야</a><br />
+<a href="https://ko.wikipedia.org/wiki/스즈키_사토시" title="wikilink">스즈키 사토시</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/고이즈미_고타로" title="wikilink">고이즈미 고타로</a>,<a href="https://ko.wikipedia.org/wiki/타케다_테츠야" title="wikilink">타케다 테츠야</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/타카하시_유키하루" title="wikilink">아사노 스즈</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>9</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/돌의_고치" title="wikilink">돌의 고치 살인분석반</a>》</p></td>
+<td><p>8월 16일 - 9월 13일</p></td>
+<td><p>총 5회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/우치카타_아키라" title="wikilink">우치카타 아키라</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/와타나베_켄사쿠" title="wikilink">와타나베 켄사쿠</a></p></td>
+<td><p><a href="../Page/키무라_후미노.md" title="wikilink">키무라 후미노</a>,<a href="https://ko.wikipedia.org/wiki/아오키_무네타카" title="wikilink">아오키 무네타카</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/아사미_카즈시" title="wikilink">아사미 카즈시</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>10</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/토노_야마이치증권_마지막_12명" title="wikilink">토노 ~야마이치증권 최후의 성전~</a>》</p></td>
+<td><p>9월 20일 - 10월 25일</p></td>
+<td><p>총 6회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/와카마츠_세츠로" title="wikilink">와카마츠 세츠로</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/토다야마_마사시" title="wikilink">토다야마 마사시</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/에구치_요스케" title="wikilink">에구치 요스케</a>,<a href="https://ko.wikipedia.org/wiki/하기와라_마사토" title="wikilink">하기와라 마사토</a>,<a href="https://ko.wikipedia.org/wiki/하야시_켄토" title="wikilink">하야시 켄토</a>,<a href="https://ko.wikipedia.org/wiki/마토부_세이" title="wikilink">마토부 세이</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/기요타케_히데토시" title="wikilink">기요타케 히데토시</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>11</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/오당_(소설)" title="wikilink">오당</a>》</p></td>
+<td><p>11월 22일 - 12월 27일</p></td>
+<td><p>총 5회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/무라카미_마키토" title="wikilink">무라카미 마키토</a><br />
+<a href="https://ko.wikipedia.org/wiki/후루마야_토시유키" title="wikilink">후루마야 토시유키</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/하바라_다이스케" title="wikilink">하바라 다이스케</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/타마야마_테츠지" title="wikilink">타마야마 테츠지</a>,<a href="https://ko.wikipedia.org/wiki/렌부츠_미사코" title="wikilink">렌부츠 미사코</a>,<a href="https://ko.wikipedia.org/wiki/야나기바_토시로" title="wikilink">야나기바 토시로</a>,<a href="https://ko.wikipedia.org/wiki/코바야시_카오루" title="wikilink">코바야시 카오루</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/도바_슌이치" title="wikilink">도바 슌이치</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2016년</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>12</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/공격_할_수없는_경찰관" title="wikilink">공격 할 수없는 경찰관</a>》</p></td>
+<td><p>1월 10일 - 2월 7일</p></td>
+<td><p>총 5회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/나가사키_슌이치" title="wikilink">나가사키 슌이치</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/아베_테루오" title="wikilink">아베 테루오</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/타나베_세이이치" title="wikilink">타나베 세이이치</a>,<a href="https://ko.wikipedia.org/wiki/시구로_켄" title="wikilink">시구로 켄</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/안도_요시아키" title="wikilink">안도 요시아키</a></p></td>
+<td><p>[9]</p></td>
+</tr>
+<tr class="even">
+<td><p>13</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/메가뱅크_최종결전" title="wikilink">메가뱅크 최종결전</a>》</p></td>
+<td><p>2월 14일 - 3월 20일</p></td>
+<td><p>총 6회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/후루사와_타케시" title="wikilink">후루사와 타케시</a><br />
+<a href="https://ko.wikipedia.org/wiki/사와다_메구미" title="wikilink">사와다 메구미</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/스기하라_노리아키" title="wikilink">스기하라 노리아키</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/시이나_킷페이" title="wikilink">시이나 킷페이</a>,<a href="https://ko.wikipedia.org/wiki/키리타니_켄타" title="wikilink">키리타니 켄타</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/하타노_쇼" title="wikilink">하타노 쇼</a></p></td>
+<td><p>[10]</p></td>
+</tr>
+<tr class="odd">
+<td><p>14</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/뻐꾸기_알은_누구의_것인가#텔레비전_드라마" title="wikilink">뻐꾸기 알은 누구의 것인가</a>》</p></td>
+<td><p>3월 27일 - 5월 1일</p></td>
+<td><p>총 6회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/야쿠모_사이지" title="wikilink">야쿠모 사이지</a><br />
+<a href="https://ko.wikipedia.org/wiki/야마시타_쓰카사" title="wikilink">야마시타 쓰카사</a></p></td>
+<td><p>다나베 미츠루</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/츠치야_타오" title="wikilink">츠치야 타오</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/히가시노_게이고" title="wikilink">히가시노 게이고</a></p></td>
+<td><p>[11]</p></td>
+</tr>
+<tr class="even">
+<td><p>15</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/지지_않는_태양" title="wikilink">지지 않는 태양</a>》</p></td>
+<td><p>5월 8일 - 9월 25일</p></td>
+<td><p>총 20회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/미즈타니_토시유키" title="wikilink">미즈타니 토시유키</a><br />
+<a href="https://ko.wikipedia.org/wiki/스즈키_코스케" title="wikilink">스즈키 코스케</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/마에카와_요이치" title="wikilink">마에카와 요이치</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/타카야_카미카와" title="wikilink">타카야 카미카와</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/야마사키_도요코" title="wikilink">야마사키 도요코</a></p></td>
+<td><p>[12]</p></td>
+</tr>
+<tr class="odd">
+<td><p>16</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/히포크라테스_선서_(소설)" title="wikilink">히포크라테스 선서</a>》</p></td>
+<td><p>10월 2일 - 10월 30일</p></td>
+<td><p>총 5회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/우치카타_아키라" title="wikilink">우치카타 아키라</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/시노자키_에리코" title="wikilink">시노자키 에리코</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/키타가와_케이코" title="wikilink">키타가와 케이코</a>, <a href="https://ko.wikipedia.org/wiki/시바타_쿄헤이" title="wikilink">시바타 쿄헤이</a>, <a href="https://ko.wikipedia.org/wiki/오노에_마쓰야" title="wikilink">오노에 마쓰야</a>, <a href="https://ko.wikipedia.org/wiki/후루야_잇코" title="wikilink">후루야 잇코</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/나카야마_치리_(소설가)" title="wikilink">나카야마 치리</a></p></td>
+<td><p>[13][14]</p></td>
+</tr>
+<tr class="even">
+<td><p>17</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/수정의_고동" title="wikilink">수정의 고동 살인분석반</a>》</p></td>
+<td><p>11월 13일 - 12월 11일</p></td>
+<td><p>총 5회</p></td>
+<td><p>우치카타 아키라</p></td>
+<td></td>
+<td><p>키무라 후미노, 아오키 숭고한</p></td>
+<td><p>아사미 카즈시</p></td>
+<td><p>[15]</p></td>
+</tr>
+<tr class="odd">
+<td><p>2017년</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>18</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/낙원_(미야베_미유키의_소설)#드라마" title="wikilink">낙원</a>》</p></td>
+<td><p>1월 8일 - 2월 12일</p></td>
+<td><p>총 6회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/곤노_하지메" title="wikilink">곤노 하지메</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/시노자키_에리코" title="wikilink">시노자키 에리코</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/나카마_유키에" title="wikilink">나카마 유키에</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/미야베_미유키" title="wikilink">미야베 미유키</a></p></td>
+<td><p>[16]</p></td>
+</tr>
+<tr class="odd">
+<td><p>19</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/제니가타_경부_(드라마)" title="wikilink">제니가타 경부 칠흑의 범죄 파일</a>》</p></td>
+<td><p>2월 19일 - 3월 12일</p></td>
+<td><p>총 4회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/오오타니_타로" title="wikilink">오오타니 타로</a><br />
+<a href="https://ko.wikipedia.org/wiki/이와모토_히토시" title="wikilink">이와모토 히토시</a><br />
+<a href="https://ko.wikipedia.org/wiki/니시무라_료" title="wikilink">니시무라 료</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/오오이시_테쓰야" title="wikilink">오오이시 테쓰야</a><br />
+<a href="https://ko.wikipedia.org/wiki/야마우라_마사히로" title="wikilink">야마우라 마사히로</a><br />
+<a href="https://ko.wikipedia.org/wiki/야마오카_준페이" title="wikilink">야마오카 준페이</a></p></td>
+<td><p>스즈키 료헤이</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/몽키_펀치" title="wikilink">몽키 펀치</a></p></td>
+<td><p>[17]</p></td>
+</tr>
+<tr class="even">
+<td><p>20</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/감옥의_가시#텔레비전_드라마" title="wikilink">히토야노토게~감옥의 가시~</a>》</p></td>
+<td><p>3월 19일 - 4월 23일</p></td>
+<td><p>총 6회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/히데유키_히라야마" title="wikilink">히데유키 히라야마</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/스즈키_사토시" title="wikilink">스즈키 사토시</a></p></td>
+<td><p><a href="../Page/쿠보타_마사타카.md" title="wikilink">쿠보타 마사타카</a>, <a href="https://ko.wikipedia.org/wiki/오자와_유키요시" title="wikilink">오자와 유키요시</a>, <a href="https://ko.wikipedia.org/wiki/하기와라_마사토" title="wikilink">하기와라 마사토</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/다이몬_타케아키" title="wikilink">다이몬 타케아키</a></p></td>
+<td><p>[18]</p></td>
+</tr>
+<tr class="odd">
+<td><p>21</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/사장실의_겨울#텔레비전_드라마" title="wikilink">사장실의 겨울 -거대 신문사를 잡는 남자-</a>》</p></td>
+<td><p>4월 30일 - 5월 28일</p></td>
+<td><p>총 5회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/무라카미_마키토" title="wikilink">무라카미 마키토</a><br />
+<a href="https://ko.wikipedia.org/wiki/야마우치_무네노부" title="wikilink">야마우치 무네노부</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/타나카_신이치" title="wikilink">타나카 신이치</a><br />
+미우라 하야토</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/미카미_히로시" title="wikilink">미카미 히로시</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/도바_슌이치" title="wikilink">도바 슌이치</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>22</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/범죄증후군" title="wikilink">범죄증후군 Season2</a>》</p></td>
+<td><p>6월 11일 - 7월 2일</p></td>
+<td><p>총 4회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/무라카미_쇼스케" title="wikilink">무라카미 쇼스케</a><br />
+<a href="https://ko.wikipedia.org/wiki/츠즈키_준이치" title="wikilink">츠즈키 준이치</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/시노자키_에리코" title="wikilink">시노자키 에리코</a><br />
+타니구치 준이치로</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/타니하라_쇼스케" title="wikilink">타니하라 쇼스케</a>, 타마야마 테츠지, <a href="https://ko.wikipedia.org/wiki/와타베_아츠로" title="wikilink">와타베 아츠로</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/누쿠이_도쿠로" title="wikilink">누쿠이 도쿠로</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>23</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/아키라와_아키라#텔레비전_드라마" title="wikilink">아키라와 아키라</a>》</p></td>
+<td><p>7월 9일 - 9월 3일</p></td>
+<td><p>총 9회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/미즈타니_토시유키" title="wikilink">미즈타니 토시유키</a><br />
+<a href="https://ko.wikipedia.org/wiki/스즈키_코스케" title="wikilink">스즈키 코스케</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/마에카와_요이치" title="wikilink">마에카와 요이치</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/무카이_오사무" title="wikilink">무카이 오사무</a>, <a href="https://ko.wikipedia.org/wiki/사이토_타쿠미" title="wikilink">사이토 타쿠미</a></p></td>
+<td><p>이케이도 준</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>24</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/침묵_법정#텔레비전_드라마" title="wikilink">침묵 법정</a>》</p></td>
+<td><p>9월 24일 - 10월 22일</p></td>
+<td><p>총 5회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/무라카미_마키토" title="wikilink">무라카미 마키토</a><br />
+<a href="https://ko.wikipedia.org/wiki/히가시다_요스케" title="wikilink">히가시다 요스케</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/오자키_마사야" title="wikilink">오자키 마사야</a><br />
+<a href="https://ko.wikipedia.org/wiki/미우라_하야토" title="wikilink">미우라 하야토</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/나가사쿠_히로미" title="wikilink">나가사쿠 히로미</a>, <a href="https://ko.wikipedia.org/wiki/이치하라_하야토" title="wikilink">이치하라 하야토</a>, <a href="https://ko.wikipedia.org/wiki/오오쿠라_코지" title="wikilink">오오쿠라 코지</a>, <a href="https://ko.wikipedia.org/wiki/우스다_아사미" title="wikilink">우스다 아사미</a>, <a href="https://ko.wikipedia.org/wiki/후지모토_센" title="wikilink">후지모토 센</a></p></td>
+<td><p>사사키 조</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>25</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/돌팔매질_경시청_2과_형사가_남긴_것" title="wikilink">돌팔매질~외무성 비자금을 파헤친 수사2과 남자들~</a>》</p></td>
+<td><p>11월 - 12월 24일</p></td>
+<td><p>총 8회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/와카마쓰_세쓰로" title="wikilink">와카마츠 세츠로</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/토다야마_마사시" title="wikilink">토다야마 마사시</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/사토_코이치_(배우)" title="wikilink">사토 코이치</a>, <a href="https://ko.wikipedia.org/wiki/에구치_요스케" title="wikilink">에구치 요스케</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/기요타케_히데토시" title="wikilink">키요타케 히데토시</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2018년</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>26</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/감사역_노자키" title="wikilink">감사역 노자키</a>》</p></td>
+<td><p>1월 14일 - 3월 4일</p></td>
+<td><p>총 8회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/곤노_하지메" title="wikilink">곤노 하지메</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/마에카와_요이치" title="wikilink">마에카와 요이치</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/오다_유지" title="wikilink">오다 유지</a>, <a href="https://ko.wikipedia.org/wiki/키시다니_고로" title="wikilink">키시다니 고로</a>, <a href="https://ko.wikipedia.org/wiki/후루야_잇코" title="wikilink">후루야 잇코</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/슈_료카" title="wikilink">슈 료카</a>, <a href="https://ko.wikipedia.org/wiki/노다_시게루" title="wikilink">노다 시게루</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>27</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/이노센트_데이즈" title="wikilink">이노센트 데이즈</a>》</p></td>
+<td><p>3월 18일 - 4월 22일</p></td>
+<td><p>총 6회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/이시카와_케이" title="wikilink">이시카와 케이</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/고토_노리코" title="wikilink">고토 노리코</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/츠마부키_사토시" title="wikilink">츠마부키 사토시</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/하야미_카즈마사" title="wikilink">하야미 카즈마사</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>28</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/60_오판_대책실" title="wikilink">60 오판 대책실</a>》</p></td>
+<td><p>5월 6일 - 6월 3일</p></td>
+<td><p>총 5회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/쿠마키리_카즈요시" title="wikilink">쿠마키리 카즈요시</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/타카다_료" title="wikilink">타카다 료</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/타치_히로시" title="wikilink">타치 히로시</a>, <a href="https://ko.wikipedia.org/wiki/후루카와_유키" title="wikilink">후루카와 유키</a>, <a href="https://ko.wikipedia.org/wiki/호시노_마리" title="wikilink">호시노 마리</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/이시카와_토모타케" title="wikilink">이시카와 토모타케</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>29</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/불발탄_(소설)#드라마" title="wikilink">불발탄 ~검은 돈을 조종하는 남자~</a>》</p></td>
+<td><p>6월 10일 - 7월 13일</p></td>
+<td><p>총 6회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/호시노_카즈나리" title="wikilink">호시노 카즈나리</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/다나카_마코토" title="wikilink">다나카 마코토</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/시이나_킷페이" title="wikilink">시이나 킷페이</a>, <a href="https://ko.wikipedia.org/wiki/다쿠마_신" title="wikilink">다쿠마 신</a>, <a href="https://ko.wikipedia.org/wiki/하라다_토모요" title="wikilink">하라다 토모요</a>, <a href="https://ko.wikipedia.org/wiki/오쿠다_에이지" title="wikilink">오쿠다 에이지</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/아이바_히데오" title="wikilink">아이바 히데오</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>30</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/구로쇼인의_로쿠베에" title="wikilink">구로쇼인의 로쿠베에</a>》</p></td>
+<td><p>7월 22일 - 8월 26일</p></td>
+<td><p>총 6회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/리_토시오" title="wikilink">리 토시오</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/마키노_케이스케_(각본가)" title="wikilink">마키노 케이스케</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/요시카와_코지" title="wikilink">요시카와 코지</a>, <a href="https://ko.wikipedia.org/wiki/카미지_유스케" title="wikilink">카미지 유스케</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/아사다_지로" title="wikilink">아사다 지로</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>31</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/진범인" title="wikilink">진범인</a>》</p></td>
+<td><p>9월 23일 - 10월 21일</p></td>
+<td><p>총 5회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/무라카미_쇼스케" title="wikilink">무라카미 쇼스케</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/이케다_나츠코" title="wikilink">이케다 나츠코</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/카미카와_타카야" title="wikilink">카미카와 타카야</a>, <a href="https://ko.wikipedia.org/wiki/고이즈미_코타로" title="wikilink">고이즈미 코타로</a>, <a href="https://ko.wikipedia.org/wiki/우치다_유키" title="wikilink">우치다 유키</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/쇼다_칸" title="wikilink">쇼다 칸</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>32</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/판도라_(드라마)" title="wikilink">판도라 Ⅳ AI전쟁</a>》</p></td>
+<td><p>11월 11일 - 12월 16일</p></td>
+<td><p>총 6회</p></td>
+<td><p>카와케 슌사쿠</p></td>
+<td><p>이노우에 유미코</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/무카이_오사무" title="wikilink">무카이 오사무</a>, <a href="https://ko.wikipedia.org/wiki/쿠로키_히토미" title="wikilink">쿠로키 히토미</a>, <a href="https://ko.wikipedia.org/wiki/미무라_리에" title="wikilink">미무라 리에</a>, <a href="https://ko.wikipedia.org/wiki/미우라_타카히로" title="wikilink">미우라 타카히로</a>, <a href="../Page/야마모토_코지_(배우).md" title="wikilink">야마모토 코지</a>, <a href="https://ko.wikipedia.org/wiki/하라다_타이조" title="wikilink">하라다 타이조</a>, <a href="https://ko.wikipedia.org/wiki/와타베_아츠로" title="wikilink">와타베 아츠로</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019년</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>33</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/고고한_메스" title="wikilink">고고한 메스</a>》</p></td>
+<td><p>1월 13일 - 3월 3일</p></td>
+<td><p>총 8회</p></td>
+<td><p>우치카타 아키라</p></td>
+<td><p>마에가와 요이치</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/타키자와_히데아키" title="wikilink">타키자와 히데아키</a>, <a href="https://ko.wikipedia.org/wiki/나카무라_토오루" title="wikilink">나카무라 토오루</a>, <a href="https://ko.wikipedia.org/wiki/나가쓰카_쿄조" title="wikilink">나가쓰카 쿄조</a>, <a href="https://ko.wikipedia.org/wiki/쿠도_아스카" title="wikilink">쿠도 아스카</a>, <a href="../Page/야마모토_미즈키.md" title="wikilink">야마모토 미즈키</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/오가네_토시히코" title="wikilink">오가네 토시히코</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>34</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/절규_(소설)" title="wikilink">절규</a>》</p></td>
+<td><p>3월 24일 - 4월 14일</p></td>
+<td><p>총 4회</p></td>
+<td><p>미즈타 나리히데</p></td>
+<td><p>이케다 나츠코</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/오노_마치코" title="wikilink">오노 마치코</a>, 야스다 켄, 카타기리 진, 코니시 미나미, 아소 유미, 마에카와 야스유키, 사카이 와카나, 카나메 준</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/하마나카_아키라" title="wikilink">하마나카 아키라</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>35</p></td>
+<td><p>《악당 가해자 추적조사》</p></td>
+<td><p>5월 12일 - 6월 16일</p></td>
+<td><p>총 6회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/제제_타카히사" title="wikilink">제제 타카히사</a></p></td>
+<td><p>스즈키 켄이치</p></td>
+<td><p>-</p></td>
+<td><p>야쿠마루 가쿠</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>36</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/신의_손_(소설)" title="wikilink">신의 손</a>》</p></td>
+<td><p>6월 23일 - 7월 21일</p></td>
+<td><p>총 5회</p></td>
+<td><p>카네이케 아츠시</p></td>
+<td><p>다나카 히로시</p></td>
+<td><p>시이나 킷페이, 스기모토 텟타, 스즈키 사와, 이시나 세이, 키타무라 유키야</p></td>
+<td><p>쿠사카베 요우</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>37</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/그리고,_살아간다" title="wikilink">그리고, 살아간다</a>》</p></td>
+<td><p>8월 4일 - 9월 8일</p></td>
+<td><p>총 6회</p></td>
+<td><p>츠키카와 쇼</p></td>
+<td><p>오카다 요시카즈</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/아리무라_카스미" title="wikilink">아리무라 카스미</a>,<a href="../Page/사카구치_켄타로.md" title="wikilink">사카구치 켄타로</a>, <a href="https://ko.wikipedia.org/wiki/강지영" title="wikilink">강지영</a>, <a href="https://ko.wikipedia.org/wiki/하기와라_마사토" title="wikilink">하기와라 마사토</a>, <a href="https://ko.wikipedia.org/wiki/미츠이시_켄" title="wikilink">미츠이시 켄</a>, 오카야마 아마네, 미나미 카호</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>38</p></td>
+<td><p>《악의 파동 살인분석반 스핀오프》</p></td>
+<td><p>10월 6일 - 11월 3일</p></td>
+<td><p>총 5회</p></td>
+<td><p>우치카타 테루{{-}}야마모토 다이스케</p></td>
+<td><p>시미즈 타다시</p></td>
+<td><p>-</p></td>
+<td><p>아사미 카즈시</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>39</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/나비의_역학" title="wikilink">나비의 역학 살인분석반</a>》</p></td>
+<td><p>11월 17일 - 12월 22일</p></td>
+<td><p>총 6회</p></td>
+<td><p>우치카타 테루</p></td>
+<td><p>아나부키 이치로</p></td>
+<td><p>-</p></td>
+<td><p>아사미 카즈시</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2020년</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>40</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/은행장_노자키_슈헤이" title="wikilink">은행장 노자키 슈헤이</a>》</p></td>
+<td><p>1월 19일 - 2월 16일</p></td>
+<td><p>총 5화</p></td>
+<td><p>콘노 하지메</p></td>
+<td><p>마에카와 요이치</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/오다_유지" title="wikilink">오다 유지</a>, <a href="https://ko.wikipedia.org/wiki/마츠시마_나나코" title="wikilink">마츠시마 나나코</a>, <a href="https://ko.wikipedia.org/wiki/카자마_슌스케" title="wikilink">카자마 슌스케</a>, 오자와 유키토시, 우카지 타카시, 키시타니 고로, 스루가 타로</p></td>
+<td><p>슈 료카, 노다 시게루</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>#</p></td>
+<td><p>제목</p></td>
+<td><p>첫방송일</p></td>
+<td><p>화수</p></td>
+<td><p>감독</p></td>
+<td><p>각본</p></td>
+<td><p>주요 출연자</p></td>
+<td><p>원작 저자</p></td>
+<td><p>비고제목</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 미드나잇☆드라마
+
+드라마 W는 되어 있지 않지만, 토요일 심야에도 오리지널 드라마 시리즈 [미드나잇☆드라마](https://ko.wikipedia.org/wiki/미드나잇☆드라마 "wikilink")가 있다.
+
+## 각주
+
+[\*](https://ko.wikipedia.org/wiki/분류:드라마_W "wikilink")
+
+1.
+2.
+3.
+4.
+5.  개국 25주년 기념작품.
+6.
+7.
+8.  WOWOW × [도카이 TV](https://ko.wikipedia.org/wiki/도카이_TV "wikilink") 공동 제작
+9.
+10.
+11.
+12. 개국 25주년 기념작품.
+13.
+14.
+15.
+16.
+17.
+18.

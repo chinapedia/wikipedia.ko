@@ -1,0 +1,133 @@
+> This article is converted from Wikipedia: [D \( \)](https://ko.wikipedia.org/wiki/D_\(_\)).
+
+
+〈**D**〉는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악 그룹 [빅뱅의](https://ko.wikipedia.org/wiki/빅뱅_\(음악_그룹\) "wikilink") 여섯 번째 싱글 음반으로 "[MADE](https://ko.wikipedia.org/wiki/MADE_\(빅뱅의_음반\) "wikilink") 시리즈"의 세 번째 싱글 음반이다.
+
+## 배경
+
+2015년 6월 26일, *D*의 타이틀 곡 "If you"의 포스터를 공개하였다.\[1\] 다음 날 6월 27일, 두 번째 곡 "맨정신"과 두 번째 포스터를 공개하였다.\[2\] 7월 1일 두 곡의 신곡이 수록 된 음반이 발매 되었다.\[3\] 앨범이 발매 되기 전날인 6월 30일, [네이버](https://ko.wikipedia.org/wiki/네이버 "wikilink") 스타캐스트 온라인 방송에서 라이브 카운트 다운 채팅이 진행 되었다.\[4\]
+
+## 상업적인 퍼포먼스
+
+*D*는 중국에서 발매 20시간만에 500,000 카피를 판매하는 기염을 토했다.\[5\]\[6\] 또한 단 4일만에 650,000 디지털 카피 이상을 판매했는데, 이는 중국에서 가장 빠른 기록의 최단시간 판매량이다.\[7\] 이후 9일만에 앨범은 800,000 카피 이상을 판매하며 중국에서 빅뱅의 앨범 중 베스트셀러를 달성했다.
+
+이 싱글은 한국에서 발매 첫 주만에 50만 디지털 카피를 기록했다. 중국에서 8월 한달간 100만 이상의 디지털 카피 판매량을 기록했다. 7월 16일, [가온 앨범 차트에서](https://ko.wikipedia.org/wiki/가온_차트 "wikilink")\[8\] 89,017장의 음반 판매량을 기록하며 1위를 차지했다.\[9\] 일본에서는 4,917장의 음반을 판매해 16위로 차트에 데뷔했다.\[10\]
+
+[빌보드](https://ko.wikipedia.org/wiki/빌보드 "wikilink")에 따르면 [유튜브](https://ko.wikipedia.org/wiki/유튜브 "wikilink")에서 "6월 동안 미국 및 전 세계에서 가장 많이 본 K-Pop 뮤직 비디오"로("Bang Bang Bang") "맨정신"은 9위에 랭크인 되었다.\[11\]
+
+## 평가
+
+[에픽 하이의](https://ko.wikipedia.org/wiki/에픽_하이 "wikilink") [타블로](https://ko.wikipedia.org/wiki/타블로 "wikilink")는 "If You"에 대해 자신의 트위터를 통해 “이 노래는 숨이 멎는다”,\[12\] "맨정신"에 대해서는 “죽이게 좋다”라고 극찬하였다.\[13\] [양현석](https://ko.wikipedia.org/wiki/양현석 "wikilink")은 "If You"에 대해 빅뱅의 노래 중에서 가장 슬픈 곡이라고 언급했다.\[14\]
+
+*[빌보드](https://ko.wikipedia.org/wiki/빌보드 "wikilink")*는 *D* 음반에 대해 “빅뱅이 또 다른 와일드한 뮤직비디오 "맨정신"과 새로운 발라드 "If You"로 돌아왔다”라며 신곡 소식을 전하며, “"맨정신"은 주로 일렉트로닉 힙합 사운드와 경쾌한 팝 비트 대신 지드래곤 2집 쿠데타 앨범의 "삐딱하게"를 연상시키는 퍼커션 연주와 믹스한 기타사운드를 더해 조금 더 록 스타일을 표현했다”라고 평했고 "If You"에 대해서는 “빅뱅의 노래 중 가장 감정적인 곡으로 얇은 스트럼 방식의 기타곡조로 전반적인 분위기를 잡았으며 코러스에서는 절제되고 몽환적인 허밍사운드가 더해졌다”라고 소개했다.\[15\]\[16\]\[17\]
+
+[지드래곤](https://ko.wikipedia.org/wiki/지드래곤 "wikilink")은 그의 작사에 좋은 평가를 받았으며, "If You"에 대해 “처음 쓸 때도 생각이 많았고, 의미 있는 노래이다. 저희도 사랑을 해봤으니까 그러던 와중에 쓰게됐다”라고 언급하며, “잔기교 없이 부를 수 있는 노래다. 가사를 곱씹으면서 각자의 상황들을 생각하며 부를 수 있게끔 하고 싶었다”라고 설명했다.\[18\]
+
+*D* 음반은 "MADE 시리즈" 중에서 최우수 음반으로 손꼽힌다.\[19\]
+
+## 프로모션
+
+2015년 7월 11일, [태국](https://ko.wikipedia.org/wiki/태국 "wikilink") [방콕](https://ko.wikipedia.org/wiki/방콕 "wikilink")에서 열린 [BIGBANG MADE TOUR 2015](https://ko.wikipedia.org/wiki/BIGBANG_MADE_TOUR_2015 "wikilink") 공연에서 첫 무대를 선보였다.
+
+## 트랙 리스트
+
+## 차트
+
+<table>
+<thead>
+<tr class="header">
+<th><p>차트</p></th>
+<th><p>최고<br />
+순위</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/일본" title="wikilink">일본</a> <em>오리콘</em> 주간 앨범 차트[20]</p></td>
+<td><p>16</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/일본" title="wikilink">일본</a> <em>오리콘</em> 주간 웨스턴 앨범 차트[21]</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="odd">
+<td><p>대한민국 <em><a href="https://ko.wikipedia.org/wiki/가온_차트" title="wikilink">가온</a></em> 주간 앨범 차트[22]</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="even">
+<td><p>대한민국 <em><a href="https://ko.wikipedia.org/wiki/가온_차트" title="wikilink">가온</a></em> 월간 앨범 차트 - 7월[23]</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="odd">
+<td><p>타이완 (G-Music)[24]</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+| 차트   | 판매량               |
+| ---- | ----------------- |
+| 대한민국 | 89,017\[25\]      |
+| 중국   | 1,173,499\[26\]   |
+| 일본   | 6,917\[27\]\[28\] |
+|      |                   |
+
+## 발매
+
+| 국가   | 날짜          | 포맷                                                                                                                      | 라벨                                                                                                                     |
+| ---- | ----------- | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| 대한민국 | 2015년 7월 1일 | [CD 싱글](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink"), [디지털 다운로드](https://ko.wikipedia.org/wiki/음악_다운로드 "wikilink") | [YG 엔터테인먼트](https://ko.wikipedia.org/wiki/YG_엔터테인먼트 "wikilink"), [KT 뮤직](https://ko.wikipedia.org/wiki/KT "wikilink")  |
+| 세계   |             |                                                                                                                         |                                                                                                                        |
+| 대한민국 | 2015년 7월 7일 | [CD 싱글](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink")                                                               |                                                                                                                        |
+| 세계   |             |                                                                                                                         |                                                                                                                        |
+| 일본   | 2015년 7월 8일 | [디지털 다운로드](https://ko.wikipedia.org/wiki/음악_다운로드 "wikilink")                                                            | [YG 엔터테인먼트](https://ko.wikipedia.org/wiki/YG_엔터테인먼트 "wikilink"), [YGEX](https://ko.wikipedia.org/wiki/YGEX "wikilink") |
+|      |             |                                                                                                                         |                                                                                                                        |
+
+## 각주
+
+## 외부 링크
+
+  - [YG 공식홈페이지 - D CD 트랙리스트](http://www.ygfamily.com/artist/Album.asp?LANGDIV=K&ATYPE=2&ARTIDX=3)
+
+<!-- end list -->
+
+  - 뮤직 비디오
+
+<!-- end list -->
+
+  -
+
+[분류:2015년 싱글](https://ko.wikipedia.org/wiki/분류:2015년_싱글 "wikilink") [분류:빅뱅의 음반](https://ko.wikipedia.org/wiki/분류:빅뱅의_음반 "wikilink") [분류:한국어 음반](https://ko.wikipedia.org/wiki/분류:한국어_음반 "wikilink") [분류:YG 엔터테인먼트 음반](https://ko.wikipedia.org/wiki/분류:YG_엔터테인먼트_음반 "wikilink") [분류:가온 앨범 차트 1위 음반](https://ko.wikipedia.org/wiki/분류:가온_앨범_차트_1위_음반 "wikilink") [분류:2015년 EP](https://ko.wikipedia.org/wiki/분류:2015년_EP "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.

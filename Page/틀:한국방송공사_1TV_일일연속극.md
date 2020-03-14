@@ -1,0 +1,6 @@
+> This article is converted from Wikipedia: [: 1TV ](https://ko.wikipedia.org/wiki/:_1TV_).
+
+
+<onlyinclude> [1TV 아침](https://ko.wikipedia.org/wiki/틀:한국방송공사_1TV_아침드라마 "wikilink") {{\!}} [2TV 아침](../Page/틀:한국방송공사_2TV_아침드라마.md "wikilink") {{\!}} [1TV 일일](https://ko.wikipedia.org/wiki/틀:한국방송공사_1TV_일일연속극 "wikilink") {{\!}} [2TV 일일](https://ko.wikipedia.org/wiki/틀:한국방송공사_2TV_일일연속극 "wikilink") {{\!}} [월화](https://ko.wikipedia.org/wiki/틀:한국방송공사_월화드라마 "wikilink") {{\!}} [수목](https://ko.wikipedia.org/wiki/틀:한국방송공사_수목드라마 "wikilink") {{\!}} [금요](https://ko.wikipedia.org/wiki/틀:한국방송공사_금요드라마 "wikilink") {{\!}} [금토](https://ko.wikipedia.org/wiki/틀:한국방송공사_금토드라마 "wikilink") {{\!}} 주말 ([연속극](../Page/틀:한국방송공사_주말연속극.md "wikilink") {{·}} [특별기획](https://ko.wikipedia.org/wiki/틀:한국방송공사_주말_특별기획_드라마 "wikilink")) {{\!}} [대하](https://ko.wikipedia.org/wiki/틀:한국방송공사_대하드라마 "wikilink") |아랫글모양 =
+
+}}</onlyinclude><noinclude> [분류:대한민국의 텔레비전 드라마에 관한 틀](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_드라마에_관한_틀 "wikilink") [한국방송공사_1TV_일일연속극](https://ko.wikipedia.org/wiki/분류:한국방송공사_1TV_일일연속극 "wikilink") [\*](https://ko.wikipedia.org/wiki/분류:한국방송공사의_텔레비전_드라마 "wikilink") </noinclude>

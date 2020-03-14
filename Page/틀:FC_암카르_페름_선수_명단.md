@@ -1,0 +1,6 @@
+> This article is converted from Wikipedia: [:FC    ](https://ko.wikipedia.org/wiki/:FC____).
+
+
+<onlyinclude></onlyinclude>
+
+[암카르 페름](https://ko.wikipedia.org/wiki/분류:러시아_축구단의_선수_명단_틀 "wikilink")<noinclude> </noinclude>

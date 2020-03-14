@@ -1,0 +1,46 @@
+> This article is converted from Wikipedia: [Growing Up \( \)](https://ko.wikipedia.org/wiki/Growing_Up_\(_\)).
+
+
+**Growing Up**은 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [10월 16일에](https://ko.wikipedia.org/wiki/10월_16일 "wikilink") 발매된 파스포☆(Passpo☆)의 11번째 싱글이다.
+
+### 수록곡
+
+이코노미 클래스반
+
+1.  Growing Up
+2.  Cosmic You
+3.  Growing Up（Instrumental）
+4.  Cosmic You（Instrumental）
+
+비지니스 클래스반
+
+1.  Growing Up
+2.  Cosmic You
+3.  Growing Up（Instrumental）
+4.  Cosmic You（Instrumental）
+
+<!-- end list -->
+
+  - 특전 Growing Up (Dance shot)
+
+퍼스트 클래스반
+
+1.  Growing Up
+2.  Cosmic You
+3.  Growing Up（Instrumental）
+4.  Cosmic You（Instrumental）
+
+<!-- end list -->
+
+  - 특전 Growing Up MV
+
+## 외부 링크
+
+  - [PASSPO☆ 공식 사이트 - 디스코그라피](https://web.archive.org/web/20131022160056/http://passpo.jp/page/pageDiscography/)
+
+  - [PASSPO☆ UNIVERSAL MUSIC - Discography](http://www.universal-music.co.jp/passpo/discography/)
+
+  - [PASSPO☆ UNIVERSAL MUSIC - Store](http://store.universal-music.co.jp/fs/artist/c/passpo/)
+
+  -
+[분류:2013년 싱글](https://ko.wikipedia.org/wiki/분류:2013년_싱글 "wikilink")

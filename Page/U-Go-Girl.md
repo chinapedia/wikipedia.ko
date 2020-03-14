@@ -1,0 +1,34 @@
+> This article is converted from Wikipedia: [U-Go-Girl](https://ko.wikipedia.org/wiki/U-Go-Girl).
+
+
+〈**U-Go-Girl**〉은 대한민국의 가수 [이효리](https://ko.wikipedia.org/wiki/이효리 "wikilink")의 노래이다. 이효리의 세 번째 정규 앨범 《[It's Hyorish](https://ko.wikipedia.org/wiki/It's_Hyorish "wikilink")》의 3번 수록곡이자 타이틀곡이다. 2008년 7월 12일 공개되었다.
+
+## 배경
+
+〈U-Go-Girl〉의 작사, 작곡, 편곡을 맡은 작곡가 팀 [이트라이브](https://ko.wikipedia.org/wiki/이트라이브 "wikilink")는 당시 이름이 알려져 있지 않은 신인이었다. 그러다가 이효리 소속사 사장님과 아는 사이라면서 곡을 전해왔다. 하지만 이효리는 카리스마 있는 곡을 타이틀곡으로 할려 해 수록하지 않을 예정이었지만, 밝고 가볍게 가야겠다고 생각이 바뀌어 다시 듣게 되었다. 이후 안무가와 프로듀서가 노래가 좋다고 말했고 바로 녹음을 진행했다.\[1\]
+
+## 발매
+
+본래 〈U-Go-Girl〉은 2008년 7월 14일 음원으로 공개하려 했으나, 앞서 12일 타이틀곡을 포함한 5곡이 유출되면서 7월 12일 엠넷닷컴을 통해 공개되었다.\[2\]
+
+## 뮤직비디오
+
+뮤직비디오의 감독은 [차은택](https://ko.wikipedia.org/wiki/차은택 "wikilink")이 맡았다.\[3\] 촬영은 2008년 7월 7일 남양주의 한 세트장에서 이루어졌으며, 이전과 달리 언론에 단 한 개의 현장도 공개하지 않았다. 관계자는 컨셉에 대해 "여름 분위기에 맞는 노래와 영상이 될 것이다. 무엇보다 섹시하고 스타일리시한 면이 많이 부각될 것"이라고 전했다.\[4\] 뮤직비디오는 화려한 색채감, 플래시 컷 위주의 편집 기법에 중점을 두고 제작했으며, 풍부한 영상미를 위해 35mm필름으로 제작했다.\[5\]
+
+## 크레딧
+
+  - 작사, 작곡, 편곡 - [이트라이브](https://ko.wikipedia.org/wiki/이트라이브 "wikilink")
+  - 코러스 - Sugar Flow, Enter-One
+  - 랩 메이킹 - [낯선](https://ko.wikipedia.org/wiki/낯선 "wikilink")
+  - 레코딩 엔지니어 - 장우영
+  - 믹싱 엔지니어 - 홍성준
+
+## 각주
+
+[분류:2008년 노래](https://ko.wikipedia.org/wiki/분류:2008년_노래 "wikilink") [분류:이효리의 노래](https://ko.wikipedia.org/wiki/분류:이효리의_노래 "wikilink")
+
+1.
+2.
+3.
+4.
+5.

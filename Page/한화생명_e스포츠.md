@@ -1,0 +1,106 @@
+> This article is converted from Wikipedia: [ e](https://ko.wikipedia.org/wiki/_e).
+
+
+**한화생명 e스포츠**(Hanwha Life Esports)는 대한민국의 [리그 오브 레전드와](https://ko.wikipedia.org/wiki/리그_오브_레전드 "wikilink") [카트라이더](https://ko.wikipedia.org/wiki/카트라이더 "wikilink") [프로게임단](https://ko.wikipedia.org/wiki/프로게임단 "wikilink")이다.
+
+## 개요
+
+2014년 11월 15일 **후야 타이거즈**(HUYA Tigers)라는 이름으로 정식 창단되었으며 전 LOL 프로게이머이자 당시 해설자인 정노철을 감독으로 선임하였다.\[1\] 2014년 11월 21일 - 22일에 열린 2015 리그 오브 레전드 챔피언스 코리아 시드선발전을 통과하여 2015 리그 오브 레전드 챔피언스 코리아 스프링에 진출하게 되었다.\[2\]
+
+2015 정식 시즌 시작 직전 팀명을 **GE 타이거즈**로 변경하였다.
+
+2015년 5월 18일 팀명을 **KOO 타이거즈**로 변경했음을 공식 발표했다.
+
+2015년 9월 30일 KOO TV가 경영 악화를 이유로 서비스를 종료, KOO 타이거즈는 [네이버 2015 LoL KeSPA컵](https://ko.wikipedia.org/wiki/네이버_2015_LoL_KeSPA컵 "wikilink") 참가를 시작으로 **타이거즈**라는 팀명으로 활동한다.
+
+2016년 1월 6일 팀명을 **ROX 타이거즈**로 변경했다. 'ROX'는 후원사 이름이 아닌 선수들끼리 힘을 함께 뭉친다는 의미의 ‘Rocks’에서 따온 이름이다. 락스 타이거즈는 특정 기업 소속 팀이 아닌 클럽 형태의 운영 체제로 새로운 시도를 하게 된다. 전문 매니지먼트 회사의 도움으로 선수 지원을 진행하기로 한 것인데, 이 회사가 어디인지는 밝히지 않고 있다. 타이거즈 관계자는 "시즌 개막과 함께 새로운 서브 스폰서를 공개하겠다"는 입장을 전했다. \[3\] 해외 클럽 팀으로는 [프나틱](../Page/프나틱.md "wikilink"), 팀 솔로미드 등이 있다.\[4\]
+
+2018년 4월 16일 [한화생명보험](https://ko.wikipedia.org/wiki/한화생명보험 "wikilink")이 ROX 타이거즈를 인수하면서 팀명을 **한화생명 e스포츠**로 변경했다..
+
+2019년 8월 5일 카트라이더 프로게임단을 공식 창단했다.
+
+## 내력
+
+### 리그 오브 레전드
+
+  - 2014년 11월 15일 리그 오브 레전드팀 창단
+  - 2014년 12월 19일 [강승현](../Page/강승현_\(1988년\).md "wikilink") 코치 영입\[5\]
+  - 2015년 1월 5일 후야 타이거즈에서 **GE 타이거즈**로 팀명 변경
+  - 2015년 5월 18일 GE 타이거즈에서 **KOO 타이거즈**로 팀명 변경
+  - 2015년 11월 6일 KOO 타이거즈에서 **타이거즈**로 팀명 변경
+  - 2016년 1월 6일 타이거즈에서 **ROX 타이거즈**로 팀명 변경
+  - 2018년 4월 16일 한화생명보험의 ROX 타이거즈 팀 인수, ROX 타이거즈에서 **한화생명 e스포츠**로 팀명 변경
+
+### 카트라이더
+
+  - 2019년 8월 5일 카트라이더 프로게임단 창단
+  - 2019년 11월 9일 [2019 KT 5G 멀티뷰 카트라이더 리그 시즌 2](https://ko.wikipedia.org/wiki/2019_KT_5G_멀티뷰_카트라이더_리그_시즌_2 "wikilink") 준우승 (VS [샌드박스 게이밍](https://ko.wikipedia.org/wiki/샌드박스_네트워크 "wikilink") 0-2)
+
+## 소속 선수
+
+### 리그 오브 레전드
+
+| 이름  | 소환사명    | 포지션   |  |
+| --- | ------- | ----- |  |
+| 이성진 | CuVee   | 탑     |  |
+| 강민승 | Haru    | 정글    |  |
+| 김태훈 | Lava    | 미드    |  |
+| 강명구 | Tempt   | 미드    |  |
+| 전태권 | Zenit   | AD 캐리 |  |
+| 오효성 | Vsta    | AD 캐리 |  |
+| 손시우 | Lehends | 서포터   |  |
+|     |         |       |  |
+
+### 카트라이더
+
+  - 감독 : 윤영재
+  - [문호준](https://ko.wikipedia.org/wiki/문호준 "wikilink") (스피드 에이스)
+  - [이은택](https://ko.wikipedia.org/wiki/이은택 "wikilink") (아이템 에이스)
+  - 최영훈 (하이브리드)
+  - 배성빈 (러너)
+  - 박도현 (스위퍼)
+
+## 성적
+
+| 날짜            | 순위       | 대회                                                                                                                | 결과    | 상금                                                                   |
+| ------------- | -------- | ----------------------------------------------------------------------------------------------------------------- | ----- | -------------------------------------------------------------------- |
+| 2014년 11월 22일 | 진출       | [2015 리그 오브 레전드 챔피언스 코리아 시드선발전](https://ko.wikipedia.org/wiki/스베누_리그_오브_레전드_챔피언스_코리아_스프링_2015#시드선발전 "wikilink")   | 2 : 1 | 조별리그 (승/패)                                                           |
+| 2014년 12월 20일 | 3위       | 스베누 리그 오브 레전드 챔피언스 코리아 스프링 2015 프리시즌                                                                              | 2 : 0 | [OGN 엔투스](https://ko.wikipedia.org/wiki/OGN_엔투스 "wikilink")          |
+| 2015년 5월 2일   | 2위       | [스베누 리그 오브 레전드 챔피언스 코리아 스프링 2015](https://ko.wikipedia.org/wiki/스베누_리그_오브_레전드_챔피언스_코리아_스프링_2015 "wikilink")       | 0 : 3 | [SK텔레콤 T1](https://ko.wikipedia.org/wiki/SK텔레콤_T1 "wikilink")        |
+| 2015년 8월 21일  | 3위       | [스베누 리그 오브 레전드 챔피언스 코리아 서머 2015](https://ko.wikipedia.org/wiki/스베누_리그_오브_레전드_챔피언스_코리아_서머_2015 "wikilink")         | 2 : 3 | [KT 롤스터](https://ko.wikipedia.org/wiki/KT_롤스터 "wikilink")            |
+| 2015년 10월 31일 | 2위       | [리그 오브 레전드 월드 챔피언십 2015](https://ko.wikipedia.org/wiki/리그_오브_레전드_월드_챔피언십_2015 "wikilink")                         | 1 : 3 | [SK텔레콤 T1](https://ko.wikipedia.org/wiki/SK텔레콤_T1 "wikilink")        |
+| 2015년 11월 7일  | 12강      | [네이버 2015 LoL KeSPA컵](https://ko.wikipedia.org/wiki/네이버_2015_LoL_KeSPA컵 "wikilink")                               | 0 : 2 | [스베누 코리아](https://ko.wikipedia.org/wiki/스베누_코리아_\(e스포츠\) "wikilink") |
+| 2016년 4월 23일  | 2위       | [롯데 꼬깔콘 리그 오브 레전드 챔피언스 코리아 스프링 2016](https://ko.wikipedia.org/wiki/롯데_꼬깔콘_리그_오브_레전드_챔피언스_코리아_스프링_2016 "wikilink") | 1 : 3 | [SK텔레콤 T1](https://ko.wikipedia.org/wiki/SK텔레콤_T1 "wikilink")        |
+| 2016년 8월 20일  | 1위       | [코카콜라 제로 리그 오브 레전드 챔피언스 코리아 서머 2016](https://ko.wikipedia.org/wiki/코카콜라_제로_리그_오브_레전드_챔피언스_코리아_서머_2016 "wikilink") | 3 : 2 | [KT 롤스터](https://ko.wikipedia.org/wiki/KT_롤스터 "wikilink")            |
+| 2016년 10월 22일 | 4강       | [리그 오브 레전드 월드 챔피언십 2016](https://ko.wikipedia.org/wiki/리그_오브_레전드_월드_챔피언십_2016 "wikilink")                         | 2 : 3 | [SK텔레콤 T1](https://ko.wikipedia.org/wiki/SK텔레콤_T1 "wikilink")        |
+| 2016년 11월 19일 | 1위       | [2016 LoL KeSPA컵](https://ko.wikipedia.org/wiki/2016_LoL_KeSPA컵 "wikilink")                                       | 3 : 1 | [브리온 블레이드](https://ko.wikipedia.org/wiki/브리온_블레이드 "wikilink")        |
+| 2017년 2월 26일  | 4강       | [IEM](https://ko.wikipedia.org/wiki/IEM "wikilink") 시즌 10 월드 챔피언십                                                 | 1 : 2 | G2 Esports                                                           |
+| 2017년 4월 1일   | 6위       | 2017 리그 오브 레전드 챔피언스 코리아 스프링 스플릿                                                                                   | 0 : 2 | [Gen.G e스포츠](https://ko.wikipedia.org/wiki/Gen.G_e스포츠 "wikilink")    |
+| 2017년 8월 1일   | 7위       | 2017 리그 오브 레전드 챔피언스 코리아 서머 스플릿                                                                                    | 1 : 2 | [Gen.G e스포츠](https://ko.wikipedia.org/wiki/Gen.G_e스포츠 "wikilink")    |
+| 2017년 11월 27일 | 12강      | 2017 LoL KeSPA컵                                                                                                   | 1 : 2 | [팀 위너스](https://ko.wikipedia.org/wiki/에버8_위너스 "wikilink")            |
+| 2018년 3월 24일  | 6위       | 2018 리그 오브 레전드 챔피언스 코리아 스프링 스플릿                                                                                   | 1 : 2 | [진에어 그린윙스](https://ko.wikipedia.org/wiki/진에어_그린윙스 "wikilink")        |
+| 2018년 8월 7일   | 6위       | 2018 리그 오브 레전드 챔피언스 코리아 서머 스플릿                                                                                    | 0 : 2 | [KT 롤스터](https://ko.wikipedia.org/wiki/KT_롤스터 "wikilink")            |
+| 2018년 12월 18일 | 16강 1라운드 | 2018 LoL KeSPA컵                                                                                                   | 1 : 2 | KeG 서울                                                               |
+| 2019년 3월 29일  | 6위       | 2019 스무살우리 리그 오브 레전드 챔피언스 코리아 스프링 스플릿                                                                             | 2 : 0 | [KT 롤스터](https://ko.wikipedia.org/wiki/KT_롤스터 "wikilink")            |
+| 2019년 8월 18일  | 9위       | 2019 우리은행 리그 오브 레전드 챔피언스 코리아 서머 스플릿                                                                               | 0 : 2 | 그리핀                                                                  |
+| 2019년 12월 30일 | 8강 2라운드  | 2019 LoL KeSPA컵 울산                                                                                                | 1 : 2 | [아프리카 프릭스](https://ko.wikipedia.org/wiki/아프리카_프릭스 "wikilink")        |
+|               |          |                                                                                                                   |       |                                                                      |
+
+## 우승 기록
+
+  - [코카콜라 제로 리그 오브 레전드 챔피언스 코리아 서머 2016](https://ko.wikipedia.org/wiki/코카콜라_제로_리그_오브_레전드_챔피언스_코리아_서머_2016 "wikilink")
+  - [2016 LoL KeSPA컵](https://ko.wikipedia.org/wiki/2016_LoL_KeSPA컵 "wikilink")
+
+## 각주
+
+## 외부 링크
+
+  - [한화생명e스포츠 페이스북](https://www.facebook.com/HLE.lol)
+
+[분류:2014년 설립](https://ko.wikipedia.org/wiki/분류:2014년_설립 "wikilink") [분류:리그 오브 레전드 프로게임단](https://ko.wikipedia.org/wiki/분류:리그_오브_레전드_프로게임단 "wikilink")
+
+1.
+2.
+3.
+4.
+5.

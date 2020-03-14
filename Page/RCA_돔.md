@@ -1,0 +1,8 @@
+> This article is converted from Wikipedia: [RCA ](https://ko.wikipedia.org/wiki/RCA_).
+
+
+**RCA 돔**(RCA Dome)는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [인디애나주](https://ko.wikipedia.org/wiki/인디애나주 "wikilink") [인디애나폴리스](https://ko.wikipedia.org/wiki/인디애나폴리스 "wikilink")에 위치한 실내 경기장이다. 과거 [NFL](https://ko.wikipedia.org/wiki/내셔널_풋볼_리그 "wikilink") [인디애나폴리스 콜츠의](https://ko.wikipedia.org/wiki/인디애나폴리스_콜츠 "wikilink") 홈경기장으로 사용되었다. 1979년, 1987년 [NBA 올스타전](https://ko.wikipedia.org/wiki/NBA_올스타전 "wikilink") 이후로 세번째로 [NFL](https://ko.wikipedia.org/wiki/내셔널_풋볼_리그 "wikilink") 스타디움에서 열린 올스타 게임이다. 경기장 남쪽에 [루카스오일 스타디움을](https://ko.wikipedia.org/wiki/루카스오일_스타디움 "wikilink") 신축한 후 철거되었다.
+
+1992년 4월 5일, [WWF](https://ko.wikipedia.org/wiki/WWF "wikilink") [레슬매니아](https://ko.wikipedia.org/wiki/레슬매니아 "wikilink") 8이 개최되었다. 관객 수는 62,167명
+
+[분류:1984년 설립](https://ko.wikipedia.org/wiki/분류:1984년_설립 "wikilink") [분류:2008년 폐지](https://ko.wikipedia.org/wiki/분류:2008년_폐지 "wikilink") [분류:미국의 없어진 건축물](https://ko.wikipedia.org/wiki/분류:미국의_없어진_건축물 "wikilink") [분류:없어진 스포츠 시설](https://ko.wikipedia.org/wiki/분류:없어진_스포츠_시설 "wikilink") [분류:미국의 농구 경기장](https://ko.wikipedia.org/wiki/분류:미국의_농구_경기장 "wikilink") [분류:미국의 실내 경기장](https://ko.wikipedia.org/wiki/분류:미국의_실내_경기장 "wikilink") [분류:미국의 미식축구 경기장](https://ko.wikipedia.org/wiki/분류:미국의_미식축구_경기장 "wikilink") [분류:미국의 축구 경기 시설](https://ko.wikipedia.org/wiki/분류:미국의_축구_경기_시설 "wikilink") [분류:전미 농구 협회](https://ko.wikipedia.org/wiki/분류:전미_농구_협회 "wikilink") [분류:내셔널 풋볼 리그](https://ko.wikipedia.org/wiki/분류:내셔널_풋볼_리그 "wikilink") [분류:인디애나폴리스 콜츠](https://ko.wikipedia.org/wiki/분류:인디애나폴리스_콜츠 "wikilink") [분류:돔구장](https://ko.wikipedia.org/wiki/분류:돔구장 "wikilink") [분류:1984년 완공된 스포츠 시설](https://ko.wikipedia.org/wiki/분류:1984년_완공된_스포츠_시설 "wikilink")

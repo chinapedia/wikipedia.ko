@@ -1,0 +1,55 @@
+> This article is converted from Wikipedia: [DAF ](https://ko.wikipedia.org/wiki/DAF_).
+
+
+**DAF 트럭**(, )은 [네덜란드](https://ko.wikipedia.org/wiki/네덜란드 "wikilink")의 자동차 메이커이다.
+
+## 역사
+
+[1928년](https://ko.wikipedia.org/wiki/1928년 "wikilink")에 **CVHDM 자동차**()로 설립되었다. [1949년](https://ko.wikipedia.org/wiki/1949년 "wikilink")에 최초로 [트럭](https://ko.wikipedia.org/wiki/트럭 "wikilink")을 생산하기 시작했고 이후 현재의 사명으로 변경했다. [1958년](https://ko.wikipedia.org/wiki/1958년 "wikilink")에 [승용차](https://ko.wikipedia.org/wiki/승용차 "wikilink")를 생산하기 시작 했으나 [1975년](https://ko.wikipedia.org/wiki/1975년 "wikilink")에 [볼보](https://ko.wikipedia.org/wiki/볼보 "wikilink")에 인수 후 합병이 되었다. [1980년](https://ko.wikipedia.org/wiki/1980년 "wikilink")에 [버스](https://ko.wikipedia.org/wiki/버스 "wikilink") 사업부를 분할 하면서 [유나이티드 버스로](https://ko.wikipedia.org/wiki/유나이티드_버스 "wikilink") 설립되었다. [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink")에 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 [자동차](https://ko.wikipedia.org/wiki/자동차 "wikilink") 메이커인 [레이랜드 트럭을](https://ko.wikipedia.org/wiki/레이랜드_트럭 "wikilink") 인수했고 같은 해 [네덜란드](https://ko.wikipedia.org/wiki/네덜란드 "wikilink") 주식 시장에 상장했다. 하지만 [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink")에 경영난으로 인해 도산이 되면서 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 [트럭](https://ko.wikipedia.org/wiki/트럭 "wikilink") 사업부는 [레이랜드 트럭으로](https://ko.wikipedia.org/wiki/레이랜드_트럭 "wikilink") [밴](https://ko.wikipedia.org/wiki/밴 "wikilink") 사업부는 [LDV 자동차로](https://ko.wikipedia.org/wiki/LDV_자동차 "wikilink") 분할이 되었다. [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink")에 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [트럭](https://ko.wikipedia.org/wiki/트럭 "wikilink") 사업부인 [파카 그룹에](https://ko.wikipedia.org/wiki/파카_그룹 "wikilink") 인수되었다. 이후 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 [트럭](https://ko.wikipedia.org/wiki/트럭 "wikilink") 사업부인 [레이랜드 트럭도](https://ko.wikipedia.org/wiki/레이랜드_트럭 "wikilink") [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink")에 인수되었다.
+
+## 현재 생산차종
+
+  - 대형 트럭
+
+<!-- end list -->
+
+  - [DAF CF](https://ko.wikipedia.org/wiki/DAF_CF "wikilink")
+
+<!-- end list -->
+
+  - 대형·준대형 트럭
+
+<!-- end list -->
+
+  - [DAF XF](https://ko.wikipedia.org/wiki/DAF_XF "wikilink")
+
+<!-- end list -->
+
+  - 중형·준중형·소형트럭
+
+<!-- end list -->
+
+  - [DAF LF](https://ko.wikipedia.org/wiki/DAF_LF "wikilink")
+
+## 사진
+
+파일:GRB_106-III.JPG 파일:DAF_2600_truck_-_220505.jpg 파일:DAF_Firebrigade_engine.jpg 파일:DAF_Military_Truck_YA-328.jpg 파일:DAF_YP_408_UNIFIL.jpg 파일:DAF_FAN_CF75,_Shell_GTL_fuel.JPG 파일:DAF_95XF-De_Decker-Van_Riet_(B)-2003.jpg 파일:DAF_105_460,_Gebroeders_Kraan.JPG 파일:DAF_FT_CF85_LOW_DECK,_Van_der_Slot_BV.JPG
+
+## 외부 링크
+
+  - [Registry for Fiat Shellette and Fiat Jolly MicroCars](https://web.archive.org/web/20131110232541/http://home.roadrunner.com/~piantieri/fiatjoll.htm)
+  - [Daf Club Nederland](http://www.dafclub.nl) Official Dutch Daf and other variomatic cars owners club
+  - [The (official) DAF museum, Eindhoven](http://www.dafmuseum.nl)
+  - [DAF Oldtimer Truck Club website](http://www.daftruck.nl)
+  - [Dmbmodels.eu](http://www.dmbmodels.eu) DAF model website
+  - [Official Hans Bekx Dakar website](https://web.archive.org/web/20081121001932/http://www.hansbekx.com/)
+  - [DAF cars at RitzSite Classic Cars](http://www.ritzsite.demon.nl/DAF/DAF_cars_intro.htm)
+  - [DeAutogids.nl about DAF](https://web.archive.org/web/20060103193424/http://www.deautogids.nl/auto/merk.asp?ID=5469) '
+  - [Classic DAF website](http://classic-daf.nl)
+  - [DAF military vehicles](https://web.archive.org/web/20110724150453/http://www.dafmilitair.nl/)
+  - [DAF Lorry Information](http://www.daftrucks.info)
+  - [UKs Largest DAF Dealer Group](http://www.imperialcommercials.co.uk)
+  - [Commercial Motor - launch of DAF 95 August 1987](http://archive.commercialmotor.com/page/27th-august-1987/1)
+  - [About Kleyn DAF Trucks](https://www.kleyntrucks.com/daf-trucks/)
+
+[분류:자동차 제조 회사](https://ko.wikipedia.org/wiki/분류:자동차_제조_회사 "wikilink") [분류:네덜란드의 자동차 제조 기업](https://ko.wikipedia.org/wiki/분류:네덜란드의_자동차_제조_기업 "wikilink") [분류:네덜란드의 브랜드](https://ko.wikipedia.org/wiki/분류:네덜란드의_브랜드 "wikilink") [분류:네덜란드의 기업](https://ko.wikipedia.org/wiki/분류:네덜란드의_기업 "wikilink") [분류:1928년 설립](https://ko.wikipedia.org/wiki/분류:1928년_설립 "wikilink") [분류:DAF 트럭](https://ko.wikipedia.org/wiki/분류:DAF_트럭 "wikilink")

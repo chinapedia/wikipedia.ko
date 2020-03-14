@@ -1,0 +1,49 @@
+> This article is converted from Wikipedia: [Breathe \( \)](https://ko.wikipedia.org/wiki/Breathe_\(_\)).
+
+
+***Breathe***()은 대한민국의 음악 그룹 [빅뱅의](https://ko.wikipedia.org/wiki/빅뱅_\(음악_그룹\) "wikilink") [G-Dragon의](https://ko.wikipedia.org/wiki/지드래곤 "wikilink") 노래이다. 이 노래는 2009년 8월 18일에 발매 된 그의 데뷔 솔로 음반 *[Heartbreaker](https://ko.wikipedia.org/wiki/Heartbreaker_\(지드래곤의_음반\) "wikilink")*에 수록 되어 있다.
+
+## 배경
+
+[지드래곤](https://ko.wikipedia.org/wiki/지드래곤 "wikilink")은 이전의 활동 곡인 "[Heartbreaker](../Page/Heartbreaker_\(지드래곤의_노래\).md "wikilink")"가 표절 논란이 일었을때, 그의 음반 프로모션을 위해 신속히 후속 곡인 "Breathe"의 활동을 발표했다.\[1\] 이 노래는 음원 발매와 동시에 각종 음원 차트의 TOP 20안에 진입했다.\[2\] 가사는 가수가 꿈에서 깨어 싶지 않다라는 묘사하고 있어, 한국의 한 언론 매체에서는 "강하다"와 "인상적"라며 작사에 호평했다.\[3\]
+
+## 선정성 논란
+
+[지드래곤](https://ko.wikipedia.org/wiki/지드래곤 "wikilink")은 자신의 솔로 콘서트에서 "Breathe"의 퍼포먼스때 침대위 여성 댄서와 성행위를 연상시키는 퍼포먼스로 인해 공연을 보러 온 청소년 앞에서 음란행위를 했다며 공연음란죄 여부로 논란이 되었다.\[4\]\[5\] 일부 팬들은 신음 소리를 주장하기도 했다.\[6\] 이에 대해 네티즌들도 찬반양론으로 갈라져 한때 논란이 일었지만 표현의 자유 및 창작의 자유 등을 제한한다는 논란이 대세를 이루기도 했다. 이와 같은 논란이 끊이질 않자, 2009년 12월 14일 보건복지가족부가 문제가 된 공연에 대해 청소년보호법 위반과 형법상 공연음란죄 여부에 대한 서울동부지방검찰청에 수사를 의뢰하였고 [YG 엔터테인먼트측](https://ko.wikipedia.org/wiki/YG_엔터테인먼트 "wikilink") 또한 조사를 의뢰하였다.\[7\]\[8\]\[9\] 이후 [지드래곤](https://ko.wikipedia.org/wiki/지드래곤 "wikilink")은 검찰 조사에서 음란성에 대한 혐의를 부정하는 발언으로 비난을 받기도 했다.\[10\]\[11\]
+
+2010년 3월 16일, 서울동부지검 형사1부는 공연의 선정성 논란을 빚었던 [지드래곤](https://ko.wikipedia.org/wiki/지드래곤 "wikilink")에 무혐의 처분을 내렸고, 다만 공연법위반에 대해서만 입건하지 않겠다는 입건유예 처분을 했다고 밝혔다.\[12\]\[13\] 그러나 소속사인 [YG 엔터테인먼트와](https://ko.wikipedia.org/wiki/YG_엔터테인먼트 "wikilink") 공연팀장 정모씨에게는 청소년에게 해로운 공연을 기획해 관람시킨 혐의(공연법 위반)로 각각 벌금 300만원에 약식기소했다. 검찰 관계자는 "지드래곤이 초범이고 스물한살의 대학생인데다 문제가 된 퍼포먼스를 정씨가 기획한 대로 공연한 점을 참작했다"고 언급했으며, [YG 엔터테인먼트에는](https://ko.wikipedia.org/wiki/YG_엔터테인먼트 "wikilink") 영상물등급위원회가 문제의 공연에 내린 연소자 유해 판정을 근거로 공연법을 적용했지만, 형법상 공연음란 혐의를 적용하지는 않았다. 이어 검찰은 "선정적이기는 했지만 2시간여의 공연에서 성행위를 연상시키는 침대 퍼포먼스는 2분정도였고 직접적인 성행위 묘사는 수초에 불과해 음란에는 미치지 않았다"고 설명하며, 보건복지가족부가 수사를 의뢰한 청소년보호법상 판매금지 규정 위반 여부를 따지더라도 음반이나 음악파일 판매가 아닌 노래를 부른 행위는 처벌할 수 없다고 판단했다고 덧붙였다.\[14\]
+
+또한, 당시 그의 콘서트를 관람했던 1,000여 명의 일부 팬들은 [지드래곤](https://ko.wikipedia.org/wiki/지드래곤 "wikilink")의 공연이 성적 수치심을 불러일으킬 정도로 선정적이지 않았다고 주장하며 검찰에 탄원서와 서명서를 제출하기도 했었다.\[15\] 문제가 된 공연 영상은 당시의 콘서트 실황을 담은 DVD 《Shine a Light》 로 발매 되었는데, 12세 이상 버전과 무삭제판 2가지로 제작되었다.\[16\]
+
+## 각주
+
+## 외부 링크
+
+  - [지드래곤 공식 사이트](http://www.ygbigbang.com/gdragon/)
+  - [YG 엔터테인먼트](http://ygfamily.com/)
+
+<!-- end list -->
+
+  - 뮤직 비디오
+
+<!-- end list -->
+
+  -
+[분류:2009년 싱글](https://ko.wikipedia.org/wiki/분류:2009년_싱글 "wikilink") [분류:2009년 노래](https://ko.wikipedia.org/wiki/분류:2009년_노래 "wikilink") [분류:지드래곤의 노래](https://ko.wikipedia.org/wiki/분류:지드래곤의_노래 "wikilink") [분류:한국어 노래](https://ko.wikipedia.org/wiki/분류:한국어_노래 "wikilink") [분류:YG 엔터테인먼트 싱글](https://ko.wikipedia.org/wiki/분류:YG_엔터테인먼트_싱글 "wikilink") [분류:지드래곤이 작사한 노래](https://ko.wikipedia.org/wiki/분류:지드래곤이_작사한_노래 "wikilink") [분류:지드래곤이 작곡한 노래](https://ko.wikipedia.org/wiki/분류:지드래곤이_작곡한_노래 "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.

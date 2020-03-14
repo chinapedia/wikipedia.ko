@@ -1,0 +1,78 @@
+> This article is converted from Wikipedia: [ IBS](https://ko.wikipedia.org/wiki/_IBS).
+
+
+**송도 IBS타워**()는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink") [연수구](https://ko.wikipedia.org/wiki/연수구 "wikilink") [송도국제도시](https://ko.wikipedia.org/wiki/송도국제도시 "wikilink")에 위치한 오피스 빌딩이다. 이 건물은 지상 35층, 155m의 높이는 판매동과 업무동으로 구성되어 있으며 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink")에 착공하여 [2011년 8월](https://ko.wikipedia.org/wiki/2011년_8월 "wikilink") 완공 및 개장했다.
+
+## 역사
+
+[2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [11월 3일에](https://ko.wikipedia.org/wiki/11월_3일 "wikilink") 기공식을 개최하고 착공하여 [2011년 8월에](https://ko.wikipedia.org/wiki/2011년_8월 "wikilink") 완공되었으며 개장하였다. [2015년 12월에](../Page/2015년_12월.md "wikilink") 대우건설 해외플랜트 프로젝트팀이 이 건물으로 이전하였다.\[1\]
+
+## 엘리베이터
+
+초고속 승강기가 설치되어 있으며 업무시설 15대, 판매시설 3대가 있다.
+
+## 시설
+
+이 건물인 IBS타워에는 회사가 많이 입주한 상태이며 옥상정원, 휴게공간, 오피스(4층 \~ 35층), 로비(1층 \~ 2층), 주차장(지하 1층 \~ 지하 3층, 1,005대의 주차 가능), 상업시설이 있고 6층은 1000평이다.
+
+| 층수             | 용도        |
+| -------------- | --------- |
+| 35층            | 오피스       |
+| 34층            | 오피스       |
+| 33층            | 오피스       |
+| 32층            | 오피스       |
+| 31층            | 오피스       |
+| 30층            | 오피스       |
+| 29층            | 오피스       |
+| 28층            | 오피스       |
+| 27층            | 오피스       |
+| 26층            | 오피스       |
+| 25층            | 오피스       |
+| 24층            | 오피스       |
+| 23층            | 오피스       |
+| 22층            | 오피스       |
+| 21층            | 오피스       |
+| 20층            | 오피스       |
+| 19층            | 오피스       |
+| 18층            | 오피스       |
+| 17층            | 오피스       |
+| 16층            | 오피스       |
+| 15층            | 오피스       |
+| 14층            | 오피스       |
+| 13층            | 오피스       |
+| 12층            | 오피스       |
+| 11층            | 오피스       |
+| 10층            | 오피스       |
+| 9층             | 오피스       |
+| 8층             | 인천 송도 홍보관 |
+| 7층             | 오피스       |
+| 6층             | 지안건강증진센터  |
+| 5층             | 오피스       |
+| 4층             | 송도 IBS타워  |
+| 3층             | 대연회장      |
+| 2층             | 로비        |
+| 1층             | 로비        |
+| 지하 3층 \~ 지하 1층 | 지하주차장     |
+|                |           |
+
+## 사건 및 사고
+
+[2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [5월 11일에](https://ko.wikipedia.org/wiki/5월_11일 "wikilink") 드론이 이 건물에 충돌하여 35층에 부딪히는 사고가 발생하였고 30층에 위치한 유리창 1개가 깨지는 사고가 있었다.\[2\]
+
+## 대중문화
+
+복수를 소재로 한 MBC 드라마 [돈꽃에](https://ko.wikipedia.org/wiki/돈꽃_\(2017년_드라마\) "wikilink") 나온다.
+
+## 같이 보기
+
+  - [인천광역시의 마천루 목록](../Page/인천광역시의_마천루_목록.md "wikilink")
+
+## 각주
+
+## 외부 링크
+
+  -
+[분류:인천광역시의 마천루](https://ko.wikipedia.org/wiki/분류:인천광역시의_마천루 "wikilink") [분류:인천 연수구의 건축물](https://ko.wikipedia.org/wiki/분류:인천_연수구의_건축물 "wikilink") [분류:송도국제도시](https://ko.wikipedia.org/wiki/분류:송도국제도시 "wikilink")
+
+1.
+2.
