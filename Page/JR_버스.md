@@ -9,16 +9,16 @@
 
 ## JR 버스의 회사
 
-| 회사                                                                | 담당 지역                                                                                                          | 모회사                                                         |
-| ----------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
-| [JR 홋카이도 버스](https://ko.wikipedia.org/wiki/JR_홋카이도_버스 "wikilink") | [홋카이도](https://ko.wikipedia.org/wiki/홋카이도 "wikilink")                                                          | [JR 홋카이도](https://ko.wikipedia.org/wiki/JR_홋카이도 "wikilink") |
-| [JR 버스 도호쿠](https://ko.wikipedia.org/wiki/JR_버스_도호쿠 "wikilink")   | [도호쿠](https://ko.wikipedia.org/wiki/도호쿠_지방 "wikilink")                                                         | [JR 동일본](https://ko.wikipedia.org/wiki/JR_동일본 "wikilink")   |
-| [JR 버스 간토](https://ko.wikipedia.org/wiki/JR_버스_간토 "wikilink")     | [간토](https://ko.wikipedia.org/wiki/간토_지방 "wikilink")                                                           | [JR 동일본](https://ko.wikipedia.org/wiki/JR_동일본 "wikilink")   |
-| [JR 도카이 버스](https://ko.wikipedia.org/wiki/JR_도카이_버스 "wikilink")   | [주쿄권](https://ko.wikipedia.org/wiki/주쿄권 "wikilink")                                                            | [JR 도카이](https://ko.wikipedia.org/wiki/JR_도카이 "wikilink")   |
-| [서일본 JR 버스](https://ko.wikipedia.org/wiki/서일본_JR_버스 "wikilink")   | [호쿠리쿠](https://ko.wikipedia.org/wiki/호쿠리쿠_지방 "wikilink"), [긴키](https://ko.wikipedia.org/wiki/긴키_지방 "wikilink") | [JR 서일본](https://ko.wikipedia.org/wiki/JR_서일본 "wikilink")   |
-| [주고쿠 JR 버스](https://ko.wikipedia.org/wiki/주고쿠_JR_버스 "wikilink")   | [주고쿠](https://ko.wikipedia.org/wiki/주고쿠_지방 "wikilink")                                                         | [JR 서일본](https://ko.wikipedia.org/wiki/JR_서일본 "wikilink")   |
-| [JR 시코쿠 버스](https://ko.wikipedia.org/wiki/JR_시코쿠_버스 "wikilink")   | [시코쿠](https://ko.wikipedia.org/wiki/시코쿠_지방 "wikilink")                                                         | [JR 시코쿠](https://ko.wikipedia.org/wiki/JR_시코쿠 "wikilink")   |
-| [JR 큐슈 버스](https://ko.wikipedia.org/wiki/JR_큐슈_버스 "wikilink")     | [큐슈](https://ko.wikipedia.org/wiki/규슈_지방 "wikilink")                                                           | [JR 큐슈](https://ko.wikipedia.org/wiki/JR_큐슈 "wikilink")     |
+| 회사                                                              | 담당 지역                                                                                                          | 모회사                                                         |
+| --------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| [JR 홋카이도 버스](../Page/JR_홋카이도_버스.md "wikilink")                  | [홋카이도](https://ko.wikipedia.org/wiki/홋카이도 "wikilink")                                                          | [JR 홋카이도](https://ko.wikipedia.org/wiki/JR_홋카이도 "wikilink") |
+| [JR 버스 도호쿠](https://ko.wikipedia.org/wiki/JR_버스_도호쿠 "wikilink") | [도호쿠](https://ko.wikipedia.org/wiki/도호쿠_지방 "wikilink")                                                         | [JR 동일본](https://ko.wikipedia.org/wiki/JR_동일본 "wikilink")   |
+| [JR 버스 간토](https://ko.wikipedia.org/wiki/JR_버스_간토 "wikilink")   | [간토](https://ko.wikipedia.org/wiki/간토_지방 "wikilink")                                                           | [JR 동일본](https://ko.wikipedia.org/wiki/JR_동일본 "wikilink")   |
+| [JR 도카이 버스](https://ko.wikipedia.org/wiki/JR_도카이_버스 "wikilink") | [주쿄권](https://ko.wikipedia.org/wiki/주쿄권 "wikilink")                                                            | [JR 도카이](https://ko.wikipedia.org/wiki/JR_도카이 "wikilink")   |
+| [서일본 JR 버스](https://ko.wikipedia.org/wiki/서일본_JR_버스 "wikilink") | [호쿠리쿠](https://ko.wikipedia.org/wiki/호쿠리쿠_지방 "wikilink"), [긴키](https://ko.wikipedia.org/wiki/긴키_지방 "wikilink") | [JR 서일본](https://ko.wikipedia.org/wiki/JR_서일본 "wikilink")   |
+| [주고쿠 JR 버스](https://ko.wikipedia.org/wiki/주고쿠_JR_버스 "wikilink") | [주고쿠](https://ko.wikipedia.org/wiki/주고쿠_지방 "wikilink")                                                         | [JR 서일본](https://ko.wikipedia.org/wiki/JR_서일본 "wikilink")   |
+| [JR 시코쿠 버스](https://ko.wikipedia.org/wiki/JR_시코쿠_버스 "wikilink") | [시코쿠](https://ko.wikipedia.org/wiki/시코쿠_지방 "wikilink")                                                         | [JR 시코쿠](https://ko.wikipedia.org/wiki/JR_시코쿠 "wikilink")   |
+| [JR 큐슈 버스](https://ko.wikipedia.org/wiki/JR_큐슈_버스 "wikilink")   | [큐슈](https://ko.wikipedia.org/wiki/규슈_지방 "wikilink")                                                           | [JR 큐슈](https://ko.wikipedia.org/wiki/JR_큐슈 "wikilink")     |
 
 ## 차량 소유 대수
 

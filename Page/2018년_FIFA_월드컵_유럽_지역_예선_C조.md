@@ -277,7 +277,7 @@
 
   - [산드로 바그너](https://ko.wikipedia.org/wiki/산드로_바그너 "wikilink")
 
-  - [카일 래퍼티](https://ko.wikipedia.org/wiki/카일_래퍼티 "wikilink")
+  - [카일 래퍼티](../Page/카일_래퍼티.md "wikilink")
 
 <!-- end list -->
 
@@ -295,13 +295,13 @@
 
   - [율리안 드락슬러](https://ko.wikipedia.org/wiki/율리안_드락슬러 "wikilink")
 
-  - [요나스 헥토어](https://ko.wikipedia.org/wiki/요나스_헥토어 "wikilink")
+  - [요나스 헥토어](../Page/요나스_헥토어.md "wikilink")
 
   - [사미 케디라](https://ko.wikipedia.org/wiki/사미_케디라 "wikilink")
 
   - [안드레 쉬얼레](https://ko.wikipedia.org/wiki/안드레_쉬얼레 "wikilink")
 
-  - [제이미 워드](https://ko.wikipedia.org/wiki/제이미_워드 "wikilink")
+  - [제이미 워드](../Page/제이미_워드.md "wikilink")
 
   - [조슈아 킹](https://ko.wikipedia.org/wiki/조슈아_킹 "wikilink")
 
@@ -321,7 +321,7 @@
 
   - [마리오 고메즈](https://ko.wikipedia.org/wiki/마리오_고메즈 "wikilink")
 
-  - [요주아 키미히](https://ko.wikipedia.org/wiki/요주아_키미히 "wikilink")
+  - [요주아 키미히](../Page/요주아_키미히.md "wikilink")
 
   - [토니 크로스](https://ko.wikipedia.org/wiki/토니_크로스 "wikilink")
 
@@ -333,17 +333,17 @@
 
   - [크리스 브런트](../Page/크리스_브런트.md "wikilink")
 
-  - [스튜어트 댈러스](https://ko.wikipedia.org/wiki/스튜어트_댈러스 "wikilink")
+  - [스튜어트 댈러스](../Page/스튜어트_댈러스.md "wikilink")
 
   - [스티븐 데이비스](https://ko.wikipedia.org/wiki/스티븐_데이비스 "wikilink")
 
   - [개러스 매콜리](../Page/개러스_매콜리.md "wikilink")
 
-  - [코너 매클로플린](https://ko.wikipedia.org/wiki/코너_매클로플린 "wikilink")
+  - [코너 매클로플린](../Page/코너_매클로플린.md "wikilink")
 
-  - [코너 워싱턴](https://ko.wikipedia.org/wiki/코너_워싱턴 "wikilink")
+  - [코너 워싱턴](../Page/코너_워싱턴.md "wikilink")
 
-  - [아다마 디오망데](https://ko.wikipedia.org/wiki/아다마_디오망데 "wikilink")
+  - [아다마 디오망데](../Page/아다마_디오망데.md "wikilink")
 
   - [마르틴 사무엘센](https://ko.wikipedia.org/wiki/마르틴_사무엘센 "wikilink")
 
@@ -366,12 +366,12 @@
   - [2018년 FIFA 월드컵 유럽 지역 예선](../Page/2018년_FIFA_월드컵_유럽_지역_예선.md "wikilink")
   - [2018년 FIFA 월드컵 유럽 지역 예선 A조](../Page/2018년_FIFA_월드컵_유럽_지역_예선_A조.md "wikilink")
   - [2018년 FIFA 월드컵 유럽 지역 예선 B조](../Page/2018년_FIFA_월드컵_유럽_지역_예선_B조.md "wikilink")
-  - [2018년 FIFA 월드컵 유럽 지역 예선 D조](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵_유럽_지역_예선_D조 "wikilink")
-  - [2018년 FIFA 월드컵 유럽 지역 예선 E조](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵_유럽_지역_예선_E조 "wikilink")
-  - [2018년 FIFA 월드컵 유럽 지역 예선 F조](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵_유럽_지역_예선_F조 "wikilink")
-  - [2018년 FIFA 월드컵 유럽 지역 예선 G조](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵_유럽_지역_예선_G조 "wikilink")
-  - [2018년 FIFA 월드컵 유럽 지역 예선 H조](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵_유럽_지역_예선_H조 "wikilink")
-  - [2018년 FIFA 월드컵 유럽 지역 예선 I조](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵_유럽_지역_예선_I조 "wikilink")
+  - [2018년 FIFA 월드컵 유럽 지역 예선 D조](../Page/2018년_FIFA_월드컵_유럽_지역_예선_D조.md "wikilink")
+  - [2018년 FIFA 월드컵 유럽 지역 예선 E조](../Page/2018년_FIFA_월드컵_유럽_지역_예선_E조.md "wikilink")
+  - [2018년 FIFA 월드컵 유럽 지역 예선 F조](../Page/2018년_FIFA_월드컵_유럽_지역_예선_F조.md "wikilink")
+  - [2018년 FIFA 월드컵 유럽 지역 예선 G조](../Page/2018년_FIFA_월드컵_유럽_지역_예선_G조.md "wikilink")
+  - [2018년 FIFA 월드컵 유럽 지역 예선 H조](../Page/2018년_FIFA_월드컵_유럽_지역_예선_H조.md "wikilink")
+  - [2018년 FIFA 월드컵 유럽 지역 예선 I조](../Page/2018년_FIFA_월드컵_유럽_지역_예선_I조.md "wikilink")
   - [2018년 FIFA 월드컵 유럽 지역 예선 플레이오프](../Page/2018년_FIFA_월드컵_유럽_지역_예선_플레이오프.md "wikilink")
 
 [C조](https://ko.wikipedia.org/wiki/분류:2018년_FIFA_월드컵_유럽_지역_예선 "wikilink")

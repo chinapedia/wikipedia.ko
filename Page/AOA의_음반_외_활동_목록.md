@@ -10,7 +10,7 @@
   - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink") 《[용감한 가족](../Page/용감한_가족.md "wikilink")》 - ([설현](../Page/설현.md "wikilink"))
   - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") 《[언프리티 랩스타](https://ko.wikipedia.org/wiki/언프리티_랩스타 "wikilink")》 - ([지민](../Page/지민_\(래퍼\).md "wikilink"))
   - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [MBC MUSIC](https://ko.wikipedia.org/wiki/MBC_MUSIC "wikilink") 《[AOA의 어느 멋진 날](https://ko.wikipedia.org/wiki/AOA의_어느_멋진_날 "wikilink")》 - ([AOA](https://ko.wikipedia.org/wiki/AOA "wikilink"))
-  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [온 스타일](https://ko.wikipedia.org/wiki/온_스타일 "wikilink") 《[CHANNEL AOA](https://ko.wikipedia.org/wiki/CHANNEL_AOA "wikilink")》 - (AOA)
+  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [온 스타일](https://ko.wikipedia.org/wiki/온_스타일 "wikilink") 《[CHANNEL AOA](../Page/CHANNEL_AOA.md "wikilink")》 - (AOA)
 
 ### 예능+교양 게스트
 
@@ -289,7 +289,7 @@
 <tr class="odd">
 <td><p>SK텔레콤 생활플랫폼</p></td>
 <td><p>통신사</p></td>
-<td><p>설현, (with <a href="https://ko.wikipedia.org/wiki/조진웅" title="wikilink">조진웅</a>, <a href="https://ko.wikipedia.org/wiki/태용" title="wikilink">태용</a> 외)</p></td>
+<td><p>설현, (with <a href="https://ko.wikipedia.org/wiki/조진웅" title="wikilink">조진웅</a>, <a href="../Page/태용.md" title="wikilink">태용</a> 외)</p></td>
 <td></td>
 <td></td>
 <td></td>

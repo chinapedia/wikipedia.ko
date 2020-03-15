@@ -5,7 +5,7 @@
 
 ## 포맷
 
-M3U 파일은, 하나, 또는 여러 개의 미디어 파일의 [패스를](https://ko.wikipedia.org/wiki/디렉토리 "wikilink") [플레인 텍스트](https://ko.wikipedia.org/wiki/플레인_텍스트 "wikilink")([텍스트 파일](https://ko.wikipedia.org/wiki/텍스트_파일 "wikilink"))로 기재한 것이다. 이 파일을. ".m3u" 또는 ".m3u8"의 확장자로 저장한다. M3U 파일의 인코딩은 [Windows-1252](https://ko.wikipedia.org/wiki/Windows-1252 "wikilink")의 경우가 많으나, [CP932](https://ko.wikipedia.org/wiki/CP932 "wikilink")에 대응하고 있는 것도 존재한다. 인코딩을 [UTF-8](https://ko.wikipedia.org/wiki/UTF-8 "wikilink")로 명시하였을 때, 확장자 M3U8를 사용한다.
+M3U 파일은, 하나, 또는 여러 개의 미디어 파일의 [패스를](https://ko.wikipedia.org/wiki/디렉토리 "wikilink") [플레인 텍스트](../Page/플레인_텍스트.md "wikilink")([텍스트 파일](https://ko.wikipedia.org/wiki/텍스트_파일 "wikilink"))로 기재한 것이다. 이 파일을. ".m3u" 또는 ".m3u8"의 확장자로 저장한다. M3U 파일의 인코딩은 [Windows-1252](https://ko.wikipedia.org/wiki/Windows-1252 "wikilink")의 경우가 많으나, [CP932](https://ko.wikipedia.org/wiki/CP932 "wikilink")에 대응하고 있는 것도 존재한다. 인코딩을 [UTF-8](https://ko.wikipedia.org/wiki/UTF-8 "wikilink")로 명시하였을 때, 확장자 M3U8를 사용한다.
 
 각각의 엔트리는 아래와 같다.
 

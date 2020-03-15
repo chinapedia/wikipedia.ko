@@ -220,17 +220,17 @@
 
 <!-- end list -->
 
-  - [베킴 발라이](https://ko.wikipedia.org/wiki/베킴_발라이 "wikilink")
+  - [베킴 발라이](../Page/베킴_발라이.md "wikilink")
 
   - [베라트 짐시티](https://ko.wikipedia.org/wiki/베라트_짐시티 "wikilink")
 
   - [슈컬젠 가시](../Page/슈컬젠_가시.md "wikilink")
 
-  - [에르미르 레냐니](https://ko.wikipedia.org/wiki/에르미르_레냐니 "wikilink")
+  - [에르미르 레냐니](../Page/에르미르_레냐니.md "wikilink")
 
-  - [머르김 마브라이](https://ko.wikipedia.org/wiki/머르김_마브라이 "wikilink")
+  - [머르김 마브라이](../Page/머르김_마브라이.md "wikilink")
 
-  - [아르만도 사디쿠](https://ko.wikipedia.org/wiki/아르만도_사디쿠 "wikilink")
+  - [아르만도 사디쿠](../Page/아르만도_사디쿠.md "wikilink")
 
   - [로베르트 아르주마냔](https://ko.wikipedia.org/wiki/로베르트_아르주마냔 "wikilink")
 
@@ -270,7 +270,7 @@
 
 <!-- end list -->
 
-  - [머르김 마브라이](https://ko.wikipedia.org/wiki/머르김_마브라이 "wikilink") (아르메니아전 자책골)
+  - [머르김 마브라이](../Page/머르김_마브라이.md "wikilink") (아르메니아전 자책골)
 
   - [레본 하이라페티얀](https://ko.wikipedia.org/wiki/레본_하이라페티얀 "wikilink") (세르비아전 자책골)
 
@@ -330,7 +330,7 @@
 
 <!-- end list -->
 
-  - [머르김 마브라이](https://ko.wikipedia.org/wiki/머르김_마브라이 "wikilink")
+  - [머르김 마브라이](../Page/머르김_마브라이.md "wikilink")
 
   - [에르기스 케이스](https://ko.wikipedia.org/wiki/에르기스_케이스 "wikilink")
 

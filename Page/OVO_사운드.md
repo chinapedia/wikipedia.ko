@@ -29,7 +29,7 @@
 <td><p>2</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/마지드_조던" title="wikilink">마지드 조던</a></p></td>
+<td><p><a href="../Page/마지드_조던.md" title="wikilink">마지드 조던</a></p></td>
 <td><p>2013</p></td>
 <td><p>1</p></td>
 </tr>
@@ -135,7 +135,7 @@
 </tr>
 <tr class="odd">
 <td><p>2016</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/마지드_조던" title="wikilink">마지드 조던</a> – <strong><em>Majid Jordan</em></strong></p>
+<td><p><a href="../Page/마지드_조던.md" title="wikilink">마지드 조던</a> – <strong><em>Majid Jordan</em></strong></p>
 <ul>
 <li>발매일: 2016년 2월 5일</li>
 <li>레이블: OVO 사운드, 워너 브라더스</li>
@@ -188,7 +188,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2014</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/마지드_조던" title="wikilink">마지드 조던</a> – <strong><em><a href="https://ko.wikipedia.org/wiki/A_Place_Like_This" title="wikilink">A Place Like This</a></em></strong></p>
+<td><p><a href="../Page/마지드_조던.md" title="wikilink">마지드 조던</a> – <strong><em><a href="https://ko.wikipedia.org/wiki/A_Place_Like_This" title="wikilink">A Place Like This</a></em></strong></p>
 <ul>
 <li>발매일: 2014년 7월 17일</li>
 <li>레이블: OVO 사운드, 워너 브라더스</li>

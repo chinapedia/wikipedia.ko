@@ -291,7 +291,7 @@
 
 <!-- end list -->
 
-  - [아르만도 사디쿠](https://ko.wikipedia.org/wiki/아르만도_사디쿠 "wikilink")
+  - [아르만도 사디쿠](../Page/아르만도_사디쿠.md "wikilink")
 
   - [토메르 헤메드](../Page/토메르_헤메드.md "wikilink")
 
@@ -303,7 +303,7 @@
 
 <!-- end list -->
 
-  - [베킴 발라이](https://ko.wikipedia.org/wiki/베킴_발라이 "wikilink")
+  - [베킴 발라이](../Page/베킴_발라이.md "wikilink")
 
   - [탈 벤 하임 2세](https://ko.wikipedia.org/wiki/탈_벤_하임_\(1989년\) "wikilink")
 
@@ -319,7 +319,7 @@
 
 <!-- end list -->
 
-  - [레디안 메무샤이](https://ko.wikipedia.org/wiki/레디안_메무샤이 "wikilink")
+  - [레디안 메무샤이](../Page/레디안_메무샤이.md "wikilink")
 
   - [엘리란 아타르](https://ko.wikipedia.org/wiki/엘리란_아타르 "wikilink")
 
@@ -327,7 +327,7 @@
 
   - [리오르 레파엘로프](https://ko.wikipedia.org/wiki/리오르_레파엘로프 "wikilink")
 
-  - [에란 자하비](https://ko.wikipedia.org/wiki/에란_자하비 "wikilink")
+  - [에란 자하비](../Page/에란_자하비.md "wikilink")
 
   - [안드레아 벨로티](https://ko.wikipedia.org/wiki/안드레아_벨로티 "wikilink")
 
@@ -378,8 +378,8 @@
   - [2018년 FIFA 월드컵 유럽 지역 예선 D조](../Page/2018년_FIFA_월드컵_유럽_지역_예선_D조.md "wikilink")
   - [2018년 FIFA 월드컵 유럽 지역 예선 E조](../Page/2018년_FIFA_월드컵_유럽_지역_예선_E조.md "wikilink")
   - [2018년 FIFA 월드컵 유럽 지역 예선 F조](../Page/2018년_FIFA_월드컵_유럽_지역_예선_F조.md "wikilink")
-  - [2018년 FIFA 월드컵 유럽 지역 예선 H조](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵_유럽_지역_예선_H조 "wikilink")
-  - [2018년 FIFA 월드컵 유럽 지역 예선 I조](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵_유럽_지역_예선_I조 "wikilink")
+  - [2018년 FIFA 월드컵 유럽 지역 예선 H조](../Page/2018년_FIFA_월드컵_유럽_지역_예선_H조.md "wikilink")
+  - [2018년 FIFA 월드컵 유럽 지역 예선 I조](../Page/2018년_FIFA_월드컵_유럽_지역_예선_I조.md "wikilink")
   - [2018년 FIFA 월드컵 유럽 지역 예선 플레이오프](../Page/2018년_FIFA_월드컵_유럽_지역_예선_플레이오프.md "wikilink")
 
 ## 각주

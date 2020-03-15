@@ -52,11 +52,11 @@
 | 2007                                                                      | "친구" <small>(Feat. [태양](https://ko.wikipedia.org/wiki/태양_\(가수\) "wikilink"))</small>     | —                                                                  | *친구, 우리들의 전설 OST*                                                           |
 | "아무렇지 않은 척" <small>(Feat. 김지은)</small>                                    | —                                                                                        | *[Always](https://ko.wikipedia.org/wiki/Always_\(EP\) "wikilink")* |                                                                             |
 | 2009                                                                      | "할렐루야" <small>(Feat. [지드래곤](https://ko.wikipedia.org/wiki/지드래곤 "wikilink") & 태양)</small> | 18                                                                 | *아이리스 OST*                                                                  |
-| 2010                                                                      | "[Turn It Up](https://ko.wikipedia.org/wiki/Turn_It_Up_\(T.O.P의_노래\) "wikilink")"        | 11                                                                 | *디지털 싱글*\[2\]                                                               |
+| 2010                                                                      | "[Turn It Up](../Page/Turn_It_Up_\(T.O.P의_노래\).md "wikilink")"                           | 11                                                                 | *디지털 싱글*\[2\]                                                               |
 | "Because"                                                                 | —                                                                                        | *19 OST*                                                           |                                                                             |
 | 2011                                                                      | "오늘따라"                                                                                   | 89                                                                 | *[GD\&TOP](https://ko.wikipedia.org/wiki/GD&TOP_\(GD&TOP의_음반\) "wikilink")* |
 | "Oh Mom"                                                                  | 27                                                                                       |                                                                    |                                                                             |
-| 2013                                                                      | "[DOOM DADA](https://ko.wikipedia.org/wiki/DOOM_DADA "wikilink")"                        | 4                                                                  | *디지털 싱글*\[3\]                                                               |
+| 2013                                                                      | "[DOOM DADA](../Page/DOOM_DADA.md "wikilink")"                                           | 4                                                                  | *디지털 싱글*\[3\]                                                               |
 
 ### 기타 및 콜라보레이션 싱글
 
@@ -339,7 +339,7 @@
 </tr>
 <tr class="even">
 <td><p>2010</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Turn_It_Up_(T.O.P의_노래)" title="wikilink">Turn It Up</a></p></td>
+<td><p><a href="../Page/Turn_It_Up_(T.O.P의_노래).md" title="wikilink">Turn It Up</a></p></td>
 <td><p>Turn It Up</p></td>
 <td></td>
 <td></td>
@@ -381,7 +381,7 @@
 </tr>
 <tr class="even">
 <td><p>2013</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/DOOM_DADA" title="wikilink">DOOM DADA</a></p></td>
+<td><p><a href="../Page/DOOM_DADA.md" title="wikilink">DOOM DADA</a></p></td>
 <td><p>DOOM DADA</p></td>
 <td></td>
 <td></td>

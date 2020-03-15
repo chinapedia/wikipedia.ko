@@ -231,7 +231,7 @@
 
   - [로버트 스노드그래스](../Page/로버트_스노드그래스.md "wikilink")
 
-  - [아담 네메츠](https://ko.wikipedia.org/wiki/아담_네메츠 "wikilink")
+  - [아담 네메츠](../Page/아담_네메츠.md "wikilink")
 
 <!-- end list -->
 
@@ -243,11 +243,11 @@
 
   - [대니얼 스터리지](https://ko.wikipedia.org/wiki/대니얼_스터리지 "wikilink")
 
-  - [리 그리피스](https://ko.wikipedia.org/wiki/리_그리피스 "wikilink")
+  - [리 그리피스](../Page/리_그리피스.md "wikilink")
 
   - [크리스 마틴](../Page/크리스_마틴_\(축구_선수\).md "wikilink")
 
-  - [로베르트 마크](https://ko.wikipedia.org/wiki/로베르트_마크 "wikilink")
+  - [로베르트 마크](../Page/로베르트_마크.md "wikilink")
 
   - [블라디미르 베이스](https://ko.wikipedia.org/wiki/블라디미르_베이스_\(1989년\) "wikilink")
 
@@ -281,7 +281,7 @@
 
   - [제임스 매카서](../Page/제임스_매카서.md "wikilink")
 
-  - [얀 그레구시](https://ko.wikipedia.org/wiki/얀_그레구시 "wikilink")
+  - [얀 그레구시](../Page/얀_그레구시.md "wikilink")
 
   - [유라이 쿠츠카](https://ko.wikipedia.org/wiki/유라이_쿠츠카 "wikilink")
 
@@ -307,9 +307,9 @@
   - [2018년 FIFA 월드컵 유럽 지역 예선 C조](../Page/2018년_FIFA_월드컵_유럽_지역_예선_C조.md "wikilink")
   - [2018년 FIFA 월드컵 유럽 지역 예선 D조](../Page/2018년_FIFA_월드컵_유럽_지역_예선_D조.md "wikilink")
   - [2018년 FIFA 월드컵 유럽 지역 예선 E조](../Page/2018년_FIFA_월드컵_유럽_지역_예선_E조.md "wikilink")
-  - [2018년 FIFA 월드컵 유럽 지역 예선 G조](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵_유럽_지역_예선_G조 "wikilink")
-  - [2018년 FIFA 월드컵 유럽 지역 예선 H조](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵_유럽_지역_예선_H조 "wikilink")
-  - [2018년 FIFA 월드컵 유럽 지역 예선 I조](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵_유럽_지역_예선_I조 "wikilink")
+  - [2018년 FIFA 월드컵 유럽 지역 예선 G조](../Page/2018년_FIFA_월드컵_유럽_지역_예선_G조.md "wikilink")
+  - [2018년 FIFA 월드컵 유럽 지역 예선 H조](../Page/2018년_FIFA_월드컵_유럽_지역_예선_H조.md "wikilink")
+  - [2018년 FIFA 월드컵 유럽 지역 예선 I조](../Page/2018년_FIFA_월드컵_유럽_지역_예선_I조.md "wikilink")
   - [2018년 FIFA 월드컵 유럽 지역 예선 플레이오프](../Page/2018년_FIFA_월드컵_유럽_지역_예선_플레이오프.md "wikilink")
 
 [F조](https://ko.wikipedia.org/wiki/분류:2018년_FIFA_월드컵_유럽_지역_예선 "wikilink")

@@ -12,7 +12,7 @@
 
 ## 같이 보기
 
-  - [OpenPAM](https://ko.wikipedia.org/wiki/OpenPAM "wikilink")
+  - [OpenPAM](../Page/OpenPAM.md "wikilink")
   - [fprint](https://ko.wikipedia.org/wiki/fprint "wikilink")
 
 ## 각주

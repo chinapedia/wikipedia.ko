@@ -42,7 +42,7 @@
 <li><a href="https://ko.wikipedia.org/wiki/신하영" title="wikilink">신하영</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/이성경_(1990년)" title="wikilink">이성경</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/최소라" title="wikilink">최소라</a></li>
-<li><a href="https://ko.wikipedia.org/wiki/황소희" title="wikilink">황소희</a></li>
+<li><a href="../Page/황소희.md" title="wikilink">황소희</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/유은비" title="wikilink">유은비</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/정한솔" title="wikilink">정한솔</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/신해남" title="wikilink">신해남</a></li>
@@ -122,7 +122,7 @@
 <li><a href="../Page/장기용_(1992년).md" title="wikilink">장기용</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/정성중" title="wikilink">정성중</a></li>
 <li><a href="../Page/남주혁.md" title="wikilink">남주혁</a></li>
-<li><a href="https://ko.wikipedia.org/wiki/주우재" title="wikilink">주우재</a></li>
+<li><a href="../Page/주우재.md" title="wikilink">주우재</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/김보헌" title="wikilink">김보헌</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/임후석" title="wikilink">임후석</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/김종훈" title="wikilink">김종훈</a></li>

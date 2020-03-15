@@ -31,7 +31,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/케이준돔" title="wikilink">케이준돔</a></p></td>
+<td><p><a href="../Page/케이준돔.md" title="wikilink">케이준돔</a></p></td>
 <td><p>2010년~2016년</p></td>
 <td><p>11,433명</p></td>
 <td></td>

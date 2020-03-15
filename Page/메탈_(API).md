@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ \(API\)](https://ko.wikipedia.org/wiki/_\(API\)).
 
 
-**메탈**(Metal)은 부하가 적은 하드웨어 가속 그래픽 및 연산 [API](https://ko.wikipedia.org/wiki/API "wikilink")로, [iOS 8에](https://ko.wikipedia.org/wiki/iOS_8 "wikilink") 처음 등장했다. 한 API에 [OpenGL](https://ko.wikipedia.org/wiki/OpenGL "wikilink"), [OpenCL](https://ko.wikipedia.org/wiki/OpenCL "wikilink")과 비슷한 기능을 병합하고 있다. 크로노스 그룹의 크로스 플랫폼 [벌컨](https://ko.wikipedia.org/wiki/벌컨_\(API\) "wikilink"), 마이크로소프트의 윈도우용 [Direct3D 12처럼](https://ko.wikipedia.org/wiki/Direct3D "wikilink") 다른 플랫폼의 유사 API의 성능 이점 일부를 iOS에 가져오도록 설계되어 있다. 2015년 6월 8일 이후 메탈은 [애플 A7](../Page/애플_A7.md "wikilink") 이상을 이용하는 iOS 기기 및 [OS X 엘카피탠를](../Page/OS_X_엘카피탠.md "wikilink") 구동하는 2012년 이후 모델의 맥에서 이용이 가능하다. 또, 메탈은 연산 셰이더를 도입함으로써 [GPGPU](https://ko.wikipedia.org/wiki/GPGPU "wikilink") 프로그래밍 기능을 더 개선하였다.
+**메탈**(Metal)은 부하가 적은 하드웨어 가속 그래픽 및 연산 [API](https://ko.wikipedia.org/wiki/API "wikilink")로, [iOS 8에](https://ko.wikipedia.org/wiki/iOS_8 "wikilink") 처음 등장했다. 한 API에 [OpenGL](https://ko.wikipedia.org/wiki/OpenGL "wikilink"), [OpenCL](https://ko.wikipedia.org/wiki/OpenCL "wikilink")과 비슷한 기능을 병합하고 있다. 크로노스 그룹의 크로스 플랫폼 [벌컨](../Page/벌컨_\(API\).md "wikilink"), 마이크로소프트의 윈도우용 [Direct3D 12처럼](https://ko.wikipedia.org/wiki/Direct3D "wikilink") 다른 플랫폼의 유사 API의 성능 이점 일부를 iOS에 가져오도록 설계되어 있다. 2015년 6월 8일 이후 메탈은 [애플 A7](../Page/애플_A7.md "wikilink") 이상을 이용하는 iOS 기기 및 [OS X 엘카피탠를](../Page/OS_X_엘카피탠.md "wikilink") 구동하는 2012년 이후 모델의 맥에서 이용이 가능하다. 또, 메탈은 연산 셰이더를 도입함으로써 [GPGPU](https://ko.wikipedia.org/wiki/GPGPU "wikilink") 프로그래밍 기능을 더 개선하였다.
 
 메탈은 [C++11](https://ko.wikipedia.org/wiki/C++11 "wikilink") 기반의 [셰이딩 언어를](https://ko.wikipedia.org/wiki/셰이딩_언어 "wikilink") 이용하며, [클랭](../Page/클랭.md "wikilink")과 [LLVM](https://ko.wikipedia.org/wiki/LLVM "wikilink")을 이용하여 구현되어 있다.\[1\]
 
@@ -38,7 +38,7 @@ OS X의 메탈 지원은 WWDC 2015에서 발표되었다.
 <td><p><a href="https://ko.wikipedia.org/wiki/밸브_코퍼레이션" title="wikilink">밸브 코퍼레이션</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/소스_(게임_엔진)" title="wikilink">소스 2</a></p></td>
 <td><p>2013년 07월 18일</p></td>
-<td><p>2018년 기준으로 Molten VK를 사용하여 메탈 위에 <a href="https://ko.wikipedia.org/wiki/벌컨_(API)" title="wikilink">벌컨</a> 지원을 제공한다[4]</p></td>
+<td><p>2018년 기준으로 Molten VK를 사용하여 메탈 위에 <a href="../Page/벌컨_(API).md" title="wikilink">벌컨</a> 지원을 제공한다[4]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/F1_2016" title="wikilink">F1 2016</a></p></td>
@@ -264,8 +264,8 @@ OS X의 메탈 지원은 WWDC 2015에서 발표되었다.
 
   - [Direct3D](https://ko.wikipedia.org/wiki/Direct3D "wikilink") – [DirectX 12는](https://ko.wikipedia.org/wiki/DirectX#DirectX_12 "wikilink") 저급(로우 레벨) API를 도입하고 있다.
   - [글라이드](https://ko.wikipedia.org/wiki/글라이드 "wikilink") – 지금은 파산한 [3dfx](https://ko.wikipedia.org/wiki/3dfx "wikilink")의 다른 로우레벨 API
-  - [맨틀](https://ko.wikipedia.org/wiki/맨틀_\(API\) "wikilink") – [AMD](https://ko.wikipedia.org/wiki/AMD "wikilink")의 로우레벨 API
-  - [벌컨](https://ko.wikipedia.org/wiki/벌컨_\(API\) "wikilink") – 부하가 적은 API로서 OpenGL을 계승한다.
+  - [맨틀](../Page/맨틀_\(API\).md "wikilink") – [AMD](https://ko.wikipedia.org/wiki/AMD "wikilink")의 로우레벨 API
+  - [벌컨](../Page/벌컨_\(API\).md "wikilink") – 부하가 적은 API로서 OpenGL을 계승한다.
 
 ## 참고문헌
 

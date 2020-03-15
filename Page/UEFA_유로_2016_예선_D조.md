@@ -258,7 +258,7 @@
 
 <!-- end list -->
 
-  - [아르카디우시 밀리크](https://ko.wikipedia.org/wiki/아르카디우시_밀리크 "wikilink")
+  - [아르카디우시 밀리크](../Page/아르카디우시_밀리크.md "wikilink")
 
 <!-- end list -->
 
@@ -342,7 +342,7 @@
 
   - [카밀 글리크](../Page/카밀_글리크.md "wikilink")
 
-  - [바르토시 카푸스트카](https://ko.wikipedia.org/wiki/바르토시_카푸스트카 "wikilink")
+  - [바르토시 카푸스트카](../Page/바르토시_카푸스트카.md "wikilink")
 
   - [크리슈토프 몽친스키](https://ko.wikipedia.org/wiki/크리슈토프_몽친스키 "wikilink")
 
@@ -473,11 +473,11 @@
   - [UEFA 유로 2016 예선 A조](../Page/UEFA_유로_2016_예선_A조.md "wikilink")
   - [UEFA 유로 2016 예선 B조](../Page/UEFA_유로_2016_예선_B조.md "wikilink")
   - [UEFA 유로 2016 예선 C조](../Page/UEFA_유로_2016_예선_C조.md "wikilink")
-  - [UEFA 유로 2016 예선 E조](https://ko.wikipedia.org/wiki/UEFA_유로_2016_예선_E조 "wikilink")
-  - [UEFA 유로 2016 예선 F조](https://ko.wikipedia.org/wiki/UEFA_유로_2016_예선_F조 "wikilink")
-  - [UEFA 유로 2016 예선 G조](https://ko.wikipedia.org/wiki/UEFA_유로_2016_예선_G조 "wikilink")
-  - [UEFA 유로 2016 예선 H조](https://ko.wikipedia.org/wiki/UEFA_유로_2016_예선_H조 "wikilink")
-  - [UEFA 유로 2016 예선 I조](https://ko.wikipedia.org/wiki/UEFA_유로_2016_예선_I조 "wikilink")
+  - [UEFA 유로 2016 예선 E조](../Page/UEFA_유로_2016_예선_E조.md "wikilink")
+  - [UEFA 유로 2016 예선 F조](../Page/UEFA_유로_2016_예선_F조.md "wikilink")
+  - [UEFA 유로 2016 예선 G조](../Page/UEFA_유로_2016_예선_G조.md "wikilink")
+  - [UEFA 유로 2016 예선 H조](../Page/UEFA_유로_2016_예선_H조.md "wikilink")
+  - [UEFA 유로 2016 예선 I조](../Page/UEFA_유로_2016_예선_I조.md "wikilink")
 
 ## 각주
 

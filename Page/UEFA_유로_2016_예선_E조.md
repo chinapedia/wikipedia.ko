@@ -468,9 +468,9 @@
   - [UEFA 유로 2016 예선 B조](../Page/UEFA_유로_2016_예선_B조.md "wikilink")
   - [UEFA 유로 2016 예선 C조](../Page/UEFA_유로_2016_예선_C조.md "wikilink")
   - [UEFA 유로 2016 예선 D조](../Page/UEFA_유로_2016_예선_D조.md "wikilink")
-  - [UEFA 유로 2016 예선 F조](https://ko.wikipedia.org/wiki/UEFA_유로_2016_예선_F조 "wikilink")
-  - [UEFA 유로 2016 예선 G조](https://ko.wikipedia.org/wiki/UEFA_유로_2016_예선_G조 "wikilink")
-  - [UEFA 유로 2016 예선 H조](https://ko.wikipedia.org/wiki/UEFA_유로_2016_예선_H조 "wikilink")
-  - [UEFA 유로 2016 예선 I조](https://ko.wikipedia.org/wiki/UEFA_유로_2016_예선_I조 "wikilink")
+  - [UEFA 유로 2016 예선 F조](../Page/UEFA_유로_2016_예선_F조.md "wikilink")
+  - [UEFA 유로 2016 예선 G조](../Page/UEFA_유로_2016_예선_G조.md "wikilink")
+  - [UEFA 유로 2016 예선 H조](../Page/UEFA_유로_2016_예선_H조.md "wikilink")
+  - [UEFA 유로 2016 예선 I조](../Page/UEFA_유로_2016_예선_I조.md "wikilink")
 
 [E조](https://ko.wikipedia.org/wiki/분류:UEFA_유로_2016_예선 "wikilink")

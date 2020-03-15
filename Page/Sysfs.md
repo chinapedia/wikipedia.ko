@@ -34,7 +34,7 @@ sysfs는 `/sys`라는 마운트 지점 아래에 마운트된다.
 
 ## sysfs와 사용자 공간
 
-sysfs는 여러 유틸리티들이 하드웨어 및 이에 연결되는 드라이버([커널 모듈](https://ko.wikipedia.org/wiki/적재_가능_커널_모듈 "wikilink"), 예를 들어 [udev](https://ko.wikipedia.org/wiki/udev "wikilink")나 [HAL](https://ko.wikipedia.org/wiki/HAL_\(소프트웨어\) "wikilink"))의 정보에 접근하는데 쓰인다. 과거에 [procfs](https://ko.wikipedia.org/wiki/procfs "wikilink")를 통해 수집된 정보에 접근하기 위해 스크립트가 작성되며 일부 스크립트들은 장치 드라이버와 장치를 이들의 속성을 통해 구성한다.
+sysfs는 여러 유틸리티들이 하드웨어 및 이에 연결되는 드라이버([커널 모듈](../Page/적재_가능_커널_모듈.md "wikilink"), 예를 들어 [udev](https://ko.wikipedia.org/wiki/udev "wikilink")나 [HAL](https://ko.wikipedia.org/wiki/HAL_\(소프트웨어\) "wikilink"))의 정보에 접근하는데 쓰인다. 과거에 [procfs](https://ko.wikipedia.org/wiki/procfs "wikilink")를 통해 수집된 정보에 접근하기 위해 스크립트가 작성되며 일부 스크립트들은 장치 드라이버와 장치를 이들의 속성을 통해 구성한다.
 
 ## 같이 보기
 

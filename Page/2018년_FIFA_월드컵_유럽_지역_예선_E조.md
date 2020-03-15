@@ -231,9 +231,9 @@
 
   - [세르게이 히주니첸코](https://ko.wikipedia.org/wiki/세르게이_히주니첸코 "wikilink")
 
-  - [아드리안 포파](https://ko.wikipedia.org/wiki/아드리안_포파 "wikilink")
+  - [아드리안 포파](../Page/아드리안_포파.md "wikilink")
 
-  - [보그단 스탄쿠](https://ko.wikipedia.org/wiki/보그단_스탄쿠 "wikilink")
+  - [보그단 스탄쿠](../Page/보그단_스탄쿠.md "wikilink")
 
   - [헨리크 미키타리안](../Page/헨리크_미키타리안.md "wikilink")
 
@@ -281,11 +281,11 @@
 
   - [카밀 그로시츠키](https://ko.wikipedia.org/wiki/카밀_그로시츠키 "wikilink")
 
-  - [바르토시 카푸스트카](https://ko.wikipedia.org/wiki/바르토시_카푸스트카 "wikilink")
+  - [바르토시 카푸스트카](../Page/바르토시_카푸스트카.md "wikilink")
 
   - [우카시 피슈체크](https://ko.wikipedia.org/wiki/우카시_피슈체크 "wikilink")
 
-  - [알렉산드루 킵치우](https://ko.wikipedia.org/wiki/알렉산드루_킵치우 "wikilink")
+  - [알렉산드루 킵치우](../Page/알렉산드루_킵치우.md "wikilink")
 
   - [러즈반 마린](https://ko.wikipedia.org/wiki/러즈반_마린 "wikilink")
 
@@ -308,10 +308,10 @@
   - [2018년 FIFA 월드컵 유럽 지역 예선 B조](../Page/2018년_FIFA_월드컵_유럽_지역_예선_B조.md "wikilink")
   - [2018년 FIFA 월드컵 유럽 지역 예선 C조](../Page/2018년_FIFA_월드컵_유럽_지역_예선_C조.md "wikilink")
   - [2018년 FIFA 월드컵 유럽 지역 예선 D조](../Page/2018년_FIFA_월드컵_유럽_지역_예선_D조.md "wikilink")
-  - [2018년 FIFA 월드컵 유럽 지역 예선 F조](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵_유럽_지역_예선_F조 "wikilink")
-  - [2018년 FIFA 월드컵 유럽 지역 예선 G조](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵_유럽_지역_예선_G조 "wikilink")
-  - [2018년 FIFA 월드컵 유럽 지역 예선 H조](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵_유럽_지역_예선_H조 "wikilink")
-  - [2018년 FIFA 월드컵 유럽 지역 예선 I조](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵_유럽_지역_예선_I조 "wikilink")
+  - [2018년 FIFA 월드컵 유럽 지역 예선 F조](../Page/2018년_FIFA_월드컵_유럽_지역_예선_F조.md "wikilink")
+  - [2018년 FIFA 월드컵 유럽 지역 예선 G조](../Page/2018년_FIFA_월드컵_유럽_지역_예선_G조.md "wikilink")
+  - [2018년 FIFA 월드컵 유럽 지역 예선 H조](../Page/2018년_FIFA_월드컵_유럽_지역_예선_H조.md "wikilink")
+  - [2018년 FIFA 월드컵 유럽 지역 예선 I조](../Page/2018년_FIFA_월드컵_유럽_지역_예선_I조.md "wikilink")
   - [2018년 FIFA 월드컵 유럽 지역 예선 플레이오프](../Page/2018년_FIFA_월드컵_유럽_지역_예선_플레이오프.md "wikilink")
 
 ## 각주

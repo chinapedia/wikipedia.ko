@@ -39,7 +39,7 @@
 <td><ul>
 <li>AEM-7 4901의 경우 퇴역 후 <a href="https://ko.wikipedia.org/wiki/볼티모어" title="wikilink">볼티모어</a>에서 리버사이드 야드로 이전</li>
 <li><a href="https://ko.wikipedia.org/wiki/2017년" title="wikilink">2017년</a>부터 <a href="https://ko.wikipedia.org/wiki/2018년" title="wikilink">2018년</a>까지 순차별로 퇴역될 예정<br />
-대체 차량: <a href="https://ko.wikipedia.org/wiki/지멘스_차저" title="wikilink">지멘스 차저</a></li>
+대체 차량: <a href="../Page/지멘스_차저.md" title="wikilink">지멘스 차저</a></li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -50,7 +50,7 @@
 <td><p>4910 ~ 4915</p></td>
 <td><ul>
 <li><a href="https://ko.wikipedia.org/wiki/2017년" title="wikilink">2017년</a>부터 <a href="https://ko.wikipedia.org/wiki/2018년" title="wikilink">2018년</a>까지 순차별로 퇴역될 예정<br />
-대체 차량: <a href="https://ko.wikipedia.org/wiki/지멘스_차저" title="wikilink">지멘스 차저</a></li>
+대체 차량: <a href="../Page/지멘스_차저.md" title="wikilink">지멘스 차저</a></li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -65,8 +65,8 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:MARC_29_(9116980755).jpg" title="wikilink">150px</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/웹텍" title="wikilink">MPI</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/MPI_MPX프레스" title="wikilink">MP36PH-3C</a></p></td>
+<td><p><a href="../Page/웹텍.md" title="wikilink">MPI</a></p></td>
+<td><p><a href="../Page/MPI_MPX프레스.md" title="wikilink">MP36PH-3C</a></p></td>
 <td><p>26</p></td>
 <td><p>10 ~ 35</p></td>
 <td><ul>
@@ -80,7 +80,7 @@
 <td><p>1</p></td>
 <td><p>68</p></td>
 <td><ul>
-<li>일부 차량의 경우 <a href="https://ko.wikipedia.org/wiki/선레일" title="wikilink">선레일</a>에서 운행[6][7]</li>
+<li>일부 차량의 경우 <a href="../Page/선레일.md" title="wikilink">선레일</a>에서 운행[6][7]</li>
 </ul></td>
 </tr>
 </tbody>

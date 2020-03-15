@@ -242,7 +242,7 @@
 
   - [마리오 만주키치](https://ko.wikipedia.org/wiki/마리오_만주키치 "wikilink")
 
-  - [젱크 토순](https://ko.wikipedia.org/wiki/젱크_토순 "wikilink")
+  - [젱크 토순](../Page/젱크_토순.md "wikilink")
 
 <!-- end list -->
 
@@ -276,9 +276,9 @@
 
   - [하칸 찰하노을루](../Page/하칸_찰하노을루.md "wikilink")
 
-  - [볼칸 셴](https://ko.wikipedia.org/wiki/볼칸_셴 "wikilink")
+  - [볼칸 셴](../Page/볼칸_셴.md "wikilink")
 
-  - [오잔 투판](https://ko.wikipedia.org/wiki/오잔_투판 "wikilink")
+  - [오잔 투판](../Page/오잔_투판.md "wikilink")
 
   - [부라크 이을마즈](../Page/부라크_이을마즈.md "wikilink")
 
@@ -308,7 +308,7 @@
 
   - [비외르든 베르그만 시귀르다르손](https://ko.wikipedia.org/wiki/비외르든_베르그만_시귀르다르손 "wikilink")
 
-  - [라그나르 시귀르드손](https://ko.wikipedia.org/wiki/라그나르_시귀르드손 "wikilink")
+  - [라그나르 시귀르드손](../Page/라그나르_시귀르드손.md "wikilink")
 
   - [발론 베리샤](https://ko.wikipedia.org/wiki/발론_베리샤 "wikilink")
 

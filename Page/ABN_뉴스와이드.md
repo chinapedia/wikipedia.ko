@@ -22,7 +22,7 @@
 
   - [ABN 뉴스투데이](https://ko.wikipedia.org/wiki/ABN_뉴스투데이 "wikilink")
   - [ABN 뉴스매거진](https://ko.wikipedia.org/wiki/ABN_뉴스매거진 "wikilink")
-  - [ABN 뉴스위크](https://ko.wikipedia.org/wiki/ABN_뉴스위크 "wikilink")
+  - [ABN 뉴스위크](../Page/ABN_뉴스위크.md "wikilink")
 
 ## 관련 항목
 

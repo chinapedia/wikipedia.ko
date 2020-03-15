@@ -284,7 +284,7 @@
 
   - [라자 나잉골란](../Page/라자_나잉골란.md "wikilink")
 
-  - [미키 바추아이](https://ko.wikipedia.org/wiki/미키_바추아이 "wikilink")
+  - [미키 바추아이](../Page/미키_바추아이.md "wikilink")
 
   - [베다드 이비셰비치](https://ko.wikipedia.org/wiki/베다드_이비셰비치 "wikilink")
 
@@ -298,7 +298,7 @@
 
   - [니르 비톤](https://ko.wikipedia.org/wiki/니르_비톤 "wikilink")
 
-  - [에란 자하비](https://ko.wikipedia.org/wiki/에란_자하비 "wikilink")
+  - [에란 자하비](../Page/에란_자하비.md "wikilink")
 
   - [에런 램지](https://ko.wikipedia.org/wiki/에런_램지 "wikilink")
 
@@ -336,9 +336,9 @@
 
   - [길 베르무트](https://ko.wikipedia.org/wiki/길_베르무트 "wikilink")
 
-  - [데이비드 코터릴](https://ko.wikipedia.org/wiki/데이비드_코터릴 "wikilink")
+  - [데이비드 코터릴](../Page/데이비드_코터릴.md "wikilink")
 
-  - [핼 롭슨카누](https://ko.wikipedia.org/wiki/핼_롭슨카누 "wikilink")
+  - [핼 롭슨카누](../Page/핼_롭슨카누.md "wikilink")
 
 <!-- end list -->
 
@@ -427,13 +427,13 @@
   - [UEFA 유로 2016 예선](../Page/UEFA_유로_2016_예선.md "wikilink")
   - [UEFA 유로 2016 예선 플레이오프](../Page/UEFA_유로_2016_예선_플레이오프.md "wikilink")
   - [UEFA 유로 2016 예선 A조](../Page/UEFA_유로_2016_예선_A조.md "wikilink")
-  - [UEFA 유로 2016 예선 C조](https://ko.wikipedia.org/wiki/UEFA_유로_2016_예선_C조 "wikilink")
-  - [UEFA 유로 2016 예선 D조](https://ko.wikipedia.org/wiki/UEFA_유로_2016_예선_D조 "wikilink")
-  - [UEFA 유로 2016 예선 E조](https://ko.wikipedia.org/wiki/UEFA_유로_2016_예선_E조 "wikilink")
-  - [UEFA 유로 2016 예선 F조](https://ko.wikipedia.org/wiki/UEFA_유로_2016_예선_F조 "wikilink")
-  - [UEFA 유로 2016 예선 G조](https://ko.wikipedia.org/wiki/UEFA_유로_2016_예선_G조 "wikilink")
-  - [UEFA 유로 2016 예선 H조](https://ko.wikipedia.org/wiki/UEFA_유로_2016_예선_H조 "wikilink")
-  - [UEFA 유로 2016 예선 I조](https://ko.wikipedia.org/wiki/UEFA_유로_2016_예선_I조 "wikilink")
+  - [UEFA 유로 2016 예선 C조](../Page/UEFA_유로_2016_예선_C조.md "wikilink")
+  - [UEFA 유로 2016 예선 D조](../Page/UEFA_유로_2016_예선_D조.md "wikilink")
+  - [UEFA 유로 2016 예선 E조](../Page/UEFA_유로_2016_예선_E조.md "wikilink")
+  - [UEFA 유로 2016 예선 F조](../Page/UEFA_유로_2016_예선_F조.md "wikilink")
+  - [UEFA 유로 2016 예선 G조](../Page/UEFA_유로_2016_예선_G조.md "wikilink")
+  - [UEFA 유로 2016 예선 H조](../Page/UEFA_유로_2016_예선_H조.md "wikilink")
+  - [UEFA 유로 2016 예선 I조](../Page/UEFA_유로_2016_예선_I조.md "wikilink")
 
 ## 각주
 

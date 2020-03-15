@@ -151,7 +151,7 @@
 <td><p>총 8회</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/카와케_슌사쿠" title="wikilink">카와케 슌사쿠</a> 외</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/이노우에_유미코" title="wikilink">이노우에 유미코</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미카미_히로시" title="wikilink">미카미 히로시</a>,<a href="https://ko.wikipedia.org/wiki/야나기바_토시로" title="wikilink">야나기바 토시로</a>,<a href="https://ko.wikipedia.org/wiki/코니시_마나미" title="wikilink">코니시 마나미</a>,<a href="https://ko.wikipedia.org/wiki/쿠니무라_준" title="wikilink">쿠니무라 준</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/미카미_히로시" title="wikilink">미카미 히로시</a>,<a href="https://ko.wikipedia.org/wiki/야나기바_토시로" title="wikilink">야나기바 토시로</a>,<a href="https://ko.wikipedia.org/wiki/코니시_마나미" title="wikilink">코니시 마나미</a>,<a href="../Page/쿠니무라_준.md" title="wikilink">쿠니무라 준</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -992,7 +992,7 @@
 <td><p>총 5회</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/카와이_하야토" title="wikilink">카와이 하야토</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/요시다_야요이" title="wikilink">요시다 야요이</a></p></td>
-<td><p><a href="../Page/카이_(1994년).md" title="wikilink">카이</a> (<a href="https://ko.wikipedia.org/wiki/EXO" title="wikilink">EXO</a>), <a href="https://ko.wikipedia.org/wiki/쿠라시나_카나" title="wikilink">쿠라시나 카나</a>, <a href="https://ko.wikipedia.org/wiki/후루하타_세이카" title="wikilink">후루하타 세이카</a>, <a href="https://ko.wikipedia.org/wiki/켄타로" title="wikilink">켄타로</a>, <a href="https://ko.wikipedia.org/wiki/타카다_쇼코" title="wikilink">타카다 쇼코</a></p></td>
+<td><p><a href="../Page/카이_(1994년).md" title="wikilink">카이</a> (<a href="https://ko.wikipedia.org/wiki/EXO" title="wikilink">EXO</a>), <a href="https://ko.wikipedia.org/wiki/쿠라시나_카나" title="wikilink">쿠라시나 카나</a>, <a href="https://ko.wikipedia.org/wiki/후루하타_세이카" title="wikilink">후루하타 세이카</a>, <a href="../Page/켄타로.md" title="wikilink">켄타로</a>, <a href="https://ko.wikipedia.org/wiki/타카다_쇼코" title="wikilink">타카다 쇼코</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/무코다_구니코" title="wikilink">무코다 구니코</a></p></td>
 <td></td>
 </tr>
@@ -1073,7 +1073,7 @@
 <td><p>총 5회</p></td>
 <td><p>다케 마사하루</p></td>
 <td><p>아다치 신</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/타마키_히로시" title="wikilink">타마키 히로시</a>, <a href="https://ko.wikipedia.org/wiki/우치다_리오" title="wikilink">우치다 리오</a>, <a href="https://ko.wikipedia.org/wiki/마치다_케이타" title="wikilink">마치다 케이타</a>, <a href="https://ko.wikipedia.org/wiki/시부카와_키요히코" title="wikilink">시부카와 키요히코</a>, <a href="https://ko.wikipedia.org/wiki/이토_아유미" title="wikilink">이토 아유미</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/타마키_히로시" title="wikilink">타마키 히로시</a>, <a href="../Page/우치다_리오.md" title="wikilink">우치다 리오</a>, <a href="https://ko.wikipedia.org/wiki/마치다_케이타" title="wikilink">마치다 케이타</a>, <a href="https://ko.wikipedia.org/wiki/시부카와_키요히코" title="wikilink">시부카와 키요히코</a>, <a href="https://ko.wikipedia.org/wiki/이토_아유미" title="wikilink">이토 아유미</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/하다_케이스케" title="wikilink">하다 케이스케</a></p></td>
 <td></td>
 </tr>

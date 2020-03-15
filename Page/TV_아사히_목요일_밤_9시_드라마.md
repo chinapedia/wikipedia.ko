@@ -391,8 +391,8 @@
 
 <!-- end list -->
 
-  - 《[스페셜리스트](https://ko.wikipedia.org/wiki/스페셜리스트_\(드라마\) "wikilink")》(주연:[쿠사나기 츠요시](https://ko.wikipedia.org/wiki/쿠사나기_츠요시 "wikilink"))
-  - 《[굿 파트너 무적의 변호사](https://ko.wikipedia.org/wiki/굿_파트너_무적의_변호사 "wikilink")》(주연:[타케노우치 유타카](https://ko.wikipedia.org/wiki/다케노우치_유타카 "wikilink"))
+  - 《[스페셜리스트](../Page/스페셜리스트_\(드라마\).md "wikilink")》(주연:[쿠사나기 츠요시](https://ko.wikipedia.org/wiki/쿠사나기_츠요시 "wikilink"))
+  - 《[굿 파트너 무적의 변호사](../Page/굿_파트너_무적의_변호사.md "wikilink")》(주연:[타케노우치 유타카](https://ko.wikipedia.org/wiki/다케노우치_유타카 "wikilink"))
   - 《[처음 뵙겠습니다, 사랑합니다](https://ko.wikipedia.org/wiki/처음_뵙겠습니다,_사랑합니다 "wikilink").》(주연:[오노 마치코](https://ko.wikipedia.org/wiki/오노_마치코 "wikilink"))
   - 《닥터-X\~외과의·다이몬 미치코\~(제4시리즈)》(주연:요네쿠라 료코)
 

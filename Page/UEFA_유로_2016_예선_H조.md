@@ -451,7 +451,7 @@
   - [UEFA 유로 2016 예선 E조](../Page/UEFA_유로_2016_예선_E조.md "wikilink")
   - [UEFA 유로 2016 예선 F조](../Page/UEFA_유로_2016_예선_F조.md "wikilink")
   - [UEFA 유로 2016 예선 G조](../Page/UEFA_유로_2016_예선_G조.md "wikilink")
-  - [UEFA 유로 2016 예선 I조](https://ko.wikipedia.org/wiki/UEFA_유로_2016_예선_I조 "wikilink")
+  - [UEFA 유로 2016 예선 I조](../Page/UEFA_유로_2016_예선_I조.md "wikilink")
 
 ## 각주
 

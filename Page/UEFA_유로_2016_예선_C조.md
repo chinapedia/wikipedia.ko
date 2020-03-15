@@ -254,7 +254,7 @@
 
 <!-- end list -->
 
-  - [아담 네메츠](https://ko.wikipedia.org/wiki/아담_네메츠 "wikilink")
+  - [아담 네메츠](../Page/아담_네메츠.md "wikilink")
 
   - [다비드 실바](https://ko.wikipedia.org/wiki/다비드_실바 "wikilink")
 
@@ -266,13 +266,13 @@
 
 <!-- end list -->
 
-  - [스타니슬라우 드라훈](https://ko.wikipedia.org/wiki/스타니슬라우_드라훈 "wikilink")
+  - [스타니슬라우 드라훈](../Page/스타니슬라우_드라훈.md "wikilink")
 
   - [미하일 고르데이추크](https://ko.wikipedia.org/wiki/미하일_고르데이추크 "wikilink")
 
   - [티모페이 칼라초프](https://ko.wikipedia.org/wiki/티모페이_칼라초프 "wikilink")
 
-  - [세르게이 코르닐렌코](https://ko.wikipedia.org/wiki/세르게이_코르닐렌코 "wikilink")
+  - [세르게이 코르닐렌코](../Page/세르게이_코르닐렌코.md "wikilink")
 
   - [라르스 크로그 게르손](https://ko.wikipedia.org/wiki/라르스_크로그_게르손 "wikilink")
 
@@ -280,7 +280,7 @@
 
   - [유라이 쿠츠카](https://ko.wikipedia.org/wiki/유라이_쿠츠카 "wikilink")
 
-  - [로베르트 마크](https://ko.wikipedia.org/wiki/로베르트_마크 "wikilink")
+  - [로베르트 마크](../Page/로베르트_마크.md "wikilink")
 
   - [세르지오 부스케츠](https://ko.wikipedia.org/wiki/세르지오_부스케츠 "wikilink")
 
@@ -290,7 +290,7 @@
 
   - [예우헨 코노플랸카](https://ko.wikipedia.org/wiki/예우헨_코노플랸카 "wikilink")
 
-  - [세르히 시도르추크](https://ko.wikipedia.org/wiki/세르히_시도르추크 "wikilink")
+  - [세르히 시도르추크](../Page/세르히_시도르추크.md "wikilink")
 
 <!-- end list -->
 
@@ -316,9 +316,9 @@
 
   - [페테르 페카릭](https://ko.wikipedia.org/wiki/페테르_페카릭 "wikilink")
 
-  - [코르넬 살라타](https://ko.wikipedia.org/wiki/코르넬_살라타 "wikilink")
+  - [코르넬 살라타](../Page/코르넬_살라타.md "wikilink")
 
-  - [스타니슬라우 셰스타크](https://ko.wikipedia.org/wiki/스타니슬라우_셰스타크 "wikilink")
+  - [스타니슬라우 셰스타크](../Page/스타니슬라우_셰스타크.md "wikilink")
 
   - [미로슬라우 스토흐](https://ko.wikipedia.org/wiki/미로슬라우_스토흐 "wikilink")
 
@@ -440,11 +440,11 @@
   - [UEFA 유로 2016 예선 플레이오프](../Page/UEFA_유로_2016_예선_플레이오프.md "wikilink")
   - [UEFA 유로 2016 예선 A조](../Page/UEFA_유로_2016_예선_A조.md "wikilink")
   - [UEFA 유로 2016 예선 B조](../Page/UEFA_유로_2016_예선_B조.md "wikilink")
-  - [UEFA 유로 2016 예선 D조](https://ko.wikipedia.org/wiki/UEFA_유로_2016_예선_D조 "wikilink")
-  - [UEFA 유로 2016 예선 E조](https://ko.wikipedia.org/wiki/UEFA_유로_2016_예선_E조 "wikilink")
-  - [UEFA 유로 2016 예선 F조](https://ko.wikipedia.org/wiki/UEFA_유로_2016_예선_F조 "wikilink")
-  - [UEFA 유로 2016 예선 G조](https://ko.wikipedia.org/wiki/UEFA_유로_2016_예선_G조 "wikilink")
-  - [UEFA 유로 2016 예선 H조](https://ko.wikipedia.org/wiki/UEFA_유로_2016_예선_H조 "wikilink")
-  - [UEFA 유로 2016 예선 I조](https://ko.wikipedia.org/wiki/UEFA_유로_2016_예선_I조 "wikilink")
+  - [UEFA 유로 2016 예선 D조](../Page/UEFA_유로_2016_예선_D조.md "wikilink")
+  - [UEFA 유로 2016 예선 E조](../Page/UEFA_유로_2016_예선_E조.md "wikilink")
+  - [UEFA 유로 2016 예선 F조](../Page/UEFA_유로_2016_예선_F조.md "wikilink")
+  - [UEFA 유로 2016 예선 G조](../Page/UEFA_유로_2016_예선_G조.md "wikilink")
+  - [UEFA 유로 2016 예선 H조](../Page/UEFA_유로_2016_예선_H조.md "wikilink")
+  - [UEFA 유로 2016 예선 I조](../Page/UEFA_유로_2016_예선_I조.md "wikilink")
 
 [C조](https://ko.wikipedia.org/wiki/분류:UEFA_유로_2016_예선 "wikilink")

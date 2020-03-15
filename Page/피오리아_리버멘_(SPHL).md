@@ -24,7 +24,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/피오리아_시빅_센터" title="wikilink">피오리아 시빅 센터</a></p></td>
+<td><p><a href="../Page/피오리아_시빅_센터.md" title="wikilink">피오리아 시빅 센터</a></p></td>
 <td><p>2013년~현재</p></td>
 <td><p>9,919명</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/일리노이주" title="wikilink">일리노이주</a> <a href="https://ko.wikipedia.org/wiki/피오리아_(일리노이주)" title="wikilink">피오리아</a></p></td>

@@ -79,7 +79,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/윈터파크_(플로리다주)" title="wikilink">윈터파크</a></p></td>
 <td><p>풀세일 유니버시티</p></td>
 <td><p>400</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/베일리" title="wikilink">베일리</a> vs. <a href="https://ko.wikipedia.org/wiki/사샤_뱅크스" title="wikilink">사샤 뱅크스</a> (NXT 위민스 챔피언쉽, 30분 아이언 맨 매치)</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/베일리" title="wikilink">베일리</a> vs. <a href="../Page/사샤_뱅크스.md" title="wikilink">사샤 뱅크스</a> (NXT 위민스 챔피언쉽, 30분 아이언 맨 매치)</p></td>
 </tr>
 <tr class="odd">
 <td><p>2015년 12월 16일</p></td>
@@ -93,7 +93,7 @@
 <td><p>2016년 4월 1일</p></td>
 <td><p>NXT 테이크오버:댈러스</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/댈러스" title="wikilink">댈러스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/케이_배일리_허친슨_컨벤션_센터" title="wikilink">케이 배일리 허친슨 컨벤션 센터</a></p></td>
+<td><p><a href="../Page/케이_배일리_허친슨_컨벤션_센터.md" title="wikilink">케이 배일리 허친슨 컨벤션 센터</a></p></td>
 <td><p>9,000</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/프린스_데빗" title="wikilink">핀 베일러</a> vs. <a href="https://ko.wikipedia.org/wiki/사모아_조" title="wikilink">사모아 조</a> (NXT 챔피언쉽)</p></td>
 </tr>

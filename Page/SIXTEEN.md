@@ -114,7 +114,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/소미" title="wikilink">소미</a></p></td>
 <td><p>2001년 3월 9일</p></td>
 <td><p>, , </p></td>
-<td><p>탈락 후 <a href="https://ko.wikipedia.org/wiki/PRODUCE_101" title="wikilink">PRODUCE 101</a> 우승. <a href="https://ko.wikipedia.org/wiki/아이오아이" title="wikilink">아이오아이</a> 데뷔</p></td>
+<td><p>탈락 후 <a href="https://ko.wikipedia.org/wiki/PRODUCE_101" title="wikilink">PRODUCE 101</a> 우승. <a href="../Page/아이오아이.md" title="wikilink">아이오아이</a> 데뷔</p></td>
 </tr>
 <tr class="odd">
 <td><p>15</p></td>
@@ -250,7 +250,7 @@
 </tr>
 <tr class="odd">
 <td><p>05</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/전소미" title="wikilink">소미</a></p></td>
+<td><p><a href="../Page/전소미.md" title="wikilink">소미</a></p></td>
 <td><p>2001년 3월 9일</p></td>
 <td><p>, , </p></td>
 </tr>
@@ -276,11 +276,11 @@
   - 쯔위는 SIXTEEN에 도전한 연습생들 중에서 미모가 가장 뛰어났으며 팬들의 지지를 가장 많이 받았다.
   - 모모는 다른 연습생들에 비해 댄스 실력이 압도적으로 뛰어나 그것이 아까워 발탁했다.
 
-다만 [전소미](https://ko.wikipedia.org/wiki/전소미 "wikilink")의 경우 선발이 유력했음에도 불구하고 탈락했는데 박진영은 [전소미](https://ko.wikipedia.org/wiki/전소미 "wikilink")도 직권으로 선발할 수 있었으나 선발하지 않았다. 이에 대해 박진영은 [전소미](https://ko.wikipedia.org/wiki/전소미 "wikilink")가 아직 "덜 여물어서 다 자랄때 까지 기다려야 한다"는 말로 [전소미](https://ko.wikipedia.org/wiki/전소미 "wikilink")를 탈락시킨 이유를 말했다.
+다만 [전소미](../Page/전소미.md "wikilink")의 경우 선발이 유력했음에도 불구하고 탈락했는데 박진영은 [전소미](../Page/전소미.md "wikilink")도 직권으로 선발할 수 있었으나 선발하지 않았다. 이에 대해 박진영은 [전소미](../Page/전소미.md "wikilink")가 아직 "덜 여물어서 다 자랄때 까지 기다려야 한다"는 말로 [전소미](../Page/전소미.md "wikilink")를 탈락시킨 이유를 말했다.
 
 ## 방송 이후
 
-최종적으로 트와이스엔 나연, 정연, 모모, 사나, 지효, 미나, 다현, 채영, 쯔위가 합격했다. 민영은 퇴사 이후 학업을 이어가고 있으며, [지원은](https://ko.wikipedia.org/wiki/박지원_\(1998년\) "wikilink") [빅히트 엔터테인먼트에](../Page/빅히트_엔터테인먼트.md "wikilink") 입사했다. 소미는 [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink")에 방송하는 걸그룹 데뷔 서바이벌 [PRODUCE 101에](https://ko.wikipedia.org/wiki/PRODUCE_101 "wikilink") 출연해 1위의 성적으로 프로젝트 걸 그룹 [아이오아이](https://ko.wikipedia.org/wiki/아이오아이 "wikilink")의 멤버로 데뷔하였다. 이후 [지원](https://ko.wikipedia.org/wiki/박지원_\(1998년\) "wikilink"), 은서, 나띠는 퇴사하여 [아이돌학교](https://ko.wikipedia.org/wiki/아이돌학교 "wikilink")에 출연했다. 이 중 [지원만](https://ko.wikipedia.org/wiki/박지원_\(1998년\) "wikilink") 걸그룹 [프로미스 9의](https://ko.wikipedia.org/wiki/fromis_9 "wikilink") 멤버로 데뷔하였다. [채연은](https://ko.wikipedia.org/wiki/이채연_\(가수\) "wikilink") [WM 엔터테인먼트로](../Page/WM_엔터테인먼트.md "wikilink") 이적 후 [프로듀스 48에](https://ko.wikipedia.org/wiki/프로듀스_48 "wikilink") 참가해 프로젝트 걸그룹 [아이즈원](https://ko.wikipedia.org/wiki/아이즈원 "wikilink")의 멤버로 데뷔하였다. [채연의](https://ko.wikipedia.org/wiki/이채연_\(가수\) "wikilink") 동생인 [채령은](../Page/채령_\(가수\).md "wikilink") [ITZY](https://ko.wikipedia.org/wiki/ITZY "wikilink")의 멤버로 데뷔하였다.
+최종적으로 트와이스엔 나연, 정연, 모모, 사나, 지효, 미나, 다현, 채영, 쯔위가 합격했다. 민영은 퇴사 이후 학업을 이어가고 있으며, [지원은](https://ko.wikipedia.org/wiki/박지원_\(1998년\) "wikilink") [빅히트 엔터테인먼트에](../Page/빅히트_엔터테인먼트.md "wikilink") 입사했다. 소미는 [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink")에 방송하는 걸그룹 데뷔 서바이벌 [PRODUCE 101에](https://ko.wikipedia.org/wiki/PRODUCE_101 "wikilink") 출연해 1위의 성적으로 프로젝트 걸 그룹 [아이오아이](../Page/아이오아이.md "wikilink")의 멤버로 데뷔하였다. 이후 [지원](https://ko.wikipedia.org/wiki/박지원_\(1998년\) "wikilink"), 은서, 나띠는 퇴사하여 [아이돌학교](https://ko.wikipedia.org/wiki/아이돌학교 "wikilink")에 출연했다. 이 중 [지원만](https://ko.wikipedia.org/wiki/박지원_\(1998년\) "wikilink") 걸그룹 [프로미스 9의](https://ko.wikipedia.org/wiki/fromis_9 "wikilink") 멤버로 데뷔하였다. [채연은](https://ko.wikipedia.org/wiki/이채연_\(가수\) "wikilink") [WM 엔터테인먼트로](../Page/WM_엔터테인먼트.md "wikilink") 이적 후 [프로듀스 48에](https://ko.wikipedia.org/wiki/프로듀스_48 "wikilink") 참가해 프로젝트 걸그룹 [아이즈원](https://ko.wikipedia.org/wiki/아이즈원 "wikilink")의 멤버로 데뷔하였다. [채연의](https://ko.wikipedia.org/wiki/이채연_\(가수\) "wikilink") 동생인 [채령은](../Page/채령_\(가수\).md "wikilink") [ITZY](https://ko.wikipedia.org/wiki/ITZY "wikilink")의 멤버로 데뷔하였다.
 
 ## 외부 링크
 

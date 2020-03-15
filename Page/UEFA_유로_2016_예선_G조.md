@@ -268,7 +268,7 @@
 
   - [알렉세이 코코린](https://ko.wikipedia.org/wiki/알렉세이_코코린 "wikilink")
 
-  - [에르칸 젱긴](https://ko.wikipedia.org/wiki/에르칸_젱긴 "wikilink")
+  - [에르칸 젱긴](../Page/에르칸_젱긴.md "wikilink")
 
 <!-- end list -->
 
@@ -322,7 +322,7 @@
 
   - [올레크 쿠지민](https://ko.wikipedia.org/wiki/올레크_쿠지민 "wikilink")
 
-  - [표도르 스몰로프](https://ko.wikipedia.org/wiki/표도르_스몰로프 "wikilink")
+  - [표도르 스몰로프](../Page/표도르_스몰로프.md "wikilink")
 
   - [지미 드루마즈](https://ko.wikipedia.org/wiki/지미_드루마즈 "wikilink")
 
@@ -430,8 +430,8 @@
   - [UEFA 유로 2016 예선 D조](../Page/UEFA_유로_2016_예선_D조.md "wikilink")
   - [UEFA 유로 2016 예선 E조](../Page/UEFA_유로_2016_예선_E조.md "wikilink")
   - [UEFA 유로 2016 예선 F조](../Page/UEFA_유로_2016_예선_F조.md "wikilink")
-  - [UEFA 유로 2016 예선 H조](https://ko.wikipedia.org/wiki/UEFA_유로_2016_예선_H조 "wikilink")
-  - [UEFA 유로 2016 예선 I조](https://ko.wikipedia.org/wiki/UEFA_유로_2016_예선_I조 "wikilink")
+  - [UEFA 유로 2016 예선 H조](../Page/UEFA_유로_2016_예선_H조.md "wikilink")
+  - [UEFA 유로 2016 예선 I조](../Page/UEFA_유로_2016_예선_I조.md "wikilink")
 
 ## 각주
 

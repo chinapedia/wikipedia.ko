@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Take Care \(\)](https://ko.wikipedia.org/wiki/Take_Care_\(\)).
 
 
-**"Take Care"**는 [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink")의 [힙합](https://ko.wikipedia.org/wiki/힙합 "wikilink") 가수 [드레이크의](https://ko.wikipedia.org/wiki/드레이크_\(가수\) "wikilink") 노래이다. 피쳐링에는 [바베이도스](https://ko.wikipedia.org/wiki/바베이도스 "wikilink") 출신의 가수 [리한나](https://ko.wikipedia.org/wiki/리한나 "wikilink")가 참여했고, 프로듀싱에는 [제이미 엑스엑스와](../Page/제이미_엑스엑스.md "wikilink") 노아 "40" 셰빕이 참여했다. [바비 블랜드의](https://ko.wikipedia.org/wiki/바비_블랜드 "wikilink") 1960년 노래인 *"I'll Take Care of You"*를 [샘플링하였다](https://ko.wikipedia.org/wiki/샘플링_\(음악\) "wikilink"). 드레이크의 2번째 정규 앨범인 [Take Care에](https://ko.wikipedia.org/wiki/Take_Care_\(음반\) "wikilink") 수록되어 있으며, [빌보드 핫 100차트에서](https://ko.wikipedia.org/wiki/빌보드_핫_100 "wikilink") 7위까지 기록되었다.\[1\]
+**"Take Care"**는 [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink")의 [힙합](https://ko.wikipedia.org/wiki/힙합 "wikilink") 가수 [드레이크의](https://ko.wikipedia.org/wiki/드레이크_\(가수\) "wikilink") 노래이다. 피쳐링에는 [바베이도스](https://ko.wikipedia.org/wiki/바베이도스 "wikilink") 출신의 가수 [리한나](https://ko.wikipedia.org/wiki/리한나 "wikilink")가 참여했고, 프로듀싱에는 [제이미 엑스엑스와](../Page/제이미_엑스엑스.md "wikilink") 노아 "40" 셰빕이 참여했다. [바비 블랜드의](https://ko.wikipedia.org/wiki/바비_블랜드 "wikilink") 1960년 노래인 *"I'll Take Care of You"*를 [샘플링하였다](https://ko.wikipedia.org/wiki/샘플링_\(음악\) "wikilink"). 드레이크의 2번째 정규 앨범인 [Take Care에](../Page/Take_Care_\(음반\).md "wikilink") 수록되어 있으며, [빌보드 핫 100차트에서](https://ko.wikipedia.org/wiki/빌보드_핫_100 "wikilink") 7위까지 기록되었다.\[1\]
 
 ## 차트 및 인증
 

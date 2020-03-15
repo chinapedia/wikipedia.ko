@@ -297,7 +297,7 @@
 
   - [마르크 양코](https://ko.wikipedia.org/wiki/마르크_양코 "wikilink")
 
-  - [마르셀 자비처](https://ko.wikipedia.org/wiki/마르셀_자비처 "wikilink")
+  - [마르셀 자비처](../Page/마르셀_자비처.md "wikilink")
 
   - [발레리 카자이슈빌리](https://ko.wikipedia.org/wiki/발레리_카자이슈빌리 "wikilink")
 
@@ -331,7 +331,7 @@
 
   - [시머스 콜먼](https://ko.wikipedia.org/wiki/시머스_콜먼 "wikilink")
 
-  - [제프 헨드릭](https://ko.wikipedia.org/wiki/제프_헨드릭 "wikilink")
+  - [제프 헨드릭](../Page/제프_헨드릭.md "wikilink")
 
   - [셰인 롱](https://ko.wikipedia.org/wiki/셰인_롱 "wikilink")
 
@@ -343,7 +343,7 @@
 
   - [브라니슬라프 이바노비치](https://ko.wikipedia.org/wiki/브라니슬라프_이바노비치 "wikilink")
 
-  - [샘 보크스](https://ko.wikipedia.org/wiki/샘_보크스 "wikilink")
+  - [샘 보크스](../Page/샘_보크스.md "wikilink")
 
   - [에런 램지](https://ko.wikipedia.org/wiki/에런_램지 "wikilink")
 
@@ -361,11 +361,11 @@
   - [2018년 FIFA 월드컵 유럽 지역 예선 A조](../Page/2018년_FIFA_월드컵_유럽_지역_예선_A조.md "wikilink")
   - [2018년 FIFA 월드컵 유럽 지역 예선 B조](../Page/2018년_FIFA_월드컵_유럽_지역_예선_B조.md "wikilink")
   - [2018년 FIFA 월드컵 유럽 지역 예선 C조](../Page/2018년_FIFA_월드컵_유럽_지역_예선_C조.md "wikilink")
-  - [2018년 FIFA 월드컵 유럽 지역 예선 E조](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵_유럽_지역_예선_E조 "wikilink")
-  - [2018년 FIFA 월드컵 유럽 지역 예선 F조](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵_유럽_지역_예선_F조 "wikilink")
-  - [2018년 FIFA 월드컵 유럽 지역 예선 G조](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵_유럽_지역_예선_G조 "wikilink")
-  - [2018년 FIFA 월드컵 유럽 지역 예선 H조](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵_유럽_지역_예선_H조 "wikilink")
-  - [2018년 FIFA 월드컵 유럽 지역 예선 I조](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵_유럽_지역_예선_I조 "wikilink")
+  - [2018년 FIFA 월드컵 유럽 지역 예선 E조](../Page/2018년_FIFA_월드컵_유럽_지역_예선_E조.md "wikilink")
+  - [2018년 FIFA 월드컵 유럽 지역 예선 F조](../Page/2018년_FIFA_월드컵_유럽_지역_예선_F조.md "wikilink")
+  - [2018년 FIFA 월드컵 유럽 지역 예선 G조](../Page/2018년_FIFA_월드컵_유럽_지역_예선_G조.md "wikilink")
+  - [2018년 FIFA 월드컵 유럽 지역 예선 H조](../Page/2018년_FIFA_월드컵_유럽_지역_예선_H조.md "wikilink")
+  - [2018년 FIFA 월드컵 유럽 지역 예선 I조](../Page/2018년_FIFA_월드컵_유럽_지역_예선_I조.md "wikilink")
   - [2018년 FIFA 월드컵 유럽 지역 예선 플레이오프](../Page/2018년_FIFA_월드컵_유럽_지역_예선_플레이오프.md "wikilink")
 
 [D조](https://ko.wikipedia.org/wiki/분류:2018년_FIFA_월드컵_유럽_지역_예선 "wikilink")

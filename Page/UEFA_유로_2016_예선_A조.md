@@ -252,7 +252,7 @@
 
 <!-- end list -->
 
-  - [보르제크 도치칼](https://ko.wikipedia.org/wiki/보르제크_도치칼 "wikilink")
+  - [보르제크 도치칼](../Page/보르제크_도치칼.md "wikilink")
 
   - [부라크 이을마즈](../Page/부라크_이을마즈.md "wikilink")
 
@@ -270,7 +270,7 @@
 
   - [로빈 판 페르시](https://ko.wikipedia.org/wiki/로빈_판_페르시 "wikilink")
 
-  - [셀추크 이난](https://ko.wikipedia.org/wiki/셀추크_이난 "wikilink")
+  - [셀추크 이난](../Page/셀추크_이난.md "wikilink")
 
 <!-- end list -->
 
@@ -280,7 +280,7 @@
 
   - [바츨라프 필라르](https://ko.wikipedia.org/wiki/바츨라프_필라르 "wikilink")
 
-  - [밀란 슈코다](https://ko.wikipedia.org/wiki/밀란_슈코다 "wikilink")
+  - [밀란 슈코다](../Page/밀란_슈코다.md "wikilink")
 
   - [파벨 카데르자베크](../Page/파벨_카데르자베크.md "wikilink")
 
@@ -306,7 +306,7 @@
 
   - [파벨 카데르자베크](../Page/파벨_카데르자베크.md "wikilink")
 
-  - [라디슬라프 크레이치](https://ko.wikipedia.org/wiki/라디슬라프_크레이치 "wikilink")
+  - [라디슬라프 크레이치](../Page/라디슬라프_크레이치.md "wikilink")
 
   - [다비트 라파타](../Page/다비트_라파타.md "wikilink")
 
@@ -316,15 +316,15 @@
 
   - [토마시 시보크](https://ko.wikipedia.org/wiki/토마시_시보크 "wikilink")
 
-  - [요세프 슈랄](https://ko.wikipedia.org/wiki/요세프_슈랄 "wikilink")
+  - [요세프 슈랄](../Page/요세프_슈랄.md "wikilink")
 
-  - [욘 다디 뵈드바르손](https://ko.wikipedia.org/wiki/욘_다디_뵈드바르손 "wikilink")
+  - [욘 다디 뵈드바르손](../Page/욘_다디_뵈드바르손.md "wikilink")
 
   - [루리크 기슬라손](https://ko.wikipedia.org/wiki/루리크_기슬라손 "wikilink")
 
   - [에이뒤르 그뷔드요흔센](https://ko.wikipedia.org/wiki/에이뒤르_그뷔드요흔센 "wikilink")
 
-  - [라그나르 시귀르드손](https://ko.wikipedia.org/wiki/라그나르_시귀르드손 "wikilink")
+  - [라그나르 시귀르드손](../Page/라그나르_시귀르드손.md "wikilink")
 
   - [알렉산드르스 차우냐](https://ko.wikipedia.org/wiki/알렉산드르스_차우냐 "wikilink")
 
@@ -338,7 +338,7 @@
 
   - [이브라힘 아펠라이](https://ko.wikipedia.org/wiki/이브라힘_아펠라이 "wikilink")
 
-  - [제프리 브뤼마](https://ko.wikipedia.org/wiki/제프리_브뤼마 "wikilink")
+  - [제프리 브뤼마](../Page/제프리_브뤼마.md "wikilink")
 
   - [스테판 더 프레이](../Page/스테판_더_프레이.md "wikilink")
 
@@ -354,7 +354,7 @@
 
   - [빌랄 크사](https://ko.wikipedia.org/wiki/빌랄_크사 "wikilink")
 
-  - [오우잔 외지아쿠프](https://ko.wikipedia.org/wiki/오우잔_외지아쿠프 "wikilink")
+  - [오우잔 외지아쿠프](../Page/오우잔_외지아쿠프.md "wikilink")
 
 <!-- end list -->
 
@@ -444,13 +444,13 @@
 
   - [UEFA 유로 2016 예선](../Page/UEFA_유로_2016_예선.md "wikilink")
   - [UEFA 유로 2016 예선 플레이오프](../Page/UEFA_유로_2016_예선_플레이오프.md "wikilink")
-  - [UEFA 유로 2016 예선 B조](https://ko.wikipedia.org/wiki/UEFA_유로_2016_예선_B조 "wikilink")
-  - [UEFA 유로 2016 예선 C조](https://ko.wikipedia.org/wiki/UEFA_유로_2016_예선_C조 "wikilink")
-  - [UEFA 유로 2016 예선 D조](https://ko.wikipedia.org/wiki/UEFA_유로_2016_예선_D조 "wikilink")
-  - [UEFA 유로 2016 예선 E조](https://ko.wikipedia.org/wiki/UEFA_유로_2016_예선_E조 "wikilink")
-  - [UEFA 유로 2016 예선 F조](https://ko.wikipedia.org/wiki/UEFA_유로_2016_예선_F조 "wikilink")
-  - [UEFA 유로 2016 예선 G조](https://ko.wikipedia.org/wiki/UEFA_유로_2016_예선_G조 "wikilink")
-  - [UEFA 유로 2016 예선 H조](https://ko.wikipedia.org/wiki/UEFA_유로_2016_예선_H조 "wikilink")
-  - [UEFA 유로 2016 예선 I조](https://ko.wikipedia.org/wiki/UEFA_유로_2016_예선_I조 "wikilink")
+  - [UEFA 유로 2016 예선 B조](../Page/UEFA_유로_2016_예선_B조.md "wikilink")
+  - [UEFA 유로 2016 예선 C조](../Page/UEFA_유로_2016_예선_C조.md "wikilink")
+  - [UEFA 유로 2016 예선 D조](../Page/UEFA_유로_2016_예선_D조.md "wikilink")
+  - [UEFA 유로 2016 예선 E조](../Page/UEFA_유로_2016_예선_E조.md "wikilink")
+  - [UEFA 유로 2016 예선 F조](../Page/UEFA_유로_2016_예선_F조.md "wikilink")
+  - [UEFA 유로 2016 예선 G조](../Page/UEFA_유로_2016_예선_G조.md "wikilink")
+  - [UEFA 유로 2016 예선 H조](../Page/UEFA_유로_2016_예선_H조.md "wikilink")
+  - [UEFA 유로 2016 예선 I조](../Page/UEFA_유로_2016_예선_I조.md "wikilink")
 
 [A조](https://ko.wikipedia.org/wiki/분류:UEFA_유로_2016_예선 "wikilink")
