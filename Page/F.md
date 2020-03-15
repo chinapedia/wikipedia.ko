@@ -1,0 +1,30 @@
+> This article is converted from Wikipedia: [F](https://ko.wikipedia.org/wiki/F).
+
+
+**F**, **f**는 [로마자](https://ko.wikipedia.org/wiki/로마자 "wikilink")의 여섯 번째 글자이다. [한국어](https://ko.wikipedia.org/wiki/한국어 "wikilink")에 없는 발음이며, [한글](https://ko.wikipedia.org/wiki/한글 "wikilink")로는 보통 [ㅍ](https://ko.wikipedia.org/wiki/ㅍ "wikilink")으로 표기한다.
+
+## 이름
+
+  - [라틴어](https://ko.wikipedia.org/wiki/라틴어 "wikilink")·[독일어](https://ko.wikipedia.org/wiki/독일어 "wikilink")·[프랑스어](https://ko.wikipedia.org/wiki/프랑스어 "wikilink")·[영어](https://ko.wikipedia.org/wiki/영어 "wikilink")·[네덜란드어](https://ko.wikipedia.org/wiki/네덜란드어 "wikilink")·[인도네시아어](https://ko.wikipedia.org/wiki/인도네시아어 "wikilink"): 에프 \[ɛf\]
+  - [스페인어](https://ko.wikipedia.org/wiki/스페인어 "wikilink"): 에페 \['efe\]
+  - [이탈리아어](https://ko.wikipedia.org/wiki/이탈리아어 "wikilink"): 에페 \[effe\]
+  - [웨일스어](https://ko.wikipedia.org/wiki/웨일스어 "wikilink"): 에브 \[ev\]
+  - [에스페란토](https://ko.wikipedia.org/wiki/에스페란토 "wikilink"): 포 \[fo\]
+
+## 쓰임
+
+  - f는 [국제음성기호](https://ko.wikipedia.org/wiki/국제음성기호 "wikilink")에서 [무성 순치 마찰음을](https://ko.wikipedia.org/wiki/무성_순치_마찰음 "wikilink") 나타낸다.
+  - f는 수학 약자 중 함수(function)의 약자로 쓰인다
+
+## 역사
+
+F는 갈고리를 뜻하는 [그림 문자에서](https://ko.wikipedia.org/wiki/그림_문자 "wikilink") 왔다.
+
+|                                                                             |                                                                              |                                                                               |                                                                            |                                                                      |
+| :-------------------------------------------------------------------------: | :--------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :------------------------------------------------------------------: |
+| [셈조어 문자](https://ko.wikipedia.org/wiki/파일:Proto-semiticW-01.png "wikilink") | [페니키아 문자 와우](https://ko.wikipedia.org/wiki/파일:PhoenicianW-01.png "wikilink") | [그리스 문자 디감마](https://ko.wikipedia.org/wiki/파일:GreekDigamma-01.png "wikilink") | [에트루리아 문자 F](https://ko.wikipedia.org/wiki/파일:EtruscanF-01.png "wikilink") | [로마 문자 F](https://ko.wikipedia.org/wiki/파일:RomanF-01.png "wikilink") |
+|                                   셈조어 문자                                    |                                  페니키아 문자 와우                                  |                                  그리스 문자 디감마                                   |                                 에트루리아 문자 F                                 |                               로마 문자 F                                |
+
+## 컴퓨터 부호
+
+[F](https://ko.wikipedia.org/wiki/분류:로마자_낱자 "wikilink")

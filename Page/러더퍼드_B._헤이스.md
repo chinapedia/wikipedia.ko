@@ -1,0 +1,82 @@
+> This article is converted from Wikipedia: [ B. ](https://ko.wikipedia.org/wiki/_B._).
+
+
+**러더퍼드 버처드 헤이스**(Rutherford Birchard Hayes, [1822년](../Page/1822년.md "wikilink") [10월 4일](../Page/10월_4일.md "wikilink") \~ [1893년](../Page/1893년.md "wikilink") [1월 17일](../Page/1월_17일.md "wikilink"))는 [미국의 제19대 대통령](../Page/미국의_대통령.md "wikilink")(1877\~81)이다.
+
+## 초기 생애
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Hayes_boyhood_home.PNG "wikilink") [오하이오주](../Page/오하이오주.md "wikilink") 델라웨어에서 러더퍼드 헤이스 2세와 소피아 버처드 헤이스 사이에 태어났다. 그의 가족은 [버몬트주](../Page/버몬트주.md "wikilink") 덤머스턴에서 오하이오 주로 이주해왔다. 러더퍼드는 2명의 형과 2명의 누나가 있었다. 헤이스의 아버지는 성공적인 가게 주인이었으며 러더퍼드가 태어나기 2달 전에 사망하였다. 독신이었던 외삼촌 사디스 버처드가 아이들의 보호자가 되었다.
+
+### 교육
+
+헤이스는 [오하이오주](../Page/오하이오주.md "wikilink") 노워크에 있는 [감리교](https://ko.wikipedia.org/wiki/감리교 "wikilink") 계열 사립학교를 다니다가 [코네티컷주](../Page/코네티컷주.md "wikilink") 미들타운으로 편입하여 [라틴](https://ko.wikipedia.org/wiki/라틴 "wikilink")과 [고대 그리스어를](../Page/고대_그리스어.md "wikilink") 공부했다. 1838년 오하이오 주로 돌아와서 갬비어에 있는 케니언 대학교에 입학하여 1842년에 수석으로 졸업하였다. 이듬해에 [하버드 로스쿨에](../Page/하버드_법학대학원.md "wikilink") 입학하였고 1845년에 졸업하였다.
+
+### 변호사 시절
+
+[1845년](../Page/1845년.md "wikilink") 오하이오 주 변호사 자격을 취득하였고 곧바로 로워 샌더스키(현 [프리몬트](https://ko.wikipedia.org/wiki/프리몬트_\(오하이오주\) "wikilink"))에서 개업하였다. 처음에 헤이스는 의뢰인들이 몇명 밖에 안되었고 자신의 사무실에서 벌어들이는 수익이 부족하였다. 그는 [1850년](../Page/1850년.md "wikilink") [신시내티](../Page/신시내티.md "wikilink")로 가서 존 W. 헤론과 새로 법률사무소를 열었다. 나중에 헤론은 좀 더 이름있는 법률사무소로 옮겼고 헤이스는 윌리엄 K. 로저스, 리처드 M. 코르와인과 새로 파트너십을 맺었다. 그는 이때 문학에도 심취했고 신시내티에서 최근에 형성된 문학 클럽에 가입하였다.
+
+[1852년](../Page/1852년.md "wikilink") 그는 2개의 넓게 공표한 [살인](../Page/살인.md "wikilink") 재판들에서 범죄 변호사로서 주 전체의 주의를 얻었다. 그의 눈부신 방어 주장들은 사형 선고로부터 자신의 의뢰인들을 구하였다. [1858년](../Page/1858년.md "wikilink") 신시내티 시의회는 헤이스를 시 법무관으로 자리를 채우는 데 선출하였다. 그는 3년 후에 [남북 전쟁이](https://ko.wikipedia.org/wiki/남북_전쟁 "wikilink") 시작되기 조금 전까지 이 영향적으로 권력과 법적인 직을 보유하였다.
+
+### 가족
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Rutherford_B._Hayes_and_his_wife.jpg "wikilink") 결혼식에서)\]\] [1852년](../Page/1852년.md "wikilink") [12월 30일](../Page/12월_30일.md "wikilink") 헤이스는 오하이오 주 칠리코스 [물리학자](https://ko.wikipedia.org/wiki/물리학자 "wikilink")의 딸 루시 웨브(1831\~89)와 결혼하여 8명의 자식들을 두었으나 3명은 유아로서 사망하였다. 그녀는 1850년에 신시내티의 웨즐리언 여성 대학교를 졸업하였고 영부인 처음으로 대학 학위를 가졌다.
+
+그녀의 부지런하고 사회적인 기품은 헤이스의 경력을 통하여 남편을 도왔다. 루시 여사는 [노예 제도의](https://ko.wikipedia.org/wiki/노예_제도 "wikilink") 폐지, 금주 주의를 지지하고, 가난한 사람들을 도왔다.
+
+### 군인 시절
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Hayes_Civil_War.jpg "wikilink") 복무 당시의 헤이스\]\] [1861년](../Page/1861년.md "wikilink") [남북 전쟁이](https://ko.wikipedia.org/wiki/남북_전쟁 "wikilink") 시작되었을 때 신시내티의 문학 클럽은 군사적 훈련 일단을 형성하여 헤이스를 [대위](https://ko.wikipedia.org/wiki/대위 "wikilink")로 선출하였다. 헤이스는 후에 오하이오 의용군 연대의 [소령](https://ko.wikipedia.org/wiki/소령 "wikilink")으로 임명되었다.
+
+헤이스는 몇몇의 전투에서 자신을 저명하게 하였고 북군에서 자신의 4년 동안 빠른 진급을 받았다. 그는 4번이나 상처를 입었고, 자신의 아래에 4마리의 [말들이](../Page/말_\(동물\).md "wikilink") 총을 맞았다.
+
+전쟁이 끝난지 2개월 후인 [1865년](../Page/1865년.md "wikilink") [6월 8일에](../Page/6월_8일.md "wikilink") 헤이스는 명예 진급 [소장](https://ko.wikipedia.org/wiki/소장_\(군인_계급\) "wikilink") 계급과 함께 육군에서 사임하였다.
+
+## 정치적 경력
+
+### 의원 시절
+
+[1864년](../Page/1864년.md "wikilink") 헤이스는 [미국 하원을](../Page/미국_하원.md "wikilink") 위한 후보에 임명되었다. 그는 [필립 셰리던](https://ko.wikipedia.org/wiki/필립_셰리던 "wikilink") 장군 아래에서 [버지니아주](../Page/버지니아주.md "wikilink") 북부에 있는 셰난도아 협곡에서 싸우는 동안에 소식을 받았다. 그는 전쟁의 결과가 아직도 의심에 놓여있는 이유로 하원 직을 위한 선거 운동을 거절하였다. 헤이스는 선거를 이겼으나 [1865년](../Page/1865년.md "wikilink") [12월](../Page/12월.md "wikilink")까지 [의회](../Page/미국_의회.md "wikilink") 석을 차지하지 않았다. [1866년](../Page/1866년.md "wikilink") 재선에서 우승하였으나 이듬해 [7월](../Page/7월.md "wikilink")에 사임하였다.
+
+의회에 있는 동안에 헤이스는 의회 도서관에 협동 협회의 의장으로서 현저한 일을 하였다. 그의 지도력 아래에 의회는 스미소니언 연구소의 과학적 도서관을 의회 도서관으로 이적시켰다.
+
+### 오하이오 주지사
+
+[1867년](../Page/1867년.md "wikilink") 헤이스는 오하이오 주지사로서 3개의 임기들 중의 처음으로 선거를 우승하였다. 그의 선거는 헤이스가 인기없는 흑자 선거 수정 조항에서 주 헌법으로 호의를 가진 운동을 벌인 이유로 개인적 승리였다. 1872년에 두 번째 임기의 끝에서 헤이스는 정치로부터 은퇴하는 계획을 세웠다. 그러나 [공화당](https://ko.wikipedia.org/wiki/공화당_\(미국\) "wikilink") 지도자들은 그를 의회 선거에 나가는 데 설득시켰다. 그는 패하여 다음 3년 동안 프레몬트 근처에 있는 저택에서 보냈으며, 조용히 살면서 [부동산](https://ko.wikipedia.org/wiki/부동산 "wikilink")에 상대를 하였다. [1875년](../Page/1875년.md "wikilink") 주지사로서 세 번째 임기를 이겼다.
+
+헤이스는 용기있는 행정관으로서 국가적으로 넓은 주의를 얻었다. 그는 정부에서 [경제](../Page/경제.md "wikilink")를 위한 일과 정치적 영향보다 공로에 기초를 둔 강한 시민 봉사 프로그램을 위하여 열심히 일하였다. 그는 [오하이오 주립 대학교를](../Page/오하이오_주립_대학교.md "wikilink") 설립하는 데 도움을 주었다.
+
+### 선거 논쟁
+
+[섬네일의](https://ko.wikipedia.org/wiki/파일:Hayes-Wheeler.jpg "wikilink") 선거 포스터\]\] [1876년](../Page/1876년.md "wikilink") [공화당](https://ko.wikipedia.org/wiki/공화당_\(미국\) "wikilink") 대통령 후보로 올라 [민주당의](../Page/민주당_\(미국\).md "wikilink") [새뮤얼 J. 틸던과](../Page/새뮤얼_J._틸던.md "wikilink") 선거를 치렀다. 그러나 그랜트 정권 시대의 부패로 여론이 공화당을 떠나 민주당으로 가면서 16년 만에 민주당이 다시 집권할 기회가 보였고 실제 직접 선거에서는 헤이스가 403만 4311표, 틸던이 428만 8546표를 얻어 민주당이 앞섰다.
+
+더욱이 민주당은 선거인단수에서 184명을, 공화당이 166명을 획득해 민주당의 승리는 확실해진 듯 보였다. 그러나 공화당이 장악하고 있던 [루이지애나](https://ko.wikipedia.org/wiki/루이지애나 "wikilink"), [플로리다](https://ko.wikipedia.org/wiki/플로리다_주 "wikilink"), [사우스캐롤라이나](https://ko.wikipedia.org/wiki/사우스캐롤라이나 "wikilink") 등 3개 주의 선거인 19표가 어느 당인지 결정나지 않았고 15명의 의원과 대법관으로 구성된 특별개표관리위원회가 지루한 토론과 공방 끝에 대통령 취임 2일 전 결론을 내렸다. 공화당과 민주당의 의원 의석 수가 비율로 8:7로 공화당이 우세하므로 조금이라도 우세한 쪽에게 모든 표를 주기로 결정해 19표가 공화당의 것임을 인정하여 민주당 선거 184표, 공화당 선거 185표로 공화당이 1표 더 앞서 헤이스가 대통령에 당선되게 되었다.
+
+## 대통령 재임
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Hayes-inaugurations.jpg "wikilink") [섬네일에서](https://ko.wikipedia.org/wiki/파일:Harpers_8_11_1877_Destruction_of_the_Union_Depot.jpg "wikilink") 일어난 유니언 역의 파괴 사건 ([1877년](../Page/1877년.md "wikilink") [8월 11일](../Page/8월_11일.md "wikilink"))\]\]
+
+### 재건의 종말
+
+헤이스의 대통령으로서 첫 활동은 공화당이 약속한대로 남부의 주의회 의사당들로부터 남이있는 연방군들을 철수시키는 일이었다. 군사적 성원없이 공화당 정부들은 무너졌다. 남부의 백인들은 남북 전쟁 이래에 처음으로 자신들의 주에 정치적 권력과 지방 정부들을 다시 얻었다.
+
+### 공무원 개혁
+
+헤이스는 자신이 공무원 개혁을 위하여 힘쓰는 데 대통령 임기를 단 한번으로 하는 데 선언하였다. 그는 엽관제에 보다 자신의 임명들을 수훈에 기초를 두었다. 그는 자신의 내각에 남부 민주당원 [데이비드 M. 키를](https://ko.wikipedia.org/wiki/데이비드_M._키 "wikilink") 임명하기도 하였다. 이것과 다른 내각 임명들은 자신의 당원들에게 화를 내게 만들었다. 헤이스는 뉴욕 세관에서 3명의 공화당원들을 제거하는 데 집행되었다. 그들 중의 하나는 21대 대통령이 된 [체스터 A. 아서였다](https://ko.wikipedia.org/wiki/체스터_A._아서 "wikilink").
+
+의회는 헤이스가 제의한 공부원 법률에 활동을 거절하였으나, 헤이스는 이 논점에 의회와 싸운 첫 대통령이었다. 그의 투쟁은 넓은 공동적 지지를 얻었고, 훗날의 대통령들이 공무원 개혁을 만드는 길을 열었다.
+
+### 돈의 문제
+
+1870년대 [대공황](https://ko.wikipedia.org/wiki/대공황 "wikilink")의 이유로 많은 국민들은 싼 돈을 요구하였다. 농부들과 [비지니스](https://ko.wikipedia.org/wiki/비지니스 "wikilink") 소유자들은 예를 들어 더 많은 돈들을 유통에 넣음은 자신들의 제품들에 가격을 올리거나 자신들의 빚을 갚는 데 도움을 주리라고 믿었다. 그들은 [재무성](https://ko.wikipedia.org/wiki/재무성 "wikilink")에서 돈이 [금](https://ko.wikipedia.org/wiki/금 "wikilink")으로 배서되지 못하여도 정부가 더많은 지폐와 은전을 발해하기를 원하였다. 헤이스는 보수적 돈 정책에 호의를 가졌고, 그들의 요구들을 저항하였다.
+
+[1878년](../Page/1878년.md "wikilink") 헤이스는 재무성이 한달에 은의 2백만 달러와 4백만 달러 사이를 사들이는 데 요구한 블랜드-앨리슨 법령을 거부하였다. 의회는 그의 거부권에 청구서를 통과시켰다. 그러나 재무성은 유통에 더 많은 돈을 넣은 영향의 통화 팽창을 제한시키는 데 시도에서 요구된 최저한의 양을 찍었다.
+
+[1879년](../Page/1879년.md "wikilink") 헤이스 행정부는 남북 전쟁에 재정으로 발행된 지폐를 위하여 동전의 납입을 재점유하였다. 재부 장관 존 셔먼은 지폐를 태환하는 데 충분한 금을 재무부에서 모았다. 이것이 알려지면서 아무도 금을 위한 거패 지폐들에 궁금해하지 않았다. 이 정책은 재정적 신용을 되찾는 데 도움을 주었고, 비지니스가 향상되었다.
+
+## 이후의 생활
+
+대통령 직을 떠난 후 헤이스는 오하이오 주 프레몬트 근처의 스피길 그로브에 있는 저택에 돌아와 정계에서 떠났다. 그는 교육, 교도소 개혁, 기독교와 노련가 정책에서 박애주의 활동에 종사하였다.
+
+헤이스는 [1893년](../Page/1893년.md "wikilink") [클리블랜드](../Page/클리블랜드.md "wikilink")에 있는 자신의 친구를 방문하였을 때 병이 들기 시작하다. [1월 17일](../Page/1월_17일.md "wikilink") 향년 71세로 사망하여 프레몬트에 안장되었다.
+
+[러더퍼드_B._헤이스](https://ko.wikipedia.org/wiki/분류:러더퍼드_B._헤이스 "wikilink") [분류:1822년 태어남](https://ko.wikipedia.org/wiki/분류:1822년_태어남 "wikilink") [분류:1893년 죽음](https://ko.wikipedia.org/wiki/분류:1893년_죽음 "wikilink") [분류:미국의 대통령](https://ko.wikipedia.org/wiki/분류:미국의_대통령 "wikilink") [분류:미국의 장군](https://ko.wikipedia.org/wiki/분류:미국의_장군 "wikilink") [분류:오하이오주 출신 정치인](https://ko.wikipedia.org/wiki/분류:오하이오주_출신_정치인 "wikilink") [분류:오하이오주지사](https://ko.wikipedia.org/wiki/분류:오하이오주지사 "wikilink") [분류:하버드 로스쿨 동문](https://ko.wikipedia.org/wiki/분류:하버드_로스쿨_동문 "wikilink") [분류:하버드 대학교 동문](https://ko.wikipedia.org/wiki/분류:하버드_대학교_동문 "wikilink") [분류:공화당 (미국)의 정치인](https://ko.wikipedia.org/wiki/분류:공화당_\(미국\)의_정치인 "wikilink") [분류:1876년 미국 대통령 후보](https://ko.wikipedia.org/wiki/분류:1876년_미국_대통령_후보 "wikilink") [분류:오하이오주의 연방 하원의원](https://ko.wikipedia.org/wiki/분류:오하이오주의_연방_하원의원 "wikilink") [분류:스코틀랜드계 미국인](https://ko.wikipedia.org/wiki/분류:스코틀랜드계_미국인 "wikilink") [분류:잉글랜드계 미국인](https://ko.wikipedia.org/wiki/분류:잉글랜드계_미국인 "wikilink") [분류:공화당 (미국) 대통령 후보](https://ko.wikipedia.org/wiki/분류:공화당_\(미국\)_대통령_후보 "wikilink")

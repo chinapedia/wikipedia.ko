@@ -1,0 +1,14 @@
+> This article is converted from Wikipedia: [H. P. ](https://ko.wikipedia.org/wiki/H._P._).
+
+
+**하워드 필립스 러브크래프트**(, [1890년](https://ko.wikipedia.org/wiki/1890년 "wikilink") [8월 20일](../Page/8월_20일.md "wikilink") \~ [1937년](https://ko.wikipedia.org/wiki/1937년 "wikilink") [3월 15일](../Page/3월_15일.md "wikilink"))는 [미국](../Page/미국.md "wikilink")의 [호러](https://ko.wikipedia.org/wiki/호러 "wikilink"), [판타지](https://ko.wikipedia.org/wiki/판타지 "wikilink"), [공상과학](https://ko.wikipedia.org/wiki/공상과학 "wikilink") [소설가](https://ko.wikipedia.org/wiki/소설가 "wikilink")이다.
+
+미국 [로드아일랜드주](https://ko.wikipedia.org/wiki/로드아일랜드주 "wikilink") [프로비던스](../Page/프로비던스.md "wikilink") 시에서 태어났다. [인스머스의 그림자와](https://ko.wikipedia.org/wiki/인스머스의_그림자 "wikilink") [크툴루의 부름](https://ko.wikipedia.org/wiki/크툴루의_부름 "wikilink") 등 수많은 단편을 썼다. 그가 만들어낸 일련의 신화 체계는 후대의 작가들에게도 영감을 불어넣어, 수많은 소설가들이 그걸 이어받아 [크툴루 신화로](../Page/크툴루_신화.md "wikilink") 발전시켰다. [1934년](https://ko.wikipedia.org/wiki/1934년 "wikilink")부터 암 증세가 서서히 일어나기 시작했지만 단순한 소화불량으로 여기다 고통을 이기지 못해 [1937년](https://ko.wikipedia.org/wiki/1937년 "wikilink") [3월](../Page/3월.md "wikilink"), 병원을 찾아갔지만 이미 [소장암이](https://ko.wikipedia.org/wiki/:en:Small_intestine_cancer "wikilink") 온몸 곳곳에 퍼진 후였다. 결국 입원 5일 뒤 [1937년](https://ko.wikipedia.org/wiki/1937년 "wikilink") [3월 15일](../Page/3월_15일.md "wikilink") [암](https://ko.wikipedia.org/wiki/암 "wikilink")으로 사망했다. 자신의 고향에 묘가 세워졌지만 비석은 약 40여 년 후인 [1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink")에 독자들에 의해 세워졌다.
+
+## 외부 링크
+
+  - [The H.P. Lovecraft Archive](http://www.hplovecraft.com/)
+
+  -
+  -
+[분류:1890년 태어남](https://ko.wikipedia.org/wiki/분류:1890년_태어남 "wikilink") [분류:1937년 죽음](https://ko.wikipedia.org/wiki/분류:1937년_죽음 "wikilink") [분류:미국의 단편소설가](https://ko.wikipedia.org/wiki/분류:미국의_단편소설가 "wikilink") [분류:미국의 판타지 작가](https://ko.wikipedia.org/wiki/분류:미국의_판타지_작가 "wikilink") [분류:미국의 공포 작가](https://ko.wikipedia.org/wiki/분류:미국의_공포_작가 "wikilink") [분류:미국의 SF 작가](https://ko.wikipedia.org/wiki/분류:미국의_SF_작가 "wikilink") [분류:미국의 저술가](https://ko.wikipedia.org/wiki/분류:미국의_저술가 "wikilink") [분류:미국의 문학 평론가](https://ko.wikipedia.org/wiki/분류:미국의_문학_평론가 "wikilink") [분류:미국의 무신론자](https://ko.wikipedia.org/wiki/분류:미국의_무신론자 "wikilink") [분류:미국의 불가지론자](https://ko.wikipedia.org/wiki/분류:미국의_불가지론자 "wikilink") [분류:SF 비평가](https://ko.wikipedia.org/wiki/분류:SF_비평가 "wikilink") [분류:크툴루 신화 작가](https://ko.wikipedia.org/wiki/분류:크툴루_신화_작가 "wikilink") [분류:유물론자](https://ko.wikipedia.org/wiki/분류:유물론자 "wikilink") [분류:잉글랜드계 미국인](https://ko.wikipedia.org/wiki/분류:잉글랜드계_미국인 "wikilink") [분류:프로비던스 출신](https://ko.wikipedia.org/wiki/분류:프로비던스_출신 "wikilink") [분류:대장암으로 죽은 사람](https://ko.wikipedia.org/wiki/분류:대장암으로_죽은_사람 "wikilink") [분류:괴기물 작가](https://ko.wikipedia.org/wiki/분류:괴기물_작가 "wikilink")

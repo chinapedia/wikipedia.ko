@@ -1,0 +1,88 @@
+> This article is converted from Wikipedia: [YCbCr](https://ko.wikipedia.org/wiki/YCbCr).
+
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:YCbCr.GIF "wikilink") **YCbCr**은 영상 시스템에서 사용되는 [색공간](https://ko.wikipedia.org/wiki/색공간 "wikilink")의 일종이다. Y 는 [휘도](https://ko.wikipedia.org/wiki/휘도 "wikilink") 성분이며 Cb 와 Cr 은 [색차](https://ko.wikipedia.org/wiki/색차 "wikilink") 성분이다. YCbCr 은 가끔 **YCC** 라고 줄여 부르기도 한다. YCbCr 은 [절대 색공간](https://ko.wikipedia.org/wiki/절대_색공간 "wikilink") 이 아니며 [RGB](https://ko.wikipedia.org/wiki/RGB "wikilink") 정보를 인코딩하는 방식의 하나로, 실제로 보이는 이미지의 색은 신호를 디스플레이 하기 위해 사용된 원본 RGB 정보에 의존한다. 따라서 YCbCr 로 표현된 값은 표준 RGB 색상이 사용된 경우거나, 색상을 변환하기 위해 사용할 ICC 프로파일을 첨부한 경우에만 예측할 수 있다.
+
+(신호를 디지털 형식으로 변경하기 위해 스케일링과 오프셋 조정 단계를 거치기 이전의) YCbCr 신호는 [YPbPr](https://ko.wikipedia.org/wiki/YPbPr "wikilink") 이라고 하며, 이것은 [감마 보정된](../Page/감마_보정.md "wikilink") RGB 원본 영상에서 Kb 와 Kr 이라는 두가지 상수를 이용하여 다음과 같은 공식을 통해 얻을 수 있다:
+
+`YPbPr (analog version of YCbCr) from R'G'B'`
+`====================================================`
+
+\(\begin{align}
+  Y' &= K_R \cdot R' + K_G \cdot G' + K_B \cdot B'\\
+ P_B &=\frac12 \cdot \frac{B' - Y'}{1 - K_B}\\
+ P_R &=\frac12 \cdot \frac{R' - Y'}{1 - K_R}
+\end{align}\)
+
+`....................................................`
+`R', G', B' in [0; 1]`
+`Y' in [0; 1]`
+`Pb in [-0.5; 0.5]`
+`Pr in [-0.5; 0.5]`
+
+Kb 와 Kr 은 일반적으로 해당 [RGB](https://ko.wikipedia.org/wiki/RGB "wikilink") 공간의 정의에서 도출된다. 위에서 프라임 (') 기호는 [감마 보정되었음을](../Page/감마_보정.md "wikilink") 의미한다; 즉 R', G', B' 는 0 과 1 사이의 값을 가지며 0 은 최솟값(즉, 영상에서는 검정색)을 1 은 최댓값(영상에서는 흰색)을 의미한다. 결과 휘도값(Y)의 범위는 0 부터 1 사이이며, 색차값(Cb 와 Cr)은 -0.5 에서 +0.5 사이의 값을 가진다. 이에 대한 역변환 과정은 위의 공식에서 바로 도출할 수 있다.
+
+신호를 디지털 형식으로 표현할 때 결과값은 스케일링되고 반올림되며 일반적으로 오프셋이 추가된다. 예를 들어, 스케일링과 오프셋을 적용한 Y' 컴포넌트의 결과값은 8 비트 형식을 사용할 때 검정색이 16, 흰색이 235가 된다.
+
+[디지털 표준 텔레비전에](../Page/디지털_표준_텔레비전.md "wikilink") 사용되는 YCbCr 형식은 [ITU-R](https://ko.wikipedia.org/wiki/ITU-R "wikilink") [BT.601](https://ko.wikipedia.org/wiki/BT.601 "wikilink") (이전에는 CCIR 601 이라 불리었음) 표준에 정의되어 있으며 [RGB](https://ko.wikipedia.org/wiki/RGB "wikilink") 공간에서 다음과 같은 계수를 사용하여 디지털 [컴포넌트 비디오](../Page/컴포넌트_비디오.md "wikilink") 형식으로 변환한다:
+
+`Kb = 0.114`
+`Kr = 0.299`
+
+위의 상수값과 공식을 통해 ITU-R BT.601 은 다음과 같이 표기할 수 있다: 먼저 아날로그 YPbPr:
+
+`YPbPr (ITU-R BT.601)`
+`========================================================`
+`Y' =     + 0.299    * R' + 0.587    * G' + 0.114    * B'`
+`Pb =     - 0.168736 * R' - 0.331264 * G' + 0.5      * B'`
+`Pr =     + 0.5      * R' - 0.418688 * G' - 0.081312 * B'`
+`........................................................`
+`R', G', B' in [0; 1]`
+`Y' in [0; 1]`
+`Pb in [-0.5; 0.5]`
+`Pr in [-0.5; 0.5]`
+
+다음엔 YCbCr 로 디지털화한다:
+
+`YCbCr (601) from R'G'B'`
+`========================================================`
+`Y' = 16  +  65.481  * R' + 128.553  * G' +  24.966  * B'`
+`Cb = 128 -  37.797  * R' -  74.203  * G' + 112.0    * B'`
+`Cr = 128 + 112.0    * R' -  93.786  * G' -  18.214  * B'`
+`........................................................`
+`R', G', B' in [0; 1]`
+`Y'               in {16, 17, ..., 235}`
+`   with footroom in {1, 2, ..., 15}`
+`        headroom in {236, 237, ..., 254}`
+`        sync.    in {0, 255}`
+`Cb, Cr           in {16, 17, ..., 240}`
+
+만약 R', G', B' 가 8 비트의 디지털값으로 주어진다면:
+
+`YCbCr (601) from "digital 8-bit R'G'B'  "`
+`========================================================================`
+`Y' = 16  + 1/256 * (   65.738  * R'd +  129.057  * G'd +  25.064  * B'd)`
+`Cb = 128 + 1/256 * ( - 37.945  * R'd -   74.494  * G'd + 112.439  * B'd)`
+`Cr = 128 + 1/256 * (  112.439  * R'd -   94.154  * G'd -  18.285  * B'd)`
+`........................................................................`
+`R'd, G'd, B'd in {0, 1, 2, ..., 255}`
+`Y'               in {16, 17, ..., 235}`
+`   with footroom in {1, 2, ..., 15}`
+`        headroom in {236, 237, ..., 254}`
+`        sync.    in {0, 255}`
+`Cb, Cr           in {16, 17, ..., 240}`
+
+이 YCbCr 형식은 주로 예전의 [디지털 표준 텔레비전](../Page/디지털_표준_텔레비전.md "wikilink") 시스템을 위해 사용된 것이며, 예전 [CRT](../Page/음극선관.md "wikilink") 의 형광체 발산 특성에 맞는 RGB 모델을 사용한다.
+
+또 다른 형식의 YCbCr 은 ITU-R [BT.709](https://ko.wikipedia.org/wiki/BT.709 "wikilink") 표준에서 정의되었으며 주로 [디지털 고선명 텔레비전에서](../Page/고선명_텔레비전.md "wikilink") 사용되고 있다. 새 형식은 몇가지 컴퓨터 디스플레이용 응용 프로그램에서도 사용되고 있다. 이 경우, Kb 와 Kr 의 값은 다르지만 공식은 동일하다. ITU-R BT.709 에서 정의한 상수의 값은 다음과 같다:
+
+`Kb = 0.0722`
+`Kr = 0.2126`
+
+이 형식의 YCbCr 은 새로운 CRT 와 [LCD](../Page/액정_디스플레이.md "wikilink"), [PDP](https://ko.wikipedia.org/wiki/PDP "wikilink") 와 같은 다른 최신 디스플레이 장치의 형광체 발산 특성에 더 잘 맞는 RGB 모델을 기반으로 한다. BT.601 과 BT.709 에서 정의한 R', G', B' 신호의 값이 다르다는 것을 참고하라.
+
+## 함께보기
+
+  - [컬러 매트릭스](../Page/컬러_매트릭스.md "wikilink")
+
+[분류:색 공간](https://ko.wikipedia.org/wiki/분류:색_공간 "wikilink")
