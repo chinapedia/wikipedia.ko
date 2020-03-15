@@ -5,14 +5,14 @@
 
 ## 구성원
 
-  - **[오카다 나나](https://ko.wikipedia.org/wiki/오카다_나나 "wikilink")** (AKB48 팀4 / [STU48](https://ko.wikipedia.org/wiki/STU48 "wikilink") 캡틴) - 최연장자, 리더
+  - **[오카다 나나](../Page/오카다_나나.md "wikilink")** (AKB48 팀4 / [STU48](https://ko.wikipedia.org/wiki/STU48 "wikilink") 캡틴) - 최연장자, 리더
   - [시부야 나기사](https://ko.wikipedia.org/wiki/시부야_나기사 "wikilink") (NMB48 팀M)
   - [타시마 메루](https://ko.wikipedia.org/wiki/타시마_메루 "wikilink") (HKT48 팀H) - 최연소
 
 ### 전 구성원
 
-  - **[니시노 미키](https://ko.wikipedia.org/wiki/니시노_미키 "wikilink")** (AKB48 팀4)
-  - **[코지마 마코](https://ko.wikipedia.org/wiki/코지마_마코 "wikilink")** (AKB48 팀K) - 전 리더
+  - **[니시노 미키](../Page/니시노_미키.md "wikilink")** (AKB48 팀4)
+  - **[코지마 마코](../Page/코지마_마코.md "wikilink")** (AKB48 팀K) - 전 리더
   - [키타가와 료하](https://ko.wikipedia.org/wiki/키타가와_료하 "wikilink") (SKE48 팀S 리더)
   - [토모나가 미오](https://ko.wikipedia.org/wiki/토모나가_미오 "wikilink") (HKT48 팀KIV)
 

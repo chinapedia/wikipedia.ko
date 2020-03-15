@@ -5,7 +5,7 @@
 
 ## 설계 및 개발
 
-Yak-7은 원래 [Yak-1을](https://ko.wikipedia.org/wiki/야코블레프_Yak-1 "wikilink") 개조한 [UTI-26](https://ko.wikipedia.org/wiki/UTI-26 "wikilink") 연습기로 개발된 기체인데 1941년에 심사에서 결함이 많던 [Yak-1](https://ko.wikipedia.org/wiki/야코블레프_Yak-1 "wikilink") 및 [LaGG-3](https://ko.wikipedia.org/wiki/라보치킨_LaGG-3 "wikilink"),[MiG-3같은](https://ko.wikipedia.org/wiki/미코얀-그레비치_MIG-3 "wikilink") 당시 주력전투기보다 성능이 더 우수했기에 연습기지만 급채용이 이루어졌다. 이에 훈련용 후방좌석을 없애고 단좌식으로 만든 [UTI-26](https://ko.wikipedia.org/wiki/UTI-26 "wikilink")은 Yak-7 전투기로 개조되어 양산이 이루어졌는데 많은 파생형을 만들어내며 후속기인 [Yak-9가](https://ko.wikipedia.org/wiki/야코블레프_Yak-9 "wikilink") 등장한 뒤에도 연습전투기로 전후까지 사용되었다.
+Yak-7은 원래 [Yak-1을](https://ko.wikipedia.org/wiki/야코블레프_Yak-1 "wikilink") 개조한 [UTI-26](https://ko.wikipedia.org/wiki/UTI-26 "wikilink") 연습기로 개발된 기체인데 1941년에 심사에서 결함이 많던 [Yak-1](https://ko.wikipedia.org/wiki/야코블레프_Yak-1 "wikilink") 및 [LaGG-3](https://ko.wikipedia.org/wiki/라보치킨_LaGG-3 "wikilink"),[MiG-3같은](https://ko.wikipedia.org/wiki/미코얀-그레비치_MIG-3 "wikilink") 당시 주력전투기보다 성능이 더 우수했기에 연습기지만 급채용이 이루어졌다. 이에 훈련용 후방좌석을 없애고 단좌식으로 만든 [UTI-26](https://ko.wikipedia.org/wiki/UTI-26 "wikilink")은 Yak-7 전투기로 개조되어 양산이 이루어졌는데 많은 파생형을 만들어내며 후속기인 [Yak-9가](../Page/야코블레프_Yak-9.md "wikilink") 등장한 뒤에도 연습전투기로 전후까지 사용되었다.
 
 ## 파생형
 

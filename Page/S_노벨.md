@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [S ](https://ko.wikipedia.org/wiki/S_).
 
 
-**S 노벨**은 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 창립된 [소미미디어](https://ko.wikipedia.org/wiki/소미미디어 "wikilink")의 [라이트 노벨](https://ko.wikipedia.org/wiki/라이트_노벨 "wikilink") 레이블이다. 발매일은 1일과 15일이다. 창간작으로는 [던전에서 만남을 추구하면 안 되는 걸까](https://ko.wikipedia.org/wiki/던전에서_만남을_추구하면_안_되는_걸까 "wikilink"), [백은의 구세기](https://ko.wikipedia.org/wiki/백은의_구세기 "wikilink"), [시스터 서큐버스는 참회하지 않아이며](https://ko.wikipedia.org/wiki/시스터_서큐버스는_참회하지_않아 "wikilink") 창간작 세트로도 판매가 되었다.
+**S 노벨**은 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 창립된 [소미미디어](https://ko.wikipedia.org/wiki/소미미디어 "wikilink")의 [라이트 노벨](https://ko.wikipedia.org/wiki/라이트_노벨 "wikilink") 레이블이다. 발매일은 1일과 15일이다. 창간작으로는 [던전에서 만남을 추구하면 안 되는 걸까](../Page/던전에서_만남을_추구하면_안_되는_걸까.md "wikilink"), [백은의 구세기](https://ko.wikipedia.org/wiki/백은의_구세기 "wikilink"), [시스터 서큐버스는 참회하지 않아이며](https://ko.wikipedia.org/wiki/시스터_서큐버스는_참회하지_않아 "wikilink") 창간작 세트로도 판매가 되었다.
 
 ## 작품 목록
 
 ### 발행 중
 
-  - [던전에서 만남을 추구하면 안 되는 걸까](https://ko.wikipedia.org/wiki/던전에서_만남을_추구하면_안_되는_걸까 "wikilink") / 오모리 후지노 / 13권
+  - [던전에서 만남을 추구하면 안 되는 걸까](../Page/던전에서_만남을_추구하면_안_되는_걸까.md "wikilink") / 오모리 후지노 / 13권
       - 소드 오라토리아 / 오모리 후지노 / 10권
       - 파밀리아 크로니클 episode 류
   - [백은의 구세기](https://ko.wikipedia.org/wiki/백은의_구세기 "wikilink") / 아마노 토케이 / 3권
@@ -15,7 +15,7 @@
   - [미소녀가 너무 많아 살아갈 수 없어](https://ko.wikipedia.org/wiki/미소녀가_너무_많아_살아갈_수_없어 "wikilink") / 아시아 로쿠츠키 / 2권
   - [검신의 계승자](https://ko.wikipedia.org/wiki/검신의_계승자 "wikilink") / 카가미 유 / 7권
   - [내 천사는 연애 금지\!](https://ko.wikipedia.org/wiki/내_천사는_연애_금지! "wikilink") / 미츠키 린 / 2권
-  - [헌드레드](https://ko.wikipedia.org/wiki/헌드레드 "wikilink") / 미사키 준 / 7권
+  - [헌드레드](../Page/헌드레드.md "wikilink") / 미사키 준 / 7권
   - [슬리핑 스트레거](https://ko.wikipedia.org/wiki/슬리핑_스트레거 "wikilink") / 마노 마오 / 3권
   - [아크 9](https://ko.wikipedia.org/wiki/아크_9 "wikilink") / 야스이 켄타로 / 2권
   - [용을 죽인 자의 나날](https://ko.wikipedia.org/wiki/용을_죽인_자의_나날 "wikilink") / 아카유키 토나 / 6권
@@ -26,7 +26,7 @@
   - [시간의 악마와 세 개의 이야기](https://ko.wikipedia.org/wiki/시간의_악마와_세_개의_이야기 "wikilink") / 코로미고야 / 1권
   - [마기과의 검사와 소환마왕](https://ko.wikipedia.org/wiki/마기과의_검사와_소환마왕 "wikilink") / 미하라 미츠키 / 9권
   - [닌자 슬레이어](https://ko.wikipedia.org/wiki/닌자_슬레이어 "wikilink") / 브래들리 본드, 필립 N 모제즈 / 4권
-  - [낙제 기사의 영웅담](https://ko.wikipedia.org/wiki/낙제_기사의_영웅담 "wikilink") / 미소라 리쿠 / 10권
+  - [낙제 기사의 영웅담](../Page/낙제_기사의_영웅담.md "wikilink") / 미소라 리쿠 / 10권
   - [백련의 패왕과 성약의 발키리](https://ko.wikipedia.org/wiki/백련의_패왕과_성약의_발키리 "wikilink") / 타카야마 세이치 / 5권
   - [소환주는 가출 고양이](https://ko.wikipedia.org/wiki/소환주는_가출_고양이 "wikilink") / 타카미 카즈유키 / 1권
   - [나의 용사](https://ko.wikipedia.org/wiki/나의_용사 "wikilink") / 아오이 세키나 / 2권
@@ -189,7 +189,7 @@
   - 나만이 없는 거리 / 산베 케이 / 8권
   - 던전에서 만남을 추구해선 안 되는 걸까 / 쿠나에다 / 9권
   - 아마기 브릴리언트 파크 / 요시오카 키미타케 / 1권
-  - [던전밥](https://ko.wikipedia.org/wiki/던전밥 "wikilink") / 쿠이 료코 / 4권
+  - [던전밥](../Page/던전밥.md "wikilink") / 쿠이 료코 / 4권
   - [팔견전](https://ko.wikipedia.org/wiki/팔견전 "wikilink") / 아베 미유키 / 6권
   - 전생했더니 슬라임이이었던 건에 대하여 / 카와카미 타이키 / 2권
   - [용의 귀여운 일곱 아이](https://ko.wikipedia.org/wiki/용의_귀여운_일곱_아이 "wikilink") / 쿠이 료코 / 1권

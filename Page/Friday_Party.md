@@ -20,7 +20,7 @@
 1.  **Friday Party**
       - 작사：[m.c.A・T](https://ko.wikipedia.org/wiki/m.c.A・T "wikilink") / 작곡：[Akio Togashi](https://ko.wikipedia.org/wiki/m.c.A・T "wikilink")
 2.  Friday Party (Instrumental)
-3.  Secret Track([아름다운 하늘 CM](https://ko.wikipedia.org/wiki/아름다운_하늘 "wikilink"))
+3.  Secret Track([아름다운 하늘 CM](../Page/아름다운_하늘.md "wikilink"))
 
 <!-- end list -->
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TBC 8 ](https://ko.wikipedia.org/wiki/TBC_8_).
 
 
-**TBC 8 뉴스**는 [SBS의](https://ko.wikipedia.org/wiki/SBS_\(대한민국의_방송사\) "wikilink") 대구,경북권 네트워크 방송사인 [TBC](https://ko.wikipedia.org/wiki/TBC_\(대한민국의_방송사\) "wikilink")(대구방송)의 메인 종합뉴스 프로그램이다. 원래 명칭은 《[TBC 프라임뉴스](https://ko.wikipedia.org/wiki/TBC_프라임뉴스 "wikilink")》였으나, 2014년 5월 12일 봄 개편으로 인해 현재의 《TBC 8 뉴스》로 변경되었다.
+**TBC 8 뉴스**는 [SBS의](https://ko.wikipedia.org/wiki/SBS_\(대한민국의_방송사\) "wikilink") 대구,경북권 네트워크 방송사인 [TBC](../Page/TBC_\(대한민국의_방송사\).md "wikilink")(대구방송)의 메인 종합뉴스 프로그램이다. 원래 명칭은 《[TBC 프라임뉴스](https://ko.wikipedia.org/wiki/TBC_프라임뉴스 "wikilink")》였으나, 2014년 5월 12일 봄 개편으로 인해 현재의 《TBC 8 뉴스》로 변경되었다.
 
 ## 구성
 
@@ -17,7 +17,7 @@
 | 닥터 리포트 (토)                                                      |                                                                                                                               |
 | SNS 톡톡 (일)                                                      | 이수정, 이향원, 김다은, 김다나                                                                                                            |
 | 이 시각 주요 뉴스                                                      |                                                                                                                               |
-| [SBS 스포츠뉴스](https://ko.wikipedia.org/wiki/SBS_스포츠뉴스 "wikilink") | 평일 : [김윤상](https://ko.wikipedia.org/wiki/김윤상 "wikilink") / 주말 : [주시은](https://ko.wikipedia.org/wiki/주시은 "wikilink")           |
+| [SBS 스포츠뉴스](https://ko.wikipedia.org/wiki/SBS_스포츠뉴스 "wikilink") | 평일 : [김윤상](../Page/김윤상.md "wikilink") / 주말 : [주시은](https://ko.wikipedia.org/wiki/주시은 "wikilink")                              |
 | 날씨 (평일)                                                         | 배효성                                                                                                                           |
 | SBS 날씨 (주말)                                                     | 토요일 : [이여진](https://ko.wikipedia.org/wiki/이여진_\(방송인\) "wikilink") / 일요일 : [정주희](https://ko.wikipedia.org/wiki/정주희 "wikilink") |
 | 후 CM                                                            |                                                                                                                               |
@@ -53,7 +53,7 @@
 
 ## 관련 항목
 
-  - [TBC](https://ko.wikipedia.org/wiki/TBC_\(대한민국의_방송사\) "wikilink")
+  - [TBC](../Page/TBC_\(대한민국의_방송사\).md "wikilink")
   - [SBS 8 뉴스](https://ko.wikipedia.org/wiki/SBS_8_뉴스 "wikilink")
 
 ## 같이 보기

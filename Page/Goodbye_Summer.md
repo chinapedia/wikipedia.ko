@@ -5,7 +5,7 @@
 
 ## 제작
 
-"Goodbye Summer"는 구성원 엠버가 처음으로 작곡에 도전한 노래로, [헨리와](https://ko.wikipedia.org/wiki/헨리_\(가수\) "wikilink") [슈퍼주니어-M](https://ko.wikipedia.org/wiki/슈퍼주니어-M "wikilink")의 노래를 제작한 작곡팀 노이즈뱅크(NoizeBank)의 구성원 젠 네오(Gen Neo)와 함께 작업했다.\[1\] 노래 반주의 대부분은 [어쿠스틱 악기를](https://ko.wikipedia.org/wiki/어쿠스틱_악기 "wikilink") 조합하여 사용하였다.\[2\] 보컬 루나와 크리스탈, 디오가 노래를 부르며, 엠버는 랩 부분을 맡았다. 노래의 가사는 학창시절 서로 좋아하는 감정을 표현하지 못한 두 남녀가 시간이 흘러 함께 했던 날들을 추억하며 후회하는 이야기를 담고 있다.\[3\]\[4\] [소녀시대](https://ko.wikipedia.org/wiki/소녀시대 "wikilink")의 "[Oh\!](https://ko.wikipedia.org/wiki/Oh! "wikilink")", [샤이니](https://ko.wikipedia.org/wiki/샤이니 "wikilink")의 "[누난 너무 예뻐 (Replay)](https://ko.wikipedia.org/wiki/누난_너무_예뻐_\(Replay\) "wikilink")"의 가사를 만든 김영후가 작사하였다.\[5\] 구성원 엠버는 f(x) 뮤직 스포일러 *Play\! Pink Tape*를 통해 이 노래를 소개하며, 엠버의 MP3 플레이어로 노래를 들은 [크리스탈의](https://ko.wikipedia.org/wiki/크리스탈_\(가수\) "wikilink") 추천으로 음반에 수록되었다고 밝혔다.\[6\]
+"Goodbye Summer"는 구성원 엠버가 처음으로 작곡에 도전한 노래로, [헨리와](https://ko.wikipedia.org/wiki/헨리_\(가수\) "wikilink") [슈퍼주니어-M](../Page/슈퍼주니어-M.md "wikilink")의 노래를 제작한 작곡팀 노이즈뱅크(NoizeBank)의 구성원 젠 네오(Gen Neo)와 함께 작업했다.\[1\] 노래 반주의 대부분은 [어쿠스틱 악기를](https://ko.wikipedia.org/wiki/어쿠스틱_악기 "wikilink") 조합하여 사용하였다.\[2\] 보컬 루나와 크리스탈, 디오가 노래를 부르며, 엠버는 랩 부분을 맡았다. 노래의 가사는 학창시절 서로 좋아하는 감정을 표현하지 못한 두 남녀가 시간이 흘러 함께 했던 날들을 추억하며 후회하는 이야기를 담고 있다.\[3\]\[4\] [소녀시대](https://ko.wikipedia.org/wiki/소녀시대 "wikilink")의 "[Oh\!](https://ko.wikipedia.org/wiki/Oh! "wikilink")", [샤이니](https://ko.wikipedia.org/wiki/샤이니 "wikilink")의 "[누난 너무 예뻐 (Replay)](https://ko.wikipedia.org/wiki/누난_너무_예뻐_\(Replay\) "wikilink")"의 가사를 만든 김영후가 작사하였다.\[5\] 구성원 엠버는 f(x) 뮤직 스포일러 *Play\! Pink Tape*를 통해 이 노래를 소개하며, 엠버의 MP3 플레이어로 노래를 들은 [크리스탈의](https://ko.wikipedia.org/wiki/크리스탈_\(가수\) "wikilink") 추천으로 음반에 수록되었다고 밝혔다.\[6\]
 
 ## 평가
 

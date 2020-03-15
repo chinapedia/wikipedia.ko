@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [RO-KYU-BU!](https://ko.wikipedia.org/wiki/RO-KYU-BU!).
 
 
-'''RO-KYU-BU\! '''(로큐브)는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [성우 유닛이다](https://ko.wikipedia.org/wiki/성우_유닛 "wikilink"). [텔레비전 애니메이션](https://ko.wikipedia.org/wiki/텔레비전_애니메이션 "wikilink") 「[로큐브\!](https://ko.wikipedia.org/wiki/로큐브! "wikilink")」의 주요 담당 성우 [히카사 요코](https://ko.wikipedia.org/wiki/히카사_요코 "wikilink"), [이구치 유카](https://ko.wikipedia.org/wiki/이구치_유카 "wikilink"), [하나자와 카나](https://ko.wikipedia.org/wiki/하나자와_카나 "wikilink"), [히다카 리나](https://ko.wikipedia.org/wiki/히다카_리나 "wikilink"), [오구라 유이의](https://ko.wikipedia.org/wiki/오구라_유이 "wikilink") 5명에 의해 결성되었다.
+'''RO-KYU-BU\! '''(로큐브)는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [성우 유닛이다](https://ko.wikipedia.org/wiki/성우_유닛 "wikilink"). [텔레비전 애니메이션](https://ko.wikipedia.org/wiki/텔레비전_애니메이션 "wikilink") 「[로큐브\!](https://ko.wikipedia.org/wiki/로큐브! "wikilink")」의 주요 담당 성우 [히카사 요코](https://ko.wikipedia.org/wiki/히카사_요코 "wikilink"), [이구치 유카](https://ko.wikipedia.org/wiki/이구치_유카 "wikilink"), [하나자와 카나](https://ko.wikipedia.org/wiki/하나자와_카나 "wikilink"), [히다카 리나](https://ko.wikipedia.org/wiki/히다카_리나 "wikilink"), [오구라 유이의](../Page/오구라_유이.md "wikilink") 5명에 의해 결성되었다.
 
 악곡의 안무는 오구라가 담당해, 다른 멤버에게 지도했다. 일찍이 오구라와 같은 사무소였던 [노토 아리사도](https://ko.wikipedia.org/wiki/노토_아리사 "wikilink") 후술의 라이브나 「[Get goal\!](https://ko.wikipedia.org/wiki/Get_goal! "wikilink")」의 안무가로서 참가하고 있다.
 
@@ -68,7 +68,7 @@
 </tr>
 <tr class="odd">
 <td><p>8</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/오구라_유이" title="wikilink">오구라 유이</a></strong></p></td>
+<td><p><strong><a href="../Page/오구라_유이.md" title="wikilink">오구라 유이</a></strong></p></td>
 <td><p>하카마다 히나타</p></td>
 <td><p>에이트 비트</p></td>
 <td><p>분홍</p></td>

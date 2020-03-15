@@ -7,8 +7,8 @@
 
 ## 최초탑재 기기
 
-  - [LG G 워치](https://ko.wikipedia.org/wiki/LG_G_워치 "wikilink")\[2\]
-  - [삼성 기어 라이브](https://ko.wikipedia.org/wiki/삼성_기어_라이브 "wikilink")
+  - [LG G 워치](../Page/LG_G_워치.md "wikilink")\[2\]
+  - [삼성 기어 라이브](../Page/삼성_기어_라이브.md "wikilink")
   - [모토 360](https://ko.wikipedia.org/wiki/모토_360 "wikilink")
 
 ## 파트너

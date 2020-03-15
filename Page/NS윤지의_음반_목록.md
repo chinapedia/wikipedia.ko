@@ -191,7 +191,7 @@
 <li>발매일 : 2014년 12월 22일</li>
 </ul></td>
 <td style="text-align: left;"><ol>
-<li><strong>눈이 오는 날엔 (Feat. <a href="https://ko.wikipedia.org/wiki/딘딘" title="wikilink">딘딘</a>)</strong></li>
+<li><strong>눈이 오는 날엔 (Feat. <a href="../Page/딘딘.md" title="wikilink">딘딘</a>)</strong></li>
 <li>눈이 오는 날엔 (Inst.)</li>
 </ol></td>
 </tr>

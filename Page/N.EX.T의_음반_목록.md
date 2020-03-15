@@ -95,7 +95,7 @@
     :\* 도시인
     :\* The Ocean
     :\* 날아라 병아리
-    :\* [그대에게](https://ko.wikipedia.org/wiki/그대에게 "wikilink")
+    :\* [그대에게](../Page/그대에게.md "wikilink")
     :\* Rock & Roll
     :\* Rock Cafe
     <u>《[N.EX.T Is Alive - The World Tour](https://ko.wikipedia.org/wiki/N.EX.T_Is_Alive_-_The_World_Tour "wikilink")》(1996, 대영에이브이)</u>

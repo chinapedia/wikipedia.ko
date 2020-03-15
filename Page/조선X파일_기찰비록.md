@@ -19,7 +19,7 @@
   - [윤종화](../Page/윤종화_\(배우\).md "wikilink")
   - [이원재](../Page/장은풍.md "wikilink")
   - [김윤태](https://ko.wikipedia.org/wiki/김윤태_\(배우\) "wikilink") : 교주 역
-  - [김승훈](https://ko.wikipedia.org/wiki/김승훈_\(배우\) "wikilink")
+  - [김승훈](../Page/김승훈_\(배우\).md "wikilink")
   - [전성환](https://ko.wikipedia.org/wiki/전성환 "wikilink")
 
 ## 방송 회차

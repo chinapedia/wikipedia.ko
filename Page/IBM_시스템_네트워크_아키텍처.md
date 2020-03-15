@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [IBM   ](https://ko.wikipedia.org/wiki/IBM___).
 
 
-**시스템 네트워크 아키텍처**(, SNA)는 1974년에 만들어진 [IBM](https://ko.wikipedia.org/wiki/IBM "wikilink")의 사유 [네트워크](https://ko.wikipedia.org/wiki/컴퓨터_네트워크 "wikilink") 아키텍처이다.\[1\] [컴퓨터](https://ko.wikipedia.org/wiki/컴퓨터 "wikilink")와 자신의 자원 간 상호 연결을 위한 완전한 [프로토콜 스택이다](https://ko.wikipedia.org/wiki/프로토콜_스택 "wikilink"). 포맷과 프토토콜을 기술하며, 그 자체가 소프트웨어의 일종은 아니다. SNA 구현을 통해 다양한 통신 패키지(가장 저명한 것으로, SNA 통신용 [메인프레임](https://ko.wikipedia.org/wiki/메인프레임 "wikilink") 패키지인 [VTAM](https://ko.wikipedia.org/wiki/VTAM "wikilink"))의 형태를 취한다.
+**시스템 네트워크 아키텍처**(, SNA)는 1974년에 만들어진 [IBM](https://ko.wikipedia.org/wiki/IBM "wikilink")의 사유 [네트워크](https://ko.wikipedia.org/wiki/컴퓨터_네트워크 "wikilink") 아키텍처이다.\[1\] [컴퓨터](https://ko.wikipedia.org/wiki/컴퓨터 "wikilink")와 자신의 자원 간 상호 연결을 위한 완전한 [프로토콜 스택이다](https://ko.wikipedia.org/wiki/프로토콜_스택 "wikilink"). 포맷과 프토토콜을 기술하며, 그 자체가 소프트웨어의 일종은 아니다. SNA 구현을 통해 다양한 통신 패키지(가장 저명한 것으로, SNA 통신용 [메인프레임](https://ko.wikipedia.org/wiki/메인프레임 "wikilink") 패키지인 [VTAM](../Page/VTAM.md "wikilink"))의 형태를 취한다.
 
 ## 역사
 
@@ -24,7 +24,7 @@ SNA의 가장 중요한 요소는 다음을 포함한다:
 
   - [IBM 네트워크 컨트롤 프로그램](https://ko.wikipedia.org/wiki/IBM_네트워크_컨트롤_프로그램 "wikilink")(NCP): SNA가 정의하는 패킷 교환 프로토콜을 구현하는, [3705와](https://ko.wikipedia.org/wiki/IBM_3705 "wikilink") 이후 [37xx](https://ko.wikipedia.org/wiki/IBM_37xx "wikilink") 통신 프로세서 위에서 실행되는 통신 프로그램.
   - [동기 데이터 링크 제어](https://ko.wikipedia.org/wiki/동기_데이터_링크_제어 "wikilink")(Synchronous Data Link Control, SDLC): 싱글 링크 상에서 데이터 전송의 효율성을 상당히 높여주는 프로토콜.
-  - [VTAM](https://ko.wikipedia.org/wiki/VTAM "wikilink"): 메인프레임 내에서 로그인, 세션 유지, 라우팅 서비스를 제공하는 소프트웨어 패키지.
+  - [VTAM](../Page/VTAM.md "wikilink"): 메인프레임 내에서 로그인, 세션 유지, 라우팅 서비스를 제공하는 소프트웨어 패키지.
 
 ## 네트워크 주소 지정 가능 단위
 

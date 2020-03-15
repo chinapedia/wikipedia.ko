@@ -18,7 +18,7 @@
 
 ## 경쟁 기종
 
-  - [소니 엑스페리아 E1](https://ko.wikipedia.org/wiki/소니_엑스페리아_E1 "wikilink")
+  - [소니 엑스페리아 E1](../Page/소니_엑스페리아_E1.md "wikilink")
 
 ## 각주
 

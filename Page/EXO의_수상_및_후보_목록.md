@@ -40,7 +40,7 @@
 <li>12월 6일 제4회 《<a href="https://ko.wikipedia.org/wiki/So-Loved_Awards_2013" title="wikilink">So-Loved Awards 2013</a>》 앨범상</li>
 <li>12월 6일 제4회 《<a href="https://ko.wikipedia.org/wiki/So-Loved_Awards_2013" title="wikilink">So-Loved Awards 2013</a>》 노래상</li>
 <li>12월 22일 제7회 《<a href="https://ko.wikipedia.org/wiki/바이두_페이디엔_시상식" title="wikilink">바이두 페이디엔 시상식</a>》 최고 인기그룹상</li>
-<li>12월 25일 제3회 《<a href="https://ko.wikipedia.org/wiki/주간_아이돌_어워즈" title="wikilink">주간 아이돌 어워즈</a>》 대상</li>
+<li>12월 25일 제3회 《<a href="../Page/주간_아이돌_어워즈.md" title="wikilink">주간 아이돌 어워즈</a>》 대상</li>
 <li>12월 27일 《<a href="https://ko.wikipedia.org/wiki/KBS_가요대축제" title="wikilink">KBS 가요대축제</a>》 <strong>올해의 노래상</strong></li>
 </ul></td>
 </tr>

@@ -23,7 +23,7 @@
 
 ## 역대 진행자
 
-  - [김연주](https://ko.wikipedia.org/wiki/김연주_\(방송인\) "wikilink") (1995년)
+  - [김연주](../Page/김연주_\(방송인\).md "wikilink") (1995년)
   - [김혜영](https://ko.wikipedia.org/wiki/김혜영_\(1962년\) "wikilink") (1999년 \~ 2000년)
   - [오영실](https://ko.wikipedia.org/wiki/오영실 "wikilink") (2000년)
   - [진양혜](https://ko.wikipedia.org/wiki/진양혜 "wikilink") (2001년)

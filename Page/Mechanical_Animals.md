@@ -5,7 +5,7 @@
 
 ## 정보
 
-전작인 《[Antichrist Superstar](../Page/Antichrist_Superstar.md "wikilink")》와 차기작인 《[Holy Wood (In the Shadow of the Valley of Death)](https://ko.wikipedia.org/wiki/Holy_Wood_\(In_the_Shadow_of_the_Valley_of_Death\) "wikilink")》까지 3부작으로 구성되어 있으며, 과거 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 아티스트 [데이비드 보위가](https://ko.wikipedia.org/wiki/데이비드_보위 "wikilink") '지기 스타더스트(Ziggy Stardust)'를 연기했던 것 처럼 [마릴린 맨슨은](https://ko.wikipedia.org/wiki/마릴린_맨슨 "wikilink") '[글램 로커](https://ko.wikipedia.org/wiki/글램_록 "wikilink")'와 성별이 불분명한 외계인 '오메가(Omēga)'라는 두 가지 역할을 맡는 컨셉을 만들어냈다. 수록곡 중 〈The Dope Show〉, 〈Rock Is Dead〉, 〈I Don't Like the Drugs (But the Drugs Like Me)〉, 〈Coma White〉는 싱글로 발매되었고, 뮤직비디오도 제작되었다.
+전작인 《[Antichrist Superstar](../Page/Antichrist_Superstar.md "wikilink")》와 차기작인 《[Holy Wood (In the Shadow of the Valley of Death)](../Page/Holy_Wood_\(In_the_Shadow_of_the_Valley_of_Death\).md "wikilink")》까지 3부작으로 구성되어 있으며, 과거 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 아티스트 [데이비드 보위가](https://ko.wikipedia.org/wiki/데이비드_보위 "wikilink") '지기 스타더스트(Ziggy Stardust)'를 연기했던 것 처럼 [마릴린 맨슨은](https://ko.wikipedia.org/wiki/마릴린_맨슨 "wikilink") '[글램 로커](https://ko.wikipedia.org/wiki/글램_록 "wikilink")'와 성별이 불분명한 외계인 '오메가(Omēga)'라는 두 가지 역할을 맡는 컨셉을 만들어냈다. 수록곡 중 〈The Dope Show〉, 〈Rock Is Dead〉, 〈I Don't Like the Drugs (But the Drugs Like Me)〉, 〈Coma White〉는 싱글로 발매되었고, 뮤직비디오도 제작되었다.
 
 [오스트레일리아](https://ko.wikipedia.org/wiki/오스트레일리아 "wikilink")와 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서 발매된 앨범에 포함된 DVD에는 〈The Beautiful People〉, 〈The Dope Show〉, 〈Sweet Dreams〉의 뮤직비디오가 포함되어 있으며, 히든 트랙은 [컴퓨터](https://ko.wikipedia.org/wiki/컴퓨터 "wikilink")에서만 재생이 된다.
 
@@ -32,7 +32,7 @@
 <li><a href="https://ko.wikipedia.org/wiki/트위기_라미레스" title="wikilink">트위기 라미레스</a> - <a href="https://ko.wikipedia.org/wiki/베이스_기타" title="wikilink">베이스 기타</a>, 리듬 기타(1~5, 7~9, 14), <a href="https://ko.wikipedia.org/wiki/어쿠스틱_기타" title="wikilink">어쿠스틱 기타</a>(1, 3, 6, 13), 리드 기타(2, 4, 8, 13, 14), 신스 베이스(11)</li>
 <li><a href="https://ko.wikipedia.org/wiki/짐_점" title="wikilink">짐 점</a> - 리드 기타(1, 3, 5~7, 9, 12, 14), 리듬 기타(3, 12), 신스 기타(6), 어쿠스틱 기타(14)</li>
 <li><a href="https://ko.wikipedia.org/wiki/진저_피쉬" title="wikilink">진저 피쉬</a> - 드럼, 전자 드럼(5)</li>
-<li><a href="https://ko.wikipedia.org/wiki/존_5" title="wikilink">존 5</a>(이후에 합류) - <a href="https://ko.wikipedia.org/wiki/:en:Mechanical_Animals_Tour" title="wikilink">Mechanical Animals 투어</a> 기타리스트</li>
+<li><a href="../Page/존_5.md" title="wikilink">존 5</a>(이후에 합류) - <a href="https://ko.wikipedia.org/wiki/:en:Mechanical_Animals_Tour" title="wikilink">Mechanical Animals 투어</a> 기타리스트</li>
 </ul>
 <dl>
 <dt>참여 음악인</dt>

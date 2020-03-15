@@ -5,7 +5,7 @@
 
 ## 학력
 
-  - [천안신방중학교](https://ko.wikipedia.org/wiki/천안신방중학교 "wikilink") (졸업)
+  - [천안신방중학교](../Page/천안신방중학교.md "wikilink") (졸업)
   - [천안여자고등학교](https://ko.wikipedia.org/wiki/천안여자고등학교 "wikilink") (졸업)
 
 ## 생애

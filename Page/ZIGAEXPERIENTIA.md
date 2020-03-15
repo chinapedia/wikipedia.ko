@@ -20,18 +20,18 @@
 1.  **Journey's End** \[1:49\]
 2.  **No.525300887039** \[5:56\]
 3.  **Mr.Downer** \[4:11\]
-4.  **[My Dearest](https://ko.wikipedia.org/wiki/My_Dearest "wikilink")**（Album Mix） \[5:36\]
+4.  **[My Dearest](../Page/My_Dearest.md "wikilink")**（Album Mix） \[5:36\]
       - 4매째 싱글. [텔레비전 애니메이션](https://ko.wikipedia.org/wiki/텔레비전_애니메이션 "wikilink") 「[길티 크라운](https://ko.wikipedia.org/wiki/길티_크라운 "wikilink")」전기 [오프닝 테마](https://ko.wikipedia.org/wiki/주제가 "wikilink")
 5.  **종속인간**(従属人間) \[3:34\]
 6.  **화이트제약**(ホワイト製薬) \[3:20\]
-7.  **[박수갈채가합](https://ko.wikipedia.org/wiki/박수갈채가합 "wikilink")**(拍手喝采歌合) \[3:58\]
+7.  **[박수갈채가합](../Page/박수갈채가합.md "wikilink")**(拍手喝采歌合) \[3:58\]
       - 8매째 싱글. 텔레비전 애니메이션 「[칼 이야기](https://ko.wikipedia.org/wiki/칼_이야기 "wikilink")」[노이타미나](https://ko.wikipedia.org/wiki/노이타미나 "wikilink") 판 오프닝 테마
 8.  **Yeah Oh Ahhh Oh\!** \[3:41\]
       - [학교 법인](https://ko.wikipedia.org/wiki/학교_법인 "wikilink") [전문학교](https://ko.wikipedia.org/wiki/전문학교 "wikilink") [HAL](https://ko.wikipedia.org/wiki/HAL "wikilink") CM송
 9.  **백 번째의 키스**(百回目のキス) \[4:46\]
-10. **[은색 비행선](https://ko.wikipedia.org/wiki/은색_비행선 "wikilink")**(銀色飛行船) \[7:03\]
+10. **[은색 비행선](../Page/은색_비행선.md "wikilink")**(銀色飛行船) \[7:03\]
       - 6매째 싱글. [애니메이션 영화](https://ko.wikipedia.org/wiki/애니메이션_영화 "wikilink") 「[표적이 된 학원](https://ko.wikipedia.org/wiki/표적이_된_학원 "wikilink")」오프닝 테마
-11. **[The Bravery](https://ko.wikipedia.org/wiki/The_Bravery "wikilink")**（Album Mix） \[6:04\]
+11. **[The Bravery](../Page/The_Bravery.md "wikilink")**（Album Mix） \[6:04\]
       - 7매째 싱글. [MBS](https://ko.wikipedia.org/wiki/마이니치_방송 "wikilink"), [TBS](https://ko.wikipedia.org/wiki/도쿄_방송_홀딩스 "wikilink") 계 TV 애니메이션 「[마기](https://ko.wikipedia.org/wiki/마기 "wikilink")」후기 [엔딩 테마](https://ko.wikipedia.org/wiki/주제가 "wikilink")
 12. **[우리들의 발자국](https://ko.wikipedia.org/wiki/고백/우리들의_발자국 "wikilink")**(僕らのあしあと)（Album Mix） \[7:07\]
       - 5매째 싱글. 텔레비전 애니메이션 「[블랙★록 슈터](https://ko.wikipedia.org/wiki/블랙★록_슈터 "wikilink")」엔딩 테마

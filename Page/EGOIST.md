@@ -19,17 +19,17 @@
 | ----- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------- |
 | 초회한정반 | 통상반                                                                                                                 |                                                                                                                                       |              |           |
 | 1st   | [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [11월 30일](https://ko.wikipedia.org/wiki/11월_30일 "wikilink") | **[Departures \~당신에게 보내는 사랑의 노래\~](https://ko.wikipedia.org/wiki/Departures_~당신에게_보내는_사랑의_노래~ "wikilink")**(Departures 〜あなたにおくるアイの歌〜) | SVWC-7796    | SVWC-7798 |
-| 2nd   | [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [3월 7일](https://ko.wikipedia.org/wiki/3월_7일 "wikilink")     | **[The Everlasting Guilty Crown](https://ko.wikipedia.org/wiki/The_Everlasting_Guilty_Crown "wikilink")**                             | SVWC-7832    | SVWC-7834 |
-| 3rd   | 2012년 [12월 5일](https://ko.wikipedia.org/wiki/12월_5일 "wikilink")                                                     | **[이름 없는 괴물](https://ko.wikipedia.org/wiki/이름_없는_괴물 "wikilink")**(名前のない怪物)                                                            | SRCL-8147    | SRCL-8149 |
-| 4th   | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [3월 6일](https://ko.wikipedia.org/wiki/3월_6일 "wikilink")     | **[All Alone With You](https://ko.wikipedia.org/wiki/All_Alone_With_You "wikilink")**                                                 | SRCL-8238/39 | SRCL-8240 |
+| 2nd   | [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [3월 7일](https://ko.wikipedia.org/wiki/3월_7일 "wikilink")     | **[The Everlasting Guilty Crown](../Page/The_Everlasting_Guilty_Crown.md "wikilink")**                                                | SVWC-7832    | SVWC-7834 |
+| 3rd   | 2012년 [12월 5일](https://ko.wikipedia.org/wiki/12월_5일 "wikilink")                                                     | **[이름 없는 괴물](../Page/이름_없는_괴물.md "wikilink")**(名前のない怪物)                                                                               | SRCL-8147    | SRCL-8149 |
+| 4th   | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [3월 6일](https://ko.wikipedia.org/wiki/3월_6일 "wikilink")     | **[All Alone With You](../Page/All_Alone_With_You.md "wikilink")**                                                                    | SRCL-8238/39 | SRCL-8240 |
 | 5th   | 2014년 [11월 19일](https://ko.wikipedia.org/wiki/11월_19일 "wikilink")                                                   | **[Fallen](https://ko.wikipedia.org/wiki/Fallen "wikilink")**                                                                         | SRCL-8637/38 | SRCL-8639 |
 
 ### 앨범
 
-| 매     | 발매일                                                             | 타이틀                                                                                                                         | 규격품번        | 최고위       |
-| ----- | --------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ----------- | --------- |
-| 초회한정반 | 통상반                                                             |                                                                                                                             |             |           |
-| 1st   | 2012년 [9월 19일](https://ko.wikipedia.org/wiki/9월_19일 "wikilink") | **[Extra terrestrial Biological Entities](https://ko.wikipedia.org/wiki/Extra_terrestrial_Biological_Entities "wikilink")** | SRCL-8091/2 | SRCL-8093 |
+| 매     | 발매일                                                             | 타이틀                                                                                                      | 규격품번        | 최고위       |
+| ----- | --------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ----------- | --------- |
+| 초회한정반 | 통상반                                                             |                                                                                                          |             |           |
+| 1st   | 2012년 [9월 19일](https://ko.wikipedia.org/wiki/9월_19일 "wikilink") | **[Extra terrestrial Biological Entities](../Page/Extra_terrestrial_Biological_Entities.md "wikilink")** | SRCL-8091/2 | SRCL-8093 |
 
 ### 디지털 싱글
 

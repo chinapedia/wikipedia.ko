@@ -23,7 +23,7 @@ piRNA는 [유전체](https://ko.wikipedia.org/wiki/게놈 "wikilink") 전체에 
 
 ## 연구
 
-Solexa and 454와 같은 [차세대 염기서열 분석](https://ko.wikipedia.org/wiki/차세대_염기서열_분석 "wikilink") 기법을 사용함으로써 piRNA연구분야의 큰 발전이 있었다. 이 기술들은 고도로 복잡하고, piRNA같은 heterogeneous RNA population도 분석할 수 있게 해주었다. 이름 그대로 그 작은 크기 때문에, small RNA들은 발현과 증폭이 어렵다. 그러나 이에 특화된 PCR기반의 기법이 발전하면서, 이러한 어려움을 극복해나가고있다.
+Solexa and 454와 같은 [차세대 염기서열 분석](../Page/차세대_염기서열_분석.md "wikilink") 기법을 사용함으로써 piRNA연구분야의 큰 발전이 있었다. 이 기술들은 고도로 복잡하고, piRNA같은 heterogeneous RNA population도 분석할 수 있게 해주었다. 이름 그대로 그 작은 크기 때문에, small RNA들은 발현과 증폭이 어렵다. 그러나 이에 특화된 PCR기반의 기법이 발전하면서, 이러한 어려움을 극복해나가고있다.
 
 ## 참조
 

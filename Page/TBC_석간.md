@@ -13,7 +13,7 @@
 
 《TBC 석간》 종영 이후 다음날(12월 1일), [언론통폐합](https://ko.wikipedia.org/wiki/언론통폐합 "wikilink")으로 인해 TBC(동양방송)가 [KBS 2TV로](https://ko.wikipedia.org/wiki/KBS_2TV "wikilink") 개편된 이후에 같은 해 12월 2일 저녁 8시에 방송되는 뉴스 프로그램인 《KBS 8시 뉴스》가 신설되었다.
 
-2011년 12월 1일에는 TBC(동양방송)의 후신인 [JTBC](https://ko.wikipedia.org/wiki/JTBC "wikilink")가 개국하면서 평일 뉴스는 《[JTBC 뉴스 10](https://ko.wikipedia.org/wiki/JTBC_뉴스_10 "wikilink")》이라는 명칭으로 주말 뉴스는 《[JTBC 주말뉴스](https://ko.wikipedia.org/wiki/JTBC_주말뉴스 "wikilink")》이라는 명칭으로 방송하다가 2012년 11월 5일부터 평일 뉴스의 명칭을 《[JTBC 뉴스 9](https://ko.wikipedia.org/wiki/JTBC_뉴스_9 "wikilink")》으로 변경했지만 2014년 9월 22일부터 평일 뉴스와 주말 뉴스의 명칭 모두 《[JTBC 뉴스룸](https://ko.wikipedia.org/wiki/JTBC_뉴스룸 "wikilink")》으로 변경하여 현재까지 방송되고 있다.
+2011년 12월 1일에는 TBC(동양방송)의 후신인 [JTBC](https://ko.wikipedia.org/wiki/JTBC "wikilink")가 개국하면서 평일 뉴스는 《[JTBC 뉴스 10](https://ko.wikipedia.org/wiki/JTBC_뉴스_10 "wikilink")》이라는 명칭으로 주말 뉴스는 《[JTBC 주말뉴스](https://ko.wikipedia.org/wiki/JTBC_주말뉴스 "wikilink")》이라는 명칭으로 방송하다가 2012년 11월 5일부터 평일 뉴스의 명칭을 《[JTBC 뉴스 9](https://ko.wikipedia.org/wiki/JTBC_뉴스_9 "wikilink")》으로 변경했지만 2014년 9월 22일부터 평일 뉴스와 주말 뉴스의 명칭 모두 《[JTBC 뉴스룸](../Page/JTBC_뉴스룸.md "wikilink")》으로 변경하여 현재까지 방송되고 있다.
 
 ## 같이 보기
 

@@ -19,7 +19,7 @@
 
 ## 같이 보기
 
-  - [BBK 일렉트로닉스](https://ko.wikipedia.org/wiki/BBK_일렉트로닉스 "wikilink")
+  - [BBK 일렉트로닉스](../Page/BBK_일렉트로닉스.md "wikilink")
   - [Vivo](https://ko.wikipedia.org/wiki/Vivo "wikilink")
 
 ## 각주

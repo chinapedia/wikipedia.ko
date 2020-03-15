@@ -15,7 +15,7 @@
 
 2012년 테슬라 모델 S은 시장에서 엄청난 호평을 받았으며, 2013년 [테슬라 모터스의](https://ko.wikipedia.org/wiki/테슬라_모터스 "wikilink") 주가는 이 전기차로 인해 328%나 급상승했다. 2013년 모델S는 소비자 전문지 [컨슈머 리포트의](https://ko.wikipedia.org/wiki/컨슈머_리포트 "wikilink") 미국 최고의 자동차로 선정되었다.
 
-7만1000달러(7500만원)의 고가임에도 불구하고, 미국에서 22,477 대가 판매되어 [닛산 리프에](https://ko.wikipedia.org/wiki/닛산_리프 "wikilink") 이어 순수 전기차 부문에서 판매 순위 2위를 기록했다.\[1\]
+7만1000달러(7500만원)의 고가임에도 불구하고, 미국에서 22,477 대가 판매되어 [닛산 리프에](../Page/닛산_리프.md "wikilink") 이어 순수 전기차 부문에서 판매 순위 2위를 기록했다.\[1\]
 
 ## 사건 및 사고
 
@@ -23,9 +23,9 @@
 
 ## 자동차 산업
 
-[전기자동차](https://ko.wikipedia.org/wiki/전기자동차 "wikilink")는 고가의 [배터리](https://ko.wikipedia.org/wiki/배터리 "wikilink") 가격과, 장시간의 [배터리](https://ko.wikipedia.org/wiki/배터리 "wikilink") 충전시간, 턱없이 부족한 [배터리](https://ko.wikipedia.org/wiki/배터리 "wikilink") 충전소의 문제로, 기존의 가솔린, 경유 자동차를 대체할 수 없다는 것이 통설이었으나, [닛산 리프와](https://ko.wikipedia.org/wiki/닛산_리프 "wikilink") 테슬라 모델 S의 미국 시장에서의 돌풍은, 그러한 비판론이 터무니없다는 것을 실증하는 것이어서, 자동차 산업계 전체가 일종의 충격으로 받아들이고 있다.
+[전기자동차](https://ko.wikipedia.org/wiki/전기자동차 "wikilink")는 고가의 [배터리](https://ko.wikipedia.org/wiki/배터리 "wikilink") 가격과, 장시간의 [배터리](https://ko.wikipedia.org/wiki/배터리 "wikilink") 충전시간, 턱없이 부족한 [배터리](https://ko.wikipedia.org/wiki/배터리 "wikilink") 충전소의 문제로, 기존의 가솔린, 경유 자동차를 대체할 수 없다는 것이 통설이었으나, [닛산 리프와](../Page/닛산_리프.md "wikilink") 테슬라 모델 S의 미국 시장에서의 돌풍은, 그러한 비판론이 터무니없다는 것을 실증하는 것이어서, 자동차 산업계 전체가 일종의 충격으로 받아들이고 있다.
 
-[닛산 리프와](https://ko.wikipedia.org/wiki/닛산_리프 "wikilink") 테슬라 모델 S는 전세계 대부분의 [전기자동차](https://ko.wikipedia.org/wiki/전기자동차 "wikilink")에서 사용하는 기존의 배터리를 그대로 사용하고 있다.
+[닛산 리프와](../Page/닛산_리프.md "wikilink") 테슬라 모델 S는 전세계 대부분의 [전기자동차](https://ko.wikipedia.org/wiki/전기자동차 "wikilink")에서 사용하는 기존의 배터리를 그대로 사용하고 있다.
 
 [산업연구원](https://ko.wikipedia.org/wiki/산업연구원 "wikilink")(KIET) 이항구 기계·전자산업팀장은 "세계 각국의 환경 규제가 강화되는 탓에 전기 동력으로 움직이는 차량 개발은 피할 수 없는 추세가 됐다"며 "경쟁력 있는 전기차를 양산하지 못하는 업체는 10년 내 글로벌 시장에서 도태될 것"이라고 말했다.\[3\]
 

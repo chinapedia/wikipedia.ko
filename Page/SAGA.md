@@ -45,7 +45,7 @@
 
 <!-- end list -->
 
-  - 3월 16일 [인도네시아](https://ko.wikipedia.org/wiki/인도네시아 "wikilink") 3대 방송국 중의 하나인 [SCTV](https://ko.wikipedia.org/wiki/SCTV "wikilink")에 리오가 출연. 인도네시아의 유명 아이돌 [체리 벨](https://ko.wikipedia.org/wiki/체리_벨 "wikilink")(Cherrybelle)의 노래 "Pura pura cinta”를 사가 버전으로 리믹스하여 [체리 벨과](https://ko.wikipedia.org/wiki/체리_벨 "wikilink") 함께 방송하였다. 후에 이 사가믹스 버전은 [SNS](https://ko.wikipedia.org/wiki/SNS "wikilink")상에서 수많은 [리스너](https://ko.wikipedia.org/wiki/리스너 "wikilink")들에게 회자되었다.\[14\]
+  - 3월 16일 [인도네시아](https://ko.wikipedia.org/wiki/인도네시아 "wikilink") 3대 방송국 중의 하나인 [SCTV](../Page/SCTV.md "wikilink")에 리오가 출연. 인도네시아의 유명 아이돌 [체리 벨](https://ko.wikipedia.org/wiki/체리_벨 "wikilink")(Cherrybelle)의 노래 "Pura pura cinta”를 사가 버전으로 리믹스하여 [체리 벨과](https://ko.wikipedia.org/wiki/체리_벨 "wikilink") 함께 방송하였다. 후에 이 사가믹스 버전은 [SNS](https://ko.wikipedia.org/wiki/SNS "wikilink")상에서 수많은 [리스너](https://ko.wikipedia.org/wiki/리스너 "wikilink")들에게 회자되었다.\[14\]
 
 <!-- end list -->
 

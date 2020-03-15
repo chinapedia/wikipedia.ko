@@ -16,7 +16,7 @@
   - 황의두 : 황 포교 역
   - 장인보 : 장 포교 역
   - 유영욱 : 유 포교 역
-  - [박명신](https://ko.wikipedia.org/wiki/박명신 "wikilink") : 기생 어미 역
+  - [박명신](../Page/박명신.md "wikilink") : 기생 어미 역
   - 윤가현 : 주모 역
   - 함건수 : 마축지패 1 역
   - 김해용 : 마축지패 2 역
@@ -25,7 +25,7 @@
   - [임해림](https://ko.wikipedia.org/wiki/임해림 "wikilink") : 탕촌 노인 역
   - [나갑성](https://ko.wikipedia.org/wiki/나갑성 "wikilink") : 주막 사람들 역
   - [김준배](https://ko.wikipedia.org/wiki/김준배_\(1969년\) "wikilink") : 주막 사람들 역
-  - [박수영](https://ko.wikipedia.org/wiki/박수영 "wikilink") : 주막 사람들 역
+  - [박수영](../Page/박수영.md "wikilink") : 주막 사람들 역
   - 한동규 : 주막 사람들 역
   - 최용현 : 주막 사람들 역
   - 정선철 : 주막 사람들 역
@@ -53,7 +53,7 @@
   - 김성언 : 주막 사내들 역
   - 정재한 : 주막 사내들 역
   - 노형석 : 장터 사내들 역
-  - [조성원](https://ko.wikipedia.org/wiki/조성원_\(배우\) "wikilink") : 장터 사내들 역
+  - [조성원](../Page/조성원_\(배우\).md "wikilink") : 장터 사내들 역
   - 김얼 : 그림자 부대 역
   - 최재영 : 그림자 부대 역
   - 전재홍 : 그림자 부대 역
@@ -73,7 +73,7 @@
       - 조명상 - 신경만
       - 촬영상 - 황기석
   - 2005년 제26회 [청룡영화상](https://ko.wikipedia.org/wiki/청룡영화상 "wikilink")
-      - 미술상 - 이현주, [조근현](https://ko.wikipedia.org/wiki/조근현 "wikilink")
+      - 미술상 - 이현주, [조근현](../Page/조근현.md "wikilink")
       - 조명상 - 신경만
   - 2005년 제25회 [한국영화평론가협회상](https://ko.wikipedia.org/wiki/한국영화평론가협회상 "wikilink")
       - 최우수작품상 - [이명세](https://ko.wikipedia.org/wiki/이명세 "wikilink")

@@ -30,7 +30,7 @@
   - supercell "My Dearest"(소니 뮤직 엔터테인먼트) - 자켓 일러스트
   - [EGOIST](../Page/EGOIST.md "wikilink") "[Departures 〜당신에게 보내는 사랑의 노래〜](https://ko.wikipedia.org/wiki/Departures_〜당신에게_보내는_사랑의_노래〜 "wikilink")"([애니플렉스](https://ko.wikipedia.org/wiki/애니플렉스 "wikilink")) - 자켓 일러스트
   - 유키링 "[길티 크라운 레퀴엠 스코어](https://ko.wikipedia.org/wiki/길티_크라운 "wikilink")"(토쿠마 노벨스) - 표지 일러스트
-  - EGOIST "[The Everlasting Guilty Crown](https://ko.wikipedia.org/wiki/The_Everlasting_Guilty_Crown "wikilink")"(애니플렉스) - 자켓 일러스트
+  - EGOIST "[The Everlasting Guilty Crown](../Page/The_Everlasting_Guilty_Crown.md "wikilink")"(애니플렉스) - 자켓 일러스트
   - supercell "고백×우리들의 발자국" 초회한정판A(소니 뮤직 엔터테인먼트) - 자켓 일러스트
   - 스루가 히카루(砂阿久雁) "[길티 크라운 프린세스 오브 데드 풀](https://ko.wikipedia.org/wiki/길티_크라운 "wikilink")"([Nitroplus Books](https://ko.wikipedia.org/wiki/Nitroplus_Books "wikilink")) - 표지 일러스트
   - 슈키 리츠(周木 律) "[안구당의 살인 TheBook](https://ko.wikipedia.org/wiki/안구당의_살인_TheBook "wikilink")"(고단샤 노벨스) - 표지 일러스트

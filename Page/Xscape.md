@@ -5,7 +5,7 @@
 
 ## 배경
 
-2014년 3월 31일 《Xscape》에는 총 8곡의 노래가 수록된다고 공식 발표되었다.\[1\]\[2\] 이번 작은 2009년 잭슨의 죽음 이후 에픽 레코드에서 공개한 비공개 노래들을 모은 두 번째 사후 음반이다.\[3\] 타이틀 노래 〈Xscape〉는 2001년 《[Invincible](https://ko.wikipedia.org/wiki/Invincible_\(마이클_잭슨의_음반\) "wikilink")》 시기에 녹음한 것이다.\[4\] 음반의 이그제티브 프로듀서 미국의 힙합 프로듀서 [팀발랜드](https://ko.wikipedia.org/wiki/팀발랜드 "wikilink")와 [에픽 레코드의](https://ko.wikipedia.org/wiki/에픽_레코드 "wikilink") 사장 [엘에이 라이드는](https://ko.wikipedia.org/wiki/엘에이_라이드 "wikilink") [로드니 저킨스](https://ko.wikipedia.org/wiki/로드니_저킨스 "wikilink"), 스타게이트, 존 맥클라인과 함께 프로듀서로 참여했다.\[5\] 팀발랜드는 새로운 잭슨 프로젝트에 대해 논의하기 위해 라이드를 개인적으로 집에서 만났다고 한다.\[6\]
+2014년 3월 31일 《Xscape》에는 총 8곡의 노래가 수록된다고 공식 발표되었다.\[1\]\[2\] 이번 작은 2009년 잭슨의 죽음 이후 에픽 레코드에서 공개한 비공개 노래들을 모은 두 번째 사후 음반이다.\[3\] 타이틀 노래 〈Xscape〉는 2001년 《[Invincible](https://ko.wikipedia.org/wiki/Invincible_\(마이클_잭슨의_음반\) "wikilink")》 시기에 녹음한 것이다.\[4\] 음반의 이그제티브 프로듀서 미국의 힙합 프로듀서 [팀발랜드](https://ko.wikipedia.org/wiki/팀발랜드 "wikilink")와 [에픽 레코드의](https://ko.wikipedia.org/wiki/에픽_레코드 "wikilink") 사장 [엘에이 라이드는](https://ko.wikipedia.org/wiki/엘에이_라이드 "wikilink") [로드니 저킨스](../Page/로드니_저킨스.md "wikilink"), 스타게이트, 존 맥클라인과 함께 프로듀서로 참여했다.\[5\] 팀발랜드는 새로운 잭슨 프로젝트에 대해 논의하기 위해 라이드를 개인적으로 집에서 만났다고 한다.\[6\]
 
 ## 수록곡
 

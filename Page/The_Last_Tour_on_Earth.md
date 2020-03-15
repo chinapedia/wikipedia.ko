@@ -18,7 +18,7 @@
 11. The Beautiful People – 4:30
 12. Irresponsible Hate Anthem – 4:40
 13. The Last Day on Earth – 4:26
-14. Astonishing Panorama of the Endtimes (신곡, 작사: [마릴린 맨슨](https://ko.wikipedia.org/wiki/마릴린_맨슨 "wikilink")/작곡: [트위기 라미레즈](https://ko.wikipedia.org/wiki/트위기_라미레즈 "wikilink"), [존 5](https://ko.wikipedia.org/wiki/존_5 "wikilink")) – 3:59
+14. Astonishing Panorama of the Endtimes (신곡, 작사: [마릴린 맨슨](https://ko.wikipedia.org/wiki/마릴린_맨슨 "wikilink")/작곡: [트위기 라미레즈](https://ko.wikipedia.org/wiki/트위기_라미레즈 "wikilink"), [존 5](../Page/존_5.md "wikilink")) – 3:59
 
 ### 보너스 CD ([영국](https://ko.wikipedia.org/wiki/영국 "wikilink"), [오스트레일리아](https://ko.wikipedia.org/wiki/오스트레일리아 "wikilink"), [멕시코](https://ko.wikipedia.org/wiki/멕시코 "wikilink"))
 
@@ -39,7 +39,7 @@
   - [마돈나 웨인 게이시](https://ko.wikipedia.org/wiki/마돈나_웨인_게이시 "wikilink") - [건반 악기](https://ko.wikipedia.org/wiki/건반_악기 "wikilink"), [신시사이저](https://ko.wikipedia.org/wiki/신시사이저 "wikilink")
   - [트위기 라미레스](https://ko.wikipedia.org/wiki/트위기_라미레스 "wikilink") - [베이스 기타](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink")
   - [진저 피쉬](https://ko.wikipedia.org/wiki/진저_피쉬 "wikilink") - [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink")
-  - [존 5](https://ko.wikipedia.org/wiki/존_5 "wikilink") - [기타](https://ko.wikipedia.org/wiki/기타 "wikilink")
+  - [존 5](../Page/존_5.md "wikilink") - [기타](https://ko.wikipedia.org/wiki/기타 "wikilink")
 
 <!-- end list -->
 

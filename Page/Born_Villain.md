@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Born Villain](https://ko.wikipedia.org/wiki/Born_Villain).
 
 
-《**Born Villain**》은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [록 밴드](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [마릴린 맨슨의](../Page/마릴린_맨슨_\(밴드\).md "wikilink") 여덟 번째 정규앨범이다. 보너스 트랙으로는 미국의 여성 [작곡가 겸 가수](https://ko.wikipedia.org/wiki/작곡가_겸_가수 "wikilink") [칼리 사이먼의](https://ko.wikipedia.org/wiki/칼리_사이먼 "wikilink") 1972년 곡 〈[You're So Vain](https://ko.wikipedia.org/wiki/:en:You're_So_Vain "wikilink")〉을 커버하여 수록했고, 이 곡에 맨슨의 오랜 친구인 [영화배우](https://ko.wikipedia.org/wiki/영화배우 "wikilink") [조니 뎁이](https://ko.wikipedia.org/wiki/조니_뎁 "wikilink") 악기 연주로 참여하였다.\[1\]\[2\] 한편 앨범 작업 중이던 2011년에는 새로운 [베이시스트](https://ko.wikipedia.org/wiki/베이시스트 "wikilink")로 [프레드 사블란이](https://ko.wikipedia.org/wiki/프레드_사블란 "wikilink") 영입되었지만, 같은 해 말에 [크리스 브레나는](https://ko.wikipedia.org/wiki/크리스_브레나 "wikilink") 팀을 탈퇴하였다.
+《**Born Villain**》은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [록 밴드](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [마릴린 맨슨의](../Page/마릴린_맨슨_\(밴드\).md "wikilink") 여덟 번째 정규앨범이다. 보너스 트랙으로는 미국의 여성 [작곡가 겸 가수](https://ko.wikipedia.org/wiki/작곡가_겸_가수 "wikilink") [칼리 사이먼의](../Page/칼리_사이먼.md "wikilink") 1972년 곡 〈[You're So Vain](https://ko.wikipedia.org/wiki/:en:You're_So_Vain "wikilink")〉을 커버하여 수록했고, 이 곡에 맨슨의 오랜 친구인 [영화배우](https://ko.wikipedia.org/wiki/영화배우 "wikilink") [조니 뎁이](https://ko.wikipedia.org/wiki/조니_뎁 "wikilink") 악기 연주로 참여하였다.\[1\]\[2\] 한편 앨범 작업 중이던 2011년에는 새로운 [베이시스트](https://ko.wikipedia.org/wiki/베이시스트 "wikilink")로 [프레드 사블란이](https://ko.wikipedia.org/wiki/프레드_사블란 "wikilink") 영입되었지만, 같은 해 말에 [크리스 브레나는](https://ko.wikipedia.org/wiki/크리스_브레나 "wikilink") 팀을 탈퇴하였다.
 
 ## 수록곡
 

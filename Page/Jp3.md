@@ -40,7 +40,7 @@
 <li><a href="https://ko.wikipedia.org/wiki/이적_(가수)" title="wikilink">이적</a> - 프로듀서(3), 나일론 기타(3), 코러스(3)</li>
 <li>이성훈 - 프로그래밍(3)</li>
 <li><a href="https://ko.wikipedia.org/wiki/Sam_Lee" title="wikilink">Sam Lee</a> - <a href="https://ko.wikipedia.org/wiki/전기_기타" title="wikilink">전기 기타</a>(3, 10)</li>
-<li><a href="https://ko.wikipedia.org/wiki/정재일" title="wikilink">정재일</a> - <a href="https://ko.wikipedia.org/wiki/피아노" title="wikilink">피아노</a>(3)</li>
+<li><a href="../Page/정재일.md" title="wikilink">정재일</a> - <a href="https://ko.wikipedia.org/wiki/피아노" title="wikilink">피아노</a>(3)</li>
 <li>신연아 - 코러스(3, 6, 11)</li>
 <li>서영희 - 전화 통화 목소리(3)</li>
 <li><a href="https://ko.wikipedia.org/wiki/이청아" title="wikilink">이청아</a>, 장주희, 김다혜, 윤지영, 한선경(안산성안고연극부 -꼴아써-) - 대화(5)
@@ -50,7 +50,7 @@
 <li><a href="https://ko.wikipedia.org/wiki/이상순" title="wikilink">이상순</a> - 기타(6, 7, 11)</li>
 <li><a href="https://ko.wikipedia.org/wiki/김광민_(음악가)" title="wikilink">김광민</a> - 피아노(10)</li>
 <li>Janice Javier - 코러스(10)</li>
-<li><a href="https://ko.wikipedia.org/wiki/이주한_(음악가)" title="wikilink">이주한</a> - <a href="https://ko.wikipedia.org/wiki/트럼펫" title="wikilink">트럼펫</a>(12)</li>
+<li><a href="../Page/이주한_(음악가).md" title="wikilink">이주한</a> - <a href="https://ko.wikipedia.org/wiki/트럼펫" title="wikilink">트럼펫</a>(12)</li>
 <li>곽민석 - 기타(15)</li>
 <li>Mkopa ngouwa jambosamakta - 디지털 에디트</li>
 <li>Juchaleina Lafinv - 여러가지(16)</li>

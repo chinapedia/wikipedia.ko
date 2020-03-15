@@ -127,7 +127,7 @@
 
 (센터:이코마 리나)
 
-  - 1열: [이쿠타 에리카](../Page/이쿠타_에리카.md "wikilink"), [이코마 리나](../Page/이코마_리나.md "wikilink"), 호시노 미나미, [사쿠라이 레이카](https://ko.wikipedia.org/wiki/사쿠라이_레이카 "wikilink")
+  - 1열: [이쿠타 에리카](../Page/이쿠타_에리카.md "wikilink"), [이코마 리나](../Page/이코마_리나.md "wikilink"), 호시노 미나미, [사쿠라이 레이카](../Page/사쿠라이_레이카.md "wikilink")
   - 2열: 나카다 카나, [하시모토 나나미](../Page/하시모토_나나미.md "wikilink"), [시라이시 마이](https://ko.wikipedia.org/wiki/시라이시_마이 "wikilink"), [마츠무라 사유리](../Page/마츠무라_사유리.md "wikilink"), [니시노 나나세](../Page/니시노_나나세.md "wikilink"), 타카야마 카즈미
   - 3열: 사이토 유리, 와카츠키 유미, 이노우에 사유리, 이치키 레나, 이토 마리카, 신우치 마이
 
@@ -141,7 +141,7 @@
 
 (센터:이토 네네)
 
-  - 안도 미쿠모, 이토 네네, 이와세 유미코, [에토 미사](https://ko.wikipedia.org/wiki/에토_미사 "wikilink"), [카시와 유키나](https://ko.wikipedia.org/wiki/카시와_유키나 "wikilink"), 카와고 히나, 카와무라 마히로, [사이토 아스카](https://ko.wikipedia.org/wiki/사이토_아스카 "wikilink"), 사이토 치하루, 나카모토 히메카, 나가시마 세이라, 노죠 아미, 하타나카 세이라, 히구치 히나, 미야자와 세이라, 야마토 리나, 와다 마야
+  - 안도 미쿠모, 이토 네네, 이와세 유미코, [에토 미사](https://ko.wikipedia.org/wiki/에토_미사 "wikilink"), [카시와 유키나](https://ko.wikipedia.org/wiki/카시와_유키나 "wikilink"), 카와고 히나, 카와무라 마히로, [사이토 아스카](../Page/사이토_아스카.md "wikilink"), 사이토 치하루, 나카모토 히메카, 나가시마 세이라, 노죠 아미, 하타나카 세이라, 히구치 히나, 미야자와 세이라, 야마토 리나, 와다 마야
 
 ### 사람은 왜 달리는가?
 

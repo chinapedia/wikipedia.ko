@@ -21,15 +21,15 @@
 
   - 16강 경기가 풀리그에서 더블 엘리미네이션 제도로 변경
   - 3, 4위전 삭제
-  - 지난 시즌 개인전 본선 진출자 ([김민재](https://ko.wikipedia.org/wiki/김민재_\(프로게이머\) "wikilink"), [원창연](https://ko.wikipedia.org/wiki/원창연 "wikilink"), 김건우 등)들의 전원 탈락
+  - 지난 시즌 개인전 본선 진출자 ([김민재](https://ko.wikipedia.org/wiki/김민재_\(프로게이머\) "wikilink"), [원창연](../Page/원창연.md "wikilink"), 김건우 등)들의 전원 탈락
   - 지난 시즌 개인전 우승자 [김민재의](https://ko.wikipedia.org/wiki/김민재_\(프로게이머\) "wikilink") 8강 탈락
-  - 우승 후보 [원창연](https://ko.wikipedia.org/wiki/원창연 "wikilink")의 팀전,개인전 탈락
+  - 우승 후보 [원창연](../Page/원창연.md "wikilink")의 팀전,개인전 탈락
   - 지난 시즌 팀전 1, 2, 3위의 탈락
   - 신예 선수들의 강세와 기존 선수들의 약세
   - 피파온라인3 챔피언십의 1호 스타 플레이어 김승섭의 개인전 첫 출전
   - 선수 스쿼드 제한, 강화 제한이 기존의 선수 보유 스쿼드와 제한 없음에서 드래프트형식, +1로 고정 변경되었다.
   - 드래프트에서 같은 시즌, 선수의 제한은 1명으로 제한하게 된다.
-  - 본선 첫 진출인 [김정민과](https://ko.wikipedia.org/wiki/김정민_\(1988년\) "wikilink") 역시 본선 첫 진출인 Come on 팀의 우승
+  - 본선 첫 진출인 [김정민과](../Page/김정민_\(1988년\).md "wikilink") 역시 본선 첫 진출인 Come on 팀의 우승
 
 ## 상금
 
@@ -65,8 +65,8 @@
 
   - A조: [김민재](https://ko.wikipedia.org/wiki/김민재_\(프로게이머\) "wikilink"), 한영태, 장우영, 정지완
   - B조: 김승섭, 김건우, 양진모, 정현수
-  - C조: [김정민](https://ko.wikipedia.org/wiki/김정민_\(1988년\) "wikilink"), 박준효, 안혁, 이기석
-  - D조: [원창연](https://ko.wikipedia.org/wiki/원창연 "wikilink"), 이진규, 양진협, 장동훈
+  - C조: [김정민](../Page/김정민_\(1988년\).md "wikilink"), 박준효, 안혁, 이기석
+  - D조: [원창연](../Page/원창연.md "wikilink"), 이진규, 양진협, 장동훈
 
 ### 팀전
 
@@ -114,13 +114,13 @@
       - A조 패자조 준결승 진출: 장우영
   - B조 승자조 진출: 김승섭, 양진모
       - B조 패자조 준결승 진출: 정현수
-  - C조 승자조 진출: [김정민](https://ko.wikipedia.org/wiki/김정민_\(1988년\) "wikilink"), 안혁
+  - C조 승자조 진출: [김정민](../Page/김정민_\(1988년\).md "wikilink"), 안혁
       - C조 패자조 준결승 진출: 박준효
   - D조 승자조 진출: 이진규, 장동훈
       - D조 패자조 준결승 진출: 양진협
   - A조 승자조 결승: [김민재](https://ko.wikipedia.org/wiki/김민재_\(프로게이머\) "wikilink")
   - B조 승자조 결승: 양진모
-  - C조 승자조 결승: [김정민](https://ko.wikipedia.org/wiki/김정민_\(1988년\) "wikilink")
+  - C조 승자조 결승: [김정민](../Page/김정민_\(1988년\).md "wikilink")
   - D조 승자조 결승: 이진규
   - A조 패자조 결승: 정지완
   - B조 패자조 결승: 김승섭
@@ -131,7 +131,7 @@
 
 ### 개인전
 
-  - 우승: [김정민](https://ko.wikipedia.org/wiki/김정민_\(1988년\) "wikilink")
+  - 우승: [김정민](../Page/김정민_\(1988년\).md "wikilink")
   - 준우승: 박준효
 
 ### 팀전

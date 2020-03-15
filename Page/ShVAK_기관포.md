@@ -45,7 +45,7 @@ The end of the barrel was threaded, and this thread was used to screw on a blast
   - [폴리카르포프 I-16](https://ko.wikipedia.org/wiki/폴리카르포프_I-16 "wikilink")
   - [야코블레프 Yak-1](https://ko.wikipedia.org/wiki/야코블레프_Yak-1 "wikilink")
   - [야코블레프 Yak-3](https://ko.wikipedia.org/wiki/야코블레프_Yak-3 "wikilink")
-  - [야코블레프 Yak-7B](https://ko.wikipedia.org/wiki/야코블레프_Yak-7 "wikilink")
+  - [야코블레프 Yak-7B](../Page/야코블레프_Yak-7.md "wikilink")
   - [LaGG-3](https://ko.wikipedia.org/wiki/라보츠킨-고르부노프-구드코프_LaGG-3\(Lavochkin-Gorbunov-Goudkov_LaGG-3\) "wikilink")
   - [라보츠킨 La-5](https://ko.wikipedia.org/wiki/라보츠킨_La-5 "wikilink")
   - [페틀리야코프 Pe-2야간](https://ko.wikipedia.org/wiki/페틀리야코프_Pe-2 "wikilink") 전투기

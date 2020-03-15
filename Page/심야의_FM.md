@@ -9,12 +9,12 @@
   - [유지태](https://ko.wikipedia.org/wiki/유지태 "wikilink") : 청취자 한동수 역
   - [마동석](https://ko.wikipedia.org/wiki/마동석 "wikilink") : 손덕태 역
   - [정만식](https://ko.wikipedia.org/wiki/정만식 "wikilink") : 라디오 PD 오정무 역
-  - [김민규](https://ko.wikipedia.org/wiki/김민규_\(1980년\) "wikilink") : 양우한 역
+  - [김민규](../Page/김민규_\(1980년\).md "wikilink") : 양우한 역
   - [최송현](https://ko.wikipedia.org/wiki/최송현 "wikilink") : 라디오 작가 박경양 역
   - [신다은](https://ko.wikipedia.org/wiki/신다은 "wikilink") : 고아영 역
   - [이준하](https://ko.wikipedia.org/wiki/이준하 "wikilink") : 고은수 역
   - [최희원](https://ko.wikipedia.org/wiki/최희원 "wikilink") : 고현지 역
-  - [조석현](https://ko.wikipedia.org/wiki/조석현 "wikilink") : 조 형사 역
+  - [조석현](../Page/조석현.md "wikilink") : 조 형사 역
   - [곽도원](https://ko.wikipedia.org/wiki/곽도원 "wikilink") : 장석현 기자 역
   - [엄태구](../Page/엄태구.md "wikilink") : 엄 형사 역
   - [채희재](https://ko.wikipedia.org/wiki/채희재 "wikilink") : 채 형사 역
@@ -22,11 +22,11 @@
   - [이상홍](https://ko.wikipedia.org/wiki/이상홍_\(배우\) "wikilink") : 양복남 역
   - [김병순](https://ko.wikipedia.org/wiki/김병순 "wikilink") : 방송 국장 역
   - [김윤태](https://ko.wikipedia.org/wiki/김윤태_\(배우\) "wikilink") : 방문 경찰 1 역
-  - [이현걸](https://ko.wikipedia.org/wiki/이현걸 "wikilink") : 김태수 역
+  - [이현걸](../Page/이현걸.md "wikilink") : 김태수 역
   - [김규선](../Page/김규선.md "wikilink") : 소녀 역
-  - [윤희원](https://ko.wikipedia.org/wiki/윤희원 "wikilink") : 선배 앵커 역
+  - [윤희원](../Page/윤희원.md "wikilink") : 선배 앵커 역
   - [박태경](https://ko.wikipedia.org/wiki/박태경_\(배우\) "wikilink") : 취객 역
-  - [김보라](https://ko.wikipedia.org/wiki/송지인 "wikilink") : 앳된 여자 역
+  - [김보라](../Page/송지인.md "wikilink") : 앳된 여자 역
   - [김신영](https://ko.wikipedia.org/wiki/김신영 "wikilink") : 옆 스튜디오 DJ 역 (특별 출연)
   - [현아](https://ko.wikipedia.org/wiki/현아 "wikilink") : 옆 스튜디오 게스트 역 (특별 출연)
   - [남지현](https://ko.wikipedia.org/wiki/남지현_\(1990년\) "wikilink") : 옆 스튜디오 게스트 역 (특별 출연)

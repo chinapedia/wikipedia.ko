@@ -91,7 +91,7 @@ TPRC-0029</p></td>
 <tr class="odd">
 <td><p>6th</p></td>
 <td><p>2013년 <a href="https://ko.wikipedia.org/wiki/4월_17일" title="wikilink">4월 17일</a></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/차임가오와레바" title="wikilink">벨소리가 끝나면</a></strong></p></td>
+<td><p><strong><a href="../Page/차임가오와레바.md" title="wikilink">벨소리가 끝나면</a></strong></p></td>
 <td><p>CD+DVD(초회한정반A)<br />
 CD+DVD(초회한정반B)<br />
 CD+포토 부클렛(초회한정반C)<br />
@@ -115,7 +115,7 @@ WPCL-11396</p></td>
 <tr class="odd">
 <td><p>8th</p></td>
 <td><p>2014년 <a href="https://ko.wikipedia.org/wiki/1월_22일" title="wikilink">1월 22일</a></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/컬러풀데이즈" title="wikilink">컬러풀데이즈</a></strong></p></td>
+<td><p><strong><a href="../Page/컬러풀데이즈.md" title="wikilink">컬러풀데이즈</a></strong></p></td>
 <td><p>CD+DVD(초회한정반A)<br />
 CD+DVD(초회한정반B)<br />
 CD(초회한정반C)<br />
@@ -130,7 +130,7 @@ WPCL-11663</p></td>
 <tr class="even">
 <td><p>9th</p></td>
 <td><p>2014년 <a href="https://ko.wikipedia.org/wiki/7월_30일" title="wikilink">7월 30일</a></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/나츠코이_(LinQ의_노래)" title="wikilink">여름 사랑</a></strong></p></td>
+<td><p><strong><a href="../Page/나츠코이_(LinQ의_노래).md" title="wikilink">여름 사랑</a></strong></p></td>
 <td><p>CD(초회한정반)<br />
 CD(통상반)<br />
 CD(천신반)</p></td>

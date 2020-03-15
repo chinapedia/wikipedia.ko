@@ -5,7 +5,7 @@
 
 ## 개요
 
-[텔레비전 애니메이션](https://ko.wikipedia.org/wiki/텔레비전_애니메이션 "wikilink") 「[길티 크라운](https://ko.wikipedia.org/wiki/길티_크라운 "wikilink")」의 극중 아티스트로부터 탄생한 EGOIST의 앨범으로, 1st 싱글 「[Departures \~당신에게 보내는 사랑의 노래\~](https://ko.wikipedia.org/wiki/Departures_~당신에게_보내는_사랑의_노래~ "wikilink")」와 2nd 싱글 「[The Everlasting Guilty Crown](https://ko.wikipedia.org/wiki/The_Everlasting_Guilty_Crown "wikilink")」에 신규로 수록되는 곡이 10곡 수록되어 있다. 판매 형태는 초회 한정반과 통상반의 2종 릴리스로, 전자에는 1st, 2nd 싱글의 [PV](https://ko.wikipedia.org/wiki/뮤직_비디오 "wikilink") 에 가세해 PC게임 「[길티 크라운 로스트 크리스마스](https://ko.wikipedia.org/wiki/길티_크라운 "wikilink")」 동고의 OVA 주제가 「Planetes」와 길티 크라운 로스트 크리스마스의 쇼트 무비의 Planetes Ver.이 수록되어 있다.
+[텔레비전 애니메이션](https://ko.wikipedia.org/wiki/텔레비전_애니메이션 "wikilink") 「[길티 크라운](https://ko.wikipedia.org/wiki/길티_크라운 "wikilink")」의 극중 아티스트로부터 탄생한 EGOIST의 앨범으로, 1st 싱글 「[Departures \~당신에게 보내는 사랑의 노래\~](https://ko.wikipedia.org/wiki/Departures_~당신에게_보내는_사랑의_노래~ "wikilink")」와 2nd 싱글 「[The Everlasting Guilty Crown](../Page/The_Everlasting_Guilty_Crown.md "wikilink")」에 신규로 수록되는 곡이 10곡 수록되어 있다. 판매 형태는 초회 한정반과 통상반의 2종 릴리스로, 전자에는 1st, 2nd 싱글의 [PV](https://ko.wikipedia.org/wiki/뮤직_비디오 "wikilink") 에 가세해 PC게임 「[길티 크라운 로스트 크리스마스](https://ko.wikipedia.org/wiki/길티_크라운 "wikilink")」 동고의 OVA 주제가 「Planetes」와 길티 크라운 로스트 크리스마스의 쇼트 무비의 Planetes Ver.이 수록되어 있다.
 
 타이틀의 「Extra terrestrial Biological Entities」는, 자신이 있는 장소와 오우마 슈의 생사가 불명한 위에서 살아 나가는 것부터 내용 자체도 「유즈리하 이노리가 달에 가서 노래하고 있다」구성이 되어 있다\[1\].
 
@@ -16,7 +16,7 @@
 （전작사, 작곡, 편곡: ryo）
 
 1.  **원죄의 등**(原罪の灯) \[2:12\]
-2.  **[The Everlasting Guilty Crown](https://ko.wikipedia.org/wiki/The_Everlasting_Guilty_Crown "wikilink")** \[3:45\]
+2.  **[The Everlasting Guilty Crown](../Page/The_Everlasting_Guilty_Crown.md "wikilink")** \[3:45\]
       -
         텔레비전 애니메이션 「[길티 크라운](https://ko.wikipedia.org/wiki/길티_크라운 "wikilink")」후기 오프닝 테마
 3.  **Extra terrestrial Biological Entities** \[5:39\]

@@ -17,7 +17,7 @@
 
 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") 6월 2일에 [스파클링☆포인트](https://ko.wikipedia.org/wiki/스파클링☆포인트 "wikilink")의 해산이 발표되었다.
 
-[2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") 7월 21일에 [포니캐년](https://ko.wikipedia.org/wiki/포니캐년 "wikilink")에서 TV애니메이션 '[아마가미 SS](https://ko.wikipedia.org/wiki/아마가미 "wikilink")'의 오프닝 테마 '[i Love](https://ko.wikipedia.org/wiki/i_Love "wikilink")'로 재데뷔. 10월 20일에 2nd 싱글 '[너인 채로](https://ko.wikipedia.org/wiki/너인_채로 "wikilink")'를 릴리스. 지금까지 발매한 싱글이나 앨범은 모두 스파클링☆포인트 시대를 넘긴 히트를 기록했다.
+[2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") 7월 21일에 [포니캐년](https://ko.wikipedia.org/wiki/포니캐년 "wikilink")에서 TV애니메이션 '[아마가미 SS](https://ko.wikipedia.org/wiki/아마가미 "wikilink")'의 오프닝 테마 '[i Love](https://ko.wikipedia.org/wiki/i_Love "wikilink")'로 재데뷔. 10월 20일에 2nd 싱글 '[너인 채로](../Page/너인_채로.md "wikilink")'를 릴리스. 지금까지 발매한 싱글이나 앨범은 모두 스파클링☆포인트 시대를 넘긴 히트를 기록했다.
 
 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") 11월 6일의 블로그로, 활동 휴지를 발표했다.
 
@@ -87,14 +87,14 @@
 <tr class="even">
 <td><p>2nd</p></td>
 <td><p>2010년 <a href="https://ko.wikipedia.org/wiki/10월_20일" title="wikilink">10월 20일</a></p></td>
-<td><p><em>' <a href="https://ko.wikipedia.org/wiki/너인_채로" title="wikilink">너인 채로</a></em>'</p></td>
+<td><p><em>' <a href="../Page/너인_채로.md" title="wikilink">너인 채로</a></em>'</p></td>
 <td><p>PCCG-01112</p></td>
 <td><p>22위</p></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/2011년" title="wikilink">2011년</a> <a href="https://ko.wikipedia.org/wiki/4월_27일" title="wikilink">4월 27일</a></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/꿈_노트" title="wikilink">꿈 노트</a></strong></p></td>
+<td><p><strong><a href="../Page/꿈_노트.md" title="wikilink">꿈 노트</a></strong></p></td>
 <td><p>PCCG-01162(특별반)<br />
 PCCG-01164(통상반)</p></td>
 <td><p>38위</p></td>

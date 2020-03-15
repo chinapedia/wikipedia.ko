@@ -7,7 +7,7 @@
 
 [팀 스콜드가](https://ko.wikipedia.org/wiki/팀_스콜드 "wikilink") 팀에 새로 영입되어 공동 프로듀서를 맡아 작업을 함께 했다. 2003년 4월부터 12월까지 〈[Grotesk Burlesk 투어](https://ko.wikipedia.org/wiki/:en:Grotesk_Burlesk_Tour "wikilink")〉를 진행하게 되었다. 수록곡 중 〈mOBSCENE〉, 〈(s)AINT〉, 〈This Is the New Shit〉이 싱글로 발매되었으며, mOBSCENE의 뮤직비디오에는 벌레스크 아티스트인 [디타 본 티즈가](https://ko.wikipedia.org/wiki/디타_본_티즈 "wikilink") 출연했다.
 
-이 후, [존 5](https://ko.wikipedia.org/wiki/존_5 "wikilink"), [마돈나 웨인 게이시가](https://ko.wikipedia.org/wiki/마돈나_웨인_게이시 "wikilink") 마릴린 맨슨에서 탈퇴하게 된다.
+이 후, [존 5](../Page/존_5.md "wikilink"), [마돈나 웨인 게이시가](https://ko.wikipedia.org/wiki/마돈나_웨인_게이시 "wikilink") 마릴린 맨슨에서 탈퇴하게 된다.
 
 ## 내한 공연
 
@@ -35,7 +35,7 @@
   - [마돈나 웨인 게이시](https://ko.wikipedia.org/wiki/마돈나_웨인_게이시 "wikilink") - 건반 악기, 신시사이저, 루프
   - [팀 스콜드](https://ko.wikipedia.org/wiki/팀_스콜드 "wikilink")(Tim Sköld) - 프로듀서, [베이스 기타](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink"), [기타](https://ko.wikipedia.org/wiki/기타 "wikilink"), 드럼 프로그래밍, 디지털 에디트, [아코디언](https://ko.wikipedia.org/wiki/아코디언 "wikilink"), 건반, 루프, [아트워크](https://ko.wikipedia.org/wiki/아트워크 "wikilink")
   - [진저 피쉬](https://ko.wikipedia.org/wiki/진저_피쉬 "wikilink") - [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink")
-  - [존 5](https://ko.wikipedia.org/wiki/존_5 "wikilink") - 기타, [피아노](https://ko.wikipedia.org/wiki/피아노 "wikilink"), 오케스트레이션
+  - [존 5](../Page/존_5.md "wikilink") - 기타, [피아노](https://ko.wikipedia.org/wiki/피아노 "wikilink"), 오케스트레이션
 
 <!-- end list -->
 

@@ -7,11 +7,11 @@
 
 ### 마틴 레니 체제
 
-[2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [4월 9일](https://ko.wikipedia.org/wiki/4월_9일 "wikilink"), [이랜드그룹](https://ko.wikipedia.org/wiki/이랜드그룹 "wikilink")은 보도자료를 통해 서울 연고 프로 축구단을 창단한다고 밝혔다. [4월 14일에는](https://ko.wikipedia.org/wiki/4월_14일 "wikilink") 공식 창단 발표 기자회견과 함께 창단의향서를 [한국프로축구연맹](https://ko.wikipedia.org/wiki/한국프로축구연맹 "wikilink")에 제출하였다. [5월 1일](https://ko.wikipedia.org/wiki/5월_1일 "wikilink") [서울특별시](https://ko.wikipedia.org/wiki/서울특별시 "wikilink")와 연고지 협약을 체결하고 본격적인 창단 준비에 들어갔고\[3\] 16일에는 팬들을 대상으로 팀명과 팀의 상징, 팀 컬러에 대한 공모를 시작하였다.\[4\] [7월 17일](https://ko.wikipedia.org/wiki/7월_17일 "wikilink") [메이저 리그 사커](https://ko.wikipedia.org/wiki/메이저_리그_사커 "wikilink") [밴쿠버 화이트캡스에서](https://ko.wikipedia.org/wiki/밴쿠버_화이트캡스_FC "wikilink") 감독을 맡았던 [마틴 레니를](https://ko.wikipedia.org/wiki/마틴_레니 "wikilink") 초대 감독으로 선임하였다.\[5\] [8월 22일](https://ko.wikipedia.org/wiki/8월_22일 "wikilink") [한국프로축구연맹](https://ko.wikipedia.org/wiki/한국프로축구연맹 "wikilink")의 창단 승인이 완료되었으며\[6\] [8월 26일](https://ko.wikipedia.org/wiki/8월_26일 "wikilink") 구단명칭을 '서울 이랜드 FC'로 확정하였다.\[7\] [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [2월 7일](https://ko.wikipedia.org/wiki/2월_7일 "wikilink"), 서울 강남구 대치동 SETEC 컨벤션센터 1층에서 이루어진 팬포럼에서 구단 엠블럼을 공개하였다.\[8\]
+[2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [4월 9일](https://ko.wikipedia.org/wiki/4월_9일 "wikilink"), [이랜드그룹](https://ko.wikipedia.org/wiki/이랜드그룹 "wikilink")은 보도자료를 통해 서울 연고 프로 축구단을 창단한다고 밝혔다. [4월 14일에는](https://ko.wikipedia.org/wiki/4월_14일 "wikilink") 공식 창단 발표 기자회견과 함께 창단의향서를 [한국프로축구연맹](https://ko.wikipedia.org/wiki/한국프로축구연맹 "wikilink")에 제출하였다. [5월 1일](https://ko.wikipedia.org/wiki/5월_1일 "wikilink") [서울특별시](https://ko.wikipedia.org/wiki/서울특별시 "wikilink")와 연고지 협약을 체결하고 본격적인 창단 준비에 들어갔고\[3\] 16일에는 팬들을 대상으로 팀명과 팀의 상징, 팀 컬러에 대한 공모를 시작하였다.\[4\] [7월 17일](https://ko.wikipedia.org/wiki/7월_17일 "wikilink") [메이저 리그 사커](https://ko.wikipedia.org/wiki/메이저_리그_사커 "wikilink") [밴쿠버 화이트캡스에서](https://ko.wikipedia.org/wiki/밴쿠버_화이트캡스_FC "wikilink") 감독을 맡았던 [마틴 레니를](../Page/마틴_레니.md "wikilink") 초대 감독으로 선임하였다.\[5\] [8월 22일](https://ko.wikipedia.org/wiki/8월_22일 "wikilink") [한국프로축구연맹](https://ko.wikipedia.org/wiki/한국프로축구연맹 "wikilink")의 창단 승인이 완료되었으며\[6\] [8월 26일](https://ko.wikipedia.org/wiki/8월_26일 "wikilink") 구단명칭을 '서울 이랜드 FC'로 확정하였다.\[7\] [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [2월 7일](https://ko.wikipedia.org/wiki/2월_7일 "wikilink"), 서울 강남구 대치동 SETEC 컨벤션센터 1층에서 이루어진 팬포럼에서 구단 엠블럼을 공개하였다.\[8\]
 
-2015년 3월 29일 홈 경기장인 [서울올림픽주경기장](https://ko.wikipedia.org/wiki/서울올림픽주경기장 "wikilink")에서 [FC 안양을](https://ko.wikipedia.org/wiki/FC_안양 "wikilink") 상대로 창단 후 첫 공식 경기를 치렀으며 4월 11일 열린 [2015 FA컵](https://ko.wikipedia.org/wiki/FA컵_2015 "wikilink") 3라운드에서 [선문대학교](https://ko.wikipedia.org/wiki/선문대학교 "wikilink")를 상대로 공식 경기 첫 승을 거두었고 5월 2일 [수원 FC와의](https://ko.wikipedia.org/wiki/수원_FC "wikilink") 원정 경기에선 리그 첫 승을 챙겼다. 이후 [주민규](https://ko.wikipedia.org/wiki/주민규 "wikilink"), [타라바이](https://ko.wikipedia.org/wiki/이지종_루이스_두스_산투스 "wikilink") 등의 활약으로 리그 상위권을 유지하였으나 하반기에 주춤하여 정규 리그를 4위로 마감하였다. 정규 리그 종료 후 진행된 승격 플레이오프에서 정규시즌 3위인 [수원 FC를](https://ko.wikipedia.org/wiki/수원_FC "wikilink") 만났으나 3-3 무승부로 경기를 마쳐 정규시간동안 무승부시 정규리그 상위팀이 상위 플레이오프 라운드에 진출한다는 규정에 의해 플레이오프에서 탈락하며 첫 시즌을 마감하였다.
+2015년 3월 29일 홈 경기장인 [서울올림픽주경기장](https://ko.wikipedia.org/wiki/서울올림픽주경기장 "wikilink")에서 [FC 안양을](https://ko.wikipedia.org/wiki/FC_안양 "wikilink") 상대로 창단 후 첫 공식 경기를 치렀으며 4월 11일 열린 [2015 FA컵](../Page/FA컵_2015.md "wikilink") 3라운드에서 [선문대학교](https://ko.wikipedia.org/wiki/선문대학교 "wikilink")를 상대로 공식 경기 첫 승을 거두었고 5월 2일 [수원 FC와의](https://ko.wikipedia.org/wiki/수원_FC "wikilink") 원정 경기에선 리그 첫 승을 챙겼다. 이후 [주민규](../Page/주민규.md "wikilink"), [타라바이](../Page/이지종_루이스_두스_산투스.md "wikilink") 등의 활약으로 리그 상위권을 유지하였으나 하반기에 주춤하여 정규 리그를 4위로 마감하였다. 정규 리그 종료 후 진행된 승격 플레이오프에서 정규시즌 3위인 [수원 FC를](https://ko.wikipedia.org/wiki/수원_FC "wikilink") 만났으나 3-3 무승부로 경기를 마쳐 정규시간동안 무승부시 정규리그 상위팀이 상위 플레이오프 라운드에 진출한다는 규정에 의해 플레이오프에서 탈락하며 첫 시즌을 마감하였다.
 
-이듬해에는 수비 위주의 축구를 구사하는 모습을 보였고, 팀이 6위로 처지며 승격권에서 멀어지자, 2016년 6월 15일 [마틴 레니](https://ko.wikipedia.org/wiki/마틴_레니 "wikilink") 감독을 전격 해임하였다.
+이듬해에는 수비 위주의 축구를 구사하는 모습을 보였고, 팀이 6위로 처지며 승격권에서 멀어지자, 2016년 6월 15일 [마틴 레니](../Page/마틴_레니.md "wikilink") 감독을 전격 해임하였다.
 
 ### 박건하 체제
 
@@ -21,9 +21,9 @@
 
 ### 김병수 체제
 
-[2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [12월 23일](https://ko.wikipedia.org/wiki/12월_23일 "wikilink") 서울 이랜드 2대 대표이사로 한만진 대표가 선임되었다.\[9\] 새로운 대표이사의 선임과 함께 [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [1월 9일](https://ko.wikipedia.org/wiki/1월_9일 "wikilink") 박건하 감독이 사임하고 [영남대학교](https://ko.wikipedia.org/wiki/영남대학교 "wikilink") 감독 출신 [김병수가](https://ko.wikipedia.org/wiki/김병수_\(축구인\) "wikilink") 감독으로 내정되었다.\[10\]
+[2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [12월 23일](https://ko.wikipedia.org/wiki/12월_23일 "wikilink") 서울 이랜드 2대 대표이사로 한만진 대표가 선임되었다.\[9\] 새로운 대표이사의 선임과 함께 [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [1월 9일](https://ko.wikipedia.org/wiki/1월_9일 "wikilink") 박건하 감독이 사임하고 [영남대학교](https://ko.wikipedia.org/wiki/영남대학교 "wikilink") 감독 출신 [김병수가](../Page/김병수_\(축구인\).md "wikilink") 감독으로 내정되었다.\[10\]
 
-[3월 5일](https://ko.wikipedia.org/wiki/3월_5일 "wikilink") [부천 FC 1995와의](https://ko.wikipedia.org/wiki/부천_FC_1995 "wikilink") 리그 첫경기를 통해 김병수는 프로팀 감독 데뷔전을 치렀으나 1:2로 패했고, 이 경기를 포함해 내리 3연패를 하며 불안한 출발을 보였다. 4라운드에서 신생팀 [안산 그리너스 FC를](https://ko.wikipedia.org/wiki/안산_그리너스_FC "wikilink") 상대하여 1:0으로 이기면서 시즌 첫 승과 함께 김병수의 프로 첫 승을 신고했다. [5월 3일](https://ko.wikipedia.org/wiki/5월_3일 "wikilink") 10라운드 [성남 FC를](https://ko.wikipedia.org/wiki/성남_FC "wikilink") 상대로 2:0 승리를 거두며, 첫 원정 승리를 따냈다. 그러나 14라운드 [안산전](https://ko.wikipedia.org/wiki/안산_그리너스_FC "wikilink") 승리 이후 9경기 연속 무승을 거두며, 어려운 시기를 보냈다. 24라운드 [부천을](https://ko.wikipedia.org/wiki/부천_FC_1995 "wikilink") 상대로 4:1 승리를 시작으로 연달아 [대전](https://ko.wikipedia.org/wiki/대전_시티즌 "wikilink"), [아산](https://ko.wikipedia.org/wiki/아산_무궁화_축구단 "wikilink"), 그리고 리그 1위 팀 [경남까지](https://ko.wikipedia.org/wiki/경남_FC "wikilink") 무너뜨리며 4연승을 내달리기도 하였다. 그러나 그 이후 승리를 다시 쌓는데에 실패하며, 구단 역사상 최저 승점과 함께 일찍이 K리그 승격 플레이오프에 대해서는 탈락의 고배를 마셔야 했다. 그럼에도 구단에서는 김병수 감독에 대한 신뢰를 보내며, [K리그 챌린지 2018](https://ko.wikipedia.org/wiki/K리그_챌린지_2018 "wikilink") 시즌에도 함께 한다는 의지를 표명했다.
+[3월 5일](https://ko.wikipedia.org/wiki/3월_5일 "wikilink") [부천 FC 1995와의](https://ko.wikipedia.org/wiki/부천_FC_1995 "wikilink") 리그 첫경기를 통해 김병수는 프로팀 감독 데뷔전을 치렀으나 1:2로 패했고, 이 경기를 포함해 내리 3연패를 하며 불안한 출발을 보였다. 4라운드에서 신생팀 [안산 그리너스 FC를](../Page/안산_그리너스_FC.md "wikilink") 상대하여 1:0으로 이기면서 시즌 첫 승과 함께 김병수의 프로 첫 승을 신고했다. [5월 3일](https://ko.wikipedia.org/wiki/5월_3일 "wikilink") 10라운드 [성남 FC를](https://ko.wikipedia.org/wiki/성남_FC "wikilink") 상대로 2:0 승리를 거두며, 첫 원정 승리를 따냈다. 그러나 14라운드 [안산전](../Page/안산_그리너스_FC.md "wikilink") 승리 이후 9경기 연속 무승을 거두며, 어려운 시기를 보냈다. 24라운드 [부천을](https://ko.wikipedia.org/wiki/부천_FC_1995 "wikilink") 상대로 4:1 승리를 시작으로 연달아 [대전](https://ko.wikipedia.org/wiki/대전_시티즌 "wikilink"), [아산](https://ko.wikipedia.org/wiki/아산_무궁화_축구단 "wikilink"), 그리고 리그 1위 팀 [경남까지](https://ko.wikipedia.org/wiki/경남_FC "wikilink") 무너뜨리며 4연승을 내달리기도 하였다. 그러나 그 이후 승리를 다시 쌓는데에 실패하며, 구단 역사상 최저 승점과 함께 일찍이 K리그 승격 플레이오프에 대해서는 탈락의 고배를 마셔야 했다. 그럼에도 구단에서는 김병수 감독에 대한 신뢰를 보내며, [K리그 챌린지 2018](https://ko.wikipedia.org/wiki/K리그_챌린지_2018 "wikilink") 시즌에도 함께 한다는 의지를 표명했다.
 
 [11월 17일](https://ko.wikipedia.org/wiki/11월_17일 "wikilink") 김병수 감독과 한만진 대표 이사가 동반 사임하였고, 새로운 대표이사로 김현수 [이랜드파크](https://ko.wikipedia.org/wiki/이랜드파크 "wikilink") 대표가 선임되었다.\[11\] 김병수 감독은 본래 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink") 견학 및 유럽 연수 등 새 시즌에 대한 준비를 발빠르게 진행하고 있었으나, 새로운 대표 이사가 선임되면서 16일 오후 갑작스럽게 계약 해지에 이르게 된 것이다.\[12\]
 
@@ -31,15 +31,15 @@
 
 ### 인창수 체제
 
-그러나 [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [12월 5일](https://ko.wikipedia.org/wiki/12월_5일 "wikilink") [김병수](https://ko.wikipedia.org/wiki/김병수_\(축구인\) "wikilink") 전 감독의 후임으로, 구단 코치 출신인 [인창수](https://ko.wikipedia.org/wiki/인창수 "wikilink")가 4대 감독으로 선임되었음이 발표되었다.\[15\] 인창수는 [아르헨티나](https://ko.wikipedia.org/wiki/아르헨티나 "wikilink") 국적을 가지고 있으며, 이 국적을 보유한 것으로 [K리그](https://ko.wikipedia.org/wiki/K리그 "wikilink")와 서울 이랜드 FC 역사상 최초의 아르헨티나 국적 감독이 되었다. 그러나 [김병수](https://ko.wikipedia.org/wiki/김병수_\(축구인\) "wikilink") 사임 건을 중심으로 팬들의 반발이 거세지면서, [12월 18일](https://ko.wikipedia.org/wiki/12월_18일 "wikilink") 구단에서는 팬들과 간담회를 개최하였다.\[16\] 간담회에서는 이전 감독 및 구단 운영과 관련된 일련의 사태에 대한 해명과 구단의 향후 비전에 대해 주로 다루어졌다. 분위기는 수그러드는 듯 하였지만, [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [1월 4일](https://ko.wikipedia.org/wiki/1월_4일 "wikilink") [K리그 승부조작 사건에](https://ko.wikipedia.org/wiki/K리그_승부조작_사건 "wikilink") 연루되었던 [수비수](https://ko.wikipedia.org/wiki/수비수 "wikilink") [안지호가](https://ko.wikipedia.org/wiki/안지호_\(축구_선수\) "wikilink") 영입되면서,\[17\] 구단은 다시금 논란에 휩싸였다.
+그러나 [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [12월 5일](https://ko.wikipedia.org/wiki/12월_5일 "wikilink") [김병수](../Page/김병수_\(축구인\).md "wikilink") 전 감독의 후임으로, 구단 코치 출신인 [인창수](https://ko.wikipedia.org/wiki/인창수 "wikilink")가 4대 감독으로 선임되었음이 발표되었다.\[15\] 인창수는 [아르헨티나](https://ko.wikipedia.org/wiki/아르헨티나 "wikilink") 국적을 가지고 있으며, 이 국적을 보유한 것으로 [K리그](https://ko.wikipedia.org/wiki/K리그 "wikilink")와 서울 이랜드 FC 역사상 최초의 아르헨티나 국적 감독이 되었다. 그러나 [김병수](../Page/김병수_\(축구인\).md "wikilink") 사임 건을 중심으로 팬들의 반발이 거세지면서, [12월 18일](https://ko.wikipedia.org/wiki/12월_18일 "wikilink") 구단에서는 팬들과 간담회를 개최하였다.\[16\] 간담회에서는 이전 감독 및 구단 운영과 관련된 일련의 사태에 대한 해명과 구단의 향후 비전에 대해 주로 다루어졌다. 분위기는 수그러드는 듯 하였지만, [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [1월 4일](https://ko.wikipedia.org/wiki/1월_4일 "wikilink") [K리그 승부조작 사건에](https://ko.wikipedia.org/wiki/K리그_승부조작_사건 "wikilink") 연루되었던 [수비수](https://ko.wikipedia.org/wiki/수비수 "wikilink") [안지호가](https://ko.wikipedia.org/wiki/안지호_\(축구_선수\) "wikilink") 영입되면서,\[17\] 구단은 다시금 논란에 휩싸였다.
 
 [3월 28일](https://ko.wikipedia.org/wiki/3월_28일 "wikilink") [FA컵에서](https://ko.wikipedia.org/wiki/FA컵_2018 "wikilink") [고려대학교에게](https://ko.wikipedia.org/wiki/고려대학교_축구부 "wikilink") [승부차기](https://ko.wikipedia.org/wiki/승부차기 "wikilink") 끝에 패배하며, 팬들의 실망감을 샀다.\[18\] 인창수 사단의 첫 승은 [4월 14일](https://ko.wikipedia.org/wiki/4월_14일 "wikilink") [FC 안양과의](https://ko.wikipedia.org/wiki/FC_안양 "wikilink") 홈 경기에서 이루어졌으나, 이는 상대 [골키퍼](https://ko.wikipedia.org/wiki/골키퍼 "wikilink") [전수현](https://ko.wikipedia.org/wiki/전수현 "wikilink")의 자책골로 인해 얻은 행운의 승리였다.\[19\] 지속적으로 좋지 않은 분위기를 이끌어가던 와중, [5월 19일](https://ko.wikipedia.org/wiki/5월_19일 "wikilink") [부천 FC 1995를](https://ko.wikipedia.org/wiki/부천_FC_1995 "wikilink") 상대로 원정에서 첫 승이자 3 : 0 대승을 거두며 모두를 놀라게 하기도 했다.\[20\] [8월 11일](https://ko.wikipedia.org/wiki/8월_11일 "wikilink") K리그2 23라운드 [부산 아이파크와의](https://ko.wikipedia.org/wiki/부산_아이파크 "wikilink") 홈 경기에서 0 : 5 참패를 당하기도 했다.\[21\] 이는 부산의 창단 이후 역사상 최다 점수차 승리이자, 서울 이랜드의 창단 이후 역사상 최다 점수차 패배이기도 하였다. 이전까지는 3점차 패배가 최다 점수차였으며, 홈에서의 3점차 패배는 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [10월 18일](https://ko.wikipedia.org/wiki/10월_18일 "wikilink") [수원 FC에게](https://ko.wikipedia.org/wiki/수원_FC "wikilink") 1 : 4 패배를 했던 것이 마지막이었다.
 
-[8월 23일](https://ko.wikipedia.org/wiki/8월_23일 "wikilink") [대한민국 축구 국가대표팀의](https://ko.wikipedia.org/wiki/대한민국_축구_국가대표팀 "wikilink") 신임 감독으로 부임했던 [파울루 벤투가](../Page/파울루_벤투.md "wikilink") 서울 이랜드 FC의 코치로 임하던 [최태욱](https://ko.wikipedia.org/wiki/최태욱 "wikilink")을 국가대표팀 코치로 발탁하였다.\[22\] 이로써 하나밖에 없던 일반 코치마저 팀을 떠나게 되자, 구단은 급히 [김준태를](https://ko.wikipedia.org/wiki/김준태_\(축구_선수\) "wikilink") [플레잉코치](https://ko.wikipedia.org/wiki/플레잉코치 "wikilink")로 임명하여 코치진 수를 채웠다.\[23\] 서울 이랜드 FC는 시즌 내내 8\~9위를 오갔으나, 28라운드 대전전 이후 꼴찌로 추락하였다. 30라운드 광주전 홈 경기 1:4 대패, 32라운드 부산전 원정 1:3 대패, 34라운드 아산전 홈 경기 0:4 대패를 기록하며 분위기는 최악으로 치닫기 시작했다. 결국 35라운드 [안산 그리너스를](https://ko.wikipedia.org/wiki/안산_그리너스_FC "wikilink") 상대로 0:0 무승부를 기록하며, [K리그2 2018시즌](https://ko.wikipedia.org/wiki/K리그2_2018 "wikilink") 최하위 팀으로 전락하고 말았다.
+[8월 23일](https://ko.wikipedia.org/wiki/8월_23일 "wikilink") [대한민국 축구 국가대표팀의](https://ko.wikipedia.org/wiki/대한민국_축구_국가대표팀 "wikilink") 신임 감독으로 부임했던 [파울루 벤투가](../Page/파울루_벤투.md "wikilink") 서울 이랜드 FC의 코치로 임하던 [최태욱](https://ko.wikipedia.org/wiki/최태욱 "wikilink")을 국가대표팀 코치로 발탁하였다.\[22\] 이로써 하나밖에 없던 일반 코치마저 팀을 떠나게 되자, 구단은 급히 [김준태를](../Page/김준태_\(축구_선수\).md "wikilink") [플레잉코치](https://ko.wikipedia.org/wiki/플레잉코치 "wikilink")로 임명하여 코치진 수를 채웠다.\[23\] 서울 이랜드 FC는 시즌 내내 8\~9위를 오갔으나, 28라운드 대전전 이후 꼴찌로 추락하였다. 30라운드 광주전 홈 경기 1:4 대패, 32라운드 부산전 원정 1:3 대패, 34라운드 아산전 홈 경기 0:4 대패를 기록하며 분위기는 최악으로 치닫기 시작했다. 결국 35라운드 [안산 그리너스를](../Page/안산_그리너스_FC.md "wikilink") 상대로 0:0 무승부를 기록하며, [K리그2 2018시즌](https://ko.wikipedia.org/wiki/K리그2_2018 "wikilink") 최하위 팀으로 전락하고 말았다.
 
 ### 김현수 체제
 
-[2018 시즌](https://ko.wikipedia.org/wiki/K리그2_2018 "wikilink") 종료 이후 인창수 감독은 계약 기간이 종료 되어 팀을 떠났고, [12월 15일](https://ko.wikipedia.org/wiki/12월_15일 "wikilink") 수석 스카우터 직을 맡고 있던 [김현수를](https://ko.wikipedia.org/wiki/김현수_\(1973년_3월\) "wikilink") 내부승진시켜 감독으로 선임 하였다.\[24\] 김현수 감독은 구단 공식 페이스북 페이지를 통해 영상 인터뷰로 팬들과 접촉하였으며, 빌드업을 중시하는 경향을 지니고 있음을 밝히기도 했다. 지난 시즌 최하위에 머물렀던 서울 이랜드 FC를 맡게 된 김현수 감독은 이적시장을 과감하게 활용하였다. 우선적으로 팀의 중심이 되어 있었던 [전민광](https://ko.wikipedia.org/wiki/전민광 "wikilink"), [주민규](https://ko.wikipedia.org/wiki/주민규 "wikilink"), [최오백](https://ko.wikipedia.org/wiki/최오백 "wikilink")을 각각 [포항 스틸러스](https://ko.wikipedia.org/wiki/포항_스틸러스 "wikilink"), [울산 현대](https://ko.wikipedia.org/wiki/울산_현대_FC "wikilink"), [성남 FC로](https://ko.wikipedia.org/wiki/성남_FC "wikilink") 떠나보냈다. 반면 [마스다 지카시](https://ko.wikipedia.org/wiki/마스다_지카시 "wikilink"), [호브종 카를루스 두아르치](https://ko.wikipedia.org/wiki/호브종_카를루스_두아르치 "wikilink") 등을 영입하며 리빌딩 작업에 박차를 가하고 있음을 나타냈다.
+[2018 시즌](https://ko.wikipedia.org/wiki/K리그2_2018 "wikilink") 종료 이후 인창수 감독은 계약 기간이 종료 되어 팀을 떠났고, [12월 15일](https://ko.wikipedia.org/wiki/12월_15일 "wikilink") 수석 스카우터 직을 맡고 있던 [김현수를](https://ko.wikipedia.org/wiki/김현수_\(1973년_3월\) "wikilink") 내부승진시켜 감독으로 선임 하였다.\[24\] 김현수 감독은 구단 공식 페이스북 페이지를 통해 영상 인터뷰로 팬들과 접촉하였으며, 빌드업을 중시하는 경향을 지니고 있음을 밝히기도 했다. 지난 시즌 최하위에 머물렀던 서울 이랜드 FC를 맡게 된 김현수 감독은 이적시장을 과감하게 활용하였다. 우선적으로 팀의 중심이 되어 있었던 [전민광](../Page/전민광.md "wikilink"), [주민규](../Page/주민규.md "wikilink"), [최오백](../Page/최오백.md "wikilink")을 각각 [포항 스틸러스](https://ko.wikipedia.org/wiki/포항_스틸러스 "wikilink"), [울산 현대](https://ko.wikipedia.org/wiki/울산_현대_FC "wikilink"), [성남 FC로](https://ko.wikipedia.org/wiki/성남_FC "wikilink") 떠나보냈다. 반면 [마스다 지카시](https://ko.wikipedia.org/wiki/마스다_지카시 "wikilink"), [호브종 카를루스 두아르치](https://ko.wikipedia.org/wiki/호브종_카를루스_두아르치 "wikilink") 등을 영입하며 리빌딩 작업에 박차를 가하고 있음을 나타냈다.
 
 그러나 제 100회 [전국체육대회](https://ko.wikipedia.org/wiki/전국체육대회 "wikilink")가 [10월 4일](https://ko.wikipedia.org/wiki/10월_4일 "wikilink") [잠실종합운동장](https://ko.wikipedia.org/wiki/잠실종합운동장 "wikilink")에서 열리게 되면서, 3월부터 7월까지 보수공사가 잡히면서 서울 이랜드 FC는 이 기간 동안 홈 경기장으로써 잠실종합운동장을 사용할 수 없게 되었다. 공사 기간 뿐만 아니라 전국체전 예선, 장애인체전까지 진행해야하는 상황이라, 9월 내지는 10월까지 사용할 수 없는 상태에 이른 것이다. 이에 [프로축구연맹](https://ko.wikipedia.org/wiki/프로축구연맹 "wikilink")은 2\~3월 간 보조구장 공사를 우선적으로 마쳐, 서울 이랜드 FC가 보조구장을 우선 사용하고, 종합운동장은 4\~7월에 공사하는 것으로 시차를 두는 방안을 제시하였다. 그러나 서울시 체육시설관리사업소는 이를 완강하게 거부하였고, [1월 22일](https://ko.wikipedia.org/wiki/1월_22일 "wikilink") 결국 시즌 7경기만 [서울올림픽주경기장](https://ko.wikipedia.org/wiki/서울올림픽주경기장 "wikilink")을 사용하는 것이 확정된 채 경기 일정을 발표하였다.\[25\]\[26\] 서울 이랜드 FC는 [목동운동장](https://ko.wikipedia.org/wiki/목동운동장 "wikilink"), [서울월드컵경기장](https://ko.wikipedia.org/wiki/서울월드컵경기장 "wikilink") 등을 활용하는 방안을 모색하기도 하였으나 모두 실패하였고, 결국 시즌 6경기를 [천안종합운동장](https://ko.wikipedia.org/wiki/천안종합운동장 "wikilink")에서 개최하게 되었다.\[27\] 구단은 [2017년 FIFA U-20 월드컵](https://ko.wikipedia.org/wiki/2017년_FIFA_U-20_월드컵 "wikilink") 개최로 인해 경기장이 전면 개보수 된 점과, 접근성이 용이하다는 판단을 내리고 천안종합운동장을 임시 홈 구장으로 선정하였던 것이다.\[28\]
 
@@ -309,7 +309,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1대</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/마틴_레니" title="wikilink">마틴 레니</a></p></td>
+<td><p><a href="../Page/마틴_레니.md" title="wikilink">마틴 레니</a></p></td>
 <td><p>2014/07/17</p></td>
 <td><p>2014/09/11</p></td>
 <td><p>2016/06/15</p></td>
@@ -363,7 +363,7 @@
 </tr>
 <tr class="even">
 <td><p>3대</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김병수_(축구인)" title="wikilink">김병수</a></p></td>
+<td><p><a href="../Page/김병수_(축구인).md" title="wikilink">김병수</a></p></td>
 <td><p>2017/01/09</p></td>
 <td><p>2017/01/09</p></td>
 <td><p>2017/11/17</p></td>
@@ -692,7 +692,7 @@
 <tr class="even">
 <td><p>2</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/수비수" title="wikilink">DF</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/전민광" title="wikilink">전민광</a></p></td>
+<td><p><a href="../Page/전민광.md" title="wikilink">전민광</a></p></td>
 <td><p>104</p></td>
 <td><p>3</p></td>
 <td><p><strong>107</strong></p></td>
@@ -700,7 +700,7 @@
 <tr class="odd">
 <td><p>3</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/미드필더" title="wikilink">MF</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김창욱_(축구_선수)" title="wikilink">김창욱</a></p></td>
+<td><p><a href="../Page/김창욱_(축구_선수).md" title="wikilink">김창욱</a></p></td>
 <td><p>83</p></td>
 <td><p>5</p></td>
 <td><p><strong>88</strong></p></td>
@@ -708,7 +708,7 @@
 <tr class="even">
 <td><p>4</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/공격수" title="wikilink">FW</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이지종_루이스_두스_산투스" title="wikilink">타라바이</a></p></td>
+<td><p><a href="../Page/이지종_루이스_두스_산투스.md" title="wikilink">타라바이</a></p></td>
 <td><p>72</p></td>
 <td><p>3</p></td>
 <td><p><strong>75</strong></p></td>
@@ -716,7 +716,7 @@
 <tr class="odd">
 <td><p>5</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/공격수" title="wikilink">FW</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/주민규" title="wikilink">주민규</a></p></td>
+<td><p><a href="../Page/주민규.md" title="wikilink">주민규</a></p></td>
 <td><p>72</p></td>
 <td><p>3</p></td>
 <td><p><strong>75</strong></p></td>
@@ -724,7 +724,7 @@
 <tr class="even">
 <td><p>6</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/공격수" title="wikilink">FW</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/최오백" title="wikilink">최오백</a></p></td>
+<td><p><a href="../Page/최오백.md" title="wikilink">최오백</a></p></td>
 <td><p>73</p></td>
 <td><p>1</p></td>
 <td><p><strong>74</strong></p></td>
@@ -740,14 +740,14 @@
 <tr class="even">
 <td><p>8</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/미드필더" title="wikilink">MF</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김준태_(축구_선수)" title="wikilink">김준태</a></p></td>
+<td><p><a href="../Page/김준태_(축구_선수).md" title="wikilink">김준태</a></p></td>
 <td><p>64</p></td>
 <td><p>0</p></td>
 <td><p><strong>64</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/수비수" title="wikilink">DF</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/칼라일_미첼" title="wikilink">칼라일 미첼</a></p></td>
+<td><p><a href="../Page/칼라일_미첼.md" title="wikilink">칼라일 미첼</a></p></td>
 <td><p>61</p></td>
 <td><p>3</p></td>
 <td></td>
@@ -791,7 +791,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/공격수" title="wikilink">FW</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/주민규" title="wikilink">주민규</a></p></td>
+<td><p><a href="../Page/주민규.md" title="wikilink">주민규</a></p></td>
 <td><p>37</p></td>
 <td><p>2</p></td>
 <td><p>39</p></td>
@@ -799,7 +799,7 @@
 <tr class="even">
 <td><p>2</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/공격수" title="wikilink">FW</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이지종_루이스_두스_산투스" title="wikilink">타라바이</a></p></td>
+<td><p><a href="../Page/이지종_루이스_두스_산투스.md" title="wikilink">타라바이</a></p></td>
 <td><p>30</p></td>
 <td><p>3</p></td>
 <td><p>33</p></td>
@@ -815,7 +815,7 @@
 <tr class="even">
 <td><p>4</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/공격수" title="wikilink">FW</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/최오백" title="wikilink">최오백</a></p></td>
+<td><p><a href="../Page/최오백.md" title="wikilink">최오백</a></p></td>
 <td><p>11</p></td>
 <td><p>0</p></td>
 <td><p>11</p></td>
@@ -823,7 +823,7 @@
 <tr class="odd">
 <td><p>5</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/미드필더" title="wikilink">MF</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/최치원_(축구_선수)" title="wikilink">최치원</a></p></td>
+<td><p><a href="../Page/최치원_(축구_선수).md" title="wikilink">최치원</a></p></td>
 <td><p>9</p></td>
 <td><p>0</p></td>
 <td><p>9</p></td>
@@ -874,14 +874,14 @@
 <tr class="even">
 <td><p>2</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/공격수" title="wikilink">FW</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/주민규" title="wikilink">주민규</a></p></td>
+<td><p><a href="../Page/주민규.md" title="wikilink">주민규</a></p></td>
 <td><p>10</p></td>
 <td><p>0</p></td>
 <td><p>10</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/공격수" title="wikilink">FW</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/최오백" title="wikilink">최오백</a></p></td>
+<td><p><a href="../Page/최오백.md" title="wikilink">최오백</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -905,7 +905,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/미드필더" title="wikilink">MF</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김창욱_(축구_선수)" title="wikilink">김창욱</a></p></td>
+<td><p><a href="../Page/김창욱_(축구_선수).md" title="wikilink">김창욱</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -939,7 +939,7 @@
 <tr class="odd">
 <td><p>1호</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/공격수" title="wikilink">FW</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/주민규" title="wikilink">주민규</a></p></td>
+<td><p><a href="../Page/주민규.md" title="wikilink">주민규</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_챌린지_2015" title="wikilink">2015년</a> <a href="https://ko.wikipedia.org/wiki/6월_3일" title="wikilink">6월 3일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/부천_FC_1995" title="wikilink">부천 FC 1995</a></p></td>
 <td><p>원정</p></td>
@@ -947,7 +947,7 @@
 <tr class="even">
 <td><p>2호</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/공격수" title="wikilink">FW</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이지종_루이스_두스_산투스" title="wikilink">타라바이</a></p></td>
+<td><p><a href="../Page/이지종_루이스_두스_산투스.md" title="wikilink">타라바이</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_챌린지_2015" title="wikilink">2015년</a> <a href="https://ko.wikipedia.org/wiki/10월_3일" title="wikilink">10월 3일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/FC_안양" title="wikilink">FC 안양</a></p></td>
 <td><p>원정</p></td>
@@ -955,7 +955,7 @@
 <tr class="odd">
 <td><p>3호</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/공격수" title="wikilink">FW</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/최오백" title="wikilink">최오백</a></p></td>
+<td><p><a href="../Page/최오백.md" title="wikilink">최오백</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_챌린지_2017" title="wikilink">2017년</a> <a href="https://ko.wikipedia.org/wiki/8월_23일" title="wikilink">8월 23일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/아산_무궁화" title="wikilink">아산 무궁화</a></p></td>
 <td><p>홈</p></td>
@@ -989,18 +989,18 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/서울_이랜드_FC_2016_시즌" title="wikilink">2016년</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김동철_(축구_선수)" title="wikilink">김동철</a></p></td>
+<td><p><a href="../Page/김동철_(축구_선수).md" title="wikilink">김동철</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/서울_이랜드_FC_2017_시즌" title="wikilink">2017년</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/김영광_(축구인)" title="wikilink">김영광</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김준태_(축구_선수)" title="wikilink">김준태</a></p></td>
+<td><p><a href="../Page/김준태_(축구_선수).md" title="wikilink">김준태</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/서울_이랜드_FC_2018_시즌" title="wikilink">2018년</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김준태_(축구_선수)" title="wikilink">김준태</a><br />
- <a href="https://ko.wikipedia.org/wiki/전민광" title="wikilink">전민광</a></p></td>
+<td><p><a href="../Page/김준태_(축구_선수).md" title="wikilink">김준태</a><br />
+ <a href="../Page/전민광.md" title="wikilink">전민광</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1038,13 +1038,13 @@
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_챌린지_2015" title="wikilink">2015</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/공격수" title="wikilink">FW</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/주민규" title="wikilink">주민규</a></p></td>
+<td><p><a href="../Page/주민규.md" title="wikilink">주민규</a></p></td>
 <td><p>23</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_챌린지_2016" title="wikilink">2016</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/공격수" title="wikilink">FW</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/주민규" title="wikilink">주민규</a></p></td>
+<td><p><a href="../Page/주민규.md" title="wikilink">주민규</a></p></td>
 <td><p>14</p></td>
 </tr>
 <tr class="odd">
@@ -1128,13 +1128,13 @@
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_챌린지_2015" title="wikilink">2015</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/공격수" title="wikilink">FW</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/주민규" title="wikilink">주민규</a></p></td>
+<td><p><a href="../Page/주민규.md" title="wikilink">주민규</a></p></td>
 <td><p>30</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_챌린지_2016" title="wikilink">2016</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/공격수" title="wikilink">FW</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/주민규" title="wikilink">주민규</a></p></td>
+<td><p><a href="../Page/주민규.md" title="wikilink">주민규</a></p></td>
 <td><p>17</p></td>
 </tr>
 <tr class="odd">
@@ -1181,7 +1181,7 @@
 
 ### 서울올림픽주경기장
 
-**서울올림픽주경기장**은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") [서울특별시](https://ko.wikipedia.org/wiki/서울특별시 "wikilink") [송파구](https://ko.wikipedia.org/wiki/송파구 "wikilink")의 [스포츠 경기장 종합 단지인](https://ko.wikipedia.org/wiki/종합운동장 "wikilink") [서울종합운동장](https://ko.wikipedia.org/wiki/서울종합운동장 "wikilink")내에 있는 관중석 69,950석 규모의 [다목적 경기장으로](https://ko.wikipedia.org/wiki/다목적_경기장 "wikilink"), 최대 10만 명 수용이 가능한 대한민국 최대 규모의 경기장이다. 서울종합운동장 올림픽주경기장이 전체 이름이며 잠실올림픽주경기장이라는 이름으로 더 많이 알려져 있다. 서울종합운동장 주경기장 혹은 잠실종합운동장 주경기장, 짧게는 올림픽주경기장, 잠실주경기장 등 여러 명칭으로 불리고 있다. K리그 챌린지 신생팀 [서울 이랜드 FC가](https://ko.wikipedia.org/wiki/서울_이랜드_FC "wikilink") 홈구장으로 사용중이며 [서울 이랜드의](https://ko.wikipedia.org/wiki/서울_이랜드_FC "wikilink") 홈경기시 가변좌석을 설치해 운영한다.\[29\]
+**서울올림픽주경기장**은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") [서울특별시](https://ko.wikipedia.org/wiki/서울특별시 "wikilink") [송파구](https://ko.wikipedia.org/wiki/송파구 "wikilink")의 [스포츠 경기장 종합 단지인](https://ko.wikipedia.org/wiki/종합운동장 "wikilink") [서울종합운동장](https://ko.wikipedia.org/wiki/서울종합운동장 "wikilink")내에 있는 관중석 69,950석 규모의 [다목적 경기장으로](https://ko.wikipedia.org/wiki/다목적_경기장 "wikilink"), 최대 10만 명 수용이 가능한 대한민국 최대 규모의 경기장이다. 서울종합운동장 올림픽주경기장이 전체 이름이며 잠실올림픽주경기장이라는 이름으로 더 많이 알려져 있다. 서울종합운동장 주경기장 혹은 잠실종합운동장 주경기장, 짧게는 올림픽주경기장, 잠실주경기장 등 여러 명칭으로 불리고 있다. K리그 챌린지 신생팀 [서울 이랜드 FC가](../Page/서울_이랜드_FC.md "wikilink") 홈구장으로 사용중이며 [서울 이랜드의](../Page/서울_이랜드_FC.md "wikilink") 홈경기시 가변좌석을 설치해 운영한다.\[29\]
 
 [서울 지하철 2호선](https://ko.wikipedia.org/wiki/서울_지하철_2호선 "wikilink") [종합운동장역과](https://ko.wikipedia.org/wiki/종합운동장역_\(서울\) "wikilink") 연결되며, 주변에 [보조경기장을](https://ko.wikipedia.org/wiki/잠실보조경기장 "wikilink") 비롯해 [잠실야구장](https://ko.wikipedia.org/wiki/잠실야구장 "wikilink")과 수영장, 여러 체육관들이 자리하고 있다.
 
@@ -1201,7 +1201,7 @@
 
 [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") 개장 이후 1987년 4월 22일 [럭키금성과](https://ko.wikipedia.org/wiki/FC서울 "wikilink") [포항제철과의](https://ko.wikipedia.org/wiki/포항_스틸러스 "wikilink") 경기를 시작으로 서울올림픽주경기장을 메인 홈구장으로 하는 구단 없이 불규칙적으로 [프로축구의](https://ko.wikipedia.org/wiki/K리그 "wikilink") 리그 경기와 [올스타전](https://ko.wikipedia.org/wiki/K리그_올스타전 "wikilink") 등이 개최되었으며 2000년에 5월 5일 [부천 SK와](https://ko.wikipedia.org/wiki/제주_유나이티드_FC "wikilink") [전남 드래곤즈의](https://ko.wikipedia.org/wiki/전남_드래곤즈 "wikilink") [K리그](https://ko.wikipedia.org/wiki/K리그 "wikilink") [리그컵](https://ko.wikipedia.org/wiki/리그컵_\(대한민국\) "wikilink") 결승전 경기를 마지막으로 중단되었다. 이후 [K3리그](https://ko.wikipedia.org/wiki/K3리그 "wikilink") [서울 유나이티드가](https://ko.wikipedia.org/wiki/서울_유나이티드 "wikilink") 홈구장으로 사용했으나 임대료와 대관 일정 문제로 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 이후 사용을 중단했다.
 
-그러나 2015년부터 [K리그 챌린지에서](https://ko.wikipedia.org/wiki/K리그_챌린지 "wikilink") 활동하는 [서울 이랜드 FC의](https://ko.wikipedia.org/wiki/서울_이랜드_FC "wikilink") 홈구장으로 사용하면서 다시 [프로축구](https://ko.wikipedia.org/wiki/K리그 "wikilink") 경기들이 개최되고 있다. 서울 이랜드 FC는 방대한 크기의 경기장에 대해 활용성을 높이기 위해 약 5,000석 규모의 가변석을 설치하여 운영하였다. 해당 가변석은 [2019 시즌](https://ko.wikipedia.org/wiki/K리그2_2019 "wikilink") 초반까지 사용되었으며, 이 후 구단 공식 SNS 계정을 통해 가변석은 철거되고 더이상 이용되지 않는다는 것이 밝혀졌다.
+그러나 2015년부터 [K리그 챌린지에서](https://ko.wikipedia.org/wiki/K리그_챌린지 "wikilink") 활동하는 [서울 이랜드 FC의](../Page/서울_이랜드_FC.md "wikilink") 홈구장으로 사용하면서 다시 [프로축구](https://ko.wikipedia.org/wiki/K리그 "wikilink") 경기들이 개최되고 있다. 서울 이랜드 FC는 방대한 크기의 경기장에 대해 활용성을 높이기 위해 약 5,000석 규모의 가변석을 설치하여 운영하였다. 해당 가변석은 [2019 시즌](https://ko.wikipedia.org/wiki/K리그2_2019 "wikilink") 초반까지 사용되었으며, 이 후 구단 공식 SNS 계정을 통해 가변석은 철거되고 더이상 이용되지 않는다는 것이 밝혀졌다.
 
 ### 천안종합운동장
 

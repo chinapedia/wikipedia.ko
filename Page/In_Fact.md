@@ -5,7 +5,7 @@
 
 ## 개요
 
-〈[FACE to Face](https://ko.wikipedia.org/wiki/FACE_to_Face "wikilink")〉 이래 약 1년 1개월 만의 발매로, 2014년 제1탄 싱글이다.
+〈[FACE to Face](../Page/FACE_to_Face.md "wikilink")〉 이래 약 1년 1개월 만의 발매로, 2014년 제1탄 싱글이다.
 
 ## 수록곡
 

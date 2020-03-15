@@ -14,7 +14,7 @@
   - [2007년 1월](https://ko.wikipedia.org/wiki/2007년_1월 "wikilink") '[대한민국 노동부](https://ko.wikipedia.org/wiki/대한민국_노동부 "wikilink")'로부터 공정안전관리(PSM) 최우수 사업장(P등급)으로 재인증
   - [2007년 12월](https://ko.wikipedia.org/wiki/2007년_12월 "wikilink") 낙동강환경유역관리청이 주관하는 환경친화기업 재인증
   - [2009년 7월](https://ko.wikipedia.org/wiki/2009년_7월 "wikilink") 서울본사 사무실을 '을지로 삼성화재빌딩'에서 '서초동 삼성전자빌딩'으로 이전\[2\]
-  - [2016년 2월](https://ko.wikipedia.org/wiki/2016년_2월 "wikilink") 롯데BP화학으로 상호변경
+  - [2016년 2월](../Page/2016년_2월.md "wikilink") 롯데BP화학으로 상호변경
 
 ## 각주
 

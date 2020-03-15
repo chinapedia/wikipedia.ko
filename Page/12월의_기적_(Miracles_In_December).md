@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [12  \(Miracles In December\)](https://ko.wikipedia.org/wiki/12__\(Miracles_In_December\)).
 
 
-《**12월의 기적(Miracles In December)**》은 대한민국의 음악 그룹 [EXO](https://ko.wikipedia.org/wiki/EXO "wikilink")의 두 번째 미니 음반이자 겨울 스페셜 음반이다.\[1\] 겨울 스페셜 앨범으로 같은 해 발표한 첫 번째 정규 앨범 《[XOXO (KISS＆HUG)](https://ko.wikipedia.org/wiki/XOXO_\(KISS＆HUG\) "wikilink")》의 후속 앨범이다.\[2\] 앨범 발매에 앞서 [12월 4일에](https://ko.wikipedia.org/wiki/12월_4일 "wikilink") 뮤직비디오가 공개되었다.\[3\]
+《**12월의 기적(Miracles In December)**》은 대한민국의 음악 그룹 [EXO](https://ko.wikipedia.org/wiki/EXO "wikilink")의 두 번째 미니 음반이자 겨울 스페셜 음반이다.\[1\] 겨울 스페셜 앨범으로 같은 해 발표한 첫 번째 정규 앨범 《[XOXO (KISS＆HUG)](../Page/XOXO_\(KISS＆HUG\).md "wikilink")》의 후속 앨범이다.\[2\] 앨범 발매에 앞서 [12월 4일에](https://ko.wikipedia.org/wiki/12월_4일 "wikilink") 뮤직비디오가 공개되었다.\[3\]
 
 ## 수록곡
 

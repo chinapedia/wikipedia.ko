@@ -24,7 +24,7 @@
 5.  처음처럼 (Japanese ver.) (Like The First Time)
 6.  Sign ([소연과](https://ko.wikipedia.org/wiki/소연_\(가수\) "wikilink") [아름의](https://ko.wikipedia.org/wiki/한아름_\(1994년\) "wikilink") 유닛곡)
 7.  비눗방울의 행방 (Soap Bubbles) ([보람](https://ko.wikipedia.org/wiki/보람 "wikilink")과 [큐리](https://ko.wikipedia.org/wiki/큐리 "wikilink")의 유닛곡)
-8.  Dangerous love ([은정과](https://ko.wikipedia.org/wiki/은정_\(가수\) "wikilink") [효민](https://ko.wikipedia.org/wiki/효민 "wikilink")과 [지연의](https://ko.wikipedia.org/wiki/지연_\(가수\) "wikilink") 유닛곡)
+8.  Dangerous love ([은정과](https://ko.wikipedia.org/wiki/은정_\(가수\) "wikilink") [효민](https://ko.wikipedia.org/wiki/효민 "wikilink")과 [지연의](../Page/지연_\(가수\).md "wikilink") 유닛곡)
 9.  [DAY BY DAY](https://ko.wikipedia.org/wiki/DAY_BY_DAY_\(EP\) "wikilink") (Japanese ver.)
 10. Beautiful Sniper (일본 신곡)
 11. Target

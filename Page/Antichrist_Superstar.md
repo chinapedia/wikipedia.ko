@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Antichrist Superstar](https://ko.wikipedia.org/wiki/Antichrist_Superstar).
 
 
-《**Antichrist Superstar**》는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [록 밴드](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [마릴린 맨슨의](../Page/마릴린_맨슨_\(밴드\).md "wikilink") 두 번째 정규앨범이다. 타이틀은 [앤드루 로이드 웨버의](https://ko.wikipedia.org/wiki/앤드루_로이드_웨버 "wikilink") 1971년 [뮤지컬](https://ko.wikipedia.org/wiki/뮤지컬 "wikilink") 《[지저스 크라이스트 슈퍼스타](https://ko.wikipedia.org/wiki/지저스_크라이스트_슈퍼스타 "wikilink")》를 풍자하고 있다.\[1\] 또한 이후에 발매되는 《[Mechanical Animals](https://ko.wikipedia.org/wiki/Mechanical_Animals "wikilink")》, 《[Holy Wood (In the Shadow of the Valley of Death)](https://ko.wikipedia.org/wiki/Holy_Wood_\(In_the_Shadow_of_the_Valley_of_Death\) "wikilink")》와 3부작으로 연결되어 있다.
+《**Antichrist Superstar**》는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [록 밴드](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [마릴린 맨슨의](../Page/마릴린_맨슨_\(밴드\).md "wikilink") 두 번째 정규앨범이다. 타이틀은 [앤드루 로이드 웨버의](https://ko.wikipedia.org/wiki/앤드루_로이드_웨버 "wikilink") 1971년 [뮤지컬](https://ko.wikipedia.org/wiki/뮤지컬 "wikilink") 《[지저스 크라이스트 슈퍼스타](https://ko.wikipedia.org/wiki/지저스_크라이스트_슈퍼스타 "wikilink")》를 풍자하고 있다.\[1\] 또한 이후에 발매되는 《[Mechanical Animals](../Page/Mechanical_Animals.md "wikilink")》, 《[Holy Wood (In the Shadow of the Valley of Death)](../Page/Holy_Wood_\(In_the_Shadow_of_the_Valley_of_Death\).md "wikilink")》와 3부작으로 연결되어 있다.
 
 [프로듀서](https://ko.wikipedia.org/wiki/프로듀서 "wikilink")를 맡아오던 [나인 인치 네일스의](https://ko.wikipedia.org/wiki/나인_인치_네일스 "wikilink") [트렌트 레즈너는](../Page/트렌트_레즈너.md "wikilink") 이후에 [맨슨과](https://ko.wikipedia.org/wiki/마릴린_맨슨 "wikilink") 결별하게 되고, 이 앨범이 그가 프로듀싱한 맨슨의 마지막 작품이 된다.
 
@@ -12,7 +12,7 @@
   - 〈Long Hard Road Out of Hell〉 – 1997년 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") 영화 《[스폰(Spawn)](https://ko.wikipedia.org/wiki/:en:Spawn_\(film\) "wikilink")》의 [사운드트랙](https://ko.wikipedia.org/wiki/사운드트랙 "wikilink")과 〈Man That You Fear〉의 프로모션 용 싱글에 같이 실렸다.
   - 〈The Suck For Your Solution〉 – 《[Howard Stern: Private Parts](https://ko.wikipedia.org/wiki/:en:Private_Parts:_The_Album "wikilink")》사운드트랙에 실렸다.
   - 〈Apple of Sodom〉 – 1997년 미국 영화 《[로스트 하이웨이(Lost Highway)](https://ko.wikipedia.org/wiki/:en:Lost_Highway_\(soundtrack\) "wikilink")》 사운드트랙에 실렸다.
-  - 〈Astonishing Panorama of the Endtimes〉 – 1999년 [MTV](https://ko.wikipedia.org/wiki/MTV "wikilink")의 TV시리즈 《[Celebrity Deathmatch](https://ko.wikipedia.org/wiki/:en:Celebrity_Deathmatch_\(soundtrack\) "wikilink")》의 사운드트랙과 맨슨의 [라이브 음반](https://ko.wikipedia.org/wiki/라이브_음반 "wikilink") 《[The Last Tour on Earth](https://ko.wikipedia.org/wiki/The_Last_Tour_on_Earth "wikilink")》에 실렸다.
+  - 〈Astonishing Panorama of the Endtimes〉 – 1999년 [MTV](https://ko.wikipedia.org/wiki/MTV "wikilink")의 TV시리즈 《[Celebrity Deathmatch](https://ko.wikipedia.org/wiki/:en:Celebrity_Deathmatch_\(soundtrack\) "wikilink")》의 사운드트랙과 맨슨의 [라이브 음반](https://ko.wikipedia.org/wiki/라이브_음반 "wikilink") 《[The Last Tour on Earth](../Page/The_Last_Tour_on_Earth.md "wikilink")》에 실렸다.
 
 ## 참여
 

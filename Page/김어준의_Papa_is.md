@@ -16,7 +16,7 @@
 
 <!-- end list -->
 
-  - [김보협](https://ko.wikipedia.org/wiki/김보협 "wikilink")([한겨레21](https://ko.wikipedia.org/wiki/한겨레21 "wikilink") [기자](https://ko.wikipedia.org/wiki/기자 "wikilink")) - 고정 패널 (14회 까지)
+  - [김보협](../Page/김보협.md "wikilink")([한겨레21](https://ko.wikipedia.org/wiki/한겨레21 "wikilink") [기자](https://ko.wikipedia.org/wiki/기자 "wikilink")) - 고정 패널 (14회 까지)
   - [선대인](https://ko.wikipedia.org/wiki/선대인 "wikilink") - 〈선대인의 참죠 경제〉 코너 패널(1, 2회)
 
 ## 제작진
@@ -69,7 +69,7 @@
 <td><p>〈KFC 이슈브리핑〉 - "<a href="https://ko.wikipedia.org/wiki/구미시" title="wikilink">구미시</a>를 '<a href="https://ko.wikipedia.org/wiki/박정희" title="wikilink">박정희</a>시'로 바꾸자."<br />
 〈이슈토크〉 - <a href="https://ko.wikipedia.org/wiki/국정원" title="wikilink">국정원</a>, <a href="https://ko.wikipedia.org/wiki/서울시_공무원_간첩증거조작_사건" title="wikilink">서울시 공무원 간첩 증거조작 사건</a> 5라운드!<br />
 〈<a href="https://ko.wikipedia.org/wiki/선대인" title="wikilink">선대인</a>의 참죠 경제〉 - 월세 과세 정책의 진실?</p></td>
-<td><p>- <a href="https://ko.wikipedia.org/wiki/김보협" title="wikilink">김보협</a>/송채경화(<a href="https://ko.wikipedia.org/wiki/한겨레21" title="wikilink">한겨레21</a> <a href="https://ko.wikipedia.org/wiki/기자" title="wikilink">기자</a>)<br />
+<td><p>- <a href="../Page/김보협.md" title="wikilink">김보협</a>/송채경화(<a href="https://ko.wikipedia.org/wiki/한겨레21" title="wikilink">한겨레21</a> <a href="https://ko.wikipedia.org/wiki/기자" title="wikilink">기자</a>)<br />
 - 선대인</p></td>
 <td><p>유우성(전 서울특별시 공무원)<br />
 김용민(<a href="https://ko.wikipedia.org/wiki/변호사" title="wikilink">변호사</a>)</p></td>
@@ -121,7 +121,7 @@
 <td><p>6</p></td>
 <td><p>4월 25일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/진도군" title="wikilink">진도</a><a href="https://ko.wikipedia.org/wiki/VTS" title="wikilink">VTS</a>와 이종인</p></td>
-<td><p>〈여의도 리포트〉 - 1. <a href="https://ko.wikipedia.org/wiki/세월호_침몰_사고" title="wikilink">세월호 침몰 사고에</a> 대한 정부와 정치권 이모저모 / 2. 외국 언론이 바라본 세월호 침몰사고<br />
+<td><p>〈여의도 리포트〉 - 1. <a href="../Page/세월호_침몰_사고.md" title="wikilink">세월호 침몰 사고에</a> 대한 정부와 정치권 이모저모 / 2. 외국 언론이 바라본 세월호 침몰사고<br />
 〈KFC 이슈토크〉 - 1. 세월호와 진도VTS의 사라진 2시간 / 2. 거부된 희망, <a href="https://ko.wikipedia.org/wiki/다이빙벨" title="wikilink">다이빙벨</a></p></td>
 <td><p>이종인(알파잠수기술공사)</p></td>
 <td></td>
@@ -129,7 +129,7 @@
 <tr class="odd">
 <td><p>번외</p></td>
 <td><p>4월 30일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/세월호" title="wikilink">세월호</a> 3대 의혹</p></td>
+<td><p><a href="../Page/세월호.md" title="wikilink">세월호</a> 3대 의혹</p></td>
 <td><p>[단독] "첫 바지선 언딘이 '알박기' ... 해수부 회의록 '언딘'을 지웠다." / 1. 침몰전 - 왜 세월호만 없나? / 2. 침몰후</p></td>
 <td><p>- 김어준 단독진행</p></td>
 <td></td>
@@ -201,7 +201,7 @@
 <td><p>13</p></td>
 <td><p>6월 20일</p></td>
 <td><p>도라이버 그리고 다이빙벨</p></td>
-<td><p>1. <a href="https://ko.wikipedia.org/wiki/문창극" title="wikilink">문창극</a> <a href="https://ko.wikipedia.org/wiki/국무총리" title="wikilink">총리</a> 후보?<br />
+<td><p>1. <a href="../Page/문창극.md" title="wikilink">문창극</a> <a href="https://ko.wikipedia.org/wiki/국무총리" title="wikilink">총리</a> 후보?<br />
 2. 선관위의 '도라이버' 응답?<br />
 3. 다이빙벨 철수의 진실?</p></td>
 <td><p>박주민(변호사) (전화통화)<br />

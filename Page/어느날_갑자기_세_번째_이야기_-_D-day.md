@@ -34,7 +34,7 @@
   - 차혜정 : 선생 역
   - 이명옥 : 선생 역
   - [최재혁](https://ko.wikipedia.org/wiki/최재혁 "wikilink") : 선생 역
-  - [길은혜](https://ko.wikipedia.org/wiki/길은혜 "wikilink") : 귀신 소녀 역
+  - [길은혜](../Page/길은혜.md "wikilink") : 귀신 소녀 역
   - 이맑음 : 떨고 있는 아이 역
   - [강수진](https://ko.wikipedia.org/wiki/강수진 "wikilink") : 뉴스 앵커 역
   - 정인애 : 안내방송 역

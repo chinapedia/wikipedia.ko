@@ -52,7 +52,7 @@
 
 ## 텔레비전 드라마
 
-《**BORDER 경시청 수사 1과 살인범 수사 제4계**》()의 타이틀로 텔레비전 드라마화되었다. [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [4월 10일부터](https://ko.wikipedia.org/wiki/4월_10일 "wikilink") [6월 5일까지](https://ko.wikipedia.org/wiki/6월_5일 "wikilink") 매주 [목요일](https://ko.wikipedia.org/wiki/목요일 "wikilink") 21:00 \~ 21:54에, [TV 아사히](https://ko.wikipedia.org/wiki/TV_아사히 "wikilink") 계열의 〈[목요드라마](https://ko.wikipedia.org/wiki/TV_아사히_목요일_밤_9시_드라마 "wikilink")〉 시간대에서 방송되었다. 주연은 [오구리 슌](https://ko.wikipedia.org/wiki/오구리_슌 "wikilink").
+《**BORDER 경시청 수사 1과 살인범 수사 제4계**》()의 타이틀로 텔레비전 드라마화되었다. [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [4월 10일부터](https://ko.wikipedia.org/wiki/4월_10일 "wikilink") [6월 5일까지](https://ko.wikipedia.org/wiki/6월_5일 "wikilink") 매주 [목요일](https://ko.wikipedia.org/wiki/목요일 "wikilink") 21:00 \~ 21:54에, [TV 아사히](https://ko.wikipedia.org/wiki/TV_아사히 "wikilink") 계열의 〈[목요드라마](../Page/TV_아사히_목요일_밤_9시_드라마.md "wikilink")〉 시간대에서 방송되었다. 주연은 [오구리 슌](https://ko.wikipedia.org/wiki/오구리_슌 "wikilink").
 
 ### 캐스트
 

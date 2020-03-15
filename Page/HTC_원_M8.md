@@ -31,7 +31,7 @@
   - [소니 엑스페리아 Z2](../Page/소니_엑스페리아_Z2.md "wikilink")
   - [삼성 갤럭시 S5](../Page/삼성_갤럭시_S5.md "wikilink")
   - [LG G3](https://ko.wikipedia.org/wiki/LG_G3 "wikilink")
-  - [아이폰 6](https://ko.wikipedia.org/wiki/아이폰_6 "wikilink")
+  - [아이폰 6](../Page/아이폰_6.md "wikilink")
 
 ## 같이 보기
 

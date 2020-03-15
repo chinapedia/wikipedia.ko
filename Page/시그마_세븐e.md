@@ -45,7 +45,7 @@
   - [아시자와 아키코](https://ko.wikipedia.org/wiki/아시자와_아키코 "wikilink")
   - [야마자키 리사](https://ko.wikipedia.org/wiki/야마자키_리사 "wikilink")
   - [야스다 아즈미](https://ko.wikipedia.org/wiki/야스다_아즈미 "wikilink")
-  - [오구라 유이](https://ko.wikipedia.org/wiki/오구라_유이 "wikilink")
+  - [오구라 유이](../Page/오구라_유이.md "wikilink")
   - [오니츠카 아야코](https://ko.wikipedia.org/wiki/오니츠카_아야코 "wikilink")
   - [오오바 아야카](https://ko.wikipedia.org/wiki/오오바_아야카 "wikilink")
   - [와타베 사유미](https://ko.wikipedia.org/wiki/와타베_사유미 "wikilink")

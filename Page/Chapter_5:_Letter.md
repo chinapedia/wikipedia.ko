@@ -35,7 +35,7 @@
 </dl>
 <ul>
 <li>배정은 - <a href="https://ko.wikipedia.org/wiki/건반_악기" title="wikilink">건반 악기</a>(2)</li>
-<li><a href="https://ko.wikipedia.org/wiki/이현승_(작곡가)" title="wikilink">이현승</a> - 건반 악기(4, 7, 12), 컴퓨터 프로그래밍(6)</li>
+<li><a href="../Page/이현승_(작곡가).md" title="wikilink">이현승</a> - 건반 악기(4, 7, 12), 컴퓨터 프로그래밍(6)</li>
 <li>박용준 - 건반 악기(6), <a href="https://ko.wikipedia.org/wiki/피아노" title="wikilink">피아노</a>(4, 7), 현악 편곡(12)</li>
 <li><a href="https://ko.wikipedia.org/wiki/함춘호" title="wikilink">함춘호</a> - <a href="https://ko.wikipedia.org/wiki/기타" title="wikilink">기타</a>(4, 7)</li>
 <li><a href="https://ko.wikipedia.org/wiki/Sam_Lee" title="wikilink">Sam Lee</a> - 기타(3, 6)</li>

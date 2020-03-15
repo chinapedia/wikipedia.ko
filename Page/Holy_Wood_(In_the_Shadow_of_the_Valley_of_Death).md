@@ -27,7 +27,7 @@
 <li><a href="https://ko.wikipedia.org/wiki/마돈나_웨인_게이시" title="wikilink">마돈나 웨인 게이시</a> - 건반 악기, ambience(1, 8, 10, 12, 15 a, 19), <a href="https://ko.wikipedia.org/wiki/샘플링_(음악)" title="wikilink">샘플링</a>(2), 루프(3, 5, 8), 어린이/웃음 소리(11), 신시사이저(15 a), 멜로트론(16)</li>
 <li><a href="https://ko.wikipedia.org/wiki/트위기_라미레스" title="wikilink">트위기 라미레스</a> - <a href="https://ko.wikipedia.org/wiki/베이스_기타" title="wikilink">베이스 기타</a>, 기타(리드/리듬 기타, Leslie, warped), <a href="https://ko.wikipedia.org/wiki/드럼" title="wikilink">드럼</a> 루프(12)</li>
 <li><a href="https://ko.wikipedia.org/wiki/진저_피쉬" title="wikilink">진저 피쉬</a> - 드럼, 루프(2, 5~7, 9, 15, 16), 드럼 머신(10), 드럼 프로그래밍(13)</li>
-<li><a href="https://ko.wikipedia.org/wiki/존_5" title="wikilink">존 5</a>(John 5) - 기타(<a href="https://ko.wikipedia.org/wiki/전기_기타" title="wikilink">전기 기타</a>, <a href="https://ko.wikipedia.org/wiki/어쿠스틱_기타" title="wikilink">어쿠스틱 기타</a>, 슬라이드 기타, 신스 기타, phase)</li>
+<li><a href="../Page/존_5.md" title="wikilink">존 5</a>(John 5) - 기타(<a href="https://ko.wikipedia.org/wiki/전기_기타" title="wikilink">전기 기타</a>, <a href="https://ko.wikipedia.org/wiki/어쿠스틱_기타" title="wikilink">어쿠스틱 기타</a>, 슬라이드 기타, 신스 기타, phase)</li>
 </ul>
 <dl>
 <dt>참여 음악인</dt>

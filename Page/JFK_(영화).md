@@ -24,8 +24,8 @@
   - [이종구](https://ko.wikipedia.org/wiki/이종구 "wikilink") - 지인([월터 매소](https://ko.wikipedia.org/wiki/월터_매소 "wikilink")) / TV 뉴스 앵커
   - [유해무](https://ko.wikipedia.org/wiki/유해무 "wikilink") - 댄([존 캔디](https://ko.wikipedia.org/wiki/존_캔디 "wikilink")) / 방송 기자
   - [김준](https://ko.wikipedia.org/wiki/김준_\(성우\) "wikilink") - 잭 루비(브라이언 도일 머레이) / 알([게리 그럽스](https://ko.wikipedia.org/wiki/게리_그럽스 "wikilink")) / 쿠바인 / 방송 기자 / 경찰
-  - [김혜미](https://ko.wikipedia.org/wiki/김혜미 "wikilink") - 로지([샐리 커클랜드](https://ko.wikipedia.org/wiki/샐리_커클랜드 "wikilink")) / 목격자(조 앤더슨)
-  - [문관일](https://ko.wikipedia.org/wiki/문관일 "wikilink") - 누마([웨인 나이트](https://ko.wikipedia.org/wiki/웨인_나이트 "wikilink")) / 오스왈드 대역([프랭크 훼일리](https://ko.wikipedia.org/wiki/프랭크_훼일리 "wikilink")) / 증인([프루잇 테일러 빈스](https://ko.wikipedia.org/wiki/프루잇_테일러_빈스 "wikilink")) / [로버트 케네디](https://ko.wikipedia.org/wiki/로버트_케네디 "wikilink")(본인)
+  - [김혜미](https://ko.wikipedia.org/wiki/김혜미 "wikilink") - 로지([샐리 커클랜드](../Page/샐리_커클랜드.md "wikilink")) / 목격자(조 앤더슨)
+  - [문관일](https://ko.wikipedia.org/wiki/문관일 "wikilink") - 누마([웨인 나이트](https://ko.wikipedia.org/wiki/웨인_나이트 "wikilink")) / 오스왈드 대역([프랭크 훼일리](../Page/프랭크_훼일리.md "wikilink")) / 증인([프루잇 테일러 빈스](https://ko.wikipedia.org/wiki/프루잇_테일러_빈스 "wikilink")) / [로버트 케네디](https://ko.wikipedia.org/wiki/로버트_케네디 "wikilink")(본인)
 
 ## 외부 링크
 

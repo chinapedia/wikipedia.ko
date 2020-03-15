@@ -12,11 +12,11 @@
 ## 경쟁차와 비교
 
   - BMW i3, 2016년말 대량생산, 42,400 달러, 1회충전 300km
-  - [쉐보레 볼트](https://ko.wikipedia.org/wiki/쉐보레_볼트 "wikilink"), 2016년말 대량생산, 37,500달러, 1회충전 383km
-  - [테슬라 모델 3](https://ko.wikipedia.org/wiki/테슬라_모델_3 "wikilink"), 2017년말 대량생산, 35,000달러, 1회충전 326km
+  - [쉐보레 볼트](../Page/쉐보레_볼트.md "wikilink"), 2016년말 대량생산, 37,500달러, 1회충전 383km
+  - [테슬라 모델 3](../Page/테슬라_모델_3.md "wikilink"), 2017년말 대량생산, 35,000달러, 1회충전 326km
   - [아우디 e-트론 콰트로](https://ko.wikipedia.org/wiki/아우디_e-트론_콰트로 "wikilink"), 2018년 양산, 1회충전 500km
   - [폴크스바겐 버드-e](https://ko.wikipedia.org/wiki/폴크스바겐_버드-e "wikilink"), 1회충전 600km
-  - [현대 아이오닉](https://ko.wikipedia.org/wiki/현대_아이오닉 "wikilink"), 2018년 양산, 1회충전 320km
+  - [현대 아이오닉](../Page/현대_아이오닉.md "wikilink"), 2018년 양산, 1회충전 320km
 
 ## 각주
 
