@@ -19,7 +19,7 @@
 
 세션이 진행되는 동안 더글라스는 레논의 〈I 'm Losing You〉와 오노의 〈I 'm Moving On〉를 연주할 밴드 칩 트릭(더글라스가 제작한 밴드)의 릭 닐슨과 번 E. 카를로스를 데려왔지만, 결국 스튜디오 뮤지션들과 다시 녹음하게 되었다. 〈I 'm Losing You〉의 Cheap Trick 버전은 1998년 발표된 레논의 편집 앨범 《John Lennon Anthology》 컬렉션에 포함되었다.\[5\]
 
-*Double Fantasy* 세션은 1980년 8월 7일 뉴욕시의 "더 히트 팩토리"에서 시작, 1980년 10월 19일까지 계속되었고, 《Double Fantasy》의 후속작으로 예상되었던 《[Milk and Honey](https://ko.wikipedia.org/wiki/Milk_and_Honey "wikilink")》까지 충분히 채울 수 있을 정도로 수십 곡의 노래들이 제작되었다.
+*Double Fantasy* 세션은 1980년 8월 7일 뉴욕시의 "더 히트 팩토리"에서 시작, 1980년 10월 19일까지 계속되었고, 《Double Fantasy》의 후속작으로 예상되었던 《[Milk and Honey](../Page/Milk_and_Honey.md "wikilink")》까지 충분히 채울 수 있을 정도로 수십 곡의 노래들이 제작되었다.
 
 ## 구성
 
@@ -35,7 +35,7 @@
 
 ## 표지
 
-앨범의 커버는 일본의 사진 작가 [시노야마 기신이](https://ko.wikipedia.org/wiki/시노야마_기신 "wikilink") 촬영한 것이다. 원판은 컬러로 촬영되었지만 출시된 재킷에는 흑백으로 되어 있어 시노야마는 "불길한 느낌이 들었다"고 말하기도 했다. 그리고 그 직후에 레논이 사망하게 됨으로써 시노아먀 기신의 느낌은 적중하고 말았다. 당시 시노야마가 촬영한 포토 세션의 또 다른 샷도 《[Milk and Honey](https://ko.wikipedia.org/wiki/Milk_and_Honey "wikilink")》에서 사용되고 있다.
+앨범의 커버는 일본의 사진 작가 [시노야마 기신이](https://ko.wikipedia.org/wiki/시노야마_기신 "wikilink") 촬영한 것이다. 원판은 컬러로 촬영되었지만 출시된 재킷에는 흑백으로 되어 있어 시노야마는 "불길한 느낌이 들었다"고 말하기도 했다. 그리고 그 직후에 레논이 사망하게 됨으로써 시노아먀 기신의 느낌은 적중하고 말았다. 당시 시노야마가 촬영한 포토 세션의 또 다른 샷도 《[Milk and Honey](../Page/Milk_and_Honey.md "wikilink")》에서 사용되고 있다.
 
 ## 곡 목록
 

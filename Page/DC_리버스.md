@@ -170,7 +170,7 @@ DC가 2016년 [원더콘](https://ko.wikipedia.org/wiki/원더콘 "wikilink")에
 <td style="text-align: center;"><p>《트리니티》</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>글</strong><br />
-<a href="https://ko.wikipedia.org/wiki/프랜시스_매너풀" title="wikilink">프랜시스 매너풀</a><br />
+<a href="../Page/프랜시스_매너풀.md" title="wikilink">프랜시스 매너풀</a><br />
 <strong>그림</strong><br />
 프랜시스 매너풀<br />
 <a href="https://ko.wikipedia.org/wiki/클레이_맨" title="wikilink">클레이 맨</a></p></td>
@@ -610,7 +610,7 @@ Felipe Watanabe</p></td>
 <td style="text-align: center;"><p>《트리니티 리버스》 #1<br />
 2016년 8월</p></td>
 <td style="text-align: center;"><p><strong>글</strong><br />
-<a href="https://ko.wikipedia.org/wiki/프랜시스_매너풀" title="wikilink">프랜시스 매너풀</a><br />
+<a href="../Page/프랜시스_매너풀.md" title="wikilink">프랜시스 매너풀</a><br />
 <strong>그림</strong><br />
 프랜시스 매너풀<br />
 <a href="https://ko.wikipedia.org/wiki/클레이_맨" title="wikilink">클레이 맨</a></p></td>

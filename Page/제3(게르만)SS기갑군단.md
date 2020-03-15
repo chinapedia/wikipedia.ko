@@ -6,7 +6,7 @@
 ## 역대 군단장
 
   - [상급집단지도자](https://ko.wikipedia.org/wiki/상급집단지도자 "wikilink") [펠릭스 슈타이너](https://ko.wikipedia.org/wiki/펠릭스_슈타이너 "wikilink") (1943년 5월 1일 – 1944년 10월 30일)
-  - 상급집단지도자 [게오르크 케플러](https://ko.wikipedia.org/wiki/게오르크_케플러 "wikilink") (1944년 10월 30일 – 1945년 2월 4일)
+  - 상급집단지도자 [게오르크 케플러](../Page/게오르크_케플러.md "wikilink") (1944년 10월 30일 – 1945년 2월 4일)
   - 상급집단지도자 [마티아스 클라인하이슈터캄프](https://ko.wikipedia.org/wiki/마티아스_클라인하이슈터캄프 "wikilink") (1945년 2월 4일 – 1945년 2월 11일)
   - 중장 [마르틴 운라인](https://ko.wikipedia.org/wiki/마르틴_운라인 "wikilink") (1945년 2월 11일 – 1945년 3월 5일)
   - 상급집단지도자 [펠릭스 슈타이너](https://ko.wikipedia.org/wiki/펠릭스_슈타이너 "wikilink") (1945년 3월 5일 – 1945년 5월 4일)

@@ -50,6 +50,6 @@
 
   - [해외걸작드라마](../Page/한국방송공사_해외걸작드라마.md "wikilink")(KBS 외화시리즈)
   - [해외 특별기획 드라마](https://ko.wikipedia.org/wiki/한국방송공사_해외_특별기획_드라마 "wikilink")
-  - [MBC 외화시리즈](https://ko.wikipedia.org/wiki/MBC_외화시리즈 "wikilink")
+  - [MBC 외화시리즈](../Page/MBC_외화시리즈.md "wikilink")
 
 [분류:SBS의 텔레비전 드라마](https://ko.wikipedia.org/wiki/분류:SBS의_텔레비전_드라마 "wikilink") [분류:SBS의 심야 드라마‎](https://ko.wikipedia.org/wiki/분류:SBS의_심야_드라마‎ "wikilink")

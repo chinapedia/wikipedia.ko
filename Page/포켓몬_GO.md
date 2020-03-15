@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ GO](https://ko.wikipedia.org/wiki/_GO).
 
 
-《**포켓몬 GO**》(Pokémon GO)는 [나이앤틱](https://ko.wikipedia.org/wiki/나이앤틱_\(기업\) "wikilink")(Niantic, Inc.)이 개발한 [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink") 및 [안드로이드용](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [부분 유료화](https://ko.wikipedia.org/wiki/부분_유료화 "wikilink") [위치 기반](../Page/위치_기반_게임.md "wikilink") [증강현실](https://ko.wikipedia.org/wiki/증강현실 "wikilink") 게임이다.
+《**포켓몬 GO**》(Pokémon GO)는 [나이앤틱](../Page/나이앤틱_\(기업\).md "wikilink")(Niantic, Inc.)이 개발한 [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink") 및 [안드로이드용](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [부분 유료화](https://ko.wikipedia.org/wiki/부분_유료화 "wikilink") [위치 기반](../Page/위치_기반_게임.md "wikilink") [증강현실](https://ko.wikipedia.org/wiki/증강현실 "wikilink") 게임이다.
 
 2016년 7월 6일 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink"), [오스트레일리아](https://ko.wikipedia.org/wiki/오스트레일리아 "wikilink"), [뉴질랜드](https://ko.wikipedia.org/wiki/뉴질랜드 "wikilink")에서 출시되어, [소셜 미디어를](https://ko.wikipedia.org/wiki/소셜_미디어 "wikilink") 통해 큰 화제가 되었으며,\[1\]\[2\] [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에는 2017년 1월 24일, [구글 플레이 스토어와](https://ko.wikipedia.org/wiki/구글_플레이 "wikilink") [앱 스토어를](https://ko.wikipedia.org/wiki/앱_스토어_\(iOS\) "wikilink") 통해 출시되었다. \[3\]\[4\]\[5\]
 
@@ -48,13 +48,13 @@
 
 이 사실이 [소셜 미디어를](https://ko.wikipedia.org/wiki/소셜_미디어 "wikilink") 통해 알려지자, 포켓몬 GO를 하려고 속초로 몰려가는 사람들로 인해 일부 지역에서 평일 속초행 고속버스 표가 매진되는 사태도 벌어졌다.\[18\]\[19\] 포켓몬 GO를 플레이 하기 위해 속초로 집결한 사람들은 장맛비 속에서도 포켓몬 잡이에 몰두하여 포켓몬 GO 열풍을 보여주었다.\[20\] 이후 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")이 정식 서비스를 시작하자 추가로 [울산](https://ko.wikipedia.org/wiki/울산광역시 "wikilink") [간절곶](https://ko.wikipedia.org/wiki/간절곶 "wikilink")에서 사용 가능하게 되었다. [한반도 비무장 지대](https://ko.wikipedia.org/wiki/한반도_비무장_지대 "wikilink") 내 [판문점](https://ko.wikipedia.org/wiki/판문점 "wikilink")에 포켓몬 체육관이 발견되기도 하였으나, 나이앤틱 측이 삭제 조치를 하였다.\[21\]
 
-처음에는 게임의 핵심 요소인 [구글 지도의](https://ko.wikipedia.org/wiki/구글_지도 "wikilink") [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") 지역 내 보안 문제가 걸림돌이 되어 포켓몬 GO의 한국 출시 전망이 불투명하였다.\[22\] 그러나 [존 행키](https://ko.wikipedia.org/wiki/존_행키 "wikilink")(John Hanke) [나이앤틱](https://ko.wikipedia.org/wiki/나이앤틱_\(기업\) "wikilink") 대표는 "세계 4위의 게임 시장인 한국에 포켓몬 GO를 결국에는 출시할 것이고 맵핑(Mapping)의 제한 문제는 해결책이 있다"고 밝혀, 포켓몬 GO의 대한민국 출시 가능성이 긍정적으로 반전되었다.\[23\]
+처음에는 게임의 핵심 요소인 [구글 지도의](https://ko.wikipedia.org/wiki/구글_지도 "wikilink") [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") 지역 내 보안 문제가 걸림돌이 되어 포켓몬 GO의 한국 출시 전망이 불투명하였다.\[22\] 그러나 [존 행키](../Page/존_행키.md "wikilink")(John Hanke) [나이앤틱](../Page/나이앤틱_\(기업\).md "wikilink") 대표는 "세계 4위의 게임 시장인 한국에 포켓몬 GO를 결국에는 출시할 것이고 맵핑(Mapping)의 제한 문제는 해결책이 있다"고 밝혀, 포켓몬 GO의 대한민국 출시 가능성이 긍정적으로 반전되었다.\[23\]
 
 2017년 1월 24일, 오픈스트리트맵를 이용해 대한민국 내 포켓몬 GO의 정식 서비스가 시작되었다.
 
 #### 대한민국 지도 데이터
 
-포켓몬 GO는 [구글 지도를](https://ko.wikipedia.org/wiki/구글_지도 "wikilink") 이용하는데, 대한민국에서는 구글 지도가 관련 법에 의해서 사용이 불가능 하기 때문에, 대한민국 내 구글 지도를 사용한 포켓몬 GO의 플레이에 제한사항이 크다.\[24\] 그러나 나이앤틱의 다른 증강현실 게임인 [인그레스](https://ko.wikipedia.org/wiki/인그레스 "wikilink")의 경우 제한적으로나마 플레이가 가능하고, 제작사 대표가 대한민국 내 지도 적용의 해결책이 있다고 밝혔다.\[25\] 대한민국 서비스 시작 시 [오픈스트리트맵](https://ko.wikipedia.org/wiki/오픈스트리트맵 "wikilink")을 활용하였다고 알려졌다.\[26\]
+포켓몬 GO는 [구글 지도를](https://ko.wikipedia.org/wiki/구글_지도 "wikilink") 이용하는데, 대한민국에서는 구글 지도가 관련 법에 의해서 사용이 불가능 하기 때문에, 대한민국 내 구글 지도를 사용한 포켓몬 GO의 플레이에 제한사항이 크다.\[24\] 그러나 나이앤틱의 다른 증강현실 게임인 [인그레스](../Page/인그레스.md "wikilink")의 경우 제한적으로나마 플레이가 가능하고, 제작사 대표가 대한민국 내 지도 적용의 해결책이 있다고 밝혔다.\[25\] 대한민국 서비스 시작 시 [오픈스트리트맵](https://ko.wikipedia.org/wiki/오픈스트리트맵 "wikilink")을 활용하였다고 알려졌다.\[26\]
 
 ### 중국
 

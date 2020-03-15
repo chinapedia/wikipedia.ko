@@ -48,7 +48,7 @@
   - [윤주빈](https://ko.wikipedia.org/wiki/윤주빈 "wikilink") : 경호원 역
   - [오상훈](https://ko.wikipedia.org/wiki/오상훈 "wikilink") : 타격대 대장 역
   - [김경룡](https://ko.wikipedia.org/wiki/김경룡 "wikilink") : 이경진 역
-  - [지윤재](https://ko.wikipedia.org/wiki/지윤재 "wikilink") : 흉터 경찰 역
+  - [지윤재](../Page/지윤재.md "wikilink") : 흉터 경찰 역
   - [정세형](../Page/정세형.md "wikilink") : 형사 역
   - [박건락](../Page/박건락.md "wikilink") : 검사 역
   - [손동화](https://ko.wikipedia.org/wiki/손동화 "wikilink") : 예비군 역
@@ -103,8 +103,8 @@
 
 **[JTBC 금토드라마](../Page/JTBC_금토드라마.md "wikilink")**
 
-  - 《[판타스틱](https://ko.wikipedia.org/wiki/판타스틱_\(드라마\) "wikilink")》 : ([2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [9월 2일](https://ko.wikipedia.org/wiki/9월_2일 "wikilink") \~ [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [10월 22일](https://ko.wikipedia.org/wiki/10월_22일 "wikilink"))
-  - 《[이번 주 아내가 바람을 핍니다](https://ko.wikipedia.org/wiki/이번_주_아내가_바람을_핍니다 "wikilink")》 : ([2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [10월 28일](https://ko.wikipedia.org/wiki/10월_28일 "wikilink") \~ [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [12월 3일](https://ko.wikipedia.org/wiki/12월_3일 "wikilink"))
+  - 《[판타스틱](../Page/판타스틱_\(드라마\).md "wikilink")》 : ([2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [9월 2일](https://ko.wikipedia.org/wiki/9월_2일 "wikilink") \~ [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [10월 22일](https://ko.wikipedia.org/wiki/10월_22일 "wikilink"))
+  - 《[이번 주 아내가 바람을 핍니다](../Page/이번_주_아내가_바람을_핍니다.md "wikilink")》 : ([2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [10월 28일](https://ko.wikipedia.org/wiki/10월_28일 "wikilink") \~ [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [12월 3일](https://ko.wikipedia.org/wiki/12월_3일 "wikilink"))
 
 ## 각주
 
