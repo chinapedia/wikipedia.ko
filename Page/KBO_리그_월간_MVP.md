@@ -1,0 +1,156 @@
+> This article is converted from Wikipedia: [KBO   MVP](https://ko.wikipedia.org/wiki/KBO___MVP).
+
+
+**KBO 리그 월간 MVP**는 [KBO가](https://ko.wikipedia.org/wiki/KBO_\(단체\) "wikilink") 정규 시즌 중인 4월부터 9월까지 매월마다 최고의 활약을 보인 선수에게 수여하는 상이다. 2005년에는 투수와 타자 1명에게 각각 수상하였지만 1년만에 중단하였고 이후 2010년부터는 투타에서 1명만 수상하는 방식으로 부활하여 지금까지 수상하고 있다.
+
+## 수상자 목록
+
+| 연도                                                            | 월                                                                | 수상자                                                           | 소속팀                                                           | 포지션                                   | 기록                                                                   | 비고           | 각주     |
+| ------------------------------------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------- | -------------------------------------------------------------------- | ------------ | ------ |
+| [2005](https://ko.wikipedia.org/wiki/2005년_한국프로야구 "wikilink") | 4월                                                               | [손민한](https://ko.wikipedia.org/wiki/손민한 "wikilink")           | [롯데 자이언츠](https://ko.wikipedia.org/wiki/롯데_자이언츠 "wikilink")   | 투수                                    | 5경기 4승 1패, 평균자책점 3.24, 탈삼진 20개                                       | 시즌 MVP       | \[1\]  |
+| [이대호](https://ko.wikipedia.org/wiki/이대호 "wikilink")           | [롯데 자이언츠](https://ko.wikipedia.org/wiki/롯데_자이언츠 "wikilink")      | 1루수                                                           | 24경기 타율 0.264, 5홈런, 28타점                                      |                                       |                                                                      |              |        |
+| 5월                                                            | [배영수](https://ko.wikipedia.org/wiki/배영수 "wikilink")              | [삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink")   | 투수                                                            | 6경기 5승 무패, 평균자책점 1.10, 탈삼진 33개        |                                                                      | \[2\]        |        |
+| [박용택](https://ko.wikipedia.org/wiki/박용택 "wikilink")           | [LG 트윈스](https://ko.wikipedia.org/wiki/LG_트윈스 "wikilink")        | 외야수                                                           | 24경기 타율 0.394, 4홈런, 22타점                                      |                                       |                                                                      |              |        |
+| 6월                                                            | [박명환](https://ko.wikipedia.org/wiki/박명환_\(야구인\) "wikilink")      | [두산 베어스](https://ko.wikipedia.org/wiki/두산_베어스 "wikilink")     | 투수                                                            | 5경기 3승 무패, 평균자책점 1.82, 탈삼진 30개        |                                                                      | \[3\]        |        |
+| [이호준](https://ko.wikipedia.org/wiki/이호준_\(야구인\) "wikilink")   | [NC 다이노스](https://ko.wikipedia.org/wiki/NC_다이노스 "wikilink")      | 1루수                                                           | 24경기 타율 0.333, 11홈런, 25타점                                     |                                       |                                                                      |              |        |
+| 7월                                                            | [크루즈](https://ko.wikipedia.org/wiki/넬슨_크루즈_\(1972년\) "wikilink") | [SK 와이번스](https://ko.wikipedia.org/wiki/SK_와이번스 "wikilink")   | 투수                                                            | 6경기 4승 무패, 평균자책점 1.73, 탈삼진 21개        |                                                                      | \[4\]        |        |
+| [이진영](https://ko.wikipedia.org/wiki/이진영 "wikilink")           | [SK 와이번스](https://ko.wikipedia.org/wiki/SK_와이번스 "wikilink")      | 외야수                                                           | 22경기 타율 0.349, 4홈런, 29안타, 23타점                                |                                       |                                                                      |              |        |
+| 8월                                                            | [오승환](https://ko.wikipedia.org/wiki/오승환 "wikilink")              | [삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink")   | 투수                                                            | 11경기 3승 무패 4세이브, 평균자책점 0.00, 탈삼진 28개  |                                                                      | \[5\]        |        |
+| [이진영](https://ko.wikipedia.org/wiki/이진영 "wikilink")           | [SK 와이번스](https://ko.wikipedia.org/wiki/SK_와이번스 "wikilink")      | 외야수                                                           | 19경기 타율 0.329, 8홈런, 25안타, 21타점                                |                                       |                                                                      |              |        |
+| 9월                                                            | [리오스](https://ko.wikipedia.org/wiki/다니엘_리오스 "wikilink")          | [두산 베어스](https://ko.wikipedia.org/wiki/두산_베어스 "wikilink")     | 투수                                                            | 4경기 3승 무패, 평균자책점 0.64, 탈삼진 22개        |                                                                      | \[6\]        |        |
+| [김태균](https://ko.wikipedia.org/wiki/김태균_\(1982년\) "wikilink") | [한화 이글스](https://ko.wikipedia.org/wiki/한화_이글스 "wikilink")        | 1루수                                                           | 18경기 타율 0.371, 5홈런, 23안타, 13타점                                |                                       |                                                                      |              |        |
+| [2010](https://ko.wikipedia.org/wiki/2010년_한국프로야구 "wikilink") | 4월                                                               | [카도쿠라](https://ko.wikipedia.org/wiki/카도쿠라_켄 "wikilink")       | [SK 와이번스](https://ko.wikipedia.org/wiki/SK_와이번스 "wikilink")   | 투수                                    | 6경기 6승 무패, 평균자책점 1.98, 탈삼진 39개                                       |              | \[7\]  |
+| 5월                                                            | [류현진](https://ko.wikipedia.org/wiki/류현진 "wikilink")              | [한화 이글스](https://ko.wikipedia.org/wiki/한화_이글스 "wikilink")     | 투수                                                            | 4경기 3승 1패, 평균자책점 1.41, 탈삼진 35개        |                                                                      | \[8\]        |        |
+| 6월                                                            | [이대호](https://ko.wikipedia.org/wiki/이대호 "wikilink")              | [롯데 자이언츠](https://ko.wikipedia.org/wiki/롯데_자이언츠 "wikilink")   | 3루수                                                           | 24경기 타율 0.389, 12홈런, 33타점, 23득점       | 시즌 MVP                                                               | \[9\]        |        |
+| 7월                                                            | [류현진](https://ko.wikipedia.org/wiki/류현진 "wikilink")              | [한화 이글스](https://ko.wikipedia.org/wiki/한화_이글스 "wikilink")     | 투수                                                            | 5경기 4승 무패, 평균자책점 0.90, 탈삼진 35개        |                                                                      | \[10\]       |        |
+| 8월                                                            | [이대호](https://ko.wikipedia.org/wiki/이대호 "wikilink")              | [롯데 자이언츠](https://ko.wikipedia.org/wiki/롯데_자이언츠 "wikilink")   | 3루수                                                           | 22경기 타율 0.338, 12홈런, 32타점, 21득점       | 시즌 MVP                                                               | \[11\]       |        |
+| 9월                                                            | [송승준](https://ko.wikipedia.org/wiki/송승준 "wikilink")              | [롯데 자이언츠](https://ko.wikipedia.org/wiki/롯데_자이언츠 "wikilink")   | 투수                                                            | 4경기 3승 무패, 평균자책점 1.48, 탈삼진 21개        |                                                                      | \[12\]       |        |
+| [2011](https://ko.wikipedia.org/wiki/2011년_한국프로야구 "wikilink") | 4월                                                               | [박용택](https://ko.wikipedia.org/wiki/박용택 "wikilink")           | [LG 트윈스](https://ko.wikipedia.org/wiki/LG_트윈스 "wikilink")     | 외야수                                   | 23경기 타율 0.346, 6홈런, 20타점, 23득점                                       |              | \[13\] |
+| 5월                                                            | [이병규](https://ko.wikipedia.org/wiki/이병규_\(1974년\) "wikilink")    | [LG 트윈스](https://ko.wikipedia.org/wiki/LG_트윈스 "wikilink")     | 외야수                                                           | 25경기 타율 0.400, 7홈런, 25타점, 18득점        |                                                                      | \[14\]       |        |
+| 6월                                                            | [가르시아](https://ko.wikipedia.org/wiki/카림_가르시아 "wikilink")         | [한화 이글스](https://ko.wikipedia.org/wiki/한화_이글스 "wikilink")     | 외야수                                                           | 14경기 타율 0.259, 6홈런, 23타점, 9득점         |                                                                      | \[15\]       |        |
+| 7월                                                            | [윤석민](https://ko.wikipedia.org/wiki/윤석민_\(1986년\) "wikilink")    | [KIA 타이거즈](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink") | 투수                                                            | 5경기 5승 무패, 평균자책점 0.73, 탈삼진 41개        | 시즌 MVP                                                               | \[16\]       |        |
+| 8월                                                            | [최형우](https://ko.wikipedia.org/wiki/최형우_\(야구_선수\) "wikilink")    | [삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink")   | 외야수                                                           | 23경기 타율 0.329, 6홈런, 19타점, 13득점        |                                                                      | \[17\]       |        |
+| 9월                                                            | [오승환](https://ko.wikipedia.org/wiki/오승환 "wikilink")              | [삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink")   | 투수                                                            | 8경기 8세이브, 평균자책점 1.13, 탈삼진 12개         |                                                                      | \[18\]       |        |
+| [2012](https://ko.wikipedia.org/wiki/2012년_한국프로야구 "wikilink") | 4월                                                               | [정성훈](https://ko.wikipedia.org/wiki/정성훈_\(1980년\) "wikilink") | [LG 트윈스](https://ko.wikipedia.org/wiki/LG_트윈스 "wikilink")     | 3루수                                   | 16경기 타율 0.310, 7홈런, 16타점                                             |              | \[19\] |
+| 5월                                                            | [박병호](https://ko.wikipedia.org/wiki/박병호_\(1986년\) "wikilink")    | [넥센 히어로즈](https://ko.wikipedia.org/wiki/넥센_히어로즈 "wikilink")   | 1루수                                                           | 27경기 타율 0.313, 7홈런, 28타점              | 시즌 MVP                                                               | \[20\]       |        |
+| 6월                                                            | [박석민](https://ko.wikipedia.org/wiki/박석민 "wikilink")              | [삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink")   | 3루수                                                           | 24경기 타율 0.388, 8홈런, 23타점              |                                                                      | \[21\]       |        |
+| 7월                                                            | [최형우](https://ko.wikipedia.org/wiki/최형우_\(야구_선수\) "wikilink")    | [삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink")   | 외야수                                                           | 17경기 타율 0.328, 6홈런, 17타점              |                                                                      | \[22\]       |        |
+| 8월                                                            | [이호준](https://ko.wikipedia.org/wiki/이호준_\(야구인\) "wikilink")      | [SK 와이번스](https://ko.wikipedia.org/wiki/SK_와이번스 "wikilink")   | 1루수                                                           | 22경기 타율 0.324, 5홈런, 20타점              |                                                                      | \[23\]       |        |
+| 9월                                                            | [서재응](https://ko.wikipedia.org/wiki/서재응 "wikilink")              | [KIA 타이거즈](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink") | 투수                                                            | 6경기 3승 무패, 평균자책점 0.00, 탈삼진 22개        |                                                                      | \[24\]       |        |
+| [2013](https://ko.wikipedia.org/wiki/2013년_한국프로야구 "wikilink") | 4월                                                               | [양현종](https://ko.wikipedia.org/wiki/양현종 "wikilink")           | [KIA 타이거즈](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink") | 투수                                    | 5경기 4승 무패, 평균자책점 1.17, 25탈삼진                                         |              | \[25\] |
+| 5월                                                            | [옥스프링](https://ko.wikipedia.org/wiki/크리스_옥스프링 "wikilink")        | [롯데 자이언츠](https://ko.wikipedia.org/wiki/롯데_자이언츠 "wikilink")   | 투수                                                            | 6경기 5승 무패, 평균자책점 2.72, 41탈삼진          |                                                                      | \[26\]       |        |
+| 6월                                                            | [손민한](https://ko.wikipedia.org/wiki/손민한 "wikilink")              | [NC 다이노스](https://ko.wikipedia.org/wiki/NC_다이노스 "wikilink")   | 투수                                                            | 4경기 3승 무패, 평균자책점 0.77, 8탈삼진           |                                                                      | \[27\]       |        |
+| 7월                                                            | [최형우](https://ko.wikipedia.org/wiki/최형우_\(야구_선수\) "wikilink")    | [삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink")   | 외야수                                                           | 18경기 타율 0.278, 9홈런, 21타점              |                                                                      | \[28\]       |        |
+| 8월                                                            | [손아섭](https://ko.wikipedia.org/wiki/손아섭 "wikilink")              | [롯데 자이언츠](https://ko.wikipedia.org/wiki/롯데_자이언츠 "wikilink")   | 외야수                                                           | 21경기 타율 0.451, 2홈런, 15타점, 15득점        |                                                                      | \[29\]       |        |
+| 9월                                                            | [박병호](https://ko.wikipedia.org/wiki/박병호_\(1986년\) "wikilink")    | [넥센 히어로즈](https://ko.wikipedia.org/wiki/넥센_히어로즈 "wikilink")   | 1루수                                                           | 18경기 타율 0.353, 11홈런, 28타점, 16득점       | 시즌 MVP                                                               | \[30\]       |        |
+| [2014](https://ko.wikipedia.org/wiki/2014년_한국프로야구 "wikilink") | 4월                                                               | [유희관](https://ko.wikipedia.org/wiki/유희관 "wikilink")           | [두산 베어스](https://ko.wikipedia.org/wiki/두산_베어스 "wikilink")     | 투수                                    | 5경기 3승 무패, 평균자책점 2.04, 23탈삼진                                         |              | \[31\] |
+| 5월                                                            | [박병호](https://ko.wikipedia.org/wiki/박병호_\(1986년\) "wikilink")    | [넥센 히어로즈](https://ko.wikipedia.org/wiki/넥센_히어로즈 "wikilink")   | 1루수                                                           | 24경기 타율 0.321, 14홈런, 27타점, 26득점       |                                                                      | \[32\]       |        |
+| 6월                                                            | [찰리](https://ko.wikipedia.org/wiki/찰스_쉬렉 "wikilink")             | [NC 다이노스](https://ko.wikipedia.org/wiki/NC_다이노스 "wikilink")   | 투수                                                            | 5경기 3승 2패, 평균자책점 1.71, 23탈삼진          | 노히트노런 달성                                                             | \[33\]       |        |
+| 7월                                                            | [강정호](https://ko.wikipedia.org/wiki/강정호 "wikilink")              | [넥센 히어로즈](https://ko.wikipedia.org/wiki/넥센_히어로즈 "wikilink")   | 유격수                                                           | 17경기 타율 0.418, 7홈런, 20타점, 21득점        |                                                                      | \[34\]       |        |
+| 8월                                                            | [강정호](https://ko.wikipedia.org/wiki/강정호 "wikilink")              | [넥센 히어로즈](https://ko.wikipedia.org/wiki/넥센_히어로즈 "wikilink")   | 유격수                                                           | 21경기 타율 0.425, 9홈런, 24타점, 18득점        |                                                                      | \[35\]       |        |
+| 9월                                                            | 수상자 없음                                                           | \[36\]                                                        |                                                               |                                       |                                                                      |              |        |
+| [2015](https://ko.wikipedia.org/wiki/2015년_KBO_리그 "wikilink") | 4월                                                               | [안영명](https://ko.wikipedia.org/wiki/안영명 "wikilink")           | [한화 이글스](https://ko.wikipedia.org/wiki/한화_이글스 "wikilink")     | 투수                                    | 10경기 4승 무패, 평균자책점 1.69, 22탈삼진                                        |              | \[37\] |
+| 5월                                                            | [이호준](https://ko.wikipedia.org/wiki/이호준_\(야구인\) "wikilink")      | [NC 다이노스](https://ko.wikipedia.org/wiki/NC_다이노스 "wikilink")   | 1루수                                                           | 25경기 타율 0.355, 9홈런, 33안타, 34타점, 11득점  |                                                                      | \[38\]       |        |
+| 6월                                                            | [김태균](https://ko.wikipedia.org/wiki/김태균_\(1982년\) "wikilink")    | [한화 이글스](https://ko.wikipedia.org/wiki/한화_이글스 "wikilink")     | 1루수                                                           | 22경기 타율 0.405, 9홈런, 30안타, 34타점, 15득점  |                                                                      | \[39\]       |        |
+| 7월                                                            | [박병호](https://ko.wikipedia.org/wiki/박병호_\(1986년\) "wikilink")    | [넥센 히어로즈](https://ko.wikipedia.org/wiki/넥센_히어로즈 "wikilink")   | 1루수                                                           | 20경기 타율 0.357, 10홈런, 30안타, 31타점, 17득점 |                                                                      | \[40\]       |        |
+| 8월                                                            | [해커](https://ko.wikipedia.org/wiki/에릭_해커 "wikilink")             | [NC 다이노스](https://ko.wikipedia.org/wiki/NC_다이노스 "wikilink")   | 투수                                                            | 5경기 5승 무패, 평균자책점 0.97, 탈삼진 37개        |                                                                      | \[41\]       |        |
+| 9월                                                            | [정의윤](https://ko.wikipedia.org/wiki/정의윤 "wikilink")              | [SK 와이번스](https://ko.wikipedia.org/wiki/SK_와이번스 "wikilink")   | 외야수                                                           | 26경기 타율 0.422, 9홈런, 38안타, 23타점, 24득점  |                                                                      | \[42\]       |        |
+| [2016](../Page/2016년_KBO_리그.md "wikilink")                    | 4월                                                               | [니퍼트](https://ko.wikipedia.org/wiki/더스틴_니퍼트 "wikilink")       | [두산 베어스](https://ko.wikipedia.org/wiki/두산_베어스 "wikilink")     | 투수                                    | 5경기 5승 무패, 평균자책점 3.07, 43탈삼진                                         | 시즌 MVP       | \[43\] |
+| 5월                                                            | [김재환](https://ko.wikipedia.org/wiki/김재환_\(야구_선수\) "wikilink")    | [두산 베어스](https://ko.wikipedia.org/wiki/두산_베어스 "wikilink")     | 외야수                                                           | 25경기 타율 0.372, 10홈런, 35안타, 28타점, 19득점 |                                                                      | \[44\]       |        |
+| 6월                                                            | [최승준](https://ko.wikipedia.org/wiki/최승준_\(야구_선수\) "wikilink")    | [SK 와이번스](https://ko.wikipedia.org/wiki/SK_와이번스 "wikilink")   | 1루수                                                           | 26경기 타율 0.337, 11홈런, 28안타, 24타점, 18득점 |                                                                      | \[45\]       |        |
+| 7월                                                            | [양현종](https://ko.wikipedia.org/wiki/양현종 "wikilink")              | [KIA 타이거즈](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink") | 투수                                                            | 5경기 3승 1패, 평균자책점 1.87, 탈삼진 26개        |                                                                      | \[46\]       |        |
+| 8월                                                            | [유희관](https://ko.wikipedia.org/wiki/유희관 "wikilink")              | [두산 베어스](https://ko.wikipedia.org/wiki/두산_베어스 "wikilink")     | 투수                                                            | 5경기 5승 무패, 평균자책점 3.06, 탈삼진 27개        |                                                                      | \[47\]       |        |
+| 9월                                                            | [최형우](https://ko.wikipedia.org/wiki/최형우_\(야구_선수\) "wikilink")    | [삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink")   | 외야수                                                           | 23경기 타율 0.435, 8홈런, 37안타, 27타점, 17득점  |                                                                      | \[48\]       |        |
+| [2017](../Page/2017년_KBO_리그.md "wikilink")                    | 4월                                                               | [맨쉽](../Page/제프_맨쉽.md "wikilink")                             | [NC 다이노스](https://ko.wikipedia.org/wiki/NC_다이노스 "wikilink")   | 투수                                    | 6경기 6승 무패, 평균자책점 1.69, 34탈삼진                                         |              | \[49\] |
+| 5월                                                            | [최형우](https://ko.wikipedia.org/wiki/최형우_\(야구_선수\) "wikilink")    | [KIA 타이거즈](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink") | 외야수                                                           | 26경기 타율 0.330, 9홈런, 31안타, 19타점, 16득점  |                                                                      | \[50\]       |        |
+| 6월                                                            | [켈리](../Page/메릴_켈리.md "wikilink")                                | [SK 와이번스](https://ko.wikipedia.org/wiki/SK_와이번스 "wikilink")   | 투수                                                            | 5경기 5승 무패, 평균자책점 1.80, 탈삼진 35개        |                                                                      | \[51\]       |        |
+| 7월                                                            | [양현종](https://ko.wikipedia.org/wiki/양현종 "wikilink")              | [KIA 타이거즈](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink") | 투수                                                            | 5경기 4승 무패, 평균자책점 2.78, 탈삼진 31개        | 시즌 MVP                                                               | \[52\]       |        |
+| [김재환](https://ko.wikipedia.org/wiki/김재환 "wikilink")           | [두산 베어스](https://ko.wikipedia.org/wiki/두산_베어스 "wikilink")        | 외야수                                                           | 20경기 타율 0.434, 9홈런, 33안타, 24타점, 21득점                          |                                       |                                                                      |              |        |
+| 8월                                                            | [손아섭](https://ko.wikipedia.org/wiki/손아섭 "wikilink")              | [롯데 자이언츠](https://ko.wikipedia.org/wiki/롯데_자이언츠 "wikilink")   | 외야수                                                           | 27경기 타율 0.368, 9홈런, 39안타, 24타점, 33득점  |                                                                      | \[53\]       |        |
+| 9월                                                            | [레일리](https://ko.wikipedia.org/wiki/레일리 "wikilink")              | [롯데 자이언츠](https://ko.wikipedia.org/wiki/롯데_자이언츠 "wikilink")   | 투수                                                            | 4경기 4승 무패, 평균자책점 3.33, 23탈삼진          |                                                                      | \[54\]       |        |
+| [2018](../Page/2018년_KBO_리그.md "wikilink")                    | 4월                                                               | [유한준](https://ko.wikipedia.org/wiki/유한준 "wikilink")           | [kt 위즈](https://ko.wikipedia.org/wiki/kt_위즈 "wikilink")       | 외야수                                   | 29경기 0.447, 9홈런, 46안타, 29타점, 21득점                                    | 기자단, 팬 투표 1위 | \[55\] |
+| 5월                                                            | [정우람](https://ko.wikipedia.org/wiki/정우람 "wikilink")              | [한화 이글스](https://ko.wikipedia.org/wiki/한화_이글스 "wikilink")     | 투수                                                            | 12경기 1승 무패 11세이브, 평균자책점 0.77, 9탈삼진    | 기자단, 팬 투표 1위                                                         | \[56\]       |        |
+| 6월                                                            | [김재환](https://ko.wikipedia.org/wiki/김재환_\(야구_선수\) "wikilink")    | [두산 베어스](https://ko.wikipedia.org/wiki/두산_베어스 "wikilink")     | 외야수                                                           | 26경기 타율 0.430, 14홈런, 46안타, 36타점, 26득점 | 시즌 MVP, 기자단 투표 2위(1위 [후랭코프](../Page/세스_프랭코프.md "wikilink")), 팬 투표 1위 | \[57\]       |        |
+| 7월                                                            | [로맥](../Page/제이미_로맥.md "wikilink")                               | [SK 와이번스](https://ko.wikipedia.org/wiki/SK_와이번스 "wikilink")   | 1루수                                                           | 21경기 타율 0.387, 9홈런, 29안타, 23타점, 14득점  | 기자단 투표 3위(1위 [로하스](../Page/멜_로하스_주니어.md "wikilink")), 팬 투표 1위        | \[58\]       |        |
+| 8월                                                            | [박병호](https://ko.wikipedia.org/wiki/박병호 "wikilink")              | [넥센 히어로즈](https://ko.wikipedia.org/wiki/넥센_히어로즈 "wikilink")   | 1루수                                                           | 13경기 타율 0.400, 7홈런, 20안타, 21타점, 11득점  | 기자단 투표 2위(1위 [이정후](../Page/이정후.md "wikilink")), 팬 투표 1위              | \[59\]       |        |
+| 9월                                                            | [한동민](https://ko.wikipedia.org/wiki/한동민 "wikilink")              | [SK 와이번스](https://ko.wikipedia.org/wiki/SK_와이번스 "wikilink")   | 외야수                                                           | 24경기 타율 0.340, 12홈런, 32안타, 26타점, 19득점 | 기자단, 팬 투표 1위                                                         | \[60\]       |        |
+| [2019](https://ko.wikipedia.org/wiki/2019년_KBO_리그 "wikilink") | 4월                                                               | [윌슨](../Page/타일러_윌슨.md "wikilink")                            | [LG 트윈스](https://ko.wikipedia.org/wiki/LG_트윈스 "wikilink")     | 투수                                    | 7경기 47.2이닝, 4승, 평균자책점 0.57, 32탈삼진                                    | 기자단, 팬 투표 1위 | \[61\] |
+| 5월                                                            | [양현종](https://ko.wikipedia.org/wiki/양현종 "wikilink")              | [KIA 타이거즈](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink") | 투수                                                            | 6경기 41이닝, 4승, 평균자책점 1.10, 44탈삼진       | 기자단, 팬 투표 1위                                                         | \[62\]       |        |
+| 6월                                                            | 최정                                                               | [SK 와이번스](https://ko.wikipedia.org/wiki/SK_와이번스 "wikilink")   | 3루수                                                           | 25경기 타율 0.447, 10홈런, 34안타, 26타점, 22득점 | 기자단, 팬 투표 1위                                                         |              |        |
+| 7월                                                            | 린드블럼                                                             | [두산 베어스](https://ko.wikipedia.org/wiki/두산_베어스 "wikilink")     | 투수                                                            | 4경기 24이닝, 4승, 평균자책점 2.25, 27탈삼진       | 기자단, 팬 투표 1위                                                         |              |        |
+| 8월                                                            | [양현종](https://ko.wikipedia.org/wiki/양현종 "wikilink")              | [KIA 타이거즈](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink") | 투수                                                            | 5경기 35.1이닝, 3승, 평균자책점 0.51, 29탈삼진     | 기자단, 팬 투표 1위                                                         |              |        |
+| 9월                                                            |                                                                  |                                                               |                                                               |                                       |                                                                      |              |        |
+
+## 함께 보기
+
+  - [KBO MVP](https://ko.wikipedia.org/wiki/KBO_MVP "wikilink")
+  - [일본 프로 야구 월간 MVP](../Page/일본_프로_야구_월간_MVP.md "wikilink")
+
+## 각주
+
+<references />
+
+[분류:KBO 리그 상](https://ko.wikipedia.org/wiki/분류:KBO_리그_상 "wikilink") [분류:야구 대회 최우수 선수](https://ko.wikipedia.org/wiki/분류:야구_대회_최우수_선수 "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36. [인천 아시안 게임](https://ko.wikipedia.org/wiki/2014년_아시안_게임 "wikilink") 진행으로 리그가 중단되여 수상하지 않았다.
+37.
+38.
+39.
+40.
+41.
+42.
+43.
+44.
+45.
+46.
+47.
+48.
+49.
+50.
+51.
+52.
+53.
+54.
+55.
+56.
+57.
+58.
+59.
+60.
+61.
+62.

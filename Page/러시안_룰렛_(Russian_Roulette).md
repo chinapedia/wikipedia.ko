@@ -1,0 +1,67 @@
+> This article is converted from Wikipedia: [  \(Russian Roulette\)](https://ko.wikipedia.org/wiki/__\(Russian_Roulette\)).
+
+
+"**러시안 룰렛 (Russian Roulette)**"은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") [걸 그룹](https://ko.wikipedia.org/wiki/걸_그룹 "wikilink") [레드벨벳의](../Page/레드벨벳_\(음악_그룹\).md "wikilink") 노래로, 세 번째 음반인 [Russian Roulette의](../Page/Russian_Roulette_\(레드벨벳의_EP\).md "wikilink") 타이틀곡이기도 했다. 조윤경이 작사한 이 노래는 가사에서 [러시안 룰렛이라는](https://ko.wikipedia.org/wiki/러시안_룰렛 "wikilink") 게임에 비유해 누군가의 마음을 빼앗는 과정을 나타내고 있다. 2016년 9월 7일 [SM 엔터테인먼트는](https://ko.wikipedia.org/wiki/SM_엔터테인먼트 "wikilink") 뮤직 비디오와 함께 이 노래를 발표했다.
+
+러시안 룰렛은 발매 이후 국제 및 대한민국의 비평가들 사이에서 일반적으로 호의적인 평가를 받았다. [심슨 가족으로부터](https://ko.wikipedia.org/wiki/심슨_가족 "wikilink") 어느 정도 영감을 받은 독특한 뮤직비디오는 주목을 받았다. 뮤직 비디오에서 폭력적이고, 레드벨벳 멤버들이 서로 밝고 명랑하고 재미로 가득한 치명적인 장난을 치는 것은 [더 잇치 앤드 스크래치 쇼의](https://ko.wikipedia.org/wiki/더_잇치_앤드_스크래치_쇼 "wikilink") 장면으로 가려주었다.
+
+*[데이즈드](https://ko.wikipedia.org/wiki/데이즈드 "wikilink")*는 올해의 K-pop 트랙 20에서 이 곡을 6위로 뽑았으며, 2016년 [멜론 뮤직 어워드에서](https://ko.wikipedia.org/wiki/멜론_뮤직_어워드 "wikilink") 최고의 뮤직비디오 상을 수여받았다. 상업적으로도 이 곡은 큰 성공을 거두었다. [빌보드](https://ko.wikipedia.org/wiki/빌보드 "wikilink")의 세계 디지털 차트와 대한민국의 [가온 디지털 차트에서](https://ko.wikipedia.org/wiki/가온_디지털_차트 "wikilink") 2위를 기록했으며, 이 때 레드벨벳은 처음으로 두 개의 차트에서 가장 높은 순위에 진입했다.
+
+## 배경과 발매
+
+2016년 3월, 레드벨벳의 두번째 EP였던 *[The Velvet](../Page/The_Velvet.md "wikilink")*이 발매된 이후, 5월에 대한민국의 여러 뉴스 사이트는 레드벨벳이 여름에 컴백할 것이라고 보도했다. 그럼에도 불구하고, 앨범은 여러 번 연기되어 소속사인 [SM 엔터테인먼트가](https://ko.wikipedia.org/wiki/SM_엔터테인먼트 "wikilink") 8월에 음반 발매가 된다고 발표하기 전까지 레드벨벳 멤버들에게 큰 스트레스를 주었다.\[1\]\[2\]\[3\] 9월 1일, 레드벨벳 음반의 첫 티저 이미지가 나오고, 같은 주에 공식 [인스타그램](https://ko.wikipedia.org/wiki/인스타그램 "wikilink")을 통해 [콜라주](https://ko.wikipedia.org/wiki/콜라주 "wikilink")로 표현된 멤버들 개개인의 티저 이미지가 공개되었다. 9월 7일, 그들은 앨범의 타이틀 곡을 주요 싱글과 함께 공개했다.\[4\]
+
+## 구성
+
+"러시안 룰렛 (Russian Roulette)"은 [7월 7일을](https://ko.wikipedia.org/wiki/7월_7일_\(레드벨벳의_노래\) "wikilink") 작곡한 알비 알버트슨, 벨레 험블, 그리고 마르쿠스 린델이 작곡했으며 작사는 조윤경이 맡았다. 레드벨벳의 데뷔 이전에 노래는 만들어졌고, 여전히 연습생 시절일 때 멤버들은 노래를 처음으로 들었는데 그들은 언젠가 이 노래를 녹음해서 발매한다는 것은 모르고 있었다.\[5\]
+
+음악적으로 [빌보드](https://ko.wikipedia.org/wiki/빌보드 "wikilink")의 제프 벤자민은 이 곡을 [칩튠](https://ko.wikipedia.org/wiki/칩튠 "wikilink")을 포함한 [신스팝](https://ko.wikipedia.org/wiki/신스팝 "wikilink")으로 묘사한다.\[6\] PopCrush의 브래들리 스턴은 이 노래를 활기찬 레트로 풍의 [일렉트로팝](https://ko.wikipedia.org/wiki/일렉트로팝 "wikilink")으로 특징지었다\[7\]
+
+## 프로모션
+
+싱글이 발매되기 1시간 전, 레드벨벳은 [네이버](https://ko.wikipedia.org/wiki/네이버 "wikilink") 앱 *V Live*에서 특별 카운트다운을 했다. 여기서 멤버들은 앨범과 수록곡에 대해 논의했다. 9월 8일부터 레드벨벳은 노래의 프로모션을 시작했다. 처음에 [엠카운트다운](https://ko.wikipedia.org/wiki/엠카운트다운 "wikilink")에서 다른 앨범 "Lucky Girl"에 수록된 곡과 함께 생방송 공연을 했다.\[8\]\[9\] 그 주 동안 레드벨벳은 두 곡을 [뮤직뱅크](https://ko.wikipedia.org/wiki/뮤직뱅크 "wikilink"), [인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink"), [더 쇼와](https://ko.wikipedia.org/wiki/더_쇼 "wikilink") 같은 음악방송에서 공연했다. 그리고 9월 13일, 레드벨벳은 러시안 룰렛으로 첫 음악방송 트로피를 수상했다.\[10\]\[11\]
+
+### 뮤직비디오
+
+곡의 뮤직비디오는 신희원이 감독했으며, 2016년 9월 7일 앨범 발매일과 맞추기 위해 [SM 엔터테인먼트의](https://ko.wikipedia.org/wiki/SM_엔터테인먼트 "wikilink") 공식 유튜브 채널에서 공개되었다. 류소희와 두 번째 싱글 "Be Natural"과 3번째 싱글이었던 [Ice Cream Cake의](https://ko.wikipedia.org/wiki/Ice_Cream_Cake "wikilink") 안무를 맡았던 카일 하나가미가 안무를 담당했다.\[12\]\[13\]
+
+밝고 스포츠 풍의 다채로운 세팅과 함께 뮤직비디오는 즐겁고 장난기 많은 곡 아래 숨겨진 폭력적인 콘텐츠로 주목을 받았다. 귀여운 의상을 입은 멤버들은 서로를 해치려고 시도하면서 낭만적인 관계에 대해 노래하며 이를 [러시안 룰렛에](https://ko.wikipedia.org/wiki/러시안_룰렛 "wikilink") 비유한다. 각각의 멤버들은 [테니스 공](https://ko.wikipedia.org/wiki/테니스_공 "wikilink"), [피아노](https://ko.wikipedia.org/wiki/피아노 "wikilink"), [냉장고](https://ko.wikipedia.org/wiki/냉장고 "wikilink"), [사물함](https://ko.wikipedia.org/wiki/사물함 "wikilink")을 다른 소녀들에게 떨어뜨리고, 심지어 [시리얼](https://ko.wikipedia.org/wiki/시리얼 "wikilink") 대신 색을 입힌 [너트](https://ko.wikipedia.org/wiki/너트 "wikilink")와 [볼트](https://ko.wikipedia.org/wiki/볼트 "wikilink")를 먹이는 장면도 나온다. 뮤직 비디오는 만화 쇼인 [더 잇치 앤드 스크래치 쇼와](https://ko.wikipedia.org/wiki/더_잇치_앤드_스크래치_쇼 "wikilink") [심슨 가족의](https://ko.wikipedia.org/wiki/심슨_가족 "wikilink") 러닝 개그를 활용했다. 이러한 장면들은 멤버들이 다른 멤버를 다가오는 차나 비어있는 수영장으로 밀 때처럼 멤버들이 주인공의 행동을 재연하기 직전 보여준다.\[14\] 데일리 도트의 셜리 투치는 노래의 쾌활한 음정이 멤버들의 굳은 표정과 교묘한 웃음을 통해 드러나는 어두운 면을 보여주는 비디오에서 소녀들이 서로 놀면서 치는 재앙적이고 치명적인 장난과 병치시켰다고 말했다.\[15\] Bradley PopCrush의 스턴은 조 브레이커라는 영화에 뮤직비디오를 비유하며 이를 [블랙 코미디라고](https://ko.wikipedia.org/wiki/블랙_코미디 "wikilink") 보았고, 꽤 천재적이라고 말했다.\[16\] 잉퀴스트르는 다채로운 시각효과를 활용했다고 말하며 비디오 샷과 줄거리를 즐길 수 있었고 [Dumb Dumb과](../Page/Dumb_Dumb.md "wikilink") 7월 7일과 같은 이전 곡처럼 예술적이었다고 평가했다. 하지만 잡지는 이 곡이 이전 싱글보다는 더 느린 속도이고, 후자의 노래보다는 좀 더 빠르다고 덧붙였다.\[17\] 이 곡은 9월 미국과 세계에서 가장 많이 본 뮤직비디오가 되었다.\[18\]
+
+9월 6일 네이버 *V Live* 방송에서, 레드벨벳은 멤버들 중 일부가 세트장을 크게 부숴 촬영하는 동안 스태프들이 다시 만들어야 했다고 밝혔다. 멤버 [조이는](../Page/조이_\(가수\).md "wikilink") 뮤직비디오 중 몇몇 장면이 폭력적이어서 등급에 대한 우려를 표시하기도 했다.\[19\]\[20\]
+
+## 비평
+
+발매 이후 "Russian Roulette"은 일반적으로 음악 비평가들로부터 긍정적인 평가를 받았다. 빌보드의 제프 벤자민은 레드벨벳의 이전 곡인 [Ice Cream Cake과](https://ko.wikipedia.org/wiki/Ice_Cream_Cake "wikilink") [Dumb Dumb이](../Page/Dumb_Dumb.md "wikilink") 직선적이고 대담한 풍선껌이었던 것과는 달리, "Russian Roulette"은 곡에 칩튠을 합침으로써 다른 맛을 제공했으며, 이전 노래처럼 중독성 있는 반복적이고 거의 로봇과 같은 훅을 가지고 있다고 말했다.\[21\] 데일리 도트의 세리 투치는 이 곡을 "뮤직비디오의 밝은 색이 보완하는 귀엽고 활발한 곡"이라고 말했다. 그녀는 멤버들의 보기 좋게 꾸민 목소리가 긍정적인 멜로디가 머릿속에 음악이 들어가도록 도와준다고 덧붙였다.\[22\] 레드벨벳과의 인터뷰에서 데이즈드의 테일러 그라스비는 뮤직비디오과 달콤함과 위협의 해로운 조합을 가지고 있다고 말하며 이러한 개념을 끄집어내는 다른 이는 생각하기 어렵다고 말했다. 이 곡은 올해의 최고 K-pop 트랙 20에서 6위에 들었다.\[23\]\[24\] *Tone Glow*는 2016년 최고의 K-pop 30에서 이 곡을 9위에 선정했다.\[25\]
+
+하지만 말레이시아 신문인 더 스타의 체스터 친은 이 싱글과 앨범이 최신 EP *[The Velvet](../Page/The_Velvet.md "wikilink")*의 뛰어나면서도 실험적인 바이브에 비해 무언가 실망스러웠다고 말했다. *The Velvet*은 같은 해에 발매되었다. 그는 전염성 있는 훅과 발랄한 리듬이 어우러진 즐겁고 화려한 댄스팝이라 이 곡을 칭했지만, "Ice Cream Cake"과 "Dumb Dumb"과 같은 다른 싱글들에 비해 엣지와 특징이 부족했다고 말했다.\[26\]
+
+## 각주
+
+[분류:2016년 노래](https://ko.wikipedia.org/wiki/분류:2016년_노래 "wikilink") [분류:레드벨벳의 노래](https://ko.wikipedia.org/wiki/분류:레드벨벳의_노래 "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.

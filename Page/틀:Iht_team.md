@@ -1,0 +1,4 @@
+> This article is converted from Wikipedia: [:Iht team](https://ko.wikipedia.org/wiki/:Iht_team).
+
+
+|- style="{{\#if:|background-color:;}} {{\#if:|border-bottom:3px solid ;}}" {{\#if:|{{\!}}{{\#if:|rowspan=}}{{\!}}}} {{\#if:|\!|{{\#if:|\![](https://ko.wikipedia.org/wiki/#Group_{{{group}}} "wikilink")}}}} | style="text-align: left; white-space:nowrap"|{{\#if:|}} {{\#if:|}}{{\#if:| **(R)**}}{{\#if:| **(C)**}}{{\#if:| **(O)**}}{{\#if:| **(P)**}}{{\#if:| **(Q)**}}{{\#if:| **(TQ)**}}{{\#if:| **(A)**}}{{\#if:| **(DQ)**}}{{\#if:| **(E)**}} | {{\#if:|{{\#expr:+++}}}} |  |  |  |  |  |  | {{\#if:|{{\#ifexpr:\>|+{{\#expr:-}}|{{\#ifexpr:=|0|−{{\#expr:-}} }} }} }} | {{\#if:|<span style="visibility:hidden;color:transparent">0</span>}}{{\#if:|**{{\#expr:{{\#if:||3}}\*+++{{\#if:|−}}{{\#if:|+}}}}**}}{{\#if:|<sup>****</sup> }}<noinclude> [분류:하키 팀 틀](https://ko.wikipedia.org/wiki/분류:하키_팀_틀 "wikilink") </noinclude>

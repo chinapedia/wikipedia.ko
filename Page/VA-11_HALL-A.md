@@ -1,0 +1,322 @@
+> This article is converted from Wikipedia: [VA-11 HALL-A](https://ko.wikipedia.org/wiki/VA-11_HALL-A).
+
+
+《***VA-11 Hall-A:* 사이버펑크 바텐더 액션**》()은 [베네수엘라](https://ko.wikipedia.org/wiki/베네수엘라 "wikilink")의 [스케반 게임즈](https://ko.wikipedia.org/wiki/스케반_게임즈 "wikilink")\[1\]에서 개발한 [비주얼 노벨](https://ko.wikipedia.org/wiki/비주얼_노벨 "wikilink") [어드벤처 게임이다](https://ko.wikipedia.org/wiki/어드벤처_게임 "wikilink"). 배급사는 Ysbryd games\[2\].게임은 2016년 6월 21일 발매되었으며, [프로토타입](https://ko.wikipedia.org/wiki/프로토타입 "wikilink")은 [렌'파이](https://ko.wikipedia.org/wiki/렌'파이 "wikilink")()라는 [게임 엔진으로](https://ko.wikipedia.org/wiki/게임엔진 "wikilink") 개발했으나 이후 [게임 메이커로](https://ko.wikipedia.org/wiki/게임_메이커 "wikilink") 전환하였다. PC버전은 [스팀](https://ko.wikipedia.org/wiki/스팀_\(소프트웨어\) "wikilink")\[3\]과 [GOG](../Page/GOG.com.md "wikilink")\[4\]에서 쉽게 구매할 수 있으며, [PS VITA버전은](https://ko.wikipedia.org/wiki/PS_VITA "wikilink") 스토어\[5\]에서 구매가 가능하다.
+
+원래 2014년 사이버 펑크 잼\[6\]을 목적으로 개발한 게임이였으나 스케반 게임즈의 지속적인 관심과 업데이트를 통해 결국 완성된 게임의 형태로 출시하였다. 2014년 12월에 출시예정이 잡혔었지만 개발자가 게임 엔진을 전환하였기 때문에 여러 번 미루어졌다.
+
+게임의 구 버전 프로토타입은 VA-11 Hall-A의 공식 웹 사이트에서 무료로 다운로드 할 수 있다. 출시 이후 전반적으로 캐릭터들과 사운드에 대한 반응이 긍정적이었지만 대화가 비현실적이며 반복적인 게임 플레이 메커니즘을 비판한 유저들도 적지 않았다.
+
+## 게임 플레이
+
+게임에서 플레이어는 "VA-11 HALL-A" 라는 술집에서의 [바텐더](https://ko.wikipedia.org/wiki/바텐더 "wikilink") 역할을 맡는다. 주어진 재료들을 적합한 비율로 조합하고, 술집에 찾아오는 손님이 원하는 술을 제공하여야 한다. 또 게임의 스토리에 따른 캐릭터(손님)와의 대화 등의 경험을 통해, 애매한 주문에도 손님이 원하는 술을 제공할 수 있어야 한다. 예를 들어 손님이 우울한 날에는 알코올 성분을 많이 추가하여 취하게 만들고 대화한다거나, 손님의 상황에 따라 주문과는 다른 술을 제공하여 더 좋은 결과가 나오는 경우도 다수 존재한다. 이런 식으로 플레이어가 제공하는 술에 따라 손님의 대응이 달라지며 크게는 게임의 시나리오에 영향을 줄 수 있다.
+
+술은 아래의 다섯 가지 재료를 조합해서 만들 수 있으며 모두 가상의 재료이다. 술 제작에는 제한 시간이 없고, 술을 잘못 조합한 경우 손님에게 제공하기 전에 취소한 후 다시 조합할 수 있다. 손님에게 술을 제공한 후, 손님이 술에 대해 만족하면 만족할 수록 더 많은 돈을 받을 수 있다.
+
+  - 아델하이드 (Adelhyde)
+  - 브론손 추출액 (Bronson Extract)
+  - 델다 가루 (Powdered Delta)
+  - 플레너자이드 (Flanergide)
+  - 카모트린 (Karmotrine)
+
+위의 다섯재료들을 조합하여야 하는데, 조합 비율이 나와있는 레시피를 참고하여 쉽게 술을 제작할 수 있다. 경우의 수를 추가하기 위함인지, 재료를 두 배씩 넣는 것으로 큰 사이즈의 술을 조합할 수 있고, 술을 숙성시킬 수도 있으며 얼음을 넣어 온더록스 할 수도 있다.
+
+이처럼《VA-11 Hall-A: Cyberpunk Bartender Action》는 다른 [비주얼 노벨처럼](https://ko.wikipedia.org/wiki/비주얼_노벨 "wikilink") 단순한 선택에 따라 게임의 스토리가 분기되는 것이 아니라, 플레이어가 제공하는 음료에 따라 시나리오의 전체적인 양상이 바뀌는 독특한 형태의 플레이 방식을 설계하였다.
+
+또한 플레이어 캐릭터인 Jill의 집에서 휴대 전화의 앱을 통해 전체적인 세계관과 서사들을 유저들에게 드러나게 해주며, 이는 술집에서 벌어지는 스토리 라인의 복선 역할을 하기도 한다. Jill은 뉴스나 커뮤니티 사이트 등을 조사하며 때로는 유쾌하게, 때로는 우울하게 [디스토피아](https://ko.wikipedia.org/wiki/디스토피아 "wikilink")적인 세계관을 풀어낸다.
+
+술집에서 벌어들인 돈으로 Jill의 임대료를 지불하는 것이 일차적인 목표가 되며, 이후 플레이어의 선택에 따라 상점에서 원하는 요소를 구매할 수 있다. 이를 통해 근무시간 이외에 Jill의 피로감등을 풀어주는 등 다음 날의 일에 지장이 가지 않도록 할 수 있다.
+
+또 플레이어는 Jill이 하루 일과를 시작하기 전에 술집의 [주크박스](https://ko.wikipedia.org/wiki/주크박스 "wikilink")를 통해 유저 자신만의 음악 재생 목록을 만들어 플레이 도중 재생할 수 있다.
+
+## 음료 레시피
+
+| **번호** | **이름**    | **가격** | **성분** | **특수** | **특징** |
+| ------ | --------- | ------ | ------ | ------ | ------ |
+| **A**  | **B**     | **D**  | **F**  | **K**  | **얼음** |
+| 1      | 배드 터치     | 250$   |        | 2      | 2      |
+| 2      | 맥주        | 200$   | 1      | 2      | 1      |
+| 3      | 블리딩 제인    | 200$   |        | 1      | 3      |
+| 4      | 블룸 라이트    | 230$   | 4      |        | 1      |
+| 5      | 블루 페어리    | 170$   | 4      |        |        |
+| 6      | 브렌티니      | 250$   | 6      |        | 3      |
+| 7      | 코발트 벨벳    | 280$   | 2      |        |        |
+| 8      | 크레바스 스파이크 | 140$   |        |        | 2      |
+| 9      | 플러피 드림    | 170$   | 3      |        | 3      |
+| 10     | 프린지 위버    | 260$   | 1      |        |        |
+| 11     | 프로씨 워터    | 150$   | 1      | 1      | 1      |
+| 12     | 그리즐리 템플   | 220$   | 3      | 3      | 3      |
+| 13     | 거트 펀치     | 80$    |        | 5      |        |
+| 14     | 마스블라스트    | 170$   |        | 6      | 1      |
+| 15     | 머큐리 블라스트  | 250$   | 1      | 1      | 3      |
+| 16     | 문블라스트     | 180$   | 6      |        | 1      |
+| 17     | 피아노 맨     | 320$   | 2      | 3      | 5      |
+| 18     | 피아노 우먼    | 320$   | 5      | 5      | 2      |
+| 19     | 파일 드라이버   | 160$   |        | 3      |        |
+| 20     | 스파클 스타    | 150$   | 2      |        | 1      |
+| 21     | 슈가 러쉬     | 150$   | 2      |        | 1      |
+| 22     | 선샤인 클라우드  | 150$   | 2      | 2      |        |
+| 23     | 수플렉스      | 160$   |        | 4      |        |
+| 24     | 젠 스타      | 210$   | 4      | 4      | 4      |
+
+VA-11 HALL-A의 음료 제작 레시피
+
+  - A - 아델하이드
+  - B - 브론손 추출액
+  - D - 델다 가루
+  - F - 플레너자이드
+  - K - 카모트린
+  - \+ - 추가해도 상관없음
+
+## 컨셉과 영향
+
+게임 'VA-11 HALL-A'의 디자인에 대한 영향은 [PC-98](https://ko.wikipedia.org/wiki/PC-98 "wikilink")의 복고풍, 미래 지향적인 느낌에 많은 영향을 받았다. 특히 게임 X-Girl(1996/4/19, RED-ZONE)의 사이버 펑크 어드벤처를 게임의 미학을 위한 청사진으로 삼아 개발하였다. 이외에도 블레이드 러너()(1982년 영화), 뉴로맨서()(1984 소설), [공각기동대](https://ko.wikipedia.org/wiki/공각기동대 "wikilink")(원작: Ghost in Shell), Bubblegum Crisis(1987 애니메이션), 스네쳐()(1988 비디오 게임), Policenauts(1994 비디오 게임) 또한 컨셉의 원천이 되었다고 한다.
+
+게임의 음악은 작곡가 켄지 카와이()의 영향 뿐만 아니라 2010년 대 발생했던 바이퍼웨이브()영향이 대표적이다. 게임의 작곡가 마이클 켈리는 Shin Megami Tensei(1992 비디오 게임)의 팬이었으며, 팀의 다른 개발자들 또한 [플레이스테이션](https://ko.wikipedia.org/wiki/플레이스테이션 "wikilink")과 [슈퍼 패미컴의](https://ko.wikipedia.org/wiki/슈퍼_패미컴 "wikilink") 게임을 하며 자랐다고 한다. 때문에 당시 자신들이 가장 좋아하는 타이틀의 곡을 들으며 느낀 것을, 플레이어 또한 느끼게 하는 것을 목표로 게임의 사운드 트랙을 작곡하였다고 말했다.
+
+게임의 작가이자 프로그래머인 페르난도 다 마스()는 인터뷰에서 게임 속 플레이어가 자기 자신이 작게 느껴지도록 하게끔 시도하였다고 한다. 유저가 직접 플롯 라인을 이끌어가는 것이 아니라 플레이어 캐릭터 Jill이 모든 사건의 중간에서 서로를 연결하는 역할을 하게끔 설계했다는 것이다. 게임 세계상에서의 사건들이 Jill에게 강요되어 의무를 지는 방식보다는 캐릭터의 텍스트를 통한 친밀한 교류와 대화로 하여금 서사가 진행되어 가는 방식을 제시했다.
+
+캐릭터들은 디스토피아적 세계관 속에서 각자 다른 어려움을 겪고 그에 대한 무게를 짊어지며 살고 있지만, 술집 'VA-11 HALL-A'에서 유쾌함과 고통에 대한 인내심을 가지며 교류해 나간다. 또한 부패한 세계의 배경에서 생활함에도 불구하고, 이들은 행복하고 열망있는 삶을 살아나간다. 이러한 드라마와 코미디의 요약, '절망 한 가운데에서의 웃음'은 스케반 게임즈의 베네수엘라에서의 생활 경험들이 영향을 끼쳤다. 게임 속의 뉴스, Jill의 휴대 전화 앱 'Danger', 'U', 'Augmented Eye' 등의 사이트를 통해 베네수엘라의 많은 문제들을 반영했다고 한다. 게임 속 캐릭터들의 상호작용으로 하여금 '세상을 구하는 영웅' 같은 것이 아닌, 오히려 그것의 일부가 되는 과정을 그려내었다.
+
+## 캐릭터 개발
+
+게임의 개발자는 캐릭터를 게임에 등장시키기 전에 많은 것들을 구상하고 구성한다. 성격, 특성, 직업이나 게임의 스토리에 등장하지 않더라도 캐릭터들의 생활들을 상상하는 것에서부터 심지어는 작은 습관에 이르기까지 매우 상세한 것들을 프로파일 시켜낸다. 'VA-11 HALL-A'의 개발자 페르난도 다 마스는 캐릭터들 사이의 중복성을 억제하고 독특한 개성들을 유지하기 위해 매우 다차원 적인 캐릭터를 생성하고자 하였다.
+
+주인공 캐릭터인 Jill 또한 '영웅'이 아니라 스토리의 백그라운드 역할을 하는 '바텐더'로 설정하였다. 또한 '해커', '특공대', '수의사', '언론인' 과 같은 특이한 캐릭터들은 술집에 찾아오는 일상적인 삶을 살아가는 사람들로 만들어 게임 속에 녹아들게 하였다. 이런 캐릭터와의 관계성을 돕기 위해 스케만 게임즈는 많은 플레이 텍스트를, 개발자 자신들의 경험을 토대로최대한 실감 나는 모습으로 그려내었다. 현실 자체의 경험은 대대적으로 창조물의 실감나는 참조방법이 된다는 것이다.
+
+실감나는 텍스트를 통해 이 게임은 캐릭터간의 애정, 관계, 우정에 대한 전통적인 견해를 다방면에서 바라보게 한다. 디스토피아적 세계에서 생존해가기 위해 필요한 인물들의 특징을 서로에 대해 개방적이고(일반 서민들) 애정이 많다는 점 등으로 내세웠다.
+
+또 정치적인 우화와 사회적 논평을 과장하거나 부적절하게 끼워 넣어 주요 스토리 라인을 벗어나게 하지 않도록 캐릭터들과의 이야기 속에 주입하려고 시도했다.
+
+## 세계관
+
+게임의 배경인 도시, 글리치 시티(Glitch City)는 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드 "wikilink")인 릴림(Lilim)들과 [사이보그](https://ko.wikipedia.org/wiki/사이보그 "wikilink")들이 일상화된 미래사회이며 술집의 이름은 구역의 이름 'VA-11 HALL-A'을 따왔다. 기업들이 시민에 대한 인체실험 등을 번번하게 진행하고 있는 [디스토피아](https://ko.wikipedia.org/wiki/디스토피아 "wikilink")적인 세계관으로 글리치 시티는 세간에서 '세계의 기니피그'라는 별명으로 불린다. 전체적으로 [사이버펑크](https://ko.wikipedia.org/wiki/사이버펑크 "wikilink")적인 분위기를 풍긴다.
+
+글리치 시티는 세계적인 기업인 메가 컴피니가 운영하고 있으며, 시민들은 이들이 체내에 심어 놓은 나노머신들에 의해 항상 감시당하는 상태이다. 또한 그들이 운영하는 집단인 화이트 나이트(White Knight)에 의해 법이 집행된다.
+
+이러한 사회에서 주인공인 질(Jill)은 술집 'VA-11 HALL-A'에서 바텐더로 일하고, 다양한 손님들과 만나며 그들과 이야기하게 된다. 게임의 스토리는 플레이어 캐릭터인 질(Jill)에게 정체불명의 소녀 안나(Anna)가 나타나면서 시작된다.
+
+## 등장인물
+
+  - **질(Jill)**
+
+<!-- end list -->
+
+  -
+    술집 'VA-11 HALL-A'의 바텐더이자 게임의 플레이어 캐릭터이다. 나이는 27살이며 생일은 6월 27일이다. 본명은 줄리안 나탈리 스팅레이(Julianne Natalie Stingray)지만, 본명으로 불리는 것을 극도로 싫어하며 질(Jill)이라 불리길 원한다.
+
+<!-- end list -->
+
+  - **다나 제인(Dana Zane)**
+
+<!-- end list -->
+
+  -
+    술집 'VA-11 HALL-A'의 소유주이다. 나이는 불명이며 생일은 5월 31일. 한쪽 팔이 기계로 되어있으며 개를 매우 좋아한다. 자신의 밑에서 일하는 사람들에 대해 매우 신경을 쏟는 등, 세심하고 배려깊은 성품을 가졌다.
+
+<!-- end list -->
+
+  - **길리안(Gillian)**
+
+<!-- end list -->
+
+  -
+    술집 'VA-11 HALL-A'의 바텐더이며, 질(Jill)과 함께 일하는 동료이다. 나이는 불명이며 생일은 3월 11일. 사근사근하며 친근한 성격의 캐릭터이며, 때때로 며칠동안 가게에서 사라지는 일이 발생한다.
+
+<!-- end list -->
+
+  - **도로시 헤이즈(Dorothy Haze)**
+
+<!-- end list -->
+
+  -
+    'VA-11 HALL-A'의 단골 손님이자 릴림(Lilim)이다. 만들어진지는 13년, 정신연령은 24살로 설정되었으며, 생일은 11월 5일이다. 성 노동자이며 경솔한 언동을 일삼지만 가끔씩 정중한 모습을 보이기도 한다.
+
+<!-- end list -->
+
+  - **세이 아사기리(Sei Asagiri)**
+
+<!-- end list -->
+
+  -
+    'VA-11 HALL-A'의 손님이며, 나이는 불명, 생일은 3월 20일. 글리치 시티의 화이트 나이트(White Knight) 소속으로, 강도 높은 훈련에 의해 극도로 근육진 몸을 가지고 있다.
+
+<!-- end list -->
+
+  - **스텔라 호시(Stella Hoshii)**
+
+<!-- end list -->
+
+  -
+    세이(Sei)의 친구이자 'VA-11 HALL-A'의 손님. 생일은 12월 25일 이다. 어릴적 사건에 의해 오른쪽 눈에 의안을 착용하고 있다.
+
+<!-- end list -->
+
+  - **베아트리체 앨버트(Beatrice Albert)**
+
+<!-- end list -->
+
+  -
+    'VA-11 HALL-A'의 단골손님이며 베티(Betty) 라고 불린다. 생일은 8월 19일. 수의사로 일하고 있다.
+
+<!-- end list -->
+
+  - **딜(Deal)**
+
+<!-- end list -->
+
+  -
+    베티(Betty)의 직장 동료이자 릴림(Lilim)이다. 개에 대하여 극도의 애착을 가지고 있다.
+
+<!-- end list -->
+
+  - **알마 알마스(Alma Armas)**
+
+<!-- end list -->
+
+  -
+    'VA-11 HALL-A'의 단골손님이자 질(Jill)의 친구. 생일은 7월 25일. 한쪽 팔이 의수며, 해커 일을 한다.
+
+<!-- end list -->
+
+  - **키라 미키(Kira Miki)**
+
+<!-- end list -->
+
+  -
+    릴림(Lilim) 아이돌로 활동하고 있으며 'VA-11 HALL-A'에 손님으로 찾아온다. 생일은 9월 3일.
+
+<!-- end list -->
+
+  - **안나 그레이드(Anna Graem)**
+
+<!-- end list -->
+
+  -
+    질(Jill)에게 계속 나타나는 정체불명의 여성. 쾌활하고 장난끼 많은 언동을 보여준다.
+
+<!-- end list -->
+
+  - **비르질리오(Virgilio Armandio)**
+
+<!-- end list -->
+
+  -
+    검은 색 자켓과 흰색 셔츠를 착용한 과체중 남성. 술의 이름이나 맛, 느낌대로 주문을 하지 않으며 불분명하거나 어렵게 빙빙 돌려가는 방식의 주문으로 Jill을 당황스럽게 한다.
+
+## 사운드트랙
+
+작품의 [사이버펑크](https://ko.wikipedia.org/wiki/사이버펑크 "wikilink")적인 분위기에 어울리는 [일렉트로니카](https://ko.wikipedia.org/wiki/일렉트로니카 "wikilink")와 [디스코](https://ko.wikipedia.org/wiki/디스코 "wikilink"), [사이키델릭한](https://ko.wikipedia.org/wiki/사이키델릭_록 "wikilink") 음악이 중심적으로 다루어 진다. 각각 앨범들은 밴드캠프\[7\]\>에서 구매가 가능하다. 첫번째 트랙인《VA​-​11 HALL​-​A Prologue OST - Sounds From The Future》\[8\]는 2014년 8월 18일에 발표되었으며 가격은 4.99$. 두번째 트랙인《VA​-​11 HALL​-​A - Second Round》\[9\]는 2016년 1월 19일에 발표되었으며 가격은 7$. 세번째 트랙인《VA​-​11 HALL​-​A EX - Bonus Tracks Collection》\[10\]는 2017년 9월 19일에 발표되었으며 가격은 4$.
+
+### VA​-​11 HALL​-​A Prologue OST - Sounds From The Future
+
+1.  "Metropolis" \[01:06\]
+2.  "Karmotrine Dream" \[02:25\]
+3.  "Neon District" \[04:09\]
+4.  "David Nyman - Strictly Businesss" \[02:31\]
+5.  "Skyline" \[03:12\]
+6.  "A New Frontier" \[04:12\]
+7.  "Another Satisfied Customer" \[00:43\]
+8.  "Dusk" \[03:18\]
+9.  "Meet The Staff" \[03:37\]
+10. "Heart Of The City" \[02:31\]
+11. "David Nyman - Spirit Potion" \[03:24\]
+12. "A City That Never Sleeps" \[01:45\]
+13. "Base Of The Titans" \[02:33\]
+14. "Follow The Trail" \[02:50\]
+15. "Out Of Orbit" \[03:16\]
+16. "Tense" \[01:48\]
+17. "Underground Club" \[02:11\]
+18. "Showtime\!" \[03:18\]
+
+### VA​-​11 HALL​-​A - Second Round
+
+1.  "Hopes and Dreams" \[00:47\]
+2.  "A Neon Glow Lights the Way" \[02:32\]
+3.  "Welcome to VA-11 HALL-A" \[03:08\]
+4.  "Every Day is Night" \[03:40\]
+5.  "Commencing Simulation" \[01:51\]
+6.  "Drive Me Wild" \[03:48\]
+7.  "Good for Health, Bad for Education" \[03:14\]
+8.  "Who Was I?" \[01:20\]
+9.  "Troubling News" \[01:16\]
+10. "A Gaze That Invited Disaster" \[03:43\]
+11. "You've Got Me" \[03:28\]
+12. "Better Luck Next Time" \[00:19\]
+13. "Transition I" \[00:37\]
+14. "Umemoto" \[03:37\]
+15. "JC Elton's" \[01:45\]
+16. "Go\! Go\! Streaming-chan\!" \[01:33\]
+17. "All Systems, Go\!" \[03:41\]
+18. "Where Do I Go From Here?" \[01:58\]
+19. "Will You Remember Me?" \[01:46\]
+20. "Everything Will Be Okay" \[02:22\]
+21. "March of the White Knights" \[01:53\]
+22. "A. Rene" \[03:24\]
+23. "Safe Haven" \[02:39\]
+24. "Neo Avatar" \[03:42\]
+25. "Those Who Dwell in Shadows" \[03:15\]
+26. "Nighttime Maneuvers" \[04:06\]
+27. "A Star Pierces the Darkness" \[02:21\]
+28. "CALICOMP 1.1 Startup" \[00:19\]
+29. "CALICOMP 1.1 Shutdown" \[00:19\]
+30. "Transition II" \[01:09\]
+31. "Your Love is a Drug" \[03:00\]
+32. "Synthestitch" \[04:41\]
+33. "Snowfall" \[02:50\]
+34. "The Answer Lies Within" \[02:41\]
+35. "Dawn Approaches" \[04:10\]
+36. "With Renewed Hope, We Continue Forward" \[02:58\]
+37. "Last Call" \[02:13\]
+38. "Reminiscence" \[02:36\]
+39. "Believe in Me Who Believes in You" \[04:40\]
+40. "Final Result" \[01:10\]
+41. "Until We Meet Again" \[00:52\]
+42. "Digital Drive" \[01:33\]
+
+### VA​-​11 HALL​-​A EX - Bonus Tracks Collection
+
+1.  "Glitch City" \[02:26\]
+2.  "Shine Spark" \[05:01\]
+3.  "Snowfall (SenzaFine Remix)" \[02:27\]
+4.  "Base of the Titans (Sage Remix)" \[01:37\]
+5.  "Truth" \[02:18\]
+6.  "Lifebeat of Lilim" \[03:17\]
+7.  "Every Day is Night (FamilyJules Arrange)" \[03:47\]
+8.  "Your Love is a Drug ft. Adriana Figueroa (insaneintherain Arrange)" \[04:50\]
+9.  "Lifebeat of Lilim (Instrumental Version)" \[03:17\]
+10. "Shine Spark (Instrumental Version)" \[05:01\]
+
+## 평가
+
+《VA-11 Hall-A: Cyberpunk Bartender Action》는 [메타크리틱](https://ko.wikipedia.org/wiki/메타크리틱 "wikilink")에서 77점을 기록하였다.
+
+평론사 [디스트럭토이드](../Page/디스트럭토이드.md "wikilink")()의 마이크 코시 마노()는 매우 가벼운 바텐딩 요소가 있는 비주얼 노블 게임이라고 VA-11 Hall-A를 정의하였으며 보이지 않는 곳에서 이루어지는 선택 메커니즘, 플레이어 캐릭터인 Jill을 포함하여 매우 잘 설정된 캐릭터, 디스토피아적 세계관에서 이루어지는 매력적인 이야기라고 리뷰하는 등. 게임의 텍스트와 디자인 뿐만 아니라 플레이어와 캐릭터간의 상호작용에 따른 스토리 텔링에서의 화려한 실험이라며, 모든면에서 인상적이고 훌륭한 게임이라는 평을 남겼다.
+
+[게임 인포머](https://ko.wikipedia.org/wiki/게임_인포머 "wikilink")()의 리뷰 에디터, 조 주바()는 절정과 웅장한 클라이 맥스로 발전하지는 않지만, 텍스트와 주변 정보들로 하여금 이루어지는 상쾌한 방식의 스토리텔링이며 이러한 구성이 캐릭터의 독특한 개성을 이끌어 내고 삶, 사랑, 우정과 같은 큰 주제에 대한 서로 다른 견해를 나누는 좋은 스토리 라인을 가지고 있다고 리뷰했다. 바텐딩 요소로 이야기를 움직일 수 있다는 점이 매력적이며 또한 평범한 인터페이스로 구성되어 있지만 흥미로운 캐릭터 디자인, 게임의 환상적인 사운드 트랙과 깔끔한 주크 박스 시스템, 전통적인 비디오 게임은 아니지만 사이버 펑크 세계에서의 귀 기울일만한 매력적인 스토리를 가졌다는 평가를 내렸다.
+
+[PC 게이머](https://ko.wikipedia.org/wiki/PC_게이머 "wikilink") ()에서는 VA-11 Hall-A를 사람들의 불황을 귀 기울여 듣는 수동적인 게임이라며 매력적인 사이버 펑크 세계관에서의 지루한 바텐더의 이야기라는 리뷰를 남겼다. 술집 문 밖의 잔혹하고 부패한 세계의 이야기 대신 주문을 받아 음료를 제작하는 기계적인 이야기를 표현한 발할라[({{llang에](https://ko.wikipedia.org/wiki/PC_게이머 "wikilink") 대해 아쉬움을 표현하고 있다. 결국 흥미로운 시도였지만 지루하고 기계적인 반복으로 이루어진 바텐더 메커니즘에 대해 매우 실망적인 평가를 남겼다.
+
+## 각주
+
+## 외부 링크
+
+  -
+
+  -
+
+  - [VA-11 HALL-A 공식 홈페이지 *(VA11 HALL-A)*](http://waifubartending.com//)
+
+  -
+[분류:윈도우 게임](https://ko.wikipedia.org/wiki/분류:윈도우_게임 "wikilink") [분류:리눅스 게임](https://ko.wikipedia.org/wiki/분류:리눅스_게임 "wikilink") [분류:MacOS 게임](https://ko.wikipedia.org/wiki/분류:MacOS_게임 "wikilink") [분류:인디 게임](https://ko.wikipedia.org/wiki/분류:인디_게임 "wikilink") [분류:어드벤처 게임](https://ko.wikipedia.org/wiki/분류:어드벤처_게임 "wikilink") [분류:스팀 배급 게임](https://ko.wikipedia.org/wiki/분류:스팀_배급_게임 "wikilink") [분류:노벨 게임](https://ko.wikipedia.org/wiki/분류:노벨_게임 "wikilink") [분류:생활 시뮬레이션 게임](https://ko.wikipedia.org/wiki/분류:생활_시뮬레이션_게임 "wikilink") [분류:사이버펑크 게임](https://ko.wikipedia.org/wiki/분류:사이버펑크_게임 "wikilink") [분류:성소수자 관련 게임](https://ko.wikipedia.org/wiki/분류:성소수자_관련_게임 "wikilink") [분류:2070년대를 배경으로 한 비디오 게임](https://ko.wikipedia.org/wiki/분류:2070년대를_배경으로_한_비디오_게임 "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.

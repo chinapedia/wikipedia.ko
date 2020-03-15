@@ -1,0 +1,62 @@
+> This article is converted from Wikipedia: [  vs.   THE MOVIE](https://ko.wikipedia.org/wiki/__vs.___THE_MOVIE).
+
+
+《**고카이저 VS 우주형사 갸반 THE MOVIE**》 ()은 《[슈퍼 전대 시리즈](https://ko.wikipedia.org/wiki/슈퍼_전대_시리즈 "wikilink")》의 제35번째를 기념하여, [토에이](https://ko.wikipedia.org/wiki/토에이 "wikilink")와 이시노모리 프로덕션이 제작한 영화이다. 《[슈퍼 전대 시리즈](https://ko.wikipedia.org/wiki/슈퍼_전대_시리즈 "wikilink")》 35년째 작품과 《[메탈 히어로 시리즈](https://ko.wikipedia.org/wiki/메탈_히어로_시리즈 "wikilink")》의 30주년 기념작이다.
+
+## 개요
+
+슈퍼 전대 35작품 기념과 우주 형사 시리즈 30주년 기념 작품이다. 슈퍼 전대 시리즈 제35탄 《해적전대 고카이저》와 우주 형사 시리즈 메탈 히어로 시리즈 제1탄 《[우주형사 갸반](https://ko.wikipedia.org/wiki/우주형사_갸반 "wikilink")》크로스 오버 작품이며, 《[극장판 염신전대 고온저 vs. 게키레인저](https://ko.wikipedia.org/wiki/극장판_염신전대_고온저_vs._게키레인저 "wikilink")》에서 이어지는 슈퍼 전대 시리즈 제4탄이다. 슈퍼 전대와 우주 형사의 크로스 오버 최초로 등장했다. 슈퍼 전대 VS 시리즈는 기본적으로 방송시 당해 연도와 전년도의 작품이 공연하고 있지만, 슈퍼 전대의 전작인 《[천장전대 고세이저](https://ko.wikipedia.org/wiki/천장전대_고세이저 "wikilink")》는 《[고카이저 고세이저 슈퍼 전대 199 히어로 대결전](https://ko.wikipedia.org/wiki/고카이저_고세이저_슈퍼_전대_199_히어로_대결전 "wikilink")》입니다로 공동 출연하고 있던 것이나, [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 우주 형사 시리즈가 탄생 한 지 30주년이되는 고비이며, 전술 한 바와 같이 슈퍼 전대 시리즈 35편과 우주 형사 시리즈 30주년 더블 기념작으로 본작이 제작된다. 동시에이 작품을 발판으로 같은 해 10월 공개의 《우주 형사 갸반 THE MOVIE》가 제작되었다.
+
+또한 과거의 「슈퍼 전대 축제」과 같이 새로운 전대 《[특명전대 고버스터즈](https://ko.wikipedia.org/wiki/특명전대_고버스터즈 "wikilink")》가 방송 시작에 앞서 선행 등장하고 있다. (그러나 고버스터즈 고카이저와 갸반과 직접 대면하고 있지 않다).
+
+전국 263 스크린에서 개봉되어 2012년 1월 21일, 22일의 첫날 2일간 흥행 수입 1억 6,075만엔, 동원 15만 9,227명으로 영화 관객 동원 랭킹 (흥행 통신사 조사)에서 첫 등장 2정도가 되었다.
+
+## 스토리
+
+고카이저가 고카이가 레온으로 항해 중 갑자기 거대한 우주선이 출현했다. 그 위에 은백색으로 빛나고 컴뱃 슈트의 전사가 된다. 그가 전 은하에 그 이름이 알려진 우주 형사 갸반이었다. 갸반의 압도적인 힘으로 고카이저는 패해 체포되고 만다.
+
+하지만 갸반은 잔갸쿠의 교활한 음모에 연루됐으며, 잔갸쿠는 갸반을 다 하고 마귀 하늘 공간에 가두어 버렸다. 배틀 도중 갸반과 마음을 나눈 고카이저는 있을 수 없는 천재지변에 가득하다 위험한 마공 공간에서 갸반을 구하러 뛰어들어갔다.
+
+## 출연작
+
+  - 캡틴 마벨러스 / 고카이 레드 - [오자와 료타](https://ko.wikipedia.org/wiki/오자와_료타 "wikilink")
+  - 조 깁켄 / 고카이 블루 - [야마다 유키](https://ko.wikipedia.org/wiki/야마다_유키 "wikilink")
+  - 루카 밀피 / 고카이 옐로 - [이치미치 마오](https://ko.wikipedia.org/wiki/이치미치_마오 "wikilink")
+  - 돈 도코이어 / 고카이 그린 - [시미즈 카즈키](https://ko.wikipedia.org/wiki/시미즈_카즈키 "wikilink")
+  - 아임 드 파미유 / 고카이 핑크 - [코이케 유이](https://ko.wikipedia.org/wiki/코이케_유이 "wikilink")
+  - 이카리 가이 / 고카이 실버 - [이케다 준야](https://ko.wikipedia.org/wiki/이케다_준야 "wikilink")
+  - 이치조지 레츠 (갸반)/아케보노 시로 (배틀 케냐)([배틀 피버 J](https://ko.wikipedia.org/wiki/배틀_피버_J "wikilink"))/오우메 다이고로 (덴지 블루)([전자전대 덴지맨](https://ko.wikipedia.org/wiki/전자전대_덴지맨 "wikilink")) - [오오바 켄지](https://ko.wikipedia.org/wiki/오오바_켄지 "wikilink")
+  - 네비 (목소리) - 타무라 유카리
+  - 염신 마하르콘 (목소리) - 히라타 히로아키
+
+### 조연 배우
+
+  - 바스코 타 조로키아 (인간/완전체 목소리) - [호소가이 케이](https://ko.wikipedia.org/wiki/호소가이_케이 "wikilink")
+  - 사리 (목소리) - 고구민
+  - 대장 제라싯트 (목소리) - [사쿠라이 타카히로](https://ko.wikipedia.org/wiki/사쿠라이_타카히로 "wikilink")
+  - 아쿠도스 길 (목소리) - 오가와 신지
+  - 아슈라다 (목소리) - 사노 시로
+  - 다이랜드 (목소리) - 에바라 마사시
+  - 인산 (목소리) - [이노우에 키쿠코](https://ko.wikipedia.org/wiki/이노우에_키쿠코 "wikilink")
+  - 레드 버스터 (목소리) : 스즈키 카즈히로([특명전대 고버스터즈](https://ko.wikipedia.org/wiki/특명전대_고버스터즈 "wikilink"))
+  - 블루 버스터 (목소리) : 바바 료마(특명전대 고버스터즈)
+  - 옐로 버스터 (목소리) : 코미야 아리사(특명전대 고버스터즈)
+
+### SPECIAL THANKS
+
+  - 야츠 덴 와니 (목소리) - [츠쿠이 쿄세이](https://ko.wikipedia.org/wiki/츠쿠이_쿄세이 "wikilink")([폭룡전대 아바레인저](https://ko.wikipedia.org/wiki/폭룡전대_아바레인저 "wikilink"))
+  - 요환밀사 반큐리어 (목소리) - 와타나베 미사([마법전대 마지레인저](https://ko.wikipedia.org/wiki/마법전대_마지레인저 "wikilink"))
+  - 바람의 시즈카 - 야마사키 마미 ([굉굉전대 보켄저](https://ko.wikipedia.org/wiki/굉굉전대_보켄저 "wikilink"))
+  - 변환의 월광 (목소리) - 긴가 반조(굉굉전대 보켄저)
+  - 바에 (목소리) - 이시다 아키라([수권전대 게키레인저](https://ko.wikipedia.org/wiki/수권전대_게키레인저 "wikilink"))
+  - 요고슈타인 (목소리) - 야나다 키요유키([염신전대 고온저](https://ko.wikipedia.org/wiki/염신전대_고온저 "wikilink"))
+  - 키타네이더스 (목소리) - 마도노 미츠아키(염신전대 고온저)
+  - 케가레시아 - 오이카와 나오(염신전대 고온저)
+
+## 외부 링크
+
+  - [공식 사이트](http://www.tv-asahi.co.jp/gokai-gavan/)
+
+  - [올시네마](http://www.allcinema.net/prog/show_c.php?num_c=341255)
+
+[분류:2012년 영화](https://ko.wikipedia.org/wiki/분류:2012년_영화 "wikilink") [분류:메탈 히어로 시리즈](https://ko.wikipedia.org/wiki/분류:메탈_히어로_시리즈 "wikilink") [분류:슈퍼 전대 시리즈](https://ko.wikipedia.org/wiki/분류:슈퍼_전대_시리즈 "wikilink") [분류:슈퍼 전대 시리즈의 크로스 오버 작품](https://ko.wikipedia.org/wiki/분류:슈퍼_전대_시리즈의_크로스_오버_작품 "wikilink") [분류:탈옥을 소재한 작품](https://ko.wikipedia.org/wiki/분류:탈옥을_소재한_작품 "wikilink")

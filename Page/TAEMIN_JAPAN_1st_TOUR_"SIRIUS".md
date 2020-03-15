@@ -1,0 +1,58 @@
+> This article is converted from Wikipedia: [TAEMIN JAPAN 1st TOUR SIRIUS](https://ko.wikipedia.org/wiki/TAEMIN_JAPAN_1st_TOUR_SIRIUS).
+
+
+《**TAEMIN JAPAN 1st TOUR "SIRIUS"**》는 대한민국의 음악 그룹 [샤이니](https://ko.wikipedia.org/wiki/샤이니 "wikilink")의 멤버 [태민](https://ko.wikipedia.org/wiki/태민 "wikilink")의 두 번째 일본 [콘서트 투어로](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink") '빛나는 것'이라는 의미를 지닌 'SIRIUS'라는 단어를 통해 무대에 선 이 시간이 가장 빛나는 순간으로 기억에 남기고자 하는 의미가 담고자 이와 같은 타이틀로 결정되었다. 당초 26회의 홀 투어로 예정되어 있었으나 호응이 좋아 6일 간의 아레나 투어 일정이 추가되었다.
+
+## 투어 일정
+
+| 일정            | 도시                                                      | 장소                                                                         | 관객 수       |
+| ------------- | ------------------------------------------------------- | -------------------------------------------------------------------------- | ---------- |
+| 2018년 9월 21일  | [요코스카시](https://ko.wikipedia.org/wiki/요코스카시 "wikilink") | 요코스카 예술 극장                                                                 | 통산 4,600명  |
+| 2018년 9월 22일  |                                                         |                                                                            |            |
+| 2018년 9월 24일  | [이시카와](https://ko.wikipedia.org/wiki/이시카와 "wikilink")   | 혼다노모리 홀                                                                    | 통산 4,400명  |
+| 2018년 9월 25일  |                                                         |                                                                            |            |
+| 2018년 9월 28일  | [하마마쓰시](https://ko.wikipedia.org/wiki/하마마쓰시 "wikilink") | 액트시티 하마마츠                                                                  | 2,300명     |
+| 2018년 9월 29일  | [시즈오카시](https://ko.wikipedia.org/wiki/시즈오카시 "wikilink") | 시즈오카 시민문화회관                                                                | 2,900명     |
+| 2018년 9월 30일  | [이치카와시](https://ko.wikipedia.org/wiki/이치카와시 "wikilink") | 이치카와 시민회관                                                                  | 2,900명     |
+| 2018년 10월 4일  | [나고야 시](https://ko.wikipedia.org/wiki/나고야_시 "wikilink") | 나고야 국제회의장 센츄리 홀                                                            | 통산 8,000명  |
+| 2018년 10월 5일  |                                                         |                                                                            |            |
+| 2018년 10월 7일  | [사이타마](https://ko.wikipedia.org/wiki/사이타마 "wikilink")   | 오오미야 소닉시티                                                                  | 2,500명     |
+| 2018년 10월 8일  | [마쓰모토시](https://ko.wikipedia.org/wiki/마쓰모토시 "wikilink") | 마츠모토 시민예술관                                                                 | 2,800명     |
+| 2018년 10월 10일 | [횡빈](https://ko.wikipedia.org/wiki/횡빈 "wikilink")       | [파시 피코 요코하마 국립대 홀](https://ko.wikipedia.org/wiki/요코하마_국제_평화회의장 "wikilink") | 통산 16,000명 |
+| 2018년 10월 11일 |                                                         |                                                                            |            |
+| 2018년 10월 13일 | [마에바시시](https://ko.wikipedia.org/wiki/마에바시시 "wikilink") | 베이시아 문화대 홀                                                                 | 통산 4,400명  |
+| 2018년 10월 14일 |                                                         |                                                                            |            |
+| 2018년 10월 17일 | [큐슈](https://ko.wikipedia.org/wiki/큐슈 "wikilink")       | 이치고 그랜시어터                                                                  | 2,900명     |
+| 2018년 10월 18일 | [후쿠오카](https://ko.wikipedia.org/wiki/후쿠오카 "wikilink")   | 후쿠오카 선 팔레스                                                                 | 통산 4,600명  |
+| 2018년 10월 19일 |                                                         |                                                                            |            |
+| 2018년 10월 22일 | [오사카](https://ko.wikipedia.org/wiki/오사카_시 "wikilink")   | 오릭스 극장                                                                     | 통산 7,200명  |
+| 2018년 10월 23일 |                                                         |                                                                            |            |
+| 2018년 10월 24일 |                                                         |                                                                            |            |
+| 2018년 10월 26일 | [기옥](https://ko.wikipedia.org/wiki/사이타마현 "wikilink")    | 오카야마 시민회관                                                                  | 2,700명     |
+| 2018년 10월 28일 | [히로시마](https://ko.wikipedia.org/wiki/히로시마 "wikilink")   | 우에노 학원 홀                                                                   | 통산 3,400명  |
+| 2018년 10월 29일 |                                                         |                                                                            |            |
+| 2018년 11월 1일  | [삿포로](https://ko.wikipedia.org/wiki/삿포로 "wikilink")     | 삿포로 와쿠와쿠 홀리데이 홀                                                            | 통산 4,000명  |
+| 2018년 11월 2일  |                                                         |                                                                            |            |
+| 2018년 11월 9일  | [신호](https://ko.wikipedia.org/wiki/고베 "wikilink")       | 고베 월드 기념 홀                                                                 | 통산 36,000명 |
+| 2018년 11월 10일 |                                                         |                                                                            |            |
+| 2018년 11월 11일 |                                                         |                                                                            |            |
+| 2018년 11월 24일 | [도쿄](https://ko.wikipedia.org/wiki/도쿄 "wikilink")       | 무사시노노모리 종합 스포츠 플라자 메인 아레나\[1\]                                             | 통산 30,000명 |
+| 2018년 11월 25일 |                                                         |                                                                            |            |
+| 2018년 11월 26일 |                                                         |                                                                            |            |
+
+## 세트 리스트
+
+## 제작
+
+  - 주최 : SM 엔터테인먼트 재팬, ON THE LINE
+  - 후원 : [유니버설 뮤직 재팬](https://ko.wikipedia.org/wiki/유니버설_뮤직_재팬 "wikilink")
+
+## 각주
+
+<references/>
+
+## 외부 링크
+
+[분류:2018년 콘서트 투어](https://ko.wikipedia.org/wiki/분류:2018년_콘서트_투어 "wikilink")
+
+1.

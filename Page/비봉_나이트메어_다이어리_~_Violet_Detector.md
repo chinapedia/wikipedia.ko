@@ -1,0 +1,107 @@
+> This article is converted from Wikipedia: [   \~ Violet Detector](https://ko.wikipedia.org/wiki/___\~_Violet_Detector).
+
+
+《**비봉 나이트메어 다이어리 \~ Violet Detector**》()는 [동방 프로젝트의](https://ko.wikipedia.org/wiki/동방_프로젝트 "wikilink") 다섯번째 외전 작품이다. [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [7월 19일에](https://ko.wikipedia.org/wiki/7월_19일 "wikilink") 제작자 [ZUN의](https://ko.wikipedia.org/wiki/오타_준야 "wikilink") [블로그](https://ko.wikipedia.org/wiki/블로그 "wikilink")에서 발매 예정 및 일부 정보가 발표되었으며, 2018년 [8월 10일](https://ko.wikipedia.org/wiki/8월_10일 "wikilink") [C94에서](https://ko.wikipedia.org/wiki/코믹마켓 "wikilink") 배포되었다.
+
+[동방문화첩과](https://ko.wikipedia.org/wiki/동방문화첩_~_Shoot_the_Bullet "wikilink") 같은 감각의 시스템이 예고되어 있다\[1\].
+
+## 게임 시스템
+
+### 초능력
+
+  -
+    Lv.1 불릿 캔슬
+    Lv.2 텔레포테이션
+    Lv.3 텔레포토그래피
+    Lv.4 파이로키네시스
+    Lv.5 데스 캔슬
+
+## 줄거리
+
+비봉클럽 초대 회장 우사미 스미레코. 그녀는 꿈을 꾸고 있을 때만 환상향을 방문할 수 있다.
+
+그러나 어느 일요일, 이상한 꿈을 꾸게 된다.
+
+하쿠레이 레이무가 이유도 없이 공격을 해온 것이다.
+
+게다가 시간이 아무리 지나도 꿈에서 깨지 않고 끊임없이 레이무에게 공격당하는 것이다.
+
+막막해진 그녀는 기록으로 남기며 즐기기로 했다.
+
+탄막을 사진으로 담아내자 꿈에서 깨어났지만...
+
+그 뒤로 왠지 현실의 기억도 모호해지고, 악몽에 시달리는 나날이 계속되었다.
+
+거참, 그녀의 운명은 어떻게 될는지...
+
+## 등장인물
+
+  - 우사미 스미레코\[2\]
+    도레미 스위트
+    하쿠레이 레이무
+    키리사메 마리사
+    마타라 오키나
+    세이란
+    링고
+    이터니티 라바
+    야타데라 나루미
+    사카타 네무노
+    코마노 아운
+    클라운피스
+    키신 사구메
+    테이레이다 마이
+    니시다 사토노
+    헤카티아 라피스라줄리
+    순호
+    레밀리아 스칼렛
+    플랑드르 스칼렛
+    히지리 뱌쿠렌
+    토요사토미미노 미코
+    사이교우지 유유코
+    시키에이키 야마자나두
+    야사카 카나코
+    모리야 스와코
+    야고코로 에이린
+    호라이산 카쿠야
+    히나나위 텐시
+    스코나 신묘마루
+    코메이지 사토리
+    레이우지 우츠호
+    코메이지 코이시
+    야쿠모 란
+    후타츠이와 마미조
+    호주 누에
+    호리카와 라이코
+    나가에 이쿠
+    이부키 스이카
+    후지와라노 모코우
+    야쿠모 유카리
+
+## 곡 목록
+
+1.  악몽일기 - 신곡
+2.  루시드 드리머 - 신곡
+3.  루나틱 드리머 - 신곡
+4.  나이트메어 다이어리 - 신곡
+5.  바 올드 아담 - 구약주점에서
+6.  연석박물지가 가져온 어둠 - 구약주점에서
+7.  영원의 춘몽 - 동방감주전에서
+8.  비닉된 포 시즌스 - 동방천공장에서
+
+## 각주
+
+## 관련 항목
+
+  - [동방문화첩 \~ Shoot the Bullet](https://ko.wikipedia.org/wiki/동방문화첩_~_Shoot_the_Bullet "wikilink") - 《문화첩(게임)》의 제1탄.
+  - [더블 스포일러 \~ 동방문화첩](https://ko.wikipedia.org/wiki/더블_스포일러_~_동방문화첩 "wikilink") - 《문화첩(게임)》의 제2탄.
+
+## 외부 링크
+
+  - [東方Project 第16.5弾 : 博麗幻想書譜](https://kourindou.exblog.jp/27419239/)
+
+  - [상하이 앨리스 환악단](http://www16.big.or.jp/~zun/)
+
+[분류:동방 프로젝트](https://ko.wikipedia.org/wiki/분류:동방_프로젝트 "wikilink") [분류:윈도우 게임](https://ko.wikipedia.org/wiki/분류:윈도우_게임 "wikilink")
+
+1.
+2.

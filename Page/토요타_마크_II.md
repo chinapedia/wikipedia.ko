@@ -1,0 +1,185 @@
+> This article is converted from Wikipedia: [  II](https://ko.wikipedia.org/wiki/__II).
+
+
+**토요타 마크 Ⅱ**(Toyota Mark Ⅱ)는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [자동차](https://ko.wikipedia.org/wiki/자동차 "wikilink") 메이커 [토요타가](https://ko.wikipedia.org/wiki/토요타_자동차 "wikilink") 생산, 판매한 중형 승용차이다. [닛산 로렐과](../Page/닛산_로렐.md "wikilink") 경쟁하였으며, 당시 형제차로 [크레스타와](https://ko.wikipedia.org/wiki/토요타_크레스타 "wikilink") [체이서가](../Page/토요타_체이서.md "wikilink") 있었다.
+
+## 1세대(T60/70)
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Toyota_Corona_Mark_II_RT72_\(15439795854\).jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Toyota_Corona_Mark_II_RT72_\(15100159358\).jpg "wikilink")
+
+[1968년](https://ko.wikipedia.org/wiki/1968년 "wikilink") [9월 21일에](https://ko.wikipedia.org/wiki/9월_21일 "wikilink") [코로나의](https://ko.wikipedia.org/wiki/토요타_코로나 "wikilink") 고급 차종으로 출시되었다. 출시 직전에 준중형인 [코로나와](https://ko.wikipedia.org/wiki/토요타_코로나 "wikilink") 준대형인 [크라운](https://ko.wikipedia.org/wiki/토요타_크라운 "wikilink") 사이에 위치하면서 [코로나를](https://ko.wikipedia.org/wiki/토요타_코로나 "wikilink") 고급화 시켜 ‘코로나 마크 II’라는 차명이 붙였다. 코드네임의 경우 세단은 T60, 2도어 쿠페 차량은 T70이다. 엔진은 수냉직렬 4기통 SOHC의 1,600cc짜리 7R형, 및 1,900cc짜리 8R형이 각각 장착되었다.
+
+[1969년 9월에는](https://ko.wikipedia.org/wiki/1969년_9월 "wikilink") 고성능 사양인 GS가 추가됐는데, 엔진은 8R·1,900cc를 기반으로 DOHC화한 10R형(나중에 8R-G로 개명)이 장착됐으며, 최고 출력은 140마력, 최고 속도는 200km/h이다.
+
+[1970년 2월에](https://ko.wikipedia.org/wiki/1970년_2월 "wikilink") 페이스 리프트를 거치면서 그릴의 크기가 바뀌었고, 이후 1,600cc 7R 엔진이 1,700cc 6R 엔진으로 교체되었다. [1971년 2월에](https://ko.wikipedia.org/wiki/1971년_2월 "wikilink") 다시 한번 페이스 리프트를 거치면서 [세단](https://ko.wikipedia.org/wiki/세단 "wikilink")과 [쿠페](https://ko.wikipedia.org/wiki/쿠페 "wikilink")의 후면 번호판을 트렁크에서 뒷범퍼로 옮겼다. 이후 1,500cc 2R 엔진이 1,600cc 12R 엔진으로 교체되었다.
+
+[1972년 1월에](https://ko.wikipedia.org/wiki/1972년_1월 "wikilink") [세단](https://ko.wikipedia.org/wiki/세단 "wikilink")과 [쿠페](https://ko.wikipedia.org/wiki/쿠페 "wikilink"), [스테이션 왜건은](https://ko.wikipedia.org/wiki/스테이션_왜건 "wikilink") 2세대로 대체됐으나, [픽업 트럭은](../Page/픽업_트럭.md "wikilink") 풀 모델 체인지를 감행하지 않고 [1974년 8월까지](https://ko.wikipedia.org/wiki/1974년_8월 "wikilink") 생산되었다.
+
+북미 수출 모델은 다른 지역과 달리 R 시리즈 모터를 사용하였으며, 센터 콘솔, 스페어 타이어 등이 적용되었다.
+
+[남아프리카 공화국](https://ko.wikipedia.org/wiki/남아프리카_공화국 "wikilink") 사양 한정으로 1,900cc 엔진도 존재했다.
+
+1968_Toyopet_Corona-Mark_II_01.jpg|토요타 코로나 마크 Ⅱ(세단 전기형) 정측면 Toyopet Corona Mark II Model RT62, 1968.jpg|토요타 코로나 마크 Ⅱ(세단 전기형) 정측면 Toyota-CoronaMarkII1970.JPG|토요타 코로나 마크 Ⅱ(세단 중기형) 정측면 Toyota-CoronaMarkII1970rear.JPG|토요타 코로나 마크 Ⅱ(세단 중기형) 후측면 Toyota-CoronaMarkII1971.JPG|토요타 코로나 마크 Ⅱ(세단 후기형) 정측면 Toyota-CoronaMarkII1971rear.jpg|토요타 코로나 마크 Ⅱ(세단 후기형) 후측면 CORONA_MARK2_1ST_VAN.JPG|토요타 코로나 마크 Ⅱ(왜건 전기형) 정측면 Toyota_Corona_Mark_II_Ute_rear_%26_side.jpg|토요타 코로나 마크 Ⅱ(픽업) 후측면
+
+{{-}}
+
+## 2세대(X10/20)
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Mark2GSS.jpg "wikilink")
+
+[1972년 1월에](https://ko.wikipedia.org/wiki/1972년_1월 "wikilink") 출시되었다. 1세대에서 사용하던 T 플랫폼 대신 2세대부터는 X 플랫폼을 활용하였다. 또한 1세대의 차명이었던 [코로나](https://ko.wikipedia.org/wiki/토요타_코로나 "wikilink") 마크 II는 버리고 단순히 마크 II로 개명되었으나, 카탈로그에는 여전히 코로나 마크 II라고 불렸다. 기존의 [픽업 트럭은](../Page/픽업_트럭.md "wikilink") 없어져서 X10이라는 코드네임을 가진 [세단](https://ko.wikipedia.org/wiki/세단 "wikilink")과 [스테이션 왜건](https://ko.wikipedia.org/wiki/스테이션_왜건 "wikilink"), X20이라는 코드네임을 가진 [쿠페](https://ko.wikipedia.org/wiki/쿠페 "wikilink") 모델만 남았다. 대신에 [픽업 트럭의](../Page/픽업_트럭.md "wikilink") 자리는 [하이럭스가](https://ko.wikipedia.org/wiki/토요타_하이럭스 "wikilink") 채웠다.
+
+엔진의 경우 1,707cc 6R I4, 1,808cc 16R I4, 1,968cc 18R I4, 1,968cc 18R-G DOHC I4, 1,988cc M I6가 각각 장착되었고, 수출 시장에서는 2,253cc 2M I6, 2,563cc 4M I6 엔진이 각각 장착되었다. 물론 수출 시장에서는 [닛산 블루버드](https://ko.wikipedia.org/wiki/닛산_블루버드 "wikilink")(닷선 610)나 일본 내수 시장의 [닛산 로렐](../Page/닛산_로렐.md "wikilink") 등과 경쟁하기 위해 [크라운의](https://ko.wikipedia.org/wiki/토요타_크라운 "wikilink") 엔진을 사용하기도 했다.
+
+같은 해 [5월](https://ko.wikipedia.org/wiki/5월 "wikilink")에는 L 트림에 125마력을 가진 트윈 캡 사양과 전자제어 연료 분사를 갖춘 2000GSL-EFI가 추가되었다.
+
+[1973년 8월에](https://ko.wikipedia.org/wiki/1973년_8월 "wikilink") 페이스 리프트를 거쳤으며, L 트림에도 EFI 엔진이 탑재된 LG 트림이 추가되었고, 기존의 L 트림의 트윈캡 사양은 LX로 개명되었다. 또한 6기통 L 트림의 염가형인 LA와 [스테이션 왜건에](https://ko.wikipedia.org/wiki/스테이션_왜건 "wikilink") 한정하여 5단 [수동변속기](https://ko.wikipedia.org/wiki/수동변속기 "wikilink")를 갖춘 L 트림이 추가되었다. 1,700cc 엔진은 1,800cc의 16R형으로 교체되었다.
+
+[1974년 8월에](https://ko.wikipedia.org/wiki/1974년_8월 "wikilink") 다시 한번 페이스 리프트를 감행하였고, [12월](https://ko.wikipedia.org/wiki/12월 "wikilink")에는 1800cc 모델에 [세단](https://ko.wikipedia.org/wiki/세단 "wikilink") 한정으로 STD 트림, [세단](https://ko.wikipedia.org/wiki/세단 "wikilink")과 [쿠페](https://ko.wikipedia.org/wiki/쿠페 "wikilink") 한정으로 GL 트림이 추가되었다.
+
+북미 사양 한정으로 스테레오 카세트 플레이어, 파워 스티어링, 에어컨, 3단 자동 변속기가 옵션으로 제공되었다.
+
+Toyota_markII.jpg|토요타 코로나 마크 II(세단 2000L 중기형) 정측면 Corona_Mark_II_Wagon_front.jpg|토요타 코로나 마크 II(왜건 중기형) 정측면 Toyota_Corona_II_Coupe_second_generation_in_NL.jpg|토요타 코로나 마크 II(쿠페 중기형) 측면 1976_Toyota_Corona_Mark_II.jpg|토요타 코로나 마크 II(세단 후기형) 정측면
+
+{{-}}
+
+## 3세대(X30/40)
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Toyota-CoronaMarkIIGrande.JPG "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:X30MarkIIhardtop.jpg "wikilink") [1976년 12월에](https://ko.wikipedia.org/wiki/1976년_12월 "wikilink") 출시되었다. 유럽풍의 디자인을 채택한 것이 특징이다. 역대 마크 II 중에서 토요펫 브랜드에서 판매된 마지막 모델이었고, 이후 토요펫은 토요타의 딜러망 역할을 수행하게 되었다.
+
+엔진은 TTC-C 기술을 사용하였다. 고급형 트림인 그란데도 선보였으며, 이 트림은 6기통 엔진이 장착되었다.
+
+[1977년 6월에는](https://ko.wikipedia.org/wiki/1977년_6월 "wikilink") 경쟁 차종인 [닛산 로렐](../Page/닛산_로렐.md "wikilink"), [블루버드](https://ko.wikipedia.org/wiki/닛산_블루버드 "wikilink"), [스카이라인을](https://ko.wikipedia.org/wiki/닛산_스카이라인 "wikilink") 견제하기 위해 최고급형 모델인 [체이서도](../Page/토요타_체이서.md "wikilink") 선보였다. 그 해 [10월](https://ko.wikipedia.org/wiki/10월 "wikilink")에 3T-U 엔진을 사용하기 시작됨에 따라 배기가스 기준을 맞췄다.
+
+[1978년 8월에](https://ko.wikipedia.org/wiki/1978년_8월 "wikilink") 부분 변경을 거쳤고, [9월](https://ko.wikipedia.org/wiki/9월 "wikilink")에는 4기통 2000cc 엔진에 기존의 18R-U형에서 21R-U형으로 바뀌었다.
+
+[1979년 9월에](https://ko.wikipedia.org/wiki/1979년_9월 "wikilink") [크라운에](https://ko.wikipedia.org/wiki/토요타_크라운 "wikilink") 탑재되었던 4기통 2200cc의 L형이 적용된 디젤 엔진이 추가되었다.
+
+[1980년 4월에](https://ko.wikipedia.org/wiki/1980년_4월 "wikilink") 또 다시 부분 변경을 감행하였다.
+
+역대 마크 II 중 최초로 [크레시다라는](https://ko.wikipedia.org/wiki/토요타_크레시다 "wikilink") 수출명으로 팔리기도 했다. {{-}}
+
+## 4세대(X60)
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:X60MarkIIgrande.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:X60MarkIIgranderear.jpg "wikilink") [1980년 10월에](https://ko.wikipedia.org/wiki/1980년_10월 "wikilink") 출시되었다. 2도어 [쿠페](https://ko.wikipedia.org/wiki/쿠페 "wikilink")는 없어졌고, [세단](https://ko.wikipedia.org/wiki/세단 "wikilink"), [스테이션 왜건만](https://ko.wikipedia.org/wiki/스테이션_왜건 "wikilink") 남았었다. 대신에 역대 마크 II 중 최초로 하드톱 세단이 추가되었다. 비록 광고에서는 코로나라는 이름이 사라졌지만, 언론에서는 코로나 마크 II라는 이름으로 불렸음에 따라서 역대 마크 II 중 마지막으로 코로나라는 서브네임을 붙였다.
+
+[1981년 10월에는](https://ko.wikipedia.org/wiki/1981년_10월 "wikilink") 2000cc 직렬 6기통 터보 (M-TEU) 엔진이 탑재된 사양이 추가되었다.
+
+[1982년 8월에는](https://ko.wikipedia.org/wiki/1982년_8월 "wikilink") 부분 변경을 통해 외형을 다듬었고, 1G-GEU형 160마력 2000cc 트윈 캠 24 엔진을 장착한 사양인 그랜드 트윈 캠 24가 추가되었다. 그리고 몇몇 사양을 정리하면서 5M-EU형 엔진이 장착된 2800 그란데는 단종되었고, 2000cc 6기통 엔진 사양에 4륜 독립 현가 방식으로 통일되었다. 이에 따라 18R-GEU형 엔진을 장착한 GT 트림도 단종되었고, 1800cc 엔진은 13T-U형에서 1S-U형으로 변경되어 변속기도 4단 수동, 3단 자동이 각각 5단 수동, 4단 자동으로 교체되었다. 또한 2L-TE형 자동변속기 사양 한정으로 2400cc 디젤 터보 엔진도 추가되었다.
+
+[1983년 2월에는](https://ko.wikipedia.org/wiki/1983년_2월 "wikilink") 트윈 캠 24 트림에 달린 4단 자동변속기에 ECT(전자 제어 자동)가 추가되었다.
+
+[코로나처럼](https://ko.wikipedia.org/wiki/토요타_코로나 "wikilink") 상업용 및 택시 차량으로 사용되기도 했으며, [인도네시아](https://ko.wikipedia.org/wiki/인도네시아 "wikilink")에서는 RX60 엔진이 장착되었다.
+
+4세대 역시 [크레시다라는](https://ko.wikipedia.org/wiki/토요타_크레시다 "wikilink") 이름으로 수출되었다.
+
+### 파워트레인
+
+  - 1770cc 13T-J I4(TX67V)
+  - 1832cc 1S-U I4(SX60)
+  - 1968cc 18R-G I4(RX63)
+  - 1972cc 21R(RX60)
+  - 1988cc 1G-EU I6(GX61 / 60G)
+  - 1988cc 1G-GEU DOHC I6(GX61)
+  - 1988cc M-TEU 터보 I6(MX61)
+  - 2759cc 5M-E/5M-GE I6(MX62/63)
+  - 2188cc L 디젤 I4(LX60 / 67V)
+  - 2446cc 2L-TE TD I4(LX65)
+
+Toyota_Mark2sedan_1983_Rear.jpg|토요타 마크 II(세단 후기형) 후측면
+
+{{-}}
+
+## 5세대(X70)
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:MARK2_GX71_GRANDE.jpg "wikilink") [1984년 8월에](https://ko.wikipedia.org/wiki/1984년_8월 "wikilink") 세단이 먼저 출시되었으며, [코로나라는](https://ko.wikipedia.org/wiki/토요타_코로나 "wikilink") 서브네임을 버리고 차명은 단순히 마크 II가 되었다. 경쟁 차종이었던 [닛산 로렐과](../Page/닛산_로렐.md "wikilink") [레오파드처럼](https://ko.wikipedia.org/wiki/닛산_레오파드 "wikilink") C 필러 형태로 되어있다. 같은 해 [11월](https://ko.wikipedia.org/wiki/11월 "wikilink")에는 [스테이션 왜건도](https://ko.wikipedia.org/wiki/스테이션_왜건 "wikilink") 풀 모델 체인지를 감행함과 동시에 밴도 추가되었다. 물론 2.0L의 레이저 1G-II 엔진만 장착되었다.
+
+[1985년 10월에](https://ko.wikipedia.org/wiki/1985년_10월 "wikilink") [체이서](../Page/토요타_체이서.md "wikilink") [크레스타와](https://ko.wikipedia.org/wiki/토요타_크레스타 "wikilink") 함께 1G-GTEU형 엔진을 탑재한 GT 트윈터보 사양이 추가되었는데, [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")산 [자동차](https://ko.wikipedia.org/wiki/자동차 "wikilink") 중 최초로 트윈 캠 트윈 터보 엔진이 달렸다. 이 사양을 추가하면서 M-TEU형 엔진을 탑재했던 그랜드 터보는 단종되었다. 변속기는 전자 제어 기능을 갖춘 4단 자동(ECT-S)과 5단 수동이 제공되었다. 단, 세단은 GT 트윈터보가 추가되지 않았다. 동시에 사소한 변화가 이루어져 상급 모델에 전동 접이식 사이드 미러가 기본적으로 장착되었고, LG 하급 트림에 전면 강화 유리가 채용되었다.
+
+[1986년 8월에는](https://ko.wikipedia.org/wiki/1986년_8월 "wikilink") 마이너 체인지를 감행하면서 내·외장을 다듬었다. 또한 1.8L LPG 엔진이 2.0L로 교체되었다.
+
+[1988년 8월에는](https://ko.wikipedia.org/wiki/1988년_8월 "wikilink") 4도어 하드톱과 [세단](https://ko.wikipedia.org/wiki/세단 "wikilink")이 풀 모델 체인지를 통해 X80 계열로 넘어가 단종됨에 따라 [스테이션 왜건](https://ko.wikipedia.org/wiki/스테이션_왜건 "wikilink"), 밴 모델만 남았었다. 이와 동시에 [스테이션 왜건과](https://ko.wikipedia.org/wiki/스테이션_왜건 "wikilink") 밴이 마이너 체인지를 통해 엔진은 1G-FE형으로 교체되었고, 내부 색상을 바꿨다. 후드, 프론트 펜더와 범퍼에 GX71 [크레스타와](https://ko.wikipedia.org/wiki/토요타_크레스타 "wikilink") 같은 모양으로 교체되었다.
+
+[1990년 9월에는](https://ko.wikipedia.org/wiki/1990년_9월 "wikilink") 상급 트림에 LG 그랜드 에디션이 추가되었다. [1993년 2월에는](https://ko.wikipedia.org/wiki/1993년_2월 "wikilink") 일부 개량을 통해 [스테이션 왜건은](https://ko.wikipedia.org/wiki/스테이션_왜건 "wikilink") 루프레일, 머드가드가 장착되었고, 밴 모델에 탑재된 엔진은 자동차 NOx법 규정을 이유로 2Y-J형 1.8L에서 3Y-E형 4기통 2.0L로 교체되었다. 또한 테일 게이트에 [토요타](https://ko.wikipedia.org/wiki/토요타_자동차 "wikilink") 마크가 장착됐다.
+
+[1996년 8월에는](https://ko.wikipedia.org/wiki/1996년_8월 "wikilink") X90 계열 마크 II 세단의 일부 개량에 따라 [스테이션 왜건과](https://ko.wikipedia.org/wiki/스테이션_왜건 "wikilink") 밴 모델에 운전석 에어백이 기본으로 장착되었다.
+
+[1997년 4월에](https://ko.wikipedia.org/wiki/1997년_4월 "wikilink") [스테이션 왜건은](https://ko.wikipedia.org/wiki/스테이션_왜건 "wikilink") 후속 차종인 [마크 II 콰리스로](https://ko.wikipedia.org/wiki/토요타_마크_II_콰리스 "wikilink") 대체되었고, 밴 모델은 [칼디나 밴으로](https://ko.wikipedia.org/wiki/토요타_칼디나 "wikilink") 통합됨에 따라 최종적으로 단종되었다.
+
+5세대 역시 [크레시다라는](https://ko.wikipedia.org/wiki/토요타_크레시다 "wikilink") 이름으로 수출되었다.
+
+X70_Toyota_Mark2.jpg|토요타 마크 II(하드톱 세단 후기형) 정측면 Toyota_Mark2wagon_1993.jpg|토요타 마크 II(왜건 후기형) 정측면 Toyota_Mark_II_70_Van_002.JPG|토요타 마크 II(밴 후기형) 정측면 Toyota_Mark_II_Van_001.JPG|토요타 마크 II(밴 후기형) 후측면
+
+{{-}}
+
+## 6세대(X80)
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Toyota_markii_gx81_grandetwincam24_1_f.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Toyota_markii_gx81_grandetwincam24_1_r.jpg "wikilink") [1988년 8월에](https://ko.wikipedia.org/wiki/1988년_8월 "wikilink") 출시되었으며, 이전보다 살짝 유연한 디자인이 적용되었다. [세단](https://ko.wikipedia.org/wiki/세단 "wikilink")과 4도어 하드탑만 선보였고, [스테이션 왜건과](https://ko.wikipedia.org/wiki/스테이션_왜건 "wikilink") 밴은 X70계열로 계속 생산되고 있었기에 출시되지 않았다. 가솔린 엔진 탑재 사양이 모두 [DOHC](../Page/DOHC.md "wikilink")로 구성되었고, 트윈 캠에 [슈퍼차저](https://ko.wikipedia.org/wiki/슈퍼차저 "wikilink")가 탑재되었다. 일부 사양은 옵션으로 운전석 에어백 장착 여부를 선택할 수 있었다.
+
+[1989년 8월에는](https://ko.wikipedia.org/wiki/1989년_8월 "wikilink") 3.0L 7M-GE 엔진을 장착하고, 트랙션 컨트롤과 ABS가 적용된 3.0 그란데 G 트림이 추가되었다.
+
+[1990년 8월에는](https://ko.wikipedia.org/wiki/1990년_8월 "wikilink") 마이너 체인지를 감행하면서 1G-GZE 엔진을 대체하는 1JZ-GE와 1JZ-GTE 엔진을 각각 장착한 2.5 그란데, 2.5 그란데 G, 2.5GT 트윈 터보 트림이 추가되었다. GT 트림은 자동변속기가 적용되었고, 6기통 사양은 모두 독립 리어 서스펜션이 적용되었다.
+
+[1991년 5월에는](https://ko.wikipedia.org/wiki/1991년_5월 "wikilink") [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") 내 누계 판매 신차 등록 대수 300만대를 기념하여 하드톱에 특별 사양인 2.5 그란데 리미티드와 2.0 그란데 리미티드가 추가되었다.
+
+세단은 판매량이 제법 많았으나, 4도어 하드톱은 경쟁 차종이었던 [로렐에](../Page/닛산_로렐.md "wikilink") 밀려 판매 부진을 겪다가 [1992년 10월에](https://ko.wikipedia.org/wiki/1992년_10월 "wikilink") X90 계열로 대체되면서 단종되었다. 이 때 세단은 일부를 개량하면서 몇몇 트림을 삭제한 채로 병행 판매되었다. 트렁크에 달린 중앙의 엠블럼을 새로운 CI로 바뀌었다.
+
+[1995년 12월에](https://ko.wikipedia.org/wiki/1995년_12월 "wikilink") 세단 역시 [택시](https://ko.wikipedia.org/wiki/택시 "wikilink") 및 교습 차량을 위주로 한 [컴포트 및 크라운 컴포트로](https://ko.wikipedia.org/wiki/토요타_컴포트 "wikilink") 대체되어 단종되었다.
+
+역대 마크 II 중 마지막으로 [크레시다라는](https://ko.wikipedia.org/wiki/토요타_크레시다 "wikilink") 이름으로 수출되었다.
+
+X80_Toyota_Mark2_1.JPG|토요타 마크 II(세단 후기형) 정측면 X80_Toyota_Mark2_2.JPG|토요타 마크 II(세단 후기형) 후측면 Toyota_markii_jzx81_2.5grande_1_f.jpg|토요타 마크 II(하드톱 2.5 그란데 후기형) 정측면 Toyota_markii_jzx81_2.5grande_1_r.jpg|토요타 마크 II(하드톱 2.5 그란데 후기형) 후측면 Toyota_Mark2sedan_1988_Taxi.jpg|토요타 마크 II(세단 후기형) 택시 정측면
+
+{{-}}
+
+## 7세대(X90)
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Toyota_markii_gx90_grande_1_f.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Toyota_markii_gx90_grande_1_r.jpg "wikilink") [1992년 10월에](https://ko.wikipedia.org/wiki/1992년_10월 "wikilink") 출시되었다. 전·후방 범퍼와 테일램프의 변화를 줬고, 차량 분류 기준에서 더 이상 소형차로 분류되지 않았다. 또한 하드탑 세단만 선보였으며, 세단은 X80계열로 계속 생산되고 있었기에 출시되지 않았다. 편의 사양으로 자동식 에어컨과, 가짜 목재 소재로 만든 대시보드 등이 적용되었다. 탑재 엔진은 가솔린 차량의 경우 3.0L 2JZ-GE, 2.5L 1JZ-GE (GTE) 2.0L 1G-FE, 1.8L 4S-FE로 구성되었고, 디젤 엔진은 2.4L 2L-TE만 존재했다. 기본 트림인 GL은 4기통 엔진 중에서 선택할 수 있었다. 투어러 S 사양의 경우,1JZ-GE 엔진, 4단 자동변속기가 적용되었으며, 이 사양에 없는 기능 일부는 그란데나 그란데 G 트림에서 제공되었다. 투어러 V 사양의 경우에는 280마력(210kW) 2.5L 1JZ-GTE 6기통 엔진이 장착되었고, 트랙션 컨트롤, ABS, 5단 수동변속기가 옵션으로 적용되었으며, 튜너와 매니아들 사이에서 인기가 많았다.
+
+[1993년 10월에](https://ko.wikipedia.org/wiki/1993년_10월 "wikilink") [4륜구동](https://ko.wikipedia.org/wiki/4륜구동 "wikilink") 사양인 그랜드 four와 그란데 G four가 추가되면서 역대 마크 II 중 최초로 [4륜구동](https://ko.wikipedia.org/wiki/4륜구동 "wikilink")도 선보였다. 2.5L 1JZ-GE형 엔진이 장착되었고, 일부 개량이 실시되었다.
+
+[1994년 9월에](https://ko.wikipedia.org/wiki/1994년_9월 "wikilink") 마이너 체인지를 통해 앞범퍼 하단의 형상이 변경되면서 후미등 중앙에 검정색 가로줄이 들어가는 등 내·외장을 변화시켰다.
+
+[1995년 9월에](https://ko.wikipedia.org/wiki/1995년_9월 "wikilink") 운전석 에어백을 전 차종에 기본적으로 적용되었고, 전기 멀티 비전을 멀티 AV 스테이션으로 교체되었다.
+
+1994_Toyota_Mark_II_01.jpg|토요타 마크 II(그란데 후기형) 정측면 Toyota_Mark_II_rear.jpg|토요타 마크 II(그란데 후기형) 후측면 Toyota_markii_jzx90_tourers_1_f.jpg|토요타 마크 II(투어러 S 후기형) 정측면
+
+{{-}}
+
+## 8세대(X100)
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:1996-1998_Toyota_Mark_II.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:1996-1998_Toyota_Mark_II_rear.jpg "wikilink") [1996년 9월에](https://ko.wikipedia.org/wiki/1996년_9월 "wikilink") 출시되었는데, [버블 붕괴에](https://ko.wikipedia.org/wiki/버블_붕괴 "wikilink") 따른 어려운 경제 정세가 지속되던 시기에서 풀 모델 체인지를 감행하였기 때문에 플로어 패널은 X90계의 플로어 패널을 유용하여 비용 절감을 도모했다. 한편으로는 안정성 향상에 힘을 넣기 위해 충돌 안전 대책으로 [토요타](https://ko.wikipedia.org/wiki/토요타_자동차 "wikilink") 독자 규격의 GOA와 운전석 및 조수석의 SRS 에어백 시스템, ABS를 전 차종에 표준으로 장비화했다. 디자인의 경우, 둥근 느낌의 종래의 디자인을 계승하면서 큰 인기를 얻었던 X70계와 X80계를 연상하는 직선의 디테일을 추가했다.
+
+엔진 라인업은 다음과 같다.
+
+  - 2JZ-GE형 직렬 6기통 3,000cc
+  - 1JZ-GE형 직렬 6기통 2,500cc
+  - 1G-FE형 직렬 6기통 터보 2,000cc
+  - 2L-TE형 직렬 4기통 터보 2,400cc(염가형)
+  - 1JZ-GTE형 직렬 6기통 터보 2,500cc(투어러)
+
+4S-FE형 1,800cc 디젤 엔진이 장착된 모델은 단종되었다.
+
+[1998년 8월에](https://ko.wikipedia.org/wiki/1998년_8월 "wikilink") 마이너 체인지를 통해 프론트 그릴과 리어 램프 등의 디자인을 변화시키면서 표준으로 장비화한 알루미늄 휠의 디자인을 [체이서](../Page/토요타_체이서.md "wikilink"), [크레스타와](https://ko.wikipedia.org/wiki/토요타_크레스타 "wikilink") 공유했다. 또한 조수석 벨트 경고등이 추가되었다. 내부의 경우 슈퍼 라이브 사운드 시스템의 스피커가 7개에서 6개로 줄어들었고, 동시에 출시 30주년을 기념하는 특별 사양인 트란토가 추가되었다. 참고로 트란토는 [프랑스어](https://ko.wikipedia.org/wiki/프랑스어 "wikilink")로 [30](https://ko.wikipedia.org/wiki/30 "wikilink")을 의미한다. 단종 직전에는 2L-TE 엔진이 장착된 모델이 단종되었으며, 전 모델에 BEAMS VVT-i 기구가 표준으로 장착되었다.
+
+1998_Toyota_Mark_II_02.jpg|토요타 마크 II(그란데 후기형) 정측면 JZX100_Toyota_Mark_II.jpg|토요타 마크 II(투어러 V 후기형) 정측면
+
+{{-}}
+
+## 9세대(X110)
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Toyota_Mark2_2000.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:2000_Toyota_Mark_II_01.jpg "wikilink") [2000년 10월에](https://ko.wikipedia.org/wiki/2000년_10월 "wikilink") 출시되었다. 하드탑 세단이 일반적인 세단으로 환원되었으며, 역대 마크 II 중 차체 크기가 가장 크다. 전조등이 두꺼워졌고, 역대 마크 II 중 유일하게 후미등이 가로 형식이 아닌 삼각 형태로 되어있다. 엔진의 경우 2.5L 직분사 방식의 1JZ-FSE 외에도 1G-FE, 1JZ-GE 및 1JZ-GTE로 구성되었었으며, 모두 VVT-i 방식이 적용되었다. 투어러가 사라지고 대신 독창적으로 IR 모델이 선보여 이를 대체하였다. 실내가 넓어진 것이 특징이지만, 어색한 분위기를 만든 탓에 판매가 부진하였다.
+
+[2002년 1월에는](https://ko.wikipedia.org/wiki/2002년_1월 "wikilink") [스테이션 왜건이](https://ko.wikipedia.org/wiki/스테이션_왜건 "wikilink") X110계 마크 II를 기반으로 해서 [마크 II 블리트라는](https://ko.wikipedia.org/wiki/토요타_마크_II_블리트 "wikilink") 차명으로 부활하였고([마크 II 콰리스는](https://ko.wikipedia.org/wiki/토요타_마크_II_콰리스 "wikilink") [캠리를](https://ko.wikipedia.org/wiki/토요타_캠리 "wikilink") 기반으로 한 별개 차종이라 제외), 그 해 [10월](https://ko.wikipedia.org/wiki/10월 "wikilink")에는 페이스 리프트를 거쳐 전조등, 범퍼, 후미등이 바뀌었으며 크롬 형태로 마감질을 하였다.
+
+[2004년 11월에](https://ko.wikipedia.org/wiki/2004년_11월 "wikilink") 후속 차종인 [마크 X가](../Page/토요타_마크_X.md "wikilink") 출시되어 단종되었다. 이로써 마크 II의 역사는 출시된지 36년만에 막을 내렸다.
+
+2002-2004_Toyota_Mark_II.jpg|토요타 마크 II(후기형) 정측면
+
+{{-}}
+
+## 외부 링크
+
+  - [토요타 일본 홈페이지](http://toyota.jp)
+
+[마크 Ⅱ](https://ko.wikipedia.org/wiki/분류:토요타_자동차의_차종 "wikilink") [마크 Ⅱ](https://ko.wikipedia.org/wiki/분류:1960년대_자동차 "wikilink") [마크 Ⅱ](https://ko.wikipedia.org/wiki/분류:1970년대_자동차 "wikilink") [마크 Ⅱ](https://ko.wikipedia.org/wiki/분류:1980년대_자동차 "wikilink") [마크 Ⅱ](https://ko.wikipedia.org/wiki/분류:1990년대_자동차 "wikilink") [마크 Ⅱ](https://ko.wikipedia.org/wiki/분류:2000년대_자동차 "wikilink") [마크 Ⅱ](https://ko.wikipedia.org/wiki/분류:중형_승용차 "wikilink") [마크 Ⅱ](https://ko.wikipedia.org/wiki/분류:세단 "wikilink") [마크 Ⅱ](https://ko.wikipedia.org/wiki/분류:스테이션_왜건 "wikilink") [마크 Ⅱ](https://ko.wikipedia.org/wiki/분류:쿠페 "wikilink") [마크 Ⅱ](https://ko.wikipedia.org/wiki/분류:픽업 "wikilink") [마크 Ⅱ](https://ko.wikipedia.org/wiki/분류:후륜구동 "wikilink") [마크 Ⅱ](https://ko.wikipedia.org/wiki/분류:4륜구동 "wikilink") [마크 Ⅱ](https://ko.wikipedia.org/wiki/분류:1968년_도입된_자동차 "wikilink")

@@ -1,0 +1,20 @@
+> This article is converted from Wikipedia: [Q ](https://ko.wikipedia.org/wiki/Q_).
+
+
+**Q 러닝**(Q-learning)은 모델 없이 학습하는 [강화 학습](https://ko.wikipedia.org/wiki/강화_학습 "wikilink") 기법 가운데 하나이다. Q 러닝은 주어진 유한 [마르코프 결정 과정의](https://ko.wikipedia.org/wiki/마르코프_결정_과정 "wikilink") 최적의 정책을 찾기 위해 사용할 수 있다. Q 러닝은 주어진 상태에서 주어진 행동을 수행하는 것이 가져다 줄 효용의 기대값을 예측하는 함수인 Q 함수를 학습함으로써 최적의 정책을 학습한다. 정책이란 주어진 상태에서 어떤 행동을 수행할지 나타내는 규칙이다. Q 함수를 학습하고나면 각 상태에서 최고의 Q를 주는 행동을 수행함으로써 최적의 정책을 유도할 수 있다. Q 러닝의 장점 중 하나는 주어진 환경의 모델 없이도 수행하는 행동의 기대값을 비교할 수 있다는 점이다. 뿐만 아니라 Q 러닝은 전이가 확률적으로 일어나거나 보상이 확률적으로 주어지는 환경에서도 별다른 변형 없이 적용될 수 있다. Q 러닝은 임의의 유한 MDP에 대해서 현재 상태에서 최대의 보상을 획득하는 최적의 정책을 학습할 수 있다는 사실이 증명되어 있다.
+
+## 알고리즘
+
+Q 러닝이 해결하고자 하는 문제는 하나의 에이전트(의사결정자), 상태의 유한 집합 \(S\), 그리고 각 상태 \(s \in S\)에서 취할 수 있는 행동의 집합 \(A_s \subseteq A\)으로 구성된다. 어떤 상태 \(s\)에서 어떤 행동 \(a \in A_s\)를 취하면 에이전트는 이에 따른 보상을 얻는다. 에이전트의 목표는 보상의 총합을 최대화하는 것이다. 이를 위해 에이전트는 각 상태에서 어떤 행동을 취하는 것이 최적인지 학습해야 한다. 각 상태에서 최적의 행동이란, 그 상태에서 장기적으로 가장 큰 보상을 얻을 수 있도록 하는 행동을 의미한다. 장기적인 보상을 계산할 때에는 보통 할인된 보상의 총계(sum of discounted rewards)의 [기댓값](https://ko.wikipedia.org/wiki/기댓값 "wikilink")을 계산하며, 여기서 지금으로부터 \(\Delta t\) 시간 후에 얻는 보상 \(r\)은 \(\gamma^{\Delta t}\) 만큼 할인되어 \(r \cdot \gamma^{\Delta t}\)로 계산된다. 이 때 \(\gamma\)는 0과 1 사이의 값을 가지는 할인 인자로, 현재 얻는 보상이 미래에 얻는 보상보다 얼마나 더 중요한지를 나타내는 값이다.
+
+알고리즘은 각 상태-행동 쌍에 대하여 다음과 같은 Q 함수를 가진다.
+
+\[Q: S \times A \to \mathbb{R}\]
+
+알고리즘이 시작되기 전에 Q 함수는 고정된 임의의 값을 가진다. 각 시간 \(t\)에 에이전트는 어떠한 상태 \(s_t\)에서 행동 \(a_t\)를 취하고 새로운 상태 \(s_{t+1}\)로 전이한다. 이 때 보상 \(r_t\)가 얻어지며, Q 함수가 갱신된다. 알고리즘의 핵심은 다음과 같이 이전의 값과 새 정보의 가중합(weighted sum)을 이용하는 간단한 [값 반복법이다](https://ko.wikipedia.org/wiki/마르코프_결정_과정 "wikilink").
+
+\[Q(s_{t},a_{t}) \leftarrow (1-\alpha) \cdot \underbrace{Q(s_{t},a_{t})}_{\rm old~value} + \underbrace{\alpha}_{\rm learning~rate} \cdot \left( \overbrace{\underbrace{r_{t}}_{\rm reward} + \underbrace{\gamma}_{\rm discount~factor} \cdot \underbrace{\max_{a}Q(s_{t+1}, a)}_{\rm estimate~of~optimal~future~value}}^{\rm learned~value} \right)\]
+
+\(\alpha\)는 학습 속도 인자로, 0보다 크고 1보다 작거나 같은 값을 가진다.
+
+도달한 상태 \(s_{t+1}\)이 종결 상태일 경우 알고리즘의 에피소드 하나가 끝난다. 그러나, Q 러닝은 작업이 에피소드로 구성되지 않더라도 학습이 가능하다. 할인 인자 \(\gamma\)가 1보다 작을 경우 무한히 반복하더라도 할인된 총계는 유한하기 때문이다. [분류:기계 학습 알고리즘](https://ko.wikipedia.org/wiki/분류:기계_학습_알고리즘 "wikilink")

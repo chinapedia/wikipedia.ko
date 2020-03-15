@@ -1,0 +1,263 @@
+> This article is converted from Wikipedia: [UEFA U-19    ](https://ko.wikipedia.org/wiki/UEFA_U-19____).
+
+
+**UEFA U-19 여자 축구 선수권 대회**(UEFA Women's Under-19 Championship)는 [유럽 축구 연맹](https://ko.wikipedia.org/wiki/유럽_축구_연맹 "wikilink")(UEFA)이 주관하는 19세 이하 [여자 축구](https://ko.wikipedia.org/wiki/여자_축구 "wikilink") 국가대표팀 간의 국가대항전이다. 홀수 해에 열리는 대회는 [FIFA U-20 여자 월드컵의](https://ko.wikipedia.org/wiki/FIFA_U-20_여자_월드컵 "wikilink") 유럽 지역 예선을 겸한다.
+
+## 역대 대회
+
+<table>
+<colgroup>
+<col style="width: 80%" />
+<col style="width: 15%" />
+<col style="width: 15%" />
+<col style="width: 10%" />
+<col style="width: 15%" />
+<col style="width: -35%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>연도</p></th>
+<th><p>개최국</p></th>
+<th><p>우승</p></th>
+<th><p>득점</p></th>
+<th><p>준우승</p></th>
+<th><p>준결승전 패배 팀</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1998년<br />
+<em><a href="https://ko.wikipedia.org/wiki/1998년_UEFA_U-18_여자_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/홈_앤_어웨이" title="wikilink">홈 앤 어웨이</a></p></td>
+<td><p><strong></strong></p></td>
+<td><p><strong>2 : 0 / 2 : 3</strong></p></td>
+<td></td>
+<td><p>, </p></td>
+</tr>
+<tr class="even">
+<td><p>연도</p></td>
+<td><p>개최국</p></td>
+<td><p>우승</p></td>
+<td><p>득점</p></td>
+<td><p>준우승</p></td>
+<td><p>3위</p></td>
+</tr>
+<tr class="odd">
+<td><p>1999년<br />
+<em><a href="https://ko.wikipedia.org/wiki/1999년_UEFA_U-18_여자_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<td></td>
+<td><p><strong></strong></p></td>
+<td><p><em>리그전</em></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2000년<br />
+<em><a href="https://ko.wikipedia.org/wiki/2000년_UEFA_U-18_여자_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<td></td>
+<td><p><strong></strong></p></td>
+<td><p><strong>4 : 2</strong></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2001년<br />
+<em><a href="https://ko.wikipedia.org/wiki/2001년_UEFA_U-18_여자_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<td></td>
+<td><p><strong></strong></p></td>
+<td><p><strong>3 : 2</strong></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>연도</p></td>
+<td><p>개최국</p></td>
+<td><p>우승</p></td>
+<td><p>득점</p></td>
+<td><p>준우승</p></td>
+<td><p>준결승전 패배 팀</p></td>
+</tr>
+<tr class="odd">
+<td><p>2002년<br />
+<em><a href="https://ko.wikipedia.org/wiki/2002년_UEFA_U-19_여자_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<td></td>
+<td><p><strong></strong></p></td>
+<td><p><strong>3 : 1</strong></p></td>
+<td></td>
+<td><p>, </p></td>
+</tr>
+<tr class="even">
+<td><p>2003년<br />
+<em><a href="https://ko.wikipedia.org/wiki/2003년_UEFA_U-19_여자_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<td></td>
+<td><p><strong></strong></p></td>
+<td><p><strong>2 : 0</strong></p></td>
+<td></td>
+<td><p>, </p></td>
+</tr>
+<tr class="odd">
+<td><p>2004년<br />
+<em><a href="https://ko.wikipedia.org/wiki/2004년_UEFA_U-19_여자_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<td></td>
+<td><p><strong></strong></p></td>
+<td><p><strong>2 : 1</strong></p></td>
+<td></td>
+<td><p>, </p></td>
+</tr>
+<tr class="even">
+<td><p>2005년<br />
+<em><a href="https://ko.wikipedia.org/wiki/2005년_UEFA_U-19_여자_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<td></td>
+<td><p><strong></strong></p></td>
+<td><p><strong>2 : 2</strong><br />
+<strong>6 : 5</strong> (<a href="https://ko.wikipedia.org/wiki/승부차기" title="wikilink">승부차기</a>)</p></td>
+<td></td>
+<td><p>, </p></td>
+</tr>
+<tr class="odd">
+<td><p>2006년<br />
+<em><a href="https://ko.wikipedia.org/wiki/2006년_UEFA_U-19_여자_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<td></td>
+<td><p><strong></strong></p></td>
+<td><p><strong>3 : 0</strong></p></td>
+<td></td>
+<td><p>, </p></td>
+</tr>
+<tr class="even">
+<td><p>2007년<br />
+<em><a href="https://ko.wikipedia.org/wiki/2007년_UEFA_U-19_여자_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<td></td>
+<td><p><strong></strong></p></td>
+<td><p><strong>2 : 0</strong> (<a href="https://ko.wikipedia.org/wiki/연장전" title="wikilink">연장</a>)</p></td>
+<td></td>
+<td><p>, </p></td>
+</tr>
+<tr class="odd">
+<td><p>2008년<br />
+<em><a href="https://ko.wikipedia.org/wiki/2008년_UEFA_U-19_여자_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<td></td>
+<td><p><strong></strong></p></td>
+<td><p><strong>1 : 0</strong></p></td>
+<td></td>
+<td><p>, </p></td>
+</tr>
+<tr class="even">
+<td><p>2009년<br />
+<em><a href="https://ko.wikipedia.org/wiki/2009년_UEFA_U-19_여자_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<td></td>
+<td><p><strong></strong></p></td>
+<td><p><strong>2 : 0</strong></p></td>
+<td></td>
+<td><p>, </p></td>
+</tr>
+<tr class="odd">
+<td><p>2010년<br />
+<em><a href="https://ko.wikipedia.org/wiki/2010년_UEFA_U-19_여자_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<td></td>
+<td><p><strong></strong></p></td>
+<td><p><strong>2 : 1</strong></p></td>
+<td></td>
+<td><p>, </p></td>
+</tr>
+<tr class="even">
+<td><p>2011년<br />
+<em><a href="https://ko.wikipedia.org/wiki/2011년_UEFA_U-19_여자_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<td></td>
+<td><p><strong></strong></p></td>
+<td><p><strong>8 : 1</strong></p></td>
+<td></td>
+<td><p>, </p></td>
+</tr>
+<tr class="odd">
+<td><p>2012년<br />
+<em><a href="https://ko.wikipedia.org/wiki/2012년_UEFA_U-19_여자_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<td></td>
+<td><p><strong></strong></p></td>
+<td><p><strong>1 : 0</strong> (<a href="https://ko.wikipedia.org/wiki/연장전" title="wikilink">연장</a>)</p></td>
+<td></td>
+<td><p>, </p></td>
+</tr>
+<tr class="even">
+<td><p>2013년<br />
+<em><a href="../Page/2013년_UEFA_U-19_여자_축구_선수권_대회.md" title="wikilink">자세히</a></em></p></td>
+<td></td>
+<td><p><strong></strong></p></td>
+<td><p><strong>2 : 0</strong> (<a href="https://ko.wikipedia.org/wiki/연장전" title="wikilink">연장</a>)</p></td>
+<td></td>
+<td><p>, </p></td>
+</tr>
+<tr class="odd">
+<td><p>2014년<br />
+<em><a href="../Page/2014년_UEFA_U-19_여자_축구_선수권_대회.md" title="wikilink">자세히</a></em></p></td>
+<td></td>
+<td><p><strong></strong></p></td>
+<td><p><strong>1 : 0</strong></p></td>
+<td></td>
+<td><p>, </p></td>
+</tr>
+<tr class="even">
+<td><p>2015년<br />
+<em><a href="https://ko.wikipedia.org/wiki/2015년_UEFA_U-19_여자_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<td></td>
+<td><p><strong></strong></p></td>
+<td><p><strong>3 : 1</strong></p></td>
+<td></td>
+<td><p>, </p></td>
+</tr>
+<tr class="odd">
+<td><p>2016년<br />
+<em><a href="https://ko.wikipedia.org/wiki/2016년_UEFA_U-19_여자_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<td></td>
+<td><p><strong></strong></p></td>
+<td><p><strong>2 : 1</strong></p></td>
+<td></td>
+<td><p>, </p></td>
+</tr>
+<tr class="even">
+<td><p>2017년<br />
+<em><a href="https://ko.wikipedia.org/wiki/2017년_UEFA_U-19_여자_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<td></td>
+<td><p><strong></strong></p></td>
+<td><p><strong>3 : 2</strong></p></td>
+<td></td>
+<td><p>, </p></td>
+</tr>
+<tr class="odd">
+<td><p>2018년<br />
+<em><a href="https://ko.wikipedia.org/wiki/2018년_UEFA_U-19_여자_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<td></td>
+<td><p><strong></strong></p></td>
+<td><p><strong>1 : 0</strong></p></td>
+<td></td>
+<td><p>, </p></td>
+</tr>
+<tr class="even">
+<td><p>2019년<br />
+<em><a href="https://ko.wikipedia.org/wiki/2019년_UEFA_U-19_여자_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<td></td>
+<td><p><strong></strong></p></td>
+<td><p><strong>2 : 1</strong></p></td>
+<td></td>
+<td><p>, </p></td>
+</tr>
+<tr class="odd">
+<td><p>2020년<br />
+<em><a href="https://ko.wikipedia.org/wiki/2020년_UEFA_U-19_여자_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 같이 보기
+
+  - [UEFA U-19 축구 선수권 대회](../Page/UEFA_U-19_축구_선수권_대회.md "wikilink")
+
+## 외부 링크
+
+  - [UEFA U-19 여자 축구 선수권 대회 공식 홈페이지](http://www.uefa.com/womensunder19/index.html)
+
+[UEFA_U-19_여자_축구_선수권_대회](https://ko.wikipedia.org/wiki/분류:UEFA_U-19_여자_축구_선수권_대회 "wikilink") [분류:국제 여자 축구 대회](https://ko.wikipedia.org/wiki/분류:국제_여자_축구_대회 "wikilink") [분류:19세 이하 축구](https://ko.wikipedia.org/wiki/분류:19세_이하_축구 "wikilink")

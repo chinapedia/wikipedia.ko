@@ -1,0 +1,69 @@
+> This article is converted from Wikipedia: [ Sounds good! \(EP\)](https://ko.wikipedia.org/wiki/_Sounds_good!_\(EP\)).
+
+
+《**한여름의 Sounds good\!**》()은 중국의 걸 그룹 [SNH48](https://ko.wikipedia.org/wiki/SNH48 "wikilink")의 여덟 번째 [미니 음반이다](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink"). [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [5월 8일에는](https://ko.wikipedia.org/wiki/5월_8일 "wikilink") 양장판, [5월 15일에는](https://ko.wikipedia.org/wiki/5월_15일 "wikilink") 표준판이 각각 발매됐다. 노래의 센터 포지션은 장위거이다. 타이틀 곡의 뮤직비디오는 [사이판](https://ko.wikipedia.org/wiki/사이판 "wikilink")에서 촬영됐다.
+
+양장판의 특전은 생사진 1장(24장 중에서 랜덤), 악수회 참가권 2장, 메이킹 DVD, 사진집 1권과 SNH48 2nd 선발 총선거 투표용 시리얼 넘버 카드 3장이다.
+
+표준판의 특전으로는 생사진 1장(108장 중에서 랜덤), 악수회 참가권 1장과 SNH48 2nd 선발 총선거 투표용 시리얼 넘버 카드 1장이 있다. __목차__ {{-}}
+
+## 수록곡
+
+## 선발 멤버
+
+### 한여름의 Sounds good\!
+
+  -
+    (센터: 장위거)
+
+<!-- end list -->
+
+  - 팀SII: 다이멍, 쿵샤오인, 첸베이팅, 쉬천천, 쉬자치, 장위거
+  - 팀NII: 궁스치, 황팅팅, [쥐징이](../Page/쥐징이.md "wikilink"), 루팅, 리이퉁, 완리나, 이자아이, 쩡옌펀, 자오웨
+  - 팀HII: 천이신, 리더우더우, 류중란, 왕루, 왕후이팅, 쉬양위줘, 장신
+  - 팀SII / 팀X: 우저한
+
+### 자기주장
+
+  -
+    (센터: 다이멍)
+
+<!-- end list -->
+
+  - 팀SII: [천관후이](../Page/천관후이.md "wikilink"), 천쓰, 다이멍, 장윈, 쿵샤오인, [리위치](../Page/리위치.md "wikilink"), 모한, 첸베이팅, 추신이, 쑨루이, 쉬천천, 쉬자치, 쉬쯔쉬안, [자오자민](../Page/자오자민.md "wikilink"), 장위거
+  - 팀SII / 팀X: 우저한
+
+### 키스 진행식
+
+  -
+    (센터: 이자아이)
+
+<!-- end list -->
+
+  - 팀NII: 천자잉, 천원옌, 둥옌윈, 펑신둬, 궁스치, 황팅팅, 허샤오위, 쥐징이, 뤄란, 린쓰이, 루팅, 리이퉁, 멍웨, 탕안치, 완리나, 이자아이, 자오웨, 쩡옌펀, 장위신
+
+### 시력 가속도
+
+  -
+    (센터: 천이신, 장신)
+
+<!-- end list -->
+
+  - 팀HII: 천이신, 하오완칭, 리더우더우, 류중란, 린난, 류페이신, 리칭양, 왕바이숴, 왕루, 우옌원, 셰니, 쉬한, 쉬이런, 쉬양위줘, 양후이팅, 장신
+
+### 청순 필로소피
+
+  -
+    (센터: 양윈위)
+
+<!-- end list -->
+
+  - 팀X: 천린, 펑샤오페이, 리징, 리자오, 쑨징이, 사오쉐충, 쑹신란, 쑨신원, 왕자링, 왕수, 왕샤오자, 셰톈이, 양빙이, 옌밍쥔, 양윈위, 장단싼
+
+## 각주
+
+## 외부 링크
+
+  -
+
+[분류:2015년 EP](https://ko.wikipedia.org/wiki/분류:2015년_EP "wikilink") [분류:SNH48의 EP](https://ko.wikipedia.org/wiki/분류:SNH48의_EP "wikilink") [분류:리메이크 음반](https://ko.wikipedia.org/wiki/분류:리메이크_음반 "wikilink")

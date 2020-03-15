@@ -1,0 +1,26 @@
+> This article is converted from Wikipedia: [KBS ](https://ko.wikipedia.org/wiki/KBS_).
+
+
+《**KBS 월드넷**》은 대한민국의 [KBS 1TV에서](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 제작된 교양 프로그램이다.
+
+## 기획의도
+
+  - 전 세계에 진출한 한국인들의 역동적인 삶을 통해 이들의 도전정신과 개척정신을 조명한다.
+  - 해외 진출에 필요한 실질적인 정보를 제공함으로써 세계화 시대를 사는 한국인들의 진취적 의식 고양에 기여한다.
+
+## 주요 내용
+
+  - 해외 각지에서 땀 흘리는 한국인들의 생생한 현장을 찾아 다양한 삶의 모습을 소개.
+  - 해외에 진출하려는 사람들에게 필요한 실속 있고 유익한 정보 제공.
+  - 해외 경험 초보자들의 좌충우돌 정착기, 해외 틈새시장을 공략하는 사업가, 취업 전선에 뛰어든 젊은이, 선진 시스템과 기술을 익히고 있는 한국인까지 각종 해외무대에서 자신의 꿈과 미래를 향해 동분서주하는 한인들을 만나본다.
+
+## 역대 진행자
+
+  - 1대: [이형걸](https://ko.wikipedia.org/wiki/이형걸 "wikilink")
+  - 2대: [김재원](https://ko.wikipedia.org/wiki/김재원_\(아나운서\) "wikilink")
+
+## 외부 링크
+
+  - [KBS 월드넷 홈페이지](http://www.kbs.co.kr/1tv/sisa/worldnet/index.html)
+
+[분류:한국방송공사의 시사교양 프로그램](https://ko.wikipedia.org/wiki/분류:한국방송공사의_시사교양_프로그램 "wikilink")

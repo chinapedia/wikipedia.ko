@@ -1,0 +1,14 @@
+> This article is converted from Wikipedia: [FK ](https://ko.wikipedia.org/wiki/FK_).
+
+
+**FK 슬라비야**(Fudbalski klub Slavija Sarajevo, Фудбалски клуб Славија Сарајево)는 [스릅스카 공화국](https://ko.wikipedia.org/wiki/스릅스카_공화국 "wikilink") [이스토치노사라예보](https://ko.wikipedia.org/wiki/이스토치노사라예보 "wikilink")를 연고로 하는 [보스니아 헤르체고비나의](https://ko.wikipedia.org/wiki/보스니아_헤르체고비나 "wikilink") [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 현재는 [스릅스카 공화국 1부 리그에](https://ko.wikipedia.org/wiki/스릅스카_공화국_1부_리그 "wikilink") 참가하고 있다.
+
+## 성적
+
+  - [유고슬라비아 1부 리그](https://ko.wikipedia.org/wiki/유고슬라비아_1부_리그 "wikilink") 준우승 1회 (1935-36)
+  - [보스니아 헤르체고비나 프리미어리그](https://ko.wikipedia.org/wiki/보스니아_헤르체고비나_프리미어리그 "wikilink") 준우승 1회 (2008-09)
+  - [스릅스카 공화국 1부 리그](https://ko.wikipedia.org/wiki/스릅스카_공화국_1부_리그 "wikilink") 우승 1회 (2003-04)
+  - [보스니아 헤르체고비나컵](https://ko.wikipedia.org/wiki/보스니아_헤르체고비나컵 "wikilink") 우승 1회 (2008-09), 준우승 1회 (2006-07)
+  - [스릅스카 공화국컵](https://ko.wikipedia.org/wiki/스릅스카_공화국컵 "wikilink") 우승 2회 (2005-06, 2007-08)
+
+[분류:보스니아 헤르체고비나의 축구단](https://ko.wikipedia.org/wiki/분류:보스니아_헤르체고비나의_축구단 "wikilink") [분류:1908년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1908년_설립된_축구단 "wikilink")

@@ -1,0 +1,33 @@
+> This article is converted from Wikipedia: [:URL](https://ko.wikipedia.org/wiki/:URL).
+
+
+[월드 와이드 웹의](https://ko.wikipedia.org/wiki/월드_와이드_웹 "wikilink") 모든 페이지와 마찬가지로, 위키미디어 서버가 제공하는 페이지에는 **[URL](https://ko.wikipedia.org/wiki/URL "wikilink")**을 식별할수 있는 URL이 있습니다. 이 주소는 페이지를 볼때 브라우저의 주소 표시줄에 나타나는 주소입니다. 위키백과 편집자는 선택한 URL에 대한 [하이퍼링크](https://ko.wikipedia.org/wiki/하이퍼링크 "wikilink")를 작성하여 위키백과 및 기타 위키미디어 프로젝트 또는 웹의 다른 페이지를 가리키는 페이지를 가리킬수도 있습니다.
+
+## URL에 링크하기
+
+문서를 편집할때, 위키백과 (또는 다른 위키미디어 프로젝트) 내의 다른 문서로의 하이퍼링크는 일반적으로 [위키백과:링크](https://ko.wikipedia.org/wiki/위키백과:링크 "wikilink")에 설명된 `[[...|...]]` 구문을 사용하여 *위키링크* 또는 *인터위키링크*로 만들어집니다. 그러나 외부 웹사이트 또는 특수 제작된 특정 위키미디어 문서 (예: 이전 판 문서)에 링크하려면, 전체 URL을 제공해야합니다. 이것은 *외부 링크 구문*을 사용하여 수행됩니다.
+
+외부 링크 구문에는 다음 3가지 형식이 있습니다:
+
+  - URL이 위키 문법에 대괄호없이 단순히 포함되어 있으면, 작성된 것처럼 나타나고 하이퍼링크가 만들어집니다: `http://meta.wikimedia.org/`는 <http://meta.wikimedia.org/> 을 만듭니다.
+  - URL이 대괄호 안에 있는 경우, 라벨로 일련 번호가 있는 하이퍼링크가 만들어집니다: `[http://meta.wikimedia.org/]`는 \[[http://meta.wikimedia.org/\]을](http://meta.wikimedia.org/%5D을) 제공합니다.
+  - URL을 대괄호로 묶고 공백과 일부 본문을 입력하면, 해당 본문이 하이퍼링크의 라벨로 사용됩니다: `[http://meta.wikimedia.org/ 위키미디어]`는 [위키미디어](https://meta.wikimedia.org/)를 제공합니다.
+
+{{SERVER}}를 사용하여 위키와 동일한 서버의 다른 곳에 링크를 만들고 위키를 단순화할수 있습니다. 예: `[{{SERVER}}/relative/url]`.
+
+외부 링크 아이콘을 숨기려면  사이에 외부 링크를 배치하세요.
+
+### 지원되지 않은 문자로 링크 수정하기
+
+  - URL은 지원되는 [통합 자원 식별자로](https://ko.wikipedia.org/wiki/통합_자원_식별자 "wikilink") 시작해야합니다. <http://> 및 <https://>는 항상 지원됩니다. <gopher://>, <irc://>, <ircs://>, <ftp://>, `뉴스://`, <nntp://>, `worldwind://`, <telnet://>, <svn://>, <git://>, <mms://> 및 `mailto:`는 링크 및 아이콘을 만들지만 브라우저에 등록된 에이전트가 필요합니다.
+  - 해당 문자가 [퍼센트 인코딩되어](https://ko.wikipedia.org/wiki/퍼센트_인코딩 "wikilink") 있지 않으면, 특정 문자가 포함된 URL이 잘못 표시되고 링크됩니다. 예를 들어, 공백은 `%20`으로 대체되어야합니다 (이것은  파서 함수의 PATH 옵션을 사용하여 수행할수 있습니다).
+
+| sp  | "   | '   | ,   | ;   | \<  | \>  | ?   | \[  | \]  | {   | |   | }   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| %20 | %22 | %27 | %2C | %3B | %3C | %3E | %3F | %5B | %5D | %7B | %7C | %7D |
+
+  -
+
+## 더 보기
+
+  - [위키백과:외부 링크 아이콘](https://ko.wikipedia.org/wiki/위키백과:외부_링크_아이콘 "wikilink")

@@ -1,0 +1,38 @@
+> This article is converted from Wikipedia: [ KBS ](https://ko.wikipedia.org/wiki/_KBS_).
+
+
+《**생방송 KBS 저널**》은 [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [11월 3일부터](https://ko.wikipedia.org/wiki/11월_3일 "wikilink") [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [5월 1일까지](https://ko.wikipedia.org/wiki/5월_1일 "wikilink") [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [KBS 2TV에서](https://ko.wikipedia.org/wiki/KBS_2TV "wikilink") 방송되었던 시사프로그램이다.
+
+## 기획 의도
+
+  - 신문 없는 날, 일요일을 활동적으로 시작하는 사람들에게, 한 주간의 중요 시사 ·정보를 다양한 시각으로 활기차게 전달하여 시청자들의 세상 보는 눈을 넓혀준다.
+
+## 프로그램 내용
+
+  - 저널 Hot Issue : 일요판 TV 신문으로 한 주간의 핫 이슈의 현장을 밀착 취재, 이슈의 본질과 그 이면의 이야기를 전달한다.
+  - 저널 기획 : 한국 사회의 새로운 트렌드를 읽는 PD 저널리즘
+  - 김준석의 민심기행 : MC 김준석이 삶의 현장 구석구석을 찾아가 들어보는, '이 시대 보통 사람들의 이야기'
+  - 뉴스 피플 : 이 사람을 만나면 세상이 보인다\! 시사의 중심 인물을 초대, 인물을 통한 시사 읽기를 시도한다.
+  - 주간 뉴스 브리핑 : 시사 평론가 유창선의 한 주간 주요 뉴스 심층 분석\!
+  - NOW, 스포츠 & 연예 : 눈요기, 선정성을 지양하고, 대중문화의 고급화를 선언한다. 연예 칼럼리스트 김홍숙의 예리한 대중문화분석\!
+  - 저널 맛 기행\!\! : "음식도 시사다" '푸드 컨설턴트 도세훈'과 라윤경이 진행하는 색다른 음식 이야기. 음식의 문화·역사 배경 등 재미있는 해설과 함께 맛보는 풍성한 상차림\!\!
+  - 한희경의 날씨 이야기
+
+## 방송 시간
+
+| 방송 채널                                                       | 방송 기간                                                                       | 방송 시간                                                                               |
+| ----------------------------------------------------------- | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| [KBS 2TV](https://ko.wikipedia.org/wiki/KBS_2TV "wikilink") | 2002년 11월 3일 \~ 2004년 10월 31일                                               | 매주 [일요일](https://ko.wikipedia.org/wiki/일요일 "wikilink") 오전 7시 \~ 오전 8시 30분 (1시간 30분) |
+| 2004년 11월 7일 \~ 2005년 5월 1일                                 | 매주 [일요일](https://ko.wikipedia.org/wiki/일요일 "wikilink") 오전 6시 \~ 오전 8시 (2시간) |                                                                                     |
+
+## 역대 진행자
+
+  - 1대: [김준석](../Page/김준석.md "wikilink"), [정은승](https://ko.wikipedia.org/wiki/정은승 "wikilink")
+  - 2대: [김준석](../Page/김준석.md "wikilink"), [오유경](https://ko.wikipedia.org/wiki/오유경 "wikilink")
+  - 3대: [김준석](../Page/김준석.md "wikilink"), [백정원](https://ko.wikipedia.org/wiki/백정원 "wikilink")
+
+## 외부 링크
+
+  - [생방송 KBS 저널 공식 홈페이지](https://web.archive.org/web/20070907101835/http://www.kbs.co.kr/2tv/sisa/kbsjournal/)
+
+[분류:한국방송공사의 시사교양 프로그램](https://ko.wikipedia.org/wiki/분류:한국방송공사의_시사교양_프로그램 "wikilink")

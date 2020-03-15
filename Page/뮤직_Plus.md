@@ -1,0 +1,30 @@
+> This article is converted from Wikipedia: [ Plus](https://ko.wikipedia.org/wiki/_Plus).
+
+
+**뮤직 Plus**는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 방송국인 [KBS대전방송총국](https://ko.wikipedia.org/wiki/KBS대전방송총국 "wikilink") 라디오 채널 [KBS대전 제1FM](https://ko.wikipedia.org/wiki/KBS대전방송총국 "wikilink") (FM 98.5MHz)에서 매일 오후 5시부터 6시까지 방송하는 대전·충남 지역의 클래식 전문 라디오 프로그램이다.
+
+## 진행자
+
+  - [손지화](https://ko.wikipedia.org/wiki/손지화 "wikilink") 아나운서 (여)
+
+## 기획의도
+
+  - <뮤직 플러스>는 다양한 클래식 음악들을 함께 할 수 있는 공간입니다 <뮤직 플러스>에 여러분의 마음을 플러스 해주세요\~
+
+## 코너소개
+
+  - 월 <음악노트를 펼치며> : 음악가의 인생 이야기와 희로애락이 배어있는 연주를 들어보는 시간
+  - 화 <테마 갤러리> : 한 가지 테마를 가지고 그림처럼 아름다운 하모니를 들어보는 시간
+  - 수 <한 주간의 공연 프리뷰> : 한 주 동안 우리 지역에서 펼쳐지는 다양한 공연계 소식을 만나보는 시간
+  - 목 <클래식 오딧세이> : 목원대학교 최우혁 교수와 함께 하는 클래식 탐험
+  - 금 \<톡\! 톡\! 클래식\> : 호서대학교 오이돈 교수와 함께 하는 클래식 A TO Z
+  - 토 <세기의 마에스토로를 만나다> : 김석구 지휘자와 함께 하는 마에스트로와의 재미있는 만남
+  - 일 <아름다운 당신에게> : 청취자 여러분의 사연을 소개하고 신청곡을 함께 하는 시간
+
+## 같이 보기
+
+  - [KBS대전방송총국](https://ko.wikipedia.org/wiki/KBS대전방송총국 "wikilink")
+  - [KBS대전 제1FM](https://ko.wikipedia.org/wiki/KBS대전방송총국 "wikilink")
+  - [흥겨운 한마당](https://ko.wikipedia.org/wiki/흥겨운_한마당 "wikilink")
+
+[분류:한국방송공사의 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:한국방송공사의_라디오_프로그램 "wikilink")

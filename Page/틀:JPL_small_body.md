@@ -1,0 +1,4 @@
+> This article is converted from Wikipedia: [:JPL small body](https://ko.wikipedia.org/wiki/:JPL_small_body).
+
+
+<noinclude>\*</noinclude>\[<https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=>}}}}}}}}}}\#content }}}}}\] - [JPL 소천체 데이터베이스](https://ko.wikipedia.org/wiki/JPL_소천체_데이터베이스 "wikilink")<includeonly>{{\#if:|}}</includeonly>}}}}}}}}\#discovery 발견\]{{·}}\[<https://ssd.jpl.nasa.gov/horizons.cgi?find_body=1&body_group=sb&sstr=>}}}}}}}}}} 천체력\]{{·}}\[<https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=>}}}}}}}}}}\&orb=1\#orb 궤도도\]{{·}}\[<https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=>}}}}}}}}}}\#elem 궤도 요소\]{{·}}\[<https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=>}}}}}}}}}}\#phys_par 물리적 매개변수\]}}<noinclude> </noinclude>

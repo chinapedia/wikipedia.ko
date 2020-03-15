@@ -1,0 +1,50 @@
+> This article is converted from Wikipedia: [  ZEROG](https://ko.wikipedia.org/wiki/__ZEROG).
+
+
+《**메탈파이트 베이블레이드 ZEROG**》()는 [팽이](https://ko.wikipedia.org/wiki/팽이 "wikilink")를 소재로 한 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink")이다.
+
+## 줄거리
+
+은하들 전설 블레이더와 네메시스의 싸움에서 몇년 후. 세계는 막 부흥하고 베이블레이드 역시 새로운 시대를 맞고 있었다. 그런 가운데 은하를 동경하는 최강의 블레이더를 목표로 흑은 제로는 과거 은하들이 있던 거리에 왔다. 그러나 거기에 은하는 없고 내일의 최강 블레이더를 목표로 강호가 쏠렸다.신형 제로 지 스타디움의 취급에 익숙하지 않아 고전하는 제로이지만 타고난 끈기와 천성의 육감으로 공략법을 이해하는 승리하고 갔다.
+
+## 등장인물
+
+## 등장 팽이
+
+  - 이프레이드(イフレイド) (어택 타입) (첫등장: TV 시리즈(2012년))
+  - 사라만다(サラマンダ) (밸런스 타입) (첫등장: TV 시리즈(2012년))
+  - 오로자(オロジャ) (스태미너 타입) (첫등장: TV 시리즈(2012년))
+  - 피닉(フェニック) (어택 타입) (첫등장: TV 시리즈(2012년))
+  - 리바이저(リヴァイザー) (디펜스 타입) (첫등장: TV 시리즈(2012년))
+  - 그리프(グリフ) (밸런스 타입) (첫등장: TV 시리즈(2012년))
+  - 크라켄(キラーケン) (디펜스 타입) (첫등장: TV 시리즈(2012년))
+  - 드래곤(ドラグーン) (어택 타입) (좌회전) (첫등장: TV 시리즈(2012년))
+  - 가골(ガーゴル) (어택 타입) (첫등장: TV 시리즈(2012년))
+  - 골렘(ゴレイム) (디펜스 타입) (첫등장: TV 시리즈(2012년))
+  - 베기라도스(ベギラドス) (스태미너 타입) (첫등장: TV 시리즈(2012년))
+  - 겐블(ゲンブル) (스태미너 타입) (첫등장: TV 시리즈(2012년))
+  - 지라고(ジラーゴ) (어택 타입) (첫등장: TV 시리즈(2012년))
+  - 와이번(ワイヴァング) (스태미너 타입) (첫등장: TV 시리즈(2012년))
+  - 페가수스(ペガサス) (어택 타입) (첫등장: TV 시리즈(2012년))
+  - 바하무디아(バハムディア) (밸런스 타입) (첫등장: TV 시리즈(2012년)) (TV 시리즈의 최종보스)
+  - 화이거(ホワイガー) (어택 타입) (첫등장: OVA(2013년))
+  - 가루다스(ガルダス) (디펜스 타입) (첫등장: OVA(2013년))
+  - 펜리르(ヴァンリル) (밸런스 타입) (첫등장: OVA(2013년)) (OVA의 최종보스)
+
+## 특이 사항
+
+  - [메탈파이트 베이블레이드의](../Page/메탈파이트_베이블레이드.md "wikilink") 속편 애니메이션 작품이다.
+
+## 같이 보기
+
+  - [탑블레이드](https://ko.wikipedia.org/wiki/탑블레이드 "wikilink")
+  - [팽이](https://ko.wikipedia.org/wiki/팽이 "wikilink")
+  - [메탈파이트 베이블레이드](../Page/메탈파이트_베이블레이드.md "wikilink")
+
+## 외부 링크
+
+  - [메탈 베이블레이드 홈페이지](http://www.topblade.co.kr)
+  - [TV 도쿄 메탈파이트 베이블레이드 ZEROG 홈페이지](http://www.tv-tokyo.co.jp/anime/mf-beyblade-zero/)
+  - [JEI 재능TV 메탈 베이블레이드 ZEROG 프로그램 소개](http://www.jeitv.com/skin/program/program.all.php?skin=detail&pp_idx=533&cate=000&flag=0&cid=98)
+
+[분류:탑블레이드](https://ko.wikipedia.org/wiki/분류:탑블레이드 "wikilink") [분류:일본의 텔레비전 애니메이션](https://ko.wikipedia.org/wiki/분류:일본의_텔레비전_애니메이션 "wikilink") [분류:2012년 애니메이션](https://ko.wikipedia.org/wiki/분류:2012년_애니메이션 "wikilink") [분류:TV 도쿄 계열 애니메이션](https://ko.wikipedia.org/wiki/분류:TV_도쿄_계열_애니메이션 "wikilink") [분류:일본의 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:일본의_애니메이션_영화 "wikilink") [분류:SF 애니메이션](https://ko.wikipedia.org/wiki/분류:SF_애니메이션 "wikilink") [분류:코미디 만화](https://ko.wikipedia.org/wiki/분류:코미디_만화 "wikilink") [분류:사신을 소재로 한 작품](https://ko.wikipedia.org/wiki/분류:사신을_소재로_한_작품 "wikilink")

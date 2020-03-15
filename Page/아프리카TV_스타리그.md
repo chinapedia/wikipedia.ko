@@ -1,0 +1,80 @@
+> This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
+
+
+**아프리카TV 스타리그**는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [스타크래프트 1](https://ko.wikipedia.org/wiki/스타크래프트 "wikilink") [리그이다](https://ko.wikipedia.org/wiki/스타크래프트_리그 "wikilink"). [아프리카TV](https://ko.wikipedia.org/wiki/아프리카TV "wikilink")와 [콩두컴퍼니](../Page/콩두컴퍼니.md "wikilink")가 공동으로 진행하며, 경기는 [아프리카TV](https://ko.wikipedia.org/wiki/아프리카TV "wikilink") 등을 통해 송출된다. 약칭으로는 ASL이라고 불린다.
+
+## 배경
+
+대한민국의 스타크래프트1 리그는 [온게임넷](https://ko.wikipedia.org/wiki/온게임넷 "wikilink")의 [스타리그](https://ko.wikipedia.org/wiki/스타리그 "wikilink")와 [MBC게임](https://ko.wikipedia.org/wiki/MBC게임 "wikilink")의 [MBC게임 스타리그](https://ko.wikipedia.org/wiki/MBC게임_스타리그 "wikilink")(MSL)로 진행되고 있었다. 두 리그는 양대리그라 불리며 흥행을 이어가고 있었으나, 새로운 [e-스포츠](https://ko.wikipedia.org/wiki/e-스포츠 "wikilink") 종목이 탄생함에 따라 스타크래프트1 리그는 위기를 맞았다. MSL은 2011년 6월 대회를 끝으로 폐지됐고, 스타리그도 2012년 8월을 끝으로 [스타크래프트 2](https://ko.wikipedia.org/wiki/스타크래프트_2 "wikilink") 대회로 전환됐다.
+
+이후 스타1 리그는 [소닉 스타리그로](https://ko.wikipedia.org/wiki/소닉_스타리그 "wikilink") 명맥을 잇고 있었으나, 소닉 스타리그의 스폰서인 [스베누](../Page/스베누.md "wikilink")의 경영난 등으로 소닉 스타리그 역시 2015년 9월 대회를 끝으로 문을 닫았다.
+
+2014년 초부터 꾸준히 스타1 관련 리그를 진행하던 [콩두컴퍼니](../Page/콩두컴퍼니.md "wikilink")는 2015년 10월 반트36.5 대국민 스타리그를 개최했고, 2016년부터는 [아프리카 TV와](https://ko.wikipedia.org/wiki/아프리카_TV "wikilink") 손을 잡고 E스포츠 사업을 활성화하여 '아프리카TV 스타리그'(ASL)란 이름으로 대회를 이어오고 있다.
+
+전 시즌 4강 진출자까지는 다음 시즌 자동 진출권을 부여한다.
+
+2017년 9월말 부터 [스타크래프트 리마스터로](https://ko.wikipedia.org/wiki/스타크래프트_리마스터 "wikilink") 전환하여 세계최초의 공식 리그이자 시즌4로 진행하여 총상금을 1억으로 높이기로 결정되어 개최될 예정이다.
+
+## 역대 대회
+
+### VANT36.5 대국민 스타리그
+
+  - ASL의 전신 격의 대회로 아프리카TV ASL 홈페이지에서도 ASL의 일부로 다루고 있다.
+  - 예선 : 2015년 10월 17일(서울), 18일(부산)에서 진행되어 32명이 진출
+  - 32강 : 10월 28일\~11월 19일
+      - 16강 진출자 : 김택용, 김재훈, 김승현, 윤용태(프로토스), 유영진, 최호선, 구성훈, 조기석, 박성균, 염보성, 김성현(테란), 김건욱, 김명운, 임홍규, 김정우, 박성준(저그)
+  - 16강 : 11월 26일\~12월 28일
+  - 8강 : 김택용, 윤용태, 김승현(프로토스), 박성균, 조기석, 김성현(테란), 김정우, 김명운
+  - 4강 : 김택용, 조기석, 김정우, 김명운. 3, 4위전 결과 조기석 3위, 김명운 4위
+  - 결승 : 우승 [김정우](https://ko.wikipedia.org/wiki/김정우_\(프로게이머\) "wikilink"), 준우승 [김택용](https://ko.wikipedia.org/wiki/김택용 "wikilink")
+
+### [시즌1](https://ko.wikipedia.org/wiki/아프리카TV_스타리그_시즌1 "wikilink")
+
+  - 예선 : 2016년 6월 25일(서울), 26일(부산)
+  - 16강 본선 : 2016년 7월 17일\~9월 10일
+      - 본선 진출자 : 김정우, 김윤중, 윤용태, 최호선(A조), 조기석, 임진묵, 임홍규, 김재훈(B조), 김명운, 이영호, 박성균, 염보성(C조), 김성현, 윤찬희, 도재욱, 조일장(D조)
+  - 결승전 : [서울어린이대공원](https://ko.wikipedia.org/wiki/서울어린이대공원 "wikilink")
+      - 우승 [김윤중](https://ko.wikipedia.org/wiki/김윤중 "wikilink"), 준우승 [조기석](https://ko.wikipedia.org/wiki/조기석 "wikilink")
+
+### [시즌2](https://ko.wikipedia.org/wiki/아프리카TV_스타리그_시즌2 "wikilink")
+
+  - 예선 : 2016년 11월 26일(서울), 27일(부산)
+  - 24강 본선 : 2016년 12월 4일\~2017년 1월 22일
+  - 16강
+      - 전시즌 시드 : 김윤중(A조), 조기석(B조), 김성현(C조), 염보성(D조)
+      - 16강 진출자 : 김승현, 이재호, 송병구(A조), 박성균, 이제동, 도재욱(B조), 유영진, 김택용, 조일장(C조), 이영호, 진영화, 정윤종(D조)
+  - 결승 : 2017년 1월 22일 [연세대학교](https://ko.wikipedia.org/wiki/연세대학교 "wikilink") 대강당
+      - 우승 [이영호](https://ko.wikipedia.org/wiki/이영호_\(1992년\) "wikilink"), 준우승 염보성
+
+### 팀배틀
+
+ASL 시즌2 8강에 오른 8명의 선수\[1\]를 팀장으로 총 8개 팀, 24명의 선수가 진행하는 단체전이다. 개인전-개인전-2:2-개인전-최종전(개인전)으로 진행된다.
+
+  - 8강전 : 2017년 2월 18일\~26일
+  - 4강전 : 3월 4일\~18일
+  - 결승전 : 3월 19일
+
+### [시즌3](https://ko.wikipedia.org/wiki/아프리카TV_스타리그_시즌3 "wikilink")
+
+  - 대회 기간 : 2017년 4월 11일 \~ 6월 4일
+  - 예선 : 2017년 4월 1일(서울), 4월 2일(부산)
+  - 24강 : 12명이 16강 진출
+  - 16강
+      - 전시즌 시드자 : 이영호, 염보성, 이제동, 도재욱
+      - 16강 진출자 : 이영호, 이제동, 염보성, 이영한, 김택용, 윤찬희, 김민철, 도재욱, 최호선, 김성현, 김정우, 조일장, 김경모, 고석현, 김재훈, 김승현
+  - 결승 : 6월 4일 [어린이대공원](https://ko.wikipedia.org/wiki/어린이대공원 "wikilink") 숲속의무대
+      - 최종 순위 : 우승 - [이영호](https://ko.wikipedia.org/wiki/이영호 "wikilink")(2000만원), 준우승 - [이영한](https://ko.wikipedia.org/wiki/이영한 "wikilink")(500만원), 3위 - [김택용](https://ko.wikipedia.org/wiki/김택용 "wikilink")(300만원), 4위 - [김민철](https://ko.wikipedia.org/wiki/김민철 "wikilink")(200만원)
+
+## ASL 포인트
+
+  - 2017년 4월 3일 아프리카TV는 시즌3 24강 조편성을 위한 ASL 포인트를 공개했다. 대국민 스타리그, ASL 시즌 1, 2의 성적을 기반으로 포인트가 산정됐다. 정확한 포인트 계산법은 알려지지 않았다.
+
+## 중계진
+
+  - 2016 시즌1, 시즌2, 팀배틀, 시즌3 : [박상현](https://ko.wikipedia.org/wiki/박상현_\(1981년\) "wikilink"), [이승원](https://ko.wikipedia.org/wiki/이승원 "wikilink"), [임성춘](https://ko.wikipedia.org/wiki/임성춘 "wikilink")
+
+## 각주
+
+[분류:2016년 설립](https://ko.wikipedia.org/wiki/분류:2016년_설립 "wikilink") [분류:대한민국의 e스포츠 대회](https://ko.wikipedia.org/wiki/분류:대한민국의_e스포츠_대회 "wikilink") [분류:스타크래프트 대회](https://ko.wikipedia.org/wiki/분류:스타크래프트_대회 "wikilink")
+
+1.  이영호, 염보성, 이제동(부상으로 박성균 대신 출전), 도재욱, 김택용, 조일장, 김승현, 송병구

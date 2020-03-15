@@ -1,0 +1,17 @@
+> This article is converted from Wikipedia: [I Want It All](https://ko.wikipedia.org/wiki/I_Want_It_All).
+
+
+〈**I Want It All**〉은 1989년 스튜디오 음반인 《[The Miracle](../Page/The_Miracle.md "wikilink")》에 소개된 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 록 밴드 [퀸의](https://ko.wikipedia.org/wiki/퀸_\(밴드\) "wikilink") 노래다. 기타리스트 [브라이언 메이가](https://ko.wikipedia.org/wiki/브라이언_메이 "wikilink") 작곡하고 [데이비드 리차드가](https://ko.wikipedia.org/wiki/데이비드_리차드_\(음악_프로듀서\) "wikilink") 프로듀싱한 이 곡은 1989년 5월 2일 음반의 첫 번째 싱글로 발매됐다.\[1\] 〈I Want It All〉은 [영국 싱글 차트](https://ko.wikipedia.org/wiki/영국_싱글_차트 "wikilink"), [아이리시 싱글 차트](https://ko.wikipedia.org/wiki/아이리시_싱글_차트 "wikilink"), [핀란드 싱글 차트](https://ko.wikipedia.org/wiki/수오멘_비랄리넨_리스타 "wikilink"), [뉴질랜드 싱글 차트](https://ko.wikipedia.org/wiki/리코디드_뮤직_NZ "wikilink"), [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") 《[빌보드](https://ko.wikipedia.org/wiki/빌보드 "wikilink")》 [음반 록 트랙 차트에서](https://ko.wikipedia.org/wiki/메인스트림_록_트랙 "wikilink") 3위에 올랐다. [핫 100에서](https://ko.wikipedia.org/wiki/빌보드_핫_100 "wikilink") 그 노래는 50에 달했다. [네덜란드](https://ko.wikipedia.org/wiki/네덜란드 "wikilink")에서는 2위, [이탈리아](https://ko.wikipedia.org/wiki/이탈리아 "wikilink")와 [노르웨이](https://ko.wikipedia.org/wiki/노르웨이 "wikilink")에서는 4위, [호주](https://ko.wikipedia.org/wiki/호주 "wikilink"), [독일](https://ko.wikipedia.org/wiki/독일 "wikilink"), [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink")에서는 10위 안에 들었다.
+
+이 노래는 [로저 돌트리가](https://ko.wikipedia.org/wiki/로저_돌트리 "wikilink") 리드 보컬을 부르고 [토니 아이오미가](https://ko.wikipedia.org/wiki/토니_아이오미 "wikilink") 리듬 기타를 연주하는, 퀸의 나머지 세 멤버들에 의해 공연된 [프레디 머큐리 추모 콘서트에서](https://ko.wikipedia.org/wiki/프레디_머큐리_추모_콘서트 "wikilink") 1992년 4월 20일에 처음으로 라이브로 연주되었다.\[2\] 1991년 11월 45세의 [에이즈](https://ko.wikipedia.org/wiki/에이즈 "wikilink")로 세상을 떠났기 때문에 머큐리 자신도 이 노래를 라이브로 연주하지 않았고, 1986년 8월 9일 넵워스 파크에서 열린 [Magic 투어의](https://ko.wikipedia.org/wiki/Magic_투어 "wikilink") 마지막 공연이었다. 이 노래는 주로 머큐리가 불렀고 [브라이언 메이는](https://ko.wikipedia.org/wiki/브라이언_메이 "wikilink") 합창단과 8중창에서 노래했다.
+
+이 노래에는 적어도 세 가지 버전이 있다. 더 긴 것은 음반 버전이고, 가장 짧은 것은 뮤직 비디오와 《[Greatest Hits II](https://ko.wikipedia.org/wiki/Greatest_Hits_II_\(퀸의_음반\) "wikilink")》 컴필레이션에서 사용된다. 싱글 버전과 비디오 버전은 어쿠스틱/일렉트릭 기타 부분과 짧은 리듬 일렉트릭 기타 부분이 바로 뒤따라 나오는 등 다른 시작을 가지고 있다. 코러스를 [아카펠라](https://ko.wikipedia.org/wiki/아카펠라 "wikilink")로 부르는 것으로 시작해서, 1/8+2/4A5 [파워코드](https://ko.wikipedia.org/wiki/파워코드 "wikilink") 후, 5월까지 첫 번째 일렉트릭 기타 리프를 집는데, 이는 앞에서 언급한 짧은 리듬 기타 부분 다음에 이어진다. 기타 솔로 부분도 다르다. 음반 버전은 더 빠른 메인 솔로 직전에 나머지 노래와 같은 [템포](https://ko.wikipedia.org/wiki/템포 "wikilink")로 진행되는 추가 솔로 부분을 특징으로 한다. 머큐리의 8중창 이후의 보컬들도 약간 다르며 음반 버전에서는 "엑스트라" 솔로, 싱글 버전과 비디오 버전 모두에서 메인 솔로로 자리매김한다. 컴필레이션 음반 《[Queen Rocks](../Page/Queen_Rocks.md "wikilink")》는 싱글 버전의 아카펠라 보컬로 시작하지만 음반 버전의 기타 독주곡도 포함하고 있다.
+
+## 각주
+
+## 외부 링크
+
+[분류:1989년 노래](https://ko.wikipedia.org/wiki/분류:1989년_노래 "wikilink") [분류:1989년 싱글](https://ko.wikipedia.org/wiki/분류:1989년_싱글 "wikilink") [분류:퀸의 노래](https://ko.wikipedia.org/wiki/분류:퀸의_노래 "wikilink") [분류:브라이언 메이가 작곡한 노래](https://ko.wikipedia.org/wiki/분류:브라이언_메이가_작곡한_노래 "wikilink") [분류:민중가요](https://ko.wikipedia.org/wiki/분류:민중가요 "wikilink") [분류:팔로폰 싱글](https://ko.wikipedia.org/wiki/분류:팔로폰_싱글 "wikilink") [분류:캐피틀 레코드 싱글](https://ko.wikipedia.org/wiki/분류:캐피틀_레코드_싱글 "wikilink")
+
+1.
+2.  [The Freddie Mercury Tribute Concert: I Want It All](http://www.ultimatequeen.co.uk/videos/fmtributedvd.htm#iwantit) Ultimate Queen. Retrieved 5 July 2011

@@ -1,0 +1,20 @@
+> This article is converted from Wikipedia: [MBC   ](https://ko.wikipedia.org/wiki/MBC___).
+
+
+《**교육이 미래다**》는 [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [1월 23일부터](https://ko.wikipedia.org/wiki/1월_23일 "wikilink") [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [12월 26일까지](https://ko.wikipedia.org/wiki/12월_26일 "wikilink") [문화방송에서](https://ko.wikipedia.org/wiki/MBC_TV "wikilink") 방송된 교양 프로그램이다.
+
+## 프로그램 소개
+
+  - MBC와 EBS가 공동으로 주관하는 이 프로그램은 현 21세기 국가 경쟁력의 초석인 교육, 하지만 우리 공교육의 심각한 위기 상황은 시급하고도 근본적인 대 수술을 필요로 하고 있다. 미래 한국사회를 짊어나갈 인재를 양성하고 건강한 사회를 만들기 위한 교육 시스템의 재정립을 위해 이 프로그램에서는 당면한 교육 현실의 문제점을 다양한 각도에서 살펴보고 선진적인 해결책을 제시하는데 주력하고자 한다.
+
+## 코너 소개
+
+  - 1\) <교육 돋보기> : 지난 한 주간 교육 관련 뉴스들을 리뷰해 보며 각 사안들의 성격, 진행 상황 등이 우리 사회, 교육의 미래에 던지는 의미를 반추해 봄으로써 문제 해결의 단초를 살펴 봄
+  - 2\) \<집중 분석 - 미래 교육 프로젝트\> : 매주 하나씩의 과제를 전문가 및 학생?학부모?교사 등 교육 주체들과 함께 다양한 방식으로 풀어 나가며 경쟁력 높은 선진교육의 시스템으로 구체화 하는 방안을 제시
+  - 3\) <사람이 희망이다> : 어려움 속에서도 건강한 사회를 향한 희망의 싹을 틔우는 현장을 찾아 우리가 진정 추구해야 할 소중한 가치들을 확인해 보는 시간
+
+## 외부 링크
+
+  - [MBC 연중기획 교육이 미래다](http://www.imbc.com/broad/tv/culture/education/) - VOD 제공 및 다시보기
+
+[분류:문화방송의 시사교양 프로그램](https://ko.wikipedia.org/wiki/분류:문화방송의_시사교양_프로그램 "wikilink")

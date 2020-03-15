@@ -1,0 +1,6 @@
+> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+
+
+**글로부 푸치보우 클루비**(Globo Futebol Clube)는 [히우그란지두노르치주](https://ko.wikipedia.org/wiki/히우그란지두노르치주 "wikilink") [세아라미링](https://ko.wikipedia.org/wiki/세아라미링 "wikilink")을 연고지로 하는 축구 클럽으로, [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [10월 18일에](https://ko.wikipedia.org/wiki/10월_18일 "wikilink") 창단하였다. 글로부는 창단하자마자 빠르게 성장했으며, [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") 캄페오나투 포치구아르 2부 리그 우승 그리고 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [코파 히우그란지두노르치와](https://ko.wikipedia.org/wiki/코파_히우그란지두노르치 "wikilink") 코파 FNF에서 우승을 차지하며 트로피를 늘려나갔다. [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [캄페오나투 브라질레이루 세리이 D에서](../Page/캄페오나투_브라질레이루_세리이_D.md "wikilink") 2위를 차지하며, [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") 현재 [캄페오나투 브라질레이루 세리이 C에서](../Page/캄페오나투_브라질레이루_세리이_C.md "wikilink") 활약하게 되었다.
+
+[글로부_FC](https://ko.wikipedia.org/wiki/분류:글로부_FC "wikilink") [분류:2012년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:2012년_설립된_축구단 "wikilink") [분류:브라질의 축구단](https://ko.wikipedia.org/wiki/분류:브라질의_축구단 "wikilink")

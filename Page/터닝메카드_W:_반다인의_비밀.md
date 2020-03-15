@@ -1,0 +1,185 @@
+> This article is converted from Wikipedia: [ W:  ](https://ko.wikipedia.org/wiki/_W:__).
+
+
+《**터닝메카드 W: 반다인의 비밀**》은 2018년 2월 8일 개봉한 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink") 두번째 작품이다.
+
+## 세력
+
+  - 트라이포스
+      - 블루랜드
+      - 레드홀
+      - 블랙미러 {{글씨 색|\#000000|■}
+      - 미지의 마을
+  - 미래 세력
+  - 이차원
+
+## 등장인물
+
+### 주역
+
+  - 나찬 - 정의감이 넘치는 당찬 소년.
+  - 반다인/김지훈 - 조용하고 침착한 소년.
+  - 이소벨 - [블루랜드](https://ko.wikipedia.org/wiki/하늘색 "wikilink") 프랭클린 박사의 딸.
+  - 리안 - 레드홀 왕가의 [왕자](https://ko.wikipedia.org/wiki/왕자 "wikilink").
+  - 도깨비단 - 쌍둥이 남매 다비와 다나를 일컫는다.
+  - 류 - 미래에서 온 당찬 소년.
+  - 데미안 - 미래에서 온 냉정한 소년.
+  - 카밀라 - 미래에서 온 데미안을 좋아하는 소녀.
+  - 나로 - 이차원 세계에서 온 활기찬 소년.
+  - 로키 - 이차원 세계에서 온 열정적인 소년.
+  - 데이지 - 이차원 세계에서 온 직감적인 소녀.
+  - 서준 - 지구에 사는 강해지고 싶은 소년.
+  - 마리 - 닥터 X가 만든 복제인간. 3명이다.
+
+### 조역
+
+  - 공주희 - 찬의 친구.
+  - 천재형 - 찬의 친구.
+  - 기운찬 - 찬의 친구.
+  - 손나영 - 병약한 소녀.
+  - 미스터 K - 나찬의 아버지로 메카니멀을 만들었다.
+  - 나찬의 어머니
+  - 야롱이 - 찬이네가 키우는 고양이.
+  - 도깨비단의 부모님
+  - 손나영의 부모님 - 외국에 일을 하러 가고 있다.
+  -
+  - 레드홀의 국왕 - 리안과 레온의 아버지.
+  - 레온 - 리안의 형.
+  - 강집사 - 손나영의 집사.
+  - 프로페서 C - 류의 아버지.
+  - 닥터 X - 자신의 죄를 뉘우친 이후로 프랭클린 박사와 함께 새로운 메카니멀을 만들었다.
+  - 김산 - 반다인의 일란성 쌍둥이 남동생.
+
+## 등장 메카니멀
+
+  - <span style="font-weight:bold; color:#0000ff">에반</span>
+  - <span style="font-weight:bold; color:#800080">타나토스</span>
+  - <span style="font-weight:bold; color:#008000">슈마</span>
+  - <span style="font-weight:bold; color:#800080">알타</span>
+  - <span style="text-shadow: 0 0 3px #FFD700;color:#000000">피닉스</span>
+  - <span style="font-weight:bold; color:#dcdcdc">테로</span>
+  - <span style="font-weight:bold; color:#ff1493">미리내</span>
+  - <span style="font-weight:bold; color:#ff0000">코카트</span>
+  - <span style="font-weight:bold; color:#008000">베노사</span>
+  - <span style="font-weight:bold; color:#000000">게리온</span>
+  - <span style="font-weight:bold; color:#ff0000">무간</span>
+  - <span style="font-weight:bold; color:#dcdcdc">캉시</span>
+  - <span style="font-weight:bold; color:#008000">나백작</span>
+  - <span style="font-weight:bold; color:#ff00ff">독꼬리</span>
+  - <span style="font-weight:bold; color:#0000ff">타이탄</span>
+  - <span style="font-weight:bold; color:#800080">크로키</span>
+  - <span style="font-weight:bold; color:#000000">킹죠스</span>
+  - <span style="font-weight:bold; color:#a52a2a">파이온</span>
+  - <span style="font-weight:bold; color:#0000ff">크랑</span>
+  - <span style="font-weight:bold; color:#ff8c00">윙톡</span>
+  - <span style="font-weight:bold; color:#ff0000">만타리</span>
+  - <span style="font-weight:bold; color:#dcdcdc">옥타</span>
+  - <span style="font-weight:bold; color:#ff8c00">안드로매지션</span>
+  - <span style="font-weight:bold; color:#808080">바벨</span>
+  - <span style="font-weight:bold; color:#008000">센뿔</span>
+  - <span style="font-weight:bold; color:#0000ff">모스톤</span>
+  - <span style="font-weight:bold; color:#0000ff">프린스콩</span>
+  - <span style="font-weight:bold; color:#ff0000">우르스</span>
+  - <span style="font-weight:bold; color:#0000ff">타돌</span>
+  - <span style="font-weight:bold; color:#ff0000">메가</span>
+  - <span style="font-weight:bold; color:#0000ff">메가테릭스</span>
+  - <span style="font-weight:bold; color:#000000">메가스파이더</span>
+  - <span style="font-weight:bold; color:#ff0000">메가드래곤</span>
+  - <span style="text-shadow: 0 0 3px #800080;color:#dcdcdc">그리폰</span>
+  - <span style="text-shadow: 0 0 3px #800080;color:#ff0000">스핑크스</span>
+  - <span style="text-shadow: 0 0 3px #800080;color:#dcdcdc">그리</span><span style="text-shadow: 0 0 3px #800080;color:#ff0000">핑크스</span> (그리폰 + 스핑크스)
+  - <span style="font-weight:bold; color:#0000ff">요타</span>
+  - <span style="font-weight:bold; color:#ff0000">네오</span>
+  - <span style="font-weight:bold; color:#8a2be2">엑스</span>
+  - <span style="font-weight:bold; color:#dcdcdc">크라켄</span>
+  - <span style="font-weight:bold; color:#0000ff">피코</span>
+  - <span style="font-weight:bold; color:#ff0000">하이드론</span>
+  - <span style="font-weight:bold; color:#0000ff">카울</span>
+  - <span style="font-weight:bold; color:#0000ff">투스코</span>
+  - <span style="font-weight:bold; color:#000000">데스퍼</span>
+  - <span style="font-weight:bold; color:#008000">쿠루기</span>
+  - <span style="font-weight:bold; color:#0000ff">다이크</span>
+  - <span style="font-weight:bold; color:#ff0000">카이온</span>
+  - <span style="font-weight:bold; color:#000000">가고토스</span>
+  - <span style="font-weight:bold; color:#dcdcdc">윙라이온</span>
+  - <span style="font-weight:bold; color:#ff0000">메가에반</span>
+  - <span style="font-weight:bold; color:#ffff00">메가스콜피온</span>
+  - <span style="font-weight:bold; color:#ff0000">디스크캐논</span>
+  - <span style="font-weight:bold; color:#ffff00">제트</span>
+  - <span style="font-weight:bold; color:#008000">고브</span>
+  - <span style="font-weight:bold; color:#ff0000">볼카</span>
+  - <span style="font-weight:bold; color:#dcdcdc">도라</span>
+  - <span style="font-weight:bold; color:#ffff00">트렘</span>
+  - <span style="font-weight:bold; color:#0000ff">푸킨</span>
+  - <span style="font-weight:bold; color:#ff0000">아머피트</span>
+  - <span style="font-weight:bold; color:#800080">아라게</span>
+  - <span style="font-weight:bold; color:#dcdcdc">버키</span>
+  - <span style="font-weight:bold; color:#ff0000">윙피닉스</span>
+  - <span style="font-weight:bold; color:#008000">치르매미</span>
+  - <span style="font-weight:bold; color:#ff0000">뎅뎅</span>
+  - <span style="font-weight:bold; color:#0000ff">마루</span>
+  - <span style="font-weight:bold; color:#0000ff">에반킹</span>
+  - <span style="font-weight:bold; color:#ff0000">켄타스콘</span>
+  - <span style="font-weight:bold; color:#000000">마스터</span>
+  - <span style="font-weight:bold; color:#0000ff">하이테로</span>
+  - <span style="font-weight:bold; color:#0000ff">윙나이트</span>
+  - <span style="font-weight:bold; color:#ffff00">윙레오</span>
+
+## 목소리 출연/성우진
+
+  - [소연](https://ko.wikipedia.org/wiki/소연_\(성우\) "wikilink"): 나찬
+  - [이현진](https://ko.wikipedia.org/wiki/이현진_\(성우\) "wikilink"): 반다인/김지훈, 블루랜드의 여왕, 손나영, 김산
+  - [윤미나](https://ko.wikipedia.org/wiki/윤미나 "wikilink"): 이소벨, 나찬의 어머니, 윙톡
+  - [김율](https://ko.wikipedia.org/wiki/김율 "wikilink"): 리안, 도깨비단의 엄마, 만타리, 마리
+  - [이지현](https://ko.wikipedia.org/wiki/이지현_\(성우\) "wikilink"): 다비, 공주희, 미리내, 손나영의 엄마
+  - [이재현](https://ko.wikipedia.org/wiki/이재현_\(성우\) "wikilink"): 다나, 천재형, 야롱이, 타돌, 가고토스G
+  - [윤아영](../Page/윤아영.md "wikilink"): 류
+  - [양정화](../Page/양정화_\(성우\).md "wikilink"): 데미안, 피코
+  - [강시현](../Page/강시현.md "wikilink"): 카밀라, 카이온
+  - [김채하](https://ko.wikipedia.org/wiki/김채하 "wikilink"): 나로
+  - [조현정](https://ko.wikipedia.org/wiki/조현정_\(성우\) "wikilink"): 로키, 주작
+  - [정혜원](https://ko.wikipedia.org/wiki/정혜원 "wikilink"): 데이지
+  - [김영은](https://ko.wikipedia.org/wiki/김영은_\(성우\) "wikilink"): 서준, 마루
+  - [홍범기](https://ko.wikipedia.org/wiki/홍범기 "wikilink"): 기운찬, 테로, 모스톤, 손나영의 아빠, 카울, 도라, 치르매미, 백호
+  - [최한](https://ko.wikipedia.org/wiki/최한 "wikilink"): 미스터 K, 센뿔, 프린스콩, 아머, 에반킹, 윙레오
+  - [현경수](https://ko.wikipedia.org/wiki/현경수 "wikilink"): 도깨비단 아빠, 게리온
+  - [정재헌](https://ko.wikipedia.org/wiki/정재헌_\(성우\) "wikilink"): 프랭클린 박사, 슈마, 나백작, 엑스, 볼카, 윙나이트
+  - [이상범](https://ko.wikipedia.org/wiki/이상범_\(성우\) "wikilink"): 레드홀의 국왕, 안드로매지션, 스핑크스, 데스퍼, 마스터
+  - [박성태](https://ko.wikipedia.org/wiki/박성태 "wikilink"): 레온, 베노사, 크랑, 투스코, 푸킨, 윙피닉스
+  - [이호산](https://ko.wikipedia.org/wiki/이호산 "wikilink"): 그리폰, 강집사, 다이크
+  - [엄상현](https://ko.wikipedia.org/wiki/엄상현 "wikilink"): 피닉스, 캉시, 타이탄, 프로페서C, 하이드론, 트렘B, 뎅뎅
+  - [신용우](https://ko.wikipedia.org/wiki/신용우_\(성우\) "wikilink"): 에반, 킹죠스, 메가에반, 닥터 X, 피트, 아라게, 청룡
+  - [권혁수](https://ko.wikipedia.org/wiki/권혁수_\(성우\) "wikilink"): 메가드래곤
+  - [강호철](https://ko.wikipedia.org/wiki/강호철 "wikilink"): 디스크캐논, 버키, 스콘, 하이테로
+  - [위훈](https://ko.wikipedia.org/wiki/위훈 "wikilink"): 코카트
+  - [전태열](https://ko.wikipedia.org/wiki/전태열 "wikilink"): 무간, 크로키, 트렘A
+  - [남도형](https://ko.wikipedia.org/wiki/남도형 "wikilink"): 타나토스, 알타, 옥타, 쿠루기, 윙라이온, 제트
+  - [이주창](https://ko.wikipedia.org/wiki/이주창 "wikilink"): 네오
+  - [김영찬](https://ko.wikipedia.org/wiki/김영찬_\(성우\) "wikilink"): 파이온
+  - [장광](https://ko.wikipedia.org/wiki/장광 "wikilink"): 메가
+  - [전숙경](https://ko.wikipedia.org/wiki/전숙경 "wikilink"): 요타, 크라켄
+  - [최낙윤](https://ko.wikipedia.org/wiki/최낙윤 "wikilink"): 가고토스R, 고브, 켄타, 현무
+  - [류승곤](https://ko.wikipedia.org/wiki/류승곤 "wikilink"): 독꼬리
+  - [최정호](https://ko.wikipedia.org/wiki/최정호_\(성우\) "wikilink"): 우르스, 바벨
+
+## 제작진
+
+  - 감독: 홍헌표
+  - 각본: ATSUSHI
+  - 제작: 최종일, 김선태, 이남훈, 심혜원
+  - 촬영: 한국주
+  - 음악: 김정아
+  - 편집: 고재식
+  - 음향: 김학래, 김세광, 조일오
+  - 미술: 봉하권
+  - 특수효과: 박환수, 김석원
+  - 기타: 유봉현, 엄익현, 김영훈, 임채길, 김다인, 정미영, 지태욱, 김민준
+  - 기획: 이노션월드와이드, [손오공](https://ko.wikipedia.org/wiki/손오공_\(기업\) "wikilink")
+  - 제작: ㈜희원엔터테인먼트
+  - 배급: 씨네그루(주)키다리이엔티
+  - 제공: 조이앤시네마, ㈜희원엔터테인먼트, ㈜[초이락컨텐츠팩토리](../Page/초이락컨텐츠팩토리.md "wikilink")
+  - 공동제공: (주)케이알씨지, 씨네그루(주)키다리이엔티
+
+## 각주
+
+[분류:터닝메카드](https://ko.wikipedia.org/wiki/분류:터닝메카드 "wikilink") [분류:로봇 애니메이션](https://ko.wikipedia.org/wiki/분류:로봇_애니메이션 "wikilink") [분류:2010년대 대한민국의 텔레비전 애니메이션](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_애니메이션 "wikilink") [분류:2017년 애니메이션](https://ko.wikipedia.org/wiki/분류:2017년_애니메이션 "wikilink") [분류:투니버스의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:투니버스의_텔레비전_프로그램 "wikilink") [분류:대한민국의 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:대한민국의_애니메이션_영화 "wikilink") [분류:2018년 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:2018년_애니메이션_영화 "wikilink")

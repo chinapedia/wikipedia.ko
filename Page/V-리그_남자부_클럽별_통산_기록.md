@@ -1,0 +1,28 @@
+> This article is converted from Wikipedia: [V-    ](https://ko.wikipedia.org/wiki/V-____).
+
+
+이 문서는 [V-리그](https://ko.wikipedia.org/wiki/V-리그_\(대한민국\) "wikilink") 남자부의 참가팀별 통산 성적을 기록한 문서이다.
+
+  - 업데이트: 2017-18시즌 종료 기준
+  - 정규시즌만 기록
+
+<!-- end list -->
+
+  -
+    {|class="wikitable"
+
+|width=10px style="background-color:\#90EE90;"| ||2018시즌 참가팀 |width=30px style="background-color:pink"| ||해체 |}
+
+| 순위 | 클럽                                                                          | 승률        | 시즌     | 경기      | 승       | 패       |
+| -- | --------------------------------------------------------------------------- | --------- | ------ | ------- | ------- | ------- |
+|    |                                                                             |           |        |         |         |         |
+| 1  | [대전 삼성화재 블루팡스](https://ko.wikipedia.org/wiki/대전_삼성화재_블루팡스 "wikilink")       | **0.741** | **14** | **461** | **342** | 119     |
+| 2  | [천안 현대캐피탈 스카이워커스](https://ko.wikipedia.org/wiki/천안_현대캐피탈_스카이워커스 "wikilink") | **0.699** | **14** | **461** | 322     | 139     |
+| 3  | [인천 대한항공 점보스](https://ko.wikipedia.org/wiki/인천_대한항공_점보스 "wikilink")         | **0.616** | **14** | **461** | 286     | 175     |
+| 4  | [의정부 KB손해보험 스타즈](https://ko.wikipedia.org/wiki/의정부_KB손해보험_스타즈 "wikilink")   | **0.438** | **14** | **461** | 202     | 259     |
+| 5  | [수원 한국전력 빅스톰](https://ko.wikipedia.org/wiki/수원_한국전력_빅스톰 "wikilink")         | **0.312** | **14** | **461** | 144     | **317** |
+| 6  | [서울 우리카드 위비](https://ko.wikipedia.org/wiki/서울_우리카드_위비 "wikilink")           | **0.349** | 9      | 306     | 107     | 199     |
+| 7  | [안산 OK저축은행 러시앤캐시](../Page/안산_OK저축은행_러시앤캐시.md "wikilink")                    | **0.432** | 5      | 174     | 76      | 98      |
+| 8  | [성남 상무 신협](https://ko.wikipedia.org/wiki/성남_상무_신협 "wikilink")               | **0.163** | 8      | 257     | 42      | 215     |
+
+[\*](https://ko.wikipedia.org/wiki/분류:V-리그 "wikilink")

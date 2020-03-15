@@ -1,0 +1,6 @@
+> This article is converted from Wikipedia: [Despacito](https://ko.wikipedia.org/wiki/Despacito).
+
+
+"**Despacito**"는 [푸에르토리코](https://ko.wikipedia.org/wiki/푸에르토리코 "wikilink")의 가수 [루이스 폰시가](https://ko.wikipedia.org/wiki/루이스_폰시 "wikilink") 부른 노래이다. 피쳐링에는 팝 가수 [대디 양키가](https://ko.wikipedia.org/wiki/대디_양키 "wikilink") 참여했다. 2017년 1월 12일 발매되었으며, 동년 4월 17일에는 [저스틴 비버가](https://ko.wikipedia.org/wiki/저스틴_비버 "wikilink") 일부 가사를 바꾸고, 일부 부분을 자신이 부른 리믹스 버전을 발매했다. 비영어권의 노래 중 [강남스타일](https://ko.wikipedia.org/wiki/강남스타일 "wikilink")과 더불어 2010년대 세계적인 인기를 끌었던 곡으로 [마카레나](https://ko.wikipedia.org/wiki/마카레나 "wikilink") 이후 20여년만에 처음으로 [스페인어](https://ko.wikipedia.org/wiki/스페인어 "wikilink") 노래가 [빌보드 차트의](https://ko.wikipedia.org/wiki/빌보드_차트 "wikilink") 1위에 오르게 되었다. 그것도 16주 동안 빌보드 차트 1위를 차지했는데 이는 빌보드 차트 1위 최장 기록이다. 2019년 2월 24일경으로 유튜브 조회수 60억뷰를 돌파했다.
+
+[분류:2017년 싱글](https://ko.wikipedia.org/wiki/분류:2017년_싱글 "wikilink") [분류:2017년 노래](https://ko.wikipedia.org/wiki/분류:2017년_노래 "wikilink") [분류:루이스 폰시의 노래](https://ko.wikipedia.org/wiki/분류:루이스_폰시의_노래 "wikilink") [분류:대디 양키의 노래](https://ko.wikipedia.org/wiki/분류:대디_양키의_노래 "wikilink") [분류:스페인어 노래](https://ko.wikipedia.org/wiki/분류:스페인어_노래 "wikilink")

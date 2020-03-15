@@ -1,0 +1,61 @@
+> This article is converted from Wikipedia: [   vs. ](https://ko.wikipedia.org/wiki/___vs._).
+
+
+《**극장판 염신전대 고온저 vs. 게키레인저**》()는 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [1월 24일보다](https://ko.wikipedia.org/wiki/1월_24일 "wikilink") [토에이](https://ko.wikipedia.org/wiki/토에이 "wikilink") 계열에서 공개된 일본 영화 작품이다. 특수 촬영 히어로 프로그램 〈[슈퍼 전대 시리즈](https://ko.wikipedia.org/wiki/슈퍼_전대_시리즈 "wikilink")〉《[염신전대 고온저](https://ko.wikipedia.org/wiki/염신전대_고온저 "wikilink")》의 영화화 작품이며, 슈퍼전대 vs. 시리즈의 하나이다.
+
+## 개요
+
+21세기의 슈퍼 전대 시리즈는 여름에 극장판 상영, 이듬해 봄에 전년도의 전대와 협연하는 슈퍼 전대 V시네마(이하, V시네마)의 공개라는 형태가 정착되어 있다. 《[염신전대 고온저](https://ko.wikipedia.org/wiki/염신전대_고온저 "wikilink")》와 《[수권전대 게키레인저](https://ko.wikipedia.org/wiki/수권전대_게키레인저 "wikilink")》가 공연하는 본 작품도 처음에는 예전 V시네마로 DVD대여·발매만을 예정하고 있었지만, 2008년 12월, 릴리스에 처음 형태로 2009년 1월 24일보다 〈신춘 슈퍼 전대제〉틀로서 극장 공개되는 것이 급히 결정한다.
+
+이는 영화 서두에서 「본작이 V시네마 통산 15번째 작품인 것을 기념하다」로 회자됐지만 그 해 1월 17일보다 도에이 계열에서 극장 공개될 예정이었던 영화 《후우케몬》의 상영 중단에 따른 대체 조치의 의미도 담긴다. 이 때문에 본작의 영화 감상 예매권은 발매되지 않고 관람 요금도 특별 설정이었다. 또 V시네마로 발매도 예년의 일정으로 열렸기에 결과적으로 공개 개시부터 2개월 미만이라는 이례적인 속도에서 DVD발매됐다.
+
+복수의 전대가 협연할 작품의 극장 개봉은 〈**토에이 만화 축제**〉 정원의 《재커 전격대 vs. 고레인저》 이후인, 슈퍼 전대 시리즈의 단독 극장 개봉작은 이것이 처음이다. 또, 각본의 코오 무라 준코, 감독의 모로 사토시의 두 사람 모두 VS시리즈 첫 배당 받는다.
+
+본작의 극장 공개를 계기로 이후 VS시리즈는 극장판 공개에 이행하는 것이어서 지금까지 V시네마 작품의 포맷으로 제작은 본작이 끝이었다.
+
+《게키레인저》 본편에서 사망한 리오와 메레는 《특수전대 데카레인저 vs. 아바레인저의 아바레 킬러》를 답습한 방법으로 살아나고 있다. 시계열의 관계로 《게키레인저의 영화 《극장판 수권전대 게키레인저 네이네이\! 호우호우\! 홍콩 대결전》에 등장하지 않았던 텔레비전 본편의 레귤러진(후카미 고우/게키 바이올렛, 히사츠 켄/게키 쵸퍼, 론)는 결과적으로 본작으로 영화 첫 등장했다.
+
+게키 바이올렛/후카미 고우와 게키 표퍼/히사츠 켄은 고온저를 알고 있었던 모양이었다.
+
+멤버 전원이 전이답미했을 때 고온저, 고온 윙스, 게키레인저, 리오와 메레와 시리즈 최다인 14명이었다. 오프닝 타이틀 백은 《수권전대 게키레인저 VS 보켄저》마찬가지 메인 캐스트 14명의 신용이 다시 찍고 있다. 고온저의 멤버는 본편 상영 전과 본편 종료 후에도 본 틀의 진행 역을 담당했다. 이어 최종에는 게키 레드, 고 온 레드, 싱켄 레드가 한자리에 모였다.
+
+## 출연진
+
+  - 에스미 소우스케/고온 레드 : [후루하라 야스히사](https://ko.wikipedia.org/wiki/후루하라_야스히사 "wikilink")
+  - 코사카 렌/고온 블루 : [카타오카 신와](https://ko.wikipedia.org/wiki/카타오카_신와 "wikilink")
+  - 로우야마 사키/고온 옐로 : [아이자와 리나](https://ko.wikipedia.org/wiki/아이자와_리나 "wikilink")
+  - 죠 한토/고온 그린 : [우스히 마사히로](https://ko.wikipedia.org/wiki/우스히_마사히로 "wikilink")
+  - 이사하라 군페이/고온 블랙 : [에비사와 켄지](../Page/에비사와_켄지.md "wikilink")
+  - 스토 히로토/고온 골드 : 토쿠야마 히데노리
+  - 스토 미우/고온 실버 : [스기모토 유미](https://ko.wikipedia.org/wiki/스기모토_유미 "wikilink")
+  - 칸도 쟝/게키 레드 : [스즈키 히로키](https://ko.wikipedia.org/wiki/스즈키_히로키 "wikilink")
+  - 우자키 란/게키 옐로 : [후쿠이 미나](https://ko.wikipedia.org/wiki/후쿠이_미나 "wikilink")
+  - 후카미 레츠/게키 블루 : [다카키 만페이](https://ko.wikipedia.org/wiki/다카키_만페이 "wikilink")
+  - 후카미 고우/게키 바이올렛 : [미우라 리키](https://ko.wikipedia.org/wiki/미우라_리키 "wikilink")
+  - 히사츠 켄/게키 쵸퍼 : [소타로](https://ko.wikipedia.org/wiki/소타로 "wikilink")
+  - 리오 : 나카시마 카즈키
+  - 메레 : 코바야시 유지
+
+## 한국판 더빙 출연
+
+  - 마하(엔진 레드)/후카미 고우(와일드 바이올렛) : [변현우](https://ko.wikipedia.org/wiki/변현우 "wikilink")
+  - 렌/엔진 블루 : [정재헌](https://ko.wikipedia.org/wiki/정재헌 "wikilink")
+  - 써니/엔진 옐로 : [박지윤](https://ko.wikipedia.org/wiki/박지윤_\(성우\) "wikilink")
+  - 죠/엔진 그린 : [엄상현](https://ko.wikipedia.org/wiki/엄상현 "wikilink")
+  - 알렉스/엔진 블랙 : [사성웅](https://ko.wikipedia.org/wiki/사성웅 "wikilink")
+  - 히로/엔진 골드 : [신용우](https://ko.wikipedia.org/wiki/신용우 "wikilink")
+  - 미우/엔진 실버 : [서유리](https://ko.wikipedia.org/wiki/서유리 "wikilink")
+  - 칸도 쟝/와일드 레드 : [홍범기](https://ko.wikipedia.org/wiki/홍범기 "wikilink")
+  - 우자키 란/와일드 옐로 : [윤미나](https://ko.wikipedia.org/wiki/윤미나 "wikilink")
+  - 후카미 레츠/와일드 블루 : [전광주](https://ko.wikipedia.org/wiki/전광주 "wikilink")
+  - 히사츠 켄 /와일드 라이노 : [김기흥](https://ko.wikipedia.org/wiki/김기흥 "wikilink")
+  - 리오/와일드 블랙, 마수터 샤푸 : [양석정](https://ko.wikipedia.org/wiki/양석정 "wikilink")
+  - 메레(와일드 그린) : [이지현](https://ko.wikipedia.org/wiki/이지현_\(성우\) "wikilink")
+
+## 외부 링크
+
+  - [공식 홈페이지](http://www.tv-asahi.co.jp/go-on-vs-geki/)
+
+  - [토에이 비디오 측 사이트](http://www.toei-video.co.jp/data/go-on/)
+
+[분류:2009년 작품](https://ko.wikipedia.org/wiki/분류:2009년_작품 "wikilink") [분류:일본의 영화 작품](https://ko.wikipedia.org/wiki/분류:일본의_영화_작품 "wikilink") [분류:슈퍼 전대 시리즈](https://ko.wikipedia.org/wiki/분류:슈퍼_전대_시리즈 "wikilink") [분류:슈퍼 전대 시리즈의 크로스 오버 작품](https://ko.wikipedia.org/wiki/분류:슈퍼_전대_시리즈의_크로스_오버_작품 "wikilink")

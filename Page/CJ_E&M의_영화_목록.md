@@ -1,0 +1,5321 @@
+> This article is converted from Wikipedia: [CJ E\&M  ](https://ko.wikipedia.org/wiki/CJ_E\&M__).
+
+
+**[CJ ENM](https://ko.wikipedia.org/wiki/CJ_ENM "wikilink")**산하 **[CJ E\&M](https://ko.wikipedia.org/wiki/CJ_E&M "wikilink")**에 소속된 부서에서 집행한 영화 목록이다. 단, 미국 및 일본 법인이 배급한 영화는 이 문서에 기재하지 않았다.
+
+## 영화사업본부
+
+  - 참여 영화에서 CJ 엔터테인먼트, 필라멘트 픽처스 등의 법인명을 사용하고 있으며, 제일제당공업(현 [씨제이 주식회사](../Page/CJ_\(기업\).md "wikilink"))의 사업부였던 시기와 독립법인이었던 시기, 그리고 자회사인 필라멘트 픽처스 배급 영화를 함께 합산해 기재한것이다.
+
+#### 1996년
+
+| 국가  | 제목                                                            | 개봉일        | 종류                       | 담당   | 자회사/레이블       |
+| --- | ------------------------------------------------------------- | ---------- | ------------------------ | ---- | ------------- |
+| 한국  | 《[아기공룡 둘리: 얼음별 대모험](../Page/아기공룡_둘리_-_얼음별_대모험.md "wikilink")》 | 1996.7.24  | 애니메이션 <small>극장판</small> | 배급협력 | 제이콤           |
+| 영국  | 《[비밀과 거짓말](../Page/비밀과_거짓말_\(영화\).md "wikilink")》             | 1996.9.21  | 실사                       | 제공   | 제일제당 CJ엔터테인먼트 |
+| 프랑스 | 《[제8요일](https://ko.wikipedia.org/wiki/제8요일 "wikilink")》       | 1996.10.26 | 실사                       | 공동제공 | 제일제당 CJ엔터테인먼트 |
+|     |                                                               |            |                          |      |               |
+
+#### 1997년
+
+<table>
+<thead>
+<tr class="header">
+<th><p>국가</p></th>
+<th><p>제목</p></th>
+<th><p>개봉일</p></th>
+<th><p>종류</p></th>
+<th><p>담당</p></th>
+<th><p>자회사/레이블</p></th>
+<th><p>제휴</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/인샬라_(1997년_영화)" title="wikilink">인샬라</a>》</p></td>
+<td><p>1997.1.18</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급<br />
+제작</p></td>
+<td><p>제일제당 CJ엔터테인먼트<br />
+제이콤</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/샤인_(영화)" title="wikilink">샤인</a>》</p></td>
+<td><p>1997.1.25</p></td>
+<td><p>실사</p></td>
+<td><p>공동제공</p></td>
+<td><p>제일제당 CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/바리케이드_(영화).md" title="wikilink">바리케이드</a>》</p></td>
+<td><p>1997.5.10</p></td>
+<td><p>실사</p></td>
+<td><p>제작<br />
+배급</p></td>
+<td><p>제이콤<br />
+제일제당 CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/로미오_이즈_블리딩" title="wikilink">로미오 이즈 블리딩</a>》</p></td>
+<td><p>제공</p></td>
+<td><p>제일제당 CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/산부인과_(영화)" title="wikilink">산부인과</a>》</p></td>
+<td><p>1997.5.31</p></td>
+<td><p>실사</p></td>
+<td><p>제작<br />
+배급</p></td>
+<td><p>제이콤<br />
+제일제당 CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>영국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/아기_자기_파파" title="wikilink">아기,자기 파파</a>》</p></td>
+<td><p>1997.6.28</p></td>
+<td><p>실사</p></td>
+<td><p>제공</p></td>
+<td><p>제일제당 CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/마이티_아프로디테" title="wikilink">마이티 아프로디테</a>》</p></td>
+<td><p>1997.9.13</p></td>
+<td><p>실사</p></td>
+<td><p>제공</p></td>
+<td><p>제일제당 CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/큰_도둑_작은_도둑" title="wikilink">큰 도둑 작은 도둑</a>》</p></td>
+<td><p>1997.9.27</p></td>
+<td><p>실사</p></td>
+<td><p>제공</p></td>
+<td><p>제일제당 CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>중국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/풍월" title="wikilink">풍월</a>》</p></td>
+<td><p>1997.10.3</p></td>
+<td><p>실사</p></td>
+<td><p>제공</p></td>
+<td><p>제일제당 CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/억수탕" title="wikilink">억수탕</a>》</p></td>
+<td><p>1997.10.18</p></td>
+<td><p>실사</p></td>
+<td><p>제작<br />
+배급</p></td>
+<td><p>제이콤<br />
+제일제당 CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/피스메이커" title="wikilink">피스메이커</a>》</p></td>
+<td><p>1997.11.8</p></td>
+<td><p>실사</p></td>
+<td><p>수입<br />
+배급</p></td>
+<td><p>제이콤<br />
+제일제당 CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/드림웍스" title="wikilink">드림웍스</a></p></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/라스트_도그맨" title="wikilink">라스트 도그맨</a>》</p></td>
+<td><p>1997.12.13</p></td>
+<td><p>실사</p></td>
+<td><p>제공</p></td>
+<td><p>제일제당 CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>영국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/프랭키_스타라이트" title="wikilink">프랭키 스타라이트</a>》</p></td>
+<td><p>1997.12.20</p></td>
+<td><p>실사</p></td>
+<td><p>제공</p></td>
+<td><p>제일제당 CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### 1998년
+
+<table>
+<thead>
+<tr class="header">
+<th><p>국가</p></th>
+<th><p>제목</p></th>
+<th><p>개봉일</p></th>
+<th><p>종류</p></th>
+<th><p>담당</p></th>
+<th><p>자회사/레이블</p></th>
+<th><p>제휴</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>프랑스</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/가베_(영화)" title="wikilink">가베</a>》</p></td>
+<td><p>1998.1.1</p></td>
+<td><p>실사</p></td>
+<td><p>제공</p></td>
+<td><p>제일제당 CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="../Page/마우스_헌트.md" title="wikilink">마우스 헌트</a>》</p></td>
+<td><p>1998.1.10</p></td>
+<td><p>실사</p></td>
+<td><p>수입<br />
+배급</p></td>
+<td><p>제이콤<br />
+제일제당 CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/드림웍스" title="wikilink">드림웍스</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/아미스타드" title="wikilink">아미스타드</a>》</p></td>
+<td><p>1998.2.14</p></td>
+<td><p>실사</p></td>
+<td><p>수입<br />
+배급</p></td>
+<td><p>제이콤<br />
+제일제당 CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/드림웍스" title="wikilink">드림웍스</a></p></td>
+</tr>
+<tr class="even">
+<td><p>영국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/하드_맨" title="wikilink">하드 맨</a>》</p></td>
+<td><p>1998.3.21</p></td>
+<td><p>실사</p></td>
+<td><p>수입<br />
+배급</p></td>
+<td><p>제이콤<br />
+제일제당 CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/로드_투_웰빌" title="wikilink">로드 투 웰빌</a>》</p></td>
+<td><p>1998.4.18</p></td>
+<td><p>실사</p></td>
+<td><p>수입<br />
+배급</p></td>
+<td><p>제이콤<br />
+제일제당 CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/딥_임팩트_(영화)" title="wikilink">딥 임팩트</a>》</p></td>
+<td><p>1998.5.16</p></td>
+<td><p>실사</p></td>
+<td><p>수입<br />
+배급</p></td>
+<td><p>제이콤<br />
+제일제당 CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/드림웍스" title="wikilink">드림웍스</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>프랑스</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/여름_이야기" title="wikilink">여름 이야기</a>》</p></td>
+<td><p>1998.6.13</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>제일제당 CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>영국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/블루_쥬스" title="wikilink">블루 쥬스</a>》</p></td>
+<td><p>1998.6.20</p></td>
+<td><p>실사</p></td>
+<td><p>제공</p></td>
+<td><p>제일제당 CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/폴리_(영화)" title="wikilink">폴리</a>》</p></td>
+<td><p>1998.8.8</p></td>
+<td><p>실사</p></td>
+<td><p>수입<br />
+배급</p></td>
+<td><p>제이콤<br />
+제일제당 CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/드림웍스" title="wikilink">드림웍스</a></p></td>
+</tr>
+<tr class="even">
+<td><p>프랑스</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/파리의_실락원" title="wikilink">빠리의 실락원</a>》</p></td>
+<td><p>1998.8.22</p></td>
+<td><p>실사</p></td>
+<td><p>수입<br />
+배급</p></td>
+<td><p>제이콤<br />
+제일제당 CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>영국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/십이야_(1996년_영화)" title="wikilink">십이야</a>》</p></td>
+<td><p>1998.9.26</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>제일제당 CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/키스할까요?" title="wikilink">키스할까요?</a>》</p></td>
+<td><p>1998.10.3</p></td>
+<td><p>실사</p></td>
+<td><p>공동제공</p></td>
+<td><p>제일제당 CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/개미_(영화)" title="wikilink">개미</a>》</p></td>
+<td><p>1998.11.7</p></td>
+<td><p>애니메이션</p></td>
+<td><p>수입<br />
+배급</p></td>
+<td><p>제이콤<br />
+제일제당 CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/드림웍스" title="wikilink">드림웍스</a></p></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/아이스_스톰" title="wikilink">아이스 스톰</a>》</p></td>
+<td><p>1998.11.28</p></td>
+<td><p>실사</p></td>
+<td><p>수입<br />
+배급</p></td>
+<td><p>제이콤<br />
+제일제당 CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/이집트_왕자" title="wikilink">이집트 왕자</a>》</p></td>
+<td><p>1998.12.19</p></td>
+<td><p>애니메이션</p></td>
+<td><p>수입<br />
+배급</p></td>
+<td><p>제이콤<br />
+제일제당 CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/드림웍스" title="wikilink">드림웍스</a></p></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/해가_서쪽에서_뜬다면" title="wikilink">해가 서쪽에서 뜬다면</a>》</p></td>
+<td><p>실사</p></td>
+<td><p>공동제공</p></td>
+<td><p>제일제당 CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### 1999년
+
+<table>
+<thead>
+<tr class="header">
+<th><p>국가</p></th>
+<th><p>제목</p></th>
+<th><p>개봉일</p></th>
+<th><p>종류</p></th>
+<th><p>담당</p></th>
+<th><p>자회사/레이블</p></th>
+<th><p>제휴</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/인_드림스" title="wikilink">인 드림스</a>》</p></td>
+<td><p>1999.4.17</p></td>
+<td><p>실사</p></td>
+<td><p>수입<br />
+배급</p></td>
+<td><p>제이콤<br />
+제일제당 CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/드림웍스" title="wikilink">드림웍스</a></p></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/포스_오브_네이처" title="wikilink">포스 오브 네이처</a>》</p></td>
+<td><p>1999.5.22</p></td>
+<td><p>실사</p></td>
+<td><p>수입<br />
+배급</p></td>
+<td><p>제이콤<br />
+제일제당 CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/드림웍스" title="wikilink">드림웍스</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/스몰_솔저" title="wikilink">스몰 솔져</a>》</p></td>
+<td><p>1999.6.12</p></td>
+<td><p>실사</p></td>
+<td><p>수입<br />
+배급</p></td>
+<td><p>제이콤<br />
+제일제당 CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/드림웍스" title="wikilink">드림웍스</a></p></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/질주_(1999년_영화).md" title="wikilink">질주</a>》</p></td>
+<td><p>1999.8.28</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>제일제당 CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/더_헌팅_(1999년_영화)" title="wikilink">더 헌팅</a>》</p></td>
+<td><p>1999.9.18</p></td>
+<td><p>실사</p></td>
+<td><p>수입<br />
+배급</p></td>
+<td><p>제이콤<br />
+제일제당 CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/드림웍스" title="wikilink">드림웍스</a></p></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/러브_레터_(1999년_영화)" title="wikilink">러브 레터</a>》</p></td>
+<td><p>1999.10.16</p></td>
+<td><p>실사</p></td>
+<td><p>수입<br />
+배급</p></td>
+<td><p>제이콤<br />
+제일제당 CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/드림웍스" title="wikilink">드림웍스</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/해피엔드_(영화)" title="wikilink">해피엔드</a>》</p></td>
+<td><p>1999.12.11</p></td>
+<td><p>실사</p></td>
+<td><p>제공</p></td>
+<td><p>제일제당 CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### 2000년
+
+| 국가  | 제목                                                                        | 개봉일        | 종류    | 담당     | 레이블           | 제휴                                                    |
+| --- | ------------------------------------------------------------------------- | ---------- | ----- | ------ | ------------- | ----------------------------------------------------- |
+| 한국  | 《[행복한 장의사](../Page/행복한_장의사.md "wikilink")》                                | 2000.1.8   | 실사    | 제공     | 제일제당 CJ엔터테인먼트 |                                                       |
+| 한국  | 《[춘향뎐](https://ko.wikipedia.org/wiki/춘향뎐 "wikilink")》                     | 2000.1.29  | 실사    | 공동제공   | 제일제당 CJ엔터테인먼트 |                                                       |
+| 미국  | 《[아메리칸 뷰티](https://ko.wikipedia.org/wiki/아메리칸_뷰티 "wikilink")》             | 2000.2.26  | 실사    | 수입, 배급 | 제일제당 CJ엔터테인먼트 | [드림웍스](https://ko.wikipedia.org/wiki/드림웍스 "wikilink") |
+| 미국  | 《[히 갓 게임](https://ko.wikipedia.org/wiki/히_갓_게임 "wikilink")》               | 2000.3.25  | 실사    | 배급     | 제일제당 CJ엔터테인먼트 |                                                       |
+| 미국  | 《[헌티드 힐](https://ko.wikipedia.org/wiki/헌티드_힐_\(1999년_영화\) "wikilink")》    | 2000.4.8   | 실사    | 배급     | 제일제당 CJ엔터테인먼트 |                                                       |
+| 한국  | 《[섬](https://ko.wikipedia.org/wiki/섬_\(2000년_영화\) "wikilink")》            | 2000.4.22  | 실사    | 제공     | 제일제당 CJ엔터테인먼트 |                                                       |
+| 미국  | 《[갤럭시 퀘스트](https://ko.wikipedia.org/wiki/갤럭시_퀘스트 "wikilink")》             | 2000.4.29  | 실사    | 수입, 배급 | 제일제당 CJ엔터테인먼트 | [드림웍스](https://ko.wikipedia.org/wiki/드림웍스 "wikilink") |
+| 한국  | 《[킬리만자로](https://ko.wikipedia.org/wiki/킬리만자로_\(영화\) "wikilink")》          | 2000.5.20  | 실사    | 제공     | CJ엔터테인먼트      |                                                       |
+| 미국  | 《[글래디에이터](https://ko.wikipedia.org/wiki/글래디에이터_\(2000년_영화\) "wikilink")》  | 2000.6.3   | 실사    | 수입, 배급 | CJ엔터테인먼트      | [드림웍스](https://ko.wikipedia.org/wiki/드림웍스 "wikilink") |
+| 일본  | 《[춤추는 대수사선](https://ko.wikipedia.org/wiki/춤추는_대수사선_THE_MOVIE "wikilink")》 | 2000.7.22  | 실사    | 배급     | CJ엔터테인먼트      |                                                       |
+| 미국  | 《[엘도라도](https://ko.wikipedia.org/wiki/엘도라도_\(2000년_영화\) "wikilink")》      | 2000.8.12  | 애니메이션 | 수입, 배급 | CJ엔터테인먼트      | [드림웍스](https://ko.wikipedia.org/wiki/드림웍스 "wikilink") |
+| 한국  | 《[공동경비구역 JSA](https://ko.wikipedia.org/wiki/공동경비구역_JSA "wikilink")》       | 2000.9.9   | 실사    | 제공     | CJ엔터테인먼트      |                                                       |
+| 미국  | 《[프리 머니](https://ko.wikipedia.org/wiki/프리_머니 "wikilink")》                 | 2000.9.23  | 실사    | 배급     | CJ엔터테인먼트      |                                                       |
+| 프랑스 | 《[피델리티](https://ko.wikipedia.org/wiki/피델리티 "wikilink")》                   | 2000.9.30  | 실사    | 배급     | CJ엔터테인먼트      |                                                       |
+| 홍콩  | 《[동경공략](../Page/동경공략.md "wikilink")》                                      | 2000.10.14 | 실사    | 배급     | CJ엔터테인먼트      |                                                       |
+| 미국  | 《[로드 트립](https://ko.wikipedia.org/wiki/로드_트립 "wikilink")》                 | 2000.10.28 | 실사    | 수입, 배급 | CJ엔터테인먼트      | [드림웍스](https://ko.wikipedia.org/wiki/드림웍스 "wikilink") |
+| 한국  | 《[단적비연수](https://ko.wikipedia.org/wiki/단적비연수 "wikilink")》                 | 2000.11.11 | 실사    | 제공     | CJ엔터테인먼트      |                                                       |
+| 미국  | 《[치킨 런](https://ko.wikipedia.org/wiki/치킨_런 "wikilink")》                   | 2000.12.16 | 애니메이션 | 수입, 배급 | CJ엔터테인먼트      | [드림웍스](https://ko.wikipedia.org/wiki/드림웍스 "wikilink") |
+| 한국  | 《[자카르타](../Page/자카르타_\(영화\).md "wikilink")》                               | 2000.12.30 | 실사    | 제공     | CJ엔터테인먼트      |                                                       |
+|     |                                                                           |            |       |        |               |                                                       |
+
+#### 2001년
+
+| 국가  | 제목                                                                    | 개봉일        | 종류    | 담당     | 레이블      | 제휴                                                    |
+| --- | --------------------------------------------------------------------- | ---------- | ----- | ------ | -------- | ----------------------------------------------------- |
+| 미국  | 《[미트 페어런츠](../Page/미트_페어런츠.md "wikilink")》                            | 2001.1.13  | 실사    | 수입, 배급 | CJ엔터테인먼트 | [드림웍스](https://ko.wikipedia.org/wiki/드림웍스 "wikilink") |
+| 한국  | 《[눈물](../Page/눈물_\(영화\).md "wikilink")》                               | 2001.1.20  | 실사    | 배급     | CJ엔터테인먼트 |                                                       |
+| 미국  | 《[캐스트 어웨이](https://ko.wikipedia.org/wiki/캐스트_어웨이 "wikilink")》         | 2001.2.3   | 실사    | 수입, 배급 | CJ엔터테인먼트 | [드림웍스](https://ko.wikipedia.org/wiki/드림웍스 "wikilink") |
+| 한국  | 《[그녀에게 잠들다](../Page/그녀에게_잠들다.md "wikilink")》                          | 2001.3.17  | 실사    | 배급     | CJ엔터테인먼트 |                                                       |
+| 미국  | 《[던전 & 드래곤](../Page/던전_드래곤_\(영화\).md "wikilink")》                     | 2001.4.7   | 실사    | 배급     | CJ엔터테인먼트 |                                                       |
+| 미국  | 《[멕시칸](../Page/멕시칸_\(영화\).md "wikilink")》                             | 2001.4.28  | 실사    | 수입, 배급 | CJ엔터테인먼트 | [드림웍스](https://ko.wikipedia.org/wiki/드림웍스 "wikilink") |
+| 한국  | 《[교도소 월드컵](../Page/교도소_월드컵.md "wikilink")》                            | 2001.5.19  | 실사    | 제공     | CJ엔터테인먼트 |                                                       |
+| 미국  | 《[15분](../Page/15분.md "wikilink")》                                    | 2001.6.9   | 실사    | 배급     | CJ엔터테인먼트 |                                                       |
+| 미국  | 《[오\! 그레이스](https://ko.wikipedia.org/wiki/오_그레이스 "wikilink")》         | 2001.6.23  | 실사    | 배급     | CJ엔터테인먼트 |                                                       |
+| 미국  | 《[슈렉](https://ko.wikipedia.org/wiki/슈렉 "wikilink")》                   | 2001.7.6   | 애니메이션 | 수입, 배급 | CJ엔터테인먼트 | [드림웍스](https://ko.wikipedia.org/wiki/드림웍스 "wikilink") |
+| 프랑스 | 《[늑대의 후예들](https://ko.wikipedia.org/wiki/늑대의_후예들 "wikilink")》         | 2001.8.10  | 실사    | 배급     | CJ엔터테인먼트 |                                                       |
+| 한국  | 《[무사](https://ko.wikipedia.org/wiki/무사_\(2001년_대한민국_영화\) "wikilink")》 | 2001.9.7   | 실사    | 제공     | CJ엔터테인먼트 |                                                       |
+| 한국  | 《[와이키키 브라더스](https://ko.wikipedia.org/wiki/와이키키_브라더스 "wikilink")》     | 2001.10.27 | 실사    | 제공     | CJ엔터테인먼트 |                                                       |
+| 프랑스 | 《[아들의 방](https://ko.wikipedia.org/wiki/아들의_방 "wikilink")》             | 2001.11.2  | 실사    | 배급     | CJ엔터테인먼트 |                                                       |
+| 미국  | 《[머스킷티어](https://ko.wikipedia.org/wiki/머스킷티어_\(영화\) "wikilink")》      | 2001.11.16 | 실사    | 배급     | CJ엔터테인먼트 |                                                       |
+| 미국  | 《[무서운 영화 2](https://ko.wikipedia.org/wiki/무서운_영화_2 "wikilink")》       | 2001.11.30 | 실사    | 배급     | CJ엔터테인먼트 |                                                       |
+| 한국  | 《[두사부일체](https://ko.wikipedia.org/wiki/두사부일체 "wikilink")》             | 2001.12.14 | 실사    | 배급     | CJ엔터테인먼트 |                                                       |
+| 프랑스 | 《[비독](https://ko.wikipedia.org/wiki/비독 "wikilink")》                   | 2001.12.28 | 실사    | 배급     | CJ엔터테인먼트 |                                                       |
+|     |                                                                       |            |       |        |          |                                                       |
+
+#### 2002년
+
+| 국가 | 제목                                                                           | 개봉일        | 종류    | 담당     | 레이블      | 제휴                                                    |
+| -- | ---------------------------------------------------------------------------- | ---------- | ----- | ------ | -------- | ----------------------------------------------------- |
+| 한국 | 《[나쁜 남자](../Page/나쁜_남자_\(영화\).md "wikilink")》                                | 2002.1.11  | 실사    | 배급     | CJ엔터테인먼트 |                                                       |
+| 미국 | 《[라스트 캐슬](../Page/라스트_캐슬.md "wikilink")》                                     | 2002.1.25  | 실사    | 수입, 배급 | CJ엔터테인먼트 | [드림웍스](https://ko.wikipedia.org/wiki/드림웍스 "wikilink") |
+| 한국 | 《[2009 로스트 메모리즈](https://ko.wikipedia.org/wiki/2009_로스트_메모리즈 "wikilink")》    | 2002.2.1   | 실사    | 배급     | CJ엔터테인먼트 |                                                       |
+| 미국 | 《[뷰티풀 마인드](https://ko.wikipedia.org/wiki/뷰티풀_마인드_\(영화\) "wikilink")》         | 2002.2.22  | 실사    | 수입, 배급 | CJ엔터테인먼트 | [드림웍스](https://ko.wikipedia.org/wiki/드림웍스 "wikilink") |
+| 한국 | 《[버스, 정류장](https://ko.wikipedia.org/wiki/버스,_정류장 "wikilink")》                | 2002.3.8   | 실사    | 제공     | CJ엔터테인먼트 |                                                       |
+| 한국 | 《[복수는 나의 것](https://ko.wikipedia.org/wiki/복수는_나의_것_\(2002년_영화\) "wikilink")》 | 2002.3.29  | 실사    | 제공     | CJ엔터테인먼트 |                                                       |
+| 한국 | 《[집으로...](https://ko.wikipedia.org/wiki/집으로... "wikilink")》                  | 2002.4.5   | 실사    | 배급     | CJ엔터테인먼트 |                                                       |
+| 미국 | 《[모스맨](https://ko.wikipedia.org/wiki/모스맨_\(2002년_영화\) "wikilink")》           | 2002.4.19  | 실사    | 배급     | CJ엔터테인먼트 |                                                       |
+| 미국 | 《[위 워 솔저스](https://ko.wikipedia.org/wiki/위_워_솔저스 "wikilink")》                | 2002.5.3   | 실사    | 배급     | CJ엔터테인먼트 |                                                       |
+| 한국 | 《[후 아 유?](https://ko.wikipedia.org/wiki/후_아_유_\(영화\) "wikilink")》            | 2002.5.24  | 실사    | 제공     | CJ엔터테인먼트 |                                                       |
+| 미국 | 《[밀리언 달러 호텔](../Page/밀리언_달러_호텔.md "wikilink")》                               | 2002.5.31  | 실사    | 배급     | CJ엔터테인먼트 |                                                       |
+| 한국 | 《[예스터데이](../Page/예스터데이_\(2002년_영화\).md "wikilink")》                          | 2002.6.13  | 실사    | 제공     | CJ엔터테인먼트 |                                                       |
+| 미국 | 《[스피릿](https://ko.wikipedia.org/wiki/스피릿_\(2002년_영화\) "wikilink")》           | 2002.7.5   | 애니메이션 | 수입, 배급 | CJ엔터테인먼트 | [드림웍스](https://ko.wikipedia.org/wiki/드림웍스 "wikilink") |
+| 한국 | 《[아 유 레디?](../Page/아_유_레디?.md "wikilink")》                                   | 2002.7.12  | 실사    | 배급     | CJ엔터테인먼트 |                                                       |
+| 영국 | 《[피어닷컴](https://ko.wikipedia.org/wiki/피어닷컴 "wikilink")》                      | 2002.8.9   | 실사    | 배급     | CJ엔터테인먼트 |                                                       |
+| 한국 | 《[오아시스](https://ko.wikipedia.org/wiki/오아시스_\(영화\) "wikilink")》               | 2002.8.15  | 실사    | 배급     | CJ엔터테인먼트 |                                                       |
+| 한국 | 《[쓰리](https://ko.wikipedia.org/wiki/쓰리_\(2002년_영화\) "wikilink")》             | 2002.8.23  | 실사    | 제공, 배급 | CJ엔터테인먼트 |                                                       |
+| 한국 | 《[성냥팔이 소녀의 재림](../Page/성냥팔이_소녀의_재림.md "wikilink")》                           | 2002.9.13  | 실사    | 배급     | CJ엔터테인먼트 |                                                       |
+| 독일 | 《[타투](https://ko.wikipedia.org/wiki/타투_\(2002년_영화\) "wikilink")》             | 2002.9.27  | 실사    | 배급     | CJ엔터테인먼트 |                                                       |
+| 한국 | 《[YMCA 야구단](https://ko.wikipedia.org/wiki/YMCA_야구단 "wikilink")》              | 2002.10.3  | 실사    | 제공, 배급 | CJ엔터테인먼트 |                                                       |
+| 한국 | 《[2424](../Page/2424.md "wikilink")》                                         | 2002.10.18 | 실사    | 배급     | CJ엔터테인먼트 |                                                       |
+| 미국 | 《[턱시도](https://ko.wikipedia.org/wiki/턱시도_\(영화\) "wikilink")》                 | 2002.11.1  | 실사    | 수입, 배급 | CJ엔터테인먼트 | [드림웍스](https://ko.wikipedia.org/wiki/드림웍스 "wikilink") |
+| 한국 | 《[하얀 방](../Page/하얀_방.md "wikilink")》                                         | 2002.11.15 | 실사    | 제공     | CJ엔터테인먼트 |                                                       |
+| 미국 | 《[스틸](https://ko.wikipedia.org/wiki/스틸_\(2002년_영화\) "wikilink")》             | 2002.11.22 | 실사    | 배급     | CJ엔터테인먼트 |                                                       |
+| 한국 | 《[피아노 치는 대통령](https://ko.wikipedia.org/wiki/피아노_치는_대통령 "wikilink")》          | 2002.12.5  | 실사    | 배급     | CJ엔터테인먼트 |                                                       |
+| 미국 | 《[익스트림 OPS](https://ko.wikipedia.org/wiki/익스트림_OPS "wikilink")》              | 2002.12.19 | 실사    | 배급     | CJ엔터테인먼트 |                                                       |
+|    |                                                                              |            |       |        |          |                                                       |
+
+#### 2003년
+
+| 국가  | 제목                                                                               | 개봉일        | 종류       | 담당                                                    | 레이블      | 제휴                                                    |
+| --- | -------------------------------------------------------------------------------- | ---------- | -------- | ----------------------------------------------------- | -------- | ----------------------------------------------------- |
+| 미국  | 《[링](https://ko.wikipedia.org/wiki/링_\(2002년_영화\) "wikilink")》                   | 2003.1.10  | 실사       | 수입, 배급                                                | CJ엔터테인먼트 | [드림웍스](https://ko.wikipedia.org/wiki/드림웍스 "wikilink") |
+| 미국  | 《[캐치 미 이프 유 캔](https://ko.wikipedia.org/wiki/캐치_미_이프_유_캔 "wikilink")》            | 2003.1.24  | 실사       | 수입, 배급                                                | CJ엔터테인먼트 | [드림웍스](https://ko.wikipedia.org/wiki/드림웍스 "wikilink") |
+| 한국  | 《[동갑내기 과외하기](https://ko.wikipedia.org/wiki/동갑내기_과외하기 "wikilink")》                | 2003.2.7   | 실사       | 제공                                                    | CJ엔터테인먼트 |                                                       |
+| 미국  | 《[언디스퓨티드](https://ko.wikipedia.org/wiki/언디스퓨티드 "wikilink")》                      | 2003.3.7   | 실사       | 배급                                                    | CJ엔터테인먼트 |                                                       |
+| 한국  | 《[지구를 지켜라\!](https://ko.wikipedia.org/wiki/지구를_지켜라! "wikilink")》                 | 2003.4.4   | 실사       | 제공, 배급                                                | CJ엔터테인먼트 |                                                       |
+| 한국  | 《[질투는 나의 힘](../Page/질투는_나의_힘.md "wikilink")》                                     | 2003.4.18  | 실사       | 배급                                                    | CJ엔터테인먼트 |                                                       |
+| 한국  | 《[살인의 추억](https://ko.wikipedia.org/wiki/살인의_추억 "wikilink")》                      | 2003.4.25  | 실사       | 배급                                                    | CJ엔터테인먼트 |                                                       |
+| 미국  | 《[올드 스쿨](https://ko.wikipedia.org/wiki/올드_스쿨_\(영화\) "wikilink")》                 | 수입, 배급     | CJ엔터테인먼트 | [드림웍스](https://ko.wikipedia.org/wiki/드림웍스 "wikilink") |          |                                                       |
+| 미국  | 《[나크](https://ko.wikipedia.org/wiki/나크_\(영화\) "wikilink")》                       | 2003.6.20  | 실사       | 배급                                                    | CJ엔터테인먼트 |                                                       |
+| 미국  | 《[신밧드: 7대양의 전설](https://ko.wikipedia.org/wiki/신밧드:_7대양의_전설 "wikilink")》          | 2003.7.11  | 애니메이션    | 수입, 배급                                                | CJ엔터테인먼트 | [드림웍스](https://ko.wikipedia.org/wiki/드림웍스 "wikilink") |
+| 미국  | 《[컨페션](../Page/컨페션_\(2002년_영화\).md "wikilink")》                                  | 2003.7.25  | 실사       | 배급                                                    | CJ엔터테인먼트 |                                                       |
+| 한국  | 《[4인용 식탁](https://ko.wikipedia.org/wiki/4인용_식탁 "wikilink")》                      | 2003.8.8   | 실사       | 제공                                                    | CJ엔터테인먼트 |                                                       |
+| 프랑스 | 《[네스트](https://ko.wikipedia.org/wiki/네스트_\(2002년_영화\) "wikilink")》               | 2003.8.14  | 실사       | 배급                                                    | CJ엔터테인먼트 |                                                       |
+| 미국  | 《[데드 캠프](https://ko.wikipedia.org/wiki/데드_캠프 "wikilink")》                        | 2003.8.22  | 실사       | 배급                                                    | CJ엔터테인먼트 |                                                       |
+| 한국  | 《[조폭 마누라 2: 돌아온 전설](https://ko.wikipedia.org/wiki/조폭_마누라_2_-_돌아온_전설 "wikilink")》 | 2003.9.5   | 실사       | 제공                                                    | CJ엔터테인먼트 |                                                       |
+| 미국  | 《[방탄승](https://ko.wikipedia.org/wiki/방탄승 "wikilink")》                            | 2003.9.19  | 실사       | 배급                                                    | CJ엔터테인먼트 |                                                       |
+| 한국  | 《[스캔들: 조선남녀상열지사](https://ko.wikipedia.org/wiki/스캔들:_조선남녀상열지사 "wikilink")》        | 2003.10.2  | 실사       | 배급                                                    | CJ엔터테인먼트 |                                                       |
+| 미국  | 《[버스데이 걸](https://ko.wikipedia.org/wiki/버스데이_걸 "wikilink")》                      | 2003.10.10 | 실사       | 배급                                                    | CJ엔터테인먼트 |                                                       |
+| 한국  | 《[위대한 유산](../Page/위대한_유산_\(2003년_영화\).md "wikilink")》                            | 2003.10.24 | 실사       | 제공, 제작                                                | CJ엔터테인먼트 |                                                       |
+| 미국  | 《[킬 빌](https://ko.wikipedia.org/wiki/킬_빌 "wikilink")》                            | 2003.11.21 | 실사       | 배급                                                    | CJ엔터테인먼트 |                                                       |
+| 한국  | 《[낭만자객](../Page/낭만자객.md "wikilink")》                                             | 2003.12.5  | 실사       | 제공, 배급                                                | CJ엔터테인먼트 |                                                       |
+| 미국  | 《[반지의 제왕: 왕의 귀환](https://ko.wikipedia.org/wiki/반지의_제왕:_왕의_귀환 "wikilink")》        | 2003.12.17 | 실사       | 배급                                                    | CJ엔터테인먼트 |                                                       |
+| 미국  | 《[더 캣](https://ko.wikipedia.org/wiki/더_캣_\(2003년_영화\) "wikilink")》               | 2003.12.31 | 실사       | 수입, 배급                                                | CJ엔터테인먼트 | [드림웍스](https://ko.wikipedia.org/wiki/드림웍스 "wikilink") |
+|     |                                                                                  |            |          |                                                       |          |                                                       |
+
+#### 2004년
+
+| 국가       | 제목                                                                              | 개봉일        | 종류    | 담당     | 레이블      | 제휴                                                    |
+| -------- | ------------------------------------------------------------------------------- | ---------- | ----- | ------ | -------- | ----------------------------------------------------- |
+| 한국       | 《[말죽거리 잔혹사](https://ko.wikipedia.org/wiki/말죽거리_잔혹사 "wikilink")》                 | 2004.1.16  | 실사    | 제공     | CJ엔터테인먼트 |                                                       |
+| 미국       | 《[페이첵](https://ko.wikipedia.org/wiki/페이첵 "wikilink")》                           | 2004.1.22  | 실사    | 수입, 배급 | CJ엔터테인먼트 | [드림웍스](https://ko.wikipedia.org/wiki/드림웍스 "wikilink") |
+| 미국       | 《[스파이 키드 3D: 게임 오버](https://ko.wikipedia.org/wiki/스파이_키드_3D:_게임_오버 "wikilink")》 | 2004.2.13  | 실사    | 배급     | CJ엔터테인먼트 |                                                       |
+| 미국       | 《[사랑도 통역이 되나요?](https://ko.wikipedia.org/wiki/사랑도_통역이_되나요? "wikilink")》         | 2004.2.20  | 실사    | 수입, 배급 | CJ엔터테인먼트 |                                                       |
+| 한국       | 《[어깨동무](https://ko.wikipedia.org/wiki/어깨동무_\(영화\) "wikilink")》                  | 2004.3.12  | 실사    | 제공     | CJ엔터테인먼트 |                                                       |
+| 미국       | 《[내 생애 최고의 데이트](https://ko.wikipedia.org/wiki/내_생애_최고의_데이트 "wikilink")》         | 2004.3.19  | 실사    | 수입, 배급 | CJ엔터테인먼트 | [드림웍스](https://ko.wikipedia.org/wiki/드림웍스 "wikilink") |
+| 한국       | 《[맹부삼천지교](https://ko.wikipedia.org/wiki/맹부삼천지교 "wikilink")》                     | 2004.3.26  | 실사    | 제공     | CJ엔터테인먼트 |                                                       |
+| 미국       | 《[저지 걸](https://ko.wikipedia.org/wiki/저지_걸 "wikilink")》                         | 2004.4.9   | 실사    | 배급     | CJ엔터테인먼트 |                                                       |
+| 한국       | 《[라이어](../Page/라이어_\(영화\).md "wikilink")》                                       | 2004.4.23  | 실사    | 배급     | CJ엔터테인먼트 |                                                       |
+| 미국       | 《[인 더 컷](https://ko.wikipedia.org/wiki/인_더_컷 "wikilink")》                       | 2004.4.30  | 실사    | 배급     | CJ엔터테인먼트 |                                                       |
+| 한국       | 《[여자는 남자의 미래다](https://ko.wikipedia.org/wiki/여자는_남자의_미래다 "wikilink")》           | 2004.5.5   | 실사    | 배급     | CJ엔터테인먼트 |                                                       |
+| 미국       | 《[킬 빌: Vol.2](https://ko.wikipedia.org/wiki/킬_빌 "wikilink")》                    | 2004.5.14  | 실사    | 배급     | CJ엔터테인먼트 |                                                       |
+| 한국       | 《[내 여자 친구를 소개합니다](https://ko.wikipedia.org/wiki/내_여자_친구를_소개합니다 "wikilink")》     | 2004.6.3   | 실사    | 배급     | CJ엔터테인먼트 |                                                       |
+| 미국       | 《[슈렉 2](https://ko.wikipedia.org/wiki/슈렉_2 "wikilink")》                         | 2004.6.18  | 애니메이션 | 수입, 배급 | CJ엔터테인먼트 | [드림웍스](https://ko.wikipedia.org/wiki/드림웍스 "wikilink") |
+| 한국       | 《[인어 공주](../Page/인어_공주_\(2004년_영화\).md "wikilink")》                             | 2004.6.30  | 실사    | 배급     | CJ엔터테인먼트 |                                                       |
+| 한국       | 《[내 남자의 로맨스](https://ko.wikipedia.org/wiki/내_남자의_로맨스 "wikilink")》               | 2004.7.16  | 실사    | 제공     | CJ엔터테인먼트 |                                                       |
+| 한국       | 《[얼굴 없는 미녀](../Page/얼굴_없는_미녀.md "wikilink")》                                    | 2004.8.6   | 실사    | 배급     | CJ엔터테인먼트 |                                                       |
+| 미국       | 《[리딕: 헬리온 최후의 빛](../Page/리딕:_헬리온_최후의_빛.md "wikilink")》                          | 2004.8.13  | 실사    | 배급     | CJ엔터테인먼트 |                                                       |
+| 한.중.일 합작 | 《[쓰리, 몬스터](https://ko.wikipedia.org/wiki/쓰리,_몬스터 "wikilink")》                   | 2004.8.20  | 실사    | 제공, 배급 | CJ엔터테인먼트 |                                                       |
+| 미국       | 《[터미널](https://ko.wikipedia.org/wiki/터미널_\(2004년_영화\) "wikilink")》              | 2004.8.27  | 실사    | 수입, 배급 | CJ엔터테인먼트 | [드림웍스](https://ko.wikipedia.org/wiki/드림웍스 "wikilink") |
+| 한국       | 《[돈 텔 파파](https://ko.wikipedia.org/wiki/돈_텔_파파 "wikilink")》                     | 2004.9.3   | 실사    | 배급     | CJ엔터테인먼트 |                                                       |
+| 한.일 합작   | 《[호텔 비너스](https://ko.wikipedia.org/wiki/호텔_비너스 "wikilink")》                     | 2004.9.10  | 실사    | 수입, 배급 | CJ엔터테인먼트 |                                                       |
+| 한국       | 《[슈퍼스타 감사용](https://ko.wikipedia.org/wiki/슈퍼스타_감사용 "wikilink")》                 | 2004.9.17  | 실사    | 제공, 배급 | CJ엔터테인먼트 |                                                       |
+| 미국       | 《[스텝포드 와이프](https://ko.wikipedia.org/wiki/스텝포드_와이프 "wikilink")》                 | 2004.10.1  | 실사    | 수입, 배급 | CJ엔터테인먼트 | [드림웍스](https://ko.wikipedia.org/wiki/드림웍스 "wikilink") |
+| 한국       | 《[우리 형](https://ko.wikipedia.org/wiki/우리_형 "wikilink")》                         | 2004.10.8  | 실사    | 제공     | CJ엔터테인먼트 |                                                       |
+| 한국       | 《[S 다이어리](https://ko.wikipedia.org/wiki/S_다이어리 "wikilink")》                     | 2004.10.22 | 실사    | 배급     | CJ엔터테인먼트 |                                                       |
+| 미국       | 《[이프 온리](https://ko.wikipedia.org/wiki/이프_온리 "wikilink")》                       | 2004.10.29 | 실사    | 배급     | CJ엔터테인먼트 |                                                       |
+| 한국       | 《[내 머리 속의 지우개](https://ko.wikipedia.org/wiki/내_머리_속의_지우개 "wikilink")》           | 2004.11.5  | 실사    | 제공     | CJ엔터테인먼트 |                                                       |
+| 한국       | 《[여선생 VS 여제자](../Page/여선생_VS_여제자.md "wikilink")》                                | 2004.11.17 | 실사    | 배급     | CJ엔터테인먼트 |                                                       |
+| 미국       | 《[노트북](../Page/노트북_\(영화\).md "wikilink")》                                       | 2004.11.26 | 실사    | 배급     | CJ엔터테인먼트 |                                                       |
+| 한국       | 《[발레교습소](../Page/발레교습소_\(영화\).md "wikilink")》                                   | 2004.12.3  | 실사    | 배급     | CJ엔터테인먼트 |                                                       |
+| 미국       | 《[오페라의 유령](../Page/오페라의_유령_\(2004년_영화\).md "wikilink")》                         | 2004.12.8  | 실사    | 배급     | CJ엔터테인먼트 |                                                       |
+| 한국       | 《[역도산](https://ko.wikipedia.org/wiki/역도산_\(영화\) "wikilink")》                    | 2004.12.15 | 실사    | 제공     | CJ엔터테인먼트 |                                                       |
+| 미국       | 《[서바이빙 크리스마스](https://ko.wikipedia.org/wiki/서바이빙_크리스마스 "wikilink")》             | 2004.12.24 | 실사    | 수입, 배급 | CJ엔터테인먼트 | [드림웍스](https://ko.wikipedia.org/wiki/드림웍스 "wikilink") |
+|          |                                                                                 |            |       |        |          |                                                       |
+
+#### 2005년
+
+| 국가  | 제목                                                                                    | 개봉일        | 종류       | 담당       | 레이블      | 제휴                                                          |
+| --- | ------------------------------------------------------------------------------------- | ---------- | -------- | -------- | -------- | ----------------------------------------------------------- |
+| 미국  | 《[샤크](https://ko.wikipedia.org/wiki/샤크_\(2004년_영화\) "wikilink")》                      | 2005.1.7   | 애니메이션    | 수입, 배급   | CJ엔터테인먼트 | [드림웍스](https://ko.wikipedia.org/wiki/드림웍스_애니메이션 "wikilink") |
+| 한국  | 《[키다리 아저씨](https://ko.wikipedia.org/wiki/키다리_아저씨_\(2005년_영화\) "wikilink")》            | 2005.1.14  | 실사       | 제공       | CJ엔터테인먼트 |                                                             |
+| 미국  | 《[레모니 스니켓의 위험한 대결](https://ko.wikipedia.org/wiki/레모니_스니켓의_위험한_대결 "wikilink")》         | 2005.1.28  | 실사       | 수입, 배급   | CJ엔터테인먼트 | [드림웍스](https://ko.wikipedia.org/wiki/드림웍스 "wikilink")       |
+| 한국  | 《[파송송 계란탁](../Page/파송송_계란탁.md "wikilink")》                                            | 2005.2.18  | 실사       | 제공       | CJ엔터테인먼트 |                                                             |
+| 한국  | 《[마파도](https://ko.wikipedia.org/wiki/마파도 "wikilink")》                                 | 2005.3.10  | 실사       | 제공       | CJ엔터테인먼트 |                                                             |
+| 한국  | 《[달콤한 인생](https://ko.wikipedia.org/wiki/달콤한_인생_\(2005년_영화\) "wikilink")》              | 2005.4.1   | 실사       | 제공, 배급   | CJ엔터테인먼트 |                                                             |
+| 미국  | 《[미트 페어런츠 2](../Page/미트_페어런츠_2.md "wikilink")》                                        | 2005.4.15  | 실사       | 수입, 배급   | CJ엔터테인먼트 | [드림웍스](https://ko.wikipedia.org/wiki/드림웍스 "wikilink")       |
+| 이란  | 《[거북이도 난다](https://ko.wikipedia.org/wiki/거북이도_난다 "wikilink")》                         | 2005.4.22  | 실사       | 수입, 배급   | CJ엔터테인먼트 |                                                             |
+| 일본  | 《[착신아리 2](https://ko.wikipedia.org/wiki/착신아리 "wikilink")》                             | 2005.4.29  | 실사       | 배급       | CJ엔터테인먼트 |                                                             |
+| 이란  | 《[밀리언즈](https://ko.wikipedia.org/wiki/밀리언즈 "wikilink")》                               | 2005.5.4   | 실사       | 배급       | CJ엔터테인먼트 |                                                             |
+| 한국  | 《[혈의 누](https://ko.wikipedia.org/wiki/혈의_누_\(영화\) "wikilink")》                        | 투자         | CJ엔터테인먼트 |          |          |                                                             |
+| 한국  | 《[연애술사](../Page/연애술사.md "wikilink")》                                                  | 2005.5.20  | 실사       | 배급       | CJ엔터테인먼트 |                                                             |
+| 한국  | 《[프락치](../Page/프락치_\(영화\).md "wikilink")》                                             | 독립/예술      | CJ엔터테인먼트 |          |          |                                                             |
+| 미국  | 《[링 2](https://ko.wikipedia.org/wiki/링_2_\(2005년_영화\) "wikilink")》                    | 2005.6.3   | 실사       | 수입, 배급   | CJ엔터테인먼트 | [드림웍스](https://ko.wikipedia.org/wiki/드림웍스 "wikilink")       |
+| 한국  | 《[연애의 목적](../Page/연애의_목적.md "wikilink")》                                              | 2005.6.10  | 실사       | 제공       | CJ엔터테인먼트 |                                                             |
+| 미국  | 《[사하라](https://ko.wikipedia.org/wiki/사하라_\(영화\) "wikilink")》                          | 2005.6.24  | 실사       | 수입, 배급   | CJ엔터테인먼트 |                                                             |
+| 태국  | 《[셔터](https://ko.wikipedia.org/wiki/셔터_\(2004년_영화\) "wikilink")》                      | 2005.6.30  | 실사       | 수입, 배급   | CJ엔터테인먼트 |                                                             |
+| 미국  | 《[마다가스카](https://ko.wikipedia.org/wiki/마다가스카 "wikilink")》                             | 2005.7.14  | 애니메이션    | 수입, 배급   | CJ엔터테인먼트 | [드림웍스](https://ko.wikipedia.org/wiki/드림웍스_애니메이션 "wikilink") |
+| 한국  | 《[여고괴담 4: 목소리](../Page/여고괴담_4:_목소리.md "wikilink")》                                    | 2005.7.15  | 실사       | 투자       | CJ엔터테인먼트 |                                                             |
+| 한국  | 《[친절한 금자씨](https://ko.wikipedia.org/wiki/친절한_금자씨 "wikilink")》                         | 2005.7.29  | 실사       | 제공       | CJ엔터테인먼트 |                                                             |
+| 한국  | 《[박수칠 때 떠나라](https://ko.wikipedia.org/wiki/박수칠_때_떠나라 "wikilink")》                     | 2005.8.11  | 실사       | 투자       | CJ엔터테인먼트 |                                                             |
+| 한국  | 《[가발](https://ko.wikipedia.org/wiki/가발_\(영화\) "wikilink")》                            | 2005.8.12  | 실사       | 제공       | CJ엔터테인먼트 |                                                             |
+| 한국  | 《[바리바리 짱](../Page/바리바리_짱.md "wikilink")》                                              | 2005.8.19  | 실사       | 배급       | CJ엔터테인먼트 |                                                             |
+| 미국  | 《[오픈 워터](https://ko.wikipedia.org/wiki/오픈_워터 "wikilink")》                             | 2005.8.26  | 실사       | 배급       | CJ엔터테인먼트 |                                                             |
+| 일본  | 《[불량공주 모모코](https://ko.wikipedia.org/wiki/불량공주_모모코 "wikilink")》                       | 2005.9.2   | 실사       | 수입, 배급   | CJ엔터테인먼트 |                                                             |
+| 미국  | 《[나이트 플라이트](https://ko.wikipedia.org/wiki/나이트_플라이트 "wikilink")》                       | 2005.9.9   | 실사       | 수입, 배급   | CJ엔터테인먼트 | [드림웍스](https://ko.wikipedia.org/wiki/드림웍스 "wikilink")       |
+| 한국  | 《[너는 내 운명](https://ko.wikipedia.org/wiki/너는_내_운명_\(영화\) "wikilink")》                  | 2005.9.23  | 실사       | 제공       | CJ엔터테인먼트 |                                                             |
+| 한국  | 《[사랑니](https://ko.wikipedia.org/wiki/사랑니_\(영화\) "wikilink")》                          | 2005.9.29  | 실사       | 투자       | CJ엔터테인먼트 |                                                             |
+| 한국  | 《[내 생애 가장 아름다운 일주일](../Page/내_생애_가장_아름다운_일주일.md "wikilink")》                          | 2005.10.7  | 실사       | 제공       | CJ엔터테인먼트 |                                                             |
+| 미국  | 《[케이브](../Page/케이브_\(영화\).md "wikilink")》                                             | 2005.10.20 | 실사       | 배급       | CJ엔터테인먼트 |                                                             |
+| 한국  | 《[오로라 공주](../Page/오로라_공주_\(영화\).md "wikilink")》                                       | 2005.10.27 | 실사       | 투자, 배급   | CJ엔터테인먼트 |                                                             |
+| 미국  | 《[월래스와 그로밋: 거대 토끼의 저주](https://ko.wikipedia.org/wiki/월리스와_그로밋:_거대_토끼의_저주 "wikilink")》 | 2005.11.4  | 애니메이션    | 수입, 배급   | CJ엔터테인먼트 | [드림웍스](https://ko.wikipedia.org/wiki/드림웍스_애니메이션 "wikilink") |
+| 한국  | 《[러브 토크](../Page/러브_토크.md "wikilink")》                                                | 2005.11.11 | 실사       | 제공       | CJ엔터테인먼트 |                                                             |
+| 한국  | 《[무영검](https://ko.wikipedia.org/wiki/무영검 "wikilink")》                                 | 2005.11.18 | 실사       | 제공       | CJ엔터테인먼트 |                                                             |
+| 스페인 | 《[레알](https://ko.wikipedia.org/wiki/레알_\(영화\) "wikilink")》                            | 2005.11.23 | 실사       | 배급       | CJ엔터테인먼트 |                                                             |
+| 미국  | 《[저스트 라이크 헤븐](https://ko.wikipedia.org/wiki/저스트_라이크_헤븐 "wikilink")》                   | 2005.12.1  | 실사       | 수입, 배급   | CJ엔터테인먼트 | [드림웍스](https://ko.wikipedia.org/wiki/드림웍스 "wikilink")       |
+| 한국  | 《[연애](../Page/연애_\(영화\).md "wikilink")》                                               | 2005.12.9  | 실사       | 제공, 배급   | CJ엔터테인먼트 |                                                             |
+| 한국  | 《[태풍](https://ko.wikipedia.org/wiki/태풍_\(영화\) "wikilink")》                            | 2005.12.14 | 실사       | 제공       | CJ엔터테인먼트 |                                                             |
+| 미국  | 《[빅 화이트](https://ko.wikipedia.org/wiki/빅_화이트 "wikilink")》                             | 2005.12.29 | 실사       | 배급       | CJ엔터테인먼트 |                                                             |
+| 한국  | 《[왕의 남자](https://ko.wikipedia.org/wiki/왕의_남자 "wikilink")》                             | 실사         | 공동제공     | CJ엔터테인먼트 |          |                                                             |
+|     |                                                                                       |            |          |          |          |                                                             |
+
+#### 2006년
+
+<table>
+<thead>
+<tr class="header">
+<th><p>국가</p></th>
+<th><p>제목</p></th>
+<th><p>개봉일</p></th>
+<th><p>종류</p></th>
+<th><p>담당</p></th>
+<th><p>레이블</p></th>
+<th><p>제휴</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/싸움의_기술" title="wikilink">싸움의 기술</a>》</p></td>
+<td><p>2006.1.5</p></td>
+<td><p>실사</p></td>
+<td><p>제공</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/다섯_개의_시선.md" title="wikilink">다섯개의 시선</a>》</p></td>
+<td><p>2006.1.12</p></td>
+<td><p>독립/예술</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/투사부일체" title="wikilink">투사부일체</a>》</p></td>
+<td><p>2006.1.19</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/투_브라더스" title="wikilink">투 브라더스</a>》</p></td>
+<td><p>2006.1.20</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/사랑을_놓치다" title="wikilink">사랑을 놓치다</a>》</p></td>
+<td><p>2006.1.26</p></td>
+<td><p>실사</p></td>
+<td><p>공동제공</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/뮌헨_(영화)" title="wikilink">뮌헨</a>》</p></td>
+<td><p>2006.2.10</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/드림웍스" title="wikilink">드림웍스</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/음란서생" title="wikilink">음란서생</a>》</p></td>
+<td><p>2006.2.23</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/손님은_왕이다" title="wikilink">손님은 왕이다</a>》</p></td>
+<td><p>공동제공</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/브로크백_마운틴" title="wikilink">브로크백 마운틴</a>》</p></td>
+<td><p>2006.3.1</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>태국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/시티즌_독" title="wikilink">시티즌 독</a>》</p></td>
+<td><p>2006.3.9</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/로망스_(2006년_영화)" title="wikilink">로망스</a>》</p></td>
+<td><p>2006.3.16</p></td>
+<td><p>실사</p></td>
+<td><p>제공</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/방과후_옥상.md" title="wikilink">방과후 옥상</a>》</p></td>
+<td><p>공동제공</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/모두들,_괜찮아요?" title="wikilink">모두들, 괜찮아요?</a>》</p></td>
+<td><p>2006.3.24</p></td>
+<td><p>실사</p></td>
+<td><p>제공</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/카리스마_탈출기" title="wikilink">카리스마 탈출기</a>》</p></td>
+<td><p>2006.3.30</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/달콤,_살벌한_연인.md" title="wikilink">달콤, 살벌한 연인</a>》</p></td>
+<td><p>2006.4.6</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/피터팬의_공식.md" title="wikilink">피터팬의 공식</a>》</p></td>
+<td><p>2006.4.13</p></td>
+<td><p>실사</p></td>
+<td><p>제공</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/매치_포인트" title="wikilink">매치 포인트</a>》</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>싱가포르</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/내_곁에_있어줘" title="wikilink">내 곁에 있어줘</a>》</p></td>
+<td><p>2006.4.27</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/도마뱀_(영화)" title="wikilink">도마뱀</a>》</p></td>
+<td><p>공동제공</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/국경의_남쪽.md" title="wikilink">국경의 남쪽</a>》</p></td>
+<td><p>2006.5.4</p></td>
+<td><p>실사</p></td>
+<td><p>제공</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>태국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/보이지_않는_물결" title="wikilink">보이지 않는 물결</a>》</p></td>
+<td><p>2006.5.11</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급, 제작</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>프랑스</p></td>
+<td><p>《<a href="../Page/안소니_짐머.md" title="wikilink">안소니 짐머</a>》</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/짝패_(영화)" title="wikilink">짝패</a>》</p></td>
+<td><p>2006.5.25</p></td>
+<td><p>실사</p></td>
+<td><p>제공</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/헷지" title="wikilink">헷지</a>》</p></td>
+<td><p>2006.5.31</p></td>
+<td><p>애니메이션</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/드림웍스_애니메이션" title="wikilink">드림웍스 애니메이션</a><br />
+(<a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트 픽쳐스</a>)</p></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/비열한_거리_(2006년_영화).md" title="wikilink">비열한 거리</a>》</p></td>
+<td><p>2006.6.15</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한.일 합작</p></td>
+<td><p>《<a href="../Page/착신아리_파이널.md" title="wikilink">착신아리 파이널</a>》</p></td>
+<td><p>2006.6.22</p></td>
+<td><p>실사</p></td>
+<td><p>공동제작</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/파이_스토리" title="wikilink">파이 스토리</a>》</p></td>
+<td><p>2006.7.6</p></td>
+<td><p>애니메이션</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/한반도_(영화)" title="wikilink">한반도</a>》</p></td>
+<td><p>2006.7.13</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《어느날 갑자기 - 첫 번째 이야기 <a href="https://ko.wikipedia.org/wiki/어느날_갑자기_첫_번째_이야기_-_2월_29일" title="wikilink">2월 29일</a>》</p></td>
+<td><p>2006.7.21</p></td>
+<td><p>실사 <small>TV 무비</small></p></td>
+<td><p>제공, 제작</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《어느날 갑자기 - 두 번째 이야기 <a href="../Page/어느날_갑자기_두_번째_이야기_-_네_번째_층.md" title="wikilink">네 번째 층</a>》</p></td>
+<td><p>2006.7.27</p></td>
+<td><p>실사 <small>TV 무비</small></p></td>
+<td><p>제공, 제작</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/유실물_(2006년_영화)" title="wikilink">유실물</a>》</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《어느날 갑자기 - 세 번째 이야기 <a href="../Page/어느날_갑자기_세_번째_이야기_-_D-day.md" title="wikilink">D - Day</a>》</p></td>
+<td><p>2006.8.3</p></td>
+<td><p>실사 <small>TV 무비</small></p></td>
+<td><p>제공, 제작</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/플라이_대디" title="wikilink">플라이 대디</a>》</p></td>
+<td><p>실사</p></td>
+<td><p>공동제공</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/각설탕_(영화).md" title="wikilink">각설탕</a>》</p></td>
+<td><p>2006.8.10</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《어느날 갑자기 - 네 번째 이야기 <a href="../Page/어느날_갑자기_네_번째_이야기_-_죽음의_숲.md" title="wikilink">죽음의 숲</a>》</p></td>
+<td><p>2006.8.17</p></td>
+<td><p>실사 <small>TV 무비</small></p></td>
+<td><p>제공, 제작</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/사랑하니까,_괜찮아.md" title="wikilink">사랑하니까, 괜찮아</a>》</p></td>
+<td><p>실사</p></td>
+<td><p>공동제공</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/천하장사_마돈나" title="wikilink">천하장사 마돈나</a>》</p></td>
+<td><p>2006.8.31</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/브레인웨이브.md" title="wikilink">브레인웨이브</a>》</p></td>
+<td><p>독립/예술</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/연애,_그_참을_수_없는_가벼움" title="wikilink">연애, 그 참을 수 없는 가벼움</a>》</p></td>
+<td><p>2006.9.7</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/두뇌유희_프로젝트,_퍼즐.md" title="wikilink">두뇌유희 프로젝트, 퍼즐</a>》</p></td>
+<td><p>2006.9.14</p></td>
+<td><p>실사</p></td>
+<td><p>공동제공</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/무도리_(영화)" title="wikilink">무도리</a>》</p></td>
+<td><p>2006.9.21</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/타짜_(영화)" title="wikilink">타짜</a>》</p></td>
+<td><p>2006.9.28</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/라디오_스타_(영화)" title="wikilink">라디오 스타</a>》</p></td>
+<td><p>공동제공</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/거룩한_계보" title="wikilink">거룩한 계보</a>》</p></td>
+<td><p>2006.10.19</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/잔혹한_출근.md" title="wikilink">잔혹한 출근</a>》</p></td>
+<td><p>2006.11.2</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/열혈남아_(2006년_영화)" title="wikilink">열혈남아</a>》</p></td>
+<td><p>2006.11.9</p></td>
+<td><p>실사</p></td>
+<td><p>제공</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/방문자" title="wikilink">방문자</a>》</p></td>
+<td><p>독립/예술</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/누가_그녀와_잤을까?.md" title="wikilink">누가 그녀와 잤을까?</a>》</p></td>
+<td><p>2006.11.16</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/후회하지_않아" title="wikilink">후회하지 않아</a>》</p></td>
+<td><p>독립/예술</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/플러쉬_(영화)" title="wikilink">플러쉬</a>》</p></td>
+<td><p>2006.11.23</p></td>
+<td><p>애니메이션</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/드림웍스_애니메이션" title="wikilink">드림웍스 애니메이션</a><br />
+(<a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트 픽쳐스</a>)</p></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/삼거리_극장.md" title="wikilink">삼거리 극장</a>》</p></td>
+<td><p>독립/예술</p></td>
+<td><p>제공</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/사랑할_때_이야기하는_것들" title="wikilink">사랑할 때 이야기하는 것들</a>》</p></td>
+<td><p>2006.11.30</p></td>
+<td><p>실사</p></td>
+<td><p>제공</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/싸이보그지만_괜찮아" title="wikilink">싸이보그지만 괜찮아</a>》</p></td>
+<td><p>2006.12.7</p></td>
+<td><p>실사</p></td>
+<td><p>제공</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/중천_(영화).md" title="wikilink">중천</a>》</p></td>
+<td><p>2006.12.21</p></td>
+<td><p>실사</p></td>
+<td><p>제공</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### 2007년
+
+<table>
+<thead>
+<tr class="header">
+<th><p>국가</p></th>
+<th><p>제목</p></th>
+<th><p>개봉일</p></th>
+<th><p>종류</p></th>
+<th><p>담당</p></th>
+<th><p>레이블</p></th>
+<th><p>제휴</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/언니가_간다.md" title="wikilink">언니가 간다</a>》</p></td>
+<td><p>2007.1.4</p></td>
+<td><p>실사</p></td>
+<td><p>공동제공</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한.중.일 합작</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/묵공" title="wikilink">묵공</a>》</p></td>
+<td><p>2007.1.10</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/마파도_2" title="wikilink">마파도 2</a>》</p></td>
+<td><p>2007.1.18</p></td>
+<td><p>실사</p></td>
+<td><p>제공</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/로보트_태권브이" title="wikilink">로보트 태권브이</a>》</p></td>
+<td><p>애니메이션 <small>디지털 복원판</small></p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/천년여우_여우비" title="wikilink">천년여우 여우비</a>》</p></td>
+<td><p>2007.1.25</p></td>
+<td><p>애니메이션</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>중국</p></td>
+<td><p>《<a href="../Page/황후화.md" title="wikilink">황후花</a>》</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/소녀X소녀.md" title="wikilink">소녀X소녀</a>》</p></td>
+<td><p>실사 <small>TV 무비</small></p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/그놈_목소리" title="wikilink">그놈 목소리</a>》</p></td>
+<td><p>2007.2.1</p></td>
+<td><p>실사</p></td>
+<td><p>제공</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/1번가의_기적" title="wikilink">1번가의 기적</a>》</p></td>
+<td><p>2007.2.14</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/드림걸스_(영화)" title="wikilink">드림걸즈</a>》</p></td>
+<td><p>2007.2.22</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트</a>/<a href="https://ko.wikipedia.org/wiki/드림웍스" title="wikilink">드림웍스</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/포도나무를_베어라.md" title="wikilink">포도나무를 베어라</a>》</p></td>
+<td><p>독립/예술</p></td>
+<td><p>국내배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/좋지_아니한가" title="wikilink">좋지 아니한가</a>》</p></td>
+<td><p>2007.3.1</p></td>
+<td><p>실사</p></td>
+<td><p>제공</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>중국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/동경심판_(영화)" title="wikilink">동경심판</a>》</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/수_(영화).md" title="wikilink">수</a>》</p></td>
+<td><p>2007.3.22</p></td>
+<td><p>실사</p></td>
+<td><p>공동제공</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/이장과_군수.md" title="wikilink">이장과 군수</a>》</p></td>
+<td><p>2007.3.29</p></td>
+<td><p>실사</p></td>
+<td><p>제공</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/동갑내기_과외하기_레슨_2" title="wikilink">동갑내기 과외하기 레슨 2</a>》</p></td>
+<td><p>2007.4.19</p></td>
+<td><p>실사</p></td>
+<td><p>제공</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/더블_타겟" title="wikilink">더블 타겟</a>》</p></td>
+<td><p>2007.4.26</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트</a></p></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/아내의_애인을_만나다" title="wikilink">아내의 애인을 만나다</a>》</p></td>
+<td><p>독립/예술</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/아들_(2007년_영화)" title="wikilink">아들</a>》</p></td>
+<td><p>2007.5.1</p></td>
+<td><p>실사</p></td>
+<td><p>공동제공</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/넥스트_(2007년_영화)" title="wikilink">넥스트</a>》</p></td>
+<td><p>2007.5.17</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/밀양_(영화)" title="wikilink">밀양</a>》</p></td>
+<td><p>2007.5.23</p></td>
+<td><p>실사</p></td>
+<td><p>공동제공</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/슈렉_3" title="wikilink">슈렉 3</a>》</p></td>
+<td><p>2007.6.6</p></td>
+<td><p>애니메이션</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/드림웍스_애니메이션" title="wikilink">드림웍스 애니메이션</a><br />
+(<a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트 픽쳐스</a>)</p></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/황진이_(2007년_영화)" title="wikilink">황진이</a>》</p></td>
+<td><p>실사</p></td>
+<td><p>공동제공</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/시간을_달리는_소녀_(2006년_영화)" title="wikilink">시간을 달리는 소녀</a>》</p></td>
+<td><p>2007.6.14</p></td>
+<td><p>애니메이션</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/검은_집_(2007년_영화).md" title="wikilink">검은 집</a>》</p></td>
+<td><p>2007.6.21</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 제작</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/트랜스포머_(영화)" title="wikilink">트랜스포머</a>》</p></td>
+<td><p>2007.6.28</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/드림웍스" title="wikilink">드림웍스</a>/<a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/화려한_휴가" title="wikilink">화려한 휴가</a>》</p></td>
+<td><p>2007.7.25</p></td>
+<td><p>실사</p></td>
+<td><p>제공</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/므이.md" title="wikilink">므이</a>》</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/리턴_(2007년_영화).md" title="wikilink">리턴</a>》</p></td>
+<td><p>2007.8.8</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="../Page/스타더스트_(2007년_영화).md" title="wikilink">스타더스트</a>》</p></td>
+<td><p>2007.8.15</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/지금_사랑하는_사람과_살고_있습니까?.md" title="wikilink">지금 사랑하는 사람과 살고 있습니까?</a>》</p></td>
+<td><p>실사</p></td>
+<td><p>공동제공</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/내_생애_최악의_남자.md" title="wikilink">내 생애 최악의 남자</a>》</p></td>
+<td><p>2007.8.30</p></td>
+<td><p>실사</p></td>
+<td><p>제공</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/디스터비아" title="wikilink">디스터비아</a>》</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/드림웍스" title="wikilink">드림웍스</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/권순분_여사_납치사건.md" title="wikilink">권순분 여사 납치사건</a>》</p></td>
+<td><p>2007.9.12</p></td>
+<td><p>실사</p></td>
+<td><p>공동제공</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/즐거운_인생" title="wikilink">즐거운 인생</a>》</p></td>
+<td><p>2007.9.13</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/러시아워_3" title="wikilink">러시아워 3</a>》</p></td>
+<td><p>2007.10.3</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/비커밍_제인" title="wikilink">비커밍 제인</a>》</p></td>
+<td><p>2007.10.11</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/바르게_살자" title="wikilink">바르게 살자</a>》</p></td>
+<td><p>2007.10.18</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/궁녀_(2007년_영화).md" title="wikilink">궁녀</a>》</p></td>
+<td><p>공동제공</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/식객_(영화)" title="wikilink">식객</a>》</p></td>
+<td><p>2007.11.1</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한.일 합작</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/첫눈_(영화)" title="wikilink">첫눈</a>》</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>중국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/색,_계" title="wikilink">색, 계</a>》</p></td>
+<td><p>2007.11.8</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/스카우트_(2007년_영화)" title="wikilink">스카우트</a>》</p></td>
+<td><p>2007.11.14</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한.미 합작</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/웨스트_32번가" title="wikilink">웨스트 32번가</a>》</p></td>
+<td><p>2007.11.22</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 제작</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/어거스트_러쉬" title="wikilink">어거스트 러쉬</a>》</p></td>
+<td><p>2007.11.29</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/우리동네.md" title="wikilink">우리동네</a>》</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/색즉시공_시즌_2" title="wikilink">색즉시공 시즌 2</a>》</p></td>
+<td><p>2007.12.12</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/싸움_(영화)" title="wikilink">싸움</a>》</p></td>
+<td><p>공동제공</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/헨젤과_그레텔_(2007년_영화)" title="wikilink">헨젤과 그레텔</a>》</p></td>
+<td><p>2007.12.27</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### 2008년
+
+<table>
+<thead>
+<tr class="header">
+<th><p>국가</p></th>
+<th><p>제목</p></th>
+<th><p>개봉일</p></th>
+<th><p>종류</p></th>
+<th><p>담당</p></th>
+<th><p>레이블</p></th>
+<th><p>제휴</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/기다리다_미쳐.md" title="wikilink">기다리다 미쳐</a>》</p></td>
+<td><p>2008.1.1</p></td>
+<td><p>실사</p></td>
+<td><p>공동제공</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/꿀벌_대소동" title="wikilink">꿀벌 대소동</a>》</p></td>
+<td><p>2008.1.3</p></td>
+<td><p>애니메이션</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/드림웍스_애니메이션" title="wikilink">드림웍스 애니메이션</a><br />
+(<a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트 픽쳐스</a>)</p></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/무방비도시_(2008년_영화).md" title="wikilink">무방비도시</a>》</p></td>
+<td><p>2008.1.10</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/뜨거운_것이_좋아_(2007년_영화).md" title="wikilink">뜨거운 것이 좋아</a>》</p></td>
+<td><p>2008.1.17</p></td>
+<td><p>실사</p></td>
+<td><p>공동제공</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/클로버필드" title="wikilink">클로버필드</a>》</p></td>
+<td><p>2008.1.24</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트</a></p></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/슈퍼맨이었던_사나이.md" title="wikilink">슈퍼맨이었던 사나이</a>》</p></td>
+<td><p>2008.1.31</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 제작</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="../Page/스파이더위크가의_비밀_(영화).md" title="wikilink">스파이더위크가의 비밀</a>》</p></td>
+<td><p>2008.2.14</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트</a></p></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/노인을_위한_나라는_없다_(영화)" title="wikilink">노인을 위한 나라는 없다</a>》</p></td>
+<td><p>2008.2.21</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파라마운트_밴티지" title="wikilink">파라마운트</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/바보_(영화)" title="wikilink">바보</a>》</p></td>
+<td><p>2008.2.28</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/연을_쫓는_아이_(영화)" title="wikilink">연을 쫓는 아이</a>》</p></td>
+<td><p>2008.3.13</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/드림웍스" title="wikilink">드림웍스 픽처스</a><br />
+(<a href="https://ko.wikipedia.org/wiki/파라마운트_밴티지" title="wikilink">파라마운트 클래식</a>)</p></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/숙명_(영화)" title="wikilink">숙명</a>》</p></td>
+<td><p>2008.3.20</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/댄_인_러브" title="wikilink">댄 인 러브</a>》</p></td>
+<td><p>2008.3.27</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>중국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/연의_황후" title="wikilink">연의 황후</a>》</p></td>
+<td><p>2008.4.9</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/아이언맨_(영화)" title="wikilink">아이언맨</a>》</p></td>
+<td><p>2008.4.30</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/페넬로피_(2008년_영화)" title="wikilink">페넬로피</a>》</p></td>
+<td><p>2008.5.15</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/인디아나_존스:_크리스탈_해골의_왕국" title="wikilink">인디아나 존스: 크리스탈 해골의 왕국</a>》</p></td>
+<td><p>2008.5.22</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/쿵푸_팬더" title="wikilink">쿵푸 팬더</a>》</p></td>
+<td><p>2008.6.5</p></td>
+<td><p>애니메이션</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/드림웍스_애니메이션" title="wikilink">드림웍스 애니메이션</a><br />
+(<a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트 픽쳐스</a>)</p></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/아버지와_마리와_나" title="wikilink">아버지와 마리와 나</a>》</p></td>
+<td><p>2008.6.12</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/그녀는_예뻤다_(영화)" title="wikilink">그녀는 예뻤다</a>》</p></td>
+<td><p>독립/예술 <small>애니메이션</small></p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/강철중:_공공의_적_1-1" title="wikilink">강철중: 공공의 적 1-1</a>》</p></td>
+<td><p>2008.6.19</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/좋은_놈,_나쁜_놈,_이상한_놈" title="wikilink">좋은 놈, 나쁜 놈, 이상한 놈</a>》</p></td>
+<td><p>2008.7.17</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/스마트_피플" title="wikilink">스마트 피플</a>》</p></td>
+<td><p>2008.8.21</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/샤인_어_라이트" title="wikilink">샤인 어 라이트</a>》</p></td>
+<td><p>2008.8.28</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/신기전_(영화)" title="wikilink">신기전</a>》</p></td>
+<td><p>2008.9.4</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>중국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/황시_(영화)" title="wikilink">황시</a>》</p></td>
+<td><p>2008.9.18</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/모던_보이.md" title="wikilink">모던 보이</a>》</p></td>
+<td><p>2008.10.2</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/이글_아이" title="wikilink">이글 아이</a>》</p></td>
+<td><p>2008.10.9</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/드림웍스" title="wikilink">드림웍스</a></p></td>
+</tr>
+<tr class="even">
+<td><p>일본</p></td>
+<td><p>《<a href="../Page/구구는_고양이다.md" title="wikilink">구구는 고양이다</a>》</p></td>
+<td><p>2008.10.16</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/여름,_속삭임.md" title="wikilink">여름, 속삭임</a>》</p></td>
+<td><p>독립/예술</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/아내가_결혼했다_(영화)" title="wikilink">아내가 결혼했다</a>》</p></td>
+<td><p>2008.10.23</p></td>
+<td><p>실사</p></td>
+<td><p>제공</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/미인도_(영화)" title="wikilink">미인도</a>》</p></td>
+<td><p>2008.11.13</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/순정만화_(영화)" title="wikilink">순정만화</a>》</p></td>
+<td><p>2008.11.27</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/매직_아워" title="wikilink">매직 아워</a>》</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="../Page/트로픽_썬더.md" title="wikilink">트로픽 썬더</a>》</p></td>
+<td><p>2008.12.10</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/드림웍스" title="wikilink">드림웍스</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/달콤한_거짓말.md" title="wikilink">달콤한 거짓말</a>》</p></td>
+<td><p>2008.12.18</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 제작</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### 2009년
+
+<table>
+<thead>
+<tr class="header">
+<th><p>국가</p></th>
+<th><p>제목</p></th>
+<th><p>개봉일</p></th>
+<th><p>종류</p></th>
+<th><p>담당</p></th>
+<th><p>레이블</p></th>
+<th><p>제휴</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/마다가스카_2" title="wikilink">마다가스카 2</a>》</p></td>
+<td><p>2009.1.8</p></td>
+<td><p>애니메이션</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/드림웍스_애니메이션" title="wikilink">드림웍스 애니메이션</a><br />
+(<a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트 픽쳐스</a>)</p></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/유감스러운_도시" title="wikilink">유감스러운 도시</a>》</p></td>
+<td><p>2009.1.22</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/마린_보이" title="wikilink">마린 보이</a>》</p></td>
+<td><p>2009.2.5</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/레볼루셔너리_로드" title="wikilink">레볼루셔너리 로드</a>》</p></td>
+<td><p>2009.2.19</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/드림웍스" title="wikilink">드림웍스 픽처스</a><br />
+(<a href="https://ko.wikipedia.org/wiki/파라마운트_밴티지" title="wikilink">파라마운트 밴티지</a>)</p></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/구세주_2.md" title="wikilink">구세주 2</a>》</p></td>
+<td><p>2009.2.26</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/왓치맨_(영화)" title="wikilink">왓치맨</a>》</p></td>
+<td><p>2009.3.5</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="../Page/13일의_금요일_(2009년_영화).md" title="wikilink">13일의 금요일</a>》</p></td>
+<td><p>2009.3.12</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트</a></p></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/슬럼독_밀리어네어" title="wikilink">슬럼독 밀리어네어</a>》</p></td>
+<td><p>2009.3.19</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/그림자_살인" title="wikilink">그림자 살인</a>》</p></td>
+<td><p>2009.4.2</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급, 제작</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/안나와_알렉스:_두_자매_이야기" title="wikilink">안나와 알렉스: 두 자매 이야기</a>》</p></td>
+<td><p>2009.4.9</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/드림웍스" title="wikilink">드림웍스</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>홍콩</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/엽문_(영화)" title="wikilink">엽문</a>》</p></td>
+<td><p>2009.4.16</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/몬스터_vs_에이리언" title="wikilink">몬스터 vs 에이리언</a>》</p></td>
+<td><p>2009.4.23</p></td>
+<td><p>애니메이션</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/드림웍스_애니메이션" title="wikilink">드림웍스 애니메이션</a><br />
+(<a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트 픽쳐스</a>)</p></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/박쥐_(2009년_영화)" title="wikilink">박쥐</a>》</p></td>
+<td><p>2009.4.30</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/스타_트렉:_더_비기닝" title="wikilink">스타 트렉: 더 비기닝</a>》</p></td>
+<td><p>2009.5.7</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/김_씨_표류기" title="wikilink">김 씨 표류기</a>》</p></td>
+<td><p>2009.5.14</p></td>
+<td><p>실사</p></td>
+<td><p>공동제공</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/마더_(2009년_영화)" title="wikilink">마더</a>》</p></td>
+<td><p>2009.5.28</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>프랑스</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/홈_(2009년_영화)" title="wikilink">홈</a>》</p></td>
+<td><p>2009.6.5</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/트랜스포머:_패자의_역습" title="wikilink">트랜스포머: 패자의 역습</a>》</p></td>
+<td><p>2009.6.24</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/드림웍스" title="wikilink">드림웍스</a>/<a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/언노운_우먼" title="wikilink">언노운 우먼</a>》</p></td>
+<td><p>2009.7.1</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/극장판_도라에몽:_진구의_공룡대탐험" title="wikilink">극장판 도라에몽: 진구의 공룡대탐험</a>》</p></td>
+<td><p>2009.7.15</p></td>
+<td><p>애니메이션 <small>극장판</small></p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/해운대_(영화)" title="wikilink">해운대</a>》</p></td>
+<td><p>2009.7.22</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/피쉬_스토리" title="wikilink">피쉬 스토리</a>》</p></td>
+<td><p>2009.7.30</p></td>
+<td><p>실사</p></td>
+<td><p>투자, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/지.아이.조:_전쟁의_서막" title="wikilink">지.아이.조: 전쟁의 서막</a>》</p></td>
+<td><p>2009.8.6</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트</a></p></td>
+</tr>
+<tr class="even">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/썸머_워즈" title="wikilink">썸머 워즈</a>》</p></td>
+<td><p>2009.8.13</p></td>
+<td><p>애니메이션</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한.중 합작</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/소피의_연애_매뉴얼" title="wikilink">소피의 연애 매뉴얼</a>》</p></td>
+<td><p>2009.8.20</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/나무없는_산" title="wikilink">나무없는 산</a>》</p></td>
+<td><p>2009.8.27</p></td>
+<td><p>독립/예술</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>프랑스</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/하이_레인" title="wikilink">하이레인</a>》</p></td>
+<td><p>2009.9.9</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/내_사랑_내_곁에_(영화)" title="wikilink">내 사랑 내 곁에</a>》</p></td>
+<td><p>2009.9.24</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/헬로우_마이_러브.md" title="wikilink">헬로우 마이 러브</a>》</p></td>
+<td><p>2009.10.8</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>프랑스</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/나는_비와_함께_간다" title="wikilink">나는 비와 함께 간다</a>》</p></td>
+<td><p>2009.10.15</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/굿모닝_프레지던트" title="wikilink">굿모닝 프레지던트</a>》</p></td>
+<td><p>2009.10.22</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/신부의_수상한_여행가방" title="wikilink">신부의 수상한 여행가방</a>》</p></td>
+<td><p>2009.10.29</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《텔레시네마 - <a href="https://ko.wikipedia.org/wiki/내_눈에_콩깍지" title="wikilink">내 눈에 콩깍지</a>》</p></td>
+<td><p>2009.11.5</p></td>
+<td><p>실사 <small>TV 무비</small></p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《텔레시네마 - <a href="https://ko.wikipedia.org/wiki/천국의_우편배달부" title="wikilink">천국의 우편배달부</a>》</p></td>
+<td><p>2009.11.12</p></td>
+<td><p>실사 <small>TV 무비</small></p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《텔레시네마 - <a href="../Page/19-Nineteen.md" title="wikilink">19</a>》</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/백야행_(영화)" title="wikilink">백야행: 하얀 어둠 속을 걷다</a>》</p></td>
+<td><p>2009.11.19</p></td>
+<td><p>실사</p></td>
+<td><p>공동제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/귀_없는_토끼" title="wikilink">귀 없는 토끼</a>》</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《텔레시네마 - <a href="../Page/트라이앵글_(2009년_대한민국_영화).md" title="wikilink">트라이앵글</a>》</p></td>
+<td><p>실사 <small>TV 무비</small></p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《텔레시네마 - <a href="../Page/낙원_-_파라다이스.md" title="wikilink">낙원 - 파라다이스</a>》</p></td>
+<td><p>2009.11.26</p></td>
+<td><p>실사 <small>TV 무비</small></p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/시크릿_(2009년_영화).md" title="wikilink">시크릿</a>》</p></td>
+<td><p>2009.12.3</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《텔레시네마 - <a href="../Page/결혼식_후에.md" title="wikilink">결혼식 후에</a>》</p></td>
+<td><p>실사 <small>TV 무비</small></p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《텔레시네마 - <a href="../Page/돌멩이의_꿈.md" title="wikilink">돌멩이의 꿈</a>》</p></td>
+<td><p>2009.12.10</p></td>
+<td><p>실사 <small>TV 무비</small></p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/일렉트릭_미스트" title="wikilink">일렉트릭 미스트</a>》</p></td>
+<td><p>2009.12.17</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/전우치_(영화)" title="wikilink">전우치</a>》</p></td>
+<td><p>2009.12.23</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### 2010년
+
+<table>
+<thead>
+<tr class="header">
+<th><p>국가</p></th>
+<th><p>제목</p></th>
+<th><p>개봉일</p></th>
+<th><p>종류</p></th>
+<th><p>담당</p></th>
+<th><p>자회사/레이블</p></th>
+<th><p>제휴</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>일본</p></td>
+<td><p>《<a href="../Page/극장판_염신전대_고온저_vs._게키레인저.md" title="wikilink">파워 레인저 극장판: 엔진 포스 vs 와일드 스피릿</a>》</p></td>
+<td><p>2010.1.7</p></td>
+<td><p>실사 <small>극장판</small></p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/페어_러브" title="wikilink">페어 러브</a>》</p></td>
+<td><p>2010.1.14</p></td>
+<td><p>독립/예술</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>홍콩</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/8인:_최후의_결사단" title="wikilink">8인: 최후의 결사단</a>》</p></td>
+<td><p>2010.1.21</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/하모니_(영화)" title="wikilink">하모니</a>》</p></td>
+<td><p>2010.1.28</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>프랑스</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/리키_(영화)" title="wikilink">리키</a>》</p></td>
+<td><p>2010.2.4</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/평행_이론" title="wikilink">평행 이론</a>》</p></td>
+<td><p>2010.2.18</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="../Page/러블리_본즈_(영화).md" title="wikilink">러블리 본즈</a>》</p></td>
+<td><p>2010.2.25</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/드림웍스" title="wikilink">드림웍스 픽처스</a><br />
+(<a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트 픽쳐스</a>)</p></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/인_디_에어" title="wikilink">인 디 에어</a>》</p></td>
+<td><p>2010.3.11</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/셔터_아일랜드" title="wikilink">셔터 아일랜드</a>》</p></td>
+<td><p>2010.3.18</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트</a></p></td>
+</tr>
+<tr class="even">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/공기인형" title="wikilink">공기인형</a>》</p></td>
+<td><p>2010.4.8</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한.일 합작</p></td>
+<td><p>《<a href="../Page/사요나라_이츠카.md" title="wikilink">사요나라 이츠카</a>》</p></td>
+<td><p>2010.4.15</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/아이언맨_2" title="wikilink">아이언맨 2</a>》</p></td>
+<td><p>2010.4.29</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/드래곤_길들이기_(영화)" title="wikilink">드래곤 길들이기</a>》</p></td>
+<td><p>2010.5.20</p></td>
+<td><p>애니메이션</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/드림웍스_애니메이션" title="wikilink">드림웍스 애니메이션</a><br />
+(<a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트 픽쳐스</a>)</p></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/꿈은_이루어진다.md" title="wikilink">꿈은 이루어진다</a>》</p></td>
+<td><p>2010.5.27</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/방자전.md" title="wikilink">방자전</a>》</p></td>
+<td><p>2010.6.2</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/귀_(영화).md" title="wikilink">귀</a>》</p></td>
+<td><p>2010.6.10</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/여대생_기숙사" title="wikilink">여대생 기숙사</a>》</p></td>
+<td><p>2010.6.24</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/요술.md" title="wikilink">요술</a>》</p></td>
+<td><p>독립/예술</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/슈렉_포에버" title="wikilink">슈렉 포에버</a>》</p></td>
+<td><p>2010.7.1</p></td>
+<td><p>애니메이션</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/드림웍스_애니메이션" title="wikilink">드림웍스 애니메이션</a><br />
+(<a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트 픽쳐스</a>)</p></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/이끼_(영화)" title="wikilink">이끼</a>》</p></td>
+<td><p>2010.7.14</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/극장판_도라에몽:_진구의_인어대해전" title="wikilink">극장판 도라에몽: 진구의 인어대해전</a>》</p></td>
+<td><p>2010.7.28</p></td>
+<td><p>애니메이션 <small>극장판</small></p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/아저씨_(영화)" title="wikilink">아저씨</a>》</p></td>
+<td><p>2010.8.4</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/라스트_에어벤더" title="wikilink">라스트 에어벤더</a>》</p></td>
+<td><p>2010.8.19</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트</a></p></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/마법_천자문:_대마왕의_부활을_막아라" title="wikilink">마법 천자문: 대마왕의 부활을 막아라</a>》</p></td>
+<td><p>애니메이션</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/골든_슬럼버_(2010년_영화)" title="wikilink">골든 슬럼버</a>》</p></td>
+<td><p>2010.8.26</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/마루_밑_아리에티" title="wikilink">마루 밑 아리에티</a>》</p></td>
+<td><p>2010.9.9</p></td>
+<td><p>애니메이션</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/무적자" title="wikilink">무적자</a>》</p></td>
+<td><p>2010.9.16</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/된장_(영화).md" title="wikilink">된장</a>》</p></td>
+<td><p>2010.10.21</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/파라노말_액티비티_2" title="wikilink">파라노말 액티비티 2</a>》</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/부당거래" title="wikilink">부당거래</a>》</p></td>
+<td><p>2010.10.28</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/젓가락_(영화).md" title="wikilink">젓가락</a>》</p></td>
+<td><p>독립/예술</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>중국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/대지진_(2010년_영화)" title="wikilink">대지진</a>》</p></td>
+<td><p>2010.11.4</p></td>
+<td><p>실사</p></td>
+<td><p>수입<br />
+배급</p></td>
+<td><p>CJ엔터테인먼트<br />
+필라멘트픽처스</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/두_여자_(영화).md" title="wikilink">두 여자</a>》</p></td>
+<td><p>2010.11.18</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한.일 합작</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/고스트:_보이지_않는_사랑" title="wikilink">고스트: 보이지 않는 사랑</a>》</p></td>
+<td><p>2010.11.25</p></td>
+<td><p>실사</p></td>
+<td><p>공동제작<br />
+배급</p></td>
+<td><p>CJ엔터테인먼트<br />
+필라멘트픽처스</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/김종욱_찾기" title="wikilink">김종욱 찾기</a>》</p></td>
+<td><p>2010.12.8</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>프랑스</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/새미의_어드벤쳐" title="wikilink">새미의 어드벤쳐</a>》</p></td>
+<td><p>2010.12.15</p></td>
+<td><p>애니메이션</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한.미 합작</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/라스트_갓파더" title="wikilink">라스트 갓파더</a>》</p></td>
+<td><p>2010.12.29</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### 2011년
+
+<table>
+<thead>
+<tr class="header">
+<th><p>국가</p></th>
+<th><p>제목</p></th>
+<th><p>개봉일</p></th>
+<th><p>종류</p></th>
+<th><p>담당</p></th>
+<th><p>자회사/레이블</p></th>
+<th><p>제휴</p></th>
+<th><p>개봉</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/메가마인드" title="wikilink">메가마인드</a>》</p></td>
+<td><p>2011.1.13</p></td>
+<td><p>애니메이션</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/드림웍스_애니메이션" title="wikilink">드림웍스 애니메이션</a><br />
+(<a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트 픽쳐스</a>)</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/글러브_(영화)" title="wikilink">글러브</a>》</p></td>
+<td><p>2011.1.20</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="../Page/윈터스_본.md" title="wikilink">윈터스 본</a>》</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/친구와_연인_사이" title="wikilink">친구와 연인 사이</a>》</p></td>
+<td><p>2011.2.10</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한.미 합작</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/만추_(2010년_영화)" title="wikilink">만추</a>》</p></td>
+<td><p>2011.2.17</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/더_브레이브" title="wikilink">더 브레이브</a>》</p></td>
+<td><p>2011.2.24</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/랭고_(2011년_영화)" title="wikilink">랭고</a>》</p></td>
+<td><p>2011.3.3</p></td>
+<td><p>애니메이션</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/파수꾼_(영화)" title="wikilink">파수꾼</a>》</p></td>
+<td><p>독립/예술</p></td>
+<td><p>국내배급</p></td>
+<td><p>필라멘트픽처스</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="../Page/굿모닝_에브리원.md" title="wikilink">굿모닝 에브리원</a>》</p></td>
+<td><p>2011.3.17</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/달빛_길어올리기" title="wikilink">달빛 길어올리기</a>》</p></td>
+<td><p>|독립/예술</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/마이_블랙_미니드레스" title="wikilink">마이 블랙 미니드레스</a>》</p></td>
+<td><p>2011.3.24</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ E&amp;M㈜영화사업부문</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>인도</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/내_이름은_칸" title="wikilink">내 이름은 칸</a>》</p></td>
+<td><p>배급</p></td>
+<td><p>필라멘트픽처스</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="../Page/미트_페어런츠_3.md" title="wikilink">미트 페어런츠 3: 사위의 역습</a>》</p></td>
+<td><p>2011.3.31</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/수상한_고객들" title="wikilink">수상한 고객들</a>》</p></td>
+<td><p>2011.4.14</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ E&amp;M㈜영화사업부문</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/잭애스_3D" title="wikilink">잭애스 3D</a>》</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ E&amp;M㈜영화사업부문</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/CGV" title="wikilink">CGV</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/토르:_천둥의_신" title="wikilink">토르: 천둥의 신</a>》</p></td>
+<td><p>2011.4.28</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ E&amp;M㈜영화사업부문</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/써니_(영화)" title="wikilink">써니</a>》</p></td>
+<td><p>2011.5.4<br />
+2011.7.28</p></td>
+<td><p>실사<br />
+감독판</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ E&amp;M㈜영화사업부문</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/허블_(영화)" title="wikilink">허블</a>》</p></td>
+<td><p>2011.5.5</p></td>
+<td><p>다큐멘터리</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ E&amp;M㈜영화사업부문</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/짱구는_못말려_극장판:_초시공!_태풍을_부르는_나의_신부" title="wikilink">짱구는 못말려 극장판: 초시공! 태풍을 부르는 나의 신부</a>》</p></td>
+<td><p>애니메이션 <small>극장판</small></p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/쿵푸_팬더_2" title="wikilink">쿵푸 팬더 2</a>》</p></td>
+<td><p>2011.5.26</p></td>
+<td><p>애니메이션</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ E&amp;M㈜영화사업부문</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/드림웍스_애니메이션" title="wikilink">드림웍스 애니메이션</a><br />
+(<a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트 픽쳐스</a>)</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/화이트:_저주의_멜로디" title="wikilink">화이트: 저주의 멜로디</a>》</p></td>
+<td><p>2011.6.9</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ E&amp;M㈜영화사업부문</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/슈퍼_에이트" title="wikilink">슈퍼 에이트</a>》</p></td>
+<td><p>2011.6.16</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ E&amp;M㈜영화사업부문</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/트랜스포머_3" title="wikilink">트랜스포머 3</a>》</p></td>
+<td><p>2011.6.29</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ E&amp;M㈜영화사업부문</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/퀵_(영화)" title="wikilink">퀵</a>》</p></td>
+<td><p>2011.7.20</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ E&amp;M㈜영화사업부문</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/퍼스트_어벤져" title="wikilink">퍼스트 어벤져</a>》</p></td>
+<td><p>2011.7.28</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ E&amp;M㈜영화사업부문</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/7광구_(영화)" title="wikilink">7광구</a>》</p></td>
+<td><p>2011.8.4</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ E&amp;M㈜영화사업부문</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/카우보이_&amp;_에이리언" title="wikilink">카우보이 &amp; 에이리언</a>》</p></td>
+<td><p>2011.8.11</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ E&amp;M㈜영화사업부문</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/드림웍스" title="wikilink">드림웍스 픽처스</a><br />
+(<a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트 픽쳐스</a>)</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>인도</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/세_얼간이" title="wikilink">세 얼간이</a>》</p></td>
+<td><p>2011.8.18</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>필라멘트픽처스</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/푸른_소금" title="wikilink">푸른 소금</a>》</p></td>
+<td><p>2011.8.31</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/도가니_(영화)" title="wikilink">도가니</a>》</p></td>
+<td><p>2011.9.22</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/코쿠리코_언덕에서" title="wikilink">코쿠리코 언덕에서</a>》</p></td>
+<td><p>2011.9.29</p></td>
+<td><p>애니메이션</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/어브덕션" title="wikilink">어브덕션</a>》</p></td>
+<td><p>실사</p></td>
+<td><p>필라멘트픽처스</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>스페인</p></td>
+<td><p>《<a href="../Page/비우티풀.md" title="wikilink">비우티풀</a>》</p></td>
+<td><p>2011.10.13</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>필라멘트픽처스</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/완득이_(영화)" title="wikilink">완득이</a>》</p></td>
+<td><p>2011.10.20</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/파라노말_액티비티_3" title="wikilink">파라노말 액티비티 3</a>》</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/티끌_모아_로맨스" title="wikilink">티끌 모아 로맨스</a>》</p></td>
+<td><p>2011.11.10</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>필라멘트픽처스</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/오싹한_연애" title="wikilink">오싹한 연애</a>》</p></td>
+<td><p>2011.12.1</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/미션_임파서블:_고스트_프로토콜" title="wikilink">미션 임파서블: 고스트 프로토콜</a>》</p></td>
+<td><p>2011.12.15</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한.중.일 합작</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/마이_웨이_(2011년_영화)" title="wikilink">마이 웨이</a>》</p></td>
+<td><p>2011.12.21</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/극장판_포켓몬스터_베스트위시:_비크티니와_흑의_영웅_제크로무·비크티니와_백의_영웅_레시라무" title="wikilink">극장판 포켓몬스터 베스트위시: 비크티니와 흑의 영웅 제크로무·비크티니와 백의 영웅 레시라무</a>》</p></td>
+<td><p>2011.12.22</p></td>
+<td><p>애니메이션 <small>극장판</small></p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### 2012년
+
+<table>
+<thead>
+<tr class="header">
+<th><p>국가</p></th>
+<th><p>제목</p></th>
+<th><p>개봉일</p></th>
+<th><p>종류</p></th>
+<th><p>담당</p></th>
+<th><p>자회사/레이블</p></th>
+<th><p>제휴</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/장화_신은_고양이_(2011년_영화)" title="wikilink">장화 신은 고양이</a>》</p></td>
+<td><p>2012.1.12</p></td>
+<td><p>애니메이션</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/드림웍스_애니메이션" title="wikilink">드림웍스 애니메이션</a><br />
+(<a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트 픽쳐스</a>)</p></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/댄싱퀸_(영화)" title="wikilink">댄싱퀸</a>》</p></td>
+<td><p>2012.1.18</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/점박이:_한반도의_공룡" title="wikilink">점박이: 한반도의 공룡</a>》</p></td>
+<td><p>2012.1.26</p></td>
+<td><p>애니메이션</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="../Page/하이힐을_신고_달리는_여자.md" title="wikilink">하이힐을 신고 달리는 여자</a>》</p></td>
+<td><p>2012.2.2</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>필라멘트픽처스</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/하울링_(2012년_영화).md" title="wikilink">하울링</a>》</p></td>
+<td><p>2012.2.16</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/볼츠와_블립:_달나라_리그의_전투" title="wikilink">볼츠와 블립: 달나라 리그의 전투</a>》</p></td>
+<td><p>2012.2.23</p></td>
+<td><p>애니메이션 <small>극장판</small></p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>영국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/철의_여인_(영화)" title="wikilink">철의 여인</a>》</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>필라멘트픽처스</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/휴고_(영화)" title="wikilink">휴고</a>》</p></td>
+<td><p>2012.2.29</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/화차_(영화).md" title="wikilink">화차</a>》</p></td>
+<td><p>2012.3.8</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>필라멘트픽처스</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/시체가_돌아왔다" title="wikilink">시체가 돌아왔다</a>》</p></td>
+<td><p>2012.3.29</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="../Page/코난:_암흑의_시대.md" title="wikilink">코난: 암흑의 시대</a>》</p></td>
+<td><p>2012.4.5</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/코리아_(영화)" title="wikilink">코리아</a>》</p></td>
+<td><p>2012.5.3</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>인도네시아</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/레이드:_첫번째_습격" title="wikilink">레이드: 첫번째 습격</a>》</p></td>
+<td><p>2012.5.17</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/차형사" title="wikilink">차형사</a>》</p></td>
+<td><p>2012.5.30</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/마다가스카_3:_이번엔_서커스다!" title="wikilink">마다가스카 3: 이번엔 서커스다!</a>》</p></td>
+<td><p>2012.6.6</p></td>
+<td><p>애니메이션</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/드림웍스_애니메이션" title="wikilink">드림웍스 애니메이션</a><br />
+(<a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트 픽쳐스</a>)</p></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/I_AM." title="wikilink">I AM.</a>》</p></td>
+<td><p>2012.6.21</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급, 제작</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/연가시_(영화)" title="wikilink">연가시</a>》</p></td>
+<td><p>2012.7.5</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/5백만불의_사나이" title="wikilink">5백만불의 사나이</a>》</p></td>
+<td><p>2012.7.19</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/명탐정_코난:_11번째_스트라이커" title="wikilink">명탐정 코난: 11번째 스트라이커</a>》</p></td>
+<td><p>애니메이션 <small>극장판</small></p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/파닥파닥.md" title="wikilink">파닥파닥</a>》</p></td>
+<td><p>2012.7.25</p></td>
+<td><p>애니메이션</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>프랑스</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/새미의_어드벤쳐_2" title="wikilink">새미의 어드벤쳐 2</a>》</p></td>
+<td><p>2012.8.1</p></td>
+<td><p>애니메이션</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/R2B:_리턴투베이스" title="wikilink">R2B: 리턴투베이스</a>》</p></td>
+<td><p>2012.8.15</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/레드라이트" title="wikilink">레드라이트</a>》</p></td>
+<td><p>2012.8.23</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/577_프로젝트.md" title="wikilink">577 프로젝트</a>》</p></td>
+<td><p>2012.8.30</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>필라멘트픽처스</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>프랑스</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/더_레이디" title="wikilink">더 레이디</a>》</p></td>
+<td><p>2012.9.6</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/광해,_왕이_된_남자" title="wikilink">광해, 왕이 된 남자</a>》</p></td>
+<td><p>2012.9.13</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한.중 합작</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/위험한_관계_(2012년_영화)" title="wikilink">위험한 관계</a>》</p></td>
+<td><p>2012.10.11</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/용의자X" title="wikilink">용의자X</a>》</p></td>
+<td><p>2012.10.18</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/파라노말_액티비티_4" title="wikilink">파라노말 액티비티 4</a>》</p></td>
+<td><p>2012.10.25</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트</a></p></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/늑대소년_(영화)" title="wikilink">늑대소년</a>》</p></td>
+<td><p>2012.10.31</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/철가방_우수_씨" title="wikilink">철가방 우수 씨</a>》</p></td>
+<td><p>2012.11.22</p></td>
+<td><p>독립/예술</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/가디언즈_(영화)" title="wikilink">가디언즈</a>》</p></td>
+<td><p>2012.11.29</p></td>
+<td><p>애니메이션</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/드림웍스_애니메이션" title="wikilink">드림웍스 애니메이션</a><br />
+(<a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트 픽쳐스</a>)</p></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/나의_PS_파트너.md" title="wikilink">나의 PS 파트너</a>》</p></td>
+<td><p>2012.12.6</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/극장판_포켓몬스터_베스트위시:_큐레무_VS_성검사_케르디오" title="wikilink">극장판 포켓몬스터 베스트위시: 큐레무 VS 성검사 케르디오</a>》</p></td>
+<td><p>2012.12.19</p></td>
+<td><p>애니메이션 <small>극장판</small></p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/타워_(영화)" title="wikilink">타워</a>》</p></td>
+<td><p>2012.12.25</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### 2013년
+
+<table>
+<thead>
+<tr class="header">
+<th><p>국가</p></th>
+<th><p>제목</p></th>
+<th><p>개봉일</p></th>
+<th><p>종류</p></th>
+<th><p>담당</p></th>
+<th><p>자회사/레이블</p></th>
+<th><p>제휴</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/마이_리틀_히어로.md" title="wikilink">마이 리틀 히어로</a>》</p></td>
+<td><p>2013.1.9</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/잭_리처_(영화)" title="wikilink">잭 리처</a>》</p></td>
+<td><p>2013.1.17</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/뽀로로_극장판_슈퍼썰매_대모험" title="wikilink">뽀로로 극장판 슈퍼썰매 대모험</a>》</p></td>
+<td><p>2013.1.23</p></td>
+<td><p>애니메이션 <small>극장판</small></p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/베를린_(2013년_영화)" title="wikilink">베를린</a>》</p></td>
+<td><p>2013.1.30</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/헨젤과_그레텔:_마녀_사냥꾼" title="wikilink">헨젤과 그레텔: 마녀 사냥꾼</a>》</p></td>
+<td><p>2013.2.14</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트</a></p></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/라스트_스탠드" title="wikilink">라스트 스탠드</a>》</p></td>
+<td><p>2013.2.21</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/플라이트_(2012년_영화)" title="wikilink">플라이트</a>》</p></td>
+<td><p>2013.2.28</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트</a></p></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/뒷담화:_감독이_미쳤어요.md" title="wikilink">뒷담화: 감독이 미쳤어요</a>》</p></td>
+<td><p>독립/예술</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>필라멘트픽처스</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/사이코메트리_(영화).md" title="wikilink">사이코메트리</a>》</p></td>
+<td><p>2013.3.7</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/웜_바디스" title="wikilink">웜 바디스</a>》</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>일본</p></td>
+<td><p>《<a href="../Page/원피스_극장판_Z.md" title="wikilink">원피스 극장판 Z</a>》</p></td>
+<td><p>2013.3.21</p></td>
+<td><p>애니메이션 <small>극장판</small></p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/지.아이.조_2" title="wikilink">지.아이.조 2</a>》</p></td>
+<td><p>2013.3.28</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/전설의_주먹.md" title="wikilink">전설의 주먹</a>》</p></td>
+<td><p>2013.4.10</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/고령화가족.md" title="wikilink">고령화가족</a>》</p></td>
+<td><p>2013.5.9</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="../Page/크루즈_패밀리.md" title="wikilink">크루즈 패밀리</a>》</p></td>
+<td><p>2013.5.16</p></td>
+<td><p>애니메이션</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/드림웍스_애니메이션" title="wikilink">드림웍스 애니메이션</a></p></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/스타트렉_다크니스" title="wikilink">스타트렉 다크니스</a>》</p></td>
+<td><p>2013.5.30</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>한.중 합작</p></td>
+<td><p>《<a href="../Page/이별계약.md" title="wikilink">이별계약</a>》</p></td>
+<td><p>2013.6.20</p></td>
+<td><p>독립/예술</p></td>
+<td><p>제공, 배급, 제작</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/더_웹툰:_예고살인.md" title="wikilink">더 웹툰: 예고살인</a>》</p></td>
+<td><p>2013.6.27</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/48미터.md" title="wikilink">48미터</a>》</p></td>
+<td><p>2013.7.4</p></td>
+<td><p>독립/예술</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="../Page/터보_(영화).md" title="wikilink">터보</a>》</p></td>
+<td><p>2013.7.25</p></td>
+<td><p>애니메이션</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/드림웍스_애니메이션" title="wikilink">드림웍스 애니메이션</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/설국열차" title="wikilink">설국열차</a>》</p></td>
+<td><p>2013.8.1</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/명탐정_코난:_수평선상의_음모" title="wikilink">명탐정 코난: 수평선상의 음모</a>》</p></td>
+<td><p>2013.8.7</p></td>
+<td><p>애니메이션 <small>극장판</small></p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/감기_(영화)" title="wikilink">감기</a>》</p></td>
+<td><p>2013.8.14</p></td>
+<td><p>실사</p></td>
+<td><p>제공</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/스파이_(2013년_영화).md" title="wikilink">스파이</a>》</p></td>
+<td><p>2013.9.5</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/깡철이.md" title="wikilink">깡철이</a>》</p></td>
+<td><p>2013.10.2</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/롤러코스터_(영화).md" title="wikilink">롤러코스터</a>》</p></td>
+<td><p>2013.10.17</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/공범_(영화).md" title="wikilink">공범</a>》</p></td>
+<td><p>2013.10.24</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/소녀_(2013년_영화).md" title="wikilink">소녀</a>》</p></td>
+<td><p>2013.11.7</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/더_파이브_(영화).md" title="wikilink">더 파이브</a>》</p></td>
+<td><p>2013.11.14</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/올드보이_(영화)" title="wikilink">올드보이</a> <small>디지털 리마스터링</small>》</p></td>
+<td><p>2013.11.21<br />
+(재개봉)</p></td>
+<td><p>실사</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/열한시" title="wikilink">열한시</a>》</p></td>
+<td><p>2013.11.28</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/집으로_가는_길_(2013년_영화).md" title="wikilink">집으로 가는 길</a>》</p></td>
+<td><p>2013.12.11</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/그_강아지_그_고양이.md" title="wikilink">그 강아지 그 고양이</a>》</p></td>
+<td><p>독립/예술</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>벨기에</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/썬더와_마법저택" title="wikilink">썬더와 마법저택</a>》</p></td>
+<td><p>2013.12.24</p></td>
+<td><p>애니메이션</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### 2014년
+
+| 국가     | 제목                                                                                                                      | 개봉일        | 종류                       | 담당         | 자회사/레이블  | 제휴                                                                |
+| ------ | ----------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------ | ---------- | -------- | ----------------------------------------------------------------- |
+| 일본     | 《[극장판 포켓몬스터 베스트위시: 신의 속도 게노세크트, 뮤츠의 각성](https://ko.wikipedia.org/wiki/극장판_포켓몬스터_베스트위시:_신의_속도_게노세크트,_뮤츠의_각성 "wikilink")》 | 2014.1.9   | 애니메이션 <small>극장판</small> | 배급         | CJ엔터테인먼트 |                                                                   |
+| 미국     | 《[잭 라이언: 코드네임 쉐도우](https://ko.wikipedia.org/wiki/잭_라이언:_코드네임_쉐도우 "wikilink")》                                           | 2014.1.16  | 실사                       | 수입, 배급     | CJ엔터테인먼트 | [파라마운트](https://ko.wikipedia.org/wiki/파라마운트_픽쳐스 "wikilink")       |
+| 한국     | 《[수상한 그녀](../Page/수상한_그녀.md "wikilink")》                                                                                | 2014.1.22  | 실사                       | 제공, 배급     | CJ엔터테인먼트 |                                                                   |
+| 일본     | 《[명탐정 코난: 탐정들의 진혼가](https://ko.wikipedia.org/wiki/명탐정_코난:_탐정들의_진혼가 "wikilink")》                                         | 2014.2.13  | 애니메이션 <small>극장판</small> | 배급         | CJ엔터테인먼트 |                                                                   |
+| 한국     | 《[찌라시: 위험한 소문](../Page/찌라시:_위험한_소문.md "wikilink")》                                                                      | 2014.2.20  | 실사                       | 제공, 배급     | CJ엔터테인먼트 |                                                                   |
+| 한국     | 《[조난자들](../Page/조난자들.md "wikilink")》                                                                                    | 2014.3.6   | 독립/예술                    | 제공, 배급     | CJ엔터테인먼트 |                                                                   |
+| 미국     | 《[노아](../Page/노아_\(영화\).md "wikilink")》                                                                                 | 2014.3.20  | 실사                       | 수입, 배급     | CJ엔터테인먼트 | [파라마운트](https://ko.wikipedia.org/wiki/파라마운트_픽쳐스 "wikilink")       |
+| 한국     | 《[방황하는 칼날](../Page/방황하는_칼날_\(2014년_영화\).md "wikilink")》                                                                 | 2014.4.10  | 실사                       | 제공, 배급     | CJ엔터테인먼트 |                                                                   |
+| 한.미 합작 | 《[메이크 유어 무브](../Page/메이크_유어_무브.md "wikilink")》                                                                          | 2014.4.17  | 실사                       | 제공, 배급, 제작 | CJ엔터테인먼트 |                                                                   |
+| 미국     | 《[천재 강아지 미스터 피바디](../Page/천재_강아지_미스터_피바디.md "wikilink")》                                                                | 2014.4.24  | 애니메이션                    | 수입, 배급     | CJ엔터테인먼트 | [드림웍스 애니메이션](https://ko.wikipedia.org/wiki/드림웍스_애니메이션 "wikilink") |
+| 한국     | 《[표적](../Page/표적_\(2014년_영화\).md "wikilink")》                                                                           | 2014.4.30  | 실사                       | 제공, 배급     | CJ엔터테인먼트 |                                                                   |
+| 한국     | 《[신촌좀비만화](../Page/신촌좀비만화.md "wikilink")》                                                                                | 2014.5.15  | 독립/예술                    | 배급         | CJ엔터테인먼트 |                                                                   |
+| 일본     | 《[극장판 루팡 3세 vs 명탐정 코난](../Page/루팡_3세_vs_명탐정_코난_THE_MOVIE.md "wikilink")》                                                | 2014.5.29  | 애니메이션 <small>극장판</small> | 배급         | CJ엔터테인먼트 |                                                                   |
+| 한국     | 《[우는 남자](../Page/우는_남자.md "wikilink")》                                                                                  | 2014.6.4   | 실사                       | 제공, 배급     | CJ엔터테인먼트 |                                                                   |
+| 미국     | 《[트랜스포머: 사라진 시대](../Page/트랜스포머:_사라진_시대.md "wikilink")》                                                                  | 2014.6.25  | 실사                       | 수입, 배급     | CJ엔터테인먼트 | [파라마운트](https://ko.wikipedia.org/wiki/파라마운트_픽쳐스 "wikilink")       |
+| 한국     | 《[좋은 친구들](../Page/좋은_친구들_\(2014년_영화\).md "wikilink")》                                                                   | 2014.7.10  | 실사                       | 배급         | CJ엔터테인먼트 |                                                                   |
+| 미국     | 《[드래곤 길들이기 2](../Page/드래곤_길들이기_2.md "wikilink")》                                                                        | 2014.7.23  | 애니메이션                    | 수입, 배급     | CJ엔터테인먼트 | [드림웍스 애니메이션](https://ko.wikipedia.org/wiki/드림웍스_애니메이션 "wikilink") |
+| 한국     | 《[명량](../Page/명량_\(영화\).md "wikilink")》                                                                                 | 2014.7.30  | 실사                       | 제공, 배급     | CJ엔터테인먼트 |                                                                   |
+| 일본     | 《[명탐정 코난: 이차원의 저격수](../Page/명탐정_코난:_이차원의_저격수.md "wikilink")》                                                            | 2014.8.6   | 애니메이션 <small>극장판</small> | 배급         | CJ엔터테인먼트 |                                                                   |
+| 미국     | 《[마더 데레사의 편지](https://ko.wikipedia.org/wiki/마더_데레사의_편지 "wikilink")》                                                     | 2014.8.21  | 실사                       | 배급         | CJ엔터테인먼트 |                                                                   |
+| 미국     | 《[닌자 터틀](../Page/닌자터틀.md "wikilink")》                                                                                   | 2014.8.28  | 실사                       | 수입, 배급     | CJ엔터테인먼트 | [파라마운트](https://ko.wikipedia.org/wiki/파라마운트_픽쳐스 "wikilink")       |
+| 한국     | 《[두근두근 내 인생](../Page/두근두근_내_인생_\(영화\).md "wikilink")》                                                                   | 2014.9.3   | 실사                       | 제공, 배급     | CJ엔터테인먼트 |                                                                   |
+| 한국     | 《[마담 뺑덕](../Page/마담_뺑덕.md "wikilink")》                                                                                  | 2014.10.2  | 실사                       | 제공, 배급     | CJ엔터테인먼트 |                                                                   |
+| 한국     | 《[정글 히어로](https://ko.wikipedia.org/wiki/정글_히어로 "wikilink")》                                                             | 애니메이션      | 배급                       | CJ엔터테인먼트   |          |                                                                   |
+| 한국     | 《[소리굽쇠](../Page/소리굽쇠_\(영화\).md "wikilink")》                                                                             | 2014.10.30 | 독립/예술                    | 배급         | CJ엔터테인먼트 |                                                                   |
+| 한국     | 《[거인](../Page/거인_\(영화\).md "wikilink")》                                                                                 | 2014.11.13 | 실사                       | 제공, 배급     | 필라멘트픽처스  |                                                                   |
+| 한국     | 《[봄](../Page/봄_\(영화\).md "wikilink")》                                                                                   | 2014.11.20 | 독립/예술                    | 배급         | 필라멘트픽처스  |                                                                   |
+| 한국     | 《[GROW: 인피니트의 리얼 청춘 라이프](https://ko.wikipedia.org/wiki/GROW:_인피니트의_리얼_청춘_라이프 "wikilink")》                               | 2014.12.4  | 실사                       | 제공         | CJ엔터테인먼트 |                                                                   |
+| 한국     | 《[목숨](https://ko.wikipedia.org/wiki/목숨_\(영화\) "wikilink")》                                                              | 독립/예술      | 제공, 배급                   | 필라멘트픽처스    |          |                                                                   |
+| 한국     | 《[국제시장](../Page/국제시장_\(영화\).md "wikilink")》                                                                             | 2014.12.17 | 실사                       | 제공, 배급     | CJ엔터테인먼트 |                                                                   |
+| 미국     | 《[마다가스카의 펭귄](../Page/마다가스카의_펭귄_\(영화\).md "wikilink")》                                                                   | 2014.12.31 | 애니메이션                    | 수입, 배급     | CJ엔터테인먼트 | [드림웍스 애니메이션](https://ko.wikipedia.org/wiki/드림웍스_애니메이션 "wikilink") |
+|        |                                                                                                                         |            |                          |            |          |                                                                   |
+
+#### 2015년
+
+| 국가     | 제목                                                                                       | 개봉일                      | 종류                       | 담당       | 자회사/레이블  | 제휴                                                                |
+| ------ | ---------------------------------------------------------------------------------------- | ------------------------ | ------------------------ | -------- | -------- | ----------------------------------------------------------------- |
+| 한국     | 《[오늘의 연애](../Page/오늘의_연애.md "wikilink")》                                                 | 2015.1.14                | 실사                       | 제공, 배급   | CJ엔터테인먼트 |                                                                   |
+| 한국     | 《[쎄시봉](../Page/쎄시봉_\(영화\).md "wikilink")》                                                | 2015.2.5                 | 실사                       | 제공, 배급   | CJ엔터테인먼트 |                                                                   |
+| 미국     | 《[스폰지밥3D](../Page/스폰지밥3D.md "wikilink")》                                                 | 2015.2.18                | 애니메이션                    | 수입, 배급   | CJ엔터테인먼트 | [파라마운트](https://ko.wikipedia.org/wiki/파라마운트_픽쳐스 "wikilink")       |
+| 한국     | 《[순수의 시대](../Page/순수의_시대_\(2015년_영화\).md "wikilink")》                                    | 2015.3.5                 | 실사                       | 제공, 배급   | CJ엔터테인먼트 |                                                                   |
+| 미국     | 《[뷰티풀 라이](../Page/뷰티풀_라이.md "wikilink")》                                                 | 2015.3.26                | 실사                       | 수입, 배급   | CJ엔터테인먼트 |                                                                   |
+| 한국     | 《[장수상회](../Page/장수상회.md "wikilink")》                                                     | 2015.4.9                 | 실사                       | 제공, 배급   | CJ엔터테인먼트 |                                                                   |
+| 한.미 합작 | 《[다이노 타임](../Page/다이노_타임.md "wikilink")》                                                 | 2015.4.30                | 애니메이션                    | 제공, 배급   | CJ엔터테인먼트 |                                                                   |
+| 한국     | 《[악의 연대기](../Page/악의_연대기.md "wikilink")》                                                 | 2015.5.14                | 실사                       | 제공, 배급   | CJ엔터테인먼트 |                                                                   |
+| 미국     | 《[홈](../Page/홈_\(2015년_영화\).md "wikilink")》                                              | 2015.5.21                | 애니메이션                    | 수입, 배급   | CJ엔터테인먼트 | [드림웍스 애니메이션](https://ko.wikipedia.org/wiki/드림웍스_애니메이션 "wikilink") |
+| 한국     | 《[은밀한 유혹](../Page/은밀한_유혹_\(2015년_영화\).md "wikilink")》                                    | 2015.6.4                 | 실사                       | 제공, 배급   | CJ엔터테인먼트 |                                                                   |
+| 한국     | 《[손님](../Page/손님_\(영화\).md "wikilink")》                                                  | 2015.7.9                 | 실사                       | 제공, 배급   | CJ엔터테인먼트 |                                                                   |
+| 일본     | 《[극장판 요괴워치: 탄생의 비밀이다냥\!](https://ko.wikipedia.org/wiki/극장판_요괴워치:_탄생의_비밀이다냥! "wikilink")》 | 2015.7.22                | 애니메이션 <small>극장판</small> | 배급       | CJ엔터테인먼트 |                                                                   |
+| 한국     | 《[베테랑](../Page/베테랑_\(영화\).md "wikilink")》                                                | 2015.8.5                 | 실사                       | 제공, 배급   | CJ엔터테인먼트 |                                                                   |
+| 일본     | 《[명탐정 코난: 화염의 해바라기](../Page/명탐정_코난:_화염의_해바라기.md "wikilink")》                             | 애니메이션 <small>극장판</small> | 배급                       | CJ엔터테인먼트 |          |                                                                   |
+| 미국     | 《[아메리칸 울트라](../Page/아메리칸_울트라.md "wikilink")》                                             | 2015.8.27                | 실사                       | 배급       | CJ엔터테인먼트 |                                                                   |
+| 한국     | 《[탐정: 더 비기닝](../Page/탐정:_더_비기닝.md "wikilink")》                                           | 2015.9.24                | 실사                       | 제공, 배급   | CJ엔터테인먼트 |                                                                   |
+| 한국     | 《[성난 변호사](../Page/성난_변호사.md "wikilink")》                                                 | 2015.10.8                | 실사                       | 제공, 배급   | CJ엔터테인먼트 |                                                                   |
+| 한국     | 《[돌연변이](../Page/돌연변이_\(영화\).md "wikilink")》                                              | 2015.10.22               | 실사                       | 제공, 배급   | 필라멘트픽처스  |                                                                   |
+| 한국     | 《[검은 사제들](../Page/검은_사제들.md "wikilink")》                                                 | 2015.11.5                | 실사                       | 제공, 배급   | CJ엔터테인먼트 |                                                                   |
+| 한국     | 《[도리화가](../Page/도리화가.md "wikilink")》                                                     | 2015.11.25               | 실사                       | 제공, 배급   | CJ엔터테인먼트 |                                                                   |
+| 한국     | 《[히말라야](../Page/히말라야_\(영화\).md "wikilink")》                                              | 2015.12.16               | 실사                       | 제공, 배급   | CJ엔터테인먼트 |                                                                   |
+|        |                                                                                          |                          |                          |          |          |                                                                   |
+
+#### 2016년
+
+<table>
+<thead>
+<tr class="header">
+<th><p>국가</p></th>
+<th><p>제목</p></th>
+<th><p>개봉일</p></th>
+<th><p>종류</p></th>
+<th><p>담당</p></th>
+<th><p>자회사/레이블</p></th>
+<th><p>제휴</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/나를_잊지_말아요.md" title="wikilink">나를 잊지 말아요</a>》</p></td>
+<td><p>2016.1.7</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="../Page/쿵푸_팬더_3.md" title="wikilink">쿵푸 팬더 3</a>》</p></td>
+<td><p>2016.1.28</p></td>
+<td><p>애니메이션</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/드림웍스_애니메이션" title="wikilink">드림웍스 애니메이션</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/좋아해줘.md" title="wikilink">좋아해줘</a>》</p></td>
+<td><p>2016.2.17</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/글로리데이.md" title="wikilink">글로리데이</a>》</p></td>
+<td><p>2016.3.24</p></td>
+<td><p>실사</p></td>
+<td><p>제공</p></td>
+<td><p>필라멘트픽처스</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/시간이탈자.md" title="wikilink">시간이탈자</a>》</p></td>
+<td><p>2016.4.13</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/탐정_홍길동:_사라진_마을.md" title="wikilink">탐정 홍길동: 사라진 마을</a>》</p></td>
+<td><p>2016.5.4</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/극장판_안녕_자두야" title="wikilink">극장판 안녕 자두야</a>》</p></td>
+<td><p>애니메이션 <small>극장판</small></p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/아가씨.md" title="wikilink">아가씨</a>》</p></td>
+<td><p>2016.6.1</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/우리들.md" title="wikilink">우리들</a>》</p></td>
+<td><p>2016.6.16</p></td>
+<td><p>실사</p></td>
+<td><p>제공</p></td>
+<td><p>필라멘트픽처스</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/비밀은_없다.md" title="wikilink">비밀은 없다</a>》</p></td>
+<td><p>2016.6.23</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/봉이_김선달_(2016년_영화).md" title="wikilink">봉이 김선달</a>》</p></td>
+<td><p>2016.7.6</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/극장판_요괴워치:_염라대왕과_5개의_이야기다냥!" title="wikilink">극장판 요괴워치: 염라대왕과 5개의 이야기다냥!</a>》</p></td>
+<td><p>2016.7.20</p></td>
+<td><p>애니메이션 <small>극장판</small></p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/인천상륙작전_(2016년_영화).md" title="wikilink">인천상륙작전</a>》<br />
+《인천상륙작전 : 익스텐디드 에디션》</p></td>
+<td><p>2016.7.27<br />
+2016.9.13</p></td>
+<td><p>실사<br />
+확장판</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>일본</p></td>
+<td><p>《<a href="../Page/명탐정_코난:_순흑의_악몽.md" title="wikilink">명탐정 코난: 순흑의 악몽</a>》</p></td>
+<td><p>2016.8.3</p></td>
+<td><p>애니메이션 <small>극장판</small></p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/고산자,_대동여지도.md" title="wikilink">고산자, 대동여지도</a>》</p></td>
+<td><p>2016.9.7</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>일본</p></td>
+<td><p>《<a href="../Page/아이_엠_스타!.md" title="wikilink">아이엠스타 뮤직어워드</a>》</p></td>
+<td><p>2016.9.14</p></td>
+<td><p>애니메이션 <small>극장판</small></p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/아수라_(영화).md" title="wikilink">아수라</a>》</p></td>
+<td><p>2016.9.28</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/형_(2016년_영화).md" title="wikilink">형</a>》</p></td>
+<td><p>2016.11.23</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/원피스_필름_골드" title="wikilink">원피스 필름 골드</a>》</p></td>
+<td><p>2016.12.8</p></td>
+<td><p>애니메이션 <small>극장판</small></p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/마스터_(2016년_영화).md" title="wikilink">마스터</a>》</p></td>
+<td><p>2016.12.21</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/루돌프와_많이있어" title="wikilink">루돌프와 많이있어</a>》</p></td>
+<td><p>2016.12.28</p></td>
+<td><p>애니메이션</p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### 2017년
+
+<table>
+<thead>
+<tr class="header">
+<th><p>국가</p></th>
+<th><p>제목</p></th>
+<th><p>개봉일</p></th>
+<th><p>종류</p></th>
+<th><p>담당</p></th>
+<th><p>자회사/레이블</p></th>
+<th><p>제휴</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/여교사_(2017년_영화).md" title="wikilink">여교사</a>》</p></td>
+<td><p>2017.1.4</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>필라멘트픽처스</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/공조_(영화).md" title="wikilink">공조</a>》</p></td>
+<td><p>2017.1.18</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/조작된_도시.md" title="wikilink">조작된 도시</a>》</p></td>
+<td><p>2017.2.9</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="../Page/트롤_(2016년_영화).md" title="wikilink">트롤</a>》</p></td>
+<td><p>2017.2.16</p></td>
+<td><p>애니메이션</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/드림웍스_애니메이션" title="wikilink">드림웍스 애니메이션</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="../Page/걸_온_더_트레인_(영화).md" title="wikilink">걸 온 더 트레인</a>》</p></td>
+<td><p>2017.3.9</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/드림웍스" title="wikilink">드림웍스 픽처스</a><br />
+(Amblin Partners)</p></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/임금님의_사건수첩.md" title="wikilink">임금님의 사건수첩</a>》</p></td>
+<td><p>2017.4.26</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="../Page/보스_베이비.md" title="wikilink">보스 베이비</a>》</p></td>
+<td><p>2017.5.3</p></td>
+<td><p>애니메이션</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/드림웍스_애니메이션" title="wikilink">드림웍스 애니메이션</a></p></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/불한당:_나쁜_놈들의_세상.md" title="wikilink">불한당: 나쁜 놈들의 세상</a>》</p></td>
+<td><p>2017.5.17</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/리얼_(영화).md" title="wikilink">리얼</a>》</p></td>
+<td><p>2017.6.28</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>일본</p></td>
+<td><p>《[[짱구는_못말려_극장판:_습격</p></td>
+<td><p>_외계인_덩덩이|극장판 짱구는 못말려 : 습격</p></td>
+<td><p>외계인 덩덩이]]》</p></td>
+<td><p>2017.7.20</p></td>
+<td><p>애니메이션 <small>극장판</small></p></td>
+<td><p>배급</p></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/군함도_(영화).md" title="wikilink">군함도</a>》</p></td>
+<td><p>2017.7.26</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>일본</p></td>
+<td><p>《<a href="../Page/명탐정_코난:_진홍의_연가.md" title="wikilink">명탐정 코난: 진홍의 연가</a>》</p></td>
+<td><p>2017.8.2</p></td>
+<td><p>애니메이션 <small>극장판</small></p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/극장판_요괴워치:_하늘을_나는_고래와_더블세계다냥!" title="wikilink">극장판 요괴워치: 하늘을 나는 고래와 더블세계다냥!</a>》</p></td>
+<td><p>2017.9.27</p></td>
+<td><p>애니메이션 <small>극장판</small></p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/남한산성_(영화).md" title="wikilink">남한산성</a>》</p></td>
+<td><p>2017.10.3</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/침묵_(2017년_영화).md" title="wikilink">침묵</a>》</p></td>
+<td><p>2017.11.2</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="../Page/땡큐_포_유어_서비스_(영화).md" title="wikilink">땡큐 포 유어 서비스</a>》</p></td>
+<td><p>2017.12.7</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/드림웍스" title="wikilink">드림웍스 픽처스</a><br />
+(Amblin Partners)</p></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/1987_(영화).md" title="wikilink">1987</a>》</p></td>
+<td><p>2017.12.27</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### 2018년
+
+<table>
+<thead>
+<tr class="header">
+<th><p>국가</p></th>
+<th><p>제목</p></th>
+<th><p>개봉일</p></th>
+<th><p>종류</p></th>
+<th><p>담당</p></th>
+<th><p>레이블</p></th>
+<th><p>제휴</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/그것만이_내_세상" title="wikilink">그것만이 내 세상</a>》</p></td>
+<td><p>2018.1.17</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/골든_슬럼버_(2018년_영화)" title="wikilink">골든 슬럼버</a>》</p></td>
+<td><p>2018.2.14</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/명탐정_코난:_감벽의_관" title="wikilink">명탐정 코난: 감벽의 관</a>》</p></td>
+<td><p>애니메이션 <small>극장판</small></p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/궁합_(영화).md" title="wikilink">궁합</a>》</p></td>
+<td><p>2018.2.28</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/더_포스트" title="wikilink">더 포스트</a>》</p></td>
+<td><p>수입</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/드림웍스" title="wikilink">드림웍스 픽처스</a><br />
+(Amblin Partners)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/7년의_밤.md" title="wikilink">7년의 밤</a>》</p></td>
+<td><p>2018.3.28</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/엔테베_작전_(영화)" title="wikilink">엔테베 작전</a>》</p></td>
+<td><p>2018.6.7</p></td>
+<td><p>실사</p></td>
+<td><p>수입</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p>Amblin Partners</p></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/탐정:_리턴즈" title="wikilink">탐정: 리턴즈</a>》</p></td>
+<td><p>2018.6.13</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/신비아파트:_금빛_도깨비와_비밀의_동굴" title="wikilink">신비아파트: 금빛 도깨비와 비밀의 동굴</a>》</p></td>
+<td><p>2018.7.25</p></td>
+<td><p>애니메이션 <small>극장판</small></p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/공작_(영화)" title="wikilink">공작</a>》</p></td>
+<td><p>2018.8.8</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/명탐정_코난:_제로의_집행인" title="wikilink">명탐정 코난: 제로의 집행인</a>》</p></td>
+<td><p>애니메이션 <small>극장판</small></p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/협상_(영화).md" title="wikilink">협상</a>》</p></td>
+<td><p>2018.9.19</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/극장판_요괴워치:_섀도우_사이드_도깨비_왕의_부활" title="wikilink">극장판 요괴워치: 섀도사이드 도깨비 왕의 부활</a>》</p></td>
+<td><p>2018.9.20</p></td>
+<td><p>애니메이션 <small>극장판</small></p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/벽_속에_숨은_마법시계_(영화)" title="wikilink">벽 속에 숨은 마법시계</a>》</p></td>
+<td><p>2018.10.31</p></td>
+<td><p>실사</p></td>
+<td><p>수입</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p>Amblin Partners</p></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/국가부도의_날" title="wikilink">국가부도의 날</a>》</p></td>
+<td><p>2018.11.28</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/짱구는_못말려_극장판:_폭성!_쿵후소년_~라면대란~" title="wikilink">극장판 짱구는 못말려: 아뵤! 쿵후 보이즈 ~라면 대란~</a>》</p></td>
+<td><p>2018.12.19</p></td>
+<td><p>애니메이션 <small>극장판</small></p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/PMC:_더_벙커" title="wikilink">PMC: 더 벙커</a>》</p></td>
+<td><p>2018.12.26</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### 2019년
+
+<table>
+<thead>
+<tr class="header">
+<th><p>국가</p></th>
+<th><p>제목</p></th>
+<th><p>개봉일</p></th>
+<th><p>종류</p></th>
+<th><p>담당</p></th>
+<th><p>레이블</p></th>
+<th><p>제휴</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/그린_북_(영화)" title="wikilink">그린 북</a>》</p></td>
+<td><p>2019.1.9</p></td>
+<td><p>실사</p></td>
+<td><p>수입</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/드림웍스" title="wikilink">드림웍스 픽처스</a><br />
+(Amblin Partners)</p></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/극한직업_(영화)" title="wikilink">극한직업</a>》</p></td>
+<td><p>2019.1.23</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/사바하" title="wikilink">사바하</a>》</p></td>
+<td><p>2019.2.20</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/걸캅스" title="wikilink">걸캅스</a>》</p></td>
+<td><p>2019.5.9</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/기생충_(영화)" title="wikilink">기생충</a>》</p></td>
+<td><p>2019.5.30</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/세상을_바꾼_변호인" title="wikilink">세상을 바꾼 변호인</a>》</p></td>
+<td><p>2019.6.13</p></td>
+<td><p>실사</p></td>
+<td><p>수입</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p>Amblin Partners</p></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/엑시트" title="wikilink">엑시트</a>》</p></td>
+<td><p>2019.7.31</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/안녕_베일리" title="wikilink">안녕 베일리</a>》</p></td>
+<td><p>2019.9.5</p></td>
+<td><p>실사</p></td>
+<td><p>수입</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p>Amblin Partners</p></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/나쁜_녀석들:_더_무비" title="wikilink">나쁜 녀석들: 더 무비</a>》</p></td>
+<td><p>2019.9.11</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급, 제작</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/신의_한_수:_귀수편" title="wikilink">신의 한 수: 귀수편</a>》</p></td>
+<td><p>2019.11.7</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/캡티브_스테이트" title="wikilink">캡티브 스테이트</a>》</p></td>
+<td><p>2019.11.14</p></td>
+<td><p>실사</p></td>
+<td><p>수입</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p>Amblin Partners</p></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/백두산_(영화)" title="wikilink">백두산</a>》</p></td>
+<td><p>2019.12.19</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/극장판_신비아파트:_하늘도깨비_대_요르문간드" title="wikilink">극장판 신비아파트: 하늘도깨비 대 요르문간드</a>》</p></td>
+<td><p>애니메이션 <small>극장판</small></p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### 2020년
+
+<table>
+<thead>
+<tr class="header">
+<th><p>국가</p></th>
+<th><p>제목</p></th>
+<th><p>개봉일</p></th>
+<th><p>종류</p></th>
+<th><p>담당</p></th>
+<th><p>레이블</p></th>
+<th><p>제휴</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/클로젯" title="wikilink">클로젯</a>》</p></td>
+<td><p>2020.2.5</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/1917_(영화)" title="wikilink">1917</a>》</p></td>
+<td><p>2020.2.19</p></td>
+<td><p>실사</p></td>
+<td><p>수입</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/드림웍스" title="wikilink">드림웍스 픽처스</a><br />
+(Amblin Partners)</p></td>
+</tr>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/다크_워터스" title="wikilink">다크 워터스</a>》</p></td>
+<td><p>2020.3.11</p></td>
+<td><p>실사</p></td>
+<td><p>수입</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td><p>Amblin Partners</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 독립/예술
+
+| 프로젝트명      | 국가                                                                  | 제목                                                               | 개봉일       | 종류 | 담당     | 레이블      |
+| ---------- | ------------------------------------------------------------------- | ---------------------------------------------------------------- | --------- | -- | ------ | -------- |
+| 특별기획전      |                                                                     |                                                                  |           |    |        |          |
+| CJ 컬렉션     | 이란                                                                  | 《[대결](https://ko.wikipedia.org/wiki/대결_\(2004년_영화\) "wikilink")》 | 2005.7.8  | 실사 | 수입, 배급 | CJ엔터테인먼트 |
+| 프랑스        | 《[사냥꾼](https://ko.wikipedia.org/wiki/사냥꾼_\(2004년_영화\) "wikilink")》  |                                                                  |           |    |        |          |
+| 대만         | 《[드랙퀸 가무단](https://ko.wikipedia.org/wiki/드랙퀸_가무단 "wikilink")》       |                                                                  |           |    |        |          |
+| 말레이시아      | 《[아름다운 세탁기](https://ko.wikipedia.org/wiki/아름다운_세탁기 "wikilink")》     |                                                                  |           |    |        |          |
+| 중국         | 《[구름의 남쪽](https://ko.wikipedia.org/wiki/구름의_남쪽 "wikilink")》         |                                                                  |           |    |        |          |
+| 산학협력작      |                                                                     |                                                                  |           |    |        |          |
+| KAFA Films | 한국                                                                  | 《[그녀들의 방](../Page/그녀들의_방.md "wikilink")》                         | 2009.3.12 | 실사 | 배급     | CJ엔터테인먼트 |
+| 한국         | 《[어떤 개인 날](../Page/어떤_개인_날.md "wikilink")》                          |                                                                  |           |    |        |          |
+| 한국         | 《[장례식의 멤버](https://ko.wikipedia.org/wiki/장례식의_멤버 "wikilink")》       |                                                                  |           |    |        |          |
+| 한국         | 《[제불찰씨 이야기](https://ko.wikipedia.org/wiki/제불찰씨_이야기 "wikilink")》     | 애니메이션                                                            |           |    |        |          |
+| 한국         | 《[나는 곤경에 처했다](https://ko.wikipedia.org/wiki/나는_곤경에_처했다 "wikilink")》 | 2009.12.10                                                       | 실사        | 배급 |        |          |
+| 한국         | 《[너와 나의 21세기](../Page/너와_나의_21세기.md "wikilink")》                    |                                                                  |           |    |        |          |
+| 한국         | 《[여자 없는 세상](../Page/여자_없는_세상.md "wikilink")》                        |                                                                  |           |    |        |          |
+| 한국         | 《[로망은 없다](https://ko.wikipedia.org/wiki/로망은_없다 "wikilink")》         | 애니메이션                                                            |           |    |        |          |
+| 한국         | 《[간증](https://ko.wikipedia.org/wiki/간증 "wikilink")》                 | 2011.3.17                                                        | 실사        | 배급 |        |          |
+| 한.일 합작     | 《[심도](https://ko.wikipedia.org/wiki/심도 "wikilink")》                 |                                                                  |           |    |        |          |
+| 한국         | 《[짐승의 끝](../Page/짐승의_끝.md "wikilink")》                              |                                                                  |           |    |        |          |
+| 한국         | 《[집](https://ko.wikipedia.org/wiki/집_\(2010년_영화\) "wikilink")》      | 애니메이션                                                            |           |    |        |          |
+| 한국         | 《[가시](../Page/가시_\(2012년_영화\).md "wikilink")》                       | 2012.3.8                                                         | 실사        | 배급 |        |          |
+| 한국         | 《[밀월도 가는 길](https://ko.wikipedia.org/wiki/밀월도_가는_길 "wikilink")》     |                                                                  |           |    |        |          |
+| 한국         | 《[태어나서 미안해](https://ko.wikipedia.org/wiki/태어나서_미안해 "wikilink")》     |                                                                  |           |    |        |          |
+| 한국         | 《[은실이](https://ko.wikipedia.org/wiki/은실이_\(2011년_영화\) "wikilink")》  | 애니메이션                                                            |           |    |        |          |
+| 한국         | 《[설인](../Page/설인_\(2013년_영화\).md "wikilink")》                       | 2013.3.14                                                        | 실사        | 배급 |        |          |
+| 한국         | 《[누구나 제 명에 죽고싶다](../Page/누구나_제_명에_죽고싶다.md "wikilink")》              |                                                                  |           |    |        |          |
+|            |                                                                     |                                                                  |           |    |        |          |
+
+### 개봉 취소된 영화
+
+<table>
+<thead>
+<tr class="header">
+<th><p>국가</p></th>
+<th><p>제목</p></th>
+<th><p>개봉 확정 날짜</p></th>
+<th><p>종류</p></th>
+<th><p>담당</p></th>
+<th><p>제휴</p></th>
+<th><p>취소사유</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>미국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/태양의_서커스_월드_어웨이" title="wikilink">태양의 서커스: 신비의 세계</a>》</p></td>
+<td><p>2013.3</p></td>
+<td><p>실사</p></td>
+<td><p>수입, 배급</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파라마운트_픽쳐스" title="wikilink">파라마운트</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/CGV" title="wikilink">CGV</a>에서 단독으로 상영할려고 했으나 내부 사정으로 인해서 개봉 자체가 무산<br />
+다른 배급사를 통해서 태양의 서커스 월드 어웨이라는 이름으로 2016.1.7일에 <a href="https://ko.wikipedia.org/wiki/메가박스" title="wikilink">메가박스</a>에서만 개봉하게 되었다.</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 애니메이션 사업본부
+
+  - 참여 영화에서 부서명칭을 따로 표시하지 않고, 간략하게 **CJ ENM** ()로 표기한다.
+
+<table>
+<thead>
+<tr class="header">
+<th><p>국가</p></th>
+<th><p>제목</p></th>
+<th><p>개봉일</p></th>
+<th><p>종류</p></th>
+<th><p>담당</p></th>
+<th><p>레이블</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>On Media (2008 ~ 2011)</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/명탐정_코난:_베이커가의_망령" title="wikilink">명탐정 코난: 베이커가의 망령</a>》</p></td>
+<td><p>2008.5.1</p></td>
+<td><p>애니메이션 <small>극장판</small></p></td>
+<td><p>수입, 배급</p></td>
+<td><p>투니버스㈜온미디어</p></td>
+</tr>
+<tr class="odd">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/케로로_더_무비:_케로로_VS_케로로_천공대결전" title="wikilink">케로로 더 무비: 케로로 VS 케로로 천공대결전</a>》</p></td>
+<td><p>2008.8.7</p></td>
+<td><p>투니버스㈜온미디어</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/케로로_더_무비:_드래곤_워리어" title="wikilink">케로로 더 무비: 드래곤 워리어</a>》</p></td>
+<td><p>2009.4.30</p></td>
+<td><p>수입</p></td>
+<td><p>투니버스㈜온미디어</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/명탐정_코난:_칠흑의_추적자" title="wikilink">명탐정 코난: 칠흑의 추적자</a>》</p></td>
+<td><p>2009.8.7</p></td>
+<td><p>투니버스㈜온미디어</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/원피스:_스트롱_월드" title="wikilink">원피스 극장판: 스트롱 월드</a>》</p></td>
+<td><p>2010.2.11</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>투니버스㈜온미디어</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/케로로_더_무비:_기적의_사차원섬" title="wikilink">케로로 더 무비: 기적의 사차원섬</a>》</p></td>
+<td><p>2010.4.29</p></td>
+<td><p>투니버스㈜온미디어</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/명탐정_코난:_천공의_난파선" title="wikilink">명탐정 코난: 천공의 난파선</a>》</p></td>
+<td><p>2010.7.21</p></td>
+<td><p>투니버스㈜온미디어</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/극장판_메탈_베이블레이드_VS_태양_작열의_침략자_솔블레이즈" title="wikilink">극장판 메탈 베이블레이드 VS 태양 작열의 침략자 솔블레이즈</a>》</p></td>
+<td><p>2011.1.5</p></td>
+<td><p>공동제공</p></td>
+<td><p>투니버스㈜온미디어</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/아따맘마" title="wikilink">극장판 아따맘마</a>》</p></td>
+<td><p>2011.2.17</p></td>
+<td><p>수입</p></td>
+<td><p>투니버스㈜온미디어</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>CJ E&amp;M 방송사업부문 (2011 ~ 2015)</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/썬더일레븐_극장판:_최강군단_오우거의_습격" title="wikilink">썬더일레븐 극장판: 최강군단 오우거의 습격</a>》</p></td>
+<td><p>2011.5.5</p></td>
+<td><p>애니메이션 <small>극장판</small></p></td>
+<td><p>제공</p></td>
+<td><p>CJ E&amp;M㈜투니버스</p></td>
+</tr>
+<tr class="odd">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/명탐정_코난:_침묵의_15분" title="wikilink">명탐정 코난: 침묵의 15분</a>》</p></td>
+<td><p>2011.8.3</p></td>
+<td><p>공동제공</p></td>
+<td><p>CJ E&amp;M㈜투니버스</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/닌자보이_란타로_극장판:_시끌벅적_방학숙제_대소동!" title="wikilink">닌자보이 란타로 극장판: 시끌벅적 방학숙제 대소동!</a>》</p></td>
+<td><p>2012.2.23</p></td>
+<td><p>수입</p></td>
+<td><p>CJ E&amp;M㈜투니버스</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/극장판_썬더일레븐_GO:_궁극의_우정_그리폰" title="wikilink">극장판 썬더일레븐 GO: 궁극의 우정 그리폰</a>》</p></td>
+<td><p>2012.5.24</p></td>
+<td><p>수입, 제공</p></td>
+<td><p>CJ E&amp;M㈜투니버스</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/명탐정_코난:_11번째_스트라이커" title="wikilink">명탐정 코난: 11번째 스트라이커</a>》</p></td>
+<td><p>2012.7.19</p></td>
+<td><p>수입</p></td>
+<td><p>CJ E&amp;M㈜투니버스</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>일본</p></td>
+<td><p>《<a href="../Page/원피스_극장판_Z.md" title="wikilink">원피스 극장판 Z</a>》</p></td>
+<td><p>2013.3.21</p></td>
+<td><p>수입</p></td>
+<td><p>CJ E&amp;M㈜투니버스</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>일본</p></td>
+<td><p>《<a href="../Page/극장판_썬더일레븐_GO_VS_골판지_전사_W.md" title="wikilink">극장판 썬더일레븐 GO VS 골판지 전사 W</a>》</p></td>
+<td><p>2013.6.5</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ E&amp;M㈜투니버스</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/명탐정_코난:_수평선상의_음모" title="wikilink">명탐정 코난: 수평선상의 음모</a>》</p></td>
+<td><p>2013.8.7</p></td>
+<td><p>수입</p></td>
+<td><p>CJ E&amp;M㈜투니버스</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/명탐정_코난:_탐정들의_진혼가" title="wikilink">명탐정 코난: 탐정들의 진혼가</a>》</p></td>
+<td><p>2014.2.13</p></td>
+<td><p>수입</p></td>
+<td><p>CJ E&amp;M㈜투니버스</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>일본</p></td>
+<td><p>《<a href="../Page/루팡_3세_vs_명탐정_코난_THE_MOVIE.md" title="wikilink">극장판 루팡 3세 vs 명탐정 코난</a>》</p></td>
+<td><p>2014.5.29</p></td>
+<td><p>수입</p></td>
+<td><p>CJ E&amp;M㈜투니버스</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>일본</p></td>
+<td><p>《<a href="../Page/명탐정_코난:_이차원의_저격수.md" title="wikilink">명탐정 코난: 이차원의 저격수</a>》</p></td>
+<td><p>2014.8.6</p></td>
+<td><p>수입</p></td>
+<td><p>CJ E&amp;M㈜투니버스</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>영국</p></td>
+<td><p>《<a href="../Page/토마스와_친구들:_잃어버린_왕관.md" title="wikilink">토마스와 친구들: 잃어버린 왕관</a>》</p></td>
+<td><p>2014.11.13</p></td>
+<td><p>애니메이션</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ E&amp;M㈜투니버스</p></td>
+</tr>
+<tr class="even">
+<td><p>일본</p></td>
+<td><p>《<a href="../Page/명탐정_코난:_코난_실종사건_~사상_최악의_이틀~.md" title="wikilink">명탐정 코난: 코난 실종사건 ~사상 최악의 이틀~</a>》</p></td>
+<td><p>2015.2.12</p></td>
+<td><p>애니메이션 <small>TV 무비</small></p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ E&amp;M㈜투니버스</p></td>
+</tr>
+<tr class="odd">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/하나와_앨리스_:_살인사건" title="wikilink">하나와 앨리스 : 살인사건</a>》</p></td>
+<td><p>2015.5.28</p></td>
+<td><p>애니메이션</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ E&amp;M㈜투니버스</p></td>
+</tr>
+<tr class="even">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/극장판_요괴워치:_탄생의_비밀이다냥!" title="wikilink">극장판 요괴워치: 탄생의 비밀이다냥!</a>》</p></td>
+<td><p>2015.7.22</p></td>
+<td><p>애니메이션 <small>극장판</small></p></td>
+<td><p>수입</p></td>
+<td><p>CJ E&amp;M㈜투니버스</p></td>
+</tr>
+<tr class="odd">
+<td><p>일본</p></td>
+<td><p>《<a href="../Page/명탐정_코난:_화염의_해바라기.md" title="wikilink">명탐정 코난: 화염의 해바라기</a>》</p></td>
+<td><p>2015.8.5</p></td>
+<td><p>수입, 배급</p></td>
+<td><p>CJ E&amp;M㈜투니버스</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>일본</p></td>
+<td><p>《<a href="../Page/드래곤볼_Z:_부활의_F.md" title="wikilink">드래곤볼 Z: 부활의 F</a>》</p></td>
+<td><p>2015.10.1</p></td>
+<td><p>수입, 제공</p></td>
+<td><p>CJ E&amp;M㈜투니버스</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>CJ E&amp;M㈜ 애니메이션 사업부문/CJ ENM㈜ 애니메이션 사업부문 (2016 ~ )</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>일본</p></td>
+<td><p>《<a href="../Page/아이_엠_스타!.md" title="wikilink">극장판 아이엠스타 : 꿈의 오디션!</a>》</p></td>
+<td><p>2016.2.11</p></td>
+<td><p>애니메이션 <small>극장판</small></p></td>
+<td><p>수입, 제공</p></td>
+<td><p>CJ E&amp;M㈜애니메이션 사업부문</p></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/극장판_안녕_자두야" title="wikilink">극장판 안녕 자두야</a>》</p></td>
+<td><p>2016.5.4</p></td>
+<td><p>투자, 기획, 공동제작</p></td>
+<td><p>CJ E&amp;M㈜애니메이션 사업부문</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/극장판_요괴워치:_염라대왕과_5개의_이야기다냥!" title="wikilink">극장판 요괴워치: 염라대왕과 5개의 이야기다냥!</a>》</p></td>
+<td><p>2016.7.20</p></td>
+<td><p>수입</p></td>
+<td><p>CJ E&amp;M㈜</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>일본</p></td>
+<td><p>《<a href="../Page/명탐정_코난:_순흑의_악몽.md" title="wikilink">명탐정 코난: 순흑의 악몽</a>》</p></td>
+<td><p>2016.8.3</p></td>
+<td><p>수입, 배급</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/新극장판_이니셜D:_레전드3_-몽현-" title="wikilink">新극장판 이니셜D: 레전드3 -몽현-</a>》</p></td>
+<td><p>2016.8.25</p></td>
+<td><p>수입, 제공</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>일본</p></td>
+<td><p>《<a href="../Page/아이_엠_스타!.md" title="wikilink">아이엠스타 뮤직어워드</a>》</p></td>
+<td><p>2016.9.14</p></td>
+<td><p>수입</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/원피스_필름_골드" title="wikilink">원피스 필름 골드</a>》</p></td>
+<td><p>2016.12.8</p></td>
+<td><p>수입</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/루돌프와_많이있어" title="wikilink">루돌프와 많이있어</a>》</p></td>
+<td><p>2016.12.28</p></td>
+<td><p>애니메이션</p></td>
+<td><p>수입</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>일본</p></td>
+<td><p>《<a href="../Page/명탐정_코난_에피소드_“원”_작아진_명탐정.md" title="wikilink">명탐정 코난 에피소드 “원” 작아진 명탐정</a>》</p></td>
+<td><p>2017.2.8</p></td>
+<td><p>애니메이션 <small>TV 무비</small></p></td>
+<td><p>수입, 제공</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/극장판_또봇:_로봇군단의_습격" title="wikilink">극장판 또봇: 로봇군단의 습격</a>》</p></td>
+<td><p>2017.4.27</p></td>
+<td><p>애니메이션 <small>극장판</small></p></td>
+<td><p>투자, 제공, 배급</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>일본</p></td>
+<td><p>《베이블레이드 버스트 갓 : 갓 발키리의 탄생》</p></td>
+<td><p>2017.6.1</p></td>
+<td><p>제공, 배급</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>일본</p></td>
+<td><p>《[[짱구는_못말려_극장판:_습격</p></td>
+<td><p>_외계인_덩덩이|극장판 짱구는 못말려: 습격</p></td>
+<td><p>외계인 덩덩이]]》</p></td>
+<td><p>2017.7.20</p></td>
+<td><p>수입</p></td>
+</tr>
+<tr class="even">
+<td><p>일본</p></td>
+<td><p>《<a href="../Page/명탐정_코난:_진홍의_연가.md" title="wikilink">명탐정 코난: 진홍의 연가</a>》</p></td>
+<td><p>2017.8.2</p></td>
+<td><p>수입</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/극장판_에그엔젤_코코밍:_푸르밍과_두근두근_코코밍_세계" title="wikilink">극장판 에그엔젤 코코밍: 푸르밍과 두근두근 코코밍 세계</a>》</p></td>
+<td><p>2017.9.7</p></td>
+<td><p>수입, 제공</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/극장판_요괴워치:_하늘을_나는_고래와_더블세계다냥!" title="wikilink">극장판 요괴워치: 하늘을 나는 고래와 더블세계다냥!</a>》</p></td>
+<td><p>2017.9.27</p></td>
+<td><p>수입</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/메리와_마녀의_꽃" title="wikilink">메리와 마녀의 꽃</a>》</p></td>
+<td><p>2017.12.7</p></td>
+<td><p>애니메이션</p></td>
+<td><p>수입, 제공</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/명탐정_코난:_감벽의_관" title="wikilink">명탐정 코난: 감벽의 관</a>》</p></td>
+<td><p>2018.2.14</p></td>
+<td><p>애니메이션 <small>극장판</small></p></td>
+<td><p>수입</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/페어리_테일" title="wikilink">극장판 페어리 테일: 드래곤 크라이</a>》</p></td>
+<td><p>2018.5.31</p></td>
+<td><p>수입, 배급</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>일본</p></td>
+<td><p>《명탐정 코난: 순흑의 악몽》</p></td>
+<td><p>2018.6.27<br />
+(4DX 재개봉)</p></td>
+<td><p>수입, 제공</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/신비아파트:_금빛_도깨비와_비밀의_동굴" title="wikilink">신비아파트: 금빛 도깨비와 비밀의 동굴</a>》</p></td>
+<td><p>2018.7.25</p></td>
+<td><p>제공, 제작</p></td>
+<td><p>CJ ENM㈜</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/명탐정_코난:_제로의_집행인" title="wikilink">명탐정 코난: 제로의 집행인</a>》</p></td>
+<td><p>2018.8.8</p></td>
+<td><p>수입</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/극장판_요괴워치:_섀도우_사이드_도깨비_왕의_부활" title="wikilink">극장판 요괴워치: 섀도사이드 도깨비 왕의 부활</a>》</p></td>
+<td><p>2018.9.20</p></td>
+<td><p>수입</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/짱구는_못말려_극장판:_폭성!_쿵후소년_~라면대란~" title="wikilink">극장판 짱구는 못말려: 아뵤! 쿵후 보이즈 ~라면 대란~</a>》</p></td>
+<td><p>2018.12.19</p></td>
+<td><p>수입, 제공</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>일본</p></td>
+<td><p>《명탐정 코난: 제로의 집행인》</p></td>
+<td><p>2019.1.9<br />
+(4DX 재개봉)</p></td>
+<td><p>수입</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/명탐정_코난:_전율의_악보" title="wikilink">명탐정 코난: 전율의 악보</a>》</p></td>
+<td><p>2019.2.14</p></td>
+<td><p>수입</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/명탐정_코난:_감청의_권" title="wikilink">명탐정 코난: 감청의 권</a>》</p></td>
+<td><p>2019.7.24</p></td>
+<td><p>수입</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>러시아</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/소피와_드래곤:_마법책의_비밀" title="wikilink">소피와 드래곤: 마법책의 비밀</a>》</p></td>
+<td><p>2019.10.2</p></td>
+<td><p>애니메이션</p></td>
+<td><p>수입, 배급</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/극장판_신비아파트:_하늘도깨비_대_요르문간드" title="wikilink">극장판 신비아파트: 하늘도깨비 대 요르문간드</a>》</p></td>
+<td><p>2019.12.19</p></td>
+<td><p>애니메이션 <small>극장판</small></p></td>
+<td><p>제공, 제작</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 미디어콘텐츠본부
+
+  - 부서명칭을 따로 표시하지 않고, 간략하게 **CJ ENM** ()로 표기한다.
+
+| 국가   | 제목                                                                                                   | 개봉일        | 종류                       | 담당     | 레이블              | 채널  |
+| ---- | ---------------------------------------------------------------------------------------------------- | ---------- | ------------------------ | ------ | ---------------- | --- |
+| 한국   | 《[시간의 숲](https://ko.wikipedia.org/wiki/시간의_숲 "wikilink")》                                            | 2012.4.19  | 실사                       | 기획, 제작 | CJ E\&M㈜         | TVN |
+| 한국   | 《[뽀로로 극장판 슈퍼썰매 대모험](https://ko.wikipedia.org/wiki/뽀로로_극장판_슈퍼썰매_대모험 "wikilink")》                      | 2013.1.23  | 애니메이션 <small>극장판</small> | 공동제공   |                  |     |
+| 한국   | 《[길위에서](https://ko.wikipedia.org/wiki/길위에서_\(영화\) "wikilink")》                                       | 2013.5.23  | 실사                       | 제공     |                  |     |
+| 한국   | 《[극장판 뛰뛰빵빵 구조대 미션: 둥둥이를 구하라\!](https://ko.wikipedia.org/wiki/극장판_뛰뛰빵빵_구조대_미션:_둥둥이를_구하라! "wikilink")》 | 2014.8.7   | 애니메이션                    | 제공     |                  |     |
+| 중국   | 《[몬스터 헌트](https://ko.wikipedia.org/wiki/몬스터_헌트 "wikilink")》                                          | 2015.11.12 | 실사                       | 수입, 제공 | CJ E\&M㈜방송콘텐츠부문  |     |
+| 프랑스  | 《[어린왕자](../Page/어린_왕자_\(2015년_영화\).md "wikilink")》                                                   | 2015.12.23 | 애니메이션                    | 공동제공   | CJ E\&M㈜미디어콘텐츠부문 |     |
+| 한국   | 《[번개맨](https://ko.wikipedia.org/wiki/번개맨 "wikilink")》                                                | 2016.2.11  | 실사                       | 공동제공   | CJ E\&M㈜         |     |
+| 한국   | 《[덕혜옹주](../Page/덕혜옹주_\(영화\).md "wikilink")》                                                          | 2016.8.3   | 실사                       | 공동제공   | CJ E\&M㈜미디어콘텐츠부문 |     |
+| 한국   | 《[두 남자](../Page/두_남자_\(2016년_영화\).md "wikilink")》                                                    | 2016.11.30 | 실사                       | 제공     | CJ E\&M㈜미디어콘텐츠부문 |     |
+| 한국   | 《[부라더](https://ko.wikipedia.org/wiki/부라더 "wikilink")》                                                | 2017.11.2  | 실사                       | 공동제공   | CJ E\&M㈜미디어콘텐츠부문 |     |
+| 한국   | 《[덕구](https://ko.wikipedia.org/wiki/덕구 "wikilink")》                                                  | 2018.4.5   | 실사                       | 제공     | CJ E\&M㈜미디어콘텐츠부문 |     |
+| 한국   | 《[미쓰백](https://ko.wikipedia.org/wiki/미쓰백 "wikilink")》                                                | 2018.10.11 | 실사                       | 제공     | CJ ENM㈜          |     |
+| 한국   | 《[완벽한 타인](https://ko.wikipedia.org/wiki/완벽한_타인 "wikilink")》                                          | 2018.10.31 | 실사                       | 공동제공   |                  |     |
+| 한국   | 《[동네사람들](https://ko.wikipedia.org/wiki/동네사람들 "wikilink")》                                            | 2018.11.7  | 실사                       | 제공     |                  |     |
+| 한국   | 《[썬키스 패밀리](https://ko.wikipedia.org/wiki/썬키스_패밀리 "wikilink")》                                        | 2019.3.27  | 실사                       | 공동제공   |                  |     |
+| 한국   | 《[기방도령](https://ko.wikipedia.org/wiki/기방도령 "wikilink")》                                              | 2019.7.10  | 실사                       | 제공     |                  |     |
+| 이탈리아 | 《[퍼펙트 스트레인저](https://ko.wikipedia.org/wiki/퍼펙트_스트레인저스_\(2016년_영화\) "wikilink")》                      | 2019.10.24 | 실사                       | 수입, 제공 |                  |     |
+|      |                                                                                                      |            |                          |        |                  |     |
+
+## 각주
+
+[\*](https://ko.wikipedia.org/wiki/분류:CJ_엔터테인먼트_영화‎ "wikilink") [분류:제작사별 영화 목록](https://ko.wikipedia.org/wiki/분류:제작사별_영화_목록 "wikilink")

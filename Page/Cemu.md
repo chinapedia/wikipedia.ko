@@ -1,0 +1,26 @@
+> This article is converted from Wikipedia: [Cemu](https://ko.wikipedia.org/wiki/Cemu).
+
+
+**Cemu**는 [마이크로소프트 윈도우](https://ko.wikipedia.org/wiki/마이크로소프트_윈도우 "wikilink") 기반 개인용 컴퓨터용 [Wii U](https://ko.wikipedia.org/wiki/Wii_U "wikilink") [비디오 게임 콘솔 에뮬레이터이다](https://ko.wikipedia.org/wiki/비디오_게임_콘솔_에뮬레이터 "wikilink").\[1\] 2명에 의해서 개발되었으며 2015년 10월 13일 첫 출시되었다.\[2\]\[3\]\[4\] 일반적으로 이 에뮬레이터는 2\~4주에 한 번씩 업데이트되며 [Patreon](https://ko.wikipedia.org/wiki/Patreon "wikilink") 지원자들은 공식 출시일보다 한 주 더 일찍 업데이트를 받을 수 있다.\[5\] 현재 개발이 진행 중이기는 하지만 특정 게임들은 부드럽게 구동할 수 있다.\[6\]\[7\] 2017년 기준으로, Wii U용 오픈 소스 Decaf 에뮬레이터와 더불어 유일한 [8세대 비디오 게임 콘솔](https://ko.wikipedia.org/wiki/8세대_비디오_게임_콘솔 "wikilink") 에뮬레이터들 가운데 하나이며 [플레이스테이션 4](https://ko.wikipedia.org/wiki/플레이스테이션_4 "wikilink"), [엑스박스 원](../Page/엑스박스_원.md "wikilink"), [닌텐도 스위치는](../Page/닌텐도_스위치.md "wikilink") 아직까지 충분히 리버스 엔지니어링되지 않았다.\[8\]
+
+## 개발
+
+Cemu의 개발자들은 수개월의 작업을 통해 《[젤다의 전설: 브레스 오브 더 와일드](https://ko.wikipedia.org/wiki/젤다의_전설:_브레스_오브_더_와일드 "wikilink")》를 구동할 수 있을 것이라 예측하였으며\[9\] 출시 후 수주 안에 초기 버전의 게임 강좌의 플레이가 가능할 것이라 내다보았다.\[10\] 2017년 7월, 이 게임은 완전히 플레이가 가능하며 물리학, 상당히 감소된 충돌, 입자 효과를 지원한다. 컷신은 플레이 및 감상을 위해 현재 Cemuhook라는 이름의, 커뮤니티가 만든 추가 기능을 사용하여 이용할 수 있다. 또, Cemuhook은 토글 온 기능에 포함되어 있어서 화면의 텍스처 버그가 보이는 대신 상당한 성능 개선을 허용한다.
+
+## 각주
+
+## 외부 링크
+
+  -
+[분류:윈도우 에뮬레이션 소프트웨어](https://ko.wikipedia.org/wiki/분류:윈도우_에뮬레이션_소프트웨어 "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.

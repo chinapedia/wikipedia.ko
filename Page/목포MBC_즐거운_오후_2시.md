@@ -1,0 +1,64 @@
+> This article is converted from Wikipedia: [MBC   2](https://ko.wikipedia.org/wiki/MBC___2).
+
+
+**목포MBC 즐거운 오후 2시**는 [목포MBC 표준FM](https://ko.wikipedia.org/wiki/목포문화방송 "wikilink") (중파 1386㎑, 표준FM 89.1㎒)에서 월요일 \~ 금요일 오후 2시 15분 \~ 4시까지 방송되는 목포 등 전남 서남부 지역의 라디오 프로그램이다.
+
+## 코너소개
+
+**목포MBC 즐거운 오후 2시**는 매일, 요일별로 다양한 코너로 구성되어 있다.
+
+### 월요일
+
+  - **1,2부 : 임유진의 원(월)래 맛있다구\!** : 맛 좋고, 몸에도 좋은 식품과 요리법 소개
+  - **3부 : 우리가락\! 아는 만큼 들린다\!\!** : 윤암현 선생과 함께 하는 재미있는 국악 이야기
+  - **4부 : 말하는 대로 듣고 싶은 대로** : 사연과 신청곡 소개 - 문자, 홈페이지로 신청
+
+### 화요일
+
+  - **1,2부 : 박은혜의 흐린 기억속의 뉘우스** : 그때 그 시절의 재미났던, 황당했던 소식들 모아 전하기
+  - **3,4부 : 즐거운 초대석** : 가수, 명사, 화제의 인물들이 끼와 매력을 뽐내는 시간
+
+### 수요일
+
+  - **1,2부 : 나로 말할 것 같으면** : 가사, 노래 등 다양한 힌트를 듣고 가수 맞히기
+  - **3부 : 투데이 남도** : 한 주간의 전남 소식 전하기
+  - **4부 : 말하는 대로 듣고 싶은 대로** : 사연과 신청곡 소개 - 문자, 홈페이지로 신청
+
+### 목요일
+
+  - **1.2부 : 즐오두 백일장** : 2행시, 3행시 등 N행시 달인을 찾습니다\~
+  - **3부 : 김현진의 노래교실** : 국가대표 노래강사와 함께, 재밌게 노래 배우기
+  - **4부 : 말하는 대로 듣고 싶은 대로** : 사연과 신청곡 소개 - 문자, 홈페이지로 신청
+
+### 금요일
+
+  - **1,2부 : 정해인의 소리로 배우는 순우리말** : 알쏭달쏭 순우리말들을 재밌게 알아보자
+  - **3,4부 : 사연 119** : 꺼진 사연도 다시보자, 주중에 꺼져버린 사연 구제하기
+
+## 경쟁프로그램
+
+### AM방송 (목포MBC 표준FM 포함)
+
+  - [정관용의 지금, 이 사람](https://ko.wikipedia.org/wiki/정관용의_지금,_이_사람 "wikilink") (평일) ([KBS목포 제1라디오](https://ko.wikipedia.org/wiki/KBS목포방송국 "wikilink"))
+  - [라디오 전국일주](https://ko.wikipedia.org/wiki/라디오_전국일주 "wikilink") (평일) ([KBS목포 제1라디오](https://ko.wikipedia.org/wiki/KBS목포방송국 "wikilink"))
+  - [오늘 같은 오후엔 이세준입니다](https://ko.wikipedia.org/wiki/오늘_같은_오후엔 "wikilink") ([KBS광주 제2라디오](https://ko.wikipedia.org/wiki/KBS광주방송총국 "wikilink"))
+  - [오후의 향기 김윤주입니다](../Page/오후의_향기_김윤주입니다.md "wikilink") ([광주CBS 표준FM](../Page/기독교광주방송.md "wikilink"))
+
+### FM방송
+
+  - [명연주 명음반](https://ko.wikipedia.org/wiki/명연주_명음반 "wikilink") ([KBS목포 음악FM](https://ko.wikipedia.org/wiki/KBS목포방송국 "wikilink"))
+  - [두시의 데이트 지석진입니다](https://ko.wikipedia.org/wiki/두시의_데이트 "wikilink") ([목포MBC FM4U](https://ko.wikipedia.org/wiki/목포문화방송 "wikilink"))
+  - [두시탈출 컬투쇼](https://ko.wikipedia.org/wiki/두시탈출_컬투쇼 "wikilink") ([kbc My FM](https://ko.wikipedia.org/wiki/광주방송 "wikilink"))
+  - 박철의 방방곡곡 ([TBN 광주교통방송](https://ko.wikipedia.org/wiki/광주교통방송 "wikilink"))
+
+## 같이 보기
+
+  - [목포문화방송](https://ko.wikipedia.org/wiki/목포문화방송 "wikilink")
+  - [MBC 표준FM](https://ko.wikipedia.org/wiki/MBC_표준FM "wikilink")
+  - [박준형, 정경미의 2시만세](https://ko.wikipedia.org/wiki/두시만세 "wikilink")
+
+## 외부 링크
+
+  - [목포MBC 임사랑, 전소영의 즐거운 오후 2시 공식 홈페이지](http://www.mpmbc.co.kr/program.php?pg_id=2oclock)
+
+[분류:문화방송의 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:문화방송의_라디오_프로그램 "wikilink")

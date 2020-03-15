@@ -1,0 +1,64 @@
+> This article is converted from Wikipedia: [  vs. :  BANG!!](https://ko.wikipedia.org/wiki/__vs._:__BANG!!).
+
+
+**사무라이전대 신켄저 vs. 고온저 은막 BANG\!\!** ()은 《[슈퍼 전대 시리즈](https://ko.wikipedia.org/wiki/슈퍼_전대_시리즈 "wikilink")》의 《[사무라이전대 신켄저](https://ko.wikipedia.org/wiki/사무라이전대_신켄저 "wikilink")》, 《[염신전대 고온저](https://ko.wikipedia.org/wiki/염신전대_고온저 "wikilink")》의 극장판으로, [신켄저](https://ko.wikipedia.org/wiki/신켄저 "wikilink")와 [고온저](https://ko.wikipedia.org/wiki/고온저 "wikilink") 간의 "VS 시리즈"에 해당하는 작품이다. [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [1월 30일](https://ko.wikipedia.org/wiki/1월_30일 "wikilink") 최초로 공식 공개되었으며, [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [3월 21일에](https://ko.wikipedia.org/wiki/3월_21일 "wikilink") [DVD](https://ko.wikipedia.org/wiki/DVD "wikilink")로 출시되었다.
+
+## 개요
+
+《[사무라이전대 신켄저](https://ko.wikipedia.org/wiki/사무라이전대_신켄저 "wikilink")》와 《[염신전대 고온저](https://ko.wikipedia.org/wiki/염신전대_고온저 "wikilink")》의 크로스 오버 작품이며, 전작 《극장판 염신전대 고온저 vs. 게키레인저》에 이어"슈퍼 전대제"정원의 제2탄으로서 극장 공개된. 제목은 두 작품의 여름 극장판의 제목"극장 BANG\!\!"와 "은막판"을 합친 것. 극장판 vs. 시리즈로서는 《재커 전격대 vs. 고레인저》 이후 「극장 개봉용」vs. 시리즈로서 제작된 것이다.
+
+vs. 시리즈의 극장판에의 이행에 따른, V시네마 시절부터 변경·추가된 부분도 많고 이 경향은 다음 작품 이후에도 계승되어 갔다. 전대의 시리즈에서는 기본적으로는 현역 전대 측의 조직의 전투원만이 등장했지만 본작에서는 현역·전작 양측의 전투원이 모두 등장하는 경우도 있다. 음악 면에서는 주제가가 엔딩만 된다, 2작품의 오프닝 주제가 삽입곡이 됐다.
+
+본작에서의 추가적으로는 TV방송 시작 전의 새로운 전대가 등장하게 되고, 본작에서는 《[천장전대 고세이저](https://ko.wikipedia.org/wiki/천장전대_고세이저 "wikilink")》이 선행 등장하는(단, 변신 후의 목소리 출연 뿐이며, 타이틀 표기의 2전대와 별도의 장소에서 싸우고 있는 설정 때문에 직접 대면도 하지 않았다). 또 본편의 상영 시간도 확대되어 본작 이후는 약 1시간 이상이 기본이다.
+
+극장판으로 제작된 반면 전작처럼 공개에서 조기 DVD발매를 전제로 하고 있어 예매권 판매는 이루어지지 않고 관람 요금은 특별히 설정된. 전국 40만명 선착 입장자 선물로서 데이터 카드다스·슈퍼 전대 배틀 다이즈오 카드 《No-P-003 신켄 레드》도 배포됐다.
+
+각본의 코바야시 야스코는 《신켄저》의 메인 라이터인 《고온저》에 상관하지 않았다. 전편의 전대에 라이터가 관여하지 않은 작품은 《격주전대 카레인저 vs. 오레인저》 이후 처음이다.
+
+2010년 1월 30-31일 첫날 2일의 주말 흥행 순위(흥행 통신사 조사)에서 첫 등장 제5위를 차지했다.또 피아 첫날 만족도 랭킹( 피어 독자적 조사)에서는 《[남동생](https://ko.wikipedia.org/wiki/남동생_\(2010년_영화\) "wikilink")》, 《골든 슬럼버》에 이어 제3위다.
+
+## 출연진
+
+### 주인공
+
+  - 시바 타케루 : [마츠자카 토리](https://ko.wikipedia.org/wiki/마츠자카_토리 "wikilink")
+  - 이케나미 류노스케 : [아이바 히로키](https://ko.wikipedia.org/wiki/아이바_히로키 "wikilink")
+  - 시라이시 마코 : 타카나시 린
+  - 타니 치아키 : 스즈키 쇼고
+  - 하나오리 코토하 : [모리타 스즈카](https://ko.wikipedia.org/wiki/모리타_스즈카 "wikilink")
+  - 우메모리 겐타 : [소마 케이스케](https://ko.wikipedia.org/wiki/소마_케이스케 "wikilink")
+  - 에스미 소스케 : [후루하라 야스히사](https://ko.wikipedia.org/wiki/후루하라_야스히사 "wikilink")
+  - 고사카 렌 : [카타오카 신와](https://ko.wikipedia.org/wiki/카타오카_신와 "wikilink")
+  - 로우야마 사키 : [아이자와 리나](https://ko.wikipedia.org/wiki/아이자와_리나 "wikilink")
+  - 죠 한토 : [우스이 마사히로](https://ko.wikipedia.org/wiki/우스이_마사히로 "wikilink")
+  - 이시하라 군페이 : [에비사와 켄지](../Page/에비사와_켄지.md "wikilink")
+  - 스토 히로토 : 토쿠야마 히데노리
+  - 스토 미우 : [스기모토 유미](https://ko.wikipedia.org/wiki/스기모토_유미 "wikilink")
+
+### 조연
+
+  - 쿠사카베 히코마 : 이부키 고로
+  - 봄퍼 (목소리) : 나카가와 아키코
+  - 해통령 밧치드 (목소리) : 긴가 반죠
+  - 호무라코기 (목소리) : 요시노 히로유키
+  - 치마츠리 도코쿠 (목소리) : 니시 린타로
+  - 호네노 시타리 (목소리) : 쵸
+  - 우스카와 타유 (목소리) : 박로미
+  - 후와 쥬죠 (인간/목소리) : 카라하시 미츠루
+  - 요고시마크리타인 (목소리) : 야나다 키요유키
+  - 케가레시아 : 오이카와 나오
+  - 키타네이더스 (목소리) : 마노도 마츠아키
+
+### 카메오 출연
+
+  - 고세이 레드 (목소리) : 치바 유다이
+  - 고세이 핑크 (목소리) : 사토 리카
+  - 고세이 블랙 (목소리) : 하마오 요스케
+  - 고세이 옐로 (목소리) : 니와 마키호
+  - 고세이 블루 (목소리) : 오노 켄토
+
+## 외부 링크
+
+  - [공식 사이트](http://www.tv-asahi.co.jp/shin-vs-go/)
+
+[분류:2010년 영화](https://ko.wikipedia.org/wiki/분류:2010년_영화 "wikilink") [분류:일본의 영화 작품](https://ko.wikipedia.org/wiki/분류:일본의_영화_작품 "wikilink") [분류:슈퍼 전대 시리즈](https://ko.wikipedia.org/wiki/분류:슈퍼_전대_시리즈 "wikilink") [분류:슈퍼 전대 시리즈의 크로스 오버 작품](https://ko.wikipedia.org/wiki/분류:슈퍼_전대_시리즈의_크로스_오버_작품 "wikilink")

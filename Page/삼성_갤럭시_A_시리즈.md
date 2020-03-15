@@ -1,0 +1,107 @@
+> This article is converted from Wikipedia: [  A ](https://ko.wikipedia.org/wiki/__A_).
+
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Samsung_Galaxy_A_Logo.png "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Samsung_Galaxy_Alpha_logo.svg "wikilink")
+
+**삼성 갤럭시 A 시리즈**(A는 "알파"를 의미)는 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")가 제조하는 어퍼 미드레인지 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink") 계열이다. 갤럭시 A 시리즈는 [갤럭시 S 시리즈와](../Page/삼성_갤럭시_S_시리즈.md "wikilink") 유사하지만 더 낮은 사양과 기능을 제공한다. 이 시리즈의 최초 모델인 4.7인치 [삼성 갤럭시 알파는](../Page/삼성_갤럭시_알파.md "wikilink") 2014년 8월 13일에 처음 선보였다.
+
+## 휴대 전화
+
+### 2014년 라인업
+
+#### 삼성 갤럭시 알파
+
+삼성 갤럭시 알파(Samsung GALAXY ALPHA)는 삼성전자에서 제조, 판매하는 안드로이드 스마트폰이다.
+
+Samsung Logo.svg
+
+삼성 갤럭시 알파 SM-G850F (표준 모델)
+
+SM-G850A(AT\&T 모델)
+
+SM-G850S/K/L(국내 모델)
+
+Samsung Galaxy Alpha logo.svg Samsung Galaxy Alpha.png 갤럭시 알파 다즐링 화이트 제조사:삼성전자 슬로건:새로운 시작 삼성 갤럭시 첫 발매:대한민국 2014년 9월 3일 표준 모델:2014년 9월 후속 삼성 갤럭시 A3 갤럭시 A5 갤럭시 A6 갤럭시 A7 삼성 갤럭시 A8 형태 바 (bar) 크기 가로 65.5 mm 세로 132.4 mm 두께 6.7 mm 무게 115 g 운영 체제 안드로이드 4.4.4 킷캣 안드로이드 5.0.2 롤리팝 UI 터치위즈 네이처 UX 3.0 (4.4.4 \~ 5.0.2) CPU ARM 홀딩스 코텍스-A15 아키텍처 1.8 GHz 쿼드 코어 ARM 홀딩스 코텍스-A7 아키텍처 1.3 GHz 쿼드 코어 (big.LITTLE HMP) GPU ARM 홀딩스 말리 T628 MP6 600 MHz 메모리 용량 2 GB 종류 LPDDR3 SDRAM 처리 속도 약 17.1 GB/s (32 비트 듀얼 채널 1066 MHz) 저장 종류 eMMC 5.0 용량 16 / 32 GB 이동식 저장 미지원 센서 지자기 센서 가속도 센서 자이로스코프 센서 근접 센서 RGB 센서 기압 센서 제스처 센서 홀 센서 지문 인식 센서 심박 센서 데이터 입력 정전식 감응 터치 스크린 디스플레이 약 4.7" HD 슈퍼 AMOLED (AM OLED) RG-BG 펜타일 매트릭스 픽셀 구조 해상도 720 x 1,280 (720p HD 16777216 (224(24 비트)) 색상 고릴라 글래스 4 312ppi 후면 카메라 센서 정보 센서 종류 삼성전자 S5K2P2 ISOCELL CMOS 이미지 센서 화소 1200만개 촬영 성능 최대 2160p UHD급 동영상 촬영 자동 초점/수동 초점 플래시 LED 전면 카메라 센서 정보 센서 종류 삼성전자 S5K8B1 BSI CMOS 이미지 센서 화소 화소 210만개 촬영 성능 최대 1080p FULL HD급 동영상 촬영 최대 60 fps급 동영상 촬영 자동 초점 사운드 사운드 칩셋 울프슨 WM5110 음원 재생 능력 24 비트 192 kHz 음장 사운드 얼라이브 연결 USB 2.0 USB 온더고 1.3 (마이크로 USB B타입/HDMI D타입 통합 단자) 3.5 mm 미국식 TRRS (4극) 폰 커넥터 2014년 8월 13일 공개되어\[1\], 2014년 9월 3일 출시했다.
+
+### 2015년 라인업 (1세대)
+
+#### 갤럭시 A3 (2015)
+
+#### 갤럭시 A5 (2015)
+
+#### 갤럭시 A7 (2015)
+
+#### 갤럭시 A8 (2015)
+
+### 2016년 라인업 (2세대)
+
+#### 갤럭시 A3 (2016)
+
+#### 갤럭시 A5 (2016)
+
+#### 갤럭시 A7 (2016)
+
+#### 갤럭시 A8 (2016)
+
+#### 갤럭시 A9 (2016)
+
+#### 갤럭시 A9 프로 (2016)
+
+### 2017년 라인업 (3세대)
+
+#### 갤럭시 A3 (2017)
+
+#### 갤럭시 A5 (2017)
+
+#### 갤럭시 A7 (2017)
+
+### 2018년 라인업 (4세대)
+
+#### 갤럭시 A8 (2018)
+
+### 2019년 라인업 (5세대)
+
+#### 갤럭시 A10
+
+#### 갤럭시 A20
+
+#### 갤럭시 A30
+
+#### 갤럭시 A40
+
+#### 갤럭시 A50
+
+#### 갤럭시 A60
+
+#### 갤럭시 A70
+
+#### 갤럭시 A80
+
+#### 갤럭시 A90 5G
+
+## 태블릿
+
+### 2015 년 라인업
+
+#### 갤럭시 탭 A 8.0 (2015)
+
+#### 갤럭시 탭 A 9.7 (2015)
+
+### 2016년 라인업
+
+#### 갤럭시 탭 A 10.1 (2016)
+
+### 2017년 라인업
+
+#### 갤럭시 탭 A 8.0 (2017)
+
+## 같이 보기
+
+  - [삼성 갤럭시](https://ko.wikipedia.org/wiki/삼성_갤럭시 "wikilink")
+  - [삼성 갤럭시 S 시리즈](../Page/삼성_갤럭시_S_시리즈.md "wikilink")
+  - [삼성 갤럭시 노트 시리즈](../Page/삼성_갤럭시_노트_시리즈.md "wikilink")
+  - [삼성 갤럭시 탭 시리즈](../Page/삼성_갤럭시_탭_시리즈.md "wikilink")
+  - [안드로이드 (운영 체제)](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink")
+  - [구글](https://ko.wikipedia.org/wiki/구글 "wikilink")
+
+[분류:삼성 휴대 전화기](https://ko.wikipedia.org/wiki/분류:삼성_휴대_전화기 "wikilink") [A](https://ko.wikipedia.org/wiki/분류:삼성_갤럭시 "wikilink") [분류:안드로이드 장치](https://ko.wikipedia.org/wiki/분류:안드로이드_장치 "wikilink")

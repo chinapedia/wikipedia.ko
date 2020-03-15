@@ -1,0 +1,53 @@
+> This article is converted from Wikipedia: [J. A. ](https://ko.wikipedia.org/wiki/J._A._).
+
+
+**J. A. 시저**(J・A・シーザー, Julious Arnest Seazer, 1948-)는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [작곡가](https://ko.wikipedia.org/wiki/작곡가 "wikilink"), [작사가](https://ko.wikipedia.org/wiki/작사가 "wikilink"), 연출가이다. [미야자키현](https://ko.wikipedia.org/wiki/미야자키현 "wikilink")에서 태어나 [시즈오카현](https://ko.wikipedia.org/wiki/시즈오카현 "wikilink")에서 성장했다. 본명은 테라하라 타카아키(寺原孝明).
+
+## 개요
+
+69년 도쿄로 올라와 도쿄 디자이너 학원을 중퇴했다. 테라야마 슈지(寺山修司)를 만나 극단 텐죠사지키「演劇実験室・天井桟敷」에 입단하여 음악과 연출을 담당했다. 83년부터 자신의 극단 만유인력 「演劇実験室◎万有引力」을 만들었다.
+
+[2005년 세계 박람회의](https://ko.wikipedia.org/wiki/2005년_세계_박람회 "wikilink") 일본관에서 상연된에서 연극 한톨의 씨앗「群読叙事詩劇・一粒の種」의 연출을 맡았다. 2012년엔 신주쿠 페이스에서 40년만의 공연을 가지기도 했다.
+
+연출도 했지만 음악작업이 유명하며 그의 초기 작품들 다수는 일본 싸이키델릭 록, 프로그레시브 록의 주요 작품에 속한다. 2013년부터 그의 걸작들이 완전판으로 복각되어 출시되었다.
+
+## 작품
+
+  - 음악작품 위주로 소개
+
+<!-- end list -->
+
+  - 天井桟敷 邪宗門 (1972)
+  - 국경순례가 国境巡礼歌 (1973)
+  - 田園に死す (1974)
+  - 天井桟敷 阿呆船 (1977）
+  - 신도쿠마루 身毒丸 (1978)
+  - さらば箱舟 (1983)
+  - 少女椿 (1992) ※シングルCD、フランス・レザードノア社から発売
+  - [소녀혁명 우테나](https://ko.wikipedia.org/wiki/소녀혁명_우테나 "wikilink") 少女革命ウテナ (1997 년)
+  - 狼少年 (2002)
+  - 黙示録 (2011)
+  - 奴婢訓 (2012) ※1978年の劇中音楽集
+  - J・A・シーザーコンサート 山に上りて告げよ(2012) ※CD＋DVD、30年ぶりをライブ収録
+  - アフリカの印象 (2012)
+  - 痴夢のランプ (2012)
+  - レミング 世界の果てまで連れてって (2013) ※1979年公演舞台用音源
+  - 怪人フー・マンチュー (2013)
+  - SUNA (2013)
+  - 大鳥の来る日\~THE END OF THE WORLD\~ (2014)
+  - 幻想音楽劇 リア王 - 月と影の遠近法- (2014)
+  - ある家族の血の起源 (2016)
+  - ドゥーブルの起源 (2017)
+  - シナの皇帝 (2017)
+  - バルバラ矮星子黙示録 -アルセノテリュス絶対復活光とオルフェウス絶対冥府闇- (2017)
+  - 呪術音楽劇犬神 (2017)
+  - 光来復活した大歌劇 『身毒丸』 (2017)
+
+## 외부 링크
+
+  - [만유인력](http://www.banyu-inryoku.net/)
+
+  - [만유인력](http://banyuinryoku.wordpress.com/) 공식 블로그
+
+  -
+[분류:1948년 태어남](https://ko.wikipedia.org/wiki/분류:1948년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:미야자키현 출신](https://ko.wikipedia.org/wiki/분류:미야자키현_출신 "wikilink") [분류:일본의 작곡가](https://ko.wikipedia.org/wiki/분류:일본의_작곡가 "wikilink") [분류:일본의 작사가](https://ko.wikipedia.org/wiki/분류:일본의_작사가 "wikilink") [분류:일본의 연극 감독](https://ko.wikipedia.org/wiki/분류:일본의_연극_감독 "wikilink")

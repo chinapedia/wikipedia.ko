@@ -1,0 +1,85 @@
+> This article is converted from Wikipedia: [ H. ](https://ko.wikipedia.org/wiki/_H._).
+
+
+**클락 H. 피녹**(Clark H. Pinnock, [1937년](https://ko.wikipedia.org/wiki/1937년 "wikilink") 2월 3일 - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") 8월 15일)은 [기독교 신학자](../Page/기독교_신학자.md "wikilink"), 변증가, 그리고 저자이다. 그는 [하나님의 주권을](https://ko.wikipedia.org/wiki/하나님의_주권 "wikilink") 강조한 전통적인 [복음주의](https://ko.wikipedia.org/wiki/복음주의 "wikilink") 신학을 인간의 [자유의지](https://ko.wikipedia.org/wiki/자유의지 "wikilink")와 사랑으로 새롭게 해석하는 방법인 열린신학을 주장한 학자였다. 그는 [맥마스터 대학교에서](https://ko.wikipedia.org/wiki/맥마스터_대학교 "wikilink") [조직신학](https://ko.wikipedia.org/wiki/조직신학 "wikilink") 명예교수였다. 피녹은 2010년 5월에 그의 지병인 [알츠하이머병](https://ko.wikipedia.org/wiki/알츠하이머병 "wikilink")으로 인해 학계에서 은퇴를 선언하였고 2010년 8월 15일 캐나다 [온타리오](https://ko.wikipedia.org/wiki/온타리오 "wikilink")주에서 투병 끝에 운명하였다.
+
+## 생애와 교육
+
+피녹은 1937년 2월 3일 캐나다 [온타리오주](https://ko.wikipedia.org/wiki/온타리오주 "wikilink")(Ontario)에서 출생하여 [자유주의](https://ko.wikipedia.org/wiki/자유주의 "wikilink") [침례교](https://ko.wikipedia.org/wiki/침례교 "wikilink")[회중교회](https://ko.wikipedia.org/wiki/회중교회 "wikilink")(a liberal Baptist congregation)의 가정에서 자라났다. 어린시절에는 교회에 관심이 거의 없었다. 그러나 자라면서 점차 [자유주의](https://ko.wikipedia.org/wiki/자유주의 "wikilink") [기독교](https://ko.wikipedia.org/wiki/기독교 "wikilink")를 거부하고 [복음주의](https://ko.wikipedia.org/wiki/복음주의 "wikilink")적 전통과 [개혁주의](https://ko.wikipedia.org/wiki/개혁주의 "wikilink") 전통의 [알미니안주의](https://ko.wikipedia.org/wiki/알미니안주의 "wikilink")와 [오순절주의](https://ko.wikipedia.org/wiki/오순절주의 "wikilink")의 영향을 받게되었다.
+
+[조직신학](https://ko.wikipedia.org/wiki/조직신학 "wikilink")자 [한국성서대학교](https://ko.wikipedia.org/wiki/한국성서대학교 "wikilink")의 박태수교수는 피녹의 생애에 대하여 잘 정리하여 소개한다. 일찍이 피녹의 조부모는 1890년대에 영국 [감리교](https://ko.wikipedia.org/wiki/감리교 "wikilink") 선교사로서 [나이지리아](https://ko.wikipedia.org/wiki/나이지리아 "wikilink")(Nigeria)로 파송을 받아 [선교사](https://ko.wikipedia.org/wiki/선교사 "wikilink")역을 감당하였다. 조부모는 선교사 사역을 마치고 난 후 1920년에 [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink")로 이민하였다. 나이지리아의 선교사역을 통해 당대의 기독교인들보다 개방되고 열린 사고를 추구하였고 기독교의 경건성을 강조하는 나이지리아인의 낭만적 선교(Romance of Missions in Nigerian)를 출판하였다. 이러한 조부모의 영향은 피녹에게 열린사고와 학자적인 기질로 전달되었다. 피녹은 어린 시절에는 [토론토](https://ko.wikipedia.org/wiki/토론토 "wikilink")에 위치한 팍 로드 침례교회(Park Road Baptist Church)에 출석하였다. 그 교회는 20세기에 미국을 휩쓸었던 [자유주의 신학의](https://ko.wikipedia.org/wiki/자유주의_신학 "wikilink") 영향력 아래 있었지만 피녹은 직접적으로 영향을 받지 않았다. 피녹은 그의 나이 13세에 신실한 기독교인이었던 그의 조모 마도라(Madora)와 [주일학교](https://ko.wikipedia.org/wiki/주일학교 "wikilink") 교사이던 프랭크 엘리 어트(Frank Elliott)의 전도로 기독교 신앙을 받아들이고 회심을 하게 된다. 피녹은 이처럼 신학적으로 자유주의적 성향의 교회에서 엘리어트와 마도라를 통해서 보수적이며 복음적인 영향을 받아 희석된 믿음을 소유한 신 앙인들에 대한 경각심을 가지게 되었다. 그 후 피녹은 토론토 침례교회 에서 개최하는 특강에 참여하여 [모세오경](https://ko.wikipedia.org/wiki/모세오경 "wikilink")과 [시편](https://ko.wikipedia.org/wiki/시편 "wikilink") 그리고 [다니엘서](https://ko.wikipedia.org/wiki/다니엘서 "wikilink")에 대 한 [역사비평](https://ko.wikipedia.org/wiki/역사비평 "wikilink")적 접근을 접하게 되었다. 그러나 고등학생에 불가했던 피녹 에게 크게 영향을 끼치지는 못하였다. 피녹의 신학적 형성은 2차 대전 후 [근본주의](https://ko.wikipedia.org/wiki/근본주의 "wikilink")적 복음주의 계열 에서 시작되었다. 특히 ‘Youth for Christ’와의 만남은 그로 하여금 자유주의에 대한 비판적인 시각을 갖게 하였으며 성경중심의 기독교 신앙이 강화되는 계기가 되었다. 그는 성경을 더 배우기를 원했으며 그러한 기회를 잡기 위해서 캐나다 [케직 사경회](https://ko.wikipedia.org/wiki/케직_사경회 "wikilink")(Canadian Keswick Bible conference)에 참여하기도 하였다. 당시 [부흥사](https://ko.wikipedia.org/wiki/부흥사 "wikilink")였던 찰스 풀러(Charles Fuller)의 ‘옛 신앙 부흥시간’과 [빌리 그래엄](https://ko.wikipedia.org/wiki/빌리_그레이엄 "wikilink")(Billy Graham)의 ‘결단의 시 간’ 등, 라디오 프로그램을 통해서 복음주의가 강조하는 복음에 대한 열 정을 접하게 되었다. 특히 [IVP](https://ko.wikipedia.org/wiki/IVP "wikilink") 출판사는 그의 신학의 여정에 있어서 중 요한 부분을 차지하게 되었다. 피녹은 IVP를 통해서 칼빈주의 신학자인 [존 머레이](../Page/존_머레이.md "wikilink")(John Murrry), [마틴 로이드 존스](https://ko.wikipedia.org/wiki/마틴_로이드_존스 "wikilink")(Martyn Lloyd-Jones), [코넬리우스 반틸](https://ko.wikipedia.org/wiki/코넬리우스_반틸 "wikilink")(Cornelius Van Til), [칼 헨리](https://ko.wikipedia.org/wiki/칼_헨리 "wikilink")(Carl F. H. Henry), [제임스 패커](https://ko.wikipedia.org/wiki/제임스_패커 "wikilink")(James L. Packer) 등의 서적들을 두루 섭렵하였으며 이를 통해 그는 복음적 [스콜라주의](https://ko.wikipedia.org/wiki/스콜라주의 "wikilink")와 보편적 [이성](https://ko.wikipedia.org/wiki/이성 "wikilink")주의에 등에 매료되었다.\[1\] 그리고 이러한 것들을 통해 경직된 사고가 아닌 보다 폭넓고 개방적이면서 통합적인 사고를 하게 되었다. 1956년에 고등학교를 졸업한 피녹은[토론토 대학교](https://ko.wikipedia.org/wiki/토론토_대학교 "wikilink")(University of Toronto) 의 빅토리아 단과대학(Victoria College)에서 본격적인 학문을 수학하기 시작하여 고대근동연구라는 전공으로 학사 학위를 취득하였다. 그는 [우드로 윌슨](https://ko.wikipedia.org/wiki/우드로_윌슨 "wikilink") 장학금을 받고[하버드 대학교에](https://ko.wikipedia.org/wiki/하버드_대학교 "wikilink") 갔고, 영국의 국가장학금을 받고 영국에 소재한 대학교에 갔다. 그는 [에프 에프 브루스](https://ko.wikipedia.org/wiki/에프_에프_브루스 "wikilink")(F. F. Bruce)의 지도를 받기 위해 영국의 [맨체스터 대학교](https://ko.wikipedia.org/wiki/맨체스터_대학교 "wikilink")(University of Manchester) 에 입학하였다. 그는 대학원에서 고대 근동언어를 공부한 후 그의 은사 부루스에게서 신약성서학을 본격적으로 지도를 받았다. 부루스의 논문지도하 에 피녹은 “바울서신들에 나타난 성령의 개념(The Concept of Spirit in the Epistles of Paul)”을 연구하여 Ph.D.를 받게 된다. 그는 논문에서 기독교 교회 역사는 성령에 대한 논의가 충분하지 못하였다고 주장하였다. 특히 설교나 목회에서 성령의 인식이 부족하였다고 보았다. 학위를 취득 한 후 피녹은 1963년 [성령](https://ko.wikipedia.org/wiki/성령 "wikilink")론에 관한 중요한 논쟁들을 펼침으로써 [복음주의](https://ko.wikipedia.org/wiki/복음주의 "wikilink") 신학계에서 중요한 신학자로 주목을 받게 되었다. 그는 그의 지도교수의 권유로 2년 동안 영국에 더 머물며 강의조교로 [성서비평학](https://ko.wikipedia.org/wiki/성서비평학 "wikilink")과 주해에서 뛰어난 강의를 함으로써 더 많은 주목을 받게 되었다. 이 시기에 피녹은 그의 생애에 중요한 인물로 여기던 기독교 보수적 변증학자인 [프랜시스 쉐이퍼](https://ko.wikipedia.org/wiki/프란시스_쉐퍼 "wikilink")(Francis Schaeffer)를 만나게 되었다. 피녹은 한여름 동안[스웨덴](https://ko.wikipedia.org/wiki/스웨덴 "wikilink") 휴에 모스(Huemoz)에서 열린 쉐퍼의 라브리 펠로쉽(Labri Fellowship)에 참여하였다. 그 후에도 [이탈리아](https://ko.wikipedia.org/wiki/이탈리아 "wikilink")와 스위스에서 쉐퍼와 함께 지내면서 삶의 의미를 찾기 위한 철 학적 물음에 해답을 찾고자 노력하였고 지성적인 지평을 넓혀갔다. 쉐퍼 는 피녹에게 기본적인 신학적 본능을 일깨워 주기에 충분하였다. 피녹이 학위를 마쳤을 즈음에 복음주의는 성경의 [영감](https://ko.wikipedia.org/wiki/영감 "wikilink")설과 성경의 권위가 도전을 받고 있던 시기였다. 자유주의 신학은 [근본주의](https://ko.wikipedia.org/wiki/근본주의 "wikilink")적 복음주의 를 보다 강하게 압박하여 근본주의적 복음주의 신학자들을 반지성주의자 로 사회문제 등에 무관심한 자로 매도하여 공격하던 시대였다. 이러한 시기에 피녹은 쉐퍼로부터 정통 [개신교](https://ko.wikipedia.org/wiki/개신교 "wikilink")가 신학적으로나 지적으로 만족할 만한 학문적 변증을 할 수 있으며 특별히 성경의 무오성에 대한 자유주 의자들의 공격에 대하여 지성적 분석과 비평을 통해 복음적이면서도 학문적인 대응을 충분히 할 수 있다는 것을 확신을 갖게 되었다. 더 나아 가 복음만이 삶의 유일한 의미와 가치를 제공해 준다는 확신은 피녹으로 하여금 기독교의 신학을 학문적으로 변증하는 역사적 개혁신학을 전개하 게 하였다. 하지만 후에 피녹은 쉐퍼의 철학과 신학적 입장을 비판하는 입장에 서게 된다. 1965년 피녹은 뉴 올렌즈 침례신학대학원(New Orleans Baptist Seminary) 에 신약학조교수로 초빙을 받게 되었다. 그는 그 대학에서 신약학보다는 조직신학에 더 관심을 가졌다. 그 시기에 그는 한쪽 눈이 실명을 하게 되었다. 이를 계기로 오순절 교회에 출석하며 성령의 새로운 체험을 하 게 되고 그로 말미암아 성령론에 더욱 깊게 관심을 갖게 되었다. 후에 그의 체험은 오순절 신학을 적극적으로 수용하는 계기가 되었다. 피녹의 뉴 올렌즈 침례신학대학원교에 재직 시기인 1965년부터 1969년 까지는 남침례교단의 신학교수들 사이에 성경 무오성에 대한 논쟁이 뜨 거웠던 시기였다. 피녹은 1967년 성경적 무류성 대한 변증(A Defense of Biblical Infallibility)이라는 책을 통해 성경의 무오성이 성경의 영감교리 와 관련해 반드시 필요하고 지켜야 할 교리임을 강조하였다. 피녹은 1969년에는 [트리니티 신학교](../Page/트리니티_신학교.md "wikilink")(Trinity Evangelical Divinity School)로 옮기게 되었고 1971년에는 성경적 계시(Biblical Revelation)라는 책을 출판하였 는데 성경의 영감설에 대하여 전통적 입장을 옹호하였다. 이 책은 [B. B. 워필드](https://ko.wikipedia.org/wiki/벤저민_워필드 "wikilink")(B. B. Warfield) 이후 축자적 유기적 영감설에 대하여 뛰어난 학문 적 진술을 하였다고 평가를 받기도 하였다. 같은해, 피녹은 미래를 위한 신학(Toward a Theology for the Future)이라는 책을 출판하여 앞으로 다가올 중요한 이슈에 대하여 복음주의자들이 담대하게 대처할 것을 주문하였다. 피녹은 프란시스 쉐퍼로부터 좋은 학문적 변증학을 배웠다. 하지만 후에 피녹은 프란시스 쉐퍼가 비록 성경에 충실하고 현대적 사고에 경계하는 지혜로운 사람이기는 하지만 뛰어난 학자는 아니라고 보았다. 1972년에는 Live Now, Brother와 Truth On Fire: The Message of Galatians라는 두 권의 책을 출간하였다. 피녹은 이 두 책에서 복음을 지키는 담대한 방어자가 될 것을 주문하고 전통적 [개혁주의](https://ko.wikipedia.org/wiki/개혁주의 "wikilink")적 입장에서 신학을 변호하였다. 그러나 1974년에 들어서 피녹은 전통적 개혁주의 입장에서 알미니안주의 신학으로 전환을 시도한다. [트리니티 신학교의](../Page/트리니티_신학교.md "wikilink") 히브리서 강 의를 통해 성도의 견인 교리에 의문을 제기했다. 특히 그는 히브리서 6 장과 10장에 대한 연구에서 구원이 인간의 자유의지에 관련되어 있다는 확신을 가짐으로 개혁주의 신학의 논리와 단절하고 하나님의 의지가 인 간에 의해 좌절될 수 있다는 것을 강조하기 시작하였다. 그는 이 시기에 “Unraveling Reformed Scholasticism”이라는 소논문을 통해 하나님의 주권 이 일방적인 것이 아니라는 것을 주장하였다. 즉 그는 하나님을 향한 인 간의 진정한 반응과 인간을 향한 하나님의 반응을 즉 이중성을 강조하면 서 인간의 자유의지를 중심으로 하는 알미니안주의 신학으로 전환하게 되었다. 그는 1974년에 [트리니티 신학교를](../Page/트리니티_신학교.md "wikilink") 떠나면서 칼빈주의의 진정성과 가치 에 대하여 회의적이 되었다. 그는 하나님의 주권을 강조하는 칼빈주의 신학은 신약성경에 나타난 복음의 진정성을 위협한다고 보았다. 그 후에 피녹은 1974년에 캐나다에 있는 리젠트 대학교(Regent University) 로 옮겨 1977년까지 조직신학을 가르쳤고 1977년부터 캐나다 온타리오에 소재한 맥매스터신학교(McMaster Divinity Collage)에서 조직신학교수로 재직하며 왕성한 집필 활동을 하였다. 1980년에는 Reason Enough라는 책 을 통해 성경에 나타난 인간의 역할과 성령의 역할에 대하여 강조하였다. 1984년 The Biblical Principle에서 성경의 진실성은 성경 자체가 무오하다 는 사상에서 오는 것이 아니라 인간의 구원에 관련한 하나님의 사랑과 하나님의 구원의 신실성에서 온다고 주장하였다. 그 후 1987년에 남침례 교 [성경무오성](https://ko.wikipedia.org/wiki/성경무오성 "wikilink")에 대한 심포지엄에서 그가 종전에 가졌던 성경의 무오성 에 대한 입장을 바꾸고 목적적 무오성(Inerrancey of purpose)을 옹호하였다. 그는 전통적 성경관이 인간의 역할을 최소화 할 뿐 아니라 성경의절대적 완전성을 강조함으로 균형을 이루지 못하였다고 비판하며 인간적 인 요소를 강조하는 방향으로 신학을 전개하였다. 이렇게 피녹은 자신이 출발한 전통적[개혁주의](https://ko.wikipedia.org/wiki/개혁주의 "wikilink")의 문제를 제기했을 뿐 아니라 [알미니안주의](https://ko.wikipedia.org/wiki/알미니안주의 "wikilink") 신학 또한 교리적 문제가 있다고 주장하며 1990년 대에는 또다시 신학적인 변신을 시도하였다. 그는 알미니안 신학이 구원 에 있어서 인간의 자유의지를 강조하며 동시에 하나님의 예지하심을 받 아들이는 것은 신학적 모순이라고 보았다. 피녹은 인간의 자유의지를 강 조하는 저서들을 연이어 집필하며 자신의 신학적 주장을 펼치게 되었 다. 1994년에 피녹은 그의 신학적 동반자이며 철학적 이념을 공유하는 열린신학자들인 리차드 라이스(Richard Rice), 존 샌더스(John Sanders), 윌리암 해스커(William Hasker), 데이비드 배싱거(David Bashinger)와 함께 하나님의 개방성(The Openness of God)을 통해 인간의 자유의지를 중심 으로 한 새로운 개념의 신학을 제시하였다. 즉 그는 하나님은 미래에 일어날 모든 일을 아시는 것이 아니라 미래 일은 인간의 자유의지로 결정 될 때까지는 하나님도 정확히는 미래를 알 수 없다는 주장을 하였다. 또 한 역사는 하나님의 행위 산물이 아니라 하나님과 자유의지를 가진 인간의 결정과 행위가 결합된 결과로 보았다. 피녹은 자신의 열린신학을 주장하기 위해서 복음주의 내에서 치열한 논쟁을 벌였고 교파와 교단을 뛰 어넘어 대중적인 지지를 얻게 되었고 그를 동조하는 신학자들과 함께 열 린신학을 적극적으로 펼쳐 나갔다.
+
+피녹은 캐나다 맥매스터 신학교에서 교수로 있는 기간 동안에 학문적으로 가장 왕성하 고 활동하였고 이 시기에 인간의 자유의지와 관련한 저술들을 집필하고 출판하였다. The Grace of God, The Will of Man: A Case For Arminianism (1989)를 통해 모든 사람들이 하나님의 구원에 포함된다는 [보편구원론](https://ko.wikipedia.org/wiki/보편구원론 "wikilink")을 주장하였다. 그의 책 Tracking the Maze: An Evangelical Perspective on Modern Theology (1990), 그리고 Flame of Love: A Theology of the Holy Spirit (1996)을 통해 성령의 관점에서 신학의 다양한 측면을 탐구하였으며, 삼위일체, 예수 그리스도, 교회, 그리고 계시등과 연관하여 연구하였다. 그런데  A Wideness in God’s Mercy: The Finality of Jesus Christ in a World of Religions (1992)에서 하나님이 선택된 일부를 구원하고 나머지는 정죄된다는 [예정론](https://ko.wikipedia.org/wiki/예정론 "wikilink")은 잘못된 것이며 하나님의 구원은 개인을 구원하는 것이 아니라 민족들을 구원하는 것 으로 입장을 선회하였다. 이 책을 통해 궁극적인 구원은 인간의 자유의지로 믿음을 가질 때에 만 주어지는 것이라고 보았다. 그리고 Searching for an Adequate God: A Dialogue Between Process and Free Will Theists (2000)를 통해 피녹은 [과정신학](../Page/과정신학.md "wikilink")과 상호신학적 대화를 통해 현대 시대에 적합한 하나님 찾기를 시도하였다. 피녹은 열린신학의 주장들을 복음주의의 계열의 신학 잡지인 ｢크리스천 투데이｣와 ｢IVP｣를 통해 게재하고 출 판함으로써 그 불씨를 당겼을 뿐만 아니라 복음주의 내에 진보적 성향을 가진 신학자들과 동조하여 적극적으로 대변하므로 1994년 이후 이 신학적 논쟁이 뜨겁게 진행되었다.
+
+또한 피녹의 열린신학은[미국 복음주의신학회](../Page/미국_복음주의신학회.md "wikilink")(Evangelical Theological Society) 에서 심각한 논쟁을 일으켰을 뿐만 아니라 복음주의 계열의 분열양상을 가져오게 되었다. 특히 그는 2000년에 피녹 자신이 박사학위를 받았던 멘체스터 대학교에서 강연하였던 것을 Most Moved Mover라는 책으로 출판하면서 그 논쟁을 절정에 도달하게 했다.\[2\]그러나 2001년 [미국 복음주의신학회에서](../Page/미국_복음주의신학회.md "wikilink") 열린신학을 반대하는 선언문을 채택하였다, 또한 미국의 각 교단들은 이에 대한 성명서 발표와 열린신학의 문제점 발표하며 심각하 게 대응하게 되었고 그럼에도 불구하고 피녹은 열린신학에 대한 신학적 논쟁은 계속되어 2003년에는 애틀랜타에서 진행된 복음주의신학회 학술대회에서는 피녹의 멤버쉽에 대한 투표가 진행되었고 투표결과는 의외로 피녹을 지지하는 쪽으로 승부가 났다. 이 과정에서 열린신학을 적극적으로 반대하던 [노만 가이슬러는](https://ko.wikipedia.org/wiki/노만_가이슬러 "wikilink") 복음주의신학회를 탈퇴하는등 복음주의 신학회의 분열양상이 일어나게 되었다. 이러한 와중에 피녹은 맥매스터 신학교를 2002년에 은퇴를 하였으나 뛰어난 논리적 접근을 통해서 열린 신학의 정당성을 주장하고 적극적으로 중요학술대회에 참여하여 열린신학을 계속적으로 대변하였다.\[3\]
+
+## 신학과 신학방법
+
+피녹은 [열린 유신론의](https://ko.wikipedia.org/wiki/열린_유신론 "wikilink") 주장자로 잘 알려졌으며 그의 첫번째 [조직신학](https://ko.wikipedia.org/wiki/조직신학 "wikilink") 책으로 Flame of Love이 있다. 1997년 이책은 *Christianity Today*에서 우수도서로 수상되었다.\[4\]피녹은 성령으 관점에서 신학을 설명하는데 삼위일체, 그리스도, 그리고 교회, 하나님과 연합, 계시와 같은 주제들을 성령론의 관점에서 연결시켰다. 무엇보다는 그는 [삼위일체](https://ko.wikipedia.org/wiki/삼위일체 "wikilink")에 중점을 두었으며 [성례전](https://ko.wikipedia.org/wiki/성례전 "wikilink")과 [은사주의](https://ko.wikipedia.org/wiki/은사주의 "wikilink")에도 강조를 했다. 개신교, [오순절주의](https://ko.wikipedia.org/wiki/오순절주의 "wikilink"), 로마 가톨릭, [동방 정교회로](https://ko.wikipedia.org/wiki/동방_정교회 "wikilink") 부터 영향을 받았다. 신학 방법론 피녹는 기존의 전통적인 복음주의 신학자들과는 다른 신학방법론을 제시하며 자신의 독특한 신학 해석을 주장하였다. 조직신학자 박태수에 따르면 피녹은 신학해석에 있어서 3가지 방법론을 사용한다고 밝힌다.   
+
+1\. 성경을 해석에 있어 객관적인 성경해석 보다는 [선 이해적](https://ko.wikipedia.org/wiki/선_이해 "wikilink") 해석(preunderstanding of the interpreter)을 도입했다. 그는 신학 연구에 [자연과학](https://ko.wikipedia.org/wiki/자연과학 "wikilink")의 모델을 사용 해야 한다고 주장했다. 특히 그는 [신론](https://ko.wikipedia.org/wiki/신론 "wikilink")에서 기본적 하나님의 정체성 연 구를 위해서 구체적인 모델이 성경에 해석에 영향을 미친다고 보았다. 피녹은 사람들의 마음에 두 가지 모델이 가장 큰 영향력을 끼친다고 보 았는데 하나의 모델은 비－모험적(Non-Risk model) 견해이다. 이 모델은 [하나님](https://ko.wikipedia.org/wiki/하나님 "wikilink")을 철저한 [군주](https://ko.wikipedia.org/wiki/군주 "wikilink")로 본다. 이 군주적 모델에서 하나님은 모든 것을 결정할 뿐만 아니라 저항할 수 없는 능력을 가진 자로서 이해한다. 즉 하나님은 영원히 변치 않으며 모든 것을 정할 뿐 아니라 일어날 모든 일 을 다 알고 단 한 번도 위기를 격지 않는 분이다. 이 모델에 의하면 인간의 [자유의지](https://ko.wikipedia.org/wiki/자유의지 "wikilink")는 단지 하나의 환영에 불가할 뿐이며 하나의 인형과 같은 존재에 불가하다. 피녹은 이러한 비－모험적 모델이 바로 고전적 유신론 이라고 보았다. 또 다른 모델은 모험적(Risk model) 견해이다. 그는 이 모델에서 하나님을 사랑이 충만한 부모와 같고 언제나 섬세하고 사랑으로 반응하며 개 방된 자세로 위기를 받아들릴 수 있는 모델로 보았다. 이 모델의 하나님은 세상을 경험하고 어떤 일이 일어나는 것에 대하여 반응하며 인간과 역동적인 관계를 맺는 분으로서 우리를 섬세하고 민감하게 돌보는 분로 나타낸다. 피녹은 이 두 모델의 비교를 통해서 전통적 신론에 나타난 하나님은 자비롭고 은혜로운 분이며 사랑이 충만한 존재로 보기보다는 독재자적인 모델로 보았다. 이와 같이 피녹의 열린신학은 하나님을 개방된 하나님으로 분류하여 두 모델 사이를 경쟁적 관계로 나타내고 있다. 그래서 마치 두 모델을 서로 경쟁적 체제로 두어 비교우위를 보여 줌으로써 신학적인 우위를 점유하고자 하였다.\[5\]
+
+2\. 피녹은 “사랑”이라는 명제를 중심으로 해석을 시도한다. 피녹은 사랑을 하나님의 가장 중요한 속성으로 이해한다. 그는 “하나님은 사랑 이시다”라는 명제를 가지고 성경 전체를 이해하고자 하였다. 피녹은 하나님의 사랑을 하나님의 전능성이나 주권성과는 달리 가장 근본적인 하나님의 속성으로 보았다. 즉 삼위일체 하나님은 사랑이시다. 삼위일체 하나님은 [성부](https://ko.wikipedia.org/wiki/성부 "wikilink"), [성자](https://ko.wikipedia.org/wiki/성자 "wikilink"), [성령](https://ko.wikipedia.org/wiki/성령 "wikilink")의 교통 속에 하나의 목적 아래 통일되며, 삼위일체 하나님을 사랑의 공동체로 묘사하였다. 그러므로 하나님의 모든 속성의 특징은 사랑에서 기인했다고 보았다. 삼위일체 하나님은 피조물이 선택을 자유롭게 할 수 있도록 허용하는 사랑을 하였다. 또한 하나님은 인간을 사랑하시므로 인간이 자신과 협력하거나 거절할 수 있는 자유로운 관계를 허용하셨다. 따라서 피녹은 “우리의 핵심관심은 자유가 아니 라 사랑이다. 그 이유는 사랑의 관계를 위한 하나님의 열정이 자유를 요구하였기 때문이다”라고 말하고 있다.\[6\]
+
+3\. 직설적 주석과 [신인동형론](https://ko.wikipedia.org/wiki/신인동형론 "wikilink")(Anthropomorphism)적 성경구절을 강조한다. 그는 신인동형론적 구절들이 하나님의 속성을 잘 드러낸다고 보 았다. 전통적으로 신인동형론은 하나님을 사람의 형태로 상징한 비유적 표현이고 이러한 비유적 말씀을 통해 제한적인 인간이 무한하신 하나님 을 이해해 왔다고 보았다. 그러나 피녹은 신인동형론적 구절이 단순한 상징으로만 해석해서는 안 되고 역동적이며 관계적인 하나님을 가장 잘 보여주는 구절들로 해석해야 한다고 주장하였다.\[7\] 특별히 구약에 나타난 또한 다른 열린신학자들도 동일하게 하나님의 사랑이 가장 중요한 속성 이라고 보았다. 예를 들면, 리차드 라이스(Richard Rice)는 하나님의 사랑은 가장 근본적인 신 적속성으로 보았다. 존 샌더스(John Sanders)는 하나님의 사랑이 열린신학을 가능케 한다고 보 았다.\[8\] 하나님이 사랑이시다라는 것은 전통적인 신학에서도 적극적으로 동의한다. 복음의 핵심구절이라고 볼 수 있는 [요한복음](https://ko.wikipedia.org/wiki/요한복음 "wikilink") 3:16절도 하나님의 사랑을 강조하고 있다. 하지만 하나님의 사랑이 그의 근본적 속성이 된다고 한다는 점에서는 성경적으로 동의하기가 어렵다. 성경은 하나님의 사랑으로 인해 다른 속성들, 전지성, 전능성, 편재성, 무한성, 영원성, 거룩성, 공의, 진실, 불변성을 축소하지 않는다. 또한 열린신학은 하나님의 사랑을 위기적인 사랑(a risk love)을 주장하고 있는데, 성경에 나타난 하나님의 사랑은 위기적 인 사랑이 아니다. 오히려 주권적인 사랑을 말하고 있다.  언어들, 비유적 표현이나 또는 신인동형론적으로 보았던 구절들에 대해 문자적 해석을 시도하였다. 특히 피녹은 일부 선택된 신인동형론적인 구절을 나타내고 있는 성경의 내러티브를 중심으로 하여 내러티브 안에 있는 인격적 관계를 강조하였다. 내러티브는 진정한 인격적 상호관계를 묘사하며, 하나님의 내재적인 활동에 대한 증인이기 때문에 진리에 독특 한 도구로서 하나님의 본질을 나타낸다고 보았다. 이를 통해서 하나님 이 어떠하신 분이신가를 정의하고자 하였다.\[9\]
+
+## 결론
+
+클라크 피녹은 [신론](https://ko.wikipedia.org/wiki/신론 "wikilink")과 [예정론](https://ko.wikipedia.org/wiki/예정론 "wikilink") 그리고 [구원론](https://ko.wikipedia.org/wiki/구원론 "wikilink")에서 기존의 기독교적 신학의 흐름을 벗어나 인간의 [자유의지](https://ko.wikipedia.org/wiki/자유의지 "wikilink")와 사랑을 강조하고 [하나님의 주권성을](https://ko.wikipedia.org/wiki/하나님의_주권 "wikilink") 약화시킨다는 점에서 기존 학자들에게 크게 비판을 받았다.
+
+## 저서들
+
+### 책
+
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+### 편저
+
+  -
+  - \- newer edition has differing authors
+
+## 은퇴논문집
+
+  - Stanley E. Porter and Anthony R. Cross, eds. *Semper Reformandum: Studies in Honour of Clark H. Pinnock* Carlisle, Cumbria: Paternoster Press, 2003.
+
+## 함께보기
+
+  - 열린 유신론
+
+## 자서전
+
+  -
+  -
+  -
+## 각주
+
+[분류:1937년 태어남](https://ko.wikipedia.org/wiki/분류:1937년_태어남 "wikilink") [분류:2010년 죽음](https://ko.wikipedia.org/wiki/분류:2010년_죽음 "wikilink") [분류:맨체스터 대학교 동문](https://ko.wikipedia.org/wiki/분류:맨체스터_대학교_동문 "wikilink") [분류:토론토 출신](https://ko.wikipedia.org/wiki/분류:토론토_출신 "wikilink") [분류:토론토 대학교 동문](https://ko.wikipedia.org/wiki/분류:토론토_대학교_동문 "wikilink") [분류:캐나다의 신학자](https://ko.wikipedia.org/wiki/분류:캐나다의_신학자 "wikilink") [분류:신학 논쟁](https://ko.wikipedia.org/wiki/분류:신학_논쟁 "wikilink") [분류:21세기 신학자](https://ko.wikipedia.org/wiki/분류:21세기_신학자 "wikilink") [분류:트리니티 신학교 교수](https://ko.wikipedia.org/wiki/분류:트리니티_신학교_교수 "wikilink") [분류:유신론자](https://ko.wikipedia.org/wiki/분류:유신론자 "wikilink") [분류:과학철학](https://ko.wikipedia.org/wiki/분류:과학철학 "wikilink")
+
+1.  Callen, Clark H. Pinnock: Journey Toward Renewal, 17-18
+2.  Clark H. Pinnock, Most Moved Mover: A Theology of God’s Openness (Grand Rapids: Baker Books, 2001)
+3.  박태수, "클락 피녹의 열린신학" , ｢성경과 신학｣ 제58권 (2011): 216-222
+4.  <http://www.christianitytoday.com/ct/1997/april28/7t5012.html?start=2>
+5.  Pinnock, The Openness of God, 103
+6.  Pinnock, The Openness of God, 103.
+7.  Clark H. Pinnock, ed., The Grace of God and the Will of Man (Minneapolis: Bethany House Publishers, 1989), 35
+8.  Pinnock, The Most Moved Mover, 3
+9.  박태수, "클락 피녹의 열린신학" , ｢성경과 신학｣ 제58권 (2011): 222-225.

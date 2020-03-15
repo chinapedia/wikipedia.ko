@@ -1,0 +1,63 @@
+> This article is converted from Wikipedia: [A LIFE\~ \~](https://ko.wikipedia.org/wiki/A_LIFE\~_\~).
+
+
+《**A LIFE\~사랑스러운 사람\~**》()는, [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [1월 15일부터](https://ko.wikipedia.org/wiki/1월_15일 "wikilink") [3월 19일까지](https://ko.wikipedia.org/wiki/3월_19일 "wikilink") 매주 [일요일](https://ko.wikipedia.org/wiki/일요일 "wikilink") 21:00 \~ 21:54에 [TBS](https://ko.wikipedia.org/wiki/도쿄_방송_홀딩스 "wikilink") [계열의](https://ko.wikipedia.org/wiki/재팬_뉴스_네트워크 "wikilink") 〈[일요극장](https://ko.wikipedia.org/wiki/일요극장 "wikilink")〉 시간대에서 방송될 예정인 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink"). 주연은 [키무라 타쿠야](https://ko.wikipedia.org/wiki/기무라_타쿠야 "wikilink")\[1\].
+
+## 개요
+
+“사랑스러운 사람”의 단 하나의 “생명”, 둘도 없는 “인생”을 둘러싸고 펼쳐지는 휴먼 러브 스토리.
+
+## 캐스트
+
+  - 오키타 카즈아키 - [키무라 타쿠야](https://ko.wikipedia.org/wiki/기무라_타쿠야 "wikilink")
+  - 단죠 미후유 - [타케우치 유코](https://ko.wikipedia.org/wiki/다케우치_유코 "wikilink")
+  - 이가와 소타 - [마츠야마 켄이치](https://ko.wikipedia.org/wiki/마츠야마_켄이치 "wikilink")
+  - 시바타 유키 - [키무라 후미노](../Page/키무라_후미노.md "wikilink")
+  - 사카키바라 미노리 - 나나오
+  - 단죠 토라노스케 - [에모토 아키라](https://ko.wikipedia.org/wiki/에모토_아키라 "wikilink")
+  - 오키타 잇신 - 타나카 민
+  - 사나다 타카유키 - 코바야시 타카시
+  - 하무라 케이고 - [오이카와 미츠히로](https://ko.wikipedia.org/wiki/오이카와_미츠히로 "wikilink")
+  - 단죠 마사오 - [아사노 타다노부](https://ko.wikipedia.org/wiki/아사노_타다노부 "wikilink")
+
+## 스태프
+
+  - 각본 - 하시베 아츠코
+  - 음악 - [사토 나오키](https://ko.wikipedia.org/wiki/사토_나오키 "wikilink")
+  - 기획 - 우에다 히로키
+  - 프로듀스 - 세토구치 카츠아키, 히가시나카 케이고
+  - 연출 - [히라카와 유이치로](https://ko.wikipedia.org/wiki/히라카와_유이치로 "wikilink")
+  - 제작 저작 - [TBS](https://ko.wikipedia.org/wiki/도쿄_방송_홀딩스 "wikilink")
+
+## 방송 일자
+
+| 각 화                                                                                                                                         | 방송일          | 부제                           | 연출               | 시청률       |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ---------------------------- | ---------------- | --------- |
+| 제1화                                                                                                                                         | 2017년 1월 15일 | 돌아온 장인 외과의                   | 숙명의 재회           | 히라카와 유이치로 |
+| 제2화                                                                                                                                         | 2017년 1월 22일 | 나의 환자                        | 양보 할 수 없는 의사의 신념 | 14.7%     |
+| 제3화                                                                                                                                         | 2017년 1월 29일 | 결정                           | 환자의 미래를 건 싸움     | 카토 신      |
+| 제4화                                                                                                                                         | 2017년 2월 5일  | 너스의 프라이드                     | 12.3%            |           |
+| 제5화                                                                                                                                         | 2017년 2월 12일 | 은사의 의료미스                     | 히라카와 유이치로        | 13.9%     |
+| 제6화                                                                                                                                         | 2017년 2월 19일 | 궁극의 몬스터 페이션트                 | 키무라 히사시          | 15.3%     |
+| 제7화                                                                                                                                         | 2017년 2월 26일 | 마지막 환자는 14세의 유방암\!?          | 카토 신             | 14.5%     |
+| 제8화                                                                                                                                         | 2017년 3월 5일  | 아버지의 수술                      | 뜻밖의 실패...        | 히라카와 유이치로 |
+| 제9화                                                                                                                                         | 2017년 3월 12일 | 최종막                          | 운명을 쥔 마지막 선택     | 키무라 히사시   |
+| 제10화                                                                                                                                        | 2017년 3월 19일 | 구하고 싶어\! 사랑스러운 사람의 목숨…숙명의 행방 |                  | 히라카와 유이치로 |
+| 평균 시청률 14.5% (시청률은 [칸토 지구](https://ko.wikipedia.org/wiki/간토_지방 "wikilink")·[비디오 리서치사](https://ko.wikipedia.org/wiki/비디오_리서치 "wikilink") 조사) |              |                              |                  |           |
+
+  - 첫회 25분 확대 스페셜.
+  - 2회 15분 확대 스페셜.
+  - 9회 10분 확대 스페셜.
+  - 마지막회 15분 확대 스페셜.
+
+## 각주
+
+<references/>
+
+## 외부 링크
+
+  - [A LIFE\~사랑스러운 사람\~ - TBS](http://www.tbs.co.jp/ALIFE/)
+
+[분류:2017년 드라마](https://ko.wikipedia.org/wiki/분류:2017년_드라마 "wikilink") [분류:TBS 일요일 밤 9시 드라마](https://ko.wikipedia.org/wiki/분류:TBS_일요일_밤_9시_드라마 "wikilink") [분류:하시베 아츠코 각본 작품](https://ko.wikipedia.org/wiki/분류:하시베_아츠코_각본_작품 "wikilink") [분류:일본의 의학 드라마](https://ko.wikipedia.org/wiki/분류:일본의_의학_드라마 "wikilink")
+
+1.

@@ -1,0 +1,41 @@
+> This article is converted from Wikipedia: [ IV](https://ko.wikipedia.org/wiki/_IV).
+
+
+《**삼국지 IV**》는 [코에이](https://ko.wikipedia.org/wiki/코에이 "wikilink")가 개발하고 [삼국지연의](https://ko.wikipedia.org/wiki/삼국지연의 "wikilink")에 기반을 둔 턴 기반 [전략 게임](https://ko.wikipedia.org/wiki/전략_게임 "wikilink") [삼국지 시리즈](https://ko.wikipedia.org/wiki/삼국지_\(비디오_게임_시리즈\) "wikilink") 중 네 번째 게임이다. 1994년 12월 9일에 첫 출시되었다. 이 게임은 [삼국지 XI가](https://ko.wikipedia.org/wiki/삼국지_XI "wikilink") 나올 때까지 미국에서 시리즈 중 [PC용으로](https://ko.wikipedia.org/wiki/개인용_컴퓨터 "wikilink") 출시된 마지막 게임이었다.
+
+## 개요
+
+전작이 키보드/마우스 입력을 함께 지원한 반면, 이 시리즈부터 마우스로만 명령을 입력할 수 있도록 하였다. [연노](https://ko.wikipedia.org/wiki/연노 "wikilink"), [충차](https://ko.wikipedia.org/wiki/충차 "wikilink"), [발석차](https://ko.wikipedia.org/wiki/발석차 "wikilink") 병기가 추가되었고, 전쟁에서 승리할 경우 등용, 석방, 참수 이외에도 투옥을 포함시켰는데 이로 인하여 [포로](https://ko.wikipedia.org/wiki/포로 "wikilink") 신분을 추가하였다. 포로는 전쟁에서 승리한 이후 적장수를 투옥시키면 해당장수의 신분이 포로가 된다. 포로는 오직 자신의 세력에서만 등용할 수 있으며 해당국가와의 교섭을 통해 석방이 가능하다. 또한 이동이나 명령이 불가능한 재야장수와 같은 특징을 지니고 있지만 등용하기는 일반 재야장수에 비해 훨씬 어렵다. 육군·수군 지휘력이 통솔력으로 통합되어 이후 삼국지 7\~9를 제외한 시리즈의 능력치는 삼국지IV의 5 능력치 체계(통솔/무력/지력/정치/매력)를 따른다. 최초로 한 화면 크기를 넘는 지도가 사용되었다. 장수별 특기 24가지가 처음 생겨났고, 판타지적 요소인 천변, 풍변, 낙뢰 등이 처음으로 등장하여 이후의 시리즈에 영향을 주었다. 장수 하나당 부대 하나라는 기존 방식에서 벗어나 한 부대에 장수를 최대 셋 (대장 하나, 부장 둘) 까지 배치할 수 있게 되었다. 내정화면을 별도로 분리하여, 장수가 매달 내정도 동시에 담당할 수 있도록 하였다. 또한 이민족에게 특정 도시를 침략하게 하는 시스템도 있으며, 이전 시리즈부터 제공된 방랑이란 옵션이 이번 시리즈를 마지막으로 사라진다 (다만 삼국지 8과 10에서 부활한다). 전투 화면은 단순히 성벽을 오르는 장면에 지나지 않아 다른 시리즈에 비해 인기를 얻지는 못했다.
+
+이 시리즈부터 확장팩 개념인 '파워업키트' 가 발매되기 시작하여, 이후 시리즈부터는 원판 발매 이후 파워업키트를 별도로 판매하고 있다. 삼국지 시리즈의 파워업키트는 게임 중 편집 기능을 제공한다는 점은 공통되며, 그 외에 추가되는 부가적인 기능의 내용은 시리즈마다 각기 다르다. 삼국지Ⅳ 파워업키트에서는 난이도조절 기능 및 일기토모드가 도입되었고, 장수정보에 열전을 추가하였고 3개의 신 시나리오가 추가되었다. 또한 수호지의 무장을 신무장으로서 게임에 등장시킬 수 있도록 하였다.
+
+삼국지Ⅳ의 파워업키트는 도스판도 있고 윈도 판인 with 파위업키트가 있는데, 도스판과 다른 점은 별로 없지만 사운드 모드가 추가되었으며, 전투 화면 등 여러면에서 세련된 면이 보강되었다.
+
+## 시나리오
+
+1.  189년 12월 동탁이 소제를 퇴폐시켜 낙양 불타오르다
+2.  194년 11월 군웅 중원에서 싸우고 조조 세력을 신장시키다
+3.  201년 10월 하북에는 폭풍이 일어나고 형주에는 봄이 오다
+4.  208년 9월 와룡공명 적벽에서 동풍을 부르다
+5.  221년 4월 후한이 멸망하고 삼국시대 시작되다
+6.  235년 2월 강유에게 후사를 부탁하고 거성 떨어지다
+
+<!-- end list -->
+
+  -
+    PK1. 189년 6월 간웅 한나라를 훔쳐 천하를 통일하다
+
+(간웅 한나라를 훔쳐 천하를 통일하다에서는 신장수로만 플레이가 가능하며, 조조는 선택이 불가능하다.) (또 이 시나리오는 0인 플레이가 불가능하다.)
+
+  -
+    PK2. 190년 5월 대륙 황폐되고 삼웅 여기에 일어서다
+    PK3. 225년 1월 만왕 남북에서 봉기하고 전란이 일어나다
+
+## 각주
+
+## 외부 링크
+
+  - [Japan Gamecity RTK4 page](http://www.gamecity.ne.jp/products/products/ee/Rlsan4.htm)
+
+  -
+[분류:1994년 비디오 게임](https://ko.wikipedia.org/wiki/분류:1994년_비디오_게임 "wikilink") [분류:대전략 비디오 게임](https://ko.wikipedia.org/wiki/분류:대전략_비디오_게임 "wikilink") [분류:3DO 게임](https://ko.wikipedia.org/wiki/분류:3DO_게임 "wikilink") [분류:드림캐스트 게임](https://ko.wikipedia.org/wiki/분류:드림캐스트_게임 "wikilink") [분류:도스 게임](https://ko.wikipedia.org/wiki/분류:도스_게임 "wikilink") [분류:FM 타운즈 게임](https://ko.wikipedia.org/wiki/분류:FM_타운즈_게임 "wikilink") [분류:PC-9800 시리즈 게임](https://ko.wikipedia.org/wiki/분류:PC-9800_시리즈_게임 "wikilink") [분류:세가 새턴 게임](https://ko.wikipedia.org/wiki/분류:세가_새턴_게임 "wikilink") [분류:슈퍼 패미컴 게임](https://ko.wikipedia.org/wiki/분류:슈퍼_패미컴_게임 "wikilink") [분류:플레이스테이션 (콘솔) 게임](https://ko.wikipedia.org/wiki/분류:플레이스테이션_\(콘솔\)_게임 "wikilink") [분류:플레이스테이션 네트워크 게임](https://ko.wikipedia.org/wiki/분류:플레이스테이션_네트워크_게임 "wikilink") [분류:턴제 전략 게임](https://ko.wikipedia.org/wiki/분류:턴제_전략_게임 "wikilink") [분류:버추얼 콘솔 게임](https://ko.wikipedia.org/wiki/분류:버추얼_콘솔_게임 "wikilink") [분류:윈도우 게임](https://ko.wikipedia.org/wiki/분류:윈도우_게임 "wikilink")

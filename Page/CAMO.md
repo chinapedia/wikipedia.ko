@@ -1,0 +1,35 @@
+> This article is converted from Wikipedia: [CAMO](https://ko.wikipedia.org/wiki/CAMO).
+
+
+〈**CAMO**〉는 가수 [보아](https://ko.wikipedia.org/wiki/보아 "wikilink")가 [한국](https://ko.wikipedia.org/wiki/한국 "wikilink")에서 발매한 디지털 싱글이다.
+
+〈CAMO〉는 묵직한 베이스와 신디사이저 사운드에 섹시하면서도 파워풀한 보아의 보컬이 더해진 강렬한 댄스 곡으로, 세계적인 프로듀싱팀 더 언더독스(The Underdogs)가 참여해 완성도를 높였다. 보아의 ‘CAMO’ 프로젝트는 보아의 화려한 퍼포먼스를 극대화해 표현함은 물론 색다른 변신을 선보이기 위해 기획된 것으로 더욱 강렬해진 음악과 뮤직비디오를 선사, 전 세계 음악 팬들의 이목을 사로잡을 전망이다.
+
+## 작업 및 발매
+
+위장의 뜻을 가진 '카모'는 보아의 새로운 시도를 선보이고자 한 이번 기획 및 곡명에 맞춰 프로젝트명으로 선정했으며, 기존 앨범과 달리 별도의 방송 출연 없이 강렬한 음악과 뮤직비디오만을 통해 프로젝트가 공개되는 만큼 글로벌 음악 팬들의 이목이 더욱 집중될 것으로 보인다.
+
+원래 계획은 'CAMO' 프로젝트 후 미니앨범을 발매할 계획이었지만, 회사 사정으로 계획이 엎어졌고, 2018년 2월에 발매될 예정이다.
+
+## 활동 목록
+
+| 방영 일자                          | 프로그램                                     | 비고                                             |
+| ------------------------------ | ---------------------------------------- | ---------------------------------------------- |
+| **<small>(타이틀곡)</small> CAMO** |                                          |                                                |
+| 2017년 6월 17일                   | CAMO 티저영상 공개                             | 프로듀스101 시즌2 방송 후 TV 첫 공개                       |
+| 2017년 6월 23일                   | 두번째 티저영상 공개                              |                                                |
+| 2017년 6월 26일                   | 음원 발매                                    |                                                |
+| 2017년 7월 8일                    | SM Town Live World Tour VI               | 서울 공연                                          |
+| 2017년 7월 15-16일                | SM Town Live World Tour VI               | 오사카 공연                                         |
+| 2017년 7월 27-28일                | SM Town Live World Tour VI               | 도쿄 공연                                          |
+| 2017년 8월 25일                   | SM Town Live World Tour VI 일본공연 무대 영상 공개 |                                                |
+| **연말 시상식**                     |                                          |                                                |
+| 2017년 11월 29일                  | 2017 MAMA                                | Girls On Top, Only One (with 황민현 of 워너원), CAMO |
+
+## 트랙리스트
+
+〈**CAMO**〉
+
+1.  CAMO
+
+[분류:2017년 싱글](https://ko.wikipedia.org/wiki/분류:2017년_싱글 "wikilink") [분류:보아의 노래](https://ko.wikipedia.org/wiki/분류:보아의_노래 "wikilink") [분류:SM 엔터테인먼트 음반](https://ko.wikipedia.org/wiki/분류:SM_엔터테인먼트_음반 "wikilink") [분류:대한민국의 음반](https://ko.wikipedia.org/wiki/분류:대한민국의_음반 "wikilink")

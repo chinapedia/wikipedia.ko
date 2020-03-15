@@ -1,0 +1,45 @@
+> This article is converted from Wikipedia: [Gol-Cha!](https://ko.wikipedia.org/wiki/Gol-Cha!).
+
+
+《**Gol-Cha\!**》는 대한민국의 남성 음악 그룹 [골든차일드의](../Page/골든차일드_\(음악_그룹\).md "wikilink") 데뷔 음반이다. 2017년 8월 28일에 발매되었다.
+
+## 제작
+
+[2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [7월 25일](https://ko.wikipedia.org/wiki/7월_25일 "wikilink") [울림 엔터테인먼트는](https://ko.wikipedia.org/wiki/울림_엔터테인먼트 "wikilink") 골든차일드의 데뷔를 8월 내 진행하는 것을 확정하였다.\[1\] [8월 3일](https://ko.wikipedia.org/wiki/8월_3일 "wikilink") 자정 골든차일드는 티저 영상을 공개하며 데뷔 앨범의 발매일을 공개하며, 한 달간 프로모션 일정을 가질 것을 밝혔다.\[2\]\[3\] [8월 4일](https://ko.wikipedia.org/wiki/8월_4일 "wikilink") 골든차일드는 오프닝 티저 이미지를 공개하였다.\[4\] [8월 7일](https://ko.wikipedia.org/wiki/8월_7일 "wikilink") 골든차일드는 멤버 Y와 최보민을 시작으로 [8월 8일](https://ko.wikipedia.org/wiki/8월_8일 "wikilink") 멤버 봉재현과 김동현, [8월 9일](https://ko.wikipedia.org/wiki/8월_9일 "wikilink") 멤버 박재석과 배승민, [8월 10일](https://ko.wikipedia.org/wiki/8월_10일 "wikilink") 멤버 TAG과 홍주찬, [8월 11일](https://ko.wikipedia.org/wiki/8월_11일 "wikilink") 멤버 이대열과 이장준, 김지범의 의 컨셉트 티저 영상과 이미지를 순차적으로 공개한 뒤, [8월 14일](https://ko.wikipedia.org/wiki/8월_14일 "wikilink") 단체 티저 이미지를 공개하였다.\[5\]\[6\]\[7\]\[8\]\[9\]<ref>\[<http://osen.mt.co.kr/article/G1110709569> (Oh\!쎈
+
+`컷) '인피니트 동생' 골든차일드, 청량미 입은 완전체 공개], OSEN 선미경 기자.`</ref>` `[`8월``   ``19일`](https://ko.wikipedia.org/wiki/8월_19일 "wikilink")` 골든차일드는 데뷔 앨범 《Gol-Cha!》의 앨범 커버를 공개하였다.`\[10\]` `[`8월``   ``21일`](https://ko.wikipedia.org/wiki/8월_21일 "wikilink")` 골든차일드는 데뷔 앨범 《Gol-Cha!》의 프로모션 일정을 공개한 뒤, `[`8월``   ``22일`](https://ko.wikipedia.org/wiki/8월_22일 "wikilink")` 앨범 트랙리스트, `[`8월``   ``23일`](https://ko.wikipedia.org/wiki/8월_23일 "wikilink")` 타이틀곡 `<담다디>`의 뮤직비디오 티저, `[`8월``   ``24일`](https://ko.wikipedia.org/wiki/8월_24일 "wikilink")` 뮤직비디오 2차 티저, `[`8월``   ``25일`](https://ko.wikipedia.org/wiki/8월_25일 "wikilink")` 앨범 프리뷰 영상을 순차적으로 공개하였다.`\[11\]\[12\]\[13\]\[14\]\[15\]` `[`8월``   ``28일`](https://ko.wikipedia.org/wiki/8월_28일 "wikilink")` 골든차일드는 앨범 발매에 앞서 `[`서울특별시`](https://ko.wikipedia.org/wiki/서울특별시 "wikilink")` `[`용산구`](https://ko.wikipedia.org/wiki/용산구 "wikilink")` `[`한남동`](https://ko.wikipedia.org/wiki/한남동 "wikilink")` `[`블루스퀘어`](https://ko.wikipedia.org/wiki/블루스퀘어 "wikilink")에서` 미디어 쇼케이스를 진행한 뒤, 같은 날 오후 6시 데뷔 앨범 《Gol-Cha!》를 발매하였다.`\[16\]\[17\]
+
+## 트랙리스트
+
+## 평가
+
+《[아이돌로지](https://ko.wikipedia.org/wiki/아이돌로지 "wikilink")》의 김윤하는 "푸르고 드넓게 펼쳐진 하늘과 벌판 위를 11명의 소년이 힘차게 뛰어 가로지른다. 이런 건 도무지 외면하거나 싫어할 도리가 없다. 심지어 그 의지가 이토록 굳다면."이라며 평가하였고, 조동민은 "동류의 보이그룹들에겐 없는 무해한 에너지가 강점으로 작용할 듯하다. 밴드 사운드에 어울리는 쨍한 보컬과 자칫 부담스러울 수도 있었던 진행을 중간중간 중화해주는 여리고 부드러운 보컬이 병치되어 있어 듣는 것만으로도 충분한 즐거움을 준다."며 평가하였고 음악 그룹 [굿데이의](../Page/굿데이_\(음악_그룹\).md "wikilink") 데뷔 앨범과 함께 이 주의 디스커버리 음반으로 선정하였다.\[18\]
+
+## 차트 성적
+
+음반 부문에서는 [가온 앨범 차트](https://ko.wikipedia.org/wiki/가온_앨범_차트 "wikilink") 주간 3위, 월간 18위를 기록하였다.\[19\]\[20\]
+
+## 각주
+
+[분류:2017년 음반](https://ko.wikipedia.org/wiki/분류:2017년_음반 "wikilink") [분류:2017년 EP](https://ko.wikipedia.org/wiki/분류:2017년_EP "wikilink") [분류:대한민국의 음반](https://ko.wikipedia.org/wiki/분류:대한민국의_음반 "wikilink") [분류:골든차일드의 음반](https://ko.wikipedia.org/wiki/분류:골든차일드의_음반 "wikilink")
+
+1.  [(단독) '울림신인' 골든차일드, 8월 데뷔 확정…워너원과 '루키 맞대결'](http://osen.mt.co.kr/article/G1110695388), OSEN 정지원 기자.
+2.  [(공식입장) '인피니트 동생' 골든차일드, 8월 28일 정식데뷔 확정](http://osen.mt.co.kr/article/G1110701609), OSEN 이소담 기자.
+3.  ['인피니트 동생' 골든차일드 28일 데뷔 확정…한 달간 데뷔 프로모션 진행](http://www.sportsseoul.com/news/read/538365), 스포츠서울 홍승한 기자.
+4.  [인피니트 동생 골든차일드, ‘데뷔 D-24’ 오프닝 티저 공개](http://sports.donga.com/3/all/20170804/85680613/1), 동아닷컴 최윤나 기자.
+5.  [‘울림 신인’ 골든차일드, 멤버별 티저 최초 공개](http://www.newsen.com/news_view.php?uid=201708070803170410), 뉴스엔 황혜진 기자.
+6.  [인피니트 동생 골든차일드, 동현X재현 2차 콘셉트포토 공개](http://osen.mt.co.kr/article/G1110704966), OSEN 정지원 기자.
+7.  [(Oh\!쎈 컷)'눈부신 피지컬'..골든차일드, 3차 콘셉트 티저 공개](http://osen.mt.co.kr/article/G1110705745), OSEN 이소담 기자.
+8.  [골든차일드 태그X주찬, 파격 금발 변신 콘셉트 포토 공개](http://pop.heraldcorp.com/view.php?ud=201708101401001175968_1), 헤럴드POP 김은지 기자.
+9.  [골든차일드, 대열X장준X지범 '청춘美 뿜뿜' 콘셉트 티저 공개](http://www.sportsworldi.com/content/html/2017/08/11/20170811000608.html?OutUrl=naver), 스포츠월드 김원희 기자.
+10. [`데뷔``   ``앞둔``   ``골든차일드,``   ``앨범``   ``커버``   ``공개…11人11色``   ``매력`](http://tenasia.hankyung.com/archives/1275496)`,``   ``텐아시아``   ``현지민``   ``기자.`
+11. [`골든차일드,``   ``데뷔``   ``앨범``   ``스케줄러``   ``공개..."골든위크``   ``시작"`](http://pop.heraldcorp.com/view.php?ud=201708210801364043108_1)`,``   ``헤럴드POP``   ``박수정``   ``기자.`
+12. [`‘인피니트``   ``동생’``   ``골든차일드,``   ``타이틀곡이``   ``‘담다디’라고?`](http://www.vop.co.kr/A00001193445.html)`,``   ``민중의소리``   ``이동현``   ``기자.`
+13. [`골든차일드,``   ``타이틀곡``   ``‘담다디’``   ``뮤직비디오``   ``티저``   ``공개`](http://www.wowtv.co.kr/newscenter/news/view.asp?bcode=T30001000&artid=A201708230047)`,``   ``WOW한국경제TV``   ``디지털``   ``이슈팀``   ``유병철``   ``기자.`
+14. [`골든차일드,``   ``데뷔곡``   ``‘담다니’``   ``M/V``   ``2차``   ``티저``   ``공개`](http://sports.donga.com/3/all/20170824/85960981/1)`,``   ``동아닷컴``   ``최윤나``   ``기자.`
+15. [`‘인피니트``   ``동생’``   ``골든차일드,``   ``데뷔앨범``   ``하이라이트``   ``메들리``   ``공개`](http://www.vop.co.kr/A00001194769.html)`,``   ``민중의소리``   ``이동현``   ``기자.`
+16. [`'인피니트``   ``남동생'``   ``골든차일드,'오늘``   ``드디어``   ``데뷔해요'`](http://osen.mt.co.kr/article/G1110719131)`,``   ``OSEN``   ``박준형``   ``기자.`
+17. [`골든차일드,``   ``28일``   ``정식``   ``데뷔…음원+음반+뮤직비디오``   ``모두``   ``공개`](http://www.wowtv.co.kr/newscenter/news/view.asp?bcode=T30001000&artid=A201708280048)`,``   ``WOW한국경제TV``   ``디지털``   ``이슈팀``   ``유병철``   ``기자.`
+18. [골든차일드–Gol-Cha\! (2017)](http://idology.kr/disc/9341), 아이돌로지 김윤하, 조동민 음악평론가.
+19.
+20.

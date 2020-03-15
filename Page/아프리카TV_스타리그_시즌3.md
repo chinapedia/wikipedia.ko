@@ -1,0 +1,139 @@
+> This article is converted from Wikipedia: [TV  3](https://ko.wikipedia.org/wiki/TV__3).
+
+
+**아프리카TV 스타리그 시즌3**은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [스타크래프트 리그인](https://ko.wikipedia.org/wiki/스타크래프트_리그 "wikilink") [아프리카TV 스타리그의](../Page/아프리카TV_스타리그.md "wikilink") 3번째 개인전 대회다. [아프리카TV](https://ko.wikipedia.org/wiki/아프리카TV "wikilink")와 [콩두컴퍼니](../Page/콩두컴퍼니.md "wikilink")가 공동으로 주최했으며, [아프리카TV](https://ko.wikipedia.org/wiki/아프리카TV "wikilink"), [유튜브](https://ko.wikipedia.org/wiki/유튜브 "wikilink") 등으로 방송되었다.
+
+2017년 4월 1일 서울 예선전을 시작으로 6월 4일 결승전 리그가 진행되었다. 중계진은 [이승원](https://ko.wikipedia.org/wiki/이승원_\(방송인\) "wikilink"), [임성춘](https://ko.wikipedia.org/wiki/임성춘 "wikilink"), [박상현이다](https://ko.wikipedia.org/wiki/박상현_\(1981년\) "wikilink").
+
+## 개요
+
+2017년 1월 22일 [아프리카TV 스타리그 시즌2](../Page/아프리카TV_스타리그_시즌2.md "wikilink") 종료 이후 [다방 ASL 팀배틀이](https://ko.wikipedia.org/wiki/다방_ASL_팀배틀 "wikilink") 2\~3월간 진행됐다. 3월 24일부터 29일까지 ASL 시즌3 예선전 신청이 진행됐다.
+
+ASL 시즌3은 지난 시즌과 마찬가지로 서울, 부산 예선에서 각 12명을 선발한다. 예선을 뚫은 24명의 진출자들이 6개 조로 나뉘어 듀얼 토너먼트([더블 엘리미네이션 토너먼트](https://ko.wikipedia.org/wiki/더블_엘리미네이션_토너먼트 "wikilink")) 방식으로 12명이 16강에 진출한다. 16강에는 12명의 24강 통과자와 ASL 시즌2의 4강 진출자 4명([이영호](https://ko.wikipedia.org/wiki/이영호_\(1992년\) "wikilink"), [염보성](https://ko.wikipedia.org/wiki/염보성 "wikilink"), [이제동](https://ko.wikipedia.org/wiki/이제동 "wikilink"), [도재욱](https://ko.wikipedia.org/wiki/도재욱 "wikilink"))이 대결한다. 16강은 다시 4명씩 4개 조로 나뉘어 듀얼 토너먼트로 진행된다. 8강부터 결승까지는 [싱글 엘리미네이션 토너먼트로](https://ko.wikipedia.org/wiki/싱글_엘리미네이션_토너먼트 "wikilink") 진행된다.
+
+## 리그 진행
+
+### 예선전
+
+2017년 4월 1일과 2일 각각 서울(아프리카TV PC방 홍대점)과 부산(아프리카TV PC방 서면점)에서 예선이 진행됐다. 예선 맵으로는 써킷 브레이커, 아웃사이더, 블루스톰이 사용됐다. 문기호는 프로게이머 경력이 없는 순수 아마추어다. 예선 결과 프로토스 12명, 저그 8명, 테란 4명이 진출했다.
+
+  - 서울 예선 통과자 : [김택용](https://ko.wikipedia.org/wiki/김택용 "wikilink")(P), [송병구](https://ko.wikipedia.org/wiki/송병구 "wikilink")(P), [김정우](https://ko.wikipedia.org/wiki/김정우_\(프로게이머\) "wikilink")(Z), [김경모](https://ko.wikipedia.org/wiki/김경모_\(프로게이머\) "wikilink")(Z), [윤찬희](https://ko.wikipedia.org/wiki/윤찬희_\(1992년\) "wikilink")(T), [김성현](https://ko.wikipedia.org/wiki/김성현_\(프로게이머\) "wikilink")(T), [조일장](https://ko.wikipedia.org/wiki/조일장 "wikilink")(Z), [이재호](https://ko.wikipedia.org/wiki/이재호_\(프로게이머\) "wikilink")(T), [장윤철](https://ko.wikipedia.org/wiki/장윤철 "wikilink")(P), [임홍규](https://ko.wikipedia.org/wiki/임홍규 "wikilink")(Z), [정윤종](https://ko.wikipedia.org/wiki/정윤종 "wikilink")(P), [최호선](https://ko.wikipedia.org/wiki/최호선 "wikilink")(T). 프로토스 4명, 저그 4명, 테란 4명
+  - 부산 예선 통과자 : [고석현](https://ko.wikipedia.org/wiki/고석현 "wikilink")(Z), [김승현](https://ko.wikipedia.org/wiki/김승현_\(프로게이머\) "wikilink")(P), [김윤중](https://ko.wikipedia.org/wiki/김윤중 "wikilink")(P), [이영한](https://ko.wikipedia.org/wiki/이영한 "wikilink")(Z), [박지호](https://ko.wikipedia.org/wiki/박지호_\(1985년\) "wikilink")(P), [진영화](https://ko.wikipedia.org/wiki/진영화_\(프로게이머\) "wikilink")(P), 문기호(Z), [김민철](https://ko.wikipedia.org/wiki/김민철_\(프로게이머\) "wikilink")(Z), [김재훈](https://ko.wikipedia.org/wiki/김재훈_\(1989년\) "wikilink")(P), [변현제](https://ko.wikipedia.org/wiki/변현제 "wikilink")(P), [김기훈](https://ko.wikipedia.org/wiki/김기훈_\(프로게이머\) "wikilink")(P), [윤용태](https://ko.wikipedia.org/wiki/윤용태 "wikilink")(P). 프로토스 8명, 저그 4명
+
+### 24강
+
+| 조  | Match1  | Match2  | 승자전     | 패자전     | 최종전     |
+| -- | ------- | ------- | ------- | ------- | ------- |
+| A조 | **김윤중** | 문기호     | 김민철     | **윤찬희** | 김윤중     |
+| B조 | **김정우** | 장윤철     | **이영한** | 윤용태     | **김정우** |
+| C조 | **김택용** | 변현제     | 이재호     | **김재훈** | **김택용** |
+| D조 | **조일장** | 김기훈     | 정윤종     | **최호선** | 조일장     |
+| E조 | 김승현     | **김경모** | **박지호** | 송병구     | **김경모** |
+| F조 | **김성현** | 고석현     | 진영화     | **임홍규** | **김성현** |
+
+  - 4월 11일부터 25일까지 오후 7시에 서울 강남구 프릭업 스튜디오에서 듀얼 토너먼트([더블 엘리미네이션 토너먼트](https://ko.wikipedia.org/wiki/더블_엘리미네이션_토너먼트 "wikilink")) 방식으로 진행 예정이다. 24강 조편성은 진출자들의 ASL 성적을 토대로 결정됐다.\[1\] 6명씩 4개 등급(티어)로 나뉘어 등급별로 선수들이 고루 나뉘도록 6개 조로 편성됐으며, 각조의 1차전은 1, 4등급, 2, 3등급으로 시작된다. 각 조는 다음과 같이 결정됐다. 선수 순서는 1, 4, 2, 3 등급 순서이며, 24강 맵 순서는 1, 2경기 카멜롯(ASL 시즌3 신맵), 3, 4경기 써킷 브레이커, 5경기 아웃사이더다.
+  - A조(4.11) : 김윤중(P), 문기호(Z), 윤찬희(T), 김민철(Z)
+  - B조(4.12) : 김정우(Z), 장윤철(P), 윤용태(P), 이영한(Z)
+  - C조(4.16) : 김택용(P), 변현제(P), 김재훈(P), 이재호(T)
+  - D조(4.18) : 조일장(Z), 김기훈(P), 최호선(T), 정윤종(P)
+  - E조(4.23) : 김승현(P), 김경모(Z), 송병구(P), 박지호(P)
+  - F조(4.25) : 김성현(T), 고석현(Z), 임홍규(Z), 진영화(P)
+  - 테란 진출자(3) - 윤찬희, 최호선, 김성현
+  - 저그 진출자(6) - 김민철, 김정우, 이영한, 조일장, 김경모, 고석현
+  - 프로토스 진출자(3) - 김택용, 김재훈, 김승현
+
+### 16강
+
+| 조  | Match1  | Match2  | 승자전     | 패자전     | 최종전     |
+| -- | ------- | ------- | ------- | ------- | ------- |
+| A조 | **이영호** | 고석현     | **이영한** | 김경모     | **이영호** |
+| B조 | 염보성     | **김정우** | 김택용     | **김민철** | 김정우     |
+| C조 | 도재욱     | **윤찬희** | **김승현** | 김재훈     | **윤찬희** |
+| D조 | 이제동     | **최호선** | **김성현** | 조일장     | 최호선     |
+
+  - A조: 이영호(T), 고석현(Z), 이영한(Z), 김경모(Z)
+  - B조: 염보성(T), 김정우(Z), 김택용(P), 김민철(Z)
+  - C조: 도재욱(P), 윤찬희(T), 김승현(P), 김재훈(P)
+  - D조: 이제동(Z), 최호선(T), 김성현(T), 조일장(Z)
+
+<!-- end list -->
+
+  - 테란 진출자(4) - 이영호, 윤찬희, 김성현, 최호선
+  - 저그 진출자(2) - 김민철, 이영한
+  - 프로토스 진출자(2) - 김택용, 도재욱
+
+### 8강
+
+#### 1경기
+
+#### 2경기
+
+#### 3경기
+
+#### 4경기
+
+### 4강
+
+#### 1경기
+
+#### 2경기
+
+### 3/4위 결정전
+
+### 결승전
+
+## 토너먼트 결과
+
+{{\#invoke:RoundN|N8 |widescore=yes|bold_winner=high |3rdplace=yes |team-width=210 |flex_tree=yes | RD1=8강전 | RD2=4강전 | RD3=결승전 | Consol=3·4위전 |5월 14일 19:00|최호선(T)|2|김택용(P)|3 |5월 16일 19:00|윤찬희(T)|1|이영한(Z)|3 |5월 21일 19:00|김민철(Z)|3|도재욱(P)|2 |5월 23일 19:00|이영호(T)|3|김성현(T)|0 |5월 27일 19:00|김택용(P)|1|이영한(Z)|3 |5월 28일 19:00|김민철(Z)|2|이영호(T)|3 |6월 4일 19:00|이영한(Z)|0|이영호(T)|3 |5월 30일 19:00|김택용(P)|3|김민철(Z)|1 }}
+
+## 상금
+
+  - 우승 : 2000만원
+  - 준우승 : 500만원
+  - 3위 : 300만원
+  - 4위 : 200만원
+  - 5\~8위 : 50만원
+  - 9\~16위 : 30만원
+  - 17\~28위 : 15만원
+
+## ASL 포인트
+
+  - 2017년 4월 3일 아프리카TV는 시즌3 24강 조편성을 위한 ASL 포인트를 공개했다. 대국민 스타리그, ASL 시즌 1, 2의 성적을 기반으로 포인트가 산정됐다. 포인트가 0인 선수들의 등급 구분은 프로게이머 전체 활동 기간을 기반으로 했다. 정확한 포인트 계산법은 알려지지 않았다.
+  - 24강 진출자 ASL 포인트
+
+|      | ASL 포인트 |
+| ---- | ------- |
+| 등급   | 이름      |
+| 티어 1 | 김윤중     |
+| 김정우  | Z       |
+| 김택용  | P       |
+| 김성현  | T       |
+| 조일장  | Z       |
+| 김승현  | P       |
+| 티어 2 | 윤용태     |
+| 김재훈  | P       |
+| 최호선  | T       |
+| 임홍규  | Z       |
+| 송병구  | P       |
+| 윤찬희  | T       |
+| 티어 3 | 진영화     |
+| 정윤종  | P       |
+| 이재호  | T       |
+| 김민철  | Z       |
+| 박지호  | P       |
+| 이영한  | Z       |
+| 티어 4 | 고석현     |
+| 장윤철  | P       |
+| 변현제  | P       |
+| 김경모  | Z       |
+| 김기훈  | P       |
+| 문기호  | Z       |
+
+## 외부 링크
+
+  -
+## 각주
+
+[분류:대한민국의 e스포츠 대회](https://ko.wikipedia.org/wiki/분류:대한민국의_e스포츠_대회 "wikilink") [분류:스타크래프트 대회](https://ko.wikipedia.org/wiki/분류:스타크래프트_대회 "wikilink")
+
+1.

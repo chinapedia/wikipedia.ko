@@ -1,0 +1,38 @@
+> This article is converted from Wikipedia: [AMG ](https://ko.wikipedia.org/wiki/AMG_).
+
+
+**AMG 스피드웨이**는 경기도 [용인시](https://ko.wikipedia.org/wiki/용인시 "wikilink")의 [에버랜드](../Page/에버랜드.md "wikilink")에 있는 자동차 경주용 서킷이다. **에버랜드 스피드웨이**라고도 부른다.
+
+## 역사
+
+1995년 3월, [삼성물산](https://ko.wikipedia.org/wiki/삼성물산 "wikilink")이 **용인 모터파크**라는 이름으로 개장했다. 개장 당시 국내 유일의 온로드 서킷으로, 모든 트랙 경기를 열었다.
+
+총 연장 2.125 km 길이에 12개의 코너로 설계된 서킷으로, 이후 2009년 4.5 km 수준으로 확장공사를 했다. 2018년 3월 현재, [국제자동차연맹](https://ko.wikipedia.org/wiki/국제자동차연맹 "wikilink")(FIA)에 등록된 스피드웨이의 공식 명칭은 **삼성 스피드웨이**(SAMSUNG SPEEDWAY)이다.
+
+확장공사 전에는 길이(2.125 km)와 폭(11 m)이 협소한데다가 관중석이 제대로 갖춰지지 않아 국제경기를 유치하기 어려웠다. 2009년 확장공사로 [포뮬러 원](https://ko.wikipedia.org/wiki/포뮬러_원 "wikilink") 경주를 제외하고 모든 국제 경기를 열 수 있는 '그레이드 2'로 국제자동차연맹(FIA) 인증을 받았다.
+
+## F-3
+
+1994년 9월 8일, [삼성중공업](https://ko.wikipedia.org/wiki/삼성중공업 "wikilink")이 한국 최초의 F3 레이싱 카를 제작했다. [닛산 자동차의](https://ko.wikipedia.org/wiki/닛산_자동차 "wikilink") 2천cc급 DOHC 엔진을 탑재했으며, 길이 4ｍ, 폭 1.7ｍ, 무게 4백50㎏, 최대출력 2백마력, 최대 토르크 40㎏.ｍ, 최고속도 시속 280 km이다.
+
+삼성중공업 관계자는 이번 F-3급 경주용차 개발로 경량.고강도 보디, 전자 현가장치, 고출력엔진 등 첨단 자동차의 핵심기술을 확보하게 됐으며 앞으로 세계 수준의 전자기술을 활용, 경주용차의 최고봉인 F-1급의 개발에 나설 계획이라고 밝혔다.\[1\]
+
+F3는 내셔널 대회이고, 삼성중공업이 F3 자동차를 출시하며, 대한민국 F3 챔피언십을 개최할 것이라고 보도되었다. 1999년 부터 2003년 까지, [코리아 수퍼프리라는](https://ko.wikipedia.org/wiki/코리아_수퍼프리 "wikilink") F3 경주를 4회 개최하였으나, 흥행부족 등으로 그 후 대회가 폐지되었다.
+
+## 연혁
+
+  - [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink") [12월](https://ko.wikipedia.org/wiki/12월 "wikilink"): [삼성그룹](https://ko.wikipedia.org/wiki/삼성그룹 "wikilink") [이건희](https://ko.wikipedia.org/wiki/이건희 "wikilink") 회장이 비서실에 승용차 사업 진출 방안 수립을 지시.
+  - [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") [4월 28일](https://ko.wikipedia.org/wiki/4월_28일 "wikilink"): [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") [도쿄](https://ko.wikipedia.org/wiki/도쿄 "wikilink") [긴자](https://ko.wikipedia.org/wiki/긴자 "wikilink")에 있는 [닛산 자동차](https://ko.wikipedia.org/wiki/닛산_자동차 "wikilink") 본사에서 기술제휴 계약서에 서명.
+  - 1994년 9월 8일: [삼성중공업](https://ko.wikipedia.org/wiki/삼성중공업 "wikilink")이 한국 최초의 F3 레이싱 카를 제작
+  - 1994년 [12월 2일](https://ko.wikipedia.org/wiki/12월_2일 "wikilink"): 김철수 [상공자원부](https://ko.wikipedia.org/wiki/대한민국_상공자원부 "wikilink") 장관, 삼성자동차 허용방침 발표.
+  - 1994년 [12월 5일](https://ko.wikipedia.org/wiki/12월_5일 "wikilink"): 삼성그룹, [닛산 자동차와의](https://ko.wikipedia.org/wiki/닛산_자동차 "wikilink") 기술도입 계획 상공부에 제출.
+  - [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") 3월: 한국 최초의 레이싱 서킷인 용인 모터파크 준공
+  - [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [3월 28일](https://ko.wikipedia.org/wiki/3월_28일 "wikilink"): 삼성자동차(주) 설립
+
+## 더 보기
+
+## 각주
+
+[분류:대한민국의 서킷](https://ko.wikipedia.org/wiki/분류:대한민국의_서킷 "wikilink") [분류:용인시의 스포츠](https://ko.wikipedia.org/wiki/분류:용인시의_스포츠 "wikilink")
+
+1.  三星重工業, 국내최초 경주용차 개발, 연합뉴스, 1994-09-07

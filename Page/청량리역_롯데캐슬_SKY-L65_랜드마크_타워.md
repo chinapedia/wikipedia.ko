@@ -1,0 +1,22 @@
+> This article is converted from Wikipedia: [  SKY-L65  ](https://ko.wikipedia.org/wiki/__SKY-L65__).
+
+
+**청량리역 롯데캐슬 SKY-L65 랜드마크 타워**()는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") [서울특별시](https://ko.wikipedia.org/wiki/서울특별시 "wikilink") [동대문구](https://ko.wikipedia.org/wiki/동대문구 "wikilink") [전농동](https://ko.wikipedia.org/wiki/전농동 "wikilink")에 위치하고 있다. 청량리4구역에 호텔, 오피스텔, 쇼핑몰 등 랜드마크 타워 1개동을 건설하고 있다. 지상 42층, 지하 8층이며 높이 185m이고 완공되면 동대문구에서 가장 높은 오피스텔 빌딩이 될 예상으로 보인다.
+
+[2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") 청량리에 초고층 복합단지를 개발할 계획이었다.\[1\] [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 조감도가 바뀌었고 [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") 조감도가 또 바뀌었고 [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") 조감도가 또 바뀌었다. [10월](https://ko.wikipedia.org/wiki/10월 "wikilink") 분양이 끝나면 착공하여 [2020년](https://ko.wikipedia.org/wiki/2020년 "wikilink") 완공 예정이다.
+
+## 배경
+
+**청량리 588**은 [서울특별시](https://ko.wikipedia.org/wiki/서울특별시 "wikilink") [동대문구](https://ko.wikipedia.org/wiki/동대문구 "wikilink") 전농동 [588](https://ko.wikipedia.org/wiki/588 "wikilink")번지에 있는 사창가를 이르는 속칭이다. 이곳에 위치하던 사창가는 2016년 5월 1일부로 재개발 사업 개시와 더불어 철거가 시작되었다.
+
+## 더 보기
+
+  - [청량리역 롯데캐슬 SKY-L65](../Page/청량리역_롯데캐슬_SKY-L65.md "wikilink")
+  - [대한민국의 마천루 목록](../Page/대한민국의_마천루_목록.md "wikilink")
+  - [서울특별시의 마천루 목록](../Page/서울특별시의_마천루_목록.md "wikilink")
+
+## 각주
+
+[분류:서울 동대문구의 건축물](https://ko.wikipedia.org/wiki/분류:서울_동대문구의_건축물 "wikilink") [분류:서울특별시의 마천루](https://ko.wikipedia.org/wiki/분류:서울특별시의_마천루 "wikilink")
+
+1.

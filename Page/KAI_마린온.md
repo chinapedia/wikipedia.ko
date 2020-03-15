@@ -1,0 +1,103 @@
+> This article is converted from Wikipedia: [KAI ](https://ko.wikipedia.org/wiki/KAI_).
+
+
+**KAI 마린온**(MARINEON)은 [KAI 수리온](https://ko.wikipedia.org/wiki/KAI_수리온 "wikilink") 육군 수송헬기를 해병대 수송헬기로 개조한 것이다.
+
+## 역사
+
+2007년 [독도함](https://ko.wikipedia.org/wiki/독도함 "wikilink")이 실전배치되었다.
+
+2009년 해군은 독도함의 수송헬기 훈련을 위해 12대의 [UH-60 블랙호크를](https://ko.wikipedia.org/wiki/UH-60_블랙호크 "wikilink") 사용했다. 모두 염분을 막을 수 있는 방염처리가 안된 육상용 헬리콥터였다.
+
+2013년 4월 17일, [방위사업청](https://ko.wikipedia.org/wiki/방위사업청 "wikilink")은 제66회 [방위사업추진위원회](https://ko.wikipedia.org/wiki/방위사업추진위원회 "wikilink")를 열고 상륙기동헬기 체계개발 협상대상 업체로 KAI를 선정했다. 총사업비는 약 8,000억원이다.
+
+2013년 7월 [KAI](https://ko.wikipedia.org/wiki/KAI "wikilink")는 상륙기동헬기 개발에 착수했으며, 2015년 1월 초도비행에 성공했다. 함정과 해상 환경의 시험비행을 거쳐 2016년 1월 개발을 완료했다.
+
+2018년 1월 10일, 마린온(MUH-1) 1호기와 2호기가 해병대에 인도되었다. 2023년까지 마린온 헬기 28대를 도입할 계획이다. [독도함](https://ko.wikipedia.org/wiki/독도함 "wikilink")에는 수송헬기와 공격헬기 15대를 탑재할 수 있다.\[1\] 한국은 [독도함](https://ko.wikipedia.org/wiki/독도함 "wikilink")과 [마라도함](https://ko.wikipedia.org/wiki/마라도함 "wikilink")을 보유중이다.
+
+2018년 7월 17일, 마린온 2호기가 추락해, 5명이 사망하고 1명이 부상을 입었다. 포항 [해병대 제1사단](https://ko.wikipedia.org/wiki/해병대_제1사단 "wikilink") 비행장 활주로에서 정비 후 시험비행 중이던 마린온 2호기가 지상 약 10m 상공에서 추락해 화재가 발생했다. 사망자는 조종사 김모 중령(45), 부조종사 노모 소령(36), 정비사 김모 중사(26), 승무원 김모 하사(21), 박모 상병(20세) 등 5명이며, 정비사 김모 상사(42)는 병원으로 이송되었지만 의식불명이다. 헬기는 전소되었으며, 화재를 진압하던 소방대원 1명도 부상을 입었다. 마린온 1·2호기는 훈련 비행과 최종 임무 수행능력 평가 등을 거쳐 해병대 1사단 항공대에 실전 배치될 예정이었다.
+
+## 특징
+
+육군형 [KAI 수리온은](https://ko.wikipedia.org/wiki/KAI_수리온 "wikilink") 메인로터가 접히지 않는데, 마린온은 [독도함](https://ko.wikipedia.org/wiki/독도함 "wikilink")의 격납고에 넣기 쉽게 메인로터가 접힌다.
+
+수리온이 마린온으로 개조되기 위해서는 해풍의 염분에 기체가 부식되는 것을 막는 기체 방염처리, 야간 및 악천후시 자동 방향·거리 지시장치([TACAN](https://ko.wikipedia.org/wiki/TACAN "wikilink")) 개발, 헬기가 바다에 추락해도 일정시간 물위에 뜨게 하는 비상부주장비 개발이라는 3개의 난제를 극복해야만 한다.
+
+## 기어박스
+
+수리온은 대한민국 대통령 전용헬기였던 [유로콥터 AS332](https://ko.wikipedia.org/wiki/유로콥터_AS332 "wikilink") 슈퍼퓨마를 국산화 한 것이다.
+
+프랑스제 베스트셀러 헬기인 9.1톤 슈퍼퓨마는 프랑스제 1,600 마력 [터보메카 마킬라](https://ko.wikipedia.org/wiki/터보메카_마킬라 "wikilink") 엔진 2기를 사용한다. 그러나, 한국은 [UH-60 블랙 호크](https://ko.wikipedia.org/wiki/UH-60_블랙_호크 "wikilink"), [AH-64 아파치](https://ko.wikipedia.org/wiki/AH-64_아파치 "wikilink"), [CN-235](https://ko.wikipedia.org/wiki/CN-235 "wikilink") 수송기 등에 사용중인 미제 [제너럴 일렉트릭 T700](../Page/제너럴_일렉트릭_T700.md "wikilink") 엔진을 사용한다. 그래서 정비의 편의성 등을 감안해 슈퍼퓨마에 미제 [제너럴 일렉트릭 T700](../Page/제너럴_일렉트릭_T700.md "wikilink") 엔진을 장착했다. 그래서 새로운 엔진에 맞는 기어박스를 새로 설계해야 했다. 기어박스의 설계상 문제로 동력상실이 생겨 8.7톤 수리온이 탄생했다.
+
+문제점은, 새로 설계한 기어박스라서, 안전성, 신뢰성을 오랜 기간동안 전세계 각국에서 검증받은 베스트셀러 슈퍼퓨마의 그 기어박스가 아니라는 점이다. 동력 손실율이 20%에 이르며, 진동문제가 심각하다는 전문가의 폭로가 보도되었다.\[2\]
+
+수리온 국산화율은 64%로 국내에서 수리할 수없는 엔진. 기어박스 등 핵심부품은 외국으로 다시 수리를 의뢰하게 돼 오히려 비용과 시간이 더 소요될 수 있다.
+
+## 사고기록
+
+  - 1997년 9월 8일, 노르웨이의 [유로콥터 AS332 L1](https://ko.wikipedia.org/wiki/유로콥터_AS332 "wikilink") 슈퍼퓨마 헬기가 추락해 12명 전원 사망. 심각한 메인 기어박스의 고장. 유로콥터는 [노르웨이 항공사고조사위원회](https://ko.wikipedia.org/wiki/노르웨이_항공사고조사위원회 "wikilink")(AIBN)의 권고들 중 일부만 수용했다. [:en:Helikopter Service Flight 451](https://ko.wikipedia.org/wiki/:en:Helikopter_Service_Flight_451 "wikilink") 참조
+  - 2009년 4월 1일, 스코틀랜드의 [유로콥터 AS332 L2](https://ko.wikipedia.org/wiki/유로콥터_AS332 "wikilink") 슈퍼퓨마 헬기가 추락해 16명 전원 사망. 비행 중 메인 로터가 동체에서 분리되었다. [영국 항공사고조사위원회](https://ko.wikipedia.org/wiki/영국_항공사고조사위원회 "wikilink")(AAIB)는 심각한 메인 기어박스의 고장 때문이라고 발표했다. [:en:Bond Offshore Helicopters Flight 85N](https://ko.wikipedia.org/wiki/:en:Bond_Offshore_Helicopters_Flight_85N "wikilink") 참조
+  - 2016년 4월 29일, 노르웨이의 [유로콥터 EC225](../Page/유로콥터_EC225.md "wikilink") 슈퍼퓨마 헬기가 추락해 13명 전원 사망. 2,000 ft(600 m) 상공을 비행 중 메인 로터가 동체에서 분리되었다.
+  - 2016년 5월, 수리온 엔진과 메인 회전로터 시스템을 연결하는 기어박스에 균열이 생겨 운항을 중단하고, 기어박스 교환
+  - 2016년 7월 7일, 노르웨이 슈퍼퓨마 조사결과, 엔진과 (날개 회전을 담당하는) 로터 시스템을 연결하는 주기어박스의 감속기어모듈 내부 '2단계 위성기어'가 불량으로 확인되었다. 수리온도 동일부품을 사용하기 때문에 운항정지 및 부품교체를 했다. 수리온 헬기 50여대 중 30여대가 동일부품을 사용중이었다.
+  - 2017년 5월 24일, 수리온 헬기 좌측 상부 프레임(뼈대)에서 실금 발견. 20여일 동안 전체 운항정지. 8대에서 추가로 실금 발견
+  - 2018년 7월 17일, 마린온 정비 후 시험비행을 하던 중 10 m 상공에서 추락, 전소되어 5명 사망. 비행 중 메인 로터가 동체에서 분리되었다.([포항 마린온 추락 사고](../Page/포항_마린온_추락_사고.md "wikilink"))\[<http://www.edaily.co.kr/news/news_detail.asp?newsId=03821206619276160&mediaCodeNo=257&OutLnkChk=Y>| 출처: 이데일리\]
+
+## 제원
+
+  - 일반 특성
+
+<!-- end list -->
+
+  - **조종사:** 2명
+  - **수용인원:** 9명
+  - **길이:** 19.0 m (62.3 ft)
+  - **로터직경:** 15.8 m (51.8 ft)
+  - **높이:** 4.5 m (14.8 ft)
+  - **공허중량:** 5,136 kg (11,324 lb)
+  - **연료량**: 1,159 kg (2,556 lb)
+  - **유효하중:** 3,572 kg (7,975 lb)
+  - **최대이륙중량:** 8,709 kg (19,200 lb)
+  - **엔진:** 2 × 한화테크윈 T700/701K (T700-GE-701C 개량형) [터보샤프트](https://ko.wikipedia.org/wiki/터보샤프트 "wikilink"), 1,915 shp 최대
+
+<!-- end list -->
+
+  - 성능
+
+<!-- end list -->
+
+  - **최대수평속도** : 279 km/h (151 kts)
+  - **최대항속거리속도:** 251 km/h (135Kts)
+  - **최대항속거리:** 775 km (419 마일) - 보조연료탱크 장착
+  - **운용고도(Service Ceiling):** 4,590 m (15,060 ft)
+
+<!-- end list -->
+
+  - 무장
+
+<!-- end list -->
+
+  - 2 x K-12 7.62mm 기관총
+
+<!-- end list -->
+
+  - 항전/생존 장비
+
+<!-- end list -->
+
+  - GARMIN G5000H Avionics Suite (수출형)
+  - GPS, INS, Radar, Digital Map, FLIR(EO/IR), TCAS II, HTAWS, ELT, AIS, HUMS, IRS, EWC, MWR, LWR, RWR, CMDS, OBIGGS 등
+
+## 더 보기
+
+  - [에어로스페시알 SA 330 퓨마](https://ko.wikipedia.org/wiki/에어로스페시알_SA_330_퓨마 "wikilink"), 최대이륙중량 7톤
+  - [유로콥터 AS332](https://ko.wikipedia.org/wiki/유로콥터_AS332 "wikilink") 슈퍼퓨마1, 최대이륙중량 9톤
+  - [KAI 수리온](https://ko.wikipedia.org/wiki/KAI_수리온 "wikilink"), 최대이륙중량 8.7톤, 슈퍼퓨마1의 국산화
+  - [유로콥터 EC225](../Page/유로콥터_EC225.md "wikilink") 슈퍼퓨마2, 최대이륙중량 11톤
+
+## 각주
+
+[분류:대한민국의 군용 헬리콥터](https://ko.wikipedia.org/wiki/분류:대한민국의_군용_헬리콥터 "wikilink")
+
+1.  독도함, 바다 아닌 저수지에서 헬기기동 훈련, 오마이뉴스, 2009-10-13
+2.  (단독)"수리온, 엔진·기어박스 억지 조립…ADD 엉터리 설계 탓", 뉴스토마토, 2017-07-18

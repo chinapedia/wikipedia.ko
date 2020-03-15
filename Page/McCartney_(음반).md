@@ -1,0 +1,75 @@
+> This article is converted from Wikipedia: [McCartney \(\)](https://ko.wikipedia.org/wiki/McCartney_\(\)).
+
+
+《**McCartney**》는 [폴 매카트니의](https://ko.wikipedia.org/wiki/폴_매카트니 "wikilink") 데뷔 음반이다. 《[Let It Be](https://ko.wikipedia.org/wiki/Let_It_Be "wikilink")》를 고려해 발매를 늦추려는 [비틀즈](https://ko.wikipedia.org/wiki/비틀즈 "wikilink") 멤버의 시도를 매카트니가 막은 후 1970년 4월 [애플 레코드에서](https://ko.wikipedia.org/wiki/애플_레코드 "wikilink") 발매되었다. 매카트니는 1969년 9월에 레논이 비틀즈를 떠난다는 소식을 사적으로 접하고는 비틀즈 멤버와 음반 발매를 둘러싼 다툼으로 《McCartney》를 우울증과 혼란의 시기에 녹음했다. 1970년 4월 10일 자기 회견 형식으로 성명을 낸 그는 영국에 홍보물을 배포해 비틀즈의 해체를 주도했다.
+
+아내 린다가 보컬에 참여한 것 외에는 모든 악기를 연주하는 등 매카트니 혼자서 음반 전체를 담당했다. 집에서 녹음돼 느슨한 편곡을 보여주는 《McCartney》는 《Let It Be》(당시에는 《Get Back》)의 초심으로 돌아가자는 초기 콘셉트를 도입했다. 비틀즈 경력에 종지부를 찍은 매카트니로서, 음반은 주요 음악 평론가에게 부정적인 반응을 받았지만, 〈Maybe I'm Amazed〉은 계속해서 찬사를 받았다. 상업적으로 《McCartney》는 비틀즈의 해체를 둘러싼 언론의 관심으로 이득을 얻었다. 3주동안 빌보드 200 차트에서 1위를 차지했고, 영국에서는 2위까지 올라갔다. 음반은 《Paul McCartney Archive Collection》로서 2011년 6월에 재발매되었다.
+
+## 배경
+
+[존 레논이](https://ko.wikipedia.org/wiki/존_레논 "wikilink") 1969년 9월 20일 자신이 비틀즈와 "결별"하고 싶다는 의사를 비틀즈에게 전한 뒤,\[1\] [폴 매카트니는](https://ko.wikipedia.org/wiki/폴_매카트니 "wikilink") [캠벨타운](https://ko.wikipedia.org/wiki/캠벨타운 "wikilink")에 위치한 자신의 농장에 돌아가 틀어박혔다.\[2\] 작가인 로버트 로드리게즈는 당시의 그의 마음 상태가 "상심했으며, 충격받았고, 그가 알던 유일한 직장을 잃어 의기소침했다."고 했다.\[3\] 일부 사업적 이유로 아직 공식적으로 성사되지 않았을 때,\[4\]\[5\] 매카트니는 가족과 함께 은둔의 시간을 가지고 있었는데, 미국에서 그가 죽었다는 소문이 광범위하게 퍼진다.\[6\] 3년간의 수명을 가지고 있던 [폴 매카트니 사망설이](https://ko.wikipedia.org/wiki/폴_매카트니_사망설 "wikilink") 그것이다.\[7\] 이 소문은 [BBC 라디오의](https://ko.wikipedia.org/wiki/BBC_라디오 "wikilink") 저널리스트와\[8\] 《라이프》지에서 그가 머무르던 하이드 파크의 농장을 방문하여 급속히 사라진다.\[9\]
+
+매카트니는 그해 5월 [앨런 클라인의](https://ko.wikipedia.org/wiki/앨런_클라인 "wikilink") 비즈니스 매니저 임명 문제로\[10\]\[11\] 다른 비틀즈 멤버들과 소원해짐과 동시에 스코틀랜드에서 몇달간 음악을 제작했다.\[12\] 그는 아내였던 린다의, 각각 아버지와 남자형제인 뉴욕의 변호사 [리 이스트먼과](https://ko.wikipedia.org/wiki/리_이스트먼 "wikilink") 존 이스트먼\[13\]을 매니저로 임명하려 했으나 비틀즈는 클라인을 임명하려 했다.\[14\] 레논이 밴드를 떠나겠다고 선언하자 매카트니는 심한 우울증에 시달렸다.\[15\] 매카트니는 자신의 견해로 보았을 때 이것이 신경 쇠약에 가까웠다고 설명했다.\[16\]\[17\]
+
+책 《Fab: An Intimate Life of Paul McCartney》(2010)에서 하워드 수네즈는 매카트니가 하이드 파크에서 망명을 떠나있을 때를 다음과 같이 적었다. "그건 린다에게 있어 암울한 소식이었다. 그녀는 돌보아야 하는 7살 아기가 있었고, 남편은 우울증에 빠져 술에 빠져 살았다. 그녀는 후에 친구에게, 폴 자신이 로큰롤의 희생자가 될 수도 있다고 생각하던 이 때가 자신의 삶에서 가장 힘들었던 때라고 말했다."\[18\] 린다의 격려에 힘입어 매카트니는 비틀즈를 벗어난, 첫 솔로 음반인 《McCartney》의 수록곡을 쓰고 완성하기 시작했다.\[19\]\[20\]
+
+## 녹음
+
+[섬네일에서](https://ko.wikipedia.org/wiki/파일:TEAC_2340.jpg "wikilink") [VU 미터를](https://ko.wikipedia.org/wiki/VU_미터 "wikilink") 달고 제작한 포 트랙 녹음기. 매카트니의 스튜더 머신과는 다른 기계다.|왼쪽\]\] 매카트니는 1969년 크리스마스 이전 가족과 런던으로 돌아왔으며,\[21\] 캐번디시 거리의 세인트 존스 우드에 위치한 자신의 집에서 음반 작업을 시작했다.\[22\] 녹음은 최근에 배송된, 믹싱 데스크가 딸린 스튜더 포 트랙 테이프 레코더로 이루어졌다.\[23\] 따라서 레코딩 레벨을 알아볼 VU 디스플레이 없이 진행했다.\[24\] 음반의 코멘터리에서 그는 자신이 한 홈레코딩의 진행 과정을 "스튜더, 마이크 하나와 너브 하나"라고 표현했다.\[25\]\[26\]
+
+## 음반 커버
+
+음반의 접이식 커버의 디자인 콘셉트는 고든 하우스, 디자이너 로저 휴겟이 매카트니가 제시한 "폴의 콘셉트를 삶에 가져오자"는 안을 채택한 것이다.\[27\] 음반 전체에 걸쳐 있는 콜라주를 비롯한 사진은 린다 매카트니가 찍은 것이다.\[28\] 이 접이식 커버는 매카트니가 린다의 사진을 차용한 첫 음반이다.\[29\]
+
+## 평가
+
+《McCartney》는 출시되자 불충분한 제작과 미완성 곡으로 인해 전 세계적으로 혹평을 들었다.\[30\]\[31\] 덧붙여서 니콜라스 샤프너의 1977년 저서 《비틀즈 포에버》(*The Beatles Forever*)에 의하면, 매카트니는 자신을 행복한 가정의 남자로 대표하면서 비틀즈의 해체를 자신의 솔로 음반 홍보에 사용하려고 했고, 이는 "많은 목격자들에 의해 음반 전부가 감각이 없고, 지독하게 고안됨이 들통나면서"부터 "분명한 역효과"를 낳았다.\[32\] 매딩거와 이스터는 음반이 "엄청난 혹평"을 받았으며, 평론가 사이에서의 이러한 "공통된 진술"은 "'비틀즈를 고작 이거 때문에 해체시켰다고\!?'와 유사하다"고 썼다.\[33\] 《[멜로디 메이커](https://ko.wikipedia.org/wiki/멜로디_메이커 "wikilink")》지의 [리처드 윌리엄스는](https://ko.wikipedia.org/wiki/리처드_윌리엄스 "wikilink")\[34\] "음반의 분명한 사운드는 조지 마틴의 공"이라고 분석했다.\[35\] 윌리엄스는 〈Maybe I'm Amazed〉에는 "순전히 따분함"이 있을 뿐이라고 지적했으며,\[36\] 〈Man We Was Lonely〉에 대해서는 "그의 보드빌 면에서의 최악의 예시"라고 표현했다.\[37\]
+
+## 곡 목록
+
+## 참여 인원
+
+  - [폴 매카트니](https://ko.wikipedia.org/wiki/폴_매카트니 "wikilink") – 리드 보컬, 통기타, 전자 기타, 베이스 기타, 드럼, 피아노, 오르간, 타악기, 멜로트론, 장난감 실로폰, 이펙트, 백 보컬
+  - [린다 매카트니](https://ko.wikipedia.org/wiki/린다_매카트니 "wikilink") – 하모니, 백 보컬
+
+## 각주
+
+[분류:애플 레코드 음반](https://ko.wikipedia.org/wiki/분류:애플_레코드_음반 "wikilink") [분류:컬럼비아 레코드 음반](https://ko.wikipedia.org/wiki/분류:컬럼비아_레코드_음반 "wikilink") [분류:폴 매카트니의 음반](https://ko.wikipedia.org/wiki/분류:폴_매카트니의_음반 "wikilink") [분류:1970년 데뷔 음반](https://ko.wikipedia.org/wiki/분류:1970년_데뷔_음반 "wikilink") [분류:폴 매카트니가 프로듀싱한 음반](https://ko.wikipedia.org/wiki/분류:폴_매카트니가_프로듀싱한_음반 "wikilink")
+
+1.  Doggett, pp. 101–03.
+2.  Spizer, p. 116.
+3.
+4.
+5.  Woffinden, p. 27.
+6.  Sounes, p. 262.
+7.  Schaffner, pp. 127–28.
+8.  Miles 2001, pp. 357, 358.
+9.  Sounes, pp. 262–63.
+10. Doggett, pp. 85–86, 101, 111.
+11. *The New Rolling Stone Encyclopedia of Rock & Roll*, p. 61.
+12. Clayson, p. 205.
+13. Sounes, pp. 250, 251–52, 253.
+14. Doggett, pp. 70, 132.
+15.
+16. Miles 1998, p. 570.
+17. Sounes, pp. 263, 264.
+18.
+19. Rodriguez, p. 1.
+20. Sounes, p. 264.
+21.
+22. Madinger & Easter, p. 154.
+23. Miles 1998, p. 571.
+24. [Press release (9 April 1970)](http://www.dmbeatles.com/interviews.php?interview=72), accompanying UK promotional copies of *McCartney* (Apple PCS 7102). [Apple Records](https://ko.wikipedia.org/wiki/Apple_Records "wikilink").
+25.
+26.
+27. Spizer, p. 118.
+28. Spizer, pp. 118, 120.
+29.
+30. Rodriguez, pp. 151, 178.
+31. Carlin, p. 205.
+32. Schaffner, pp. 135, 136.
+33. Madinger & Easter, pp. 151, 154.
+34. Badman, p. 5.
+35. Sounes, p. 271.
+36. Sounes, pp. 271−72.
+37.

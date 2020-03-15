@@ -1,0 +1,4 @@
+> This article is converted from Wikipedia: [:NHLE](https://ko.wikipedia.org/wiki/:NHLE).
+
+
+<includeonly>{{\#if:|\[<https://HistoricEngland.org.uk/listing/the-list/list-entry/> \]|}|Historic England}} }} |date= |year= |orig-year= }}} |mode= |postscript= }}} |title={{\#if:| {{\#if:| (Grade )}}|Details from listed building database}} () |url=<https://HistoricEngland.org.uk/listing/the-list/list-entry/> |work={{\#if:|National Heritage List for England (NHLE)|[National Heritage List for England](https://ko.wikipedia.org/wiki/National_Heritage_List_for_England "wikilink") (NHLE)}} |access-date= }}} |ref=| }} }}} }}}}{{\#if:||}}{{\#if:||}}</includeonly><noinclude>  </noinclude>

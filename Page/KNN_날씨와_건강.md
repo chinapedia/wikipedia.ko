@@ -1,0 +1,41 @@
+> This article is converted from Wikipedia: [KNN  ](https://ko.wikipedia.org/wiki/KNN__).
+
+
+《**KNN 날씨와 건강**》은 대한민국 [KNN](https://ko.wikipedia.org/wiki/KNN "wikilink") 부산경남방송에서 평일 저녁 6시에 방송되는 [KNN](https://ko.wikipedia.org/wiki/KNN "wikilink") 부산경남방송의 날씨정보 프로그램이다.
+
+## 기획 의도 / 개요
+
+  - 2019년 1월 2일부터 [KNN](https://ko.wikipedia.org/wiki/KNN "wikilink")의 2019년 새해 개편으로 평일 저녁 6시에 신설되어 10분간 방송되었으며, 2019년 4월 15일부터 평일 오후 5시 55분으로 변경되었다가 2019년 5월 13일부터 평일 저녁 6시로 환원되었다.
+
+## 방송 시간
+
+| 방송 채널                                                                                                                                                                                                                                  | 방송 기간                                                                                                                                                                                                                                | 방송 시간                    |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------ |
+| [KNN](https://ko.wikipedia.org/wiki/KNN "wikilink")                                                                                                                                                                                    | [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [1월 2일](https://ko.wikipedia.org/wiki/1월_2일 "wikilink") \~ [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [4월 12일](https://ko.wikipedia.org/wiki/4월_12일 "wikilink") | 평일 저녁 6시 \~ 6시 10분 (10분) |
+| [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [5월 13일](https://ko.wikipedia.org/wiki/5월_13일 "wikilink") \~ **현재**                                                                                                            |                                                                                                                                                                                                                                      |                          |
+| [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [4월 15일](https://ko.wikipedia.org/wiki/4월_15일 "wikilink") \~ [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [5월 10일](https://ko.wikipedia.org/wiki/5월_10일 "wikilink") | 평일 오후 5시 55분 \~ 저녁 6시 5분 (10분)                                                                                                                                                                                                       |                          |
+
+## 진행자
+
+  - 이해리 아나운서 (여)
+
+## 타이틀 변천사
+
+현재 타이틀은 [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [1월 2일을](https://ko.wikipedia.org/wiki/1월_2일 "wikilink") 기준으로 한다.
+
+| 역대 | 타이틀        | 방송 기간                                                                                                                     |
+| -- | ---------- | ------------------------------------------------------------------------------------------------------------------------- |
+| 1대 | KNN 날씨와 건강 | [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [1월 2일](https://ko.wikipedia.org/wiki/1월_2일 "wikilink") \~ **현재** |
+
+## 같이 보기
+
+  - [생방송 투데이](https://ko.wikipedia.org/wiki/생방송_투데이 "wikilink")
+  - [KNN 생방송 투데이](../Page/KNN_생방송_투데이.md "wikilink")
+
+## 각주
+
+## 외부 링크
+
+  - [KNN 날씨와 건강 공식 홈페이지](http://www.knn.co.kr/category/news/weather-health#)
+
+[분류:KNN의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:KNN의_텔레비전_프로그램 "wikilink")

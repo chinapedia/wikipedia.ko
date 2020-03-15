@@ -1,0 +1,38 @@
+> This article is converted from Wikipedia: [ \(SBS FM\)](https://ko.wikipedia.org/wiki/_\(SBS_FM\)).
+
+
+《**고현준의 뉴스브리핑**》은 [SBS 러브FM에서](https://ko.wikipedia.org/wiki/SBS_러브FM "wikilink") 평일 아침 6시 5분부터 아침 7시까지 방송되는 [SBS 러브FM의](https://ko.wikipedia.org/wiki/SBS_러브FM "wikilink") 시사 프로그램이다.
+
+## 기획 의도 / 개요
+
+  - 당일의 시사 현안과 새벽에 발행된 조간신문의 단독 기사를 요약해 전달하는 프로그램이다. 현장 육성을 가미해 입체성을 높이는 것이 특징이다.
+  - 이 방송은 [KNN 러브FM을](../Page/KNN_러브FM.md "wikilink") 통해서도 부산, 경남 지역에도 송출되고 있고, 유튜브 라이브, 팟캐스트 "[고현준의 뉴스브리핑](http://www.podbbang.com/ch/15792)"이라는 같은 제목으로 다시 들을 수 있다.
+  - 원래는 [시사전망대](https://ko.wikipedia.org/wiki/시사전망대 "wikilink")의 코너였으나, 반응이 좋아 [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [9월 1일부터](https://ko.wikipedia.org/wiki/9월_1일 "wikilink") 라디오 가을 개편으로 [시사전망대](https://ko.wikipedia.org/wiki/시사전망대 "wikilink")와 분리되어 평일 아침 6시 20분에 신설되어 40분간 방송되었으며, [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [9월 10일부터](https://ko.wikipedia.org/wiki/9월_10일 "wikilink") 평일 아침 6시 5분으로 변경되어 55분으로 연장되었다.
+
+## 구성
+
+  - 데일리코너(매일)는 **\[뉴스前\]**과 **\[뉴스브리핑\]**으로 구성된다. 요일별코너는 \[스포츠브리핑\], \[그럴법도하지\], \[고고뉴스\], \[지구촌TMI\], \[박스오피스브리핑\]으로 구성된다.
+  - **\[뉴스前\]**은 본격적인 뉴스브리핑 전에, 조간신문 헤드라인과 밤사이 인터넷에서 화제였던 뉴스토픽을 전달한다. 패널로는 '빅커뮤니케이션'의 전민기 팀장(전 tbs아나운서)이 고정출연한다.
+  - **\[뉴스브리핑\]**은 프로그램의 핵심이 되는 코너다. 정치/사회/경제 등을 총망라하여 굵직한 뉴스를 브리핑한다. 패널로는 '진실탐사그룹 셜록'의 이명선 기자(전 채널A 기자), '경향신문'의 박순봉 기자와 '중앙일보'의 윤성민 기자가 나눠 출연한다.
+  - 월요일코너 **\[스포츠브리핑\]**는 한주간 스포츠 뉴스를 소개하며 패널로는 중앙일보 스포츠부 박소영기자가 출연한다.
+  - 화요일코너 \[**그럴법도하지\]**는 화제가 되는 사건을 법적으로 해석해주거나 흥미로운 판례를 소개하며, 패널로는 신민영 변호사가 출연한다.
+  - 수요일코너 **\[고고뉴스\]**는 고르고 고른 뉴스의 준말로, 메인 뉴스와 인터넷 검색어 사이의 숨겨진 뉴스를 소개하며 패널로는 서울신문 손지은 기자가 출연한다.
+  - 목요일코너 **\[지구촌TMI\]**는 해외의 주요소식을 소개하며, 패널로는 썬킴 사이버한국외대 교수가 출연한다.
+  - 금요일코너 **\[박스오피스브리핑\]**은 금주의 박스오피스 랭킹을 브리핑하고 신작영화를 소개하며, 패널로는 윤성은 영화평론가가 출연한다.
+
+## 역대 진행자
+
+  - 1대 : [김용민](https://ko.wikipedia.org/wiki/김용민_\(1974년\) "wikilink") 시사평론가 ([2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [9월 1일](https://ko.wikipedia.org/wiki/9월_1일 "wikilink") \~ [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [3월 2일](https://ko.wikipedia.org/wiki/3월_2일 "wikilink"))
+  - 2대 : [고현준](https://ko.wikipedia.org/wiki/고현준 "wikilink") 시사평론가 ([2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [3월 5일](https://ko.wikipedia.org/wiki/3월_5일 "wikilink") \~ **현재**)
+
+## 외부 링크
+
+  - [공식 홈페이지](http://programs.sbs.co.kr/radio/newsbriefing)
+
+## 같이 보기
+
+  - [오늘아침 1라디오](https://ko.wikipedia.org/wiki/오늘아침_1라디오 "wikilink")
+  - [아침 & 뉴스 류수민입니다](https://ko.wikipedia.org/wiki/아침_&_뉴스 "wikilink")
+  - [굿모닝뉴스 이강민입니다](https://ko.wikipedia.org/wiki/굿모닝뉴스_이강민입니다 "wikilink")
+
+[분류:SBS 러브FM의 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:SBS_러브FM의_라디오_프로그램 "wikilink")

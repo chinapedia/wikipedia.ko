@@ -1,0 +1,22 @@
+> This article is converted from Wikipedia: [ B. ](https://ko.wikipedia.org/wiki/_B._).
+
+
+**제임스 배첼러 섬너**(, [1887년](https://ko.wikipedia.org/wiki/1887년 "wikilink") [11월 19일](https://ko.wikipedia.org/wiki/11월_19일 "wikilink") \~ [1955년](https://ko.wikipedia.org/wiki/1955년 "wikilink") [8월 12일](https://ko.wikipedia.org/wiki/8월_12일 "wikilink"))는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [화학](https://ko.wikipedia.org/wiki/화학 "wikilink")자이다. 1946년에 [효소](https://ko.wikipedia.org/wiki/효소 "wikilink")의 결정화를 발견한 공로로 [존 하워드 노스럽](../Page/존_하워드_노스럽.md "wikilink"), [웬들 메러디스 스탠리와](https://ko.wikipedia.org/wiki/웬들_메러디스_스탠리 "wikilink") 함께 [노벨 화학상을](https://ko.wikipedia.org/wiki/노벨_화학상 "wikilink") 수상했다.
+
+## 수상 경력
+
+  - 1946년 : 노벨 화학상
+
+## 참고 문헌
+
+  -
+  -
+## 각주
+
+<references/>
+
+## 외부 링크
+
+  - [The Nobel Prize in Chemistry 1946 - James B. Sumner](http://www.nobelprize.org/nobel_prizes/chemistry/laureates/1946/sumner-bio.html) - 노벨 재단
+
+[분류:1887년 태어남](https://ko.wikipedia.org/wiki/분류:1887년_태어남 "wikilink") [분류:1955년 죽음](https://ko.wikipedia.org/wiki/분류:1955년_죽음 "wikilink") [분류:미국의 생화학자](https://ko.wikipedia.org/wiki/분류:미국의_생화학자 "wikilink") [분류:미국의 노벨상 수상자](https://ko.wikipedia.org/wiki/분류:미국의_노벨상_수상자 "wikilink") [분류:노벨 화학상 수상자](https://ko.wikipedia.org/wiki/분류:노벨_화학상_수상자 "wikilink") [분류:하버드 대학교 동문](https://ko.wikipedia.org/wiki/분류:하버드_대학교_동문 "wikilink") [분류:코넬 대학교 교수](https://ko.wikipedia.org/wiki/분류:코넬_대학교_교수 "wikilink") [분류:미국 예술과학 아카데미 석학회원](https://ko.wikipedia.org/wiki/분류:미국_예술과학_아카데미_석학회원 "wikilink") [분류:미국 과학 아카데미의 회원](https://ko.wikipedia.org/wiki/분류:미국_과학_아카데미의_회원 "wikilink") [분류:매사추세츠주 출신](https://ko.wikipedia.org/wiki/분류:매사추세츠주_출신 "wikilink")

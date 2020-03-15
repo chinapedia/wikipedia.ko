@@ -1,0 +1,26 @@
+> This article is converted from Wikipedia: [ 6mm ](https://ko.wikipedia.org/wiki/_6mm_).
+
+
+《**출동 6mm 현장속으로**》는 매주 [토요일](https://ko.wikipedia.org/wiki/토요일 "wikilink") 오전에 [MBC TV에서](https://ko.wikipedia.org/wiki/문화방송 "wikilink") 방송되는 시사교양 정보 프로그램이다.
+
+## 프로그램 소개
+
+  - 6mm 카메라를 통해 보는 우리들의 생생한 이야기 들 신속하고 생생한 취재로 세상 속에 숨겨진 이야기를 찾아 소개하는 다큐멘터리 상식 이면의 세계, 주류 카메라의 포커스에서는 조금 벗어나 있는 현장, 아웃사이더들의 삶 이러한 것들이 이 프로그램의 소재이며 현장의 분위기와 거기에 속한 사람들의 목소리를 최대한 생생하게 전달해드릴 것입니다
+
+## 방송 시간
+
+| 방송 채널                                                                                                                                                                                                                                    | 방송 기간                                                                                                                                                                                                                                | 방송 시간                                                                        | 방송 분량 |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- | ----- |
+| [MBC TV](https://ko.wikipedia.org/wiki/MBC_TV "wikilink")                                                                                                                                                                                | [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [9월 1일](https://ko.wikipedia.org/wiki/9월_1일 "wikilink") \~ [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [11월 3일](https://ko.wikipedia.org/wiki/11월_3일 "wikilink") | 매주 [토요일](https://ko.wikipedia.org/wiki/토요일 "wikilink") 오전 10시 35분 \~ 11시 15분 | 40분   |
+| [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [11월 10일](https://ko.wikipedia.org/wiki/11월_10일 "wikilink") \~ [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [3월 30일](https://ko.wikipedia.org/wiki/3월_30일 "wikilink") | 매주 [토요일](https://ko.wikipedia.org/wiki/토요일 "wikilink") 오전 10시 25분 \~ 11시 15분                                                                                                                                                         | 50분                                                                          |       |
+| [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [4월 6일](https://ko.wikipedia.org/wiki/4월_6일 "wikilink") \~ [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [10월 19일](https://ko.wikipedia.org/wiki/10월_19일 "wikilink")   | 매주 [토요일](https://ko.wikipedia.org/wiki/토요일 "wikilink") 오전 8시 \~ 9시                                                                                                                                                                   | 1시간                                                                          |       |
+
+## 진행자
+
+  - [정혜정](https://ko.wikipedia.org/wiki/정혜정 "wikilink") 前 MBC 아나운서
+
+## 외부 링크
+
+  - [출동 6mm 현장속으로 홈페이지](http://www.imbc.com/tv/culture/6mm/index.html)
+
+[분류:문화방송의 시사교양 프로그램](https://ko.wikipedia.org/wiki/분류:문화방송의_시사교양_프로그램 "wikilink") [분류:2000년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2000년대_대한민국의_텔레비전_프로그램 "wikilink")

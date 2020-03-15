@@ -1,0 +1,160 @@
+> This article is converted from Wikipedia: [:  X ](https://ko.wikipedia.org/wiki/:__X_).
+
+
+《**신비아파트: 고스트볼 X의 탄생**》은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink"). [투니버스](https://ko.wikipedia.org/wiki/투니버스 "wikilink")가 제작해 [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [11월 9일부터](https://ko.wikipedia.org/wiki/11월_9일 "wikilink") [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [3월 15일까지](https://ko.wikipedia.org/wiki/3월_15일 "wikilink") 매주 목요일 밤 저녁 8시에 방영했으며, 같은 해 [11월 8일부터](https://ko.wikipedia.org/wiki/11월_8일 "wikilink") [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [1월 24일까지](https://ko.wikipedia.org/wiki/1월_24일 "wikilink") 매주 목요일 밤 저녁 8시에 방영했다.
+
+## 개요
+
+지하국대적을 물리친 이후 평화를 되찾은 신비아파트. 하지만 흑마법사의 저주로 다시 귀신들이 나타나기 시작하는데... 알 수 없는 힘에 괴로워하는 강림과 새로운 퇴마사 리온까지…\!\! **이제 진짜 귀신은 지금부터다\!**
+
+## 등장인물
+
+### 주역
+
+  - **[신비](https://ko.wikipedia.org/wiki/신비_\(신비아파트\) "wikilink")** (성우: [조현정](https://ko.wikipedia.org/wiki/조현정_\(성우\) "wikilink"))
+  - **[금비](https://ko.wikipedia.org/wiki/금비 "wikilink")** (성우: [양정화](../Page/양정화_\(성우\).md "wikilink"))
+  - **[구하리](https://ko.wikipedia.org/wiki/구하리_\(신비아파트\) "wikilink")** (성우:[김영은](https://ko.wikipedia.org/wiki/김영은_\(성우\) "wikilink"))
+  - **[구두리](https://ko.wikipedia.org/wiki/구두리 "wikilink")** (성우: [김채하](https://ko.wikipedia.org/wiki/김채하 "wikilink"))
+
+### 하리의 친구들
+
+  - **[김현우](https://ko.wikipedia.org/wiki/김현우_\(신비아파트\) "wikilink")** (성우: [심규혁](https://ko.wikipedia.org/wiki/심규혁 "wikilink"))
+  - **[이가은](https://ko.wikipedia.org/wiki/이가은_\(신비아파트\) "wikilink")** (성우: [여민정](https://ko.wikipedia.org/wiki/여민정_\(성우\) "wikilink"))
+  - **[최강림](https://ko.wikipedia.org/wiki/최강림 "wikilink")** (성우: [신용우](https://ko.wikipedia.org/wiki/신용우_\(성우\) "wikilink"))
+  - **[리온](https://ko.wikipedia.org/wiki/리온_\(신비아파트\) "wikilink")** (성우: [김명준](https://ko.wikipedia.org/wiki/김명준_\(성우\) "wikilink"))
+  - **[희원](https://ko.wikipedia.org/wiki/희원_\(신비아파트\) "wikilink")** (성우: [김하루](../Page/김하루.md "wikilink"))
+  - **[이안](https://ko.wikipedia.org/wiki/이안_\(신비아파트\) "wikilink")** (성우: [최승훈](https://ko.wikipedia.org/wiki/최승훈 "wikilink"))
+
+### 그 밖
+
+  - 구인남(하리와 두리 아빠) (성우: [최재호](https://ko.wikipedia.org/wiki/최재호_\(성우\) "wikilink"))
+  - 유지미(하리와 두리 엄마) (성우: [이소은](https://ko.wikipedia.org/wiki/이소은_\(성우\) "wikilink"))
+  - 강림이 엄마 (성우: [박선영](https://ko.wikipedia.org/wiki/박선영_\(성우\) "wikilink"))
+  - 대장 퇴마사 (성우: [권혁수](https://ko.wikipedia.org/wiki/권혁수_\(성우\) "wikilink"))
+
+<!-- end list -->
+
+  -
+    리온이 소속된 아이기스의 대장.
+
+<!-- end list -->
+
+  - 옛날 도깨비 (성우: [정유정](../Page/정유정_\(성우\).md "wikilink"))
+
+<!-- end list -->
+
+  -
+    도한에게 고스트볼X를 준 존재.
+
+### 단역
+
+  - [이종혁](https://ko.wikipedia.org/wiki/이종혁_\(성우\) "wikilink"): 원장(4화)
+  - [이자명](https://ko.wikipedia.org/wiki/이자명 "wikilink"): 새 엄마(4화)
+  - [김보영](https://ko.wikipedia.org/wiki/김보영_\(성우\) "wikilink"): 엄마 친구(가은)
+  - [정혜원](https://ko.wikipedia.org/wiki/정혜원 "wikilink"): 유하
+  - [박리나](https://ko.wikipedia.org/wiki/박리나 "wikilink"): 인애(두 번째 이야기 6화)
+  - [김지율](../Page/김지율_\(성우\).md "wikilink"): 동찬
+  - [한신](https://ko.wikipedia.org/wiki/한신_\(성우\) "wikilink"): 태훈(두 번째 이야기 4화)
+  - [사문영](../Page/사문영.md "wikilink"): 연지 엄마(두 번째 이야기 8화)
+  - [김영찬](https://ko.wikipedia.org/wiki/김영찬_\(성우\) "wikilink"): 연지 아빠(두 번쨰 이야기 8화)
+  - 그 밖: [유영](https://ko.wikipedia.org/wiki/유영_\(성우\) "wikilink"), [김다올](https://ko.wikipedia.org/wiki/김다올 "wikilink"), [홍승효](https://ko.wikipedia.org/wiki/홍승효 "wikilink"), 강성우, 박시윤, 강새봄, 이상호, 김도희
+
+## 등장 귀신
+
+### 고스트볼 X
+
+#### 선귀
+
+  - 혈안귀(성우: [김신우](https://ko.wikipedia.org/wiki/김현구_\(성우\) "wikilink"))
+  - 살음귀(성우: [사문영](../Page/사문영.md "wikilink"))
+  - 벨라(성우: [김가령](../Page/김가령.md "wikilink"))
+  - 백의귀(성우: [이수진](https://ko.wikipedia.org/wiki/이수진_\(성우\) "wikilink"))
+  - 시두스(성우: [정유정](../Page/정유정_\(성우\).md "wikilink"))
+  - 손각시(성우: [정유정](../Page/정유정_\(성우\).md "wikilink"))
+
+#### 악귀
+
+  - 인큐버스(성우: [박영화](https://ko.wikipedia.org/wiki/박영화_\(성우\) "wikilink"))
+  - 만티코어(성우: [김지율](../Page/김지율_\(성우\).md "wikilink"))
+  - 슬랜더맨(성우: [김신우](https://ko.wikipedia.org/wiki/김현구_\(성우\) "wikilink"))
+  - 바알제붑(성우: [김지율](../Page/김지율_\(성우\).md "wikilink"))
+  - 네비로스(성우: [김지율](../Page/김지율_\(성우\).md "wikilink"))
+
+### 두 번째 이야기
+
+#### 선귀
+
+  - 양괭이(성우: [조민수](../Page/조민수_\(성우\).md "wikilink"))
+  - 금돼지(성우: [김정훈](https://ko.wikipedia.org/wiki/김정훈_\(성우\) "wikilink"))
+  - 입질쟁이(성우: [유영](https://ko.wikipedia.org/wiki/유영_\(성우\) "wikilink"), [김다올](https://ko.wikipedia.org/wiki/김다올 "wikilink"), [홍승효](https://ko.wikipedia.org/wiki/홍승효 "wikilink"), 강성우, 강새봄, 이상호, 김도희, 박시윤)
+  - 취생(성우: [이선주](https://ko.wikipedia.org/wiki/이선주 "wikilink"))
+
+#### 두억시니의 부하들
+
+  - 인형술사(성우: [김기흥](https://ko.wikipedia.org/wiki/김기흥_\(성우\) "wikilink"))
+  - 각귀(성우: 강성우)
+  - 우사첩(성우: 이상호)
+  - 지네귀신(성우: [홍승효](https://ko.wikipedia.org/wiki/홍승효 "wikilink"))
+  - 당목귀(성우: [현경수](https://ko.wikipedia.org/wiki/현경수 "wikilink"))
+  - 청목형형(성우: [양정화](../Page/양정화_\(성우\).md "wikilink"))
+
+### 그 밖
+
+  - 도한(성우: [송준석](https://ko.wikipedia.org/wiki/송준석_\(성우\) "wikilink"))
+  - 두억시니(성우: [유해무](https://ko.wikipedia.org/wiki/유해무 "wikilink"))
+  - 진명(성우: [민응식](https://ko.wikipedia.org/wiki/민응식 "wikilink"))
+
+## 아이기스 및 기타 아이템
+
+  - 고스트볼X
+
+전작보다 더 업그레이드된 고스트볼.
+
+  - 세피르 카드
+
+리온이 귀신과 맞서 싸울 때 사용한 카드.
+
+  - 아이기스
+
+오랜 옛날부터 여러 악한 귀신들을 퇴치해 온 비밀 퇴마 집단.
+
+  - 고스트 퇴마검
+
+고스트볼X에 새로 나오는 강림의 새 무기.
+
+## 방영 목록
+
+| 회차       | 제목                       | 방송 날짜         |
+| -------- | ------------------------ | ------------- |
+| 1회       | 신비아파트 새로운 위기\! 문틈 속의 시선  | 2017년 11월 9일  |
+| 2회       | 내 노래를 들어줘, 저주의 목소리       | 2017년 11월 16일 |
+| 3회       | 지키지 못한 약속, 살아있는 인형의 습격   | 2017년 11월 23일 |
+| 4회       | 저주에 걸린 병원, 붉은 눈물의 간호사    | 2017년 11월 30일 |
+| 5회       | 악몽으로의 초대, 꿈속의 방문자        | 2018년 1월 4일   |
+| 6회       | 전설 속의 적, 고대 괴수의 그림자      | 2018년 1월 11일  |
+| 7회       | 널 찾아갈게, 공포의 게임방송         | 2018년 1월 18일  |
+| 8회       | 사진 속에 갇힌 영혼, 슬렌더맨의 전설    | 2018년 1월 25일  |
+| 9회       | 탐욕의 카니발, 르네 아파트          | 2018년 2월 1일   |
+| 10회      | 저주 내린 밤, 공포의 수련회         | 2018년 2월 8일   |
+| 11회      | 금지된 초대장, 광기의 피에로         | 2018년 3월 1일   |
+| 12회      | 가면 속의 악마, 위기의 고스트볼 (상)   | 2018년 3월 8일   |
+| 13회      | 가면 속의 악마, 위기의 고스트볼 (하)   | 2018년 3월 15일  |
+| 1회(14회)  | 귀신 신발과 사라진 아이들           | 2018년 11월 8일  |
+| 2회(15회)  | 멈출 수 없는 유혹, 분노의 포식자      | 2018년 11월 15일 |
+| 3회(16회)  | 피할 수 없는 공포, 영혼 없는 추격자    | 2018년 11월 22일 |
+| 4회(17회)  | 퍼져나가는 검은 소리, 금지된 속삭임     | 2018년 11월 29일 |
+| 5회(18회)  | 다시 깨어난 핏빛 공포, 검은 밤의 유혹   | 2018년 12월 6일  |
+| 6회(19회)  | 뿌리칠 수 없는 공포, 잿빛 악마의 향기   | 2018년 12월 13일 |
+| 7회(20회)  | 영혼을 찾는 아홉 개의 꼬리, 천년의 기다림 | 2019년 1월 3일   |
+| 8회(21회)  | 위험한 초대, 목조 저택의 비밀        | 2019년 1월 10일  |
+| 9회(22회)  | 재앙의 시작, 꺼지지 않는 불꽃        | 2019년 1월 17일  |
+| 10회(23회) | 심판의 날, 도깨비 동굴의 진실        | 2019년 1월 24일  |
+
+## 관련 서적
+
+  - 서울문화사에서 필름북으로 전 23화 총 6권으로 출간했다.
+  - 은하수미디어에서 스토리북으로 전 23화 총 5권으로 출간했다.
+
+## 각주
+
+[고스트볼 X의 탄생](https://ko.wikipedia.org/wiki/분류:신비아파트 "wikilink") [분류:2010년대 대한민국의 텔레비전 애니메이션](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_애니메이션 "wikilink") [분류:2017년 애니메이션](https://ko.wikipedia.org/wiki/분류:2017년_애니메이션 "wikilink") [분류:2018년 애니메이션](https://ko.wikipedia.org/wiki/분류:2018년_애니메이션 "wikilink") [분류:2019년 애니메이션](https://ko.wikipedia.org/wiki/분류:2019년_애니메이션 "wikilink") [분류:판타지 애니메이션](https://ko.wikipedia.org/wiki/분류:판타지_애니메이션 "wikilink") [분류:공포 애니메이션](https://ko.wikipedia.org/wiki/분류:공포_애니메이션 "wikilink") [분류:아파트를 배경으로 한 애니메이션](https://ko.wikipedia.org/wiki/분류:아파트를_배경으로_한_애니메이션 "wikilink") [분류:초등학교를 배경으로 한 애니메이션](https://ko.wikipedia.org/wiki/분류:초등학교를_배경으로_한_애니메이션 "wikilink") [분류:투니버스의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:투니버스의_텔레비전_프로그램 "wikilink") [분류:매일방송의 텔레비전 애니메이션](https://ko.wikipedia.org/wiki/분류:매일방송의_텔레비전_애니메이션 "wikilink")

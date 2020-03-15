@@ -1,0 +1,36 @@
+> This article is converted from Wikipedia: [USS  \(CV-45\)](https://ko.wikipedia.org/wiki/USS__\(CV-45\)).
+
+
+**USS 밸리 포지 (CV-45)**는 미국의 [에식스급 항공모함이다](https://ko.wikipedia.org/wiki/에식스급_항공모함 "wikilink"). 에식스급은 24척이 건조되었는데, 밸리 포지는 22번째로 건조되었다.
+
+## 역사
+
+## 한국전쟁
+
+### 1차 파병
+
+밸리포지함은 한국전쟁에 참전한 최초의 미국 항공모함이다.
+
+1950년 5월 1일 미국 서해안에서 출항한 밸리포지함은 극동지방에 배치되었다. 6월 25일 한국전쟁 발발 당시 홍콩에 정박중이었다. 6월 26일 홍콩에서 출항하여 필리핀 수빅만 미국 해군 기지에 도착해 전시물자를 공급받고 한국을 향했다. 6월 28일 밸리포지함은 미국 해군 [제7함대 (미국)의](https://ko.wikipedia.org/wiki/제7함대_\(미국\) "wikilink") 기함이 되었다. 순양함 로체스터와 구축함 6척과 함께 [태스크 포스 77 (미국 해군)을](https://ko.wikipedia.org/wiki/태스크_포스_77_\(미국_해군\) "wikilink") 구성했다.
+
+6월 30일, [태스크 포스 77 (미국 해군)은](https://ko.wikipedia.org/wiki/태스크_포스_77_\(미국_해군\) "wikilink") 영국 [앤드류스](https://ko.wikipedia.org/wiki/앤드류스 "wikilink") 해군 중장이 이끄는 [HMS 트라이엄프 (R16)](https://ko.wikipedia.org/wiki/HMS_트라이엄프_\(R16\) "wikilink") 항공모함, 자메이카 순양함, 2척의 구축함과 랑데뷰했다.
+
+7월 3일 밸리포지함에서 최초의 공습 출격을 했다. [더글러스 A-1 스카이레이더와](../Page/더글러스_A-1_스카이레이더.md "wikilink") [F4U 콜세어](https://ko.wikipedia.org/wiki/F4U_콜세어 "wikilink") 전투기가 북한 평양 비행장의 탄약고, 연료저장소, 비행기 등을 공습했다. [F9F 팬더](https://ko.wikipedia.org/wiki/F9F_팬더 "wikilink") 전투기가 엄호했으며, 소련 [야코블레프 Yak-9](../Page/야코블레프_Yak-9.md "wikilink") 전투기 2대를 격추하고, 1대를 손상시켰다. 세계 최초의 제트 전투기 교전기록이다.
+
+### 2차 파병
+
+### 3차 파병
+
+### 4차 파병
+
+1952년 10월, 밸리포지함은 공격형 항공모함으로 재분류되어 CVA-45라고 재명명되어 한국으로 파병되었다. 유일하게 한국전쟁에 4번째 파병된 미국 항공모함이다.
+
+1953년 1월 2일, 전선 후방의 중공군 지원부대와 지원물자를 공격했다. 프로펠러기인 스카이레이더와 콜세어가 중공군에 폭탄을 투하하고, 제트기인 팬더는 기관포와 로켓포로 적군의 대공포 사이트를 공격했다. 이러한 프로펠러 함재기와 제트 함재기의 팀워크는 한국전쟁 동안 동해안에서 미해병과 미육군 보병을 [근접항공지원](https://ko.wikipedia.org/wiki/근접항공지원 "wikilink")하는 통상적인 방법이었다.
+
+4차 파병된 밸리포지함은 1953년 6월 25일 샌디에고로 복귀하기 까지, 3,700톤의 폭탄을 중공군에 퍼부었다.
+
+## 더 보기
+
+  - [USS 필리핀시 (CV-47)](https://ko.wikipedia.org/wiki/USS_필리핀시_\(CV-47\) "wikilink")
+
+[분류:미국의 항공모함](https://ko.wikipedia.org/wiki/분류:미국의_항공모함 "wikilink") [분류:1945년 진수된 선박](https://ko.wikipedia.org/wiki/분류:1945년_진수된_선박 "wikilink") [분류:한국 전쟁의 미국 항공모함](https://ko.wikipedia.org/wiki/분류:한국_전쟁의_미국_항공모함 "wikilink")

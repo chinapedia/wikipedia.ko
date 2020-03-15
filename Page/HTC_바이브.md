@@ -1,0 +1,35 @@
+> This article is converted from Wikipedia: [HTC ](https://ko.wikipedia.org/wiki/HTC_).
+
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Vive_pre.jpeg "wikilink") **HTC 바이브**(HTC Vive)는 [HTC](https://ko.wikipedia.org/wiki/HTC "wikilink")와 [밸브 코퍼레이션이](https://ko.wikipedia.org/wiki/밸브_코퍼레이션 "wikilink") 개발한 [가상 현실 헤드셋의](https://ko.wikipedia.org/wiki/가상_현실_헤드셋 "wikilink") 하나로, 2016년 4월 5일 출시되었다. 이 헤드셋은 [룸 스케일](https://ko.wikipedia.org/wiki/룸_스케일 "wikilink") 기술을 활용하여 센서를 통해 방을 3차원 공간으로 변화시켜 주도록 설계되어 있으며, 가상 현실을 통해 사용자가 자연스럽게 탐험할 수 있고 걸을 수도 있으며 모션 추적 핸드헬드 컨트롤러를 사용하여 생생하게 물체를 조작하고, 정확도 있게 상호작용하며 통신하며 에워싸는듯한 환경을 경험할 수 있다.\[1\]
+
+2015년 3월, HTC의 [모바일 월드 콩그레스](https://ko.wikipedia.org/wiki/모바일_월드_콩그레스 "wikilink") 키노트 중에 공개된 HTC 바이브는 그 이후로 [CES 2016에서](https://ko.wikipedia.org/wiki/CES_2016 "wikilink") CES 최고의 상을 포함 22개 이상의 상을 받았다.
+
+## 개발
+
+밸브가 제작한 가상 현실 시스템의 프로토타입은 2014년에 시연되었다. 2015년 2월 23일, 밸브는 2015 [게임 개발자 회의에서](https://ko.wikipedia.org/wiki/게임_개발자_회의 "wikilink") "스팀VR 하드웨어 시스템"을 시연할 것이라 발표하였다.\[2\]\[3\]\[4\] HTC는 공식적으로 "바이브"라는 장치를 2015년 3월 1일 [모바일 월드 콩그레스](https://ko.wikipedia.org/wiki/모바일_월드_콩그레스 "wikilink") 키노트 기간 중 공개하였다.\[5\] 선주문은 2016년 2월 29일 오전 10시(EST)에 시작하였다.\[6\] 밸브와 HTC는 그 이후로 헤드셋이 선별된 개발자들에게는 무료일 것이라 발표하였다.\[7\]
+
+## 바이브 프로
+
+2018년 1월 8일, HTC는 **HTC 바이브 프로**(HTC Vive Pro)라는 이름의 업그레이드된 바이브 모델을 공개했다. 안구 하나에 1440x1600에 이르는 더 높은 해상도의 디스플레이를 갖추고 헤드폰 탈착이 가능하며 노이즈 캔슬링 분석을 위한 마이크가 있으며, 무게가 더 가벼워졌다.
+
+2018년 4월 5일, HTC는 바이브 프로, 오리지널 1.0 베이스 스테이션, 컨트롤러가 포함된 바이브 프로 번들의 판매를 시작했다.\[8\]
+
+2018년 4월 23일, HTC는 바이브 프로, 신형 2.0 베이스 스테이션, 컨트롤러가 포함된 바이브 프로 번들의 판매를 시작했다.\[9\]
+
+## 각주
+
+## 외부 링크
+
+  -
+[분류:컴퓨터 주변기기](https://ko.wikipedia.org/wiki/분류:컴퓨터_주변기기 "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.

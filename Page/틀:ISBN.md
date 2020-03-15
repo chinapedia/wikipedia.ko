@@ -1,0 +1,4 @@
+> This article is converted from Wikipedia: [:ISBN](https://ko.wikipedia.org/wiki/:ISBN).
+
+
+{{\#if:||article-name={{\#ifeq:|yes||ISBN}}|link-prefix=\[Special:BookSources/|item-prefix={{\!}}|item-postfix=\]|list-leadout=}}{{\#if:|{{\#ifeq:|yes||{{\#invoke:check isxn|check_isbn||error=}}}}{{\#if:|{{\#ifeq:|yes||{{\#invoke:check isxn|check_isbn||error=}}}}{{\#if:|{{\#ifeq:|yes||{{\#invoke:check isxn|check_isbn||error=}}}}{{\#if:|{{\#ifeq:|yes||{{\#invoke:check isxn|check_isbn||error=}}}}{{\#if:|{{\#ifeq:|yes||{{\#invoke:check isxn|check_isbn||error=}}}}{{\#if:|{{\#ifeq:|yes||{{\#invoke:check isxn|check_isbn||error=}}}}{{\#if:|{{\#ifeq:|yes||{{\#invoke:check isxn|check_isbn||error=}}}}{{\#if:|{{\#ifeq:|yes||{{\#invoke:check isxn|check_isbn||error=}}}}{{\#if:|{{\#ifeq:|yes||{{\#invoke:check isxn|check_isbn||error=}}}}}}}}}}}}}}}}}}}}}}|}}<noinclude>  </noinclude>
