@@ -6,7 +6,7 @@
 ## 개요
 
   - 〈LALALA 행복의 노래〉는 당시 [헬로\! 프로젝트](https://ko.wikipedia.org/wiki/헬로!_프로젝트 "wikilink") 원더풀 하트 멤버([모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink")。, [Berryz코보](https://ko.wikipedia.org/wiki/Berryz코보 "wikilink"), ℃-ute)가 ‘헬로 프로 원더플 올 스타즈’로 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [12월 25일부터](https://ko.wikipedia.org/wiki/12월_25일 "wikilink") 착신음 및 착신음 풀버전 한정으로 발매한 노래였다. 이 세개의 조가 ‘헬로\! 프로젝트 10주년 기념 홍백 스페셜대’로 출연한 《[제58회 NHK 홍백가합전](https://ko.wikipedia.org/wiki/제58회_NHK_홍백가합전 "wikilink")》에서 처음으로 보였으며, 새해 콘서트에서도 불렸다. 노래, 무대 모두 호평이였기 때문에 갑작스럽게 ℃-ute의 싱글로 발매되게 됐다. 그 후, 헬로 프로 원더풀 올 스타즈버전의 〈LALALA 행복의 노래〉는 《[프티 베스트9](https://ko.wikipedia.org/wiki/프티_베스트#프티_베스트9 "wikilink")》에 수록됐다.
-  - ℃-ute로는 음반 《[3rd\~LOVE 에스컬레이션\!\~](https://ko.wikipedia.org/wiki/3rd~LOVE_에스컬레이션!~ "wikilink")》의 선행 싱글.
+  - ℃-ute로는 음반 《[3rd\~LOVE 에스컬레이션\!\~](../Page/3rd~LOVE_에스컬레이션!~.md "wikilink")》의 선행 싱글.
   - 센터는 [야지마 마이미](https://ko.wikipedia.org/wiki/야지마_마이미 "wikilink"), 메인 보컬은 야지마 마이미, [스즈키 아이리](https://ko.wikipedia.org/wiki/스즈키_아이리 "wikilink"), [나카지마 사키](https://ko.wikipedia.org/wiki/나카지마_사키_\(가수\) "wikilink"), [하기와라 마이이다](https://ko.wikipedia.org/wiki/하기와라_마이 "wikilink").
 
 ## 수록곡
