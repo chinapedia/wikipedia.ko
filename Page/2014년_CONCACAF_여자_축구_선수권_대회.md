@@ -3,7 +3,7 @@
 
 **2014년 CONCACAF 여자 축구 선수권 대회**(2014 CONCACAF Women's Championship)는 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [10월 15일부터](https://ko.wikipedia.org/wiki/10월_15일 "wikilink") [10월 26일까지](https://ko.wikipedia.org/wiki/10월_26일 "wikilink") [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")에서 열린 9번째 [CONCACAF 여자 축구 선수권 대회이다](https://ko.wikipedia.org/wiki/CONCACAF_여자_축구_선수권_대회 "wikilink").
 
-이 대회는 [2015년 FIFA 여자 월드컵의](https://ko.wikipedia.org/wiki/2015년_FIFA_여자_월드컵 "wikilink") 북중미카리브 지역 예선을 겸하였다. [캐나다는](https://ko.wikipedia.org/wiki/캐나다_여자_축구_국가대표팀 "wikilink") FIFA 여자 월드컵에서 개최국 자격으로 자동 출전했기 때문에 참가하지 않았다. 우승을 차지한 [미국](https://ko.wikipedia.org/wiki/미국_여자_축구_국가대표팀 "wikilink"), 준우승을 차지한 [코스타리카](../Page/코스타리카_여자_축구_국가대표팀.md "wikilink"), 3위를 차지한 [멕시코가](https://ko.wikipedia.org/wiki/멕시코_여자_축구_국가대표팀 "wikilink") FIFA 여자 월드컵 본선에 직행했다. 4위를 차지한 [트리니다드 토바고는](../Page/트리니다드_토바고_여자_축구_국가대표팀.md "wikilink") [2014년 코파 아메리카 페메니나](https://ko.wikipedia.org/wiki/2014년_코파_아메리카_페메니나 "wikilink") 3위 팀과의 대륙간 플레이오프에 진출했다.
+이 대회는 [2015년 FIFA 여자 월드컵의](https://ko.wikipedia.org/wiki/2015년_FIFA_여자_월드컵 "wikilink") 북중미카리브 지역 예선을 겸하였다. [캐나다는](https://ko.wikipedia.org/wiki/캐나다_여자_축구_국가대표팀 "wikilink") FIFA 여자 월드컵에서 개최국 자격으로 자동 출전했기 때문에 참가하지 않았다. 우승을 차지한 [미국](https://ko.wikipedia.org/wiki/미국_여자_축구_국가대표팀 "wikilink"), 준우승을 차지한 [코스타리카](../Page/코스타리카_여자_축구_국가대표팀.md "wikilink"), 3위를 차지한 [멕시코가](https://ko.wikipedia.org/wiki/멕시코_여자_축구_국가대표팀 "wikilink") FIFA 여자 월드컵 본선에 직행했다. 4위를 차지한 [트리니다드 토바고는](../Page/트리니다드_토바고_여자_축구_국가대표팀.md "wikilink") [2014년 코파 아메리카 페메니나](../Page/2014년_코파_아메리카_페메니나.md "wikilink") 3위 팀과의 대륙간 플레이오프에 진출했다.
 
 ## 참가 팀
 

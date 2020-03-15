@@ -22,7 +22,7 @@
 
 ## 더 보기
 
-  - [틀:16강 틀 (양궁)](https://ko.wikipedia.org/wiki/틀:16강_틀_\(양궁\) "wikilink")
+  - [틀:16강 틀 (양궁)](../Page/틀:16강_틀_\(양궁\).md "wikilink")
   - [틀:16TeamBracket-Compact-Archery-with 3rd](https://ko.wikipedia.org/wiki/틀:16TeamBracket-Compact-Archery-with_3rd "wikilink")
 
 [분류:4강 틀](https://ko.wikipedia.org/wiki/분류:4강_틀 "wikilink") </noinclude>

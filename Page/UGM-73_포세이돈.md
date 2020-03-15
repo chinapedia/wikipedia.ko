@@ -13,6 +13,6 @@
 
 고체연료 보일러에서 고압의 스팀을 분출하여 잠수함에서 포세이돈 미사일을 발사하면, 잠수함의 10 m 위에서 자동으로 메인 로켓 모터가 점화된다.
 
-1968년 8월 16일 17000톤급 수상함인 [USNS Observation Island (T-AGM-23)에서](https://ko.wikipedia.org/wiki/USNS_Observation_Island_\(T-AGM-23\) "wikilink") 시험발사를 하였다. 1970년 8월 3일 핵잠수함 [USS James Madison (SSBN-627)에서](https://ko.wikipedia.org/wiki/USS_James_Madison_\(SSBN-627\) "wikilink") 시험발사에 성공했다. 1971년 3월 31일 실전배치되었다. [라파예트급 잠수함](https://ko.wikipedia.org/wiki/라파예트급_잠수함 "wikilink"), [제임스 매디슨급 잠수함](https://ko.wikipedia.org/wiki/제임스_매디슨급_잠수함 "wikilink"), [벤저민 프랭클린급 잠수함의](https://ko.wikipedia.org/wiki/벤저민_프랭클린급_잠수함 "wikilink") 31척에 배치되었다.
+1968년 8월 16일 17000톤급 수상함인 [USNS Observation Island (T-AGM-23)에서](https://ko.wikipedia.org/wiki/USNS_Observation_Island_\(T-AGM-23\) "wikilink") 시험발사를 하였다. 1970년 8월 3일 핵잠수함 [USS James Madison (SSBN-627)에서](https://ko.wikipedia.org/wiki/USS_James_Madison_\(SSBN-627\) "wikilink") 시험발사에 성공했다. 1971년 3월 31일 실전배치되었다. [라파예트급 잠수함](https://ko.wikipedia.org/wiki/라파예트급_잠수함 "wikilink"), [제임스 매디슨급 잠수함](https://ko.wikipedia.org/wiki/제임스_매디슨급_잠수함 "wikilink"), [벤저민 프랭클린급 잠수함의](../Page/벤저민_프랭클린급_잠수함.md "wikilink") 31척에 배치되었다.
 
 [분류:미국의 미사일](https://ko.wikipedia.org/wiki/분류:미국의_미사일 "wikilink")

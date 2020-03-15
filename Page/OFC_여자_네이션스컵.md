@@ -19,7 +19,7 @@
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/1983년" title="wikilink">1983년</a><br />
-<em><a href="https://ko.wikipedia.org/wiki/1983년_OFC_여자_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<em><a href="../Page/1983년_OFC_여자_축구_선수권_대회.md" title="wikilink">자세히</a></em></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong></strong></p></td>
 <td style="text-align: center;"><p><strong>3 : 2</strong> (<a href="https://ko.wikipedia.org/wiki/연장전" title="wikilink">연장</a>)</p></td>
@@ -30,7 +30,7 @@
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/1986년" title="wikilink">1986년</a><br />
-<em><a href="https://ko.wikipedia.org/wiki/1986년_OFC_여자_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<em><a href="../Page/1986년_OFC_여자_축구_선수권_대회.md" title="wikilink">자세히</a></em></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong></strong></p></td>
 <td style="text-align: center;"><p><strong>4 : 1</strong></p></td>
@@ -42,7 +42,7 @@
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/1989년" title="wikilink">1989년</a><br />
-<em><a href="https://ko.wikipedia.org/wiki/1989년_OFC_여자_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<em><a href="../Page/1989년_OFC_여자_축구_선수권_대회.md" title="wikilink">자세히</a></em></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong></strong></p></td>
 <td style="text-align: center;"><p><strong>1 : 0</strong></p></td>
@@ -53,7 +53,7 @@
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/1991년" title="wikilink">1991년</a><br />
-<em><a href="https://ko.wikipedia.org/wiki/1991년_OFC_여자_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<em><a href="../Page/1991년_OFC_여자_축구_선수권_대회.md" title="wikilink">자세히</a></em></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong></strong></p></td>
 <td style="text-align: center;"><p>(라운드 로빈)</p></td>
@@ -64,7 +64,7 @@
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/1994년" title="wikilink">1994년</a><br />
-<em><a href="https://ko.wikipedia.org/wiki/1994년_OFC_여자_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<em><a href="../Page/1994년_OFC_여자_축구_선수권_대회.md" title="wikilink">자세히</a></em></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong></strong></p></td>
 <td style="text-align: center;"><p>(라운드 로빈)</p></td>
@@ -75,7 +75,7 @@
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/1998년" title="wikilink">1998년</a><br />
-<em><a href="https://ko.wikipedia.org/wiki/1998년_OFC_여자_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<em><a href="../Page/1998년_OFC_여자_축구_선수권_대회.md" title="wikilink">자세히</a></em></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong></strong></p></td>
 <td style="text-align: center;"><p><strong>3 : 1</strong></p></td>
@@ -86,7 +86,7 @@
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/2003년" title="wikilink">2003년</a><br />
-<em><a href="https://ko.wikipedia.org/wiki/2003년_OFC_여자_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<em><a href="../Page/2003년_OFC_여자_축구_선수권_대회.md" title="wikilink">자세히</a></em></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong></strong></p></td>
 <td style="text-align: center;"><p>(라운드 로빈)</p></td>
@@ -97,7 +97,7 @@
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/2007년" title="wikilink">2007년</a><br />
-<em><a href="https://ko.wikipedia.org/wiki/2007년_OFC_여자_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<em><a href="../Page/2007년_OFC_여자_축구_선수권_대회.md" title="wikilink">자세히</a></em></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong></strong></p></td>
 <td style="text-align: center;"><p>(라운드 로빈)</p></td>
@@ -108,7 +108,7 @@
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/2010년" title="wikilink">2010년</a><br />
-<em><a href="https://ko.wikipedia.org/wiki/2010년_OFC_여자_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<em><a href="../Page/2010년_OFC_여자_축구_선수권_대회.md" title="wikilink">자세히</a></em></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong></strong></p></td>
 <td style="text-align: center;"><p><strong>11 : 0</strong></p></td>
@@ -119,7 +119,7 @@
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/2014년" title="wikilink">2014년</a><br />
-<em><a href="https://ko.wikipedia.org/wiki/2014년_OFC_여자_네이션스컵" title="wikilink">자세히</a></em></p></td>
+<em><a href="../Page/2014년_OFC_여자_네이션스컵.md" title="wikilink">자세히</a></em></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong></strong></p></td>
 <td style="text-align: center;"><p>(라운드 로빈)</p></td>

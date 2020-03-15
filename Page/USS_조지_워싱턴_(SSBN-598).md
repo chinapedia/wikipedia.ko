@@ -11,7 +11,7 @@
 
 세계 최초의 [SSN](https://ko.wikipedia.org/wiki/SSN "wikilink")(공격원잠)인 미국 [USS 노틸러스 (SSN-571)는](https://ko.wikipedia.org/wiki/USS_노틸러스_\(SSN-571\) "wikilink") 열출력 70MWt 경수로 1개를 탑재했는데, 소련 최초의 [SSN](https://ko.wikipedia.org/wiki/SSN "wikilink")(공격원잠)인 [노벰버급 잠수함은](https://ko.wikipedia.org/wiki/노벰버급_잠수함 "wikilink") 열출력 70MWt 경수로 2개를 탑재했다.
 
-세계 최초의 [SSBN](https://ko.wikipedia.org/wiki/SSBN "wikilink")(전략원잠)인 미국 USS 조지 워싱턴 (SSBN-598)은 열출력 70MWt 경수로 1개를 탑재했는데, 소련 최초의 [SSBN](https://ko.wikipedia.org/wiki/SSBN "wikilink")(전략원잠)인 [호텔급 잠수함은](https://ko.wikipedia.org/wiki/호텔급_잠수함 "wikilink") 열출력 70MWt 경수로 2개를 탑재했다.
+세계 최초의 [SSBN](https://ko.wikipedia.org/wiki/SSBN "wikilink")(전략원잠)인 미국 USS 조지 워싱턴 (SSBN-598)은 열출력 70MWt 경수로 1개를 탑재했는데, 소련 최초의 [SSBN](https://ko.wikipedia.org/wiki/SSBN "wikilink")(전략원잠)인 [호텔급 잠수함은](../Page/호텔급_잠수함.md "wikilink") 열출력 70MWt 경수로 2개를 탑재했다.
 
 ## SLBM
 

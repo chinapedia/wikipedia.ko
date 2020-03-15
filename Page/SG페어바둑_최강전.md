@@ -33,6 +33,6 @@
 
 ## 같이 보기
 
-  - [한중일 3국 바둑명인페어대회](https://ko.wikipedia.org/wiki/한중일_3국_바둑명인페어대회 "wikilink")
+  - [한중일 3국 바둑명인페어대회](../Page/한중일_3국_바둑명인페어대회.md "wikilink")
 
 [분류:2011년 설립](https://ko.wikipedia.org/wiki/분류:2011년_설립 "wikilink") [분류:대한민국의 바둑 기전](https://ko.wikipedia.org/wiki/분류:대한민국의_바둑_기전 "wikilink")

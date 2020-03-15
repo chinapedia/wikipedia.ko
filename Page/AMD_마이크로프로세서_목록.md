@@ -61,13 +61,13 @@ AMD 옵테론 A1100 시리즈
   - [Am486](https://ko.wikipedia.org/wiki/Am486 "wikilink") (1993)
   - [Am5x86](https://ko.wikipedia.org/wiki/Am5x86 "wikilink") (1995)
 
-### [K5 아키텍처](https://ko.wikipedia.org/wiki/AMD_K5 "wikilink") (1995)
+### [K5 아키텍처](../Page/AMD_K5.md "wikilink") (1995)
 
-  - [AMD K5](https://ko.wikipedia.org/wiki/AMD_K5 "wikilink") (*SSA5*/*5k86*)
+  - [AMD K5](../Page/AMD_K5.md "wikilink") (*SSA5*/*5k86*)
 
-### [K6 아키텍처](https://ko.wikipedia.org/wiki/AMD_K6 "wikilink") (1997-2001)
+### [K6 아키텍처](../Page/AMD_K6.md "wikilink") (1997-2001)
 
-  - [AMD K6](https://ko.wikipedia.org/wiki/AMD_K6 "wikilink") (*NX686*/*Little Foot*) (1997)
+  - [AMD K6](../Page/AMD_K6.md "wikilink") (*NX686*/*Little Foot*) (1997)
   - [AMD K6-2](https://ko.wikipedia.org/wiki/AMD_K6-2 "wikilink") (*Chompers*/*CXT*)
       - [AMD K6-2-P](https://ko.wikipedia.org/wiki/AMD_K6-2 "wikilink") (*Mobile K6-2*)
   - [AMD K6-III](https://ko.wikipedia.org/wiki/AMD_K6-III "wikilink") (*Sharptooth*)
@@ -147,7 +147,7 @@ AMD 옵테론 A1100 시리즈
   - *Interlagos* [옵테론](https://ko.wikipedia.org/wiki/옵테론 "wikilink") (*[불도저](https://ko.wikipedia.org/wiki/불도저_\(마이크로아키텍처\) "wikilink")* 코어) (Q4 2011)
   - *Zambezi* (*[불도저](https://ko.wikipedia.org/wiki/불도저_\(마이크로아키텍처\) "wikilink")* 코어) (Q4 2011)
   - *Vishera* (*[Piledriver](https://ko.wikipedia.org/wiki/파일드라이버_\(마이크로아키텍처\) "wikilink")* 코어) (Q4 2012)
-  - (*[스팀롤러](https://ko.wikipedia.org/wiki/스팀롤러_\(마이크로아키텍처\) "wikilink")* 코어) (Q1 2014)
+  - (*[스팀롤러](../Page/스팀롤러_\(마이크로아키텍처\).md "wikilink")* 코어) (Q1 2014)
   - (*[Excavator](https://ko.wikipedia.org/wiki/Excavator_\(마이크로아키텍처\) "wikilink")* 코어) (2015)
 
 ### 밥캣 코어 아키텍처

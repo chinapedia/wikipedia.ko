@@ -9244,7 +9244,7 @@ X</a></p></td>
 <tr class="even">
 <td><p>|라데온 프로 WX 4100</p></td>
 <td><p>Q4 2016</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/그래픽스_코어_넥스트" title="wikilink">GCN 4세대</a></p></td>
+<td><p><a href="../Page/그래픽스_코어_넥스트.md" title="wikilink">GCN 4세대</a></p></td>
 <td><p>Polaris 11</p></td>
 <td><p>14</p></td>
 <td><p>PCIe 3.0 x16</p></td>
@@ -9260,7 +9260,7 @@ X</a></p></td>
 <tr class="odd">
 <td><p>|라데온 프로 WX 5100</p></td>
 <td><p>Q4 2016</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/그래픽스_코어_넥스트" title="wikilink">GCN 4세대</a></p></td>
+<td><p><a href="../Page/그래픽스_코어_넥스트.md" title="wikilink">GCN 4세대</a></p></td>
 <td><p>Polaris 10</p></td>
 <td><p>14</p></td>
 <td><p>PCIe 3.0 x16</p></td>
@@ -9276,7 +9276,7 @@ X</a></p></td>
 <tr class="even">
 <td><p>|라데온 프로 WX 7100</p></td>
 <td><p>Q4 2016</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/그래픽스_코어_넥스트" title="wikilink">GCN 4세대</a></p></td>
+<td><p><a href="../Page/그래픽스_코어_넥스트.md" title="wikilink">GCN 4세대</a></p></td>
 <td><p>Polaris 10</p></td>
 <td><p>14</p></td>
 <td><p>PCIe 3.0 x16</p></td>

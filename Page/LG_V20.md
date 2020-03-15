@@ -25,7 +25,7 @@ LG V20의 오픈소스가 공개되었다. 2분기 안에는 업데이트를 해
 
 #### Hi-Fi Quad DAC
 
-DAC(Digital to Analog Converter)은 디지털 신호를 사람이 들을 수 있는 아날로그 신호로 변환해주는 장치이다. 이 중 **쿼드 DAC**는 디지털 신호의 잡음을 최대 50%까지 감소시켜서 원음에 가까운 소리를 낼 수 있게 해 준다. [V20에는](https://ko.wikipedia.org/wiki/LG_V20 "wikilink") 세계 최초로 ESS 사의 Sabre 쿼드 DAC가 적용되었으며, 24비트는 물론, 32비트 음원까지 재생할 수 있다. 오디오 전문 회사인 B\&O(뱅엔울롭슨)와 협업하여 B\&O 플레이 튜닝이 적용되었다. 음악 앱의 Hi-Fi DAC 모드를 통해, 음량을 75단계까지 미세하게 설정할 수 있다.\[2\]
+DAC(Digital to Analog Converter)은 디지털 신호를 사람이 들을 수 있는 아날로그 신호로 변환해주는 장치이다. 이 중 **쿼드 DAC**는 디지털 신호의 잡음을 최대 50%까지 감소시켜서 원음에 가까운 소리를 낼 수 있게 해 준다. [V20에는](../Page/LG_V20.md "wikilink") 세계 최초로 ESS 사의 Sabre 쿼드 DAC가 적용되었으며, 24비트는 물론, 32비트 음원까지 재생할 수 있다. 오디오 전문 회사인 B\&O(뱅엔울롭슨)와 협업하여 B\&O 플레이 튜닝이 적용되었다. 음악 앱의 Hi-Fi DAC 모드를 통해, 음량을 75단계까지 미세하게 설정할 수 있다.\[2\]
 
 #### 고음질 녹음
 
@@ -107,7 +107,7 @@ LG V20의 출시 초기에 5천원에 제공하던 사운드 패키지에 포함
 
   - [삼성 갤럭시 노트 7](https://ko.wikipedia.org/wiki/삼성_갤럭시_노트_7 "wikilink")
   - [삼성 갤럭시 S7 엣지](../Page/삼성_갤럭시_S7_엣지.md "wikilink")
-  - [아이폰 7 플러스](https://ko.wikipedia.org/wiki/아이폰_7_플러스 "wikilink")
+  - [아이폰 7 플러스](../Page/아이폰_7_플러스.md "wikilink")
   - [소니 엑스페리아 XZ](https://ko.wikipedia.org/wiki/소니_엑스페리아_XZ "wikilink")
 
 ## 외부 링크
