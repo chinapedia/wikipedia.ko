@@ -163,7 +163,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/카렐_브뤼크네르" title="wikilink">카렐 브뤼크네르</a></p></td>
+<td><p><a href="../Page/카렐_브뤼크네르.md" title="wikilink">카렐 브뤼크네르</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -452,7 +452,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/카렐_브뤼크네르" title="wikilink">카렐 브뤼크네르</a></p></td>
+<td><p><a href="../Page/카렐_브뤼크네르.md" title="wikilink">카렐 브뤼크네르</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -812,7 +812,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/카렐_브뤼크네르" title="wikilink">카렐 브뤼크네르</a></p></td>
+<td><p><a href="../Page/카렐_브뤼크네르.md" title="wikilink">카렐 브뤼크네르</a></p></td>
 <td></td>
 </tr>
 </tbody>

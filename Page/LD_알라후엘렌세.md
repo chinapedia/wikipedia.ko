@@ -3,7 +3,7 @@
 
 **리가 데포르티보 알라후엘렌세**()는 [코스타리카](https://ko.wikipedia.org/wiki/코스타리카 "wikilink") [알라후엘라](https://ko.wikipedia.org/wiki/알라후엘라 "wikilink")를 연고로 하는 프로 축구 팀이며, 보통 **라 리가**(La Liga)라고 알려져있다.
 
-*Once de Abril* 이라는 옛 축구팀의 7명이 1919년 6월 18일에 창단했고, 현재 [코스타리카 프리메라 디비시온에](https://ko.wikipedia.org/wiki/코스타리카_프리메라_디비시온 "wikilink") 참가중이며, [알레한드로 모레라 소토](https://ko.wikipedia.org/wiki/알레한드로_모레라_소토 "wikilink") 경기장을 홈 경기장으로 삼고 있다.\[1\] 알라후엘렌세는 코스타리카 축구 역사상 가장 성공적인 팀 중 하나이며, 29번의 프리메라 디비시온을 우승했고, 적어도 10년에 한번씩은 리그 우승을 하는 유일한 축구단이다. 축구단은 [CS 에레디아노와](https://ko.wikipedia.org/wiki/CS_에레디아노 "wikilink") 더불어 매번 1부 리그에 참가중이며, 단 한번도 강등된적이 없다.\[2\]
+*Once de Abril* 이라는 옛 축구팀의 7명이 1919년 6월 18일에 창단했고, 현재 [코스타리카 프리메라 디비시온에](https://ko.wikipedia.org/wiki/코스타리카_프리메라_디비시온 "wikilink") 참가중이며, [알레한드로 모레라 소토](https://ko.wikipedia.org/wiki/알레한드로_모레라_소토 "wikilink") 경기장을 홈 경기장으로 삼고 있다.\[1\] 알라후엘렌세는 코스타리카 축구 역사상 가장 성공적인 팀 중 하나이며, 29번의 프리메라 디비시온을 우승했고, 적어도 10년에 한번씩은 리그 우승을 하는 유일한 축구단이다. 축구단은 [CS 에레디아노와](../Page/CS_에레디아노.md "wikilink") 더불어 매번 1부 리그에 참가중이며, 단 한번도 강등된적이 없다.\[2\]
 
 알라후엘렌세는 세 번의 [코파 인테르클루베 UNCAF와](https://ko.wikipedia.org/wiki/코파_인테르클루베_UNCAF "wikilink") 두 번의 [CONCACAF 챔피언스리그](https://ko.wikipedia.org/wiki/CONCACAF_챔피언스리그 "wikilink") 우승을 경험했으며,\[3\] CONCACAF 챔피언스리그 우승은 코스타리카 클럽팀 사상 최초이며, 이를 통해 코스타리카 축구 클럽 사상 최초로 [코파 인테라메리카나에](https://ko.wikipedia.org/wiki/코파_인테라메리카나 "wikilink") 진출했다. 알라후엘렌세는 [중앙아메리카](https://ko.wikipedia.org/wiki/중앙아메리카 "wikilink") 축구팀 중 유일하게 2000년에 [코파 메르코노르테](https://ko.wikipedia.org/wiki/코파_메르코노르테 "wikilink"),\[4\] 2006년에 [코파 수다메리카나](https://ko.wikipedia.org/wiki/코파_수다메리카나 "wikilink")\[5\] 등 [남미 축구 연맹](https://ko.wikipedia.org/wiki/남미_축구_연맹 "wikilink") 주관의 대회에 참가하였다.
 

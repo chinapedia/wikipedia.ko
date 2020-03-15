@@ -52,9 +52,9 @@
 | [세든](https://ko.wikipedia.org/wiki/크리스_세든 "wikilink")                | [SK 와이번스](https://ko.wikipedia.org/wiki/SK_와이번스 "wikilink")          |                                                               |        |              |
 | [2014년](https://ko.wikipedia.org/wiki/2014년_한국프로야구 "wikilink")       | [밴 헤켄](https://ko.wikipedia.org/wiki/앤디_밴_헤켄 "wikilink")             | [넥센 히어로즈](https://ko.wikipedia.org/wiki/넥센_히어로즈 "wikilink")   | 20     |              |
 | [2015년](https://ko.wikipedia.org/wiki/2015년_KBO_리그 "wikilink")       | [해커](https://ko.wikipedia.org/wiki/에릭_해커 "wikilink")                 | [NC 다이노스](https://ko.wikipedia.org/wiki/NC_다이노스 "wikilink")   | 19     |              |
-| [2016년](https://ko.wikipedia.org/wiki/2016년_KBO_리그 "wikilink")       | [니퍼트](https://ko.wikipedia.org/wiki/더스틴_니퍼트 "wikilink")              | [두산 베어스](https://ko.wikipedia.org/wiki/두산_베어스 "wikilink")     | 22     |              |
+| [2016년](../Page/2016년_KBO_리그.md "wikilink")                          | [니퍼트](https://ko.wikipedia.org/wiki/더스틴_니퍼트 "wikilink")              | [두산 베어스](https://ko.wikipedia.org/wiki/두산_베어스 "wikilink")     | 22     |              |
 | [2017년](https://ko.wikipedia.org/wiki/2017년_한국프로야구 "wikilink")       | [양현종](https://ko.wikipedia.org/wiki/양현종 "wikilink")                  | [KIA 타이거즈](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink") | 20     |              |
-| [헥터](https://ko.wikipedia.org/wiki/엑토르_노에시 "wikilink")               | [KIA 타이거즈](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink")        |                                                               |        |              |
+| [헥터](../Page/엑토르_노에시.md "wikilink")                                  | [KIA 타이거즈](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink")        |                                                               |        |              |
 | [2018년](https://ko.wikipedia.org/wiki/2018년_KBO_리그 "wikilink")       | [후랭코프](https://ko.wikipedia.org/wiki/세스_후랭코프 "wikilink")             | [두산 베어스](https://ko.wikipedia.org/wiki/두산_베어스 "wikilink")     | 18     |              |
 | [2019년](https://ko.wikipedia.org/wiki/2019년_KBO_리그 "wikilink")       | [린드블럼](../Page/조쉬_린드블럼.md "wikilink")                                | [두산 베어스](https://ko.wikipedia.org/wiki/두산_베어스 "wikilink")     | 20     |              |
 

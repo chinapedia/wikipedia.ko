@@ -11,7 +11,7 @@
 
 성우로서는 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink")에 '[THE IDOLM@STER MILLION LIVE\!](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_MILLION_LIVE! "wikilink")'의 이부키 츠바사 역으로 데뷔했다.
 
-같은 해 10월부터는 동기에 '차세대 성우 아티스트 오디션'의 그랑프리 [타도코로 아즈사](https://ko.wikipedia.org/wiki/타도코로_아즈사 "wikilink"), 결승 출전자인 [오오하시 아야카](https://ko.wikipedia.org/wiki/오오하시_아야카 "wikilink"), [키도 이부키](https://ko.wikipedia.org/wiki/키도_이부키 "wikilink"), [야마자키 에리들과](https://ko.wikipedia.org/wiki/야마자키_에리 "wikilink") [AKIBA 컬처즈 극장에서](https://ko.wikipedia.org/wiki/AKIBA_컬처즈_극장 "wikilink") 애니메이션 송, 게임 송의 커버 라이브 이벤트 'Anisong Ichiban\!\! presented by HoriPro'를 개최하고 있다.
+같은 해 10월부터는 동기에 '차세대 성우 아티스트 오디션'의 그랑프리 [타도코로 아즈사](https://ko.wikipedia.org/wiki/타도코로_아즈사 "wikilink"), 결승 출전자인 [오오하시 아야카](../Page/오오하시_아야카.md "wikilink"), [키도 이부키](../Page/키도_이부키.md "wikilink"), [야마자키 에리들과](https://ko.wikipedia.org/wiki/야마자키_에리 "wikilink") [AKIBA 컬처즈 극장에서](https://ko.wikipedia.org/wiki/AKIBA_컬처즈_극장 "wikilink") 애니메이션 송, 게임 송의 커버 라이브 이벤트 'Anisong Ichiban\!\! presented by HoriPro'를 개최하고 있다.
 
 ## 디스코그래피
 
@@ -94,7 +94,7 @@
 <tr class="odd">
 <td><p>2월 5일</p></td>
 <td><p>IDOL POWER RAINBOW[5]</p></td>
-<td><p>아마미 하루카(<a href="https://ko.wikipedia.org/wiki/나카무라_에리코" title="wikilink">나카무라 에리코</a>), 키사라기 치하야(<a href="https://ko.wikipedia.org/wiki/이마이_아사미" title="wikilink">이마이 아사미</a>) , 호시이 미키(하세가와 아키코), 시마무라 우즈키(<a href="https://ko.wikipedia.org/wiki/오오하시_아야카" title="wikilink">오오하시 아야카</a>), 시부야 린(<a href="https://ko.wikipedia.org/wiki/후쿠하라_아야카" title="wikilink">후쿠하라 아야카</a>), 혼다 미오(<a href="https://ko.wikipedia.org/wiki/하라_사유리" title="wikilink">하라 사유리</a>), 카스가 미라이(<a href="https://ko.wikipedia.org/wiki/야마자키_하루카" title="wikilink">야마자키 하루카</a>), 모가미 시즈카(<a href="https://ko.wikipedia.org/wiki/타도코로_아즈사" title="wikilink">타도코로 아즈사</a>), 이부키 츠바사(Machico) from THE IDOLM@STER M@STERS OF IDOL WORLD</p></td>
+<td><p>아마미 하루카(<a href="https://ko.wikipedia.org/wiki/나카무라_에리코" title="wikilink">나카무라 에리코</a>), 키사라기 치하야(<a href="https://ko.wikipedia.org/wiki/이마이_아사미" title="wikilink">이마이 아사미</a>) , 호시이 미키(하세가와 아키코), 시마무라 우즈키(<a href="../Page/오오하시_아야카.md" title="wikilink">오오하시 아야카</a>), 시부야 린(<a href="../Page/후쿠하라_아야카.md" title="wikilink">후쿠하라 아야카</a>), 혼다 미오(<a href="../Page/하라_사유리.md" title="wikilink">하라 사유리</a>), 카스가 미라이(<a href="https://ko.wikipedia.org/wiki/야마자키_하루카" title="wikilink">야마자키 하루카</a>), 모가미 시즈카(<a href="https://ko.wikipedia.org/wiki/타도코로_아즈사" title="wikilink">타도코로 아즈사</a>), 이부키 츠바사(Machico) from THE IDOLM@STER M@STERS OF IDOL WORLD</p></td>
 <td><p>2014</p></td>
 <td><p>'IDOL POWER RAINBOW'</p></td>
 </tr>

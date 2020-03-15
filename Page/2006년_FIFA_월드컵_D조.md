@@ -172,7 +172,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/오마르_브라보" title="wikilink">오마르 브라보</a> (멕시코)</p>
+<a href="../Page/오마르_브라보.md" title="wikilink">오마르 브라보</a> (멕시코)</p>
 <p><strong>부심:</strong><br />
 알레산드로 스타녤리 (<a href="../Page/이탈리아_축구_연맹.md" title="wikilink">이탈리아</a>)<br />
 크리스티아노 코펠리 (<a href="../Page/이탈리아_축구_연맹.md" title="wikilink">이탈리아</a>)<br />

@@ -68,9 +68,9 @@ Q메모 등으로 더 편리한 기능을 사용 가능하다.
   - [LG G2 미니](../Page/LG_G2_미니.md "wikilink")
   - [LG G3](https://ko.wikipedia.org/wiki/LG_G3 "wikilink")
   - [LG G3 Cat.6](../Page/LG_G3_카테고리_6.md "wikilink")
-  - [LG G3 A](https://ko.wikipedia.org/wiki/LG_G3_A "wikilink")
-  - [LG Gx2](https://ko.wikipedia.org/wiki/LG_Gx2 "wikilink")
-  - [LG G3 스크린](https://ko.wikipedia.org/wiki/LG_G3_스크린 "wikilink")
+  - [LG G3 A](../Page/LG_G3_A.md "wikilink")
+  - [LG Gx2](../Page/LG_Gx2.md "wikilink")
+  - [LG G3 스크린](../Page/LG_G3_스크린.md "wikilink")
 
 ## 각주
 

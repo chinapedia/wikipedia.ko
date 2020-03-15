@@ -21,13 +21,13 @@
 
 ### 침체기 : 1990년대 \~ 2000년대
 
-[1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") 바이아는 [EC 주벤투지와의](https://ko.wikipedia.org/wiki/EC_주벤투지 "wikilink") 홈 경기에서 0-0 무승부로 마친 후, 역사상 처음으로 [캄페오나투 브라질레이루 세리이 B로](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_B "wikilink") 강등되었다. [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") 바이아는 좋은 성적을 유지하며, 2년만에 세리이 A 복귀를 노렸으나, 최종 3위를 기록하며 승격에 실패하였다.
+[1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") 바이아는 [EC 주벤투지와의](../Page/EC_주벤투지.md "wikilink") 홈 경기에서 0-0 무승부로 마친 후, 역사상 처음으로 [캄페오나투 브라질레이루 세리이 B로](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_B "wikilink") 강등되었다. [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") 바이아는 좋은 성적을 유지하며, 2년만에 세리이 A 복귀를 노렸으나, 최종 3위를 기록하며 승격에 실패하였다.
 
-[2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink")에 [상파울루 FC와](https://ko.wikipedia.org/wiki/상파울루_FC "wikilink") [SC 인테르나시오나우](https://ko.wikipedia.org/wiki/SC_인테르나시오나우 "wikilink") 등의 축구단들이 뇌물 수수 사건에 연루되며, [플루미넨시 FC와](https://ko.wikipedia.org/wiki/플루미넨시_FC "wikilink") 함께 세리이 A로 복귀하였다. 그러나 [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") 구단을 후원하던 은행이 파산하면서, EC 바이아는 빠르게 쇠퇴했다. [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink")과 2002년 [코파 노르데스치에서](https://ko.wikipedia.org/wiki/코파_노르데스치 "wikilink") 우승을 차지하였으나, [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") 세리이 A에서 미미한 성적을 거둔 이후 세리이 B로 다시 강등되었다. [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 세리이 B 4위를 기록하며 또 한번 빠르게 복귀를 준비했으나, [브라질리엔시 FC에게](https://ko.wikipedia.org/wiki/브라질리엔시_FC "wikilink") 패하며 또 다시 세리이 B에 머무르게 되었다. [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") 세리이 B 18위를 기록하며, [캄페오나투 브라질레이루 세리이 C로](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_C "wikilink") 추락하였다.
+[2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink")에 [상파울루 FC와](https://ko.wikipedia.org/wiki/상파울루_FC "wikilink") [SC 인테르나시오나우](https://ko.wikipedia.org/wiki/SC_인테르나시오나우 "wikilink") 등의 축구단들이 뇌물 수수 사건에 연루되며, [플루미넨시 FC와](https://ko.wikipedia.org/wiki/플루미넨시_FC "wikilink") 함께 세리이 A로 복귀하였다. 그러나 [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") 구단을 후원하던 은행이 파산하면서, EC 바이아는 빠르게 쇠퇴했다. [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink")과 2002년 [코파 노르데스치에서](https://ko.wikipedia.org/wiki/코파_노르데스치 "wikilink") 우승을 차지하였으나, [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") 세리이 A에서 미미한 성적을 거둔 이후 세리이 B로 다시 강등되었다. [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 세리이 B 4위를 기록하며 또 한번 빠르게 복귀를 준비했으나, [브라질리엔시 FC에게](https://ko.wikipedia.org/wiki/브라질리엔시_FC "wikilink") 패하며 또 다시 세리이 B에 머무르게 되었다. [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") 세리이 B 18위를 기록하며, [캄페오나투 브라질레이루 세리이 C로](../Page/캄페오나투_브라질레이루_세리이_C.md "wikilink") 추락하였다.
 
 ### 삼색의 불사조(Fênix tricolor) : 2000년대 \~ 현재
 
-[2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [캄페오나투 브라질레이루 세리이 C](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_C "wikilink") 준결승전 [나시오나우 파스트 클루비와의](https://ko.wikipedia.org/wiki/나시오나우_파스트_클루비 "wikilink") 대결에서 샤를리스가 후반 막판에 결승골을 기록하며, 기적적으로 결승전에 올라섰다. 최종적으로 준우승을 기록한 EC 바이아는 [캄페오나투 브라질레이루 세리이 B로의](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_B "wikilink") 승격이 확정되었다. 이 순간을 두고 바이아의 팬들은 스스로를 삼색의 불사조()라 칭하였다. 2007년 EC 바이아는 3부 리그에서 활동하였음에도 불구하고, 평균 40,400명의 관중이 들어차는 등 팬들의 절대적인 지지를 받았다.
+[2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [캄페오나투 브라질레이루 세리이 C](../Page/캄페오나투_브라질레이루_세리이_C.md "wikilink") 준결승전 [나시오나우 파스트 클루비와의](https://ko.wikipedia.org/wiki/나시오나우_파스트_클루비 "wikilink") 대결에서 샤를리스가 후반 막판에 결승골을 기록하며, 기적적으로 결승전에 올라섰다. 최종적으로 준우승을 기록한 EC 바이아는 [캄페오나투 브라질레이루 세리이 B로의](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_B "wikilink") 승격이 확정되었다. 이 순간을 두고 바이아의 팬들은 스스로를 삼색의 불사조()라 칭하였다. 2007년 EC 바이아는 3부 리그에서 활동하였음에도 불구하고, 평균 40,400명의 관중이 들어차는 등 팬들의 절대적인 지지를 받았다.
 
 [2010 시즌부터](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A_2010 "wikilink") [2014 시즌까지](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A_2014 "wikilink") EC 바이아는 세리이 A에서 지속적으로 활동하였으나, 2014 시즌을 끝으로 세리이 B로 다시 내려갔다. 하지만 [2016 시즌](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_B_2016 "wikilink") 세리이 B 4위를 기록하며, 1부 리그로의 복귀에 성공하였다. 또한 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [코파 수다메리카나에](https://ko.wikipedia.org/wiki/코파_수다메리카나 "wikilink") 나서며, 22년간의 공백을 깨고 대륙 대회에 참가하게 되었다. 2012년과 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink"), [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink")에 [캄페오나투 바이아누에서](https://ko.wikipedia.org/wiki/캄페오나투_바이아누 "wikilink") 우승을 차지하였으며, [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink")에는 [코파 노르데스치에서](https://ko.wikipedia.org/wiki/코파_노르데스치 "wikilink") 우승하였다.
 
@@ -45,7 +45,7 @@
 
 <!-- end list -->
 
-  - **[세리이 C](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_C "wikilink")**
+  - **[세리이 C](../Page/캄페오나투_브라질레이루_세리이_C.md "wikilink")**
 
 <!-- end list -->
 

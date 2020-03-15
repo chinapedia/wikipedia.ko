@@ -11,9 +11,9 @@
 
 Produced by Ron Aniello
 
-  - [제이슨 웨이드 (Jason Wade)](https://ko.wikipedia.org/wiki/제이슨_웨이드 "wikilink") – [리드 보컬](https://ko.wikipedia.org/wiki/리드_보컬 "wikilink"), [기타](https://ko.wikipedia.org/wiki/기타 "wikilink")
+  - [제이슨 웨이드 (Jason Wade)](../Page/제이슨_웨이드.md "wikilink") – [리드 보컬](https://ko.wikipedia.org/wiki/리드_보컬 "wikilink"), [기타](https://ko.wikipedia.org/wiki/기타 "wikilink")
   - 서지오 안드레드 (Sergio Andrade) – [베이스 기타](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink")
-  - [릭 울스텐험 (Rick Woolstenhulme)](https://ko.wikipedia.org/wiki/릭_울스텐험_주니어 "wikilink") – [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink")
+  - [릭 울스텐험 (Rick Woolstenhulme)](../Page/릭_울스텐험_주니어.md "wikilink") – [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink")
   - 론 아넬로 (Ron Aniello) - [프로듀서](https://ko.wikipedia.org/wiki/음악_프로듀서 "wikilink")
 
 ## 참고사항

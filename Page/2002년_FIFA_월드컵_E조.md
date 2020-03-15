@@ -167,7 +167,7 @@
 <a href="https://ko.wikipedia.org/wiki/매트_홀랜드" title="wikilink">매트 홀랜드</a> (아일랜드)</p>
 <p><strong>부심:</strong><br />
 마트 라짐 아왕 하마트 (<a href="https://ko.wikipedia.org/wiki/말레이시아_축구_협회" title="wikilink">말레이시아</a>)<br />
-롤란트 판 닐런 (<a href="https://ko.wikipedia.org/wiki/벨기에_왕립_축구_협회" title="wikilink">벨기에</a>)<br />
+롤란트 판 닐런 (<a href="../Page/벨기에_왕립_축구_협회.md" title="wikilink">벨기에</a>)<br />
 <strong>대기심:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/피터_프렌더개스트" title="wikilink">피터 프렌더개스트</a> (<a href="https://ko.wikipedia.org/wiki/자메이카_축구_연맹" title="wikilink">자메이카</a>)</p></td>
 </tr>
@@ -697,7 +697,7 @@
 <td><p><strong>최우수 선수:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/사뮈엘_에토" title="wikilink">사뮈엘 에토</a> (카메룬)</p>
 <p><strong>부심:</strong><br />
-롤란트 판 닐런 (<a href="https://ko.wikipedia.org/wiki/벨기에_왕립_축구_협회" title="wikilink">벨기에</a>)<br />
+롤란트 판 닐런 (<a href="../Page/벨기에_왕립_축구_협회.md" title="wikilink">벨기에</a>)<br />
 마치에이 비에르즈보프스키 (<a href="https://ko.wikipedia.org/wiki/폴란드_축구_협회" title="wikilink">폴란드</a>)<br />
 <strong>대기심:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/카를루스_이우제니우_시몽" title="wikilink">카를루스 이우제니우 시몽</a> (<a href="https://ko.wikipedia.org/wiki/브라질_축구_협회" title="wikilink">브라질</a>)</p></td>
@@ -1054,7 +1054,7 @@
 마치에이 비에르즈보프스키 (<a href="https://ko.wikipedia.org/wiki/폴란드_축구_협회" title="wikilink">폴란드</a>)<br />
 프레데리크 아르놀 (<a href="https://ko.wikipedia.org/wiki/프랑스_축구_협회" title="wikilink">프랑스</a>)<br />
 <strong>대기심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/루쥔" title="wikilink">루쥔</a> (<a href="https://ko.wikipedia.org/wiki/중국_축구_협회" title="wikilink">중국</a>)</p></td>
+<a href="https://ko.wikipedia.org/wiki/루쥔" title="wikilink">루쥔</a> (<a href="../Page/중국_축구_협회.md" title="wikilink">중국</a>)</p></td>
 </tr>
 </tbody>
 </table>

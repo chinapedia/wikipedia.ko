@@ -10,7 +10,7 @@
 ## 역대 성적
 
   - [슈퍼리그 그리스](https://ko.wikipedia.org/wiki/슈퍼리그_그리스 "wikilink") 3위 (1961-62), 2위 (1937-38, 1947-48)
-  - [그리스 컵](https://ko.wikipedia.org/wiki/그리스_컵 "wikilink") 2위 (1995-96)
+  - [그리스 컵](../Page/그리스_컵.md "wikilink") 2위 (1995-96)
   - [UEFA컵](https://ko.wikipedia.org/wiki/UEFA컵 "wikilink") 1라운드 (1995-96)
 
 ## 현재 선수 명단

@@ -41,8 +41,8 @@
 | [2013년](https://ko.wikipedia.org/wiki/2013년_한국프로야구 "wikilink") | [찰리](https://ko.wikipedia.org/wiki/찰스_쉬렉 "wikilink")              | [NC 다이노스](https://ko.wikipedia.org/wiki/NC_다이노스 "wikilink")   | 2.48 |                        |
 | [2014년](https://ko.wikipedia.org/wiki/2014년_한국프로야구 "wikilink") | [밴덴헐크](https://ko.wikipedia.org/wiki/릭_반덴허크 "wikilink")           | [삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink")   | 3.18 | 평균자책점상 수상자 중 최고 평균자책점  |
 | [2015년](https://ko.wikipedia.org/wiki/2015년_KBO_리그 "wikilink") | [양현종](https://ko.wikipedia.org/wiki/양현종 "wikilink")               | [KIA 타이거즈](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink") | 2.44 |                        |
-| [2016년](https://ko.wikipedia.org/wiki/2016년_KBO_리그 "wikilink") | [니퍼트](https://ko.wikipedia.org/wiki/더스틴_니퍼트 "wikilink")           | [두산 베어스](https://ko.wikipedia.org/wiki/두산_베어스 "wikilink")     | 2.95 |                        |
-| [2017년](https://ko.wikipedia.org/wiki/2017년_KBO_리그 "wikilink") | [피어밴드](https://ko.wikipedia.org/wiki/라이언_피어밴드 "wikilink")         | [kt 위즈](https://ko.wikipedia.org/wiki/kt_위즈 "wikilink")       | 3.04 |                        |
+| [2016년](../Page/2016년_KBO_리그.md "wikilink")                    | [니퍼트](https://ko.wikipedia.org/wiki/더스틴_니퍼트 "wikilink")           | [두산 베어스](https://ko.wikipedia.org/wiki/두산_베어스 "wikilink")     | 2.95 |                        |
+| [2017년](../Page/2017년_KBO_리그.md "wikilink")                    | [피어밴드](../Page/라이언_피어밴드.md "wikilink")                            | [kt 위즈](https://ko.wikipedia.org/wiki/kt_위즈 "wikilink")       | 3.04 |                        |
 | [2018년](https://ko.wikipedia.org/wiki/2018년_KBO_리그 "wikilink") | [린드블럼](../Page/조쉬_린드블럼.md "wikilink")                             | [두산 베어스](https://ko.wikipedia.org/wiki/두산_베어스 "wikilink")     | 2.88 |                        |
 | [2019년](https://ko.wikipedia.org/wiki/2019년_KBO_리그 "wikilink") | [양현종](https://ko.wikipedia.org/wiki/양현종 "wikilink")               | [KIA 타이거즈](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink") | 2.29 |                        |
 

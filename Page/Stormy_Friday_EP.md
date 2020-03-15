@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Stormy Friday EP](https://ko.wikipedia.org/wiki/Stormy_Friday_EP).
 
 
-[Stormy Friday EP는](https://ko.wikipedia.org/wiki/Stormy_Friday_EP "wikilink") [The Quiett이](https://ko.wikipedia.org/wiki/The_Quiett "wikilink") 발표한 EP 앨범으로, 2011년 11월 23일 온라인으로 무료 발표되었다.
+[Stormy Friday EP는](../Page/Stormy_Friday_EP.md "wikilink") [The Quiett이](https://ko.wikipedia.org/wiki/The_Quiett "wikilink") 발표한 EP 앨범으로, 2011년 11월 23일 온라인으로 무료 발표되었다.
 
 [The Quiett이](https://ko.wikipedia.org/wiki/The_Quiett "wikilink") 자신의 삶에 관한 깊은 이야기를 고백하듯이 담은 것이 인상적인 앨범이며, [The Quiett의](https://ko.wikipedia.org/wiki/The_Quiett "wikilink") 여러 앨범들 가운데 가장 깊이있는 가사들을 담은 앨범이라고도 볼 수 있다.
 

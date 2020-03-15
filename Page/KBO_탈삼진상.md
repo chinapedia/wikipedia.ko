@@ -43,8 +43,8 @@
 | [2013년](https://ko.wikipedia.org/wiki/2013년_한국프로야구 "wikilink") | [리즈](https://ko.wikipedia.org/wiki/레다메스_리즈 "wikilink")           | [LG 트윈스](https://ko.wikipedia.org/wiki/LG_트윈스 "wikilink")     | 188 |              |
 | [2014년](https://ko.wikipedia.org/wiki/2014년_한국프로야구 "wikilink") | [밴덴헐크](https://ko.wikipedia.org/wiki/릭_판_덴_휘르크 "wikilink")       | [삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink")   | 180 |              |
 | [2015년](https://ko.wikipedia.org/wiki/2015년_KBO_리그 "wikilink") | [차우찬](https://ko.wikipedia.org/wiki/차우찬 "wikilink")              | [삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink")   | 194 |              |
-| [2016년](https://ko.wikipedia.org/wiki/2016년_KBO_리그 "wikilink") | [보우덴](https://ko.wikipedia.org/wiki/마이클_보우덴 "wikilink")          | [두산 베어스](https://ko.wikipedia.org/wiki/두산_베어스 "wikilink")     | 160 |              |
-| [2017년](https://ko.wikipedia.org/wiki/2017년_KBO_리그 "wikilink") | [켈리](https://ko.wikipedia.org/wiki/메릴_켈리 "wikilink")             | [SK 와이번스](https://ko.wikipedia.org/wiki/SK_와이번스 "wikilink")   | 189 |              |
+| [2016년](../Page/2016년_KBO_리그.md "wikilink")                    | [보우덴](../Page/마이클_보우덴.md "wikilink")                             | [두산 베어스](https://ko.wikipedia.org/wiki/두산_베어스 "wikilink")     | 160 |              |
+| [2017년](../Page/2017년_KBO_리그.md "wikilink")                    | [켈리](../Page/메릴_켈리.md "wikilink")                                | [SK 와이번스](https://ko.wikipedia.org/wiki/SK_와이번스 "wikilink")   | 189 |              |
 | [2018년](https://ko.wikipedia.org/wiki/2018년_KBO_리그 "wikilink") | [샘슨](https://ko.wikipedia.org/wiki/키버스_샘슨 "wikilink")            | [한화 이글스](https://ko.wikipedia.org/wiki/한화_이글스 "wikilink")     | 195 |              |
 | [2019년](https://ko.wikipedia.org/wiki/2019년_KBO_리그 "wikilink") | [린드블럼](../Page/조쉬_린드블럼.md "wikilink")                            | [두산 베어스](https://ko.wikipedia.org/wiki/두산_베어스 "wikilink")     | 189 |              |
 

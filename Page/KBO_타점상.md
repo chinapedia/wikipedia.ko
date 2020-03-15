@@ -41,8 +41,8 @@
 | [2013년](https://ko.wikipedia.org/wiki/2013년_한국프로야구 "wikilink") | 117                                                           |                                                               |     |            |
 | [2014년](https://ko.wikipedia.org/wiki/2014년_한국프로야구 "wikilink") | 124                                                           |                                                               |     |            |
 | [2015년](https://ko.wikipedia.org/wiki/2015년_KBO_리그 "wikilink") | **146**                                                       | 단일 시즌 최다 타점, 최초 4시즌 연속 타점왕, 최초 홈런왕+타점왕 4년 연속 석권               |     |            |
-| [2016년](https://ko.wikipedia.org/wiki/2016년_KBO_리그 "wikilink") | [최형우](https://ko.wikipedia.org/wiki/최형우_\(야구_선수\) "wikilink") | [삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink")   | 144 |            |
-| [2017년](https://ko.wikipedia.org/wiki/2017년_KBO_리그 "wikilink") | [러프](https://ko.wikipedia.org/wiki/다린_러프 "wikilink")          | 124                                                           |     |            |
+| [2016년](../Page/2016년_KBO_리그.md "wikilink")                    | [최형우](https://ko.wikipedia.org/wiki/최형우_\(야구_선수\) "wikilink") | [삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink")   | 144 |            |
+| [2017년](../Page/2017년_KBO_리그.md "wikilink")                    | [러프](https://ko.wikipedia.org/wiki/다린_러프 "wikilink")          | 124                                                           |     |            |
 | [2018년](https://ko.wikipedia.org/wiki/2018년_KBO_리그 "wikilink") | [김재환](https://ko.wikipedia.org/wiki/김재환_\(야구_선수\) "wikilink") | [두산 베어스](https://ko.wikipedia.org/wiki/두산_베어스 "wikilink")     | 133 |            |
 | [2019년](https://ko.wikipedia.org/wiki/2019년_KBO_리그 "wikilink") | [샌즈](https://ko.wikipedia.org/wiki/제리_샌즈 "wikilink")          | [키움 히어로즈](https://ko.wikipedia.org/wiki/키움_히어로즈 "wikilink")   | 113 |            |
 

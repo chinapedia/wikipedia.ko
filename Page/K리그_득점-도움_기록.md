@@ -959,7 +959,7 @@
 </tr>
 <tr class="even">
 <td><p>48</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/세자르_페르난두_시우바_멜로" title="wikilink">세징야</a></p></td>
+<td><p><a href="../Page/세자르_페르난두_시우바_멜로.md" title="wikilink">세징야</a></p></td>
 <td><p>2019-05-19</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/대구_FC" title="wikilink">대구 FC</a></p></td>
 <td><p>98</p></td>
@@ -979,7 +979,7 @@
 </tr>
 <tr class="even">
 <td><p>50</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/히카르두_로페스" title="wikilink">로페즈</a></p></td>
+<td><p><a href="../Page/히카르두_로페스.md" title="wikilink">로페즈</a></p></td>
 <td><p>2019-07-07</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/전북_현대_모터스" title="wikilink">전북 현대 모터스</a></p></td>
 <td><p>138</p></td>
@@ -1219,7 +1219,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_클래식_2015" title="wikilink">2015</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/히카르두_로페스" title="wikilink">로페즈</a></p></td>
+<td><p><a href="../Page/히카르두_로페스.md" title="wikilink">로페즈</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/제주_유나이티드_FC" title="wikilink">제주 유나이티드</a></p></td>
 <td><p>11 - 11 (33경기)</p></td>
 <td><p>11 - 11 (33경기)</p></td>
@@ -1235,7 +1235,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그1_2019" title="wikilink">2019</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/세자르_페르난두_시우바_멜로" title="wikilink">세지냐</a></p></td>
+<td><p><a href="../Page/세자르_페르난두_시우바_멜로.md" title="wikilink">세지냐</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/대구_FC" title="wikilink">대구 FC</a></p></td>
 <td><p>15 - 10 (35경기)</p></td>
 <td><p>15 - 10 (35경기)</p></td>
@@ -1243,7 +1243,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그1_2019" title="wikilink">2019</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/문선민" title="wikilink">문선민</a></p></td>
+<td><p><a href="../Page/문선민.md" title="wikilink">문선민</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/전북_현대_모터스_FC" title="wikilink">전북 현대 모터스</a></p></td>
 <td><p>10 - 10 (32경기)</p></td>
 <td><p>10 - 10 (32경기)</p></td>

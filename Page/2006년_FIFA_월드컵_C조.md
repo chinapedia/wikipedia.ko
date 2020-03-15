@@ -165,7 +165,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/앙리_미셸" title="wikilink">앙리 미셸</a></p></td>
+<td><p><a href="../Page/앙리_미셸.md" title="wikilink">앙리 미셸</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -708,7 +708,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/앙리_미셸" title="wikilink">앙리 미셸</a></p></td>
+<td><p><a href="../Page/앙리_미셸.md" title="wikilink">앙리 미셸</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -991,7 +991,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/앙리_미셸" title="wikilink">앙리 미셸</a></p></td>
+<td><p><a href="../Page/앙리_미셸.md" title="wikilink">앙리 미셸</a></p></td>
 <td></td>
 </tr>
 </tbody>

@@ -367,7 +367,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/라르스_라예르베크" title="wikilink">라르스 라예르베크</a><br />
+<td><p><a href="../Page/라르스_라예르베크.md" title="wikilink">라르스 라예르베크</a><br />
 <a href="https://ko.wikipedia.org/wiki/토미_쇠데르베리" title="wikilink">토미 쇠데르베리</a></p></td>
 <td></td>
 </tr>
@@ -468,7 +468,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/라르스_라예르베크" title="wikilink">라르스 라예르베크</a><br />
+<td><p><a href="../Page/라르스_라예르베크.md" title="wikilink">라르스 라예르베크</a><br />
 <a href="https://ko.wikipedia.org/wiki/토미_쇠더베리" title="wikilink">토미 쇠더베리</a></p></td>
 <td></td>
 </tr>
@@ -819,7 +819,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/라르스_라예르베크" title="wikilink">라르스 라예르베크</a><br />
+<td><p><a href="../Page/라르스_라예르베크.md" title="wikilink">라르스 라예르베크</a><br />
 <a href="https://ko.wikipedia.org/wiki/토미_쇠데르베리" title="wikilink">토미 쇠데르베리</a></p></td>
 <td></td>
 </tr>

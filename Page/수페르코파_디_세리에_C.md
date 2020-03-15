@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [   C](https://ko.wikipedia.org/wiki/___C).
 
 
-**수페르코파 디 세리에 C**(Supercoppa di Serie C, 과거 **수페르코파 디 레가 프로**)는 [세리에 C](https://ko.wikipedia.org/wiki/세리에_C "wikilink") 세 조의 우승 팀이 치르는 [이탈리아](https://ko.wikipedia.org/wiki/이탈리아 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 대회이다. 1999-2000 시즌부터 치러지고 있다.
+**수페르코파 디 세리에 C**(Supercoppa di Serie C, 과거 **수페르코파 디 레가 프로**)는 [세리에 C](../Page/세리에_C.md "wikilink") 세 조의 우승 팀이 치르는 [이탈리아](https://ko.wikipedia.org/wiki/이탈리아 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 대회이다. 1999-2000 시즌부터 치러지고 있다.
 
 ## 과거 우승 팀
 
@@ -77,7 +77,7 @@
 <td><p><strong>1 - 0</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/AS_리보르노_칼초" title="wikilink">리보르노</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/스타디오_치노_에_릴로_델_두카" title="wikilink">스타디오 델 두카</a>,<br />
-<a href="https://ko.wikipedia.org/wiki/아스콜리피체노" title="wikilink">아스콜리피체노</a></p></td>
+<a href="../Page/아스콜리피체노.md" title="wikilink">아스콜리피체노</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/AS_리보르노_칼초" title="wikilink">리보르노</a></strong></p></td>
@@ -199,7 +199,7 @@
 <td><p><strong>1 - 0</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/라벤나_칼초" title="wikilink">라벤나</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/스타디오_카를로_체키니" title="wikilink">스타디오 카를로 체키니</a>,<br />
-<a href="https://ko.wikipedia.org/wiki/그로세토" title="wikilink">그로세토</a></p></td>
+<a href="../Page/그로세토.md" title="wikilink">그로세토</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -282,12 +282,12 @@
 <td><p>2010/11</p></td>
 <td><p><a href="../Page/AS_구비오_1910.md" title="wikilink">구비오</a></p></td>
 <td><p><strong>1 - 1</strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/ASG_노체리나" title="wikilink">노체리나</a></p></td>
+<td><p><a href="../Page/ASG_노체리나.md" title="wikilink">노체리나</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/스타디오_피에트로_바르베티" title="wikilink">스타디오 피에트로 바르베티</a>,<br />
 <a href="../Page/구비오.md" title="wikilink">구비오</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/ASG_노체리나" title="wikilink">노체리나</a></strong></p></td>
+<td><p><strong><a href="../Page/ASG_노체리나.md" title="wikilink">노체리나</a></strong></p></td>
 <td><p><strong>1 - 0</strong></p></td>
 <td><p><a href="../Page/AS_구비오_1910.md" title="wikilink">구비오</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/스타디오_산_프란체스코" title="wikilink">스타디오 산 프란체스코</a>,<br />
@@ -295,7 +295,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/ASG_노체리나" title="wikilink">노체리나</a></strong> (조르네 B)가 합계 2-1로 우승하였다.</p></td>
+<td><p><strong><a href="../Page/ASG_노체리나.md" title="wikilink">노체리나</a></strong> (조르네 B)가 합계 2-1로 우승하였다.</p></td>
 <td><p> </p></td>
 <td></td>
 <td></td>

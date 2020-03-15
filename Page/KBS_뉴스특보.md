@@ -18,8 +18,8 @@
 
 ## 경쟁 프로그램
 
-  - [MBC 뉴스특보](https://ko.wikipedia.org/wiki/MBC_뉴스특보 "wikilink") ([MBC TV](https://ko.wikipedia.org/wiki/MBC_TV "wikilink"))
-  - [SBS 뉴스특보](https://ko.wikipedia.org/wiki/SBS_뉴스특보 "wikilink") ([SBS TV](https://ko.wikipedia.org/wiki/SBS_TV "wikilink"))
+  - [MBC 뉴스특보](../Page/MBC_뉴스특보.md "wikilink") ([MBC TV](https://ko.wikipedia.org/wiki/MBC_TV "wikilink"))
+  - [SBS 뉴스특보](../Page/SBS_뉴스특보.md "wikilink") ([SBS TV](https://ko.wikipedia.org/wiki/SBS_TV "wikilink"))
   - [JTBC 뉴스특보](https://ko.wikipedia.org/wiki/JTBC_뉴스특보 "wikilink") ([JTBC](https://ko.wikipedia.org/wiki/JTBC "wikilink"))
 
 ## 그 외 [KBS 뉴스 프로그램](https://ko.wikipedia.org/wiki/한국방송공사의_뉴스_프로그램 "wikilink")

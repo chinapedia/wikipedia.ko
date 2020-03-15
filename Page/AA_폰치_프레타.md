@@ -3,7 +3,7 @@
 
 **AA 폰치 프레타**()은 [상파울루주](https://ko.wikipedia.org/wiki/상파울루주 "wikilink") [캄피나스](https://ko.wikipedia.org/wiki/캄피나스 "wikilink")를 연고로 하는 축구 클럽이다. 폰치 프레타의 뜻은 [포르투갈어](https://ko.wikipedia.org/wiki/포르투갈어 "wikilink")로, "검은 다리"라는 뜻이다. 이 클럽은 *마카카*(Macaca, 암컷 원숭이)라는 별칭으로 불리기도 한다. 폰치 프레타는 [1900년](https://ko.wikipedia.org/wiki/1900년 "wikilink") [8월 11일에](https://ko.wikipedia.org/wiki/8월_11일 "wikilink") 창단되었으며, 이는 [브라질](https://ko.wikipedia.org/wiki/브라질 "wikilink")에서 두번째로 오래된 축구단이다. 가장 오래된 구단은 [스포르트 클루브 히우 그란지이다](https://ko.wikipedia.org/wiki/스포르트_클루브_히우_그란지 "wikilink").
 
-폰치 프레타의 서포터는 "폰치프레타누스"라 불린다. 또한 폰치 프레타는 같은 연고지를 공유하는 [구아라니 FC와](https://ko.wikipedia.org/wiki/구아라니_FC "wikilink") 라이벌 관계를 가지고 있다.
+폰치 프레타의 서포터는 "폰치프레타누스"라 불린다. 또한 폰치 프레타는 같은 연고지를 공유하는 [구아라니 FC와](../Page/구아라니_FC.md "wikilink") 라이벌 관계를 가지고 있다.
 
 ## 역사
 

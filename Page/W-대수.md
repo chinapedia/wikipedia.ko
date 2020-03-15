@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [W-](https://ko.wikipedia.org/wiki/W-).
 
 
-[수학](https://ko.wikipedia.org/wiki/수학 "wikilink")과 [등각 장론에서](https://ko.wikipedia.org/wiki/등각_장론 "wikilink"), **W-대수**(W-代數, )는 [2차원 등각 장론의](https://ko.wikipedia.org/wiki/2차원_등각_장론 "wikilink") 무질량 고차 스핀 정칙장에 의해 생성되는 대칭이다.\[1\]\[2\]\[3\] [비라소로 대수를](https://ko.wikipedia.org/wiki/비라소로_대수 "wikilink") 일반화한다.
+[수학](https://ko.wikipedia.org/wiki/수학 "wikilink")과 [등각 장론에서](https://ko.wikipedia.org/wiki/등각_장론 "wikilink"), **W-대수**(W-代數, )는 [2차원 등각 장론의](https://ko.wikipedia.org/wiki/2차원_등각_장론 "wikilink") 무질량 고차 스핀 정칙장에 의해 생성되는 대칭이다.\[1\]\[2\]\[3\] [비라소로 대수를](../Page/비라소로_대수.md "wikilink") 일반화한다.
 
 ## 정의
 
 ### 스핀 2
 
-스핀 2의 W-대수 \(W_2\)는 **[비라소로 대수](https://ko.wikipedia.org/wiki/비라소로_대수 "wikilink")**라고 한다. 이는 스핀 2의 정칙 1차장 \(T(z)\)에 의해 생성되며, 비라소로 대수를 정의하는 [연산자 곱 전개는](https://ko.wikipedia.org/wiki/연산자_곱_전개 "wikilink") 다음과 같다.
+스핀 2의 W-대수 \(W_2\)는 **[비라소로 대수](../Page/비라소로_대수.md "wikilink")**라고 한다. 이는 스핀 2의 정칙 1차장 \(T(z)\)에 의해 생성되며, 비라소로 대수를 정의하는 [연산자 곱 전개는](https://ko.wikipedia.org/wiki/연산자_곱_전개 "wikilink") 다음과 같다.
 
 \[T(z+w)T(w)=z^{-1}\partial T(w)+2z^{-2}T(w)+\frac12cz^{-4}\] 여기서 \(c\)는 비라소로 대수의 중심 원소이다. 이를 수로 간주하면, 이는 등각 장론의 중심 전하가 된다.
 

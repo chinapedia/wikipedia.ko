@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [C-](https://ko.wikipedia.org/wiki/C-).
 
 
-[양자장론](https://ko.wikipedia.org/wiki/양자장론 "wikilink")에서, **c-정리**(c-定理, )는 2차원 [양자장론](https://ko.wikipedia.org/wiki/양자장론 "wikilink")들의 공간 위에서, 양자장론의 [자유도](https://ko.wikipedia.org/wiki/자유도 "wikilink")의 수를 나타내고, [재규격화군](https://ko.wikipedia.org/wiki/재규격화군 "wikilink") 흐름에 따라서 단조적으로 감소하는 함수 *c*가 존재한다는 정리다. 이는 재규격화군에 따라 높은 에너지의 물리가 잊혀지므로 그에 따라 자유도가 감소하는 것으로 해석할 수 있다. [재규격화군](https://ko.wikipedia.org/wiki/재규격화군 "wikilink")의 고정점에서, *c*는 [등각 장론의](https://ko.wikipedia.org/wiki/등각_장론 "wikilink") [비라소로 대수의](https://ko.wikipedia.org/wiki/비라소로_대수 "wikilink") 중심 전하가 된다.
+[양자장론](https://ko.wikipedia.org/wiki/양자장론 "wikilink")에서, **c-정리**(c-定理, )는 2차원 [양자장론](https://ko.wikipedia.org/wiki/양자장론 "wikilink")들의 공간 위에서, 양자장론의 [자유도](https://ko.wikipedia.org/wiki/자유도 "wikilink")의 수를 나타내고, [재규격화군](https://ko.wikipedia.org/wiki/재규격화군 "wikilink") 흐름에 따라서 단조적으로 감소하는 함수 *c*가 존재한다는 정리다. 이는 재규격화군에 따라 높은 에너지의 물리가 잊혀지므로 그에 따라 자유도가 감소하는 것으로 해석할 수 있다. [재규격화군](https://ko.wikipedia.org/wiki/재규격화군 "wikilink")의 고정점에서, *c*는 [등각 장론의](https://ko.wikipedia.org/wiki/등각_장론 "wikilink") [비라소로 대수의](../Page/비라소로_대수.md "wikilink") 중심 전하가 된다.
 
 ## 정의
 
@@ -42,8 +42,8 @@
 ***c*-정리**에 따르면, 모든 재규격화 가능한 2차원 양자장론에 대하여 다음과 같은 함수 \(c\colon\mathcal G\to[0,\infty)\)가 존재한다.
 
   - (단조성) \(c(\hat g(\mu))\)는 \(\mu\)에 대한 증가함수이다.
-  - (고정점에서의 등각 대칭) [재규격화군](https://ko.wikipedia.org/wiki/재규격화군 "wikilink")의 고정점 (\(\beta^i\)의 영점) \(g_0\in\mathcal G\)에서, 이론은 2차원 [비라소로 대수를](https://ko.wikipedia.org/wiki/비라소로_대수 "wikilink") 대칭으로 가진다. (즉, 단순한 축척 대칭 말고도, 모든 2차원 [등각 대칭에](../Page/등각_대칭.md "wikilink") 대하여 불변이다.)
-  - (등각 중심 전하와의 일치) 재규격화군의 고정점 \(g_0\)에서, \(c(g_0)\)는 이에 대응하는 2차원 [등각 장론의](https://ko.wikipedia.org/wiki/등각_장론 "wikilink") [비라소로 대수의](https://ko.wikipedia.org/wiki/비라소로_대수 "wikilink") 중심 전하 *c*와 일치한다.
+  - (고정점에서의 등각 대칭) [재규격화군](https://ko.wikipedia.org/wiki/재규격화군 "wikilink")의 고정점 (\(\beta^i\)의 영점) \(g_0\in\mathcal G\)에서, 이론은 2차원 [비라소로 대수를](../Page/비라소로_대수.md "wikilink") 대칭으로 가진다. (즉, 단순한 축척 대칭 말고도, 모든 2차원 [등각 대칭에](../Page/등각_대칭.md "wikilink") 대하여 불변이다.)
+  - (등각 중심 전하와의 일치) 재규격화군의 고정점 \(g_0\)에서, \(c(g_0)\)는 이에 대응하는 2차원 [등각 장론의](https://ko.wikipedia.org/wiki/등각_장론 "wikilink") [비라소로 대수의](../Page/비라소로_대수.md "wikilink") 중심 전하 *c*와 일치한다.
 
 ## *c*의 정의
 

@@ -5,10 +5,10 @@
 
 ## 팀 구성
 
-| 소속   | Brand New Music                                                                                                         | YDG                                                                                                                                                                         | 1llionaire Records                                                                                                | YG                                                                                                                                                                |
-| ---- | ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 프로듀서 | [스윙스](https://ko.wikipedia.org/wiki/스윙스 "wikilink"), [산이](https://ko.wikipedia.org/wiki/산이 "wikilink")                  | [양동근](https://ko.wikipedia.org/wiki/양동근 "wikilink")                                                                                                                         | [도끼](https://ko.wikipedia.org/wiki/도끼_\(가수\) "wikilink"), [더 콰이엇](https://ko.wikipedia.org/wiki/더_콰이엇 "wikilink") | [타블로](https://ko.wikipedia.org/wiki/타블로 "wikilink"), [마스타 우](https://ko.wikipedia.org/wiki/마스타_우 "wikilink")                                                      |
-| 참가자  | [바스코](https://ko.wikipedia.org/wiki/바스코_\(래퍼\) "wikilink"), [씨잼](https://ko.wikipedia.org/wiki/씨잼 "wikilink"), 부현석, 성장군 | [아이언](https://ko.wikipedia.org/wiki/아이언_\(가수\) "wikilink"), [기리보이](https://ko.wikipedia.org/wiki/기리보이 "wikilink"), 한상엽, [정상수](https://ko.wikipedia.org/wiki/정상수 "wikilink") | [BOBBY](https://ko.wikipedia.org/wiki/BOBBY "wikilink"), 차메인, TOY, 박평안                                            | [올티](https://ko.wikipedia.org/wiki/올티 "wikilink"), [육지담](https://ko.wikipedia.org/wiki/육지담 "wikilink"), 스내키챈, [B.I](https://ko.wikipedia.org/wiki/B.I "wikilink") |
+| 소속   | Brand New Music                                                                                        | YDG                                                                                                                | 1llionaire Records                                                                                                | YG                                                                                                                                             |
+| ---- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 프로듀서 | [스윙스](https://ko.wikipedia.org/wiki/스윙스 "wikilink"), [산이](https://ko.wikipedia.org/wiki/산이 "wikilink") | [양동근](https://ko.wikipedia.org/wiki/양동근 "wikilink")                                                                | [도끼](https://ko.wikipedia.org/wiki/도끼_\(가수\) "wikilink"), [더 콰이엇](https://ko.wikipedia.org/wiki/더_콰이엇 "wikilink") | [타블로](https://ko.wikipedia.org/wiki/타블로 "wikilink"), [마스타 우](https://ko.wikipedia.org/wiki/마스타_우 "wikilink")                                   |
+| 참가자  | [바스코](https://ko.wikipedia.org/wiki/바스코_\(래퍼\) "wikilink"), [씨잼](../Page/씨잼.md "wikilink"), 부현석, 성장군   | [아이언](../Page/아이언_\(가수\).md "wikilink"), [기리보이](../Page/기리보이.md "wikilink"), 한상엽, [정상수](../Page/정상수.md "wikilink") | [BOBBY](../Page/BOBBY.md "wikilink"), 차메인, TOY, 박평안                                                               | [올티](https://ko.wikipedia.org/wiki/올티 "wikilink"), [육지담](../Page/육지담.md "wikilink"), 스내키챈, [B.I](https://ko.wikipedia.org/wiki/B.I "wikilink") |
 
 ## 회차별 탈락
 
@@ -52,9 +52,9 @@
 
 ## 결과
 
-  - 우승: [BOBBY](https://ko.wikipedia.org/wiki/BOBBY "wikilink")
-  - 준우승: [아이언](https://ko.wikipedia.org/wiki/아이언_\(가수\) "wikilink")
-  - 4강: [바스코](https://ko.wikipedia.org/wiki/바스코 "wikilink"), [씨잼](https://ko.wikipedia.org/wiki/씨잼 "wikilink")
+  - 우승: [BOBBY](../Page/BOBBY.md "wikilink")
+  - 준우승: [아이언](../Page/아이언_\(가수\).md "wikilink")
+  - 4강: [바스코](https://ko.wikipedia.org/wiki/바스코 "wikilink"), [씨잼](../Page/씨잼.md "wikilink")
 
 ## 외부 링크
 

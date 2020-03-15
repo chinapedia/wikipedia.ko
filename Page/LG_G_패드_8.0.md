@@ -53,6 +53,6 @@ G시리즈 폰과 자동 연동되는 메모
   - [LG G3](https://ko.wikipedia.org/wiki/LG_G3 "wikilink")
   - [LG G 패드 8.3](../Page/LG_G_패드_8.3.md "wikilink")
   - [LG G 패드 7.0](../Page/LG_G_패드_7.0.md "wikilink")
-  - [LG G 패드 10.1](https://ko.wikipedia.org/wiki/LG_G_패드_10.1 "wikilink")
+  - [LG G 패드 10.1](../Page/LG_G_패드_10.1.md "wikilink")
 
 [G패드 8.0](https://ko.wikipedia.org/wiki/분류:LG전자_제품 "wikilink") [분류:2014년 출시](https://ko.wikipedia.org/wiki/분류:2014년_출시 "wikilink") [분류:안드로이드 장치](https://ko.wikipedia.org/wiki/분류:안드로이드_장치 "wikilink") [분류:태블릿 컴퓨터](https://ko.wikipedia.org/wiki/분류:태블릿_컴퓨터 "wikilink")

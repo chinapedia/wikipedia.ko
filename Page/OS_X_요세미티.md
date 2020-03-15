@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [OS X ](https://ko.wikipedia.org/wiki/OS_X_).
 
 
-**OS X 요세미티**(OS X Yosemite, 버전 10.10)는 [애플의](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 11번째 [OS X](https://ko.wikipedia.org/wiki/OS_X "wikilink") 운영 체제이다. [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [6월 2일에](https://ko.wikipedia.org/wiki/6월_2일 "wikilink") [애플 세계 개발자 회의에서](https://ko.wikipedia.org/wiki/애플_세계_개발자_회의 "wikilink") 발표되었으며, 같은 해 [10월 16일에](https://ko.wikipedia.org/wiki/10월_16일 "wikilink") 정식 출시되었다. 버전 이름은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [캘리포니아주](https://ko.wikipedia.org/wiki/캘리포니아주 "wikilink")에 있는 [요세미티 국립공원에서](https://ko.wikipedia.org/wiki/요세미티_국립공원 "wikilink") 유래되었다. 후속 버전은 [OS X 엘카피탠이며](https://ko.wikipedia.org/wiki/OS_X_엘카피탠 "wikilink"), 이전 버전은 [OS X 매버릭스이다](../Page/OS_X_매버릭스.md "wikilink").
+**OS X 요세미티**(OS X Yosemite, 버전 10.10)는 [애플의](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 11번째 [OS X](https://ko.wikipedia.org/wiki/OS_X "wikilink") 운영 체제이다. [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [6월 2일에](https://ko.wikipedia.org/wiki/6월_2일 "wikilink") [애플 세계 개발자 회의에서](https://ko.wikipedia.org/wiki/애플_세계_개발자_회의 "wikilink") 발표되었으며, 같은 해 [10월 16일에](https://ko.wikipedia.org/wiki/10월_16일 "wikilink") 정식 출시되었다. 버전 이름은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [캘리포니아주](https://ko.wikipedia.org/wiki/캘리포니아주 "wikilink")에 있는 [요세미티 국립공원에서](https://ko.wikipedia.org/wiki/요세미티_국립공원 "wikilink") 유래되었다. 후속 버전은 [OS X 엘카피탠이며](../Page/OS_X_엘카피탠.md "wikilink"), 이전 버전은 [OS X 매버릭스이다](../Page/OS_X_매버릭스.md "wikilink").
 
 ## 출시 역사
 

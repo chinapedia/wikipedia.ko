@@ -5,7 +5,7 @@
 
 앨범은 비평가들에게 매우 좋은 평가를 받았으며 발매 첫 주 54,000장의 판매고를 올리며 빌보드 200 차트에서 최고 6위를 기록하였다. 그것은 2010년 3월 20일자 주간 차트에서 앨범 데뷔 기록 중 4위에 해당하는 것이었다. 앨범은 캐나다 앨범 차트에서 15위로 데뷔하였다.
 
-앨범의 타이틀 싱글인 〈[Halfway Gone](https://ko.wikipedia.org/wiki/Halfway_Gone "wikilink")〉은 앨범보다 조금 앞선 2009년 10월 26일에 공개되었다. 싱글은 [빌보드 HOT 100 차트](https://ko.wikipedia.org/wiki/빌보드_핫_100 "wikilink"), [어덜트 컨템포러리](https://ko.wikipedia.org/wiki/어덜트_컨템포러리 "wikilink") 차트 등 여러 차트에 이름을 올렸다.
+앨범의 타이틀 싱글인 〈[Halfway Gone](../Page/Halfway_Gone.md "wikilink")〉은 앨범보다 조금 앞선 2009년 10월 26일에 공개되었다. 싱글은 [빌보드 HOT 100 차트](https://ko.wikipedia.org/wiki/빌보드_핫_100 "wikilink"), [어덜트 컨템포러리](https://ko.wikipedia.org/wiki/어덜트_컨템포러리 "wikilink") 차트 등 여러 차트에 이름을 올렸다.
 
 ## 배경
 

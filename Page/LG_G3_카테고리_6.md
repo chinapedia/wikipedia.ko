@@ -78,11 +78,11 @@ G3 캣6 (G3 Cat.6)는 2016년 1월 7일 [6.0 마시멜로으로](https://ko.wiki
   - [삼성 갤럭시 S5 광대역 LTE-A](../Page/삼성_갤럭시_S5.md "wikilink")
   - [삼성 갤럭시 노트 4](https://ko.wikipedia.org/wiki/삼성_갤럭시_노트_4 "wikilink")
   - [LG G3](https://ko.wikipedia.org/wiki/LG_G3 "wikilink")
-  - [LG G3 비트](https://ko.wikipedia.org/wiki/LG_G3_비트 "wikilink")
-  - [LG G3 A](https://ko.wikipedia.org/wiki/LG_G3_A "wikilink")
-  - [LG Gx2](https://ko.wikipedia.org/wiki/LG_Gx2 "wikilink")
-  - [LG G3 스크린](https://ko.wikipedia.org/wiki/LG_G3_스크린 "wikilink")
-  - [LG G4](https://ko.wikipedia.org/wiki/LG_G4 "wikilink")
+  - [LG G3 비트](../Page/LG_G3_비트.md "wikilink")
+  - [LG G3 A](../Page/LG_G3_A.md "wikilink")
+  - [LG Gx2](../Page/LG_Gx2.md "wikilink")
+  - [LG G3 스크린](../Page/LG_G3_스크린.md "wikilink")
+  - [LG G4](../Page/LG_G4.md "wikilink")
 
 ## 외부 링크
 

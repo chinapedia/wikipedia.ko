@@ -5,7 +5,7 @@
 
   - [씨엔블루](https://ko.wikipedia.org/wiki/씨엔블루 "wikilink") ([정용화](https://ko.wikipedia.org/wiki/정용화 "wikilink") {{·}} [이종현](https://ko.wikipedia.org/wiki/이종현_\(가수\) "wikilink") {{·}} [강민혁](https://ko.wikipedia.org/wiki/강민혁_\(가수\) "wikilink") {{·}} [이정신](https://ko.wikipedia.org/wiki/이정신 "wikilink"))
   - [AOA](https://ko.wikipedia.org/wiki/AOA_\(음악_그룹\) "wikilink") ([지민](../Page/지민_\(래퍼\).md "wikilink") {{·}} [유나](../Page/유나_\(1992년\).md "wikilink") {{·}} [유경](https://ko.wikipedia.org/wiki/유경_\(가수\) "wikilink") {{·}} [혜정](../Page/혜정.md "wikilink") {{·}} [설현](../Page/설현.md "wikilink") {{·}} [찬미](../Page/찬미_\(1996년\).md "wikilink"))
-  - [엔플라잉](https://ko.wikipedia.org/wiki/엔플라잉 "wikilink") ([이승협](https://ko.wikipedia.org/wiki/이승협 "wikilink") {{·}} [권광진](https://ko.wikipedia.org/wiki/권광진 "wikilink") {{·}} [차훈](https://ko.wikipedia.org/wiki/차훈 "wikilink") {{·}} [김재현](https://ko.wikipedia.org/wiki/김재현_\(가수\) "wikilink") {{·}} [유회승](https://ko.wikipedia.org/wiki/유회승 "wikilink"))
+  - [엔플라잉](../Page/엔플라잉.md "wikilink") ([이승협](https://ko.wikipedia.org/wiki/이승협 "wikilink") {{·}} [권광진](https://ko.wikipedia.org/wiki/권광진 "wikilink") {{·}} [차훈](https://ko.wikipedia.org/wiki/차훈 "wikilink") {{·}} [김재현](https://ko.wikipedia.org/wiki/김재현_\(가수\) "wikilink") {{·}} [유회승](https://ko.wikipedia.org/wiki/유회승 "wikilink"))
   - [SF9](https://ko.wikipedia.org/wiki/SF9 "wikilink") ([영빈](https://ko.wikipedia.org/wiki/영빈 "wikilink") {{·}} [인성](https://ko.wikipedia.org/wiki/인성_\(가수\) "wikilink") {{·}} [재윤](https://ko.wikipedia.org/wiki/재윤 "wikilink") {{·}} [다원](https://ko.wikipedia.org/wiki/다원_\(남자_가수\) "wikilink") {{·}} [로운](https://ko.wikipedia.org/wiki/로운 "wikilink") {{·}} [주호](https://ko.wikipedia.org/wiki/주호_\(가수\) "wikilink") {{·}} [태양](https://ko.wikipedia.org/wiki/태양_\(1997년\) "wikilink") {{·}} [휘영](https://ko.wikipedia.org/wiki/휘영 "wikilink") {{·}} [찬희](https://ko.wikipedia.org/wiki/찬희 "wikilink"))
   - [허니스트](https://ko.wikipedia.org/wiki/허니스트 "wikilink") (김철민 {{·}} 김환 {{·}} 서동성 {{·}} 오승석)
   - [체리블렛](https://ko.wikipedia.org/wiki/체리블렛 "wikilink") (해윤 {{·}} 유주 {{·}} 미래 {{·}} 보라 {{·}} 지원 {{·}} 코코로 {{·}} 레미 {{·}} 채린 {{·}} 린린 {{·}} 메이)
@@ -23,7 +23,7 @@
 
   - [주니엘](https://ko.wikipedia.org/wiki/주니엘 "wikilink")
   - [오원빈](https://ko.wikipedia.org/wiki/오원빈 "wikilink")
-  - [이노베이터](https://ko.wikipedia.org/wiki/이노베이터 "wikilink")
+  - [이노베이터](../Page/이노베이터.md "wikilink")
 
 }}
 

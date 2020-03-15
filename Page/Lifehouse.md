@@ -13,9 +13,9 @@
 
 <!-- end list -->
 
-  - [제이슨 웨이드 (Jason Wade)](https://ko.wikipedia.org/wiki/제이슨_웨이드 "wikilink") – [리드 보컬](https://ko.wikipedia.org/wiki/리드_보컬 "wikilink"), [리듬 기타](https://ko.wikipedia.org/wiki/리듬_기타 "wikilink"), 현악 편곡
-  - [릭 울스텐험(Rick Woolstenhulme Jr.)](https://ko.wikipedia.org/wiki/릭_울스텐험_주니어 "wikilink") – [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink"), [퍼커션](https://ko.wikipedia.org/wiki/타악기 "wikilink"), [피아노](https://ko.wikipedia.org/wiki/피아노 "wikilink")
-  - [브라이스 소더버그 (Bryce Soderberg)](https://ko.wikipedia.org/wiki/브라이스_소더버그 "wikilink") – [베이스 기타](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink"), [세컨 보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink")
+  - [제이슨 웨이드 (Jason Wade)](../Page/제이슨_웨이드.md "wikilink") – [리드 보컬](https://ko.wikipedia.org/wiki/리드_보컬 "wikilink"), [리듬 기타](https://ko.wikipedia.org/wiki/리듬_기타 "wikilink"), 현악 편곡
+  - [릭 울스텐험(Rick Woolstenhulme Jr.)](../Page/릭_울스텐험_주니어.md "wikilink") – [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink"), [퍼커션](https://ko.wikipedia.org/wiki/타악기 "wikilink"), [피아노](https://ko.wikipedia.org/wiki/피아노 "wikilink")
+  - [브라이스 소더버그 (Bryce Soderberg)](../Page/브라이스_소더버그.md "wikilink") – [베이스 기타](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink"), [세컨 보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink")
 
 <!-- end list -->
 

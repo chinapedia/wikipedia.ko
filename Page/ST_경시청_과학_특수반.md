@@ -289,7 +289,7 @@
 
   - 카부라기 토오루 - [유스케 산타마리아](https://ko.wikipedia.org/wiki/유스케_산타마리아 "wikilink")
   - 도지마 나오미 - 아다치 유미
-  - 도지마 츠바키 - [스즈키 리오](https://ko.wikipedia.org/wiki/스즈키_리오 "wikilink")
+  - 도지마 츠바키 - [스즈키 리오](../Page/스즈키_리오.md "wikilink")
 
 ### 스태프
 

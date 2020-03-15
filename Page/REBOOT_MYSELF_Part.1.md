@@ -36,7 +36,7 @@
 
 </dl>
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/이현섭" title="wikilink">이현섭</a> - 백 보컬(2~4)</li>
+<li><a href="../Page/이현섭.md" title="wikilink">이현섭</a> - 백 보컬(2~4)</li>
 <li><a href="https://ko.wikipedia.org/wiki/제이드_(음악가)" title="wikilink">제이드</a> - <a href="https://ko.wikipedia.org/wiki/베이스_기타" title="wikilink">베이스</a>(3, 4)</li>
 <li><a href="https://ko.wikipedia.org/wiki/지현수" title="wikilink">지현수</a> - 건반 악기(3, 4)</li>
 </ul>

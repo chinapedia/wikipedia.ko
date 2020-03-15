@@ -10,21 +10,21 @@
   - [허이재](https://ko.wikipedia.org/wiki/허이재 "wikilink") : 차은형 역
   - [김영호](https://ko.wikipedia.org/wiki/김영호_\(배우\) "wikilink") : 김하늘 역
   - [이영범](https://ko.wikipedia.org/wiki/이영범 "wikilink") : 류선재 역
-  - [정성일](https://ko.wikipedia.org/wiki/정성일_\(1980년\) "wikilink") : 하기상 역
+  - [정성일](../Page/정성일_\(1980년\).md "wikilink") : 하기상 역
   - [신민희](https://ko.wikipedia.org/wiki/신민희 "wikilink") : 오영애 역
   - [맹봉학](https://ko.wikipedia.org/wiki/맹봉학 "wikilink") : 서창만 역
   - [김리나](https://ko.wikipedia.org/wiki/김리나_\(1985년\) "wikilink") : 서향자 역
-  - [신귀식](https://ko.wikipedia.org/wiki/신귀식 "wikilink") : 박호 역
+  - [신귀식](../Page/신귀식.md "wikilink") : 박호 역
   - [최인숙](https://ko.wikipedia.org/wiki/최인숙 "wikilink") : 박화정 역
   - [신영진](https://ko.wikipedia.org/wiki/신영진 "wikilink") : 차민경 역
   - [장래현](https://ko.wikipedia.org/wiki/장래현 "wikilink") : 김선민 역
   - [황신정](https://ko.wikipedia.org/wiki/황신정 "wikilink") : 김신이 역
-  - [장소연](https://ko.wikipedia.org/wiki/장소연_\(배우\) "wikilink") : 유은혜 역
-  - [김화란](https://ko.wikipedia.org/wiki/김화란 "wikilink") : 미용실 원장 역
-  - [한영광](https://ko.wikipedia.org/wiki/한영광 "wikilink") : 변호사 역
+  - [장소연](../Page/장소연_\(배우\).md "wikilink") : 유은혜 역
+  - [김화란](../Page/김화란.md "wikilink") : 미용실 원장 역
+  - [한영광](../Page/한영광.md "wikilink") : 변호사 역
   - [유광연](https://ko.wikipedia.org/wiki/유광연 "wikilink") : 버스 훈남 역
   - [한나](https://ko.wikipedia.org/wiki/한나_\(배우\) "wikilink") : 간호사 역
-  - [김진호](https://ko.wikipedia.org/wiki/김진호_\(배우\) "wikilink") : 형사반장 역
+  - [김진호](../Page/김진호_\(배우\).md "wikilink") : 형사반장 역
 
 ## 외부 링크
 

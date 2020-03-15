@@ -12,9 +12,9 @@
 사후 많은 가수들이 그를 기념하기 위해 그의 노래를 리메이크해 부르기도 하거나, 아예 리메이크 앨범을 낸 경우도 있었다.
 
   - [시티 누르할리자의](../Page/시티_누르할리자.md "wikilink") 노래 <Bunga Melor> (2002년 앨범 <Sanggar Mustika>에 수록)
-  - [리자 하님의](https://ko.wikipedia.org/wiki/리자_하님 "wikilink") 노래 <Jeritan Batinku> (1997년 앨범 <Epilog>에 수록)
-  - [리자 하님의](https://ko.wikipedia.org/wiki/리자_하님 "wikilink") 정규 2집 <Dimana Kan Ku Cari Ganti> (1998년 앨범; 총 12곡 수록)
-  - [아이샤의](https://ko.wikipedia.org/wiki/아이샤_\(가수\) "wikilink") 노래 <Dimana Kan Ku Cari Ganti> (1991년 앨범 <Aishah II>에 수록)
+  - [리자 하님의](../Page/리자_하님.md "wikilink") 노래 <Jeritan Batinku> (1997년 앨범 <Epilog>에 수록)
+  - [리자 하님의](../Page/리자_하님.md "wikilink") 정규 2집 <Dimana Kan Ku Cari Ganti> (1998년 앨범; 총 12곡 수록)
+  - [아이샤의](../Page/아이샤_\(가수\).md "wikilink") 노래 <Dimana Kan Ku Cari Ganti> (1991년 앨범 <Aishah II>에 수록)
 
 #### 콘서트
 

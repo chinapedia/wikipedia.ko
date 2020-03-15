@@ -336,7 +336,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/라르스_라예르베크" title="wikilink">라르스 라예르베크</a></p></td>
+<td><p><a href="../Page/라르스_라예르베크.md" title="wikilink">라르스 라예르베크</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -619,7 +619,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/라르스_라예르베크" title="wikilink">라르스 라예르베크</a></p></td>
+<td><p><a href="../Page/라르스_라예르베크.md" title="wikilink">라르스 라예르베크</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -800,7 +800,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/라르스_라예르베크" title="wikilink">라르스 라예르베크</a></p></td>
+<td><p><a href="../Page/라르스_라예르베크.md" title="wikilink">라르스 라예르베크</a></p></td>
 <td></td>
 </tr>
 </tbody>

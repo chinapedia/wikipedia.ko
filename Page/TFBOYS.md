@@ -83,7 +83,7 @@ TFBOYS는 데뷔 당시 팬 수가 약 4,000만명이였으며 현재 팬 수는
 
 2곡은 매우 유사하기 때문에 두 곡의 비디오를 비교하고 온라인으로 공개하고있는 사람도 있다.\[8\]
 
-2016년 7월 4일 TFBOYS가 "미래의 진격 "을 발표,이 곡은 [미모리 스즈코와](https://ko.wikipedia.org/wiki/미모리_스즈코 "wikilink") [난죠 요시노의](https://ko.wikipedia.org/wiki/난죠_요시노 "wikilink")"[Storm in Lover](https://ko.wikipedia.org/wiki/Storm_in_Lover "wikilink")"와 비슷.\[9\]2곡의 비교 동영상도 인터넷에있는.\[10\]
+2016년 7월 4일 TFBOYS가 "미래의 진격 "을 발표,이 곡은 [미모리 스즈코와](../Page/미모리_스즈코.md "wikilink") [난죠 요시노의](https://ko.wikipedia.org/wiki/난죠_요시노 "wikilink")"[Storm in Lover](https://ko.wikipedia.org/wiki/Storm_in_Lover "wikilink")"와 비슷.\[9\]2곡의 비교 동영상도 인터넷에있는.\[10\]
 
 ## 각주
 

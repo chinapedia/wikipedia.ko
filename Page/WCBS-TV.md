@@ -34,7 +34,7 @@ WCBS-TV의 시작은 [1931년](https://ko.wikipedia.org/wiki/1931년 "wikilink")
 
 ## 자매 방송국
 
-  - [중파 방송](https://ko.wikipedia.org/wiki/중파_방송 "wikilink") : [WCBS (AM)](https://ko.wikipedia.org/wiki/WCBS_\(AM\) "wikilink"), [WFAN](https://ko.wikipedia.org/wiki/WFAN "wikilink"), [WINS](https://ko.wikipedia.org/wiki/WINS "wikilink")
+  - [중파 방송](https://ko.wikipedia.org/wiki/중파_방송 "wikilink") : [WCBS (AM)](../Page/WCBS_\(AM\).md "wikilink"), [WFAN](https://ko.wikipedia.org/wiki/WFAN "wikilink"), [WINS](https://ko.wikipedia.org/wiki/WINS "wikilink")
   - [FM 방송](../Page/FM_방송.md "wikilink") : [WCBS-FM](https://ko.wikipedia.org/wiki/WCBS-FM "wikilink"), [WFAN-FM](https://ko.wikipedia.org/wiki/WFAN-FM "wikilink"), [WBMP (FM)](https://ko.wikipedia.org/wiki/WBMP_\(FM\) "wikilink"), [WWFS](https://ko.wikipedia.org/wiki/WWFS "wikilink")
   - [텔레비전 방송](https://ko.wikipedia.org/wiki/텔레비전_방송국 "wikilink") : [WLNY-TV](https://ko.wikipedia.org/wiki/WLNY-TV "wikilink")
 

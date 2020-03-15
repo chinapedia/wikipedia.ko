@@ -894,7 +894,7 @@
 </tbody>
 </table>
 
-[섬네일에서](https://ko.wikipedia.org/wiki/파일:Manolo_WM_2006.jpg "wikilink") 촬영된 [큰 북의 마놀로](https://ko.wikipedia.org/wiki/큰_북의_마놀로 "wikilink") \]\]
+[섬네일에서](https://ko.wikipedia.org/wiki/파일:Manolo_WM_2006.jpg "wikilink") 촬영된 [큰 북의 마놀로](../Page/큰_북의_마놀로.md "wikilink") \]\]
 
 <table>
 <tbody>

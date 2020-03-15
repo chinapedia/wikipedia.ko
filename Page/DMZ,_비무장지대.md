@@ -36,7 +36,7 @@
   - 유인식 : 군중 목사 역
   - 조대영 : 정보과장 역
   - [박상현](https://ko.wikipedia.org/wiki/박상현 "wikilink") : 교관 역
-  - [공재원](https://ko.wikipedia.org/wiki/공재원 "wikilink") : 수색중대장 2 역
+  - [공재원](../Page/공재원.md "wikilink") : 수색중대장 2 역
   - [박정우](https://ko.wikipedia.org/wiki/박정우_\(배우\) "wikilink") : 수색중대장 3 역
   - 김왕도 : 김 병장 제대 사진팀 역
   - 리상규 : 김 병장 제대 사진팀 역

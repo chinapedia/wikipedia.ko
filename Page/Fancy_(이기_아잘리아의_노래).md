@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Fancy \(  \)](https://ko.wikipedia.org/wiki/Fancy_\(__\)).
 
 
-**"Fancy"**는 [호주](https://ko.wikipedia.org/wiki/호주 "wikilink") 출신의 여성 힙합 가수 [이기 아잘리아의](https://ko.wikipedia.org/wiki/이기_아잘리아 "wikilink") 노래이다. 피쳐링에는 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 가수인 [찰리 XCX가](https://ko.wikipedia.org/wiki/찰리_XCX "wikilink") 참여했으며 [빌보드 핫 100차트](https://ko.wikipedia.org/wiki/빌보드_핫_100 "wikilink") 1위의 경험이 있다.(7주 1위)
+**"Fancy"**는 [호주](https://ko.wikipedia.org/wiki/호주 "wikilink") 출신의 여성 힙합 가수 [이기 아잘리아의](https://ko.wikipedia.org/wiki/이기_아잘리아 "wikilink") 노래이다. 피쳐링에는 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 가수인 [찰리 XCX가](../Page/찰리_XCX.md "wikilink") 참여했으며 [빌보드 핫 100차트](https://ko.wikipedia.org/wiki/빌보드_핫_100 "wikilink") 1위의 경험이 있다.(7주 1위)
 
 ## 뮤직비디오
 
