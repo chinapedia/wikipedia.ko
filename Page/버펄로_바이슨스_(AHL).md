@@ -3,7 +3,7 @@
 
 **버펄로 바이슨스**(Buffalo Bisons)는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [뉴욕주](https://ko.wikipedia.org/wiki/뉴욕주 "wikilink") [버펄로를](https://ko.wikipedia.org/wiki/버펄로_\(뉴욕주\) "wikilink") 연고지로 하는 1940년부터 1970년까지 [AHL](../Page/아메리칸_하키_리그.md "wikilink") 소속되었던 아이스 하키팀이다.
 
-1971년 연고지를 [오하이오주](https://ko.wikipedia.org/wiki/오하이오주 "wikilink") [신시내티](https://ko.wikipedia.org/wiki/신시내티 "wikilink") ([신시내티 스워즈](https://ko.wikipedia.org/wiki/신시내티_스워즈 "wikilink"))로 이전했다.
+1971년 연고지를 [오하이오주](https://ko.wikipedia.org/wiki/오하이오주 "wikilink") [신시내티](https://ko.wikipedia.org/wiki/신시내티 "wikilink") ([신시내티 스워즈](../Page/신시내티_스워즈.md "wikilink"))로 이전했다.
 
 ## 역대 홈경기장
 

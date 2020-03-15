@@ -61,7 +61,7 @@
 </tr>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미나_(1999년)" title="wikilink">강미나</a></p></td>
+<td><p><a href="../Page/미나_(1999년).md" title="wikilink">강미나</a></p></td>
 <td><p><a href="../Page/젤리피쉬_엔터테인먼트.md" title="wikilink">젤리피쉬 엔터테인먼트</a></p></td>
 <td><p>16세[6]</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/대한민국" title="wikilink">대한민국</a></p></td>
@@ -75,7 +75,7 @@
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김도연_(가수)" title="wikilink">김도연</a></p></td>
+<td><p><a href="../Page/김도연_(가수).md" title="wikilink">김도연</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/판타지오" title="wikilink">판타지오</a></p></td>
 <td><p>16세[7]</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/대한민국" title="wikilink">대한민국</a></p></td>
@@ -89,7 +89,7 @@
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/세정_(가수)" title="wikilink">김세정</a></p></td>
+<td><p><a href="../Page/세정_(가수).md" title="wikilink">김세정</a></p></td>
 <td><p><a href="../Page/젤리피쉬_엔터테인먼트.md" title="wikilink">젤리피쉬 엔터테인먼트</a></p></td>
 <td><p>19세[8]</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/대한민국" title="wikilink">대한민국</a></p></td>
@@ -103,7 +103,7 @@
 </tr>
 <tr class="even">
 <td><p>4</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김소혜_(1999년)" title="wikilink">김소혜</a></p></td>
+<td><p><a href="../Page/김소혜_(1999년).md" title="wikilink">김소혜</a></p></td>
 <td><p>레드라인 엔터테인먼트</p></td>
 <td><p>16세[9]</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/대한민국" title="wikilink">대한민국</a></p></td>
@@ -117,7 +117,7 @@
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/청하_(가수)" title="wikilink">김청하</a></p></td>
+<td><p><a href="../Page/청하_(가수).md" title="wikilink">김청하</a></p></td>
 <td><p>M&amp;H 엔터테인먼트</p></td>
 <td><p>20세</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/대한민국" title="wikilink">대한민국</a></p></td>
@@ -131,7 +131,7 @@
 </tr>
 <tr class="even">
 <td><p>6</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/연정_(가수)" title="wikilink">유연정</a></p></td>
+<td><p><a href="../Page/연정_(가수).md" title="wikilink">유연정</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/스타쉽_엔터테인먼트" title="wikilink">스타쉽 엔터테인먼트</a></p></td>
 <td><p>16세[10]</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/대한민국" title="wikilink">대한민국</a></p></td>
@@ -145,7 +145,7 @@
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/나영_(1995년_12월)" title="wikilink">임나영</a></p></td>
+<td><p><a href="../Page/나영_(1995년_12월).md" title="wikilink">임나영</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/플레디스_엔터테인먼트" title="wikilink">플레디스 엔터테인먼트</a></p></td>
 <td><p>20세[11]</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/대한민국" title="wikilink">대한민국</a></p></td>
@@ -187,7 +187,7 @@
 </tr>
 <tr class="even">
 <td><p>10</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/결경" title="wikilink">주결경</a></p></td>
+<td><p><a href="../Page/결경.md" title="wikilink">주결경</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/플레디스_엔터테인먼트" title="wikilink">플레디스 엔터테인먼트</a></p></td>
 <td><p>17세[13]</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/중국" title="wikilink">중국</a></p></td>
@@ -201,7 +201,7 @@
 </tr>
 <tr class="odd">
 <td><p>11</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/최유정_(가수)" title="wikilink">최유정</a></p></td>
+<td><p><a href="../Page/최유정_(가수).md" title="wikilink">최유정</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/판타지오" title="wikilink">판타지오</a></p></td>
 <td><p>16세[14]</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/대한민국" title="wikilink">대한민국</a></p></td>
@@ -299,7 +299,7 @@
 </tr>
 <tr class="even">
 <td><p>17</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/윤채경" title="wikilink">윤채경</a></p></td>
+<td><p><a href="../Page/윤채경.md" title="wikilink">윤채경</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/DSP_미디어" title="wikilink">DSP 미디어</a></p></td>
 <td><p>19세[19]</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/대한민국" title="wikilink">대한민국</a></p></td>
@@ -327,7 +327,7 @@
 </tr>
 <tr class="even">
 <td><p>19</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이해인_(가수)" title="wikilink">이해인</a></p></td>
+<td><p><a href="../Page/이해인_(가수).md" title="wikilink">이해인</a></p></td>
 <td><p>SS 엔터테인먼트</p></td>
 <td><p>21세[21]</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/대한민국" title="wikilink">대한민국</a></p></td>
@@ -341,7 +341,7 @@
 </tr>
 <tr class="odd">
 <td><p>20</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/소연_(1998년)" title="wikilink">전소연</a></p></td>
+<td><p><a href="../Page/소연_(1998년).md" title="wikilink">전소연</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/큐브_엔터테인먼트" title="wikilink">큐브 엔터테인먼트</a></p></td>
 <td><p>17세[22]</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/대한민국" title="wikilink">대한민국</a></p></td>
@@ -355,7 +355,7 @@
 </tr>
 <tr class="even">
 <td><p>21</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/은우" title="wikilink">정은우</a></p></td>
+<td><p><a href="../Page/은우.md" title="wikilink">정은우</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/플레디스_엔터테인먼트" title="wikilink">플레디스 엔터테인먼트</a></p></td>
 <td><p>17세[23]</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/대한민국" title="wikilink">대한민국</a></p></td>
@@ -369,7 +369,7 @@
 </tr>
 <tr class="odd">
 <td><p>22</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/한혜리" title="wikilink">한혜리</a></p></td>
+<td><p><a href="../Page/한혜리.md" title="wikilink">한혜리</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/스타제국" title="wikilink">스타제국</a></p></td>
 <td><p>18세[24]</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/대한민국" title="wikilink">대한민국</a></p></td>
@@ -411,7 +411,7 @@
 </tr>
 <tr class="even">
 <td><p>24</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/권은빈" title="wikilink">권은빈</a></p></td>
+<td><p><a href="../Page/권은빈.md" title="wikilink">권은빈</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/큐브_엔터테인먼트" title="wikilink">큐브 엔터테인먼트</a></p></td>
 <td><p>16세</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/대한민국" title="wikilink">대한민국</a></p></td>
@@ -453,7 +453,7 @@
 </tr>
 <tr class="odd">
 <td><p>27</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김주나" title="wikilink">김주나</a></p></td>
+<td><p><a href="../Page/김주나.md" title="wikilink">김주나</a></p></td>
 <td><p>뮤직케이 엔터테인먼트</p></td>
 <td><p>22세</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/대한민국" title="wikilink">대한민국</a></p></td>
@@ -523,7 +523,7 @@
 </tr>
 <tr class="even">
 <td><p>32</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/응씨카이" title="wikilink">응씨카이</a></p></td>
+<td><p><a href="../Page/응씨카이.md" title="wikilink">응씨카이</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/초록뱀_E&amp;M" title="wikilink">초록뱀 E&amp;M</a></p></td>
 <td><p>21세[31]</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/홍콩" title="wikilink">홍콩</a></p></td>
@@ -565,7 +565,7 @@
 </tr>
 <tr class="odd">
 <td><p>35</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/황인선" title="wikilink">황인선</a></p></td>
+<td><p><a href="../Page/황인선.md" title="wikilink">황인선</a></p></td>
 <td><p>쇼웍스 엔터테인먼트</p></td>
 <td><p>29세[33]</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/대한민국" title="wikilink">대한민국</a></p></td>
@@ -901,7 +901,7 @@
 </tr>
 <tr class="odd">
 <td><p>58</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/조시윤" title="wikilink">조시윤</a></p></td>
+<td><p><a href="../Page/조시윤.md" title="wikilink">조시윤</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/DSP_미디어" title="wikilink">DSP 미디어</a></p></td>
 <td><p>20세</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/대한민국" title="wikilink">대한민국</a></p></td>

@@ -13,11 +13,11 @@ Radare2는 많은 것들을 어셈블하고 역어셈블할 수 있으며 또한
 
 ### 동적 분석
 
-Radare2는 빌트인 디버거를 가지는데, 이것은 [GDB보다](https://ko.wikipedia.org/wiki/GNU_디버거 "wikilink") 저수준이다. 그러나 GNU 디버거와 사용될수 있으며 심지어는 윈도우 바이너리를 디버그하기 위해 [WineDBG](https://ko.wikipedia.org/wiki/와인_\(소프트웨어\) "wikilink")\[6\]와도 사용될 수 있다. 심지어는 VM웨어와 함께 [커널 디버거로서](https://ko.wikipedia.org/wiki/커널_디버거 "wikilink") 사용될 수도 있다. 또한 [WinDbg](../Page/WinDbg.md "wikilink") 프로토콜을 위한 지원도 존재한다.
+Radare2는 빌트인 디버거를 가지는데, 이것은 [GDB보다](https://ko.wikipedia.org/wiki/GNU_디버거 "wikilink") 저수준이다. 그러나 GNU 디버거와 사용될수 있으며 심지어는 윈도우 바이너리를 디버그하기 위해 [WineDBG](https://ko.wikipedia.org/wiki/와인_\(소프트웨어\) "wikilink")\[6\]와도 사용될 수 있다. 심지어는 VM웨어와 함께 [커널 디버거로서](../Page/커널_디버거.md "wikilink") 사용될 수도 있다. 또한 [WinDbg](../Page/WinDbg.md "wikilink") 프로토콜을 위한 지원도 존재한다.
 
 ### 소프트웨어 취약점 공격
 
-radare2가 역어셈블러와 저수준 디버거의 특징을 갖기 때문에, 또한 취약점 개발자들에게 유용하게 사용될 수 있다. 이 소프트웨어는 [ROP](https://ko.wikipedia.org/wiki/반환_지향형_프로그래밍 "wikilink") 가젯 검색 엔진과 완화 탐지 같은 취약점 개발을 보조하는 특징을 갖는다. Radare2는 또한 [메타스플로이트와](https://ko.wikipedia.org/wiki/메타스플로이트_프로젝트 "wikilink") 비슷하게, 이것의 'ragg2' 툴을 이용해서 [셸코드](https://ko.wikipedia.org/wiki/셸코드 "wikilink")를 생성하는 것을 도울 수 있다.
+radare2가 역어셈블러와 저수준 디버거의 특징을 갖기 때문에, 또한 취약점 개발자들에게 유용하게 사용될 수 있다. 이 소프트웨어는 [ROP](../Page/반환_지향형_프로그래밍.md "wikilink") 가젯 검색 엔진과 완화 탐지 같은 취약점 개발을 보조하는 특징을 갖는다. Radare2는 또한 [메타스플로이트와](https://ko.wikipedia.org/wiki/메타스플로이트_프로젝트 "wikilink") 비슷하게, 이것의 'ragg2' 툴을 이용해서 [셸코드](https://ko.wikipedia.org/wiki/셸코드 "wikilink")를 생성하는 것을 도울 수 있다.
 
 ## 지원되는 아키텍처/포맷
 

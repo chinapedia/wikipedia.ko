@@ -5,7 +5,7 @@
 
 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink")까지 세리이 C에는 68개 팀이 참가하였으며, 세리이 B에서 강등된 4팀과 브라질 각 [주 리그에서](https://ko.wikipedia.org/wiki/브라질의_주별_리그 "wikilink") 좋은 성적을 가진 64개 팀이 참가하는 방식을 가졌다. 당시 각 주의 세리이 C 참가 방식은 제각각이었으며, 어떤 주는 주리그 순위에 따라 세리이 C 참가 티켓을 부여하는 한 편, 어떤 주는 세리이 C 참가를 위한 별도의 토너먼트를 만들어 시행했다.
 
-[2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") 세리이 D가 창설되면서 이와 같은 방식은 세리이 D가 계승하였고, 세리이 C는 참가 팀 수를 20개 팀으로 축소하였다. 20개 팀은 지리적 위치를 기준으로 북부와 남부 두 개 그룹으로 다시 나뉘게 되고, 각 그룹 마다 10개 팀씩 나뉘어져 경쟁을 하게 된다. 각 그룹의 상위 4팀은 토너먼트에 진출하게 되며, 토너먼트 1차전에서 승리한 4팀은 다음 시즌 [캄페오나투 브라질레이루 세리이 B로](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_B "wikilink") 승격된다. 각 그룹의 하위 2팀(총 4팀)은 [캄페오나투 브라질레이루 세리이 D로](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_D "wikilink") 강등된다.
+[2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") 세리이 D가 창설되면서 이와 같은 방식은 세리이 D가 계승하였고, 세리이 C는 참가 팀 수를 20개 팀으로 축소하였다. 20개 팀은 지리적 위치를 기준으로 북부와 남부 두 개 그룹으로 다시 나뉘게 되고, 각 그룹 마다 10개 팀씩 나뉘어져 경쟁을 하게 된다. 각 그룹의 상위 4팀은 토너먼트에 진출하게 되며, 토너먼트 1차전에서 승리한 4팀은 다음 시즌 [캄페오나투 브라질레이루 세리이 B로](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_B "wikilink") 승격된다. 각 그룹의 하위 2팀(총 4팀)은 [캄페오나투 브라질레이루 세리이 D로](../Page/캄페오나투_브라질레이루_세리이_D.md "wikilink") 강등된다.
 
 ## 현재 참가팀
 
@@ -56,7 +56,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/아라카주" title="wikilink">아라카주</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/클루비_두_헤무" title="wikilink">헤무</a></p></td>
+<td><p><a href="../Page/클루비_두_헤무.md" title="wikilink">헤무</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/벨렝" title="wikilink">벨렝</a></p></td>
 </tr>
 <tr class="odd">
@@ -96,7 +96,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/조인빌리" title="wikilink">조인빌리</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/쿠이아바_EC" title="wikilink">쿠이아바</a></p></td>
+<td><p><a href="../Page/쿠이아바_EC.md" title="wikilink">쿠이아바</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/쿠이아바" title="wikilink">쿠이아바</a></p></td>
 </tr>
 <tr class="odd">
@@ -176,7 +176,7 @@
 </tr>
 <tr class="odd">
 <td><p>1996</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/빌라_노바_FC" title="wikilink">빌라 노바</a></strong></p></td>
+<td><p><strong><a href="../Page/빌라_노바_FC.md" title="wikilink">빌라 노바</a></strong></p></td>
 <td><p><a href="../Page/보타포구_FC_(상파울루주).md" title="wikilink">보타포구-SP</a></p></td>
 </tr>
 <tr class="even">
@@ -221,7 +221,7 @@
 </tr>
 <tr class="even">
 <td><p>2005</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/클루비_두_헤무" title="wikilink">헤무</a></strong></p></td>
+<td><p><strong><a href="../Page/클루비_두_헤무.md" title="wikilink">헤무</a></strong></p></td>
 <td><p><a href="../Page/아메리카_FC_(히우그란지두노르치주).md" title="wikilink">아메리카 지 나타우</a></p></td>
 </tr>
 <tr class="odd">
@@ -242,7 +242,7 @@
 <tr class="even">
 <td><p>2009</p></td>
 <td><p><strong><a href="../Page/아메리카_FC_(벨루오리존치).md" title="wikilink">아메리카 미네이루</a></strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아그레미아상_스포르치바_아라피라켄시" title="wikilink">ASA</a></p></td>
+<td><p><a href="../Page/아그레미아상_스포르치바_아라피라켄시.md" title="wikilink">ASA</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2010</p></td>
@@ -271,7 +271,7 @@
 </tr>
 <tr class="even">
 <td><p>2015</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/빌라_노바_FC" title="wikilink">빌라 노바</a></strong></p></td>
+<td><p><strong><a href="../Page/빌라_노바_FC.md" title="wikilink">빌라 노바</a></strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/론드리나_EC" title="wikilink">론드리나</a></p></td>
 </tr>
 <tr class="odd">
@@ -297,7 +297,7 @@
   - [브라질 축구 리그 시스템](https://ko.wikipedia.org/wiki/브라질_축구_리그_시스템 "wikilink")
   - [캄페오나투 브라질레이루 세리이 A](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A "wikilink")
   - [캄페오나투 브라질레이루 세리이 B](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_B "wikilink")
-  - [캄페오나투 브라질레이루 세리이 D](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_D "wikilink")
+  - [캄페오나투 브라질레이루 세리이 D](../Page/캄페오나투_브라질레이루_세리이_D.md "wikilink")
 
 ## 외부 링크
 

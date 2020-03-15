@@ -34,7 +34,7 @@
 <td><p>2009년</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/포틀랜드_팀버스_(2001년)" title="wikilink">포틀랜드 팀버스</a></p></td>
+<td><p><a href="../Page/포틀랜드_팀버스_(2001년).md" title="wikilink">포틀랜드 팀버스</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/포틀랜드_(오리건주)" title="wikilink">포틀랜드</a>, <a href="https://ko.wikipedia.org/wiki/오리건주" title="wikilink">오리건주</a></p></td>
 <td><p><a href="../Page/프로비던스_파크.md" title="wikilink">PGE 파크</a></p></td>
 <td><p>2001년</p></td>
@@ -100,9 +100,9 @@
 <td><p>2009년</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/밴쿠버_화이트캡스_FC_(1986년)" title="wikilink">밴쿠버 화이트캡스 FC</a></p></td>
+<td><p><a href="../Page/밴쿠버_화이트캡스_FC_(1986년).md" title="wikilink">밴쿠버 화이트캡스 FC</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/버너비" title="wikilink">버너비</a>, <a href="https://ko.wikipedia.org/wiki/브리티시컬럼비아주" title="wikilink">브리티시컬럼비아주</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/스완가드_스타디움" title="wikilink">스완가드 스타디움</a></p></td>
+<td><p><a href="../Page/스완가드_스타디움.md" title="wikilink">스완가드 스타디움</a></p></td>
 <td><p>1986년</p></td>
 </tr>
 </tbody>

@@ -159,7 +159,7 @@ dd if=filename of=filename1 conv=ucase
 ## 외부 링크
 
   -
-  - [dd](http://www.gnu.org/software/coreutils/manual/html_node/dd-invocation.html): manual page from the [GNU Core Utilities](https://ko.wikipedia.org/wiki/GNU_코어_유틸리티 "wikilink").
+  - [dd](http://www.gnu.org/software/coreutils/manual/html_node/dd-invocation.html): manual page from the [GNU Core Utilities](../Page/GNU_코어_유틸리티.md "wikilink").
 
   - [dd for Windows](http://www.chrysocome.net/dd).
 

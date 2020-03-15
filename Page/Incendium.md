@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Incendium](https://ko.wikipedia.org/wiki/Incendium).
 
 
-〈**Incendium**〉은 [카툰 네트워크의](https://ko.wikipedia.org/wiki/카툰_네트워크 "wikilink") 애니메이션 시리즈 《[핀과 제이크의 어드벤처 타임](https://ko.wikipedia.org/wiki/핀과_제이크의_어드벤처_타임 "wikilink")》의 [세 번째 시즌](../Page/핀과_제이크의_어드벤처_타임_\(시즌_3\).md "wikilink") 스물여섯 번째 에피소드이다. [대한민국](https://ko.wikipedia.org/wiki/카툰_네트워크_\(대한민국\) "wikilink") 방영 명칭은 〈불꽃같은 사랑〉이다. [애덤 무토](https://ko.wikipedia.org/wiki/애덤_무토 "wikilink"), [리베카 슈거가](../Page/리베카_슈거.md "wikilink") 스토리보드 아티스트 및 작가로 참여했으며, 패트릭 맥헤일, [켄트 오즈본](../Page/켄트_오즈본.md "wikilink"), [펜들턴 워드](../Page/펜들턴_워드.md "wikilink"), 마크 뱅커가 각본을 담당했다. 2012년 2월 13일 첫 방영 되었으며, [네 번째 시즌](../Page/핀과_제이크의_어드벤처_타임_\(시즌_4\).md "wikilink") 첫 에피소드인 〈[Hot to the Touch](https://ko.wikipedia.org/wiki/Hot_to_the_Touch "wikilink")〉로 이야기가 이어진다.
+〈**Incendium**〉은 [카툰 네트워크의](https://ko.wikipedia.org/wiki/카툰_네트워크 "wikilink") 애니메이션 시리즈 《[핀과 제이크의 어드벤처 타임](https://ko.wikipedia.org/wiki/핀과_제이크의_어드벤처_타임 "wikilink")》의 [세 번째 시즌](../Page/핀과_제이크의_어드벤처_타임_\(시즌_3\).md "wikilink") 스물여섯 번째 에피소드이다. [대한민국](https://ko.wikipedia.org/wiki/카툰_네트워크_\(대한민국\) "wikilink") 방영 명칭은 〈불꽃같은 사랑〉이다. [애덤 무토](https://ko.wikipedia.org/wiki/애덤_무토 "wikilink"), [리베카 슈거가](../Page/리베카_슈거.md "wikilink") 스토리보드 아티스트 및 작가로 참여했으며, 패트릭 맥헤일, [켄트 오즈본](../Page/켄트_오즈본.md "wikilink"), [펜들턴 워드](../Page/펜들턴_워드.md "wikilink"), 마크 뱅커가 각본을 담당했다. 2012년 2월 13일 첫 방영 되었으며, [네 번째 시즌](../Page/핀과_제이크의_어드벤처_타임_\(시즌_4\).md "wikilink") 첫 에피소드인 〈[Hot to the Touch](../Page/Hot_to_the_Touch.md "wikilink")〉로 이야기가 이어진다.
 
 ## 줄거리
 

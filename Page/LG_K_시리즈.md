@@ -5,14 +5,14 @@
 
 ## 안드로이드 스마트폰
 
-CES 2016에서 [K7](https://ko.wikipedia.org/wiki/LG_K7 "wikilink"), [K10이](../Page/LG_K10.md "wikilink") 처음 공개되었으며 이후 추가로 더 공개되었다.
+CES 2016에서 [K7](../Page/LG_K7.md "wikilink"), [K10이](../Page/LG_K10.md "wikilink") 처음 공개되었으며 이후 추가로 더 공개되었다.
 
 2016년에 공개된 모델
 
   - [LG K3](https://ko.wikipedia.org/wiki/LG_K3 "wikilink") (2016)
   - [LG K4](https://ko.wikipedia.org/wiki/LG_K4 "wikilink") (2016)
   - [LG K5](https://ko.wikipedia.org/wiki/LG_K5 "wikilink") (2016)
-  - [LG K7](https://ko.wikipedia.org/wiki/LG_K7 "wikilink") (2016)
+  - [LG K7](../Page/LG_K7.md "wikilink") (2016)
   - [LG K8](https://ko.wikipedia.org/wiki/LG_K8 "wikilink") (2016)
   - [LG K10](../Page/LG_K10.md "wikilink") (2016)
 
@@ -28,7 +28,7 @@ CES 2017에서 K 시리즈의 2017 에디션이 공개되었다.
 ## 같이 보기
 
   - [LG G](https://ko.wikipedia.org/wiki/LG_G "wikilink")
-  - [LG V](https://ko.wikipedia.org/wiki/LG_V "wikilink")
+  - [LG V](../Page/LG_V.md "wikilink")
   - [LG X](https://ko.wikipedia.org/wiki/LG_X "wikilink")
 
 ## 각주

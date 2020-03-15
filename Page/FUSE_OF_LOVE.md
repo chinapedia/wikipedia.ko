@@ -46,7 +46,7 @@
       -
         19번째 싱글. 첫 셀프 프로듀스 작품.
 7.  **[댄싱](../Page/댄싱_\(쿠라키_마이의_노래\).md "wikilink")**() \[3:47\]
-      - 작곡 · 편곡: [토쿠나가 아키히토](https://ko.wikipedia.org/wiki/토쿠나가_아키히토 "wikilink")
+      - 작곡 · 편곡: [토쿠나가 아키히토](../Page/토쿠나가_아키히토.md "wikilink")
     <!-- end list -->
       -
         20번째 싱글. [J리그](../Page/J리그.md "wikilink") [도쿠시마 보르티스](https://ko.wikipedia.org/wiki/도쿠시마_보르티스 "wikilink") 공식 테마곡. ‘여러 멜로디 호출중의 소리’() [CM송](https://ko.wikipedia.org/wiki/광고_음악 "wikilink").

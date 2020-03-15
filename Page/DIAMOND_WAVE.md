@@ -20,7 +20,7 @@
 <!-- end list -->
 
 1.  **[Diamond Wave](../Page/Diamond_Wave.md "wikilink")** \[4:55\]
-      - 작곡 · 편곡: [토쿠나가 아키히토](https://ko.wikipedia.org/wiki/토쿠나가_아키히토 "wikilink")
+      - 작곡 · 편곡: [토쿠나가 아키히토](../Page/토쿠나가_아키히토.md "wikilink")
     <!-- end list -->
       -
         24번째 싱글이며, 음반 표제곡. 라이브에서는 타올을 사용한 퍼포먼스가 행해진다. 닛폰 TB 《스포츠 우루구스》 테마송.

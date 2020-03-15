@@ -39,7 +39,7 @@
       -
         쿠라키가 대학의 제2외국어로 배운 스페인어가 사용되고 있다.
 6.  **[I don't wanna lose you](../Page/Make_my_day_\(쿠라키_마이의_노래\).md "wikilink")** \[4:06\]
-      - 작사: 쿠라키 마이, 작곡 · 편곡: [토쿠나가 아키히토](https://ko.wikipedia.org/wiki/토쿠나가_아키히토 "wikilink")
+      - 작사: 쿠라키 마이, 작곡 · 편곡: [토쿠나가 아키히토](../Page/토쿠나가_아키히토.md "wikilink")
     <!-- end list -->
       -
         14번째 싱글 〈Make my day〉의 커플링곡. 앨범용으로 리믹스되어있다.

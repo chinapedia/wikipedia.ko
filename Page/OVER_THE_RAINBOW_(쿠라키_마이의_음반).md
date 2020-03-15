@@ -42,7 +42,7 @@
         36번째 싱글
         [도카이 TV](https://ko.wikipedia.org/wiki/도카이_TV "wikilink") · 후지 TV계 드라마 《[안개에 사는 악마](https://ko.wikipedia.org/wiki/안개에_사는_악마 "wikilink")》 주제가
 7.  **Brave your heart**
-      - 작사: 쿠라키 마이, 작곡 · 편곡: [토쿠나가 아키히토](https://ko.wikipedia.org/wiki/토쿠나가_아키히토 "wikilink")
+      - 작사: 쿠라키 마이, 작곡 · 편곡: [토쿠나가 아키히토](../Page/토쿠나가_아키히토.md "wikilink")
     <!-- end list -->
       -
         중일우호 40주년 기념 영화 《[내일로 이어지는 사랑](https://ko.wikipedia.org/wiki/내일로_이어지는_사랑 "wikilink")》 주제가

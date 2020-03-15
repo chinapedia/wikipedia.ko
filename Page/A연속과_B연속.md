@@ -5,7 +5,7 @@
 
 ## 같이 보기
 
-  - [시간의 B이론](https://ko.wikipedia.org/wiki/시간의_B이론 "wikilink")
+  - [시간의 B이론](../Page/시간의_B이론.md "wikilink")
   - [시간의 불실재성](https://ko.wikipedia.org/wiki/시간의_불실재성 "wikilink")
 
 ## 참고 도서

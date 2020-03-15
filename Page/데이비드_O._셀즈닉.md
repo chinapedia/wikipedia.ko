@@ -17,7 +17,7 @@
 | 1946 | [백주의 결투](https://ko.wikipedia.org/wiki/백주의_결투 "wikilink")                  | *Duel in the Sun*              | [킹 비더](https://ko.wikipedia.org/wiki/킹_비더 "wikilink")                                                                      |    |
 | 1947 | [패러딘 부인의 사랑](../Page/패러딘_부인의_사랑.md "wikilink")                             | *The Paradine Case*            | 앨프리드 히치콕                                                                                                                   |    |
 | 1948 | [제니의 초상](https://ko.wikipedia.org/wiki/제니의_초상 "wikilink")                  | *Portrait of Jennie*           | [윌리엄 디털리](https://ko.wikipedia.org/wiki/윌리엄_디털리 "wikilink")                                                                |    |
-| 1949 | [제3의 사나이](https://ko.wikipedia.org/wiki/제3의_사나이 "wikilink")                | *The Third Man*                | [캐럴 리드](https://ko.wikipedia.org/wiki/캐럴_리드 "wikilink")                                                                    |    |
+| 1949 | [제3의 사나이](https://ko.wikipedia.org/wiki/제3의_사나이 "wikilink")                | *The Third Man*                | [캐럴 리드](../Page/캐럴_리드.md "wikilink")                                                                                       |    |
 | 1950 | [여호](https://ko.wikipedia.org/wiki/여호 "wikilink")                          | *Gone to Earth*                | [마이클 파월](https://ko.wikipedia.org/wiki/마이클_파월 "wikilink"), [에머릭 프레스버거](https://ko.wikipedia.org/wiki/에머릭_프레스버거 "wikilink") |    |
 | 1957 | [무기여 잘 있거라](https://ko.wikipedia.org/wiki/무기여_잘_있거라 "wikilink")            | *A Farewell to Arms*           | [찰스 비더](https://ko.wikipedia.org/wiki/찰스_비더 "wikilink")                                                                    |    |
 

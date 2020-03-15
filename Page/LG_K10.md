@@ -56,7 +56,7 @@ LG K10은 [5.1.1 롤리팝을](https://ko.wikipedia.org/wiki/안드로이드_버
   - [LG K3](https://ko.wikipedia.org/wiki/LG_K3 "wikilink")
   - [LG K4](https://ko.wikipedia.org/wiki/LG_K4 "wikilink")
   - [LG K5](https://ko.wikipedia.org/wiki/LG_K5 "wikilink")
-  - [LG K7](https://ko.wikipedia.org/wiki/LG_K7 "wikilink")
+  - [LG K7](../Page/LG_K7.md "wikilink")
   - [LG K8](https://ko.wikipedia.org/wiki/LG_K8 "wikilink")
   - [LG K10 2017](https://ko.wikipedia.org/wiki/LG_K10_2017 "wikilink")
 

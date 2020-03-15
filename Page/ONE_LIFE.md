@@ -24,7 +24,7 @@
       -
         작곡 · 편곡을 담당한 유해준은 《[겨울연가](https://ko.wikipedia.org/wiki/겨울연가 "wikilink")》의 테마곡의 작곡을 담당한 인물이다.
 4.  **[Born to be Free](https://ko.wikipedia.org/wiki/Born_to_be_Free "wikilink")**
-      - 작사: 쿠라키 마이, 작곡: [토쿠나가 아키히토](https://ko.wikipedia.org/wiki/토쿠나가_아키히토 "wikilink"), 편곡: Cybersound
+      - 작사: 쿠라키 마이, 작곡: [토쿠나가 아키히토](../Page/토쿠나가_아키히토.md "wikilink"), 편곡: Cybersound
     <!-- end list -->
       -
         [2007년 A3 챔피언스컵의](https://ko.wikipedia.org/wiki/2007년_A3_챔피언스컵 "wikilink") 테마송을 위해서 작곡되었으며, 2007년 6월에 [중화인민공화국](https://ko.wikipedia.org/wiki/중화인민공화국 "wikilink")의 [산둥 성의](https://ko.wikipedia.org/wiki/산둥_성 "wikilink") 도시, [지난에서](https://ko.wikipedia.org/wiki/지난_시 "wikilink") 행해진 대회의 오프닝 이벤트에서 처음으로 선보였다. [쑨옌쯔](https://ko.wikipedia.org/wiki/쑨옌쯔 "wikilink")와의 듀엣곡 〈My Story, Your Song〉 이래, 4년만에 [중국어](https://ko.wikipedia.org/wiki/중국어 "wikilink")로 부른 악곡이 된다. 2007년 9월 22일에 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서 행해진, 아시안송페스티벌 2007에서 한국어로도 피로되었다. 2008년의 [A3 챔피언스컵에서도](https://ko.wikipedia.org/wiki/A3_챔피언스컵 "wikilink") 해당 악곡이 이어서 테마송으로 사용이 결정되었지만, 개최중지가 되었다. 본 CD에서는 일본어 버전이 수록되어있다.

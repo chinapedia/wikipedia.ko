@@ -3,7 +3,7 @@
 
 **버밍햄 불스**(Birmingham Bulls)는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [앨라배마주](https://ko.wikipedia.org/wiki/앨라배마주 "wikilink") [버밍햄을](https://ko.wikipedia.org/wiki/버밍햄_\(앨라배마주\) "wikilink") 연고지로 하는 1992년부터 2001년까지 [ECHL](../Page/ECHL.md "wikilink") 소속되었던 아이스 하키팀이다.
 
-2001년 연고지를 [뉴저지주](https://ko.wikipedia.org/wiki/뉴저지주 "wikilink") [애틀랜틱시티](https://ko.wikipedia.org/wiki/애틀랜틱시티 "wikilink") ([애틀랜틱시티 보드워크 불리즈](https://ko.wikipedia.org/wiki/애틀랜틱시티_보드워크_불리즈 "wikilink"))로 이전했다.
+2001년 연고지를 [뉴저지주](https://ko.wikipedia.org/wiki/뉴저지주 "wikilink") [애틀랜틱시티](https://ko.wikipedia.org/wiki/애틀랜틱시티 "wikilink") ([애틀랜틱시티 보드워크 불리즈](../Page/애틀랜틱시티_보드워크_불리즈.md "wikilink"))로 이전했다.
 
 ## 역대 홈경기장
 

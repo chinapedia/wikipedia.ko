@@ -42,8 +42,8 @@
 ## 경쟁 프로그램
 
   - [정치 데스크](https://ko.wikipedia.org/wiki/정치_데스크 "wikilink") (채널A)
-  - [사건반장](https://ko.wikipedia.org/wiki/사건반장 "wikilink"), [JTBC 정치부회의](https://ko.wikipedia.org/wiki/JTBC_정치부회의 "wikilink") (JTBC)
-  - [4시 뉴스집중](https://ko.wikipedia.org/wiki/사사건건_\(텔레비전_프로그램\) "wikilink"), [KBS 뉴스 5](https://ko.wikipedia.org/wiki/KBS_뉴스_5 "wikilink") (KBS 1TV)
+  - [사건반장](../Page/사건반장.md "wikilink"), [JTBC 정치부회의](https://ko.wikipedia.org/wiki/JTBC_정치부회의 "wikilink") (JTBC)
+  - [4시 뉴스집중](../Page/사사건건_\(텔레비전_프로그램\).md "wikilink"), [KBS 뉴스 5](https://ko.wikipedia.org/wiki/KBS_뉴스_5 "wikilink") (KBS 1TV)
   - [뉴스 BIG 5](../Page/뉴스_BIG_5.md "wikilink"), [뉴스 & 이슈](../Page/뉴스_&_이슈.md "wikilink") (MBN)
   - [MBC 뉴스 M](https://ko.wikipedia.org/wiki/MBC_뉴스_M "wikilink"), [MBC 이브닝 뉴스](https://ko.wikipedia.org/wiki/MBC_이브닝_뉴스 "wikilink") (MBC)
   - [주영진의 뉴스브리핑](https://ko.wikipedia.org/wiki/주영진의_뉴스브리핑 "wikilink") (SBS)

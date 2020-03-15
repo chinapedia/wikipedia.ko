@@ -1,16 +1,16 @@
 > This article is converted from Wikipedia: [TBC  ](https://ko.wikipedia.org/wiki/TBC__).
 
 
-**[TBC(대구방송)의](https://ko.wikipedia.org/wiki/TBC_\(대한민국의_방송사\) "wikilink") 뉴스 프로그램**은 다음과 같다.
+**[TBC(대구방송)의](../Page/TBC_\(대한민국의_방송사\).md "wikilink") 뉴스 프로그램**은 다음과 같다.
 
 ## 뉴스 멘트
 
   - [TBC 뉴스](https://ko.wikipedia.org/wiki/TBC_뉴스 "wikilink") ○○○ 입니다 (과거)
-  - [TBC](https://ko.wikipedia.org/wiki/TBC_\(대한민국의_방송사\) "wikilink") ○○○ 입니다 (현재)
+  - [TBC](../Page/TBC_\(대한민국의_방송사\).md "wikilink") ○○○ 입니다 (현재)
 
 ## 방송 프로그램
 
-### [TBC TV](https://ko.wikipedia.org/wiki/TBC_\(대한민국의_방송사\) "wikilink")
+### [TBC TV](../Page/TBC_\(대한민국의_방송사\).md "wikilink")
 
 <table>
 <thead>
@@ -66,7 +66,7 @@
 </tbody>
 </table>
 
-### [TBC Dream FM](https://ko.wikipedia.org/wiki/TBC_\(대한민국의_방송사\) "wikilink")
+### [TBC Dream FM](../Page/TBC_\(대한민국의_방송사\).md "wikilink")
 
   - [TBC 낮 종합뉴스](https://ko.wikipedia.org/wiki/TBC_낮_종합뉴스 "wikilink") 매일 오전 11시 50분에 방영
   - [TBC 저녁종합뉴스](https://ko.wikipedia.org/wiki/TBC_저녁종합뉴스 "wikilink") 평일 오후 5시 50분에 방영

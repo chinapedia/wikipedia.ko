@@ -6,7 +6,7 @@
 ## 개요
 
   - 전작 《[Flower Bud](../Page/Flower_Bud.md "wikilink")》에서 약 6개월 만의 음반이다.
-  - 〈[유리구슬 (Glass Bead)](https://ko.wikipedia.org/wiki/유리구슬_\(Glass_Bead\) "wikilink")〉, 〈[오늘부터 우리는 (Me gustas tu)](https://ko.wikipedia.org/wiki/오늘부터_우리는_\(Me_gustas_tu\) "wikilink")〉에 이은 학교 시리즈의 3부작의 완결편이다.\[1\]
+  - 〈[유리구슬 (Glass Bead)](../Page/유리구슬_\(Glass_Bead\).md "wikilink")〉, 〈[오늘부터 우리는 (Me gustas tu)](../Page/오늘부터_우리는_\(Me_gustas_tu\).md "wikilink")〉에 이은 학교 시리즈의 3부작의 완결편이다.\[1\]
   - 수록곡 〈TRUST〉는 여자친구로서 처음으로 시도하는 미디엄 템포의 발라드곡이다.\[2\]
   - 이 음반으로 여자친구는 전설을 써내렸으며 '시간을 달려서'로 인해 여자친구는 대한민국에서 가장 메이저한 걸 그룹이 되었다.
 

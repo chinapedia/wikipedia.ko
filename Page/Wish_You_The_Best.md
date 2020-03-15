@@ -50,7 +50,7 @@
       -
         7번째 싱글 〈차가운 바다/Start in my life〉의 1번째 곡
 9.  **[Stand Up](https://ko.wikipedia.org/wiki/Stand_Up "wikilink")** \[4:37\]
-      - 작사: 쿠라키 마이, 작곡 · 편곡: [토쿠나가 아키히토](https://ko.wikipedia.org/wiki/토쿠나가_아키히토 "wikilink")
+      - 작사: 쿠라키 마이, 작곡 · 편곡: [토쿠나가 아키히토](../Page/토쿠나가_아키히토.md "wikilink")
     <!-- end list -->
       -
         8번째 싱글. [코카콜라](https://ko.wikipedia.org/wiki/코카콜라 "wikilink") ‘[소켄비차](https://ko.wikipedia.org/wiki/소켄비차 "wikilink") Natural Breeze 2001 happy life’ CM송.
