@@ -14,7 +14,7 @@
   - [AKB48](https://ko.wikipedia.org/wiki/AKB48 "wikilink")([오오고에 다이아몬드](https://ko.wikipedia.org/wiki/오오고에_다이아몬드 "wikilink")\~현재)
   - [STU48](https://ko.wikipedia.org/wiki/STU48 "wikilink")([暗闇](https://ko.wikipedia.org/wiki/어둠_\(노래\) "wikilink")\~현재)
   - 쟝켄민
-  - [후지타 나나](https://ko.wikipedia.org/wiki/후지타_나나 "wikilink")
+  - [후지타 나나](../Page/후지타_나나.md "wikilink")
   - [마에다 아츠코](https://ko.wikipedia.org/wiki/마에다_아츠코 "wikilink")
 
 ## 외부 링크

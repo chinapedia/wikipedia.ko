@@ -22,10 +22,10 @@
 ## 그 외 채널A 뉴스 프로그램
 
   - [채널A 아침뉴스](https://ko.wikipedia.org/wiki/채널A_아침뉴스 "wikilink")
-  - [채널A 뉴스특급](https://ko.wikipedia.org/wiki/채널A_뉴스특급 "wikilink")
-  - [채널A 뉴스 TOP 10](https://ko.wikipedia.org/wiki/채널A_뉴스_TOP_10 "wikilink")
-  - [채널A 뉴스 스테이션](https://ko.wikipedia.org/wiki/채널A_뉴스_스테이션 "wikilink")
-  - [채널A 뉴스뱅크](https://ko.wikipedia.org/wiki/채널A_뉴스뱅크 "wikilink")
+  - [채널A 뉴스특급](../Page/채널A_뉴스특급.md "wikilink")
+  - [채널A 뉴스 TOP 10](../Page/채널A_뉴스_TOP_10.md "wikilink")
+  - [채널A 뉴스 스테이션](../Page/채널A_뉴스_스테이션.md "wikilink")
+  - [채널A 뉴스뱅크](../Page/채널A_뉴스뱅크.md "wikilink")
   - [채널A 뉴스특보](https://ko.wikipedia.org/wiki/채널A_뉴스특보 "wikilink")
 
 ## 동시간대 경쟁 뉴스 프로그램
@@ -37,6 +37,6 @@
   - [MBN 뉴스 8](https://ko.wikipedia.org/wiki/MBN_뉴스_8 "wikilink") (MBN)
   - [MBC 뉴스데스크](https://ko.wikipedia.org/wiki/MBC_뉴스데스크 "wikilink") (MBC)
   - [SBS 8 뉴스](https://ko.wikipedia.org/wiki/SBS_8_뉴스 "wikilink") (SBS)
-  - [JTBC 뉴스룸](https://ko.wikipedia.org/wiki/JTBC_뉴스룸 "wikilink") (JTBC)
+  - [JTBC 뉴스룸](../Page/JTBC_뉴스룸.md "wikilink") (JTBC)
 
 [분류:채널A의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:채널A의_뉴스_텔레비전_프로그램 "wikilink")

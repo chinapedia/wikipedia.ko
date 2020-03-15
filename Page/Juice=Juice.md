@@ -7,9 +7,9 @@
 
   - 결성 이전
 
-[미야자키 유카](https://ko.wikipedia.org/wiki/미야자키_유카 "wikilink") 이외의 멤버는 헬로\! 프로젝트의 연수생인「[하로프로 연수생](https://ko.wikipedia.org/wiki/하로프로_연수생 "wikilink")」조이다. [미야모토 카린](https://ko.wikipedia.org/wiki/미야모토_카린 "wikilink"), [타카기 사유키는](https://ko.wikipedia.org/wiki/타카기_사유키 "wikilink") 하로프로 연수생의 전신인 [하로프로에그](https://ko.wikipedia.org/wiki/하로프로에그 "wikilink") 시대에서 재적하고 있으며, 미야모토는 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [11월](https://ko.wikipedia.org/wiki/11월 "wikilink"), 타카기는 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") 11월에 가입되어 있다. 미야모토는 자신이 [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink")。와 [스마이레지](https://ko.wikipedia.org/wiki/스마이레지 "wikilink")의 추가 멤버 오디션에 합격할 수 없는 가운데, 하로프로에그 · 하로프로 연수생의 후배가 먼저 데뷔하는 것을 보고 "길을 잃어 버린 느낌"이 되었다고 나중에 밝혀, 다카키도 같은 상황에서 "그만두는 게 좋을까 망설였습니다"라고 말하고 있다.
+[미야자키 유카](../Page/미야자키_유카.md "wikilink") 이외의 멤버는 헬로\! 프로젝트의 연수생인「[하로프로 연수생](https://ko.wikipedia.org/wiki/하로프로_연수생 "wikilink")」조이다. [미야모토 카린](../Page/미야모토_카린.md "wikilink"), [타카기 사유키는](../Page/타카기_사유키.md "wikilink") 하로프로 연수생의 전신인 [하로프로에그](https://ko.wikipedia.org/wiki/하로프로에그 "wikilink") 시대에서 재적하고 있으며, 미야모토는 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [11월](https://ko.wikipedia.org/wiki/11월 "wikilink"), 타카기는 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") 11월에 가입되어 있다. 미야모토는 자신이 [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink")。와 [스마이레지](https://ko.wikipedia.org/wiki/스마이레지 "wikilink")의 추가 멤버 오디션에 합격할 수 없는 가운데, 하로프로에그 · 하로프로 연수생의 후배가 먼저 데뷔하는 것을 보고 "길을 잃어 버린 느낌"이 되었다고 나중에 밝혀, 다카키도 같은 상황에서 "그만두는 게 좋을까 망설였습니다"라고 말하고 있다.
 
-[우에무라 아카리와](https://ko.wikipedia.org/wiki/우에무라_아카리 "wikilink") [오오츠카 아이나는](https://ko.wikipedia.org/wiki/오오츠카_아이나 "wikilink") [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink")에 모닝구무스메。9기 멤버 오디션을 받아 낙선했지만 하로프로 연수생이 되었다. [카나자와 토모코는](https://ko.wikipedia.org/wiki/카나자와_토모코 "wikilink") [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 11월에 하로프로 연수생이 된 것으로 밝혀져 그로부터 약 3개월 만에 Juice=Juice의 멤버가 되었다. 미야자키 유카는 2012년에「SATOYAMA movement」의 유닛 "[GREEN FIELDS](https://ko.wikipedia.org/wiki/GREEN_FIELDS "wikilink")"의 멤버가 되어, 이 유닛으로서 헬로\! 프로젝트 콘서트에 참석했다가 Juice=Juice 가입이 결정되었다.
+[우에무라 아카리와](../Page/우에무라_아카리.md "wikilink") [오오츠카 아이나는](https://ko.wikipedia.org/wiki/오오츠카_아이나 "wikilink") [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink")에 모닝구무스메。9기 멤버 오디션을 받아 낙선했지만 하로프로 연수생이 되었다. [카나자와 토모코는](../Page/카나자와_토모코.md "wikilink") [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 11월에 하로프로 연수생이 된 것으로 밝혀져 그로부터 약 3개월 만에 Juice=Juice의 멤버가 되었다. 미야자키 유카는 2012년에「SATOYAMA movement」의 유닛 "[GREEN FIELDS](https://ko.wikipedia.org/wiki/GREEN_FIELDS "wikilink")"의 멤버가 되어, 이 유닛으로서 헬로\! 프로젝트 콘서트에 참석했다가 Juice=Juice 가입이 결정되었다.
 
   - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink")
 
@@ -45,7 +45,7 @@
 
 <!-- end list -->
 
-  - [6월 26일](https://ko.wikipedia.org/wiki/6월_26일 "wikilink"), 하로프로 연수생의 [단바라 루루가](https://ko.wikipedia.org/wiki/단바라_루루 "wikilink") 신멤버로 가입, [컨트리걸즈](https://ko.wikipedia.org/wiki/컨트리걸즈 "wikilink")의 [야나가와 나나미가](https://ko.wikipedia.org/wiki/야나가와_나나미 "wikilink") 컨트리걸즈 겸임\[6\].
+  - [6월 26일](https://ko.wikipedia.org/wiki/6월_26일 "wikilink"), 하로프로 연수생의 [단바라 루루가](https://ko.wikipedia.org/wiki/단바라_루루 "wikilink") 신멤버로 가입, [컨트리걸즈](../Page/컨트리걸즈.md "wikilink")의 [야나가와 나나미가](https://ko.wikipedia.org/wiki/야나가와_나나미 "wikilink") 컨트리걸즈 겸임\[6\].
 
 <!-- end list -->
 
@@ -53,7 +53,7 @@
 
 <!-- end list -->
 
-  - [6월 13일](https://ko.wikipedia.org/wiki/6월_13일 "wikilink"), [이나바 마나카가](https://ko.wikipedia.org/wiki/이나바_마나카 "wikilink") 신멤버로 가입\[7\].
+  - [6월 13일](https://ko.wikipedia.org/wiki/6월_13일 "wikilink"), [이나바 마나카가](../Page/이나바_마나카.md "wikilink") 신멤버로 가입\[7\].
   - [11월 2일](https://ko.wikipedia.org/wiki/11월_2일 "wikilink"), 야나가와 나나미가 Juice=Juice와 컨트리걸즈, 헬로\! 프로젝트를 졸업을 발표하였다\[8\].
   - [12월 21일](https://ko.wikipedia.org/wiki/12월_21일 "wikilink"), 미야자키 유카가 [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") 봄 라이브 투어 최종일을 기해 Juice=Juice와 헬로\! 프로젝트를 졸업을 발표하였다\[9\]. 졸업 후에도 연예 활동을 계속하게 된다.
 
@@ -280,7 +280,7 @@
 
 ### 텔레비전
 
-  - [The Girls Live](https://ko.wikipedia.org/wiki/The_Girls_Live "wikilink") ([2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [1월 9일](https://ko.wikipedia.org/wiki/1월_9일 "wikilink") \~ [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [3월 25일](https://ko.wikipedia.org/wiki/3월_25일 "wikilink"), [테레비도쿄](https://ko.wikipedia.org/wiki/테레비도쿄 "wikilink"))
+  - [The Girls Live](../Page/The_Girls_Live.md "wikilink") ([2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [1월 9일](https://ko.wikipedia.org/wiki/1월_9일 "wikilink") \~ [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [3월 25일](https://ko.wikipedia.org/wiki/3월_25일 "wikilink"), [테레비도쿄](https://ko.wikipedia.org/wiki/테레비도쿄 "wikilink"))
   - [AI・DOL 프로젝트](https://ko.wikipedia.org/wiki/AI・DOL_프로젝트 "wikilink") ([2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [4월 1일](https://ko.wikipedia.org/wiki/4월_1일 "wikilink") \~ , 테레비도쿄)
 
 ### 라디오

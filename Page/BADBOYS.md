@@ -59,9 +59,9 @@
   - **이와미 에이지** - 후카사와 타츠야 (Snow Man)
   - **나카무라 히사오** - 와타나베 쇼타 (Snow Man)
   - **요시모토 슌** (7대째 리더) - 야마네 카즈마
-  - **요시모토 쿠미** (슌의 여동생) - [하시모토 나나미](https://ko.wikipedia.org/wiki/하시모토_나나미 "wikilink") ([노기자카46](https://ko.wikipedia.org/wiki/노기자카46 "wikilink"))
+  - **요시모토 쿠미** (슌의 여동생) - [하시모토 나나미](../Page/하시모토_나나미.md "wikilink") ([노기자카46](https://ko.wikipedia.org/wiki/노기자카46 "wikilink"))
   - **스즈하라 신이치** (츠카사의 소꿉친구) - 마츠시마 쇼타
-  - **타카나시 아오이** (츠카사의 소꿉친구) - [타케토미 세이카](https://ko.wikipedia.org/wiki/타케토미_세이카 "wikilink")
+  - **타카나시 아오이** (츠카사의 소꿉친구) - [타케토미 세이카](../Page/타케토미_세이카.md "wikilink")
   - **나카무라 미치아케** (히사오의 아버지) - 하세가와 키미히코
 
 <!-- end list -->
@@ -91,8 +91,8 @@
   - **나카가와 켄지로** - [야스이 켄타로](https://ko.wikipedia.org/wiki/야스이_켄타로 "wikilink") (쟈니즈 Jr.)
   - **후나모토 준** - 하기야 케이고 (쟈니즈 Jr.)
   - **켄죠 쥬리** (원 Nights) - 시메카케 류야 (쟈니즈 Jr.)
-  - **사토 에리카** (히로의 여자친구) - [트린들 레이나](https://ko.wikipedia.org/wiki/트린들_레이나 "wikilink")
-  - **후지이 미카** (에이지의 여자친구) - [마츠무라 사유리](https://ko.wikipedia.org/wiki/마츠무라_사유리 "wikilink") (노기자카46)
+  - **사토 에리카** (히로의 여자친구) - [트린들 레이나](../Page/트린들_레이나.md "wikilink")
+  - **후지이 미카** (에이지의 여자친구) - [마츠무라 사유리](../Page/마츠무라_사유리.md "wikilink") (노기자카46)
   - **카미죠 마리코** - 아키모토 마나츠 (노기자카46)
   - **미카미 미유** - 이토 마리카 (노기자카46)
   - **사쿠마 미나** - 이토 네네 (노기자카46)
@@ -114,7 +114,7 @@
 
 <!-- end list -->
 
-  - **노무라 유타카** (단노의 친구) - [사노 카즈마](https://ko.wikipedia.org/wiki/사노_카즈마 "wikilink")
+  - **노무라 유타카** (단노의 친구) - [사노 카즈마](../Page/사노_카즈마.md "wikilink")
   - **이와타 쇼** (형사) - 나가시마 토시유키
 
 ### 스태프
@@ -136,7 +136,7 @@
 
 #### 삽입곡
 
-  - [노기자카46](https://ko.wikipedia.org/wiki/노기자카46 "wikilink") 〈[세상에서 가장 고독한 Lover](https://ko.wikipedia.org/wiki/걸즈_룰 "wikilink")〉 ([Sony Music Records](https://ko.wikipedia.org/wiki/소니_뮤직_레코드 "wikilink"))
+  - [노기자카46](https://ko.wikipedia.org/wiki/노기자카46 "wikilink") 〈[세상에서 가장 고독한 Lover](../Page/걸즈_룰.md "wikilink")〉 ([Sony Music Records](https://ko.wikipedia.org/wiki/소니_뮤직_레코드 "wikilink"))
 
 ### 방송일
 
@@ -281,7 +281,7 @@
 </table>
 
   - 제1화는 프로그램 조정의 형편상 때문에 25:20 \~ 25:50 방송.
-  - 제2·4화는 《[35세의 고교생](https://ko.wikipedia.org/wiki/35세의_고교생 "wikilink")》이 시간 확대 방송을 했기 때문에 25:05 \~ 25:35 방송.
+  - 제2·4화는 《[35세의 고교생](../Page/35세의_고교생.md "wikilink")》이 시간 확대 방송을 했기 때문에 25:05 \~ 25:35 방송.
   - 제10화는 프로그램 조정의 형편상 때문에 25:00 \~ 25:30 방송.
 
 ## 극장판 BAD BOYS J -최후에 지킬 것-
@@ -298,8 +298,8 @@
   - **카와나카 요지** - 이와모토 히카루 ([Snow Man](https://ko.wikipedia.org/wiki/Mis_Snow_Man "wikilink"))
   - **이와미 에이지** - 후카사와 타츠야 (Snow Man)
   - **나카무라 히사오** - 와타나베 쇼타 (Snow Man)
-  - **요시모토 쿠미** (츠카사의 여자친구) - [하시모토 나나미](https://ko.wikipedia.org/wiki/하시모토_나나미 "wikilink") ([노기자카46](https://ko.wikipedia.org/wiki/노기자카46 "wikilink"))
-  - **키노시타 아이리** (요지의 연모하고 있는 사람) - [이코마 리나](https://ko.wikipedia.org/wiki/이코마_리나 "wikilink") (노기자카46)
+  - **요시모토 쿠미** (츠카사의 여자친구) - [하시모토 나나미](../Page/하시모토_나나미.md "wikilink") ([노기자카46](https://ko.wikipedia.org/wiki/노기자카46 "wikilink"))
+  - **키노시타 아이리** (요지의 연모하고 있는 사람) - [이코마 리나](../Page/이코마_리나.md "wikilink") (노기자카46)
 
 #### BEAST
 
@@ -316,8 +316,8 @@
   - **히로** - [하시모토 료스케](https://ko.wikipedia.org/wiki/하시모토_료스케 "wikilink") ([A.B.C-Z](https://ko.wikipedia.org/wiki/A.B.C-Z "wikilink"))
   - **나카가와 켄지로** - [야스이 켄타로](https://ko.wikipedia.org/wiki/야스이_켄타로 "wikilink") (쟈니즈 Jr.)
   - **후나모토 준** - 하기야 케이고 (쟈니즈 Jr.)
-  - **사토 에리카** (히로의 여자친구) - [트린들 레이나](https://ko.wikipedia.org/wiki/트린들_레이나 "wikilink")
-  - **후지이 미카** (에이지의 여자친구) - [마츠무라 사유리](https://ko.wikipedia.org/wiki/마츠무라_사유리 "wikilink") (노기자카46)
+  - **사토 에리카** (히로의 여자친구) - [트린들 레이나](../Page/트린들_레이나.md "wikilink")
+  - **후지이 미카** (에이지의 여자친구) - [마츠무라 사유리](../Page/마츠무라_사유리.md "wikilink") (노기자카46)
   - **사쿠마 미나** - 이토 네네 (노기자카46)
   - **미카미 미유** - 이토 마리카 (노기자카46)
   - **카미죠 마리코** - 아키모토 마나츠 (노기자카46)
@@ -332,7 +332,7 @@
 
 #### 그 외
 
-  - **노무라 유타카** (단노의 친구) - [사노 카즈마](https://ko.wikipedia.org/wiki/사노_카즈마 "wikilink")
+  - **노무라 유타카** (단노의 친구) - [사노 카즈마](../Page/사노_카즈마.md "wikilink")
 
 ## 외부 링크
 
