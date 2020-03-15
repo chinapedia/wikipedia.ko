@@ -33,7 +33,7 @@
         11th 싱글.
 7.  **IN MY DREAM (WITH SHIVER)**
       -
-        2nd 싱글. 3집 앨범 「[EDEN](https://ko.wikipedia.org/wiki/EDEN_\(LUNA_SEA의_음반\) "wikilink")」에 수록되어 있는 버전 수록. 앨범 버전이 베스트 앨범에 수록된 것은 본작이 처음이다.
+        2nd 싱글. 3집 앨범 「[EDEN](../Page/EDEN_\(LUNA_SEA의_음반\).md "wikilink")」에 수록되어 있는 버전 수록. 앨범 버전이 베스트 앨범에 수록된 것은 본작이 처음이다.
 8.  **DESIRE**
       -
         6th 싱글.
@@ -54,7 +54,7 @@
         14th 싱글.
 14. **WISH**
       -
-        2집 앨범 「[IMAGE](https://ko.wikipedia.org/wiki/IMAGE_\(LUNA_SEA의_음반\) "wikilink")」수록곡. 본작에는 베스트 앨범 「[PERIOD \~THE BEST SELECTION\~](https://ko.wikipedia.org/wiki/PERIOD_~THE_BEST_SELECTION~_\(LUNA_SEA의_음반\) "wikilink")」에 수록되어 있는 리레코딩 버전으로 수록.
+        2집 앨범 「[IMAGE](../Page/IMAGE_\(LUNA_SEA의_음반\).md "wikilink")」수록곡. 본작에는 베스트 앨범 「[PERIOD \~THE BEST SELECTION\~](https://ko.wikipedia.org/wiki/PERIOD_~THE_BEST_SELECTION~_\(LUNA_SEA의_음반\) "wikilink")」에 수록되어 있는 리레코딩 버전으로 수록.
 
 ### DISC 2
 
@@ -63,10 +63,10 @@
         9th 싱글.
 2.  **Déjàvu**
       -
-        2집 앨범 「[IMAGE](https://ko.wikipedia.org/wiki/IMAGE_\(LUNA_SEA의_음반\) "wikilink")」수록곡.
+        2집 앨범 「[IMAGE](../Page/IMAGE_\(LUNA_SEA의_음반\).md "wikilink")」수록곡.
 3.  **Sweetest Coma Again feat.DJ KRUSH**
       -
-        7집 앨범 「[LUNACY](https://ko.wikipedia.org/wiki/LUNACY "wikilink")」수록곡.
+        7집 앨범 「[LUNACY](../Page/LUNACY.md "wikilink")」수록곡.
 4.  **END OF SORROW**
       -
         7th 싱글. 베스트 앨범 「[PERIOD \~THE BEST SELECTION\~](https://ko.wikipedia.org/wiki/PERIOD_~THE_BEST_SELECTION~_\(LUNA_SEA의_음반\) "wikilink")」에 수록되어 있는 버전을 수록.

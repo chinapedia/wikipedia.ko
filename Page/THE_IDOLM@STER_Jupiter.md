@@ -15,7 +15,7 @@
 
 1.  '''Alice or Guilty(M@STER VERSION) '''
       -
-        가: Jupiter([테라시마 타쿠마](https://ko.wikipedia.org/wiki/테라시마_타쿠마 "wikilink") ,[칸바라 다이치](https://ko.wikipedia.org/wiki/칸바라_다이치 "wikilink") ,[마츠오카 요시츠구](https://ko.wikipedia.org/wiki/마츠오카_요시츠구 "wikilink"))
+        가: Jupiter([테라시마 타쿠마](https://ko.wikipedia.org/wiki/테라시마_타쿠마 "wikilink") ,[칸바라 다이치](https://ko.wikipedia.org/wiki/칸바라_다이치 "wikilink") ,[마츠오카 요시츠구](../Page/마츠오카_요시츠구.md "wikilink"))
         작사: 우에스 마코토, 작곡·편곡: NBGI(빈본리앙)
 2.  BANG×BANG
       -

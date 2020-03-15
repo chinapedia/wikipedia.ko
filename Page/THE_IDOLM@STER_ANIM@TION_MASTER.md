@@ -3,7 +3,7 @@
 
 **'THE IDOLM@STER ANIM@TION MASTER**' (아이돌마스터 애니메이션 마스터)는 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [8월 10일부터](https://ko.wikipedia.org/wiki/8월_10일 "wikilink") [일본 컬럼비아에서](../Page/일본_컬럼비아.md "wikilink") 발매되고 있는 애니메이션 '[THE IDOLM@STER](../Page/THE_IDOLM@STER_\(애니메이션\).md "wikilink")'의 CD시리즈이다.
 
-'[MASTER ARTIST 2](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_2#CD "wikilink")'에 이어지는 CD시리즈로, 이 시리즈에 이어, '[ANIM@TION MASTER 생방임까 SPECIAL](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_ANIM@TION_MASTER_생방임까_SPECIAL "wikilink")' 시리즈가 발매되고 있다.
+'[MASTER ARTIST 2](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_2#CD "wikilink")'에 이어지는 CD시리즈로, 이 시리즈에 이어, '[ANIM@TION MASTER 생방임까 SPECIAL](../Page/THE_IDOLM@STER_ANIM@TION_MASTER_생방임까_SPECIAL.md "wikilink")' 시리즈가 발매되고 있다.
 
 ## 개요
 

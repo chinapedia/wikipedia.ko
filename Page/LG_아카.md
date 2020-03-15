@@ -40,9 +40,9 @@
 
 ## 같이 보기
 
-  - [삼성 갤럭시 그랜드 맥스](https://ko.wikipedia.org/wiki/삼성_갤럭시_그랜드_맥스 "wikilink")
+  - [삼성 갤럭시 그랜드 맥스](../Page/삼성_갤럭시_그랜드_맥스.md "wikilink")
   - [LG G3 비트](../Page/LG_G3_비트.md "wikilink")
-  - [LG 아이스크림 스마트](https://ko.wikipedia.org/wiki/LG_아이스크림_스마트 "wikilink")
+  - [LG 아이스크림 스마트](../Page/LG_아이스크림_스마트.md "wikilink")
 
 ## 각주
 

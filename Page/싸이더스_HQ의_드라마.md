@@ -165,7 +165,7 @@
 <!-- end list -->
 
   -
-    주연: [김소현](https://ko.wikipedia.org/wiki/김소현 "wikilink"), [지수](https://ko.wikipedia.org/wiki/지수_\(배우\) "wikilink"), [신재하](../Page/신재하.md "wikilink")
+    주연: [김소현](https://ko.wikipedia.org/wiki/김소현 "wikilink"), [지수](../Page/지수_\(배우\).md "wikilink"), [신재하](../Page/신재하.md "wikilink")
 
 ### 2017년
 

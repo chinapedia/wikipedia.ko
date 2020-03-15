@@ -6,7 +6,7 @@
 ## 개요
 
   - 〈[Blue World](../Page/Blue_World.md "wikilink")〉 이후 1년여만에 발표된 싱글.
-  - [SUPER SHOW 6](https://ko.wikipedia.org/wiki/SUPER_SHOW_6 "wikilink") 오사카 공연을 통해 최초 공개되었다.
+  - [SUPER SHOW 6](../Page/SUPER_SHOW_6.md "wikilink") 오사카 공연을 통해 최초 공개되었다.
 
 ## 수록곡
 

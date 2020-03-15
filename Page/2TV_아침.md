@@ -51,7 +51,7 @@
 ## 같이 보기
 
   - [2TV 생생정보](https://ko.wikipedia.org/wiki/2TV_생생정보 "wikilink")
-  - [2TV 생생정보 플러스](https://ko.wikipedia.org/wiki/2TV_생생정보_플러스 "wikilink")
+  - [2TV 생생정보 플러스](../Page/2TV_생생정보_플러스.md "wikilink")
   - [VJ특공대](https://ko.wikipedia.org/wiki/VJ특공대 "wikilink")
 
 ## 동 시간대 프로그램

@@ -61,10 +61,10 @@
 12. **BREATHE**
       -
         원곡자 : [이노란](https://ko.wikipedia.org/wiki/이노란 "wikilink")
-        가사는 [류이치](https://ko.wikipedia.org/wiki/류이치 "wikilink")와 [이노란](https://ko.wikipedia.org/wiki/이노란 "wikilink")의 공동작사. 나중에 발라드 베스트 앨범 [SLOW에](https://ko.wikipedia.org/wiki/SLOW_\(LUNA_SEA의_음반\) "wikilink") 이 곡의 PV가 최초 수록된 DVD가 동봉됐다. 디즈니 애니메이션 "뮬란"의 이미지 송인 이 영화의 일본판 사운드 트랙에는 보너스 트랙으로 이 곡에 현악기가 추가된 버전이 수록되어 있다.
+        가사는 [류이치](https://ko.wikipedia.org/wiki/류이치 "wikilink")와 [이노란](https://ko.wikipedia.org/wiki/이노란 "wikilink")의 공동작사. 나중에 발라드 베스트 앨범 [SLOW에](../Page/SLOW_\(LUNA_SEA의_음반\).md "wikilink") 이 곡의 PV가 최초 수록된 DVD가 동봉됐다. 디즈니 애니메이션 "뮬란"의 이미지 송인 이 영화의 일본판 사운드 트랙에는 보너스 트랙으로 이 곡에 현악기가 추가된 버전이 수록되어 있다.
 13. **UP TO YOU**
       -
         원곡자 : [이노란](https://ko.wikipedia.org/wiki/이노란 "wikilink")
-        [SHINE](https://ko.wikipedia.org/wiki/SHINE_\(LUNA_SEA의_음반\) "wikilink") 발매 후 진행된 투어에서 피날레를 장식하던 곡으로, 이후 2010년 12월 31일에 고베 월드 기념 홀에서 열린 카운트다운 공연 때 첫 곡으로 연주되기도 하였다.
+        [SHINE](../Page/SHINE_\(LUNA_SEA의_음반\).md "wikilink") 발매 후 진행된 투어에서 피날레를 장식하던 곡으로, 이후 2010년 12월 31일에 고베 월드 기념 홀에서 열린 카운트다운 공연 때 첫 곡으로 연주되기도 하였다.
 
 [분류:1998년 음반](https://ko.wikipedia.org/wiki/분류:1998년_음반 "wikilink") [분류:LUNA SEA의 음반](https://ko.wikipedia.org/wiki/분류:LUNA_SEA의_음반 "wikilink")

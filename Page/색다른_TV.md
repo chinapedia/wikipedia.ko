@@ -21,7 +21,7 @@
 | -- | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1기 | [여기는 TV 정보센터](https://ko.wikipedia.org/wiki/여기는_TV_정보센터 "wikilink") (KBS 2TV) | [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [4월 1일](https://ko.wikipedia.org/wiki/4월_1일 "wikilink") \~ [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [4월 29일](https://ko.wikipedia.org/wiki/4월_29일 "wikilink")   |
 | 2기 | [색다른 오후](https://ko.wikipedia.org/wiki/색다른_오후 "wikilink") (KBS 2TV)           | [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [5월 2일](https://ko.wikipedia.org/wiki/5월_2일 "wikilink") \~ [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [7월 1일](https://ko.wikipedia.org/wiki/7월_1일 "wikilink")     |
-| 3기 | [색다른 TV](https://ko.wikipedia.org/wiki/색다른_TV "wikilink") (KBS 1TV)           | [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [7월 4일](https://ko.wikipedia.org/wiki/7월_4일 "wikilink") \~ [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [10월 28일](https://ko.wikipedia.org/wiki/10월_28일 "wikilink") |
+| 3기 | [색다른 TV](../Page/색다른_TV.md "wikilink") (KBS 1TV)                              | [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [7월 4일](https://ko.wikipedia.org/wiki/7월_4일 "wikilink") \~ [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [10월 28일](https://ko.wikipedia.org/wiki/10월_28일 "wikilink") |
 
 ## 진행자
 

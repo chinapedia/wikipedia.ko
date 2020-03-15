@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Always \(  \)](https://ko.wikipedia.org/wiki/Always_\(__\)).
 
 
-{{싱글 정보 | 곡명 = always | 음악가 = [쿠라키 마이](https://ko.wikipedia.org/wiki/쿠라키_마이 "wikilink") | 음반 = [Perfect Crime](https://ko.wikipedia.org/wiki/Perfect_Crime "wikilink") | A 사이드 = | B 사이드 = All Night　 | 발매일 =  | 포맷 = [맥시싱글](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink") | 녹음 = | 장르 = [J-POP](https://ko.wikipedia.org/wiki/J-POP "wikilink"), [애니메이션 음악](https://ko.wikipedia.org/wiki/애니메이션_음악 "wikilink") | 길이 = 4분 7초 | 레이블 = [기자 스튜디오](https://ko.wikipedia.org/wiki/기자_스튜디오 "wikilink") | 작사·작곡 = 쿠라키 마이, [오노 아이카](https://ko.wikipedia.org/wiki/오노_아이카 "wikilink") | 프로듀서 = [KANONJI](https://ko.wikipedia.org/wiki/KANONJI "wikilink") | 이전싱글 = [Stand Up](https://ko.wikipedia.org/wiki/Stand_Up_\(쿠라키_마이의_노래\) "wikilink")
+{{싱글 정보 | 곡명 = always | 음악가 = [쿠라키 마이](https://ko.wikipedia.org/wiki/쿠라키_마이 "wikilink") | 음반 = [Perfect Crime](../Page/Perfect_Crime.md "wikilink") | A 사이드 = | B 사이드 = All Night　 | 발매일 =  | 포맷 = [맥시싱글](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink") | 녹음 = | 장르 = [J-POP](https://ko.wikipedia.org/wiki/J-POP "wikilink"), [애니메이션 음악](https://ko.wikipedia.org/wiki/애니메이션_음악 "wikilink") | 길이 = 4분 7초 | 레이블 = [기자 스튜디오](https://ko.wikipedia.org/wiki/기자_스튜디오 "wikilink") | 작사·작곡 = 쿠라키 마이, [오노 아이카](https://ko.wikipedia.org/wiki/오노_아이카 "wikilink") | 프로듀서 = [KANONJI](https://ko.wikipedia.org/wiki/KANONJI "wikilink") | 이전싱글 = [Stand Up](../Page/Stand_Up_\(쿠라키_마이의_노래\).md "wikilink")
 ([2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink")) | 이번싱글 = **always**
 (2001년) | 다음싱글 = \[\[Can't_forget_your_love/PERFECT_CRIME_-Single_Edit-|Can't forget your love/
  〈**always**〉는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [쿠라키 마이의](https://ko.wikipedia.org/wiki/쿠라키_마이 "wikilink") 아홉 번째 [CD싱글로](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink") [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [6월 6일에](https://ko.wikipedia.org/wiki/6월_6일 "wikilink") [기자 스튜디오에서](https://ko.wikipedia.org/wiki/기자_스튜디오 "wikilink") 발매됐다.
@@ -39,7 +39,7 @@
 <tr class="even">
 <td><p>이전 곡:<br />
 <a href="https://ko.wikipedia.org/wiki/코마츠_미호" title="wikilink">코마츠 미호</a><br />
-〈<a href="https://ko.wikipedia.org/wiki/당신이_있으니까_(코마츠_미호의_노래)" title="wikilink">당신이 있으니까</a>〉</p></td>
+〈<a href="../Page/당신이_있으니까_(코마츠_미호의_노래).md" title="wikilink">당신이 있으니까</a>〉</p></td>
 </tr>
 </tbody>
 </table>

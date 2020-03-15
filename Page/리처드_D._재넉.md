@@ -3,7 +3,7 @@
 
 **리처드 대릴 재넉**( [1934년](https://ko.wikipedia.org/wiki/1934년 "wikilink") [12월 13일](https://ko.wikipedia.org/wiki/12월_13일 "wikilink") \~ [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [7월 13일](https://ko.wikipedia.org/wiki/7월_13일 "wikilink"))는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [영화 제작자이다](https://ko.wikipedia.org/wiki/영화_제작자 "wikilink"). [브루스 베러스퍼드](https://ko.wikipedia.org/wiki/브루스_베러스퍼드 "wikilink") 감독과 함께 제작한 《[드라이빙 미스 데이지](https://ko.wikipedia.org/wiki/드라이빙_미스_데이지 "wikilink")》(1989)로 제62회 [아카데미 작품상과](https://ko.wikipedia.org/wiki/아카데미_작품상 "wikilink") 제47회 [골든 글로브 뮤지컬 코미디 부문 작품상을](https://ko.wikipedia.org/wiki/골든_글로브상 "wikilink") 수상했다. 이외의 대표작으로 《[사운드 오브 뮤직](https://ko.wikipedia.org/wiki/사운드_오브_뮤직_\(영화\) "wikilink")》(1965), 《[죠스](https://ko.wikipedia.org/wiki/죠스_\(영화\) "wikilink")》(1975), 《[이상한 나라의 앨리스](https://ko.wikipedia.org/wiki/이상한_나라의_앨리스_\(2010년_영화\) "wikilink")》(2010)가 있다.
 
-아버지는 [20세기 폭스의](https://ko.wikipedia.org/wiki/20세기_폭스 "wikilink") 창립자인 [대릴 F. 재넉이고](https://ko.wikipedia.org/wiki/대릴_F._재넉 "wikilink") 어머니는 배우 [버지니아 폭스이다](https://ko.wikipedia.org/wiki/버지니아_폭스 "wikilink"). [스탠퍼드 대학교](https://ko.wikipedia.org/wiki/스탠퍼드_대학교 "wikilink") 재학 시절부터 영화계에 발을 들였다. 2012년에 [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink") [베벌리힐스](https://ko.wikipedia.org/wiki/베벌리힐스 "wikilink")의 자택에서 [심장마비](https://ko.wikipedia.org/wiki/심장마비 "wikilink")로 사망하였다. 향년 79세\[1\]
+아버지는 [20세기 폭스의](https://ko.wikipedia.org/wiki/20세기_폭스 "wikilink") 창립자인 [대릴 F. 재넉이고](../Page/대릴_F._재넉.md "wikilink") 어머니는 배우 [버지니아 폭스이다](https://ko.wikipedia.org/wiki/버지니아_폭스 "wikilink"). [스탠퍼드 대학교](https://ko.wikipedia.org/wiki/스탠퍼드_대학교 "wikilink") 재학 시절부터 영화계에 발을 들였다. 2012년에 [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink") [베벌리힐스](https://ko.wikipedia.org/wiki/베벌리힐스 "wikilink")의 자택에서 [심장마비](https://ko.wikipedia.org/wiki/심장마비 "wikilink")로 사망하였다. 향년 79세\[1\]
 
 ## 작품 목록
 
@@ -134,7 +134,7 @@
 <tr class="even">
 <td><p>1996</p></td>
 <td><p>멀홀랜드 폴스 <em><a href="https://ko.wikipedia.org/wiki/:en:Mulholland_Falls" title="wikilink">Mulholland Falls</a></em></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/리_타마호리" title="wikilink">리 타마호리</a></p></td>
+<td><p><a href="../Page/리_타마호리.md" title="wikilink">리 타마호리</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1996</p></td>
@@ -164,7 +164,7 @@
 <tr class="even">
 <td><p>2002</p></td>
 <td><p>레인 오브 파이어 <em><a href="https://ko.wikipedia.org/wiki/:en:Reign_of_Fire_(film)" title="wikilink">Reign of Fire</a></em></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/롭_보먼" title="wikilink">롭 보먼</a></p></td>
+<td><p><a href="../Page/롭_보먼.md" title="wikilink">롭 보먼</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2002</p></td>

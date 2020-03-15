@@ -18,11 +18,11 @@
   - 48 [헥터 노에시](https://ko.wikipedia.org/wiki/헥터_노에시 "wikilink") ([Hector Noesi](https://ko.wikipedia.org/wiki/w:en:Hector_Noesi "wikilink"))
   - 52 [제이트 페트리카](https://ko.wikipedia.org/wiki/제이트_페트리카 "wikilink") ([Jake Petricka](https://ko.wikipedia.org/wiki/w:en:Jake_Petricka "wikilink"))
   - 57 [잭 푸트넘](https://ko.wikipedia.org/wiki/잭_푸트넘 "wikilink") ([Zach Putnam](https://ko.wikipedia.org/wiki/w:en:Zach_Putnam "wikilink"))
-  - 62 [호세 퀸타나](https://ko.wikipedia.org/wiki/호세_퀸타나 "wikilink") ([Jose Quintana](https://ko.wikipedia.org/wiki/w:en:Jose_Quintana "wikilink"))
+  - 62 [호세 퀸타나](../Page/호세_퀸타나.md "wikilink") ([Jose Quintana](https://ko.wikipedia.org/wiki/w:en:Jose_Quintana "wikilink"))
   - \-- [데이비드 로버트슨](https://ko.wikipedia.org/wiki/데이비드_로버트슨_\(야구_선수\) "wikilink") ([David Robertson](https://ko.wikipedia.org/wiki/w:en:David_Robertson_\(baseball\) "wikilink"))
-  - 49 [크리스 세일](https://ko.wikipedia.org/wiki/크리스_세일 "wikilink") ([Chris Sale](https://ko.wikipedia.org/wiki/w:en:Chris_Sale "wikilink"))
+  - 49 [크리스 세일](../Page/크리스_세일.md "wikilink") ([Chris Sale](https://ko.wikipedia.org/wiki/w:en:Chris_Sale "wikilink"))
   - \-- [제프 사마자](https://ko.wikipedia.org/wiki/제프_사마자 "wikilink") ([Jeff Samardzija](https://ko.wikipedia.org/wiki/w:en:Jeff_Samardzija "wikilink"))
-  - 53 [에릭 서캠프](https://ko.wikipedia.org/wiki/에릭_서캠프 "wikilink") ([Eric Surkamp](https://ko.wikipedia.org/wiki/w:en:Eric_Surkamp "wikilink"))
+  - 53 [에릭 서캠프](../Page/에릭_서캠프.md "wikilink") ([Eric Surkamp](https://ko.wikipedia.org/wiki/w:en:Eric_Surkamp "wikilink"))
   - 40 [다니엘 웹](https://ko.wikipedia.org/wiki/다니엘_웹 "wikilink") ([Daniel Webb](https://ko.wikipedia.org/wiki/w:en:Daniel_Webb_\(baseball\) "wikilink"))
   - \-- [마이클 이노아](https://ko.wikipedia.org/wiki/마이클_이노아 "wikilink") ([Michael Ynoa](https://ko.wikipedia.org/wiki/w:en:Michael_Ynoa "wikilink"))
 
@@ -33,7 +33,7 @@
 <!-- end list -->
 
   - \-- [롭 브랜틀리](https://ko.wikipedia.org/wiki/롭_브랜틀리 "wikilink") ([Rob Brantly](https://ko.wikipedia.org/wiki/w:en:Rob_Brantly "wikilink"))
-  - 21 [타일러 플라워스](https://ko.wikipedia.org/wiki/타일러_플라워스 "wikilink") ([Tyler Flowers](https://ko.wikipedia.org/wiki/w:en:Tyler_Flowers "wikilink"))
+  - 21 [타일러 플라워스](../Page/타일러_플라워스.md "wikilink") ([Tyler Flowers](https://ko.wikipedia.org/wiki/w:en:Tyler_Flowers "wikilink"))
   - 17 [아드리안 니에토](https://ko.wikipedia.org/wiki/아드리안_니에토 "wikilink") ([Adrian Nieto](https://ko.wikipedia.org/wiki/w:en:Adrian_Nieto "wikilink"))
   - \-- [케반 스미스](https://ko.wikipedia.org/wiki/케반_스미스 "wikilink") ([Kevan Smith](https://ko.wikipedia.org/wiki/w:en:Kevan_Smith_\(baseball\) "wikilink"))
 
@@ -61,7 +61,7 @@
 
   - \-- [멜키 카브레라](https://ko.wikipedia.org/wiki/멜키_카브레라 "wikilink") ([Melky Cabrera](https://ko.wikipedia.org/wiki/w:en:Melky_Cabrera "wikilink"))
   - 20 [조던 댕크스](https://ko.wikipedia.org/wiki/조던_댕크스 "wikilink") ([Jordan Danks](https://ko.wikipedia.org/wiki/w:en:Jordan_Danks "wikilink"))
-  - 1 [애덤 이턴](https://ko.wikipedia.org/wiki/애덤_이턴 "wikilink") ([Adam Eaton](https://ko.wikipedia.org/wiki/w:en:Adam_Eaton_\(outfielder\) "wikilink"))
+  - 1 [애덤 이턴](../Page/애덤_이턴.md "wikilink") ([Adam Eaton](https://ko.wikipedia.org/wiki/w:en:Adam_Eaton_\(outfielder\) "wikilink"))
   - 26 [아비세일 가르시아](https://ko.wikipedia.org/wiki/아비세일_가르시아 "wikilink") ([Avisail Garcia](https://ko.wikipedia.org/wiki/w:en:Avisail_Garcia "wikilink"))
   - \-- [J. B. 셕](https://ko.wikipedia.org/wiki/J._B._셕 "wikilink") ([J. B. Shuck](https://ko.wikipedia.org/wiki/w:en:J._B._Shuck "wikilink"))
   - 75 [트레이스 톰슨](https://ko.wikipedia.org/wiki/트레이스_톰슨 "wikilink") ([Trayce Thompson](https://ko.wikipedia.org/wiki/w:en:Trayce_Thompson "wikilink"))

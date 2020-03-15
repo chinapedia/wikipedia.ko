@@ -27,7 +27,7 @@
 
 ## 관련 항목
 
-  - [Love For You](https://ko.wikipedia.org/wiki/Love_For_You "wikilink")
+  - [Love For You](../Page/Love_For_You.md "wikilink")
 
 <table>
 <tbody>

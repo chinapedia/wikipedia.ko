@@ -11,7 +11,7 @@
 
 ## 노선
 
-  - **[IR 이시카와 철도선](https://ko.wikipedia.org/wiki/IR_이시카와_철도선 "wikilink")**(): JR서일본 호쿠리쿠 본선의 [가나자와 역](https://ko.wikipedia.org/wiki/가나자와_역 "wikilink") - [구리카라 역](https://ko.wikipedia.org/wiki/구리카라_역 "wikilink")(17.8 km)을 이관
+  - **[IR 이시카와 철도선](../Page/IR_이시카와_철도선.md "wikilink")**(): JR서일본 호쿠리쿠 본선의 [가나자와 역](https://ko.wikipedia.org/wiki/가나자와_역 "wikilink") - [구리카라 역](https://ko.wikipedia.org/wiki/구리카라_역 "wikilink")(17.8 km)을 이관
 
 ## 차량
 
@@ -29,7 +29,7 @@
       - [IGR 이와테 은하 철도](https://ko.wikipedia.org/wiki/IGR_이와테_은하_철도 "wikilink")
       - [아오이모리 철도](https://ko.wikipedia.org/wiki/아오이모리_철도 "wikilink")
       - [히사쓰 오렌지 철도](https://ko.wikipedia.org/wiki/히사쓰_오렌지_철도 "wikilink")
-      - [도난 이사리비 철도](https://ko.wikipedia.org/wiki/도난_이사리비_철도 "wikilink")
+      - [도난 이사리비 철도](../Page/도난_이사리비_철도.md "wikilink")
 
 ## 외부 링크
 

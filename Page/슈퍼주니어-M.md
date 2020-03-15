@@ -21,7 +21,7 @@
 <li>본명 : 이성민 (李晟敏)</li>
 <li>생년월일 : </li>
 <li>출생지 :  <a href="https://ko.wikipedia.org/wiki/경기도" title="wikilink">경기도</a> <a href="https://ko.wikipedia.org/wiki/고양시" title="wikilink">고양시</a></li>
-<li>유닛그룹 : <a href="https://ko.wikipedia.org/wiki/슈퍼주니어-M" title="wikilink">슈퍼주니어-M</a>, <a href="https://ko.wikipedia.org/wiki/슈퍼주니어-T" title="wikilink">슈퍼주니어-T</a>, <a href="https://ko.wikipedia.org/wiki/슈퍼주니어-Happy" title="wikilink">슈퍼주니어-Happy</a></li>
+<li>유닛그룹 : <a href="../Page/슈퍼주니어-M.md" title="wikilink">슈퍼주니어-M</a>, <a href="https://ko.wikipedia.org/wiki/슈퍼주니어-T" title="wikilink">슈퍼주니어-T</a>, <a href="https://ko.wikipedia.org/wiki/슈퍼주니어-Happy" title="wikilink">슈퍼주니어-Happy</a></li>
 <li>활동기간 : <a href="https://ko.wikipedia.org/wiki/2005년" title="wikilink">2005년</a> <a href="https://ko.wikipedia.org/wiki/11월_6일" title="wikilink">11월 6일</a> ~ (활동 중단)[1]</li>
 </ul></td>
 </tr>
@@ -32,7 +32,7 @@
 <li>본명 : 이혁재 (李赫宰)</li>
 <li>생년월일 : </li>
 <li>출생지 :  <a href="https://ko.wikipedia.org/wiki/경기도" title="wikilink">경기도</a> <a href="https://ko.wikipedia.org/wiki/고양시" title="wikilink">고양시</a></li>
-<li>유닛그룹 : <a href="https://ko.wikipedia.org/wiki/슈퍼주니어-D&amp;E" title="wikilink">슈퍼주니어-D&amp;E</a>, <a href="https://ko.wikipedia.org/wiki/슈퍼주니어-T" title="wikilink">슈퍼주니어-T</a>, <a href="https://ko.wikipedia.org/wiki/슈퍼주니어-M" title="wikilink">슈퍼주니어-M</a>, <a href="https://ko.wikipedia.org/wiki/슈퍼주니어-Happy" title="wikilink">슈퍼주니어-Happy</a></li>
+<li>유닛그룹 : <a href="../Page/슈퍼주니어-D&amp;E.md" title="wikilink">슈퍼주니어-D&amp;E</a>, <a href="https://ko.wikipedia.org/wiki/슈퍼주니어-T" title="wikilink">슈퍼주니어-T</a>, <a href="../Page/슈퍼주니어-M.md" title="wikilink">슈퍼주니어-M</a>, <a href="https://ko.wikipedia.org/wiki/슈퍼주니어-Happy" title="wikilink">슈퍼주니어-Happy</a></li>
 <li>활동기간 : <a href="https://ko.wikipedia.org/wiki/2005년" title="wikilink">2005년</a> <a href="https://ko.wikipedia.org/wiki/11월_6일" title="wikilink">11월 6일</a> ~ <strong>현재</strong></li>
 </ul></td>
 </tr>
@@ -43,7 +43,7 @@
 <li>본명 : 조미 ()</li>
 <li>생년월일 : </li>
 <li>출생지 :  <a href="https://ko.wikipedia.org/wiki/후베이성" title="wikilink">후베이 성</a> <a href="https://ko.wikipedia.org/wiki/우한시" title="wikilink">우한 시</a></li>
-<li>유닛그룹 : <a href="https://ko.wikipedia.org/wiki/슈퍼주니어-M" title="wikilink">슈퍼주니어-M</a></li>
+<li>유닛그룹 : <a href="../Page/슈퍼주니어-M.md" title="wikilink">슈퍼주니어-M</a></li>
 <li>활동기간 : <a href="https://ko.wikipedia.org/wiki/2008년" title="wikilink">2008년</a> <a href="https://ko.wikipedia.org/wiki/4월_8일" title="wikilink">4월 8일</a> ~ <strong>현재</strong></li>
 </ul></td>
 </tr>
@@ -54,18 +54,18 @@
 <li>본명 : 이동해 (李東海)</li>
 <li>생년월일 : </li>
 <li>출생지 :  <a href="https://ko.wikipedia.org/wiki/전라남도" title="wikilink">전라남도</a> <a href="https://ko.wikipedia.org/wiki/목포시" title="wikilink">목포시</a></li>
-<li>유닛그룹 : <a href="https://ko.wikipedia.org/wiki/슈퍼주니어-D&amp;E" title="wikilink">슈퍼주니어-D&amp;E</a>, <a href="https://ko.wikipedia.org/wiki/슈퍼주니어-M" title="wikilink">슈퍼주니어-M</a></li>
+<li>유닛그룹 : <a href="../Page/슈퍼주니어-D&amp;E.md" title="wikilink">슈퍼주니어-D&amp;E</a>, <a href="../Page/슈퍼주니어-M.md" title="wikilink">슈퍼주니어-M</a></li>
 <li>활동기간 : <a href="https://ko.wikipedia.org/wiki/2005년" title="wikilink">2005년</a> <a href="https://ko.wikipedia.org/wiki/11월_6일" title="wikilink">11월 6일</a> ~ <strong>현재</strong></li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/시원_(가수)" title="wikilink">시원</a></strong></p></td>
+<td><p><strong><a href="../Page/시원_(가수).md" title="wikilink">시원</a></strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:KCON_2015_Siwon.jpg" title="wikilink">100px</a></p></td>
 <td><ul>
 <li>본명 : 최시원 (崔始源)</li>
 <li>생년월일 : </li>
 <li>출생지 :  <a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울특별시</a></li>
-<li>유닛그룹 : <a href="https://ko.wikipedia.org/wiki/슈퍼주니어-M" title="wikilink">슈퍼주니어-M</a></li>
+<li>유닛그룹 : <a href="../Page/슈퍼주니어-M.md" title="wikilink">슈퍼주니어-M</a></li>
 <li>활동기간 : <a href="https://ko.wikipedia.org/wiki/2005년" title="wikilink">2005년</a> <a href="https://ko.wikipedia.org/wiki/11월_6일" title="wikilink">11월 6일</a> ~ <strong>현재</strong></li>
 </ul></td>
 </tr>
@@ -76,7 +76,7 @@
 <li>본명 : 김려욱 (金厲旭)</li>
 <li>생년월일 : </li>
 <li>출생지 :  <a href="https://ko.wikipedia.org/wiki/인천광역시" title="wikilink">인천광역시</a></li>
-<li>유닛그룹 : <a href="https://ko.wikipedia.org/wiki/슈퍼주니어-K.R.Y" title="wikilink">슈퍼주니어-K.R.Y</a>, <a href="https://ko.wikipedia.org/wiki/슈퍼주니어-M" title="wikilink">슈퍼주니어-M</a></li>
+<li>유닛그룹 : <a href="https://ko.wikipedia.org/wiki/슈퍼주니어-K.R.Y" title="wikilink">슈퍼주니어-K.R.Y</a>, <a href="../Page/슈퍼주니어-M.md" title="wikilink">슈퍼주니어-M</a></li>
 <li>활동기간 : <a href="https://ko.wikipedia.org/wiki/2005년" title="wikilink">2005년</a> <a href="https://ko.wikipedia.org/wiki/11월_6일" title="wikilink">11월 6일</a> ~ <strong>현재</strong></li>
 </ul></td>
 </tr>
@@ -87,7 +87,7 @@
 <li>본명 : 조규현 (曺圭賢)</li>
 <li>생년월일 : </li>
 <li>출생지 :  <a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울특별시</a></li>
-<li>유닛그룹 : <a href="https://ko.wikipedia.org/wiki/슈퍼주니어-K.R.Y" title="wikilink">슈퍼주니어-K.R.Y</a>, <a href="https://ko.wikipedia.org/wiki/슈퍼주니어-M" title="wikilink">슈퍼주니어-M</a></li>
+<li>유닛그룹 : <a href="https://ko.wikipedia.org/wiki/슈퍼주니어-K.R.Y" title="wikilink">슈퍼주니어-K.R.Y</a>, <a href="../Page/슈퍼주니어-M.md" title="wikilink">슈퍼주니어-M</a></li>
 <li>활동기간 : <a href="https://ko.wikipedia.org/wiki/2006년" title="wikilink">2006년</a> <a href="https://ko.wikipedia.org/wiki/5월_27일" title="wikilink">5월 27일</a> ~ <strong>현재</strong></li>
 </ul></td>
 </tr>
@@ -112,7 +112,7 @@
 <li>본명 : 한긍 ()</li>
 <li>생년월일 : </li>
 <li>출생지 :  <a href="https://ko.wikipedia.org/wiki/헤이룽장성" title="wikilink">헤이룽장 성</a> <a href="https://ko.wikipedia.org/wiki/무단장시" title="wikilink">무단장 시</a></li>
-<li>유닛그룹 : <a href="https://ko.wikipedia.org/wiki/슈퍼주니어-M" title="wikilink">슈퍼주니어-M</a></li>
+<li>유닛그룹 : <a href="../Page/슈퍼주니어-M.md" title="wikilink">슈퍼주니어-M</a></li>
 <li>활동기간 : <a href="https://ko.wikipedia.org/wiki/2005년" title="wikilink">2005년</a> <a href="https://ko.wikipedia.org/wiki/11월_6일" title="wikilink">11월 6일</a> ~ <a href="https://ko.wikipedia.org/wiki/2009년" title="wikilink">2009년</a> <a href="https://ko.wikipedia.org/wiki/12월_22일" title="wikilink">12월 22일</a>[2]</li>
 </ul></td>
 </tr>
@@ -123,7 +123,7 @@
 <li>본명 : 류셴화 ()</li>
 <li>생년월일 : </li>
 <li>출생지 :  <a href="https://ko.wikipedia.org/wiki/온타리오주" title="wikilink">온타리오 주</a> <a href="https://ko.wikipedia.org/wiki/토론토" title="wikilink">토론토</a></li>
-<li>유닛그룹 : <a href="https://ko.wikipedia.org/wiki/슈퍼주니어-M" title="wikilink">슈퍼주니어-M</a></li>
+<li>유닛그룹 : <a href="../Page/슈퍼주니어-M.md" title="wikilink">슈퍼주니어-M</a></li>
 <li>활동기간 : <a href="https://ko.wikipedia.org/wiki/2008년" title="wikilink">2008년</a> <a href="https://ko.wikipedia.org/wiki/4월_8일" title="wikilink">4월 8일</a> ~ <a href="https://ko.wikipedia.org/wiki/2018년" title="wikilink">2018년</a> <a href="https://ko.wikipedia.org/wiki/4월_29일" title="wikilink">4월 29일</a>[3]</li>
 </ul></td>
 </tr>

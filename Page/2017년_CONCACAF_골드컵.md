@@ -9,26 +9,26 @@
 
 | 도시                                                                                                                              | 경기장                                                                               | 수용인원    |
 | ------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ------- |
-| [클리블랜드](https://ko.wikipedia.org/wiki/클리블랜드 "wikilink")                                                                         | [퍼스트에너지 스타디움](https://ko.wikipedia.org/wiki/퍼스트에너지_스타디움 "wikilink")               | 67,431  |
+| [클리블랜드](https://ko.wikipedia.org/wiki/클리블랜드 "wikilink")                                                                         | [퍼스트에너지 스타디움](../Page/퍼스트에너지_스타디움.md "wikilink")                                  | 67,431  |
 | [덴버](https://ko.wikipedia.org/wiki/덴버 "wikilink")                                                                               | [스포츠 어서리티 필드 앳 마일하이](https://ko.wikipedia.org/wiki/스포츠_어서리티_필드_앳_마일하이 "wikilink") | 76,125  |
 | [프리스코](https://ko.wikipedia.org/wiki/프리스코_\(텍사스주\) "wikilink") ([댈러스](https://ko.wikipedia.org/wiki/댈러스 "wikilink"))            | [도요타 스타디움](https://ko.wikipedia.org/wiki/도요타_스타디움_\(텍사스주\) "wikilink")            | 16,000  |
 | [알링턴](https://ko.wikipedia.org/wiki/알링턴_\(텍사스주\) "wikilink") ([댈러스](https://ko.wikipedia.org/wiki/댈러스 "wikilink"))              | [AT\&T 스타디움](https://ko.wikipedia.org/wiki/AT&T_스타디움 "wikilink")                  | 100,000 |
 | [해리슨](https://ko.wikipedia.org/wiki/해리슨_\(뉴저지주\) "wikilink") ([뉴욕](https://ko.wikipedia.org/wiki/뉴욕 "wikilink"))                | [레드불 아레나](https://ko.wikipedia.org/wiki/레드불_아레나_\(뉴저지주\) "wikilink")              | 25,000  |
 | [휴스턴](https://ko.wikipedia.org/wiki/휴스턴 "wikilink")                                                                             | [BBVA 컴패스 스타디움](../Page/BBVA_컴패스_스타디움.md "wikilink")                              | 22,000  |
 | [내슈빌](https://ko.wikipedia.org/wiki/내슈빌 "wikilink")                                                                             | [닛산 스타디움](https://ko.wikipedia.org/wiki/닛산_스타디움_\(내슈빌\) "wikilink")               | 69,000  |
-| [샌안토니오](https://ko.wikipedia.org/wiki/샌안토니오 "wikilink")                                                                         | [알라모돔](https://ko.wikipedia.org/wiki/알라모돔 "wikilink")                             | 65,000  |
+| [샌안토니오](https://ko.wikipedia.org/wiki/샌안토니오 "wikilink")                                                                         | [알라모돔](../Page/알라모돔.md "wikilink")                                                | 65,000  |
 | [샌디에이고](https://ko.wikipedia.org/wiki/샌디에이고 "wikilink")                                                                         | [퀄컴 스타디움](https://ko.wikipedia.org/wiki/퀄컴_스타디움 "wikilink")                       | 70,561  |
 | [탬파](https://ko.wikipedia.org/wiki/탬파 "wikilink")                                                                               | [레이먼드 제임스 스타디움](https://ko.wikipedia.org/wiki/레이먼드_제임스_스타디움 "wikilink")           | 65,890  |
 | [글렌데일](https://ko.wikipedia.org/wiki/글렌데일_\(애리조나주\) "wikilink") ([피닉스](https://ko.wikipedia.org/wiki/피닉스_\(애리조나주\) "wikilink")) | [유니버시티 오브 피닉스 스타디움](https://ko.wikipedia.org/wiki/유니버시티_오브_피닉스_스타디움 "wikilink")   | 63,400  |
 | [패서디나](https://ko.wikipedia.org/wiki/패서디나_\(캘리포니아주\) "wikilink") ([로스엔젤레스](https://ko.wikipedia.org/wiki/로스엔젤레스 "wikilink"))    | [로즈 볼](https://ko.wikipedia.org/wiki/로즈_볼_\(경기장\) "wikilink")                     | 90,000  |
 | [필라델피아](https://ko.wikipedia.org/wiki/필라델피아 "wikilink")                                                                         | [링컨 파이낸셜 필드](https://ko.wikipedia.org/wiki/링컨_파이낸셜_필드 "wikilink")                 | 69,596  |
-| [샌타클래라](https://ko.wikipedia.org/wiki/샌타클래라_\(캘리포니아주\) "wikilink") ([샌프란시스코](https://ko.wikipedia.org/wiki/샌프란시스코 "wikilink"))  | [리바이스 스타디움](https://ko.wikipedia.org/wiki/리바이스_스타디움 "wikilink")                   | 68,500  |
+| [샌타클래라](https://ko.wikipedia.org/wiki/샌타클래라_\(캘리포니아주\) "wikilink") ([샌프란시스코](https://ko.wikipedia.org/wiki/샌프란시스코 "wikilink"))  | [리바이스 스타디움](../Page/리바이스_스타디움.md "wikilink")                                      | 68,500  |
 
 ## 예선
 
 ### 중앙아메리카-카리브 제도 플레이오프
 
-[2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink")에 열린 [카리브컵](https://ko.wikipedia.org/wiki/카리브컵 "wikilink")과 [코파 센트로아메리카나에서](https://ko.wikipedia.org/wiki/코파_센트로아메리카나 "wikilink") 각각 5위를 차지한 팀이 홈 앤 어웨이 방식의 플레이오프를 치른다. 경기에서 이긴 팀이 본선에 진출한다.   |}
+[2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink")에 열린 [카리브컵](../Page/카리브컵.md "wikilink")과 [코파 센트로아메리카나에서](https://ko.wikipedia.org/wiki/코파_센트로아메리카나 "wikilink") 각각 5위를 차지한 팀이 홈 앤 어웨이 방식의 플레이오프를 치른다. 경기에서 이긴 팀이 본선에 진출한다.   |}
 
 -----
 
@@ -552,7 +552,7 @@
 
 <!-- end list -->
 
-  - [데얀 야코비치](https://ko.wikipedia.org/wiki/데얀_야코비치 "wikilink")
+  - [데얀 야코비치](../Page/데얀_야코비치.md "wikilink")
 
   - [스콧 아필드](https://ko.wikipedia.org/wiki/스콧_아필드 "wikilink")
 

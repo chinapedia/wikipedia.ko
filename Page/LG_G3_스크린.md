@@ -36,7 +36,7 @@ G3 스크린은 [롤리팝으로](https://ko.wikipedia.org/wiki/안드로이드_
   - [LG G3 비트](../Page/LG_G3_비트.md "wikilink")
   - [LG G3 A](../Page/LG_G3_A.md "wikilink")
   - [LG G3 Cat.6](../Page/LG_G3_카테고리_6.md "wikilink")
-  - [LG Gx2](https://ko.wikipedia.org/wiki/LG_Gx2 "wikilink")
+  - [LG Gx2](../Page/LG_Gx2.md "wikilink")
 
 ## 각주
 

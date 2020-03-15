@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CD ](https://ko.wikipedia.org/wiki/CD_).
 
 
-**CD샵 대상**()은 일본의 음악상이다. 전일본 CD샵 점원 조합이 개최하며 일본의 CD샵 점원들의 투표만으로 수상자가 결졍된다. 일본 [서점 대상의](https://ko.wikipedia.org/wiki/서점_대상 "wikilink") 음악판이라고도 불린다\[1\]\[2\].
+**CD샵 대상**()은 일본의 음악상이다. 전일본 CD샵 점원 조합이 개최하며 일본의 CD샵 점원들의 투표만으로 수상자가 결졍된다. 일본 [서점 대상의](../Page/서점_대상.md "wikilink") 음악판이라고도 불린다\[1\]\[2\].
 
 ## 수상자
 
@@ -20,19 +20,19 @@
 
 ### 준대상
 
-| 횟수                                                            | 연도                                                                      | 음악가                                                             | 제목               |
-| ------------------------------------------------------------- | ----------------------------------------------------------------------- | --------------------------------------------------------------- | ---------------- |
-| 제1회                                                           | 2009년                                                                   | [오하시 트리오](https://ko.wikipedia.org/wiki/오하시_트리오 "wikilink")     | 《This Is Music》  |
-| [퍼퓸](https://ko.wikipedia.org/wiki/퍼퓸_\(음악_그룹\) "wikilink")   | 《[GAME](https://ko.wikipedia.org/wiki/GAME_\(음반\) "wikilink")》          |                                                                 |                  |
-| 제2회                                                           | 2010년                                                                   | [기요시 류진](https://ko.wikipedia.org/wiki/기요시_류진 "wikilink")       | 《Philosophy》     |
-| [슈퍼플라이](https://ko.wikipedia.org/wiki/슈퍼플라이 "wikilink")       | 《[Box Emotions](https://ko.wikipedia.org/wiki/Box_Emotions "wikilink")》 |                                                                 |                  |
-| 제3회                                                           | 2011년                                                                   | [신세이카맛테짱](https://ko.wikipedia.org/wiki/신세이카맛테짱 "wikilink")     | 《도모다치오코로시테마데》 () |
-| [세카이노 오와리](https://ko.wikipedia.org/wiki/세카이노_오와리 "wikilink") | 《Earth》                                                                 |                                                                 |                  |
-| [하타 모토히로](https://ko.wikipedia.org/wiki/하타_모토히로 "wikilink")   | 《Documentary》                                                           |                                                                 |                  |
-| 제4회                                                           | 2012년                                                                   | [호시노 겐](https://ko.wikipedia.org/wiki/호시노_겐 "wikilink")         | 《에피소드》 ()        |
-| 제5회                                                           | 2013년                                                                   | [캬리 파뮤파뮤](https://ko.wikipedia.org/wiki/캬리_파뮤파뮤 "wikilink")     | 《파뮤파뮤 레볼루션》 ()   |
-| 제8회                                                           | 2016년                                                                   | [수요일의 캄파넬라](https://ko.wikipedia.org/wiki/수요일의_캄파넬라 "wikilink") | 《지팡구》            |
-| [WANIMA](https://ko.wikipedia.org/wiki/WANIMA "wikilink")     | 《Are You Coming?》                                                       |                                                                 |                  |
+| 횟수                                                            | 연도                                                                      | 음악가                                                         | 제목               |
+| ------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------- | ---------------- |
+| 제1회                                                           | 2009년                                                                   | [오하시 트리오](https://ko.wikipedia.org/wiki/오하시_트리오 "wikilink") | 《This Is Music》  |
+| [퍼퓸](https://ko.wikipedia.org/wiki/퍼퓸_\(음악_그룹\) "wikilink")   | 《[GAME](https://ko.wikipedia.org/wiki/GAME_\(음반\) "wikilink")》          |                                                             |                  |
+| 제2회                                                           | 2010년                                                                   | [기요시 류진](https://ko.wikipedia.org/wiki/기요시_류진 "wikilink")   | 《Philosophy》     |
+| [슈퍼플라이](https://ko.wikipedia.org/wiki/슈퍼플라이 "wikilink")       | 《[Box Emotions](https://ko.wikipedia.org/wiki/Box_Emotions "wikilink")》 |                                                             |                  |
+| 제3회                                                           | 2011년                                                                   | [신세이카맛테짱](https://ko.wikipedia.org/wiki/신세이카맛테짱 "wikilink") | 《도모다치오코로시테마데》 () |
+| [세카이노 오와리](https://ko.wikipedia.org/wiki/세카이노_오와리 "wikilink") | 《Earth》                                                                 |                                                             |                  |
+| [하타 모토히로](https://ko.wikipedia.org/wiki/하타_모토히로 "wikilink")   | 《Documentary》                                                           |                                                             |                  |
+| 제4회                                                           | 2012년                                                                   | [호시노 겐](https://ko.wikipedia.org/wiki/호시노_겐 "wikilink")     | 《에피소드》 ()        |
+| 제5회                                                           | 2013년                                                                   | [캬리 파뮤파뮤](https://ko.wikipedia.org/wiki/캬리_파뮤파뮤 "wikilink") | 《파뮤파뮤 레볼루션》 ()   |
+| 제8회                                                           | 2016년                                                                   | [수요일의 캄파넬라](../Page/수요일의_캄파넬라.md "wikilink")                | 《지팡구》            |
+| [WANIMA](https://ko.wikipedia.org/wiki/WANIMA "wikilink")     | 《Are You Coming?》                                                       |                                                             |                  |
 
 ### 최우수신인상
 

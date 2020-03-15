@@ -25,7 +25,7 @@
 
 <!-- end list -->
 
-  - [대구급 호위함](https://ko.wikipedia.org/wiki/대구급_호위함 "wikilink")
+  - [대구급 호위함](../Page/대구급_호위함.md "wikilink")
 
 ## 관련항목
 

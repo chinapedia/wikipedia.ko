@@ -11,7 +11,7 @@
 
 1.  **Winter Bells** (4:39)
 
-:\* 작사: 쿠라키 마이, 작곡 · 편곡: [토쿠나가 아키히토](https://ko.wikipedia.org/wiki/토쿠나가_아키히토 "wikilink")
+:\* 작사: 쿠라키 마이, 작곡 · 편곡: [토쿠나가 아키히토](../Page/토쿠나가_아키히토.md "wikilink")
 
 1.  **thankful**
       - 작사: 쿠라키 마이, Keith Bazzle, 작곡 · 편곡: 카사하라 토모오, [YOKO B. Stone](https://ko.wikipedia.org/wiki/YOKO_Black._Stone "wikilink") (4:00)

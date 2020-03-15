@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
 
 
-**벵갈루루 FC**(Bengaluru Football Club)는 [인도](https://ko.wikipedia.org/wiki/인도 "wikilink") [카르나타카 주](https://ko.wikipedia.org/wiki/카르나타카_주 "wikilink") [벵갈루루](https://ko.wikipedia.org/wiki/벵갈루루 "wikilink")를 연고로 하는 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 이 팀은 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink")에 창단되었으며 인도 [I-리그](https://ko.wikipedia.org/wiki/I-리그 "wikilink")에 참가하여 2017–18 시즌부터는 [인도 슈퍼리그에](../Page/인도_슈퍼리그.md "wikilink") 참가하고 있다. [부탄 축구 국가대표팀의](https://ko.wikipedia.org/wiki/부탄_축구_국가대표팀 "wikilink") 에이스인 [첸초 겔첸과](https://ko.wikipedia.org/wiki/첸초_겔첸 "wikilink") [인도 축구 국가대표팀의](https://ko.wikipedia.org/wiki/인도_축구_국가대표팀 "wikilink") 에이스인 [수닐 체트리](https://ko.wikipedia.org/wiki/수닐_체트리 "wikilink") 소속팀이기도 하다.
+**벵갈루루 FC**(Bengaluru Football Club)는 [인도](https://ko.wikipedia.org/wiki/인도 "wikilink") [카르나타카 주](https://ko.wikipedia.org/wiki/카르나타카_주 "wikilink") [벵갈루루](https://ko.wikipedia.org/wiki/벵갈루루 "wikilink")를 연고로 하는 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 이 팀은 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink")에 창단되었으며 인도 [I-리그](https://ko.wikipedia.org/wiki/I-리그 "wikilink")에 참가하여 2017–18 시즌부터는 [인도 슈퍼리그에](../Page/인도_슈퍼리그.md "wikilink") 참가하고 있다. [부탄 축구 국가대표팀의](https://ko.wikipedia.org/wiki/부탄_축구_국가대표팀 "wikilink") 에이스인 [첸초 겔첸과](../Page/첸초_겔첸.md "wikilink") [인도 축구 국가대표팀의](https://ko.wikipedia.org/wiki/인도_축구_국가대표팀 "wikilink") 에이스인 [수닐 체트리](https://ko.wikipedia.org/wiki/수닐_체트리 "wikilink") 소속팀이기도 하다.
 
 ## 개요
 

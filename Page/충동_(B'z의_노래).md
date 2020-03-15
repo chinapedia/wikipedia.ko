@@ -11,7 +11,7 @@
 
   - 전체작사: [이나바 코시](https://ko.wikipedia.org/wiki/이나바_코시 "wikilink")
   - 전체작곡: [마츠모토 타카히로](https://ko.wikipedia.org/wiki/마츠모토_타카히로 "wikilink")
-  - 전체편곡: 이나바 코시, 마츠모토 타카히로, [토쿠나가 아키히토](https://ko.wikipedia.org/wiki/토쿠나가_아키히토 "wikilink")
+  - 전체편곡: 이나바 코시, 마츠모토 타카히로, [토쿠나가 아키히토](../Page/토쿠나가_아키히토.md "wikilink")
 
 <!-- end list -->
 

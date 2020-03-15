@@ -107,11 +107,11 @@
 
 ## 게스트
 
-| 일정           | 게스트                                                              |
-| ------------ | ---------------------------------------------------------------- |
-| 2015년 6월 13일 | [슈퍼주니어-D\&E](https://ko.wikipedia.org/wiki/슈퍼주니어-D&E "wikilink") |
-| 2015년 6월 14일 | [EXO-CBX](https://ko.wikipedia.org/wiki/EXO-CBX "wikilink")      |
-|              |                                                                  |
+| 일정           | 게스트                                                         |
+| ------------ | ----------------------------------------------------------- |
+| 2015년 6월 13일 | [슈퍼주니어-D\&E](../Page/슈퍼주니어-D&E.md "wikilink")               |
+| 2015년 6월 14일 | [EXO-CBX](https://ko.wikipedia.org/wiki/EXO-CBX "wikilink") |
+|              |                                                             |
 
 ## 관련 디스코그래피
 
@@ -204,7 +204,7 @@
       - 방콕 : Group 4
       - 서울 앙코르 : [YES24](https://ko.wikipedia.org/wiki/YES24 "wikilink")
   - 총연출 : [심재원](https://ko.wikipedia.org/wiki/심재원 "wikilink")
-  - 영상감독 : [권순욱](https://ko.wikipedia.org/wiki/권순욱 "wikilink")
+  - 영상감독 : [권순욱](../Page/권순욱.md "wikilink")
 
 ## 외부 링크
 

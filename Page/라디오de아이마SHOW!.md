@@ -3,7 +3,7 @@
 
 '''라디오de아이마SHOW\! '''(라디오데아이마쇼)는 [아케이드 게임](https://ko.wikipedia.org/wiki/아케이드_게임 "wikilink") '[THE IDOLM@STER](https://ko.wikipedia.org/wiki/THE_IDOLM@STER "wikilink")'로부터 파생한 [인터넷 라디오](https://ko.wikipedia.org/wiki/인터넷_라디오 "wikilink") 프로그램. [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") (헤세이 18년) [4월 27일](https://ko.wikipedia.org/wiki/4월_27일 "wikilink") 전달 개시. 전77회+2회. [애니메이트 TV에서](https://ko.wikipedia.org/wiki/애니메이트_TV "wikilink") 전달되었다. 매주 목요일 갱신. 정식적인 타이틀은 **'Radio of THE IDOLM@STER on the web 라디오de아이마Show\!**'. 애칭은 '라디마SHOW\! (라디마쇼)'.
 
-후 프로그램으로서 '[Radio For You\!](https://ko.wikipedia.org/wiki/아이돌마스터_Radio_For_You! "wikilink")' '[P.S. 프로듀서](https://ko.wikipedia.org/wiki/아이돌마스터_P.S.프로듀서 "wikilink")'가 전달되고 있다.
+후 프로그램으로서 '[Radio For You\!](../Page/아이돌마스터_Radio_For_You!.md "wikilink")' '[P.S. 프로듀서](https://ko.wikipedia.org/wiki/아이돌마스터_P.S.프로듀서 "wikilink")'가 전달되고 있다.
 
 ## 퍼스널리티
 

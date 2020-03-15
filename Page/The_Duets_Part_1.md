@@ -5,7 +5,7 @@
 
 ## 앨범
 
-수록곡은 윤상과 다른 남자 보컬의 듀엣으로 이루어져있다. 앨범에는 과거 [신해철](https://ko.wikipedia.org/wiki/신해철 "wikilink")을 주축으로 했던 3인조 밴드 [비트겐슈타인의](https://ko.wikipedia.org/wiki/비트겐슈타인_\(밴드\) "wikilink") 멤버였으며, 현재는 동명의 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") [애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink") 《[원피스](https://ko.wikipedia.org/wiki/원피스_\(만화\) "wikilink")》에서 따온\[1\] 윤상의 프로젝트 작곡팀 '원피스(OnePiece)' 멤버인 [다빈크](https://ko.wikipedia.org/wiki/다빈크 "wikilink")(DAVINK)가 참여한 〈Waltz〉, 가수 [팀이](https://ko.wikipedia.org/wiki/팀_\(가수\) "wikilink") 참여한 〈그 겨울로부터〉, [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [인피니트](https://ko.wikipedia.org/wiki/인피니트 "wikilink")의 메인보컬 [성규](https://ko.wikipedia.org/wiki/성규 "wikilink")가 참여했으며 ‘현재의 나(윤상)’가 ‘과거의 나(성규)’에게 보내는 편지를 테마로 한 〈RE:나에게〉 등이 수록되어있다.\[2\]
+수록곡은 윤상과 다른 남자 보컬의 듀엣으로 이루어져있다. 앨범에는 과거 [신해철](https://ko.wikipedia.org/wiki/신해철 "wikilink")을 주축으로 했던 3인조 밴드 [비트겐슈타인의](https://ko.wikipedia.org/wiki/비트겐슈타인_\(밴드\) "wikilink") 멤버였으며, 현재는 동명의 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") [애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink") 《[원피스](https://ko.wikipedia.org/wiki/원피스_\(만화\) "wikilink")》에서 따온\[1\] 윤상의 프로젝트 작곡팀 '원피스(OnePiece)' 멤버인 [다빈크](../Page/다빈크.md "wikilink")(DAVINK)가 참여한 〈Waltz〉, 가수 [팀이](https://ko.wikipedia.org/wiki/팀_\(가수\) "wikilink") 참여한 〈그 겨울로부터〉, [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [인피니트](https://ko.wikipedia.org/wiki/인피니트 "wikilink")의 메인보컬 [성규](https://ko.wikipedia.org/wiki/성규 "wikilink")가 참여했으며 ‘현재의 나(윤상)’가 ‘과거의 나(성규)’에게 보내는 편지를 테마로 한 〈RE:나에게〉 등이 수록되어있다.\[2\]
 
 ## 수록곡
 

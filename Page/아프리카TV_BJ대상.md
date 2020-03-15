@@ -256,7 +256,7 @@
 <td><p>Star BJ 20</p></td>
 <td><p>로이조, <a href="https://ko.wikipedia.org/wiki/보겸" title="wikilink">보겸</a>, <a href="https://ko.wikipedia.org/wiki/대도서관_(BJ)" title="wikilink">대도서관</a>, 효근, <a href="https://ko.wikipedia.org/wiki/악어_(BJ)" title="wikilink">악어</a>,<br />
 이상호, <a href="../Page/PD대정령.md" title="wikilink">대정령</a>, 팡이, <a href="https://ko.wikipedia.org/wiki/양띵" title="wikilink">양띵</a>, 범프리카,<br />
-<a href="https://ko.wikipedia.org/wiki/윰댕" title="wikilink">윰댕</a>, 윤마, <a href="https://ko.wikipedia.org/wiki/김이브님" title="wikilink">김이브님</a>, 코트, 버블디아,<br />
+<a href="../Page/윰댕.md" title="wikilink">윰댕</a>, 윤마, <a href="https://ko.wikipedia.org/wiki/김이브님" title="wikilink">김이브님</a>, 코트, 버블디아,<br />
 <a href="https://ko.wikipedia.org/wiki/최군" title="wikilink">최군</a>, 안준모, 전경, <a href="../Page/망치부인.md" title="wikilink">망치부인</a>, 디바제시카</p></td>
 </tr>
 <tr class="even">
@@ -327,7 +327,7 @@
 <tr class="even">
 <td><p>특별상</p></td>
 <td><p>유투르, 풍월량, 유창선, 심장, 이사배,<br />
-곽방, 전세준, 강성태, 쩡대, <a href="https://ko.wikipedia.org/wiki/다이아_(음악_그룹)" title="wikilink">다이아</a></p></td>
+곽방, 전세준, 강성태, 쩡대, <a href="../Page/다이아_(음악_그룹).md" title="wikilink">다이아</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>인기상</p></td>

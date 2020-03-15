@@ -64,7 +64,7 @@
 </tr>
 <tr class="even">
 <td><p>이전 곡:<br />
-<a href="https://ko.wikipedia.org/wiki/배수정" title="wikilink">배수정</a><br />
+<a href="../Page/배수정.md" title="wikilink">배수정</a><br />
 〈<a href="https://ko.wikipedia.org/wiki/TRY_AGAIN_(쿠라키_마이의_노래)#배수정_버전" title="wikilink">TRY AGAIN</a>〉</p></td>
 </tr>
 </tbody>

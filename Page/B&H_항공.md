@@ -50,7 +50,7 @@
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><a href="https://ko.wikipedia.org/wiki/에어_세르비아" title="wikilink">에어 세르비아</a></li>
+<li><a href="../Page/에어_세르비아.md" title="wikilink">에어 세르비아</a></li>
 </ul></td>
 </tr>
 </tbody>

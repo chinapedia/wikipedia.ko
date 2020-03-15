@@ -163,7 +163,7 @@
 
 :\# **아침 놀의 크레센도**
 
-:\#: 가: 타나카 코토하([타네다 리사](https://ko.wikipedia.org/wiki/타네다_리사 "wikilink"))
+:\#: 가: 타나카 코토하([타네다 리사](../Page/타네다_리사.md "wikilink"))
 
 :\#: 작사: 메아리 사오리, 작곡·편곡: [마츠다 아키라인](https://ko.wikipedia.org/wiki/마츠다_아키라인 "wikilink")
 
@@ -171,7 +171,7 @@
 
 :\# **라이아 루즈**
 
-:\#: 가: 키타자와 시호([아마미야 소라](https://ko.wikipedia.org/wiki/아마미야_소라 "wikilink"))
+:\#: 가: 키타자와 시호([아마미야 소라](../Page/아마미야_소라.md "wikilink"))
 
 :\#: 작사: 마츠이 요헤, 작사·편곡: 서첨건(Arte Refact)
 
@@ -371,7 +371,7 @@
 
 :\# **오리지널 소리가 되어**
 
-:\#: 가: 야부키 카나([키도 이부키](https://ko.wikipedia.org/wiki/키도_이부키 "wikilink"))
+:\#: 가: 야부키 카나([키도 이부키](../Page/키도_이부키.md "wikilink"))
 
 :\#: 작사: rino, 작곡·편곡: [세끼노원규](https://ko.wikipedia.org/wiki/세끼노원규 "wikilink")
 
@@ -405,7 +405,7 @@
 
 :\# **Hello 협주곡**
 
-:\#: 가: 아키즈키 리츠코([와카바야시 나오미](https://ko.wikipedia.org/wiki/와카바야시_나오미 "wikilink")) , 키노시타 히나타([타무라 나오](https://ko.wikipedia.org/wiki/타무라_나오 "wikilink")) , 사타케 미나코([오오제키 에리](https://ko.wikipedia.org/wiki/오오제키_에리 "wikilink")) , 마츠다 아리사([무라카와 리에](https://ko.wikipedia.org/wiki/무라카와_리에 "wikilink"))
+:\#: 가: 아키즈키 리츠코([와카바야시 나오미](https://ko.wikipedia.org/wiki/와카바야시_나오미 "wikilink")) , 키노시타 히나타([타무라 나오](https://ko.wikipedia.org/wiki/타무라_나오 "wikilink")) , 사타케 미나코([오오제키 에리](https://ko.wikipedia.org/wiki/오오제키_에리 "wikilink")) , 마츠다 아리사([무라카와 리에](../Page/무라카와_리에.md "wikilink"))
 
 :\#: 작사: 메아리 사오리, 작곡: 마스타니 켄, 편곡: [오사다 나오유키](https://ko.wikipedia.org/wiki/오사다_나오유키 "wikilink")
 
