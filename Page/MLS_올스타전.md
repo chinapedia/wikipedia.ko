@@ -222,7 +222,7 @@
 <td><p>1 - 1<br />
 (7 - 5)</p></td>
 <td><p>MLS 올스타</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/메르세데스-벤츠_스타디움" title="wikilink">메르세데스-벤츠 스타디움</a></p></td>
+<td><p><a href="../Page/메르세데스-벤츠_스타디움.md" title="wikilink">메르세데스-벤츠 스타디움</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/조지아주" title="wikilink">조지아주</a> <a href="https://ko.wikipedia.org/wiki/애틀랜타" title="wikilink">애틀랜타</a></p></td>
 <td><p>72,317</p></td>
 <td><p>조세프 마르티네스</p></td>

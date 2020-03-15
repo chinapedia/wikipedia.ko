@@ -78,7 +78,7 @@
   - [이게 무슨 일이야](../Page/이게_무슨_일이야_\(노래\).md "wikilink")
   - [In The Air](https://ko.wikipedia.org/wiki/In_The_Air "wikilink")
   - [잘자요 굿나잇](../Page/잘자요_굿나잇.md "wikilink")
-  - [O.K](https://ko.wikipedia.org/wiki/O.K_\(B1A4의_노래\) "wikilink")
+  - [O.K](../Page/O.K_\(B1A4의_노래\).md "wikilink")
 
 \- 미니드라마 <THE CLASS> Behind -
 

@@ -6,7 +6,7 @@
 ## 내용
 
   - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [2월 16일에](https://ko.wikipedia.org/wiki/2월_16일 "wikilink") 발매.
-  - 〈[이별의 조각](https://ko.wikipedia.org/wiki/사요나라노카케라 "wikilink")〉에서 〈[바람이 불어오는 곳](https://ko.wikipedia.org/wiki/카제가소요구바쇼 "wikilink")〉까지의 3개의 싱글곡 등을 수록한 3번째 음반이다. 또한, 본작에서 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink")의 《[코마츠 미호 6th : 꽃이 가득한 들판](https://ko.wikipedia.org/wiki/코마츠_미호_6th_~하나노~ "wikilink")》까지는 셀프 커버 노래는 수록되지 않았다. [기자 스튜디오](https://ko.wikipedia.org/wiki/기자_스튜디오 "wikilink") 이적 후 첫 음반이며, 〈이별의 조각〉 〈BOY FRIEND〉 등 [아메무라 오타운 레코드](https://ko.wikipedia.org/wiki/아메무라_오타운_레코드 "wikilink") 재적 시대에 발표된 노래도 수록되어있다.
+  - 〈[이별의 조각](https://ko.wikipedia.org/wiki/사요나라노카케라 "wikilink")〉에서 〈[바람이 불어오는 곳](https://ko.wikipedia.org/wiki/카제가소요구바쇼 "wikilink")〉까지의 3개의 싱글곡 등을 수록한 3번째 음반이다. 또한, 본작에서 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink")의 《[코마츠 미호 6th : 꽃이 가득한 들판](../Page/코마츠_미호_6th_~하나노~.md "wikilink")》까지는 셀프 커버 노래는 수록되지 않았다. [기자 스튜디오](https://ko.wikipedia.org/wiki/기자_스튜디오 "wikilink") 이적 후 첫 음반이며, 〈이별의 조각〉 〈BOY FRIEND〉 등 [아메무라 오타운 레코드](https://ko.wikipedia.org/wiki/아메무라_오타운_레코드 "wikilink") 재적 시대에 발표된 노래도 수록되어있다.
   - 원래는 〈바람이 불어오는 곳〉이 발매된 직후의 [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [8월](https://ko.wikipedia.org/wiki/8월 "wikilink")에(당시의 CD번호는 GZCA-1011) 발매할 예정이였지만, 제작상의 사정에 의해서 거듭되는 발매 연기 끝에 한번 발매가 중지가 된 경위가 있다.
   - 누계매상장수 10만장.
 

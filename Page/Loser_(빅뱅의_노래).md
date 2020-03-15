@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Loser \( \)](https://ko.wikipedia.org/wiki/Loser_\(_\)).
 
 
-〈***Loser***〉는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악 그룹 [빅뱅의](https://ko.wikipedia.org/wiki/빅뱅_\(음악_그룹\) "wikilink") 노래이다. 이 노래는 2015년 5월 1일, [YG 엔터테인먼트를](https://ko.wikipedia.org/wiki/YG_엔터테인먼트 "wikilink") 통해 [디지털 음원으로](https://ko.wikipedia.org/wiki/음악_다운로드 "wikilink") 발매 되었다. *[MADE](https://ko.wikipedia.org/wiki/MADE_\(빅뱅의_음반\) "wikilink")* 시리즈의 [M의](https://ko.wikipedia.org/wiki/M_\(빅뱅의_싱글\) "wikilink") 첫 번째 노래이다.
+〈***Loser***〉는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악 그룹 [빅뱅의](https://ko.wikipedia.org/wiki/빅뱅_\(음악_그룹\) "wikilink") 노래이다. 이 노래는 2015년 5월 1일, [YG 엔터테인먼트를](https://ko.wikipedia.org/wiki/YG_엔터테인먼트 "wikilink") 통해 [디지털 음원으로](https://ko.wikipedia.org/wiki/음악_다운로드 "wikilink") 발매 되었다. *[MADE](../Page/MADE_\(빅뱅의_음반\).md "wikilink")* 시리즈의 [M의](https://ko.wikipedia.org/wiki/M_\(빅뱅의_싱글\) "wikilink") 첫 번째 노래이다.
 
 ## 배경
 
@@ -25,7 +25,7 @@
 
 ## 뮤직 비디오
 
-"Loser"의 뮤직 비디오는 빅뱅의 "[Love Song](https://ko.wikipedia.org/wiki/Love_Song_\(빅뱅의_노래\) "wikilink")", "[Blue](https://ko.wikipedia.org/wiki/Blue_\(빅뱅의_노래\) "wikilink")", "[Bad Boy](https://ko.wikipedia.org/wiki/Bad_Boy_\(빅뱅의_노래\) "wikilink")", "[Monster](https://ko.wikipedia.org/wiki/Monster_\(빅뱅의_노래\) "wikilink")", "[Loser](https://ko.wikipedia.org/wiki/Loser "wikilink")" 등 빅뱅의 수많은 뮤직 비디오를 연출한 한사민 감독이 맡았다. 빅뱅은 2015년 4월 2일부터 4월 8일 [로스 앤젤레스에서](https://ko.wikipedia.org/wiki/로스_앤젤레스 "wikilink") 머물며, 뮤직 비디오를 촬영했다.\[11\] 이 뮤직 비디오에서 빅뱅의 멤버들은 감성적이면서도 격렬한 연기를 선보이며, 세상에서 '루저'로 취급 받는 힘든 상황에 처해 괴로워하고 힘들어하는 모습을 표현했다.\[12\]\[13\]
+"Loser"의 뮤직 비디오는 빅뱅의 "[Love Song](../Page/Love_Song_\(빅뱅의_노래\).md "wikilink")", "[Blue](https://ko.wikipedia.org/wiki/Blue_\(빅뱅의_노래\) "wikilink")", "[Bad Boy](../Page/Bad_Boy_\(빅뱅의_노래\).md "wikilink")", "[Monster](../Page/Monster_\(빅뱅의_노래\).md "wikilink")", "[Loser](https://ko.wikipedia.org/wiki/Loser "wikilink")" 등 빅뱅의 수많은 뮤직 비디오를 연출한 한사민 감독이 맡았다. 빅뱅은 2015년 4월 2일부터 4월 8일 [로스 앤젤레스에서](https://ko.wikipedia.org/wiki/로스_앤젤레스 "wikilink") 머물며, 뮤직 비디오를 촬영했다.\[11\] 이 뮤직 비디오에서 빅뱅의 멤버들은 감성적이면서도 격렬한 연기를 선보이며, 세상에서 '루저'로 취급 받는 힘든 상황에 처해 괴로워하고 힘들어하는 모습을 표현했다.\[12\]\[13\]
 
 ## 차트
 

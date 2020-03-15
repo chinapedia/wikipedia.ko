@@ -15,22 +15,22 @@
 2.  **TIGHTROPE**
       -
         작사·작곡: [미나토](https://ko.wikipedia.org/wiki/미나토 "wikilink"), 편곡: G'n-
-3.  **[jester](https://ko.wikipedia.org/wiki/JESTER "wikilink")**
+3.  **[jester](../Page/JESTER.md "wikilink")**
       -
         작사: VALSHE, 작곡: 미나토, 편곡: [사이토 신야](https://ko.wikipedia.org/wiki/사이토_신야 "wikilink")
-4.  **[Collar](https://ko.wikipedia.org/wiki/REVOLT_e.p. "wikilink") (Hard Play Mix)**
+4.  **[Collar](../Page/REVOLT_e.p..md "wikilink") (Hard Play Mix)**
       -
         작사: VALSHE, 미나토, 작곡: 미나토, 편곡: G'n-
 5.  **너를 위해** ()
       -
         작사: VALSHE, 작곡: 미나토, 편곡: G'n-
-6.  **[Vessel](https://ko.wikipedia.org/wiki/JESTER "wikilink")**
+6.  **[Vessel](../Page/JESTER.md "wikilink")**
       -
         작사·작곡: VALSHE, 편곡: G'n-
 7.  **moon (reveal)**
       -
         작사·작곡: 미나토, 편곡: FAITH-T
-8.  **[REVOLT](https://ko.wikipedia.org/wiki/REVOLT_e.p. "wikilink")**
+8.  **[REVOLT](../Page/REVOLT_e.p..md "wikilink")**
       -
         작사: VALSHE, 미나토, 작곡: 미나토, 편곡: 사이토 세이야
 9.  **clematis**
@@ -42,7 +42,7 @@
 11. **Deserve**
       -
         작사: VALSHE, 작곡: 미나토, 편곡: G'n-
-12. **[PLAY THE JOKER](https://ko.wikipedia.org/wiki/PLAY_THE_JOKER "wikilink")**
+12. **[PLAY THE JOKER](../Page/PLAY_THE_JOKER.md "wikilink")**
       -
         작사·작곡: 미나토, 편곡: 사이토 신야
 13. **moon (sequal)**

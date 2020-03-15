@@ -99,7 +99,7 @@
 <tr class="odd">
 <td><p>2017~2018</p></td>
 <td><p>로렌조 브라운</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/랩터스_905" title="wikilink">랩터스 905</a></p></td>
+<td><p><a href="../Page/랩터스_905.md" title="wikilink">랩터스 905</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2018~2019</p></td>
@@ -209,7 +209,7 @@
 <tr class="odd">
 <td><p>2017~2018</p></td>
 <td><p>안토니오 블레이크니</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/윈디_시티_불스" title="wikilink">윈디 시티 불스</a></p></td>
+<td><p><a href="../Page/윈디_시티_불스.md" title="wikilink">윈디 시티 불스</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2018~2019</p></td>
@@ -271,7 +271,7 @@
 <tr class="odd">
 <td><p>2015~2016</p></td>
 <td><p>악셀 토우파네</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/랩터스_905" title="wikilink">랩터스 905</a></p></td>
+<td><p><a href="../Page/랩터스_905.md" title="wikilink">랩터스 905</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2016~2017</p></td>
@@ -388,7 +388,7 @@
 <tr class="even">
 <td><p>2016~2017</p></td>
 <td><p>월터 타바레스</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/랩터스_905" title="wikilink">랩터스 905</a></p></td>
+<td><p><a href="../Page/랩터스_905.md" title="wikilink">랩터스 905</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2017~2018</p></td>
@@ -398,7 +398,7 @@
 <tr class="even">
 <td><p>2018~2019</p></td>
 <td><p>/ 크리스 부셰이</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/랩터스_905" title="wikilink">랩터스 905</a></p></td>
+<td><p><a href="../Page/랩터스_905.md" title="wikilink">랩터스 905</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -479,7 +479,7 @@
 <tr class="odd">
 <td><p>2016~2017</p></td>
 <td><p>제리 스택하우스</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/랩터스_905" title="wikilink">랩터스 905</a></p></td>
+<td><p><a href="../Page/랩터스_905.md" title="wikilink">랩터스 905</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2017~2018</p></td>
@@ -489,7 +489,7 @@
 <tr class="odd">
 <td><p>2018~2019</p></td>
 <td><p>윌 위버</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/롱아일랜드_네츠" title="wikilink">롱아일랜드 네츠</a></p></td>
+<td><p><a href="../Page/롱아일랜드_네츠.md" title="wikilink">롱아일랜드 네츠</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -654,7 +654,7 @@
 <tr class="odd">
 <td><p>2015~2016</p></td>
 <td><p>스캇 서그스</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/랩터스_905" title="wikilink">랩터스 905</a></p></td>
+<td><p><a href="../Page/랩터스_905.md" title="wikilink">랩터스 905</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2016~2017</p></td>
@@ -683,6 +683,6 @@
 ## 같이 보기
 
   - [NBA 수상 목록](https://ko.wikipedia.org/wiki/NBA_수상_목록 "wikilink")
-  - [WNBA 수상 목록](https://ko.wikipedia.org/wiki/WNBA_수상_목록 "wikilink")
+  - [WNBA 수상 목록](../Page/WNBA_수상_목록.md "wikilink")
 
 [분류:NBA G 리그](https://ko.wikipedia.org/wiki/분류:NBA_G_리그 "wikilink") [개발리그](https://ko.wikipedia.org/wiki/분류:전미_농구_협회 "wikilink")

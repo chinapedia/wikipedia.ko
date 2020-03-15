@@ -7,7 +7,7 @@
 
 2010년 9월 23일에 발매한 VALSHE 메이저 데뷔작인 《storyteller》의 후편에 맞는 미니 음반으로 데뷔 4주년을 장식하는 메모리얼 작품. 일러스트와 가사와 노래에서 7개의 짧은 스토리를 뽑은 컨샙트 미니음반 \[1\]. 지금까지 발매된 자신의 음반에서는 가장 누계 매상이 적다.
 
-8번째 싱글 〈[TRIP×TRICK](https://ko.wikipedia.org/wiki/TRIP×TRICK "wikilink")〉과 동시 발매\[2\]\[3\]\[4\].
+8번째 싱글 〈[TRIP×TRICK](../Page/TRIP×TRICK.md "wikilink")〉과 동시 발매\[2\]\[3\]\[4\].
 
 ## 수록곡
 
@@ -39,5 +39,5 @@
 
 1.  [9월 24일 발매\! VALSHE의 새 싱글 〈TRIP×TRICK〉&미니음반《storytellerII: the Age Limits》에서 자켓 사짐을 공개\! (2쪽)](http://www.animate.tv/news/details.php?id=1409034121&p=2)  *[애니메이트](https://ko.wikipedia.org/wiki/애니메이트 "wikilink") TV*
 2.
-3.  [VALSHE, 빠르게도 싱글＆미니음반 발매](http://natalie.mu/music/news/122378) *[나탈리](https://ko.wikipedia.org/wiki/나탈리_\(웹사이트\) "wikilink")*
+3.  [VALSHE, 빠르게도 싱글＆미니음반 발매](http://natalie.mu/music/news/122378) *[나탈리](../Page/나탈리_\(웹사이트\).md "wikilink")*
 4.  [VALSHE, 9월 발매 싱글＆미니음반의 비주얼 공개](http://www.musicman-net.com/artist/38775.html)  *Musicman-NET*

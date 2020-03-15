@@ -17,7 +17,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/루이빌_슬러거_필드" title="wikilink">루이빌 슬러거 필드</a></p></td>
+<td><p><a href="../Page/루이빌_슬러거_필드.md" title="wikilink">루이빌 슬러거 필드</a></p></td>
 <td><p>2016년~현재</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/켄터키주" title="wikilink">켄터키주</a> <a href="https://ko.wikipedia.org/wiki/루이빌" title="wikilink">루이빌</a></p></td>
 <td><p>루이빌 시티 FC</p></td>

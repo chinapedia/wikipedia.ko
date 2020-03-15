@@ -13,7 +13,7 @@
 
 이 배가 미국 군함 [프린스턴 호로](https://ko.wikipedia.org/wiki/프린스턴_호 "wikilink") 미국 해군 최초의 증기 기관 군함이다. 이 배는 [존 에릭슨에](https://ko.wikipedia.org/wiki/존_에릭슨 "wikilink") 의해 설계되어 [1843년](https://ko.wikipedia.org/wiki/1843년 "wikilink")에 완성되었다. 그러나 이 배에 탑재된 대포에는 결함이 있었으며, [1844년](https://ko.wikipedia.org/wiki/1844년 "wikilink") 2월 대포가 폭발하여 몇 명이 사망하였지만, 책임 추궁은 면했다.\[1\]
 
-[1847년](https://ko.wikipedia.org/wiki/1847년 "wikilink") 1월, 준장의 지위에 있던 스탁턴은 동태평양에서 해군을 이끌고 리오 산가브리엘 전투와 라메사 전투에서 멕시코로부터 캘리포니아를 빼앗는 데 중요한 역할을 하였다. 《[카우엥가 조약](https://ko.wikipedia.org/wiki/카우엥가_조약 "wikilink")》을 이끌어 내며 종전에 기여하였다. 그는 캘리포니아의 초대 군정 장관을 지냈다.
+[1847년](https://ko.wikipedia.org/wiki/1847년 "wikilink") 1월, 준장의 지위에 있던 스탁턴은 동태평양에서 해군을 이끌고 리오 산가브리엘 전투와 라메사 전투에서 멕시코로부터 캘리포니아를 빼앗는 데 중요한 역할을 하였다. 《[카우엥가 조약](../Page/카우엥가_조약.md "wikilink")》을 이끌어 내며 종전에 기여하였다. 그는 캘리포니아의 초대 군정 장관을 지냈다.
 
 [1850년](https://ko.wikipedia.org/wiki/1850년 "wikilink") 5월, 스탁턴은 해군에서 제대를 하여 사업과 정치의 현장으로 돌아간다. [1851년](https://ko.wikipedia.org/wiki/1851년 "wikilink") 그는 [민주당원으로서](https://ko.wikipedia.org/wiki/민주당_\(미국\) "wikilink") 뉴저지에서 미국 상원에 선출되었다. 그는 해군에서 징벌의 수단으로 사용되던 채찍형을 철폐하는 법안 발의에 서명을 했다. 그는 [1853년](https://ko.wikipedia.org/wiki/1853년 "wikilink") [1월 10일에](https://ko.wikipedia.org/wiki/1월_10일 "wikilink") 사직하고 델라웨어 & 라리탄 운하 사장에 취임하여 1866년까지 역임했다.
 

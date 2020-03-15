@@ -46,7 +46,7 @@ Good love (2017) Wi-Fi (2018)
 ### 예능
 
   - [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink") 《[수상한 가수](https://ko.wikipedia.org/wiki/수상한_가수 "wikilink")》 (2017)
-  - [JTBC](https://ko.wikipedia.org/wiki/JTBC "wikilink") 《[투유 프로젝트 - 슈가맨](https://ko.wikipedia.org/wiki/투유_프로젝트_-_슈가맨 "wikilink")》 (2018)
+  - [JTBC](https://ko.wikipedia.org/wiki/JTBC "wikilink") 《[투유 프로젝트 - 슈가맨](../Page/투유_프로젝트_-_슈가맨.md "wikilink")》 (2018)
   - [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink") 《[문제적 남자](https://ko.wikipedia.org/wiki/문제적_남자 "wikilink")》 (2018)
   - [E채널](https://ko.wikipedia.org/wiki/E채널 "wikilink") 《[달랑말랑](https://ko.wikipedia.org/wiki/달랑말랑 "wikilink")》 (2018)
   - [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink") 《[안녕하세요](https://ko.wikipedia.org/wiki/안녕하세요 "wikilink")》 (2019)

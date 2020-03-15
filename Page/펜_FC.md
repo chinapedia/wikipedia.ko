@@ -19,14 +19,14 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/스카이라인_스포츠_콤플렉스" title="wikilink">스카이라인 스포츠 콤플렉스</a></p></td>
+<td><p><a href="../Page/스카이라인_스포츠_콤플렉스.md" title="wikilink">스카이라인 스포츠 콤플렉스</a></p></td>
 <td><p>2004년~2015년</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/펜실베이니아주" title="wikilink">펜실베이니아주</a> <a href="https://ko.wikipedia.org/wiki/해리스버그" title="wikilink">해리스버그</a></p></td>
 <td><p>해리스버그 시티 아일랜더스</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/FNB_필드" title="wikilink">FNB 필드</a></p></td>
+<td><p><a href="../Page/FNB_필드.md" title="wikilink">FNB 필드</a></p></td>
 <td><p>2016년~현재</p></td>
 <td><p>해리스버그 시티 아일랜더스<br />
 펜 FC</p></td>
@@ -34,7 +34,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/클리퍼_매거진_스타디움" title="wikilink">클리퍼 매거진 스타디움</a></p></td>
+<td><p><a href="../Page/클리퍼_매거진_스타디움.md" title="wikilink">클리퍼 매거진 스타디움</a></p></td>
 <td><p>2016년~현재</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/펜실베이니아주" title="wikilink">펜실베이니아주</a> <a href="https://ko.wikipedia.org/wiki/랭커스터_(펜실베이니아주)" title="wikilink">랭커스터</a></p></td>
 <td><p>제2홈구장</p></td>

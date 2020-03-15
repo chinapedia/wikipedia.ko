@@ -329,7 +329,7 @@
 
 <!-- end list -->
 
-  - [헥터 고메즈](https://ko.wikipedia.org/wiki/헥터_고메즈 "wikilink") - [Two Steps From Hell](https://ko.wikipedia.org/wiki/Two_Steps_From_Hell "wikilink") - Dragon Rider, [빅뱅](https://ko.wikipedia.org/wiki/빅뱅_\(음악_그룹\) "wikilink") - '뱅뱅뱅'
+  - [헥터 고메즈](../Page/헥터_고메즈.md "wikilink") - [Two Steps From Hell](https://ko.wikipedia.org/wiki/Two_Steps_From_Hell "wikilink") - Dragon Rider, [빅뱅](https://ko.wikipedia.org/wiki/빅뱅_\(음악_그룹\) "wikilink") - '뱅뱅뱅'
 
 <!-- end list -->
 
@@ -412,7 +412,7 @@
       - [박정권](https://ko.wikipedia.org/wiki/박정권 "wikilink") - 천하무적
       - [루크 스캇](../Page/루크_스캇.md "wikilink") - 썬더
       - [앤드류 브라운](https://ko.wikipedia.org/wiki/앤드류_브라운 "wikilink") - 리쎌웨폰
-      - [헥터 고메즈](https://ko.wikipedia.org/wiki/헥터_고메즈 "wikilink") - 토네이도
+      - [헥터 고메즈](../Page/헥터_고메즈.md "wikilink") - 토네이도
       - [대니 워스](https://ko.wikipedia.org/wiki/대니_워스 "wikilink") - WORTHY
 
 <!-- end list -->

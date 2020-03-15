@@ -11,7 +11,7 @@
 
 **"Chain Reaction"**은 본래 [Kesha를](https://ko.wikipedia.org/wiki/케샤 "wikilink") 위해 만들어진 노래였으나 후에 소녀시대에게 팔리게 되었다.
 
-**"Show Girls"**는 Ricky Hanley, Paul Drew, Greig Watts, Pete Barringer, Joe Killington, Katerina Bramley에 의해 만들어진 노래로 한 편의 뮤지컬을 연상시키는 구성과 분위기를 가지고 있다. 나중에 이 노래는 한국어로 번안되어 2015년 8월 한국에 발매된 소녀시대의 정규 5집 앨범 [Lion Heart에](https://ko.wikipedia.org/wiki/Lion_Heart "wikilink") 5번 트랙으로 수록되었다.
+**"Show Girls"**는 Ricky Hanley, Paul Drew, Greig Watts, Pete Barringer, Joe Killington, Katerina Bramley에 의해 만들어진 노래로 한 편의 뮤지컬을 연상시키는 구성과 분위기를 가지고 있다. 나중에 이 노래는 한국어로 번안되어 2015년 8월 한국에 발매된 소녀시대의 정규 5집 앨범 [Lion Heart에](../Page/Lion_Heart.md "wikilink") 5번 트랙으로 수록되었다.
 
 ## 기존 히트곡 구성
 

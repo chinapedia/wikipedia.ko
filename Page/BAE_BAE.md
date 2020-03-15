@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BAE BAE](https://ko.wikipedia.org/wiki/BAE_BAE).
 
 
-〈***BAE BAE***〉는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악 그룹 [빅뱅의](https://ko.wikipedia.org/wiki/빅뱅_\(음악_그룹\) "wikilink") 노래이다. 이 노래는 2015년 5월 1일, [YG 엔터테인먼트를](https://ko.wikipedia.org/wiki/YG_엔터테인먼트 "wikilink") 통해 [디지털 음원으로](https://ko.wikipedia.org/wiki/음악_다운로드 "wikilink") 발매 되었다. *[MADE](https://ko.wikipedia.org/wiki/MADE_\(빅뱅의_음반\) "wikilink")* 시리즈의 [M의](https://ko.wikipedia.org/wiki/M_\(빅뱅의_싱글\) "wikilink") 두 번째 싱글이다. BAE BAE의 뜻은 "Before Anyone Else"의 줄임말로 사랑하는 사람을 부르는 애칭 중 하나로 "누구보다 최우선적인 사람"이라는 뜻을 가지고 있다.
+〈***BAE BAE***〉는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악 그룹 [빅뱅의](https://ko.wikipedia.org/wiki/빅뱅_\(음악_그룹\) "wikilink") 노래이다. 이 노래는 2015년 5월 1일, [YG 엔터테인먼트를](https://ko.wikipedia.org/wiki/YG_엔터테인먼트 "wikilink") 통해 [디지털 음원으로](https://ko.wikipedia.org/wiki/음악_다운로드 "wikilink") 발매 되었다. *[MADE](../Page/MADE_\(빅뱅의_음반\).md "wikilink")* 시리즈의 [M의](https://ko.wikipedia.org/wiki/M_\(빅뱅의_싱글\) "wikilink") 두 번째 싱글이다. BAE BAE의 뜻은 "Before Anyone Else"의 줄임말로 사랑하는 사람을 부르는 애칭 중 하나로 "누구보다 최우선적인 사람"이라는 뜻을 가지고 있다.
 
 ## 배경
 
@@ -15,7 +15,7 @@
 
 ## 뮤직 비디오
 
-"BAE BAE"의 뮤직 비디오는 빅뱅의 이전 "[Fantastic Baby](https://ko.wikipedia.org/wiki/Fantastic_Baby "wikilink")"를 연출한 [서현승](https://ko.wikipedia.org/wiki/서현승 "wikilink") 감독이 맡았다. 이 뮤직 비디오는 공개된 직후부터 19금 콘셉트로 화제를 모았으며, *[빌보드](https://ko.wikipedia.org/wiki/빌보드 "wikilink")*는 지금까지의 [K-Pop](https://ko.wikipedia.org/wiki/K-Pop "wikilink") 남자 그룹 중에서도 가장 성적인(sexual) 뮤직 비디오라고 언급하였다.\[11\]
+"BAE BAE"의 뮤직 비디오는 빅뱅의 이전 "[Fantastic Baby](../Page/Fantastic_Baby.md "wikilink")"를 연출한 [서현승](https://ko.wikipedia.org/wiki/서현승 "wikilink") 감독이 맡았다. 이 뮤직 비디오는 공개된 직후부터 19금 콘셉트로 화제를 모았으며, *[빌보드](https://ko.wikipedia.org/wiki/빌보드 "wikilink")*는 지금까지의 [K-Pop](https://ko.wikipedia.org/wiki/K-Pop "wikilink") 남자 그룹 중에서도 가장 성적인(sexual) 뮤직 비디오라고 언급하였다.\[11\]
 
 *퓨즈TV*는 뮤직 비디오의 비쥬얼과 패션에 칭찬을 하며, 그들에 대해 감정적인 보이밴드 멜로디와 나쁜 보이 힙합이 혼합 된 "엄청난 비쥬얼"이라고 언급했다.\[12\]
 

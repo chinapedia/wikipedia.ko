@@ -17,7 +17,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/와이드너_필드" title="wikilink">와이드너 필드</a></p></td>
+<td><p><a href="../Page/와이드너_필드.md" title="wikilink">와이드너 필드</a></p></td>
 <td><p>2015년~현재</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/콜로라도주" title="wikilink">콜로라도주</a> <a href="https://ko.wikipedia.org/wiki/콜로라도스프링스" title="wikilink">콜로라도스프링스</a></p></td>
 <td><p>콜로라도스프링스 스위치백스</p></td>

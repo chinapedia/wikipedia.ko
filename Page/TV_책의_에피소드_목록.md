@@ -130,7 +130,7 @@
 <tr class="odd">
 <td><p>20회</p></td>
 <td><p>4월 12일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미_비포_유" title="wikilink">미 비포 유 Me before You</a> (저자 : <a href="https://ko.wikipedia.org/wiki/조조_모예스" title="wikilink">조조 모예스</a>)</p></td>
+<td><p><a href="../Page/미_비포_유.md" title="wikilink">미 비포 유 Me before You</a> (저자 : <a href="../Page/조조_모예스.md" title="wikilink">조조 모예스</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p>21회</p></td>
@@ -430,7 +430,7 @@
 <tr class="odd">
 <td><p>76회</p></td>
 <td><p>6월 22일</p></td>
-<td><p>위험한 과학책 (<a href="https://ko.wikipedia.org/wiki/랜들_먼로" title="wikilink">랜들 먼로</a> 著)</p></td>
+<td><p>위험한 과학책 (<a href="../Page/랜들_먼로.md" title="wikilink">랜들 먼로</a> 著)</p></td>
 </tr>
 <tr class="even">
 <td><p>77회</p></td>
@@ -495,7 +495,7 @@
 <tr class="even">
 <td><p>89회</p></td>
 <td><p>10월 5일</p></td>
-<td><p>화성의 인류학자 (<a href="https://ko.wikipedia.org/wiki/올리버_색스" title="wikilink">올리버 색스</a> 著)</p></td>
+<td><p>화성의 인류학자 (<a href="../Page/올리버_색스.md" title="wikilink">올리버 색스</a> 著)</p></td>
 </tr>
 <tr class="odd">
 <td><p>90회</p></td>
@@ -510,7 +510,7 @@
 <tr class="odd">
 <td><p>92회</p></td>
 <td><p>11월 9일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/체르노빌의_목소리" title="wikilink">체르노빌의 목소리</a> (<a href="https://ko.wikipedia.org/wiki/스베틀라나_알렉시예비치" title="wikilink">스베틀라나 알렉시예비치</a> 著)</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/체르노빌의_목소리" title="wikilink">체르노빌의 목소리</a> (<a href="../Page/스베틀라나_알렉시예비치.md" title="wikilink">스베틀라나 알렉시예비치</a> 著)</p></td>
 </tr>
 <tr class="even">
 <td><p>93회</p></td>
@@ -575,7 +575,7 @@
 <tr class="even">
 <td><p>102회</p></td>
 <td><p>1월 25일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/사피엔스" title="wikilink">사피엔스</a> (<a href="https://ko.wikipedia.org/wiki/유발_하라리" title="wikilink">유발 하라리</a> 著)</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/사피엔스" title="wikilink">사피엔스</a> (<a href="../Page/유발_하라리.md" title="wikilink">유발 하라리</a> 著)</p></td>
 </tr>
 <tr class="odd">
 <td><p>103회</p></td>
@@ -640,7 +640,7 @@
 <tr class="odd">
 <td><p>115회</p></td>
 <td><p>5월 10일</p></td>
-<td><p>『<a href="https://ko.wikipedia.org/wiki/채식주의자_(소설)" title="wikilink">채식주의자</a>』- <a href="https://ko.wikipedia.org/wiki/한강_(작가)" title="wikilink">한강을</a> 만나다</p></td>
+<td><p>『<a href="../Page/채식주의자_(소설).md" title="wikilink">채식주의자</a>』- <a href="https://ko.wikipedia.org/wiki/한강_(작가)" title="wikilink">한강을</a> 만나다</p></td>
 </tr>
 <tr class="even">
 <td><p>116회</p></td>

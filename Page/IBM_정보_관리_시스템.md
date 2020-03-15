@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [IBM   ](https://ko.wikipedia.org/wiki/IBM___).
 
 
-**IBM 정보 관리 시스템**(IBM Information Management System, IMS)은 방대한 [트랜잭션 처리](https://ko.wikipedia.org/wiki/트랜잭션_처리 "wikilink") 기능을 갖춘 결합형 [계층형 데이터베이스이자](https://ko.wikipedia.org/wiki/계층형_모델 "wikilink") [정보 관리](https://ko.wikipedia.org/wiki/정보_관리 "wikilink") 시스템이다.
+**IBM 정보 관리 시스템**(IBM Information Management System, IMS)은 방대한 [트랜잭션 처리](https://ko.wikipedia.org/wiki/트랜잭션_처리 "wikilink") 기능을 갖춘 결합형 [계층형 데이터베이스이자](https://ko.wikipedia.org/wiki/계층형_모델 "wikilink") [정보 관리](../Page/정보_관리.md "wikilink") 시스템이다.
 
 ## 역사
 
-[IBM](https://ko.wikipedia.org/wiki/IBM "wikilink")은 [아폴로 계획을](https://ko.wikipedia.org/wiki/아폴로_계획 "wikilink") 위해 1966년부터 [로크웰과](https://ko.wikipedia.org/wiki/로크웰_인터내셔널 "wikilink") [캐터필러](https://ko.wikipedia.org/wiki/캐터필러 "wikilink")와 함께 IMS를 설계하였으며, [새턴 V](https://ko.wikipedia.org/wiki/새턴_V "wikilink") 달 로켓과 아폴로 우주선의 매우 큰 [자재 명세서의](https://ko.wikipedia.org/wiki/자재_명세서 "wikilink") 목록을 만드는데 사용되었다.
+[IBM](https://ko.wikipedia.org/wiki/IBM "wikilink")은 [아폴로 계획을](https://ko.wikipedia.org/wiki/아폴로_계획 "wikilink") 위해 1966년부터 [로크웰과](../Page/로크웰_인터내셔널.md "wikilink") [캐터필러](https://ko.wikipedia.org/wiki/캐터필러 "wikilink")와 함께 IMS를 설계하였으며, [새턴 V](https://ko.wikipedia.org/wiki/새턴_V "wikilink") 달 로켓과 아폴로 우주선의 매우 큰 [자재 명세서의](https://ko.wikipedia.org/wiki/자재_명세서 "wikilink") 목록을 만드는데 사용되었다.
 
 최초의 "IMS READY" 메시지가 1968년 8월 14일 [캘리포니아주](https://ko.wikipedia.org/wiki/캘리포니아주 "wikilink") [다우니의](https://ko.wikipedia.org/wiki/다우니_\(캘리포니아주\) "wikilink") [IBM 2740](https://ko.wikipedia.org/wiki/IBM_2741 "wikilink") 터미널에 나타났다.\[1\] 그 와중에 IMS는 IBM [시스템/360](https://ko.wikipedia.org/wiki/시스템/360 "wikilink") 기술이 현재의 [z/OS](https://ko.wikipedia.org/wiki/z/OS "wikilink")와 [시스템 z9](https://ko.wikipedia.org/wiki/IBM_시스템_z9 "wikilink"), [z10](https://ko.wikipedia.org/wiki/IBM_시스템_z10 "wikilink") 기술로 진화하면서 수많은 발전을 겪었다. 이를테면 IMS는 현재 [자바](https://ko.wikipedia.org/wiki/자바_\(프로그래밍_언어\) "wikilink"), [JDBC](https://ko.wikipedia.org/wiki/JDBC "wikilink"), [XML](https://ko.wikipedia.org/wiki/XML "wikilink")를, 그리고 2005년 말부터는 [웹 서비스를](https://ko.wikipedia.org/wiki/웹_서비스 "wikilink") 지원하고 있다.
 

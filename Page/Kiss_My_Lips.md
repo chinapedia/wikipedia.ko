@@ -153,7 +153,7 @@
       - 작사 & 작곡 : BoA / 편곡 : SHAUN / 랩 작사 : 개코
           - **Who Are You**는 8집의 선공개곡(2015년 5월 6일)으로 국내 래퍼와의 첫 번째 콜라보레이션곡이다. 기타와 베이스의 연주가 돋보이는 일렉트로닉 댄스 팝 곡으로, 가사에는 남녀가 소개팅을 통해 만나기까지의 설레는 마음을 담은 곡이다. 뮤직비디오에는 EXO의 멤버 세훈이 출연하였다.
 3.  Smash
-      - 작사 : BoA / 작곡 & 편곡 : BoA/김태성/[Jake K](https://ko.wikipedia.org/wiki/제이크_케이 "wikilink")/Andreas Oberg / 베이스 기타: SHAUN
+      - 작사 : BoA / 작곡 & 편곡 : BoA/김태성/[Jake K](../Page/제이크_케이.md "wikilink")/Andreas Oberg / 베이스 기타: SHAUN
           - 2014년 여름에 작곡하였다고 밝힌 곡으로 청량함이 돋보이는 곡이다.
 4.  Shattered
       - 작사 : BoA / 작곡 & 편곡 : BoA/The Underdogs/Mike Daley/Andrew Hey/Tiffany Fred

@@ -24,7 +24,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/콤플렉스_스포르티프_클로드-로비야" title="wikilink">콤플렉스 스포르티프 클로드-로비야</a></p></td>
+<td><p><a href="../Page/콤플렉스_스포르티프_클로드-로비야.md" title="wikilink">콤플렉스 스포르티프 클로드-로비야</a></p></td>
 <td><p>2016년</p></td>
 <td></td>
 <td></td>

@@ -72,7 +72,7 @@
 </tr>
 <tr class="odd">
 <td><p>94</p></td>
-<td><p>《<a href="https://ko.wikipedia.org/wiki/아빠_언니" title="wikilink">아빠 언니</a>》(とと姉ちゃん)</p></td>
+<td><p>《<a href="../Page/아빠_언니.md" title="wikilink">아빠 언니</a>》(とと姉ちゃん)</p></td>
 <td><p>2016년 4월 4일 ~ 2016년 10월 1일</p></td>
 <td><p><a href="../Page/타카하타_미츠키.md" title="wikilink">타카하타 미츠키</a>(高畑充希)</p></td>
 <td><p>코하시 츠네코(小橋常子)</p></td>
@@ -81,16 +81,16 @@
 </tr>
 <tr class="even">
 <td><p>95</p></td>
-<td><p>《<a href="https://ko.wikipedia.org/wiki/벳핀상" title="wikilink">벳핀상</a>》(べっぴんさん)</p></td>
+<td><p>《<a href="../Page/벳핀상.md" title="wikilink">벳핀상</a>》(べっぴんさん)</p></td>
 <td><p>2016년 10월 3일 ~ 2017년 4월 1일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/요시네_쿄코" title="wikilink">요시네 쿄코</a>(芳根京子)</p></td>
+<td><p><a href="../Page/요시네_쿄코.md" title="wikilink">요시네 쿄코</a>(芳根京子)</p></td>
 <td><p>반도 스미레(坂東すみれ)</p></td>
 <td></td>
 <td><p><strong>20.3%</strong>(간토)</p></td>
 </tr>
 <tr class="odd">
 <td><p>96</p></td>
-<td><p>《<a href="https://ko.wikipedia.org/wiki/병아리_(드라마)" title="wikilink">병아리</a>》(ひよっこ)</p></td>
+<td><p>《<a href="../Page/병아리_(드라마).md" title="wikilink">병아리</a>》(ひよっこ)</p></td>
 <td><p>2017년 4월 3일 ~ 2017년 9월 30일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/아리무라_카스미" title="wikilink">아리무라 카스미</a>(有村架純)</p></td>
 <td><p>야타베 미네코(谷田部みね子)</p></td>
@@ -110,7 +110,7 @@
 <td><p>98</p></td>
 <td><p>《<a href="https://ko.wikipedia.org/wiki/절반,_푸르다." title="wikilink">절반, 푸르다.</a>》(半分、青い。)</p></td>
 <td><p>2018년 4월 2일 ~ 2018년 9월 29일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/나가노_메이" title="wikilink">나가노 메이</a>(永野芽郁)</p></td>
+<td><p><a href="../Page/나가노_메이.md" title="wikilink">나가노 메이</a>(永野芽郁)</p></td>
 <td><p>니레노 스즈메(楡野鈴愛)</p></td>
 <td></td>
 <td></td>

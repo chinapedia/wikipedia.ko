@@ -15,7 +15,7 @@ Moonset over ESO's Very Large Telescope.jpg| Paranal Platform After Sunset (ESO)
 
 ## 같이 보기
 
-  - [초대형 망원경](https://ko.wikipedia.org/wiki/초대형_망원경 "wikilink")
+  - [초대형 망원경](../Page/초대형_망원경.md "wikilink")
   - [장기선 간섭계](https://ko.wikipedia.org/wiki/장기선_간섭계 "wikilink")
   - [아타카마 대형 밀리미터 집합체](https://ko.wikipedia.org/wiki/아타카마_대형_밀리미터_집합체 "wikilink")
 

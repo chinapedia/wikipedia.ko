@@ -92,7 +92,7 @@ Avex 레코딩 스튜디오에서 [808s & Heartbreak을](../Page/808s_&_Heartbre
   - [리한나](https://ko.wikipedia.org/wiki/리한나 "wikilink") – vocals
   - 레이철 롭슨 – viola
   - [크리스 록](https://ko.wikipedia.org/wiki/크리스_록 "wikilink") – vocals
-  - [앰버 로즈](https://ko.wikipedia.org/wiki/앰버_로즈 "wikilink") – vocals
+  - [앰버 로즈](../Page/앰버_로즈.md "wikilink") – vocals
   - Tom Rumsby – French horn
   - Jenny Sacha – violin
   - Kotono Sato – violin

@@ -17,7 +17,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/원오케이_필드" title="wikilink">원오케이 필드</a></p></td>
+<td><p><a href="../Page/원오케이_필드.md" title="wikilink">원오케이 필드</a></p></td>
 <td><p>2015년~현재</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/오클라호마주" title="wikilink">오클라호마주</a> <a href="https://ko.wikipedia.org/wiki/털사" title="wikilink">털사</a></p></td>
 <td><p>털사 러프넥스 FC</p></td>

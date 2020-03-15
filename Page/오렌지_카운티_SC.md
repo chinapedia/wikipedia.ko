@@ -19,12 +19,12 @@
 <tr class="odd">
 <td><p>타이탄 스타디움</p></td>
 <td><p>2011년~2013년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/캘리포니아주" title="wikilink">캘리포니아주</a> <a href="https://ko.wikipedia.org/wiki/풀러턴_(캘리포니아주)" title="wikilink">풀러턴</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/캘리포니아주" title="wikilink">캘리포니아주</a> <a href="../Page/풀러턴_(캘리포니아주).md" title="wikilink">풀러턴</a></p></td>
 <td><p>로스앤젤레스 블루스</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/앤티터_스타디움" title="wikilink">앤티터 스타디움</a></p></td>
+<td><p><a href="../Page/앤티터_스타디움.md" title="wikilink">앤티터 스타디움</a></p></td>
 <td><p>2014년~현재</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/캘리포니아주" title="wikilink">캘리포니아주</a> <a href="https://ko.wikipedia.org/wiki/어바인_(캘리포니아주)" title="wikilink">어바인</a></p></td>
 <td><p>오렌지 카운티 블루스 FC</p></td>

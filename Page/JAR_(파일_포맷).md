@@ -23,7 +23,7 @@ JAR 파일 안의 내용은, 경우에 따라 [리버스 엔지니어링을](htt
 
 ## 실행 가능한 JAR 파일
 
-실행 가능한 자바 프로그램은, 프로그램이 사용하는 다른 라이브러리와 함께 JAR파일로 압축될 수 있다. JAR파일이 실행 가능하려면, 파일 안에 포함된 메니페스트 파일에 [엔트리 포인트의](https://ko.wikipedia.org/wiki/엔트리_포인트 "wikilink") 클래스 이름이 `Main-Class: myPrograms.MyClass` 형식으로 기술되어야 하며, 명시적으로 클래스패스 정보가 기술되어 있어야 한다.(이때 -cp 인수는 무시된다) 운영체제에 따라서는 JAR 파일의 아이콘을 직접 클릭해서 실행가능하기도 하다. JAR 파일을 커맨드 라인에서 실행시키기 위해서는 `java -jar foo.jar`라고 입력한다.
+실행 가능한 자바 프로그램은, 프로그램이 사용하는 다른 라이브러리와 함께 JAR파일로 압축될 수 있다. JAR파일이 실행 가능하려면, 파일 안에 포함된 메니페스트 파일에 [엔트리 포인트의](../Page/엔트리_포인트.md "wikilink") 클래스 이름이 `Main-Class: myPrograms.MyClass` 형식으로 기술되어야 하며, 명시적으로 클래스패스 정보가 기술되어 있어야 한다.(이때 -cp 인수는 무시된다) 운영체제에 따라서는 JAR 파일의 아이콘을 직접 클릭해서 실행가능하기도 하다. JAR 파일을 커맨드 라인에서 실행시키기 위해서는 `java -jar foo.jar`라고 입력한다.
 
 ## 메니페스트
 
@@ -35,7 +35,7 @@ JAR 포맷을 바탕으로 다음과 같은 파일 포맷들이 생겨났다.
 
   - [WAR (파일 포맷)](../Page/WAR_\(파일_포맷\).md "wikilink") : 웹 애플리케이션을 구성하는 자바 클래스와, [자바 서버 페이지](https://ko.wikipedia.org/wiki/자바_서버_페이지 "wikilink"), 관련 [XML](https://ko.wikipedia.org/wiki/XML "wikilink") 파일 등을 묶은 압축 파일 포맷
   - [RAR](https://ko.wikipedia.org/wiki/자바_EE_커넥터_아키텍처 "wikilink") (resource adapter archive) : J2EE 커넥터 아키텍처(JCA) 애플리케이션을 묶는데 사용되는 압축 포맷이다.
-  - [EAR](https://ko.wikipedia.org/wiki/EAR_\(파일_포맷\) "wikilink") (enterprise archive) : 자바 엔터프라이스 애플리케이션에서 이용되는 압축 포맷으로, 애플리케이션 클래스 및 관련 JAR, WAR, RAR 압축 파일들을 묶는 용도로 사용된다.
+  - [EAR](../Page/EAR_\(파일_포맷\).md "wikilink") (enterprise archive) : 자바 엔터프라이스 애플리케이션에서 이용되는 압축 포맷으로, 애플리케이션 클래스 및 관련 JAR, WAR, RAR 압축 파일들을 묶는 용도로 사용된다.
   - [APK](../Page/안드로이드_응용_프로그램_패키지.md "wikilink") (Android Application Package) : [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") 애플리케이션에서 사용되는 자바 압축 포맷의 일종이다.\[5\]
 
 ## 같이 보기

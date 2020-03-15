@@ -35,7 +35,7 @@
 </tr>
 <tr class="even">
 <td><p>2대</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/정치부장_이하원의_시사Q" title="wikilink">정치부장 이하원의 시사Q</a></p></td>
+<td><p><a href="../Page/정치부장_이하원의_시사Q.md" title="wikilink">정치부장 이하원의 시사Q</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/2015년" title="wikilink">2015년</a> <a href="https://ko.wikipedia.org/wiki/6월_1일" title="wikilink">6월 1일</a> ~ <a href="https://ko.wikipedia.org/wiki/2016년" title="wikilink">2016년</a> <a href="https://ko.wikipedia.org/wiki/2월_5일" title="wikilink">2월 5일</a></p></td>
 </tr>
 </tbody>

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [2014 B1A4 Road Trip - READY\?](https://ko.wikipedia.org/wiki/2014_B1A4_Road_Trip_-_READY\?).
 
 
-《**2014 B1A4 Road Trip - READY?**》는 대한민국의 아이돌 그룹 [B1A4](https://ko.wikipedia.org/wiki/B1A4 "wikilink")의 네 번째 콘서트 투어이자, 첫 콘서트 월드 투어이다. [호주](https://ko.wikipedia.org/wiki/호주 "wikilink"), [미국](https://ko.wikipedia.org/wiki/미국 "wikilink"), [중국](https://ko.wikipedia.org/wiki/중국 "wikilink"), [필리핀](https://ko.wikipedia.org/wiki/필리핀 "wikilink"), [대만](https://ko.wikipedia.org/wiki/대만 "wikilink"), [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") 등 세계의 각국을 돌아 서울에서 마지막 무대를 장식했다. 팬들 사이에서는 **로드트립** 또는 **로드콘**으로 불리고 있다. 투어 도중 B1A4의 유튜브 공식 계정에 단편 리얼리티 [B1A4 Road Trip - READY? Behind Clip을](https://ko.wikipedia.org/wiki/B1A4_Road_Trip_-_READY?_Behind_Clip "wikilink") 공개하기도 했다.
+《**2014 B1A4 Road Trip - READY?**》는 대한민국의 아이돌 그룹 [B1A4](https://ko.wikipedia.org/wiki/B1A4 "wikilink")의 네 번째 콘서트 투어이자, 첫 콘서트 월드 투어이다. [호주](https://ko.wikipedia.org/wiki/호주 "wikilink"), [미국](https://ko.wikipedia.org/wiki/미국 "wikilink"), [중국](https://ko.wikipedia.org/wiki/중국 "wikilink"), [필리핀](https://ko.wikipedia.org/wiki/필리핀 "wikilink"), [대만](https://ko.wikipedia.org/wiki/대만 "wikilink"), [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") 등 세계의 각국을 돌아 서울에서 마지막 무대를 장식했다. 팬들 사이에서는 **로드트립** 또는 **로드콘**으로 불리고 있다. 투어 도중 B1A4의 유튜브 공식 계정에 단편 리얼리티 [B1A4 Road Trip - READY? Behind Clip을](../Page/B1A4_Road_Trip_-_READY?_Behind_Clip.md "wikilink") 공개하기도 했다.
 
 ## 투어 일정
 
@@ -131,6 +131,6 @@
 ## 참고 문서
 
   - [B1A4](https://ko.wikipedia.org/wiki/B1A4 "wikilink")
-  - [B1A4 Road Trip - READY? Behind Clip](https://ko.wikipedia.org/wiki/B1A4_Road_Trip_-_READY?_Behind_Clip "wikilink")
+  - [B1A4 Road Trip - READY? Behind Clip](../Page/B1A4_Road_Trip_-_READY?_Behind_Clip.md "wikilink")
 
 [분류:B1A4의 콘서트 투어](https://ko.wikipedia.org/wiki/분류:B1A4의_콘서트_투어 "wikilink") [분류:대한민국의 음악회](https://ko.wikipedia.org/wiki/분류:대한민국의_음악회 "wikilink") [분류:2014년 콘서트 투어](https://ko.wikipedia.org/wiki/분류:2014년_콘서트_투어 "wikilink")

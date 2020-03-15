@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Strace](https://ko.wikipedia.org/wiki/Strace).
 
 
-**strace**는 진단, [디버그](https://ko.wikipedia.org/wiki/디버그 "wikilink"), 지시적 [사용자 공간](https://ko.wikipedia.org/wiki/사용자_공간 "wikilink") 유틸리티이다. [시스템 호출](https://ko.wikipedia.org/wiki/시스템_호출 "wikilink"), [신호](https://ko.wikipedia.org/wiki/유닉스_신호 "wikilink") 전달자, 프로세스 상태의 변화를 포함하는 [프로세스](https://ko.wikipedia.org/wiki/프로세스 "wikilink")와 [리눅스 커널](https://ko.wikipedia.org/wiki/리눅스_커널 "wikilink") 간 상호 작용을 감시하는데 사용된다. strace는 [ptrace](https://ko.wikipedia.org/wiki/ptrace "wikilink")라는 커널 기능을 통해 사용될 수 있다.
+**strace**는 진단, [디버그](https://ko.wikipedia.org/wiki/디버그 "wikilink"), 지시적 [사용자 공간](https://ko.wikipedia.org/wiki/사용자_공간 "wikilink") 유틸리티이다. [시스템 호출](https://ko.wikipedia.org/wiki/시스템_호출 "wikilink"), [신호](../Page/유닉스_신호.md "wikilink") 전달자, 프로세스 상태의 변화를 포함하는 [프로세스](https://ko.wikipedia.org/wiki/프로세스 "wikilink")와 [리눅스 커널](https://ko.wikipedia.org/wiki/리눅스_커널 "wikilink") 간 상호 작용을 감시하는데 사용된다. strace는 [ptrace](https://ko.wikipedia.org/wiki/ptrace "wikilink")라는 커널 기능을 통해 사용될 수 있다.
 
 일부 [유닉스 계열](https://ko.wikipedia.org/wiki/유닉스_계열 "wikilink") 운영 체제는 [truss](https://ko.wikipedia.org/wiki/truss "wikilink")와 같은 strace 유사 진단 도구를 제공한다.
 
@@ -43,7 +43,7 @@ strace는 본래 1991년에 [썬OS](https://ko.wikipedia.org/wiki/썬OS "wikilin
 다른 운영 체제들에서 비슷한 역할을 하는 도구들이 존재한다.
 
   - [리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink")는 라이브러리와 시스템 호출들을 트레이스할 수 있는 [ltrace](https://ko.wikipedia.org/wiki/ltrace "wikilink")가 있으며, X 윈도우 프로그램들을 트레이스할 수 있는 xtrace\[13\], [SystemTap](https://ko.wikipedia.org/wiki/SystemTap "wikilink") 등이 있다.
-  - [마이크로소프트 윈도우는](https://ko.wikipedia.org/wiki/마이크로소프트_윈도우 "wikilink") StraceNT\[14\]라고 불리는 비슷한 유틸리티가 있으며 [프로세스 모니터라고](https://ko.wikipedia.org/wiki/프로세스_모니터 "wikilink") 불리는 비슷한 GUI 기반 유틸리티도 존재한다.
+  - [마이크로소프트 윈도우는](https://ko.wikipedia.org/wiki/마이크로소프트_윈도우 "wikilink") StraceNT\[14\]라고 불리는 비슷한 유틸리티가 있으며 [프로세스 모니터라고](../Page/프로세스_모니터.md "wikilink") 불리는 비슷한 GUI 기반 유틸리티도 존재한다.
 
 ## 같이 보기
 

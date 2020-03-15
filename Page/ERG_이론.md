@@ -7,9 +7,9 @@
 
 ## 원리
 
-[ERG 이론에서는](https://ko.wikipedia.org/wiki/ERG_이론 "wikilink") 한 가지 이상의 욕구가 동시에 작용 할 수 있다는 점과 인간의 행동은 욕구들의 복합적 성격을 추구하고 있다는 점이 특징적으로 나타나고 있다. [C.Alderfer의](https://ko.wikipedia.org/wiki/클레이턴_앨더퍼 "wikilink") [ERG이론의](https://ko.wikipedia.org/wiki/ERG_이론 "wikilink") 기본원리는 욕구좌절, 욕구강도, 욕구만족 세가지로 설명 할 수 있다.
+[ERG 이론에서는](../Page/ERG_이론.md "wikilink") 한 가지 이상의 욕구가 동시에 작용 할 수 있다는 점과 인간의 행동은 욕구들의 복합적 성격을 추구하고 있다는 점이 특징적으로 나타나고 있다. [C.Alderfer의](https://ko.wikipedia.org/wiki/클레이턴_앨더퍼 "wikilink") [ERG이론의](../Page/ERG_이론.md "wikilink") 기본원리는 욕구좌절, 욕구강도, 욕구만족 세가지로 설명 할 수 있다.
 
-[ERG 이론에서의](https://ko.wikipedia.org/wiki/ERG_이론 "wikilink") 욕구는 존재욕구, 관계욕구, 성장욕구 의 세가지로 나뉜다.
+[ERG 이론에서의](../Page/ERG_이론.md "wikilink") 욕구는 존재욕구, 관계욕구, 성장욕구 의 세가지로 나뉜다.
 
 ### 존재욕구(**E**xistence needs)
 
@@ -33,7 +33,7 @@
 
 [frame](https://ko.wikipedia.org/wiki/파일:ERG_이론_작용_원리.jpg "wikilink")
 
-[ERG 이론에서는](https://ko.wikipedia.org/wiki/ERG_이론 "wikilink") 위의 세가지 욕구가 다음과 같은 원리로 작용한다.
+[ERG 이론에서는](../Page/ERG_이론.md "wikilink") 위의 세가지 욕구가 다음과 같은 원리로 작용한다.
 
 1.  욕구좌절(Needs frustration)은 고차원 욕구인 성장욕구가 충족되지 않으면 저차원 욕구인 관계욕구를 더욱 원하게 된다는 것이다.
 2.  욕구강도(Needs strength)는 저차원 욕구인 존재 욕구가 충족 될수록 고차원 욕구인 관계욕구에 대한 바람이 커진다는 것으로 [매슬로의 이론과](https://ko.wikipedia.org/wiki/매슬로의_욕구단계설 "wikilink") 같은 시각을 가지고 있다.
@@ -41,9 +41,9 @@
 
 ## 특징
 
-[매슬로의 욕구단계설은](https://ko.wikipedia.org/wiki/매슬로의_욕구단계설 "wikilink") 생리적 욕구, 안전의 욕구, 사회적 욕구(애정과 소속의 욕구), 존경의 욕구, 자아존중과 자아실현의 욕구까지 5가지로 나뉜다. [ERG 이론은](https://ko.wikipedia.org/wiki/ERG_이론 "wikilink") 이를 3차원인 존재욕구(existence needs), 관계욕구(relatedness needs), 성장욕구(growth needs)로 축약시켰다. 존재욕구는 [매슬로의](https://ko.wikipedia.org/wiki/에이브러햄_매슬로 "wikilink") 생리적 욕구와 안전의 욕구의 일부, 관계욕구는 안전 욕구의 일부, 사회적 욕구와 존경의 욕구, 성장욕구는 [매슬로의](https://ko.wikipedia.org/wiki/에이브러햄_매슬로 "wikilink") 존경 욕구의 일부(자아존중)과 자아실현의 욕구로 각각 대응된다. 예를 들자면 연금제도, 보수, 후생 복지 제도, 근무환경에 관한 욕구가 존재욕구에 해당하고 동료 및 상사와의 소통에 대한 욕구가 관계욕구에 해당하며, 능력 발전이나 직업에 대한 자긍심에 대한 욕구 등이 성장욕구에 해당한다.
+[매슬로의 욕구단계설은](https://ko.wikipedia.org/wiki/매슬로의_욕구단계설 "wikilink") 생리적 욕구, 안전의 욕구, 사회적 욕구(애정과 소속의 욕구), 존경의 욕구, 자아존중과 자아실현의 욕구까지 5가지로 나뉜다. [ERG 이론은](../Page/ERG_이론.md "wikilink") 이를 3차원인 존재욕구(existence needs), 관계욕구(relatedness needs), 성장욕구(growth needs)로 축약시켰다. 존재욕구는 [매슬로의](https://ko.wikipedia.org/wiki/에이브러햄_매슬로 "wikilink") 생리적 욕구와 안전의 욕구의 일부, 관계욕구는 안전 욕구의 일부, 사회적 욕구와 존경의 욕구, 성장욕구는 [매슬로의](https://ko.wikipedia.org/wiki/에이브러햄_매슬로 "wikilink") 존경 욕구의 일부(자아존중)과 자아실현의 욕구로 각각 대응된다. 예를 들자면 연금제도, 보수, 후생 복지 제도, 근무환경에 관한 욕구가 존재욕구에 해당하고 동료 및 상사와의 소통에 대한 욕구가 관계욕구에 해당하며, 능력 발전이나 직업에 대한 자긍심에 대한 욕구 등이 성장욕구에 해당한다.
 
-[ERG 이론에](https://ko.wikipedia.org/wiki/ERG_이론 "wikilink") 따르면 상위에 있는 욕구를 충족시키지 못하면 보다 하위의 욕구가 더욱 증가하여 이를 충족시키려면 기존의 몇 배나 더 노력을 해야 한다는 것이다.
+[ERG 이론에](../Page/ERG_이론.md "wikilink") 따르면 상위에 있는 욕구를 충족시키지 못하면 보다 하위의 욕구가 더욱 증가하여 이를 충족시키려면 기존의 몇 배나 더 노력을 해야 한다는 것이다.
 
 즉, 욕구를 단계적인 계층적 개념이 아닌 욕구의 구체성 정도에 따라 분류 한 것이기 때문에 욕구 간의 순서가 있는 것이라고 파악하는 것이 아니다. 또한, 개개인 마다 세 가지 욕구의 상대적 크기가 서로 다를 수 있으며 개인의 성격과 문화의 따라 달라질 수 있다고 한다.
 
@@ -53,11 +53,11 @@
 
 ### [매슬로의 욕구단계설과의](https://ko.wikipedia.org/wiki/매슬로의_욕구단계설 "wikilink") 차이점
 
-[C.Alderfer의](https://ko.wikipedia.org/wiki/클레이턴_앨더퍼 "wikilink") [ERG 이론은](https://ko.wikipedia.org/wiki/ERG_이론 "wikilink") 하위욕구의 충족이 상위욕구에 대한 욕망을 더 커지게 한다는 점에서 [매슬로의 이론과](https://ko.wikipedia.org/wiki/매슬로의_욕구단계설 "wikilink") 기본적인 시각을 같이한다. 다만, [매슬로의 이론과의](https://ko.wikipedia.org/wiki/매슬로의_욕구단계설 "wikilink") 주요한 차이점이 존재한다.
+[C.Alderfer의](https://ko.wikipedia.org/wiki/클레이턴_앨더퍼 "wikilink") [ERG 이론은](../Page/ERG_이론.md "wikilink") 하위욕구의 충족이 상위욕구에 대한 욕망을 더 커지게 한다는 점에서 [매슬로의 이론과](https://ko.wikipedia.org/wiki/매슬로의_욕구단계설 "wikilink") 기본적인 시각을 같이한다. 다만, [매슬로의 이론과의](https://ko.wikipedia.org/wiki/매슬로의_욕구단계설 "wikilink") 주요한 차이점이 존재한다.
 
-1.  저차 욕구가 만족되면 고차 욕구로 진행된다는 [매슬로의 욕구단계설에](https://ko.wikipedia.org/wiki/매슬로의_욕구단계설 "wikilink") 비해 [C. Alderfer의](https://ko.wikipedia.org/wiki/클레이턴_앨더퍼 "wikilink") [ERG 이론은](https://ko.wikipedia.org/wiki/ERG_이론 "wikilink") 좌절-퇴행 (frustration-regression) 요소를 추가하였다. 좌절-퇴행은 고차 욕구가 충족되지 않았을 때 오히려 저차 욕구의 중요성이 커지고 그에 따라 바라는 바도 커진다는 주장이다. 욕구충족행동은 만족-진행 (satisfaction-progression)과 좌절-퇴행 (frustration-regression)으로 나뉜다. 즉 만족-진행 행동이란 하위 수준의 욕구가 만족되면 상위 수준의 욕구가 강하게 나타난다는 것으로, [매슬로의 이론과](https://ko.wikipedia.org/wiki/매슬로의_욕구단계설 "wikilink") 같은 맥락으로 설명할 수 있다. 좌절-퇴행 행동이란 상위 수준의 욕구를 추구하다가 좌절되면 하위 수준의 욕구로 내려가는 것을 말한다. 예를 들어서 성장욕구차원에서 자기 능력에 맞는 보람 있는 일을 하려다가 좌절되면 동료와의 관계를 더욱 긴밀하게 유지하는 것과 같이 관계 욕구를 강화한다는 것이다. 좌절-퇴행의 가설은 욕구의 좌절이 가져오는 조직 관리적 의미를 구체적으로 부각시켜주었는데 관계욕구나 성장욕구가 좌절되었을 때 그 하위단계의 욕구를 더욱 갈망하게 된다는 주장은 관계욕구의 좌절이 존재욕구의 일부인 금전적 보상을 더 많이 요구하게 한다는 점을 시사하고 있다. 종업원들은 정신적, 심리적 성장을 원하고 있고, 조직이 그것을 적절하게 보상하지 못하는 경우 조직은 이에 상응하는 비용을 치러야 한다는 것으로 경영자에게 종업원의 고차 욕구 충족의 필요성을 고취하고 있다.\[1\]
-2.  [욕구단계설과](https://ko.wikipedia.org/wiki/매슬로의_욕구단계설 "wikilink") 달리 [ERG 이론은](https://ko.wikipedia.org/wiki/ERG_이론 "wikilink") 인간행위에 한 가지 이상의 욕구가 동시에 작용할 수 있다고 가정하였다.
-3.  [ERG 이론은](https://ko.wikipedia.org/wiki/ERG_이론 "wikilink") [욕구단계설에서](https://ko.wikipedia.org/wiki/매슬로의_욕구단계설 "wikilink") 가장 많은 비판을 받았던 ‘저차원 욕구 충족이 고차원 욕구에 대한 필수적인 선행조건’ 이라는 것을 배제하고 오히려 고차원 욕구에 대한 결핍이 저차원 욕구의 중요성을 더욱 강조하게 된다는 가정 하에 [ERG 이론을](https://ko.wikipedia.org/wiki/ERG_이론 "wikilink") 정립하였다.
+1.  저차 욕구가 만족되면 고차 욕구로 진행된다는 [매슬로의 욕구단계설에](https://ko.wikipedia.org/wiki/매슬로의_욕구단계설 "wikilink") 비해 [C. Alderfer의](https://ko.wikipedia.org/wiki/클레이턴_앨더퍼 "wikilink") [ERG 이론은](../Page/ERG_이론.md "wikilink") 좌절-퇴행 (frustration-regression) 요소를 추가하였다. 좌절-퇴행은 고차 욕구가 충족되지 않았을 때 오히려 저차 욕구의 중요성이 커지고 그에 따라 바라는 바도 커진다는 주장이다. 욕구충족행동은 만족-진행 (satisfaction-progression)과 좌절-퇴행 (frustration-regression)으로 나뉜다. 즉 만족-진행 행동이란 하위 수준의 욕구가 만족되면 상위 수준의 욕구가 강하게 나타난다는 것으로, [매슬로의 이론과](https://ko.wikipedia.org/wiki/매슬로의_욕구단계설 "wikilink") 같은 맥락으로 설명할 수 있다. 좌절-퇴행 행동이란 상위 수준의 욕구를 추구하다가 좌절되면 하위 수준의 욕구로 내려가는 것을 말한다. 예를 들어서 성장욕구차원에서 자기 능력에 맞는 보람 있는 일을 하려다가 좌절되면 동료와의 관계를 더욱 긴밀하게 유지하는 것과 같이 관계 욕구를 강화한다는 것이다. 좌절-퇴행의 가설은 욕구의 좌절이 가져오는 조직 관리적 의미를 구체적으로 부각시켜주었는데 관계욕구나 성장욕구가 좌절되었을 때 그 하위단계의 욕구를 더욱 갈망하게 된다는 주장은 관계욕구의 좌절이 존재욕구의 일부인 금전적 보상을 더 많이 요구하게 한다는 점을 시사하고 있다. 종업원들은 정신적, 심리적 성장을 원하고 있고, 조직이 그것을 적절하게 보상하지 못하는 경우 조직은 이에 상응하는 비용을 치러야 한다는 것으로 경영자에게 종업원의 고차 욕구 충족의 필요성을 고취하고 있다.\[1\]
+2.  [욕구단계설과](https://ko.wikipedia.org/wiki/매슬로의_욕구단계설 "wikilink") 달리 [ERG 이론은](../Page/ERG_이론.md "wikilink") 인간행위에 한 가지 이상의 욕구가 동시에 작용할 수 있다고 가정하였다.
+3.  [ERG 이론은](../Page/ERG_이론.md "wikilink") [욕구단계설에서](https://ko.wikipedia.org/wiki/매슬로의_욕구단계설 "wikilink") 가장 많은 비판을 받았던 ‘저차원 욕구 충족이 고차원 욕구에 대한 필수적인 선행조건’ 이라는 것을 배제하고 오히려 고차원 욕구에 대한 결핍이 저차원 욕구의 중요성을 더욱 강조하게 된다는 가정 하에 [ERG 이론을](../Page/ERG_이론.md "wikilink") 정립하였다.
 
 ### 위생이론(2요인이론)과의 차이점
 
@@ -69,7 +69,7 @@
 
 <!-- end list -->
 
-  - [위생이론은](https://ko.wikipedia.org/wiki/허즈버그의_동기부여－위생이론 "wikilink") 여러 가지 항목들을 조사해서 위생요인과 동기요인이라는 두 가지 항목으로 분류한다. 즉 어떤 요인들이 만족감 제공에 특화되어 있고 불만 야기에 특화되어 있는지 구분한다. 어떤 구체적인 요인들이 동기부여를 시키는지 불만족을 야기하는지 구분지어서 설명하는 [위생이론과](https://ko.wikipedia.org/wiki/허즈버그의_동기부여－위생이론 "wikilink") 욕구의 종류를 탐구한 [ERG 이론은](https://ko.wikipedia.org/wiki/ERG_이론 "wikilink") 동기부여를 바라보는 관점이 다르다. [ERG 이론은](https://ko.wikipedia.org/wiki/ERG_이론 "wikilink") 욕구의 종류를 세분화하여 저차원적인 단계, 고차원적인 단계의 만족을 나눌 수 있지만 [위생이론에서는](https://ko.wikipedia.org/wiki/허즈버그의_동기부여－위생이론 "wikilink") 만족과 불만족이라는 두 가지 경우 수만 있다. 따라서 [ERG 이론에](https://ko.wikipedia.org/wiki/ERG_이론 "wikilink") 따르면 직무만족과 직무불만족은 관련되어 있다. 만족과 불만족은 상호적이며 서로 영향을 미친다. 어떠한 단계에서의 불만족은 다른 단계의 만족을 하락시킬 수 있고 만족은 또 다른 만족을 야기시킬 수도 있는 것 처럼 유동적으로 영향이 발생한다.
+  - [위생이론은](https://ko.wikipedia.org/wiki/허즈버그의_동기부여－위생이론 "wikilink") 여러 가지 항목들을 조사해서 위생요인과 동기요인이라는 두 가지 항목으로 분류한다. 즉 어떤 요인들이 만족감 제공에 특화되어 있고 불만 야기에 특화되어 있는지 구분한다. 어떤 구체적인 요인들이 동기부여를 시키는지 불만족을 야기하는지 구분지어서 설명하는 [위생이론과](https://ko.wikipedia.org/wiki/허즈버그의_동기부여－위생이론 "wikilink") 욕구의 종류를 탐구한 [ERG 이론은](../Page/ERG_이론.md "wikilink") 동기부여를 바라보는 관점이 다르다. [ERG 이론은](../Page/ERG_이론.md "wikilink") 욕구의 종류를 세분화하여 저차원적인 단계, 고차원적인 단계의 만족을 나눌 수 있지만 [위생이론에서는](https://ko.wikipedia.org/wiki/허즈버그의_동기부여－위생이론 "wikilink") 만족과 불만족이라는 두 가지 경우 수만 있다. 따라서 [ERG 이론에](../Page/ERG_이론.md "wikilink") 따르면 직무만족과 직무불만족은 관련되어 있다. 만족과 불만족은 상호적이며 서로 영향을 미친다. 어떠한 단계에서의 불만족은 다른 단계의 만족을 하락시킬 수 있고 만족은 또 다른 만족을 야기시킬 수도 있는 것 처럼 유동적으로 영향이 발생한다.
 
 <!-- end list -->
 
@@ -77,15 +77,15 @@
 
 ### [X-Y이론과의](https://ko.wikipedia.org/wiki/X-Y_이론 "wikilink") 차이점
 
-  - 같은 동기부여 이론의 범주에 묶일 수는 있지만 [ERG 이론과](https://ko.wikipedia.org/wiki/ERG_이론 "wikilink") McGregor의 [X-Y이론은](https://ko.wikipedia.org/wiki/X-Y_이론 "wikilink") 시작을 달리한다. [ERG 이론은](https://ko.wikipedia.org/wiki/ERG_이론 "wikilink") 개인의 욕구 파악이라는 측면에서 이론을 전개하지만 [X-Y이론은](https://ko.wikipedia.org/wiki/X-Y_이론 "wikilink") 종업원을 바라보는 기업의 시점 측면에서 이론을 전개한다. '개인의 욕구에는 어떤 종류가 있으며 어떻게 충족되는가?'와 '기업의 입장에서 종업원은 어떠한 존재인가?'라는 다른 물음으로 시작된 것이다.
+  - 같은 동기부여 이론의 범주에 묶일 수는 있지만 [ERG 이론과](../Page/ERG_이론.md "wikilink") McGregor의 [X-Y이론은](https://ko.wikipedia.org/wiki/X-Y_이론 "wikilink") 시작을 달리한다. [ERG 이론은](../Page/ERG_이론.md "wikilink") 개인의 욕구 파악이라는 측면에서 이론을 전개하지만 [X-Y이론은](https://ko.wikipedia.org/wiki/X-Y_이론 "wikilink") 종업원을 바라보는 기업의 시점 측면에서 이론을 전개한다. '개인의 욕구에는 어떤 종류가 있으며 어떻게 충족되는가?'와 '기업의 입장에서 종업원은 어떠한 존재인가?'라는 다른 물음으로 시작된 것이다.
 
 <!-- end list -->
 
-  - X이론은 종업원이 게으르고 기업에 비협조적이라서 엄격한 규율과 보상으로 다스려야 한다는 이론이다. 그에 반해 Y이론은 종업원은 능동적이고 자아실현의 기회로 보상을 받으면 기업에 협조적일 수 있다는 이론이다. 이렇게 McGregor의 [X-Y이론은](https://ko.wikipedia.org/wiki/X-Y_이론 "wikilink") 두 가지 상반된 기업의 시각을 이론으로 제시한 것이지 욕구에 대한 근본적인 분석을 탐구한 것이 아니었다. 따라서 McGregor의 [X-Y이론은](https://ko.wikipedia.org/wiki/X-Y_이론 "wikilink") [매슬로의 욕구단계설만큼](https://ko.wikipedia.org/wiki/매슬로의_욕구단계설 "wikilink") [C.Alderfer의](https://ko.wikipedia.org/wiki/클레이턴_앨더퍼 "wikilink") [ERG 이론과](https://ko.wikipedia.org/wiki/ERG_이론 "wikilink") 직접적으로 비교될 수는 없다.
+  - X이론은 종업원이 게으르고 기업에 비협조적이라서 엄격한 규율과 보상으로 다스려야 한다는 이론이다. 그에 반해 Y이론은 종업원은 능동적이고 자아실현의 기회로 보상을 받으면 기업에 협조적일 수 있다는 이론이다. 이렇게 McGregor의 [X-Y이론은](https://ko.wikipedia.org/wiki/X-Y_이론 "wikilink") 두 가지 상반된 기업의 시각을 이론으로 제시한 것이지 욕구에 대한 근본적인 분석을 탐구한 것이 아니었다. 따라서 McGregor의 [X-Y이론은](https://ko.wikipedia.org/wiki/X-Y_이론 "wikilink") [매슬로의 욕구단계설만큼](https://ko.wikipedia.org/wiki/매슬로의_욕구단계설 "wikilink") [C.Alderfer의](https://ko.wikipedia.org/wiki/클레이턴_앨더퍼 "wikilink") [ERG 이론과](../Page/ERG_이론.md "wikilink") 직접적으로 비교될 수는 없다.
 
 <!-- end list -->
 
-  - 비교가 필요하다면 둘 중 한 가지 이론을 다른 이론에 적용시켜 보는 것으로 간접적인 비교가 가능하다. X이론은 기업이 주로 물질적 상벌과 규율로 동기부여를 한다는 점에서 [ERG 이론에서의](https://ko.wikipedia.org/wiki/ERG_이론 "wikilink") 존재욕구만이 고려되고 있다는 것을 알 수 있다. 반면 Y이론은 종업원의 자아실현을 보상의 기회로 제공하고 일을 즐겁게 할 수 있는 환경을 제공한다는 점에서 관계욕구와 성장욕구도 고려되고 있다는 것을 알 수 있다. [ERG 이론은](https://ko.wikipedia.org/wiki/ERG_이론 "wikilink") X이론의 관점보다 Y이론의 관점에서 더욱 그 의미가 큰 것이라고 할 수 있다. X이론에서는 단순하게 한 가지 욕구만을 고려하지만 Y이론에서는 세 가지로 세분화된 [ERG 이론의](https://ko.wikipedia.org/wiki/ERG_이론 "wikilink") 모든 욕구들을 적용시키기 더 쉽기 때문이다.
+  - 비교가 필요하다면 둘 중 한 가지 이론을 다른 이론에 적용시켜 보는 것으로 간접적인 비교가 가능하다. X이론은 기업이 주로 물질적 상벌과 규율로 동기부여를 한다는 점에서 [ERG 이론에서의](../Page/ERG_이론.md "wikilink") 존재욕구만이 고려되고 있다는 것을 알 수 있다. 반면 Y이론은 종업원의 자아실현을 보상의 기회로 제공하고 일을 즐겁게 할 수 있는 환경을 제공한다는 점에서 관계욕구와 성장욕구도 고려되고 있다는 것을 알 수 있다. [ERG 이론은](../Page/ERG_이론.md "wikilink") X이론의 관점보다 Y이론의 관점에서 더욱 그 의미가 큰 것이라고 할 수 있다. X이론에서는 단순하게 한 가지 욕구만을 고려하지만 Y이론에서는 세 가지로 세분화된 [ERG 이론의](../Page/ERG_이론.md "wikilink") 모든 욕구들을 적용시키기 더 쉽기 때문이다.
 
 ## 사례
 
@@ -104,8 +104,8 @@
 
 3, ERG 요인이 조직유효성에 미치는 영향에 대한 조절효과 연구\[4\]
 
-  - [ERG 이론을](https://ko.wikipedia.org/wiki/ERG_이론 "wikilink") 이론적 틀로 한 분석모형을 적용하여 자발과 비자발 근로자에 따른 조직유효성 분석
-  - [ERG 이론의](https://ko.wikipedia.org/wiki/ERG_이론 "wikilink") 욕구 개념들은 개인의 자아 정체성, 신념 등 가치관에 뿌리를 두고 있기 때문에 욕구충족이 근로자의 직무태도나 직무행동에 영향을 줄 가능성이 농후하다 가정
+  - [ERG 이론을](../Page/ERG_이론.md "wikilink") 이론적 틀로 한 분석모형을 적용하여 자발과 비자발 근로자에 따른 조직유효성 분석
+  - [ERG 이론의](../Page/ERG_이론.md "wikilink") 욕구 개념들은 개인의 자아 정체성, 신념 등 가치관에 뿌리를 두고 있기 때문에 욕구충족이 근로자의 직무태도나 직무행동에 영향을 줄 가능성이 농후하다 가정
   - 욕구 충족 개념을 이용하여 근로자에게 정적인(+) 변화를 촉진시킬 수 있다는 점 시사
 
 ### 사회학적 사례
@@ -122,20 +122,20 @@
 3\. 동기부여와 사기의 관계에 관한 시론적 연구 : 인구통계학적 변수의 조절효과를 중심으로\[7\]
 
   - 매슬로의 욕구단계에 따라 나눈 동기부여 요인을 독립변수로, 공무원들의 사기를 종속변수로 조사
-  - 요인분석을 실시한 결과, 3차원으로 나누어져 [ERG 이론과](https://ko.wikipedia.org/wiki/ERG_이론 "wikilink") 유사한 분석 결과 도출
+  - 요인분석을 실시한 결과, 3차원으로 나누어져 [ERG 이론과](../Page/ERG_이론.md "wikilink") 유사한 분석 결과 도출
 
 ## 평가
 
-[ERG 이론은](https://ko.wikipedia.org/wiki/ERG_이론 "wikilink") 인간의 행위를 설명함에 있어서 [에이브러햄 매슬로의](https://ko.wikipedia.org/wiki/에이브러햄_매슬로 "wikilink") [욕구단계설보다](https://ko.wikipedia.org/wiki/매슬로의_욕구단계설 "wikilink") 탄력적이며 욕구 구조에 있어 개인적인 차이가 많을 수 있다는 것을 인정하고 있으나, [관계욕구의](https://ko.wikipedia.org/wiki/관계욕구\(R,_relatedness_needs\) "wikilink") 충족이 [성장욕구의](https://ko.wikipedia.org/wiki/성장욕구\(G,_growth_needs\) "wikilink") 증대를, 그리고 [성장욕구의](https://ko.wikipedia.org/wiki/성장욕구\(G,_growth_needs\) "wikilink") 좌절이 [관계욕구의](https://ko.wikipedia.org/wiki/관계욕구\(R,_relatedness_needs\) "wikilink") 증대를 가져온다는 주장에 대해서는 연구에 따라 결과가 다르게 나타나고 있기도 하다.\[8\]
+[ERG 이론은](../Page/ERG_이론.md "wikilink") 인간의 행위를 설명함에 있어서 [에이브러햄 매슬로의](https://ko.wikipedia.org/wiki/에이브러햄_매슬로 "wikilink") [욕구단계설보다](https://ko.wikipedia.org/wiki/매슬로의_욕구단계설 "wikilink") 탄력적이며 욕구 구조에 있어 개인적인 차이가 많을 수 있다는 것을 인정하고 있으나, [관계욕구의](https://ko.wikipedia.org/wiki/관계욕구\(R,_relatedness_needs\) "wikilink") 충족이 [성장욕구의](https://ko.wikipedia.org/wiki/성장욕구\(G,_growth_needs\) "wikilink") 증대를, 그리고 [성장욕구의](https://ko.wikipedia.org/wiki/성장욕구\(G,_growth_needs\) "wikilink") 좌절이 [관계욕구의](https://ko.wikipedia.org/wiki/관계욕구\(R,_relatedness_needs\) "wikilink") 증대를 가져온다는 주장에 대해서는 연구에 따라 결과가 다르게 나타나고 있기도 하다.\[8\]
 
-[ERG 이론에](https://ko.wikipedia.org/wiki/ERG_이론 "wikilink") 대한 실증 연구의 결과는 다음과 같다.
+[ERG 이론에](../Page/ERG_이론.md "wikilink") 대한 실증 연구의 결과는 다음과 같다.
 
   - 욕구의 분류가 세 가지로 되어 있다는 것은 실증연구결과 입증 되었다.
   - 만족-진행, 좌절-퇴행의 일곱 가지 작용원리의 성립 여부에 관해서는 혼합된 결과들을 보여주고 있다.
 
-두 번째의 성립 여부의 혼합된 결과들은 [ERG 이론이](https://ko.wikipedia.org/wiki/ERG_이론 "wikilink") 작용하는 과정에 다른변수(조절 변인)가 작용하고 있음을 의미한다.
+두 번째의 성립 여부의 혼합된 결과들은 [ERG 이론이](../Page/ERG_이론.md "wikilink") 작용하는 과정에 다른변수(조절 변인)가 작용하고 있음을 의미한다.
 
-[ERG 이론은](https://ko.wikipedia.org/wiki/ERG_이론 "wikilink") 실증적 연구결과를 중시하고 그에 근거하여 이론구성을 시도하였다는 점에서 [매슬로의](https://ko.wikipedia.org/wiki/에이브러햄_매슬로 "wikilink") 이론보다 진일보 했다고 보여지나 욕구 중심 이론이 갖은 한계를 벗어날 수는 없었다고 보인다.\[9\] 또한, 조직행위론 연구자들은 [ERG 이론이](https://ko.wikipedia.org/wiki/ERG_이론 "wikilink") 욕구 개념에 근거를 둔 동기부여 이론으로는 가장 타당성 있는 이론이라는 평가를 내리고 있으며, [매슬로의](https://ko.wikipedia.org/wiki/에이브러햄_매슬로 "wikilink") [욕구단계설은](https://ko.wikipedia.org/wiki/매슬로의_욕구단계설 "wikilink") 물론 [허즈버그의 이론](https://ko.wikipedia.org/wiki/허즈버그의_동기부여－위생이론 "wikilink")\[10\] 보다 훨씬 효과적인 방안이라고 인정하고 있다.\[11\]
+[ERG 이론은](../Page/ERG_이론.md "wikilink") 실증적 연구결과를 중시하고 그에 근거하여 이론구성을 시도하였다는 점에서 [매슬로의](https://ko.wikipedia.org/wiki/에이브러햄_매슬로 "wikilink") 이론보다 진일보 했다고 보여지나 욕구 중심 이론이 갖은 한계를 벗어날 수는 없었다고 보인다.\[9\] 또한, 조직행위론 연구자들은 [ERG 이론이](../Page/ERG_이론.md "wikilink") 욕구 개념에 근거를 둔 동기부여 이론으로는 가장 타당성 있는 이론이라는 평가를 내리고 있으며, [매슬로의](https://ko.wikipedia.org/wiki/에이브러햄_매슬로 "wikilink") [욕구단계설은](https://ko.wikipedia.org/wiki/매슬로의_욕구단계설 "wikilink") 물론 [허즈버그의 이론](https://ko.wikipedia.org/wiki/허즈버그의_동기부여－위생이론 "wikilink")\[10\] 보다 훨씬 효과적인 방안이라고 인정하고 있다.\[11\]
 
 ## 같이 보기
 

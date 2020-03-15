@@ -22,7 +22,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/STREET_(EXID의_음반)" title="wikilink">STREET</a></p></td>
+<td><p><a href="../Page/STREET_(EXID의_음반).md" title="wikilink">STREET</a></p></td>
 <td><ul>
 <li>포맷: <a href="https://ko.wikipedia.org/wiki/콤팩트_디스크" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a></li>
 <li>발매일: 2016년 6월 1일</li>
@@ -119,19 +119,19 @@
 
 ## 싱글
 
-| 제목                                                            | 연도   | [가온 디지털 차트](https://ko.wikipedia.org/wiki/가온_디지털_차트 "wikilink") | 디지털 판매량 | 앨범      |
-| ------------------------------------------------------------- | ---- | --------------------------------------------------------------- | ------- | ------- |
-| 주간                                                            | 월간   | 연간                                                              |         |         |
-| I Do                                                          | 2012 |                                                                 |         |         |
-| Whoz That Girl                                                |      |                                                                 |         |         |
-| I Feel Good                                                   |      |                                                                 |         |         |
-| 매일밤                                                           |      |                                                                 |         |         |
-| [위아래](../Page/위아래.md "wikilink")                              | 2014 | 1                                                               | 3       | 43      |
-| 아예 (Ah Yeah)                                                  | 2015 | 2                                                               | 3       | 29      |
-| [HOT PINK](https://ko.wikipedia.org/wiki/HOT_PINK "wikilink") | 4    | 16                                                              | ―       | 450,226 |
-| 내일해                                                           | 2018 |                                                                 |         |         |
-| 알러뷰                                                           |      |                                                                 |         |         |
-| "—" 표시는 차트에 진입하지 못함을 의미함.                                     |      |                                                                 |         |         |
+| 제목                                         | 연도   | [가온 디지털 차트](https://ko.wikipedia.org/wiki/가온_디지털_차트 "wikilink") | 디지털 판매량 | 앨범      |
+| ------------------------------------------ | ---- | --------------------------------------------------------------- | ------- | ------- |
+| 주간                                         | 월간   | 연간                                                              |         |         |
+| I Do                                       | 2012 |                                                                 |         |         |
+| Whoz That Girl                             |      |                                                                 |         |         |
+| I Feel Good                                |      |                                                                 |         |         |
+| 매일밤                                        |      |                                                                 |         |         |
+| [위아래](../Page/위아래.md "wikilink")           | 2014 | 1                                                               | 3       | 43      |
+| 아예 (Ah Yeah)                               | 2015 | 2                                                               | 3       | 29      |
+| [HOT PINK](../Page/HOT_PINK.md "wikilink") | 4    | 16                                                              | ―       | 450,226 |
+| 내일해                                        | 2018 |                                                                 |         |         |
+| 알러뷰                                        |      |                                                                 |         |         |
+| "—" 표시는 차트에 진입하지 못함을 의미함.                  |      |                                                                 |         |         |
 
 ## 사운드 트랙
 
@@ -144,21 +144,21 @@
 
 ## 뮤직 비디오
 
-| 곡제목                                                           | 연도   | 가수   |
-| ------------------------------------------------------------- | ---- | ---- |
-| Whoz That Girl                                                | 2012 | EXID |
-| I Feel Good                                                   | EXID |      |
-| 매일밤                                                           | EXID |      |
-| Good Bye                                                      | 2013 | 다소니  |
-| [위아래](../Page/위아래.md "wikilink")                              | 2014 | EXID |
-| [AH YEAH](../Page/AH_YEAH.md "wikilink")                      | 2015 | EXID |
-| [HOT PINK](https://ko.wikipedia.org/wiki/HOT_PINK "wikilink") | EXID |      |
-| Only One                                                      | 2016 | 솔지하니 |
-| L.I.E                                                         | EXID |      |
-| 낮보다는 밤                                                        | 2017 | EXID |
-| 덜덜덜                                                           | EXID |      |
-| 내일해                                                           | 2018 | EXID |
-| 알러뷰                                                           | EXID |      |
+| 곡제목                                        | 연도   | 가수   |
+| ------------------------------------------ | ---- | ---- |
+| Whoz That Girl                             | 2012 | EXID |
+| I Feel Good                                | EXID |      |
+| 매일밤                                        | EXID |      |
+| Good Bye                                   | 2013 | 다소니  |
+| [위아래](../Page/위아래.md "wikilink")           | 2014 | EXID |
+| [AH YEAH](../Page/AH_YEAH.md "wikilink")   | 2015 | EXID |
+| [HOT PINK](../Page/HOT_PINK.md "wikilink") | EXID |      |
+| Only One                                   | 2016 | 솔지하니 |
+| L.I.E                                      | EXID |      |
+| 낮보다는 밤                                     | 2017 | EXID |
+| 덜덜덜                                        | EXID |      |
+| 내일해                                        | 2018 | EXID |
+| 알러뷰                                        | EXID |      |
 
 ## 각주
 

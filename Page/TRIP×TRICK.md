@@ -38,6 +38,6 @@
 [분류:VALSHE의 노래](https://ko.wikipedia.org/wiki/분류:VALSHE의_노래 "wikilink") [분류:2014년 싱글](https://ko.wikipedia.org/wiki/분류:2014년_싱글 "wikilink")
 
 1.  [9월 24일 발매\! VALSHE의 새 싱글 〈TRIP×TRICK〉&미니음반 《storytellerII: the Age Limits》에서, 자켓 사진을 대공개\!(2쪽)](http://www.animate.tv/news/details.php?id=1409034121&p=2)  *[애니메이트](https://ko.wikipedia.org/wiki/애니메이트 "wikilink")TV*
-2.  [VALSHE, 빠르게도 싱글＆미니음반 발매](http://natalie.mu/music/news/122378) *[나탈리](https://ko.wikipedia.org/wiki/나탈리_\(웹사이트\) "wikilink")*
+2.  [VALSHE, 빠르게도 싱글＆미니음반 발매](http://natalie.mu/music/news/122378) *[나탈리](../Page/나탈리_\(웹사이트\).md "wikilink")*
 3.  [VALSHE, 9월 발매인 싱글＆미니음반의 비주얼 공개](http://www.musicman-net.com/artist/38775.html)  *Musicman-NET*
 4.

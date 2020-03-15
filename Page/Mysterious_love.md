@@ -11,7 +11,7 @@
 ## 수록곡
 
 1.  **mysterious love**
-      - [작사](https://ko.wikipedia.org/wiki/작사 "wikilink") · [작곡](https://ko.wikipedia.org/wiki/작곡 "wikilink"): 코마츠 미호, 편곡: [토쿠나가 아키히토](https://ko.wikipedia.org/wiki/토쿠나가_아키히토 "wikilink")
+      - [작사](https://ko.wikipedia.org/wiki/작사 "wikilink") · [작곡](https://ko.wikipedia.org/wiki/작곡 "wikilink"): 코마츠 미호, 편곡: [토쿠나가 아키히토](../Page/토쿠나가_아키히토.md "wikilink")
     <!-- end list -->
       -
         [닛폰 TV계](https://ko.wikipedia.org/wiki/닛폰_TV_방송망 "wikilink") 《[TV오자만보](https://ko.wikipedia.org/wiki/TV오자만보 "wikilink")》 엔딩 테마.

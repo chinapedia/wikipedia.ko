@@ -18,9 +18,9 @@
 
 ## 같이 보기
 
-  - [중입자 생성](https://ko.wikipedia.org/wiki/중입자_생성 "wikilink") (Baryogenesis)
+  - [중입자 생성](../Page/중입자_생성.md "wikilink") (Baryogenesis)
   - [경입자 생성](https://ko.wikipedia.org/wiki/경입자_생성 "wikilink") (Leptogenesis)
-  - [마요론](https://ko.wikipedia.org/wiki/마요론 "wikilink") (Majoron)
+  - [마요론](../Page/마요론.md "wikilink") (Majoron)
   - [양성자 붕괴](https://ko.wikipedia.org/wiki/양성자_붕괴 "wikilink")
   - [X와 Y보손](https://ko.wikipedia.org/wiki/X와_Y보손 "wikilink")
   - [X (전하)](https://ko.wikipedia.org/wiki/X_\(전하\) "wikilink")

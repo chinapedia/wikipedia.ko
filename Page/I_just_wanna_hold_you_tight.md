@@ -7,7 +7,7 @@
 
   - TV 애니메이션으로는 [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") 발표한 〈[바람이 불어오는 곳](https://ko.wikipedia.org/wiki/카제가소요구바쇼 "wikilink")〉 이래로 6년만이며, 애니메이션 작품으로는 [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") 발표한 〈[당신이 있으니까](https://ko.wikipedia.org/wiki/아나타가이루카라_\(코마츠_미호의_노래\) "wikilink")〉 이래로 5년만의 작품이다.
   - 원래 본인은 러브송으로 할 예정이 아니였으나, 제작중 의논에 의해서 러브송이 됐다고 한다.
-  - 동일 곡은 26번째 싱글 〈[사랑이 되어라...](https://ko.wikipedia.org/wiki/코이니나레... "wikilink")〉에서 〈I just wanna hold you tight (a strange town Mix)〉로 리믹스 수록되어있다.
+  - 동일 곡은 26번째 싱글 〈[사랑이 되어라...](../Page/코이니나레....md "wikilink")〉에서 〈I just wanna hold you tight (a strange town Mix)〉로 리믹스 수록되어있다.
 
 ## 수록곡
 

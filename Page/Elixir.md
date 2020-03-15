@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Elixir](https://ko.wikipedia.org/wiki/Elixir).
 
 
-**엘릭서**(Elixir)는 [얼랭](https://ko.wikipedia.org/wiki/얼랭 "wikilink")(Erlang) [가상 머신](https://ko.wikipedia.org/wiki/가상_머신 "wikilink")(BEAM) 위에서 동작하는 [함수형](https://ko.wikipedia.org/wiki/함수형_언어 "wikilink"), [동시성](https://ko.wikipedia.org/wiki/병행성 "wikilink") 프로그래밍 언어이다. 엘릭서는 얼랭이 보유하고 있는 분산 처리, 장애 내구성, 실시간, 무정지 애플리케이션 등의 특징을 공유한다. 그에 더해서 프로토콜\[1\]을 이용해 [다형성](https://ko.wikipedia.org/wiki/다형성 "wikilink")을 지원하고, Quote\[2\]과 Unquote\[3\] 그리고 [Macro](https://ko.wikipedia.org/wiki/매크로 "wikilink")\[4\]를 통한 [DSL](https://ko.wikipedia.org/wiki/도메인_특화_언어 "wikilink") 구현 등의 [메타 프로그래밍이](https://ko.wikipedia.org/wiki/메타_프로그래밍 "wikilink") 가능하다.
+**엘릭서**(Elixir)는 [얼랭](https://ko.wikipedia.org/wiki/얼랭 "wikilink")(Erlang) [가상 머신](https://ko.wikipedia.org/wiki/가상_머신 "wikilink")(BEAM) 위에서 동작하는 [함수형](https://ko.wikipedia.org/wiki/함수형_언어 "wikilink"), [동시성](../Page/병행성.md "wikilink") 프로그래밍 언어이다. 엘릭서는 얼랭이 보유하고 있는 분산 처리, 장애 내구성, 실시간, 무정지 애플리케이션 등의 특징을 공유한다. 그에 더해서 프로토콜\[1\]을 이용해 [다형성](https://ko.wikipedia.org/wiki/다형성 "wikilink")을 지원하고, Quote\[2\]과 Unquote\[3\] 그리고 [Macro](https://ko.wikipedia.org/wiki/매크로 "wikilink")\[4\]를 통한 [DSL](../Page/도메인_특화_언어.md "wikilink") 구현 등의 [메타 프로그래밍이](https://ko.wikipedia.org/wiki/메타_프로그래밍 "wikilink") 가능하다.
 
 ## 역사
 

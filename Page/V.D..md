@@ -28,16 +28,16 @@
 6.  **Human Dolls** (3:49)
       -
         작사·작곡: 미나토, 편곡: G'n-
-7.  **[Mr.Diorama](https://ko.wikipedia.org/wiki/BLESSING_CARD "wikilink")** (3:59)
+7.  **[Mr.Diorama](../Page/BLESSING_CARD.md "wikilink")** (3:59)
       -
         작사: VALSHE, 작곡: 미나토, 편곡: G'n-
 8.  **Blissful Jail** (4:21)
       -
         작사·작곡: VALSHE, 편곡: G'n-
-9.  **[BLESSING CARD](https://ko.wikipedia.org/wiki/BLESSING_CARD "wikilink")** (3:52)
+9.  **[BLESSING CARD](../Page/BLESSING_CARD.md "wikilink")** (3:52)
       -
         작사: VALSHE, 작곡: 미나토, 편곡: 사이토 신야
-10. **[Leopardess](https://ko.wikipedia.org/wiki/4_FELIDS "wikilink")** (3:52)
+10. **[Leopardess](../Page/4_FELIDS.md "wikilink")** (3:52)
       -
         작사·작곡: 미나토, 편곡: G'n-
 11. **EVALUATION** (4:31)
@@ -46,7 +46,7 @@
 12. **Prize of Color** (4:50)
       -
         작사: VALSHE, 작곡: 미나토, 편곡: G'n-
-13. **[Tigerish Eyez](https://ko.wikipedia.org/wiki/4_FELIDS "wikilink")** (4:43)
+13. **[Tigerish Eyez](../Page/4_FELIDS.md "wikilink")** (4:43)
       -
         작사: VALSHE: 작곡: 미나토, 편곡: 사이토 신야
 14. **[Fragment](https://ko.wikipedia.org/wiki/AFFLICT/Fragment "wikilink")**\[5\] (4:27)
@@ -64,7 +64,7 @@
 
 [분류:2014년 음반](https://ko.wikipedia.org/wiki/분류:2014년_음반 "wikilink") [분류:VALSHE의 음반](https://ko.wikipedia.org/wiki/분류:VALSHE의_음반 "wikilink")
 
-1.  [VALSHE, 2년 만의 정규 음반 《V.D.》 발매 결정](http://natalie.mu/music/news/106457) *[나탈리](https://ko.wikipedia.org/wiki/나탈리_\(웹사이트\) "wikilink")*
+1.  [VALSHE, 2년 만의 정규 음반 《V.D.》 발매 결정](http://natalie.mu/music/news/106457) *[나탈리](../Page/나탈리_\(웹사이트\).md "wikilink")*
 2.  [VALSHE, 명탐정 코난 OP 수록한 음반 《V.D.》 2월 발매](http://www.musicman-net.com/artist/31978.html)  *Musicman-NET*
 3.
 4.

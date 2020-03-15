@@ -17,7 +17,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/월드_와일드_테크놀로지_사커_파크" title="wikilink">월드 와일드 테크놀로지 사커 파크</a></p></td>
+<td><p><a href="../Page/월드_와일드_테크놀로지_사커_파크.md" title="wikilink">월드 와일드 테크놀로지 사커 파크</a></p></td>
 <td><p>2015년~현재</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/미주리주" title="wikilink">미주리주</a> <a href="https://ko.wikipedia.org/wiki/펜턴" title="wikilink">펜턴</a></p></td>
 <td><p>세인트루이스 FC</p></td>

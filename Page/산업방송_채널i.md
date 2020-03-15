@@ -3,7 +3,7 @@
 
 **산업방송**()은 대한민국의 유일한 산업 분야 전문 [방송채널사용사업자(PP)](https://ko.wikipedia.org/wiki/방송채널사용사업자\(PP\) "wikilink")이다.
 
-## [산업방송 채널i](https://ko.wikipedia.org/wiki/산업방송_채널i "wikilink") 개국
+## [산업방송 채널i](../Page/산업방송_채널i.md "wikilink") 개국
 
   - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [4월 30일에](https://ko.wikipedia.org/wiki/4월_30일 "wikilink") 개국하였다.
 

@@ -9,7 +9,7 @@
 
 타이틀곡인 〈Puppy〉는 영어로 [강아지로](https://ko.wikipedia.org/wiki/개 "wikilink") 그녀들 2명이 언제나 사이 좋게 장난하고 있는 것에 유래한다\[1\]. 2번째 곡인 〈PUPPY LOVE\!\!〉는 첫사랑한 소녀의 심정을 표현시키고 있다\[2\].
 
-2013년 10월 23일에 두 번째 음반 《[Bunny](https://ko.wikipedia.org/wiki/Bunny_\(유이카오리의_음반\) "wikilink")》와 동시에 영상 내용을 일신해서 “SPECIAL EDITION”으로 발매됐다.
+2013년 10월 23일에 두 번째 음반 《[Bunny](../Page/Bunny_\(유이카오리의_음반\).md "wikilink")》와 동시에 영상 내용을 일신해서 “SPECIAL EDITION”으로 발매됐다.
 
 ## 수록곡
 

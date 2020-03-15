@@ -17,7 +17,7 @@
 <!-- end list -->
 
 1.  **[mysterious love](https://ko.wikipedia.org/wiki/mysterious_love "wikilink")**
-      - 편곡: [토쿠나가 아키히토](https://ko.wikipedia.org/wiki/토쿠나가_아키히토 "wikilink")
+      - 편곡: [토쿠나가 아키히토](../Page/토쿠나가_아키히토.md "wikilink")
     <!-- end list -->
       -
         17번째 싱글
