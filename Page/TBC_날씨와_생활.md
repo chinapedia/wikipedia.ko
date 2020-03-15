@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TBC  ](https://ko.wikipedia.org/wiki/TBC__).
 
 
-《**TBC 날씨와 생활**》은 [TBC의](https://ko.wikipedia.org/wiki/TBC_\(대한민국의_방송사\) "wikilink") 대구·경북 지역의 날씨를 전해 드리는 [텔레비전 프로그램이다](https://ko.wikipedia.org/wiki/텔레비전_프로그램 "wikilink").
+《**TBC 날씨와 생활**》은 [TBC의](../Page/TBC_\(대한민국의_방송사\).md "wikilink") 대구·경북 지역의 날씨를 전해 드리는 [텔레비전 프로그램이다](https://ko.wikipedia.org/wiki/텔레비전_프로그램 "wikilink").
 
 ## 진행자
 

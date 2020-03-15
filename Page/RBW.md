@@ -5,20 +5,20 @@
 
 ## 소속 연예인
 
-| 소속 연예인                                                          | 직업     | 구성원                                                                                                                                   | 리더                                    | 데뷔    |
-| --------------------------------------------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- | ----- |
-| [마마무](../Page/마마무.md "wikilink")                                | 가수     | [솔라](../Page/솔라_\(가수\).md "wikilink"), [문별](../Page/문별.md "wikilink"), [휘인](../Page/휘인.md "wikilink"), [화사](../Page/화사.md "wikilink") | [솔라](../Page/솔라_\(가수\).md "wikilink") | 2014년 |
-| [베이식](https://ko.wikipedia.org/wiki/베이식_\(가수\) "wikilink")      | MC(래퍼) | \-                                                                                                                                    | \-                                    | 2007년 |
-| [빅트레이](https://ko.wikipedia.org/wiki/빅트레이 "wikilink")           | MC(래퍼) | \-                                                                                                                                    | \-                                    | 2010년 |
-| [양파](https://ko.wikipedia.org/wiki/양파_\(가수\) "wikilink")        | 가수     | \-                                                                                                                                    | \-                                    | 1996년 |
-| [오브로젝트](../Page/오브로젝트.md "wikilink")                            | 가수     | 오태석, 윤닭                                                                                                                               | \-                                    | 2014년 |
-| [브로맨스](https://ko.wikipedia.org/wiki/브로맨스_\(음악_그룹\) "wikilink") | 가수     | 박장현, 박현규, 이찬동, 이현석                                                                                                                    | 박장현                                   | 2016년 |
-| [코스믹 걸](https://ko.wikipedia.org/wiki/코스믹_걸 "wikilink")         | 가수     | \-                                                                                                                                    | \-                                    | 2016년 |
-| [원어스](https://ko.wikipedia.org/wiki/원어스 "wikilink")             | 가수     | RAVN, 서호, 이도, 건희, 환웅, 시온                                                                                                              | 없음                                    | 2019년 |
-| [원위](https://ko.wikipedia.org/wiki/원위 "wikilink")               | 가수     | 용훈 (리더, 메인보컬), 강현 (기타), 하린 (드럼), 동명 (보컬, 키보드), 키아                                                                                     | 용훈                                    | 2015년 |
-| [김유나](https://ko.wikipedia.org/wiki/김유나_\(싱어송라이터\) "wikilink")  | 가수     | \-                                                                                                                                    | \-                                    | 2018년 |
-| [호연주](https://ko.wikipedia.org/wiki/호연주 "wikilink")             | 가수     | \-                                                                                                                                    | \-                                    | 2007년 |
-| [오연](https://ko.wikipedia.org/wiki/오연_\(가수\) "wikilink")        | 가수     | \-                                                                                                                                    | \-                                    | 2019년 |
+| 소속 연예인                                                         | 직업     | 구성원                                                                                                                                   | 리더                                    | 데뷔    |
+| -------------------------------------------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- | ----- |
+| [마마무](../Page/마마무.md "wikilink")                               | 가수     | [솔라](../Page/솔라_\(가수\).md "wikilink"), [문별](../Page/문별.md "wikilink"), [휘인](../Page/휘인.md "wikilink"), [화사](../Page/화사.md "wikilink") | [솔라](../Page/솔라_\(가수\).md "wikilink") | 2014년 |
+| [베이식](https://ko.wikipedia.org/wiki/베이식_\(가수\) "wikilink")     | MC(래퍼) | \-                                                                                                                                    | \-                                    | 2007년 |
+| [빅트레이](https://ko.wikipedia.org/wiki/빅트레이 "wikilink")          | MC(래퍼) | \-                                                                                                                                    | \-                                    | 2010년 |
+| [양파](https://ko.wikipedia.org/wiki/양파_\(가수\) "wikilink")       | 가수     | \-                                                                                                                                    | \-                                    | 1996년 |
+| [오브로젝트](../Page/오브로젝트.md "wikilink")                           | 가수     | 오태석, 윤닭                                                                                                                               | \-                                    | 2014년 |
+| [브로맨스](../Page/브로맨스_\(음악_그룹\).md "wikilink")                   | 가수     | 박장현, 박현규, 이찬동, 이현석                                                                                                                    | 박장현                                   | 2016년 |
+| [코스믹 걸](https://ko.wikipedia.org/wiki/코스믹_걸 "wikilink")        | 가수     | \-                                                                                                                                    | \-                                    | 2016년 |
+| [원어스](https://ko.wikipedia.org/wiki/원어스 "wikilink")            | 가수     | RAVN, 서호, 이도, 건희, 환웅, 시온                                                                                                              | 없음                                    | 2019년 |
+| [원위](https://ko.wikipedia.org/wiki/원위 "wikilink")              | 가수     | 용훈 (리더, 메인보컬), 강현 (기타), 하린 (드럼), 동명 (보컬, 키보드), 키아                                                                                     | 용훈                                    | 2015년 |
+| [김유나](https://ko.wikipedia.org/wiki/김유나_\(싱어송라이터\) "wikilink") | 가수     | \-                                                                                                                                    | \-                                    | 2018년 |
+| [호연주](https://ko.wikipedia.org/wiki/호연주 "wikilink")            | 가수     | \-                                                                                                                                    | \-                                    | 2007년 |
+| [오연](https://ko.wikipedia.org/wiki/오연_\(가수\) "wikilink")       | 가수     | \-                                                                                                                                    | \-                                    | 2019년 |
 
 ## 소속 연습생
 
@@ -38,7 +38,7 @@
 | 2017 | \[중국\] SHN48                                                        | 그룹 | 음악 프로듀싱                   |
 | 2017 | [아이즈](https://ko.wikipedia.org/wiki/아이즈_\(음악_그룹\) "wikilink")       | 그룹 | 음악 프로듀싱                   |
 | 2017 | P.O.P                                                               | 그룹 | 아티스트 트레이닝/앨범 제작 및 홍보&마케팅  |
-| 2016 | [베리굿](https://ko.wikipedia.org/wiki/베리굿 "wikilink")                 | 그룹 | 음악 프로듀싱                   |
+| 2016 | [베리굿](../Page/베리굿.md "wikilink")                                    | 그룹 | 음악 프로듀싱                   |
 | 2016 | 크로스진                                                                | 그룹 | 음악 프로듀싱, 홍보&마케팅           |
 | 2016 | \[중국\] XL                                                           | 그룹 | 아티스트 트레이닝                 |
 | 2016 | \[중국\] L.I.K.E                                                      | 그룹 | 아티스트 트레이닝/홍보&마케팅          |
@@ -141,7 +141,7 @@
 | 2015.10.23 | [솔라](../Page/솔라_\(가수\).md "wikilink")([마마무](../Page/마마무.md "wikilink"))                                                                                                                                              | 솔라감성 Part.1                            | 싱글   |
 | 2015.10.22 | [에스나](../Page/에스나_\(음악가\).md "wikilink")                                                                                                                                                                             | The Singer                             | 싱글   |
 | 2015.10.07 | [오브로젝트](../Page/오브로젝트.md "wikilink")                                                                                                                                                                                 | 가볍게 한잔해 (Feat. 한해 Of 팬텀)               | 싱글   |
-| 2015.10.05 | [베이식](https://ko.wikipedia.org/wiki/베이식 "wikilink"), [릴보이](https://ko.wikipedia.org/wiki/릴보이 "wikilink")                                                                                                             | 베이식 X 릴보이                              | 싱글   |
+| 2015.10.05 | [베이식](https://ko.wikipedia.org/wiki/베이식 "wikilink"), [릴보이](../Page/릴보이.md "wikilink")                                                                                                                                | 베이식 X 릴보이                              | 싱글   |
 | 2015.09.16 | [마마무](../Page/마마무.md "wikilink")                                                                                                                                                                                     | 이니시아 네스트 OST                           | OST  |
 | 2015.08.12 | [앙리](https://ko.wikipedia.org/wiki/앙리 "wikilink")                                                                                                                                                                    | She                                    | 싱글   |
 | 2015.06.19 | [마마무](../Page/마마무.md "wikilink")                                                                                                                                                                                     | Pink Funky                             | 미니   |

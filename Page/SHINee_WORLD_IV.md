@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SHINee WORLD IV](https://ko.wikipedia.org/wiki/SHINee_WORLD_IV).
 
 
-《**SHINee CONCERT - SHINee WORLD IV**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [보이 그룹](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink") [샤이니](https://ko.wikipedia.org/wiki/샤이니 "wikilink")의 4번째 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").\[1\] 본 공연을 통해 [샤이니](https://ko.wikipedia.org/wiki/샤이니 "wikilink")의 정규 4집 〈[Odd](https://ko.wikipedia.org/wiki/Odd_\(샤이니의_음반\) "wikilink")〉의 수록곡 5곡을 컴백에 앞서 공개한 바 있다.
+《**SHINee CONCERT - SHINee WORLD IV**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [보이 그룹](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink") [샤이니](https://ko.wikipedia.org/wiki/샤이니 "wikilink")의 4번째 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").\[1\] 본 공연을 통해 [샤이니](https://ko.wikipedia.org/wiki/샤이니 "wikilink")의 정규 4집 〈[Odd](../Page/Odd_\(샤이니의_음반\).md "wikilink")〉의 수록곡 5곡을 컴백에 앞서 공개한 바 있다.
 
 ## 개요
 

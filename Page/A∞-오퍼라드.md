@@ -9,7 +9,7 @@
 
 ## A<sub>∞</sub>-대수
 
-A<sub>∞</sub>-오퍼라드를 [벡터 공간의](https://ko.wikipedia.org/wiki/벡터_공간 "wikilink") [모노이드 범주](https://ko.wikipedia.org/wiki/모노이드_범주 "wikilink") 위에 표현하면, **A<sub>∞</sub>-대수**를 얻는다. A<sub>∞</sub>-대수 \(A\)는 다음과 같이 정수 등급을 갖는 벡터 공간이며,
+A<sub>∞</sub>-오퍼라드를 [벡터 공간의](https://ko.wikipedia.org/wiki/벡터_공간 "wikilink") [모노이드 범주](../Page/모노이드_범주.md "wikilink") 위에 표현하면, **A<sub>∞</sub>-대수**를 얻는다. A<sub>∞</sub>-대수 \(A\)는 다음과 같이 정수 등급을 갖는 벡터 공간이며,
 
 \[A=\bigoplus_{p\in\mathbb Z}A^p\] 다음과 같은 무한한 수의 연산들을 갖는다. 모든 \(n\ge1\)에 대하여, \(n\)항 \(n\)겹선형 연산
 

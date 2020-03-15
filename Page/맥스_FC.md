@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
 
 
-**맥스 FC** (**MAX FC**; MAX Fighting Championship)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 최대 입식 격투기 단체이다. [IB 스포츠](https://ko.wikipedia.org/wiki/IB_스포츠 "wikilink"), [네이버 TV](https://ko.wikipedia.org/wiki/네이버_TV "wikilink"), [아프리카TV](https://ko.wikipedia.org/wiki/아프리카TV "wikilink")를 통해 생중계되고 있으며, [JTBC3 폭스 스포츠에서](https://ko.wikipedia.org/wiki/JTBC3_폭스_스포츠 "wikilink") 지난 대회를 녹화방송한다. 다양한 기획으로 대중에게 어필하고 있다.\[1\]\[2\]\[3\]대한민국 격투기 단체 처음으로 [랭킹시스템](https://sports.news.naver.com/general/news/read.nhn?oid=468&aid=0000426047) 도입하였다.
+**맥스 FC** (**MAX FC**; MAX Fighting Championship)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 최대 입식 격투기 단체이다. [IB 스포츠](https://ko.wikipedia.org/wiki/IB_스포츠 "wikilink"), [네이버 TV](https://ko.wikipedia.org/wiki/네이버_TV "wikilink"), [아프리카TV](https://ko.wikipedia.org/wiki/아프리카TV "wikilink")를 통해 생중계되고 있으며, [JTBC3 폭스 스포츠에서](../Page/JTBC3_폭스_스포츠.md "wikilink") 지난 대회를 녹화방송한다. 다양한 기획으로 대중에게 어필하고 있다.\[1\]\[2\]\[3\]대한민국 격투기 단체 처음으로 [랭킹시스템](https://sports.news.naver.com/general/news/read.nhn?oid=468&aid=0000426047) 도입하였다.
 
 ## 대회 개최 이력
 
@@ -20,7 +20,7 @@
 | MAX FC First League 10              | 2019년 5월 25일  | 마로니에공원 특설링                                                                                                         | [서울특별시](https://ko.wikipedia.org/wiki/서울특별시 "wikilink")                                                   |            |
 | MAX FC First League 09              | 2019년 4월 20일  | 농경테마파크 특설링                                                                                                         | [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink") 의령                                                  |            |
 | MAX FC 18                           | 2019년 4월 13일  | 홍주문화체육센터                                                                                                           | [충청남도](https://ko.wikipedia.org/wiki/충청남도 "wikilink") [홍성군](https://ko.wikipedia.org/wiki/홍성군 "wikilink") | 1650명      |
-| MAX FC 17:                          | 2019년 2월 15일  | [신도림테크노마트](https://ko.wikipedia.org/wiki/신도림_테크노마트 "wikilink") 그랜드볼룸                                               |                                                                                                           | 560명       |
+| MAX FC 17:                          | 2019년 2월 15일  | [신도림테크노마트](../Page/신도림_테크노마트.md "wikilink") 그랜드볼룸                                                                  |                                                                                                           | 560명       |
 | MAX FC 16:                          | 2018년 12월 8일  | [안동체육관](https://ko.wikipedia.org/wiki/안동체육관 "wikilink")                                                            | [경상북도](https://ko.wikipedia.org/wiki/경상북도 "wikilink")                                                     | 2,121명     |
 | MAX FC 15:                          | 2018년 11월 2일  | [신도림테크노마트](https://ko.wikipedia.org/wiki/신도림테크노마트 "wikilink") 그랜드볼룸                                                | [서울특별시](https://ko.wikipedia.org/wiki/서울특별시 "wikilink")                                                   | 641명       |
 | MAX FC 14: The People's Champions   | 2018년 7월 14일  | [서울 KBS 아레나](https://ko.wikipedia.org/wiki/KBS_아레나 "wikilink")                                                     | [서울특별시](https://ko.wikipedia.org/wiki/서울특별시 "wikilink")                                                   | 1826명      |
@@ -118,8 +118,8 @@
 ## 역대 라운드걸 (맥스엔젤)
 
   - [김보라](https://ko.wikipedia.org/wiki/김보라 "wikilink")
-  - [송주아](https://ko.wikipedia.org/wiki/송주아 "wikilink")
-  - [심채원](https://ko.wikipedia.org/wiki/심채원 "wikilink")
+  - [송주아](../Page/송주아.md "wikilink")
+  - [심채원](../Page/심채원.md "wikilink")
   - [양혜원](https://ko.wikipedia.org/wiki/양혜원 "wikilink")
   - [윤주하](../Page/윤주하.md "wikilink")
   - [최별하](https://ko.wikipedia.org/wiki/최별하 "wikilink")
@@ -129,7 +129,7 @@
 ## 같이 보기
 
   - [K-1](https://ko.wikipedia.org/wiki/K-1 "wikilink")
-  - [GLORY](https://ko.wikipedia.org/wiki/글로리_\(킥복싱\) "wikilink")
+  - [GLORY](../Page/글로리_\(킥복싱\).md "wikilink")
   - [엔젤스 파이팅](https://ko.wikipedia.org/wiki/엔젤스_파이팅 "wikilink")
 
 ## 참조

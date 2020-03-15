@@ -118,21 +118,21 @@
 </tr>
 <tr class="odd">
 <td><p>미국</p></td>
-<td><p>《<a href="https://ko.wikipedia.org/wiki/더_셰프" title="wikilink">더 셰프</a>》</p></td>
+<td><p>《<a href="../Page/더_셰프.md" title="wikilink">더 셰프</a>》</p></td>
 <td><p>2015.11.5</p></td>
 <td><p>실사</p></td>
 <td><p>배급</p></td>
 </tr>
 <tr class="even">
 <td><p>미국</p></td>
-<td><p>《<a href="https://ko.wikipedia.org/wiki/레전드_(2015년_영화)" title="wikilink">레전드</a>》</p></td>
+<td><p>《<a href="../Page/레전드_(2015년_영화).md" title="wikilink">레전드</a>》</p></td>
 <td><p>2015.12.10</p></td>
 <td><p>실사</p></td>
 <td><p>배급</p></td>
 </tr>
 <tr class="odd">
 <td><p>일본</p></td>
-<td><p>《<a href="https://ko.wikipedia.org/wiki/서툴지만,_사랑" title="wikilink">서툴지만, 사랑</a>》</p></td>
+<td><p>《<a href="../Page/서툴지만,_사랑.md" title="wikilink">서툴지만, 사랑</a>》</p></td>
 <td><p>실사</p></td>
 <td><p>배급</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/롯데시네마" title="wikilink">롯데시네마</a></p></td>
@@ -156,19 +156,19 @@
 
 ### 2016년
 
-| 국가 | 제목                                                                                                         | 개봉일        | 종류                       | 담당     |
-| -- | ---------------------------------------------------------------------------------------------------------- | ---------- | ------------------------ | ------ |
-| 미국 | 《[나의 그리스식 웨딩 2](https://ko.wikipedia.org/wiki/나의_그리스식_웨딩_2 "wikilink")》                                    | 2016.3.30  | 실사                       | 배급     |
-| 한국 | 《[다이노X 탐험대](https://ko.wikipedia.org/wiki/다이노X_탐험대 "wikilink")》                                            | 2016.5.4   | 애니메이션                    | 제공, 배급 |
-| 미국 | 《[싱 스트리트](https://ko.wikipedia.org/wiki/싱_스트리트 "wikilink")》                                                | 2016.5.19  | 실사                       | 수입, 배급 |
-| 미국 | 《[오만과 편견 그리고 좀비](https://ko.wikipedia.org/wiki/오만과_편견_그리고_좀비_\(영화\) "wikilink")》                           | 2016.5.26  | 실사                       | 배급     |
-| 한국 | 《[트릭](https://ko.wikipedia.org/wiki/트릭_\(2016년_영화\) "wikilink")》                                           | 2016.7.13  | 실사                       | 배급     |
-| 미국 | 《[빅](https://ko.wikipedia.org/wiki/빅_\(2016년_영화\) "wikilink")》                                             | 2016.7.27  | 애니메이션                    | 배급     |
-| 미국 | 《[플로렌스](https://ko.wikipedia.org/wiki/플로렌스 "wikilink")》                                                    | 2016.8.24  | 실사                       | 배급     |
-| 미국 | 《[드림 쏭](https://ko.wikipedia.org/wiki/드림_쏭 "wikilink")》                                                    | 2016.9.14  | 실사                       | 배급     |
-| 미국 | 《[핸즈 오브 스톤](https://ko.wikipedia.org/wiki/핸즈_오브_스톤 "wikilink")》                                            | 2016.12.8  | 실사                       | 배급     |
-| 일본 | 《[포켓몬 더 무비 XY\&Z: 볼케니온: 기계왕국의 비밀](https://ko.wikipedia.org/wiki/포켓몬_더_무비_XY&Z:_볼케니온:_기계왕국의_비밀 "wikilink")》 | 2016.12.21 | 애니메이션 <small>극장판</small> | 배급     |
-|    |                                                                                                            |            |                          |        |
+| 국가 | 제목                                                                                      | 개봉일        | 종류                       | 담당     |
+| -- | --------------------------------------------------------------------------------------- | ---------- | ------------------------ | ------ |
+| 미국 | 《[나의 그리스식 웨딩 2](../Page/나의_그리스식_웨딩_2.md "wikilink")》                                    | 2016.3.30  | 실사                       | 배급     |
+| 한국 | 《[다이노X 탐험대](https://ko.wikipedia.org/wiki/다이노X_탐험대 "wikilink")》                         | 2016.5.4   | 애니메이션                    | 제공, 배급 |
+| 미국 | 《[싱 스트리트](../Page/싱_스트리트.md "wikilink")》                                                | 2016.5.19  | 실사                       | 수입, 배급 |
+| 미국 | 《[오만과 편견 그리고 좀비](../Page/오만과_편견_그리고_좀비_\(영화\).md "wikilink")》                           | 2016.5.26  | 실사                       | 배급     |
+| 한국 | 《[트릭](../Page/트릭_\(2016년_영화\).md "wikilink")》                                           | 2016.7.13  | 실사                       | 배급     |
+| 미국 | 《[빅](../Page/빅_\(2016년_영화\).md "wikilink")》                                             | 2016.7.27  | 애니메이션                    | 배급     |
+| 미국 | 《[플로렌스](https://ko.wikipedia.org/wiki/플로렌스 "wikilink")》                                 | 2016.8.24  | 실사                       | 배급     |
+| 미국 | 《[드림 쏭](https://ko.wikipedia.org/wiki/드림_쏭 "wikilink")》                                 | 2016.9.14  | 실사                       | 배급     |
+| 미국 | 《[핸즈 오브 스톤](https://ko.wikipedia.org/wiki/핸즈_오브_스톤 "wikilink")》                         | 2016.12.8  | 실사                       | 배급     |
+| 일본 | 《[포켓몬 더 무비 XY\&Z: 볼케니온: 기계왕국의 비밀](../Page/포켓몬_더_무비_XY&Z:_볼케니온:_기계왕국의_비밀.md "wikilink")》 | 2016.12.21 | 애니메이션 <small>극장판</small> | 배급     |
+|    |                                                                                         |            |                          |        |
 
 ### 2017년
 
@@ -210,7 +210,7 @@
 </tr>
 <tr class="even">
 <td><p>미국</p></td>
-<td><p>《<a href="https://ko.wikipedia.org/wiki/패트리어트_데이" title="wikilink">패트리어트 데이</a>》</p></td>
+<td><p>《<a href="../Page/패트리어트_데이.md" title="wikilink">패트리어트 데이</a>》</p></td>
 <td><p>2017.4.6</p></td>
 <td><p>실사</p></td>
 <td><p>배급</p></td>

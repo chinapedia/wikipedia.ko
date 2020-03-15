@@ -12,6 +12,6 @@
 
 ## 같이 보기
 
-  - [극장판 명탐정 코난 주제가집 \~“20”All Songs\~](https://ko.wikipedia.org/wiki/극장판_명탐정_코난_주제가집_~“20”All_Songs~ "wikilink") -《[명탐정 코난 극장판](https://ko.wikipedia.org/wiki/명탐정_코난_\(극장판\) "wikilink")》의 제1기 〈[시한장치의 마천루](https://ko.wikipedia.org/wiki/명탐정_코난:_시한장치의_마천루 "wikilink")〉부터 제20기 〈[순흑의 악몽](https://ko.wikipedia.org/wiki/명탐정_코난:_순흑의_악몽 "wikilink")〉까지의 주제가집.
+  - [극장판 명탐정 코난 주제가집 \~“20”All Songs\~](https://ko.wikipedia.org/wiki/극장판_명탐정_코난_주제가집_~“20”All_Songs~ "wikilink") -《[명탐정 코난 극장판](https://ko.wikipedia.org/wiki/명탐정_코난_\(극장판\) "wikilink")》의 제1기 〈[시한장치의 마천루](https://ko.wikipedia.org/wiki/명탐정_코난:_시한장치의_마천루 "wikilink")〉부터 제20기 〈[순흑의 악몽](../Page/명탐정_코난:_순흑의_악몽.md "wikilink")〉까지의 주제가집.
 
 [\*3](https://ko.wikipedia.org/wiki/분류:명탐정_코난의_음반 "wikilink") [분류:2006년 음반](https://ko.wikipedia.org/wiki/분류:2006년_음반 "wikilink")

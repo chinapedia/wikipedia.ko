@@ -26,7 +26,7 @@
 </tr>
 <tr class="even">
 <td><p>이전 곡:<br />
-<a href="https://ko.wikipedia.org/wiki/VALSHE" title="wikilink">VALSHE</a><br />
+<a href="../Page/VALSHE.md" title="wikilink">VALSHE</a><br />
 〈<a href="../Page/Butterfly_Core.md" title="wikilink">Butterfly Core</a>〉</p></td>
 </tr>
 </tbody>

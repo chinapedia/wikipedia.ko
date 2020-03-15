@@ -11,7 +11,7 @@ LG G4는 [5.1 롤리팝을](https://ko.wikipedia.org/wiki/안드로이드_버전
 
 ### [안드로이드](https://ko.wikipedia.org/wiki/안드로이드 "wikilink") [6.0 마시멜로](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink")
 
-[2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [11월 4일](https://ko.wikipedia.org/wiki/11월_4일 "wikilink") [LG G4의](https://ko.wikipedia.org/wiki/LG_G4 "wikilink") [6.0 마시멜로](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업데이트가 시작되었다. 성능이 개선되고 노크 코드 6자리 이상 설정 등 UI가 개선되었다. PC에 LG bridge라는 소프트웨어를 설치하여 업데이트를 진행할 수 있다.
+[2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [11월 4일](https://ko.wikipedia.org/wiki/11월_4일 "wikilink") [LG G4의](../Page/LG_G4.md "wikilink") [6.0 마시멜로](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업데이트가 시작되었다. 성능이 개선되고 노크 코드 6자리 이상 설정 등 UI가 개선되었다. PC에 LG bridge라는 소프트웨어를 설치하여 업데이트를 진행할 수 있다.
 
 ## 특수 기능
 
@@ -73,16 +73,16 @@ LG G4는 [5.1 롤리팝을](https://ko.wikipedia.org/wiki/안드로이드_버전
 
   - [LG G3](https://ko.wikipedia.org/wiki/LG_G3 "wikilink")
   - [LG G3 Cat.6](../Page/LG_G3_카테고리_6.md "wikilink")
-  - [LG G 플렉스 2](https://ko.wikipedia.org/wiki/LG_G_플렉스_2 "wikilink")
-  - [LG V10](https://ko.wikipedia.org/wiki/LG_V10 "wikilink")
-  - [LG G5](https://ko.wikipedia.org/wiki/LG_G5 "wikilink")
-  - [LG G4 비트](https://ko.wikipedia.org/wiki/LG_G4_비트 "wikilink")
+  - [LG G 플렉스 2](../Page/LG_G_플렉스_2.md "wikilink")
+  - [LG V10](../Page/LG_V10.md "wikilink")
+  - [LG G5](../Page/LG_G5.md "wikilink")
+  - [LG G4 비트](../Page/LG_G4_비트.md "wikilink")
 
 ## 경쟁 기종
 
   - [삼성 갤럭시 S6](../Page/삼성_갤럭시_S6.md "wikilink")
   - [삼성 갤럭시 S6 엣지](../Page/삼성_갤럭시_S6_엣지.md "wikilink")
-  - [넥서스 5X](https://ko.wikipedia.org/wiki/넥서스_5X "wikilink")
+  - [넥서스 5X](../Page/넥서스_5X.md "wikilink")
 
 ## 각주
 

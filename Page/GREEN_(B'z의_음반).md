@@ -67,7 +67,7 @@ B'z의 정규 음반에서는 처음으로 [디지팩](https://ko.wikipedia.org/
 
   - [마츠모토 타카히로](https://ko.wikipedia.org/wiki/마츠모토_타카히로 "wikilink"): [기타](https://ko.wikipedia.org/wiki/기타 "wikilink"), 전체 [작곡](https://ko.wikipedia.org/wiki/작곡 "wikilink") · [편곡](https://ko.wikipedia.org/wiki/편곡 "wikilink")
   - [이나바 코시](https://ko.wikipedia.org/wiki/이나바_코시 "wikilink"): [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), 전체 [작사](https://ko.wikipedia.org/wiki/작사 "wikilink") · 편곡
-  - [토쿠나가 아키히토](https://ko.wikipedia.org/wiki/토쿠나가_아키히토 "wikilink"): [베이스](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink")(\#2\~5, 7, 10\~12), 편곡(\#1\~5, 7, 9\~12）
+  - [토쿠나가 아키히토](../Page/토쿠나가_아키히토.md "wikilink"): [베이스](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink")(\#2\~5, 7, 10\~12), 편곡(\#1\~5, 7, 9\~12）
   - 이케다 다이스케: (\#1, 6, 8, 9)
   - [야마키 히데오](https://ko.wikipedia.org/wiki/야마키_히데오 "wikilink"): [드럼](https://ko.wikipedia.org/wiki/드럼_세트 "wikilink")(\#1\~3, 6, 9, 11, 12)
   - [요시다 켄](https://ko.wikipedia.org/wiki/요시다_켄 "wikilink"): 베이스 (\#1)

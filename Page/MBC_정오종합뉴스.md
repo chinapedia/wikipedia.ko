@@ -78,7 +78,7 @@
 
 ## 동시 시간대 뉴스 프로그램
 
-  - [KBS 제1라디오 정오종합뉴스](https://ko.wikipedia.org/wiki/KBS_제1라디오_정오종합뉴스 "wikilink") ([KBS 제1라디오](https://ko.wikipedia.org/wiki/KBS_제1라디오 "wikilink"))
+  - [KBS 제1라디오 정오종합뉴스](../Page/KBS_제1라디오_정오종합뉴스.md "wikilink") ([KBS 제1라디오](https://ko.wikipedia.org/wiki/KBS_제1라디오 "wikilink"))
   - [cpbc 정오종합뉴스](https://ko.wikipedia.org/wiki/cpbc_정오종합뉴스 "wikilink") (평일) ([cpbc 가톨릭평화방송](https://ko.wikipedia.org/wiki/가톨릭평화방송 "wikilink"))
   - [BBS 정오종합뉴스](https://ko.wikipedia.org/wiki/BBS_정오종합뉴스 "wikilink") (평일) ([BBS 불교방송](https://ko.wikipedia.org/wiki/불교방송 "wikilink"))
   - 경인방송 정오뉴스 (평일) ([경인방송](https://ko.wikipedia.org/wiki/경인방송 "wikilink"))

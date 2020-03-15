@@ -11,7 +11,7 @@
 ## 이전 소속 연예인
 
   - [휘성](https://ko.wikipedia.org/wiki/휘성 "wikilink")
-  - [아이오아이](https://ko.wikipedia.org/wiki/아이오아이 "wikilink")
+  - [아이오아이](../Page/아이오아이.md "wikilink")
   - 제이켠
   - 제이요
   - [주희](https://ko.wikipedia.org/wiki/주희_\(가수\) "wikilink")

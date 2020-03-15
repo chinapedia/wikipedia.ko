@@ -13,15 +13,15 @@
       - 레이블:  [제인 레코드](https://ko.wikipedia.org/wiki/제인_레코드 "wikilink")/ 씨엔엘뮤직
       - 이 시리즈에서는 유일하게 밀리언을 달성하고 있다. 애니메이션 주제가집의 음반으로는 역대 1위의 판매량.
       - 한국 라이선스 음반에는 보너스 트랙으로〈Love is thrill, shock, suspense (Korean Ver.)〉가 디지털 음원으로 수록되어있다.
-  - [THE BEST OF DETECTIVE CONAN 2: 명탐정 코난 테마곡집2](https://ko.wikipedia.org/wiki/THE_BEST_OF_DETECTIVE_CONAN_2_~명탐정_코난_테마곡집2~ "wikilink")([2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [12월 10일](https://ko.wikipedia.org/wiki/12월_10일 "wikilink"))
+  - [THE BEST OF DETECTIVE CONAN 2: 명탐정 코난 테마곡집2](../Page/THE_BEST_OF_DETECTIVE_CONAN_2_~명탐정_코난_테마곡집2~.md "wikilink")([2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [12월 10일](https://ko.wikipedia.org/wiki/12월_10일 "wikilink"))
       - 발매원:  [비그램 레코드](https://ko.wikipedia.org/wiki/비그램_레코드 "wikilink")(제인이 비그램에 흡수됐기 때문)
-  - [THE BEST OF DETECTIVE CONAN \~The Movie Themes Collection\~](https://ko.wikipedia.org/wiki/THE_BEST_OF_DETECTIVE_CONAN_~The_Movie_Themes_Collection~ "wikilink")([2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [12월 13일](https://ko.wikipedia.org/wiki/12월_13일 "wikilink"))
+  - [THE BEST OF DETECTIVE CONAN \~The Movie Themes Collection\~](../Page/THE_BEST_OF_DETECTIVE_CONAN_~The_Movie_Themes_Collection~.md "wikilink")([2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [12월 13일](https://ko.wikipedia.org/wiki/12월_13일 "wikilink"))
       - 레이블:  비그램 레코드
-  - [THE BEST OF DETECTIVE CONAN 3 \~명탐정 코난 테마곡집3\~](https://ko.wikipedia.org/wiki/THE_BEST_OF_DETECTIVE_CONAN_3_~명탐정_코난_테마곡집3~ "wikilink")([2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [8월 6일](https://ko.wikipedia.org/wiki/8월_6일 "wikilink"))
+  - [THE BEST OF DETECTIVE CONAN 3 \~명탐정 코난 테마곡집3\~](../Page/THE_BEST_OF_DETECTIVE_CONAN_3_~명탐정_코난_테마곡집3~.md "wikilink")([2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [8월 6일](https://ko.wikipedia.org/wiki/8월_6일 "wikilink"))
       - 레이블:  비그램 레코드
-  - [THE BEST OF DETECTIVE CONAN 4 \~명탐정 코난 테마곡집4\~](https://ko.wikipedia.org/wiki/THE_BEST_OF_DETECTIVE_CONAN_4_~명탐정_코난_테마곡집4~ "wikilink")([2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [12월 14일](https://ko.wikipedia.org/wiki/12월_14일 "wikilink"))
+  - [THE BEST OF DETECTIVE CONAN 4 \~명탐정 코난 테마곡집4\~](../Page/THE_BEST_OF_DETECTIVE_CONAN_4_~명탐정_코난_테마곡집4~.md "wikilink")([2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [12월 14일](https://ko.wikipedia.org/wiki/12월_14일 "wikilink"))
       - 레이블:  비그램 레코드
-  - [THE BEST OF DETECTIVE CONAN 5 \~명탐정 코난 테마곡집5\~](https://ko.wikipedia.org/wiki/THE_BEST_OF_DETECTIVE_CONAN_5_~명탐정_코난_테마곡집5~ "wikilink")([2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [10월 22일](https://ko.wikipedia.org/wiki/10월_22일 "wikilink"))
+  - [THE BEST OF DETECTIVE CONAN 5 \~명탐정 코난 테마곡집5\~](../Page/THE_BEST_OF_DETECTIVE_CONAN_5_~명탐정_코난_테마곡집5~.md "wikilink")([2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [10월 22일](https://ko.wikipedia.org/wiki/10월_22일 "wikilink"))
       - 레이블:  비그램 레코드
   - [극장판 명탐정 코난 주제가집 \~“20”All Songs\~](https://ko.wikipedia.org/wiki/극장판_명탐정_코난_주제가집_~“20”All_Songs~ "wikilink")([2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [3월 22일](https://ko.wikipedia.org/wiki/3월_22일 "wikilink"))
       - 레이블:  [빙](https://ko.wikipedia.org/wiki/빙_\(기업\) "wikilink")

@@ -136,7 +136,7 @@
 
 \- Opening VCR -
 
-  - [다칠 준비가 돼 있어](https://ko.wikipedia.org/wiki/다칠_준비가_돼_있어_\(노래\) "wikilink")
+  - [다칠 준비가 돼 있어](../Page/다칠_준비가_돼_있어_\(노래\).md "wikilink")
   - 어둠 속을 밝혀줘
   - [Hyde](https://ko.wikipedia.org/wiki/Hyde_\(노래\) "wikilink")
 

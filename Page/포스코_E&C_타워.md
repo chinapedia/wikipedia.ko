@@ -10,7 +10,7 @@
 ## 대중문화
 
   - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink")에 방영된 [SBS](https://ko.wikipedia.org/wiki/SBS_\(대한민국의_방송사\) "wikilink") 드라마 [황금의 제국에서](../Page/황금의_제국.md "wikilink") 성진그룹 본사로 나온다.
-  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink")에 방영된 [TvN](https://ko.wikipedia.org/wiki/TvN "wikilink") 드라마 [굿 와이프에](https://ko.wikipedia.org/wiki/굿_와이프_\(2016년_드라마\) "wikilink") 나온다.
+  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink")에 방영된 [TvN](https://ko.wikipedia.org/wiki/TvN "wikilink") 드라마 [굿 와이프에](../Page/굿_와이프_\(2016년_드라마\).md "wikilink") 나온다.
   - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink")에 방영된 [JTBC](https://ko.wikipedia.org/wiki/JTBC "wikilink") 드라마 [미스티에](https://ko.wikipedia.org/wiki/미스티_\(드라마\) "wikilink") JBC 사옥이 나온다.
   - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink")에 방영된 [JTBC](https://ko.wikipedia.org/wiki/JTBC "wikilink") 드라마 [순정에 반하다에](../Page/순정에_반하다.md "wikilink") 헤르미아 그룹 본사로 나온다.
 

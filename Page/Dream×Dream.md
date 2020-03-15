@@ -11,7 +11,7 @@
 ## 수록곡
 
 1.  **Dream×Dream**
-      - 작사: 아이우치 리나, 작곡: [토쿠나가 아키히토](https://ko.wikipedia.org/wiki/토쿠나가_아키히토 "wikilink"), 편곡: corin.
+      - 작사: 아이우치 리나, 작곡: [토쿠나가 아키히토](../Page/토쿠나가_아키히토.md "wikilink"), 편곡: corin.
 2.  **Sweet Peach Tree**
       - 작사: 아이우치 리나, 작곡: [테루카도](https://ko.wikipedia.org/wiki/테루카도 "wikilink"), 편곡: 미와 미도리
 3.  **Melody Flag**

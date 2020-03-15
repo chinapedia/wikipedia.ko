@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TRY AGAIN \(  \)](https://ko.wikipedia.org/wiki/TRY_AGAIN_\(__\)).
 
 
-{{싱글 정보 | 곡명 = TRY AGAIN | 음악가 = [쿠라키 마이](https://ko.wikipedia.org/wiki/쿠라키_마이 "wikilink") | 음반 = [MAI KURAKI BEST 151A -LOVE & HOPE-](https://ko.wikipedia.org/wiki/MAI_KURAKI_BEST_151A_-LOVE_&_HOPE- "wikilink") | A 사이드 = | B 사이드 = 사쿠라 사쿠라… | 발매일 =  | 포맷 = [맥시 싱글](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink") | 녹음 = | 장르 = [J-POP](https://ko.wikipedia.org/wiki/J-POP "wikilink"), [애니메이션 음악](https://ko.wikipedia.org/wiki/애니메이션_음악 "wikilink") | 길이 = 4분 29초 | 레이블 = [노던 뮤직](https://ko.wikipedia.org/wiki/노던_뮤직 "wikilink") | 작사·작곡 = 쿠라키 마이, [토쿠나가 아키히토](https://ko.wikipedia.org/wiki/토쿠나가_아키히토 "wikilink") | 프로듀서 = 쿠라키 마이, 나가토 다이코 | 이전싱글 = \[\[사랑에_사랑해서/Special_morning_day_to_you| 〈**TRY AGAIN**〉은 일본 가수 [쿠라키 마이의](https://ko.wikipedia.org/wiki/쿠라키_마이 "wikilink") 39번째 [CD 싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\)#CD_싱글 "wikilink"). [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [2월 6일에](https://ko.wikipedia.org/wiki/2월_6일 "wikilink") [노던 뮤직에서](https://ko.wikipedia.org/wiki/노던_뮤직 "wikilink") 발매했다.
+{{싱글 정보 | 곡명 = TRY AGAIN | 음악가 = [쿠라키 마이](https://ko.wikipedia.org/wiki/쿠라키_마이 "wikilink") | 음반 = [MAI KURAKI BEST 151A -LOVE & HOPE-](../Page/MAI_KURAKI_BEST_151A_-LOVE_&_HOPE-.md "wikilink") | A 사이드 = | B 사이드 = 사쿠라 사쿠라… | 발매일 =  | 포맷 = [맥시 싱글](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink") | 녹음 = | 장르 = [J-POP](https://ko.wikipedia.org/wiki/J-POP "wikilink"), [애니메이션 음악](https://ko.wikipedia.org/wiki/애니메이션_음악 "wikilink") | 길이 = 4분 29초 | 레이블 = [노던 뮤직](https://ko.wikipedia.org/wiki/노던_뮤직 "wikilink") | 작사·작곡 = 쿠라키 마이, [토쿠나가 아키히토](../Page/토쿠나가_아키히토.md "wikilink") | 프로듀서 = 쿠라키 마이, 나가토 다이코 | 이전싱글 = \[\[사랑에_사랑해서/Special_morning_day_to_you| 〈**TRY AGAIN**〉은 일본 가수 [쿠라키 마이의](https://ko.wikipedia.org/wiki/쿠라키_마이 "wikilink") 39번째 [CD 싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\)#CD_싱글 "wikilink"). [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [2월 6일에](https://ko.wikipedia.org/wiki/2월_6일 "wikilink") [노던 뮤직에서](https://ko.wikipedia.org/wiki/노던_뮤직 "wikilink") 발매했다.
 
 노래는 [요미우리 TV](https://ko.wikipedia.org/wiki/요미우리_TV_방송 "wikilink") [닛폰 TV계](https://ko.wikipedia.org/wiki/닛폰_TV_방송망 "wikilink") 애니메이션 《[명탐정 코난](https://ko.wikipedia.org/wiki/명탐정_코난_\(애니메이션\) "wikilink")》 제35기 여는 곡으로 사용됐다. 쿠라키로는 16번째가 되는 《명탐정 코난》의 타이업이다.
 
@@ -10,7 +10,7 @@
 ## 수록곡
 
 1.  **TRY AGAIN** (4:29)
-      - 작사: 쿠라키 마이, 작곡: [토쿠나가 아키히토](https://ko.wikipedia.org/wiki/토쿠나가_아키히토 "wikilink"), 편곡: Cybersound
+      - 작사: 쿠라키 마이, 작곡: [토쿠나가 아키히토](../Page/토쿠나가_아키히토.md "wikilink"), 편곡: Cybersound
 2.  **사쿠라 사쿠라...** () (4:46)
       - 작사: 쿠라키 마이, 작곡: [오노 아이카](https://ko.wikipedia.org/wiki/오노_아이카 "wikilink"), 편곡: 하야시 료
 3.  **TRY AGAIN (Instrumental)**

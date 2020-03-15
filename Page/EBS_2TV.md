@@ -63,12 +63,12 @@
   - [장하석의 과학, 철학을 만나다](https://ko.wikipedia.org/wiki/장하석의_과학,_철학을_만나다 "wikilink")
   - [자연이 과학이다](https://ko.wikipedia.org/wiki/자연이_과학이다 "wikilink")
   - [내 마음의 안전기지](https://ko.wikipedia.org/wiki/내_마음의_안전기지 "wikilink")
-  - [레전드히어로 삼국전](https://ko.wikipedia.org/wiki/레전드히어로_삼국전 "wikilink")》
+  - [레전드히어로 삼국전](../Page/레전드히어로_삼국전.md "wikilink")》
   - [최고의 수학교실](https://ko.wikipedia.org/wiki/최고의_수학교실 "wikilink")
   - [사물의 역사](https://ko.wikipedia.org/wiki/사물의_역사 "wikilink")
   - [석학에게 던지는 5\!대질문](https://ko.wikipedia.org/wiki/석학에게_던지는_5!대질문 "wikilink")
   - [말을 걸어볼까? 동남아 살아보기](https://ko.wikipedia.org/wiki/말을_걸어볼까?_동남아_살아보기 "wikilink")
-  - [세상에 나쁜 개는 없다](https://ko.wikipedia.org/wiki/세상에_나쁜_개는_없다 "wikilink")
+  - [세상에 나쁜 개는 없다](../Page/세상에_나쁜_개는_없다.md "wikilink")
   - [수학의 원리 마테마티카](https://ko.wikipedia.org/wiki/수학의_원리_마테마티카 "wikilink")
   - [질문 있는 특강쇼 - 빅뱅](https://ko.wikipedia.org/wiki/질문_있는_특강쇼_-_빅뱅 "wikilink")
   - [석학에게 던지는 5\!질문](https://ko.wikipedia.org/wiki/석학에게_던지는_5!질문 "wikilink")

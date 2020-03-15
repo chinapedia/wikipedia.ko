@@ -285,7 +285,7 @@
 <td><p>pmid =</p></td>
 <td><p>pmc =</p></td>
 <td><p>bibcode = 2006MNRAS.371.1280D }}</ref></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/백조자리_OB2-8A" title="wikilink">#8A</a></p></td>
+<td><p><a href="../Page/백조자리_OB2-8A.md" title="wikilink">#8A</a></p></td>
 <td><p>O6If + O5.5III(f)</p></td>
 <td><p>−9.8/−9.4</p></td>
 <td><p>44 + 37</p></td>

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [THE B1A4 I IGNITION](https://ko.wikipedia.org/wiki/THE_B1A4_I_IGNITION).
 
 
-***THE B1A4 I IGNITION***는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악 그룹 B1A4의 1번째 정규 앨범이다. 이단옆차기가 작곡한 선공개곡 *THIS TIME IS OVER*를 수록했다. [진영이](../Page/진영_\(1991년\).md "wikilink") 작곡한 1번 트랙의 타이틀곡 \<BABY I'M SORRY\>로 3월 중순에서 4월 중순까지 활동했으며, 6월 리패키지 음반 *[THE B1A4 I IGNITION SPECIAL EDITION](https://ko.wikipedia.org/wiki/THE_B1A4_I_IGNITION_SPECIAL_EDITION "wikilink")*으로 컴백을 재개했다.
+***THE B1A4 I IGNITION***는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악 그룹 B1A4의 1번째 정규 앨범이다. 이단옆차기가 작곡한 선공개곡 *THIS TIME IS OVER*를 수록했다. [진영이](../Page/진영_\(1991년\).md "wikilink") 작곡한 1번 트랙의 타이틀곡 \<BABY I'M SORRY\>로 3월 중순에서 4월 중순까지 활동했으며, 6월 리패키지 음반 *[THE B1A4 I IGNITION SPECIAL EDITION](../Page/THE_B1A4_I_IGNITION_SPECIAL_EDITION.md "wikilink")*으로 컴백을 재개했다.
 
 ## 수록곡
 

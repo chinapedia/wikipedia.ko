@@ -75,7 +75,7 @@
 
   - [마츠모토 타카히로](https://ko.wikipedia.org/wiki/마츠모토_타카히로 "wikilink"): [기타](https://ko.wikipedia.org/wiki/기타 "wikilink"), 전체 [작사](https://ko.wikipedia.org/wiki/작사 "wikilink")·[작곡](https://ko.wikipedia.org/wiki/작곡 "wikilink"), 코러스
   - [이나바 코시](https://ko.wikipedia.org/wiki/이나바_코시 "wikilink"): [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), 전체 [작사](https://ko.wikipedia.org/wiki/작사 "wikilink")·[편곡](https://ko.wikipedia.org/wiki/편곡 "wikilink")
-  - [토쿠나가 아키히토](https://ko.wikipedia.org/wiki/토쿠나가_아키히토 "wikilink")([doa](https://ko.wikipedia.org/wiki/doa "wikilink")): 편곡, 베이스
+  - [토쿠나가 아키히토](../Page/토쿠나가_아키히토.md "wikilink")([doa](https://ko.wikipedia.org/wiki/doa "wikilink")): 편곡, 베이스
   - [테라치 히데유키](https://ko.wikipedia.org/wiki/테라치_히데유키 "wikilink"): 편곡
   - [이케다 다이스케](https://ko.wikipedia.org/wiki/이케다_다이스케_\(편곡가\) "wikilink"): 편곡, 스트링스 어레인지, 호른 어레인지
   - [오시마 코스케](https://ko.wikipedia.org/wiki/오시마_코스케 "wikilink"): 편곡

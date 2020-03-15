@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ SE](https://ko.wikipedia.org/wiki/_SE).
 
 
-**매킨토시 SE**(Macintosh SE)는 [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink") [3월 2일](https://ko.wikipedia.org/wiki/3월_2일 "wikilink")\[1\]\[2\]에 [매킨토시 II와](https://ko.wikipedia.org/wiki/매킨토시_II "wikilink") 함께 출시된 [매킨토시](https://ko.wikipedia.org/wiki/매킨토시 "wikilink") 컴퓨터이다. 매킨토시 SE 시리즈의 첫 모델이며 [매킨토시 II의](https://ko.wikipedia.org/wiki/매킨토시_II "wikilink") 출시 이후로 발매된 첫 [컴팩트 매킨토시이기도](https://ko.wikipedia.org/wiki/컴팩트_매킨토시 "wikilink") 하다.
+**매킨토시 SE**(Macintosh SE)는 [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink") [3월 2일](https://ko.wikipedia.org/wiki/3월_2일 "wikilink")\[1\]\[2\]에 [매킨토시 II와](../Page/매킨토시_II.md "wikilink") 함께 출시된 [매킨토시](https://ko.wikipedia.org/wiki/매킨토시 "wikilink") 컴퓨터이다. 매킨토시 SE 시리즈의 첫 모델이며 [매킨토시 II의](../Page/매킨토시_II.md "wikilink") 출시 이후로 발매된 첫 [컴팩트 매킨토시이기도](https://ko.wikipedia.org/wiki/컴팩트_매킨토시 "wikilink") 하다.
 
 첫 출시 당시 가격은 플로피 디스크 2개 탑재 제품은 $2900로, 20MB 하드디스크 탑재 제품은 $3900로 판매되었다. SE의 판매 실적이 높아지자 플로피 디스크 탑재 제품의 가격을 $3700으로 인상한 적이 있었다. 인상 직후 반발이 있으면서 다시 $2900로 환원하였다.
 
@@ -17,7 +17,7 @@ CPU는 매킨토시 플러스와 동일한 8MHz 68000를 사용하고 있다. 19
   - 개선된 SCSI 데이터 처리량 지원
   - 향상된 신뢰성 및 냉각 팬의 추가로 긴 수명.
 
-매킨토시 SE는 두 개의 플로피 드라이브를 장착하거나, 한 개씩의 플로피, 하드 디스크 드라이브를 장착할 수 있게 구성되었다. 이와 함께 [외부 플로피 디스크 드라이브를](https://ko.wikipedia.org/wiki/외부_플로피_디스크_드라이브 "wikilink") 지원하였는데 SE외에 [매킨토시 II](https://ko.wikipedia.org/wiki/매킨토시_II "wikilink"), [매킨토시 포터블에도](https://ko.wikipedia.org/wiki/매킨토시_포터블 "wikilink") 장착이 가능하였다. 더불어 ROM 용량이 확장되었고, 컴팩트 맥 최초로 PDS슬롯이라는 확장 슬롯이 생겨났다.
+매킨토시 SE는 두 개의 플로피 드라이브를 장착하거나, 한 개씩의 플로피, 하드 디스크 드라이브를 장착할 수 있게 구성되었다. 이와 함께 [외부 플로피 디스크 드라이브를](https://ko.wikipedia.org/wiki/외부_플로피_디스크_드라이브 "wikilink") 지원하였는데 SE외에 [매킨토시 II](../Page/매킨토시_II.md "wikilink"), [매킨토시 포터블에도](https://ko.wikipedia.org/wiki/매킨토시_포터블 "wikilink") 장착이 가능하였다. 더불어 ROM 용량이 확장되었고, 컴팩트 맥 최초로 PDS슬롯이라는 확장 슬롯이 생겨났다.
 
 SE는 매킨토시 II와 함께 ADB버스 규격을 새로 도입을 하였고, 처음으로 키보드와 별매로 판매할 수 있는 애플 컴퓨터가 되었다. 더불어 일반적인 [애플 키보드와](../Page/애플_키보드.md "wikilink") 함께 [애플 확장 키보드도](https://ko.wikipedia.org/wiki/애플_확장_키보드 "wikilink") 별매로 구입할 수 있다.
 
@@ -48,7 +48,7 @@ SE는 매킨토시 II와 함께 ADB버스 규격을 새로 도입을 하였고, 
 
 ## 같이 보기
 
-  - [매킨토시 클래식](https://ko.wikipedia.org/wiki/매킨토시_클래식 "wikilink")
+  - [매킨토시 클래식](../Page/매킨토시_클래식.md "wikilink")
   - [매킨토시 플러스](https://ko.wikipedia.org/wiki/매킨토시_플러스 "wikilink")
   - [매킨토시 SE/30](https://ko.wikipedia.org/wiki/매킨토시_SE/30 "wikilink")
 

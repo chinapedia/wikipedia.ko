@@ -9,7 +9,7 @@
 
 2013년 4월 첫 번째 아티스트 [40와](https://ko.wikipedia.org/wiki/40_\(가수\) "wikilink") 계약하였고, 이들은 2013년 4월 10일 디지털 싱글 〈April's Spring〉을 발매하였다.
 
-2013년 7월 YNB 엔터테인먼트의 4인조 걸그룹 [베스티](../Page/베스티.md "wikilink")가 데뷔하였다. 베스티는 전 [EXID](https://ko.wikipedia.org/wiki/EXID "wikilink") 멤버 출신인 [혜연](../Page/강혜연.md "wikilink")(전 예명 다미), [해령](../Page/해령_\(가수\).md "wikilink"), [유지와](https://ko.wikipedia.org/wiki/유지_\(가수\) "wikilink") 댄스 실력으로 화제가 된 연습생 [다혜](https://ko.wikipedia.org/wiki/다혜 "wikilink")가 결성한 걸그룹이다.
+2013년 7월 YNB 엔터테인먼트의 4인조 걸그룹 [베스티](../Page/베스티.md "wikilink")가 데뷔하였다. 베스티는 전 [EXID](https://ko.wikipedia.org/wiki/EXID "wikilink") 멤버 출신인 [혜연](../Page/강혜연.md "wikilink")(전 예명 다미), [해령](../Page/해령_\(가수\).md "wikilink"), [유지와](../Page/유지_\(가수\).md "wikilink") 댄스 실력으로 화제가 된 연습생 [다혜](https://ko.wikipedia.org/wiki/다혜 "wikilink")가 결성한 걸그룹이다.
 
 2014년 8월 세계 최초 모바일 그룹 [노을이](https://ko.wikipedia.org/wiki/노을_\(음악_그룹\) "wikilink") YNB 엔터테인먼트와 계약하였다. 노을은 2015년 1월 계약한 지 5개월 만에 첫 미니 앨범 《보이지 않는 것들》을 발매하였다.
 

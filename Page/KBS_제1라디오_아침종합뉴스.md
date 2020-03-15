@@ -31,7 +31,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS청주방송총국" title="wikilink">KBS청주</a><br />
 <a href="https://ko.wikipedia.org/wiki/KBS충주방송국" title="wikilink">KBS충주</a></p></td>
 <td><p>KBS 제1라디오 아침종합뉴스 충북</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/양문석_(1981년)" title="wikilink">양문석</a></p></td>
+<td><p><a href="../Page/양문석_(1981년).md" title="wikilink">양문석</a></p></td>
 <td><p>무작위</p></td>
 </tr>
 <tr class="odd">
@@ -92,7 +92,7 @@
 
 ## 동시 시간대 뉴스 프로그램
 
-  - [KBS 제2라디오 아침종합뉴스](https://ko.wikipedia.org/wiki/KBS_제2라디오_아침종합뉴스 "wikilink") ([KBS 해피FM](https://ko.wikipedia.org/wiki/KBS_제2라디오 "wikilink"))
+  - [KBS 제2라디오 아침종합뉴스](../Page/KBS_제2라디오_아침종합뉴스.md "wikilink") ([KBS 해피FM](https://ko.wikipedia.org/wiki/KBS_제2라디오 "wikilink"))
   - [MBC 뉴스의 광장](https://ko.wikipedia.org/wiki/MBC_뉴스의_광장 "wikilink") ([MBC 표준FM](https://ko.wikipedia.org/wiki/MBC_표준FM "wikilink"))
   - [임미현의 아침뉴스](https://ko.wikipedia.org/wiki/김덕기의_아침뉴스 "wikilink") ([CBS 표준FM](https://ko.wikipedia.org/wiki/CBS_표준FM "wikilink"))
 

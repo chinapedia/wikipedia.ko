@@ -46,7 +46,7 @@
   - 2014년 5월 12일 휘성 - **The Best Man**
   - 2014년 5월 13일 에일리 - **트라이앵글 OST Part.1**
   - 2014년 7월 11일 에일리 - **\[Digital Single\] re;code Episode V**\[12\]
-  - 2014년 7월 17일 [럭키제이](https://ko.wikipedia.org/wiki/럭키제이 "wikilink") - **\[Digital Single\] 들리니**
+  - 2014년 7월 17일 [럭키제이](../Page/럭키제이.md "wikilink") - **\[Digital Single\] 들리니**
   - 2014년 8월 13일 에일리 - **운명처럼 사랑해 OST Part.6**
   - 2014년 8월 13일 휘성 - **괜찮아 사랑이야 OST Part.4**
   - 2014년 8월 18일 럭키제이 - **유혹 OST Part.6**
@@ -85,13 +85,13 @@
   - 2016년 3월 15일 제시 - **\[Digital Single\] 살찐 사랑**
   - 2016년 3월 17일 에일리 - **돌아와요 아저씨 OST Part.4**
   - 2016년 3월 31일 제시 - **\[Digital single\] 쾌지나 칭칭나네**\[23\]
-  - 2016년 4월 5일 [I.O.I](https://ko.wikipedia.org/wiki/I.O.I "wikilink") - **\[Digital Single\] [Crush](https://ko.wikipedia.org/wiki/Crush_\(아이오아이의_노래\) "wikilink")**
+  - 2016년 4월 5일 [I.O.I](https://ko.wikipedia.org/wiki/I.O.I "wikilink") - **\[Digital Single\] [Crush](../Page/Crush_\(아이오아이의_노래\).md "wikilink")**
   - 2016년 4월 8일 슈가볼,제이켠 - **\[Digital Single\] 남녀 사이에 친구가 어딨어**
   - 2016년 4월 8일 제시 - **\[Digital Single\] 듀엣가요제 1회**\[24\]
   - 2016년 4월 15일 제시 - **\[Digital Single\] 듀엣가요지 2회**\[25\]
   - 2016년 4월 27일 제시 - **\[Digital Single\] 투유 프로젝트 - 슈가맨 Part.28**\[26\]
   - 2016년 4월 29일 슈가볼 - **\[Digital Single\] 사라져버려**
-  - 2016년 5월 4일 I.O.I - **[Chrysalis](https://ko.wikipedia.org/wiki/Chrysalis "wikilink")**
+  - 2016년 5월 4일 I.O.I - **[Chrysalis](../Page/Chrysalis.md "wikilink")**
   - 2016년 5월 15일 에일리 - **\[Digital Single\] 판타스틱 듀오 Part.4**\[27\]
   - 2016년 5월 22일 에일리 - **\[Digital Single\] 판타스틱 듀오 Part.5**\[28\]
   - 2016년 5월 25일 에일리 - **딴따라 OST Part.7**\[29\]
@@ -101,7 +101,7 @@
   - 2016년 7월 2일 휘성 - **미녀 공심이 OST Part.8**
   - 2016년 7월 5일 주희 - **\[Digital Single\] Happy**
   - 2016년 7월 19일 주희 - **몬스터 OST Part.4**\[30\]
-  - 2016년 8월 9일 I.O.I - **\[Digital Single\] [Whatta Man](https://ko.wikipedia.org/wiki/Whatta_Man_\(Good_Man\) "wikilink")**
+  - 2016년 8월 9일 I.O.I - **\[Digital Single\] [Whatta Man](../Page/Whatta_Man_\(Good_Man\).md "wikilink")**
   - 2016년 8월 9일 소울라이츠 - **\[Digital Single\] 알아들어요**
   - 2016년 8월 15일 I.O.I - **\[Digital Single\] [손에 손잡고](https://ko.wikipedia.org/wiki/손에_손잡고 "wikilink")**
   - 2016년 8월 20일 제시 - **신데렐라와 네 명의 기사 OST Part.2**
@@ -163,7 +163,7 @@
 6.  [소울스타](../Page/소울스타.md "wikilink")의 멤버 [이승우](https://ko.wikipedia.org/wiki/이승우 "wikilink")도 앨범 참여.
 7.  마이티 마우스 미니 2집의 선공개곡.
 8.  [어쿠스틱 콜라보도](https://ko.wikipedia.org/wiki/어쿠스틱_콜라보 "wikilink") 앨범 참여.
-9.  [빅스타의](https://ko.wikipedia.org/wiki/빅스타_\(대한민국의_음악_그룹\) "wikilink") 멤버 [필독](../Page/필독_\(가수\).md "wikilink"), [일렉트로보이즈](https://ko.wikipedia.org/wiki/일렉트로보이즈 "wikilink")의 멤버 [마부스](https://ko.wikipedia.org/wiki/마부스 "wikilink"), [차쿤](https://ko.wikipedia.org/wiki/차쿤 "wikilink")도 앨범 참여.
+9.  [빅스타의](https://ko.wikipedia.org/wiki/빅스타_\(대한민국의_음악_그룹\) "wikilink") 멤버 [필독](../Page/필독_\(가수\).md "wikilink"), [일렉트로보이즈](../Page/일렉트로보이즈.md "wikilink")의 멤버 [마부스](../Page/마부스.md "wikilink"), [차쿤](https://ko.wikipedia.org/wiki/차쿤 "wikilink")도 앨범 참여.
 10. [거미도](https://ko.wikipedia.org/wiki/거미_\(가수\) "wikilink") 앨범 참여.
 11. [god의](https://ko.wikipedia.org/wiki/god_\(음악_그룹\) "wikilink") 멤버 [김태우도](https://ko.wikipedia.org/wiki/김태우_\(1981년\) "wikilink") 앨범 참여.
 12. [투엘슨](https://ko.wikipedia.org/wiki/투엘슨 "wikilink")도 앨범 참여.
@@ -175,27 +175,27 @@
 18. [마스터피스와](https://ko.wikipedia.org/wiki/마스터피스_\(음악_그룹\) "wikilink") [블랙리스트의](https://ko.wikipedia.org/wiki/블랙리스트_\(음악_그룹\) "wikilink") 멤버 [치타도](../Page/치타_\(가수\).md "wikilink") 앨범 참여.
 19. 최초의 19금 앨범.그리고 제이켠의 데뷔 10주년 앨범.
 20. 배치기의 데뷔 10주년 앨범.
-21. [세븐틴도](https://ko.wikipedia.org/wiki/세븐틴_\(음악_그룹\) "wikilink") 앨범 참여.
+21. [세븐틴도](../Page/세븐틴_\(음악_그룹\).md "wikilink") 앨범 참여.
 22. [소울스타](../Page/소울스타.md "wikilink")도 앨범 참여.
 23. [김영임](https://ko.wikipedia.org/wiki/김영임_\(국악인\) "wikilink"), [크리스피 크런치도](https://ko.wikipedia.org/wiki/크리스피_크런치 "wikilink") 앨범 참여.
-24. [EXID](https://ko.wikipedia.org/wiki/EXID "wikilink")의 멤버 [솔지](https://ko.wikipedia.org/wiki/솔지 "wikilink"),김석구,두진수도 앨범 참여.
+24. [EXID](https://ko.wikipedia.org/wiki/EXID "wikilink")의 멤버 [솔지](../Page/솔지.md "wikilink"),김석구,두진수도 앨범 참여.
 25. [현진영](https://ko.wikipedia.org/wiki/현진영 "wikilink"),김석구,조한결도 앨범 참여.
-26. [팬텀의](https://ko.wikipedia.org/wiki/팬텀_\(음악_그룹\) "wikilink") 멤버 [한해](https://ko.wikipedia.org/wiki/한해 "wikilink")도 앨범 참여.
+26. [팬텀의](https://ko.wikipedia.org/wiki/팬텀_\(음악_그룹\) "wikilink") 멤버 [한해](../Page/한해.md "wikilink")도 앨범 참여.
 27. 이민정,김새하,박혜진도 앨범 참여.
 28. [보이스원](https://ko.wikipedia.org/wiki/보이스원 "wikilink")의 멤버 [장혜진](https://ko.wikipedia.org/wiki/장혜진_\(가수\) "wikilink"), [이선희](https://ko.wikipedia.org/wiki/이선희 "wikilink"),이민정,김예진,서장효,강민성도 앨범 참여.
-29. [트루디](https://ko.wikipedia.org/wiki/트루디 "wikilink")도 앨범 참여.
+29. [트루디](../Page/트루디.md "wikilink")도 앨범 참여.
 30. [EJAE](https://ko.wikipedia.org/wiki/EJAE "wikilink")도 앨범 참여.
 31. 에일리 미니 4집의 선공개곡.
 32. [태진아](https://ko.wikipedia.org/wiki/태진아 "wikilink")도 앨범 참여.
-33. [올 블랙의](https://ko.wikipedia.org/wiki/올_블랙 "wikilink") 멤버 [마이크로닷](https://ko.wikipedia.org/wiki/마이크로닷_\(래퍼\) "wikilink"), [덤파운데드](https://ko.wikipedia.org/wiki/덤파운데드 "wikilink"), [리릭스](https://ko.wikipedia.org/wiki/리릭스 "wikilink")도 앨범 참여.
+33. [올 블랙의](https://ko.wikipedia.org/wiki/올_블랙 "wikilink") 멤버 [마이크로닷](../Page/마이크로닷_\(래퍼\).md "wikilink"), [덤파운데드](https://ko.wikipedia.org/wiki/덤파운데드 "wikilink"), [리릭스](https://ko.wikipedia.org/wiki/리릭스 "wikilink")도 앨범 참여.
 34. 주희의 데뷔 10주년 앨범.
-35. [MC그리](https://ko.wikipedia.org/wiki/MC그리 "wikilink"), [매드 클라운](https://ko.wikipedia.org/wiki/매드_클라운 "wikilink"),김선재,[기리보이](https://ko.wikipedia.org/wiki/기리보이 "wikilink"), [서출구](https://ko.wikipedia.org/wiki/서출구 "wikilink"), [양홍원](https://ko.wikipedia.org/wiki/양홍원 "wikilink"), [스윙스](https://ko.wikipedia.org/wiki/스윙스 "wikilink"),최하민도 앨범 참여.
+35. [MC그리](https://ko.wikipedia.org/wiki/MC그리 "wikilink"), [매드 클라운](https://ko.wikipedia.org/wiki/매드_클라운 "wikilink"),김선재,[기리보이](../Page/기리보이.md "wikilink"), [서출구](https://ko.wikipedia.org/wiki/서출구 "wikilink"), [양홍원](https://ko.wikipedia.org/wiki/양홍원 "wikilink"), [스윙스](https://ko.wikipedia.org/wiki/스윙스 "wikilink"),최하민도 앨범 참여.
 36. [이루](https://ko.wikipedia.org/wiki/이루 "wikilink")도 앨범 참여.
-37. [장윤정](https://ko.wikipedia.org/wiki/장윤정 "wikilink"), [터보](https://ko.wikipedia.org/wiki/터보_\(음악_그룹\) "wikilink"), [딘딘](https://ko.wikipedia.org/wiki/딘딘 "wikilink"), [FT 아일랜드의](https://ko.wikipedia.org/wiki/FT_아일랜드 "wikilink") 멤버 [이홍기](https://ko.wikipedia.org/wiki/이홍기 "wikilink"), [샤넌](../Page/샤넌_\(가수\).md "wikilink"), [박슬기](https://ko.wikipedia.org/wiki/박슬기_\(방송인\) "wikilink"), [언터쳐블의](https://ko.wikipedia.org/wiki/언터쳐블_\(음악_그룹\) "wikilink") 멤버 [슬리피](../Page/슬리피.md "wikilink"), [로이킴](https://ko.wikipedia.org/wiki/로이킴 "wikilink")도 앨범 참여.
+37. [장윤정](https://ko.wikipedia.org/wiki/장윤정 "wikilink"), [터보](https://ko.wikipedia.org/wiki/터보_\(음악_그룹\) "wikilink"), [딘딘](../Page/딘딘.md "wikilink"), [FT 아일랜드의](https://ko.wikipedia.org/wiki/FT_아일랜드 "wikilink") 멤버 [이홍기](https://ko.wikipedia.org/wiki/이홍기 "wikilink"), [샤넌](../Page/샤넌_\(가수\).md "wikilink"), [박슬기](https://ko.wikipedia.org/wiki/박슬기_\(방송인\) "wikilink"), [언터쳐블의](https://ko.wikipedia.org/wiki/언터쳐블_\(음악_그룹\) "wikilink") 멤버 [슬리피](../Page/슬리피.md "wikilink"), [로이킴](https://ko.wikipedia.org/wiki/로이킴 "wikilink")도 앨범 참여.
 38. [씨에](https://ko.wikipedia.org/wiki/씨에 "wikilink")도 앨범 참여.
-39. [트리탑스](https://ko.wikipedia.org/wiki/트리탑스 "wikilink"), [씨에](https://ko.wikipedia.org/wiki/씨에 "wikilink"), [몬스타엑스](https://ko.wikipedia.org/wiki/몬스타엑스 "wikilink")의 멤버 [형원](https://ko.wikipedia.org/wiki/형원 "wikilink"), [AOA의](https://ko.wikipedia.org/wiki/AOA_\(음악_그룹\) "wikilink") 멤버 [지민](../Page/지민_\(래퍼\).md "wikilink"), [티아라의](https://ko.wikipedia.org/wiki/티아라_\(음악_그룹\) "wikilink") 멤버 [효민](https://ko.wikipedia.org/wiki/효민 "wikilink"), [DJ DOC의](https://ko.wikipedia.org/wiki/DJ_DOC "wikilink") 멤버 [김창렬](https://ko.wikipedia.org/wiki/김창렬 "wikilink")도 앨범 참여.
+39. [트리탑스](https://ko.wikipedia.org/wiki/트리탑스 "wikilink"), [씨에](https://ko.wikipedia.org/wiki/씨에 "wikilink"), [몬스타엑스](../Page/몬스타엑스.md "wikilink")의 멤버 [형원](../Page/형원.md "wikilink"), [AOA의](https://ko.wikipedia.org/wiki/AOA_\(음악_그룹\) "wikilink") 멤버 [지민](../Page/지민_\(래퍼\).md "wikilink"), [티아라의](https://ko.wikipedia.org/wiki/티아라_\(음악_그룹\) "wikilink") 멤버 [효민](https://ko.wikipedia.org/wiki/효민 "wikilink"), [DJ DOC의](https://ko.wikipedia.org/wiki/DJ_DOC "wikilink") 멤버 [김창렬](https://ko.wikipedia.org/wiki/김창렬 "wikilink")도 앨범 참여.
 40. 소울라이츠의 데뷔 10주년 앨범.
 41. 워너원 미니 2집의 선공개곡.
 42. [멜로망스](https://ko.wikipedia.org/wiki/멜로망스 "wikilink")의 멤버 [정동환](https://ko.wikipedia.org/wiki/정동환 "wikilink"), [리듬파워](https://ko.wikipedia.org/wiki/리듬파워 "wikilink"), [양다일](https://ko.wikipedia.org/wiki/양다일 "wikilink")도 앨범 참여.
 43. [매드 클라운도](https://ko.wikipedia.org/wiki/매드_클라운 "wikilink") 앨범 참여.
-44. [더블 케이](https://ko.wikipedia.org/wiki/더블_케이 "wikilink"), [올 블랙의](https://ko.wikipedia.org/wiki/올_블랙 "wikilink") 멤버 [마이크로닷도](https://ko.wikipedia.org/wiki/마이크로닷_\(래퍼\) "wikilink") 앨범 참여.
+44. [더블 케이](https://ko.wikipedia.org/wiki/더블_케이 "wikilink"), [올 블랙의](https://ko.wikipedia.org/wiki/올_블랙 "wikilink") 멤버 [마이크로닷도](../Page/마이크로닷_\(래퍼\).md "wikilink") 앨범 참여.

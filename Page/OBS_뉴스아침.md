@@ -39,7 +39,7 @@
       - [KBS 뉴스광장](https://ko.wikipedia.org/wiki/KBS_뉴스광장 "wikilink") (6시부터 7시 50분)
       - [인간극장](https://ko.wikipedia.org/wiki/인간극장 "wikilink") (7시 50분부터 8시 25분)
   - [KBS 2TV](https://ko.wikipedia.org/wiki/KBS_2TV "wikilink")
-      - [생방송 아침이 좋다](https://ko.wikipedia.org/wiki/생방송_아침이_좋다 "wikilink") (6시 50분부터 8시)
+      - [생방송 아침이 좋다](../Page/생방송_아침이_좋다.md "wikilink") (6시 50분부터 8시)
   - [SBS TV](https://ko.wikipedia.org/wiki/SBS_TV "wikilink")
       - [모닝와이드](https://ko.wikipedia.org/wiki/모닝와이드 "wikilink") (6시부터 8시 35분)
   - [MBC TV](https://ko.wikipedia.org/wiki/MBC_TV "wikilink")

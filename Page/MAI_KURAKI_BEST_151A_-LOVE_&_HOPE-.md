@@ -17,7 +17,7 @@
 
 ### DISC 1 (LOVE)
 
-1.  **[Stay by my side](https://ko.wikipedia.org/wiki/Stay_by_my_side "wikilink")** \[4:26\]
+1.  **[Stay by my side](../Page/Stay_by_my_side.md "wikilink")** \[4:26\]
       - 작사: 쿠라키 마이, 작곡: [오노 아이카](https://ko.wikipedia.org/wiki/오노_아이카 "wikilink"), 편곡: [Cybersound](https://ko.wikipedia.org/wiki/Cybersound "wikilink")
     <!-- end list -->
       -
@@ -32,17 +32,17 @@
     <!-- end list -->
       -
         7번째 싱글 〈차가운 바다/Start in my life〉 첫 번째곡.
-4.  **[Time after time\~꽃잎 흩날리는 거리에서\~](https://ko.wikipedia.org/wiki/Time_after_time~꽃잎_흩날리는_거리에서~ "wikilink")**() \[4:11\]
+4.  **[Time after time\~꽃잎 흩날리는 거리에서\~](../Page/Time_after_time~꽃잎_흩날리는_거리에서~.md "wikilink")**() \[4:11\]
       - 작사: 쿠라키 마이, 작곡: 오노 아이카, 편곡: 이케다 다이스케, Cybersound
     <!-- end list -->
       -
         15번째 싱글. 애니메이션 영화 《[명탐정 코난: 미궁의 십자로](https://ko.wikipedia.org/wiki/명탐정_코난:_미궁의_십자로 "wikilink")》 주제가.
-5.  **[내일로 이어지는 다리](https://ko.wikipedia.org/wiki/내일로_이어지는_다리 "wikilink")**() \[3:58\]
-      - 작사: 쿠라키 마이, 작곡: [토쿠나가 아키히토](https://ko.wikipedia.org/wiki/토쿠나가_아키히토 "wikilink"), 편곡: 이케다 다이스케, 토쿠나가 아키히토
+5.  **[내일로 이어지는 다리](../Page/내일로_이어지는_다리.md "wikilink")**() \[3:58\]
+      - 작사: 쿠라키 마이, 작곡: [토쿠나가 아키히토](../Page/토쿠나가_아키히토.md "wikilink"), 편곡: 이케다 다이스케, 토쿠나가 아키히토
     <!-- end list -->
       -
         18번째 싱글. [NHK](https://ko.wikipedia.org/wiki/NHK "wikilink") 밤 연속극 《[드림: 90일에 1억엔](https://ko.wikipedia.org/wiki/드림:_90일에_1억엔 "wikilink")》, 《[더 사랑해라 소녀](https://ko.wikipedia.org/wiki/사랑해라_소녀 "wikilink")》, 《[소방관 코마치](https://ko.wikipedia.org/wiki/소방관_코마치 "wikilink")》 주제가.
-6.  **[보고 싶어서...](https://ko.wikipedia.org/wiki/DIAMOND_WAVE "wikilink")**() \[4:30\]
+6.  **[보고 싶어서...](../Page/DIAMOND_WAVE.md "wikilink")**() \[4:30\]
       - 작사: 쿠라키 마이, 작곡 · 편곡: 토쿠나가 아키히토
     <!-- end list -->
       -
@@ -62,7 +62,7 @@
     <!-- end list -->
       -
         36번째 싱글. [도카이 TV](https://ko.wikipedia.org/wiki/도카이_TV "wikilink") 드라마 《[안개에 사는 악마](https://ko.wikipedia.org/wiki/안개에_사는_악마 "wikilink")》 주제가.
-10. **[당신이 있으니까](https://ko.wikipedia.org/wiki/당신이_있으니까_\(쿠라키_마이의_노래\) "wikilink")**() \[3:04\]
+10. **[당신이 있으니까](../Page/당신이_있으니까_\(쿠라키_마이의_노래\).md "wikilink")**() \[3:04\]
       - 작사: 쿠라키 마이, 모치즈키 유에, 작곡: 모치즈키 유에, 편곡: [오노즈카 아키라](https://ko.wikipedia.org/wiki/오노즈카_아키라 "wikilink")
     <!-- end list -->
       -
@@ -95,7 +95,7 @@
 
 ### DISC 2 (HOPE)
 
-1.  **[Love, Day After Tomorrow](https://ko.wikipedia.org/wiki/Love,_Day_After_Tomorrow "wikilink")** \[4:03\]
+1.  **[Love, Day After Tomorrow](../Page/Love,_Day_After_Tomorrow.md "wikilink")** \[4:03\]
       - 작사: 쿠라키 마이, 작곡: 오노 아이카, 편곡: Cybersound
     <!-- end list -->
       -
@@ -105,7 +105,7 @@
     <!-- end list -->
       -
         1번째 음반 《Delicious Way》 수록곡.
-3.  **[Reach for the sky](https://ko.wikipedia.org/wiki/Reach_for_the_sky "wikilink")** \[4:49\]
+3.  **[Reach for the sky](../Page/Reach_for_the_sky.md "wikilink")** \[4:49\]
       - 작사: 쿠라키 마이, 작곡: 오노 아이카, 편곡: Cybersound
     <!-- end list -->
       -
@@ -120,7 +120,7 @@
     <!-- end list -->
       -
         9번째 싱글. 요미우리 TV계 애니메이션 《명탐정 코난》 엔딩 테마. 애니메이션 영화 《[명탐정 코난: 천국으로의 카운트다운](https://ko.wikipedia.org/wiki/명탐정_코난:_천국으로의_카운트다운 "wikilink")》 [주제가](https://ko.wikipedia.org/wiki/주제가 "wikilink").
-6.  **[Feel fine\!](https://ko.wikipedia.org/wiki/Feel_fine! "wikilink")** \[4:48\]
+6.  **[Feel fine\!](../Page/Feel_fine!.md "wikilink")** \[4:48\]
       - 작사: 쿠라키 마이, 작곡 · 편곡: 토쿠나가 아키히토
     <!-- end list -->
       -
@@ -135,7 +135,7 @@
     <!-- end list -->
       -
         베스트 음반 《ALL MY BEST》 수록곡. [고세](https://ko.wikipedia.org/wiki/고세 "wikilink") 에스프리끄 프레셔스 CM송.
-9.  **[Strong Heart](https://ko.wikipedia.org/wiki/Strong_Heart "wikilink")** \[4:20\]
+9.  **[Strong Heart](../Page/Strong_Heart.md "wikilink")** \[4:20\]
       - 작사: 쿠라키 마이, GIORGIO 13, 작곡 · 편곡: GIORGIO CANCEMI
     <!-- end list -->
       -
@@ -150,7 +150,7 @@
     <!-- end list -->
       -
         39번째 싱글. 요미우리 TV계 애니메이션 《명탐정 코난》 오프닝 테마.
-12. **[Wake me up](https://ko.wikipedia.org/wiki/Wake_me_up "wikilink")** \[4:21\]
+12. **[Wake me up](../Page/Wake_me_up.md "wikilink")** \[4:21\]
       - 작사: 쿠라키 마이, 작곡 · 편곡: 토쿠나가 아키히토
     <!-- end list -->
       -

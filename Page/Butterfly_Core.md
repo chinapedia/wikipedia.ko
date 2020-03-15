@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Butterfly Core](https://ko.wikipedia.org/wiki/Butterfly_Core).
 
 
-〈**Butterfly Core**〉(버터플라이 코어, )는 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [11월 27일에](https://ko.wikipedia.org/wiki/11월_27일 "wikilink") [빙에서](https://ko.wikipedia.org/wiki/빙_\(기업\) "wikilink") 발매된 [VALSHE](https://ko.wikipedia.org/wiki/VALSHE "wikilink")의 6번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink"). 〈Butterfly Core〉는 한국어 버전으로 [탑독](https://ko.wikipedia.org/wiki/탑독 "wikilink")에 의해 리메이크돼서, [투니버스](https://ko.wikipedia.org/wiki/투니버스 "wikilink")에서 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [3월 26일부터](https://ko.wikipedia.org/wiki/3월_26일 "wikilink") [6월 11일까지](https://ko.wikipedia.org/wiki/6월_11일 "wikilink") 방영된 《[명탐정 코난](https://ko.wikipedia.org/wiki/명탐정_코난_\(애니메이션\) "wikilink") 13기》의 주제가로 쓰이게 된다.
+〈**Butterfly Core**〉(버터플라이 코어, )는 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [11월 27일에](https://ko.wikipedia.org/wiki/11월_27일 "wikilink") [빙에서](https://ko.wikipedia.org/wiki/빙_\(기업\) "wikilink") 발매된 [VALSHE](../Page/VALSHE.md "wikilink")의 6번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink"). 〈Butterfly Core〉는 한국어 버전으로 [탑독](https://ko.wikipedia.org/wiki/탑독 "wikilink")에 의해 리메이크돼서, [투니버스](https://ko.wikipedia.org/wiki/투니버스 "wikilink")에서 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [3월 26일부터](https://ko.wikipedia.org/wiki/3월_26일 "wikilink") [6월 11일까지](https://ko.wikipedia.org/wiki/6월_11일 "wikilink") 방영된 《[명탐정 코난](https://ko.wikipedia.org/wiki/명탐정_코난_\(애니메이션\) "wikilink") 13기》의 주제가로 쓰이게 된다.
 
 ## 해설
 

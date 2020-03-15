@@ -14,8 +14,8 @@
   - 야마모토 사야 - [타케토미 세이카](../Page/타케토미_세이카.md "wikilink")
   - 오쿠무라 치사토 - [모리카와 아오이](https://ko.wikipedia.org/wiki/모리카와_아오이 "wikilink")
   - 에토 미유리 - [시미즈 쿠루미](../Page/시미즈_쿠루미.md "wikilink")
-  - 무라오카 하루토 - [나리타 료](https://ko.wikipedia.org/wiki/나리타_료 "wikilink")
-  - 히로세 유키 - [시라스 진](https://ko.wikipedia.org/wiki/시라스_진 "wikilink")
+  - 무라오카 하루토 - [나리타 료](../Page/나리타_료.md "wikilink")
+  - 히로세 유키 - [시라스 진](../Page/시라스_진.md "wikilink")
 
 ## 스태프
 

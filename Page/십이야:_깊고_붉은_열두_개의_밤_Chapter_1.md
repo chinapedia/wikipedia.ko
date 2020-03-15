@@ -7,7 +7,7 @@
 
   - [이관훈](https://ko.wikipedia.org/wiki/이관훈 "wikilink")
   - [정보름](https://ko.wikipedia.org/wiki/정보름 "wikilink")
-  - [박은석](https://ko.wikipedia.org/wiki/박은석 "wikilink") : <남의소리> 광현 역
+  - [박은석](../Page/박은석.md "wikilink") : <남의소리> 광현 역
   - 배영란
   - 헬레나
   - 홍승록

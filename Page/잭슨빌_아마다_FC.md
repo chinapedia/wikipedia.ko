@@ -17,7 +17,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/베이스볼_그라운즈_오브_잭슨빌" title="wikilink">커뮤니티 퍼스트 파크</a></p></td>
+<td><p><a href="../Page/베이스볼_그라운즈_오브_잭슨빌.md" title="wikilink">커뮤니티 퍼스트 파크</a></p></td>
 <td><p>2015년~2016년</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/플로리다주" title="wikilink">플로리다주</a> <a href="https://ko.wikipedia.org/wiki/잭슨빌" title="wikilink">잭슨빌</a></p></td>
 <td><p>잭슨빌 아마다 FC</p></td>

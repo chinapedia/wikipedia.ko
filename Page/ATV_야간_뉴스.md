@@ -15,7 +15,7 @@
 
 ## 같이 보기
 
-  - [ATV 6시 뉴스](https://ko.wikipedia.org/wiki/ATV_6시_뉴스 "wikilink")
+  - [ATV 6시 뉴스](../Page/ATV_6시_뉴스.md "wikilink")
 
 ## 외부 링크
 
