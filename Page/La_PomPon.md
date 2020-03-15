@@ -13,7 +13,7 @@
 
   - 2013년, 빙이 행했던 오디션 및 스카우트로 모인 6명으로 결성\[4\]. 약 2년간은 노래와 댄스를 배운다\[5\].
   - 2014년 8월, 본격적인 활동이 시작되며, 스텔라 볼에서 개최된 [쿠라키 마이의](https://ko.wikipedia.org/wiki/쿠라키_마이 "wikilink") 오프닝 아웃의 담당, 라이브 이벤트 ‘[TOKYO IDOL FESTIVAL](https://ko.wikipedia.org/wiki/TOKYO_IDOL_FESTIVAL "wikilink")2014’의 출연을 한다出\[6\].
-  - 2015년 1월 28일, 싱글 〈[BUMP\!\!](https://ko.wikipedia.org/wiki/BUMP!! "wikilink")〉로 메이저 데뷔\[7\]\[8\].
+  - 2015년 1월 28일, 싱글 〈[BUMP\!\!](../Page/BUMP!!.md "wikilink")〉로 메이저 데뷔\[7\]\[8\].
 
 ## 구성원
 
@@ -117,7 +117,7 @@
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/HOT_GIRLS" title="wikilink">HOT GIRLS</a></p></td>
+<td><p><a href="../Page/HOT_GIRLS.md" title="wikilink">HOT GIRLS</a></p></td>
 <td><p>2015년 4월 29일</p></td>
 <td><p>56위</p></td>
 </tr>
@@ -164,10 +164,10 @@
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
 | 2015년                                                                                                                                       | \[\[BUMP                                                                                                                                                                                              | |BUMP                                                                          |
 | \[\[BUMP                                                                                                                                    | |사랑의 ABC\]\]()                                                                                                                                                                                        | [TV 가나자와](https://ko.wikipedia.org/wiki/TV_가나자와 "wikilink") 《이웃의 텔레킨짱》 1월 닫는 곡 |
-| [HOT GIRLS](https://ko.wikipedia.org/wiki/HOT_GIRLS "wikilink")                                                                             | 닛폰 TV 계열 《오늘밤 비교해봤습니다》 4월 닫는 곡                                                                                                                                                                        |                                                                                |
+| [HOT GIRLS](../Page/HOT_GIRLS.md "wikilink")                                                                                                | 닛폰 TV 계열 《오늘밤 비교해봤습니다》 4월 닫는 곡                                                                                                                                                                        |                                                                                |
 | [지바 TV](https://ko.wikipedia.org/wiki/지바_TV "wikilink") 《[MUSIC LAUNCHER](https://ko.wikipedia.org/wiki/MUSIC_LAUNCHER "wikilink")》 4월 닫는 곡 |                                                                                                                                                                                                       |                                                                                |
 | TV 가나자와 《이웃의 텔레킨짱》 닫는 곡                                                                                                                     |                                                                                                                                                                                                       |                                                                                |
-| [사랑은 주크☆댄스](https://ko.wikipedia.org/wiki/HOT_GIRLS "wikilink")()                                                                           | [NHK ETV](https://ko.wikipedia.org/wiki/NHK_교육_텔레비전 "wikilink") 《[비트 월드](https://ko.wikipedia.org/wiki/비트_월드 "wikilink")》 내 《[비밀결사 매발톱단 DO](https://ko.wikipedia.org/wiki/비밀결사_매발톱단 "wikilink")》 닫는 곡 |                                                                                |
+| [사랑은 주크☆댄스](../Page/HOT_GIRLS.md "wikilink")()                                                                                              | [NHK ETV](https://ko.wikipedia.org/wiki/NHK_교육_텔레비전 "wikilink") 《[비트 월드](https://ko.wikipedia.org/wiki/비트_월드 "wikilink")》 내 《[비밀결사 매발톱단 DO](https://ko.wikipedia.org/wiki/비밀결사_매발톱단 "wikilink")》 닫는 곡 |                                                                                |
 | [수수께끼](https://ko.wikipedia.org/wiki/수수께끼/싫어!싫다고!싫어!_~Sweet_Teens_ver.~ "wikilink")()                                                       | [요미우리 TV](https://ko.wikipedia.org/wiki/요미우리_TV_방송 "wikilink") · 닛폰 TV 계열 애니메이션 《[명탐정 코난](https://ko.wikipedia.org/wiki/명탐정_코난_\(애니메이션\) "wikilink")》 여는 곡                                            |                                                                                |
 | 2016년                                                                                                                                       | [운명의 룰렛을 돌리며](https://ko.wikipedia.org/wiki/운명의_룰렛을_돌리며/잘가라는_말은_시작의_말 "wikilink")()                                                                                                                   | 요미우리 TV · 닛폰 TV 계열 애니메이션 《명탐정 코난》 닫는 곡\[9\]                                    |
 | [PUZZLE](https://ko.wikipedia.org/wiki/PUZZLE_\(La_PomPon의_노래\) "wikilink")                                                                 | [투니버스](https://ko.wikipedia.org/wiki/투니버스 "wikilink") 《명탐정 코난 14기》 주제가                                                                                                                                |                                                                                |

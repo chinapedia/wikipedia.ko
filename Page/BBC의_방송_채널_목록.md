@@ -42,17 +42,17 @@
 
 잉글랜드 내 여러 지역을 대상으로 한 방송 채널이다.
 
-  - **[BBC One 이스트](https://ko.wikipedia.org/wiki/BBC_이스트 "wikilink")**
+  - **[BBC One 이스트](../Page/BBC_이스트.md "wikilink")**
       - 이스트 - 노위치 지역 대상
       - 웨스트 - 케임브리지 지역 대상
-  - **[BBC One 이스트미들랜즈](https://ko.wikipedia.org/wiki/BBC_이스트미들랜즈 "wikilink")**
+  - **[BBC One 이스트미들랜즈](../Page/BBC_이스트미들랜즈.md "wikilink")**
   - **[BBC One 런던](https://ko.wikipedia.org/wiki/BBC_런던 "wikilink")**
-  - **[BBC One 노스이스트 컴브리아](https://ko.wikipedia.org/wiki/BBC_노스이스트_컴브리아 "wikilink")**
-  - **[BBC One 노스웨스트](https://ko.wikipedia.org/wiki/BBC_노스웨스트 "wikilink")**
+  - **[BBC One 노스이스트 컴브리아](../Page/BBC_노스이스트_컴브리아.md "wikilink")**
+  - **[BBC One 노스웨스트](../Page/BBC_노스웨스트.md "wikilink")**
   - **[BBC One 사우스](https://ko.wikipedia.org/wiki/BBC_One "wikilink")**
       - [BBC 옥스퍼드](https://ko.wikipedia.org/wiki/BBC_옥스퍼드 "wikilink") - 옥스퍼드와 주변 지역 대상 한정.
-  - **[BBC 사우스이스트](https://ko.wikipedia.org/wiki/BBC_사우스이스트 "wikilink")**
-  - **[BBC 사우스웨스트](https://ko.wikipedia.org/wiki/BBC_사우스웨스트 "wikilink")**
+  - **[BBC 사우스이스트](../Page/BBC_사우스이스트.md "wikilink")**
+  - **[BBC 사우스웨스트](../Page/BBC_사우스웨스트.md "wikilink")**
       - [BBC 채널 아일랜즈](https://ko.wikipedia.org/wiki/BBC_채널_아일랜즈 "wikilink") - 채널 제도 대상
   - **[BBC One 웨스트](https://ko.wikipedia.org/wiki/BBC_웨스트 "wikilink")**
   - **[BBC One 웨스트미들랜즈](https://ko.wikipedia.org/wiki/BBC_웨스트미들랜즈 "wikilink")**

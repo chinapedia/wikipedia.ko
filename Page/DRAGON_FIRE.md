@@ -5,7 +5,7 @@
 
 ## 개요
 
-  - 첫 단독 원맨 라이브 《내일은 FridayParty\!\!》()에서 보였다. 라이브 영상은 《[ATTACK](https://ko.wikipedia.org/wiki/ATTACK "wikilink")》의 CD+DVD반에 수록되어있다.
+  - 첫 단독 원맨 라이브 《내일은 FridayParty\!\!》()에서 보였다. 라이브 영상은 《[ATTACK](../Page/ATTACK.md "wikilink")》의 CD+DVD반에 수록되어있다.
   - 악곡 내에서는 [탐탐을](https://ko.wikipedia.org/wiki/톰톰 "wikilink") 사용하고 있다. 또 라이브 등에서는 [이토 치아키가](https://ko.wikipedia.org/wiki/이토_치아키 "wikilink") 실제로 치는 게 많다.
 
 ## 수록내용

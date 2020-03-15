@@ -73,7 +73,7 @@ msg:
 ## 같이 보기
 
   - [GNU 툴체인](https://ko.wikipedia.org/wiki/GNU_툴체인 "wikilink")
-  - [바이너리 파일 디스크립터 라이브러리](https://ko.wikipedia.org/wiki/바이너리_파일_디스크립터_라이브러리 "wikilink")
+  - [바이너리 파일 디스크립터 라이브러리](../Page/바이너리_파일_디스크립터_라이브러리.md "wikilink")
 
 ## 각주
 

@@ -1893,13 +1893,13 @@
 
   - 8월 7일 (875회) - **[여자친구](../Page/여자친구_\(음악_그룹\).md "wikilink") 너 그리고 나 (3주 연속)**
   - 8월 14일 (876회) - [현아](https://ko.wikipedia.org/wiki/현아 "wikilink") 어때
-  - 8월 21일 (877회) - [블랙핑크](https://ko.wikipedia.org/wiki/블랙핑크 "wikilink") 휘파람
+  - 8월 21일 (877회) - [블랙핑크](../Page/블랙핑크.md "wikilink") 휘파람
   - 8월 28일 (878회) - [EXO](https://ko.wikipedia.org/wiki/EXO "wikilink") LOTTO
 
 **9월**
 
   - 9월 4일 (879회) - [EXO](https://ko.wikipedia.org/wiki/EXO "wikilink") LOTTO (2주 연속)
-  - 9월 11일 (880회) - [블랙핑크](https://ko.wikipedia.org/wiki/블랙핑크 "wikilink") 휘파람 (통산 2주)
+  - 9월 11일 (880회) - [블랙핑크](../Page/블랙핑크.md "wikilink") 휘파람 (통산 2주)
   - 9월 18일 - [임창정](https://ko.wikipedia.org/wiki/임창정 "wikilink") 내가 저지른 사랑\[91\]
   - 9월 25일 (881회) - [레드벨벳](../Page/레드벨벳_\(음악_그룹\).md "wikilink") Russian Roulette
 
@@ -1916,11 +1916,11 @@
   - 11월 6일 (887회) - [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") TT
   - 11월 13일 (888회) - [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") TT (2주 연속)
   - 11월 20일 (889회) - **[트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") TT (3주 연속)**
-  - 11월 27일 (890회) - [블랙핑크](https://ko.wikipedia.org/wiki/블랙핑크 "wikilink") 불장난
+  - 11월 27일 (890회) - [블랙핑크](../Page/블랙핑크.md "wikilink") 불장난
 
 **12월**
 
-  - 12월 4일 (891회) - [블랙핑크](https://ko.wikipedia.org/wiki/블랙핑크 "wikilink") 불장난 (2주 연속)
+  - 12월 4일 (891회) - [블랙핑크](../Page/블랙핑크.md "wikilink") 불장난 (2주 연속)
   - 12월 11일 (892회) - [지코](https://ko.wikipedia.org/wiki/지코 "wikilink") BERMUDA TRIANGLE
   - 12월 18일 (893회) - [헤이즈](https://ko.wikipedia.org/wiki/헤이즈 "wikilink") 저 별
   - 12월 25일 - [빅뱅](https://ko.wikipedia.org/wiki/빅뱅_\(음악_그룹\) "wikilink") 에라 모르겠다\[94\]
@@ -1973,9 +1973,9 @@
 
 **7월**
 
-  - 7월 2일 (917회) - [블랙핑크](https://ko.wikipedia.org/wiki/블랙핑크 "wikilink") 마지막처럼
-  - 7월 9일 (918회) - [블랙핑크](https://ko.wikipedia.org/wiki/블랙핑크 "wikilink") 마지막처럼 (2주 연속)
-  - 7월 16일 (919회) - **[블랙핑크](https://ko.wikipedia.org/wiki/블랙핑크 "wikilink") 마지막처럼 (3주 연속)**
+  - 7월 2일 (917회) - [블랙핑크](../Page/블랙핑크.md "wikilink") 마지막처럼
+  - 7월 9일 (918회) - [블랙핑크](../Page/블랙핑크.md "wikilink") 마지막처럼 (2주 연속)
+  - 7월 16일 (919회) - **[블랙핑크](../Page/블랙핑크.md "wikilink") 마지막처럼 (3주 연속)**
   - 7월 23일 (920회) - [레드벨벳](../Page/레드벨벳_\(음악_그룹\).md "wikilink") 빨간 맛
   - 7월 30일 (921회) - [EXO](https://ko.wikipedia.org/wiki/EXO "wikilink") Ko Ko Bop
 
@@ -2059,12 +2059,12 @@
   - 6월 3일 (960회) - [방탄소년단](../Page/방탄소년단.md "wikilink") Fake Love (2주 연속)
   - 6월 10일 (961회) - **[방탄소년단](../Page/방탄소년단.md "wikilink") Fake Love (3주 연속)**
   - 6월 17일 (962회) - [볼빨간사춘기](https://ko.wikipedia.org/wiki/볼빨간사춘기 "wikilink") 여행
-  - 6월 24일 (963회) - [블랙핑크](https://ko.wikipedia.org/wiki/블랙핑크 "wikilink") 뚜두뚜두
+  - 6월 24일 (963회) - [블랙핑크](../Page/블랙핑크.md "wikilink") 뚜두뚜두
 
 **7월**
 
-  - 7월 1일 (964회) - [블랙핑크](https://ko.wikipedia.org/wiki/블랙핑크 "wikilink") 뚜두뚜두 (2주 연속)
-  - 7월 8일 (965회) - **[블랙핑크](https://ko.wikipedia.org/wiki/블랙핑크 "wikilink") 뚜두뚜두 (3주 연속)**
+  - 7월 1일 (964회) - [블랙핑크](../Page/블랙핑크.md "wikilink") 뚜두뚜두 (2주 연속)
+  - 7월 8일 (965회) - **[블랙핑크](../Page/블랙핑크.md "wikilink") 뚜두뚜두 (3주 연속)**
   - 7월 15일 (966회) - [에이핑크](https://ko.wikipedia.org/wiki/에이핑크 "wikilink") 1도 없어
   - 7월 22일 (967회) - [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") Dance the night away
   - 7월 29일 (968회) - [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") Dance the night away (2주 연속)
@@ -2096,13 +2096,13 @@
   - 11월 4일 - **[아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink") 삐삐 (3주 연속)**\[106\]
   - 11월 11일 (981회) - [폴 킴](https://ko.wikipedia.org/wiki/폴_킴_\(1988년\) "wikilink") 너를 만나
   - 11월 18일 - [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") Yes Or Yes\[107\]
-  - 11월 25일 (982회) - [제니](https://ko.wikipedia.org/wiki/제니_\(1996년_1월\) "wikilink") SOLO
+  - 11월 25일 (982회) - [제니](../Page/제니_\(1996년_1월\).md "wikilink") SOLO
 
 **12월**
 
-  - 12월 2일 (983회) - [제니](https://ko.wikipedia.org/wiki/제니_\(1996년_1월\) "wikilink") SOLO (2주 연속)
+  - 12월 2일 (983회) - [제니](../Page/제니_\(1996년_1월\).md "wikilink") SOLO (2주 연속)
   - 12월 9일 (984회) - [송민호](../Page/송민호.md "wikilink") 아낙네
-  - 12월 16일 (985회) - **[제니](https://ko.wikipedia.org/wiki/제니_\(1996년_1월\) "wikilink") SOLO (통산 3주)**
+  - 12월 16일 (985회) - **[제니](../Page/제니_\(1996년_1월\).md "wikilink") SOLO (통산 3주)**
   - 12월 23일 - [벤](../Page/벤_\(대한민국의_가수\).md "wikilink") 180도\[108\]
   - 12월 30일 - [위너](../Page/위너_\(음악_그룹\).md "wikilink") MILLIONS\[109\]
 
@@ -2134,7 +2134,7 @@
 
   - 4월 7일 (998회) - [태연](https://ko.wikipedia.org/wiki/태연 "wikilink") 사계
   - 4월 14일 (999회) - [첸](../Page/첸_\(가수\).md "wikilink") 사월이 지나면 우리 헤어져요
-  - 4월 21일 (1000회 특집) - [블랙핑크](https://ko.wikipedia.org/wiki/블랙핑크 "wikilink") Kill This Love
+  - 4월 21일 (1000회 특집) - [블랙핑크](../Page/블랙핑크.md "wikilink") Kill This Love
   - 4월 28일 (1001회) - [방탄소년단](../Page/방탄소년단.md "wikilink") 작은 것들을 위한 시
 
 **5월**
@@ -2142,7 +2142,7 @@
   - 5월 5일 - [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") FANCY\[111\]
   - 5월 12일 (1002회) - [방탄소년단](../Page/방탄소년단.md "wikilink") 작은 것들을 위한 시 (통산 2주)
   - 5월 19일 (1003회) - **[방탄소년단](../Page/방탄소년단.md "wikilink") 작은 것들을 위한 시 (2주 연속, 통산 3주)**
-  - 5월 26일 (1004회) - [블랙핑크](https://ko.wikipedia.org/wiki/블랙핑크 "wikilink") Kill This Love (통산 2주)
+  - 5월 26일 (1004회) - [블랙핑크](../Page/블랙핑크.md "wikilink") Kill This Love (통산 2주)
 
 **6월**
 
@@ -2252,7 +2252,7 @@
       - 19대: [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") KNOCK KNOCK (2017.03.19)\[124\]
       - 20대: [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink") 팔레트 (2017.05.14)
       - 21대: [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") SIGNAL (2017.06.11)\[125\]
-      - 22대: [블랙핑크](https://ko.wikipedia.org/wiki/블랙핑크 "wikilink") 마지막처럼 (2017.07.16)
+      - 22대: [블랙핑크](../Page/블랙핑크.md "wikilink") 마지막처럼 (2017.07.16)
       - 23대: [선미](https://ko.wikipedia.org/wiki/선미 "wikilink") 가시나 (2017.09.24)
       - 24대: [방탄소년단](../Page/방탄소년단.md "wikilink") DNA (2017.10.15)
       - 25대: [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") LIKEY (2017.11.26)\[126\]
@@ -2262,11 +2262,11 @@
       - 28대: [마마무](../Page/마마무.md "wikilink") 별이 빛나는 밤 (2018.04.01)
       - 29대: [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") What is Love? (2018.05.06)\[128\]
       - 30대: [방탄소년단](../Page/방탄소년단.md "wikilink") Fake Love (2018.06.10)\[129\]
-      - 31대: [블랙핑크](https://ko.wikipedia.org/wiki/블랙핑크 "wikilink") 뚜두뚜두 (2018.07.08)\[130\]
+      - 31대: [블랙핑크](../Page/블랙핑크.md "wikilink") 뚜두뚜두 (2018.07.08)\[130\]
       - 32대: [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") Dance the night away (2018.08.05)\[131\]
       - 33대: [방탄소년단](../Page/방탄소년단.md "wikilink") IDOL (2018.09.16)\[132\]
       - 34대: [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink") 삐삐 (2018.11.04)\[133\]
-      - 35대: [제니](https://ko.wikipedia.org/wiki/제니_\(1996년_1월\) "wikilink") SOLO (2018.12.16)
+      - 35대: [제니](../Page/제니_\(1996년_1월\).md "wikilink") SOLO (2018.12.16)
   - **2019년**
       - 36대: [ITZY](https://ko.wikipedia.org/wiki/ITZY "wikilink") 달라달라 (2019.03.10)
       - 37대: [방탄소년단](../Page/방탄소년단.md "wikilink") 작은 것들을 위한 시 (2019.05.19)\[134\]

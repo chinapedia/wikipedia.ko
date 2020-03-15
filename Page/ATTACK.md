@@ -9,7 +9,7 @@
   - ‘CD+DVD반’ ‘CD ONLY반’ ‘Half Album반’의 세 형태가 발매됐다.
   - 각각의 초회반에는 트레이딩 카드가 총 88종 중에서 1종이 랜덤으로 봉입됐다.
   - ‘CD+DVD반’에는 첫 원맨 이벤트 〈내일은 FridayParty\!\!〉()의 라이브 영상을 수록하고 있다.
-  - 후일에 발매된 《[REMIX ATTACK](https://ko.wikipedia.org/wiki/REMIX_ATTACK "wikilink")》에서 모든 수록곡이 리믹스돼서 수록됐다.
+  - 후일에 발매된 《[REMIX ATTACK](../Page/REMIX_ATTACK.md "wikilink")》에서 모든 수록곡이 리믹스돼서 수록됐다.
 
 ## 수록곡
 
@@ -53,7 +53,7 @@
       -
         신곡
         3명의 여성 멤버에 의한 곡. 각각의 솔로 파트가 나뉘어 있다.
-8.  **[만남의 힘](https://ko.wikipedia.org/wiki/만남의_힘 "wikilink")**() \[5:00\]
+8.  **[만남의 힘](../Page/만남의_힘.md "wikilink")**() \[5:00\]
       - 작사: Kenn Kato / 작곡 · 편곡: face 2 fAKE
     <!-- end list -->
       -

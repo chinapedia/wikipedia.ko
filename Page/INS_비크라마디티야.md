@@ -26,13 +26,13 @@
 ## 인도 해군의 항공모함 전력
 
   - [비크란트급 항공모함](https://ko.wikipedia.org/wiki/비크란트급_항공모함 "wikilink")
-  - [INS 비크라마디티야](https://ko.wikipedia.org/wiki/INS_비크라마디티야 "wikilink")
+  - [INS 비크라마디티야](../Page/INS_비크라마디티야.md "wikilink")
   - [INS 비라트](https://ko.wikipedia.org/wiki/INS_비라트 "wikilink")
 
 ## 같이 보기
 
   - [비크란트급 항공모함](https://ko.wikipedia.org/wiki/비크란트급_항공모함 "wikilink") - 인도의 최초 자국산 항공모함.
-  - [콜카타급 구축함](https://ko.wikipedia.org/wiki/콜카타급_구축함 "wikilink") - 인도 해군의 최대 구축함
+  - [콜카타급 구축함](../Page/콜카타급_구축함.md "wikilink") - 인도 해군의 최대 구축함
   - [EL/M-2248](https://ko.wikipedia.org/wiki/EL/M-2248 "wikilink") - 비크란트급 항공모함에 탑재된 레이다.
 
 ## 참고문헌

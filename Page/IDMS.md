@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [IDMS](https://ko.wikipedia.org/wiki/IDMS).
 
 
-**IDMS**(Integrated Database Management System, 통합 데이터베이스 관리 시스템)는 [메인프레임](https://ko.wikipedia.org/wiki/메인프레임 "wikilink")을 위한 [네트워크](https://ko.wikipedia.org/wiki/네트워크_모델 "wikilink") ([CODASYL](https://ko.wikipedia.org/wiki/CODASYL "wikilink")) [데이터베이스 관리 시스템이다](https://ko.wikipedia.org/wiki/데이터베이스_관리_시스템 "wikilink"). [B.F. 굿리치가](https://ko.wikipedia.org/wiki/굿리치 "wikilink") 처음 개발하였으며, 나중에 컬리난 데이터베이스 시스템스(Cullinane Database Systems, 1983년에는 [컬리넷](https://ko.wikipedia.org/wiki/컬리넷 "wikilink")으로 사명 변경)가 시장에 출시하였다. 1989년 이후로 이 제품은 [CA 테크놀로지스가](https://ko.wikipedia.org/wiki/CA_테크놀로지스 "wikilink") 소유하고 있으며, 어드밴티지 CA-IDMS로 제품명이 바뀌었다가, 나중에는 간단히 **CA IDMS**로 변경되었다.
+**IDMS**(Integrated Database Management System, 통합 데이터베이스 관리 시스템)는 [메인프레임](https://ko.wikipedia.org/wiki/메인프레임 "wikilink")을 위한 [네트워크](../Page/네트워크_모델.md "wikilink") ([CODASYL](../Page/CODASYL.md "wikilink")) [데이터베이스 관리 시스템이다](https://ko.wikipedia.org/wiki/데이터베이스_관리_시스템 "wikilink"). [B.F. 굿리치가](https://ko.wikipedia.org/wiki/굿리치 "wikilink") 처음 개발하였으며, 나중에 컬리난 데이터베이스 시스템스(Cullinane Database Systems, 1983년에는 [컬리넷](https://ko.wikipedia.org/wiki/컬리넷 "wikilink")으로 사명 변경)가 시장에 출시하였다. 1989년 이후로 이 제품은 [CA 테크놀로지스가](../Page/CA_테크놀로지스.md "wikilink") 소유하고 있으며, 어드밴티지 CA-IDMS로 제품명이 바뀌었다가, 나중에는 간단히 **CA IDMS**로 변경되었다.
 
 ## 역사
 

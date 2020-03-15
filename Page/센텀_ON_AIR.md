@@ -28,7 +28,7 @@
   - [KBS 뉴스 9](https://ko.wikipedia.org/wiki/KBS_뉴스_9 "wikilink") ([KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 수중계) ([KBS부산제1라디오](https://ko.wikipedia.org/wiki/KBS_제1라디오 "wikilink"), ([KBS창원 제1라디오](https://ko.wikipedia.org/wiki/KBS_제1라디오 "wikilink"), [KBS진주 제1라디오](https://ko.wikipedia.org/wiki/KBS_제1라디오 "wikilink"), [KBS 제3라디오](https://ko.wikipedia.org/wiki/KBS_제3라디오 "wikilink"))
   - [스포츠 스포츠](https://ko.wikipedia.org/wiki/스포츠_스포츠 "wikilink") ([KBS부산제1라디오](https://ko.wikipedia.org/wiki/KBS_제1라디오 "wikilink"), [KBS창원 제1라디오](https://ko.wikipedia.org/wiki/KBS_제1라디오 "wikilink"), [KBS진주 제1라디오](https://ko.wikipedia.org/wiki/KBS_제1라디오 "wikilink"), [KBS 제3라디오](https://ko.wikipedia.org/wiki/KBS_제3라디오 "wikilink"))
   - [박철의 진지한 라디오](https://ko.wikipedia.org/wiki/박철의_진지한_라디오 "wikilink") ([KBS부산제2라디오](https://ko.wikipedia.org/wiki/KBS_제2라디오 "wikilink"), [KBS창원 제2라디오](https://ko.wikipedia.org/wiki/KBS_제2라디오 "wikilink"))
-  - [원더풀 라디오 김태원입니다](https://ko.wikipedia.org/wiki/원더풀_라디오_김태원입니다 "wikilink") (월\~금 20:10\~22:00) ([부산MBC 표준FM](https://ko.wikipedia.org/wiki/부산문화방송 "wikilink"), [MBC 경남 표준FM](https://ko.wikipedia.org/wiki/MBC경남 "wikilink"))
+  - [원더풀 라디오 김태원입니다](../Page/원더풀_라디오_김태원입니다.md "wikilink") (월\~금 20:10\~22:00) ([부산MBC 표준FM](https://ko.wikipedia.org/wiki/부산문화방송 "wikilink"), [MBC 경남 표준FM](https://ko.wikipedia.org/wiki/MBC경남 "wikilink"))
   - [이윤석, 신봉선의 좋은 주말](https://ko.wikipedia.org/wiki/좋은_주말 "wikilink") (토\~일 18:05 \~ 22:00) ([부산MBC 표준FM](https://ko.wikipedia.org/wiki/부산문화방송 "wikilink"), [MBC 경남 표준FM](https://ko.wikipedia.org/wiki/MBC경남 "wikilink"))
   - [달고 오묘한 그 말씀](https://ko.wikipedia.org/wiki/달고_오묘한_그_말씀 "wikilink") (월 \~ 토) ([부산CBS 표준FM](https://ko.wikipedia.org/wiki/CBS_표준FM "wikilink"), [경남CBS 표준FM](https://ko.wikipedia.org/wiki/CBS_표준FM "wikilink"))
   - [5분 메시지](https://ko.wikipedia.org/wiki/5분_메시지 "wikilink") (월\~토) ([부산CBS 표준FM](https://ko.wikipedia.org/wiki/CBS_표준FM "wikilink"), [경남CBS 표준FM](https://ko.wikipedia.org/wiki/CBS_표준FM "wikilink"))
@@ -40,7 +40,7 @@
 
   - [FM 실황음악](https://ko.wikipedia.org/wiki/FM_실황음악 "wikilink") (월\~금 20:00 \~ 21:30, 토\~일 20:00 \~ 22:00), [정다운 가곡](https://ko.wikipedia.org/wiki/정다운_가곡 "wikilink") (월\~금 21:30\~22:00) ([KBS부산FM방송](https://ko.wikipedia.org/wiki/KBS부산방송총국 "wikilink"), [KBS창원 FM방송](https://ko.wikipedia.org/wiki/KBS창원방송총국 "wikilink"))
   - [정유미의 FM 데이트](../Page/FM_데이트.md "wikilink") ([부산MBC FM4U](https://ko.wikipedia.org/wiki/부산문화방송 "wikilink"), [MBC경남 FM4U](https://ko.wikipedia.org/wiki/MBC경남 "wikilink"))
-  - [장원일의 음악본색](https://ko.wikipedia.org/wiki/음악본색 "wikilink") ([KNN 파워FM](https://ko.wikipedia.org/wiki/KNN_파워FM "wikilink"))
+  - [장원일의 음악본색](../Page/음악본색.md "wikilink") ([KNN 파워FM](https://ko.wikipedia.org/wiki/KNN_파워FM "wikilink"))
   - 김도향의 명동연가 ([CPBC 부산가톨릭평화방송](https://ko.wikipedia.org/wiki/가톨릭평화방송 "wikilink"))
   - 주병선의 추억의 음악다방 ([부산불교방송](https://ko.wikipedia.org/wiki/부산불교방송 "wikilink"))
   - [김현주의 행복한 동행](https://ko.wikipedia.org/wiki/행복한_동행_\(라디오_프로그램\) "wikilink") ([부산CBS 음악FM](https://ko.wikipedia.org/wiki/CBS_음악FM "wikilink"))

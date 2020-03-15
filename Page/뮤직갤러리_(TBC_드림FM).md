@@ -41,7 +41,7 @@
   - [와이파이 삼국지](https://ko.wikipedia.org/wiki/와이파이_삼국지 "wikilink") (평일) ([KBS대구 제1라디오](https://ko.wikipedia.org/wiki/KBS대구방송총국 "wikilink")), ([KBS안동 제1라디오](https://ko.wikipedia.org/wiki/KBS안동방송국 "wikilink")), ([KBS포항 제1라디오](https://ko.wikipedia.org/wiki/KBS포항방송국 "wikilink"))
   - [경제세미나](https://ko.wikipedia.org/wiki/경제세미나 "wikilink") (토요일) ([KBS대구 제1라디오](https://ko.wikipedia.org/wiki/KBS대구방송총국 "wikilink")), ([KBS안동 제1라디오](https://ko.wikipedia.org/wiki/KBS안동방송국 "wikilink")), ([KBS포항 제1라디오](https://ko.wikipedia.org/wiki/KBS포항방송국 "wikilink"))
   - [와이파이 삼국지 스페셜](https://ko.wikipedia.org/wiki/와이파이_삼국지 "wikilink") (일요일) ([KBS대구 제1라디오](https://ko.wikipedia.org/wiki/KBS대구방송총국 "wikilink")), ([KBS안동 제1라디오](https://ko.wikipedia.org/wiki/KBS안동방송국 "wikilink")), ([KBS포항 제1라디오](https://ko.wikipedia.org/wiki/KBS포항방송국 "wikilink"))
-  - [음악과 음악사이](https://ko.wikipedia.org/wiki/음악과_음악사이 "wikilink") ([KBS대구 해피FM](https://ko.wikipedia.org/wiki/KBS대구방송총국 "wikilink"))
+  - [음악과 음악사이](../Page/음악과_음악사이.md "wikilink") ([KBS대구 해피FM](https://ko.wikipedia.org/wiki/KBS대구방송총국 "wikilink"))
   - [모두의 퀴즈생활 서유리입니다](https://ko.wikipedia.org/wiki/모두의_퀴즈생활 "wikilink") (평일) ([대구MBC 표준FM](https://ko.wikipedia.org/wiki/대구문화방송 "wikilink")), ([안동MBC 표준FM](https://ko.wikipedia.org/wiki/안동문화방송 "wikilink")), ([포항MBC 표준FM](https://ko.wikipedia.org/wiki/포항문화방송 "wikilink"))
   - [이명희의 랄랄라](../Page/이명희의_랄랄라.md "wikilink") ([대구CBS 표준FM](https://ko.wikipedia.org/wiki/기독교대구방송 "wikilink"))
   - 소망의 소리 (일요일) ([대구CBS 표준FM](https://ko.wikipedia.org/wiki/기독교대구방송 "wikilink"))

@@ -5,7 +5,7 @@
 
 ## 개요
 
-  - 초회생산반에는 《[REMIX ATTACK](https://ko.wikipedia.org/wiki/REMIX_ATTACK "wikilink")》의 벰버별 CM에 각각 수록되어있다.
+  - 초회생산반에는 《[REMIX ATTACK](../Page/REMIX_ATTACK.md "wikilink")》의 벰버별 CM에 각각 수록되어있다.
 
 ## 수록내용
 

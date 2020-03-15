@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BBC ](https://ko.wikipedia.org/wiki/BBC_).
 
 
-[오른쪽](https://ko.wikipedia.org/wiki/파일:BBC_Region_East_Midlands_logo.svg "wikilink") **BBC 이스트미들랜즈** (BBC East Midlands)는 [더비셔 주](https://ko.wikipedia.org/wiki/더비셔_주 "wikilink") ([하이피크](https://ko.wikipedia.org/wiki/하이피크_\(더비셔_주\) "wikilink"), [노스이스트더비셔 주](https://ko.wikipedia.org/wiki/노스이스트더비셔_주 "wikilink"), [더비셔데일스 구](https://ko.wikipedia.org/wiki/더비셔데일스_구 "wikilink") 제외), [레스터셔 주](https://ko.wikipedia.org/wiki/레스터셔_주 "wikilink"), [노팅엄셔 주](https://ko.wikipedia.org/wiki/노팅엄셔_주 "wikilink") ([바셋로](https://ko.wikipedia.org/wiki/바셋로 "wikilink") 제외), [링컨셔 주의](https://ko.wikipedia.org/wiki/링컨셔_주 "wikilink") [러틀랜드 구와](https://ko.wikipedia.org/wiki/러틀랜드_구 "wikilink") [사우스케스트이븐 구를](https://ko.wikipedia.org/wiki/사우스케스트이븐_구 "wikilink") 대상으로 한 [잉글랜드 지방 방송이다](https://ko.wikipedia.org/wiki/BBC_잉글리시_리전스 "wikilink").
+[오른쪽](https://ko.wikipedia.org/wiki/파일:BBC_Region_East_Midlands_logo.svg "wikilink") **BBC 이스트미들랜즈** (BBC East Midlands)는 [더비셔 주](https://ko.wikipedia.org/wiki/더비셔_주 "wikilink") ([하이피크](https://ko.wikipedia.org/wiki/하이피크_\(더비셔_주\) "wikilink"), [노스이스트더비셔 주](https://ko.wikipedia.org/wiki/노스이스트더비셔_주 "wikilink"), [더비셔데일스 구](https://ko.wikipedia.org/wiki/더비셔데일스_구 "wikilink") 제외), [레스터셔 주](https://ko.wikipedia.org/wiki/레스터셔_주 "wikilink"), [노팅엄셔 주](https://ko.wikipedia.org/wiki/노팅엄셔_주 "wikilink") ([바셋로](https://ko.wikipedia.org/wiki/바셋로 "wikilink") 제외), [링컨셔 주의](https://ko.wikipedia.org/wiki/링컨셔_주 "wikilink") [러틀랜드 구와](https://ko.wikipedia.org/wiki/러틀랜드_구 "wikilink") [사우스케스트이븐 구를](https://ko.wikipedia.org/wiki/사우스케스트이븐_구 "wikilink") 대상으로 한 [잉글랜드 지방 방송이다](../Page/BBC_잉글리시_리전스.md "wikilink").
 
 ## 방송
 
@@ -51,7 +51,7 @@ BBC 이스트미들랜즈는 총괄본부와 더불어, [더비](https://ko.wiki
 
 ## 더 보기
 
-  - [BBC 잉글리시 리전스](https://ko.wikipedia.org/wiki/BBC_잉글리시_리전스 "wikilink")
+  - [BBC 잉글리시 리전스](../Page/BBC_잉글리시_리전스.md "wikilink")
 
 ## 각주
 

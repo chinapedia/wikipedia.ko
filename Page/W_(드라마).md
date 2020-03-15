@@ -26,7 +26,7 @@
 
   - [김의성](https://ko.wikipedia.org/wiki/김의성 "wikilink") : 오성무(62세) 역 - 연주의 아버지, 인기 웹툰 'W' 연재, 유명 만화가
   - [이시언](https://ko.wikipedia.org/wiki/이시언_\(배우\) "wikilink") : 박수봉(27세) 역 - 성무의 문하생
-  - [남기애](https://ko.wikipedia.org/wiki/남기애 "wikilink") : 길수선(54세) 역 - 연주의 어머니
+  - [남기애](../Page/남기애.md "wikilink") : 길수선(54세) 역 - 연주의 어머니
   - [허정도](../Page/허정도.md "wikilink") : 박민수(42세) 역 - 명세병원 흉부외과 전문의, 교수
   - [강기영](../Page/강기영_\(배우\).md "wikilink") : 강석범(30세) 역 - 명세병원 흉부외과 레지던트 2년차
   - [이세랑](../Page/이세랑.md "wikilink") : 길수영(49세) 역 - 연주의 이모
@@ -40,7 +40,7 @@
   - [리민](https://ko.wikipedia.org/wiki/리민_\(배우\) "wikilink") : 박 팀장 역 - 오연주의 세계
   - [서광재](https://ko.wikipedia.org/wiki/서광재 "wikilink")
   - [양승걸](../Page/양승걸.md "wikilink")
-  - [설지윤](https://ko.wikipedia.org/wiki/설지윤 "wikilink")
+  - [설지윤](../Page/설지윤.md "wikilink")
   - [박건률](https://ko.wikipedia.org/wiki/박건률 "wikilink")
   - [이윤상](https://ko.wikipedia.org/wiki/이윤상_\(배우\) "wikilink")
   - [여운복](https://ko.wikipedia.org/wiki/여운복 "wikilink")
@@ -51,8 +51,8 @@
   - [김광현](../Page/김광현_\(1971년\).md "wikilink")
   - [민준호](https://ko.wikipedia.org/wiki/민준호 "wikilink")
   - [유필란](https://ko.wikipedia.org/wiki/유필란 "wikilink")
-  - [박선웅](https://ko.wikipedia.org/wiki/박선웅 "wikilink")
-  - [장문석](https://ko.wikipedia.org/wiki/장문석_\(배우\) "wikilink")
+  - [박선웅](../Page/박선웅.md "wikilink")
+  - [장문석](../Page/장문석_\(배우\).md "wikilink")
   - [천예원](../Page/천예원.md "wikilink")
   - [박건락](../Page/박건락.md "wikilink")
   - [조성희](https://ko.wikipedia.org/wiki/조성희 "wikilink")
@@ -76,7 +76,7 @@
   - [박충선](https://ko.wikipedia.org/wiki/박충선 "wikilink") : 강윤 역 - 강철의 아버지 (1회)
   - [김나운](https://ko.wikipedia.org/wiki/김나운 "wikilink") : 윤미호 역 - 강철의 어머니 (1회)
   - [서신애](https://ko.wikipedia.org/wiki/서신애 "wikilink") : 강수연 역 - 강철의 여동생 (1회)
-  - [최민영](https://ko.wikipedia.org/wiki/최민영 "wikilink") : 강준석 역 - 강철의 남동생 (1회)
+  - [최민영](../Page/최민영.md "wikilink") : 강준석 역 - 강철의 남동생 (1회)
   - [황석정](../Page/황석정.md "wikilink") : 웹툰 작가 역 (6회)
   - [안세하](../Page/안세하.md "wikilink") : 김풍호 역 - 오연주의 소개팅남 (6회)
   - [김정근](https://ko.wikipedia.org/wiki/김정근_\(아나운서\) "wikilink") : 앵커 역 (1회, 4회)

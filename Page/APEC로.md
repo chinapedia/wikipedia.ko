@@ -25,7 +25,7 @@
 <tbody>
 <tr class="odd">
 <td><p>올림픽동산삼거리</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/부산광역시도_제4008호선" title="wikilink">부산광역시도 제4008호선</a><br />
+<td><p><a href="../Page/부산광역시도_제4008호선.md" title="wikilink">부산광역시도 제4008호선</a><br />
 (<a href="../Page/수영강변대로.md" title="wikilink">수영강변대로</a>)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/부산광역시" title="wikilink">부산광역시</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/해운대구" title="wikilink">해운대구</a></p></td>

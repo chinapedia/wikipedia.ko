@@ -39,7 +39,7 @@ BBC 노스이스트 컴브리아는 [BBC 레드 버튼에](https://ko.wikipedia.
 
 ### 텔레비전
 
-1957년 9월 BBC가 일일 지역 텔레비전 뉴스 방송을 개시했을 때, 초창기 북부 잉글랜드 전역에서는 맨체스터에서 내보내는 방송 하나로만 만족해야 했다. 같은해 9월 30일에는 짧은 뉴스 단신 프로인 <뉴스 프롬 더 노스>가 현재의 노스웨스트, [요크셔-노스미들랜즈](https://ko.wikipedia.org/wiki/BBC_요크셔 "wikilink"), [이스트요스셔-링컨셔](https://ko.wikipedia.org/wiki/BBC_요크셔_링컨셔 "wikilink"), [노스이스트-컴브리아](https://ko.wikipedia.org/wiki/BBC_노스이스트_컴브리아 "wikilink") 지역에 방송되기 시작했다.
+1957년 9월 BBC가 일일 지역 텔레비전 뉴스 방송을 개시했을 때, 초창기 북부 잉글랜드 전역에서는 맨체스터에서 내보내는 방송 하나로만 만족해야 했다. 같은해 9월 30일에는 짧은 뉴스 단신 프로인 <뉴스 프롬 더 노스>가 현재의 노스웨스트, [요크셔-노스미들랜즈](https://ko.wikipedia.org/wiki/BBC_요크셔 "wikilink"), [이스트요스셔-링컨셔](https://ko.wikipedia.org/wiki/BBC_요크셔_링컨셔 "wikilink"), [노스이스트-컴브리아](../Page/BBC_노스이스트_컴브리아.md "wikilink") 지역에 방송되기 시작했다.
 
 2년 후 노스이스트 컴브리아 지역에 자체 지역 뉴스 단신이 방송되면서, 노스웨스트와 요크셔 링컨셔 지역에도 지역 대상 자체방송에 다시 초점이 모아졌다. 1962년부터는 뉴스 단신 프로그램이 20분짜리 보도 프로그램으로 확대됐고 이름도 <노스 앳 식스>로 바뀌었다. 지금의 노스웨스트 방송권역은 1968년 3월 25일 요크셔, 링컨셔, 노스미들랜즈 지역을 대상으로 한 [리즈](https://ko.wikipedia.org/wiki/리즈 "wikilink")발 별도 \<[룩 노스](https://ko.wikipedia.org/wiki/룩_노스_\(요크셔_노스미들랜즈 "wikilink")\> 프로그램이 시작되면서 첫모습을 갖추게 되었다.
 
@@ -57,7 +57,7 @@ BBC 노스이스트 컴브리아는 [BBC 레드 버튼에](https://ko.wikipedia.
 
 2000년부터는 스튜디오 A에서 정기 프로그램 제작을 하지 않게 되었다. 한편 BBC는 [ITV 그라나다와](https://ko.wikipedia.org/wiki/ITV_그라나다 "wikilink") 함께 공동 방송시설 기업인 [스리식스티미디어](https://ko.wikipedia.org/wiki/스리식스티미디어 "wikilink")를 출범시켜, 양쪽 방송 인력이 BBC의 옥스퍼드 로드 스튜디오와 [그라나다의 쿼이 스트리트 복합단지의](https://ko.wikipedia.org/wiki/맨체스터_스튜디오 "wikilink") 스튜디오 장비들을 공유해 사용할 수 있도록 했다. 그 결과 스튜디오 A는 2005년 임대 모집 형식으로 다시 문을 열었고 초창기에는 \<[라이프 온 마스](https://ko.wikipedia.org/wiki/라이프_온_마스 "wikilink")\>를 비롯한 드라마 제작용으로 쓰이게 되었다.
 
-2011년 가을 BBC 노스웨스트는 [샐퍼드쿼이스](https://ko.wikipedia.org/wiki/샐퍼드쿼이스 "wikilink")에 자리한 새로운 스튜디오로 자리를 옮겼다. 새 조성단지에는 [BBC 칠드런스](https://ko.wikipedia.org/wiki/CBBC "wikilink"), [BBC 스포츠](https://ko.wikipedia.org/wiki/BBC_스포츠 "wikilink"), [BBC 라디오 5 라이브](https://ko.wikipedia.org/wiki/BBC_라디오_5_라이브 "wikilink"), [BBC 브렉퍼스트](https://ko.wikipedia.org/wiki/BBC_브렉퍼스트 "wikilink"), [BBC 러닝](https://ko.wikipedia.org/wiki/BBC_러닝 "wikilink"), BBC 퓨처미디어를 비롯해 기존에 뉴 브로드캐스팅에 있던 모든 부서들이 입주하게 되었다. 이전 과정에서 기존에 쓰던 뉴 브로드캐스팅 하우스는 2011년 4월 리얼리티 에스테이트 사에 1000만 파운드의 거래금으로 매각됐다.
+2011년 가을 BBC 노스웨스트는 [샐퍼드쿼이스](https://ko.wikipedia.org/wiki/샐퍼드쿼이스 "wikilink")에 자리한 새로운 스튜디오로 자리를 옮겼다. 새 조성단지에는 [BBC 칠드런스](https://ko.wikipedia.org/wiki/CBBC "wikilink"), [BBC 스포츠](../Page/BBC_스포츠.md "wikilink"), [BBC 라디오 5 라이브](https://ko.wikipedia.org/wiki/BBC_라디오_5_라이브 "wikilink"), [BBC 브렉퍼스트](https://ko.wikipedia.org/wiki/BBC_브렉퍼스트 "wikilink"), [BBC 러닝](https://ko.wikipedia.org/wiki/BBC_러닝 "wikilink"), BBC 퓨처미디어를 비롯해 기존에 뉴 브로드캐스팅에 있던 모든 부서들이 입주하게 되었다. 이전 과정에서 기존에 쓰던 뉴 브로드캐스팅 하우스는 2011년 4월 리얼리티 에스테이트 사에 1000만 파운드의 거래금으로 매각됐다.
 
 BBC 노스웨스트는 총괄 본부 외에도 다수의 [로컬 라디오](https://ko.wikipedia.org/wiki/BBC_로컬_라디오 "wikilink") 기지국, [리버풀](https://ko.wikipedia.org/wiki/리버풀 "wikilink")과 [블랙번](https://ko.wikipedia.org/wiki/블랙번 "wikilink")에 보도국 사무소, [체스터](https://ko.wikipedia.org/wiki/체스터 "wikilink")에 지역국을 두고 있다.
 

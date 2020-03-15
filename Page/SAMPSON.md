@@ -36,6 +36,6 @@ SAMPSON 개발은 영국의 다기능 전자주사식 레이다 개발 프로그
 
   - [997식 아티산 레이다](https://ko.wikipedia.org/wiki/997식_아티산_레이다 "wikilink")
   - [OPS-24](https://ko.wikipedia.org/wiki/OPS-24 "wikilink")
-  - [APAR](https://ko.wikipedia.org/wiki/APAR "wikilink")
+  - [APAR](../Page/APAR.md "wikilink")
 
 [분류:군용 레이다](https://ko.wikipedia.org/wiki/분류:군용_레이다 "wikilink")
