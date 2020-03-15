@@ -1,0 +1,215 @@
+> This article is converted from Wikipedia: [  B](https://ko.wikipedia.org/wiki/__B).
+
+
+《**도망자 플랜 B**》는 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [9월 29일부터](https://ko.wikipedia.org/wiki/9월_29일 "wikilink") [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [12월 8일까지](https://ko.wikipedia.org/wiki/12월_8일 "wikilink") 방영된 [KBS 수목 미니시리즈이다](https://ko.wikipedia.org/wiki/한국방송공사_수목드라마 "wikilink").
+
+## 줄거리
+
+천문학적인 돈을 쫓는 사람들이 만나 벌어지는 로맨틱 코믹 액션물
+
+## 등장 인물
+
+### 주요 인물
+
+  - [정지훈](https://ko.wikipedia.org/wiki/비_\(가수\) "wikilink") : 지우 역
+
+<!-- end list -->
+
+  -
+    국제탐정협회 소속 탐정. 하지만 한국에는 탐정이라는 직업이 없기때문에 사설정보관리사라는 직책을 사용한다. 돈과 미녀라면 사족을 못쓰며 100만원짜리 의뢰를 1억원이라 뻥튀기할 정도로 뛰어난 입담도 가졌다. 어느날, 멜기덱이라는 수수께끼 조직에 의해 절친이자 동업자 케빈을 살인했다는 누명을 쓰게되면서 도망자 신세가 된다.
+
+<!-- end list -->
+
+  - [이나영](https://ko.wikipedia.org/wiki/이나영 "wikilink") : 진이 역
+
+<!-- end list -->
+
+  -
+    어느날 지우에게 멜기덱을 찾아달라는 의뢰를 한 묘령의 연인. 그녀가 멜기덱을 쫓는 까닭은 그들이 친부모와 양부모를 비롯한 일가족을 모두 살해했기 때문. 지우에게 의뢰를 했긴 하지만 무슨 이유에서인지 그를 백퍼센트 신뢰하지만은 않는다. 카이와 연인 사이다.
+
+<!-- end list -->
+
+  - [다니엘 헤니](https://ko.wikipedia.org/wiki/다니엘_헤니 "wikilink") : 카이 역
+
+<!-- end list -->
+
+  -
+    진이의 남자친구. 선박업 재벌이라 재력이 무척 뛰어나며 멜기덱을 쫓는 진이를 물심양면으로 돕는다. 하지만 이 과정에서 뭔가를 숨기는듯한 모습을 보여주고 있었고 또 진이와 지우가 가까워지기 시작할 무렵에는 결혼까지 결심한 여자를 깔끔하게 포기한다.
+
+<!-- end list -->
+
+  - [이정진](../Page/이정진.md "wikilink") : 도수 역
+
+<!-- end list -->
+
+  -
+    서울지방경찰청 외사과 형사. 통칭 도반장. 케빈 정 살인용의자로 지우를 추격하지만 번번이 그의 기발한 트릭에 속아넘어가 놓쳤고 이 때문에 승부근성이 발동한다. 하지만 팀의 부패와 내부압력으로 동료들은 중상을 입기 시작했고 아끼던 여후배 윤소란까지 잃는 비극을 당하게 된다.
+
+<!-- end list -->
+
+  - [윤진서](../Page/윤진서.md "wikilink") : 윤소란 역
+
+<!-- end list -->
+
+  -
+    서울지방경찰청 외사과 형사. 강력형사답게 소매치기들을 순식간에 때려눕히는 빼어난 싸움실력과 껄렁함을 가졌다. 도반장을 짝사랑하는지라 날마다 그를 오빠라고 부르며 쫓아다닌다. 극초반에는 계속 윤형사라고만 불리다 17화에서 '소란'이라는 이름이 밝혀진다.
+
+### 서울지방경찰청
+
+  - [데니안](https://ko.wikipedia.org/wiki/데니안 "wikilink") : 백남정 역
+
+<!-- end list -->
+
+  -
+    외사과 팀장. 원래 팀의 막내였지만 재력가 부친의 빽줄로 하루아침에 팀장으로 고속승진을 했고 이후 친형처럼 따르던 도수를 친동생 이상으로 깔보기 시작한다. 하지만 빽줄만 좋을뿐 팀장의 능력은 전혀 없기에 팀원들이 모두 일본으로 해외수사를 떠났을때도 혼자 사무실에 남아 매수당한 오국장에게 휘둘리기만 한다.
+
+<!-- end list -->
+
+  - [남문철](../Page/남문철.md "wikilink") : 오 국장 역
+
+<!-- end list -->
+
+  -
+    외사과 국장. 하지만 양두희에게 매수당한지라 그를 잡으려드는 지우와 진이는 말할것도 없고 나중가서는 도수의 팀 전체를 없애려 들기까지 한다.
+
+<!-- end list -->
+
+  - [김형종](../Page/김형종.md "wikilink") : 김 형사 역
+  - [정승교](../Page/정승교.md "wikilink") : 이 형사 역
+  - [김수현](https://ko.wikipedia.org/wiki/김수현_\(1978년\) "wikilink") : 박 형사 역
+  - [송지은](../Page/송서연.md "wikilink") : 최 반장 역 - 도수의 경찰학교 동기
+
+### 지우의 주변 인물
+
+  - [오지호](../Page/오지호_\(배우\).md "wikilink") : 케빈 정 역
+
+<!-- end list -->
+
+  -
+    지우의 동업자이자 절친한 친구. 한국에서 벌어진 호프집 화재사건때 멜기덱에게 무참하게 살해당했고 이에 사건을 맡은 서울지방경찰청은 이익 배분관계를 지우를 유력한 용의자로 보고 수사를 한다. 평범하게 살던 지우를 도망자 신세로 만든 장본인.
+
+### 카이의 주변 인물
+
+  - [유리엘](../Page/수현_\(배우\).md "wikilink") : 소피 (임 비서) 역
+
+### 국제탐정협회 태평양 아시아지부
+
+  - [조희봉](../Page/조희봉.md "wikilink") : 제임스 봉 역 - 마카오
+  - [성동일](../Page/성동일.md "wikilink") : 나카무라 황 역 - 일본
+  - [공형진](../Page/공형진.md "wikilink") : 장사부 역 - 중국
+
+### 관련 인물
+
+  - [송재호](../Page/송재호.md "wikilink") : 양두희 역
+  - [김응수](../Page/김응수_\(배우\).md "wikilink") : 양영준 역
+  - [조시 호](https://ko.wikipedia.org/wiki/조시_호_\(배우\) "wikilink") : 화이 역
+  - [적룡](../Page/디룽.md "wikilink") : 제너럴 위 역
+  - [윤손하](https://ko.wikipedia.org/wiki/윤손하 "wikilink") : 황미진 역
+  - [다케나카 나오토](https://ko.wikipedia.org/wiki/다케나카_나오토 "wikilink") : 히로키 역 (특별출연, 2회)
+  - [우에하라 다카코](https://ko.wikipedia.org/wiki/우에하라_다카코 "wikilink") : 키에코 역 (특별출연, 2회)
+  - 미상 : 멜기덱 역
+
+### 그 외 인물
+
+  - [곽현화](../Page/곽현화.md "wikilink") : 홍 과장 역
+  - [김광민](https://ko.wikipedia.org/wiki/김광민_\(1982년\) "wikilink") : 김 실장 역
+  - [송용태](../Page/송용태.md "wikilink") : 주지 스님 역
+  - [김준배](../Page/김준배_\(1969년\).md "wikilink") : 이 박사 역
+  - [주아](https://ko.wikipedia.org/wiki/주아 "wikilink") : 수연 역
+  - [김윤태](https://ko.wikipedia.org/wiki/김윤태_\(배우\) "wikilink")
+  - [남문철](../Page/남문철.md "wikilink")
+  - [송시연](https://ko.wikipedia.org/wiki/송시연 "wikilink") : 나카무라 황의 비서 역
+  - [장윤서](../Page/장윤서.md "wikilink") : 후미코 역
+  - [정철규](https://ko.wikipedia.org/wiki/정철규 "wikilink") : 필리핀 보디가드 역
+  - [안석환](../Page/안석환.md "wikilink")
+
+### 특별출연
+
+  - [이다해](../Page/이다해.md "wikilink") : 혜원 역 (1회)
+  - [한정수](../Page/한정수.md "wikilink") : 서울동부경찰서 부정부패 형사 역 (2회)
+  - [이종혁](https://ko.wikipedia.org/wiki/이종혁_\(배우\) "wikilink") : 영사실 통역사 황철호 역 (2회)
+  - [정두홍](../Page/정두홍.md "wikilink") : 괴한 역 (2회)
+  - [조상기](../Page/조상기.md "wikilink") : 구안테로 역 (2회)
+  - [엠블랙](../Page/엠블랙.md "wikilink")
+
+## 시청률
+
+| [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") |
+| ------------------------------------------------------- |
+| 회차                                                      |
+| 대한민국(전국)                                                |
+| 제1회                                                     |
+| 제2회                                                     |
+| 제3회                                                     |
+| 제4회                                                     |
+| 제5회                                                     |
+| 제6회                                                     |
+| 제7회                                                     |
+| 제8회                                                     |
+| 제9회                                                     |
+| 제10회                                                    |
+| 제11회                                                    |
+| 제12회                                                    |
+| 제13회                                                    |
+| 제14회                                                    |
+| 제15회                                                    |
+| 제16회                                                    |
+| 제17회                                                    |
+| 제18회                                                    |
+| 제19회                                                    |
+| 제20회                                                    |
+| 평균 시청률                                                  |
+
+## 사운드 트랙
+
+### Part.1
+
+{{-}}
+
+### 도망자 Plan. B OST
+
+## 수상 경력
+
+  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [KBS 연기대상](../Page/KBS_연기대상.md "wikilink") 남자 조연상 - [성동일](../Page/성동일.md "wikilink")
+
+## 결방 사유
+
+  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [11월 25일](https://ko.wikipedia.org/wiki/11월_25일 "wikilink") : [광저우 아시안 게임](../Page/2010년_아시안_게임.md "wikilink") 중계로 인해 결방
+
+## 참고 사항
+
+  - [정지훈과](https://ko.wikipedia.org/wiki/비_\(가수\) "wikilink") [이나영](https://ko.wikipedia.org/wiki/이나영 "wikilink")은 해당 작품의 출연료 일부를 받지 못해 제작사를 상대로 소송을 제기해야 했다.\[1\]
+  - [전지현](https://ko.wikipedia.org/wiki/전지현 "wikilink")이 진이 역으로 물망에 올랐으나 영화 《[설화와 비밀의 부채](../Page/설화와_비밀의_부채.md "wikilink")》의 막바지 촬영과 겹쳐 고사했다.\[2\]
+
+## 동시간대 드라마
+
+  - **[MBC 수목 미니시리즈](../Page/문화방송_수목_미니시리즈.md "wikilink")**
+
+<!-- end list -->
+
+  -
+    《[장난스런 키스](https://ko.wikipedia.org/wiki/장난스런_키스_\(드라마\) "wikilink")》 (2010년 9월 1일 \~ 2010년 10월 21일)
+    《[즐거운 나의 집](../Page/즐거운_나의_집_\(드라마\).md "wikilink")》 (2010년 10월 27일 \~ 2010년 12월 23일)
+
+<!-- end list -->
+
+  - **[SBS 수목 미니시리즈](../Page/SBS_드라마_스페셜.md "wikilink")**
+
+<!-- end list -->
+
+  -
+    《[내 여자친구는 구미호](../Page/내_여자친구는_구미호.md "wikilink")》 (2010년 8월 11일 \~ 2010년 9월 30일)
+    《[대물](../Page/대물_\(드라마\).md "wikilink")》 (2010년 10월 6일 \~ 2010년 12월 23일)
+
+## 각주
+
+<references/>
+
+## 외부 링크
+
+  -
+  -
+[분류:2010년 드라마](https://ko.wikipedia.org/wiki/분류:2010년_드라마 "wikilink") [분류:한국방송공사 수목드라마](https://ko.wikipedia.org/wiki/분류:한국방송공사_수목드라마 "wikilink") [분류:대한민국의 범죄 드라마](https://ko.wikipedia.org/wiki/분류:대한민국의_범죄_드라마 "wikilink") [분류:2010년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:탐정을 주인공으로 한 작품](https://ko.wikipedia.org/wiki/분류:탐정을_주인공으로_한_작품 "wikilink") [분류:천성일 시나리오 작품](https://ko.wikipedia.org/wiki/분류:천성일_시나리오_작품 "wikilink") [분류:첩보 드라마](https://ko.wikipedia.org/wiki/분류:첩보_드라마 "wikilink")
+
+1.
+2.

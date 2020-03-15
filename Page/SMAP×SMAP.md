@@ -1,0 +1,569 @@
+> This article is converted from Wikipedia: [SMAPSMAP](https://ko.wikipedia.org/wiki/SMAPSMAP).
+
+
+《**SMAP×SMAP**》(, )는 [간사이 TV과](../Page/간사이_TV_방송.md "wikilink") [후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 공동 제작으로, [후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 계열으로 [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") [4월 15일부터](https://ko.wikipedia.org/wiki/4월_15일 "wikilink") 매주 [월요일](https://ko.wikipedia.org/wiki/월요일 "wikilink") 22:00 - 22:54 (JST)에 방송되었던 [일본](../Page/일본.md "wikilink")의 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") 그룹 [SMAP](https://ko.wikipedia.org/wiki/SMAP "wikilink")의 대표적인 레귤러 버라이어티 프로그램이다. [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [4월 17일에는](https://ko.wikipedia.org/wiki/4월_17일 "wikilink") 방송을 시작한지 10주년을 맞이했다. 통칭 〈**"스마스마()"**.〉
+
+## 개요
+
+전반에는 멤버가 2팀으로 나누어서 게스트가 주문하는 요리를 만드는 코너 〈BISTRO SMAP〉, 후반은 콩트와 노래 코너(메모립 피즈·스마프피즈·스마스매쉬·신곡 소개)등으로 구성되어 있다. 기타 연수회, 멤버들의 특별 기획, 특별편([간사이 TV 방송](../Page/간사이_TV_방송.md "wikilink") 제작), 생방송 스페셜 등이 방송된다. 생방송은 프로그램 초기에 신춘·봄·여름 3회 정도 방송 되었지만, 최근에는 신춘 밖에 방송되지 않았다.
+
+[1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [10월 13일에는](https://ko.wikipedia.org/wiki/10월_13일 "wikilink") 〈'97 오늘 밤은 오사카에서 생방송 SP〉라는 제목을 붙이고 같은 해 [10월 1일에](https://ko.wikipedia.org/wiki/10월_1일 "wikilink") [오사카](https://ko.wikipedia.org/wiki/오사카 "wikilink")의 세이텐만에서 오기마치로 이전한 지 얼마 안된 제작국 KTV 본사 스튜디오에서 이사 기념 생방송을 했다. 이때 게스트는 간사이와 인연이 깊었던 [배우](../Page/배우.md "wikilink") 아카이 히데카즈와 당시 남편이 같은 방송국에 근무하고 있었던 에미코 카미누마였다. 이때 SMAP 전 멤버가 육각형 유리에 그린 거대한 사인이 현재도 사옥 입구에 장식되어 있다.
+
+연말에는 [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") 섣달 그믐날부터 신년까지 특별 생방송과 [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [12월](https://ko.wikipedia.org/wiki/12월 "wikilink")에 2주에 걸친 〈20세기의 스마스마 베스트 30〉, [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [12월 26일에는](https://ko.wikipedia.org/wiki/12월_26일 "wikilink") 〈다시 한번 보고싶은 명장면 리퀘스트 스페셜〉을 방송했다.
+
+스마스마가 방송 시작 할 때 부터 방송된 바로 전 시간대의 드라마 〈[롱 베케이션](../Page/롱_베케이션.md "wikilink")〉이 높은 시청률을 자랑해 그 다음 방송시간대의 스마스마가 방송 시작부터 높은 시청률은 연발하여, 당시 25% 전후를 계속 지켜나간 엄청난 프로그램이다. 어린이 층부터 40대까지 여성을 중심으로 폭넓은 지지을 얻어가 현재에도 20% 전후의 시청률을 기록하고 있다. 그 때문에 제작진들도 숙련된 스태프를 쓰고 있다. 그러나 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [8월](https://ko.wikipedia.org/wiki/8월 "wikilink") 상순에는 [베이징 올림픽의](https://ko.wikipedia.org/wiki/베이징_올림픽 "wikilink") 영향으로 시청률이 15%이하로 폭락한 때도 있었지만, 그 다음에는 15% 이상으로 회복하였다.
+
+콩트에는 SMAP 외에도 배우 등 게스트와 함께하는 것이 대부분이지만 코미디언과 공연하는 일은 비교적 적다. 지금까지 [자니즈 사무소](https://ko.wikipedia.org/wiki/자니즈_사무소 "wikilink") 소속 아이돌이 콩트를 해온 예도 있지만, 코미디언의 힘을 빌리지 않고 공연하는 쟈니즈 아이돌의 콩트라는 것은 역사적으로도 매우 드문일이라고 볼 수 있다. 현재 골든 타임 중에서 콩트를 실시한 프로그램으로는 이 프로그램 외에 《메차메차 이케테루》나 《하네루노토비라》이 있다. 예전에는 사이가 나쁜 것은 아니지만, [TOKIO](https://ko.wikipedia.org/wiki/TOKIO "wikilink")나 [KAT-TUN](../Page/KAT-TUN.md "wikilink") 등의 같은 사무소의 후배 탤런트 등을 일절 출선 시키지 않는 입장을 취하였다. 그러나 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [9월 17일](https://ko.wikipedia.org/wiki/9월_17일 "wikilink") 방송에는 출연 드라마 홍보를 겸해 [이쿠타 토마가](https://ko.wikipedia.org/wiki/이쿠타_토마 "wikilink") 출연했다. 이후에도 [킨키 키즈](https://ko.wikipedia.org/wiki/킨키_키즈 "wikilink"), [야마시타 토모히사](../Page/야마시타_토모히사.md "wikilink") 등이 게스트로 연이어 출연했다.
+
+이전 SMAP 멤버가 최면술에 걸린다고 하는 실험을 방송하였는데 방송 종료후 멤버들에게 강요한다는 불평의 전화가 쇄도한 적이 있었다. 또한 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink")에는 광고 방송시에 잠재의식 효과를 일으키는 영상 즉 [서브리미널 광고가](https://ko.wikipedia.org/wiki/서브리미널_광고 "wikilink") 있었다고 일부 주간지가 보도했다. 이에 대해 광고를 전환할 때 나오는 기술상에 일어나는 현상이라고 간사이 TV가 해명했다.
+
+[2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [4월 14일과](https://ko.wikipedia.org/wiki/4월_14일 "wikilink") [4월 21일은](https://ko.wikipedia.org/wiki/4월_21일 "wikilink") 2주 연속으로 2시간 스페셜이 방송되었다. 이것은 [기무라 타쿠야](../Page/기무라_타쿠야.md "wikilink") 주연의 월요일 저녁 9시 드라마 《CHANGE》가 [5월 13일부터](https://ko.wikipedia.org/wiki/5월_13일 "wikilink") 방송 시작하는 것에 의한 특집이다.
+
+프로그램의 최고 시청률은 [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [1월 14일](https://ko.wikipedia.org/wiki/1월_14일 "wikilink"), 불상사로 인해 근신하고 있던 [이나가키 고로가](../Page/이나가키_고로.md "wikilink") 프로그램에 복귀한 회가 간토 지구 34.2%이다.
+
+제작은 [간사이 TV 방송와](../Page/간사이_TV_방송.md "wikilink") [후지 TV이지만](https://ko.wikipedia.org/wiki/후지_TV "wikilink"), 간사이 측은 영업 담당 및 프로그램 전송, 일부 스탭의 지원, CM 내보내기, 스폰서 크레디트 표시, 제공 나레이션이며, 후지 TV 측은 제작 담당과 기획, 녹화, 본편송을 담당하고 있다.
+
+2016년 12월 26일 해체를 앞두고 마지막 방송을 끝으로 SMAP×SMAP 종방을 했다.
+
+## 출연자
+
+### 메인
+
+  - [나카이 마사히로](../Page/나카이_마사히로.md "wikilink")
+  - [기무라 타쿠야](../Page/기무라_타쿠야.md "wikilink")
+  - [이나가키 고로](../Page/이나가키_고로.md "wikilink")
+  - [쿠사나기 츠요시](https://ko.wikipedia.org/wiki/쿠사나기_츠요시 "wikilink")
+  - [카토리 싱고](../Page/카토리_싱고.md "wikilink")
+
+### 준 레귤러 및 다수 출연 연예인
+
+  - 요코하마 메구미
+  - 사이토 요스케
+  - 시바타 리에
+  - 오스기
+  - 피코
+  - 카타오카 츠루타로
+  - 카츠무라 마사노부
+  - YOU
+  - 사쿠라이 쥰코
+  - 이토 유코
+  - 토다 케이코
+  - 콘도 요시마사
+  - 나마세 카츠히사
+  - 아노네노네
+  - 시라이시 미호
+  - 다나카 요지
+  - 쿠사노 히토시
+  - 카리나 외
+
+## 방송 시간
+
+  - 동시 방송
+
+<!-- end list -->
+
+  - [간사이 TV 방송](../Page/간사이_TV_방송.md "wikilink"), [후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 계열 26개 방송국 매주 [월요일](https://ko.wikipedia.org/wiki/월요일 "wikilink") 저녁 10시 \~ 10시 54분
+      - 단, 후쿠시마 TV에서는 최초 1년 동안 기다리는 시간으로 방송되었다. 또, 후쿠이 TV도 최초 반 년간은 시차 방송이었지만, 특별 프로그램으로서 동시 방송이 매우 호평이 커서, 방송 개시 불과 반 년 만에 동시 방송으로 전환되었다.
+
+<!-- end list -->
+
+  - 시차 방송
+
+<!-- end list -->
+
+  - [아오모리 방송](../Page/아오모리_방송.md "wikilink")(JNN가맹국) 일요일 오후 1시 30분 \~ 2시 25분
+      - 단 아오모리 방송의 경우 [키 스테이션인](https://ko.wikipedia.org/wiki/키_스테이션 "wikilink") [니혼 TV 방송망에서](https://ko.wikipedia.org/wiki/니혼_TV_방송망 "wikilink") 스포츠 중계 방송이 있는 경우 방송 날짜를 [토요일](https://ko.wikipedia.org/wiki/토요일 "wikilink") 오후로 변경된다.
+  - [TV 야마나시](../Page/TV_야마나시.md "wikilink")(JNN가맹국) 토요일 오후 4시 30분 \~ 5시 30분
+  - [TV 야마구치](../Page/TV_야마구치.md "wikilink")(JNN가맹국) 화요일 오후 3시 55분 \~ 4시 50분
+      - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [9월](https://ko.wikipedia.org/wiki/9월 "wikilink")까지는 토요일 저녁 7시 \~ 7시 56분. 키 스테이션의 [TBS의](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink") 동시간대 프로그램이 저녁 7시부터 2시간 특별 프로그램으로 편성이 될 때 그 방송을 연결해야 했기 때문에 방송을 쉬는 경우가 많았다.
+  - [시코쿠 방송](../Page/시코쿠_방송.md "wikilink")(NNN가맹국) 수요일 새벽 0시 29분 \~ 1시 24분
+  - [TV 오이타](../Page/TV_오이타.md "wikilink")(NNN가맹국) 수요일 새벽 0시 29분 \~ 1시 26분
+      - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink")까지는 금요일 저녁 7시. 스페셜 방송 시에는 휴일에 방송하는 일이 있다. 시간대 이동 전에는 월요일 방송분을 15분 확대했을 경우에 과거의 방송의 미방송분이나 재방송을 했었다.
+  - [TV 미야자키](../Page/TV_미야자키.md "wikilink")(FNN·NNN·ANN가맹곡) 일요일 오후 2시 \~ 2시 54분
+      - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [6월](https://ko.wikipedia.org/wiki/6월 "wikilink")까지는 월요일 저녁 7시 \~ 7시 54분
+
+## 비스트로 스맙(BISTRO SMAP)
+
+### 개요
+
+당초에는 멤버 중 요리에 자신있었던 모리 카즈유키 쉐프와 기무라 타쿠야 쉐프가 요리로 대결한다는 컨셉으로 시작되어, 당시에는 〈당신의 추억을 만듭니다〉라는 부제도 있었다. 그러나 시작 직후 모리가 오토레이스 선수가 되기 위해 SMAP를 탈퇴하여, 남은 다섯 명 가운데, 나카이 마사히로 (오너)를 제외한 네 명이 두 팀으로 나누어 요리 대결을 펼치는 방식으로 변화를 꾀한다. 그러나, 이나가키의 불상사로 인해 활동을 자숙하고 있던 시기에는 두 팀으로 나눈 그룹전이 아닌, 네 명중 한 명이 오너가 되어, 세 명이 개인전을 실시하는 방식으로 변화하였다.
+
+이나가키 복귀 이후에도 개인전은 당분간 계속되었고 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [1월](https://ko.wikipedia.org/wiki/1월 "wikilink")이 돼서야 그룹전으로 되돌아갔다. 나카이는 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink")까지 그룹전에 참여했지만, [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink")부터 나카이 오너로 다른 네 명이 요리를 만드는 형식으로 돌아갔다. 돠, [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [2월 6일](https://ko.wikipedia.org/wiki/2월_6일 "wikilink") 방송 시에는 쿠사나기가 인플루엔자에 의한 불참으로 세 명끼리 개인전을 실시하는 기획으로 진행했고, [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [7월 10일](https://ko.wikipedia.org/wiki/7월_10일 "wikilink") 방송 시에는 나카이가 유행성 결막염에 의한 불참으로 나카이 대신 이나가키와 카토리가 오너가 되어 기무라 대 쿠사나기 대결이 되었다. [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [7월 29일](https://ko.wikipedia.org/wiki/7월_29일 "wikilink") ‘FNS 27시간 테레비’에서 하였던 생방송에서는 나카이 오너, 카토리 게스트라는 형태로 쉐프 세 명의 개인전을 실시하였다.
+
+프로그램 초기에는 최초 코너 다음에 방송되었지만, [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink")부터 최초의 코너가 되었다. 다만, 그 후에도 특히 파이\!럿 (PIE\!LOT) 등 콩트 이후에 진행된 적도 있다. 현재 두 팀으로 나누어 진행되는 그룹전에서는 정면을 향해 좌측에는 기무라 타쿠야가 고정으로 나머지 멤버가 팀이나 위치가 바뀌고 있다. 카투리 싱고는 정면을 향해 우측이 된 적이 많다. 정면을 향해 좌측에 기무라 타쿠야가 고정된 이유는 아라이 아키히로 프로듀서가 카메라로 찍었을 때 오른쪽에서 비춘 쪽이 더욱 따뜻하게 나오기 때문에 고정되었다고 기무라는 설명했다.
+
+멤버가 입고 있는 쉐프 의상의 색은 기무라: 빨강, 이나가키: 파랑, 쿠사나기: 노랑, 카토리: 초록, 나카이: 핑크로 고정되어 있다. 이 색깔의 유래는 《꿈이 MORIMORI》의 코너 중 하나인 〈오토마츠군〉의 색에서 유래되었지만, 이나가키가 핑크, 나카이는 파랑이었다. 개인 색깔이 지정되기 이전에는 기무라가 위치한 왼쪽 페어는 반드시 빨강 의상으로, 오른쪽은 이나가키를 포함한 페어 때는 파랑 의상, 카토리와 쿠사나기 페어 때는 노랑 의상이었다.
+
+이 코너에서 만들어진 요리 레시피를 정리한 책이 베스트셀러에 오르는 등 《SMAP×SMAP》라는 프로그램의 얼굴이라고 말 할 수 있는 코너이다.
+
+카토리 이외의 팀의 게스트 시식 시에는 나카이에 의해 게스트가 ‘맛있다’라는 말을 하면, 그 말에 의해 게스트와 연관된 분장이나 연기 등을 펼쳐 1인 쇼트 콩트 일명 〈맛있다 리액션〉을 펼치는 것이 관례이다. 카토리 발언에 의하면 분장에는 20분 정도 소요된다고 한다. 초기에는 게스트가 상대 페어의 요리가 ‘맛있다’는 것에 대해 충격을 보이는 의미가 강했다. 따라서, 카토리 이외의 멤버도 했던 적이 있었다. 처음은 카토리가 근처의 카메라를 향해 모든 리액션을 취하는 것을 시작으로 조미료를 입에 넣는 반응, 스튜디오의 모든 장소에 숨는 반응, 보드에 얼굴을 내미는 반응 그리고 분장으로 이어졌다.
+
+조리 시간은 녹화 시에는 평균 30분 정도이나 가지각색이며, 생방송시에는 조리 시간이 15분으로 한정되어 있다. 코너 나레이션은 [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [8월](https://ko.wikipedia.org/wiki/8월 "wikilink")부터 카와바타 켄지 아나운서가 담당하며 담당 프로듀서는 후지 TV의 요요기 메이토쿠, 핫토리 영양 전문학교의 지도, 푸드 코디네이터 유우키 세츠코의 감수 아래 요리 대결을 진행하고 있다. 또, 이 코너에 한해서는 지상 디지털 방송에서는 〈비스트로 SMAP〉로고 워터 마크를 좌상단에 표시하고 있다.
+
+### 비스트로 킹(KING) 결정전 성적
+
+| 회  | 방송일             | KING                                                          | 게스트                                                                                                                                                                             |
+| -- | --------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1회 | 1996·09·30      | [이나가키 고로](../Page/이나가키_고로.md "wikilink")                      | 시시도 조·사이토 유키·슈우 토미토쿠                                                                                                                                                            |
+| 2회 | 1997・03・24      | [기무라 타쿠야](../Page/기무라_타쿠야.md "wikilink")                      | 기노미 나나·하기와라 나가레·로쿠사부로 미치바                                                                                                                                                       |
+| 3회 | 1997・09・29      | [이나가키 고로](../Page/이나가키_고로.md "wikilink")                      | 미야모토 노부코·이타미 주조·핫토리 유키오                                                                                                                                                         |
+| 4회 | 1998・10・05      | [기무라 타쿠야](../Page/기무라_타쿠야.md "wikilink")                      | 타카노 하나・코바야시 카츠다이                                                                                                                                                                |
+| 5회 | 1999・04・05      | [카토리 싱고](../Page/카토리_싱고.md "wikilink")                        | 하시다 스가코·아카기 하루에·오자키 마사시                                                                                                                                                         |
+| 6회 | 1999・10・04      | [기무라 타쿠야](../Page/기무라_타쿠야.md "wikilink")                      | 치요타이카이·후카다 쿄코·슈 토미테루                                                                                                                                                            |
+| 특별 | 2000・07・09      | [쿠사나기 츠요시](https://ko.wikipedia.org/wiki/쿠사나기_츠요시 "wikilink") | [다나카 마키코](https://ko.wikipedia.org/wiki/다나카_마키코 "wikilink")                                                                                                                     |
+| 7회 | 2002・09・23      | [기무라 타쿠야](../Page/기무라_타쿠야.md "wikilink")                      | 키나시 노리타케·RIKAKO·나카이 키이치                                                                                                                                                         |
+| 8회 | 2004・11・29/12・6 | [이나가키 고로](../Page/이나가키_고로.md "wikilink")                      | KONISHIKI·무사시마루 코요·[W](https://ko.wikipedia.org/wiki/W_\(헬로!_프로젝트\) "wikilink")([카고 아이](../Page/카고_아이.md "wikilink")·[쯔지 노조미](https://ko.wikipedia.org/wiki/쯔지_노조미 "wikilink")) |
+
+## 노래 코너
+
+대부분 프로그램 마지막에는 노래 코너가 있다. 〈더 트리뷰트 송〉(〈최강 가라오케 메들리〉라고도 함), 〈SMA ☆ SMASH〉, 〈S-LIVE〉, 〈스마프 피즈〉, 〈메모립 피즈〉, 〈음악실〉, 〈춤추는 스마프 피즈〉 등의 코너 타이틀로 여러가지 곡을 노래한다.
+
+과거에는 게스트가 참여하는 경우 게스트의 음악을 SMAP가 노래하면 게스트가 등장해서 노래를 부르고, 게스트가 손가락을 꺾으면 SMAP가 등장하고 마지막에는 곡을 게스트와 SMAP가 공동으로 노래를 부르고 광고가 나간다. 그 후에 〈스마프 피즈〉, 〈메모립 피즈〉의 게스트로서 등장한 게스트가 SMAP와 토크를 하는 구성이었지만 최근에는 게스트와 토크 후에 게스트와의 공연이라는 구성이다. 공연은 주로 게스트의 노래 한곡에서 세곡 정도, SMAP의 노래 한 곡정도를 부르는 내용이다.
+
+게스트 없이 SMAP만 노래하는 경우는 시청자가 보내오는 편지를 기본으로 토크(때때로는 프리 토크 형식)를 진행하며 마지막에는 곡 소개로 인해 노래로 이어진다. 이전에는 제공 크레디트 때에 SMAP가 [젠가](https://ko.wikipedia.org/wiki/젠가 "wikilink") 등의 게임을 해 진 사람이 편지를 선택하는 등의 느낌으로 토크를 시작했지만 최근에는 게임을 하지 않고 반드시 나카이가 편지를 읽어서 토크를 시작한다. 매우 바쁜 스케줄 속에서 진행되기 때문에 SMAP 멤버들의 표정들은 딱딱하지만 그때 그 때 멤버의 솔직한 기분을 표현하기 때문에 인기가 많다. 토크 때 BGM은 SMAP 히트곡 재즈 앨범 《Smappies》 시리즈에서 많이 사용되고 있다.
+
+다른 가요 프로그램에서는 함부로 부르지 않는 개인의 솔로곡이나 앨범곡, 커플링곡 등도 공연하기 때문에 팬들에게는 귀중한 코너로 여겨지고 있다. 프로그램의 엔딩에는 [뮤직비디오](https://ko.wikipedia.org/wiki/뮤직비디오 "wikilink")가 방송되는 때도 있지만, 프로그램의 최후라는 것도 있어서인지 엔딩롤로 덮어버린다. 또 달리 방법이 없지만, 뉴스 속보가 뜨는 경우도 있어서 진정한 완전판은 지상파에서는 방영되기 힘들다. 또, 프로그램의 앞이나 도중에 노래나 뮤직비디오가 방송되기도 한다.
+
+〈노래하자\! 아이돌 킥오프〉가 방송될 때는 SMAP 다섯 명으로서의 노래, 토크를 하며 〈룰렛 볼링〉이나 〈물레의 왕국〉, 〈롤링 볼링〉이 방송될 때는 토크는 방송되지 않고 노래만 방송할 때가 많다.
+
+[2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink") 이후에는 게스트와 합동 공연이 큰 폭으로 증가해 SMAP 다섯 명만의 노래나 토크가 줄어 팬들의 불만을 샀다. [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [8월](https://ko.wikipedia.org/wiki/8월 "wikilink") 이후 다시 SMAP 다섯 명의 노래나 토크가 증가했지만, [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink") 이후 SMAP 다섯 명으로 서의 노래, 토크가 다시 줄어 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [5월 7일](https://ko.wikipedia.org/wiki/5월_7일 "wikilink") 이후 같은 해 [12월 17일까지](https://ko.wikipedia.org/wiki/12월_17일 "wikilink") 약 7개월이라는 가장 긴 시간 동안 토크가 없었다. 시청자나 팬들은 SMAP 다섯 명만의 노래나 토크를 기대하는 사람이 대부분으로 〈비스트로나 콩트보다 좋아하는 코너〉라는 말도 있는데 토크가 게스트가 있을 때와 달리 짧게 편집되거나 나카이가 사회만 철저하게 하면서 자신의 의견을 함구하고 멤버들도 나카이에게는 의견을 듣지 않는다는 것에 시청자들의 불만도 많다.
+
+1996년 상반기까지 SMAP 멤버인 모리의 마지막 출연 때 노래 코너에서는 나카이가 진행 역할을 맡았지만 나카이가 눈물을 흘려 말을 할 수 없게 되자, 기무라가 급하게 진행 역할을 했다.
+
+[2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [5월](https://ko.wikipedia.org/wiki/5월 "wikilink")에는 〈Respect 70's〉가 탄생하여, SMAP와 같은 70년대에 태어난 명곡을 SMAP와 합동 공연하는 코너로 게스트와의 토크 뒤에 게스트와의 합동 공연을 방송하는 구성이다. [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [4월에는](https://ko.wikipedia.org/wiki/4월에는 "wikilink") 파생판인 〈Respect 80's〉가 탄생했으며, 2007년 [7월](https://ko.wikipedia.org/wiki/7월 "wikilink")에는 〈Respect 90's〉가 탄생했다.
+
+[2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink")부터 부정기적으로 방송하고 있던 〈메모립 피즈〉는 우선 노래부터 방송하고 그 후에 토크를 방송하는 구성이었지만 최근에는 먼저 토크를 방송한 후 노래를 방송하는 구성이다. 원래는 시청자에게 테마를 받는 코너가 아니었지만, 어느 시기 부터 테마를 받았다. 시청자로부터 받았던 테마는 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink")까지는 SMAP 이외의 아티스트의 곡도 선곡할 수 있는 테마였지만, 3월에 방송한 ‘토이레 페퍼 맨’을 계기로 SMAP의 곡을 한정한 테마만 받게 되었다.
+
+2002년 1월부터 3월까지는 시청자가 제시된 테마에 따라서 SMAP의 곡을 요청해서 요청이 많았던 곡을 노래하는 〈스마리크〉라고 하는 노래 코너가 존재했다.
+
+1.  오리지널 스마일 (オリジナル スマイル) - 아침에 일어나 제일 듣고 싶은 SMAP SONG, [1월 28일](https://ko.wikipedia.org/wiki/1월_28일 "wikilink") 방송
+2.  If You Give Your Heart - 앙케이트에서 BEST3에는 들어가지 않지만 두루두루 BEST10에 들고 싶은 곡, [2월 4일](https://ko.wikipedia.org/wiki/2월_4일 "wikilink") 방송
+3.  샐러리 (セロリ) - 지친 마음을 달래주는 SMAP SONG, [2월 11일](https://ko.wikipedia.org/wiki/2월_11일 "wikilink") 방송
+4.  Can't Stop\!\! -LOVING- - 텔레비전으로 별로 봤던 적은 없지만 부디 보고 싶은 SMAP SONG, [2월 18일](https://ko.wikipedia.org/wiki/2월_18일 "wikilink") 방송
+5.  어떤 좋은 일 (どんないいこと) - 돌아가는 길에 무심코 흥얼거리는 SMAP SONG, [3월 11일](https://ko.wikipedia.org/wiki/3월_11일 "wikilink") 방송
+6.  Five True Love - 안무를 부디 보고 싶은 SMAP SONG, [3월 18일](https://ko.wikipedia.org/wiki/3월_18일 "wikilink") 방송
+
+[2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [10월 25일](https://ko.wikipedia.org/wiki/10월_25일 "wikilink"), [11월 8일](https://ko.wikipedia.org/wiki/11월_8일 "wikilink") \~ [11월 25일에는](https://ko.wikipedia.org/wiki/11월_25일 "wikilink") 다섯 밤 한정 노래 기획 〈Five Night Classicss〉를 방송했다. 이 코너는 현재의 〈메모립 피즈〉와 비슷한 구성으로 단지 다른 것은 단지 한명만 선곡하는 구성이다.
+
+1.  어떤 좋은 일 (どんないいこと) (선곡자는 카토리 싱고, [10월 25일](https://ko.wikipedia.org/wiki/10월_25일 "wikilink") 방송)
+2.  소중함 (たいせつ) (선곡자는 쿠사나기 쯔요시, [11월 8일](https://ko.wikipedia.org/wiki/11월_8일 "wikilink") 방송)
+3.  오리지널 스마일 (オリジナル スマイル) (선곡자는 이나가키 고로, [11월 15일](https://ko.wikipedia.org/wiki/11월_15일 "wikilink") 방송)
+4.  세계에서 하나 뿐인 꽃 (世界に一つだけの花) (선곡자는 기무라 타쿠야, [11월 22일](https://ko.wikipedia.org/wiki/11월_22일 "wikilink") 방송)
+5.  오렌지 (オレンジ) (선곡자는 나카이 마사히로, [11월 29일](../Page/11월_29일.md "wikilink") 방송)
+
+[2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [2월 12일에는](https://ko.wikipedia.org/wiki/2월_12일 "wikilink") 〈SMAP season song〉가 탄생했다. 〈스마리크〉와 비슷한 방식의 코너로 지금까지 부른 곡은 다음과 같다.
+
+1.  오렌지(테마 〈겨울에 듣고 싶은 SMAP SONG〉[2월 12일](https://ko.wikipedia.org/wiki/2월_12일 "wikilink") 방송)
+2.  밤하늘의 저편 (夜空ノムコウ) (테마 〈겨울에 듣고 싶은 SMAP SONG〉[2월 19일](https://ko.wikipedia.org/wiki/2월_19일 "wikilink") 방송)
+3.  오리지널 스마일(테마 〈봄에 듣고 싶은 SMAP SONG〉[3월 5일](https://ko.wikipedia.org/wiki/3월_5일 "wikilink") 방송)
+4.  어떤 좋은 일(테마 〈가을에 듣고 싶은 SMAP SONG〉[10월 15일](https://ko.wikipedia.org/wiki/10월_15일 "wikilink") 방송)
+5.  밤하늘의 저편(테마 〈겨울에 듣고 싶은 SMAP SONG〉[2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [1월 19일](https://ko.wikipedia.org/wiki/1월_19일 "wikilink") 방송)
+6.  눈이 내리기 시작했다 (雪が降ってきた) (테마 〈겨울에 듣고 싶은 SMAP SONG〉[2월 2일](https://ko.wikipedia.org/wiki/2월_2일 "wikilink") 방송)
+
+또 7월 23일에는 〈여름에 듣고 싶은 SMAP SONG〉이라고 제목을 붙여 〈BANG\! BANG\! 바캉스\!〉를 노래했다. 또 12월부터 다음 해인 2008년 3월까지 〈겨울에 듣고 싶은 SMAP SONG〉, 4월부터 6월까지 〈봄에 듣고 싶은 SMAP SONG〉 7월부터 10월까지 〈여름에 듣고 싶은 SMAP SONG〉, 10월에 〈가을에 듣고 싶은 SMAP SONG〉의 리퀘스트를 실시하고 있었지만, 방송되지 않았고, 10월 중순부터 〈겨울에 듣고 싶은 SMAP SONG〉의 리퀘스트를 했다.
+
+## 그 이외의 코너
+
+  - 눈물의 SMAP
+    [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") [4월 15일의](https://ko.wikipedia.org/wiki/4월_15일 "wikilink") 첫회 방송 부터 몇 번이나 하고 있는 코너이다. 멤버 5명이나 게스트가 한 줄로 세워진 의자에 앉아 누가 제일 빨리 눈물을 흘리는가 겨룬다. 모리가 뛰어난 실력을 가지고 있어서, 첫회 방송에는 세판 승부 모두 승리하였다. 심판은 후지 TV 아나운서 요시다 노부오이다.
+
+<!-- end list -->
+
+  - 가요 드라마
+    1996년부터 1998년까지 부정기적으로 하고 있었으며, SMAP의 싱글 타이틀 곡을 소재로 한 미니 드라마이다. 어느정도 드라마가 끝나면 컴퓨터 그래픽으로 무대 의상으로 변화한다. 그리고 세트가 갈라져서 노래의 인트로가 흐른다. 요즘에는 2005년 8월 15일에 방송된 〈SMAP×SMAP 여름방학 특별 기획 SMAP SONG ‘푸른 번개’부터 ‘BANG\! BANG\! 바캉스\!’ 까지 전 16곡 한번에 공개합니다\! 완전 공략 스페셜〉에서 ‘푸른 번개’의 선술집 콩트와 스마로비아에서 사랑을 담아 콩트가 방송되었다.
+
+<!-- end list -->
+
+  - 잘못된 SMAP
+    부정기적으로 오프닝에서 하고 있는 코너이다. 생방송 오프닝과 똑같이 스튜디오 입구에서 BISTRO SMAP의 의상으로 토크하고 있지만 멤버나 뒤의 벽보 어딘가가 평소와 차이가 있거나 멤버 중 누군가가 다른 연예인과 바뀌는 등의 의도적인 실수가 다섯 군데 정도 숨겨져 있다. 틀린 곳은 프로그램 마지막에 발표된다. 나카이는 틀린 적이 없었던 적이 많았지만, 2007년 [12월 24일](https://ko.wikipedia.org/wiki/12월_24일 "wikilink"), 윌스미스와 바뀌었다.
+
+<!-- end list -->
+
+  - 점토의 왕국
+    왕자나 공주가 낸 과제를 SMAP가 점토로 만들지만, 솜씨가 뒤떨어지는 작품은 집사가 해머로 부순다.
+
+<!-- end list -->
+
+  - 도자기의 왕국
+    타카오카 츠루타로의 진행으로 과제에 맞는 도예 작품을 만드는 〈점토의 왕국〉의 자매 기획이다. 그 후 유명인 의뢰자에 맞는 꽃꽃이나 서도 등의 작품을 만들어 내, 그것을 의뢰자에게 평가받는 〈일본 도장〉으로 리뉴얼되었다.
+
+<!-- end list -->
+
+  - 인트로 CCB
+    일본의 과거 인기가수 C-C-B로 패러디한 고로가 등장해서 어떤 히트 곡의 인트로를 입으로 연주하는데 빨리 눌러 답을 맞추는 코너이다. 그러나 거의 맞추지 못하고, 해당 노래의 가수와 고로가 합동 공연하는 부분으로 넘어간다.
+
+<!-- end list -->
+
+  - 당구왕 빌리어드
+    초기에는 SMAP 다섯명에 의한 개인전으로 한 명씩 차례로 치고, 자신의 컬러 볼을 떨어트린 자가 승리한다. 승리한 자는 대결에서 빠져 나가며, 가장 처음 승리한 자는 ‘당구왕’이 된다. 마지막으로 남은 사람은 당구왕이 말한 벌칙을 받게 되는 방식이었다. 현재에는 게스트와 SMAP의 나인 볼 대결로 마지막에 9번 볼을 넣는 자가 ‘당구왕’이 된다. 패자 측은 당구왕이 선고하는 벌칙을 수행한다.
+
+<!-- end list -->
+
+  - 노래하자\! 아이돌 킥오프
+    SMAP의 전신인 ‘스케이트 보이즈’가 출연했던 TV프로그램의 패러디 물이다. 아노네노네의 사회로 〈청춘 학원 1\! 1\! 1\!〉의 코너에서 여러가지 스포츠에 도전한다. 초기에는 다섯 명의 개인전이었으며, 현재는 5명의 협력으로 더블 더치, 치어리딩 등의 연기를 완수해내야 한다. 코너 나레이션은 타구치 히로코가 맡는다. [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [11월 20일](https://ko.wikipedia.org/wiki/11월_20일 "wikilink") 방송에서는 신죠 타케시가 〈츠요츠요〉에서 카메오 출연했다.
+
+<!-- end list -->
+
+  - 룰렛 볼링
+    매회 두 명의 게스트와 SMAP가 나카이의 사회로 3대 3 룰렛 볼링 게임을 한다. 볼링 방식으로 볼을 굴리면, 레인 앞에 회전하고 있는 룰렛 구멍에 볼을 넣는다. 자기 팀 색깔에 있는 숫자를 모두 넣은 팀은 승리한다. 레드 팀은 기무라, 쿠사나기 혹은 카토리, 게스트이며 블루 팀은 이나가키, 카토리 혹은 쿠사나기, 게스트이다.
+    룰
+      - Great Strike: 예고한 숫자에 넣으면, 한번더 투구할 수 있다.
+      - Get: 예고한 숫자에 넣지는 못했지만, 자기 팀 숫자에 넣는다
+      - Present: 아직 남아 있는 상대 팀 숫자에 넣으면 상대 팀의 숫자가 지워진다.
+      - Revenge Ball: 어느 팀이 어느 정도 숫자를 지운 시점에서 등장하며, 각 팀이 투구해서 상대 팀 숫자에 들어가면 그 숫자를 부활하지만, 자기 팀에 들어가도 부활한다.
+    진 팀의 멤버는 이긴 팀 게스트가 가지고 싶은 것을 사주거나 하고 싶다는 것을 해준다.
+
+<!-- end list -->
+
+  - 무빙 스로우(MOVING THROW)
+    SMAP 팀과 게스트 팀이 움직이는 자유투로 대결하는 코너이다. 도전자는 처음에 서있는 마루가 골부터 점점 떨어지는 **사이드 무빙**을 실시한다. 골에서 먼 곳에서 슛을 넣을수록 고득점을 얻게 된다. 다음은 골대가 높아지는 **업 무빙**을 실시하며, 높아 질수록 고득점을 얻게 된다. 마지막으로는 **더블 무빙**으로 사이 무빙과 업 무빙이 동시에 되며, 양 쪽 모두 움직이기 때문에 점수는 두 배이다. 마지막 투구에는 임의로 링을 작게하는 대신에 골을 넣었을 때 점수를 세 배로 늘릴 수 있다.
+
+<!-- end list -->
+
+  - 롤링 볼링
+    매회 두 명의 게스트와 SMAP가 나카이의 사회로 3대 3으로 나눠서 게임을 한다. 교대로 한 명이 한 번씩 굴리며, 턴테이블에 있는 10개의 볼링핀을 모두 넘어트리면, 해당 진지를 쟁취하는 식의 땅따먹기 게임이다. 레드 팀은 기무라와 이나가키 그리고 게스트이며 블루 팀은 카토리와 쿠사나기 그리고 게스트이다.
+    룰
+    턴테이블은 7분할되어 있으며, 각 진지에 각각 10개의 핀이 세워져있다. 먼저 네 진지를 획득한 팀이 승리하게 된다.
+      - Strike: 한 구에 한 진지 10개의 핀을 모두 넘어트리면 그 진지를 획득함과 동시에 한번 더 굴릴 수 있다.
+      - Get: 이미 몇 개의 핀이 쓰러진 상황에서 모든 핀을 넘어트리면 그 진지를 획득할 수 있다.
+      - Golden chance: 상대 팀이 리치(3진지 획득) 상황에서 이미 상대방이 획득하고 있는 진지 중 하나를 선택해 그 진지에 하나의 골든 핀을 놓는다. 골든 핀을 넘어트리면 그 진지는 획득한다. 단, 성공과 실패와 상관없이 각 팀 한번 밖에 도전 할 수 없다.
+
+<!-- end list -->
+
+  - 파이\!럿 (PIE\!LOT)
+    [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [8월 7일에](https://ko.wikipedia.org/wiki/8월_7일 "wikilink") 첫 등장했으며, 〈아나운서 좌충우돌 이야기〉에서 한 기획 중 하나를 본 코너화하였다. 수수께끼 문제가 출제되며 정답을 맞추면 상대편에게 파이가 던져지며, 틀리면 자신이 맞는다. 정답음 다음 곧바로 플레이트로 방어할 수 있다. 도중에 더블(트리플) 어택 문제가 있어서, 정답음이 울기 전에 버튼을 밀거나 시간차 공격, 버튼이 고장난 척할 때도 있다. 최종 문제는 회색의 타크 파이가 세트되어 있다. 때때로 플레이트로 방어 할 수 없는 노 가이드 문제가 되기도 한다. 문제 안에는 〈IQ 사프리〉(IQサプリ)의 사프리 문자를 닮은 문제도 출제된 적도 있다. 코너의 나레이션은 후지 TV 아나운서 후쿠이 켄지나 요시다 노부오가 한다.
+
+<!-- end list -->
+
+  - 할 수 있잖아\!
+    [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [8월 28일에](https://ko.wikipedia.org/wiki/8월_28일 "wikilink") 첫 등장하였다. NHK 교육 TV로 방송되고 있던 《할 수 있을까?》의 패러디 물이다. 〈점토의 왕국〉과 비슷해 100명의 아이들 앞에서 특정 재료를 사용해 공작을 한다. 어린이들의 채점을 통해 1등을 한 작품의 제작자에게는 트로피를 주며, 그 외의 제작자들은 콘타군(한국의 뿡뿡이와 닮은 캐릭터)이 물 속에 밀어버린다.
+
+<!-- end list -->
+
+  - 액터 콜로세움
+    SMAP의 다섯 명이 제비뽑기로 결정된 배역을 가지고 모든 대사를 정확하게 연기할 때까지 끝나지 않는 코너이다. 초기에는 재판소를 무대로 ‘재판관, 검사, 변호사, 피고인, 증인’같은 역할이 많았지만, 후에는 유명 작가에 의한 시나리오도 등장했다.
+
+<!-- end list -->
+
+  - 스마스마 드라마
+    나카이가 주연, 게스트와의 쇼트 드라마이다. 하지만 끝에는 말도 안 되는 엔딩이 세네개 연거푸 이어져 나카이가 심리적으로 무너지고, 동요해버린 나카이가 세트를 파괴하고 최종적으로 연못에 빠진다는 원시적인 희극화이다.
+
+<!-- end list -->
+
+  - 두근두근 미터기 (도키메키 메타)
+    [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [봄](https://ko.wikipedia.org/wiki/봄 "wikilink")부터 시작된 코너로 여러가지 상황 아래 멤버 세 명이 각각 지정된 키워드를 여성 게스트에게 말해서 게스트가 붙이고 있는 심장 박동기를 통해 얼마나 두근거렸는지 겨루는 게임이다. 게스트로 쿠로키 히로미, 이토 미사키, 아사노 유코, 나츠키 마리 등이 참여했다.
+
+<!-- end list -->
+
+  - PETANQUE (페탕크\[1\])
+    [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [11월 12일에](https://ko.wikipedia.org/wiki/11월_12일 "wikilink") 진행된 코너로 두 명의 게스트를 맞이하여 기무라와 카토리가 서로 페탕크 게임으로 승부를 하여, 승리한 팀은 팀장의 탄생년에 만들어진 와인을 마실 수 있다.
+
+<!-- end list -->
+
+  - 세 글자 야부사메 (三文字流鏑馬)
+    매회 두 명의 게스트를 맞이하여 나카이의 사회로 3대 3으로 게임을 하는 코너이다. 처음에 주제를 발표하고, 주제에 맞는 세 글자를 말이 되게 완성하도록, 한 명씩 차례대로 오십음표적에 화살을 발사한다. 세 글자의 말을 완성시킨 팀이 승리한다.
+
+<!-- end list -->
+
+  - 동갑 맞추기 (タメならべ)
+    같은 학년의 연예인의 짝을 맞춘다. 진 팀은 벌칙으로 헬륨 가스를 들이마신 뒤 노래를 부른다. 현재는 유사 기획으로 등장하는 연예인과 동갑의 연예인 세 명중 한 명을 SMAP가 맞추는 〈THE SAME CARD〉라는 코너로 방송되고 있다.
+
+<!-- end list -->
+
+  - 에그 포커
+    ‘갬블은 남자의 미학’이라는 부제가 붙어있다. 초기에 방송되던 코너이다. 게스트가 세 개의 알 중에서 한 개에 사인을 한다. 그 후 알을 섞어 사인이 게스트에게 보이지 않도록 한 후, 사인을 한 알이 어떤 것인지 맞게스트가 맞춘다. 틀린 경우 게스트가 알 한 개를 마시며, 맞힌 경우 멤버가 세 개를 모두 마신다. 딜러는 나카이 (킹), 카토리 (조커), 이나가키 (잭)과 기무라 (스페이드), 쿠사나기 (클로버)의 두 그룹이 있어서, 한 명의 게스트 이 두 그룹과 각각 경기를 펼쳤다. 〈모모타로의 전철 7〉에서는 이 기획을 패러디한 카드가 등장했다.
+
+<!-- end list -->
+
+  - 8초의 벽
+    빠른 말을 8초 이내에 3회에 걸쳐서 말하는 코너이다. 제목은 경우에 따라서 달라지며 자신이 분자하는 캐릭터와 관련된 것이나 힘든 발음이 많이 포함되어 있는 문장이 출제된다. 상반신 알몸에 흰 배경을 무대로 준비된 코너로 방송 당시 프로그램 저 예산 기획으로 텔레비전 잡지에 소개되었다.
+
+<!-- end list -->
+
+  - 유비스마
+    생방송을 할 때에 하는 게임 코너로 유비는 일본어로 손가락을 뜻하며 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 제로 게임과 같다. 엄지를 꺾은 주먹을 오른 손, 왼 손 모두 내민 뒤 게임이 시작된다. 한 명씩 차례대로 ‘유비 스마, ○\!’(○에는 숫자가 들어간다.)라는 말과 동시에 숫자가 다른 사람이 엄지 손가락이 선 개수가 일치하면 승리하는 게임으로 일치하지 않으면 다음 사람에게 숫자를 외칠 권리가 옮겨진다. 일치한 경우 외친 사람은 게임에서 빠지며, 마지막 한 명이 남을 때까지 게임은 계속된다. 처음에는 게스트와 함께하는 단독 기획으로 패자는 벌칙이 있었지만, 이후에는 S-1 그랑프리의 마지막 종목이 되었다.
+
+## 러브 어워드(LOVE AWARD)
+
+1년에 1회 방송되는 특별 프로그램이다. 1년간의 NG나 미공개 영상 등을 방영하여, ‘스마스마를 사랑하는 멤버’, ‘스마스마를 사랑하지 않는 멤버’를 결정하는 프로그램이다. 2005년 부터는 멤버 전원이 자신이 원하는 벌칙을 결정하여, 〈BEST LOVE AWARD〉로 결정된 멤버가 원하는 벌칙을 〈WORST LOVE AWARD〉로 결정된 멤버가 수행하는 방식으로 변경되었다. 2001년과 2006년에는 방송되지 않았다.
+
+| 방송날짜                                                                                                                                                                    | 사회                                         | BEST                                                          | WORST                                      | 벌칙             |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ | ------------------------------------------------------------- | ------------------------------------------ | -------------- |
+| [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") [10월 12일](https://ko.wikipedia.org/wiki/10월_12일 "wikilink")                                                     | 모리모토 타케로                                   | ―                                                             | [나카이 마사히로](../Page/나카이_마사히로.md "wikilink") | 머리에 대형 물풍선이 터짐 |
+| [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [10월 11일](https://ko.wikipedia.org/wiki/10월_11일 "wikilink")                                                     | [이나가키 고로](../Page/이나가키_고로.md "wikilink")   | 발바닥 지압                                                        |                                            |                |
+| [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [10월 23일](https://ko.wikipedia.org/wiki/10월_23일 "wikilink")                                                     | 쿠사노 히토시                                    | [카토리 싱고](../Page/카토리_싱고.md "wikilink")                        | 몹시 매운 라면 먹기                                |                |
+| [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [3월 4](https://ko.wikipedia.org/wiki/3월_4일 "wikilink")·[11일](https://ko.wikipedia.org/wiki/3월_11일 "wikilink")   | [나카이 마사히로](../Page/나카이_마사히로.md "wikilink") | 생방송 아침 프로그램에서 선전                                              |                                            |                |
+| [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [3월 10](https://ko.wikipedia.org/wiki/3월_10일 "wikilink")·[17일](https://ko.wikipedia.org/wiki/3월_17일 "wikilink") | [코다마 키요시](../Page/코다마_키요시.md "wikilink")   | [쿠사나기 쯔요시](https://ko.wikipedia.org/wiki/쿠사나기_쯔요시 "wikilink") | [이나가키 고로](../Page/이나가키_고로.md "wikilink")   |                |
+| [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [4.26](https://ko.wikipedia.org/wiki/4월_26일 "wikilink"), [5.3](https://ko.wikipedia.org/wiki/5월_3일 "wikilink")  | 미야케 유지                                     | [카토리 싱고](../Page/카토리_싱고.md "wikilink")                        | [나카이 마사히로](../Page/나카이_마사히로.md "wikilink") | ―              |
+| [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [7월 4](https://ko.wikipedia.org/wiki/7월_4일 "wikilink")·[11일](https://ko.wikipedia.org/wiki/7월_11일 "wikilink")   | [나카이 마사히로](../Page/나카이_마사히로.md "wikilink") | 〈테로테 아리나〉 주연                                                  |                                            |                |
+| [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [4월 2일](https://ko.wikipedia.org/wiki/4월_2일 "wikilink")                                                         | [이나가키 고로](../Page/이나가키_고로.md "wikilink")   | [쿠사나기 쯔요시](https://ko.wikipedia.org/wiki/쿠사나기_쯔요시 "wikilink") | 토노리맨이 되어 쇼핑                                |                |
+| [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [8월 4일](https://ko.wikipedia.org/wiki/8월_4일 "wikilink")                                                         | [카토리 싱고](../Page/카토리_싱고.md "wikilink")     | 1인 스마스마 〈쿠사프×쿠사프〉                                             |                                            |                |
+
+## S-1 GRAND PRIX
+
+1998년 8월 3일부터 매년 부정기적으로 생방송 스페셜로 방영하였다. 우선 프로그램 첫부분에 벌칙이 발표되고 나서, 비스트로 스마프 포함 몇 개의 게임을 하고, 합계 득점 하위 두 명이 로케 벌칙을 떠난다. 동점인 경우에는 크래커로 제비뽑기를 하여 결정하는 방시이다. 벌칙은 후지산 등정이나 풀코스 마라톤, 철인 3종 경기, 미국 방송국에서 쇼를 펼치는 등 다양하다.
+
+[2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [8월 13일에](https://ko.wikipedia.org/wiki/8월_13일 "wikilink") 방송하였던 〈여름 축제 그랑프리〉에서는 나카이와 이나가키가 벌칙을 받게 되었지만, 방송 직후 이나가키가 불상사에 의한 근신으로 벌칙은 행해지지 않고, 감사의 뜻을 담아 멤버 전원이 주먹밥을 만든다는 형태로 맺어졌다. [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [1월 13일](https://ko.wikipedia.org/wiki/1월_13일 "wikilink") 〈S-1 GRAND PRIX〉에서는 비스트로 스마프의 시간이 너무 오래걸려 진행이 엉망진창이 되었고, 동점이 되어 크래커로 결정하기로 했지만, 스탭이 전해준 크래커가 두 개 모두 터지는 크래커였던 것으로 밝혀졌으며, 이러한 불평들이 쇄도하여 여러 트러블로 인해 그 다음주인 [5월 20일에는](https://ko.wikipedia.org/wiki/5월_20일 "wikilink") 갑자기 방송 예정이었던 녹화 방송을 대신해, 13일에 실시하지 않았던 코너들을 ‘연장전’이라는 이름으로 마무리 지었다. 2006년과 2007년에는 방송하지 않았다.
+
+<table>
+<thead>
+<tr class="header">
+<th><p>방송날짜</p></th>
+<th><p>타이틀</p></th>
+<th><p>벌칙</p></th>
+<th><p>패자</p></th>
+<th><p>벌칙 방송일</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/1998년" title="wikilink">1998년</a> <a href="https://ko.wikipedia.org/wiki/8월_3일" title="wikilink">8월 3일</a></p></td>
+<td><p>한 여름의 S-1 생 그랑프리</p></td>
+<td><p>후지산 정상에서 타이틀 콜</p></td>
+<td><p>나카이/쿠사나기</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/10월_5일" title="wikilink">10월 5일</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/1999년" title="wikilink">1999년</a> <a href="https://ko.wikipedia.org/wiki/1월_11일" title="wikilink">1월 11일</a></p></td>
+<td><p>신춘의 S-1 생 그랑프리</p></td>
+<td><p>오호츠크해 유빙채취</p></td>
+<td><p>이나가키/카토리</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/4월_5일" title="wikilink">4월 5일</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/1999년" title="wikilink">1999년</a> <a href="https://ko.wikipedia.org/wiki/8월_2일" title="wikilink">8월 2일</a></p></td>
+<td><p>한 여름의 S-1 생 그랑프리</p></td>
+<td><p>후지산 정상에서 타이틀 콜</p></td>
+<td><p>기무라/쿠사나기</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/10월_4일" title="wikilink">10월 4일</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/2000년" title="wikilink">2000년</a> <a href="https://ko.wikipedia.org/wiki/1월_3일" title="wikilink">1월 3일</a></p></td>
+<td><p>신춘 S-1 초특대 생 그랑프리</p></td>
+<td><p>남쪽섬에서 풀코스 마라톤</p></td>
+<td><p>나카이/이나가키</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/4월_3일" title="wikilink">4월 3일</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/2000년" title="wikilink">2000년</a> <a href="https://ko.wikipedia.org/wiki/7월_24일" title="wikilink">7월 24일</a></p></td>
+<td><p>한 여름의 당구왕 스페셜</p></td>
+<td><p>27시간 바다 쓰레기 줍기</p></td>
+<td><p>쿠사나기/카토리</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/10월_2일" title="wikilink">10월 2일</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/2001년" title="wikilink">2001년</a> <a href="https://ko.wikipedia.org/wiki/1월_8일" title="wikilink">1월 8일</a></p></td>
+<td><p>신춘의 S-1 생 그랑프리</p></td>
+<td><p>남쪽섬에서 풀코스 마라톤</p></td>
+<td><p>나카이/카토리</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/5월_7일" title="wikilink">5월 7일</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/2001년" title="wikilink">2001년</a> <a href="https://ko.wikipedia.org/wiki/8월_13일" title="wikilink">8월 13일</a></p></td>
+<td><p>여름 축제 그랑프리</p></td>
+<td><p>콘서트 후, 스탭위해 주먹밥</p></td>
+<td><p>나카이/이나가키</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/10월_8일" title="wikilink">10월 8일</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/2002년" title="wikilink">2002년</a> <a href="https://ko.wikipedia.org/wiki/4월_15일" title="wikilink">4월 15일</a></p></td>
+<td><p>봄 반짝 초특대 S-1 생 그랑프리</p></td>
+<td><p>미국 방송국에서 쇼</p></td>
+<td><p>이나가키/카토리</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/12월_9일" title="wikilink">12월 9일</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/2003년" title="wikilink">2003년</a> <a href="https://ko.wikipedia.org/wiki/1월_13일" title="wikilink">1월 13일</a><br />
+<a href="https://ko.wikipedia.org/wiki/1월_20일" title="wikilink">1월 20일</a></p></td>
+<td><p>올스타즈 신춘 S-1 생 그랑프리</p></td>
+<td><p>오오야리 위에서 아르펜 춤</p></td>
+<td><p>이나카기/쿠사나기</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/9월_22일" title="wikilink">9월 22일</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/2005년" title="wikilink">2005년</a> <a href="https://ko.wikipedia.org/wiki/7월_18일" title="wikilink">7월 18일</a></p></td>
+<td><p>바다의 날이다! S-1 생 그랑프리</p></td>
+<td><p>철인 3종 경기</p></td>
+<td><p>기무라/쿠사나기</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/12월_5일" title="wikilink">12월 5일</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/2008년" title="wikilink">2008년</a> <a href="https://ko.wikipedia.org/wiki/1월_14일" title="wikilink">1월 14일</a></p></td>
+<td><p>(생) 탄환 파이트 SP</p></td>
+<td></td>
+<td><p>중국에서 우정의 2인 3각 마라톤</p></td>
+<td><p>카토리/쿠사나기</p></td>
+</tr>
+</tbody>
+</table>
+
+## SMAP×SMAP 특별편
+
+보통 진행되었던 비스트로 스마프나 콩트 등은 전혀 하지 않고, 다큐멘터리나 버라이어티 등 완전히 다른 내용으로 구성되어 있다. 출연자는 기본적으로 SMAP 멤버 중 단 한명만 나오고, 여러 게스트가 더해서 나온다. 예전에는 연간 4회 정도 방송되었지만, 최근에는 점점 감소되어 2002년 이후는 연 1회나 2회 정도 방송되고 있다. 또한 가까운 시일 내에 개봉되는 영화의 홍보를 겸한 기획도 실시하는 경우도 많다.
+
+당초에는 후지 TV는 특별편 제작에 관여하지 않고, 간사이 TV 방송이 단독 제작하였지만, 최근에는 후지 TV와 간사이 TV 방송 간의 공동 제작이 되는 경우가 많다.
+
+### 기획 일람
+
+  - SMAP
+      - 금년에는 이런 일을 했습니다.
+    <!-- end list -->
+      -
+        [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [12월](https://ko.wikipedia.org/wiki/12월 "wikilink")에 방송되었다. 1997년에 방송된 나카이, 기무라, 카토리 특별편을 스튜디오에서 다섯 명이 되돌아 보는 기획이다. 그 밖에 그 해에 진행된 콘서트의 뒷 모습도 방송되었다.
+    <!-- end list -->
+      - PV 게릴라
+    <!-- end list -->
+      -
+        [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [1월](https://ko.wikipedia.org/wiki/1월 "wikilink")에 방송되었다. 〈Let It Be〉의 뮤직비디오를 멤버들이 제작한다는 기획이다. 프로그램 마지막에 완성판이 방송되었으며, 이 뮤직비디오는 상품화되지 않았다. 또한, 특별판으로서는 드물게 전원이 전원이 출연하였다.
+    <!-- end list -->
+      - Smap Short Films
+    <!-- end list -->
+      -
+        [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink")에 방송되었다. 쿠사나기, 카토리를 주연으로 7명의 광고 제작자와 CG 크리에이터가 쇼트 필름을 제작하여, 이후 같은 해 8월에 비디오화, DVD화 되어서 판매되었다.
+    <!-- end list -->
+      - SMAP '03→'04
+    <!-- end list -->
+      -
+        [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") 12월에 방송되었으며, 특별편으로 드물게 전원에 출연하였다. 멤버 중 두 명이 20분간 자유 토크를 하는 기획으로 나카이와 쿠사나기부터 시작되어, 쿠사나기와 이나가키, 이나가키와 기무라, 기무라와 카토리, 카토리와 나카이의 순서로 토크를 진행했다.
+    <!-- end list -->
+      - 사타☆스마 스페셜
+    <!-- end list -->
+      -
+        [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [5월 18일에](https://ko.wikipedia.org/wiki/5월_18일 "wikilink") 방송되었으며, 나카이와 카토리가 사회를 맡았던 《사타☆스마》의 부활 스페셜 기획이며, 〈나카이 파파의 아기 돌보기 스페셜〉과 〈싱고 마마의 몰래 아침밥 스페셜〉이 방송되었다. 〈나카이 파파 스페셜〉에는 놋치 가족이, 〈싱고 마마 스페셜〉에는 사사키 켄스케 가족이 게스트로 출연했다.
+
+<!-- end list -->
+
+  - 나카이 마사히로
+      - 나카이 마사히로 Singles
+    <!-- end list -->
+      -
+        [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [9월](https://ko.wikipedia.org/wiki/9월 "wikilink")에 방송되었으며 나카이가 출연한 드라마 《전설의 교사》에서 공동 출연한 [마츠모토 히토시와](https://ko.wikipedia.org/wiki/마츠모토_히토시 "wikilink") 함께 차로 도내를 운전하면서 서로 이야기한다는 기획이다. 이나가키의 근신으로 인한 대체 기획이다. 1회성 기획이었지만, 이후 다음 해에 [니혼 TV 방송망](https://ko.wikipedia.org/wiki/니혼_TV_방송망 "wikilink") 특별 프로그램으로 다시 공동 출연하였다.
+    <!-- end list -->
+      - 나카이의 이것이 사랑이야\!\!
+    <!-- end list -->
+      -
+        [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [12월](https://ko.wikipedia.org/wiki/12월 "wikilink")에 방송되었으며, 일반 커플이 어떤 장소로 나가, 남자가 지면에 깊은 구멍을 계속 파나가는 기획으로 여자에게 사람의 깊이를 호소하는 내용이다.
+    <!-- end list -->
+      - 나카이 마사히로의 좋아하니까 있는 힘을 다해
+    <!-- end list -->
+      -
+        [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink")에 방송되었다.
+
+<!-- end list -->
+
+  - 기무라 타쿠야
+      - 동학년
+    <!-- end list -->
+      -
+        [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [7월](https://ko.wikipedia.org/wiki/7월 "wikilink")에 방송되었으며, 기무라 타쿠야와 동갑([1972년](https://ko.wikipedia.org/wiki/1972년 "wikilink") [4월 2일](https://ko.wikipedia.org/wiki/4월_2일 "wikilink") \~ [1973년](https://ko.wikipedia.org/wiki/1973년 "wikilink") [4월 1일](https://ko.wikipedia.org/wiki/4월_1일 "wikilink") 생)의 유명인을 시작으로 모든 직업인과 한 명씩 만나는 코너이다. [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [9월](https://ko.wikipedia.org/wiki/9월 "wikilink")에 이나가키의 근신 때 재편집판 〈동학년 리믹스〉가 방송되었으며, [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") 9월에는 제2편이 방송되었다. [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [5월 11일에는](https://ko.wikipedia.org/wiki/5월_11일 "wikilink") 쿠사나기의 근신 때 대체 조치의 기획으로 같은 띠의 인물까지 대담 상대의 폭을 넓힌 제3판 〈동학년±12〉이 방송되었다.
+    <!-- end list -->
+      - 기무라 타쿠야 오오니시부에 간다.
+    <!-- end list -->
+      -
+        [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink")에 방송되었다.
+
+<!-- end list -->
+
+  - 이나가키 고로
+      - 작은 사랑의 멜로디
+    <!-- end list -->
+      -
+        [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [1월 6일에](https://ko.wikipedia.org/wiki/1월_6일 "wikilink") 방송되었다. 이나가키가 모리산츄(森三中)의 무라카미 도모코와 1박 2일 데이트를 해서, 이나가키가 무라카미에게 호감을 가질까 실험을 하는 방송이다. 이후 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [6월 12일에](https://ko.wikipedia.org/wiki/6월_12일 "wikilink") 감독편집판이 방송되었지만, [독일 월드컵](https://ko.wikipedia.org/wiki/독일_월드컵 "wikilink") [일본](../Page/일본.md "wikilink")대 [오스트레일리아](https://ko.wikipedia.org/wiki/오스트레일리아 "wikilink")전과 시간이 겹쳐 시청률이 5.5%라는 사태가 발생했다.
+    <!-- end list -->
+      - 이나가키 고로 출장 비스트로
+    <!-- end list -->
+      -
+        [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink")에 방송되었다.
+    <!-- end list -->
+      - 이나가키 고로 소믈리에가 되다.
+    <!-- end list -->
+      -
+        [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") [9월](https://ko.wikipedia.org/wiki/9월 "wikilink")에 방송되었다.
+    <!-- end list -->
+      - 가위바위보는 세상을 구한다.
+    <!-- end list -->
+      -
+        [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [7월](https://ko.wikipedia.org/wiki/7월 "wikilink")에 방송되었으며, 서로 갈등은 안고 있는 일반인 두 명이 등장하여 가위바위보로 갈등을 매듭짓는 방식의 기획이다.
+    <!-- end list -->
+      - 보디 러빙
+    <!-- end list -->
+      -
+        [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink")에 방송되었다.
+    <!-- end list -->
+      - 이나가키 예술★부동산
+    <!-- end list -->
+      -
+        [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [7월](https://ko.wikipedia.org/wiki/7월 "wikilink")에 방송되었다.
+
+<!-- end list -->
+
+  - 쿠사나기 츠요시
+      - 쿠사나기 츠요시 아빠가 되다\!
+    <!-- end list -->
+      -
+        [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink")에 방송되었으며, 쿠사나기가 아이 두 명과 1박 2일의 공동 생활을 한다는 기획이다. 이후, [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [9월](https://ko.wikipedia.org/wiki/9월 "wikilink")에 이나가키 근신으로 인한 대체 기획으로 재편집판 〈쿠사나기 츠요시 추억의 여름〉이 방송되었다.
+    <!-- end list -->
+      - 나와 당신이 사는 길\~one day
+    <!-- end list -->
+      -
+        쿠사나기 츠요시를 배우로 변화하게 만든 드라마 《[내가 사는 길](https://ko.wikipedia.org/wiki/내가_사는_길 "wikilink")》의 종영 이후, [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [7월 7일에](https://ko.wikipedia.org/wiki/7월_7일 "wikilink") 방송되었다. 쿠사나기 츠요시가 연기한 주인공 나카무라 히데오가 죽고 나서의 하루를 나카무라 히데오가 살아간 나날들을 회상과 함께 보여주며, 드라마에 출연한 야다 아키코와 다른 출연자가 서로 ‘죽음’에 대해 어떻게 생각하는지, 만약 인생이 단 하루만 남았을 때 어떻게 살 것인가를 물어보는 참신한 구성으로 특별편 중에서도 특히 골격이 탄탄한 내용으로 손꼽히고 있다.
+    <!-- end list -->
+      - THE TRUE SHOW
+    <!-- end list -->
+      -
+        [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [3월 8일](https://ko.wikipedia.org/wiki/3월_8일 "wikilink") 방송으로 《[쿠사나기 츠요시](https://ko.wikipedia.org/wiki/쿠사나기_츠요시 "wikilink")》 초기에 나왔던 한국어는 사실 대본을 외운 것이라는 사실을 폭로하는 등 쿠사나기의 한국 사랑을 한국 진출 때부터 돌아보는 코너이다. 순수 한국어로만 제작된 영화 [호텔 비너스의](../Page/호텔_비너스.md "wikilink") 홍보도 겸했다.
+    <!-- end list -->
+      - 지금, [집단 따돌림을](https://ko.wikipedia.org/wiki/집단_따돌림 "wikilink") 하고 있는 당신에게…
+    <!-- end list -->
+      -
+        [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [1월 8일에](https://ko.wikipedia.org/wiki/1월_8일 "wikilink") 방송되었으며, 쿠사나기 츠요시와 ‘날라리 선생’ 요시이에 히로유키를 메인으로 괴롭힘을 당하고 있는 [초등학생](https://ko.wikipedia.org/wiki/초등학생 "wikilink"), [중학생](https://ko.wikipedia.org/wiki/중학생 "wikilink")의 생생한 목소리와 스튜디오에 출연한 초등학생을 대상으로 한 앙케이트 결과가 방송되는 등 지금 학교에서 일어나고 있는 집단 따돌림에 대해 문제제기를 한 기획이다. 게스트로 [홋카이도 닛폰햄 파이터스](../Page/홋카이도_닛폰햄_파이터스.md "wikilink") 소속 [모리모토 히초리](../Page/모리모토_히초리.md "wikilink"), [사토 에리코](../Page/사토_에리코.md "wikilink"), [소닌](https://ko.wikipedia.org/wiki/소닌 "wikilink"), 생선군이 출연하여 자신의 경험담을 솔직하게 털어놓았다. [닛폰 방송](../Page/닛폰_방송.md "wikilink") 라디오의 ‘날라리 선생\! 요시이에 히로유키의 꿈은 도망가지 않는다’에 나온 사연을 바탕으로 피해자 모친의 협력을 얻어서 집단 따돌림을 극복한 중학생이 전화로 참가하여 방향성을 보여주었다. 프로그램 막바지에 쿠사나기 츠요시가 32세의 청년으로서 ‘괴롭히고 있는 10대의 젊은 사람들에게’라는 메시지를 띄우고 프로그램을 마쳤다. 같은해 [7월 29일](https://ko.wikipedia.org/wiki/7월_29일 "wikilink"), 27시간 TV내에서 카토리 싱고를 사회로 한 속편이 27시간 TV 유일한 사전 녹화로 방송되었다.
+    <!-- end list -->
+      - 쿠사나기 츠요시의 덤벼라\!
+          - 세상의 여성들이 생각하고 있는 남성들에 대한 불평 7000명 VS 츠요시
+          - 〈남자는 왜 바람을 피우는 거야?〉
+          - 〈남자는 왜 도망치는 거야?〉
+          - 〈남자는 왜 자기중심적이야?〉
+          - 〈남자는 왜 여자에게 모든 것을 맡기는 거야?〉
+          - 〈남자는 왜 연인이 되면 태도가 변하는 거야?〉
+          - 〈남자는 왜 못생기면 차가운 거야?〉
+          - 〈남자는 왜 유카(優香)에게 치유되고 싶은 거야?〉
+          - 〈남자는 왜 야동을 좋아하는 거야?〉
+      - 되살아나는 일본 영화 황금기
+    <!-- end list -->
+      -
+        [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [5월 5일](https://ko.wikipedia.org/wiki/5월_5일 "wikilink") 방송하였으며, [1950년대](https://ko.wikipedia.org/wiki/1950년대 "wikilink") 영화를 소개하며, [시미즈 히로시의](https://ko.wikipedia.org/wiki/시미즈_히로시 "wikilink") 감독의 [1938년](https://ko.wikipedia.org/wiki/1938년 "wikilink") 개봉 영화 또한 재현 드라마로 부활하였다.
+
+<!-- end list -->
+
+  - 카토리 싱고
+      - 카토리 싱고 힘내겠습니다\! \~꿈의 캔버스 철도\~
+    <!-- end list -->
+      -
+        [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [9월 22일](https://ko.wikipedia.org/wiki/9월_22일 "wikilink") 방송되었으며, 츠가루 철도 열차에다가 현지 아이들과 함께 그림을 그린다는 기획이다. 밤이슬로 인해 페인트가 흘러버리는 일도 있었지만 훌륭히 완성하여, 그 후 〈싱고의 장난〉이라는 취재로 카토리는 이 열차와 재회했으며, [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink")에 은퇴했다. 이나가키 근신 후 첫 방송으로 이 기획이 재방송되었다.
+    <!-- end list -->
+      - 카토리 싱고 [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [1월 31일](https://ko.wikipedia.org/wiki/1월_31일 "wikilink")
+    <!-- end list -->
+      -
+        [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [12월 13일](https://ko.wikipedia.org/wiki/12월_13일 "wikilink") 방송되었으며, 카토리가 여고생을 인실로 별장에 틀어박히는 내용이다. 이 기획은 〈방송금지〉라는 프로그램을 제작하는 스탭이 제작에 참여했으며, 이로 인해 방송 시간 한정으로 웹 사이트를 개설해 전반부에 특별 보도프로그램 풍의 프로그램을 방송하여, 실제로 카토리가 사건을 일으킨 것처럼 시청자들에게 착각을 일으키는 요소요소가 배치되어 있다.
+
+## 〈SMAP×SMAP〉이 결방하는 경우 방영되는 특별 프로그램
+
+인기 프로그램이기 때문에 연말연시나 보도 특별 프로그램이 갑자기 방영되었을 때를 제외하고는 특별편을 포함해 프로그램이 쉬는 경우가 거의 없고, 봄·여름 개편기의 경우에는 《롱 베케이션》, 《러브 제너레이션》 등 기무라 주연으로 높은 시청률을 기록하면 ‘[게츠쿠](https://ko.wikipedia.org/wiki/게츠쿠 "wikilink")’의 특별편으로 쉬는 경우가 있었다. [간사이 테레비가](https://ko.wikipedia.org/wiki/간사이_테레비 "wikilink") 보내는 [월요일](https://ko.wikipedia.org/wiki/월요일 "wikilink") 밤 10시의 다른 프로그램의 경우에는 [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [3월 29일에](https://ko.wikipedia.org/wiki/3월_29일 "wikilink") 방영된 다케다 데쓰야가 메인을 맡은 《남을 잘 도와주는 연예인이 경영하는 여관》이라는 제목을 붙은 스페셜 프로그램을 마지막으로 방송되지 않았으며, 그 후 프로그램이 쉬었던 《예는 나니와 금융도》, 《아스카, 아직 태어나지 않은 아이에게》 같은 SMAP 멤버가 출연하고 있는 스페셜 드라마나 [타모리](https://ko.wikipedia.org/wiki/타모리 "wikilink")와 나카이 마사히로가 사회를 맡는 《웃어도 좋아\! 봄·여름 제전 스페셜》이 [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") 부터 프로그램 개편기에 방영되는 것이 정착하여 SMAP나 타모리 출연의 스페셜 프로그램이 할당되었다.
+
+또한, 《웃어도 좋아\! 가을 제전 스페셜》이 토요일에 방송된 2006년 가을에는 〈드라마 레전드 스페셜〉로서 〈후루하타 닌자부로 VS SMAP〉라고 타이틀을 붙인 SMAP 출연의 스페셜 드라마가 재방송 되어, 그 후 2008년에도 〈드라마 레전드〉로서 〈기묘한 이야기 SMAP 특별편〉의 재방송을 하여 요 몇 해 사이에는 거의 SMAP 출연 프로그램으로 채워지고 있다.
+
+## 멤버의 불상사에 의한 프로그램 내용 변경
+
+[2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [8월 24일](https://ko.wikipedia.org/wiki/8월_24일 "wikilink"), 이나가키 고로가 [도쿄도](https://ko.wikipedia.org/wiki/도쿄도 "wikilink") [시부야 구](https://ko.wikipedia.org/wiki/시부야_구 "wikilink") 내에서 방치 주차로 인한 도로교통법 위반, 공무집행 방해죄, 상해죄로 현행범으로 체포되어 사건 다음 주인 [8월 27일](https://ko.wikipedia.org/wiki/8월_27일 "wikilink") 방송에서는 이나가키 출연 장면을 편집하여 방송되었다.
+
+[2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [4월 23일](https://ko.wikipedia.org/wiki/4월_23일 "wikilink"), 쿠사나기 츠요시가 공연외설죄 현행범으로 체포되어 다음 주인 [4월 27일](https://ko.wikipedia.org/wiki/4월_27일 "wikilink") 방송에서는 쿠사나기 이외의 SMAP 멤버가 등장하는 영상을 모은 특별 프로그램을 방영하였다.
+
+## 스폰서
+
+  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") 3월까지, 전반 부분은 [로토제약](../Page/로토제약.md "wikilink")에서 협찬을 하였고 후반 부분은 로토 제약 이외의 여러 회사에서 제공을 하고 있었지만, [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") 4월 이전과 후반에는 이외에도 여러 회사에서 제공받고 있다.
+
+## 각주
+
+[분류:SMAP](https://ko.wikipedia.org/wiki/분류:SMAP "wikilink") [분류:SMAP×SMAP](https://ko.wikipedia.org/wiki/분류:SMAP×SMAP "wikilink") [분류:일본의 텔레비전 게임 쇼](https://ko.wikipedia.org/wiki/분류:일본의_텔레비전_게임_쇼 "wikilink") [분류:일본의 텔레비전 버라이어티 쇼](https://ko.wikipedia.org/wiki/분류:일본의_텔레비전_버라이어티_쇼 "wikilink") [분류:후지 TV의 텔레비전 버라이어티 쇼](https://ko.wikipedia.org/wiki/분류:후지_TV의_텔레비전_버라이어티_쇼 "wikilink") [분류:후지 TV의 토크 쇼](https://ko.wikipedia.org/wiki/분류:후지_TV의_토크_쇼 "wikilink") [분류:간사이 TV 방송의 버라이어티 프로그램](https://ko.wikipedia.org/wiki/분류:간사이_TV_방송의_버라이어티_프로그램 "wikilink")
+
+1.  지름 3cm정도의 목제 표적구에 금속제 공을 던져 표적구에 가까운 공의 수로 겨루는 스포츠

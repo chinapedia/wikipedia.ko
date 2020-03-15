@@ -1,0 +1,108 @@
+> This article is converted from Wikipedia: [K-pop](https://ko.wikipedia.org/wiki/K-pop).
+
+
+**K-pop**()은 대한민국에서 대중적 인기를 얻는 유행 음악을 말한다. 간단히 **가요**(歌謠)라고 부르기도 하며, 영미권의 대중음악을 팝(pop)이라고 부르고, 영미권 이외의 국가의 대중가요도 국가 이니셜을 붙여 나타내는 데서 K-pop이라고 쓴다. 특히 대한민국 대중가요가 해외에서 인기를 얻게 된 이후에 K-pop이라는 명칭이 대한민국 이외 국가에서 대한민국 대중가요를 가리키는 이름으로 널리 사용된다.
+
+## K-pop의 진화의 역사
+
+1990년대 후반에 데뷔한 hot, 젝스키스, god등 1세대 아이돌의 음악을 시작으로 일레트로닉 사운드와 힙합의 그 당시에는 다소 낯설면서 중독성 있는 노래들을 선보이며 k-pop의 문을 열었고 이후 [2000년대](https://ko.wikipedia.org/wiki/2000년대 "wikilink") 중반 [대한민국의 2세대 아이돌 보이그룹과 걸그룹들이](https://ko.wikipedia.org/wiki/대한민국의_아이돌_그룹_목록 "wikilink") 국내외에서 큰 성공을 거둔 이후, K-pop이라는 단어를 이런 보이그룹과 걸그룹의 음악 만으로 한정해서 정의하는 경향이 많아졌다.과거에는 한국 음악 전반을 아우르는 느낌이었으나 최근에는 그냥 한국에서 만들어진 댄스음악, 혹은 아이돌 음악 등을 일컫는 의미로 통용되고 있는 듯 하다. 반면,솔로 가수의 경우 넓은 의미의 K-pop 아티스트 범주에 들어가기도 하나, 이를 인정하지 아니하는 경우도 존재한다 "솔로 가수가 어떻게 k-pop 가수인가" 는 등의 비판적 목소리가 존재한다.
+
+## 역사
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Search_volume_for_kpop.svg "wikilink") 케이팝 검색량 변화\]\] 1990년대에는 한국 음대 시장이 가장 호황을 누린 시기로 [김건모](../Page/김건모.md "wikilink")의 \<[잘못된 만남](https://ko.wikipedia.org/wiki/잘못된_만남_\(김건모의_노래\) "wikilink")\>은 단일 음대 판매량만 250만 장 이상을 기록해 한국 [기네스에](../Page/기네스_세계_기록.md "wikilink") 등재되었다.\[1\] 현재는 [방탄소년단](../Page/방탄소년단.md "wikilink")의 미니 6집 \<[MAP OF THE SOUL : PERSONA](https://ko.wikipedia.org/wiki/MAP_OF_THE_SOUL_:_PERSONA "wikilink")\>가 350만 장 이상의 판매고를 기록하면서 이 기록은 깨졌다. 같은 시기 [서태지와 아이들](https://ko.wikipedia.org/wiki/서태지와_아이들 "wikilink"), [신승훈](../Page/신승훈.md "wikilink") 등이 100만 장 판매고를 돌파했다. 또한 1990년 [김완선](../Page/김완선.md "wikilink")은 여자 가수로서 최초로 100만 장을 팔았다.\[2\] 80년대 후반과 90년대 초반 한국 대중음악의 질적 도약을 이끌었고 동시에 대중성의 영토를 확장한 [유재하](https://ko.wikipedia.org/wiki/유재하 "wikilink"), [이승철](https://ko.wikipedia.org/wiki/이승철 "wikilink"), [이승환](../Page/이승환_\(가수\).md "wikilink"), [신해철](../Page/신해철.md "wikilink"), [015B](../Page/015B.md "wikilink"), [김현철](https://ko.wikipedia.org/wiki/김현철_\(가수\) "wikilink"), [윤상](../Page/윤상.md "wikilink"), [유영석](../Page/유영석.md "wikilink"), [윤종신](../Page/윤종신.md "wikilink"), [봄여름가을겨울](../Page/봄여름가을겨울.md "wikilink") 등 당시 젊은 싱어송 라이터 집단의 영향은 끊어지지 않고 [유희열](https://ko.wikipedia.org/wiki/유희열 "wikilink"), [전람회로](../Page/전람회_\(음악_그룹\).md "wikilink") 이어졌으며, 홍대 일대를 중심으로 한 언더그라운드에 음악적 모범을 제시하거나 함께 공존하며 현대 K-pop의 중요한 한 축을 형성하고 있다.
+
+지금의 보이그룹과 걸그룹이 이끄는 K-pop은 [SM Entertainment의](https://ko.wikipedia.org/wiki/SM_Entertainment "wikilink") 아이돌 그룹들인 [H.O.T](https://ko.wikipedia.org/wiki/H.O.T "wikilink")와 [신화로](https://ko.wikipedia.org/wiki/신화_\(음악_그룹\) "wikilink") 거슬러간다. 이 그룹들이 1990년대 서태지와 아이들의 여러 요소를 혼합하는 음악적 방향과 보이그룹이라는 성공의 모델을 모방하면서 이후 한국 대중 음악 산업은 현재의 K-pop 산업으로 변모하기 시작한다. 이들은 일렉트릭 댄스와 랩, 때로 R\&B를 혼합한 장르로 주로 10대와 20대 위주의 팬덤으로부터 인기를 끌었다. 서태지와 아이들의 유산은 이후 [양현석](../Page/양현석.md "wikilink")의 [YG Entertainment를](https://ko.wikipedia.org/wiki/YG_Entertainment "wikilink") 중심으로 한 웰메이드 오버그라운드 아이돌 음악이라는 현대 K-pop의 한 축을 형성했다. 서태지와 아이들에 뒤지지 않는 음악성과 대중성을 획득한 [듀스](https://ko.wikipedia.org/wiki/듀스 "wikilink")는 이후 자생적인 한국 힙합 씬의 모범이 되었다. [박진영](https://ko.wikipedia.org/wiki/박진영 "wikilink")의 [JYP Entertainment](https://ko.wikipedia.org/wiki/JYP_Entertainment "wikilink") 또한 이들의 노력에 뒤지지 않았고 음악성과 음악 비즈니스 모두에서 현대 K-pop의 중요한 부분을 차지하고 있다.
+
+2000년대 들어서는 음반 시장이 급격히 작아지면서 음반 판매량 20만 장을 넘기도 힘들어졌다. 이후 음반 시장 불황이 계속되면서 온라인에 중점을 두는 시장 체재로 바뀌었다.\[3\] 그러나 정확히 12년 후인 2013년, 그룹 엑소의 1집 앨범이 2001년 김건모 7집, 그룹 god 4집 이후 우리나라 가요계 12년 만에 100만장을 돌파하며 음반 시장에 다시금 활력을 불어넣었다. 이후 발매하는 앨범마다 100만장의 판매고를 올리며 퀸터플 밀리언셀러라는 사상 초유의 기록을 세웠다. 현재 엑소의 누적 음반 판매량은 1000만장이 넘어가며, 이는 21세기 데뷔한 가수 중 최초의 기록이다. 이후 방탄소년단도 큰 인기를 얻으며 단일 음반 최다 판매량 기록을 24년 만에 갈아치웠고, 엑소에 이어 두 번째로 누적 판매량 1000만장을 돌파하였다. 현재 방탄소년단의 통산 음반 판매량은 1500만장을 넘어섰다. 워너원도 데뷔한 지 얼마 되지 않아 밀리언셀러에 오르는 등 기나긴 음반 시장 침체기가 끝났음을 보여주었다.
+
+2000년대 후반부터 현재까지 아이돌 그룹이 인기를 얻고 있다. [원더걸스](../Page/원더걸스.md "wikilink")는 'Nobody'로 미국 진출을 선언 한 뒤, 한국인으로서는 최초로 [빌보드 핫 100에](../Page/빌보드_핫_100.md "wikilink") 76위로 진입했다.\[4\] , [소녀시대](../Page/소녀시대.md "wikilink")는 'Gee'로 일본 [오리콘](../Page/오리콘.md "wikilink") 싱글 차트 일간 1위에 올랐다.\[5\] 이 외에 [카라도](../Page/카라_\(음악_그룹\).md "wikilink") 오리콘 차트에 오르며 한류 열풍을 일으켰다. 2012년 가수 [싸이](https://ko.wikipedia.org/wiki/싸이 "wikilink")는 '강남스타일'로 미국 빌보드의 싱글차트인 핫100차트에서 7주 연속 2위를 차지했다. [엑소](https://ko.wikipedia.org/wiki/엑소 "wikilink")는 2013년 '으르렁'으로 빌보드가 선정한 2013 최고의 K팝에 선정되었으며, 국내 가수 5년 연속 대상 수상 등의 눈부신 업적을 세우는 등 대한민국의 전무후무한 아이돌 그룹으로 자리잡았다. 최근엔 [방탄소년단](../Page/방탄소년단.md "wikilink")이 Wings 앨범으로 빌보드 시상식에서 상을 받으며 K팝의 위상을 보여주었다. 또 'LOVE YOURSELF'시리즈로 빌보드 시상식에서 '톱 소셜 아티스트'상을 받으며 꾸준히 성장하는 모습을 보여주었다.\[6\] 걸그룹 [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink")는 K팝 여가수 최초로 유튜브 MV 조회수 3억뷰를 돌파했다. 트와이스에 이어서 [블랙핑크](../Page/블랙핑크.md "wikilink")도 KPOP그룹(KPOP여가수포함) 최초로 유튜브 MV 조회수 9억뷰를 돌파했다. [워너원](../Page/워너원.md "wikilink")은 21세기 최초 데뷔 앨범 밀리언셀러에 올라 괴물 신인의 면모를 보여줬다.
+
+[선우정아](../Page/선우정아.md "wikilink")를 비롯한 이른바 홍대 뮤지션들이 [빅뱅과](../Page/빅뱅_\(음악_그룹\).md "wikilink") [2NE1](../Page/2NE1.md "wikilink")의 곡을 작곡하고, 유희열의 [안테나뮤직](https://ko.wikipedia.org/wiki/안테나뮤직 "wikilink")이 오디션 프로그램인 [K-pop Star에](https://ko.wikipedia.org/wiki/K-pop_Star "wikilink") 참여하고, SM Entertainment가 음악적 고민을 [샤이니](../Page/샤이니.md "wikilink"), [에프엑스](https://ko.wikipedia.org/wiki/에프엑스 "wikilink")로 풀어내 팬덤 뿐이 아닌 대중 감상자와 평론의 호감을 얻는 등 K-pop이란 그 이전 시기 비교적 가벼운 아이돌 댄스 음악만을 지칭하던 정의로부터 변화하고 있다. 그러나 이런 해외의 잣대에 의한 K-pop의 정의를 우리가 소극적으로 인식하며 따라갈 것이 아니라 우리가 철저히 정의하여야 한다. BBC나 기타 해외 매체들의 K-pop을 바라보는 시각은 엄연히 아시아 문화에 대한 차별적인 비하적 시각이 담겨있다. 자신들의 음악은 예술이지만 한국의 K-pop은 공장에서 찍어내는 음악이라는 식의 편협한 정의가 그 대표적인 예 이다. K-pop은 이들의 손에 정의되도록 둘 필요 없고, 철저히 우리가 한국가요로서의 K-pop의 정의를 지켜나가야 한다. K-pop이 공장형 양산문화라면 미국의 Pop은 그 이상의 공장형 음악들이다.
+
+## 특징
+
+[섬네일에서](https://ko.wikipedia.org/wiki/파일:K_CON_Concert_35.jpg "wikilink") 케이팝 가수를 응원하는 관객들.\]\]
+
+### 해외 언론의 인식 중 일부
+
+영국방송 [BBC](https://ko.wikipedia.org/wiki/BBC "wikilink")는 [슈퍼주니어](https://ko.wikipedia.org/wiki/슈퍼주니어 "wikilink")와 [원더걸스](../Page/원더걸스.md "wikilink")를 “잘 프로듀싱 된 멋지고 예쁜 보이, 걸 그룹으로써 눈을 사로잡는 안무와 캐치한 멜로디를 구사한다.”\[7\] 라고 표현했다. 케이팝은 젊고 매력적인 ‘예쁜’ 보이, 걸 그룹을 상징한다.\[8\] 한 SNS에서 외국 학교에서 우울증과 불안증에 대한 강의를 할 때 방탄소년단Magic Shop가사를 인용하며 강의를 할 정도라며 BTS의 아티스트적인 면모를 칭찬했다. 해외 유명 인플루언서, 혹은 아티스트들이 BTS의 SNS계정을 팔로우하며 그들을 향한 팬심을 표현하는가 하면, 미국 언론들은 방탄소년단의 인기도를 "세계에서 가장 인기가 있는 보이밴드"라는 수식어로 표현 중이다. 그밖에도 각종 대형 시상식과 공연에 초청되는가 하면, 대형 규모의 북미투어가 전 공연 모두 매진되는 등 등 기대 이상의 성과를 보여주고 있다. 투어가 전석 매진되면서 스타디움 규모의 공연장을 대관한다는 소식도 알려지면서 해외 언론매체에 BTS의 콘서트를 수일 전 부터 기다리는 팬들의 모습이 다뤄지며 BTS의 인기를 실감하게 했다.
+
+### 국제화된 음악
+
+총체적으로 [팝](../Page/대중음악.md "wikilink"), [락](https://ko.wikipedia.org/wiki/록_음악 "wikilink"), [힙합](../Page/힙합.md "wikilink"), [알앤비](https://ko.wikipedia.org/wiki/알앤비 "wikilink") 그리고 [전자음악](https://ko.wikipedia.org/wiki/전자음악 "wikilink")의 결합이라고 할 수 있으며, 서양의 사운드에 아시아인의 퍼포먼스를 결합시키는 특징을 지니기 때문에 보다 글로벌한 음악으로 불린다. 한국가수들의 소위 칼군무와 어려운 안무 동작들은 케이팝을 세계적으로 이끄는데 큰 공헌을 했다. 현재 케이팝은 비단 아시아뿐만 아니라 세계음악시장에서도 큰 영향을 끼치고 있다.\[9\] 한국 가수들에게 곡을 주는 외국 프로듀서들도 많다. [윌아이엠](https://ko.wikipedia.org/wiki/윌아이엠 "wikilink"), 션 가렛 에서부터 미국에서 자란 [테디](https://ko.wikipedia.org/wiki/테디_\(가수\) "wikilink") 등이 이에 속한다. 케이팝 가수들과 콜라보레이션을 한 힙합가수도 많다. [에이콘](https://ko.wikipedia.org/wiki/에이콘 "wikilink"), [칸예 웨스트](https://ko.wikipedia.org/wiki/칸예_웨스트 "wikilink"), [루다크리스](../Page/루다크리스.md "wikilink"), [스눕독](https://ko.wikipedia.org/wiki/스눕독 "wikilink"), [윌아이엠](https://ko.wikipedia.org/wiki/윌아이엠 "wikilink") 등이 이에 속한다. 노르웨이와 스웨덴에서 곡을 받기도 한다. ‘[월스트리트저널](https://ko.wikipedia.org/wiki/월스트리트저널 "wikilink")’에서 한 제작자는 “한국은 미국의 비트에 스칸디나비아 반도의 곡 스타일을 원한다“고 말했다.
+
+### 디지털 앨범
+
+1세대 아이돌들의 음원의 경우 음반사에서만 CD를 구할 수 있었다면, 2세대라 불리는 아이돌들이 등장하면서 K-POP의 규모가 커짐에 따라 앨범 제작 및 공급처는 급격하게 증가했으며 ,음반사뿐 아니라 서점 혹은 마트에서도 구할 수 있게 접근성이 증가하였다. 앨범의 구성역시 변화되었는데 과거는 포장된 케이스에 CD만 들어있었다면, 요즘의 경우 CD를 포함한 포토북, 자켓앨범, 여러 종의 포토카드, 등 CD뿐 아니라 팬들의 시각적 흥미와 구매력을 이끌어 내는 다양한 구성 품들이 들어있다. 현재는 CD를 구매하는 것뿐만 아니라 스트리밍 사이트에서 음원만 구매하기도 하며 실존하는 앨범을 내는 것이 아닌 디지털 싱글 즉 앨범 없이 음원만 출시하기도 한다.
+
+### 뮤직비디오
+
+k-pop의 성공요소중 하나는 뮤직비디오라 할 수 있다. 잘 만들어진 뮤직비디오 또한 팬들의 시선을 사로잡는 비장의 무기중 하나이다. 곡과 맞는 컨셉, 소품의 활용, 개개인의 특징을 살린 의상들과 다양한 특수효과의 조화로 영상미를 한껏 끌어올려 보는 팬들로 하여금 다시보기를 하게 만든다. 해외 가수의 뮤직비디오와 비교해 봐도 K-POP가수들의 뮤직비디오는 그들만의 특성이 있으며, 외국 팬들 또한 거부감 없이 받아들인다. 그 이유는 한국 가수들의 뮤직비디오는 춤과 노래만 담아내는 것이 아닌 하나의 영화로 짜임새를 갖추어 만들어지기 때문이라고 할 수 있다. 실제로 다양한 가수들이 뮤직비디오의 스토리를 이어지게끔 만드는 경우도 있으며 팬들의 입장에선 다음 뮤직비디오를 기대하며 기다리게끔 한다.
+
+### 군무(그룹댄스)
+
+군무(群舞, group dance)는 케이팝에서 중요한 요소 중 하나다. 군무는 여러 명이 무대를 꾸밀 때 가수들이 자리를 바꾸는데 에서 시작했다. [서태지와 아이들의](https://ko.wikipedia.org/wiki/서태지와_아이들 "wikilink") 무대부터 자리바꿈이 공공연해졌고, 이는 훗날 케이팝 안무에 까지 영향을 끼쳤다.
+
+케이팝 안무는 포인트 안무라는 특징을 지니기도 하는데, 주로 훅 부분에서 쉬운 안무를 각인시키는 행위를 말한다. 이 포인트 안무는 주로 가사를 따라가기도 한다. 포인트 안무는 [슈퍼주니어](https://ko.wikipedia.org/wiki/슈퍼주니어 "wikilink")의 '쏘리쏘리', [엑소](https://ko.wikipedia.org/wiki/엑소 "wikilink")의 '으르렁', [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink")의 'TT', [블랙핑크](../Page/블랙핑크.md "wikilink")의 '뚜두뚜두' [방탄소년단](../Page/방탄소년단.md "wikilink")의 아이돌(idol)와 같이 곡의 히트 유무를 결정하기도 한다.
+
+안무의 호흡을 잘 맞추고,마치 한사람인 것처럼 안무를 선보이는 아이돌을 군무돌,또는 칼군무돌 이라고 칭한다. 칼군무돌로 유명한 아이돌은 [방탄소년단](../Page/방탄소년단.md "wikilink"), [세븐틴](../Page/세븐틴_\(음악_그룹\).md "wikilink"), [여자친구](../Page/여자친구_\(음악_그룹\).md "wikilink"), [드림캐쳐](../Page/드림캐쳐_\(음악_그룹\).md "wikilink") 등이 있다.
+
+안무에 맞춰 곡이 쓰이기도 하며, 팬들이 쉽게 따라할 수 있음의 유무에 중점을 둔다. LA의 한 안무가인 Ellen Kim은 “케이팝은 팬들과 함께 하기를 원한다. 그래서 안무가 쉽게 나오는 경향이 있다”고 이야기 한다.
+
+### 패션
+
+케이팝은 패션에도 큰 영향을 준다. 케이팝 가수의 스타일은 특히 범아시아 지역에서 젊은이들의 눈을 사로잡고 있다. 따라서 의류업계는 가수로 인해 유명해진 옷을 마케팅 한다. [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") [지드래곤](https://ko.wikipedia.org/wiki/지드래곤 "wikilink")은 해외의 많은 패션업계의 러브콜을 받고 있으며, [투애니원](https://ko.wikipedia.org/wiki/투애니원 "wikilink")의 [씨엘](https://ko.wikipedia.org/wiki/CL_\(가수\) "wikilink") 또한 디자이너 [제레미 스캇과](https://ko.wikipedia.org/wiki/제레미_스캇 "wikilink") 함께 작업하기도 했다.
+
+2012년 1월에는 한국 가수들이 일본에서 패션쇼를 열었고, 무려 3만 3천명의 인원이 패션쇼팝 가수해다행 팝가수패션이 날씨에 맞지 않아 문제가 되기도 했다 (레깅스 패션). [조선민주주의인민공화국](https://ko.wikipedia.org/wiki/조선민주주의인민공화국 "wikilink") 또한 폐쇄적인 규제에도 불구하고 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 패션이 암암리에 유행하고 있다. 하이힐, 탑, 패션 악세사리 등 조선민주주의인민공화국 내에서 자유롭지 않은 패션을 케이팝으로 인해 유행시키고 있다.
+
+### 팬덤
+
+k-pop 아이돌의 경우 대부분의 아이돌들이 공식 팬클럽을 런칭하며 고정적 팬층을 확보하며 활동을 한다. 대부분의 아이돌은 데뷔 후 짧게는 1년 미만, 길게는 2년 이상을 팬클럽 없이 활동을 하다가 일정 수준이상의 고정적 팬 층이 확보가 되면 팬클럽을 창단해 다음 활동을 이어나간다. 대부분 1년 주기의 기수제이며 가격도 1만원\~3 만원으로 다양한 편이다. 가입한 팬들은 소속감을 가지며 팬덤 활동을 하고, 팬클럽의 가입한 팬들과 안한 팬들에게 차등 혜택을 주며 가입한 팬들로 하여금 “가입하길 잘했다.”라는 생각을 하게한다. 이밖에도 콘서트때 화환을 보내거나, 예능 혹은 드라마 촬영 시 밥 차 혹은 간식차를 보내며 아티스트를 위한 선물을 보내며 가수를 위한 서포트 활동을 하기도하며, 역으로 아이돌들이 공개방송이나 행사 때 자신들의 팬덤을 위해 간식차를 준비하는 등 역 조공 이벤트를 하기도 한다. 이밖에도 공식 색, 공식 응원구호, 공식 응원봉 등 가수와 팬들만의 정체성을 세기며 단합하기도 한다.
+
+### 단점과 비판
+
+#### 경쟁과 아티스트의 짧은 수명
+
+케이팝의 특징 중 하나는 시장이 빠르게 변하고 경쟁도 치열하는 점이다. 한국에서는 1년에 60팀이 넘는 아이돌그룹이 양산된다. 하지만 그룹들 대부분은 반짝하고 사라진다.\[10\]
+
+#### 히트곡의 짧은 수명
+
+[코리아 타임즈에](https://ko.wikipedia.org/wiki/코리아_타임즈 "wikilink") 따르면 케이팝은 쉽게 소비되는, 즉 수명이 짧은 히트곡을 주로 생산해 낸다고 한다.
+
+대부분의 케이팝 노래는 차트에서 잠시 인기를 얻고는 금방 사라지며 몇 주간 차트에 진입해 있는 노래는 몇 되지 않는다. 케이팝 노래는 주로 쉬운 멜로디에 쉽게 따라할 수 있는 춤으로 구성된다 — [슈퍼주니어](https://ko.wikipedia.org/wiki/슈퍼주니어 "wikilink")의 ‘쏘리쏘리’, [소녀시대](../Page/소녀시대.md "wikilink")의 ‘지’, [브라운아이드걸스](https://ko.wikipedia.org/wiki/브라운아이드걸스 "wikilink")의 ‘아브라카다브라’, 빅뱅의 '판타스틱 베이비' 등. 노래는 주로 한 달에서 두 달 정도 소비되며 금방 대체제가 된다. 가수 [인순이](../Page/인순이.md "wikilink")는 “예전에 우리가 하던 노래는 아직까지 불리고 있다. 하지만 요즘 음악은 3개월이 채 가지 않는다. 음악시장의 책임감이 사라지고 있다”는 비판을 제기하기도 했다.
+
+빨리 소비되고 사라진다는 주장에 대해서는 좀 더 객관적이고 장기적인 검증이 필요하다. 비판하는 쪽에서 예로 든 곡들은 대부분 오래 시간이 지났지만 대중과 K-pop 팬들에 의해 사랑 받고 있다. 히트곡이 차트에서 한 달에서 두 달 정도 소비되고 신곡으로 대체되는 상황은 다른 나라도 마찬가지다. 오히려 창작자들의 활발한 창작을 긍정적으로 볼 수도 있다.
+
+#### 훅송 논란
+
+반복되는 구절로 인한 훅송의 범람을 야기한다는 논란은 구미를 비롯한 여러 지역의 다양한 장르의 다른 대중 음악들도 다를 게 없어 K-pop 붐의 초기 이후 크게 다루어지지 않고 있다.
+
+## 같이 보기
+
+  - [K-Pop 월드 페스티벌](https://ko.wikipedia.org/wiki/K-Pop_월드_페스티벌 "wikilink")([:en:K-Pop World Festival](https://ko.wikipedia.org/wiki/:en:K-Pop_World_Festival "wikilink"))
+  - [라틴 아메리카에서의 K-pop](https://ko.wikipedia.org/wiki/라틴_아메리카에서의_K-pop "wikilink")([:en:K-Pop in Latin America](https://ko.wikipedia.org/wiki/:en:K-Pop_in_Latin_America "wikilink"))
+  - [K-ROCK](https://ko.wikipedia.org/wiki/K-ROCK "wikilink")(한국의 락음악)
+  - [한류 (문화)](https://ko.wikipedia.org/wiki/한류_\(문화\) "wikilink")
+  - [한국음악](https://ko.wikipedia.org/wiki/한국음악 "wikilink") 차
+  - [한국 전통 악기](../Page/한국_전통_악기.md "wikilink")
+  - [한국 무용](../Page/한국_무용.md "wikilink")
+  - [대한민국의 아이돌 그룹 목록](https://ko.wikipedia.org/wiki/대한민국의_아이돌_그룹_목록 "wikilink")
+  - [K-pop 음악가 목록](../Page/K-pop_음악가_목록.md "wikilink") (솔로 아티스트 목록)
+  - [아이돌 가수](https://ko.wikipedia.org/wiki/아이돌_가수 "wikilink")
+  - [코리언 뮤직 페스티벌](https://ko.wikipedia.org/wiki/코리언_뮤직_페스티벌 "wikilink")
+      - [헐리웃 볼](https://ko.wikipedia.org/wiki/헐리웃_볼 "wikilink")
+
+## 각주
+
+[K-pop](https://ko.wikipedia.org/wiki/분류:K-pop "wikilink")
+
+1.
+2.
+3.
+4.  [South Korean Pop Sensation Wonder Girls Hits The States | Access Hollywood – Celebrity News, Photos & Videos](http://www.accesshollywood.com/south-korean-pop-sensation-wonder-girls-hits-the-states_article_25353). Access Hollywood (2009-11-10). Retrieved on 2011-02-20.
+5.
+6.
+7.  \[Williamson, Lucy (2011-06-14). "The dark side of South Korean pop music". BBC. Retrieved 2012-09-17.\]
+8.  \["'Uncool' Korean star Psy goes viral with 'Gangnam Style'". Ibnlive.in.com. 2012-08-27. Retrieved 2012-09-17.\]
+9.  \[John, Seabrook. "Factory Girls- Cultural technology and the making of K-pop.". The New Yorker. Retrieved 23 April 2013.\]
+10. \["How K-pop may have lowered Korean Music Standards". HelloKpop. 2011-12-01. Retrieved 2012-03-27.\]

@@ -1,0 +1,95 @@
+> This article is converted from Wikipedia: [MBC ](https://ko.wikipedia.org/wiki/MBC_).
+
+
+《**MBC 뉴스포커스**》는 [MBC 표준FM에서](../Page/MBC_표준FM.md "wikilink") 평일 저녁 7시부터 저녁 7시 20분까지 방송되는 퇴근길 저녁종합뉴스 프로그램이다.
+
+## 역대 방송시간
+
+| 방송 채널                                                                                                                                                                                                                                  | 방송 기간                                                                                                                                                                                                                                      | 방송 시간                     |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------- |
+| [MBC 표준FM](../Page/MBC_표준FM.md "wikilink")                                                                                                                                                                                             | [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [10월 13일](https://ko.wikipedia.org/wiki/10월_13일 "wikilink") \~ [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [10월 16일](https://ko.wikipedia.org/wiki/10월_16일 "wikilink") | 평일 밤 9:00 \~ 밤 9:30 (30분) |
+| [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [10월 19일](https://ko.wikipedia.org/wiki/10월_19일 "wikilink") \~ [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [5월 6일](https://ko.wikipedia.org/wiki/5월_6일 "wikilink") | 평일 저녁 7:00 \~ 저녁 7:25 (25분)                                                                                                                                                                                                                |                           |
+| [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [5월 9일](https://ko.wikipedia.org/wiki/5월_9일 "wikilink") \~ **현재**                                                                                                              | 평일 저녁 7:00 \~ 저녁 7:20 (20분)                                                                                                                                                                                                                |                           |
+
+## 앵커
+
+  - 14대 [권순표](https://ko.wikipedia.org/wiki/권순표 "wikilink") 논설위원 (남)
+  - 10대 [양승은](https://ko.wikipedia.org/wiki/양승은 "wikilink") 아나운서 (여)
+
+### 역대 앵커
+
+#### 남성
+
+| 대수  | 진행자                                                                  | 진행 기간                         | 비고 |
+| --- | -------------------------------------------------------------------- | ----------------------------- | -- |
+| 1대  | [김성수](../Page/김성수_\(1956년\).md "wikilink") 前 기자                      | 2008년 10월 13일 \~ 2011년 3월 4일  |    |
+| 2대  | [송기원](https://ko.wikipedia.org/wiki/송기원_\(언론인\) "wikilink") 前 논설위원   | 2011년 3월 7일 \~ 2011년 9월 23일   |    |
+| 3대  | [황외진](https://ko.wikipedia.org/wiki/황외진 "wikilink") 논설위원실장           | 2011년 9월 26일 \~ 2012년 2월 17일  |    |
+| 4대  | [이윤재](https://ko.wikipedia.org/wiki/이윤재_\(아나운서\) "wikilink") 아나운서    | 2012년 2월 20일 \~ 2012년 3월 16일  |    |
+| 5대  | [이연재](https://ko.wikipedia.org/wiki/이연재_\(방송인\) "wikilink") 논설위원     | 2012년 3월 19일 \~ 2012년 6월 1일   |    |
+| 6대  | [홍순관](https://ko.wikipedia.org/wiki/홍순관 "wikilink") 前 기자             | 2012년 6월 4일 \~ 2012년 11월 30일  |    |
+| 7대  | [송형근](https://ko.wikipedia.org/wiki/송형근 "wikilink") 논설위원             | 2012년 12월 3일 \~ 2013년 3월 15일  |    |
+| 8대  | [임흥식](https://ko.wikipedia.org/wiki/임흥식 "wikilink") 前 논설위원           | 2013년 3월 18일 \~ 2014년 11월 28일 |    |
+| 9대  | [임태성](https://ko.wikipedia.org/wiki/임태성 "wikilink") 논설위원             | 2013년 12월 9일 \~ 2014년 11월 28일 |    |
+| 10대 | [이재훈](https://ko.wikipedia.org/wiki/이재훈_\(언론인\) "wikilink") 논설위원     | 2014년 12월 1일 \~ 2018년 11월 28일 |    |
+| 11대 | [송재우](https://ko.wikipedia.org/wiki/송재우_\(언론인\) "wikilink") 前 논설위원실장 | 2015년 5월 4일 \~ 2016년 3월 11일   |    |
+| 12대 | [황헌](https://ko.wikipedia.org/wiki/황헌 "wikilink") 前 논설위원             | 2016년 3월 14일 \~ 2016년 10월 18일 |    |
+| 13대 | [김상철](https://ko.wikipedia.org/wiki/김상철 "wikilink") 논설위원             | 2017년 5월 4일 \~ 2018년 11월 28일  |    |
+| 14대 | [권순표](https://ko.wikipedia.org/wiki/권순표 "wikilink") 논설위원             | 2018년 11월 29일 \~ **현재**       |    |
+| 15대 | [김경태](https://ko.wikipedia.org/wiki/김경태_\(언론인\) "wikilink") 논설위원     | 2018년 12월 31일 \~ 2019년 5월 28일 |    |
+
+#### 여성
+
+| 대수                                                        | 진행자                                                                 | 진행 기간                         | 비고    |
+| --------------------------------------------------------- | ------------------------------------------------------------------- | ----------------------------- | ----- |
+| 1대                                                        | [김원경](../Page/김원경_\(아나운서\).md "wikilink") 前 아나운서                    | 2012년 6월 18일 \~ 2012년 10월 5일  |       |
+| 2대                                                        | [박보경](../Page/박보경_\(1980년_10월\).md "wikilink") 前 아나운서               | 2012년 10월 8일 \~ 2013년 3월 15일  |       |
+| 3대                                                        | [김원경](../Page/김원경_\(아나운서\).md "wikilink") 前 아나운서                    | 2013년 3월 18일 \~ 2013년 10월 4일  | \[1\] |
+| 4대                                                        | [류수민](../Page/류수민.md "wikilink") 아나운서                               | 2013년 10월 7일 \~ 2014년 11월 28일 |       |
+| 5대                                                        | [김원경](../Page/김원경_\(아나운서\).md "wikilink") 前 아나운서                    | 2013년 12월 9일 \~ 2014년 11월 28일 | \[2\] |
+| [최현정](../Page/최현정_\(방송인\).md "wikilink") 前 아나운서           | 2013년 12월 9일 \~ 2014년 11월 28일                                       |                               |       |
+| [임현주](../Page/임현주.md "wikilink") 아나운서                     | 2013년 12월 9일 \~ 2014년 11월 28일                                       |                               |       |
+| 6대                                                        | [김규비](https://ko.wikipedia.org/wiki/김규비 "wikilink") 뉴스캐스터           | 2016년 2월 1일 \~ 2017년 12월 29일  |       |
+| [임지현](https://ko.wikipedia.org/wiki/임지현 "wikilink") 뉴스캐스터 | 2016년 2월 1일 \~ 2017년 12월 29일                                        |                               |       |
+| 7대                                                        | [황선숙](https://ko.wikipedia.org/wiki/황선숙_\(아나운서\) "wikilink") 아나운서국장 | 2018년 1월 2일 \~ 2018년 5월 4일    | \[3\] |
+| 8대                                                        | [하지은](../Page/하지은.md "wikilink") 前 아나운서                             | 2018년 5월 8일 \~ 2018년 12월 28일  |       |
+| 9대                                                        | [양승은](https://ko.wikipedia.org/wiki/양승은 "wikilink") 아나운서            | 2019년 1월 2일 \~ 2019년 8월 5일    | \[4\] |
+| 10대                                                       | 2019년 12월 23일 \~ **현재**                                             | \[5\]                         |       |
+
+## 지역 방송국 프로그램
+
+| 방송국                                           | 프로그램 타이틀        | 평일 진행자 |
+| --------------------------------------------- | --------------- | ------ |
+| [춘천MBC](../Page/춘천문화방송.md "wikilink")         | MBC 뉴스포커스 강원    | 이승현    |
+| [MBC충북 청주](../Page/MBC충북_청주방송국.md "wikilink") | MBC 뉴스포커스 충북    | 정미정    |
+| [광주MBC](../Page/광주문화방송.md "wikilink")         | 광주MBC 뉴스포커스     | 연빛나    |
+| [목포MBC](../Page/목포문화방송.md "wikilink")         | MBC 뉴스포커스 목포·전남 | 이지연    |
+| [여수MBC](../Page/여수문화방송.md "wikilink")         | 여수MBC 뉴스포커스     | 정예지    |
+| [제주MBC](../Page/제주문화방송.md "wikilink")         | MBC 뉴스포커스 제주    | 지건보    |
+
+## 타이틀 변천사
+
+현재 타이틀은 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [10월 13일을](https://ko.wikipedia.org/wiki/10월_13일 "wikilink") 기준으로 한다.
+
+| 기수 | 타이틀       | 방송 기간                                                                                                                         |
+| -- | --------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| 1기 | MBC 뉴스포커스 | [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [10월 13일](https://ko.wikipedia.org/wiki/10월_13일 "wikilink") \~ **현재** |
+
+## 동시 시간대 뉴스 프로그램
+
+  - [KBS 제1라디오 저녁종합뉴스](../Page/KBS_제1라디오_저녁종합뉴스.md "wikilink") ([KBS 제1라디오](../Page/KBS_제1라디오.md "wikilink"))
+  - 경인방송 뉴스 7 ([경인방송](https://ko.wikipedia.org/wiki/경인방송 "wikilink"))
+
+## 각주
+
+## 외부 링크
+
+  - [MBC 라디오 뉴스](http://imnews.imbc.com/replay/nwradio/index.html?XAREA=mbmain_replay)
+
+[분류:문화방송의 뉴스 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:문화방송의_뉴스_라디오_프로그램 "wikilink")
+
+1.  [김원경](../Page/김원경_\(아나운서\).md "wikilink") 前 아나운서는 1년 만에 MBC 뉴스포커스 재진행.
+2.  [김원경](../Page/김원경_\(아나운서\).md "wikilink") 前 아나운서는 MBC 뉴스포커스 2차 진행한 지 2개월 만에 MBC 뉴스포커스 재진행.
+3.  [평창 동계올림픽](https://ko.wikipedia.org/wiki/평창_동계올림픽 "wikilink") 특집 편성으로 인하여, 2018년 2월 12일 \~ 2018년 2월 23일 방송분은 [김민형](../Page/김민형_\(아나운서\).md "wikilink") 前 아나운서(現. [SBS](../Page/SBS.md "wikilink") 아나운서, 주말 [SBS 8 뉴스](../Page/SBS_8_뉴스.md "wikilink") 앵커)가 대신 진행했다.
+4.  [양승은](https://ko.wikipedia.org/wiki/양승은 "wikilink") 아나운서의 휴가로 인하여 2019년 3월 7일 방송분은 [이영은](https://ko.wikipedia.org/wiki/이영은_\(1992년\) "wikilink") 아나운서가 대신 진행했고, 2019년 3월 8일 \~ 2019년 3월 29일 방송분은 [손정은](../Page/손정은_\(아나운서\).md "wikilink") 아나운서가 대신 진행했다.
+5.  [양승은](https://ko.wikipedia.org/wiki/양승은 "wikilink") 아나운서는 4개월 만에 MBC 뉴스포커스 재진행.

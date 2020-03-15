@@ -1,0 +1,34 @@
+> This article is converted from Wikipedia: [HTTP 404](https://ko.wikipedia.org/wiki/HTTP_404).
+
+
+[섬네일를](https://ko.wikipedia.org/wiki/파일:Camino-404.png "wikilink") 사용하여 위키백과의 잘못된 주소로 들어갔을 때 뜨는 404 오류 메시지의 스크린샷\]\] **HTTP 404** 또는 **찾을 수 없습니다** [오류 메시지는](https://ko.wikipedia.org/wiki/오류_메시지 "wikilink") [클라이언트](https://ko.wikipedia.org/wiki/클라이언트 "wikilink")가 서버와 통신할 수는 있지만 서버가 요청한 바를 찾을 수 없다는 것을 가리키는 [HTTP](https://ko.wikipedia.org/wiki/HTTP "wikilink") [표준 응답 코드이다](https://ko.wikipedia.org/wiki/HTTP_상태_코드_목록 "wikilink"). 404 오류들은 대상 서버로 연결할 수 없다는 뜻의 "[서버](https://ko.wikipedia.org/wiki/서버 "wikilink")를 찾을 수 없습니다" 오류와 비슷한 메시지와 혼동해서는 안 된다.
+
+## 개요
+
+HTTP를 통해 통신할 때 서버는 [HTTP](https://ko.wikipedia.org/wiki/HTTP "wikilink") 문서([웹 페이지](../Page/웹_페이지.md "wikilink"))에 대한 [웹 브라우저의](https://ko.wikipedia.org/wiki/웹_브라우저 "wikilink") 요청과 같은 요청에 수많은 응답 코드와 선택적, 의무적, 또는 허용하지 않는 (상태 코드 기반으로) 메시지를 보여줌으로써 응답할 것을 요구받는다. 404 코드에서 처음 4는 [URL](https://ko.wikipedia.org/wiki/URL "wikilink")을 잘못 입력한 것과 같은 클라이언트 오류를 가리킨다. 그 뒤에 따르는 2개의 숫자들은 특정한 오류와 마주쳤음을 가리킨다. HTTP의 세 개의 숫자 코드 이용은 [FTP와](https://ko.wikipedia.org/wiki/파일_전송_프로토콜 "wikilink") [NNTP와](https://ko.wikipedia.org/wiki/네트워크_뉴스_전송_프로토콜 "wikilink") 같은 초기의 프로토콜에서의 해당 코드와 비슷하다.
+
+HTTP 수준에서 404 응답 코드는 사람이 읽을 수 있는 "이유 설명"과 함께 나온다. HTTP 규격은 "찾을 수 없습니다"라는 설명을 제안하며\[1\] 수많은 웹 서버들은 기본적으로 404 코드와 "찾을 수 없습니다" 설명이 들어간 HTML 메시지를 제공한다. 웹 서버들은 일반적으로 더 자연스러운 설명, 상표화된 페이지, 또 이따금씩 검색 폼을 보여 주도록 구성되어 있을 수 있지만 사용자로부터 보이지 않는 프로토콜 수준의 설명을 따로 수정하는 것은 드문 일이다.
+
+그러나 [인터넷 익스플로러](https://ko.wikipedia.org/wiki/인터넷_익스플로러 "wikilink") ([인터넷 익스플로러 7](../Page/인터넷_익스플로러_7.md "wikilink") 이전)는 512 바이트가 넘지 않을 경우 사용자가 지정한 페이지를 보여 주지 않고 친근한 오류 메시지를 보여 준다. 이러한 기본적인 동작은 인터넷 옵션의 도구에 들어가 고급 탭에서 "친근한 HTTP 오류 메시지 표시" 체크 상자에 체크를 없앰으로써 변경할 수 있다.
+
+404 오류는 페이지가 이동되거나 삭제되었을 때 자주 반환된다. 전자의 경우 URL을 다시 기록하거나 대부분의 서버 구성 파일에서 구성할 수 있는 301 "영구적으로 이동하였음" 오류 응답을 반환한다. 후자의 경우 410 "사라짐" 메시지가 반환된다. 이 두 가지 옵션들이 특별한 서버 구성을 요구하기 때문에 대부분의 웹사이트들은 이들을 이용하지 않는다.
+
+404 오류들은 주어진 URL이 존재하지 않는 서버 이름을 가리킬 때 나타나는 [DNS](https://ko.wikipedia.org/wiki/도메인_이름_시스템 "wikilink") 오류와 혼동해서는 안 된다. 404 오류는 서버 자체가 존재하지만 서버가 응답한 페이지를 찾지 못 했음을 나타낸다.
+
+404 오류가 발생할 경우 사이트 관리자는 IIS에서 바인딩 편집에서 DNS에 등록된 도메인을 추가해 주면 해결이 가능하다.
+
+## 각주
+
+<references />
+
+## 같이 보기
+
+  - [죽은 링크](https://ko.wikipedia.org/wiki/죽은_링크 "wikilink")
+
+## 외부 링크
+
+  - [HTTP 오류 404 - 마이크로소프트 지원](http://support.microsoft.com/kb/315122)
+
+[분류:컴퓨터 오류](https://ko.wikipedia.org/wiki/분류:컴퓨터_오류 "wikilink") [분류:HTTP 상태 코드](https://ko.wikipedia.org/wiki/분류:HTTP_상태_코드 "wikilink")
+
+1.

@@ -1,0 +1,98 @@
+> This article is converted from Wikipedia: [KTX   ](https://ko.wikipedia.org/wiki/KTX___).
+
+
+**KTX 승무원 고용 분쟁**은 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [3월 1일부터](https://ko.wikipedia.org/wiki/3월_1일 "wikilink") [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [7월 21일까지](https://ko.wikipedia.org/wiki/7월_21일 "wikilink") 4526일간 [한국철도공사](https://ko.wikipedia.org/wiki/한국철도공사 "wikilink")와 [코레일유통](https://ko.wikipedia.org/wiki/코레일유통 "wikilink"), [전국철도노동조합](https://ko.wikipedia.org/wiki/전국철도노동조합 "wikilink") KTX열차승무지부 노조원 사이에 진행된 고용분쟁이자 노동투쟁이다. [2004년 4월](https://ko.wikipedia.org/wiki/2004년_4월 "wikilink") KTX에 승무하다 [2006년 3월에](https://ko.wikipedia.org/wiki/2006년_3월 "wikilink") 사업종료로 인한계약해지로 위촉이 해지된 전직 [KTX](https://ko.wikipedia.org/wiki/KTX "wikilink") [고속철도](https://ko.wikipedia.org/wiki/고속철도 "wikilink") 승무원들이 당시 철도청의 약속에 따라 [한국철도공사](https://ko.wikipedia.org/wiki/한국철도공사 "wikilink") 정직원으로 고용승계를 요구하고, 이를 한국철도공사가 거부한 것이 이 분쟁사건의 핵심 이유다.
+
+## 발단
+
+[2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [4월 1일](https://ko.wikipedia.org/wiki/4월_1일 "wikilink") [경부고속철도](https://ko.wikipedia.org/wiki/경부고속철도 "wikilink")가 개통되면서, 고속철도의 개통을 앞두고 차내 승무원을 채용했다. 당시 고속철도 승무원은 선로 위의 스튜어디스라는 호칭을 받을 만큼 기대가 컸다고 한다. 처음 승무원을 300명가량 선발할 때 4천여 명의 지원자가 몰려 무려 13대 1이 넘는 경쟁률을 기록하였다고 한다. 이들은 [한국철도유통](https://ko.wikipedia.org/wiki/한국철도유통 "wikilink")에 소속으로 채용되었으나, 철도청의 철도공사화 단계에서 일시적 고용이라 설명하고 1년 계약직으로 입사했다, 이는 철도공사의 비용절감을 이유로 외주화된 자매 회사와 위탁계약한 것이었다.
+
+고속철도 개통을 앞둔 상태에서 많은 승무원들이 "2년내 정규직 전환"이라는 약속을 받았고 이 때문에 그들의 기대감은 매우 컸다. 열악한 근무처우와 매우 낮은 수당을 참으면서 2년이 지나갈 때가 다가오자 KTX 승무원들은 본사 정규직으로의 전환을 요구하였다. 그러나 모든 승무원들은 [한국철도공사가](https://ko.wikipedia.org/wiki/코레일 "wikilink") 아닌 [한국철도유통](https://ko.wikipedia.org/wiki/한국철도유통 "wikilink")에 고용 및 소속되어 있었고, 정직원이 되더라도 철도공사가 아니라 당연히 한국철도유통 정규 직원으로 채용되는 것이었다. 그리하여 이들의 불만이 커지기 시작하였고, 마침내 [2006년 3월](https://ko.wikipedia.org/wiki/2006년_3월 "wikilink") 한국철도공사의 총파업과 때를 맞추어 분쟁이 시작됐다.
+
+## 경과
+
+[2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") 후반기부터 KTX 승무원들은 여러 가지 방법으로 농성하기 시작하였다. 그들은 한국철도공사 정규직으로 전환할 것을 요구하며 철도를 이용하는 손님들에게 전단지를 나눠주는가 하면, '고장난 [PDA](https://ko.wikipedia.org/wiki/PDA "wikilink"), 무전기가 승객 안전을 위협한다'라고 적힌 뱃지나 어깨띠를 착용하며 농성하였던 것이다. 이듬해인 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") 3월, 철도공사의 총파업이 시작되기 전인 [2월 25일부터는](https://ko.wikipedia.org/wiki/2월_25일 "wikilink") 사복을 착용한 채 승무를 하는 이른바 '사복 투쟁'을 벌였다.\[1\]
+
+[2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [2월 28일](https://ko.wikipedia.org/wiki/2월_28일 "wikilink") 철도공사의 노사는 마지막 협상을 하였으나 해고자 복직, 인력충원, 철도상업화 철회 및 공공성 강화, KTX 승무원 등 비정규직 차별 철폐 등 핵심 쟁점을 놓고 이견폭을 좁히지 못했고, 끝내 파업이 강행되었다. 그러나 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [3월 1일에](https://ko.wikipedia.org/wiki/3월_1일 "wikilink") 개시된 철도공사 노조의 총파업은 경찰의 강경 진압과 철도공사의 대량 직위 해제 조치로 인해 참가자 수가 점점 줄어들면서 4일 만에 끝났다.\[2\] 그러나 KTX 승무원들은 현장으로 복귀하지 아니하고 계속해서 농성을 벌였다.\[3\] 이들은 자체적으로 투표를 실시하였고, 그 결과 조합원의 83%가 찬성하여 파업을 지속한 것이었다.
+
+[2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [5월 11일에는](https://ko.wikipedia.org/wiki/5월_11일 "wikilink") 한국철도공사 서울지역본부에 공권력이 투입되어 농성중인 승무원 80명을 강제로 연행하였다. 일부는 [오세훈](https://ko.wikipedia.org/wiki/오세훈 "wikilink") 당시 서울시장 후보 사무실과 [국가인권위원회](https://ko.wikipedia.org/wiki/국가인권위원회 "wikilink") 사무실을 점거하기도 하였다.\[4\]
+
+승무원들은 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [5월 31일까지](https://ko.wikipedia.org/wiki/5월_31일 "wikilink") 현장으로 업무 복귀할 것을 최종 통보받았으나 몇몇 승무원의 [KTX 관광레저](https://ko.wikipedia.org/wiki/KTX_관광레저 "wikilink")(주)에 입사 및 정규직 채용을 제외하고 상당수의 승무원들은 복귀를 거부하였고, 이에 따라 복귀를 거부한 승무원들은 자동으로 계약이 해지되었다.
+
+[2006년 9월](https://ko.wikipedia.org/wiki/2006년_9월 "wikilink") 전 KTX 열차승무지부장 민세원은 [민주노동당사에서](https://ko.wikipedia.org/wiki/민주노동당_\(대한민국\) "wikilink") 삭발식을 단행하고, 단식 농성에 돌입하였다.
+
+[2007년 1월에는](../Page/2007년_1월.md "wikilink") 전직 새마을호 승무원과 함께 농성하기 시작하였으며, [서울역](https://ko.wikipedia.org/wiki/서울역 "wikilink"), [용산역](https://ko.wikipedia.org/wiki/용산역 "wikilink") 대합실을 중심으로 단식 농성을 시작하였다. 이들은 3월에는 전국 철도공사 본부가 있는 서울, 부산, 대전, 순천 등을 순회하며 집회를 열기도 하였다. 투쟁 상황은 2007년 7월 29일 MBC PD수첩에 방영 되기도 하였다.
+
+[2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [12월 27일](https://ko.wikipedia.org/wiki/12월_27일 "wikilink") 서울중앙지방법원은 불법 파업 혐의로 기소된 민세원 전 KTX 열차승무지부장에게 벌금 150만원을 선고하였다. 다만 "철도공사가 승무원들의 실질적 사용자 지위에 있다"는 민씨의 주장은 받아들였다. 그러나 [2007년 11월의](../Page/2007년_11월.md "wikilink") KTX 승무원 8명에 대한 업무방해 등 법률위반에 대한 2건의 재판에서는 '철도공사가 전 KTX 승무원의 사용자가 아니다'라고 판결한 바 있다.\[5\] 이에 코레일은 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [12월 28일](https://ko.wikipedia.org/wiki/12월_28일 "wikilink") 노사공동으로 근로자지위에 대해 법원의 판단을 구하자는 의견을 제안하였다.
+
+[2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [4월 8일](https://ko.wikipedia.org/wiki/4월_8일 "wikilink") [서울고등법원](../Page/서울고등법원.md "wikilink")은 '철도공사가 2005년 철도유통의 민세원 KTX승무지부장과 사이에 KTX 승무원의 고용안정에 관한 합의를 직접 체결한 점등을 종합해 볼 때 이 사건의 승무원들에 대한 인사관리의 시행주체는 실질적으로 철도공사라며, 채용, 승무인력, 업무조정, 작업시간 결정, 임금수준의 결정, 인사관리 등의 시행주체가 철도공사임을 인정하며 철도공사의 사용자성과 자회사에 대한 위장도급을 인정하는 판결을 내렸다.\[6\]
+
+## 전직 승무원들의 주장\[7\]
+
+  - 한국철도공사가 KTX 승무원을 직접 고용할 것
+  - 입사 당시 "정부가 운영하는 철도청이므로, 일단 계약직으로 입사하지만 2005년엔 정규직으로 전환될 것이다, 준공무원 신분으로 정년도 보장받을 것이다, 항공사 스튜어디스 수준으로 대우하겠다"라고 하고 KTX 관광레저로 위탁 고용하였다.
+  - 승성원만을 위탁계약 형태로 간접 고용한 것은 비정규직을 남용하는 것인 데다 성차별적이다.
+  - 비정규직으로서 불안정한 고용환경에서 오는 차별과, 위탁경영으로 인한 저임금 문제가 있다.
+
+## 한국철도공사측의 입장
+
+  - 계약당시 한국철도유통의 비정규직으로 고용한다는것에 자필 서명하였다.
+  - 1년 뒤 정규직 전환 가능성도 현 소속사인 철도유통의 정규직이란 의미일 뿐 공사 정규직을 의미하는 것은 아니었다.
+
+## 판결
+
+[2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [12월 2일](https://ko.wikipedia.org/wiki/12월_2일 "wikilink") [서울중앙지방법원](../Page/서울중앙지방법원.md "wikilink")에서는 철도공사의 자회사인 철도유통에 대해 "피신청인이 그 지분 100%를 보유한 자회사"이고 "채용 면접관으로 피신청인 소속 간부가 직접 참여한 바 있으며, 수습교육을 직접 실시하고 열차팀장이 직접 업무 평가를 실시했다"는 등의 정황을 인정하고 "철도유통은 형식적으로는 자신의 사업을 수행한 것과 같은 외관을 갖추었다고 하더라도, 실질적으로는 독립성을 갖추지 못한 채 피신청인의 일개 사업부서로서 노무대행기관의 역할을 수행했을 뿐이고, 오히려 피신청인이 신청인들로부터 종속적인 관계에서 근로를 제공받고 임금수준을 포함한 제반 근로조건을 정했다고 봄이 상당하므로, KTX 승무원들과 피신청인 사이에 묵시적인 근로계약관계가 성립됐다고 본다"고 판단하여 KTX 승무원들이 코레일에 대한 근로계약상의 권리를 가지고 있음을 임시로 정한다"고 판결했다. 이는 전직 KTX 승무원들의 고용은 철도공사가 하는 것으로 해석되는데 이 판결에 대해 여성 관련 단체 및 민주노총에서는 환영의 뜻을 밝혔다.\[8\]
+
+2010년 8월 26일, 서울중앙지방법원 민사 41부는 해고된 KTX 승무원들이 해고가 무효라며 코레일을 상대로 낸 소송에서 KTX 승무원은 코레일 직원에 해당하고, 코레일은 해고된 승무원에게 미지급한 임금 30개월 분과 복직할 때까지의 월급을 지급하라고 판결했다. 코레일은 항소했으나, 2011년 8월 19일 서울고등법원은 항소를 기각하고 승무원 측의 승소 판결을 내렸다.\[9\]
+
+그러나 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") 대법원은 2010년의 1심과 2011년의 2심을 뒤집고, 패소 취지 판결을 내렸다. "코레일과 승무원 사이에 직접 근로관계가 성립했다고 단정할 수 없고, 근로자 파견계약 관계에도 해당되지 않는다"고 판시했다. [김영훈](https://ko.wikipedia.org/wiki/김영훈 "wikilink") [전국철도노동조합](https://ko.wikipedia.org/wiki/전국철도노동조합 "wikilink") 위원장은 이날 판결에 대해 "열차팀장과 승무원은 [코레일](https://ko.wikipedia.org/wiki/코레일 "wikilink") 스케줄에 따라 함께 움직인 만큼 독립적 노무관리가 존재할 수 없었다"며 "도저히 납득할 수 없다"고 말했다.\[10\]
+
+그러나 [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [5월 26일](https://ko.wikipedia.org/wiki/5월_26일 "wikilink"), 당시 양승태 대법원장이 [상고법원](../Page/상고법원.md "wikilink") 설치를 위해 [박근혜 정부에](../Page/박근혜_정부.md "wikilink") 유리하게 판결을 왜곡한 현황이 드러나며 해당 판결의 유효성에 의구심이 제기되었다\[11\]\[12\].
+
+## 복직
+
+[양승태 사법농단 의혹이](../Page/양승태_사법농단_의혹.md "wikilink") 불거지자 일각에서는 현행법에 의한 [재심](../Page/재심.md "wikilink")의 가능성, 또는 특별법에 의한 재심의 가능성이 제기되었다. 이에 사회적인 대타협을 통해 해결하자는 움직임이 일었다. 그래서 소송을 제기한 해고 승무원중 철도공사나 자회사에 취업한 적 없는 180명을 정규직으로 채용하기로 하였다. 코레일이 현재 승무업무를 자회사에 외주 주고 있어, 역무원으로 채용하고 코레일이 승무업무를 직영하면 승무직으로 전환하기로 하였다.
+
+## 사건 일지
+
+  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [3월 1일](https://ko.wikipedia.org/wiki/3월_1일 "wikilink") : 철도노조 총파업
+  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [3월 5일](https://ko.wikipedia.org/wiki/3월_5일 "wikilink") : 철도노조는 정상화 되었으나 KTX 승무원들만 파업지속
+  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [3월 7일](https://ko.wikipedia.org/wiki/3월_7일 "wikilink") : KTX 승무원 70명 직위해제 문자발송
+  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [3월 9일](https://ko.wikipedia.org/wiki/3월_9일 "wikilink") : KTX 승무원 한국철도공사 서울사무소 점거 농성
+  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [3월 16일](https://ko.wikipedia.org/wiki/3월_16일 "wikilink") : KTX 관광레저를 통해 승무원 신규채용
+  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [5월 12일](https://ko.wikipedia.org/wiki/5월_12일 "wikilink") : KTX 승무원 80명 경찰에 강제 연행
+  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [1월 1일](https://ko.wikipedia.org/wiki/1월_1일 "wikilink") : 전직 새마을호 승무원과 연합하여 농성 시작
+  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [3월 15일](https://ko.wikipedia.org/wiki/3월_15일 "wikilink") : 전국 거점역 순회 집회 실시
+  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [3월 26일](https://ko.wikipedia.org/wiki/3월_26일 "wikilink") : 서울역에서 노숙 투쟁 실시
+  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [12월 27일](https://ko.wikipedia.org/wiki/12월_27일 "wikilink") : 서울중앙지방법원, 열차승무지부장 민세원씨에 대해 벌금 150만원 선고
+  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [4월 8일](https://ko.wikipedia.org/wiki/4월_8일 "wikilink") : 서울고등법원, 철도공사의 자회사에 대한 위장 도급을 인정하는 판결을 내림
+  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [12월 2일](https://ko.wikipedia.org/wiki/12월_2일 "wikilink") : 서울중앙지방법원, KTX 승무원의 고용은 철도공사가 해야 한다고 판결함
+  - 2010년 8월 26일 : 서울중앙지방법원 민사 41부, KTX 승무원은 코레일 직원이고, 코레일은 승무원에게 미지급 임금 30개월 분과 복직할 때까지의 월급을 지급하라고 판결함
+  - 2011년 8월 19일 : 서울고등법원, 코레일의 항소를 기각함
+  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") : 대법원, 1심과 2심을 기각하고, KTX 승무원과 코레일간의 계약은 '직접 근로계약, 파견계약 모두 아니다'라고 승무원 패소 판결을 내림 (대법원 2015. 2.26, 선고, 2011다78316, 판결)
+  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [5월 28일](https://ko.wikipedia.org/wiki/5월_28일 "wikilink") : 당시 [양승태](https://ko.wikipedia.org/wiki/양승태 "wikilink") 대법원장이 [상고법원](../Page/상고법원.md "wikilink")을 추진하기 위해 3심을 불리하게 판결한 정황이 보도됨
+  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [5월 29일](https://ko.wikipedia.org/wiki/5월_29일 "wikilink") : KTX승무지부 노조원들, 건국 사상 최초로 대법정 들어가 시위 진행\[13\]
+  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [5월 30일](https://ko.wikipedia.org/wiki/5월_30일 "wikilink") : KTX승무지부 - 대법원 면담, KTX승무지부측 재심 요구\[14\]
+  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [7월 13일](https://ko.wikipedia.org/wiki/7월_13일 "wikilink") : [KBS 2TV](../Page/KBS_2TV.md "wikilink"), 승무지부 관련 내용 다룬 [거리의 만찬](../Page/거리의_만찬.md "wikilink") 방영
+  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [7월 21일](https://ko.wikipedia.org/wiki/7월_21일 "wikilink") 오전 4시 : [한국철도공사](https://ko.wikipedia.org/wiki/한국철도공사 "wikilink") - [전국철도노동조합](https://ko.wikipedia.org/wiki/전국철도노동조합 "wikilink"), KTX승무지부 관련 합의서 (3개 조항) 및 부속합의서 (7개 조항) 체결
+
+## 각주
+
+<references/>
+
+[분류:2006년 대한민국](https://ko.wikipedia.org/wiki/분류:2006년_대한민국 "wikilink") [분류:2007년 대한민국](https://ko.wikipedia.org/wiki/분류:2007년_대한민국 "wikilink") [분류:2008년 대한민국](https://ko.wikipedia.org/wiki/분류:2008년_대한민국 "wikilink") [분류:대한민국의 노동쟁의](https://ko.wikipedia.org/wiki/분류:대한민국의_노동쟁의 "wikilink") [분류:2006년 노동쟁의](https://ko.wikipedia.org/wiki/분류:2006년_노동쟁의 "wikilink")
+
+1.  2006년 2월 26일 한국철도공사 홈페이지에 공지된 사항 참조할 것
+2.  [철도파업 노조원 2천244명 직위해제](http://www.hani.co.kr/arti/society/labor/106254.html) 《한겨레》 2006년 3월 3일
+3.  [KTX 여승무원 업무복귀 안하기로](http://www.hani.co.kr/arti/society/society_general/106480.html) 《한겨레》 2006년 3월 5일
+4.  [농성 KTX 여승무원 80여 명 강제 연행](http://news.sbs.co.kr/section_news/news_read.jsp?news_id=N1000109092) 《SBS뉴스》 2006년 5월 12일
+5.  [KTX 여승무원 지위 '해법찾기'](http://www.fnnews.com/view?ra=Sent0701m_View&corp=fnnews&arcid=071228211617&cDateYear=2007&cDateMonth=12&cDateDay=28) 《파이낸셜뉴스》 2007년 12월 29일
+6.  [서울고법 "KTX 여승무원은 위장도급"](http://www.ohmynews.com/NWS_Web/view/at_pg.aspx?CNTN_CD=A0000879442) 《오마이뉴스》2008년 4월 15일
+7.  ["아무도 가르쳐주지 않았다"](http://h21.hani.co.kr/section-021118000/2006/03/021118000200603080600001.html) 《한겨레21》 2006년 3월 8일, 신승근 김창석의 도전 인터뷰: 칼럼
+8.  ["KTX승무원은 철도공사 직원 맞다" 법원 판결](http://www.newscham.net/news/view.php?board=news&nid=50629) 《민중언론》2008년 12월 3일; 서울중앙지방법원 제50민사부 판결 참조
+9.
+10. [해고된 KTX 여승무원들, 코레일 못 돌아간다](http://www.yonhapnews.co.kr/bulletin/2015/02/25/0200000000AKR20150225195751004.HTML?input=1195m) - 연합뉴스
+11.
+12.
+13.
+14.

@@ -1,0 +1,40 @@
+> This article is converted from Wikipedia: [  \(MLB\)](https://ko.wikipedia.org/wiki/__\(MLB\)).
+
+
+**커미셔너스 트로피**()는 [월드 시리즈에](../Page/월드_시리즈.md "wikilink") 우승한 [메이저 리그 베이스볼](https://ko.wikipedia.org/wiki/메이저_리그_베이스볼 "wikilink") 팀에게 [야구 커미셔너가](../Page/야구_커미셔너.md "wikilink") 수여하는 상이다. 최근의 트로피 디자인은 북아메리카의 최상위의 두 리그, [내셔널 리그와](../Page/내셔널_리그_\(야구\).md "wikilink") [아메리칸 리그에](../Page/아메리칸_리그.md "wikilink") 각각 소속된 팀을 나타내는 깃발을 담고 있다.\[1\] 그 해의 월드 시리즈에 참여한 두 팀은 이전에는 트로피의 바닥 위 두 프레스 핀으로 표현되었다. [내셔널 하키 리그의](https://ko.wikipedia.org/wiki/내셔널_하키_리그 "wikilink") [스탠리 컵](../Page/스탠리_컵.md "wikilink"),\[2\] [내셔널 풋볼 리그의](../Page/내셔널_풋볼_리그.md "wikilink") [빈스 롬바르디 트로피](https://ko.wikipedia.org/wiki/빈스_롬바르디_트로피 "wikilink"), [전미 농구 협회의](https://ko.wikipedia.org/wiki/전미_농구_협회 "wikilink") [래리 오브라이언 트로피](https://ko.wikipedia.org/wiki/래리_오브라이언_트로피 "wikilink")\[3\] 와는 다르게, 미국의 네 개의 메이저 스포츠 중에서는 유일하게 특정 인물의 이름을 따서 이름지은 트로피가 아니다.\[4\]
+
+## 역사
+
+이 트로피는 [세인트루이스 카디널스가](https://ko.wikipedia.org/wiki/세인트루이스_카디널스 "wikilink") [보스턴 레드삭스를](https://ko.wikipedia.org/wiki/보스턴_레드삭스 "wikilink") 이긴 1967년에 처음 수여되었다.\[5\] 스탠리 컵은 우승 팀에게 계속 물려지는 반면에 롬바르디 트로피, 오브라이언 트로피와 같이, 커미셔너스 트로피는 매년 새로 만들어진다.\[6\] 그 이후로 지금까지, 커미셔너스 트로피는 42회 수여되었다. 1994년에는 [선수 파업으로](https://ko.wikipedia.org/wiki/1994년_~_1995년_메이저_리그_베이스볼_파업 "wikilink") 8월 11일에 시즌이 중단되면서 전체 포스트 시즌이 취소가 되었기 때문에 이 해에는 유일하게 수여되지 않았다.\[7\] 커미셔너스 트로피의 최다 수상팀은 1967년 이후로 월드 시리즈 통산 7회 우승한 [뉴욕 양키스이다](https://ko.wikipedia.org/wiki/뉴욕_양키스 "wikilink").\[8\] 각각 3회 우승한 세인트루이스 카디널스와 [신시내티 레즈는](https://ko.wikipedia.org/wiki/신시내티_레즈 "wikilink") 내셔널 리그 팀 중에서 공동 최다 수상을 했고, [오클랜드 애슬레틱스는](https://ko.wikipedia.org/wiki/오클랜드_애슬레틱스 "wikilink") 아메리칸 리그 팀 중에서 4회 수상했다.\[9\] 가장 최근 수상은 [2013년 월드 시리즈에서](../Page/2013년_월드_시리즈.md "wikilink") 우승한 [아메리칸 리그](../Page/아메리칸_리그.md "wikilink") 팀 [보스턴 레드삭스이다](https://ko.wikipedia.org/wiki/보스턴_레드삭스 "wikilink").
+
+## 디자인
+
+현재 트로피 디자인은 1999년에 일부를 다시 디자인한 것으로, [티파니에서](../Page/티파니_\(기업\).md "wikilink") 만들어졌다. 이전의 트로피는 [미네소타주](https://ko.wikipedia.org/wiki/미네소타주 "wikilink") [오와토나](https://ko.wikipedia.org/wiki/오와토나 "wikilink")의 로런스 보걸이 디자인했다.\[10\] 트로피는 바닥을 제외하고 61 cm (24 인치) 높이에, 지름은 28 cm (11 인치) 이다.\[11\] 약 14 kg (30 파운드) 이며\[12\] [스털링 실버로](https://ko.wikipedia.org/wiki/스털링_실버 "wikilink") 만들어졌다. 트로피는 깃발 하나가 하나의 메이저 리그 팀을 상징하는 30개의 금도금된 깃발이 특징이며, 세계를 상징하는 위도와 경도선으로 감싸진 은 야구공 위로 세워져 있다.\[13\] 또한 야구공에는 24 캐럿 금도금된 은 야구공 실밥이 포함되어 있다.\[14\] 바닥에는 "Presented by the Commissioner of Baseball (야구 커미셔너가 수여함)"\[15\] 이라고 커미셔너의 사인이 새겨져 있다.\[16\] 새로운 디자인은 [2000년 월드 시리즈가](../Page/2000년_월드_시리즈.md "wikilink") 끝난 뒤에 우승을 차지한 양키스에게 처음으로 수여되었다.\[17\]
+
+## 같이 보기
+
+  - [커미셔너스 트로피 수상자 목록](https://ko.wikipedia.org/wiki/월드_시리즈_역대_우승_팀_목록 "wikilink")
+  - [크로니클-텔레그래프 컵](https://ko.wikipedia.org/wiki/크로니클-텔레그래프_컵 "wikilink")
+  - [템플 컵](https://ko.wikipedia.org/wiki/템플_컵 "wikilink")
+
+## 참조
+
+[분류:메이저 리그 베이스볼 상](https://ko.wikipedia.org/wiki/분류:메이저_리그_베이스볼_상 "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.

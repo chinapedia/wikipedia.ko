@@ -1,0 +1,54 @@
+> This article is converted from Wikipedia: [HTML ](https://ko.wikipedia.org/wiki/HTML_).
+
+
+**HTML 편집기**()는 인터넷 [웹페이지](https://ko.wikipedia.org/wiki/웹페이지 "wikilink")를 작성하기 위한 편집 도구이다.
+
+프로그래밍 언어와 유사한 특징을 가지고 있다. HTML 편집기로는 [마이크로소프트 프론트페이지](../Page/마이크로소프트_프론트페이지.md "wikilink"), [나모 웹에디터](https://ko.wikipedia.org/wiki/나모_웹에디터 "wikilink"), [어도비 드림위버](../Page/어도비_드림위버.md "wikilink") 등이 있으며, 이는 태그를 통해 편집한 후 미리보기 기능도 가지는 등의 기술이 발달하고 있다. 이는 기존의 텍스트 편집기와는 다른 점이다.
+
+다만, HTML이 문법과 맞게 출력되지 않거나 태그 끝과 시작 부분이 대응되지 않는 등의 버그도 가지고 있다.
+
+## 개요
+
+[HTML](https://ko.wikipedia.org/wiki/HTML "wikilink")과 [CSS](https://ko.wikipedia.org/wiki/CSS "wikilink")의 문법을 몰라도 쉽게 사용할 수 있게 해 주는 편집 툴이다. 개별 웹 페이지를 만들거나, 디렉터리 등 전체 사이트의 구성을 정리하고 관리할 수 있고, 만든 파일을 서버에 업로드하는 [FTP](https://ko.wikipedia.org/wiki/파일_전송_프로토콜 "wikilink") 및 사이트 관리 기능과 이미지를 만들어 관리하는 편리한 기능을 가진 소프트웨어도 있다.
+
+HTML 코드를 모르는 초보자들을 위해 작성자가 보고 있는 화면과 동일한 페이지가 만들어지는 것을 [위지위그](https://ko.wikipedia.org/wiki/위지위그 "wikilink")(WYSIWYG, What You See Is What You Get. 각 단어의 머리 글자를 딴 것) 에디터라고 한다. 위지위그는 본래 화면 이미지 그대로 인쇄할 수 있다는 의미이지만, 브라우저에 표시가 다르거나 프레임 형식 페이지를 제대로 인쇄할 수 없는 등의 인쇄 지원이 빈약한 웹 저작 도구를 가진 위지위그 편집기가 많다.
+
+최근에는 CMS 도구나 포털 개발 소프트웨어 및 블로그 작성 소프트웨어 등 많은 시계열에 의하지 않는 [정적 웹페이지를](https://ko.wikipedia.org/wiki/정적_웹페이지 "wikilink") 만들어 관리할 수 있도록 되어 있으며, 또한 CMS적인 발상으로 웹페이지 디자인이 가능한 제품도 등장하고 있다. 이 도구는 대부분 HTML이나 CSS를 의식하지 않고 텍스트와 이미지를 추가 또는 템플릿에 끼워넣는 제작 스타일로 되어있다. 페이지와 이미지 사이의 연결은 도구가 자동으로 업데이트해주기 때문에 페이지 당 수동으로 끊어진 링크가 발생하지 않는다는 큰 장점이있다. 페이지 수가 많은 사이트에서는 CMS 도구를 사용하여 콘텐츠를 업로드하는 방식이 일반적이고, 페이지 단위로 콘텐츠 편집을 완결한다는 기존의 "웹 페이지 작성 소프트웨어"의 역할은 점차 바뀌고 있다.
+
+[2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink")을 기준으로 최근 출시되는 [드림위버와](../Page/어도비_드림위버.md "wikilink") 같은 대부분의 제품은 위지위즈와 텍스트 편집 모드 두 가지를 동시에 제공하는 것이 특징이며, 위지위그 편집기 특유의 불필요한 코드의 생성도 극히 자제되고 있다.
+
+## 특징
+
+HTML은 [마크업 언어이고](https://ko.wikipedia.org/wiki/마크업_언어 "wikilink"), 프로그래밍 언어와 같은 구조를 가지고 있다. 그런 특성에 해당하는 문서 편집기를 특히 HTML 편집기라고 부른다. 특징은 태그(엘리먼트) 이름과 같은 예약어와 리터럴 문자열 (이중 인용 부호, 기호로 묶은 고정 문자열)을 색으로 표시하는 구문 강조, 문법 검사 및 자동들여 쓰기 표시 등 성형 기능이 있다. 윈도용 [메모장도](../Page/메모장_\(소프트웨어\).md "wikilink") 단순한 HTML 편집 기능이 지원되며, 대한민국에서는 [Editplus](https://ko.wikipedia.org/wiki/Editplus "wikilink")나 [엠에디터](../Page/엠에디터.md "wikilink") 그리고 [UltraEdit](https://ko.wikipedia.org/wiki/UltraEdit "wikilink") 등이 여전히 사용되고 있다. 이러한 것들은 위지위그 기능이 지원되지 않기 때문에, [문서 편집기로](https://ko.wikipedia.org/wiki/문서_편집기 "wikilink") 분류한다.
+
+위지위그가 지원되는 것들로는 Mac OS X의 [프리웨어](https://ko.wikipedia.org/wiki/프리웨어 "wikilink") mi, 셰어웨어 skEdit, [리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink")와 같은 [유닉스 계열](../Page/유닉스_계열.md "wikilink") 운영 체제에서 [KWrite](https://ko.wikipedia.org/wiki/KWrite "wikilink")와 Kate가 HTML 편집에 적합한 기능을 가지고 있다. 텍스트 편집기는 기본적으로 미리 화면은 제공되지 않고, 브라우저에 표시를 확인하거나 미리보기 기능을 선택하면서 편집 작업을 진행하는 것이 보통이다.
+
+## 문제점
+
+많은 상용 웹 저작 도구는 다음과 같은 문제점이 지적되고 있다.
+
+  - HTML 문법대로 출력되지 않는다.
+  - XHTML을 지원하지 않는, 혹은 지원이 부족하다.
+  - 권장되지 않는 태그 옵션이 이용된다.
+  - 이상의 결과로 W3C의 유효성 검사를 통과하지 못한다.
+  - 저작 도구에 대한 고유 태그와 코멘트 등이 삽입되는 경우가 있다.
+  - CSS의 자동 생성 기능을 통해 편집을 반복하면 같은 스타일의 이중 정의가 발생하거나, 사용하지 않는 스타일이 증가한다.
+  - 이상과 같이 여분의 태그들이 계속 발생하여 결과적으로 HTML 파일 크기가 상당히 커지고 만다.
+
+특히 오래된 웹 저작 도구는 이상과 같은 문제가 많기 때문에, 새로운 도구로 전환 또는 HTML 편집기를 사용하여 수동으로 태그 수정을 권장하고 있다.
+
+## 주요 저작도구
+
+주요 저작도구로는 이를테면 다음과 같다.
+
+  - [어도비 드림위버](../Page/어도비_드림위버.md "wikilink")
+  - [나모 웹에디터](https://ko.wikipedia.org/wiki/나모_웹에디터 "wikilink")
+
+과거에 지원되었던, [마이크로소프트](https://ko.wikipedia.org/wiki/마이크로소프트 "wikilink")의 [프론트 페이지나](https://ko.wikipedia.org/wiki/프론트_페이지 "wikilink") [넷스케이프](https://ko.wikipedia.org/wiki/넷스케이프 "wikilink")의 컴포저와 같은 제품은 업데이트가 되지 않아, 현재의 기술 표준에 미치지 못한다.
+
+## 관련 항목
+
+  - [HTML](https://ko.wikipedia.org/wiki/HTML "wikilink")
+  - [텍스트 편집기](https://ko.wikipedia.org/wiki/텍스트_편집기 "wikilink")
+
+[분류:문서 편집기](https://ko.wikipedia.org/wiki/분류:문서_편집기 "wikilink") [HTML_편집기](https://ko.wikipedia.org/wiki/분류:HTML_편집기 "wikilink") [분류:HTML](https://ko.wikipedia.org/wiki/분류:HTML "wikilink")

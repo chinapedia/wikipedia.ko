@@ -1,0 +1,21 @@
+> This article is converted from Wikipedia: [JNN  22 ](https://ko.wikipedia.org/wiki/JNN__22_).
+
+
+**JNN 뉴스 22 프라임타임**은 일본의 민영방송국 [도쿄 방송에서](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink") [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink") [10월 5일부터](https://ko.wikipedia.org/wiki/10월_5일 "wikilink") [1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink") [9월 30일까지](https://ko.wikipedia.org/wiki/9월_30일 "wikilink") 방송한 뉴스 프로그램이다.
+
+## 개요
+
+  - 이전까지 드라마나 버라이어티 프로그램등을 편성해 온 오후 10시 시간대에 대에 방송을 시작하면서 경쟁 프로그램인 「[뉴스 스테이션](../Page/뉴스_스테이션.md "wikilink")」(TV 아사히)을 따라잡으려 했으나 시청률 침체와 메인 진행자의 여성편력이 악재로 작용하면서 1년 만에 프로그램을 마치게 되었다.
+  - 원래 이 프로그램의 보조 진행자로 유명 배우인 [구로야나기 데쓰코를](https://ko.wikipedia.org/wiki/구로야나기_데쓰코 "wikilink") 채용하기로 했었으나 이 제안을 받아들일 경우 당시 자신이 진행자로 있던 인기 음악 프로그램 [더 베스트 텐의](https://ko.wikipedia.org/wiki/더_베스트_텐 "wikilink") 진행자 자리에서 물러나지 않으면 안된다는 사실을 안 그녀는 이 프로그램의 사회를 계속 맡겠다고 하면서 이 이야기는 없었던 일이 되었다.
+      - 그리고 방송국 측에서는 당시 [아사히 신문에서](../Page/아사히_신문.md "wikilink") 일하고 있던 진보계열 저널리스트 지쿠시 데쓰야에게 메인 진행자 자리를 제안했으나 아사히 신문 계열사이자 이 방송이 시작하기 9년 전 [일요석간\! 이쪽데스크](https://ko.wikipedia.org/wiki/일요석간!_이쪽데스크 "wikilink")\[1\]라는 뉴스 프로그램을 통해 지쿠시 데쓰야와 깊은 관계를 맺어온 TV 아사히 측에서 강하게 반발하였고 결국 [도쿄 방송은](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink") 그를 메인 진행자로 채용하지 않기로 결정했다\[2\]
+
+## 각주
+
+<references/>
+
+## 프로그램 변천
+
+[분류:일본의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:일본의_텔레비전_프로그램 "wikilink") [분류:일본의 뉴스 프로그램](https://ko.wikipedia.org/wiki/분류:일본의_뉴스_프로그램 "wikilink")
+
+1.  이 프로그램은 지쿠시 데쓰야가 처음으로 맡은 TV 프로그램이었다.
+2.  이 때 TBS측의 제안을 수용할 의사를 밝혔던 지쿠시 데쓰야는 이 일이 있고난 뒤 뉴욕으로 전근을 가게 되었으며 그가 뉴욕에 주재하고 있던 1989년 여름 도쿄 방송은 다시 그에게 메인 진행자 자리를 제안하였고 이렇게 해서 그 해 10월 새 뉴스 프로그램 [지쿠시 데쓰야 NEWS23이](../Page/NEWS23.md "wikilink") 시작되었다.

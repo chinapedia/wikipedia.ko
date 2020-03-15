@@ -1,0 +1,16 @@
+> This article is converted from Wikipedia: [ RT](https://ko.wikipedia.org/wiki/_RT).
+
+
+**3호선 스카버러** () 또는 **스카버러 RT** (Scarborough RT)는 [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink") [온타리오주](https://ko.wikipedia.org/wiki/온타리오주 "wikilink") [토론토](https://ko.wikipedia.org/wiki/토론토 "wikilink") 동부의 스카버러 지역을 잇는 길이 6.4km, 6개 정거장의 [토론토 교통국의](https://ko.wikipedia.org/wiki/토론토_교통국 "wikilink") [도시 철도 노선이다](https://ko.wikipedia.org/wiki/도시_철도_노선 "wikilink"). 노선 대부분은 고가로 운행하며 2호선 [블루어-댄포스 선과](https://ko.wikipedia.org/wiki/블루어-댄포스_선 "wikilink") 연결되는 [케네디 역에서](https://ko.wikipedia.org/wiki/케네디_역_\(TTC\) "wikilink") 출발해 북동쪽 종점인 [매코원 역에서](https://ko.wikipedia.org/wiki/매코원_역 "wikilink") 종착한다.
+
+토론토 교통국의 세 중전철 노선과 달리 3호선 전동차는 작고 자동화된 중형 전동차인 ICTS Mark I 전동차를 사용한다. 전동차는 리니어 모터로 굴러가며 토론토 궤간인 1495mm와는 다르게 표준궤인 1435mm를 이용한다. 이런 형식의 전동차는 [밴쿠버 스카이트레인과](https://ko.wikipedia.org/wiki/밴쿠버_스카이트레인 "wikilink") [디트로이트 피플 무버와](https://ko.wikipedia.org/wiki/디트로이트_피플_무버 "wikilink") 같은 형식으로, 토론토 교통국은 이런 형식의 전동차를 유인으로 반자동 운전하는 유일한 곳이다.
+
+1985년에 이 노선이 개통한 이후 별다른 변화를 맞지 못하였으며, 승하차량이 가장 저조한 두 역이 이 노선에 있기도 하다. 최근 [온타리오주](https://ko.wikipedia.org/wiki/온타리오주 "wikilink")와 [토론토](https://ko.wikipedia.org/wiki/토론토 "wikilink") 시 당국은 이 노선을 리모델링하기 위해 경전철 형식으로 바꿀지 아니면 이 노선을 폐쇄하고 [블루어-댄포스 선의](https://ko.wikipedia.org/wiki/블루어-댄포스_선 "wikilink") 일부로 연장을 할 지에 대한 논의가 오가고 있다. 온타리오 주는 2013년 9월에 이 도시 철도 노선을 폐쇄하는 대신 [스카버러 센터 역까지](https://ko.wikipedia.org/wiki/스카버러_센터_역 "wikilink") 가는 지하철 노선을 짓도록 하겠다고 밝혔다.\[1\]
+
+## 각주
+
+<references/>
+
+[분류:토론토 교통국](https://ko.wikipedia.org/wiki/분류:토론토_교통국 "wikilink") [스카버러_RT](https://ko.wikipedia.org/wiki/분류:스카버러_RT "wikilink") [분류:토론토 지하철](https://ko.wikipedia.org/wiki/분류:토론토_지하철 "wikilink") [분류:1985년 개통한 철도 노선](https://ko.wikipedia.org/wiki/분류:1985년_개통한_철도_노선 "wikilink")
+
+1.

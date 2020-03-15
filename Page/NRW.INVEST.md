@@ -1,0 +1,62 @@
+> This article is converted from Wikipedia: [NRW.INVEST](https://ko.wikipedia.org/wiki/NRW.INVEST).
+
+
+**NRW.INVEST GmbH**는 [노르트라인베스트팔렌주](https://ko.wikipedia.org/wiki/노르트라인베스트팔렌주 "wikilink")(NRW) 소유의 [경제](../Page/경제.md "wikilink")개발공사이다. 해외기업의 [투자](../Page/투자.md "wikilink")유치 및 관리가 주요업무이며 [경제](../Page/경제.md "wikilink")거점으로서의 NRW주를 국제적으로 [마케팅](../Page/마케팅.md "wikilink")한다.\[1\] 해외 [투자](../Page/투자.md "wikilink")자들을 위한 중심 창구 역할을 하는 NRW.INVEST는 국제적 기업들이 NRW주에 [투자](../Page/투자.md "wikilink")프로젝트를 진행할 때 이를 지원한다.\[2\]\[3\] NRW.INVEST는 [뒤셀도르프](https://ko.wikipedia.org/wiki/뒤셀도르프 "wikilink")에 소재하고 있다. [일본](../Page/일본.md "wikilink")과 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")에 자회사를 두고 있으며 [중국](https://ko.wikipedia.org/wiki/중국 "wikilink"), [인도](https://ko.wikipedia.org/wiki/인도 "wikilink"), [한국](https://ko.wikipedia.org/wiki/한국 "wikilink")및, [폴란드](https://ko.wikipedia.org/wiki/폴란드 "wikilink"), [이스라엘](https://ko.wikipedia.org/wiki/이스라엘 "wikilink"), [러시아](../Page/러시아.md "wikilink")[터키](https://ko.wikipedia.org/wiki/터키 "wikilink")에 해외대표사무소를 운영하고 있다. NRW.INVEST는 전적으로 NRW주의 소유이다.
+
+지난 2010년 노르트라인 베스트발렌주 경제개발공사 NRW.INVEST는 창립 50주년을 맞았다. NRW.INVEST 는 1960년 “라이니쉬-베스트팔렌 산업진흥공사 Rheinisch-Westfälische Industrieförderungsgesellschaft mbH”로 출범하였으며 당시 주정부로부터 위기에 처해있던 광산업을 대체할 후속산업을 모집하라는 의뢰를 받았다.\[4\]
+
+## 업무/ 서비스
+
+글로벌 경쟁에서 경쟁력을 갖추기 위해 세계적으로 해외직접투자(FDI)를 유치하기 위한 경쟁이 치열하다. NRW주는 특히 [런던](https://ko.wikipedia.org/wiki/런던 "wikilink")이나 [파리](https://ko.wikipedia.org/wiki/파리_\(도시\) "wikilink"), [네덜란드](https://ko.wikipedia.org/wiki/네덜란드 "wikilink") 란스타드 등과 같은 [유럽](https://ko.wikipedia.org/wiki/유럽 "wikilink")의 메트로폴 지역이나 전 세계 인구밀집지역과 경쟁하고 있다.\[5\] \[6\] NRW주를 [유럽](https://ko.wikipedia.org/wiki/유럽 "wikilink")의 [경제](../Page/경제.md "wikilink") 거점으로 전 세계에 [마케팅](../Page/마케팅.md "wikilink")하기 위해 NRW.INVEST는 해외[투자](../Page/투자.md "wikilink")자들의 진출 시 필요한 관련 서비스를 제공하며, 이 과정에서 NRW 주[정부](https://ko.wikipedia.org/wiki/정부 "wikilink") 및 지자체 경제개발기관과 긴밀하게 협력하여 일한다.\[7\] NRW.INVEST는 연방주 및 산업부문 별 전문가팀으로 조직되어 있다. [뒤셀도르프](https://ko.wikipedia.org/wiki/뒤셀도르프 "wikilink") 본사 및 해외 현지의 자회사와 대표사무소의 직원들은 모두 [투자](../Page/투자.md "wikilink")에 관심이 있는 기업들에게 NRW주의 [투자](../Page/투자.md "wikilink")입지, [경제](../Page/경제.md "wikilink")상황, [산업](../Page/산업.md "wikilink")부문 클러스터 등에 관한 정보를 비롯하여 [독일](https://ko.wikipedia.org/wiki/독일 "wikilink") 진출 시에 필요한 세금과 법률 관련 각종 정보를 제공한다.\[8\]
+
+일반적인 정보 전달 외에도 NRW.INVEST 는 잠재[투자](../Page/투자.md "wikilink")자들의 특수한 요구에 상응하는 지원을 한다. 요청이 있을 경우 투자계획 분석 및 적합한 입지 선정 컨설팅 등의 서비스를 제공한다. 이와 같은 서비스에는 산업부지 포털사이트인 Germansite도 포함된다. germansite.com사이트에서 투자자들은 NRW주의 유휴 산업부지 관련 정보를 검색할 수 있다. 이용자들은 약 1,000여 건의 유휴 [산업](../Page/산업.md "wikilink")부지에 대한 상세한 지리정보와 연락처 등을 얻을 수 있다. 지역 경제 및 주변 산업구조에 대한 정보도 검색이 가능하다.\[9\] \[10\]
+
+NRW.INVEST 는 투자자들에게 비자발급, 시장조사, 창업 및 개별 허가과정에 관한 전반적인 컨설팅을 제공한다. 또한 [투자](../Page/투자.md "wikilink")자와 [투자](../Page/투자.md "wikilink")관련 관청(연방노동청, 외국인청 및 건축청 등) 간의 중개업무도 한다. [투자](../Page/투자.md "wikilink")가 이루어진 이후에도NRW.INVEST는 해외투자자들에게 정보 및 [교육](../Page/교육.md "wikilink")프로그램을 제공하고 사업확장이나 신규회사 및 자회사 설립 시 컨설팅을 제공한다. 글로벌 차원에서 활동하는 NRW.INVEST는 다양한 [국제](https://ko.wikipedia.org/wiki/국제 "wikilink")적 기관들과 협력한다. 예를 들면 NRW.INVEST는 [독일](https://ko.wikipedia.org/wiki/독일 "wikilink")-[프랑스](../Page/프랑스.md "wikilink") 상공회의소, 주독미국상공회의소,\[11\] 주독영국상공회의소\[12\] ChemCologne,\[13\] ChemSite,\[14\][독일](https://ko.wikipedia.org/wiki/독일 "wikilink")-[영국](https://ko.wikipedia.org/wiki/영국 "wikilink") 상공회의소,\[15\] [터키](https://ko.wikipedia.org/wiki/터키 "wikilink")-[독일](https://ko.wikipedia.org/wiki/독일 "wikilink") 상공회의소\[16\] 등과 같은 기관의 회원이다.
+
+## 해외활동
+
+[뒤셀도르프](https://ko.wikipedia.org/wiki/뒤셀도르프 "wikilink") 본사 외에도 NRW.INVEST는 전 세계에 2개의 자[회사](../Page/회사.md "wikilink")와 13개의 해외대표사무소를 두고 있다. 이들 자회사와 대표사무소는 각 국가에서 [경제](../Page/경제.md "wikilink"), [정치](https://ko.wikipedia.org/wiki/정치 "wikilink") 및 행정 관련 연락사무소로 활동하며 [경제](../Page/경제.md "wikilink")입지로서 NRW주를 홍보하고 현지에서 직접 [투자](../Page/투자.md "wikilink")유치 활동을 펼친다. 2007년 이래로 NRW.INVEST는 해외활동을 성장시장인 [인도](https://ko.wikipedia.org/wiki/인도 "wikilink")와 [터키](https://ko.wikipedia.org/wiki/터키 "wikilink")로 확대하였다. 이들 경제국가들이 갈수록 세계경제 속으로 강하게 편입되면서 해외투자가 크게 늘어날 것으로 전망된다. 이에 따라 NRW.INVEST는 [인도](https://ko.wikipedia.org/wiki/인도 "wikilink")의 [푸네](https://ko.wikipedia.org/wiki/푸네 "wikilink")에 대표사무소를 열었고,\[17\] 2008년 1월에는 [독일](https://ko.wikipedia.org/wiki/독일 "wikilink") 연방주 중에서는 최초로 [이스탄불](https://ko.wikipedia.org/wiki/이스탄불 "wikilink")에 진출했다.\[18\] NRW.INVEST 산하 해외대표사무소가 갖는 중요성은 [일본](../Page/일본.md "wikilink")의 경우를 보면 잘 알 수 있다. NRW.INVEST의 [일본](../Page/일본.md "wikilink") 자[회사](../Page/회사.md "wikilink")인 NRW Japan K.K.의 노력과 NRW.INVEST의 적극적인 [투자](../Page/투자.md "wikilink")유치 정책은 NRW주가 일본기업들의 중요한 경제 거점으로 발돋움하는데 결정적인 역할을 하였다. NRW주에 진출한 [일본](../Page/일본.md "wikilink")기업은 600개를 웃돌며 주도인 [뒤셀도르프](https://ko.wikipedia.org/wiki/뒤셀도르프 "wikilink")는 "리틀 도쿄"
+
+로 불리기도 한다. NRW.INVEST는 [난징](https://ko.wikipedia.org/wiki/난징 "wikilink"), [상하이](https://ko.wikipedia.org/wiki/상하이 "wikilink")\[19\], [북경](https://ko.wikipedia.org/wiki/북경 "wikilink"), [쓰촨](https://ko.wikipedia.org/wiki/쓰촨_성 "wikilink"), [청두](https://ko.wikipedia.org/wiki/청두 "wikilink"), [광주](https://ko.wikipedia.org/wiki/광주 "wikilink")\[20\] 및 [서울](https://ko.wikipedia.org/wiki/서울 "wikilink"), [상트페테르부르크](../Page/상트페테르부르크.md "wikilink"), [실리콘 밸리](https://ko.wikipedia.org/wiki/실리콘_밸리 "wikilink"), [텔 아비브](https://ko.wikipedia.org/wiki/텔_아비브 "wikilink"), [모스크바](https://ko.wikipedia.org/wiki/모스크바 "wikilink") 및 [바르샤바](https://ko.wikipedia.org/wiki/바르샤바 "wikilink")\[21\] 에 대표사무소를 운영하고 있다. 2008년에는 [시카고](https://ko.wikipedia.org/wiki/시카고 "wikilink")에 두 번째 자회사를 설립했다.
+
+## NRW주의 해외직접투자 현황
+
+NRW주는 국내외에서 [기업](https://ko.wikipedia.org/wiki/기업 "wikilink")들을 유치하고 있다. [독일](https://ko.wikipedia.org/wiki/독일 "wikilink")의 50개 대기업 중 19개 [기업](https://ko.wikipedia.org/wiki/기업 "wikilink")이 NRW주에 소재하고 있다. Bayer [바이엘 (기업)](../Page/바이엘_\(기업\).md "wikilink") , Bertelsmann, Deutsche Telekom [바이엘 (기업)](../Page/바이엘_\(기업\).md "wikilink"), Deutsche Post [DHL](../Page/DHL.md "wikilink"), E.ON, Metro, Henkel, ThyssenKrupp [티센크루프](https://ko.wikipedia.org/wiki/티센크루프 "wikilink") 등을 비롯한 독일내50대 굴지 대기업 가운데 17개 기업이 이곳, 노르트라인 베스트팔렌 주에 입지해 있습니다.
+
+전체 [독일](https://ko.wikipedia.org/wiki/독일 "wikilink")에서 NRW주는 가장 많은 해외직접[투자](../Page/투자.md "wikilink")를 유치하였다. 2017년 NRW주는 [독일](https://ko.wikipedia.org/wiki/독일 "wikilink") 해외직접[투자](../Page/투자.md "wikilink")의 23.3% (1천7백25억 [유로](https://ko.wikipedia.org/wiki/유로 "wikilink"))를 차지하여 전체 16개 [독일](https://ko.wikipedia.org/wiki/독일 "wikilink") [연방](https://ko.wikipedia.org/wiki/연방 "wikilink")주들 중 압도적인 1위를 기록하였다.
+
+주요 [투자](../Page/투자.md "wikilink")국에서 진출한 약 19,000개의 해외 [기업](https://ko.wikipedia.org/wiki/기업 "wikilink")들은 [독일](https://ko.wikipedia.org/wiki/독일 "wikilink") 또는 [유럽](https://ko.wikipedia.org/wiki/유럽 "wikilink")에서 NRW주를 거점으로 [사업](../Page/사업.md "wikilink")활동을 펼치고 있다. 이로써 [독일](https://ko.wikipedia.org/wiki/독일 "wikilink") 내 해외사업장의 거의 4분의 1이 NRW주에 소재해 있으며, 국제적인 글로벌 [기업](https://ko.wikipedia.org/wiki/기업 "wikilink")인 BP, 3M, Ericsson, Ford, Fujitsu, [화웨이](../Page/화웨이.md "wikilink") Electronics, QVC, Toyota, [UPS (기업)](../Page/UPS_\(기업\).md "wikilink"), [보다폰](../Page/보다폰.md "wikilink") 등이 대표적인 예이다. 이들 [기업](https://ko.wikipedia.org/wiki/기업 "wikilink")의 고용 규모는 총 1,000,000명에 달한다.
+
+## 각주
+
+## 외부 링크
+
+  - [NRW.INVEST website](http://www.nrwinvest.com/)
+  - [NRW.INVEST China](http://www.nrwinvestchina.cn/)
+  - [NRW.INVEST Japan](http://www.nrw.co.jp/)
+  - [Germansite - NRW주 산업부지 포털사이트](http://www.germansite.com/)
+  - [노르트라인베스트팔렌 주정부 경제에너지산업 및 중기업수공업부](http://www.economy.nrw.de/index.php)
+
+[독일의_경제](https://ko.wikipedia.org/wiki/분류:독일의_경제 "wikilink") [분류:투자](https://ko.wikipedia.org/wiki/분류:투자 "wikilink") [분류:노르트라인베스트팔렌주](https://ko.wikipedia.org/wiki/분류:노르트라인베스트팔렌주 "wikilink") [분류:노르트라인베스트팔렌주의 경제](https://ko.wikipedia.org/wiki/분류:노르트라인베스트팔렌주의_경제 "wikilink")
+
+1.  [독일NRW 연방주 경제∙이노베이션∙디지털화∙에너지](https://www.wirtschaft.nrw/investieren-nrw)  노르트라인 베스트팔렌 주 정부 홈페이지
+2.  [Investment Guide to North Rhine-Westphalia](http://www.nrwinvest.com/nrwinvest_englisch/Publications/Investment_Guide_to_North_Rhine-Westphalia_.pdf)  Investment Guide to North Rhine-Westphalia .
+3.   지방 경제개발연구소 |확인날짜=2015-10-12 |보존url=<https://web.archive.org/web/20150907200444/http://www.amcham.de/services/overview/information/access-germany/> |보존날짜=2015-09-07 |url-status=dead }}
+4.  [1960-2010 NRW.INVEST](http://www.nrwinvest.com/About_us/50_Years_NRW_INVEST/index.php) 《노르트라인 베스트팔렌주 경제거점과 함께 걸어온 50년》
+5.  [Welt am Sonntag](http://www.welt.de/wams_print/article2030946/Das_Ausland_entdeckt_den_Standort_NRW.html) 《유럽의 새로운 외국인 투자소재지 - 노르트라인 베스트팔렌》,Welt am Sonntag, 2008년 5월25일.
+6.  [Wirtschaftswoche](http://www.wiwo.de/politik/nrw-auf-dem-weg-zur-globalen-drehscheibe-294619/3/) 《유럽의 중요한 비지니스 소재지로 자리 잡고있는 노르트라인 베스트팔렌》WirtschaftsWoche, 2008년 6월6일.
+7.  [China Radio International | CRI Online](http://german.cri.cn/401/2008/06/25/1s95585.htm) 《독일에서 사업하는 중국 투자자들의대한 기사와 오디오파일》 China International Radio, 2008년 6월 25일.
+8.  [교포신문,《“NRW.INVEST AWARDS 2015” 성황리 개최 》](http://kyoposhinmun.com/detail.php?number=14408&thread=22r05) 교포신문, 2015년06월30일.
+9.  [ExpoReal | 엑스포 데이터베이스](http://www.exporeal-mediaservices.de/prj_845/view/index.cfm?nv=1.1.1&LNG=2&elb=845.1100.2308.1.1111)  《국제 상업소재지 엑스포에 Germansite를 광고하는 NRW.Invest》, ExpoReal
+10. [Handwerksblatt](http://www.handwerksblatt.de/politik-wirtschaft/43-die-handwerkskammern-in-deutschland/hwk-dortmund/4195-gewerbeflaechen-in-nrw-online-suchen-1.html)  《노르트라인 베스트팔렌의 상업소재지 온라인으로 찾기》Handwerksblatt, 2007년 9월 출간
+11.
+12. [주독영국상공회의소](http://www.bccg.de/)
+13. [ChemCologne](http://www.chemcologne.de/en/home.html)  쾰른지역의 화학산업의 발전과 투자개선, 그리고 홍보를 목표로하는 기관.
+14. [NRW.INVEST ChemSite](http://www.emscher-lippe.de/chemsite/chemsite-partner/) 《루르지역에 소재하고있는 화학업계들의 대한 투자자 정보제공》
+15. [독일-영국 상공회의소](http://grossbritannien.ahk.de/en/members)
+16. [독일-터키 상공회의소](http://www.td-ihk.de)
+17.  [« Seeking investment: Rhine-Westphalia pins hope on Pune»](http://www.indianexpress.com/news/seeking-investment-rhinewestphalia-pins-hope-on-pune/588629/) The Indian Express, 9 July 2010
+18. [Turkish investors seek opportunities in North Rhine-Westphalia](http://www.todayszaman.com/news-209037-106-turkish-investors-seek-opportunities-in-north-rhine-westphalia.html)  « Todays Zaman, Turkish investors seek opportunities in North Rhine-Westphalia, 2nd May 2010 »
+19. [German Ministry of Foreign Affairs](http://www.schanghai.diplo.de/Vertretung/shanghai/de/newsletter/Newsletter__11-09,variant=issue.html)《NRW.Invest 상하이에 새로운 사무소 설립》, 주상해 독일 대사관 홈페이지
+20. [Guangdong News, German economic development agency opens Guangzhou office](http://www.newsgd.com/gdnews/content/2014-07/08/content_103751153.htm) Guangdong News, German economic development agency opens Guangzhou office, 8. Juli 2014
+21.

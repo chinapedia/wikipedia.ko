@@ -1,0 +1,280 @@
+> This article is converted from Wikipedia: [ KGC ](https://ko.wikipedia.org/wiki/_KGC_).
+
+
+**안양 KGC인삼공사 프로농구단**(Anyang KGC Ginseng Corporation Pro Basketball Club)은 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [안양시](https://ko.wikipedia.org/wiki/안양시 "wikilink")를 연고로 하는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 프로 [농구](https://ko.wikipedia.org/wiki/농구 "wikilink")단이다. 전신 구단으로는 안양 SBS 스타즈로 [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink")부터 존재해 왔다. 2008-09 시즌에는 [인천 전자랜드 엘리펀츠와](https://ko.wikipedia.org/wiki/인천_전자랜드_엘리펀츠 "wikilink") [창원 LG 세이커스와의](../Page/창원_LG_세이커스.md "wikilink") 경쟁에서 밀려나며 7위로 플레이오프에 탈락했다. [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") 모기업 [KT\&G](https://ko.wikipedia.org/wiki/KT&G "wikilink")가 이사회 결의를 통해 자회사인 [한국인삼공사](https://ko.wikipedia.org/wiki/한국인삼공사 "wikilink")에게 스포츠단 지분 100%를 옮기면서 팀명과 엠블렘을 변경하여 2010-11 시즌부터 참가했다. 2011-12 시즌에는 신인 [오세근](../Page/오세근.md "wikilink")의 활약으로 당해 시즌 정규리그 1위팀이었던 [원주 DB 프로미와의](https://ko.wikipedia.org/wiki/원주_DB_프로미 "wikilink") [KBL 챔피언 결정전에서](../Page/KBL_챔피언_결정전.md "wikilink") 6차전까지 가는 접전 끝에 시리즈 전적 4승 2패로 승리하고 창단 첫 우승을 차지하였다.\[1\]
+
+## 역사
+
+### 1997-2005 시즌 (안양 SBS 스타즈 시절)
+
+  - 1997 시즌 8개팀 중 2위를 기록해서 4강 플레이오프에 직행했다. 첫 시즌 [김동광](../Page/김동광.md "wikilink") 감독은 4강 플레이오프에서의 챔피언결정전 진출 실패(원주 나래 해커스 4:1 안양 SBS 스타즈)로 인해 사퇴했다.
+
+<!-- end list -->
+
+  - 1997-98, 1998-99 시즌은 각각 8위, 7위로 플레이오프 진출도 하지 못했다. 당시 [강정수](../Page/강정수.md "wikilink") 감독이 지휘하였으나 그도 역시 성적 부진으로 인해서 [1999년 4월](https://ko.wikipedia.org/wiki/1999년_4월 "wikilink") 사퇴했다.
+
+<!-- end list -->
+
+  - 1999-2000 시즌 [김인건](https://ko.wikipedia.org/wiki/김인건 "wikilink") 감독이 취임하였다. 그는 1999-2000 시즌의 안양 SBS 스타즈를 5위로 올려놓았다. 6강 플레이 오프에서 원주 삼보 엑서스를 만나 3대1로 4강 플레이 오프에 진출했으나 대전 현대 다이넷에 3대 0으로 패배했다. 2000-01 시즌에는 안양 SBS 스타즈는 4위까지 올라서 6강에서 인천 신세기 빅스를 이기고 4강에 진입했으나 역시 4강 플레이오프에서 [서울 삼성 썬더스에](https://ko.wikipedia.org/wiki/서울_삼성_썬더스 "wikilink") 1:3의 참패를 당했다. 2001-02 시즌에는 6위를 차지하고 6강 플레이오프에 진입했으나 [전주 KCC 이지스에](../Page/전주_KCC_이지스.md "wikilink") 완패했다. 그 시즌을 끝으로 [김인건](https://ko.wikipedia.org/wiki/김인건 "wikilink") 감독이 사퇴한다.
+
+<!-- end list -->
+
+  - [정덕화](https://ko.wikipedia.org/wiki/정덕화 "wikilink") 감독의 체제로 새로운 안양 SBS 스타즈가 탄생했다. 그러나 안양 SBS 스타즈는 초반 2위까지 오르다가 하락해서 7위를 지키는 듯 하다가 막판에 8위로 떨어지면서 2002-03 시즌은 실패했다. 2003-04 시즌도 재정비를 다짐했으나 [전주 KCC 이지스와의](../Page/전주_KCC_이지스.md "wikilink") 몰수게임이 벌어지고 그 후 7연패까지 빠지는 등 고전하다가 9위로 시즌을 마감한다. [2004년 5월](https://ko.wikipedia.org/wiki/2004년_5월 "wikilink") 정덕화 감독이 사퇴했다.
+
+<!-- end list -->
+
+  - 그 뒤, [김동광](../Page/김동광.md "wikilink") 감독이 다시 취임하였다. 2004-05 시즌은 최고의 전성기였다. 초반에는 개막 3연패 등 부진을 면하지 못했다. SBS는 올스타전 직전에 7위를 기록하고 이 시즌도 그렇게 마감하는 듯 했으나 [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [2월 5일부터](https://ko.wikipedia.org/wiki/2월_5일 "wikilink") 조 번의 대체 용병으로 등장한 [단테 존스에](https://ko.wikipedia.org/wiki/단테_존스 "wikilink") 힘입어서 안양 SBS 스타즈가 15연승을 하는 등 3위까지 올랐다. 그러나 상대 전적에서 3승 3패로 팽팽했던 [대구 오리온스를](https://ko.wikipedia.org/wiki/고양_오리온스 "wikilink") 꺾고 4강을 오르고 [전주 KCC 이지스와](../Page/전주_KCC_이지스.md "wikilink") 원주 TG삼보 엑서스까지 꺾는 듯 하더니 [전주 KCC 이지스전에서](../Page/전주_KCC_이지스.md "wikilink") 멈춰 섰다. 이 시즌을 끝으로 모기업 [SBS](../Page/SBS.md "wikilink")는 [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [8월 17일](https://ko.wikipedia.org/wiki/8월_17일 "wikilink") 인수 대금 27억원에 [KT\&G](https://ko.wikipedia.org/wiki/KT&G "wikilink")로 농구단을 매각하게 되어 안양 SBS 스타즈는 역사 속으로 사라지고 안양 KT\&G 카이츠라는 팀명으로 재창단하였다.\[2\]
+
+### 2005년 안양 KT\&G 카이츠 창단
+
+  - 2005-06 시즌 9할대 승률 1위를 예상하는 자도 적지 않았다. 그러나 3라운드의 부진을 결국 떨치지 못하고 승률 5할을 기록하고도 플레이오프 진출에 실패하였다.
+
+#### 2005-06 시즌 안양 KT\&G 카이츠의 3라운드 부진의 이유
+
+당시의 용병은 허브 래미자냐와 [단테 존스였다](https://ko.wikipedia.org/wiki/단테_존스 "wikilink"). 래미자냐는 100kg도 되지 않아서 거구들에게 밀렸다. 게다가 단테 존스가 점점 개인적으로 변해가고 있었다. 그런 가운데에서 [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [12월 3일](https://ko.wikipedia.org/wiki/12월_3일 "wikilink") 꼴찌 팀이었던 [인천 전자랜드 블랙슬래머에](https://ko.wikipedia.org/wiki/인천_전자랜드_블랙슬래머 "wikilink") 대패한 것을 시작으로 안양 KT\&G 카이츠의 폭락은 시작되었다. [12월 17일](https://ko.wikipedia.org/wiki/12월_17일 "wikilink") [전주 KCC 이지스에](../Page/전주_KCC_이지스.md "wikilink") 승리를 거둔 뒤 6연패에 빠졌다. 급기야는 인천 전자랜드 블랙슬래머에 밀려 꼴찌된다는 말이 나올 정도였다. 그나마 후반에 분발해서 5할 승률을 기록하면서 다음 시즌을 기약할 수 있었다.
+
+### 2006-07 시즌, 2007-08시즌
+
+2006-07 시즌 개막후 16번째 경기까지 6승 10패라는 실망스런 성적으로 인해 김동광 감독은 안양 KT\&G 카이츠에서 사퇴한다. 이후 [김상식](../Page/김상식_\(농구인\).md "wikilink") 감독의 대행체제로 가다 [유도훈](../Page/유도훈.md "wikilink") 감독이 취임한다. 안양 KT\&G 카이츠는 점점 상승세로 돌아서더니 결국 SK와 동부 전자랜드를 따돌리고 6위로 플레이 오프를 진출한다. 그러나 [부산 KTF 매직윙스의](https://ko.wikipedia.org/wiki/부산_KTF_매직윙스 "wikilink") 벽에 막혔다.
+
+2007-08 시즌에는 [단테 존스도](https://ko.wikipedia.org/wiki/단테_존스 "wikilink") 떠났다. KT\&G는 그렇게 하위권 시즌이 예상되었으나 4위, 4강 진출을 일구어 냈다. 6강 플레이오프에서 [방성윤](../Page/방성윤.md "wikilink")과 [김태술](../Page/김태술.md "wikilink")이 이끄는 [서울 SK 나이츠를](https://ko.wikipedia.org/wiki/서울_SK_나이츠 "wikilink") 격파하고, 4강에서 [김주성이](../Page/김주성_\(농구_선수\).md "wikilink") 이끄는 [원주 동부 프로미에](https://ko.wikipedia.org/wiki/원주_동부_프로미 "wikilink") 무릎을 꿇는다. 4강 플레이오프 직전 팀의 핵심 식스맨인 [김일두가](https://ko.wikipedia.org/wiki/김일두_\(농구_선수\) "wikilink") 연습중에 부상을 당했는데, 후에 [주희정](../Page/주희정.md "wikilink")은 '김일두가 부상을 당하지 않았으면 플레이오프의 판도는 바뀌었을 것이다.' 라고 말했다. 당시 외국인 선수는 마퀸 챈들러와 TJ 커밍스였으며 거의 풀타임을 소화하는 주희정을 중심으로 안양 KT\&G 카이츠는 속공과 조직력으로 중상위권의 성적을 일구어냈다. [양희종](../Page/양희종.md "wikilink") 등 신인도 많이 배출되었다.
+
+### 2008-09시즌
+
+시즌 전 [유도훈](../Page/유도훈.md "wikilink") 감독이 갑작스럽게 사퇴하면서, [이상범](../Page/이상범_\(농구인\).md "wikilink") 코치가 감독대행 체제로 되었다. 당시의 베스트5는 [주희정](../Page/주희정.md "wikilink"), [황진원](../Page/황진원.md "wikilink"), [양희종](../Page/양희종.md "wikilink"), 마퀸 챈들러, 캘빈 워너였으며 김일두, [신제록](https://ko.wikipedia.org/wiki/신제록 "wikilink") 등이 식스맨으로 활약했다. 시즌 초반에 상위권까지 갔으나, 캘빈 워너의 장기 부상과 대체 용병들의 실망스러운 플레이로 중하위권으로 추락하게 된다. 캘빈 워너의 복귀로 상위권으로 올라갈 것이라 예상되었으나, 캘빈 워너의 마약 혐의로 인해 결국 그 공백을 매우지 못하고 29승 25패, 7위로 시즌을 마감하게 된다.
+
+시즌 전 약체로 분류되었던 안양 KT\&G 카이츠를 이끌며 득점, 어시스트, 리바운드 에서 뛰어난 활약을 보인 [주희정](../Page/주희정.md "wikilink")은 시즌\\
+
+### 2009-10 시즌
+
+2008-09 시즌이 끝난 뒤 [주희정](../Page/주희정.md "wikilink")을 [서울 SK 나이츠로부터](https://ko.wikipedia.org/wiki/서울_SK_나이츠 "wikilink") [김태술](../Page/김태술.md "wikilink")과 [김종학](https://ko.wikipedia.org/wiki/김종학 "wikilink")을 받는 조건으로 트레이드를 단행한다. 그 후 양희종, 김태술, 김일두, 신제록 등 주전급 선수 대거를 군 입대를 시킨뒤 리빌딩의 시작하였다.
+
+[2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [10월 18일](https://ko.wikipedia.org/wiki/10월_18일 "wikilink") 개막전 [창원 LG 세이커스전부터](../Page/창원_LG_세이커스.md "wikilink") 삐걱대더니, [10월 21일에](https://ko.wikipedia.org/wiki/10월_21일 "wikilink") [인천 전자랜드 엘리펀츠를](https://ko.wikipedia.org/wiki/인천_전자랜드_엘리펀츠 "wikilink") 상대로 승리하게 되나, 이후 5연패를 한다. [11월 12일엔](https://ko.wikipedia.org/wiki/11월_12일 "wikilink") [이현호](https://ko.wikipedia.org/wiki/이현호_\(농구_선수\) "wikilink"), [이상준](https://ko.wikipedia.org/wiki/이상준 "wikilink"), 라샤드 벨을 인천 전자랜드 엘리펀츠로 보내고 [김성철](../Page/김성철_\(농구인\).md "wikilink"), 크리스 다니엘스를 받아오는 2대3 트레이드를 단행한다. [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [12월 11일에는](https://ko.wikipedia.org/wiki/12월_11일 "wikilink") 나이젤 딕슨을 [부산 KT 소닉붐으로](https://ko.wikipedia.org/wiki/부산_KT_소닉붐 "wikilink") 보내고 도널드 리틀과 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") 신인 드래프트 1라운드 지명권을 받는 조건으로 트레이드를 하게된다, 나이젤 딕슨 트레이드로 받아온 신인선수 1라운드 지명권은 2010년 드래프트에서 KBL 사상 최초로 전체 1순위, 2순위 지명권을 받게되는 행운을 얻게 된다. 이 드래프트에서 1순위로 [경희대학교](https://ko.wikipedia.org/wiki/경희대학교 "wikilink")의 [박찬희를](../Page/박찬희_\(농구_선수\).md "wikilink") 지명하였고 2순위로 [연세대학교](https://ko.wikipedia.org/wiki/연세대학교 "wikilink")의 이정현을 지명하게 된다. 그 후 부진에 시달리다가 [12월 29일에](https://ko.wikipedia.org/wiki/12월_29일 "wikilink") 가까스로 2연승을 한다. 안양 KT\&G 카이츠는 16승 38패 8위로 시즌을 마감하였다. 이 시즌을 끝으로 안양 KT\&G 카이츠는 모기업 변경으로 안양 한국인삼공사 농구단으로 팀명을 변경했다.
+
+### 2010-11 시즌
+
+안양 한국인삼공사 프로농구단으로 팀명을 변경한 뒤 시범경기에서 [10월 4일](https://ko.wikipedia.org/wiki/10월_4일 "wikilink") [전주 KCC 이지스에](../Page/전주_KCC_이지스.md "wikilink") 패하고, [10월 6일](https://ko.wikipedia.org/wiki/10월_6일 "wikilink") [서울 삼성 썬더스를](https://ko.wikipedia.org/wiki/서울_삼성_썬더스 "wikilink") 이겼다. 리빌딩이 한창 진행 중인 팀이었기 때문에 팀 성적은 좋지 못했다, 결국 16승 38패를 거두며 9위로 2010-11 시즌을 마무리지었다.
+
+### 2011-12 시즌
+
+팀명을 한 시즌만에 안양 KGC인삼공사로 교체하고, 기존의 [박찬희](../Page/박찬희_\(농구_선수\).md "wikilink"), [이정현과](../Page/이정현_\(1987년\).md "wikilink") 함께 군에서 전역한 [양희종](../Page/양희종.md "wikilink"), 김일두, [김태술](../Page/김태술.md "wikilink")과 드래프트 1순위의 [오세근](../Page/오세근.md "wikilink")을 영입하여 빠른 농구를 앞세워 정규리그에서 [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") 원년 이후 15년 만에 정규리그 준우승을 하였고, 4강 플레이오프에서 정규리그 3위 [부산 KT 소닉붐을](https://ko.wikipedia.org/wiki/부산_KT_소닉붐 "wikilink") 이기며 [KBL 챔피언 결정전에](../Page/KBL_챔피언_결정전.md "wikilink") 진출하였다. 당시 2006-07 시즌부터 2위팀은 3위팀에게 발목이 잡혔는데, KGC는 6년 만에 2위 팀의 챔프전 진출 및 팀 창단 첫 진출을 하였다. 챔피언 결정전에서 정규리그 우승팀인 [원주 동부 프로미었다](https://ko.wikipedia.org/wiki/원주_동부_프로미 "wikilink") 첫판에는 패했으나 2차전 승리 3차전에는 접전끝에 1점차로 패했고 나머지 경기는 전승으로 4승 2패의 성적으로 팀 창단 첫 우승을 하였다. [오세근](../Page/오세근.md "wikilink")은 플레이오프 MVP를 받았으며, SBS 시절부터 한 팀에 몸담았던 프랜차이즈 스타 출신 [이상범](../Page/이상범_\(농구인\).md "wikilink") 감독은 첫 우승을 안았다.
+
+### 2012-13 시즌
+
+안양 KGC인삼공사의 첫 우승을 견인했던 [오세근](../Page/오세근.md "wikilink")이 시즌 내내 출전하지 못했고, 김일두와 [이정현까지](../Page/이정현_\(1987년\).md "wikilink") 부상으로 신음하면서 6연패도 하는 등 시즌 내내 중위권에 머물렀다. 하지만 용병 [키브웨 트림과](https://ko.wikipedia.org/wiki/키브웨_트림 "wikilink") [후안 파틸로가](https://ko.wikipedia.org/wiki/후안_파틸로 "wikilink") 분전하고 [정휘량](../Page/정휘량.md "wikilink"), [최현민](../Page/최현민.md "wikilink") 등의 활약, 그리고 근성있는 플레이가 돋보이면서 중위권에서 버텨 나갔고, 결국 4위로 6강 플레이오프에 진출하였다. 6강 플레이오프에서는 [고양 오리온스를](https://ko.wikipedia.org/wiki/고양_오리온스 "wikilink") 상대해서 3승 2패로 4강 플레이오프에서 [서울 SK 나이츠와](https://ko.wikipedia.org/wiki/서울_SK_나이츠 "wikilink") 맞대결을 펼쳤는데, [잠실학생체육관](../Page/잠실학생체육관.md "wikilink")에서는 1승 1패를 거두었지만 [안방에서](../Page/안양체육관.md "wikilink") 2패를 당하면서 시즌을 마감하였다.
+
+### 2013-14 시즌
+
+[오세근](../Page/오세근.md "wikilink")이 돌아왔지만 외국인 농사를 망쳤고, [김태술](../Page/김태술.md "wikilink")등이 부상으로 신음하면서 12월 중순에는 8연패에 빠지면서 10위까지 추락했다. 1월에 약간 분전하는 듯 하지만 2월에 다시 부진하면서 결국 [이상범](../Page/이상범_\(농구인\).md "wikilink") 감독이 사퇴하고 이동남 감독대행으로 교체하는 등 9위로 시즌을 마쳤다.
+
+시즌 후 [김태술](../Page/김태술.md "wikilink")이[강병현](../Page/강병현.md "wikilink"),[장민국](https://ko.wikipedia.org/wiki/장민국 "wikilink")과 트레이드됐고, 김일두가[하재필](https://ko.wikipedia.org/wiki/하재필 "wikilink")과 트레이드됐다.
+
+### 2014-15 시즌
+
+전반기에는 김기윤, 오세근이 부상을 당했으며 이동남 감독대행의 리더십은 보이지 않았고, 야인들의 KGC 흔들기까지 이어졌다. 게다가 후반기 시작하자마자 장민국사건이 터지면서 분위기는 점점 최악으로 치달았다. 하지만 1월 19일 SK전 승리로 반전의 전기를 마련했고, 박찬희, 오세근이 살아나고 이정현이 가세하면서 올스타 브레이크 후 후반기 20경기에서는 10승 10패 5할 승률을 기록했다. 용병은 리온 윌리엄스, C.J 레슬리로 시즌을 시작했으나 C.J 레슬리는 기대에 못 미치면서 애런 맥기로 교체되었으나 애런 맥기 역시 세월을 이기지 못하고 부진하면서 조셉 테일러로 교체되었고 조셉 테일러로 시즌을 마감하였다. 리온 윌리엄스는 기복이 있었지만 KGC 선수 중 유일하게 전 경기를 출장했으며 평균 13.3점 8.5리바운드를 기록하면서 KGC의 골밑을 지켜주었다. 2015년 1월 30일 이정현이 전역하면서 2011-2012시즌 KGC의 인삼신기 5인방 중 4인방(이정현, 박찬희, 양희종, 오세근)이 모이면서 내년 시즌을 기대케 하고 있다. 시즌 후 [이상범](https://ko.wikipedia.org/wiki/이상범 "wikilink")감독이 자진사퇴를 하였다.
+
+### 2015-16 시즌
+
+시즌 후 전창진 감독을 새로운 사령탑으로 영입하였고 김승기 손규완 코치도 전창진 감독을 따라 안양KGC인삼공사로 이적하였다. 서울 삼성의 유성호를 장민국과 트레이드를 통해 영입하였다. 그러나 그 와중에 [전창진](https://ko.wikipedia.org/wiki/전창진 "wikilink") 감독이 2015년 승부조작에 연루되어 [KBL](https://ko.wikipedia.org/wiki/KBL "wikilink")에서 영구제명을 당하였고, 이후 [오세근](../Page/오세근.md "wikilink")과 [전성현](../Page/전성현.md "wikilink")이 도박 사건에 연루되는 등 큰 악재를 맞았으나 [전창진](https://ko.wikipedia.org/wiki/전창진 "wikilink")을 대신하여 [김승기](../Page/김승기_\(농구인\).md "wikilink") 수석코치가 감독대행이 되었다. 김승기 대행은 개막 4연패 이후 [동부전](https://ko.wikipedia.org/wiki/원주_동부_프로미 "wikilink") 원정경기를 1점차 승리로 장식하며 빠르게 팀을 수습하였고, 이후 최근 11경기에서 7승 4패로 드래프트가 열리기 전 16경기에서 8승 8패, 소기의 목적을 달성하였다. [10월 26일](https://ko.wikipedia.org/wiki/10월_26일 "wikilink") 열린 드래프트에서 1라운드 1순위 [문성곤](../Page/문성곤.md "wikilink")을 지명하여 기존 [박찬희](https://ko.wikipedia.org/wiki/박찬희 "wikilink"), [이정현](../Page/이정현_\(1987년\).md "wikilink"), [강병현](../Page/강병현.md "wikilink") 등과 함께 [오세근](../Page/오세근.md "wikilink"), [전성현](../Page/전성현.md "wikilink")의 공백에 대한 불안감을 해소하였다. [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [12월 31일](https://ko.wikipedia.org/wiki/12월_31일 "wikilink") [김승기가](../Page/김승기_\(농구인\).md "wikilink") 정식 감독으로 승격된다.
+
+### 2016-17 시즌
+
+2016-17 시즌을 앞두고 [박찬희](https://ko.wikipedia.org/wiki/박찬희 "wikilink")가 한희원과의 트레이드로 [인천 전자랜드 엘리펀츠로](https://ko.wikipedia.org/wiki/인천_전자랜드_엘리펀츠 "wikilink") 이적하였다. 2016-17시즌에 39승 15패를 기록하고 챔프전에서 4승 2패로 창단 후 처음으로 통합 우승을 달성하였다. [오세근](../Page/오세근.md "wikilink")은 지난 4년간의 역경을 딛고 챔프전 MVP를 수상함으로써 트리플크라운을 달성하였으며, [김승기](../Page/김승기_\(농구인\).md "wikilink") 감독은 선수, 코치 시절에 이어 감독으로도 우승을 이끌면서 역대 선수, 코치, 감독으로 모두 우승을 기록한 최초의 인물이 되었다. 특히 [이정현이](../Page/이정현_\(1987년\).md "wikilink") 챔피언 결정전 마지막 경기에서 위닝샷을 꽃아넣었다.
+
+### 2017-18 시즌
+
+2017-18 시즌을 앞두고 주포인 [이정현이](../Page/이정현_\(1987년\).md "wikilink") FA로 [전주 KCC 이지스로](../Page/전주_KCC_이지스.md "wikilink") 이적하면서 팀 내 에이스 역할을 할 선수가 없었다. 시즌 도중 11월 23일에 [김기윤](../Page/김기윤.md "wikilink"), [김민욱](https://ko.wikipedia.org/wiki/김민욱 "wikilink")을 [부산 kt 소닉붐으로](https://ko.wikipedia.org/wiki/부산_kt_소닉붐 "wikilink") 보내고 [이재도](../Page/이재도.md "wikilink"), [김승원](https://ko.wikipedia.org/wiki/김승원 "wikilink")을 받아왔다. [이재도](../Page/이재도.md "wikilink")는 이적하면서 4개월만 뛰고 군입대 예정이라 트레이드를 할 줄 몰랐다고 한다. 이재도는 1991년생으로 군대문제가 시급하였다. [이재도](../Page/이재도.md "wikilink")는 이적하고 팀에 합류하여 팀의 주전 포인트가드를 맡아 맹활약을 하였다. [김승원](https://ko.wikipedia.org/wiki/김승원 "wikilink")도 [오세근](../Page/오세근.md "wikilink")에 몰렸던 부담을 조금씩 덜어주었다. 시즌후 [이재도](../Page/이재도.md "wikilink")는 [상무 농구단에](https://ko.wikipedia.org/wiki/상무_농구단 "wikilink") 지원하여 합격하여 [전성현](../Page/전성현.md "wikilink")과 함께 군복무에 들었다.
+
+### 2018-19 시즌
+
+1라운드를 5승 5패로 5할 승률맞추면서 끝났다. 하지마 2라운드 들어 5연승후 5연패를 당하면서 9승 9패로 11월 26일 부터 12월 5일까지의 휴식기 전 일정을 마쳤다. 이 휴식기 동안 주전 포인트가드였던 [이재도](../Page/이재도.md "wikilink")가 군입대를 한 후 가드난에 시달리자, 트레이드를 통해 [한희원](../Page/한희원.md "wikilink")과 [김윤태](https://ko.wikipedia.org/wiki/김윤태 "wikilink")를 [부산 kt 소닉붐으로](https://ko.wikipedia.org/wiki/부산_kt_소닉붐 "wikilink") 보내고, [부산 kt 소닉붐에서](https://ko.wikipedia.org/wiki/부산_kt_소닉붐 "wikilink") [박지훈을](../Page/박지훈_\(1995년\).md "wikilink") 받아왔다. 아마 기대하던 [한희원](../Page/한희원.md "wikilink")을 또 트레이드 한건 1월 29일에 전역하는 [문성곤](../Page/문성곤.md "wikilink")이 있기 때문에 트레이드를 시도한 건으로 보인다. 또한 신인드래프트에서 최대어였던 [동국대학교](https://ko.wikipedia.org/wiki/동국대학교 "wikilink")의 [변준형](../Page/변준형.md "wikilink")을 지명하였다. [박지훈과](../Page/박지훈_\(1995년\).md "wikilink") [변준형](../Page/변준형.md "wikilink")은 [김승기](../Page/김승기.md "wikilink") 감독이 기대하고 있는 선수로 휴식기 동안 팀에 합류에 전술과 호흡을 맞춰 12월 7일에 열리는 [창원 LG 세이커스와의](../Page/창원_LG_세이커스.md "wikilink") 3라운드 첫 경기에서 바로 투입시킨다고 하였다. 특히 [박지훈은](../Page/박지훈_\(1995년\).md "wikilink") 주전 포인트 가드로 기용한다고 하였다. 휴식기 동안 열린 농구 월드컵 예선에는 팀내 주장인 [양희종](../Page/양희종.md "wikilink")과 대들보인 [오세근](../Page/오세근.md "wikilink")이 차출되었다. 예선에서 [레바논](https://ko.wikipedia.org/wiki/레바논 "wikilink")과 [요르단](https://ko.wikipedia.org/wiki/요르단 "wikilink")을 각각 84-71, 88-67로 물리치면서 농구 월드컵 본선 진출을 확정지었다.12월 7일 안양 홈에서 열릴 [창원 LG 세이커스와의](../Page/창원_LG_세이커스.md "wikilink") 경기로 3라운드 일정을 시작한다. [창원 LG 세이커스는](../Page/창원_LG_세이커스.md "wikilink") 시즌 전 서로 트레이드를 했던 팀이기도 하다.
+
+## 우승 기록
+
+### 국내 대회
+
+#### 리그
+
+  - **[KBL 챔피언 결정전](../Page/KBL_챔피언_결정전.md "wikilink")**
+      - **[파일:Cup Winner.png](https://ko.wikipedia.org/wiki/파일:Cup_Winner.png "wikilink") 우승 (2)**: [2011-12](../Page/한국프로농구_2011-12.md "wikilink"), [2016-17](../Page/한국프로농구_2016-17.md "wikilink")
+      - [파일:Cup Finalist.png](https://ko.wikipedia.org/wiki/파일:Cup_Finalist.png "wikilink") 준우승 (0)
+  - **[KBL 정규리그](https://ko.wikipedia.org/wiki/한국프로농구 "wikilink")**
+      - ** 우승** (1) : [2016-17](../Page/한국프로농구_2016-17.md "wikilink")
+
+      - 준우승 (2): [1997](../Page/한국프로농구_1997.md "wikilink"), [2011-12](../Page/한국프로농구_2011-12.md "wikilink")
+
+      - 3등 (1): [2004-05](https://ko.wikipedia.org/wiki/한국프로농구_2004-05 "wikilink")
+
+#### 컵
+
+  - **[프로-아마농구 최강전](../Page/프로-아마농구_최강전.md "wikilink")**
+      - **[파일:Cup Winner.png](https://ko.wikipedia.org/wiki/파일:Cup_Winner.png "wikilink") 우승**
+      - [파일:Cup Finalist.png](https://ko.wikipedia.org/wiki/파일:Cup_Finalist.png "wikilink") 준우승
+
+### 아시아 대회
+
+  - **[FIBA 아시아](https://ko.wikipedia.org/wiki/FIBA_아시아 "wikilink") 챔피언스컵**
+      - ** 우승**
+
+      - 준우승
+
+      - 3등
+
+## 역대 감독
+
+<table>
+<thead>
+<tr class="header">
+<th><p>순번</p></th>
+<th><p>재임 기간</p></th>
+<th><p>이름</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1대</p></td>
+<td><p>1997.2.1-1997.5.31</p></td>
+<td><p><a href="../Page/김동광.md" title="wikilink">김동광</a></p></td>
+</tr>
+<tr class="even">
+<td><p>2대</p></td>
+<td><p>1997.6.1-1999.4.30</p></td>
+<td><p>강정수</p></td>
+</tr>
+<tr class="odd">
+<td><p>3대</p></td>
+<td><p>1999.5.1-2002.4.30</p></td>
+<td><p>김인건</p></td>
+</tr>
+<tr class="even">
+<td><p>4대</p></td>
+<td><p>2002.5.1-2004.5.30</p></td>
+<td><p>정덕화</p></td>
+</tr>
+<tr class="odd">
+<td><p>5대</p></td>
+<td><p>2004.6.1-2006.12.4</p></td>
+<td><p><a href="../Page/김동광.md" title="wikilink">김동광</a></p></td>
+</tr>
+<tr class="even">
+<td><p>감독대행</p></td>
+<td><p>2006.12.4-2007.1.25</p></td>
+<td><p><a href="../Page/김상식_(농구인).md" title="wikilink">김상식</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>6대</p></td>
+<td><p>2007.1.26-2008.9.1</p></td>
+<td><p><a href="../Page/유도훈.md" title="wikilink">유도훈</a></p></td>
+</tr>
+<tr class="even">
+<td><p>7대</p></td>
+<td><p>2008.9.2-2014.2.21</p></td>
+<td><p><a href="../Page/이상범_(농구인).md" title="wikilink">이상범</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>감독대행</p></td>
+<td><p>2014.2.22-2015.4.14</p></td>
+<td><p>이동남</p></td>
+</tr>
+<tr class="even">
+<td><p>8대</p></td>
+<td><p>2015.4.14-2015.8.5</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/전창진" title="wikilink">전창진</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>감독대행</p></td>
+<td><p>2015.8.5-2015.12.31</p></td>
+<td><p><a href="../Page/김승기_(농구인).md" title="wikilink">김승기</a></p></td>
+</tr>
+<tr class="even">
+<td><p>9대</p></td>
+<td><p>2016.1.1-현재</p></td>
+<td><p><a href="../Page/김승기_(농구인).md" title="wikilink">김승기</a></p></td>
+</tr>
+</tbody>
+</table>
+
+## 통산 성적
+
+### 역대 정규리그 성적
+
+| 시즌         | 성적    | 승  | 패  | 비고                                                                                                                                               |
+| ---------- | ----- | -- | -- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1997       | 2/8   | 14 | 7  | 안양 SBS 스타즈로 창단                                                                                                                                   |
+| 1997\~1998 | 8/10  | 18 | 27 |                                                                                                                                                  |
+| 1998\~1999 | 7/10  | 22 | 23 |                                                                                                                                                  |
+| 1999\~2000 | 5/10  | 21 | 24 | [부산 기아 엔터프라이즈에](https://ko.wikipedia.org/wiki/울산_모비스_피버스 "wikilink") 상대전적 앞서 5위                                                                  |
+| 2000\~2001 | 4/10  | 26 | 19 |                                                                                                                                                  |
+| 2001\~2002 | 6/10  | 28 | 26 |                                                                                                                                                  |
+| 2002\~2003 | 8/10  | 22 | 32 |                                                                                                                                                  |
+| 2003\~2004 | 9/10  | 18 | 36 |                                                                                                                                                  |
+| 2004\~2005 | 3/10  | 33 | 21 |                                                                                                                                                  |
+| 2005\~2006 | 7/10  | 27 | 27 | KT\&G에 인수,안양 KT\&G 카이츠로 팀명변경                                                                                                                     |
+| 2006\~2007 | 6/10  | 25 | 29 |                                                                                                                                                  |
+| 2007\~2008 | 4/10  | 30 | 24 |                                                                                                                                                  |
+| 2008\~2009 | 7/10  | 29 | 25 | [창원 LG 세이커스](../Page/창원_LG_세이커스.md "wikilink") , [인천 전자랜드 블랙슬레머와](https://ko.wikipedia.org/wiki/인천_전자랜드_엘리펀츠 "wikilink") 같은 성적이었으나, 공방률에서 뒤져 탈락. |
+| 2009\~2010 | 8/10  | 16 | 38 | [서울 SK 나이츠에](https://ko.wikipedia.org/wiki/서울_SK_나이츠 "wikilink") 상대전적 뒤져 8위                                                                      |
+| 2010\~2011 | 9/10  | 16 | 38 | KT\&G가 한국인삼공사로 모기업 변경, 안양 인삼공사로 팀명변경                                                                                                             |
+| 2011\~2012 | 2/10  | 36 | 18 | 안양 KGC 인삼공사로 팀명변경,정규리그 준우승,역대최고성적                                                                                                                |
+| 2012\~2013 | 4/10  | 30 | 24 |                                                                                                                                                  |
+| 2013\~2014 | 9/10  | 19 | 35 | [서울 삼성 썬더스에](https://ko.wikipedia.org/wiki/서울_삼성_썬더스 "wikilink") 상대전적 뒤져 9위                                                                      |
+| 2014\~2015 | 8/10  | 23 | 31 | [부산 kt 소닉붐에](https://ko.wikipedia.org/wiki/부산_kt_소닉붐 "wikilink") 골 득실차 뒤져 8위                                                                     |
+| 2015\~2016 | 4/10  | 30 | 24 |                                                                                                                                                  |
+| 2016\~2017 | 1/10  | 39 | 15 | 창단 첫 정규리그 우승                                                                                                                                     |
+| 2017\~2018 | 45/10 | 29 | 25 |                                                                                                                                                  |
+| 2018\~2019 | /10   |    |    |                                                                                                                                                  |
+
+### 역대 플레이오프 성적
+
+| 연도        | 최종 결과                                                           | 라운드      | 상대                                                                 | 결과    |
+| --------- | --------------------------------------------------------------- | -------- | ------------------------------------------------------------------ | ----- |
+| 승/패       | 승리                                                              | 패전       |                                                                    |       |
+| 1997      | 4강 진출                                                           | 4강 플레이오프 | [원주 나래 블루버드](https://ko.wikipedia.org/wiki/원주_동부_프로미 "wikilink")   | 패     |
+| 1999-2000 | 4강 진출                                                           | 6강 플레이오프 | [원주 삼보 엑써스](https://ko.wikipedia.org/wiki/원주_동부_프로미 "wikilink")    | 승     |
+| 4강 플레이오프  | [대전 현대 걸리버스](../Page/전주_KCC_이지스.md "wikilink")                  | 패        | 0                                                                  | 3     |
+| 2000-2001 | 4강 진출                                                           | 6강 플레이오프 | [인천 신세기 빅스](https://ko.wikipedia.org/wiki/인천_전자랜드_엘리펀츠 "wikilink") | 승     |
+| 4강 플레이오프  | [수원 삼성 썬더스](https://ko.wikipedia.org/wiki/서울_삼성_썬더스 "wikilink") | 패        | 1                                                                  | 3     |
+| 2001-2002 | 6강 진출                                                           | 6강 플레이오프 | [전주 KCC 이지스](../Page/전주_KCC_이지스.md "wikilink")                     | 패     |
+| 2004-2005 | 4강 진출                                                           | 6강 플레이오프 | [대구 오리온스](https://ko.wikipedia.org/wiki/고양_오리온스 "wikilink")        | 승     |
+| 4강 플레이오프  | [전주 KCC 이지스](../Page/전주_KCC_이지스.md "wikilink")                  | 패        | 1                                                                  | 3     |
+| 2006-2007 | 6강 진출                                                           | 6강 플레이오프 | [부산 KTF 매직윙스](https://ko.wikipedia.org/wiki/부산_kt_소닉붐 "wikilink")  | 패     |
+| 2007-2008 | 4강 진출                                                           | 6강 플레이오프 | 서울 SK 나이츠                                                          | 승     |
+| 4강 플레이오프  | 원주 동부 프로미                                                       | 패        | 1                                                                  | 3     |
+| 2011-2012 | 우승                                                              | 4강 플레이오프 | 부산 케이티 소닉붐                                                         | 승     |
+| 챔피언 결정전   | 원주 동부 프로미                                                       | **승**    | **4**                                                              | **2** |
+| 2012-2013 | 4강 진출                                                           | 6강 플레이오프 | 고양 오리온 오리온스                                                        | 승     |
+| 4강 플레이오프  | 서울 SK 나이츠                                                       | 패        | 1                                                                  | 3     |
+| 2015-2016 | 4강 진출                                                           | 6강 플레이오프 | 서울 삼성 썬더스                                                          | 승     |
+| 4강 플레이오프  | 전주 KCC 이지스                                                      | 패        | 1                                                                  | 3     |
+|           |                                                                 |          |                                                                    |       |
+| 2016-2017 | 통합우승                                                            | 4강 플레이오프 | 울산 모비스 피버스                                                         | 승     |
+| 챔피언 결정전   | 서울 삼성 썬더스                                                       | **승**    | **4**                                                              | **2** |
+| 2017-2018 | 4강 진출                                                           | 6강 플레이오프 | 울산 현대모비스 피버스                                                       | 승     |
+| 4강 플레이오프  | 원주 DB 프로미                                                       | 패        | 0                                                                  | 3     |
+
+## 코칭스태프&선수단
+
+#### 군복무
+
+| 번호   | 포지션                              | 이름   | 데뷔년도 | 이적년도         | 군 입대년도 |
+| ---- | -------------------------------- | ---- | ---- | ------------ | ------ |
+| |가드  | [박재한](../Page/박재한.md "wikilink") | 2016 |      |              |        |
+| |포워드 | 정강호                              | 2017 |      | 2018(사회복무요원) |        |
+
+## 응원단
+
+  - 아나운서 : 허지욱
+  - 응원단장 : 홍창화
+  - 치어리더 : 김수진, 김지민, 김한나, 김한뉘, 김해리, 박신비, 박한솔, 유하영
+
+## 각주
+
+## 외부 링크
+
+  - [안양 KGC인삼공사 웹사이트](https://archive.is/20130216085452/http://www.kgcsports.com/basketball/main/main.php)
+  - [안양 KGC인삼공사 트위터](https://twitter.com/no1KGC)
+
+[분류:1992년 설립된 스포츠 클럽](https://ko.wikipedia.org/wiki/분류:1992년_설립된_스포츠_클럽 "wikilink") [분류:대한민국의 농구팀](https://ko.wikipedia.org/wiki/분류:대한민국의_농구팀 "wikilink") [분류:한국농구연맹 팀](https://ko.wikipedia.org/wiki/분류:한국농구연맹_팀 "wikilink") [KGC인삼공사](https://ko.wikipedia.org/wiki/분류:안양시의_스포츠 "wikilink") [분류:KGC인삼공사 스포츠단](https://ko.wikipedia.org/wiki/분류:KGC인삼공사_스포츠단 "wikilink")
+
+1.
+2.  [SBS, 농구단 27억원에 매각](http://www.mt.co.kr/view/mtview.php?type=1&no=2005081715405047261&outlink=1) - 머니투데이

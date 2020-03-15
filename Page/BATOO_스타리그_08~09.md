@@ -1,0 +1,338 @@
+> This article is converted from Wikipedia: [BATOO  08\~09](https://ko.wikipedia.org/wiki/BATOO__08\~09).
+
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Ongamenet_2009_BATOO_Starleague_Grand_final.JPG "wikilink") **BATOO 스타리그 08\~09**는 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 부터 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")까지 진행된 [온게임넷](https://ko.wikipedia.org/wiki/온게임넷 "wikilink")의 스타리그이다.
+
+## 리그기간
+
+  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [12월 17일](https://ko.wikipedia.org/wiki/12월_17일 "wikilink") \~ [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [4월 4일](https://ko.wikipedia.org/wiki/4월_4일 "wikilink")
+
+## 대회 개요
+
+  - **리그 컨셉**: 스스로 구원하라(Save The Best For Last)
+  - **스폰서 캐치프레이즈**: 이제는 바투 한판
+
+### 후원
+
+이번 대회는 [온미디어](https://ko.wikipedia.org/wiki/온미디어 "wikilink")의 자회사 이플레이온의 [게임](https://ko.wikipedia.org/wiki/게임 "wikilink")인 [바투가](../Page/바투_\(비디오_게임\).md "wikilink") 후원했다. 스타리그를 후원하게 된 이플레이온 본부장 황형준은 “두뇌전략게임 바투의 공개서비스(OBT) 시점에 맞춰, 게임 유저에게 가장 강력한 마케팅 수단이라고 판단해 스타리그 후원을 결정했다”고 밝혔다. 또 “e스포츠 리그중 가장 성공한 스타리그 후원을 통해 동종의 전략게임인 바투의 인지도 상승 및 바투 인구의 저변이 확대되길 바란다”고 덧붙였다.\[1\]
+
+### 대회 방식
+
+지난 시즌의 대회 방식을 이어 받아 36강 방식을 고수했다. 스타리그 예선(일명 PC방 예선)을 뚫고 올라온 24명과 지난 대회에 4강에 오른 4명을 제외한 지난 대회 스타리거 12명이 한 조에 3명씩 총 12개조를 이루어 토너먼트 방식으로 대결을 펼친다. 각 조에 PC방 예선을 통과한 두 명의 선수가 먼저 3전 2선승제로 대결을 펼치고 이에 승리한 선수가 지난 대회 16강 스타리거와 3전 2선승제 대결을 펼쳐 최종 승리한 선수가 스타리그 16강에 진출한다. 16강 또한 4명 4개조 풀리그, 8강은 3전 2선승제, 4강과 결승은 5전 3선승제 등 16강 이후의 방식은 전통적인 스타리그 방식과 동일하다.
+
+### 출전 선수
+
+|                                                          |    |                                             |                                                         |
+| -------------------------------------------------------- | -- | ------------------------------------------- | ------------------------------------------------------- |
+| 구분                                                       | 종족 | 명                                           | 이름                                                      |
+| style="background: \#f9f9c9;" center;" rowspan="3" | 36강 | 테란 | 14                                          | 강구열 구성훈 김창희 민찬기 박동수 박상우 박성균 신상문 신희승 염보성 이영호 이재호 전상욱 진영수 |
+| 저그                                                       | 11 | 고강민 고석현 김재춘 박찬수 박문기 박성준 박명수 이영한 이제동 정영철 조일장 |                                                         |
+| 프로토스                                                     | 11 | 김구현 김민제 김윤중 김택용 박대경 박영민 박종수 서기수 손찬웅 안기효 조재걸 |                                                         |
+| style="background: \#f9f9c9;" center;" rowspan="3" | 16강 | 테란 | 5                                           | 신상문 신희승 이영호 **정명훈** 진영수                                 |
+| 저그                                                       | 6  | **김준영** 박찬수 박성준 박명수 이제동 조일장                 |                                                         |
+| 프로토스                                                     | 5  | 김구현 김택용 **도재욱** 서기수 **송병구**                 |                                                         |
+
+### 대회 일정
+
+  - **오프라인 예선**: [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [12월 12일](https://ko.wikipedia.org/wiki/12월_12일 "wikilink")
+  - **36강**: [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [12월 17일](https://ko.wikipedia.org/wiki/12월_17일 "wikilink") \~ [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [1월 23일](https://ko.wikipedia.org/wiki/1월_23일 "wikilink") 매주 수요일, 금요일
+  - **16강 와일드 카드전**\[2\]: [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [1월 28일](https://ko.wikipedia.org/wiki/1월_28일 "wikilink")
+  - **16강 조지명식**: [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [1월 30일](https://ko.wikipedia.org/wiki/1월_30일 "wikilink")
+  - **16강**: [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [2월 4일](https://ko.wikipedia.org/wiki/2월_4일 "wikilink") \~ [2월 27일](https://ko.wikipedia.org/wiki/2월_27일 "wikilink") 매주 수요일, 금요일
+  - **8강**: [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [3월 6일](https://ko.wikipedia.org/wiki/3월_6일 "wikilink"), [3월 13일](https://ko.wikipedia.org/wiki/3월_13일 "wikilink")
+  - **4강**: [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [3월 20일](https://ko.wikipedia.org/wiki/3월_20일 "wikilink"), [3월 27일](https://ko.wikipedia.org/wiki/3월_27일 "wikilink")
+  - **결승**: [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [4월 4일](https://ko.wikipedia.org/wiki/4월_4일 "wikilink")
+
+### 방송 시간
+
+36강은 방학 시즌으로 월요일 경기가 있었던 [인크루트 스타리그 2008와](../Page/인크루트_스타리그_2008.md "wikilink") 달리 월요일 경기를 폐지하고 수요일 경기 시간 또한 7시 30분에서 한 시간 앞당겨 수요일, 금요일 6시 30분에 방송되었고, 이후 16강에서는 수요일, 금요일 6시 30분, 8강 부터는 주 1일 방송으로 금요일 6시 30분에 경기가 방송되었으며 결승에서는 토요일 6시 30분에 진행했다.
+
+### 상금
+
+  - **상금규모** - 총 1억 800만원
+  - **우승** - 4000만원
+  - **준우승** - 2000만원
+  - 우승자, 준우승자를 제외한 시드자 2명 부터 36강 진출자 까지 차등 지급
+      - 36강 1위 : 25만원 / 2위 : 15만원 / 3위 : 10만원
+      - 16강 진출자 8명 : 1인당 200만원
+      - 8강 진출자 4명 : 1인당 300만원
+      - 시드자 2명 : 1인당 700만원
+
+### 경기장
+
+  - **예선** - 용산 이스포츠 보조 경기장
+  - **본선** - 용산 이스포츠 상설 경기장
+  - **결승** - [부산](https://ko.wikipedia.org/wiki/부산 "wikilink") [사직실내체육관](https://ko.wikipedia.org/wiki/사직실내체육관 "wikilink") (프로농구 [부산 KT 소닉붐의](https://ko.wikipedia.org/wiki/부산_KT_소닉붐 "wikilink") 홈 경기장)
+
+## 맵
+
+### 오프라인 예선
+
+지난 시즌에 사용되었던 ‘메두사’와 ‘신 추풍령’ 그리고 프로리그 맵인 ‘러시아워3’를 사용했다. 맵의 순서는 당일 추첨을 통해 진행되었다.
+
+### 36강
+
+1경기 ‘달의 눈물 BATOO’, 2경기 ‘왕의 귀환’, 3경기 ‘Medusa’ 순서로 진행되었다.
+
+### 16강 \~
+
+36강에 사용되었던 ‘메두사’와 ‘왕의 귀환’ 그리고 ‘달의 눈물’과 함께 ‘신 추풍령’이 추가되었다.
+
+## 리그 BGM
+
+  - 36강 타이틀곡 : Nightwish - Cadence of Her Last Breath
+
+<!-- end list -->
+
+  - 16강 타이틀곡 : Disturbed - Liberate
+
+<!-- end list -->
+
+  - 오프닝멘트 : Mudvayne - Have It Your Way
+
+<!-- end list -->
+
+  - 전 경기 정보소개 : Mudvayne - Fish Out of Water
+
+<!-- end list -->
+
+  - Today Match Up: Disturbed - Perfect insanity
+
+<!-- end list -->
+
+  - 선수소개 : Thursday - As he climbed the dark mountain
+
+<!-- end list -->
+
+  - 조별소개 : Nickelback - Something in your mouth
+
+<!-- end list -->
+
+  - 경기시작전/경기종료후 : Alien Ant Farm - Drifting Apart
+
+<!-- end list -->
+
+  - Next Match : Nickelback - Next go round
+
+## 스타리그 예선
+
+스타리그 예선은 24조 조별 8강 혹은 9강 토너먼트 방식으로 조 우승을 차지한 선수만이 스타리그 36강 본선으로 올라갈 수 있었다. 경기는 3전 2선승제로 진행되며 각 조 1위 24명이 36강에 진출한다. 오전 조, 오후 조, 저녁 조 각각 8개조씩 진행했으며 [공군 ACE를](../Page/공군_ACE.md "wikilink") 제외하고 총 11개 프로게임단의 212명이 출전했다.
+
+### 조별 본선 진출자
+
+| A조  | B조  | C조  | D조  | E조  | F조 | G조  | H조  | I조  | J조  | K조  | L조  |
+| --- | --- | --- | --- | --- | -- | --- | --- | --- | --- | --- | --- |
+| 박상우 | 신상문 | 조재걸 | 김재춘 | 민찬기 |    | 김윤중 |     | 강구열 | 이제동 | 박종수 | 이영한 |
+| M조  | N조  | O조  | P조  | Q조  | R조 | S조  | T조  | U조  | V조  | W조  | X조  |
+| 김구현 | 고강민 | 김민제 | 서기수 | 조일장 |    | 박문기 | 고석현 | 구성훈 | 박대경 |     | 박동수 |
+
+### 36강 시드자
+
+지난 시즌 16강 진출에 성공했지만, 4강 진출에 실패한 11명의 선수들은 36강 시드를 받게 된다.
+
+  - 이영호, 박성균, 전상욱, 염보성, 이재호, 박성준, 정영철, 김택용, 박영민, 안기효
+
+손찬웅은 와일드 카드에 진출한 김택용이 4강 이상 진출 했기 때문에, 시드는 주어지지 않는다.
+
+### 본선 진출자 분포
+
+‘\#’은 16강 시드 진출자이며, ‘\*’은 36강 시드 진출자이다.
+
+  - 종족별 분포
+
+<!-- end list -->
+
+  - **테란** (15) - \#정명훈, \*이영호, \*박성균, \*전상욱, \*염보성, \*이재호, 박상우, 신희승, 신상문, 민찬기, 진영수, 강구열, 김창희, 구성훈, 박동수
+  - **저그** (12) - \#김준영, \*박성준, \*정영철, \*박찬수, 이제동, 이영한, 고강민, 김재춘, 고석현, 박문기, 조일장, 박명수
+  - **프로토스** (13) - \#송병구, \#도재욱, \*김택용, \*박영민, \*안기효, \*손찬웅, 조재걸, 김윤중, 김구현, 박종수, 서기수, 김민제, 박대경
+
+<!-- end list -->
+
+  - 팀별 분포
+
+<!-- end list -->
+
+  - **STX** (7) - \*박성준, 김윤중, 진영수, 김구현, 박종수, 김민제, 조일장
+  - **SK텔레콤** (6) - \#정명훈, \#도재욱, \*전상욱, \*김택용, \*정영철, 박대경
+  - **MBC게임** (5) - \*염보성, \*이재호, 민찬기, 강구열, 고석현
+  - **KTF** (4) - \*이영호, \*박찬수, 고강민, 김재춘
+  - **온게임넷** (4) - 조재걸, 신상문, 김창희, 박명수
+  - **이스트로** (4) - 박상우, 신희승, 서기수, 박문기
+  - **위메이드** (3) - \*박성균, \*안기효, 이영한
+  - **르까프** (3) - \*손찬웅, 이제동, 구성훈
+  - **삼성전자** (2) - \#송병구, 박동수
+  - **웅진** (1) - \#김준영
+  - **CJ** (1) - \*박영민
+
+## 36강
+
+36강의 조 편성은 팀 배분을 우선하여 종족별 배분 등 여러 사항을 고려하여 추첨이 되었다. 예선을 진출한 선수들 두 선수끼리 매치 1에서 3전 2선승제로 대결한 후 승리한 선수가 지난 시즌 16강 리거와 매치 2의 경기를 붙어 이기는 선수가 16강에 진출한다. 탈락자는 예선으로 떨어진다
+
+|    |                                                                   |       |
+| -- | ----------------------------------------------------------------- | ----- |
+| 조  | 매치 1                                                              | 매치 2  |
+| A조 | **[신상문](../Page/신상문.md "wikilink")**                              | **2** |
+| B조 | **[김구현](../Page/김구현_\(프로게이머\).md "wikilink")**                    | **2** |
+| C조 | [김창희](../Page/김창희_\(프로게이머\).md "wikilink")                        | 1     |
+| D조 | **[신희승](../Page/신희승.md "wikilink")**                              | **2** |
+| E조 | **[서기수](../Page/서기수.md "wikilink")**                              | **2** |
+| F조 | **[박문기](../Page/박문기_\(프로게이머\).md "wikilink")**                    | **2** |
+| G조 | **[진영수](../Page/진영수.md "wikilink")**                              | **2** |
+| H조 | [민찬기](../Page/민찬기.md "wikilink")                                  | 1     |
+| I조 | **[박명수](../Page/박명수_\(프로게이머\).md "wikilink")**                    | **2** |
+| J조 | [구성훈](../Page/구성훈.md "wikilink")                                  | 0     |
+| K조 | **[박대경](https://ko.wikipedia.org/wiki/박대경_\(1986년\) "wikilink")** | **2** |
+| L조 | **[이제동](https://ko.wikipedia.org/wiki/이제동 "wikilink")**           | **2** |
+
+## 와일드카드전
+
+손찬웅 선수의 허리부상으로 펼쳐졌던 와일드카드전.
+
+**12강 (방송되지 않았다.)**
+
+| A조                                                                |
+| ----------------------------------------------------------------- |
+| **[박성균](../Page/박성균.md "wikilink")**                              |
+| B조                                                                |
+| [김재춘](../Page/김재춘.md "wikilink")                                  |
+| C조                                                                |
+| **[이재호](https://ko.wikipedia.org/wiki/이재호_\(프로게이머\) "wikilink")** |
+| D조                                                                |
+| [정영철](../Page/정영철.md "wikilink")                                  |
+| E조                                                                |
+| **[김택용](../Page/김택용.md "wikilink")**                              |
+| F조                                                                |
+| [박문기](../Page/박문기_\(프로게이머\).md "wikilink")                        |
+
+**6강**
+
+| A조                                                                |
+| ----------------------------------------------------------------- |
+| **[박성균](../Page/박성균.md "wikilink")**                              |
+| B조                                                                |
+| **[이재호](https://ko.wikipedia.org/wiki/이재호_\(프로게이머\) "wikilink")** |
+| C조                                                                |
+| **[김택용](../Page/김택용.md "wikilink")**                              |
+
+**3강**
+
+| 3강전                                                                 |
+| ------------------------------------------------------------------- |
+| [박성균](../Page/박성균.md "wikilink") 1승 1패                              |
+| [이재호](https://ko.wikipedia.org/wiki/이재호_\(프로게이머\) "wikilink") 0승 2패 |
+| **[김택용](../Page/김택용.md "wikilink")** **2승 0패**                      |
+|                                                                     |
+
+## 16강
+
+### 본경기
+
+16강 조지명식에 따라 결정된 조에 따라서 한 선수가 한 경기씩 총 세 경기를 펼치게 되며, 한 조로 볼 때 총 여섯 경기를 치르게 된다.
+
+| A조                                         | B조        | C조                                         | D조    |
+| ------------------------------------------ | --------- | ------------------------------------------ | ----- |
+| [송병구](../Page/송병구.md "wikilink")           | 1승 2패     | [정명훈](../Page/정명훈_\(프로게이머\).md "wikilink") | 2승 1패 |
+| **[김택용](../Page/김택용.md "wikilink")**       | **3승 0패** | [서기수](../Page/서기수.md "wikilink")           | 0승 3패 |
+| [박명수](../Page/박명수_\(프로게이머\).md "wikilink") | 1승 2패     | [신상문](../Page/신상문.md "wikilink")           | 2승 1패 |
+| [박성준](../Page/박성준_\(1986년\).md "wikilink") | 1승 2패     | [조일장](../Page/조일장.md "wikilink")           | 2승 1패 |
+
+### 재경기
+
+상위/하위 3인의 승패가 동률인 경우에는 삼자재경기를 통해 올라갈 선수를 가리게 된다.
+
+| A조                                         | B조    |
+| ------------------------------------------ | ----- |
+| [송병구](../Page/송병구.md "wikilink")           | 1승 1패 |
+| [박명수](../Page/박명수_\(프로게이머\).md "wikilink") | 1승 1패 |
+| [박성준](../Page/박성준_\(1986년\).md "wikilink") | 1승 1패 |
+
+### 재재경기
+
+재경기를 거친 선수들의 승패가 1승1패일 경우 다시 재경기를 통해 올라갈 선수를 가리게 된다.
+
+| A조                                         |
+| ------------------------------------------ |
+| **[송병구](../Page/송병구.md "wikilink")**       |
+| [박명수](../Page/박명수_\(프로게이머\).md "wikilink") |
+| [박성준](../Page/박성준_\(1986년\).md "wikilink") |
+
+## 8강 \~
+
+## 우승
+
+[right](https://ko.wikipedia.org/wiki/파일:2009_BATOO_OSL_Jaedong_winning.jpg "wikilink")
+
+<table>
+<thead>
+<tr class="header">
+<th><p>BATOO 스타리그 08~09 우승</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/이제동" title="wikilink">이제동</a></strong><br />
+(두 번째 우승)</p></td>
+</tr>
+</tbody>
+</table>
+
+## 특이사항
+
+  - '온미디어'의 자회사 '이플레이온'에서 후원
+  - 경기 진행 방식은 전 시즌과 동일
+  - 사상 최초로 우승자부터 36강 진출자에도 상금 수여
+  - 앞마당 이후 확장이 미네랄 3000짜리가 일부 섞여있는 멀티와 가스 10000짜리 멀티가 있으며 몽환 이후 처음으로 본진 미네랄이 8덩이인 맵 등장, 페르소나 EVER 이후 4시즌만에 맵이름에 스폰서가 붙음(달의 눈물 BATOO)
+  - 공식맵 4개중 3개가 특정 타일셋으로 제작.
+  - E-Sport 사상 최초로 승자가 먼저 GG를 치는 상황이 발생 (2008년 12월 24일 바투 스타리그 36강 C조 2차전 3경기 [김재춘](../Page/김재춘.md "wikilink") VS [손찬웅](../Page/손찬웅.md "wikilink") 전에서 [손찬웅](../Page/손찬웅.md "wikilink")이 먼저 GG를 침. 하지만 [김재춘](../Page/김재춘.md "wikilink")이 상황의 불리함을 알고 패배를 인정, [손찬웅](../Page/손찬웅.md "wikilink")은 승리함으로써 16강에 진출하는 대신 주의 조치를 받음)
+  - [손찬웅](../Page/손찬웅.md "wikilink")의 허리디스크 악화로 스타리그 16강 출전 포기로 인한 와일드 카드전 진행(각 조 2위)
+  - 8강 팀킬전 발생(같은 팀의 선수끼리 대결) (A조:[김택용](../Page/김택용.md "wikilink") 대 [도재욱](https://ko.wikipedia.org/wiki/도재욱 "wikilink") C조:[진영수](../Page/진영수.md "wikilink") 대 [조일장](../Page/조일장.md "wikilink"))
+  - 4강 팀킬전 발생 (4강 A조 : [김택용](../Page/김택용.md "wikilink") 대 [정명훈](../Page/정명훈_\(프로게이머\).md "wikilink"))
+  - 4강에서 두 경기 모두 3 : 0 셧아웃 발생 (정명훈3-0김택용, 이제동3-0조일장)
+  - [이제동](https://ko.wikipedia.org/wiki/이제동 "wikilink") 5시즌만에 스타리그 결승진출
+  - [정명훈](../Page/정명훈_\(프로게이머\).md "wikilink") 2시즌 연속 결승진출
+  - 결승전 : [정명훈](../Page/정명훈_\(프로게이머\).md "wikilink") vs [이제동](https://ko.wikipedia.org/wiki/이제동 "wikilink")
+  - 다음 스타리그 이후 테란vs저그 결승전 성립
+  - 결승전 장소: 부산 사직 실내체육관 (프로농구 부산 KT 소닉붐의 홈 경기장)
+  - [이제동](https://ko.wikipedia.org/wiki/이제동 "wikilink") 스타리그 2회 우승
+  - [이제동](https://ko.wikipedia.org/wiki/이제동 "wikilink") 온게임넷 스타리그 역사상 2번째 리버스 스윕 우승(2:0→2:3)
+  - [정명훈](../Page/정명훈_\(프로게이머\).md "wikilink") [송병구](../Page/송병구.md "wikilink")에 이은 2회연속 스타리그 준우승
+  - 8강 야외투어:없음
+  - 김택용 스타리그 최다연승 기록수립 11연승
+
+## 대회 결과
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Jaedongbatoo.jpg "wikilink")
+
+  - 우승 [이제동](https://ko.wikipedia.org/wiki/이제동 "wikilink") ,준우승 [정명훈](../Page/정명훈_\(프로게이머\).md "wikilink") ,3위 [김택용](../Page/김택용.md "wikilink") · [조일장](../Page/조일장.md "wikilink")
+
+## 사용 맵 정보
+
+| 종족     | 月淚_BATOO | 왕의 귀환 | Medusa | 신 추풍령 |
+| ------ | --------- | ----- | ------ | ----- |
+| 인원     | 3         | 4     | 3      | 2     |
+| P vs Z | 3:12      | 9:1   | 7:8    | 1:3   |
+| Z vs T | 6:5       | 4:4   | 6:6    | 1:1   |
+| T vs P | 8:4       | 5:3   | 4:9    | 1:0   |
+| Z vs Z | 3번        | 3번    | 0번     | 2번    |
+| T vs T | 5번        | 1번    | 4번     | 3번    |
+| P vs P | 2번        | 1번    | 1번     | 1번    |
+
+## 각주
+
+<references/>
+
+## 외부 링크
+
+  - [36강 오프닝](https://www.youtube.com/watch?v=nMOup0NL-yY)
+  - [16강 티저 오프닝](https://www.youtube.com/watch?v=Cpyda9-5Msk)
+  - [16강 오프닝 (원본)](https://www.youtube.com/watch?v=bHoBBrNCj3M)
+  - [16강 오프닝 (수정본)](https://www.youtube.com/watch?v=TROmDTXR-38)
+  - [결승전 오프닝](https://www.youtube.com/watch?v=JBfiu0gGibY)
+
+[분류:스타리그](https://ko.wikipedia.org/wiki/분류:스타리그 "wikilink") [분류:2008년 이스포츠](https://ko.wikipedia.org/wiki/분류:2008년_이스포츠 "wikilink") [분류:2009년 이스포츠](https://ko.wikipedia.org/wiki/분류:2009년_이스포츠 "wikilink")
+
+1.  [차기 스타리그 스폰서는 '바투', 바투 스타리그 12일 예선](http://www.fomos.kr/board/board.php?mode=read&keyno=90414&db=issue) 포모스, 2008년 12월 07일
+2.  [손찬웅](../Page/손찬웅.md "wikilink")의 허리 부상으로 인한 기권에 의해 생겨난 와일드 카드전

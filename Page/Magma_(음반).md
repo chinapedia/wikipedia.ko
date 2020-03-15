@@ -1,0 +1,25 @@
+> This article is converted from Wikipedia: [Magma \(\)](https://ko.wikipedia.org/wiki/Magma_\(\)).
+
+
+《**Magma**》는 1981년 10월 10일에 발매한 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 록 밴드 [마그마의](https://ko.wikipedia.org/wiki/마그마_\(밴드\) "wikilink") 첫 번째 음반이자 마지막 음반이다. 이 음반은 마그마가 왜 1980년대 한국 대중음악의 전설적 밴드로 회자되는지 명쾌하게 보여준다. 단 한 장의 독집을 남기고 사라졌지만 마그마의 실험적이고 파괴적인 사운드는 록의 본고장 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")에서도 찬사를 보냈다.
+
+## 유일한 독집
+
+청년층에게 폭발적인 인기를 얻은 〈해야〉는 대학가요제 이후 연세대의 공식 응원가로 불렸다. 유명 캠퍼스 밴드로 떠오른 마그마는 수많은 공중파 방송 출연을 통해 인지도를 획득했지만 직업 가수로 활동할 생각은 없었다.
+
+다만 멤버들은 졸업 전에 기념으로 음반을 남기자고 합의했다. 이에 힛트레코드는 이듬해인 1981년 마그마 1집이자 유일한 독집을 발매했다. 단 한 장의 독집을 남기고 사라졌지만 마그마가 들려준 실험적이고 파괴적인 사운드는 록의 본고장 영국에서도 찬사를 보낼 만큼 차별성이 있었다.
+
+## 다양한 음악적 시도와 평가
+
+이 음반은 헤비 사운드를 제대로 완성한 작품으로 평가받았다. 동시대의 여타 캠퍼스 밴드들이 단순한 코드 진행과 비트를 기반으로 보컬 중심의 음악을 구사했다면, 마그마의 김광현의 기타 톤은 획기적이었고, [조하문](../Page/조하문.md "wikilink")의 샤우팅 창법은 대중음악계 전반에 미친 반향이 컸다.
+
+이는 앞면 첫 곡 〈알 수 없어〉에서부터 잘 전해진다. 조하문의 도발적인 샤우팅 창법이 압권인 〈아름다운 곳〉의 원제목은 〈4차원의 세계〉였지만, 심의에 걸려 제목이 바뀌었다. 이 곡은 서사적인 가사와 사이키델릭 사운드의 진수를 담은 연주가 압권인데, 심야 라디오 방송에서 꾸준히 신청된 명곡이다. 마지막 트랙을 장식한 창작 연주곡 〈탈춤〉에서 김광현은 적절한 이펙터 활용으로 사이키델릭 어법에 충실한 탁월한 연주력을 선보였다.
+
+## 수록곡
+
+## 외부 링크
+
+  - [33위 마그마 《Magma》](http://news.khan.co.kr/kh_news/khan_art_view.html?artid=200712201603161&code=900307&s_code=at031) - [경향신문](https://ko.wikipedia.org/wiki/경향신문 "wikilink")
+  - [한국 헤비메탈의 포문을 열다](http://music.naver.com/today.nhn?startdate=20090221) - [네이버](https://ko.wikipedia.org/wiki/네이버 "wikilink")
+
+[분류:1981년 데뷔 음반](https://ko.wikipedia.org/wiki/분류:1981년_데뷔_음반 "wikilink") [분류:마그마의 음반](https://ko.wikipedia.org/wiki/분류:마그마의_음반 "wikilink") [분류:대한민국의 음반](https://ko.wikipedia.org/wiki/분류:대한민국의_음반 "wikilink") [분류:한국어 음반](https://ko.wikipedia.org/wiki/분류:한국어_음반 "wikilink") [분류:하드 록 음반](https://ko.wikipedia.org/wiki/분류:하드_록_음반 "wikilink")

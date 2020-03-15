@@ -1,0 +1,67 @@
+> This article is converted from Wikipedia: [IUCN  ](https://ko.wikipedia.org/wiki/IUCN__).
+
+
+**IUCN 적색목록**(- 赤色目錄) 또는 **IUCN 레드 리스트**(- Red List, 줄여서 레드 리스트)는 세계에서 가장 포괄적인 지구 식물, 동물 [종의](../Page/종_\(생물학\).md "wikilink") [보전 상태의](https://ko.wikipedia.org/wiki/보전_상태 "wikilink") 목록이며, 1963년에 만들어졌다. [국제 자연 보전 연맹](../Page/국제_자연_보전_연맹.md "wikilink")(IUCN)은 종의 보전 상태를 기록하는 세계의 주요 기관이다.\[1\]
+
+## 분류
+
+현재 사용되는 IUCN 적색 목록 범주 3.1에서는 다음의 9가지 단계를 공식적인 범주로 분류한다. 종은 9개의 그룹으로 나뉘며 위기의 속도, 개체 크기, 지질학 분포 지역, 개체와 분포의 정도로 분류한다.
+
+  - [절멸](https://ko.wikipedia.org/wiki/절멸 "wikilink")(EX, Extinct) - 개체가 하나도 남아 있지 않음.
+  - [야생 절멸](https://ko.wikipedia.org/wiki/야생절멸 "wikilink")(EW, Extinct in the Wild) - 보호시설에서만 생존하고 있거나 원래의 서식지역이 아닌 곳에서만 인위적으로 유입되어 생존하고 있음.
+  - [절멸 위급](https://ko.wikipedia.org/wiki/절멸위급종 "wikilink")(CR, Critically Endangered) - 야생에서 절멸할 가능성이 대단히 높음.
+  - [절멸 위기](https://ko.wikipedia.org/wiki/절멸위기종 "wikilink")(EN, Endangered) - 야생에서 절멸할 가능성이 높음.
+  - [취약](https://ko.wikipedia.org/wiki/취약종 "wikilink")(VU, Vulnerable) - 야생에서 절멸 위기에 처할 가능성이 높음.
+  - [준위협](https://ko.wikipedia.org/wiki/멸종_준위협종 "wikilink")(NT, Near Threatened) - 가까운 장래에 야생에서 멸종 우려 위기에 처할 가능성이 높음.
+  - [관심 대상](https://ko.wikipedia.org/wiki/관심대상종 "wikilink")(LC, Least Concern) - 위험이 낮고 위험 범주에 도달하지 않음.
+  - [정보 부족](https://ko.wikipedia.org/wiki/정보부족종 "wikilink")(DD, Data Deficient) - 멸종 위험에 관한 평가 자료 부족.
+  - 미평가(NE, Not Evaluated, NE) - 아직 평가 작업을 거치지 않음.
+
+IUCN 적색목록에 대해 논할 때, 위급(CR), 위기(EN), 취약(VU)의 세 부류를 합해 [멸종 우려](https://ko.wikipedia.org/wiki/멸종_우려 "wikilink")(threatened)라고 한다.
+
+### 1994년 분류와 기준
+
+더 오래된 [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") 자료는 "낮은 위기(Lower Risk)"라는 분류밖에 없었으며 그 분류에는 다음과 같이 세 가지로 나뉘었다:
+
+  - 낮은 위기/보존 필요 (LR/cd)
+  - 낮은 위기/취약 근접 (LR/nt)
+  - 낮은 위기/관심 대상 (LR/lc)
+
+2001년 시스템에서 취약근접과 관심필요는 각자 저만의 분류를 갖게 되었지만 보존 필요(Conservation Dependent)는 더 이상 사용하지 않으며 취약 근접에 합치게 되었다.
+
+### 절멸 가능
+
+추가적인 분류인 절멸 가능(Possibily Extinct, PE)\[2\]은 새에 관한 IUCN 레드 목록의 인가 기관인 [버드라이프 인터내셔널이](../Page/버드라이프_인터내셔널.md "wikilink") 사용한다.\[3\] 버드라이프 인터내셔널은 PE가 공식 분류가 될 것을 권고하고 있다. 버드라이프 인터내셔널은 "야생 절멸 가능"(Possibly Extinct in the Wild)이라는 분류 또한 추가할 것인지에 대해서는 언급한 바 없으나 [스픽스유리금강앵무](https://ko.wikipedia.org/wiki/스픽스유리금강앵무 "wikilink") (Spix's Macaw)는 이 등급을 가지고 있다고 언급한 바 있다. "절멸 가능"은 "위급"의 하부 분류로 생각할 수 있다.
+
+## 버전
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Sizes_of_Red_List_Categories.png "wikilink") 2016년까지 8개의 버전이 있다.\[4\]\[5\]
+
+  - Version 1.0 (1991)
+  - Version 2.0 (1992)
+  - Version 2.1 (1993)
+  - Version 2.2 (1994)
+  - Version 2.3 (1994)
+  - Version 3.0 (1999)
+  - Version 3.1 (2001)
+  - Version 4 (2015)
+
+## 같이 보기
+
+  - [보전 상태](https://ko.wikipedia.org/wiki/보전_상태 "wikilink")
+
+## 각주
+
+<references />
+
+## 외부 링크
+
+  - [IUCN Red List](http://www.iucnredlist.org/)
+
+[IUCN_적색_목록](https://ko.wikipedia.org/wiki/분류:IUCN_적색_목록 "wikilink") [분류:1963년 환경](https://ko.wikipedia.org/wiki/분류:1963년_환경 "wikilink") [분류:국제 자연 보전 연맹](https://ko.wikipedia.org/wiki/분류:국제_자연_보전_연맹 "wikilink") [분류:생물학 데이터베이스](https://ko.wikipedia.org/wiki/분류:생물학_데이터베이스 "wikilink")
+
+1.  Nature 389, 436 (1997년 10월 2일) [1](http://www.nature.com/nature/journal/v389/n6650/abs/389436a0.html)
+2.
+3.
+4.
+5.

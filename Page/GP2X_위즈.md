@@ -1,0 +1,141 @@
+> This article is converted from Wikipedia: [GP2X ](https://ko.wikipedia.org/wiki/GP2X_).
+
+
+**GP2X 위즈**(GP2X Wiz)는 [GP2X](https://ko.wikipedia.org/wiki/GP2X "wikilink")의 후속작으로 [게임파크 홀딩스](https://ko.wikipedia.org/wiki/게임파크_홀딩스 "wikilink")(GPH)에서 제작한 [휴대용 미디어 플레이어](https://ko.wikipedia.org/wiki/휴대용_미디어_플레이어 "wikilink") 겸 휴대용 게임기이다. [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [4월 30일에](https://ko.wikipedia.org/wiki/4월_30일 "wikilink") 발매되었다.\[1\]
+
+## 사양
+
+  - CPU - Pollux 533 MHz(ARM9), 3D 그래픽 엑셀레이터 기능 포함
+  - RAM - 64MB DDR SDRAM
+  - OS - [Linux](https://ko.wikipedia.org/wiki/Linux "wikilink")
+  - 화면 - 2.81인치 [AMOLED](https://ko.wikipedia.org/wiki/AMOLED "wikilink") (320 \* 240)
+  - 배터리 - 리튬 폴리머 2000mAh
+  - 네트워크 - WiFi (외장)
+
+## 명텐도 논란
+
+[2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink"), [이명박](https://ko.wikipedia.org/wiki/이명박 "wikilink") 대통령이 [닌텐도](https://ko.wikipedia.org/wiki/닌텐도 "wikilink") 발언을 한 직후 언론에 의해 대중에게 ‘한국형 닌텐도’로 알려졌다.\[2\] 이 때문에 대통령의 발언을 풍자하기 위해 만들어진 가공의 게임기 이름을 따서 ‘**명텐도**’라는 별명으로 불리기도 했지만, 위즈만의 특성 때문에 명텐도 논란은 사그라지고 있는 중이다.
+
+## 예약판매
+
+[게임파크 홀딩스는](https://ko.wikipedia.org/wiki/게임파크_홀딩스 "wikilink") [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [4월 13일부터](https://ko.wikipedia.org/wiki/4월_13일 "wikilink") 30일 까지 18일에 걸쳐서 자사의 홈페이지와 대형 인터넷 쇼핑몰을 통해 예약판매와 보상할인 판매를 실시하였다. 예약판매 가격은 정식 출시 가격과 동일한 198,000원이었으나, 예약판매 구매자에게는 추가적으로 액정 보호 필름, 케이스, 스트랩 세트, 메탈 스티커로 구성된 5만 원 상당의 상품이 사은품으로 제공되었다.
+
+### 보상할인
+
+게임파크 홀딩스는 예약판매와 동시에, 이전 기종인 [GP2X](https://ko.wikipedia.org/wiki/GP2X "wikilink") F-100 및 GP2X F-200 사용자에 대한 보상할인 판매를 실시하였다. 보상할인은 선착순 100명에게 해당 기기를 반납하는 조건으로 제품 가격의 20%를 할인해 주는 방식으로 진행되었다. 보상할인 구매자에게도 예약판매 구매자와 마찬가지로 액정 보호 필름, 케이스, 스트랩 세트, 메탈 스티커로 구성된 5만 원 상당의 상품이 사은품으로 제공되었다.
+
+### 배송 지연
+
+예약판매 구매자에게는 당초 2009년 5월 1일에 제품이 배송될 예정이었으나, 주문 폭주와 부품업체의 납기일정 차질로 인해 5월 6일부터 5월 9일까지로 배송 일정이 변경되었다. 게임파크 홀딩스 측은 4월 30일 자사 홈페이지의 공지를 통해 배송 지연에 대한 보상으로 예약판매 구매자와 보상할인 구매자에게 5천 원 상당의 문화상품권을 추가로 제공하겠다고 발표했다. 그러나 구매자들의 항의가 빗발쳤고 회사의 신뢰도에 금이 가게 되었다. 5월 6일에는 신문기사를 통해 늦어도 5월 8일까지는 배송을 시작한다고 밝혔으며\[3\], 자사 홈페이지의 공지사항에서는 5월 7일부터 주문 순서대로 배송을 시작한다고 밝혔다.
+
+## 게임 목록
+
+### 내장 게임
+
+게임파크 홀딩스는 기기에 내장될 게임이 8종이라고 발표했으나,〈Space Varments〉는 [게임물 등급 위원회의](https://ko.wikipedia.org/wiki/게임물_등급_위원회 "wikilink") 전체 이용가 판정을 받지 못해 내장 게임에서 제외되었다.
+
+  - Animatch
+  - BoomShine2X
+  - Myriad
+  - Snake On Dope
+  - Square Tower Defense
+  - Wiztern
+  - TailTale
+
+### 전용 게임
+
+#### 2009년 발매
+
+  - 그녀의 기사단 : 강행돌파 (별바람 크리처스, 액션 RPG)
+
+#### 2010년 발매
+
+**1월**
+
+  - 디어사이드3 (비트메이지, 어드벤처) : 1월 15일 발매
+  - 프로피스 (도그마G, 퍼즐, 터치지원) : 1월 15일 발매
+
+**4월**
+
+  - 신검의 전설:라이어 (비트메이지, RPG) : 4월 22일 발매
+
+**8월**
+
+  - 돌려라\! 파티쉐\! (알파비밀기지, 퍼즐)
+
+**10월**
+
+  - 말랑말랑 사천성 (선피니티, 퍼즐, 터치지원) : 27일 발매
+  - 리드모스 (도그마G, 리듬액션, 터치지원) : 28일 발매
+
+**12월**
+
+  - 벨제뷔트의 저주 (블루인터렉티브, 터치지원) : 21일 발매
+  - 월드 범퍼카 배틀럼블 (비트메이지, WiFi지원) : 마지막주 발매 예정
+  - 혈십자 : 퍼스트 컨택트 (별바람 크리처스, 대전격투, WiFi지원) : 마지막주 발매 예정
+
+#### 2011년 발매
+
+**1월**
+
+  - 피겨스케이팅 퀸 (모바일버스, 육성 시뮬레이션, 터치지원)
+
+**2월**
+
+  - Arcana Tarot (게임어바웃, 복합 장르)
+  - 엄마 타이쿤 (이루고, 육성 시뮬레이션)
+  - 위즈 파티(도그마G)
+
+**3월**
+
+  - 판타지 한자 정복 (리버트론, 3D 교육용 퍼즐)
+  - 하이브레인 (클라이맥스, 교육)
+
+**10월**
+
+  - 강행돌파 : 어둠의 군주 (도그마G, 액션)
+
+#### 발매일 미정
+
+  - S라인 다이어트 (게임토일렛, 경영 시뮬레이션)
+  - 색종이 왕자 아레스 (유소프테이션, 어드벤처)
+
+<!-- end list -->
+
+  - 강행돌파2 : 만월의 공주 (도그마G, 3D 액션 RPG)
+  - Lady Killer (Puck2099)
+  - SIDEMIND (자체개발)
+  - 중기천 (도그마G)
+  - PGM 2010 (투엘컴퍼니, 스포츠)
+  - Space Varments(외국 UCC게임)
+
+\- 이 5개는 원래 라인업에 있었으나 현재 라인업에서 사라졌다. (PGM 2010은 후속기종 [CAANOO](https://ko.wikipedia.org/wiki/CAANOO "wikilink")로만 발매되었다
+
+## FunGP 개발자 센터
+
+2009년 3월 16일, GP2X Wiz의 [앱스토어](https://ko.wikipedia.org/wiki/앱스토어 "wikilink") 역할을 할 FunGP의 개발자 센터가 오픈하였다. FunGP 개발자 센터에서는 개발을 위한 SDK, 개발 문서, 도움말, 예제 등을 지원하며 개발에 관련된 기술 지원을 받을 수 있다.
+
+## 후속 기종
+
+CAANOO는 게임파크 홀딩스 GP2X Wiz의 후속 기기이다. 그동안 GP2X 사용자 커뮤니티에서 후속 기기와 관련한 소문이 돌다가 2010년 2월, 정식 공개 이전에 잠시 열렸던 FunGP 개발자센터의 개발 가이드 문서 내용에서 후속 기종인 N35라는 코드네임 형태로 밝혀졌으며 공식 명칭은 Caanoo로 결정되었다.
+
+플레이아시아와 게임조선\[1\]에 따르면 2010년 8월 발매 예정이며 <혈십자 FW> 이외의 30여 종의 타이틀을 함께 선보일 예정이라 한다.
+
+2010년 7월 21일 현재 GPH에서 오픈한 공식 티저 사이트에 따르면 7월 30일에서 8월 10일까지 예약 판매를 진행하였으며 8월 18일 론칭쇼와 함께 배송 시작 및 정식 발매되었으며 앱스토어와 커뮤니티 역할을 하는 FunGP도 오픈하였다.
+
+## 각주
+
+## 외부 링크
+
+  - [GP2X Wiz 공식 홈페이지](https://web.archive.org/web/20181110141213/http://www.gp2xwiz.co.kr/)
+  - [한국 GP2X 사용자 커뮤니티](http://www.gpain.com)
+  - [영어 GP2X 사용자 커뮤니티](https://web.archive.org/web/20030320065326/http://www.gp32x.com/)
+  - [GP2X Wiz File Archive](http://dl.openhandhelds.org/cgi-bin/wiz.cgi)
+  - [GP2X 시리즈 스펙 비교표](http://www.gpain.com/bbs4/view.php?id=tip&page=1&sn1=&divpage=1&sn=off&ss=on&sc=on&select_arrange=headnum&desc=asc&no=266)
+  - [FunGP 개발자 센터](https://web.archive.org/web/20111217112953/http://dev.fungp.co.kr/)
+
+[분류:휴대용 게임기](https://ko.wikipedia.org/wiki/분류:휴대용_게임기 "wikilink") [분류:7세대 게임기](https://ko.wikipedia.org/wiki/분류:7세대_게임기 "wikilink")
+
+1.
+2.
+3.

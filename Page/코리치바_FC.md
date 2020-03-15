@@ -1,0 +1,100 @@
+> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+
+
+**코리치바 푸트볼 클루브**(Coritiba Foot Ball Club)는 대개 **코리치바**라고 알려져 있는 [브라질](https://ko.wikipedia.org/wiki/브라질 "wikilink")의 축구 클럽으로, [파라나 주의](https://ko.wikipedia.org/wiki/파라나_주_\(브라질\) "wikilink") [쿠리치바](../Page/쿠리치바.md "wikilink")를 연고로 한다. [1909년](https://ko.wikipedia.org/wiki/1909년 "wikilink") [10월 12일](https://ko.wikipedia.org/wiki/10월_12일 "wikilink") 독일계 지역 사회의 젊은이들에 의해 창단하였으며, 이는 파라나 주에서 가장 오래된 클럽이기도 하다. [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") 2월부터 5월까지 브라질 모든 대회를 통틀어 24연승을 기록하며, 세계 신기록을 달성한 바 있다.\[1\] [1973년](https://ko.wikipedia.org/wiki/1973년 "wikilink")에는 토르네이우 두 포부에서 우승을 차지하며, 브라질 전국구 대회에서 우승한 최초의 브라질 남부 축구팀으로 기록되었으며, [코파 리베르타도레스와](../Page/코파_리베르타도레스.md "wikilink") [코파 수다메리카나](../Page/코파_수다메리카나.md "wikilink") 등 남미 주요 대회에 참가한 최초의 브라질 남부 축구팀으로도 기록되었다. 또한 [1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink") [캄페오나투 브라질레이루 세리이 A에서](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A "wikilink") 우승을 차지하며, 파라나 주 최초의 전국 리그 우승팀이 되기도 하였다. [1971년](https://ko.wikipedia.org/wiki/1971년 "wikilink")부터 [1976년](https://ko.wikipedia.org/wiki/1976년 "wikilink")까지 6년 연속 주리그 타이틀을 거머쥐며, 파라나 주 유일한 6연패 팀으로 남아있다. 코리치바 FC는 이 대회에서 가장 자주 출전한 팀이기도 하다. [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") 현재 [캄페오나투 브라질레이루 세리이 B와](../Page/캄페오나투_브라질레이루_세리이_B.md "wikilink") 파라나의 [주 리그](../Page/브라질의_주별_리그.md "wikilink") [캄페오나투 파라나엔시에](https://ko.wikipedia.org/wiki/캄페오나투_파라나엔시 "wikilink") 참가하고 있다.
+
+코리치바는 [아틀레치쿠 파라나엔시](../Page/아틀레치쿠_파라나엔시.md "wikilink"), [파라나 클루비과](../Page/파라나_클루비.md "wikilink") 큰 라이벌 관계를 이루고 있다. 파라나 주의 라이벌인 아틀레치쿠 파라나엔시와의 더비 경기는 아틀레치바(Atletiba), 파라나와의 더비 경기는 파라치바(Paratiba)로 불린다.
+
+[2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") 기준으로 코리치바는 세계 각지에 축구팀들과 파트너십을 맺고 있으며, 이는 유소년 선수들 간의 임대 및 이적 계약을 위한 것이다. [포르투갈](https://ko.wikipedia.org/wiki/포르투갈 "wikilink")의 [FC 포르투](../Page/FC_포르투.md "wikilink"), [SL 벤피카와](../Page/SL_벤피카.md "wikilink") [멕시코](https://ko.wikipedia.org/wiki/멕시코 "wikilink")의 [치바스 과달라하라](../Page/CD_과달라하라.md "wikilink"), [네덜란드](https://ko.wikipedia.org/wiki/네덜란드 "wikilink")의 [VVV 펜로](../Page/VVV_펜로.md "wikilink") 그리고 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [대구 FC와](../Page/대구_FC.md "wikilink") 이 계약을 맺고 있다.
+
+## 역사
+
+### 초창기 : 1900년대
+
+#### 클럽의 구성
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Fundador_do_coritiba.jpg "wikilink") [1909년](https://ko.wikipedia.org/wiki/1909년 "wikilink") 독일계 브라질인들의 체육 클럽 *클루비 지나스치쿠 테우투-브라질레이루 턴퍼레인*(Clube Ginástico Teuto-Brasileiro Turnverein)에는 젊은 청년들이 모여 여러 종류의 스포츠를 즐기고 있었다. 그러던 어느날 클럽의 주요 회원이었던 프레데리쿠 "프리츠" 에센펠더가 한 가죽공을 들고 클럽에 나타났다. 그는 그 공을 들고 그의 친구들에게 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink")라는 새로운 스포츠를 전파하였다. 에센펠더와 그의 친구들은 공권 본부()의 운동장에서 축구를 시작하였다.\[2\] 이 후 폰타 그로사 철도회사의 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")계 노동자들의 축구팀의 초청을 받아 경기를 뛰기도 하였다.
+
+1909년 [10월 12일](https://ko.wikipedia.org/wiki/10월_12일 "wikilink") 프리츠 에센펠더는 하우어 극장(Theatro Hauer)에서 미팅을 소집하여 팀의 첫 축구 경기를 주선하였다. 이 과정에서 새로운 축구단의 창설이 이루어졌으며, 구단명칭은 **테우투-브라질레이루**()였다. 테우투(Teuto)는 [독일](https://ko.wikipedia.org/wiki/독일 "wikilink")인을 지칭하는 또다른 말 테우탕(teutão, [튜턴족](https://ko.wikipedia.org/wiki/튜턴족 "wikilink"))에서 따온 말이며, 구단 명은 직역하자면 *독일계 브라질인*이었다. 이 클럽은 [파라나 주의](https://ko.wikipedia.org/wiki/파라나_주 "wikilink") 최초의 축구팀이었다.
+
+#### 최초의 경기
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Coritiba1909.png "wikilink") [1909년](https://ko.wikipedia.org/wiki/1909년 "wikilink") [10월 23일](https://ko.wikipedia.org/wiki/10월_23일 "wikilink") 폰타 그로사에서 구단의 역사적인 첫 경기가 개최되었다. 상대는 *클루비 지 풋볼 지 치루 폰타그로센시*()로, 브라질의 엔지니어링 회사의 노동자들로 구성되어 있었다. 이 경기는 치루 폰타그로센시가 1-0으로 승리를 거두었다.
+
+#### 창단
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Theatro_Hauer_em_Curitiba_em_1913.JPG "wikilink") 폰타 그로사에서의 첫 경기 이후, 축구단의 창립 멤버들은 새로운 경기로 인해 들떠있었다. 이 후 그들의 클럽을 축구 전문 클럽으로 육성하는 것으로 새로운 방향을 설립하였다. 또한 클루비 지나스치쿠 테우투-브라질레이루 턴퍼레인은 오직 독일계 회원만 가입을 승인시키고 있었음에도 불구하고, 테우투-브라질레이루 축구팀은 독일계 이외의 선수들도 다수 포함되어 있기도 하였다. 이러한 이유로 축구단의 독립은 빠르게 논의가 진행되었고, 1909년 하우어 극장에서 기나긴 토론을 벌였다. [1910년](https://ko.wikipedia.org/wiki/1910년 "wikilink") [1월 30일](https://ko.wikipedia.org/wiki/1월_30일 "wikilink") 독립 축구단 **코리치바누 FC**가 창단되었으며, 구단 명칭은 그들이 첫 축구 경기를 치렀던 폰타 그로사의 도시명 [쿠리치바](../Page/쿠리치바.md "wikilink")에서 따왔다.
+
+1910년 [4월 21일](https://ko.wikipedia.org/wiki/4월_21일 "wikilink") 창단 이후 첫 미팅이 소집되었으며, [리우데자네이루](../Page/리우데자네이루.md "wikilink")와 [상파울루](../Page/상파울루.md "wikilink")의 축구단들로부터 스포츠 규칙에 대해 주로 습득하였다. 이 미팅 동안 구단의 첫 보드진이 구성되었으며, 주앙 비아나 세일러가 초대 회장으로, 아르투르 하우어가 부회장으로 추대되었다. 조제 줄리우 프랑쿠와 레오포우두 오블라덴이 각각 제1 및 제2 비서로 선임되었으며, 와우테르 디트리히와 아우빙 하우어 각각 제1 및 제2 회계인사로 선임되었다. 프리츠 에센펠더는 구단 최초의 주장으로 선임되었다. 또한 이 미팅이 진행되는 동안, 구단명 교체 또한 논의되었다. 그 이유는 같은 도시 내에 *코리치바누*라는 이름을 가진 사교 클럽이 존재하여, 혼동을 피하기 위함이었고, 구단명은 **코리치바 FC**로 변경되었다.
+
+### 파라나의 사자 : 1910년대 \~ 1920년대
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Coritiba1927.jpg "wikilink") 구단의 첫 홈 경기장으로 *구아비로투바 [경마](../Page/경마.md "wikilink") 경기장*()이 채택되었다. 이 후 관중들을 효과적으로 모으기 위해 관중석이 개선되었으며, *프라두 지 구아비로투바*()로 명칭이 변경되었다.
+
+[1910년](https://ko.wikipedia.org/wiki/1910년 "wikilink") [6월 12일](https://ko.wikipedia.org/wiki/6월_12일 "wikilink") 구단의 역사적인 첫 공식 경기가 펼쳐졌으며, 상대는 이전에도 대결한 바 있던 *클루비 지 풋볼 지 치루 폰타그로센시*로, 구단 명칭이 *폰타그로사 FC*로 변경되어 재회하였다. 정식 축구단으로 창단 이후 치러진 대결에서는 코리치바의 5-3 승리로 끝이 났다.
+
+[1915년](https://ko.wikipedia.org/wiki/1915년 "wikilink") 코리치바는 쿠리치바 시의 축구 대회인 *캄페오나투 다 시다지*()에 참가하였으며, 같은 해 파라나 [주 리그인](../Page/브라질의_주별_리그.md "wikilink") ()에도 참가하였다. 해당 시즌 코리치바는 두 대회에서 모두 우승을 차지하였다. [1916년](https://ko.wikipedia.org/wiki/1916년 "wikilink") 캄페오나투 파라나엔시에서 스파르타누를 상대로 7골을 퍼부으며 승리를 따냈다. 그 해의 코리치바의 스타 선수인 마샴봄바가 [브라질 축구 국가대표팀에](https://ko.wikipedia.org/wiki/브라질_축구_국가대표팀 "wikilink") 선발되기도 하였다. [1917년](https://ko.wikipedia.org/wiki/1917년 "wikilink") 구단의 새로운 홈 경기장 파르키 다 그라시오사()가 개장하였다.
+
+[1921년](https://ko.wikipedia.org/wiki/1921년 "wikilink") [8월 15일](https://ko.wikipedia.org/wiki/8월_15일 "wikilink") 브라질 대표팀의 주축 선수들로 구성되어 있던 [상파울루주](../Page/상파울루주.md "wikilink")의 축구팀, 셀레상 파울리스타를 1-0으로 꺾었다. 이 경기 이후 브라질 축구계에 파라나 주의 대표적인 축구팀으로 알려지기 시작하였다. [1924년](https://ko.wikipedia.org/wiki/1924년 "wikilink") [6월 8일](https://ko.wikipedia.org/wiki/6월_8일 "wikilink") 코리치바가 [아틀레치쿠 파라나엔시를](../Page/아틀레치쿠_파라나엔시.md "wikilink") 만나 6-3 대승을 거두었고, [1926년](https://ko.wikipedia.org/wiki/1926년 "wikilink") [11월 7일에는](https://ko.wikipedia.org/wiki/11월_7일 "wikilink") 13-1이라는 스코어로 아틀레치쿠 파라나엔시를 대파하였다. 이는 파라나 주 역사상 가장 큰 점수차로 승리한 경기로 남아있다. 이 경기들로 인해 코리치바와 아틀레치쿠 파라나엔시의 라이벌 관계가 형성되기 시작하였다.
+
+### 캄피오니시무 : 1930년대 \~ 1940년대
+
+[1930년](https://ko.wikipedia.org/wiki/1930년 "wikilink") [11월 23일](https://ko.wikipedia.org/wiki/11월_23일 "wikilink") 코리치바는 토르네이우 이니시우에서 재회한 [아틀레치쿠 파라나엔시를](../Page/아틀레치쿠_파라나엔시.md "wikilink") 7-4로 대파하고 우승을 차지하였다. 같은 해 [캄페오나투 파라나엔시와](https://ko.wikipedia.org/wiki/캄페오나투_파라나엔시 "wikilink") 캄페오나투 다 시다지에서도 우승을 차지하였다.
+
+1930년대에는 인종 차별 문제가 브라질 전역에서 들끓던 때이다. 이 시기에 브라질 축구단들은 [흑인](https://ko.wikipedia.org/wiki/흑인 "wikilink") 및 [물라토](../Page/물라토.md "wikilink") 등 유색 인종을 받아들이기 시작하였다. 그러나 [쿠리치바](../Page/쿠리치바.md "wikilink") 지역은 주로 [독일](https://ko.wikipedia.org/wiki/독일 "wikilink")계, [폴란드](https://ko.wikipedia.org/wiki/폴란드 "wikilink")계, [우크라이나](https://ko.wikipedia.org/wiki/우크라이나 "wikilink")계 이민자들 위주로 구성되어 있었고, 애초에 유색 인종의 숫자가 적은 편이었다. 그러나 모아시르 곤사우비스가 선수 겸 감독으로 취임하면서, 구단 최초의 유색 인종 선수로 등록되었다.
+
+[1932년](https://ko.wikipedia.org/wiki/1932년 "wikilink") [11월 19일](https://ko.wikipedia.org/wiki/11월_19일 "wikilink") [벨포트 두아르치가](https://ko.wikipedia.org/wiki/이스타지우_쿠투_페헤이라 "wikilink") 개장하였다. 이 경기장에서의 첫 경기는 [캄페오나투 카리오카의](../Page/캄페오나투_카리오카.md "wikilink") 챔피언 [아메리카-RJ였으며](../Page/아메리카_FC_\(리우데자네이루\).md "wikilink"), 코리치바가 4-2로 승리를 거두었다. [1941년](https://ko.wikipedia.org/wiki/1941년 "wikilink") [1월 23일](https://ko.wikipedia.org/wiki/1월_23일 "wikilink") 구단은 역사상 최초로 외국 구단과 경기를 가졌으며, 상대는 [아르헨티나](https://ko.wikipedia.org/wiki/아르헨티나 "wikilink")의 [힘나시아 라플라타였다](../Page/힘나시아_라플라타.md "wikilink"). [1947년](https://ko.wikipedia.org/wiki/1947년 "wikilink") 파라나 주가 주관하는 모든 대회(유소년, 청소년, 아마추어, 프로)에서 우승을 차지하며, *캄페오니시무*(, 슈퍼 챔피언)이라는 별칭을 부여받았다.
+
+### 황금기와 유럽 투어 : 1950년대 \~ 1970년대
+
+1950년대의 코리치바는 성공적인 행보를 지속적으로 쌓고 있던 팀이었다. [1951년](https://ko.wikipedia.org/wiki/1951년 "wikilink"), [1952년](https://ko.wikipedia.org/wiki/1952년 "wikilink"), [1954년](https://ko.wikipedia.org/wiki/1954년 "wikilink"), [1956년](https://ko.wikipedia.org/wiki/1956년 "wikilink"), [1957년](https://ko.wikipedia.org/wiki/1957년 "wikilink"), [1959년](https://ko.wikipedia.org/wiki/1959년 "wikilink") 총 여섯 차례 동안 [캄페오나투 파라나엔시의](https://ko.wikipedia.org/wiki/캄페오나투_파라나엔시 "wikilink") 챔피언에 올라섰다. [1960년](https://ko.wikipedia.org/wiki/1960년 "wikilink") 캄페오나투 파라나엔시에서 또 다시 우승을 차지하다. 같은 해 [코파 두 브라지우에서](https://ko.wikipedia.org/wiki/코파_두_브라지우 "wikilink") 결승전까지 올라 [그레미우](../Page/그레미우.md "wikilink")와 맞대결을 펼쳤으나, 경기는 무승부로 종료되었다. 승자를 가리지 못한 양 팀은 동전 뒤집기로 승자를 결정했으며, 동전의 운명에 의해 코리치바가 패배한 것으로 처리되었다.
+
+1960년대 코리치바는 해외 팀들과 홈에서 맞대결을 펼쳤으며, [8월 6일](https://ko.wikipedia.org/wiki/8월_6일 "wikilink") [스페인](https://ko.wikipedia.org/wiki/스페인 "wikilink")의 [아틀레티코 마드리드를](https://ko.wikipedia.org/wiki/아틀레티코_마드리드 "wikilink") 상대로 3-2 승리, [12월 12일](https://ko.wikipedia.org/wiki/12월_12일 "wikilink") [헝가리 축구 국가대표팀을](../Page/헝가리_축구_국가대표팀.md "wikilink") 상대로 1-0 승리를 거두었다. [1968년](https://ko.wikipedia.org/wiki/1968년 "wikilink")에는 [이탈리아](https://ko.wikipedia.org/wiki/이탈리아 "wikilink")의 [SSC 나폴리와](../Page/SSC_나폴리.md "wikilink") 맞붙었다. 같은 해 8년 간의 트로피 공백을 깨고 캄페오나투 파라나엔시에서 우승을 차지하기도 하였다. [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink")에는 구단 역사상 첫 해외 투어를 나서게 되었고, 참가 대회는 [스페인](https://ko.wikipedia.org/wiki/스페인 "wikilink")에서 열린 *III 토르네오 시우다드 데 무르시아*였다. 또한 [프랑스](../Page/프랑스.md "wikilink")에서 열린 *쿠프 드 피에르 콜롱*에도 참여하였으며, 상대팀은 [스페인](https://ko.wikipedia.org/wiki/스페인 "wikilink")의 [발렌시아 CF](../Page/발렌시아_CF.md "wikilink"), [독일](https://ko.wikipedia.org/wiki/독일 "wikilink")의 [보루시아 도르트문트](../Page/보루시아_도르트문트.md "wikilink"), [프랑스](../Page/프랑스.md "wikilink")의 [FC 지롱댕 드 보르도](../Page/FC_지롱댕_드_보르도.md "wikilink"), [네덜란드](https://ko.wikipedia.org/wiki/네덜란드 "wikilink")의 [페예노르트](https://ko.wikipedia.org/wiki/페예노르트 "wikilink"), [오스트리아](https://ko.wikipedia.org/wiki/오스트리아 "wikilink")의 [FK 아우스트리아 빈](../Page/FK_아우스트리아_빈.md "wikilink"), [불가리아](https://ko.wikipedia.org/wiki/불가리아 "wikilink")의 [PFC 레프스키 소피아](../Page/PFC_레프스키_소피아.md "wikilink"), [벨기에](https://ko.wikipedia.org/wiki/벨기에 "wikilink")의 [RSC 안데르레흐트였다](https://ko.wikipedia.org/wiki/RSC_안데르레흐트 "wikilink"). 코리치바는 이 대회에서 우승을 차지하였다.
+
+1970년대에 들어서 [벨포트 두아르치의](https://ko.wikipedia.org/wiki/이스타지우_쿠투_페헤이라 "wikilink") 확장 공사를 위한 예산 확보를 목적으로, 에반젤리누 회장은 스타 선수들을 영입하여 팬들을 모으는 전략을 펼쳤다. 이 시기에 구단은 유럽 투어를 다시 한차례 떠났으며, [프랑스](../Page/프랑스.md "wikilink"), [유고슬라비아](https://ko.wikipedia.org/wiki/유고슬라비아 "wikilink"), [알제리](https://ko.wikipedia.org/wiki/알제리 "wikilink"), [루마니아](https://ko.wikipedia.org/wiki/루마니아 "wikilink"), [포르투갈](https://ko.wikipedia.org/wiki/포르투갈 "wikilink")의 축구팀들과 대결을 펼쳤다.
+
+[1971년](https://ko.wikipedia.org/wiki/1971년 "wikilink")은 코리치바의 황금기가 시작된 시점으로, 6년 연속 [캄페오나투 파라나엔시](https://ko.wikipedia.org/wiki/캄페오나투_파라나엔시 "wikilink") 우승을 차지한 시발점이기도 했다. [1972년](https://ko.wikipedia.org/wiki/1972년 "wikilink") 구단은 세번째 유럽 투어를 떠났으며, [터키](https://ko.wikipedia.org/wiki/터키 "wikilink")에서 열리는 토너먼트 대회에 참가하게 되었다. 이 대회에서 [터키 축구 국가대표팀과](../Page/터키_축구_국가대표팀.md "wikilink") [모로코 축구 국가대표팀](../Page/모로코_축구_국가대표팀.md "wikilink") 그리고 [페네르바흐체 SK와](../Page/페네르바흐체_SK.md "wikilink") 맞붙었으며, 무패로 우승을 차지하고 귀국하였다. 같은 해 홈 경기장에서 [포르투갈](https://ko.wikipedia.org/wiki/포르투갈 "wikilink")의 [SL 벤피카와](../Page/SL_벤피카.md "wikilink") [헝가리 축구 국가대표팀](../Page/헝가리_축구_국가대표팀.md "wikilink"), [콩고 축구 국가대표팀과](https://ko.wikipedia.org/wiki/콩고_축구_국가대표팀 "wikilink") 친선 경기를 가지기도 했다. [1973년](https://ko.wikipedia.org/wiki/1973년 "wikilink") [6월 18일에는](https://ko.wikipedia.org/wiki/6월_18일 "wikilink") [파라과이 축구 국가대표팀을](https://ko.wikipedia.org/wiki/파라과이_축구_국가대표팀 "wikilink") 홈에서 만나 대결을 펼쳤으며, 1-0 승리로 경기가 종료되었다.
+
+[1977년](https://ko.wikipedia.org/wiki/1977년 "wikilink") 벨포트 두아르치 경기장의 명칭이 *마조르 안토니우 쿠투 페헤이라*로 교체되었다. [1979년](https://ko.wikipedia.org/wiki/1979년 "wikilink") 캄페오나투 파라나엔시에서 우승을 차지하며, 1970년대 안에서만 여덟번째 트로피를 들어올렸고, 같은해 [캄페오나투 브라질레이루 세리이 A에서는](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A "wikilink") 3위를 기록하였다.
+
+### 위기의 봉착 : 1980년대 \~ 1990년대
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Ney_Franco_2011_2.jpg "wikilink") [1980년](https://ko.wikipedia.org/wiki/1980년 "wikilink") [캄페오나투 브라질레이루 세리이 A에서](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A "wikilink") [제스포르치바와](https://ko.wikipedia.org/wiki/SD_세하_FC "wikilink") [페호비아리우 AC를](https://ko.wikipedia.org/wiki/페호비아리우_AC "wikilink") 모두 7-1로 꺾고 최종 4위를 기록하였다. 그러나 재정적인 위기를 맞이한 코리치바는 [1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink")까지 아무런 타이틀을 획득하지 못하였다.
+
+1985년 [에니우 안드라지의](https://ko.wikipedia.org/wiki/에니우_안드라지 "wikilink") 지도 하에, 캄페오나투 브라질레이루 세리이 A 타이틀을 향한 여정을 시작하였다. 상대는 [방구 AC로](https://ko.wikipedia.org/wiki/방구_AC "wikilink"), [CR 바스쿠 다 가마](../Page/CR_바스쿠_다_가마.md "wikilink"), [CR 플라멩구](../Page/CR_플라멩구.md "wikilink"), [플루미넨시 FC](../Page/플루미넨시_FC.md "wikilink"), [보타포구 FR의](../Page/보타포구_FR.md "wikilink") 서포터들이 방구를 응원하기 위해 [마라카낭 경기장에](https://ko.wikipedia.org/wiki/마라카낭_경기장 "wikilink") 들어섰고, 9만 1천명의 관중들이 운집하여 방구를 응원하였다. 그러나 이러한 불리한 여건을 이겨내고 코리치바가 최종 우승을 차지하였다. [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") 코리치바는 파라나 주 축구팀 최초로 [코파 리베르타도레스에](https://ko.wikipedia.org/wiki/코파_리베르타도레스_1986 "wikilink") 참가하였으며, 조별 예선에서 2위로 탈락하였다. [1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink")에는 [캄페오나투 파라나엔시에서](https://ko.wikipedia.org/wiki/캄페오나투_파라나엔시 "wikilink") 우승을 차지하였으며, 같은 해 [6월 18일](https://ko.wikipedia.org/wiki/6월_18일 "wikilink") 쿠투 페헤이라에서 [일본 축구 국가대표팀을](https://ko.wikipedia.org/wiki/일본_축구_국가대표팀 "wikilink") 상대로 1-0 승리를 거두기도 하였다.
+
+1980년대의 영광스러운 나날들을 뒤로 한채, 코리치바 FC는 1990년대를 재정적 위기와 함께 시작하였다. 하지만 코리치바는 [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink") [코파 두 브라지우](https://ko.wikipedia.org/wiki/코파_두_브라지우 "wikilink") 4강까지 진출하기도 하였다. 반면 [캄페오나투 브라질레이루 세리이 B에서](../Page/캄페오나투_브라질레이루_세리이_B.md "wikilink") 2년간 머물렀던 코리치바는 [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink")에 승격에 성공하였으나, 곧바로 강등되기도 하였다. [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") 캄페오나투 파라나엔시에서 라이벌 [파라나 클루비와](../Page/파라나_클루비.md "wikilink") 결승전에서 격돌하였으나, 패배하고 준우승에 머물렀다. [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink")에는 결승전에조차 도달하지 못하였다. [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink")이 되어서야 9년의 공백을 깨고 캄페오나투 파라나엔시 트로피를 들어올릴 수 있었다.
+
+### 쉽지않은 부활 : 2000년대 \~ 현재
+
+[2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") 코리치바 FC는 [코파 술미나스](https://ko.wikipedia.org/wiki/코파_술미나스 "wikilink"), [코파 두 브라지우](https://ko.wikipedia.org/wiki/코파_두_브라지우 "wikilink"), [캄페오나투 파라나엔시에서](https://ko.wikipedia.org/wiki/캄페오나투_파라나엔시 "wikilink") 모두 4강전에 진출하여 탈락하였다. [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") 캄페오나투 파라나엔시에서 무패 우승을 달성하였고, [캄페오나투 브라질레이루 세리이 A에서](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A "wikilink") 5위를 차지하며, 부활의 신호탄을 쏘아 올렸다. 그러나 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink")에 주리그에서 다시 우승하였지만, [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") 전국 리그에서 좋지 못한 성적을 거두고 [캄페오나투 브라질레이루 세리이 B로](../Page/캄페오나투_브라질레이루_세리이_B.md "wikilink") 재차 강등되었다. [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [11월 3일](https://ko.wikipedia.org/wiki/11월_3일 "wikilink") 4경기를 남겨 둔 채 승격을 확정지었으며, 해당 시즌 세리이 B 타이틀까지 거머쥐었다. 하지만 2009 시즌을 버티지 못하고 세리이 B로 다시 강등되었으며, 2010 시즌에 세리이 B에서 다시 승격하는 한편, 그 다음 시즌에 바로 강등을 당하여 세리이 A와 세리이 B를 왔다 갔다 하는 클럽이 되었다.
+
+## 수상
+
+### 전국
+
+  - **[캄페오나투 브라질레이루 세리이 A](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A "wikilink")**
+      - **우승 (1회)** : [1985](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A_1985 "wikilink")
+  - **[캄페오나투 브라질레이루 세리이 B](../Page/캄페오나투_브라질레이루_세리이_B.md "wikilink")**
+      - **우승 (1회)** : [2007](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_B_2007 "wikilink"), [2010](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_B_2010 "wikilink")
+  - **[토르네이우 두 포부](https://ko.wikipedia.org/wiki/토르네이우_두_포부 "wikilink")**
+      - **우승 (1회)** : 1973
+
+### 주 (州)
+
+  - **[캄페오나투 파라나엔시](https://ko.wikipedia.org/wiki/캄페오나투_파라나엔시 "wikilink")**
+      - **우승 (38회)** : 1916, 1927, 1931, 1933, 1935, 1939, 1941, 1942, 1946, 1947, 1951, 1952, 1954, 1956, 1957, 1959, 1960, 1968, 1969, 1971, 1972, 1973, 1974, 1975, 1976, 1978, 1979, 1986, 1989, 1999, 2003, 2004, 2008, 2010, 2011, 2012, 2013, 2017
+
+<!-- end list -->
+
+  - **타사 시다지 지 쿠리치바**
+      - **우승 (2회)** : 1976, 1978
+
+## 각주
+
+<references />
+
+[코리치바_FC](https://ko.wikipedia.org/wiki/분류:코리치바_FC "wikilink") [분류:브라질의 축구단](https://ko.wikipedia.org/wiki/분류:브라질의_축구단 "wikilink") [분류:1909년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1909년_설립된_축구단 "wikilink") [분류:파라나주 (브라질)의 축구단](https://ko.wikipedia.org/wiki/분류:파라나주_\(브라질\)의_축구단 "wikilink")
+
+1.
+2.

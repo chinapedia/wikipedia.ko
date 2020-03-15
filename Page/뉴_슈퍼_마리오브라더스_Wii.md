@@ -1,0 +1,88 @@
+> This article is converted from Wikipedia: [   Wii](https://ko.wikipedia.org/wiki/___Wii).
+
+
+《**뉴 슈퍼 마리오브라더스 Wii**》()는 [닌텐도](https://ko.wikipedia.org/wiki/닌텐도 "wikilink")가 개발한 [Wii](https://ko.wikipedia.org/wiki/Wii "wikilink")용 액션 게임 소프트웨어이다. 대한민국에서는 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [8월 7일에](https://ko.wikipedia.org/wiki/8월_7일 "wikilink") 블랙 [Wii](https://ko.wikipedia.org/wiki/Wii "wikilink")와 함께 발매되었다.
+
+## 개요
+
+2D의 배경에 3D 그래픽을 이용하여 2.5D의 효과를 내는 [액션 게임으로](https://ko.wikipedia.org/wiki/액션_게임 "wikilink"), [마리오](../Page/마리오.md "wikilink")의 캐릭터들이 모험하는 내용을 다룬다. 컨트롤러로는 [Wii 리모컨](../Page/Wii_리모컨.md "wikilink") 또는 [눈차크](https://ko.wikipedia.org/wiki/눈차크 "wikilink")로 사용한다.
+
+## 줄거리
+
+[마리오](../Page/마리오.md "wikilink"), [루이지](../Page/루이지.md "wikilink"), 노랑 [키노피오](../Page/키노피오.md "wikilink"), 파랑 키노피오가 [피치 공주의](../Page/피치_공주.md "wikilink") 생일을 축하하는 파티를 열었다. 그 때, 거대한 케이크 하나가 성 안에 들어왔고, 그 안에서 쿠파주니어와 부하들이 튀어나와 피치 공주를 납치해 갔다.
+
+## 아이템
+
+이전 작품인 《[뉴 슈퍼 마리오브라더스](../Page/뉴_슈퍼_마리오브라더스.md "wikilink")》에서 나왔던 거대버섯과 파란 등껍질이 삭제되었다. 또한 아이템 저장 기능이 전작이나 슈퍼 마리오 월드와 같이 아이템 하나만을 저장하고 필드에서 불러오는 방식이 아닌 《[슈퍼 마리오브라더스 3](../Page/슈퍼_마리오브라더스_3.md "wikilink")》과 같이 키노피오의 집에서 얻은 아이템이 중복되어 저장되며 월드 맵에서 아이템을 사용하는 것으로 회귀하였다. 즉, 전작이나 슈퍼 마리오 월드에서 게임 플레이 중 얻은 아이템이 중첩되면 중첩된 아이템을 저장하는 시스템이 사라졌다.
+
+  - 슈퍼버섯
+
+플레이어의 키를 2배로 늘려주고 벽돌을 격파할 수 있다. 중복이 불가하다.
+
+  - 파이어플라워
+
+플레이어가 불을 쏘아 적을 제압할 수 있게 해준다.
+
+  - 프로펠러버섯
+
+플레이어가 프로펠러를 사용하여 하늘 높이 떴다가 천천히 떨어질 수 있게 해준다.
+
+  - 아이스플라워
+
+눈덩이를 쏴 적을 얼릴 수 있다. 얼린 적들은 움직이지 않고 이렇게 얼려져 있는 상태에는 얼린 적을 잡아서 엉금엉금의 껍질처럼 잡아서 던져 앞에 있는 적을 쓰러트릴 수 있다.
+
+  - 펭귄슈트
+
+배로 미끄럼을 탈 수 있고 수영 속도가 빨라지며, 눈덩이를 쏠 수 있다.
+
+  - 땅콩버섯
+
+플레이어의 크기가 매우 작아져 작은 틈이나 토관에 들어갈수 있게 해준다. 물 위를 대쉬할 수 있고 점프력과 체공시간이 길어지고, 목소리가 바뀐다.하지만 이 상태에선 적을 밟아서 죽일 수 없고, 엉덩이 찍기를 이용해야 한다.
+
+  - 무적스타
+
+제한 시간동안 플레이어가 무적이 되어 만지는 적은 모두 죽일 수 있다. 그러나 용암에 빠지거나 낭떠러지에 떨어지거나 게임시간이 경과되면 죽는다.
+
+  - 연두색 수퍼 버섯
+
+목숨하나가 추가된다
+
+## 등장 인물
+
+### 플레이 가능한 캐릭터
+
+  - [마리오](../Page/마리오.md "wikilink")
+  - [루이지](../Page/루이지.md "wikilink")
+  - [키노피오](../Page/키노피오.md "wikilink") (노랑, 파랑)
+  - [요시](../Page/요시.md "wikilink") (위 네 캐릭터가 요시에 탑승하는 구조)
+
+### 적들
+
+  - [래리, 로이, 레미, 웬디, 이기, 모톤, 루드윅](https://ko.wikipedia.org/wiki/쿠파7인조 "wikilink")
+  - [쿠파](../Page/쿠파_\(캐릭터\).md "wikilink")
+  - [쿠파주니어](https://ko.wikipedia.org/wiki/쿠파주니어 "wikilink")
+  - 마귀
+
+### 스토리 상 캐릭터
+
+  - [피치 공주](../Page/피치_공주.md "wikilink")
+
+## 월드
+
+  - 월드 1: 평원 스테이지
+  - 월드 2: 사막 스테이지
+  - 월드 3: 빙하 스테이지
+  - 월드 4: 해변가 스테이지
+  - 월드 5: 정글 스테이지
+  - 월드 6: 암석 스테이지
+  - 월드 7: 구름 스테이지
+  - 월드 8: 용암 스테이지
+  - 월드 9: 별 스테이지 (스페셜 월드 또는 무지개 또는 스타 로드): 각 월드의 스타코인을 모두 모으면 그 월드에 해당하는 월드 9의 스테이지가 열린다.
+
+## 각주
+
+## 외부 링크
+
+  - [뉴 슈퍼 마리오브라더스 Wii](http://www.nintendo.co.kr/Wii/software/nsmbwii/submain.php)
+
+[분류:Wii 게임](https://ko.wikipedia.org/wiki/분류:Wii_게임 "wikilink") [분류:2009년 비디오 게임](https://ko.wikipedia.org/wiki/분류:2009년_비디오_게임 "wikilink") [분류:액션 게임](https://ko.wikipedia.org/wiki/분류:액션_게임 "wikilink") [분류:마리오 플랫폼 게임](https://ko.wikipedia.org/wiki/분류:마리오_플랫폼_게임 "wikilink") [분류:슈퍼 마리오](https://ko.wikipedia.org/wiki/분류:슈퍼_마리오 "wikilink")

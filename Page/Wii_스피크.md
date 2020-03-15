@@ -1,0 +1,57 @@
+> This article is converted from Wikipedia: [Wii ](https://ko.wikipedia.org/wiki/Wii_).
+
+
+**Wii 스피크**(Wii Speak)는 [Wii](https://ko.wikipedia.org/wiki/Wii "wikilink")에 사용하는 [마이크로폰](../Page/마이크로폰.md "wikilink") 확장 장치이다. Wii 뒷면에 있는 빈 [USB](https://ko.wikipedia.org/wiki/USB "wikilink") 포트에 연결한다. 이 장치는 TV와 같은 영상 장치에 가까이 설치해도 아무런 문제가 없도록 설계되었으며, 설치되어 있는 공간의 모든 사람들이 위 스피크에 가까이 가지 않더라도 음성 대화가 가능하게 하였다.\[1\] [LED](https://ko.wikipedia.org/wiki/LED "wikilink") 램프는 위 스피크가 작동하고 있을 때 점등하도록 되어 있다. 위 스피크는 2008년 [E3](https://ko.wikipedia.org/wiki/E3 "wikilink")의 닌텐도 미디어 브리핑에서 처음 소개되었다. 위 스피크는 《[타운으로 놀러가요 동물의 숲](../Page/타운으로_놀러가요_동물의_숲.md "wikilink")》에 번들 형태로 포함된 제품과 단독으로 판매되는 제품의 2가지 형태로 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [11월 16일](https://ko.wikipedia.org/wiki/11월_16일 "wikilink") [미국](https://ko.wikipedia.org/wiki/미국 "wikilink"),\[2\] [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [11월 20일](https://ko.wikipedia.org/wiki/11월_20일 "wikilink") [일본](../Page/일본.md "wikilink"), [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [12월 5일](https://ko.wikipedia.org/wiki/12월_5일 "wikilink") [유럽](https://ko.wikipedia.org/wiki/유럽 "wikilink"), [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [12월 10일](https://ko.wikipedia.org/wiki/12월_10일 "wikilink") [오스트레일리아](https://ko.wikipedia.org/wiki/오스트레일리아 "wikilink")에 차례대로 발매되었으며, [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [1월 28일에는](https://ko.wikipedia.org/wiki/1월_28일 "wikilink") [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에 발매되었다.\[3\]
+
+## 디자인
+
+[미야모토 시게루에](../Page/미야모토_시게루.md "wikilink") 따르면 위 스피크는 "하나의 공간에서 울리는 다양한 목소리를 동시에 명확히 잡아내어 인터넷으로 전송한다."는 모티브 하에 디자인되었다.\[4\] [에구치 가즈야는](https://ko.wikipedia.org/wiki/에구치_가즈야 "wikilink") "TV 스피커로부터 나오는 소리에 의한 간섭을 막기 위해, 게임의 소리를 감지하여 걸러내는 필터를 포함하였다"고 발표하였다.\[5\] 미야모토 시게루는 위 스피크의 잡음 제거 기능은 "매우 좋다"고 IGN 제품 인터뷰에서 주장하였다.\[6\]
+
+## 소프트웨어
+
+2008년 E3에서, 《타운으로 놀러가요》에 위 스피크를 번들로 포함하지 않느냐는 질문이 들어왔을 때, 미야모토 시게루는 "가격은 고객이 상품을 살 때 결정하는 중요한 요소이며, 어떤 이는 위 스피크 없이 《타운으로 놀러가요》를 플레이하고 싶을 것이고, 어떤 이는 《타운으로 놀러가요》에 관심은 없으나 위 스피크는 사용해 보고 싶어할 것이다."라고 답하였다.\[7\] 이 발표와는 달리, 후에 닌텐도는 《타운으로 놀러가요》에 위 스피크가 번들로 포함되어 있는 제품 또한 발매할 것이라고 발표했다.\[8\] 이 제품은 한정판이 될 예정이었으며, 스탠드얼론 제품과 동시에 발매되었다.\[9\]
+
+### 위 스피크 채널
+
+[2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [10월 2일](https://ko.wikipedia.org/wiki/10월_2일 "wikilink"), 닌텐도는 "위 스피크는 고유한 [위 채널을](https://ko.wikipedia.org/wiki/위_채널 "wikilink") 할당받게 될 것이다."라고 발표했다. 위 스피크 채널은 위 스피크 제품 패키지에 포함된 16자리 숫자의 다운로드 티켓을 이용하도록 되어 있다. 16자리의 코드를 Wii 쇼핑 채널에서 입력하면, 위 스피크 채널을 다운로드할 수 있다.\[10\] 미국에서는 위 스피크 발매 이전에 "Wii Speak Channel Download Assistant"이라는 채널을 다운로드할 수 있었으며, 이 채널은 위 스피크 발매 전까지 위 스피크와 위 스피크 채널에 대한 정보를 제공했다. 발매 이후, 이 채널은 자동적으로 위 스피크 채널로 바뀌었다.
+
+위 스피크 채널에서는 위 스피크 온라인을 통하여 최대 4개의 공간\[11\] 을 연결하여 음성 채팅이 가능하다. 하나의 공간에 제한되는 인원 수는 없다.\[12\] 각각의 유저는 각각의 Mii로 표현되며, 이 Mii는 지정된 목소리에 립싱크한다. 또한, Wii 알림판에 음성 에시지를 남기거나 다른 사람에게 전송하는 것이 가능하며, 자막이나 사진을 첨부할 수도 있다. 사진 슬라이드 쇼를 서로 공유하면서 음성으로 코멘트를 남길 수도 있다.\[13\]
+
+### 지원되는 게임
+
+<small>**\*** 대한민국에 발매되지 않은 게임의 경우 영어 원제를 그대로 표기하였다.</small>
+
+| 제목                                                             | 개발사                                                         | 배급사                                                 | 북미 발매일        | 일본 발매일        | 유럽 발매일       | 오스트레일리아 발매일  | 대한민국 발매일     |
+| -------------------------------------------------------------- | ----------------------------------------------------------- | --------------------------------------------------- | ------------- | ------------- | ------------ | ------------ | ------------ |
+| [타운으로 놀러가요 동물의 숲](../Page/타운으로_놀러가요_동물의_숲.md "wikilink")\[14\] | [닌텐도 EAD](https://ko.wikipedia.org/wiki/닌텐도_EAD "wikilink") | [닌텐도](https://ko.wikipedia.org/wiki/닌텐도 "wikilink") | 2008년 11월 16일 | 2008년 11월 20일 | 2008년 12월 5일 | 2008년 12월 4일 | 2010년 1월 28일 |
+| Endless Ocean 2: Adventures of the Deep\[15\]                  | Arika                                                       | 닌텐도                                                 | 2010년 2월 22일  | 2009년 9월 17일  |              |              |              |
+| NHL 2K10\[16\]                                                 | Visual Concepts                                             | 2K Sports                                           | 2009년 9월 15일  |               |              |              |              |
+| The Conduit\[17\]                                              | High Voltage Software                                       | [세가](https://ko.wikipedia.org/wiki/세가 "wikilink")   | 2009년 6월 23일  |               | 2009년 7월 10일 | 2009년 7월 16일 |              |
+| The Grinder\[18\]                                              | High Voltage Software                                       | 아이도스 인터렉티브                                          | 2010년 가을      |               |              |              |              |
+| Uno                                                            | Gameloft                                                    | Gameloft                                            |               |               |              |              |              |
+| NBA 2K10                                                       | Visual Concepts                                             | 2K Sports                                           | 2009년 11월 9일  |               |              |              |              |
+
+## 각주
+
+<references/>
+
+[분류:닌텐도 주변기기](https://ko.wikipedia.org/wiki/분류:닌텐도_주변기기 "wikilink") [분류:Wii의 하드웨어](https://ko.wikipedia.org/wiki/분류:Wii의_하드웨어 "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11. Wii의 개수를 의미하기도 한다.
+12.
+13.
+14.
+15.
+16.
+17.
+18.

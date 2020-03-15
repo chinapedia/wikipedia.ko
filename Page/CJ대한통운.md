@@ -1,0 +1,208 @@
+> This article is converted from Wikipedia: [CJ](https://ko.wikipedia.org/wiki/CJ).
+
+
+**CJ대한통운**은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 물류 운송기업이다. 일제강점기 때 설립된 몇 안되는 한국 기업이며, 한국 최초의 운송업체이기도 하다. 대한민국 내 택배부문, 계약물류부문(3PL)에서 시장점유율 1위를 점하고 있다.
+
+## 역사
+
+[1930년](https://ko.wikipedia.org/wiki/1930년 "wikilink") [11월 15일](https://ko.wikipedia.org/wiki/11월_15일 "wikilink") 모태인 조선미곡창고를 시작으로 하여 설립되었다. [동아그룹](../Page/동아그룹.md "wikilink"), [금호아시아나그룹](../Page/금호아시아나그룹.md "wikilink")의 계열사를 거쳤으며 본래 대한통운이라는 명칭이었으나 2011년 [CJ그룹](https://ko.wikipedia.org/wiki/CJ그룹 "wikilink")이 인수하며 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 3월 [CJ대한통운](https://ko.wikipedia.org/wiki/CJ대한통운 "wikilink")으로 사명이 변경되었다. [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [4월 1일에](https://ko.wikipedia.org/wiki/4월_1일 "wikilink") [CJ GLS와](../Page/CJ_GLS.md "wikilink") 통합하면서 택배업계에서 압도적인 점유율 1위 회사로 올라서며 '택배 공룡'으로 불리게 되었다.\[1\]
+
+## 점유율
+
+2012년 말 택배업계 점유율은 대한통운 21%, CJ GLS 16%, [현대로지스틱스](https://ko.wikipedia.org/wiki/현대로지스틱스 "wikilink") 12%, 한진택배 11%, 우체국택배 11% 순이었다. 이들 다섯 업체는 택배업계의 '빅5'로 불려 왔다. '빅5'의 시장점유율은 71%로, 이들은 그동안 경쟁적으로 단가를 낮추는 등 치열한 [치킨게임](https://ko.wikipedia.org/wiki/치킨게임 "wikilink")을 벌여 왔다. 그 과정에서 인터넷 도서 배송 시장에서 성업하던 이노지스가 파산했고 KGB택배는 경영난을 겪다가 매각됐다.
+
+그 와중에 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [4월 3일](https://ko.wikipedia.org/wiki/4월_3일 "wikilink") [대한통운](https://ko.wikipedia.org/wiki/대한통운 "wikilink")과 [CJ GLS가](../Page/CJ_GLS.md "wikilink") 합병하면서 압도적인 점유율 1위로 올라섰고, 업계 최초로 2018년 오픈 예정인 수도권 택배 메가 허브 터미널인 곤지암택배터미널의 완공과 더불어 운영중인 전 Sub터미널에 휠소터를 설치하는등 시설 투자에서도 경쟁사를 압도하는 상황이다.\[2\]
+
+## 사업
+
+연 매출은 2011\~2012년에는 2조 5천억 남짓이었으나 CJ그룹이 인수한 이후 2013년에는 3조원대로 증가했으며, 2014년 예상매출은 4조 5천억원에 이른다. 2013년에 일시적으로 순이익이 적자가 되었으나 2014년에는 다시 흑자로 돌아섰다. 2014년 현재 시가총액은 4조원대이다.
+
+택배업은 온라인 쇼핑의 증가로 시장 전망이 밝으며, 미국에서도 택배 회사들의 주가가 2013년부터 많이 상승하고 있다.\[3\] 택배 업계 점유율 2위 업체인 [현대로지스틱스](https://ko.wikipedia.org/wiki/현대로지스틱스 "wikilink")가 사모펀드에 인수되며 점유율 경쟁보다는 부채 해소 등 내실 다지기에 주력하게 됨에 따라 업계 내 경쟁 완화의 최대 수혜주로 손꼽히고 있다.\[4\]
+
+## 연표
+
+  - [1930년](https://ko.wikipedia.org/wiki/1930년 "wikilink") 11월: 조선미곡창고 설립
+  - [1950년](https://ko.wikipedia.org/wiki/1950년 "wikilink") 11월: 사명을 한국미곡창고주식회사로 변경
+  - [1956년](https://ko.wikipedia.org/wiki/1956년 "wikilink") 3월: 한국거래소 유가증권부문 상장
+  - [1962년](https://ko.wikipedia.org/wiki/1962년 "wikilink") 1월: 한국운수 합병 후 한국미곡창고로 사명 변경
+  - [1962년](https://ko.wikipedia.org/wiki/1962년 "wikilink") 5월: 철도 소운송업 면허 취득
+  - [1963년](https://ko.wikipedia.org/wiki/1963년 "wikilink") 2월: 대한통운으로 상호 변경
+  - [1968년](https://ko.wikipedia.org/wiki/1968년 "wikilink") 7월: 정부관리 기업체로부터 민영화, 동아그룹 계열사에 편입
+  - [1972년](https://ko.wikipedia.org/wiki/1972년 "wikilink") 7월: [일본](../Page/일본.md "wikilink") [도쿄](../Page/도쿄.md "wikilink")지점 개설
+  - [1973년](https://ko.wikipedia.org/wiki/1973년 "wikilink") 2월: 대한용역 설립
+  - [1974년](https://ko.wikipedia.org/wiki/1974년 "wikilink") 9월: [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")상사 현지법인 (KOREA EXPRESS U.S.A INC)설립
+  - [1976년](https://ko.wikipedia.org/wiki/1976년 "wikilink") 2월: [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")상사 [뉴저지](https://ko.wikipedia.org/wiki/뉴저지 "wikilink")(N.J)지점, LA지점 설치
+  - [1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink") 11월: 1차 [리비아](https://ko.wikipedia.org/wiki/리비아 "wikilink") 대수로 공사 참여
+  - [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") 6월: [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")상사 [샌프란시스코](https://ko.wikipedia.org/wiki/샌프란시스코 "wikilink")(S.F) 지점 개설
+  - [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink") 1월: 2차 [리비아](https://ko.wikipedia.org/wiki/리비아 "wikilink") 대수로 공사 참여
+  - [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") 4월: 소화물 일관 수송업(택배) 개시
+  - [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") 3월: ISO 9002 국제품질 인증획득 (육상운송, 항만하역, 택배, 렌터카)
+  - [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") 8월: [베이징](https://ko.wikipedia.org/wiki/베이징 "wikilink") 사무소 설치
+  - [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink")6월: 대한통운 특송을 대한통운 택배로 사업명칭 변경
+  - [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") 9월: ISO 14001 국제환경인증 획득
+  - [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") 10월: 외항화물운송업 사업 진출
+  - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") 1월: 인터넷 쇼핑몰 사업 진출
+  - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") 4월: 대한통운 심벌마크 변경
+  - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") 5월: [동아건설](https://ko.wikipedia.org/wiki/동아건설 "wikilink")과 결별 선언
+  - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") 11월: 재산보전처분 결정, 회사정리절차 개시 결정
+  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") 10월: 본사 사옥 구입 ([서울특별시](https://ko.wikipedia.org/wiki/서울특별시 "wikilink") [중구](https://ko.wikipedia.org/wiki/중구_\(서울특별시\) "wikilink") [서소문동](../Page/소공동.md "wikilink"))
+  - [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") 12월: 택배 서비스 품질 인증 획득
+  - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") 7월: [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")법인 [시카고](https://ko.wikipedia.org/wiki/시카고 "wikilink")지점 개설
+  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 4월: [중국](https://ko.wikipedia.org/wiki/중화인민공화국 "wikilink") [상하이](https://ko.wikipedia.org/wiki/상하이 "wikilink") 사무소 개설
+  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 12월: [리비아](https://ko.wikipedia.org/wiki/리비아 "wikilink") 대수로 공사 인수
+  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") 4월: 통합콜센터 운영
+  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") 5월: [리비아](https://ko.wikipedia.org/wiki/리비아 "wikilink") 대수로공사(건설) ISO 9001:2000 인증 획득
+  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") 12월: [리비아](https://ko.wikipedia.org/wiki/리비아 "wikilink") 대수로공사 PAC 수득
+  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink"): 대한통운 [톈진](https://ko.wikipedia.org/wiki/톈진 "wikilink") 물류유한공사, [독일](https://ko.wikipedia.org/wiki/독일 "wikilink")법인, [홍콩](https://ko.wikipedia.org/wiki/홍콩 "wikilink")법인 설립
+  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 4월: [금호아시아나그룹](../Page/금호아시아나그룹.md "wikilink")이 인수. (계열 편입)\[5\]
+  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 6월: 국제택배 사업 진출
+  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 9월: 대한통운국제물류(주) 합병
+  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") 4월: 부산 신선대컨테이너터미널(PECT)경영권 확보
+  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") 6월: 대한통운 부산컨테이너터미널(KBCT)출범. 舊PECT
+  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") 11월: 일부를 분할하여 종로구 신문로1가에 금호렌터카주식회사 설립
+  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") 9월: [경인아라뱃길](https://ko.wikipedia.org/wiki/경인아라뱃길 "wikilink") 일반부두 운영사 선정
+  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") 11월: 사사 \<대한통운 80년사\> 발간
+  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") 2월: 2011 대구세계육상선수권대회 전담 물류업체 선정
+  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") 5월: AEO 인증 획득
+  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") 6월: 2012 여수세계박람회 물자 통관·운송부문 운영업체 선정
+  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") 6월: 대한통운 매각 우선협상대상자로 [CJ그룹](../Page/CJ_\(기업\).md "wikilink") 선정
+  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") 11월: 2011 한국물류대상 수상
+  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") 12월: [CJ그룹](https://ko.wikipedia.org/wiki/CJ그룹 "wikilink")으로 편입
+  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 3월: CJ대한통운으로 사명 변경
+  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 5월: 경인항 김포터미널 준공
+  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 7월: 노사문화우수기업 수상(6회 연속 수상)
+  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 10월: 제 12회 한국IR대상 우수상 수상
+  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 10월: 통합물류 시스템 OPEN(하역,운송,보관,국제)
+  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") 4월: CJ대한통운과 [CJ GLS](../Page/CJ_GLS.md "wikilink") 합병
+  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") 4월: 이채욱 대표이사 취임
+  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") 3월: 양승석, 손관수 대표이사 취임.
+  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") 2월: '한국에서 가장 존경받는 기업' 종합물류서비스 부문 1위 선정 / 한국능률협회컨설팅(KMAC)
+  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") 3월: 박근태, 손관수 대표이사 취임.
+  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") 3월: CJ대한통운 택배 메가허브터미널 기공
+  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") 3월: '한국산업의 브랜드파워(K-BPI)' 택배 서비스 부문 1위 선정 / 한국능률협회컨설팅(KMAC)
+  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") 6월: '한국산업의 브랜드 추천(KBRI)' 국제운송서비스부문 1위 선정 / 한국능률협회컨설팅(KMAC)
+  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") 7월: 고용노동부주관 노사문화우수기업 선정
+  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") 7월: UNGC(United Nations Global Compact)가입
+  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") 8월: 국가 브랜드 경쟁력 지수(NBCI) 개인택배 서비스 부문 브랜드 경쟁력 1위 선정 / 한국생산성본부
+  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") 12월: 한·중 FTA 1주년 파트너십 유공자 포상 산업통상자원부 장관상 수상
+  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") 12월: 제1회 대한민국 범죄예방 대상 기업사회공헌부문 대상 수상 / 경찰청
+  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") 12월: 제11회 대한민국 사회공헌대상 미래창조과학방송통신위원장상 수상 / 한국서비스산업진흥원
+  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") 1월: 대전 한국원자력연구원 내 방사선폐기물 경주 [코라드](../Page/한국원자력환경공단.md "wikilink") 방폐장 이송 참여(2017년 1월 13일\~14일)
+  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") 2월: CJ대한통운 영문 상호 CJ Korea Express에서 CJ Logistics로 변경
+  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") 5월: CJ대한통운-한국철도공사(코레일)와 1.2km 국내 최장 80량 장대 화물열차(K-DST) 운용 본격화
+  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") 3월: CJ건설주식회사 합병
+  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") 4월: CJ대한통운 남북 이산가족 상봉행사 물자 운송
+  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") 6월: 미국 DCS로지스틱스 인수
+  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") 9월: CJ대한통운 1763톤에 초중량 플랜트 기자재 운송 개시(중국 장지아강 \~ 우즈벡)
+  - [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") 1월: CJ대한통운 목포항에 석탄부두 폐쇄(삼학도 부두이나 공원화사업 활용 여부)
+
+## 주요 사업
+
+CJ대한통운의 주요 사업은 18년 기준 CL(Contract Logistics/계약물류), 포워딩, 항만하역, 택배, 글로벌 등의 사업으로 구성되어 있다.
+
+## 사건
+
+  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [4월 3일에](https://ko.wikipedia.org/wiki/4월_3일 "wikilink") 합병한 후 전산망을 통합하는 과정에서 택배 분류 코드의 혼선이 발생하여 택배 물량이 일부 지연된 사건이 발생하였다.
+  - [대한민국 노동부는](https://ko.wikipedia.org/wiki/대한민국_노동부 "wikilink") [대전광역시](https://ko.wikipedia.org/wiki/대전광역시 "wikilink") [대덕구](https://ko.wikipedia.org/wiki/대덕구 "wikilink") 소재 CJ대한통운 대전물류센터에서 2018년 8월에 이어 2개월 만에 또다시 사망사고가 발생하여 전면 작업중지 명령이 내려진 후 대전물류센터는 폐쇄되었다.\[6\]
+
+## 사업장 현황
+
+  - 본점: 서울특별시 중구 세종대로9길 53 (서소문동)
+  - 군산지사: 전라북도 군산시 서해로 194 (소룡동)
+  - 전북지사: 전라북도 전주시 덕진구 팔복로 173 (팔복동3가)
+  - 광주지사: 광주광역시 남구 송암로 114 (송하동)
+  - 대구지사: 대구광역시 달서구 성서공단로 235 (장동)
+  - 강원지사: 강원도 원주시 흥업면 원문로 898
+  - 제주지사: 제주특별자치도 제주시 연삼로 89 (오라삼동)
+  - 서울지사: 경기도 김포시 고촌읍 아라육로 20
+  - 인천지사: 인천광역시 중구 제물량로 227 (항동3가)
+  - 목포지사: 전라남도 영암군 삼호읍 대불역로 39
+  - 부산지사: 부산광역시 중구 대교로 119 (중앙동6가)
+  - 여수지사: 전라남도 여수시 산단중앙로 10 (화치동)
+  - 창원지사: 경상남도 창원시 마산합포구 해안대로 234 (신포동1가)
+  - 진주지사: 경상남도 진주시 남강로 1715 (초전동)
+  - 충남지사: 충청남도 서산시 남부순환로 15 (수석동)
+  - 대전지사: 대전광역시 대덕구 신탄진로 1 (읍내동)
+  - 울산지사: 울산광역시 남구 장생포고래로 292 (매암동)
+  - 광양지사: 전라남도 광양시 태인4길 33 (태인동)
+  - 충북지사: 충청북도 청주시 흥덕구 사운로 375 (신봉동)
+  - 택배중구지점: 서울특별시 마포구 독막로 319 (도화동)
+  - 동해지사: 강원도 동해시 용정로 171 (용정동)
+  - 포항지사: 경상북도 포항시 남구 섬안로 59 (괴동동)
+  - 경기지사: 경기도 수원시 영통구 삼성로 318 (원천동)
+  - 택배중앙사업담당: 서울특별시 금천구 가산디지털2로 156 (가산동)
+  - 택배동부사업담당: 부산광역시 동구 중앙대로248번길 7-6 (초량동)
+  - 서울국제지사: 서울특별시 성동구 성수이로 62 (성수동2가)
+  - 평택지사: 경기도 평택시 포승읍 평택항만길 86
+  - 택배남양주지점: 경기도 남양주시 진건읍 진건오남로 414
+  - 의왕영업소: 경기도 의왕시 가나무로 107 (이동)
+  - 인천국제지사: 인천광역시 중구 서해대로94번길 98-1 (신흥동3가)
+  - 부산국제지사: 부산광역시 중구 대교로 119 (중앙동6가)
+  - 인천공항사업소: 인천광역시 중구 공항동로296번길 98-114, 자유무역지역 국제물류센터 B1블럭 A209호 (운서동)
+  - 경북국제영업소: 대구광역시 북구 노원로 205 (침산동)
+  - 택배서부사업담당: 대전광역시 대덕구 대덕대로1447번길 39 (문평동)
+  - 천안지점: 충청남도 천안시 서북구 두정공단2길 43-14 (두정동)
+  - 익산지점: 전라북도 익산시 석암로3길 85 (팔봉동)
+  - 안동지점: 경상북도 안동시 북순환로 384-11 (안막동)
+  - 강릉지점: 강원도 강릉시 동해대로 3290 (죽헌동)
+  - 이천영업소: 경기도 이천시 대월면 대평로 131
+  - 남부사업소: 경기도 군포시 번영로 82 (부곡동)
+  - 시화지점: 경기도 시흥시 희망공원로 117 (정왕동)
+  - 충주영업소: 충청북도 충주시 충원대로 547 (봉방동)
+  - 홍성영업소: 충청남도 홍성군 홍성읍 조양로 242
+  - 당진영업소: 충청남도 당진시 석문면 보덕포로 582-7
+  - 장항영업소: 충청남도 서천군 장항읍 신창동로 1
+  - 택배익산지점: 전라북도 정읍시 2산단1길 24-3 (하북동)
+  - 구미영업소: 경상북도 구미시 1공단로10길 103-9 (공단동)
+  - 택배창원지점: 경상남도 창원시 진해구 충장로 617 (풍호동)
+  - 택배서강원지점: 강원도 춘천시 후석로440번길 43 (후평동)
+  - 용인센터: 경기도 용인시 기흥구 기곡로 32 (하갈동)
+  - 인천센터: 인천광역시 중구 아암대로 20 (신흥동3가)
+  - 충남센터: 충청남도 계룡시 두마면 사계로 206
+  - 옥천센터: 충청북도 옥천군 이원면 건진2길 65
+  - 충주제2영업소: 충청북도 충주시 충원대로 547 (봉방동)
+  - 전주센터: 전라북도 전주시 덕진구 여산로 106 (여의동)
+  - 전북센터: 전라북도 완주군 이서면 콩쥐팥쥐로 1010
+  - 광주센터: 광주광역시 북구 삼소로 266 (월출동)
+  - 대구센터: 대구광역시 동구 화랑로100길 113 (용계동)
+  - 경산센터: 경상북도 경산시 압량읍 압량길 11
+  - 부산센터: 부산광역시 사하구 다대로 210 (장림동)
+  - 울산센터: 울산광역시 남구 매곡산업3길 1 (매곡동)
+  - 함안센터: 경상남도 함안군 법수면 법수로 498
+  - 서울지점: 서울특별시 서초구 남부순환로 2271 (방배동, CJ방배사옥)
+  - 여주지점: 경기도 여주시 명품1로 76 (연라동)
+  - 제주지점: 제주특별자치도 서귀포시 안덕면 광평로 34-156
+
+## 각주
+
+<references/>
+
+## 소속 골퍼
+
+  - [강성훈](https://ko.wikipedia.org/wiki/강성훈_\(골프_선수\) "wikilink")
+  - [김민규](https://ko.wikipedia.org/wiki/김민규_\(골프_선수\) "wikilink")
+  - [김민휘](https://ko.wikipedia.org/wiki/김민휘 "wikilink")
+  - [김시우](https://ko.wikipedia.org/wiki/김시우_\(골프_선수\) "wikilink")
+  - [안병훈](https://ko.wikipedia.org/wiki/안병훈_\(골프_선수\) "wikilink")
+  - 이수민
+  - 이창우
+  - 이경훈
+  - 이동환
+
+## 같이 보기
+
+  - [CJ그룹](https://ko.wikipedia.org/wiki/CJ그룹 "wikilink")
+
+## 외부 링크
+
+  - [CJ대한통운 홈페이지](https://web.archive.org/web/20170601085732/http://cjlogistics.com/)
+  - [CJ대한통운 택배 홈페이지](http://www.doortodoor.co.kr)
+
+[분류:동아의 이전 자회사](https://ko.wikipedia.org/wiki/분류:동아의_이전_자회사 "wikilink") [분류:금호아시아나그룹의 이전 자회사](https://ko.wikipedia.org/wiki/분류:금호아시아나그룹의_이전_자회사 "wikilink") [분류:CJ의 자회사](https://ko.wikipedia.org/wiki/분류:CJ의_자회사 "wikilink") [분류:1930년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1930년_설립된_기업 "wikilink") [분류:대한민국의 물류 회사](https://ko.wikipedia.org/wiki/분류:대한민국의_물류_회사 "wikilink")
+
+1.
+2.  \[비즈니스 포커스\] ‘택배 공룡’ CJ대한통운의 공습, 점유율 50% ‘ 너끈 ’…경쟁사 ‘ 전전긍긍’, 한국경제매거진 2013-04-12
+3.  치킨게임 종료…활짝 갠 택배 시장, 현대로지스틱스 사모 펀드에 인수돼, 업계 1위 CJ대한통운‘강추’
+4.  치킨게임 종료…활짝 갠 택배 시장, 현대로지스틱스 사모 펀드에 인수돼, 업계 1위 CJ대한통운 ‘강추’, 한국경제 Aug 12, 2014
+5.
+6.  [CJ대한통운 대전물류센터 2개월만에 또 사망사고...작업중지 명령](http://www.joongdo.co.kr/main/view.php?key=20181031010012808) 중도일보

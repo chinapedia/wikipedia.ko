@@ -1,0 +1,406 @@
+> This article is converted from Wikipedia: [SBS  ](https://ko.wikipedia.org/wiki/SBS__).
+
+
+**SBS 수목드라마**는 [SBS](../Page/SBS.md "wikilink")에서 매주 [수요일](https://ko.wikipedia.org/wiki/수요일 "wikilink")과 [목요일](https://ko.wikipedia.org/wiki/목요일 "wikilink") 밤 10시에 방송되는 [텔레비전 드라마이다](../Page/텔레비전_드라마.md "wikilink"). 대부분 16부작에서 30부작 사이의 미니시리즈 형식으로 현재 방영되고 있으나, 50부작에서 120부작이 넘는 장편 드라마도 방영되었다.
+
+## 개요
+
+당초 일일극이었던 《[유심초](https://ko.wikipedia.org/wiki/유심초_\(드라마\) "wikilink")》를 1992년 3월 25일 옮겨오면서 시작됐는데 당시에는 9시 55분에 방영됐다. 이후 1992년 5월 20일부터 1994년 4월 14일까지 8시 50분에 방영되었으나 1994년 3월 2일 첫 회가 나갔던 《[이 남자가 사는 법](../Page/이_남자가_사는_법.md "wikilink")》이 같은 해 4월 20일부터 10시대 드라마로 바뀐 뒤 한동안 8시 50분대 드라마 방송은 3개월동안 잠정 폐지된다.
+
+그 후 1994년 7월 13일 시작한 《[좋은걸 어떡해](../Page/좋은걸_어떡해_\(1994년_드라마\).md "wikilink")》를 통해 8시 50분대 드라마 방영을 재개했지만 당초 1995년 2월 22일 첫 회부터 10시대 드라마였으나 같은 해 5월 17일부터 옮겨 온 《[다시 만날 때까지](https://ko.wikipedia.org/wiki/다시_만날_때까지 "wikilink")》를 끝으로 이 시간대 드라마가 완전히 폐지되었다.
+
+한편, 미니시리즈로 방영된 《[모래시계](https://ko.wikipedia.org/wiki/모래시계_\(드라마\) "wikilink")》는 본 방송 당시 월 \~ 목 4회 편성됐고 나중에 수 \~ 목, 토 \~ 일 4회로 재방영됐다.
+
+## 방송 시간
+
+### 21시대
+
+| 방송 채널                                                     | 방송 기간                        | 방송 시간                   | 방송 분량 |
+| --------------------------------------------------------- | ---------------------------- | ----------------------- | ----- |
+| [SBS TV](https://ko.wikipedia.org/wiki/SBS_TV "wikilink") | 1992년 5월 20일 \~ 1994년 4월 14일 | 수, 목 밤 8시 50분 \~ 9시 45분 | 55분   |
+| 1994년 7월 13일 \~ 1995년 5월 11일                              | 수, 목 밤 8시 50분 \~ 9시 55분      | 65분                     |       |
+| 1995년 5월 17일 \~ 1995년 7월 6일                               |                              |                         |       |
+
+### 22시대
+
+<table>
+<thead>
+<tr class="header">
+<th><p>방송 채널</p></th>
+<th><p>방송 기간</p></th>
+<th><p>방송 시간</p></th>
+<th><p>방송 분량</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/SBS_TV" title="wikilink">SBS TV</a></p></td>
+<td><p>1992년 3월 25일 ~ 1996년 2월 28일</p></td>
+<td><p>수, 목 밤 9시 50분 ~ 10시 45분</p></td>
+<td><p>55분</p></td>
+</tr>
+<tr class="even">
+<td><p>1996년 3월 6일 ~ 1997년 6월 26일</p></td>
+<td><p>수, 목 밤 9시 50분 ~ 10시 50분</p></td>
+<td><p>60분</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1997년 7월 2일 ~ 1997년 10월 23일</p></td>
+<td><p>수, 목 밤 9시 45분 ~ 10시 45분</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1997년 10월 29일 ~ 1998년 2월 26일</p></td>
+<td><p>수, 목 밤 9시 50분 ~ 10시 50분</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1998년 3월 2일 ~ 2008년 5월 15일</p></td>
+<td><p>수, 목 밤 9시 55분 ~ 11시 5분</p></td>
+<td><p>70분</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2008년 5월 18일 ~ 2013년 10월 17일</p></td>
+<td><p>수, 목 밤 10시 ~ 11시 15분</p></td>
+<td><p>75분</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2013년 10월 23일 ~ 2017년 5월 4일</p></td>
+<td><p>수, 목 밤 10시 ~ 11시 10분</p></td>
+<td><p>70분</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2017년 5월 10일 ~ 2019년 7월 11일</p></td>
+<td><p>70분<br />
+(1회당 35분 2회 연속 방송)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019년 7월 17일 ~ 2019년 11월 28일</p></td>
+<td><p>70분<br />
+(1부 40분 2부 30분 분할 방송)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2020년 4월 29일 ~ 예정</p></td>
+<td><p>수, 목 밤 9시 40분 ~ 11시</p></td>
+<td><p>80분<br />
+(1부 40분, 2부 40분 분할 방송)</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+  - 2013년 10월, [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink"), [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink"), [SBS](../Page/SBS.md "wikilink") 지상파 방송 3사 편성국은 드라마 방영 시간을 줄이기로 합의하고 광고를 포함한 시간인 기존 72분룰에서 67분룰으로 5분 가량 축소한 내용을 발표했다.\[1\]
+
+## 작품 리스트
+
+### [1990년대](https://ko.wikipedia.org/wiki/1990년대 "wikilink") 전반
+
+#### [<span style="color:black">1992년</span>](https://ko.wikipedia.org/wiki/1992년 "wikilink")
+
+##### 21시 드라마
+
+  - 《[궁합이 맞습니다](../Page/궁합이_맞습니다.md "wikilink")》 : 1992년 5월 20일 \~ 1992년 11월 12일
+  - 《[사랑하는 당신](../Page/사랑하는_당신.md "wikilink")》 : 1992년 11월 18일 \~ 1993년 4월 1일
+
+##### 22시 드라마
+
+  - 《[유심초](https://ko.wikipedia.org/wiki/유심초_\(드라마\) "wikilink")》 : 1992년 3월 25일 \~ 1992년 5월 14일 (**전체 방영 기간** : 1991년 12월 16일 \~ 1992년 5월 14일)
+
+#### [<span style="color:black">1993년</span>](https://ko.wikipedia.org/wiki/1993년 "wikilink")
+
+##### 21시 드라마
+
+  - 《[한강 뻐꾸기](../Page/한강_뻐꾸기.md "wikilink")》 : 1993년 4월 7일 \~ 1993년 9월 23일 (이 작품부터 **수목드라마**로 방영됨)
+  - 《[친애하는 기타 여러분](https://ko.wikipedia.org/wiki/친애하는_기타_여러분 "wikilink")》 : 1993년 10월 6일 \~ 1994년 2월 24일
+
+#### [<span style="color:black">1994년</span>](https://ko.wikipedia.org/wiki/1994년 "wikilink")
+
+##### 21시 드라마
+
+  - 《[이 남자가 사는 법](../Page/이_남자가_사는_법.md "wikilink")》 : 1994년 3월 2일 \~ 1994년 4월 14일 (10시 드라마로 전환, 요일은 수목으로 동일)
+  - 《[좋은걸 어떡해](../Page/좋은걸_어떡해_\(1994년_드라마\).md "wikilink")》 : 1994년 7월 13일 \~ 1994년 12월 29일 (9시 드라마 재개)
+
+##### 22시 드라마
+
+  - 《[이 남자가 사는 법](../Page/이_남자가_사는_법.md "wikilink")》 : 1994년 4월 20일 \~ 1994년 8월 18일 (9시 드라마에서 전환, 요일은 수목으로 동일)
+  - 《[사랑은 없다](https://ko.wikipedia.org/wiki/사랑은_없다 "wikilink")》 : 1994년 8월 24일 \~ 1994년 12월 15일 (이 작품까지 **수목드라마**로 방영됨)
+
+#### [<span style="color:black">1995년</span>](https://ko.wikipedia.org/wiki/1995년 "wikilink")
+
+##### 21시 드라마
+
+  - 《[서울 야상곡](https://ko.wikipedia.org/wiki/서울_야상곡 "wikilink")》 : 1995년 1월 4일 \~ 1995년 2월 1일 (95년 1월 4일 1\~2회 연속 방영) (이 작품까지 **수목드라마**로 방송됨)
+  - 《[사랑은 블루](https://ko.wikipedia.org/wiki/사랑은_블루 "wikilink")》 : 1995년 2월 8일 \~ 1995년 3월 30일
+  - 《[우리들의 넝쿨](../Page/우리들의_넝쿨_\(드라마\).md "wikilink")》 : 1995년 4월 5일 \~ 1995년 5월 11일
+  - 《[다시 만날 때까지](https://ko.wikipedia.org/wiki/다시_만날_때까지 "wikilink")》 : 1995년 5월 17일 \~ 1995년 7월 6일 (**수목드라마**로 방영됨)
+
+##### 22시 드라마
+
+  - 《[모래시계](https://ko.wikipedia.org/wiki/모래시계_\(드라마\) "wikilink")》 : 1995년 1월 9일 \~ 1995년 2월 16일 (월\~목 4회 연속 방영) (3\~4회, 7\~8회, 11\~12회, 15\~16회, 19\~20회, 23\~24회)
+  - 《[다시 만날 때까지](https://ko.wikipedia.org/wiki/다시_만날_때까지 "wikilink")》 : 1995년 2월 22일 \~ 1995년 5월 11일 (**수목드라마**로 방송됨)
+  - 《[아스팔트 사나이](https://ko.wikipedia.org/wiki/아스팔트_사나이 "wikilink")》\[2\] : 1995년 5월 17일 \~ 1995년 7월 6일 (이 작품부터 **드라마 스페셜**로 방송됨)
+  - 《[신비의 거울속으로](https://ko.wikipedia.org/wiki/신비의_거울속으로 "wikilink")》 : 1995년 7월 12일 \~ 1995년 8월 31일
+  - 《[째즈](https://ko.wikipedia.org/wiki/째즈_\(드라마\) "wikilink")》 : 1995년 9월 6일 \~ 1995년 10월 26일
+  - 《[해빙](https://ko.wikipedia.org/wiki/해빙_\(1995년_드라마\) "wikilink")》 : 1995년 11월 8일 \~ 1995년 12월 28일
+
+### [1990년대](https://ko.wikipedia.org/wiki/1990년대 "wikilink") 후반
+
+#### [<span style="color:black">1996년</span>](https://ko.wikipedia.org/wiki/1996년 "wikilink")
+
+  - 《[사랑의 이름으로](https://ko.wikipedia.org/wiki/사랑의_이름으로 "wikilink")》 : 1996년 1월 10일 \~ 1996년 4월 10일
+  - 《[도둑](https://ko.wikipedia.org/wiki/도둑_\(드라마\) "wikilink")》 : 1996년 4월 17일 \~ 1996년 6월 6일
+  - 《[남자대탐험](https://ko.wikipedia.org/wiki/남자대탐험 "wikilink")》 : 1996년 6월 12일 \~ 1996년 8월 1일
+  - 《[8월의 신부](https://ko.wikipedia.org/wiki/8월의_신부 "wikilink")》 : 1996년 8월 7일 \~ 1996년 9월 25일
+  - 《[형제의 강](https://ko.wikipedia.org/wiki/형제의_강 "wikilink")》\[3\] : 1996년 10월 2일 \~ 1997년 4월 3일 (**수목드라마**로 방영됨)
+
+#### [<span style="color:black">1997년</span>](https://ko.wikipedia.org/wiki/1997년 "wikilink")
+
+  - 《[모델](https://ko.wikipedia.org/wiki/모델_\(드라마\) "wikilink")》 : 1997년 4월 9일 \~ 1997년 8월 7일
+  - 《[장미의 눈물](https://ko.wikipedia.org/wiki/장미의_눈물 "wikilink")》 : 1997년 8월 13일 \~ 1997년 10월 2일
+  - 《[달팽이](https://ko.wikipedia.org/wiki/달팽이_\(드라마\) "wikilink")》 : 1997년 10월 8일 \~ 1997년 12월 11일
+  - 《[화이트 크리스마스](https://ko.wikipedia.org/wiki/화이트_크리스마스_\(1997년_드라마\) "wikilink")》 : 1997년 12월 17일 \~ 1998년 1월 8일
+  - 《[가평고 3 학년](https://ko.wikipedia.org/wiki/가평고_3_학년 "wikilink")》 : 1997년 1월 2일 \~ 1999년 12월 29일
+
+#### [<span style="color:black">1998년</span>](https://ko.wikipedia.org/wiki/1998년 "wikilink")
+
+  - 《[모래시계](https://ko.wikipedia.org/wiki/모래시계_\(드라마\) "wikilink")》 : 1998년 1월 14일 \~ 1998년 2월 22일 (수\~목, 토\~일 4회 재방영)\[4\]
+  - 《[옛사랑의 그림자](https://ko.wikipedia.org/wiki/옛사랑의_그림자 "wikilink")》 : 1998년 2월 25일 \~ 1998년 3월 19일
+  - 《[내 마음을 뺏어봐](https://ko.wikipedia.org/wiki/내_마음을_뺏어봐 "wikilink")》 : 1998년 3월 25일 \~ 1998년 5월 14일
+  - 《[미스터Q](https://ko.wikipedia.org/wiki/미스터Q "wikilink")》 : 1998년 5월 20일 \~ 1998년 7월 16일
+  - 《[홍길동](https://ko.wikipedia.org/wiki/홍길동_\(드라마\) "wikilink")》 : 1998년 7월 22일 \~ 1998년 9월 10일
+  - 《[승부사](https://ko.wikipedia.org/wiki/승부사 "wikilink")》 : 1998년 9월 16일 \~ 1998년 12월 3일
+  - 《[단단한 놈](https://ko.wikipedia.org/wiki/단단한_놈_\(드라마\) "wikilink")》 : 1998년 12월 9일 \~ 1998년 12월 31일
+
+#### [<span style="color:black">1999년</span>](https://ko.wikipedia.org/wiki/1999년 "wikilink")
+
+  - 《[파도위의 집](https://ko.wikipedia.org/wiki/파도위의_집 "wikilink")》 : 1999년 1월 6일 \~ 1999년 1월 14일 (특집드라마)
+  - 《[청춘의 덫](https://ko.wikipedia.org/wiki/청춘의_덫_\(1999년_드라마\) "wikilink")》 : 1999년 1월 27일 \~ 1999년 4월 15일
+  - 《[토마토](https://ko.wikipedia.org/wiki/토마토_\(드라마\) "wikilink")》 : 1999년 4월 21일 \~ 1999년 6월 10일
+  - 《[해피 투게더](https://ko.wikipedia.org/wiki/해피_투게더_\(드라마\) "wikilink")》 : 1999년 6월 16일 \~ 1999년 8월 5일
+  - 《[퀸](https://ko.wikipedia.org/wiki/퀸_\(드라마\) "wikilink")》 : 1999년 8월 11일 \~ 1999년 9월 30일
+  - 《[크리스탈](https://ko.wikipedia.org/wiki/크리스탈_\(드라마\) "wikilink")》 : 1999년 10월 6일 \~ 1999년 11월 25일
+  - 《[TV 러브 스토리](https://ko.wikipedia.org/wiki/TV_러브_스토리 "wikilink")》 : 1999년 12월 1일 \~ 2000년 1월 27일
+
+### [2000년대](https://ko.wikipedia.org/wiki/2000년대 "wikilink") 전반
+
+#### [<span style="color:black">2000년</span>](https://ko.wikipedia.org/wiki/2000년 "wikilink")
+
+  - 《[불꽃](https://ko.wikipedia.org/wiki/불꽃_\(드라마\) "wikilink")》 : 2000년 2월 2일 \~ 2000년 5월 18일
+  - 《[팝콘](../Page/팝콘_\(드라마\).md "wikilink")》 : 2000년 5월 24일 \~ 2000년 7월 13일
+  - 《[경찰 특공대](https://ko.wikipedia.org/wiki/경찰_특공대 "wikilink")》 : 2000년 7월 19일 \~ 2000년 9월 7일
+  - 《[줄리엣의 남자](https://ko.wikipedia.org/wiki/줄리엣의_남자 "wikilink")》 : 2000년 9월 14일 \~ 2000년 11월 9일
+  - 《[여자만세](https://ko.wikipedia.org/wiki/여자만세_\(2000년_드라마\) "wikilink")》 : 2000년 11월 15일 \~ 2001년 1월 4일
+
+#### [<span style="color:black">2001년</span>](https://ko.wikipedia.org/wiki/2001년 "wikilink")
+
+  - 《[순자](https://ko.wikipedia.org/wiki/순자_\(드라마\) "wikilink")》 : 2001년 1월 10일 \~ 2001년 3월 8일
+  - 《[아름다운 날들](https://ko.wikipedia.org/wiki/아름다운_날들 "wikilink")》 : 2001년 3월 14일 \~ 2001년 5월 31일
+  - 《[로펌](https://ko.wikipedia.org/wiki/로펌_\(드라마\) "wikilink")》 : 2001년 6월 6일 \~ 2001년 7월 26일
+  - 《[수호천사](../Page/수호천사_\(드라마\).md "wikilink")》 : 2001년 8월 1일 \~ 2001년 9월 20일
+  - 《[신화](https://ko.wikipedia.org/wiki/신화_\(드라마\) "wikilink")》 : 2001년 9월 26일 \~ 2001년 11월 15일
+  - 《[피아노](https://ko.wikipedia.org/wiki/피아노_\(2001년_드라마\) "wikilink")》 : 2001년 11월 21일 \~ 2002년 1월 10일
+
+#### [<span style="color:black">2002년</span>](https://ko.wikipedia.org/wiki/2002년 "wikilink")
+
+  - 《[지금은 연애중](https://ko.wikipedia.org/wiki/지금은_연애중 "wikilink")》 : 2002년 1월 16일 \~ 2002년 3월 7일
+  - 《[명랑소녀 성공기](../Page/명랑소녀_성공기.md "wikilink")》 : 2002년 3월 13일 \~ 2002년 5월 2일
+  - 《[나쁜 여자들](https://ko.wikipedia.org/wiki/나쁜_여자들 "wikilink")》\[5\] : 2002년 5월 8일 \~ 2002년 6월 27일
+  - 《[순수의 시대](https://ko.wikipedia.org/wiki/순수의_시대_\(드라마\) "wikilink")》 : 2002년 7월 3일 \~ 2002년 8월 22일
+  - 《[정](https://ko.wikipedia.org/wiki/정_\(2002년_드라마\) "wikilink")》 : 2002년 8월 28일 \~ 2002년 11월 13일
+  - 《[별을 쏘다](https://ko.wikipedia.org/wiki/별을_쏘다 "wikilink")》 : 2002년 11월 20일 \~ 2003년 1월 9일
+
+#### [<span style="color:black">2003년</span>](https://ko.wikipedia.org/wiki/2003년 "wikilink")
+
+  - 《[올인](https://ko.wikipedia.org/wiki/올인 "wikilink")》 : 2003년 1월 15일 \~ 2003년 4월 3일 (**대기획**으로 방송됨)
+  - 《[술의 나라](https://ko.wikipedia.org/wiki/술의_나라 "wikilink")》 : 2003년 4월 9일 \~ 2003년 5월 29일
+  - 《[선녀와 사기꾼](https://ko.wikipedia.org/wiki/선녀와_사기꾼 "wikilink")》 : 2003년 6월 4일 \~ 2003년 8월 7일
+  - 《[요조숙녀](https://ko.wikipedia.org/wiki/요조숙녀 "wikilink")》 : 2003년 8월 13일 \~ 2003년 10월 2일
+  - 《[때려](https://ko.wikipedia.org/wiki/때려 "wikilink")》 : 2003년 10월 8일 \~ 2003년 11월 27일
+  - 《[천국의 계단](https://ko.wikipedia.org/wiki/천국의_계단_\(드라마\) "wikilink")》 : 2003년 12월 3일 \~ 2004년 2월 5일
+
+#### [<span style="color:black">2004년</span>](https://ko.wikipedia.org/wiki/2004년 "wikilink")
+
+  - 《[햇빛 쏟아지다](https://ko.wikipedia.org/wiki/햇빛_쏟아지다 "wikilink")》 : 2004년 2월 11일 \~ 2004년 4월 1일
+  - 《[파란만장 미스김 10억 만들기](https://ko.wikipedia.org/wiki/파란만장_미스김_10억_만들기 "wikilink")》 : 2004년 4월 7일 \~ 2004년 5월 27일
+  - 《[섬마을 선생님](https://ko.wikipedia.org/wiki/섬마을_선생님 "wikilink")》 : 2004년 6월 2일 \~ 2004년 7월 22일
+  - 《[형수님은 열아홉](https://ko.wikipedia.org/wiki/형수님은_열아홉_\(2004년_드라마\) "wikilink")》 : 2004년 7월 28일 \~ 2004년 9월 23일
+  - 《[남자가 사랑할 때](https://ko.wikipedia.org/wiki/남자가_사랑할_때_\(2004년_드라마\) "wikilink")》 : 2004년 9월 30일 \~ 2004년 11월 18일
+  - 《[유리화](https://ko.wikipedia.org/wiki/유리화_\(드라마\) "wikilink")》 : 2004년 12월 1일 \~ 2005년 2월 3일
+
+### [2000년대](https://ko.wikipedia.org/wiki/2000년대 "wikilink") 후반
+
+#### [<span style="color:black">2005년</span>](https://ko.wikipedia.org/wiki/2005년 "wikilink")
+
+  - 《[홍콩 익스프레스](https://ko.wikipedia.org/wiki/홍콩익스프레스_\(드라마\) "wikilink")》 : 2005년 2월 16일 \~ 2005년 4월 7일
+  - 《[건빵선생과 별사탕](https://ko.wikipedia.org/wiki/건빵선생과_별사탕 "wikilink")》 : 2005년 4월 13일 \~ 2005년 6월 2일
+  - 《[돌아온 싱글](https://ko.wikipedia.org/wiki/돌아온_싱글 "wikilink")》 : 2005년 6월 8일 \~ 2005년 7월 21일
+  - 《[루루공주](https://ko.wikipedia.org/wiki/루루공주 "wikilink")》 : 2005년 7월 27일 \~ 2005년 9월 29일
+  - 《[사랑은 기적이 필요해](https://ko.wikipedia.org/wiki/사랑은_기적이_필요해 "wikilink")》 : 2005년 10월 5일 \~ 2005년 12월 8일
+  - 《[마이걸](../Page/마이걸_\(2005년_드라마\).md "wikilink")》 : 2005년 12월 14일 \~ 2006년 2월 2일
+
+#### [<span style="color:black">2006년</span>](https://ko.wikipedia.org/wiki/2006년 "wikilink")
+
+  - 《[천국의 나무](https://ko.wikipedia.org/wiki/천국의_나무 "wikilink")》 : 2006년 2월 8일 \~ 2006년 3월 16일
+  - 《[불량 가족](https://ko.wikipedia.org/wiki/불량_가족 "wikilink")》 : 2006년 3월 22일 \~ 2006년 5월 11일
+  - 《[스마일 어게인](https://ko.wikipedia.org/wiki/스마일_어게인 "wikilink")》 : 2006년 5월 17일 \~ 2006년 7월 6일
+  - 《[돌아와요 순애씨](https://ko.wikipedia.org/wiki/돌아와요_순애씨 "wikilink")》 : 2006년 7월 12일 \~ 2006년 8월 31일
+  - 《[무적의 낙하산 요원](https://ko.wikipedia.org/wiki/무적의_낙하산_요원 "wikilink")》 : 2006년 9월 6일 \~ 2006년 11월 2일
+  - 《[연인](https://ko.wikipedia.org/wiki/연인_\(2006년_드라마\) "wikilink")》 : 2006년 11월 8일 \~ 2007년 1월 11일
+
+#### [<span style="color:black">2007년</span>](https://ko.wikipedia.org/wiki/2007년 "wikilink")
+
+  - 《[외과의사 봉달희](https://ko.wikipedia.org/wiki/외과의사_봉달희 "wikilink")》 : 2007년 1월 17일 \~ 2007년 3월 15일
+  - 《[마녀유희](../Page/마녀유희.md "wikilink")》 : 2007년 3월 21일 \~ 2007년 5월 10일
+  - 《[쩐의 전쟁](../Page/쩐의_전쟁.md "wikilink")》 : 2007년 5월 16일 \~ 2007년 7월 19일
+  - 《[완벽한 이웃을 만나는 법](https://ko.wikipedia.org/wiki/완벽한_이웃을_만나는_법 "wikilink")》 : 2007년 7월 25일 \~ 2007년 9월 27일
+  - 《[로비스트](../Page/로비스트_\(드라마\).md "wikilink")》 : 2007년 10월 10일 \~ 2007년 12월 26일 (**대기획**으로 방송됨)
+
+#### [<span style="color:black">2008년</span>](https://ko.wikipedia.org/wiki/2008년 "wikilink")
+
+  - 《[불한당](https://ko.wikipedia.org/wiki/불한당_\(드라마\) "wikilink")》 : 2008년 1월 2일 \~ 2008년 2월 28일
+  - 《[온에어](../Page/온에어_\(드라마\).md "wikilink")》 : 2008년 3월 5일 \~ 2008년 5월 15일
+  - 《[일지매](https://ko.wikipedia.org/wiki/일지매_\(2008년_드라마\) "wikilink")》 : 2008년 5월 21일 \~ 2008년 7월 24일
+  - 《[워킹맘](../Page/워킹맘_\(드라마\).md "wikilink")》 : 2008년 7월 30일 \~ 2008년 9월 18일
+  - 《[바람의 화원](../Page/바람의_화원_\(드라마\).md "wikilink")》 : 2008년 9월 24일 \~ 2008년 12월 4일
+  - 《[스타의 연인](../Page/스타의_연인.md "wikilink")》 : 2008년 12월 10일 \~ 2009년 2월 12일
+
+#### [<span style="color:black">2009년</span>](https://ko.wikipedia.org/wiki/2009년 "wikilink")
+
+  - 《[카인과 아벨](../Page/카인과_아벨_\(2009년_드라마\).md "wikilink")》 : 2009년 2월 18일 \~ 2009년 4월 23일
+  - 《[시티홀](../Page/시티홀_\(드라마\).md "wikilink")》 : 2009년 4월 29일 \~ 2009년 7월 2일
+  - 《[태양을 삼켜라](https://ko.wikipedia.org/wiki/태양을_삼켜라 "wikilink")》 : 2009년 7월 8일 \~ 2009년 10월 1일
+  - 《[미남이시네요](https://ko.wikipedia.org/wiki/미남이시네요 "wikilink")》 : 2009년 10월 7일 \~ 2009년 11월 26일
+  - 《[크리스마스에 눈이 올까요?](https://ko.wikipedia.org/wiki/크리스마스에_눈이_올까요? "wikilink")》 : 2009년 12월 2일 \~ 2010년 1월 28일
+
+### [2010년대](https://ko.wikipedia.org/wiki/2010년대 "wikilink") 전반
+
+#### [<span style="color:black">2010년</span>](https://ko.wikipedia.org/wiki/2010년 "wikilink")
+
+  - 《[산부인과](https://ko.wikipedia.org/wiki/산부인과_\(드라마\) "wikilink")》 : 2010년 2월 3일 \~ 2010년 3월 25일
+  - 《[검사 프린세스](https://ko.wikipedia.org/wiki/검사_프린세스 "wikilink")》 : 2010년 3월 31일 \~ 2010년 5월 20일
+  - 《[나쁜 남자](https://ko.wikipedia.org/wiki/나쁜_남자_\(드라마\) "wikilink")》 : 2010년 5월 26일 \~ 2010년 8월 5일
+  - 《[내 여자친구는 구미호](https://ko.wikipedia.org/wiki/내_여자친구는_구미호 "wikilink")》 : 2010년 8월 11일 \~ 2010년 9월 30일
+  - 《[대물](../Page/대물_\(드라마\).md "wikilink")》 : 2010년 10월 6일 \~ 2010년 12월 23일
+
+#### [<span style="color:black">2011년</span>](https://ko.wikipedia.org/wiki/2011년 "wikilink")
+
+  - 《[싸인](../Page/싸인_\(드라마\).md "wikilink")》 : 2011년 1월 5일 \~ 2011년 3월 10일
+  - 《[49일](../Page/49일.md "wikilink")》 : 2011년 3월 16일 \~ 2011년 5월 19일
+  - 《[시티헌터](../Page/시티헌터_\(드라마\).md "wikilink")》 : 2011년 5월 25일 \~ 2011년 7월 28일
+  - 《[보스를 지켜라](../Page/보스를_지켜라.md "wikilink")》 : 2011년 8월 3일 \~ 2011년 9월 29일
+  - 《[뿌리깊은 나무](../Page/뿌리깊은_나무_\(2011년_드라마\).md "wikilink")》 : 2011년 10월 5일 \~ 2011년 12월 22일 (**대기획**으로 방송됨)
+
+#### [<span style="color:black">2012년</span>](https://ko.wikipedia.org/wiki/2012년 "wikilink")
+
+  - 《[부탁해요 캡틴](../Page/부탁해요_캡틴.md "wikilink")》 : 2012년 1월 4일 \~ 2012년 3월 8일
+  - 《[옥탑방 왕세자](../Page/옥탑방_왕세자.md "wikilink")》 : 2012년 3월 21일 \~ 2012년 5월 24일
+  - 《[유령](../Page/유령_\(드라마\).md "wikilink")》 : 2012년 5월 30일 \~ 2012년 8월 9일
+  - 《[아름다운 그대에게](https://ko.wikipedia.org/wiki/아름다운_그대에게_\(드라마\) "wikilink")》 : 2012년 8월 15일 \~ 2012년 10월 4일
+  - 《[대풍수](https://ko.wikipedia.org/wiki/대풍수 "wikilink")》 : 2012년 10월 10일 \~ 2013년 2월 7일 (**대기획**으로 방송됨)
+
+#### [<span style="color:black">2013년</span>](https://ko.wikipedia.org/wiki/2013년 "wikilink")
+
+  - 《[그 겨울, 바람이 분다](../Page/그_겨울,_바람이_분다.md "wikilink")》 : 2013년 2월 13일 \~ 2013년 4월 3일
+  - 《[내 연애의 모든 것](https://ko.wikipedia.org/wiki/내_연애의_모든_것 "wikilink")》 : 2013년 4월 4일 \~ 2013년 5월 29일
+  - 《[사건번호 113](../Page/사건번호_113.md "wikilink")》 : 2013년 5월 30일\[6\]
+  - 《[너의 목소리가 들려](../Page/너의_목소리가_들려_\(2013년_드라마\).md "wikilink")》 : 2013년 6월 5일 \~ 2013년 8월 1일
+  - 《[주군의 태양](https://ko.wikipedia.org/wiki/주군의_태양 "wikilink")》 : 2013년 08월 07일 \~ 2013년 10월 03일
+  - 《[상속자들](https://ko.wikipedia.org/wiki/상속자들 "wikilink")》 : 2013년 10월 9일 \~ 2013년 12월 12일
+  - 《[별에서 온 그대](https://ko.wikipedia.org/wiki/별에서_온_그대 "wikilink")》 : 2013년 12월 18일 \~ 2014년 2월 27일
+
+#### [<span style="color:black">2014년</span>](https://ko.wikipedia.org/wiki/2014년 "wikilink")
+
+  - 《[쓰리 데이즈](https://ko.wikipedia.org/wiki/쓰리_데이즈_\(드라마\) "wikilink")》 : 2014년 3월 5일 \~ 2014년 5월 1일
+  - 《[너희들은 포위됐다](https://ko.wikipedia.org/wiki/너희들은_포위됐다 "wikilink")》 : 2014년 5월 7일 \~ 2014년 7월 17일
+  - 《[괜찮아, 사랑이야](https://ko.wikipedia.org/wiki/괜찮아,_사랑이야 "wikilink")》 : 2014년 7월 23일 \~ 2014년 9월 11일
+  - 《[내겐 너무 사랑스러운 그녀](https://ko.wikipedia.org/wiki/내겐_너무_사랑스러운_그녀 "wikilink")》 : 2014년 9월 17일 \~ 2014년 11월 6일
+  - 《[피노키오](https://ko.wikipedia.org/wiki/피노키오_\(드라마\) "wikilink")》 : 2014년 11월 12일 \~ 2015년 1월 15일
+
+### [2010년대](https://ko.wikipedia.org/wiki/2010년대 "wikilink") 후반
+
+#### [<span style="color:black">2015년</span>](https://ko.wikipedia.org/wiki/2015년 "wikilink")
+
+  - 《[하이드 지킬, 나](https://ko.wikipedia.org/wiki/하이드_지킬,_나 "wikilink")》 : 2015년 1월 21일 \~ 2015년 3월 26일
+  - 《[냄새를 보는 소녀](https://ko.wikipedia.org/wiki/냄새를_보는_소녀_\(드라마\) "wikilink")》 : 2015년 4월 1일 \~ 2015년 5월 21일
+  - 《[가면](https://ko.wikipedia.org/wiki/가면_\(드라마\) "wikilink")》 : 2015년 5월 27일 \~ 2015년 7월 30일
+  - 《[용팔이](https://ko.wikipedia.org/wiki/용팔이_\(드라마\) "wikilink")》 : 2015년 8월 5일 \~ 2015년 10월 1일
+  - 《[마을 - 아치아라의 비밀](https://ko.wikipedia.org/wiki/마을_-_아치아라의_비밀 "wikilink")》 : 2015년 10월 7일 \~ 2015년 12월 3일
+  - 《[리멤버 - 아들의 전쟁](https://ko.wikipedia.org/wiki/리멤버_-_아들의_전쟁 "wikilink")》 : 2015년 12월 9일 \~ 2016년 2월 18일
+
+#### [<span style="color:black">2016년</span>](https://ko.wikipedia.org/wiki/2016년 "wikilink")
+
+  - 《[돌아와요 아저씨](https://ko.wikipedia.org/wiki/돌아와요_아저씨 "wikilink")》 : 2016년 2월 24일 \~ 2016년 4월 14일
+  - 《[딴따라](https://ko.wikipedia.org/wiki/딴따라 "wikilink")》 : 2016년 4월 20일 \~ 2016년 6월 16일
+  - 《[원티드](https://ko.wikipedia.org/wiki/원티드_\(대한민국의_드라마\) "wikilink")》 : 2016년 6월 22일 \~ 2016년 8월 18일
+  - 《[질투의 화신](../Page/질투의_화신.md "wikilink")》 : 2016년 8월 24일 \~ 2016년 11월 10일
+  - 《[푸른 바다의 전설](../Page/푸른_바다의_전설.md "wikilink")》 : 2016년 11월 16일 \~ 2017년 1월 25일
+
+#### [<span style="color:black">2017년</span>](https://ko.wikipedia.org/wiki/2017년 "wikilink")
+
+  - 《[사임당, 빛의 일기](../Page/사임당,_빛의_일기.md "wikilink")》 : 2017년 1월 26일 \~ 2017년 5월 4일 (이 작품까지 1회 편성)
+  - 《[수상한 파트너](../Page/수상한_파트너.md "wikilink")》 : 2017년 5월 10일 \~ 2017년 7월 13일 (이 작품부터 1회당 35분 2회 분할 편성)
+  - 《[다시 만난 세계](../Page/다시_만난_세계_\(드라마\).md "wikilink")》 : 2017년 7월 19일 \~ 2017년 9월 21일
+  - 《[당신이 잠든 사이에](../Page/당신이_잠든_사이에_\(드라마\).md "wikilink")》 : 2017년 9월 27일 \~ 2017년 11월 16일
+  - 《[이판사판](../Page/이판사판.md "wikilink")》 : 2017년 11월 22일 \~ 2018년 1월 11일
+
+#### [<span style="color:black">2018년</span>](https://ko.wikipedia.org/wiki/2018년 "wikilink")
+
+  - 《[리턴](../Page/리턴_\(드라마\).md "wikilink")》 : 2018년 1월 17일 \~ 2018년 3월 22일
+  - 《[스위치 - 세상을 바꿔라](../Page/스위치_-_세상을_바꿔라.md "wikilink")》 : 2018년 3월 28일 \~ 2018년 5월 17일
+  - 《[훈남정음](../Page/훈남정음.md "wikilink")》 : 2018년 5월 23일 \~ 2018년 7월 19일
+  - 《[친애하는 판사님께](../Page/친애하는_판사님께.md "wikilink")》 : 2018년 7월 25일 \~ 2018년 9월 20일
+  - 《[흉부외과 - 심장을 훔친 의사들](../Page/흉부외과_-_심장을_훔친_의사들.md "wikilink")》 : 2018년 9월 27일 \~ 2018년 11월 15일
+  - 《[황후의 품격](../Page/황후의_품격.md "wikilink")》 : 2018년 11월 21일 \~ 2019년 2월 21일 (이 작품까지 **드라마 스페셜**로 방영됨)
+
+#### [<span style="color:black">2019년</span>](https://ko.wikipedia.org/wiki/2019년 "wikilink")
+
+  - 《[빅이슈](https://ko.wikipedia.org/wiki/빅이슈_\(2019년_드라마\) "wikilink")》 : 2019년 3월 6일 \~ 2019년 5월 2일 (이 작품부터 **수목드라마**로 명칭 변경)
+  - 《[절대 그이](https://ko.wikipedia.org/wiki/절대_그이_\(드라마\) "wikilink")》 : 2019년 5월 15일 \~ 2019년 7월 11일 (이 작품까지 1회당 35분 2회 분할 편성)
+  - 《[닥터 탐정](https://ko.wikipedia.org/wiki/닥터_탐정 "wikilink")》 : 2019년 7월 17일 \~ 2019년 9월 5일 (이 작품부터 **1부 40분 2부 30분 분할** 편성)
+  - 《[시크릿 부티크](https://ko.wikipedia.org/wiki/시크릿_부티크 "wikilink")》 : 2019년 9월 18일 \~ 2019년 11월 28일
+
+### [2020년대](https://ko.wikipedia.org/wiki/2020년대 "wikilink") 전반
+
+#### [<span style="color:black">2020년</span>](https://ko.wikipedia.org/wiki/2020년 "wikilink")
+
+  - 《[어서오세요 초이락 영업소](https://ko.wikipedia.org/wiki/초이락_영업소 "wikilink")》 : 2020년 3월 25일 \~ 예정 (이 작품까지 **드라마 스페셜**로 방영됨)
+  - 《[홍천기](https://ko.wikipedia.org/wiki/홍천기 "wikilink")》 2020년 4월 \~ 예정
+
+## 같이 보기
+
+  - [한국방송공사 수목드라마](https://ko.wikipedia.org/wiki/한국방송공사_수목드라마 "wikilink")
+  - [문화방송 수목 미니시리즈](../Page/문화방송_수목_미니시리즈.md "wikilink")
+  - [JTBC 수목 미니시리즈](https://ko.wikipedia.org/wiki/JTBC_수목_미니시리즈 "wikilink")
+  - [채널A 수목 미니시리즈](https://ko.wikipedia.org/wiki/채널A_수목_미니시리즈 "wikilink")
+  - [TV조선 수목드라마](https://ko.wikipedia.org/wiki/TV조선_수목드라마 "wikilink")
+  - [tvN 수목드라마](https://ko.wikipedia.org/wiki/tvN_수목드라마 "wikilink")
+  - [OCN 수목드라마](https://ko.wikipedia.org/wiki/OCN_수목드라마 "wikilink")
+
+## 각주
+
+<references/>
+
+[분류:SBS의 텔레비전 드라마](https://ko.wikipedia.org/wiki/분류:SBS의_텔레비전_드라마 "wikilink") [\*](https://ko.wikipedia.org/wiki/분류:SBS_드라마_스페셜 "wikilink")
+
+1.
+2.  지역 민방 4개 방송과 함께 완전 방송
+3.  PSB 부산방송(현 [KNN](../Page/KNN.md "wikilink") 부산경남방송)과 공동 제작, 국내 제작 드라마로서는 유일무이하게 SBS 이외에 지역 민방 네트워크 가맹국이 제작하여, 전국 동시 네트워크로 송출된 드라마
+4.  1998년 1월 28일에는 설날특선영화 《흑협》 편성으로 결방됐으며, 이 때문에 다음 날인 1998년 1월 29일 9\~10회 연속 방송됐고, 1998년 2월 19일 방영분(22회)은 9시부터 '나가노 동계 올림픽' 중계 편성에 따라 10시 45분에 방송됐으며, 이 과정에서 9시 일일극 《[지평선 너머](https://ko.wikipedia.org/wiki/지평선_너머 "wikilink")》는 10시에 방영됨.
+5.  2002년 5월 31일 제주민영방송 개국과 함께 완전방송
+6.  2회 연속 방영, 2부작 드라마로 방송됨

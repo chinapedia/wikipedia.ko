@@ -1,0 +1,95 @@
+> This article is converted from Wikipedia: [ TV ](https://ko.wikipedia.org/wiki/_TV_).
+
+
+**한국방송공사 TV 소설**은 [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink") [3월 2일부터](https://ko.wikipedia.org/wiki/3월_2일 "wikilink") [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [8월 31일까지](https://ko.wikipedia.org/wiki/8월_31일 "wikilink") 방송했던 [KBS 2TV](../Page/KBS_2TV.md "wikilink") [텔레비전 드라마이다](../Page/텔레비전_드라마.md "wikilink").
+
+## 기획 의도
+
+탁월한 전달하기 위해, TV 영상 장르와 소설의 섬세한 묘사력을 접목하여, 아침 시간대 주부들의 한 편의 수필이나 소설 낭독을 듣는 것처럼, 새로운 형태의 TV 소설에 밝힌 것이며, 실제와 가상 토대로 만든다.
+
+## 방송 시간
+
+| 방송 채널                                                                  | 방송 기간                                                                                                                                                                              | 방송 시간                                                                                                                          | 방송 분량 |
+| ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ----- |
+| [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink")            | 1987년 3월 2일 \~ 1987년 10월 5일                                                                                                                                                        | [월요일](https://ko.wikipedia.org/wiki/월요일 "wikilink") \~ [금요일](https://ko.wikipedia.org/wiki/금요일 "wikilink") 오후 7시 25분 \~ 8시 10분 | 45분   |
+| 1987년 10월 6일 \~ 1987년 10월 9일                                           | [월요일](https://ko.wikipedia.org/wiki/월요일 "wikilink") \~ [금요일](https://ko.wikipedia.org/wiki/금요일 "wikilink") 오후 7시 10분 \~ 7시 45분                                                     |                                                                                                                                |       |
+| [KBS 2TV](../Page/KBS_2TV.md "wikilink")                               | 1995년 5월 1일 \~ 1996년 3월 2일                                                                                                                                                         | [월요일](https://ko.wikipedia.org/wiki/월요일 "wikilink") \~ [토요일](https://ko.wikipedia.org/wiki/토요일 "wikilink") 오전 8시 40분 \~ 9시     | 20분   |
+| [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink")            | 1996년 3월 4일 \~ 1996년 10월 12일                                                                                                                                                       | [월요일](https://ko.wikipedia.org/wiki/월요일 "wikilink") \~ [토요일](https://ko.wikipedia.org/wiki/토요일 "wikilink") 오전 8시 20분 \~ 8시 40분 | 20분   |
+| 1996년 10월 14일 \~ 1999년 10월 16일                                         | [월요일](https://ko.wikipedia.org/wiki/월요일 "wikilink") \~ [토요일](https://ko.wikipedia.org/wiki/토요일 "wikilink") 오전 8시 10분 \~ 8시 30분                                                     | 20분                                                                                                                            |       |
+| 1999년 10월 18일 \~ 2000년 10월 21일                                         | [월요일](https://ko.wikipedia.org/wiki/월요일 "wikilink") \~ [토요일](https://ko.wikipedia.org/wiki/토요일 "wikilink") 오전 8시 5분 \~ 8시 25분                                                      | 20분                                                                                                                            |       |
+| 2000년 10월 23일 \~ 2000년 11월 18일                                         | [월요일](https://ko.wikipedia.org/wiki/월요일 "wikilink") \~ [목요일](https://ko.wikipedia.org/wiki/목요일 "wikilink"), [토요일](https://ko.wikipedia.org/wiki/토요일 "wikilink") 오전 8시 5분 \~ 8시 25분 | 20분                                                                                                                            |       |
+| [금요일](https://ko.wikipedia.org/wiki/금요일 "wikilink") 오전 8시 5분 \~ 8시 30분 | 25분                                                                                                                                                                                |                                                                                                                                |       |
+| 2000년 11월 20일 \~ 2007년 4월 28일                                          | [월요일](https://ko.wikipedia.org/wiki/월요일 "wikilink") \~ [토요일](https://ko.wikipedia.org/wiki/토요일 "wikilink") 오전 8시 5분 \~ 8시 30분                                                      | 25분                                                                                                                            |       |
+| 2007년 4월 30일 \~ 2009년 4월 17일                                           | [월요일](https://ko.wikipedia.org/wiki/월요일 "wikilink") \~ [금요일](https://ko.wikipedia.org/wiki/금요일 "wikilink") 오전 7시 50분 \~ 8시 25분                                                     | 35분                                                                                                                            |       |
+| [KBS 2TV](../Page/KBS_2TV.md "wikilink")                               | 2011년 11월 7일 \~ 2018년 8월 31일                                                                                                                                                       | [월요일](https://ko.wikipedia.org/wiki/월요일 "wikilink") \~ [금요일](https://ko.wikipedia.org/wiki/금요일 "wikilink") 오전 9시 \~ 9시 40분     | 40분   |
+|                                                                        |                                                                                                                                                                                    |                                                                                                                                |       |
+
+## 작품 리스트
+
+### 1980년대 후반
+
+  - 《사랑》 : 1987년 3월 2일 \~ 1987년 4월 3일 (이 작품부터 [KBS 1TV에서](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방송)
+  - 《산유화》 : 1987년 4월 6일 \~ 1987년 5월 14일
+  - 《순애보》 : 1987년 5월 18일 \~ 1987년 6월 24일
+  - 《영원한 미소》 : 1987년 6월 29일 \~ 1987년 8월 5일
+  - 《진주탑》 : 1987년 8월 6일 \~ 1987년 10월 9일 (이 작품까지 KBS 1TV에서 방송)
+
+### 1990년대 후반
+
+  - 《[길](../Page/길_\(1995년_드라마\).md "wikilink")》 : 1995년 5월 1일 \~ 1995년 10월 14일 (이 작품부터 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") 방송)
+  - 《[여울](../Page/여울_\(드라마\).md "wikilink")》 : 1995년 10월 16일 \~ 1996년 3월 2일
+  - 《[은하수](../Page/은하수_\(드라마\).md "wikilink")》 : 1996년 3월 4일 \~ 1996년 8월 29일 (이 작품부터 KBS 2TV 아침드라마의 신설에 따라 KBS 1TV로 이동)
+  - 《[하얀 민들레](../Page/하얀_민들레_\(1996년_드라마\).md "wikilink")》 : 1996년 9월 2일 \~ 1997년 3월 1일
+  - 《[초원의 빛](../Page/초원의_빛_\(드라마\).md "wikilink")》 : 1997년 3월 3일 \~ 1997년 11월 1일
+  - 《[모정의 강](../Page/모정의_강.md "wikilink")》 : 1997년 11월 3일 \~ 1998년 5월 2일
+  - 《[너와 나의 노래](../Page/너와_나의_노래.md "wikilink")》 : 1998년 5월 4일 \~ 1998년 9월 18일
+  - 《[은아의 뜰](../Page/은아의_뜰.md "wikilink")》 : 1998년 9월 20일 \~ 1999년 4월 3일
+  - 《[당신](../Page/당신_\(1999년_드라마\).md "wikilink")》 : 1999년 4월 5일 \~ 1999년 9월 25일
+  - 《[누나의 거울](../Page/누나의_거울.md "wikilink")》 : 1999년 9월 27일 \~ 2000년 4월 15일
+
+### 2000년대 전반
+
+  - 《[민들레](../Page/민들레_\(드라마\).md "wikilink")》 : 2000년 4월 17일 \~ 2000년 10월 21일
+  - 《[약속](../Page/약속_\(2000년_드라마\).md "wikilink")》 : 2000년 10월 23일 \~ 2001년 4월 21일
+  - 《[매화연가](../Page/매화연가.md "wikilink")》 : 2001년 4월 23일 \~ 2001년 11월 3일
+  - 《[새엄마](https://ko.wikipedia.org/wiki/새엄마_\(2001년_드라마\) "wikilink")》 : 2001년 11월 5일 \~ 2002년 8월 3일
+  - 《[인생화보](https://ko.wikipedia.org/wiki/인생화보_\(2002년_드라마\) "wikilink")》 : 2002년 8월 5일 \~ 2003년 4월 19일
+  - 《[분이](https://ko.wikipedia.org/wiki/분이 "wikilink")》 : 2003년 4월 21일 \~ 2003년 11월 15일
+  - 《[찔레꽃](https://ko.wikipedia.org/wiki/찔레꽃_\(드라마\) "wikilink")》 : 2003년 11월 17일 \~ 2004년 6월 12일
+  - 《[그대는 별](https://ko.wikipedia.org/wiki/그대는_별 "wikilink")》 : 2004년 6월 14일 \~ 2005년 1월 29일
+
+### 2000년대 후반
+
+  - 《[바람꽃](../Page/바람꽃.md "wikilink")》 : 2005년 1월 31일 \~ 2005년 8월 27일
+  - 《[고향역](../Page/고향역.md "wikilink")》 : 2005년 8월 29일 \~ 2006년 3월 18일
+  - 《[강이 되어 만나리](../Page/강이_되어_만나리.md "wikilink")》 : 2006년 3월 20일 \~ 2006년 11월 4일
+  - 《[순옥이](https://ko.wikipedia.org/wiki/순옥이 "wikilink")》 : 2006년 11월 6일 \~ 2007년 4월 28일
+  - 《[그대의 풍경](../Page/그대의_풍경.md "wikilink")》 : 2007년 4월 30일 \~ 2007년 11월 9일
+  - 《[아름다운 시절](https://ko.wikipedia.org/wiki/아름다운_시절_\(드라마\) "wikilink")》 : 2007년 11월 12일 \~ 2008년 6월 6일
+  - 《[큰 언니](https://ko.wikipedia.org/wiki/큰_언니_\(2008년_드라마\) "wikilink")》 : 2008년 6월 9일 \~ 2009년 1월 2일
+  - 《[청춘예찬](https://ko.wikipedia.org/wiki/청춘예찬 "wikilink")》 : 2009년 1월 5일 \~ 2009년 4월 17일
+
+### 2010년대 전반
+
+  - 《[복희 누나](../Page/복희_누나.md "wikilink")》 : 2011년 11월 7일 \~ 2012년 5월 4일 (이 작품부터 KBS 2TV 아침드라마의 폐지 후 KBS 2TV로 이동)
+  - 《[사랑아 사랑아](../Page/사랑아_사랑아.md "wikilink")》 : 2012년 5월 7일 \~ 2013년 1월 4일
+  - 《[삼생이](../Page/삼생이.md "wikilink")》 : 2013년 1월 7일 \~ 2013년 6월 21일
+  - 《[은희](../Page/은희.md "wikilink")》 : 2013년 6월 24일 \~ 2014년 1월 3일
+  - 《[순금의 땅](../Page/순금의_땅.md "wikilink")》 : 2014년 1월 6일 \~ 2014년 8월 22일
+  - 《[일편단심 민들레](../Page/일편단심_민들레.md "wikilink")》 : 2014년 8월 25일 \~ 2015년 2월 27일
+
+### 2010년대 후반
+
+  - 《[그래도 푸르른 날에](../Page/그래도_푸르른_날에.md "wikilink")》 : 2015년 3월 2일 \~ 2015년 8월 28일
+  - 《[별이 되어 빛나리](../Page/별이_되어_빛나리.md "wikilink")》 : 2015년 8월 31일 \~ 2016년 2월 26일
+  - 《[내 마음의 꽃비](../Page/내_마음의_꽃비.md "wikilink")》 : 2016년 2월 29일 \~ 2016년 9월 6일
+  - 《[저 하늘에 태양이](../Page/저_하늘에_태양이.md "wikilink")》 : 2016년 9월 7일 \~ 2017년 2월 24일
+  - 《[그 여자의 바다](../Page/그_여자의_바다.md "wikilink")》 : 2017년 2월 27일 \~ 2017년 8월 11일
+  - 《[꽃 피어라 달순아\!](../Page/꽃_피어라_달순아!.md "wikilink")》 : 2017년 8월 14일 \~ 2018년 2월 9일
+  - 《[파도야 파도야](../Page/파도야_파도야.md "wikilink")》 : 2018년 2월 12일 \~ 2018년 8월 31일 (TV 소설 폐지)
+
+## 같이 보기
+
+  - [한국방송공사 아침드라마](https://ko.wikipedia.org/wiki/한국방송공사_아침드라마 "wikilink")
+
+[분류:한국방송공사의 텔레비전 드라마](https://ko.wikipedia.org/wiki/분류:한국방송공사의_텔레비전_드라마 "wikilink") [분류:한국방송공사 TV 소설](https://ko.wikipedia.org/wiki/분류:한국방송공사_TV_소설 "wikilink")

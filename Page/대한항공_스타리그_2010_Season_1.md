@@ -1,0 +1,317 @@
+> This article is converted from Wikipedia: [  2010 Season 1](https://ko.wikipedia.org/wiki/__2010_Season_1).
+
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:KOREAN_AIR_STARLEAGUE.png "wikilink") **대한항공 스타리그 2010 시즌 1**(Korean Air Starleague 2010 Season 1)은 온게임넷과 스포츠조선의 공동 주최로 이루어지는 이스포츠에서 권위 있는 스타크래프트 개인전인 스타리그의 29번째 대회이며 2010년에 열린 첫 번째 스타리그이다.
+
+## 대회 개요
+
+  - 스폰서 캐치프레이즈:새로운 세상을 향한 첫걸음\!
+  - 리그컨셉 36강: 하늘 16강:공항
+
+### 후원
+
+[대한항공](https://ko.wikipedia.org/wiki/대한항공 "wikilink") 고위 관계자는 "스타리그는 젊은이들의 대표적인 문화 콘텐츠로 확고히 자리잡고 있다"면서 "젊은 층과 더욱 활발한 소통을 위해 스타리그 후원을 결정하게 됐다"고 말했다 리그 명칭은 '대한항공 스타리그 2010'으로 정해진 것으로 알려졌다. '대한항공 스타리그 2010'은 다음달 5일부터 본격적인 리그에 돌입하며 결승전이 열리는 오는 5월 중순까지 약 4개월간의 대장정이 펼쳐진다 .\[1\]
+
+### 대회 방식
+
+각 조에 PC방 예선을 통과한 두 명의 선수가 먼저 3전 2선승제로 대결을 펼치고 이에 승리한 선수가 지난 대회 16강 스타리거와 3전 2선승제 대결을 펼쳐 최종 승리한 선수가 스타리그 16강에 진출한다. 16강 또한 4명 4개조 풀리그, 8강은 3전 2선승제, 4강과 결승은 5전 3선승제 등 16강 이후의 방식은 전통적인 스타리그 방식과 동일하다.
+
+### 대회 일정
+
+  - **오프라인 예선**: [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [2월 5일](https://ko.wikipedia.org/wiki/2월_5일 "wikilink")
+  - **36강**: [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [2월 10일](https://ko.wikipedia.org/wiki/2월_10일 "wikilink") \~ [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [3월 19일](https://ko.wikipedia.org/wiki/3월_19일 "wikilink")
+  - **16강 조 지명식**: [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [3월 26일](https://ko.wikipedia.org/wiki/3월_26일 "wikilink")
+  - **16강**: [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [3월 31일](https://ko.wikipedia.org/wiki/3월_31일 "wikilink") \~ [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [4월 18일](https://ko.wikipedia.org/wiki/4월_18일 "wikilink")
+  - **8강**: [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [4월 23일](https://ko.wikipedia.org/wiki/4월_23일 "wikilink"), [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [4월 30일](https://ko.wikipedia.org/wiki/4월_30일 "wikilink")
+  - **4강**: [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [5월 7일](https://ko.wikipedia.org/wiki/5월_7일 "wikilink"), [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [5월 14일](https://ko.wikipedia.org/wiki/5월_14일 "wikilink")
+  - **결승**: [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [5월 22일](https://ko.wikipedia.org/wiki/5월_22일 "wikilink")
+
+### 상금
+
+  - 우승 : 4000만원
+  - 준우승 : 2000만원
+  - 공동 3위 : 700만원
+  - 5\~8위 : 300만원
+  - 9위\~16위 : 100만원
+  - 36강 1위 (16강 진출자) : 25만원
+  - 36강 2위 : 15만원
+  - 36강 3위 : 10만원
+
+총 1억 800만원
+
+### 경기장
+
+  - **예선** - [용산](https://ko.wikipedia.org/wiki/용산역 "wikilink") 이스포츠 보조 경기장
+  - **본선** - 용산 이스포츠 상설 경기장\[2\]
+  - **8강 투어** - [울산 문수축구경기장](https://ko.wikipedia.org/wiki/울산_문수축구경기장 "wikilink") (프로축구 [울산 현대 축구단의](https://ko.wikipedia.org/wiki/울산_현대_축구단 "wikilink") 홈 경기장) 호반 광장
+  - **결승전** - [서울특별시 강서구](https://ko.wikipedia.org/wiki/강서구_\(서울특별시\) "wikilink") [김포공항](https://ko.wikipedia.org/wiki/김포공항 "wikilink")내의 대한항공 본사 격납고 특설 무대\[3\]\[4\]
+
+## 맵
+
+  - 오프라인 예선
+
+매치포인트, 투혼, 태풍의눈
+
+  - 36강
+
+투혼, 태풍의눈, Great Barrier Reef\[5\]
+
+  - ;36강 맵순서
+
+<!-- end list -->
+
+  -   - 1경기 : Great Barrier Reef
+      - 2경기 : 투혼
+      - 3경기 : 태풍의 눈
+
+<!-- end list -->
+
+  - 16강
+
+<!-- end list -->
+
+  - Great Barrier Reef, 태풍의 눈, 투혼, 매치포인트
+
+## 리그 BGM
+
+  - 예선전 예고 - [U2](https://ko.wikipedia.org/wiki/U2 "wikilink") - With Or Without You
+  - 오프닝 멘트 - Forever The Sickest Kids - Phone Call
+  - 예선전 조별 경기 현황 -
+  - 경기 전후 - The Almost- Get Through
+  - 36강 타이틀곡 - [Alter Bridge](../Page/얼터_브리지.md "wikilink") - One Day Remains
+  - 36강 조예고곡 - Yellowcard - Afraid
+  - 16강 조지명식&16강 티저&16강 타이틀곡&16강 예고곡 - Face to Face - I won't lie down(kombat mix)
+  - 36강 선수소개곡 - Jack's Mannequin - Mixed Tape
+  - 16강 선수소개곡 - Endeverafter - Tip Of My Tongue
+  - 16강 진출곡 - Alter Bridge - Down To My Last
+  - 16강 조지명식 조 선택곡- Serenity - The Heartblood Symphony
+  - 16강 조지명식 선수 등장곡& Next Match곡 - Sick Puppies - Street Fighter War
+  - 엔딩 - Forever The Sickest Kids - Take It Slow
+  - 16강 1회차 엔딩 - Boys Like Girls - Five Minutes To Midnight
+  - 16강 2회차 엔딩 - Nine / Rose - Break Myself
+  - 16강 3회차 엔딩 - Breaking Benjamin - Breath ([인크루트 스타리그 2008](../Page/인크루트_스타리그_2008.md "wikilink") 36강 엔딩곡)
+  - 결승전 오프닝 - Aphex Twin - Afx237 V7
+  - 우승자 세레머니 - Alex Band - Forever Yours
+  - 결승전 엔딩 - Alex Band - Only One
+
+## 스타리그 예선
+
+### 조별 본선 진출자
+
+| A조  | B조  | C조  | D조  | E조  | F조  | G조  | H조  | I조  | J조  | K조  | L조  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 김상욱 | 김승현 | 박준오 | 신상문 | 박지수 | 손주흥 | 김동건 |     | 김재춘 | 김택용 | 이재호 | 정종현 |
+| M조  | N조  | O조  | P조  | Q조  | R조  | S조  | T조  | U조  | V조  | W조  | X조  |
+| 김구현 | 신동원 | 조일장 | 이동준 | 임진묵 | 김현우 | 전태양 | 박상우 | 고석현 | 신대근 | 배병우 | 김태균 |
+|     |     |     |     |     |     |     |     |     |     |     |     |
+
+### 36강 시드자
+
+지난 시즌 16강 진출에 성공했지만, 4강 진출에 실패한 12명의 선수들은 36강 시드를 받게 된다.
+
+### 본선 진출자 분포
+
+‘\*\*’은 16강 시드 진출자이며, ‘\*’은 36강 시드 진출자이다. 괄호로 묶은 부분은 **시드 진출자 수/예선 진출자 수**이다.
+
+  - 종족별 분포
+
+<!-- end list -->
+
+  - 테란(4/10): \*\*이영호, \*김창희, \*진영수, \*정명훈, 박지수, 김동건, 신상문, 손주흥, 정종현, 이동준, 이재호, 임진묵, 박상우, 전태양
+  - 토스(4/4): \*\*진영화, \*송병구, \*박세정, \*박지호, 김승현, 김택용, 김구현, 김태균
+  - 저그(8/10): \*\*김윤환, \*\*이영한, \*이제동, \*김명운, \*박명수, \*김정우, \*문성진, \*한상봉, 박준오, 김상욱, 박찬수, 신동원, 김재춘, 조일장, 고석현, 배병우, 신대근, 김현우
+
+<!-- end list -->
+
+  - 팀별 분포
+
+<!-- end list -->
+
+  - **SK텔레콤** (1/1) - \*정명훈, 김택용
+  - **하이트** (3/2) - \*박명수, \*문성진, \*김창희, 김상욱, 신상문
+  - **STX** (2/4) - \*진영수, \*\*김윤환, 김동건, 조일장, 김구현, 김현우
+  - **삼성전자** (1/0) - \*송병구
+  - **이스트로** (0/2) - 신대근, 박상우
+  - **화승** (1/3) - \*이제동, 박준오, 손주흥, 김태균
+  - **웅진** (2/4) - \*김명운, \*한상봉, 김승현, 정종현, 이동준, 임진묵
+  - **KT** (1/4) - \*\*이영호, 박지수, 박찬수, 김재춘, 배병우
+  - **위메이드** (2/1) - \*\*이영한, \*박세정, 전태양
+  - **CJ** (2/1) - \*\*진영화, \*김정우, 신동원
+  - **공군** (0/0) -
+  - **MBC게임** (1/2) - \*박지호, 이재호, 고석현
+
+## 36강
+
+36강의 조 편성은 팀 배분을 우선하여 종족별 배분 등 여러 사항을 고려하여 추첨되었다. 예선을 진출한 선수들 두 선수끼리 매치 1에서 3전 2선승제로 대결한 후 승리한 선수가 지난 시즌 16강 리거와 매치 2의 경기를 붙어 이기는 선수가 16강에 진출한다.
+
+|    |                                                               |       |
+| -- | ------------------------------------------------------------- | ----- |
+| 조  | 매치 1                                                          | 매치 2  |
+| A조 | **[김구현](../Page/김구현_\(프로게이머\).md "wikilink")**                | **2** |
+| B조 | **[김상욱](https://ko.wikipedia.org/wiki/김상욱 "wikilink")**       | **2** |
+| C조 | [박상우](https://ko.wikipedia.org/wiki/박상우_\(1989년\) "wikilink") | 0     |
+| D조 | [김승현](../Page/김승현_\(프로게이머\).md "wikilink")                    | 1     |
+| E조 | **[박지수](https://ko.wikipedia.org/wiki/박지수 "wikilink")**       | **2** |
+| F조 | [고석현](../Page/고석현.md "wikilink")                              | 0     |
+| G조 | **[김재춘](../Page/김재춘.md "wikilink")**                          | **2** |
+| H조 | **[김택용](../Page/김택용.md "wikilink")**                          | **2** |
+| I조 | [신상문](../Page/신상문.md "wikilink")                              | 0     |
+| J조 | [조일장](../Page/조일장.md "wikilink")                              | 1     |
+| K조 | [박찬수](https://ko.wikipedia.org/wiki/박찬수 "wikilink")           | 1     |
+| L조 | [이재호](https://ko.wikipedia.org/wiki/이재호_\(프로게이머\) "wikilink") | 1     |
+
+## 16강
+
+### 본경기
+
+16강 조지명식 에 따라 결정된 조에 따라서 한 선수가 한 경기씩 총 세 경기를 펼치게 되며, 한 조로 볼 때 총 여섯 경기를 치르게 된다.
+
+| A조                                                                | B조        | C조                                             | D조        |
+| ----------------------------------------------------------------- | --------- | ---------------------------------------------- | --------- |
+| **[이영호](https://ko.wikipedia.org/wiki/이영호_\(1992년\) "wikilink")** | **2승 1패** | **[진영화](../Page/진영화_\(프로게이머\).md "wikilink")** | **2승 1패** |
+| [한상봉](../Page/한상봉_\(프로게이머\).md "wikilink")                        | 1승 2패     | [진영수](../Page/진영수.md "wikilink")               | 1승 2패     |
+| [신대근](../Page/신대근.md "wikilink")                                  | 1승 2패     | [송병구](../Page/송병구.md "wikilink")               | 1승 2패     |
+| **[김구현](../Page/김구현_\(프로게이머\).md "wikilink")**                    | **2승 1패** | **[전태양](../Page/전태양.md "wikilink")**           | **2승 1패** |
+
+### 재경기
+
+상위/하위 3인의 승패가 동률인 경우에는 삼자재경기를 통해 올라갈 선수를 가리게 된다.
+
+| C조                                         | D조    |
+| ------------------------------------------ | ----- |
+| [김윤환](../Page/김윤환_\(1989년\).md "wikilink") | 1승 1패 |
+| [박세정](../Page/박세정.md "wikilink")           | 1승 1패 |
+| [정명훈](../Page/정명훈_\(프로게이머\).md "wikilink") | 1승 1패 |
+
+### 재재경기
+
+재경기를 거친 선수들의 승패가 1승1패일 경우 다시 재경기를 통해 올라갈 선수를 가리게 된다.
+
+| C조                                         | D조        |
+| ------------------------------------------ | --------- |
+| [김윤환](../Page/김윤환_\(1989년\).md "wikilink") | 0승 1패     |
+| '''[박세정](../Page/박세정.md "wikilink") '''    | **2승 0패** |
+| [정명훈](../Page/정명훈_\(프로게이머\).md "wikilink") | 0승 1패     |
+
+### 재재재경기
+
+재재경기를 거친 선수들의 승패가 1승1패일 경우 다시 재경기를 통해 올라갈 선수를 가리게 된다.
+
+| D조                                                  |
+| --------------------------------------------------- |
+| [이영한](../Page/이영한.md "wikilink")                    |
+| [김창희](https://ko.wikipedia.org/wiki/김창희 "wikilink") |
+| [김정우](../Page/김정우_\(프로게이머\).md "wikilink")          |
+
+### 재재재재경기
+
+재재재경기를 거친 선수들의 승패가 1승1패일 경우 다시 재경기를 통해 올라갈 선수를 가리게 된다.
+
+| D조                                                  |
+| --------------------------------------------------- |
+| [이영한](../Page/이영한.md "wikilink")                    |
+| [김창희](https://ko.wikipedia.org/wiki/김창희 "wikilink") |
+| **[김정우](../Page/김정우_\(프로게이머\).md "wikilink")**      |
+
+## 8강 \~
+
+## 우승
+
+<table>
+<thead>
+<tr class="header">
+<th><p>대한항공 스타리그 2010 Season1 우승</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="../Page/김정우_(프로게이머).md" title="wikilink">김정우</a></strong><br />
+(첫 번째 우승)</p></td>
+</tr>
+</tbody>
+</table>
+
+## 대회 결과
+
+우승: [김정우](../Page/김정우_\(프로게이머\).md "wikilink"), 준우승: [이영호](https://ko.wikipedia.org/wiki/이영호_\(1992년\) "wikilink"), 4강: [박세정](../Page/박세정.md "wikilink"), [김구현](../Page/김구현_\(프로게이머\).md "wikilink")
+
+## 특이사항
+
+  - 이번대회의 개최와 동시에 스타리그도 2000 하나로통신배 투니버스 스타리그 이후 10주년을 맞이 하게 된다.
+  - 이제동 36강 탈락 이변
+  - 스타리그 최초의 항공사 스폰서 ([대한항공](https://ko.wikipedia.org/wiki/대한항공 "wikilink"))
+  - 스타리그(챌린지 포함) 예선전 최초로 '멀티 라이브 시스템' 도입.\[6\]\[7\]
+  - 경기 그래픽을 공항 출발안내기와 비슷하게 표현하였다.
+  - 출전 선수들의 기량을 물량, 전략성, 컨트롤 등으로 세분하여 분석한 [레이다 차트를](https://ko.wikipedia.org/wiki/레이다_차트 "wikilink") 경기 시작 전에 보여줌으로써 전력 비교에 도움을 주었다.
+  - 2004 질레트 스타리그 나도현 이후 웅진스타즈의 테란 프로게이머가 스타리그에 진출하였다. (임진묵, 정종현, 이동준)
+  - 초기 36강 조에서 커리어 좋은 선수가 16강 진출에 성공하는 듯했지만, [김택용](../Page/김택용.md "wikilink")을 시작으로 [신상문](../Page/신상문.md "wikilink"), [이제동](https://ko.wikipedia.org/wiki/이제동 "wikilink")이 연속으로 탈락하였다.
+  - 스타리그 16강 오프닝 김포-인천국제공항 활주로, 대한항공 본사에서 비공개로 촬영하였다.
+  - 16강 선수들은 정장차림으로 프로필을 촬영하였다.
+  - [인크루트 스타리그 2008](../Page/인크루트_스타리그_2008.md "wikilink") 이후 3시즌만에 8강투어 진행:(투어장소: [울산](https://ko.wikipedia.org/wiki/울산광역시 "wikilink") 문수 월드컵경기장 호반광장)
+  - 결승전은 사상 처음으로 공항 격납고에서 진행하였다. ([김포공항](https://ko.wikipedia.org/wiki/김포공항 "wikilink") 대한항공 격납고)
+  - 이영호 최초로 2회 연속 양대리그 결승 진출 성공(EVER 스타리그 2009 & 대한항공 스타리그 2010 및 NATE MSL 2009 & 하나대투증권 MSL 2010)
+  - 온게임넷의 방송 장비 문제로 결승전 1경기가 7시 30분으로 지연되었다.
+  - 스타리그 결승전 사상 통산 3번째 리버스 스윕 우승.
+  - 스타리그 결승 무대사상 제일 비싼 무대로 기록. (약 1조 이상)
+  - 결승전 경기 종료 후 관중들이 1시간이 넘도록 못나가는 사고가 발생하였다.
+  - 저그VS테란 결승전에서 3할 승률의 테란전을 가진 저그가 테란을 꺾고 우승하는 최초의 사례(김정우)\[8\]
+  - 김정우, 스타리그 사상 한 시즌 최다 경기수 갱신
+  - 결승전 초대 가수 : [시크릿](../Page/시크릿_\(음악_그룹\).md "wikilink")
+
+### 방송사고
+
+  - 16강 3회차 C조 3경기([김명운](../Page/김명운.md "wikilink") 대 [김윤환](../Page/김윤환_\(1989년\).md "wikilink")) 승자 사인 장면 방송 중 방송장비 이상으로 10여 초간 초록색 화면이 송출됨
+  - 결승전 1경기 중 이영호의 모니터가 온게임넷의 방송 장비의 문제로 갑자기 꺼지는 상황이 발생하며 재경기가 진행됨
+
+### 16강 C/D조 재경기 경기시간 관련 기록들
+
+  - 스타리그(와일드카드전 방송경기 포함) 방송 사상 최다 경기 기록 달성(대한항공 스타리그 16강 C,D조 재경기)
+      - C조 = 5경기
+      - D조 = 12경기
+  - 스타리그 사상 최장 시간 생방송 기록 달성(예선전 제외)(7시간 23분)
+  - 스타리그 사상 통산 2번째 재재재경기 돌입 (D조 재경기)
+  - 스타리그 사상 최다 재경기 기록 갱신\[9\]
+  - 스타리그 사상 첫 재재재재경기 돌입
+      - 16강 D조 재경기 이영한 vs 김창희 vs 김정우 경기에서 총 12경기의 재경기가 나옴.
+
+## 사용 맵 정보
+
+| 종족     | Great Barrier Reef | 투혼  | 태풍의 눈 | Match Point |
+| ------ | ------------------ | --- | ----- | ----------- |
+| 인원     | 3                  | 4   | 4     | 2           |
+| P vs Z | 5:5                | 2:5 | 1:1   | 3:1         |
+| Z vs T | 6:10               | 9:5 | 6:6   | 3:5         |
+| T vs P | 4:3                | 2:4 | 4:5   | 2:1         |
+| Z vs Z | 6번                 | 3번  | 3번    | 2번          |
+| T vs T | 3번                 | 2번  | 1번    | 0번          |
+| P vs P | 0번                 | 2번  | 0번    | 1번          |
+
+## 각주
+
+<references/>
+
+## 외부 링크
+
+  - [대한항공 스타리그 팀리퀴드 페이지](http://www.teamliquid.net/forum/viewmessage.php?topic_id=112577)
+  - [대한항공 스타리그 2010 마이크로 사이트](https://web.archive.org/web/20100220184726/http://oceania.koreanair.com/main.asp)
+  - [36강 오프닝](https://www.youtube.com/watch?v=H8QVkDL0R-E)
+  - [16강 오프닝 (일반 화질)](https://www.youtube.com/watch?v=QwdlHEm2I1M)
+  - [16강 오프닝 (원본, 16:9 HD화질)](https://www.youtube.com/watch?v=gonW165dYQo)
+  - [16강 오프닝 (수정본)](https://www.youtube.com/watch?v=c8fUGUZM-lM)
+  - [결승전 오프닝 (쇼트 버전)](https://www.youtube.com/watch?v=0qk-tlsIhOw)
+  - [결승전 오프닝 (풀 버전)](https://www.youtube.com/watch?v=YZzDRREUkf4)
+
+[분류:스타리그](https://ko.wikipedia.org/wiki/분류:스타리그 "wikilink") [분류:2010년 이스포츠](https://ko.wikipedia.org/wiki/분류:2010년_이스포츠 "wikilink")
+
+1.  [대한항공, 대표 e스포츠 '스타리그' 후원한다](http://www.mt.co.kr/view/mtview.php?type=1&no=2010011923382041080&outlink=1issue) 머니투데이, 2010년 01월 20일
+2.  [약도와 교통 안내, 온게임넷 홈페이지](http://www.ongamenet.com/broadcasting/tpl/leagueHtmlPage.ogn?leagueId=KoreanAir&mIdx=5662)
+3.  [대한항공 스타리그 결승전. 김포공항 격납고에서 열린다](http://esports.dailygame.co.kr/news/view.daily?idx=26373) 데일리e스포츠 2010년 05월 07일
+4.  [대한항공 스타리그 2010, 결승전은 대한항공 본사 격납고\!\!](http://www.fomos.kr/board/board.php?mode=read&keyno=106527&db=issue) 포모스 2010년 05월 07일
+5.  엘니뇨를 Twilight 타일셋으로 바꾸면서 미네랄 양을 조절했다. 맵의 테마는 [그레이트배리어리프](../Page/그레이트배리어리프.md "wikilink")에서 따왔다.
+6.  [대한항공 스타리그 예선전 경기, 입맛대로 골라 본다\!](http://www.fomos.kr/board/board.php?mode=read&keyno=103599&db=issue) 포모스, 2010년 02월 02일
+7.
+8.  결승전을 하기 전 당시 김정우의 2010시즌 대 테란전 승률은 5승 11패였다.
+9.

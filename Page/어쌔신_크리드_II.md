@@ -1,0 +1,42 @@
+> This article is converted from Wikipedia: [  II](https://ko.wikipedia.org/wiki/__II).
+
+
+**어쌔신 크리드 II**(Assassin's Creed II)는 3인칭 액션 어드벤처 비디오 게임으로 [유비소프트 몬트리올이](https://ko.wikipedia.org/wiki/유비소프트_몬트리올 "wikilink") 개발하고 유비소프트가 배급했다. 어쌔신 크리드 시리즈의 두 번째 작품이며, 에지오 3부작에서 첫 번째 작품이다. [엑스박스 360과](https://ko.wikipedia.org/wiki/엑스박스_360 "wikilink") [PS3](https://ko.wikipedia.org/wiki/플레이스테이션_3 "wikilink") 버전은 2009년 12월 17일 발매되었으며 PC버전은 2010년 3월 12일 발매되었다.
+
+어쌔신 크리드 시리즈의 배경은 실제 역사에서 통제와 평화를 추구하는 기사단과 자유와 평화를 추구하는 암살단의 대결 구도로 구성된다. 어쌔신 크리드 II에서는 현대에 데스몬드 마일즈가 애니머스 기계장치를 통해 자신의 선조인 [에지오 아디토레 데 피렌체의](https://ko.wikipedia.org/wiki/에지오_아우디토레_다_피렌체 "wikilink") 연대기를 들여다보는 액자식 구조의 이야기를 다루고 있다. 주요 배경은 15세기 말 [르네상스](https://ko.wikipedia.org/wiki/르네상스 "wikilink") 시대 [이탈리아](https://ko.wikipedia.org/wiki/이탈리아 "wikilink") [피렌체](https://ko.wikipedia.org/wiki/피렌체 "wikilink"), [베네치아](https://ko.wikipedia.org/wiki/베네치아 "wikilink"), [토스카나주](https://ko.wikipedia.org/wiki/토스카나주 "wikilink"), [포를리](../Page/포를리.md "wikilink")이며, 에지오를 조종하면서 그 시대의 이탈리아 풍경과 역사적 상황을 재구성한 모습을 엿볼 수 있다.
+
+
+
+## 게임 방식
+
+전작과 같이 3인칭 시점을 채택하여 360°돌려가며 자유롭게 돌아볼 수 있다. 주 무대는 [피렌체](https://ko.wikipedia.org/wiki/피렌체 "wikilink"), [베네치아](https://ko.wikipedia.org/wiki/베네치아 "wikilink"), [토스카나주](https://ko.wikipedia.org/wiki/토스카나주 "wikilink"), [포를리](../Page/포를리.md "wikilink"), [몬테리오지니이며](../Page/몬테리조니.md "wikilink"), 준[오픈월드](https://ko.wikipedia.org/wiki/오픈월드 "wikilink") 방식으로 지역간에 이동은 로딩이 필요하지만, 지역내에서는 자유롭게 이동할 수 있다. 다만, 일부 지역은 게임 진행 상황에 따라 차차 해금되며, 일부 맵은 DLC 컨텐츠로 해금해야 한다. 게임에서 주 임무는 표적을 암살하는 것이고, 수행하는 중에 전투, 지형지물을 이용한 파쿠르, 군중을 이용한 은신 등을 할 수 있다.
+
+게임에서 주 임무는 표적을 암살하는 것이지만, 상황에 따라 전투를 치뤄야 한다. 암살은 군중에 숨어있거나 지형지물 사이에 은폐 중에 비무장 대상으로 수행 할 수 있다. 무기는 주로 암살 전용 검을 사용하며, 상황에 따라 총을 이용하기도 한다. 어쌔신 크리드 II에서는 전작과 달리 암살검을 양손에 착용하기 때문에 두 명을 동시에 암살하는 것도 가능하다. 암살검은 작중 [레오나르도 다 빈치로부터](https://ko.wikipedia.org/wiki/레오나르도_다_빈치 "wikilink") 수리를 받아야 사용 할 수 있으며, 총 또한 업그레이드를 받아 사용 할 수 있다. 전투는 무장한 대상과 할 수 있으며, 주로 마을을 돌아니거나 표적을 지키는 병사들과 치룬다. 무기는 일반무기, 소형무기, 투척무기가 있으며, 이 외에도 맨주먹으로 싸우거나 무기를 뺏는 등의 다양한 전투가 가능하다.
+
+이동은 걷기, 전력질주 그리고 벽을 타거나 기둥에 매달리는 파쿠르로 할 수 있다. 지붕 위로 다니거나 높은 곳으로 올라가 주변 지도를 확보할 수 있으며, 낮은 곳으로 낙하하며 표적을 암살 할 수도 있다. 또, 지푸라기 더미 안으로 안전하게 낙하하여 은신할 수 있으며, 물에서 수영하며 이동하고, 잠수로 은신할 수 있다.
+
+게임 진행 중에 경주나 편지 배달 임무, 암살 계약 등의 보조 임무를 수행 할 수 있으며, 맵을 돌아다니다가 매의 눈으로 발견 할 수 있는 문양들을 통해 퍼즐들을 풀어 게임에 숨겨진 이야기를 찾을 수도 있다.
+
+## 후속편
+
+**어쌔신 크리드 브라더후드**
+
+어쌔신 크리드 2 이후의 이야기로, [체사레 보르지아에](https://ko.wikipedia.org/wiki/체사레_보르지아 "wikilink") 의해 빌라 아디토레가 공격받고,복수와 재건을 위해 로마로 떠나는 이야기다. 동료 암살자의 고용과 상점을 사는 등의 간단한 경제시스템이 추가되었으며, 전투시스템적 측면에 있어서도 연속집행이라는 연속적으로 적 NPC를 죽이는게 가능한 기능이 추가되는 등 많은 발전이 있었다. 그 외에 완전동기화라는 미션 상의 제약을 설정하여 플레이어의 도전욕구를 자극하게 되었다. 시리즈 최초로 멀티플레이 요소가 들어갔다.
+
+**어쌔신 크리드 레벨레이션**
+
+어쌔신 크리드 브라더후드 이후의 이야기로, 에지오는 성전 기사단과 암살단의 대립속에서 진정한 자신의 목표를 찾기 위해, 알테어가 남겼다고 내려오는 지식을 찾아 암살자들의 고향인 마시아프로 떠나게된다. 그러나 그곳은 성당기사단에 점령당해 있었고, 그들 또한 알테어가 남긴 지식을 찾고 있음을 알게되고, [콘스탄티노플](https://ko.wikipedia.org/wiki/콘스탄티노플 "wikilink")이 주요 활동지임을 깨닫게 되어 그곳으로 향하게 된다. 전작의 특징을 대부분 계승하였으며, 특이하게 암살자들의 기지를 방어하는 디펜스 게임이 들어갔다. 멀티플레이 요소 또한 강화되어 레벨이 올라가면 성당기사단의 비밀지식이 해금되게 하여 플레이어에게 게임을 할 동기를 제공하고 있다.
+
+## 기타
+
+[이탈리아](https://ko.wikipedia.org/wiki/이탈리아 "wikilink") [르네상스](https://ko.wikipedia.org/wiki/르네상스 "wikilink")시대의 기술자이자 [화가](https://ko.wikipedia.org/wiki/화가 "wikilink")인 [레오나르도 다 빈치가](https://ko.wikipedia.org/wiki/레오나르도_다_빈치 "wikilink") 에지오의 친구로 등장하며 게임전반에 걸쳐 많은 도움을 준다.
+
+이외에도 [니콜로 마키아벨리](https://ko.wikipedia.org/wiki/니콜로_마키아벨리 "wikilink"), [카테리나 스포르차](https://ko.wikipedia.org/wiki/카테리나_스포르차 "wikilink"), [로렌초 데 메디치](../Page/로렌초_데_메디치.md "wikilink"), 후에 [교황 알렉산데르 6세가](https://ko.wikipedia.org/wiki/교황_알렉산데르_6세 "wikilink") 되는 [로드리고 보르자등의](https://ko.wikipedia.org/wiki/로드리고_보르자 "wikilink") 실존인물들이 게임에 등장하며 [피렌체 대성당과](../Page/피렌체_대성당.md "wikilink") 베네치아의 [산 마르코 대성당](https://ko.wikipedia.org/wiki/산_마르코_대성당 "wikilink") 같은 실존 건물들이 등장한다.
+
+## 찬조출연
+
+[반다이남코게임즈](https://ko.wikipedia.org/wiki/반다이남코게임즈 "wikilink")의 대전격투 게임인 [소울칼리버](../Page/소울칼리버.md "wikilink") 5에 에지오 아우디토레 다 피렌체가 등장한다.
+
+## 참조
+
+[분류:2009년 비디오 게임](https://ko.wikipedia.org/wiki/분류:2009년_비디오_게임 "wikilink") [분류:어쌔신 크리드 시리즈](https://ko.wikipedia.org/wiki/분류:어쌔신_크리드_시리즈 "wikilink") [분류:플레이스테이션 3 게임](https://ko.wikipedia.org/wiki/분류:플레이스테이션_3_게임 "wikilink") [분류:엑스박스 360 게임](https://ko.wikipedia.org/wiki/분류:엑스박스_360_게임 "wikilink") [분류:액션 게임](https://ko.wikipedia.org/wiki/분류:액션_게임 "wikilink") [분류:액션 어드벤처 게임](https://ko.wikipedia.org/wiki/분류:액션_어드벤처_게임 "wikilink") [분류:유비소프트 엔터테인먼트의 게임](https://ko.wikipedia.org/wiki/분류:유비소프트_엔터테인먼트의_게임 "wikilink") [분류:피렌체를 배경으로 한 작품](https://ko.wikipedia.org/wiki/분류:피렌체를_배경으로_한_작품 "wikilink") [분류:이탈리아를 배경으로 한 비디오 게임](https://ko.wikipedia.org/wiki/분류:이탈리아를_배경으로_한_비디오_게임 "wikilink") [분류:15세기를 배경으로 한 비디오 게임](https://ko.wikipedia.org/wiki/분류:15세기를_배경으로_한_비디오_게임 "wikilink") [분류:MacOS 게임](https://ko.wikipedia.org/wiki/분류:MacOS_게임 "wikilink") [분류:플레이스테이션 4 게임](https://ko.wikipedia.org/wiki/분류:플레이스테이션_4_게임 "wikilink") [분류:윈도우 게임](https://ko.wikipedia.org/wiki/분류:윈도우_게임 "wikilink") [분류:엑스박스 원 게임](https://ko.wikipedia.org/wiki/분류:엑스박스_원_게임 "wikilink")

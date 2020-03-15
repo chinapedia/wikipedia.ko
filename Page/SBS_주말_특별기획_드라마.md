@@ -1,0 +1,351 @@
+> This article is converted from Wikipedia: [SBS   ](https://ko.wikipedia.org/wiki/SBS___).
+
+
+**SBS 주말 특별기획 드라마**는 [SBS에서](https://ko.wikipedia.org/wiki/SBS_\(대한민국의_방송사\) "wikilink") [토요일](https://ko.wikipedia.org/wiki/토요일 "wikilink") 밤 9시 5분에 방송되는 [텔레비전 드라마이다](../Page/텔레비전_드라마.md "wikilink"). 대부분 16부작에서 30부작 사이의 미니시리즈 형식으로 방영되었으나 50부작에서 120부작이 넘는 장편 드라마도 방영되었다.
+
+이 시간대의 첫 드라마인 《[코리아게이트](https://ko.wikipedia.org/wiki/코리아게이트_\(드라마\) "wikilink")》는 토요일 2회 연속 방영되었으며, 이어 재방송된 《[모래시계](https://ko.wikipedia.org/wiki/모래시계_\(드라마\) "wikilink")》는 한 주에 4회(수\~목, 토\~일)에 걸쳐 방영되었다.
+
+[1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") [5월 17일에](https://ko.wikipedia.org/wiki/5월_17일 "wikilink") 《[삼김시대](../Page/삼김시대_\(드라마\).md "wikilink")》를 마지막으로 중지되었다가 이후 [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [3월 2일](https://ko.wikipedia.org/wiki/3월_2일 "wikilink") 《[유리구두](../Page/유리구두.md "wikilink")》로 부활하였다. 그러나, [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [10월 30일에](https://ko.wikipedia.org/wiki/10월_30일 "wikilink") 《[고호의 별이 빛나는 밤에](https://ko.wikipedia.org/wiki/고호의_별이_빛나는_밤에 "wikilink")》를 마지막으로 다시 폐지되었다.
+
+[2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [4월 15일](https://ko.wikipedia.org/wiki/4월_15일 "wikilink") 부터 《[언니는 살아있다](../Page/언니는_살아있다.md "wikilink")》를 시작으로 다시 토요일 밤 8시 45분에 편성하여 방영되었다. 토요일 2회 연속 방영하다가 [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [9월 2일](https://ko.wikipedia.org/wiki/9월_2일 "wikilink") 부터는 1회당 35분 분량으로 4회 연속 방영되었다. [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [7월 14일](https://ko.wikipedia.org/wiki/7월_14일 "wikilink") 부터는 토요일 9시 5분에 1회당 30분 분량을 4회 연속 방영되었다.
+
+한편, [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [2월 9일](https://ko.wikipedia.org/wiki/2월_9일 "wikilink") 《[운명과 분노](../Page/운명과_분노_\(2018년_드라마\).md "wikilink")》를 끝으로 **주말 특별기획 드라마**는 막을 내렸고 후속작인 《[열혈사제](../Page/열혈사제.md "wikilink")》는 신설된 **[금토드라마](../Page/SBS_금토드라마.md "wikilink")**로 편성되었다.\[1\]
+
+## 방송 시간
+
+<table>
+<thead>
+<tr class="header">
+<th><p>방송 채널</p></th>
+<th><p>방송 기간</p></th>
+<th><p>방송 시간</p></th>
+<th><p>방송 분량</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/SBS_TV" title="wikilink">SBS</a></p></td>
+<td><p>1995년 10월 21일 ~ 1995년 12월 23일</p></td>
+<td><p>매주 <a href="https://ko.wikipedia.org/wiki/토요일" title="wikilink">토요일</a> 밤 8시 50분 ~ 10시 50분</p></td>
+<td><p>2시간<br />
+(회당 60분 2회 연속 방송)</p></td>
+</tr>
+<tr class="even">
+<td><p>1996년 11월 10일 ~ 1997년 6월 8일</p></td>
+<td><p>매주 토요일 밤 9시 50분 ~ 10시 50분</p></td>
+<td><p>1시간</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1998년 1월 17일 ~ 1998년 5월 17일</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2002년 3월 2일 ~ 2008년 3월 30일</p></td>
+<td><p>매주 <a href="https://ko.wikipedia.org/wiki/주말" title="wikilink">주말</a> 밤 9시 55분 ~ 11시 5분</p></td>
+<td><p>1시간 10분</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2008년 4월 5일 ~ 2008년 4월 6일</p></td>
+<td><p>매주 주말 밤 10시 ~ 11시 10분</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2008년 4월 12일 ~ 2008년 5월 18일</p></td>
+<td><p>매주 주말 밤 10시 ~ 11시 15분</p></td>
+<td><p>1시간 15분</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2008년 5월 24일 ~ 2008년 10월 19일</p></td>
+<td><p>매주 주말 밤 10시 ~ 11시 20분</p></td>
+<td><p>1시간 20분</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2008년 10월 25일 ~ 2009년 4월 19일</p></td>
+<td><p>매주 주말 밤 10시 ~ 11시 10분</p></td>
+<td><p>1시간 10분</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2008년 4월 25일 ~ 2010년 1월 3일</p></td>
+<td><p>매주 주말 밤 10시 ~ 11시 20분</p></td>
+<td><p>1시간 20분</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2010년 1월 9일 ~ 2010년 3월 7일</p></td>
+<td><p>매주 주말 밤 10시 ~ 11시 10분</p></td>
+<td><p>1시간 10분</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2010년 3월 20일 ~ 2010년 6월 6일</p></td>
+<td><p>매주 주말 밤 10시 ~ 11시 20분</p></td>
+<td><p>1시간 20분</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2010년 7월 4일 ~ 2010년 11월 7일</p></td>
+<td><p>매주 주말 밤 10시 ~ 11시 10분</p></td>
+<td><p>1시간 10분</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2010년 11월 13일 ~ 2010년 11월 21일</p></td>
+<td><p>매주 주말 밤 9시 50분 ~ 11시</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2010년 11월 27일 ~ 2011년 1월 16일</p></td>
+<td><p>매주 주말 밤 9시 50분 ~ 11시 10분</p></td>
+<td><p>1시간 20분</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2011년 1월 23일 ~ 2011년 7월 31일</p></td>
+<td><p>매주 주말 밤 9시 50분 ~ 11시</p></td>
+<td><p>1시간 10분</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2011년 8월 6일 ~ 2011년 9월 25일</p></td>
+<td><p>매주 주말 밤 9시 50분 ~ 11시 10분</p></td>
+<td><p>1시간 20분</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2011년 10월 1일 ~ 2012년 5월 6일</p></td>
+<td><p>매주 주말 밤 9시 50분 ~ 11시</p></td>
+<td><p>1시간 10분</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2012년 5월 12일 ~ 2012년 7월 22일</p></td>
+<td><p>매주 주말 밤 9시 50분 ~ 11시 10분</p></td>
+<td><p>1시간 20분</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2012년 8월 18일 ~ 2012년 10월 28일</p></td>
+<td><p>매주 주말 밤 9시 50분 ~ 11시</p></td>
+<td><p>1시간 10분</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2012년 11월 3일 ~ 2013년 2월 24일</p></td>
+<td><p>매주 주말 밤 9시 55분 ~ 11시 5분</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2013년 3월 2일 ~ 2013년 3월 31일</p></td>
+<td><p>매주 주말 밤 10시 ~ 11시 10분</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2013년 4월 6일 ~ 2015년 3월 15일</p></td>
+<td><p>매주 주말 밤 9시 55분 ~ 11시 15분</p></td>
+<td><p>1시간 20분</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2015년 3월 21일 ~ 2016년 2월 7일</p></td>
+<td><p>매주 주말 밤 10시 ~ 11시 10분</p></td>
+<td><p>1시간 10분</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2016년 2월 13일 ~ 2016년 10월 16일</p></td>
+<td><p>매주 주말 밤 9시 55분 ~ 11시 10분</p></td>
+<td><p>1시간 15분</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2016년 10월 22일 ~ 2016년 10월 30일</p></td>
+<td><p>매주 주말 밤 9시 55분 ~ 11시 5분</p></td>
+<td><p>1시간 10분</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2017년 4월 15일 ~ 2017년 8월 26일</p></td>
+<td><p>매주 토요일 밤 8시 45분 ~ 11시 5분</p></td>
+<td><p>2시간 20분<br />
+(회당 70분 2회 연속 방송)</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2017년 9월 2일 ~ 2017년 10월 14일</p></td>
+<td><p>2시간 20분<br />
+(회당 35분 4회 연속 방송)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2017년 10월 21일 ~ 2018년 7월 7일</p></td>
+<td><p>매주 토요일 밤 8시 55분 ~ 11시 15분</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2018년 7월 14일 ~ 2019년 2월 9일</p></td>
+<td><p>매주 토요일 밤 9시 5분 ~ 11시 5분</p></td>
+<td><p>2시간<br />
+(회당 30분 4회 연속 방송)</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 작품 리스트
+
+### 1990년대 후반
+
+  - 《[코리아게이트](https://ko.wikipedia.org/wiki/코리아게이트_\(드라마\) "wikilink")》 : 1995년 10월 21일 \~ 1995년 12월 23일
+  - 《[임꺽정](../Page/임꺽정_\(1996년_드라마\).md "wikilink")》 : 1996년 11월 10일 \~ 1997년 4월 6일
+  - 《[아름다운 그녀](https://ko.wikipedia.org/wiki/아름다운_그녀 "wikilink")》 : 1997년 4월 19일 \~ 1997년 6월 8일
+  - 《[모래시계](https://ko.wikipedia.org/wiki/모래시계_\(드라마\) "wikilink")》 : 1998년 1월 14일 \~ 1998년 2월 22일
+  - 《[삼김시대](../Page/삼김시대_\(드라마\).md "wikilink")》 : 1998년 2월 28일 \~ 1998년 5월 17일
+
+### 2000년대 전반
+
+#### 2002년
+
+  - 《[유리구두](../Page/유리구두.md "wikilink")》 : 2002년 3월 2일 \~ 2002년 7월 28일
+  - 《[라이벌](https://ko.wikipedia.org/wiki/라이벌_\(드라마\) "wikilink")》 : 2002년 8월 3일 \~ 2002년 10월 6일
+  - 《[대망](https://ko.wikipedia.org/wiki/대망_\(2002년_드라마\) "wikilink")》 : 2002년 10월 12일 \~ 2003년 1월 5일
+
+#### 2003년
+
+  - 《[태양 속으로](https://ko.wikipedia.org/wiki/태양_속으로 "wikilink")》 : 2003년 1월 11일 \~ 2003년 3월 16일
+  - 《[천년지애](../Page/천년지애.md "wikilink")》 : 2003년 3월 22일 \~ 2003년 5월 25일
+  - 《[스크린](https://ko.wikipedia.org/wiki/스크린_\(드라마\) "wikilink")》 : 2003년 5월 31일 \~ 2003년 7월 27일
+  - 《[첫사랑](https://ko.wikipedia.org/wiki/첫사랑_\(2003년_드라마\) "wikilink")》 : 2003년 8월 2일 \~ 2003년 9월 28일
+  - 《[완전한 사랑](https://ko.wikipedia.org/wiki/완전한_사랑 "wikilink")》 : 2003년 10월 4일 \~ 2003년 12월 21일
+
+#### 2004년
+
+  - 《[발리에서 생긴 일](https://ko.wikipedia.org/wiki/발리에서_생긴_일 "wikilink")》 : 2004년 1월 3일 \~ 2004년 3월 7일
+  - 《[폭풍 속으로](https://ko.wikipedia.org/wiki/폭풍_속으로_\(2004년_드라마\) "wikilink")》 : 2004년 3월 13일 \~ 2004년 5월 30일
+  - 《[파리의 연인](https://ko.wikipedia.org/wiki/파리의_연인 "wikilink")》 : 2004년 6월 12일 \~ 2004년 8월 15일
+  - 《[매직](https://ko.wikipedia.org/wiki/매직_\(드라마\) "wikilink")》 : 2004년 8월 28일 \~ 2004년 10월 17일
+  - 《[마지막 춤은 나와 함께](https://ko.wikipedia.org/wiki/마지막_춤은_나와_함께_\(드라마\) "wikilink")》 : 2004년 10월 23일 \~ 2005년 1월 2일
+
+#### 2005년
+
+  - 《[봄날](https://ko.wikipedia.org/wiki/봄날_\(드라마\) "wikilink")》 : 2005년 1월 8일 \~ 2005년 3월 13일
+  - 《[그린 로즈](https://ko.wikipedia.org/wiki/그린_로즈 "wikilink")》 : 2005년 3월 19일 \~ 2005년 5월 29일
+  - 《[온리 유](https://ko.wikipedia.org/wiki/온리_유_\(드라마\) "wikilink")》 : 2005년 6월 4일 \~ 2005년 7월 24일
+  - 《[해변으로 가요](https://ko.wikipedia.org/wiki/해변으로_가요 "wikilink")》 : 2005년 7월 30일 \~ 2005년 9월 11일
+  - 《[프라하의 연인](../Page/프라하의_연인.md "wikilink")》 : 2005년 9월 24일 \~ 2005년 11월 20일
+  - 《[백만장자와 결혼하기](https://ko.wikipedia.org/wiki/백만장자와_결혼하기 "wikilink")》 : 2005년 11월 26일 \~ 2006년 1월 22일
+
+### 2000년대 후반
+
+#### 2006년
+
+  - 《[사랑과 야망](../Page/사랑과_야망_\(2006년_드라마\).md "wikilink")》 : 2006년 2월 4일 \~ 2006년 11월 12일
+  - 《[게임의 여왕](../Page/게임의_여왕.md "wikilink")》 : 2006년 11월 18일 \~ 2007년 1월 28일
+
+#### 2007년
+
+  - 《[사랑에 미치다](https://ko.wikipedia.org/wiki/사랑에_미치다 "wikilink")》 : 2007년 2월 3일 \~ 2007년 4월 1일
+  - 《[푸른 물고기](https://ko.wikipedia.org/wiki/푸른_물고기 "wikilink")》 : 2007년 4월 7일 \~ 2007년 5월 27일
+  - 《[불량 커플](https://ko.wikipedia.org/wiki/불량_커플 "wikilink")》 : 2007년 6월 2일 \~ 2007년 7월 22일
+  - 《[칼잡이 오수정](https://ko.wikipedia.org/wiki/칼잡이_오수정 "wikilink")》 : 2007년 7월 28일 \~ 2007년 9월 16일
+  - 《[조강지처 클럽](../Page/조강지처_클럽_\(드라마\).md "wikilink")》 : 2007년 9월 29일 \~ 2008년 10월 5일
+
+#### 2008년
+
+  - 《[가문의 영광](../Page/가문의_영광_\(드라마\).md "wikilink")》 : 2008년 10월 11일 \~ 2009년 4월 19일
+
+#### 2009년
+
+  - 《[찬란한 유산](../Page/찬란한_유산.md "wikilink")》 : 2009년 4월 25일 \~ 2009년 7월 26일
+  - 《[스타일](https://ko.wikipedia.org/wiki/스타일_\(드라마\) "wikilink")》 : 2009년 8월 1일 \~ 2009년 9월 20일
+  - 《[그대, 웃어요](https://ko.wikipedia.org/wiki/그대,_웃어요 "wikilink")》 : 2009년 9월 26일 \~ 2010년 3월 7일
+
+### 2010년대 전반
+
+#### 2010년
+
+  - 《[인생은 아름다워](https://ko.wikipedia.org/wiki/인생은_아름다워_\(2010년_드라마\) "wikilink")》 : 2010년 3월 20일 \~ 2010년 11월 7일
+  - 《[시크릿 가든](../Page/시크릿_가든_\(드라마\).md "wikilink")》 : 2010년 11월 13일 \~ 2011년 1월 16일
+
+#### 2011년
+
+  - 《[신기생뎐](../Page/신기생뎐_\(드라마\).md "wikilink")》 : 2011년 1월 23일 \~ 2011년 7월 17일
+  - 《[여인의 향기](../Page/여인의_향기_\(드라마\).md "wikilink")》 : 2011년 7월 23일 \~ 2011년 9월 11일
+  - 《[폼나게 살거야](../Page/폼나게_살거야.md "wikilink")》 : 2011년 9월 17일 \~ 2012년 3월 11일
+
+#### 2012년
+
+  - 《[바보엄마](../Page/바보엄마.md "wikilink")》 : 2012년 3월 17일 \~ 2012년 5월 20일
+  - 《[신사의 품격](../Page/신사의_품격.md "wikilink")》 : 2012년 5월 26일 \~ 2012년 8월 12일
+  - 《[다섯 손가락](../Page/다섯_손가락_\(드라마\).md "wikilink")》 : 2012년 8월 18일 \~ 2012년 11월 25일
+  - 《[청담동 앨리스](https://ko.wikipedia.org/wiki/청담동_앨리스 "wikilink")》 : 2012년 12월 1일 \~ 2013년 1월 27일
+
+#### 2013년
+
+  - 《[돈의 화신](../Page/돈의_화신.md "wikilink")》 : 2013년 2월 2일 \~ 2013년 4월 21일
+  - 《[출생의 비밀](../Page/출생의_비밀.md "wikilink")》 : 2013년 4월 27일 \~ 2013년 6월 23일
+  - 《[결혼의 여신](../Page/결혼의_여신.md "wikilink")》 : 2013년 6월 29일 \~ 2013년 10월 27일
+  - 《[세 번 결혼하는 여자](https://ko.wikipedia.org/wiki/세_번_결혼하는_여자 "wikilink")》 : 2013년 11월 9일 \~ 2014년 3월 30일
+
+#### 2014년
+
+  - 《[엔젤 아이즈](https://ko.wikipedia.org/wiki/엔젤_아이즈_\(드라마\) "wikilink")》 : 2014년 4월 5일 \~ 2014년 6월 15일
+  - 《[끝없는 사랑](https://ko.wikipedia.org/wiki/끝없는_사랑_\(2014년_드라마\) "wikilink")》 : 2014년 6월 21일 \~ 2014년 10월 26일
+  - 《[미녀의 탄생](../Page/미녀의_탄생.md "wikilink")》 : 2014년 11월 1일 \~ 2015년 1월 11일
+
+### 2010년대 후반
+
+#### 2015년
+
+  - 《[내 마음 반짝반짝](https://ko.wikipedia.org/wiki/내_마음_반짝반짝 "wikilink")》 : 2015년 1월 17일 \~ 2015년 4월 12일
+  - 《[이혼변호사는 연애중](https://ko.wikipedia.org/wiki/이혼변호사는_연애중 "wikilink")》 : 2015년 4월 18일 \~ 2015년 6월 14일(오후 8시 45분애서 오후 10시로 변경)
+  - 《[너를 사랑한 시간](https://ko.wikipedia.org/wiki/너를_사랑한_시간 "wikilink")》 : 2015년 6월 27일 \~ 2015년 8월 16일
+  - 《[애인 있어요](https://ko.wikipedia.org/wiki/애인_있어요 "wikilink")》 : 2015년 8월 22일 \~ 2016년 2월 28일
+
+#### 2016년
+
+  - 《[미세스 캅 2](https://ko.wikipedia.org/wiki/미세스_캅_2 "wikilink")》 : 2016년 3월 5일 \~ 2016년 5월 8일
+  - 《[미녀 공심이](https://ko.wikipedia.org/wiki/미녀_공심이 "wikilink")》 : 2016년 5월 14일 \~ 2016년 7월 17일
+  - 《[끝에서 두번째 사랑](https://ko.wikipedia.org/wiki/끝에서_두번째_사랑 "wikilink")》 : 2016년 7월 30일 \~ 2016년 10월 16일
+  - 《[고호의 별이 빛나는 밤에](https://ko.wikipedia.org/wiki/고호의_별이_빛나는_밤에 "wikilink")》 : 2016년 10월 22일 \~ 2016년 10월 30일(오후 10시 주말드라마 폐지)
+
+#### 2017년
+
+  - 《[언니는 살아있다](../Page/언니는_살아있다.md "wikilink")》 : 2017년 4월 15일 \~ 2017년 10월 14일
+  - 《[브라보 마이 라이프](../Page/브라보_마이_라이프_\(드라마\).md "wikilink")》 : 2017년 10월 21일 \~ 2018년 2월 3일
+
+#### 2018년
+
+  - 《[착한마녀전](../Page/착한마녀전.md "wikilink")》 : 2018년 3월 3일 \~ 2018년 5월 5일
+  - 《[시크릿 마더](../Page/시크릿_마더.md "wikilink")》 : 2018년 5월 12일 \~ 2018년 7월 7일
+  - 《[그녀로 말할 것 같으면](../Page/그녀로_말할_것_같으면.md "wikilink")》 : 2018년 7월 14일 \~ 2018년 9월 29일
+  - 《[미스 마 - 복수의 여신](../Page/미스_마_-_복수의_여신.md "wikilink")》 : 2018년 10월 6일 \~ 2018년 11월 24일
+  - 《[운명과 분노](../Page/운명과_분노_\(2018년_드라마\).md "wikilink")》 : 2018년 12월 1일 \~ 2019년 2월 9일 (SBS 주말 특별기획 드라마 폐지)
+
+## 각주
+
+## 같이 보기
+
+  - [한국방송공사 주말연속극](../Page/한국방송공사_주말연속극.md "wikilink")
+  - [한국방송공사 주말 특별기획 드라마](https://ko.wikipedia.org/wiki/한국방송공사_주말_특별기획_드라마 "wikilink")
+  - [문화방송 주말연속극](../Page/문화방송_주말연속극.md "wikilink")
+  - [문화방송 주말 특별기획 드라마](../Page/문화방송_주말_특별기획_드라마.md "wikilink")
+  - [SBS 주말극장](../Page/SBS_주말극장.md "wikilink")
+  - [SBS 주말드라마](../Page/SBS_주말드라마.md "wikilink")
+  - [SBS 금토드라마](../Page/SBS_금토드라마.md "wikilink")
+
+[분류:SBS의 텔레비전 드라마](https://ko.wikipedia.org/wiki/분류:SBS의_텔레비전_드라마 "wikilink") [\*](https://ko.wikipedia.org/wiki/분류:SBS_주말_특별기획_드라마 "wikilink")
+
+1.

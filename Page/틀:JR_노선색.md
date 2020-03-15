@@ -1,0 +1,6 @@
+> This article is converted from Wikipedia: [:JR ](https://ko.wikipedia.org/wiki/:JR_).
+
+
+<onlyinclude>\#{{\#switch: |E = 0a8c0d |JT|JU|E-TOKA = FFA500 |JO|E-YOKO = 0070B9 |JK|E-KETO = 00BFFF |JH|JY|E-YAMA = 9ACD32 |JC|JM|E-CHUO = FF4500 |JN|JI|JB|E-SOBU = FFD700 |JA|E-SAIK = 2E8B57 |JJ|E-JOBA = 3CB371 |JL = 808080 |JE|E-KEYO = DC143C |JS|E-SHON = FF0000 |E-HACH = a8a39d |E-NARI = 00b261 |E-SAGA = 009793 |E-MITO = 0072bc |E-SOTO = db4028 |E-UCHI = 00b9f1 |E-KURU = 00b5ad |E-BOSO = ffc20d |E-KASH = c56e2e |E-AGAT = 0f5474 |E-TADA = 008dd1 |E-IYAM = 7bc24b |E-UETS = 16c0e9 |E-BANW = cb7b35 |E-YAHI = 922790 |E-OU = f68b1e |E-BANE = c71585 |TM = AE0378
+
+|W = 0072bc |W-SANY = 009966 |W-OSAK = e80000 |W-KATA = 9acd32 |W-HIGA = 335099 |W-FUKU = ffcc00 |W-TOZA = ff1493 |W-NARA = a52a2a |W-YAMA = 009933 |W-SAGA = 9370db |W-HANW = ff6600 |W-KUKO = 3333cc |W-AKO = ffcc00 |W-HAKU = ff4500 |W-UNO = 3333cc |W-TSUY = ff69b4 |W-KIBI = ffa07a |W-GEBI = ff0020 |W-FUEN = ff69b4 |W-GANT = 008056 |W-KURE = 33c033 |T = f77321 |T-SHIN = 0000cd |K = ff0000 |S = 1cadca |H = 2cb431 |H-SAPP = ed1c23 |H-GAKU = 00a54f |H-HAKO = 0072bc |H-ABAS = f7931d |H-WAKK = 954a35 |H-KUSH = 8cc63e |H-AIRP = 00b2eb |H-TAKI = f6989d |H-FURA = aa5ea6 |H-BASH = ef59a1 |F = 2d86bd |R = 835ec5 |Y = b3424a |\#default = 999999 }}</onlyinclude>

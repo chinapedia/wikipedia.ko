@@ -1,0 +1,107 @@
+> This article is converted from Wikipedia: [SBS ](https://ko.wikipedia.org/wiki/SBS_).
+
+
+**SBS 일일드라마**는 [SBS에서](https://ko.wikipedia.org/wiki/SBS_TV "wikilink") [월요일](https://ko.wikipedia.org/wiki/월요일 "wikilink")부터 [금요일](https://ko.wikipedia.org/wiki/금요일 "wikilink")까지 방영되는 일일[드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink")이다.
+
+개국 초기부터 방영된 《[유심초](https://ko.wikipedia.org/wiki/유심초_\(드라마\) "wikilink")》는 8시 뉴스가 끝난 뒤 8시 30분부터 25분 동안 방송됐으며, 이 드라마가 [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink") [3월 25일부터](https://ko.wikipedia.org/wiki/3월_25일 "wikilink") [수목 드라마로](https://ko.wikipedia.org/wiki/SBS_드라마_스페셜 "wikilink") 변경되면서 더 이상 방영되지 않았다.
+
+[1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [7월 10일](https://ko.wikipedia.org/wiki/7월_10일 "wikilink") 《[사랑의 찬가](../Page/사랑의_찬가_\(드라마\).md "wikilink")》가 편성되면서 일일드라마는 재개되었다. 《[행복은 우리 가슴에](../Page/행복은_우리_가슴에.md "wikilink")》는 《[SBS 8 뉴스](../Page/SBS_8_뉴스.md "wikilink")》가 《[SBS 9시 뉴스](https://ko.wikipedia.org/wiki/SBS_9시_뉴스 "wikilink")》로 개편됨에 따라 8시 25분에 방영됐으나, 이 작품의 실패로 후속작인 《[미아리 일번지](https://ko.wikipedia.org/wiki/미아리_일번지 "wikilink")》와 《[지평선 너머](https://ko.wikipedia.org/wiki/지평선_너머 "wikilink")》는 SBS가 《[SBS 9시 뉴스](https://ko.wikipedia.org/wiki/SBS_9시_뉴스 "wikilink")》를 《[SBS 8 뉴스](../Page/SBS_8_뉴스.md "wikilink")》로 환원함에 따라 월\~목 밤 9시에 방송됐다.
+
+SBS가 9시 20분에 편성된 《[순풍산부인과](https://ko.wikipedia.org/wiki/순풍산부인과 "wikilink")》를 통해 일일시트콤을 부활시킴에 따라\[1\] 《[지평선 너머](https://ko.wikipedia.org/wiki/지평선_너머 "wikilink")》 후속작인 《[서울 탱고](../Page/서울_탱고.md "wikilink")》부터 《[해 뜨는 집](../Page/해_뜨는_집.md "wikilink")》까지 일일드라마는 월\~금 밤 8시 55분에 방영됐다.
+
+《[지평선 너머](https://ko.wikipedia.org/wiki/지평선_너머 "wikilink")》, 《[소문난 여자](../Page/소문난_여자.md "wikilink")》에 이어 3번째로 SBS 프로덕션에 외주제작을 맡긴 《[연인](https://ko.wikipedia.org/wiki/연인_\(2003년_드라마\) "wikilink")》부터는 일일시트콤과 시간대를 맞바꿔 밤 9시 20분에 방송됐다.
+
+《[소풍가는 여자](https://ko.wikipedia.org/wiki/소풍가는_여자 "wikilink")》부터는 밤 8시 50분에 방송됐는데 SBS는 이 작품을 끝으로 일일드라마를 잠정 폐지했다.
+
+[2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [10월 8일부터](https://ko.wikipedia.org/wiki/10월_8일 "wikilink") 7시 20분에 편성된 《[그 여자가 무서워](../Page/그_여자가_무서워.md "wikilink")》를 통해 일일드라마가 다시 부활(2차)했지만 [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [6월 2일에](https://ko.wikipedia.org/wiki/6월_2일 "wikilink") 《[사랑은 방울방울](../Page/사랑은_방울방울.md "wikilink")》이 끝나면서 다시 막을 내렸다.
+
+## 방송 시간
+
+| 방송 채널                                                     | 방송 기간                         | 방송 시간       | 방송 분량 |
+| --------------------------------------------------------- | ----------------------------- | ----------- | ----- |
+| [SBS TV](https://ko.wikipedia.org/wiki/SBS_TV "wikilink") | 1991년 12월 16일 \~ 1992년 3월 20일 | 평일 밤 8시 30분 | 25분   |
+| 1995년 7월 10일 \~ 1997년 2월 28일                              | 평일 밤 8시 50분                   | 30분         |       |
+| 1997년 3월 3일 \~ 1997년 6월 27일                               | 평일 밤 8시 25분                   | 35분         |       |
+| 1997년 6월 30일 \~ 1998년 2월 26일                              | 월요일 \~ 목요일 밤 9시               | 45분         |       |
+| 1998년 3월 2일 \~ 1999년 10월 15일                              | 평일 밤 8시 55분                   | 30분         |       |
+| 1999년 10월 18일 \~ 2003년 5월 16일                             | 평일 밤 8시 45분                   |             |       |
+| 2003년 5월 19일 \~ 2004년 4월 29일                              | 평일 밤 9시 20분                   | 35분         |       |
+| 2004년 5월 3일 \~ 2004년 10월 8일                               | 평일 밤 8시 50분                   | 35분         |       |
+| 2007년 10월 8일 \~ 2017년 6월 2일                               | 평일 오후 7시 20분                  | 40분         |       |
+
+## 작품 리스트
+
+### [1990년대](https://ko.wikipedia.org/wiki/1990년대 "wikilink") 전반
+
+  - 《[유심초](https://ko.wikipedia.org/wiki/유심초_\(드라마\) "wikilink")》 : 1991년 12월 16일 \~ 1992년 3월 20일 (**전체 방송 기간** : 1991년 12월 16일 \~ 1992년 5월 14일. **일일 사극드라마**로 방송됨)
+
+### [1990년대](https://ko.wikipedia.org/wiki/1990년대 "wikilink") 후반
+
+  - 《[사랑의 찬가](../Page/사랑의_찬가_\(드라마\).md "wikilink")》 : 1995년 7월 10일 \~ 1996년 2월 2일
+  - 《[자전거를 타는 여자](../Page/자전거를_타는_여자.md "wikilink")》 : 1996년 2월 5일 \~ 1996년 8월 30일
+  - 《[엄마의 깃발](../Page/엄마의_깃발.md "wikilink")》 : 1996년 9월 2일 \~ 1997년 2월 28일
+  - 《[행복은 우리 가슴에](../Page/행복은_우리_가슴에.md "wikilink")》 : 1997년 3월 3일 \~ 1997년 6월 27일
+  - 《[미아리 일번지](https://ko.wikipedia.org/wiki/미아리_일번지 "wikilink")》 : 1997년 6월 30일 \~ 1997년 10월 22일
+  - 《[지평선 너머](https://ko.wikipedia.org/wiki/지평선_너머 "wikilink")》 : 1997년 10월 27일 \~ 1998년 2월 26일
+  - 《[서울 탱고](../Page/서울_탱고.md "wikilink")》 : 1998년 3월 2일 \~ 1998년 8월 14일
+  - 《[7인의 신부](https://ko.wikipedia.org/wiki/7인의_신부 "wikilink")》 : 1998년 8월 17일 \~ 1998년 10월 16일
+  - 《[미우나 고우나](../Page/미우나_고우나_\(1998년_드라마\).md "wikilink")》 : 1998년 10월 19일 \~ 1999년 4월 9일
+  - 《[약속](../Page/약속_\(1999년_드라마\).md "wikilink")》 : 1999년 4월 12일 \~ 1999년 9월 3일
+  - 《[당신은 누구시길래](https://ko.wikipedia.org/wiki/당신은_누구시길래_\(1999년_드라마\) "wikilink")》 : 1999년 9월 6일 \~ 2000년 9월 15일
+
+### [2000년대](https://ko.wikipedia.org/wiki/2000년대 "wikilink") 전반
+
+  - 《[자꾸만 보고싶네](https://ko.wikipedia.org/wiki/자꾸만_보고싶네 "wikilink")》 : 2000년 9월 18일 \~ 2001년 3월 30일
+  - 《[소문난 여자](../Page/소문난_여자.md "wikilink")》 : 2001년 4월 2일 \~ 2001년 10월 5일
+  - 《[이 부부가 사는 법](https://ko.wikipedia.org/wiki/이_부부가_사는_법 "wikilink")》 : 2001년 10월 8일 \~ 2002년 3월 29일
+  - 《[오남매](https://ko.wikipedia.org/wiki/오남매 "wikilink")》 : 2002년 4월 1일 \~ 2002년 10월 18일
+  - 《[해 뜨는 집](../Page/해_뜨는_집.md "wikilink")》 : 2002년 10월 21일 \~ 2003년 5월 16일
+  - 《[연인](https://ko.wikipedia.org/wiki/연인_\(2003년_드라마\) "wikilink")》 : 2003년 5월 19일 \~ 2003년 10월 21일
+  - 《[흥부네 박터졌네](../Page/흥부네_박터졌네.md "wikilink")》 : 2003년 10월 27일 \~ 2004년 4월 29일
+  - 《[소풍가는 여자](https://ko.wikipedia.org/wiki/소풍가는_여자 "wikilink")》 : 2004년 5월 3일 \~ 2004년 10월 8일
+
+### [2000년대](https://ko.wikipedia.org/wiki/2000년대 "wikilink") 후반
+
+  - 《[그 여자가 무서워](../Page/그_여자가_무서워.md "wikilink")》 : 2007년 10월 8일 \~ 2008년 4월 18일
+  - 《[애자 언니 민자](../Page/애자_언니_민자.md "wikilink")》 : 2008년 4월 21일 \~ 2008년 10월 31일
+  - 《[아내의 유혹](../Page/아내의_유혹.md "wikilink")》 : 2008년 11월 3일 \~ 2009년 5월 1일
+  - 《[두 아내](https://ko.wikipedia.org/wiki/두_아내 "wikilink")》 : 2009년 5월 4일 \~ 2009년 10월 30일
+  - 《[아내가 돌아왔다](https://ko.wikipedia.org/wiki/아내가_돌아왔다 "wikilink")》 : 2009년 11월 2일 \~ 2010년 4월 16일
+
+### [2010년대](https://ko.wikipedia.org/wiki/2010년대 "wikilink") 전반
+
+  - 《[세 자매](https://ko.wikipedia.org/wiki/세_자매_\(2010년_드라마\) "wikilink")》 : 2010년 4월 19일 \~ 2010년 10월 27일
+  - 《[호박꽃 순정](../Page/호박꽃_순정.md "wikilink")》 : 2010년 11월 15일 \~ 2011년 5월 13일
+  - 《[당신이 잠든 사이](../Page/당신이_잠든_사이.md "wikilink")》 : 2011년 5월 16일 \~ 2011년 11월 9일
+  - 《[내 딸 꽃님이](../Page/내_딸_꽃님이.md "wikilink")》 : 2011년 11월 14일 \~ 2012년 5월 18일
+  - 《[그래도 당신](../Page/그래도_당신.md "wikilink")》 : 2012년 5월 21일 \~ 2012년 12월 3일
+  - 《[가족의 탄생](../Page/가족의_탄생_\(드라마\).md "wikilink")》 : 2012년 12월 5일 \~ 2013년 5월 17일
+  - 《[못난이 주의보](../Page/못난이_주의보.md "wikilink")》 : 2013년 5월 20일 \~ 2013년 11월 29일
+  - 《[잘 키운 딸 하나](../Page/잘_키운_딸_하나.md "wikilink")》 : 2013년 12월 2일 \~ 2014년 5월 30일
+
+### [2010년대](https://ko.wikipedia.org/wiki/2010년대 "wikilink") 후반
+
+  - 《[사랑만 할래](https://ko.wikipedia.org/wiki/사랑만_할래 "wikilink")》 : 2014년 6월 2일 \~ 2014년 12월 12일
+  - 《[달려라 장미](https://ko.wikipedia.org/wiki/달려라_장미_\(드라마\) "wikilink")》 : 2014년 12월 15일 \~ 2015년 6월 5일
+  - 《[돌아온 황금복](https://ko.wikipedia.org/wiki/돌아온_황금복 "wikilink")》 : 2015년 6월 8일 \~ 2015년 12월 11일
+  - 《[마녀의 성](https://ko.wikipedia.org/wiki/마녀의_성 "wikilink")》 : 2015년 12월 14일 \~ 2016년 6월 10일
+  - 《[당신은 선물](https://ko.wikipedia.org/wiki/당신은_선물 "wikilink")》 : 2016년 6월 13일 \~ 2016년 11월 24일
+  - 《[사랑은 방울방울](../Page/사랑은_방울방울.md "wikilink")》 : 2016년 11월 28일 \~ 2017년 6월 2일
+
+## 각주
+
+## 같이 보기
+
+  - [한국방송공사 1TV 일일연속극](../Page/한국방송공사_1TV_일일연속극.md "wikilink")
+  - [한국방송공사 2TV 일일연속극](../Page/한국방송공사_2TV_일일연속극.md "wikilink")
+  - [한국방송공사 2TV 일일연속사극](https://ko.wikipedia.org/wiki/한국방송공사_2TV_일일연속사극 "wikilink")
+
+<!-- end list -->
+
+  - [문화방송 일일연속극](../Page/문화방송_일일연속극.md "wikilink")
+  - [문화방송 일일연속사극](../Page/문화방송_일일연속사극.md "wikilink")
+  - [문화방송 일일 특별기획 드라마](../Page/문화방송_일일_특별기획_드라마.md "wikilink")
+
+[분류:SBS의 텔레비전 드라마](https://ko.wikipedia.org/wiki/분류:SBS의_텔레비전_드라마 "wikilink") [\*](https://ko.wikipedia.org/wiki/분류:SBS_일일드라마 "wikilink")
+
+1.

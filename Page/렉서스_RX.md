@@ -1,0 +1,41 @@
+> This article is converted from Wikipedia: [ RX](https://ko.wikipedia.org/wiki/_RX).
+
+
+**렉서스 RX**(Lexus RX)는 [토요타 자동차의](https://ko.wikipedia.org/wiki/토요타_자동차 "wikilink") 고급 브랜드인 [렉서스](../Page/렉서스.md "wikilink")의 준대형 크로스 오버 [SUV이다](../Page/스포츠_유틸리티_자동차.md "wikilink"). RX는 Radiant Crossover의 머리 글자에서 따온 것이다. [일본](../Page/일본.md "wikilink")에서 [렉서스](../Page/렉서스.md "wikilink")가 런칭되기 전에 출시되었던 1세대와 2세대는 [토요타 해리어로](../Page/토요타_해리어.md "wikilink") 판매되었으며, 3세대부터는 별도로 판매되고 있다. [일본](../Page/일본.md "wikilink") [후쿠오카현](https://ko.wikipedia.org/wiki/후쿠오카현 "wikilink")과 [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink") [온타리오주](https://ko.wikipedia.org/wiki/온타리오주 "wikilink")에서 생산된다.
+
+## 1세대
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Lexus_RX300_front.JPG "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Lexus_RX300_rear.JPG "wikilink")
+
+고급 [세단](https://ko.wikipedia.org/wiki/세단 "wikilink")의 승차감과 쾌적성을 겸비한 [SUV로](../Page/스포츠_유틸리티_자동차.md "wikilink") 개발되었다. [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink")에 출시되었고, 해외에서는 [렉서스](../Page/렉서스.md "wikilink")를 통해 [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink")에 선보였다. 출시 직후부터 [북미](https://ko.wikipedia.org/wiki/북아메리카 "wikilink") 시장에서 폭발적인 인기 차종이 되어, 이후 5년 동안 약 37만 대가 팔렸다. 품질 신뢰도가 높고, [JD 파워](../Page/JD_파워.md "wikilink") 등 시장 조사 평가에서도상위권에 기록된 적이 많았다. V6 3,000cc 가솔린 엔진을 얹은 RX300이 판매되었고, [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 [렉서스](../Page/렉서스.md "wikilink")가 런칭된 해인 [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink")부터 공식 판매가 이루어졌다. {{-}}
+
+## 2세대
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:2004-2005_Lexus_RX_330_\(MCU38R\)_Sports_Luxury_wagon_\(2011-04-02\)_01.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:2004-2005_Lexus_RX_330_\(MCU38R\)_Sports_Luxury_wagon_\(2011-04-02\)_02.jpg "wikilink")
+
+V6 3,300cc 가솔린 엔진을 얹어 RX330이라는 세부 트림명으로도 불렸으나, 이후 V6 3,500cc 가솔린 엔진을 얹은 RX350으로 대체되었다. 볼륨감 넘치는 차체에 날카로운 헤드 램프와 프런트 노즈가 날렵한 느낌을 주며, 파노라마 선 루프, 전동 테일 게이트, 운전석 무릎 에어백 등이 적용되었다. [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink")에는 V6 3,300cc 가솔린 엔진에 전기 모터를 결합한 [하이브리드](../Page/하이브리드_차량.md "wikilink") 사양인 RX400h도 선보였다. 고급 [SUV로는](../Page/스포츠_유틸리티_자동차.md "wikilink") 세계 최초의 [하이브리드 차종이다](../Page/하이브리드_차량.md "wikilink").
+
+
+{{-}}
+
+## 3세대
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:2009-2010_Lexus_RX_350_\(GGL15R\)_Sports_Luxury_wagon_03.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:2009-2010_Lexus_RX_350_\(GGL15R\)_Sports_Luxury_wagon_04.jpg "wikilink")
+
+[2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink")에 발표된 컨셉트 카 LF-Xh의 양산형 차종으로 선보였으며, [렉서스](../Page/렉서스.md "wikilink")가 런칭된 [일본](../Page/일본.md "wikilink")에서도 3세대 RX가 출시가 되었다. 그러나 [토요타 해리어는](../Page/토요타_해리어.md "wikilink") 2세대가 [2013년 7월까지](../Page/2013년_7월.md "wikilink") 병행 생산되었고, 같은 해 [12월](https://ko.wikipedia.org/wiki/12월 "wikilink")에 3세대로 풀 모델 체인지를 거쳐서 3세대 RX와는 별도로 판매되고 있다. V6 3,500cc 가솔린 엔진의 RX350과 V6 3,500cc 가솔린 엔진에 전기 모터를 결합한 [하이브리드](../Page/하이브리드_차량.md "wikilink") 사양인 RX450h가 있다. [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")을 제외한 다른 국가에서는 직렬 4기통 2,700cc 가솔린 엔진의 RX270도 있다. 이전의 기계식 풀 타임 [4륜구동](https://ko.wikipedia.org/wiki/4륜구동 "wikilink")에서 전자식 파트 타임 [4륜구동](https://ko.wikipedia.org/wiki/4륜구동 "wikilink")으로 바뀌었다. 햅틱 방식의 리모트 터치 컨트롤 기능과 헤드 업 디스플레이 등을 적용되어 운전에 불필요한 동작을 최소화시킨다. [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink")에는 [4세대 GS로부터](https://ko.wikipedia.org/wiki/렉서스_GS#4세대 "wikilink") 시작된 [렉서스](../Page/렉서스.md "wikilink")의 새로운 패밀리 룩인 스핀들 그릴이 적용되는 등 페이스 리프트를 거쳤다.
+
+파일:2012 Lexus RX 350 (GGL15R) Luxury wagon (2012-09-01) 01.jpg|렉서스 RX(후기형) 정측면 파일:2012 Lexus RX 350 (GGL15R) Luxury wagon (2012-09-01) 02.jpg|렉서스 RX(후기형) 후측면
+
+{{-}}
+
+## 4세대
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Lexus_RX_450h_F_Sport_\(IV\)_–_Frontansicht,_14._Februar_2016,_Düsseldorf.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Lexus_RX_450h_F_Sport_\(IV\)_–_Heckansicht,_14._Februar_2016,_Düsseldorf.jpg "wikilink")
+
+중대형 [SUV](../Page/스포츠_유틸리티_자동차.md "wikilink") 시장의 대형화 트렌드가 반영되어 전장 120mm, 전폭 10mm, 전고 20mm, 축거 50mm가 늘어났다. [렉서스](../Page/렉서스.md "wikilink")의 패밀리 룩으로 자리잡은 스핀들 라디에이터 그릴부터 리어 램프까지 이어지는 마름모꼴의 바디와 돌출된 전·후 휠 플레어가 특징이다. 여기에 L자 모양의 LED 헤드 램프와 화살촉 형상의 LED 주간 주행등이 적용되어 고급스러움을 구현하였다. 내부 인테리어 트림을 3D 필름, 레이저컷 우드, 리얼 알루미늄으로 세분화하여 다양성을 꾀하였다. [렉서스](../Page/렉서스.md "wikilink") 차종 중 최초로 도어 트림과 센터 콘솔에 레이저컷 우드로 품질을 높였다. [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink")에 롱바디 버전이 공개되어 7인승이 추가되었다. {{-}}
+
+## 외부 링크
+
+  - [렉서스 대한민국 홈페이지](http://www.lexus.co.kr/)
+
+[RX](https://ko.wikipedia.org/wiki/분류:렉서스의_차종 "wikilink") [RX](https://ko.wikipedia.org/wiki/분류:전륜구동 "wikilink") [RX](https://ko.wikipedia.org/wiki/분류:4륜구동 "wikilink") [RX](https://ko.wikipedia.org/wiki/분류:스포츠_유틸리티_자동차 "wikilink") [RX](https://ko.wikipedia.org/wiki/분류:대형_승용차 "wikilink") [RX](https://ko.wikipedia.org/wiki/분류:하이브리드_차량 "wikilink") [RX](https://ko.wikipedia.org/wiki/분류:1990년대_자동차 "wikilink") [RX](https://ko.wikipedia.org/wiki/분류:2000년대_자동차 "wikilink") [RX](https://ko.wikipedia.org/wiki/분류:2010년대_자동차 "wikilink") [RX](https://ko.wikipedia.org/wiki/분류:1997년_도입된_자동차 "wikilink") [분류:1998년 도입된 자동차](https://ko.wikipedia.org/wiki/분류:1998년_도입된_자동차 "wikilink")

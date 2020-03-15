@@ -1,0 +1,100 @@
+> This article is converted from Wikipedia: [ F. ](https://ko.wikipedia.org/wiki/_F._).
+
+
+**윌리엄 프리시 딘**(William Frishe Dean, [1899년](https://ko.wikipedia.org/wiki/1899년 "wikilink") [8월 1일](https://ko.wikipedia.org/wiki/8월_1일 "wikilink") \~ [1981년](https://ko.wikipedia.org/wiki/1981년 "wikilink") [8월 24일](https://ko.wikipedia.org/wiki/8월_24일 "wikilink"))은 미국의 군인으로 [제2차 세계 대전과](https://ko.wikipedia.org/wiki/제2차_세계_대전 "wikilink") [한국 전쟁에](https://ko.wikipedia.org/wiki/한국_전쟁 "wikilink") 참전하였다. [한국의 군정기](https://ko.wikipedia.org/wiki/한국의_군정기 "wikilink") 당시 [재조선미육군사령부군정청](../Page/재조선미육군사령부군정청.md "wikilink")의 군정장관을 지내기도 했다. [한국 전쟁](https://ko.wikipedia.org/wiki/한국_전쟁 "wikilink") 참전 중에 [조선인민군](https://ko.wikipedia.org/wiki/조선인민군 "wikilink")에 납치되어 평양으로 끌려가기도 했으며 휴전 이후 미국 육군 소장으로 예편하였다.
+
+## 생애
+
+### 출생과 성장
+
+윌리엄 F. 딘은 1899년 일리노이 주 칼라일에서 태어나 미 육사를 지망하였으나 뜻을 이루지 못하고 [캘리포니아 버클리 대학에서](https://ko.wikipedia.org/wiki/캘리포니아_대학교_버클리 "wikilink") 공부하며 ROTC로 훈련받았고 1923년 보병 소위로 임관하였다.\[1\] 제2차 세계대전에 참전하였다.
+
+### 제 2차 세계대전
+
+제 2차 세계대전 당시 딘은 연대장으로 활약했으며 특히 그 자신이 "전투에서 가장 치욕스러운 것은 적에게 포로로 잡히는 것이다."라는 신념하에 포로를 최소화시키는 전술을 활용하였으며 실제로도 그의 부대는 포로가 적기로 유명한 부대였다.
+
+### 군정기
+
+[1941년](https://ko.wikipedia.org/wiki/1941년 "wikilink") [태평양 전쟁](https://ko.wikipedia.org/wiki/태평양_전쟁 "wikilink") 당시 극동군에 배속되어 활동하였다. [1945년](https://ko.wikipedia.org/wiki/1945년 "wikilink") [9월](https://ko.wikipedia.org/wiki/9월 "wikilink") [미군](https://ko.wikipedia.org/wiki/미군 "wikilink")이 남한에 주둔하자 군정청에 파견되었고, 2대 군정 장관 러치가 갑자기 병사하면서 군정 장관으로 발탁되었다.
+
+[1948년](https://ko.wikipedia.org/wiki/1948년 "wikilink") 귀환하였고 [1950년](https://ko.wikipedia.org/wiki/1950년 "wikilink") [한국 전쟁이](https://ko.wikipedia.org/wiki/한국_전쟁 "wikilink") 발발하자 다시 한국 전쟁에 투입되었다.
+
+### 한국 전쟁
+
+딘 장군은 한국전쟁에서 맨 처음 투입된 부대인 미8군 제24사단을 맡았다. 그는 [대전 전투에서](../Page/대전_전투.md "wikilink") 전선의 맨 앞에 나아가 3.5 인치 바주카로 T-34 탱크를 사냥하였다. 사단장 딘 소장은 3.5"로켓포 반을 지휘하면서 최선을 다했으나, 7월 21일 오후 34연대 지휘소에게 철수 명령을 내렸다. 딘 소장은 34연대의 마지막 소대와 함께 50여 대의 차량을 이용하여 시계를 빠져나가고 있었는데, 매복한 인민군에 의하여 공격을 당하여 차량을 버리고 후퇴하였다. 딘 소장이 탄 지프는 길을 잘못 들어서서 본대와 분리되게 되었다. 딘 소장과 함께 있는 병력은 미군의 전선으로 돌아가려고 노력하였는데, 딘 소장은 함께 가던 부상병에게 물을 떠다 주기 위하여 어둠속에서 물을 찾아 계곡을 내려가다가 낭떠러지로 떨어져 실신하였다. 무주, 진안 근처에서 헤메던 그는 박종구의 도움을 받아 피할 수 있었으며, 36일 후 전라북도 진안군 진안읍 운산리에서 한두규의 밀고로 인민군에 생포되었다. 이 과정에서 딘 소장의 전속부관이 한두규에게 사살되었다. 한두규는 [9.28 수복](https://ko.wikipedia.org/wiki/9.28_수복 "wikilink") 후 경찰에 체포되어 1954년 9월 23일에 “불법체포죄”로 5년형을 선고받고 복역하였으나 그는 무죄를 주장하였다. 복역 중에 딘 소장이 그의 감형을 탄원하여 1957년 좌익수전향자로 감형되어 출소하였다.\[2\] 그는 1953년 10월 4일까지 포로로 있다가 풀려났다.
+
+#### 수감
+
+딘 소장이 사로잡힌 대부분의 기간 동안 인민군은 그가 장군인 것을 알지 못하였고, 딘 소장은 맥아더의 [인천상륙작전](https://ko.wikipedia.org/wiki/인천상륙작전 "wikilink")계획을 알고 있었기 때문에 고문으로 정보를 누출할 것을 두려워하여 자살을 시도하였\[3\] 으나 미수로 그쳤다. 이 과정에서 그는 마침내 계급이 밝혀졌지만, 인민군은 그로부터 첩보를 얻을 수 없었다.\[4\]
+
+그가 미군정의 군정장관 딘 소장인 것은 [안재홍](https://ko.wikipedia.org/wiki/안재홍 "wikilink")의 증언에 의해 확인되었다.\[5\] 평양에서 딘 소장의 통역을 맡았던 이규현에 의하면 딘 소장은 정치보위부장 [방학세](https://ko.wikipedia.org/wiki/방학세 "wikilink")에게도 심문을 받았다고 한다.\[6\]
+
+#### 딘 장군 구출작전
+
+딘 장군이 [대전에](https://ko.wikipedia.org/wiki/대전광역시 "wikilink") 고립되어 있을때 대한민국의 열차 기관사 [김재현](https://ko.wikipedia.org/wiki/김재현_\(1923년\) "wikilink") 등의 남한의 기관사들은 딘 장군을 구출하려고 시도했다. 기관사 김재현은 본무조사 황남호, 보조조사 현재영 등과 급수용 기관차에 미군 결사대 30명을 탑승시키고 [이원역](../Page/이원역.md "wikilink")에서 출발하여 [대전역](https://ko.wikipedia.org/wiki/대전역 "wikilink")으로 향했다. 대전역으로 가는 도중 세천터널에서 인민군의 기습을 받아 많은 사상자가 발생하여 작전은 실패하였으며 이때 김재현 기관사는 인민군이 쏜 총에 맞아 숨졌다. 남은 승무원 2명중 1명도 총에 맞아 중경상을 입었다.\[7\]
+
+#### 포로교환
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:William_F._Dean_coming_back_from_North_Korea_1954.png "wikilink") 그 이후 딘 장군은 인민군 총좌인 [이학구](https://ko.wikipedia.org/wiki/이학구 "wikilink")와 포로교환이 되었다.
+
+### 은퇴와 사망
+
+그는 한국에서 돌아와서 석달 후 캘리포니아 샌프란시스코 프레시디오에 있는 美육군 6야전군의 부사령관으로 부임했다가 1955년 10월 31일 전역하였다. 그는 은퇴할 때 [제2차 세계 대전과](https://ko.wikipedia.org/wiki/제2차_세계_대전 "wikilink") [한국 전쟁의](https://ko.wikipedia.org/wiki/한국_전쟁 "wikilink") 참전한 공로로 육군 무공 훈장을 받았다.
+
+이후 그는 캘리포니아 샌프란시스코에서 조용히 여생을 보내다가 82세에 사망하여 샌프란시스코 요새에 있는 샌프란시스코 국립묘지에서 아내 곁에 묻혔다.
+
+## 가족 관계
+
+그는 마일드리드 딘과 결혼하여 아들 윌리엄 딘 2세와 딸 매로리 준 딘을 낳았다. 아들 윌리엄 딘 2세는 주한 미공군으로 한국에서 근무한 적이 있다.
+
+## 4.3 사건 진압회의 관련 해프닝
+
+[5월 5일](https://ko.wikipedia.org/wiki/5월_5일 "wikilink") 미군정청 군정장관 겸 주한미군 부사령관 윌리엄 F. 딘, 민정장관 안재홍, 경비대 총사령관 [송호성](../Page/송호성.md "wikilink") 준장, 경무부장 조병옥, 제주도 군정장관 맨스필드 대령 등이 [비행기](https://ko.wikipedia.org/wiki/비행기 "wikilink")편으로 [제주도](https://ko.wikipedia.org/wiki/제주도 "wikilink")에 착륙했다. 5일 오전 12시부터 4.3 사건의 해결을 놓고 [제주중학교](../Page/제주중학교.md "wikilink") 미군정청 회의실에서 열렸다. 참석자는 미군정장관 딘 장군, 민정장관 안재홍, 경비대 총사령관 송호성 준장, 경무부장 조병옥, 제주도 군정장관 맨스필드 대령, 제주도지사 유해진, 경비대 제9연대장 김익렬 중령, 제주도 경찰감찰청장 최천(崔天), 딘 장군 전용통역관 김씨(목사출신) 등 9명이었다.
+
+회의의 주제는 4.3의 진압에 대한 것이었고, 최고수뇌회의에서 합의점을 찾지 못하면서 [김익렬](../Page/김익렬.md "wikilink")과 [조병옥](https://ko.wikipedia.org/wiki/조병옥 "wikilink")의 난투극이 발생한다. 회의에서 첫 번째로 발언하게 된 최천 경찰감찰청장은 4.3폭동은 국제공산주의자에 의한 사전에 조직 훈련‧계획된 폭동이며 군‧경 대병(大兵)을 투입하여 합동작전으로 철저하게 토벌할 것을 주장하고, 이어 발언한 김익렬 연대장은 무력 위압과 설득, 선무귀순 공작을 병용하는 작전을 건의하였다. 그러면서 김익렬은 직접적인 도화선은 밀무역자 혹은 남로당 공산주의자와 경찰 간의 마찰이나 자세한 경위를 알기 어렵다고 발언한다. 폭동자 수가 증가된 것은 빨치산이 우익 인사들을 학살했지만 경찰이 제대로 대응하지 못하고 초동의 대책과 작전에 실패한데서 기인된 것이며, 이 작전의 방해요소는 경찰의 기강문란이므로 전 제주도경찰을 자기의 지휘 하에 달라는 요구를 한다.
+
+[김익렬](../Page/김익렬.md "wikilink")이 증거로 제출한 사진첩을 들여다보던 윌리엄 F. 딘 장관은 흥분하여 사진 자료들을 [조병옥](https://ko.wikipedia.org/wiki/조병옥 "wikilink") 경무부장에게 던져주며 [조병옥](https://ko.wikipedia.org/wiki/조병옥 "wikilink")에게 화를 낸다. 그런데 화가 난 [조병옥](https://ko.wikipedia.org/wiki/조병옥 "wikilink")이 [김익렬](../Page/김익렬.md "wikilink")을 공산주의자로 몰면서 회의장은 난장판이 된다. [조병옥](https://ko.wikipedia.org/wiki/조병옥 "wikilink")은 연대장의 설명과 사진첩 등 증거물이 전부 허위조작된 것이며, 맨스필드 대령과 드루스 대위에게 제출한 자료는 경찰에 대한 중상모략이라고 극구 부인했다. 그러다가 [김익렬](../Page/김익렬.md "wikilink")을 손가락으로 지목하며 “저기 공산주의 청년이 한 사람 앉아 있소. 나는 오늘 처음으로 국제공산주의가 무서운 조직력을 가지고 있는 것을 알았소. 헝가리 루마니아 체코슬로바키아 등지에서 그랬듯이 처음에는 민족주의를 앞세워 각지에서 폭동으로 정부를 전복하고 나중에는 본색을 드러내는 것이 국제공산주의자들의 상투수단이요”라고 지적했다.
+
+화가 난 [김익렬](../Page/김익렬.md "wikilink")은 “닥쳐라\!”하고 고함을 질렀다. 딘 장군은 김익렬을 제지하며 연설 방해를 하지 말라고 명령하였다. 그러나 [조병옥](https://ko.wikipedia.org/wiki/조병옥 "wikilink")은 계속해서 [김익렬](../Page/김익렬.md "wikilink")을 가리키며 “민족주의의 가면을 쓴 청년들이 먼 외국에서만 있는 줄 알았더니 현재 우리나라에도 있소. 바로 저 연대장이 그런 청년이요. 우리 경찰의 조사에 의하면 저 청년의 아버지는 국제공산주의자이며 소련에서 교육을 받고 현재 이북에서 공산당 간부로 열렬히 활약하고 있소. 저 자는 자기 부친의 교화를 받고 공산주의자가 되었으며 자기 부친의 지령에 의하여 행동하고 있는 것이요”라며 공산주의자일지도 모른다며 의혹을 제기했다.
+
+딘 장군은 조병옥이 김익렬의 부친이 공산주의자라고 그럴싸하게 설명하자 깜짝 놀라며 의심에 찬 눈초리로 김익렬을 쳐다봤고, 맨스필드 대령도 의심하기 시작했다. 격분한 [김익렬](../Page/김익렬.md "wikilink")은 이성을 잃고 자리에서 벌떡 일어나 단상에 뛰어올라 연설하는 [조병옥](https://ko.wikipedia.org/wiki/조병옥 "wikilink")에게 달려들었다.
+
+유도 3단이던 [김익렬](../Page/김익렬.md "wikilink") 중령은 흥분한 나머지 주먹으로 [조병옥](https://ko.wikipedia.org/wiki/조병옥 "wikilink")을 끌어내 실랑이를 벌였고, [조병옥](https://ko.wikipedia.org/wiki/조병옥 "wikilink")의 복부를 친 후 멱살을 잡고 내동댕이치려고 하였다. 그러나 조병옥은 [김익렬](../Page/김익렬.md "wikilink")의 표현에 의하면 '의외에도 힘이 장사였다. 당시 50세가 넘었는데도 쉽게 넘어지지 않아 단상에서 격투가 벌어졌다. 내가 손에 잡히는 대로 조 박사의 넥타이를 당기니까 그는 목을 졸리게 되었다.'고 한다. 넥타이로 목이 졸린 [조병옥](https://ko.wikipedia.org/wiki/조병옥 "wikilink")은 숨을 못 쉬고 비명을 지른다. 최천 제주경찰청장이 말리러 올라왔으나 [김익렬](../Page/김익렬.md "wikilink")의 발길질에 급소를 차여서 그도 비명을 지르며 쓰러졌다. 딘 장군이 송호성 장군에게 싸움을 말리라고 고함을 질렀고, [맨스필드](https://ko.wikipedia.org/wiki/맨스필드 "wikilink") 대령과 [안재홍](https://ko.wikipedia.org/wiki/안재홍 "wikilink")이 달라붙어 [김익렬](../Page/김익렬.md "wikilink")과 [조병옥](https://ko.wikipedia.org/wiki/조병옥 "wikilink")을 떼놓으려 하였으나, 김익렬 역시 고함을 지르며 조병옥에게 욕설을 퍼부었다. “당신이 일제시대에 독립운동을 하였다기에 애국자인 줄 알았더니 자기의 죄상이 드러나니까 무고한 나를 하필이면 공산주의자로 모느냐. 취소하지 않으면 죽여버리겠다”하며 필사적으로 덤벼들었다.
+
+[송호성](../Page/송호성.md "wikilink") 장군은 일어서지도 않고 앉은 채로 “이 놈 연대장\! 누구에게 폭행을 하느냐. 네 놈이 죽으려고 환장했느냐. 손을 놓고 말로 하라”하며 고함을 친다. 그러나 말릴 뜻은 없는 듯 입으로만 호령호령했다. 돌아가는 내용의 대강을 눈치챈 [안재홍](https://ko.wikipedia.org/wiki/안재홍 "wikilink") 민정장관은 손을 놓고 “연대장\! 손을 놓으시오. 폭행을 멈추시오. 외국사람들이 우리를 야만인이라고 흉을 보니 어서 손을 놓고 말로 하시오”라며 제지했다. [유해진](../Page/유해진.md "wikilink") 지사가 단상에 달라붙어 다시 [김익렬](../Page/김익렬.md "wikilink")의 손을 떼어 놓으려고 하였으나 노령이라 역부족이었다.
+
+김익렬과 조병옥의 몸싸움은 격화되었고, [5월 5일의](https://ko.wikipedia.org/wiki/5월_5일 "wikilink") 회의는 순식간에 회의장은 난장판이 되고 말았다. 화가 난 딘 장군은 통역관 김모 씨를 불러 안재홍 민정장관과 송호성 장군이 지금 무어라 말하고 있느냐며 불러 물었다. 그런데 통역관이 딘 장군에게 안재홍 씨와 송 장군이 연대장에게 “너는 공산주의자이며 나쁜 놈”이라고 욕을 하고 있다고 통역하였다. 이성을 상실한 [김익렬](../Page/김익렬.md "wikilink")은 [조병옥](https://ko.wikipedia.org/wiki/조병옥 "wikilink")의 넥타이를 붙잡고 통역관에게 달려가 발길질로 음낭을 걷어 찼다. 놀란 딘 장군과 [안재홍](https://ko.wikipedia.org/wiki/안재홍 "wikilink"), [송호성](../Page/송호성.md "wikilink")은 회의실을 빠져나갔고, 통역관은 비명을 지르며 쓰러졌다. 딘 장군은 대기 경호 중이던 미군헌병을 불러들여 장내 질서를 정리하라고 명령했다. 수 명의 헌병들이 달려들더니 그 중 두 명의 헌병들이 양쪽에서 [김익렬](../Page/김익렬.md "wikilink")의 팔을 붙잡아 비틀고, [조병옥](https://ko.wikipedia.org/wiki/조병옥 "wikilink")에게서 떼어놓고는 강제로 의자에 앉혀놓고는 두 팔을 결박하여 꼼짝 못하게 했다. 소란은 끝이 났고, 진압 회의는 결말을 보지 못한 채 종결되었다.
+
+## 각주
+
+## 같이 보기
+
+  - [군정기](https://ko.wikipedia.org/wiki/군정기 "wikilink")
+  - [한국 전쟁](https://ko.wikipedia.org/wiki/한국_전쟁 "wikilink")
+  - 인물
+      - [더글러스 맥아더](https://ko.wikipedia.org/wiki/더글러스_맥아더 "wikilink")
+      - [아이젠하워](https://ko.wikipedia.org/wiki/아이젠하워 "wikilink")
+      - [아치볼드 아놀드](https://ko.wikipedia.org/wiki/아치볼드_아놀드 "wikilink")
+      - [안재홍](https://ko.wikipedia.org/wiki/안재홍 "wikilink")
+      - [조셉 매튜](https://ko.wikipedia.org/wiki/조셉_매튜 "wikilink")
+      - [존 퍼싱](https://ko.wikipedia.org/wiki/존_퍼싱 "wikilink")
+      - [존 하지](https://ko.wikipedia.org/wiki/존_하지 "wikilink")
+
+## 참고 자료
+
+  - 박명림, 한국전쟁의 기원 1(나남출판, 1996)
+  - 박명림, 한국전쟁의 기원 2(나남출판, 1996)
+  - 브루스 커밍스, 한국전쟁의 기원(김자동 역, 일월서각, 1986)
+  - 강준만, 한국현대사산책:1940년대편1 (인물과 사상사, 2006)
+  - 강준만, 한국현대사산책:1940년대편2 (인물과 사상사, 2006)
+  - 강준만, 한국현대사산책:1950년대편1 (인물과 사상사, 2006)
+
+[분류:1899년 태어남](https://ko.wikipedia.org/wiki/분류:1899년_태어남 "wikilink") [분류:1981년 죽음](https://ko.wikipedia.org/wiki/분류:1981년_죽음 "wikilink") [분류:미국의 정치인](https://ko.wikipedia.org/wiki/분류:미국의_정치인 "wikilink") [분류:미국의 외교관](https://ko.wikipedia.org/wiki/분류:미국의_외교관 "wikilink") [분류:대한민국의 참전유공자](https://ko.wikipedia.org/wiki/분류:대한민국의_참전유공자 "wikilink") [분류:반공주의자](https://ko.wikipedia.org/wiki/분류:반공주의자 "wikilink") [분류:미국 육군 소장](https://ko.wikipedia.org/wiki/분류:미국_육군_소장 "wikilink") [분류:미군정청 군정장관](https://ko.wikipedia.org/wiki/분류:미군정청_군정장관 "wikilink") [분류:한국의 군정기](https://ko.wikipedia.org/wiki/분류:한국의_군정기 "wikilink") [분류:미국의 제1차 세계 대전 참전 군인](https://ko.wikipedia.org/wiki/분류:미국의_제1차_세계_대전_참전_군인 "wikilink") [분류:미국의 제2차 세계 대전 참전 군인](https://ko.wikipedia.org/wiki/분류:미국의_제2차_세계_대전_참전_군인 "wikilink") [분류:미국의 한국 전쟁 참전 군인](https://ko.wikipedia.org/wiki/분류:미국의_한국_전쟁_참전_군인 "wikilink") [분류:테러 피해자](https://ko.wikipedia.org/wiki/분류:테러_피해자 "wikilink") [분류:인질](https://ko.wikipedia.org/wiki/분류:인질 "wikilink") [분류:캘리포니아 대학교 버클리 동문](https://ko.wikipedia.org/wiki/분류:캘리포니아_대학교_버클리_동문 "wikilink") [분류:미국 육군포병학교 동문](https://ko.wikipedia.org/wiki/분류:미국_육군포병학교_동문 "wikilink") [분류:미국 육군보병학교 동문](https://ko.wikipedia.org/wiki/분류:미국_육군보병학교_동문 "wikilink") [분류:미국의 한국 전쟁 관련자](https://ko.wikipedia.org/wiki/분류:미국의_한국_전쟁_관련자 "wikilink")
+
+1.  김준봉, 《한국전쟁의 진실 (상)》 이담북스(2010) 94쪽.
+2.  이치백, [이치백의 전북의 기억 -\<7\> 미군 '딘' 소장](http://www.sjbnews.com/news/userArticleView.html?idxno=312648) , [새전북신문](https://ko.wikipedia.org/wiki/새전북신문 "wikilink")
+3.  이규현, [딘 소장의 평양 생활](http://www.thekison.org/pages/kison-archive-kn582.htm), 미국가문서기록보관서 헌병사령관실 문서 RG 389
+4.
+5.  박명림, 한국전쟁의 기원 1(나남출판, 1996)
+6.
+7.  ＜경부선 연변에 세워진 반공＞. 경향신문 1962년 12월 11일자, 제8면.

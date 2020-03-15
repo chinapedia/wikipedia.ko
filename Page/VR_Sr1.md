@@ -1,0 +1,163 @@
+> This article is converted from Wikipedia: [VR Sr1](https://ko.wikipedia.org/wiki/VR_Sr1).
+
+
+**Sr1** 기관차는 [핀란드 철도의](https://ko.wikipedia.org/wiki/VR "wikilink") [전기 기관차이다](../Page/전기_기관차.md "wikilink"). 1973년에서 1985년까지 소련의 [노보체르카스크 전기 기관차 공장에서](https://ko.wikipedia.org/wiki/노보체르카스크_전기_기관차_공장 "wikilink") 생산되었으며, 전기 장치는 핀란드 회사 스트룀버그에서 생산되었다. 첫 차량은 1973년 9월 4일 반입되었다. 현재 핀란드 철도의 두 종류의 전기 기관차 중 하나로 여객과 화물 둘 다에 사용된다.
+
+## 제작
+
+1970년 VR에서 전기 기관차를 도입하기 위한 국제 입찰 및 정치적인 결정으로, 소련 노보체르카스크 전기 기관차 공장에 전기 기관차 생산을 맡겼다. 전장품은 핀란드 스트룀버그, 대차는 [스코다](https://ko.wikipedia.org/wiki/스코다 "wikilink")에서 제작하였고, 나머지 부품은 소련에서 생산하였다. 러시아 기술 시험용 기관차 VL40을 기반으로 제작하였다.
+
+첫 시제 차량 3000호 기관차는 영하 60도에서도 잘 작동하였다. 1973년부터 1975년까지 초기 27량이 반입되었고, 이 중 3001-3006호는 1974년까지 각종 시험에 사용되었다. 첫 물량이 반입된 1973년부터 추가로 기관차를 주문하여 1985년까지 110량이 반입되었다. 첫 15명의 기관사들이 차량이 반입되기 전 1973년 봄에 소련에서 운전 교육을 받았다. 1973년 반입된 편성은 헬싱키-리히매키 간 열차에 투입했다. 전철화 구간이 늘어나면서 운행 구간도 같이 늘었다.
+
+1989년 3003호 기관차가 리히매키에서 사고로 부서져, 처음에는 폐차하려고 했다가 재생으로 계획을 바꿨다. 재생을 위해서 소련에 기관차 2량 분량의 부품을 주문했고, 휘빈캐 공작창에서 재생하였다. 이때 주문한 예비 부품은 1993년 3111호 기관차로 조립하였다. 노보체르카스크 전기 기관차 공장에 있던 시제품 기관차 3000호를 1994년 핀란드에서 매입하여, 1996년 3112호 기관차로 개조하였다. 매입 당시 기관차 상태는 매우 안 좋아서 차체에는 총탄 자국도 있었다. 원래의 도색은 어두운 빨간색에 흰 줄무늬였으나, 1990년대에 흰 바탕에 빨간 줄무늬 도색으로 다시 칠했다.
+
+### 도색
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Sr1_hauling_freight_train_in_Jarvenpaa_in_1987.jpg "wikilink")
+
+3001-3039호까지는 초기에 빨간 바탕에 노란 도색을 하였다. 3040호부터는 도색이 살짝 달라졌다. 1986년부터 모든 기관차 도색이 흰 바탕에 빨간 줄무늬 도색으로 칠했다. 현재 사용되는 도색은 1987년 3013, 3017, 3054호에 시범적으로 칠했다. 이후 1988년 이와는 살짝 다른 현재 도색으로 칠했다.
+
+## 구조
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Sr1_ohjaamo.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Sr1_kaksinveto_yhteenkytkentä.jpg "wikilink")
+
+Sr1 기관차에는 4개의 축이 달려 있으며, 1980-1990년대에 SA-3 자동 연결기가 설치되었다. 팬토그래프는 양 끝에 2개씩 달려 있으며, 운행 시에는 진행 방향 반대쪽 하나만 올라간다. 중련 운행 시에는 선두차는 앞쪽, 이후 기관차는 뒤쪽 팬토그래프가 올라간다.
+
+주 변압기 용량은 5770 kVA이며, 변압기의 부 코일은 2x3으로 배열된 6개의 정류기에 연결되어 있다. 객차 전원용으로 1500V 800kVA를 공급할 수 있다. 단일 기관차로는 최대 1300t, 중련 시 최대 2700t까지 견인할 수 있다.
+
+시속 160km까지 증속할 수 있도록 설계되었으며, 1980년대 3040, 3041호 기관차 기어비를 조정하여 시험해 보았다. 3098-3112호 기관차는 출고 당시부터 최고 속도 160km/h까지 낼 수 있는 대차를 사용하였다. 3111과 3112호는 처음부터 이 형식의 대차를 사용하였다. 2003년부터는 이 속도로 더 이상 다니지 않게 되었는데, 최고 속도를 내기 위해서 견인력을 희생해야 했으며 더 빠른 [Sr2](https://ko.wikipedia.org/wiki/VR_Sr2 "wikilink") 기관차가 도입되었기 때문이다.
+
+이 기관차에는 여러 별명이 있다.
+
+  - (시베리아의 늑대)
+
+  - (Cabbage Cage)
+
+  - (러시아 전기 기관차)
+
+## 개조
+
+소련에서 제작된 기관차 운전석은 소음 및 온도 조절 문제로 인하여 품질이 좋지 않았다. 초기 헤드라이트 높이가 너무 높아서 기관사들이 수동으로 조정해야 했다. 1998년부터 2003년까지 좀 더 편한 인체공학적 설계로 운전실을 개조했다. 개조를 하면서 운전실 내부에 방음 처리를 하고 에어컨을 설치하였다.
+
+정류기 기술이 발전하면서 초기 설치했던 정류기 반도체를 1/4로 줄였다. 나중에 제작된 기관차에 있는 공기 건조기를 모든 차량에 설치하였다. 제작 당시에는 소련에서 제작한 40kW 팬 구동부를 사용했고, 이후 스트룀버그에서 제작한 25kW 2단 속도 팬 구동부로 개조하였다.
+
+## 사고
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Suonenjoen_junaturma_1.jpg "wikilink")
+
+3048호 기관차는 1996년 요켈라 열차 사고로 인하여 손상되었고, 3089호 기관차는 1998년 위배스퀼래 열차 사고로 인하여 손상되었다. 두 기관차 모두 재생 불가능하였다. 이 외에도 여러 사고가 있었다.
+
+<table>
+<thead>
+<tr class="header">
+<th><p>차량 번호</p></th>
+<th><p>제작 시기</p></th>
+<th><p>사고</p></th>
+<th><p>재생 여부</p></th>
+<th><p>폐차 시기</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>3003</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/1973년" title="wikilink">1973년</a></p></td>
+<td><p>1989년 8월 31일, 리히매키에서 화물 열차와 충돌</p></td>
+<td><p>개조됨</p></td>
+<td><p>–</p></td>
+</tr>
+<tr class="even">
+<td><p>3022</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/1975년" title="wikilink">1975년</a></p></td>
+<td><p>1986년 1월 29일 <a href="http://vaunut.org/kuva/18146">라푸아에서 손상됨</a></p></td>
+<td><p>1987년 3월 26일</p></td>
+<td><p>–</p></td>
+</tr>
+<tr class="odd">
+<td><p>3031</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/1976년" title="wikilink">1976년</a></p></td>
+<td><p>1998년 8월 12일 수오네뇨키에서 충돌</p></td>
+<td><p>1999년 12월 20일</p></td>
+<td><p>–</p></td>
+</tr>
+<tr class="even">
+<td><p>3033</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/1976년" title="wikilink">1976년</a></p></td>
+<td><p>1995년 1월 13일 충돌</p></td>
+<td><p>재생됨</p></td>
+<td><p>–</p></td>
+</tr>
+<tr class="odd">
+<td><p>3034</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/1976년" title="wikilink">1976년</a></p></td>
+<td><p>1995년 11월 23일 퀴바새르비에서 화재 발생</p></td>
+<td><p>1996년 7월 19일</p></td>
+<td><p>–</p></td>
+</tr>
+<tr class="even">
+<td><p>3042</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/1977년" title="wikilink">1977년</a></p></td>
+<td><p>1998년 8월 12일 수오네뇨키에서 충돌</p></td>
+<td><p>1999년 8월 29일</p></td>
+<td><p>–</p></td>
+</tr>
+<tr class="odd">
+<td><p>3048</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/1977년" title="wikilink">1977년</a></p></td>
+<td><p>1996년 4월 21일 요켈라에서 재생 불가능한 사고 발생</p></td>
+<td><p>–</p></td>
+<td><p>1996년 5월 31일</p></td>
+</tr>
+<tr class="even">
+<td><p>3049</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/1977년" title="wikilink">1977년</a></p></td>
+<td><p>1984년 3월 28일 토이얄라에서 충돌</p></td>
+<td><p>재생됨</p></td>
+<td><p>–</p></td>
+</tr>
+<tr class="odd">
+<td><p>3052</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/1978년" title="wikilink">1978년</a></p></td>
+<td><p>1986년 12월 12일 투렝긴에서 충돌<br />
+1991년 11월 26일 루매키에서 탱크 화차와 충돌</p></td>
+<td><p>재생됨</p></td>
+<td><p>–</p></td>
+</tr>
+<tr class="even">
+<td><p>3053</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/1978년" title="wikilink">1978년</a></p></td>
+<td><p>1988년 4월 5일 탱크 화차와 충돌</p></td>
+<td><p>재생됨</p></td>
+<td><p>–</p></td>
+</tr>
+<tr class="odd">
+<td><p>3079</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/1980년" title="wikilink">1980년</a></p></td>
+<td><p>1986년 1월 29일 <a href="http://vaunut.org/kuva/18146">라푸아에서 손상됨</a></p></td>
+<td><p>재생됨</p></td>
+<td><p>–</p></td>
+</tr>
+<tr class="even">
+<td><p>3089</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/1981년" title="wikilink">1981년</a></p></td>
+<td><p>1998년 3월 6일 위배스퀼래에서 충돌</p></td>
+<td><p>–</p></td>
+<td><p>폐차됨</p></td>
+</tr>
+</tbody>
+</table>
+
+## 미래
+
+Sr1 기관차는 현재 핀란드 철도에서 가장 많이 사용하는 기관차이다. 대부분 핀란드 전철 노선에는 이 기관차를 사용한다. Sr2 기관차가 도입되면서 고속 및 고출력이 필요한 구간은 Sr2로 대차되었다. 전철화 구간 수요가 계속 증가하고 있기 때문에 100여대에 달하는 대체 기관차를 반입하기 전까지는 Sr1을 퇴역시킬 수 없다. 향후 2014-2024년까지 새 기관차가 반입되면 Sr1 기관차가 퇴역할 예정이다.
+
+## 같이 보기
+
+  - [핀란드 철도](https://ko.wikipedia.org/wiki/핀란드_철도 "wikilink")
+  - [VR Sr2](https://ko.wikipedia.org/wiki/VR_Sr2 "wikilink")
+
+## 외부 링크
+
+  - [기관차 사진](http://olaviahokas.com/trainstuff/oavr.html)
+  - [기관차 사진 2](http://www.railfaneurope.net/pix/fi/electric/Sr1/pix.html)
+
+[분류:전기 기관차](https://ko.wikipedia.org/wiki/분류:전기_기관차 "wikilink") [Sr1](https://ko.wikipedia.org/wiki/분류:핀란드의_철도_차량 "wikilink")

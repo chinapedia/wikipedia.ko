@@ -1,0 +1,58 @@
+> This article is converted from Wikipedia: [ FB](https://ko.wikipedia.org/wiki/_FB).
+
+
+**현대 FB**는 [현대자동차](https://ko.wikipedia.org/wiki/현대자동차 "wikilink")의 준대형 전방엔진 상용 [버스](https://ko.wikipedia.org/wiki/버스 "wikilink") 차종이다. [1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink") 1월 HD170 후속모델인 FB485가 처음 출시되었고 1986년 FB485의 후속인 FB500이 현대자동차 역사상 마지막 프론트 엔진 준대형 버스 차종이다.
+
+## 특징
+
+전형적인 전방 엔진-후륜 구동(FR) 방식의 버스이다.
+
+  - [1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink") 최초의 모델이 생산되었고, [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") 2월 풀 모델 체인지되어 [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink") 단종 때까지 페이스리프트 없이 계속 생산되었다. 주요 경쟁 차종은 [대우 BF와](../Page/대우_BF.md "wikilink") [AM907이다](https://ko.wikipedia.org/wiki/아시아_AM버스 "wikilink").
+
+<!-- end list -->
+
+  - [1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink") 1호차가 라인-오프 했다. [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") [1월](https://ko.wikipedia.org/wiki/1월 "wikilink") 현대 FB500가 출시되었으며 [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink") [1월](https://ko.wikipedia.org/wiki/1월 "wikilink") 단종 되었다.
+
+전방 엔진 차량답게 바닥이 1m 정도로 높고 전후 높이가 일정하였으며, 옵션으로 제공되는 냉방 장치는 기본적으로 후방에 서브 엔진 타입으로만 장착되었다\[1\].
+
+직렬 6기통 엔진을 사용하였고, 엔진은 FB485에는 대우중공업(현 [두산인프라코어](https://ko.wikipedia.org/wiki/두산인프라코어 "wikilink"))의 D0846HM/V가, FB500에는 미쓰비시의 D6BR 엔진이 장착되었다. 변속기는 기본적으로 전진 5단, 후진 1단 수동변속기를 장착했고, 옵션으로 전진 6단, 후진 1단의 [ZF](https://ko.wikipedia.org/wiki/ZF "wikilink") [수동변속기](../Page/수동변속기.md "wikilink")를 장착할 수 있었다. 서스펜션은 리프 서스펜션(판스프링)을 사용하였다.
+
+## 모델
+
+### FB485
+
+FB485는 전장 10.1미터급 대형 버스이다. 모델명은 휠베이스\[2\]가 4.85m인 데서 유래하였다. [1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink") 1월에 [HD170의](../Page/현대_HD.md "wikilink") 마이너 체인지 모델로 출시되었다. 외형에서는 [포드의](https://ko.wikipedia.org/wiki/포드_자동차_회사 "wikilink") 섀시와 바디를 응용한 구 모델 [HD170에서](../Page/현대_HD.md "wikilink") 창틀 형상/배열 및 방향지시등과 출입문 형태 정도의 일부 부분만 수정하였으나 제동장치가 기존의 유압식 대신에 공기식으로 변경되면서 개선되었고 운전석 계기반도 승용차와 같은 중앙집중식으로 개선되었다. 엔진은 [대우중공업](../Page/대우중공업.md "wikilink")(현 두산인프라코어)과 MAN사와 기술제휴로 만든 D0846HM(7,255cc급) 엔진을 사용하였다.
+
+[1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink") [1월](https://ko.wikipedia.org/wiki/1월 "wikilink") 현대 FB485 형식은 시내형 도시형버스/시내형 농어촌형버스형의 전중문형과 현대 FB485 자가용버스/관광버스용/시외형 시외농어촌행버스/시외형 시외직행버스형의 전문형과 현대 FB485 시외형 시외완행버스형과 시외형 시외직행버스형의 중문형이 있었는데 [1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink") 부터 현대 FB485 전중비형 시내버스 모델에 슬라이딩형 중문이 옵션으로 채용되었고 하차벨도 추가로 설치되었는데 바로 이것이 국내 프론트엔진 일반 시내버스 중에는 최초로 중문이 슬라이딩인 형식을 채택한 버스가 되었다.\[3\] 이 때부터 완행형도 도시형과 같은 전중문형 채택도 가능하였다. [1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink") 중반에 전문 위의 빗물받이가 동시대의 리어엔진버스 [RB520/520L](../Page/현대_RB.md "wikilink") 의 그것과 같은 형식을 따르고 [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink")에 후속모델 FB500의 시판으로 단종되었으며 [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink") 현대 FB485와 현대 FB500와 대체 되었다. 실내 색상 및 시내버스형의 실내 천장의 둥근 손잡이는 아이보리색 계열의 흰색을 띄고 있었다. 현대 FB485는 전후륜휠 6홀 8핀 형식이다.
+
+시내버스의 경우 운행지역이 주로 대도시 지역에 많이 분포하였고 슬라이딩 중문형식이 등장한 이후로 서울 부산 대구 등을 비롯한 대도시의 시내버스로 많이 도입되어 현대 시내버스 점유율을 1차로 높이는 역할도 하였다. 중소도시와 농어촌 지역에도 몇 대 이용되기도 하였다. 국방부와 치안본부(현 [경찰청](https://ko.wikipedia.org/wiki/대한민국_경찰청 "wikilink"))에 공식 납품되어 병력/경력 수송버스로도 많이 이용되었다. 서울 부산 등의 대도시 지역에서 시내좌석버스로 많이 이용되기도 하였고 자가용의 경우 [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink")대 초중반 당시만 해도 많이 찾아 볼 수 있었을 정도로 많이 이용되었다. 전체 판매량에 있어서는 경쟁차종인 새한(대우)의 BF101에 미치지 못하였으나, 이전 모델인 [HD160/170에](../Page/현대_HD.md "wikilink") 비해 판매량이 크게 증가, 이후 현대버스의 인기에 초석을 놓는 모델이 되었다. 대차시기의 경우 서울시에 운행한 시내버스/시내좌석형과 현재 광역시급 지역에서 운행했던 시내좌석형은 [1980년](https://ko.wikipedia.org/wiki/1980년 "wikilink")대 후반에 조기대차된 사례도 많았으며 이 외에 도시/농어촌 승합형은 대부분 [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink")\~[1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink")에 대차가 이루어지다가 [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") 초반에 모두 대차하였다.
+
+### FB500
+
+FB500은 전장 10.2미터급 대형 버스이다. 모델명은 휠베이스\[4\]가 5m인 데서 유래하였다. [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") 2월 FB485의 후속 모델로 출시되어 [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink")에 후속 없이 단종되었다. 그렇게 되면서 [현대의](https://ko.wikipedia.org/wiki/현대차 "wikilink") 대형 전방엔진 [버스](https://ko.wikipedia.org/wiki/버스 "wikilink")는 역사속으로 사라졌다. 외형은 동시대 동종 리어엔진버스인 [RB520의](../Page/현대_RB.md "wikilink") 차체의 디자인을 응용하였고, 엔진은 기존의 대우중공업 D0846HM-V 엔진 대신 [현대자동차](https://ko.wikipedia.org/wiki/현대자동차 "wikilink")가 미쓰비시에서 도입하여 만든 D6BR(6기통 7,545cc급) 엔진을 사용하였다. 단, 시내버스형 및 경찰납품용 모델과 자가용/직행형 및 군납용 모델의 엔진출력과 미션을 다르게 적용하여 서로 성능 및 용도를 차별화하였다.\[5\] 측면 창문 배열 및 실내 색상도 차별화하여 시내버스형 및 경찰 납품형 모델은 측면 5칸 형식의 창문에 실내 색상 및 시내버스형의 실내 천장의 둥근 손잡이는 회색을 띄고 있었다. 단 경찰 납품형은 실내 색상이 아이보리색 계열의 흰색을 띄고 있었다. 자가용/직행형 및 군납용 모델은 측면 5칸 창문에 후부 끝에 작은 크기의 개방형 창문이 1개 더 있었고 실내 색상이 아이보리색 계열의 흰색을 띄고 있었다. 현대 FB500은 전후륜휠 6홀 8핀 형식이다.
+
+[1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink") 현대 FB500 형식은 시내형 도시형버스/시내형 농어촌형버스/시내형 시내마을형버스/시내형 시내순환형버스/시내좌석형 시내 직행 좌석형 버스/시외형 시외완행버스형의 전중문형과 현대 FB500 관광버스/자가용버스/시외형 시외직행버스형의 전문형이 있었다. [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink")에 후면부 차량번호판 등이 기존의 번호판 위에 1개 있는 형식에서 번호판 양 옆으로 2개 있는 형식으로 변경되고 [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink")에 신형 리어엔진 시내버스인 [에어로시티](../Page/현대_에어로시티.md "wikilink") 출시 이후 도시형/농어촌형의 하차벨이 그것과 같은 형식을 적용하였으며 [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink") 현대 FB485와 현대 FB500와 대체 되었다.
+
+서울, 부산, 대구,인천 등에서는[1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink")부터 프론트 엔진 차량의 도입이 금지됨에 따라 시내버스로 도입되지 못하였고, 지방의 중소도시 및 농어촌 지역을 중심으로 시내버스 및 마을버스과 시내버스 및 순환버스로 많이 이용되었다. 시내버스 슬라이딩중문차량은 주로 중도시와 울산에서 많이 이용되었으며, 소도시와 농어촌지역은 주로 시내버스 폴딩중문차량을 많이 이용하였다. 국방부와 치안본부(현 [경찰청](https://ko.wikipedia.org/wiki/대한민국_경찰청 "wikilink"))에 공식 납품되어 병력/경력 수송버스로도 많이 이용되었다. 단 당시 프론트엔진 버스가 퇴조기에 있었기 때문에 자가용 모델의 판매는 상대적으로 저조하였다. 대차시기의 경우 도시/농어촌 승합형은 [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink")부터 대차가 이루어지다가 [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink")대 중후반에는 마을버스 [양산시](https://ko.wikipedia.org/wiki/양산시 "wikilink") 원동면 노선과 시내버스로 가장 많이 운행한 [울산광역시](https://ko.wikipedia.org/wiki/울산광역시 "wikilink")에 그나마 많이 남아 있었으며 [울산광역시](https://ko.wikipedia.org/wiki/울산광역시 "wikilink")에 있던 버스들도 [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink")을 끝으로 운행을 종료하였다. 현재는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") 내에서는 아주 적은양이 생존하고 있으며, 다수의 차량이 주로 [미얀마](https://ko.wikipedia.org/wiki/미얀마 "wikilink"), [라오스](https://ko.wikipedia.org/wiki/라오스 "wikilink")로 팔려나갔다. 총 12,458량이다.
+
+## 각주
+
+<references/>
+
+## 경쟁 차종
+
+  - [대우 BF](../Page/대우_BF.md "wikilink")
+  - [아시아자동차 AM907](https://ko.wikipedia.org/wiki/아시아_AM버스 "wikilink")
+  - [아시아 코스모스](https://ko.wikipedia.org/wiki/아시아_코스모스 "wikilink")
+
+## 사진
+
+파일:Lao bus.jpg|라오스의 FB500 파일:Hyundai_FB500_Laos.jpg|라오스의 FB500 파일:Hyundai_FB500_intercity_bus_in_Savannakhet.jpg|라오스의 FB500 (헤드램프가 다른 차량의 것으로 교체되었다)
+
+[FB](https://ko.wikipedia.org/wiki/분류:현대자동차의_버스_차종 "wikilink") [FB](https://ko.wikipedia.org/wiki/분류:버스 "wikilink") [FB](https://ko.wikipedia.org/wiki/분류:1980년대_자동차 "wikilink") [FB](https://ko.wikipedia.org/wiki/분류:1990년대_자동차 "wikilink") [FB](https://ko.wikipedia.org/wiki/분류:1982년_도입된_자동차 "wikilink")
+
+1.  냉방기 가동용 엔진은 그레이스, 포터, 갤로퍼 등에 사용된 [미쓰비시](https://ko.wikipedia.org/wiki/미쓰비시 "wikilink") D4BX 엔진을 사용하였다.
+2.  전후 차축간 거리를 말한다.
+3.  <http://newslibrary.naver.com/viewer/index.nhn?articleId=1983080400329201024&editNo=2&printCount=1&publishDate=1983-08-04&officeId=00032&pageNo=1&printNo=11646&publishType=00020>
+4.
+5.  당시 현대 FB500 카탈로그에 의하면, 시내버스형 및 경찰납품용은 185마력에 5단 미션을 적용하여 연비 중심으로 세팅하였고(최고시속 85km/h), 자가용/직행형 및 군납용은 190마력에 6단 미션을 적용하여 성능 중심으로 세팅하였다(최고시속 105km/h).

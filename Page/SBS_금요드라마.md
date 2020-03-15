@@ -1,0 +1,83 @@
+> This article is converted from Wikipedia: [SBS ](https://ko.wikipedia.org/wiki/SBS_).
+
+
+'''SBS 금요드라마 '''는 [SBS](../Page/SBS.md "wikilink")에서 [금요일](https://ko.wikipedia.org/wiki/금요일 "wikilink") 밤에 방송되는 [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink")이다.
+
+SBS 외의 각 지역 민영방송에서도 방영되었었으며, [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [10월 15일부터](https://ko.wikipedia.org/wiki/10월_15일 "wikilink") 《[아내의 반란](../Page/아내의_반란.md "wikilink")》이 편성됨으로써 방송이 시작된 금요드라마는 금요일 오후 9시 55분부터 2회분이 19세 이상 시청가로 연속 방영되었다가 [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [12월 9일부터](https://ko.wikipedia.org/wiki/12월_9일 "wikilink") 첫 방송된 《[그 여자](https://ko.wikipedia.org/wiki/그_여자 "wikilink")》부터 밤 8시 55분에 편성을 변경함과 동시에, 15세 이상 시청가로 변경하였다.
+
+[2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [6월 15일부터](https://ko.wikipedia.org/wiki/6월_15일 "wikilink") 첫 방송됐던 《[8월에 내리는 눈](../Page/8월에_내리는_눈.md "wikilink")》 부터 처음 시작할 때의 시간대로 되돌아왔고 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [10월 24일까지](https://ko.wikipedia.org/wiki/10월_24일 "wikilink") 종영된 《[신의 저울](../Page/신의_저울.md "wikilink")》을 끝으로 폐지되었다. 《[달콤한 나의 도시](../Page/달콤한_나의_도시_\(드라마\).md "wikilink")》와 《[신의 저울](../Page/신의_저울.md "wikilink")》은 **프리미엄 드라마**란 타이틀이 붙었다.
+
+이후 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [9월 2일부터](https://ko.wikipedia.org/wiki/9월_2일 "wikilink") 《[더 뮤지컬](../Page/더_뮤지컬.md "wikilink")》로 다시 편성되었으며 기존과는 달리 밤 9시 55분부터 한 회만 방송하였으며 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [12월 23일부터](https://ko.wikipedia.org/wiki/12월_23일 "wikilink") 금요드라마가 다시 폐지되었다가 드라마 종영 후 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [1월 6일부터](https://ko.wikipedia.org/wiki/1월_6일 "wikilink") 《[세대공감 1억 퀴즈쇼](../Page/세대공감_1억_퀴즈쇼.md "wikilink")》를 편성되었다가 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [11월 16일부터](https://ko.wikipedia.org/wiki/11월_16일 "wikilink") 《[정글의 법칙](../Page/정글의_법칙.md "wikilink")》이 계속 편성중이었다.
+
+이후 [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [2월 15일부터](https://ko.wikipedia.org/wiki/2월_15일 "wikilink") 《[열혈사제](../Page/열혈사제.md "wikilink")》를 [SBS 금토드라마로](../Page/SBS_금토드라마.md "wikilink") 편성할 때까지 약 7년간 금요일에 드라마를 방송하지 않았으나 [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [8월 9일](https://ko.wikipedia.org/wiki/8월_9일 "wikilink") 시작되어 2회 연속 편성(오후 11시 10분부터)된 《[힙합왕 - 나스나길](https://ko.wikipedia.org/wiki/힙합왕_-_나스나길 "wikilink")》 을 통해\[1\] 금요드라마가 부활됐다.
+
+## 방송 시간
+
+| 방송 채널                                                     | 방송 기간                         | 방송 시간                         | 방송 분량                     |
+| --------------------------------------------------------- | ----------------------------- | ----------------------------- | ------------------------- |
+| [SBS TV](https://ko.wikipedia.org/wiki/SBS_TV "wikilink") | 2004년 10월 15일 \~ 2005년 12월 2일 | 매주 금요일 밤 9시 55분 \~ 11시 55분    | 2시간</br>(회당 60분 2회 연속 방송) |
+| 2005년 12월 9일 \~ 2007년 6월 1일                               | 매주 금요일 밤 8시 55분 \~ 10시 55분    |                               |                           |
+| 2007년 6월 15일 \~ 2008년 10월 24일                             | 매주 금요일 밤 9시 55분 \~ 11시 55분    |                               |                           |
+| 2011년 9월 2일 \~ 2011년 12월 23일                              | 매주 금요일 밤 9시 55분 \~ 11시 5분     | 1시간 10분                       |                           |
+| 2019년 8월 9일 \~ 2019년 9월 6일                                | 매주 금요일 밤 11시 10분 \~ 12시 20분   | 1시간 10분 (1부 40분 2부 30분 분할 방송) |                           |
+| 2019년 9월 13일                                              | 매주 금요일 밤 12시 35분 \~ 1시 45분    |                               |                           |
+|                                                           |                               |                               |                           |
+
+## 작품 리스트
+
+### 2004년
+
+  - 《[아내의 반란](../Page/아내의_반란.md "wikilink")》 : 2004년 10월 15일 \~ 2005년 1월 21일
+
+### 2005년
+
+  - 《[사랑공감](https://ko.wikipedia.org/wiki/사랑공감 "wikilink")》 : 2005년 1월 28일 \~ 2005년 4월 15일
+  - 《[꽃보다 여자](../Page/꽃보다_여자.md "wikilink")》 : 2005년 4월 22일 \~ 2005년 7월 1일
+  - 《[사랑한다 웬수야](../Page/사랑한다_웬수야.md "wikilink")》 : 2005년 7월 15일 \~ 2005년 9월 9일
+  - 《[다이아몬드의 눈물](../Page/다이아몬드의_눈물.md "wikilink")》 : 2005년 9월 23일 \~ 2005년 12월 2일
+  - 《[그 여자](../Page/그_여자_\(2005년_드라마\).md "wikilink")》 : 2005년 12월 9일 \~ 2006년 2월 17일\[2\]
+
+### 2006년
+
+  - 《[어느날 갑자기](https://ko.wikipedia.org/wiki/어느날_갑자기_\(2006년_드라마\) "wikilink")》 : 2006년 2월 24일 \~ 2006년 4월 28일
+  - 《[나도야 간다](../Page/나도야_간다.md "wikilink")》 : 2006년 5월 19일 \~ 2006년 8월 4일\[3\]
+  - 《[내 사랑 못난이](../Page/내_사랑_못난이.md "wikilink")》 : 2006년 8월 11일 \~ 2006년 10월 13일
+  - 《[마이 러브](../Page/마이_러브_\(드라마\).md "wikilink")》 : 2006년 10월 27일 \~ 2007년 1월 5일
+
+### 2007년
+
+  - 《[소금인형](../Page/소금인형.md "wikilink")》 : 2007년 1월 12일 \~ 2007년 3월 16일
+  - 《[연인이여](../Page/연인이여.md "wikilink")》 : 2007년 3월 30일 \~ 2007년 6월 1일
+  - 《[8월에 내리는 눈](../Page/8월에_내리는_눈.md "wikilink")》 : 2007년 6월 15일 \~ 2007년 8월 17일
+  - 《[날아오르다](https://ko.wikipedia.org/wiki/날아오르다 "wikilink")》 : 2007년 8월 24일 \~ 2007년 10월 26일
+  - 《[아들찾아 삼만리](../Page/아들찾아_삼만리.md "wikilink")》 : 2007년 11월 2일 \~ 2008년 1월 25일
+
+### 2008년
+
+  - 《[비천무](https://ko.wikipedia.org/wiki/비천무#드라마 "wikilink")》 : 2008년 2월 1일 \~ 2008년 3월 21일
+  - 《[우리집에 왜왔니](../Page/우리집에_왜왔니_\(드라마\).md "wikilink")》 : 2008년 3월 28일 \~ 2008년 5월 30일 (프리미엄 드라마로 방송됨)
+  - 《[달콤한 나의 도시](../Page/달콤한_나의_도시_\(드라마\).md "wikilink")》 : 2008년 6월 6일 \~ 2008년 8월 1일 (프리미엄 드라마로 방송됨)
+  - 《[신의 저울](../Page/신의_저울.md "wikilink")》 : 2008년 8월 29일 \~ 2008년 10월 24일
+
+### 2011년
+
+  - 《[더 뮤지컬](../Page/더_뮤지컬.md "wikilink")》 : 2011년 9월 2일 \~ 2011년 12월 23일
+
+### 2019년
+
+  - 《[힙합왕 - 나스나길](https://ko.wikipedia.org/wiki/힙합왕_-_나스나길 "wikilink")》 : 2019년 8월 9일 \~ 2019년 9월 13일 (음악 드라마로 방송됨)
+
+## 같이 보기
+
+  - [한국방송공사 금요드라마](https://ko.wikipedia.org/wiki/한국방송공사_금요드라마 "wikilink")
+  - [SBS 금토드라마](../Page/SBS_금토드라마.md "wikilink")
+
+## 각주
+
+<references/>
+
+[분류:SBS의 텔레비전 드라마](https://ko.wikipedia.org/wiki/분류:SBS의_텔레비전_드라마 "wikilink") [SBS_금요드라마](https://ko.wikipedia.org/wiki/분류:SBS_금요드라마 "wikilink")
+
+1.
+2.  이 작품부터 15세 이상 시청가로 등급이 변경되었다.
+3.  이 작품부터 [HD](https://ko.wikipedia.org/wiki/고선명_텔레비전 "wikilink") 방송이 시작되었다.

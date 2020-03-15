@@ -1,0 +1,101 @@
+> This article is converted from Wikipedia: [MSL 2 ](https://ko.wikipedia.org/wiki/MSL_2_).
+
+
+**MSL 2차 마이너리그**는 [하나포스 센게임 MSL 2004의](https://ko.wikipedia.org/wiki/하나포스_센게임_MSL_2004 "wikilink") 진출자를 가리기 위한 대회이다.
+
+## 리그기간
+
+  - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [9월 1일](https://ko.wikipedia.org/wiki/9월_1일 "wikilink") \~ [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [11월 24일](https://ko.wikipedia.org/wiki/11월_24일 "wikilink")
+
+## 리그방식
+
+  - 지난시즌 마이너리그 탈락자 12명과 마이너리그 예선전 통과자 12명, 총 24명으로 구성된다.
+  - 24강은 한조에 3명씩 총 8개 조로 나누어서 각 조 2위까지 16강에 진출한다.
+  - 16강과 8강은 3판 2선승제로 진행한다.
+  - 8강 통과자 4명은 본선으로 직행하고 8강 탈락자 4명은 리그결정전으로 진출한다.
+  - 리그결정전은 마이너리그 8강 탈락자 4명, 지난시즌 패자 8강 1차 탈락자 4명, 패자 8강 2차 탈락자 4명, 총 12명으로 구성된다.
+  - 리그결정전 1라운드는 마이너리그 8강 탈락자와 지난시즌 패자 8강 1차 탈락자끼리 3판 2선승제로 진행한다.
+  - 리그결정전 2라운드는 리그결정전 1라운드 통과자와 지난시즌 패자 8강 2차 탈락자끼리 3판 2선승제로 진행한다.
+  - 리그결정전 통과자 4명은 본선에 진출하고 탈락자 8명은 다음시즌 마이너리그에 직행한다.
+
+## 마이너진출전
+
+### 예선전
+
+### 본선
+
+  - **일정** : [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [8월 10일](https://ko.wikipedia.org/wiki/8월_10일 "wikilink") *(오프라인 예선 포함)*
+
+|            |                                                         |        |                                                                   |
+| ---------- | ------------------------------------------------------- | ------ | ----------------------------------------------------------------- |
+| 마이너진출전     | Match1                                                  | Match2 | Match3                                                            |
+| 1조 \~ 6조   | **[차재욱](../Page/차재욱.md "wikilink")**                    | **2**  | [박정은](https://ko.wikipedia.org/wiki/박정은_\(프로게이머\) "wikilink")     |
+| 7조 \~ 12조  | **[백영민](../Page/백영민_\(프로게이머\).md "wikilink")**          | **2**  | [박상익](https://ko.wikipedia.org/wiki/박상익 "wikilink")               |
+| 13조 \~ 18조 | [박태민](https://ko.wikipedia.org/wiki/박태민 "wikilink")     | 1      | **[김동진](https://ko.wikipedia.org/wiki/김동진_\(프로게이머\) "wikilink")** |
+| 19조 \~ 24조 | **[조정현](https://ko.wikipedia.org/wiki/조정현 "wikilink")** | **2**  | [김종성](https://ko.wikipedia.org/wiki/김종성_\(프로게이머\) "wikilink")     |
+
+## 본선진출자
+
+| 1조  | 2조  | 3조  | 4조  | 5조  | 6조  | 7조  | 8조  | 9조  | 10조 | 11조 | 12조 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 차재욱 | 최수범 | 박정길 | 백영민 | 이현승 | 조용성 | 김동진 | 성학승 | 장진남 | 조정현 | 박신영 | 임정호 |
+
+## 마이너리그
+
+  - **일정** : [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [9월 1일](https://ko.wikipedia.org/wiki/9월_1일 "wikilink") \~ [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [10월 6일](https://ko.wikipedia.org/wiki/10월_6일 "wikilink")
+
+| A조                                                      | B조    | C조                                                                | D조    |
+| ------------------------------------------------------- | ----- | ----------------------------------------------------------------- | ----- |
+| **[김현진](https://ko.wikipedia.org/wiki/김현진 "wikilink")** | 1승 1패 | **[강도경](../Page/강도경.md "wikilink")**                              | 2승    |
+| **[변길섭](../Page/변길섭.md "wikilink")**                    | 2승    | **[김동진](https://ko.wikipedia.org/wiki/김동진_\(프로게이머\) "wikilink")** | 1승 1패 |
+| [성학승](../Page/성학승.md "wikilink")                        | 2패    | [조병호](https://ko.wikipedia.org/wiki/조병호 "wikilink")               | 2패    |
+|                                                         |       |                                                                   |       |
+
+| E조                                                  | F조    | G조                                                                | H조    |
+| --------------------------------------------------- | ----- | ----------------------------------------------------------------- | ----- |
+| **[나경보](../Page/나경보.md "wikilink")**                | 2승    | **[김정민](https://ko.wikipedia.org/wiki/김정민_\(프로게이머\) "wikilink")** | 2승    |
+| **백영민**                                             | 1승 1패 | [조정현](https://ko.wikipedia.org/wiki/조정현_\(프로게이머\) "wikilink")     | 2패    |
+| [박정석](https://ko.wikipedia.org/wiki/박정석 "wikilink") | 2패    | **[박성준](../Page/박성준_\(1986년\).md "wikilink")**                    | 1승 1패 |
+|                                                     |       |                                                                   |       |
+
+### 16강 \~ 8강
+
+  - **16강** : [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [10월 13일](https://ko.wikipedia.org/wiki/10월_13일 "wikilink") \~ [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [11월 3일](https://ko.wikipedia.org/wiki/11월_3일 "wikilink")
+  - **8강** : [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [11월 10일](https://ko.wikipedia.org/wiki/11월_10일 "wikilink"), [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [11월 13일](https://ko.wikipedia.org/wiki/11월_13일 "wikilink")
+
+|    |                                                |       |
+| -- | ---------------------------------------------- | ----- |
+| 조  | 16강                                            | 8강    |
+| A조 | [변길섭](../Page/변길섭.md "wikilink")               | 1     |
+| B조 | **[박신영](../Page/박신영_\(프로게이머\).md "wikilink")** | **2** |
+| C조 | **[나경보](../Page/나경보.md "wikilink")**           | **2** |
+| D조 | 이현승                                            | 1     |
+
+## 리그결정전
+
+  - **1라운드** : [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [11월 17일](https://ko.wikipedia.org/wiki/11월_17일 "wikilink")
+  - **2라운드** : [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [11월 20일](https://ko.wikipedia.org/wiki/11월_20일 "wikilink"), [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [11월 24일](https://ko.wikipedia.org/wiki/11월_24일 "wikilink")
+
+|    |                                                                   |                                  |
+| -- | ----------------------------------------------------------------- | -------------------------------- |
+| 조  | 1라운드                                                              | 2라운드                             |
+| A조 | **[베르트랑](../Page/베르트랑_그로스펠리에.md "wikilink")**                     | [차재욱](../Page/차재욱.md "wikilink") |
+| B조 | **[김동진](https://ko.wikipedia.org/wiki/김동진_\(프로게이머\) "wikilink")** | [김환중](../Page/김환중.md "wikilink") |
+| C조 | **[나경보](../Page/나경보.md "wikilink")**                              | [박용욱](../Page/박용욱.md "wikilink") |
+| D조 | **[박신영](../Page/박신영_\(프로게이머\).md "wikilink")**                    | [전태규](../Page/전태규.md "wikilink") |
+
+## 본선 진출자 및 차기 시즌 시드권자 목록
+
+**본선 진출자**
+
+  - 테란 : 서지훈, 김정민, 김현진
+  - 저그 : 주진철, 나경보, 박신영, 조용호
+  - 프로토스 : 강민
+
+**다음 시즌 시드권자 목록**
+
+  - 테란 : 베르트랑, 김동진, 나도현, 차재욱
+  - 저그 : 변은종
+  - 프로토스 : 김환중, 박용욱, 전태규
+
+[분류:MSL](https://ko.wikipedia.org/wiki/분류:MSL "wikilink")

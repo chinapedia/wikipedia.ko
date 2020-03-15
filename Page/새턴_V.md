@@ -1,0 +1,238 @@
+> This article is converted from Wikipedia: [ V](https://ko.wikipedia.org/wiki/_V).
+
+
+**새턴 V**()은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")이 [달](https://ko.wikipedia.org/wiki/달 "wikilink") 탐사를 위해 개발한 대형 [로켓](https://ko.wikipedia.org/wiki/로켓 "wikilink")이다. 흔히 **새턴 5호**라고도 한다. 이 로켓은 [베르너 폰 브라운이](../Page/베르너_폰_브라운.md "wikilink") 디자인하고 개발하였다.
+
+## 배경
+
+[1957년](https://ko.wikipedia.org/wiki/1957년 "wikilink") [10월 4일](https://ko.wikipedia.org/wiki/10월_4일 "wikilink"), [소비에트 연방이](https://ko.wikipedia.org/wiki/소비에트_연방 "wikilink") 사상 최초의 인공위성 [스푸트니크 1호를](../Page/스푸트니크_1호.md "wikilink") 발사했다. 당시 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") 상원의 원내총무를 맡았고, 후에 [존 F. 케네디의](https://ko.wikipedia.org/wiki/존_F._케네디 "wikilink") 암살에 의해서 임시 대통령으로 취임한 [린든 존슨은](https://ko.wikipedia.org/wiki/린든_존슨 "wikilink") 그 때의 인상에 대해서,
+
+라고 회상했다. 하지만 [스푸트니크의 충격은](https://ko.wikipedia.org/wiki/스푸트니크_쇼크 "wikilink") 그것만으로 끝나지 않았다. [1961년](https://ko.wikipedia.org/wiki/1961년 "wikilink")에는, [유리 가가린이](https://ko.wikipedia.org/wiki/유리_가가린 "wikilink") 보스토크 1호로 세계 최초의 유인 우주비행을 행했다. [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") 국민은, [소련이](https://ko.wikipedia.org/wiki/소비에트_연방 "wikilink") 우주 개발 경쟁에 대해 분명하게 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")을 앞지르려 하고 있는 것을 알게 되었다.
+
+이것에 대해 [1961년](https://ko.wikipedia.org/wiki/1961년 "wikilink") [5월 25일](https://ko.wikipedia.org/wiki/5월_25일 "wikilink"), [존 F. 케네디](https://ko.wikipedia.org/wiki/존_F._케네디 "wikilink") 대통령은 [1960년대](https://ko.wikipedia.org/wiki/1960년대 "wikilink")가 가기 전까지 인간을 [달](https://ko.wikipedia.org/wiki/달 "wikilink") 표면에 도달시키겠다는 성명을 발표했다. 그렇다고는 해도, 그 시점에서 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")이 행한 유인 우주비행이라 하면, [머큐리 계획의](../Page/머큐리_계획.md "wikilink") 최초의 유인우주비행(프리덤 7호)으로 [앨런 셰퍼드](https://ko.wikipedia.org/wiki/앨런_셰퍼드 "wikilink") 비행사가 행한, 불과 15분간의 탄도 비행뿐이었다. 당시 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")에는, 유인 우주선을 [달](https://ko.wikipedia.org/wiki/달 "wikilink")까지 도달시킬 수 있는 로켓은 단 1기도 존재하지 않았던 것이다. 단지, 개발중이었던 대형 로켓 [새턴 I을](https://ko.wikipedia.org/wiki/새턴_I "wikilink") 복수로 사용하면, 궤도상에 [달](https://ko.wikipedia.org/wiki/달 "wikilink") 비행용 우주선을 올리는 것은 가능했지만, 새턴 I이 첫비행한 것은 당시로부터 5개월 후인 [1961년](https://ko.wikipedia.org/wiki/1961년 "wikilink") [10월 27일의](https://ko.wikipedia.org/wiki/10월_27일 "wikilink") 일이었다. 새턴 V 계획은 이때까지도 없는 상태였지만, 후에 같은 기체에 사용되는 강력한 F-1 로켓 엔진은 이미 개발되어 연소 시험도 행해지고 있었다.
+
+### 계획의 개요
+
+계획의 초기 단계에서, [NASA는](https://ko.wikipedia.org/wiki/미국_항공우주국 "wikilink") [달](https://ko.wikipedia.org/wiki/달 "wikilink") 비행에 대해서,
+
+1.  직접 강하 방식
+2.  [지구](../Page/지구.md "wikilink") 주회 궤도 랑데부 방식
+3.  [달궤도 랑데부](https://ko.wikipedia.org/wiki/달궤도_랑데부 "wikilink") 방식(Lunar Orbit Rendezvous; LOR)
+
+의 3종류의 계획을 가지고 있었다. 1안은 거대 로켓을 사용해 직접 [달](https://ko.wikipedia.org/wiki/달 "wikilink") 표면에 착륙하는 것, 2안은 [지구](../Page/지구.md "wikilink") 주회 궤도상에 2기의 우주선을 두 번으로 나누어 쏘아 올려 도킹시키고 나서 [달](https://ko.wikipedia.org/wiki/달 "wikilink")표면으로 향하는 것, 3안은 1회의 발사로 모선과 달 착륙선을 한 번에 쏘아 올려 착륙선만이 [달](https://ko.wikipedia.org/wiki/달 "wikilink") 표면에 착륙해서, [달](https://ko.wikipedia.org/wiki/달 "wikilink") 주회 궤도에서 랑데부와 도킹을 행하고 나서 [지구](../Page/지구.md "wikilink")로 귀환한다는 것이다.
+
+NASA는 당초 3번째 안에 대해서는, 랑데부나 도킹은 [지구](../Page/지구.md "wikilink") 주회 궤도상에 있어서도 행해진 일이 없고, 하물며 [달](https://ko.wikipedia.org/wiki/달 "wikilink") 주회 궤도상에서 행하는 것은 너무 위험하다고 하여 배제하고 있었지만, 랭글리 연구소 기술사 [존 휴볼트나](https://ko.wikipedia.org/wiki/존_휴볼트 "wikilink") NASA 사무관 조지 로 등의 몇 명의 [NASA](https://ko.wikipedia.org/wiki/미국_항공우주국 "wikilink") 공무원은 LOR 방식이 가장 단순한 방법이며, 비용 면에서 봐도, (그리고 이것이 아마 가장 중요한 일이지만) [1960년대](https://ko.wikipedia.org/wiki/1960년대 "wikilink") 안에 월면 착륙을 성공시킨다고 하는 목표를 달성시키기 위해서도 최선의 방법이라고 주장했다. 이윽고 다른 관료들도 그것을 확신해 [1962년](https://ko.wikipedia.org/wiki/1962년 "wikilink") [11월 7일](https://ko.wikipedia.org/wiki/11월_7일 "wikilink"), LOR 방식이 계획의 기본 방침으로서 정식으로 채택되었다.
+
+## 개발
+
+### C-1에서부터 C-4까지
+
+[1960년](https://ko.wikipedia.org/wiki/1960년 "wikilink")에서 [1962년](https://ko.wikipedia.org/wiki/1962년 "wikilink")에, 마셜 우주 비행 센터는 다목적 로켓 개발에 관한 여러 가지 구상을 하고 있었다. 그 중 C-1으로 불렸던 계획은, 후에 [새턴 I 로켓으로](https://ko.wikipedia.org/wiki/새턴_I_로켓 "wikilink") 실현된다. C-2로 불리는 계획은, 제1단 로켓에 2기의 F-1 엔진, 제2단 로켓에 4기의 J-2 엔진, 제3단 로켓에 6기의 RL-10 엔진을 사용하는 것으로, 초기 단계에서 C-3 계획에 흡수되었다.
+
+[NASA는](https://ko.wikipedia.org/wiki/미국_항공우주국 "wikilink") 당초, C-3 계획의 로켓을 4기에서 5기를 사용해 [달](https://ko.wikipedia.org/wiki/달 "wikilink") 비행용 우주선을 제작하는, 지구 주회 궤도 랑데부 방식을 계획하고 있었지만, 그때 벌써 마셜 우주 비행 센터는, 보다 큰 C-4 로켓을 계획하고 있었다. C-4는 제1단에 4기의 F-1, 제2단은 C-3의 둘째 단의 확장형, 그리고 제3단은 J-2 엔진을 탑재한 S-IVB를 사용하는 것이다. 이 방식이면, 사용하는 로켓은 2기가 된다.
+
+### C-5
+
+[1962년](https://ko.wikipedia.org/wiki/1962년 "wikilink") [1월 10일](https://ko.wikipedia.org/wiki/1월_10일 "wikilink"), [NASA는](https://ko.wikipedia.org/wiki/미국_항공우주국 "wikilink") C-5 로켓 계획을 발표했다. C-5는 제1단에 5기의 F-1, 제2단에 5기의 J-2, 제3단에 1기의 J-2를 사용하는 것이다(이것이 그대로 새턴 V 의 디자인이 되었다). C-5는 [달](https://ko.wikipedia.org/wiki/달 "wikilink") 비행을 위해서 필요한 양보다 높은 탑재 능력, 특히 [달](https://ko.wikipedia.org/wiki/달 "wikilink") 궤도에 41,000 kg 이상의 위성을 투입할 수 있는 능력을 가지는 것으로서 디자인되었다. 단지 제1호기를 제작하기 전에는, 각 부분의 시험을 반복하지 않으면 안 되었다. 제3단 로켓은 C-IB의 제2단으로도 이용할 수 있는 것으로, C-5의 개념과 실행 가능성을 증명해야 하지만, 동시에 개발을 계속하기 위해서 검토되어야 할 데이터도 제공되어야 한다. 또 유인 비행 전의 무인 발사 실험의 횟수를 줄이기 위해서도, 로켓의 각 단을 별개로 시험하는 것이 아니라 모든 단을 한 번에 정리해 발사 시험을 하는 편이 바람직하다고 판단되었다.
+
+[1963년](https://ko.wikipedia.org/wiki/1963년 "wikilink") 초, C-5는 [아폴로 계획을](https://ko.wikipedia.org/wiki/아폴로_계획 "wikilink") 위한 정식 로켓으로서 [NASA에](https://ko.wikipedia.org/wiki/미국_항공우주국 "wikilink") 의해 추인되어 동시에 새턴 V 라고 명명되었다.
+
+## 기술
+
+새턴 V 의 거대한 크기와 탑재 능력은 그 이전에 발사된 모든 로켓도 충분히 능가하는 것이었다. 전체 길이는 110.6 m, 직경은 날개 부분을 제외해도 10 m, 총중량 2,721톤으로, [지구 저궤도에](../Page/지구_저궤도.md "wikilink") 118톤의 [인공위성](../Page/인공위성.md "wikilink")을 쏘아 올릴 수 있는 능력을 가졌다. [런던](https://ko.wikipedia.org/wiki/런던 "wikilink")의 [세인트 폴 대성당보다](https://ko.wikipedia.org/wiki/세인트_폴_대성당 "wikilink") 단 1피트 작고, VAB(동체 조립 건물)로부터 출고될 때는, 문과의 틈새는 1.82 m 에 불과했다. [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 첫 유인우주비행 프리덤 7호에 사용된 레드스톤 로켓은, 제3단 S-IVB 보다 겨우 3.4 m 길 뿐이었고, 게다가 출력은 아폴로 사령선에 설치되어 있는 비상 탈출 로켓(Launch Escape System, LES)보다 작았다.
+
+새턴 V 는 주로 [앨라배마주](https://ko.wikipedia.org/wiki/앨라배마주 "wikilink") 헌츠빌의 마셜 우주 비행 센터에서 디자인되었지만, 추진 기관을 포함한 다수의 시스템은 하청 기업에 의해서 설계되었다. 강력한 F-1 엔진과 J-2 엔진의 힘은, 지상에서 연소 시험을 할 때는 근린 가옥의 창을 파괴해 버릴 만큼이나 컸다. 기술자들은, 당초부터 [새턴 I 로켓에서](https://ko.wikipedia.org/wiki/새턴_I_로켓 "wikilink") 사용된 기술을 가능한 한 새턴 V 에 유용하려고 시도하였고, 실제로 제3단 S-IVB는 [새턴 I 로켓의](https://ko.wikipedia.org/wiki/새턴_I_로켓 "wikilink") 제2단 S-IV 를 기초로 해 개발된 것이었다. 자동제어장치도 [새턴 I 로켓](https://ko.wikipedia.org/wiki/새턴_I_로켓 "wikilink") 독자적으로 사용되고 있던 것을 유용했다.
+
+### 구성
+
+[right](https://ko.wikipedia.org/wiki/파일:Saturn_v_schematic.jpg "wikilink") [섬네일에](https://ko.wikipedia.org/wiki/파일:Saturn_V_Rocket_Booster.jpg "wikilink") 전시되고 있는 S-IC 의 5기의 엔진\]\] 새턴 V 는 제1단 S-IC, 제2단 S-II, 제3단 S-IVB, 그리고 자동제어장치로 구성되어 있었다. 산화제는 모두 액체 산소가 사용되었지만, 연료는 제1단만이 등유, 제2단과 제3단은 액체 수소이다. 각 단에는, 분리 시에 확실히 로켓을 분리시키고, 또 연료를 탱크 바닥의 강압 펌프로 보내기 위한 소형의 고체연료 로켓이 탑재되었다.
+
+### 제1단 로켓(S-IC)
+
+[섬네일의](https://ko.wikipedia.org/wiki/파일:Apollo_8_first_stage_in_the_Vehicle_Assembly_Building.jpg "wikilink") 제1단 S-IC. [1968년](https://ko.wikipedia.org/wiki/1968년 "wikilink") [2월 1일](https://ko.wikipedia.org/wiki/2월_1일 "wikilink")\]\] S-IC 는, 뉴올리언스에 있는 보잉 사의 미수드 조립 공장(Michoud Assembly Facility)에서 제작되었다. 이 공장에서는, 현재는 [우주 왕복선의](https://ko.wikipedia.org/wiki/우주_왕복선 "wikilink") [외부 연료 탱크를](https://ko.wikipedia.org/wiki/외부_연료_탱크 "wikilink") 제조한다. 발사 시의 2,000톤에 달하는 중량의 대부분을 차지하고 있는 것은, 연료인 등유와 산화제인 액체 산소이다. 전체 길이는 42 m, 직경은 10 m 로, 5기의 F-1 엔진이 3,460톤(34MN)의 추진력을 발휘해, 발사 후 2분 30초 만에 고도 61 km까지 도달시킨다. 이것을 마력으로 환산하면 1억 6,000만 마력에 이르러, 과거에 인류가 만든 모든 엔진 중에서 가장 강력한 것이다. 5기 중 중앙의 1기는 고정돼 있고, 짐벌(Gimbal; 평행 유지 장치)이 설치된 주위의 4기가 로켓의 비행을 제어한다. 또 가속도를 제한하기 위해서 중앙의 1기는 발사 2분 후에 연소를 정지한다.
+
+### 제2단 로켓(S-II)
+
+S-II 는 [캘리포니아주](https://ko.wikipedia.org/wiki/캘리포니아주 "wikilink") 실 비치에 있는 노스 아메리칸 항공에서 제작되었다. 액체 수소와 액체 산소를 사용하는 J-2 엔진을 5기 탑재했고, 제1단과 같이 중앙의 1기는 고정되었고 주위의 4기로 비행을 제어한다. 전체 길이는 24.9 m, 직경은 제1단과 같은 10 m 이다. 453톤(5.1MN)의 추진력으로 로켓을 대기권 상층부까지 상승시킨다. 기체는 초경량으로 설계되어 전 중량 중 90% 이상을 연료와 산화제가 차지하지만, 구조 시험에서 2기가 사고를 냈다. 탱크는 S-IC 와 같이 두 개의 탱크를 내장하는 것이 아니라, 액체 산소 탱크의 상부와 액체 수소 탱크의 하부는 페놀 수지로 만들어진 벌집 모양 구조물로 분리된 두개의 알루미늄 박판으로 만들어진 한 장의 격벽으로 나뉘었다. 이 격벽은 두 개의 탱크의 70 °C의 온도차를 절연시켜, 기체 중량을 3.6톤 줄이는 것에 성공했다. S-II 와 S-IC 는, 수송선에 의해서 바다로 [케네디 우주 센터에](../Page/케네디_우주_센터.md "wikilink") 반입되었다.
+
+### 제3단 로켓(S-IVB)
+
+S-IVB 는 [캘리포니아주](https://ko.wikipedia.org/wiki/캘리포니아주 "wikilink") 헌팅턴 비치의 더글라스 에어크래프트 사에서 제조되었다. J-2 엔진을 1기 탑재하고 있어, 연료는 S-II 와 같은 액체 수소이다. 연료와 산화제의 탱크는 S-II 와 같이, 한 장의 격벽만으로 나뉘었다. 전체 길이는 17.85 m, 직경은 6.6 m 로, 중량을 줄이기 위한 다양한 궁리가 이루어지고 있었다. [달](https://ko.wikipedia.org/wiki/달 "wikilink") 비행을 하는 것에 즈음해, S-IVB 는 2회의 분사를 행한다. 1회째는, 제2단의 연소 종료 후부터 2분 반에 걸쳐서 행해지는 것으로, 기체를 [지구](../Page/지구.md "wikilink") 주회 궤도에 올린다. 그 후 다시 6분의 분사를 행해, [달](https://ko.wikipedia.org/wiki/달 "wikilink")로 향하는 궤도에 오르는 것이다.
+
+또한 S-IVB 는, *슈퍼 구피*로 불리는 비행기를 사용해 하늘로 [케네디 우주 센터로](../Page/케네디_우주_센터.md "wikilink") 수송되었다.
+
+### 자동제어장치
+
+[left의](https://ko.wikipedia.org/wiki/파일:IU-501_From_Below.jpg "wikilink") 자동제어장치\]\] IBM 사가 제작한 자동제어장치는, 제3단의 정상부에 설치되었다. 기기 본체의 조립은 헌츠빌의 마셜 우주 비행 센터에서 행해졌다. 내부에는 [자이로스코프](../Page/자이로스코프.md "wikilink")나 가속도 검출기 등 여러 가지 계측 기기가 탑재되고 있어 거기서 나온 데이터를 컴퓨터가 즉시 계산해, 예정된 항로로부터 이탈하는 일이 없도록 발사 직후부터 제3단이 분리될 때까지 로켓을 제어한다.
+
+### 안전 장치
+
+기체가 파손하는 등 비행을 긴급 정지하지 않을 수 없는 사태가 발생했을 경우에는, 자동적으로 안전 장치가 작동해 엔진을 정지하고, 몇 초 후에는 기체 표면에 설치된 자폭 장치에 신호가 보내져 로켓은 폭파된다. 이것에 의해 연료와 산화제가 공중에서 혼합하는 것이 최소한으로 억제되어 연료는 신속하게 분산된다. 즉 시간적 여유를 마련하는 것으로, 비행사에게는 비상 탈출 로켓 또는 기계선의 주 엔진을 사용해 탈출하는 시간적 여유가 생기게 된다.
+
+## 비교
+
+[right](https://ko.wikipedia.org/wiki/파일:S-IC_engines_and_Von_Braun.jpg "wikilink"))\]\] [소련의](https://ko.wikipedia.org/wiki/소비에트_연방 "wikilink") [로켓](https://ko.wikipedia.org/wiki/로켓 "wikilink")으로 새턴 V 에 대항하는 것이라고 하면, [N-1 로켓을](https://ko.wikipedia.org/wiki/N-1_로켓 "wikilink") 들 수 있을 것이다. 전체 길이, 총 중량, 탑재 능력은 모두 새턴 V 가 우수하지만, 제1단의 직경과 추진력은 [N-1 로켓](https://ko.wikipedia.org/wiki/N-1_로켓 "wikilink") 쪽이 우수하다. [N-1 로켓은](https://ko.wikipedia.org/wiki/N-1_로켓 "wikilink") 4회의 발사 실험이 행해졌지만, 로켓이 폭발하는 등의 대사고를 발생시켜 결국 계획 자체가 취소되어 버렸다. 새턴 V 는 제1단에 거대한 F-1 엔진을 5기 탑재하고 있었지만, 그 당시 [소련에는](https://ko.wikipedia.org/wiki/소비에트_연방 "wikilink") F-1에 필적하는 엔진이 존재하지 않았기 때문에, 제1단에는 소형의 엔진을 30기나 탑재해야 했다. 또 새턴은 [아폴로 6호와](https://ko.wikipedia.org/wiki/아폴로_6호 "wikilink") [13호에](https://ko.wikipedia.org/wiki/아폴로_13호 "wikilink") 대해, 발사 시에 엔진 이상에 시달리면서도 보기 좋게 회복했지만, [N-1 로켓은](https://ko.wikipedia.org/wiki/N-1_로켓 "wikilink") 동일한 보정 장치를 장비하고 있으면서 기체를 제어하지 못하고 발사에 실패했다. 새턴 V 의 추진력은 가장 적어도 34.02 MN 이어서, 저궤도에 118톤의 위성을 쏘아 올리는 능력을 가지고 있었다. [아폴로 15호의](https://ko.wikipedia.org/wiki/아폴로_15호 "wikilink") 경우는 이륙 추진력은 3,543톤(34.8 MN)이었고, [스카이랩](https://ko.wikipedia.org/wiki/스카이랩 "wikilink")의 발사에서는 그것을 조금 넘는 3,574톤(35.1 MN)이었지만, 그 이전에 개발된 모든 로켓도 전체 길이·총 중량·유료 하중에 대해 이것을 뛰어넘는 것은 존재하지 않았다. 그러나, 만약 [소련의](https://ko.wikipedia.org/wiki/소비에트_연방 "wikilink") [에네르기아](https://ko.wikipedia.org/wiki/에네르기아 "wikilink")가 실용화되었으면, 이륙 추진력은 [스카이랩](https://ko.wikipedia.org/wiki/스카이랩 "wikilink")과 동등인 35.1 MN 이 될 것이었다. [N-1 로켓의](https://ko.wikipedia.org/wiki/N-1_로켓 "wikilink") 이륙 추진력은 4,484톤(44.1MN)이나 되었지만, 실현되지 않았다.
+
+[left의](https://ko.wikipedia.org/wiki/파일:SaturnVThrust2.jpg "wikilink") S-IC 의 추진력 그래프. 이륙 시의 추진력은 3,543톤(34.8MN)\]\] [소련은](https://ko.wikipedia.org/wiki/소비에트_연방 "wikilink") 장래적으로는 [에네르기아](https://ko.wikipedia.org/wiki/에네르기아 "wikilink")를, 추진력은 새턴 V 를 분명하게 웃도는 46 MN까지 향상시켜, 화물기 벌컨(Vulkan)을 사용해 [지구 저궤도에](../Page/지구_저궤도.md "wikilink") 175톤의 위성을 쏘아 올릴 수 있도록 개량하는 것을 계획하고 있었다. 한편 새턴 V 도, 개량형인 F-1A 엔진을 사용해 추진력을 18% 향상시켜, [저궤도에](../Page/지구_저궤도.md "wikilink") 137톤의 위성을 발사할 수 있는 능력을 가지도록 하는 것이 검토되고 있었다. 그 밖에도 제1단에 8기의 F-1을 탑재한 새턴 C-8 이나, 노바(Nova)와 같은 거대 로켓을 [NASA는](https://ko.wikipedia.org/wiki/미국_항공우주국 "wikilink") 계획하고 있었지만, 그것들은 모두 실현되지 않았다.
+
+또 [우주왕복선](https://ko.wikipedia.org/wiki/우주왕복선 "wikilink")은 최대 30.1 MN의 추진력을 발생시켜,(셔틀 본체를 제외하면) 저궤도에 28.2톤의 발사 능력을 가지고 있지만, 그것은 새턴 V 의 25% 에 불과했다. 셔틀 본체를 포함하면 총중량은 최대로 112톤이 되지만, [아폴로 15호에서는](https://ko.wikipedia.org/wiki/아폴로_15호 "wikilink"), 제3단 S-IVB 와 아폴로 우주선을 포함한 총중량은 140.976 톤이었다.
+
+새턴 이후에 개발된 로켓도, 탑재 능력은 새턴 V 와는 비교가 되지 않는다. 유럽의 [아리안 5 로켓의](https://ko.wikipedia.org/wiki/아리안_5_로켓 "wikilink") 유료 하중은, 지구 정지 전이 궤도(Geostationary Transfer Orbit, GTO)까지 약 10톤이다. [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [12월 21일에](https://ko.wikipedia.org/wiki/12월_21일 "wikilink") 발사된 미국의 델타 IV 로켓은 동 궤도까지 13.1톤이며, 또 [러시아](../Page/러시아.md "wikilink")의 로켓 엔진을 기초로 해 만들어진 아틀라스 V 로켓은, [지구 저궤도에](../Page/지구_저궤도.md "wikilink") 25톤, GTO에 13.605톤이다.
+
+### 제1단 S-IC 추진력 비교
+
+S-IC 는 그 거대한 크기 때문에 자주 추진력으로 다른 로켓과 비교된다. 그렇지만 몇 개의 요소에 주목하면, 그렇게 간단하게는 비교할 수 없는 것을 알 수 있다.
+
+  - 실제로 로켓이 발생시키는 추진력은, 공표되는 수치보다 조금 작거나 또는 크거나, 가끔 매우 심하게 틀리는 일이 있다.
+  - F-1 엔진의 추진력은 [아폴로 15호](https://ko.wikipedia.org/wiki/아폴로_15호 "wikilink") 이후, 그때까지의 679.5톤(6.67MN)에서 689.5톤(6.77MN)으로 향상되어 제1단 S-IC 전체에서도 3,397.5톤(33.35MN)으로부터 3,447.5톤(33.85MN)으로 개선되었다. 이 개선은, 연료의 분사구를 재설계하는 것이나, 추진제의 총류율을 조금 높이는 것에 의해서 달성되었다. 그렇지만, 공표 수치와 실제로 계측된 수치(3,544톤, 34.8 MN)는 분명하게 차이가 났다.
+  - [로켓](https://ko.wikipedia.org/wiki/로켓 "wikilink")의 추진력은, 실제로 비행할 때까지는 직접 계측하는 방법은 존재하지 않는다. 실험 단계에서는, 연소 시험대에서의 압력, 터보 펌프의 회전 속도, 연료의 밀도나 유량율, 노즐의 디자인, 대기 상태, 그리고 특히 대기압 등을 바탕으로 해 수학적으로 계산되는 것만으로 알 수 있다.
+  - 추진력은, 스로틀(추진력 조정) 기능을 가지지 않는 엔진이어도, 대기압, 특히 고도에 따라 크게 변화한다. 예를 들어 [아폴로 15호에서는](https://ko.wikipedia.org/wiki/아폴로_15호 "wikilink"), (실제로 계측된 수치에 근거해 계산된) 이륙 추진력은 대략 3,544톤(34.8MN)이었지만, 중앙 엔진이 정지되어 배기가스가 크게 퍼지는 발사 후 135초의 단계에 있어서는 4,159톤(40.8MN)까지 증가했다.
+  - 추진력에는, 진공 추진력(상단 로켓에 대해서 사용된다)과 해면 추진력(하단 로켓에 대해서 사용된다)의 2종류가 있지만, 양자는 자주 혼동된다.
+  - 또 추진력에는, 평균 추진력과 최대 추진력이 있지만, 이것도 혼동되는 것이 많다. 스로틀 기능을 가지지 않는 엔진이어도, 추진력은 혼합비의 변화, 연소 기간 중의 연료의 밀도의 얼마 안 되는 변화, 터보 펌프·노즐·분사기의 성능 등, 여러 가지 요소에 의해서 변동되는 것이다.
+
+직접 계측하거나 혹은 수학적 수법에 근거해 계산하는 일 없이, 다른 종류의 로켓의 추진력을 단순하게 비교하는 것은, 자주 부정확한 결과를 초래한다. 상기와 같이, 추진력은 사전에 계산된 것과 실제로 계측된 것과는 분명하게 다르다. 공표되는 여러 가지 수치는, 진공 추진력과 해면 추진력, 최대 추진력과 평균 추진력이 혼동되고 있는 등, 적절한 것은 아니다.
+
+이와 같이 계획이 진행되는 데에 따라서 유료 하중이 증가하는 것은, 추진력과는 관계 없는 것으로, 기체를 감량 하거나 궤도를 합리화하는 것에 의해서 달성된 것이다.
+
+결론을 말하면, 엔진의 출력이나 각 단의 추진력, 유료 하중 등의 수치는, 절대적인 것은 아니라는 것이다. 각각의 비행에는 독자적인 가치가 있어, 단순하게 비교할 수 있는 것은 아니다.
+
+새턴 V 의 총 13회의 비행은 광범위하게 걸쳐 분석되어 각각의 임무마다 상세한 보고서가 제출되어 시간마다의 추진력 변화를 나타낸 그래프 등도 제시되었다.
+
+## 조립
+
+[left](https://ko.wikipedia.org/wiki/파일:Ap10-KSC-69PC-110.jpg "wikilink"))\]\] 로켓의 각 단은, 완성되면 [케네디 우주 센터에](../Page/케네디_우주_센터.md "wikilink") 각각 반입된다. 제1단과 제2단은 너무 거대하므로, 수송선으로 수송하는 것 외에는 방법이 없다. S-IC 는 뉴올리언스에서 제작된 후, [미시시피 강을](https://ko.wikipedia.org/wiki/미시시피_강 "wikilink") 내려와 [멕시코 만으로부터](https://ko.wikipedia.org/wiki/멕시코_만 "wikilink") [플로리다 반도를](https://ko.wikipedia.org/wiki/플로리다_반도 "wikilink") 우회해, 인트라코스탈 수로를 통해 수직 조립 건물(Vertical Assembly Building, VAB;현재는 동체 조립 건물, Vehicle Assembly Building)까지 옮겨진다. S-II 는 [캘리포니아주](https://ko.wikipedia.org/wiki/캘리포니아주 "wikilink")에서 제작되어 [파나마 운하를](https://ko.wikipedia.org/wiki/파나마_운하 "wikilink") 경유해 옮겨진다. 제3단과 자동제어장치는, 에어로 스페이스 라인사의 '프레그넌트 구피' 혹은 '슈퍼 구피'라고 불리는 수송기로 하늘로 옮겨진다. VAB에 도착하면, 각 단은 수직으로 세우기 전에, 우선 수평 상태로 점검된다. [NASA는](https://ko.wikipedia.org/wiki/미국_항공우주국 "wikilink") 도중에 단의 반입이 늦었을 경우에 대비해, 실패와 같은 형태를 한 스페이서도 준비하고 있었다. 이 스페이서는 높이나 중량이 진짜 로켓과 완전히 동일하게 만들어져 있고, 전선의 접속 부분 등도 같은 위치에 설치되어 있었다.
+
+새턴 V 는, 무게 4,200톤의 이동식 발사대 위에 조립한다. 발사대 위에는 높이 120 m 의 접속탑을 세울 수 있고, 그것들 모든 것을 크롤러 트랜스포터(Crawler Transporter, CT)로 불리는 수송차로 VAB로부터 반출한다. CT는 8기의 캐터필러를 갖춘 디젤 차량으로, 1기의 캐터필러는 57매의 판으로 구성되어 있었다. 판 1매의 무게는 900 kg 이었다. VAB로부터 대략 3마일(4.8km)의 구간을 5 - 8시간을 들여 이동해, 발사대를 장비한 다음은, CT가 퇴출한다. 본체에는 8대의 기중기를 갖출 수 있어 로켓이 항상 수직이 되도록 제어한다. CT는 현재에도 [우주 왕복선의](https://ko.wikipedia.org/wiki/우주_왕복선 "wikilink") 반출을 위해서 사용되고 있고, 또 [NASA의](https://ko.wikipedia.org/wiki/미국_항공우주국 "wikilink") 차기 유인 우주 비행 계획인 [콘스텔레이션 계획에서도](https://ko.wikipedia.org/wiki/콘스텔레이션_계획 "wikilink") 계속해서 사용하는 것으로 예정되어 있다.
+
+## 달 비행 순서
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Apollo_11_liftoff_from_launch_tower_camera.jpg "wikilink") 착륙에 성공한 [아폴로 11호의](https://ko.wikipedia.org/wiki/아폴로_11호 "wikilink") 발사. [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink") [7월 16일](https://ko.wikipedia.org/wiki/7월_16일 "wikilink")\]\] 새턴 V 는 [아폴로 계획의](https://ko.wikipedia.org/wiki/아폴로_계획 "wikilink") 모든 [달](https://ko.wikipedia.org/wiki/달 "wikilink") 비행용으로 사용되었다. 모두 [케네디 우주 센터 발사 시설 39](https://ko.wikipedia.org/wiki/케네디_우주_센터_발사_시설_39 "wikilink") 발사대로부터 발사되어 기체가 완전하게 발사대으로부터 멀어진 직후부터, 관제 임무는 [텍사스주](https://ko.wikipedia.org/wiki/텍사스주 "wikilink") [휴스턴](../Page/휴스턴.md "wikilink")에 있는 존슨 우주 센터로 이행된다.
+
+전 비행 기간중에 로켓이 분사되는 시간은 총계 20분 정도에 지나지 않는다. [아폴로 6호와](https://ko.wikipedia.org/wiki/아폴로_6호 "wikilink") [13호에서는](https://ko.wikipedia.org/wiki/아폴로_13호 "wikilink") 엔진이 고장나는 사태가 발생했지만, 기체에 탑재된 컴퓨터가 나머지 엔진 분사 시간을 자동적으로 연장하고 궤도를 수정했다. 전체 [아폴로 계획의](https://ko.wikipedia.org/wiki/아폴로_계획 "wikilink") 비행 중, 탑재물이 없어질 정도의 심각한 사고는 한번도 발생하지 않았다.
+
+### S-IC(제1단) 비행 순서
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Apollo_11_launch.jpg "wikilink")\]\] 제1단은 2분 반의 연소로 2,000톤의 연료를 소비해, 기체를 고도 68 km, 시속 9,921 km(마하 8) 에까지 도달시킨다.
+
+발사 8.9초 전에, 우선 중앙 엔진이 점화되고, 계속해서 주위의 엔진이 기체에 걸리는 부하를 억제하기 위해서 300 밀리초의 간격을 두어 점화된다. 발사 2초 전에 엔진이 전개되어, 기체에 탑재된 컴퓨터가 이상이 없는 것을 확인하면, 로켓과 발사대를 잇고 있던 연결체가 떨어져나간다. 계속해서 제1단을 발사대에 고정하고 있던 핀이 떼어져 기체는 신속하게 이륙을 개시한다. 일단 이륙하면, 만약 엔진이 정지하는 사태가 발생했다고 해도, 로켓을 발사대로 되돌리는 방법은 없다.
+
+기체가 완전하게 발사대로부터 멀어지기까지는 약 12초가 걸린다. 그 사이, 강풍이 불어 발사대와 접촉하는 일이 없도록 기체는 발사대와 반대 방향으로 1.25도 기울여진다(이 운동은 미세해서 잘 확인이 안 되는 것이지만, 동쪽 또는 서쪽에서 촬영된 영상에서는 확인할 수 있다). 고도 130 m 에 이르면, 기체는 방위각을 맞추기 위해서 회전을 개시해, 제2단 점화의 38초 전까지 서서히 각도를 기울인다. 이 회전은, 발사가 행해지는 계절의 풍향에 따라서 달라진다. 주위의 4기의 엔진은, 만약 무엇이 고장나 연소를 정지해도 추력선이 중심을 빗나가는 일이 없도록 조금 외측으로 기울어진다. 기체는 신속하게 가속되어 고도 약 2,000 m 에서 초속 480 m(마하 1.4) 에 이른다. 비행의 초기 단계는 오로지 고도를 높이는 것에 소비되고 속도를 얻는 것은 후반 부분이 된다.
+
+발사 후 약 80초에서 기체는 최대 공력 온도(맥스 Q)에 이른다. 공기 저항은 기압 및 속도의 제곱에 비례해 증대한다. 맥스 Q에 도달한 후, 속도는 계속 증가하지만, 고도가 높아지는 것에 따라 기압은 감소해 나가기 때문에 더 이상 [항력](../Page/항력.md "wikilink")이 커질 일은 없다.
+
+또 기체는 연료를 소비하는 것에 의해서 점차 가벼워지고, 한층 더 F-1 엔진은 기압이 낮아지면 추진력이 증대하기 때문에, 가속도는 자꾸 커진다. 그 때문에 가속도를 4G 이하로 억제하기 위해서 발사 135초 후에 중앙 엔진은 연소를 정지한다. 이것에 의해 배기가스는 [베르누이 방정식에](../Page/베르누이_방정식.md "wikilink") 따라 부채 모양으로 크게 퍼지기 시작한다. 그 후 다시 가속도는 증대되어, 4G가 되기 직전에 제1단의 연소가 종료된다. 엔진 정지 후 1초 이내에 8기의 고체연료 로켓이 역분사되어 기체를 상단 로켓으로부터 분리시킨다. 고도 67 km 에서 떼어내진 S-IC 는, 그 후 고도 110 km까지 상승해, 발사장으로부터 560 km 멀어진 [대서양](../Page/대서양.md "wikilink") 상에 낙하한다.
+
+### S-II(제2단) 비행 순서
+
+[섬네일의](https://ko.wikipedia.org/wiki/파일:Ap6-68-HC-191.jpg "wikilink") 카메라에 의해 촬영된 접속 링의 분리 장면\]\] S-IC 가 떼어내진 후, S-II 는 6분 간에 걸쳐 연소해, 기체를 고도 176 km, 속도를 [탈출 속도](../Page/탈출_속도.md "wikilink") 전인 시속 25,182 km(초속 7 km) 에까지 가속시킨다.
+
+최초 2회의 무인 비행([아폴로 4호](https://ko.wikipedia.org/wiki/아폴로_4호 "wikilink"), [6호](https://ko.wikipedia.org/wiki/아폴로_6호 "wikilink"))에서는, 엔진 점화 전에 연료를 탱크의 바닥에 압축하기 위해서 8기의 고체 연료 로켓이 4초간 분사되었다. 이어지는 7회의 유인 비행에서는 고체 연료 로켓은 4기로 줄여졌고, 마지막 4회의 비행에서는 완전히 사용되지 않았다. S-IC 의 분리로부터 30초 후에, 제1단과 제2단의 접속 링이 분리된다. 이 때, 링과 엔진의 간격은 불과 1 m 밖에 되지 않는다. 한층 더, 그로부터 3초 후에, 비상 탈출 로켓(LES)이 떨어져나간다. 그러나 LES를 분리한 후에도 비행사에게는 여러 가지 탈출 수단이 준비되어 있다.
+
+제2단의 점화로부터 38초 후에, 로켓의 제어는 사전에 프로그램된 제어로부터 컴퓨터에 의한 자동 제어로 바뀐다. 만약 자동제어장치가 고장났을 경우에는, 비행사는 로켓의 제어를 사령선의 컴퓨터로 이행하거나, 혹은 비상 탈출할 수밖에 없다.
+
+제2단의 연소 정지 90초 전에, 세로 방향의 공진을 억제하기 위해서 중앙 엔진의 연소가 정지된다. 초기의 임무에서는 제1단과 같이, 가속도를 억제하기 위해서 중앙 엔진이 조기에 정지되고 있었지만, [아폴로 14호](https://ko.wikipedia.org/wiki/아폴로_14호 "wikilink") 이후에는 진동을 억제하기 위해서 이 순서가 도입되었다. 동 시간대에, 제2단에 남아 있는 이용 가능한 연료는 얼마 남지 않기 때문에, 액체 [산소](https://ko.wikipedia.org/wiki/산소 "wikilink")의 유량을 내릴 수 있어 혼합비를 바꿀 수 있다. 이 조작은, 미리 결정된 델타-V(궤도 속도 미소 변화 조작)에 의해서 행해진다.
+
+S-II 의 탱크의 바닥에는 추진제의 잔량을 계측하는 센서가 5개 설치되어 있어, 그 중의 2개가「탱크가 비었다」라는 신호를 발신하면 엔진은 정지된다. 1초 후에, 정상부에 설치된 고체 연료 로켓이 역분사해 양자를 분리하고, 한층 더 몇 초 후에 제3단 로켓이 점화된다. 그 후 S-II 는, 발사 지점으로부터 4,200 km 떨어진 [대서양](../Page/대서양.md "wikilink") 상에 낙하한다.
+
+### S-IVB(제3단) 비행 순서
+
+S-II(제2단) 와 S-IVB(제3단) 의 접속 부분은 S-II 와 일체화되어 있기 때문에, 분리의 순서는 한 번에 끝난다.
+
+[아폴로 계획에서](https://ko.wikipedia.org/wiki/아폴로_계획 "wikilink") 가장 유명한 [아폴로 11호의](https://ko.wikipedia.org/wiki/아폴로_11호 "wikilink") 비행에서는, 제3단 로켓은 발사 11분 40초 후에 연소를 정지할 때까지 2분 반에 걸쳐 분사되어 대기 궤도에 올랐다. 이 시점에서, 발사 지점에서 2,640 km 떨어진 지점을 비행하고 있었고, 고도는 188 km, 속도는 초속 7,790 m(시속 28,000 km) 였다. 제3단은 아폴로 우주선을 탑재한 채로 [지구](../Page/지구.md "wikilink")를 2회 주회하고, 그 사이에 비행사와 지상의 관제사들은, [달](https://ko.wikipedia.org/wiki/달 "wikilink") 궤도에 오르기 위한 준비를 했다. [섬네일](https://ko.wikipedia.org/wiki/파일:As7-3-1545.jpg "wikilink") 주회 궤도상의 [아폴로 7호의](https://ko.wikipedia.org/wiki/아폴로_7호 "wikilink") S-IVB. [아폴로 7호는](https://ko.wikipedia.org/wiki/아폴로_7호 "wikilink") [새턴 IB 로켓에](https://ko.wikipedia.org/wiki/새턴_IB_로켓 "wikilink") 의해서 발사되었지만, 제2단에는 새턴 V 와 같은 S-IVB 가 사용되고 있었다. 상부에 보이는 우주선과 로켓을 접속하는 4매의 패널은, 새턴 V 의 비행에서는 떨어져나간다.\]\] 대기 궤도는 통상의 위성의 궤도에 비하면 지극히 낮은 것으로, 그대로는 공기 저항 때문에 속도가 감소해, 곧바로 대기권에 재돌입해 버린다. 그러나 [달](https://ko.wikipedia.org/wiki/달 "wikilink") 비행의 경우에는, 대기 궤도에는 단기간 밖에 체류하지 않기 때문에, 크게 문제가 될 것은 없다. S-IVB 는 재점화하기 전에 추진제를 탱크의 바닥에 압축하기 위해, 별도의 작은 로켓 엔진을 점화시킨다.
+
+[아폴로 계획의](https://ko.wikipedia.org/wiki/아폴로_계획 "wikilink") 마지막 3회의 임무에서는, 탑재물 중량을 증가시키기 위해 대기 궤도는 150 km까지 내릴 수 있었다. 반대로 [달](https://ko.wikipedia.org/wiki/달 "wikilink") 비행을 목적으로 하지 않는 [아폴로 9호와](https://ko.wikipedia.org/wiki/아폴로_9호 "wikilink") [스카이랩](https://ko.wikipedia.org/wiki/스카이랩 "wikilink")에서는, 궤도가 다른 유인 비행 수준의 충분한 고도로까지 높일 수 있었다.
+
+[아폴로 11호에서는](https://ko.wikipedia.org/wiki/아폴로_11호 "wikilink"), [달](https://ko.wikipedia.org/wiki/달 "wikilink")로 가기 위해 궤도에 오르는 시각은 발사 2시간 44분 후였다. S-IVB 는 엔진을 대략 6분간에 걸쳐서 분사해, 우주선을 [탈출 속도에](../Page/탈출_속도.md "wikilink") 가까운 초속 11.2 km(시속 40,320 km)까지 가속했다. 이것에 의해 우주선은 [달](https://ko.wikipedia.org/wiki/달 "wikilink")의 중력권에 들어가, 연료의 소비는 최소한으로 억제되었다.
+
+궤도 투입으로부터 40분 후에 사령선·기계선은 S-IVB 로부터 떨어져 180도 회전해 달 착륙선과 도킹했다. 한층 더 그로부터 50분 후에, 사령선·기계선 및 달 착륙선은 사용이 끝난 제3단으로부터 분리되었다.
+
+S-IVB 는, 만약 그대로 궤도상에 남아 있으면 우주선과 충돌하는 등의 문제가 발생할 가능성이 있기 때문에, 남은 연료를 배출해, 보조 추진 시스템을 분사하고 궤도로부터 떨어졌다. [아폴로 12호](https://ko.wikipedia.org/wiki/아폴로_12호 "wikilink") 이전의 임무에서는, S-IVB 는 [달](https://ko.wikipedia.org/wiki/달 "wikilink")의 중력을 이용한 스윙바이 궤도에 오르도록 제어되어 [지구](../Page/지구.md "wikilink")의 중력권을 벗어나 [태양](https://ko.wikipedia.org/wiki/태양 "wikilink")을 주회하는 궤도(인공행성 궤도)에 올랐다. [아폴로 13호](https://ko.wikipedia.org/wiki/아폴로_13호 "wikilink") 이후에서는 [달](https://ko.wikipedia.org/wiki/달 "wikilink")표면에 충돌하도록 제어되었고, 그 이전의 임무에 의해 [달](https://ko.wikipedia.org/wiki/달 "wikilink") 표면에 설치된 지진계는 그 충격을 분명히 파악했다. 이 데이터는, 후에 [달](https://ko.wikipedia.org/wiki/달 "wikilink")의 내부 구조를 알기 위한 중요한 단서가 되었다.
+
+[아폴로 9호는](https://ko.wikipedia.org/wiki/아폴로_9호 "wikilink") [지구](../Page/지구.md "wikilink") 주회 궤도상에서 우주선의 성능을 시험하는 특별한 미션이었기 때문에, S-IVB 는 엔진을 재점화한 후, [지구](../Page/지구.md "wikilink") 주회 궤도를 떠나 인공행성 궤도에 실렸다.
+
+[2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [9월 3일](https://ko.wikipedia.org/wiki/9월_3일 "wikilink"), [홍콩](https://ko.wikipedia.org/wiki/홍콩 "wikilink") 출신의 아마추어 천문학자 Kwong Yu Yeung 는 [소행성](https://ko.wikipedia.org/wiki/소행성 "wikilink")이라고 생각되는 물체를 발견했다. J002E3라고 이름붙여진 이 물체는, [지구](../Page/지구.md "wikilink")를 주회하는 궤도상에 존재하고 있는 것이 판명되어, 전 세계의 천문학자들을 놀라게 했다. 왜냐하면 통상은 이러한 궤도를 주회하는 위성은, [지구](../Page/지구.md "wikilink")·[달](https://ko.wikipedia.org/wiki/달 "wikilink")·[태양](https://ko.wikipedia.org/wiki/태양 "wikilink")의 섭동에 의해 궤도 밖으로 나와 버리기 때문이다. 스펙트럼 분석 결과, 이 물체의 표면은 새턴 V 의 도료와 같은 산화 티탄으로 덮여 있는 것이 밝혀졌다. 그리고 궤도 변수를 계산한 결과, [소행성](https://ko.wikipedia.org/wiki/소행성 "wikilink")이라고 생각된 이 물체는, [아폴로 12호의](https://ko.wikipedia.org/wiki/아폴로_12호 "wikilink") 제3단인 것이 판명되었다.
+
+[아폴로 12호의](https://ko.wikipedia.org/wiki/아폴로_12호 "wikilink") 임무 당시, 지상의 관제사는 우주선을 분리한 후, S-IVB 를 행성 궤도에 싣도록 조작했지만, 로켓의 연소시간이 너무 길었다. 그 때문에 스윙바이 궤도에서 [달](https://ko.wikipedia.org/wiki/달 "wikilink")을 통과하는 거리가 너무 떨어져서 속도가 부족했기 때문에 [지구](../Page/지구.md "wikilink")를 주회하는 궤도상에 남아 버렸던 것이다. [1971년](https://ko.wikipedia.org/wiki/1971년 "wikilink")에는, [아폴로 12호의](https://ko.wikipedia.org/wiki/아폴로_12호 "wikilink") S-IVB 는 [중력](https://ko.wikipedia.org/wiki/중력 "wikilink")의 섭동에 의해 31년 후에는 다시 [지구](../Page/지구.md "wikilink")의 중력권에 들어온다고 생각되고 있었다. 그러나 그 후 J002E3는, [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [6월](https://ko.wikipedia.org/wiki/6월 "wikilink")에 [지구](../Page/지구.md "wikilink") 주회 궤도를 떠나 [태양](https://ko.wikipedia.org/wiki/태양 "wikilink")을 주회하는 궤도로 이동했다.
+
+## 스카이랩
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Skylab_launch_on_Saturn_V.jpg "wikilink") [1968년](https://ko.wikipedia.org/wiki/1968년 "wikilink"), [아폴로 계획의](https://ko.wikipedia.org/wiki/아폴로_계획 "wikilink") 잉여품의 로켓이나 우주선을 사용해 과학적 탐사를 행하는 것을 검토하는 아폴로 응용 계획이 발족했다. 계획의 내용의 대부분은 [우주 정거장](https://ko.wikipedia.org/wiki/우주_정거장 "wikilink") 건설에 집중하는 것이었고, 또 실제로, 그것은 [스카이랩](https://ko.wikipedia.org/wiki/스카이랩 "wikilink")이 되어서 실현되게 된다. [스카이랩](https://ko.wikipedia.org/wiki/스카이랩 "wikilink")을 쏘아 올린 새턴 V 는 INT-21이라고도 불리는 2단식 로켓으로, [아폴로 계획의](https://ko.wikipedia.org/wiki/아폴로_계획 "wikilink") 새턴 V 중에서 유일하게 [달](https://ko.wikipedia.org/wiki/달 "wikilink")로 향하지 않았다.
+
+초기 단계에서는, [새턴 IB 로켓으로](https://ko.wikipedia.org/wiki/새턴_IB_로켓 "wikilink") S-IVB 를 궤도상에 쏘아 올려 우주 공간에서 사용이 끝난 연료 탱크를 우주 거주지로 개조하는「습식 개조(wet workshop)」방식이 계획되고 있었지만, 후에 이 안은 취소되고, S-IVB 를 [우주 정거장으로](https://ko.wikipedia.org/wiki/우주_정거장 "wikilink") 개조한 [스카이랩](https://ko.wikipedia.org/wiki/스카이랩 "wikilink")을 지상에서 미리 제작해, 새턴 V 로 궤도상에 쏘아 올리는 「건식 개조 (dry workshop)」방식으로 변경되었다. 실제로는 [새턴 IB 로켓으로](https://ko.wikipedia.org/wiki/새턴_IB_로켓 "wikilink") 사용될 예정이었던 제2단이 [스카이랩](https://ko.wikipedia.org/wiki/스카이랩 "wikilink")으로 개조되어 백업용으로 제작된 새턴 V 의 제3단은, 현재는 스미스소니언 항공 우주 박물관에 전시되고 있다.
+
+[스카이랩](https://ko.wikipedia.org/wiki/스카이랩 "wikilink")에는 [1973년](https://ko.wikipedia.org/wiki/1973년 "wikilink") [5월 25일부터](https://ko.wikipedia.org/wiki/5월_25일 "wikilink") [1974년](https://ko.wikipedia.org/wiki/1974년 "wikilink") [2월 8일에](https://ko.wikipedia.org/wiki/2월_8일 "wikilink") 걸쳐, 총 3조(9명)의 비행사가 체류했다. [스카이랩](https://ko.wikipedia.org/wiki/스카이랩 "wikilink")은 [1979년](https://ko.wikipedia.org/wiki/1979년 "wikilink") [7월 11일에](https://ko.wikipedia.org/wiki/7월_11일 "wikilink") [대기권](https://ko.wikipedia.org/wiki/대기권 "wikilink")에 재돌입했다.
+
+[스카이랩](https://ko.wikipedia.org/wiki/스카이랩 "wikilink")은, 당초에는 [우주 왕복선이](https://ko.wikipedia.org/wiki/우주_왕복선 "wikilink") 첫비행할 때까지 궤도상에 머무를 것으로 예상되고 있었다. 셔틀의 엔진을 사용해 궤도를 올려, 장기적인 [우주 정거장으로서](https://ko.wikipedia.org/wiki/우주_정거장 "wikilink") 사용하는 일도 검토되고 있었지만, 셔틀의 첫비행이 [1981년](https://ko.wikipedia.org/wiki/1981년 "wikilink")으로 늦어져 버렸기 때문에 실현되지 않았다. 또 현재의 시점으로부터 되돌아보면, [스카이랩](https://ko.wikipedia.org/wiki/스카이랩 "wikilink")은 사용 목적이 한정되어 있어 개조하거나 또는 부품을 보충하거나 해 계속 사용할 수 있도록 설계되어 있지 않았다.
+
+## 아폴로 계획 이후에 관한 제안
+
+(취소된) 새턴 V 의 개조안 중에서 가장 실현 가능성이 높았던 것은, 제1단의 엔진을 F-1A 로 개조하고, 진정한 능력을 발휘시킨다고 하는 안이었다. 그 밖에도 1단의 날개를 없애거나(이것에 의해 중량 삭감의 효과가 있다), 보다 강력한 F-1As 엔진을 사용해 제1단 S-IC 의 전체 길이를 늘리거나 상단에서 개량형의 J-2s 엔진을 사용한다고 하는 안 등이 있었다.
+
+몇 개가 제출된 변경안은 새턴 V 에 관한 것으로, 그 중에는 S-IC 위에(S-II 를 생략하고) S-IVB 를 탑재한다고 하는 새턴 INT-20 안이나, S-IC 의 양측으로 F-1 엔진을 4기 탑재한 보조 로켓을 2기 설치해 총계 13기의 F-1 엔진으로 발사한다고 하는 새턴 V-23(L) 안 등이 있었다.
+
+[우주왕복선](https://ko.wikipedia.org/wiki/우주왕복선 "wikilink")은, 당초는 새턴 V 와 제휴해 사용하는 수송기로서 계획되고 있었다. 새턴-셔틀로 불리는 이 계획에서는, 셔틀은 외부 연료 탱크 대신에, S-IC 를 개조한 로켓에 탑재되도록 되어 있었다. S-IC 는 2분간 연소한 뒤 분리되어 자력으로 [케네디 우주 센터에](../Page/케네디_우주_센터.md "wikilink") 되돌아와, 셔틀의 SRB(고체 로켓 부스터)와 같이 정비되어 재사용된다. 그 후 셔틀은, 스스로의 주 엔진으로 궤도에 도달한다. 새턴으로 부품을 옮겨 [우주 정거장을](https://ko.wikipedia.org/wiki/우주_정거장 "wikilink") 건설해, 보급선으로서 셔틀을 사용하는 일도 검토되고 있었지만, 새턴 V 의 차세대기의 개발 계획이 없었기 때문에 이 계획도 취소되어, [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 거대 로켓 개발의 역사는 막을 내리게 되었다. [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 우주 개발 마니아들은 이 결과를 슬퍼했지만, 그 다음은 [스카이랩](https://ko.wikipedia.org/wiki/스카이랩 "wikilink")이나 [미르](https://ko.wikipedia.org/wiki/미르 "wikilink")의 기술을 유용하고, [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")과 [러시아](../Page/러시아.md "wikilink") 양쪽 모두의 우주선을 도킹할 수 있는 장치를 갖춘 [국제 우주 정거장 계획으로](https://ko.wikipedia.org/wiki/국제_우주_정거장 "wikilink") 인계되었다.
+
+새턴 V 는, 무인 [화성](https://ko.wikipedia.org/wiki/화성 "wikilink") 탐사 계획이나, 원자력 로켓 「네르바(NERVA)」의 발사 실험을 위해서 사용되는 일도 계획되고 있었지만, 모두 취소되었다.
+
+## 후계기
+
+[1950년대](https://ko.wikipedia.org/wiki/1950년대 "wikilink")부터 [1980년대](https://ko.wikipedia.org/wiki/1980년대 "wikilink")에 걸쳐 제출된, 새턴 V 보다 거대한 로켓에 관한 제안은, 일반적으로 노바(Nova)로 불리고 있다. 노바에 대해서는, 30종류 이상의 다른 계획이 제출되었다.
+
+[베르너 폰 브라운이나](../Page/베르너_폰_브라운.md "wikilink") 그 외의 연구자들은, 모두 제1단에 8기의 F-1 엔진을 장비한, 직접 강하 방식으로 [달](https://ko.wikipedia.org/wiki/달 "wikilink") 표면에 착륙하는 로켓의 안을 가지고 있었다. 또 새턴 V 의 상단에, 센타우르 등의 다른 로켓을 탑재하는 안도 있어, 그것들처럼 해 성능을 향상시킨 로켓을 사용하면, 무인 외행성 탐사나 유인 [화성 탐사도](https://ko.wikipedia.org/wiki/화성_탐사 "wikilink") 가능하게 될 것이라고 생각되었다.
+
+[2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink"), [NASA는](https://ko.wikipedia.org/wiki/미국_항공우주국 "wikilink") [우주왕복선](https://ko.wikipedia.org/wiki/우주왕복선 "wikilink")의 기술을 유용한 중량급 로켓 아레스 V 를 발표했다. 새턴 V 를 비슷하게 따라해, 초기의 디자인에서는 높이는 새턴 V 와 같은 110 m 로, 제1단에는 셔틀의 주 엔진(SSME)을 5기 사용하고, 또 고체 연료 보조 로켓에는, 같은 셔틀의 SRB를 5 세그먼트(segment)로 증강한 것을 탑재한다(셔틀은 4 세그먼트(segment)). 아레스 V 의 디자인은 그 후에도 계속 진화해, 제1단에는 SSME보다 저렴한 비용으로 강력한 RS-68을 사용하는 것이 결정되었다. [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink"), [NASA는](https://ko.wikipedia.org/wiki/미국_항공우주국 "wikilink") 제1단에 6기의 RS-68을 탑재해, 5.5 세그먼트의 SRB를 가지는 새로운 아레스 V 의 디자인을 발표했다. 신형 로켓의 이륙 추진력은 약 4,032톤으로, 새턴 V 나 러시아의 [N-1 로켓](https://ko.wikipedia.org/wiki/N-1_로켓 "wikilink"), 혹은 에네르기아보다 강력한 것이다. 상단에는 S-IVB 를 기초로 개발된 지구 탈출용 로켓(Earth Departure Stage, EDS)이 탑재되고, 엔진에는 J-2를 개량한 J-2X 를 이용해, 달 착륙선 「알타이르 (Altair)」를 저궤도에 투입한다. 새로운 아레스 V 는 전체 길이 116 m 로 저궤도에 180톤의 발사 능력을 가져, 새턴 V 나 러시아의 두 개의 거대 로켓(N-1 및 에네르기아)에 대해 전체 길이나 유료 하중을 모두 능가하게 된다.
+
+한층 더 로켓다인 사(프랫 & 휘트니 사의 일부분으로, 이전에는 보잉 사 및 록웰 인터내셔널사가 소유하고 있었다)는, RS-68을 기초로 해 새롭게 RS-68B 를 개발했다. RS-68B는 추진력은 새턴 V 의 F-1 엔진의 반 이하지만, 보다 효율적으로 셔틀의 SSME와 같이 추진력을 조정하는 기능을 가지고 있다. 이 엔진을 제1단에 사용하는 것으로, EDS나 아레스 I의 제2단에 탑재되는 엔진은, J-2X 1기만으로 끝나게 되었다.
+
+## 비용
+
+[1964년](https://ko.wikipedia.org/wiki/1964년 "wikilink")부터 [1973년](https://ko.wikipedia.org/wiki/1973년 "wikilink")에 걸쳐, 새턴 V 를 위해서 사용된 예산은 총액 65억 달러로, 연간으로의 최고조의 예산은 [1966년](https://ko.wikipedia.org/wiki/1966년 "wikilink")의 12억 달러였다. [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink")의 화폐 가치로 환산하면, 대략 320 - 450억 달러가 된다. 1회의 발사에 사용되는 비용은, 24 - 35억 달러(2007년도 환산)가 된다.
+
+[아폴로 계획이](https://ko.wikipedia.org/wiki/아폴로_계획 "wikilink") 중지된 최대의 이유는, 엄청난 비용 때문이었다. [1966년](https://ko.wikipedia.org/wiki/1966년 "wikilink")에는 [NASA는](https://ko.wikipedia.org/wiki/미국_항공우주국 "wikilink") 총액으로 45억 달러의 예산을 받고 있었는데, 이것은 그 당시 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 GDP의 0.5%에 상당했다.
+
+## 새턴 V 비행 기록
+
+[center부터](https://ko.wikipedia.org/wiki/파일:Saturn_V_launches.jpg "wikilink") [스카이랩](https://ko.wikipedia.org/wiki/스카이랩 "wikilink")까지, 총 13회의 새턴 V 의 발사 장면\]\]
+
+| 일련번호   | 임무                                                          | 발사일                                                                                                                 | 특기 사항                                                                                                                                                |
+| ------ | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| SA-501 | [아폴로 4호](https://ko.wikipedia.org/wiki/아폴로_4호 "wikilink")   | [1967년](https://ko.wikipedia.org/wiki/1967년 "wikilink") [11월 9일](https://ko.wikipedia.org/wiki/11월_9일 "wikilink")   | 새턴 V 의 첫비행. 모든 실험이 성공.                                                                                                                               |
+| SA-502 | [아폴로 6호](https://ko.wikipedia.org/wiki/아폴로_6호 "wikilink")   | [1968년](https://ko.wikipedia.org/wiki/1968년 "wikilink") [4월 4일](https://ko.wikipedia.org/wiki/4월_4일 "wikilink")     | 제2단과 제3단의 J-2 엔진에 문제가 발생.                                                                                                                            |
+| SA-503 | [아폴로 8호](../Page/아폴로_8호.md "wikilink")                      | [1968년](https://ko.wikipedia.org/wiki/1968년 "wikilink") [12월 21일](https://ko.wikipedia.org/wiki/12월_21일 "wikilink") | 새턴 V 를 사용한 첫 유인 비행. [달](https://ko.wikipedia.org/wiki/달 "wikilink")을 주회.                                                                             |
+| SA-504 | [아폴로 9호](https://ko.wikipedia.org/wiki/아폴로_9호 "wikilink")   | [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink") [3월 3일](https://ko.wikipedia.org/wiki/3월_3일 "wikilink")     | [지구](../Page/지구.md "wikilink") 주회 궤도상에서 달 착륙선의 유인 비행 시험.                                                                                             |
+| SA-505 | [아폴로 10호](https://ko.wikipedia.org/wiki/아폴로_10호 "wikilink") | [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink") [5월 18일](https://ko.wikipedia.org/wiki/5월_18일 "wikilink")   | [달](https://ko.wikipedia.org/wiki/달 "wikilink") 착륙의 예행 연습.                                                                                           |
+| SA-506 | [아폴로 11호](https://ko.wikipedia.org/wiki/아폴로_11호 "wikilink") | [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink") [7월 16일](https://ko.wikipedia.org/wiki/7월_16일 "wikilink")   | 사상 최초의 [달](https://ko.wikipedia.org/wiki/달 "wikilink") 착륙.                                                                                           |
+| SA-507 | [아폴로 12호](https://ko.wikipedia.org/wiki/아폴로_12호 "wikilink") | [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink") [11월 14일](https://ko.wikipedia.org/wiki/11월_14일 "wikilink") | 무인 달 탐사선 [서베이어 3호의](https://ko.wikipedia.org/wiki/서베이어_3호 "wikilink") 근처에 착륙. 발사시에 [번개](https://ko.wikipedia.org/wiki/번개 "wikilink")에 맞았지만, 손상은 없었다. |
+| SA-508 | [아폴로 13호](https://ko.wikipedia.org/wiki/아폴로_13호 "wikilink") | [1970년](https://ko.wikipedia.org/wiki/1970년 "wikilink") [4월 11일](https://ko.wikipedia.org/wiki/4월_11일 "wikilink")   | [달](https://ko.wikipedia.org/wiki/달 "wikilink")로 가는 도중에 산소 탱크가 폭발하는 사고가 발생했지만, 비행사는 무사히 귀환.                                                          |
+| SA-509 | [아폴로 14호](https://ko.wikipedia.org/wiki/아폴로_14호 "wikilink") | [1971년](https://ko.wikipedia.org/wiki/1971년 "wikilink") [1월 31일](https://ko.wikipedia.org/wiki/1월_31일 "wikilink")   | 프라 마우로 고지에 착륙.                                                                                                                                       |
+| SA-510 | [아폴로 15호](https://ko.wikipedia.org/wiki/아폴로_15호 "wikilink") | [1971년](https://ko.wikipedia.org/wiki/1971년 "wikilink") [6월 26일](https://ko.wikipedia.org/wiki/6월_26일 "wikilink")   | 월면차를 처음으로 사용.                                                                                                                                        |
+| SA-511 | [아폴로 16호](https://ko.wikipedia.org/wiki/아폴로_16호 "wikilink") | [1972년](https://ko.wikipedia.org/wiki/1972년 "wikilink") [4월 16일](https://ko.wikipedia.org/wiki/4월_16일 "wikilink")   | 데카르트 크레이터에 착륙.                                                                                                                                       |
+| SA-512 | [아폴로 17호](../Page/아폴로_17호.md "wikilink")                    | [1972년](https://ko.wikipedia.org/wiki/1972년 "wikilink") [12월 6일](https://ko.wikipedia.org/wiki/12월_6일 "wikilink")   | 첫 야간 발사. [아폴로 계획의](https://ko.wikipedia.org/wiki/아폴로_계획 "wikilink") 마지막 임무.                                                                          |
+| SA-513 | [스카이랩](https://ko.wikipedia.org/wiki/스카이랩 "wikilink")       | [1973년](https://ko.wikipedia.org/wiki/1973년 "wikilink") [5월 14일](https://ko.wikipedia.org/wiki/5월_14일 "wikilink")   | [우주 정거장](https://ko.wikipedia.org/wiki/우주_정거장 "wikilink") [스카이랩](https://ko.wikipedia.org/wiki/스카이랩 "wikilink")을 발사                                  |
+| SA-514 | 미사용                                                         | [아폴로 18·19호를](https://ko.wikipedia.org/wiki/취소된_아폴로_계획_임무들 "wikilink") 위해서 제작되었지만, 계획의 중지로 사용되지 않음.                 |                                                                                                                                                      |
+| SA-515 | 미사용                                                         | [스카이랩](https://ko.wikipedia.org/wiki/스카이랩 "wikilink")의 백업용으로 제작되었지만, 계획의 중지로 사용되지 않음.                               |                                                                                                                                                      |
+
+새턴 V 는, 현재는 3기가 박물관에 전시되고 있다. [섬네일](https://ko.wikipedia.org/wiki/파일:Saturn_V_On_Display.jpg "wikilink") 헌트빌의 미국 우주 로켓 센터 내의 옥내 전시장에 옮겨지기 전에 전시되고 있던 새턴 V\]\]
+
+  - 존슨 우주 센터에 전시되고 있는 것은, SA-514의 제1단, SA-515의 제2단, SA-513의 제3단이다.
+  - [케네디 우주 센터에](../Page/케네디_우주_센터.md "wikilink") 전시되고 있는 것은, 시험용으로 제작된 제1단과 SA-514의 제2·3단이다.
+  - 미국 우주 로켓 센터 내에 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [1월](https://ko.wikipedia.org/wiki/1월 "wikilink")에 개관한 옥내 전시장에 전시되고 있는 것은, S-IC-D, S-II-F/D, S-IVB-D(모두 시험용으로 만들어진 것으로, 실제로 비행할 예정은 없었다)이다.
+
+위의 세 개 중에서, 실제로 비행할 예정이었던 것은 존슨 우주 센터에 전시되고 있는 것 뿐이다. 미국 우주 로켓 센터에는, 실물 크기의 모형도 전시되고 있다. 또 SA-515의 제1단은, [루이지애나주](https://ko.wikipedia.org/wiki/루이지애나주 "wikilink") 뉴올리언스의 미슈드 조립 공장에 전시되고 있다. SA-515의 제3단은, [스카이랩](https://ko.wikipedia.org/wiki/스카이랩 "wikilink")의 백업용으로 개조되어 현재는 워싱턴 D.C.의 스미스소니언 항공 우주 박물관에 전시되고 있다.
+
+새턴 V 에 관한 모든 문서는 마이크로필름에 저장되어 마셜 우주 비행 센터에 보존되고 있다.
+
+## 영상
+
+[섬네일의](https://ko.wikipedia.org/wiki/파일:Apollo_15_launch.ogv "wikilink") 발사 30초 전부터 40초 후까지의 동영상\]\]
+
+## 더 보기
+
+  - [새턴 로켓](https://ko.wikipedia.org/wiki/새턴_로켓 "wikilink")
+  - [베르너 폰 브라운](../Page/베르너_폰_브라운.md "wikilink")
+  - [아폴로 8호](../Page/아폴로_8호.md "wikilink")
+  - [아폴로 11호](https://ko.wikipedia.org/wiki/아폴로_11호 "wikilink")
+
+[분류:소모성 우주 발사체](https://ko.wikipedia.org/wiki/분류:소모성_우주_발사체 "wikilink") [분류:아폴로 계획](https://ko.wikipedia.org/wiki/분류:아폴로_계획 "wikilink") [분류:페이퍼클립 작전](https://ko.wikipedia.org/wiki/분류:페이퍼클립_작전 "wikilink")
+
+[de:Saturn (Rakete)\#Saturn V](https://ko.wikipedia.org/wiki/de:Saturn_\(Rakete\)#Saturn_V "wikilink")

@@ -1,0 +1,393 @@
+> This article is converted from Wikipedia: [ TV](https://ko.wikipedia.org/wiki/_TV).
+
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Arirang_Tower_in_Seocho-gu,_Seoul,_South_Korea.jpg "wikilink"), Seoul, South Korea\]\] **아리랑국제방송**(Arirang International Broadcasting Corporation)은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") [서울특별시](https://ko.wikipedia.org/wiki/서울특별시 "wikilink")에 거점을 둔 [한국국제방송교류재단](https://ko.wikipedia.org/wiki/한국국제방송교류재단 "wikilink")이 운영하는 국제 TV 방송국이다. 아리랑국제방송은 한국의 시사, [문화](https://ko.wikipedia.org/wiki/문화 "wikilink"), 및 [역사](https://ko.wikipedia.org/wiki/역사 "wikilink")에 관한 영어 정보를 한국 주변 지역에 제공하고 있다. 방송국명 ”아리랑”은, [한국](https://ko.wikipedia.org/wiki/한국 "wikilink")의 전통 [민요](../Page/민요.md "wikilink") “[아리랑](../Page/아리랑.md "wikilink")”에 유래하고 있다.
+
+[1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [2월 3일에](https://ko.wikipedia.org/wiki/2월_3일 "wikilink") [대한민국의 케이블 TV 채널로](../Page/대한민국의_케이블TV_방송.md "wikilink") 개국해, [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [8월 12일부터](https://ko.wikipedia.org/wiki/8월_12일 "wikilink") 해외방송, [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [8월 20일부터](https://ko.wikipedia.org/wiki/8월_20일 "wikilink") 아랍어 [위성방송](../Page/위성방송.md "wikilink"), [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")부터 미주 지역 DTV 방송을 운영하고 있다. [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") 7월 14일 부터 미국 [UN](https://ko.wikipedia.org/wiki/유엔 "wikilink") 본부 UN In-house Network에 진입하여 방송 서비스를 개시했다. 2016년 9월 27일, 국내 최초로 유일하게 영국 전역 방송 시장에 진출하여 [660만 HD 시청가구](http://www.dt.co.kr/contents.html?article_no=2016092802151131780002)를 확보했다.
+
+## 슬로건
+
+  - Korea World Network ([1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [2월 3일](https://ko.wikipedia.org/wiki/2월_3일 "wikilink") \~ [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink"))
+  - Korea's Global TV ([2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") \~ [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink"))
+  - Korea for the World, The World for Korea ([2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") \~ [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink"))
+  - Korea's Multilingual TV ([2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") \~ [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink"))
+  - Asia's Heartbeat ([2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") \~ [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink"))
+  - The World On arirang ([2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") \~ 현재)
+
+## 채널 운영
+
+### 채널
+
+| 구분    | 해외방송                                         | 국내방송      |
+| ----- | -------------------------------------------- | --------- |
+| World | UN                                           | Korea     |
+| 개국    | 1999.8.12(월드1) / 2000.9.26(월드2)              | 2015.7.14 |
+| 방송권역  | 전 세계                                         |           |
+| 사용언어  | 영어, 중국어, 스페인어, 한국어, 아랍어, 러시아어, 베트남어, 인니어     | 영어        |
+| 편성방향  | 한국정보 제공, 고유문화 홍보, 현대문화 홍보, 국제친선교류            |           |
+| 위성체   | Intelsat- 19. 20, 21 / Hotbird 13D / Astra1L |           |
+
+채널 운영 현황
+
+  - Arirang Korea (국내 방송) : 1997년 2월 3일 개국. 한국 전역에 케이블, 위성, IPTV를 통해 방송하고 있다.
+  - Arirang World (해외 방송) :
+
+<!-- end list -->
+
+1.  World 1 (1998년 8월 12일 개국) 주 방송 언어는 영어이며, 다언어 자막 서비스를 제공하고 있다.
+2.  World 2 (2000년 9월 개국) 주 방송 언어는 영어이며, 다언어 자막 서비스를 제공하고 있다.
+
+<!-- end list -->
+
+  - UN In-house Network (해외 방송) : 2015년 7월 14일 개국. 뉴욕 UN 본부에서 시청할 수 있으며 시사보도, 교양예술 프로그램을 방송하고 있다.
+
+### 운영 목표
+
+  - 해외 채널 : 실시간 한국 정보 채널 (한국정보제공 + 고유문화 홍보 + 현대문화 홍보 + 국제친선교류)
+  - 국내 채널 : 다문화 전문 채널 (한국 정보제공 + 고유문화 홍보 + 현대문화 홍보 + 다문화 이해)
+
+## 방송 현황
+
+Arirang TV는 국제 경제와 정세, 국제적 이슈, 문화, 예능 등을 다루는 여러 종류의 33개 프로그램을 방영하고 있으며, 이를 통해 국내외 오피니언 리더 층을 위한 프로그램 뿐만 아니라 다양한 연령대의 시청자가 즐길 수 있는 프로그램들로 구성되어 있다.
+
+## 수신방법
+
+3개 채널(Arirang World, Arirang UN, Arirang Korea)로 구성되어 있으며, 총 10개의 주요 방송 위성중계기를 사용하여 아시아, 오세아니아, 유럽, 북·중·남미, 중동 등 세계 105개국의 1.4억 시청 가구에 한국의 역동적인 모습과 고유의 문화를 세계에 알리는 메신저로서 역할을 하고 있다. [섬네일](https://ko.wikipedia.org/wiki/파일:아리랑tv_방송권역_ArirangTV_Satellites_and_Coverage_map.png "wikilink")
+
+### 직접 수신 방법
+
+<table>
+<thead>
+<tr class="header">
+<th><p>Asia, Oceania, Middle East, Africa, Europe</p></th>
+<th><p>Asia, Oceania, Middle East</p></th>
+<th><p>Asia, Oceania, Middle East, Africa, Europe</p></th>
+<th><p>United Kingdom</p></th>
+<th><p>The Americas</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><dl>
+<dt></dt>
+<dd>Satellite : Intelsat 20
+</dd>
+<dd>Frequency : 4053.5Mhz
+</dd>
+<dd>Symbol rate : 4.4MS/s
+</dd>
+<dd>FEC : 3/4
+</dd>
+<dd>Polarization : Vertical
+</dd>
+<dd>V-PID : 1260
+</dd>
+<dd>A-PID(1/2) : 1220
+</dd>
+<dd>A-PID(3/4) : 1222
+</dd>
+<dd>Band : C-Band
+</dd>
+<dd>Standard : PAL
+</dd>
+</dl></td>
+<td><dl>
+<dt></dt>
+<dd>Satellite : AsiaSat7
+</dd>
+<dd>Frequency : 3755Mhz
+</dd>
+<dd>Symbol rate : 4.4MS/s
+</dd>
+<dd>FEC : 7/8
+</dd>
+<dd>Polarization : Vertical
+</dd>
+<dd>V-PID : 3601
+</dd>
+<dd>A-PID(1/2) : -
+</dd>
+<dd>A-PID(3/4) : -
+</dd>
+<dd>Band : C-Band
+</dd>
+<dd>Standard : PAL
+</dd>
+</dl></td>
+<td><dl>
+<dt></dt>
+<dd>Satellite : Intelsat20 (HD)
+</dd>
+<dd>Frequency : 3,795Mhz
+</dd>
+<dd>Symbol rate : 5.579497
+</dd>
+<dd>FEC : 2/3
+</dd>
+<dd>Polarization : Vertical
+</dd>
+<dd>V-PID : 308
+</dd>
+<dd>A-PID(1/2) : 256
+</dd>
+<dd>A-PID(3/4) : -
+</dd>
+<dd>Band : C-Band
+</dd>
+<dd>Standard : PAL
+</dd>
+</dl></td>
+<td><dl>
+<dt></dt>
+<dd>Satellite : Astra 2G (HD)
+</dd>
+<dd>Frequency : 11,224Mhz
+</dd>
+<dd>Symbol rate : 23.0
+</dd>
+<dd>FEC : 8/9
+</dd>
+<dd>Polarization : Vertical
+</dd>
+<dd>V-PID : 2309
+</dd>
+<dd>A-PID(1/2) : 2311
+</dd>
+<dd>A-PID(3/4) : -
+</dd>
+<dd>Band : Ku-Band
+</dd>
+<dd>Standard : PAL
+</dd>
+</dl></td>
+<td><dl>
+<dt></dt>
+<dd>Satellite : Intelsat 21
+</dd>
+<dd>Frequency : 3880Mhz
+</dd>
+<dd>Symbol rate : 27.690MS/s
+</dd>
+<dd>FEC : 7/8
+</dd>
+<dd>Polarization : Horizontal
+</dd>
+<dd>V-PID : 1860
+</dd>
+<dd>A-PID(1/2) : 1820
+</dd>
+<dd>A-PID(3/4) : 1822
+</dd>
+<dd>Band : C-Band
+</dd>
+<dd>Standard : NTSC
+</dd>
+</dl></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr class="header">
+<th><p>Asia, Oceania, Pacific</p></th>
+<th><p>Oceania</p></th>
+<th><p>Europe Ⅰ</p></th>
+<th><p>Europe Ⅱ</p></th>
+<th><p>United Arab Emirates and Surrounding Countries</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><dl>
+<dt></dt>
+<dd>Satellite : Intelsat 19
+</dd>
+<dd>Frequency : 3815Mhz
+</dd>
+<dd>Symbol rate : 4.4MS/s
+</dd>
+<dd>FEC : 3/4
+</dd>
+<dd>Polarization : Vertical
+</dd>
+<dd>V-PID : 1860
+</dd>
+<dd>A-PID(1/2) : 1820
+</dd>
+<dd>A-PID(3/4) : 1822
+</dd>
+<dd>Band : C-Band
+</dd>
+<dd>Standard : NTSC
+</dd>
+</dl></td>
+<td><dl>
+<dt></dt>
+<dd>Satellite : Intelsat 19
+</dd>
+<dd>Frequency : 12729Mhz
+</dd>
+<dd>Symbol rate : 13.33MS/s
+</dd>
+<dd>FEC : 3/4
+</dd>
+<dd>Polarization : Horizontal
+</dd>
+<dd>V-PID : 1260
+</dd>
+<dd>A-PID(1/2) : 1220
+</dd>
+<dd>A-PID(3/4) : 1222
+</dd>
+<dd>Band : Ku-Band
+</dd>
+<dd>Standard : PAL
+</dd>
+</dl></td>
+<td><dl>
+<dt></dt>
+<dd>Satellite : Eutelsat Hotbird 13B
+</dd>
+<dd>Frequency : 11623Mhz
+</dd>
+<dd>Symbol rate : 27.5MS/s
+</dd>
+<dd>FEC : 3/4
+</dd>
+<dd>Polarization : Vertical
+</dd>
+<dd>V-PID : 225
+</dd>
+<dd>A-PID(1/2) : 245
+</dd>
+<dd>A-PID(3/4) : -
+</dd>
+<dd>Band : Ku-Band
+</dd>
+<dd>Standard : PAL
+</dd>
+</dl></td>
+<td><dl>
+<dt></dt>
+<dd>Satellite : Astra 1L
+</dd>
+<dd>Frequency : 11509Mhz
+</dd>
+<dd>Symbol rate : 22MS/s
+</dd>
+<dd>FEC : 5/6
+</dd>
+<dd>Polarization : Vertical
+</dd>
+<dd>V-PID : 711
+</dd>
+<dd>A-PID(1/2) : 731
+</dd>
+<dd>A-PID(3/4) : -
+</dd>
+<dd>Band : Ku-Band
+</dd>
+<dd>Standard : PAL
+</dd>
+</dl></td>
+<td><dl>
+<dt></dt>
+<dd>Satellite : Badr4
+</dd>
+<dd>Frequency : 12111Mhz
+</dd>
+<dd>Symbol rate : 27.5MS/s
+</dd>
+<dd>FEC : 5/6
+</dd>
+<dd>Polarization : Horizontal
+</dd>
+<dd>V-PID : 3121
+</dd>
+<dd>A-PID(1/2) : -
+</dd>
+<dd>A-PID(3/4) : -
+</dd>
+<dd>Band : Ku-Band
+</dd>
+<dd>Standard : PAL
+</dd>
+</dl></td>
+</tr>
+</tbody>
+</table>
+
+### [TV](http://www.arirang.com/prroom/howtowatch2.asp?sys_lang=Kor)
+
+국내의 경우 케이블TV, 위성방송, IPTV로 시청할 수 있다.
+
+### [온라인서비스](http://www.arirang.com/event/pr/Newmedia_Platforms.asp?sys_lang=Eng)
+
+모바일, OTT 기기 등으로 시청할 수 있다.
+
+## 프로그램
+
+<table>
+<thead>
+<tr class="header">
+<th><p>뉴스, 시사</p></th>
+<th><p>경제</p></th>
+<th><p>엔터테인먼트</p></th>
+<th><p>피플</p></th>
+<th><p>여행</p></th>
+<th><p>예술</p></th>
+<th><p>과학</p></th>
+<th><p>역사</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="http://www.arirang.com/News/News_Index.asp">Arirang News / Newscenter</a></p>
+<p><a href="http://www.arirang.com/Tv2/Tv_Home.asp?PROG_CODE=TVCR0848&amp;MENU_CODE=102643">A Road To Peace</a></p>
+<p><a href="http://www.arirang.com/Tv2/Tv_Home.asp?PROG_CODE=TVCR0849&amp;MENU_CODE=102651">The Point : World Affairs</a></p>
+<p><a href="http://www.arirang.com/Tv2/Tv_Home.asp?PROG_CODE=TVCR0846&amp;MENU_CODE=102636">The Diplomat</a></p>
+<p><a href="http://www.arirang.com/Tv2/Tv_Home.asp?PROG_CODE=TVCR0478&amp;MENU_CODE=100980">Arirang Prime</a></p>
+<p><a href="http://www.arirang.com/Tv2/Tv_Home.asp?PROG_CODE=TVCR0208&amp;MENU_CODE=100448">Arirang Special</a></p>
+<p><a href="http://www.arirang.com/Tv2/Tv_Home.asp?PROG_CODE=TVCR0802&amp;MENU_CODE=102346">Foreign Correspondents</a></p></td>
+<td><p><a href="http://www.arirang.com/Tv2/Tv_Home.asp?PROG_CODE=TVCR0847&amp;MENU_CODE=102630">Money Monster</a></p>
+<p><a href="http://www.arirang.com/Tv2/Tv_Home.asp?PROG_CODE=TVCR0703&amp;MENU_CODE=101807">Global Business Report</a></p></td>
+<td><p><a href="http://www.arirang.com/Tv2/Tv_Home_W5.asp?PROG_CODE=TVCR0102&amp;MENU_CODE=101790">Pops in Seoul</a></p>
+<p><a href="http://www.arirang.com/Tv2/Tv_Home.asp?PROG_CODE=TVCR0772&amp;MENU_CODE=102207">B-Cruze</a></p>
+<p><a href="http://www.arirang.com/Tv2/Tv_Home_W6.asp?PROG_CODE=TVCR0112&amp;MENU_CODE=100786">Showbiz Korea</a></p>
+<p><a href="http://www.arirang.com/Tv2/Tv_Home.asp?PROG_CODE=TVCR0688&amp;MENU_CODE=101717">After School Club</a></p>
+<p><a href="http://www.arirang.com/Tv2/Tv_Home.asp?PROG_CODE=TVCR0636&amp;MENU_CODE=101505">Simply K-Pop</a></p>
+<p><a href="http://www.arirang.com/Tv2/Tv_Home.asp?PROG_CODE=TVCR0826&amp;MENU_CODE=102519">I'm Live</a></p></td>
+<td><p><a href="http://www.arirang.com/Tv2/Tv_Home_W2.asp?PROG_CODE=TVCR0816&amp;MENU_CODE=102457">Heart to Heart</a> <a href="http://www.arirang.com/Tv2/Tv_Home.asp?PROG_CODE=TVCR0633&amp;MENU_CODE=101481">The INNERview</a></p>
+<p><a href="http://www.arirang.com/Tv2/Tv_About_Content.asp?PROG_CODE=TVCR0525&amp;MENU_CODE=101097">Discover World</a></p>
+<p><a href="http://www.arirang.com/Tv2/Tv_Home.asp?PROG_CODE=TVCR0838&amp;MENU_CODE=102619">Understanding Asia</a></p>
+<p><a href="http://www.arirang.com/Tv2/Tv_Home.asp?PROG_CODE=TVCR0836&amp;MENU_CODE=102617">This is The Wild</a></p>
+<p><a href="http://www.arirang.com/Tv2/Tv_Home.asp?PROG_CODE=TVCR0820&amp;MENU_CODE=102483">Premium Collection</a></p></td>
+<td><p><a href="http://www.arirang.com/Tv2/Tv_Home.asp?PROG_CODE=TVCR0843&amp;MENU_CODE=102621">Mystery Travelers</a></p>
+<p><a href="http://www.arirang.com/Tv2/Tv_Home.asp?PROG_CODE=TVCR0852&amp;MENU_CODE=102656">NOW</a></p>
+<p><a href="http://www.arirang.com/Tv2/Tv_Home.asp?PROG_CODE=TVCR0851&amp;MENU_CODE=102629">World Experience – ATLAS</a></p>
+<p><a href="http://www.arirang.com/Tv2/Tv_Home.asp?PROG_CODE=TVCR0733&amp;MENU_CODE=101960">Seoul Scape</a></p></td>
+<td><p><a href="http://www.arirang.com/Tv2/Tv_Home.asp?PROG_CODE=TVCR0844&amp;MENU_CODE=102627">Architecture 101</a></p>
+<p><a href="http://www.arirang.com/Tv2/Tv_Home.asp?PROG_CODE=TVCR0809&amp;MENU_CODE=102397">K-Phile</a></p>
+<p><a href="http://www.arirang.com/Tv2/Tv_PlusHomepage_Full.asp?PROG_CODE=TVCR0758&amp;MENU_CODE=102123">In Frame 3</a></p></td>
+<td><p><a href="http://www.arirang.com/Tv2/Tv_Home.asp?PROG_CODE=TVCR0850&amp;MENU_CODE=102628">Seeking Korean Treasures</a></p>
+<p><a href="http://www.arirang.com/Tv2/Tv_Home.asp?PROG_CODE=TVCR0839&amp;MENU_CODE=102620">The Five Keys</a></p>
+<p><a href="http://www.arirang.com/Tv2/Tv_Home.asp?PROG_CODE=TVCR0835&amp;MENU_CODE=102592">Beyond</a></p></td>
+<td><p><a href="http://www.arirang.com/Tv2/Tv_Home.asp?PROG_CODE=TVCR0776&amp;MENU_CODE=102229">Peace Insight</a> <a href="http://www.arirang.com/Tv2/Tv_Home_W5.asp?PROG_CODE=TVCR0744&amp;MENU_CODE=101976">The Grand Heritage</a></p></td>
+</tr>
+</tbody>
+</table>
+
+## 같이 보기
+
+  - [국제방송교류재단](https://ko.wikipedia.org/wiki/국제방송교류재단 "wikilink")
+  - [아리랑 라디오](../Page/아리랑_라디오.md "wikilink")
+  - [KBS 월드](../Page/KBS_월드.md "wikilink")
+
+## 외부 링크
+
+  - [Arirang 공식홈페이지](http://www.arirang.com)
+  - [Arirang Social Media HUB](http://www.arirang.com/event/pr/snshub.asp)
+  - [Arirang a+](http://www.arirang.com/news/misolang/index.asp?sys_lang=Kor)
+
+[분류:대한민국의 텔레비전 케이블 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_케이블_방송국 "wikilink") [분류:국제방송](https://ko.wikipedia.org/wiki/분류:국제방송 "wikilink") [분류:선전기관](https://ko.wikipedia.org/wiki/분류:선전기관 "wikilink") [분류:1996년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1996년_설립된_기업 "wikilink") [분류:1999년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:1999년_설립된_텔레비전_방송국과_채널 "wikilink")
