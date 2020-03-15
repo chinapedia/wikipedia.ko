@@ -23,7 +23,7 @@
 
 ### DVD
 
-1.  [CANDY CANDY](https://ko.wikipedia.org/wiki/CANDY_CANDY "wikilink")
+1.  [CANDY CANDY](../Page/CANDY_CANDY.md "wikilink")
 2.  [문제 걸](https://ko.wikipedia.org/wiki/몬다이걸 "wikilink") ()
 3.  [체리 봉봉](https://ko.wikipedia.org/wiki/모시모시하라주쿠 "wikilink") ()
 4.  [do do pi do](https://ko.wikipedia.org/wiki/피카피카판타진 "wikilink")

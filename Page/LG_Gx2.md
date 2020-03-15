@@ -11,7 +11,7 @@ LG Gx2는 [4.4.2 킷캣으로](https://ko.wikipedia.org/wiki/안드로이드_버
 
 ### [안드로이드](https://ko.wikipedia.org/wiki/안드로이드 "wikilink") [5.0.2 롤리팝](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink")
 
-[LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")는 GX2에 [롤리팝](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드 계획이 없다고 밝혔다. 비슷한 사양의 [LG G3 비트와](../Page/LG_G3_비트.md "wikilink") [LG G 스타일로](https://ko.wikipedia.org/wiki/LG_G_스타일로 "wikilink"), 그리고 전작인 [LG Gx는](../Page/LG_Gx.md "wikilink") [롤리팝](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드가 시행되었고, 블루투스 인증까지 되었기 때문에 GX2 유저들은 배신감을 느끼고 있다.
+[LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")는 GX2에 [롤리팝](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드 계획이 없다고 밝혔다. 비슷한 사양의 [LG G3 비트와](../Page/LG_G3_비트.md "wikilink") [LG G 스타일로](../Page/LG_G_스타일로.md "wikilink"), 그리고 전작인 [LG Gx는](../Page/LG_Gx.md "wikilink") [롤리팝](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드가 시행되었고, 블루투스 인증까지 되었기 때문에 GX2 유저들은 배신감을 느끼고 있다.
 
 ## 특수 기능
 

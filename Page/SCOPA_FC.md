@@ -5,7 +5,7 @@
 
 ## 역사
 
-SCOPA FC의 첫 참가 기록은 [1981 시즌인데](https://ko.wikipedia.org/wiki/1981_사모아_내셔널_리그 "wikilink"), 당시 [바이바세-타이 FC와](../Page/바이바세-타이_FC.md "wikilink") 리그 유일의 공동 우승을 기록했다.\[1\] SCOPA FC는 1984 시즌과 1985 시즌에도 참가했다. [1984 시즌에는](https://ko.wikipedia.org/wiki/1984_사모아_내셔널_리그 "wikilink") 11개 팀 중 8위를 기록했다.\[2\] [1985 시즌에도](https://ko.wikipedia.org/wiki/1985_사모아_내셔널_리그 "wikilink") 11개 팀 중 8위를 기록했다.\[3\] 이후의 시즌에서부터는 이 팀의 참가 기록이 더 이상 남아있지 않다.
+SCOPA FC의 첫 참가 기록은 [1981 시즌인데](https://ko.wikipedia.org/wiki/1981_사모아_내셔널_리그 "wikilink"), 당시 [바이바세-타이 FC와](../Page/바이바세-타이_FC.md "wikilink") 리그 유일의 공동 우승을 기록했다.\[1\] SCOPA FC는 1984 시즌과 1985 시즌에도 참가했다. [1984 시즌에는](../Page/1984_사모아_내셔널_리그.md "wikilink") 11개 팀 중 8위를 기록했다.\[2\] [1985 시즌에도](https://ko.wikipedia.org/wiki/1985_사모아_내셔널_리그 "wikilink") 11개 팀 중 8위를 기록했다.\[3\] 이후의 시즌에서부터는 이 팀의 참가 기록이 더 이상 남아있지 않다.
 
 ## 기록
 

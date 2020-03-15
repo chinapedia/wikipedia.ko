@@ -19,35 +19,35 @@
 <tbody>
 <tr class="odd">
 <td><p>1968</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/피츠버그_콘도르스" title="wikilink">피츠버그 파이퍼스</a></p></td>
+<td><p><a href="../Page/피츠버그_콘도르스.md" title="wikilink">피츠버그 파이퍼스</a></p></td>
 <td><p>4승3패</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴올리언스_버커니어스" title="wikilink">뉴올리언스 버커니어스</a></p></td>
+<td><p><a href="../Page/뉴올리언스_버커니어스.md" title="wikilink">뉴올리언스 버커니어스</a></p></td>
 <td><p>코니 호킨스</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/피츠버그_콘도르스" title="wikilink">피츠버그 파이퍼스</a></p></td>
+<td><p><a href="../Page/피츠버그_콘도르스.md" title="wikilink">피츠버그 파이퍼스</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1969</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오클랜드_오크스" title="wikilink">오클랜드 오크스</a></p></td>
+<td><p><a href="../Page/오클랜드_오크스.md" title="wikilink">오클랜드 오크스</a></p></td>
 <td><p>4승1패</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/인디애나_페이서스" title="wikilink">인디애나 페이서스</a></p></td>
 <td><p>워런 자발리</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오클랜드_오크스" title="wikilink">오클랜드 오크스</a></p></td>
+<td><p><a href="../Page/오클랜드_오크스.md" title="wikilink">오클랜드 오크스</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1970</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/인디애나_페이서스" title="wikilink">인디애나 페이서스</a></p></td>
 <td><p>4승2패</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/애너하임_아미고스" title="wikilink">로스앤젤레스 스타스</a></p></td>
+<td><p><a href="../Page/애너하임_아미고스.md" title="wikilink">로스앤젤레스 스타스</a></p></td>
 <td><p>로저 브라운</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/인디애나_페이서스" title="wikilink">인디애나 페이서스</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1971</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유타_스타스" title="wikilink">유타 스타스</a></p></td>
+<td><p><a href="../Page/유타_스타스.md" title="wikilink">유타 스타스</a></p></td>
 <td><p>4승3패</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/켄터키_커널스" title="wikilink">켄터키 커널스</a></p></td>
+<td><p><a href="../Page/켄터키_커널스.md" title="wikilink">켄터키 커널스</a></p></td>
 <td><p>젤모 비티</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유타_스타스" title="wikilink">유타 스타스</a></p></td>
+<td><p><a href="../Page/유타_스타스.md" title="wikilink">유타 스타스</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1972</p></td>
@@ -60,7 +60,7 @@
 <tr class="even">
 <td><p>1973</p></td>
 <td><p>4승3패</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/켄터키_커널스" title="wikilink">켄터키 커널스</a></p></td>
+<td><p><a href="../Page/켄터키_커널스.md" title="wikilink">켄터키 커널스</a></p></td>
 <td><p>조지 맥기니스</p></td>
 <td></td>
 <td></td>
@@ -69,17 +69,17 @@
 <td><p>1974</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/브루클린_네츠" title="wikilink">뉴욕 네츠</a></p></td>
 <td><p>4승1패</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유타_스타스" title="wikilink">유타 스타스</a></p></td>
+<td><p><a href="../Page/유타_스타스.md" title="wikilink">유타 스타스</a></p></td>
 <td><p>줄리어스 어빙</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/브루클린_네츠" title="wikilink">뉴욕 네츠</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1975</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/켄터키_커널스" title="wikilink">켄터키 커널스</a></p></td>
+<td><p><a href="../Page/켄터키_커널스.md" title="wikilink">켄터키 커널스</a></p></td>
 <td><p>4승1패</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/인디애나_페이서스" title="wikilink">인디애나 페이서스</a></p></td>
 <td><p>아티스 길모어</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/켄터키_커널스" title="wikilink">켄터키 커널스</a></p></td>
+<td><p><a href="../Page/켄터키_커널스.md" title="wikilink">켄터키 커널스</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1976</p></td>
@@ -117,31 +117,31 @@
 <td><p>1회 (1972년)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/켄터키_커널스" title="wikilink">켄터키 커널스</a></p></td>
+<td><p><a href="../Page/켄터키_커널스.md" title="wikilink">켄터키 커널스</a></p></td>
 <td><p>3회</p></td>
 <td><p>1회 (1975년)</p></td>
 <td><p>2회 (1971년, 1973년)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/애너하임_아미고스" title="wikilink">로스앤젤레스 스타스</a></p></td>
+<td><p><a href="../Page/애너하임_아미고스.md" title="wikilink">로스앤젤레스 스타스</a></p></td>
 <td><p>1회</p></td>
 <td><p>-</p></td>
 <td><p>1회 (1970년)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/유타_스타스" title="wikilink">유타 스타스</a></p></td>
+<td><p><a href="../Page/유타_스타스.md" title="wikilink">유타 스타스</a></p></td>
 <td><p>2회</p></td>
 <td><p>1회 (1971년)</p></td>
 <td><p>2회 (1974년)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/오클랜드_오크스" title="wikilink">오클랜드 오크스</a></p></td>
+<td><p><a href="../Page/오클랜드_오크스.md" title="wikilink">오클랜드 오크스</a></p></td>
 <td><p>1회</p></td>
 <td><p>1회 (1969년)</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/피츠버그_콘도르스" title="wikilink">피츠버그 파이퍼스</a></p></td>
+<td><p><a href="../Page/피츠버그_콘도르스.md" title="wikilink">피츠버그 파이퍼스</a></p></td>
 <td><p>1회</p></td>
 <td><p>1회 (1968년)</p></td>
 <td><p>-</p></td>
@@ -153,7 +153,7 @@
 <td><p>1회 (1976년)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴올리언스_버커니어스" title="wikilink">뉴올리언스 버커니어스</a></p></td>
+<td><p><a href="../Page/뉴올리언스_버커니어스.md" title="wikilink">뉴올리언스 버커니어스</a></p></td>
 <td><p>1회</p></td>
 <td><p>-</p></td>
 <td><p>1회 (1968년)</p></td>

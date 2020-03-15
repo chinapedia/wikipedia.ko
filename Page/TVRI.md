@@ -3,7 +3,7 @@
 
 **TVRI**()은 [인도네시아](https://ko.wikipedia.org/wiki/인도네시아 "wikilink")의 [공영](https://ko.wikipedia.org/wiki/공영_방송 "wikilink") [텔레비전 방송국으로](https://ko.wikipedia.org/wiki/텔레비전_방송국 "wikilink"), 인도네시아에서 가장 오래된 텔레비전 네트워크이다. 본사는 [중앙 자카르타의](https://ko.wikipedia.org/wiki/중앙_자카르타 "wikilink") [세나얀](https://ko.wikipedia.org/wiki/세나얀 "wikilink")에 있다.\[1\]
 
-TVRI는 1989년 인도네시아 최초의 민영 텔레비전 방송국인 [RCTI](https://ko.wikipedia.org/wiki/RCTI "wikilink")가 개국할 때 까지 인도네시아의 텔레비전 방송을 독점하였다.
+TVRI는 1989년 인도네시아 최초의 민영 텔레비전 방송국인 [RCTI](../Page/RCTI.md "wikilink")가 개국할 때 까지 인도네시아의 텔레비전 방송을 독점하였다.
 
 ## 역사
 
@@ -11,7 +11,7 @@ TVRI는 1989년 인도네시아 최초의 민영 텔레비전 방송국인 [RCTI
 
 1974년 TVRI는 정보 통신부의 산하로 들어갔고, 정부 정책을 대중에 알리는 역할을 하였다. 2년 후 위성을 통해 인도네시아 곳곳에 방송되었다. 1979년에는 [컬러 텔레비전](https://ko.wikipedia.org/wiki/컬러_텔레비전 "wikilink") 방송을 실시하였다.
 
-[1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink")까지 인도네시아 텔레비전 방송을 독점하였으나, 정부의 6차 5개년 계획에서 민영 텔레비전 방송국을 허용하면서 [RCTI](https://ko.wikipedia.org/wiki/RCTI "wikilink")가 개국하고, [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink")에 [SCTV](https://ko.wikipedia.org/wiki/SCTV "wikilink")가 개국함으로써 독점체제가 무너졌다.
+[1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink")까지 인도네시아 텔레비전 방송을 독점하였으나, 정부의 6차 5개년 계획에서 민영 텔레비전 방송국을 허용하면서 [RCTI](../Page/RCTI.md "wikilink")가 개국하고, [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink")에 [SCTV](../Page/SCTV.md "wikilink")가 개국함으로써 독점체제가 무너졌다.
 
 [개혁 시대의](https://ko.wikipedia.org/wiki/수하르토_이후의_인도네시아 "wikilink") 시작 후, TVRI의 운영 형태를 변환하였으며, 재정부에 우선 책임이 되었고, 이후 국유 기업과 재정부에 대한 주 정부의 권한 하에서 유한 회사로 전환하였다.
 

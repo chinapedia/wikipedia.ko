@@ -28,7 +28,7 @@
 ## 쇼타임 시리즈
 
 1.  **EXO의 쇼타임**
-2.  [쇼타임 - 버닝 더 비스트](https://ko.wikipedia.org/wiki/쇼타임_-_버닝_더_비스트 "wikilink")
+2.  [쇼타임 - 버닝 더 비스트](../Page/쇼타임_-_버닝_더_비스트.md "wikilink")
 3.  [에이핑크의 쇼타임](https://ko.wikipedia.org/wiki/에이핑크의_쇼타임 "wikilink")
 4.  [씨스타의 쇼타임](https://ko.wikipedia.org/wiki/씨스타의_쇼타임 "wikilink")
 5.  [EXID의 쇼타임](https://ko.wikipedia.org/wiki/EXID의_쇼타임 "wikilink")

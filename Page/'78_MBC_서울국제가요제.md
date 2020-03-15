@@ -42,7 +42,7 @@
 2.  "Only for You 그대만을 위하여 (인도네시아 - Rafika Duri)" (미상 작사 / 미상 작곡) ***- 가야금상***
 3.  "I Saw You 너를 보았네 (한국 - 이예나)" ([길옥윤](https://ko.wikipedia.org/wiki/길옥윤 "wikilink") 작사 / [길옥윤](https://ko.wikipedia.org/wiki/길옥윤 "wikilink") 작곡)
 4.  "Yearing for Love 사랑의 열망 (태국 - Sarawanee Potitait)" (미상 작사 / 미상 작곡)***- 아리랑상***
-5.  "Bigger Love [더욱 큰 사랑](../Page/더욱_큰_사랑.md "wikilink") (한국 - [장현](https://ko.wikipedia.org/wiki/장현_\(1955년\) "wikilink"))" ([장덕](https://ko.wikipedia.org/wiki/장덕 "wikilink") 작사 / [장덕](https://ko.wikipedia.org/wiki/장덕 "wikilink") 작곡)
+5.  "Bigger Love [더욱 큰 사랑](../Page/더욱_큰_사랑.md "wikilink") (한국 - [장현](https://ko.wikipedia.org/wiki/장현_\(1955년\) "wikilink"))" ([장덕](../Page/장덕.md "wikilink") 작사 / [장덕](../Page/장덕.md "wikilink") 작곡)
 
 <!-- end list -->
 
@@ -68,8 +68,8 @@
 6.  "너를 보았네 (이예나)" ([길옥윤](https://ko.wikipedia.org/wiki/길옥윤 "wikilink") 작사 / [길옥윤](https://ko.wikipedia.org/wiki/길옥윤 "wikilink") 작곡) ***- 본선 진출***
 7.  "사랑의 합창 (방은미)" ([김학송](https://ko.wikipedia.org/wiki/김학송 "wikilink") 작사 / [김학송](https://ko.wikipedia.org/wiki/김학송 "wikilink") 작곡) ***- 본선 진출***
 8.  "장미의 여인 (숙자매)" ([장익환](https://ko.wikipedia.org/wiki/장익환 "wikilink") 작사 / [장익환](https://ko.wikipedia.org/wiki/장익환 "wikilink") 작곡) ***- 본선 진출***
-9.  "더욱 큰 사랑 (장현)" ([장덕](https://ko.wikipedia.org/wiki/장덕 "wikilink") 작사 / [장덕](https://ko.wikipedia.org/wiki/장덕 "wikilink") 작곡) ***- 본선 진출***
-10. "사랑할 줄 아는 사람 (소리나)" ([마상원](https://ko.wikipedia.org/wiki/마상원 "wikilink") 작사 / [마상원](https://ko.wikipedia.org/wiki/마상원 "wikilink") 작곡)
+9.  "더욱 큰 사랑 (장현)" ([장덕](../Page/장덕.md "wikilink") 작사 / [장덕](../Page/장덕.md "wikilink") 작곡) ***- 본선 진출***
+10. "사랑할 줄 아는 사람 (소리나)" ([마상원](../Page/마상원.md "wikilink") 작사 / [마상원](../Page/마상원.md "wikilink") 작곡)
 11. "꽃잎이여 영원하라 (현혜미)" ([안건마](https://ko.wikipedia.org/wiki/안건마 "wikilink") 작사 / [안건마](https://ko.wikipedia.org/wiki/안건마 "wikilink") 작곡)
 12. "토함산 (송창식)" ([송창식](https://ko.wikipedia.org/wiki/송창식 "wikilink") 작사 / [송창식](https://ko.wikipedia.org/wiki/송창식 "wikilink") 작곡) ***- 본선 진출***
 13. "공연히 (윤시내&사계절)" ([최종혁](https://ko.wikipedia.org/wiki/최종혁 "wikilink") 작사 / [최종혁](https://ko.wikipedia.org/wiki/최종혁 "wikilink") 작곡) ***- 본선 진출***

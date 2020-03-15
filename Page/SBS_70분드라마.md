@@ -26,9 +26,9 @@
 <td><p>6월 15일</p></td>
 <td><p>머피와 샐리의 법칙</p></td>
 <td><p>강명주, <a href="https://ko.wikipedia.org/wiki/김주승" title="wikilink">김주승</a>, <a href="https://ko.wikipedia.org/wiki/김영옥_(배우)" title="wikilink">김영옥</a>, <a href="https://ko.wikipedia.org/wiki/신구_(배우)" title="wikilink">신구</a>, 박민경,<br />
-이석, 유은정, 육동일, 김희정, <a href="https://ko.wikipedia.org/wiki/이상미_(배우)" title="wikilink">이상미</a>,<br />
+이석, 유은정, 육동일, 김희정, <a href="../Page/이상미_(배우).md" title="wikilink">이상미</a>,<br />
 곽정희</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/배유미_(작가)" title="wikilink">배유미</a></p></td>
+<td><p><a href="../Page/배유미_(작가).md" title="wikilink">배유미</a></p></td>
 <td><p>고흥식</p></td>
 </tr>
 <tr class="even">
@@ -67,7 +67,7 @@
 <td><p>5회</p></td>
 <td><p>7월 13일</p></td>
 <td><p>사랑한 후에</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오연수" title="wikilink">오연수</a>, 황인성, <a href="https://ko.wikipedia.org/wiki/조민기" title="wikilink">조민기</a>, 황미선, <a href="https://ko.wikipedia.org/wiki/이종남_(배우)" title="wikilink">이종남</a>,<br />
+<td><p><a href="https://ko.wikipedia.org/wiki/오연수" title="wikilink">오연수</a>, 황인성, <a href="https://ko.wikipedia.org/wiki/조민기" title="wikilink">조민기</a>, 황미선, <a href="../Page/이종남_(배우).md" title="wikilink">이종남</a>,<br />
 임성훈, 최창익, 임채연, 장은비</p></td>
 <td><p>김혜정</p></td>
 <td><p>김종혁</p></td>
@@ -171,7 +171,7 @@
 <td><p>9월 28일</p></td>
 <td><p>남편의 여자와 여행하는 법</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/김청" title="wikilink">김청</a>, <a href="https://ko.wikipedia.org/wiki/길용우" title="wikilink">길용우</a>, <a href="https://ko.wikipedia.org/wiki/안연홍" title="wikilink">안연홍</a>, <a href="https://ko.wikipedia.org/wiki/선우용여" title="wikilink">선우용여</a>, <a href="https://ko.wikipedia.org/wiki/서영애" title="wikilink">서영애</a>,<br />
-<a href="https://ko.wikipedia.org/wiki/이인철_(배우)" title="wikilink">이인철</a>, <a href="https://ko.wikipedia.org/wiki/노경주" title="wikilink">노경주</a>, <a href="https://ko.wikipedia.org/wiki/신은정" title="wikilink">신은정</a></p></td>
+<a href="https://ko.wikipedia.org/wiki/이인철_(배우)" title="wikilink">이인철</a>, <a href="../Page/노경주.md" title="wikilink">노경주</a>, <a href="https://ko.wikipedia.org/wiki/신은정" title="wikilink">신은정</a></p></td>
 <td><p>원작:차현숙<br />
 극본:이경미</p></td>
 <td><p>손원열</p></td>

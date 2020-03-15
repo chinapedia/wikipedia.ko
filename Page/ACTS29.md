@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ACTS29](https://ko.wikipedia.org/wiki/ACTS29).
 
 
-**ACTS29**는 [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink")의 [한인](https://ko.wikipedia.org/wiki/한인 "wikilink")을 기반으로로 하는 축구 클럽이다. ACTS29 라는 독특한 팀 명칭에는 '행동하는 29인' 이라는 뜻이 있으며, 팀의 창단 배경으론 '영국 축구계에 한국인들을 위한 새로운 역사를 쓰고싶다.'는 의미가 담겨져 있다. 팀을 창단을 등록한 년도는 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink")이며, 공식 팀창단식은 [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink") [서리주](https://ko.wikipedia.org/wiki/서리주 "wikilink")에서 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [8월 30일에](https://ko.wikipedia.org/wiki/8월_30일 "wikilink") 하였다. 팀의 공식적인 더비 라이벌로는 [리젠트 FC가](https://ko.wikipedia.org/wiki/리젠트_FC "wikilink") 있다.
+**ACTS29**는 [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink")의 [한인](https://ko.wikipedia.org/wiki/한인 "wikilink")을 기반으로로 하는 축구 클럽이다. ACTS29 라는 독특한 팀 명칭에는 '행동하는 29인' 이라는 뜻이 있으며, 팀의 창단 배경으론 '영국 축구계에 한국인들을 위한 새로운 역사를 쓰고싶다.'는 의미가 담겨져 있다. 팀을 창단을 등록한 년도는 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink")이며, 공식 팀창단식은 [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink") [서리주](https://ko.wikipedia.org/wiki/서리주 "wikilink")에서 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [8월 30일에](https://ko.wikipedia.org/wiki/8월_30일 "wikilink") 하였다. 팀의 공식적인 더비 라이벌로는 [리젠트 FC가](../Page/리젠트_FC.md "wikilink") 있다.
 
 ## 역사
 
@@ -31,7 +31,7 @@
 
 ### 임대 선수 명단
 
-[2015-16시즌](https://ko.wikipedia.org/wiki/프리미어리그_2015-16 "wikilink") 2015.06.29 기준
+[2015-16시즌](../Page/프리미어리그_2015-16.md "wikilink") 2015.06.29 기준
 
 ### 리저브팀 선수 명단
 
@@ -54,7 +54,7 @@
 
 ## 같이 보기
 
-[지소연](https://ko.wikipedia.org/wiki/지소연 "wikilink") [김태륭](https://ko.wikipedia.org/wiki/김태륭 "wikilink") [손흥민](https://ko.wikipedia.org/wiki/손흥민 "wikilink") [박주영](https://ko.wikipedia.org/wiki/박주영 "wikilink") [기성용](https://ko.wikipedia.org/wiki/기성용 "wikilink") [박지성](https://ko.wikipedia.org/wiki/박지성 "wikilink") [윤석영](https://ko.wikipedia.org/wiki/윤석영 "wikilink") [이청용](https://ko.wikipedia.org/wiki/이청용 "wikilink") [토트넘 홋스퍼 FC](https://ko.wikipedia.org/wiki/토트넘_홋스퍼_FC "wikilink") [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink")
+[지소연](https://ko.wikipedia.org/wiki/지소연 "wikilink") [김태륭](../Page/김태륭.md "wikilink") [손흥민](https://ko.wikipedia.org/wiki/손흥민 "wikilink") [박주영](https://ko.wikipedia.org/wiki/박주영 "wikilink") [기성용](https://ko.wikipedia.org/wiki/기성용 "wikilink") [박지성](https://ko.wikipedia.org/wiki/박지성 "wikilink") [윤석영](https://ko.wikipedia.org/wiki/윤석영 "wikilink") [이청용](https://ko.wikipedia.org/wiki/이청용 "wikilink") [토트넘 홋스퍼 FC](https://ko.wikipedia.org/wiki/토트넘_홋스퍼_FC "wikilink") [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink")
 
 ## 외부 링크
 

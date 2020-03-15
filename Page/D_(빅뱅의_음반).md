@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [D \( \)](https://ko.wikipedia.org/wiki/D_\(_\)).
 
 
-〈**D**〉는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악 그룹 [빅뱅의](https://ko.wikipedia.org/wiki/빅뱅_\(음악_그룹\) "wikilink") 여섯 번째 싱글 음반으로 "[MADE](https://ko.wikipedia.org/wiki/MADE_\(빅뱅의_음반\) "wikilink") 시리즈"의 세 번째 싱글 음반이다.
+〈**D**〉는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악 그룹 [빅뱅의](https://ko.wikipedia.org/wiki/빅뱅_\(음악_그룹\) "wikilink") 여섯 번째 싱글 음반으로 "[MADE](../Page/MADE_\(빅뱅의_음반\).md "wikilink") 시리즈"의 세 번째 싱글 음반이다.
 
 ## 배경
 

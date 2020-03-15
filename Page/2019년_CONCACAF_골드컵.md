@@ -25,7 +25,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/세인트폴_(미네소타주)" title="wikilink">세인트폴</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/알리안츠_필드" title="wikilink">알리안츠 필드</a></p></td>
+<td><p><a href="../Page/알리안츠_필드.md" title="wikilink">알리안츠 필드</a></p></td>
 <td><p>19,400</p></td>
 </tr>
 <tr class="odd">

@@ -89,7 +89,7 @@ Bold</p></td>
 <td><p>Regular</p></td>
 <td><p>267</p></td>
 <td><p>1133</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아랍_문자" title="wikilink">아랍 문자</a> (<a href="https://ko.wikipedia.org/wiki/나스탈리크체" title="wikilink">나스탈리크체</a>)</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/아랍_문자" title="wikilink">아랍 문자</a> (<a href="../Page/나스탈리크체.md" title="wikilink">나스탈리크체</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p>Noto Sans</p></td>
@@ -130,7 +130,7 @@ Bold</p></td>
 <td><p>Regular</p></td>
 <td><p>70</p></td>
 <td><p>73</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아베스타_문자" title="wikilink">아베스타 문자</a></p></td>
+<td><p><a href="../Page/아베스타_문자.md" title="wikilink">아베스타 문자</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Noto Sans Balinese</p></td>
@@ -195,7 +195,7 @@ Bold</p></td>
 <td><p>Regular</p></td>
 <td><p>722</p></td>
 <td><p>744</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/캐나다_원주민_음절문자" title="wikilink">캐나다 원주민 음절문자</a></p></td>
+<td><p><a href="../Page/캐나다_원주민_음절문자.md" title="wikilink">캐나다 원주민 음절문자</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Noto Sans Carian</p></td>
@@ -485,7 +485,7 @@ Bold</p></td>
 <td><p>Regular</p></td>
 <td><p>70</p></td>
 <td><p>133</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/카로슈티_문자" title="wikilink">카로슈티 문자</a></p></td>
+<td><p><a href="../Page/카로슈티_문자.md" title="wikilink">카로슈티 문자</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Noto Sans Khmer</p></td>
@@ -503,7 +503,7 @@ Bold</p></td>
 Bold</p></td>
 <td><p>120</p></td>
 <td><p>166</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/라오_문자" title="wikilink">라오 문자</a></p></td>
+<td><p><a href="../Page/라오_문자.md" title="wikilink">라오 문자</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Noto Sans Lepcha</p></td>
@@ -775,7 +775,7 @@ Bold</p></td>
 <td><p>Regular</p></td>
 <td><p>67</p></td>
 <td><p>67</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/사마리아_문자" title="wikilink">사마리아 문자</a></p></td>
+<td><p><a href="../Page/사마리아_문자.md" title="wikilink">사마리아 문자</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Noto Sans Saurashtra</p></td>
@@ -832,7 +832,7 @@ Bold</p></td>
 <td><p>Regular</p></td>
 <td><p>151</p></td>
 <td><p>319</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/시리아_문자" title="wikilink">시리아 문자</a> (Eastern style)</p></td>
+<td><p><a href="../Page/시리아_문자.md" title="wikilink">시리아 문자</a> (Eastern style)</p></td>
 </tr>
 <tr class="even">
 <td><p>Noto Sans Syriac Estrangela</p></td>
@@ -840,7 +840,7 @@ Bold</p></td>
 <td><p>Regular</p></td>
 <td><p>151</p></td>
 <td><p>306</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/시리아_문자" title="wikilink">시리아 문자</a> (Estrangela style)</p></td>
+<td><p><a href="../Page/시리아_문자.md" title="wikilink">시리아 문자</a> (Estrangela style)</p></td>
 </tr>
 <tr class="odd">
 <td><p>Noto Sans Syriac Western</p></td>
@@ -848,7 +848,7 @@ Bold</p></td>
 <td><p>Regular</p></td>
 <td><p>151</p></td>
 <td><p>313</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/시리아_문자" title="wikilink">시리아 문자</a> (Western style)</p></td>
+<td><p><a href="../Page/시리아_문자.md" title="wikilink">시리아 문자</a> (Western style)</p></td>
 </tr>
 <tr class="even">
 <td><p>Noto Sans Tagalog</p></td>
@@ -856,7 +856,7 @@ Bold</p></td>
 <td><p>Regular</p></td>
 <td><p>27</p></td>
 <td><p>26</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/바이바이인" title="wikilink">바이바이인</a></p></td>
+<td><p><a href="../Page/바이바이인.md" title="wikilink">바이바이인</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Noto Sans Tagbanwa</p></td>
@@ -950,7 +950,7 @@ Bold</p></td>
 <td><p>Regular</p></td>
 <td><p>36</p></td>
 <td><p>35</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/우가리트_문자" title="wikilink">우가리트 문자</a></p></td>
+<td><p><a href="../Page/우가리트_문자.md" title="wikilink">우가리트 문자</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Noto Sans Vai</p></td>
@@ -1119,7 +1119,7 @@ Bold</p></td>
 Bold</p></td>
 <td><p>120</p></td>
 <td><p>166</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/라오_문자" title="wikilink">라오 문자</a></p></td>
+<td><p><a href="../Page/라오_문자.md" title="wikilink">라오 문자</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Noto Serif Malayalam</p></td>

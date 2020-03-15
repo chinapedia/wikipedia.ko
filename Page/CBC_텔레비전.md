@@ -21,7 +21,7 @@
 ## 같이 보기
 
   - [캐나다 방송 협회](https://ko.wikipedia.org/wiki/캐나다_방송_협회 "wikilink")
-  - [이시 라디오 캐나다 텔레](https://ko.wikipedia.org/wiki/이시_라디오_캐나다_텔레 "wikilink")
+  - [이시 라디오 캐나다 텔레](../Page/이시_라디오_캐나다_텔레.md "wikilink")
   - [CBC 라디오](../Page/CBC_라디오.md "wikilink")
 
 ## 외부 링크

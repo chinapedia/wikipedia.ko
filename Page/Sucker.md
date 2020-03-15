@@ -12,7 +12,7 @@
 3.  London Queen
 4.  Breaking Up
 5.  Gold Coins
-6.  [Boom Clap](https://ko.wikipedia.org/wiki/Boom_Clap "wikilink")
+6.  [Boom Clap](../Page/Boom_Clap.md "wikilink")
 7.  [Doing It](https://ko.wikipedia.org/wiki/Doing_It "wikilink")
 8.  Body Of My Own
 9.  [Famous](https://ko.wikipedia.org/wiki/Famous_\(찰리_XCX의_노래\) "wikilink")

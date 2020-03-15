@@ -17,7 +17,7 @@
 <!-- end list -->
 
 1.  "사랑의 교향곡 (호주 · 브렌다 크리스틴)" (미상 작사 / 미상 작곡) ***- 아리랑상***
-2.  "사랑이었네 (한국 · 박경희)" ([장덕](https://ko.wikipedia.org/wiki/장덕 "wikilink") 작사 / [장덕](https://ko.wikipedia.org/wiki/장덕 "wikilink") 작곡) ***- 가야금상***
+2.  "사랑이었네 (한국 · 박경희)" ([장덕](../Page/장덕.md "wikilink") 작사 / [장덕](../Page/장덕.md "wikilink") 작곡) ***- 가야금상***
 3.  "저녁노을 (중국 · 왕창틴)" (미상 작사 / 미상 작곡) ***- 아리랑상***
 4.  "젊음의 계절 (한국 · 세샘트리오)" ([길옥윤](https://ko.wikipedia.org/wiki/길옥윤 "wikilink") 작사 / [길옥윤](https://ko.wikipedia.org/wiki/길옥윤 "wikilink") 작곡) ***- 가야금상***
 
@@ -62,7 +62,7 @@
 
 1.  "어제 오늘 그리고 내일 (이세진)" ([장세용](https://ko.wikipedia.org/wiki/장세용 "wikilink") 작사 / [장세용](https://ko.wikipedia.org/wiki/장세용 "wikilink") 작곡) ***- 태평양가요제 파견***
 2.  "태양을 잡아라 (박일준)" ([조운파](https://ko.wikipedia.org/wiki/조운파 "wikilink") 작사 / [남석현](https://ko.wikipedia.org/wiki/남석현 "wikilink") 작곡)
-3.  "사랑이었네 (박경희)" ([장덕](https://ko.wikipedia.org/wiki/장덕 "wikilink") 작사 / [장덕](https://ko.wikipedia.org/wiki/장덕 "wikilink") 작곡) ***- 본선 진출***
+3.  "사랑이었네 (박경희)" ([장덕](../Page/장덕.md "wikilink") 작사 / [장덕](../Page/장덕.md "wikilink") 작곡) ***- 본선 진출***
 4.  "물레방아 (별셋)" ([박현우](https://ko.wikipedia.org/wiki/박현우 "wikilink") 작사 / [박현우](https://ko.wikipedia.org/wiki/박현우 "wikilink") 작곡)
 5.  "헤어져야 할 시간 (선우혜경)" ([정성조](../Page/정성조.md "wikilink") 작사 / [정성조](../Page/정성조.md "wikilink") 작곡)
 6.  "영원한 사랑 (유준)" ([조남두](https://ko.wikipedia.org/wiki/조남두 "wikilink") 작사 / [조남두](https://ko.wikipedia.org/wiki/조남두 "wikilink") 작곡)

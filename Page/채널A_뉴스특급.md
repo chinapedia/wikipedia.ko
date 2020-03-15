@@ -20,7 +20,7 @@
 ## 평일 동시간대 경쟁 뉴스 프로그램
 
   - [KBS 뉴스타임](https://ko.wikipedia.org/wiki/KBS_뉴스타임 "wikilink") (KBS 2TV)
-  - [뉴스를 쏘다](https://ko.wikipedia.org/wiki/뉴스를_쏘다 "wikilink") (TV조선)
+  - [뉴스를 쏘다](../Page/뉴스를_쏘다.md "wikilink") (TV조선)
   - [JTBC 뉴스 현장](https://ko.wikipedia.org/wiki/JTBC_뉴스_현장 "wikilink") (JTBC)
 
 ## 토요일 동시간대 경쟁 뉴스 프로그램

@@ -9,7 +9,7 @@ Rai 1는 주요 [스포츠](https://ko.wikipedia.org/wiki/스포츠 "wikilink") 
 
 ## 주요 프로그램
 
-  - [TG1](https://ko.wikipedia.org/wiki/TG1 "wikilink") () - 뉴스 프로그램 (1952년 9월 10일 \~ 현재)
+  - [TG1](../Page/TG1.md "wikilink") () - 뉴스 프로그램 (1952년 9월 10일 \~ 현재)
 
   - [우노마티나](https://ko.wikipedia.org/wiki/우노마티나 "wikilink")() - 토크 쇼 (1986년 12월 22일 \~ 현재)
 

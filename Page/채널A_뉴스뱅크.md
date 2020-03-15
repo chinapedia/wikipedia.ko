@@ -11,7 +11,7 @@
 
   - [채널A 아침뉴스](https://ko.wikipedia.org/wiki/채널A_아침뉴스 "wikilink")
   - [채널A 뉴스특보](https://ko.wikipedia.org/wiki/채널A_뉴스특보 "wikilink")
-  - [채널A 뉴스특급](https://ko.wikipedia.org/wiki/채널A_뉴스특급 "wikilink")
+  - [채널A 뉴스특급](../Page/채널A_뉴스특급.md "wikilink")
   - [채널A 뉴스 TOP 10](../Page/채널A_뉴스_TOP_10.md "wikilink")
   - [채널A 종합뉴스](../Page/채널A_종합뉴스.md "wikilink")
   - [채널A 뉴스 스테이션](../Page/채널A_뉴스_스테이션.md "wikilink")
@@ -23,7 +23,7 @@
   - [일밤](https://ko.wikipedia.org/wiki/일밤 "wikilink")
       - [미스터리 음악쇼: 복면가왕](https://ko.wikipedia.org/wiki/미스터리_음악쇼:_복면가왕 "wikilink") ([MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")) (1부 프로그램)
   - [일요일이 좋다](https://ko.wikipedia.org/wiki/일요일이_좋다 "wikilink")
-      - [꽃놀이패](https://ko.wikipedia.org/wiki/꽃놀이패_\(텔레비전_프로그램\) "wikilink") ([SBS](https://ko.wikipedia.org/wiki/SBS "wikilink")) (1부 프로그램)
+      - [꽃놀이패](../Page/꽃놀이패_\(텔레비전_프로그램\).md "wikilink") ([SBS](https://ko.wikipedia.org/wiki/SBS "wikilink")) (1부 프로그램)
 
 ## 외부 링크
 

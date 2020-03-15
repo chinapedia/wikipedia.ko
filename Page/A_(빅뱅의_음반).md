@@ -3,7 +3,7 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:A_Black_cover_Bigbang.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:A_cover_Bigbang.jpg "wikilink")
 
-〈**A**〉은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악 그룹 [빅뱅의](https://ko.wikipedia.org/wiki/빅뱅_\(음악_그룹\) "wikilink") 다섯 번째 싱글 음반으로 "[MADE](https://ko.wikipedia.org/wiki/MADE_\(빅뱅의_음반\) "wikilink") 시리즈"의 두 번째 싱글 음반이다.
+〈**A**〉은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악 그룹 [빅뱅의](https://ko.wikipedia.org/wiki/빅뱅_\(음악_그룹\) "wikilink") 다섯 번째 싱글 음반으로 "[MADE](../Page/MADE_\(빅뱅의_음반\).md "wikilink") 시리즈"의 두 번째 싱글 음반이다.
 
 ## 앨범 사양
 
@@ -13,7 +13,7 @@
 
 ## 배경
 
-2015년 5월 27일, [YG 엔터테인먼트는](https://ko.wikipedia.org/wiki/YG_엔터테인먼트 "wikilink") 타이틀 곡 "[뱅뱅뱅 (BANG BANG BANG)](https://ko.wikipedia.org/wiki/뱅뱅뱅_\(BANG_BANG_BANG\) "wikilink")"의 첫 포스터를 공개 하였고, [양현석](https://ko.wikipedia.org/wiki/양현석 "wikilink") 대표는 “빅뱅의 이전 음악중에서도 가장 비트가 빠르고 더 강렬하다.”라고 언급했다.\[1\] 다음 날 "[WE LIKE 2 PARTY](https://ko.wikipedia.org/wiki/We_Like_2_Party "wikilink")"의 두 번째 포스터가 공개 되었다.\[2\] 이 곡의 뮤직 비디오는 5월 19일, [제주도](https://ko.wikipedia.org/wiki/제주도 "wikilink")에서 촬영이 진행 되었다.\[3\]
+2015년 5월 27일, [YG 엔터테인먼트는](https://ko.wikipedia.org/wiki/YG_엔터테인먼트 "wikilink") 타이틀 곡 "[뱅뱅뱅 (BANG BANG BANG)](../Page/뱅뱅뱅_\(BANG_BANG_BANG\).md "wikilink")"의 첫 포스터를 공개 하였고, [양현석](https://ko.wikipedia.org/wiki/양현석 "wikilink") 대표는 “빅뱅의 이전 음악중에서도 가장 비트가 빠르고 더 강렬하다.”라고 언급했다.\[1\] 다음 날 "[WE LIKE 2 PARTY](../Page/We_Like_2_Party.md "wikilink")"의 두 번째 포스터가 공개 되었다.\[2\] 이 곡의 뮤직 비디오는 5월 19일, [제주도](https://ko.wikipedia.org/wiki/제주도 "wikilink")에서 촬영이 진행 되었다.\[3\]
 
 ## 상업적인 퍼포먼스
 
@@ -23,13 +23,13 @@
 
 ## 평가
 
-이 싱글은 대중들과 음악 평론가들에 긍적적인 평가를 받았다.\[11\] "뱅뱅뱅 (BANG BANG BANG)"와 "[WE LIKE 2 PARTY](https://ko.wikipedia.org/wiki/We_Like_2_Party "wikilink")"의 뮤직 비디오는 [유튜브](https://ko.wikipedia.org/wiki/유튜브 "wikilink") 공개 2개월만에 합계 6천만의 조회수를 기록했다.
+이 싱글은 대중들과 음악 평론가들에 긍적적인 평가를 받았다.\[11\] "뱅뱅뱅 (BANG BANG BANG)"와 "[WE LIKE 2 PARTY](../Page/We_Like_2_Party.md "wikilink")"의 뮤직 비디오는 [유튜브](https://ko.wikipedia.org/wiki/유튜브 "wikilink") 공개 2개월만에 합계 6천만의 조회수를 기록했다.
 
 ## 프로모션
 
 빅뱅은 [BIGBANG MADE 2015 World Tour의](https://ko.wikipedia.org/wiki/BIGBANG_MADE_2015_World_Tour "wikilink") [중국](https://ko.wikipedia.org/wiki/중국 "wikilink") [광저우](https://ko.wikipedia.org/wiki/광저우 "wikilink") 공연에서 첫 무대를 선보였으며, 2015년 5월 30일 [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink") 《[유희열의 스케치북](https://ko.wikipedia.org/wiki/유희열의_스케치북 "wikilink")》에서 컴백 무대를 녹화를 진행했다.\[12\] 빅뱅의 멤버들은 음반이 공개 되기 전 날, [네이버](https://ko.wikipedia.org/wiki/네이버 "wikilink") 스타캐스트 온라인 방송에서\[13\] 라이브 채팅을 가졌으며, 400,000명의 조회수를 기록했다.\[14\] 빅뱅은 6월 4일 방송 된 [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") 《[엠카운트다운](https://ko.wikipedia.org/wiki/엠카운트다운 "wikilink")》 에서 첫 공식 컴백 무대를 가졌다.\[15\]
 
-[6월 1일](https://ko.wikipedia.org/wiki/6월_1일 "wikilink"), 《[SBS 인기가요](https://ko.wikipedia.org/wiki/SBS_인기가요 "wikilink")》 의 사전투표 과정에서 빅뱅의 "[뱅뱅뱅 (BANG BANG BANG)](https://ko.wikipedia.org/wiki/뱅뱅뱅_\(BANG_BANG_BANG\) "wikilink")"이 누락돼 사전투표가 정당하게 진행되지 않아 1위를 놓쳤다는 이유로 팬들의 항의가 빗발치는 일이 있었는데, 빅뱅의 두번째 싱글 *A*의 신곡이 발표된 것은 6월 1일 밤 자정으로 '인기가요' 사전투표 후보란에 "뱅뱅뱅 (BANG BANG BANG)"은 없었다. 팬들은 할 수 없이 빅뱅의 이전 활동곡 "[BAE BAE](../Page/BAE_BAE.md "wikilink")"에 투표할 수 밖에 없었고 신곡이 발표된지 약 40여시간이 지난 3일 오후가 돼서야 "뱅뱅뱅 (BANG BANG BANG)"이 후보로 등록됐고 1인 1투표권밖에 없는 상황에서 빅뱅 팬들은 이미 "BAE BAE"에 투표한터라 신곡 "뱅뱅뱅 (BANG BANG BANG)"에 투표할 수는 없었다고 주장했다. 그러나 '인기가요' 측은 공식 홈페이지를 통해 “매주 월요일에 등록되는 사전투표는 전주 인기가요 차트 60위권 내의 가수와 전주 출연가수 중 한 가수당 한 곡으로 진행된다. 그 후 수요일 오후에 당주 월요일\~수요일까지 공개된 음원과 당주 출연가수의 신곡이 일괄적으로 추가 등록된다. 따라서 월요일에 리스트에 등록되었던 가수 중에 신곡이 발매되면 해당 신곡으로 교체하여 투표를 진행한다”며 절차상의 문제가 없다는 입장을 보였다.\[16\]\[17\]
+[6월 1일](https://ko.wikipedia.org/wiki/6월_1일 "wikilink"), 《[SBS 인기가요](https://ko.wikipedia.org/wiki/SBS_인기가요 "wikilink")》 의 사전투표 과정에서 빅뱅의 "[뱅뱅뱅 (BANG BANG BANG)](../Page/뱅뱅뱅_\(BANG_BANG_BANG\).md "wikilink")"이 누락돼 사전투표가 정당하게 진행되지 않아 1위를 놓쳤다는 이유로 팬들의 항의가 빗발치는 일이 있었는데, 빅뱅의 두번째 싱글 *A*의 신곡이 발표된 것은 6월 1일 밤 자정으로 '인기가요' 사전투표 후보란에 "뱅뱅뱅 (BANG BANG BANG)"은 없었다. 팬들은 할 수 없이 빅뱅의 이전 활동곡 "[BAE BAE](../Page/BAE_BAE.md "wikilink")"에 투표할 수 밖에 없었고 신곡이 발표된지 약 40여시간이 지난 3일 오후가 돼서야 "뱅뱅뱅 (BANG BANG BANG)"이 후보로 등록됐고 1인 1투표권밖에 없는 상황에서 빅뱅 팬들은 이미 "BAE BAE"에 투표한터라 신곡 "뱅뱅뱅 (BANG BANG BANG)"에 투표할 수는 없었다고 주장했다. 그러나 '인기가요' 측은 공식 홈페이지를 통해 “매주 월요일에 등록되는 사전투표는 전주 인기가요 차트 60위권 내의 가수와 전주 출연가수 중 한 가수당 한 곡으로 진행된다. 그 후 수요일 오후에 당주 월요일\~수요일까지 공개된 음원과 당주 출연가수의 신곡이 일괄적으로 추가 등록된다. 따라서 월요일에 리스트에 등록되었던 가수 중에 신곡이 발매되면 해당 신곡으로 교체하여 투표를 진행한다”며 절차상의 문제가 없다는 입장을 보였다.\[16\]\[17\]
 
 5월 24일, 《[SBS 인기가요](https://ko.wikipedia.org/wiki/SBS_인기가요 "wikilink")》에 [지드래곤](https://ko.wikipedia.org/wiki/지드래곤 "wikilink")과 [T.O.P](https://ko.wikipedia.org/wiki/T.O.P "wikilink")이 뮤직 비디오 촬영으로 불참을 하여, [태양](https://ko.wikipedia.org/wiki/태양_\(가수\) "wikilink"), [대성](https://ko.wikipedia.org/wiki/대성_\(가수\) "wikilink"), [승리만이](https://ko.wikipedia.org/wiki/승리_\(가수\) "wikilink") 출연해 1위를 수상했다.\[18\]\[19\]
 

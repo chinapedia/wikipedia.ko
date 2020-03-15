@@ -236,7 +236,7 @@
 <!-- end list -->
 
   - **특별여배우상**
-      - 사유키, [아카네 호타루](https://ko.wikipedia.org/wiki/아카네_호타루 "wikilink")
+      - 사유키, [아카네 호타루](../Page/아카네_호타루.md "wikilink")
 
 <!-- end list -->
 
@@ -318,7 +318,7 @@
 
   - **최우수여배우상**
       - [아사미 유마](https://ko.wikipedia.org/wiki/아사미_유마 "wikilink") (1위)
-      - [호노카](https://ko.wikipedia.org/wiki/시모무라_아이 "wikilink") (2위)
+      - [호노카](../Page/시모무라_아이.md "wikilink") (2위)
       - [아오키 린](https://ko.wikipedia.org/wiki/아오키_린 "wikilink") (3위)
       - [미네 나유카](https://ko.wikipedia.org/wiki/미네_나유카 "wikilink") (4위)
       - [시라이시 사유리](https://ko.wikipedia.org/wiki/시라이시_사유리 "wikilink") (5위)
@@ -348,7 +348,7 @@
   - **최우수여배우상**
       - [요시자와 아키호](https://ko.wikipedia.org/wiki/요시자와_아키호 "wikilink") (1위)
       - [미히로](https://ko.wikipedia.org/wiki/미히로 "wikilink") (2위)
-      - [호노카](https://ko.wikipedia.org/wiki/시모무라_아이 "wikilink") (3위)
+      - [호노카](../Page/시모무라_아이.md "wikilink") (3위)
       - [아사미 유마](https://ko.wikipedia.org/wiki/아사미_유마 "wikilink") (4위)
       - 타나카 아야 (5위)
 
@@ -377,8 +377,8 @@
   - **최우수여배우상**
       - 하츠미 리온 (1위)
       - [요시자와 아키호](https://ko.wikipedia.org/wiki/요시자와_아키호 "wikilink") (2위)
-      - [Rio](https://ko.wikipedia.org/wiki/Rio "wikilink") (유즈키 티나) (3위)
-      - [호노카](https://ko.wikipedia.org/wiki/시모무라_아이 "wikilink") (4위)
+      - [Rio](../Page/Rio.md "wikilink") (유즈키 티나) (3위)
+      - [호노카](../Page/시모무라_아이.md "wikilink") (4위)
 
 <!-- end list -->
 
@@ -402,7 +402,7 @@
 ## 함께 보기
 
   - [AV OPEN](https://ko.wikipedia.org/wiki/AV_OPEN "wikilink")
-  - [AV 그랑프리](https://ko.wikipedia.org/wiki/AV_그랑프리 "wikilink")
+  - [AV 그랑프리](../Page/AV_그랑프리.md "wikilink")
   - [DMM성인상](https://ko.wikipedia.org/wiki/DMM성인상 "wikilink")
 
 [분류:일본의 포르노 영화상](https://ko.wikipedia.org/wiki/분류:일본의_포르노_영화상 "wikilink")

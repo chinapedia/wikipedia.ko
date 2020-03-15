@@ -10,7 +10,7 @@
 ## 경쟁 차종
 
   - [현대자동차](https://ko.wikipedia.org/wiki/현대자동차 "wikilink") - [현대 메가트럭](https://ko.wikipedia.org/wiki/현대_메가트럭 "wikilink")
-  - [타타대우상용차](https://ko.wikipedia.org/wiki/타타대우상용차 "wikilink") - [타타대우 노부스 SE](https://ko.wikipedia.org/wiki/타타대우_노부스 "wikilink"), [타타대우 프리마](https://ko.wikipedia.org/wiki/타타대우_프리마 "wikilink")
+  - [타타대우상용차](https://ko.wikipedia.org/wiki/타타대우상용차 "wikilink") - [타타대우 노부스 SE](https://ko.wikipedia.org/wiki/타타대우_노부스 "wikilink"), [타타대우 프리마](../Page/타타대우_프리마.md "wikilink")
   - [볼보트럭](../Page/볼보트럭.md "wikilink") - [볼보 FL](../Page/볼보_FL.md "wikilink")
   - [스카니아](https://ko.wikipedia.org/wiki/스카니아 "wikilink") - [스카니아 R-시리즈](https://ko.wikipedia.org/wiki/스카니아_R-시리즈 "wikilink")
   - [메르세데스-벤츠](https://ko.wikipedia.org/wiki/메르세데스-벤츠 "wikilink") - [메르세데스-벤츠 아테고](../Page/메르세데스-벤츠_아테고.md "wikilink")

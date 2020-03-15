@@ -5,7 +5,7 @@
 
 ## 역사
 
-원래는 [도쿄 스포츠와](https://ko.wikipedia.org/wiki/도쿄_스포츠 "wikilink") [소프트 온 디맨드](../Page/소프트_온_디맨드.md "wikilink") (SOD)가 개최하고 있던 《[AV OPEN](https://ko.wikipedia.org/wiki/AV_OPEN "wikilink")》에 대항하기 위해 만들 예정이었던 시상식의 하나로서, SOD와는 경쟁 관계에 있던 [호쿠토](https://ko.wikipedia.org/wiki/호쿠토 "wikilink")와 [DMM.com](https://ko.wikipedia.org/wiki/DMM.com "wikilink")을 중심으로 〈AV 그랑프리 사무국〉을 설립해 만든 대회이다. 첫 해인 2008년에 77개 업체, 이듬해에는 97개 업체가 참여했다. AV OPEN이 AV OPEN과 챌린지 스테이지의 두 부문으로 이루어져있던 것과 달리, AV 그랑프리는 다양한 부문으로 구성되어있었다. 2009년 대회에서는 [하기와라 나가레와](https://ko.wikipedia.org/wiki/하기와라_나가레 "wikilink") [호노카](https://ko.wikipedia.org/wiki/호노카 "wikilink")가 메인 서포터가 되었다.\[1\] 하지만 AV 그랑프리도 AV OPEN과 마찬가지로 2회에서 중단되고 말았으며(AV OPEN은 후에 다시 재개된다.), DMM.com이 주최하는 DMM 성인 어워드가 후계로서 이어받게 된다.
+원래는 [도쿄 스포츠와](https://ko.wikipedia.org/wiki/도쿄_스포츠 "wikilink") [소프트 온 디맨드](../Page/소프트_온_디맨드.md "wikilink") (SOD)가 개최하고 있던 《[AV OPEN](https://ko.wikipedia.org/wiki/AV_OPEN "wikilink")》에 대항하기 위해 만들 예정이었던 시상식의 하나로서, SOD와는 경쟁 관계에 있던 [호쿠토](https://ko.wikipedia.org/wiki/호쿠토 "wikilink")와 [DMM.com](../Page/DMM.com.md "wikilink")을 중심으로 〈AV 그랑프리 사무국〉을 설립해 만든 대회이다. 첫 해인 2008년에 77개 업체, 이듬해에는 97개 업체가 참여했다. AV OPEN이 AV OPEN과 챌린지 스테이지의 두 부문으로 이루어져있던 것과 달리, AV 그랑프리는 다양한 부문으로 구성되어있었다. 2009년 대회에서는 [하기와라 나가레와](https://ko.wikipedia.org/wiki/하기와라_나가레 "wikilink") [호노카](https://ko.wikipedia.org/wiki/호노카 "wikilink")가 메인 서포터가 되었다.\[1\] 하지만 AV 그랑프리도 AV OPEN과 마찬가지로 2회에서 중단되고 말았으며(AV OPEN은 후에 다시 재개된다.), DMM.com이 주최하는 DMM 성인 어워드가 후계로서 이어받게 된다.
 
 ## 2008년
 
@@ -89,7 +89,7 @@
 
 #### 대상
 
-  - AV 그랑프리 최우수작품상 : *더블 아슬아슬 모자이크 Rio와 유마* (, [Rio](https://ko.wikipedia.org/wiki/Rio "wikilink") / [아사미 유마](https://ko.wikipedia.org/wiki/아사미_유마 "wikilink"), S1 No.1 Style)
+  - AV 그랑프리 최우수작품상 : *더블 아슬아슬 모자이크 Rio와 유마* (, [Rio](../Page/Rio.md "wikilink") / [아사미 유마](https://ko.wikipedia.org/wiki/아사미_유마 "wikilink"), S1 No.1 Style)
 
 #### 매출 부문상
 
@@ -112,7 +112,7 @@
   - 여배우 부문
       - 최우수상 : *더블 아슬아슬 모자이크 Rio와 유마* (, Rio / 아사미 유마, S1 No.1 Style)
       - 우수상
-        1.  *E-BODY SPECIAL* (, [카스미 리사](https://ko.wikipedia.org/wiki/카스미_리사 "wikilink"), E-BODY SPECIAL)
+        1.  *E-BODY SPECIAL* (, [카스미 리사](../Page/카스미_리사.md "wikilink"), E-BODY SPECIAL)
         2.  *빨리는 VENUS* (, M's Video Group(MVG))
   - 숙녀 부문
       - 최우수상 : *근친상간 모자 스왑* (, [키타하라 나츠미](https://ko.wikipedia.org/wiki/키타하라_나츠미 "wikilink") / [나카모리 레이코](https://ko.wikipedia.org/wiki/나카모리_레이코 "wikilink"), 다카라 영상)

@@ -18,15 +18,15 @@
 
   - [MBC 뉴스 M](https://ko.wikipedia.org/wiki/MBC_뉴스_M "wikilink") (MBC)
   - [주영진의 뉴스브리핑](https://ko.wikipedia.org/wiki/주영진의_뉴스브리핑 "wikilink") (SBS)
-  - [4시 뉴스집중](https://ko.wikipedia.org/wiki/사사건건_\(텔레비전_프로그램\) "wikilink") (KBS 1TV)
+  - [4시 뉴스집중](../Page/사사건건_\(텔레비전_프로그램\).md "wikilink") (KBS 1TV)
 
 ## 그 외 매일방송의 관련 뉴스 프로그램
 
   - [굿모닝 MBN](https://ko.wikipedia.org/wiki/굿모닝_MBN "wikilink")
-  - [아침 & 매일경제](https://ko.wikipedia.org/wiki/아침_&_매일경제 "wikilink")
+  - [아침 & 매일경제](../Page/아침_&_매일경제.md "wikilink")
   - [뉴스파이터](../Page/뉴스파이터.md "wikilink")
   - [전국 네트워크](../Page/전국_네트워크.md "wikilink")
-  - [뉴스 & 이슈](https://ko.wikipedia.org/wiki/뉴스_&_이슈 "wikilink")
+  - [뉴스 & 이슈](../Page/뉴스_&_이슈.md "wikilink")
   - [MBN 뉴스와이드](https://ko.wikipedia.org/wiki/MBN_뉴스와이드 "wikilink")
   - [MBN 뉴스 8](https://ko.wikipedia.org/wiki/MBN_종합뉴스 "wikilink")
   - [시사스페셜](../Page/시사스페셜.md "wikilink")

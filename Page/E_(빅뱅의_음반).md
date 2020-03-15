@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [E \( \)](https://ko.wikipedia.org/wiki/E_\(_\)).
 
 
-〈**E**〉은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악 그룹 [빅뱅의](https://ko.wikipedia.org/wiki/빅뱅_\(음악_그룹\) "wikilink") 일곱 번째 싱글 음반으로 "[MADE](https://ko.wikipedia.org/wiki/MADE_\(빅뱅의_음반\) "wikilink") 시리즈"의 네 번째이자 마지막 싱글 음반이다. 풀 버전의 앨범 "[MADE](https://ko.wikipedia.org/wiki/MADE_\(빅뱅의_음반\) "wikilink")"가 발매되었다.
+〈**E**〉은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악 그룹 [빅뱅의](https://ko.wikipedia.org/wiki/빅뱅_\(음악_그룹\) "wikilink") 일곱 번째 싱글 음반으로 "[MADE](../Page/MADE_\(빅뱅의_음반\).md "wikilink") 시리즈"의 네 번째이자 마지막 싱글 음반이다. 풀 버전의 앨범 "[MADE](../Page/MADE_\(빅뱅의_음반\).md "wikilink")"가 발매되었다.
 
 ## 배경
 
-2015년 7월 24일, *E* 싱글에 빅뱅의 유닛 [GD\&TOP](https://ko.wikipedia.org/wiki/GD&TOP "wikilink")의 신곡이 나온다고 발표 되었고,\[1\] 다음 날 티저 사진이 공개 되었다.\[2\] 2010년 *[GD\&TOP](https://ko.wikipedia.org/wiki/GD&TOP_\(음반\) "wikilink")* 첫 콜라보레이션 이후 4년만에 신곡이다.\[3\]
+2015년 7월 24일, *E* 싱글에 빅뱅의 유닛 [GD\&TOP](https://ko.wikipedia.org/wiki/GD&TOP "wikilink")의 신곡이 나온다고 발표 되었고,\[1\] 다음 날 티저 사진이 공개 되었다.\[2\] 2010년 *[GD\&TOP](../Page/GD&TOP_\(음반\).md "wikilink")* 첫 콜라보레이션 이후 4년만에 신곡이다.\[3\]
 
 [YG 엔터테인먼트의](https://ko.wikipedia.org/wiki/YG_엔터테인먼트 "wikilink") [양현석](https://ko.wikipedia.org/wiki/양현석 "wikilink") 대표는 7월 30일, 자신의 [인스타그램](https://ko.wikipedia.org/wiki/인스타그램 "wikilink")에\[4\] 빅뱅의 두 번째 곡 "우리 사랑하지 말아요" 뮤직비디오의 일부분을 공개했다.\[5\]
 

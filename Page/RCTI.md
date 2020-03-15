@@ -9,7 +9,7 @@
 
 이 방송을 토대로 하여 RCTI가 [1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink") [8월 24일](https://ko.wikipedia.org/wiki/8월_24일 "wikilink") [아침](https://ko.wikipedia.org/wiki/아침 "wikilink")에 인도네시아 최초로 전국적으로 방송되는 민영 상업 텔레비전 방송국으로 개국하였다.
 
-현재 RCTI는 인도네시아에서 48개의 중계국과 1억 8천만 여명의 시청자를 보유하고 있다. RCTI는 미디어 기업인 [Media Nusantara Citra에](https://ko.wikipedia.org/wiki/Media_Nusantara_Citra "wikilink") 의해 소유되고 있으며, 자매 채널로 [글로벌 TV와](https://ko.wikipedia.org/wiki/글로벌_TV "wikilink") [MNCTV](https://ko.wikipedia.org/wiki/MNCTV "wikilink"), [iNews TV가](https://ko.wikipedia.org/wiki/iNews_TV "wikilink") 있다. [SCTV](https://ko.wikipedia.org/wiki/SCTV "wikilink")와는 개국년인 1990년부터 1996년까지 같은 계열사로 있었던 적이 있었다.
+현재 RCTI는 인도네시아에서 48개의 중계국과 1억 8천만 여명의 시청자를 보유하고 있다. RCTI는 미디어 기업인 [Media Nusantara Citra에](https://ko.wikipedia.org/wiki/Media_Nusantara_Citra "wikilink") 의해 소유되고 있으며, 자매 채널로 [글로벌 TV와](https://ko.wikipedia.org/wiki/글로벌_TV "wikilink") [MNCTV](https://ko.wikipedia.org/wiki/MNCTV "wikilink"), [iNews TV가](https://ko.wikipedia.org/wiki/iNews_TV "wikilink") 있다. [SCTV](../Page/SCTV.md "wikilink")와는 개국년인 1990년부터 1996년까지 같은 계열사로 있었던 적이 있었다.
 
 ## 주요 프로그램
 
@@ -21,7 +21,7 @@
   - [더 마스터](https://ko.wikipedia.org/wiki/:id:The_Master "wikilink") : 마술 프로그램
   - [마스터셰프 인도네시아](https://ko.wikipedia.org/wiki/:id:MasterChef_Indonesia "wikilink") : 요리 프로그램
   - [Putri Bidadari](https://ko.wikipedia.org/wiki/:id:Putri_Bidadari "wikilink") : 어린이 드라마
-  - [사스케 닌자 워리어 인도네시아](https://ko.wikipedia.org/wiki/:id:Sasuke_Ninja_Warrior_Indonesia "wikilink") : 리얼리티 스포츠 게임 쇼. 일본 [TBS의](https://ko.wikipedia.org/wiki/TBS_텔레비전 "wikilink") 프로그램 [사스케의](https://ko.wikipedia.org/wiki/:ja:SASUKE "wikilink") 포맷을 빌렸다.
+  - [사스케 닌자 워리어 인도네시아](https://ko.wikipedia.org/wiki/:id:Sasuke_Ninja_Warrior_Indonesia "wikilink") : 리얼리티 스포츠 게임 쇼. 일본 [TBS의](../Page/TBS_텔레비전.md "wikilink") 프로그램 [사스케의](https://ko.wikipedia.org/wiki/:ja:SASUKE "wikilink") 포맷을 빌렸다.
   - [세푸타르 인도네시아](https://ko.wikipedia.org/wiki/세푸타르_인도네시아 "wikilink") : 종합 뉴스 프로그램
   - [엑스 팩터 인도네시아](https://ko.wikipedia.org/wiki/:id:X_Factor_Indonesia "wikilink") : [더 엑스 팩터의](https://ko.wikipedia.org/wiki/더_엑스_팩터 "wikilink") 인도네시아판
 

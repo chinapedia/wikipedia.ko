@@ -27,7 +27,7 @@
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/인디애나주" title="wikilink">인디애나주</a> <a href="https://ko.wikipedia.org/wiki/인디애나폴리스" title="wikilink">인디애나폴리스</a></p></td>
 <td><p>래리 브라운</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴올리언스_버커니어스" title="wikilink">뉴올리언스 버커니어스</a></p></td>
+<td><p><a href="../Page/뉴올리언스_버커니어스.md" title="wikilink">뉴올리언스 버커니어스</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1969</p></td>
@@ -35,10 +35,10 @@
 <td><p>서부 133, 동부 127</p></td>
 <td><p><a href="../Page/루이빌_가든.md" title="wikilink">루이빌 컨벤션 센터</a></p></td>
 <td><p>5,407</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/켄터키_커널스" title="wikilink">켄터키 커널스</a></p></td>
+<td><p><a href="../Page/켄터키_커널스.md" title="wikilink">켄터키 커널스</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/켄터키주" title="wikilink">켄터키주</a> <a href="https://ko.wikipedia.org/wiki/루이빌" title="wikilink">루이빌</a></p></td>
 <td><p>존 비슬리</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/댈러스_채퍼럴스" title="wikilink">댈러스 채퍼럴스</a></p></td>
+<td><p><a href="../Page/댈러스_채퍼럴스.md" title="wikilink">댈러스 채퍼럴스</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1970</p></td>
@@ -57,7 +57,7 @@
 <td><p>동부 126, 서부 122</p></td>
 <td><p><a href="../Page/그린즈버러_콜리시엄_콤플렉스.md" title="wikilink">그린즈버러 콜리시엄</a></p></td>
 <td><p>14,407</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/캐롤라이나_쿠커스" title="wikilink">캐롤라이나 쿠커스</a></p></td>
+<td><p><a href="../Page/캐롤라이나_쿠커스.md" title="wikilink">캐롤라이나 쿠커스</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/노스캐롤라이나주" title="wikilink">노스캐롤라이나주</a> <a href="https://ko.wikipedia.org/wiki/그린즈버러" title="wikilink">그린즈버러</a></p></td>
 <td><p>멜 다니엘스</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/인디애나_페이서스" title="wikilink">인디애나 페이서스</a></p></td>
@@ -68,10 +68,10 @@
 <td><p>동부 142, 서부 115</p></td>
 <td><p><a href="../Page/프리덤_홀.md" title="wikilink">프리덤 홀</a></p></td>
 <td><p>15,738</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/켄터키_커널스" title="wikilink">켄터키 커널스</a></p></td>
+<td><p><a href="../Page/켄터키_커널스.md" title="wikilink">켄터키 커널스</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/켄터키주" title="wikilink">켄터키주</a> <a href="https://ko.wikipedia.org/wiki/루이빌" title="wikilink">루이빌</a></p></td>
 <td><p>댄 아이즐</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/켄터키_커널스" title="wikilink">켄터키 커널스</a></p></td>
+<td><p><a href="../Page/켄터키_커널스.md" title="wikilink">켄터키 커널스</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1973</p></td>
@@ -90,10 +90,10 @@
 <td><p>동부 128, 서부 112</p></td>
 <td><p><a href="../Page/노퍽_스코프.md" title="wikilink">노퍽 스코프</a></p></td>
 <td><p>10,624</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/버지니아_스콰이어스" title="wikilink">버지니아 스콰이어스</a></p></td>
+<td><p><a href="../Page/버지니아_스콰이어스.md" title="wikilink">버지니아 스콰이어스</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/버지니아주" title="wikilink">버지니아주</a> <a href="https://ko.wikipedia.org/wiki/노퍽_(버지니아주)" title="wikilink">노퍽</a></p></td>
 <td><p>아티스 길모어</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/켄터키_커널스" title="wikilink">켄터키 커널스</a></p></td>
+<td><p><a href="../Page/켄터키_커널스.md" title="wikilink">켄터키 커널스</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1975</p></td>
@@ -104,7 +104,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/샌안토니오_스퍼스" title="wikilink">샌안토니오 스퍼스</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/텍사스주" title="wikilink">텍사스주</a> <a href="https://ko.wikipedia.org/wiki/샌안토니오" title="wikilink">샌안토니오</a></p></td>
 <td><p>프레디 루이스</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/스피릿츠_오브_세인트루이스" title="wikilink">스피릿츠 오브 세인트루이스</a></p></td>
+<td><p><a href="../Page/스피릿츠_오브_세인트루이스.md" title="wikilink">스피릿츠 오브 세인트루이스</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1976</p></td>

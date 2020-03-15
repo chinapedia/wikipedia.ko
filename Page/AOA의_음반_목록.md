@@ -160,7 +160,7 @@
 <td><p>6</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><em><a href="https://ko.wikipedia.org/wiki/Good_Luck_(AOA의_음반)" title="wikilink">Good Luck</a></em></strong></p></td>
+<td><p><strong><em><a href="../Page/Good_Luck_(AOA의_음반).md" title="wikilink">Good Luck</a></em></strong></p></td>
 <td><ul>
 <li>발매일: 2016년 5월 16일</li>
 <li>레이블: <a href="https://ko.wikipedia.org/wiki/로엔_엔터테인먼트" title="wikilink">(주)로엔엔터테인먼트</a></li>
@@ -332,7 +332,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong>4</strong></p></td>
-<td><p>〈<strong><a href="https://ko.wikipedia.org/wiki/사랑을_주세요" title="wikilink">사랑을 주세요</a></strong>〉</p>
+<td><p>〈<strong><a href="../Page/사랑을_주세요.md" title="wikilink">사랑을 주세요</a></strong>〉</p>
 <ul>
 <li>발매일: 2016년 4월 20일</li>
 </ul></td>

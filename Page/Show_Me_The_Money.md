@@ -29,7 +29,7 @@
 
   - 우승 : [BOBBY](../Page/BOBBY.md "wikilink") / Team Dok2 & The Quiett
   - 준우승 : [아이언](../Page/아이언_\(가수\).md "wikilink") / Team YDG
-  - 3위 : 바스코 & [씨잼](https://ko.wikipedia.org/wiki/씨잼 "wikilink") / Team Swings & San E
+  - 3위 : 바스코 & [씨잼](../Page/씨잼.md "wikilink") / Team Swings & San E
 
 ## 시즌 4
 
@@ -37,14 +37,14 @@
 
   - 우승 : [베이식](https://ko.wikipedia.org/wiki/베이식_\(가수\) "wikilink") / Team Verbal Jint & San E
   - 준우승 : [송민호](../Page/송민호.md "wikilink") / Team Zico & Paloalto
-  - 3위 : [블랙넛](../Page/블랙넛.md "wikilink") & [이노베이터](https://ko.wikipedia.org/wiki/이노베이터 "wikilink") / Team Jinusean & Tablo
+  - 3위 : [블랙넛](../Page/블랙넛.md "wikilink") & [이노베이터](../Page/이노베이터.md "wikilink") / Team Jinusean & Tablo
 
 ## 시즌 5
 
 《**Show Me The Money 5**》(쇼미더머니 5)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 케이블 방송국 [Mnet에서](https://ko.wikipedia.org/wiki/엠넷 "wikilink") 방송된 힙합 가수 공개 오디션 프로그램이다. 이번 시즌에도 김진표가 MC를 맡았다.
 
-  - 우승 : [비와이](https://ko.wikipedia.org/wiki/비와이 "wikilink") / Team Simon Dominic & Gray
-  - 준우승 : [씨잼](https://ko.wikipedia.org/wiki/씨잼 "wikilink") / Team Zion.T & Kush
+  - 우승 : [비와이](../Page/비와이.md "wikilink") / Team Simon Dominic & Gray
+  - 준우승 : [씨잼](../Page/씨잼.md "wikilink") / Team Zion.T & Kush
   - 3위 : 슈퍼비(현 [수퍼비](https://ko.wikipedia.org/wiki/수퍼비 "wikilink")) / Team Dok2 & The Quiett
 
 ## 시즌 6
@@ -52,7 +52,7 @@
 《**Show Me The Money 6**》(쇼미더머니 6)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 케이블 방송국 [Mnet에서](https://ko.wikipedia.org/wiki/엠넷 "wikilink") 방송된 힙합 가수 공개 오디션 프로그램이다. 이번 시즌에도 김진표가 MC를 맡았다.
 
   - 우승 : [행주](https://ko.wikipedia.org/wiki/행주_\(래퍼\) "wikilink") / Team Zico & Dean
-  - 준우승 : [넉살](https://ko.wikipedia.org/wiki/넉살 "wikilink") / Team Dynamic Duo
+  - 준우승 : [넉살](../Page/넉살.md "wikilink") / Team Dynamic Duo
   - 3위 : [우원재](https://ko.wikipedia.org/wiki/우원재 "wikilink") / Team Tiger JK & Bizzy
 
 ## 시즌 7 (777)

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [XL ](https://ko.wikipedia.org/wiki/XL_).
 
 
-**XL 센터**(XL Center)은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [코네티컷주](https://ko.wikipedia.org/wiki/코네티컷주 "wikilink") [하트퍼드에](https://ko.wikipedia.org/wiki/하트퍼드_\(코네티컷주\) "wikilink") 위치한 실내 경기장이다. 과거 [NBA](https://ko.wikipedia.org/wiki/전미_농구_협회 "wikilink") [보스턴 셀틱스의](https://ko.wikipedia.org/wiki/보스턴_셀틱스 "wikilink") 제2홈경기장으로 [NHL](https://ko.wikipedia.org/wiki/내셔널_하키_리그 "wikilink") [하트포드 훼일러즈와](https://ko.wikipedia.org/wiki/하트퍼드_웨일러스 "wikilink") [WHA](https://ko.wikipedia.org/wiki/월드_하키_협회 "wikilink") [뉴잉글랜드 훼일러즈](https://ko.wikipedia.org/wiki/하트퍼드_웨일러스 "wikilink") 홈경기장으로 사용했으며, 현재 [AHL](../Page/아메리칸_하키_리그.md "wikilink") [하트퍼드 울프팩의](https://ko.wikipedia.org/wiki/하트퍼드_울프팩 "wikilink") 홈경기장으로 사용되고 있다.
+**XL 센터**(XL Center)은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [코네티컷주](https://ko.wikipedia.org/wiki/코네티컷주 "wikilink") [하트퍼드에](https://ko.wikipedia.org/wiki/하트퍼드_\(코네티컷주\) "wikilink") 위치한 실내 경기장이다. 과거 [NBA](https://ko.wikipedia.org/wiki/전미_농구_협회 "wikilink") [보스턴 셀틱스의](https://ko.wikipedia.org/wiki/보스턴_셀틱스 "wikilink") 제2홈경기장으로 [NHL](https://ko.wikipedia.org/wiki/내셔널_하키_리그 "wikilink") [하트포드 훼일러즈와](https://ko.wikipedia.org/wiki/하트퍼드_웨일러스 "wikilink") [WHA](https://ko.wikipedia.org/wiki/월드_하키_협회 "wikilink") [뉴잉글랜드 훼일러즈](https://ko.wikipedia.org/wiki/하트퍼드_웨일러스 "wikilink") 홈경기장으로 사용했으며, 현재 [AHL](../Page/아메리칸_하키_리그.md "wikilink") [하트퍼드 울프팩의](../Page/하트퍼드_울프팩.md "wikilink") 홈경기장으로 사용되고 있다.
 
 1995년 4월 2일, [WWF](https://ko.wikipedia.org/wiki/WWF "wikilink") [레슬매니아](https://ko.wikipedia.org/wiki/레슬매니아 "wikilink") 11이 개최되었다. 관객 수는 16,305명
 
