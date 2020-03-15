@@ -43,7 +43,7 @@
 
 :\# Dreaming\!
 
-:\#: 노래: [아마미 하루카](https://ko.wikipedia.org/wiki/아마미_하루카 "wikilink") ([나카무라 에리코](https://ko.wikipedia.org/wiki/나카무라_에리코 "wikilink")), 카스가 미라이 ([야마자키 하루카](https://ko.wikipedia.org/wiki/야마자키_하루카 "wikilink")), [시죠 타카네](https://ko.wikipedia.org/wiki/시죠_타카네 "wikilink") ([하라 유미](https://ko.wikipedia.org/wiki/하라_유미 "wikilink")), 키타카미 레이카 ([히라야마 에미](https://ko.wikipedia.org/wiki/히라야마_에미 "wikilink")), 키타자와 시호 ([아마미야 소라](https://ko.wikipedia.org/wiki/아마미야_소라 "wikilink")), 줄리아 ([테라카와 아이미](https://ko.wikipedia.org/wiki/테라카와_아이미 "wikilink")), [타카츠키 야요이](https://ko.wikipedia.org/wiki/타카츠키_야요이 "wikilink") ([니고 마야코](https://ko.wikipedia.org/wiki/니고_마야코 "wikilink")), 토코로 메구미 ([후지이 유키요](https://ko.wikipedia.org/wiki/후지이_유키요 "wikilink")), 나나오 유리코 ([이토 미쿠](https://ko.wikipedia.org/wiki/이토_미쿠 "wikilink")), 모치즈키 안나 ([나츠카와 시이나](https://ko.wikipedia.org/wiki/나츠카와_시이나 "wikilink")), 야부키 카나 ([키도 이부키](../Page/키도_이부키.md "wikilink"))
+:\#: 노래: [아마미 하루카](https://ko.wikipedia.org/wiki/아마미_하루카 "wikilink") ([나카무라 에리코](https://ko.wikipedia.org/wiki/나카무라_에리코 "wikilink")), 카스가 미라이 ([야마자키 하루카](https://ko.wikipedia.org/wiki/야마자키_하루카 "wikilink")), [시죠 타카네](https://ko.wikipedia.org/wiki/시죠_타카네 "wikilink") ([하라 유미](https://ko.wikipedia.org/wiki/하라_유미 "wikilink")), 키타카미 레이카 ([히라야마 에미](https://ko.wikipedia.org/wiki/히라야마_에미 "wikilink")), 키타자와 시호 ([아마미야 소라](../Page/아마미야_소라.md "wikilink")), 줄리아 ([테라카와 아이미](https://ko.wikipedia.org/wiki/테라카와_아이미 "wikilink")), [타카츠키 야요이](https://ko.wikipedia.org/wiki/타카츠키_야요이 "wikilink") ([니고 마야코](https://ko.wikipedia.org/wiki/니고_마야코 "wikilink")), 토코로 메구미 ([후지이 유키요](https://ko.wikipedia.org/wiki/후지이_유키요 "wikilink")), 나나오 유리코 ([이토 미쿠](https://ko.wikipedia.org/wiki/이토_미쿠 "wikilink")), 모치즈키 안나 ([나츠카와 시이나](https://ko.wikipedia.org/wiki/나츠카와_시이나 "wikilink")), 야부키 카나 ([키도 이부키](../Page/키도_이부키.md "wikilink"))
 
 :\#: 작사: 마사키 에리카, 작곡: BNSI (사토 타카후미), 편곡: Arte Refact
 
@@ -75,7 +75,7 @@
 
 :\# **piece of cake**
 
-:\#: 노래: 키타카미 레이카 ([히라야마 에미](https://ko.wikipedia.org/wiki/히라야마_에미 "wikilink"))×키타자와 시호 ([아마미야 소라](https://ko.wikipedia.org/wiki/아마미야_소라 "wikilink"))
+:\#: 노래: 키타카미 레이카 ([히라야마 에미](https://ko.wikipedia.org/wiki/히라야마_에미 "wikilink"))×키타자와 시호 ([아마미야 소라](../Page/아마미야_소라.md "wikilink"))
 
 :\#: 작사: 마츠이 요헤이, 작곡·편곡: AstroNoteS
 

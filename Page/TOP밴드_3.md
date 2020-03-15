@@ -7,7 +7,7 @@
 
   - [TOP밴드 시즌 1](https://ko.wikipedia.org/wiki/TOP밴드_\(시즌_1\) "wikilink") - 우승 [톡식](https://ko.wikipedia.org/wiki/톡식 "wikilink")
   - [TOP밴드 시즌 2](https://ko.wikipedia.org/wiki/TOP밴드_2 "wikilink") - 우승 [피아](https://ko.wikipedia.org/wiki/피아 "wikilink")
-  - [TOP밴드 시즌 3](https://ko.wikipedia.org/wiki/TOP밴드_3 "wikilink") - 우승 아시안체어샷
+  - [TOP밴드 시즌 3](../Page/TOP밴드_3.md "wikilink") - 우승 아시안체어샷
 
 ## 기획 의도
 

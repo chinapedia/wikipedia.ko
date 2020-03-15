@@ -10,7 +10,7 @@
 1.  **Kiss** (4:37)
       - 작사: 쿠라키 마이, 작곡: [YOKO Black. Stone](https://ko.wikipedia.org/wiki/YOKO_Black._Stone "wikilink"), 편곡: Cybersound
 2.  **You are not the only one** (4:04)
-      - 작사: 쿠라키 마이, 작곡: [토쿠나가 아키히토](https://ko.wikipedia.org/wiki/토쿠나가_아키히토 "wikilink"), 편곡: Cybersound
+      - 작사: 쿠라키 마이, 작곡: [토쿠나가 아키히토](../Page/토쿠나가_아키히토.md "wikilink"), 편곡: Cybersound
 3.  Kiss (Instrumental)
 
 ## 참가 음악가
@@ -24,6 +24,6 @@
 
 ## 수록 음반
 
-  - [If I Believe](https://ko.wikipedia.org/wiki/If_I_Believe "wikilink")
+  - [If I Believe](../Page/If_I_Believe.md "wikilink")
 
 [분류:쿠라키 마이의 노래](https://ko.wikipedia.org/wiki/분류:쿠라키_마이의_노래 "wikilink") [분류:2003년 싱글](https://ko.wikipedia.org/wiki/분류:2003년_싱글 "wikilink") [분류:입맞춤을 소재로 한 노래](https://ko.wikipedia.org/wiki/분류:입맞춤을_소재로_한_노래 "wikilink") [분류:2003년 노래](https://ko.wikipedia.org/wiki/분류:2003년_노래 "wikilink")

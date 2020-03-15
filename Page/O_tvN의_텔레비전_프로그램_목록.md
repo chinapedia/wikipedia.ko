@@ -17,11 +17,11 @@
 
 ## ㅂ
 
-  - [비밀 독서단](https://ko.wikipedia.org/wiki/비밀_독서단 "wikilink")   ([2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [9월 15일](https://ko.wikipedia.org/wiki/9월_15일 "wikilink") \~ [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [1월 26일](https://ko.wikipedia.org/wiki/1월_26일 "wikilink"))
+  - [비밀 독서단](../Page/비밀_독서단.md "wikilink")   ([2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [9월 15일](https://ko.wikipedia.org/wiki/9월_15일 "wikilink") \~ [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [1월 26일](https://ko.wikipedia.org/wiki/1월_26일 "wikilink"))
 
-  - [비밀 독서단 시즌 2](https://ko.wikipedia.org/wiki/비밀_독서단 "wikilink")   ([2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [3월 29일](https://ko.wikipedia.org/wiki/3월_29일 "wikilink") \~ [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [7월 26일](https://ko.wikipedia.org/wiki/7월_26일 "wikilink"))
+  - [비밀 독서단 시즌 2](../Page/비밀_독서단.md "wikilink")   ([2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [3월 29일](https://ko.wikipedia.org/wiki/3월_29일 "wikilink") \~ [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [7월 26일](https://ko.wikipedia.org/wiki/7월_26일 "wikilink"))
 
-  - [비밀 독서단 시즌 3](https://ko.wikipedia.org/wiki/비밀_독서단 "wikilink")   ([2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [9월 6일](https://ko.wikipedia.org/wiki/9월_6일 "wikilink") \~ [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [10월 11일](https://ko.wikipedia.org/wiki/10월_11일 "wikilink"))
+  - [비밀 독서단 시즌 3](../Page/비밀_독서단.md "wikilink")   ([2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [9월 6일](https://ko.wikipedia.org/wiki/9월_6일 "wikilink") \~ [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [10월 11일](https://ko.wikipedia.org/wiki/10월_11일 "wikilink"))
 
 ## ㅅ
 
@@ -29,7 +29,7 @@
 
 ## ㅇ
 
-  - [어쩌다 어른](https://ko.wikipedia.org/wiki/어쩌다_어른 "wikilink")  ([2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [9월 10일](https://ko.wikipedia.org/wiki/9월_10일 "wikilink") \~ [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [12월 19일](https://ko.wikipedia.org/wiki/12월_19일 "wikilink"))
+  - [어쩌다 어른](../Page/어쩌다_어른.md "wikilink")  ([2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [9월 10일](https://ko.wikipedia.org/wiki/9월_10일 "wikilink") \~ [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [12월 19일](https://ko.wikipedia.org/wiki/12월_19일 "wikilink"))
 
   - [업계의 비밀](https://ko.wikipedia.org/wiki/업계의_비밀 "wikilink")  ([2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [10월 28일](https://ko.wikipedia.org/wiki/10월_28일 "wikilink") \~ [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [11월 18일](https://ko.wikipedia.org/wiki/11월_18일 "wikilink"))
 

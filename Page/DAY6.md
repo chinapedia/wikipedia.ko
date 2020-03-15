@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DAY6](https://ko.wikipedia.org/wiki/DAY6).
 
 
-**DAY6**(데이식스)는 [성진](https://ko.wikipedia.org/wiki/성진_\(가수\) "wikilink"), [Jae](https://ko.wikipedia.org/wiki/Jae "wikilink"), [Young K](https://ko.wikipedia.org/wiki/Young_K "wikilink"), [원필](https://ko.wikipedia.org/wiki/원필 "wikilink"), [도운으로](https://ko.wikipedia.org/wiki/도운_\(가수\) "wikilink") 구성된 5인조 남성 밴드다.
+**DAY6**(데이식스)는 [성진](../Page/성진_\(가수\).md "wikilink"), [Jae](../Page/Jae.md "wikilink"), [Young K](../Page/Young_K.md "wikilink"), [원필](../Page/원필.md "wikilink"), [도운으로](https://ko.wikipedia.org/wiki/도운_\(가수\) "wikilink") 구성된 5인조 남성 밴드다.
 
 ## 구성원
 
@@ -32,8 +32,8 @@
 
 | 연도                                                               | 발매일        | Artist | 발매                                                       | 발매 형식                                                                                   | 앨범명                                                                                  | 타이틀 곡                                                             | 기획사                                                               |
 | ---------------------------------------------------------------- | ---------- | ------ | -------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------- | ----------------------------------------------------------------- |
-| rowspan="1|[2015](https://ko.wikipedia.org/wiki/2015 "wikilink") | 2015.09.07 | DAY6   | 한국                                                       | [EP](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink")                                | 《[The Day](https://ko.wikipedia.org/wiki/The_Day "wikilink")》\[4\]                   | 〈Congratulations〉                                                 | [JYP 엔터테인먼트](https://ko.wikipedia.org/wiki/JYP_엔터테인먼트 "wikilink") |
-| rowspan="1|[2016](https://ko.wikipedia.org/wiki/2016 "wikilink") | 2016.03.30 | DAY6   | 한국                                                       | [EP](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink")                                | 《[DAYDREAM](https://ko.wikipedia.org/wiki/DAYDREAM "wikilink")》\[5\]                 | 〈놓아 놓아 놓아〉                                                        | [JYP 엔터테인먼트](https://ko.wikipedia.org/wiki/JYP_엔터테인먼트 "wikilink") |
+| rowspan="1|[2015](https://ko.wikipedia.org/wiki/2015 "wikilink") | 2015.09.07 | DAY6   | 한국                                                       | [EP](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink")                                | 《[The Day](../Page/The_Day.md "wikilink")》\[4\]                                      | 〈Congratulations〉                                                 | [JYP 엔터테인먼트](https://ko.wikipedia.org/wiki/JYP_엔터테인먼트 "wikilink") |
+| rowspan="1|[2016](https://ko.wikipedia.org/wiki/2016 "wikilink") | 2016.03.30 | DAY6   | 한국                                                       | [EP](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink")                                | 《[DAYDREAM](../Page/DAYDREAM.md "wikilink")》\[5\]                                    | 〈놓아 놓아 놓아〉                                                        | [JYP 엔터테인먼트](https://ko.wikipedia.org/wiki/JYP_엔터테인먼트 "wikilink") |
 | rowspan="2|[2018](https://ko.wikipedia.org/wiki/2018 "wikilink") | 2018.06.26 | DAY6   | 한국                                                       | [EP](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink")                                | 《[Shoot Me : Youth Part 1》](http://day6.jype.com/discography.asp?idx=15&page=1)\[6\] | 〈Shoot Me〉                                                        | [JYP 엔터테인먼트](https://ko.wikipedia.org/wiki/JYP_엔터테인먼트 "wikilink") |
 | 2018.12.10                                                       | DAY6       | 한국     | [EP](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink") | 《[Remember Us : Youth Part 2》](http://day6.jype.com/discography.asp?idx=17&page=1)\[7\] | 〈행복했던 날들이었다〉                                                                         | [JYP 엔터테인먼트](https://ko.wikipedia.org/wiki/JYP_엔터테인먼트 "wikilink") |                                                                   |
 | rowspan="1|[2019](https://ko.wikipedia.org/wiki/2019 "wikilink") | 2019.07.15 | DAY6   | 한국                                                       | [EP](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink")                                | [《The Book of Us : Gravity》](http://day6.jype.com/discography.asp?idx=18&page=)\[8\] | 〈한 페이지가 될 수 있게〉                                                   | [JYP 엔터테인먼트](https://ko.wikipedia.org/wiki/JYP_엔터테인먼트 "wikilink") |
@@ -649,7 +649,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/2016" title="wikilink">2016</a></p></td>
 <td><p>DAY6</p></td>
 <td><p>2016.03.30</p></td>
-<td><p>《<a href="https://ko.wikipedia.org/wiki/DAYDREAM" title="wikilink">DAYDREAM</a>》</p></td>
+<td><p>《<a href="../Page/DAYDREAM.md" title="wikilink">DAYDREAM</a>》</p></td>
 <td><ul>
 <li><a href="https://www.vlive.tv/video/6800?channelCode=F4F147">DAY6 합주실 라이브 (DAY6 Rehearsal studio Live)</a></li>
 </ul></td>
@@ -740,7 +740,7 @@
 <li><a href="https://tv.kakao.com/channel/3190328/cliplink/401652594">마이데이 주려고 들고 온, 데식이들의 비밀톡방</a></li>
 </ul></td>
 <td><p>《WE K-POP》</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/카카오TV" title="wikilink">카카오TV</a></p></td>
+<td><p><a href="../Page/카카오TV.md" title="wikilink">카카오TV</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1132,8 +1132,8 @@
 <td><p>DAY6</p></td>
 <td><p>〈Chocolate〉</p></td>
 <td><p>《<a href="https://ko.wikipedia.org/wiki/하지_말라면_더_하고_19" title="wikilink">하지 말라면 더 하고 19</a> Part.1》</p></td>
-<td><p>작사 : <a href="https://ko.wikipedia.org/wiki/Jae" title="wikilink">Jae</a>, <a href="https://ko.wikipedia.org/wiki/원필" title="wikilink">원필</a>, <a href="https://ko.wikipedia.org/wiki/박진영" title="wikilink">박진영</a><br />
-작곡 : <a href="https://ko.wikipedia.org/wiki/Jae" title="wikilink">Jae</a>, <a href="https://ko.wikipedia.org/wiki/원필" title="wikilink">원필</a>, MAJORCODE, 문상선</p></td>
+<td><p>작사 : <a href="../Page/Jae.md" title="wikilink">Jae</a>, <a href="../Page/원필.md" title="wikilink">원필</a>, <a href="https://ko.wikipedia.org/wiki/박진영" title="wikilink">박진영</a><br />
+작곡 : <a href="../Page/Jae.md" title="wikilink">Jae</a>, <a href="../Page/원필.md" title="wikilink">원필</a>, MAJORCODE, 문상선</p></td>
 </tr>
 <tr class="even">
 <td><p>2018.11.17</p></td>
@@ -1212,8 +1212,8 @@
 <td><p><a href="https://www.youtube.com/watch?v=zSUa0xPJ5_g">DAY6 〈Chocolate〉</a><br />
 </p></td>
 <td><p>《<a href="https://ko.wikipedia.org/wiki/하지_말라면_더_하고_19" title="wikilink">하지 말라면 더 하고 19</a> Part.1》</p></td>
-<td><p>작사 : <a href="https://ko.wikipedia.org/wiki/Jae" title="wikilink">Jae</a>, <a href="https://ko.wikipedia.org/wiki/원필" title="wikilink">원필</a>, <a href="https://ko.wikipedia.org/wiki/박진영" title="wikilink">박진영</a><br />
-작곡 : <a href="https://ko.wikipedia.org/wiki/Jae" title="wikilink">Jae</a>, <a href="https://ko.wikipedia.org/wiki/원필" title="wikilink">원필</a>,<br />
+<td><p>작사 : <a href="../Page/Jae.md" title="wikilink">Jae</a>, <a href="../Page/원필.md" title="wikilink">원필</a>, <a href="https://ko.wikipedia.org/wiki/박진영" title="wikilink">박진영</a><br />
+작곡 : <a href="../Page/Jae.md" title="wikilink">Jae</a>, <a href="../Page/원필.md" title="wikilink">원필</a>,<br />
 MAJORCODE, 문상선</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/원더케이" title="wikilink">원더케이</a></p></td>
 </tr>
@@ -1936,7 +1936,7 @@ M2</p></td>
 </ul></td>
 <td><p>원곡 : DAY6</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/K팝스타_6_더_라스트_찬스" title="wikilink">K팝스타 시즌6</a></p></td>
+<td><p><a href="../Page/K팝스타_6_더_라스트_찬스.md" title="wikilink">K팝스타 시즌6</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/네이버" title="wikilink">네이버</a> TV</p></td>
 </tr>
 <tr class="odd">
@@ -2110,7 +2110,7 @@ M2</p></td>
 </tr>
 <tr class="odd">
 <td><p>2017.01.27</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/성진_(가수)" title="wikilink">성진</a></p></td>
+<td><p><a href="../Page/성진_(가수).md" title="wikilink">성진</a></p></td>
 <td><ul>
 <li><a href="https://tv.naver.com/v/1407242">신효범 &amp; 성진(DAY6) 난 널 사랑해〉</a><br />
 </li>
@@ -2122,7 +2122,7 @@ M2</p></td>
 </tr>
 <tr class="even">
 <td><p>2017.02.03</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/성진_(가수)" title="wikilink">성진</a></p></td>
+<td><p><a href="../Page/성진_(가수).md" title="wikilink">성진</a></p></td>
 <td><ul>
 <li><a href="https://tv.naver.com/v/1422308">신효범 &amp; 성진(DAY6) 〈그녈 위해〉</a><br />
 </li>
@@ -2135,7 +2135,7 @@ M2</p></td>
 <tr class="odd">
 <td><p>2019.05.26<br />
 2019.06.02</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Young_K" title="wikilink">Young K</a></p></td>
+<td><p><a href="../Page/Young_K.md" title="wikilink">Young K</a></p></td>
 <td><ul>
 <li><a href="https://tv.naver.com/v/8509786">범고래(윤주빈) VS 일각고래(Young K) 〈UFO〉</a></li>
 <li><a href="https://tv.naver.com/v/8605736">일각고래(Young K) 〈너를 품에 안으면〉</a><br />
@@ -2150,7 +2150,7 @@ M2</p></td>
 <tr class="even">
 <td><p>2019.11.03<br />
 2019.11.10</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/원필" title="wikilink">원필</a></p></td>
+<td><p><a href="../Page/원필.md" title="wikilink">원필</a></p></td>
 <td><ul>
 <li><a href="https://tv.naver.com/v/10715607">삐삐(원필) VS 공중전화(김보희) 〈슬픔활용법〉</a></li>
 <li><a href="https://tv.naver.com/v/10843779">삐삐(원필) 〈그대라는 시〉</a></li>
@@ -2383,33 +2383,33 @@ M2</p></td>
 <tbody>
 <tr class="odd">
 <td><p>2016.06.13</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/성진_(가수)" title="wikilink">성진</a></p></td>
+<td><p><a href="../Page/성진_(가수).md" title="wikilink">성진</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=R-E2KMTDv0E">성진 〈말꼬리〉</a><br />
 </li>
 </ul></td>
 <td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/윤종신" title="wikilink">윤종신</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_Happy_FM" title="wikilink">KBS Happy FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/행복한_두시_조성모입니다" title="wikilink">행복한 두시 조성모입니다</a></p></td>
+<td><p><a href="../Page/행복한_두시_조성모입니다.md" title="wikilink">행복한 두시 조성모입니다</a></p></td>
 <td><p>KBS KONG</p></td>
 </tr>
 <tr class="even">
 <td><p>2016.06.06</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/성진_(가수)" title="wikilink">성진</a></p></td>
+<td><p><a href="../Page/성진_(가수).md" title="wikilink">성진</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=ZnRF3lNIF-Y">성진 〈이등병의 편지〉</a><br />
 </li>
 </ul></td>
 <td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/김광석" title="wikilink">김광석</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_Happy_FM" title="wikilink">KBS Happy FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/행복한_두시_조성모입니다" title="wikilink">행복한 두시 조성모입니다</a></p></td>
+<td><p><a href="../Page/행복한_두시_조성모입니다.md" title="wikilink">행복한 두시 조성모입니다</a></p></td>
 <td><p>KBS KONG</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016.10.28</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/성진_(가수)" title="wikilink">성진</a><br />
-<a href="https://ko.wikipedia.org/wiki/Jae" title="wikilink">Jae</a><br />
-<a href="https://ko.wikipedia.org/wiki/Young_K" title="wikilink">Young K</a></p></td>
+<td><p><a href="../Page/성진_(가수).md" title="wikilink">성진</a><br />
+<a href="../Page/Jae.md" title="wikilink">Jae</a><br />
+<a href="../Page/Young_K.md" title="wikilink">Young K</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=KnQbylivC4A">성진, Jae, Young K 〈봄이 좋냐?〉</a><br />
 </li>
@@ -2421,7 +2421,7 @@ M2</p></td>
 </tr>
 <tr class="even">
 <td><p>2016.06.13</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/성진_(가수)" title="wikilink">성진</a><br />
+<td><p><a href="../Page/성진_(가수).md" title="wikilink">성진</a><br />
 <a href="https://ko.wikipedia.org/wiki/도운_(가수)" title="wikilink">도운</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=bjYZ_TR3uG8">성진 &amp; 도운 〈Good Night〉</a><br />
@@ -2429,12 +2429,12 @@ M2</p></td>
 </ul></td>
 <td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/넬_(밴드)" title="wikilink">넬</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_Happy_FM" title="wikilink">KBS Happy FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/행복한_두시_조성모입니다" title="wikilink">행복한 두시 조성모입니다</a></p></td>
+<td><p><a href="../Page/행복한_두시_조성모입니다.md" title="wikilink">행복한 두시 조성모입니다</a></p></td>
 <td><p>KBS KONG</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016.06.20</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/성진_(가수)" title="wikilink">성진</a><br />
+<td><p><a href="../Page/성진_(가수).md" title="wikilink">성진</a><br />
 <a href="https://ko.wikipedia.org/wiki/도운_(가수)" title="wikilink">도운</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=56dIImixJao">성진 &amp; 도운 〈말하는 대로〉</a><br />
@@ -2442,13 +2442,13 @@ M2</p></td>
 </ul></td>
 <td><p>원곡 : 처진 달팽이</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_Happy_FM" title="wikilink">KBS Happy FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/행복한_두시_조성모입니다" title="wikilink">행복한 두시 조성모입니다</a></p></td>
+<td><p><a href="../Page/행복한_두시_조성모입니다.md" title="wikilink">행복한 두시 조성모입니다</a></p></td>
 <td><p>KBS KONG</p></td>
 </tr>
 <tr class="even">
 <td><p>2016.05.20</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/성진_(가수)" title="wikilink">성진</a><br />
-<a href="https://ko.wikipedia.org/wiki/Young_K" title="wikilink">Young K</a><br />
+<td><p><a href="../Page/성진_(가수).md" title="wikilink">성진</a><br />
+<a href="../Page/Young_K.md" title="wikilink">Young K</a><br />
 <a href="https://ko.wikipedia.org/wiki/도운_(가수)" title="wikilink">도운</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=VbeS4SYQnPI">성진 &amp; Young K &amp; 도운 〈죽겠네〉</a><br />
@@ -2461,8 +2461,8 @@ M2</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016.05.05</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/성진_(가수)" title="wikilink">성진</a><br />
-<a href="https://ko.wikipedia.org/wiki/원필" title="wikilink">원필</a></p></td>
+<td><p><a href="../Page/성진_(가수).md" title="wikilink">성진</a><br />
+<a href="../Page/원필.md" title="wikilink">원필</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=OUppKbeV59U">성진 &amp; 원필 〈우주를 건너〉</a><br />
 </li>
@@ -2474,8 +2474,8 @@ M2</p></td>
 </tr>
 <tr class="even">
 <td><p>2016.09.29</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/성진_(가수)" title="wikilink">성진</a><br />
-<a href="https://ko.wikipedia.org/wiki/Jae" title="wikilink">Jae</a><br />
+<td><p><a href="../Page/성진_(가수).md" title="wikilink">성진</a><br />
+<a href="../Page/Jae.md" title="wikilink">Jae</a><br />
 <a href="https://ko.wikipedia.org/wiki/도운_(가수)" title="wikilink">도운</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=keR4-lSKggQ">성진, Jae, 도운 &amp; 윤현상 〈걱정말아요 그대〉</a><br />
@@ -2488,8 +2488,8 @@ M2</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016.09.08</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/성진_(가수)" title="wikilink">성진</a><br />
-<a href="https://ko.wikipedia.org/wiki/원필" title="wikilink">원필</a><br />
+<td><p><a href="../Page/성진_(가수).md" title="wikilink">성진</a><br />
+<a href="../Page/원필.md" title="wikilink">원필</a><br />
 <a href="https://ko.wikipedia.org/wiki/도운_(가수)" title="wikilink">도운</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=V3lAXs9TICU">성진 &amp; 원필 &amp; 도운 〈이게 아닌데〉</a><br />
@@ -2502,9 +2502,9 @@ M2</p></td>
 </tr>
 <tr class="even">
 <td><p>2015.12.06</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Jae" title="wikilink">Jae</a><br />
-<a href="https://ko.wikipedia.org/wiki/성진_(가수)" title="wikilink">성진</a><br />
-<a href="https://ko.wikipedia.org/wiki/Young_K" title="wikilink">Young K</a></p></td>
+<td><p><a href="../Page/Jae.md" title="wikilink">Jae</a><br />
+<a href="../Page/성진_(가수).md" title="wikilink">성진</a><br />
+<a href="../Page/Young_K.md" title="wikilink">Young K</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=2R3fwpLZsCg">Jae, 성진, Young K〈Happy〉</a><br />
 </li>
@@ -2516,8 +2516,8 @@ M2</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016.07.21</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/성진_(가수)" title="wikilink">성진</a><br />
-<a href="https://ko.wikipedia.org/wiki/Young_K" title="wikilink">Young K</a><br />
+<td><p><a href="../Page/성진_(가수).md" title="wikilink">성진</a><br />
+<a href="../Page/Young_K.md" title="wikilink">Young K</a><br />
 <a href="https://ko.wikipedia.org/wiki/도운_(가수)" title="wikilink">도운</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=f-iv5lqVPi8">성진, Young K, 도운 〈Just The Way You Are〉</a><br />
@@ -2530,7 +2530,7 @@ M2</p></td>
 </tr>
 <tr class="even">
 <td><p>2016.10.31</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/성진_(가수)" title="wikilink">성진</a><br />
+<td><p><a href="../Page/성진_(가수).md" title="wikilink">성진</a><br />
 <a href="https://ko.wikipedia.org/wiki/도운_(가수)" title="wikilink">도운</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=8wJFKSiepVg">성진 &amp; 도운 〈Little Star〉</a><br />
@@ -2538,12 +2538,12 @@ M2</p></td>
 </ul></td>
 <td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/스탠딩_에그" title="wikilink">스탠딩 에그</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_Happy_FM" title="wikilink">KBS Happy FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/행복한_두시_조성모입니다" title="wikilink">행복한 두시 조성모입니다</a></p></td>
+<td><p><a href="../Page/행복한_두시_조성모입니다.md" title="wikilink">행복한 두시 조성모입니다</a></p></td>
 <td><p>KBS KONG</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016.09.26</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/성진_(가수)" title="wikilink">성진</a><br />
+<td><p><a href="../Page/성진_(가수).md" title="wikilink">성진</a><br />
 <a href="https://ko.wikipedia.org/wiki/도운_(가수)" title="wikilink">도운</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=PqbER_hahbA">성진 &amp; 도운 〈Oh My God〉</a><br />
@@ -2551,25 +2551,25 @@ M2</p></td>
 </ul></td>
 <td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/15&amp;" title="wikilink">15&amp;</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_Happy_FM" title="wikilink">KBS Happy FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/행복한_두시_조성모입니다" title="wikilink">행복한 두시 조성모입니다</a></p></td>
+<td><p><a href="../Page/행복한_두시_조성모입니다.md" title="wikilink">행복한 두시 조성모입니다</a></p></td>
 <td><p>KBS KONG</p></td>
 </tr>
 <tr class="even">
 <td><p>2016.10.17</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/성진_(가수)" title="wikilink">성진</a><br />
-<a href="https://ko.wikipedia.org/wiki/원필" title="wikilink">원필</a></p></td>
+<td><p><a href="../Page/성진_(가수).md" title="wikilink">성진</a><br />
+<a href="../Page/원필.md" title="wikilink">원필</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=iMgrz_QaDqQ">성진 &amp; 원필 〈그대 내 품에〉</a><br />
 </li>
 </ul></td>
 <td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/유재하" title="wikilink">유재하</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_Happy_FM" title="wikilink">KBS Happy FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/행복한_두시_조성모입니다" title="wikilink">행복한 두시 조성모입니다</a></p></td>
+<td><p><a href="../Page/행복한_두시_조성모입니다.md" title="wikilink">행복한 두시 조성모입니다</a></p></td>
 <td><p>KBS KONG</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016.07.04</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/성진_(가수)" title="wikilink">성진</a><br />
+<td><p><a href="../Page/성진_(가수).md" title="wikilink">성진</a><br />
 <a href="https://ko.wikipedia.org/wiki/도운_(가수)" title="wikilink">도운</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=VOPEFxib6co">성진 &amp; 도운 〈안아줘〉</a><br />
@@ -2577,54 +2577,54 @@ M2</p></td>
 </ul></td>
 <td><p>원곡 : <a href="../Page/정준일.md" title="wikilink">정준일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_Happy_FM" title="wikilink">KBS Happy FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/행복한_두시_조성모입니다" title="wikilink">행복한 두시 조성모입니다</a></p></td>
+<td><p><a href="../Page/행복한_두시_조성모입니다.md" title="wikilink">행복한 두시 조성모입니다</a></p></td>
 <td><p>KBS KONG</p></td>
 </tr>
 <tr class="even">
 <td><p>2016.07.18</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/성진_(가수)" title="wikilink">성진</a><br />
-<a href="https://ko.wikipedia.org/wiki/원필" title="wikilink">원필</a></p></td>
+<td><p><a href="../Page/성진_(가수).md" title="wikilink">성진</a><br />
+<a href="../Page/원필.md" title="wikilink">원필</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=to5UjmdZnLQ">성진 &amp; 원필 〈High &amp; Dry〉</a><br />
 </li>
 </ul></td>
 <td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/라디오헤드" title="wikilink">라디오헤드</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_Happy_FM" title="wikilink">KBS Happy FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/행복한_두시_조성모입니다" title="wikilink">행복한 두시 조성모입니다</a></p></td>
+<td><p><a href="../Page/행복한_두시_조성모입니다.md" title="wikilink">행복한 두시 조성모입니다</a></p></td>
 <td><p>KBS KONG</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016.07.18</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/성진_(가수)" title="wikilink">성진</a><br />
-<a href="https://ko.wikipedia.org/wiki/원필" title="wikilink">원필</a></p></td>
+<td><p><a href="../Page/성진_(가수).md" title="wikilink">성진</a><br />
+<a href="../Page/원필.md" title="wikilink">원필</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=0syEvDYn5XI">성진 &amp; 원필 〈I'm Not The Only One〉</a><br />
 </li>
 </ul></td>
 <td><p>원곡 : <a href="../Page/샘_스미스.md" title="wikilink">샘 스미스</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_Happy_FM" title="wikilink">KBS Happy FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/행복한_두시_조성모입니다" title="wikilink">행복한 두시 조성모입니다</a></p></td>
+<td><p><a href="../Page/행복한_두시_조성모입니다.md" title="wikilink">행복한 두시 조성모입니다</a></p></td>
 <td><p>KBS KONG</p></td>
 </tr>
 <tr class="even">
 <td><p>2016.10.10</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/성진_(가수)" title="wikilink">성진</a><br />
-<a href="https://ko.wikipedia.org/wiki/원필" title="wikilink">원필</a></p></td>
+<td><p><a href="../Page/성진_(가수).md" title="wikilink">성진</a><br />
+<a href="../Page/원필.md" title="wikilink">원필</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=B2yNylp9uKc">성진 &amp; 원필 〈All Of Me〉</a><br />
 </li>
 </ul></td>
 <td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/존_레전드" title="wikilink">존 레전드</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_Happy_FM" title="wikilink">KBS Happy FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/행복한_두시_조성모입니다" title="wikilink">행복한 두시 조성모입니다</a></p></td>
+<td><p><a href="../Page/행복한_두시_조성모입니다.md" title="wikilink">행복한 두시 조성모입니다</a></p></td>
 <td><p>KBS KONG</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016.09.15</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/성진_(가수)" title="wikilink">성진</a><br />
+<td><p><a href="../Page/성진_(가수).md" title="wikilink">성진</a><br />
 <br />
-<a href="https://ko.wikipedia.org/wiki/Young_K" title="wikilink">Young K</a><br />
-<a href="https://ko.wikipedia.org/wiki/원필" title="wikilink">원필</a><br />
+<a href="../Page/Young_K.md" title="wikilink">Young K</a><br />
+<a href="../Page/원필.md" title="wikilink">원필</a><br />
 <a href="https://ko.wikipedia.org/wiki/도운_(가수)" title="wikilink">도운</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=QHOuuVcWk8Q">성진, Young K, 원필, 도운 〈Good Life〉</a><br />
@@ -2637,7 +2637,7 @@ M2</p></td>
 </tr>
 <tr class="even">
 <td><p>2015.09.25</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Jae" title="wikilink">Jae</a></p></td>
+<td><p><a href="../Page/Jae.md" title="wikilink">Jae</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=IgUKwxUDtjw">Jae 〈Sunday Morning〉</a><br />
 </li>
@@ -2649,8 +2649,8 @@ M2</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016.06.03</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Jae" title="wikilink">Jae</a><br />
-<a href="https://ko.wikipedia.org/wiki/Young_K" title="wikilink">Young K</a></p></td>
+<td><p><a href="../Page/Jae.md" title="wikilink">Jae</a><br />
+<a href="../Page/Young_K.md" title="wikilink">Young K</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=PJc5YVxl9Bc">Jae &amp; Young K 〈Yesterday〉</a><br />
 </li>
@@ -2662,22 +2662,22 @@ M2</p></td>
 </tr>
 <tr class="even">
 <td><p>2016.09.12</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Jae" title="wikilink">Jae</a><br />
-<a href="https://ko.wikipedia.org/wiki/Young_K" title="wikilink">Young K</a></p></td>
+<td><p><a href="../Page/Jae.md" title="wikilink">Jae</a><br />
+<a href="../Page/Young_K.md" title="wikilink">Young K</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=EkrPUT_Jbms">Jae &amp; Young K 〈The Rose〉</a><br />
 </li>
 </ul></td>
 <td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/벳_미들러" title="wikilink">벳 미들러</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_Happy_FM" title="wikilink">KBS Happy FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/행복한_두시_조성모입니다" title="wikilink">행복한 두시 조성모입니다</a></p></td>
+<td><p><a href="../Page/행복한_두시_조성모입니다.md" title="wikilink">행복한 두시 조성모입니다</a></p></td>
 <td><p>KBS KONG</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016.01.31</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Jae" title="wikilink">Jae</a><br />
-<a href="https://ko.wikipedia.org/wiki/Young_K" title="wikilink">Young K</a><br />
-<a href="https://ko.wikipedia.org/wiki/성진_(가수)" title="wikilink">성진</a><br />
+<td><p><a href="../Page/Jae.md" title="wikilink">Jae</a><br />
+<a href="../Page/Young_K.md" title="wikilink">Young K</a><br />
+<a href="../Page/성진_(가수).md" title="wikilink">성진</a><br />
 <a href="https://ko.wikipedia.org/wiki/도운_(가수)" title="wikilink">도운</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=qW2fRE1NELA">Jae, Young K, 성진, 도운 〈She Will Be Loved〉</a><br />
@@ -2690,7 +2690,7 @@ M2</p></td>
 </tr>
 <tr class="even">
 <td><p>2016.08.08</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Jae" title="wikilink">Jae</a><br />
+<td><p><a href="../Page/Jae.md" title="wikilink">Jae</a><br />
 <a href="https://ko.wikipedia.org/wiki/도운_(가수)" title="wikilink">도운</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=J2U1Vz-vO6E">Jae &amp; 도운 〈How Deep Is Your Love〉</a><br />
@@ -2698,26 +2698,26 @@ M2</p></td>
 </ul></td>
 <td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/비_지스" title="wikilink">비 지스</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_Happy_FM" title="wikilink">KBS Happy FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/행복한_두시_조성모입니다" title="wikilink">행복한 두시 조성모입니다</a></p></td>
+<td><p><a href="../Page/행복한_두시_조성모입니다.md" title="wikilink">행복한 두시 조성모입니다</a></p></td>
 <td><p>KBS KONG</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016.07.25</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Jae" title="wikilink">Jae</a><br />
-<a href="https://ko.wikipedia.org/wiki/Young_K" title="wikilink">Young K</a></p></td>
+<td><p><a href="../Page/Jae.md" title="wikilink">Jae</a><br />
+<a href="../Page/Young_K.md" title="wikilink">Young K</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=8f2V9cEHh9M">Jae &amp; Young K 〈Lost Stars〉</a><br />
 </li>
 </ul></td>
 <td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/애덤_리바인" title="wikilink">애덤 리바인</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_Happy_FM" title="wikilink">KBS Happy FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/행복한_두시_조성모입니다" title="wikilink">행복한 두시 조성모입니다</a></p></td>
+<td><p><a href="../Page/행복한_두시_조성모입니다.md" title="wikilink">행복한 두시 조성모입니다</a></p></td>
 <td><p>KBS KONG</p></td>
 </tr>
 <tr class="even">
 <td><p>2016.04.28</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Jae" title="wikilink">Jae</a><br />
-<a href="https://ko.wikipedia.org/wiki/Young_K" title="wikilink">Young K</a><br />
+<td><p><a href="../Page/Jae.md" title="wikilink">Jae</a><br />
+<a href="../Page/Young_K.md" title="wikilink">Young K</a><br />
 <a href="https://ko.wikipedia.org/wiki/도운_(가수)" title="wikilink">도운</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=PSrUHW74Yj8">Jae, Young K, 도운 〈Put Your Records On〉</a><br />
@@ -2730,9 +2730,9 @@ M2</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016.07.07</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Jae" title="wikilink">Jae</a><br />
-<a href="https://ko.wikipedia.org/wiki/Young_K" title="wikilink">Young K</a><br />
-<a href="https://ko.wikipedia.org/wiki/성진_(가수)" title="wikilink">성진</a></p></td>
+<td><p><a href="../Page/Jae.md" title="wikilink">Jae</a><br />
+<a href="../Page/Young_K.md" title="wikilink">Young K</a><br />
+<a href="../Page/성진_(가수).md" title="wikilink">성진</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=2657PBSF_4E">Jae, Young K, 성진 〈Bad Day〉</a><br />
 </li>
@@ -2744,8 +2744,8 @@ M2</p></td>
 </tr>
 <tr class="even">
 <td><p>2016.05.12</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/원필" title="wikilink">원필</a><br />
-<a href="https://ko.wikipedia.org/wiki/Jae" title="wikilink">Jae</a><br />
+<td><p><a href="../Page/원필.md" title="wikilink">원필</a><br />
+<a href="../Page/Jae.md" title="wikilink">Jae</a><br />
 <a href="https://ko.wikipedia.org/wiki/도운_(가수)" title="wikilink">도운</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=pVV0gD6JMH0">원필 &amp; Jae 〈벚꽃엔딩〉</a><br />
@@ -2758,8 +2758,8 @@ M2</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016.11.18</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Young_K" title="wikilink">Young K</a><br />
-<a href="https://ko.wikipedia.org/wiki/원필" title="wikilink">원필</a><br />
+<td><p><a href="../Page/Young_K.md" title="wikilink">Young K</a><br />
+<a href="../Page/원필.md" title="wikilink">원필</a><br />
 <a href="https://ko.wikipedia.org/wiki/도운_(가수)" title="wikilink">도운</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=2Z5ZAXLhrlQ">Young K 〈D〉</a><br />
@@ -2772,8 +2772,8 @@ M2</p></td>
 </tr>
 <tr class="even">
 <td><p>2016.09.29</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Young_K" title="wikilink">Young K</a><br />
-<a href="https://ko.wikipedia.org/wiki/원필" title="wikilink">원필</a></p></td>
+<td><p><a href="../Page/Young_K.md" title="wikilink">Young K</a><br />
+<a href="../Page/원필.md" title="wikilink">원필</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=UN0SXm9Ryzk">Young K &amp; 원필 〈Love Yourself〉</a><br />
 </li>
@@ -2785,8 +2785,8 @@ M2</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016.11.19</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Young_K" title="wikilink">Young K</a><br />
-<a href="https://ko.wikipedia.org/wiki/원필" title="wikilink">원필</a></p></td>
+<td><p><a href="../Page/Young_K.md" title="wikilink">Young K</a><br />
+<a href="../Page/원필.md" title="wikilink">원필</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=1gRdzEW4Ggc">Young K &amp; 원필 〈기억의 습작〉</a><br />
 </li>
@@ -2798,7 +2798,7 @@ M2</p></td>
 </tr>
 <tr class="even">
 <td><p>2016.08.15</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Young_K" title="wikilink">Young K</a><br />
+<td><p><a href="../Page/Young_K.md" title="wikilink">Young K</a><br />
 <a href="https://ko.wikipedia.org/wiki/도운_(가수)" title="wikilink">도운</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=8GigwMdpMK0">Young K &amp; 도운 〈Hey Jude〉</a><br />
@@ -2806,12 +2806,12 @@ M2</p></td>
 </ul></td>
 <td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/비틀즈" title="wikilink">비틀즈</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_Happy_FM" title="wikilink">KBS Happy FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/행복한_두시_조성모입니다" title="wikilink">행복한 두시 조성모입니다</a></p></td>
+<td><p><a href="../Page/행복한_두시_조성모입니다.md" title="wikilink">행복한 두시 조성모입니다</a></p></td>
 <td><p>KBS KONG</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016.10.24</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/원필" title="wikilink">원필</a><br />
+<td><p><a href="../Page/원필.md" title="wikilink">원필</a><br />
 <a href="https://ko.wikipedia.org/wiki/도운_(가수)" title="wikilink">도운</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=FK3ChW0b8E4">원필 &amp; 도운 〈Mind Trick〉</a><br />
@@ -2819,12 +2819,12 @@ M2</p></td>
 </ul></td>
 <td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/제이미_컬럼" title="wikilink">제이미 컬럼</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_Happy_FM" title="wikilink">KBS Happy FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/행복한_두시_조성모입니다" title="wikilink">행복한 두시 조성모입니다</a></p></td>
+<td><p><a href="../Page/행복한_두시_조성모입니다.md" title="wikilink">행복한 두시 조성모입니다</a></p></td>
 <td><p>KBS KONG</p></td>
 </tr>
 <tr class="even">
 <td><p>2016.07.11</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/원필" title="wikilink">원필</a><br />
+<td><p><a href="../Page/원필.md" title="wikilink">원필</a><br />
 <a href="https://ko.wikipedia.org/wiki/도운_(가수)" title="wikilink">도운</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=TNtvyqp1Epg">원필 &amp; 도운 〈기억을 걷는 시간〉</a><br />
@@ -2832,13 +2832,13 @@ M2</p></td>
 </ul></td>
 <td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/넬_(밴드)" title="wikilink">넬</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_Happy_FM" title="wikilink">KBS Happy FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/행복한_두시_조성모입니다" title="wikilink">행복한 두시 조성모입니다</a></p></td>
+<td><p><a href="../Page/행복한_두시_조성모입니다.md" title="wikilink">행복한 두시 조성모입니다</a></p></td>
 <td><p>KBS KONG</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016.06.09</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/원필" title="wikilink">원필</a><br />
-<a href="https://ko.wikipedia.org/wiki/Young_K" title="wikilink">Young K</a></p></td>
+<td><p><a href="../Page/원필.md" title="wikilink">원필</a><br />
+<a href="../Page/Young_K.md" title="wikilink">Young K</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=cgKkUgmrEMg">원필 &amp; Young K 〈그대와 영원히〉</a><br />
 </li>
@@ -2850,22 +2850,22 @@ M2</p></td>
 </tr>
 <tr class="even">
 <td><p>2016.08.01</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/성진_(가수)" title="wikilink">성진</a><br />
-<a href="https://ko.wikipedia.org/wiki/원필" title="wikilink">원필</a></p></td>
+<td><p><a href="../Page/성진_(가수).md" title="wikilink">성진</a><br />
+<a href="../Page/원필.md" title="wikilink">원필</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=_i5nQ79RI_Q">성진 &amp; 원필 〈이 노래〉</a><br />
 </li>
 </ul></td>
 <td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/2AM" title="wikilink">2AM</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_Happy_FM" title="wikilink">KBS Happy FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/행복한_두시_조성모입니다" title="wikilink">행복한 두시 조성모입니다</a></p></td>
+<td><p><a href="../Page/행복한_두시_조성모입니다.md" title="wikilink">행복한 두시 조성모입니다</a></p></td>
 <td><p>KBS KONG</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016.08.11</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/원필" title="wikilink">원필</a><br />
-<a href="https://ko.wikipedia.org/wiki/Young_K" title="wikilink">Young K</a><br />
-<a href="https://ko.wikipedia.org/wiki/성진_(가수)" title="wikilink">성진</a></p></td>
+<td><p><a href="../Page/원필.md" title="wikilink">원필</a><br />
+<a href="../Page/Young_K.md" title="wikilink">Young K</a><br />
+<a href="../Page/성진_(가수).md" title="wikilink">성진</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=zQrBsjkp-SI">원필 〈If You〉</a><br />
 </li>
@@ -2877,10 +2877,10 @@ M2</p></td>
 </tr>
 <tr class="even">
 <td><p>2016.09.25</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Young_K" title="wikilink">Young K</a></p></td>
+<td><p><a href="../Page/Young_K.md" title="wikilink">Young K</a></p></td>
 <td><ul>
 <li><a href="https://tv.naver.com/v/1132737">〈Love Yourself〉</a><br />
-(<a href="https://ko.wikipedia.org/wiki/헨리_(가수)" title="wikilink">헨리</a> x 벤지 x 김재현 x <a href="https://ko.wikipedia.org/wiki/Young_K" title="wikilink">Young K</a> x <a href="https://ko.wikipedia.org/wiki/차은우" title="wikilink">차은우</a>)</li>
+(<a href="https://ko.wikipedia.org/wiki/헨리_(가수)" title="wikilink">헨리</a> x 벤지 x 김재현 x <a href="../Page/Young_K.md" title="wikilink">Young K</a> x <a href="https://ko.wikipedia.org/wiki/차은우" title="wikilink">차은우</a>)</li>
 </ul></td>
 <td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/저스틴_비버" title="wikilink">저스틴 비버</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>

@@ -9,7 +9,7 @@
 
 [존 레논이](https://ko.wikipedia.org/wiki/존_레논 "wikilink") 〈[Strawberry Fields Forever](https://ko.wikipedia.org/wiki/Strawberry_Fields_Forever "wikilink")〉 때에 사용하고 있던 레슬리 이펙트를, 코러스에서 사용하고 있다. 또, 당시의 사운드를 의식해서인지, CD의 레이블이 [레코드와](https://ko.wikipedia.org/wiki/축음기_음반 "wikilink") 같은 디자인으로 되어있다. 자켓과 PV는 [런던](https://ko.wikipedia.org/wiki/런던 "wikilink")에서 촬영됐다.
 
-전 싱글까지의 [뮤직비디오](https://ko.wikipedia.org/wiki/뮤직비디오 "wikilink")를 수록한 DVD 《[FIRST CUT](https://ko.wikipedia.org/wiki/FIRST_CUT "wikilink")》가 동시 발매됐다.
+전 싱글까지의 [뮤직비디오](https://ko.wikipedia.org/wiki/뮤직비디오 "wikilink")를 수록한 DVD 《[FIRST CUT](../Page/FIRST_CUT.md "wikilink")》가 동시 발매됐다.
 
 누계 매상 60만장.
 
@@ -51,8 +51,8 @@
 
 ## 수록음반
 
-  - [Perfect Crime](https://ko.wikipedia.org/wiki/Perfect_Crime "wikilink") (\#1,3)
-  - [Wish You The Best](https://ko.wikipedia.org/wiki/Wish_You_The_Best "wikilink") (\#1)
+  - [Perfect Crime](../Page/Perfect_Crime.md "wikilink") (\#1,3)
+  - [Wish You The Best](../Page/Wish_You_The_Best.md "wikilink") (\#1)
   - [ALL MY BEST](https://ko.wikipedia.org/wiki/ALL_MY_BEST "wikilink") (\#1)
   - [MAI KURAKI BEST 151A -LOVE & HOPE-](../Page/MAI_KURAKI_BEST_151A_-LOVE_&_HOPE-.md "wikilink") (\#1)
 

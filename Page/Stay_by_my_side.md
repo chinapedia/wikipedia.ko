@@ -34,7 +34,7 @@
 ## 수록 음반
 
   - [delicious way](https://ko.wikipedia.org/wiki/delicious_way "wikilink")(\#1)
-  - [Wish You The Best](https://ko.wikipedia.org/wiki/Wish_You_The_Best "wikilink")(\#1)
+  - [Wish You The Best](../Page/Wish_You_The_Best.md "wikilink")(\#1)
   - [ALL MY BEST](https://ko.wikipedia.org/wiki/ALL_MY_BEST "wikilink")(\#1)
   - [MAI KURAKI BEST 151A -LOVE & HOPE-](../Page/MAI_KURAKI_BEST_151A_-LOVE_&_HOPE-.md "wikilink")(\#1)
 

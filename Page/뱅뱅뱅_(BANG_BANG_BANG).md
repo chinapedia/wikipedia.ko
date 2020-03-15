@@ -11,7 +11,7 @@
 
 "뱅뱅뱅 (BANG BANG BANG)"은 2015년 발매 첫 주, 339,856 디지털 카피를 기록했다.\[2\] [가온 디지털 차트에서](https://ko.wikipedia.org/wiki/가온_디지털_차트 "wikilink") 1위를 차지했다.\[3\] "뱅뱅뱅 (BANG BANG BANG)"은 6월 말, 가온 디지털 월간 차트에서 681,111 디지털 카피를 판매하며 1위를 기록했다. 2015년 8월 13일 기준, 100만 디지털 카피를 돌파했다.
 
-이 노래는 이전의 *[M](../Page/M_\(빅뱅의_음반\).md "wikilink")*에 이어 빌보드 월드 디지털 송 차트에서 *[A](../Page/A_\(빅뱅의_음반\).md "wikilink")*에 수록 된 두 번 째 트랙의 "[We Like 2 Party](https://ko.wikipedia.org/wiki/We_Like_2_Party "wikilink")"와 나란히 1, 2위를 기록했으며,\[4\] 이는 월드 디지털 송 차트에서 [K-Pop](https://ko.wikipedia.org/wiki/K-Pop "wikilink") 가수로는 유일하게 2개의 1위 곡을 보유한 [싸이](https://ko.wikipedia.org/wiki/싸이 "wikilink")와 동률의 기록이다.\[5\] 또한, 프랑스 싱글 차트에서 194위로 데뷔해, 이것은 [K-Pop](https://ko.wikipedia.org/wiki/K-Pop "wikilink") 남자 가수 중에서 최초의 차트 진입이다.\[6\]
+이 노래는 이전의 *[M](../Page/M_\(빅뱅의_음반\).md "wikilink")*에 이어 빌보드 월드 디지털 송 차트에서 *[A](../Page/A_\(빅뱅의_음반\).md "wikilink")*에 수록 된 두 번 째 트랙의 "[We Like 2 Party](../Page/We_Like_2_Party.md "wikilink")"와 나란히 1, 2위를 기록했으며,\[4\] 이는 월드 디지털 송 차트에서 [K-Pop](https://ko.wikipedia.org/wiki/K-Pop "wikilink") 가수로는 유일하게 2개의 1위 곡을 보유한 [싸이](https://ko.wikipedia.org/wiki/싸이 "wikilink")와 동률의 기록이다.\[5\] 또한, 프랑스 싱글 차트에서 194위로 데뷔해, 이것은 [K-Pop](https://ko.wikipedia.org/wiki/K-Pop "wikilink") 남자 가수 중에서 최초의 차트 진입이다.\[6\]
 
 ## 평가
 

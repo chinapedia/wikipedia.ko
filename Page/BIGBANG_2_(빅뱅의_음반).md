@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BIGBANG 2 \( \)](https://ko.wikipedia.org/wiki/BIGBANG_2_\(_\)).
 
 
-《**BIGBANG 2**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악 그룹인 [빅뱅의](https://ko.wikipedia.org/wiki/빅뱅_\(음악_그룹\) "wikilink") [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") 세 번째 정규 앨범이다. 2011년 5월 11일에 발매 되었다. 이 음반은 세 장의 싱글; "[声をきかせて](https://ko.wikipedia.org/wiki/코에오키카세떼 "wikilink")", "[Tell Me Goodbye](https://ko.wikipedia.org/wiki/Tell_Me_Goodbye "wikilink")"와 "[Beautiful Hangover](https://ko.wikipedia.org/wiki/Beautiful_Hangover "wikilink")"이 수록 되어 있다. "声をきかせて", "Tell Me Goodbye"는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") [오리콘](https://ko.wikipedia.org/wiki/오리콘 "wikilink") 차트에서 TOP 5에, "Beautiful Hangover"는 TOP 10위안에 랭크인 되었다.
+《**BIGBANG 2**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악 그룹인 [빅뱅의](https://ko.wikipedia.org/wiki/빅뱅_\(음악_그룹\) "wikilink") [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") 세 번째 정규 앨범이다. 2011년 5월 11일에 발매 되었다. 이 음반은 세 장의 싱글; "[声をきかせて](https://ko.wikipedia.org/wiki/코에오키카세떼 "wikilink")", "[Tell Me Goodbye](../Page/Tell_Me_Goodbye.md "wikilink")"와 "[Beautiful Hangover](../Page/Beautiful_Hangover.md "wikilink")"이 수록 되어 있다. "声をきかせて", "Tell Me Goodbye"는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") [오리콘](https://ko.wikipedia.org/wiki/오리콘 "wikilink") 차트에서 TOP 5에, "Beautiful Hangover"는 TOP 10위안에 랭크인 되었다.
 
 ## 기획
 
@@ -9,7 +9,7 @@
 
 ## 싱글 발매
 
-이 음반은 세 장의 싱글들이 발표한 후 발매 되었다. "[声をきかせて](https://ko.wikipedia.org/wiki/코에오키카세떼 "wikilink")"는 2009년 11월 4일 발매 되었으며, 16주간 차트에 랭크인 하며 최고 순위 4위를 기록했다. "[Tell Me Goodbye](https://ko.wikipedia.org/wiki/Tell_Me_Goodbye "wikilink")"는 2010년 6월 9일 발매 되어, 15주간 차트에 랭크인하며 최고 순위 5위를 기록해 이전의 싱글과 동일한 성공을 거뒀다. 세 번째 싱글 "[Beautiful Hangover](https://ko.wikipedia.org/wiki/Beautiful_Hangover "wikilink")"는 8주간 차트에 랭크인하며 최고 순위 7위를 기록했다.\[2\]
+이 음반은 세 장의 싱글들이 발표한 후 발매 되었다. "[声をきかせて](https://ko.wikipedia.org/wiki/코에오키카세떼 "wikilink")"는 2009년 11월 4일 발매 되었으며, 16주간 차트에 랭크인 하며 최고 순위 4위를 기록했다. "[Tell Me Goodbye](../Page/Tell_Me_Goodbye.md "wikilink")"는 2010년 6월 9일 발매 되어, 15주간 차트에 랭크인하며 최고 순위 5위를 기록해 이전의 싱글과 동일한 성공을 거뒀다. 세 번째 싱글 "[Beautiful Hangover](../Page/Beautiful_Hangover.md "wikilink")"는 8주간 차트에 랭크인하며 최고 순위 7위를 기록했다.\[2\]
 
 2011년 4월 18일, [YG 엔터테인먼트는](https://ko.wikipedia.org/wiki/YG_엔터테인먼트 "wikilink") [유튜브](https://ko.wikipedia.org/wiki/유튜브 "wikilink")에 "Tonight"의 일본어 버전의 뮤직 비디오가 공개 하였으며, 2011년 4월 27일에 디지털 음원을 발매하였다. 다섯 번째 싱글, "Ms. Liar"는 앨범 발매와 동일한 날 음원이 발매 되었다.
 

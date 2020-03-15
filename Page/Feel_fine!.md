@@ -16,7 +16,7 @@
 ## 수록곡
 
 1.  **Feel fine\!** (4:50)
-      - 작사: 쿠라키 마이, 작곡 · 편곡: [토쿠나가 아키히토](https://ko.wikipedia.org/wiki/토쿠나가_아키히토 "wikilink")
+      - 작사: 쿠라키 마이, 작곡 · 편곡: [토쿠나가 아키히토](../Page/토쿠나가_아키히토.md "wikilink")
 2.  **Rescue Me** (4:26)
       - 작사: 쿠라키 마이, [YOKO Black. Stone](https://ko.wikipedia.org/wiki/YOKO_Black._Stone "wikilink"), 작곡 · 편곡: YOKO Black. Stone
 3.  **Mai-K Dub Edition (K.F.A. Discotheque Master Mix)** (5:04)
@@ -36,9 +36,9 @@
 
 ## 수록 음반
 
-  - [FAIRY TALE](https://ko.wikipedia.org/wiki/FAIRY_TALE_\(쿠라키_마이의_음반\) "wikilink") (\#1)
+  - [FAIRY TALE](../Page/FAIRY_TALE_\(쿠라키_마이의_음반\).md "wikilink") (\#1)
   - [GIZA studio Masterpiece BLEND 2002](https://ko.wikipedia.org/wiki/GIZA_studio_Masterpiece_BLEND_2002 "wikilink") (\#1)
-  - [Wish You The Best](https://ko.wikipedia.org/wiki/Wish_You_The_Best "wikilink") (\#1)
+  - [Wish You The Best](../Page/Wish_You_The_Best.md "wikilink") (\#1)
   - [GIZA studio 10th Anniversary Masterpiece BLEND: FUN Side](https://ko.wikipedia.org/wiki/GIZA_studio_10th_Anniversary_Masterpiece_BLEND_~FUN_Side~ "wikilink") (\#1)
   - [ALL MY BEST](https://ko.wikipedia.org/wiki/ALL_MY_BEST "wikilink") (\#1)
   - [MAI KURAKI BEST 151A -LOVE & HOPE-](../Page/MAI_KURAKI_BEST_151A_-LOVE_&_HOPE-.md "wikilink") (\#1)

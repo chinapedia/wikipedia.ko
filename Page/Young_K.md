@@ -84,15 +84,15 @@
 </tr>
 <tr class="even">
 <td><p>2016.11.21</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/업텐션" title="wikilink">업텐션</a>(UP10TION)</p></td>
+<td><p><a href="../Page/업텐션.md" title="wikilink">업텐션</a>(UP10TION)</p></td>
 <td><p><빠져가지고></p></td>
 <td><p>《BURST》</p></td>
 <td><ul>
-<li>작사 : <a href="https://ko.wikipedia.org/wiki/원필" title="wikilink">원필</a>, <a href="../Page/성진_(가수).md" title="wikilink">성진</a>, Young K, Daniel Kim<br />
+<li>작사 : <a href="../Page/원필.md" title="wikilink">원필</a>, <a href="../Page/성진_(가수).md" title="wikilink">성진</a>, Young K, Daniel Kim<br />
 </li>
-<li>작곡 : <a href="https://ko.wikipedia.org/wiki/원필" title="wikilink">원필</a>, <a href="../Page/성진_(가수).md" title="wikilink">성진</a>, Young K, Daniel Kim<br />
+<li>작곡 : <a href="../Page/원필.md" title="wikilink">원필</a>, <a href="../Page/성진_(가수).md" title="wikilink">성진</a>, Young K, Daniel Kim<br />
 </li>
-<li>편곡 : <a href="https://ko.wikipedia.org/wiki/원필" title="wikilink">원필</a>, Daniel Kim</li>
+<li>편곡 : <a href="../Page/원필.md" title="wikilink">원필</a>, Daniel Kim</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -120,9 +120,9 @@
 <td><p><Chocolate></p></td>
 <td><p>《<a href="https://ko.wikipedia.org/wiki/하지_말라면_더_하고_19" title="wikilink">하지 말라면 더 하고 19</a> Part.1》</p></td>
 <td><ul>
-<li>작사 : <a href="../Page/Jae.md" title="wikilink">Jae</a>, <a href="https://ko.wikipedia.org/wiki/원필" title="wikilink">원필</a>, <a href="https://ko.wikipedia.org/wiki/박진영" title="wikilink">박진영</a><br />
+<li>작사 : <a href="../Page/Jae.md" title="wikilink">Jae</a>, <a href="../Page/원필.md" title="wikilink">원필</a>, <a href="https://ko.wikipedia.org/wiki/박진영" title="wikilink">박진영</a><br />
 </li>
-<li>작곡 : <a href="../Page/Jae.md" title="wikilink">Jae</a>, <a href="https://ko.wikipedia.org/wiki/원필" title="wikilink">원필</a>, MAJORCODE, 문상선</li>
+<li>작곡 : <a href="../Page/Jae.md" title="wikilink">Jae</a>, <a href="../Page/원필.md" title="wikilink">원필</a>, MAJORCODE, 문상선</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -672,7 +672,7 @@ Featuring : Young K</p></td>
 </ul></td>
 <td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/애덤_리바인" title="wikilink">애덤 리바인</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_Happy_FM" title="wikilink">KBS Happy FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/행복한_두시_조성모입니다" title="wikilink">행복한 두시 조성모입니다</a></p></td>
+<td><p><a href="../Page/행복한_두시_조성모입니다.md" title="wikilink">행복한 두시 조성모입니다</a></p></td>
 <td><p>KBS KONG</p></td>
 </tr>
 <tr class="even">
@@ -705,7 +705,7 @@ Featuring : Young K</p></td>
 </ul></td>
 <td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/벳_미들러" title="wikilink">벳 미들러</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_Happy_FM" title="wikilink">KBS Happy FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/행복한_두시_조성모입니다" title="wikilink">행복한 두시 조성모입니다</a></p></td>
+<td><p><a href="../Page/행복한_두시_조성모입니다.md" title="wikilink">행복한 두시 조성모입니다</a></p></td>
 <td><p>KBS KONG</p></td>
 </tr>
 <tr class="odd">
@@ -814,7 +814,7 @@ Featuring : Young K</p></td>
 </ul></td>
 <td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/비틀즈" title="wikilink">비틀즈</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_Happy_FM" title="wikilink">KBS Happy FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/행복한_두시_조성모입니다" title="wikilink">행복한 두시 조성모입니다</a></p></td>
+<td><p><a href="../Page/행복한_두시_조성모입니다.md" title="wikilink">행복한 두시 조성모입니다</a></p></td>
 <td><p>KBS KONG</p></td>
 </tr>
 <tr class="odd">

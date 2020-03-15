@@ -36,7 +36,7 @@
           - **MASAYUME CHASING**은 보아의 36번째 동명의 싱글 타이틀 곡으로, 애니메이션 「[페어리 테일](https://ko.wikipedia.org/wiki/페어리_테일 "wikilink")」의 오프닝곡으로 사용되었다.
 10. The Shadow (Japanese Ver.)
       - (3:23) 작사: BoA / 작곡: Joe Belmaati
-          - **The Shadow (Japanese Ver.)**는 보아의 한국 정규 7집 《[Only One](https://ko.wikipedia.org/wiki/Only_One "wikilink")》의 수록곡이자 보아가 작사에 참여한 곡을 일본어로 번안한 곡으로 32번째 싱글 <Only One>의 수록곡이며, 뮤직비디오는 보아의 둘째오빠인 [권순욱](https://ko.wikipedia.org/wiki/권순욱 "wikilink") 감독이 제작하였다.
+          - **The Shadow (Japanese Ver.)**는 보아의 한국 정규 7집 《[Only One](https://ko.wikipedia.org/wiki/Only_One "wikilink")》의 수록곡이자 보아가 작사에 참여한 곡을 일본어로 번안한 곡으로 32번째 싱글 <Only One>의 수록곡이며, 뮤직비디오는 보아의 둘째오빠인 [권순욱](../Page/권순욱.md "wikilink") 감독이 제작하였다.
 11. Close To Me
       - (4:18) 작사: Akira　작곡: Ina Wroldsen
           - **Close To Me**는 보아의 35번째 싱글 〈[Shout It Out](https://ko.wikipedia.org/wiki/Shout_It_Out "wikilink")〉에 수록된 커플링 곡으로 미디엄 템포의 발라드 곡이다.
@@ -45,7 +45,7 @@
           - **Call My Name**은 보아의 34번째 싱글에 수록된 곡이다.
 13. Baby You..
       - (3:20) 작사: BoA / 작곡: BoA
-          - **Baby You..**는 보아가 첫번째 한국 단독 콘서트 '[BoA SPECIAL LIVE 2013 \~Here I Am\~](../Page/BoA_SPECIAL_LIVE_2013_~Here_I_Am~.md "wikilink")'을 기념하여 공개했던 디지털 싱글곡을 일본어로 번안한 곡으로, 보아의 33번째 싱글인 \<[Tail of Hope](https://ko.wikipedia.org/wiki/Tail_of_Hope "wikilink")\>에 수록된 곡이다.
+          - **Baby You..**는 보아가 첫번째 한국 단독 콘서트 '[BoA SPECIAL LIVE 2013 \~Here I Am\~](../Page/BoA_SPECIAL_LIVE_2013_~Here_I_Am~.md "wikilink")'을 기념하여 공개했던 디지털 싱글곡을 일본어로 번안한 곡으로, 보아의 33번째 싱글인 \<[Tail of Hope](../Page/Tail_of_Hope.md "wikilink")\>에 수록된 곡이다.
 14. Tail Of Hope
       - (3:51) 작사: Sara Sakurai / 작곡: Claire Rodrigues, Daniel Sherman, Andrew Gilbert
           - **Tail Of Hope**는 보아의 33번째 동명의 싱글의 타이틀 곡으로, 후지TV계 드라마 「백의의 눈물(白衣のなみだ)」 오프닝 테마로 사용되었다.

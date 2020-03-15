@@ -8,7 +8,7 @@
 ## 싱글 수록곡
 
 1.  **Like a star in the night** (5:36)
-      - 작사: 쿠라키 마이, 작곡: [오노 아이카](https://ko.wikipedia.org/wiki/오노_아이카 "wikilink"), 편곡: [토쿠나가 아키히토](https://ko.wikipedia.org/wiki/토쿠나가_아키히토 "wikilink"), 스트링스 어레인지: 이케다 다이스케
+      - 작사: 쿠라키 마이, 작곡: [오노 아이카](https://ko.wikipedia.org/wiki/오노_아이카 "wikilink"), 편곡: [토쿠나가 아키히토](../Page/토쿠나가_아키히토.md "wikilink"), 스트링스 어레인지: 이케다 다이스케
 2.  **Give me one more chance** (4:41)
       - 작사: 쿠라키 마이, 작곡: 오노 아이카, 편곡: DJ ME-YA
 3.  **Like a star in the night (a capella ver.)** (5:23)
@@ -26,8 +26,8 @@
 
 ## 수록 음반
 
-  - [FAIRY TALE](https://ko.wikipedia.org/wiki/FAIRY_TALE_\(쿠라키_마이의_음반\) "wikilink")
-  - [Wish You The Best](https://ko.wikipedia.org/wiki/Wish_You_The_Best "wikilink")
+  - [FAIRY TALE](../Page/FAIRY_TALE_\(쿠라키_마이의_음반\).md "wikilink")
+  - [Wish You The Best](../Page/Wish_You_The_Best.md "wikilink")
   - [ALL MY BEST](https://ko.wikipedia.org/wiki/ALL_MY_BEST "wikilink")
 
 [분류:쿠라키 마이의 노래](https://ko.wikipedia.org/wiki/분류:쿠라키_마이의_노래 "wikilink") [분류:2002년 싱글](https://ko.wikipedia.org/wiki/분류:2002년_싱글 "wikilink") [분류:2002년 노래](https://ko.wikipedia.org/wiki/분류:2002년_노래 "wikilink")

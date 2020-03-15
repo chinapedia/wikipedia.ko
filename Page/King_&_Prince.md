@@ -7,7 +7,7 @@
 
 2015년 6월 5일 [Mr.King vs Mr.Prince](https://ko.wikipedia.org/wiki/Mr.King_vs_Mr.Prince "wikilink") 라는 기간 한정 유닛을 결성, 2015년 8월 20일 정식 유닛이 되었으나, 2016년 이후 [Mr.KING](https://ko.wikipedia.org/wiki/Mr.KING "wikilink")과 [Prince](https://ko.wikipedia.org/wiki/Prince "wikilink") 라는 두 개의 유닛으로 나뉘어졌다.
 
-그러나 2018년 1월 17일 [King & Prince](https://ko.wikipedia.org/wiki/King_&_Prince "wikilink")(킹 앤 프린스)라는 그룹명으로 두 유닛이 다시 합쳐져 CD데뷔 결정이 발표되었다.
+그러나 2018년 1월 17일 [King & Prince](../Page/King_&_Prince.md "wikilink")(킹 앤 프린스)라는 그룹명으로 두 유닛이 다시 합쳐져 CD데뷔 결정이 발표되었다.
 
 ## 멤버
 

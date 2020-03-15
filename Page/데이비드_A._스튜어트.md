@@ -7,7 +7,7 @@
 
 유리스믹스 이전에 [더 투어리스트에서도](https://ko.wikipedia.org/wiki/더_투어리스트 "wikilink") [애니 레녹스와](https://ko.wikipedia.org/wiki/애니_레녹스 "wikilink") 함께했다.
 
-2004년에 [플래티넘 위어드를](https://ko.wikipedia.org/wiki/플래티넘_위어드 "wikilink") 결성해 주요 구성원으로 활동했다.
+2004년에 [플래티넘 위어드를](../Page/플래티넘_위어드.md "wikilink") 결성해 주요 구성원으로 활동했다.
 
 그는 '데이브 스튜어트'로 짧게 불리기도 하지만, 비슷한 이름을 쓰는 다른 음악가들과의 구별을 위해 공식적으로는 본명을 그대로 쓰고 있다.
 

@@ -60,9 +60,9 @@
 <td><p>〈Chocolate〉</p></td>
 <td><p>《<a href="https://ko.wikipedia.org/wiki/하지_말라면_더_하고_19" title="wikilink">하지 말라면 더 하고 19</a> Part.1》</p></td>
 <td><ul>
-<li>작사 : Jae, <a href="https://ko.wikipedia.org/wiki/원필" title="wikilink">원필</a>, <a href="https://ko.wikipedia.org/wiki/박진영" title="wikilink">박진영</a><br />
+<li>작사 : Jae, <a href="../Page/원필.md" title="wikilink">원필</a>, <a href="https://ko.wikipedia.org/wiki/박진영" title="wikilink">박진영</a><br />
 </li>
-<li>작곡 : Jae, <a href="https://ko.wikipedia.org/wiki/원필" title="wikilink">원필</a>, MAJORCODE, 문상선</li>
+<li>작곡 : Jae, <a href="../Page/원필.md" title="wikilink">원필</a>, MAJORCODE, 문상선</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -79,9 +79,9 @@
 <td><p>〈Good night〉</p></td>
 <td><p>《<a href="https://ko.wikipedia.org/wiki/진심이_닿다" title="wikilink">진심이 닿다</a> OST Part.5》</p></td>
 <td><ul>
-<li>작사 : Jae, <a href="https://ko.wikipedia.org/wiki/원필" title="wikilink">원필</a><br />
+<li>작사 : Jae, <a href="../Page/원필.md" title="wikilink">원필</a><br />
 </li>
-<li>작곡 : Jae, <a href="https://ko.wikipedia.org/wiki/원필" title="wikilink">원필</a>, MAJORCODE, 문상선</li>
+<li>작곡 : Jae, <a href="../Page/원필.md" title="wikilink">원필</a>, MAJORCODE, 문상선</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -114,8 +114,8 @@
 <td><p><a href="https://www.youtube.com/watch?v=34qg8wXpTJE">정세운 〈Good night〉</a><br />
 </p></td>
 <td><p>《<a href="https://ko.wikipedia.org/wiki/진심이_닿다" title="wikilink">진심이 닿다</a> OST Part.5》</p></td>
-<td><p>작사 : Jae, <a href="https://ko.wikipedia.org/wiki/원필" title="wikilink">원필</a><br />
-작곡 : Jae, <a href="https://ko.wikipedia.org/wiki/원필" title="wikilink">원필</a>, Majorcode, 문상선</p></td>
+<td><p>작사 : Jae, <a href="../Page/원필.md" title="wikilink">원필</a><br />
+작곡 : Jae, <a href="../Page/원필.md" title="wikilink">원필</a>, Majorcode, 문상선</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/원더케이" title="wikilink">원더케이</a></p></td>
 </tr>
 <tr class="even">
@@ -422,7 +422,7 @@
 </ul></td>
 <td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/비_지스" title="wikilink">비 지스</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_Happy_FM" title="wikilink">KBS Happy FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/행복한_두시_조성모입니다" title="wikilink">행복한 두시 조성모입니다</a></p></td>
+<td><p><a href="../Page/행복한_두시_조성모입니다.md" title="wikilink">행복한 두시 조성모입니다</a></p></td>
 <td><p>KBS KONG</p></td>
 </tr>
 <tr class="even">
@@ -455,7 +455,7 @@
 </ul></td>
 <td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/비틀즈" title="wikilink">비틀즈</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_Happy_FM" title="wikilink">KBS Happy FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/행복한_두시_조성모입니다" title="wikilink">행복한 두시 조성모입니다</a></p></td>
+<td><p><a href="../Page/행복한_두시_조성모입니다.md" title="wikilink">행복한 두시 조성모입니다</a></p></td>
 <td><p>KBS KONG</p></td>
 </tr>
 <tr class="odd">
@@ -487,7 +487,7 @@
 </ul></td>
 <td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/벳_미들러" title="wikilink">벳 미들러</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_Happy_FM" title="wikilink">KBS Happy FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/행복한_두시_조성모입니다" title="wikilink">행복한 두시 조성모입니다</a></p></td>
+<td><p><a href="../Page/행복한_두시_조성모입니다.md" title="wikilink">행복한 두시 조성모입니다</a></p></td>
 <td><p>KBS KONG</p></td>
 </tr>
 <tr class="even">
@@ -498,7 +498,7 @@
 </ul></td>
 <td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/애덤_리바인" title="wikilink">애덤 리바인</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_Happy_FM" title="wikilink">KBS Happy FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/행복한_두시_조성모입니다" title="wikilink">행복한 두시 조성모입니다</a></p></td>
+<td><p><a href="../Page/행복한_두시_조성모입니다.md" title="wikilink">행복한 두시 조성모입니다</a></p></td>
 <td><p>KBS KONG</p></td>
 </tr>
 <tr class="odd">

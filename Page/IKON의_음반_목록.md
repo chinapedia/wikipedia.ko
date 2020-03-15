@@ -40,7 +40,7 @@
 <p></ref></p></td>
 </tr>
 <tr class="even">
-<td><p><em><a href="https://ko.wikipedia.org/wiki/WELCOME_BACK" title="wikilink">WELCOME BACK</a></em></p></td>
+<td><p><em><a href="../Page/WELCOME_BACK.md" title="wikilink">WELCOME BACK</a></em></p></td>
 <td><ul>
 <li>발매일:
 <ul>
@@ -241,7 +241,7 @@
 <td><ul>
 <li>대한민국: 126,898[9]</li>
 </ul></td>
-<td><p><em><a href="https://ko.wikipedia.org/wiki/WELCOME_BACK" title="wikilink">WELCOME BACK</a></em></p></td>
+<td><p><em><a href="../Page/WELCOME_BACK.md" title="wikilink">WELCOME BACK</a></em></p></td>
 </tr>
 <tr class="odd">
 <td><p>"Welcome Back"</p></td>

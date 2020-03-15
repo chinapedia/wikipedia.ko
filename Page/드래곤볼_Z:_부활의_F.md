@@ -28,13 +28,13 @@
   - [소정환](https://ko.wikipedia.org/wiki/소정환 "wikilink"): 소르베
   - [최준영](https://ko.wikipedia.org/wiki/최준영 "wikilink"): 브리프
   - [김현구](https://ko.wikipedia.org/wiki/김현구 "wikilink"): 다고마
-  - [손수호](https://ko.wikipedia.org/wiki/손수호 "wikilink"): 시사미
+  - [손수호](../Page/손수호.md "wikilink"): 시사미
   - [이용신](https://ko.wikipedia.org/wiki/이용신 "wikilink"): 비델
   - [박경혜](https://ko.wikipedia.org/wiki/박경혜_\(성우\) "wikilink"): 18호
   - [시영준](https://ko.wikipedia.org/wiki/시영준 "wikilink"): 신룡
   - [이수진](https://ko.wikipedia.org/wiki/이수진_\(성우\) "wikilink"): 피라프
-  - [정유정](https://ko.wikipedia.org/wiki/정유정_\(성우\) "wikilink"): 슈
-  - [김가령](https://ko.wikipedia.org/wiki/김가령 "wikilink"): 마이
+  - [정유정](../Page/정유정_\(성우\).md "wikilink"): 슈
+  - [김가령](../Page/김가령.md "wikilink"): 마이
   - [최원형](https://ko.wikipedia.org/wiki/최원형 "wikilink"): 트랭크스/해설
 
 ## 외부 링크

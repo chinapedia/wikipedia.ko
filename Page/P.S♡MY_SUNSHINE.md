@@ -27,6 +27,6 @@
 
 ## 수록 음반
 
-  - [FUSE OF LOVE](https://ko.wikipedia.org/wiki/FUSE_OF_LOVE "wikilink") (\#1)
+  - [FUSE OF LOVE](../Page/FUSE_OF_LOVE.md "wikilink") (\#1)
 
 [분류:쿠라키 마이의 노래](https://ko.wikipedia.org/wiki/분류:쿠라키_마이의_노래 "wikilink") [분류:2005년 싱글](https://ko.wikipedia.org/wiki/분류:2005년_싱글 "wikilink") [분류:2005년 노래](https://ko.wikipedia.org/wiki/분류:2005년_노래 "wikilink")

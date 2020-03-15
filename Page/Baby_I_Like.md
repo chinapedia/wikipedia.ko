@@ -6,7 +6,7 @@
 ## 개요
 
   - 수록된 곡은 전부 커버곡이다.
-  - 명의는 쿠라키 마이가 아니고, ‘Mai-K’였다. 후에 발매된 전미 음반 《[Secret of my heart](https://ko.wikipedia.org/wiki/Secret_of_my_heart_\(음반\) "wikilink")》의 명의도 같다.
+  - 명의는 쿠라키 마이가 아니고, ‘Mai-K’였다. 후에 발매된 전미 음반 《[Secret of my heart](../Page/Secret_of_my_heart_\(음반\).md "wikilink")》의 명의도 같다.
   - 쿠라키 마이 명의(일본반)으로는 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [9월 9일에](https://ko.wikipedia.org/wiki/9월_9일 "wikilink") 발매된 《[ALL MY BEST](https://ko.wikipedia.org/wiki/ALL_MY_BEST "wikilink")》에 수록되었다.
   - 작곡자는 금후 쿠라키와 자주 협력하는 [YOKO Black. Stone이였다](https://ko.wikipedia.org/wiki/YOKO_Black._Stone "wikilink").
   - 현재는 폐반되었기 때문에 입수하는 것은 어렵다. \!

@@ -23,9 +23,9 @@
   - [사카이 마사토](https://ko.wikipedia.org/wiki/사카이_마사토 "wikilink") : 2016년에 방영하는 [NHK 대하드라마](https://ko.wikipedia.org/wiki/NHK_대하드라마 "wikilink") 『[사나다마루](../Page/사나다마루_\(드라마\).md "wikilink")』에서 주인공 [사나다 노부시게](https://ko.wikipedia.org/wiki/사나다_노부시게 "wikilink") 역.
   - [나가사와 마사미](https://ko.wikipedia.org/wiki/나가사와_마사미 "wikilink") : 『사나다마루』의 여주인공 키리 역.
   - [오오이즈미 요](https://ko.wikipedia.org/wiki/오오이즈미_요 "wikilink") : 『사나다마루』에서 [사나다 노부유키](https://ko.wikipedia.org/wiki/사나다_노부유키 "wikilink") 역 및 2015년 상반기 [연속 TV 소설](https://ko.wikipedia.org/wiki/연속_TV_소설 "wikilink") 『[마레](https://ko.wikipedia.org/wiki/마레 "wikilink")』에서 츠무라 토오루 역.
-  - [츠치야 타오](https://ko.wikipedia.org/wiki/츠치야_타오 "wikilink") : 『마레』의 히로인 츠무라 마레 역. 같은 해 [TBS 텔레비전](https://ko.wikipedia.org/wiki/TBS_텔레비전 "wikilink") 드라마 『[변두리 로켓](../Page/변두리_로켓.md "wikilink")』에서 츠쿠다 리나 역을 맡기도 했다.
+  - [츠치야 타오](https://ko.wikipedia.org/wiki/츠치야_타오 "wikilink") : 『마레』의 히로인 츠무라 마레 역. 같은 해 [TBS 텔레비전](../Page/TBS_텔레비전.md "wikilink") 드라마 『[변두리 로켓](../Page/변두리_로켓.md "wikilink")』에서 츠쿠다 리나 역을 맡기도 했다.
   - 미야케 히로미 : 2015년 세계 역도 선수권 대회 여자 48kg급에서 동메달 획득. [2016년 하계 올림픽](https://ko.wikipedia.org/wiki/2016년_하계_올림픽 "wikilink") 출장 내정.
-  - 우에하시 나오코 : 판타지소설 『鹿の王』로 제 12회 [서점 대상을](../Page/서점_대상.md "wikilink") 수상. 2016년에 [NHK 종합 텔레비전에서](https://ko.wikipedia.org/wiki/NHK_종합_텔레비전 "wikilink") 방영할 『[방송 90년 대하 판타지 「정령의 수호자」](https://ko.wikipedia.org/wiki/수호자_시리즈 "wikilink")』의 원작자.
+  - 우에하시 나오코 : 판타지소설 『鹿の王』로 제 12회 [서점 대상을](../Page/서점_대상.md "wikilink") 수상. 2016년에 [NHK 종합 텔레비전에서](https://ko.wikipedia.org/wiki/NHK_종합_텔레비전 "wikilink") 방영할 『[방송 90년 대하 판타지 「정령의 수호자」](../Page/수호자_시리즈.md "wikilink")』의 원작자.
   - 토코로 조지 : 탤런트로, NHK 종합 텔레비전의 교양 프로그램 『所さん\!大変ですよ』에 출연.
   - [아리무라 카스미](https://ko.wikipedia.org/wiki/아리무라_카스미 "wikilink") : 영화 『[스트롭 에지](../Page/스트롭_에지.md "wikilink")』, 『[불량소녀, 너를 응원해\!](https://ko.wikipedia.org/wiki/불량소녀,_너를_응원해! "wikilink")』에서 주연을 맡았다. 특히 『불량소녀, 너를 응원해\!』는 관객동원수 230만을 돌파한 대히트작이 되었다.
   - [마타요시 나오키](../Page/마타요시_나오키.md "wikilink") : 일본의 코미디언으로, 2015년 『火花』으로 소설가로 데뷔하였고, 제 153회 [아쿠타가와 류노스케 상을](https://ko.wikipedia.org/wiki/아쿠타가와_류노스케_상 "wikilink") 수상.

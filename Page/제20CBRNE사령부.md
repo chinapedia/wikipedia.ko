@@ -5,14 +5,14 @@
 
 2009년부터 [을지 프리덤 가디언](https://ko.wikipedia.org/wiki/을지_프리덤_가디언 "wikilink") 훈련에 참가하고 있으며, [대한민국 국군의](https://ko.wikipedia.org/wiki/대한민국_국군 "wikilink") [국군화생방방호사령부](../Page/국군화생방방호사령부.md "wikilink")와 합동으로 [JTF-E를](https://ko.wikipedia.org/wiki/:en:Joint_Task_Force_for_Elimination "wikilink") 편성하여 [조선민주주의인민공화국](https://ko.wikipedia.org/wiki/조선민주주의인민공화국 "wikilink")의 [대량살상무기](https://ko.wikipedia.org/wiki/대량살상무기 "wikilink")에 대응하는 연습을 한다.\[1\]\[2\]
 
-[제48화학여단](https://ko.wikipedia.org/wiki/제48화학여단 "wikilink") 예하 [제23화학대대](../Page/제23화학대대.md "wikilink")가 2013년 1월 7일부터 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink")의 [캠프 스탠리에](../Page/캠프_스탠리.md "wikilink") 배치되었다.
+[제48화학여단](../Page/제48화학여단.md "wikilink") 예하 [제23화학대대](../Page/제23화학대대.md "wikilink")가 2013년 1월 7일부터 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink")의 [캠프 스탠리에](../Page/캠프_스탠리.md "wikilink") 배치되었다.
 
 ## 편성
 
 [240px](https://ko.wikipedia.org/wiki/파일:20th_Support_Command_\(CBRNE\).png "wikilink")
 
   - 정규군
-      - [제48화학여단](https://ko.wikipedia.org/wiki/제48화학여단 "wikilink") - [포트 후드](https://ko.wikipedia.org/wiki/포트_후드 "wikilink")
+      - [제48화학여단](../Page/제48화학여단.md "wikilink") - [포트 후드](https://ko.wikipedia.org/wiki/포트_후드 "wikilink")
       - 제52병기단 (EOD) - [포트 캠벨](../Page/포트_캠벨.md "wikilink")
       - 제71병기단 (EOD) - [포트 카슨](https://ko.wikipedia.org/wiki/포트_카슨 "wikilink")
       - 제21병기중대 - [커트랜드 공군기지](https://ko.wikipedia.org/wiki/커트랜드_공군기지 "wikilink")

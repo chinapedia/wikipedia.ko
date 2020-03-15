@@ -56,8 +56,8 @@
   - 2015년 [비키니 워리어즈](https://ko.wikipedia.org/wiki/비키니_워리어즈 "wikilink")
   - 2015년 [베개 남자](https://ko.wikipedia.org/wiki/베개_남자 "wikilink") (Assez Finaund Fabric.과의 공동 제작)
   - 2015년 혈액형 군\! 3 (Assez Finaund Fabric., ZEXCS와의 공동 제작)
-  - 2016년 [다가시카시](https://ko.wikipedia.org/wiki/다가시카시 "wikilink")
-  - 2016년 [이 미술부에는 문제가 있다\!](https://ko.wikipedia.org/wiki/이_미술부에는_문제가_있다! "wikilink")
+  - 2016년 [다가시카시](../Page/다가시카시.md "wikilink")
+  - 2016년 [이 미술부에는 문제가 있다\!](../Page/이_미술부에는_문제가_있다!.md "wikilink")
 
 ### OVA
 

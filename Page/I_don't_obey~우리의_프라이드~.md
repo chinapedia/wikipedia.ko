@@ -19,7 +19,7 @@
     <!-- end list -->
       -
         한국어로 번역하면 “나는 복종하지 않는다”라는 뜻의 타이틀이다. 그 제목 대로 어른에게 의지하지 않고 자기자신의 힘으로 점점 나아가자고 아이들을 향한 메시지가 담긴 곡으로 되어 있다.
-        안무는 [KABA.짱](https://ko.wikipedia.org/wiki/KABA.짱 "wikilink")이 담당했다. 후에 발매된 미니 음반 《[RUN TO THE FUTURE](https://ko.wikipedia.org/wiki/RUN_TO_THE_FUTURE "wikilink")》에도 수록되어 있다.
+        안무는 [KABA.짱](https://ko.wikipedia.org/wiki/KABA.짱 "wikilink")이 담당했다. 후에 발매된 미니 음반 《[RUN TO THE FUTURE](../Page/RUN_TO_THE_FUTURE.md "wikilink")》에도 수록되어 있다.
 2.  **JUMPIN' TO THE SKY**
       - 작사: [Kiichi](https://ko.wikipedia.org/wiki/Kiichi "wikilink"), 작곡: [츠카다 료헤이](https://ko.wikipedia.org/wiki/츠카다_료헤이 "wikilink"), 편곡: [히라마 아키히코](https://ko.wikipedia.org/wiki/히라마_아키히코 "wikilink")
     <!-- end list -->

@@ -47,7 +47,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/CR_바스코_다_가마" title="wikilink">CR 바스코 다 가마</a></p></td>
 <td><p>4–2 승</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/대전_시티즌" title="wikilink">대</a> : <a href="https://ko.wikipedia.org/wiki/박성호_(1982년)" title="wikilink">박성호</a>, <a href="https://ko.wikipedia.org/wiki/권집" title="wikilink">권집</a> (3)<br />
-<a href="https://ko.wikipedia.org/wiki/CR_바스쿠_다_가마" title="wikilink">바</a> : 파이올리, <a href="https://ko.wikipedia.org/wiki/알레스_테이셰이라" title="wikilink">알레스 테이셰이라</a></p></td>
+<a href="https://ko.wikipedia.org/wiki/CR_바스쿠_다_가마" title="wikilink">바</a> : 파이올리, <a href="../Page/알레스_테이셰이라.md" title="wikilink">알레스 테이셰이라</a></p></td>
 <td><p>약 38,000명[2][3]</p></td>
 <td></td>
 </tr>
@@ -122,7 +122,7 @@
 <td><p>2016-06-24</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/AFC_튀비즈" title="wikilink">AFC 투비즈</a></p></td>
 <td><p>3-1승</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/대전_시티즌" title="wikilink">대</a> : <a href="../Page/진대성.md" title="wikilink">진대성</a>, <a href="https://ko.wikipedia.org/wiki/구스타부_사우에르" title="wikilink">구스타보</a>, <a href="https://ko.wikipedia.org/wiki/김은중" title="wikilink">김은중</a>[10]<br />
+<td><p><a href="https://ko.wikipedia.org/wiki/대전_시티즌" title="wikilink">대</a> : <a href="../Page/진대성.md" title="wikilink">진대성</a>, <a href="../Page/구스타부_사우에르.md" title="wikilink">구스타보</a>, <a href="https://ko.wikipedia.org/wiki/김은중" title="wikilink">김은중</a>[10]<br />
 <a href="https://ko.wikipedia.org/wiki/AFC_튀비즈" title="wikilink">튀</a> : <a href="https://ko.wikipedia.org/wiki/레반_셴겔리아" title="wikilink">레반</a></p></td>
 <td><p>약 13,625명[11][12]</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/김은중" title="wikilink">김은중</a> 은퇴 기념경기[13]</p></td>
@@ -186,7 +186,7 @@
 
 ## 그 외
 
-[2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") 개최된 [It's Daejeon 축구대회는](https://ko.wikipedia.org/wiki/It's_Daejeon_축구대회 "wikilink") 원래 2014시즌을 끝으로 은퇴한 대전의 레전드 선수였던 [김은중](https://ko.wikipedia.org/wiki/김은중 "wikilink")의 은퇴식을 치르기 위해 김은중이 코치로 있는 [AFC 튀비즈와](https://ko.wikipedia.org/wiki/AFC_튀비즈 "wikilink") [7월 17일](https://ko.wikipedia.org/wiki/7월_17일 "wikilink") 경기로 예정 되어있었으나,\[18\] [메르스](https://ko.wikipedia.org/wiki/메르스 "wikilink") 여파로 취소 되었으며,\[19\] [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [6월 24일](https://ko.wikipedia.org/wiki/6월_24일 "wikilink") 개최되었다. [섬네일](https://ko.wikipedia.org/wiki/파일:은퇴_판넬_앞_김은중.jpg "wikilink")\]\] 이날 경기서 김은중은 전반엔 코치로 튀비즈의 벤치에 있었고, 후반 대전의 선수로 교체출전해 헤딩골을 기록하였다.
+[2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") 개최된 [It's Daejeon 축구대회는](../Page/It's_Daejeon_축구대회.md "wikilink") 원래 2014시즌을 끝으로 은퇴한 대전의 레전드 선수였던 [김은중](https://ko.wikipedia.org/wiki/김은중 "wikilink")의 은퇴식을 치르기 위해 김은중이 코치로 있는 [AFC 튀비즈와](https://ko.wikipedia.org/wiki/AFC_튀비즈 "wikilink") [7월 17일](https://ko.wikipedia.org/wiki/7월_17일 "wikilink") 경기로 예정 되어있었으나,\[18\] [메르스](https://ko.wikipedia.org/wiki/메르스 "wikilink") 여파로 취소 되었으며,\[19\] [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [6월 24일](https://ko.wikipedia.org/wiki/6월_24일 "wikilink") 개최되었다. [섬네일](https://ko.wikipedia.org/wiki/파일:은퇴_판넬_앞_김은중.jpg "wikilink")\]\] 이날 경기서 김은중은 전반엔 코치로 튀비즈의 벤치에 있었고, 후반 대전의 선수로 교체출전해 헤딩골을 기록하였다.
 
 ## 대회 참가한 유명인
 
@@ -194,7 +194,7 @@
 
   - [오쿠보 요시토](https://ko.wikipedia.org/wiki/오쿠보_요시토 "wikilink") (2008)
 
-  - [알레스 테이셰이라](https://ko.wikipedia.org/wiki/알레스_테이셰이라 "wikilink") (2009)
+  - [알레스 테이셰이라](../Page/알레스_테이셰이라.md "wikilink") (2009)
 
   - [쿠티뉴](https://ko.wikipedia.org/wiki/필리피_코치뉴 "wikilink") (2009)
 

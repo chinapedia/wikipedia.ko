@@ -5,7 +5,7 @@
 
 ## 제작
 
-이 음반은 [2009년 6월](https://ko.wikipedia.org/wiki/2009년_6월 "wikilink") 빅뱅의 첫 일본 싱글 *[My Heaven](https://ko.wikipedia.org/wiki/My_Heaven "wikilink")*의 발표 이후\[3\] 발매 되었다.\[4\] 이 시기에 그들은 가벼운 성공을 거둔 두 번째 싱글 "[ガラガラ GO\!\!](https://ko.wikipedia.org/wiki/가라가라_고!! "wikilink")"을 발매하였고,\[5\]\[6\] 이 싱글은 30,000여장의 판매량을 기록했다.\[7\] 이 음반의 레코딩 작업은 7월에 마무리 되었고, 수록곡 *Love Club*은 유일하게 영어로 녹음되어 수록 되었다. 타이틀 곡 "With U" 뮤직비디오에는 탤런트 [오연서](https://ko.wikipedia.org/wiki/오연서 "wikilink")가 출연하였다.
+이 음반은 [2009년 6월](https://ko.wikipedia.org/wiki/2009년_6월 "wikilink") 빅뱅의 첫 일본 싱글 *[My Heaven](https://ko.wikipedia.org/wiki/My_Heaven "wikilink")*의 발표 이후\[3\] 발매 되었다.\[4\] 이 시기에 그들은 가벼운 성공을 거둔 두 번째 싱글 "[ガラガラ GO\!\!](../Page/가라가라_고!!.md "wikilink")"을 발매하였고,\[5\]\[6\] 이 싱글은 30,000여장의 판매량을 기록했다.\[7\] 이 음반의 레코딩 작업은 7월에 마무리 되었고, 수록곡 *Love Club*은 유일하게 영어로 녹음되어 수록 되었다. 타이틀 곡 "With U" 뮤직비디오에는 탤런트 [오연서](https://ko.wikipedia.org/wiki/오연서 "wikilink")가 출연하였다.
 
 ## 차트 성적
 

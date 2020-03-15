@@ -43,7 +43,7 @@
 ## 수록 음반
 
   - [delicious way](https://ko.wikipedia.org/wiki/delicious_way "wikilink")（\#1）
-  - [Wish You The Best](https://ko.wikipedia.org/wiki/Wish_You_The_Best "wikilink")（\#1）
+  - [Wish You The Best](../Page/Wish_You_The_Best.md "wikilink")（\#1）
   - [ALL MY BEST](https://ko.wikipedia.org/wiki/ALL_MY_BEST "wikilink")（\#1）
 
 [분류:쿠라키 마이의 노래](https://ko.wikipedia.org/wiki/분류:쿠라키_마이의_노래 "wikilink") [분류:2000년 싱글](https://ko.wikipedia.org/wiki/분류:2000년_싱글 "wikilink") [분류:2000년 노래](https://ko.wikipedia.org/wiki/분류:2000년_노래 "wikilink")

@@ -105,7 +105,7 @@ Disc 2 : 56분 46초 | 레이블 = [기자 스튜디오](https://ko.wikipedia.or
       -
         16번째 싱글
 3.  **[mysterious love](https://ko.wikipedia.org/wiki/mysterious_love "wikilink")**
-      - 작사 · 작곡: 코마츠 미호, 편곡: [토쿠나가 아키히토](https://ko.wikipedia.org/wiki/토쿠나가_아키히토 "wikilink")
+      - 작사 · 작곡: 코마츠 미호, 편곡: [토쿠나가 아키히토](../Page/토쿠나가_아키히토.md "wikilink")
     <!-- end list -->
       -
         17번째 싱글

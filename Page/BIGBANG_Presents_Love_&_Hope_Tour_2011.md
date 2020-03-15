@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BIGBANG Presents Love \& Hope Tour 2011](https://ko.wikipedia.org/wiki/BIGBANG_Presents_Love_\&_Hope_Tour_2011).
 
 
-**BIGBANG Presents Love & Hope Tour 2011**는 [빅뱅의](https://ko.wikipedia.org/wiki/빅뱅_\(음악_그룹\) "wikilink") 세 번째 일본 투어로,\[1\] 그들의 일본 세 번째 정규 앨범 *[BIGBANG 2](https://ko.wikipedia.org/wiki/BIGBANG_2_\(빅뱅의_음반\) "wikilink")* 발매 이후 개최 되었으며 총 11만명의 관객을 동원했다. 이 투어의 제목은 당초 *Love & Pain Tour* 였지만, [도호쿠 지방 태평양 해역 지진이](https://ko.wikipedia.org/wiki/도호쿠_지방_태평양_해역_지진 "wikilink") 발생한 이후 변경되었다. 또한 공연의 수익금의 일부는 재난 구호금으로 기부되었다.
+**BIGBANG Presents Love & Hope Tour 2011**는 [빅뱅의](https://ko.wikipedia.org/wiki/빅뱅_\(음악_그룹\) "wikilink") 세 번째 일본 투어로,\[1\] 그들의 일본 세 번째 정규 앨범 *[BIGBANG 2](../Page/BIGBANG_2_\(빅뱅의_음반\).md "wikilink")* 발매 이후 개최 되었으며 총 11만명의 관객을 동원했다. 이 투어의 제목은 당초 *Love & Pain Tour* 였지만, [도호쿠 지방 태평양 해역 지진이](https://ko.wikipedia.org/wiki/도호쿠_지방_태평양_해역_지진 "wikilink") 발생한 이후 변경되었다. 또한 공연의 수익금의 일부는 재난 구호금으로 기부되었다.
 
 ## 투어 일정
 

@@ -13,7 +13,7 @@
 
 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink")에, [쇼가쿠칸](https://ko.wikipedia.org/wiki/쇼가쿠칸 "wikilink")의 〈[우라 선데이](https://ko.wikipedia.org/wiki/우라_선데이 "wikilink")〉에서 《[모브사이코 100](https://ko.wikipedia.org/wiki/모브사이코_100 "wikilink")》의 연재를 시작한다.
 
-[2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [6월](https://ko.wikipedia.org/wiki/6월 "wikilink")에, [슈에이샤](https://ko.wikipedia.org/wiki/슈에이샤 "wikilink")의 〈[이웃집 영 점프](https://ko.wikipedia.org/wiki/이웃집_영_점프 "wikilink")〉에서 《[마계 아저씨](https://ko.wikipedia.org/wiki/마계의_아저씨 "wikilink")》의 연재를 시작한다. 또, 같은 사이트에서 [무라타 유스케의](https://ko.wikipedia.org/wiki/무라타_유스케 "wikilink") 작화로 그려진 《[원펀맨](../Page/원펀맨.md "wikilink")》의 리메이크판도 연재가 시작된다.
+[2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [6월](https://ko.wikipedia.org/wiki/6월 "wikilink")에, [슈에이샤](https://ko.wikipedia.org/wiki/슈에이샤 "wikilink")의 〈[이웃집 영 점프](https://ko.wikipedia.org/wiki/이웃집_영_점프 "wikilink")〉에서 《[마계 아저씨](https://ko.wikipedia.org/wiki/마계의_아저씨 "wikilink")》의 연재를 시작한다. 또, 같은 사이트에서 [무라타 유스케의](../Page/무라타_유스케.md "wikilink") 작화로 그려진 《[원펀맨](../Page/원펀맨.md "wikilink")》의 리메이크판도 연재가 시작된다.
 
 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink")에, 《원펀맨》이, [12월](https://ko.wikipedia.org/wiki/12월 "wikilink")에는 《모브사이코 100》의 애니메이션화가 각각 발표되었다.
 

@@ -19,7 +19,7 @@
 \- [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [5월](https://ko.wikipedia.org/wiki/5월 "wikilink") TG BIG Display 80 출시
 \- [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [10월](https://ko.wikipedia.org/wiki/10월 "wikilink") TG BIG Display 70 UHD 출시
 \- [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [9월](https://ko.wikipedia.org/wiki/9월 "wikilink") '[루나폰](https://ko.wikipedia.org/wiki/루나폰 "wikilink")' (스마트폰)출시
-\- [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink") '[루나 워치](https://ko.wikipedia.org/wiki/루나_워치 "wikilink")' (스마트 워치)출시
+\- [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink") '[루나 워치](../Page/루나_워치.md "wikilink")' (스마트 워치)출시
 
 ## 외부 링크
 
