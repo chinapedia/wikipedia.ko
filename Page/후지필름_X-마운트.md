@@ -17,7 +17,7 @@
   - [후지필름 X-M1](../Page/후지필름_X-M1.md "wikilink")
   - [후지필름 X-Pro1](../Page/후지필름_X-Pro1.md "wikilink")
   - [후지필름 X-Pro2](https://ko.wikipedia.org/wiki/후지필름_X-Pro2 "wikilink")
-  - [후지필름 X-T1](https://ko.wikipedia.org/wiki/후지필름_X-T1 "wikilink")
+  - [후지필름 X-T1](../Page/후지필름_X-T1.md "wikilink")
   - [후지필름 X-T2](https://ko.wikipedia.org/wiki/후지필름_X-T2 "wikilink")
   - [후지필름 X-T10](https://ko.wikipedia.org/wiki/후지필름_X-T10 "wikilink")
   - [후지필름 X-T20](https://ko.wikipedia.org/wiki/후지필름_X-T20 "wikilink")

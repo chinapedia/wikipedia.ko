@@ -18,11 +18,11 @@
 <td><p><strong></strong>, <a href="https://ko.wikipedia.org/wiki/효고현" title="wikilink">효고현</a> 출신</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/하마다_타카히로" title="wikilink">하마다 타카히로</a> <small>()</small></p></td>
+<td><p><a href="../Page/하마다_타카히로.md" title="wikilink">하마다 타카히로</a> <small>()</small></p></td>
 <td><p>, 효고 현 출신</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/키리야마_아키토" title="wikilink">키리야마 아키토</a> <small>()</small></p></td>
+<td><p><a href="../Page/키리야마_아키토.md" title="wikilink">키리야마 아키토</a> <small>()</small></p></td>
 <td><p>, <a href="https://ko.wikipedia.org/wiki/오사카부" title="wikilink">오사카부</a> 출신</p></td>
 </tr>
 <tr class="even">
@@ -50,9 +50,9 @@
 
 [칸사이 쟈니즈 Jr.](https://ko.wikipedia.org/wiki/자니스_주니어 "wikilink") 출신자로 결성된 그룹의 데뷔는 [칸쟈니∞](https://ko.wikipedia.org/wiki/칸쟈니∞ "wikilink") 이래 10년 만이다\[7\]. 또 〈쟈니즈〉를 포함하는 그룹명은 초대 쟈니즈 이래로\[8\]</ref>, 멤버로부터의 강한 요망을 받아 쟈니 키타가와가 정했다\[9\].
 
-2014년 [2월 5일부터](https://ko.wikipedia.org/wiki/2월_5일 "wikilink") 28일까지 첫 주연 무대 《나니와 사무라이 도쿄 대면\!\!》을 닛세이 극장에서 개최\[10\]</ref>(후에 발표된 정식 명칭은 《나니와 사무라이 헬로 도쿄\!\!》\[11\]). 이 무대의 첫날인 2월 5일, 총연습 회견에서, [하마다 타카히로](https://ko.wikipedia.org/wiki/하마다_타카히로 "wikilink")·[카미야마 토모히로](https://ko.wikipedia.org/wiki/카미야마_토모히로 "wikilink")·[후지이 류세이의](https://ko.wikipedia.org/wiki/후지이_류세이 "wikilink") 3명이 새로운 멤버로서 더해져, 7인조로 활동해가는 것을 발표\[12\]\[13\]. 당초 멤버 4명이 쟈니 키타가와를 설득해, 3명의 가입을 실현했다는 것도 밝혔다\[14\]\[15\]. 그 후의 공연 본방에서는, 그룹이 4명에서 7명으로 발전하는 스토리를 관객에게 피로했다\[16\]\[17\].
+2014년 [2월 5일부터](https://ko.wikipedia.org/wiki/2월_5일 "wikilink") 28일까지 첫 주연 무대 《나니와 사무라이 도쿄 대면\!\!》을 닛세이 극장에서 개최\[10\]</ref>(후에 발표된 정식 명칭은 《나니와 사무라이 헬로 도쿄\!\!》\[11\]). 이 무대의 첫날인 2월 5일, 총연습 회견에서, [하마다 타카히로](../Page/하마다_타카히로.md "wikilink")·[카미야마 토모히로](https://ko.wikipedia.org/wiki/카미야마_토모히로 "wikilink")·[후지이 류세이의](https://ko.wikipedia.org/wiki/후지이_류세이 "wikilink") 3명이 새로운 멤버로서 더해져, 7인조로 활동해가는 것을 발표\[12\]\[13\]. 당초 멤버 4명이 쟈니 키타가와를 설득해, 3명의 가입을 실현했다는 것도 밝혔다\[14\]\[15\]. 그 후의 공연 본방에서는, 그룹이 4명에서 7명으로 발전하는 스토리를 관객에게 피로했다\[16\]\[17\].
 
-이 무대에서 피로하는 10 \~ 13곡 중에서 팬 투표로 데뷔곡을 정해\[18\]</ref>, 4월에 데뷔 싱글을 발매할 예정이다\[19\]. 그 후, 〈[좋지 않은가](https://ko.wikipedia.org/wiki/좋지_않은가 "wikilink")〉가 데뷔곡으로 결정되었고, 4월 23일에 발매하게 되었다.
+이 무대에서 피로하는 10 \~ 13곡 중에서 팬 투표로 데뷔곡을 정해\[18\]</ref>, 4월에 데뷔 싱글을 발매할 예정이다\[19\]. 그 후, 〈[좋지 않은가](../Page/좋지_않은가.md "wikilink")〉가 데뷔곡으로 결정되었고, 4월 23일에 발매하게 되었다.
 
 ## 음반 목록
 
@@ -298,7 +298,7 @@
 
   - 하피쿠룻\! ([칸사이 TV](https://ko.wikipedia.org/wiki/간사이_TV_방송 "wikilink"))
   - 칸쟈니∞의 쟈니벤 (칸사이 TV)
-  - [리틀 도쿄 라이브→리틀 도쿄 라이프](https://ko.wikipedia.org/wiki/리틀_도쿄_라이프 "wikilink") ([TV 도쿄](https://ko.wikipedia.org/wiki/TV_도쿄 "wikilink"))
+  - [리틀 도쿄 라이브→리틀 도쿄 라이프](../Page/리틀_도쿄_라이프.md "wikilink") ([TV 도쿄](https://ko.wikipedia.org/wiki/TV_도쿄 "wikilink"))
 
 ### 라디오
 

@@ -5,18 +5,18 @@
 
 ## [채널A의 뉴스 프로그램](https://ko.wikipedia.org/wiki/채널A의_뉴스_프로그램 "wikilink")
 
-  - [채널A 뉴스특급](https://ko.wikipedia.org/wiki/채널A_뉴스특급 "wikilink")
+  - [채널A 뉴스특급](../Page/채널A_뉴스특급.md "wikilink")
   - [채널A 뉴스 TOP 10](../Page/채널A_뉴스_TOP_10.md "wikilink")
   - [채널A 종합뉴스](../Page/채널A_종합뉴스.md "wikilink")
   - [채널A 뉴스 스테이션](../Page/채널A_뉴스_스테이션.md "wikilink")
-  - [채널A 뉴스뱅크](https://ko.wikipedia.org/wiki/채널A_뉴스뱅크 "wikilink")
+  - [채널A 뉴스뱅크](../Page/채널A_뉴스뱅크.md "wikilink")
 
 ## 동시간대 경쟁 프로그램
 
   - [JTBC 뉴스 아침&](../Page/JTBC_뉴스_아침&.md "wikilink") ([JTBC](https://ko.wikipedia.org/wiki/JTBC "wikilink"))
   - [굿모닝 MBN](https://ko.wikipedia.org/wiki/굿모닝_MBN "wikilink") ([MBN](https://ko.wikipedia.org/wiki/매일방송 "wikilink"))
   - [KBS 뉴스광장](https://ko.wikipedia.org/wiki/KBS_뉴스광장 "wikilink") ([KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink"))
-  - [2TV 아침](https://ko.wikipedia.org/wiki/2TV_아침 "wikilink") ([KBS 2TV](https://ko.wikipedia.org/wiki/KBS_2TV "wikilink"))
+  - [2TV 아침](../Page/2TV_아침.md "wikilink") ([KBS 2TV](https://ko.wikipedia.org/wiki/KBS_2TV "wikilink"))
   - [MBC 뉴스투데이](https://ko.wikipedia.org/wiki/MBC_뉴스투데이 "wikilink") ([MBC](https://ko.wikipedia.org/wiki/MBC "wikilink"))
   - [모닝와이드](https://ko.wikipedia.org/wiki/모닝와이드 "wikilink") ([SBS](https://ko.wikipedia.org/wiki/SBS "wikilink"))
   - [경제와이드 모닝벨](https://ko.wikipedia.org/wiki/경제와이드_모닝벨 "wikilink") (SBS CNBC)

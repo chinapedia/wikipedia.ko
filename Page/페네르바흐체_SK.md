@@ -6,7 +6,7 @@
 ## 팀 목록
 
   - [페네르바흐체 SK (축구)](https://ko.wikipedia.org/wiki/페네르바흐체_SK_\(축구\) "wikilink")
-  - [페네르바흐체 (농구)](https://ko.wikipedia.org/wiki/페네르바흐체_\(농구\) "wikilink")
+  - [페네르바흐체 (농구)](../Page/페네르바흐체_\(농구\).md "wikilink")
   - [페네르바흐체 (여자 농구)](https://ko.wikipedia.org/wiki/페네르바흐체_\(여자_농구\) "wikilink")
   - [페네르바흐체 (배구)](https://ko.wikipedia.org/wiki/페네르바흐체_\(배구\) "wikilink")
   - [페네르바흐체 (여자 배구)](https://ko.wikipedia.org/wiki/페네르바흐체_\(여자_배구\) "wikilink")

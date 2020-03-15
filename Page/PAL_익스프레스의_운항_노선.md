@@ -32,7 +32,7 @@
           - [레가스피](https://ko.wikipedia.org/wiki/레가스피 "wikilink") - [레가스피 공항](https://ko.wikipedia.org/wiki/레가스피_공항 "wikilink")
           - [마스바티](https://ko.wikipedia.org/wiki/마스바티 "wikilink") - [모리스 R. 에스피노사 공항](https://ko.wikipedia.org/wiki/모리스_R._에스피노사_공항 "wikilink")
           - [부우앙가](https://ko.wikipedia.org/wiki/부우앙가 "wikilink") - [프란시스코 레이즈 공항](https://ko.wikipedia.org/wiki/프란시스코_레이즈_공항 "wikilink")
-          - [산호세](https://ko.wikipedia.org/wiki/산호세_\(서민도로_주\) "wikilink") - [산호세 공항](https://ko.wikipedia.org/wiki/산호세_공항_\(민도로_섬\) "wikilink")
+          - [산호세](../Page/산호세_\(서민도로_주\).md "wikilink") - [산호세 공항](https://ko.wikipedia.org/wiki/산호세_공항_\(민도로_섬\) "wikilink")
       - **[민다나오 섬](https://ko.wikipedia.org/wiki/민다나오_섬 "wikilink")**
           - [다바오](https://ko.wikipedia.org/wiki/다바오 "wikilink") - [프란시스코 방고이 국제공항](https://ko.wikipedia.org/wiki/프란시스코_방고이_국제공항 "wikilink") **허브**
           - [삼보앙가](https://ko.wikipedia.org/wiki/삼보앙가 "wikilink") - [삼보앙가 국제공항](https://ko.wikipedia.org/wiki/삼보앙가_국제공항 "wikilink") **허브**

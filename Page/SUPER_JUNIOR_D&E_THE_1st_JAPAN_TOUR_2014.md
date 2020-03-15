@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [SUPER JUNIOR D\&E THE 1st JAPAN TOUR 2014](https://ko.wikipedia.org/wiki/SUPER_JUNIOR_D\&E_THE_1st_JAPAN_TOUR_2014).
 
 
-《**SUPER JUNIOR D\&E THE 1st JAPAN TOUR 2014**》는 [슈퍼주니어-D\&E](https://ko.wikipedia.org/wiki/슈퍼주니어-D&E "wikilink")의 첫번째 일본 전국 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").
+《**SUPER JUNIOR D\&E THE 1st JAPAN TOUR 2014**》는 [슈퍼주니어-D\&E](../Page/슈퍼주니어-D&E.md "wikilink")의 첫번째 일본 전국 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").
 
 ## 개요
 
-2013년 11월 15일, [슈퍼주니어](https://ko.wikipedia.org/wiki/슈퍼주니어 "wikilink")는 [SUPER SHOW 5의](https://ko.wikipedia.org/wiki/SUPER_SHOW_5 "wikilink") 오사카 공연을 통해 슈퍼주니어의 유닛 '[슈퍼주니어-D\&E](https://ko.wikipedia.org/wiki/슈퍼주니어-D&E "wikilink")'의 정규 앨범 발매와 전국 투어 계획을 발표하여 현지 팬들과 언론의 큰 기대를 모았다.\[1\] 슈퍼주니어의 유닛 콘서트임에도 불구하고 현지 팬들의 반응이 뜨거워 본래 19회로 예정되어 있었던 공연이 3회 추가되었다.
+2013년 11월 15일, [슈퍼주니어](https://ko.wikipedia.org/wiki/슈퍼주니어 "wikilink")는 [SUPER SHOW 5의](../Page/SUPER_SHOW_5.md "wikilink") 오사카 공연을 통해 슈퍼주니어의 유닛 '[슈퍼주니어-D\&E](../Page/슈퍼주니어-D&E.md "wikilink")'의 정규 앨범 발매와 전국 투어 계획을 발표하여 현지 팬들과 언론의 큰 기대를 모았다.\[1\] 슈퍼주니어의 유닛 콘서트임에도 불구하고 현지 팬들의 반응이 뜨거워 본래 19회로 예정되어 있었던 공연이 3회 추가되었다.
 
 ## 투어 일정
 
@@ -45,7 +45,7 @@
 
 ## 제작
 
-  - [슈퍼주니어-D\&E](https://ko.wikipedia.org/wiki/슈퍼주니어-D&E "wikilink") ([은혁](https://ko.wikipedia.org/wiki/은혁 "wikilink"), [동해](https://ko.wikipedia.org/wiki/동해_\(가수\) "wikilink"))
+  - [슈퍼주니어-D\&E](../Page/슈퍼주니어-D&E.md "wikilink") ([은혁](https://ko.wikipedia.org/wiki/은혁 "wikilink"), [동해](https://ko.wikipedia.org/wiki/동해_\(가수\) "wikilink"))
   - 기획·제작 : [에이벡스 엔터테인먼트](https://ko.wikipedia.org/wiki/에이벡스_엔터테인먼트 "wikilink"), SM 엔터테인먼트 재팬
   - 총연출 : 오오쿠보 마사오
 

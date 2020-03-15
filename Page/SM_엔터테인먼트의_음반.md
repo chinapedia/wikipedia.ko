@@ -24,32 +24,32 @@
   - 1994년 8월 15일 J\&J - **Guitar And Dance Single 1**
   - 1995년 ?월 ?일 틴틴파이브 - **Here We Go**
   - 1995년 ?월 ?일 The Blue - **The Blue**
-  - 1995년 5월 ?일 한동준 - **[한동준 3집](https://ko.wikipedia.org/wiki/한동준_3집 "wikilink")**
+  - 1995년 5월 ?일 한동준 - **[한동준 3집](../Page/한동준_3집.md "wikilink")**
   - 1995년 9월 ?일 유영진 - **Blue Rhythm**
   - 1996년 5월 1일 [윤상](https://ko.wikipedia.org/wiki/윤상 "wikilink") - **[Renacimiento](https://ko.wikipedia.org/wiki/Renacimiento "wikilink")**
   - 1996년 8월 1일 김민종 - **천국의 슬픔 (귀천도애)**
-  - 1996년 9월 7일 [H.O.T.](https://ko.wikipedia.org/wiki/H.O.T. "wikilink") - **[We Hate All Kinds of VIolence...](https://ko.wikipedia.org/wiki/We_Hate_All_Kinds_of_VIolence... "wikilink")**
+  - 1996년 9월 7일 [H.O.T.](https://ko.wikipedia.org/wiki/H.O.T. "wikilink") - **[We Hate All Kinds of VIolence...](../Page/We_Hate_All_Kinds_of_VIolence....md "wikilink")**
   - 1996년 11월 25일 [이지훈](https://ko.wikipedia.org/wiki/이지훈_\(1979년\) "wikilink") - **Rhythm Paradise**
-  - 1997년 7월 5일 H.O.T. - **[Wolf and Sheep](https://ko.wikipedia.org/wiki/Wolf_and_Sheep "wikilink")**
+  - 1997년 7월 5일 H.O.T. - **[Wolf and Sheep](../Page/Wolf_and_Sheep.md "wikilink")**
   - 1997년 10월 17일 이지훈 - **Love & Forever**
   - 1997년 11월 ?일 김민종 - **Dreams Come True (Live Best)**
   - 1997년 12월 24일 [S.E.S.](https://ko.wikipedia.org/wiki/S.E.S. "wikilink") - **[I'm Your Girl](https://ko.wikipedia.org/wiki/I'm_Your_Girl "wikilink")**
   - 1998년 4월 1일 윤상 - **[Insensible](https://ko.wikipedia.org/wiki/Insensible "wikilink")**
   - 1998년 5월 5일 김민종 - **사랑 (愛)**
-  - 1998년 5월 9일 [신화](https://ko.wikipedia.org/wiki/신화_\(가수\) "wikilink") - **[해결사](https://ko.wikipedia.org/wiki/신화_\(음반\) "wikilink")**
+  - 1998년 5월 9일 [신화](https://ko.wikipedia.org/wiki/신화_\(가수\) "wikilink") - **[해결사](../Page/신화_\(음반\).md "wikilink")**
   - 1998년 6월 5일 이지훈 - **Man**
-  - 1998년 7월 15일 [배드 보이스 써클](https://ko.wikipedia.org/wiki/배드_보이스_써클 "wikilink") - **[B-BOYS\`C](https://ko.wikipedia.org/wiki/B-BOYS\`C "wikilink")**
+  - 1998년 7월 15일 [배드 보이스 써클](https://ko.wikipedia.org/wiki/배드_보이스_써클 "wikilink") - **[B-BOYS\`C](../Page/B-BOYS\`C.md "wikilink")**
   - 1998년 9월 25일 H.O.T. - **[Resurrection](https://ko.wikipedia.org/wiki/Resurrection_\(H.O.T.의_음반\) "wikilink")**
   - 1998년 11월 23일 S.E.S. - **[Sea & Eugene & Shoo](https://ko.wikipedia.org/wiki/Sea_&_Eugene_&_Shoo "wikilink")**
   - 1999년 3월 3일 김민종 - **카르마(인연)**
   - 1999년 3월 10일 S.E.S. - **Reach Out (Japanese Album)**\[2\]
   - 1999년 4월 ?일 H.O.T. - **Greatest H.O.T. Hits Song Collection Live**
   - 1999년 4월 15일 신화 - **T.O.P (Twinkle Of Paradise)**
-  - 1999년 9월 15일 H.O.T. - **[I yah\!](https://ko.wikipedia.org/wiki/I_yah! "wikilink")**
+  - 1999년 9월 15일 H.O.T. - **[I yah\!](../Page/I_yah!.md "wikilink")**
   - 1999년 10월 29일 S.E.S. - **[Love](https://ko.wikipedia.org/wiki/Love_\(S.E.S.의_음반\) "wikilink")**
   - 1999년 12월 1일 SM TOWN - **Christmas in SMTOWN.com**
   - 1999년 12월 8일 S.E.S. - **Sing Of Love/Miracle**
-  - 1999년 12월 14일 [플라이 투 더 스카이](https://ko.wikipedia.org/wiki/플라이_투_더_스카이 "wikilink") - **[Fly To The Sky](https://ko.wikipedia.org/wiki/Day_by_Day_\(플라이_투_더_스카이의_음반\) "wikilink")**
+  - 1999년 12월 14일 [플라이 투 더 스카이](https://ko.wikipedia.org/wiki/플라이_투_더_스카이 "wikilink") - **[Fly To The Sky](../Page/Day_by_Day_\(플라이_투_더_스카이의_음반\).md "wikilink")**
 
 ## 2000년대
 
@@ -132,7 +132,7 @@
   - 2003년 6월 23일 SM TOWN - **2003 Summer Vaction in SMTown.Com**
   - 2003년 7월 7일 플라이 투 더 스카이 - **Missing You**
   - 2003년 8월 ?일 보아 - **Next World**
-  - 2003년 9월 25일 [S](https://ko.wikipedia.org/wiki/S_\(음악_그룹\) "wikilink") - **Fr.in.Cl**
+  - 2003년 9월 25일 [S](../Page/S_\(음악_그룹\).md "wikilink") - **Fr.in.Cl**
   - 2003년 10월 1일 다나 - **[남겨둔 이야기](https://ko.wikipedia.org/wiki/남겨둔_이야기 "wikilink")**
   - 2003년 10월 7일 신화 - **The Everlasting Mytholog 2003 2nd concert**
   - 2003년 10월 23일 보아 - **\[Digital Single\] [DOUBLE](https://ko.wikipedia.org/wiki/DOUBLE "wikilink")**
@@ -160,7 +160,7 @@
   - 2004년 7월 27일 추가열 - **애모**
   - 2004년 9월 1일 보아 - **\[Digital Single\] [QUINCY/コノヨノシルシ](https://ko.wikipedia.org/wiki/QUINCY/고노요노시루시 "wikilink")**
   - 2004년 10월 6일 슈가 - **\[Digital Single\] Secret**
-  - 2004년 10월 11일 동방신기 - **[TRI-ANGLE](https://ko.wikipedia.org/wiki/TRI-ANGLE "wikilink") (Tri Angle)**
+  - 2004년 10월 11일 동방신기 - **[TRI-ANGLE](../Page/TRI-ANGLE.md "wikilink") (Tri Angle)**
   - 2004년 11월 8일 플라이 투 더 스카이 - **Gravity**
   - 2004년 11월 30일 트랙스 - **\[Digital Single\] Blast(1st Story Book)**
   - 2004년 12월 7일 동방신기 - **The Christmas Gift From 동방신기**
@@ -205,7 +205,7 @@
   - 2006년 4월 5일 보아 - **\[Digital Single\] [七色の明日\~brand new beat\~/Your Color](https://ko.wikipedia.org/wiki/나나이로노_아시타~brand_new_beat~/Your_Color "wikilink")(CD+DVD)**
   - 2006년 4월 26일 천상지희 더 그레이스 - **\[Digital Single\] [Sweet Flower](https://ko.wikipedia.org/wiki/Sweet_Flower "wikilink")**
   - 2006년 5월 14일 동방신기 - **[Five in the black](https://ko.wikipedia.org/wiki/Five_in_the_black "wikilink")**
-  - 2006년 5월 19일 강타 - **[Scandal](https://ko.wikipedia.org/wiki/Scandal_\(강타_&_바네스의_음반\) "wikilink")**\[7\]
+  - 2006년 5월 19일 강타 - **[Scandal](../Page/Scandal_\(강타_&_바네스의_음반\).md "wikilink")**\[7\]
   - 2006년 6월 2일 동방신기 - **동방의 투혼**
   - 2006년 6월 7일 슈퍼주니어 - **U**
   - 2006년 6월 20일 SM TOWN - **2006 Summer SMTOWN**
@@ -213,7 +213,7 @@
   - 2006년 7월 12일 동방신기 - **The 1st Live Concert Rising Sun**
   - 2006년 7월 12일 천상지희 더 그레이스 - **\[Digital Single\] [juicy LOVE](https://ko.wikipedia.org/wiki/juicy_LOVE "wikilink")**
   - 2006년 7월 13일 [아이코닉](https://ko.wikipedia.org/wiki/아이코닉 "wikilink") - **\[Digital Single\] Cutie Honey**
-  - 2006년 7월 18일 트랙스 - **[初雨](https://ko.wikipedia.org/wiki/初雨 "wikilink")**
+  - 2006년 7월 18일 트랙스 - **[初雨](../Page/初雨.md "wikilink")**
   - 2006년 7월 28일 동방신기 - **동방신기 극장드라마 OST Vacation**
   - 2006년 8월 9일 보아 - **\[Digital Single\] [KEY OF HEART/DOTCH](https://ko.wikipedia.org/wiki/KEY_OF_HEART/DOTCH "wikilink")**
   - 2006년 8월 23일 트랙스 - **RESOLUTION**
@@ -264,7 +264,7 @@
   - 2008년 3월 12일 강타 - **Eternity - 영원히**
   - 2008년 3월 13일 장리인 - **성원 (중국발매앨범 욕망 2/I Will)**
   - 2008년 3월 13일 소녀시대 - **[Baby Baby](https://ko.wikipedia.org/wiki/소녀시대_\(음반\) "wikilink")**
-  - 2008년 4월 30일 [슈퍼주니어-M](https://ko.wikipedia.org/wiki/슈퍼주니어-M "wikilink") - **팬들(Me)**
+  - 2008년 4월 30일 [슈퍼주니어-M](../Page/슈퍼주니어-M.md "wikilink") - **팬들(Me)**
   - 2008년 5월 8일 소녀시대 - **햅틱모션 (Haptic Motion)**
   - 2008년 5월 13일 이지훈 - **The Classic**
   - 2008년 5월 20일 슈퍼주니어 - **The 1st Asia Tour Concert Album \`Super Show\`**
@@ -324,7 +324,7 @@
 ## 2010년대
 
   - 2010년 1월 13일 틴틴파이브 - **다섯남자의 5번째 이야기**\[12\]
-  - 2010년 1월 25일 트랙스 - **[가슴이 차가운 남자](https://ko.wikipedia.org/wiki/가슴이_차가운_남자 "wikilink")**
+  - 2010년 1월 25일 트랙스 - **[가슴이 차가운 남자](../Page/가슴이_차가운_남자.md "wikilink")**
   - 2010년 1월 27일 동방신기 - **Break Out\!**
   - 2010년 1월 28일 소녀시대 - **[Oh\!](https://ko.wikipedia.org/wiki/Oh! "wikilink")**
   - 2010년 2월 10일 보아 - **Identity**
@@ -335,7 +335,7 @@
   - 2010년 3월 24일 동방신기 - **토키오토메테**
   - 2010년 3월 31일 [예성](https://ko.wikipedia.org/wiki/예성 "wikilink") - **신데렐라 언니 OST**
   - 2010년 5월 3일 f(x) - **[NU ABO](https://ko.wikipedia.org/wiki/NU_ABO "wikilink")**
-  - 2010년 5월 10일 [시원](https://ko.wikipedia.org/wiki/시원_\(가수\) "wikilink") - **오 마이 레이디 OST Part.3**
+  - 2010년 5월 10일 [시원](../Page/시원_\(가수\).md "wikilink") - **오 마이 레이디 OST Part.3**
   - 2010년 5월 13일 슈퍼주니어 - **미인아 (Bonamana)**
   - 2010년 5월 20일 슈퍼주니어 - **꿈은 이루어진다 OST**
   - 2010년 5월 28일 [크리스탈](https://ko.wikipedia.org/wiki/크리스탈_\(가수\) "wikilink") - **Melody Project Part.2**
@@ -448,8 +448,8 @@
   - 2012년 3월 28일 태연 - **더킹 투하츠 OST Part.1**
   - 2012년 3월 29일 [성민](https://ko.wikipedia.org/wiki/성민_\(1986년\) "wikilink") - **선녀가 필요해 OST Part.2**
   - 2012년 4월 4일 동해 & 은혁 - **\[Japan Digital Single\] Oppa,Oppa**
-  - 2012년 4월 9일 EXO-K - **\`[MAMA](https://ko.wikipedia.org/wiki/MAMA_\(EP\) "wikilink")\` EXO-K The 1st Mini Album**
-  - 2012년 4월 9일 EXO-M - **\`[MAMA](https://ko.wikipedia.org/wiki/MAMA_\(EP\) "wikilink")\` EXO-M The 1st Mini Album**
+  - 2012년 4월 9일 EXO-K - **\`[MAMA](../Page/MAMA_\(EP\).md "wikilink")\` EXO-K The 1st Mini Album**
+  - 2012년 4월 9일 EXO-M - **\`[MAMA](../Page/MAMA_\(EP\).md "wikilink")\` EXO-M The 1st Mini Album**
   - 2012년 4월 10일 티파니 - **사랑비 OST Third Single**
   - 2012년 4월 13일 제이민 - **무신 OST Part.2**
   - 2012년 4월 16일 서현 - **패션왕 OST Part.3**
@@ -510,7 +510,7 @@
   - 2013년 4월 29일 루나,규현 - **Shine Your Way**
   - 2013년 5월 27일 보아 - **상어 OST-천국과 지옥 사이**
   - 2013년 5월 31일 규현 - **황성제 Project 슈퍼히어로 2nd Line Up**
-  - 2013년 6월 3일 [EXO](https://ko.wikipedia.org/wiki/EXO "wikilink") - **The 1st Album \`[XOXO (KISS＆HUG)](https://ko.wikipedia.org/wiki/XOXO_\(KISS＆HUG\) "wikilink")\`**
+  - 2013년 6월 3일 [EXO](https://ko.wikipedia.org/wiki/EXO "wikilink") - **The 1st Album \`[XOXO (KISS＆HUG)](../Page/XOXO_\(KISS＆HUG\).md "wikilink")\`**
   - 2013년 6월 7일 [헨리](https://ko.wikipedia.org/wiki/헨리_\(가수\) "wikilink") - **The 1st Mini Album \`Trap\`**
   - 2013년 6월 12일 동방신기 - **OCEAN**
   - 2013년 6월 13일 [써니](https://ko.wikipedia.org/wiki/써니_\(가수\) "wikilink") - **여왕의 교실 OST\`두번째 서랍\`**
@@ -526,7 +526,7 @@
   - 2013년 7월 29일 f(x) - **[Pink Tape](../Page/Pink_Tape.md "wikilink")**
   - 2013년 7월 31일 보아 - **2013 광주디자인비엔날레 로고송 \`Action\`**
   - 2013년 8월 1일 루나 - **TalesWeaver Episode 3.Resonance OST (Part.2)**
-  - 2013년 8월 5일 EXO - **[XOXO (KISS＆HUG)](https://ko.wikipedia.org/wiki/XOXO_\(KISS＆HUG\) "wikilink") Repackage**
+  - 2013년 8월 5일 EXO - **[XOXO (KISS＆HUG)](../Page/XOXO_\(KISS＆HUG\).md "wikilink") Repackage**
   - 2013년 8월 8일 샤이니 - **The Misconceptions Of us**
   - 2013년 8월 14일 슈퍼주니어 - **Hero**
   - 2013년 8월 23일 헨리 - **The 1st Digital Single 1-4-3**
@@ -534,7 +534,7 @@
   - 2013년 9월 11일 샤이니 - **\[Japan Digital Single\] [Boys Meet U](https://ko.wikipedia.org/wiki/Boys_Meet_U_\(샤이니의_싱글\) "wikilink")**
   - 2013년 9월 27일 소녀시대 - **[GALAXY SUPERNOVA](https://ko.wikipedia.org/wiki/GALAXY_SUPERNOVA "wikilink")**
   - 2013년 10월 4일 동방신기 - **SCREAM**
-  - 2013년 10월 14일 샤이니 - **The 5th Mini Album \`[Everybody](https://ko.wikipedia.org/wiki/Everybody_\(EP\) "wikilink")\`**
+  - 2013년 10월 14일 샤이니 - **The 5th Mini Album \`[Everybody](../Page/Everybody_\(EP\).md "wikilink")\`**
   - 2013년 10월 22일 [유리](https://ko.wikipedia.org/wiki/유리_\(1989년\) "wikilink") - **노브레싱 OST Part.1**
   - 2013년 10월 23일 보아 - **[Message/Call my name](https://ko.wikipedia.org/wiki/Message/Call_my_name "wikilink")**
   - 2013년 11월 14일 [이동우](../Page/이동우_\(희극인\).md "wikilink") - **LEE DONG WOO \`SMILE\` TURNING TO JAZZ**
@@ -564,7 +564,7 @@
   - 2014년 3월 5일 동방신기 - **[TREE](../Page/TREE_\(동방신기의_음반\).md "wikilink")**
   - 2014년 3월 5일 보아 - **\[Japan Digital Single\] Shout It Out**
   - 2014년 3월 7일 최강창민 - **미미 OST 최강창민 \`슬픔 속에 그댈 지워야만 해\`**
-  - 2014년 3월 14일 [웬디](https://ko.wikipedia.org/wiki/웬디_\(가수\) "wikilink") - **미미 OST 웬디\`슬픔 속에 그댈 지워야만 해\`**\[27\]
+  - 2014년 3월 14일 [웬디](../Page/웬디_\(가수\).md "wikilink") - **미미 OST 웬디\`슬픔 속에 그댈 지워야만 해\`**\[27\]
   - 2014년 3월 31일 슈퍼주니어-M - **SWING**
   - 2014년 4월 2일 샤이니 - **The 2nd Concert Album \`SHINee WORLD 2 In Seoul\`**
   - 2014년 4월 21일 태연 - **JTBC 아름다운 캠페인**
@@ -581,17 +581,17 @@
   - 2014년 7월 21일 제이민 - **[Shine](https://ko.wikipedia.org/wiki/Shine "wikilink")**
   - 2014년 7월 23일 소녀시대 - **The Best**
   - 2014년 7월 23일 [첸](https://ko.wikipedia.org/wiki/첸 "wikilink") - **괜찮아 사랑이야 OST Part.1**
-  - 2014년 8월 4일 [레드벨벳](https://ko.wikipedia.org/wiki/레드벨벳_\(음악_그룹\) "wikilink") - **\[Digital Single\] 행복 (Happiness)**
-  - 2014년 8월 18일 태민 - **[The 1st Mini Album \`ACE\`](https://ko.wikipedia.org/wiki/ACE_\(음반\) "wikilink")**
+  - 2014년 8월 4일 [레드벨벳](../Page/레드벨벳_\(음악_그룹\).md "wikilink") - **\[Digital Single\] 행복 (Happiness)**
+  - 2014년 8월 18일 태민 - **[The 1st Mini Album \`ACE\`](../Page/ACE_\(음반\).md "wikilink")**
   - 2014년 8월 26일 최강창민 - '''MBC 월화 특별 기획 \`야경꾼일지\`OST Part.3
   - 2014년 8월 29일 슈퍼주니어 - **MAMACITA**
   - 2014년 9월 3일 보아 - **Who's Back?**
   - 2014년 9월 12일 [히치하이커](https://ko.wikipedia.org/wiki/히치하이커_\(작곡가\) "wikilink") - **\[Digital Single\] 11 (ELEVEN)**
-  - 2014년 9월 16일 소녀시대-태티서 - **[Holler](https://ko.wikipedia.org/wiki/Holler "wikilink")**
+  - 2014년 9월 16일 소녀시대-태티서 - **[Holler](../Page/Holler.md "wikilink")**
   - 2014년 9월 22일 장리인 - **Not Alone**
   - 2014년 9월 24일 샤이니 - **I'm Your Boy**
   - 2014년 9월 25일 크리스탈 - **내겐 너무 사랑스러운 그녀 OST Part.2**
-  - 2014년 9월 29일 [비트버거](https://ko.wikipedia.org/wiki/비트버거 "wikilink") - **Electric Dream**
+  - 2014년 9월 29일 [비트버거](../Page/비트버거.md "wikilink") - **Electric Dream**
   - 2014년 10월 8일 헨리 - **\[Japan Digital Single\] Fantastic**
   - 2014년 10월 13일 레드벨벳 - **\[Digital Single\] [Be Natural](https://ko.wikipedia.org/wiki/Be_Natural "wikilink")**
   - 2014년 10월 15일 소녀시대 - **The Best (New Edition)**
@@ -616,7 +616,7 @@
 
   - 2015년 1월 7일 동방신기 - **[WITH](https://ko.wikipedia.org/wiki/WITH "wikilink")**
   - 2015년 1월 9일 [강인](https://ko.wikipedia.org/wiki/강인_\(가수\) "wikilink") - **고양이 장례식 OST**
-  - 2015년 1월 12일 종현 - **The 1st Mini Album [BASE](https://ko.wikipedia.org/wiki/BASE_\(EP\) "wikilink")**
+  - 2015년 1월 12일 종현 - **The 1st Mini Album [BASE](../Page/BASE_\(EP\).md "wikilink")**
   - 2015년 1월 28일 루나 - **킬미힐미 OST Part.2**
   - 2015년 1월 30일 히치하이커 - **\[Digital Single\] 11 (ELEVEN) (HITCHHIKER REMIX)**
   - 2015년 2월 16일 [엠버](https://ko.wikipedia.org/wiki/엠버_\(가수\) "wikilink") - **Beautiful**
@@ -631,31 +631,31 @@
   - 2015년 3월 23일 동해 & 은혁 - **The Beat Goes On\` Special Edition**
   - 2015년 3월 30일 EXO - **The 2nd Album \`[EXODUS](https://ko.wikipedia.org/wiki/EXODUS "wikilink")\`**
   - 2015년 4월 1일 동해 & 은혁 - **Present**
-  - 2015년 4월 10일 소녀시대 - **\[Digital Single\] [Catch Me If You Can](https://ko.wikipedia.org/wiki/Catch_Me_If_You_Can "wikilink")**
+  - 2015년 4월 10일 소녀시대 - **\[Digital Single\] [Catch Me If You Can](../Page/Catch_Me_If_You_Can.md "wikilink")**
   - 2015년 4월 16일 M\&D - **家內手工業**
   - 2015년 4월 21일 써니 - **\[Digital Single\] 옥탑방 프로젝트 The 1st Album \`심쿵주의보\`**
   - 2015년 4월 22일 [백현](https://ko.wikipedia.org/wiki/백현_\(가수\) "wikilink") - **우리 옆집에 EXO가 산다 OST**
   - 2015년 4월 22일 소녀시대 - **\[Japan Digital Single\] Catch Me If You Can**
-  - 2015년 5월 6일 보아 - **\[Digital Single\] [Who Are You](https://ko.wikipedia.org/wiki/Kiss_My_Lips "wikilink")**\[31\]
+  - 2015년 5월 6일 보아 - **\[Digital Single\] [Who Are You](../Page/Kiss_My_Lips.md "wikilink")**\[31\]
   - 2015년 5월 10일 루나 - **\[Digital Single\] 미소를 띄우며 나를 보낸 그 모습처럼 (Don\`t Cry For Me)**
-  - 2015년 5월 12일 보아 - **[Kiss My Lips](https://ko.wikipedia.org/wiki/Kiss_My_Lips "wikilink")**
-  - 2015년 5월 18일 샤이니 - **[Odd](https://ko.wikipedia.org/wiki/Odd_\(샤이니의_음반\) "wikilink")**
+  - 2015년 5월 12일 보아 - **[Kiss My Lips](../Page/Kiss_My_Lips.md "wikilink")**
+  - 2015년 5월 18일 샤이니 - **[Odd](../Page/Odd_\(샤이니의_음반\).md "wikilink")**
   - 2015년 6월 1일 종현, 태민 - **후아유-학교 2015 OST Part.6**
   - 2015년 6월 3일 EXO - **Love Me Right**
   - 2015년 6월 8일 웬디 - **후아유 - 학교 2015 OST Part.7**\[32\]
   - 2015년 6월 27일 규현 - **너를 사랑한 시간 OST Part.1**
   - 2015년 7월 7일 소녀시대 - **\[Digital Single\] Party**\[33\]
   - 2015년 7월 8일 [유노윤호](https://ko.wikipedia.org/wiki/유노윤호 "wikilink") - **U Know Y**
-  - 2015년 7월 16일 슈퍼주니어 - **[Devil](https://ko.wikipedia.org/wiki/Devil_\(슈퍼주니어의_음반\) "wikilink")**\[34\]
+  - 2015년 7월 16일 슈퍼주니어 - **[Devil](../Page/Devil_\(슈퍼주니어의_음반\).md "wikilink")**\[34\]
   - 2015년 7월 20일 동방신기 - **[RISE AS GOD](https://ko.wikipedia.org/wiki/RISE_AS_GOD "wikilink")**
   - 2015년 7월 22일 f(x) - **Pinnochio/Hot Summer (Summer Special)**
   - 2015년 8월 3일 샤이니 - **[Married To The Music](https://ko.wikipedia.org/wiki/Married_To_The_Music "wikilink")**
   - 2015년 8월 3일 예성 - **화정 OST - Part.3**
   - 2015년 8월 12일 스테파니 - **\[Digital Single\] Prisoner**
-  - 2015년 8월 18일 소녀시대 - **[Lion Heart](https://ko.wikipedia.org/wiki/Lion_Heart "wikilink")**
-  - 2015년 9월 9일 레드벨벳 - **[The Red](https://ko.wikipedia.org/wiki/The_Red "wikilink")**
+  - 2015년 8월 18일 소녀시대 - **[Lion Heart](../Page/Lion_Heart.md "wikilink")**
+  - 2015년 9월 9일 레드벨벳 - **[The Red](../Page/The_Red.md "wikilink")**
   - 2015년 9월 16일 슈퍼주니어 - **[Magic](https://ko.wikipedia.org/wiki/Devil "wikilink")**
-  - 2015년 9월 17일 종현 - **[이야기 Op.1](https://ko.wikipedia.org/wiki/이야기_Op.1 "wikilink")**
+  - 2015년 9월 17일 종현 - **[이야기 Op.1](../Page/이야기_Op.1.md "wikilink")**
   - 2015년 9월 24일 스테파니 - **\[Digital Single\] Blackout**
   - 2015년 9월 30일 동해 & 은혁 - **\[Japan Digital Single\] Let's Get It On**
   - 2015년 10월 7일 태연 - **I**
@@ -665,7 +665,7 @@
   - 2015년 10월 16일 웬디 - **아나요 (Let You Know) - 디데이 OST Part.1**
   - 2015년 10월 22일 시원 - **그녀는 예뻤다 OST Part.5**
   - 2015년 10월 22일 종현 - **\[Digital Single\] 월간 라이브커넥션 Track 2**\[36\]
-  - 2015년 10월 27일 f(x) - **[4 Walls](https://ko.wikipedia.org/wiki/4_Walls "wikilink")**
+  - 2015년 10월 27일 f(x) - **[4 Walls](../Page/4_Walls.md "wikilink")**
   - 2015년 10월 28일 샤이니 - **\[Japan Digital Single\] Sing Your Song**
   - 2015년 10월 29일 종현 - **\[Digital Single\] 월간 라이브커넥선 Track 3**\[37\]
   - 2015년 10월 30일 [시우민](../Page/시우민.md "wikilink") - **You Are The One - 도전에 반하다 OST Part.1**
@@ -681,7 +681,7 @@
   - 2015년 11월 18일 종현 - **\[Digital Single\] 투유 프로젝트 - 슈가맨 Part.5**\[39\]
   - 2015년 11월 25일 루나, 엠버 - **\[Digital Single\] 투유 프로젝트 - 슈가맨 Part.6**\[40\]
   - 2015년 12월 3일 루나 - **장사의 신 - 객주 2015 OST Part.11**
-  - 2015년 12월 4일 소녀시대-태티서 - **[Dear Santa](https://ko.wikipedia.org/wiki/Dear_Santa "wikilink")**
+  - 2015년 12월 4일 소녀시대-태티서 - **[Dear Santa](../Page/Dear_Santa.md "wikilink")**
   - 2015년 12월 10일 EXO - **Sing For You**
   - 2015년 12월 15일 f(x) - **\[Digital Single\] 12시 25분 (Wish List) - WINTER GARDEN**
   - 2015년 12월 16일 보아 - **\[Japan Digital Single\] Lookbook**
@@ -693,7 +693,7 @@
 
   - 2016년 1월 1일 샤이니 - **DxDxD**
   - 2016년 1월 7일 백현 - **\[Digital Single\] Dream**\[41\]
-  - 2016년 1월 13일 [아이린](https://ko.wikipedia.org/wiki/아이린_\(1991년\) "wikilink"), [슬기](https://ko.wikipedia.org/wiki/슬기 "wikilink"), [웬디](https://ko.wikipedia.org/wiki/웬디_\(가수\) "wikilink"), [예리](https://ko.wikipedia.org/wiki/예리_\(가수\) "wikilink") - **\[Digital Single\] 투유 프로젝트 - 슈가맨 Part.13**\[42\]
+  - 2016년 1월 13일 [아이린](../Page/아이린_\(1991년\).md "wikilink"), [슬기](../Page/슬기.md "wikilink"), [웬디](../Page/웬디_\(가수\).md "wikilink"), [예리](../Page/예리_\(가수\).md "wikilink") - **\[Digital Single\] 투유 프로젝트 - 슈가맨 Part.13**\[42\]
   - 2016년 1월 27일 태일 - **장사의 신 - 객주 2015 OST Part.2**
   - 2016년 1월 28일 려욱 - **The 1st Mini Album \`어린왕자 (The Little Prince)\`**
   - 2016년 2월 3일 태연 - **\[Digital Single\] Rain**
@@ -704,15 +704,15 @@
   - 2016년 3월 4일 웬디 - **\[Digital Single\] 봄인가 봐 (Spring Love)**\[44\]
   - 2016년 3월 9일 규현 - **\[Digital Single\] 투유 프로젝트 - 슈가맨 Part.21**
   - 2016년 3월 11일 윤아 - **\[Digital Single\] 덕수궁 돌담길의 봄**
-  - 2016년 3월 17일 레드벨벳 - **[The Velvet](https://ko.wikipedia.org/wiki/The_Velvet "wikilink")**
+  - 2016년 3월 17일 레드벨벳 - **[The Velvet](../Page/The_Velvet.md "wikilink")**
   - 2016년 3월 18일 종현 - **\[Digital Single\] 한마디 (Your Voice)**\[45\]
   - 2016년 3월 25일 엠버 - **\[Digital Single\] Borders**
   - 2016년 4월 8일 첸 - **\[Digital Single\] 썸타 (Lil\` Something)**\[46\]
-  - 2016년 4월 9일 [NCT U](https://ko.wikipedia.org/wiki/NCT_U "wikilink") - **\[Digital Single\] [일곱 번째 감각 (The 7th Sense)](https://ko.wikipedia.org/wiki/일곱_번째_감각_\(The_7th_Sense\) "wikilink")**
+  - 2016년 4월 9일 [NCT U](https://ko.wikipedia.org/wiki/NCT_U "wikilink") - **\[Digital Single\] [일곱 번째 감각 (The 7th Sense)](../Page/일곱_번째_감각_\(The_7th_Sense\).md "wikilink")**
   - 2016년 4월 10일 NCT U - **\[Digital Single\] [Without You](https://ko.wikipedia.org/wiki/Without_You_\(NCT_U의_노래\) "wikilink")**
   - 2016년 4월 12일 태연, 규현 - **\[Digital Single\] 밴드 고맙삼다**
   - 2016년 4월 15일 M\&D - **\[Digital Single\] Narcissus**\[47\]
-  - 2016년 4월 16일 [조이](https://ko.wikipedia.org/wiki/조이_\(가수\) "wikilink") - **\[Digital Single\] 어린애**\[48\]
+  - 2016년 4월 16일 [조이](../Page/조이_\(가수\).md "wikilink") - **\[Digital Single\] 어린애**\[48\]
   - 2016년 4월 19일 예성 - **Here I Am**
   - 2016년 4월 20일 샤이니 - **SHINee WORLD IV - The 4th Concert Album**
   - 2016년 4월 29일 [인레이어](https://ko.wikipedia.org/wiki/인레이어 "wikilink") - **\[Digital Single\] MINDJACK**
@@ -726,12 +726,12 @@
   - 2016년 5월 18일 엠버 - **\[Digital Single\] On My Own**
   - 2016년 5월 20일 다나 - **\[Digital Single\] Touch You**
   - 2016년 5월 23일 티파니 - **\[Digital Single\] I Just Wanna Dance (Kago Pengchi Remix)**
-  - 2016년 5월 24일 종현 - **[좋아](https://ko.wikipedia.org/wiki/좋아_\(종현의_음반\) "wikilink")**
+  - 2016년 5월 24일 종현 - **[좋아](../Page/좋아_\(종현의_음반\).md "wikilink")**
   - 2016년 5월 25일 엠버 - **\[Digital Single\] Need To Feel Needed**
   - 2016년 5월 25일 첸, 찬열 - **\[Digital Single\] 투유 프로젝트 - 슈가맨 Part.32**
   - 2016년 5월 27일 [레이](../Page/레이_\(가수\).md "wikilink") - **\[Digital Single\] Mono Drama**
   - 2016년 5월 31일 루나 - **[Free Somebody](https://ko.wikipedia.org/wiki/Free_Somebody "wikilink")**
-  - 2016년 6월 9일 EXO - **[EX'ACT](https://ko.wikipedia.org/wiki/EX'ACT "wikilink")**
+  - 2016년 6월 9일 EXO - **[EX'ACT](../Page/EX'ACT.md "wikilink")**
   - 2016년 6월 10일 티파니 - **\[Digital Single\] Heart Break Hotel**
   - 2016년 6월 17일 보아 - **\[Digital Single\] No Matter What**\[52\]
   - 2016년 6월 19일 김민종 - **\[Digital Single\] 판타스틱 듀오 Part.9**\[53\]
@@ -740,7 +740,7 @@
   - 2016년 7월 1일 이특, 수호 - **\[Digital Single\] 나의 영웅**\[55\]
   - 2016년 7월 8일 제이민 - **\[Digital Single\] 집 앞에서 (Way Back Home)**
   - 2016년 7월 10일 [NCT 127](https://ko.wikipedia.org/wiki/NCT_127 "wikilink") - **[NCT ＃127](https://ko.wikipedia.org/wiki/NCT_＃127 "wikilink")**
-  - 2016년 7월 11일 키, [도영](https://ko.wikipedia.org/wiki/도영 "wikilink") - **38사기동대 OST Part.2**
+  - 2016년 7월 11일 키, [도영](../Page/도영.md "wikilink") - **38사기동대 OST Part.2**
   - 2016년 7월 12일 M\&D - **종합선물세트**
   - 2016년 7월 19일 조미 - **What's Your Number?**
   - 2016년 7월 22일 f(x) - **\[Digital Single\] All Mine**
@@ -756,9 +756,9 @@
   - 2016년 8월 25일 첸, 백현, 시우민 - **달의 연인 - 보보경심 려 OST Part.1**
   - 2016년 8월 26일 [효연](https://ko.wikipedia.org/wiki/효연 "wikilink") - **\[Digital Single\] Born To Be Wild**\[57\]
   - 2016년 8월 26일 예성 - **\[Digital Single\] 이세준 20주년 기념앨범**\[58\]
-  - 2016년 8월 27일 [NCT DREAM](https://ko.wikipedia.org/wiki/NCT_\(음악_그룹\) "wikilink") - **\[Digital Single\] Chewing Gum**
+  - 2016년 8월 27일 [NCT DREAM](../Page/NCT_\(음악_그룹\).md "wikilink") - **\[Digital Single\] Chewing Gum**
   - 2016년 9월 2일 히치하이커 - **\[Digital Single\] $10**
-  - 2016년 9월 7일 레드벨벳 - **[Russian Roulette](https://ko.wikipedia.org/wiki/Russian_Roulette_\(레드벨벳의_EP\) "wikilink")**
+  - 2016년 9월 7일 레드벨벳 - **[Russian Roulette](../Page/Russian_Roulette_\(레드벨벳의_EP\).md "wikilink")**
   - 2016년 9월 9일 엠버 - **\[Japan Digital Single\] BREATHE AGAIN**\[59\]
   - 2016년 9월 13일 태연 - **달의 연인 - 보보경심 려 OST Part.5**
   - 2016년 9월 17일 EXO - **\[Digital Single\] Dancing King**\[60\]
@@ -828,7 +828,7 @@
   - 2017년 4월 1일 [마크](https://ko.wikipedia.org/wiki/마크_\(1999년\) "wikilink") - **\[Digital Single\] 고등래퍼 FINAL**\[86\]
   - 2017년 4월 5일 태연 - **My Voice (Deluxe Edition)**
   - 2017년 4월 6일 SM TOWN - **SM Station Season 1**
-  - 2017년 4월 7일 [텐](https://ko.wikipedia.org/wiki/텐_\(가수\) "wikilink") - **\[Digital Single\] Dream In A Dream**
+  - 2017년 4월 7일 [텐](../Page/텐_\(가수\).md "wikilink") - **\[Digital Single\] Dream In A Dream**
   - 2017년 4월 11일 예성 - **\[Digital Single\] Winter Sleep**
   - 2017년 4월 11일 조이 - **그녀는 거짓말을 너무 사랑해 OST Part.4**
   - 2017년 4월 14일 백현 - **\[Digital Single\] 바래다줄게**
@@ -841,7 +841,7 @@
   - 2017년 5월 4일 온유 - **\[Digital Single\] 수면제 (Lullaby)**\[87\]
   - 2017년 5월 8일 조이 - **그녀는 거짓말을 너무 사랑해 OST Part.9**
   - 2017년 5월 10일 헨리 - **\[Digital Single\] 사랑 좀 하고 싶어 (Acoustic Ver.)**
-  - 2017년 5월 12일 [태용](https://ko.wikipedia.org/wiki/태용 "wikilink"),히치하이커 - **\[Digital Single\] Around**
+  - 2017년 5월 12일 [태용](../Page/태용.md "wikilink"),히치하이커 - **\[Digital Single\] Around**
   - 2017년 5월 24일 규현 - **\[Digital Single\] 다시 만나는 날**
   - 2017년 5월 26일 [김정모](../Page/김정모.md "wikilink") - **\[Digital Single\] Nostalgia**\[88\]
   - 2017년 6월 1일 효연 - **\[Digital Single\] Wannabe**\[89\]
@@ -891,7 +891,7 @@
   - 2017년 11월 10일 태민 - **\[Digital Single\] Thirsty (OFF-SICK Concert Ver.)**
   - 2017년 11월 13일 은혁 - **\[Digital Single\] Fly Day**\[102\]
   - 2017년 11월 17일 레드벨벳 - **[Perfect Velvet](https://ko.wikipedia.org/wiki/Perfect_Velvet "wikilink")**
-  - 2017년 11월 24일 [재현](https://ko.wikipedia.org/wiki/재현_\(1997년\) "wikilink") - **\[Digital Single\] Try Again**\[103\]
+  - 2017년 11월 24일 [재현](../Page/재현_\(1997년\).md "wikilink") - **\[Digital Single\] Try Again**\[103\]
   - 2017년 11월 28일 슈퍼주니어 - **[PLAY’ PAUSE Ver.](https://ko.wikipedia.org/wiki/PLAY’_PAUSE_Ver. "wikilink")**
   - 2017년 12월 1일 웬디 - **\[Digital Single\] 성냥팔이 소녀**\[104\]
   - 2017년 12월 8일 희철,신동,은혁 - **\[Digital Single\] 짬에서 나오는 바이브**\[105\]
@@ -924,7 +924,7 @@
   - 2018년 3월 2일 성민 - **\[Digital Single\] Day Dream**
   - 2018년 3월 9일 수호 - **\[Digital Single\] Listen 020 실례해도 될까요**\[115\]
   - 2018년 3월 10일 수호 - **\[Digital Single\] Dinner**\[116\]
-  - 2018년 3월 14일 [NCT](https://ko.wikipedia.org/wiki/NCT_\(음악_그룹\) "wikilink") - **NCT 2018 EMPATHY**
+  - 2018년 3월 14일 [NCT](../Page/NCT_\(음악_그룹\).md "wikilink") - **NCT 2018 EMPATHY**
   - 2018년 3월 23일 슈퍼주니어 - **\[Digital Single\] Super Duper**
   - 2018년 3월 24일 EXO-CBX - **라이브 OST Part.1**
   - 2018년 3월 27일 조이 - **위대한 유혹자 OST Part.2**
@@ -1034,7 +1034,7 @@
   - 2019년 4월 24일 레드벨벳 - **\[Japan Digital Single\] Power Up**
   - 2019년 4월 24일 [희철](https://ko.wikipedia.org/wiki/희철 "wikilink") - **\[Digital Single\] 옛날 사람**
   - 2019년 4월 25일 [찬열](../Page/찬열.md "wikilink") - **\[Digital Single\] 봄 여름 가을 겨울**\[141\]
-  - 2019년 4월 26일 [케이준](https://ko.wikipedia.org/wiki/케이준_\(가수\) "wikilink") - **\[Digital Single\] YOGA**
+  - 2019년 4월 26일 [케이준](../Page/케이준_\(가수\).md "wikilink") - **\[Digital Single\] YOGA**
   - 2019년 5월 9일 WayV - **Take Off**
   - 2019년 5월 9일 [시우민](../Page/시우민.md "wikilink") - **\[Digital Single\] 이유**\[142\]
   - 2019년 5월 20일 규현 - **\[Digital Single\] 너를 만나러 간다**
@@ -1060,7 +1060,7 @@
   - 2019년 7월 13일 규현 - **\[Digital Single\] 강식당 3**\[147\]
   - 2019년 7월 15일 NCT DREAM - **\[Digital Single\] Fireflies**\[148\]
   - 2019년 7월 17일 EXO-CBX - **연애플레이리스트4 Part.1**
-  - 2019년 7월 18일 [태용](https://ko.wikipedia.org/wiki/태용 "wikilink") - **\[Digital Single\] Long Flight**\[149\]
+  - 2019년 7월 18일 [태용](../Page/태용.md "wikilink") - **\[Digital Single\] Long Flight**\[149\]
   - 2019년 7월 19일 NCT 127 - **\[Digital Single\] Highway to Heaven**
   - 2019년 7월 20일 효연 - **\[Digital Single\] Badster**
   - 2019년 7월 21일 태연 - **호텔 델루나 OST Part.3**
@@ -1144,14 +1144,14 @@
 22. [김진표도](https://ko.wikipedia.org/wiki/김진표_\(가수\) "wikilink") 앨범 참여.
 23. [백지영](https://ko.wikipedia.org/wiki/백지영 "wikilink"), [신승훈](https://ko.wikipedia.org/wiki/신승훈 "wikilink"), [리쌍](https://ko.wikipedia.org/wiki/리쌍 "wikilink")의 맴버 [길도](https://ko.wikipedia.org/wiki/길_\(가수\) "wikilink") 앨범 참여.
 24. [브라운 아이즈의](https://ko.wikipedia.org/wiki/브라운_아이즈 "wikilink") 멤버 [윤건](https://ko.wikipedia.org/wiki/윤건 "wikilink")도 앨범 참여.
-25. [일리네어 레코즈도](https://ko.wikipedia.org/wiki/일리네어_레코즈 "wikilink") 앨범 참여.
+25. [일리네어 레코즈도](../Page/일리네어_레코즈.md "wikilink") 앨범 참여.
 26. 동방신기의 데뷔 10주년 앨범.
 27. 레드벨벳 데뷔하기 전에 낸 솔로 데뷔 앨범.
 28. 동해 & 은혁의 데뷔 10주년 앨범.
 29. [민효린](https://ko.wikipedia.org/wiki/민효린 "wikilink"), [B1A4](https://ko.wikipedia.org/wiki/B1A4 "wikilink")의 멤버 [진영](../Page/진영_\(1991년\).md "wikilink"), [유성은](https://ko.wikipedia.org/wiki/유성은 "wikilink"), [울랄라세션](https://ko.wikipedia.org/wiki/울랄라세션 "wikilink"), 칠전팔기도 앨범 참여.
 30. [유성은](https://ko.wikipedia.org/wiki/유성은 "wikilink"), 칠전팔기도 앨범 참여.
 31. 보아의 정규 8집 선공개곡.
-32. [육지담](https://ko.wikipedia.org/wiki/육지담 "wikilink")도 앨범 참여.
+32. [육지담](../Page/육지담.md "wikilink")도 앨범 참여.
 33. 소녀시대의 정규 5집 선공개곡.
 34. 슈퍼주니어의 데뷔 10주년 앨범.
 35. 규현의 데뷔 10주년 앨범.
@@ -1159,15 +1159,15 @@
 37. [정준영밴드](https://ko.wikipedia.org/wiki/정준영밴드 "wikilink")의 멤버 [정준영](https://ko.wikipedia.org/wiki/정준영 "wikilink")도 앨범 참여.
 38. [엠블랙](https://ko.wikipedia.org/wiki/엠블랙 "wikilink"), [언터쳐블](https://ko.wikipedia.org/wiki/언터쳐블_\(음악_그룹\) "wikilink"), [AOA도](https://ko.wikipedia.org/wiki/AOA_\(음악_그룹\) "wikilink") 앨범 참여.
 39. [정승환도](https://ko.wikipedia.org/wiki/정승환_\(가수\) "wikilink") 앨범 참여.
-40. [마마무](https://ko.wikipedia.org/wiki/마마무 "wikilink")의 멤버 [솔라](https://ko.wikipedia.org/wiki/솔라_\(가수\) "wikilink"), [문별](https://ko.wikipedia.org/wiki/문별 "wikilink")도 앨범 참여.
+40. [마마무](../Page/마마무.md "wikilink")의 멤버 [솔라](../Page/솔라_\(가수\).md "wikilink"), [문별](../Page/문별.md "wikilink")도 앨범 참여.
 41. [미쓰에이](https://ko.wikipedia.org/wiki/미쓰에이 "wikilink")의 멤버 [수지도](https://ko.wikipedia.org/wiki/수지_\(1994년\) "wikilink") 앨범 참여.
 42. [애프터스쿨](https://ko.wikipedia.org/wiki/애프터스쿨 "wikilink")의 멤버 [레이나와](https://ko.wikipedia.org/wiki/레이나_\(가수\) "wikilink") [리지도](https://ko.wikipedia.org/wiki/박수아 "wikilink") 앨범 참여.
 43. 펀치도 앨범 참여.
 44. [에릭 남도](../Page/에릭_남.md "wikilink") 앨범 참여.
 45. [헤리티지](https://ko.wikipedia.org/wiki/헤리티지 "wikilink")도 앨범 참여.
 46. [헤이즈](https://ko.wikipedia.org/wiki/헤이즈 "wikilink")도 앨범 참여.
-47. [마마무](https://ko.wikipedia.org/wiki/마마무 "wikilink")의 멤버 [휘인](https://ko.wikipedia.org/wiki/휘인 "wikilink")도 앨범 참여.
-48. [비투비](https://ko.wikipedia.org/wiki/비투비 "wikilink")의 멤버 [육성재](https://ko.wikipedia.org/wiki/육성재 "wikilink")도 앨범 참여.
+47. [마마무](../Page/마마무.md "wikilink")의 멤버 [휘인](../Page/휘인.md "wikilink")도 앨범 참여.
+48. [비투비](https://ko.wikipedia.org/wiki/비투비 "wikilink")의 멤버 [육성재](../Page/육성재.md "wikilink")도 앨범 참여.
 49. R3hab, 사비앤기도 앨범 참여.
 50. [조성모](https://ko.wikipedia.org/wiki/조성모 "wikilink"), [변진섭](https://ko.wikipedia.org/wiki/변진섭 "wikilink"), [이선희](https://ko.wikipedia.org/wiki/이선희 "wikilink"), 안은비, 류용현, 우제훈, 박초희, 김예진도 앨범 참여.
 51. [케이윌](https://ko.wikipedia.org/wiki/케이윌 "wikilink")도 앨범 참여.
@@ -1186,7 +1186,7 @@
 64. [YB의](https://ko.wikipedia.org/wiki/YB_\(밴드\) "wikilink") 멤버 [윤도현](https://ko.wikipedia.org/wiki/윤도현 "wikilink"), [레디](https://ko.wikipedia.org/wiki/레디_\(1985년\) "wikilink"), 지투도 앨범 참여.
 65. [2AM](https://ko.wikipedia.org/wiki/2AM "wikilink")의 멤버 [임슬옹](https://ko.wikipedia.org/wiki/임슬옹 "wikilink")도 앨범 참여.
 66. [딕펑스](https://ko.wikipedia.org/wiki/딕펑스 "wikilink")의 멤버 김태현도 앨범 참여.
-67. [자밀킴](https://ko.wikipedia.org/wiki/자밀킴 "wikilink"),[수란](https://ko.wikipedia.org/wiki/수란_\(가수\) "wikilink"),[팬텀의](https://ko.wikipedia.org/wiki/팬텀_\(음악_그룹\) "wikilink") 멤버 [한해](https://ko.wikipedia.org/wiki/한해 "wikilink")도 앨범 참여.
+67. [자밀킴](https://ko.wikipedia.org/wiki/자밀킴 "wikilink"),[수란](https://ko.wikipedia.org/wiki/수란_\(가수\) "wikilink"),[팬텀의](https://ko.wikipedia.org/wiki/팬텀_\(음악_그룹\) "wikilink") 멤버 [한해](../Page/한해.md "wikilink")도 앨범 참여.
 68. [버즈의](https://ko.wikipedia.org/wiki/버즈_\(대한민국의_밴드\) "wikilink") 멤버 [민경훈](https://ko.wikipedia.org/wiki/민경훈 "wikilink")도 앨범 참여.
 69. [펀치도](https://ko.wikipedia.org/wiki/펀치_\(1993년\) "wikilink") 앨범 참여.
 70. [포맨](https://ko.wikipedia.org/wiki/포맨 "wikilink")의 멤버 [신용재](https://ko.wikipedia.org/wiki/신용재 "wikilink")도 앨범 참여.
@@ -1195,13 +1195,13 @@
 73. S.E.S의 데뷔 20주년 앨범.
 74. [정형돈](https://ko.wikipedia.org/wiki/정형돈 "wikilink"), [비스트의](https://ko.wikipedia.org/wiki/비스트_\(음악_그룹\) "wikilink") 전 멤버이자 [하이라이트의](https://ko.wikipedia.org/wiki/하이라이트_\(음악_그룹\) "wikilink") 멤버 [용준형](https://ko.wikipedia.org/wiki/용준형 "wikilink")도 앨범 참여.
 75. 서현의 데뷔 10주년 앨범.
-76. [EXID](https://ko.wikipedia.org/wiki/EXID "wikilink")의 멤버 [하니](https://ko.wikipedia.org/wiki/하니_\(가수\) "wikilink"),[마마무](https://ko.wikipedia.org/wiki/마마무 "wikilink")의 멤버 [솔라도](https://ko.wikipedia.org/wiki/솔라_\(가수\) "wikilink") 앨범 참여.
+76. [EXID](https://ko.wikipedia.org/wiki/EXID "wikilink")의 멤버 [하니](../Page/하니_\(가수\).md "wikilink"),[마마무](../Page/마마무.md "wikilink")의 멤버 [솔라도](../Page/솔라_\(가수\).md "wikilink") 앨범 참여.
 77. [다이나믹 듀오도](https://ko.wikipedia.org/wiki/다이나믹_듀오 "wikilink") 앨범 참여.
 78. [손영주](https://ko.wikipedia.org/wiki/손영주 "wikilink")도 앨범 참여.
 79. [레미도](https://ko.wikipedia.org/wiki/레미_\(가수\) "wikilink") 앨범 참여.
 80. [씨스타](https://ko.wikipedia.org/wiki/씨스타 "wikilink")의 멤버 [소유도](https://ko.wikipedia.org/wiki/소유_\(가수\) "wikilink") 앨범 참여.
 81. [글랜체크](https://ko.wikipedia.org/wiki/글랜체크 "wikilink")의 멤버 [김준원도](https://ko.wikipedia.org/wiki/김준원_\(가수\) "wikilink") 앨범 참여.
-82. [황치열](https://ko.wikipedia.org/wiki/황치열 "wikilink")도 앨범 참여.
+82. [황치열](../Page/황치열.md "wikilink")도 앨범 참여.
 83. [정기고](https://ko.wikipedia.org/wiki/정기고 "wikilink")도 앨범 참여.
 84. [알리도](https://ko.wikipedia.org/wiki/알리_\(가수\) "wikilink") 앨범 참여.
 85. 태연의 데뷔 10주년 앨범.
@@ -1210,7 +1210,7 @@
 88. [N.EX.T](https://ko.wikipedia.org/wiki/N.EX.T "wikilink")의 멤버 [김세황](https://ko.wikipedia.org/wiki/김세황 "wikilink")도 앨범 참여.
 89. 효연의 데뷔 10주년 앨범.
 90. [UV도](https://ko.wikipedia.org/wiki/UV_\(음악_그룹\) "wikilink") 앨범 참여.
-91. [B1A4](https://ko.wikipedia.org/wiki/B1A4 "wikilink")의 멤버 [진영](../Page/진영_\(1991년\).md "wikilink"), [오마이걸](https://ko.wikipedia.org/wiki/오마이걸 "wikilink")의 멤버 [유아](https://ko.wikipedia.org/wiki/유아_\(가수\) "wikilink"),[소나무의](https://ko.wikipedia.org/wiki/소나무_\(음악_그룹\) "wikilink") 멤버 [디애나](https://ko.wikipedia.org/wiki/디애나_\(가수\) "wikilink"), [I.B.I](https://ko.wikipedia.org/wiki/I.B.I "wikilink")와 [C.I.V.A](https://ko.wikipedia.org/wiki/C.I.V.A "wikilink")의 멤버 [김소희](https://ko.wikipedia.org/wiki/소희_\(1995년\) "wikilink"), [러블리즈](https://ko.wikipedia.org/wiki/러블리즈 "wikilink")의 멤버 [류수정](https://ko.wikipedia.org/wiki/류수정 "wikilink"), [I.O.I](https://ko.wikipedia.org/wiki/I.O.I "wikilink")와[언니쓰](https://ko.wikipedia.org/wiki/언니쓰 "wikilink")의 멤버 [전소미도](https://ko.wikipedia.org/wiki/소미 "wikilink") 앨범 참여.
+91. [B1A4](https://ko.wikipedia.org/wiki/B1A4 "wikilink")의 멤버 [진영](../Page/진영_\(1991년\).md "wikilink"), [오마이걸](../Page/오마이걸.md "wikilink")의 멤버 [유아](../Page/유아_\(가수\).md "wikilink"),[소나무의](../Page/소나무_\(음악_그룹\).md "wikilink") 멤버 [디애나](https://ko.wikipedia.org/wiki/디애나_\(가수\) "wikilink"), [I.B.I](https://ko.wikipedia.org/wiki/I.B.I "wikilink")와 [C.I.V.A](https://ko.wikipedia.org/wiki/C.I.V.A "wikilink")의 멤버 [김소희](../Page/소희_\(1995년\).md "wikilink"), [러블리즈](../Page/러블리즈.md "wikilink")의 멤버 [류수정](../Page/류수정.md "wikilink"), [I.O.I](https://ko.wikipedia.org/wiki/I.O.I "wikilink")와[언니쓰](https://ko.wikipedia.org/wiki/언니쓰 "wikilink")의 멤버 [전소미도](https://ko.wikipedia.org/wiki/소미 "wikilink") 앨범 참여.
 92. [매드 클라운도](https://ko.wikipedia.org/wiki/매드_클라운 "wikilink") 앨범 참여.
 93. [Sik-K](https://ko.wikipedia.org/wiki/Sik-K "wikilink")도 앨범 참여.
 94. [박재정](https://ko.wikipedia.org/wiki/박재정 "wikilink")도 앨범 참여.
@@ -1218,17 +1218,17 @@
 96. [김선영](https://ko.wikipedia.org/wiki/김선영 "wikilink"),[정성화](https://ko.wikipedia.org/wiki/정성화 "wikilink")도 앨범 참여.
 97. 윤아의 데뷔 10주년 앨범.
 98. [어반자카파](../Page/어반자카파.md "wikilink")의 멤버 [조현아](https://ko.wikipedia.org/wiki/조현아_\(가수\) "wikilink"),[김조한](https://ko.wikipedia.org/wiki/김조한 "wikilink"),정인지,조현랑,김재호,윤보라도 앨범 참여.
-99. [러블리즈](https://ko.wikipedia.org/wiki/러블리즈 "wikilink"),[올 블랙의](https://ko.wikipedia.org/wiki/올_블랙 "wikilink") 멤버 [도끼](https://ko.wikipedia.org/wiki/도끼_\(가수\) "wikilink"),[더 콰이엇](https://ko.wikipedia.org/wiki/더_콰이엇 "wikilink"),[신현희와 김루트](https://ko.wikipedia.org/wiki/신현희와_김루트 "wikilink"),[플루토](https://ko.wikipedia.org/wiki/플루토_\(가수\) "wikilink"),[넉살](https://ko.wikipedia.org/wiki/넉살 "wikilink")도 앨범 참여.
-100. [구구단의](https://ko.wikipedia.org/wiki/구구단_\(음악_그룹\) "wikilink") 멤버 [세정도](https://ko.wikipedia.org/wiki/세정_\(가수\) "wikilink") 앨범 참여.
+99. [러블리즈](../Page/러블리즈.md "wikilink"),[올 블랙의](https://ko.wikipedia.org/wiki/올_블랙 "wikilink") 멤버 [도끼](https://ko.wikipedia.org/wiki/도끼_\(가수\) "wikilink"),[더 콰이엇](https://ko.wikipedia.org/wiki/더_콰이엇 "wikilink"),[신현희와 김루트](https://ko.wikipedia.org/wiki/신현희와_김루트 "wikilink"),[플루토](https://ko.wikipedia.org/wiki/플루토_\(가수\) "wikilink"),[넉살](../Page/넉살.md "wikilink")도 앨범 참여.
+100. [구구단의](../Page/구구단_\(음악_그룹\).md "wikilink") 멤버 [세정도](../Page/세정_\(가수\).md "wikilink") 앨범 참여.
 101. [10cm도](https://ko.wikipedia.org/wiki/10cm_\(음악_그룹\) "wikilink") 앨범 참여.
-102. [원더걸스](https://ko.wikipedia.org/wiki/원더걸스 "wikilink")의 멤버 [선미](https://ko.wikipedia.org/wiki/선미 "wikilink"),[백지영](https://ko.wikipedia.org/wiki/백지영 "wikilink"),[다비치](https://ko.wikipedia.org/wiki/다비치 "wikilink"),[다이아의](https://ko.wikipedia.org/wiki/다이아_\(음악_그룹\) "wikilink") 두 멤버 [주은](https://ko.wikipedia.org/wiki/주은_\(가수\) "wikilink"),[정채연](https://ko.wikipedia.org/wiki/정채연 "wikilink"),[NRG](https://ko.wikipedia.org/wiki/NRG_\(음악_그룹\) "wikilink"),[아스트로의](https://ko.wikipedia.org/wiki/아스트로_\(음악_그룹\) "wikilink") 두 멤버 [문빈](https://ko.wikipedia.org/wiki/문빈 "wikilink"),[MJ](https://ko.wikipedia.org/wiki/MJ_\(가수\) "wikilink"),[김조한](https://ko.wikipedia.org/wiki/김조한 "wikilink"),[더 원](https://ko.wikipedia.org/wiki/더_원_\(가수\) "wikilink"),[B.A.P](https://ko.wikipedia.org/wiki/B.A.P "wikilink")의 두 멤버 [영재](../Page/영재_\(1994년\).md "wikilink"),[종업](https://ko.wikipedia.org/wiki/종업 "wikilink"),[헤일로의](https://ko.wikipedia.org/wiki/헤일로_\(음악_그룹\) "wikilink") 세 멤버 [오운](https://ko.wikipedia.org/wiki/헤일로_\(음악_그룹\) "wikilink"),[재용](https://ko.wikipedia.org/wiki/헤일로_\(음악_그룹\) "wikilink"),[희천](https://ko.wikipedia.org/wiki/헤일로_\(음악_그룹\) "wikilink"),[B.I.G](https://ko.wikipedia.org/wiki/B.I.G "wikilink")의 두 멤버 [희건](https://ko.wikipedia.org/wiki/B.I.G "wikilink"),[건민](https://ko.wikipedia.org/wiki/B.I.G "wikilink"),[진세연](https://ko.wikipedia.org/wiki/진세연 "wikilink")도 앨범 참여.
+102. [원더걸스](https://ko.wikipedia.org/wiki/원더걸스 "wikilink")의 멤버 [선미](https://ko.wikipedia.org/wiki/선미 "wikilink"),[백지영](https://ko.wikipedia.org/wiki/백지영 "wikilink"),[다비치](https://ko.wikipedia.org/wiki/다비치 "wikilink"),[다이아의](../Page/다이아_\(음악_그룹\).md "wikilink") 두 멤버 [주은](https://ko.wikipedia.org/wiki/주은_\(가수\) "wikilink"),[정채연](../Page/정채연.md "wikilink"),[NRG](https://ko.wikipedia.org/wiki/NRG_\(음악_그룹\) "wikilink"),[아스트로의](../Page/아스트로_\(음악_그룹\).md "wikilink") 두 멤버 [문빈](../Page/문빈.md "wikilink"),[MJ](https://ko.wikipedia.org/wiki/MJ_\(가수\) "wikilink"),[김조한](https://ko.wikipedia.org/wiki/김조한 "wikilink"),[더 원](https://ko.wikipedia.org/wiki/더_원_\(가수\) "wikilink"),[B.A.P](https://ko.wikipedia.org/wiki/B.A.P "wikilink")의 두 멤버 [영재](../Page/영재_\(1994년\).md "wikilink"),[종업](https://ko.wikipedia.org/wiki/종업 "wikilink"),[헤일로의](../Page/헤일로_\(음악_그룹\).md "wikilink") 세 멤버 [오운](../Page/헤일로_\(음악_그룹\).md "wikilink"),[재용](../Page/헤일로_\(음악_그룹\).md "wikilink"),[희천](../Page/헤일로_\(음악_그룹\).md "wikilink"),[B.I.G](https://ko.wikipedia.org/wiki/B.I.G "wikilink")의 두 멤버 [희건](https://ko.wikipedia.org/wiki/B.I.G "wikilink"),[건민](https://ko.wikipedia.org/wiki/B.I.G "wikilink"),[진세연](https://ko.wikipedia.org/wiki/진세연 "wikilink")도 앨범 참여.
 103. [디어도](https://ko.wikipedia.org/wiki/디어_\(가수\) "wikilink") 앨범 참여.
 104. [백아연](https://ko.wikipedia.org/wiki/백아연 "wikilink")도 앨범 참여.
-105. [마마무](https://ko.wikipedia.org/wiki/마마무 "wikilink")의 멤버 [솔라도](https://ko.wikipedia.org/wiki/솔라_\(가수\) "wikilink") 앨범 참여.
+105. [마마무](../Page/마마무.md "wikilink")의 멤버 [솔라도](../Page/솔라_\(가수\).md "wikilink") 앨범 참여.
 106. [시다 가렛도](https://ko.wikipedia.org/wiki/시다_가렛 "wikilink") 앨범 참여.
 107. 생애 마지막 앨범이다.
 108. [레이든](https://ko.wikipedia.org/wiki/레이든 "wikilink")도 앨범 참여.
-109. [아스트로도](https://ko.wikipedia.org/wiki/아스트로_\(음악_그룹\) "wikilink") 앨범 참여.
+109. [아스트로도](../Page/아스트로_\(음악_그룹\).md "wikilink") 앨범 참여.
 110. [혜다](https://ko.wikipedia.org/wiki/혜다 "wikilink")도 앨범 참여.
 111. [버즈의](https://ko.wikipedia.org/wiki/버즈_\(대한민국의_밴드\) "wikilink") 멤버 [민경훈](https://ko.wikipedia.org/wiki/민경훈 "wikilink")도 앨범 참여.
 112. [권진원](https://ko.wikipedia.org/wiki/권진원 "wikilink")도 앨범 참여.
@@ -1246,14 +1246,14 @@
 124. [로꼬](https://ko.wikipedia.org/wiki/로꼬 "wikilink")도 앨범 참여. 'STATION X O'(스테이션 영)의 두 번째 주인공.
 125. 'STATION X O'(스테이션 영)의 세 번째 주인공.
 126. 10월 컴백 전 선공개곡
-127. [I.O.I](https://ko.wikipedia.org/wiki/I.O.I "wikilink")의 멤버 [청하](https://ko.wikipedia.org/wiki/청하_\(가수\) "wikilink"),[(여자)아이들](https://ko.wikipedia.org/wiki/\(여자\)아이들 "wikilink")의 멤버 [전소연](https://ko.wikipedia.org/wiki/전소연 "wikilink"),[여자친구의](https://ko.wikipedia.org/wiki/여자친구_\(음악_그룹\) "wikilink") 멤버 [신비도](https://ko.wikipedia.org/wiki/신비_\(1998년\) "wikilink") 앨범 참여. 'STATION X O'(스테이션 영)의 네 번째 주인공.
+127. [I.O.I](https://ko.wikipedia.org/wiki/I.O.I "wikilink")의 멤버 [청하](../Page/청하_\(가수\).md "wikilink"),[(여자)아이들](https://ko.wikipedia.org/wiki/\(여자\)아이들 "wikilink")의 멤버 [전소연](https://ko.wikipedia.org/wiki/전소연 "wikilink"),[여자친구의](../Page/여자친구_\(음악_그룹\).md "wikilink") 멤버 [신비도](../Page/신비_\(1998년\).md "wikilink") 앨범 참여. 'STATION X O'(스테이션 영)의 네 번째 주인공.
 128. 10월 컴백 전 선공개곡
 129. [Jonah Nilsson도](https://ko.wikipedia.org/wiki/Jonah_Nilsson "wikilink") 앨범 참여. 'STATION X 3'의 첫 번째 주인공.
 130. 'STATION X 3'의 두 번째 주인공.
 131. [I.O.I](https://ko.wikipedia.org/wiki/I.O.I "wikilink")의 멤버 [청하](https://ko.wikipedia.org/wiki/청하 "wikilink")도 앨범 참여.
 132. 'STATION X 3'의 세 번째 주인공.
 133. 'STATION X 3'의 네 번째 주인공. [트로이의](https://ko.wikipedia.org/wiki/트로이_\(음악_그룹\) "wikilink") 멤버 [범키](https://ko.wikipedia.org/wiki/범키 "wikilink")도 앨범 참여.
-134. 'STATION X 3'의 여섯 번째 주인공. [팬텀의](https://ko.wikipedia.org/wiki/팬텀_\(음악_그룹\) "wikilink") 멤버 [한해](https://ko.wikipedia.org/wiki/한해 "wikilink")도 참여.
+134. 'STATION X 3'의 여섯 번째 주인공. [팬텀의](https://ko.wikipedia.org/wiki/팬텀_\(음악_그룹\) "wikilink") 멤버 [한해](../Page/한해.md "wikilink")도 참여.
 135. [3Lau](https://ko.wikipedia.org/wiki/3Lau "wikilink")도 앨범 참여.
 136. 'STATION X 3'의 일곱 번째 주인공.
 137. [로코베리](https://ko.wikipedia.org/wiki/로코베리 "wikilink")도 앨범 참여.
@@ -1266,10 +1266,10 @@
 144. 'STATION X 3'의 열 두번째 주인공.
 145. 가수 [김재환도](https://ko.wikipedia.org/wiki/김재환_\(가수\) "wikilink") 참여.
 146. 'STATION X 3'의 열 다섯번째 주인공.
-147. [블락비](https://ko.wikipedia.org/wiki/블락비 "wikilink")의 멤버 [피오](https://ko.wikipedia.org/wiki/피오 "wikilink"),[WINNER](https://ko.wikipedia.org/wiki/WINNER "wikilink")와 [B.o.M](https://ko.wikipedia.org/wiki/B.o.M "wikilink")의 멤버 [송민호](https://ko.wikipedia.org/wiki/송민호 "wikilink")도 앨범 참여.
+147. [블락비](https://ko.wikipedia.org/wiki/블락비 "wikilink")의 멤버 [피오](https://ko.wikipedia.org/wiki/피오 "wikilink"),[WINNER](https://ko.wikipedia.org/wiki/WINNER "wikilink")와 [B.o.M](https://ko.wikipedia.org/wiki/B.o.M "wikilink")의 멤버 [송민호](../Page/송민호.md "wikilink")도 앨범 참여.
 148. 세계 스카우트 재단 첫 글로벌 앰버서더 선정.
 149. 'STATION X 3'의 주인공.
-150. [레드벨벳의](https://ko.wikipedia.org/wiki/레드벨벳_\(음악_그룹\) "wikilink") [아이린도](https://ko.wikipedia.org/wiki/아이린_\(1991년\) "wikilink") 참여.
+150. [레드벨벳의](../Page/레드벨벳_\(음악_그룹\).md "wikilink") [아이린도](../Page/아이린_\(1991년\).md "wikilink") 참여.
 151. [펀치도](https://ko.wikipedia.org/wiki/펀치_\(가수\) "wikilink") 앨범 참여.
 152. [거미도](https://ko.wikipedia.org/wiki/거미_\(가수\) "wikilink") 앨범 참여.
 153. [베이빌론도](https://ko.wikipedia.org/wiki/베이빌론_\(가수\) "wikilink") 앨범 참여.

@@ -5,7 +5,7 @@
 
 ## 개요
 
-  - 37번째 싱글 〈[OCEAN](https://ko.wikipedia.org/wiki/OCEAN_\(동방신기의_노래\) "wikilink")〉이후 3개월 만에 발매한 싱글이다.
+  - 37번째 싱글 〈[OCEAN](../Page/OCEAN_\(동방신기의_노래\).md "wikilink")〉이후 3개월 만에 발매한 싱글이다.
   - 싱글 발매에 앞서 〈[TOHOSHINKI LIVE TOUR 2013 \~TIME\~](../Page/TOHOSHINKI_LIVE_TOUR_2013_~TIME~.md "wikilink")〉의 닛산 스타디움 공연에서 최초 공개되었다.
   - 본 싱글부터 동방신기의 일본 라이센스 싱글 발매가 중단되었다.
   - 〈SCREAM〉은 H.U.B가 작사하고, 〈I Don't Know〉를 작곡한 [Hitchhiker가](https://ko.wikipedia.org/wiki/히치하이커_\(음악가\) "wikilink") 작곡했다.

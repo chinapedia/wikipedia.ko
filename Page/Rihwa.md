@@ -293,7 +293,7 @@
 </tr>
 <tr class="odd">
 <td><p>Last Love</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후지_TV" title="wikilink">후지 TV</a> 《<a href="https://ko.wikipedia.org/wiki/라스트_신데렐라" title="wikilink">라스트♡신데렐라</a>》 삽입곡</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/후지_TV" title="wikilink">후지 TV</a> 《<a href="../Page/라스트_신데렐라.md" title="wikilink">라스트♡신데렐라</a>》 삽입곡</p></td>
 </tr>
 <tr class="even">
 <td><p><br />

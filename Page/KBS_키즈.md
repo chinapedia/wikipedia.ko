@@ -73,15 +73,15 @@
   - [쥬얼펫 선샤인](https://ko.wikipedia.org/wiki/쥬얼펫_선샤인 "wikilink")
   - 브리스톨 탐험대
   - 꼬마기차 추추
-  - [꼬마 신랑 쿵 도령](https://ko.wikipedia.org/wiki/꼬마_신랑_쿵_도령 "wikilink")
+  - [꼬마 신랑 쿵 도령](../Page/꼬마_신랑_쿵_도령.md "wikilink")
   - 꼬마 어사 쿵 도령
   - 비트파티
   - [놓지마 정신줄](https://ko.wikipedia.org/wiki/놓지마_정신줄 "wikilink")
   - [놓지마 정신줄](https://ko.wikipedia.org/wiki/놓지마_정신줄 "wikilink") 시즌2
   - [프랭키와 친구들](https://ko.wikipedia.org/wiki/프랭키와_친구들 "wikilink")
-  - [아스타를 향해 차구차구](https://ko.wikipedia.org/wiki/아스타를_향해_차구차구 "wikilink")
+  - [아스타를 향해 차구차구](../Page/아스타를_향해_차구차구.md "wikilink")
   - [오스카의 오아시스](https://ko.wikipedia.org/wiki/오스카의_오아시스 "wikilink")
-  - [헬로 카봇](https://ko.wikipedia.org/wiki/헬로_카봇 "wikilink")
+  - [헬로 카봇](../Page/헬로_카봇.md "wikilink")
   - 마야의 모험
   - [뽀롱뽀롱 뽀로로](https://ko.wikipedia.org/wiki/뽀롱뽀롱_뽀로로 "wikilink")
   - [검정고무신 시리즈](https://ko.wikipedia.org/wiki/검정고무신 "wikilink")
@@ -98,7 +98,7 @@
       - [후토스 - 잃어버린 숲](https://ko.wikipedia.org/wiki/후토스_-_잃어버린_숲 "wikilink")
       - 후토스 미니미니
   -
-  - [하늘을 나는 텐트](https://ko.wikipedia.org/wiki/하늘을_나는_텐트 "wikilink")
+  - [하늘을 나는 텐트](../Page/하늘을_나는_텐트.md "wikilink")
   - 놀이터 쨈
   -
   - [자동공부책상 위키](https://ko.wikipedia.org/wiki/자동공부책상_위키_2 "wikilink")
@@ -127,7 +127,7 @@
   - [VJ특공대](https://ko.wikipedia.org/wiki/VJ특공대 "wikilink")
   - [생활의 발견](https://ko.wikipedia.org/wiki/생활의_발견_\(KBS\) "wikilink")
   - [생생정보통](https://ko.wikipedia.org/wiki/생생정보통 "wikilink")
-  - [엄마의 탄생](https://ko.wikipedia.org/wiki/엄마의_탄생 "wikilink")
+  - [엄마의 탄생](../Page/엄마의_탄생.md "wikilink")
   - 박상철의 무조건 세계여행
   - [애니야 놀자](https://ko.wikipedia.org/wiki/애니야_놀자 "wikilink")
 
@@ -151,11 +151,11 @@
 
 #### 드라마
 
-  - [하이스쿨 러브온](https://ko.wikipedia.org/wiki/하이스쿨_러브온 "wikilink")
+  - [하이스쿨 러브온](../Page/하이스쿨_러브온.md "wikilink")
   - [후아유 학교 2015](https://ko.wikipedia.org/wiki/후아유_-_학교_2015 "wikilink")
   - 어린이드라마
   - [코파반장의 동화수사대](../Page/코파반장의_동화수사대.md "wikilink")
-  - [마법 천자문](https://ko.wikipedia.org/wiki/마법_천자문_\(드라마\) "wikilink")
+  - [마법 천자문](../Page/마법_천자문_\(드라마\).md "wikilink")
 
 ## 국내 외주 제작
 

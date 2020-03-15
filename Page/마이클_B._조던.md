@@ -11,9 +11,9 @@
   - 《[크로니클](../Page/크로니클_\(영화\).md "wikilink")》 (2012)
   - 《[오스카 그랜트의 어떤 하루](../Page/오스카_그랜트의_어떤_하루.md "wikilink")》 (2013)
   - 《[댓 어쿼드 모먼트: 그 어색한 순간](../Page/댓_어쿼드_모먼트:_그_어색한_순간.md "wikilink")》 (2014)
-  - 《[판타스틱 4](https://ko.wikipedia.org/wiki/판타스틱_4_\(2015년_영화\) "wikilink")》 (2015)
-  - 《[크리드](https://ko.wikipedia.org/wiki/크리드_\(영화\) "wikilink")》 (2015)
-  - 《[블랙 팬서](https://ko.wikipedia.org/wiki/블랙_팬서_\(영화\) "wikilink")》 (2018) - 에릭 킬몽거 역
+  - 《[판타스틱 4](../Page/판타스틱_4_\(2015년_영화\).md "wikilink")》 (2015)
+  - 《[크리드](../Page/크리드_\(영화\).md "wikilink")》 (2015)
+  - 《[블랙 팬서](../Page/블랙_팬서_\(영화\).md "wikilink")》 (2018) - 에릭 킬몽거 역
   - 《[화씨 451](https://ko.wikipedia.org/wiki/화씨_451 "wikilink")》 (2018, [HBO](https://ko.wikipedia.org/wiki/HBO "wikilink")) - 몬태그 역
   - 《[크리드 2](https://ko.wikipedia.org/wiki/크리드_2 "wikilink")》 (2018) - 아도니스 크리드 역
   - 《[화씨 451](https://ko.wikipedia.org/wiki/화씨_451 "wikilink")》 (2018) - 몬태그 역

@@ -5,9 +5,9 @@
 
 ## 개요
 
-전작 〈[하늘이 우니까](https://ko.wikipedia.org/wiki/하늘이_우니까 "wikilink")〉로부터 약 1년 2개월 만의 싱글이다.
+전작 〈[하늘이 우니까](../Page/하늘이_우니까.md "wikilink")〉로부터 약 1년 2개월 만의 싱글이다.
 
-앨범 《[I AND 사랑](https://ko.wikipedia.org/wiki/I_AND_사랑 "wikilink")》과 동시 발매되었다. 《I AND 사랑》에는 이 싱글의 곡들이 수록되어있지 않다.
+앨범 《[I AND 사랑](../Page/I_AND_사랑.md "wikilink")》과 동시 발매되었다. 《I AND 사랑》에는 이 싱글의 곡들이 수록되어있지 않다.
 
 ## 수록곡
 

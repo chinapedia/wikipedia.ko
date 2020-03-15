@@ -10,7 +10,7 @@
 
 |-bgcolor="\#efefef" 2014년 8월 23일 기준 \! 시즌 \! 리그 \! 팀수 \! 순위 \! 경기 \! 승 \! 무 \! 패 \! 득 \! 실 \! 승점 \! FA컵 \! 기타 \! 감독
 
-|- |[2015](https://ko.wikipedia.org/wiki/K3리그_2015 "wikilink") |K3리그 ?조 |align=right|18(9) |align=right|**?(?)** |align=right|? |align=right|? |align=right|? |align=right|? |align=right|? |align=right|? |align=right|**?** | | |rowspan="1"|김희태 |- |- |[2014](https://ko.wikipedia.org/wiki/K3_챌린저스리그_2014 "wikilink") |K3 챌린저스리그 B조 |align=right|18(9) |align=right|**11(6)** |align=right|19 |align=right|7 |align=right|6 |align=right|6 |align=right|43 |align=right|37 |align=right|**27** | | |rowspan="1"|김희태 |- |}
+|- |[2015](../Page/K3리그_2015.md "wikilink") |K3리그 ?조 |align=right|18(9) |align=right|**?(?)** |align=right|? |align=right|? |align=right|? |align=right|? |align=right|? |align=right|? |align=right|**?** | | |rowspan="1"|김희태 |- |- |[2014](../Page/K3_챌린저스리그_2014.md "wikilink") |K3 챌린저스리그 B조 |align=right|18(9) |align=right|**11(6)** |align=right|19 |align=right|7 |align=right|6 |align=right|6 |align=right|43 |align=right|37 |align=right|**27** | | |rowspan="1"|김희태 |- |}
 
 ## 외부 링크
 

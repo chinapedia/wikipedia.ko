@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Wake Up, Girls!](https://ko.wikipedia.org/wiki/Wake_Up,_Girls!).
 
 
-**Wake Up, Girls\!**(웨이크 업, 걸즈\!)는 [Ordet](https://ko.wikipedia.org/wiki/Ordet "wikilink"), [다쓰노코 프로덕션이](https://ko.wikipedia.org/wiki/다쓰노코_프로덕션 "wikilink") 제작한 애니메이션 시리즈이다. [야마모토 유타카가](https://ko.wikipedia.org/wiki/야마모토_유타카 "wikilink") 감독을 맡았다.\[1\] "Wake Up, Girls\! 일곱 명의 아이돌"()은 일본에서 2014년 1월 10일에 개봉했고, 다음 날에 일본에서 텔레비전 방송을 시작하여 2014년 1월 11일과 3월 28일 사이에 방영되었다.\[2\]\[3\] 영화는 발매 이후 108개국에서 온라인으로 스트리밍 방송이 되면서 영화와 텔레비전 애니메이션 시리즈 모두 영어 자막이 붙은 채로 Crunchyroll에서 스트리밍되고 있다.\[4\]
+**Wake Up, Girls\!**(웨이크 업, 걸즈\!)는 [Ordet](../Page/Ordet.md "wikilink"), [다쓰노코 프로덕션이](https://ko.wikipedia.org/wiki/다쓰노코_프로덕션 "wikilink") 제작한 애니메이션 시리즈이다. [야마모토 유타카가](https://ko.wikipedia.org/wiki/야마모토_유타카 "wikilink") 감독을 맡았다.\[1\] "Wake Up, Girls\! 일곱 명의 아이돌"()은 일본에서 2014년 1월 10일에 개봉했고, 다음 날에 일본에서 텔레비전 방송을 시작하여 2014년 1월 11일과 3월 28일 사이에 방영되었다.\[2\]\[3\] 영화는 발매 이후 108개국에서 온라인으로 스트리밍 방송이 되면서 영화와 텔레비전 애니메이션 시리즈 모두 영어 자막이 붙은 채로 Crunchyroll에서 스트리밍되고 있다.\[4\]
 
 ## 줄거리
 

@@ -5,7 +5,7 @@
 
 ## 개요
 
-이 소프트웨어는 하츠네 미쿠 등의 [VOCALOID](https://ko.wikipedia.org/wiki/VOCALOID "wikilink") 캐릭터가 등장하는 게임이다. [굿 스마일 컴퍼니의](https://ko.wikipedia.org/wiki/굿_스마일_컴퍼니 "wikilink") [넨드로이드](https://ko.wikipedia.org/wiki/넨드로이드 "wikilink") 디자인을 사용하고 있다. 등장 캐릭터는 [크립톤 퓨처 미디어의](https://ko.wikipedia.org/wiki/크립톤_퓨처_미디어 "wikilink") [MEIKO](https://ko.wikipedia.org/wiki/MEIKO "wikilink"), [KAITO](https://ko.wikipedia.org/wiki/KAITO "wikilink"), [하츠네 미쿠](https://ko.wikipedia.org/wiki/하츠네_미쿠 "wikilink"), [카가미네 린·렌](https://ko.wikipedia.org/wiki/카가미네_린·렌 "wikilink"), [메구리네 루카가](https://ko.wikipedia.org/wiki/메구리네_루카 "wikilink") 등장한다. [인터넷사의](https://ko.wikipedia.org/wiki/주식회사_인터넷 "wikilink") VOCALOID [GUMI도](https://ko.wikipedia.org/wiki/Megpoid "wikilink") 등장한다. GUMI의 경우는 첫작이 발매 된 당시 GUMI의 넨드로이드가 출시되지 않았던 때이기 때문에 등장하지 않았으나, 두번째 작품에는 GUMI 넨드로이드 발매 이후여서 GUMI가 등장한다.
+이 소프트웨어는 하츠네 미쿠 등의 [VOCALOID](https://ko.wikipedia.org/wiki/VOCALOID "wikilink") 캐릭터가 등장하는 게임이다. [굿 스마일 컴퍼니의](../Page/굿_스마일_컴퍼니.md "wikilink") [넨드로이드](https://ko.wikipedia.org/wiki/넨드로이드 "wikilink") 디자인을 사용하고 있다. 등장 캐릭터는 [크립톤 퓨처 미디어의](https://ko.wikipedia.org/wiki/크립톤_퓨처_미디어 "wikilink") [MEIKO](https://ko.wikipedia.org/wiki/MEIKO "wikilink"), [KAITO](https://ko.wikipedia.org/wiki/KAITO "wikilink"), [하츠네 미쿠](https://ko.wikipedia.org/wiki/하츠네_미쿠 "wikilink"), [카가미네 린·렌](https://ko.wikipedia.org/wiki/카가미네_린·렌 "wikilink"), [메구리네 루카가](https://ko.wikipedia.org/wiki/메구리네_루카 "wikilink") 등장한다. [인터넷사의](https://ko.wikipedia.org/wiki/주식회사_인터넷 "wikilink") VOCALOID [GUMI도](https://ko.wikipedia.org/wiki/Megpoid "wikilink") 등장한다. GUMI의 경우는 첫작이 발매 된 당시 GUMI의 넨드로이드가 출시되지 않았던 때이기 때문에 등장하지 않았으나, 두번째 작품에는 GUMI 넨드로이드 발매 이후여서 GUMI가 등장한다.
 
 ## 같이 보기
 

@@ -62,7 +62,7 @@
 
   - 오오스기 케이코 - 호리우치 케이코
     오오스기의 아내.
-  - 오오스기 메구미 - [스기사키 하나](https://ko.wikipedia.org/wiki/스기사키_하나 "wikilink")
+  - 오오스기 메구미 - [스기사키 하나](../Page/스기사키_하나.md "wikilink")
     오오스기의 딸.
 
 #### 아케보시가(家)
@@ -333,7 +333,7 @@
 </table>
 
   - Episode \#1은 18분 확대·3분 지연 (20:57 \~ 22:09).
-  - Episode \#3는 《[SMBC 일본 시리즈](https://ko.wikipedia.org/wiki/2014년_일본_시리즈 "wikilink") [후쿠오카 소프트뱅크](https://ko.wikipedia.org/wiki/후쿠오카_소프트뱅크_호크스 "wikilink")×[한신](https://ko.wikipedia.org/wiki/한신_타이거스 "wikilink")》 중계에 의해 1시간 20분 지연 (22:20 \~ 23:14).
+  - Episode \#3는 《[SMBC 일본 시리즈](../Page/2014년_일본_시리즈.md "wikilink") [후쿠오카 소프트뱅크](https://ko.wikipedia.org/wiki/후쿠오카_소프트뱅크_호크스 "wikilink")×[한신](https://ko.wikipedia.org/wiki/한신_타이거스 "wikilink")》 중계에 의해 1시간 20분 지연 (22:20 \~ 23:14).
 
 ## 스핀오프 드라마
 
@@ -348,7 +348,7 @@
   - 츠시로 슌스케 - [코히나타 후미요](https://ko.wikipedia.org/wiki/코히나타_후미요 "wikilink")
   - 무라세 타츠오미 - [츠루미 싱고](https://ko.wikipedia.org/wiki/츠루미_싱고 "wikilink")
   - 오오스기 케이코 - [호리우치 케이코](https://ko.wikipedia.org/wiki/호리우치_케이코 "wikilink")
-  - 오오스기 메구미 - [스기사키 하나](https://ko.wikipedia.org/wiki/스기사키_하나 "wikilink")
+  - 오오스기 메구미 - [스기사키 하나](../Page/스기사키_하나.md "wikilink")
   - 나카가미 렌 - [요시다 코타로](https://ko.wikipedia.org/wiki/요시다_코타로 "wikilink")
   - 마에지마 켄스케 - [바바 토오루](https://ko.wikipedia.org/wiki/바바_토오루 "wikilink")
 

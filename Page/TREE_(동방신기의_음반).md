@@ -11,7 +11,7 @@
 
 《**TREE**》는 대한민국 음악 그룹 [동방신기](https://ko.wikipedia.org/wiki/동방신기 "wikilink")의 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서 발매한 7번째 정규 앨범이다. 앨범 제목에는 멤버들의 성장하는 모습을 나무에 비유하여 사람들에게 은혜를 베푸는 나무같은 존재가 되고 싶다는 동방신기의 메시지를 담고자 이와 같이 작명하였다.
 
-앨범 종류는 A버전 (CD+DVD반), B버전 (CD+DVD반), C버전 (CD반)로 분류되어 있으며 2013년 정규 6집 〈[TIME](../Page/TIME_\(동방신기의_음반\).md "wikilink")〉이후에 발매된 〈[OCEAN](https://ko.wikipedia.org/wiki/OCEAN_\(동방신기의_노래\) "wikilink")〉 부터 〈[Hide & Seek / Something](https://ko.wikipedia.org/wiki/Hide_&_Seek_/_Something "wikilink")〉에 싱글되어 있는 수록곡들과 CD반 기준 11곡의 신곡으로 구성되어 있다. 앨범의 완성도를 위해 각 싱글의 B 사이드 수록곡은 트랙 상에서 제외하였으며 정규 5집 〈[TONE](../Page/TONE.md "wikilink")〉으로 부터 시작된 동방신기의 머릿글자 T를 사용해, E를 끝글자로 작명하는 앨범명의 관습을 그대로 이어갔다.
+앨범 종류는 A버전 (CD+DVD반), B버전 (CD+DVD반), C버전 (CD반)로 분류되어 있으며 2013년 정규 6집 〈[TIME](../Page/TIME_\(동방신기의_음반\).md "wikilink")〉이후에 발매된 〈[OCEAN](../Page/OCEAN_\(동방신기의_노래\).md "wikilink")〉 부터 〈[Hide & Seek / Something](https://ko.wikipedia.org/wiki/Hide_&_Seek_/_Something "wikilink")〉에 싱글되어 있는 수록곡들과 CD반 기준 11곡의 신곡으로 구성되어 있다. 앨범의 완성도를 위해 각 싱글의 B 사이드 수록곡은 트랙 상에서 제외하였으며 정규 5집 〈[TONE](../Page/TONE.md "wikilink")〉으로 부터 시작된 동방신기의 머릿글자 T를 사용해, E를 끝글자로 작명하는 앨범명의 관습을 그대로 이어갔다.
 
 ## 수록곡
 

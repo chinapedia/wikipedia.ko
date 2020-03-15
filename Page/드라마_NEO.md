@@ -9,7 +9,7 @@ TBS에서는, [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [10월
 
 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink")기의 《방과 후 그루브》부터는, 방송 시간이 월요일 24:28 \~ 25:07이 된다\[1\].
 
-《[다크 시스템 사랑의 왕좌 결정전](https://ko.wikipedia.org/wiki/다크_시스템_사랑의_왕좌_결정전 "wikilink")》이 종료한 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink")로 폐지가 되었다. 후 프로그램은 버라이어티 프로그램이 된다.
+《[다크 시스템 사랑의 왕좌 결정전](../Page/다크_시스템_사랑의_왕좌_결정전.md "wikilink")》이 종료한 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink")로 폐지가 되었다. 후 프로그램은 버라이어티 프로그램이 된다.
 
 ## 작품 목록
 
@@ -35,7 +35,7 @@ TBS에서는, [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [10월
 
 ### 2014년
 
-  - [다크 시스템 사랑의 왕좌 결정전](https://ko.wikipedia.org/wiki/다크_시스템_사랑의_왕좌_결정전 "wikilink") (2014년 1월 20일 \~ 3월 24일)
+  - [다크 시스템 사랑의 왕좌 결정전](../Page/다크_시스템_사랑의_왕좌_결정전.md "wikilink") (2014년 1월 20일 \~ 3월 24일)
       - 출연: [야오토메 히카루](https://ko.wikipedia.org/wiki/야오토메_히카루 "wikilink") 외
 
 ## 각주

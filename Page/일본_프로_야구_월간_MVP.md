@@ -5,7 +5,7 @@
 
 ## 개요
 
-선정은 개인 성적 및 기록원이 조사하고 평가한 공헌도를 기반으로 이루어진다. [메이저 리그의](https://ko.wikipedia.org/wiki/메이저_리그_베이스볼 "wikilink") ‘이달의 선수’(The Player of the Month award)에 규칙을 가져오면서 1975년 [센트럴 리그에서](https://ko.wikipedia.org/wiki/센트럴_리그 "wikilink") 제도가 시작돼 1979년부터는 [퍼시픽 리그도](https://ko.wikipedia.org/wiki/퍼시픽_리그 "wikilink") 이를 따르고 있다. 당초 리그 내의 전체 선수 중에서 원칙적으로 매월 1명씩을 선정하고 있었지만 1989년부터 [투수](https://ko.wikipedia.org/wiki/투수 "wikilink"), [야수](https://ko.wikipedia.org/wiki/야수 "wikilink")를 각각 1명 씩을 원칙으로 시상을 하는 현재의 제도가 됐다. 주관 스폰서는 [닛폰 생명보험이](https://ko.wikipedia.org/wiki/닛폰_생명보험 "wikilink") 오랫동안 맡고 있었지만, 2019년도부터 닛폰 생명의 자회사인 [다이주 생명보험이](https://ko.wikipedia.org/wiki/다이주_생명보험 "wikilink") 넘겨받았다.\[1\]
+선정은 개인 성적 및 기록원이 조사하고 평가한 공헌도를 기반으로 이루어진다. [메이저 리그의](https://ko.wikipedia.org/wiki/메이저_리그_베이스볼 "wikilink") ‘이달의 선수’(The Player of the Month award)에 규칙을 가져오면서 1975년 [센트럴 리그에서](https://ko.wikipedia.org/wiki/센트럴_리그 "wikilink") 제도가 시작돼 1979년부터는 [퍼시픽 리그도](https://ko.wikipedia.org/wiki/퍼시픽_리그 "wikilink") 이를 따르고 있다. 당초 리그 내의 전체 선수 중에서 원칙적으로 매월 1명씩을 선정하고 있었지만 1989년부터 [투수](https://ko.wikipedia.org/wiki/투수 "wikilink"), [야수](https://ko.wikipedia.org/wiki/야수 "wikilink")를 각각 1명 씩을 원칙으로 시상을 하는 현재의 제도가 됐다. 주관 스폰서는 [닛폰 생명보험이](../Page/닛폰_생명보험.md "wikilink") 오랫동안 맡고 있었지만, 2019년도부터 닛폰 생명의 자회사인 [다이주 생명보험이](https://ko.wikipedia.org/wiki/다이주_생명보험 "wikilink") 넘겨받았다.\[1\]
 
 수상 선수에게는 리그로부터 감사패가, 닛폰 생명보험에서는 상금 30만 엔 및 [트로피](https://ko.wikipedia.org/wiki/트로피 "wikilink")가 수여된다. 3월에 이뤄지는 경기는 4월분의 시상 대상에 포함되며 ‘3, 4월달’ 월간 MVP로서 시상한다. 한편 10월에 이뤄지는 경기는 원래 시상 대상은 전혀 아니었지만 2017년부터는 10월에 경기가 있는 경우엔 9월분의 시상 대상으로 포함됨에 따라 ‘9, 10월달’의 월간 MVP로서 시상하게 됐다. 또한 2011년에 [동일본 대지진의](https://ko.wikipedia.org/wiki/도호쿠_지방_태평양_해역_지진 "wikilink") 영향으로 시즌 개막이 3월 25일에서 4월 12일로 연기됐고 4월 11일까지 예정됐던 경기는 모두 9월 20일 이후로 편성되면서 예년보다 10월의 경기가 늘어났기 때문에 개별적으로 시상을 하고 있다.
 
@@ -19,7 +19,7 @@
 | ------------------------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------------------- |
 | 성명                                                      | 소속                                                                    | 성명                                                              | 소속                                                                        |
 | [1975년](https://ko.wikipedia.org/wiki/1975년 "wikilink") | 4월                                                                    | [다부치 고이치](https://ko.wikipedia.org/wiki/다부치_고이치 "wikilink")     | [한신](https://ko.wikipedia.org/wiki/한신_타이거스 "wikilink")                    |
-| 5월                                                      | [소토코바 요시로](https://ko.wikipedia.org/wiki/소토코바_요시로 "wikilink")         | [히로시마](https://ko.wikipedia.org/wiki/히로시마_도요_카프 "wikilink")     |                                                                           |
+| 5월                                                      | [소토코바 요시로](../Page/소토코바_요시로.md "wikilink")                            | [히로시마](https://ko.wikipedia.org/wiki/히로시마_도요_카프 "wikilink")     |                                                                           |
 | 6월                                                      | [기누가사 사치오](https://ko.wikipedia.org/wiki/기누가사_사치오 "wikilink")         | 히로시마                                                            |                                                                           |
 | 7월                                                      | [J. 시핀](https://ko.wikipedia.org/wiki/존_시핀 "wikilink")                | [다이요](https://ko.wikipedia.org/wiki/요코하마_DeNA_베이스타스 "wikilink") |                                                                           |
 | 8월                                                      | [야마모토 고지](https://ko.wikipedia.org/wiki/야마모토_고지_\(1946년\) "wikilink") | 히로시마                                                            |                                                                           |
@@ -27,7 +27,7 @@
 | [1976년](https://ko.wikipedia.org/wiki/1976년 "wikilink") | 4월                                                                    | [가토 하지메](https://ko.wikipedia.org/wiki/가토_하지메 "wikilink")       | [요미우리](https://ko.wikipedia.org/wiki/요미우리_자이언츠 "wikilink")                |
 | 5월                                                      | [오 사다하루](https://ko.wikipedia.org/wiki/오_사다하루 "wikilink")             | 요미우리                                                            |                                                                           |
 | 6월                                                      | [하리모토 이사오](https://ko.wikipedia.org/wiki/장훈 "wikilink")               | 요미우리                                                            |                                                                           |
-| 7월                                                      | [이케가야 고지로](https://ko.wikipedia.org/wiki/이케가야_고지로 "wikilink")         | 히로시마                                                            |                                                                           |
+| 7월                                                      | [이케가야 고지로](../Page/이케가야_고지로.md "wikilink")                            | 히로시마                                                            |                                                                           |
 | 8월                                                      | [아이다 데루오](https://ko.wikipedia.org/wiki/아이다_데루오 "wikilink")           | [야쿠르트](https://ko.wikipedia.org/wiki/도쿄_야쿠르트_스왈로스 "wikilink")   |                                                                           |
 | 9월                                                      | [후루사와 겐지](https://ko.wikipedia.org/wiki/후루사와_겐지 "wikilink")           | 한신                                                              |                                                                           |
 | [1977년](https://ko.wikipedia.org/wiki/1977년 "wikilink") | 4월                                                                    | [다시로 도미오](https://ko.wikipedia.org/wiki/다시로_도미오 "wikilink")     | 다이요                                                                       |
@@ -44,7 +44,7 @@
 | 9월                                                      | [마쓰오카 히로무](https://ko.wikipedia.org/wiki/마쓰오카_히로무 "wikilink")         | 야쿠르트                                                            |                                                                           |
 | [1979년](https://ko.wikipedia.org/wiki/1979년 "wikilink") | 4월                                                                    | [가케후 마사유키](../Page/가케후_마사유키.md "wikilink")                      | 한신                                                                        |
 | 5월                                                      | [고마쓰 다쓰오](https://ko.wikipedia.org/wiki/고마쓰_다쓰오 "wikilink")           | 주니치                                                             | [C. 매뉴엘](https://ko.wikipedia.org/wiki/찰리_매뉴엘 "wikilink")                 |
-| 6월                                                      | [고바야시 시게루](https://ko.wikipedia.org/wiki/고바야시_시게루 "wikilink")         | 한신                                                              | [가토 히데지](https://ko.wikipedia.org/wiki/가토_히데지 "wikilink")                 |
+| 6월                                                      | [고바야시 시게루](https://ko.wikipedia.org/wiki/고바야시_시게루 "wikilink")         | 한신                                                              | [가토 히데지](../Page/가토_히데지.md "wikilink")                                    |
 | 7월                                                      | [다카하시 요시히코](https://ko.wikipedia.org/wiki/다카하시_요시히코 "wikilink")       | 히로시마                                                            | [야마다 히사시](https://ko.wikipedia.org/wiki/야마다_히사시 "wikilink")               |
 | 8월                                                      | [에나쓰 유타카](https://ko.wikipedia.org/wiki/에나쓰_유타카 "wikilink")           | 히로시마                                                            | [마쓰누마 히로히사](https://ko.wikipedia.org/wiki/마쓰누마_히로히사 "wikilink")           |
 | 9월                                                      | 기누가사 사치오                                                              | 히로시마                                                            | [레온 L.](https://ko.wikipedia.org/wiki/레온_리 "wikilink")                    |
@@ -63,7 +63,7 @@
 | [1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink") | 4월                                                                    | 야자와 겐이치                                                         | 주니치                                                                       |
 | 5월                                                      | [기타벳푸 마나부](https://ko.wikipedia.org/wiki/기타벳푸_마나부 "wikilink")         | 히로시마                                                            | [오타 다쿠지](https://ko.wikipedia.org/wiki/오타_다쿠지 "wikilink")                 |
 | 6월                                                      | 기누가사 사치오                                                              | 히로시마                                                            | [구도 미키오](https://ko.wikipedia.org/wiki/구도_미키오 "wikilink")                 |
-| 7월                                                      | [마쓰모토 다다시](https://ko.wikipedia.org/wiki/마쓰모토_다다시 "wikilink")         | 요미우리                                                            | 구도 미키오                                                                    |
+| 7월                                                      | [마쓰모토 다다시](../Page/마쓰모토_다다시.md "wikilink")                            | 요미우리                                                            | 구도 미키오                                                                    |
 | 8월                                                      | [야마모토 가즈유키](https://ko.wikipedia.org/wiki/야마모토_가즈유키 "wikilink")       | 한신                                                              | [이모토 다카시](https://ko.wikipedia.org/wiki/이모토_다카시 "wikilink")               |
 | 9월                                                      | 와카마쓰 쓰토무                                                              | 야쿠르트                                                            | [미즈타니 노리히로](https://ko.wikipedia.org/wiki/미즈타니_노리히로 "wikilink")           |
 | [1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink") | 4월                                                                    | 야마모토 고지                                                         | 히로시마                                                                      |
@@ -74,14 +74,14 @@
 | 9월                                                      | [엔도 가즈히코](https://ko.wikipedia.org/wiki/엔도_가즈히코 "wikilink")           | 다이요                                                             | [스티브 O.](https://ko.wikipedia.org/wiki/스티브_온티베로스 "wikilink")              |
 | [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") | 4월                                                                    | [오노 유타카](../Page/오노_유타카.md "wikilink")                          | 히로시마                                                                      |
 | 5월                                                      | 야자와 겐이치                                                               | 주니치                                                             | 야마다 히사시                                                                   |
-| 6월                                                      | [오시마 야스노리](https://ko.wikipedia.org/wiki/오시마_야스노리 "wikilink")         | 주니치                                                             | [스즈키 게이시](https://ko.wikipedia.org/wiki/스즈키_게이시 "wikilink")               |
+| 6월                                                      | [오시마 야스노리](https://ko.wikipedia.org/wiki/오시마_야스노리 "wikilink")         | 주니치                                                             | [스즈키 게이시](../Page/스즈키_게이시.md "wikilink")                                  |
 | 7월                                                      | [가토리 요시타카](https://ko.wikipedia.org/wiki/가토리_요시타카 "wikilink")         | 요미우리                                                            | [야마모토 가즈노리](https://ko.wikipedia.org/wiki/야마모토_가즈노리_\(1957년\) "wikilink") |
 | 8월                                                      | 우노 마사루                                                                | 주니치                                                             | [부머 W.](https://ko.wikipedia.org/wiki/부머_웰스 "wikilink")                   |
 | 9월                                                      | [오바나 다카오](https://ko.wikipedia.org/wiki/오바나_다카오 "wikilink")           | 야쿠르트                                                            | T. 크루즈                                                                    |
 | [1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink") | 4월                                                                    | [R. 바스](https://ko.wikipedia.org/wiki/랜디_바스 "wikilink")         | 한신                                                                        |
 | 5월                                                      | [스기우라 도루](https://ko.wikipedia.org/wiki/스기우라_도루 "wikilink")           | 야쿠르트                                                            | [아키야마 고지](https://ko.wikipedia.org/wiki/아키야마_고지 "wikilink")               |
-| 6월                                                      | 엔도 가즈히코                                                               | 다이요                                                             | [사토 요시노리](https://ko.wikipedia.org/wiki/사토_요시노리_\(1954년\) "wikilink")     |
-| 7월                                                      | 하라 다쓰노리                                                               | 요미우리                                                            | [후루야 히데오](https://ko.wikipedia.org/wiki/후루야_히데오 "wikilink")               |
+| 6월                                                      | 엔도 가즈히코                                                               | 다이요                                                             | [사토 요시노리](../Page/사토_요시노리_\(1954년\).md "wikilink")                        |
+| 7월                                                      | 하라 다쓰노리                                                               | 요미우리                                                            | [후루야 히데오](../Page/후루야_히데오.md "wikilink")                                  |
 | 8월                                                      | [오카다 아키노부](https://ko.wikipedia.org/wiki/오카다_아키노부 "wikilink")         | 한신                                                              | [이시모토 요시아키](https://ko.wikipedia.org/wiki/이시모토_요시아키 "wikilink")           |
 | 9월                                                      | [마유미 아키노부](https://ko.wikipedia.org/wiki/마유미_아키노부 "wikilink")         | 한신                                                              | [오치아이 히로미쓰](https://ko.wikipedia.org/wiki/오치아이_히로미쓰 "wikilink")           |
 | [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") | 4월                                                                    | 야마모토 고지                                                         | 히로시마                                                                      |
@@ -100,7 +100,7 @@
 | [1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink") | 4월                                                                    | [B. 걸릭슨](https://ko.wikipedia.org/wiki/빌_걸릭슨 "wikilink")        | 요미우리                                                                      |
 | 5월                                                      | 마키하라 히로미                                                              | 요미우리                                                            | 가도타 히로미쓰                                                                  |
 | 6월                                                      | [가쿠 겐지](https://ko.wikipedia.org/wiki/가쿠_겐지 "wikilink")               | 주니치                                                             | 궈타이위안                                                                     |
-| 7월                                                      | [J. 파치오렉](https://ko.wikipedia.org/wiki/짐_파치오렉 "wikilink")            | 다이요                                                             | [후쿠라 준이치](https://ko.wikipedia.org/wiki/후쿠라_준이치 "wikilink")               |
+| 7월                                                      | [J. 파치오렉](https://ko.wikipedia.org/wiki/짐_파치오렉 "wikilink")            | 다이요                                                             | [후쿠라 준이치](../Page/후쿠라_준이치.md "wikilink")                                  |
 | 8월                                                      | 오치아이 히로미쓰                                                             | 주니치                                                             | [R. 브라이언트](https://ko.wikipedia.org/wiki/랄프_브라이언트 "wikilink")             |
 | 9월                                                      | 가와구치 가즈히사                                                             | 히로시마                                                            | [B. 오길비](https://ko.wikipedia.org/wiki/벤_오길비 "wikilink")                  |
 
@@ -198,7 +198,7 @@
 <td><p>9월</p></td>
 <td><p>요시무라 사다아키</p></td>
 <td><p>요미우리</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/사사오카_신지" title="wikilink">사사오카 신지</a></p></td>
+<td><p><a href="../Page/사사오카_신지.md" title="wikilink">사사오카 신지</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/1991년" title="wikilink">1991년</a></p></td>
@@ -220,7 +220,7 @@
 </tr>
 <tr class="even">
 <td><p>7월</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/나카무라_다케시_(야구인)" title="wikilink">나카무라 다케시</a></p></td>
+<td><p><a href="../Page/나카무라_다케시_(야구인).md" title="wikilink">나카무라 다케시</a></p></td>
 <td><p>주니치</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/사사키_가즈히로" title="wikilink">사사키 가즈히로</a></p></td>
 </tr>
@@ -228,7 +228,7 @@
 <td><p>8월</p></td>
 <td><p>오치아이 히로미쓰</p></td>
 <td><p>주니치</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이마나카_신지" title="wikilink">이마나카 신지</a></p></td>
+<td><p><a href="../Page/이마나카_신지.md" title="wikilink">이마나카 신지</a></p></td>
 </tr>
 <tr class="even">
 <td><p>9월</p></td>
@@ -250,7 +250,7 @@
 </tr>
 <tr class="odd">
 <td><p>6월</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오쿠보_히로모토" title="wikilink">오쿠보 히로모토</a></p></td>
+<td><p><a href="../Page/오쿠보_히로모토.md" title="wikilink">오쿠보 히로모토</a></p></td>
 <td><p>요미우리</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/유후네_도시로" title="wikilink">유후네 도시로</a></p></td>
 </tr>
@@ -306,7 +306,7 @@
 <td><p>9월</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/니무라_도루" title="wikilink">니무라 도루</a></p></td>
 <td><p>주니치</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이토_아키미쓰" title="wikilink">이토 아키미쓰</a></p></td>
+<td><p><a href="../Page/이토_아키미쓰.md" title="wikilink">이토 아키미쓰</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/1994년" title="wikilink">1994년</a></p></td>
@@ -334,7 +334,7 @@
 </tr>
 <tr class="odd">
 <td><p>8월</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/에토_아키라" title="wikilink">에토 아키라</a></p></td>
+<td><p><a href="../Page/에토_아키라.md" title="wikilink">에토 아키라</a></p></td>
 <td><p>히로시마</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/기토_마코토" title="wikilink">기토 마코토</a></p></td>
 </tr>
@@ -582,7 +582,7 @@
 <td><p>6월</p></td>
 <td><p>기요하라 가즈히로</p></td>
 <td><p>요미우리</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이리키_사토시" title="wikilink">이리키 사토시</a></p></td>
+<td><p><a href="../Page/이리키_사토시.md" title="wikilink">이리키 사토시</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>7월</p></td>
@@ -816,7 +816,7 @@
 <td><p>9월</p></td>
 <td><p>A. 라미레스</p></td>
 <td><p>야쿠르트</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/야마이_다이스케" title="wikilink">야마이 다이스케</a></p></td>
+<td><p><a href="../Page/야마이_다이스케.md" title="wikilink">야마이 다이스케</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/2008년" title="wikilink">2008년</a></p></td>
@@ -930,7 +930,7 @@
 <td><p>8월</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/도리타니_다카시" title="wikilink">도리타니 다카시</a></p></td>
 <td><p>한신</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/다테야마_쇼헤이" title="wikilink">다테야마 쇼헤이</a></p></td>
+<td><p><a href="../Page/다테야마_쇼헤이.md" title="wikilink">다테야마 쇼헤이</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>9월</p></td>
@@ -976,7 +976,7 @@
 </tr>
 <tr class="even">
 <td><p>10월</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/토니_블랑코" title="wikilink">T. 블랑코</a></p></td>
+<td><p><a href="../Page/토니_블랑코.md" title="wikilink">T. 블랑코</a></p></td>
 <td><p>주니치</p></td>
 <td><p>노미 아쓰시</p></td>
 </tr>
@@ -1054,7 +1054,7 @@
 </tr>
 <tr class="odd">
 <td><p>9월</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/가와바타_신고" title="wikilink">가와바타 신고</a></p></td>
+<td><p><a href="../Page/가와바타_신고.md" title="wikilink">가와바타 신고</a></p></td>
 <td><p>야쿠르트</p></td>
 <td><p>B. 벌링턴</p></td>
 </tr>
@@ -1066,13 +1066,13 @@
 </tr>
 <tr class="odd">
 <td><p>5월</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/다카이_유헤이" title="wikilink">유헤이</a></p></td>
+<td><p><a href="../Page/다카이_유헤이.md" title="wikilink">유헤이</a></p></td>
 <td><p>야쿠르트</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/이노_쇼이치" title="wikilink">이노 쇼이치</a></p></td>
 </tr>
 <tr class="even">
 <td><p>6월</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/기쿠치_료스케" title="wikilink">기쿠치 료스케</a></p></td>
+<td><p><a href="../Page/기쿠치_료스케.md" title="wikilink">기쿠치 료스케</a></p></td>
 <td><p>히로시마</p></td>
 <td><p>야마구치 슌</p></td>
 </tr>
@@ -1097,14 +1097,14 @@
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/2015년" title="wikilink">2015년</a></p></td>
 <td><p>3, 4월</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/가지타니_다카유키" title="wikilink">가지타니 다카유키</a></p></td>
+<td><p><a href="../Page/가지타니_다카유키.md" title="wikilink">가지타니 다카유키</a></p></td>
 <td><p>DeNA</p></td>
 </tr>
 <tr class="odd">
 <td><p>5월</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/쓰쓰고_요시토모" title="wikilink">쓰쓰고 요시토모</a></p></td>
+<td><p><a href="../Page/쓰쓰고_요시토모.md" title="wikilink">쓰쓰고 요시토모</a></p></td>
 <td><p>DeNA</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오노_유다이" title="wikilink">오노 유다이</a></p></td>
+<td><p><a href="../Page/오노_유다이.md" title="wikilink">오노 유다이</a></p></td>
 </tr>
 <tr class="even">
 <td><p>6월</p></td>
@@ -1140,7 +1140,7 @@
 <td><p>5월</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/하라구치_후미히토" title="wikilink">하라구치 후미히토</a></p></td>
 <td><p>한신</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이시다_겐타" title="wikilink">이시다 겐타</a></p></td>
+<td><p><a href="../Page/이시다_겐타.md" title="wikilink">이시다 겐타</a></p></td>
 </tr>
 <tr class="even">
 <td><p>6월</p></td>
@@ -1266,7 +1266,7 @@
 <td><p>7월</p></td>
 <td><p>J. 로페즈</p></td>
 <td><p>DeNA</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/야마사키_야스아키" title="wikilink">야마사키 야스아키</a></p></td>
+<td><p><a href="../Page/야마사키_야스아키.md" title="wikilink">야마사키 야스아키</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>8월</p></td>

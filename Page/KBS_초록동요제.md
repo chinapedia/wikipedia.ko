@@ -177,7 +177,7 @@ KBS와 [삼성그룹](https://ko.wikipedia.org/wiki/삼성그룹 "wikilink")이 
   - 1993년 (93 KBS 가족동요제): 창작650여 곡 응모.\[9\]\[10\]
       - 대상 - 노아람 가족, 〈사랑을 만들어요〉
 
-가족동요제는 한 번 만 제작하였고, KBS가 1993년에 예산 문제로 [KBS 대학가요축제](https://ko.wikipedia.org/wiki/KBS_대학가요축제 "wikilink") 및 [노래는 내친구를](https://ko.wikipedia.org/wiki/누가누가_잘하나 "wikilink") 폐지한 뒤 [KBS 창작동요대회와](https://ko.wikipedia.org/wiki/KBS_창작동요대회 "wikilink") 마찬가지로 더 이상 제작되지 않았다.
+가족동요제는 한 번 만 제작하였고, KBS가 1993년에 예산 문제로 [KBS 대학가요축제](../Page/KBS_대학가요축제.md "wikilink") 및 [노래는 내친구를](https://ko.wikipedia.org/wiki/누가누가_잘하나 "wikilink") 폐지한 뒤 [KBS 창작동요대회와](../Page/KBS_창작동요대회.md "wikilink") 마찬가지로 더 이상 제작되지 않았다.
 
 ## YMCA 초록 동요제
 
@@ -403,17 +403,17 @@ KBS와 [삼성그룹](https://ko.wikipedia.org/wiki/삼성그룹 "wikilink")이 
 
 ## 함께 보기
 
-  - [KBS 대학가요축제](https://ko.wikipedia.org/wiki/KBS_대학가요축제 "wikilink")
+  - [KBS 대학가요축제](../Page/KBS_대학가요축제.md "wikilink")
   - [누가누가 잘하나](https://ko.wikipedia.org/wiki/누가누가_잘하나 "wikilink")
-  - [KBS 창작동요대회](https://ko.wikipedia.org/wiki/KBS_창작동요대회 "wikilink")
+  - [KBS 창작동요대회](../Page/KBS_창작동요대회.md "wikilink")
   - [MBC 창작동요제](https://ko.wikipedia.org/wiki/MBC_창작동요제 "wikilink")
   - [EBS 고운노래발표회](https://ko.wikipedia.org/wiki/EBS_고운노래발표회 "wikilink")
-  - [서덕출 창작동요제](https://ko.wikipedia.org/wiki/서덕출_창작동요제 "wikilink")
-  - [고향의 봄 창작동요제](https://ko.wikipedia.org/wiki/고향의_봄_창작동요제 "wikilink")
-  - [국악동요제](https://ko.wikipedia.org/wiki/국악동요제 "wikilink")
-  - [성남 박태현 전국 창작동요제](https://ko.wikipedia.org/wiki/성남_박태현_전국_창작동요제 "wikilink")
-  - [용인시 창작동요제](https://ko.wikipedia.org/wiki/용인시_창작동요제 "wikilink")
-  - [유니세프 국제어린이음악제 한국예선](https://ko.wikipedia.org/wiki/유니세프_국제어린이음악제_한국예선 "wikilink")
+  - [서덕출 창작동요제](../Page/서덕출_창작동요제.md "wikilink")
+  - [고향의 봄 창작동요제](../Page/고향의_봄_창작동요제.md "wikilink")
+  - [국악동요제](../Page/국악동요제.md "wikilink")
+  - [성남 박태현 전국 창작동요제](../Page/성남_박태현_전국_창작동요제.md "wikilink")
+  - [용인시 창작동요제](../Page/용인시_창작동요제.md "wikilink")
+  - [유니세프 국제어린이음악제 한국예선](../Page/유니세프_국제어린이음악제_한국예선.md "wikilink")
 
 ## 각주
 

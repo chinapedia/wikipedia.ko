@@ -35,7 +35,7 @@ ASM-3의 사거리를 400 km 이상으로 늘린다고 하는데, 프랑스 ASMP
 
   - \- [X-51 웨이브라이더](https://ko.wikipedia.org/wiki/X-51_웨이브라이더 "wikilink")
 
-  - \- [브라모스-2](https://ko.wikipedia.org/wiki/브라모스-2 "wikilink")
+  - \- [브라모스-2](../Page/브라모스-2.md "wikilink")
 
   - \- [3M22 지르콘](https://ko.wikipedia.org/wiki/3M22_지르콘 "wikilink")
 

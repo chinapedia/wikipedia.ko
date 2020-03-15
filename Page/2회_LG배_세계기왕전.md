@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [2 LG ](https://ko.wikipedia.org/wiki/2_LG_).
 
 
-**제2회 LG배 세계기왕전**은 1998년 3월 23일 [서울특별시](https://ko.wikipedia.org/wiki/서울특별시 "wikilink") [소공동](https://ko.wikipedia.org/wiki/소공동 "wikilink") [롯데호텔](https://ko.wikipedia.org/wiki/롯데호텔 "wikilink")에서 열린 [LG배 세계기왕전](https://ko.wikipedia.org/wiki/LG배_세계기왕전 "wikilink") [바둑](https://ko.wikipedia.org/wiki/바둑 "wikilink") 대국이다. 일본의 [왕리청](https://ko.wikipedia.org/wiki/왕리청 "wikilink") 九단은 [유창혁](https://ko.wikipedia.org/wiki/유창혁 "wikilink") 九단과의 결승에서 3대 2으로 승리하여 우승 상금 2억원,준우승 상금 5천만원을 받았다.
+**제2회 LG배 세계기왕전**은 1998년 3월 23일 [서울특별시](https://ko.wikipedia.org/wiki/서울특별시 "wikilink") [소공동](https://ko.wikipedia.org/wiki/소공동 "wikilink") [롯데호텔](https://ko.wikipedia.org/wiki/롯데호텔 "wikilink")에서 열린 [LG배 세계기왕전](https://ko.wikipedia.org/wiki/LG배_세계기왕전 "wikilink") [바둑](https://ko.wikipedia.org/wiki/바둑 "wikilink") 대국이다. 일본의 [왕리청](../Page/왕리청.md "wikilink") 九단은 [유창혁](https://ko.wikipedia.org/wiki/유창혁 "wikilink") 九단과의 결승에서 3대 2으로 승리하여 우승 상금 2억원,준우승 상금 5천만원을 받았다.
 
 ## 대진표
 
@@ -26,7 +26,7 @@
 <td><p>1997년</p></td>
 <td><p>10월 27일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/이창호" title="wikilink">이창호</a> 九단</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/마샤오춘" title="wikilink">마샤오춘</a> 九단</p></td>
+<td><p><a href="../Page/마샤오춘.md" title="wikilink">마샤오춘</a> 九단</p></td>
 <td><p><strong>243수 백 1집반승</strong></p></td>
 <td></td>
 </tr>
@@ -40,7 +40,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/왕리청" title="wikilink">왕리청</a> 九단</p></td>
+<td><p><a href="../Page/왕리청.md" title="wikilink">왕리청</a> 九단</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/조훈현" title="wikilink">조훈현</a> 九단</p></td>
 <td><p>160수 백 불계승</p></td>
 <td></td>
@@ -49,7 +49,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/최명훈" title="wikilink">최명훈</a> 六단</p></td>
+<td><p><a href="../Page/최명훈.md" title="wikilink">최명훈</a> 六단</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/서봉수" title="wikilink">서봉수</a> 九단</p></td>
 <td><p><strong>265수 흑 21집반승</strong></p></td>
 <td></td>
@@ -68,8 +68,8 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/왕리청" title="wikilink">왕리청</a> 九단</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/최명훈" title="wikilink">최명훈</a> 六단</p></td>
+<td><p><a href="../Page/왕리청.md" title="wikilink">왕리청</a> 九단</p></td>
+<td><p><a href="../Page/최명훈.md" title="wikilink">최명훈</a> 六단</p></td>
 <td><p><strong>279수 흑 6집반승</strong></p></td>
 <td></td>
 <td></td>
@@ -80,7 +80,7 @@
 <td><p>결승 1국</p></td>
 <td><p>2월 24일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/유창혁" title="wikilink">유창혁</a> 九단</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/왕리청" title="wikilink">왕리청</a> 九단</p></td>
+<td><p><a href="../Page/왕리청.md" title="wikilink">왕리청</a> 九단</p></td>
 <td><p><strong>318수 흑 7집반승</strong></p></td>
 <td></td>
 <td></td>
@@ -88,7 +88,7 @@
 <tr class="even">
 <td><p>결승 2국</p></td>
 <td><p>2월 26일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/왕리청" title="wikilink">왕리청</a> 九단</p></td>
+<td><p><a href="../Page/왕리청.md" title="wikilink">왕리청</a> 九단</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/유창혁" title="wikilink">유창혁</a> 九단</p></td>
 <td><p>125수 흑 불계승</p></td>
 <td></td>
@@ -98,7 +98,7 @@
 <td><p>결승 3국</p></td>
 <td><p>3월 18일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/유창혁" title="wikilink">유창혁</a> 九단</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/왕리청" title="wikilink">왕리청</a> 九단</p></td>
+<td><p><a href="../Page/왕리청.md" title="wikilink">왕리청</a> 九단</p></td>
 <td><p>183수 흑 불계승</p></td>
 <td></td>
 <td></td>
@@ -106,7 +106,7 @@
 <tr class="even">
 <td><p>결승 4국</p></td>
 <td><p>3월 20일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/왕리청" title="wikilink">왕리청</a> 九단</p></td>
+<td><p><a href="../Page/왕리청.md" title="wikilink">왕리청</a> 九단</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/유창혁" title="wikilink">유창혁</a> 九단</p></td>
 <td><p>245수 흑 불계승</p></td>
 <td></td>
@@ -115,7 +115,7 @@
 <tr class="odd">
 <td><p>결승 5국</p></td>
 <td><p>3월 23일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/왕리청" title="wikilink">왕리청</a> 九단</p></td>
+<td><p><a href="../Page/왕리청.md" title="wikilink">왕리청</a> 九단</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/유창혁" title="wikilink">유창혁</a> 九단</p></td>
 <td><p><strong>330수 흑 8집반승</strong></p></td>
 <td></td>
@@ -126,8 +126,8 @@
 
 ## 특이사항
 
-  - [왕리청](https://ko.wikipedia.org/wiki/왕리청 "wikilink") 세계대회 첫 우승
-  - [왕리청](https://ko.wikipedia.org/wiki/왕리청 "wikilink") [LG배](https://ko.wikipedia.org/wiki/LG배 "wikilink") 첫 우승
+  - [왕리청](../Page/왕리청.md "wikilink") 세계대회 첫 우승
+  - [왕리청](../Page/왕리청.md "wikilink") [LG배](https://ko.wikipedia.org/wiki/LG배 "wikilink") 첫 우승
   - [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") [LG배](https://ko.wikipedia.org/wiki/LG배 "wikilink") 첫 우승
   - [이창호](https://ko.wikipedia.org/wiki/이창호 "wikilink") [유창혁](https://ko.wikipedia.org/wiki/유창혁 "wikilink") 2년 연속 4강 진출
   - [유창혁](https://ko.wikipedia.org/wiki/유창혁 "wikilink") 2년 연속 준우승

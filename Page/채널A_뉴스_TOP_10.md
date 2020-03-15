@@ -14,7 +14,7 @@
   - [KBS 경제타임](https://ko.wikipedia.org/wiki/KBS_경제타임 "wikilink"), [뮤직뱅크](https://ko.wikipedia.org/wiki/뮤직뱅크 "wikilink"), [2TV 생생정보](https://ko.wikipedia.org/wiki/2TV_생생정보 "wikilink") (KBS 2TV)
   - [SBS 오 뉴스](https://ko.wikipedia.org/wiki/SBS_오_뉴스 "wikilink"), [생방송 투데이](https://ko.wikipedia.org/wiki/생방송_투데이 "wikilink") (SBS)
   - [JTBC 정치부회의](https://ko.wikipedia.org/wiki/JTBC_정치부회의 "wikilink"), [이 시각 뉴스룸](https://ko.wikipedia.org/wiki/이_시각_뉴스룸 "wikilink") (JTBC)
-  - [뉴스 & 이슈](https://ko.wikipedia.org/wiki/뉴스_&_이슈 "wikilink"), [MBN 뉴스와이드](https://ko.wikipedia.org/wiki/MBN_뉴스와이드 "wikilink") (MBN)
+  - [뉴스 & 이슈](../Page/뉴스_&_이슈.md "wikilink"), [MBN 뉴스와이드](https://ko.wikipedia.org/wiki/MBN_뉴스와이드 "wikilink") (MBN)
   - [시사쇼 이것이 정치다](https://ko.wikipedia.org/wiki/시사쇼_이것이_정치다 "wikilink") (TV조선)
 
 ## 외부 링크

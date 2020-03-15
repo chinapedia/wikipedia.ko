@@ -27,7 +27,7 @@
 
 <!-- end list -->
 
-  - **** (, 성우: [타카하시 히로키](https://ko.wikipedia.org/wiki/타카하시_히로키 "wikilink")) / **어린 시절의 일본** (, 성우: [이와무라 아이코](https://ko.wikipedia.org/wiki/이와무라_아이코 "wikilink"))
+  - **** (, 성우: [타카하시 히로키](../Page/타카하시_히로키.md "wikilink")) / **어린 시절의 일본** (, 성우: [이와무라 아이코](https://ko.wikipedia.org/wiki/이와무라_아이코 "wikilink"))
 
 <!-- end list -->
 
@@ -383,7 +383,7 @@
 
 <!-- end list -->
 
-  - **** (, 성우: [타카하시 히로키](https://ko.wikipedia.org/wiki/타카하시_히로키 "wikilink"))
+  - **** (, 성우: [타카하시 히로키](../Page/타카하시_히로키.md "wikilink"))
 
 <!-- end list -->
 
@@ -569,7 +569,7 @@
 
 <!-- end list -->
 
-  - **[와이 공국](https://ko.wikipedia.org/wiki/와이_공국 "wikilink")** (, 성우: [코마츠 미카코](https://ko.wikipedia.org/wiki/코마츠_미카코 "wikilink"))
+  - **[와이 공국](../Page/와이_공국.md "wikilink")** (, 성우: [코마츠 미카코](../Page/코마츠_미카코.md "wikilink"))
 
 <!-- end list -->
 
@@ -578,7 +578,7 @@
 
 <!-- end list -->
 
-  - **[헛리버 공국](https://ko.wikipedia.org/wiki/헛리버_공국 "wikilink")** (, 성우: [나카자와 마사토모](https://ko.wikipedia.org/wiki/나카자와_마사토모 "wikilink"))
+  - **[헛리버 공국](https://ko.wikipedia.org/wiki/헛리버_공국 "wikilink")** (, 성우: [나카자와 마사토모](../Page/나카자와_마사토모.md "wikilink"))
 
 <!-- end list -->
 
@@ -596,7 +596,7 @@
 
 <!-- end list -->
 
-  - **[라도니아](https://ko.wikipedia.org/wiki/라도니아 "wikilink")** (, 성우: [야마시타 다이키](https://ko.wikipedia.org/wiki/야마시타_다이키 "wikilink"))
+  - **[라도니아](../Page/라도니아.md "wikilink")** (, 성우: [야마시타 다이키](https://ko.wikipedia.org/wiki/야마시타_다이키 "wikilink"))
 
 <!-- end list -->
 

@@ -40,7 +40,7 @@
 
   - [JTBC 뉴스 아침&](../Page/JTBC_뉴스_아침&.md "wikilink")
   - [정관용 라이브](https://ko.wikipedia.org/wiki/정관용_라이브 "wikilink")
-  - [뉴스 큐브 6](https://ko.wikipedia.org/wiki/뉴스_큐브_6 "wikilink")
+  - [뉴스 큐브 6](../Page/뉴스_큐브_6.md "wikilink")
   - [JTBC 뉴스 9](https://ko.wikipedia.org/wiki/JTBC_뉴스_9 "wikilink")
   - [JTBC 주말 낮 뉴스](https://ko.wikipedia.org/wiki/JTBC_주말_낮_뉴스 "wikilink")
   - [JTBC 주말뉴스](https://ko.wikipedia.org/wiki/JTBC_주말뉴스 "wikilink")

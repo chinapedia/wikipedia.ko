@@ -53,7 +53,7 @@
   - [결혼의 여신](../Page/결혼의_여신.md "wikilink") - SBC가 하얀 영어로 나오고 SBC 방송 센터가 나오고 내부가 나온다.
   - [피노키오](https://ko.wikipedia.org/wiki/피노키오_\(드라마\) "wikilink") - MSC가 빨간 영어가 나오고 MSC 방송 센터가 나온다.
   - [당신이 잠든 사이에](https://ko.wikipedia.org/wiki/당신이_잠든_사이에_\(드라마\) "wikilink") - SBC 방송 센터가 나온다.
-  - [끝에서 두번째 사랑](https://ko.wikipedia.org/wiki/끝에서_두번째_사랑 "wikilink") - SBC 방송 센터로 나오고 [SBS 방송 센터](https://ko.wikipedia.org/wiki/SBS_방송_센터 "wikilink") 18층 편성실 사무실도 나온다. 세트장과 복도등은 SBS 일산제작센터에서 촬영했다.
+  - [끝에서 두번째 사랑](https://ko.wikipedia.org/wiki/끝에서_두번째_사랑 "wikilink") - SBC 방송 센터로 나오고 [SBS 방송 센터](../Page/SBS_방송_센터.md "wikilink") 18층 편성실 사무실도 나온다. 세트장과 복도등은 SBS 일산제작센터에서 촬영했다.
 
 ### 예능
 
@@ -65,7 +65,7 @@
 
 ## 더 보기
 
-  - [KNN 타워](https://ko.wikipedia.org/wiki/KNN_타워 "wikilink")
+  - [KNN 타워](../Page/KNN_타워.md "wikilink")
   - [SBS](https://ko.wikipedia.org/wiki/SBS_\(대한민국의_방송사\) "wikilink")
 
 ## 각주

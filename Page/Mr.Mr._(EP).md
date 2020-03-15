@@ -5,7 +5,7 @@
 
 대부분의 평론가들은 실험성과 대중성 모두 갖췄지만, 전작에 비해 대중성에 중점을 뒀다고 평가했다. 곡 구성에서도 다양한 장르를 시도했다고 평가했는데, 일부에서는 일관성이 없고 앨범 전체 색이 흐릿해졌다고 말했다. 소녀시대는 3월 6일 《[엠 카운트다운](https://ko.wikipedia.org/wiki/엠_카운트다운 "wikilink")》을 통해 처음으로 컴백 무대를 선보인 이후 3월 30일 《[인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink")》까지 약 한 달간 활동을 했다. 음악 방송 이외에도 다양한 예능, 라디오 등에 출연했다.
 
-《Mr.Mr.》는 발매 첫 주 [가온 앨범 차트](https://ko.wikipedia.org/wiki/가온_앨범_차트 "wikilink") 1위에 올랐고, 2014년 8월까지 16만 장의 판매량을 기록하고 있다.\[1\] 미국에서는 3,000장을 팔아 [빌보드 200](https://ko.wikipedia.org/wiki/빌보드_200 "wikilink") 110위에 오르며 K-Pop 앨범으로는 가장 높은 순위라는 기록을 세웠지만, 같은 날 [2NE1](https://ko.wikipedia.org/wiki/2NE1 "wikilink")의 《[CRUSH](https://ko.wikipedia.org/wiki/CRUSH_\(2NE1의_음반\) "wikilink")》가 기록을 갱신했다.
+《Mr.Mr.》는 발매 첫 주 [가온 앨범 차트](https://ko.wikipedia.org/wiki/가온_앨범_차트 "wikilink") 1위에 올랐고, 2014년 8월까지 16만 장의 판매량을 기록하고 있다.\[1\] 미국에서는 3,000장을 팔아 [빌보드 200](https://ko.wikipedia.org/wiki/빌보드_200 "wikilink") 110위에 오르며 K-Pop 앨범으로는 가장 높은 순위라는 기록을 세웠지만, 같은 날 [2NE1](https://ko.wikipedia.org/wiki/2NE1 "wikilink")의 《[CRUSH](../Page/CRUSH_\(2NE1의_음반\).md "wikilink")》가 기록을 갱신했다.
 
 ## 배경 및 개발
 
@@ -15,7 +15,7 @@
 
 ## 구성
 
-동명의 타이틀곡이자 첫 번째 수록곡 〈[Mr.Mr.](https://ko.wikipedia.org/wiki/Mr.Mr._\(노래\) "wikilink")〉는 [더 언더독스가](https://ko.wikipedia.org/wiki/더_언더독스 "wikilink") 참여한 알앤비 리듬을 가미한 댄스 음악으로, 유니크한 가사와 중독적인 멜로디가 특징이다.\[11\] 가사적인 부분에서는 소녀시대가 남자에게 강인해지고 당당해지라는 응원의 메시지를 담고 있다.\[12\] 안무는 [질리언 메이어스가](https://ko.wikipedia.org/wiki/질리언_메이어스 "wikilink") 맡았다.\[13\] 두 번째 수록곡 〈Goodbye〉는 린디 로민슨과 브렌트 패쉬키가 합작해 만든 노래로, 전체적으로 기타 선율이 흐르는 서정적인 느낌의 노래이다.\[14\]
+동명의 타이틀곡이자 첫 번째 수록곡 〈[Mr.Mr.](../Page/Mr.Mr._\(노래\).md "wikilink")〉는 [더 언더독스가](https://ko.wikipedia.org/wiki/더_언더독스 "wikilink") 참여한 알앤비 리듬을 가미한 댄스 음악으로, 유니크한 가사와 중독적인 멜로디가 특징이다.\[11\] 가사적인 부분에서는 소녀시대가 남자에게 강인해지고 당당해지라는 응원의 메시지를 담고 있다.\[12\] 안무는 [질리언 메이어스가](https://ko.wikipedia.org/wiki/질리언_메이어스 "wikilink") 맡았다.\[13\] 두 번째 수록곡 〈Goodbye〉는 린디 로민슨과 브렌트 패쉬키가 합작해 만든 노래로, 전체적으로 기타 선율이 흐르는 서정적인 느낌의 노래이다.\[14\]
 
 세 번째 수록곡 〈유로파 (Europa)〉는 [켄지](https://ko.wikipedia.org/wiki/켄지 "wikilink")가 작사, 작곡, 편곡을 맡은 [신스팝](https://ko.wikipedia.org/wiki/신스팝 "wikilink") 장르의 노래이다.\[15\] 다음 곡 〈Wait a Minute〉은 빈티지한 사운드와 레트로풍의 리듬이 특징인 노래이다.\[16\] 가사는 상대방의 고백을 기다리는 사랑에 빠진 여자의 마음을 표현했다.\[17\] 다섯 번째 수록곡 〈백허그 (Back Hug)〉기타와 피아노의 선율만을 이용한 아날로그적인 미디엄 템포 곡이다.\[18\]\[19\] 〈백허그〉는 이 앨범에서 유일한 발라드풍의 노래이다.\[20\] 마지막 수록곡 〈Soul〉은 빠른 기타 선율과 리드미컬한 보컬을 특징으로 하는 파워풀한 노래이다.\[21\] 가사에는 젊은이들에게 소울을 찾으라는 메시지를 담았다.\[22\] 이 노래는 앨범에 수록하기 전 [블레이드 앤 소울](https://ko.wikipedia.org/wiki/블레이드_앤_소울 "wikilink") 중국 버전 OST로 쓰였던 곡으로, 중국어 노래를 한국어로 번안한 것이다.\[23\]
 
@@ -35,7 +35,7 @@
 
 《Mr.Mr.》는 2014년 11주차 [가온 앨범 차트](https://ko.wikipedia.org/wiki/가온_앨범_차트 "wikilink") 1위에 올랐다.\[56\] 2월 동안에만 87,824장을 팔아 2014년 2월 월간 가온 앨범 차트 2위에 올랐다.\[57\] 바로 다음 주에는 9위로 하락했으며,\[58\] 발매 3주차인 2014년 13주차 차트에 16위를 기록했다.\[59\] 2014년 14주차 차트에서는 아웃을 당했다가 15주차 차트에 33위로 재진입했다.\[60\] 《Mr.Mr.》는 3월 동안 70,295장이 팔리면서 누적 판매량 15만 장을 넘겼고, 2014년 3월 월간 가온 앨범 차트에서 1위에 올랐다.\[61\] 앨범은 대한민국에서 2014년 8월까지 161,637장의 판매량을 기록하고 있다.\[62\]
 
-미국에서는 3,000장을 팔아 [빌보드 200](https://ko.wikipedia.org/wiki/빌보드_200 "wikilink") 110위로 데뷔했는데, 이전에 소녀시대-트윙클의 《[Twinkle](https://ko.wikipedia.org/wiki/Twinkle_\(EP\) "wikilink")》이 기록했던 126위를 깨고 K-Pop 앨범으로는 가장 높은 순위를 기록했다.\[63\] 하지만 같은 날 [2NE1](https://ko.wikipedia.org/wiki/2NE1 "wikilink")의 《[CRUSH](https://ko.wikipedia.org/wiki/CRUSH_\(2NE1의_음반\) "wikilink")》가 4,000장으로 빌보드 200 61위에 오르면서 기록을 경신했다.\[64\] 이 외에 빌보드 월드 앨범 차트 3위,\[65\] 탑 히트시커스 차트 1위를 했다.\[66\] 2014년 3월 17일 [오리콘 주간 앨범 차트에는](https://ko.wikipedia.org/wiki/오리콘 "wikilink") 11위에 올랐다.\[67\]
+미국에서는 3,000장을 팔아 [빌보드 200](https://ko.wikipedia.org/wiki/빌보드_200 "wikilink") 110위로 데뷔했는데, 이전에 소녀시대-트윙클의 《[Twinkle](https://ko.wikipedia.org/wiki/Twinkle_\(EP\) "wikilink")》이 기록했던 126위를 깨고 K-Pop 앨범으로는 가장 높은 순위를 기록했다.\[63\] 하지만 같은 날 [2NE1](https://ko.wikipedia.org/wiki/2NE1 "wikilink")의 《[CRUSH](../Page/CRUSH_\(2NE1의_음반\).md "wikilink")》가 4,000장으로 빌보드 200 61위에 오르면서 기록을 경신했다.\[64\] 이 외에 빌보드 월드 앨범 차트 3위,\[65\] 탑 히트시커스 차트 1위를 했다.\[66\] 2014년 3월 17일 [오리콘 주간 앨범 차트에는](https://ko.wikipedia.org/wiki/오리콘 "wikilink") 11위에 올랐다.\[67\]
 
 ## 트랙리스트
 

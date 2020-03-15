@@ -10,16 +10,16 @@
   - [김민교](https://ko.wikipedia.org/wiki/김민교_\(배우\) "wikilink")
   - [유세윤](https://ko.wikipedia.org/wiki/유세윤 "wikilink")
   - [안영미](https://ko.wikipedia.org/wiki/안영미_\(희극인\) "wikilink")
-  - [정이랑](https://ko.wikipedia.org/wiki/정이랑 "wikilink")
+  - [정이랑](../Page/정이랑.md "wikilink")
   - [박재범](https://ko.wikipedia.org/wiki/박재범 "wikilink")
-  - [정상훈](https://ko.wikipedia.org/wiki/정상훈 "wikilink")
+  - [정상훈](../Page/정상훈.md "wikilink")
   - [서유리](https://ko.wikipedia.org/wiki/서유리 "wikilink")
   - [권혁수](../Page/권혁수_\(배우\).md "wikilink")
   - [나르샤](https://ko.wikipedia.org/wiki/나르샤 "wikilink")
   - [김두영](../Page/김두영_\(희극인\).md "wikilink")
-  - [김태희](https://ko.wikipedia.org/wiki/김태희_\(1983년\) "wikilink")
-  - [한재석](https://ko.wikipedia.org/wiki/한재석_\(1991년\) "wikilink")
-  - [이세영](https://ko.wikipedia.org/wiki/이세영_\(희극인\) "wikilink")
+  - [김태희](../Page/김태희_\(1983년\).md "wikilink")
+  - [한재석](../Page/한재석_\(1991년\).md "wikilink")
+  - [이세영](../Page/이세영_\(희극인\).md "wikilink")
 
 ## 코너
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [EXO  ](https://ko.wikipedia.org/wiki/EXO__).
 
 
-다음은 대한민국의 음악그룹 [EXO](https://ko.wikipedia.org/wiki/EXO "wikilink")의 **음반 목록**이다. EXO는 2012년 4월 미니 음반 **[MAMA](https://ko.wikipedia.org/wiki/MAMA_\(EP\) "wikilink")**를 발매하며 데뷔했고, 다섯 장의 정규 음반과 네 장의 미니 음반과 세 장의 스페셜 음반을 발매했다.\[1\]
+다음은 대한민국의 음악그룹 [EXO](https://ko.wikipedia.org/wiki/EXO "wikilink")의 **음반 목록**이다. EXO는 2012년 4월 미니 음반 **[MAMA](../Page/MAMA_\(EP\).md "wikilink")**를 발매하며 데뷔했고, 다섯 장의 정규 음반과 네 장의 미니 음반과 세 장의 스페셜 음반을 발매했다.\[1\]
 
 ## 음반
 
@@ -25,7 +25,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><em><a href="https://ko.wikipedia.org/wiki/XOXO_(KISS＆HUG)" title="wikilink">XOXO (KISS＆HUG)</a></em></strong></p></td>
+<td><p><strong><em><a href="../Page/XOXO_(KISS＆HUG).md" title="wikilink">XOXO (KISS＆HUG)</a></em></strong></p></td>
 <td><p><small>Kiss ver.</small></p></td>
 <td><ul>
 <li>포맷: <a href="https://ko.wikipedia.org/wiki/콤팩트_디스크" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a></li>
@@ -57,7 +57,7 @@
 <td><p>4</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><em><a href="https://ko.wikipedia.org/wiki/EX&#39;ACT" title="wikilink">EX'ACT</a></em></strong></p></td>
+<td><p><strong><em><a href="../Page/EX&#39;ACT.md" title="wikilink">EX'ACT</a></em></strong></p></td>
 <td><p><small>Korean ver.</small></p></td>
 <td><ul>
 <li>포맷: <a href="https://ko.wikipedia.org/wiki/콤팩트_디스크" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a></li>
@@ -123,7 +123,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><em><a href="https://ko.wikipedia.org/wiki/XOXO_(KISS＆HUG)" title="wikilink">XOXO (KISS＆HUG)</a></em></strong></p></td>
+<td><p><strong><em><a href="../Page/XOXO_(KISS＆HUG).md" title="wikilink">XOXO (KISS＆HUG)</a></em></strong></p></td>
 <td><p><small>Kiss ver.</small></p></td>
 <td><ul>
 <li>포맷: <a href="https://ko.wikipedia.org/wiki/콤팩트_디스크" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a></li>
@@ -206,7 +206,7 @@ RIGHT</a></em></strong></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><em><a href="https://ko.wikipedia.org/wiki/MAMA_(EP)" title="wikilink">MAMA</a></em></strong></p></td>
+<td><p><strong><em><a href="../Page/MAMA_(EP).md" title="wikilink">MAMA</a></em></strong></p></td>
 <td><p><small>EXO-K</small></p></td>
 <td><ul>
 <li>포맷: <a href="https://ko.wikipedia.org/wiki/콤팩트_디스크" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a></li>
@@ -222,7 +222,7 @@ RIGHT</a></em></strong></p></td>
 <td><p>16</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/중독_(Overdose)" title="wikilink">중독<br />
+<td><p><strong><a href="../Page/중독_(Overdose).md" title="wikilink">중독<br />
 <em>(Overdose)</em></a></strong></p></td>
 <td><p><small>EXO-K</small></p></td>
 <td><ul>
@@ -267,7 +267,7 @@ RIGHT</a></em></strong></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/12월의_기적_(Miracles_In_December)" title="wikilink">12월의 기적 (Miracles In December)</a></strong></p></td>
+<td><p><strong><a href="../Page/12월의_기적_(Miracles_In_December).md" title="wikilink">12월의 기적 (Miracles In December)</a></strong></p></td>
 <td><p><small>Korean ver.</small></p></td>
 <td><ul>
 <li>포맷: <a href="https://ko.wikipedia.org/wiki/콤팩트_디스크" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a></li>
@@ -283,7 +283,7 @@ RIGHT</a></em></strong></p></td>
 <td><p>10</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/Sing_For_You" title="wikilink">Sing For You</a></strong></p></td>
+<td><p><strong><a href="../Page/Sing_For_You.md" title="wikilink">Sing For You</a></strong></p></td>
 <td><p><small>Korean ver.</small></p></td>
 <td><ul>
 <li>포맷: <a href="https://ko.wikipedia.org/wiki/콤팩트_디스크" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a></li>
@@ -465,31 +465,31 @@ RIGHT</a></em></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p>2012</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/MAMA_(EP)" title="wikilink">MAMA</a></strong></p></td>
+<td><p><strong><a href="../Page/MAMA_(EP).md" title="wikilink">MAMA</a></strong></p></td>
 <td><p>46</p></td>
 <td><p>72</p></td>
 </tr>
 <tr class="even">
 <td><p>2013</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/XOXO_(KISS＆HUG)" title="wikilink">늑대와 미녀 (Wolf)</a></strong></p></td>
+<td><p><strong><a href="../Page/XOXO_(KISS＆HUG).md" title="wikilink">늑대와 미녀 (Wolf)</a></strong></p></td>
 <td><p>10</p></td>
 <td><p>30</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/XOXO_(KISS＆HUG)" title="wikilink">으르렁 (Growl)</a></strong></p></td>
+<td><p><strong><a href="../Page/XOXO_(KISS＆HUG).md" title="wikilink">으르렁 (Growl)</a></strong></p></td>
 <td><p>2</p></td>
 <td><p>2</p></td>
 <td><p>56</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/12월의_기적_(Miracles_In_December)" title="wikilink">12월의 기적 (Miracles In December)</a></strong></p></td>
+<td><p><strong><a href="../Page/12월의_기적_(Miracles_In_December).md" title="wikilink">12월의 기적 (Miracles In December)</a></strong></p></td>
 <td><p>2</p></td>
 <td><p>2</p></td>
 <td><p>―</p></td>
 </tr>
 <tr class="odd">
 <td><p>2014</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/중독_(Overdose)" title="wikilink">중독 (Overdose)</a></strong></p></td>
+<td><p><strong><a href="../Page/중독_(Overdose).md" title="wikilink">중독 (Overdose)</a></strong></p></td>
 <td><p>2</p></td>
 <td><p>2</p></td>
 </tr>
@@ -512,25 +512,25 @@ RIGHT</a></em></strong></p></td>
 <td><p>40</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/Sing_For_You" title="wikilink">Sing For You</a></strong></p></td>
+<td><p><strong><a href="../Page/Sing_For_You.md" title="wikilink">Sing For You</a></strong></p></td>
 <td><p>3</p></td>
 <td><p>10</p></td>
 <td><p>―</p></td>
 </tr>
 <tr class="even">
 <td><p>2016</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/EX&#39;ACT" title="wikilink">Lucky One</a></strong></p></td>
+<td><p><strong><a href="../Page/EX&#39;ACT.md" title="wikilink">Lucky One</a></strong></p></td>
 <td><p>5</p></td>
 <td><p>17</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/EX&#39;ACT" title="wikilink">Monster</a></strong></p></td>
+<td><p><strong><a href="../Page/EX&#39;ACT.md" title="wikilink">Monster</a></strong></p></td>
 <td><p><strong>1</strong></p></td>
 <td><p>4</p></td>
 <td><p>60</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/EX&#39;ACT" title="wikilink">Lotto</a></strong></p></td>
+<td><p><strong><a href="../Page/EX&#39;ACT.md" title="wikilink">Lotto</a></strong></p></td>
 <td><p>2</p></td>
 <td><p>14</p></td>
 <td><p>―</p></td>
@@ -639,7 +639,7 @@ RIGHT</a></em></strong></p></td>
 | [가온 차트](https://ko.wikipedia.org/wiki/가온_차트 "wikilink") |                                                                                      |      |          |           |
 | "최고의 행운" <small>(첸)</small>                             | *[괜찮아 사랑이야: O.S.T Part 1](https://ko.wikipedia.org/wiki/괜찮아_사랑이야#사운드_트랙 "wikilink")* | 2014 | 9        |           |
 | "외침" <small>(디오)</small>                                | *[카트: O.S.T](https://ko.wikipedia.org/wiki/카트_\(영화\)#사운드_트랙 "wikilink")*             | 2015 | 22       |           |
-| "두근거려 (Beautiful)" <small>(백현)</small>                  | *[우리 옆집에 EXO가 산다: O.S.T](https://ko.wikipedia.org/wiki/우리_옆집에_EXO가_산다 "wikilink")*   | 7    |          |           |
+| "두근거려 (Beautiful)" <small>(백현)</small>                  | *[우리 옆집에 EXO가 산다: O.S.T](../Page/우리_옆집에_EXO가_산다.md "wikilink")*                      | 7    |          |           |
 | "You Are The One" <small>(시우민)</small>                  | *[도전에 반하다: O.S.T Part 1](https://ko.wikipedia.org/wiki/도전에_반하다 "wikilink")*          | —    |          |           |
 | "Everytime" <small>(첸)</small>                          | *[태양의 후예: O.S.T Part 2](https://ko.wikipedia.org/wiki/태양의_후예 "wikilink")*            | 2016 | 1        |           |
 | "Stay With Me" (찬열)                                     | *도깨비:* *O.S.T Part.1*                                                                | 3    |          |           |

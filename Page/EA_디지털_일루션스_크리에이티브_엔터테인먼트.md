@@ -35,7 +35,7 @@
   - [배틀필드 (비디오 게임 시리즈)](https://ko.wikipedia.org/wiki/배틀필드_\(비디오_게임_시리즈\) "wikilink") ([2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink")\~)
   - [미드타운 매드니스](https://ko.wikipedia.org/wiki/미드타운_매드니스 "wikilink") 3 ([2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink"))
   - [미러스 엣지](https://ko.wikipedia.org/wiki/미러스_엣지 "wikilink") ([2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink"))
-  - [미러스 엣지 카탈리스트](https://ko.wikipedia.org/wiki/미러스_엣지_카탈리스트 "wikilink") ([2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink"))
+  - [미러스 엣지 카탈리스트](../Page/미러스_엣지_카탈리스트.md "wikilink") ([2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink"))
 
 ## 관련 항목
 

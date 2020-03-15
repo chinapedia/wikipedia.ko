@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Six in tha Chamber](https://ko.wikipedia.org/wiki/Six_in_tha_Chamber).
 
 
-**Six in tha Chamber**는 1996년 7월 발매된 [킵식스](https://ko.wikipedia.org/wiki/킵식스 "wikilink")의 정규 1집 음반이다.
+**Six in tha Chamber**는 1996년 7월 발매된 [킵식스](../Page/킵식스.md "wikilink")의 정규 1집 음반이다.
 
 ## 수록곡
 

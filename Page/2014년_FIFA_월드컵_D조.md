@@ -101,9 +101,9 @@
 
 양국은 8번 경기를 펼쳤고, 가장 최근 경기는 2009년 [북중미 - 남아메리카 플레이오프로](https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵_예선_대륙간_플레이오프 "wikilink"), 우루과이가 합계 2-1로 이겨 [2010년 FIFA 월드컵에](https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵 "wikilink") 나갔었다.\[1\]
 
-우루과이는 전반에 선제골을 넣었는데, [에딘손 카바니가](https://ko.wikipedia.org/wiki/에딘손_카바니 "wikilink") [후니오르 디아스에](https://ko.wikipedia.org/wiki/후니오르_디아스 "wikilink") 의해 페널티 구역에서 넘어진 [디에고 루가노](https://ko.wikipedia.org/wiki/디에고_루가노 "wikilink") 덕에 페널티킥으로 넣어다. [케일러 나바스는](https://ko.wikipedia.org/wiki/케일러_나바스 "wikilink") [디에고 포를란의](https://ko.wikipedia.org/wiki/디에고_포를란 "wikilink") 슛을 골대 위로 넘겨 우루과이가 격차를 벌리려는 것을 막았다. 후반전에는 [조엘 캠벨이](../Page/조엘_캠벨.md "wikilink") [크리스티안 감보아가](https://ko.wikipedia.org/wiki/크리스티안_감보아 "wikilink") 깊게 찌른 공을 발 밑으로 받아 동점골을 넣었다. 잠시 후, 코스타리카는 [오스카르 두아르테가](https://ko.wikipedia.org/wiki/오스카르_두아르테 "wikilink") [크리스티안 볼라뇨스의](https://ko.wikipedia.org/wiki/크리스티안_볼라뇨스 "wikilink") 프리킥을 머리로 넣어 역전시켰다.\[2\]
+우루과이는 전반에 선제골을 넣었는데, [에딘손 카바니가](https://ko.wikipedia.org/wiki/에딘손_카바니 "wikilink") [후니오르 디아스에](../Page/후니오르_디아스.md "wikilink") 의해 페널티 구역에서 넘어진 [디에고 루가노](https://ko.wikipedia.org/wiki/디에고_루가노 "wikilink") 덕에 페널티킥으로 넣어다. [케일러 나바스는](../Page/케일러_나바스.md "wikilink") [디에고 포를란의](https://ko.wikipedia.org/wiki/디에고_포를란 "wikilink") 슛을 골대 위로 넘겨 우루과이가 격차를 벌리려는 것을 막았다. 후반전에는 [조엘 캠벨이](../Page/조엘_캠벨.md "wikilink") [크리스티안 감보아가](../Page/크리스티안_감보아.md "wikilink") 깊게 찌른 공을 발 밑으로 받아 동점골을 넣었다. 잠시 후, 코스타리카는 [오스카르 두아르테가](../Page/오스카르_두아르테.md "wikilink") [크리스티안 볼라뇨스의](https://ko.wikipedia.org/wiki/크리스티안_볼라뇨스 "wikilink") 프리킥을 머리로 넣어 역전시켰다.\[2\]
 
-캠벨의 패스를 받은 교체 요원 [마르코 우레냐는](https://ko.wikipedia.org/wiki/마르코_우레냐 "wikilink") 오른쪽의 까다로운 각도에서 쐐기골을 집어넣어 점수를 3-1로 바꾸었고, 추가시간에는 [막시 페레이라가](https://ko.wikipedia.org/wiki/막시밀리아노_페레이라 "wikilink") 캠벨을 걷어찬 것으로 즉각 퇴장당했다.\[3\]
+캠벨의 패스를 받은 교체 요원 [마르코 우레냐는](../Page/마르코_우레냐.md "wikilink") 오른쪽의 까다로운 각도에서 쐐기골을 집어넣어 점수를 3-1로 바꾸었고, 추가시간에는 [막시 페레이라가](https://ko.wikipedia.org/wiki/막시밀리아노_페레이라 "wikilink") 캠벨을 걷어찬 것으로 즉각 퇴장당했다.\[3\]
 
 이 경기에서 코스타리카는 처음으로 한 경기 3득점 이상을 기록했고,\[4\] 우루과이는 FIFA 월드컵 역사상 처음으로 비남아메리카, 비유럽 국가에게 패하였다.
 
@@ -259,7 +259,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/호르헤_루이스_핀토" title="wikilink">호르헤 루이스 핀토</a></p></td>
+<td><p><a href="../Page/호르헤_루이스_핀토.md" title="wikilink">호르헤 루이스 핀토</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -461,8 +461,8 @@
 <td><p><strong>최우수 선수:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/마리오_발로텔리" title="wikilink">마리오 발로텔리</a> (이탈리아)</p>
 <p><strong>부심:</strong><br />
-에르빈 제인스트라 (<a href="https://ko.wikipedia.org/wiki/네덜란드_왕립_축구_협회" title="wikilink">네덜란드</a>)<br />
-산더르 판 뢰켈 (<a href="https://ko.wikipedia.org/wiki/네덜란드_왕립_축구_협회" title="wikilink">네덜란드</a>)<br />
+에르빈 제인스트라 (<a href="../Page/네덜란드_왕립_축구_협회.md" title="wikilink">네덜란드</a>)<br />
+산더르 판 뢰켈 (<a href="../Page/네덜란드_왕립_축구_협회.md" title="wikilink">네덜란드</a>)<br />
 <strong>대기심:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/왈테르_로페스" title="wikilink">왈테르 로페스</a> (<a href="https://ko.wikipedia.org/wiki/과테말라_축구_협회" title="wikilink">과테말라</a>)<br />
 <strong>후보 대기심:</strong><br />
@@ -662,7 +662,7 @@
 
 양국은 1994년 친선전에서 한 차례의 대결을 벌였다.\[13\]
 
-[마리오 발로텔리는](https://ko.wikipedia.org/wiki/마리오_발로텔리 "wikilink") 전반전에 이탈리아의 가장 좋은 득점 기회를 잡았는데, 페널티 구역 안에서 공을 발에 얹어 쏜 것이 벗어났다. 전반전 막판에, [조엘 캠벨은](../Page/조엘_캠벨.md "wikilink") 페널티킥 주장이 거절됐지만, 코스타리카가 몇분 후에 선제골을 넣었는데, [후니오르 디아스의](https://ko.wikipedia.org/wiki/후니오르_디아스 "wikilink") 좌측 크로스가 [브리안 루이스의](https://ko.wikipedia.org/wiki/브라이언_루이스 "wikilink") 머리로 연결되었고, 이 공은 인근의 골대를 강타하고, 득점선을 넘었다.\[14\] 코스타리카는 후반전동안 잘 버텨내면서 승리를 쟁취했고, 1990년 이래 처음으로 결선 토너먼트 진출을 확정지었고, 동시에 잉글랜드는 1958년 이래 처음으로 조별 리그 탈락을 확정지었다.\[15\]
+[마리오 발로텔리는](https://ko.wikipedia.org/wiki/마리오_발로텔리 "wikilink") 전반전에 이탈리아의 가장 좋은 득점 기회를 잡았는데, 페널티 구역 안에서 공을 발에 얹어 쏜 것이 벗어났다. 전반전 막판에, [조엘 캠벨은](../Page/조엘_캠벨.md "wikilink") 페널티킥 주장이 거절됐지만, 코스타리카가 몇분 후에 선제골을 넣었는데, [후니오르 디아스의](../Page/후니오르_디아스.md "wikilink") 좌측 크로스가 [브리안 루이스의](https://ko.wikipedia.org/wiki/브라이언_루이스 "wikilink") 머리로 연결되었고, 이 공은 인근의 골대를 강타하고, 득점선을 넘었다.\[14\] 코스타리카는 후반전동안 잘 버텨내면서 승리를 쟁취했고, 1990년 이래 처음으로 결선 토너먼트 진출을 확정지었고, 동시에 잉글랜드는 1958년 이래 처음으로 조별 리그 탈락을 확정지었다.\[15\]
 
 코스타리카는 조별 리그에서 FIFA 월드컵을 우승한 적 있는 국가를 둘이나 이긴 두번째 국가가 되었는데, 이는 [1986년 대회](https://ko.wikipedia.org/wiki/1986년_FIFA_월드컵 "wikilink") (우루과이와 서독) 와 [2002년](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") (우루과이와 프랑스) 에 이 업적을 달성한 덴마크 이래 처음이다. 이탈리아의 [잔루이지 부폰은](https://ko.wikipedia.org/wiki/잔루이지_부폰 "wikilink") 4번째 FIFA 월드컵 본선에 출전 ([1998년 FIFA 월드컵에도](https://ko.wikipedia.org/wiki/1998년_FIFA_월드컵 "wikilink") 명단에 이름을 올렸지만, 한 경기도 출전하지 않았다.) 했는데, 그는 이를 달성한 5번째 이탈리아 선수였다.\[16\]
 
@@ -818,7 +818,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/호르헤_루이스_핀토" title="wikilink">호르헤 루이스 핀토</a></p></td>
+<td><p><a href="../Page/호르헤_루이스_핀토.md" title="wikilink">호르헤 루이스 핀토</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -853,7 +853,7 @@
 
 79분경, 우루과이의 공격수 [루이스 수아레스가](https://ko.wikipedia.org/wiki/루이스_알베르토_수아레스 "wikilink") 이탈리아의 수비수 [조르조 키엘리니의](https://ko.wikipedia.org/wiki/조르조_키엘리니 "wikilink") 왼쪽 어깨를 깨물었다. 키엘리니는 이를 목격하지 못한 멕시코인 주심 [마르코 로드리게스에게](https://ko.wikipedia.org/wiki/마르코_안토니오_로드리게스 "wikilink") 깨문 흔적을 보여주었다. 이탈리아 선수들은 수아레스에게 아무런 조취를 취하지 않은 데에 항의하였고, 우루과이는 코너킥을 얻어 고딘이 결승골을 넣었다.\[22\]\[23\]\[24\] 84분 이탈리아의 감독진들 중 한명은 우루과이의 감독진들과 언쟁을 벌이다가 벤치에서 쫓겨났다.\[25\] 깨물기 사건 이후, 수아레스는 자신이 "\[키엘리니의\] 어깨와 충돌했고, 그것 말건 없다"고 주장하였고, "이 일은 때로 발생하기도 한다"며 덧붙였다.\[26\]\[27\]\[28\]
 
-경기가 열린 날, FIFA는 수아레스의 깨물기 사건을 놓고 징계 상벌위원회를 열었다.\[29\] 위원회에서, FIFA는 수아레스가 이전에 두 차례 깨물기 사건으로 징계를 받은 바 있는 것을 확인 ([아약스에서](https://ko.wikipedia.org/wiki/AFC_아약스 "wikilink") [오트만 바칼을](../Page/오트만_바칼.md "wikilink") 문 것으로 7경기를, [리버풀에서](https://ko.wikipedia.org/wiki/리버풀_FC "wikilink") [브라니슬라프 이바노비치를](https://ko.wikipedia.org/wiki/브라니슬라프_이바노비치 "wikilink") 문 것으로 10경기를 출전하지 못했다.) 해 고려하였다.\[30\] 경기 이틀 후 [FIFA 상벌위원회는](https://ko.wikipedia.org/wiki/FIFA_상벌위원회 "wikilink") 수아레스가 다음 경기부터 9번의 국제 경기에 출전하지 못하게 되었고, 그는 이번 FIFA 월드컵 경기에 더이상 출전하지 못하게 되었다. 이 징계는 FIFA 월드컵 역사상 최장 기간 출장 정지 징계로, 이탈리아의 [마우로 타소티가](https://ko.wikipedia.org/wiki/마우로_타소티 "wikilink") [1994년 FIFA 월드컵에서](https://ko.wikipedia.org/wiki/1994년_FIFA_월드컵 "wikilink") 스페인의 [루이스 엔리케의](https://ko.wikipedia.org/wiki/루이스_엔리케_마르티네스_가르시아 "wikilink") 코를 깬 것으로 8경기 출장 정지 징계를 받은 기록을 갈아치웠다.\[31\]\[32\]\[33\] 그는 또한 4달간의 모든 축구 활동 (경기장 입장도 포함) 금지 조취를 받고 100,000 [CHF의](https://ko.wikipedia.org/wiki/스위스_프랑 "wikilink") 벌금 (약 [€](https://ko.wikipedia.org/wiki/유로 "wikilink")82,000 / [£](https://ko.wikipedia.org/wiki/파운드_스털링 "wikilink")65,700 / [$](https://ko.wikipedia.org/wiki/미국_달러 "wikilink")119,000) 을 물게 되었다.\[34\]\[35\]\[36\] 단 판정은 수아레스가 타 구단으로 [이적하는](https://ko.wikipedia.org/wiki/이적_\(축구\) "wikilink") 것 만큼은 허용했다.\[37\] 수아레스는 이후에 키엘리니를 깨문 것을 인정했고, "깨물기의 물리적인 결과"는 키엘리니와의 충돌로 야기되었다고 적으면서도 정식적으로 사과했다.\[38\]\[39\] 7월 3일, [우루과이 축구 협회](https://ko.wikipedia.org/wiki/우루과이_축구_협회 "wikilink") (AUF) 는 FIFA에게 판정에 대한 항소를 보냈지만,\[40\]\[41\] 7월 10일에 거절되었다.\[42\]\[43\]\[44\] [스포츠 중재 재판소에](https://ko.wikipedia.org/wiki/스포츠_중재_재판소 "wikilink") 항소를 보낸 후, 수아레스는 이후 이적한 [바르셀로나에서](https://ko.wikipedia.org/wiki/FC_바르셀로나 "wikilink") 친선전 훈련에 참가할 수 있도록 허락받았다.\[45\]
+경기가 열린 날, FIFA는 수아레스의 깨물기 사건을 놓고 징계 상벌위원회를 열었다.\[29\] 위원회에서, FIFA는 수아레스가 이전에 두 차례 깨물기 사건으로 징계를 받은 바 있는 것을 확인 ([아약스에서](https://ko.wikipedia.org/wiki/AFC_아약스 "wikilink") [오트만 바칼을](../Page/오트만_바칼.md "wikilink") 문 것으로 7경기를, [리버풀에서](https://ko.wikipedia.org/wiki/리버풀_FC "wikilink") [브라니슬라프 이바노비치를](https://ko.wikipedia.org/wiki/브라니슬라프_이바노비치 "wikilink") 문 것으로 10경기를 출전하지 못했다.) 해 고려하였다.\[30\] 경기 이틀 후 [FIFA 상벌위원회는](https://ko.wikipedia.org/wiki/FIFA_상벌위원회 "wikilink") 수아레스가 다음 경기부터 9번의 국제 경기에 출전하지 못하게 되었고, 그는 이번 FIFA 월드컵 경기에 더이상 출전하지 못하게 되었다. 이 징계는 FIFA 월드컵 역사상 최장 기간 출장 정지 징계로, 이탈리아의 [마우로 타소티가](../Page/마우로_타소티.md "wikilink") [1994년 FIFA 월드컵에서](https://ko.wikipedia.org/wiki/1994년_FIFA_월드컵 "wikilink") 스페인의 [루이스 엔리케의](https://ko.wikipedia.org/wiki/루이스_엔리케_마르티네스_가르시아 "wikilink") 코를 깬 것으로 8경기 출장 정지 징계를 받은 기록을 갈아치웠다.\[31\]\[32\]\[33\] 그는 또한 4달간의 모든 축구 활동 (경기장 입장도 포함) 금지 조취를 받고 100,000 [CHF의](https://ko.wikipedia.org/wiki/스위스_프랑 "wikilink") 벌금 (약 [€](https://ko.wikipedia.org/wiki/유로 "wikilink")82,000 / [£](https://ko.wikipedia.org/wiki/파운드_스털링 "wikilink")65,700 / [$](https://ko.wikipedia.org/wiki/미국_달러 "wikilink")119,000) 을 물게 되었다.\[34\]\[35\]\[36\] 단 판정은 수아레스가 타 구단으로 [이적하는](https://ko.wikipedia.org/wiki/이적_\(축구\) "wikilink") 것 만큼은 허용했다.\[37\] 수아레스는 이후에 키엘리니를 깨문 것을 인정했고, "깨물기의 물리적인 결과"는 키엘리니와의 충돌로 야기되었다고 적으면서도 정식적으로 사과했다.\[38\]\[39\] 7월 3일, [우루과이 축구 협회](https://ko.wikipedia.org/wiki/우루과이_축구_협회 "wikilink") (AUF) 는 FIFA에게 판정에 대한 항소를 보냈지만,\[40\]\[41\] 7월 10일에 거절되었다.\[42\]\[43\]\[44\] [스포츠 중재 재판소에](https://ko.wikipedia.org/wiki/스포츠_중재_재판소 "wikilink") 항소를 보낸 후, 수아레스는 이후 이적한 [바르셀로나에서](https://ko.wikipedia.org/wiki/FC_바르셀로나 "wikilink") 친선전 훈련에 참가할 수 있도록 허락받았다.\[45\]
 
 #### 상세 정보
 
@@ -1029,7 +1029,7 @@
 마르코스 킨테로 (<a href="https://ko.wikipedia.org/wiki/멕시코_축구_협회" title="wikilink">멕시코</a>)<br />
 마르빈 토렌테라 (<a href="https://ko.wikipedia.org/wiki/멕시코_축구_협회" title="wikilink">멕시코</a>)<br />
 <strong>대기심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/마크_가이거" title="wikilink">마크 가이거</a> (<a href="https://ko.wikipedia.org/wiki/미국_축구_연맹" title="wikilink">미국</a>)<br />
+<a href="../Page/마크_가이거.md" title="wikilink">마크 가이거</a> (<a href="https://ko.wikipedia.org/wiki/미국_축구_연맹" title="wikilink">미국</a>)<br />
 <strong>후보 대기심:</strong><br />
 마크 허드 (<a href="https://ko.wikipedia.org/wiki/미국_축구_연맹" title="wikilink">미국</a>)</p></td>
 </tr>
@@ -1123,7 +1123,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/호르헤_루이스_핀토" title="wikilink">호르헤 루이스 핀토</a></p></td>
+<td><p><a href="../Page/호르헤_루이스_핀토.md" title="wikilink">호르헤 루이스 핀토</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1211,7 +1211,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/케일러_나바스" title="wikilink">케일러 나바스</a> (코스타리카)</p>
+<a href="../Page/케일러_나바스.md" title="wikilink">케일러 나바스</a> (코스타리카)</p>
 <p><strong>부심:</strong><br />
 레두안 아시크 (<a href="https://ko.wikipedia.org/wiki/모로코_왕립_축구_협회" title="wikilink">모로코</a>)<br />
 압델하크 에치알리 (<a href="https://ko.wikipedia.org/wiki/알제리_축구_협회" title="wikilink">알제리</a>)<br />

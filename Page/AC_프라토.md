@@ -3,7 +3,7 @@
 
 **AC 프라토**(Associazione Calcio Prato SpA)는 [이탈리아](https://ko.wikipedia.org/wiki/이탈리아 "wikilink") [토스카나주](https://ko.wikipedia.org/wiki/토스카나주 "wikilink") [프라토](https://ko.wikipedia.org/wiki/프라토 "wikilink")를 연고로 하는 이탈리아의 축구 클럽이다.
 
-프라토는 1964년에 [세리에 B에](https://ko.wikipedia.org/wiki/세리에_B "wikilink") 있던것이 마지막이며, 최근에는 [세리에 C에](https://ko.wikipedia.org/wiki/세리에_C "wikilink") 참가중이다.
+프라토는 1964년에 [세리에 B에](https://ko.wikipedia.org/wiki/세리에_B "wikilink") 있던것이 마지막이며, 최근에는 [세리에 C에](../Page/세리에_C.md "wikilink") 참가중이다.
 
 ## 역사
 

@@ -11,9 +11,9 @@
 
 RFC 4180 은 CSV 포맷을 위한 사양을 제안하며 이것이 흔히 사용되는 정의이다. 그러나 대중적으로 사용되는 "CSV"는 하나의 잘 정의된 형식은 아니다. 그러므로 "CSV"는 실질적으로 다음을 가리키는 어느 파일이 될 수 있다:
 
-1.  [ASCII](https://ko.wikipedia.org/wiki/ASCII "wikilink"), 다양한 [유니코드](https://ko.wikipedia.org/wiki/유니코드 "wikilink") 문자 집합(예: [UTF-8](https://ko.wikipedia.org/wiki/UTF-8 "wikilink")), [EBCDIC](https://ko.wikipedia.org/wiki/EBCDIC "wikilink"), [Shift JIS와](https://ko.wikipedia.org/wiki/Shift_JIS "wikilink") 같은 문자 집합을 사용하는 [플레인 텍스트](https://ko.wikipedia.org/wiki/플레인_텍스트 "wikilink")
+1.  [ASCII](https://ko.wikipedia.org/wiki/ASCII "wikilink"), 다양한 [유니코드](https://ko.wikipedia.org/wiki/유니코드 "wikilink") 문자 집합(예: [UTF-8](https://ko.wikipedia.org/wiki/UTF-8 "wikilink")), [EBCDIC](https://ko.wikipedia.org/wiki/EBCDIC "wikilink"), [Shift JIS와](https://ko.wikipedia.org/wiki/Shift_JIS "wikilink") 같은 문자 집합을 사용하는 [플레인 텍스트](../Page/플레인_텍스트.md "wikilink")
 2.  [레코드](https://ko.wikipedia.org/wiki/레코드 "wikilink")로 이루어져 있음 (줄 당 하나의 레코드인 것이 보통)
-3.  여러 개의 필드로 나누니 레코드. [구분 문자](https://ko.wikipedia.org/wiki/구분_문자 "wikilink")(일반적으로 쉼표, 세미콜론, 탭과 같은 하나의 예비 문자. 가끔 선택적 스페이스를 포함할 수 있음.)로 구별.
+3.  여러 개의 필드로 나누니 레코드. [구분 문자](../Page/구분_문자.md "wikilink")(일반적으로 쉼표, 세미콜론, 탭과 같은 하나의 예비 문자. 가끔 선택적 스페이스를 포함할 수 있음.)로 구별.
 4.  모든 레코드가 동일한 시퀀스의 필드를 가진다
 
 ## 역사

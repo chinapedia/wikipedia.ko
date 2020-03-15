@@ -724,7 +724,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/정종덕" title="wikilink">정종덕</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/정호선_(축구인)" title="wikilink">정호선</a></p></td>
 <td><p><a href="http://newslibrary.naver.com/viewer/index.nhn?articleId=1988052300329211018&amp;editNo=3&amp;printCount=1&amp;publishDate=1988-05-23&amp;officeId=00032&amp;pageNo=11&amp;printNo=13122&amp;publishType=00020">선수 명단 기사</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1988년_AFC_아시안컵_예선" title="wikilink">1988 아시안컵 예선</a></p></td>
+<td><p><a href="../Page/1988년_AFC_아시안컵_예선.md" title="wikilink">1988 아시안컵 예선</a></p></td>
 <td><p>본선 진출[46]</p></td>
 <td></td>
 <td></td>
@@ -766,7 +766,7 @@
 <td><p>1991년 5월</p></td>
 <td><p>1991년 6월</p></td>
 <td><p>백호[51]</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김진국_(축구인)" title="wikilink">김진국</a></p></td>
+<td><p><a href="../Page/김진국_(축구인).md" title="wikilink">김진국</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/유동춘" title="wikilink">유동춘</a></p></td>
 <td><p><a href="http://newslibrary.naver.com/viewer/index.nhn?articleId=1991052400289111010&amp;editNo=4&amp;printCount=1&amp;publishDate=1991-05-24&amp;officeId=00028&amp;pageNo=11&amp;printNo=933&amp;publishType=00010">선수 명단 기사</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/코리아컵_국제축구대회" title="wikilink">1991 대통령배 국제축구대회</a>[52]</p></td>
@@ -784,7 +784,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/최길수" title="wikilink">최길수</a>[54]</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/김성남_(축구인)" title="wikilink">김성남</a></p></td>
 <td><p><a href="http://newslibrary.naver.com/viewer/index.nhn?articleId=1992051100209217014&amp;editNo=2&amp;printCount=1&amp;publishDate=1992-05-11&amp;officeId=00020&amp;pageNo=17&amp;printNo=21820&amp;publishType=00020">선수 명단 기사</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1992년_AFC_아시안컵_예선" title="wikilink">1992 아시안컵 예선</a>[55]</p></td>
+<td><p><a href="../Page/1992년_AFC_아시안컵_예선.md" title="wikilink">1992 아시안컵 예선</a>[55]</p></td>
 <td><p>본선 진출 실패[56]</p></td>
 <td></td>
 <td></td>
@@ -824,7 +824,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/유기흥" title="wikilink">유기흥</a>[62]</p></td>
+<td><p><a href="../Page/유기흥.md" title="wikilink">유기흥</a>[62]</p></td>
 <td><p><a href="http://newslibrary.naver.com/viewer/index.nhn?articleId=1992110600209219013&amp;editNo=3&amp;printCount=1&amp;publishDate=1992-11-06&amp;officeId=00020&amp;pageNo=19&amp;printNo=21992&amp;publishType=00020">선수 명단 기사</a></p></td>
 <td><p><a href="../Page/머라이언컵.md" title="wikilink">1992 머라이언컵 국제축구대회</a></p></td>
 <td><p><strong>우승</strong>[63]</p></td>
@@ -887,7 +887,7 @@
 </table>
 
   - 1978년 3월\~1978년 5월:
-      - 당시 1진은 일본 [재팬컵](https://ko.wikipedia.org/wiki/기린컵 "wikilink") 그리고 2진은 [킹스컵에](https://ko.wikipedia.org/wiki/킹스컵_\(축구\) "wikilink") 출전 예정이었기 때문에 사실상 3진 대표팀을 구성하여 [사우디아라비아 국제축구대회에](https://ko.wikipedia.org/wiki/사우디아라비아_국제축구대회 "wikilink") 출전\[67\]
+      - 당시 1진은 일본 [재팬컵](../Page/기린컵.md "wikilink") 그리고 2진은 [킹스컵에](https://ko.wikipedia.org/wiki/킹스컵_\(축구\) "wikilink") 출전 예정이었기 때문에 사실상 3진 대표팀을 구성하여 [사우디아라비아 국제축구대회에](https://ko.wikipedia.org/wiki/사우디아라비아_국제축구대회 "wikilink") 출전\[67\]
 
 <!-- end list -->
 
@@ -903,13 +903,13 @@
         아직 프로축구단에 입단하지 않은 대학생 위주 아마추어 선수들로 구성된 대표팀이 필요하였기 때문이다.\[71\]
         (그러나 1984년 7월 [FIFA에서](https://ko.wikipedia.org/wiki/국제축구연맹 "wikilink") 아시아와 아프리카는 프로 선수 출전을 허용하기로 하였다가\[72\]1984년 12월 다시 나이 제한을 23세 이하로 하되 프로와 아마 구분없이 모두 출전하는 것으로 규정을 변경하였고\[73\]
         1985년 4월에 88 올림픽부터 적용하는 것을 확정하였다.\[74\] 그러나 1985년 5월 유럽과 남미 국가들의 요청으로\[75\]\[76\]\[77\]))
-        하지만 [1984 LA 올림픽 축구 예선을](https://ko.wikipedia.org/wiki/1984년_하계_올림픽_축구 "wikilink") 위해 박종환 감독이 1983년 8월 대한민국 A팀에 긴급 취임하였고\[78\]이에따라 88 올림픽팀은 [1984 LA 올림픽 축구 예선이](https://ko.wikipedia.org/wiki/1984년_하계_올림픽_축구 "wikilink") 끝날때까지 원흥재 코치가 지휘를 하게되었다.\[79\]
+        하지만 [1984 LA 올림픽 축구 예선을](../Page/1984년_하계_올림픽_축구.md "wikilink") 위해 박종환 감독이 1983년 8월 대한민국 A팀에 긴급 취임하였고\[78\]이에따라 88 올림픽팀은 [1984 LA 올림픽 축구 예선이](../Page/1984년_하계_올림픽_축구.md "wikilink") 끝날때까지 원흥재 코치가 지휘를 하게되었다.\[79\]
       - 대한민국 A팀 감독에 취임한 박종환 감독은 기존 대표팀 선수들에 자신이 계속 지도하였던 88 올림픽팀 선수들을 보강하여 출전하였다.\[80\]
 
 <!-- end list -->
 
   - 1984년 7월\~1986년 10월: 88 올림픽 대표팀
-      - [1984 LA 올림픽 축구 예선이](https://ko.wikipedia.org/wiki/1984년_하계_올림픽_축구 "wikilink") 끝난 이후 1984년 7월 [1986 멕시코 월드컵을](https://ko.wikipedia.org/wiki/1986년_FIFA_월드컵 "wikilink") 겨냥한 대한민국 A팀은 [문정식](https://ko.wikipedia.org/wiki/문정식 "wikilink") 감독이, 그리고 [1988 서울 올림픽을](https://ko.wikipedia.org/wiki/1988년_하계_올림픽_축구 "wikilink") 겨냥한 대한민국 B팀 격의 88 올림픽팀에 [박종환](https://ko.wikipedia.org/wiki/박종환 "wikilink") 감독이 취임하면서 2원 체제가 출범하였다.\[81\]
+      - [1984 LA 올림픽 축구 예선이](../Page/1984년_하계_올림픽_축구.md "wikilink") 끝난 이후 1984년 7월 [1986 멕시코 월드컵을](https://ko.wikipedia.org/wiki/1986년_FIFA_월드컵 "wikilink") 겨냥한 대한민국 A팀은 [문정식](https://ko.wikipedia.org/wiki/문정식 "wikilink") 감독이, 그리고 [1988 서울 올림픽을](https://ko.wikipedia.org/wiki/1988년_하계_올림픽_축구 "wikilink") 겨냥한 대한민국 B팀 격의 88 올림픽팀에 [박종환](https://ko.wikipedia.org/wiki/박종환 "wikilink") 감독이 취임하면서 2원 체제가 출범하였다.\[81\]
       - [1986 서울 아시안게임까지](https://ko.wikipedia.org/wiki/1986년_아시안_게임 "wikilink") 86 월드컵 대표팀 (대한민국 A팀)과 88 올림픽 대표팀 (대한민국 B팀)의 2원 체제로 운영되다가 대회 이후 단일화되었다.\[82\]
         이에따라 88 올림픽 대표팀 위주로 재편하여 대한민국 A팀이 출범하였고 박종환 감독이 취임하였다.\[83\]\[84\]
 

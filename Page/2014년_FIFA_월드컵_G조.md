@@ -99,7 +99,7 @@
 
 양국은 17번의 맞대결을 펼쳤고, 이 중 한번은 [2006년 FIFA 월드컵의](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵 "wikilink") 3위 결정전으로, 독일이 [3-1로](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵_결선_토너먼트#3위_결정전 "wikilink") 이겼다.\[1\] 가장 최근에 벌어진 맞대결은 [UEFA 유로 2012](https://ko.wikipedia.org/wiki/UEFA_유로_2012 "wikilink") 조별 리그 경기로, 여기서도 독일이 [1-0으로](https://ko.wikipedia.org/wiki/UEFA_유로_2012_B조#독일_vs_포르투갈 "wikilink") 이겼다.
 
-독일은 [마리오 괴체가](https://ko.wikipedia.org/wiki/마리오_괴체 "wikilink") [주앙 페헤이라에게](https://ko.wikipedia.org/wiki/주앙_페드루_다_실바_페헤이라 "wikilink") 넘어져 얻은 페널티킥을 [토마스 뮐러가](https://ko.wikipedia.org/wiki/토마스_뮐러 "wikilink") 좌측으로 낮게 강하게 깔아차면서 앞서나가기 시작했다. [마츠 후멜스는](https://ko.wikipedia.org/wiki/마츠_후멜스 "wikilink") [토니 크로스가](https://ko.wikipedia.org/wiki/토니_크로스 "wikilink") 찬 코너킥을 머리로 넣어 점수차를 두배로 늘렸다.\[2\] 전반 종료를 앞두고 뮐러와 [페페가](https://ko.wikipedia.org/wiki/페페_\(축구_선수\) "wikilink") 다툼에 연루되었는데, 페페는 뮐러 얼굴에 박치기를 해 퇴장당했다. 전반 추가 시간에 뮐러는 [브루누 알베스가](https://ko.wikipedia.org/wiki/브루누_알베스 "wikilink") 잘못 걷어낸 것을 추가골로 연결했다. 뮐러는 후반전에 [안드레 쉬를레가](https://ko.wikipedia.org/wiki/안드레_쉬를레 "wikilink") 골키퍼 [후이 파트리시우에](https://ko.wikipedia.org/wiki/후이_파트리시우 "wikilink") 저주받은 찰나에 쉬를레의 크로스를 우측에서 받아 근거리에서 빈 골망에 공을 넣어 해트트릭을 완성하였다.\[3\]
+독일은 [마리오 괴체가](https://ko.wikipedia.org/wiki/마리오_괴체 "wikilink") [주앙 페헤이라에게](../Page/주앙_페드루_다_실바_페헤이라.md "wikilink") 넘어져 얻은 페널티킥을 [토마스 뮐러가](https://ko.wikipedia.org/wiki/토마스_뮐러 "wikilink") 좌측으로 낮게 강하게 깔아차면서 앞서나가기 시작했다. [마츠 후멜스는](https://ko.wikipedia.org/wiki/마츠_후멜스 "wikilink") [토니 크로스가](https://ko.wikipedia.org/wiki/토니_크로스 "wikilink") 찬 코너킥을 머리로 넣어 점수차를 두배로 늘렸다.\[2\] 전반 종료를 앞두고 뮐러와 [페페가](https://ko.wikipedia.org/wiki/페페_\(축구_선수\) "wikilink") 다툼에 연루되었는데, 페페는 뮐러 얼굴에 박치기를 해 퇴장당했다. 전반 추가 시간에 뮐러는 [브루누 알베스가](https://ko.wikipedia.org/wiki/브루누_알베스 "wikilink") 잘못 걷어낸 것을 추가골로 연결했다. 뮐러는 후반전에 [안드레 쉬를레가](https://ko.wikipedia.org/wiki/안드레_쉬를레 "wikilink") 골키퍼 [후이 파트리시우에](https://ko.wikipedia.org/wiki/후이_파트리시우 "wikilink") 저주받은 찰나에 쉬를레의 크로스를 우측에서 받아 근거리에서 빈 골망에 공을 넣어 해트트릭을 완성하였다.\[3\]
 
 이 경기는 독일의 100번째 FIFA 월드컵 경기로, 독일은 전 세계에서 처음으로 이 업적을 달성했다. 뮐러의 [해트트릭은](https://ko.wikipedia.org/wiki/FIFA_월드컵_해트트릭_목록 "wikilink") 독일 선수가 FIFA 월드컵에서 기록한 7번째 해트트릭으로, 독일은 최다 해트트릭 횟수를 달성했다.\[4\] 반면 포르투갈은 FIFA 월드컵 역대 최다 점수차 패배를 당했다.\[5\]
 
@@ -300,9 +300,9 @@
 
 양국은 두 차례 조우한 적이 있는데, 두 경기 모두 FIFA 월드컵 경기로, 가나는 미국을 두 대회 연속으로 탈락시켰다. [2006년 대회의](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵 "wikilink") 조별 리그에서는 가나가 [2-1로](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵_E조#가나_vs_미국 "wikilink") 이겼고, [2010년 대회의](https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵 "wikilink") 16강전에서도 가나가 연장전 접전 끝에 [2-1로](https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵_결선_토너먼트#미국_vs_가나 "wikilink") 승리했다.\[6\]
 
-[클린트 뎀프시는](https://ko.wikipedia.org/wiki/클린트_뎀프시 "wikilink") 경기 시작 30초만에 [저메인 존스로부터](https://ko.wikipedia.org/wiki/저메인_존스 "wikilink") 공을 받아 [존 보예를](https://ko.wikipedia.org/wiki/존_보예 "wikilink") 제치고 공을 끌고간 뒤 반대쪽 구석으로 차넣었다. (FIFA 월드컵 역사상 5번째로 빨리 터진 골\[7\]\[8\]\[9\]) 미국은 82분 [아사모아 잔이](https://ko.wikipedia.org/wiki/아사모아_잔 "wikilink") 발꿈치로 공을 내주어 [앙드레 아유가](https://ko.wikipedia.org/wiki/앙드레_아유 "wikilink") 동점골을 넣을 때까지 앞서나갔다. 그러나, 미국은 동점골이 터진 지 4분만에 [그레이엄 주시의](https://ko.wikipedia.org/wiki/그레이엄_주시 "wikilink") 코너킥을 후반 시작과 함께 교체로 들어온 [존 브룩스가](https://ko.wikipedia.org/wiki/존_브룩스 "wikilink") 머리로 결승골을 집어넣었다.\[10\] 그러나, 미국의 승리는 21분만에 [조지 앨티도어가](https://ko.wikipedia.org/wiki/조지_앨티도어 "wikilink") 왼쪽 서헤부 힘줄이 끊어지는 부상을 당하면서 빛이 바랬다.\[11\]
+[클린트 뎀프시는](https://ko.wikipedia.org/wiki/클린트_뎀프시 "wikilink") 경기 시작 30초만에 [저메인 존스로부터](https://ko.wikipedia.org/wiki/저메인_존스 "wikilink") 공을 받아 [존 보예를](https://ko.wikipedia.org/wiki/존_보예 "wikilink") 제치고 공을 끌고간 뒤 반대쪽 구석으로 차넣었다. (FIFA 월드컵 역사상 5번째로 빨리 터진 골\[7\]\[8\]\[9\]) 미국은 82분 [아사모아 잔이](https://ko.wikipedia.org/wiki/아사모아_잔 "wikilink") 발꿈치로 공을 내주어 [앙드레 아유가](https://ko.wikipedia.org/wiki/앙드레_아유 "wikilink") 동점골을 넣을 때까지 앞서나갔다. 그러나, 미국은 동점골이 터진 지 4분만에 [그레이엄 주시의](../Page/그레이엄_주시.md "wikilink") 코너킥을 후반 시작과 함께 교체로 들어온 [존 브룩스가](../Page/존_브룩스.md "wikilink") 머리로 결승골을 집어넣었다.\[10\] 그러나, 미국의 승리는 21분만에 [조지 앨티도어가](https://ko.wikipedia.org/wiki/조지_앨티도어 "wikilink") 왼쪽 서헤부 힘줄이 끊어지는 부상을 당하면서 빛이 바랬다.\[11\]
 
-FIFA의 공식 기록에 의하면 뎀프시의 선제골은 경기 시작 30초만에 터진, 5번째로 가장 일찍 터진 FIFA 월드컵 골이자, 미국 선수가 터뜨린 최단시간 골이었다. 또한, 뎀프시는 3차례의 FIFA 월드컵에서 득점을 기록한 최초의 미국 선수가 되었다.\[12\] [다마커스 비즐리의](https://ko.wikipedia.org/wiki/다마커스_비즐리 "wikilink") 경우에는 최초로 4번의 FIFA 월드컵 경기에 참가한 첫 미국 선수가 되었다.\[13\] 그리고, 브룩스는 미국 선수로는 FIFA 월드컵에서 득점을 기록한 첫 교체 투입 선수가 되었다.
+FIFA의 공식 기록에 의하면 뎀프시의 선제골은 경기 시작 30초만에 터진, 5번째로 가장 일찍 터진 FIFA 월드컵 골이자, 미국 선수가 터뜨린 최단시간 골이었다. 또한, 뎀프시는 3차례의 FIFA 월드컵에서 득점을 기록한 최초의 미국 선수가 되었다.\[12\] [다마커스 비즐리의](../Page/다마커스_비즐리.md "wikilink") 경우에는 최초로 4번의 FIFA 월드컵 경기에 참가한 첫 미국 선수가 되었다.\[13\] 그리고, 브룩스는 미국 선수로는 FIFA 월드컵에서 득점을 기록한 첫 교체 투입 선수가 되었다.
 
 |          |                            |                              |                            |               |                                  |                  |               |                   |                 |                |               |          |                          |                         |                          |               |               |                  |               |                   |                 |                |               |
 | -------- | -------------------------- | ---------------------------- | -------------------------- | ------------- | -------------------------------- | ---------------- | ------------- | ----------------- | --------------- | -------------- | ------------- | -------- | ------------------------ | ----------------------- | ------------------------ | ------------- | ------------- | ---------------- | ------------- | ----------------- | --------------- | -------------- | ------------- |
@@ -383,7 +383,7 @@ FIFA의 공식 기록에 의하면 뎀프시의 선제골은 경기 시작 30초
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/제임스_콰시_아피아" title="wikilink">제임스 콰시 아피아</a></p></td>
+<td><p><a href="../Page/제임스_콰시_아피아.md" title="wikilink">제임스 콰시 아피아</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -659,7 +659,7 @@ FIFA의 공식 기록에 의하면 뎀프시의 선제골은 경기 시작 30초
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/제임스_콰시_아피아" title="wikilink">제임스 콰시 아피아</a></p></td>
+<td><p><a href="../Page/제임스_콰시_아피아.md" title="wikilink">제임스 콰시 아피아</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -688,7 +688,7 @@ FIFA의 공식 기록에 의하면 뎀프시의 선제골은 경기 시작 30초
 
 양국은 미국이 [3-2로](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵_D조#미국_vs_포르투갈 "wikilink") 이긴 [2002년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") 조별 리그 경기를 포함하여 5번 조우하였다.\[22\] 포르투갈 수비수 [페페는](https://ko.wikipedia.org/wiki/페페_\(축구_선수\) "wikilink") 독일전 퇴장으로 이 경기에서 출장 정지 징계령을 받았다.\[23\]
 
-포르투갈은 [제프 캐머런이](../Page/제프_캐머런.md "wikilink") 걷어내는데 실수한 것을 [나니](https://ko.wikipedia.org/wiki/나니 "wikilink")가 가로채 근접 거리에서 득점하면서 5분만에 선제골을 기록했다. 전반전 막판에 나니의 장거리 슛이 골대를 때렸고, 미국 골키퍼 [팀 하워드는](https://ko.wikipedia.org/wiki/팀_하워드 "wikilink") 이어지는 [에데르의](https://ko.wikipedia.org/wiki/에데르지투_안토니우_마세두_로페스 "wikilink") 슛을 선방하였다. 후반전에 [마이클 브래들리의](https://ko.wikipedia.org/wiki/마이클_브래들리_\(축구_선수\) "wikilink") 슛을 [히카르두 코스타가](https://ko.wikipedia.org/wiki/히카르두_코스타 "wikilink") 걷어내었으나, 미국은 [저메인 존스가](https://ko.wikipedia.org/wiki/저메인_존스 "wikilink") 걷어낸 코너킥을 오른발로 감아차며 득점에 성공하였다.\[24\] 미국은 [그레이엄 주시의](https://ko.wikipedia.org/wiki/그레이엄_주시 "wikilink") 크로스를 [클린트 뎀프시가](https://ko.wikipedia.org/wiki/클린트_뎀프시 "wikilink") 마무리하며 리드를 잡았다. 미국은 이 경기에서 승리할 경우 16강 진출과 포르투갈의 탈락을 모두 확정 시킬 수 있었으나, 인저리 타임 막판에 [크리스티아누 호날두의](https://ko.wikipedia.org/wiki/크리스티아누_호날두 "wikilink") 크로스가 [실베스트르 바렐라의](https://ko.wikipedia.org/wiki/실베스트르_바렐라 "wikilink") 동점 헤딩골로 이어지면서 무산되었다.\[25\]
+포르투갈은 [제프 캐머런이](../Page/제프_캐머런.md "wikilink") 걷어내는데 실수한 것을 [나니](https://ko.wikipedia.org/wiki/나니 "wikilink")가 가로채 근접 거리에서 득점하면서 5분만에 선제골을 기록했다. 전반전 막판에 나니의 장거리 슛이 골대를 때렸고, 미국 골키퍼 [팀 하워드는](https://ko.wikipedia.org/wiki/팀_하워드 "wikilink") 이어지는 [에데르의](../Page/에데르지투_안토니우_마세두_로페스.md "wikilink") 슛을 선방하였다. 후반전에 [마이클 브래들리의](https://ko.wikipedia.org/wiki/마이클_브래들리_\(축구_선수\) "wikilink") 슛을 [히카르두 코스타가](https://ko.wikipedia.org/wiki/히카르두_코스타 "wikilink") 걷어내었으나, 미국은 [저메인 존스가](https://ko.wikipedia.org/wiki/저메인_존스 "wikilink") 걷어낸 코너킥을 오른발로 감아차며 득점에 성공하였다.\[24\] 미국은 [그레이엄 주시의](../Page/그레이엄_주시.md "wikilink") 크로스를 [클린트 뎀프시가](https://ko.wikipedia.org/wiki/클린트_뎀프시 "wikilink") 마무리하며 리드를 잡았다. 미국은 이 경기에서 승리할 경우 16강 진출과 포르투갈의 탈락을 모두 확정 시킬 수 있었으나, 인저리 타임 막판에 [크리스티아누 호날두의](https://ko.wikipedia.org/wiki/크리스티아누_호날두 "wikilink") 크로스가 [실베스트르 바렐라의](https://ko.wikipedia.org/wiki/실베스트르_바렐라 "wikilink") 동점 헤딩골로 이어지면서 무산되었다.\[25\]
 
 바렐라의 동점골 (94:33) 은 월드컵 역사상 정규시간에 가장 늦게 터진 골이다.\[26\] 주심은 39분에 급수를 위해 짧은 시간동안 경기를 중단시켰지만,\[27\] 이는 FIFA가 도입한 공식적인 "급수 휴식"으로 고려되지 않았다.\[28\]
 
@@ -1212,7 +1212,7 @@ FIFA의 공식 기록에 의하면 뎀프시의 선제골은 경기 시작 30초
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/제임스_콰시_아피아" title="wikilink">제임스 콰시 아피아</a></p></td>
+<td><p><a href="../Page/제임스_콰시_아피아.md" title="wikilink">제임스 콰시 아피아</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1230,7 +1230,7 @@ FIFA의 공식 기록에 의하면 뎀프시의 선제골은 경기 시작 30초
 에브라힘 살레 (<a href="https://ko.wikipedia.org/wiki/바레인_축구_협회" title="wikilink">바레인</a>)<br />
 야세르 툴레파트 (<a href="https://ko.wikipedia.org/wiki/바레인_축구_협회" title="wikilink">바레인</a>)<br />
 <strong>대기심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/윌마르_롤단" title="wikilink">윌마르 롤단</a> (<a href="https://ko.wikipedia.org/wiki/콜롬비아_축구_연맹" title="wikilink">콜롬비아</a>)<br />
+<a href="../Page/윌마르_롤단.md" title="wikilink">윌마르 롤단</a> (<a href="https://ko.wikipedia.org/wiki/콜롬비아_축구_연맹" title="wikilink">콜롬비아</a>)<br />
 <strong>후보 대기심:</strong><br />
 에두아르도 디아스 (<a href="https://ko.wikipedia.org/wiki/콜롬비아_축구_연맹" title="wikilink">콜롬비아</a>)</p></td>
 </tr>

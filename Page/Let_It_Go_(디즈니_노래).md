@@ -109,14 +109,14 @@ Gisela</p></td>
 <td style="text-align: left;"><p><a href="https://ko.wikipedia.org/wiki/스페인어" title="wikilink">남미식<br />
 스페인어</a></p></td>
 <td style="text-align: left;"><p>카르멘 사라히 (영화)/<br />
-<a href="https://ko.wikipedia.org/wiki/마르티나_스토셀" title="wikilink">마르티나 스토셀</a> (엔딩)[23]</p></td>
+<a href="../Page/마르티나_스토셀.md" title="wikilink">마르티나 스토셀</a> (엔딩)[23]</p></td>
 <td style="text-align: left;"><p>"Libre Soy"</p></td>
 <td style="text-align: left;"><p>"자유다"</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p><a href="https://ko.wikipedia.org/wiki/이탈리아어" title="wikilink">이탈리아어</a></p></td>
 <td style="text-align: left;"><p>세레나 아우티에리 (영화)<br />
-<a href="https://ko.wikipedia.org/wiki/마르티나_스토셀" title="wikilink">마르티나 스토셀</a> (엔딩)[24]</p></td>
+<a href="../Page/마르티나_스토셀.md" title="wikilink">마르티나 스토셀</a> (엔딩)[24]</p></td>
 <td style="text-align: left;"><p>"All'alba Sorgerò"</p></td>
 <td style="text-align: left;"><p>"새벽에 나 떠오르리"</p></td>
 </tr>
@@ -185,7 +185,7 @@ Willemijn Verkaik[32]</p></td>
 <tr class="odd">
 <td style="text-align: left;"><p><a href="https://ko.wikipedia.org/wiki/일본어" title="wikilink">일본어</a></p></td>
 <td style="text-align: left;"><p><a href="https://ko.wikipedia.org/wiki/마쓰_다카코" title="wikilink">마쓰 다카코</a>(영화)<br />
-<a href="https://ko.wikipedia.org/wiki/May_J." title="wikilink">May J.</a>(엔딩)[33]</p></td>
+<a href="../Page/May_J..md" title="wikilink">May J.</a>(엔딩)[33]</p></td>
 <td style="text-align: left;"><p>{{lang|ja|"レット･イット･ゴー"|렛토 잇토 고</p></td>
 <td style="text-align: left;"><p>}}(영화)<br />
 {{lang|ja|"Let It Go~ありのままで"|아리노마마데</p></td>
@@ -233,7 +233,7 @@ Julia Dovganishina (엔딩)[39]</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p><a href="https://ko.wikipedia.org/wiki/한국어" title="wikilink">한국어</a></p></td>
-<td style="text-align: left;"><p><a href="https://ko.wikipedia.org/wiki/박혜나" title="wikilink">박혜나</a> (영화)/<br />
+<td style="text-align: left;"><p><a href="../Page/박혜나.md" title="wikilink">박혜나</a> (영화)/<br />
 <a href="https://ko.wikipedia.org/wiki/효린" title="wikilink">효린</a> (엔딩)[40]</p></td>
 <td style="text-align: left;"><p>"다 잊어" (영화)/"Let It Go" (엔딩)</p></td>
 <td style="text-align: left;"><p>"다 잊어"</p></td>
@@ -306,7 +306,7 @@ Ana Margarida Encarnação[49]</p></td>
 
 ## 같이 보기
 
-  - [겨울왕국 (사운드트랙)](https://ko.wikipedia.org/wiki/겨울왕국_\(사운드트랙\) "wikilink")
+  - [겨울왕국 (사운드트랙)](../Page/겨울왕국_\(사운드트랙\).md "wikilink")
 
 ## 각주
 

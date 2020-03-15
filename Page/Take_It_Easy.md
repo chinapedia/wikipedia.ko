@@ -6,7 +6,7 @@
 ## 세션 구성
 
   - [글렌 프레이](https://ko.wikipedia.org/wiki/글렌_프레이 "wikilink"): 리드 보컬, 어쿠스틱 기타, 백 보컬
-  - [돈 헨리](https://ko.wikipedia.org/wiki/돈_헨리 "wikilink"): 드럼, 백 보컬
+  - [돈 헨리](../Page/돈_헨리.md "wikilink"): 드럼, 백 보컬
   - [버니 리던](https://ko.wikipedia.org/wiki/버니_리던 "wikilink"): 리드 기타, [밴조](https://ko.wikipedia.org/wiki/밴조 "wikilink"), 백 보컬
   - [랜디 마이즈너](https://ko.wikipedia.org/wiki/랜디_마이즈너 "wikilink"): 베이스 기타, 백 보컬
 

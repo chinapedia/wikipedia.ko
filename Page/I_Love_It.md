@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [I Love It](https://ko.wikipedia.org/wiki/I_Love_It).
 
 
-"**I Love It**"은 스웨덴의 여성 DJ 듀오 [아이코나 팝의](https://ko.wikipedia.org/wiki/아이코나_팝 "wikilink") 노래이다. 피쳐링에는 [찰리 XCX가](https://ko.wikipedia.org/wiki/찰리_XCX "wikilink") 참여하였다.
+"**I Love It**"은 스웨덴의 여성 DJ 듀오 [아이코나 팝의](https://ko.wikipedia.org/wiki/아이코나_팝 "wikilink") 노래이다. 피쳐링에는 [찰리 XCX가](../Page/찰리_XCX.md "wikilink") 참여하였다.
 
 ## 뮤직비디오
 

@@ -40,7 +40,7 @@ SPO TV 게임즈의 개국 전에는 SPO TV에서 2012 MLG vs Proleague Invitati
       - 진행 및 해설 : [유대현](https://ko.wikipedia.org/wiki/유대현 "wikilink"), [김익근](https://ko.wikipedia.org/wiki/김익근 "wikilink"), [김철민](https://ko.wikipedia.org/wiki/김철민_\(방송인\) "wikilink"), [고인규](https://ko.wikipedia.org/wiki/고인규 "wikilink"), [안준영](https://ko.wikipedia.org/wiki/안준영_\(방송인\) "wikilink"). [정인호](https://ko.wikipedia.org/wiki/정인호_\(방송인\) "wikilink"), [한승엽](https://ko.wikipedia.org/wiki/한승엽 "wikilink"), [이성은](https://ko.wikipedia.org/wiki/이성은 "wikilink")
   - [넥슨 카트라이더 리그](https://ko.wikipedia.org/wiki/카트라이더_리그 "wikilink")
       - 진행 및 해설 : [성승헌](https://ko.wikipedia.org/wiki/성승헌 "wikilink"), [정준](https://ko.wikipedia.org/wiki/정준 "wikilink"), [김대겸](https://ko.wikipedia.org/wiki/김대겸 "wikilink")
-  - [피파온라인3 챔피언십](https://ko.wikipedia.org/wiki/피파온라인3_챔피언십 "wikilink")
+  - [피파온라인3 챔피언십](../Page/피파온라인3_챔피언십.md "wikilink")
       - 진행 및 해설 : [성승헌](https://ko.wikipedia.org/wiki/성승헌 "wikilink"), [한승엽](https://ko.wikipedia.org/wiki/한승엽 "wikilink"), [장지현](https://ko.wikipedia.org/wiki/장지현 "wikilink"). [정인호](https://ko.wikipedia.org/wiki/정인호 "wikilink"), [김대겸](https://ko.wikipedia.org/wiki/김대겸 "wikilink")
   - [액션토너먼트](https://ko.wikipedia.org/wiki/던전앤파이터_리그 "wikilink")
       - 진행 및 해설 : [성승헌](https://ko.wikipedia.org/wiki/성승헌 "wikilink"), [정준](https://ko.wikipedia.org/wiki/정준 "wikilink")
@@ -51,15 +51,15 @@ SPO TV 게임즈의 개국 전에는 SPO TV에서 2012 MLG vs Proleague Invitati
 
 #### 리그
 
-  - [넥슨 카트라이더 리그 시즌 제로](https://ko.wikipedia.org/wiki/넥슨_카트라이더_리그_시즌_제로 "wikilink")
-  - [넥슨 카트라이더 리그 배틀 로얄](https://ko.wikipedia.org/wiki/넥슨_카트라이더_리그_배틀_로얄 "wikilink")
-  - [넥슨 카트라이더 리그 에볼루션](https://ko.wikipedia.org/wiki/넥슨_카트라이더_리그_에볼루션 "wikilink")
-  - [넥슨 카트라이더 리그 버닝 타임](https://ko.wikipedia.org/wiki/넥슨_카트라이더_리그_버닝_타임 "wikilink")
-  - [넥슨 카트라이더 리그 듀얼 레이스](https://ko.wikipedia.org/wiki/넥슨_카트라이더_리그_듀얼_레이스 "wikilink")
-  - [EA SPORTS 피파온라인3 챔피언십 2013](https://ko.wikipedia.org/wiki/EA_SPORTS_피파온라인3_챔피언십_2013 "wikilink")
-  - [EA SPORTS 피파온라인3 챔피언십 2014](https://ko.wikipedia.org/wiki/EA_SPORTS_피파온라인3_챔피언십_2014 "wikilink")
+  - [넥슨 카트라이더 리그 시즌 제로](../Page/넥슨_카트라이더_리그_시즌_제로.md "wikilink")
+  - [넥슨 카트라이더 리그 배틀 로얄](../Page/넥슨_카트라이더_리그_배틀_로얄.md "wikilink")
+  - [넥슨 카트라이더 리그 에볼루션](../Page/넥슨_카트라이더_리그_에볼루션.md "wikilink")
+  - [넥슨 카트라이더 리그 버닝 타임](../Page/넥슨_카트라이더_리그_버닝_타임.md "wikilink")
+  - [넥슨 카트라이더 리그 듀얼 레이스](../Page/넥슨_카트라이더_리그_듀얼_레이스.md "wikilink")
+  - [EA SPORTS 피파온라인3 챔피언십 2013](../Page/EA_SPORTS_피파온라인3_챔피언십_2013.md "wikilink")
+  - [EA SPORTS 피파온라인3 챔피언십 2014](../Page/EA_SPORTS_피파온라인3_챔피언십_2014.md "wikilink")
   - EA SPORTS FIFA ONLINE3 SPEARHEAD INVITATIONAL 2014
-  - [EA SPORTS 피파온라인3 챔피언십 2015](https://ko.wikipedia.org/wiki/EA_SPORTS_피파온라인3_챔피언십_2015 "wikilink")
+  - [EA SPORTS 피파온라인3 챔피언십 2015](../Page/EA_SPORTS_피파온라인3_챔피언십_2015.md "wikilink")
   - [EA SPORTS 피파온라인3 챔피언십 2015 시즌2](https://ko.wikipedia.org/wiki/EA_SPORTS_피파온라인3_챔피언십_2015_시즌2 "wikilink")
   - 코리아 도타 2 리그
   - [스타크래프트 프로리그](https://ko.wikipedia.org/wiki/스타크래프트_프로리그 "wikilink")

@@ -92,8 +92,8 @@
 <small> 출처: [FIFA](http://www.fifa.com/worldcup/archive/brazil2014/groups/index.html)
 다음 라운드 진출 규정: [순위 규정](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵#형식 "wikilink") </small>
 
-  - 아르헨티나는 [16강에서](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_결선_토너먼트#아르헨티나_vs_스위스 "wikilink") [스위스](https://ko.wikipedia.org/wiki/스위스_축구_국가대표팀 "wikilink") ([E조](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_E조 "wikilink") 2위) 를 상대한다.
-  - 나이지리아는 [16강에서](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_결선_토너먼트#프랑스_vs_나이지리아 "wikilink") [프랑스](https://ko.wikipedia.org/wiki/프랑스_축구_국가대표팀 "wikilink") ([E조](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_E조 "wikilink") 1위) 를 상대한다.
+  - 아르헨티나는 [16강에서](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_결선_토너먼트#아르헨티나_vs_스위스 "wikilink") [스위스](https://ko.wikipedia.org/wiki/스위스_축구_국가대표팀 "wikilink") ([E조](../Page/2014년_FIFA_월드컵_E조.md "wikilink") 2위) 를 상대한다.
+  - 나이지리아는 [16강에서](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_결선_토너먼트#프랑스_vs_나이지리아 "wikilink") [프랑스](https://ko.wikipedia.org/wiki/프랑스_축구_국가대표팀 "wikilink") ([E조](../Page/2014년_FIFA_월드컵_E조.md "wikilink") 1위) 를 상대한다.
 
 ## 경기
 
@@ -440,7 +440,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/스티븐_케시" title="wikilink">스티븐 케시</a></p></td>
+<td><p><a href="../Page/스티븐_케시.md" title="wikilink">스티븐 케시</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -460,7 +460,7 @@
 크리스티안 레스카노 (<a href="https://ko.wikipedia.org/wiki/에콰도르_축구_협회" title="wikilink">에콰도르</a>)<br />
 비론 로메로 (<a href="https://ko.wikipedia.org/wiki/에콰도르_축구_협회" title="wikilink">에콰도르</a>)<br />
 <strong>대기심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/윌마르_롤단" title="wikilink">윌마르 롤단</a> (<a href="https://ko.wikipedia.org/wiki/콜롬비아_축구_연맹" title="wikilink">콜롬비아</a>)<br />
+<a href="../Page/윌마르_롤단.md" title="wikilink">윌마르 롤단</a> (<a href="https://ko.wikipedia.org/wiki/콜롬비아_축구_연맹" title="wikilink">콜롬비아</a>)<br />
 <strong>후보 대기심:</strong><br />
 움베르토 클라비호 (<a href="https://ko.wikipedia.org/wiki/콜롬비아_축구_연맹" title="wikilink">콜롬비아</a>)</p></td>
 </tr>
@@ -656,7 +656,7 @@
 
 양국이 맞대결을 펼친 적은 없다.\[14\]
 
-보스니아 헤르체고비나는 [에딘 제코가](https://ko.wikipedia.org/wiki/에딘_제코 "wikilink") 골망을 갈랐을 때 선제골을 넣은 것으로 보였으나, 오프사이드로 판정되었고, 이는 다시보기를 통해 틀린 결정임을 증명했다.\[15\] 오리어리 주심은 나중에 제코의 골을 취소한 것은 실수였다고 해명했다.\[16\] 7분 후, 나이지리아는 [이매뉴얼 에메니케가](https://ko.wikipedia.org/wiki/이매뉴얼_에메니케 "wikilink") [에미르 스파히치를](https://ko.wikipedia.org/wiki/에미르_스파히치 "wikilink") 제치고 [피터 오뎀윙기에에게](https://ko.wikipedia.org/wiki/피터_오뎀윙기에 "wikilink") 공을 띄웠고, 그는 아스미르 베고비치 다리 사이로 선제골을 넣었다. 제코는 조국의 대회 잔류를 위해 동점골을 넣을 뻔 했지만, 그의 후반전 추가 시간 슛은 골대와 나이지리아 골키퍼 [빈센트 에니에아마에](https://ko.wikipedia.org/wiki/빈센트_에니에아마 "wikilink") 굴절되었다. 나이지리아는 점수차를 끝까지 지켜내 승리를 거두었고, 보스니아 헤르체고비나는 탈락했다.\[17\]
+보스니아 헤르체고비나는 [에딘 제코가](https://ko.wikipedia.org/wiki/에딘_제코 "wikilink") 골망을 갈랐을 때 선제골을 넣은 것으로 보였으나, 오프사이드로 판정되었고, 이는 다시보기를 통해 틀린 결정임을 증명했다.\[15\] 오리어리 주심은 나중에 제코의 골을 취소한 것은 실수였다고 해명했다.\[16\] 7분 후, 나이지리아는 [이매뉴얼 에메니케가](../Page/이매뉴얼_에메니케.md "wikilink") [에미르 스파히치를](https://ko.wikipedia.org/wiki/에미르_스파히치 "wikilink") 제치고 [피터 오뎀윙기에에게](https://ko.wikipedia.org/wiki/피터_오뎀윙기에 "wikilink") 공을 띄웠고, 그는 아스미르 베고비치 다리 사이로 선제골을 넣었다. 제코는 조국의 대회 잔류를 위해 동점골을 넣을 뻔 했지만, 그의 후반전 추가 시간 슛은 골대와 나이지리아 골키퍼 [빈센트 에니에아마에](https://ko.wikipedia.org/wiki/빈센트_에니에아마 "wikilink") 굴절되었다. 나이지리아는 점수차를 끝까지 지켜내 승리를 거두었고, 보스니아 헤르체고비나는 탈락했다.\[17\]
 
 |          |                            |                           |                            |                            |                            |                  |               |                   |                 |                |                  |          |                          |                            |                          |                          |                          |                  |               |                   |                 |                |                  |
 | -------- | -------------------------- | ------------------------- | -------------------------- | -------------------------- | -------------------------- | ---------------- | ------------- | ----------------- | --------------- | -------------- | ---------------- | -------- | ------------------------ | -------------------------- | ------------------------ | ------------------------ | ------------------------ | ---------------- | ------------- | ----------------- | --------------- | -------------- | ---------------- |
@@ -737,7 +737,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/스티븐_케시" title="wikilink">스티븐 케시</a></p></td>
+<td><p><a href="../Page/스티븐_케시.md" title="wikilink">스티븐 케시</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -830,7 +830,7 @@
 
 양국은 6번 맞대결을 펼쳤고, 이 중 FIFA 월드컵 조별 리그에서만 3번을 붙었고, 모두 아르헨티나가 이겼다. ([1994년](https://ko.wikipedia.org/wiki/1994년_FIFA_월드컵 "wikilink"): [2-1](https://ko.wikipedia.org/wiki/1994년_FIFA_월드컵_D조#아르헨티나_vs_나이지리아 "wikilink"); [2002년](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink"): [1-0](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵_F조#아르헨티나_vs_나이지리아 "wikilink"); [2010년](https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵 "wikilink"): [1-0](https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵_B조#아르헨티나_vs_나이지리아 "wikilink"))\[18\]
 
-경기 전까지 나이지리아는 대회에서 유일한 무실점국이었지만, 이들의 수비는 3분만에 [앙헬 디 마리아가](https://ko.wikipedia.org/wiki/앙헬_디_마리아 "wikilink") 골대를 맞춘 뒤 [리오넬 메시가](https://ko.wikipedia.org/wiki/리오넬_메시 "wikilink") 튀어나온 공을 차 넣으면서 무너졌다. 같은 시간에 열린 경기에서 이란이 보스니아 헤르체고비나에 승리하지 못하거나 승점을 획득할 경우 결선 토너먼트에 진출할 수 있는 나이지리아는 1분만에 [마이클 바바툰데가](https://ko.wikipedia.org/wiki/마이클_바바툰데 "wikilink") [아메드 무사에게](../Page/아메드_무사.md "wikilink") 공을 배급해 준 후, 무사가 안으로 파고들어 공을 감아차 골망을 갈라 승부를 원점으로 돌렸다.\[19\] 메시는 전반 추가 시간에 직접 프리킥으로 아르헨티나를 다시 앞서나가게 만들었으나, 후반이 시작된 지 얼마 지나지 않아 무사가 [이매뉴얼 에메니케와](https://ko.wikipedia.org/wiki/이매뉴얼_에메니케 "wikilink") 1대 2패스를 받아 또다시 동점을 만들어냈다. 아르헨티나는 조 1위를 차지하기 위해 승점 1점만 더 필요했지만, [에세키엘 라베시의](https://ko.wikipedia.org/wiki/에세키엘_라베시 "wikilink") 코너킥이 [에세키엘 가라이의](https://ko.wikipedia.org/wiki/에세키엘_가라이 "wikilink") 머리에 굴절되어 [마르코스 로호의](https://ko.wikipedia.org/wiki/마르코스_로호 "wikilink") 무릎을 거쳐 결승골이 되었다. 아르헨티나는 3경기를 치러 모두 승리하며 조 1위를 차지하였고, 나이지리아는 패했지만 보스니아 헤르체고비나가 같은 시간에 이란을 꺾으면서 조 2위로 결선 토너먼트에 진출하게 되었다.\[20\]
+경기 전까지 나이지리아는 대회에서 유일한 무실점국이었지만, 이들의 수비는 3분만에 [앙헬 디 마리아가](https://ko.wikipedia.org/wiki/앙헬_디_마리아 "wikilink") 골대를 맞춘 뒤 [리오넬 메시가](https://ko.wikipedia.org/wiki/리오넬_메시 "wikilink") 튀어나온 공을 차 넣으면서 무너졌다. 같은 시간에 열린 경기에서 이란이 보스니아 헤르체고비나에 승리하지 못하거나 승점을 획득할 경우 결선 토너먼트에 진출할 수 있는 나이지리아는 1분만에 [마이클 바바툰데가](https://ko.wikipedia.org/wiki/마이클_바바툰데 "wikilink") [아메드 무사에게](../Page/아메드_무사.md "wikilink") 공을 배급해 준 후, 무사가 안으로 파고들어 공을 감아차 골망을 갈라 승부를 원점으로 돌렸다.\[19\] 메시는 전반 추가 시간에 직접 프리킥으로 아르헨티나를 다시 앞서나가게 만들었으나, 후반이 시작된 지 얼마 지나지 않아 무사가 [이매뉴얼 에메니케와](../Page/이매뉴얼_에메니케.md "wikilink") 1대 2패스를 받아 또다시 동점을 만들어냈다. 아르헨티나는 조 1위를 차지하기 위해 승점 1점만 더 필요했지만, [에세키엘 라베시의](https://ko.wikipedia.org/wiki/에세키엘_라베시 "wikilink") 코너킥이 [에세키엘 가라이의](https://ko.wikipedia.org/wiki/에세키엘_가라이 "wikilink") 머리에 굴절되어 [마르코스 로호의](https://ko.wikipedia.org/wiki/마르코스_로호 "wikilink") 무릎을 거쳐 결승골이 되었다. 아르헨티나는 3경기를 치러 모두 승리하며 조 1위를 차지하였고, 나이지리아는 패했지만 보스니아 헤르체고비나가 같은 시간에 이란을 꺾으면서 조 2위로 결선 토너먼트에 진출하게 되었다.\[20\]
 
 무사는 FIFA 월드컵 한 경기에서 2골 이상 득점한 첫 나이지리아인이 되었다.\[21\]
 
@@ -909,7 +909,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/스티븐_케시" title="wikilink">스티븐 케시</a></p></td>
+<td><p><a href="../Page/스티븐_케시.md" title="wikilink">스티븐 케시</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1011,7 +1011,7 @@
 
 양국은 5차례 친선전을 펼쳤고, 가장 최근 맞대결은 2009년에 치렀다.\[22\]
 
-이미 탈락이 확정된 보스니아 헤르체고비나는 [에딘 제코가](https://ko.wikipedia.org/wiki/에딘_제코 "wikilink") [미랄렘 퍄니치의](https://ko.wikipedia.org/wiki/미랄렘_퍄니치 "wikilink") 패스를 받고 왼발로 낮게 차 선제골 만들어 전반에 1-0으로 앞선 채 마쳤다. 퍄니치는 후반전에 [티노-스벤 수시치의](https://ko.wikipedia.org/wiki/티노-스벤_수시치 "wikilink") 패스를 받아 골키퍼 아래로 제쳐 점수차를 벌렸다. 이란은 나이지리아가 아르헨티나에게 질 경우 승리하면 결선 토너먼트 진출 기회를 잡을 수 있었는데, [레자 구차네자드가](../Page/레자_구차네자드.md "wikilink") [자바드 네쿠남의](https://ko.wikipedia.org/wiki/자바드_네쿠남 "wikilink") 크로스를 받아 근거리에서 골을 넣어 점수차를 반으로 줄였다.\[23\] 그러나, 보스니아 헤르체고비나는 [세야드 살리호비치가](https://ko.wikipedia.org/wiki/세야드_살리호비치 "wikilink") 우측에서 제공한 패스를 [아브디야 브르샤예비치가](https://ko.wikipedia.org/wiki/아브디야_브르샤예비치 "wikilink") 오른발로 넣으면서 FIFA 월드컵 첫 승의 쐐기를 박음과 동시에 이란의 탈락을 확정지었고, 이란은 참가한 4번의 FIFA 월드컵 본선에서 모두 조별 리그에 탈락하게 되었다.\[24\]
+이미 탈락이 확정된 보스니아 헤르체고비나는 [에딘 제코가](https://ko.wikipedia.org/wiki/에딘_제코 "wikilink") [미랄렘 퍄니치의](https://ko.wikipedia.org/wiki/미랄렘_퍄니치 "wikilink") 패스를 받고 왼발로 낮게 차 선제골 만들어 전반에 1-0으로 앞선 채 마쳤다. 퍄니치는 후반전에 [티노-스벤 수시치의](https://ko.wikipedia.org/wiki/티노-스벤_수시치 "wikilink") 패스를 받아 골키퍼 아래로 제쳐 점수차를 벌렸다. 이란은 나이지리아가 아르헨티나에게 질 경우 승리하면 결선 토너먼트 진출 기회를 잡을 수 있었는데, [레자 구차네자드가](../Page/레자_구차네자드.md "wikilink") [자바드 네쿠남의](https://ko.wikipedia.org/wiki/자바드_네쿠남 "wikilink") 크로스를 받아 근거리에서 골을 넣어 점수차를 반으로 줄였다.\[23\] 그러나, 보스니아 헤르체고비나는 [세야드 살리호비치가](https://ko.wikipedia.org/wiki/세야드_살리호비치 "wikilink") 우측에서 제공한 패스를 [아브디야 브르샤예비치가](../Page/아브디야_브르샤예비치.md "wikilink") 오른발로 넣으면서 FIFA 월드컵 첫 승의 쐐기를 박음과 동시에 이란의 탈락을 확정지었고, 이란은 참가한 4번의 FIFA 월드컵 본선에서 모두 조별 리그에 탈락하게 되었다.\[24\]
 
 이란의 구차네자드가 골을 넣으면서, 2014년 FIFA 월드컵은 [1998년 대회](https://ko.wikipedia.org/wiki/1998년_FIFA_월드컵 "wikilink") 이래 처음으로 모든 참가국이 최소한 한골은 넣은 대회가 되었다.\[25\]
 

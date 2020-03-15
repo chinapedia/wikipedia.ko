@@ -367,16 +367,16 @@
 <td><p><a href="../Page/심석희.md" title="wikilink">심석희</a></p></td>
 <td><p><a href="../Page/판커신.md" title="wikilink">판커신</a></p></td>
 <td><p><a href="../Page/심석희.md" title="wikilink">심석희</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/최민정" title="wikilink">최민정</a></p></td>
+<td><p><a href="../Page/최민정.md" title="wikilink">최민정</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2015-16</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/최민정" title="wikilink">최민정</a></p></td>
+<td><p><a href="../Page/최민정.md" title="wikilink">최민정</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/마리안_생젤레" title="wikilink">마리안 생젤레</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/최민정" title="wikilink">최민정</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/최민정" title="wikilink">최민정</a></p></td>
+<td><p><a href="../Page/최민정.md" title="wikilink">최민정</a></p></td>
+<td><p><a href="../Page/최민정.md" title="wikilink">최민정</a></p></td>
 <td></td>
 <td></td>
 </tr>

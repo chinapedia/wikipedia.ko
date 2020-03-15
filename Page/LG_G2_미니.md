@@ -24,7 +24,7 @@
 
   - [LG G2](../Page/LG_G2.md "wikilink")
   - [LG G 프로 라이트](../Page/LG_G_프로_라이트.md "wikilink")
-  - [LG G3 비트](https://ko.wikipedia.org/wiki/LG_G3_비트 "wikilink")
+  - [LG G3 비트](../Page/LG_G3_비트.md "wikilink")
 
 ## 각주
 

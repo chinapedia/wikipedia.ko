@@ -10,10 +10,10 @@ HBase는 기존의 [SQL](https://ko.wikipedia.org/wiki/SQL "wikilink") 데이터
 ## 같이 보기
 
   - [몽고DB](../Page/몽고DB.md "wikilink")
-  - [아파치 스쿱](https://ko.wikipedia.org/wiki/아파치_스쿱 "wikilink")
+  - [아파치 스쿱](../Page/아파치_스쿱.md "wikilink")
   - [아파치 주키퍼](../Page/아파치_주키퍼.md "wikilink")
   - [아파치 피그](../Page/아파치_피그.md "wikilink")
-  - [아파치 하이브](https://ko.wikipedia.org/wiki/아파치_하이브 "wikilink")
+  - [아파치 하이브](../Page/아파치_하이브.md "wikilink")
   - [아파치 카산드라](https://ko.wikipedia.org/wiki/아파치_카산드라 "wikilink")
   - [하둡](https://ko.wikipedia.org/wiki/하둡 "wikilink")
   - [Apache Accumulo](https://ko.wikipedia.org/wiki/Apache_Accumulo "wikilink")

@@ -91,8 +91,8 @@
 다음 라운드 진출 규정: [순위 규정](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵#형식 "wikilink")
 **(개)** 개최국 </small>
 
-  - 브라질은 [16강에서](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_결선_토너먼트#브라질_vs_칠레 "wikilink") [칠레](https://ko.wikipedia.org/wiki/칠레_축구_국가대표팀 "wikilink") ([B조](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_B조 "wikilink") 2위) 를 상대한다.
-  - 멕시코는 [16강에서](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_결선_토너먼트#네덜란드_vs_멕시코 "wikilink") [네덜란드](https://ko.wikipedia.org/wiki/네덜란드_축구_국가대표팀 "wikilink") ([B조](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_B조 "wikilink") 1위) 를 상대한다.
+  - 브라질은 [16강에서](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_결선_토너먼트#브라질_vs_칠레 "wikilink") [칠레](https://ko.wikipedia.org/wiki/칠레_축구_국가대표팀 "wikilink") ([B조](../Page/2014년_FIFA_월드컵_B조.md "wikilink") 2위) 를 상대한다.
+  - 멕시코는 [16강에서](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_결선_토너먼트#네덜란드_vs_멕시코 "wikilink") [네덜란드](https://ko.wikipedia.org/wiki/네덜란드_축구_국가대표팀 "wikilink") ([B조](../Page/2014년_FIFA_월드컵_B조.md "wikilink") 1위) 를 상대한다.
 
 ## 경기
 
@@ -289,7 +289,7 @@
 
 양국은 1993년 친선전에서 한번의 맞대결을 펼쳤고 이때 멕시코가 1-0으로 이겼었다.\[14\]
 
-멕시코의 [조바니 도스 산토스는](https://ko.wikipedia.org/wiki/조바니_도스_산토스 "wikilink") 전반전에 2차례 골망을 흔들었지만 모두 오프사이드로 무효가 되었다.\[15\] 그러나, 다시보기를 통해 보여준 영상 자료에서는 첫 오프사이드 건에서는 최후방 수비수와 같은 선에 서 있었고, 두번째 경우에는 카메룬 선수에 굴절된 공을 받은 것이었다.\[16\] 후반전에 도스 산토스가 쏜 공은 [샤를 이탕주](https://ko.wikipedia.org/wiki/샤를_이탕주 "wikilink") 카메룬 골키퍼가 잡아냈지만, 쇄도하는 [오리베 페랄타가](https://ko.wikipedia.org/wiki/오리베_페랄타 "wikilink") 튀어나온 공을 집었고, 빈 골망에 왼발로 마무리했다.\[17\]
+멕시코의 [조바니 도스 산토스는](https://ko.wikipedia.org/wiki/조바니_도스_산토스 "wikilink") 전반전에 2차례 골망을 흔들었지만 모두 오프사이드로 무효가 되었다.\[15\] 그러나, 다시보기를 통해 보여준 영상 자료에서는 첫 오프사이드 건에서는 최후방 수비수와 같은 선에 서 있었고, 두번째 경우에는 카메룬 선수에 굴절된 공을 받은 것이었다.\[16\] 후반전에 도스 산토스가 쏜 공은 [샤를 이탕주](../Page/샤를_이탕주.md "wikilink") 카메룬 골키퍼가 잡아냈지만, 쇄도하는 [오리베 페랄타가](../Page/오리베_페랄타.md "wikilink") 튀어나온 공을 집었고, 빈 골망에 왼발로 마무리했다.\[17\]
 
 [라파엘 마르케스](https://ko.wikipedia.org/wiki/라파엘_마르케스 "wikilink") 멕시코 주장은 4차례의 FIFA 월드컵 본선에서 주장 완장을 차고 나온 첫 선수가 되었다.\[18\] [사뮈엘 에토는](https://ko.wikipedia.org/wiki/사뮈엘_에토 "wikilink") 네번째 FIFA 월드컵 본선 무대의 경기를 치르면서, 같은 국적의 [자크 송오와](https://ko.wikipedia.org/wiki/자크_송오 "wikilink") [리고베르 송과](https://ko.wikipedia.org/wiki/리고베르_송 "wikilink") 함께 이 부문에서 아프리카 선수로는 3명밖에 되지 않는 인물이 되었다.\[19\]
 
@@ -372,7 +372,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/미겔_에레라" title="wikilink">미겔 에레라</a></p></td>
+<td><p><a href="../Page/미겔_에레라.md" title="wikilink">미겔 에레라</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -445,7 +445,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/폴커_핑케" title="wikilink">폴커 핑케</a></p></td>
+<td><p><a href="../Page/폴커_핑케.md" title="wikilink">폴커 핑케</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -630,7 +630,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/미겔_에레라" title="wikilink">미겔 에레라</a></p></td>
+<td><p><a href="../Page/미겔_에레라.md" title="wikilink">미겔 에레라</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -661,9 +661,9 @@
 
 양국은 맞대결을 펼친 적이 없다.\[24\]
 
-이 경기는 양팀이 모두 생존을 위해 승점이 필요한 상황이었고, 크로아티아가 [이반 페리시치의](https://ko.wikipedia.org/wiki/이반_페리시치 "wikilink") 패스를 받은 [이비차 올리치가](https://ko.wikipedia.org/wiki/이비차_올리치 "wikilink") 선제 득점을 올리며 앞서나갔다. 전반 종료를 앞두고, 카메룬은 [알렉상드르 송이](https://ko.wikipedia.org/wiki/알렉상드르_송 "wikilink") [마리오 만주키치와](https://ko.wikipedia.org/wiki/마리오_만주키치 "wikilink") 공 없이 다투는 과정에서 퇴장당하며 10명으로 줄어들었다. 페리시치는 후반 시작과 함께 추가 득점을 성공시켰는데, 그는 카메룬 골키퍼 [샤를 이탕주가](https://ko.wikipedia.org/wiki/샤를_이탕주 "wikilink") 찬 골킥을 가로채 45미터를 주행해 가까운 쪽 골대로 공을 집어넣었다.\[25\] 만주키치가 크로아티아의 3번째, 4번째 골을 성공시켰는데, 첫 골은 [다니옐 프라니치가](https://ko.wikipedia.org/wiki/다니옐_프라니치 "wikilink") 차올린 코너킥으로, 다른 득점은 이탕주가 경로로 쏜 [에두아르두의](https://ko.wikipedia.org/wiki/에두아르두_다_시우바 "wikilink") 슛을 막아내며 튀어나온 공을 다시 차 넣어 기록했다.\[26\] 경기 결과에 따라, 카메룬은 대회에서 탈락하였다.
+이 경기는 양팀이 모두 생존을 위해 승점이 필요한 상황이었고, 크로아티아가 [이반 페리시치의](https://ko.wikipedia.org/wiki/이반_페리시치 "wikilink") 패스를 받은 [이비차 올리치가](https://ko.wikipedia.org/wiki/이비차_올리치 "wikilink") 선제 득점을 올리며 앞서나갔다. 전반 종료를 앞두고, 카메룬은 [알렉상드르 송이](https://ko.wikipedia.org/wiki/알렉상드르_송 "wikilink") [마리오 만주키치와](https://ko.wikipedia.org/wiki/마리오_만주키치 "wikilink") 공 없이 다투는 과정에서 퇴장당하며 10명으로 줄어들었다. 페리시치는 후반 시작과 함께 추가 득점을 성공시켰는데, 그는 카메룬 골키퍼 [샤를 이탕주가](../Page/샤를_이탕주.md "wikilink") 찬 골킥을 가로채 45미터를 주행해 가까운 쪽 골대로 공을 집어넣었다.\[25\] 만주키치가 크로아티아의 3번째, 4번째 골을 성공시켰는데, 첫 골은 [다니옐 프라니치가](https://ko.wikipedia.org/wiki/다니옐_프라니치 "wikilink") 차올린 코너킥으로, 다른 득점은 이탕주가 경로로 쏜 [에두아르두의](https://ko.wikipedia.org/wiki/에두아르두_다_시우바 "wikilink") 슛을 막아내며 튀어나온 공을 다시 차 넣어 기록했다.\[26\] 경기 결과에 따라, 카메룬은 대회에서 탈락하였다.
 
-내부 불화도 눈에 띄었는데, 카메룬 수비수 [브누아 아수-에코토가](https://ko.wikipedia.org/wiki/브누아_아수에코토 "wikilink") [벵자맹 무칸조를](https://ko.wikipedia.org/wiki/벵자맹_무칸조 "wikilink") 박치기 한 영상이 찍혔다.\[27\]\[28\] 송은 이후 만주키치에 자신의 행동을, 자국민들에게 퇴장에 대해 사과하였고, [폴커 핑케](https://ko.wikipedia.org/wiki/폴커_핑케 "wikilink") 카메룬 감독은 카메룬 선수들의 활약에 실망하였다.\[29\]\[30\]\[31\]
+내부 불화도 눈에 띄었는데, 카메룬 수비수 [브누아 아수-에코토가](https://ko.wikipedia.org/wiki/브누아_아수에코토 "wikilink") [벵자맹 무칸조를](https://ko.wikipedia.org/wiki/벵자맹_무칸조 "wikilink") 박치기 한 영상이 찍혔다.\[27\]\[28\] 송은 이후 만주키치에 자신의 행동을, 자국민들에게 퇴장에 대해 사과하였고, [폴커 핑케](../Page/폴커_핑케.md "wikilink") 카메룬 감독은 카메룬 선수들의 활약에 실망하였다.\[29\]\[30\]\[31\]
 
 2014년 7월 1일, 카메룬 공무원들은 카메룬 7명의 선수들이 승부 조작에 연루되었다는 주장에 대해 수사를 착수했다고 발표하였다.\[32\]\[33\] 그러나, FIFA는 카메룬이 치른 경기에는 승부 조작에 대한 증거는 없었다며 부인했다.\[34\]
 
@@ -748,7 +748,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/폴커_핑케" title="wikilink">폴커 핑케</a></p></td>
+<td><p><a href="../Page/폴커_핑케.md" title="wikilink">폴커 핑케</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -850,7 +850,7 @@
 
 양국은 4차례의 맞대결을 펼쳤고, 이 중 한번은 [1994년 FIFA 월드컵](https://ko.wikipedia.org/wiki/1994년_FIFA_월드컵 "wikilink") 조별 리그 경기로, 브라질이 [3-0으로](https://ko.wikipedia.org/wiki/1994년_FIFA_월드컵_B조#브라질_vs_카메룬 "wikilink") 이겼다.\[37\] 이들이 가장 최근에 맞붙은 경기는 [2003년 FIFA 컨페더레이션스컵](https://ko.wikipedia.org/wiki/2003년_FIFA_컨페더레이션스컵 "wikilink") 조별 리그 경기로, 카메룬이 1-0으로 이겼다. 카메룬의 미드필더 [알렉상드르 송은](https://ko.wikipedia.org/wiki/알렉상드르_송 "wikilink") 앞서 크로아티아와의 경기에서 퇴장당해 출장이 불가능 (3경기 출장 정지 징계를 받고 나서 첫번째 경기였다) 했다.\[38\]
 
-다음 라운드 진출에 최소 무승부가 필요했던 브라질은 [루이스 구스타부가](https://ko.wikipedia.org/wiki/루이스_구스타부 "wikilink") 17분에 왼쪽에서 배급한 공을 [네이마르](https://ko.wikipedia.org/wiki/네이마르 "wikilink")가 한번에 골키퍼를 제쳐 낮게 구석으로 발로 차 넣었다.\[39\] 이미 탈락이 확정된 크로아티아는 [알랑 니옹이](https://ko.wikipedia.org/wiki/알랑_니옹 "wikilink") [다니 아우베스를](https://ko.wikipedia.org/wiki/다니_아우베스 "wikilink") 좌측에서 제압해 들어가 [조엘 마티프가](https://ko.wikipedia.org/wiki/조엘_마티프 "wikilink") 마무리할 수 있도록 공을 배급했고, 동점골이 터졌다. 네이마르는 [마르셀루로부터](https://ko.wikipedia.org/wiki/마르셀루_비에이라 "wikilink") 공을 받아 페널티 구역 외곽에서 오른발로 낮게 차며 반대쪽으로 뻗은 골키퍼를 너머 골망을 갈랐고, 다시 브라질이 앞서가게 했다.\[40\] 후반전에는 [다비드 루이스가](https://ko.wikipedia.org/wiki/다비드_루이스 "wikilink") 좌측에서 공을 [프레드에게](https://ko.wikipedia.org/wiki/프레데리쿠_샤베스_게지스 "wikilink") 공을 배급해 근접 헤딩으로 추가골을 기록했고, 이후 [페르난지뉴](https://ko.wikipedia.org/wiki/페르난지뉴 "wikilink")가 [오스카르의](https://ko.wikipedia.org/wiki/오스카르_두스_산투스_임보아바_주니오르 "wikilink") 패스를 받아 낮게 오른발로 차 넣어 브라질의 완승을 장식했다.\[41\] 경기 결과에 따라 브라질은 멕시코를 골득실차로 제치고 조 1위로 결선 토너먼트에 진출했다.
+다음 라운드 진출에 최소 무승부가 필요했던 브라질은 [루이스 구스타부가](https://ko.wikipedia.org/wiki/루이스_구스타부 "wikilink") 17분에 왼쪽에서 배급한 공을 [네이마르](https://ko.wikipedia.org/wiki/네이마르 "wikilink")가 한번에 골키퍼를 제쳐 낮게 구석으로 발로 차 넣었다.\[39\] 이미 탈락이 확정된 크로아티아는 [알랑 니옹이](../Page/알랑_니옹.md "wikilink") [다니 아우베스를](https://ko.wikipedia.org/wiki/다니_아우베스 "wikilink") 좌측에서 제압해 들어가 [조엘 마티프가](https://ko.wikipedia.org/wiki/조엘_마티프 "wikilink") 마무리할 수 있도록 공을 배급했고, 동점골이 터졌다. 네이마르는 [마르셀루로부터](https://ko.wikipedia.org/wiki/마르셀루_비에이라 "wikilink") 공을 받아 페널티 구역 외곽에서 오른발로 낮게 차며 반대쪽으로 뻗은 골키퍼를 너머 골망을 갈랐고, 다시 브라질이 앞서가게 했다.\[40\] 후반전에는 [다비드 루이스가](https://ko.wikipedia.org/wiki/다비드_루이스 "wikilink") 좌측에서 공을 [프레드에게](https://ko.wikipedia.org/wiki/프레데리쿠_샤베스_게지스 "wikilink") 공을 배급해 근접 헤딩으로 추가골을 기록했고, 이후 [페르난지뉴](https://ko.wikipedia.org/wiki/페르난지뉴 "wikilink")가 [오스카르의](https://ko.wikipedia.org/wiki/오스카르_두스_산투스_임보아바_주니오르 "wikilink") 패스를 받아 낮게 오른발로 차 넣어 브라질의 완승을 장식했다.\[41\] 경기 결과에 따라 브라질은 멕시코를 골득실차로 제치고 조 1위로 결선 토너먼트에 진출했다.
 
 이 경기는 브라질의 100번째 FIFA 월드컵으로도 회자되었는데, 브라질은 독일 (2014년 FIFA 월드컵 조별 리그 1차전이 독일의 100번째 FIFA 월드컵 본선 경기였다.) 에 이어 FIFA 월드컵 100경기를 치른 두번째 국가가 되었다.\[42\]
 
@@ -933,7 +933,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/폴커_핑케" title="wikilink">폴커 핑케</a></p></td>
+<td><p><a href="../Page/폴커_핑케.md" title="wikilink">폴커 핑케</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1037,7 +1037,7 @@
 
 양국은 3차례 맞대결을 펼쳤고, 이 중 한번은 [2002년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") 조별 리그 경기로, 멕시코가 [1-0으로](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵_G조#크로아티아_vs_멕시코 "wikilink") 이겼다.\[43\]
 
-조별 리그 최종전으로 넘어오면서, 크로아티아는 같은 시간 벌어지는 카메룬과 브라질간의 경기와 관계 없이 다음 라운드 진출을 하려면 이겨야 하는 반면, 멕시코는 무승부만으로도 충분한 상황이었다. 경기는 70분간 무득점으로 침묵했는데, [엑토르 에레라의](https://ko.wikipedia.org/wiki/엑토르_미겔_에레라 "wikilink") 코너킥을 [라파엘 마르케스가](https://ko.wikipedia.org/wiki/라파엘_마르케스 "wikilink") 크로아티아 수비 사이로 도약해 머리로 후방에서 때려넣었다.\[44\] 승리만으로 다음 라운드에 진출할 수 있는 크로아티아는 [안드레스 과르다도가](https://ko.wikipedia.org/wiki/안드레스_과르다도 "wikilink") [오리베 페랄타의](https://ko.wikipedia.org/wiki/오리베_페랄타 "wikilink") 패스를 받아 추가골을 넣는 시점에 잠시 멈추었다. 멕시코는 과르다도의 코너킥을 마르케스가 굴절시키고 이를 [하비에르 에르난데스가](https://ko.wikipedia.org/wiki/하비에르_에르난데스_발카사르 "wikilink") 3번째 골로 마무리했다. 크로아티아의 [이반 페리시치는](https://ko.wikipedia.org/wiki/이반_페리시치 "wikilink") 막판에 [이반 라키티치의](https://ko.wikipedia.org/wiki/이반_라키티치 "wikilink") 후방 패스를 받아 2경기 연속으로 FIFA 월드컵 득점을 성공시켰지만, 영패를 면하는데 면하였다. 멕시코의 3번째 골과 크로아티아의 만회골이 터진 시점 사이에 크로아티아의 [안테 레비치가](https://ko.wikipedia.org/wiki/안테_레비치 "wikilink") [카를로스 페냐에게](https://ko.wikipedia.org/wiki/카를로스_알베르토_페냐 "wikilink") 범한 반칙으로 퇴장당했다.\[45\] 멕시코는 이 경기 승리로 조 2위 (브라질에게 골득실로 밀려) 를 차지해 다음 라운드에 진출하였고, 크로아티아는 탈락하였다.
+조별 리그 최종전으로 넘어오면서, 크로아티아는 같은 시간 벌어지는 카메룬과 브라질간의 경기와 관계 없이 다음 라운드 진출을 하려면 이겨야 하는 반면, 멕시코는 무승부만으로도 충분한 상황이었다. 경기는 70분간 무득점으로 침묵했는데, [엑토르 에레라의](https://ko.wikipedia.org/wiki/엑토르_미겔_에레라 "wikilink") 코너킥을 [라파엘 마르케스가](https://ko.wikipedia.org/wiki/라파엘_마르케스 "wikilink") 크로아티아 수비 사이로 도약해 머리로 후방에서 때려넣었다.\[44\] 승리만으로 다음 라운드에 진출할 수 있는 크로아티아는 [안드레스 과르다도가](https://ko.wikipedia.org/wiki/안드레스_과르다도 "wikilink") [오리베 페랄타의](../Page/오리베_페랄타.md "wikilink") 패스를 받아 추가골을 넣는 시점에 잠시 멈추었다. 멕시코는 과르다도의 코너킥을 마르케스가 굴절시키고 이를 [하비에르 에르난데스가](https://ko.wikipedia.org/wiki/하비에르_에르난데스_발카사르 "wikilink") 3번째 골로 마무리했다. 크로아티아의 [이반 페리시치는](https://ko.wikipedia.org/wiki/이반_페리시치 "wikilink") 막판에 [이반 라키티치의](https://ko.wikipedia.org/wiki/이반_라키티치 "wikilink") 후방 패스를 받아 2경기 연속으로 FIFA 월드컵 득점을 성공시켰지만, 영패를 면하는데 면하였다. 멕시코의 3번째 골과 크로아티아의 만회골이 터진 시점 사이에 크로아티아의 [안테 레비치가](../Page/안테_레비치.md "wikilink") [카를로스 페냐에게](../Page/카를로스_알베르토_페냐.md "wikilink") 범한 반칙으로 퇴장당했다.\[45\] 멕시코는 이 경기 승리로 조 2위 (브라질에게 골득실로 밀려) 를 차지해 다음 라운드에 진출하였고, 크로아티아는 탈락하였다.
 
 마르케스는 이 경기에 기록한 득점으로 [콰우테모크 블랑코와](https://ko.wikipedia.org/wiki/콰우테모크_블랑코 "wikilink") 함께 3번의 FIFA 월드컵에 득점을 기록한 유이한 선수가 되었다.\[46\]
 
@@ -1193,7 +1193,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/미겔_에레라" title="wikilink">미겔 에레라</a></p></td>
+<td><p><a href="../Page/미겔_에레라.md" title="wikilink">미겔 에레라</a></p></td>
 <td></td>
 </tr>
 </tbody>

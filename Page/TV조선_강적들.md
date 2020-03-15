@@ -13,7 +13,7 @@
   - [김성경](https://ko.wikipedia.org/wiki/김성경 "wikilink")
   - [정미경](https://ko.wikipedia.org/wiki/정미경_\(정치인\) "wikilink")
   - [전원책](https://ko.wikipedia.org/wiki/전원책 "wikilink")
-  - [김갑수](https://ko.wikipedia.org/wiki/김갑수_\(시인\) "wikilink")
+  - [김갑수](../Page/김갑수_\(시인\).md "wikilink")
 
 ## 역대 출연진
 
@@ -36,12 +36,12 @@
   - [박은지](https://ko.wikipedia.org/wiki/박은지_\(방송인\) "wikilink")
   - [표창원](https://ko.wikipedia.org/wiki/표창원 "wikilink")
   - [장제원](https://ko.wikipedia.org/wiki/장제원 "wikilink")
-  - [박종진](https://ko.wikipedia.org/wiki/박종진_\(1967년\) "wikilink")
+  - [박종진](../Page/박종진_\(1967년\).md "wikilink")
   - [유정현](https://ko.wikipedia.org/wiki/유정현_\(정치인\) "wikilink")
 
 <!-- end list -->
 
-  - [함익병](https://ko.wikipedia.org/wiki/함익병 "wikilink")
+  - [함익병](../Page/함익병.md "wikilink")
   - [이준석](https://ko.wikipedia.org/wiki/이준석_\(정치인\) "wikilink")
   - [강민구](https://ko.wikipedia.org/wiki/강민구 "wikilink")
   - [이봉규](https://ko.wikipedia.org/wiki/이봉규_\(1958년\) "wikilink")

@@ -13,7 +13,7 @@
 
   - **우승 (1회)**: 1929-30
 
-**[세리에 C](https://ko.wikipedia.org/wiki/세리에_C "wikilink")**:
+**[세리에 C](../Page/세리에_C.md "wikilink")**:
 
   - **우승 (1회)**: 1937-38
 

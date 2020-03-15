@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [4 BC   ](https://ko.wikipedia.org/wiki/4_BC___).
 
 
-**4회 BC카드배 월드 바둑 챔피언십**은 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [3월 3일](https://ko.wikipedia.org/wiki/3월_3일 "wikilink") 본선 64강을 시작으로 [5월 16일](https://ko.wikipedia.org/wiki/5월_16일 "wikilink") 결승 4국까지 약 2개월간 진행되었다. 결승 5번기에서는 한국의 [백홍석](https://ko.wikipedia.org/wiki/백홍석 "wikilink") 9단이 중국의 [당이페이](https://ko.wikipedia.org/wiki/당이페이 "wikilink") 4단을 3대 1로 물리치고 자신의 세계대회 첫 우승에 성공했다.
+**4회 BC카드배 월드 바둑 챔피언십**은 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [3월 3일](https://ko.wikipedia.org/wiki/3월_3일 "wikilink") 본선 64강을 시작으로 [5월 16일](https://ko.wikipedia.org/wiki/5월_16일 "wikilink") 결승 4국까지 약 2개월간 진행되었다. 결승 5번기에서는 한국의 [백홍석](https://ko.wikipedia.org/wiki/백홍석 "wikilink") 9단이 중국의 [당이페이](../Page/당이페이.md "wikilink") 4단을 3대 1로 물리치고 자신의 세계대회 첫 우승에 성공했다.
 
 ## 대진표
 

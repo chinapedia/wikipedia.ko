@@ -129,10 +129,10 @@
 ### 영화
 
   - [해운대에](https://ko.wikipedia.org/wiki/해운대_\(영화\) "wikilink") 건설 현장이 나온다.
-  - [그날의 분위기에](https://ko.wikipedia.org/wiki/그날의_분위기 "wikilink") [마린시티](https://ko.wikipedia.org/wiki/마린시티 "wikilink")가 나온다.
-  - [블랙 팬서가](https://ko.wikipedia.org/wiki/블랙_팬서_\(영화\) "wikilink") [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [3월 24일](https://ko.wikipedia.org/wiki/3월_24일 "wikilink") \~ 25일에 촬영하였다.
-  - [리얼에](https://ko.wikipedia.org/wiki/리얼_\(영화\) "wikilink") 해운대 I'PARK가 나온다.
-  - [돌아와요 부산항애에](https://ko.wikipedia.org/wiki/돌아와요_부산항애 "wikilink") 나온다.
+  - [그날의 분위기에](../Page/그날의_분위기.md "wikilink") [마린시티](https://ko.wikipedia.org/wiki/마린시티 "wikilink")가 나온다.
+  - [블랙 팬서가](../Page/블랙_팬서_\(영화\).md "wikilink") [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [3월 24일](https://ko.wikipedia.org/wiki/3월_24일 "wikilink") \~ 25일에 촬영하였다.
+  - [리얼에](../Page/리얼_\(영화\).md "wikilink") 해운대 I'PARK가 나온다.
+  - [돌아와요 부산항애에](../Page/돌아와요_부산항애.md "wikilink") 나온다.
   - [신과함께: 죄와 벌에](https://ko.wikipedia.org/wiki/신과함께:_죄와_벌 "wikilink") 나온다.
 
 ### 뮤직비디오
@@ -149,10 +149,10 @@
   - [마린시티](https://ko.wikipedia.org/wiki/마린시티 "wikilink")
   - [마천루 목록](https://ko.wikipedia.org/wiki/마천루_목록 "wikilink")
   - [대한민국의 마천루 목록](../Page/대한민국의_마천루_목록.md "wikilink")
-  - [부산광역시의 마천루 목록](https://ko.wikipedia.org/wiki/부산광역시의_마천루_목록 "wikilink")
+  - [부산광역시의 마천루 목록](../Page/부산광역시의_마천루_목록.md "wikilink")
   - [높이순 거주용 건축물 목록](https://ko.wikipedia.org/wiki/높이순_거주용_건축물_목록 "wikilink")
   - [두산위브더제니스](https://ko.wikipedia.org/wiki/두산위브더제니스 "wikilink")
-  - [삼성동 아이파크](https://ko.wikipedia.org/wiki/삼성동_아이파크 "wikilink")
+  - [삼성동 아이파크](../Page/삼성동_아이파크.md "wikilink")
   - [해운대 엘시티 더샵](../Page/해운대_엘시티_더샵.md "wikilink")
   - [위브 더 제니스 타워 (해운대)](https://ko.wikipedia.org/wiki/위브_더_제니스_타워_\(해운대\) "wikilink")
   - [아이파크](https://ko.wikipedia.org/wiki/아이파크 "wikilink")

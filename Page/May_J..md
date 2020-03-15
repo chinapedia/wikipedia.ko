@@ -82,7 +82,7 @@
   - Garden feat. [DJ KAORI](https://ko.wikipedia.org/wiki/DJ_KAORI "wikilink"), [Diggy-MO'](https://ko.wikipedia.org/wiki/SOUL'd_OUT "wikilink"), [크렌치&브리스타](https://ko.wikipedia.org/wiki/크렌치&브리스타 "wikilink")(2009년 4월 8일) - [다운로드](https://ko.wikipedia.org/wiki/디지털_다운로드 "wikilink") 한정 발매
   - Sing for you(2009년 12월 9일 ) - 렌털 한정 발매
   - Be mine (네가 좋아)()(2010년 2월 10일) - 렌털 한정 발매
-  - [Let It Go (있는 그대로) (엔딩송)](../Page/Let_It_Go_\(디즈니_노래\).md "wikilink")(）) (2014년 1월 5일) - 애니메이션 영화 《[겨울왕국](../Page/겨울왕국.md "wikilink")》 일본어판 주제가, 다운로드 한정 발매 및 [일본반 영화 사운드트랙](https://ko.wikipedia.org/wiki/겨울왕국_\(사운드트랙\) "wikilink") 수록
+  - [Let It Go (있는 그대로) (엔딩송)](../Page/Let_It_Go_\(디즈니_노래\).md "wikilink")(）) (2014년 1월 5일) - 애니메이션 영화 《[겨울왕국](../Page/겨울왕국.md "wikilink")》 일본어판 주제가, 다운로드 한정 발매 및 [일본반 영화 사운드트랙](../Page/겨울왕국_\(사운드트랙\).md "wikilink") 수록
 
 ### 참가 악곡
 
@@ -155,7 +155,7 @@
   - [레쿠초쿠](https://ko.wikipedia.org/wiki/레쿠초쿠 "wikilink") 레코드 회사 직영 사운드 (2009년 7월)
   - [디노스 세실](https://ko.wikipedia.org/wiki/디노스_세실 "wikilink") 후지 TV 플라워 넷 (2010년 4월)
   - [후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 1H센스 커넥션 라이브 (2012년 5월)
-  - [재팬 게이트웨이](https://ko.wikipedia.org/wiki/재팬_게이트웨이 "wikilink") 레부르 (2013년 6월 \~ )
+  - [재팬 게이트웨이](../Page/재팬_게이트웨이.md "wikilink") 레부르 (2013년 6월 \~ )
   - [거시 렝카 재팬](https://ko.wikipedia.org/wiki/거시_렝카_재팬 "wikilink") [프로액티브 솔루션](https://ko.wikipedia.org/wiki/프로액티브_솔루션 "wikilink") (2013년 8월～)
   - [Panasonic](https://ko.wikipedia.org/wiki/Panasonic "wikilink") (2013년 12월 31일)
   - [다이이치코쇼](https://ko.wikipedia.org/wiki/다이이치코쇼 "wikilink") 라이브 DAM (2014년 3월)

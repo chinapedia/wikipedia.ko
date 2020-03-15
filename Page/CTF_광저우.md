@@ -16,8 +16,8 @@
 ## 같이 보기
 
   - [마천루 목록](https://ko.wikipedia.org/wiki/마천루_목록 "wikilink")
-  - [중화인민공화국의 마천루 목록](https://ko.wikipedia.org/wiki/중화인민공화국의_마천루_목록 "wikilink")
-  - [100층 이상의 마천루 목록](https://ko.wikipedia.org/wiki/100층_이상의_마천루_목록 "wikilink")
+  - [중화인민공화국의 마천루 목록](../Page/중화인민공화국의_마천루_목록.md "wikilink")
+  - [100층 이상의 마천루 목록](../Page/100층_이상의_마천루_목록.md "wikilink")
   - [광저우 국제금융센터](https://ko.wikipedia.org/wiki/광저우_국제금융센터 "wikilink")
   - [CTF 톈진](https://ko.wikipedia.org/wiki/CTF_톈진 "wikilink")
 

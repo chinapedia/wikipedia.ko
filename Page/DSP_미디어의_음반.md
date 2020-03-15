@@ -91,7 +91,7 @@
   - 2008년 10월 7일 SS501 - **\[Digital Single\]그 남자의 책 198쪽**
   - 2008년 10월 13일 카라 - **\[Digital Single\] [Good Day (Season 2)](https://ko.wikipedia.org/wiki/Good_Day_\(Season_2\) "wikilink")**
   - 2008년 11월 21일 SS501 - **[SS501 스페셜 앨범](https://ko.wikipedia.org/wiki/SS501_스페셜_앨범 "wikilink")**
-  - 2008년 11월 21일 [SS501 프로젝트 그룹](https://ko.wikipedia.org/wiki/Double_S_301 "wikilink") - **U R Man (EP)**
+  - 2008년 11월 21일 [SS501 프로젝트 그룹](../Page/Double_S_301.md "wikilink") - **U R Man (EP)**
   - 2008년 12월 4일 카라 - **\[Digital Single\] Pretty Girl**
   - 2008년 12월 30일 메이비 - **\[Digital Single\] 라이야**
   - 2009년 1월 9일 SS501 - **\[Digital Single\] U R Man Remix Edition**
@@ -176,7 +176,7 @@
   - 2014년 7월 2일 에이젝스 - **뱀파이어의 꽃 OST**
   - 2014년 7월 9일 에이젝스,조현영 - **뱀파이어의 꽃 OST**
   - 2014년 7월 11일 조현영 - **주영훈 20주년 기념 앨범 Part.4**
-  - 2014년 8월 18일 카라 - **[Day & Night](https://ko.wikipedia.org/wiki/Day_&_Night "wikilink")**
+  - 2014년 8월 18일 카라 - **[Day & Night](../Page/Day_&_Night.md "wikilink")**
   - 2014년 8월 27일 카라 - **\[Japan Digital Single\] マンマミーア\!**
   - 2014년 9월 24일 박규리,한승연 - **아이언맨 OST Part.1**
   - 2014년 10월 2일 김지숙,조현영 - **아이언맨 OST Part.2**
@@ -184,36 +184,36 @@
   - 2014년 11월 24일 한승연 - **저 별까지 들리게 (기타와 핫팬츠 OST)**\[12\]
   - 2014년 12월 15일 [DSP 프렌즈](https://ko.wikipedia.org/wiki/DSP_미디어 "wikilink") - **White Letter**
   - 2014년 12월 30일 조현영 - **\[Digital Single\] 술제이 & 현영 (레인보우) Project Single \`오빠야\`**\[13\]
-  - 2015년 2월 20일 [허영지](https://ko.wikipedia.org/wiki/허영지 "wikilink") - **\[Digital Single\] 형돈이와 대준이의 히트제조기 Part.3**\[14\]
+  - 2015년 2월 20일 [허영지](../Page/허영지.md "wikilink") - **\[Digital Single\] 형돈이와 대준이의 히트제조기 Part.3**\[14\]
   - 2015년 2월 23일 레인보우 - **Innocent**
   - 2015년 4월 2일 한승연 - **\[Digital Single\] 그땐 알지 못했나봐**\[15\]
   - 2015년 5월 5일 카라 - **\[Japan Digital Single\] サマー☆ジック/Sunshine Miracle/SUNNY DAYS**
   - 2015년 5월 7일 조현영 - **\[Digital Single\] 사랑꽃**\[16\]
-  - 2015년 5월 26일 카라 - **[In Love](https://ko.wikipedia.org/wiki/In_Love "wikilink")**
+  - 2015년 5월 26일 카라 - **[In Love](../Page/In_Love.md "wikilink")**
   - 2015년 6월 15일 박규리 - **\[Digital Single\] The Little Prince**\[17\]
-  - 2015년 6월 17일 카라 - **\[Japan\] [Girl's Story](https://ko.wikipedia.org/wiki/Girl's_Story "wikilink")**
+  - 2015년 6월 17일 카라 - **\[Japan\] [Girl's Story](../Page/Girl's_Story.md "wikilink")**
   - 2015년 7월 14일 [구하라](https://ko.wikipedia.org/wiki/구하라 "wikilink") - **[ALOHARA](https://ko.wikipedia.org/wiki/ALOHARA "wikilink")**
   - 2015년 8월 11일 조현영 - **막돼먹은 영애씨 시즌 14 OST Part.1**
-  - 2015년 8월 24일 [에이프릴](https://ko.wikipedia.org/wiki/에이프릴_\(음악_그룹\) "wikilink") - **[Dreaming](https://ko.wikipedia.org/wiki/Dreaming "wikilink")**
+  - 2015년 8월 24일 [에이프릴](../Page/에이프릴_\(음악_그룹\).md "wikilink") - **[Dreaming](https://ko.wikipedia.org/wiki/Dreaming "wikilink")**
   - 2015년 9월 11일 김재경 - **고결한 그대 OST Part.1**\[18\]
   - 2015년 9월 27일 클릭비 - **심폐소생송 Special Album Part.1**<ref>[린](https://ko.wikipedia.org/wiki/린_\(가수\) "wikilink"),[원티드의](https://ko.wikipedia.org/wiki/원티드_\(음악_그룹\) "wikilink") 멤버 [하동균](https://ko.wikipedia.org/wiki/하동균 "wikilink"),[이정](https://ko.wikipedia.org/wiki/이정_\(가수\) "wikilink"),[god의](https://ko.wikipedia.org/wiki/god_\(음악_그룹\) "wikilink") 멤버
 
 [`김태우`](https://ko.wikipedia.org/wiki/김태우_\(1981년\) "wikilink")`,`[`빅마마`](https://ko.wikipedia.org/wiki/빅마마 "wikilink")의` 멤버 `[`이영현`](https://ko.wikipedia.org/wiki/이영현_\(가수\) "wikilink")`,`[`부활도`](https://ko.wikipedia.org/wiki/부활_\(밴드\) "wikilink")` 앨범 참여.`</ref>
 
   - 2015년 10월 21일 클릭비 - **\[Digital Single\] [Reborn](https://ko.wikipedia.org/wiki/Reborn "wikilink")**
-  - 2015년 11월 25일 에이프릴 - **\[Digital Single\] [Boing Boing](https://ko.wikipedia.org/wiki/Boing_Boing "wikilink")**
-  - 2015년 12월 17일 [윤채경](https://ko.wikipedia.org/wiki/윤채경 "wikilink"),[조시윤](https://ko.wikipedia.org/wiki/조시윤 "wikilink") - **\[Digital Single\] [PICK ME](https://ko.wikipedia.org/wiki/PICK_ME "wikilink")**\[19\]
+  - 2015년 11월 25일 에이프릴 - **\[Digital Single\] [Boing Boing](../Page/Boing_Boing.md "wikilink")**
+  - 2015년 12월 17일 [윤채경](../Page/윤채경.md "wikilink"),[조시윤](../Page/조시윤.md "wikilink") - **\[Digital Single\] [PICK ME](../Page/PICK_ME.md "wikilink")**\[19\]
   - 2015년 12월 21일 에이프릴 - **\[Digital Single\] [Snowman](https://ko.wikipedia.org/wiki/Snowman "wikilink")**
   - 2016년 2월 15일 레인보우 - **PRISM**
   - 2016년 3월 19일 윤채경 - **[35 Girls 5 Concepts](https://ko.wikipedia.org/wiki/35_Girls_5_Concepts "wikilink")**\[20\]
-  - 2016년 4월 27일 에이프릴 - **[Spring](https://ko.wikipedia.org/wiki/Spring_\(에이프릴의_EP\) "wikilink")**
-  - 2016년 6월 1일 [채원](https://ko.wikipedia.org/wiki/김채원_\(가수\) "wikilink"),[채경](https://ko.wikipedia.org/wiki/윤채경 "wikilink") - **\[Digital Single\] 시계**
+  - 2016년 4월 27일 에이프릴 - **[Spring](../Page/Spring_\(에이프릴의_EP\).md "wikilink")**
+  - 2016년 6월 1일 [채원](https://ko.wikipedia.org/wiki/김채원_\(가수\) "wikilink"),[채경](../Page/윤채경.md "wikilink") - **\[Digital Single\] 시계**
   - 2016년 6월 7일 에이프릴,허영지,에이젝스 - **\[Digital Single\] 손끝의 사랑**\[21\]
-  - 2016년 8월 17일 [진솔](https://ko.wikipedia.org/wiki/이진솔 "wikilink") - **\[Digital Single\] 아이돌보컬리그 - 걸스피릿 EPISODE 05**\[22\]
+  - 2016년 8월 17일 [진솔](../Page/이진솔.md "wikilink") - **\[Digital Single\] 아이돌보컬리그 - 걸스피릿 EPISODE 05**\[22\]
   - 2016년 10월 27일 오종혁,김지숙 - **\[Digital Single\] 시들어**
   - 2016년 12월 13일 [카드](https://ko.wikipedia.org/wiki/카드_\(음악_그룹\) "wikilink") - **\[Digital Single\] K.A.R.D Project Vol.1 "[Oh NaNa](https://ko.wikipedia.org/wiki/Oh_NaNa "wikilink")"**
   - 2017년 1월 4일 에이프릴 - **[Prelude](https://ko.wikipedia.org/wiki/Prelude_\(에이프릴의_EP\) "wikilink")**
-  - 2017년 1월 18일 [캐스퍼](https://ko.wikipedia.org/wiki/캐스퍼_\(대한민국의_래퍼\) "wikilink") - **\[Digital Single\] Lean On Me**
+  - 2017년 1월 18일 [캐스퍼](../Page/캐스퍼_\(대한민국의_래퍼\).md "wikilink") - **\[Digital Single\] Lean On Me**
   - 2017년 2월 16일 카드 - **\[Digital Single\] K.A.R.D Project Vol.2 "[Don't Recall](https://ko.wikipedia.org/wiki/Don't_Recall "wikilink")"**
   - 2017년 2월 26일 에이프릴 - **\[Digital Single\] 싱포유 - 다섯번째이야기 하나보단 둘이 좋아**
   - 2017년 3월 2일 카드 - **\[Digital Single\] [Don't Recall](https://ko.wikipedia.org/wiki/Don't_Recall "wikilink") (Hidden Track)**
@@ -230,7 +230,7 @@
   - 2017년 11월 21일 카드 - **[You & Me](https://ko.wikipedia.org/wiki/You_&_Me_\(카드의_EP\) "wikilink")**
   - 2017년 12월 15일 허영지 - **\[Digital Single\] 함께할개 Part.2**
   - 2018년 1월 20일 이현주 - **\[Digital Single\] THE UNI+ G STEP 1**
-  - 2018년 2월 7일 [이나은](https://ko.wikipedia.org/wiki/이나은_\(가수\) "wikilink"), [이진솔](https://ko.wikipedia.org/wiki/이진솔 "wikilink") - **\[Digital Single\] [내 이야기](https://ko.wikipedia.org/wiki/내_이야기 "wikilink")**
+  - 2018년 2월 7일 [이나은](../Page/이나은_\(가수\).md "wikilink"), [이진솔](../Page/이진솔.md "wikilink") - **\[Digital Single\] [내 이야기](https://ko.wikipedia.org/wiki/내_이야기 "wikilink")**
   - 2018년 2월 10일 이현주 - **\[Digital Single\] THE UNI+ FINAL**
   - 2018년 3월 6일 이진솔 - **키스 먼저 할까요 OST Part 2.**
   - 2018년 3월 12일 에이프릴 - **[The Blue](https://ko.wikipedia.org/wiki/The_Blue_\(에이프릴의_EP\) "wikilink")**
@@ -283,16 +283,16 @@
 16. [술제이](https://ko.wikipedia.org/wiki/술제이 "wikilink")도 다시 앨범 참여.
 17. [프럼 디 에어포트도](https://ko.wikipedia.org/wiki/:en:From_the_Airport "wikilink") 앨범 참여.
 18. [성훈도](https://ko.wikipedia.org/wiki/성훈_\(1983년\) "wikilink") 앨범 참여.
-19. [전소미](https://ko.wikipedia.org/wiki/소미 "wikilink"),[김세정](https://ko.wikipedia.org/wiki/세정_\(가수\) "wikilink"),[최유정](https://ko.wikipedia.org/wiki/최유정_\(가수\) "wikilink"),[허찬미](https://ko.wikipedia.org/wiki/허찬미 "wikilink"),[강미나](https://ko.wikipedia.org/wiki/강미나 "wikilink") 외 91명도 앨범 참여.
-20. [전소미](https://ko.wikipedia.org/wiki/소미 "wikilink"), [기희현](https://ko.wikipedia.org/wiki/기희현 "wikilink"), [최유정](https://ko.wikipedia.org/wiki/최유정_\(가수\) "wikilink"),[허찬미](https://ko.wikipedia.org/wiki/허찬미 "wikilink"),[정채연](https://ko.wikipedia.org/wiki/정채연 "wikilink"),[김다니](https://ko.wikipedia.org/wiki/김다니 "wikilink") 외 28명도 앨범 참여.
-21. [B1A4](https://ko.wikipedia.org/wiki/B1A4 "wikilink"),[오마이걸](https://ko.wikipedia.org/wiki/오마이걸 "wikilink"),[케이시](https://ko.wikipedia.org/wiki/케이시 "wikilink"),[비투비](https://ko.wikipedia.org/wiki/비투비 "wikilink")의 두 멤버 [서은광](https://ko.wikipedia.org/wiki/서은광 "wikilink"),[이창섭도](https://ko.wikipedia.org/wiki/이창섭_\(가수\) "wikilink") 앨범 참여.
+19. [전소미](https://ko.wikipedia.org/wiki/소미 "wikilink"),[김세정](../Page/세정_\(가수\).md "wikilink"),[최유정](../Page/최유정_\(가수\).md "wikilink"),[허찬미](../Page/허찬미.md "wikilink"),[강미나](https://ko.wikipedia.org/wiki/강미나 "wikilink") 외 91명도 앨범 참여.
+20. [전소미](https://ko.wikipedia.org/wiki/소미 "wikilink"), [기희현](../Page/기희현.md "wikilink"), [최유정](../Page/최유정_\(가수\).md "wikilink"),[허찬미](../Page/허찬미.md "wikilink"),[정채연](../Page/정채연.md "wikilink"),[김다니](https://ko.wikipedia.org/wiki/김다니 "wikilink") 외 28명도 앨범 참여.
+21. [B1A4](https://ko.wikipedia.org/wiki/B1A4 "wikilink"),[오마이걸](../Page/오마이걸.md "wikilink"),[케이시](https://ko.wikipedia.org/wiki/케이시 "wikilink"),[비투비](https://ko.wikipedia.org/wiki/비투비 "wikilink")의 두 멤버 [서은광](https://ko.wikipedia.org/wiki/서은광 "wikilink"),[이창섭도](https://ko.wikipedia.org/wiki/이창섭_\(가수\) "wikilink") 앨범 참여.
 22. [스피카의](https://ko.wikipedia.org/wiki/스피카_\(음악_그룹\) "wikilink") 멤버 [김보형](../Page/김보형.md "wikilink"),[레이디스 코드의](../Page/레이디스_코드.md "wikilink") 멤버 [소정도](../Page/소정_\(가수\).md "wikilink") 앨범 참여.
-23. [키썸](https://ko.wikipedia.org/wiki/키썸 "wikilink")도 앨범 참여
-24. [트로이의](https://ko.wikipedia.org/wiki/트로이_\(음악_그룹\) "wikilink") 멤버 [칸토](https://ko.wikipedia.org/wiki/칸토 "wikilink"),[JOO](https://ko.wikipedia.org/wiki/주_\(가수\) "wikilink"),[임팩트](https://ko.wikipedia.org/wiki/임팩트_\(음악_그룹\) "wikilink") 외 116명도 앨범 참여.
-25. [트로이의](https://ko.wikipedia.org/wiki/트로이_\(음악_그룹\) "wikilink") 멤버 [칸토](https://ko.wikipedia.org/wiki/칸토 "wikilink"), [임팩트](https://ko.wikipedia.org/wiki/임팩트_\(음악_그룹\) "wikilink") 외 55명도 앨범 참여.
+23. [키썸](../Page/키썸.md "wikilink")도 앨범 참여
+24. [트로이의](https://ko.wikipedia.org/wiki/트로이_\(음악_그룹\) "wikilink") 멤버 [칸토](https://ko.wikipedia.org/wiki/칸토 "wikilink"),[JOO](https://ko.wikipedia.org/wiki/주_\(가수\) "wikilink"),[임팩트](../Page/임팩트_\(음악_그룹\).md "wikilink") 외 116명도 앨범 참여.
+25. [트로이의](https://ko.wikipedia.org/wiki/트로이_\(음악_그룹\) "wikilink") 멤버 [칸토](https://ko.wikipedia.org/wiki/칸토 "wikilink"), [임팩트](../Page/임팩트_\(음악_그룹\).md "wikilink") 외 55명도 앨범 참여.
 26. [JOO](https://ko.wikipedia.org/wiki/주_\(가수\) "wikilink"), [굿데이](https://ko.wikipedia.org/wiki/굿데이_\(음악_그룹\) "wikilink") 외 51명도 앨범 참여.
 27. [자이언트 핑크](https://ko.wikipedia.org/wiki/자이언트_핑크 "wikilink"),[트로이의](https://ko.wikipedia.org/wiki/트로이_\(음악_그룹\) "wikilink") 멤버 [칸토](https://ko.wikipedia.org/wiki/칸토 "wikilink"),[위너와](../Page/위너_\(음악_그룹\).md "wikilink") [사우스클럽](https://ko.wikipedia.org/wiki/사우스클럽 "wikilink")의 멤버 [남태현](../Page/남태현.md "wikilink")도 앨범 참여.
-28. [빅톤의](https://ko.wikipedia.org/wiki/빅톤_\(음악_그룹\) "wikilink") 두 멤버 [한승우](https://ko.wikipedia.org/wiki/한승우_\(가수\) "wikilink"),[최병찬](https://ko.wikipedia.org/wiki/최병찬 "wikilink"),[유니크의](https://ko.wikipedia.org/wiki/유니크_\(음악_그룹\) "wikilink") 멤버 [조승연](https://ko.wikipedia.org/wiki/조승연_\(가수\) "wikilink") 외 95명도 앨범 참여.
-29. [매드타운](https://ko.wikipedia.org/wiki/매드타운 "wikilink")의 멤버 [대원도](https://ko.wikipedia.org/wiki/대원_\(가수\) "wikilink") 앨범 참여.
+28. [빅톤의](https://ko.wikipedia.org/wiki/빅톤_\(음악_그룹\) "wikilink") 두 멤버 [한승우](https://ko.wikipedia.org/wiki/한승우_\(가수\) "wikilink"),[최병찬](https://ko.wikipedia.org/wiki/최병찬 "wikilink"),[유니크의](../Page/유니크_\(음악_그룹\).md "wikilink") 멤버 [조승연](https://ko.wikipedia.org/wiki/조승연_\(가수\) "wikilink") 외 95명도 앨범 참여.
+29. [매드타운](../Page/매드타운.md "wikilink")의 멤버 [대원도](../Page/대원_\(가수\).md "wikilink") 앨범 참여.
 30. [보이스퍼](https://ko.wikipedia.org/wiki/보이스퍼 "wikilink")도 앨범 참여.
 31. 차우도 앨범 참여.

@@ -5,7 +5,7 @@
 
 ## 이력
 
-[카툰 네트워크에서](https://ko.wikipedia.org/wiki/카툰_네트워크 "wikilink") 방영 중인 애니메이션 《[레귤러 쇼](https://ko.wikipedia.org/wiki/레귤러_쇼 "wikilink")》의 제작자이고, 《[이상한 바다의 플랩잭](https://ko.wikipedia.org/wiki/이상한_바다의_플랩잭 "wikilink")》의 [크리에이티브 디렉터로](https://ko.wikipedia.org/wiki/크리에이티브_디렉터 "wikilink") 참여를 했었다.
+[카툰 네트워크에서](https://ko.wikipedia.org/wiki/카툰_네트워크 "wikilink") 방영 중인 애니메이션 《[레귤러 쇼](https://ko.wikipedia.org/wiki/레귤러_쇼 "wikilink")》의 제작자이고, 《[이상한 바다의 플랩잭](../Page/이상한_바다의_플랩잭.md "wikilink")》의 [크리에이티브 디렉터로](https://ko.wikipedia.org/wiki/크리에이티브_디렉터 "wikilink") 참여를 했었다.
 
 그의 현재 거주지는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [캘리포니아주](https://ko.wikipedia.org/wiki/캘리포니아주 "wikilink") [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink")이며 현재 [캘리포니아주](https://ko.wikipedia.org/wiki/캘리포니아주 "wikilink") [버뱅크에](https://ko.wikipedia.org/wiki/버뱅크_\(캘리포니아주\) "wikilink") 위치한 [카툰 네트워크 스튜디오에서](https://ko.wikipedia.org/wiki/카툰_네트워크_스튜디오 "wikilink") 《레귤러 쇼》를 제작하고 있다.
 
@@ -22,14 +22,14 @@
 
 ### 텔레비전
 
-| 연도                                                                    | 작품                                                                                       | 역할                   | 설명                                                                                                                                                | 각주    |
-| --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| 2004                                                                  | 《[스타 워즈: 클론 전쟁](https://ko.wikipedia.org/wiki/스타_워즈:_클론_전쟁_\(2003년_TV_시리즈\) "wikilink")》 | 스토리보드 수정자 (견습)       | [캘리포니아 인스티튜트 오브 디 아츠](https://ko.wikipedia.org/wiki/캘리포니아_인스티튜트_오브_디_아츠 "wikilink") 재학 중 [인턴십으로](https://ko.wikipedia.org/wiki/인턴제 "wikilink") 참여 |       |
-| 2006                                                                  | 《[라즐로 캠프](https://ko.wikipedia.org/wiki/라즐로_캠프 "wikilink")》                              | 스토리보드 아티스트, 제작자, 수정자 | 퀸텔은 이 작품 제작에 참여하기 위해 시험을 통과했다                                                                                                                     | \[3\] |
-| 2008                                                                  | 《[피니와 퍼브](https://ko.wikipedia.org/wiki/피니와_퍼브 "wikilink")》                              | 작가, 스토리보드 아티스트       | 에피소드 "우리들의 서커스" (Jerk De Soleil)                                                                                                                  |       |
-| 《[이상한 바다의 플랩잭](https://ko.wikipedia.org/wiki/이상한_바다의_플랩잭 "wikilink")》 | 크리에이티브 디렉터, 스토리보드 아티스트                                                                   |                      |                                                                                                                                                   |       |
-| 2010                                                                  | 《[어드벤처 타임](https://ko.wikipedia.org/wiki/어드벤처_타임 "wikilink")》                            | 작가, 스토리보드 아티스트       | 에피소드 "바다 공포증" (Ocean of Fear                                                                                                                      |       |
-| 《[레귤러 쇼](https://ko.wikipedia.org/wiki/레귤러_쇼 "wikilink")》             | 제작자, 성우, 작가 (2010\~현재)                                                                   |                      | \[4\]                                                                                                                                             |       |
+| 연도                                                        | 작품                                                                                       | 역할                   | 설명                                                                                                                             | 각주    |
+| --------------------------------------------------------- | ---------------------------------------------------------------------------------------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ----- |
+| 2004                                                      | 《[스타 워즈: 클론 전쟁](https://ko.wikipedia.org/wiki/스타_워즈:_클론_전쟁_\(2003년_TV_시리즈\) "wikilink")》 | 스토리보드 수정자 (견습)       | [캘리포니아 인스티튜트 오브 디 아츠](../Page/캘리포니아_인스티튜트_오브_디_아츠.md "wikilink") 재학 중 [인턴십으로](https://ko.wikipedia.org/wiki/인턴제 "wikilink") 참여 |       |
+| 2006                                                      | 《[라즐로 캠프](https://ko.wikipedia.org/wiki/라즐로_캠프 "wikilink")》                              | 스토리보드 아티스트, 제작자, 수정자 | 퀸텔은 이 작품 제작에 참여하기 위해 시험을 통과했다                                                                                                  | \[3\] |
+| 2008                                                      | 《[피니와 퍼브](https://ko.wikipedia.org/wiki/피니와_퍼브 "wikilink")》                              | 작가, 스토리보드 아티스트       | 에피소드 "우리들의 서커스" (Jerk De Soleil)                                                                                               |       |
+| 《[이상한 바다의 플랩잭](../Page/이상한_바다의_플랩잭.md "wikilink")》        | 크리에이티브 디렉터, 스토리보드 아티스트                                                                   |                      |                                                                                                                                |       |
+| 2010                                                      | 《[어드벤처 타임](https://ko.wikipedia.org/wiki/어드벤처_타임 "wikilink")》                            | 작가, 스토리보드 아티스트       | 에피소드 "바다 공포증" (Ocean of Fear                                                                                                   |       |
+| 《[레귤러 쇼](https://ko.wikipedia.org/wiki/레귤러_쇼 "wikilink")》 | 제작자, 성우, 작가 (2010\~현재)                                                                   |                      | \[4\]                                                                                                                          |       |
 
 ## 수상
 
@@ -69,7 +69,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/애니상" title="wikilink">애니상</a></p></td>
 <td><p>텔레비전 작품 제작</p></td>
 <td><p>공동 제작자</p></td>
-<td><p>《<a href="https://ko.wikipedia.org/wiki/이상한_바다의_플랩잭" title="wikilink">이상한 바다의 플랩잭</a>》</p></td>
+<td><p>《<a href="../Page/이상한_바다의_플랩잭.md" title="wikilink">이상한 바다의 플랩잭</a>》</p></td>
 <td></td>
 <td><p>[6]</p></td>
 </tr>
