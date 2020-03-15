@@ -57,7 +57,7 @@
 | 2014년 | [SBS](https://ko.wikipedia.org/wiki/SBS "wikilink") | **《[K팝스타 4](../Page/K팝스타_4.md "wikilink")》**                                        | 서바이벌 오디션 (2014년 11월 23일 \~ 2015년 4월 12일)\[6\]                                          |
 | 2015년 | [SBS](https://ko.wikipedia.org/wiki/SBS "wikilink") | **《[SBS 나이트라인](https://ko.wikipedia.org/wiki/SBS_나이트라인 "wikilink")》 : 배재학의 0시 인터뷰** | 인터뷰 (2015년 4월 14일)\[7\]                                                                |
 | 2015년 | [SBS](https://ko.wikipedia.org/wiki/SBS "wikilink") | 《[SBS 인기가요](https://ko.wikipedia.org/wiki/SBS_인기가요 "wikilink")》                     | [featuring](https://ko.wikipedia.org/wiki/featuring "wikilink") 무대 (2015년 5월 10일)\[8\] |
-| 2015년 | [SBS](https://ko.wikipedia.org/wiki/SBS "wikilink") | 《[K팝스타 5](https://ko.wikipedia.org/wiki/K팝스타_5 "wikilink")》 : \[특집\] K팝스타5 D-day    | 스페셜 (2015년 11월 22일)\[9\]\[10\]                                                         |
+| 2015년 | [SBS](https://ko.wikipedia.org/wiki/SBS "wikilink") | 《[K팝스타 5](../Page/K팝스타_5.md "wikilink")》 : \[특집\] K팝스타5 D-day                       | 스페셜 (2015년 11월 22일)\[9\]\[10\]                                                         |
 |       |                                                     |                                                                                     |                                                                                        |
 
 ### 기타

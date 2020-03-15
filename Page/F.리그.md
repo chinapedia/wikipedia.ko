@@ -35,7 +35,7 @@
 ## 같이 보기
 
   - [AFC 풋살 클럽 챔피언십](../Page/AFC_풋살_클럽_챔피언십.md "wikilink")
-  - [일본 풋살 국가대표팀](https://ko.wikipedia.org/wiki/일본_풋살_국가대표팀 "wikilink")
+  - [일본 풋살 국가대표팀](../Page/일본_풋살_국가대표팀.md "wikilink")
 
 ## 외부 링크
 

@@ -97,13 +97,13 @@
 
 (센터:코다마 하루카)
 
-  - [아나이 치히로](https://ko.wikipedia.org/wiki/아나이_치히로 "wikilink"), [오오타 아이카](https://ko.wikipedia.org/wiki/오오타_아이카 "wikilink"), [키모토 카논](https://ko.wikipedia.org/wiki/키모토_카논 "wikilink"), [쿠리하라 사에](https://ko.wikipedia.org/wiki/쿠리하라_사에 "wikilink"), [코지나 유이](https://ko.wikipedia.org/wiki/코지나_유이 "wikilink"), [코다마 하루카](https://ko.wikipedia.org/wiki/코다마_하루카 "wikilink"), [사시하라 리노](https://ko.wikipedia.org/wiki/사시하라_리노 "wikilink"), [타시마 메루](https://ko.wikipedia.org/wiki/타시마_메루 "wikilink"), [타나카 미쿠](https://ko.wikipedia.org/wiki/타나카_미쿠 "wikilink"), [토모나가 미오](https://ko.wikipedia.org/wiki/토모나가_미오 "wikilink"), [마츠오카 나츠미](https://ko.wikipedia.org/wiki/마츠오카_나츠미 "wikilink"), [미야와키 사쿠라](https://ko.wikipedia.org/wiki/미야와키_사쿠라 "wikilink"), [모토무라 아오이](https://ko.wikipedia.org/wiki/모토무라_아오이 "wikilink"), [모리야스 마도카](https://ko.wikipedia.org/wiki/모리야스_마도카 "wikilink"), [야부키 나코](https://ko.wikipedia.org/wiki/야부키_나코 "wikilink"), [야마모토 나오](https://ko.wikipedia.org/wiki/야마모토_나오 "wikilink")
+  - [아나이 치히로](https://ko.wikipedia.org/wiki/아나이_치히로 "wikilink"), [오오타 아이카](https://ko.wikipedia.org/wiki/오오타_아이카 "wikilink"), [키모토 카논](https://ko.wikipedia.org/wiki/키모토_카논 "wikilink"), [쿠리하라 사에](https://ko.wikipedia.org/wiki/쿠리하라_사에 "wikilink"), [코지나 유이](https://ko.wikipedia.org/wiki/코지나_유이 "wikilink"), [코다마 하루카](https://ko.wikipedia.org/wiki/코다마_하루카 "wikilink"), [사시하라 리노](https://ko.wikipedia.org/wiki/사시하라_리노 "wikilink"), [타시마 메루](https://ko.wikipedia.org/wiki/타시마_메루 "wikilink"), [타나카 미쿠](https://ko.wikipedia.org/wiki/타나카_미쿠 "wikilink"), [토모나가 미오](https://ko.wikipedia.org/wiki/토모나가_미오 "wikilink"), [마츠오카 나츠미](https://ko.wikipedia.org/wiki/마츠오카_나츠미 "wikilink"), [미야와키 사쿠라](https://ko.wikipedia.org/wiki/미야와키_사쿠라 "wikilink"), [모토무라 아오이](https://ko.wikipedia.org/wiki/모토무라_아오이 "wikilink"), [모리야스 마도카](https://ko.wikipedia.org/wiki/모리야스_마도카 "wikilink"), [야부키 나코](../Page/야부키_나코.md "wikilink"), [야마모토 나오](https://ko.wikipedia.org/wiki/야마모토_나오 "wikilink")
 
 ### 건방진 립스
 
 **〈나코미쿠〉 명의**
 
-  - [타나카 미쿠](https://ko.wikipedia.org/wiki/타나카_미쿠 "wikilink"), [야부키 나코](https://ko.wikipedia.org/wiki/야부키_나코 "wikilink")
+  - [타나카 미쿠](https://ko.wikipedia.org/wiki/타나카_미쿠 "wikilink"), [야부키 나코](../Page/야부키_나코.md "wikilink")
 
 ### 나는 블루베리 파이
 

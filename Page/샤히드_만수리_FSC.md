@@ -11,7 +11,7 @@
 
 <!-- end list -->
 
-  - [AFC 풋살 클럽 챔피언십](https://ko.wikipedia.org/wiki/AFC_풋살_클럽_챔피언십 "wikilink")
-      - 준우승(1): [2011](https://ko.wikipedia.org/wiki/AFC_풋살_클럽_챔피언십_2011 "wikilink")
+  - [AFC 풋살 클럽 챔피언십](../Page/AFC_풋살_클럽_챔피언십.md "wikilink")
+      - 준우승(1): [2011](../Page/AFC_풋살_클럽_챔피언십_2011.md "wikilink")
 
 [분류:1997년 설립된 스포츠 클럽](https://ko.wikipedia.org/wiki/분류:1997년_설립된_스포츠_클럽 "wikilink") [분류:이란 풋살 슈퍼리그 구단](https://ko.wikipedia.org/wiki/분류:이란_풋살_슈퍼리그_구단 "wikilink")

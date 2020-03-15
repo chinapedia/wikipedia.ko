@@ -19,7 +19,7 @@
 
 | 순서 | 타이틀                                                             | 발매일                                                                                                               | 최고 순위 |
 | -- | --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ----- |
-| 1  | [유메미루 댄싱 돌](https://ko.wikipedia.org/wiki/유메미루_댄싱_돌 "wikilink") | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [3월 27일](https://ko.wikipedia.org/wiki/3월_27일 "wikilink") | 8위    |
+| 1  | [유메미루 댄싱 돌](../Page/유메미루_댄싱_돌.md "wikilink")                    | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [3월 27일](https://ko.wikipedia.org/wiki/3월_27일 "wikilink") | 8위    |
 | 2  | [Your Love](https://ko.wikipedia.org/wiki/Your_Love "wikilink") | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [7월 30일](https://ko.wikipedia.org/wiki/7월_30일 "wikilink") | 16위   |
 
 ## 외부 링크

@@ -29,16 +29,16 @@
 </tr>
 <tr class="even">
 <td><p>2010년<br />
-<em><a href="https://ko.wikipedia.org/wiki/AFC_풋살_클럽_챔피언십_2010" title="wikilink">자세히</a></em></p></td>
+<em><a href="../Page/AFC_풋살_클럽_챔피언십_2010.md" title="wikilink">자세히</a></em></p></td>
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/이스파한" title="wikilink">이스파한</a></p></td>
 <td><p><br />
-<strong><a href="https://ko.wikipedia.org/wiki/풀라드_마한_FSC" title="wikilink">풀라드 마한</a></strong></p></td>
+<strong><a href="../Page/풀라드_마한_FSC.md" title="wikilink">풀라드 마한</a></strong></p></td>
 <td><p><strong>5 - 2</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p>2011년<br />
-<em><a href="https://ko.wikipedia.org/wiki/AFC_풋살_클럽_챔피언십_2011" title="wikilink">자세히</a></em></p></td>
+<em><a href="../Page/AFC_풋살_클럽_챔피언십_2011.md" title="wikilink">자세히</a></em></p></td>
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/도하" title="wikilink">도하</a></p></td>
 <td><p><br />
@@ -48,20 +48,20 @@
 </tr>
 <tr class="even">
 <td><p>2012년<br />
-<em><a href="https://ko.wikipedia.org/wiki/AFC_풋살_클럽_챔피언십_2012" title="wikilink">자세히</a></em></p></td>
+<em><a href="../Page/AFC_풋살_클럽_챔피언십_2012.md" title="wikilink">자세히</a></em></p></td>
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/쿠웨이트_시티" title="wikilink">쿠웨이트 시티</a></p></td>
 <td><p><br />
-<strong><a href="https://ko.wikipedia.org/wiki/기티_파산드_이스파한_FSC" title="wikilink">기티 파산드 이스파한</a></strong></p></td>
+<strong><a href="../Page/기티_파산드_이스파한_FSC.md" title="wikilink">기티 파산드 이스파한</a></strong></p></td>
 <td><p><strong>2 - 1</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p>2013년<br />
-<em><a href="https://ko.wikipedia.org/wiki/AFC_풋살_클럽_챔피언십_2013" title="wikilink">자세히</a></em></p></td>
+<em><a href="../Page/AFC_풋살_클럽_챔피언십_2013.md" title="wikilink">자세히</a></em></p></td>
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/나고야_시" title="wikilink">나고야</a></p></td>
 <td><p><br />
-<strong><a href="https://ko.wikipedia.org/wiki/촌부리_블루_웨이브" title="wikilink">촌부리 블루 웨이브</a></strong></p></td>
+<strong><a href="../Page/촌부리_블루_웨이브.md" title="wikilink">촌부리 블루 웨이브</a></strong></p></td>
 <td><p><strong>1 - 1</strong><br />
 4-1 (<a href="https://ko.wikipedia.org/wiki/승부차기" title="wikilink">pen</a>)</p></td>
 </tr>
@@ -100,7 +100,7 @@
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/호치민_시" title="wikilink">호치민 시</a></p></td>
 <td><p><br />
-<strong><a href="https://ko.wikipedia.org/wiki/촌부리_블루_웨이브" title="wikilink">촌부리 블루 웨이브</a></strong></p></td>
+<strong><a href="../Page/촌부리_블루_웨이브.md" title="wikilink">촌부리 블루 웨이브</a></strong></p></td>
 <td><p><strong>3 - 2</strong></p></td>
 </tr>
 <tr class="even">
@@ -130,22 +130,22 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/나고야_오션스" title="wikilink">나고야 오션스</a></p></td>
-<td><p>3회 (<a href="https://ko.wikipedia.org/wiki/AFC_풋살_클럽_챔피언십_2011" title="wikilink">2011</a>, <a href="https://ko.wikipedia.org/wiki/AFC_풋살_클럽_챔피언십_2014" title="wikilink">2014</a>, <a href="https://ko.wikipedia.org/wiki/AFC_풋살_클럽_챔피언십_2016" title="wikilink">2016</a>)</p></td>
+<td><p>3회 (<a href="../Page/AFC_풋살_클럽_챔피언십_2011.md" title="wikilink">2011</a>, <a href="https://ko.wikipedia.org/wiki/AFC_풋살_클럽_챔피언십_2014" title="wikilink">2014</a>, <a href="https://ko.wikipedia.org/wiki/AFC_풋살_클럽_챔피언십_2016" title="wikilink">2016</a>)</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/촌부리_블루_웨이브" title="wikilink">촌부리 블루 웨이브</a></p></td>
-<td><p>2회 (<a href="https://ko.wikipedia.org/wiki/AFC_풋살_클럽_챔피언십_2013" title="wikilink">2013</a>, <a href="https://ko.wikipedia.org/wiki/AFC_풋살_클럽_챔피언십_2017" title="wikilink">2017</a>)</p></td>
+<td><p><a href="../Page/촌부리_블루_웨이브.md" title="wikilink">촌부리 블루 웨이브</a></p></td>
+<td><p>2회 (<a href="../Page/AFC_풋살_클럽_챔피언십_2013.md" title="wikilink">2013</a>, <a href="https://ko.wikipedia.org/wiki/AFC_풋살_클럽_챔피언십_2017" title="wikilink">2017</a>)</p></td>
 <td><p>1회 (<a href="https://ko.wikipedia.org/wiki/AFC_풋살_클럽_챔피언십_2014" title="wikilink">2014</a>)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/기티_파산드_이스파한_FSC" title="wikilink">기티 파산드 이스파한</a></p></td>
-<td><p>1회 (<a href="https://ko.wikipedia.org/wiki/AFC_풋살_클럽_챔피언십_2012" title="wikilink">2012</a>)</p></td>
-<td><p>1회 (<a href="https://ko.wikipedia.org/wiki/AFC_풋살_클럽_챔피언십_2013" title="wikilink">2013</a>, <a href="https://ko.wikipedia.org/wiki/AFC_풋살_클럽_챔피언십_2017" title="wikilink">2017</a>)</p></td>
+<td><p><a href="../Page/기티_파산드_이스파한_FSC.md" title="wikilink">기티 파산드 이스파한</a></p></td>
+<td><p>1회 (<a href="../Page/AFC_풋살_클럽_챔피언십_2012.md" title="wikilink">2012</a>)</p></td>
+<td><p>1회 (<a href="../Page/AFC_풋살_클럽_챔피언십_2013.md" title="wikilink">2013</a>, <a href="https://ko.wikipedia.org/wiki/AFC_풋살_클럽_챔피언십_2017" title="wikilink">2017</a>)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/풀라드_마한_FSC" title="wikilink">풀라드 마한</a></p></td>
-<td><p>1회 (<a href="https://ko.wikipedia.org/wiki/AFC_풋살_클럽_챔피언십_2010" title="wikilink">2010</a>)</p></td>
+<td><p><a href="../Page/풀라드_마한_FSC.md" title="wikilink">풀라드 마한</a></p></td>
+<td><p>1회 (<a href="../Page/AFC_풋살_클럽_챔피언십_2010.md" title="wikilink">2010</a>)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -161,17 +161,17 @@
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/알사드_SC" title="wikilink">알사드 SC</a></p></td>
 <td></td>
-<td><p>1회 (<a href="https://ko.wikipedia.org/wiki/AFC_풋살_클럽_챔피언십_2010" title="wikilink">2010</a>)</p></td>
+<td><p>1회 (<a href="../Page/AFC_풋살_클럽_챔피언십_2010.md" title="wikilink">2010</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/샤히드_만수리_FSC.md" title="wikilink">샤히드 만수리</a></p></td>
 <td></td>
-<td><p>1회 (<a href="https://ko.wikipedia.org/wiki/AFC_풋살_클럽_챔피언십_2011" title="wikilink">2011</a>)</p></td>
+<td><p>1회 (<a href="../Page/AFC_풋살_클럽_챔피언십_2011.md" title="wikilink">2011</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/아르두스_타슈켄트" title="wikilink">아르두스 타슈켄트</a></p></td>
 <td></td>
-<td><p>1회 (<a href="https://ko.wikipedia.org/wiki/AFC_풋살_클럽_챔피언십_2012" title="wikilink">2012</a>)</p></td>
+<td><p>1회 (<a href="../Page/AFC_풋살_클럽_챔피언십_2012.md" title="wikilink">2012</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/알카시다" title="wikilink">알카시다</a></p></td>

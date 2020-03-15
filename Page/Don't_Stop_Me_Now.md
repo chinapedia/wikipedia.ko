@@ -7,7 +7,7 @@
 
   - 2005년, 영국 [BBC](https://ko.wikipedia.org/wiki/BBC "wikilink")의 방송 프로그램 [탑기어](https://ko.wikipedia.org/wiki/탑기어 "wikilink")에서 조사한 "드라이브 하면서 가장 듣기 좋은 곡"부문 에서 시청자 1위에 뽑혔다.\[1\]
   - 닥터 후 시즌 8의 에피소드 8 오리엔트 특급 열차의 미라에서 영국의 싱어송라이터 폭시스가 카메오로 출연하며 이 노래를 재즈 풍으로 리메이크한 적이 있다.
-  - 2011년, [프레디 머큐리의](https://ko.wikipedia.org/wiki/프레디_머큐리 "wikilink") 65번째 생일을 맞이한 [구글 두들의](https://ko.wikipedia.org/wiki/구글_두들 "wikilink") 노래로 사용되었다.
+  - 2011년, [프레디 머큐리의](https://ko.wikipedia.org/wiki/프레디_머큐리 "wikilink") 65번째 생일을 맞이한 [구글 두들의](../Page/구글_두들.md "wikilink") 노래로 사용되었다.
 
 ## 각주
 

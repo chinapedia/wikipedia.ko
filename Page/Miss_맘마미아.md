@@ -19,7 +19,7 @@
   - [장은풍](https://ko.wikipedia.org/wiki/이원재_\(1978년_1월\) "wikilink") : 주기찬 역
   - [안승훈](https://ko.wikipedia.org/wiki/안승훈 "wikilink") : 안 사장 역
   - [박수영](../Page/박수영.md "wikilink") : 심석봉 역
-  - [길해연](https://ko.wikipedia.org/wiki/길해연 "wikilink") : 마 여사 역
+  - [길해연](../Page/길해연.md "wikilink") : 마 여사 역
   - [김하유](../Page/김하유.md "wikilink") : 서하루 역
   - [배강유](https://ko.wikipedia.org/wiki/배강유 "wikilink") : 이종민 역
   - [신이](https://ko.wikipedia.org/wiki/신이 "wikilink") : 서하루의 생모 역

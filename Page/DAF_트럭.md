@@ -5,7 +5,7 @@
 
 ## 역사
 
-[1928년](https://ko.wikipedia.org/wiki/1928년 "wikilink")에 **CVHDM 자동차**()로 설립되었다. [1949년](https://ko.wikipedia.org/wiki/1949년 "wikilink")에 최초로 [트럭](https://ko.wikipedia.org/wiki/트럭 "wikilink")을 생산하기 시작했고 이후 현재의 사명으로 변경했다. [1958년](https://ko.wikipedia.org/wiki/1958년 "wikilink")에 [승용차](https://ko.wikipedia.org/wiki/승용차 "wikilink")를 생산하기 시작 했으나 [1975년](https://ko.wikipedia.org/wiki/1975년 "wikilink")에 [볼보](https://ko.wikipedia.org/wiki/볼보 "wikilink")에 인수 후 합병이 되었다. [1980년](https://ko.wikipedia.org/wiki/1980년 "wikilink")에 [버스](https://ko.wikipedia.org/wiki/버스 "wikilink") 사업부를 분할 하면서 [유나이티드 버스로](https://ko.wikipedia.org/wiki/유나이티드_버스 "wikilink") 설립되었다. [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink")에 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 [자동차](https://ko.wikipedia.org/wiki/자동차 "wikilink") 메이커인 [레이랜드 트럭을](https://ko.wikipedia.org/wiki/레이랜드_트럭 "wikilink") 인수했고 같은 해 [네덜란드](https://ko.wikipedia.org/wiki/네덜란드 "wikilink") 주식 시장에 상장했다. 하지만 [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink")에 경영난으로 인해 도산이 되면서 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 [트럭](https://ko.wikipedia.org/wiki/트럭 "wikilink") 사업부는 [레이랜드 트럭으로](https://ko.wikipedia.org/wiki/레이랜드_트럭 "wikilink") [밴](https://ko.wikipedia.org/wiki/밴 "wikilink") 사업부는 [LDV 자동차로](https://ko.wikipedia.org/wiki/LDV_자동차 "wikilink") 분할이 되었다. [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink")에 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [트럭](https://ko.wikipedia.org/wiki/트럭 "wikilink") 사업부인 [파카 그룹에](https://ko.wikipedia.org/wiki/파카_그룹 "wikilink") 인수되었다. 이후 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 [트럭](https://ko.wikipedia.org/wiki/트럭 "wikilink") 사업부인 [레이랜드 트럭도](https://ko.wikipedia.org/wiki/레이랜드_트럭 "wikilink") [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink")에 인수되었다.
+[1928년](https://ko.wikipedia.org/wiki/1928년 "wikilink")에 **CVHDM 자동차**()로 설립되었다. [1949년](https://ko.wikipedia.org/wiki/1949년 "wikilink")에 최초로 [트럭](https://ko.wikipedia.org/wiki/트럭 "wikilink")을 생산하기 시작했고 이후 현재의 사명으로 변경했다. [1958년](https://ko.wikipedia.org/wiki/1958년 "wikilink")에 [승용차](https://ko.wikipedia.org/wiki/승용차 "wikilink")를 생산하기 시작 했으나 [1975년](https://ko.wikipedia.org/wiki/1975년 "wikilink")에 [볼보](https://ko.wikipedia.org/wiki/볼보 "wikilink")에 인수 후 합병이 되었다. [1980년](https://ko.wikipedia.org/wiki/1980년 "wikilink")에 [버스](https://ko.wikipedia.org/wiki/버스 "wikilink") 사업부를 분할 하면서 [유나이티드 버스로](https://ko.wikipedia.org/wiki/유나이티드_버스 "wikilink") 설립되었다. [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink")에 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 [자동차](https://ko.wikipedia.org/wiki/자동차 "wikilink") 메이커인 [레이랜드 트럭을](../Page/레이랜드_트럭.md "wikilink") 인수했고 같은 해 [네덜란드](https://ko.wikipedia.org/wiki/네덜란드 "wikilink") 주식 시장에 상장했다. 하지만 [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink")에 경영난으로 인해 도산이 되면서 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 [트럭](https://ko.wikipedia.org/wiki/트럭 "wikilink") 사업부는 [레이랜드 트럭으로](../Page/레이랜드_트럭.md "wikilink") [밴](https://ko.wikipedia.org/wiki/밴 "wikilink") 사업부는 [LDV 자동차로](https://ko.wikipedia.org/wiki/LDV_자동차 "wikilink") 분할이 되었다. [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink")에 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [트럭](https://ko.wikipedia.org/wiki/트럭 "wikilink") 사업부인 [파카 그룹에](../Page/파카_그룹.md "wikilink") 인수되었다. 이후 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 [트럭](https://ko.wikipedia.org/wiki/트럭 "wikilink") 사업부인 [레이랜드 트럭도](../Page/레이랜드_트럭.md "wikilink") [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink")에 인수되었다.
 
 ## 현재 생산차종
 
@@ -13,7 +13,7 @@
 
 <!-- end list -->
 
-  - [DAF CF](https://ko.wikipedia.org/wiki/DAF_CF "wikilink")
+  - [DAF CF](../Page/DAF_CF.md "wikilink")
 
 <!-- end list -->
 
@@ -21,7 +21,7 @@
 
 <!-- end list -->
 
-  - [DAF XF](https://ko.wikipedia.org/wiki/DAF_XF "wikilink")
+  - [DAF XF](../Page/DAF_XF.md "wikilink")
 
 <!-- end list -->
 
@@ -29,7 +29,7 @@
 
 <!-- end list -->
 
-  - [DAF LF](https://ko.wikipedia.org/wiki/DAF_LF "wikilink")
+  - [DAF LF](../Page/DAF_LF.md "wikilink")
 
 ## 사진
 

@@ -25,7 +25,7 @@
 <li>본명 : 이동해 (李東海)</li>
 <li>생년월일 : </li>
 <li>출생지 :  <a href="https://ko.wikipedia.org/wiki/전라남도" title="wikilink">전라남도</a> <a href="https://ko.wikipedia.org/wiki/목포시" title="wikilink">목포시</a></li>
-<li>유닛그룹 : <a href="https://ko.wikipedia.org/wiki/슈퍼주니어-D&amp;E" title="wikilink">슈퍼주니어-D&amp;E</a>, <a href="../Page/슈퍼주니어-M.md" title="wikilink">슈퍼주니어-M</a></li>
+<li>유닛그룹 : <a href="../Page/슈퍼주니어-D&amp;E.md" title="wikilink">슈퍼주니어-D&amp;E</a>, <a href="../Page/슈퍼주니어-M.md" title="wikilink">슈퍼주니어-M</a></li>
 <li>활동기간 : <a href="https://ko.wikipedia.org/wiki/2005년" title="wikilink">2005년</a> <a href="https://ko.wikipedia.org/wiki/11월_6일" title="wikilink">11월 6일</a> ~ <strong>현재</strong></li>
 </ul></td>
 </tr>
@@ -36,7 +36,7 @@
 <li>본명 : 이혁재 (李赫宰)</li>
 <li>생년월일 : </li>
 <li>출생지 :  <a href="https://ko.wikipedia.org/wiki/경기도" title="wikilink">경기도</a> <a href="https://ko.wikipedia.org/wiki/고양시" title="wikilink">고양시</a></li>
-<li>유닛그룹 : <a href="https://ko.wikipedia.org/wiki/슈퍼주니어-D&amp;E" title="wikilink">슈퍼주니어-D&amp;E</a>, <a href="https://ko.wikipedia.org/wiki/슈퍼주니어-T" title="wikilink">슈퍼주니어-T</a>, <a href="../Page/슈퍼주니어-M.md" title="wikilink">슈퍼주니어-M</a>, <a href="https://ko.wikipedia.org/wiki/슈퍼주니어-Happy" title="wikilink">슈퍼주니어-Happy</a></li>
+<li>유닛그룹 : <a href="../Page/슈퍼주니어-D&amp;E.md" title="wikilink">슈퍼주니어-D&amp;E</a>, <a href="https://ko.wikipedia.org/wiki/슈퍼주니어-T" title="wikilink">슈퍼주니어-T</a>, <a href="../Page/슈퍼주니어-M.md" title="wikilink">슈퍼주니어-M</a>, <a href="https://ko.wikipedia.org/wiki/슈퍼주니어-Happy" title="wikilink">슈퍼주니어-Happy</a></li>
 <li>활동기간 : <a href="https://ko.wikipedia.org/wiki/2005년" title="wikilink">2005년</a> <a href="https://ko.wikipedia.org/wiki/11월_6일" title="wikilink">11월 6일</a> ~ <strong>현재</strong></li>
 </ul></td>
 </tr>

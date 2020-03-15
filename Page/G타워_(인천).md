@@ -66,8 +66,8 @@
 
   - [그녀는 예뻤다에서](https://ko.wikipedia.org/wiki/그녀는_예뻤다_\(드라마\) "wikilink") 모스트 사무실 건물로 나온다.
   - [태양의 후예에](https://ko.wikipedia.org/wiki/태양의_후예 "wikilink") **G타워**의 아래 건물이 나온다.
-  - [38사기동대](https://ko.wikipedia.org/wiki/38사기동대 "wikilink")의 **G타워**의 아래 건물이 나온다.
-  - [THE K2의](https://ko.wikipedia.org/wiki/THE_K2 "wikilink") **G타워**의 아래 건물이 나온다.
+  - [38사기동대](../Page/38사기동대.md "wikilink")의 **G타워**의 아래 건물이 나온다.
+  - [THE K2의](../Page/THE_K2.md "wikilink") **G타워**의 아래 건물이 나온다.
   - [돈꽃에](https://ko.wikipedia.org/wiki/돈꽃_\(2017년_드라마\) "wikilink") 나온다.
   - [착한마녀전](https://ko.wikipedia.org/wiki/착한마녀전 "wikilink")에서 동해항공 본사로 나온다.
   - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink")에 방영된 OCN 드라마 [플레이어에](https://ko.wikipedia.org/wiki/플레이어_\(드라마\) "wikilink") G타워가 나온다.

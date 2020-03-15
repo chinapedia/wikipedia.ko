@@ -9,7 +9,7 @@
 
 ## SUPER SHOW 6 ENCORE
 
-자카르타 공연을 통해 해외 순회 투어를 마무리한 후, 2015년 5월 21일, SM 엔터테인먼트는 공식 홈페이지를 통해 〈SUPER SHOW 6〉의 앙코르 콘서트 일정을 공개하였고, 예매는 6월 2일 [YES24](https://ko.wikipedia.org/wiki/YES24 "wikilink")를 통해 진행되었다. 본 공연에는 [신동](https://ko.wikipedia.org/wiki/신동_\(가수\) "wikilink"), [성민의](https://ko.wikipedia.org/wiki/성민_\(1986년\) "wikilink") 입대와 멤버 [예성](https://ko.wikipedia.org/wiki/예성 "wikilink")이 〈[SUPER SHOW 5](https://ko.wikipedia.org/wiki/SUPER_SHOW_5 "wikilink")〉 서울 공연 이후 2년 4개월만에 합류한 9인 체제로 진행되었으며 〈Devil〉을 비롯한 7월 16일, 발표된 슈퍼주니어의 데뷔 10주년 기념 스페셜 앨범의 5곡의 수록곡들이 최초 공개되었다. 또한 일본 전역에서 양일 간의 공연 실황을 서라운드 뷰잉을 통해 생중계하여 상영하기도 하였다.
+자카르타 공연을 통해 해외 순회 투어를 마무리한 후, 2015년 5월 21일, SM 엔터테인먼트는 공식 홈페이지를 통해 〈SUPER SHOW 6〉의 앙코르 콘서트 일정을 공개하였고, 예매는 6월 2일 [YES24](https://ko.wikipedia.org/wiki/YES24 "wikilink")를 통해 진행되었다. 본 공연에는 [신동](https://ko.wikipedia.org/wiki/신동_\(가수\) "wikilink"), [성민의](https://ko.wikipedia.org/wiki/성민_\(1986년\) "wikilink") 입대와 멤버 [예성](https://ko.wikipedia.org/wiki/예성 "wikilink")이 〈[SUPER SHOW 5](../Page/SUPER_SHOW_5.md "wikilink")〉 서울 공연 이후 2년 4개월만에 합류한 9인 체제로 진행되었으며 〈Devil〉을 비롯한 7월 16일, 발표된 슈퍼주니어의 데뷔 10주년 기념 스페셜 앨범의 5곡의 수록곡들이 최초 공개되었다. 또한 일본 전역에서 양일 간의 공연 실황을 서라운드 뷰잉을 통해 생중계하여 상영하기도 하였다.
 
 ## 이모저모
 

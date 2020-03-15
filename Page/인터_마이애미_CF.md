@@ -35,6 +35,6 @@
 
 ## 함께 보기
 
-  - [마이애미 FC](https://ko.wikipedia.org/wiki/마이애미_FC "wikilink")
+  - [마이애미 FC](../Page/마이애미_FC.md "wikilink")
 
 [분류:2014년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:2014년_설립된_축구단 "wikilink") [분류:메이저 리그 사커 구단](https://ko.wikipedia.org/wiki/분류:메이저_리그_사커_구단 "wikilink") [분류:인터 마이애미 CF](https://ko.wikipedia.org/wiki/분류:인터_마이애미_CF "wikilink")

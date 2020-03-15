@@ -12,7 +12,7 @@
 ## 수록곡
 
 1.  **I still believe \~한숨\~** ()
-      - 작사: 시즈쿠사 유미, 작곡 · 편곡: [토쿠나가 아키히토](https://ko.wikipedia.org/wiki/토쿠나가_아키히토 "wikilink")
+      - 작사: 시즈쿠사 유미, 작곡 · 편곡: [토쿠나가 아키히토](../Page/토쿠나가_아키히토.md "wikilink")
 2.  **Wonderful World**
       - 작사: 시즈쿠사 유미, 작곡: [미요시 마코토](https://ko.wikipedia.org/wiki/미요시_마코토 "wikilink"), 편곡: 토쿠나가 아키히토
 3.  **Lovin' You**

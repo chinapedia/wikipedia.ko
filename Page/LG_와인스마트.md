@@ -34,9 +34,9 @@
 
   - [삼성 갤럭시 골든](../Page/삼성_갤럭시_골든.md "wikilink")
   - [삼성 갤럭시 폴더](https://ko.wikipedia.org/wiki/삼성_갤럭시_폴더 "wikilink")
-  - [LG 아이스크림 스마트](https://ko.wikipedia.org/wiki/LG_아이스크림_스마트 "wikilink")
-  - [LG 젠틀](https://ko.wikipedia.org/wiki/LG_젠틀 "wikilink")
-  - [LG 와인 스마트 재즈](https://ko.wikipedia.org/wiki/LG_와인_스마트_재즈 "wikilink")
+  - [LG 아이스크림 스마트](../Page/LG_아이스크림_스마트.md "wikilink")
+  - [LG 젠틀](../Page/LG_젠틀.md "wikilink")
+  - [LG 와인 스마트 재즈](../Page/LG_와인_스마트_재즈.md "wikilink")
   - [롯데알미늄 라디오수신기](https://ko.wikipedia.org/wiki/롯데알미늄_라디오수신기 "wikilink")
   - [다니엘 전자성경](https://ko.wikipedia.org/wiki/다니엘_전자성경 "wikilink")
   - [FM 트랜스미터](https://ko.wikipedia.org/wiki/FM_트랜스미터 "wikilink")

@@ -19,11 +19,11 @@
 
 ### 강등
 
-[카테고리아 프리메라 A에서는](https://ko.wikipedia.org/wiki/카테고리아_프리메라_A "wikilink") 강등 팀을 평균 성적을 산출하여 결정한다. 근 3년간 가장 낮은 평균 승점을 기록한 두팀이 [카테고리아 프리메라 B로](https://ko.wikipedia.org/wiki/카테고리아_프리메라_B "wikilink") 강등된다.
+[카테고리아 프리메라 A에서는](../Page/카테고리아_프리메라_A.md "wikilink") 강등 팀을 평균 성적을 산출하여 결정한다. 근 3년간 가장 낮은 평균 승점을 기록한 두팀이 [카테고리아 프리메라 B로](https://ko.wikipedia.org/wiki/카테고리아_프리메라_B "wikilink") 강등된다.
 
 ### 수페르리가 콜롬비아나
 
-[카테고리아 프리메라 A](https://ko.wikipedia.org/wiki/카테고리아_프리메라_A "wikilink") 정규 리그와 결승전에서 우승한 두 팀이 [수페르리가 콜롬비아나에서](https://ko.wikipedia.org/wiki/수페르리가_콜롬비아나 "wikilink") 맞붙는다.
+[카테고리아 프리메라 A](../Page/카테고리아_프리메라_A.md "wikilink") 정규 리그와 결승전에서 우승한 두 팀이 [수페르리가 콜롬비아나에서](https://ko.wikipedia.org/wiki/수페르리가_콜롬비아나 "wikilink") 맞붙는다.
 
 ## 현재 시즌 참가팀
 
@@ -42,7 +42,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/알리안사_페트롤레라" title="wikilink">알리안사 페트롤레라</a></p></td>
+<td><p><a href="../Page/알리안사_페트롤레라.md" title="wikilink">알리안사 페트롤레라</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/바란카베르메하" title="wikilink">바란카베르메하</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/에스타디오_다니엘_비야_사파타" title="wikilink">다니엘 비야 사파타</a></p></td>
 <td><p>10,400</p></td>
@@ -130,7 +130,7 @@
 <td><p>1948</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/하과레스_데_코르도바" title="wikilink">하과레스</a></p></td>
+<td><p><a href="../Page/하과레스_데_코르도바.md" title="wikilink">하과레스</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/몬테리아" title="wikilink">몬테리아</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/에스타디오_하라과이" title="wikilink">에스타디오 하라과이</a></p></td>
 <td><p>8,000</p></td>
@@ -138,7 +138,7 @@
 <td><p>2015</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/후니오르_FC" title="wikilink">후니오르</a></p></td>
+<td><p><a href="../Page/후니오르_FC.md" title="wikilink">후니오르</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/바랑키야" title="wikilink">바랑키야</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/에스타디오_메트로폴리타노_로베르토_멜렌데스" title="wikilink">메트로폴리타노 로베르토 멜렌데스</a></p></td>
 <td><p>46,692</p></td>
@@ -186,8 +186,8 @@
 <td><p>1948</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/리오네그로_아길라스" title="wikilink">리오네그로 아길라스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/리오네그로_(콜롬비아)" title="wikilink">리오네그로</a></p></td>
+<td><p><a href="../Page/리오네그로_아길라스.md" title="wikilink">리오네그로 아길라스</a></p></td>
+<td><p><a href="../Page/리오네그로_(콜롬비아).md" title="wikilink">리오네그로</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/에스타디오_알베르토_그리살레스" title="wikilink">알베르토 그리살레스</a></p></td>
 <td><p>14,000</p></td>
 <td><p>네스토르 오테로</p></td>
@@ -214,7 +214,7 @@
 
 ## 클럽 별 시즌 참가 횟수
 
-[카테고리아 프리메라 A가](https://ko.wikipedia.org/wiki/카테고리아_프리메라_A "wikilink") 창설된 [1948년](https://ko.wikipedia.org/wiki/1948년 "wikilink")부터 리그에 참가한 시즌 횟수를 결산한 것이다. 현재 시즌 [카테고리아 프리메라 A 2017에](https://ko.wikipedia.org/wiki/카테고리아_프리메라_A_2017 "wikilink") 참가하고 있는 팀은 굵은 글씨로 표기되었다.
+[카테고리아 프리메라 A가](../Page/카테고리아_프리메라_A.md "wikilink") 창설된 [1948년](https://ko.wikipedia.org/wiki/1948년 "wikilink")부터 리그에 참가한 시즌 횟수를 결산한 것이다. 현재 시즌 [카테고리아 프리메라 A 2017에](https://ko.wikipedia.org/wiki/카테고리아_프리메라_A_2017 "wikilink") 참가하고 있는 팀은 굵은 글씨로 표기되었다.
 
   - 70 시즌 : **[산타페](../Page/인데펜디엔테_산타페.md "wikilink")**
   - 70 시즌 : **[미요나리오스](../Page/미요나리오스_FC.md "wikilink")**
@@ -227,7 +227,7 @@
   - 62 시즌 : **[데포르테스 톨리마](https://ko.wikipedia.org/wiki/데포르테스_톨리마 "wikilink")**
   - 58 시즌 : **[아틀레티코 부카라망가](https://ko.wikipedia.org/wiki/아틀레티코_부카라망가 "wikilink")**
   - 58 시즌 : [데포르티보 페레이라](https://ko.wikipedia.org/wiki/데포르티보_페레이라 "wikilink")
-  - 57 시즌 : **[후니오르](https://ko.wikipedia.org/wiki/후니오르_FC "wikilink")**
+  - 57 시즌 : **[후니오르](../Page/후니오르_FC.md "wikilink")**
   - 55 시즌 : [쿠쿠타 데포르티보](https://ko.wikipedia.org/wiki/쿠쿠타_데포르티보 "wikilink")
   - 49 시즌 : [우니온 막달레나](https://ko.wikipedia.org/wiki/우니온_막달레나 "wikilink")
   - 25 시즌 : **[엔비가도](https://ko.wikipedia.org/wiki/엔비가도_FC "wikilink")**
@@ -241,13 +241,13 @@
   - 11 시즌 : **[라 에키다드](https://ko.wikipedia.org/wiki/라_에키다드 "wikilink")**
   - 9 시즌 : [보카 주니어스 데 칼리](https://ko.wikipedia.org/wiki/보카_주니어스_\(콜롬비아\) "wikilink")
   - 8 시즌 : [스포르팅 데 바라키야](https://ko.wikipedia.org/wiki/스포르팅_데_바라키야 "wikilink")
-  - 7 시즌 : **[리오네그로 아길라스](https://ko.wikipedia.org/wiki/리오네그로_아길라스 "wikilink")**
+  - 7 시즌 : **[리오네그로 아길라스](../Page/리오네그로_아길라스.md "wikilink")**
   - 6 시즌 : **[파트리오타스](https://ko.wikipedia.org/wiki/파트리오타스_FC "wikilink")**
-  - 5 시즌 : **[알리안사 페트롤레라](https://ko.wikipedia.org/wiki/알리안사_페트롤레라 "wikilink")**
+  - 5 시즌 : **[알리안사 페트롤레라](../Page/알리안사_페트롤레라.md "wikilink")**
   - 5 시즌 : [우니베르시다드](https://ko.wikipedia.org/wiki/우니베르시다드_나시오날_데_콜롬비아 "wikilink")
   - 4 시즌 : [온세 데포르티보](https://ko.wikipedia.org/wiki/온세_데포르티보 "wikilink")
   - 3 시즌 : [우라칸](https://ko.wikipedia.org/wiki/우라칸_데_메데인 "wikilink")
-  - 3 시즌 : **[하과레스](https://ko.wikipedia.org/wiki/하과레스_데_코르도바 "wikilink")**
+  - 3 시즌 : **[하과레스](../Page/하과레스_데_코르도바.md "wikilink")**
   - 2 시즌 : [포르탈레사 C.E.I.F.](https://ko.wikipedia.org/wiki/포르탈레사_C.E.I.F. "wikilink")
   - 2 시즌 : [우니아우토노마](https://ko.wikipedia.org/wiki/우니아우토노마 "wikilink")
   - 2 시즌 : [우니코스타](https://ko.wikipedia.org/wiki/데포르티보_우니코스타 "wikilink")
@@ -397,7 +397,7 @@
 
 ## 시즌 별 우승 팀
 
-[1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink")에는 [카테고리아 프리메라 A](https://ko.wikipedia.org/wiki/카테고리아_프리메라_A "wikilink") 우승팀이 없는 유일한 해다. 당해 [10월 1일](https://ko.wikipedia.org/wiki/10월_1일 "wikilink") 심판 [알바로 오르테가가](https://ko.wikipedia.org/wiki/알바로_오르테가 "wikilink") [메데인](https://ko.wikipedia.org/wiki/메데인 "wikilink")에서 살해당한 이후로, 잔여 경기가 모두 취소되면서 벌어진 일이다.
+[1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink")에는 [카테고리아 프리메라 A](../Page/카테고리아_프리메라_A.md "wikilink") 우승팀이 없는 유일한 해다. 당해 [10월 1일](https://ko.wikipedia.org/wiki/10월_1일 "wikilink") 심판 [알바로 오르테가가](https://ko.wikipedia.org/wiki/알바로_오르테가 "wikilink") [메데인](https://ko.wikipedia.org/wiki/메데인 "wikilink")에서 살해당한 이후로, 잔여 경기가 모두 취소되면서 벌어진 일이다.
 
 <table>
 <thead>
@@ -412,7 +412,7 @@
 <tr class="odd">
 <td><p>1948</p></td>
 <td><p><a href="../Page/인데펜디엔테_산타페.md" title="wikilink">산타페</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후니오르_FC" title="wikilink">후니오르</a></p></td>
+<td><p><a href="../Page/후니오르_FC.md" title="wikilink">후니오르</a></p></td>
 <td><p>알프레도 카스티요</p></td>
 </tr>
 <tr class="even">
@@ -545,7 +545,7 @@
 <tr class="odd">
 <td><p>1970</p></td>
 <td><p><a href="../Page/데포르티보_칼리.md" title="wikilink">데포르티보 칼리</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후니오르_FC" title="wikilink">후니오르</a></p></td>
+<td><p><a href="../Page/후니오르_FC.md" title="wikilink">후니오르</a></p></td>
 <td><p>호세 마리아 페레로<br />
  왈테르 소사</p></td>
 </tr>
@@ -588,7 +588,7 @@
 </tr>
 <tr class="even">
 <td><p>1977</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후니오르_FC" title="wikilink">후니오르</a></p></td>
+<td><p><a href="../Page/후니오르_FC.md" title="wikilink">후니오르</a></p></td>
 <td><p><a href="../Page/데포르티보_칼리.md" title="wikilink">데포르티보 칼리</a></p></td>
 <td><p>오스왈도 마르시알 팔라베치노</p></td>
 </tr>
@@ -606,7 +606,7 @@
 </tr>
 <tr class="odd">
 <td><p>1980</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후니오르_FC" title="wikilink">후니오르</a></p></td>
+<td><p><a href="../Page/후니오르_FC.md" title="wikilink">후니오르</a></p></td>
 <td><p><a href="../Page/데포르티보_칼리.md" title="wikilink">데포르티보 칼리</a></p></td>
 <td><p>세르히오 시에라</p></td>
 </tr>
@@ -625,7 +625,7 @@
 <tr class="even">
 <td><p>1983</p></td>
 <td><p><a href="../Page/아메리카_데_칼리.md" title="wikilink">아메리카 데 칼리</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후니오르_FC" title="wikilink">후니오르</a></p></td>
+<td><p><a href="../Page/후니오르_FC.md" title="wikilink">후니오르</a></p></td>
 <td><p>우고 고타르디</p></td>
 </tr>
 <tr class="odd">
@@ -686,7 +686,7 @@
 </tr>
 <tr class="even">
 <td><p>1993</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후니오르_FC" title="wikilink">후니오르</a></p></td>
+<td><p><a href="../Page/후니오르_FC.md" title="wikilink">후니오르</a></p></td>
 <td><p><a href="../Page/아메리카_데_칼리.md" title="wikilink">아메리카 데 칼리</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/미겔_게레로" title="wikilink">미겔 게레로</a></p></td>
 </tr>
@@ -698,7 +698,7 @@
 </tr>
 <tr class="even">
 <td><p>1995</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후니오르_FC" title="wikilink">후니오르</a></p></td>
+<td><p><a href="../Page/후니오르_FC.md" title="wikilink">후니오르</a></p></td>
 <td><p><a href="../Page/아메리카_데_칼리.md" title="wikilink">아메리카 데 칼리</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/이반_발렌시아노" title="wikilink">이반 발렌시아노</a></p></td>
 </tr>
@@ -729,7 +729,7 @@
 <tr class="odd">
 <td><p>2000</p></td>
 <td><p><a href="../Page/아메리카_데_칼리.md" title="wikilink">아메리카 데 칼리</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후니오르_FC" title="wikilink">후니오르</a></p></td>
+<td><p><a href="../Page/후니오르_FC.md" title="wikilink">후니오르</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/카를로스_알베르토_카스트로" title="wikilink">카를로스 알베르토 카스트로</a></p></td>
 </tr>
 <tr class="even">
@@ -756,7 +756,7 @@
 <td><p>2003</p></td>
 <td><p>정규 리그</p></td>
 <td><p><a href="../Page/온세_칼다스.md" title="wikilink">온세 칼다스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후니오르_FC" title="wikilink">후니오르</a></p></td>
+<td><p><a href="../Page/후니오르_FC.md" title="wikilink">후니오르</a></p></td>
 </tr>
 <tr class="even">
 <td><p>결승전</p></td>
@@ -772,7 +772,7 @@
 </tr>
 <tr class="even">
 <td><p>결승전</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후니오르_FC" title="wikilink">후니오르</a></p></td>
+<td><p><a href="../Page/후니오르_FC.md" title="wikilink">후니오르</a></p></td>
 <td><p><a href="../Page/아틀레티코_나시오날.md" title="wikilink">아틀레티코 나시오날</a></p></td>
 <td><p>레오나르도 파비오 모레노<br />
  <a href="https://ko.wikipedia.org/wiki/레이데르_프레시아도" title="wikilink">레이데르 프레시아도</a></p></td>
@@ -831,7 +831,7 @@
 <td><p>2009</p></td>
 <td><p>정규 리그</p></td>
 <td><p><a href="../Page/온세_칼다스.md" title="wikilink">온세 칼다스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후니오르_FC" title="wikilink">후니오르</a></p></td>
+<td><p><a href="../Page/후니오르_FC.md" title="wikilink">후니오르</a></p></td>
 </tr>
 <tr class="even">
 <td><p>결승전</p></td>
@@ -842,7 +842,7 @@
 <tr class="odd">
 <td><p>2010</p></td>
 <td><p>정규 리그</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후니오르_FC" title="wikilink">후니오르</a></p></td>
+<td><p><a href="../Page/후니오르_FC.md" title="wikilink">후니오르</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/라_에키다드" title="wikilink">라 에키다드</a></p></td>
 </tr>
 <tr class="even">
@@ -860,7 +860,7 @@
 </tr>
 <tr class="even">
 <td><p>결승전</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후니오르_FC" title="wikilink">후니오르</a></p></td>
+<td><p><a href="../Page/후니오르_FC.md" title="wikilink">후니오르</a></p></td>
 <td><p><a href="../Page/온세_칼다스.md" title="wikilink">온세 칼다스</a></p></td>
 <td><p><a href="../Page/카를로스_바카.md" title="wikilink">카를로스 바카</a></p></td>
 </tr>
@@ -895,7 +895,7 @@
 <td><p>2014</p></td>
 <td><p>정규 리그</p></td>
 <td><p><a href="../Page/아틀레티코_나시오날.md" title="wikilink">아틀레티코 나시오날</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후니오르_FC" title="wikilink">후니오르</a></p></td>
+<td><p><a href="../Page/후니오르_FC.md" title="wikilink">후니오르</a></p></td>
 </tr>
 <tr class="even">
 <td><p>결승전</p></td>
@@ -912,14 +912,14 @@
 <tr class="even">
 <td><p>결승전</p></td>
 <td><p><a href="../Page/아틀레티코_나시오날.md" title="wikilink">아틀레티코 나시오날</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후니오르_FC" title="wikilink">후니오르</a></p></td>
+<td><p><a href="../Page/후니오르_FC.md" title="wikilink">후니오르</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/헤페르손_두케" title="wikilink">헤페르손 두케</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2016</p></td>
 <td><p>정규 리그</p></td>
 <td><p><a href="../Page/인데펜디엔테_메데인.md" title="wikilink">인데펜디엔테 메데인</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후니오르_FC" title="wikilink">후니오르</a></p></td>
+<td><p><a href="../Page/후니오르_FC.md" title="wikilink">후니오르</a></p></td>
 </tr>
 <tr class="even">
 <td><p>결승전</p></td>

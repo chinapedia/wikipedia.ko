@@ -11,7 +11,7 @@
 
 초회한정반과 통상반의 2종류 발매로 초회한정반은 [PV를](https://ko.wikipedia.org/wiki/뮤직비디오 "wikilink") 수록한 DVD가 부속되어있다. [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [6월 12일까지](https://ko.wikipedia.org/wiki/6월_12일 "wikilink")(처음은 [6월 5일까지](https://ko.wikipedia.org/wiki/6월_5일 "wikilink")\[2\])의 스페셜 특전으로, 초회한정반, 통상반 각각의 포장 비닐에 붙어있는 실을 보내면 〈Don't Wanna Lie (Ballad Version)〉이 수록된 스페셜 CD를 응모자 전원에게, 또 초회한정반에만 있는 실을 보내면 B'z 직필 싸인이 들어간 〈Don't Wanna Lie〉 오리지널 플래그를 추첨으로 100명에게 선물 캠페인 실시됐다.\[3\]
 
-18번째 앨범 《C'mon》에는 2곡 모두 수록되고, 싱글 수록곡이 모두 오리지널 앨범에 수록된 것은 〈[흔들림 없는 것 하나](https://ko.wikipedia.org/wiki/흔들림_없는_것_하나 "wikilink")〉 이래로 5년만이 됐다.
+18번째 앨범 《C'mon》에는 2곡 모두 수록되고, 싱글 수록곡이 모두 오리지널 앨범에 수록된 것은 〈[흔들림 없는 것 하나](../Page/흔들림_없는_것_하나.md "wikilink")〉 이래로 5년만이 됐다.
 
 발매일 전후의 멤버의 TV출연에 의한 프로모션 활동은 행해지지 않았고, TV에서도 지금으로서는 보이지 않았다.
 

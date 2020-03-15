@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Tomorrow is the last Time](https://ko.wikipedia.org/wiki/Tomorrow_is_the_last_Time).
 
 
-〈**Tomorrow is the last Time**〉(투모로 이즈 더 라스트 타임, )는 [쿠라키 마이의](https://ko.wikipedia.org/wiki/쿠라키_마이 "wikilink") 정규 음반 《[FUTURE KISS](https://ko.wikipedia.org/wiki/FUTURE_KISS "wikilink")》에 수록되어있는 곡이며, 《[명탐정 코난](https://ko.wikipedia.org/wiki/명탐정_코난_\(애니메이션\) "wikilink")》의 [닫는 곡](https://ko.wikipedia.org/wiki/주제가 "wikilink"), 대한민국에서는 《명탐정 코난 9기》 주제가이다. 한국어 버전은 음원화가 되지 않았다.
+〈**Tomorrow is the last Time**〉(투모로 이즈 더 라스트 타임, )는 [쿠라키 마이의](https://ko.wikipedia.org/wiki/쿠라키_마이 "wikilink") 정규 음반 《[FUTURE KISS](../Page/FUTURE_KISS.md "wikilink")》에 수록되어있는 곡이며, 《[명탐정 코난](https://ko.wikipedia.org/wiki/명탐정_코난_\(애니메이션\) "wikilink")》의 [닫는 곡](https://ko.wikipedia.org/wiki/주제가 "wikilink"), 대한민국에서는 《명탐정 코난 9기》 주제가이다. 한국어 버전은 음원화가 되지 않았다.
 
 <table>
 <tbody>

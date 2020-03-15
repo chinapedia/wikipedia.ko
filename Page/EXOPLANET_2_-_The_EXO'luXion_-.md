@@ -305,7 +305,7 @@
 <td><p>2016년 2월 14일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/로스엔젤레스" title="wikilink">로스엔젤레스</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/로스앤젤레스_메모리얼_스포츠_아레나" title="wikilink">로스앤젤레스 메모리얼 스포츠 아레나</a>[19]</p></td>
+<td><p><a href="../Page/로스앤젤레스_메모리얼_스포츠_아레나.md" title="wikilink">로스앤젤레스 메모리얼 스포츠 아레나</a>[19]</p></td>
 <td><p>12,998명</p></td>
 </tr>
 <tr class="odd">

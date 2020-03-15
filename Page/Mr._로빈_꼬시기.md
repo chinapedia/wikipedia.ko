@@ -20,7 +20,7 @@
   - [나츠키 요스케](https://ko.wikipedia.org/wiki/나츠키_요스케 "wikilink") : 미쯔요시 역
   - [최진호](https://ko.wikipedia.org/wiki/최진호_\(배우\) "wikilink") : 마에다 중역 역
   - [김해곤](https://ko.wikipedia.org/wiki/김해곤 "wikilink") : 남직원 1 역
-  - [김성훈](https://ko.wikipedia.org/wiki/차성훈 "wikilink") : 남직원 4 역
+  - [김성훈](../Page/차성훈.md "wikilink") : 남직원 4 역
   - [장소연](../Page/장소연_\(배우\).md "wikilink") : 여직원 역
   - [손소연](https://ko.wikipedia.org/wiki/손소연 "wikilink") : 미스 최 역
   - [문석희](https://ko.wikipedia.org/wiki/문석희 "wikilink") : 미쯔요시 수행원 역

@@ -11,7 +11,7 @@
 | --------------------------------------------------------- | ------------------------------------------------------- | ----------------------------------------------------------------------------- | ------ |
 | [키프로스](https://ko.wikipedia.org/wiki/키프로스 "wikilink")     | [라르나카](https://ko.wikipedia.org/wiki/라르나카 "wikilink")   | [라르나카 공항](https://ko.wikipedia.org/wiki/라르나카_공항 "wikilink")                   |        |
 | [체코 공화국](https://ko.wikipedia.org/wiki/체코_공화국 "wikilink") | [프라하](https://ko.wikipedia.org/wiki/프라하 "wikilink")     | [프라하 바츨라프 하벨 국제공항](https://ko.wikipedia.org/wiki/프라하_바츨라프_하벨_국제공항 "wikilink") |        |
-| [독일](https://ko.wikipedia.org/wiki/독일 "wikilink")         | [베를린](https://ko.wikipedia.org/wiki/베를린 "wikilink")     | [베를린 쇠네펠트 공항](https://ko.wikipedia.org/wiki/베를린_쇠네펠트_공항 "wikilink")           | |      |
+| [독일](https://ko.wikipedia.org/wiki/독일 "wikilink")         | [베를린](https://ko.wikipedia.org/wiki/베를린 "wikilink")     | [베를린 쇠네펠트 공항](../Page/베를린_쇠네펠트_공항.md "wikilink")                              | |      |
 | [헝가리](https://ko.wikipedia.org/wiki/헝가리 "wikilink")       | [부다페스트](https://ko.wikipedia.org/wiki/부다페스트 "wikilink") | [부다페스트 페리 헤지 국제공항](https://ko.wikipedia.org/wiki/부다페스트_페리_헤지_국제공항 "wikilink") |        |
 | [이스라엘](https://ko.wikipedia.org/wiki/이스라엘 "wikilink")     | [텔아비브](https://ko.wikipedia.org/wiki/텔아비브 "wikilink")   | [벤구리온 국제공항](https://ko.wikipedia.org/wiki/벤구리온_국제공항 "wikilink")               | **허브** |
 | [우크라이나](https://ko.wikipedia.org/wiki/우크라이나 "wikilink")   | [키예프](https://ko.wikipedia.org/wiki/키예프 "wikilink")     | [보리스필 국제공항](https://ko.wikipedia.org/wiki/보리스필_국제공항 "wikilink")               |        |

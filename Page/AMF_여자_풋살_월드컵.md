@@ -133,7 +133,7 @@
 ## 같이 보기
 
   - [세계 풋살 협회](../Page/세계_풋살_협회.md "wikilink")
-  - [AMF 풋살 월드컵](https://ko.wikipedia.org/wiki/AMF_풋살_월드컵 "wikilink")
+  - [AMF 풋살 월드컵](../Page/AMF_풋살_월드컵.md "wikilink")
   - [세계 여자 풋살 토너먼트](https://ko.wikipedia.org/wiki/세계_여자_풋살_토너먼트 "wikilink")
 
 [분류:AMF 여자 풋살 월드컵](https://ko.wikipedia.org/wiki/분류:AMF_여자_풋살_월드컵 "wikilink")

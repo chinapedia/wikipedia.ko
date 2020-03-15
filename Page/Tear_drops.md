@@ -17,7 +17,7 @@
 1.  **tear drops** (4:07)
       - 편곡: [하야마 타케시](https://ko.wikipedia.org/wiki/하야마_타케시 "wikilink")
 2.  **Good-bye Memories** (4:12)
-      - 편곡: [토쿠나가 아키히토](https://ko.wikipedia.org/wiki/토쿠나가_아키히토 "wikilink")
+      - 편곡: [토쿠나가 아키히토](../Page/토쿠나가_아키히토.md "wikilink")
 3.  **tear drops (Instrumental)**
 
 ## 발매일

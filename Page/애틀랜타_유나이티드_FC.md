@@ -37,7 +37,7 @@
 <td><p>메르세데스-벤츠 스타디움이 개장하기(2017년 3월부터 7월까지) 전까지 사용할 예정임.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/메르세데스-벤츠_스타디움" title="wikilink">메르세데스-벤츠 스타디움</a></p></td>
+<td><p><a href="../Page/메르세데스-벤츠_스타디움.md" title="wikilink">메르세데스-벤츠 스타디움</a></p></td>
 <td><p>2017년~현재</p></td>
 <td><p>2017년 8월부터 사용함.<br />
 <a href="https://ko.wikipedia.org/wiki/내셔널_풋볼_리그" title="wikilink">NFL</a> <a href="https://ko.wikipedia.org/wiki/애틀랜타_팰컨스" title="wikilink">애틀랜타 팰컨스와</a> 공동으로 사용할 예정임.</p></td>

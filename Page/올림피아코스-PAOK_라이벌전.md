@@ -112,9 +112,9 @@
   - **알파 에트니키 최다 점수차 승리**
       - **올림피아코스**
           - **홈:** 올림피아코스 – PAOK (6–0), [카라이스카키스 스타디움](https://ko.wikipedia.org/wiki/카라이스카키스_스타디움 "wikilink"), 1962년 6월 3일
-            <small>(프시호스 40', 47', [시데리스](https://ko.wikipedia.org/wiki/요르고스_시데리스 "wikilink") 76', 80', 81', 84' [p.](https://ko.wikipedia.org/wiki/페널티킥 "wikilink"))</small>
+            <small>(프시호스 40', 47', [시데리스](../Page/요르고스_시데리스.md "wikilink") 76', 80', 81', 84' [p.](https://ko.wikipedia.org/wiki/페널티킥 "wikilink"))</small>
           - **원정:** PAOK – 올림피아코스 (0–4), [툼바 경기장](../Page/툼바_경기장.md "wikilink"), 1965년 1월 27일
-            <small>(보티노스 20', 유초스 47', 아가니안 59', [시데리스](https://ko.wikipedia.org/wiki/요르고스_시데리스 "wikilink") 74')</small>
+            <small>(보티노스 20', 유초스 47', 아가니안 59', [시데리스](../Page/요르고스_시데리스.md "wikilink") 74')</small>
       - **PAOK**
           - **홈:** PAOK – 올림피아코스 (6–1), [세레스 시립 경기장](https://ko.wikipedia.org/wiki/세레스_시립_경기장 "wikilink"), 1987년 12월 6일
             <small>([배넌](https://ko.wikipedia.org/wiki/폴_배넌 "wikilink") 5', 마브롬마티스 14', 시가스 18', 바뇨티스 41', [보르보키스](https://ko.wikipedia.org/wiki/스테파노스_보르보키스 "wikilink") 75', 89' – [찰루히디스](https://ko.wikipedia.org/wiki/파나요티스_찰루히디스 "wikilink") 50')</small>
@@ -666,7 +666,7 @@
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/알파_에트니키_1961-62" title="wikilink">1961–62</a></p></td>
 <td><p>올림피아코스 – PAOK (6–0)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/요르고스_시데리스" title="wikilink">시데리스</a> 84'</p></td>
+<td><p><a href="../Page/요르고스_시데리스.md" title="wikilink">시데리스</a> 84'</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -678,7 +678,7 @@
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/알파_에트니키_1965-66" title="wikilink">1965–66</a></p></td>
 <td><p>올림피아코스 – PAOK (2–0)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/요르고스_시데리스" title="wikilink">시데리스</a> 25'</p></td>
+<td><p><a href="../Page/요르고스_시데리스.md" title="wikilink">시데리스</a> 25'</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -786,13 +786,13 @@
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/알파_에트니키_1998-99" title="wikilink">1998–99</a></p></td>
 <td><p>PAOK – 올림피아코스 (1–2)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/그리고리스_게오르가토스" title="wikilink">게오르가토스</a> 80'</p></td>
+<td><p><a href="../Page/그리고리스_게오르가토스.md" title="wikilink">게오르가토스</a> 80'</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/알파_에트니키_1998-99" title="wikilink">1998–99</a></p></td>
 <td><p>올림피아코스 – PAOK (2–1)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/그리고리스_게오르가토스" title="wikilink">게오르가토스</a> 90'+3'</p></td>
+<td><p><a href="../Page/그리고리스_게오르가토스.md" title="wikilink">게오르가토스</a> 90'+3'</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -892,7 +892,7 @@
 | [1998–99](https://ko.wikipedia.org/wiki/알파_에트니키_1998-99 "wikilink")           | 올림피아코스 – PAOK (2–1) |                                                                                                                                    | [10px](https://ko.wikipedia.org/wiki/파일:Red_card.svg "wikilink") 쿨라쿄티스 72' [10px](https://ko.wikipedia.org/wiki/파일:Red_card.svg "wikilink") [미호풀로스](https://ko.wikipedia.org/wiki/니콜라오스_미호풀로스 "wikilink") 90'+1'                                                |
 | [1999–2000](https://ko.wikipedia.org/wiki/알파_에트니키_1999-2000 "wikilink")       | PAOK – 올림피아코스 (0–2) |                                                                                                                                    | [10px](https://ko.wikipedia.org/wiki/파일:Red_card.svg "wikilink") [게오르야디스](../Page/게오르요스_게오르야디스.md "wikilink") 38'                                                                                                                                               |
 | [2000–01](https://ko.wikipedia.org/wiki/알파_에트니키_2000-01 "wikilink")           | PAOK – 올림피아코스 (2–4) |                                                                                                                                    | [10px](https://ko.wikipedia.org/wiki/파일:Red_card.svg "wikilink") [게오르야디스](../Page/게오르요스_게오르야디스.md "wikilink") 39'                                                                                                                                               |
-| [2002–03](https://ko.wikipedia.org/wiki/알파_에트니키_2002-03 "wikilink")           | 올림피아코스 – PAOK (4–3) | [10px](https://ko.wikipedia.org/wiki/파일:Red_card.svg "wikilink") [카랑뵈](https://ko.wikipedia.org/wiki/크리스티앙_카랑뵈 "wikilink") 87'     |                                                                                                                                                                                                                                                                 |
+| [2002–03](https://ko.wikipedia.org/wiki/알파_에트니키_2002-03 "wikilink")           | 올림피아코스 – PAOK (4–3) | [10px](https://ko.wikipedia.org/wiki/파일:Red_card.svg "wikilink") [카랑뵈](../Page/크리스티앙_카랑뵈.md "wikilink") 87'                        |                                                                                                                                                                                                                                                                 |
 | [2004–05](https://ko.wikipedia.org/wiki/알파_에트니키_2004-05 "wikilink")           | 올림피아코스 – PAOK (5–1) |                                                                                                                                    | [10px](https://ko.wikipedia.org/wiki/파일:Red_card.svg "wikilink") [카리피디스](https://ko.wikipedia.org/wiki/흐리스토스_카리피디스 "wikilink") 77'                                                                                                                              |
 | [2008–09](https://ko.wikipedia.org/wiki/수페르리가_엘라다_2008-09 "wikilink")         | 올림피아코스 – PAOK (2–0) |                                                                                                                                    | [10px](https://ko.wikipedia.org/wiki/파일:Red_card.svg "wikilink") [가르시아](https://ko.wikipedia.org/wiki/파블로_가브리엘_가르시아 "wikilink") 89'                                                                                                                             |
 | [2008–09](https://ko.wikipedia.org/wiki/그리스_컵_2008-09 "wikilink") (컵)         | 올림피아코스 – PAOK (2–0) |                                                                                                                                    | [10px](https://ko.wikipedia.org/wiki/파일:Red_card.svg "wikilink") [콘트레라스](https://ko.wikipedia.org/wiki/파블로_콘트레라스 "wikilink") 73' [10px](https://ko.wikipedia.org/wiki/파일:Red_card.svg "wikilink") [이비치](https://ko.wikipedia.org/wiki/블라디미르_이비치 "wikilink") 80' |
@@ -975,9 +975,9 @@
 <li><p><a href="https://ko.wikipedia.org/wiki/니코스_알레판토스" title="wikilink">니코스 알레판토스</a></p></li>
 <li><p><a href="https://ko.wikipedia.org/wiki/이오안니스_구나리스" title="wikilink">이오안니스 구나리스</a></p></li>
 <li><p><a href="https://ko.wikipedia.org/wiki/테이스_리브레흐츠" title="wikilink">테이스 리브레흐츠</a></p></li>
-<li><p><a href="https://ko.wikipedia.org/wiki/륩코_페트로비치" title="wikilink">륩코 페트로비치</a></p></li>
+<li><p><a href="../Page/륩코_페트로비치.md" title="wikilink">륩코 페트로비치</a></p></li>
 <li><p><a href="https://ko.wikipedia.org/wiki/올레흐_블로힌" title="wikilink">올레흐 블로힌</a></p></li>
-<li><p><a href="https://ko.wikipedia.org/wiki/두샨_바예비치" title="wikilink">두샨 바예비치</a></p></li>
+<li><p><a href="../Page/두샨_바예비치.md" title="wikilink">두샨 바예비치</a></p></li>
 </ul></td>
 </tr>
 </tbody>

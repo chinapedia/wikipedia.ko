@@ -9,7 +9,7 @@
 
 ## 음반
 
-### [G.Soul](https://ko.wikipedia.org/wiki/G.Soul "wikilink")
+### [G.Soul](../Page/G.Soul.md "wikilink")
 
 #### [EP](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink") 앨범
 

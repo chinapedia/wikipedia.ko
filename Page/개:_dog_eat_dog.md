@@ -7,12 +7,12 @@
 
   - [김선빈](../Page/김선빈_\(배우\).md "wikilink") : 형신 역
   - [곽민호](https://ko.wikipedia.org/wiki/곽민호 "wikilink") : 지훈 역
-  - [정준교](https://ko.wikipedia.org/wiki/정준교 "wikilink") : 준교 역
+  - [정준교](../Page/정준교.md "wikilink") : 준교 역
   - [이하민](https://ko.wikipedia.org/wiki/이하민 "wikilink") : 중년 여성 역
   - 박형준 : 두진 역
   - 김지수 : 준식 역
-  - [강필선](https://ko.wikipedia.org/wiki/강필선_\(배우\) "wikilink") : 최종철 역
-  - [공민정](https://ko.wikipedia.org/wiki/공민정 "wikilink") : 여기자 역
+  - [강필선](../Page/강필선_\(배우\).md "wikilink") : 최종철 역
+  - [공민정](../Page/공민정.md "wikilink") : 여기자 역
   - [최정선](https://ko.wikipedia.org/wiki/최정선 "wikilink") : 피해자 여성 역
   - [신현탁](https://ko.wikipedia.org/wiki/신현탁 "wikilink") : 최태수 역 (특별출연)
   - [김병옥](https://ko.wikipedia.org/wiki/김병옥_\(배우\) "wikilink") : 민태식 (목소리) 역 (특별출연)

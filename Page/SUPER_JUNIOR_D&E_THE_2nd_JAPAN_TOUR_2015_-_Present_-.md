@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [SUPER JUNIOR D\&E THE 2nd JAPAN TOUR 2015 - Present -](https://ko.wikipedia.org/wiki/SUPER_JUNIOR_D\&E_THE_2nd_JAPAN_TOUR_2015_-_Present_-).
 
 
-《**SUPER JUNIOR D\&E THE 2nd JAPAN TOUR 2015 - Present -**》는 [슈퍼주니어-D\&E](https://ko.wikipedia.org/wiki/슈퍼주니어-D&E "wikilink")의 2번째 일본 전국 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").
+《**SUPER JUNIOR D\&E THE 2nd JAPAN TOUR 2015 - Present -**》는 [슈퍼주니어-D\&E](../Page/슈퍼주니어-D&E.md "wikilink")의 2번째 일본 전국 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").
 
 ## 개요
 
-2014년 12월 20일, [슈퍼주니어](https://ko.wikipedia.org/wiki/슈퍼주니어 "wikilink")는 [SUPER SHOW 6의](../Page/SUPER_SHOW_6.md "wikilink") [후쿠오카](https://ko.wikipedia.org/wiki/후쿠오카 "wikilink") 공연에서 [슈퍼주니어](https://ko.wikipedia.org/wiki/슈퍼주니어 "wikilink")의 듀오 유닛 [슈퍼주니어-D\&E](https://ko.wikipedia.org/wiki/슈퍼주니어-D&E "wikilink")의 2번째 일본 아레나 투어를 개최를 선언하였고, 2015년 1월 13일에는 공연 일정을 공개하였다. 당초 9회 공연으로 예정되었으나 호응이 좋아 마린멧세 후쿠오카에서의 1회 공연이 추가되었다.
+2014년 12월 20일, [슈퍼주니어](https://ko.wikipedia.org/wiki/슈퍼주니어 "wikilink")는 [SUPER SHOW 6의](../Page/SUPER_SHOW_6.md "wikilink") [후쿠오카](https://ko.wikipedia.org/wiki/후쿠오카 "wikilink") 공연에서 [슈퍼주니어](https://ko.wikipedia.org/wiki/슈퍼주니어 "wikilink")의 듀오 유닛 [슈퍼주니어-D\&E](../Page/슈퍼주니어-D&E.md "wikilink")의 2번째 일본 아레나 투어를 개최를 선언하였고, 2015년 1월 13일에는 공연 일정을 공개하였다. 당초 9회 공연으로 예정되었으나 호응이 좋아 마린멧세 후쿠오카에서의 1회 공연이 추가되었다.
 
 ## 투어 일정
 
@@ -35,7 +35,7 @@
 
 ## 제작
 
-  - [슈퍼주니어-D\&E](https://ko.wikipedia.org/wiki/슈퍼주니어-D&E "wikilink") ([은혁](https://ko.wikipedia.org/wiki/은혁 "wikilink"), [동해](https://ko.wikipedia.org/wiki/동해_\(가수\) "wikilink"))
+  - [슈퍼주니어-D\&E](../Page/슈퍼주니어-D&E.md "wikilink") ([은혁](https://ko.wikipedia.org/wiki/은혁 "wikilink"), [동해](https://ko.wikipedia.org/wiki/동해_\(가수\) "wikilink"))
   - 기획·제작 : [에이벡스 엔터테인먼트](https://ko.wikipedia.org/wiki/에이벡스_엔터테인먼트 "wikilink"), SM 엔터테인먼트 재팬
   - 총연출 : 오오쿠보 마사오
 

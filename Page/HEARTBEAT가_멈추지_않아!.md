@@ -2,7 +2,7 @@
 
 
 {{싱글 정보 | 곡명 = HEARTBEAT가 멈추지 않아\!
-| 음악가 = [유이카오리](../Page/유이카오리.md "wikilink") | 음반 = [Puppy](https://ko.wikipedia.org/wiki/Puppy_\(유이카오리의_음반\) "wikilink") | A 사이드 = | B 사이드 = Our Song | 발매일 =  | 포맷 = [맥시 싱글](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink") | 녹음 = 2010년
+| 음악가 = [유이카오리](../Page/유이카오리.md "wikilink") | 음반 = [Puppy](../Page/Puppy_\(유이카오리의_음반\).md "wikilink") | A 사이드 = | B 사이드 = Our Song | 발매일 =  | 포맷 = [맥시 싱글](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink") | 녹음 = 2010년
  | 장르 = [J-POP](https://ko.wikipedia.org/wiki/J-POP "wikilink") | 길이 = 4분 1초 | 레이블 = [킹레코드](https://ko.wikipedia.org/wiki/킹레코드_\(일본\) "wikilink") | 프로듀서 = | 작사가 = [마에야마다 켄이치](https://ko.wikipedia.org/wiki/마에야마다_켄이치 "wikilink") | 작곡가 = 슌류 | 이전싱글 = \[\[두_사람/VIVIVID_PARTY\!|두 사람/
  〈**HEARTBEAT가 멈추지 않아\!**〉()는 [유이카오리](../Page/유이카오리.md "wikilink")의 세 번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink"). [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [11월 17일에](https://ko.wikipedia.org/wiki/11월_17일 "wikilink") [킹레코드에서](https://ko.wikipedia.org/wiki/킹레코드_\(일본\) "wikilink") 발매됐다.
 
@@ -34,9 +34,9 @@
 
 ## 수록 음반
 
-| 곡명                | 수록 음반                                                                       | 발매일                                                                                                               |
-| ----------------- | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| HEARTBEAT가 멈추지 않아 | 《**[Puppy](https://ko.wikipedia.org/wiki/Puppy_\(유이카오리의_음반\) "wikilink")**》 | [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [9월 21일](https://ko.wikipedia.org/wiki/9월_21일 "wikilink") |
+| 곡명                | 수록 음반                                                    | 발매일                                                                                                               |
+| ----------------- | -------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| HEARTBEAT가 멈추지 않아 | 《**[Puppy](../Page/Puppy_\(유이카오리의_음반\).md "wikilink")**》 | [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [9월 21일](https://ko.wikipedia.org/wiki/9월_21일 "wikilink") |
 
 ## 외부 링크
 

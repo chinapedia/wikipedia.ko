@@ -19,10 +19,10 @@
     성우 - [시마무라 유우](https://ko.wikipedia.org/wiki/시마무라_유우 "wikilink")/[여민정](https://ko.wikipedia.org/wiki/여민정_\(성우\) "wikilink")
     본 작의 여주인공. 노블 학원의 1학년생으로 활기차고 웃는 얼굴이 예쁜 소녀. 꿈을 이루겠다는 마음가짐은 누구에게도 지지 않는다. 어릴 때부터 가지고 있는 그림 동화책의 공주님을 동경하고 있으며, 지금도 프린세스가 되고 싶다는 꿈을 가지고 있다. 좋아하는 것은 [꽃](https://ko.wikipedia.org/wiki/꽃 "wikilink")과 [동물](https://ko.wikipedia.org/wiki/동물 "wikilink"), 그림 동화책 '꽃의 프린세스'. 생일은 [4월 10일](https://ko.wikipedia.org/wiki/4월_10일 "wikilink"), 별자리는 [양자리](https://ko.wikipedia.org/wiki/양자리_\(점성술\) "wikilink").
   - [카이도 미나미](https://ko.wikipedia.org/wiki/카이도_미나미 "wikilink")(정바다) / 큐어 머메이드 ( / )
-    성우 - [아사노 마스미](https://ko.wikipedia.org/wiki/아사노_마스미 "wikilink")/[윤은서](https://ko.wikipedia.org/wiki/윤은서 "wikilink")
+    성우 - [아사노 마스미](https://ko.wikipedia.org/wiki/아사노_마스미 "wikilink")/[윤은서](../Page/윤은서.md "wikilink")
     하루카의 한 살 연상의 상급생으로 '학원의 프린세스/학교의 프린세스'라고 불릴정도로 전교생의 동경을 한몸에 받고 있는 팔방미인의 학생회장. 책임감이 강하고 철저하기 때문에 때론 엄격한 면도 보이기도 하지만, 바다처럼 사려 깊고 다정한 성격의 소유자. 다른 사람의 도움이 되는 훌륭한 사람이 되고 싶다고 생각한다. 좋아하는 것은 [바다](https://ko.wikipedia.org/wiki/바다 "wikilink")와 [홍차](https://ko.wikipedia.org/wiki/홍차 "wikilink"). 생일은 [7월 20일](https://ko.wikipedia.org/wiki/7월_20일 "wikilink"), 별자리는 [게자리](https://ko.wikipedia.org/wiki/게자리_\(점성술\) "wikilink").
   - [아마노가와 키라라](https://ko.wikipedia.org/wiki/아마노가와_키라라 "wikilink")(유은하) / 큐어 트윙클 ( / )
-    성우 - [야마무라 히비쿠](https://ko.wikipedia.org/wiki/야마무라_히비쿠 "wikilink")/[유보라](https://ko.wikipedia.org/wiki/유보라 "wikilink")
+    성우 - [야마무라 히비쿠](https://ko.wikipedia.org/wiki/야마무라_히비쿠 "wikilink")/[유보라](../Page/유보라.md "wikilink")
     하루카와 동갑내기인 인기 패션 모델의 소녀. 자유분방하고 꾸미기를 좋아하며 무척 솔직하고 마이웨이인 성격이지만 자기 꿈을 위해서 똑바로 나아가는 뚝심도 갖고 있다. 장래의 꿈은 톱 모델이 되는 것. 좋아하는 것은 [별](https://ko.wikipedia.org/wiki/별 "wikilink"), 달콤한 [디저트](https://ko.wikipedia.org/wiki/디저트 "wikilink") 요리. 생일은 [9월 12일](https://ko.wikipedia.org/wiki/9월_12일 "wikilink"), 별자리는 [처녀자리](https://ko.wikipedia.org/wiki/처녀자리_\(점성술\) "wikilink").
   - [아카기 토와](https://ko.wikipedia.org/wiki/아카기_토와 "wikilink")(장영원) / 큐어 스칼렛 ( / )
     성우 - [사와시로 미유키](https://ko.wikipedia.org/wiki/사와시로_미유키 "wikilink")/[사문영](../Page/사문영.md "wikilink")
@@ -67,7 +67,7 @@
     성우 - [히노 사토시](https://ko.wikipedia.org/wiki/히노_사토시 "wikilink")/[김진홍](https://ko.wikipedia.org/wiki/김진홍_\(성우\) "wikilink")
     디스다크의 3간부의 일원. [나르시스트](https://ko.wikipedia.org/wiki/나르시스트 "wikilink")로 아름다운 것을 좋아하는 꽃미남. 그래서 트와일라잇의 미모에 푹 빠졌다. 잘난척하는 말투를 쓴다.
   - 록 ()
-    성우 - [카이다 유키](https://ko.wikipedia.org/wiki/카이다_유키 "wikilink")/[곽규미](https://ko.wikipedia.org/wiki/곽규미 "wikilink")
+    성우 - [카이다 유키](https://ko.wikipedia.org/wiki/카이다_유키 "wikilink")/[곽규미](../Page/곽규미.md "wikilink")
     디스다크의 3간부의 일원. 작은 체구의 소년으로, 커다란 후드를 뒤집어 쓰고 있어 평소에는 얼굴을 잘 보여주지 않는다. 실력은 3간부 가운데 최강으로 꼽힌다.
   - 프리즈 ()
     성우 - [이토 미야코](https://ko.wikipedia.org/wiki/이토_미야코 "wikilink")/[김윤채](https://ko.wikipedia.org/wiki/김윤채 "wikilink")

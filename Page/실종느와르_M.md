@@ -37,7 +37,7 @@
   - [서은아](../Page/서은아.md "wikilink") : 은채린 역
   - [박주희](../Page/박주희_\(1987년\).md "wikilink") : 이지수 역
   - [한수연](https://ko.wikipedia.org/wiki/한수연 "wikilink") : 이진영 역
-  - [김지훈](https://ko.wikipedia.org/wiki/김지훈_\(1979년\) "wikilink") : 김윤재 역
+  - [김지훈](../Page/김지훈_\(1979년\).md "wikilink") : 김윤재 역
   - [유정석](https://ko.wikipedia.org/wiki/유정석 "wikilink") : 고동호 역
   - [한승현](../Page/한승현.md "wikilink") : 김대수 역
   - [김열](../Page/김열_\(배우\).md "wikilink") : 고동주 역
@@ -49,7 +49,7 @@
   - [이예은](https://ko.wikipedia.org/wiki/이예은 "wikilink") : 이지은 역
   - [김병철](https://ko.wikipedia.org/wiki/김병철_\(배우\) "wikilink") : 강윤구 역
   - [윤종구](https://ko.wikipedia.org/wiki/윤종구_\(배우\) "wikilink") : 윤창식 역
-  - [오순태](https://ko.wikipedia.org/wiki/오순태 "wikilink") : 김성태 역
+  - [오순태](../Page/오순태.md "wikilink") : 김성태 역
   - [박종상](https://ko.wikipedia.org/wiki/박종상 "wikilink")
   - [윤정은](https://ko.wikipedia.org/wiki/윤정은 "wikilink") : 김선영 역
   - [최병모](../Page/최병모_\(배우\).md "wikilink") : 김영근 역
@@ -61,7 +61,7 @@
   - [진모](https://ko.wikipedia.org/wiki/진모 "wikilink") : 청부 살인마 역
   - [이연두](https://ko.wikipedia.org/wiki/이연두 "wikilink") : 정선미 / 장미영 / 김정희 / 이수진 역
   - [차수미](https://ko.wikipedia.org/wiki/차수미 "wikilink") : 장미영 역
-  - [이영란](https://ko.wikipedia.org/wiki/이영란_\(배우\) "wikilink") : 오정임 역
+  - [이영란](../Page/이영란_\(배우\).md "wikilink") : 오정임 역
   - [양영조](https://ko.wikipedia.org/wiki/양영조 "wikilink")
   - [허준석](https://ko.wikipedia.org/wiki/허준석 "wikilink")
   - [박귀순](../Page/박귀순.md "wikilink")
@@ -81,12 +81,12 @@
 
   - [강하늘](https://ko.wikipedia.org/wiki/강하늘 "wikilink") : 이정수 역
   - [정우식](https://ko.wikipedia.org/wiki/정우식_\(1984년\) "wikilink") : 강민철 / 주요셉 역
-  - [류태호](https://ko.wikipedia.org/wiki/류태호 "wikilink") : 김석규 역
+  - [류태호](../Page/류태호.md "wikilink") : 김석규 역
   - [고보결](../Page/고보결.md "wikilink") : 강순영 역
   - [이승형](https://ko.wikipedia.org/wiki/이승형 "wikilink") : 김석진 역
-  - [문영동](https://ko.wikipedia.org/wiki/문영동 "wikilink") : 경찰 역
+  - [문영동](../Page/문영동.md "wikilink") : 경찰 역
   - [박해준](../Page/박해준.md "wikilink") : 하태조 역
-  - [손종학](https://ko.wikipedia.org/wiki/손종학 "wikilink") : 류정국 역
+  - [손종학](../Page/손종학.md "wikilink") : 류정국 역
   - [장광](https://ko.wikipedia.org/wiki/장광 "wikilink") : 남석태 역
   - [이두일](https://ko.wikipedia.org/wiki/이두일 "wikilink") : 이종호 역
   - [심이영](https://ko.wikipedia.org/wiki/심이영 "wikilink") : 오대영의 아내 역
