@@ -443,7 +443,7 @@
 
 ### 결방
 
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [12월 31일](https://ko.wikipedia.org/wiki/12월_31일 "wikilink") 영화 《[열쇠 도둑의 방법](https://ko.wikipedia.org/wiki/열쇠_도둑의_방법 "wikilink")》(0:40 \~ 3:05) 방송으로 인해 결방.
+  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [12월 31일](https://ko.wikipedia.org/wiki/12월_31일 "wikilink") 영화 《[열쇠 도둑의 방법](../Page/열쇠_도둑의_방법.md "wikilink")》(0:40 \~ 3:05) 방송으로 인해 결방.
 
 ## 스태프
 

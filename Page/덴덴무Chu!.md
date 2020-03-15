@@ -21,7 +21,7 @@
 1.  카프카와 덴덴무Chu\! ()
       - AKB48 40th 싱글 「[보쿠타치와타타카와나이](https://ko.wikipedia.org/wiki/보쿠타치와타타카와나이 "wikilink") ()」에 수록.
 2.  그때부터 나는 공부가 손에 잡히지 않는다 ()
-      - AKB48 3rd 베스트 앨범 「[0과 1 사이](https://ko.wikipedia.org/wiki/0과_1_사이 "wikilink") ()」에 수록.
+      - AKB48 3rd 베스트 앨범 「[0과 1 사이](../Page/0과_1_사이.md "wikilink") ()」에 수록.
 
 ## 외부 링크
 

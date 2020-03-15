@@ -164,7 +164,7 @@
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/안산_그리너스_FC" title="wikilink">안산 그리너스 FC</a></p></td>
+<td><p><a href="../Page/안산_그리너스_FC.md" title="wikilink">안산 그리너스 FC</a></p></td>
 <td><p>2017–현재</p></td>
 <td><p><strong>0</strong></p></td>
 <td><p>-</p></td>

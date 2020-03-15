@@ -9,7 +9,7 @@
 
 xinetd는 네트워크에 들어오는 요청을 듣고, 거기에 맞는 적절한 서비스를 실행시킨다.\[2\] 요청들은 식별자로서 [포트 번호를](https://ko.wikipedia.org/wiki/TCP_및_UDP_포트 "wikilink") 사용하여 만들어지며, 보통 요청을 다루는 다른 데몬을 실행시킨다. 이것은 특권 서비스 또는 아닌것들 둘 다를 시작시킬 때 사용될 수 있다.
 
-xinetd는 [TCP 래퍼](https://ko.wikipedia.org/wiki/TCP_래퍼 "wikilink") [ACLs](https://ko.wikipedia.org/wiki/접근_제어_목록 "wikilink") 같은 [접근 제어](https://ko.wikipedia.org/wiki/접근_제어 "wikilink") 매커니즘과 확장된 로깅 역량 그리고 시간에 기반한 서비스 활성화 능력 등을 특징으로 갖는다. 이것은 시스템이 시작할 수 있는 서버들의 수를 제한할 수 있고, [포트 스캐너](https://ko.wikipedia.org/wiki/포트_스캔 "wikilink") 같은 것들로 부터 보호할 수 있는 매커니즘을 갖는다.
+xinetd는 [TCP 래퍼](../Page/TCP_래퍼.md "wikilink") [ACLs](https://ko.wikipedia.org/wiki/접근_제어_목록 "wikilink") 같은 [접근 제어](https://ko.wikipedia.org/wiki/접근_제어 "wikilink") 매커니즘과 확장된 로깅 역량 그리고 시간에 기반한 서비스 활성화 능력 등을 특징으로 갖는다. 이것은 시스템이 시작할 수 있는 서버들의 수를 제한할 수 있고, [포트 스캐너](https://ko.wikipedia.org/wiki/포트_스캔 "wikilink") 같은 것들로 부터 보호할 수 있는 매커니즘을 갖는다.
 
 ## 설정
 

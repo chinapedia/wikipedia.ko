@@ -17,7 +17,7 @@
 <!-- end list -->
 
 1.  **Fairy tale (my last teenage wish)** (4:18)
-      - 작곡 · 편곡: [토쿠나가 아키히토](https://ko.wikipedia.org/wiki/토쿠나가_아키히토 "wikilink")
+      - 작곡 · 편곡: [토쿠나가 아키히토](../Page/토쿠나가_아키히토.md "wikilink")
     <!-- end list -->
       -
         음반 표제곡. 가사에는 ‘[호박 마차](https://ko.wikipedia.org/wiki/신데렐라 "wikilink")’‘[독 사과](https://ko.wikipedia.org/wiki/백설_공주 "wikilink")’ 등 동화와 관련된 말이 다수 등장한다. 앨범 투어 이후 피로되는 것은 적었지만, 10월에 개최되는 핼러윈 라이브에서는 피로되는 차가 많은 음반 곡이다.

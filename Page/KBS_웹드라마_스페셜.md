@@ -32,7 +32,7 @@
 <tr class="odd">
 <td><p>1화</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/6월_12일" title="wikilink">6월 12일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/프린스의_왕자" title="wikilink">프린스의 왕자</a></p></td>
+<td><p><a href="../Page/프린스의_왕자.md" title="wikilink">프린스의 왕자</a></p></td>
 <td><p>최종훈, 임윤호, 서유나, 손세빈,<br />
 김민철, 우혁, 한제후, 이수광,<br />
 민진웅, 배민정, 김보민, 이지영,<br />
@@ -40,7 +40,7 @@
 구한회, 곽민규, 김광섭</p></td>
 <td><p>재아 SE</p></td>
 <td><p>재아, 김민혜</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/신주환" title="wikilink">신주환</a>, 최형준</p></td>
+<td><p><a href="../Page/신주환.md" title="wikilink">신주환</a>, 최형준</p></td>
 </tr>
 <tr class="even">
 <td><p>2화</p></td>
@@ -54,7 +54,7 @@
 <tr class="odd">
 <td><p>3화</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/6월_26일" title="wikilink">6월 26일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/어바웃_러브" title="wikilink">어바웃 러브</a></p></td>
+<td><p><a href="../Page/어바웃_러브.md" title="wikilink">어바웃 러브</a></p></td>
 <td><p>1부 <strong>Milky Love</strong><br />
 케빈(유키스), 지엔(라붐),<br />
 오정태, 한정우, 유예빈</p></td>
@@ -77,7 +77,7 @@
 <tr class="odd">
 <td><p>4화</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/7월_3일" title="wikilink">7월 3일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/모모살롱" title="wikilink">모모살롱</a></p></td>
+<td><p><a href="../Page/모모살롱.md" title="wikilink">모모살롱</a></p></td>
 <td><p>리지, 박정민, 이미영, 유옥주,<br />
 김규리, 김도형, 이상희, 김이안,<br />
 신채은, 이나리, 정종열, 육미옥,<br />
@@ -91,7 +91,7 @@
 <tr class="even">
 <td><p>5화</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/10월_30일" title="wikilink">10월 30일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/9초,_영원의_시간" title="wikilink">9초, 영원의 시간</a></p></td>
+<td><p><a href="../Page/9초,_영원의_시간.md" title="wikilink">9초, 영원의 시간</a></p></td>
 <td><p>이주승, 해령(베스티), 이재형,<br />
 후지이 미나, 박리디아,<br />
 김민수, 김솔빈, 황병효, 권진우,<br />
@@ -104,7 +104,7 @@
 <tr class="odd">
 <td><p>6화</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/11월_6일" title="wikilink">11월 6일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아부쟁이_얍!" title="wikilink">아부쟁이 얍!</a></p></td>
+<td><p><a href="../Page/아부쟁이_얍!.md" title="wikilink">아부쟁이 얍!</a></p></td>
 <td><p>곽동연, 보라, 이재진, 한정수,<br />
 문원주, 배슬기, 김영준, 정재형,<br />
 박휘순, 강윤진, 배진웅, 방협,<br />
@@ -117,7 +117,7 @@
 <tr class="even">
 <td><p>7화</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/11월_13일" title="wikilink">11월 13일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미싱코리아" title="wikilink">미싱코리아</a></p></td>
+<td><p><a href="../Page/미싱코리아.md" title="wikilink">미싱코리아</a></p></td>
 <td><p>김정훈, 박산다라, 김정석,<br />
 이지현, 하은설, 백보람, 김지향,<br />
 빛나, 김나연, 장혁진, 이윤상,<br />
@@ -129,7 +129,7 @@
 <tr class="odd">
 <td><p>8화</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/11월_20일" title="wikilink">11월 20일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/연애탐정_셜록K" title="wikilink">연애탐정 셜록K</a></p></td>
+<td><p><a href="../Page/연애탐정_셜록K.md" title="wikilink">연애탐정 셜록K</a></p></td>
 <td><p>남보라, 박민우, 정진영, 윤보미,<br />
 박진주, 조용근, 김률, 정시현,<br />
 김부현, 염시윤, 김지연, 정은성,<br />

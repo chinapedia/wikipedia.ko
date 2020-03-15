@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LG V10](https://ko.wikipedia.org/wiki/LG_V10).
 
 
-**LG V10**은 [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")가 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [10월 8일](https://ko.wikipedia.org/wiki/10월_8일 "wikilink") 출시한 스마트폰이다.\[1\] 광고는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 모델인 [스테파니 리와](https://ko.wikipedia.org/wiki/스테파니_리 "wikilink") 가수 [자이언티](../Page/자이언티.md "wikilink"), 영화감독 [장진](https://ko.wikipedia.org/wiki/장진 "wikilink")이 'V10 라이프스타일'이라는 주제로 촬영되었다.
+**LG V10**은 [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")가 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [10월 8일](https://ko.wikipedia.org/wiki/10월_8일 "wikilink") 출시한 스마트폰이다.\[1\] 광고는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 모델인 [스테파니 리와](../Page/스테파니_리.md "wikilink") 가수 [자이언티](../Page/자이언티.md "wikilink"), 영화감독 [장진](https://ko.wikipedia.org/wiki/장진 "wikilink")이 'V10 라이프스타일'이라는 주제로 촬영되었다.
 
 ## 운영체제 / 소프트웨어
 
@@ -66,9 +66,9 @@ LG V10은 전후면에 강한 내구성을 가진 듀라 스킨 실리콘 마감
 ## 같이 보기
 
   - [LG G4](../Page/LG_G4.md "wikilink")
-  - [LG G5](https://ko.wikipedia.org/wiki/LG_G5 "wikilink")
-  - [LG V20](https://ko.wikipedia.org/wiki/LG_V20 "wikilink")
-  - [LG V](https://ko.wikipedia.org/wiki/LG_V "wikilink")
+  - [LG G5](../Page/LG_G5.md "wikilink")
+  - [LG V20](../Page/LG_V20.md "wikilink")
+  - [LG V](../Page/LG_V.md "wikilink")
 
 ## 경쟁 기종
 
@@ -77,7 +77,7 @@ LG V10은 전후면에 강한 내구성을 가진 듀라 스킨 실리콘 마감
   - [삼성 갤럭시 노트 5](https://ko.wikipedia.org/wiki/삼성_갤럭시_노트_5 "wikilink")
   - [삼성 갤럭시 S6 엣지 플러스](../Page/삼성_갤럭시_S6_엣지_플러스.md "wikilink")
   - [구글 넥서스 6P](https://ko.wikipedia.org/wiki/넥서스_6P "wikilink")
-  - [소니 엑스페리아 Z5](https://ko.wikipedia.org/wiki/소니_엑스페리아_Z5 "wikilink")
+  - [소니 엑스페리아 Z5](../Page/소니_엑스페리아_Z5.md "wikilink")
 
 ## 각주
 

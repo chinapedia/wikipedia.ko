@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LG L90](https://ko.wikipedia.org/wiki/LG_L90).
 
 
-**LG L90**은 [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")가 [2014년 4월에](https://ko.wikipedia.org/wiki/2014년_4월 "wikilink") 출시한 보급형 스마트폰이다. MWC 2014에서 [L40](https://ko.wikipedia.org/wiki/LG_L40 "wikilink"), [L70과](../Page/LG_L70.md "wikilink") 함께 공개되었으며, [인도](https://ko.wikipedia.org/wiki/인도 "wikilink")와 [유럽](https://ko.wikipedia.org/wiki/유럽 "wikilink")에 출시되었다.
+**LG L90**은 [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")가 [2014년 4월에](https://ko.wikipedia.org/wiki/2014년_4월 "wikilink") 출시한 보급형 스마트폰이다. MWC 2014에서 [L40](../Page/LG_L40.md "wikilink"), [L70과](../Page/LG_L70.md "wikilink") 함께 공개되었으며, [인도](https://ko.wikipedia.org/wiki/인도 "wikilink")와 [유럽](https://ko.wikipedia.org/wiki/유럽 "wikilink")에 출시되었다.
 
 ## 운영체제/소프트웨어
 

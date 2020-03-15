@@ -25,7 +25,7 @@
 
 :\#**Wake me up**
 
-:\#\*작사: 쿠라키 마이, 작곡 · 편곡: [토쿠나가 아키히토](https://ko.wikipedia.org/wiki/토쿠나가_아키히토 "wikilink")
+:\#\*작사: 쿠라키 마이, 작곡 · 편곡: [토쿠나가 아키히토](../Page/토쿠나가_아키히토.md "wikilink")
 
 :\#**always giving my heart**
 

@@ -101,7 +101,7 @@ void *getTIB() {
 
 ## 읽어보기
 
-  - [마이크로소프트의 예외 처리 메커니즘](https://ko.wikipedia.org/wiki/마이크로소프트의_예외_처리_메커니즘 "wikilink")(SEH)
+  - [마이크로소프트의 예외 처리 메커니즘](../Page/마이크로소프트의_예외_처리_메커니즘.md "wikilink")(SEH)
 
 ## 각주
 

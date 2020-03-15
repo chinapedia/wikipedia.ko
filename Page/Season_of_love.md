@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Season of love](https://ko.wikipedia.org/wiki/Season_of_love).
 
 
-{{싱글 정보 | 곡명 = Season of love | 음악가 = [쿠라키 마이](https://ko.wikipedia.org/wiki/쿠라키_마이 "wikilink") | 음반 = [ONE LIFE](https://ko.wikipedia.org/wiki/ONE_LIFE "wikilink") | A 사이드 = | B 사이드 = | 발매일 = [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [2월 14일](https://ko.wikipedia.org/wiki/2월_14일 "wikilink") | 포맷 = [맥시 싱글](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink") | 녹음 = | 장르= [J-POP](https://ko.wikipedia.org/wiki/J-POP "wikilink") | 길이 = 4분 45초 | 레이블 = [기자 스튜디오](https://ko.wikipedia.org/wiki/기자_스튜디오 "wikilink") | 프로듀서 = 쿠라키 마이, [나가토 다이코](https://ko.wikipedia.org/wiki/나가토_다이코 "wikilink") | 이전싱글 = [하얀 눈](https://ko.wikipedia.org/wiki/시로이유키 "wikilink")
+{{싱글 정보 | 곡명 = Season of love | 음악가 = [쿠라키 마이](https://ko.wikipedia.org/wiki/쿠라키_마이 "wikilink") | 음반 = [ONE LIFE](../Page/ONE_LIFE.md "wikilink") | A 사이드 = | B 사이드 = | 발매일 = [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [2월 14일](https://ko.wikipedia.org/wiki/2월_14일 "wikilink") | 포맷 = [맥시 싱글](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink") | 녹음 = | 장르= [J-POP](https://ko.wikipedia.org/wiki/J-POP "wikilink") | 길이 = 4분 45초 | 레이블 = [기자 스튜디오](https://ko.wikipedia.org/wiki/기자_스튜디오 "wikilink") | 프로듀서 = 쿠라키 마이, [나가토 다이코](https://ko.wikipedia.org/wiki/나가토_다이코 "wikilink") | 이전싱글 = [하얀 눈](https://ko.wikipedia.org/wiki/시로이유키 "wikilink")
 ([2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")) | 이번싱글 = **Season of love**
 ([2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink")) | 다음싱글 = \[\[Silent_love\~open_my_heart\~/BE_WITH_U|
 

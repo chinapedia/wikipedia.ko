@@ -13,7 +13,7 @@
   - [김승수](https://ko.wikipedia.org/wiki/김승수 "wikilink") : 유찬혁 역
   - [윤주상](https://ko.wikipedia.org/wiki/윤주상 "wikilink") : 성태섭 역
   - [박용수](https://ko.wikipedia.org/wiki/박용수 "wikilink") : 김현일 역
-  - [최학락](https://ko.wikipedia.org/wiki/최학락 "wikilink") : 오용철 역
+  - [최학락](../Page/최학락.md "wikilink") : 오용철 역
   - [김인문](https://ko.wikipedia.org/wiki/김인문 "wikilink") : 온수 부 역
   - [유순철](https://ko.wikipedia.org/wiki/유순철 "wikilink") : 기식 역
   - [박지미](https://ko.wikipedia.org/wiki/박지미 "wikilink") : 한하늘 역

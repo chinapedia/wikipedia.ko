@@ -12,7 +12,7 @@
 ## 수록곡
 
 1.  **[PERFECT CRIME](https://ko.wikipedia.org/wiki/Can't_forget_your_love/PERFECT_CRIME_-Single_Edit- "wikilink")** (4:38)
-      - 작사: 쿠라키 마이, 작곡: [토쿠나가 아키히토](https://ko.wikipedia.org/wiki/토쿠나가_아키히토 "wikilink"), 편곡: 토쿠나가 아키히토
+      - 작사: 쿠라키 마이, 작곡: [토쿠나가 아키히토](../Page/토쿠나가_아키히토.md "wikilink"), 편곡: 토쿠나가 아키히토
     <!-- end list -->
       -
         [TV 아사히 계열](https://ko.wikipedia.org/wiki/올_닛폰_뉴스_네트워크 "wikilink") [드라마](https://ko.wikipedia.org/wiki/일본의_드라마 "wikilink") 《[살기 위한 정열로서의 살인](https://ko.wikipedia.org/wiki/살기_위한_정열로서의_살인 "wikilink")》 주제가

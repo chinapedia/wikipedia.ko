@@ -230,7 +230,7 @@
 <td><p><strong>4 - 1</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/FC_바르셀로나_페메니" title="wikilink">바르셀로나</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/부다페스트" title="wikilink">부다페스트</a><br />
-<a href="https://ko.wikipedia.org/wiki/그루파마_아레나" title="wikilink">그루파마 아레나</a></p></td>
+<a href="../Page/그루파마_아레나.md" title="wikilink">그루파마 아레나</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2019-20<br />
@@ -248,7 +248,7 @@
 <td><p><strong>? - ?</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/?" title="wikilink">?</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/예테보리" title="wikilink">예테보리</a><br />
-<a href="https://ko.wikipedia.org/wiki/감라_울레비" title="wikilink">감라 울레비</a></p></td>
+<a href="../Page/감라_울레비.md" title="wikilink">감라 울레비</a></p></td>
 </tr>
 </tbody>
 </table>

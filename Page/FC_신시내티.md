@@ -17,7 +17,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/니퍼트_스타디움" title="wikilink">니퍼트 스타디움</a></p></td>
+<td><p><a href="../Page/니퍼트_스타디움.md" title="wikilink">니퍼트 스타디움</a></p></td>
 <td><p>2016년~현재</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/오하이오주" title="wikilink">오하이오주</a> <a href="https://ko.wikipedia.org/wiki/신시내티" title="wikilink">신시내티</a></p></td>
 <td><p>FC 신시내티</p></td>

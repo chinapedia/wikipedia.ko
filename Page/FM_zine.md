@@ -45,7 +45,7 @@
   - The Wake Up Crew ([tbs eFM](https://ko.wikipedia.org/wiki/tbs_eFM "wikilink"), [Busan e-FM](https://ko.wikipedia.org/wiki/부산영어방송재단 "wikilink"))
   - [출발 해피FM 김성은입니다](https://ko.wikipedia.org/wiki/출발_해피FM "wikilink") (5:00\~7:00) ([KBS 해피FM](https://ko.wikipedia.org/wiki/KBS_해피FM "wikilink"))
   - [서인의 새벽다방](https://ko.wikipedia.org/wiki/새벽다방 "wikilink") (3:00\~4:55) ([MBC 표준FM](https://ko.wikipedia.org/wiki/MBC_표준FM "wikilink"))
-  - [건강한 아침 이진입니다](https://ko.wikipedia.org/wiki/건강한_아침_이진입니다 "wikilink") (5:05\~6:00) ([MBC 표준FM](https://ko.wikipedia.org/wiki/MBC_표준FM "wikilink"))
+  - [건강한 아침 이진입니다](../Page/건강한_아침_이진입니다.md "wikilink") (5:05\~6:00) ([MBC 표준FM](https://ko.wikipedia.org/wiki/MBC_표준FM "wikilink"))
   - [김정일의 생생가요](https://ko.wikipedia.org/wiki/생생가요 "wikilink") (4:00\~5:00) ([SBS 러브FM](https://ko.wikipedia.org/wiki/SBS_러브FM "wikilink"))
   - [유영미의 마음은 언제나 청춘](https://ko.wikipedia.org/wiki/유영미의_마음은_언제나_청춘 "wikilink") (5:05\~6:00) ([SBS 러브FM](https://ko.wikipedia.org/wiki/SBS_러브FM "wikilink"))
   - [명연주 명음반](https://ko.wikipedia.org/wiki/명연주_명음반 "wikilink") (재방송) (3:00\~4:54) ([KBS 클래식FM](https://ko.wikipedia.org/wiki/KBS_클래식FM "wikilink"))

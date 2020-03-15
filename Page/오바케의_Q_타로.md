@@ -53,7 +53,7 @@ F와 Ⓐ 사이에서 일어난 권리 문제, 그 주위의 사람들에게 일
 
 ### 주연
 
-  - [Q타로](https://ko.wikipedia.org/wiki/Q타로 "wikilink")
+  - [Q타로](../Page/Q타로.md "wikilink")
 
 <!-- end list -->
 
@@ -70,7 +70,7 @@ F와 Ⓐ 사이에서 일어난 권리 문제, 그 주위의 사람들에게 일
   - 도론바
   - 하카세
   - [카미나리](https://ko.wikipedia.org/wiki/카미나리 "wikilink")
-  - [코이케](https://ko.wikipedia.org/wiki/코이케 "wikilink")
+  - [코이케](../Page/코이케.md "wikilink")
 
 ## 애니메이션판
 
@@ -116,12 +116,12 @@ F와 Ⓐ 사이에서 일어난 권리 문제, 그 주위의 사람들에게 일
 ## 같이 보기
 
   - [후지코 후지오 애니메이션 역사](https://ko.wikipedia.org/wiki/후지코_후지오_애니메이션_역사 "wikilink")
-  - [코이케](https://ko.wikipedia.org/wiki/코이케 "wikilink")
+  - [코이케](../Page/코이케.md "wikilink")
   - [갸하하 삼총사](https://ko.wikipedia.org/wiki/갸하하_삼총사 "wikilink")
   - [코이케의 이상한 생활](https://ko.wikipedia.org/wiki/코이케의_이상한_생활 "wikilink")
   - [극화 오바Q](https://ko.wikipedia.org/wiki/극화_오바Q "wikilink")
-  - [도라 Q 파만](https://ko.wikipedia.org/wiki/도라_Q_파만 "wikilink")
-  - [후지코 후지오 극장](https://ko.wikipedia.org/wiki/후지코_후지오_극장 "wikilink")
+  - [도라 Q 파만](../Page/도라_Q_파만.md "wikilink")
+  - [후지코 후지오 극장](../Page/후지코_후지오_극장.md "wikilink")
 
 ## 외부 링크
 

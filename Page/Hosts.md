@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Hosts](https://ko.wikipedia.org/wiki/Hosts).
 
 
-**hosts** 파일은 [운영 체제가](https://ko.wikipedia.org/wiki/운영_체제 "wikilink") [호스트 이름을](https://ko.wikipedia.org/wiki/호스트_이름 "wikilink") [IP 주소에](https://ko.wikipedia.org/wiki/IP_주소 "wikilink") 매핑할 때 사용하는 [컴퓨터 파일이다](https://ko.wikipedia.org/wiki/컴퓨터_파일 "wikilink"). 이 hosts 파일은 [플레인 텍스트](https://ko.wikipedia.org/wiki/플레인_텍스트 "wikilink") 파일이며 전통적으로 *hosts*라는 이름을 사용한다.
+**hosts** 파일은 [운영 체제가](https://ko.wikipedia.org/wiki/운영_체제 "wikilink") [호스트 이름을](https://ko.wikipedia.org/wiki/호스트_이름 "wikilink") [IP 주소에](https://ko.wikipedia.org/wiki/IP_주소 "wikilink") 매핑할 때 사용하는 [컴퓨터 파일이다](https://ko.wikipedia.org/wiki/컴퓨터_파일 "wikilink"). 이 hosts 파일은 [플레인 텍스트](../Page/플레인_텍스트.md "wikilink") 파일이며 전통적으로 *hosts*라는 이름을 사용한다.
 
 ## 파일 내용
 

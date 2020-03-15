@@ -17,7 +17,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/굿맨_스타디움" title="wikilink">굿맨 스타디움</a></p></td>
+<td><p><a href="../Page/굿맨_스타디움.md" title="wikilink">굿맨 스타디움</a></p></td>
 <td><p>2016년~현재</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/펜실베이니아주" title="wikilink">펜실베이니아주</a> <a href="https://ko.wikipedia.org/wiki/베슬리헴_(펜실베이니아주)" title="wikilink">베슬리헴</a></p></td>
 <td><p>베슬리헴 스틸 FC</p></td>
