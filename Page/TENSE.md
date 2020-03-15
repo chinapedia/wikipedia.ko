@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TENSE](https://ko.wikipedia.org/wiki/TENSE).
 
 
-《**TENSE**》는 그룹 [동방신기](https://ko.wikipedia.org/wiki/동방신기 "wikilink")의 일곱번째 정규 앨범이다. 동시에 데뷔 10주년을 기념하는 앨범이기도 한 이 음반의 제목인 **TENSE**는 '긴장된, 신경이 날카로운'이라는 사전적 의미와 10주년을 뜻하는 "10th"의 중의적 단어로 동방신기의 지난 역사와 10년간 정상의 자리를 지키며 활동해온 동방신기의 열정과 포부를 담았다.\[1\] 타이틀곡인 《**Something**》은 1집부터 줄곧 동방신기와 호흡을 맞춰왔던 [유영진](https://ko.wikipedia.org/wiki/유영진 "wikilink")과 그의 동생인 [유한진](https://ko.wikipedia.org/wiki/유한진 "wikilink")이 공동으로 작곡을 맡았으며 빅밴드 콘셉트를 내세워 그간 SMP 장르를 기반으로 선보여왔던 동방신기의 기존 타이틀곡들과는 다른 스타일의 매력을 엿볼 수 있다.
+《**TENSE**》는 그룹 [동방신기](https://ko.wikipedia.org/wiki/동방신기 "wikilink")의 일곱번째 정규 앨범이다. 동시에 데뷔 10주년을 기념하는 앨범이기도 한 이 음반의 제목인 **TENSE**는 '긴장된, 신경이 날카로운'이라는 사전적 의미와 10주년을 뜻하는 "10th"의 중의적 단어로 동방신기의 지난 역사와 10년간 정상의 자리를 지키며 활동해온 동방신기의 열정과 포부를 담았다.\[1\] 타이틀곡인 《**Something**》은 1집부터 줄곧 동방신기와 호흡을 맞춰왔던 [유영진](https://ko.wikipedia.org/wiki/유영진 "wikilink")과 그의 동생인 [유한진](../Page/유한진.md "wikilink")이 공동으로 작곡을 맡았으며 빅밴드 콘셉트를 내세워 그간 SMP 장르를 기반으로 선보여왔던 동방신기의 기존 타이틀곡들과는 다른 스타일의 매력을 엿볼 수 있다.
 
 ## 프로모션
 

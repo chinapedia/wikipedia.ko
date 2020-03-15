@@ -212,15 +212,15 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/콕스_파빌리온" title="wikilink">콕스 파빌리온</a><br />
+<td><p><a href="../Page/콕스_파빌리온.md" title="wikilink">콕스 파빌리온</a><br />
 (<a href="https://ko.wikipedia.org/wiki/네바다주" title="wikilink">네바다주</a> <a href="https://ko.wikipedia.org/wiki/패러다이스_(네바다주)" title="wikilink">패러다이스</a>)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/토머스_&amp;_맥_센터" title="wikilink">토머스 &amp; 맥 센터</a><br />
 (<a href="https://ko.wikipedia.org/wiki/네바다주" title="wikilink">네바다주</a> <a href="https://ko.wikipedia.org/wiki/패러다이스_(네바다주)" title="wikilink">패러다이스</a>)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/암웨이_센터" title="wikilink">암웨이 센터</a><br />
+<td><p><a href="../Page/암웨이_센터.md" title="wikilink">암웨이 센터</a><br />
 (<a href="https://ko.wikipedia.org/wiki/플로리다주" title="wikilink">플로리다주</a> <a href="https://ko.wikipedia.org/wiki/올랜도" title="wikilink">올랜도</a>)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/비빈트_스마트홈_아레나" title="wikilink">비빈트 스마트홈 아레나</a><br />
+<td><p><a href="../Page/비빈트_스마트홈_아레나.md" title="wikilink">비빈트 스마트홈 아레나</a><br />
 (<a href="https://ko.wikipedia.org/wiki/유타주" title="wikilink">유타주</a> <a href="https://ko.wikipedia.org/wiki/솔트레이크시티" title="wikilink">솔트레이크시티</a>)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/존_M._헌츠맨_센터" title="wikilink">존 M. 헌츠맨 센터</a><br />
+<td><p><a href="../Page/존_M._헌츠맨_센터.md" title="wikilink">존 M. 헌츠맨 센터</a><br />
 (<a href="https://ko.wikipedia.org/wiki/유타주" title="wikilink">유타주</a> <a href="https://ko.wikipedia.org/wiki/솔트레이크시티" title="wikilink">솔트레이크시티</a>)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/골든_1_센터" title="wikilink">골든 1 센터</a><br />
 (<a href="https://ko.wikipedia.org/wiki/캘리포니아주" title="wikilink">캘리포니아주</a> <a href="https://ko.wikipedia.org/wiki/새크라멘토" title="wikilink">새크라멘토</a>)</p></td>

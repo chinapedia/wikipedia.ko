@@ -25,13 +25,13 @@
 <tr class="odd">
 <td><p>코치</p></td>
 <td><div style="text-align: center;">
-<p> <a href="https://ko.wikipedia.org/wiki/윤희준" title="wikilink">윤희준</a></p></td>
+<p> <a href="../Page/윤희준.md" title="wikilink">윤희준</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>GK 코치</p></td>
 <td><div style="text-align: center;">
-<p> <a href="https://ko.wikipedia.org/wiki/김일진_(축구인)" title="wikilink">김일진</a></p></td>
+<p> <a href="../Page/김일진_(축구인).md" title="wikilink">김일진</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -320,7 +320,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/김성남_(축구인)" title="wikilink">김성남</a> (–2012년 7월)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/R리그_2016" title="wikilink">2016</a></p></td>
+<td><p><a href="../Page/R리그_2016.md" title="wikilink">2016</a></p></td>
 <td><p>A조 리그</p></td>
 <td><p><strong>우승 V5</strong></p></td>
 <td><p>8</p></td>
@@ -620,7 +620,7 @@
 ## 관련 항목
 
   - [FC 서울](https://ko.wikipedia.org/wiki/FC_서울 "wikilink")
-  - [FC 서울 아카데미](https://ko.wikipedia.org/wiki/FC_서울_아카데미 "wikilink")
+  - [FC 서울 아카데미](../Page/FC_서울_아카데미.md "wikilink")
   - [오산고등학교 축구부](https://ko.wikipedia.org/wiki/오산고등학교_축구부_\(서울\) "wikilink")
   - [오산중학교 축구부](https://ko.wikipedia.org/wiki/오산중학교_축구부_\(서울\) "wikilink")
   - [FC 서울 U-12팀](https://ko.wikipedia.org/wiki/FC_서울_U-12팀 "wikilink")

@@ -5,7 +5,7 @@
 
 ## 음반
 
-총 6곡이 수록된 음반으로 5000장 한정 발매되었으며 각각 일련번호가 매겨져있다. 첫 곡〈Bird〉에서는 옥상달빛의 대학교 선배이자 [MBC FM4U의](https://ko.wikipedia.org/wiki/MBC_FM4U "wikilink") 라디오 프로그램 《[옹달샘과 꿈꾸는 라디오](https://ko.wikipedia.org/wiki/꿈꾸는_라디오 "wikilink")》에서 인연을 맺게 된 [코미디언](https://ko.wikipedia.org/wiki/코미디언 "wikilink") [유세윤](https://ko.wikipedia.org/wiki/유세윤 "wikilink")이 참여하였다.
+총 6곡이 수록된 음반으로 5000장 한정 발매되었으며 각각 일련번호가 매겨져있다. 첫 곡〈Bird〉에서는 옥상달빛의 대학교 선배이자 [MBC FM4U의](https://ko.wikipedia.org/wiki/MBC_FM4U "wikilink") 라디오 프로그램 《[옹달샘과 꿈꾸는 라디오](../Page/꿈꾸는_라디오.md "wikilink")》에서 인연을 맺게 된 [코미디언](https://ko.wikipedia.org/wiki/코미디언 "wikilink") [유세윤](https://ko.wikipedia.org/wiki/유세윤 "wikilink")이 참여하였다.
 
 ## 수록곡
 

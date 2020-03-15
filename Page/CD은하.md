@@ -7,7 +7,7 @@
 
 cD형은 D형과 같이 현재도 쓰이는 [여키스 은하 분류의](https://ko.wikipedia.org/wiki/은하_형태_분류#여키스_체계 "wikilink") 두 분류 중 하나이다.\[5\] "cD"에서 "c"는 은하가 매우 크다는 사실, 즉 초거대(*supergiant*)를 의미하고, "D"는 은하가 확산되어 보인다는 사실을 의미한다.\[6\] "cD"의 역성어로 자주 중심지배은하(*central Dominant*)를 의미하는데 쓰인다.\[7\] cD은하는 흔히 가장 거대한 은하로 간주되고 있기도 하다.\[8\]\[9\]
 
-cD은하는 [렌즈상은하](https://ko.wikipedia.org/wiki/렌즈상_은하 "wikilink")(S0)나 [타원은하](https://ko.wikipedia.org/wiki/타원은하 "wikilink")(E\#)와 유사해 보이지만, 일부는 반지름이 백만 [광년](https://ko.wikipedia.org/wiki/광년 "wikilink")을 넘는 외포층을 가지고 있는 만큼 몇배나 크다.\[10\] 이들은 낮은표면밝기의 거대한 외포층을 가지는 타원처럼 보인다.\[11\] 현재 cD은하는 [은하병합](https://ko.wikipedia.org/wiki/은하병합 "wikilink")의 결과로 여겨지고 있다.\[12\] 일부 cD은하는 다중 [은하핵](https://ko.wikipedia.org/wiki/은하핵 "wikilink")을 가지고 있다.\[13\] cD은하는 은하단의 [가장 밝은 은하단 은하](https://ko.wikipedia.org/wiki/가장_밝은_은하단_은하 "wikilink")(BCG)로 자주 발견된다.\[14\] 많은 [화석 은하군](https://ko.wikipedia.org/wiki/화석_은하군 "wikilink") 은하는 cD BCG 은하와 유사하다. 이는 일부에게 화석 은하군의 형성 결과가 cD은하이고, 이후 새로운 은하단이 화석 은하군 근처에 응집한다는 가설화로 이어진다.\[15\] 그러나, cD은하 그 자체는 화석 은하군과는 달리 [낱은하](https://ko.wikipedia.org/wiki/낱은하 "wikilink")로 발견되지 않는다.\[16\] cD은하의 약 20%는 BCG이다.\[17\]
+cD은하는 [렌즈상은하](https://ko.wikipedia.org/wiki/렌즈상_은하 "wikilink")(S0)나 [타원은하](https://ko.wikipedia.org/wiki/타원은하 "wikilink")(E\#)와 유사해 보이지만, 일부는 반지름이 백만 [광년](https://ko.wikipedia.org/wiki/광년 "wikilink")을 넘는 외포층을 가지고 있는 만큼 몇배나 크다.\[10\] 이들은 낮은표면밝기의 거대한 외포층을 가지는 타원처럼 보인다.\[11\] 현재 cD은하는 [은하병합](https://ko.wikipedia.org/wiki/은하병합 "wikilink")의 결과로 여겨지고 있다.\[12\] 일부 cD은하는 다중 [은하핵](https://ko.wikipedia.org/wiki/은하핵 "wikilink")을 가지고 있다.\[13\] cD은하는 은하단의 [가장 밝은 은하단 은하](../Page/가장_밝은_은하단_은하.md "wikilink")(BCG)로 자주 발견된다.\[14\] 많은 [화석 은하군](https://ko.wikipedia.org/wiki/화석_은하군 "wikilink") 은하는 cD BCG 은하와 유사하다. 이는 일부에게 화석 은하군의 형성 결과가 cD은하이고, 이후 새로운 은하단이 화석 은하군 근처에 응집한다는 가설화로 이어진다.\[15\] 그러나, cD은하 그 자체는 화석 은하군과는 달리 [낱은하](https://ko.wikipedia.org/wiki/낱은하 "wikilink")로 발견되지 않는다.\[16\] cD은하의 약 20%는 BCG이다.\[17\]
 
 ## 성장
 
@@ -28,7 +28,7 @@ cD은하는 은하단을 정의하는데 이용되기도 한다. 중심에 cD은
   - [IC 1101](https://ko.wikipedia.org/wiki/IC_1101 "wikilink"), 직경(약 550만 광년)이 가장 큰 것으로 알려진 은하\[31\]\[32\]\[33\]
   - [메시에 87](https://ko.wikipedia.org/wiki/메시에_87 "wikilink") - [처녀자리 은하단의](https://ko.wikipedia.org/wiki/처녀자리_은하단 "wikilink") 중심 은하
   - [NGC 1399](https://ko.wikipedia.org/wiki/NGC_1399 "wikilink") - [화로자리 은하단에](https://ko.wikipedia.org/wiki/화로자리_은하단 "wikilink") 있다.
-  - [NGC 4889](https://ko.wikipedia.org/wiki/NGC_4889 "wikilink") - [머리털자리](https://ko.wikipedia.org/wiki/머리털자리 "wikilink")의 E4형 타원은하로 초거대은하 콜드웰 35로 알려져 있기도 하다. [콜드웰 천체](https://ko.wikipedia.org/wiki/콜드웰_목록 "wikilink") 중에서 가장 밝다.
+  - [NGC 4889](../Page/NGC_4889.md "wikilink") - [머리털자리](https://ko.wikipedia.org/wiki/머리털자리 "wikilink")의 E4형 타원은하로 초거대은하 콜드웰 35로 알려져 있기도 하다. [콜드웰 천체](../Page/콜드웰_목록.md "wikilink") 중에서 가장 밝다.
   - [QSO 0957](https://ko.wikipedia.org/wiki/QSO_0957 "wikilink") - 처음으로 발견된 중력렌즈 천체
 
 ## 같이 보기

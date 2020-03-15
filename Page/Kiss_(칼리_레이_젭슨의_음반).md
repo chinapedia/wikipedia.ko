@@ -9,7 +9,7 @@
 2.  "[This Kiss](https://ko.wikipedia.org/wiki/This_Kiss_\(칼리_레이_젭슨의_노래\) "wikilink")" — 3:51
 3.  "[Call Me Maybe](https://ko.wikipedia.org/wiki/Call_Me_Maybe "wikilink")" — 3:14
 4.  "[Curiosity](https://ko.wikipedia.org/wiki/Curiosity_\(칼리_레이_젭슨의_노래\) "wikilink")" — 3:35
-5.  "[Good Time](https://ko.wikipedia.org/wiki/Good_Time_\(아울_시티와_칼리_레이_젭슨의_노래\) "wikilink")" — 3:26
+5.  "[Good Time](../Page/Good_Time_\(아울_시티와_칼리_레이_젭슨의_노래\).md "wikilink")" — 3:26
 6.  "More Than a Memory" — 4:03
 7.  "Turn Me Up" — 3:46
 8.  "Hurt So Good" — 3:11

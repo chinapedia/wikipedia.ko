@@ -13,7 +13,7 @@
 
 #### 흡입제
 
-  - [할로세인](https://ko.wikipedia.org/wiki/할로세인 "wikilink")
+  - [할로세인](../Page/할로세인.md "wikilink")
   - [이소플루란](https://ko.wikipedia.org/wiki/이소플루란 "wikilink")
   - [아산화질소](https://ko.wikipedia.org/wiki/아산화질소 "wikilink")
   - [산소](https://ko.wikipedia.org/wiki/산소 "wikilink")
@@ -25,7 +25,7 @@
 
 ### 국소마취제
 
-  - [부피바카인](https://ko.wikipedia.org/wiki/부피바카인 "wikilink")
+  - [부피바카인](../Page/부피바카인.md "wikilink")
   - [리도카인](https://ko.wikipedia.org/wiki/리도카인 "wikilink")
   - [리도카인](https://ko.wikipedia.org/wiki/리도카인 "wikilink") + [에피네프린](https://ko.wikipedia.org/wiki/에피네프린 "wikilink")
   - [에페드린](https://ko.wikipedia.org/wiki/에페드린 "wikilink")
@@ -33,7 +33,7 @@
 ### 수술 전 치료 및 단기 술기를 위한 진정제
 
   - [아트로핀](https://ko.wikipedia.org/wiki/아트로핀 "wikilink")
-  - [미다졸람](https://ko.wikipedia.org/wiki/미다졸람 "wikilink")
+  - [미다졸람](../Page/미다졸람.md "wikilink")
   - [모르핀](https://ko.wikipedia.org/wiki/모르핀 "wikilink")
 
 ## 통증 완화 및 완화 치료 제제
@@ -62,7 +62,7 @@
   - [락툴로오즈](https://ko.wikipedia.org/wiki/락툴로오즈 "wikilink")
   - [로페라미드](https://ko.wikipedia.org/wiki/로페라미드 "wikilink")
   - [메토클로프라미드](https://ko.wikipedia.org/wiki/메토클로프라미드 "wikilink")
-  - [미다졸람](https://ko.wikipedia.org/wiki/미다졸람 "wikilink")
+  - [미다졸람](../Page/미다졸람.md "wikilink")
   - [온단세트론](https://ko.wikipedia.org/wiki/온단세트론 "wikilink")
   - [센나](https://ko.wikipedia.org/wiki/센나 "wikilink")
 
@@ -85,7 +85,7 @@
   - [아세틸시스테인](https://ko.wikipedia.org/wiki/아세틸시스테인 "wikilink")
   - [아트로핀](https://ko.wikipedia.org/wiki/아트로핀 "wikilink")
   - [글루콘산염](https://ko.wikipedia.org/wiki/글루콘산염 "wikilink")
-  - [메틸렌 블루](https://ko.wikipedia.org/wiki/메틸렌_블루 "wikilink")
+  - [메틸렌 블루](../Page/메틸렌_블루.md "wikilink")
   - [날록손](https://ko.wikipedia.org/wiki/날록손 "wikilink")
   - [페니실라민](https://ko.wikipedia.org/wiki/페니실라민 "wikilink")
   - [프러시안 블루](https://ko.wikipedia.org/wiki/프러시안_블루 "wikilink")
@@ -168,7 +168,7 @@
   - [술파메톡사졸 + 트리메토프림](https://ko.wikipedia.org/wiki/트리메토프림/술파메톡사졸 "wikilink")
   - [트리메토프림](https://ko.wikipedia.org/wiki/트리메토프림 "wikilink")
   - [클린다마이신](https://ko.wikipedia.org/wiki/클린다마이신 "wikilink")
-  - [반코마이신](https://ko.wikipedia.org/wiki/반코마이신 "wikilink")
+  - [반코마이신](../Page/반코마이신.md "wikilink")
 
 #### 항[나제](https://ko.wikipedia.org/wiki/나병 "wikilink")
 
@@ -252,7 +252,7 @@
 
 의심되거나 확정된 인플루엔자 바이러스 감염으로 인한 잠재적으로 심각하거나 합병증이 있는 경우 WHO 가이드라인에 따라 처방된다.</ref>
 
-  - [리바비린](https://ko.wikipedia.org/wiki/리바비린 "wikilink")\[22\]
+  - [리바비린](../Page/리바비린.md "wikilink")\[22\]
   - [페그인터페론 알파](https://ko.wikipedia.org/wiki/페그인터페론_알파 "wikilink") ([2a](https://ko.wikipedia.org/wiki/페그인터페론_알파-2a "wikilink") 또는 [2b](https://ko.wikipedia.org/wiki/페그인터페론_알파-2b "wikilink")) \[23\]
 
 ### 항원충제
@@ -484,7 +484,7 @@
   - [미코나졸](https://ko.wikipedia.org/wiki/미코나졸 "wikilink")
   - [황화셀레늄](https://ko.wikipedia.org/wiki/황화셀레늄 "wikilink")
   - [치오황산나트륨](https://ko.wikipedia.org/wiki/치오황산나트륨 "wikilink")
-  - [테르비나핀](https://ko.wikipedia.org/wiki/테르비나핀 "wikilink")
+  - [테르비나핀](../Page/테르비나핀.md "wikilink")
 
 ### 항감염제
 
@@ -501,7 +501,7 @@
 ### 피부 변화 및 증식을 일으키는 약물
 
   - [벤조일퍼옥시드](https://ko.wikipedia.org/wiki/벤조일퍼옥시드 "wikilink")
-  - [콜타르](https://ko.wikipedia.org/wiki/콜타르 "wikilink")
+  - [콜타르](../Page/콜타르.md "wikilink")
   - [플루오로우라실](https://ko.wikipedia.org/wiki/플루오로우라실 "wikilink")
   - [포도필린](https://ko.wikipedia.org/wiki/포도필린 "wikilink")
   - [살리실산](https://ko.wikipedia.org/wiki/살리실산 "wikilink")
@@ -516,7 +516,7 @@
 
 ### 안과
 
-  - [플루오레세인](https://ko.wikipedia.org/wiki/플루오레세인 "wikilink")
+  - [플루오레세인](../Page/플루오레세인.md "wikilink")
   - [트로픽아미드](https://ko.wikipedia.org/wiki/트로픽아미드 "wikilink")
 
 ### 조영제
@@ -554,7 +554,7 @@
 
 ### 항궤양제
 
-  - [오메프라졸](https://ko.wikipedia.org/wiki/오메프라졸 "wikilink")
+  - [오메프라졸](../Page/오메프라졸.md "wikilink")
   - [라니티딘](https://ko.wikipedia.org/wiki/라니티딘 "wikilink")
 
 ### 항구토제
@@ -624,7 +624,7 @@
   - [글루카곤](https://ko.wikipedia.org/wiki/글루카곤 "wikilink")
   - [인슐린](https://ko.wikipedia.org/wiki/인슐린 "wikilink") 주사
   - 중간형 [인슐린](https://ko.wikipedia.org/wiki/인슐린 "wikilink")
-  - [메트포르민](https://ko.wikipedia.org/wiki/메트포르민 "wikilink")
+  - [메트포르민](../Page/메트포르민.md "wikilink")
 
 ### 배란 유도제
 
@@ -748,7 +748,7 @@
   - [클로르프로마진](https://ko.wikipedia.org/wiki/클로르프로마진 "wikilink")
   - [플루페나진](https://ko.wikipedia.org/wiki/플루페나진 "wikilink")
   - [할로페리돌](https://ko.wikipedia.org/wiki/할로페리돌 "wikilink")
-  - [리스페리돈](https://ko.wikipedia.org/wiki/리스페리돈 "wikilink")
+  - [리스페리돈](../Page/리스페리돈.md "wikilink")
   - [클로자핀](../Page/클로자핀.md "wikilink")
 
 ### 기분 장애에 쓰이는 제제
@@ -889,7 +889,7 @@
 13. 프로카인 벤질페니실린을 잘 훈련된 의료인이 있는 병원간호가 불가능한 상황에서 신생아 사망률이 매우 높을 때 신생아패혈증에 1차 치료제로 사용하는 것은 추천되지 않는다.
 14. 입원한 신생아에는 3세대 [세팔로스포린](https://ko.wikipedia.org/wiki/세팔로스포린 "wikilink") 사용을 고려할 수 있다.
 15. 삶이 위험한 의증 혹은 증명된 다제내성감염-원내감염 환자의 치료에만 사용하도록 등재되어 있다.
-16. 질 [클라미디아](https://ko.wikipedia.org/wiki/클라미디아 "wikilink") 감염 및 [트라코마](https://ko.wikipedia.org/wiki/트라코마 "wikilink") 치료의 1회 요법으로만 등재되어 있다.
+16. 질 [클라미디아](https://ko.wikipedia.org/wiki/클라미디아 "wikilink") 감염 및 [트라코마](../Page/트라코마.md "wikilink") 치료의 1회 요법으로만 등재되어 있다.
 17. 성인 [헬리코박터 파일로리균의](https://ko.wikipedia.org/wiki/헬리코박터_파일로리 "wikilink") 박멸을 위해 결합 처방된다.
 18. 프로치온아미드가 대체약물이 될 수 있다.
 19. FTC는 약학적 근거 및 저항 패턴과 항바이러스제 임상패턴으로 볼 때 3TC의 수용 가능한 대체제이다.

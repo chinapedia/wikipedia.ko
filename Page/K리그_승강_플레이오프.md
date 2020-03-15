@@ -19,7 +19,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/K리그_승강_플레이오프_2013" title="wikilink">2013</a></p></td>
+<td><p><a href="../Page/K리그_승강_플레이오프_2013.md" title="wikilink">2013</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/강원_FC" title="wikilink">강원 FC</a></p></td>
 <td><p><strong>2 - 4</strong><br />
 <small>(1 - 4)</small><br />
@@ -29,7 +29,7 @@
 강등: <a href="https://ko.wikipedia.org/wiki/강원_FC" title="wikilink">강원 FC</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/K리그_승강_플레이오프_2014" title="wikilink">2014</a></p></td>
+<td><p><a href="../Page/K리그_승강_플레이오프_2014.md" title="wikilink">2014</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/경남_FC" title="wikilink">경남 FC</a></p></td>
 <td><p><strong>2 - 4</strong><br />
 <small>(1 - 3)</small><br />
@@ -39,7 +39,7 @@
 강등: <a href="https://ko.wikipedia.org/wiki/경남_FC" title="wikilink">경남 FC</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/K리그_승강_플레이오프_2015" title="wikilink">2015</a></p></td>
+<td><p><a href="../Page/K리그_승강_플레이오프_2015.md" title="wikilink">2015</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/부산_아이파크" title="wikilink">부산 아이파크</a></p></td>
 <td><p><strong>0 - 3</strong><br />
 <small>(0 - 1)</small><br />

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ FH](https://ko.wikipedia.org/wiki/_FH).
 
 
-**볼보 FH**는 [볼보트럭](https://ko.wikipedia.org/wiki/볼보트럭 "wikilink")()에서 생산하는 대형 트럭 시리즈이다. 1993년 말에 볼보가 **F**로 이름 붙여진 [캡오버 엔진](https://ko.wikipedia.org/wiki/캡오버_엔진 "wikilink") 대형트럭 시리즈를 발표\[1\]하고, FH12와 FH16으로 첫 시판되었으며, 2세대부터 FH 라인업이 구축되어 현재까지 생산되고 있다. **FH**는 **F**oward control**H**igh entry 이라는 뜻이며, 엔진의 배기량(12L, 16L)에 따라 숫자가 붙여진다.\[2\]
+**볼보 FH**는 [볼보트럭](../Page/볼보트럭.md "wikilink")()에서 생산하는 대형 트럭 시리즈이다. 1993년 말에 볼보가 **F**로 이름 붙여진 [캡오버 엔진](https://ko.wikipedia.org/wiki/캡오버_엔진 "wikilink") 대형트럭 시리즈를 발표\[1\]하고, FH12와 FH16으로 첫 시판되었으며, 2세대부터 FH 라인업이 구축되어 현재까지 생산되고 있다. **FH**는 **F**oward control**H**igh entry 이라는 뜻이며, 엔진의 배기량(12L, 16L)에 따라 숫자가 붙여진다.\[2\]
 
 ## 1세대 ([1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink")\~[1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink"))
 
@@ -9,11 +9,11 @@
 
 ### 버전 98 ([1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink")\~[2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink"))
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Volvo_FH12_at_a_Yorkshire_event.jpg "wikilink") [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink")에 [FM](https://ko.wikipedia.org/wiki/볼보_FM "wikilink") 시리즈가 출시\[3\]됨과 함께, 캡의 마이너 체인지와 엔진과 기어박스의 업그레이드가 이루어졌다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Volvo_FH12_at_a_Yorkshire_event.jpg "wikilink") [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink")에 [FM](../Page/볼보_FM.md "wikilink") 시리즈가 출시\[3\]됨과 함께, 캡의 마이너 체인지와 엔진과 기어박스의 업그레이드가 이루어졌다.
 
 ## 2세대 ([2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink")\~현재)
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Volvo_FH_Glober.jpg "wikilink") [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink")에, 파워트레인과 캡이 풀 모델 체인지된 FH와 [FM](https://ko.wikipedia.org/wiki/볼보_FM "wikilink") 시리즈가 발표되었다.\[4\] 6억 유로의 개발 비용이 소모\[5\]되었으며, 이 페이스리프트에는 공기역학에 맞춰 완전히 재디자인된 캡, 새로운 자동변속기(*I-Shift*)와 전력 시스템, 엔진 성능 개선 등이 포함되어 있다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Volvo_FH_Glober.jpg "wikilink") [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink")에, 파워트레인과 캡이 풀 모델 체인지된 FH와 [FM](../Page/볼보_FM.md "wikilink") 시리즈가 발표되었다.\[4\] 6억 유로의 개발 비용이 소모\[5\]되었으며, 이 페이스리프트에는 공기역학에 맞춰 완전히 재디자인된 캡, 새로운 자동변속기(*I-Shift*)와 전력 시스템, 엔진 성능 개선 등이 포함되어 있다.
 
 ### FH16 인텔리전트 파워
 
@@ -23,7 +23,7 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:D13_engine.jpg "wikilink") [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink")에 새로운 13리터(D13A) 엔진이 발표\[9\]되었으며, D13A 엔진에는 밀폐식 크랭크식 환기 기능과 델파이의 새로운 타입의 유닛 인젝터가 포함되어 있다.\[10\] 이 시점부터 모델의 네이밍 방식에서 *FH* 글자 뒤의 배기량 숫자가 삭제되었다. 그리고 [SCR](https://ko.wikipedia.org/wiki/SCR "wikilink")이 장착된 D13A 엔진도 함께 발표되었으며, 360마력, 400마력, 440마력, 480마력의 네 가지 버전이 존재했다.
 
-[2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink")에 [EGR](https://ko.wikipedia.org/wiki/EGR "wikilink")(배기가스 재순환 장치)과 VGT 터보차저가 탑재된 D13B 엔진이 발표\[11\]되었으며, 360마력, 400마력, 440마력, 500마력의 네 가지 버전이 존재했다. 또한, 500마력을 제외한 모든 세 가지 엔진 라인업은 [볼보 FM](https://ko.wikipedia.org/wiki/볼보_FM "wikilink") 시리즈와 공유되었다. [섬네일](https://ko.wikipedia.org/wiki/파일:FH16_Close_up.JPG "wikilink")
+[2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink")에 [EGR](https://ko.wikipedia.org/wiki/EGR "wikilink")(배기가스 재순환 장치)과 VGT 터보차저가 탑재된 D13B 엔진이 발표\[11\]되었으며, 360마력, 400마력, 440마력, 500마력의 네 가지 버전이 존재했다. 또한, 500마력을 제외한 모든 세 가지 엔진 라인업은 [볼보 FM](../Page/볼보_FM.md "wikilink") 시리즈와 공유되었다. [섬네일](https://ko.wikipedia.org/wiki/파일:FH16_Close_up.JPG "wikilink")
 
 ### FH/FH16 Mk.II ([2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink")\~현재)
 
@@ -35,7 +35,7 @@
 
 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 9월에, 새로운 [유로 6](https://ko.wikipedia.org/wiki/유럽_자동차_배출가스_규제_기준 "wikilink") 기준을 충족하는 D13K 엔진\[20\], 새로운 캡 디자인과 그 외의 전면적인 기술적 업그레이드가 이루어진 3세대 FH 시리즈가 출시되었다.\[21\] 유로 6 버전의 D13K 엔진이 먼저 출시되었으며, 그 후 유로 6 버전의 D16K 엔진이 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [4월 1일에](https://ko.wikipedia.org/wiki/4월_1일 "wikilink") 출시되었다.\[22\]
 
-[대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")을 포함한 아시아 지역에서는 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [5월 12일에](https://ko.wikipedia.org/wiki/5월_12일 "wikilink") [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서 새로운 볼보 FH, [볼보 FM](https://ko.wikipedia.org/wiki/볼보_FM "wikilink"), [볼보 FMX](https://ko.wikipedia.org/wiki/볼보_FMX "wikilink") 모델 3종을 동시에 공개하며 판매를 개시했다.\[23\] 다만 이 때는 이전의 유로 5 엔진을 탑재하여 출시되었으며, 이후 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [5월 3일](https://ko.wikipedia.org/wiki/5월_3일 "wikilink") 유로 6 엔진을 탑재한 모델 라인업을 공개했고\[24\] D16K 엔진을 탑재한 FH16 750마력도 함께 출시되었다.\[25\] [섬네일](https://ko.wikipedia.org/wiki/파일:2013_Volvo_FH16_540_demotruck.jpg "wikilink")
+[대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")을 포함한 아시아 지역에서는 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [5월 12일에](https://ko.wikipedia.org/wiki/5월_12일 "wikilink") [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서 새로운 볼보 FH, [볼보 FM](../Page/볼보_FM.md "wikilink"), [볼보 FMX](../Page/볼보_FMX.md "wikilink") 모델 3종을 동시에 공개하며 판매를 개시했다.\[23\] 다만 이 때는 이전의 유로 5 엔진을 탑재하여 출시되었으며, 이후 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [5월 3일](https://ko.wikipedia.org/wiki/5월_3일 "wikilink") 유로 6 엔진을 탑재한 모델 라인업을 공개했고\[24\] D16K 엔진을 탑재한 FH16 750마력도 함께 출시되었다.\[25\] [섬네일](https://ko.wikipedia.org/wiki/파일:2013_Volvo_FH16_540_demotruck.jpg "wikilink")
 
 ## 각주
 

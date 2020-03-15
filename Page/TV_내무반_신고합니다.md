@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TV  ](https://ko.wikipedia.org/wiki/TV__).
 
 
-**TV 내무반 신고합니다**는 [KBS 1TV에서](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 매주 월요일에 종영 방송된 공중파 유일의 위문 공연 프로그램이다. [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") [10월 12일부터](https://ko.wikipedia.org/wiki/10월_12일 "wikilink")\[1\] [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [5월 12일까지](https://ko.wikipedia.org/wiki/5월_12일 "wikilink") 5년간 [KBS 1TV에서](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방영되었으며, [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [5월 19일부터](https://ko.wikipedia.org/wiki/5월_19일 "wikilink") 제목을 "**[청춘\! 신고합니다](https://ko.wikipedia.org/wiki/청춘!_신고합니다 "wikilink")**"로 바꿨다가, [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [4월 26일에](https://ko.wikipedia.org/wiki/4월_26일 "wikilink") 종영하였다.\[2\]
+**TV 내무반 신고합니다**는 [KBS 1TV에서](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 매주 월요일에 종영 방송된 공중파 유일의 위문 공연 프로그램이다. [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") [10월 12일부터](https://ko.wikipedia.org/wiki/10월_12일 "wikilink")\[1\] [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [5월 12일까지](https://ko.wikipedia.org/wiki/5월_12일 "wikilink") 5년간 [KBS 1TV에서](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방영되었으며, [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [5월 19일부터](https://ko.wikipedia.org/wiki/5월_19일 "wikilink") 제목을 "**[청춘\! 신고합니다](../Page/청춘!_신고합니다.md "wikilink")**"로 바꿨다가, [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [4월 26일에](https://ko.wikipedia.org/wiki/4월_26일 "wikilink") 종영하였다.\[2\]
 
 ## 역대 방송시간
 

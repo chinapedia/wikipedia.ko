@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Happiness \( \)](https://ko.wikipedia.org/wiki/Happiness_\(_\)).
 
 
-**Happiness**(해피니스)는, [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [여성](https://ko.wikipedia.org/wiki/여성 "wikilink") [댄스](https://ko.wikipedia.org/wiki/춤 "wikilink")&[보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink") [그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). 소속 사무소는 [LDH](https://ko.wikipedia.org/wiki/LDH_\(기업\) "wikilink"). 레이블은 [rhythm zone](https://ko.wikipedia.org/wiki/리듬존 "wikilink").
+**Happiness**(해피니스)는, [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [여성](https://ko.wikipedia.org/wiki/여성 "wikilink") [댄스](https://ko.wikipedia.org/wiki/춤 "wikilink")&[보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink") [그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). 소속 사무소는 [LDH](../Page/LDH_\(기업\).md "wikilink"). 레이블은 [rhythm zone](https://ko.wikipedia.org/wiki/리듬존 "wikilink").
 
 ## 약력
 
-2008년 10월, 예능 사무소 LDH가 운영하는 댄스 스쿨 EXPG로부터, SAYAKA, MIMU, [KAEDE](https://ko.wikipedia.org/wiki/카에데 "wikilink"), [KAREN](../Page/후지이_카렌.md "wikilink"), MIYUU의 5명이서 결성. [EXILE](https://ko.wikipedia.org/wiki/EXILE "wikilink")의 라이브 투어에 서포트 멤버로서 참가하는 등 활동을 개시한다.
+2008년 10월, 예능 사무소 LDH가 운영하는 댄스 스쿨 EXPG로부터, SAYAKA, MIMU, [KAEDE](../Page/카에데.md "wikilink"), [KAREN](../Page/후지이_카렌.md "wikilink"), MIYUU의 5명이서 결성. [EXILE](https://ko.wikipedia.org/wiki/EXILE "wikilink")의 라이브 투어에 서포트 멤버로서 참가하는 등 활동을 개시한다.
 
 2009년 7월, 〈LDH DREAM GIRLS AUDITION 2008〉에서 준 그랑프리를 수상한 YURINO가 가입한다. 10월, DVD 싱글 〈Happy Talk〉으로 인디즈 데뷔. 12월, 〈Happiness 보컬 오디션〉에서 합격한 MAYU가 가입.
 
@@ -45,7 +45,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/카에데" title="wikilink">카에데</a></p></td>
+<td><p><a href="../Page/카에데.md" title="wikilink">카에데</a></p></td>
 <td></td>
 <td></td>
 </tr>

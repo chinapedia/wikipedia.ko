@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [HDC](https://ko.wikipedia.org/wiki/HDC).
 
 
-**호텔HDC**()은 [호텔](https://ko.wikipedia.org/wiki/호텔 "wikilink")을 운영 및 개발하는 [HDC그룹](https://ko.wikipedia.org/wiki/HDC그룹 "wikilink")의 계열사로 대표이사는 김대중이다. [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink") 호텔아이파크주식회사를 창립하여 하얏트 체인인 [파크 하얏트 서울과](https://ko.wikipedia.org/wiki/파크_하얏트_서울 "wikilink") [파크 하얏트 부산의](https://ko.wikipedia.org/wiki/파크_하얏트_부산 "wikilink") 특1급 호텔과 안다즈 서울 강남, 정선 파크로쉬 리조트, 속초 아이파크콘도를 운영하고 있다.
+**호텔HDC**()은 [호텔](https://ko.wikipedia.org/wiki/호텔 "wikilink")을 운영 및 개발하는 [HDC그룹](https://ko.wikipedia.org/wiki/HDC그룹 "wikilink")의 계열사로 대표이사는 김대중이다. [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink") 호텔아이파크주식회사를 창립하여 하얏트 체인인 [파크 하얏트 서울과](https://ko.wikipedia.org/wiki/파크_하얏트_서울 "wikilink") [파크 하얏트 부산의](../Page/파크_하얏트_부산.md "wikilink") 특1급 호텔과 안다즈 서울 강남, 정선 파크로쉬 리조트, 속초 아이파크콘도를 운영하고 있다.
 
 ## 연혁
 
@@ -29,7 +29,7 @@
 <!-- end list -->
 
   -
-    [파크 하얏트 부산](https://ko.wikipedia.org/wiki/파크_하얏트_부산 "wikilink")()은 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [2월 18일](https://ko.wikipedia.org/wiki/2월_18일 "wikilink") [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink") [해운대구](https://ko.wikipedia.org/wiki/해운대구 "wikilink") [우동](https://ko.wikipedia.org/wiki/우동 "wikilink")에 개관. 지하6층, 지상33층으로 구성되어 있으며 스위트룸 69실을 포함한 총269실의 객실과 4개의 식음료장, 10개의 연회장 외에도 스파, 피트니스 수영장 등의 부대시설이 있음. 건축가 다니엘 리베스킨트(Daniel Libeskind)가 설계를, 수퍼포테이토(Super Potato)가 인테리어를 담당.
+    [파크 하얏트 부산](../Page/파크_하얏트_부산.md "wikilink")()은 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [2월 18일](https://ko.wikipedia.org/wiki/2월_18일 "wikilink") [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink") [해운대구](https://ko.wikipedia.org/wiki/해운대구 "wikilink") [우동](https://ko.wikipedia.org/wiki/우동 "wikilink")에 개관. 지하6층, 지상33층으로 구성되어 있으며 스위트룸 69실을 포함한 총269실의 객실과 4개의 식음료장, 10개의 연회장 외에도 스파, 피트니스 수영장 등의 부대시설이 있음. 건축가 다니엘 리베스킨트(Daniel Libeskind)가 설계를, 수퍼포테이토(Super Potato)가 인테리어를 담당.
 
 <!-- end list -->
 
@@ -66,7 +66,7 @@
 
   -
     [파크 하얏트 서울](https://ko.wikipedia.org/wiki/파크_하얏트_서울 "wikilink") 2005년 4월 개관, 객실 185실, 연회장 6개, 식당 4개, 연면적 22,999m<sup>2</sup>
-    [파크 하얏트 부산](https://ko.wikipedia.org/wiki/파크_하얏트_부산 "wikilink") 2013년 2월 개관, 객실 269실, 연회장 10개, 식당 4개, 연면적 49,280m<sup>2</sup>
+    [파크 하얏트 부산](../Page/파크_하얏트_부산.md "wikilink") 2013년 2월 개관, 객실 269실, 연회장 10개, 식당 4개, 연면적 49,280m<sup>2</sup>
     안다즈 서울 강남 2019년 9월 개관, 객실 241실, 연회장 5개, 식당 5개, 연면적 42,364m<sup>2</sup>
 
 <!-- end list -->
@@ -93,6 +93,6 @@
   - [HDC현대산업개발](https://ko.wikipedia.org/wiki/HDC현대산업개발 "wikilink")
   - [아이파크](https://ko.wikipedia.org/wiki/아이파크 "wikilink")
   - [파크 하얏트 서울](https://ko.wikipedia.org/wiki/파크_하얏트_서울 "wikilink")
-  - [파크 하얏트 부산](https://ko.wikipedia.org/wiki/파크_하얏트_부산 "wikilink")
+  - [파크 하얏트 부산](../Page/파크_하얏트_부산.md "wikilink")
 
 [분류:HDC그룹](https://ko.wikipedia.org/wiki/분류:HDC그룹 "wikilink")

@@ -3,7 +3,7 @@
 
 **MAVEN** (**M**ars **A**tmosphere and **V**olatile **E**volutio**N**) 은 [화성](https://ko.wikipedia.org/wiki/화성 "wikilink") [궤도](https://ko.wikipedia.org/wiki/궤도 "wikilink")에 머무르며 [화성의 대기](https://ko.wikipedia.org/wiki/화성의_대기 "wikilink") 조사와 연구를 진행하는 탐사선으로 [화성의 대기와](https://ko.wikipedia.org/wiki/화성의_대기 "wikilink") 화성의 물이 존재하게 된 배경을 알아내는 것이 주 목적이다.\[1\]\[2\]\[3\]\[4\]\[5\]
 
-MAVEN은 [애틀러스 V](https://ko.wikipedia.org/wiki/애틀러스_V "wikilink") 로켓에 탑재되어 2013년 11월 18일에 성공적으로 발사되었다. 1단 로켓 연소가 끝난 직후에 2단 로켓인 [센타우르](https://ko.wikipedia.org/wiki/센타우르 "wikilink")가 점화되어 [지구 저궤도에](https://ko.wikipedia.org/wiki/지구_저궤도 "wikilink") 진입했고 27분 정도 지구 저궤도에 머무른 이후 약 5분 동안 [센타우르](https://ko.wikipedia.org/wiki/센타우르 "wikilink") 로켓을 통해 [태양 주회 궤도에서](https://ko.wikipedia.org/wiki/태양_주회_궤도 "wikilink") 화성으로 가는 [호만 전이 궤도를](https://ko.wikipedia.org/wiki/호만_전이_궤도 "wikilink") 형성했다.
+MAVEN은 [애틀러스 V](https://ko.wikipedia.org/wiki/애틀러스_V "wikilink") 로켓에 탑재되어 2013년 11월 18일에 성공적으로 발사되었다. 1단 로켓 연소가 끝난 직후에 2단 로켓인 [센타우르](https://ko.wikipedia.org/wiki/센타우르 "wikilink")가 점화되어 [지구 저궤도에](https://ko.wikipedia.org/wiki/지구_저궤도 "wikilink") 진입했고 27분 정도 지구 저궤도에 머무른 이후 약 5분 동안 [센타우르](https://ko.wikipedia.org/wiki/센타우르 "wikilink") 로켓을 통해 [태양 주회 궤도에서](https://ko.wikipedia.org/wiki/태양_주회_궤도 "wikilink") 화성으로 가는 [호만 전이 궤도를](../Page/호만_전이_궤도.md "wikilink") 형성했다.
 
 이후 2014년 9월 22일에 최원점 6,200 km, 최근점 150 km 인 [화성](https://ko.wikipedia.org/wiki/화성 "wikilink") 궤도에 성공적으로 진입했다.\[6\]\[7\]\[8\]\[9\]
 

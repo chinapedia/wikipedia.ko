@@ -75,7 +75,7 @@
 <tr class="odd">
 <td><p>2017년</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/온타리오주" title="wikilink">온타리오주</a> <a href="https://ko.wikipedia.org/wiki/미시소가" title="wikilink">미시소가</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/랩터스_905" title="wikilink">랩터스 905</a></p></td>
+<td><p><a href="../Page/랩터스_905.md" title="wikilink">랩터스 905</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2018년</p></td>

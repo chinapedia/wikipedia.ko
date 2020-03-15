@@ -16,9 +16,9 @@
 <tbody>
 <tr class="odd">
 <td><p>S</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/단일_책임_원칙" title="wikilink">SRP</a></p></td>
+<td><p><a href="../Page/단일_책임_원칙.md" title="wikilink">SRP</a></p></td>
 <td><dl>
-<dt><a href="https://ko.wikipedia.org/wiki/단일_책임_원칙" title="wikilink">단일 책임 원칙 (Single responsibility principle)</a></dt>
+<dt><a href="../Page/단일_책임_원칙.md" title="wikilink">단일 책임 원칙 (Single responsibility principle)</a></dt>
 <dd>한 <a href="https://ko.wikipedia.org/wiki/클래스_(컴퓨터_과학)" title="wikilink">클래스는</a> 하나의 책임만 가져야 한다.
 </dd>
 </dl></td>
@@ -34,9 +34,9 @@
 </tr>
 <tr class="odd">
 <td><p>L</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/리스코프_치환_원칙" title="wikilink">LSP</a></p></td>
+<td><p><a href="../Page/리스코프_치환_원칙.md" title="wikilink">LSP</a></p></td>
 <td><dl>
-<dt><a href="https://ko.wikipedia.org/wiki/리스코프_치환_원칙" title="wikilink">리스코프 치환 원칙 (Liskov substitution principle)</a></dt>
+<dt><a href="../Page/리스코프_치환_원칙.md" title="wikilink">리스코프 치환 원칙 (Liskov substitution principle)</a></dt>
 <dd>“프로그램의 <a href="https://ko.wikipedia.org/wiki/객체" title="wikilink">객체</a>는 프로그램의 정확성을 깨뜨리지 않으면서 하위 타입의 인스턴스로 바꿀 수 있어야 한다.” <a href="https://ko.wikipedia.org/wiki/계약에_의한_설계" title="wikilink">계약에 의한 설계를</a> 참고하라.
 </dd>
 </dl></td>
@@ -52,9 +52,9 @@
 </tr>
 <tr class="odd">
 <td><p>D</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/의존관계_역전_원칙" title="wikilink">DIP</a></p></td>
+<td><p><a href="../Page/의존관계_역전_원칙.md" title="wikilink">DIP</a></p></td>
 <td><dl>
-<dt><a href="https://ko.wikipedia.org/wiki/의존관계_역전_원칙" title="wikilink">의존관계 역전 원칙 (Dependency inversion principle)</a></dt>
+<dt><a href="../Page/의존관계_역전_원칙.md" title="wikilink">의존관계 역전 원칙 (Dependency inversion principle)</a></dt>
 <dd>프로그래머는 “추상화에 의존해야지, 구체화에 의존하면 안된다.”[7] <a href="https://ko.wikipedia.org/wiki/의존성_주입" title="wikilink">의존성 주입은</a> 이 원칙을 따르는 방법 중 하나다.
 </dd>
 </dl></td>
@@ -70,7 +70,7 @@
   - [애자일 소프트웨어 개발](https://ko.wikipedia.org/wiki/애자일_소프트웨어_개발 "wikilink")
   - [코드 재사용](https://ko.wikipedia.org/wiki/코드_재사용 "wikilink")
   - [객체 지향 프로그래밍](https://ko.wikipedia.org/wiki/객체_지향_프로그래밍 "wikilink")
-      - [상속 (객체 지향 프로그래밍)](https://ko.wikipedia.org/wiki/상속_\(객체_지향_프로그래밍\) "wikilink")
+      - [상속 (객체 지향 프로그래밍)](../Page/상속_\(객체_지향_프로그래밍\).md "wikilink")
   - [오컴의 면도날](https://ko.wikipedia.org/wiki/오컴의_면도날 "wikilink")
 
 ### 설계와 개발 원칙

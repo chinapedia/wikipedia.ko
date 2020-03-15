@@ -33,7 +33,7 @@
 
 ### 노크 코드
 
-[G 프로 2에서](https://ko.wikipedia.org/wiki/LG_G_프로_2 "wikilink") 처음 시작된 기능으로 화면을 키지 않고도 잠금을 풀 수 있는 기능이다. [4.4.2 킷캣](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드 이후 추가되었다.
+[G 프로 2에서](../Page/LG_G_프로_2.md "wikilink") 처음 시작된 기능으로 화면을 키지 않고도 잠금을 풀 수 있는 기능이다. [4.4.2 킷캣](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드 이후 추가되었다.
 
 ## 색상
 
@@ -44,7 +44,7 @@
 
 ## 같이 보기
 
-  - [LG Gx2](https://ko.wikipedia.org/wiki/LG_Gx2 "wikilink")
+  - [LG Gx2](../Page/LG_Gx2.md "wikilink")
 
 ## 외부 링크
 

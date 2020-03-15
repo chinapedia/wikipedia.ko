@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [UK \(\)](https://ko.wikipedia.org/wiki/UK_\(\)).
 
 
-**U.K.**는 영국의 [프로그레시브 록](https://ko.wikipedia.org/wiki/프로그레시브_록 "wikilink") [슈퍼그룹](https://ko.wikipedia.org/wiki/슈퍼그룹 "wikilink")으로 77-80년 사이에 활동했다. [존 웨튼](https://ko.wikipedia.org/wiki/존_웨튼 "wikilink") ([킹 크림슨](https://ko.wikipedia.org/wiki/킹_크림슨 "wikilink"), [록시 뮤직](https://ko.wikipedia.org/wiki/록시_뮤직 "wikilink"), [브라이언 페리](https://ko.wikipedia.org/wiki/브라이언_페리 "wikilink") 밴드 및 [유라이어 힙](https://ko.wikipedia.org/wiki/유라이어_힙 "wikilink")), [에디 잡슨](https://ko.wikipedia.org/wiki/에디_잡슨 "wikilink") (커브드 에어, [록시 뮤직](https://ko.wikipedia.org/wiki/록시_뮤직 "wikilink"), [프랭크 자파](https://ko.wikipedia.org/wiki/프랭크_자파 "wikilink") 밴드), [앨런 홀즈워스](https://ko.wikipedia.org/wiki/앨런_홀즈워스 "wikilink") (템페스트, [소프트 머신](https://ko.wikipedia.org/wiki/소프트_머신 "wikilink"), [공 (밴드)](https://ko.wikipedia.org/wiki/공_\(밴드\) "wikilink")), [빌 브루포드](https://ko.wikipedia.org/wiki/빌_브루포드 "wikilink") ([예스](https://ko.wikipedia.org/wiki/예스_\(밴드\) "wikilink"), [킹 크림슨](https://ko.wikipedia.org/wiki/킹_크림슨 "wikilink"), [제네시스](https://ko.wikipedia.org/wiki/제네시스_\(밴드\) "wikilink"))로 구성되었다.
+**U.K.**는 영국의 [프로그레시브 록](https://ko.wikipedia.org/wiki/프로그레시브_록 "wikilink") [슈퍼그룹](https://ko.wikipedia.org/wiki/슈퍼그룹 "wikilink")으로 77-80년 사이에 활동했다. [존 웨튼](https://ko.wikipedia.org/wiki/존_웨튼 "wikilink") ([킹 크림슨](https://ko.wikipedia.org/wiki/킹_크림슨 "wikilink"), [록시 뮤직](../Page/록시_뮤직.md "wikilink"), [브라이언 페리](https://ko.wikipedia.org/wiki/브라이언_페리 "wikilink") 밴드 및 [유라이어 힙](https://ko.wikipedia.org/wiki/유라이어_힙 "wikilink")), [에디 잡슨](https://ko.wikipedia.org/wiki/에디_잡슨 "wikilink") (커브드 에어, [록시 뮤직](../Page/록시_뮤직.md "wikilink"), [프랭크 자파](https://ko.wikipedia.org/wiki/프랭크_자파 "wikilink") 밴드), [앨런 홀즈워스](../Page/앨런_홀즈워스.md "wikilink") (템페스트, [소프트 머신](../Page/소프트_머신.md "wikilink"), [공 (밴드)](../Page/공_\(밴드\).md "wikilink")), [빌 브루포드](https://ko.wikipedia.org/wiki/빌_브루포드 "wikilink") ([예스](https://ko.wikipedia.org/wiki/예스_\(밴드\) "wikilink"), [킹 크림슨](https://ko.wikipedia.org/wiki/킹_크림슨 "wikilink"), [제네시스](https://ko.wikipedia.org/wiki/제네시스_\(밴드\) "wikilink"))로 구성되었다.
 
 ## 1집까지
 
@@ -21,7 +21,7 @@ UK는 프랭크 자파 밴드에서 활동했던 드러머 [테리 바지오를]
 
 이후 95년쯤 잡슨과 웨튼이 UK를 재결성하자는 얘기를 했었으나 흐지부지되고 에디 잡슨의 솔로앨범 Voices of Life만 발매되었다.
 
-잡슨은 아론 리퍼트, 트레이 건과 함께 2007년 UKZ를 결성했으나 오래가진 못했다. 잡슨은 U-Z프로젝트라는 이름으로 계속 UK풍의 음악을 하고 있었는데 여기에 웨튼이 잠시 참여해주기도 했다. 이후 2011년에 존 웨튼이 마음을 바꾸어 UK는 재결성되었다. 이 재결성 공연은 DVD Reunion: Live in Tokyo로 남는다. 그들은 2014년 Cruise to the Edge에 참여했고 이후 2015년에 [드림 시어터](https://ko.wikipedia.org/wiki/드림_시어터 "wikilink") 드러머인 [마이크 맨지니가](https://ko.wikipedia.org/wiki/마이크_맨지니 "wikilink") 참여한 마지막 투어를 가졌다.
+잡슨은 아론 리퍼트, 트레이 건과 함께 2007년 UKZ를 결성했으나 오래가진 못했다. 잡슨은 U-Z프로젝트라는 이름으로 계속 UK풍의 음악을 하고 있었는데 여기에 웨튼이 잠시 참여해주기도 했다. 이후 2011년에 존 웨튼이 마음을 바꾸어 UK는 재결성되었다. 이 재결성 공연은 DVD Reunion: Live in Tokyo로 남는다. 그들은 2014년 Cruise to the Edge에 참여했고 이후 2015년에 [드림 시어터](https://ko.wikipedia.org/wiki/드림_시어터 "wikilink") 드러머인 [마이크 맨지니가](../Page/마이크_맨지니.md "wikilink") 참여한 마지막 투어를 가졌다.
 
 ## 음반 목록
 

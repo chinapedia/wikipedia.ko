@@ -15,10 +15,10 @@
 
   - [스트리트 파이터 II 대시: 챔피언 에디션](https://ko.wikipedia.org/wiki/스트리트_파이터_II_대시:_챔피언_에디션 "wikilink") (1992)
   - [스트리트 파이터 II 대시 터보](https://ko.wikipedia.org/wiki/스트리트_파이터_II_대시_터보 "wikilink") (1992)
-  - [슈퍼 스트리트 파이터 II](https://ko.wikipedia.org/wiki/슈퍼_스트리트_파이터_II "wikilink") (1993)
-  - [슈퍼 스트리트 파이터 II 터보](https://ko.wikipedia.org/wiki/슈퍼_스트리트_파이터_II_터보 "wikilink") (1994)
-  - [하이퍼 스트리트 파이터 II](https://ko.wikipedia.org/wiki/하이퍼_스트리트_파이터_II "wikilink") (2003)
-  - [슈퍼 스트리트 파이터 II 터보 HD 리믹스](https://ko.wikipedia.org/wiki/슈퍼_스트리트_파이터_II_터보_HD_리믹스 "wikilink") (2008)
+  - [슈퍼 스트리트 파이터 II](../Page/슈퍼_스트리트_파이터_II.md "wikilink") (1993)
+  - [슈퍼 스트리트 파이터 II 터보](../Page/슈퍼_스트리트_파이터_II_터보.md "wikilink") (1994)
+  - [하이퍼 스트리트 파이터 II](../Page/하이퍼_스트리트_파이터_II.md "wikilink") (2003)
+  - [슈퍼 스트리트 파이터 II 터보 HD 리믹스](../Page/슈퍼_스트리트_파이터_II_터보_HD_리믹스.md "wikilink") (2008)
 
 ## 각주
 

@@ -1005,7 +1005,7 @@ end
 `   { 'HDS', '`[`HDS`](../Page/스위스_역사_사전.md "wikilink")`', 902, p.hdsLink },`
 `   { 'IAAF', '`[`IAAF`](https://ko.wikipedia.org/wiki/국제_육상_경기_연맹 "wikilink")`', 1146, p.iaafLink },`
 `   { 'ICIA', '`[`ICIA`](https://ko.wikipedia.org/wiki/:en:Information_Center_for_Israeli_Art "wikilink")`', 1736, p.iciaLink },`
-`   { 'ISNI', '`[`ISNI`](https://ko.wikipedia.org/wiki/국제_표준_명칭_식별자 "wikilink")`', 213, p.isniLink },`
+`   { 'ISNI', '`[`ISNI`](../Page/국제_표준_명칭_식별자.md "wikilink")`', 213, p.isniLink },`
 `   { 'Joconde', '`[`Joconde`](https://ko.wikipedia.org/wiki/:en:Joconde "wikilink")`' , 347, p.jocondeLink },`
 `   { 'KULTURNAV', '`[`KulturNav`](https://ko.wikipedia.org/wiki/:en:KulturNav "wikilink")`', 1248, p.kulturnavLink },`
 `   { 'LCCN', '`[`LCCN`](https://ko.wikipedia.org/wiki/미국_의회도서관_제어_번호 "wikilink")`', 244, p.lccnLink },`
@@ -1020,7 +1020,7 @@ end
 `   { 'MBRG', '`[`뮤직브레인즈`](https://ko.wikipedia.org/wiki/뮤직브레인즈 "wikilink")` release group', 436, p.mbrgLink, category = 'MusicBrainz release group' }, --special category name`
 `   { 'MBS', '`[`뮤직브레인즈`](https://ko.wikipedia.org/wiki/뮤직브레인즈 "wikilink")`', 1407, p.mbsLink, category = 'MusicBrainz series' }, --special category name`
 `   { 'MBW', '`[`뮤직브레인즈`](https://ko.wikipedia.org/wiki/뮤직브레인즈 "wikilink")` work', 435, p.mbwLink, category = 'MusicBrainz work' }, --special category name`
-`   { 'MGP', '`[`MGP`](https://ko.wikipedia.org/wiki/수학_계보_프로젝트 "wikilink")`', 549, p.mgpLink },`
+`   { 'MGP', '`[`MGP`](../Page/수학_계보_프로젝트.md "wikilink")`', 549, p.mgpLink },`
 `   { 'NARA', '`[`NARA`](https://ko.wikipedia.org/wiki/미국_국립문서기록관리청 "wikilink")`', 1225, p.naraLink },`
 `   { 'NCL', '`[`NCL`](https://ko.wikipedia.org/wiki/국가도서관 "wikilink")`', 1048, p.nclLink },`
 `   { 'NDL', '`[`NDL`](https://ko.wikipedia.org/wiki/일본_국립국회도서관 "wikilink")`', 349, p.ndlLink },`
@@ -1029,11 +1029,11 @@ end
 `   { 'NLA', '`[`NLA`](https://ko.wikipedia.org/wiki/오스트레일리아_국립도서관 "wikilink")`', 409, p.nlaLink },`
 `   { 'NLI', '`[`NLI`](https://ko.wikipedia.org/wiki/이스라엘_국립도서관 "wikilink")`', 949, p.nliLink },`
 `   { 'NLK', '`[`NLK`](https://ko.wikipedia.org/wiki/국립중앙도서관 "wikilink")`', 5034, p.nlkLink },`
-`   { 'NLP', '`[`NLP`](https://ko.wikipedia.org/wiki/폴란드_국립도서관 "wikilink")`', 1695, p.nlpLink },`
+`   { 'NLP', '`[`NLP`](../Page/폴란드_국립도서관.md "wikilink")`', 1695, p.nlpLink },`
 `   { 'NLR', '`[`NLR`](https://ko.wikipedia.org/wiki/루마니아_국립도서관 "wikilink")`', 1003, p.nlrLink }, --initially commented due to excessive WD ID errors (conflated with National Library of Russia IDs)`
 `   { 'NSK', '`[`NSK`](https://ko.wikipedia.org/wiki/자그레브_국립_대학_도서관 "wikilink")`', 1375, p.nskLink },`
 `   { 'NTA', '`[`NTA`](https://ko.wikipedia.org/wiki/네덜란드_왕립도서관 "wikilink")`', 1006, p.ntaLink },`
-`   { 'ORCID', '`[`ORCID`](https://ko.wikipedia.org/wiki/ORCID "wikilink")`', 496, p.orcidLink },`
+`   { 'ORCID', '`[`ORCID`](../Page/ORCID.md "wikilink")`', 496, p.orcidLink },`
 `   { 'PIC', '`[`PIC`](https://ko.wikipedia.org/wiki/:d:Q23892012 "wikilink")`', 2750, p.picLink },`
 `   { 'RID', '`[`ResearcherID`](https://ko.wikipedia.org/wiki/:en:ResearcherID "wikilink")`', 1053, p.ridLink },`
 `   { 'RERO', '`[`RERO`](https://ko.wikipedia.org/wiki/:en:RERO_\(Library_Network_of_Western_Switzerland\) "wikilink")`', 3065, p.reroLink }, --initially commented due to excessive WD ID errors (regex fixed/relaxed)`
@@ -1041,7 +1041,7 @@ end
 `   { 'RKDID', '`[`RKDimages``   ``ID`](https://ko.wikipedia.org/wiki/:d:Q17299580 "wikilink")`', 350, p.rkdidLink },`
 `   { 'RSL', '`[`RSL`](https://ko.wikipedia.org/wiki/러시아_국립도서관_\(모스크바\) "wikilink")`', 947, p.rslLink },`
 `   { 'SBN', '`[`ICCU`](https://ko.wikipedia.org/wiki/:en:Istituto_Centrale_per_il_Catalogo_Unico "wikilink")`', 396, p.sbnLink },`
-`   { 'SELIBR', '`[`SELIBR`](https://ko.wikipedia.org/wiki/LIBRIS "wikilink")`', 906, p.selibrLink },`
+`   { 'SELIBR', '`[`SELIBR`](../Page/LIBRIS.md "wikilink")`', 906, p.selibrLink },`
 `   { 'SIKART', '`[`SIKART`](https://ko.wikipedia.org/wiki/SIKART "wikilink")`', 781, p.sikartLink },`
 `   { 'SNAC-ID', '`[`SNAC`](https://ko.wikipedia.org/wiki/SNAC "wikilink")`', 3430, p.snacLink },`
 `   { 'SUDOC', '`[`SUDOC`](https://ko.wikipedia.org/wiki/프랑스_대학도서관_종합목록 "wikilink")`', 269, p.sudocLink },`

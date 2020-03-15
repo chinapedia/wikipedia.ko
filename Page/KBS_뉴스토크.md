@@ -68,7 +68,7 @@
 | 오늘의 현장   |                                                                                                                  |
 | 오늘의 이슈   |                                                                                                                  |
 | 오늘의 시장   |                                                                                                                  |
-| 날씨       | [노은지](https://ko.wikipedia.org/wiki/노은지 "wikilink") 기상캐스터                                                        |
+| 날씨       | [노은지](../Page/노은지.md "wikilink") 기상캐스터                                                                           |
 | 클로징      | [김원장](https://ko.wikipedia.org/wiki/김원장 "wikilink") 기자, [조수빈](https://ko.wikipedia.org/wiki/조수빈 "wikilink") 아나운서 |
 
 ## 앵커

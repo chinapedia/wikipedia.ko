@@ -61,7 +61,7 @@
 
   - [노키아 루미아 510](https://ko.wikipedia.org/wiki/노키아_루미아_510 "wikilink")
   - [소니 엑스페리아 M](https://ko.wikipedia.org/wiki/소니_엑스페리아_M "wikilink")
-  - [삼성 갤럭시 그랜드 2](https://ko.wikipedia.org/wiki/삼성_갤럭시_그랜드_2 "wikilink")
+  - [삼성 갤럭시 그랜드 2](../Page/삼성_갤럭시_그랜드_2.md "wikilink")
 
 ## 같이 보기
 

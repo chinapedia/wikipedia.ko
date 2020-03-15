@@ -5,8 +5,8 @@
 
 ## 학력
 
-  - [오산초등학교](https://ko.wikipedia.org/wiki/오산초등학교_\(오산시\) "wikilink") (졸업)
-  - [오산중학교](https://ko.wikipedia.org/wiki/오산중학교_\(경기\) "wikilink") (졸업)
+  - [오산초등학교](../Page/오산초등학교_\(오산시\).md "wikilink") (졸업)
+  - [오산중학교](../Page/오산중학교_\(경기\).md "wikilink") (졸업)
   - [한림연예예술고등학교](https://ko.wikipedia.org/wiki/한림연예예술고등학교 "wikilink") 실용음악과 (졸업)
 
 ## 활동 경력
@@ -154,7 +154,7 @@
 <tr class="odd">
 <td style="text-align: center;"><p><strong>11</strong></p></td>
 <td style="text-align: center;"><p><strong>《봄에 오면 괴롭힐 거예요》</strong><br />
-<small>(with.<a href="https://ko.wikipedia.org/wiki/육성재" title="wikilink">육성재</a>)</small></p>
+<small>(with.<a href="../Page/육성재.md" title="wikilink">육성재</a>)</small></p>
 <ul>
 <li>발매일: 2016년 12월 26일</li>
 </ul></td>
@@ -249,7 +249,7 @@
 <li><strong>밤바람</strong></li>
 <li>노래방에서 (With <a href="https://ko.wikipedia.org/wiki/서은광" title="wikilink">서은광</a> Of <a href="https://ko.wikipedia.org/wiki/BTOB" title="wikilink">BTOB</a>)</li>
 <li>I'm fine</li>
-<li>봄에 오면 괴롭힐 거예요 (With <a href="https://ko.wikipedia.org/wiki/육성재" title="wikilink">육성재</a> Of <a href="https://ko.wikipedia.org/wiki/BTOB" title="wikilink">BTOB</a>)</li>
+<li>봄에 오면 괴롭힐 거예요 (With <a href="../Page/육성재.md" title="wikilink">육성재</a> Of <a href="https://ko.wikipedia.org/wiki/BTOB" title="wikilink">BTOB</a>)</li>
 <li>밤바람 (Inst.)</li>
 </ol></td>
 </tr>
@@ -302,7 +302,7 @@
 <tbody>
 <tr class="odd">
 <td style="text-align: center;"><p><strong>1</strong></p></td>
-<td style="text-align: center;"><p>《<strong><a href="https://ko.wikipedia.org/wiki/냄새를_보는_소녀" title="wikilink">냄새를 보는 소녀</a> OST Pt.8</strong>》</p>
+<td style="text-align: center;"><p>《<strong><a href="../Page/냄새를_보는_소녀.md" title="wikilink">냄새를 보는 소녀</a> OST Pt.8</strong>》</p>
 <ul>
 <li>발매일: 2015년 5월 7일</li>
 </ul></td>
@@ -326,7 +326,7 @@
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p><strong>3</strong></p></td>
-<td style="text-align: center;"><p>《<strong><a href="https://ko.wikipedia.org/wiki/응답하라_1988" title="wikilink">응답하라 1988</a> OST Pt.11</strong>》</p>
+<td style="text-align: center;"><p>《<strong><a href="../Page/응답하라_1988.md" title="wikilink">응답하라 1988</a> OST Pt.11</strong>》</p>
 <ul>
 <li>발매일: 2016년 1월 16일</li>
 </ul></td>
@@ -404,7 +404,7 @@
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p><strong>3</strong></p></td>
-<td style="text-align: center;"><p>《<strong><a href="https://ko.wikipedia.org/wiki/힙합의_민족" title="wikilink">힙합의 민족S</a>2 Episode 2</strong>》</p>
+<td style="text-align: center;"><p>《<strong><a href="../Page/힙합의_민족.md" title="wikilink">힙합의 민족S</a>2 Episode 2</strong>》</p>
 <ul>
 <li>발매일: 2016년 12월 21일</li>
 </ul></td>
@@ -517,7 +517,7 @@ Global Audition - 포르투칼(Portugal) 편</p></td>
 |  연도  | 방송사  |                                     제목                                      |         역할          |               기간               |
 | :--: | :--: | :-------------------------------------------------------------------------: | :-----------------: | :----------------------------: |
 | 2013 | tvN  |               [응답하라 1994](../Page/응답하라_1994.md "wikilink") 6회               |      쑥쑥이 여자친구       |         2013년 11월 02일          |
-| 2014 | 투니버스 |  [벼락맞은 문방구 시즌2](https://ko.wikipedia.org/wiki/벼락맞은_문방구 "wikilink") (12부작)   |        썬더키티         | 2014년 07월 31일 \~ 2014년 10월 23일 |
+| 2014 | 투니버스 |            [벼락맞은 문방구 시즌2](../Page/벼락맞은_문방구.md "wikilink") (12부작)            |        썬더키티         | 2014년 07월 31일 \~ 2014년 10월 23일 |
 | 2017 | tvN  | [크리미널 마인드](https://ko.wikipedia.org/wiki/크리미널_마인드_\(2017년_드라마\) "wikilink") |         한수민         |              특별출연              |
 | 2018 | KBS2 |       [To. Jenny](https://ko.wikipedia.org/wiki/To._Jenny "wikilink")       |         에일린         |                                |
 | 2020 | JTBC |     [이태원 클라쓰](https://ko.wikipedia.org/wiki/이태원_클라쓰_\(드라마\) "wikilink")     | 이서의 고등학교 동창, 복희의 친구 |          3회, 5회 특별출연           |

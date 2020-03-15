@@ -115,10 +115,10 @@
 <tr class="odd">
 <td><p>11</p></td>
 <td><p>2013년 11월 08일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/세라" title="wikilink">세라</a>(<a href="https://ko.wikipedia.org/wiki/나인뮤지스" title="wikilink">나인뮤지스</a>), <a href="https://ko.wikipedia.org/wiki/박광선" title="wikilink">박광선</a>(<a href="https://ko.wikipedia.org/wiki/울랄라세션" title="wikilink">울랄라세션</a>), <a href="https://ko.wikipedia.org/wiki/린_(가수)" title="wikilink">린</a>, <a href="https://ko.wikipedia.org/wiki/이정_(가수)" title="wikilink">이정</a></p></td>
+<td><p><a href="../Page/세라.md" title="wikilink">세라</a>(<a href="https://ko.wikipedia.org/wiki/나인뮤지스" title="wikilink">나인뮤지스</a>), <a href="https://ko.wikipedia.org/wiki/박광선" title="wikilink">박광선</a>(<a href="https://ko.wikipedia.org/wiki/울랄라세션" title="wikilink">울랄라세션</a>), <a href="https://ko.wikipedia.org/wiki/린_(가수)" title="wikilink">린</a>, <a href="https://ko.wikipedia.org/wiki/이정_(가수)" title="wikilink">이정</a></p></td>
 <td><p>서범석, <a href="https://ko.wikipedia.org/wiki/문천식" title="wikilink">문천식</a>, 이현영, <a href="https://ko.wikipedia.org/wiki/최원준" title="wikilink">최원준</a>, <a href="https://ko.wikipedia.org/wiki/허공_(가수)" title="wikilink">허공</a></p></td>
 <td><p>가수군단</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/세라" title="wikilink">세라</a></p></td>
+<td><p><a href="../Page/세라.md" title="wikilink">세라</a></p></td>
 </tr>
 <tr class="even">
 <td><p>12</p></td>
@@ -210,7 +210,7 @@
 <td><p>14</p></td>
 <td><p>2013년 12월 06일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/김종서_(가수)" title="wikilink">김종서</a>, <a href="https://ko.wikipedia.org/wiki/임정희" title="wikilink">임정희</a>, <a href="https://ko.wikipedia.org/wiki/김원주" title="wikilink">김원주</a>(<a href="https://ko.wikipedia.org/wiki/포맨" title="wikilink">포맨</a>), <a href="https://ko.wikipedia.org/wiki/이정_(가수)" title="wikilink">이정</a>, <a href="https://ko.wikipedia.org/wiki/린_(가수)" title="wikilink">린</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/강태을" title="wikilink">강태을</a>, <a href="https://ko.wikipedia.org/wiki/김승겸" title="wikilink">김승겸</a>, <a href="https://ko.wikipedia.org/wiki/정호근_(배우)" title="wikilink">정호근</a>, <a href="https://ko.wikipedia.org/wiki/천단비" title="wikilink">천단비</a>, <a href="https://ko.wikipedia.org/wiki/채미영" title="wikilink">채미영</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/강태을" title="wikilink">강태을</a>, <a href="https://ko.wikipedia.org/wiki/김승겸" title="wikilink">김승겸</a>, <a href="https://ko.wikipedia.org/wiki/정호근_(배우)" title="wikilink">정호근</a>, <a href="../Page/천단비.md" title="wikilink">천단비</a>, <a href="https://ko.wikipedia.org/wiki/채미영" title="wikilink">채미영</a></p></td>
 <td><p>가수군단</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/김원주" title="wikilink">김원주</a></p></td>
 </tr>
@@ -225,7 +225,7 @@
 <tr class="odd">
 <td><p>16</p></td>
 <td><p>2013년 12월 20일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/홍진영" title="wikilink">홍진영</a>, <a href="https://ko.wikipedia.org/wiki/켄_(가수)" title="wikilink">켄</a>(<a href="https://ko.wikipedia.org/wiki/빅스_(음악_그룹)" title="wikilink">빅스</a>), <a href="https://ko.wikipedia.org/wiki/이종원_(가수)" title="wikilink">이종원</a>(<a href="https://ko.wikipedia.org/wiki/캔_(음악_그룹)" title="wikilink">캔</a>), <a href="https://ko.wikipedia.org/wiki/이정_(가수)" title="wikilink">이정</a>, <a href="https://ko.wikipedia.org/wiki/성진환" title="wikilink">성진환</a>(<a href="https://ko.wikipedia.org/wiki/스윗_소로우" title="wikilink">스윗 소로우</a>)</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/홍진영" title="wikilink">홍진영</a>, <a href="../Page/켄_(가수).md" title="wikilink">켄</a>(<a href="https://ko.wikipedia.org/wiki/빅스_(음악_그룹)" title="wikilink">빅스</a>), <a href="https://ko.wikipedia.org/wiki/이종원_(가수)" title="wikilink">이종원</a>(<a href="https://ko.wikipedia.org/wiki/캔_(음악_그룹)" title="wikilink">캔</a>), <a href="https://ko.wikipedia.org/wiki/이정_(가수)" title="wikilink">이정</a>, <a href="https://ko.wikipedia.org/wiki/성진환" title="wikilink">성진환</a>(<a href="https://ko.wikipedia.org/wiki/스윗_소로우" title="wikilink">스윗 소로우</a>)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/벤" title="wikilink">벤</a>(<a href="https://ko.wikipedia.org/wiki/베베미뇽" title="wikilink">베베미뇽</a>), <a href="https://ko.wikipedia.org/wiki/윤지영" title="wikilink">윤지영</a>, <a href="https://ko.wikipedia.org/wiki/김구현" title="wikilink">김구현</a>, <a href="https://ko.wikipedia.org/wiki/손소연" title="wikilink">손소연</a>, <a href="https://ko.wikipedia.org/wiki/윤성기" title="wikilink">윤성기</a>(<a href="https://ko.wikipedia.org/wiki/휴먼레이스" title="wikilink">휴먼레이스</a>)</p></td>
 <td><p>가수군단</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/홍진영" title="wikilink">홍진영</a></p></td>
@@ -242,7 +242,7 @@
 <td><p>18</p></td>
 <td><p>2014년 01월 03일</p></td>
 <td><p><가수군단> <a href="https://ko.wikipedia.org/wiki/김흥국" title="wikilink">김흥국</a>, <a href="https://ko.wikipedia.org/wiki/박상민_(가수)" title="wikilink">박상민</a>, <a href="https://ko.wikipedia.org/wiki/레이나_(가수)" title="wikilink">레이나</a>, <a href="https://ko.wikipedia.org/wiki/성진환" title="wikilink">성진환</a>, <a href="https://ko.wikipedia.org/wiki/이정_(가수)" title="wikilink">이정</a></p></td>
-<td><p><말띠싱어> <a href="https://ko.wikipedia.org/wiki/김보성_(1966년)" title="wikilink">김보성</a>, <a href="https://ko.wikipedia.org/wiki/박세미" title="wikilink">박세미</a>, <a href="https://ko.wikipedia.org/wiki/김지숙_(가수)" title="wikilink">김지숙</a>, <a href="https://ko.wikipedia.org/wiki/김민영" title="wikilink">김민영</a>, <a href="https://ko.wikipedia.org/wiki/추대엽" title="wikilink">추대엽</a></p></td>
+<td><p><말띠싱어> <a href="https://ko.wikipedia.org/wiki/김보성_(1966년)" title="wikilink">김보성</a>, <a href="https://ko.wikipedia.org/wiki/박세미" title="wikilink">박세미</a>, <a href="https://ko.wikipedia.org/wiki/김지숙_(가수)" title="wikilink">김지숙</a>, <a href="https://ko.wikipedia.org/wiki/김민영" title="wikilink">김민영</a>, <a href="../Page/추대엽.md" title="wikilink">추대엽</a></p></td>
 <td><p>가수군단</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/레이나_(가수)" title="wikilink">레이나</a></p></td>
 </tr>
@@ -258,7 +258,7 @@
 <td><p>20</p></td>
 <td><p>2014년 01월 17일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/김형중" title="wikilink">김형중</a>, <a href="https://ko.wikipedia.org/wiki/김명훈_(가수)" title="wikilink">김명훈</a>, <a href="https://ko.wikipedia.org/wiki/나비_(1986년)" title="wikilink">나비</a>, <a href="../Page/혜이니.md" title="wikilink">혜이니</a>, <a href="https://ko.wikipedia.org/wiki/이정_(가수)" title="wikilink">이정</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/정수영_(배우)" title="wikilink">정수영</a>, <a href="https://ko.wikipedia.org/wiki/김인석" title="wikilink">김인석</a>, <a href="https://ko.wikipedia.org/wiki/김현균" title="wikilink">김현균</a>, <a href="https://ko.wikipedia.org/wiki/박채원" title="wikilink">박채원</a>, <a href="https://ko.wikipedia.org/wiki/나아람" title="wikilink">나아람</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/정수영_(배우)" title="wikilink">정수영</a>, <a href="https://ko.wikipedia.org/wiki/김인석" title="wikilink">김인석</a>, <a href="../Page/김현균.md" title="wikilink">김현균</a>, <a href="https://ko.wikipedia.org/wiki/박채원" title="wikilink">박채원</a>, <a href="https://ko.wikipedia.org/wiki/나아람" title="wikilink">나아람</a></p></td>
 <td><p>가수군단</p></td>
 <td><p><a href="../Page/혜이니.md" title="wikilink">혜이니</a></p></td>
 </tr>

@@ -3,7 +3,7 @@
 
 《**Modern Times**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 가수 [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink")의 세 번째 정규 음반이다. 타이틀 곡은 〈**분홍신**〉이며 2013년 10월 8일에 [로엔 엔터테인먼트 (LOEN TREE 레이블)에](https://ko.wikipedia.org/wiki/로엔_엔터테인먼트 "wikilink") 의하여 발매되었다.
 
-타이틀 곡인 〈**분홍신**〉은 빨간 구두를 신으면 의지와 상관없이 계속 춤을 추게 된다는 내용의 [안데르센](https://ko.wikipedia.org/wiki/안데르센 "wikilink") 동화 〈[빨간 구두](https://ko.wikipedia.org/wiki/빨간_구두 "wikilink")〉에서 영감을 받아 완성된 곡이다. 이 곡의 뮤직비디오에는 작곡가 [유희열](https://ko.wikipedia.org/wiki/유희열 "wikilink"), 모델 [휘황](https://ko.wikipedia.org/wiki/휘황 "wikilink"), 모델 [장기용](https://ko.wikipedia.org/wiki/장기용_\(1992년\) "wikilink"), 그리고 밴드 [페퍼톤스](https://ko.wikipedia.org/wiki/페퍼톤스 "wikilink")가 출연하였다.\[1\] 뮤직비디오는 영상미와 스토리 라인이 뛰어나, 한 편의 영화 같은 완성도를 보였다는 평가를 받았다.\[2\]
+타이틀 곡인 〈**분홍신**〉은 빨간 구두를 신으면 의지와 상관없이 계속 춤을 추게 된다는 내용의 [안데르센](https://ko.wikipedia.org/wiki/안데르센 "wikilink") 동화 〈[빨간 구두](https://ko.wikipedia.org/wiki/빨간_구두 "wikilink")〉에서 영감을 받아 완성된 곡이다. 이 곡의 뮤직비디오에는 작곡가 [유희열](https://ko.wikipedia.org/wiki/유희열 "wikilink"), 모델 [휘황](../Page/휘황.md "wikilink"), 모델 [장기용](../Page/장기용_\(1992년\).md "wikilink"), 그리고 밴드 [페퍼톤스](https://ko.wikipedia.org/wiki/페퍼톤스 "wikilink")가 출연하였다.\[1\] 뮤직비디오는 영상미와 스토리 라인이 뛰어나, 한 편의 영화 같은 완성도를 보였다는 평가를 받았다.\[2\]
 
 ## 수록곡
 

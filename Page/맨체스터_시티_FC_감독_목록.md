@@ -601,7 +601,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/앨런_볼_(축구인)" title="wikilink">앨런 볼</a></p></td>
+<td><p><a href="../Page/앨런_볼_(축구인).md" title="wikilink">앨런 볼</a></p></td>
 <td></td>
 <td></td>
 <td><p>1995년 6월 30일</p></td>
@@ -706,7 +706,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/스튜어트_피어스" title="wikilink">스튜어트 피어스</a></p></td>
+<td><p><a href="../Page/스튜어트_피어스.md" title="wikilink">스튜어트 피어스</a></p></td>
 <td><p>"싸이코"</p></td>
 <td></td>
 <td><p>2005년 3월 21일</p></td>

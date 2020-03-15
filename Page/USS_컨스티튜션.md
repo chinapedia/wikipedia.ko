@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [USS ](https://ko.wikipedia.org/wiki/USS_).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:USS_Constitution_underway,_August_19,_2012_by_Castle_Island_cropped.jpg "wikilink") **미 해군 군함 컨스티튜션**(*USS Constitution*)은 3개의 돛을 단 목조 선체의 배로 [미국 해군의](https://ko.wikipedia.org/wiki/미국_해군 "wikilink") 중무장 [프리깃](https://ko.wikipedia.org/wiki/프리깃 "wikilink")이다. "[헌법](https://ko.wikipedia.org/wiki/헌법 "wikilink")"을 의미하는 배의 이름은 [조지 워싱턴](https://ko.wikipedia.org/wiki/조지_워싱턴 "wikilink") 대통령이 [미국의 헌법](https://ko.wikipedia.org/wiki/미국의_헌법 "wikilink") 제정 이후에 지었다. 이 배는 세계에 남아있는 해군함들 중 취역한 지 가장 오래된 배이다. 컨스티튜션은 1794년 해군법에 의해 건조 승인을 받아 건조된 6개의 프리깃 중의 하나였으며, 그 중 세 번째로 건조되어 1797년에 취항하였다. [조슈아 험프리는](https://ko.wikipedia.org/wiki/조슈아_험프리 "wikilink") 그 프리깃들을 새로운 해군의 [주력함](https://ko.wikipedia.org/wiki/주력함 "wikilink")으로서 설계했으며, 그런고로 컨스티튜션과 그 자매함들은 동시대의 다른 프리깃들보다 더 컸으며 무장도 강화하였다. 매사추세츠 주 보스턴의 어드먼드 하츠 건조장에서 건조되었으며, 새로이 창설된 미국 해군에 배속된 컨스티튜션의 최초의 임무는 프랑스와의 [유사전쟁](../Page/유사전쟁.md "wikilink") 동안 미국 선적의 상선을 보호하는 것이었다. 또한 [제1차 바르바리 전쟁에서](https://ko.wikipedia.org/wiki/제1차_바르바리_전쟁 "wikilink") [바르바리 해적들을](https://ko.wikipedia.org/wiki/바르바리_해적 "wikilink") 상대하였다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:USS_Constitution_underway,_August_19,_2012_by_Castle_Island_cropped.jpg "wikilink") **미 해군 군함 컨스티튜션**(*USS Constitution*)은 3개의 돛을 단 목조 선체의 배로 [미국 해군의](https://ko.wikipedia.org/wiki/미국_해군 "wikilink") 중무장 [프리깃](https://ko.wikipedia.org/wiki/프리깃 "wikilink")이다. "[헌법](https://ko.wikipedia.org/wiki/헌법 "wikilink")"을 의미하는 배의 이름은 [조지 워싱턴](https://ko.wikipedia.org/wiki/조지_워싱턴 "wikilink") 대통령이 [미국의 헌법](https://ko.wikipedia.org/wiki/미국의_헌법 "wikilink") 제정 이후에 지었다. 이 배는 세계에 남아있는 해군함들 중 취역한 지 가장 오래된 배이다. 컨스티튜션은 1794년 해군법에 의해 건조 승인을 받아 건조된 6개의 프리깃 중의 하나였으며, 그 중 세 번째로 건조되어 1797년에 취항하였다. [조슈아 험프리는](https://ko.wikipedia.org/wiki/조슈아_험프리 "wikilink") 그 프리깃들을 새로운 해군의 [주력함](https://ko.wikipedia.org/wiki/주력함 "wikilink")으로서 설계했으며, 그런고로 컨스티튜션과 그 자매함들은 동시대의 다른 프리깃들보다 더 컸으며 무장도 강화하였다. 매사추세츠 주 보스턴의 어드먼드 하츠 건조장에서 건조되었으며, 새로이 창설된 미국 해군에 배속된 컨스티튜션의 최초의 임무는 프랑스와의 [유사전쟁](../Page/유사전쟁.md "wikilink") 동안 미국 선적의 상선을 보호하는 것이었다. 또한 [제1차 바르바리 전쟁에서](../Page/제1차_바르바리_전쟁.md "wikilink") [바르바리 해적들을](https://ko.wikipedia.org/wiki/바르바리_해적 "wikilink") 상대하였다.
 
 ## 역사
 
@@ -17,7 +17,7 @@
 
 ## 1812년 전쟁
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:USS_Constitution_v_HMS_Guerriere.jpg "wikilink") 1812년 초, 영국과의 관계가 악화되자 해군은 전쟁 준비를 시작했다. [미영 전쟁의](https://ko.wikipedia.org/wiki/미영_전쟁 "wikilink") 선전 포고는 6월 20일에 이루어졌다. 1810년에 지휘관으로 임명된 [아이작 헐의](https://ko.wikipedia.org/wiki/아이작_헐 "wikilink") 지휘로 콘스티튜선은 [6월 12일에](https://ko.wikipedia.org/wiki/6월_12일 "wikilink") 명령도 없이 출항하여 항만 봉쇄에 대비했다. 아이작의 생각은 로저스의 함대 5척과 합류하는 것이었다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:USS_Constitution_v_HMS_Guerriere.jpg "wikilink") 1812년 초, 영국과의 관계가 악화되자 해군은 전쟁 준비를 시작했다. [미영 전쟁의](https://ko.wikipedia.org/wiki/미영_전쟁 "wikilink") 선전 포고는 6월 20일에 이루어졌다. 1810년에 지휘관으로 임명된 [아이작 헐의](../Page/아이작_헐.md "wikilink") 지휘로 콘스티튜선은 [6월 12일에](https://ko.wikipedia.org/wiki/6월_12일 "wikilink") 명령도 없이 출항하여 항만 봉쇄에 대비했다. 아이작의 생각은 로저스의 함대 5척과 합류하는 것이었다.
 
 [7월 17일](https://ko.wikipedia.org/wiki/7월_17일 "wikilink") 콘스티튜션은 뉴저지 에그 하버 떨어져 5척의 군함 그림자를 알아차렸다. 다음날 아침 경계병이 그 배가 영국 해군 함대임을 확인했다. 영국 함대도 콘스티튜션 호을 알아보고 추격을 시작했다. 헐은 바람이 없다는 것을 감지하고, 숙련된 승무원들로 하여금 보트를 내려 함을 견인하게 했다. 작은 닻을 사용하여 함의 방향을 잘 잡고, 돛을 적셔 묵직하게 만들어 약간의 바람도 탈 수 있도록 했다. 이제 완전히 어둠에 묻혀 영국 함대와의 거리를 벌였다. 7월 혹한 속에서 2일 이틀 밤에 걸쳐 노력 끝에 컨스티튜션 호는 결국 추적자를 완전히 따돌릴 수 있었다.
 

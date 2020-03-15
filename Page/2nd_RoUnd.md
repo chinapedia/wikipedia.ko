@@ -13,7 +13,7 @@
 
   - [테디](https://ko.wikipedia.org/wiki/테디_\(가수\) "wikilink") - 리더, 메인 [랩](https://ko.wikipedia.org/wiki/랩_\(음악\) "wikilink")
   - [태빈](https://ko.wikipedia.org/wiki/태빈 "wikilink") - 메인 보컬
-  - [송백경](https://ko.wikipedia.org/wiki/송백경 "wikilink") - 보컬, 작사
+  - [송백경](../Page/송백경.md "wikilink") - 보컬, 작사
   - [오진환](https://ko.wikipedia.org/wiki/오진환 "wikilink") - 안무가, 하이 랩
 
 <!-- end list -->
@@ -37,7 +37,7 @@
 <!-- end list -->
 
   - [양현석](https://ko.wikipedia.org/wiki/양현석 "wikilink") - [이그제큐티브 프로듀서](https://ko.wikipedia.org/wiki/이그제큐티브_프로듀서 "wikilink")
-  - Perry, Q, 테디, [송백경](https://ko.wikipedia.org/wiki/송백경 "wikilink") - [프로듀서](https://ko.wikipedia.org/wiki/음악_프로듀서 "wikilink")
+  - Perry, Q, 테디, [송백경](../Page/송백경.md "wikilink") - [프로듀서](https://ko.wikipedia.org/wiki/음악_프로듀서 "wikilink")
   - Perry, Kevin Kim - 녹음
   - 아메리칸 스튜디오([로스엔젤레스](https://ko.wikipedia.org/wiki/로스엔젤레스 "wikilink")), "날씬한때지" 스튜디오/드림 팩토리([서울](https://ko.wikipedia.org/wiki/서울 "wikilink")) - 믹싱 스튜디오
       - Jason Roberts(1, 3), 임창덕(4, 6, 7, 8, 9, 10), [남궁연](https://ko.wikipedia.org/wiki/남궁연 "wikilink")(1, 5) - 믹싱

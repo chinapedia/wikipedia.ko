@@ -89,7 +89,7 @@
 
   - [TV동화 행복한 세상](https://ko.wikipedia.org/wiki/TV동화_행복한_세상 "wikilink")(2000년 \~ 2013년)
   - [TV동화 빨간 자전거](https://ko.wikipedia.org/wiki/빨간_자전거#애니메이션 "wikilink")(2013년 \~ 2015년)
-  - [별별가족](https://ko.wikipedia.org/wiki/별별가족 "wikilink")(2015년 \~ 2016년, 이상 [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_제1TV "wikilink"))
+  - [별별가족](../Page/별별가족.md "wikilink")(2015년 \~ 2016년, 이상 [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_제1TV "wikilink"))
   - TV에세이 좋은 생각([EBS](https://ko.wikipedia.org/wiki/EBS_TV "wikilink"))
 
 ## 각주

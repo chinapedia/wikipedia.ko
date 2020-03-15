@@ -11,12 +11,12 @@
 ## 경쟁 기종
 
   - [소니 엑스페리아 Z1](../Page/소니_엑스페리아_Z1.md "wikilink")
-  - [샤프 아쿠오스 SHL23](https://ko.wikipedia.org/wiki/샤프_아쿠오스_SHL23 "wikilink")
-  - [화웨이 어센드 D2](https://ko.wikipedia.org/wiki/화웨이_어센드_D2 "wikilink")
-  - [ZTE 누비아 Z5](https://ko.wikipedia.org/wiki/ZTE_누비아_Z5 "wikilink")
+  - [샤프 아쿠오스 SHL23](../Page/샤프_아쿠오스_SHL23.md "wikilink")
+  - [화웨이 어센드 D2](../Page/화웨이_어센드_D2.md "wikilink")
+  - [ZTE 누비아 Z5](../Page/ZTE_누비아_Z5.md "wikilink")
   - [삼성 갤럭시 S4](../Page/삼성_갤럭시_S4.md "wikilink")
   - [LG G2](../Page/LG_G2.md "wikilink")
-  - [팬택 베가 시크릿 업](https://ko.wikipedia.org/wiki/팬택_베가_시크릿_업 "wikilink")
+  - [팬택 베가 시크릿 업](../Page/팬택_베가_시크릿_업.md "wikilink")
   - [팬택 베가 LTE-A](../Page/팬택_베가_LTE-A.md "wikilink")
 
 ## 같이 보기

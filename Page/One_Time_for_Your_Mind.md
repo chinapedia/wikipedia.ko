@@ -3,7 +3,7 @@
 
 《**One Time for Your Mind**》은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [힙합](https://ko.wikipedia.org/wiki/힙합 "wikilink") [음악그룹](https://ko.wikipedia.org/wiki/음악그룹 "wikilink") [원타임의](https://ko.wikipedia.org/wiki/원타임_\(음악_그룹\) "wikilink") 데뷔 앨범이다. 타이틀인 ‘One Time for Your Mind’은 팀명인 1TYM의 원래 의미이기도 하다.\[1\]
 
-소속사인 YG 엔터테인먼트(당시 양군기획)은 1998년 1월에 나온 지누션의 영어 앨범 The Real에 일곱 명의 연습생들이 모인 M.F. Family를 참여시키는데, 이 중 세 명이 빠지고 남은 [테디](https://ko.wikipedia.org/wiki/테디 "wikilink"), [DANNY](https://ko.wikipedia.org/wiki/태빈 "wikilink"), [오진환](https://ko.wikipedia.org/wiki/오진환 "wikilink"), [송백경](https://ko.wikipedia.org/wiki/송백경 "wikilink") 네 명을 원타임으로 데뷔시켰다.
+소속사인 YG 엔터테인먼트(당시 양군기획)은 1998년 1월에 나온 지누션의 영어 앨범 The Real에 일곱 명의 연습생들이 모인 M.F. Family를 참여시키는데, 이 중 세 명이 빠지고 남은 [테디](https://ko.wikipedia.org/wiki/테디 "wikilink"), [DANNY](https://ko.wikipedia.org/wiki/태빈 "wikilink"), [오진환](https://ko.wikipedia.org/wiki/오진환 "wikilink"), [송백경](../Page/송백경.md "wikilink") 네 명을 원타임으로 데뷔시켰다.
 
 1999년 7월에는 소속사 아티스트들이 모두 모인 [YG 패밀리의](https://ko.wikipedia.org/wiki/YG_패밀리 "wikilink") 앨범과 활동에 참여했고, 10월에는 [도쿄](https://ko.wikipedia.org/wiki/도쿄 "wikilink")에서 열린 〈Superstar From Seoul 99'〉 공연에 참가하기도 했다.\[2\]\[3\]
 
@@ -17,7 +17,7 @@
 
   - [테디](https://ko.wikipedia.org/wiki/테디_\(가수\) "wikilink") - 리더, 메인 [랩](https://ko.wikipedia.org/wiki/랩_\(음악\) "wikilink")
   - [태빈](https://ko.wikipedia.org/wiki/태빈 "wikilink") - 메인 보컬
-  - [송백경](https://ko.wikipedia.org/wiki/송백경 "wikilink") - 보컬, 작사
+  - [송백경](../Page/송백경.md "wikilink") - 보컬, 작사
   - [오진환](https://ko.wikipedia.org/wiki/오진환 "wikilink") - 안무가, 하이 랩
 
 <!-- end list -->

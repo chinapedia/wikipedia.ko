@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [Flower \( \)](https://ko.wikipedia.org/wiki/Flower_\(_\)).
 
 
-**Flower**(플라워)는, [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [여성](https://ko.wikipedia.org/wiki/여성 "wikilink") [댄스](https://ko.wikipedia.org/wiki/춤 "wikilink")&[보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink") [그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). 소속 사무소는 [LDH](https://ko.wikipedia.org/wiki/LDH_\(기업\) "wikilink") 레이블은 [Sony Music Associated Records](https://ko.wikipedia.org/wiki/소니_뮤직_엔터테인먼트_\(일본\) "wikilink").
+**Flower**(플라워)는, [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [여성](https://ko.wikipedia.org/wiki/여성 "wikilink") [댄스](https://ko.wikipedia.org/wiki/춤 "wikilink")&[보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink") [그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). 소속 사무소는 [LDH](../Page/LDH_\(기업\).md "wikilink") 레이블은 [Sony Music Associated Records](https://ko.wikipedia.org/wiki/소니_뮤직_엔터테인먼트_\(일본\) "wikilink").
 
 ## 약력
 
-2010년 4월 1일, 예능 사무소 LDH가 운영하는 댄스 스쿨 EXPG로부터, [미즈노 에리나](https://ko.wikipedia.org/wiki/미즈노_에리나 "wikilink"), 나카지마 미오, [후지이 슈카](../Page/후지이_슈카.md "wikilink"), 시게토메 마나미의 4명이서 댄스 유닛으로서 결성. [EXILE](https://ko.wikipedia.org/wiki/EXILE "wikilink")의 라이브 투어에 서포트 멤버로서 참가하는 등 활동을 개시한다.
+2010년 4월 1일, 예능 사무소 LDH가 운영하는 댄스 스쿨 EXPG로부터, [미즈노 에리나](../Page/미즈노_에리나.md "wikilink"), 나카지마 미오, [후지이 슈카](../Page/후지이_슈카.md "wikilink"), 시게토메 마나미의 4명이서 댄스 유닛으로서 결성. [EXILE](https://ko.wikipedia.org/wiki/EXILE "wikilink")의 라이브 투어에 서포트 멤버로서 참가하는 등 활동을 개시한다.
 
-2011년 4월, [E-girls](../Page/E-girls.md "wikilink")의 멤버로서도 활동한다. 7월, 〈VOCAL BATTLE AUDITION 3〉에서 약 3만 명 중에서 선택된 5명, [와시오 레이나](https://ko.wikipedia.org/wiki/와시오_레이나 "wikilink"), 무토 치하루, 이치키 쿄카, 반도 노조미, 사토 하루미의 가입을 발표\[1\]. 댄스&보컬 유닛으로 다시 태어났다. 10월 12일, 오디션의 과제곡이기도 했던 〈Still〉로 데뷔.
+2011년 4월, [E-girls](../Page/E-girls.md "wikilink")의 멤버로서도 활동한다. 7월, 〈VOCAL BATTLE AUDITION 3〉에서 약 3만 명 중에서 선택된 5명, [와시오 레이나](../Page/와시오_레이나.md "wikilink"), 무토 치하루, 이치키 쿄카, 반도 노조미, 사토 하루미의 가입을 발표\[1\]. 댄스&보컬 유닛으로 다시 태어났다. 10월 12일, 오디션의 과제곡이기도 했던 〈Still〉로 데뷔.
 
-2013년, 〈FLOWER〉에서 〈Flower〉로 표기가 변경되었다. 7월 2일부터 〈[Happiness](https://ko.wikipedia.org/wiki/Happiness_\(음악_그룹\) "wikilink") vs Flower〉의 대결 기획으로 2그룹이 각자 무사무행 투어를 행해, 8월 7일에 싱글을 같은 날 발매하였다(Flower가 승리). 10월 18일, 미즈노가 배우업에 전념하기 위해 탈퇴했다. 12월 25일, 시게토메가 리더에 취임했다\[2\].
+2013년, 〈FLOWER〉에서 〈Flower〉로 표기가 변경되었다. 7월 2일부터 〈[Happiness](../Page/Happiness_\(음악_그룹\).md "wikilink") vs Flower〉의 대결 기획으로 2그룹이 각자 무사무행 투어를 행해, 8월 7일에 싱글을 같은 날 발매하였다(Flower가 승리). 10월 18일, 미즈노가 배우업에 전념하기 위해 탈퇴했다. 12월 25일, 시게토메가 리더에 취임했다\[2\].
 
 2014년 10월 12일, 무토가 해외 유학으로 탈퇴하는 것이 발표되었다\[3\]\[4\]. 11월 13일, 싱글 발매 이벤트를 갖고 정식으로 탈퇴해\[5\] 소속 사무소 LDH도 퇴사했다\[6\].
 
@@ -47,7 +47,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/와시오_레이나" title="wikilink">와시오 레이나</a></p></td>
+<td><p><a href="../Page/와시오_레이나.md" title="wikilink">와시오 레이나</a></p></td>
 <td><p>보컬<br />
 퍼포머</p></td>
 <td></td>
@@ -194,7 +194,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>2014년 1월 22일</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/Flower_(Flower의_음반)" title="wikilink">Flower</a></strong></p></td>
+<td><p><strong><a href="../Page/Flower_(Flower의_음반).md" title="wikilink">Flower</a></strong></p></td>
 <td><p>3위</p></td>
 </tr>
 <tr class="even">

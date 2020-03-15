@@ -22,9 +22,9 @@
 (<a href="https://ko.wikipedia.org/wiki/조지아주" title="wikilink">조지아주</a> <a href="https://ko.wikipedia.org/wiki/칼리지파크_(조지아주)" title="wikilink">칼리지파크</a>)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/윈트러스트_아레나" title="wikilink">윈트러스트 아레나</a><br />
 (<a href="https://ko.wikipedia.org/wiki/일리노이주" title="wikilink">일리노이주</a> <a href="https://ko.wikipedia.org/wiki/시카고" title="wikilink">시카고</a>)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/모히건_선_아레나" title="wikilink">모히건 선 아레나</a><br />
+<td><p><a href="../Page/모히건_선_아레나.md" title="wikilink">모히건 선 아레나</a><br />
 (<a href="https://ko.wikipedia.org/wiki/코네티컷주" title="wikilink">코네티컷주</a> <a href="https://ko.wikipedia.org/wiki/언캐스빌" title="wikilink">언캐스빌</a>)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/힝클_필드_하우스" title="wikilink">힝클 필드 하우스</a><br />
+<td><p><a href="../Page/힝클_필드_하우스.md" title="wikilink">힝클 필드 하우스</a><br />
 (<a href="https://ko.wikipedia.org/wiki/인디애나주" title="wikilink">인디애나주</a> <a href="https://ko.wikipedia.org/wiki/인디애나폴리스" title="wikilink">인디애나폴리스</a>)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/바클레이스_센터" title="wikilink">바클레이스 센터</a><br />
 (<a href="https://ko.wikipedia.org/wiki/뉴욕주" title="wikilink">뉴욕주</a> <a href="https://ko.wikipedia.org/wiki/브루클린" title="wikilink">브루클린</a>)</p></td>
@@ -63,7 +63,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/동부_콘퍼런스_(WNBA)" title="wikilink">동부 콘퍼런스</a></p></td>
+<td><p><a href="../Page/동부_콘퍼런스_(WNBA).md" title="wikilink">동부 콘퍼런스</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -89,7 +89,7 @@
 <tr class="even">
 <td><p><a href="../Page/코네티컷_선.md" title="wikilink">코네티컷 선</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/코네티컷주" title="wikilink">코네티컷주</a> <a href="https://ko.wikipedia.org/wiki/언캐스빌" title="wikilink">언캐스빌</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/모히건_선_아레나" title="wikilink">모히건 선 아레나</a></p></td>
+<td><p><a href="../Page/모히건_선_아레나.md" title="wikilink">모히건 선 아레나</a></p></td>
 <td><p>9,518명</p></td>
 <td><p>1999년</p></td>
 <td></td>
@@ -97,7 +97,7 @@
 <tr class="odd">
 <td><p><a href="../Page/인디애나_피버.md" title="wikilink">인디애나 피버</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/인디애나주" title="wikilink">인디애나주</a> <a href="https://ko.wikipedia.org/wiki/인디애나폴리스" title="wikilink">인디애나폴리스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/힝클_필드_하우스" title="wikilink">힝클 필드 하우스</a>[1]</p></td>
+<td><p><a href="../Page/힝클_필드_하우스.md" title="wikilink">힝클 필드 하우스</a>[1]</p></td>
 <td><p>9,100명</p></td>
 <td><p>2000년</p></td>
 <td></td>
@@ -147,8 +147,8 @@
 <td><p><a href="../Page/샬럿_스팅.md" title="wikilink">샬럿 스팅</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/노스캐롤라이나주" title="wikilink">노스캐롤라이나주</a> <a href="https://ko.wikipedia.org/wiki/샬럿" title="wikilink">샬럿</a></p></td>
 <td><p>1997년~2006년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/샬럿_콜리시엄" title="wikilink">샬럿 콜리시엄</a><br />
-<a href="https://ko.wikipedia.org/wiki/스펙트럼_센터" title="wikilink">샬럿 밥캐츠 아레나</a></p></td>
+<td><p><a href="../Page/샬럿_콜리시엄.md" title="wikilink">샬럿 콜리시엄</a><br />
+<a href="../Page/스펙트럼_센터.md" title="wikilink">샬럿 밥캐츠 아레나</a></p></td>
 <td><p>20,042명<br />
 19,077명</p></td>
 <td></td>
@@ -165,7 +165,7 @@
 <td><p><a href="../Page/마이애미_솔.md" title="wikilink">마이애미 솔</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/플로리다주" title="wikilink">플로리다주</a> <a href="https://ko.wikipedia.org/wiki/마이애미" title="wikilink">마이애미</a></p></td>
 <td><p>2000년~2002년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아메리칸_에어라인스_아레나" title="wikilink">아메리칸 에어라인스 아레나</a></p></td>
+<td><p><a href="../Page/아메리칸_에어라인스_아레나.md" title="wikilink">아메리칸 에어라인스 아레나</a></p></td>
 <td><p>19,600명</p></td>
 <td></td>
 </tr>
@@ -173,15 +173,15 @@
 <td><p><a href="../Page/디트로이트_쇼크.md" title="wikilink">디트로이트 쇼크</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/미시간주" title="wikilink">미시간주</a> <a href="https://ko.wikipedia.org/wiki/오번_힐스" title="wikilink">오번 힐스</a></p></td>
 <td><p>1998년~2009년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/더_팰리스_오브_오번_힐스" title="wikilink">더 팰리스 오브 오번 힐스</a></p></td>
+<td><p><a href="../Page/더_팰리스_오브_오번_힐스.md" title="wikilink">더 팰리스 오브 오번 힐스</a></p></td>
 <td><p>21,231명</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/댈러스_윙스" title="wikilink">댈러스 윙스의</a> 전신임.</p></td>
+<td><p><a href="../Page/댈러스_윙스.md" title="wikilink">댈러스 윙스의</a> 전신임.</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/올랜도_미러클.md" title="wikilink">올랜도 미러클</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/플로리다주" title="wikilink">플로리다주</a> <a href="https://ko.wikipedia.org/wiki/올랜도" title="wikilink">올랜도</a></p></td>
 <td><p>1999년~2002년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/암웨이_아레나" title="wikilink">TD 워터하우스센터</a></p></td>
+<td><p><a href="../Page/암웨이_아레나.md" title="wikilink">TD 워터하우스센터</a></p></td>
 <td><p>17,248명</p></td>
 <td><p><a href="../Page/코네티컷_선.md" title="wikilink">코네티컷 선의</a> 전신임.</p></td>
 </tr>
@@ -208,7 +208,7 @@
 <td><p>1997년</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/레이크우드_교회_중앙_캠퍼스" title="wikilink">컴팩 센터</a></p></td>
 <td><p>16,285명</p></td>
-<td><p>1998시즌부터 <a href="https://ko.wikipedia.org/wiki/서부_콘퍼런스_(WNBA)" title="wikilink">서부 콘퍼런스</a> 이동함.</p></td>
+<td><p>1998시즌부터 <a href="../Page/서부_콘퍼런스_(WNBA).md" title="wikilink">서부 콘퍼런스</a> 이동함.</p></td>
 </tr>
 </tbody>
 </table>
@@ -454,7 +454,7 @@
 
 [전미_여자_농구_협회](https://ko.wikipedia.org/wiki/분류:전미_여자_농구_협회 "wikilink")
 
-1.  [뱅커스 라이프 필드하우스](https://ko.wikipedia.org/wiki/뱅커스_라이프_필드하우스 "wikilink") 리모델링 공사로 인해 2020 시즌부터 2022시즌까지 임시 홈구장으로 사용할 예정임.
+1.  [뱅커스 라이프 필드하우스](../Page/뱅커스_라이프_필드하우스.md "wikilink") 리모델링 공사로 인해 2020 시즌부터 2022시즌까지 임시 홈구장으로 사용할 예정임.
 2.  [WNBA 파이널에는](https://ko.wikipedia.org/wiki/WNBA_파이널 "wikilink") 진출하지 못함.
 3.  [WNBA 파이널에는](https://ko.wikipedia.org/wiki/WNBA_파이널 "wikilink") 진출하지 못함.
 4.  [WNBA 파이널에는](https://ko.wikipedia.org/wiki/WNBA_파이널 "wikilink") 진출하지 못함.

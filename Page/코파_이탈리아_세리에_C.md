@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [   C](https://ko.wikipedia.org/wiki/___C).
 
 
-**코파 이탈리아 세리에 C**(, 과거 **코파 이탈리아 레가 프로**)는 [이탈리아](https://ko.wikipedia.org/wiki/이탈리아 "wikilink") [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 컵 대회이다. [세리에 C의](https://ko.wikipedia.org/wiki/세리에_C "wikilink") 팀들이 참여한 토너먼트이다. 결승전을 포함한 모든 경기는 홈, 어웨이 방식으로 치룬다.
+**코파 이탈리아 세리에 C**(, 과거 **코파 이탈리아 레가 프로**)는 [이탈리아](https://ko.wikipedia.org/wiki/이탈리아 "wikilink") [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 컵 대회이다. [세리에 C의](../Page/세리에_C.md "wikilink") 팀들이 참여한 토너먼트이다. 결승전을 포함한 모든 경기는 홈, 어웨이 방식으로 치룬다.
 
 ## 과거 우승팀들
 
@@ -37,23 +37,23 @@
 | 1997–98 | [알차노 비레시트](https://ko.wikipedia.org/wiki/ASD_FC_알차노 "wikilink")      | [체세나](https://ko.wikipedia.org/wiki/AC_체세나 "wikilink")                      |
 | 1998–99 | [Spal](https://ko.wikipedia.org/wiki/SPAL_1907 "wikilink")           | [구알도](https://ko.wikipedia.org/wiki/SS_구알도 "wikilink")                      |
 | 1999–00 | [피사](https://ko.wikipedia.org/wiki/피사_칼초 "wikilink")                 | [아벨리노](https://ko.wikipedia.org/wiki/AS_아벨리노_1912 "wikilink")               |
-| 2000–01 | [프라토](https://ko.wikipedia.org/wiki/AC_프라토 "wikilink")               | [루메차네](https://ko.wikipedia.org/wiki/AC_루메차네 "wikilink")                    |
+| 2000–01 | [프라토](../Page/AC_프라토.md "wikilink")                                  | [루메차네](../Page/AC_루메차네.md "wikilink")                                       |
 | 2001–02 | [알비놀레페](https://ko.wikipedia.org/wiki/UC_알비놀레페 "wikilink")           | [리보르노](https://ko.wikipedia.org/wiki/AS_리보르노_칼초 "wikilink")                 |
 | 2002–03 | [브린디시](https://ko.wikipedia.org/wiki/FB_브린디시_1912_SD "wikilink")     | [프로 파르티아](https://ko.wikipedia.org/wiki/아우로라_프로_파트리아_1919 "wikilink")       |
 | 2003–04 | [체세나](https://ko.wikipedia.org/wiki/AC_체세나 "wikilink")               | [프로 파트리아](https://ko.wikipedia.org/wiki/아우로라_프로_파트리아_1919 "wikilink")       |
 | 2004–05 | [스페치아](https://ko.wikipedia.org/wiki/스페치아_칼초_1906 "wikilink")        | [프로시노네](https://ko.wikipedia.org/wiki/프로시노네_칼초 "wikilink")                  |
 | 2005–06 | [갈리폴리](https://ko.wikipedia.org/wiki/ASD_갈리폴리_풋볼_1909 "wikilink")    | [산레메세](https://ko.wikipedia.org/wiki/US_산레메세_칼초_1904 "wikilink")            |
 | 2006–07 | [포자](https://ko.wikipedia.org/wiki/US_포자 "wikilink")                 | [쿠네오](https://ko.wikipedia.org/wiki/AC_쿠네오_1905 "wikilink")                 |
-| 2007–08 | [바사노 비르투스](https://ko.wikipedia.org/wiki/바사노_비르투스_55_ST "wikilink")  | [베네벤토](https://ko.wikipedia.org/wiki/베네벤토_칼초 "wikilink")                    |
+| 2007–08 | [바사노 비르투스](../Page/바사노_비르투스_55_ST.md "wikilink")                     | [베네벤토](../Page/베네벤토_칼초.md "wikilink")                                       |
 
 ### 코파 이탈리아 레가 프로
 
 | 연도      | 우승                                                                | 준우승                                                            |
 | ------- | ----------------------------------------------------------------- | -------------------------------------------------------------- |
 | 2008–09 | [소렌토](https://ko.wikipedia.org/wiki/소렌토_칼초 "wikilink")            | [크레모네세](../Page/US_크레모네세.md "wikilink")                        |
-| 2009–10 | [루메차네](https://ko.wikipedia.org/wiki/AC_루메차네 "wikilink")          | [코센차](https://ko.wikipedia.org/wiki/코센차_칼초_1914 "wikilink")    |
+| 2009–10 | [루메차네](../Page/AC_루메차네.md "wikilink")                             | [코센차](https://ko.wikipedia.org/wiki/코센차_칼초_1914 "wikilink")    |
 | 2010–11 | [유베 스타비아](../Page/SS_유베_스타비아.md "wikilink")                       | [카르피](../Page/카르피_FC_1909.md "wikilink")                       |
-| 2011–12 | [스페치아](https://ko.wikipedia.org/wiki/스페치아_칼초 "wikilink")          | [피사](https://ko.wikipedia.org/wiki/AC_피사_1909 "wikilink")      |
+| 2011–12 | [스페치아](../Page/스페치아_칼초.md "wikilink")                             | [피사](https://ko.wikipedia.org/wiki/AC_피사_1909 "wikilink")      |
 | 2012–13 | [라티나](https://ko.wikipedia.org/wiki/US_라티나_칼초 "wikilink")         | [비아레조](https://ko.wikipedia.org/wiki/FC_에스페리아_비아레조 "wikilink") |
 | 2013–14 | [살레르니타나](https://ko.wikipedia.org/wiki/US_살레르니타나_1919 "wikilink") | [몬차](https://ko.wikipedia.org/wiki/AC_몬차_브리안차_1912 "wikilink") |
 | 2014-15 | [코센차](https://ko.wikipedia.org/wiki/코센차_칼초 "wikilink")            | [코모](https://ko.wikipedia.org/wiki/칼초_코모 "wikilink")           |

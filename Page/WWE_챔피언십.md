@@ -166,7 +166,7 @@
 
   - [트리플 크라운 챔피언십](https://ko.wikipedia.org/wiki/트리플_크라운_챔피언십 "wikilink")
   - [그랜드 슬램 챔피언십](https://ko.wikipedia.org/wiki/그랜드_슬램_챔피언십 "wikilink")
-  - [WWE 유니버셜 챔피언십](https://ko.wikipedia.org/wiki/WWE_유니버셜_챔피언십 "wikilink")
+  - [WWE 유니버셜 챔피언십](../Page/WWE_유니버셜_챔피언십.md "wikilink")
   - [월드 헤비웨이트 챔피언십 (WWE)](../Page/월드_헤비웨이트_챔피언십_\(WWE\).md "wikilink")
   - [WWE NXT 챔피언십](https://ko.wikipedia.org/wiki/WWE_NXT_챔피언십 "wikilink")
   - [WCW 월드 헤비웨이트 챔피언십](https://ko.wikipedia.org/wiki/WCW_월드_헤비웨이트_챔피언십 "wikilink")

@@ -146,7 +146,7 @@ Super Junior K.R.Y., 소울스타, <a href="https://ko.wikipedia.org/wiki/진주
 <td><p><a href="https://ko.wikipedia.org/wiki/12월_27일" title="wikilink">12월 27일</a></p></td>
 <td><p>윤도현, <a href="https://ko.wikipedia.org/wiki/10cm_(음악_그룹)" title="wikilink">10cm</a>, <a href="https://ko.wikipedia.org/wiki/성시경" title="wikilink">성시경</a>, <a href="https://ko.wikipedia.org/wiki/하하" title="wikilink">하하</a>, <a href="https://ko.wikipedia.org/wiki/김조한" title="wikilink">김조한</a><br />
 <a href="https://ko.wikipedia.org/wiki/예성" title="wikilink">예성</a>, <a href="https://ko.wikipedia.org/wiki/규현" title="wikilink">규현</a>, <a href="https://ko.wikipedia.org/wiki/코요태" title="wikilink">코요태</a>, <a href="https://ko.wikipedia.org/wiki/김태원_(음악인)" title="wikilink">김태원</a>, <a href="https://ko.wikipedia.org/wiki/부활_(음악_그룹)" title="wikilink">부활</a>, <a href="https://ko.wikipedia.org/wiki/김건모" title="wikilink">김건모</a><br />
-<a href="https://ko.wikipedia.org/wiki/안영미" title="wikilink">안영미</a>, <a href="https://ko.wikipedia.org/wiki/이소라_(가수)" title="wikilink">이소라</a>, <a href="https://ko.wikipedia.org/wiki/남경주" title="wikilink">남경주</a>, <a href="https://ko.wikipedia.org/wiki/박칼린" title="wikilink">박칼린</a>, <a href="https://ko.wikipedia.org/wiki/백지영" title="wikilink">백지영</a>, <a href="https://ko.wikipedia.org/wiki/이문세" title="wikilink">이문세</a>, 허준, <a href="https://ko.wikipedia.org/wiki/사이먼_도미닉" title="wikilink">Simon D.</a><br />
+<a href="https://ko.wikipedia.org/wiki/안영미" title="wikilink">안영미</a>, <a href="https://ko.wikipedia.org/wiki/이소라_(가수)" title="wikilink">이소라</a>, <a href="../Page/남경주.md" title="wikilink">남경주</a>, <a href="https://ko.wikipedia.org/wiki/박칼린" title="wikilink">박칼린</a>, <a href="https://ko.wikipedia.org/wiki/백지영" title="wikilink">백지영</a>, <a href="https://ko.wikipedia.org/wiki/이문세" title="wikilink">이문세</a>, 허준, <a href="https://ko.wikipedia.org/wiki/사이먼_도미닉" title="wikilink">Simon D.</a><br />
 <a href="../Page/임윤택.md" title="wikilink">임윤택</a>, 슈퍼스타K 3, <a href="https://ko.wikipedia.org/wiki/정진운" title="wikilink">정진운</a>, <a href="https://ko.wikipedia.org/wiki/린_(가수)" title="wikilink">린</a>, <a href="https://ko.wikipedia.org/wiki/손호영" title="wikilink">손호영</a></p></td>
 </tr>
 </tbody>
@@ -206,7 +206,7 @@ Super Junior K.R.Y., 소울스타, <a href="https://ko.wikipedia.org/wiki/진주
 <tr class="odd">
 <td><p>34회</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/3월_3일" title="wikilink">3월 3일</a></p></td>
-<td><p>윤도현, <a href="https://ko.wikipedia.org/wiki/스윗_소로우" title="wikilink">스윗 소로우</a>, 이현, <a href="https://ko.wikipedia.org/wiki/유호석" title="wikilink">에반</a></p></td>
+<td><p>윤도현, <a href="https://ko.wikipedia.org/wiki/스윗_소로우" title="wikilink">스윗 소로우</a>, 이현, <a href="../Page/유호석.md" title="wikilink">에반</a></p></td>
 </tr>
 <tr class="even">
 <td><p>35회</p></td>

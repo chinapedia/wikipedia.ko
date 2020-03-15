@@ -5,7 +5,7 @@
 
 ## 제1작
 
-칸사이 쟈니즈 Jr.인 [히라노 쇼는](https://ko.wikipedia.org/wiki/히라노_쇼 "wikilink") 본작이 텔레비전 드라마 첫 출연, 첫 주연이다. [캐치프레이즈](https://ko.wikipedia.org/wiki/캐치프레이즈 "wikilink")는, 〈**이 세상에서 최대한 열심히 살아가는 모습을 누군가가 봐주었으면 좋겠다는 것뿐이야…**〉.
+칸사이 쟈니즈 Jr.인 [히라노 쇼는](../Page/히라노_쇼.md "wikilink") 본작이 텔레비전 드라마 첫 출연, 첫 주연이다. [캐치프레이즈](https://ko.wikipedia.org/wiki/캐치프레이즈 "wikilink")는, 〈**이 세상에서 최대한 열심히 살아가는 모습을 누군가가 봐주었으면 좋겠다는 것뿐이야…**〉.
 
 ### 줄거리
 
@@ -13,9 +13,9 @@
 
 #### 록 밴드 〈SHARK〉
 
-  - 쿠라타 미즈키 - [히라노 쇼](https://ko.wikipedia.org/wiki/히라노_쇼 "wikilink") ([칸사이 쟈니즈 Jr.](https://ko.wikipedia.org/wiki/자니스_주니어 "wikilink"))
+  - 쿠라타 미즈키 - [히라노 쇼](../Page/히라노_쇼.md "wikilink") ([칸사이 쟈니즈 Jr.](https://ko.wikipedia.org/wiki/자니스_주니어 "wikilink"))
     보컬 담당.
-  - 하기와라 카이 - [하마다 타카히로](https://ko.wikipedia.org/wiki/하마다_타카히로 "wikilink") (칸사이 쟈니즈 Jr.)
+  - 하기와라 카이 - [하마다 타카히로](../Page/하마다_타카히로.md "wikilink") (칸사이 쟈니즈 Jr.)
     리드 기타 담당.
   - 류자키 아유무 - 마츠무라 호쿠토 ([쟈니즈 Jr.](https://ko.wikipedia.org/wiki/자니스_주니어 "wikilink"))
     키보드 담당.
@@ -191,9 +191,9 @@
 
 #### 록 밴드 〈Cloud5〉
 
-  - 이리에 사쿠 - [시게오카 다이키](https://ko.wikipedia.org/wiki/시게오카_다이키 "wikilink") ([쟈니즈WEST](https://ko.wikipedia.org/wiki/자니스WEST "wikilink"))
+  - 이리에 사쿠 - [시게오카 다이키](https://ko.wikipedia.org/wiki/시게오카_다이키 "wikilink") ([쟈니즈WEST](../Page/자니스WEST.md "wikilink"))
     베이스 담당.
-  - 하기와라 카이 - [하마다 타카히로](https://ko.wikipedia.org/wiki/하마다_타카히로 "wikilink") (쟈니즈WEST)
+  - 하기와라 카이 - [하마다 타카히로](../Page/하마다_타카히로.md "wikilink") (쟈니즈WEST)
     기타 담당. 〈SHARK〉의 리더. 서브 멤버로서 〈Cloud5〉에 참가.
   - 사토 아루토 - 아베 아란 ([쟈니즈 Jr.](https://ko.wikipedia.org/wiki/자니스_주니어 "wikilink"))
     보컬 담당.
@@ -219,7 +219,7 @@
     사이드 기타 담당.
   - 키타가와 카즈키 - [후지이 류세이](https://ko.wikipedia.org/wiki/후지이_류세이 "wikilink") (쟈니즈WEST)
     전 보컬. 1년 전에 바이크 사고로 타계.
-  - 쿠라타 미즈키 - [히라노 쇼](https://ko.wikipedia.org/wiki/히라노_쇼 "wikilink") ([칸사이 쟈니즈 Jr.](https://ko.wikipedia.org/wiki/자니스_주니어 "wikilink"))
+  - 쿠라타 미즈키 - [히라노 쇼](../Page/히라노_쇼.md "wikilink") ([칸사이 쟈니즈 Jr.](https://ko.wikipedia.org/wiki/자니스_주니어 "wikilink"))
     보컬 담당.
   - 류자키 아유무 - 마츠무라 호쿠토 (쟈니즈 Jr.)
     키보드 담당.
@@ -235,7 +235,7 @@
 
 #### 그 외
 
-  - 요네자와 마코토 - [카에데](https://ko.wikipedia.org/wiki/카에데 "wikilink") ([E-girls](../Page/E-girls.md "wikilink"))
+  - 요네자와 마코토 - [카에데](../Page/카에데.md "wikilink") ([E-girls](../Page/E-girls.md "wikilink"))
     사쿠, 코타의 룸 메이트. 프로 댄서 지망.
 
   - 마츠유키 - [토요하라 코스케](https://ko.wikipedia.org/wiki/토요하라_코스케 "wikilink")
@@ -253,7 +253,7 @@
 
   - 각본 - 쿠와무라 사야카, 하야부네 카에코
   - 감독 - 니시무라 료, 혼다 류이치, 나카쿠키 츠요시, 고토 코타로
-  - 주제가 - [쟈니즈WEST](https://ko.wikipedia.org/wiki/자니스WEST "wikilink") 〈[그 앞에…](https://ko.wikipedia.org/wiki/에에쟈나이카 "wikilink")〉 ([쟈니즈 엔터테인먼트](https://ko.wikipedia.org/wiki/자니스_엔터테인먼트 "wikilink"))
+  - 주제가 - [쟈니즈WEST](../Page/자니스WEST.md "wikilink") 〈[그 앞에…](https://ko.wikipedia.org/wiki/에에쟈나이카 "wikilink")〉 ([쟈니즈 엔터테인먼트](https://ko.wikipedia.org/wiki/자니스_엔터테인먼트 "wikilink"))
   - 제작 - 후쿠시 아츠시
   - 프로듀스 - 우에노 히로유키, 사카시타 테츠야, 마에하타 사치코
   - 기획 제작 - 닛폰 TV

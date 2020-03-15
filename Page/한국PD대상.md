@@ -98,7 +98,7 @@
 | 부문                | 수상작(자)                                                                                                        |
 | ----------------- | ------------------------------------------------------------------------------------------------------------- |
 | 올해의 PD 부문         | KBS \`[강희중](https://ko.wikipedia.org/wiki/강희중 "wikilink")\`                                                   |
-| 실험정신 TV 부문        | MBC \`우리들의 일밤 [나는 가수다](https://ko.wikipedia.org/wiki/나는_가수다 "wikilink")\`(김영희, 신정수, 이지선, 이병혁)                 |
+| 실험정신 TV 부문        | MBC \`우리들의 일밤 [나는 가수다](../Page/나는_가수다.md "wikilink")\`(김영희, 신정수, 이지선, 이병혁)                                    |
 | 실험정신 라디오 부문       | KBS \`[실험다큐 소리로 보는 세상](https://ko.wikipedia.org/wiki/실험다큐_소리로_보는_세상 "wikilink")\`(박천기, 이은미, 민일홍)              |
 | 작품상 TV드라마 부문      | SBS \`[뿌리깊은 나무](https://ko.wikipedia.org/wiki/뿌리깊은_나무_\(2011년_드라마\) "wikilink")\`(장태유, 신경수)                   |
 | 작품상 TV시사다큐 부문     | KBS \`[KBS스페셜](https://ko.wikipedia.org/wiki/KBS스페셜 "wikilink")심리치유 8주의 기록 '함께살자'(류지열)                        |
@@ -290,7 +290,7 @@
 </tr>
 <tr class="odd">
 <td><p>예능 부문</p></td>
-<td><p>MBC 《<a href="https://ko.wikipedia.org/wiki/일밤" title="wikilink">일밤</a> - <a href="https://ko.wikipedia.org/wiki/미스터리_음악쇼_복면가왕" title="wikilink">미스터리 음악쇼 복면가왕</a>》<br />
+<td><p>MBC 《<a href="https://ko.wikipedia.org/wiki/일밤" title="wikilink">일밤</a> - <a href="../Page/미스터리_음악쇼_복면가왕.md" title="wikilink">미스터리 음악쇼 복면가왕</a>》<br />
 민철기, 노시용</p></td>
 </tr>
 <tr class="even">
@@ -353,7 +353,7 @@
 <tr class="even">
 <td><p>성우 부문</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/서유리" title="wikilink">서유리</a><br />
-MBC 《<a href="https://ko.wikipedia.org/wiki/마이_리틀_텔레비전" title="wikilink">마이 리틀 텔레비전</a>》</p></td>
+MBC 《<a href="../Page/마이_리틀_텔레비전.md" title="wikilink">마이 리틀 텔레비전</a>》</p></td>
 </tr>
 <tr class="odd">
 <td><p>코미디언 부문</p></td>

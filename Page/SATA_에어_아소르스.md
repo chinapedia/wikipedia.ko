@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SATA  ](https://ko.wikipedia.org/wiki/SATA__).
 
 
-**SATA 에어 아소르스**()는 [포르투갈](https://ko.wikipedia.org/wiki/포르투갈 "wikilink") [아소르스 자치 지방](https://ko.wikipedia.org/wiki/아소르스_자치_지방 "wikilink") [폰타델가다](../Page/폰타델가다.md "wikilink")에 기반을 둔 [항공사](https://ko.wikipedia.org/wiki/항공사 "wikilink")이다.\[1\]\[2\] [아소르스 제도에서](https://ko.wikipedia.org/wiki/아소르스_제도 "wikilink") 정기 여객, 화물, 우편 운송 서비스를 제공하고 있다. 자체 정비 및 화물처리 서비스를 보유하고 있으며 4개의 지역 공항을 관리한다. 주 허브 공항은 [폰타델가다](../Page/폰타델가다.md "wikilink") [요한 바오로 2세 공항이다](https://ko.wikipedia.org/wiki/요한_바오로_2세_공항 "wikilink")
+**SATA 에어 아소르스**()는 [포르투갈](https://ko.wikipedia.org/wiki/포르투갈 "wikilink") [아소르스 자치 지방](https://ko.wikipedia.org/wiki/아소르스_자치_지방 "wikilink") [폰타델가다](../Page/폰타델가다.md "wikilink")에 기반을 둔 [항공사](https://ko.wikipedia.org/wiki/항공사 "wikilink")이다.\[1\]\[2\] [아소르스 제도에서](https://ko.wikipedia.org/wiki/아소르스_제도 "wikilink") 정기 여객, 화물, 우편 운송 서비스를 제공하고 있다. 자체 정비 및 화물처리 서비스를 보유하고 있으며 4개의 지역 공항을 관리한다. 주 허브 공항은 [폰타델가다](../Page/폰타델가다.md "wikilink") [요한 바오로 2세 공항이다](../Page/요한_바오로_2세_공항.md "wikilink")
 
 ## 보유 기종
 

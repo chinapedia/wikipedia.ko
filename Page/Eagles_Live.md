@@ -8,12 +8,12 @@
 ### 1면
 
 1.  "[Hotel California](https://ko.wikipedia.org/wiki/Hotel_California "wikilink")" – 6:55 (*1980년 7월 29일 녹음*)
-2.  "[Heartache Tonight](https://ko.wikipedia.org/wiki/Heartache_Tonight "wikilink")" – 4:35 (*1980년 7월 27일 녹음*)
+2.  "[Heartache Tonight](../Page/Heartache_Tonight.md "wikilink")" – 4:35 (*1980년 7월 27일 녹음*)
 3.  "I Can't Tell You Why" – 5:24 (*1980년 7월 28일 녹음*)
 
 ### 2면
 
-1.  "[The Long Run](https://ko.wikipedia.org/wiki/The_Long_Run_\(노래\) "wikilink")" – 5:35 (*1980년 7월 27일 녹음*)
+1.  "[The Long Run](../Page/The_Long_Run_\(노래\).md "wikilink")" – 5:35 (*1980년 7월 27일 녹음*)
 2.  "New Kid in Town" – 5:45 (*1976년 10월 22일 녹음*)
 3.  "Life's Been Good" – 9:38 (*1980년 7월 29일 녹음*)
 
@@ -30,14 +30,14 @@
 1.  "Saturday Night" – 3:55 (*1980년 7월 28일 녹음*)
 2.  "All Night Long" – 5:40 (*1980년 7월 27일 녹음*)
 3.  "Life in the Fast Lane" – 5:10 (*1980년 7월 31일 녹음*)
-4.  "[Take It Easy](https://ko.wikipedia.org/wiki/Take_It_Easy "wikilink")" – 5:20 (*1980년 7월 27일 녹음*)
+4.  "[Take It Easy](../Page/Take_It_Easy.md "wikilink")" – 5:20 (*1980년 7월 27일 녹음*)
 
 ## 세션 구성
 
 ### 이글스
 
   - [글렌 프레이](https://ko.wikipedia.org/wiki/글렌_프레이 "wikilink") - 기타, 키보드, 보컬
-  - [돈 헨리](https://ko.wikipedia.org/wiki/돈_헨리 "wikilink") - 드럼, 타악기, 보컬
+  - [돈 헨리](../Page/돈_헨리.md "wikilink") - 드럼, 타악기, 보컬
   - [돈 펠더](https://ko.wikipedia.org/wiki/돈_펠더 "wikilink") - 기타, 보컬
   - [조 월시](https://ko.wikipedia.org/wiki/조_월시 "wikilink") - 기타, 키보드, 보컬
   - [랜디 마이즈너](https://ko.wikipedia.org/wiki/랜디_마이즈너 "wikilink") - 베이스 기타, 보컬

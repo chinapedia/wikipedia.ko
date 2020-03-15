@@ -269,7 +269,7 @@
   - [채연](https://ko.wikipedia.org/wiki/채연 "wikilink") – 중국 현지 아시아 뉴 스타상 시상
   - [박태환](https://ko.wikipedia.org/wiki/박태환 "wikilink") – 여자 그룹상 시상
   - [이천희](https://ko.wikipedia.org/wiki/이천희 "wikilink"), [윤진서](https://ko.wikipedia.org/wiki/윤진서 "wikilink") – 남자 그룹상 시상
-  - [이기상](https://ko.wikipedia.org/wiki/이기상_\(VJ\) "wikilink"), [최할리](https://ko.wikipedia.org/wiki/최할리 "wikilink") – 멘트
+  - [이기상](https://ko.wikipedia.org/wiki/이기상_\(VJ\) "wikilink"), [최할리](../Page/최할리.md "wikilink") – 멘트
   - [이기우](https://ko.wikipedia.org/wiki/이기우_\(1981년\) "wikilink"), [박진희](https://ko.wikipedia.org/wiki/박진희_\(배우\) "wikilink") – 뮤직비디오 작품상 시상
   - [봄여름가을겨울](https://ko.wikipedia.org/wiki/봄여름가을겨울 "wikilink") – 올해의 노래상 시상
   - [신승훈](https://ko.wikipedia.org/wiki/신승훈 "wikilink") – 올해의 가수 시상

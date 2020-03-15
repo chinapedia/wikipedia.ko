@@ -32,7 +32,7 @@
 현재 앵커는 [2020년](https://ko.wikipedia.org/wiki/2020년 "wikilink") [2월 8일부터를](https://ko.wikipedia.org/wiki/2월_8일 "wikilink") 기준으로 한다.
 
   - 토요일 : [이진](https://ko.wikipedia.org/wiki/이진_\(아나운서\) "wikilink") 아나운서
-  - 일요일 : [김수지](https://ko.wikipedia.org/wiki/김수지_\(아나운서\) "wikilink") 아나운서
+  - 일요일 : [김수지](../Page/김수지_\(아나운서\).md "wikilink") 아나운서
 
 ## 타이틀 변천사
 

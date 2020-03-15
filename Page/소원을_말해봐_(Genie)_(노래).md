@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [  \(Genie\) \(\)](https://ko.wikipedia.org/wiki/__\(Genie\)_\(\)).
 
 
-〈**소원을 말해봐 (Genie)**〉는 대한민국의 걸 그룹 [소녀시대](https://ko.wikipedia.org/wiki/소녀시대 "wikilink")의 노래이다. 스웨덴의 작곡가팀 디자인 뮤직과 [유영진](https://ko.wikipedia.org/wiki/유영진 "wikilink"), [유한진](https://ko.wikipedia.org/wiki/유한진 "wikilink")이 합작한 노래로, 2009년 6월 22일 발매되었다.
+〈**소원을 말해봐 (Genie)**〉는 대한민국의 걸 그룹 [소녀시대](https://ko.wikipedia.org/wiki/소녀시대 "wikilink")의 노래이다. 스웨덴의 작곡가팀 디자인 뮤직과 [유영진](https://ko.wikipedia.org/wiki/유영진 "wikilink"), [유한진](../Page/유한진.md "wikilink")이 합작한 노래로, 2009년 6월 22일 발매되었다.
 
 ## 구성
 
-〈소원을 말해봐〉는 유럽 출신 작곡가팀 디자인 뮤직과 [유영진](https://ko.wikipedia.org/wiki/유영진 "wikilink"), [유한진](https://ko.wikipedia.org/wiki/유한진 "wikilink")이 합작해 만들어냈다. 가사적인 부분에서 일상에서 지치거나 자신감을 상실해 우울한 이들에게 소녀시대가 행운의 여신이 돼 에너지와 생기, 용기와 열정을 되찾을 힘을 준다는 내용이다. 램프의 요정이자 곡의 부제인 지니(Genie)처럼 소원을 이뤄주는 역할을 소녀시대가 한다는 뜻에서 부제를 붙였다.\[1\]
+〈소원을 말해봐〉는 유럽 출신 작곡가팀 디자인 뮤직과 [유영진](https://ko.wikipedia.org/wiki/유영진 "wikilink"), [유한진](../Page/유한진.md "wikilink")이 합작해 만들어냈다. 가사적인 부분에서 일상에서 지치거나 자신감을 상실해 우울한 이들에게 소녀시대가 행운의 여신이 돼 에너지와 생기, 용기와 열정을 되찾을 힘을 준다는 내용이다. 램프의 요정이자 곡의 부제인 지니(Genie)처럼 소원을 이뤄주는 역할을 소녀시대가 한다는 뜻에서 부제를 붙였다.\[1\]
 
 이번 노래의 컨셉은 밀리터리룩을 기본으로한 마린걸이다. 육군, 공군, 해군 밀리터리룩을 모두 보여줬으며, 소녀시대는 더 밝은 느낌을 주기 위해 [유리](https://ko.wikipedia.org/wiki/유리 "wikilink")를 제외한 모든 멤버들이 염색했다.\[2\] [수영](https://ko.wikipedia.org/wiki/수영 "wikilink")은 데뷔 이후 처음으로 단발을 시도했고,\[3\] [서현](https://ko.wikipedia.org/wiki/서현 "wikilink")은 처음으로 염색을 했다.\[4\]
 

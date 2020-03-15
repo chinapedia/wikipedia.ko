@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Third Time Fo Yo\' Mind!!](https://ko.wikipedia.org/wiki/Third_Time_Fo_Yo\'_Mind!!).
 
 
-《**Third Time Fo Yo' Mind\!\!**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [힙합](https://ko.wikipedia.org/wiki/힙합 "wikilink") [음악그룹](https://ko.wikipedia.org/wiki/음악그룹 "wikilink") [원타임의](https://ko.wikipedia.org/wiki/원타임_\(음악_그룹\) "wikilink") 세 번째 정규앨범이다. 두 장의 전작들과 달리 프로듀싱을 [Perry가](https://ko.wikipedia.org/wiki/페리_\(가수\) "wikilink") 아닌 [테디가](https://ko.wikipedia.org/wiki/테디_\(가수\) "wikilink") 도맡아 앨범 작업을 진행했다. 하지만 당시 미국 영주권자 관련 법률이 강화되어 미국 영주권을 가진 연예인들의 활동이 60일로 제한을 받으면서, 미국 영주권자였던 테디 때문에 긴 활동을 하지는 못했다.\[1\] 결국 원타임은 앨범 타이틀곡이었던 〈어머니〉, 〈Nasty〉 두 곡으로 부랴부랴 활동한 후, 〈Make it Last〉는 뮤직비디오로만 활동하면서 마무리지어야 했다.
+《**Third Time Fo Yo' Mind\!\!**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [힙합](https://ko.wikipedia.org/wiki/힙합 "wikilink") [음악그룹](https://ko.wikipedia.org/wiki/음악그룹 "wikilink") [원타임의](https://ko.wikipedia.org/wiki/원타임_\(음악_그룹\) "wikilink") 세 번째 정규앨범이다. 두 장의 전작들과 달리 프로듀싱을 [Perry가](../Page/페리_\(가수\).md "wikilink") 아닌 [테디가](https://ko.wikipedia.org/wiki/테디_\(가수\) "wikilink") 도맡아 앨범 작업을 진행했다. 하지만 당시 미국 영주권자 관련 법률이 강화되어 미국 영주권을 가진 연예인들의 활동이 60일로 제한을 받으면서, 미국 영주권자였던 테디 때문에 긴 활동을 하지는 못했다.\[1\] 결국 원타임은 앨범 타이틀곡이었던 〈어머니〉, 〈Nasty〉 두 곡으로 부랴부랴 활동한 후, 〈Make it Last〉는 뮤직비디오로만 활동하면서 마무리지어야 했다.
 
-수록곡 중 〈어젯밤 이야기〉는 80년대 히트그룹 [소방차의](https://ko.wikipedia.org/wiki/소방차_\(음악_그룹\) "wikilink") 원곡을 리메이크 했고, 〈Sucka Busta〉는 미국 영화 《[고스트 버스터즈](https://ko.wikipedia.org/wiki/고스트_버스터즈 "wikilink")》의 사운드트랙에서 메인 테마를 차용했다. 보너스트랙은 [송백경](https://ko.wikipedia.org/wiki/송백경 "wikilink")과 [오진환](https://ko.wikipedia.org/wiki/오진환 "wikilink")이 토크쇼 형식으로 꾸민 코믹한 상황극과 노래가 실렸다.
+수록곡 중 〈어젯밤 이야기〉는 80년대 히트그룹 [소방차의](https://ko.wikipedia.org/wiki/소방차_\(음악_그룹\) "wikilink") 원곡을 리메이크 했고, 〈Sucka Busta〉는 미국 영화 《[고스트 버스터즈](https://ko.wikipedia.org/wiki/고스트_버스터즈 "wikilink")》의 사운드트랙에서 메인 테마를 차용했다. 보너스트랙은 [송백경](../Page/송백경.md "wikilink")과 [오진환](https://ko.wikipedia.org/wiki/오진환 "wikilink")이 토크쇼 형식으로 꾸민 코믹한 상황극과 노래가 실렸다.
 
 ## 수록곡
 
@@ -15,7 +15,7 @@
 
   - [테디](https://ko.wikipedia.org/wiki/테디_\(가수\) "wikilink") - 리더, 메인 [랩](https://ko.wikipedia.org/wiki/랩_\(음악\) "wikilink")
   - [태빈](https://ko.wikipedia.org/wiki/태빈 "wikilink") - 메인 보컬
-  - [송백경](https://ko.wikipedia.org/wiki/송백경 "wikilink") - 보컬, 랩, 작사
+  - [송백경](../Page/송백경.md "wikilink") - 보컬, 랩, 작사
   - [오진환](https://ko.wikipedia.org/wiki/오진환 "wikilink") - 안무가, 하이 랩
 
 <!-- end list -->

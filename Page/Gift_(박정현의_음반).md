@@ -9,7 +9,7 @@
 
   - **표지**와 **포토북**은 미국 뉴욕에서 촬영한 사진으로 제작하였다.
   - **1CD REUNITE**에는 정규 5집《*[On & On](https://ko.wikipedia.org/wiki/On_&_On_\(박정현의_음반\) "wikilink")*》음반에서〈아름다운 너〉의 영어 버전인〈Beautiful You〉와 [김조한](https://ko.wikipedia.org/wiki/김조한 "wikilink"), [김범수](https://ko.wikipedia.org/wiki/김범수_\(가수\) "wikilink"), [성시경](https://ko.wikipedia.org/wiki/성시경 "wikilink") 등 여러 가수의 [콜라보레이션](https://ko.wikipedia.org/wiki/콜라보레이션 "wikilink") 모음집이 담겨 있다.
-  - **2CD REBOOT**은 [MBC](https://ko.wikipedia.org/wiki/MBC_TV "wikilink") 《[나는 가수다](https://ko.wikipedia.org/wiki/나는_가수다 "wikilink")》에서 라이브로 선보인 곡을 악기 편성이나 보컬 녹음 등이 정교하게 이루어진 [스튜디오](https://ko.wikipedia.org/wiki/스튜디오 "wikilink") 녹음 버전으로 새롭게 만들었고, 그동안 많은 사랑을 받아왔던 [양희은](https://ko.wikipedia.org/wiki/양희은 "wikilink")의〈세노야〉를 박정현만이 가지고 있는 음색과 역량으로 재해석했다. 새롭게 도전한〈세노야〉는 이번 스페셜 음반의 타이틀 곡이다.
+  - **2CD REBOOT**은 [MBC](https://ko.wikipedia.org/wiki/MBC_TV "wikilink") 《[나는 가수다](../Page/나는_가수다.md "wikilink")》에서 라이브로 선보인 곡을 악기 편성이나 보컬 녹음 등이 정교하게 이루어진 [스튜디오](https://ko.wikipedia.org/wiki/스튜디오 "wikilink") 녹음 버전으로 새롭게 만들었고, 그동안 많은 사랑을 받아왔던 [양희은](https://ko.wikipedia.org/wiki/양희은 "wikilink")의〈세노야〉를 박정현만이 가지고 있는 음색과 역량으로 재해석했다. 새롭게 도전한〈세노야〉는 이번 스페셜 음반의 타이틀 곡이다.
   - **3CD Parallax REMASTERED**에선 정규 8집 《*[Parallax](https://ko.wikipedia.org/wiki/Parallax "wikilink")*》을 좀 더 풍성한 사운드와 새로운 만족감을 선물하기 위해 리마스터링 작업을 했다. 이번 리마스터 작업은 영국의 [Metropolis Studios에서](https://ko.wikipedia.org/wiki/:en:Metropolis_Studios "wikilink") 진행하는 등 완성도를 한층 더 높이기 위해 노력하였다.
   - 보너스 형태로 박정현과 작곡가들이 직접 밝힌 정규 8집의 여덟 가지의 이야기와 하얀 겨울의 뮤직비디오를 담고 있는 **DVD**가 수록되었다.
 

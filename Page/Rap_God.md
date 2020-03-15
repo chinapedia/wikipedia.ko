@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Rap God](https://ko.wikipedia.org/wiki/Rap_God).
 
 
-"**Rap God**"은 미국의 랩 가수 [에미넴](https://ko.wikipedia.org/wiki/에미넴 "wikilink")의 음악이다. 이 노래는 앨범 [The Marshall Mathers LP 2에](https://ko.wikipedia.org/wiki/The_Marshall_Mathers_LP_2 "wikilink") 수록되어 있다.
+"**Rap God**"은 미국의 랩 가수 [에미넴](https://ko.wikipedia.org/wiki/에미넴 "wikilink")의 음악이다. 이 노래는 앨범 [The Marshall Mathers LP 2에](../Page/The_Marshall_Mathers_LP_2.md "wikilink") 수록되어 있다.
 
 ## 구성
 

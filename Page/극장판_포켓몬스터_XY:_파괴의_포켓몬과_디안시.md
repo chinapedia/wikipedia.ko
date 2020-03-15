@@ -5,7 +5,7 @@
 
 ## 개요
 
-  - [제르네아스](https://ko.wikipedia.org/wiki/제르네아스 "wikilink"), [이벨타르](https://ko.wikipedia.org/wiki/이벨타르 "wikilink"), [디안시](https://ko.wikipedia.org/wiki/디안시 "wikilink"), 메가진화 포켓몬들이 등장한다.
+  - [제르네아스](https://ko.wikipedia.org/wiki/제르네아스 "wikilink"), [이벨타르](https://ko.wikipedia.org/wiki/이벨타르 "wikilink"), [디안시](../Page/디안시.md "wikilink"), 메가진화 포켓몬들이 등장한다.
   - 이번작 부터는 "극장판 포켓몬스터 XY"가 아닌, "포켓몬 더 무비 XY"로 명한다.
   - 동시상영 작품은 [피카츄, 이건 무슨 열쇠야?이다](https://ko.wikipedia.org/wiki/피카츄,_이건_무슨_열쇠야? "wikilink").
 
@@ -20,7 +20,7 @@
 
   - [제르네아스](https://ko.wikipedia.org/wiki/제르네아스 "wikilink")
   - [이벨타르](https://ko.wikipedia.org/wiki/이벨타르 "wikilink")
-  - [디안시](https://ko.wikipedia.org/wiki/디안시 "wikilink")
+  - [디안시](../Page/디안시.md "wikilink")
 
 ## 같이 보기
 

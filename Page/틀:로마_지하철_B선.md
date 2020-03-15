@@ -5,7 +5,7 @@
 
 <div class="NavHead" style="background:#005D9B; padding-bottom:0; text-align:center; padding-left:1em">
 
-[<span style="color:white; font-size:85% ">로마 지하철</span>](https://ko.wikipedia.org/wiki/로마_지하철 "wikilink") <span style="color:white">·</span> [<span style="color:white">B선</span>](https://ko.wikipedia.org/wiki/로마_지하철_B선 "wikilink")
+[<span style="color:white; font-size:85% ">로마 지하철</span>](https://ko.wikipedia.org/wiki/로마_지하철 "wikilink") <span style="color:white">·</span> [<span style="color:white">B선</span>](../Page/로마_지하철_B선.md "wikilink")
 
 </div>
 
@@ -29,13 +29,13 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/조니오_역" title="wikilink">조니오</a></p></td>
+<td><p><a href="../Page/조니오_역.md" title="wikilink">조니오</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/콘카_도로_역" title="wikilink">콘카 도로</a></p></td>
+<td><p><a href="../Page/콘카_도로_역.md" title="wikilink">콘카 도로</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/리비아_역" title="wikilink">리비아</a></p></td>
+<td><p><a href="../Page/리비아_역.md" title="wikilink">리비아</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/산타녜세_-_안니발리아노_역" title="wikilink">산타녜세<br />
@@ -54,7 +54,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/로마의_트램" title="wikilink">{{사각노선</a> <a href="https://ko.wikipedia.org/wiki/로마의_트램" title="wikilink">{{사각노선</a> <a href="https://ko.wikipedia.org/wiki/로마-자르디네티_선" title="wikilink">{{사각노선</a><br />
+<td><p><a href="https://ko.wikipedia.org/wiki/로마의_트램" title="wikilink">{{사각노선</a> <a href="https://ko.wikipedia.org/wiki/로마의_트램" title="wikilink">{{사각노선</a> <a href="../Page/로마-자르디네티_선.md" title="wikilink">{{사각노선</a><br />
 <a href="https://ko.wikipedia.org/wiki/라치오_전철_FR4" title="wikilink">{{사각노선</a> <a href="https://ko.wikipedia.org/wiki/라치오_전철_FR5" title="wikilink">{{사각노선</a> <a href="https://ko.wikipedia.org/wiki/라치오_전철_FR6" title="wikilink">{{사각노선</a> <br />
 <a href="https://ko.wikipedia.org/wiki/라치오_전철_FR7" title="wikilink">{{사각노선</a> <a href="https://ko.wikipedia.org/wiki/라치오_전철_FR8" title="wikilink">{{사각노선</a> </p></td>
 </tr>
@@ -68,20 +68,20 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/로마-리도_선" title="wikilink">{{사각노선</a><br />
+<td><p><a href="../Page/로마-리도_선.md" title="wikilink">{{사각노선</a><br />
 <a href="https://ko.wikipedia.org/wiki/라치오_전철_FR1" title="wikilink">{{사각노선</a> <a href="https://ko.wikipedia.org/wiki/라치오_전철_FR3" title="wikilink">{{사각노선</a> <a href="https://ko.wikipedia.org/wiki/라치오_전철_FR5" title="wikilink">{{사각노선</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/로마-리도_선" title="wikilink">{{사각노선</a></p></td>
+<td><p><a href="../Page/로마-리도_선.md" title="wikilink">{{사각노선</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/로마-리도_선" title="wikilink">{{사각노선</a></p></td>
+<td><p><a href="../Page/로마-리도_선.md" title="wikilink">{{사각노선</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>

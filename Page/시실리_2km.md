@@ -17,11 +17,11 @@
   - [권오중](https://ko.wikipedia.org/wiki/권오중 "wikilink") - 석태 역
   - [임은경](https://ko.wikipedia.org/wiki/임은경 "wikilink") - 송이 역
   - [변희봉](https://ko.wikipedia.org/wiki/변희봉 "wikilink") - 변 노인 역
-  - [박명신](https://ko.wikipedia.org/wiki/박명신 "wikilink") - 대순 역
+  - [박명신](../Page/박명신.md "wikilink") - 대순 역
   - [우현](https://ko.wikipedia.org/wiki/우현_\(배우\) "wikilink") - 해주 역
   - [안내상](https://ko.wikipedia.org/wiki/안내상 "wikilink") - 똥개 역
   - [김윤석](https://ko.wikipedia.org/wiki/김윤석_\(배우\) "wikilink") - 학규 역
-  - [이상훈](https://ko.wikipedia.org/wiki/이상훈_\(1968년\) "wikilink") - 춘식 역
+  - [이상훈](../Page/이상훈_\(1968년\).md "wikilink") - 춘식 역
   - [박혁권](https://ko.wikipedia.org/wiki/박혁권 "wikilink") - 땡중 역
   - [김유희](https://ko.wikipedia.org/wiki/김유희 "wikilink") - 주리 역
   - [최원영](https://ko.wikipedia.org/wiki/최원영_\(배우\) "wikilink") - 한석 역

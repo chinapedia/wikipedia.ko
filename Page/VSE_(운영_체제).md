@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [VSE \( \)](https://ko.wikipedia.org/wiki/VSE_\(_\)).
 
 
-**z/VSE** (***V**irtual **S**torage **E**xtended*)는 최신 DOS/360 세대 계열에 대응하는 [IBM 메인프레임](https://ko.wikipedia.org/wiki/IBM_메인프레임 "wikilink") 컴퓨터용 [운영 체제의](https://ko.wikipedia.org/wiki/운영_체제 "wikilink") 하나로, 1965년에 시작되었다. 저명한 [z/OS](https://ko.wikipedia.org/wiki/z/OS "wikilink") 보다는 덜 일반화되어 있으며, 더 작은 기기에 주로 사용된다. 주로 z/VSE 개발은 독일에 위치한 IBM의 [뵈블링겐](https://ko.wikipedia.org/wiki/뵈블링겐 "wikilink") 연구소에서 진행된다.
+**z/VSE** (***V**irtual **S**torage **E**xtended*)는 최신 DOS/360 세대 계열에 대응하는 [IBM 메인프레임](../Page/IBM_메인프레임.md "wikilink") 컴퓨터용 [운영 체제의](https://ko.wikipedia.org/wiki/운영_체제 "wikilink") 하나로, 1965년에 시작되었다. 저명한 [z/OS](https://ko.wikipedia.org/wiki/z/OS "wikilink") 보다는 덜 일반화되어 있으며, 더 작은 기기에 주로 사용된다. 주로 z/VSE 개발은 독일에 위치한 IBM의 [뵈블링겐](https://ko.wikipedia.org/wiki/뵈블링겐 "wikilink") 연구소에서 진행된다.
 
 ## 개요
 

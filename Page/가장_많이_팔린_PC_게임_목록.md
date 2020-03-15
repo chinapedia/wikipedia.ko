@@ -160,7 +160,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/미스트_(비디오_게임)" title="wikilink">미스트</a></p></td>
 <td><p>[14]</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미스트_(시리즈)" title="wikilink">미스트 시리즈</a></p></td>
+<td><p><a href="../Page/미스트_(시리즈).md" title="wikilink">미스트 시리즈</a></p></td>
 <td><p>1993년 9월 24일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/어드벤처_게임" title="wikilink">어드벤처 게임</a>, <a href="https://ko.wikipedia.org/wiki/퍼즐_게임" title="wikilink">퍼즐 게임</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/시안_월드" title="wikilink">시안 월드</a></p></td>
@@ -190,10 +190,10 @@
 </tr>
 <tr class="even">
 <td><p>15</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/리븐" title="wikilink">리븐</a></p></td>
+<td><p><a href="../Page/리븐.md" title="wikilink">리븐</a></p></td>
 <td><p>[17]</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미스트_(시리즈)" title="wikilink">미스트 시리즈</a></p></td>
+<td><p><a href="../Page/미스트_(시리즈).md" title="wikilink">미스트 시리즈</a></p></td>
 <td><p>1997년 10월 29일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/그래픽_어드벤쳐_게임" title="wikilink">그래픽 어드벤쳐 게임</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/시안_월드" title="wikilink">시안 월드</a></p></td>
@@ -868,7 +868,7 @@
 <td></td>
 <td><p>2004년 12월 24일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/샌드박스_게임" title="wikilink">샌드박스 게임</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/페이스펀치_스튜디오" title="wikilink">페이스펀치 스튜디오</a></p></td>
+<td><p><a href="../Page/페이스펀치_스튜디오.md" title="wikilink">페이스펀치 스튜디오</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/밸브_코퍼레이션" title="wikilink">밸브 코퍼레이션</a></p></td>
 </tr>
 <tr class="odd">

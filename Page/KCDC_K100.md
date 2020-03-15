@@ -47,7 +47,7 @@
 
 ## 더 보기
 
-  - [리저널 제트](https://ko.wikipedia.org/wiki/리저널_제트 "wikilink")
+  - [리저널 제트](../Page/리저널_제트.md "wikilink")
 
 [분류:공공 정책](https://ko.wikipedia.org/wiki/분류:공공_정책 "wikilink")
 

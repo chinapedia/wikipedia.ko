@@ -13,7 +13,7 @@ ILN은 달 표면에 탐사장비를 실은 8개의 [랜더](https://ko.wikipedi
 
 ## 미국의 LPRP 계획
 
-2013년 9월 7일 [LADEE](https://ko.wikipedia.org/wiki/LADEE "wikilink")(Lunar Atmosphere and Dust Environment Explorer) 달 탐사선이 미국에서 [미노타우르 5호에](https://ko.wikipedia.org/wiki/미노타우르_5호 "wikilink") 실려 발사되었다. 위성의 무게는 383 kg, 수명은 100일이며, 달의 20 km 고도를 비행하며 달의 대기와 먼지 등 환경을 분석한다.
+2013년 9월 7일 [LADEE](https://ko.wikipedia.org/wiki/LADEE "wikilink")(Lunar Atmosphere and Dust Environment Explorer) 달 탐사선이 미국에서 [미노타우르 5호에](../Page/미노타우르_5호.md "wikilink") 실려 발사되었다. 위성의 무게는 383 kg, 수명은 100일이며, 달의 20 km 고도를 비행하며 달의 대기와 먼지 등 환경을 분석한다.
 
 ## 같이 보기
 

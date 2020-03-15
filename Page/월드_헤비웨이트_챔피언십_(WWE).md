@@ -19,7 +19,7 @@
 
 두 브랜드 시절 [러](https://ko.wikipedia.org/wiki/러 "wikilink")와 [스맥다운](https://ko.wikipedia.org/wiki/스맥다운 "wikilink")을 드래프트 로터리를 오가며 2012년에 브랜드가 통합되면서 슈퍼쇼까지 이어갔다.
 
-[2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [12월 15일](https://ko.wikipedia.org/wiki/12월_15일 "wikilink") [TLC](https://ko.wikipedia.org/wiki/TLC "wikilink")에서 [WWE 챔피언십](https://ko.wikipedia.org/wiki/WWE_챔피언십 "wikilink") [랜디 오턴이](https://ko.wikipedia.org/wiki/랜디_오턴 "wikilink") WWE 월드 헤비웨이트 챔피언이었던 [존 시나를](https://ko.wikipedia.org/wiki/존_시나 "wikilink") 이기면서 통합되면서 사실상 폐지되었다.
+[2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [12월 15일](https://ko.wikipedia.org/wiki/12월_15일 "wikilink") [TLC](https://ko.wikipedia.org/wiki/TLC "wikilink")에서 [WWE 챔피언십](../Page/WWE_챔피언십.md "wikilink") [랜디 오턴이](https://ko.wikipedia.org/wiki/랜디_오턴 "wikilink") WWE 월드 헤비웨이트 챔피언이었던 [존 시나를](https://ko.wikipedia.org/wiki/존_시나 "wikilink") 이기면서 통합되면서 사실상 폐지되었다.
 
 따라서 WWE 챔피언십은 WWE 월드 헤비웨이트 챔피언십이 되었고 폐지된 WWE 월드 헤비웨이트 챔피언십은 그대로 **월드 헤비웨이트 챔피언십**으로 남게 되었다.
 
@@ -74,8 +74,8 @@
 
   - [트리플 크라운 챔피언십](https://ko.wikipedia.org/wiki/트리플_크라운_챔피언십 "wikilink")
   - [그랜드 슬램 챔피언십](https://ko.wikipedia.org/wiki/그랜드_슬램_챔피언십 "wikilink")
-  - [WWE 챔피언십](https://ko.wikipedia.org/wiki/WWE_챔피언십 "wikilink")
-  - [WWE 유니버셜 챔피언십](https://ko.wikipedia.org/wiki/WWE_유니버셜_챔피언십 "wikilink")
+  - [WWE 챔피언십](../Page/WWE_챔피언십.md "wikilink")
+  - [WWE 유니버셜 챔피언십](../Page/WWE_유니버셜_챔피언십.md "wikilink")
   - [WWE NXT 챔피언십](https://ko.wikipedia.org/wiki/WWE_NXT_챔피언십 "wikilink")
   - [WCW 월드 헤비웨이트 챔피언십](https://ko.wikipedia.org/wiki/WCW_월드_헤비웨이트_챔피언십 "wikilink")
   - [AEW 월드 챔피언십](https://ko.wikipedia.org/wiki/AEW_월드_챔피언십 "wikilink")

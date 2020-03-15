@@ -26,10 +26,10 @@
 
 <!-- end list -->
 
-  - [정재일](https://ko.wikipedia.org/wiki/정재일 "wikilink") - 프로그래밍, 악기 연주
+  - [정재일](../Page/정재일.md "wikilink") - 프로그래밍, 악기 연주
   - Leos Svarovsky - [지휘](https://ko.wikipedia.org/wiki/지휘 "wikilink")(1, 6, 9, 10)
       - Ceska Filharmonic 단원 - [오케스트라](https://ko.wikipedia.org/wiki/오케스트라 "wikilink") 연주
-  - [임헌일](https://ko.wikipedia.org/wiki/임헌일 "wikilink") - [전기 기타](https://ko.wikipedia.org/wiki/전기_기타 "wikilink")(4, 7, 10)
+  - [임헌일](../Page/임헌일.md "wikilink") - [전기 기타](https://ko.wikipedia.org/wiki/전기_기타 "wikilink")(4, 7, 10)
   - 김연아, 신지아, 임진호, 장보희 - 백 보컬(3, 5)
 
 <!-- end list -->

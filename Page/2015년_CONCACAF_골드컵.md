@@ -3,7 +3,7 @@
 
 **2015년 CONCACAF 골드컵**(2015 CONCACAF Gold Cup)은 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [7월 7일부터](https://ko.wikipedia.org/wiki/7월_7일 "wikilink") [7월 26일까지](https://ko.wikipedia.org/wiki/7월_26일 "wikilink") [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")과 [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink")에서 개최된 13번째 [CONCACAF 골드컵](https://ko.wikipedia.org/wiki/CONCACAF_골드컵 "wikilink") 대회이다.
 
-이 대회의 우승 팀은 [2013년 CONCACAF 골드컵](../Page/2013년_CONCACAF_골드컵.md "wikilink") 우승국인 [미국과의](https://ko.wikipedia.org/wiki/미국_축구_국가대표팀 "wikilink") 단판 승부 형식의 플레이오프([2015년 CONCACAF컵](https://ko.wikipedia.org/wiki/2015년_CONCACAF컵 "wikilink"))를 거쳐 [2017년 FIFA 컨페더레이션스컵에서](https://ko.wikipedia.org/wiki/2017년_FIFA_컨페더레이션스컵 "wikilink") 북중미 대표로 참가하게 된다.
+이 대회의 우승 팀은 [2013년 CONCACAF 골드컵](../Page/2013년_CONCACAF_골드컵.md "wikilink") 우승국인 [미국과의](https://ko.wikipedia.org/wiki/미국_축구_국가대표팀 "wikilink") 단판 승부 형식의 플레이오프([2015년 CONCACAF컵](../Page/2015년_CONCACAF컵.md "wikilink"))를 거쳐 [2017년 FIFA 컨페더레이션스컵에서](https://ko.wikipedia.org/wiki/2017년_FIFA_컨페더레이션스컵 "wikilink") 북중미 대표로 참가하게 된다.
 
 ## 개최 도시 및 경기장
 
@@ -33,7 +33,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/샬럿" title="wikilink">샬럿</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뱅크_오브_아메리카_스타디움" title="wikilink">뱅크 오브 아메리카 스타디움</a></p></td>
+<td><p><a href="../Page/뱅크_오브_아메리카_스타디움.md" title="wikilink">뱅크 오브 아메리카 스타디움</a></p></td>
 <td><p>74,455</p></td>
 <td><p>예선 C조</p></td>
 </tr>
@@ -69,7 +69,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/시카고" title="wikilink">시카고</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/솔저_필드" title="wikilink">솔저 필드</a></p></td>
+<td><p><a href="../Page/솔저_필드.md" title="wikilink">솔저 필드</a></p></td>
 <td><p>63,500</p></td>
 <td><p>예선 C조</p></td>
 </tr>
@@ -87,7 +87,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/휴스턴" title="wikilink">휴스턴</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/BBVA_컴패스_스타디움" title="wikilink">BBVA 컴패스 스타디움</a></p></td>
+<td><p><a href="../Page/BBVA_컴패스_스타디움.md" title="wikilink">BBVA 컴패스 스타디움</a></p></td>
 <td><p>22,039</p></td>
 <td><p>예선 B조</p></td>
 </tr>
@@ -122,7 +122,7 @@
 
 ### 중앙아메리카-카리브 제도 플레이오프
 
-[2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink")에 열린 [카리브컵](https://ko.wikipedia.org/wiki/카리브컵 "wikilink")과 [코파 센트로아메리카나에서](https://ko.wikipedia.org/wiki/코파_센트로아메리카나 "wikilink") 각각 5위를 차지한 팀이 홈 앤 어웨이 방식의 플레이오프를 치른다. 경기에서 이긴 팀이 본선에 진출한다.
+[2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink")에 열린 [카리브컵](../Page/카리브컵.md "wikilink")과 [코파 센트로아메리카나에서](https://ko.wikipedia.org/wiki/코파_센트로아메리카나 "wikilink") 각각 5위를 차지한 팀이 홈 앤 어웨이 방식의 플레이오프를 치른다. 경기에서 이긴 팀이 본선에 진출한다.
 
 |}
 
@@ -184,7 +184,7 @@
 <td><p>109</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/중앙아메리카_축구_연맹" title="wikilink">중앙아메리카</a> 대표: <a href="https://ko.wikipedia.org/wiki/2014년_코파_센트로아메리카나" title="wikilink">2014년 코파 센트로아메리카나</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/중앙아메리카_축구_연맹" title="wikilink">중앙아메리카</a> 대표: <a href="../Page/2014년_코파_센트로아메리카나.md" title="wikilink">2014년 코파 센트로아메리카나</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -219,7 +219,7 @@
 <td><p>89</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/카리브_축구_연맹" title="wikilink">카리브 제도</a> 대표: <a href="https://ko.wikipedia.org/wiki/2014년_카리브컵" title="wikilink">2014년 카리브컵</a></p></td>
+<td><p><a href="../Page/카리브_축구_연맹.md" title="wikilink">카리브 제도</a> 대표: <a href="../Page/2014년_카리브컵.md" title="wikilink">2014년 카리브컵</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -834,11 +834,11 @@
 
   - (2015년 CONCACAF 골드컵 우승)
 
-  - ([2014년 카리브컵](https://ko.wikipedia.org/wiki/2014년_카리브컵 "wikilink") 우승, 2015년 CONCACAF 골드컵 준우승)
+  - ([2014년 카리브컵](../Page/2014년_카리브컵.md "wikilink") 우승, 2015년 CONCACAF 골드컵 준우승)
 
   - (개최국, 2015년 CONCACAF 골드컵 4위)
 
-  - ([2014년 코파 센트로아메리카나](https://ko.wikipedia.org/wiki/2014년_코파_센트로아메리카나 "wikilink") 우승, 2015년 CONCACAF 골드컵 7위)
+  - ([2014년 코파 센트로아메리카나](../Page/2014년_코파_센트로아메리카나.md "wikilink") 우승, 2015년 CONCACAF 골드컵 7위)
 
 #### 플레이오프 진출
 

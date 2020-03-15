@@ -29,7 +29,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/캠핑_월드_스타디움" title="wikilink">캠핑 월드 스타디움</a></p></td>
+<td><p><a href="../Page/캠핑_월드_스타디움.md" title="wikilink">캠핑 월드 스타디움</a></p></td>
 <td><p>2015년~2016</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/플로리다주" title="wikilink">플로리다주</a> <a href="https://ko.wikipedia.org/wiki/올랜도" title="wikilink">올랜도</a></p></td>
 <td><p>올랜도 시티 SC</p></td>
@@ -37,7 +37,7 @@
 올랜도 시트러스 보울 스타디움 (2014년~2016년)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/익스플로리아_스타디움" title="wikilink">익스플로리아 스타디움</a></p></td>
+<td><p><a href="../Page/익스플로리아_스타디움.md" title="wikilink">익스플로리아 스타디움</a></p></td>
 <td><p>2017년~현재</p></td>
 <td><p>올랜도 시티 스타디움 (2017년~2019년)</p></td>
 <td></td>
@@ -48,7 +48,7 @@
 
 ## [유나이티드 사커 리그](https://ko.wikipedia.org/wiki/유나이티드_사커_리그 "wikilink") 제휴팀
 
-  - [올랜도 시티 B](https://ko.wikipedia.org/wiki/올랜도_시티_B "wikilink") (멜번, 플로리다)
+  - [올랜도 시티 B](../Page/올랜도_시티_B.md "wikilink") (멜번, 플로리다)
 
 ## 같이 보기
 
