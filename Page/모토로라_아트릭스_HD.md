@@ -1,0 +1,21 @@
+> This article is converted from Wikipedia: [  HD](https://ko.wikipedia.org/wiki/__HD).
+
+
+**모토로라 아트릭스 HD**()는 [모토로라 모빌리티에서](../Page/모토로라_모빌리티.md "wikilink") 제조/판매하는 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")이다. 출시당시 안드로이드 4.0.4 아이스크림샌드위치를 탑재하였다.
+
+## 출시국가
+
+### LTE모델
+
+  -
+그 외 다수 국가
+
+## 웹탑
+
+아트릭스와 마찬가지로 모토로라의 통합 '웹탑'응용 프로그램이 아트릭스 HD에서도 지원된다. 휴대전화가 노트북 도킹 스테이션 또는 HD 멀티미디어 독을 통해 외부 디스플레이에 접속되면 자동으로 웹탑 응용 프로그램이 시작된다. 리눅스 노트북과 유사한 사용자 인터페이스 제공과 웹탑 모드에서 우분투 데스크탑을, 전화와 같은 외부 디스플레이에 여러 응용 프로그램을 실행할 수 있다. 예로 파이어 폭스 웹 브라우저, SNS 클라이언트와 같은 화면의 전체 액세스를 사용할 수 있는 '모바일보기'응용 프로그램도 지원된다.
+
+## 색상
+
+  - 화이트
+
+[분류:안드로이드 장치](https://ko.wikipedia.org/wiki/분류:안드로이드_장치 "wikilink") [분류:모토로라의 스마트폰](https://ko.wikipedia.org/wiki/분류:모토로라의_스마트폰 "wikilink") [분류:2012년 출시](https://ko.wikipedia.org/wiki/분류:2012년_출시 "wikilink")

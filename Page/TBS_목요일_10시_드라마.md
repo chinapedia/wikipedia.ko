@@ -1,0 +1,130 @@
+> This article is converted from Wikipedia: [TBS  10 ](https://ko.wikipedia.org/wiki/TBS__10_).
+
+
+**TBS 목요일 10시 드라마**는 [TBS에서](https://ko.wikipedia.org/wiki/도쿄방송 "wikilink") [1977년](https://ko.wikipedia.org/wiki/1977년 "wikilink")부터 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink")까지 목요일 22:00에 방송되었던 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/텔레비전_드라마 "wikilink"). [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink") 《뜬 구름》부터 [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") 《P.S. 잘 있습니다, 슌페이》까지는 「목요 드라마」라는 애칭으로 불렸다.
+
+## 개요
+
+목요 드라마가 시작하기 전에 22시대에는 《기노시타 게이스케·인간의 노래 시리즈》(1970년-1977년)나 《목요좌》(1978-1983년) 및 [가네보](../Page/가네보.md "wikilink") 그룹 제공으로 《가네보 목요 극장》 (2002-2003년)이라는 일련의 드라마 시리즈가 병영되었다.
+
+본 시리즈는 주로 어른들에게 적합한 드라마를 중심으로 방영되어, 대표적인 작품으로는 《장남의 아내》(1994년), 《한낮의 달》(1996년), 《스토커·유혹하는 여자》(1997년), 《마녀의 조건》(1999년) 등이 있다.
+
+[TBS계열국](https://ko.wikipedia.org/wiki/도쿄방송 "wikilink") 외에 [아키타현](https://ko.wikipedia.org/wiki/아키타현 "wikilink")에서는 기본적으로 TBS 목요일 10시 드라마는 방송되지 않지만, 작품에 따라서는 [TBS](https://ko.wikipedia.org/wiki/도쿄방송 "wikilink") 계열의 [아키타 방송으로](../Page/아키타_방송.md "wikilink") 방송될 경우가 있었다. (《다카하라로 오세요》같은 경우는 같은 아키타 현의 [TV 아사히](../Page/TV_아사히.md "wikilink") 계열 [아키타 마이니치 방송에서](https://ko.wikipedia.org/wiki/아키타_마이니치_방송 "wikilink") 방송 되었다).
+
+드라마가 시작한 후에도 자주 버라이어티로 교체되어 방영되는 것이 많았던 목요일 22시대. 특히 최근에는 타방송사와의 경합에서 시청률이 한자리대인 것도 흔한 일이고, 그 중에서는 모든 화가 한자리대 시청률에 머무른 작품, 게다가 예정보다 단축되는 작품까지 나오는 상태였다.
+
+이러한 시청률 침체가 오래 지속되자, [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 1분기 《너무 좋아\!\!》를 끝으로 [토요일 20시 대로](https://ko.wikipedia.org/wiki/TBS_토요일_밤_8시_드라마 "wikilink") 흡수되어 종료. 그 때문에 그 때까지 토요일 20시 대에 방송되던 버라이어티는 당 시간대로 [아라시](https://ko.wikipedia.org/wiki/아라시 "wikilink")가 진행을 맡은 버라이어티 《[비밀의 아라시짱](https://ko.wikipedia.org/wiki/비밀의_아라시짱 "wikilink")\!》이 옮겨왔다.
+
+## 평균 시청률 10선
+
+  - 1위 《마녀의 조건》(1999년) 21.5%
+  - 2위 《한낮의 달》(1996년) 20.7%
+  - 3위 《장남의 아내》(1994년) 20.5%
+  - 4위 《스토커·유혹하는 여자》(1997년) 19.2%
+  - 5위 《장남의 아내2\~본가 천국》(1995년) 15.5%
+  - 6위 《의무와 연기》(1996년) 15.2%
+  - 7위 《언짢은 과일》(1997년) 14.7%
+  - 8위 《한 여름의 러브레터》(1995년) 14.6%
+  - 9위 《남자가 싫어》(1994년) 14.6%
+  - 10위 《여계가족》(2005년) 13.8%
+
+## 방송 작품
+
+### 제1기
+
+  - 신선조 시말전 (1977년 4월\~9월)
+  - 오센 (1977년 10월\~12월)
+  - 춤추는 집 (1978년 1월\~3월)
+
+### 제2기
+
+  - 뜬 구름 (1990년 10월\~1991년 3월)
+
+### 제3기
+
+  - 잠 못 이루는 밤을 세고 (1992년 4월\~6월)
+  - 싫어하지 않아 (1992년 7월\~9월)
+
+### 제4기
+
+#### 1994년
+
+  - 장남의 아내 (주연 : 아사노 유코)
+  - 남자가 싫어 (주연 : 기쿠치 모모코)
+  - 가족A (주연 : 노무라 히로노부, [나츠카와 유이](https://ko.wikipedia.org/wiki/나츠카와_유이 "wikilink"))
+
+#### 1995년
+
+  - 나, 아군입니다 (주연 : [다치 히로시](https://ko.wikipedia.org/wiki/다치_히로시 "wikilink"), 이시구로 겐)
+  - 악마의 계절 (주연 : 마츠자카 게이코)
+  - 한 여름의 러브레터 (주연 : 마츠시타 유키)
+  - 장남의 아내2\~본가 천국 (주연 : 아사노 유코)
+
+#### 1996년
+
+  - 리스키 게임 (주연 : 마츠시타 유키)
+  - 결혼하자 (주연 : [에구치 요스케](https://ko.wikipedia.org/wiki/에구치_요스케 "wikilink"))
+  - 한낮의 달 (주연 : [오다 유지](https://ko.wikipedia.org/wiki/오다_유지 "wikilink"), [도키와 다카코](https://ko.wikipedia.org/wiki/도키와_다카코 "wikilink"))
+  - 의무와 연기 (주연 : 아사노 유코)
+
+#### 1997년
+
+  - 스토커·유혹하는 여자 (주연 : 진나이 다카노리, 히나가타 아키코)
+  - 친구의 연인 (주연 : 사쿠라이 사치코, 세토 아사카)
+  - 토모코와 토모코 (주연 : 다나카 미사코, 이이지마 나오코)
+  - [불쾌한 과실](https://ko.wikipedia.org/wiki/불쾌한_과실#1997년판 "wikilink") (주연 : [이시다 유리코](../Page/이시다_유리코.md "wikilink"))
+
+#### 1998년
+
+  - Sweet Season (주연 : [마츠시마 나나코](../Page/마츠시마_나나코.md "wikilink"), [시이나 깃페이](https://ko.wikipedia.org/wiki/시이나_깃페이 "wikilink"))
+  - 러브 어게인 (주연 : [와타베 아츠로](https://ko.wikipedia.org/wiki/와타베_아츠로 "wikilink"), 이시다 사유리)
+  - 러브와 에로스 (주연 : 아사노 아츠코)
+  - 가면의 여자 (주연 : 히나다카 아키코, 이시다 준이치)
+
+#### 1999년
+
+  - 엄마 자전거 형사 (주연 : 아사노 유리코, 다나카 미사코)
+  - [마녀의 조건](https://ko.wikipedia.org/wiki/마녀의_조건 "wikilink") (주연 : 마츠시마 나나코, [타키자와 히데아키](https://ko.wikipedia.org/wiki/타키자와_히데아키 "wikilink"))
+  - P.S. 잘 있습니다, 슌페이 (주연 : [도모토 코이치](https://ko.wikipedia.org/wiki/도모토_코이치 "wikilink"), 세토 아사카)
+
+### 제5기
+
+#### 2003년
+
+  - 당신의 인생을 옮겨드립니다\! (주연 : 후지와라 노리카, 야마구치 도모미츠)
+  - 다카하라로 오세요 (주연 : [사토 코이치](https://ko.wikipedia.org/wiki/사토_코이치 "wikilink"))
+  - [맨하탄 러브스토리](https://ko.wikipedia.org/wiki/맨하탄_러브스토리 "wikilink") (주연 : 마츠오카 마사히로)
+
+#### 2004년
+
+  - 돌하우스\~특명여성수사반\~ (주연 : 마츠시타 유키, 아다치 유미)
+  - 새로운 바람 ([토모사카 리에](https://ko.wikipedia.org/wiki/토모사카_리에 "wikilink"), 요시다 에이사쿠)
+  - 이혼남 (주연 : 다카하시 가즈노리, 다카시마 마사노부)
+  - 핫맨2 (주연 : [소리마치 다카시](https://ko.wikipedia.org/wiki/소리마치_다카시 "wikilink"))
+
+#### 2005년
+
+  - [H2\~너와 있던 날들](https://ko.wikipedia.org/wiki/H2~너와_있던_날들 "wikilink") (주연 : [야마다 다카유키](https://ko.wikipedia.org/wiki/야마다_다카유키 "wikilink"))
+  - 더러워진 혀 (주연 : 이이지마 나오코)
+  - 여계가족 (주연 : [요네쿠라 료코](https://ko.wikipedia.org/wiki/요네쿠라_료코 "wikilink"))
+  - 오늘밤 홀로 침대에서 (주연 : 모토키 마사히로, 세토 아사카)
+
+#### 2006년
+
+  - 가치바카\! (주연 : 다카하시 가즈노리)
+  - 쓰레기 변호사 (도요카와 에츠시, [이토 히데아키](../Page/이토_히데아키.md "wikilink"))
+  - 신부는 액년\! (주연 : [시노하라 료코](../Page/시노하라_료코.md "wikilink"))
+  - [혐오스런 마츠코의 일생](https://ko.wikipedia.org/wiki/혐오스런_마츠코의_일생 "wikilink") (주연 : [우치야마 리나](https://ko.wikipedia.org/wiki/우치야마_리나 "wikilink"))
+
+#### 2007년
+
+  - 반짝반짝 연수의 (주연 : 고니시 마나미)
+  - 고독한 도박\~사랑하는 사람이여\~ (주연 : 이토 히데아키, [하세가와 쿄코](https://ko.wikipedia.org/wiki/하세가와_쿄코 "wikilink"))
+  - [어깨너머의 연인](https://ko.wikipedia.org/wiki/어깨너머의_연인 "wikilink") (주연 : 요네쿠라 료코, 다카오카 사키)
+  - 죠시데카\!-여자형사- (주연 : [나카마 유키에](https://ko.wikipedia.org/wiki/나카마_유키에 "wikilink"), 이즈미 핀코)
+
+#### 2008년
+
+  - 너무 좋아\!\! (주연 : [카리나](https://ko.wikipedia.org/wiki/카리나 "wikilink"))
+
+[TBS_목요일_10시_드라마](https://ko.wikipedia.org/wiki/분류:TBS_목요일_10시_드라마 "wikilink")

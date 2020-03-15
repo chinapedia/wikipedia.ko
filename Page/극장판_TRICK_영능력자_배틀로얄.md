@@ -1,0 +1,84 @@
+> This article is converted from Wikipedia: [ TRICK  ](https://ko.wikipedia.org/wiki/_TRICK__).
+
+
+《**극장판 TRICK 영능력자 배틀로얄**》()은 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [5월 8일에](https://ko.wikipedia.org/wiki/5월_8일 "wikilink") 개봉한 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") [영화](../Page/영화.md "wikilink")이다.
+
+## 개요
+
+《[트릭](https://ko.wikipedia.org/wiki/트릭_\(드라마\) "wikilink")》 시리즈 10주년 기념 작품(3탄)이며, 전작([TRICK 극장판 2](../Page/TRICK_극장판_2.md "wikilink"))이 제작된지 4년만에 제작되었다. [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")내 최종 흥행 수입은 18.6억엔
+
+[2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [5월 8일](https://ko.wikipedia.org/wiki/5월_8일 "wikilink") 개봉에 맞추어 닌텐도 DS 소프트 출시, 스핀오프 드라마 야베 켄조 방영 등이 함께 이루어졌다. 또한 5월 15일에는 신작 스페셜2가 방송되었으며, [5월 20일에는](https://ko.wikipedia.org/wiki/5월_20일 "wikilink") 우에다 지로의 공식 블로그 '천재인 내가 너에게'가 개설되었다.
+
+[대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 [부산국제영화제](https://ko.wikipedia.org/wiki/부산국제영화제 "wikilink")에 공식 초청되어, 상영이 이루어졌다.
+
+## 줄거리
+
+어느 날, 만넨마을(万練村)에 사는 나카모리 쇼헤이(中森翔平)라는 청년이 우에다를 찾아온다. 이 마을에는 '카미하에리'라는 영능력자가 마을을 다스리는데, 그 카미하에리의 선발은 전국에서 모집한 영능력자끼리 서로 싸우게 하는 이른바 '영능력자 배틀로얄'이라고도 할 수 있는 대회가 열려, 마지막에 살아남은 자가 카미하에리가 되는 것이라고 한다. 그리고 최근 쇼헤이의 조모였던 선대 카미하에리가 세상을 뜨게 되어 마을에서는 대회를 준비하고 있다. 쇼헤이도 참가자 중 한 사람이지만, 이 풍습을 중지시키기 위해 영능력자 같은 건 없다는 것을 증명해달라고 우에다에게 의뢰를 한다.
+
+혼자서는 불안한 우에다는 나오코를 데리고 가려고 하지만 거절당하고 만다. 사실 나오코는 또 해고를 당하였으나 우연히 고용주가 카미하에리 선발 대회 참여를 권유하여 우승자에게 주어지는 공물과 보물을 노리고 그 마을에 가기로 한 상태였다.
+
+각각 다른 목적으로 마을을 방문했지만 결국 마주치게 된 야마다와 우에다. 서로가 아는 사이임을 들켜서는 안 되기에 보물을 손에 넣기 위해 서로 결탁하고 대회에서 승리하기 위한 계획을 짠다.
+
+대회가 시작되고, 참가자들은 각각 자신의 영능력을 보이면서 자신이야 말로 진정한 영능력자라고 주장한다. 하지만 참가자 중 한 사람인 스즈키 레이이치로에 의해 대회는 처참한 생존 게임이 되고 마는데….
+
+## 출연
+
+### 주연
+
+  - [나카마 유키에](https://ko.wikipedia.org/wiki/나카마_유키에 "wikilink")
+  - [아베 히로시](https://ko.wikipedia.org/wiki/아베_히로시 "wikilink")
+
+### 조연
+
+  - [후지키 나오히토](../Page/후지키_나오히토.md "wikilink")
+  - [카호](https://ko.wikipedia.org/wiki/카호 "wikilink")
+  - [카타세 나나](https://ko.wikipedia.org/wiki/카타세_나나 "wikilink")
+  - [마스모토 쇼이치로](https://ko.wikipedia.org/wiki/마스모토_쇼이치로 "wikilink")
+  - [마츠다이라 켄](https://ko.wikipedia.org/wiki/마츠다이라_켄 "wikilink")
+  - [나마세 카츠히사](../Page/나마세_카츠히사.md "wikilink")
+  - [노기와 요코](https://ko.wikipedia.org/wiki/노기와_요코 "wikilink")
+  - [사토 타케루](https://ko.wikipedia.org/wiki/사토_타케루 "wikilink")
+  - [토다 케이코](../Page/토다_케이코.md "wikilink")
+
+## 기타
+
+  - Line PD: 와타나베 노리오
+  - 공동제작: 미즈노 후미히데
+  - 공동제작: 나가사카 노부히토
+  - 공동제작: 오기 토루
+  - 조감독: 키무라 히사시
+  - 소품팀: 이나가키 히사오
+  - Ass-PD: 코쿠보 사토시
+  - Ass-PD: 요시카와 다이스케
+
+## 스탭
+
+  - 감독 - [츠츠미 유키히코](../Page/츠츠미_유키히코.md "wikilink")
+  - 각본 - 마키타 미츠하루
+  - 음악 - 츠지 요우
+  - 제작 - 우에마츠 미치오, 시마타니 요시나리
+  - 공동 제작 - 오자키 토오루, 미즈노 후미히데, 요시다카가미, 나가사카 노부토
+  - 프로듀서 - 히라죠 타카시, 이치가와 미나미
+  - 기획 - 우메자와 미치히코, 츠카다 야스히로
+  - 보조 프로듀서 - 쿠와타 키요시, 야마우치 아키히로
+  - 프로듀서 - 나츠 코이치, 마키 타 코우지, 히구치 유카
+  - 협력 프로듀서 - 고쿠보 사토시, 요시카와 다이스케
+  - 조감독 - 키무라 히사시
+  - 촬영 - 마다라메 시게토모, 사카모토 마사토시
+  - 미술 - 이나가키 히사오
+  - 편집 - 이토 노부유키
+  - 조명 - 카와사토 가즈유키
+  - 녹음 - 우스이 히사오
+  - 조감독 - 타카아키
+  - 제작 담당 - 시노미야 타카히로
+  - 주제가 - 쿠마가이 이쿠미 〈월 연가(月恋歌)〉
+  - 영상 제작 - 토호 영상 미술
+  - 제작위원회 - [TV 아사히](../Page/TV_아사히.md "wikilink"), [토호](https://ko.wikipedia.org/wiki/토호 "wikilink"), 오기 프로덕션, [나고야 TV 방송](../Page/나고야_TV_방송.md "wikilink"), [아사히 방송](../Page/아사히_방송.md "wikilink"), 사무실 크레센도
+  - 배급 - [토호](https://ko.wikipedia.org/wiki/토호 "wikilink")
+
+## 외부 링크
+
+  - [극장판 TRICK 영능력자 배틀로얄](http://www.yamada-ueda.com/movie/) - 공식 사이트
+
+  -
+[분류:2010년 영화](https://ko.wikipedia.org/wiki/분류:2010년_영화 "wikilink") [분류:일본의 영화 작품](https://ko.wikipedia.org/wiki/분류:일본의_영화_작품 "wikilink") [분류:일본어 영화 작품](https://ko.wikipedia.org/wiki/분류:일본어_영화_작품 "wikilink") [분류:미스터리 영화](https://ko.wikipedia.org/wiki/분류:미스터리_영화 "wikilink") [분류:TV 아사히 제작 영화](https://ko.wikipedia.org/wiki/분류:TV_아사히_제작_영화 "wikilink") [분류:텔레비전 프로그램의 영화화 작품](https://ko.wikipedia.org/wiki/분류:텔레비전_프로그램의_영화화_작품 "wikilink") [분류:쓰쓰미 유키히코 감독 영화](https://ko.wikipedia.org/wiki/분류:쓰쓰미_유키히코_감독_영화 "wikilink") [분류:도호](https://ko.wikipedia.org/wiki/분류:도호 "wikilink") [분류:도치기현을 배경으로 한 영화](https://ko.wikipedia.org/wiki/분류:도치기현을_배경으로_한_영화 "wikilink")

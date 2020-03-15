@@ -1,0 +1,409 @@
+> This article is converted from Wikipedia: [ \(TV \)](https://ko.wikipedia.org/wiki/_\(TV_\)).
+
+
+**파이어 볼**은 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink")부터 방송된, [월트 디즈니 재팬이](https://ko.wikipedia.org/wiki/월트_디즈니_재팬 "wikilink") 제작한 [3D CG](https://ko.wikipedia.org/wiki/3차원_컴퓨터_그래픽스 "wikilink") 애니메이션 작품이다. 이 항목에서는 '제2기 파이어 볼 차밍'에 대해서도 기술한다. (이하의 기술에 있어서 따로 쓰지 않는 경우는 기본적으로 제1기에 관한 것이다.)
+
+## 개요
+
+바깥 세계로부터 격리된 저택 안에서, 선대가 남긴 서적으로 바깥 세계를 배우고 있는 드롯셀과 그(녀)의 [집사](https://ko.wikipedia.org/wiki/집사 "wikilink") 게대흐트니스의 일상을 그린 코미디 작품.
+
+### 제1기
+
+[디즈니](https://ko.wikipedia.org/wiki/디즈니 "wikilink")에서 처음으로, [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") 국내에서 일본인 스탭에 의해 제작된 텔레비전 애니메이션 작품. 텔레비전 방송 이외에도 공식 사이트나 [유튜브](../Page/유튜브.md "wikilink") (You Tube) 등을 이용해 인터넷에서 무료 전송된, 디즈니로서는 전례가 없는 실험적인 작품이다.
+
+풀3D 애니메이션이며, 1화가 약 2분의 단편이다. 2006년 봄 단계에서 성우의 에프터 레코딩이 이미 행하여져, 같은 해 가을에는 방송할 수 있는 상태로 완성되어 있었다.
+
+작중에는 폭넓은 장르로부터의 패러디가 많이 보여진다. [성서](https://ko.wikipedia.org/wiki/성서 "wikilink")나 [장자](https://ko.wikipedia.org/wiki/장자 "wikilink"), [은하수를 여행하는 히치하이커를 위한 안내서](https://ko.wikipedia.org/wiki/은하수를_여행하는_히치하이커를_위한_안내서 "wikilink"), [철인 28호](../Page/철인_28호.md "wikilink"), [오즈의 마법사](../Page/오즈의_마법사.md "wikilink"), [클라리넷을 망가트렸다](https://ko.wikipedia.org/wiki/클라리넷#동요 "wikilink"), [경마](../Page/경마.md "wikilink"), [야마구치씨네 츠토무군](https://ko.wikipedia.org/wiki/야마구치씨네_츠토무군 "wikilink"), [더 플라이](https://ko.wikipedia.org/wiki/더_플라이 "wikilink"), [스파이더맨](../Page/스파이더맨.md "wikilink"), [스타 워즈](https://ko.wikipedia.org/wiki/스타_워즈 "wikilink"), [마이클 잭슨](https://ko.wikipedia.org/wiki/마이클_잭슨 "wikilink") 등, [고전](https://ko.wikipedia.org/wiki/고전 "wikilink")에서 [SF](https://ko.wikipedia.org/wiki/SF "wikilink")까지 그 출전원은 여러 갈래에 걸친다. 패러디 요소를 두사람의 대화 속에 많이 짜 넣으면서, 무표정인 두 명의 로봇이 펼치는, 어딘지 어긋난 대화에 3D CG의 매끄러운 움직임이 중심인 작품이다. 한 화가 짧은데다가, 몇 안되는 등장 인물인 드롯셀와 게대흐트니스는 얼굴에 눈 이외의 부품이 존재럽지 않고 표정이 없다는 것 등도 있어, 다른 디즈니 작품 대부분에 보여지는 과장된 표정이나 몸짓으로 감정을 표현한다는 연출은 없다. 무대는 저택의 큰방에 한정되어 있어서, OP과 ED에서 '폭풍우의 탑'의 외관이 비치는 이외는 다른 장소가 화면에 드러나는 것은 거의 없다. 따라서 시청자는 등장하는 두 명의 대화로 밖의 세계를 상상하는 수 밖에 없다. 그것은 저택에서 밖으로 나간 적이 없는 주인공 드롯셀의 시점이기도 한다. 최종회는 디즈니 채널에서는 TOKYO MX보다 긴 감독 편집판이 방송되고 있다.
+
+드롯셀은 [피그마](https://ko.wikipedia.org/wiki/피그마 "wikilink"), [넨도로이드](https://ko.wikipedia.org/wiki/넨도로이드 "wikilink"), [SR](https://ko.wikipedia.org/wiki/타카라토미_아츠 "wikilink"), [초합금](https://ko.wikipedia.org/wiki/초합금_\(완구\) "wikilink") 시리즈로 상품화되었다.
+
+한편, 공식 블로그 (약칭 '이로로그')의 로고나 일러스트 디자인은, [橫內なおき](https://ko.wikipedia.org/wiki/橫內なおき "wikilink")가 담당하고 있다.
+
+### 제2기
+
+[2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [8월 10일에](https://ko.wikipedia.org/wiki/8월_10일 "wikilink") 공식 블로그에서 새 시리즈의 제작과 [2011에](https://ko.wikipedia.org/wiki/2011에 "wikilink")에 방송할 예정이라는 정보가 공개. 같은 해 12월에 타이틀 "파이어 볼 차밍"과 풀 [HD](https://ko.wikipedia.org/wiki/HD "wikilink") 제작이라는 정보가 공개. 감독·각본은 전 시리즈에 이어서 아라카와 고가 속투할 예정으로 되어 있다.
+
+아라카와 고 감독에 의하면, 제1기의 직접적인 속편이 아니지만, 일부가 연결되는 시나리오가 된다. 이것은, '(직접적인) 속편은 첫편을 넘을 수 없다' 라는 징크스가 있었기 때문으로, 어디까지나 '새시리즈'로서 기획을 진척시켰다고 한다. 이것은 캐릭터 디자인이 변경된 이유의 하나이기도 한다 (또 하나의 이유는, HD제작에 맞춰서 화면의 정보량을 늘리기 위해서).
+
+## 줄거리
+
+[메루쿨](https://ko.wikipedia.org/wiki/메르쿠리우스 "wikilink") 력 48650년. [지구](../Page/지구.md "wikilink")인지 아닌지도 명언되지 않는 행성에서, 4만8000년 이상 전에 [돌고래](https://ko.wikipedia.org/wiki/돌고래 "wikilink")나 [원숭이](https://ko.wikipedia.org/wiki/원숭이 "wikilink"), [새](https://ko.wikipedia.org/wiki/새 "wikilink") 같은 [야생동물](https://ko.wikipedia.org/wiki/야생동물 "wikilink")과 그것을 포함하는 [자연환경](https://ko.wikipedia.org/wiki/자연환경 "wikilink")은 괴멸하고, 인류는 자신의 [통치](https://ko.wikipedia.org/wiki/통치 "wikilink")를 [로봇](https://ko.wikipedia.org/wiki/로봇 "wikilink")에게 맡기고 있었다. 그러나 로봇은 마침내 [귀족](https://ko.wikipedia.org/wiki/귀족 "wikilink")화해 인류는 거기에 저항을 보이기 시작하고, 인류의 [군대](../Page/군대.md "wikilink")와 로봇 귀족과의 전쟁은 이미 2만 년 가까이 계속되고 있었다.
+
+드롯셀의 아버지인 고 플뤼겔 [공작은](../Page/공작_\(작위\).md "wikilink") 인류와의 공존을 바라지만 미처 이루지 못하고 죽는다. 남겨진 외동딸 드롯셀은 저택의 데이터 베이스와 집사 게대흐트니스로부터 인류란, 생명이란,그리고 귀족으로서의 긍지와 사명이란 무엇인가를 배우고 있다. 그러나 저택의 밖으로 한 발짝도 나간 적이 없는 드롯셀은 그 어느 것에도 확실한 대답을 찾을 수 없다.
+
+## 등장 인물
+
+### 메인캐릭터
+
+  - 드롯셀 ドロッセル (Drossel von Flügel)
+    성우 - [카와쇼 미유키](https://ko.wikipedia.org/wiki/카와쇼_미유키 "wikilink")
+      - 형식번호 : 하이츠레기스타사 제 JUNO-XIV
+      - 눈동자 색 : 오션 블루
+      - 제조 시의 설정 연령 : 14세 실제 연령 : 불명
+      - 중량 : [사과](../Page/사과.md "wikilink") 179개 분 (사과는 한 개 평균 300g정도)
+      - 흥미 있는 것 : 귀엽다 라는 개념, 호신술 ([카라테](../Page/공수도.md "wikilink") (空手)라고 믿고 있는, [까뽀에라](https://ko.wikipedia.org/wiki/카포에이라 "wikilink") 같은 격투기)
+      - 갖고 싶은 것 : 애완동물 (말하는 고양이), 요술 지팡이
+    본작의 주인공. 드롯셀이라는 이름은, [독일어](https://ko.wikipedia.org/wiki/독일어 "wikilink")로 '[개똥지빠귀](../Page/개똥지빠귀.md "wikilink")'를 나타낸다 (플뤼겔은 '[날개](../Page/날개.md "wikilink")'란 뜻).
+    본명은 드롯셀 주노 피어첸테스 하이츠레기스타 퓌르스틴 폰 플뤼겔 (플뤼겔 여[공작](../Page/공작_\(작위\).md "wikilink") 하이츠레기스타 사 제 [주노](https://ko.wikipedia.org/wiki/유노 "wikilink") 14형이라는 뜻). [가이노이드](https://ko.wikipedia.org/wiki/가이노이드 "wikilink")이며, 인간으로 치면 14세로 설계되어 있다 (실제 연령은 불명).
+    [우라노스](../Page/우라노스.md "wikilink")국 펨페스트령을 통치하는 19대째 당주인 [하이페리온](https://ko.wikipedia.org/wiki/히페리온 "wikilink") (귀족)이지만, 저택에서 나간 적은 없다. 그 때문에, 바깥 세계의 지식은 저택에 보관되고 있는 서적이나 게대흐트니스로부터의 구전에 의존하는 것이라, 틀리거나 편향된 경우가 많다.
+
+<!-- end list -->
+
+  -
+    드롯셀의 몸에는 각양각색의 기능이 내장되어 있고, 어태치먼트로 확장도 가능하다. 눈에는 서치 라이트가 내장되어 있지만 (사용하면 너무 눈부셔서 앞이 보이지 않게 된다), 작동할 때까지 본인은 이 기능에 대해서 전혀 몰랐다. 머리 부분의 투 테일은 환장이 가능하다. 통상의 투 테일풍 유닛 외에, 비행 유닛 " 오브루체프'나 격투 유닛 "벨린다"가 존재한다.
+    "차밍"에서는 제1기보다 다리 부분이 비대화하고 후두부가 뒤로 크게 연장된 모습으로 되어 있다. 한복판 부분에 관절이 있어 틀린 것 등을 지적 받았을 경우에 접힌다. 끝에는 소형 차륜이 탑재되어 있어, 양쪽 발에 탑재된 것과 함께 사용해서 브릿지 형으로 주행하는 것도 가능. 게다가 일륜차 '요제프'에 탑승하는 것으로 고속이동도 가능하다.
+
+<!-- end list -->
+
+  - 게대흐트니스(Gedächtnis)
+    성우 - [오오카와 토오루](https://ko.wikipedia.org/wiki/오오카와_토오루 "wikilink")
+      - 형식번호: 하이츠레기스타 사 제 Tauri 34
+      - 눈동자 색 : 크림슨 레드
+      - 제조 시의 설정 연령:50세 실제 연령 : 20800세
+      - 중량 : 248100그랍 ([킬로그람](https://ko.wikipedia.org/wiki/킬로그람 "wikilink")의 옛 명칭이지만 관계는 불명)
+      - 취미 : 욕실의 미끈미끈함 청소, 스킨 케어
+    드롯셀의 집사. 이름은 독일어로 '[기억](../Page/기억.md "wikilink")'을 뜻한다. 드러난 [유압](https://ko.wikipedia.org/wiki/유압 "wikilink") 실린더나 등쪽의 [배기](https://ko.wikipedia.org/wiki/배기 "wikilink")통 등 중기를 연상시키는 대형 다족 로봇지만, 주인인 드롯셀에게는 몸을 접어 구부리고, 같은 눈높이에서 겸손하게 대한다. 드롯셀의 교육과 호위를 최우선사항으로 하고 있다. 드롯셀로부터는 고의인지 과실인지, 매 회 다른 이름으로 불려 버려서 (한 에피소드 중에도 변화된다), 그 때마다 이름을 강조하지만, 언제나 무시당한다. 제13화 (최종화)에서, 처음으로 맞는 이름으로 불린다.
+    일견 구식 로봇지만, 등쪽 소켓으로 저택의 관리 시스템에 접속이 가능해서, 저택의 데이터베이스 검색이나 방위 시스템의 운용 등, 폭넓은 기능의 사용이 가능하다.
+    "차밍"에서는 대폭으로 디자인이 변경. "파이어 볼"과 비교해 더욱 구식이지만, 이 무렵에도 이미 저택 제어 장치를 탑재하고 있는 모양이고, 유선 접속으로 저택 자체의 각도를 기울게 하는 어려운 일을 잘 해내고 있다.
+
+<!-- end list -->
+
+  - 빈트슈틸레 폰 플뤼겔 (Windstille von Flügel)
+    드롯셀의 아버지. 선대 플뤼겔 공작. 화면에 그 모습은 나타나지 않고, 이름만 등장하고 있다. 이름은 독일어로 '무풍, 잔잔함'을 뜻한다. 돌아가셨다고 언급되고 있다. 드롯셀 자신은 양친의 기억이 없다. 로봇라고 생각되지만 자세한 내용은 불명. 게대흐트니스 말로는, 인류와의 공존을 바라고 있었던 모양이지만, 그 진위는 분명치 않다.
+
+### 캐릭터 (제1기)
+
+  - 유미르테미르 (Ymir-Themir Suttungr)
+    드롯셀의 펜팔 상대. 빈트슈틸레와 같이 화면에 그 모습은 나타나지 않고, 이름만 등장하고 있다. 드롯셀에 의하면 '이웃'이지만, 템페스트에서는 인류의 [군대](../Page/군대.md "wikilink")가 주류하는 [사막](https://ko.wikipedia.org/wiki/사막 "wikilink")을 사이에 둔 장소에 있어, 편지 1통을 전하는 것 뿐이라도 통신 부서에서 희생자가 나오고 있다.
+  - 원숭이 (Die Schadenfreude)
+    저택 안에 살고 있는 원숭이형 로봇. '[샤덴프로이데](../Page/샤덴프로이데.md "wikilink")'라고 드롯셀은 부르고 있다 (독일어로 '남의 불행은 꿀맛'이란 뜻). 선대의 말 (목소리-[鄕里大輔](https://ko.wikipedia.org/wiki/鄕里大輔 "wikilink")이 입력되어 있어, 비상시에 메신저의 역할을 행한다.
+  - [메이드](https://ko.wikipedia.org/wiki/메이드 "wikilink")
+    [스텔쓰](https://ko.wikipedia.org/wiki/스텔스 "wikilink") 유닛를 장착하고 있는 보이지 않는 잡무용 로봇이다. 있다는 말을 들을 때까지 드롯셀는 그 존재마저 알아차리지 못하고 있었다 (즉 존재하면서도 화면 상에는 일체 등장하지 않는다).
+    7965명의 메이드 로봇가 템페스트 안의 잡무에 종사하고 있었지만, 자금 융통이 어려워졌기 때문 대부분의 메이드가 해고되었다. 그 때문에, 현재는 3691명으로까지 인원이 삭감되어 있다.
+
+### 캐릭터 (차밍)
+
+  - 유리
+    성우-[타치키 후미히코](../Page/타치키_후미히코.md "wikilink")
+    '인류'를 모방해서 만들어졌다고 생각되는 인형. 우주복 같은 형상으로, 드롯셀이 꿈 속에서 본 '인류'도 같은 모습을 하고 있었다.
+  - 포프리
+    성우 - [다나카 히데유키](https://ko.wikipedia.org/wiki/다나카_히데유키 "wikilink")
+    유리와 끼워팔기로 판매된, 테이블형 대화 시뮬레이터. 상품명 '즐거운 테이블 매너 격언 사전'. 마음과 마음의 거리를 몸과 몸의 거리로 변환하는 테이블로, 한쪽 끝에 유리가 앉아 있고, 다른쪽 끝에 플레이어가 앉는다. 출제에 대한 정답/오답으로 마음의 거리를 판단하고, 테이블의 길이를 신축하는 것에 의해 서로의 몸의 거리를 변화시킨다.
+  - 추크츠방
+    성우 - 우스이 요시유키
+    저택 지하 제42층에서 기능 정지 상태로 발견된 9기의 수수께끼 고용인. 오랜 세월에 걸쳐 플뤼겔 가에 봉사하고 있었다고 적혀 있다. 서적에 의하면, 커뮤니케이션은 2개의 자세 (앉는다, 선다)을 조합시킨 2진법으로 행하고, 얼굴을 회전시키는 것으로 표정을 표현한다. 그러나, "차밍" 후기에서는, 감정 (같은 것)을 제스처로 표현하거나, 게대흐트니스에 용건을 귀 (?)엣말로 하는 등, 의사소통 수단을 늘리는 것도 가능한 것 같다.
+  - 레지날드
+    성우 - [카토 켄소](https://ko.wikipedia.org/wiki/카토_켄소 "wikilink")
+    하이츠레기스타 사 제 자주식 기록 장치. 플뤼겔 가의 서기. 잠꼬대나 혼잣말을 포함한 드롯셀의 과거 발언을 모두 기록하고 있다.
+
+## 용어
+
+  - 제1기
+
+:; 템페스트의 탑
+
+:: 드롯셀네가 사는 저택. [브뤼헐의](https://ko.wikipedia.org/wiki/대_피터르_브뤼헐 "wikilink") [바벨탑](https://ko.wikipedia.org/wiki/바벨탑 "wikilink")을 연상시키는 외관. 412군데에 걸친 감시 카메라와 139군데에 달하는 무엇인가에 의해 철벽의 방위 시스템을 자랑한다.
+
+:; 프로스페로
+
+:: 작고한 빈트슈틸레경이 남긴 서적형 기억장치. 플뤼겔 가의 가훈 (그 9할이 테이블 매너로 추측된다)이나, 백성을 결속하기 위한 지역 전승, 인간의 생태나 비상시의 대처법, 등 여러가지 것에 대해서 기술되고 있지만, 일부에 편향성이 보인다. 프로스페로는 'PROgrammed Sequence of Primary Education for RObot'의 머리 문자를 채용한 약칭. 또 [세익스피어](https://ko.wikipedia.org/wiki/세익스피어 "wikilink")의 희곡 '[템페스트](https://ko.wikipedia.org/wiki/템페스트 "wikilink")'에 등장하는 복수에 눈이 먼 마술사의 이름. 최후에는 적을 놓아주고, 융화의 중요함을 설득한다.
+
+:; 비행 유닛 오브루체프(Obruchev)
+
+:: 제3화에 등장. 드레서 앞에 놓여 있었다고 하는, 드롯셀의 머리에 장착하는 비행 유닛. 드롯셀는 비행 기능에 대해서 모르고, 게대흐트니스가 지적해도 여전히 “치장 유닛'이라고 끝까지 우기고 있었다. 드롯셀의 발뒤꿈치가 기동 스위치로, (본체에) 3번의 충격을 주면 비행한다.
+
+:: 작중에서는 '발목이 스위치' '3번의 충격을 주어라'라고 되어 있어 잘못 이해하고, 발목을 3번 쳐 울리지만 작동하지 않고 '역시 '치장 유닛'이다'라고 하는 흐름이 되지만 그 후 드롯셀이 어깨가 결린다며 머리를 3번 흔듦으로써 기동하고 있다.
+
+:: 발뒤꿈치를 쳐 울리는 몸짓은 [오즈의 마법사의](../Page/오즈의_마법사.md "wikilink") '루비 구두'가 모티브.
+
+:; 격투 유닛 벨린다
+
+:: 제11화에 등장. 드롯셀의 머리에 장비하는 경장형 운동 유닛으로, 주로 격투 능력을 향상시킨다. 기부가 신축해서 운동 후에 발생한 여열을 배기에 의해 저감시키는 냉각 기능을 가진다.
+
+:; 전서 빔
+
+:: 옥상 위에 있는 통신 장치라고 생각되는 것. 큰 기계인 듯하다. 드롯셀은 이 장치의 사용을 싫어하고 있다.
+
+:; LBL (레이어 바이 레이어) 음향 폭탄
+
+:: 제6화에 나온 인류의 공격 수단이며, [전자 펄스](https://ko.wikipedia.org/wiki/전자_펄스 "wikilink")(EMP)에 가까운 상태를 음파에 의해 발생시키는 기기로 여겨지고, 기묘한 소리를 낸다.
+
+:: 이 폭탄의 영향 아래 있는 로봇은 일시적인 기능 부전에 빠진다. 그 후에도 약간의 부작용이 남는 모양. 작중에서 명칭은 나오지 않고, 애니메이션 Newtype 채널의 파이어 볼 마라톤 사이트 내에서 해설되었다.
+
+:; 파이어 볼 작전 혹은 새로운 희망
+
+:: 무기/유기, 모든 생명체로부터, 모든 열등감을 없애고, 그들이 특별한 이유가 없더라도 행복감을 품게 하려는, 1번도 실행된 적은 없지만, 역사상 가장 잔혹한 군사작전. 혹은, 이 세계와 대치할 때에 필요한 [테이블 매너](https://ko.wikipedia.org/wiki/테이블_매너 "wikilink"). (애니메이션 Newtype 채널 '파이어 볼 마라톤' 제13화 "꿈이 생기는 장소"의 해설에서 인용)
+
+:: 프로스페로의 제9장 25절 (제2화의 부제 '9:25'와도 연관이 있다)에 적혀 있었다.
+
+:; 테이블 매너
+
+:: 이야기 속에서 거듭해서 언급되는 일이 많다. 이것은, 평화협상 = 같은 자리에 앉는다 = 테이블 매너를 의미한다 .
+
+:; 메르쿨 력
+
+:: 각 회의 첫머리, 자막에 나타나는 역법. 이야기의 시간축을 나타낸다. 제1화가 메르쿨 력 48650년. 최종회인 제13화의 시점에 그때로부터 144년후인 48794년이다. 그럼에도 불구하고 드롯셀 일동은 십 몇 년 전의 사건을 어제의 일처럼 이야기한다. 메르쿨은 [머큐리](https://ko.wikipedia.org/wiki/머큐리 "wikilink")에게 해당하는 독일어. 로마 신화의 [메르쿠리우스](https://ko.wikipedia.org/wiki/메르쿠리우스 "wikilink"). [수은](https://ko.wikipedia.org/wiki/수은 "wikilink"), [수성](https://ko.wikipedia.org/wiki/수성 "wikilink")의 상징.
+
+:; [돌고래](https://ko.wikipedia.org/wiki/돌고래 "wikilink")
+
+:: 저택의 데이터베이스에 의하면 약 4만 8000년 전까지 서식하고 있었던, 지상에서 2번째로 지능이 높은 생물. 검색하던 게대흐트니스가 '호오, 이거 귀엽네'라고 감탄성을 지르고 있다. 덧붙이자면 인류는 3번째 ([은하수를 여행하는 히치하이커를 위한 안내서의](https://ko.wikipedia.org/wiki/은하수를_여행하는_히치하이커를_위한_안내서 "wikilink") 패러디). 돌고래가 멸종하고부터의 시간과 메르쿨 력이 겹치는 것에서, 이야기의 배경을 읽어낼 수 있다. 드롯셀 말로는 '귀여워 좋고, 먹어서 좋고'.
+
+:; [새](https://ko.wikipedia.org/wiki/새 "wikilink")
+
+:: 애완동물을 갖고 싶다고 떼를 쓰는 드롯셀을 위해, 게대흐트니스는 다수의 생생한 [모르포 나비를](https://ko.wikipedia.org/wiki/나비 "wikilink") 준비한다. 그 푸른 날개로 난무하는 모습에 감동하는 드롯셀이지만, 정보 부족으로 나비를 '새'라고 단언한다. 드롯셀은 게대흐트니스에게, 인류나 새 (나비)가 진짜인 것에 비해서 자기들 기계는 그 레플리카가 아닌가라는 의문을 말한다. 그에 대한 게대흐트니스의 대답이 명답.
+
+:; 발타자르 Balthazar
+
+::선대 공작이 애용하던 의자. 게대흐트니스 말로는 '아버님이 아끼던 물건'. 유럽 제후의 [옥좌](https://ko.wikipedia.org/wiki/옥좌 "wikilink")를 연상시키는 위용도 위용이지만 용도불명의 케이블이 다수 접속되어 있어, 단순한 일상 생활 용품이 아닌 것을 알 수 있다. 체격적으로 드롯셀에게는 너무 크지만, '흐음, 마치 꿈을 꾸는 기분이네'라고 감상을 말하고 있다. 극중에서 명칭은 나오지 않지만 DVD에 부속된 해설서에 명칭이 씌어져 있다.
+
+:; [공수도:카라테](https://ko.wikipedia.org/wiki/공수도:카라테 "wikilink")
+
+:: 엄밀하게는 드롯셀이 카라테라고 믿고 있는 것. 따로 스승을 두지 않고 독학으로 연습하고 있는 것 같다. 옆구르기나 물구나무서기를 다용해, [카포에이라](https://ko.wikipedia.org/wiki/카포에이라 "wikilink")의 특징이 엿보인다. 그 점을 게대흐트니스가 지적하지만 드롯셀는 항상 '카라테'라고 우기고 있다.
+
+:; 기도 유닛 그리니치
+
+:: 미사용 유닛. SR피겨에 부속.
+
+:; 관광 유닛 기즈모
+
+  -
+
+      -
+        미사용 유닛. DVD "윈터 패키지"에 동봉된 피그마 한정판에 부속.
+
+  - 차밍
+
+:; 차량
+
+:: 저택 안을 주회하는 모노레일 같은 탈것. 정식명칭에 대해서는 이야기되지 않고 있다.
+
+:; 점성 유닛
+
+:: 별점 세트. 저택 안에서 메이드가 발견한, 지팡이와 헬멧 같은 장치의 세트.~~메이드가\!~~
+
+:; 차밍 인류
+
+:: 빈트슈틸레가 서적으로 예언한, 결코 경쟁하는 일이 없는 인류.
+
+:: 저택에는 차밍 인류의 탈것으로 여겨지는 물건이 있고, 기체에 씌어져 있었던 'CHARMING'이란 문자는 주인의 이름이라고 생각되었지만, 표면의 더러움을 닦자 드러난 문자는 'WARNING' (경고)이며, 차밍 인류는 없었다고 결론지었다.
+
+:; 요제프
+
+:: 외바퀴 오토바이. 드롯셀이 탑승했지만 정지 방법을 몰라, 게대흐트니스는 저택의 전원공급을 정지시키는 것으로 정지시키고 있다.
+
+:; 대강 만사에 있어서 그다지 완벽하게 하지 않는 법안
+
+:: 생략해서 '대만완 법'. 예전에 빈트슈틸레가 우라노스 국을 '완벽히' 통치해 버린 반성으로 생긴 법안.
+
+:; 안경
+
+:: 시력 센서 교정을 위한 안경형 유닛. 별을 관측할 수 없는 것에 의문을 가진 드롯셀이 사용.
+
+:; 배양기'501622731'
+
+:: 생일 서물로 게대흐트니스가 준 배양기에 든 파란 장미. 처음 것은 깨져 버렸지만 매년 침실에 놓이도록 지시하고 있고, 충실히 지켜지는 것을 최종회에 확인할 수 있다.
+
+:; 활
+
+:: 화살은 하이테크 빨판을 사용한다.
+
+:; 야구용 장비
+
+:: 오른팔에 장착하는 공을 받을 때의 글러브와 머리 부분에 장착하는 미트 같은 장비.
+
+:; 편리봉 '제리코'
+
+:: 편리한 막대기
+
+:; '케셀IV (효자손)'
+
+  -
+
+      -
+        초합금에 부속된 대좌.
+
+## 스탭
+
+  - 프로듀스 ·각본·감독 - 아라카와 고 (荒川航)
+  - 캐릭터 디자인 - [福地仁](https://ko.wikipedia.org/wiki/福地仁 "wikilink"), [柳瀨敬之](https://ko.wikipedia.org/wiki/柳瀨敬之 "wikilink") (차밍에서의 메카니컬 디자인)
+  - 게스트 디자이너
+      - [御船麻砥](https://ko.wikipedia.org/wiki/御船麻砥 "wikilink") (오브루체프를 비롯한 꽃무늬의 디자인), 타나카 리에 (차밍)
+      - 타나카 리에 (田中リエ) (제목 글씨, 옥좌의 모양 등)
+  - CG프로듀서 - 川嶋洋樹)
+  - CG감독 - 와타나베 세이시(渡邊誠之)
+  - 작곡 - 薄井由行
+  - 사운드 디자인 - 鍬原保愉貴
+  - 애니메이션 제작 - 지니즈 애니메이션 스튜디오 (ジーニーズアニメーションスタジオ)
+  - 제작- [월트 디즈니 텔레비전 인터내셔널 재팬](https://ko.wikipedia.org/wiki/월트_디즈니 "wikilink")
+
+## 에피소드
+
+| 화수   | 연대           | 부제          |
+| ---- | ------------ | ----------- |
+| 제1화  | 메르쿨 력 48650년 | 그 수생 동물을 보자 |
+| 제2화  | 메르쿨 력 48666년 | 9:25        |
+| 제3화  | 메르쿨 력 48682년 | 돌고래가 날았던 날  |
+| 제4화  | 메르쿨 력 48690년 | 세인트 엘모의 불   |
+| 제5화  | 메르쿨 력 48698년 | 전두엽의 악마     |
+| 제6화  | 메르쿨 력 48714년 | 흔들림 없는 마음   |
+| 제7화  | 메르쿨 력 48730년 | 프로퍼시        |
+| 제8화  | 메르쿨 력 48746년 | 앉은 자리의 원숭이  |
+| 제9화  | 메르쿨 력 48754년 | 버터플라이       |
+| 제10화 | 메르쿨 력 48762년 | 종착역         |
+| 제11화 | 메르쿨 력 48778년 | 침입자들        |
+| 제12화 | 메르쿨 력 48786년 | 허상의 눈       |
+| 제13화 | 메르쿨 력 48794년 | 꿈이 생겨나는 장소  |
+
+제1기
+
+| 화수   | 연대           | 부제        |
+| ---- | ------------ | --------- |
+| 제1화  | 메르쿨 력 48234년 | 부트스트랩 연속체 |
+| 제2화  | 메르쿨 력 48250년 | 트로이에 목마   |
+| 제3화  | 메르쿨 력 48266년 | 클라인 병 고치기 |
+| 제4화  | 메르쿨 력 48282년 | 허전한 우주    |
+| 제5화  | 메르쿨 력 48298년 | 챔피언들의 식탁  |
+| 제6화  | 메르쿨 력 48314년 | 공포의 두뇌 회의 |
+| 제7화  | 메르쿨 력 48330년 | 폭풍의 언덕    |
+| 제8화  | 메르쿨 력 48346년 | 건틀렛       |
+| 제9화  | 메르쿨 력 48362년 | 게임의 규칙    |
+| 제10화 | 메르쿨 력 48378년 | 작년을 맞이하면서 |
+| 제11화 | 메르쿨 력 48394년 | 림보        |
+| 제12화 | 메르쿨 력 48410년 | 중력의 물레    |
+| 제13화 | 메르쿨 력 48426년 | 아이 없는 세계  |
+
+차밍
+
+## 방송국
+
+<table>
+<caption>제1기</caption>
+<thead>
+<tr class="header">
+<th><p>방송지역</p></th>
+<th><p>방송국</p></th>
+<th><p>방송 기간</p></th>
+<th><p>방송 일시</p></th>
+<th><p>방송 계열</p></th>
+<th><p>비고</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/토쿄도" title="wikilink">토쿄도</a>(東京都)</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/토쿄_메트로폴리탄_텔레비전" title="wikilink">TOKYO MX</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/2008년" title="wikilink">2008년</a> <a href="https://ko.wikipedia.org/wiki/4월_7일" title="wikilink">4월 7일</a> - <a href="https://ko.wikipedia.org/wiki/6월_30일" title="wikilink">6월 30일</a></p></td>
+<td><p>월요일 18시 25분- 18시 30분</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/독립UHF국" title="wikilink">독립UHF국</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/전국_방송" title="wikilink">일본 전역</a></p></td>
+<td><p><a href="../Page/디즈니_채널.md" title="wikilink">디즈니 채널</a></p></td>
+<td><p>2008년 <a href="https://ko.wikipedia.org/wiki/4월_11일" title="wikilink">4월 11일</a> - <a href="https://ko.wikipedia.org/wiki/7월_4일" title="wikilink">7월 4일</a></p></td>
+<td><p>금요일 17시 25분 - 18시 30분<br />
+금요일 22시 25분 - 22시 30분 등</p></td>
+<td><p>CS방송</p></td>
+<td><p>재방송 있음</p></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<caption>차밍</caption>
+<thead>
+<tr class="header">
+<th><p>방송 지역</p></th>
+<th><p>방송국</p></th>
+<th><p>방송 기간</p></th>
+<th><p>방송 일시</p></th>
+<th><p>방송 계열</p></th>
+<th><p>비고</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/토쿄도" title="wikilink">토쿄도</a></p></td>
+<td><p>TOKYO MX</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/2011년" title="wikilink">2011년</a> <a href="https://ko.wikipedia.org/wiki/4월_4일" title="wikilink">4월 4일</a> - <a href="https://ko.wikipedia.org/wiki/4월_25일" title="wikilink">4월 25일</a></p></td>
+<td><p>월요일 19시 28분 - 19시 30분</p></td>
+<td><p>독립UHF국</p></td>
+<td><p>방송 시간 변경</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/2011년" title="wikilink">2011년</a> <a href="https://ko.wikipedia.org/wiki/5월_2일" title="wikilink">5월 2일</a> - <a href="https://ko.wikipedia.org/wiki/6월_27일" title="wikilink">6월 27일</a></p></td>
+<td><p>월요일 22시 55분 - 22시 58분</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2011년 <a href="https://ko.wikipedia.org/wiki/7월_4일" title="wikilink">7월 4일</a> -</p></td>
+<td><p>재방송</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/兵庫縣" title="wikilink">兵庫縣</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/산_텔레비전" title="wikilink">산 텔레비</a></p></td>
+<td><p>2011년 <a href="https://ko.wikipedia.org/wiki/4월_6일" title="wikilink">4월 6일</a> - <a href="https://ko.wikipedia.org/wiki/6월_29일" title="wikilink">6월 29일</a></p></td>
+<td><p>수요일 15시 55분 -</p></td>
+<td></td>
+<td><p>|-|rowspan="3"|<a href="https://ko.wikipedia.org/wiki/전국_방송" title="wikilink">일본 전역</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>디즈니 채널</p></td>
+<td><p>2011년 <a href="https://ko.wikipedia.org/wiki/4월_8일" title="wikilink">4월 8일</a> - <a href="https://ko.wikipedia.org/wiki/7월_1일" title="wikilink">7월 1일</a></p></td>
+<td><p>금요일 18시 25분 -<br />
+금요일 23시 25분 - 등</p></td>
+<td><p>CS방송</p></td>
+<td><p>재방송 있음</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2011년 <a href="https://ko.wikipedia.org/wiki/7월_11일" title="wikilink">7월 11일</a> -</p></td>
+<td><p>재방송</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 영상 소프트
+
+  - 제1기
+    2009년 8월 19일에 DVD가 5000장 수량 한정 생산으로 시판되었다. DVD에는 특전영상으로서 '메이킹 오브 파이어볼'이 수록되었고, 거기에 동봉 특전으로서, 게대흐트니스의 종이공예와 샤덴프로이데의 무채색 플라모델이 부속되었다. 한편, 본편에 대해서는 일부 리테이크가 행하여져 있다.
+    이 DVD는 곧 예약 매진해 버렸기 때문에, 뒤에 "파이어볼 윈터 패키지"로 재시판되었다. 이쪽은 수량 한정 생산이 아니고 수주 한정 생산이 되었다. 이쪽의 동봉 특전은 '[피그마](https://ko.wikipedia.org/wiki/피그마 "wikilink") 드롯셀'의 한정판이다. DVD의 내용은 8월 발매 것과 동일.
+    2010년 9월 22일, DVD 통상판과 microSD판이 시판되었다. DVD렌탈판도 릴리즈되었고, 그 수록 내용은 지금까지 릴리즈된 것과 같다.
+  - 제2기
+    2012년 2월에 발매 예정. 통상판은 블루레이 + DVD 세트, 한정판 '치쿠와부 박스'는 온라인 샵 한정 판매로 되어 있다.
+
+## 관련 항목
+
+  - [UHF애니메이션 목록](https://ko.wikipedia.org/wiki/UHF애니메이션_목록 "wikilink")
+  - [은하수를 여행하는 히치하이커를 위한 안내서](https://ko.wikipedia.org/wiki/은하수를_여행하는_히치하이커를_위한_안내서 "wikilink")
+  - [성서](https://ko.wikipedia.org/wiki/성서 "wikilink")
+  - [템페스트](https://ko.wikipedia.org/wiki/템페스트 "wikilink")
+  - [오즈의 마법사](../Page/오즈의_마법사.md "wikilink")
+  - [모르그 가의 살인 사건](https://ko.wikipedia.org/wiki/모르그_가의_살인_사건 "wikilink")
+
+## 참고 문헌
+
+  - [アニメNewtypeチャンネル](https://web.archive.org/web/20110901174153/http://anime.webnt.jp/) 특설 코너 "파이어볼 마라톤"
+
+## 외부 링크
+
+  - [공식 홈페이지](http://www.disneychannel.jp/dc/program/anime/fireball/)
+
+  - [TOKYO MX 公式サイト](http://www.mxtv.co.jp/fireball/)
+
+  - [ファイアボール・ブログ](http://www.disneychannel.jp/dc/program/anime/fireball/blog/)
+
+  - [ファイアボール・概要と解説（제1シリーズ）](http://trow.cc/wiki/fireball/summary_and_explanation)
+
+[분류:일본의 텔레비전 애니메이션](https://ko.wikipedia.org/wiki/분류:일본의_텔레비전_애니메이션 "wikilink") [분류:2008년 애니메이션](https://ko.wikipedia.org/wiki/분류:2008년_애니메이션 "wikilink") [분류:2011년 애니메이션](https://ko.wikipedia.org/wiki/분류:2011년_애니메이션 "wikilink") [분류:디즈니 채널의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:디즈니_채널의_텔레비전_프로그램 "wikilink") [분류:로봇 애니메이션](https://ko.wikipedia.org/wiki/분류:로봇_애니메이션 "wikilink") [분류:코미디 애니메이션](https://ko.wikipedia.org/wiki/분류:코미디_애니메이션 "wikilink") [분류:도쿄 메트로폴리탄 텔레비전의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:도쿄_메트로폴리탄_텔레비전의_텔레비전_프로그램 "wikilink") [분류:UHF 애니메이션](https://ko.wikipedia.org/wiki/분류:UHF_애니메이션 "wikilink")

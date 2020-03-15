@@ -1,0 +1,139 @@
+> This article is converted from Wikipedia: [  :  ! B  !](https://ko.wikipedia.org/wiki/__:__!_B__!).
+
+
+《**짱구는 못말려 극장판: 바카우맛\! B급 음식 서바이벌\!**》은 일본에서 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [4월 20일에](https://ko.wikipedia.org/wiki/4월_20일 "wikilink") 개봉한 [크레용 신짱](https://ko.wikipedia.org/wiki/크레용_신짱 "wikilink")(한국명 : 짱구는 못말려)의 [애니메이션 영화](../Page/애니메이션_영화.md "wikilink") 시리즈의 제21부작이다. 대한민국에는 [대원미디어](https://ko.wikipedia.org/wiki/대원미디어 "wikilink")㈜에서 작품을 수입하여 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [4월 3일에](https://ko.wikipedia.org/wiki/4월_3일 "wikilink") 《**짱구는 못말려 극장판：엄청 맛있어\! B급 음식 서바이벌\!**》이란 제목으로 극장 개봉을 하였다. 극장 상영은 현지화를 진행한 한국어 더빙으로 TV 애니메이션 더빙에 참여한 성우들이 그대로 참여한다. 그리고 국내에서는 "야키소바"라는 이름 대신 "볶음국수"라는 단어를 이용한다. 또한 오세홍 성우가 생애 마지막으로 녹음에 참여하였던 짱구 극장판이기도 하다.
+
+## 개요
+
+감독은 하시모토 마사카즈가 담당한다. 이 영화는 [크레용 신짱](https://ko.wikipedia.org/wiki/크레용_신짱 "wikilink") 최초로 "[음식](https://ko.wikipedia.org/wiki/음식 "wikilink")"을 테마로 쓴 작품이다. 그리고 또 제목에 "\~을 부르는"이 붙지 않고 "바카우맛"이 붙는다. 표어는 불타라\! 야끼소바\!\! 태워라\! 우정\!\!이다.
+
+## 줄거리
+
+카스카베 마을에서 열리고 있는 B급 미식가 축제에 가기로 한 카스카베 방위대. 그런데 축제장으로 가는 버스를 타기위해 정류장에 가던 도중 누군가에게 쫓기는 여자를 만났고 그녀는 은밀하게 아이들을 불러내 들고있던 항아리를 건네주며 안에 든 소스를 절대 흘리지 말고 B급 미식가 축제에서 야키소바를 만드는 켄한테 전해달라고 하고는 자신은 유유히 가버렸다. 카스카베 방위대는 급한대로 항아리를 들고 가던 길을 계속 가기는 했지만 항아리 무게는 5살짜리 아이들에겐 너무도 무거웠고 설상가상으로 버스를 잘못타는 바람에 이상한 곳으로 오고만다.
+
+한편, B급 미식가 축제장에서는 심상찮은 일이 벌어지고 있었다. A급 음식기구의 보스 구루메포이가 B급 음식들을 '떨거지 음식' 취급하며 장사를 하고있던 상인들을 모두 내쫓아 버렸고 자신이 준비한 A급 음식을 차리기 시작한다. 여기에 '전설의 소스'만 있으면 완벽했다. 소스의 행방을 알아내기 위해 일차적으로 자신의 횡포에도 쉽게 물러서지 않는 켄의 연인 베니코를 잡아 캐물었지만 그녀도 소스를 가지고 있지 않았다. 그러다 소스를 찾아내기 위해 출동한 부하들에게서 '카스카베 방위대'라는 5살 꼬맹이들이 소스를 가지고 있다는 제보가 들어왔다.
+
+이를 알게된 구루메포이는 직속부하인 A급 음식 러버즈 삼인방 캐비어, 트러플, 푸아그라에게 카스카베 방위대를 추격하라고 지시한다.
+
+## 평가
+
+최종 흥행수입은 13억엔으로 근래의 크레용 신짱 극장판 중에서는 상당히 좋은 성적을 거두며 흥행에 성공했다. 흥행 실패를 극복한 방법이 폭풍을 부르는 정글 때와 유사하다. 흥행 실패한 작품인 온천 두근두근 대결전이나 나와 우주의 프린세스는 공통적으로 어린이들에게는 난해한 요소가 많다는 평을 받는 극장판이며, 흥행 실패를 극복한 폭풍을 부르는 정글이나 본작은 공통적으로 어린이들에게 어필하기 위해 스토리라인을 단순화하고 개그나 액션같은 요소를 중점에 둔 극장판이라는 점에서 상당히 유사하다. 극장판 시리즈의 주요 관객은 어디까지나 어린이라는 것을 다시 증명한 것이다.
+
+## 등장인물
+
+### B급 미식가 카니발
+
+  - 소스의 건(健)
+    야끼소바 직인. 여성으로 대한 불기용. 유래와 모델은 고창적
+  - 쇼가의 홍자
+    소스의 건(健)의 연인. 전설의 소스를 카스카베 방위대(防衛隊)에게 부탁한다.
+  - 카와고에 셰프
+    B급 미식가 카니발의 테레비 중계에 등장한다.
+
+### B급 미식가 방위대
+
+  - 아랫마을의 고로켓 돈
+    크로켓의 카브리물을 한 남자.
+  - 하카타 내장 카레의 오쿄쿠
+    하카타 내장 카레 장인의 여성. 정신이 강한 싸움에 빨리 수줍어하는 일면도 있다.
+  - 오코노미야끼의 문태
+    오코노미야끼 장인. 평소에는 순하고 착하지만"히로시마풍 오꼬노미야끼"라고 한다고 화를 낸다.
+  - 타꼬야끼의 미나미
+    타코야키의 인형을 입은 여자. 오사카 사투리로 말한다.
+  - 오사카쿠시카츠의 장수
+    구시 카쓰 종사원의 남성. 말투는 난폭하지만 여성에게는 상냥하다.
+
+### A급 미식가 기구
+
+  - 구르메포이
+    A급 미식가 기구의 최고 책임자, B급 미식가의 괴멸을 꾀한다.
+  - 캐비아
+    5개 별 A급 고급 러버즈의 한명. 러시아인 여성.
+  - 토류후
+    5개 별 A급 고급 러버즈의 한명. 오네에 말로 얘기하는 남성. 격노하면 난폭한 말씨가 된다. 트러플과 고상을 좋아하고 천박함을 몹시 싫어한다. 자신의 돼지·피기를 자유자재로 조종하다.
+
+이야기 초반 베니코를 쫓아 그녀가 전설의 소스를 싱노스케들에게 맡겨진 일을 알고 짱구(신노스케)들의 추적을 개시한다.
+
+  - 피기
+    토류프의 애완동물 돼지. 경찰견처럼 민감한 코로 소스를 추적한다.
+  - 횡강(橫綱) 푸아그라 금(錦)
+    5개 별 A급 고급 러버즈의 한명. 역사 같은 모습을 한 큰 남자. 푸아그라를 좋아하는, 창코 나베를 싫어한다.
+  - 초밥부부가면
+    4개 별 초밥 장인. 가면 무도회 같은 모양을 한 남녀의 짝.콤비로 화려하게 춤추며 초밥을 쥐고 공격을 풀어내다. 둘 다 긴자에서 수행 경험이 있다.
+  - 스테이크라이더
+    4개 별 요리사로 고고한 라이더. 철판이 오토바이로 스테이크를 구우면서 덮쳐 온다.
+
+## 캐스트
+
+  - [노하라 신노스케](../Page/노하라_신노스케.md "wikilink") 역 : [야지마 아키코](../Page/야지마_아키코.md "wikilink")
+  - [노하라 미사에](../Page/노하라_미사에.md "wikilink") 역 : [나라하시 미키](https://ko.wikipedia.org/wiki/나라하시_미키 "wikilink")
+  - [노하라 히로시](../Page/노하라_히로시.md "wikilink") 역 : [후지와라 케이지](../Page/후지와라_케이지.md "wikilink")
+  - [노하라 히마와리](../Page/노하라_히마와리.md "wikilink") 역 : [코오로기 사토미](https://ko.wikipedia.org/wiki/코오로기_사토미 "wikilink")
+  - [시로](https://ko.wikipedia.org/wiki/시로 "wikilink") 역 : [마시바 마리](https://ko.wikipedia.org/wiki/마시바_마리 "wikilink")
+  - [카자마 토루](../Page/카자마_토루.md "wikilink") 역 : [마시바 마리](https://ko.wikipedia.org/wiki/마시바_마리 "wikilink")
+  - [사쿠라다 네네](../Page/사쿠라다_네네.md "wikilink") 역 : [하야시 타마오](https://ko.wikipedia.org/wiki/하야시_타마오 "wikilink")
+  - [사토 마사오](../Page/사토_마사오.md "wikilink") 역 : [이치류사이 테이유](https://ko.wikipedia.org/wiki/이치류사이_테이유 "wikilink")
+  - [보오](../Page/보오.md "wikilink") 역 : [사토우 치에](https://ko.wikipedia.org/wiki/사토우_치에 "wikilink")
+  - [액션 가면](https://ko.wikipedia.org/wiki/액션_가면 "wikilink") 역 : [겐다 테쇼](https://ko.wikipedia.org/wiki/겐다_테쇼 "wikilink")
+  - 사쿠라 미미코 : 코자쿠라 에츠코
+  - 하구(川口) : 카무라 다이키
+  - 원장선생 : 나야 로쿠로
+  - 카자마 엄마 : 타마가와 사키코
+  - 요시린 : [사카구치 다이스케](https://ko.wikipedia.org/wiki/사카구치_다이스케 "wikilink")
+  - 밋치 : 후지키 이치로
+  - 소스의 건 : 츠지 신파치
+  - 타코야끼의 미나미 : Jenya
+  - 오사카쿠시카츠의 장수 : [이치죠 카즈야](https://ko.wikipedia.org/wiki/이치죠_카즈야 "wikilink")
+  - 하카타 내장 카레의 오쿄쿠 : 야노 리카
+  - 아랫마을 고로켓 돈 : 타기가와 히로시
+  - 카와고에 셰프 : 카와고에 타츠야
+  - 쇼가의 홍자 : 와타나베 나오미
+  - 구르메포이 : [나카무라 유이치](https://ko.wikipedia.org/wiki/나카무라_유이치 "wikilink")
+  - 토류프 : [카미야 히로시](../Page/카미야_히로시.md "wikilink")
+  - 캬비아 : [하야미 사오리](https://ko.wikipedia.org/wiki/하야미_사오리 "wikilink")
+  - 피기 : 후나키 마치토
+  - 횡강 푸아그라 금 : 오오카와 토오루
+  - 초밥 부부 가면・남편 : 오오츠카 호우츄
+  - 초밥 부부 가면・아내 : 타카모리 요시노
+  - 스테이크 라이더 : 토네 켄타로
+  - A급 미식가 부하 : 오오니시 타케하루, 아사리 료타
+  - 엄맛포이 : 테즈카 히데아키
+  - 아빳포이 : [쿠라타 마사요](../Page/쿠라타_마사요.md "wikilink")
+
+## 우리말 더빙
+
+  - [신짱구](https://ko.wikipedia.org/wiki/신짱구 "wikilink") - [박영남](../Page/박영남.md "wikilink")
+  - [신형만](https://ko.wikipedia.org/wiki/신형만 "wikilink") - [오세홍](https://ko.wikipedia.org/wiki/오세홍 "wikilink")
+  - [봉미선](https://ko.wikipedia.org/wiki/봉미선 "wikilink") - [강희선](https://ko.wikipedia.org/wiki/강희선 "wikilink")
+  - [신짱아](https://ko.wikipedia.org/wiki/신짱아 "wikilink"), [철수](https://ko.wikipedia.org/wiki/철수 "wikilink") - [여민정](../Page/여민정_\(성우\).md "wikilink")
+  - [흰둥이](https://ko.wikipedia.org/wiki/흰둥이 "wikilink"), [유리](https://ko.wikipedia.org/wiki/유리 "wikilink") - [장경희](https://ko.wikipedia.org/wiki/장경희_\(성우\) "wikilink")
+  - [훈이](https://ko.wikipedia.org/wiki/훈이 "wikilink") - [정혜옥](../Page/정혜옥_\(성우\).md "wikilink")
+  - [액션가면](https://ko.wikipedia.org/wiki/액션가면 "wikilink") - [현경수](https://ko.wikipedia.org/wiki/현경수 "wikilink")
+  - 로열 황태자 - [이광수](../Page/이광수_\(성우\).md "wikilink")
+  - 소스의 달인 강사장 - [안효민](../Page/안효민.md "wikilink")
+  - [맹구](https://ko.wikipedia.org/wiki/맹구 "wikilink"), 연지 - [박고운](../Page/박고운.md "wikilink")
+  - 트뤼프 - [이현](../Page/이현_\(성우\).md "wikilink")
+  - 캐비아 - [문유정](../Page/문유정.md "wikilink")
+  - 푸아그라 - [김혜성](../Page/김혜성_\(성우\).md "wikilink")
+  - 공레오 - [정윤식](https://ko.wikipedia.org/wiki/정윤식 "wikilink")
+  - 장수 - [신경선](../Page/신경선.md "wikilink")
+  - 향단 - [이유리](https://ko.wikipedia.org/wiki/이유리 "wikilink"), [김도영](../Page/김도영.md "wikilink"), [이인석](../Page/이인석_\(성우\).md "wikilink")
+
+## 주제가
+
+  - 오프닝 《너에게 100퍼센트》([워너 뮤직 재팬](../Page/워너_뮤직_재팬.md "wikilink"))
+      - 작사・작곡・편곡:[나카타 야스타카](https://ko.wikipedia.org/wiki/나카타_야스타카 "wikilink") / 노래:[캬리 파뮤파뮤](../Page/캬리_파뮤파뮤.md "wikilink")
+  - 삽입곡 - 「야키소바의 노래 \~소스 is love\~」
+      - 작사 - [하시모토 마사카즈](https://ko.wikipedia.org/wiki/하시모토_마사카즈 "wikilink") / 작곡 - 아라카와 토시유키 / 노래 - 사와구치 카즈히코&떡잎마을 방범대([야지마 아키코](../Page/야지마_아키코.md "wikilink"), 마시바 마리, 하야시 타마오, 이치류사이 테이유,사토우 치에)
+  - 엔딩- RPG ([토이스 팩토리](https://ko.wikipedia.org/wiki/토이스_팩토리 "wikilink"))
+      - 노래 - [세카이노 오와리](https://ko.wikipedia.org/wiki/세카이노_오와리 "wikilink") ([SEKAI NO OWARI](../Page/SEKAI_NO_OWARI.md "wikilink"))
+
+## 갤러리
+
+<File:엄청> 맛있어\! B급 음식 서바이벌\! (일본어).jpg|일본어 포스터
+
+## 외부 링크
+
+  - [짱구는 못말려 극장판 21기 예고편](https://www.youtube.com/watch?feature=player_embedded&v=OIBFqObz4vo)
+
+[분류:2013년 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:2013년_애니메이션_영화 "wikilink") [분류:일본어 영화 작품](https://ko.wikipedia.org/wiki/분류:일본어_영화_작품 "wikilink") [분류:짱구는 못말려 극장판](https://ko.wikipedia.org/wiki/분류:짱구는_못말려_극장판 "wikilink") [분류:일본의 영화 작품](https://ko.wikipedia.org/wiki/분류:일본의_영화_작품 "wikilink") [분류:롯데 엔터테인먼트 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:롯데_엔터테인먼트_애니메이션_영화 "wikilink")

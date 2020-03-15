@@ -1,0 +1,23 @@
+> This article is converted from Wikipedia: [, Op. 32 \(\)](https://ko.wikipedia.org/wiki/,_Op._32_\(\)).
+
+
+**쇼팽의 녹턴 작품번호 제32번**(2 Nocturnes, Op. 32)은 [프레데리크 쇼팽이](https://ko.wikipedia.org/wiki/프레데리크_쇼팽 "wikilink") [1837년](https://ko.wikipedia.org/wiki/1837년 "wikilink")에 작곡한 곡으로 녹턴 9번과 녹턴 10번으로 구성되어 있다. 또한 첫 출판도 같은 해인 [1837년](https://ko.wikipedia.org/wiki/1837년 "wikilink")에 이루어졌다. 작품번호 제32번의 두 곡은 전작(前作)인 [녹턴, Op. 27보다](../Page/녹턴,_Op._27_\(쇼팽\).md "wikilink") 인기가 떨어졌으나 녹턴의 형식에 새로운 작곡방식을 개척했다는 평을 듣는다.
+
+## 녹턴 9번 나장조
+
+[350px](https://ko.wikipedia.org/wiki/파일:Chopin_nocturne_op32_a1.png "wikilink") 쇼팽의 녹턴 9번은 4분의 4박자로 이루어져 있으며 빠르기는 안단테 소스테누토(Andante Sostenuto)로 빠른 편에 속하지 않는다. 9번의 특징으로는 곡 전체에서 '더 빠르게'의 표시인 '스트레토(stretto)'와 '점차 느리게'를 나타내는 '리타르단도(ritardando)', 그리고 '원래 빠르기로'의 '아 템포(a tempo)'의 표기 횟수가 다른 곡에 비해서 굉장히 많다. 거의 마지막인 64번째 마디에서 빠르기가 아다지오(Adagio)로 변해 65번째 마디에서 나단조의 조성으로 끝난다. 9번은 맨 마지막 줄의 첫 번째 마디(63번째 마디)에서의 조성 견해의 차이로 사람들 간의 논쟁이 벌여졌다. 크게 두 파가 있었는데 한 파는 사장조(G)로, 나머지 파는 올림바장조(F\#)로 인식하였다.
+
+비평가들은 이 곡을 가리켜 '별로 중요하지 않는 곡', '분석하기에 도전적인 곡이나 있는 그대로 수용하기를 강요하는 곡', '녹턴 10번과 마찬가지로 지루함이 느껴지는 곡' 등으로 평하였으나 다른 쪽에서는 '중간중간의 음의 끊김이 전혀 비논리적이고 공식적이지 않으나 쇼팽이 음악을 '말하기'로 생각하는 열망이 돋보이는 곡', '코다에서 청자가 예상했던 환상을 완전히 뒤집어버리는 곡', '곡의 끝마침이 장대한 곡' 등의 평을 남기기도 하였다.
+
+## 녹턴 10번 내림가장조
+
+[400px](https://ko.wikipedia.org/wiki/파일:Chopin_nocturne_op32_2a.png "wikilink") 쇼팽의 녹턴 10번은 9번과 같은 4분의 4박자로 이루어져 있으며 빠르기는 단순히 렌토(Lento)로 적혀있다. 박자는 27번째 마디에서 8분의 12박자로 바뀌고 조성또한 39번째 마디에서 올림바단조로, 다시 51번째 마디에서 마단조와 4분의 4박자로 변화되고 빠르기도 '격정적으로 빠르게'라는 뜻의 '아파셔나토(Appassionato)'로 변화된다. 한편 빠르기는 다시 75번째 마디에서 '렌토(Lento)'로 바뀌게 되고 76번째 마디에서 아르페지오의 약음으로 곡이 끝나게 된다. 10번은 A-B-A의 [세도막 형식을](https://ko.wikipedia.org/wiki/세도막_형식 "wikilink") 띠고 있다.
+
+[쇼팽](https://ko.wikipedia.org/wiki/쇼팽 "wikilink") 자신은 10번을 '길고 우아한 멜로디로 [발레](https://ko.wikipedia.org/wiki/발레 "wikilink")풍의 중간부분이 돋보이는 곡'으로 평하였다. 그러나 비평가들은 9번과 비슷하게 좋지 않은 평을 많이 남겼다. 하지만 다른 측면에서는 '중간 부분에서 연주되는 오른손의 주멜로디와 왼손의 8분음표 연타는 손가락 연습에 아주 좋은 연습곡이 될 수 있는 곡' 등의 평을 남기기도 하였다.
+
+## 같이 보기
+
+  - [프레데리크 쇼팽](https://ko.wikipedia.org/wiki/프레데리크_쇼팽 "wikilink")
+  - [쇼팽의 녹턴](../Page/녹턴_\(쇼팽\).md "wikilink")
+
+[32](https://ko.wikipedia.org/wiki/분류:쇼팽의_녹턴 "wikilink") [분류:내림가장조 작품](https://ko.wikipedia.org/wiki/분류:내림가장조_작품 "wikilink") [분류:나장조 작품](https://ko.wikipedia.org/wiki/분류:나장조_작품 "wikilink") [분류:헌정곡](https://ko.wikipedia.org/wiki/분류:헌정곡 "wikilink") [분류:피아노 곡](https://ko.wikipedia.org/wiki/분류:피아노_곡 "wikilink")

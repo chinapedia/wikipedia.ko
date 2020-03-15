@@ -1,0 +1,45 @@
+> This article is converted from Wikipedia: [ W.  ](https://ko.wikipedia.org/wiki/_W.__).
+
+
+**프랭클린 W. 올린 공과대학교** (Franklin W. Olin College of Engineering)는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [매사추세츠주](https://ko.wikipedia.org/wiki/매사추세츠주 "wikilink") [보스턴](https://ko.wikipedia.org/wiki/보스턴 "wikilink") 근교의 소도시 니덤에 위치한 사립 공과대학교이다. 올린은 1997년 혁신적인 공대 교육에 뜻을 가진 프랭클린 W. 올린의 기부로 설립되었으며, 2002년 부터 매년 70여명을 선발하여 현재 300여명의 학부생과 30여명의 교수진으로 구성된 소규모의 학교이지만 기존의 공대 교육과는 차별화된 독특한 커리큘럼을 내세워 현재 이공계에서 많은 주목을 받고 있다. 또한 학생들 대부분이 학교 설립자가 세운 프랭클린 올린 재단으로부터 장학금을 받고 교수들에게는 종신재직권이 보장되지 않는다는 것도 올린이 가진 특이점 중 하나이다.\[1\]
+
+## F.W.올린 재단
+
+F.W.올린 재단은 올린 공대를 건립한 엔지니어 출신의 기업가 프랭클린 W. 올린이 1938년 설립한 재단으로 60여년 동안 미국 전역의 많은 대학에 3억 달러 이상을 기부하며 캠퍼스의 다양한 시설과 여러 건물을 짓는데 기여했다. 이 중에는 주로 과학과 공학 관련 건물이 많지만, 경영이나 인문학, 예술 등의 여러 학문 발전을 위해서도 학생들과 학교를 위한 시설을 짓는데 많은 기부를 하였다. 재단의 혜택을 받은 대학으로는 올린과 인접한 뱁슨 대학 이외에도 버크넬, 칼튼, [하비 머드 칼리지](https://ko.wikipedia.org/wiki/하비_머드_칼리지 "wikilink"), [코넬 대학교](https://ko.wikipedia.org/wiki/코넬_대학교 "wikilink"), [존스 홉킨스 대학교](../Page/존스_홉킨스_대학교.md "wikilink"), 로즈휼먼, [터프츠 대학교](https://ko.wikipedia.org/wiki/터프츠_대학교 "wikilink"), [서던캘리포니아 대학교](https://ko.wikipedia.org/wiki/서던캘리포니아_대학교 "wikilink") , [밴더빌트 대학교](https://ko.wikipedia.org/wiki/밴더빌트_대학교 "wikilink") 등 미국의 많은 학교가 있다.\[2\]
+
+## 올린의 교육
+
+이론에만 치우친 교육이 아닌 철저하게 프로젝트 중심의 수업과 [기업가 정신](https://ko.wikipedia.org/wiki/기업가_정신 "wikilink"), 그리고 인문 과목을 강조하는 올린에서는 학생들이 1학년 때부터 직접 소비자를 위한 제품을 디자인하고 만드는 수업을 듣는다. 또한 4학년이 되면 SCOPE라는 프로젝트를 통해 4\~5명이 팀을 이뤄 기업을 위한 제품 개발에 직접 참여해보며 엔지니어로서의 현장 감각을 익힌다. 이러한 수업을 통해 학생들은 팀워크와 커뮤니케이션 능력을 배양하며 엔지니어로서 소비자가 원하는 제품을 설계하고 디자인하는 것을 직접 배울 수 있다. 올린에서는 따로 학과가 정해지지 않고 크게 [전자 공학](https://ko.wikipedia.org/wiki/전자_공학 "wikilink")/[컴퓨터 공학](https://ko.wikipedia.org/wiki/컴퓨터_공학 "wikilink"), [기계공학](https://ko.wikipedia.org/wiki/기계공학 "wikilink"), 그리고 바이오나 재료를 포함한 [공학](https://ko.wikipedia.org/wiki/공학 "wikilink") 전공으로만 나뉜다. 학생들은 원하는 수업을 능동적으로 들을 수 있으며 가까이에 있는 뱁슨이나 [웰즐리 대학교에서도](https://ko.wikipedia.org/wiki/웰즐리_대학교 "wikilink") 수업 상호 인정이 가능하여 경영이나 인문 쪽 수업도 폭넓게 접할 수 있다. 또한 학교에서는 수업 이외에도 학생들의 다양한 취미와 소질 개발을 장려하기 위해 Passionate Pursuit이라는 프로그램을 통해 개별적 지원을 해주기도 한다.\[3\]
+
+## 올린의 생활
+
+올린에서는 99%의 학생들이 기숙사 생활을 하며, 캠퍼스에 크게 West Hall과 East Hall 두개의 기숙사 건물이 있다. West Hall은 대부분 2인실로 이루어져 있으며 주로 1,2학년 들이 살고 East Hall에는 6명이 함께 사는 suite과 2인실이 모두 있으며 고학년 학생들이 주로 산다. 기숙사 각 층에는 원활한 기숙사 생활을 도와주기 위해 R2s(Resident Resources)라고 불리는 학생 대표들이 있고 학생들 모두 Honor Code를 지키며 생활하는 것을 원칙으로 한다. 작은 규모의 학교 특성상 기숙사 안에서 공부나 휴식 외에도 학생들이 즐길만한 다양한 활동들이 자체적으로 많이 이루어지는 편이다.\[4\]
+
+## 입학
+
+짧은 역사에도 불구하고 올린이 가진 혁신적인 교육 환경과 특별한 장학금 혜택은 이공계를 지망하는 학생들을 더욱 끌어들이고 있다. 다른 명문대에서 입학 허가를 받고도 올린을 선택하는 학생이 있는가 하면 미국의 입시 정보 제공 업체 프린스턴 리뷰가 선정한 생활 가치가 가장 높은 학교 1위에 뽑히기도 했다. 또한 2006년에는 미국에서 떠오르는 신[아이비 리그](https://ko.wikipedia.org/wiki/아이비_리그 "wikilink") 대학교 중 하나로 선정되었다.\[5\] 하지만 정원은 75명으로 제한되어 있기 때문에 입학하는 학생들의 절반 가량은 Middle 50% [SAT](https://ko.wikipedia.org/wiki/SAT "wikilink"): 2100-2280, 고등학교 [GPA](https://ko.wikipedia.org/wiki/GPA "wikilink") 평균 3.9\[6\]의 우수한 성적의 학생들이다.
+공식적인 지원서 마감일은 1월 1일이며 특별 전형은 없고 1차에서 170여명을 선발해 학교에서 열리는 후보자 방문 기간(Candidate Weekend)에 초청한다. 이 기간 동안 1차 합격자들은 각종 팀 프로젝트와 발표, 인터뷰를 수행하며 이 결과로 최종 합격 여부가 가려진다.\[7\]
+
+## 졸업생 현황
+
+올린은 2006년부터 첫 졸업생 64명을 배출하기 시작하여 현재 2012년까지 매년 70\~80명 정도의 졸업생을 배출해 오고 있는데, 그간 졸업생들은 크게 대학원 진학이나 기업체 취직 또는 창업을 한 것으로 밝혀졌다.\[8\] 올린에서 제공하는 졸업생 통계 자료를 보면 2006\~2012년 졸업생들이 취직한 회사로는 [마이크로소프트](https://ko.wikipedia.org/wiki/마이크로소프트 "wikilink")와 [구글](https://ko.wikipedia.org/wiki/구글 "wikilink")이 가장 많았고 이밖에도 학생들은 [보잉](https://ko.wikipedia.org/wiki/보잉 "wikilink")이나 [애플](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink"), 내셔널 인스트루먼츠(National Instruments) 등 이공계 관련 다양한 기업에서 일하고 있는 것으로 확인되었다. 또한 학부 과정의 교육만 있는 올린의 특성상 공부를 더 하고 싶은 학생들은 보통 다른 학교 대학원에 진학하는데, 특히 [매사추세츠 공과대학교와](https://ko.wikipedia.org/wiki/매사추세츠_공과대학교 "wikilink") [하버드 대학교](https://ko.wikipedia.org/wiki/하버드_대학교 "wikilink"), [카네기 멜론 대학교](https://ko.wikipedia.org/wiki/카네기_멜론_대학교 "wikilink"), 뱁슨 대학교, 그리고 [스탠포드 대학교](https://ko.wikipedia.org/wiki/스탠포드_대학교 "wikilink") 대학원에 가장 많이 진학한 것으로 나타났다. 이들 중에는 공학이나 과학을 계속해서 공부를 하고 있는 학생이 더 많았지만 의학이나 법학, 교육학 등 다양한 학문 분야로 진출하는 학생들도 있었다.\[9\]
+
+## 각주
+
+<references />
+
+## 외부 링크
+
+  - [공식 웹사이트](http://www.olin.edu)
+
+[분류:1997년 개교](https://ko.wikipedia.org/wiki/분류:1997년_개교 "wikilink") [분류:매사추세츠주의 대학교](https://ko.wikipedia.org/wiki/분류:매사추세츠주의_대학교 "wikilink")
+
+1.  [작지만 강한 대학\<18\>美 올린공대](http://news.donga.com/Series/List_70020000000207/3/70020000000207/20060529/8312146/1)\<<동아닷컴>\>, 2006.5.29.
+2.  [올린 공대 공식 웹사이트](http://www.olin.edu)
+3.  Ibid.
+4.  Ibid.
+5.  [열정과 첨단의 소수정예 학교-新아이비리그 올린 공대](http://www.vanchosun.com/news/main/frame.php?main=1&boardId=17&bdId=22297&cpage1=1&search_keywordtype=keyword&search_type=&search_title=%EB%B9%84%EB%A6%AC&search_typeId=&search_time1=&search_time3=&search_view=&search_indexof=&search_start=&search_end=&search_terms=&search_sort=) \<<벤쿠버 조선>\>, 2007.1.4.
+6.  [Franklin W. Olin College of Engineering](http://www.princetonreview.com/FranklinWOlinCollegeofEngineering.aspx) 프린스턴 리뷰 2012.
+7.  벤쿠버 조선, op.cit.
+8.
+9.

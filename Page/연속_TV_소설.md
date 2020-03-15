@@ -1,0 +1,118 @@
+> This article is converted from Wikipedia: [ TV ](https://ko.wikipedia.org/wiki/_TV_).
+
+
+**연속 TV 소설** ()은 [NHK가](https://ko.wikipedia.org/wiki/일본방송협회 "wikilink") [1961년](https://ko.wikipedia.org/wiki/1961년 "wikilink") 방송을 시작한 [텔레비전 드라마](https://ko.wikipedia.org/wiki/텔레비전_드라마 "wikilink") 시리즈이다. 매주 [월요일](https://ko.wikipedia.org/wiki/월요일 "wikilink")\~[토요일](https://ko.wikipedia.org/wiki/토요일 "wikilink")에 방송되는 연속극이며, 흔히 **아사도라** ()라고도 불린다.
+
+## 작품 목록
+
+### 1960년대
+
+### 1970년대
+
+### 1980년대
+
+  - 1980년 《낫짱의 사진관》- (주연: 호시노 토모코)
+  - 1980년 《무지개를 짜다》- (주연: 콘노 마사코)
+  - 1981년 《풍작의 꽃》- (주연: 나카무라 아케미)
+  - 1981년 《오늘도 맑은 날 》- (주연: 하라 히데코)
+  - 1982년 《하이칼라씨》- (주연: 테즈카 타케미)
+  - 1982년 《요-이 땅\!》- (주연: 후지요시 쿠미코)
+  - 1983년 《[오싱](../Page/오싱.md "wikilink")》- (주연: 고바야시 아야코→다나카 유코→오토와 노부코)
+  - 1984년 《로망스》- (주연: 에노키 타카아키)
+  - 1984년 《마음은 언제나 레몬빛》- (주연: 신도 에이사쿠)
+  - 1985년 《미오츠쿠시》- (주연: [사와구치 야스코](https://ko.wikipedia.org/wiki/사와구치_야스코 "wikilink"))
+  - 1986년 《하네코마》- (주연: [사이토 유키](https://ko.wikipedia.org/wiki/사이토_유키 "wikilink"))
+  - 1986년 《교토의 바람》- (주연: 카노 미유키)
+  - 1987년 《핫사이 선생》- (주연: 와카무라 마유미)
+  - 1988년 《논짱의 꿈》- (주연: 후지타 토모코)
+  - 1988년 《준의 응원가》- (주연: [야마구치 토모코](../Page/야마구치_토모코.md "wikilink"))
+  - 1989년 《청춘가족》- (주연: 이시다 아유미, 시미즈 미사)
+  - 1989년 《와코의 금메달》- (주연: 와타나베 아즈사)
+
+### 1990년대
+
+  - 1990년 《늠름히》- (주연: [타나카 미노루](https://ko.wikipedia.org/wiki/다나카_미노루_\(배우\) "wikilink"))
+  - 1990년 《쿄, 두사람》- (주연: 야마모토 요코/하타다 리에)
+  - 1991년 《너의 이름은》- (주연: [스즈키 교카](https://ko.wikipedia.org/wiki/스즈키_교카 "wikilink")/쿠라타 테츠오)
+  - 1992년 《여자는 배짱》- (주연: 이즈미 핀코/[사쿠라이 사치코](https://ko.wikipedia.org/wiki/사쿠라이_사치코 "wikilink"))
+  - 1992년 《히라리》- (주연: 이시다 히카리)
+  - 1993년 《미녀》- (주연: 도다 나호)
+  - 1993년 《카린》- (주연: 호소카와 나오미)
+  - 1994년 《피아노》- (주연: 쥰나 리사)
+  - 1994년 《봄이여, 오라》- (주연: [야스다 나루미](../Page/야스다_나루미.md "wikilink") → 나카다 요시코)
+  - 1995년 《달려》- (주연: 미쿠니 카즈오)
+  - 1996년 《해바라기》- (주연: [마츠시마 나나코](../Page/마츠시마_나나코.md "wikilink"))
+  - 1996년 《두 아이》- (주연: 미쿠라 마나 → 이와사키 히로미/미쿠라 카나 → 키쿠치 마이코)
+  - 1997년 《아구리》- (주연: 타나카 미사토)
+  - 1997년 《야마카라상》- (주연: 사토 유미코)
+  - 1998년 《텐우라라》- (주연: [스도 리사](https://ko.wikipedia.org/wiki/스도_리사 "wikilink"))
+  - 1998년 《얀차쿠레》- (주연: 코니시 미호)
+  - 1999년 《스즈란》- (주연: 히이라기 루미 → 토노 나가코 → 바이슈 치에코)
+  - 1999년 《아스카》- (주연: [다케우치 유코](../Page/다케우치_유코.md "wikilink"))
+
+### 2000년대
+
+  - 2000년 《나의 푸른 하늘》- (주연: [타바타 토모코](https://ko.wikipedia.org/wiki/타바타_토모코 "wikilink"))
+  - 2000년 《오드리》- (주연: [오카모토 아야](https://ko.wikipedia.org/wiki/오카모토_아야 "wikilink"))
+  - 2001년 《[츄라상](https://ko.wikipedia.org/wiki/츄라상 "wikilink")》- (주연: [쿠니나카 료코](https://ko.wikipedia.org/wiki/쿠니나카_료코 "wikilink"))
+  - 2001년 《혼마몬》- (주연: [이케와키 지즈루](https://ko.wikipedia.org/wiki/이케와키_지즈루 "wikilink"))
+  - 2002년 《사쿠라》- (주연: 타카노 시호)
+  - 2002년 《만텐》- (주연: 미야지 마오)
+  - 2003년 《코코로》- (주연: 나카고시 노리코)
+  - 2003년 《테루테루 가족》- (주연: [이시하라 사토미](https://ko.wikipedia.org/wiki/이시하라_사토미 "wikilink"))
+  - 2004년 《텐카》- (주연: [후지사와 에마](https://ko.wikipedia.org/wiki/후지사와_에마 "wikilink"))
+  - 2004년 《[와카바](https://ko.wikipedia.org/wiki/와카바_\(드라마\) "wikilink")》- (주연: 하라다 나츠키)
+  - 2005년 《파이트》- (주연: [모토카리야 유이카](../Page/모토카리야_유이카.md "wikilink"))
+  - 2005년 《바람의 하루카》- (주연: [무라카와 에리](../Page/무라카와_에리.md "wikilink"))
+  - 2006년 《[순정 반짝](https://ko.wikipedia.org/wiki/순정_반짝 "wikilink")》- (주연: [미야자키 아오이](../Page/미야자키_아오이.md "wikilink"))
+  - 2006년 《이모타코 난킨》- (주연: 후지야마 나오미)
+  - 2007년 《돈도하레》- (주연: [히가 마나미](../Page/히가_마나미.md "wikilink"))
+  - 2007년 《치리토테친》- (주연: [칸지야 시호리](https://ko.wikipedia.org/wiki/칸지야_시호리 "wikilink"))
+  - 2008년 《히토미》- (주연: [에이쿠라 나나](https://ko.wikipedia.org/wiki/에이쿠라_나나 "wikilink"))
+  - 2008년 《단단》- (주연: 미쿠라 마나, 미쿠라 카나)
+  - 2009년 《츠바사》- (주연: [타베 미카코](https://ko.wikipedia.org/wiki/타베_미카코 "wikilink"))
+  - 2009년 《월 카메》- (주연: [쿠라시나 카나](https://ko.wikipedia.org/wiki/쿠라시나_카나 "wikilink"))
+
+### 2010년대
+
+  - 2010년 《게게게의 여보》 - (주연: [마츠시타 나오](https://ko.wikipedia.org/wiki/마츠시타_나오 "wikilink"))
+  - 2010년 《철판》 - (주연: [타키모토 미오리](../Page/타키모토_미오리.md "wikilink"))
+  - 2011년 《해님》 - (주연: [이노우에 마오](../Page/이노우에_마오.md "wikilink") → [와카오 아야코](https://ko.wikipedia.org/wiki/와카오_아야코 "wikilink"))
+  - 2011년 《카네이션》 - (주연: 니노미야 아카리 → [오노 마치코](https://ko.wikipedia.org/wiki/오노_마치코 "wikilink") → [나츠키 마리](https://ko.wikipedia.org/wiki/나츠키_마리 "wikilink"))
+  - 2012년 《우메짱 선생》 - (주연: [호리키타 마키](https://ko.wikipedia.org/wiki/호리키타_마키 "wikilink"))
+  - 2012년 《순수한 사랑》 - (주연: [나츠나](https://ko.wikipedia.org/wiki/나츠나 "wikilink"))
+  - 2013년 《[아마짱](../Page/아마짱.md "wikilink")》 - (주연: [노넨 레나](https://ko.wikipedia.org/wiki/노넨_레나 "wikilink"))
+  - 2013년 《[잘 먹었습니다](../Page/잘_먹었습니다.md "wikilink")》 - (주연: [안](https://ko.wikipedia.org/wiki/안_\(배우\) "wikilink"))
+  - 2014년 《[하나코와 앤](../Page/하나코와_앤.md "wikilink")》 - (주연: [요시타카 유리코](https://ko.wikipedia.org/wiki/요시타카_유리코 "wikilink"))
+  - 2014년 《[맛상](../Page/맛상.md "wikilink")》 - (주연: [타마야마 테츠지](https://ko.wikipedia.org/wiki/타마야마_테츠지 "wikilink")/샬럿 케이트 폭스)
+  - 2015년 《[마레](https://ko.wikipedia.org/wiki/마레 "wikilink")》 - (주연: [츠치야 타오](https://ko.wikipedia.org/wiki/츠치야_타오 "wikilink"))
+  - 2015년 《[아침이 온다](../Page/아침이_온다.md "wikilink")》 - (주연: [하루](../Page/하루_\(배우\).md "wikilink"))
+  - 2016년 《[아빠 언니](../Page/아빠_언니.md "wikilink")》 - (주연: [타카하타 미츠키](../Page/타카하타_미츠키.md "wikilink"))
+  - 2016년 《[벳핀상](../Page/벳핀상.md "wikilink")》 - (주연: [요시네 쿄코](../Page/요시네_쿄코.md "wikilink"))
+  - 2017년 《[병아리](../Page/병아리_\(드라마\).md "wikilink")》 - (주연: [아리무라 카스미](../Page/아리무라_카스미.md "wikilink"))
+  - 2017년 《[와로텐카](../Page/와로텐카.md "wikilink")》 - (주연: [아오이 와카나](https://ko.wikipedia.org/wiki/아오이_와카나 "wikilink"))
+  - 2018년 《[절반, 푸르다](https://ko.wikipedia.org/wiki/절반,_푸르다 "wikilink")》 - (주연: [나가노 메이](../Page/나가노_메이.md "wikilink"))
+  - 2018년 《[만복](../Page/만복.md "wikilink")》 - (주연: [안도 사쿠라](https://ko.wikipedia.org/wiki/안도_사쿠라 "wikilink"))
+  - 2019년 《[여름 하늘](https://ko.wikipedia.org/wiki/여름_하늘 "wikilink")》 - (주연: [히로세 스즈](../Page/히로세_스즈.md "wikilink"))
+  - 2019년 《[스칼릿](https://ko.wikipedia.org/wiki/스칼릿_\(드라마\) "wikilink")》 - (주연: [토다 에리카](../Page/토다_에리카.md "wikilink"))
+
+### 2020년대
+
+  - 2020년 《[옐](https://ko.wikipedia.org/wiki/옐_\(드라마\) "wikilink")》 - (주연: [쿠보타 마사타카](../Page/쿠보타_마사타카.md "wikilink"))
+  - 2020년 《[오초양](https://ko.wikipedia.org/wiki/오초양 "wikilink")》 - (주연: [스기사키 하나](../Page/스기사키_하나.md "wikilink"))
+
+## 수상 목록
+
+  - [신어·유행어 대상](../Page/신어·유행어_대상.md "wikilink")
+      - 1984년, 제1회상 신조어 부문에서 《오싱》에서 탄생한 '오싱드롬' (, 오싱+신드롬)이 선정됐다.
+      - 2010년, 제27회상 연간대상에 《게게게의 여보》 (원작자 무라 누노에를 포함)에서 탄생한 '게게게의 \~' ()가 선정됐다.
+
+## 외부 링크
+
+  -  (현재 방영 작품, 역대 방영 목록 소개)
+
+  - [비디오 리서치 시청률 목록](https://web.archive.org/web/20170703200252/http://www.videor.co.jp/data/ratedata/program/02asa.htm)
+
+  - [방영작 주제가 목록](https://web.archive.org/web/20090811024705/http://www.nhk.or.jp/archives-blog/2009/08/post_76.html)
+
+[연속_TV_소설](https://ko.wikipedia.org/wiki/분류:연속_TV_소설 "wikilink") [\*](https://ko.wikipedia.org/wiki/분류:NHK의_텔레비전_드라마 "wikilink")

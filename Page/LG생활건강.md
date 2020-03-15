@@ -1,0 +1,266 @@
+> This article is converted from Wikipedia: [LG](https://ko.wikipedia.org/wiki/LG).
+
+
+**LG생활건강** (엘지生活乾綱: )은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 화장품, 생활용품, 음료 등을 제조·판매하는 기업으로, [LG그룹](../Page/LG그룹.md "wikilink")의 계열사로 유일무이하게 화장품 동물 시험을 일체 하지않는 대표적 화장품 회사이다.\[1\]
+
+## 슬로건
+
+  - 유전공학을 선도하는 (1984년 \~ 1988년)
+  - 새롭게 태어났습니다. (2001년 \~ 2002년)
+  - 활기하게 건강하게 (2002년)
+  - 건강한 우리 곁에는 LG생활건강이 있습니다. (2004년 \~ 현재)
+  - life is good\! 당신의 좋은날 LG와 함께 (2019년\~현재)
+
+## 기업 개요
+
+### 연혁
+
+[1947년](https://ko.wikipedia.org/wiki/1947년 "wikilink") [구인회](https://ko.wikipedia.org/wiki/구인회 "wikilink") 초대 회장이 설립한 럭키화학공업사로 시작한 LG생활건강은 대한민국 최초 화장품인 ‘럭키 크림’을 판매하며 선풍적인 인기를 끌었고, 1954년 대한민국 최초 치약인 ‘럭키 치약’을 개발·판매하였다.\[2\] [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") 2월 [LG화학](../Page/LG화학.md "wikilink")으로 상호를 변경하였고, [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") LG화학 법인 분할에 따라 현재의 LG생활건강 독립법인으로 출범하며 유가증권에 상장했다. [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") 차석용 부회장 취임 이후, 전략적인 M\&A와 해외시장 사업 확대를 통해 사업 영역을 다각화하고 있다.\[3\]
+
+LG생활건강은 2017년 현재 국내 생활용품 시장에서 1위 자리를 굳건히 지키고 있다.\[4\]\[5\]
+
+### M\&A
+
+[화장품](https://ko.wikipedia.org/wiki/화장품 "wikilink")과 생활용품으로 구성되었던 LG생활건강의 사업은 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink")말 [코카콜라](https://ko.wikipedia.org/wiki/코카콜라 "wikilink")(구 코카콜라보틀링)를 인수하여 현재의 사업구조인 [화장품](https://ko.wikipedia.org/wiki/화장품 "wikilink"), 생활용품, [음료](https://ko.wikipedia.org/wiki/음료 "wikilink") 체계를 완비하였다.\[6\] 이후, [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") 다이아몬드샘물을 인수하여 생수 사업 경쟁력을 강화하였고, 2010년에 당시 국내 음료시장 점유율 3위의 [해태음료를](https://ko.wikipedia.org/wiki/해태htb "wikilink") 추가적으로 인수하여 2016년 상호명을 **해태htb**으로 변경하였다.\[7\]
+
+[2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink")부터 중고가 [화장품](https://ko.wikipedia.org/wiki/화장품 "wikilink") 사업을 강화함과 동시에 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") 저가 화장품 브랜드 ‘[더페이스샵](https://ko.wikipedia.org/wiki/더페이스샵 "wikilink")’을 인수하며 고가·중가·저가의 전 가격대를 커버하는 [화장품](https://ko.wikipedia.org/wiki/화장품 "wikilink") 포트폴리오를 완성했다.\[8\] 2012년에는 색조 [화장품](https://ko.wikipedia.org/wiki/화장품 "wikilink") 경쟁력 강화를 위해 바이올렛드림(구 보브)을 인수했고, 2014년 씨앤피코스메틱스 지분 인수를 통해 [코스메슈티컬](https://ko.wikipedia.org/wiki/코스메슈티컬 "wikilink") 시장에 진입했다.\[9\]
+
+더마화장품 경쟁력을 강화하기 위해 [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") 11월부터 태극제약을 인수했다.\[10\]
+
+2018년 9월부터 세탁세제제품을 미세플라스틱 사용 폐지되었다
+
+## 주요 사업 부문
+
+### 화장품
+
+LG생활건강은 대한민국 [화장품](https://ko.wikipedia.org/wiki/화장품 "wikilink") 산업에서 2위 업체로 꾸준히 [아모레퍼시픽](../Page/아모레퍼시픽.md "wikilink")과의 시장점유율 격차를 줄여나가고 있다.\[11\] 주요 고가 [화장품](https://ko.wikipedia.org/wiki/화장품 "wikilink") 브랜드로는 ‘더 히스토리 오브 후’, ‘오휘’, ‘숨37’, ‘빌리프’ 등이 있으며,\[12\] 2016년 ‘더 히스토리 오브 후’가 출시 14년 만에 대한민국의 화장품 단일 브랜드 중 가장 빠른 속도로 1조 매출을 달성하는 등 고가 [화장품](https://ko.wikipedia.org/wiki/화장품 "wikilink")이 빠르게 성장하고 있다.\[13\] 중저가 [화장품](https://ko.wikipedia.org/wiki/화장품 "wikilink") 브랜드로는 ‘이자녹스’, ‘수려한’, ‘비욘드’, ‘[더페이스샵](https://ko.wikipedia.org/wiki/더페이스샵 "wikilink")’, ‘라끄베르’, ‘CNP차앤박 화장품’, ‘보브’, ‘보닌’, ‘VDL’, ‘캐시캣’ 등이 있으며, ‘[더페이스샵](https://ko.wikipedia.org/wiki/더페이스샵 "wikilink")’은 국내 로드샵 1위 브랜드이다.\[14\]
+
+  -
+    LG생활건강에서 출시하는 화장품 브랜드는 다음과 같다.
+
+<!-- end list -->
+
+  - 더 히스토리 오브 후(SBS)
+  - 오휘(SBS)
+  - 숨37°(SBS)
+  - 빌리프
+  - 필로소피
+  - 더 사가 오브 수(SBS X MBC)
+  - 이자녹스(SBS)
+  - 수려한(SBS)
+  - 라끄베르
+  - 캐시캣
+  - 보닌
+  - 케어존(SBS)
+  - 더마리프트
+  - 닥터벨머
+  - [더페이스샵](https://ko.wikipedia.org/wiki/더페이스샵 "wikilink")(SBS)
+  - 비욘드(SBS)
+  - 투마루(SBS)
+  - CNP / CNP Rx
+  - VDL
+  - VDI
+  - VOV
+  - 디어패커
+  - 마케리마케
+  - 생활정원
+  - 원튠에이지
+
+### 생활용품
+
+LG생활건강은 대한민국의 생활용품 시장에서 꾸준히 시장점유율을 늘려나가고 있다.\[15\] 치약(덴탈케어)과 세탁세제, 섬유유연제 시장에서는, 수년째 40\~50%가 넘는 높은 점유율로 부동의 1위 자리를 지키고 있다.\[16\] 주요 사업분야는 크게 Personal Care(구강, 헤어, 바디제품)와 Home Care(세탁세제, 주방세제, 섬유유연제)로 구분된다. 주요 브랜드로는 ‘페리오, 죽염(구강)’, ‘엘라스틴, 리엔, 오가니스트(헤어)’, ‘온:더바디, 드봉(바디)’, ‘테크, 수퍼타이, 산소크린, 피지(세제)’, ‘퐁퐁, 자연퐁, 세이프(주방)’, ‘Mr.홈스타(홈케어)’, ‘샤프란, 아우라(섬유유연제)’, ‘베비언스(베이비)’ 등이 있으므로,\[17\] 일본 굴지의 위생용품 제조 업체인 [유니참](../Page/유니참.md "wikilink") 사와 합작 투자하여 2006년에 설립한 LG유니참의 경우, 여성용 생리대인 '쏘피 바디피트', 유아용 기저귀인 '마미포코', 성인용 기저귀인 '라이프리' 등을 국산화하여, 위생용품 시장에서 독주하고 있는 [유한킴벌리](../Page/유한킴벌리.md "wikilink")을 제치고, 시장 점유율 2위를 탈환하였다.
+
+  -
+    LG생활건강에서 출시하는 생활용품 브랜드는 다음과 같다.
+
+<!-- end list -->
+
+  - 헤어케어
+      - 엘라스틴(SBS)
+      - 오가니스트(SBS)
+      - 피토더마
+      - 리엔(KBS)
+      - 닥터그루트(SBS)
+      - 실크테라피
+  - 마스크
+      - 테라브레스
+      - 에어워셔
+      - 코튼에어
+  - 스킨케어
+      - 온더바디(SBS)
+      - 젠톨로지
+      - 드봉(SBS X KBS)
+      - 마케리마케
+  - 구강용품
+      - 페리오
+      - 죽염 치약
+      - REACH
+  - 세탁용품
+      - 샤프란
+      - AURA
+      - 한입세제
+      - 테크
+      - 수퍼타이
+      - FiJi
+      - 산소크린
+  - 주거용품
+      - 홈스타
+      - SAFE
+      - 퐁퐁
+      - 자연퐁
+  - 방향제
+      - 해피브리즈
+      - 파르텔
+      - 힐링&네이쳐
+      - 벨먼
+  - 위생용품(LG[유니참](../Page/유니참.md "wikilink") 제조)
+      - 쏘피 바디피트
+      - 라이프리
+      - 마미포코
+
+### 음료
+
+음료 부문은 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [코카콜라](https://ko.wikipedia.org/wiki/코카콜라 "wikilink")음료 (전 한국코카콜라보틀링)를 인수하며 시작하였으며, 대한민국 [음료](https://ko.wikipedia.org/wiki/음료 "wikilink") 시장 2위 업체로 지속적으로 시장점유율 확대 중이다.\[18\] 주요 브랜드로는 ‘[코카콜라](https://ko.wikipedia.org/wiki/코카콜라 "wikilink")’, ‘[환타](../Page/환타.md "wikilink")’, ‘[스프라이트](https://ko.wikipedia.org/wiki/스프라이트 "wikilink")’ ‘[미닛메이드](https://ko.wikipedia.org/wiki/미닛메이드 "wikilink")’, ‘조지아’, ‘씨그램’, ‘[파워에이드](https://ko.wikipedia.org/wiki/파워에이드 "wikilink")’, ‘토레타’ 등이 있다.\[19\]
+
+또한 2011년 [해태htb](https://ko.wikipedia.org/wiki/해태htb "wikilink") (전 해태음료)를 인수하였다. 주요 브랜드로는 ‘썬키스트’, ‘써니텐’, ‘과일촌’, ‘코코팜’, ‘큰집 식혜’, ‘강원 평창수’, ‘구론산바몬드’ 등이 있다.\[20\]
+
+2017년 9월 8일 제주도개발공사에 따르면 ‘제주삼다수’의 소매용 제품군 위탁판매권 우선 협상 대상자로 [광동제약](../Page/광동제약.md "wikilink")을, 비소매·업소용 제품 사업군의 위탁판매권 우선 협상 대상자로 LG생활건강의 자회사인 한국코카콜라를 각각 선정했다고 밝혔다. 계약 체결 이후 이들 업체는 오는 2017년 12월 15일부터 2021년 12월 14일까지 4년간 제주삼다수 제품을 판매한다. 소매용 제품 사업군은 슈퍼마켓, 조합마트, 온라인, 편의점 등의 채널에 판매되고 비소매·업소용 제품 사업군은 식당, 호텔, 패스트푸드점 등의 채널에 판매되는 제품이다.\[21\]
+
+  -
+    한국코카콜라에서 출시하는 음료 브랜드는 다음과 같다.
+
+<!-- end list -->
+
+  - 스파클링
+      - 코카-콜라
+      - 코카-콜라 제로
+      - 코카-콜라 라이트
+      - 환타
+      - 스프라이트
+      - 스프라이트 킨사이다
+      - 슈웹스
+      - 밀크소다 암바사
+      - 닥터페퍼
+      - 캐나다 드라이
+      - 씨그램
+
+<!-- end list -->
+
+  - 주스
+      - 미닛메이드 프리미엄
+      - 미닛메이드 스파클링
+      - 미닛메이드 쿠우
+      - 미닛메이드 키즈
+
+<!-- end list -->
+
+  - 커피&티
+      - 조지아
+      - 태양의 마테차
+      - 태양의 홍차화원
+      - 퓨즈티
+      - 골드피크
+
+<!-- end list -->
+
+  - 스포츠
+      - 파워에이드
+      - 아쿠아리우스
+      - 토레타
+
+<!-- end list -->
+
+  - 생수
+      - 휘오 다이아몬드 샘물
+      - 휘오 다이아몬드 EC
+      - 휘오 제주
+      - 휘오 순수
+      - 씨그램 미네랄워터
+
+<!-- end list -->
+
+  - 라이프 스타일
+      - 글라소 비타민워터
+
+<!-- end list -->
+
+  - 해태htb
+      - 썬키스트
+      - 갈아만든 배
+      - 봉봉
+      - 코코팜
+      - 빼어날 수
+      - 강원 평창수
+      - 구론산바몬드
+      - 큰집식혜
+      - 기타 브랜드
+
+### 반려동물용품
+
+  - 오스시리우스
+  - 시리우스 윌로
+  - 시리우스 풍미모락
+
+### 태극제약
+
+[2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") 11월에 더마코스메틱 사업 강화차원에서 자회사로 편입되었으나 업체 주력상품은 기미치료제 도미나 크림이다.
+
+태극제약에서 출시하는 브랜드는 다음과 같다.
+
+  -   - 도미나 크림
+      - 벤트락스 겔
+      - 벤트플라 겔
+      - 이클린탁스
+      - 스킨데일리 로션
+      - 스킨베리아 크림
+      - TG도미니스 크림
+
+## 해외 진출
+
+LG생활건강은 일본, 중국, 베트남 등에서 생활용품 사업을 집중 전개하고 있다. 또한 성장 잠재력이 높은 중동, 미주, 아프리카 시장에서도 사업을 확대하는 추세다. 2016년 10월에는 미국 헤어케어 전문기업 '파루크 시스템즈'와 합작회사 'LG 파루크 주식회사'를 설립하기로 합의했다.\[22\]
+
+## 사업장 현황
+
+  - 본사 : 서울특별시 종로구 신문로 2가 92번지 LG광화문빌딩
+  - 서울연구소 : 서울특별시 강서구 마곡중앙10로 70
+  - 대전연구소 : 대전광역시 유성구 가정로 175번지
+  - 청주공장 : 충청북도 청주시 흥덕구 2순환로 765번지
+  - 울산공장 : 울산광역시 울주군 온양읍 덕망로 275번지
+  - 온산공장 : 울산광역시 울주군 온산읍 이진로 19번지
+  - 나주공장 : 전라남도 나주시 송월동 1번지
+  - 구미공장(LG[유니참](../Page/유니참.md "wikilink")) : 경상북도 구미시 수출대로 97
+
+## 각주
+
+<references/>
+
+## 외부 링크
+
+  -
+
+  -
+
+[LG생활건강](https://ko.wikipedia.org/wiki/분류:LG생활건강 "wikilink") [락희화학공업사 화장품 부문](https://ko.wikipedia.org/wiki/분류:1947년_설립 "wikilink") [락희화학공업사 화장품 부문](https://ko.wikipedia.org/wiki/분류:1954년_폐지 "wikilink") [락희화학공업사 생활용품화장품 부문](https://ko.wikipedia.org/wiki/분류:1954년_설립 "wikilink") [락희화학공업사 생활용품화장품 부문](https://ko.wikipedia.org/wiki/분류:1974년_폐지 "wikilink") [럭키 생활용품화장품 부문](https://ko.wikipedia.org/wiki/분류:1974년_설립 "wikilink") [럭키 생활용품화장품 부문](https://ko.wikipedia.org/wiki/분류:1995년_폐지 "wikilink") [LG화학 생활용품화장품 부문](https://ko.wikipedia.org/wiki/분류:1995년_설립 "wikilink") [LG화학 생활용품화장품 부문](https://ko.wikipedia.org/wiki/분류:2001년_폐지 "wikilink") [분류:2001년 설립된 기업](https://ko.wikipedia.org/wiki/분류:2001년_설립된_기업 "wikilink") [분류:대한민국의 화장품 회사](https://ko.wikipedia.org/wiki/분류:대한민국의_화장품_회사 "wikilink") [분류:대한민국의 화학 기업](https://ko.wikipedia.org/wiki/분류:대한민국의_화학_기업 "wikilink")
+
+1.  중국 수출용은 동물 실험을 한다고 알려졌다.
+2.  [100년 기업 LG](http://www.polinews.co.kr/news/article.html?no=248321)
+3.  [LG생활건강, M\&A·글로벌… 10년 연속 高성장](http://www.etoday.co.kr/news/section/newsview.php?idxno=1214524)
+4.
+5.
+6.  [LG그룹, 코카콜라 인수-음료업 진출](http://www.mt.co.kr/view/mtview.php?type=1&no=2007070616252929602&outlink=1)
+7.  [롯데칠성에 한 걸음 다가간 LG생활건강](http://www.mdtoday.co.kr/mdtoday/index.html?no=258912)
+8.  [차석용, LG생활건강의 더페이스샵 인수](http://www.businesspost.co.kr/news/articleView.html?idxno=18761)
+9.  [LG생활건강, 씨앤피 코스메틱스 인수…"시너지효과 기대"](http://stock.hankyung.com/news/app/newsview.php?aid=2014102219726)
+10. [LG생활건강 ‘태극제약’ 품었다](http://www.polinews.co.kr/news/article.html?no=334539)
+11. [아모레퍼시픽 서경배 vs LG생건 차석용, 화장품 전쟁 승자는? "](http://news.tf.co.kr/read/economy/1491850.htm)
+12. [LG생활건강 공식 웹사이트](http://www.lgcare.com/brand/list.jsp?type=BEAUTIFUL)
+13. [LG생활건강, 中서 독무대... 3분기 실적 사상최대 '함박웃음'](http://biz.newdaily.co.kr/news/article.html?no=10089523)
+14. [화장품 브랜드샵 1위 경쟁 치열...이니스프리, 더페이스샵 바짝 추격](http://www.viva100.com/main/view.php?key=20151112010002862)
+15.
+16.
+17. [LG생활건강 공식 웹사이트](http://www.lgcare.com/brand/list.jsp?type=HEALTHY)
+18.
+19. [LG생활건강 공식 웹사이트](http://www.lgcare.com/brand/list.jsp?type=REFRESHING)
+20. [해태htb 공식 웹사이트](http://www.htb.co.kr/Product_info/Product_info_13.jsp)
+21.
+22.

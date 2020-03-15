@@ -1,0 +1,65 @@
+> This article is converted from Wikipedia: [  AG:   ](https://ko.wikipedia.org/wiki/__AG:___).
+
+
+〈**극장판 포켓몬스터 열공의 방문자 테오키스**〉(劇場版ポケットモンスター アドバンスジェネレーション 裂空の訪問者 デオキシス)는 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [7월 17일에](https://ko.wikipedia.org/wiki/7월_17일 "wikilink") 개봉된 [TV 애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink")〈[포켓몬스터](https://ko.wikipedia.org/wiki/포켓몬스터 "wikilink")〉의 [극장판](https://ko.wikipedia.org/wiki/포켓몬스터_\(극장판\) "wikilink") 제7기이다.
+
+## 줄거리
+
+6년 전, 우주에서 정체불명의 물체가 대빙원에 떨어졌다. 마침 그 곳에 있던 '론도' 박사와 조수 '우희'. 그리고 론도 박사의 아들 '하늘'. 그런데 오존층을 지키던 레쿠쟈가 대빙원에 오게 된다. 레쿠쟈는 물체를 향해 공격을 감행, 그 때 물체에서 빛이 나더니 환상의 포켓몬 '테오키스'가 깨어난다. 테오키스와 레쿠쟈의 치열한 전투가 벌어졌지만 레쿠쟈의 회심의 일격으로 테오키스는 잠든다. 그렇게 4년 뒤, 포켓몬 배틀 타워에서 배틀을 하기 위해 최첨단 도시 '랄스시티'에 온 지우와 . 그리고 봄이와 정인이, 웅이. 배틀 타워에서 지우는 무빙워크에서 만난 '류'와 '정수', 그리고 우연히 만난 하늘이를 파트너로 태그 시합을 펼친다. 결과는 하늘이와 지우의 참패. 배틀 뒤, 지우와 친구들은 새로 만난 친구들과의 우정을 다지고 하늘이에 대해 하나하나 이해하기 시작한다. 그 때, 4년 전에 레쿠쟈에게 패배하여 잠들었던 테오키스가 나타나 도시에서 난동을 부리기 시작한다. 지우 일행은 가까스로 은신처에 숨은 뒤, 도대체 테오키스가 왜 저러는지 분석하기에 이른다.
+
+## 등장인물
+
+  - 하늘
+    성우 - [히다카 노리코](https://ko.wikipedia.org/wiki/히다카_노리코 "wikilink") / [김정애](https://ko.wikipedia.org/wiki/김정애 "wikilink")
+    론도 박사의 아들. 4년 전에 병원에서 있었던 사건에 의해 포켓몬에 대한 강한 공포감을 가지게 되었다. 다만 온실에 있는 어떤 한 작은 빛덩어리와 친구를 맺은 모양이다.
+
+<!-- end list -->
+
+  - 론도 박사
+    성우 - / [김관진](https://ko.wikipedia.org/wiki/김관진_\(성우\) "wikilink")
+    하늘이의 아버지. 랄스시티 연구소의 과학자이다.
+
+<!-- end list -->
+
+  - 우희
+    성우 - / [김옥경](https://ko.wikipedia.org/wiki/김옥경 "wikilink")
+    론도 박사의 조수. 지우 일행과 함께 도시 안에서 테오키스의 습격을 피해 은신한다.
+
+<!-- end list -->
+
+  - 세미
+    데이터 중심파이다. 파트너는 [메타그로스](../Page/메타그로스.md "wikilink").
+
+<!-- end list -->
+
+  - 류
+    성우 - [노지마 켄지](https://ko.wikipedia.org/wiki/노지마_켄지_\(성우\) "wikilink") / [엄상현](../Page/엄상현.md "wikilink")
+    지우와 친구들이 만난 침착한 까도남 베테랑 포켓몬 트레이너. 파트너는 [번치코](../Page/번치코.md "wikilink"). 다만 여동생을 무지 좋아한다.
+
+<!-- end list -->
+
+  - 정수
+    성우 - / [최석필](https://ko.wikipedia.org/wiki/최석필 "wikilink")
+    류의 친구. 파트너는 [거북왕](../Page/거북왕.md "wikilink"). 봄이를 좋아한다.
+
+<!-- end list -->
+
+  - 캐서린
+    오렌지색 옷을 입은 류의 쌍둥이 여동생 파트너는 [비나방](https://ko.wikipedia.org/wiki/비나방 "wikilink").
+
+<!-- end list -->
+
+  - 오드리
+    분홍색 옷을입읏 류의 쌍둥이 여동생 파트너는 [비구슬](https://ko.wikipedia.org/wiki/비구슬 "wikilink").
+
+<!-- end list -->
+
+  - [테오키스](../Page/테오키스.md "wikilink")
+    4년 전, 대빙원에 떨어진 물체에서 깨어난 DNA포켓몬. 그러나 레쿠쟈에게 패배해 잠들고, 다시 깨어나 랄스시티를 패닉에 빠뜨린다.
+
+<!-- end list -->
+
+  - [레쿠쟈](../Page/레쿠쟈.md "wikilink")
+    오존층을 지키는 포켓몬으로써 자신의 영역 침범을 아주 싫어한다. 테오키스를 감지하고 랄스시티로 향한다. 특기는 파괴광선. 하늘을 나는 초록색 드레곤이다.
+
+[분류:2004년 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:2004년_애니메이션_영화 "wikilink") [분류:포켓몬스터 극장판](https://ko.wikipedia.org/wiki/분류:포켓몬스터_극장판 "wikilink") [분류:일본어 영화 작품](https://ko.wikipedia.org/wiki/분류:일본어_영화_작품 "wikilink") [분류:미래를 배경으로 한 영화](https://ko.wikipedia.org/wiki/분류:미래를_배경으로_한_영화 "wikilink")

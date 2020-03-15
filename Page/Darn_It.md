@@ -1,0 +1,26 @@
+> This article is converted from Wikipedia: [Darn It](https://ko.wikipedia.org/wiki/Darn_It).
+
+
+《**Darn It**》은 [김창완 밴드의](https://ko.wikipedia.org/wiki/김창완_밴드 "wikilink") 두 번째 EP 음반이다. 전작들과 같이 곡을 한번의 연주로 녹음하는 ‘원 테이크(One Take)’방식으로 작업했으며, [김창완](../Page/김창완.md "wikilink")은 지난 두 장의 음반에서 본인의 역할을 일부러 축소했지만 이 EP에서는 그의 의견을 적극적으로 담았고, 수록곡 중에서는 특히 〈아리랑〉의 록 버전에 대한 의미를 강조하며 앞으로도 계속 다듬어 나갈것이라는 뜻을 밝히기도 했다.\[1\]
+
+밴드는 멤버교체가 있었는데, 탈퇴한 드러머 이민우를 대신해 강윤기가 합류했고, 음반 작업을 같이 했던 기타리스트 하세가와 요헤이도 발매 후 탈퇴하고 새로운 기타리스트 염민열이 영입되었다.\[2\] 음반의 커버는 [QR 코드로](https://ko.wikipedia.org/wiki/QR_코드 "wikilink") 되어있고, 속지에는 김창완이 직접 그린 그림이 있다.\[3\]
+
+## 수록곡
+
+## 멤버
+
+  - 김창완 - 보컬
+  - 하세가와 요헤이 - 기타
+  - 이상훈 - 피아노, 건반
+  - 최원식 - 베이스
+  - 강윤기 - 드럼, 타악기
+
+## 기사 인용
+
+<references/>
+
+[분류:김창완 밴드의 음반](https://ko.wikipedia.org/wiki/분류:김창완_밴드의_음반 "wikilink") [분류:2011년 음반](https://ko.wikipedia.org/wiki/분류:2011년_음반 "wikilink")
+
+1.
+2.
+3.

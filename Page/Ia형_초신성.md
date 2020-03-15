@@ -1,0 +1,99 @@
+> This article is converted from Wikipedia: [Ia ](https://ko.wikipedia.org/wiki/Ia_).
+
+
+**1a형 초신성**(1a形超新星, )은 [초신성](https://ko.wikipedia.org/wiki/초신성 "wikilink")의 하위 범주로, [백색 왜성이](https://ko.wikipedia.org/wiki/백색_왜성 "wikilink") 격렬하게 폭발한 결과물이다. 백색 왜성이란 [핵융합](https://ko.wikipedia.org/wiki/핵융합 "wikilink")이 끝나 일반적인 삶의 주기가 종료된 [항성](https://ko.wikipedia.org/wiki/항성 "wikilink")의 잔해이다. 그런데 백색 왜성 중 온도가 높아지면 엄청난 양의 에너지를 방출하여 핵융합을 다시 시작할 수 있는 것이 있다.
+
+자전 속도가 낮은 백색 왜성의 질량은 [찬드라세카르 한계인](https://ko.wikipedia.org/wiki/찬드라세카르_한계 "wikilink") 약 1.44 [태양질량](../Page/태양질량.md "wikilink") 이하로 물리적으로 제한된다.\[1\]\[2\] 이것은 별이 [전자 축퇴압으로](https://ko.wikipedia.org/wiki/전자_축퇴압 "wikilink") 유지될 수 있는 최대한의 질량이다. 이 한계를 넘어서면 백색 왜성은 붕괴해 버린다. 만약 백색 왜성이 [동반성](https://ko.wikipedia.org/wiki/동반성 "wikilink")의 질량을 점차적으로 뺏어온다면, 그 질량이 한계점에 가까워짐에 따라 백색 왜성의 핵이 [탄소 연소를](../Page/탄소_연소_과정.md "wikilink") 일으킬 수 있는 발화 온도에 도달하게 된다는 것이 통설이다. 만약 백색 왜성이 다른 별과 하나로 합쳐진다면(매우 드문 경우), 그 온도는 핵융합 발화 온도보다 훨씬 뜨거워지고, 순간적으로 찬드라세카르 한계를 뛰어넘어 붕괴하기 시작한다. 핵융합이 일어나는 찰나의 순간동안 백색 왜성을 이루는 물질의 상당량이 [열폭주](https://ko.wikipedia.org/wiki/열폭주 "wikilink") 반응을 일으켜 1\~2×10<sup>44</sup> [J](https://ko.wikipedia.org/wiki/줄_\(단위\) "wikilink") 상당의 에너지를 방출한다.\[3\] 이 에너지는 별의 속박을 풀어 버리고 초신성 폭발을 일으키기에 충분한 양이다.\[4\]
+
+강착 메커니즘을 통해 폭발하는 백색 왜성의 질량이 균일하기에, 이 종류의 [초신성](https://ko.wikipedia.org/wiki/초신성 "wikilink")은 최고 광도가 일정하다고 알려져 있다. 이 값의 안정성 때문에, Ia형 초신성 폭발은 그 [실시 등급이](https://ko.wikipedia.org/wiki/실시_등급 "wikilink") 주로 지구까지의 거리에 의해 결정되므로, 초신성이 속해 있는 모[은하](https://ko.wikipedia.org/wiki/은하 "wikilink")까지의 거리를 재는 [척도로](https://ko.wikipedia.org/wiki/우주_거리_사다리 "wikilink") 사용된다. 하지만 2014년 1월 아리조나 대학의 연구팀에 의해 발견된 [M82](https://ko.wikipedia.org/wiki/M82_\(천체\) "wikilink") 은하에서 발견한 초신성은 그 가정을 부정하고 있어서 학계에서 관심을 끌고 있다.\[5\]\[6\] 만약 이 광도의 일정성이 부정되면 [허블 상수와](https://ko.wikipedia.org/wiki/허블_상수 "wikilink") [암흑 에너지의](https://ko.wikipedia.org/wiki/암흑_에너지 "wikilink") 양이 달라지고 결국 우주의 나이에 대한 계산까지 바뀌어야 한다.
+
+## 형성 과정
+
+### 단일 원형 항성 소멸
+
+이 부류의 초신성이 만들어지는 과정에 대한 가설 중 하나는, 동반성 사이의 거리가 가까운 [쌍성](../Page/쌍성.md "wikilink")계에서 생겨난다는 것이다. 이 쌍성계는 처음에는 주계열성 두 개로 이루어져 있는데, 한쪽이 다른 쪽보다 질량이 더 크다. 질량이 큰 항성은 동반성보다 빨리 진화하여 [점근거성가지](https://ko.wikipedia.org/wiki/점근거성가지 "wikilink")에 도달하고, 항성의 외피가 급격히 부풀어오른다. 만약 두 항성의 외피가 하나로 합쳐진다면, 쌍성계는 상당량의 질량을 잃고, 각운동량과 궤도 반지름 및 주기도 줄어든다. 먼저 진화한 쪽이 백색 왜성으로 쭈그러들면, 이번에는 두 번째 항성이 적색 거성으로 진화하고, 두 번째 거성의 가스가 백색 왜성으로 질량 강착을 일으킬 무대가 마련된다. 이 최후의 외피 공유 단계동안, 두 항성은 각운동량을 잃으면서 소용돌이 모양으로 돌며 점점 가까워진다. 이렇게 작아진 궤도의 공전 주기는 수 시간 정도로 짧다.\[7\]\[8\] 질량 강착이 계속되면서, 백색 왜성의 질량은 점점 늘어나 [찬드라세카르 한계에](https://ko.wikipedia.org/wiki/찬드라세카르_한계 "wikilink") 가까워진다.
+
+궤도만 충분히 가깝다면, 백색 왜성은 [준거성](https://ko.wikipedia.org/wiki/준거성 "wikilink")이나 [주계열성](https://ko.wikipedia.org/wiki/주계열성 "wikilink")에서도 질량을 빼앗을 수 있다. 이 강착 단계의 진화 과정은 아직 불분명한데, 이 진화 과정이 강착의 속도가 얼마나 큰지, 백색 왜성으로의 [각운동량](https://ko.wikipedia.org/wiki/각운동량 "wikilink") 이동이 얼마나 빨리 일어나는지에 달려 있기 때문이다.\[9\]
+
+이런 종류의 Ia형 초신성은 전체 Ia형 초신성의 20%를 넘지 않는 것으로 보인다.\[10\]
+
+### 이중 원형 항성 소멸
+
+Ia형 초신성의 도화선에 불을 붙이는 다른 가능한 기작으로는, 백색 왜성 두 개가 합쳐져서 찬드라세카르 한계를 넘어버리는 경우가 있다. 합쳐진 결과물을 초찬드라세카르 질량(super-Chandrasekhar mass) 백색 왜성이라고 부른다.\[11\]\[12\] 그러한 경우, 항성의 총 질량은 찬드라세카르 한계에 얽매이지 않는다.
+
+우리 은하에서 단독성들끼리 충돌하는 사건은 10<sup>7</sup> \~ 10<sup>13</sup>년에 한 번 꼴로 일어나는데, 신성의 출현 빈도보다도 드문 수치이다.\[13\] [구상 성단의](https://ko.wikipedia.org/wiki/구상_성단 "wikilink") 조밀한 중심부에서는 훨씬 빈번하게 충돌이 일어난다.\[14\] (*Cf.* [청색 낙오성](../Page/청색_낙오성.md "wikilink")) 가장 충돌이 일어남직한 시나리오는 [쌍성](../Page/쌍성.md "wikilink")계의 두 별 사이, 혹은 백색 왜성을 가진 두 쌍성계 사이의 충돌이다. 충돌 결과로 백색 왜성 두 개로만 이루어진 근점쌍성이 형성될 수 있으며, 공전 궤도가 쇠퇴하면서 외피를 공유하게 되고, 하나로 합쳐지게 된다.\[15\] 그런데, [슬로운 전천 탐사](https://ko.wikipedia.org/wiki/슬로운_전천_탐사 "wikilink")(SDSS) 분광기로 4,000 개의 백색 왜성을 검사한 결과, 15개의 쌍성계를 발견했다. 계산 결과 우리 은하에서 백색 왜성 두 개가 합쳐지는 현상은 100년에 한 번 꼴로 일어나는데, 이 수치는 가까운 우주에서 발견되는 Ia형 초신성의 숫자와 안성맞춤 일치한다.\[16\]
+
+초신성 [SN 2003fg의](https://ko.wikipedia.org/wiki/SN_2003fg "wikilink") 원형 항성은 이례적으로 질량이 큰데(2 태양질량), 이것을 이중 원형 항성 소멸 모형으로 설명할 수 있다.\[17\]\[18\] 백색 왜성 한 개 짜리 모형으로는 도저히 설명이 불가능했던 초신성 [SNR 0509-67.5는](https://ko.wikipedia.org/wiki/SNR_0509-67.5 "wikilink") 이 이중 원형 원형 모형이 아니면 달리 설명할 길이 없다.\[19\] 동반성의 초신성 잔해가 발견되지 않는 [SN 1006](https://ko.wikipedia.org/wiki/SN_1006 "wikilink") 역시 이중 원형 항성일 가능성이 매우 높다.\[20\] [NASA](https://ko.wikipedia.org/wiki/NASA "wikilink")의 [스위프트 우주 망원경으로](https://ko.wikipedia.org/wiki/스위프트_감마선_폭발_임무 "wikilink") 지금까지 연구된 모든 Ia형 초신성을 다시 관측한 결과, 그 중 일부는 거성 또는 초신성 동반성이 없었다는 것이 밝혀졌다. 초거성 동반성이 외피를 날려버릴 때 엑스선이 방출되는데, 스위프트의 엑스선 망원경(XRT)이 초신성 잔해 53개를 관측한 결과, 이 엑스선이 발견되지 않았던 것이다. 또한 Ia형 초신성 12개를 폭발 10일여 동안 스위프트의 자외선 광학 망원경(*UVOT*)으로 관측한 결과, 초신성의 충격파가 가열된 동반성의 표면을 때렸을 때 발생해야 하는 자외선이 관측되지 않았다. 이것은 초신성의 원형 별 주위에 적색 거성같은 큰 항성이 존재하지 않았다는 것을 의미한다. [SN 2011fe의](https://ko.wikipedia.org/wiki/SN_2011fe "wikilink") 경우, 동반성이 만약 존재했다면, 그 크기는 [태양](https://ko.wikipedia.org/wiki/태양 "wikilink")보다도 작았을 것이다.\[21\] [찬드라 우주 망원경으로](../Page/찬드라_엑스선_관측선.md "wikilink") 5개 [타원 은하와](https://ko.wikipedia.org/wiki/타원_은하 "wikilink") [안드로메다 은하의](https://ko.wikipedia.org/wiki/안드로메다_은하 "wikilink") 팽대부에서 방출되는 엑스선을 관측한 결과, 엑스선이 예측했던 것보다 30 \~ 50배 정도 약했다. Ia형 초신성의 원형 별의 강착 원반에서 엑스선이 방출되므로, 엑스선이 이렇게 약하다는 것은 강착 원반을 형성한 백색 왜성이 적다는 것을 의미하며, 즉 Ia형 초신성을 설명하는 종래의 강착 원반 모형으로 설명이 불가능했다.\[22\] 나선을 그리며 서로를 향해 떨어져 내리는 한 쌍의 백색 왜성은 강력한 [중력파](https://ko.wikipedia.org/wiki/중력파 "wikilink") 생성원임에 틀림없지만, 2012년 현재 이것을 검출할 수 있는 기술은 존재하지 않는다.
+
+## 관측
+
+Ia형 초신성은 모든 형태의 [은하](https://ko.wikipedia.org/wiki/은하 "wikilink")에서 발생하기에, 다른 형태의 초신성과 달리 [타원 은하에서도](https://ko.wikipedia.org/wiki/타원_은하 "wikilink") 발견된다. Ia형 초신성은 항성이 형성되는 지역에서 더 많이 발생한다거나 하는 경향성을 보이지 않는다.\[23\] [백색왜성](https://ko.wikipedia.org/wiki/백색왜성 "wikilink")은 항성이 진화의 주계열에서 벗어나면서 만들어지기 때문에, 그 정도로 오래된 항성계는 원래 만들어진 장소를 벗어나 멀리 다른 곳에 있을 것이다. 그러고 나서 쌍성계는 Ia형 초신성이 폭발하기 위한 환경이 만족될 때까지 수백만 년 동안 질량 이동 단계를 거친다. 이 기간동안 계속해서 신성 폭발이 있을 수 있다.\[24\]
+
+초신성의 원형(原形, ) 항성은 천문학의 오래된 숙제 중 하나이다. 이런 후보 항성을 직접 관측함으로써 초신성 모형에 유용한 제한 요인을 얻을 수 있다. 2006년 현재, Ia형 초신성의 원형 항성을 찾기 위한 노력은 백년 넘게 계속되고 있다.\[25\] Ia형 초신성 후보 항성은 아직 발견되지 않았지만, 2011년 8월 24일에 [팔로마 트랜젼트 팩토리](https://ko.wikipedia.org/wiki/팔로마_Transient_Factory "wikilink")(Palomar Transient Factory, PTF)에 의하여 발견된 초신성 [SN 2011fe의](https://ko.wikipedia.org/wiki/SN_2011fe "wikilink") 관측은 유용한 정보를 제공해 주었다. 이 초신성은 [바람개비 은하](../Page/바람개비_은하.md "wikilink")(M101)에서 폭발한 것으로, 우리 은하에서 불과 2천만 광년 떨어진 매우 가까운 것이었다.\[26\] 이 장소를 [허블 우주 망원경이](https://ko.wikipedia.org/wiki/허블_우주망원경 "wikilink") 이전에 관측했을 때는 아무것도 없었기 때문에 [적색 초거성이](https://ko.wikipedia.org/wiki/적색_초거성 "wikilink") 폭발한 것(즉 [II형 초신성](https://ko.wikipedia.org/wiki/II형_초신성 "wikilink"))일 가능성은 배제되었다. 폭발로 인해 팽창하는 플라스마는 탄소와 산소를 포함하고 있었는데, 이를 통해 초신성 폭발을 하기 전의 원형 항성이 이 원소들로 이루어진 백색 왜성이었음을 추측할 수 있다.\[27\] 또한 2011년 1월 16일에 역시 PTF가 발견한 초신성 SN PTF 11kx의 관측에서는,\[28\] 이 폭발이 적색 거성인 동반성을 가진 원형 항성에서 일어난 것으로 결론이 났다. 이것은 Ia형 초신성의 원형 항성은 혼자 폭발하는 것이 없다는 것을 시사하고 있다.
+
+### 광도곡선
+
+[섬네일에](https://ko.wikipedia.org/wiki/파일:SNIacurva.png "wikilink") 대한 초신성의 광도는 시간에 따라 Ia형 초신성 특유의 곡선을 나타낸다. 빛의 최고점은 니켈의 방사성 붕괴로 인한 것이고, 그 뒤에는 코발트가 붕괴하면서 빛을 낸다.\]\] Ia형 초신성은, 폭발 이후 시간에 따른 광도를 나타낸 그래프인, [광도곡선](https://ko.wikipedia.org/wiki/광도곡선 "wikilink")이 특징적으로 나타난다. 광도가 최댓값을 가질 때가 가까워지면 스펙트럼에 [산소](https://ko.wikipedia.org/wiki/산소 "wikilink")에서 [칼슘](https://ko.wikipedia.org/wiki/칼슘 "wikilink")에 이르는 중간 질량의 원자가 나타난다. 이 원자들은 항성의 외피층을 이루는 주된 구성 물질이다. 폭발하고 몇 달이 지나면 폭발한 외피층은 팽창하여 거의 투명해지고, 스펙트럼에는 항성의 핵을 이루는 무거운 물질의 빛이 지배적으로 나타난다. 이 물질은 주로 철과 질량이 비슷한 동위원소들이다. [니켈](https://ko.wikipedia.org/wiki/니켈 "wikilink")-56이 [코발트](https://ko.wikipedia.org/wiki/코발트 "wikilink")-56을 거쳐 [철](../Page/철.md "wikilink")-56으로 [방사성 붕괴하는](https://ko.wikipedia.org/wiki/방사성_붕괴 "wikilink") 과정에서 고에너지 [광자](https://ko.wikipedia.org/wiki/광자 "wikilink")가 방출된다.\[29\]\[30\]
+
+Ia형 초신성의 광도곡선의 폭과 최대밝기 사이의 상관관계를 이용하여 그래프를 보정하면 모든 광도곡선이 거의 일정하게 나타나게 된다.\[31\] 즉, 지금까지 발견된 모든 Ia형 초신성의 절대광도는 유사하며, 이 때문에 Ia형 초신성은 외부은하천문학에서 이차적인\[32\] [우주 거리 사다리로](https://ko.wikipedia.org/wiki/우주_거리_사다리 "wikilink") 사용될 수 있다.\[33\] 이렇게 광도곡선이 일정한 이유는 여전히 의문으로 남아 있다.
+
+1998년, 멀리 떨어진 Ia형 초신성을 관측하다 [우주](https://ko.wikipedia.org/wiki/우주 "wikilink")가 [가속팽창한다는](https://ko.wikipedia.org/wiki/우주의_가속팽창 "wikilink") 의도치 않은 결과를 얻게 되었다.\[34\]\[35\]\[36\]\[37\] 이 우주의 가속팽창을 설명하기 위해 [암흑 에너지](https://ko.wikipedia.org/wiki/암흑_에너지 "wikilink") 개념이 도입되었으며, 이것을 발견한 [솔 펄머터](../Page/솔_펄머터.md "wikilink"), [브라이언 슈밋](https://ko.wikipedia.org/wiki/브라이언_슈밋 "wikilink"), [애덤 리스는](../Page/애덤_리스.md "wikilink") 2011년 [노벨 물리학상을](https://ko.wikipedia.org/wiki/노벨_물리학상 "wikilink") 수상했다.\[38\]
+
+## 같이 보기
+
+  - [탄소폭발](https://ko.wikipedia.org/wiki/탄소폭발 "wikilink")
+  - [초신성 관측의 역사](https://ko.wikipedia.org/wiki/초신성_관측의_역사 "wikilink")
+  - [초신성 잔해](https://ko.wikipedia.org/wiki/초신성_잔해 "wikilink")
+  - [우주 거리 사다리](https://ko.wikipedia.org/wiki/우주_거리_사다리 "wikilink")
+  - [찬드라세카르 한계](https://ko.wikipedia.org/wiki/찬드라세카르_한계 "wikilink")
+
+## 각주
+
+## 외부 링크
+
+  -
+  -
+  -
+  - (A Type Ia progenitor found)
+
+  -
+[분류:초신성](https://ko.wikipedia.org/wiki/분류:초신성 "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10. González Hernández, J. I.; Ruiz-Lapuente, P.; Tabernero, H. M.; Montes, D.; Canal, R.; Méndez, J.; Bedin, L. R. (2012). "No surviving evolved companions of the progenitor of SN 1006". Nature 489 (7417): 533–536. [doi:\[dx.doi.org/10.1038%2Fnature11447](doi:%5Bdx.doi.org/10.1038%2Fnature11447) 10.1038/nature11447\]. PMID [23018963](https://www.ncbi.nlm.nih.gov/pubmed/23018963).
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.

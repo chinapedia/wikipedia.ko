@@ -1,0 +1,9 @@
+> This article is converted from Wikipedia: [ C. ](https://ko.wikipedia.org/wiki/_C._).
+
+
+**존 캐벌 브레킨리지**(, [1821년](https://ko.wikipedia.org/wiki/1821년 "wikilink") [1월 16일](https://ko.wikipedia.org/wiki/1월_16일 "wikilink") \~ [1875년](https://ko.wikipedia.org/wiki/1875년 "wikilink") [5월 17일](https://ko.wikipedia.org/wiki/5월_17일 "wikilink"))는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 제14대 부통령이다. [1857년](https://ko.wikipedia.org/wiki/1857년 "wikilink")부터 [1861년](https://ko.wikipedia.org/wiki/1861년 "wikilink")까지 부통령직에 있었다.
+
+## 외부 링크
+
+  -
+‎  [분류:1821년 태어남](https://ko.wikipedia.org/wiki/분류:1821년_태어남 "wikilink") [분류:1875년 죽음](https://ko.wikipedia.org/wiki/분류:1875년_죽음 "wikilink") [분류:미국의 정치인](https://ko.wikipedia.org/wiki/분류:미국의_정치인 "wikilink") [분류:미국의 부통령](https://ko.wikipedia.org/wiki/분류:미국의_부통령 "wikilink") [분류:프린스턴 대학교 동문](https://ko.wikipedia.org/wiki/분류:프린스턴_대학교_동문 "wikilink") [분류:제임스 뷰캐넌 행정부](https://ko.wikipedia.org/wiki/분류:제임스_뷰캐넌_행정부 "wikilink") [분류:미국의 망명자](https://ko.wikipedia.org/wiki/분류:미국의_망명자 "wikilink") [분류:민주당 (미국)의 정치인](https://ko.wikipedia.org/wiki/분류:민주당_\(미국\)의_정치인 "wikilink") [분류:1860년 미국 대통령 후보](https://ko.wikipedia.org/wiki/분류:1860년_미국_대통령_후보 "wikilink") [분류:1856년 미국 부통령 후보](https://ko.wikipedia.org/wiki/분류:1856년_미국_부통령_후보 "wikilink") [분류:켄터키주의 연방 상원의원](https://ko.wikipedia.org/wiki/분류:켄터키주의_연방_상원의원 "wikilink") [분류:켄터키주의 연방 하원의원](https://ko.wikipedia.org/wiki/분류:켄터키주의_연방_하원의원 "wikilink") [분류:스코틀랜드계 미국인](https://ko.wikipedia.org/wiki/분류:스코틀랜드계_미국인 "wikilink") [분류:잉글랜드계 미국인](https://ko.wikipedia.org/wiki/분류:잉글랜드계_미국인 "wikilink") [분류:민주당 (미국) 대통령 후보](https://ko.wikipedia.org/wiki/분류:민주당_\(미국\)_대통령_후보 "wikilink")

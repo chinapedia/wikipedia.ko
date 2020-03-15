@@ -1,0 +1,6 @@
+> This article is converted from Wikipedia: [ P. ](https://ko.wikipedia.org/wiki/_P._).
+
+
+**리바이 파슨스 모턴**(, [1824년](https://ko.wikipedia.org/wiki/1824년 "wikilink") [5월 16일](https://ko.wikipedia.org/wiki/5월_16일 "wikilink") \~ [1920년](https://ko.wikipedia.org/wiki/1920년 "wikilink") [5월 16일](https://ko.wikipedia.org/wiki/5월_16일 "wikilink"))은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 제22대 부통령이다.그는 [1889년](https://ko.wikipedia.org/wiki/1889년 "wikilink")부터 [1893년](https://ko.wikipedia.org/wiki/1893년 "wikilink")까지 부통령이었다.
+
+[분류:1824년 태어남](https://ko.wikipedia.org/wiki/분류:1824년_태어남 "wikilink") [분류:1920년 죽음](https://ko.wikipedia.org/wiki/분류:1920년_죽음 "wikilink") [분류:미국의 정치인](https://ko.wikipedia.org/wiki/분류:미국의_정치인 "wikilink") [분류:미국의 부통령](https://ko.wikipedia.org/wiki/분류:미국의_부통령 "wikilink") [분류:뉴욕주지사](https://ko.wikipedia.org/wiki/분류:뉴욕주지사 "wikilink") [분류:프랑스 주재 미국 대사](https://ko.wikipedia.org/wiki/분류:프랑스_주재_미국_대사 "wikilink") [분류:벤저민 해리슨 행정부](https://ko.wikipedia.org/wiki/분류:벤저민_해리슨_행정부 "wikilink") [분류:공화당 (미국)의 정치인](https://ko.wikipedia.org/wiki/분류:공화당_\(미국\)의_정치인 "wikilink") [분류:1888년 미국 부통령 후보](https://ko.wikipedia.org/wiki/분류:1888년_미국_부통령_후보 "wikilink") [분류:뉴욕주의 연방 하원의원](https://ko.wikipedia.org/wiki/분류:뉴욕주의_연방_하원의원 "wikilink") [분류:벤저민 해리슨 행정부의 각료](https://ko.wikipedia.org/wiki/분류:벤저민_해리슨_행정부의_각료 "wikilink")

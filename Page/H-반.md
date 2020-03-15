@@ -1,0 +1,112 @@
+> This article is converted from Wikipedia: [H-](https://ko.wikipedia.org/wiki/H-).
+
+
+[right](https://ko.wikipedia.org/wiki/파일:H_bahn_dortmund1.jpg "wikilink") **H-반**(H-Bahn)은 현수형 승용 모노레일 시스템이다. 이 시스템에 대한 개발 프로젝트의 이름은 SIPEM이며, 개발은 [지멘스 AG에서](https://ko.wikipedia.org/wiki/지멘스_AG "wikilink") 하였다. SIPEM은 "**SI**emens **PE**ople **M**over"을 의미한다. SIPEM은 [독일](https://ko.wikipedia.org/wiki/독일 "wikilink") [도르트문트](https://ko.wikipedia.org/wiki/도르트문트 "wikilink")의 "H-반(H-Bahn)"과 [뒤셀도르프 국제공항의](https://ko.wikipedia.org/wiki/뒤셀도르프_국제공항 "wikilink") "스카이트레인(Skytrain)"으로서 실용화되고있다. "H-반"의 "H"는 [독일어](https://ko.wikipedia.org/wiki/독일어 "wikilink")로 "행게(hänge)", 즉 "매달려있다"를 의미한다. SIPEM은 자동 운전 시스템을 갖추고 있어 컨트롤 센터에서 운행이 통제되고 있다.
+
+2011년 이래로 에어 트레인 인터내셔널(Air Train International)은 중국에서 시스템을 홍보해 왔으며 2013년 5월 현재 상하이와 원저우에 노선을 건설할 계획이 있다. 다른 많은 중국 도시들도 이 시스템을 연구하고 있다.\[1\]\[2\]
+
+## 상세 기술
+
+[썸네일](https://ko.wikipedia.org/wiki/파일:Traveller_curtain_device.jpg "wikilink") 객실은 중앙에서 제어되며 운전자가 필요하지 않는다. 이 시스템은 일정 또는 주문형으로 작동할 수 있으므로 승객은 [엘리베이터](https://ko.wikipedia.org/wiki/엘리베이터 "wikilink")와 마찬가지로 버튼을 눌러 차량을 부를 수 있다. 최대 속도는 50 km/h이다. 시스템은 캐리어 내의 스위치 시스템에 의해 분기를 허용한다.
+
+### 현수식 장치 및 추진력
+
+캐리어는 아래쪽에 슬릿이 있는 빈 직사각형 상자 거더로, 객차는 주행 장치에 매달려 있으며, 두 개의 차축은 양쪽에 [고무 차륜이](https://ko.wikipedia.org/wiki/고무_차륜 "wikilink") 장착된 하중을 운반하여 서스펜션과 추진력을 제공한다. 2개의 휠이 캐리어 박스의 내부 측벽의 상부 및 하부를 따라 수평으로 가리켜 수평 안내를 제공한다. 따라서 "모노레일" 시스템이라는 명칭이 단 한 축의 현수식이라 것에서 모호한 의미가 된다.
+
+400V 3상 전류는 측벽의 4개의 도체에서 취한다. 그 중 케이블은 열차와 제어센터 간의 지속적인 무선 데이터 연결을 제공한다.
+
+매달려있는 객차와 고정 시스템 사이의 모든 접촉은 요소로부터 보호된 캐리어 박스의 내부에 있다. 이러한 의미에서 SIPEM 현수식 시스템은 이전 SAFEGE 시스템(프랑스에서 개발되었고 일본의 두 네트워크([쇼난 모노레일](https://ko.wikipedia.org/wiki/쇼난_모노레일 "wikilink"), [지바 도시 모노레일](../Page/지바_도시_모노레일.md "wikilink"))에서 사용됨)에서 사용된 시스템과 비슷하지만, 서스펜션을 위한 오픈 슬릿과 캐리어 박스 모두 훨씬 좁다.
+
+객차는 캐리어 거더에 동봉된 2대의 전동대차 아래에 매달려있다. 각 대차에는 2개의 31 kW 전동기가 장착되어있어 124 kW의 최대 동력을 제공한다.
+
+각 주행 장치에는 2개의 [전동기](https://ko.wikipedia.org/wiki/전동기 "wikilink")가 장착되어 있으며, 이 전동기는 전기자 회로를 통해 병렬로 연결된다. (반곡극이 있는 4극 타려(他勵) 직류기기)
+
+|                               |                    |
+| ----------------------------- | ------------------ |
+| 작동 전압                         | 3 x 400 V, 50 Hz   |
+| 전동기의 정격 전력                    | 4 x 31,5 kW        |
+| 분당 회전 범위                      | 0..3290 rpm        |
+| 정격 회전력                        | 90 Nm              |
+| 정격 추진력                        | 8,4 kN             |
+| 최대 추진력                        | 16,8 kN            |
+| 일반 가속                         | 1 m/s²             |
+| 일반 감속                         | 1 m/s²             |
+| 비상 감속                         | \> 1,5 m/s²        |
+| 정격 속도                         | 13,9 m/s (50 km/h) |
+| 위치결정 정확도                      | ± 3 cm             |
+| 소음 수준 (25 m 거리에서 50 km/h로 측정) | \< 65 dB/A         |
+
+### 객차
+
+각 객차는 길이 8.232m (연결기 포함 9.20m), 폭 2.244m, 높이 2.623m이다. 실내 높이는 [입석](https://ko.wikipedia.org/wiki/입석 "wikilink") 승객에 맞춘 2.003m이다. 양쪽에는 두 개의 1.350m 너비의 자동 미닫이 출입문이 있다. 뒤셀도르프 공항용 객차는 15인 및 32인용 공간을 제공하는 반면, 도르트문트 객차는 29명을 수용할 수있는 16좌석 및 입석 칸을 제공한다.
+
+객차칸 당 무게는 4,955 kg이다. 완성차의 무게는 8,455 kg이며, 대차 중량은 각각 1,750 kg이다. 최대 4,923 kg의 하중을 견딜 수 있으며 최대 총 중량은 13,378 kg이다. ​
+
+### 전환
+
+전환은 수평 안내륜(guiding wheels)의 도움으로 이루어지며, 객차의 공통 부분 양쪽에 있는 짧은 날이 적재함과 같은 너비의 관으로 왼쪽 또는 오른쪽으로 전환하는 반면, 두개의 분기점 사이의 긴 날은 오른쪽 또는 왼쪽으로 전환하여 의도한 방향으로 좌우통행을 제공한다.
+
+## 역사
+
+1973년에 연방 정부는 이 시스템의 연구 및 판촉에 2200만 [마르크](https://ko.wikipedia.org/wiki/독일_마르크 "wikilink") (11,250,000 [유로](https://ko.wikipedia.org/wiki/유로 "wikilink"))을 지원했다. 시험 노선은 1975년 7월 21일 [뒤셀도르프](https://ko.wikipedia.org/wiki/뒤셀도르프 "wikilink")에서 한스 마트호퍼(Hans Matthoefer) 교통부 장관에 의해 180m의 길이로 개통했다. 1976년 이 시스템은 1.5km로 연장되었다.
+
+## 노선정보
+
+### 도르트문트
+
+[썸네일](https://ko.wikipedia.org/wiki/파일:Dortmund,_der_H-Bahn_halte_Technologiezentrum_foto3_2015-09-12_15.31.jpg "wikilink")  1984년부터 [도르트문트 대학교](https://ko.wikipedia.org/wiki/도르트문트_공과대학교 "wikilink")(Universität Dortmund)에서 처음으로 공적 자금으로 운영되는 고가 철도는 처음에는 북쪽과 남쪽의 캠퍼스를 단선으로 연결했다. 그러나, 많은 역에는 열차가 서로 교차 통과 할 수 있는 궤도가 갖춰졌으며 2개의 상대식 승강장으로 되어 있다. 이 노선은 하인츠 리젠후버(Heinz Riesenhuber) 박사를 통해 1984년 5월 2일에 개통했고,의 궤도와 2대의 열차로 구성되었다. 비용은 대략 DM 24,000,000 (€ 12,270,000)이었으며, 이 중 75%는 [독일 연방 정부](https://ko.wikipedia.org/wiki/독일_연방_정부 "wikilink"), 20%는 [노르트라인-베스트팔렌 주](https://ko.wikipedia.org/wiki/노르트라인-베스트팔렌_주 "wikilink"), 5%는 [도르트문트](https://ko.wikipedia.org/wiki/도르트문트 "wikilink") 시에서 기금을 지원 받았다.
+
+지지 기둥 사이의 가장 긴 스팬은 38.5 m로, 두 개의 캠퍼스를 이등분하는 대학 도로를 가로 지른다. 길 건너편의 H-반은 지상에서 약 16 m의 최대 높이로 자연 보호 구역을 통과한다. 승객이 역에서 선로에 접근하는 것을 방지하기 위해 승강장과 선로 사이에 밀폐형 [스크린도어](../Page/스크린도어.md "wikilink")가 있다. 차량이 역에 도착하자마자 열차 출입문과 함께 스크린도어의 문이 자동으로 열린다.
+
+1993년, 3년의 공사 기간을 거쳐 새로운 900m의 지선이 두 개의 새로운 역과 함께 개통했다. 하나는 에이흘링호펜(Eichlinghofen)에 있고 다른 하나는 도르트문트 대학 S반 역에 있다. 이 건설에는 독일에서 최초로 고려된 기술이 포함되었다. 기존의 시스템은 개조되었고 3 cm 이내에 훨씬 더 높은 정밀도로 열차의 위치를 결정할 수 있는 기술을 갖추고 있다. 이러한 변화는 더 빠른 속도를 가능하게했으며, 이제는 열차가 서로를 더 가깝게 따라갈 수 있다. 지멘스는 3대의 새로운 객차를 공급했다. 가까운 기술중심가(Technologiezentrum)로의 연장은 2003년 12월 19일에 시작되었다. 즉, 이 최종 연장을 포함하는 현재 네트워크는 3.162km 길이이다. 이 구간의 건설 비용은 € 15,500,000이다.
+
+1호선은 기술중심가와 에이흘링호펜 사이에서 운행되며, 10분마다 객차가 도착하며 대학과 S반 정류장에서 정차한다. 도르트문트 도심부와 [보훔](https://ko.wikipedia.org/wiki/보훔 "wikilink")(Bochum)까지 매 20분마다 연결된다. 두 대의 열차가 1호선을 운행한다.
+
+2호선은 대학의 남북 캠퍼스 사이의 기존 노선이며 세 대의 열차가 운행한다. 예비의 제4 열차가 유지 보수 수단으로 이용이 가능하다.
+
+H-반 네트워크에 대한 아래의 추가 연장이 고려되었지만, 비용이 효율적이지 않았다.
+
+  - 대학과 도르트문트 중앙 버스 및 기차역 사이.
+  - 대학에서 동쪽으로, 도르트문트 도심의 남동쪽 메르키셰 가(Märkischen Straße)까지.
+
+### 뒤셀도르프
+
+[썸네일에서의](https://ko.wikipedia.org/wiki/파일:H_bahn_duesseldorf1.jpg "wikilink") 스카이트레인\]\]  거의 동일한 모노레일 시스템인 "스카이트레인(SkyTrain)"은 [뒤셀도르프 공항의](https://ko.wikipedia.org/wiki/뒤셀도르프_공항 "wikilink") 승객 운송 수단이다. 시스템은 각 터미널 C 및 터미널 A+B의 역을 장기 주차 시설 및 장거리 열차역과 복선을 통해 연결한다.
+
+건설은 1996년 11월에 시작되었다. 우선 [철도역과](https://ko.wikipedia.org/wiki/뒤셀도르프_공항역 "wikilink") [터미널 A/B](https://ko.wikipedia.org/wiki/공항_터미널 "wikilink") 사이 구간이 가동되었다. 이 구간은 길이가 2.5km이고 경사가 최대 4% 이다. 마지막으로 약 250미터 길이의 "터미널 C" 구간이 터미널 완공과 함께 약 1년 6개월 만에 문을 열었다. 건설 비용은 약 1억 5천만 유로에 달했으며 그 중 공항 당국이 부과한 비용은 3천 5백만 유로이다. 건설 비용의 62%가 보조금으로 제공되었다.
+
+선로에서 길이가 18.4 미터, 너비가 2.56 미터인 2량 연결 캐빈으로, 최대 6대가 운행되고 400 V의 전압으로 운행한다. 각 2량 편성 차량에는 30개의 좌석이 있고, 최대 64명의 입석이 가능하다. 3분 간격으로 열차는 3:45부터 0:45까지 시간당 2,000명의 승객을 태운다. 경로는 7분 안에 평균 21 km/h의 운행 속도로 횡단되며, 최대 속도는 50km/h이다.
+
+초기 단계에서 철도는 안전 시스템의 민감한 설계에 몇 가지 문제점을 가지고 있었는데, 이는 선로에서 이유없이 긴급 제동을 초래하기도 했다. 이로 인해 작업이 단계적으로 진행되었고, 또 셔틀 버스가 운행되었다. 2005 년 10월 31일부터 12월 4일까지 주선로에서 작업이 진행되었다.
+
+2006년 1월 10일 승객이 차에 2시간 이상 갇힌 또 다른 고장이 발생하자 운행을 일시 중단했다.\[3\] 2006년 1월에서 9월 16일까지 스카이트레인은 다시한번 선로 지원과 함께 재정비한 차량의 시스템 통합을 위해 운행 중단했다. [지멘스 TS는](https://ko.wikipedia.org/wiki/지멘스_모빌리티 "wikilink") 이 기간 동안 필요해진 철도 운송 비용 교체를 담당했다. 2006년 9월 16일, 제어 장비와 차량을 재설계한 후 잠정적으로 운행을 재개했으며, 정류장에서의 운영을 가속화하고, 운영 관리를 최적화함으로써 쾌적함, 고속 및 여객 수송 능력을 향상시켰다.
+
+잠정적인 운행재개 후 4일 후에 열차는 2006년 9월 20일에 다시 운행 중단했으며, 20명의 승객은 46분 후에 차량에서 나올수 있었다.
+
+2006년 12월 7일, 공항에서 스카이트레인이 마침내 허용되었다. 공항에 따르면, 시스템의 가용성은 수용하기 전에 99% 이상인 것으로 입증되었다. 지멘스는 시스템 사업자로 남아있으며, 25년의 보증 기간 동안 철도의 추가 고장에 대한 책임이 있다.
+
+네트워크 사업자는 건설하는 동안 [전시 센터와](https://ko.wikipedia.org/wiki/메세_뒤셀도르프 "wikilink") [에스프리 아레나으로](https://ko.wikipedia.org/wiki/에스프리_아레나 "wikilink") 연장할 것을 밝혔다.
+
+정거장은 독일어와 영어로 방송한다.
+
+## 같이 보기
+
+  - [모노레일](https://ko.wikipedia.org/wiki/모노레일 "wikilink")
+  - [부퍼탈 슈베베반](https://ko.wikipedia.org/wiki/부퍼탈_슈베베반 "wikilink")
+  - [스카이버스 메트로](https://ko.wikipedia.org/wiki/스카이버스_메트로 "wikilink")
+  - [SAFEGE](https://ko.wikipedia.org/wiki/SAFEGE "wikilink")
+
+## 외부 링크
+
+  - [SIPEM Dortmund and Düsseldorf with technical descriptions](http://www.h-bahn.info/en/index.php)
+  - [Monorails.org on SIPEM](http://www.monorails.org/tMspages/TPSiem.html)
+  - [Die H-Bahn an der Uni Dortmund](http://www.mein-dortmund.de/h-bahn.html) (in [German](https://ko.wikipedia.org/wiki/German_language "wikilink"))
+  - [Presentation of H-Bahn for a project in Moscow (in Russian) with videos and photo gallery](https://web.archive.org/web/20080824203333/http://www.h-bahn.ru/)
+
+## 각주
+
+[분류:독일의 철도 교통](https://ko.wikipedia.org/wiki/분류:독일의_철도_교통 "wikilink") [분류:도르트문트의 교통](https://ko.wikipedia.org/wiki/분류:도르트문트의_교통 "wikilink") [분류:뒤셀도르프의 교통](https://ko.wikipedia.org/wiki/분류:뒤셀도르프의_교통 "wikilink") [분류:독일의 모노레일](https://ko.wikipedia.org/wiki/분류:독일의_모노레일 "wikilink")
+
+1.
+2.
+3.  Meldung *SkyTrain außer Betrieb*. In: [Eisenbahn-Revue International](https://ko.wikipedia.org/wiki/Eisenbahn-Revue_International "wikilink"). Heft 3/2006, , S. 110.

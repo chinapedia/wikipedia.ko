@@ -1,0 +1,6 @@
+> This article is converted from Wikipedia: [Give Me Everything](https://ko.wikipedia.org/wiki/Give_Me_Everything).
+
+
+**Give Me Everything**은 랩퍼 [핏불](https://ko.wikipedia.org/wiki/핏불 "wikilink")의 노래이다. 피쳐링에는 [니요](https://ko.wikipedia.org/wiki/니요 "wikilink"), [아프로잭](https://ko.wikipedia.org/wiki/아프로잭 "wikilink"), [나이어](https://ko.wikipedia.org/wiki/나이어 "wikilink")가 참여했다. 앨범 [Planet Pit에](https://ko.wikipedia.org/wiki/Planet_Pit "wikilink") 수록되어 있으며 (그의 다음 앨범[Global Warming](https://ko.wikipedia.org/wiki/Global_Warming "wikilink") UK 디럭스 버전에도 수록되어있다.) [빌보드 핫 100차트에서](../Page/빌보드_핫_100.md "wikilink") 1위를 한 경험이 있는 곡이기도 하다.
+
+[분류:핏불의 노래](https://ko.wikipedia.org/wiki/분류:핏불의_노래 "wikilink") [분류:니요의 노래](https://ko.wikipedia.org/wiki/분류:니요의_노래 "wikilink") [분류:2011년 싱글](https://ko.wikipedia.org/wiki/분류:2011년_싱글 "wikilink") [분류:2011년 노래](https://ko.wikipedia.org/wiki/분류:2011년_노래 "wikilink") [분류:일렉트로팝 노래](https://ko.wikipedia.org/wiki/분류:일렉트로팝_노래 "wikilink") [분류:빌보드 핫 100 1위 싱글](https://ko.wikipedia.org/wiki/분류:빌보드_핫_100_1위_싱글 "wikilink")

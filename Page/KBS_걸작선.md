@@ -1,0 +1,128 @@
+> This article is converted from Wikipedia: [KBS ](https://ko.wikipedia.org/wiki/KBS_).
+
+
+**KBS 걸작선**은 [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [10월 31일부터](https://ko.wikipedia.org/wiki/10월_31일 "wikilink") [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [4월 17일까지](https://ko.wikipedia.org/wiki/4월_17일 "wikilink") [KBS 1TV의](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 통하여 재방송된 [텔레비전 드라마의](https://ko.wikipedia.org/wiki/텔레비전_드라마 "wikilink") 총칭이다.
+
+[2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") 이후로 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") 방영한 [월화드라마](https://ko.wikipedia.org/wiki/한국방송공사_월화드라마 "wikilink"), [수목드라마](https://ko.wikipedia.org/wiki/한국방송공사_수목드라마 "wikilink"), [주말연속극](https://ko.wikipedia.org/wiki/한국방송공사_주말연속극 "wikilink") 중에서 한 작품을 무작위로 선정하여 [KBS 1TV에서](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 재방송한다. 단, [푸른 안개](https://ko.wikipedia.org/wiki/푸른_안개 "wikilink")([이경영](https://ko.wikipedia.org/wiki/이경영_\(1960년\) "wikilink"))\[1\], [장희빈](../Page/장희빈_\(2002년_드라마\).md "wikilink")([나한일](https://ko.wikipedia.org/wiki/나한일 "wikilink"))\[2\]\[3\] 등 사회적 물의를 일으켜 KBS 출연금지 명단에 오른 배우들이 나온 그 밖의 드라마들은 선정 대상에서 제외되었다.
+
+## 방송 시간
+
+| 방송 채널                         | 방송 기간                          | 방송 시간                            | 방송 분량 |
+| ----------------------------- | ------------------------------ | -------------------------------- | ----- |
+| KBS 1TV                       | 2005년 10월 31일 \~ 2005년 11월 30일 | 월요일 \~ 목요일 오전 10시 55분 \~ 11시 55분 | 60분   |
+| 2005년 12월 5일 \~ 2005년 12월 29일 | 월요일 \~ 수요일 오후 4시 5분 \~ 5시      | 65분                              |       |
+| 2006년 11월 13일 \~ 2007년 3월 28일 |                                |                                  |       |
+| 2006년 1월 2일 \~ 2006년 7월 25일   | 월요일 \~ 목요일 오후 4시 5분 \~ 5시      |                                  |       |
+| 2006년 9월 4일 \~ 2006년 11월 10일  | 월요일 \~ 금요일 오후 4시 5분 \~ 5시      |                                  |       |
+| 2007년 4월 3일 \~ 2007년 4월 26일   |                                |                                  |       |
+| 2007년 4월 30일 \~ 2010년 12월 30일 | 월요일 \~ 금요일 낮 1시 \~ 2시          | 60분                              |       |
+| 2011년 1월 3일 \~ 2011년 12월 12일  | 월요일 \~ 목요일 낮 1시 \~ 2시          |                                  |       |
+| 2012년 2월 27일 \~ 2013년 10월 17일 |                                |                                  |       |
+| 2014년 1월 13일 \~ 2014년 8월 29일  | 화요일 \~금요일 새벽 2시 \~ 3시\[4\]     |                                  |       |
+| 2014년 11월 3일 \~ 2014년 12월 30일 |                                |                                  |       |
+| 2014년 9월 1일 \~ 2014년 10월 31일  | 화요일 \~ 금요일 새벽 2시 20분 \~ 3시 20분 |                                  |       |
+| 2015년 1월 6일 \~ 2015년 4월 17일   | 수요일 \~ 금요일 새벽 2시 \~ 3시         |                                  |       |
+
+## 작품 리스트
+
+### 2000년대
+
+#### 2005년
+
+  - 《[명성황후](https://ko.wikipedia.org/wiki/명성황후_\(드라마\) "wikilink")》 : 2005년 11월 2일 \~ 2006년 7월 25일 (이 드라마부터 KBS 걸작선 시작)
+
+#### 2006년
+
+  - 《[황금사과](https://ko.wikipedia.org/wiki/황금사과_\(드라마\) "wikilink")》 : 2006년 9월 4일 \~ 2006년 11월 2일
+  - 《[오\!필승 봉순영](../Page/오!필승_봉순영.md "wikilink")》 : 2006년 11월 7일 \~ 2006년 12월 6일
+  - 《[로즈마리](https://ko.wikipedia.org/wiki/로즈마리_\(드라마\) "wikilink")》 : 2006년 12월 11일 \~ 2007년 1월 23일
+
+#### 2007년
+
+  - 《[두번째 프러포즈](https://ko.wikipedia.org/wiki/두번째_프러포즈 "wikilink")》 : 2007년 2월 5일 \~ 2007년 3월 28일
+  - 《[풀하우스](https://ko.wikipedia.org/wiki/풀하우스_\(드라마\) "wikilink")》 : 2007년 4월 3일 \~ 2007년 4월 26일
+  - 《[애정의 조건](https://ko.wikipedia.org/wiki/애정의_조건_\(2004년_드라마\) "wikilink")》 : 2007년 4월 30일 \~ 2007년 8월 6일
+  - 《[포도밭 그 사나이](../Page/포도밭_그_사나이.md "wikilink")》 : 2007년 8월 27일 \~ 2007년 9월 17일
+  - 《[부모님 전상서](https://ko.wikipedia.org/wiki/부모님전상서 "wikilink")》 : 2007년 9월 18일 (1회만 방영)
+  - 《[소문난 칠공주](https://ko.wikipedia.org/wiki/소문난_칠공주 "wikilink")》 : 2007년 10월 15일 \~ 2008년 2월 5일
+
+#### 2008년
+
+  - 《[행복한 여자](https://ko.wikipedia.org/wiki/행복한_여자_\(KBS_드라마\) "wikilink")》 : 2008년 2월 18일 \~ 2008년 5월 19일
+  - 《[며느리 전성시대](https://ko.wikipedia.org/wiki/며느리_전성시대 "wikilink")》 : 2008년 5월 20일 \~ 2008년 7월 30일
+  - 《[장밋빛 인생](https://ko.wikipedia.org/wiki/장밋빛_인생_\(2005년_드라마\) "wikilink")》 : 2008년 8월 25일 \~ 2008년 9월 29일
+  - 《[쾌도 홍길동](../Page/쾌도_홍길동.md "wikilink")》 : 2008년 10월 2일 \~ 2008년 11월 19일
+  - 《[투명인간 최장수](../Page/투명인간_최장수.md "wikilink")》 : 2008년 11월 24일 \~ 2009년 1월 6일
+
+#### 2009년
+
+  - 《[최강칠우](../Page/최강칠우.md "wikilink")》 : 2009년 1월 7일 \~ 2009년 2월 5일
+  - 《[엄마가 뿔났다](../Page/엄마가_뿔났다.md "wikilink")》 : 2009년 2월 9일 \~ 2009년 5월 26일
+  - 《[해신](https://ko.wikipedia.org/wiki/해신 "wikilink")》 : 2009년 5월 27일 \~ 2009년 8월 10일
+  - 《[내 사랑 금지옥엽](https://ko.wikipedia.org/wiki/내_사랑_금지옥엽 "wikilink")》 : 2009년 8월 11일 \~ 2009년 10월 30일
+  - 《[바람의 나라](https://ko.wikipedia.org/wiki/바람의_나라_\(드라마\) "wikilink")》 : 2009년 11월 2일 \~ 2009년 12월 31일
+
+### 2010년대
+
+#### 2010년
+
+  - 《[솔약국집 아들들](https://ko.wikipedia.org/wiki/솔약국집_아들들 "wikilink")》 : 2010년 1월 4일 \~ 2010년 3월 23일
+  - 《[싱글파파는 열애중](https://ko.wikipedia.org/wiki/싱글파파는_열애중 "wikilink")》 : 2010년 3월 24일 \~ 2010년 4월 14일
+  - 《[그저 바라 보다가](https://ko.wikipedia.org/wiki/그저_바라_보다가 "wikilink")》 : 2010년 4월 16일 \~ 2010년 5월 11일
+  - 《[결혼 못하는 남자](https://ko.wikipedia.org/wiki/결혼_못하는_남자_\(KBS\) "wikilink")》 : 2010년 5월 12일 \~ 2010년 6월 2일
+  - 《[최강칠우](../Page/최강칠우.md "wikilink")》 : 2010년 6월 3일 \~ 2010년 7월 1일
+  - 《[수상한 삼형제](https://ko.wikipedia.org/wiki/수상한_삼형제 "wikilink")》 : 2010년 7월 2일 \~ 2010년 10월 18일
+  - 《[바람의 나라](https://ko.wikipedia.org/wiki/바람의_나라_\(드라마\) "wikilink")》 : 2010년 10월 19일 \~ 2010년 12월 30일
+
+#### 2011년
+
+  - 《[결혼해주세요](../Page/결혼해주세요.md "wikilink")》 : 2011년 1월 3일 \~ 2011년 4월 14일
+  - 《[신데렐라 언니](https://ko.wikipedia.org/wiki/신데렐라_언니 "wikilink")》 : 2011년 4월 18일 \~ 2011년 5월 23일
+  - 《[제빵왕 김탁구](https://ko.wikipedia.org/wiki/제빵왕_김탁구 "wikilink")》 : 2011년 5월 24일 \~ 2011년 7월 13일
+  - 《[성균관 스캔들](https://ko.wikipedia.org/wiki/성균관_스캔들 "wikilink")》 : 2011년 7월 14일 \~ 2011년 8월 22일
+  - 《[사랑을 믿어요](../Page/사랑을_믿어요.md "wikilink")》 : 2011년 8월 23일 \~ 2011년 12월 12일
+
+#### 2012년
+
+  - 《[오작교 형제들](../Page/오작교_형제들.md "wikilink")》 : 2012년 2월 27일 \~ 2012년 6월 7일
+  - 《[로맨스 타운](../Page/로맨스_타운.md "wikilink")》 : 2012년 6월 11일 \~ 2012년 7월 12일
+  - 《[동안미녀](../Page/동안미녀.md "wikilink")》 : 2012년 7월 16일 \~ 2012년 9월 3일
+  - 《[공주의 남자](../Page/공주의_남자.md "wikilink")》 : 2012년 9월 4일 \~ 2012년 10월 23일
+  - 《[영광의 재인](https://ko.wikipedia.org/wiki/영광의_재인 "wikilink")》 : 2012년 10월 24일 \~ 2012년 12월 4일
+  - 《[브레인](https://ko.wikipedia.org/wiki/브레인_\(드라마\) "wikilink")》 : 2012년 12월 5일 \~ 2013년 1월 9일
+
+#### 2013년
+
+  - 《[드림하이 2](https://ko.wikipedia.org/wiki/드림하이_2 "wikilink")》 : 2013년 1월 10일 \~ 2013년 2월 7일
+  - 《[가시나무새](../Page/가시나무새_\(드라마\).md "wikilink")》 : 2013년 2월 13일 \~ 2013년 3월 20일
+  - 《[매리는 외박중](../Page/매리는_외박중_\(드라마\).md "wikilink")》: 2013년 3월 25일 \~ 2013년 4월 25일
+  - 《[적도의 남자](https://ko.wikipedia.org/wiki/적도의_남자 "wikilink")》 : 2013년 5월 20일 \~ 2013년 6월 24일
+  - 《[아이리스](https://ko.wikipedia.org/wiki/아이리스_\(드라마\) "wikilink")》 : 2013년 7월 1일 \~ 2013년 8월 1일
+  - 《[드림하이](../Page/드림하이.md "wikilink")》 : 2013년 8월 12일 \~ 2013년 9월 5일
+  - 《[학교 2013](https://ko.wikipedia.org/wiki/학교_2013 "wikilink")》 : 2013년 9월 23일 \~ 2013년 10월 17일
+
+#### 2014년
+
+  - 《[솔약국집 아들들](https://ko.wikipedia.org/wiki/솔약국집_아들들 "wikilink")》 : 2014년 1월 13일 \~ 2014년 4월 14일
+  - 《[수상한 삼형제](https://ko.wikipedia.org/wiki/수상한_삼형제 "wikilink")》 : 2014년 4월 15일 \~ 2014년 8월 6일
+  - 《[결혼해주세요](../Page/결혼해주세요.md "wikilink")》 : 2014년 8월 7일 \~ 2014년 10월 30일
+  - 《[싱글파파는 열애중](https://ko.wikipedia.org/wiki/싱글파파는_열애중 "wikilink")》 : 2014년 10월 31일 \~ 2014년 11월 25일
+  - 《[그저 바라 보다가](https://ko.wikipedia.org/wiki/그저_바라_보다가 "wikilink")》 : 2014년 11월 26일 \~ 2014년 12월 18일
+  - 《[엄마가 뿔났다](../Page/엄마가_뿔났다.md "wikilink")》 : 2014년 12월 19일 \~ 2015년 4월 17일 (이 드라마를 끝으로 KBS 걸작선 폐지)
+
+## 각주
+
+<references/>
+
+## 같이 보기
+
+  - [한국방송공사 월화드라마](https://ko.wikipedia.org/wiki/한국방송공사_월화드라마 "wikilink")
+  - [한국방송공사 수목드라마](https://ko.wikipedia.org/wiki/한국방송공사_수목드라마 "wikilink")
+  - [한국방송공사 주말연속극](https://ko.wikipedia.org/wiki/한국방송공사_주말연속극 "wikilink")
+
+[KBS 걸작선](https://ko.wikipedia.org/wiki/분류:한국방송공사의_텔레비전_드라마 "wikilink") [분류:KBS 걸작선](https://ko.wikipedia.org/wiki/분류:KBS_걸작선 "wikilink")
+
+1.
+2.
+3.
+4.  단, 2/4주 화요일 새벽 시간에 정파를 실시하는 경우에는 주 4회로 편성한다.

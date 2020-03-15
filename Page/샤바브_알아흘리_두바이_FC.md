@@ -1,0 +1,22 @@
+> This article is converted from Wikipedia: [   FC](https://ko.wikipedia.org/wiki/___FC).
+
+
+**샤바브 알아흘리 두바이 FC**()는 [아랍에미리트](https://ko.wikipedia.org/wiki/아랍에미리트 "wikilink")의 프로 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로 [두바이](https://ko.wikipedia.org/wiki/두바이 "wikilink")를 연고로 하고 있다. [1970년](https://ko.wikipedia.org/wiki/1970년 "wikilink")에 창단되었으며 당시 3개의 지역 팀이 클럽을 형성하였다. [1974년](https://ko.wikipedia.org/wiki/1974년 "wikilink") 또다른 지역 팀이 현재 아랍에미리트에서 가장 성공적인 축구 클럽 중 하나로 꼽힌다. 2017년 6월 까지 **알아흘리**라는 구단명을 사용했으며, [두바이 CSC와](https://ko.wikipedia.org/wiki/두바이_CSC "wikilink") [알샤바브를](https://ko.wikipedia.org/wiki/알샤바브_\(두바이\) "wikilink") 흡수 합병하며 현재의 구단명을 사용하기 시작했다.
+
+## 역사
+
+1970년에 창단한 알아흘리는 70년대에 3번의 우승을 차지하며 전성기를 구가하였다. 하지만 이후 2부 리그로 강등되는 등 위기를 맞고 약 20여년간 우승 타이틀을 차지하지 못하였으나 2006년에 [UAE 1부 리그에서](https://ko.wikipedia.org/wiki/UAE_1부_리그 "wikilink") 26년 만의 우승을 일궈내었다. 알아흘리는 2008-09 시즌에서 5번째 리그 우승을 차지하면서 아랍에미리트의 강호로 다시 군림하였다.
+
+## 역대 우승 기록
+
+#### 국내 타이틀
+
+  -
+  -
+  -
+  -
+## 외부 링크
+
+  - [공식 웹사이트](https://web.archive.org/web/20110203001044/http://www.alahliclub.ae/)
+
+[샤바브_알아흘리_두바이_FC](https://ko.wikipedia.org/wiki/분류:샤바브_알아흘리_두바이_FC "wikilink") [분류:샤바브 알 아흘리 두바이](https://ko.wikipedia.org/wiki/분류:샤바브_알_아흘리_두바이 "wikilink") [분류:1970년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1970년_설립된_축구단 "wikilink") [분류:아랍에미리트의 축구단](https://ko.wikipedia.org/wiki/분류:아랍에미리트의_축구단 "wikilink")

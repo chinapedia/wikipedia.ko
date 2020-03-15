@@ -1,0 +1,216 @@
+> This article is converted from Wikipedia: [AKMU](https://ko.wikipedia.org/wiki/AKMU).
+
+
+**AKMU**(악뮤)는 [YG 엔터테인먼트](https://ko.wikipedia.org/wiki/YG_엔터테인먼트 "wikilink") 소속의 [이찬혁](../Page/이찬혁.md "wikilink"), [이수현으로](../Page/이수현_\(1999년\).md "wikilink") 이루어진 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 남매 듀오이다. **악동뮤지션**(樂童뮤지션\[1\]\[2\], Akdong Musician)이라는 이름으로 알려져 있으며, 이전에는 이 이름으로 활동을 했지만, 2019년 9월에 활동명을 AKMU로 바꾸었다.\[3\]\[4\]\[5\]악동뮤지션은 [SBS의](https://ko.wikipedia.org/wiki/SBS_\(대한민국의_방송사\) "wikilink") 오디션 프로그램 《[K팝 스타 2](https://ko.wikipedia.org/wiki/K팝_스타_2 "wikilink")》에 참가하여 우승하였다.\[6\]\[7\] 그들은 2014년 1집앨범 《[PLAY](https://ko.wikipedia.org/wiki/PLAY_\(악동뮤지션의_음반\) "wikilink")》를 발표하며 공식 데뷔를 하였고, 총 610만의 디지털 음원 판매량을 기록했다. \[8\]
+
+## 경력
+
+### 2012년 \~ 2013년 : K팝 스타 2 우승
+
+이찬혁(1996년생)과 이수현(1999년생)은 대한민국에서 태어났다. 그들의 아버지 이성근, 어머니 주세희는 경기도 일산광림교회\[9\]와 다리놓는 사람들\[10\]\[11\] 소속의 선교사로 2008년부터 [몽골](https://ko.wikipedia.org/wiki/몽골 "wikilink") [울란바토르](https://ko.wikipedia.org/wiki/울란바토르 "wikilink")에서 [예배](https://ko.wikipedia.org/wiki/개신교의_예배 "wikilink") [선교](https://ko.wikipedia.org/wiki/복음_전도 "wikilink") 사역을 하고 있다.\[12\]\[13\] 남매가 처음 몽골에 간것은 2008년 이찬혁이 초등학교 6학년, 이수현이 초등학교 3학년 때로 처음에는 현지 학교의 울란바토르 [선교사 자녀](https://ko.wikipedia.org/wiki/선교사_자녀 "wikilink")(MK)들을 위한 학교를 함께 다녔다.\[14\] 하지만 후원금이 줄고 재정적 한계에 봉착하면서 [홈스쿨링](https://ko.wikipedia.org/wiki/홈스쿨링 "wikilink")을 하게 되었고, 5년여간 몽골에서 생활하였다.\[15\]\[16\]\[17\]\[18\]
+
+2012년 8월, 그들은 [잠실실내체육관](https://ko.wikipedia.org/wiki/잠실실내체육관 "wikilink")에서 열린\[19\] [SBS](../Page/SBS.md "wikilink") 《[K팝 스타 2](https://ko.wikipedia.org/wiki/K팝_스타_2 "wikilink")》의 본선 1라운드 탤런트 오디션에 참가했다.\[20\] 남매는 [미쓰에이](https://ko.wikipedia.org/wiki/미쓰에이 "wikilink")의 노래인 "[Breathe](https://ko.wikipedia.org/wiki/Breathe "wikilink")"와 자작곡인 "[다리 꼬지 마](https://ko.wikipedia.org/wiki/다리_꼬지_마 "wikilink")"를 불러 예선 오디션을 불러\[21\] 심사위원들로부터 최고의 찬사를 받으며 합격했다. 특히 [박진영](https://ko.wikipedia.org/wiki/박진영 "wikilink")은 “이게 바로 싱어송라이터고 이게 바로 듀엣”이라며 칭찬을 아끼지 않았고 “보통 재능이 한 쪽으로 쏠리기 마련인데 이 남매는 둘 다 재능이 있다”고 극찬했다. [보아](https://ko.wikipedia.org/wiki/보아 "wikilink")와 [양현석](../Page/양현석.md "wikilink") 또한, 작곡 실력을 칭찬하며 “가사에 라임이 있다, 정말 대단하다”, “K팝스타 시즌을 통틀어 이런 참가자는 없을 것이다”라고 말했다.\[22\] 남매는 본선 3라운드 캐스팅 오디션에서도 인상적인 무대를 선보이며\[23\]\[24\]\[25\] 계속해 심사위원들로부터 긍정적인 평가을 받았다.\[26\]\[27\] 하지만 본선 3라운드 캐스팅 오디션 파이널 무대에서 선보인 자작곡 "못나니"는 이전 무대와는 다르게 다소 긴장된 모습의 무대를 선보여 심사위원들로부터 “부담이 컸던 것 같다”며 “오늘의 무대는 다소 아쉽다”라는 혹평을 받았다.\[28\]\[29\] 그럼에도 불구하고, 그들은 치열한 서바이벌 경연을 거친 끝에 경쟁에서 최종 우승했다.\[30\] 오디션이 개최 되는 동안, 악동뮤지션의 음원 배급은 [로엔 엔터테인먼트로부터](https://ko.wikipedia.org/wiki/로엔_엔터테인먼트 "wikilink") 발매 되었다.\[31\]\[32\] 12월 12일 음원이 발매 된 "[매력있어](https://ko.wikipedia.org/wiki/매력있어 "wikilink")"는 발매와 동시에 [가온 차트에서](https://ko.wikipedia.org/wiki/가온_차트 "wikilink") 1위를 차지했다.\[33\] 오디션이 끝난 후, 엔터테인먼트 회사와 계약을 하지 않았음에도 그들은 여러 광고와 텔레비전 드라마 《[내 연애의 모든 것](https://ko.wikipedia.org/wiki/내_연애의_모든_것 "wikilink")》 OST "[I Love You](https://ko.wikipedia.org/wiki/I_Love_You "wikilink")" 등 여러 곡에 참여했다.\[34\]\[35\]
+
+2013년 5월 24일, 우승자가 직접 3대 기획사 중 한 곳을 선택할 수 있는 특권에 따라 악동뮤지션은 [YG 엔터테인먼트를](https://ko.wikipedia.org/wiki/YG_엔터테인먼트 "wikilink") 최종 선택하며 계약을 체결하였다.\[36\]\[37\]\[38\]\[39\]
+
+### 2014년 : 데뷔와 《PLAY》
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:KOCIS_Korea_President_Park_Culture_Day_Movie_03\(1\).jpg "wikilink") 악동뮤지션은 2014년 4월 7일, 데뷔 앨범이자 첫 정규 앨범 《[PLAY](https://ko.wikipedia.org/wiki/PLAY_\(악동뮤지션의_음반\) "wikilink")》를 디지털음원 발매했고, 4월 9일 음반을 발매했다.\[40\] 이찬혁은 이 음반의 모든 곡을 작사, 작곡과 프로듀싱했다.\[41\] 팬들의 투표로 인해 지지를 받은 세 곡이 타이틀 곡으로 정해져 각각 다른 뮤직 비디오로 제작 되었다. 첫 곡 "[200%](https://ko.wikipedia.org/wiki/200% "wikilink")"는 [양현석](../Page/양현석.md "wikilink") 대표가 추천하고, 두 번째 곡 "[얼음들](https://ko.wikipedia.org/wiki/얼음들 "wikilink")"은 악동뮤지션"이 추천하였다.\[42\] 이 음반은 빌보드 월드 앨범 차트에서 2위로 데뷔하였다.\[43\] 악동뮤지션은 2014년 4월 6일, [SBS](../Page/SBS.md "wikilink") 《[K팝 스타 3](https://ko.wikipedia.org/wiki/K팝_스타_3 "wikilink")》에서 정식 데뷔 무대를 가졌다.\[44\] "200 %"의 뮤직 비디오는 디지털음원 발매와 같은 날인 4월 7일에 공개 되었다. 발매와 동시에, "200 %"는 각종 음원 차트에서 정상을 차지했다. 특히 앨범 전곡의 11곡이 차트에 줄세우기식으로 음원 차트를 한동안 "올킬"하며 음원 강자로 등극했다.\[45\]\[46\] "얼음들" 뮤직 비디오는 4월 14일 공개 되었다. 마지막 타이틀 곡 "Give Love"는 "200%"와 "얼음들"에 이어 3위를 차지했다. 이 뮤직 비디오는 5월 2일 공개 되었다.
+
+2014년 6월 16일, 악동뮤지션은 YG 패밀리의 커버 프로젝트의 일환으로 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") [태양의](https://ko.wikipedia.org/wiki/태양_\(가수\) "wikilink") 화제 곡 "눈, 코, 입"을 커버했다.\[47\] 2014년 11월에는 악동뮤지션 첫 라이브 콘서트 투어 *AKMU Camp*를 개최하였다.
+
+10월 10일, 악동뮤지션은 이찬혁이 작사, 작곡한 디지털 싱글 〈시간과 낙엽〉을 한글날에 발매하며 영어가사 없는 순수하고 감성을 자극하는 '가을 노래' 로 다시 한번 음원 차트 1위에 오랫동안 존재하면서 많은 사람들의 추억을 되돌게하는 명곡을 보여주었다.\[48\] 당초, 이 곡은 첫 정규 앨범 《[PLAY](https://ko.wikipedia.org/wiki/PLAY_\(악동뮤지션의_음반\) "wikilink")》에 수록 될 예정이였지만, 가을에 더 적합하다는 판단에 10월에 발매 되었다.\[49\]\[50\] 이 노래는 각종 음원 차트에서 "올킬"을 달성하며 정상을 차지했다.\[51\]\[52\] 또한 [가온 디지털 차트에서](../Page/가온_디지털_차트.md "wikilink") 주간 1위를 기록했다.\[53\]
+
+2014년 11월 5일, 이수현은 YG 패밀리의 솔로 가수 [이하이](../Page/이하이.md "wikilink")와 함께 유닛을 결성했다.\[54\] 그들의 데뷔 디지털 싱글 〈[나는 달라](../Page/나는_달라.md "wikilink")〉는 11월 11일 발매 되었다.\[55\]
+
+### 2015년 : 가나다같이
+
+2015년 10월 9일, 악동뮤지션은 YG 엔터테인먼트와 [우리카드](https://ko.wikipedia.org/wiki/우리카드 "wikilink")가 콜라보레이션으로 기획, 제작 된 한글날을 기념한 캠페인 스페셜 비디오 "가나다같이"에 출연하였다.\[56\]
+
+### 2016년 : 《사춘기 상》 (spring)
+
+2016년 4월 4일, YG 엔터테인먼트 측에서 악동뮤지션이 2년의 공백 기간을 깨고 5월 4일에 컴백을 확정 지었다고 밝혔다. 그와 함께 멤버 이찬혁은 이번 앨범 사춘기 상하(上下)를 마지막으로 내년 군입대를 할 계획이라고 밝혔다.
+
+4월 24일, 악동뮤지션의 두 번째 앨범 《[사춘기](https://ko.wikipedia.org/wiki/사춘기_\(악동뮤지션의_음반\) "wikilink")》로의 컴백을 확정하였다. 5월 4일 00시 00분, 두 번째 앨범인 《[사춘기 상](https://ko.wikipedia.org/wiki/사춘기_\(악동뮤지션의_음반\) "wikilink")》의 디지털음원을 발매하고, 5월 9일 음반을 발매했다. 이찬혁은 첫 정규앨범 《[PLAY》와](https://ko.wikipedia.org/wiki/PLAY_\(악동뮤지션의_음반\) "wikilink") 마찬가지로 모든 곡을 작사, 작곡했다. <RE-BYE>와 <사람들이 움직이는게> 두 곡이 타이틀 곡으로 정해졌다. 그 밖의 수록곡들은 <새삼스럽게 왜> , <초록창가> , <사소한 것에서> , <주변인> 등이 있다. 역시나 차트 줄 세우기를 했고, 음악방송, 예능 및 라디오등 활발히 활동했다. 당시 출연한 방송으로는 <주간아이돌>, <유희열의 스케치북> 등이 있다. 11월 12일 악동뮤지션은 타이페이에서 첫 해외 단독 쇼케이스 *AKMU STDIO*를 개최하였다. 타이페이를 시작으로 12월 9일 싱가포르에서 쇼케이스를 개최했으며, 12월 22일 중국 상하이에서 쇼케이스를 개최하였다.
+
+2016년 10월 11일에는 드라마 <달의 연인: 보보경심 려>의 OST <BE WITH YOU>를 발매하였다.
+
+2016년 12월 5일 악동뮤지션은 《[사춘기 상](https://ko.wikipedia.org/wiki/사춘기_\(악동뮤지션의_음반\) "wikilink")》을 발매한지 약 7개월여 만에 2017년 1월 3일 《[사춘기 하](https://ko.wikipedia.org/wiki/사춘기_\(악동뮤지션의_음반\) "wikilink")》를 발매하겠다는 티저 이미지를 공개, 컴백을 예고했다.\[57\]
+
+### 2017년 : 《사춘기 하》 (winter)
+
+2017년 1월 3일 악동뮤지션은 《[사춘기 하](https://ko.wikipedia.org/wiki/사춘기_\(악동뮤지션의_음반\) "wikilink")》를 발매하였다. 《[사춘기 상](https://ko.wikipedia.org/wiki/사춘기_\(악동뮤지션의_음반\) "wikilink")》이 미니앨범이었던 데에 반해 《[사춘기 하](https://ko.wikipedia.org/wiki/사춘기_\(악동뮤지션의_음반\) "wikilink")》는 정규 앨범으로 발매되었다. 마찬가지로 이찬혁이 모든 곡을 작사, 작곡하였으며, 모든 주요 차트에서 줄세우기에 성공하였다. 타이틀 곡은 <리얼리티>와 <오랜 날 오랜 밤>으로 선정되었고, 이외에도 내 삶의 한 조각도 잊고 싶지 않다는 내용의 <생방송>, 사실 악동뮤지션은 못생긴 것이 아니라 못생긴 척을 하고 있다는 내용의 <못생긴 척>, 초콜릿처럼 달달한 사랑을 하고 싶다는 내용의 <CHOCOLADY>, <YOU KNOW ME>, <집에 돌아오는 길>, 초등학교 때의 친구들과 그 때의 꿈을 떠올리며 쓴 곡 <그때 그 아이들은>이 있다. 이후 음악 방송에서 6주간 활동하였고, <마이 리틀 텔레비전>, <냉장고를 부탁해>, \<1박 2일\>, <어느날 갑자기 백만원>, <라디오스타>, <오빠생각>등 수많은 방송에 출연하였다. 특히 <라디오스타>에 출연했을 때에는 함께 출연한 가수 양희은과 함께 싱글 <나무>를 공개하기도 하였다.
+
+2017년 중반에는 3월 23일 서울 <악뮤일기>를 시작으로 7월 22일 <악뮤일기 in 고양>까지 악동뮤지션의 두 번째 전국투어 단독 콘서트 <일기장>을 진행하였다. 또한, 과거 방송을 통해 여러 차례 제 2의 꿈이 뷰티 유튜버라고 밝힌 이수현이 뷰티 영상 제작을 시작하였다. 이 채널은 첫 영상 업로드 이후 일주일도 지나지 않아 구독자 수 10만 명을 달성하였다. 이외에도 여러 대학 축제에 등장하는 등 행사 활동을 활발히 하였다.
+
+같은 해 7월 20일 악동뮤지션은 오후 6시 새 싱글 앨범 《SUMMER EPISODE》를 공개하고 <DINOSAUR>와 <MY DARLING> 두 곡을 선보였다. 상당히 으스스한 분위기의 티저 탓에 '남량 콘셉트'에 대한 추측도 나왔으나, 발매 이후 청량감 있는 여름노래로 자리매김하였다.
+
+### 2019년 : 《항해》 (sailing)
+
+2019년 9월 25일 2년 2개월만에 세번째 정규앨범 《항해》 를 공개하고 타이틀 곡 \<어떻게 이별까지 사랑하겠어, 널 사랑하는 거지\>으로 무대를 선보이며, 기존의 **악동뮤지션**에서 **AKMU**(악뮤)로 그룹명을 변경했다.
+
+## 구성원
+
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+
+## 음반 목록
+
+  - 정규 음반
+
+<!-- end list -->
+
+  - 2014년 4월 《**[PLAY](https://ko.wikipedia.org/wiki/PLAY_\(악동뮤지션의_음반\) "wikilink")**》
+  - 2017년 1월 《**[사춘기 하](https://ko.wikipedia.org/wiki/사춘기_\(악동뮤지션의_음반\) "wikilink")**》
+  - 2019년 9월 《**[항해](https://ko.wikipedia.org/wiki/항해_\(악동뮤지션의_음반\) "wikilink")**》
+
+<!-- end list -->
+
+  - EP 음반
+
+<!-- end list -->
+
+  - 2016년 5월 《**[사춘기 상](https://ko.wikipedia.org/wiki/사춘기_\(악동뮤지션의_음반\) "wikilink")**》
+
+<!-- end list -->
+
+  - 싱글 음반
+
+<!-- end list -->
+
+  - 2017년 7월 《**[SUMMER EPISODE](https://ko.wikipedia.org/wiki/SUMMER_EPISODE "wikilink")**》
+
+<!-- end list -->
+
+  - 디지털 싱글 음반
+
+<!-- end list -->
+
+  - 2014년 10월 《**[시간과 낙엽](https://ko.wikipedia.org/wiki/시간과_낙엽 "wikilink")**》
+
+## 음반 외 활동
+
+### 방송
+
+| 년도                                                                | 방송 채널                                                               | 제목                                                              | 역할             | 참고            |
+| ----------------------------------------------------------------- | ------------------------------------------------------------------- | --------------------------------------------------------------- | -------------- | ------------- |
+| 2012년\~2013년                                                      | [SBS](https://ko.wikipedia.org/wiki/SBS_\(대한민국의_방송사\) "wikilink")   | [K팝 스타 2](https://ko.wikipedia.org/wiki/K팝_스타_2 "wikilink")     | 참가자            | 우승            |
+| 2016년                                                             | [KBS2](../Page/KBS_2TV.md "wikilink")                               | [유희열의 스케치북](https://ko.wikipedia.org/wiki/유희열의_스케치북 "wikilink") | 코너 MC (작사의 후예) | 6월 3일\~11월 5일 |
+| 2017년                                                             | [MBC](https://ko.wikipedia.org/wiki/문화방송 "wikilink")                | [마이 리틀 텔레비전](../Page/마이_리틀_텔레비전.md "wikilink")                  | 비정기 출연         |               |
+| [SBS](https://ko.wikipedia.org/wiki/SBS_\(대한민국의_방송사\) "wikilink") | [추블리네가 떴다](../Page/추블리네가_떴다.md "wikilink")                          | 고정 출연                                                           | 8월 26일\~9월30일  |               |
+| 2019년                                                             | [JTBC](https://ko.wikipedia.org/wiki/JTBC_\(대한민국의_방송사\) "wikilink") | [아는형님](https://ko.wikipedia.org/wiki/아는형님 "wikilink")           | 게스트            | 6월 8일         |
+
+### 광고
+
+| 년도         | 품목                                                | 기업명                                                          | 브랜드명                                                         | 참고                                                                                                                            |
+| ---------- | ------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
+| 2013       | 통신사                                               | [KT](https://ko.wikipedia.org/wiki/KT "wikilink")            | Olleh All-IP                                                 | [라쿤보이즈](https://ko.wikipedia.org/wiki/라쿤보이즈 "wikilink")와 함께 출연, 자작곡 'All-IP송'과 '2배 송'도 공개\[58\]                               |
+| 베이커리 프랜차이즈 | SPC그룹                                             | [파리바게뜨](https://ko.wikipedia.org/wiki/파리바게뜨 "wikilink") 콩떡빙수 | 자작곡 '콩떡빙수'도 함께 공개\[59\]                                      |                                                                                                                               |
+| 포털사이트      | [다음](https://ko.wikipedia.org/wiki/다음 "wikilink") | 아트&쉐이크                                                       | 자작곡 '사소한 것에서'도 함께 공개\[60\]                                   |                                                                                                                               |
+| 통신사        | [KT](https://ko.wikipedia.org/wiki/KT "wikilink") | 황금주파수 광대역 LTE-A                                              | \[61\]                                                       |                                                                                                                               |
+| 2014       | 베이커리 프랜차이즈                                        | SPC그룹                                                        | [파리바게뜨](https://ko.wikipedia.org/wiki/파리바게뜨 "wikilink") 콩떡빙수 | 자작곡 '콩떡빙수 2014'도 함께 공개                                                                                                        |
+| 2015       | 신용카드                                              | [우리금융그룹](../Page/우리금융그룹.md "wikilink")                       | 우리카드 한글날 기념 - '가나다같이' Special Video                          | [YG 엔터테인먼트와](https://ko.wikipedia.org/wiki/YG_엔터테인먼트 "wikilink") [우리카드](https://ko.wikipedia.org/wiki/우리카드 "wikilink") 콜라보레이션 |
+| 배달앱        | (유)알지피코리아                                         | [요기요](../Page/요기요.md "wikilink") 드라마 '요기요 하우스'               |                                                              |                                                                                                                               |
+
+## 투어
+
+  - 2014년 악동뮤지션 1st LIVE TOUR “악뮤캠프(AKMU CAMP)”
+
+| 공연날짜                                                                                                                                                                               | 공연(제목)                  | 공연(도시)                                                           |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | ---------------------------------------------------------------- |
+| [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [11월 21일](https://ko.wikipedia.org/wiki/11월_21일 "wikilink") \~ [11월 24일](https://ko.wikipedia.org/wiki/11월_24일 "wikilink") | 악동뮤지션 첫번째 전국투어 콘서트 - 서울 | [서울](https://ko.wikipedia.org/wiki/서울 "wikilink") 블루스퀘어 삼성카드홀    |
+| [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [12월 6일](https://ko.wikipedia.org/wiki/12월_6일 "wikilink")                                                                  | 악동뮤지션 첫번째 전국투어 콘서트 - 대구 | [대구](https://ko.wikipedia.org/wiki/대구 "wikilink") 천마아트 그랜드홀      |
+| [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [12월 24일](https://ko.wikipedia.org/wiki/12월_24일 "wikilink")                                                                | 악동뮤지션 첫번째 전국투어 콘서트 - 광주 | [광주](https://ko.wikipedia.org/wiki/광주 "wikilink") 김대중 컨벤션센터 다목적홀 |
+| [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [12월 31일](https://ko.wikipedia.org/wiki/12월_31일 "wikilink")                                                                | 악동뮤지션 첫번째 전국투어 콘서트 - 부산 | [부산](https://ko.wikipedia.org/wiki/부산 "wikilink") 부산시민회관 대극장     |
+|                                                                                                                                                                                    |                         |                                                                  |
+
+## 도서
+
+  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") 《목소리를 높여 high\!(열림과 성장의 악동뮤지션 음악 에세이)》 (마리북스, )
+  - [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") 《물 만난 물고기(이찬혁 소설)》
+
+## 수상 및 후보
+
+## 각주
+
+### 내용주
+
+<references group="주"/>
+
+### 참조주
+
+## 외부 링크
+
+  -
+
+  -
+
+  -
+
+[AKMU](https://ko.wikipedia.org/wiki/분류:AKMU "wikilink") [분류:2012년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2012년_결성된_음악_그룹 "wikilink") [분류:YG 엔터테인먼트 소속](https://ko.wikipedia.org/wiki/분류:YG_엔터테인먼트_소속 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:고양시 출신](https://ko.wikipedia.org/wiki/분류:고양시_출신 "wikilink") [분류:대한민국의 R\&B 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_R&B_음악_그룹 "wikilink") [분류:한국어 음악 그룹](https://ko.wikipedia.org/wiki/분류:한국어_음악_그룹 "wikilink") [분류:혼성 음악 그룹](https://ko.wikipedia.org/wiki/분류:혼성_음악_그룹 "wikilink") [분류:혼성 듀오](https://ko.wikipedia.org/wiki/분류:혼성_듀오 "wikilink") [분류:형제자매 듀오](https://ko.wikipedia.org/wiki/분류:형제자매_듀오 "wikilink") [분류:K팝 스타 참가자](https://ko.wikipedia.org/wiki/분류:K팝_스타_참가자 "wikilink") [분류:멜론 뮤직 어워드 수상 음악가](https://ko.wikipedia.org/wiki/분류:멜론_뮤직_어워드_수상_음악가 "wikilink") [분류:Mnet 엠카운트다운 1위 수상자](https://ko.wikipedia.org/wiki/분류:Mnet_엠카운트다운_1위_수상자 "wikilink") [분류:KBS 뮤직뱅크 1위 수상자](https://ko.wikipedia.org/wiki/분류:KBS_뮤직뱅크_1위_수상자 "wikilink") [분류:SBS 인기가요 1위 수상자](https://ko.wikipedia.org/wiki/분류:SBS_인기가요_1위_수상자 "wikilink") [분류:한국대중음악상 수상 음악가](https://ko.wikipedia.org/wiki/분류:한국대중음악상_수상_음악가 "wikilink") [분류:대한민국의 감리교도](https://ko.wikipedia.org/wiki/분류:대한민국의_감리교도 "wikilink") [분류:몽골에 거주한 대한민국인](https://ko.wikipedia.org/wiki/분류:몽골에_거주한_대한민국인 "wikilink")
+
+1.  惡童이 아니다./ 130423 현장21.E99-악동뮤지션편에서 언급되었다.[1](http://imgur.com/qQgsVLv)
+2.
+3.
+4.
+5.
+6.  ['K팝스타2' 악동뮤지션, 방예담 누르고 최종 우승 - SBS 뉴스](http://news.sbs.co.kr/section_news/news_read.jsp?news_id=N1001722758)
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14. [악동뮤지션 우승 “‘선교사 자녀(MK)’의 모범 보여준 쾌거” - 크리스천 투데이](http://www.christiantoday.co.kr/view.htm?id=262744)
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+40.
+41.
+42. <http://www.yg-life.com/archives/30788?lang=en>
+43.
+44.
+45.
+46.
+47.
+48.
+49.
+50.
+51.
+52.
+53.
+54.
+55.
+56.
+57.
+58. 심나영, [KT "오디션 스타들이 대결하는 All-IP 광고가 뜬다"](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=277&aid=0002948644), 아시아경제, 2013년 3월 5일
+59. 전보교, [악동뮤지션 '파리바게뜨' 광고모델 '콩떡빙수' 자작곡도](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=106&oid=144&aid=0000203206), 스포츠경향, 2013년 5월 15일
+60. 김효진, [다음, 악동뮤지션 신곡 '사소한 것에서' 뮤직비디오 독점공개](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=015&aid=0002937256), 한국경제, 2013년 8월 27일
+61. 정자랑, [KT,악동뮤지션과 함께 '광대역 LTE' 알린다](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=109&aid=0002618424), OSEN, 2013년 9월 16일

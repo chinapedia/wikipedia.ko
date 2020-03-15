@@ -1,0 +1,130 @@
+> This article is converted from Wikipedia: [  AAA ](https://ko.wikipedia.org/wiki/__AAA_).
+
+
+**루차 리브레 AAA 월드 와이드**() 또는 **아시스텐시아 아세소리아 이 아드미니스트라시온**(Asistencia, Asesoría y Administración, 약자 AAA)는 [멕시코](https://ko.wikipedia.org/wiki/멕시코 "wikilink")의 [프로레슬링](https://ko.wikipedia.org/wiki/프로레슬링 "wikilink") 양대 메이져단체 중 하나로, 루차 리브레 스타일의 레슬링을 추구한다. [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink") 라이벌 단체 [CMLL](https://ko.wikipedia.org/wiki/CMLL "wikilink")에서 탈단한 안토니오 페나가 창립하였다. AAA는 미국의 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink"), [TNA](https://ko.wikipedia.org/wiki/토털_논스톱_액션_레슬링 "wikilink"), RoH처럼 페이 퍼 뷰 (Pay-Per-View)를 개최하는데 이는 멕시코뿐만이 아니라 미국이나 일본에서도 열린다. 다른 단체와는 차별을 위해 8각형의 링을 사용한다. AAA는 지금까지 수많은 북미단체와 제휴를 맺어왔는데 WWE가 그러했고 현재는 일본 메이져 단체 중 하나인 노아와 미국의 단체 [GFW와](../Page/글로벌_포스_레슬링.md "wikilink") 제휴관계에 있다.
+
+## 역사
+
+1992년 CMLL의 각본진이었던 안토니오 페나가 창립한 이래 당대 최고 단체였던 WWE , wCw 등과 제휴관계를 맺어왔다. 2006년 10월 6일 안토니오 페나가 심장마비로 사망한 이후 조아퀸 론단과 그의 아들이 AAA를 소유하게 되었고 2008년에는 미국에서 페이 퍼 뷰를 개최하기도 했다. 또한 2010년에는 비디오 게임인 히어로즈 델 링이 발표된다.
+
+## TNA와의 제휴관계
+
+AAA는 미국의 단체 중 하나인 TNA와 2004년부터 제휴관계를 맺게된다. 그해 TNA에서 개최한 월드 X-컵 토너먼트에 자사의 선수인 후벤투드 게레라, 헥토르 가르자, 아비스모 니그로 , 헤비 메탈 , 미스터 아길라가 출전하였고 TNA 월드 X-컵 우승컵을 차지하게 된다. 그러다가 제휴관계가 잠시 중단되는가 싶더니 2006년부터 다시 제휴관계가 성립된다. 2011년 다시 TNA와 3년간 제휴관계를 형성했으며, 2017년 다시 제휴관계가 된다.
+
+## GFW와의 제휴관계
+
+2014년 6월 2014년 출범한 미국의 새로운 단체 GFW와 제휴관계를 맺는다.
+
+## 현재 챔피언
+
+| **타이틀**              | **챔피언**                         | **전 챔피언**                                               | **이벤트**                  | **획득한 날짜**                                                                                                          |
+| -------------------- | ------------------------------- | ------------------------------------------------------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------- |
+| AAA 월드 헤비웨이트 챔피언     | 레이 와그너                          | [자니 문도](https://ko.wikipedia.org/wiki/존_모리슨 "wikilink") | Guerra de Titanes (2018) | [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [1월 26일](https://ko.wikipedia.org/wiki/1월_26일 "wikilink")   |
+| AAA 라틴 아메리칸 챔피언      | 엘 히 조 델 판타스마                    | [자니 문도](https://ko.wikipedia.org/wiki/존_모리슨 "wikilink") | Héroes Inmortales XI     | [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [10월 1일](https://ko.wikipedia.org/wiki/10월_1일 "wikilink")   |
+| AAA 크루져웨이트 챔피언       | 호주자살                            | 랜슬롯                                                     | de Titanes (2018)        | [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [1월 26일](https://ko.wikipedia.org/wiki/1월_26일 "wikilink")   |
+| AAA 월드 태그팀 챔피언       | 쿠르 보와 에스코 리아                    | 몬스터 크라운 & 멀더 크라운                                        | \-                       | [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [12월 16일](https://ko.wikipedia.org/wiki/12월_16일 "wikilink") |
+| AAA 월드 트리오스 챔피언      | 티토 산타나 , 카타 브라바 주니어 , 모코 코타 주니어 | 로스 오쥐티                                                  | Guerra de Titanes (2018  | [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [1월 26일](https://ko.wikipedia.org/wiki/1월_26일 "wikilink")   |
+| AAA 레이나 데 레이나스 챔피언   | 파비 아파치                          | 라디 샤니                                                   | Guerra de Titanes (2018) | [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [1월 26일](https://ko.wikipedia.org/wiki/1월_26일 "wikilink")   |
+| AAA 월드 미니 에스트렐라스 챔피언 | 미니 사이코 어릿 광대                    | 딘아스티아                                                   | AAA 월드와인드 쇼              | [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [5월 26일](https://ko.wikipedia.org/wiki/5월_26일 "wikilink")   |
+| AAA 월드 믹스트 태그팀 챔피언   | 니노 햄버거 & 빅 마미                   | 누에 보라 레도                                                | \-                       | [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [6월 19일](https://ko.wikipedia.org/wiki/6월_19일 "wikilink")   |
+
+## 폐지된 챔피언
+
+| **타이틀 명칭**          | **마지막 챔피언**                | **생선된 날짜**                                                                                                        | **폐지된 날짜**                                                                                                        |
+| ------------------- | -------------------------- | ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| 멕시칸 내셔널 아토미코스 챔피언   | 공석                         | [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") [8월 9일](https://ko.wikipedia.org/wiki/8월_9일 "wikilink")   | [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [1월 25일](https://ko.wikipedia.org/wiki/1월_25일 "wikilink") |
+| 멕시칸 내셔널 헤비웨이트 챔피언   | 찰리 멘슨                      | [1926년](https://ko.wikipedia.org/wiki/1926년 "wikilink")                                                           | [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [12월](https://ko.wikipedia.org/wiki/12월 "wikilink")       |
+| 멕시칸 내셔널 미들웨이트 챔피언   | 옥타곤                        | [1933년](https://ko.wikipedia.org/wiki/1933년 "wikilink")                                                           | [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [12월](https://ko.wikipedia.org/wiki/12월 "wikilink")       |
+| 멕시칸 내셔널 태그팀 챔피언     | 옥타곤 & 라파카                  | [1967년](https://ko.wikipedia.org/wiki/1967년 "wikilink") [6월 14일](https://ko.wikipedia.org/wiki/6월_14일 "wikilink") | [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [12월](https://ko.wikipedia.org/wiki/12월 "wikilink")       |
+| AAA 아메리카스 헤비웨이트 챔피언 | 센그리 치카나                    | [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") [2월 2일](https://ko.wikipedia.org/wiki/2월_2일 "wikilink")   | [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")                                                           |
+| AAA 캄페온 데 캄페온스 챔피언  | 사이버네티코                     | [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") [6월 15일](https://ko.wikipedia.org/wiki/6월_15일 "wikilink") | [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink")                                                           |
+| AAA 아메리카스 트리오즈 챔피언  | 빌라노 3세 & 빌라노 4세 & 발리노 5세   | [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") [3월 8일](https://ko.wikipedia.org/wiki/3월_8일 "wikilink")   | [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink")                                                           |
+| AAA 마스코트 태그팀 챔피언    | 엘 알브리제 & 큐이제               | [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [12월 3일](https://ko.wikipedia.org/wiki/12월_3일 "wikilink") | [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [4월 7일](https://ko.wikipedia.org/wiki/4월_7일 "wikilink")   |
+| AAA 노던 태그팀 챔피언      | 포더 델 노르테 (티그레 코타 & 티토 산타나) | N/A                                                                                                               | [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [3월 7일](https://ko.wikipedia.org/wiki/3월_7일 "wikilink")   |
+
+## 소속된 로스터
+
+### 남성 레슬러
+
+  - 아에로 스타
+  - 아레브리제
+  - 앙헬리코
+  - 아르헤니스
+  - 오스트레일리안 수어사이드
+  - 아베흐노
+  - 벵갈라
+  - 체스맨
+  - 다크 쿠에보
+  - 디나스티아
+  - 드라고
+  - 엘 아파체
+  - 엘 엘레기도
+  - 엘 메시아스
+  - 엘 조로
+  - 그론다
+  - 히조 델 판타스마
+  - 조 라이더
+  - [라 파카](https://ko.wikipedia.org/wiki/라_파카 "wikilink")
+  - 맘바
+  - 마스카라 아노 2000 주니어
+  - 마스카리타 사그라다
+  - 몬스터 크라운
+  - 머더 크라운
+  - 니노 햄버구에사
+  - 옥타곤시토
+  - 파카 니그라
+  - 싸이코 크라운
+  - 테하노 주니어
+  - 베넘
+
+### 여성 레슬러
+
+  - 페이비 아파체
+  - 핌피넬라 에스카라타
+  - 타야 발키리
+
+### 태그팀
+
+  - 라 헤르만다드 187 (니초 엘 밀리어네리오 & 조 라이더)
+  - 로스 벨로스 스톤스 (알렌 스톤 & 크리스 스톤)
+  - 로스 매니아코스 (실버 킹 & 얼티모 글라디도르)
+
+### 스테이블
+
+  - 로스 비자로스 (사이버네티코 & 아마데우스 & 찰리 멘슨 & 에스코리아 & 니그마 & 타부)
+  - 더 블랙 패밀리 (다크 오즈 & 다크 쿠에르보 & 다크 에스피리트)
+  - 라 레종 익스트란제라 (코난 & 체스맨 & 엘 히조 델 타이탄티스 & 엘 일리걸 & 제니퍼 블레이크 & 엘 조로)
+  - 라 밀리시아 (데크니스 & 알렌 스톤 & 빌리 보이 & 크리스 스톤 & 슈퍼 플라이 & 티그레 코타 & 티노 산타나)
+  - 로스 피에로스 델 말 (엘 히조 델 피에로 아쿠아요 & 데미안 666 & 할로윈 & L.A 파크 & 슈퍼 크레이지 & X-플라이)
+  - 로스 싸이코 써커스 (머더 크라운 & 싸이코 크라운 & 몬스터 크라운)
+  - 포텐시아 먼다이얼 (닥터 웨그너 주니어 & 머더 크라운 & 싸이코 크라운 & 몬스터 크라운)
+  - 레알 푸에르자 아에레아 (에어로 스타 & 레라도 키드 & 아르제니스 & 아토믹 보이)
+  - 라 소사이다드 (라 레종 익스트란제라 + 로스 피에로스 델 말 + 로스 매니아코스)
+
+### 심판 및 중계진
+
+  - 아르투로 리베라 (PBP 해설자)
+  - 닥터 알폰소 모랄레스 (PBP 해설자)
+  - 코페테스 살랄자르 (심판)
+  - 도리안 롤단 (라 소사이다드 리더)
+  - 엘 히조 델 타이탄티스 (심판)
+  - 조이킨 롤단 (회장)
+  - 페페 카사스 (심판)
+  - 엘 피에로 (심판)
+
+## 명예의 전당 헌액자
+
+  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") - 레이 미스테리오 , 안토니오 페나
+  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") - 에디 게레로
+  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") - 페페 카사스
+  - 2011년 - 옥타곤
+  - 2012년 - 페로 아구아요
+  - 2013년 - 아비스모 네그로
+
+## 외부 링크
+
+  - [AAA 공식 홈페이지](http://luchalibreaaa.com)
+
+  - [AAA를 비롯한 레슬링 단체들의 뉴스&루머를 알 수 있는 져렉-넷의 홈페이지](http://www.gerweck.net)
+
+[분류:멕시코의 프로레슬링 단체](https://ko.wikipedia.org/wiki/분류:멕시코의_프로레슬링_단체 "wikilink") [분류:1992년 설립](https://ko.wikipedia.org/wiki/분류:1992년_설립 "wikilink")

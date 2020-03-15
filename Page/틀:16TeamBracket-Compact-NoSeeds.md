@@ -1,0 +1,54 @@
+> This article is converted from Wikipedia: [:16TeamBracket-Compact-NoSeeds](https://ko.wikipedia.org/wiki/:16TeamBracket-Compact-NoSeeds).
+
+
+<onlyinclude>{| border=0 cellpadding=0 cellspacing=0 style="font-size: 90%; margin:1em 2em 1em 1em;" | colspan="2" style="border:1px solid \#aaa; background-color:\#f2f2f2; text-align:center;"| | colspan="2"|  | colspan="2" style="border:1px solid \#aaa; background-color:\#f2f2f2; text-align:center;"| | colspan="2"|  | colspan="2" style="border:1px solid \#aaa; background-color:\#f2f2f2; text-align:center;"| | colspan="2"|  | colspan="2" style="border:1px solid \#aaa; background-color:\#f2f2f2; text-align:center;"| |- | style="width:;"|  | style="width:;"|  | style="width:1em;"|  | style="width:1em;"|  | style="width:;"|  | style="width:;"|  | style="width:1em;"|  | style="width:1em;"|  | style="width:;"|  | style="width:;"|  | style="width:1em;"|  | style="width:1em;"|  | style="width:;"|  | style="width:;"|  |- | style="border-width:1px 0px 0px 1px; border-style:solid; border-color:\#aaa \#aaa \#aaa \#aaa; background-color:\#f9f9f9"|   | style="text-align:center; border-width:1px 1px 0px 1px; border-style:solid; border-color:\#aaa \#aaa \#aaa \#aaa; background-color:\#f9f9f9"|  | style="border-width:0 0 2px 0; border-style:solid;border-color:black;"|  |- | style="border-width:1px 0px 1px 1px; border-style:solid; border-color:\#aaa \#aaa \#aaa \#aaa; background-color:\#f9f9f9"|   | style="text-align:center; border-width:1px; border-style:solid; border-color:\#aaa \#aaa \#aaa \#aaa; background-color:\#f9f9f9"|  | rowspan="2" style="border-width:2px 2px 2px 0; border-style:solid;border-color:black;"|  | style="border-width:0 0 2px 0; border-style:solid;border-color:black;"|  | style="border:1px solid \#aaa; background-color:\#f9f9f9"|   | style="text-align:center; border:1px solid \#aaa; background-color:\#f9f9f9"|  | style="border-width:0 0 2px 0; border-style:solid;border-color:black;"|  |- | style="border-width:1px 0px 0px 1px; border-style:solid; border-color:\#aaa \#aaa \#aaa \#aaa; background-color:\#f9f9f9"|   | style="text-align:center; border-width:1px 1px 0px 1px; border-style:solid; border-color:\#aaa \#aaa \#aaa \#aaa; background-color:\#f9f9f9"|  | style="border-width:2px 0 0 0; border-style:solid;border-color:black;"|  | style="border:1px solid \#aaa; background-color:\#f9f9f9"|   | style="text-align:center; border:1px solid \#aaa; background-color:\#f9f9f9"|  | rowspan="4" style="border-width:2px 2px 2px 0; border-style:solid;border-color:black;"|  |- | style="border-width:1px 0px 1px 1px; border-style:solid; border-color:\#aaa \#aaa \#aaa \#aaa; background-color:\#f9f9f9"|   | style="text-align:center; border-width:1px; border-style:solid; border-color:\#aaa \#aaa \#aaa \#aaa; background-color:\#f9f9f9"|  | style="border-width:2px 0 0 0; border-style:solid;border-color:black;"|  | colspan="4"|  | style="border-width:0 0 2px 0; border-style:solid;border-color:black;"|  | style="border:1px solid \#aaa; background-color:\#f9f9f9"|   | style="text-align:center; border:1px solid \#aaa; background-color:\#f9f9f9"|  | style="border-width:0 0 2px 0; border-style:solid;border-color:black;"|  |- | style="border-width:1px 0px 0px 1px; border-style:solid; border-color:\#aaa \#aaa \#aaa \#aaa; background-color:\#f9f9f9"|   | style="text-align:center; border-width:1px 1px 0px 1px; border-style:solid; border-color:\#aaa \#aaa \#aaa \#aaa; background-color:\#f9f9f9"|  | style="border-width:0 0 2px 0; border-style:solid;border-color:black;"|  | colspan="4"|  | style="border-width:2px 0 0 0; border-style:solid;border-color:black;"|  | style="border:1px solid \#aaa; background-color:\#f9f9f9"|   | style="text-align:center; border:1px solid \#aaa; background-color:\#f9f9f9"|  | rowspan="8" style="border-width:2px 2px 2px 0; border-style:solid;border-color:black;"|  |- | style="border-width:1px 0px 1px 1px; border-style:solid; border-color:\#aaa \#aaa \#aaa \#aaa; background-color:\#f9f9f9"|   | style="text-align:center; border-width:1px; border-style:solid; border-color:\#aaa \#aaa \#aaa \#aaa; background-color:\#f9f9f9"|  | rowspan="2" style="border-width:2px 2px 2px 0; border-style:solid;border-color:black;"|  | style="border-width:0 0 2px 0; border-style:solid;border-color:black;"|  | style="border:1px solid \#aaa; background-color:\#f9f9f9"|   | style="text-align:center; border:1px solid \#aaa; background-color:\#f9f9f9"|  |- | style="border-width:1px 0px 0px 1px; border-style:solid; border-color:\#aaa \#aaa \#aaa \#aaa; background-color:\#f9f9f9"|   | style="text-align:center; border-width:1px 1px 0px 1px; border-style:solid; border-color:\#aaa \#aaa \#aaa \#aaa; background-color:\#f9f9f9"|  | style="border-width:2px 0 0 0; border-style:solid;border-color:black;"|  | style="border:1px solid \#aaa; background-color:\#f9f9f9"|   | style="text-align:center; border:1px solid \#aaa; background-color:\#f9f9f9"|  | style="border-width:2px 0 0 0; border-style:solid;border-color:black;"|  |- | style="border-width:1px 0px 1px 1px; border-style:solid; border-color:\#aaa \#aaa \#aaa \#aaa; background-color:\#f9f9f9"|   | style="text-align:center; border-width:1px; border-style:solid; border-color:\#aaa \#aaa \#aaa \#aaa; background-color:\#f9f9f9"|  | style="border-width:2px 0 0 0; border-style:solid;border-color:black;"|  | colspan="8"|  | style="border-width:0 0 2px 0; border-style:solid;border-color:black;"|  | style="border:1px solid \#aaa; background-color:\#f9f9f9"|   | style="text-align:center; border:1px solid \#aaa; background-color:\#f9f9f9"|  |- | style="border-width:1px 0px 0px 1px; border-style:solid; border-color:\#aaa \#aaa \#aaa \#aaa; background-color:\#f9f9f9"|   | style="text-align:center; border-width:1px 1px 0px 1px; border-style:solid; border-color:\#aaa \#aaa \#aaa \#aaa; background-color:\#f9f9f9"|  | style="border-width:0 0 2px 0; border-style:solid;border-color:black;"|  | colspan="8"|  | style="border-width:2px 0 0 0; border-style:solid;border-color:black;"|  | style="border:1px solid \#aaa; background-color:\#f9f9f9"|   | style="text-align:center; border:1px solid \#aaa; background-color:\#f9f9f9"|  |- | style="border-width:1px 0px 1px 1px; border-style:solid; border-color:\#aaa \#aaa \#aaa \#aaa; background-color:\#f9f9f9"|   | style="text-align:center; border-width:1px; border-style:solid; border-color:\#aaa \#aaa \#aaa \#aaa; background-color:\#f9f9f9"|  | rowspan="2" style="border-width:2px 2px 2px 0; border-style:solid;border-color:black;"|  | style="border-width:0 0 2px 0; border-style:solid;border-color:black;"|  | style="border:1px solid \#aaa; background-color:\#f9f9f9"|   | style="text-align:center; border:1px solid \#aaa; background-color:\#f9f9f9"|  | style="border-width:0 0 2px 0; border-style:solid;border-color:black;"|  |- | style="border-width:1px 0px 0px 1px; border-style:solid; border-color:\#aaa \#aaa \#aaa \#aaa; background-color:\#f9f9f9"|   | style="text-align:center; border-width:1px 1px 0px 1px; border-style:solid; border-color:\#aaa \#aaa \#aaa \#aaa; background-color:\#f9f9f9"|  | style="border-width:2px 0 0 0; border-style:solid;border-color:black;"|  | style="border:1px solid \#aaa; background-color:\#f9f9f9"|   | style="text-align:center; border:1px solid \#aaa; background-color:\#f9f9f9"|  | rowspan="4" style="border-width:2px 2px 2px 0; border-style:solid;border-color:black;"|  |- | style="border-width:1px 0px 1px 1px; border-style:solid; border-color:\#aaa \#aaa \#aaa \#aaa; background-color:\#f9f9f9"|   | style="text-align:center; border-width:1px; border-style:solid; border-color:\#aaa \#aaa \#aaa \#aaa; background-color:\#f9f9f9"|  | style="border-width:2px 0 0 0; border-style:solid;border-color:black;"|  | colspan="4"|  | style="border-width:0 0 2px 0; border-style:solid;border-color:black;"|  | style="border:1px solid \#aaa; background-color:\#f9f9f9"|   | style="text-align:center; border:1px solid \#aaa; background-color:\#f9f9f9"|  {{\#if: |
+
+<td>
+
+ 
+
+</td>
+
+<td colspan="2" style="border:1px solid #aaa; background-color:#f2f2f2; text-align:center;">
+
+</td>
+
+}} |- | style="border-width:1px 0px 0px 1px; border-style:solid; border-color:\#aaa \#aaa \#aaa \#aaa; background-color:\#f9f9f9"|   | style="text-align:center; border-width:1px 1px 0px 1px; border-style:solid; border-color:\#aaa \#aaa \#aaa \#aaa; background-color:\#f9f9f9"|  | style="border-width:0 0 2px 0; border-style:solid;border-color:black;"|  | colspan="4"|  | style="border-width:2px 0 0 0; border-style:solid;border-color:black;"|  | style="border:1px solid \#aaa; background-color:\#f9f9f9"|   | style="text-align:center; border:1px solid \#aaa; background-color:\#f9f9f9"|  | style="border-width:2px 0 0 0; border-style:solid;border-color:black;"|  |- | style="border-width:1px 0px 1px 1px; border-style:solid; border-color:\#aaa \#aaa \#aaa \#aaa; background-color:\#f9f9f9"|   | style="text-align:center; border-width:1px; border-style:solid; border-color:\#aaa \#aaa \#aaa \#aaa; background-color:\#f9f9f9"|  | rowspan="2" style="border-width:2px 2px 2px 0; border-style:solid;border-color:black;"|  | style="border-width:0 0 2px 0; border-style:solid;border-color:black;"|  | style="border:1px solid \#aaa; background-color:\#f9f9f9"|   | style="text-align:center; border:1px solid \#aaa; background-color:\#f9f9f9"|  {{\#if: |
+
+<td colspan="5">
+
+ 
+
+</td>
+
+<td style="border:1px solid #aaa; background-color:#f9f9f9">
+
+ 
+
+</td>
+
+<td style="text-align:center; border:1px solid #aaa; background-color:#f9f9f9">
+
+</td>
+
+}} |- | style="border-width:1px 0px 0px 1px; border-style:solid; border-color:\#aaa \#aaa \#aaa \#aaa; background-color:\#f9f9f9"|   | style="text-align:center; border-width:1px 1px 0px 1px; border-style:solid; border-color:\#aaa \#aaa \#aaa \#aaa; background-color:\#f9f9f9"|  | style="border-width:2px 0 0 0; border-style:solid;border-color:black;"|  | style="border:1px solid \#aaa; background-color:\#f9f9f9"|   | style="text-align:center; border:1px solid \#aaa; background-color:\#f9f9f9"|  | style="border-width:2px 0 0 0; border-style:solid;border-color:black;"|  {{\#if: |
+
+<td colspan="5">
+
+ 
+
+</td>
+
+<td style="border:1px solid #aaa; background-color:#f9f9f9">
+
+ 
+
+</td>
+
+<td style="text-align:center; border:1px solid #aaa; background-color:#f9f9f9">
+
+</td>
+
+}} |- | style="border-width:1px 0px 1px 1px; border-style:solid; border-color:\#aaa \#aaa \#aaa \#aaa; background-color:\#f9f9f9"|   | style="text-align:center; border-width:1px; border-style:solid; border-color:\#aaa \#aaa \#aaa \#aaa; background-color:\#f9f9f9"|  | style="border-width:2px 0 0 0; border-style:solid;border-color:black;"|  |}</onlyinclude>
+
+[분류:16강 틀](https://ko.wikipedia.org/wiki/분류:16강_틀 "wikilink")

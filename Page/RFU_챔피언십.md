@@ -1,0 +1,27 @@
+> This article is converted from Wikipedia: [RFU ](https://ko.wikipedia.org/wiki/RFU_).
+
+
+**RFU 챔피언십**(**RFU Championship**)(2009년까지 **내셔널 디비전 원**)은 1987년 시작하여 2009년 프로화한 [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink")의 2부 프로 [럭비](https://ko.wikipedia.org/wiki/럭비_유니온 "wikilink") 리그이다. 2009-10 시즌부터 12팀으로 이루어져 있으며 1부 리그인 [잉글리시 프리미어십와](https://ko.wikipedia.org/wiki/잉글리시_프리미어십 "wikilink") 3부 리그인 [내셔널 리그 원과](https://ko.wikipedia.org/wiki/내셔널_리그_원 "wikilink") 승강제를 실시하고 있다.
+
+## 팀 ([2011-12](https://ko.wikipedia.org/wiki/2011-12_RFU_챔피언십 "wikilink"))
+
+| 팀                                                             | 경기장                                                                      | 수용인원   | 연고지                                                                                                            |
+| ------------------------------------------------------------- | ------------------------------------------------------------------------ | ------ | -------------------------------------------------------------------------------------------------------------- |
+| [베드포드 블루스](https://ko.wikipedia.org/wiki/베드포드_블루스 "wikilink") | [골딩턴 로드](https://ko.wikipedia.org/wiki/골딩턴_로드 "wikilink")                | 7,000  | [베드포드](https://ko.wikipedia.org/wiki/베드포드 "wikilink"), [베드포드셔](https://ko.wikipedia.org/wiki/베드포드셔 "wikilink") |
+| [브리스틀](https://ko.wikipedia.org/wiki/브리스틀_럭비 "wikilink")      | [메모리얼 스타디움](https://ko.wikipedia.org/wiki/메모리얼_스타디움_\(브리스틀\) "wikilink") | 12,100 | [브리스틀](https://ko.wikipedia.org/wiki/브리스틀 "wikilink")                                                          |
+| [코니시 파이러츠](https://ko.wikipedia.org/wiki/코니시_파이러츠 "wikilink") | [메나예 필드](https://ko.wikipedia.org/wiki/메나예_필드 "wikilink")                | 7,000  | [팬잰스](https://ko.wikipedia.org/wiki/팬잰스 "wikilink")                                                            |
+| [돈캐스터 나이츠](https://ko.wikipedia.org/wiki/돈캐스터_나이츠 "wikilink") | [캐슬 파크](https://ko.wikipedia.org/wiki/캐슬_파크_럭비_스타디움 "wikilink")          | 3,075  | [돈캐스터](https://ko.wikipedia.org/wiki/돈캐스터 "wikilink")                                                          |
+| [에셔](https://ko.wikipedia.org/wiki/에셔_RFC "wikilink")         | [모슬리 로드](https://ko.wikipedia.org/wiki/모슬리_로드 "wikilink")                | ??     | [허샘](https://ko.wikipedia.org/wiki/허샘 "wikilink"), [서레이](https://ko.wikipedia.org/wiki/서레이 "wikilink")         |
+| [리즈 카네기](https://ko.wikipedia.org/wiki/리즈_카네기 "wikilink")     | [헤딩리 카네기 스타디움](https://ko.wikipedia.org/wiki/헤딩리_카네기_스타디움 "wikilink")    | 20,250 | 헤딩리, [리즈](https://ko.wikipedia.org/wiki/리즈 "wikilink")                                                         |
+| [런던 스코티시](https://ko.wikipedia.org/wiki/런던_스코티시 "wikilink")   | [어슬레틱 그라운드](https://ko.wikipedia.org/wiki/어슬레틱_그라운드 "wikilink")          | 4,500  | [런던](https://ko.wikipedia.org/wiki/런던 "wikilink")                                                              |
+| [런던 웰시](https://ko.wikipedia.org/wiki/런던_웰시 "wikilink")       | [올드 디어 파크](https://ko.wikipedia.org/wiki/올드_디어_파크 "wikilink")            | 5,850  | [런던](https://ko.wikipedia.org/wiki/런던 "wikilink")                                                              |
+|                                                               |                                                                          |        |                                                                                                                |
+| [모슬리](https://ko.wikipedia.org/wiki/모슬리_럭비_풋볼_클럽 "wikilink")  | [빌슬리 커먼](https://ko.wikipedia.org/wiki/빌슬리_커먼 "wikilink")                | 3,000+ | [버밍햄](https://ko.wikipedia.org/wiki/버밍햄 "wikilink")                                                            |
+|                                                               |                                                                          |        |                                                                                                                |
+| [노팅엄](https://ko.wikipedia.org/wiki/노팅엄_RFC "wikilink")       | [메도 레인](https://ko.wikipedia.org/wiki/메도_레인 "wikilink")                  | 19,588 | [노팅엄](../Page/노팅엄.md "wikilink")                                                                               |
+|                                                               |                                                                          |        |                                                                                                                |
+| [플리머스 알비온](https://ko.wikipedia.org/wiki/플리머스_알비온 "wikilink") | [더 브릭필드스](https://ko.wikipedia.org/wiki/더_브릭필드스 "wikilink")              | 6,500  | [플리머스](https://ko.wikipedia.org/wiki/플리머스 "wikilink")                                                          |
+|                                                               |                                                                          |        |                                                                                                                |
+| [로더럼 타이탄스](https://ko.wikipedia.org/wiki/로더럼_타이탄스 "wikilink") | [클리프턴 레인](https://ko.wikipedia.org/wiki/클리프턴_레인 "wikilink")              | 2,500  | [로더럼](https://ko.wikipedia.org/wiki/로더럼 "wikilink")                                                            |
+
+[RFU_챔피언십](https://ko.wikipedia.org/wiki/분류:RFU_챔피언십 "wikilink") [2](https://ko.wikipedia.org/wiki/분류:럭비_대회 "wikilink") [분류:1987년 설립된 스포츠 리그](https://ko.wikipedia.org/wiki/분류:1987년_설립된_스포츠_리그 "wikilink")

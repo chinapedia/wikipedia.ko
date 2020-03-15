@@ -1,0 +1,77 @@
+> This article is converted from Wikipedia: [TS ](https://ko.wikipedia.org/wiki/TS_).
+
+
+**TS 엔터테인먼트**(TS Entertainment)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 연예기획사이다.
+
+## 연혁
+
+TS 엔터테인먼트는 2008년 10월 김태송이 10일 [언터쳐블을](https://ko.wikipedia.org/wiki/언터쳐블_\(음악_그룹\) "wikilink") 싱글 앨범 **It's Okay**로 오버그라운드로 데뷔시키면서\[1\] 시작하였다.
+
+2009년 10월, TS 엔터테인먼트의 4인조 걸그룹 [시크릿이](https://ko.wikipedia.org/wiki/시크릿_\(음악_그룹\) "wikilink") 데뷔하였다. 시크릿은 데뷔 전 [엠넷](../Page/엠넷.md "wikilink")의 리얼리티 쇼인 《시크릿 스토리》로 먼저 대중에게 소개되었으며, 이후 2009년 10월 13일에, 싱글 앨범 **I Want You Back**을 발표하였다.
+
+2011년 7월, TS 엔터테인먼트는 일본 도쿄에 TS Japan을 설립하였다.\[2\]
+
+2012년 1월, TS 엔터테인먼트의 6인조 남성 아이돌 그룹 [B.A.P](../Page/B.A.P.md "wikilink")가 데뷔하였다. B.A.P는 데뷔 전부터 [SBS MTV의](../Page/SBS_MTV.md "wikilink") 다큐멘터리, 《Ta-Dah\! It's B.A.P》를 통해 이름을 알렸으며, 2012년 1월 26일에 데뷔 앨범인 **Warrior**를 발표하였다.\[3\] 2014년 11월 B.A.P가 TS엔터테인먼트를 상대로 전속계약 무효 소송을 제기하였다.
+
+2014년 12월, TS 엔터테인먼트의 7인조 걸그룹 [소나무가](../Page/소나무_\(음악_그룹\).md "wikilink") 데뷔하였다. 2017년 3월 직원 임금 체불이 기사화 됐다. 2017년 10월, TS 엔터테인먼트의 10인조 남성 아이돌 그룹 [TRCNG](../Page/TRCNG.md "wikilink")가 데뷔하였다. 2018년 4월 27일, 김태송 대표가 사망하였다.\[4\]
+
+2019년 9월 23일, 소속 그룹 소나무에서 수민과 나현이 탈퇴했고 이 두 사람은 곧 TS엔터테인먼트를 상대로 소송전에 휘말렸다. 9월 25일, TS엔터테인먼트의 실장과 [슬리피](../Page/슬리피.md "wikilink")의 매니저간 전화통화에서 TS엔터테인먼트 실장이 스스로 현직 [조직폭력배](https://ko.wikipedia.org/wiki/조직폭력배 "wikilink")라는 것을 밝혀 논란이 되고 있다. [그 통화의 녹취록이 유튜브에 올라가 있다.](https://www.youtube.com/watch?v=XeJNmk7mcug)
+
+2019년 11월, [TRCNG](../Page/TRCNG.md "wikilink")의 멤버 [태선과](https://ko.wikipedia.org/wiki/태선_\(가수\) "wikilink") 우엽이 탈퇴함과 동시에 TS엔터테인먼트 안무팀장 등 2명을 **아동학대**, **특수폭행** 등의 혐의로 경찰에 형사고소했다. 내용인즉 태선과 우엽에게 다니고 있던 고등학교를 강제로 자퇴시키고 특히 우엽의 경우는 안무팀장이 접이식 철제 의자로 폭행해서 전치 2주의 상해를 입혀서 우엽이 병원에 입원하기까지 했다.\[5\]
+
+## 소속 연예인
+
+| 소속 연예인                                     | 직업                                                                                                                                                                                                                                         | 구성원                                                      | 리더                                                                                                                  | 데뷔                                                                              | 이전 구성원 | 해체 |
+| ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------ | -- |
+| [정하나](../Page/정하나.md "wikilink")           | 가수                                                                                                                                                                                                                                         | \-                                                       | \-                                                                                                                  | [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")                         | \-     | \- |
+| [소나무](../Page/소나무_\(음악_그룹\).md "wikilink") | [민재](https://ko.wikipedia.org/wiki/민재_\(1994년\) "wikilink"), [디애나](https://ko.wikipedia.org/wiki/디애나_\(가수\) "wikilink"), [의진](../Page/의진_\(여자_가수\).md "wikilink"), [하이디](../Page/하이디_\(가수\).md "wikilink"), [뉴썬](../Page/뉴썬.md "wikilink") | [의진](../Page/의진_\(여자_가수\).md "wikilink")                 | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [12월 29일](https://ko.wikipedia.org/wiki/12월_29일 "wikilink") | [수민](../Page/수민_\(1994년\).md "wikilink"), [나현](../Page/나현_\(가수\).md "wikilink") | \-     |    |
+| [TRCNG](../Page/TRCNG.md "wikilink")       | 하영, [지훈](https://ko.wikipedia.org/wiki/지훈_\(가수\) "wikilink"), 학민, 지성, 현우, 시우, 호현, 강민                                                                                                                                                       | [지훈](https://ko.wikipedia.org/wiki/지훈_\(가수\) "wikilink") | [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [10월 10일](https://ko.wikipedia.org/wiki/10월_10일 "wikilink") | [태선](https://ko.wikipedia.org/wiki/태선_\(가수\) "wikilink"), 우엽                    | \-     |    |
+|                                            |                                                                                                                                                                                                                                            |                                                          |                                                                                                                     |                                                                                 |        |    |
+
+## 연도별 배출 아티스트
+
+| 연도   | 아티스트                                                            | 형태                                                                                                                                                                                                                                         | 구성원                                                                                   | 데뷔연도                                                                | 풍선색                                                          | 팬클럽                                                      | 리더                                                                                                     | 이전 구성원                                                                                                                                            | 해체      |
+| ---- | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------ | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| 2008 | [언터쳐블](https://ko.wikipedia.org/wiki/언터쳐블_\(음악_그룹\) "wikilink") | 듀오                                                                                                                                                                                                                                         | [슬리피](../Page/슬리피.md "wikilink"), [디액션](https://ko.wikipedia.org/wiki/디액션 "wikilink") | 2006                                                                | 없음                                                           | The Untouchable                                          | [슬리피](../Page/슬리피.md "wikilink")                                                                       | \-                                                                                                                                                | \-      |
+| 2009 | [시크릿](https://ko.wikipedia.org/wiki/시크릿_\(음악_그룹\) "wikilink")   | 그룹                                                                                                                                                                                                                                         | [정하나](../Page/정하나.md "wikilink")                                                      | 2009                                                                | style="background:\#FFFFFF; | [하양](../Page/하양.md "wikilink") | Secret Time                                              | 없음                                                                                                     | [한선화](https://ko.wikipedia.org/wiki/한선화 "wikilink"), [송지은](../Page/송지은_\(가수\).md "wikilink"), [전효성](https://ko.wikipedia.org/wiki/전효성 "wikilink") | \-\[6\] |
+| 2012 | [B.A.P.](https://ko.wikipedia.org/wiki/B.A.P. "wikilink")       | [힘찬](https://ko.wikipedia.org/wiki/힘찬 "wikilink"), [대현](../Page/대현_\(가수\).md "wikilink"), [영재](../Page/영재_\(1994년\).md "wikilink"), [종업](https://ko.wikipedia.org/wiki/종업 "wikilink")                                                      | 2012                                                                                  | style="background:\#00FF7F; | [스프링 그린](../Page/초록.md "wikilink")    | BABY                                                         | 없음                                                       | [방용국](https://ko.wikipedia.org/wiki/방용국 "wikilink"), [젤로](https://ko.wikipedia.org/wiki/젤로 "wikilink") | 2019                                                                                                                                              |         |
+| 2014 | [소나무](../Page/소나무_\(음악_그룹\).md "wikilink")                      | [민재](https://ko.wikipedia.org/wiki/민재_\(1994년\) "wikilink"), [디애나](https://ko.wikipedia.org/wiki/디애나_\(가수\) "wikilink"), [의진](../Page/의진_\(여자_가수\).md "wikilink"), [하이디](../Page/하이디_\(가수\).md "wikilink"), [뉴썬](../Page/뉴썬.md "wikilink") | 2014                                                                                  | style="background:\#009E76; | [펄 사파이어 그린](../Page/초록.md "wikilink") | 솔방울                                                          | [의진](../Page/의진_\(여자_가수\).md "wikilink")                 | [수민](../Page/수민_\(1994년\).md "wikilink"), [나현](../Page/나현_\(가수\).md "wikilink")                        | \-                                                                                                                                                |         |
+| 2017 | [TRCNG](../Page/TRCNG.md "wikilink")                            | 하영, [지훈](https://ko.wikipedia.org/wiki/지훈_\(가수\) "wikilink"), 학민, 지성, 현우, 시우, 호현, 강민                                                                                                                                                       | 2017                                                                                  | 미정                                                                  | Champion                                                     | [지훈](https://ko.wikipedia.org/wiki/지훈_\(가수\) "wikilink") | [태선](https://ko.wikipedia.org/wiki/태선_\(가수\) "wikilink"), 우엽                                           | \-                                                                                                                                                |         |
+|      |                                                                 |                                                                                                                                                                                                                                            |                                                                                       |                                                                     |                                                              |                                                          |                                                                                                        |                                                                                                                                                   |         |
+
+## 과거 소속
+
+  - [뉴챔프](../Page/뉴챔프.md "wikilink")
+  - 오진석
+  - [손헌수](../Page/손헌수.md "wikilink")
+  - [한선화](https://ko.wikipedia.org/wiki/한선화 "wikilink") ([시크릿](https://ko.wikipedia.org/wiki/시크릿_\(음악_그룹\) "wikilink") 전 멤버)
+  - [전효성](https://ko.wikipedia.org/wiki/전효성 "wikilink") ([시크릿](https://ko.wikipedia.org/wiki/시크릿_\(음악_그룹\) "wikilink") 전 멤버)
+  - [송지은](../Page/송지은_\(가수\).md "wikilink") ([시크릿](https://ko.wikipedia.org/wiki/시크릿_\(음악_그룹\) "wikilink") 전 멤버)
+  - [한수연](https://ko.wikipedia.org/wiki/한수연 "wikilink")
+  - [방용국](https://ko.wikipedia.org/wiki/방용국 "wikilink") ([B.A.P](../Page/B.A.P.md "wikilink") 전 멤버)
+  - [젤로](https://ko.wikipedia.org/wiki/젤로 "wikilink") ([B.A.P](../Page/B.A.P.md "wikilink") 전 멤버)
+  - [B.A.P](../Page/B.A.P.md "wikilink") ([힘찬](https://ko.wikipedia.org/wiki/힘찬 "wikilink"), [대현](../Page/대현_\(가수\).md "wikilink"), [영재](../Page/영재_\(1994년\).md "wikilink"), [종업](https://ko.wikipedia.org/wiki/종업 "wikilink"))
+  - [언터쳐블](https://ko.wikipedia.org/wiki/언터쳐블 "wikilink")
+  - [수민](../Page/수민_\(1994년\).md "wikilink") ([소나무](../Page/소나무_\(음악_그룹\).md "wikilink") 전 멤버)
+  - [나현](../Page/나현_\(가수\).md "wikilink") ([소나무](../Page/소나무_\(음악_그룹\).md "wikilink") 전 멤버)
+  - [태선](https://ko.wikipedia.org/wiki/태선_\(가수\) "wikilink") ([TRCNG](../Page/TRCNG.md "wikilink") 전 멤버)
+  - 우엽 ([TRCNG](../Page/TRCNG.md "wikilink") 전 멤버)
+
+## 디스코그래피
+
+## 각주
+
+## 외부 링크
+
+  -
+  -
+  -
+  -
+[분류:대한민국의 연예 기획사](https://ko.wikipedia.org/wiki/분류:대한민국의_연예_기획사 "wikilink") [분류:2008년 설립](https://ko.wikipedia.org/wiki/분류:2008년_설립 "wikilink")
+
+1.
+2.
+3.
+4.
+5.  ['TRCNG' 우엽·태선, TS엔터 형사 고소…"아동학대·특수폭행, 처벌 요구”](https://entertain.naver.com/read?oid=433&aid=0000064510), 디스패치. 2019년 11월 18일.
+6.  2016년 이후 활동을 하지않음.

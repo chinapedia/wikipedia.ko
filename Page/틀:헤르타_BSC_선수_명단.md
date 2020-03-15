@@ -1,0 +1,6 @@
+> This article is converted from Wikipedia: [: BSC  ](https://ko.wikipedia.org/wiki/:_BSC__).
+
+
+<onlyinclude></onlyinclude>
+
+[분류:독일 축구단의 선수 명단 틀](https://ko.wikipedia.org/wiki/분류:독일_축구단의_선수_명단_틀 "wikilink") [분류:헤르타 BSC](https://ko.wikipedia.org/wiki/분류:헤르타_BSC "wikilink")<noinclude> </noinclude>

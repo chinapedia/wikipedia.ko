@@ -1,0 +1,14 @@
+> This article is converted from Wikipedia: [P.B.S. ](https://ko.wikipedia.org/wiki/P.B.S._).
+
+
+**핑크니 벤턴 스튜어트 핀치백**(Pinckney Benton Stewart Pinchback, [1837년](https://ko.wikipedia.org/wiki/1837년 "wikilink") [5월 10일](https://ko.wikipedia.org/wiki/5월_10일 "wikilink") \~ [1921년](https://ko.wikipedia.org/wiki/1921년 "wikilink") [12월 21일](https://ko.wikipedia.org/wiki/12월_21일 "wikilink"))는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 정치인이며, [1872년](https://ko.wikipedia.org/wiki/1872년 "wikilink") [12월](https://ko.wikipedia.org/wiki/12월 "wikilink")부터 35일간 [루이지애나주](https://ko.wikipedia.org/wiki/루이지애나주 "wikilink") 지사를 지냈다.
+
+[조지아주](https://ko.wikipedia.org/wiki/조지아주 "wikilink") 메이콘에서 [농장](https://ko.wikipedia.org/wiki/농장 "wikilink") 경영인 아버지와 해방 [노예](https://ko.wikipedia.org/wiki/노예 "wikilink") 어머니 사이에서 태어났는 데, 그의 핏줄은 복잡하다고 알려져있다.
+
+[공화당](https://ko.wikipedia.org/wiki/공화당_\(미국\) "wikilink") 소속인 그는 [1871년](https://ko.wikipedia.org/wiki/1871년 "wikilink") 루이지애나 주의 부지사가 되었고, [1872년](https://ko.wikipedia.org/wiki/1872년 "wikilink")과 [1873년](https://ko.wikipedia.org/wiki/1873년 "wikilink") [헨리 C. 워머스](https://ko.wikipedia.org/wiki/헨리_C._워머스 "wikilink") 지사의 탄핵으로 6주간 주지사의 직무 대행으로 근무하였다. [흑인으로서](https://ko.wikipedia.org/wiki/아프리카계_미국인 "wikilink") 최초의 주지사가 되어 35일간 그 직에 있었다. 1872년에는 [하원 의원에](https://ko.wikipedia.org/wiki/하원_의원 "wikilink"), 1873년에는 [상원에](https://ko.wikipedia.org/wiki/미국_상원 "wikilink") 선출되었다. 그의 상대들은 두차례의 선거에서 법률을 어겨진 것을 고소하였다. 루이지애나의 백인 공무원들이 법적으로 선출되어 같은 진행으로 선택되었음에도 불구하고, 상·하원 양쪽에서는 핀치백의 의원직을 거부하였다.
+
+[1870년](https://ko.wikipedia.org/wiki/1870년 "wikilink")부터 [1881년](https://ko.wikipedia.org/wiki/1881년 "wikilink")까지 주간 신문 루이지에이니언(The Louisianian)을 발간하였다.
+
+[1921년](https://ko.wikipedia.org/wiki/1921년 "wikilink") [12월 21일](https://ko.wikipedia.org/wiki/12월_21일 "wikilink") [워싱턴 D.C.에서](https://ko.wikipedia.org/wiki/워싱턴_D.C. "wikilink") 84세의 나이로 사망하였다.
+
+[분류:1837년 태어남](https://ko.wikipedia.org/wiki/분류:1837년_태어남 "wikilink") [분류:1921년 죽음](https://ko.wikipedia.org/wiki/분류:1921년_죽음 "wikilink") [분류:미국의 정치인](https://ko.wikipedia.org/wiki/분류:미국의_정치인 "wikilink") [분류:루이지애나주지사](https://ko.wikipedia.org/wiki/분류:루이지애나주지사 "wikilink") [분류:딜라드 대학교 동문](https://ko.wikipedia.org/wiki/분류:딜라드_대학교_동문 "wikilink") [분류:아프리카계 미국인 주지사](https://ko.wikipedia.org/wiki/분류:아프리카계_미국인_주지사 "wikilink") [분류:메이컨 (조지아주) 출신](https://ko.wikipedia.org/wiki/분류:메이컨_\(조지아주\)_출신 "wikilink") [분류:공화당 (미국)의 정치인](https://ko.wikipedia.org/wiki/분류:공화당_\(미국\)의_정치인 "wikilink") [분류:독일계 미국인](https://ko.wikipedia.org/wiki/분류:독일계_미국인 "wikilink") [분류:아일랜드계 미국인](https://ko.wikipedia.org/wiki/분류:아일랜드계_미국인 "wikilink") [분류:웨일스계 미국인](https://ko.wikipedia.org/wiki/분류:웨일스계_미국인 "wikilink")

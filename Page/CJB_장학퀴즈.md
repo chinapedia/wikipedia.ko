@@ -1,0 +1,257 @@
+> This article is converted from Wikipedia: [CJB ](https://ko.wikipedia.org/wiki/CJB_).
+
+
+《**CJB 장학퀴즈**》는 [CJB에서](../Page/청주방송.md "wikilink") 방송했던 [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") 지역의 인재 양성 프로그램으로 고등학생을 대상으로 하는 퀴즈 프로그램이다. 방영시간은 매주 토요일 오전 10:55 \~ 11:50이다.
+
+## 역대 진행자
+
+| 진행자                                                 | 진행 기간                                                                                                                                                                                                                                    |
+| --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [최지현](https://ko.wikipedia.org/wiki/최지현 "wikilink") | [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [6월 2일](https://ko.wikipedia.org/wiki/6월_2일 "wikilink") \~ [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [9월 8일](https://ko.wikipedia.org/wiki/9월_8일 "wikilink")       |
+| [안정은](https://ko.wikipedia.org/wiki/안정은 "wikilink") | [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [9월 15일](https://ko.wikipedia.org/wiki/9월_15일 "wikilink") \~ [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [12월 27일](https://ko.wikipedia.org/wiki/12월_27일 "wikilink") |
+| [황수동](https://ko.wikipedia.org/wiki/황수동 "wikilink") | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [1월 5일](https://ko.wikipedia.org/wiki/1월_5일 "wikilink") , [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [12월 28일](https://ko.wikipedia.org/wiki/12월_28일 "wikilink")    |
+|                                                     |                                                                                                                                                                                                                                          |
+
+## 방송시간
+
+| 방송기간                                                                                                                                                                                                                                          | 방송시간                    |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [6월 2일](https://ko.wikipedia.org/wiki/6월_2일 "wikilink") \~ [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [12월 27일](https://ko.wikipedia.org/wiki/12월_27일 "wikilink")(본방송)   | 토요일 오전 10시 55분 \~ 12시   |
+| [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [6월 20일](https://ko.wikipedia.org/wiki/6월_20일 "wikilink") \~ [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [12월 27일](https://ko.wikipedia.org/wiki/12월_27일 "wikilink")(재방송) | 목요일 오후 2시 10분 \~ 3시 15분 |
+|                                                                                                                                                                                                                                               |                         |
+
+## 진행방식
+
+  - CJB 장학퀴즈 3000은 4명의 학생이 100점의 기본 점수를 갖고 3라운드 방식으로 진행하며 주장원과 월장원을 거쳐 연장원으로 올라가는 형식을 취하고 있다.
+  - 월장원전은 방송 회차가 1기는 5배수일 때, 2기는 2 또는 7로 끝날 때, 3기는 1 또는 6으로 끝날 때에 진행되는 것을 원칙으로 하며 방송사 측의 사정으로 인해 변경될 수 있다.
+  - 주장원의 장학금은 100만원, 월장원의 장학금은 200만원, 연장원의 장학금은 3000만원(2기에서는 2000만원)으로 책정되어 있다.
+
+### 1라운드
+
+  - OX 퀴즈와 객관식 퀴즈가 각 5문제 출제된다.\[1\]
+  - 문제당 10점이며 모니터에 정답을 적는 형식을 취한다.
+  - 중간에 **이심전심 퀴즈** 라고 하는 보너스 퀴즈가 1문제 출제되며 2인 1팀으로 각각 2음절을 적어 4음절의 정답을 완성한다.
+  - 이 때 2인이 모두 답을 맞히면 보너스 점수와 상품을 받을 수 있으나 2인중 1명이라도 맞히지 못하면 맞힌 1인도 점수를 받을 수 없다.
+
+### 2라운드
+
+  - 주관식 퀴즈 5문제와 스피드 퀴즈 7문제가 출제된다.\[2\]
+  - 문제당 20점이며 주관식 퀴즈는 1라운드와 마찬가지로 모니터에 정답을 적으며 스피드 퀴즈는 버저를 눌러 정답을 직접 말한다.
+  - 스피드 퀴즈에서는 1인 1회 더블 찬스를 사용할 수 있으며 이 때 더블 찬스를 사용하는 학생부터 먼저 정답을 말할 수 있다.
+  - 더블 찬스 성공 시 40점을 얻을 수 있으나 더블 찬스 실패 시 20점이 감점된다.
+  - 2라운드 종료 후 점수가 높은 2인이 결승에 진출하며 출연한 4인이 모두 답을 맞히지 못할 경우 해당 문제는 시청자 퀴즈로 전환한다.
+
+### 3라운드
+
+  - 2라운드를 통과한 2인이 장원의 자리를 놓고 연상 퀴즈 대결을 벌인다.
+  - 각각의 제시어를 듣고 4문제를 먼저 맞히는 학생이 장원의 자리에 등극한다.
+  - 2라운드까지 획득한 점수는 3라운드로 이어지지 않는다.
+
+## 1기 연장원전 진행방식
+
+  - 역대 월장원전에 등극한 6명이 a,b조 각각 3명 씩 나누어 대결을 펼쳐서 각조 1위가 결승에 진출하며, 결승전에 진출한 2학생이 대결을 펼쳐 우승자를 가린다.\[3\]
+  - 예선전은 a,b조에 있는 3명이 대결을 펼쳐서 각조 1위가 결승에 진출한다.\[4\]
+  - 결승전은 1기 3라운드 형식과 동일하며, 제시어에 따라 40,30,20,10점 순으로 차등 배점된다. 문제를 계속 풀다가 먼저 100점 이상을 획득한 학생이 연장원으로 등극한다.
+
+## 2기 진행방식
+
+  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [3월 2일](https://ko.wikipedia.org/wiki/3월_2일 "wikilink") 33회차 부터 방영을 개시한 2기는 1기 형식과 유사하게 진행되며, 중간중간에 새로운 규칙을 적용하였다.
+  - 통통(通通)퀴즈 : 두 참가자가 짝을 이뤄 60초 간 스피드 퀴즈를 풀어서 많이 맞힌 팀에게 20점 씩 부여된다.
+  - 더블찬스는 해당 학생이 친구와 같이 문제를 풀 수 있으며, 더블찬스에 성공하면 문제를 같이 푼 친구에게는 선물이 돌아간다.
+  - 결승전 연상퀴즈는 1기 연장원 형식과 동일하다.
+
+## 2기 연장원전 진행방식
+
+### 연장원 진출전
+
+#### 1라운드
+
+  - 첫 번째 유형 : 있다 없다 퀴즈(개인별로 3문제 부여, 한 문제 당 10점)
+  - 그 뒤 형식은 예전 1라운드 형식과 동일하다.(예전처럼 기본점수 100점 없이 시작)
+
+#### 2라운드
+
+  - 첫 번째 유형 : 주관식 퀴즈로 전과 동일한 형식으로 진행된다.
+  - 두 번째 유형 : what's up? 퀴즈 - 시민들의 반응을 본 뒤 정답을 유추하는 형식으로, 역시 공통문제로 주어진다(배점 20점)
+  - 세 번째 유형 : 사다리 퀴즈 - 출연학생은 장,학,퀴,즈 네 개의 제시어 중 하나를 선택해서 개인전으로 문제를 풀며, 선택한 제시어가 도달된 유형을 푸는 형식.
+  - 힌트로는 초성, 연상, 영상으로 주어진다(꽝도 있음, 단 꽝이더라도 문제를 풀 기회는 주어진다)
+
+#### 3라운드
+
+  - 첫 번째 유형 : 주관식 스피드 퀴즈로 전과 동일한 형식으로 진행된다.
+  - 두 번째 유형 : 더블더블 퀴즈 - 출연학생이 미리 지정한 분야를 1단계,2단계로 나누어 푸는 대결, 1단계 성공시 20점 획득과 2단계에서 30점을 획득할 수 있는 기회가 주어진다. 도전학생이 해당 문제를 맞히지 못할 경우, 기회는 다른 세 학생에게 넘어가게 된다.
+  - 문제를 다 풀고, 상위 2명이 연장원전에 진출한다.
+
+<!-- end list -->
+
+  - 연장원은 있다 없다 퀴즈가 진행된 다음 2기 예전 형식으로 진행된다.(단, 통통퀴즈는 생략됨)
+
+## 3기 진행방식
+
+### 1라운드
+
+  - 예전 진행방식과 동일하다.
+
+### 2-1라운드 - 1+1 주관식
+
+  - C,J,B,장,학,퀴,즈,S,3 아홉개의 글자 중에서 하나를 선택해서, 해당하는 키워드를 푼다.
+  - 문제 푸는 순서는 점수가 높은 사람부터 진행한다.
+  - 배점은 20점,30점으로 최대 60점까지 획득가능, 성공하면 문제를 계속 풀 수 있으나 실패하면 문제 풀 기회가 상실된다.
+  - 그 뒤 형식은 전과 동일하다.(더블찬스는 예전처럼 혼자 푸는 형식으로 바뀌며, 2라운드에서 단독 1위로 올라온 학생에게는 기본점수 10점이 주어진다.)
+
+## 역대 우승자 목록
+
+### 1기
+
+| 회차  | 방송일                                                                                                                 | 이름  | 출신학교                                                                    | 등급                                         | 비고                                     |
+| --- | ------------------------------------------------------------------------------------------------------------------- | --- | ----------------------------------------------------------------------- | ------------------------------------------ | -------------------------------------- |
+| 1회  | [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [6월 2일](https://ko.wikipedia.org/wiki/6월_2일 "wikilink")     | 권오찬 | [충북과학고등학교](https://ko.wikipedia.org/wiki/충북과학고등학교 "wikilink")           | 주장원                                        |                                        |
+| 2회  | [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [6월 9일](https://ko.wikipedia.org/wiki/6월_9일 "wikilink")     | 김준형 | [충주고등학교](../Page/충주고등학교.md "wikilink")                                  |                                            |                                        |
+| 3회  | [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [6월 16일](https://ko.wikipedia.org/wiki/6월_16일 "wikilink")   | 장지영 | [청주여자고등학교](../Page/청주여자고등학교.md "wikilink")                              |                                            |                                        |
+| 4회  | [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [6월 23일](https://ko.wikipedia.org/wiki/6월_23일 "wikilink")   | 강대건 | [세광고등학교](../Page/세광고등학교.md "wikilink")                                  |                                            |                                        |
+| 5회  | [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [6월 30일](https://ko.wikipedia.org/wiki/6월_30일 "wikilink")   | 권오찬 | 충북과학고등학교                                                                | <span style="color:silver;">**월장원**</span> |                                        |
+| 6회  | [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [7월 7일](https://ko.wikipedia.org/wiki/7월_7일 "wikilink")     | 박대호 | [한국바이오마이스터고등학교](https://ko.wikipedia.org/wiki/한국바이오마이스터고등학교 "wikilink") | 주장원                                        |                                        |
+| 7회  | [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [7월 14일](https://ko.wikipedia.org/wiki/7월_14일 "wikilink")   | 이병진 | [진천고등학교](../Page/진천고등학교.md "wikilink")                                  |                                            |                                        |
+| 8회  | [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [7월 21일](https://ko.wikipedia.org/wiki/7월_21일 "wikilink")   | 이상찬 | [청주고등학교](../Page/청주고등학교.md "wikilink")                                  |                                            |                                        |
+| 9회  | [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [7월 28일](https://ko.wikipedia.org/wiki/7월_28일 "wikilink")   | 이예찬 | [충북고등학교](https://ko.wikipedia.org/wiki/충북고등학교 "wikilink")               |                                            |                                        |
+| 10회 | [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [8월 4일](https://ko.wikipedia.org/wiki/8월_4일 "wikilink")     | 이예찬 | 충북고등학교                                                                  | <span style="color:silver;">**월장원**</span> |                                        |
+| 11회 | [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [8월 11일](https://ko.wikipedia.org/wiki/8월_11일 "wikilink")   | 김선  | [충북여자고등학교](https://ko.wikipedia.org/wiki/충북여자고등학교 "wikilink")           | 주장원                                        |                                        |
+| 12회 | [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [8월 18일](https://ko.wikipedia.org/wiki/8월_18일 "wikilink")   | 박상원 | 충북과학고등학교                                                                |                                            |                                        |
+| 13회 | [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [8월 25일](https://ko.wikipedia.org/wiki/8월_25일 "wikilink")   | 김상필 | [보은고등학교](../Page/보은고등학교.md "wikilink")                                  |                                            |                                        |
+| 14회 | [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [9월 1일](https://ko.wikipedia.org/wiki/9월_1일 "wikilink")     | 허범안 | [제천고등학교](../Page/제천고등학교.md "wikilink")                                  |                                            |                                        |
+| 15회 | [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [9월 8일](https://ko.wikipedia.org/wiki/9월_8일 "wikilink")     | 김상필 | 보은고등학교                                                                  | <span style="color:silver;">**월장원**</span> |                                        |
+| 16회 | [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [9월 15일](https://ko.wikipedia.org/wiki/9월_15일 "wikilink")   | 김유신 | [청원고등학교](https://ko.wikipedia.org/wiki/청원고등학교_\(충북\) "wikilink")        | 주장원                                        | 개편: mc는 안정은 아나운서, 방송시간은 am 11\~12시로 변경 |
+| 17회 | [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [9월 22일](https://ko.wikipedia.org/wiki/9월_22일 "wikilink")   | 민병길 | [청석고등학교](https://ko.wikipedia.org/wiki/청석고등학교 "wikilink")               | 첫 패자부활전                                    |                                        |
+| 18회 | [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [9월 29일](https://ko.wikipedia.org/wiki/9월_29일 "wikilink")   | 김혁준 | [양업고등학교](https://ko.wikipedia.org/wiki/양업고등학교 "wikilink")               |                                            |                                        |
+| 19회 | [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [10월 6일](https://ko.wikipedia.org/wiki/10월_6일 "wikilink")   | 유영태 | [청주신흥고등학교](../Page/청주신흥고등학교.md "wikilink")                              |                                            |                                        |
+| 20회 | [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [10월 13일](https://ko.wikipedia.org/wiki/10월_13일 "wikilink") | 유영태 | 청주신흥고등학교                                                                | <span style="color:silver;">**월장원**</span> |                                        |
+| 21회 | [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [10월 20일](https://ko.wikipedia.org/wiki/10월_20일 "wikilink") | 최민혜 | [세명고등학교](../Page/세명고등학교_\(충북\).md "wikilink")                           | 주장원                                        |                                        |
+| 22회 | [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [10월 27일](https://ko.wikipedia.org/wiki/10월_27일 "wikilink") | 이재인 | 충북 청주 청석고등학교                                                            |                                            |                                        |
+| 23회 | [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [11월 3일](https://ko.wikipedia.org/wiki/11월_3일 "wikilink")   | 오수진 | [청주대성고등학교](../Page/청주대성고등학교.md "wikilink")                              |                                            |                                        |
+| 24회 | [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [11월 10일](https://ko.wikipedia.org/wiki/11월_10일 "wikilink") | 이소현 | [제천여자고등학교](https://ko.wikipedia.org/wiki/제천여자고등학교 "wikilink")           |                                            |                                        |
+| 25회 | [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [11월 17일](https://ko.wikipedia.org/wiki/11월_17일 "wikilink") | 이소현 | 제천여자고등학교                                                                | <span style="color:silver;">**월장원**</span> |                                        |
+| 26회 | [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [11월 24일](https://ko.wikipedia.org/wiki/11월_24일 "wikilink") | 홍경원 | [금천고등학교](../Page/금천고등학교_\(충북\).md "wikilink")                           | 주장원                                        |                                        |
+| 27회 | [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [12월 1일](https://ko.wikipedia.org/wiki/12월_1일 "wikilink")   | 함윤수 | [산남고등학교](https://ko.wikipedia.org/wiki/산남고등학교 "wikilink")               |                                            |                                        |
+| 28회 | [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [12월 8일](https://ko.wikipedia.org/wiki/12월_8일 "wikilink")   | 손동준 | 제천고등학교                                                                  |                                            |                                        |
+| 29회 | [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [12월 15일](https://ko.wikipedia.org/wiki/12월_15일 "wikilink") | 신동욱 | 세광고등학교                                                                  | 두 번째 패자부활전, 1기 마지막 주장원전                    |                                        |
+| 30회 | [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [12월 22일](https://ko.wikipedia.org/wiki/12월_22일 "wikilink") | 홍경원 | 금천고등학교                                                                  | <span style="color:silver;">**월장원**</span> | 1기 마지막 월장원전                            |
+| 31회 | [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [12월 29일](https://ko.wikipedia.org/wiki/12월_29일 "wikilink") | 권오찬 | 충북과학고등학교                                                                | <span style="color:gold;">**연장원**</span>   | 1기 연장원전, 준우승자 김상필에게는 노트북 부여\[5\]       |
+|     |                                                                                                                     |     |                                                                         |                                            |                                        |
+
+### 2기
+
+| 회차  | 방송일                                                                                                                 | 이름  | 출신학교                                                             | 등급                                         | 비고                           |
+| --- | ------------------------------------------------------------------------------------------------------------------- | --- | ---------------------------------------------------------------- | ------------------------------------------ | ---------------------------- |
+| 33회 | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [3월 2일](https://ko.wikipedia.org/wiki/3월_2일 "wikilink")     | 장민지 | [일신여자고등학교](https://ko.wikipedia.org/wiki/일신여자고등학교 "wikilink")    | 주장원                                        | 2기 첫방송                       |
+| 34회 | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [3월 9일](https://ko.wikipedia.org/wiki/3월_9일 "wikilink")     | 조정수 | 청원고등학교                                                           |                                            |                              |
+| 35회 | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [3월 16일](https://ko.wikipedia.org/wiki/3월_16일 "wikilink")   | 이기수 | [충북대학교 사범대학 부설고등학교](../Page/충북대학교_사범대학_부설고등학교.md "wikilink")     |                                            |                              |
+| 36회 | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [3월 23일](https://ko.wikipedia.org/wiki/3월_23일 "wikilink")   | 유민주 | 청원고등학교                                                           |                                            |                              |
+| 37회 | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [3월 30일](https://ko.wikipedia.org/wiki/3월_30일 "wikilink")   | 조정수 | 청원고등학교                                                           | <span style="color:silver;">**월장원**</span> |                              |
+| 38회 | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [4월 6일](https://ko.wikipedia.org/wiki/4월_6일 "wikilink")     | 강혜윤 | [중산고등학교](https://ko.wikipedia.org/wiki/중산고등학교 "wikilink")        | 주장원                                        |                              |
+| 39회 | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [4월 13일](https://ko.wikipedia.org/wiki/4월_13일 "wikilink")   | 신지환 | [한국교원대학교 부설고등학교](../Page/한국교원대학교_부설고등학교.md "wikilink")           |                                            |                              |
+| 40회 | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [4월 20일](https://ko.wikipedia.org/wiki/4월_20일 "wikilink")   | 오현근 | [운호고등학교](https://ko.wikipedia.org/wiki/운호고등학교 "wikilink")        |                                            |                              |
+| 41회 | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [4월 27일](https://ko.wikipedia.org/wiki/4월_27일 "wikilink")   | 이하경 | [상당고등학교](https://ko.wikipedia.org/wiki/상당고등학교 "wikilink")        |                                            |                              |
+| 42회 | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [5월 4일](https://ko.wikipedia.org/wiki/5월_4일 "wikilink")     | 신지환 | 한국교원대학교 부설고등학교                                                   | <span style="color:silver;">**월장원**</span> |                              |
+| 43회 | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [5월 11일](https://ko.wikipedia.org/wiki/5월_11일 "wikilink")   | 연승하 | [서원고등학교](https://ko.wikipedia.org/wiki/서원고등학교_\(충북\) "wikilink") | 주장원                                        |                              |
+| 44회 | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [5월 18일](https://ko.wikipedia.org/wiki/5월_18일 "wikilink")   | 강창현 | [옥천고등학교](https://ko.wikipedia.org/wiki/옥천고등학교 "wikilink")        |                                            |                              |
+| 45회 | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [5월 25일](https://ko.wikipedia.org/wiki/5월_25일 "wikilink")   | 엄호영 | [충주대원고등학교](https://ko.wikipedia.org/wiki/충주대원고등학교 "wikilink")    |                                            |                              |
+| 46회 | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [6월 1일](https://ko.wikipedia.org/wiki/6월_1일 "wikilink")     | 김영창 | 충주고등학교                                                           |                                            |                              |
+| 47회 | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [6월 8일](https://ko.wikipedia.org/wiki/6월_8일 "wikilink")     | 김영창 | 충주고등학교                                                           | <span style="color:silver;">**월장원**</span> |                              |
+| 48회 | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [6월 15일](https://ko.wikipedia.org/wiki/6월_15일 "wikilink")   | 김수민 | 양업고등학교                                                           | 주장원                                        |                              |
+| 49회 | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [6월 22일](https://ko.wikipedia.org/wiki/6월_22일 "wikilink")   | 정성훈 | 청주대성고등학교                                                         |                                            |                              |
+| 50회 | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [6월 29일](https://ko.wikipedia.org/wiki/6월_29일 "wikilink")   | 박금정 | [보은여자고등학교](https://ko.wikipedia.org/wiki/보은여자고등학교 "wikilink")    |                                            |                              |
+| 51회 | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [7월 6일](https://ko.wikipedia.org/wiki/7월_6일 "wikilink")     | 정의광 | 한국교원대학교 부설고등학교                                                   |                                            |                              |
+| 52회 | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [7월 13일](https://ko.wikipedia.org/wiki/7월_13일 "wikilink")   | 정의광 | 한국교원대학교 부설고등학교                                                   | <span style="color:silver;">**월장원**</span> |                              |
+| 53회 | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [7월 20일](https://ko.wikipedia.org/wiki/7월_20일 "wikilink")   | 강희창 | [오송고등학교](../Page/오송고등학교.md "wikilink")                           | 주장원                                        |                              |
+| 54회 | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [7월 27일](https://ko.wikipedia.org/wiki/7월_27일 "wikilink")   | 유병서 | [청주외국어고등학교](../Page/청주외국어고등학교.md "wikilink")                     |                                            |                              |
+| 55회 | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [8월 3일](https://ko.wikipedia.org/wiki/8월_3일 "wikilink")     | 지석천 | 제천고등학교                                                           |                                            |                              |
+| 56회 | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [8월 10일](https://ko.wikipedia.org/wiki/8월_10일 "wikilink")   | 정지현 | 청석고등학교                                                           | 상반기 패자부활전                                  |                              |
+| 57회 | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [8월 17일](https://ko.wikipedia.org/wiki/8월_17일 "wikilink")   | 정지현 | 청석고등학교                                                           | <span style="color:silver;">**월장원**</span> |                              |
+| 58회 | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [8월 24일](https://ko.wikipedia.org/wiki/8월_24일 "wikilink")   | 박세연 | [양청고등학교](https://ko.wikipedia.org/wiki/양청고등학교 "wikilink")        | 주장원                                        |                              |
+| 59회 | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [8월 31일](https://ko.wikipedia.org/wiki/8월_31일 "wikilink")   | 황재현 | [형석고등학교](https://ko.wikipedia.org/wiki/형석고등학교 "wikilink")        |                                            |                              |
+| 60회 | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [9월 7일](https://ko.wikipedia.org/wiki/9월_7일 "wikilink")     | 김석현 | [충주고등학교](../Page/충주고등학교.md "wikilink")                           |                                            |                              |
+| 61회 | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [9월 14일](https://ko.wikipedia.org/wiki/9월_14일 "wikilink")   | 홍지수 | [중앙여자고등학교](https://ko.wikipedia.org/wiki/청주중앙여자고등학교 "wikilink")  |                                            |                              |
+| 62회 | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [9월 21일](https://ko.wikipedia.org/wiki/9월_21일 "wikilink")   | 김석현 | [충주고등학교](../Page/충주고등학교.md "wikilink")                           | <span style="color:silver;">**월장원**</span> |                              |
+| 63회 | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [9월 28일](https://ko.wikipedia.org/wiki/9월_28일 "wikilink")   | 이성철 | 세광고등학교                                                           | 주장원                                        |                              |
+| 64회 | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [10월 5일](https://ko.wikipedia.org/wiki/10월_5일 "wikilink")   | 이승욱 | 한국교원대학교부설고등학교                                                    |                                            |                              |
+| 65회 | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [10월 12일](https://ko.wikipedia.org/wiki/10월_12일 "wikilink") | 정도영 | 단양고등학교                                                           |                                            |                              |
+| 66회 | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [10월 19일](https://ko.wikipedia.org/wiki/10월_19일 "wikilink") | 조윤성 | 청주 대성고등학교                                                        |                                            |                              |
+| 67회 | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [10월 26일](https://ko.wikipedia.org/wiki/10월_26일 "wikilink") | 정도영 | 단양고등학교                                                           | <span style="color:silver;">**월장원**</span> |                              |
+| 68회 | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [11월 2일](https://ko.wikipedia.org/wiki/11월_2일 "wikilink")   | 김종현 | 진천고등학교                                                           | 주장원                                        |                              |
+| 69회 | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [11월 9일](https://ko.wikipedia.org/wiki/11월_9일 "wikilink")   | 이연수 | 봉명고등학교                                                           |                                            |                              |
+| 70회 | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [11월 16일](https://ko.wikipedia.org/wiki/11월_16일 "wikilink") | 황서경 | 제천여자고등학교                                                         |                                            |                              |
+| 71회 | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [11월 23일](https://ko.wikipedia.org/wiki/11월_23일 "wikilink") | 구본호 | 음성 매괴고등학교                                                        | 하반기 패자부활전, 2기 마지막 주장원전                     |                              |
+| 72회 | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [11월 30일](https://ko.wikipedia.org/wiki/11월_30일 "wikilink") | 황서경 | 제천여자고등학교                                                         | <span style="color:silver;">**월장원**</span> | 2기 마지막 월장원전\[6\]             |
+| 75회 | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [12월 21일](https://ko.wikipedia.org/wiki/12월_21일 "wikilink") | 조정수 | 청원고등학교                                                           | <span style="color:gold;">**연장원**</span>   | 준우승자 김석현에게는 500만원 상금 부여\[7\] |
+|     |                                                                                                                     |     |                                                                  |                                            |                              |
+
+### 3기
+
+| 회차   | 방송일                                                                                                                 | 이름  | 출신학교        | 등급                                         | 비고        |
+| ---- | ------------------------------------------------------------------------------------------------------------------- | --- | ----------- | ------------------------------------------ | --------- |
+| 77회  | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [3월 1일](https://ko.wikipedia.org/wiki/3월_1일 "wikilink")     | 신예성 | 청원 오송고등학교   | 주장원                                        | 3기 첫방송    |
+| 78회  | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [3월 8일](https://ko.wikipedia.org/wiki/3월_8일 "wikilink")     | 고현석 | 충주 중산고등학교   |                                            |           |
+| 79회  | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [3월 15일](https://ko.wikipedia.org/wiki/3월_15일 "wikilink")   | 김대환 | 한국 교원대부고등학교 |                                            |           |
+| 80회  | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [3월 22일](https://ko.wikipedia.org/wiki/3월_22일 "wikilink")   | 이희진 | 대성고등학교      |                                            |           |
+| 81회  | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [3월 29일](https://ko.wikipedia.org/wiki/3월_29일 "wikilink")   | 김대환 | 한국 교원대부고등학교 | <span style="color:silver;">**월장원**</span> |           |
+| 82회  | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [4월 5일](https://ko.wikipedia.org/wiki/4월_5일 "wikilink")     | 조원기 | 운호고등학교      | 주장원                                        |           |
+| 83회  | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [4월 12일](https://ko.wikipedia.org/wiki/4월_12일 "wikilink")   | 김선아 | 보은고등학교      |                                            |           |
+| 84회  | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [4월 26일](https://ko.wikipedia.org/wiki/4월_26일 "wikilink")   | 유지인 | 청원고등학교      | 진도 여객선 침몰 사고 편성으로 한 주 연기                   |           |
+| 85회  | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [5월 3일](https://ko.wikipedia.org/wiki/5월_3일 "wikilink")     | 황인제 | 흥덕고등학교      |                                            |           |
+| 86회  | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [5월 10일](https://ko.wikipedia.org/wiki/5월_10일 "wikilink")   | 김선아 | 보은고등학교      | <span style="color:silver;">**월장원**</span> |           |
+| 87회  | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [5월 17일](https://ko.wikipedia.org/wiki/5월_17일 "wikilink")   | 류기쁨 | 청석고등학교      | 주장원                                        |           |
+| 88회  | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [5월 24일](https://ko.wikipedia.org/wiki/5월_24일 "wikilink")   | 김은채 | 제천여자고등학교    |                                            |           |
+| 89회  | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [5월 31일](https://ko.wikipedia.org/wiki/5월_31일 "wikilink")   | 허웅배 | 제천고등학교      |                                            |           |
+| 90회  | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [6월 7일](https://ko.wikipedia.org/wiki/6월_7일 "wikilink")     | 이제헌 | 세광고등학교      |                                            |           |
+| 91회  | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [6월 14일](https://ko.wikipedia.org/wiki/6월_14일 "wikilink")   | 이제헌 | 세광고등학교      | <span style="color:silver;">**월장원**</span> |           |
+| 92회  | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [6월 21일](https://ko.wikipedia.org/wiki/6월_21일 "wikilink")   | 황경주 | 청원고등학교      | 주장원                                        |           |
+| 93회  | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [6월 28일](https://ko.wikipedia.org/wiki/6월_28일 "wikilink")   | 민예란 | 청주 중앙여자고등학교 |                                            |           |
+| 94회  | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [7월 5일](https://ko.wikipedia.org/wiki/7월_5일 "wikilink")     | 김민정 | 청주 주성고등학교   |                                            |           |
+| 95회  | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [7월 12일](https://ko.wikipedia.org/wiki/7월_12일 "wikilink")   | 윤교범 | 청주 세광고등학교   |                                            |           |
+| 96회  | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [7월 19일](https://ko.wikipedia.org/wiki/7월_19일 "wikilink")   | 황경주 | 청원고등학교      | <span style="color:silver;">**월장원**</span> |           |
+| 97회  | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [7월 26일](https://ko.wikipedia.org/wiki/7월_26일 "wikilink")   | 김재혁 | 충주 중산고등학교   | 주장원                                        | 상반기 패자부활전 |
+| 98회  | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [8월 2일](https://ko.wikipedia.org/wiki/8월_2일 "wikilink")     | 이진희 | 충북 과학고등학교   |                                            |           |
+| 99회  | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [8월 9일](https://ko.wikipedia.org/wiki/8월_9일 "wikilink")     | 심현섭 | 오송고등학교      |                                            |           |
+| 100회 | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [8월 16일](https://ko.wikipedia.org/wiki/8월_16일 "wikilink")   | 이규연 | 상당고등학교      |                                            |           |
+| 101회 | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [8월 23일](https://ko.wikipedia.org/wiki/8월_23일 "wikilink")   | 이진희 | 충북 과학고등학교   | <span style="color:silver;">**월장원**</span> |           |
+| 102회 | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [8월 30일](https://ko.wikipedia.org/wiki/8월_30일 "wikilink")   | 차보금 | 한국교원대부고     | 주장원                                        |           |
+| 103회 | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [9월 6일](https://ko.wikipedia.org/wiki/9월_6일 "wikilink")     | 정태훈 | 제천고등학교      |                                            |           |
+| 104회 | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [9월 13일](https://ko.wikipedia.org/wiki/9월_13일 "wikilink")   | 성준호 | 청석고등학교      |                                            |           |
+| 105회 | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [9월 20일](https://ko.wikipedia.org/wiki/9월_20일 "wikilink")   | 송은혜 | 보은여자고등학교    |                                            |           |
+| 106회 | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [9월 27일](https://ko.wikipedia.org/wiki/9월_27일 "wikilink")   | 차보금 | 한국교원대부고     | <span style="color:silver;">**월장원**</span> |           |
+| 107회 | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [10월 4일](https://ko.wikipedia.org/wiki/10월_4일 "wikilink")   | 민정원 | 제천여자고등학교    | 주장원                                        |           |
+| 108회 | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [10월 11일](https://ko.wikipedia.org/wiki/10월_11일 "wikilink") | 이세훈 | 청주 세광고등학교   |                                            |           |
+| 109회 | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [10월 18일](https://ko.wikipedia.org/wiki/10월_18일 "wikilink") | 윤지수 | 청주 흥덕고등학교   |                                            |           |
+| 110회 | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [10월 25일](https://ko.wikipedia.org/wiki/10월_25일 "wikilink") | 김장원 | 청주 외국어고등학교  |                                            |           |
+| 111회 | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [11월 1일](https://ko.wikipedia.org/wiki/11월_1일 "wikilink")   | 이세훈 | 청주 세광고등학교   | <span style="color:silver;">**월장원**</span> |           |
+| 112회 | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [11월 8일](https://ko.wikipedia.org/wiki/11월_8일 "wikilink")   | 김향온 | 충북여자고등학교    | 주장원                                        |           |
+| 113회 | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [11월 15일](https://ko.wikipedia.org/wiki/11월_15일 "wikilink") | 박해나 | 보은고등학교      |                                            |           |
+| 114회 | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [11월 22일](https://ko.wikipedia.org/wiki/11월_22일 "wikilink") | 김지욱 | 제천고등학교      |                                            |           |
+| 115회 | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [11월 29일](../Page/11월_29일.md "wikilink")                    | 이주희 | 충주여자고등학교    | 하반기 패자부활전                                  |           |
+| 116회 | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [12월 6일](https://ko.wikipedia.org/wiki/12월_6일 "wikilink")   | 박해나 | 보은고등학교      | <span style="color:silver;">**월장원**</span> | \[8\]     |
+| 119회 | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [12월 27일](https://ko.wikipedia.org/wiki/12월_27일 "wikilink") | 이세훈 | 세광고등학교      | <span style="color:gold;">**연장원**</span>   | 준우승자 이제헌  |
+|      |                                                                                                                     |     |             |                                            |           |
+
+## 함께 보기
+
+  - [도전\! 골든벨](https://ko.wikipedia.org/wiki/도전!_골든벨 "wikilink")
+  - [장학퀴즈](../Page/장학퀴즈.md "wikilink")
+
+## 각주
+
+<references />
+
+## 외부 링크
+
+  - [CJB 공식 홈페이지](http://www.cjb.co.kr)
+
+[분류:대한민국의 텔레비전 퀴즈 쇼](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_퀴즈_쇼 "wikilink") [분류:청주방송의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:청주방송의_텔레비전_프로그램 "wikilink")
+
+1.  4회차까지는 OX 퀴즈와 객관식 퀴즈가 각 7문제 출제되었다.
+2.  4회차까지는 주관식 퀴즈와 스피드 퀴즈가 각 5문제 출제되었다.
+3.  1기 연장원전은 스튜디오가 아닌 [한국교통대학교](../Page/한국교통대학교.md "wikilink") 국제회의장에서 공개녹화로 진행되었다.
+4.  형식은 예전 1-2라운드와 동일, 다만 이심전심 퀴즈는 세 도전자가 각자 한 음절씩, 세 음절의 답을 적는 것만 다를 뿐이다.
+5.  32회는 스페셜 방송으로 꾸며졌다.(출연자:권오찬,김상필,이예찬,홍경원)
+6.  73회와 74회는 연장원 진출자전으로 꾸며졌다.(진출자 : 조정수,김영창,김석현,정지현)
+7.  76회는 스페셜 방송으로 꾸며졌다.(출연자:조정수, 김석현, 김영창)
+8.  117,118회는 연장원 진출전으로 꾸며졌다.(진출자: 이제헌, 황경주, 박해나, 이세훈)

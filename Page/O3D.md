@@ -1,0 +1,8 @@
+> This article is converted from Wikipedia: [O3D](https://ko.wikipedia.org/wiki/O3D).
+
+
+**O3D**는 [웹 브라우저](https://ko.wikipedia.org/wiki/웹_브라우저 "wikilink") 윈도나 [XUL](../Page/XUL.md "wikilink") 데스크톱 애플리케이션에서 인터렉티브 [3D 그래픽](https://ko.wikipedia.org/wiki/3차원_컴퓨터_그래픽스 "wikilink") 애플리케이션을 제작하기 위한 [오픈 소스](https://ko.wikipedia.org/wiki/오픈_소스 "wikilink")([BSD license](https://ko.wikipedia.org/wiki/BSD_허가서 "wikilink")) [자바스크립트](https://ko.wikipedia.org/wiki/자바스크립트 "wikilink") [API](../Page/API.md "wikilink")이며 [구글](https://ko.wikipedia.org/wiki/구글 "wikilink")에서 제작되었다. O3D는 어느 애플리케이션 영역에서든 사용될 수 있도록 제작하려 하였으나, [게임](https://ko.wikipedia.org/wiki/비디오_게임 "wikilink"), 광고, [3D 모델링](https://ko.wikipedia.org/wiki/3차원_모델링 "wikilink") 뷰어, [제품 데모](../Page/셰어웨어.md "wikilink"), 시뮬레이션, 엔지니어링 애플리케이션, 관제 시스템, 대규모 온라인 [가상 세계](../Page/가상_세계.md "wikilink") 등에 적합하도록 변경이 되었다. O3D는 현재 구글의 인큐베이션 랩에 소속되어 있으며, 실험적인 웹 브라우저 플러그인으로 사용되고 있다.
+
+O3D는 데스크톱 기반의 3D 그래픽 애플리케이션과 [HTML](https://ko.wikipedia.org/wiki/HTML "wikilink") 기반의 웹 브라이저 사이의 차이를 줄여주는 것으로 보인다. 이를 지지하는 사람들은 다운로드하여 웹 브라우저를 통해서 실행할 수 있는 Full3D 그래픽 엔진을 제작할 경우 [데스크톱 컴퓨터에서](../Page/데스크톱_컴퓨터.md "wikilink") 대용량의 애플리케이션을 설치할 필요성을 없애 줄 것이라고 주장한다. 이는 O3D가 [자바스크립트](https://ko.wikipedia.org/wiki/자바스크립트 "wikilink")를 이용해서 클라이언트의 CPU와 GPU에 대한 탄탄한 인터페이스를 제공하면서 애플리케이션 리소스들의 재사용성이 극대화될 수 있도록 해준다. 추가로, O3D는 서드파티 개발자들이 pre/post 이팩트나 파티클 시스템, 피직스 엔진등과 같은 커스텀 기능들을 통합할 수 있도록 해주는 플러그인 기반의 아키텍처를 사용한다. 여기서 중요한 점은 플러그인은 하드웨어와 바로 연결될 수 있는 C언어로 작성이 되었다는 것이다. 그래서 씬 렌더링 속도는 컴퓨터의 그래픽 카드에 전적으로 의존하게 된다.
+
+[분류:API](https://ko.wikipedia.org/wiki/분류:API "wikilink")

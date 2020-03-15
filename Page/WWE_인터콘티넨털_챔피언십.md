@@ -1,0 +1,160 @@
+> This article is converted from Wikipedia: [WWE  ](https://ko.wikipedia.org/wiki/WWE__).
+
+
+**WWE 인터콘티넨털 챔피언십**(WWE Intercontinental championship)은 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")의 챔피언십 중 하나이다. 원레 노스 아메리카 챔피언십이 있었으나 통합되었다.
+
+WWE에서는 중간급 챔피언십을 나타내며 [트리플 크라운과](../Page/트리플_크라운_챔피언십.md "wikilink") [그랜드 슬램 챔피언십에](../Page/그랜드_슬램_챔피언십.md "wikilink") 필요한 챔피언십이기도 하다.
+
+현재는 [스맥다운](https://ko.wikipedia.org/wiki/WWE_스맥다운 "wikilink") 브랜드 소속 중인 챔피언십이다. 챔피언십 벨트 이미지는 일반적인 벨트이미지를 사용했지만 현재는 고전벨트 이미지로 사용하고 있다.
+
+기록에 의하면 최다 챔피언이 [크리스 제리코](https://ko.wikipedia.org/wiki/크리스_제리코 "wikilink") (9회),초대 챔피언이 팻 패더슨,최장수 챔피언이 가수 엘비스의 기믹인 홍키 통크 맨 (64주),최중량 챔피언이 빅쇼 (200kg) (전에는 리키쉬 (180kg)),여성 챔피언이 차이나 등이 있다.
+
+## 역사
+
+인터콘티넨털 챔피언십은 WWF (월드 레슬링 페데레이션,WWE의 전 이름)에서 1979년 9월 15일 펫 패더슨이 처음으로 인터콘티넨털 챔피언십 등극됨과 동시에 시작된다.
+
+WWF가 [WCW](https://ko.wikipedia.org/wiki/WCW "wikilink")와[ECW](https://ko.wikipedia.org/wiki/ECW "wikilink")를 인수할때 2001년 [서바이벌 시리즈에서](https://ko.wikipedia.org/wiki/서바이벌_시리즈 "wikilink") 당시 [WCW 유나이티드 스테이츠 챔피언이었던](https://ko.wikipedia.org/wiki/WWE_유나이티드_스테이츠_챔피언십 "wikilink") [에지](https://ko.wikipedia.org/wiki/에지 "wikilink")가 당시 인터콘티넨털 챔피언인 테스트를 이기고 통합 챔피언십이 되었다. (훗날 유나이티드 스테이츠 챔피언십은 브랜드 확장으로 스맥다운 단장이었던 스테파니 맥맨에 의해 2003년 벤전스에서 다시 시작된다.)
+
+WWF가 현재 WWE로 변경해 브랜드 확장한 이후, [랍 밴 댐이](https://ko.wikipedia.org/wiki/랍_밴_댐 "wikilink") 인터콘티넨털 챔피언이 보유하면서 2002년 7월 22일[유러피언 챔피언십과](https://ko.wikipedia.org/wiki/WWE_유러피언_챔피언십 "wikilink"),2002년 8월 26일 [하드코어 챔피언십을](../Page/WWE_하드코어_챔피언십.md "wikilink") 획득하며 통합하는 일이 있었다.
+
+유러피언 챔피언십에는 제프 하디를, 하드코어 챔피언십에는 타미 드리머를 상대로 이기면서 통합했다. 또한 월드 헤비급 챔피언이었던 [트리플H](https://ko.wikipedia.org/wiki/트리플H "wikilink")가 인터콘티넨털 챔피언이 었던 케인을 이기고 인터콘티넨털 챔피언십을 획득하면서 잠시 폐지 되었다가, 2003년 5월 당시 러 공동단장인 [스티브 오스틴이](https://ko.wikipedia.org/wiki/스티브_오스틴 "wikilink") 다시 [러브랜드로](../Page/WWE_러.md "wikilink") 부활시켰다.
+
+## 역대 타이틀 명칭
+
+<table>
+<thead>
+<tr class="header">
+<th><p>타이틀 명칭</p></th>
+<th><p>연도</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>WWF 인터콘티넨털 헤비웨이트 챔피언십</p></td>
+<td><p>1979년 9월 15일 ~ 1992년 4월 5일</p></td>
+</tr>
+<tr class="even">
+<td><p>WWF 인터콘티넨털 챔피언십</p></td>
+<td><p>1992년 4월 5일 ~ 2002년 5월 6일</p></td>
+</tr>
+<tr class="odd">
+<td><p>WWE 인터콘티넨털 챔피언십</p></td>
+<td><p>2002년 5월 6일 ~ 2002년 10월 20일<br />
+2003년 5월 18일 ~ 현재</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 기록들
+
+  - 초대 챔피언 : 팻 패터슨
+  - 최장수 챔피언 : 페드로 모랄레스 (619일)
+  - 최단 기간 챔피언 : 딘 더글러스 (10분)
+  - 최다 챔피언 : 크리스 제리코 (9회)
+  - 최중량급 챔피언 : 빅 쇼 (200kg)
+  - 최경량급 챔피언 : 레이 미스테리오 (79kg)
+  - 최고령 챔피언 : 릭 플레어 (56세 360일)
+  - 최연소 챔피언 : 제프 하디 (23세 222일)
+  - 하루만에 뺏긴 선수 : 더 미즈 (2회), 잭 라이더 (1회)
+
+## 역대 챔피언 선수 목록
+
+  - 팻 패더슨 (초대 챔피언)
+  - 페드로 모릴스 (최장수 챔피언 619일)
+  - 돈 무라코
+  - 티토 산타나
+  - 그레이그 발렌타인
+  - 랜디 새비지
+  - 리키 스팀보트
+  - 홍키 통크 맨
+  - 얼티밋 워리어
+  - 릭 루드
+  - 미스터 퍼펙트
+  - 브렛 하트
+  - 로디 파이퍼
+  - 브리티시 불독
+  - 숀 마이클스
+  - 마티 자네티
+  - 레이저 라몬
+  - 디젤
+  - 딘 더글러스
+  - 제프 제럿
+  - 골더스트
+  - 트리플 H
+  - 더 락
+  - 오웬 하트
+  - 스티브 오스틴
+  - 켄 샴락
+  - 발 비너스
+  - 로드 독
+  - 갓 파더
+  - 에지
+  - 딜로 브라운
+  - 차이나 (유일한 여성 레슬러)
+  - 크리스 제리코
+  - 커트 앵글
+  - 크리스 벤와
+  - 리키쉬
+  - 에디 게레로
+  - 빌리 건
+  - 제프 하디
+  - 케인
+  - A-트레인
+  - 랜스 스톰
+  - 크리스찬
+  - 테스트
+  - 윌리엄 리갈
+  - 랍 밴 댐
+  - 부커 T
+  - 랜디 오턴
+  - 쉘턴 벤자민
+  - 칼리토
+  - 릭 플레어
+  - 존 모리슨
+  - 우마가
+  - 산티노 마렐라
+  - 코피 킹스턴
+  - CM 펑크
+  - 존 브래드쇼 레이필드
+  - 레이 미스테리오
+  - 드류 맥킨타이어
+  - 돌프 지글러
+  - 배드 뉴스 배럿
+  - 이지키엘 잭슨
+  - 코디 로즈
+  - 빅 쇼
+  - 더 미즈
+  - 커티스 엑슬
+  - 빅 E
+  - 루크 하퍼
+  - 대니얼 브라이언
+  - 라이백
+  - 케빈 오웬스
+  - 딘 앰브로스
+  - 잭 라이더
+  - 로만 레인즈
+  - 세스 롤린스
+  - 바비 래쉴리
+  - 핀 베일러
+  - 나카무라 신스케
+  - ''' 브라운 스트로우먼 ''' (현 챔피언)
+
+## 함께 보기
+
+  - [트리플 크라운 챔피언십](../Page/트리플_크라운_챔피언십.md "wikilink")
+  - [그랜드 슬램 챔피언십](../Page/그랜드_슬램_챔피언십.md "wikilink")
+  - [WWE 유나이티드 스테이츠 챔피언십](https://ko.wikipedia.org/wiki/WWE_유나이티드_스테이츠_챔피언십 "wikilink")
+  - [WWE 유러피언 챔피언십](https://ko.wikipedia.org/wiki/WWE_유러피언_챔피언십 "wikilink")
+  - [WWE 하드코어 챔피언십](../Page/WWE_하드코어_챔피언십.md "wikilink")
+  - [ECW 월드 텔레비전 챔피언십](https://ko.wikipedia.org/wiki/ECW_월드_텔레비전_챔피언십 "wikilink")
+  - [TNA X-디비전 챔피언십](https://ko.wikipedia.org/wiki/TNA_X-디비전_챔피언십 "wikilink")
+  - [TNA 킹 오브 더 마운틴 챔피언십](https://ko.wikipedia.org/wiki/TNA_킹_오브_더_마운틴_챔피언십 "wikilink")
+  - [RoH 월드 텔레비전 챔피언십](https://ko.wikipedia.org/wiki/RoH_월드_텔레비전_챔피언십 "wikilink")
+  - [RoH 월드 퓨어 챔피언십](https://ko.wikipedia.org/wiki/RoH_월드_퓨어_챔피언십 "wikilink")
+  - [GFW 넥스트 제너레이션 챔피언십](https://ko.wikipedia.org/wiki/GFW_넥스트_제너레이션_챔피언십 "wikilink")
+
+[분류:WWE 챔피언십](https://ko.wikipedia.org/wiki/분류:WWE_챔피언십 "wikilink") [분류:1979년 설립](https://ko.wikipedia.org/wiki/분류:1979년_설립 "wikilink")

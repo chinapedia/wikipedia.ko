@@ -1,0 +1,4 @@
+> This article is converted from Wikipedia: [:WW2](https://ko.wikipedia.org/wiki/:WW2).
+
+
+<onlyinclude> [7.92 × 33mm 쿠르츠](https://ko.wikipedia.org/wiki/7.92_×_33mm_쿠르츠 "wikilink"){{·}} [9 × 19 mm 패러벨럼](../Page/9_×_19_mm_패러벨럼.md "wikilink"){{·}} [7.63 × 25mm 마우저](https://ko.wikipedia.org/wiki/7.63_×_25mm_마우저 "wikilink"){{·}} [7.65 × 22mm 패러벨럼](https://ko.wikipedia.org/wiki/7.65_×_22mm_패러벨럼 "wikilink") }}</onlyinclude> <noinclude>[독일](https://ko.wikipedia.org/wiki/분류:제2차_세계_대전의_무기_둘러보기_틀 "wikilink")[분류:독일의 군사에 관한 틀](https://ko.wikipedia.org/wiki/분류:독일의_군사에_관한_틀 "wikilink")[Τ](https://ko.wikipedia.org/wiki/분류:제2차_세계_대전의_독일_보병_무기 "wikilink")</noinclude>

@@ -1,0 +1,28 @@
+> This article is converted from Wikipedia: [M.  ](https://ko.wikipedia.org/wiki/M.__).
+
+
+**마노즈 넬리야투 "M. 나이트" 샤말란**(Manoj Nelliyattu "M. Night" Shyamalan, 1970년 8월 6일 \~ )은 인도계 미국인 [영화 감독이자](../Page/영화_감독.md "wikilink") 각본가, 프로듀서, 배우이다.
+
+## 작품 목록
+
+[right](https://ko.wikipedia.org/wiki/파일:M._Night_Shyamalan_2008_-_still_40580_crop.jpg "wikilink")
+
+  - 《[식스 센스](../Page/식스_센스_\(영화\).md "wikilink")》 (1999년)
+  - 《[스튜어트 리틀](https://ko.wikipedia.org/wiki/스튜어트_리틀 "wikilink")》(1999년,각본)
+  - 《[언브레이커블](https://ko.wikipedia.org/wiki/언브레이커블_\(영화\) "wikilink")》 (2000년)
+  - 《싸인》 (2002년)
+  - 《빌리지》 (2004년)
+  - 《[레이디 인 더 워터](https://ko.wikipedia.org/wiki/레이디_인_더_워터 "wikilink")》 (2006년)
+  - 《[해프닝](https://ko.wikipedia.org/wiki/해프닝_\(영화\) "wikilink")》 (2008년)
+  - 《[라스트 에어벤더](https://ko.wikipedia.org/wiki/라스트_에어벤더 "wikilink")》 (2010년)
+  - 《[데블](../Page/데블_\(2010년_영화\).md "wikilink")》(2010년,각본/제작)
+  - 《[애프터 어스](https://ko.wikipedia.org/wiki/애프터_어스 "wikilink")》 (2013년)
+  - 《[더 비지트](../Page/더_비지트.md "wikilink")》 (2015년)
+  - 《[웨이워드 파인즈](https://ko.wikipedia.org/wiki/웨이워드_파인즈 "wikilink")》 (2015-2016년,드라마)
+  - 《[23 아이덴티티](../Page/23_아이덴티티.md "wikilink")》 (2016년)
+  - 《[글래스](../Page/글래스_\(영화\).md "wikilink")》 (2019년)
+
+## 외부 링크
+
+  -
+[분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:1970년 태어남](https://ko.wikipedia.org/wiki/분류:1970년_태어남 "wikilink") [분류:힌두교도](https://ko.wikipedia.org/wiki/분류:힌두교도 "wikilink") [분류:인도의 영화 감독](https://ko.wikipedia.org/wiki/분류:인도의_영화_감독 "wikilink") [분류:미국의 영화 감독](https://ko.wikipedia.org/wiki/분류:미국의_영화_감독 "wikilink") [분류:미국으로 귀화한 사람](https://ko.wikipedia.org/wiki/분류:미국으로_귀화한_사람 "wikilink") [분류:인도계 미국인](https://ko.wikipedia.org/wiki/분류:인도계_미국인 "wikilink") [분류:뉴욕 대학교 동문](https://ko.wikipedia.org/wiki/분류:뉴욕_대학교_동문 "wikilink") [분류:인도의 남자 영화 배우](https://ko.wikipedia.org/wiki/분류:인도의_남자_영화_배우 "wikilink") [분류:티시 예술대학 동문](https://ko.wikipedia.org/wiki/분류:티시_예술대학_동문 "wikilink")

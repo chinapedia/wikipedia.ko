@@ -1,0 +1,89 @@
+> This article is converted from Wikipedia: [CBS](https://ko.wikipedia.org/wiki/CBS).
+
+
+**CBS파워라디오**는 중국을 비롯한 전세계 한민족 청년들에게 케이팝, 팝송, 클래식, 제이팝 등 다양한 콘텐츠를 제공하는 음악전문라디오이다. 2009년 4월에 첫 전파를 발사하였으며 방송지표는 "프리미엄 뮤직채널"이다. 2014년까지 'CBS뉴스'와 '홍상은의 경제리포트' 등 다수의 시사프로그램을 방송했지만, 방송의 전문성을 위해 음악전문라디오로 개편하였다.
+
+## 개요
+
+CBS파워라디오는 최초 방송&감독 교육단체(CBS)에서 방송을 운영하였고 다양한 콘텐츠를 기획, 개발하기 위해 지금은 완전히 독립적으로 운영되고 있다.
+
+CBS파워라디오는 매일 24시간동안 방송되며 라디오, 인터넷, 팟캐스트, 스마트폰 앱으로 방송이 송출되고 있다. 2013년 재정적인 문제로 FM방송은 잠정 중단된 상태이다.
+
+CBS파워라디오는 한국 CBS와는 연관성이 없는 별도의 기관으로서 순수 대중음악을 방송하는 음악전문채널이다.
+
+## 방송 비전
+
+방송 비전은 '음악을 통한 하나됨'이다.
+
+CBS파워라디오는 공정하고 건전한 방송문화를 전파하고 한민족 청년들의 문화 향상을 목표로 설립되었다. 또한 올바른 여론형성, 민족의 우월성 홍보라는 기본적인 역할을 수행함과 동시에 한민족 사회에서 생활, 문화 차이로 생기는 편견과 갈등을 해소하기 위한 콘텐츠를 개발하는데 역량을 강화하고 있다.
+
+## 핵심 가치
+
+  - 공정 - 사실을 사실대로 전하는 정직한 방송
+  - 배려 - 한민족 사회를 대변하고 약자를 배려하는 따뜻한 방송
+  - 창의 - 시대에 맞는 새로운 콘텐츠 개발에 힘쓰는 참신한 방송
+
+## 방송 지침
+
+  - 정확하고 신속한 정보
+  - 건전한 오락
+  - 한민족 사회 교육, 교양의 발전
+  - 균형적인 보도
+
+## 연혁
+
+  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [3월 1일](https://ko.wikipedia.org/wiki/3월_1일 "wikilink") - 방송 허가 및 주파수 할당 (주파수 FM87.5Mhz/99.9Mhz)
+  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [6월 1일](https://ko.wikipedia.org/wiki/6월_1일 "wikilink") - CBS 파워라디오 개국 및 시험 방송
+  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [3월 5일](https://ko.wikipedia.org/wiki/3월_5일 "wikilink") - 인터넷 방송 송출 (www.withcbs.com) [1](https://web.archive.org/web/20160901231645/http://www.withcbs.com/) -\> \[1\]
+  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [6월 1일](https://ko.wikipedia.org/wiki/6월_1일 "wikilink") - CBS 파워라디오 개국 1주년 기념식
+  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [12월 30일](https://ko.wikipedia.org/wiki/12월_30일 "wikilink") - FM 방송 잠정 송출중단
+  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [5월 6일](https://ko.wikipedia.org/wiki/5월_6일 "wikilink") - 팟캐스트 서비스 개시
+  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [11월 15일](https://ko.wikipedia.org/wiki/11월_15일 "wikilink") - 안드로이드 앱 서비스 개시
+  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [1월 16일](https://ko.wikipedia.org/wiki/1월_16일 "wikilink") - 아이폰 앱 서비스 개시
+  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [6월 21일](https://ko.wikipedia.org/wiki/6월_21일 "wikilink") - 힐링 채널 개국
+
+## 청취방법
+
+  - 라디오: FM87.5Mhz
+  - 인터넷주소: [www.withcbs.com](https://web.archive.org/web/20160901231645/http://www.withcbs.com/)
+  - 팟캐스트: 아이폰 사용자들은 팟캐스트 검색 창에, 안드로이드폰 사용자들은 팟빵 (www.podbbang.com)에서 cbsfm을 검색하세요.
+  - 스마트폰 앱: 아이폰이나 안드로이드폰 사용자는 앱스토어나 안드로이드 마켓에 cbs파워라디오를 검색하면 애플리케이션을 다운받을 수 있다.
+
+## 현재 방송 중인 프로그램
+
+  - <FM 세계음악여행>
+  - <The Weekend J-pop>
+  - <내 마음의 소리>
+  - <케이팝 타운 이재준입니다>
+  - <홍상은의 올 댓 팝스>
+  - <이재준의 클래식산책>
+  - <당신의 밤 아름다운 재즈>
+  - <이재준의 영화음악>
+  - <음악 책을 만나다>
+  - <바로 쓰는 우리말>
+  - <한밤의 연주음악>
+  - <잠시 쉬어가다>
+  - \<자살예방캠페인-고마워요\! 살아줘서\>
+
+## 방송종료 프로그램
+
+  - <CBS 뉴스> (2009\~2014)
+  - <홍상은의 경제리포트> (2011\~2014)
+  - <오늘의 묵상> (2009\~2010)
+  - <재준이의 스타벅스 쇼> (2009\~2010)
+  - <클래식은 CBS와 함께> (2009\~2011)
+  - <재준이의 기분 좋은 밤> (2010\~2011)
+  - <스포츠뉴스> (2010\~2011)
+  - <재준이의 꿈이 있는 자유> (2011\~2012)
+  - <아름다운 동산 CBS입니다> (2010\~2012)
+  - 현장 리얼토크쇼 <My Story> (2011\~2012)
+  - <CBS English News> (2011\~2012)
+  - <연예가 중계실> (2010\~2013)
+  - <재준이의 너도 한마디 나도 한마디> (2008\~2012)
+
+## 로고송
+
+  - 다채로운 즐거움 감동의 하모니 CBS
+  - 모든 음악의 시작 CBS파워라디오
+
+[분류:라디오](https://ko.wikipedia.org/wiki/분류:라디오 "wikilink")

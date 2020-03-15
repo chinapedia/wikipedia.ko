@@ -1,0 +1,263 @@
+> This article is converted from Wikipedia: [ RB](https://ko.wikipedia.org/wiki/_RB).
+
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Korea-seoulbuse_1980~90s.jpg "wikilink") **현대 RB** (Hyundai RB)는 [현대자동차](https://ko.wikipedia.org/wiki/현대자동차 "wikilink")의 준대형 상용 [버스](https://ko.wikipedia.org/wiki/버스 "wikilink") 차종이며 미쓰비시 후소의 MP, MS계열 리어엔진 버스의 프레임과 차축, 베어링, 엔진과 트랜스미션등을 라이센스 생산하고 차체는 골조식 세미 모노코크 방식으로 자체 개발한 차량이다. 후속 차종은 [1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink")에 출시된 [현대 에어로와](../Page/현대_에어로.md "wikilink"), [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink")에 출시된 [현대 에어로시티이다](../Page/현대_에어로시티.md "wikilink").
+
+## 세부 종류
+
+### 도시형 차종
+
+#### RB520
+
+RB520 도시형 직행형 및 자가용형은 [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink")에 출시되었고\[1\], 출시 초기에는 후면부에 엔진 보닛과 그 우측에 7줄형식의 그릴이 있었고 후부 좌측 위에 흡기구가 달려 있었다. [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink")에 엔진의 형식이 MAN D0846HM-V(7,255cc)에서 미쓰비시 후소형식(D6BR, 7,545cc)으로 바뀌면서 그 흡기구와 7줄 그릴은 사라지고 대신 엔진 보닛 좌측과 후진등을 감싸는 형식의 그릴이 적용되었다. [1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink")에 동시대 고출력형 시외버스급 차종인 [RB600이](https://ko.wikipedia.org/wiki/현대_RB "wikilink") 단종되면서 기존 스텐바디에 한하여 옵션으로 존재하던 돌출형식 전조등과 방향등이 옵션에서 사라졌다. [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink")에는 후면부 차량번호판등이 기존의 번호판 위에 1개 있는 형식에서 번호판 양 옆으로 2개 있는 형식으로 변경되고 그 해 후반에 후면부의 그릴이 사라졌다. RB520은 [대우자동차](https://ko.wikipedia.org/wiki/대우자동차 "wikilink")의 [BV101](../Page/대우_BV.md "wikilink") [BS105와](https://ko.wikipedia.org/wiki/대우_BS "wikilink") 아시아자동차의 [AM927과](../Page/기아_AM버스.md "wikilink") 경쟁했던 차종이다. 서울시 좌석버스에서는 삼선버스/서울승합에서 [1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink")식 RB520도시형 RB520 좌석형(무냉방형)이 도입한 사례도 있었으며, 이듬해인 [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") [1월](https://ko.wikipedia.org/wiki/1월 "wikilink") RB520에 와서야 서울시 좌석버스 차량 도입 조례규정을 개정하면서 대량 도입하기도 했었다. 서울시 시내좌석버스에서 가장 마지막으로 RB520 좌석형을 도입한 회사는 [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink") [미아운수에서](https://ko.wikipedia.org/wiki/선일교통 "wikilink") 27번 도시형 노선과 비슷한 좌석노선을 개설하면서 신차로 구매한 RB520 좌석형이 마지막 출고분이 되었고, 서울시 시내좌석버스에서 가장 늦게까지 RB520 좌석형을 마지막으로 운행한 회사는 [서울승합](../Page/서울승합.md "wikilink") 소속 959번(고덕동-광화문) 좌석노선에서 운행되었다. 현대 RB520은 전후륜휠 6홀 8핀 형식이다.
+
+#### RB520L
+
+RB520 직행형 및 자가용형식이 출시 된 지 6달만인 같은 해 10월에 RB520L도시저상형이 [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") [10월](https://ko.wikipedia.org/wiki/10월 "wikilink") 출시되었고, RB520L 서울시 시내버스 조례규정에 맞추어 이전 FB485 버스에 비해 20cm 차고를 낮춘 2계단 저상형식으로 개발한 차종이다.\[2\] 출시 초기에는 후면부에 엔진 보닛과 그 우측에 7줄형식의 그릴이 있었고 후부 좌측 위에 흡기구가 달려 있었다. 또한 버스 안내양의 폐지에 맞춰 버스 하차벨이 새롭게 등장하고 FB485에 먼저 선보인 자동 슬라이딩 중문등 오늘날에도 쉽게 볼수 있는 시내버스의 특징이 대거 적용되었다. 안내양 폐지로 인한 버스기사의 안전 확인이 필요함에 따라 안전 거울을 전문과 중문에 각각 장착하여 버스기사가 승객의 위치를 확인하게 하었다. 그리고 안전표시등을 전비 상부에 장착하여서 전비 또는 중비문이 열였을때 또는 답단에 승객이 위치하고 있을때 표시등이 점등되도록 하였다. 또한 승객이 답단에 있을 경우 중간문이 닫히지 않도록 광전식 차단 장치와 전자식 자동 감응 장치로 중간문에 사람의 몸이 닿았을 경우 열렸다가 다시 닫히는 장치도 장착되었으며 가속 페달 잠금 장치 또한 장착되어서 중간문이 닫히지 않은 상태에서는 가속 페달이 작동하지 않도록 하였다. 또 자동문 계통상 고장이 있을 경우 회로를 차단하여 손으로 문을 열수 있도록 비상코크도 탑재했다.\[3\] 서울시내버스에서는 [아륙교통](https://ko.wikipedia.org/wiki/한성여객 "wikilink") 20번에서 처음으로 도입되었으며, 한 때 제일여객 기자촌 종점에서도 이 차종을 창고로 쓰기도 했었으나 차고지 이전으로 철거되었다. [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink") RB520L도시형버스에 엔진의 형식이 MAN D0846HM-V(7,255cc)에서 미쓰비시 후소형식(D6BR, 7,545cc)으로 변경되면서 그 흡기구와 7줄 그릴은 사라지고 대신 엔진 보닛 좌측과 후진등을 감사는 형식의 그릴이 적용되었다. [섬네일](https://ko.wikipedia.org/wiki/파일:RB520L_interior_.png "wikilink") 새롭게 적용된 D6BR 엔진은 185마력을 발휘했고 4행정 자연흡기의 기계식 직분사 엔진이다. 또한 구동은 헬리켈 기어가 크랭크축과 블럭에 있는 캠축을 맞물려서 돌아가며 로커 암으로 2 밸브를 개폐한다. 플라이휠에서 보았을시에 시계의 반대방향으로 돌아가며 거버너와 인젝터 펌프는 독일의 보쉬사의 제품을 사용한다. D6BR의 직분사 시스템의 경우 다공 분사 노즐을 적용하여 실린더에 더욱 분포된 폭발력을 통하여 높은 효율과 출력을 도모했으며 RB520L 이후에도 D6BR 엔진은 개량과 개량을 거듭나면서 아직도 현대의 사용 모델에 사용되고 있다. 브레이크는 에어 드럼 브레이크로 자동 조절식 슬랙에 따라 작동하며 차체는 세미 모노코크 스켈레톤 타입에 일체형 프레임을 혼합한 방식이다.\[4\] 다만 여전히 부족한 차체 공법 때문에 미츠비시 후소의 에어로 스타와는 다르게 큐빅 스타일 대신 둥근 차체를 적용하여 차체 강성 확보를 도모했다. 현대는 설상가상으로 국산화율 94%를 달성, 국산화 비율이 여전히 90% 이하를 밑돌던 대우에 비해 차량 가격이나 부품값이 저렴했다.\[5\] 거기에 양사간의 덤핑 경쟁으로 2천만원에서 시작하던 도시형버스 가격이 최대 1천8백만원까지 인하해서 판매하였기에 운송회사들은 높은 국산화율로 인해 부품값이 더 저렴한 현대의 RB520L을 더 많이 선호하게 된다.\[6\] 이후 운전대를 기존의 원형에서 더욱 새련된 미츠비시 핸들로 변경하고 파워 스티어링, 마이크로 컴퓨터 장치를 장착한 전자식 예열 장치, 콜드 스타트 스위치가 추가되었다. 운전석 계기판의 경우 중압집중식 계기판을 적용하였다. 연비 및 브레이크 항상 자동냉각팬을 설치, 레디에이터 수온이 낮을시 팬을 공회전하여 엔진마력 손실이 없어 연비를 항상시켰고 동절기 혹한시에도 문제 없이 가동하는 에어드라이어를 설치하여 제동력 상실에도 대응하였다.\[7\] [섬네일](https://ko.wikipedia.org/wiki/파일:Hyundai_RB520L_Rear.png "wikilink") [1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink")부터 RB520L도 전면행선판 부위 및 바로 뒤 측면유리창의 형식이 RB520SL의 그것과 같아졌다. [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink")에는 후면부 차량번호판등이 기존의 번호판 위에 1개 있는 형식에서 번호판 양 옆으로 2개 있는 형식으로 변경되면서 후면부에 있던 그릴이 사라졌다. 차량 바퀴는 전후륜휠 6홀 8핀 형식이다. 대한민국에서는 당시 도입된 도시형 리어엔진버스 차종중 상당수의 점유율을 가졌고 이후 대우자동차에서 큐빅 스타일의 BS105L을 선보이면서 추춤했다. 이 큐빅 스타일의 차량은 기존의 차량에 비해 승객을 최대 6명을 늘릴수 있었기에 버스 업체들이 선호하게 된다.
+
+그러나 BS105L의 구조적 결함 덕분에 여전히 상당한 점유율을 보유하다가 현대에서 신개발한 큐빅 스타일의 에어로 씨티버스를 1991년에 선보이면서 단종되게 된다. 이후 90년대까지도 많은 대수가 운행하다가 점차 대차되기 시작, 부산광역시가 먼지 1999년에 삼화PTS를 마지막으로 사라졌고 대구광역시에서 2000년 광남자동차에서 마지막으로 대차했으며 인천에서는 동년 대차, 서울특별시에서는 서울승합이 2001년 12월 마지막으로 운행하고 폐차하게 된다.
+
+#### RB520SL
+
+1987년에 서울시 시내버스 조례규정에 맞추어 RB520L을 2계단 저상형식으로 개발한 차종이다. 1987년식까지는 앞바퀴의 휠 하우징 주위의 상면이 갱웨이를 적용한 상면처럼 좌석이 있던 부분은 중앙의 바닥보다 8cm 정도 높았으며, 외적 특징이 있다면 전면행선판 부위가 RB520L 차종보다 넓었고 전문 바로 뒤의 측면 유리창의 크기가 RB520L 보다는 작았다. 또한 중문 폭도 더 넓었다. 1988년식부터 전문 바로 뒤 측면유리창의 개폐방식이 1/3 하부개폐에 윗부분에는 측면행선판 부착부위의 기능도 있었다. [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink")에는 후면부 차량번호판등이 기존의 번호판 위에 1개 있는 형식에서 번호판 양 옆으로 2개 있는 형식으로 변경되면서 후면부에 있던 그릴이 사라졌다. 현대 RB520SL은 전후륜휠 6홀 8핀 형식이다.
+
+### 제원
+
+<table>
+<thead>
+<tr class="header">
+<th><p>구분</p></th>
+<th><p>RB520L/RB520SL D6BR</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>전장<br />
+(mm)</p></td>
+<td><p>10,470</p></td>
+</tr>
+<tr class="even">
+<td><p>전폭<br />
+(mm)</p></td>
+<td><p>2,490</p></td>
+</tr>
+<tr class="odd">
+<td><p>전고<br />
+(mm)</p></td>
+<td><p>3,045</p></td>
+</tr>
+<tr class="even">
+<td><p>실내 전장<br />
+(mm)</p></td>
+<td><p>8,269</p></td>
+</tr>
+<tr class="odd">
+<td><p>실내 전폭<br />
+(mm)</p></td>
+<td><p>2,380</p></td>
+</tr>
+<tr class="even">
+<td><p>실내 전고<br />
+(mm)</p></td>
+<td><p>2,035</p></td>
+</tr>
+<tr class="odd">
+<td><p>윤거 전<br />
+(mm)</p></td>
+<td><p>2,035</p></td>
+</tr>
+<tr class="even">
+<td><p>윤거 후<br />
+(mm)</p></td>
+<td><p>1,830</p></td>
+</tr>
+<tr class="odd">
+<td><p>축거<br />
+(mm)</p></td>
+<td><p>5,200</p></td>
+</tr>
+<tr class="even">
+<td><p>오버행 전<br />
+(mm)</p></td>
+<td><p>1,945</p></td>
+</tr>
+<tr class="odd">
+<td><p>오버행 후<br />
+(mm)</p></td>
+<td><p>2,380</p></td>
+</tr>
+<tr class="even">
+<td><p>승차 정원</p></td>
+<td><p>22+62+1=85명</p></td>
+</tr>
+<tr class="odd">
+<td><p>개폐 방식</p></td>
+<td><p>자동식 (전 접이식, 후 슬라이딩)</p></td>
+</tr>
+<tr class="even">
+<td><p>공차중량<br />
+(kg)</p></td>
+<td><p>8,038</p></td>
+</tr>
+<tr class="odd">
+<td><p>차량 총중량<br />
+(kg)</p></td>
+<td><p>13,000</p></td>
+</tr>
+<tr class="even">
+<td><p>변속기</p></td>
+<td><p>수동변속기 전진5단/후진1단</p></td>
+</tr>
+<tr class="odd">
+<td><p>연료탱크 최대용량<br />
+(ℓ)</p></td>
+<td><p>200</p></td>
+</tr>
+<tr class="even">
+<td><p>최고속도<br />
+(km/h)</p></td>
+<td><p>82.7</p></td>
+</tr>
+<tr class="odd">
+<td><p>등판 능력<br />
+(%)</p></td>
+<td><p>30.4</p></td>
+</tr>
+<tr class="even">
+<td><p>구동 형식</p></td>
+<td><p>리어엔진 T형 배치 후륜구동</p></td>
+</tr>
+<tr class="odd">
+<td><p>연료</p></td>
+<td><p>경유</p></td>
+</tr>
+<tr class="even">
+<td><p>배기량<br />
+(cc)</p></td>
+<td><p>7,545</p></td>
+</tr>
+<tr class="odd">
+<td><p>직경X행정<br />
+(mm)</p></td>
+<td><p>118X115</p></td>
+</tr>
+<tr class="even">
+<td><p>점화 타이밍</p></td>
+<td><p>1 - 5 - 3 - 6 - 4 - 2</p></td>
+</tr>
+<tr class="odd">
+<td><p>압축비</p></td>
+<td><p>17.5:1</p></td>
+</tr>
+<tr class="even">
+<td><p>연료공급</p></td>
+<td><p>기계식 펌프/보쉬 직분사 기계식 보쉬 거버너</p></td>
+</tr>
+<tr class="odd">
+<td><p>엔진 중량<br />
+(kg)</p></td>
+<td><p>580kg</p></td>
+</tr>
+<tr class="even">
+<td><p>밸브 형식</p></td>
+<td><p>캠 기어 작동 방식 OHV 로커암 개폐</p></td>
+</tr>
+<tr class="odd">
+<td><p>흡기</p></td>
+<td><p>자연 흡기</p></td>
+</tr>
+<tr class="even">
+<td><p>실린더</p></td>
+<td><p>수냉식 직렬6기통 건식 라이너</p></td>
+</tr>
+<tr class="odd">
+<td><p>최고 출력<br />
+(ps/rpm)</p></td>
+<td><p>185/2,500</p></td>
+</tr>
+<tr class="even">
+<td><p>최고 토크<br />
+(kgm/rpm)</p></td>
+<td><p>53.5/1,400</p></td>
+</tr>
+<tr class="odd">
+<td><p>서스펜션 전</p></td>
+<td><p>리지드 엑슬 I빔 + 유압식 쇽업소버 + 9겹 판스프링</p></td>
+</tr>
+<tr class="even">
+<td><p>서스펜션 후</p></td>
+<td><p>리지드 라이브 엑슬 + 유압식 쇽업소버 + 9겹 판스프링</p></td>
+</tr>
+<tr class="odd">
+<td><p>브레이크 전/후</p></td>
+<td><p>공기식 드럼 브레이크</p></td>
+</tr>
+<tr class="even">
+<td><p>차체 구조</p></td>
+<td><p>세미모노코크 골조식 + 프레임</p></td>
+</tr>
+<tr class="odd">
+<td><p>조향</p></td>
+<td><p>볼너트식</p></td>
+</tr>
+<tr class="even">
+<td><p>타이어</p></td>
+<td><p>9.00X20-14PR 튜브식 (스틸 휠 6홀 8핀)<br />
+(옵션 10.00X20-14PR)</p></td>
+</tr>
+<tr class="odd">
+<td><p>휠</p></td>
+<td><p>스틸 휠 8.25X22.50 6홀 8핀</p></td>
+</tr>
+<tr class="even">
+<td><p>전장품<br />
+(V)</p></td>
+<td><p>24 DC</p></td>
+</tr>
+</tbody>
+</table>
+
+### 시외버스, 통학버스, 고속버스 차종
+
+#### RB585
+
+RB585는 11.5m 급의 준고속형 리어엔진 버스로, [1977년](https://ko.wikipedia.org/wiki/1977년 "wikilink") 당시 프론트 엔진버스였던 HD 160의 차체를 기반으로 제작 했으며 수평실린더 엔진을 탑재한 새한의 [BU 110과는](https://ko.wikipedia.org/wiki/새한_BU "wikilink") 달리 트럭과 공통의 수직실린더 엔진인 D2156HM(10,350cc)엔진을 탑재하였다. 당시 [HD160/HD170의](https://ko.wikipedia.org/wiki/현대_HD "wikilink") 상급 차종이며 1년 후 [1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink") HD170의 차체를 기반으로 한 2기형이 출시되었고, 4년 후인 [1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink")에 FB485와 비슷한 마이너체인지 차체를 적용한 3기형이 출시되었다. 당시 까지만 해도 후면부 그릴은 엔진 보닛 부분에 차량번호판 양 옆으로 세로로 긴 직사각형의 그릴이 2개 위치하였고 보닛 좌측과 후진등을 감싸는 형식의 그릴이 더 있었다. [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink") RB520의 출시로 RB520과 비슷한 차체의 후기형/최후기형이 생산되었고 동시대 10\~11m급 저가형 리어엔진버스인 [RB520의](https://ko.wikipedia.org/wiki/현대_RB "wikilink") 후면부처럼 엔진 보닛과 그 우측에 7줄형식의 그릴이 있었다\[8\]. 경쟁 차종은 [BV 113](../Page/대우_BV.md "wikilink"), [AM908, AM918이다](https://ko.wikipedia.org/wiki/아시아_AM버스 "wikilink"). 경기도 직행버스인 [경기고속](../Page/경기고속.md "wikilink"), [대원고속](../Page/대원고속.md "wikilink")용일여객,충북업체인 경일여객,청주버스 충남업체인 충남교통 강원도 직행버스 업체인 [강원여객](https://ko.wikipedia.org/wiki/강원여객 "wikilink"), [진흥고속](https://ko.wikipedia.org/wiki/진흥고속 "wikilink"), [금강고속](https://ko.wikipedia.org/wiki/금강고속 "wikilink"), [동해고속](https://ko.wikipedia.org/wiki/동해고속 "wikilink"), [영암고속](../Page/영암고속.md "wikilink"),경북업체인 대한교통 [경남](https://ko.wikipedia.org/wiki/경남 "wikilink") 업체인[천일여객](https://ko.wikipedia.org/wiki/천일여객 "wikilink") [경남버스](https://ko.wikipedia.org/wiki/경남버스 "wikilink") [대한여객](https://ko.wikipedia.org/wiki/대한여객 "wikilink")[신흥여객](https://ko.wikipedia.org/wiki/신흥여객 "wikilink"),남흥여객,삼성여객등에서 부산천일고속관광 관광버스 도 쓰였다. 총 3,964량이다.
+
+#### RB585AR
+
+1984년에 최후기형 RB585와 같이 등장한 에어서스펜션 차량이다. RB585와 차별화 하기 위해 에어로버스와 비슷한 헤드램프와 범퍼를 사용했고, 에어서스펜션을 채용한것 외에는 기본적인 차체나 동력기관 제원은 RB585 최후기형과 비슷하다. 1986년에 풀체인지된 후속 모델인 에어로E가 등장했으나, 단종 대신에 마이너체인지 및 사양 조정을 거쳐 RB600H로 계승되었다. 강원도 강원여객,강원운수 경상남도 경남버스,남흥여객 경상북도 한일여객 관광업계 뉴부산,명진,동진,무궁화 에서 운행함
+
+#### RB600
+
+[1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink") [12월](https://ko.wikipedia.org/wiki/12월 "wikilink")에 최후기형 RB585의 마이너체인지 개량형 후속으로 출시한 차종이다. 전신인 RB585보다는 휠베이스와 전장이 늘어났으며, 엔진도 MAN사의 D2156HM(10,350cc) 형식에서 미쓰비시 후소의6D22(D6AU, 11,149cc) 형식으로 바뀌었다. 이 차종 역시 흡기구와 7줄 그릴은 사라지고 대신 엔진 보닛 좌측과 후진등을 감싸는 형식의 그릴이 적용되었다. RB600은 서울의 공항버스와 대구에 있는 [경일여자고등학교](https://ko.wikipedia.org/wiki/경일여자고등학교 "wikilink")에서도 운행하였으며, 통학버스 업체와 직행버스 업체에서도 인기를 얻었었다. 경기도 업체인 용남여객 경상남도 직행버스인 [경전여객](https://ko.wikipedia.org/wiki/경전여객 "wikilink"), [김해여객](https://ko.wikipedia.org/wiki/김해여객 "wikilink"), [부산교통](../Page/부산교통.md "wikilink"), [대한여객](https://ko.wikipedia.org/wiki/대한여객 "wikilink"),[영화여객](../Page/영화여객.md "wikilink") 이 있다. 경상북도 직행버스 업체인 [경북고속](https://ko.wikipedia.org/wiki/코리아와이드경북 "wikilink"), [아진고속](https://ko.wikipedia.org/wiki/아진고속 "wikilink"), [아성고속](https://ko.wikipedia.org/wiki/아성고속 "wikilink"), [천마고속](https://ko.wikipedia.org/wiki/천마고속 "wikilink")이 있다. 관광업계 에서는 경남,안동,삼화(대구)무궁화 에서 출고하였다[1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink"), 후속인 [에어로 600이](../Page/현대_에어로.md "wikilink") 출시하면서 단종되었다.
+
+#### RB600H
+
+1986년에 RB585AR의 마이너체인지 개량형으로 등장한 경제형 에어서스펜션 차종이다. RB585AR의 후속으로 에어로E가 등장했음에도 불구하고, 에어로E와 RB600의 사이를 이어주는 모델이었다. 에어로버스와 비슷한 헤드램프와 범퍼를 사용한 RB585AR과 거의 동일한 차체를 사용했으며, 후면 엔진룸 도어와 범퍼도 에어로 버스와 비슷한 모양으로 변경되었다. 에어서스펜션을 채용한것 이외의 전체적인 제원은 RB600과 동일했으며, 어중간한 성격의 차량이라 판매량은 그리 많지 않았고, 1988년에 에어로E에 통합되는 형태로 단종되었다. 전라남도 직행버스인 [금호고속](../Page/금호고속.md "wikilink"), [광신여객](https://ko.wikipedia.org/wiki/광신여객 "wikilink"), [광우고속](../Page/광우고속.md "wikilink"), [동방고속](../Page/동방고속.md "wikilink")이 있다. 전라북도 직행버스인 [대한고속](https://ko.wikipedia.org/wiki/대한고속 "wikilink"), [전북고속](../Page/전북고속.md "wikilink"), [안전여객](https://ko.wikipedia.org/wiki/안전여객 "wikilink")이 있다. 단종된지 23년만에 경제형 에어서스펜션 차종은 유니시티로 부활함에 따라 판스프링 준고속형 사양을 대체하고 있다.
+
+#### RB635
+
+[1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink") [12월](https://ko.wikipedia.org/wiki/12월 "wikilink")에 현대자동차에서 [메르세데스-벤츠 O 303의](../Page/메르세데스-벤츠_O_303.md "wikilink") 차대를 변경하여 출시한 12m급 고속버스 차종이었으나, 엔진의 경우 RB585에 달린 [독일](https://ko.wikipedia.org/wiki/독일 "wikilink") [만트럭버스사의](https://ko.wikipedia.org/wiki/MAN_SE "wikilink") D2156HM 엔진(10,350cc)이 탑재되었다. 경쟁 차종에 비하여 출력이 낮다는 비판에 [1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink")부터 8기통 엔진인 후소제 8DC80A엔진(14,886cc)을 옵션으로 추가하였으나 판매량은 낮았고, 결국 [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink")에 후속 없이 단종되었다. [1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink") [현대 에어로가](../Page/현대_에어로.md "wikilink") 이 차종을 대체했다.
+
+1군 고속버스 업체에서는 [광주고속](../Page/금호고속.md "wikilink"), [동양고속](https://ko.wikipedia.org/wiki/동양고속 "wikilink"), [동부고속](https://ko.wikipedia.org/wiki/동부고속 "wikilink"), [삼화고속](https://ko.wikipedia.org/wiki/삼화고속 "wikilink"), [속리산고속](https://ko.wikipedia.org/wiki/속리산고속 "wikilink"), [중앙고속](https://ko.wikipedia.org/wiki/중앙고속 "wikilink"), [천일고속](https://ko.wikipedia.org/wiki/천일고속 "wikilink"), [한일고속](https://ko.wikipedia.org/wiki/한일고속 "wikilink"), [한진고속](https://ko.wikipedia.org/wiki/한진고속 "wikilink")에서 출고하였다. [1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink") [5월](https://ko.wikipedia.org/wiki/5월 "wikilink")경에 대우 [BH120S](../Page/대우_BH.md "wikilink") 후기형으로 조기 대폐차되었고\[9\], 비공식적으로 [천일고속](https://ko.wikipedia.org/wiki/천일고속 "wikilink"), [한진고속](https://ko.wikipedia.org/wiki/한진고속 "wikilink")에서 1991년까지 운행했다. 총 484량이다.
+
+## 각주
+
+<references/>
+
+## 경쟁 차종
+
+  - [대우 BV](../Page/대우_BV.md "wikilink")
+  - [대우 BS](https://ko.wikipedia.org/wiki/대우_BS "wikilink")
+
+[RB](https://ko.wikipedia.org/wiki/분류:현대자동차의_버스_차종 "wikilink") [RB](https://ko.wikipedia.org/wiki/분류:버스 "wikilink") [RB](https://ko.wikipedia.org/wiki/분류:1970년대_자동차 "wikilink") [RB](https://ko.wikipedia.org/wiki/분류:1980년대_자동차 "wikilink")
+
+1.  <http://newslibrary.naver.com/viewer/index.nhn?articleId=1984040300099212019&editNo=2&printCount=1&publishDate=1984-04-03&officeId=00009&pageNo=12&printNo=5564&publishType=00020>
+2.  <http://newslibrary.naver.com/viewer/index.nhn?articleId=1984102600099207037&editNo=1&printCount=1&publishDate=1984-10-26&officeId=00009&pageNo=7&printNo=5739&publishType=00020>
+3.
+4.
+5.
+6.
+7.
+8.  <http://newslibrary.naver.com/viewer/index.nhn?articleId=1984040300099212019&editNo=2&printCount=1&publishDate=1984-04-03&officeId=00009&pageNo=12&printNo=5564&publishType=00020>
+9.  <http://newslibrary.naver.com/viewer/index.nhn?articleId=1985050100099210009&edtNo=1&printCount=1&publishDate=1985-05-01&officeId=00009&pageNo=10&printNo=5894&publishType=00020> (고속버스 30대 代廢車, 1985년 5월 1일자, [매일경제](https://ko.wikipedia.org/wiki/매일경제 "wikilink")신문)

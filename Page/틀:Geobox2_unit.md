@@ -1,0 +1,4 @@
+> This article is converted from Wikipedia: [:Geobox2 unit](https://ko.wikipedia.org/wiki/:Geobox2_unit).
+
+
+<includeonly> {{\#if: |title="{{\#if:||}}"}} {{\#if:  |{{\!}} colspan="2" style="" {{\!}} {{\#if: |**{{\#if:  |  |  }}{{\#if:|: }}**}} |{{\#if:  | {{\!}} | \! }} style="" {{\!}} {{\#if:  |  -  }}{{\#if:  |  |  }} {{\!}} }}{{\#if: | {{\#iferror:  }} | {{\#if:  |  |  }} |  }} | | {{\#if: | }} }} | {{\#if:  |  |  }} |  }} }} }}{{\#if: |}}{{\#if: |,  }}{{\#if: |{{\#if: || }}  }} |- class="mergedrow" </includeonly><noinclude>[unit](https://ko.wikipedia.org/wiki/분류:Geobox2_포함_항목 "wikilink")</noinclude>

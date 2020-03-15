@@ -1,0 +1,53 @@
+> This article is converted from Wikipedia: [! FM](https://ko.wikipedia.org/wiki/!_FM).
+
+
+**출발\! 해피FM 김성은입니다**는 [한국방송공사](../Page/한국방송공사.md "wikilink")의 라디오 채널 [KBS 제2라디오](../Page/KBS_제2라디오.md "wikilink")(수도권 기준 FM 106.1㎒, AM 603㎑)에서 매일 새벽 5시부터 아침 6시까지 방송하는 라디오 방송이다. 기존 오전 5시부터 6시까지 방송하던 [활기찬 새아침 김성은입니다에서](https://ko.wikipedia.org/wiki/활기찬_새아침 "wikilink") [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") KBS 라디오 봄 개편으로 개편된 프로그램이다. [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") 방송하던 [출발\! 해피FM 이광용입니다와](https://ko.wikipedia.org/wiki/출발!_해피FM_이광용입니다 "wikilink") 이름이 같다.
+
+## DJ
+
+  - [김성은](https://ko.wikipedia.org/wiki/김성은_\(아나운서\) "wikilink") 아나운서
+
+## 주요 코너
+
+### 요일 코너
+
+**월요일**
+
+  - 그땐 그랬지\!
+
+7,80년대 화제가 됐던 뉴스기사와 함께 당시의 추억의 인기가요를 들어보자
+
+**화요일**
+
+  - 나는 전설이다 (국내)
+
+다시 들어도 좋고, 언제 들어도 감동인 대한민국과 중국의 유명 가수들의 음악세계와 히트곡을 들려드립니다. 삶이 노래가 된 가수들을 만나보세요\~.
+
+**수요일**
+
+  - 그 장면 그 음악
+
+유명 영화나 드라마의 OST는 세월이 지나도 기억에 남는 선물처럼 가슴을 뭉클하게 하는 감동이 있지요. 그 음악 때문에 잊을 수 없는 그 장면.. 스토리보다 더 기억에 남는 OST를 함께 감상해볼까요?
+
+**목요일**
+
+  - 테마가 있는 음악
+
+오늘은 왠지\~\~바람에 나부끼는 잎새에 설렌다면... 이별을 겪고 우울하다면... 때마다 불쑥불쑥 올라와 폭풍처럼 몰아치는 감정에 어울리는 테마별 음악을 추천해드립니다.
+
+**금요일**
+
+  - 나는 전설이다 (해외)
+
+다시 들어도 좋고, 언제 들어도 감동인 대한민국과 중국을 제외한 해외 유명 팝가수들의 음악세계와 월드팝을 들려드립니다.
+
+## 같이 보기
+
+  - [세상을 여는 아침 김초롱입니다](https://ko.wikipedia.org/wiki/세상을_여는_아침 "wikilink") (MBC FM4U)
+  - [생방송 톡\!톡\! 보니하니](https://ko.wikipedia.org/wiki/생방송_톡!톡!_보니하니 "wikilink") (EBS 1TV)
+
+## 외부 링크
+
+  - [KBS 해피FM 출발 해피FM 김성은입니다 공식 홈페이지](http://program.kbs.co.kr/2radio/radio/start)
+
+[분류:한국방송공사의 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:한국방송공사의_라디오_프로그램 "wikilink")

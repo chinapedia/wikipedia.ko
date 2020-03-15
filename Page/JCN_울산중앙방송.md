@@ -1,0 +1,55 @@
+> This article is converted from Wikipedia: [JCN ](https://ko.wikipedia.org/wiki/JCN_).
+
+
+**JCN 울산중앙방송**은 [울산광역시](https://ko.wikipedia.org/wiki/울산광역시 "wikilink")의 유일한 SO 방송국으로 이전에는 라이벌 케이블 SO사인 [구 GS울산방송과도](https://ko.wikipedia.org/wiki/C&M "wikilink") 경쟁 관계가 깊은 채널이기도 한다. [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [11월 25일](https://ko.wikipedia.org/wiki/11월_25일 "wikilink") 케이블TV 방송국 사옥 준공과 동시에 개국하였으며, [2012년 7월](https://ko.wikipedia.org/wiki/2012년_7월 "wikilink") [C\&M 울산 케이블TV를](https://ko.wikipedia.org/wiki/C&M "wikilink") 인수, 합병하였다.
+
+## 연혁
+
+  - 2000년 10월 23일 JCN 울산중앙방송(주) 창립
+  - 2002년 11월 27일 부가통신사업신고 취득
+  - 2002년 12월 20일 종합유선방송사업 허가
+  - 2003년 1월 1일 종합유선방송 송출 개시
+  - 2003년 10월 4일 사옥증축 준공
+  - 2003년 11월 25일 종합유선방송국 개국
+  - 2003년 12월 1일 케이블TV 지역방송국 정치,문화,사회부문 취재/보도실시
+  - 2003년 12월 1일 (주)울산태화케이블방송(5개지점) 인수
+  - 2004년 1월 19일 한국종합유선방송협회 회원가입
+  - 2004년 7월 9일 (주)대양기업 흡수 합병
+  - 2005년 4월 1일 하나로텔레콤(주)와 상호협력 계약 체결
+  - 2005년 4월 9일 제1회 JCN회장배 바다낚시 대회
+  - 2005년 6월 1일 강동유선 가입자 인수
+  - 2006년 9월 24일 제2회 JCN회장배 바다낚시 대회
+  - 2006년 9월 27일 케이블TV 디지털방송 브랜드(포디)결정
+  - 2006년 10월 1일 케이블TV 디지털방송 상용서비스 개시
+  - 2007년 9월 매일경제TV(MBN)과 보도업무 제휴
+  - 2007년 12월 제1회 우리동네가수왕 왕중왕전
+  - 2008년 10월 울산지역 4차 SO(종햡유선방송) 재허가 취득
+  - 2008년 12월 제2회 우리동네가수왕 왕중왕전
+  - 2009년 5월 정보통신사업 면허취득
+  - 2009년 6월 디지털방송 VOD서비스 구축 및 개시
+  - 2009년 7월 울산전지역 870MHZ 전송망 구축 완료
+  - 2009년 10월 디지털방송 "JCN TV 지역포탈서비스" 개시
+  - 2009년 12월 제3회 우리동네가수왕 왕중왕전
+  - 2010년 3월 SK브로드밴드와 전송망 상호업무 제휴
+  - 2010년 6월 울산 전지역 초고속 인터넷 3.0 서비스(100M급) 개시
+  - 2010년 12월 디지털방송 가입자 3만세대 돌파
+  - 2011년 5월 지역채널(CH15) HD 디지털방송 시스템 구축
+  - 2012년 7월 C\&M(현 [딜라이브](https://ko.wikipedia.org/wiki/딜라이브 "wikilink")) 계열 울산케이블TV 인수
+  - 2013년 1월 지역채널 22번 변경
+  - 2014년 1월 JCN알뜰폰 사업 시작
+  - 2015년 7월 14일 지역채널 5번 변경
+
+## 사옥 현황
+
+  - 달동 사옥: [울산광역시](https://ko.wikipedia.org/wiki/울산광역시 "wikilink") [남구](https://ko.wikipedia.org/wiki/남구_\(울산광역시\) "wikilink") 신정로 76
+  - 신정동 사옥: [울산광역시](https://ko.wikipedia.org/wiki/울산광역시 "wikilink") [남구](https://ko.wikipedia.org/wiki/남구_\(울산광역시\) "wikilink") 돋질로 39
+
+## 같이 보기
+
+  - [딜라이브](https://ko.wikipedia.org/wiki/딜라이브 "wikilink")
+
+## 외부 링크
+
+  - [JCN 울산중앙방송](http://www.jcntv.co.kr/)
+
+[분류:대한민국의 종합유선방송사업자](https://ko.wikipedia.org/wiki/분류:대한민국의_종합유선방송사업자 "wikilink") [분류:울산광역시의 대중 매체](https://ko.wikipedia.org/wiki/분류:울산광역시의_대중_매체 "wikilink") [분류:2000년 설립](https://ko.wikipedia.org/wiki/분류:2000년_설립 "wikilink") [분류:2003년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2003년_설립된_텔레비전_방송국과_채널 "wikilink")

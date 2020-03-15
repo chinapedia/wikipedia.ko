@@ -1,0 +1,50 @@
+> This article is converted from Wikipedia: [EBS ](https://ko.wikipedia.org/wiki/EBS_).
+
+
+《**EBS 정오뉴스**》(EBS NOON NEWS)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") [EBS 1TV에서](https://ko.wikipedia.org/wiki/EBS_1TV "wikilink") 평일 낮 12시에 방송되는 [한국교육방송공사의 낮 뉴스 프로그램이다](https://ko.wikipedia.org/wiki/한국교육방송공사의_뉴스_프로그램 "wikilink").
+
+## 개요
+
+  - 2010년 2월 22일부터 평일 오전 10시에 **EBS 10시 뉴스**로 신설되어 30분간 아침뉴스로 방송되었다. 그러다가 2011년 2월 28일부터 현재의 명칭으로 변경되어 평일 낮 12시로 변경, 10분으로 단축, 낮 뉴스로 전환되었다.
+  - 편성표, 오프닝의 타이틀에는 **EBS 뉴스**로 표현된다.
+
+## 방송 시간
+
+현재 방송시간은 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [2월 28일부터를](https://ko.wikipedia.org/wiki/2월_28일 "wikilink") 기준으로 한다.
+
+| 방송 채널                                                                                                                       | 방송 기간                                                                                                                                                                                                                                  | 방송 시간                      |
+| --------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| [EBS 1TV](https://ko.wikipedia.org/wiki/EBS_1TV "wikilink")                                                                 | [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [2월 22일](https://ko.wikipedia.org/wiki/2월_22일 "wikilink") \~ [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [2월 25일](https://ko.wikipedia.org/wiki/2월_25일 "wikilink") | 평일 오전 10시 \~ 10시 30분 (30분) |
+| [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [2월 28일](https://ko.wikipedia.org/wiki/2월_28일 "wikilink") \~ **현재** | 평일 낮 12시 \~ 12시 10분 (10분)                                                                                                                                                                                                              |                            |
+
+## 앵커
+
+  - 1대 [박민영](https://ko.wikipedia.org/wiki/박민영_\(아나운서\) "wikilink") 아나운서 (여)
+
+### 역대 앵커
+
+| 대수 | 진행자                                                               | 진행 기간                  | 비고    |
+| -- | ----------------------------------------------------------------- | ---------------------- | ----- |
+| 1대 | [박민영](https://ko.wikipedia.org/wiki/박민영_\(아나운서\) "wikilink") 아나운서 | 2010년 2월 22일 \~ **현재** | \[1\] |
+
+## 타이틀 변천사
+
+| 역대 | 타이틀        | 방송 기간                                                                                                                                                                                                                                  |
+| -- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1대 | EBS 10시 뉴스 | [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [2월 22일](https://ko.wikipedia.org/wiki/2월_22일 "wikilink") \~ [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [2월 25일](https://ko.wikipedia.org/wiki/2월_25일 "wikilink") |
+| 2대 | EBS 정오뉴스   | [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [2월 28일](https://ko.wikipedia.org/wiki/2월_28일 "wikilink") \~ **현재**                                                                                                            |
+
+## 관련 항목
+
+  - [KBS 뉴스 12](../Page/KBS_뉴스_12.md "wikilink") (KBS 1TV)
+  - [12 MBC 뉴스](../Page/12_MBC_뉴스.md "wikilink") (MBC)
+  - [SBS 12 뉴스](https://ko.wikipedia.org/wiki/SBS_12_뉴스 "wikilink") (SBS)
+  - [OBS 경인투데이](../Page/OBS_경인투데이.md "wikilink") (OBS)
+
+## 각주
+
+<references />
+
+[분류:한국교육방송공사의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:한국교육방송공사의_뉴스_텔레비전_프로그램 "wikilink")
+
+1.  [박민영](https://ko.wikipedia.org/wiki/박민영_\(아나운서\) "wikilink") 아나운서의 휴가로 인하여, 2019년 4월 30일 \~ 2019년 6월 28일 방송분은 [EBS 저녁뉴스의](../Page/EBS_저녁뉴스.md "wikilink") 앵커인 [유나영](../Page/유나영.md "wikilink") 아나운서가 대신 진행했다.

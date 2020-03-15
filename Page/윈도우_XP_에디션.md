@@ -1,0 +1,77 @@
+> This article is converted from Wikipedia: [ XP ](https://ko.wikipedia.org/wiki/_XP_).
+
+
+**[윈도우 XP](../Page/윈도우_XP.md "wikilink")**는 2001년 10월에 출시되었다. 윈도우 XP는 다른 [윈도우](https://ko.wikipedia.org/wiki/마이크로소프트_윈도우 "wikilink") 계열 운영 체제와 마찬가지로 다국어를 지원한다. 다만, 그 전의 [윈도우](https://ko.wikipedia.org/wiki/마이크로소프트_윈도우 "wikilink") 계열 운영 체제와는 다르게 여러가지 에디션으로 나뉘었다. 그로 인해 윈도우 XP 이후로 출시되는 운영 체제는 여러 가지 에디션을 가지게 된다.
+
+## 홈 에디션과 프로페셔널
+
+[오른쪽](https://ko.wikipedia.org/wiki/파일:XP-Editions.svg "wikilink") **홈 에디션**은 가정용으로, **프로페셔널**은 비지니스와 고급 사용자용으로 두 버전이 출시되었다. 프로페셔널은 홈 에디션과 달리 많은 것이 포함되어 있다.
+
+  - [인터넷 정보 서비스와](../Page/인터넷_정보_서비스.md "wikilink") HTTP, FTP 서버가 포함되어 있다.
+  - [그룹 정책이](../Page/그룹_정책.md "wikilink") 포함되어 있다. 자동 소프트웨어 설치 및 유지 보수, 로밍 사용자 프로필 및 원격 설치 서비스 (RIS)를 포함하여 하는 기능이다.
+  - [원격 데스크톱을](https://ko.wikipedia.org/wiki/원격_데스크톱 "wikilink") 통해 다른 컴퓨터에 접속할 수 있다.
+  - 오프라인 파일 및 폴더, 네트워크에서 연결이 끊어진 동안 PC는 자동으로 다른 네트워크로 연결된 컴퓨터 및 그들과 함께 작업해서 파일의 복사본을 저장할 수 있다.
+  - 윈도우 서버 도메인의 일부로 설정하는 기능이 있다. 컴퓨터의 그룹을 원격으로 한 대 이상을 중앙 서버에서 관리한다.
+  - 정교한 액세스 제어로 어떤 파일을 상황에 따라 사용 권한을 일반 사용자에게 부여될 수 있다.
+  - 파일 시스템 암호화로 하드 디스크를 암호화하여, 다른 컴퓨터에는 읽을 수 없게 한다.
+  - 물리적인 멀티 CPU를 지원한다. (왜냐하면 멀티 코어와 하이퍼스레딩은 물리적인 싱글 프로세서의 부분으로 여긴다. 멀티 코어 CPU는 홈 에디션에 사용되도록 지원되게 한다.)
+  - WMIC (윈도우 관리 기계 콘솔): wmic는 명령 프롬프트를 사용하여 시스템에 대한 WMI에서 정보 검색을 쉽게하기 위해 설계된 명령 줄 도구이다.
+
+### 윈도우 XP N 버전
+
+**윈도우 XP 에디션 N**는 2004년 3월, 유럽 위원회는 마이크로소프트사에게 [윈도우 미디어 플레이어를](https://ko.wikipedia.org/wiki/윈도우_미디어_플레이어 "wikilink") 끼워판 데 대하여 과징금 497백만유로(약 7731억 2823만원)을 부과하고, 윈도우 미디어 플레이어를 빼고 공급하라고 지시하였다. 윈도우 XP 에디션 N의 뜻은 "윈도우 미디어 플레이어가 없다"라는 뜻이다. 대신에 다른 동영상 플레이어를 사용자가 직접 고를 수 있게 하도록 하였다.
+
+또한, 윈도우 XP 에디션 N은 윈도우 무비 메이커가 내장되어 있지않다. 그러나 사용자가 직접 내려 받을수 있게 하였다.
+
+### 윈도우 XP K / KN버전
+
+**윈도우 XP K / KN**는 2005년 12월, 대한민국 공정거래위원회가 유럽 위원회와 비슷한 결정을 하고 마이크로소프트사에 윈도우 XP와 윈도우 서버 2003에서 윈도우 미디어 플레이어와 윈도우 메신저를 빼고 공급하라고 지시해서 만들어진 운영체제이다. 윈도우 XP 프로페셔널과 홈 에디션의 K와 KN 에디션은 2006년 8월 한국어와 영어 버전을 출시하였다. 두 버전 모두 메신저와 미디어 플레이어를 고를 수 있도록 하였다.
+
+### 윈도우 XP 홈 에디션 ULCPC
+
+**윈도우 XP 홈 에디션 ULCPC**는 넷북을 위해 홈 에디션을 싸게 팔기 위해 결정한 것이다. ULCPC는 초저가 개인용 컴퓨터(Ultra Low Cost Personal Computer)의 준말이다.
+
+## 스타터 에디션
+
+**윈도우 XP 스타터 에디션**은 [태국](../Page/태국.md "wikilink"), [베트남](https://ko.wikipedia.org/wiki/베트남 "wikilink"), [터키](https://ko.wikipedia.org/wiki/터키 "wikilink"), [인도네시아](https://ko.wikipedia.org/wiki/인도네시아 "wikilink"), [인도](https://ko.wikipedia.org/wiki/인도 "wikilink"), [콜롬비아](https://ko.wikipedia.org/wiki/콜롬비아 "wikilink"), [브라질](https://ko.wikipedia.org/wiki/브라질 "wikilink"), [아르헨티나](https://ko.wikipedia.org/wiki/아르헨티나 "wikilink"), [페루](https://ko.wikipedia.org/wiki/페루 "wikilink"), [볼리비아](https://ko.wikipedia.org/wiki/볼리비아 "wikilink"), [칠레](https://ko.wikipedia.org/wiki/칠레 "wikilink"), [멕시코](https://ko.wikipedia.org/wiki/멕시코 "wikilink"), [에콰도르](https://ko.wikipedia.org/wiki/에콰도르 "wikilink"), [우루과이](https://ko.wikipedia.org/wiki/우루과이 "wikilink") 및 [베네수엘라](https://ko.wikipedia.org/wiki/베네수엘라 "wikilink")에서 윈도우 XP를 사용하기 위해 가격을 내리게 한 버전이다. 하지만 홈 에디션과 달리 응용 프로그램을 3개까지만 실행할 수 있고, 다른 기능을 기본적으로 사용을 못 하게 하거나 삭제하였다. 출시보도에 따르면 [마이크로소프트](https://ko.wikipedia.org/wiki/마이크로소프트 "wikilink")에서 개발도상국을 위한 버전이라고 발표하였다.
+
+### 특성화
+
+스타터 에디션은 윈도우 XP의 비싼 버전을 소비자들이 사도록 하기 위해 여러가지 제한이 있다. 실행할 수 있는 응용 프로그램을 최대 세 개로 제한을 두었고, 최대 화면 해상도는 1024x768로 제한했고, 도메인 네트워킹과 작업그룹이 지원되지 않는다. 또한 스타터 에디션이므로 [인텔](https://ko.wikipedia.org/wiki/인텔 "wikilink") [셀러론](https://ko.wikipedia.org/wiki/셀러론 "wikilink")과 [AMD](https://ko.wikipedia.org/wiki/AMD "wikilink") 셈프론과 듀론 밖에 사용하지 못한다. 메모리는 512MB로 제한했고, 하드디스크는 120GB로 제한했다.
+
+### 시장 채택
+
+[2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [10월 9일](https://ko.wikipedia.org/wiki/10월_9일 "wikilink"), 윈도우 XP 스타터 에디션이 백만 개가 팔렸다고 마이크로소프트사가 발표했다. 하지만 대중시장에서는 큰 성공을 거두지 못했다.
+
+## 윈도우 XP 64비트 에디션
+
+윈도우 XP 64비트 에디션에는 순수 [IA-64](../Page/아이테니엄.md "wikilink") 모드의 [인텔](https://ko.wikipedia.org/wiki/인텔 "wikilink") [아이테니엄](../Page/아이테니엄.md "wikilink") 계열의 [마이크로프로세서](https://ko.wikipedia.org/wiki/마이크로프로세서 "wikilink")에서 동작하도록 설계되었다.
+
+윈도우 XP 64비트 에디션에는 두 가지 버전이 있다:
+
+  - 윈도우 XP 64비트 에디션 - 아이테니엄 시스템 (버전 2002) - 윈도우 XP 코드 기반. 32비트 버전의 윈도우 XP와 2001년 10월 25일 동시에 출시.
+  - 윈도우 XP 64비트 에디션 - 버전 2003 (버전 2003) - [아이테니엄 2](../Page/아이테니엄.md "wikilink") 프로세서 지원 추가. 2003년 3월 28일 출시.
+
+## 윈도우 XP 프로페셔널 x64 에디션
+
+이 에디션은 [x86-64](https://ko.wikipedia.org/wiki/x86-64 "wikilink") 에디션의 인텔 IA-32 아키텍처 확장을 지원한다. x86-64은 AMD의 경우 AMD64, 인텔의 경우 인텔 64(IA-32e 및 EM64T)에 해당한다. 2005년 4월 25일에 출시되었다.
+
+## 윈도우 XP 미디어센터 에디션
+
+이 에디션은 [윈도우 XP에](../Page/윈도우_XP.md "wikilink") 미디어센터가 포함된 버전이다. 2003년부터 매년마다 새 버전이 나오다가 [윈도우 비스타가](../Page/윈도우_비스타.md "wikilink") 나오면서 단종되었다.\[1\]
+
+## 임베디드 시스템용 에디션
+
+### 윈도우 XP 포 임베디드 시스템
+
+윈도우 XP 포 임베디드 시스템은 윈도우 XP 프로페셔널과 동일한 바이너리이지만 임베디드 장치를 대상으로만 라이선스된다.
+
+### 윈도우 XP 임베디드
+
+**XPe**로 흔히 줄여 언급되는 윈도우 XP 임베디드는 윈도우 XP 프로페셔널 에디션의 컴포넌트화된 버전이다.
+
+## 각주
+
+[분류:마이크로소프트 윈도우](https://ko.wikipedia.org/wiki/분류:마이크로소프트_윈도우 "wikilink") [분류:마이크로소프트의 운영 체제](https://ko.wikipedia.org/wiki/분류:마이크로소프트의_운영_체제 "wikilink") [분류:윈도우 NT](https://ko.wikipedia.org/wiki/분류:윈도우_NT "wikilink")
+
+1.  2005버전에는 플러스 팩이 통합되었다.

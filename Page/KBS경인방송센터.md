@@ -1,0 +1,227 @@
+> This article is converted from Wikipedia: [KBS](https://ko.wikipedia.org/wiki/KBS).
+
+
+**KBS경인방송센터**(韓國放送公社 京仁放送-)는 [한국방송공사](../Page/한국방송공사.md "wikilink") 정책기획본부 지역정책실 산하 조직으로 구성된 지역방송국으로 [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink")와 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") 지역 방송권을 별개로 분리하여, 경인지역 로컬 뉴스를 중점적으로 제작하고 있다. KBS수원드라마제작센터 내에 위치하고 있는 이 방송국은 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [8월 24일에](https://ko.wikipedia.org/wiki/8월_24일 "wikilink") 방송통신위원회(현 [과학기술정보통신부](https://ko.wikipedia.org/wiki/과학기술정보통신부 "wikilink"))로부터 허가를 취득하였으며, 그 해 [9월 13일에](https://ko.wikipedia.org/wiki/9월_13일 "wikilink") 개국하였다\[1\]\[2\].
+
+## 조직
+
+  - 편성제작국 : TV 제작, 편성, 아나운서
+  - 보도국 : 영상 취재, 취재, 수원지국, 인천지국, 의정부지국
+  - 기술국 : 기술 관리, TV 기술, 라디오 기술, 중계 기술, 송출 기술
+  - 시청자서비스국 :
+  - 총무국 : 총무, 재원 관리
+
+## 연혁
+
+  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [8월 24일](https://ko.wikipedia.org/wiki/8월_24일 "wikilink") : 방송국 허가
+  - 2010년 [9월 13일](https://ko.wikipedia.org/wiki/9월_13일 "wikilink") : KBS경인방송센터 개국
+  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [12월 31일](https://ko.wikipedia.org/wiki/12월_31일 "wikilink") : 오전 4시 마지막 수도권 지역에서 지상파 아날로그 TV 방송 종료
+  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [4월 22일](https://ko.wikipedia.org/wiki/4월_22일 "wikilink") : 아침 시간대 로컬 뉴스 자체 방송 개시([KBS 뉴스광장](https://ko.wikipedia.org/wiki/KBS_뉴스광장 "wikilink"), [KBS 930 뉴스](../Page/KBS_930_뉴스.md "wikilink"))
+
+## 논란
+
+### 난시청 문제
+
+[방송통신위원회가](../Page/대한민국_방송통신위원회.md "wikilink") KBS경인방송센터를 두 달 만에 허가를 승인해줬다는 점에서 충분한 준비없이 급하게 개국했다는 지적들이 나오고 있다. 현재 키 스테이션인 양평의 용문산중계소를 송신소로 사용하고 있는데, 방송커버리지가 이전 커버리지비율인 90%보다 낮은 67%여서 개국 당시 많은 난시청지역이 발생하였고, 많은 [케이블 SO 업체들이](../Page/대한민국의_케이블TV_방송.md "wikilink") 경인방송센터의 채널을 수신할 수 없어 어려움을 겪었다. 이를 해소하기 위해 KBS에서는 경인지역 내에 혼선 방지 차원에서 많은 TV 중계소를 점진적으로 구축하였다\[3\]\[4\].
+
+### 광교산중계소 디지털TV 전파 혼선 문제
+
+[2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink")경에 [남산송신소의](https://ko.wikipedia.org/wiki/N서울타워 "wikilink") 전파를 수신하던 수원의 한 시청자가 갑자기 [EBS](https://ko.wikipedia.org/wiki/EBS_TV "wikilink")(물리채널 64)와 [SBS](https://ko.wikipedia.org/wiki/SBS_TV "wikilink")(물리채널 68)가 수신되던 채널에서 KBS경인 1TV(물리채널 64)와 KBS 2TV(물리채널 68)가 대신 수신되고 있어 해당 방송을 제대로 시청 할 수 없게되었다는 제보가 올라왔다. 이후 KBS 측에서 광교산중계소에서 해당 채널로 디지털TV 방송을 송출하고 있어 일부 지역에서 남산송신소의 전파에 장애를 일으키고 있다는 사실이 밝혀져 논란을 일으켰다\[5\]\[6\]\[7\].
+
+#### 해결 방안
+
+[2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink")에 [방송통신위원회](../Page/대한민국_방송통신위원회.md "wikilink")(현 [과학기술정보통신부](https://ko.wikipedia.org/wiki/과학기술정보통신부 "wikilink"))와 각 방송사들이 논의한 결과, KBS의 디지털 TV 채널을 변경하는 대신 SBS와 EBS 디지털 TV방송 중계시설을 신설하여 임시채널로 송출하는 것으로 결론이 났다. 우선 임시로 채널을 배정한 뒤, [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [10월 30일까지](https://ko.wikipedia.org/wiki/10월_30일 "wikilink") 모든 채널을 확정된 채널로 변경하면서 남산송신소와의 혼신 문제도 사라졌으며, 해당지역 난시청도 해소되었다.\[8\]
+
+## 방송 송출 시설망
+
+### TV
+
+  - 1TV
+      - 호출부호 : HLAY-DTV
+      - 가상채널 : 9-1
+
+| 송신소      | UHD                       | HD                        | 송신소 위치                  | 비고                          |
+| -------- | ------------------------- | ------------------------- | ----------------------- | --------------------------- |
+| 물리채널     | 출력                        | 물리채널                      | 출력                      |                             |
+| 1TV      | 2TV                       | 1TV                       | 2TV                     |                             |
+| 용문산 송신소  | <font color=#dcdcdc>CH 52 | <font color=#dcdcdc>CH 56 | <font color=#dcdcdc>2kW | CH 26                       |
+| 청평A 소출력  |                           | CH 26                     | CH 28                   | 0.05W                       |
+| 청평B 소출력  | CH 26                     | CH 28                     | 0.05W                   | 경기 가평군 청평면 청평리              |
+| 청평C 소출력  | CH 32                     | CH 41                     | 0.05W                   | 경기 가평군 청평면 삼회리              |
+| 가평A 소출력  | CH 32                     | CH 41                     | 0.05W                   | 경기 가평군 가평읍 달전리              |
+| 가평C 소출력  | CH 26                     | CH 28                     | 0.05W                   | 경기 가평군 가평읍 읍내리              |
+| 단월 소출력   | CH 26                     | CH 28                     | 0.05W                   | 경기 양평군 단월면 명성리              |
+| 감악산 중계소  | CH 20                     | CH 24                     | 2kW                     | 경기 파주시 적성면 객현리 산182         |
+| 파평 중계소   | CH 26                     | CH 28                     | 90W                     | 경기 파주시 파평면 눌노리 산23-8 (파평산)  |
+| 고양 소출력   | CH 14                     | CH 16                     | 0.05W                   | 경기 고양시 덕양구 고양동 240-6        |
+| 동두천 중계소  | CH 38                     | CH 36                     | 20W                     | 경기 동두천시 생연1동 산44-1          |
+| 불현 소출력   | CH 15                     | CH 18                     | 0.05W                   | 경기 동두천시 불현동                 |
+| 천보산 중계소  | CH 25                     | CH 19                     | 10W                     | 경기 의정부시 금오동                 |
+| 가능 중계소   | CH 35                     | CH 36                     | 5W                      | 경기 의정부시 흥선동 산39-1           |
+| 신곡 소출력   | CH 15                     | CH 17                     | 0.05W                   | 경기 의정부시 신곡동 53-464          |
+| 포천 중계소   | CH 45                     | CH 49                     | 20W                     | 경기 포천시 신북면 기지리 산98-5        |
+| 소흘 중계소   | CH 26                     | CH 28                     | 5W                      | 경기 포천시 소흘읍 고모리 산64          |
+| 포천 소출력   | CH 45                     | CH 49                     | 0.05W                   | 경기 포천시 신읍동 700              |
+| 진접 중계소   | CH 36                     | CH 38                     | 20W                     | 경기 남양주시 진접읍 장현리 산45-1       |
+| 수택 소출력   | CH 15                     | CH 17                     | 0.05W                   | 경기 구리시 수택동 549-6            |
+| 화도 중계소   | CH 25                     | CH 37                     | 20W                     | 경기 남양주시 화도읍 마석우리 산68        |
+| 수동 소출력   | CH 26                     | CH 28                     | 0.05W                   | 경기 남양주시 수동면 입석리 522-2       |
+| 진촌 중계소   | CH 23                     | CH 25                     | 20W                     | 인천 옹진군 백령면 북포리 산138-3       |
+| 대청 중계소   | CH 24                     | CH 26                     | 5W                      | 인천 옹진군 대청면                  |
+| 하점 중계소   | CH 40                     | CH 42                     | 20W                     | 인천 강화군 하점면 이강리 산173-3 (별립산) |
+| 선원 소출력   | CH 15                     | CH 17                     | 0.05W                   | 인천 강화군 선원면 창리 663           |
+| 화도 소출력   | CH 15                     | CH 17                     | 0.05W                   | 인천 강화군 화도면 동막리              |
+| 교동A 소출력  | CH 15                     | CH 17                     | 0.05W                   | 인천 강화군 교동면 대룡리              |
+| 교동B 소출력  | CH 15                     | CH 17                     | 0.05W                   | 인천 강화군 교동면 동산리              |
+| 교동C 소출력  | CH 15                     | CH 17                     | 0.05W                   | 인천 강회군 교동면 대룡리              |
+| 계양산 중계소  | <font color=#dcdcdc>CH 52 | <font color=#dcdcdc>CH 56 | <font color=#dcdcdc>2kW | CH 38                       |
+| 인천송학 중계소 |                           | CH 40                     | CH 31                   | 5W                          |
+| 만월 중계소   | CH 26                     | CH 28                     | 20W                     | 인천 남동구 간석3동 산32-1 (만월산)     |
+| 십정 소출력   | CH 15                     | CH 17                     | 0.05W                   | 인천 부평구 십정동 293-10           |
+| 구월 소출력   | CH 15                     | CH 17                     | 0.05W                   | 인천 남동구 구월동 1089-3           |
+| 간석 소출력   | CH 15                     | CH 17                     | 0.05W                   | 인천 남동구 간석3동                 |
+| 운서 소출력   | CH 15                     | CH 17                     | 0.05W                   | 인천 중구 운서동 2787-1            |
+| 안산 중계소   | CH 32                     | CH 28                     | 10W                     | 경기 안산시 상록구 성포동 산40-1 (노적봉)  |
+| 사동1 소출력  | CH 15                     | CH 17                     | 0.05W                   | 경기 안산시 상록구 사1동              |
+| 사동2 소출력  | CH 42                     | CH 48                     | 0.05W                   | 경기 안산시 상록구 사2동              |
+| 광명 중계소   | CH 37                     | CH 42                     | 20W                     | 경기 광명시 광명7동 산65-1 (도덕산)     |
+| 광교산 중계소  | CH 52                     | CH 56                     | 2kW                     | CH 42                       |
+| 성남 중계소   |                           | CH 26                     | CH 28                   | 20W                         |
+| 운중 중계소   | CH 20                     | CH 35                     | 20W                     | 경기 성남시 분당구 운중동 산83          |
+| 광주 중계소   | CH 20                     | CH 33                     | 20W                     | 경기 광주시 초월읍 지월리 산35          |
+| 송정 소출력   | CH 15                     | CH 17                     | 0.05W                   | 경기 광주시 송정동 570 (광주시청)       |
+| 광남 소출력   | CH 22                     | CH 45                     | 0.05W                   | 경기 광주시 삼동 504               |
+| 오포 소출력   | CH 15                     | CH 17                     | 0.05W                   | 경기 광주시 오포읍 능평리 916          |
+| 곤지암A 소출력 | CH 20                     | CH 35                     | 0.05W                   | 경기 광주시 곤지암읍 삼리              |
+| 곤지암B 소출력 | CH 20                     | CH 35                     | 0.05W                   | 경기 광주시 곤지암읍 삼리              |
+| 도척A 소출력  | CH 15                     | CH 17                     | 0.05W                   | 경기 광주시 도척면 진우리              |
+| 도척C 소출력  | CH 26                     | CH 28                     | 0.05W                   | 경기 광주시 도척면 노곡리              |
+| 용인 중계소   | CH 36                     | CH 39                     | 20W                     | 경기 용인시 처인구 역북동 산3-1         |
+| 모현 소출력   | CH 15                     | CH 17                     | 0.05W                   | 경기 용인시 모현면 동림리              |
+| 이동 중계소   | CH 32                     | CH 22                     | 20W                     | 경기 용인시 처인구 이동면 어비리 산80-1    |
+| 원삼 소출력   | CH 15                     | CH 17                     | 0.05W                   | 경기 용인시 처인구 원삼면 맹리 378-1     |
+| 안성 중계소   | CH 36                     | CH 39                     | 20W                     | 경기 안성시 당왕동 산26              |
+
+  - 아날로그TV
+
+<!-- end list -->
+
+  - <span style="color:dimgray;">1TV
+      - 호출부호 : HLAY-TV
+
+| 송신소     | 채널    | 출력    | 송신소 위치     |
+| ------- | ----- | ----- | ---------- |
+| 1TV     | 2TV   |       |            |
+| 용문산 송신소 | CH 32 | CH 26 | 10kW       |
+| 감악산 중계소 | CH 39 | CH 50 | 500W       |
+| 파평 중계소  | CH 46 | CH 42 | 500W       |
+| 고양 중계소  | CH 44 | \-    | 10W        |
+| 신서 중계소  | CH 13 |       | 10W        |
+| 광암 중계소  | CH 30 | CH 25 | 10W        |
+| 동두천 중계소 | CH 56 | CH 31 | 100W       |
+| 가능 중계소  | CH 39 | CH 48 | 10W        |
+| 포천 중계소  | CH 30 | CH 20 | 100W       |
+| 소흘 중계소  | CH 51 | CH 54 | 10W        |
+| 진접 중계소  | CH 44 | \-    | 10W        |
+| 화도 중계소  | CH 46 | \-    | 50W        |
+| 양서 중계소  | CH 50 | \-    | 100W       |
+| 진촌 중계소  | CH 7  | \-    | 10W        |
+| 백령 중계소  | CH 12 | \-    | 1W         |
+| 대청 중계소  | CH 56 |       | 10W        |
+| 하점 중계소  | CH 39 | CH 48 | 50W        |
+| 계양산 중계소 | CH 23 | CH 31 | 250W       |
+| 만월 중계소  | CH 45 | CH 49 | 100W       |
+| 안산 중계소  | CH 58 | CH 60 | 10W        |
+| 광명 중계소  | CH 56 | CH 58 | 10W        |
+| 고천 중계소  | CH 50 | CH 52 | 0.1W       |
+| 수원 중계소  | CH 54 | CH 56 | 500W       |
+| 성남 중계소  | CH 50 | CH 48 | 100W       |
+| 운중 중계소  | CH 60 | CH 58 | 10W        |
+| 광주 중계소  | CH 44 | \-    | 100W       |
+| 용인 중계소  | CH 23 | CH 13 | 100W / 10W |
+| 이동 중계소  | CH 54 | CH 13 | 50W / 5W   |
+| 안성 중계소  | CH 33 | CH 56 | 100W       |
+
+### 라디오
+
+| KBS경인 제1라디오 |
+| ----------- |
+| 송신소         |
+| 진촌 중계소      |
+| 용문산 중계소     |
+| 감악산 중계소     |
+| 성남 중계소      |
+| 용인 중계소      |
+|             |
+| KBS경인 음악FM  |
+| 송신소         |
+| 백령 중계소      |
+| 성남 중계소      |
+|             |
+
+### 지상파DMB
+
+## 제작 프로그램
+
+**KBS경인 1TV**
+
+  - 시사•교양'''
+
+<!-- end list -->
+
+  - 인사이드 경인(월 1회)
+
+<!-- end list -->
+
+  - 뉴스
+
+| 프로그램명                                                                  | 방송시간   | 편성시간                | 진행  |
+| ---------------------------------------------------------------------- | ------ | ------------------- | --- |
+| [KBS 뉴스광장 경인](https://ko.wikipedia.org/wiki/KBS_뉴스광장 "wikilink")       | 평일 10분 | 오전 7시 35분 \~ 7시 45분 | 조은민 |
+| [KBS 930 뉴스 경인](../Page/KBS_930_뉴스.md "wikilink")                      | 평일 10분 | 오전 9시 50분 \~ 10시    |     |
+| [KBS 뉴스 7 경인](https://ko.wikipedia.org/wiki/KBS_뉴스_7_경기·인천 "wikilink") | 평일 5분  | 저녁 7시 30분 \~ 7시 35분 | 강승희 |
+| [KBS 뉴스 9 경인](https://ko.wikipedia.org/wiki/KBS_뉴스_9_경기·인천 "wikilink") | 평일 10분 | 밤 9시 40분 \~ 9시 50분  |     |
+
+## 아나운서
+
+#### 여성
+
+  - [강승희](https://ko.wikipedia.org/wiki/강승희 "wikilink") : 전직 [KBS충주](https://ko.wikipedia.org/wiki/KBS충주 "wikilink") 아나운서
+  - [조은민](https://ko.wikipedia.org/wiki/조은민 "wikilink") : 전직 [목포MBC](https://ko.wikipedia.org/wiki/목포MBC "wikilink") MC
+
+#### 전직
+
+  - [장민정](https://ko.wikipedia.org/wiki/장민정 "wikilink") ([2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [9월](https://ko.wikipedia.org/wiki/9월 "wikilink") \~ [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [7월](https://ko.wikipedia.org/wiki/7월 "wikilink")) : 현 [YTN](https://ko.wikipedia.org/wiki/YTN "wikilink") 아나운서
+  - [강려원](https://ko.wikipedia.org/wiki/강려원 "wikilink") : 현 [YTN](https://ko.wikipedia.org/wiki/YTN "wikilink") 아나운서
+  - [김솔희](https://ko.wikipedia.org/wiki/김솔희 "wikilink") : 현 [KBS 서울본국](../Page/한국방송공사.md "wikilink")
+  - [조정연](https://ko.wikipedia.org/wiki/조정연 "wikilink") : 전직 [연합뉴스TV](https://ko.wikipedia.org/wiki/연합뉴스TV "wikilink") 아나운서
+  - [서수진](https://ko.wikipedia.org/wiki/서수진 "wikilink") : 전직 [전주MBC](https://ko.wikipedia.org/wiki/전주MBC "wikilink"), [MBC경남](https://ko.wikipedia.org/wiki/MBC경남 "wikilink"), [대전MBC](https://ko.wikipedia.org/wiki/대전MBC "wikilink") 아나운서
+
+## 현직 기자
+
+  - 김기흥
+  - 김민경
+  - 김유대
+  - 김학재
+  - 박정권
+  - 박재우
+  - 박희봉
+  - 신지원
+  - 오현태
+  - 이정록
+  - 이진연
+  - 임명규
+  - 황진우
+
+## 각주
+
+[분류:2010년 설립](https://ko.wikipedia.org/wiki/분류:2010년_설립 "wikilink") [경인](https://ko.wikipedia.org/wiki/분류:한국방송공사의_지역방송국 "wikilink") [분류:대한민국의 수도권 지상파 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_수도권_지상파_방송국 "wikilink") [분류:인천광역시의 대중 매체](https://ko.wikipedia.org/wiki/분류:인천광역시의_대중_매체 "wikilink") [분류:경기도의 대중 매체](https://ko.wikipedia.org/wiki/분류:경기도의_대중_매체 "wikilink") [인천광역시](https://ko.wikipedia.org/wiki/분류:인천광역시 "wikilink") [분류:수원시](https://ko.wikipedia.org/wiki/분류:수원시 "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.

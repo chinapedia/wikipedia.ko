@@ -1,0 +1,148 @@
+> This article is converted from Wikipedia: [K  ](https://ko.wikipedia.org/wiki/K__).
+
+
+**K리그 승부조작 사건**(—勝負造作事件)은 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink"), [K리그](https://ko.wikipedia.org/wiki/K리그 "wikilink")에서 활동하고 있는 일부 선수들이 돈을 받고 경기 승부를 조작한 것이 드러난 사건이다. 이 사건 이전 벌어진 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink"), [K3리그](https://ko.wikipedia.org/wiki/K3리그 "wikilink")와 실업리그(현 [내셔널리그](https://ko.wikipedia.org/wiki/내셔널리그_\(대한민국\) "wikilink"))에서 벌어진 승부조작 사건도 같이 기술한다.
+
+## 배경
+
+### K3리그 승부조작 사건
+
+2008년, 아마추어 리그에 해당하는 K3 리그 에서 중국발 불법 도박 사이트와 관련된 승부조작 사건이 검찰을 통해 적발되었다.\[1\] 서울시 은평구를 연고로 하는 서울 파발 FC(전 은평청구FC)는 주장을 포함한 선수단 상당수가 중국 사기도박업자와 짜고 경기당 1억을 받기로 한 뒤 유사 전력을 가진 팀과의 경기에서 일부러 져 주는 방식으로 승부조작을 자행했다고 한다. 이 사건 이후 관련된 선수 전원이 연맹에 의해 영구제명 되었으며, 서울 파발 FC 역시 해체 수순을 밟았다. 단, 별도의 징계를 받아 해체된 것은 아니다. 원래 이 팀은 은평청구성심병원 병원장이 개인적으로 운영하는 클럽이었는데, 사건 이후 그가 손을 떼면서 팀도 자연스럽게 해체된 것이다.
+
+대회 인지도 자체가 낮았던 데다 체계를 갖추고 발족한 지 얼마 안 되는 K3 리그였기에 문제가 크게 비화되지 않았고 얼마 후 대중들에게서도 잊혀졌지만, 이 사건을 통해 평균 관중 50명 안팍의 K3 리그 경기의 실시간 스코어가 중국 사설베팅 사이트에 올라가고 많은 베팅 참가인원이 존재한다는 사실이 확인되면서 팬들은 큰 충격에 빠졌으며, 적은 연봉을 받는 선수들로선 검은 돈의 유혹에 빠질 가능성이 매우 높다는 우려와 지적이 이어졌다.
+
+참고로 축구와 직접 관련된 승부조작은 아니었지만, 2010년에 일어난 [스타크래프트 승부조작 사건에서는](https://ko.wikipedia.org/wiki/스타크래프트_승부조작_사건 "wikilink") K3리그 [서울 유나이티드 FC](https://ko.wikipedia.org/wiki/서울_유나이티드_FC "wikilink") 소속 선수인 정명호가 가담한 것으로 밝혀져 팬들에게 또 다른 충격으로 다가왔다.
+
+### 실업리그 승부조작 사건
+
+K3리그 승부조작 사건에 이어서 실업리그(내셔널리그)에서도 승부조작이 발생하였다. 실업리그 소속 축구선수들이 돈을 받고 경기에 져준 혐의로 경찰에 적발됐다. 서울에서 열린 내셔널리그 경기에서 상대팀에 져주는 조건으로 1억 원을 받기로 하는 등 세 경기의 승부조작에 가담한 혐의를 받고 있다. 그러나 이들은 경찰에서 "승부 조작 사실이 이미 알려져 돈을 받지 못했다"고 진술했다.
+
+서울 용산경찰서는 돈을 받고 축구경기의 승부를 조작해준 혐의로 내셔널리그 소속 선수인 우모(26) 씨 등 4명과 모 구단 관계자 등 5명을 불구속 입건하였다.\[2\]
+
+### 2011년 K리그 승부조작 사건
+
+[2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [5월 25일에](https://ko.wikipedia.org/wiki/5월_25일 "wikilink") [K리그](https://ko.wikipedia.org/wiki/K리그 "wikilink")에서 활동하고 있는 현역 선수 2명에 구속영장이 발부되면서 **K리그 승부조작 사건**이 밝혀지기 시작했다. 이 사건이 본격적인 발단은 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [5월 6일에](https://ko.wikipedia.org/wiki/5월_6일 "wikilink") K리그 구단 [인천 유나이티드의](../Page/인천_유나이티드_FC.md "wikilink") 골키퍼로 활약하던 [윤기원이](../Page/윤기원_\(축구_선수\).md "wikilink") 차량 안에서 번개탄에 의한 [일산화탄소](https://ko.wikipedia.org/wiki/일산화탄소 "wikilink") 중독으로 [사망](https://ko.wikipedia.org/wiki/사망 "wikilink")하는 사건부터이다.\[3\] 이 충격적인 자살 사건으로 한때 루머로만 돌던 K리그의 승부조작 의혹이 네티즌들과 언론 사이에서 강하게 일었다.\[4\] 윤기원이 2010 시즌 후반부터 팀의 주전 골키퍼로 발돋움하고 2011 시즌에도 약간 주춤했지만 중요 경기에서 출전했고, 평소 그의 밝은 성격 탓에 갑작스런 자살에 의문스러운 눈초리가 많았고, 또한 그의 차량 안에서 100만 원이 든 돈봉투가 발견되어 돈 문제와 관련이 있다는 주장이 설득력을 얻었다.\[5\] 유서도 없이 발견된 100만원은 인천 선수들이 퇴임한 [안종복](https://ko.wikipedia.org/wiki/안종복 "wikilink") 단장을 위해 마련한 이벤트 후에 남은 잔금으로 밝혀졌다.\[6\] 하지만 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink")부터 떠돌던 승부조작 소문이 조용히 돌고 불법 베팅 [토토](https://ko.wikipedia.org/wiki/토토 "wikilink") 사이트로 인해 몸살을 앓던 K리그가 자정을 시도하는 등 큰 사건이 터지지 않고 승부조작은 공공연한 사실로만 굳어졌다.\[7\]
+
+## 승부조작 대상으로 지목된 경기
+
+**굵은 글씨**로 쓰여진 팀은 승부조작을 주도한 팀을 의미한다.
+
+| 대회                                                  | 날짜                                                                | 홈 팀                                                         | 결과                                                                | 원정 팀                                                              | 승부조작 결과 |
+| --------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------- | ------- |
+| [리그컵](../Page/리그컵_\(대한민국\).md "wikilink")           | 2010년 6월 2일                                                       | **[광주 상무 축구단](../Page/광주_상무_축구단.md "wikilink")**            | 1 - 1                                                             | [성남 일화 천마](https://ko.wikipedia.org/wiki/성남_일화_천마 "wikilink")     | 실패      |
+| 2010년 6월 6일                                         | [울산 현대 축구단](https://ko.wikipedia.org/wiki/울산_현대_축구단 "wikilink")   | 2 - 0                                                       | **[광주 상무 축구단](../Page/광주_상무_축구단.md "wikilink")**                  | 성공                                                                |         |
+| 2010년 7월 17일                                        | **[대전 시티즌](https://ko.wikipedia.org/wiki/대전_시티즌 "wikilink")**     | 0 - 4                                                       | [전북 현대 모터스](../Page/전북_현대_모터스.md "wikilink")                      | 성공                                                                |         |
+| [K리그](https://ko.wikipedia.org/wiki/K리그 "wikilink") | 2010년 7월 18일                                                      | **[대구 FC](../Page/대구_FC.md "wikilink")**                    | 1 - 3                                                             | [수원 삼성 블루윙즈](https://ko.wikipedia.org/wiki/수원_삼성_블루윙즈 "wikilink") | 성공      |
+| 2010년 7월 24일                                        | **[인천 유나이티드 FC](../Page/인천_유나이티드_FC.md "wikilink")**              | 2 - 3                                                       | [제주 유나이티드](https://ko.wikipedia.org/wiki/제주_유나이티드 "wikilink")     | 성공                                                                |         |
+| 2010년 7월 25일                                        | **[대구 FC](../Page/대구_FC.md "wikilink")**                          | 1 - 1                                                       | [경남 FC](https://ko.wikipedia.org/wiki/경남_FC "wikilink")           | 실패                                                                |         |
+| 2010년 7월 31일                                        | [경남 FC](https://ko.wikipedia.org/wiki/경남_FC "wikilink")           | 3 - 2                                                       | **[인천 유나이티드 FC](../Page/인천_유나이티드_FC.md "wikilink")**              | 성공                                                                |         |
+| 2010년 8월 7일                                         | **[대구 FC](../Page/대구_FC.md "wikilink")**                          | 1 - 3                                                       | [대전 시티즌](https://ko.wikipedia.org/wiki/대전_시티즌 "wikilink")         | 성공                                                                |         |
+| 2010년 8월 7일                                         | [제주 유나이티드](https://ko.wikipedia.org/wiki/제주_유나이티드 "wikilink")     | 4 - 0                                                       | **[광주 상무 축구단](../Page/광주_상무_축구단.md "wikilink")**                  | 성공                                                                |         |
+| 2010년 8월 28일                                        | **[광주 상무 축구단](../Page/광주_상무_축구단.md "wikilink")**                  | 1 - 1                                                       | [경남 FC](https://ko.wikipedia.org/wiki/경남_FC "wikilink")           | 성공                                                                |         |
+| 2010년 8월 29일                                        | [부산 아이파크](https://ko.wikipedia.org/wiki/부산_아이파크 "wikilink")       | 5 - 3                                                       | **[전남 드래곤즈](../Page/전남_드래곤즈.md "wikilink")**                      | 성공                                                                |         |
+| 2010년 9월 4일                                         | [전남 드래곤즈](../Page/전남_드래곤즈.md "wikilink")                          | 3 - 0                                                       | **[대전 시티즌](https://ko.wikipedia.org/wiki/대전_시티즌 "wikilink")**     | 성공                                                                |         |
+| 2010년 9월 18일                                        | [울산 현대 축구단](https://ko.wikipedia.org/wiki/울산_현대_축구단 "wikilink")   | 3 - 0                                                       | **[전남 드래곤즈](../Page/전남_드래곤즈.md "wikilink")**                      | 성공                                                                |         |
+| 2010년 9월 19일                                        | [대전 시티즌](https://ko.wikipedia.org/wiki/대전_시티즌 "wikilink")         | 3 - 0                                                       | **[광주 상무 축구단](../Page/광주_상무_축구단.md "wikilink")**                  | 성공                                                                |         |
+| 2010년 10월 27일                                       | **[부산 아이파크](https://ko.wikipedia.org/wiki/부산_아이파크 "wikilink")**   | 0 - 1                                                       | [수원 삼성 블루윙즈](https://ko.wikipedia.org/wiki/수원_삼성_블루윙즈 "wikilink") | 성공                                                                |         |
+| [리그컵](../Page/리그컵_\(대한민국\).md "wikilink")           | 2010년 6월 6일                                                       | [FC 서울](https://ko.wikipedia.org/wiki/FC_서울 "wikilink")     | 5 - 1                                                             | **[광주 상무 축구단](../Page/광주_상무_축구단.md "wikilink")**                  | 성공      |
+| [K리그](https://ko.wikipedia.org/wiki/K리그 "wikilink") | 2010년 10월 9일                                                      | [FC 서울](https://ko.wikipedia.org/wiki/FC_서울 "wikilink")     | 3 - 2                                                             | **[경남 FC](https://ko.wikipedia.org/wiki/경남_FC "wikilink")**       | 성공      |
+| 2010년 10월 27일                                       | **[제주 유나이티드](https://ko.wikipedia.org/wiki/제주_유나이티드 "wikilink")** | 1 - 1                                                       | [FC 서울](https://ko.wikipedia.org/wiki/FC_서울 "wikilink")           | 실패                                                                |         |
+| 2010년 11월 3일                                        | **[광주 상무 축구단](../Page/광주_상무_축구단.md "wikilink")**                  | 0 - 1                                                       | [전남 드래곤즈](../Page/전남_드래곤즈.md "wikilink")                          | 성공                                                                |         |
+| [리그컵](../Page/리그컵_\(대한민국\).md "wikilink")           | 2011년 4월 6일                                                       | [부산 아이파크](https://ko.wikipedia.org/wiki/부산_아이파크 "wikilink") | 1 - 0                                                             | **[광주 FC](https://ko.wikipedia.org/wiki/광주_FC "wikilink")**       | 성공      |
+| 2011년 4월 6일                                         | **[대전 시티즌](https://ko.wikipedia.org/wiki/대전_시티즌 "wikilink")**     | 0 - 3                                                       | [포항 스틸러스](https://ko.wikipedia.org/wiki/포항_스틸러스 "wikilink")       | 성공                                                                |         |
+
+## 2011년 K리그 승부조작 사건 수사 일지
+
+### 1차 수사
+
+하지만 곪아 가던 상처는 [5월 25일에](https://ko.wikipedia.org/wiki/5월_25일 "wikilink") 터졌다. [5월 21일에](https://ko.wikipedia.org/wiki/5월_21일 "wikilink") 승부조작 사건을 수사하던 경남 창원지검 특수부가 승부조작을 종용하던 브로커 2명을 구속하고 현역 축구 선수 2명에게 구속영장을 발부한 것이 25일에 언론에 노출되면서 K리그의 승부조작이 사실로 밝혀지기 시작했다. 특히 전 [대한민국 국가대표](https://ko.wikipedia.org/wiki/대한민국_축구_국가대표팀 "wikilink") 선수였던 [상무의](../Page/상주_상무_축구단.md "wikilink") [김동현이](../Page/김동현_\(1984년\).md "wikilink") 승부 조작 사건에 깊게 관련되어 있음이 확인되면서 K리그 축구 팬들에게 큰 충격을 안겨 주었다.\[8\] 구속 영장이 발부된 두 선수는 각각 [대전 시티즌](https://ko.wikipedia.org/wiki/대전_시티즌 "wikilink") 소속인 [박상욱](https://ko.wikipedia.org/wiki/박상욱_\(축구_선수\) "wikilink"), [광주 FC](https://ko.wikipedia.org/wiki/광주_FC "wikilink") 소속 [성경모](https://ko.wikipedia.org/wiki/성경모 "wikilink")로 밝혀졌으며, 브로커들은 이 선수들이 경기에 결정적인 영향을 주는 실책성 플레이를 하는 대가로 각각 1억 2,000만원과 1억원을 지급한 것으로 알려졌다.\[9\] 조폭 연루설이 제기되던 [윤기원의](../Page/윤기원_\(축구_선수\).md "wikilink") 사망 사건에도 승부 조작이 관련이 있다는 가능성이 크게 대두되었다. 특히 대전 소속의 선수가 승부 조작을 실행했다고 밝혀진 경기에 상대편 골키퍼가 윤기원이어서 결국 승부 조작을 강요하는 조폭의 협박에 못 이겼다는 의혹이 강하게 제기되었다.\[10\]
+
+밝혀진 승부조작 사건은 리그 경기보다는 비중이 낮은 리그 컵 [러시앤캐시 컵에서](../Page/리그컵_2011.md "wikilink") 벌어졌으며, 브로커들은 불법 베팅 사이트를 통해 투자자들을 모으고 선수 몇 명을 매수해 경기의 내용을 조작하는 방식을 사용했다. 이 사건보다 훨씬 많은 승부조작 사건이 일어났다고 짐작한 검찰은 구단 등으로 수사를 확대해 전면적으로 뿌리뽑기에 나섰다. 또한 검찰은 1억원이 넘는 돈이 한 선수의 한 경기 조작으로는 상당한 거액으로 추정되어 승부조작에 관여한 다른 선수들에게도 나누어 주었을 것이라는 가능성도 조사했다.\[11\] 특히 대전 시티즌이 사과문과 함께 문제의 경기로 밝힌 3:0으로 패한 [포항 스틸러스와의](https://ko.wikipedia.org/wiki/포항_스틸러스 "wikilink") 러시앤캐시 컵 2라운드에서 승부조작의 대가로 박상욱이 받은 1억 2천만원은 다른 4명의 선수가 함께 나누기 위해 박상욱이 대신 받았을 가능성이 큰 것으로 알려졌다. 그 경기에서 대전 선수들은 고의적으로 슛팅할 공간을 내주고 적극적인 수비를 자제하는 등 눈에 띄는 플레이를 했다.\[12\]
+
+[5월 27일에](https://ko.wikipedia.org/wiki/5월_27일 "wikilink") [대전 시티즌의](https://ko.wikipedia.org/wiki/대전_시티즌 "wikilink") 선수 4명이 추가로 체포되어 더욱 광범위한 승부조작에 대한 조사가 이루어졌다.\[13\] K리그 1위를 달리던 대전이 갑작스럽게 패배한 경기에 대한 의문 때문이었는데, 컵대회에서 승부 조작을 시도하다가 실패함으로써 잃은 베팅금을 회수하기 위해 비중이 큰 리그 경기에서도 승부 조작을 시도했다는 주장도 나왔다.\[14\]
+
+[경남 FC의](https://ko.wikipedia.org/wiki/경남_FC "wikilink") 골키퍼 [김병지](https://ko.wikipedia.org/wiki/김병지 "wikilink")는 [5월 27일에](https://ko.wikipedia.org/wiki/5월_27일 "wikilink") [라디오](https://ko.wikipedia.org/wiki/라디오 "wikilink") 방송을 통해 자신의 팀의 [김주영](https://ko.wikipedia.org/wiki/김주영_\(축구_선수\) "wikilink"), [이용기](https://ko.wikipedia.org/wiki/이용기 "wikilink") 선수 같은 데뷔한 지 얼마 되지 않은 수비수 및 골키퍼들이 브로커들에게 승부조작을 제의받았다고 밝혔다. 그는 또한 후배 선수들을 모아 단호히 거부하라고 충고했다고 밝히고 "축구는 노력으로 이뤄지는 아름다운 스포츠인데 불미스러운 일이 불거져 안타깝다"는 의견을 보였다.\[15\] 과거 K리그 승부조작 관행에 대한 폭로로 5년 동안 감독 자격을 박탈당했던 [차범근](https://ko.wikipedia.org/wiki/차범근 "wikilink")은 [SNS를](https://ko.wikipedia.org/wiki/소셜_네트워크_서비스 "wikilink") 통해 이번 사건에 대한 아쉬움을 표하며 "이런 것이 용납되는 사회가 더 큰 문제"라고 지적했다.\[16\] 이 날 귀국한 [이청용](https://ko.wikipedia.org/wiki/이청용 "wikilink")은 K리그의 승부조작에 대해 당혹감을 내보였다.\[17\]
+
+[5월 30일에는](https://ko.wikipedia.org/wiki/5월_30일 "wikilink") [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink")까지 [전북 현대 모터스에서](../Page/전북_현대_모터스.md "wikilink") 뛰었고 [챌린저스리그](https://ko.wikipedia.org/wiki/K3리그 "wikilink") 팀 [서울 유나이티드 FC에서](https://ko.wikipedia.org/wiki/서울_유나이티드_FC "wikilink") 활동 중이었던 [정종관](https://ko.wikipedia.org/wiki/정종관 "wikilink")이 승부 조작과 관련하여 자살을 하였다. 정종관이 남긴 유서에는 승부조작의 당사자로서 부끄럽고 괴롭다는 내용이 담겨 있었다고 한다.\[18\]
+
+### 1차 처벌
+
+[2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [6월 17일](https://ko.wikipedia.org/wiki/6월_17일 "wikilink") 프로축구연맹은 이 사건에 가담한 [김동현과](../Page/김동현_\(1984년\).md "wikilink") [성경모](https://ko.wikipedia.org/wiki/성경모 "wikilink") 등 총 10명에 대해 영구 제명 처벌을 내렸다. 이들은 선수 생활은 물론 지도자 생활 등 K리그 관련 직무 종사도 영원히 금지되었다. 또한 승부조작 사실을 인지하고도 [스포츠토토](https://ko.wikipedia.org/wiki/스포츠토토 "wikilink")를 구입한 [김정겸](../Page/김정겸.md "wikilink")은 5년 간 선수 자격 및 직무 자격 정지 징계를 받았다.\[19\]
+
+#### 영구 제명 대상자
+
+  - [광주 FC](https://ko.wikipedia.org/wiki/광주_FC "wikilink") - [성경모](https://ko.wikipedia.org/wiki/성경모 "wikilink")
+  - [대전 시티즌](https://ko.wikipedia.org/wiki/대전_시티즌 "wikilink") - [강구남](https://ko.wikipedia.org/wiki/강구남 "wikilink"), [곽창희](https://ko.wikipedia.org/wiki/곽창희 "wikilink"), [김바우](https://ko.wikipedia.org/wiki/김바우 "wikilink"), [박상욱](https://ko.wikipedia.org/wiki/박상욱_\(축구_선수\) "wikilink"), [신준배](https://ko.wikipedia.org/wiki/신준배 "wikilink"), [양정민](https://ko.wikipedia.org/wiki/양정민 "wikilink"), [이명철](https://ko.wikipedia.org/wiki/이명철 "wikilink"), [이중원](https://ko.wikipedia.org/wiki/이중원_\(축구_선수\) "wikilink")
+  - [상무](../Page/상주_상무_축구단.md "wikilink") - [김동현](../Page/김동현_\(1984년\).md "wikilink")
+
+선수 4명 구속, 11명 영구 제명
+
+## 2차 수사
+
+영구 제명이라는 중징계가 있던 후에도 창원지검의 수사와 군검찰의 수사가 확대되면서 더 많은 선수들이 레이다망에 잡히며 체포 및 조사를 받았다. 1차 수사 때 부각되었던 '대전 커넥션' 대신 이번 수사에서는 일명 '전남 커넥션'을 중심으로 조사가 진행되었는데, [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [전남 드래곤즈](../Page/전남_드래곤즈.md "wikilink") 소속이었던 선수들이 대거 수사망에 오른 탓이다.\[20\] [6월 23일](https://ko.wikipedia.org/wiki/6월_23일 "wikilink"), 전남 소속의 한 선수는 체포되어 [창원지방검찰청](https://ko.wikipedia.org/wiki/창원지방검찰청 "wikilink")에서 조사를 받았고, 전남 소속이었다가 입대한 [상무](../Page/상주_상무_축구단.md "wikilink") 소속 선수 3명도 군 검찰에게 조사를 받았다.\[21\] 이후 전남에서 이적해 온 [부산 아이파크](https://ko.wikipedia.org/wiki/부산_아이파크 "wikilink") 소속의 선수도 체포당해 조사를 받았다.\[22\] 이들은 특히 리그 컵 경기가 아닌 중요도가 높은 [지난 시즌에](https://ko.wikipedia.org/wiki/K리그_2010 "wikilink") 3경기 정도 승부 조작을 시도한 것으로 밝혀져 파문이 커졌다.\[23\] 군 검찰의 경우에는 승부 조작의 대가로 수 백만원을 챙긴 세 명의 선수들에게 24일 구속 영장을 신청했다.\[24\] 21일에 체포된 전남 소속의 [정윤성](https://ko.wikipedia.org/wiki/정윤성 "wikilink")이 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [9월 8일](https://ko.wikipedia.org/wiki/9월_8일 "wikilink") [울산 현대와의](https://ko.wikipedia.org/wiki/울산_현대_축구단 "wikilink") 경기에서 브로커 역할을 한 것으로 드러났다. 체포되었던 부산의 해당 선수 또한 작년에는 전남 소속으로 그 경기에서 수비수로 풀 타임 출전하였고, 전남 소속의 선수는 선발 출전해서 후반전에 교체 아웃되었고 팀은 0:3의 패배를 당했다.\[25\] [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") 리그에서 좋은 성적을 올리고 있던 [전남](../Page/전남_드래곤즈.md "wikilink") 구단은 구단 홈페이지에 사과문을 올려 전남 소속 선수들이 무더기로 승부 조작에 관여해 체포된 사태를 무마시키고자 노력했다.\[26\] 이 선수들 외에도 여러 선수가 수사망에 올랐는데, 전남에서 뛰다가 그 해 [전북 현대 모터스로](../Page/전북_현대_모터스.md "wikilink") 이적한 골키퍼 [염동균](https://ko.wikipedia.org/wiki/염동균 "wikilink")도 [최강희](https://ko.wikipedia.org/wiki/최강희_\(축구인\) "wikilink") 감독에게 24일에 승부 조작 사실을 자수해 스스로 [창원지방검찰청](https://ko.wikipedia.org/wiki/창원지방검찰청 "wikilink")에 찾아 조사를 받았다.\[27\]\[28\] 이렇게 전남의 선수들만 거의 10명 정도가 수사 대상이 되었는데, 몇 선수는 전남에 남아 있었지만 주장이자 주전 골키퍼였던 [염동균](https://ko.wikipedia.org/wiki/염동균 "wikilink")을 포함한 많은 선수들이 2011 시즌을 앞두고 이적해 전남이 승부조작 사실을 인지하고 타 팀에 선수들을 떠넘긴 것이 아니냐는 의혹도 제기되고 있다.\[29\]
+
+이후 검찰에 자진으로 출두한 이들은 더욱 충격적이었는데, 스타 플레이어 출신 선수가 여럿 연루되어 있었기 때문이다. 특히 [국가대표팀](https://ko.wikipedia.org/wiki/대한민국_축구_국가대표팀 "wikilink") 선수로 24경기를 뛰어 2골을 기록했고 부진과 부상으로 제 실력을 못 보여 줬지만 제대한 후 [성남 일화 천마에서](https://ko.wikipedia.org/wiki/성남_FC "wikilink") 이적하자마자 [수원 삼성 블루윙즈의](https://ko.wikipedia.org/wiki/수원_삼성_블루윙즈 "wikilink") 주장까지 맡았던\[30\] [최성국이](https://ko.wikipedia.org/wiki/최성국_\(1983년\) "wikilink") [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [상무](../Page/상주_상무_축구단.md "wikilink") 시절에 [김동현의](../Page/김동현_\(1984년\).md "wikilink") 제의로 승부조작 사전 모의를 했다고 검찰에 자진 출두하면서 대한민국 축구계에 큰 충격을 안겼다. 하지만 최성국은 실제로 승부조작이 이루어지지도 않았고, 그 후에 있던 재 승부조작에는 참여하지 않았을 뿐더러 김동현이 건넨 돈도 받지 않았다고 주장했다.\[31\] 게다가 최성국은 승부조작 1차 스캔들 때 승부조작에 연루되어 이적했다는 이유로 승부조작을 시도한 선수로 지목되자 [5월 31일에](https://ko.wikipedia.org/wiki/5월_31일 "wikilink") 열린 K리그 승부조작 방지 워크숍에서 강력히 부인한 적이 있었다.\[32\] [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 스타플레이어가 승부조작에 연루되었다는 소식에 [로이터](../Page/로이터.md "wikilink"), [AFP](https://ko.wikipedia.org/wiki/프랑스_통신사 "wikilink") 등 외신들도 앞다투어 이 소식을 보도했다.\[33\] 최성국은 승부조작 시도가 있었음을 [상무](../Page/상주_상무_축구단.md "wikilink") 코칭스태프에게 내부 고발했지만 묵살당한 것으로 알려졌다.\[34\] 군 검찰이 수사를 벌이고 있는 [상무도](../Page/상주_상무_축구단.md "wikilink") 정윤성에 이어 최성국까지 수사망에 오르면서 승부조작의 온상이 되었다는 지적을 받았다. 그 이유로는 군인으로서의 낮은 급여와 적은 동기 부여 등이 꼽힌다.\[35\]
+
+한편 자신의 팀 소속 선수들이 승부 조작 사건에 연루되어 있다는 것이 대거 발견되어 영구 제명을 당한 것에 상심한 [대전 시티즌의](https://ko.wikipedia.org/wiki/대전_시티즌 "wikilink") [왕선재](../Page/왕선재.md "wikilink") 감독은 책임감을 이야기하면서도 희망을 버리지 않고 최선을 다하겠다고 다짐하였다.\[36\]
+
+### 2차 처벌
+
+[2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [8월 25일](https://ko.wikipedia.org/wiki/8월_25일 "wikilink") 프로축구연맹은 이 사건에 가담했던 [최성국을](../Page/최성국_\(축구_선수\).md "wikilink") 비롯하여 선수 40명, 브로커 7명 등 총 47명에 대해 영구 제명 처벌을 내렸다. 이들은 [6월](https://ko.wikipedia.org/wiki/6월 "wikilink")에 영구제명된 선수들과 마찬가지로 선수 생활은 물론 K리그 관련 직무 종사도 영원히 금지되었다. 이중 25명은 승부조작 사실을 자진 신고했는데, 이들은 가담 정도에 따라 A, B, C 등급의 세 등급으로 나뉘어 A등급 6명은 5년 보호관찰에 사회봉사 500시간, B등급 13명은 3년 보호관찰에 사회봉사 300시간, C등급 6명은 2년 보호관찰에 사회봉사 200시간이 매겨졌다.\[37\]
+
+## 같이 보기
+
+  - [스타크래프트 승부조작 사건](https://ko.wikipedia.org/wiki/스타크래프트_승부조작_사건 "wikilink")
+  - [V-리그 승부조작 사건](https://ko.wikipedia.org/wiki/V-리그_승부조작_사건 "wikilink") (배구)
+  - [KBO 리그 승부조작 사건](https://ko.wikipedia.org/wiki/KBO_리그_승부조작_사건 "wikilink")
+  - [대한민국 프로 농구 승부조작 사건](https://ko.wikipedia.org/wiki/대한민국_프로_농구_승부조작_사건 "wikilink")
+  - [1965년 분데스리가 승부조작 사건](https://ko.wikipedia.org/wiki/1965년_분데스리가_승부조작_사건 "wikilink")
+  - [1971년 분데스리가 승부조작 사건](https://ko.wikipedia.org/wiki/1971년_분데스리가_승부조작_사건 "wikilink")
+  - [2005년 분데스리가 승부조작 사건](https://ko.wikipedia.org/wiki/2005년_분데스리가_승부조작_사건 "wikilink")
+  - [2006년 이탈리아 축구 스캔들](https://ko.wikipedia.org/wiki/2006년_이탈리아_축구_스캔들 "wikilink")
+  - [2011-12 이탈리아 축구 스캔들](../Page/2011-12_이탈리아_축구_스캔들.md "wikilink")
+  - [2013년 유로폴 승부조작 수사](https://ko.wikipedia.org/wiki/2013년_유로폴_승부조작_수사 "wikilink") (유럽 축구)
+  - [칼초폴리](https://ko.wikipedia.org/wiki/칼초폴리 "wikilink") (세리에 A)
+
+## 각주
+
+<references/>
+
+[분류:2011년 축구](https://ko.wikipedia.org/wiki/분류:2011년_축구 "wikilink") [분류:2011년 대한민국](https://ko.wikipedia.org/wiki/분류:2011년_대한민국 "wikilink") [분류:대한민국의 축구 역사](https://ko.wikipedia.org/wiki/분류:대한민국의_축구_역사 "wikilink") [분류:대한민국의 사건](https://ko.wikipedia.org/wiki/분류:대한민국의_사건 "wikilink") [분류:K리그](https://ko.wikipedia.org/wiki/분류:K리그 "wikilink") [분류:승부조작](https://ko.wikipedia.org/wiki/분류:승부조작 "wikilink") [분류:축구 논쟁](https://ko.wikipedia.org/wiki/분류:축구_논쟁 "wikilink") [분류:대한민국의 스캔들](https://ko.wikipedia.org/wiki/분류:대한민국의_스캔들 "wikilink")
+
+1.  [K3-리그 승부조작 진상조사](http://sports.news.naver.com/sports/index.nhn?category=k_league&ctg=news&mod=read&office_id=081&article_id=0001984220)
+2.  [K3 이어 실업리그도 승부조작 '일파만파'](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=079&aid=0002011443)
+3.  [윤기원 죽음, 승부조작 희생양인가](http://isplus.live.joinsmsn.com/news/article/article.asp?total_id=5457432&cloc=), 《일간스포츠》, 2011년 5월 7일
+4.  [K-리그 승부조작 의혹, 공론화한 까닭은?](http://isplus.live.joinsmsn.com/news/article/article.asp?total_id=5457433&cloc=) , 《일간스포츠》, 2011년 5월 7일
+5.
+6.  [故윤기원이 남긴 100만원 수수께끼 풀렸다](http://sports.chosun.com/news/ntype2.htm?id=201105090100077490006153&ServiceDate=20110508), 《스포츠조선》, 2011년 5월 8일
+7.  [K리거 ‘불법 베팅’은 공공연한 비밀](http://news.donga.com/3//20110509/37035387/1) , 《동아일보》, 2011년 5월 9일
+8.  [안일한 대처, 선수들 간 불신 키웠다](http://www.asiae.co.kr/news/view.htm?idxno=2011052609465789019), 《아시아경제》, 2011년 5월 26일
+9.  [K리그 승부 조작 결국 터졌다…돈에 흔들리는 선수들](http://www.nocutnews.co.kr/show.asp?idx=1812773), 《노컷뉴스》, 2011년 5월 25일
+10. [故 윤기원 자살, 프로축구 승부조작 연관?…김동현 선수 소환 조사 ‘충격’](http://kr.ibtimes.com/article/news/20110526/4111864.htm), 《아이비타임즈》, 2011년 5월 26일
+11. [프로축구 승부조작…선수가 지려고 뛰었다](http://www.hani.co.kr/arti/society/area/479768.html), 《한겨레》, 2011년 5월 25일
+12. [대전이 승부조작 인정한 컵대회 포항전 보니](http://sports.chosun.com/news/ntype2.htm?id=201105280100255000020801&ServiceDate=20110527), 《스포츠조선》, 2011년 5월 27일
+13. [승부조작 혐의 대전시티즌 선수 4명 추가 체포](http://news.sbs.co.kr/section_news/news_read.jsp?news_id=N1000921041), 《SBS》, 2011년 5월 28일
+14. [불법베팅 가담자의 폭로 “컵 대회서 거액 날리자 정규 리그서도 승부 조작”](http://news.donga.com/3//20110528/37597961/1) , 《동아일보》, 2011년 5월 28일
+15. [김병지 "팀 후배 몇 명이 승부 조작 제안받은 적 있다"](http://news.hankooki.com/lpage/sports/201105/h20110527223433111960.htm) , 《한국일보》, 2011년 5월 27일
+16. [‘승부조작 희생양’ 차범근 일침](http://www.seoul.co.kr/news/newsView.php?id=20110528024017), 《서울신문》, 2011년 5월 27일
+17. [이청용 귀국 “승부조작 말도 안되는 일” 外](http://news.donga.com/3//20110528/37597966/1) , 《동아일보》, 2011년 5월 28일
+18.
+19. [K리그 승부 조작 10명 영구 제명… 프로축구연맹 상벌위서 결정](http://news.kukinews.com/article/view.asp?page=1&gCode=kmi&arcid=0005069604), 《쿠키뉴스》, 2011년 6월 17일
+20. [승부조작 관련 상주 2명 구속 '전남 커넥션' 밝혀지나](http://news.sportsseoul.com/read/soccer/951231.htm) , 《스포츠서울》, 2011년 6월 28일
+21. [K-리그 후폭풍, 승부조작 혐의 4명 추가 조사](http://sports.chosun.com/news/ntype2.htm?id=201106230100220520018008&ServiceDate=20110623), 《스포츠조선》, 2011년 6월 23일
+22. [축구 승부조작 선수, 무더기 체포](http://www.frontiertimes.co.kr/news/news/2011/06/24/71021.html), 《프런티어 타임즈》, 2011년 6월 24일
+23. [프로축구 승부조작 사건 다시 수면위로](http://isplus.joinsmsn.com/article/535/5690535.html?cloc=), 《일간스포츠》, 2011년 6월 24일
+24. [프로축구 선수 5명 조사 중…승부조작 의혹 수사 계속](http://joongang.joinsmsn.com/article/aid/2011/06/25/5345450.html?cloc=olink%7Carticle%7Cdefault), 《중앙일보》, 2011년 6월 25일
+25. [부산 수비수·전남 MF, 승부조작 혐의 추가 소환](http://news.donga.com/3//20110625/38297212/1) , 《일간스포츠》, 2011년 6월 25일
+26. [전남, 소속 선수 승부조작 연루에 사과문 발표](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=107&oid=003&aid=0003929540), 《뉴시스》, 2011년 6월 25일
+27. [승부조작 수사, 2라운드가 더 무섭다](http://isplus.joinsmsn.com/article/459/5692459.html?cloc=), 《일간스포츠》, 2011년 6월 25일
+28. [끝나지 않은 프로축구 승부조작 수사···이번엔 전북 골키퍼 염동균 자수](http://www.asiatoday.co.kr/news/view.asp?seq=494948), 《아시안투데이》, 2011년 6월 27일
+29. [프로축구 승부조작 ′숙주′ 지목받는 전남드래곤즈](http://www.asiatoday.co.kr/news/view.asp?seq=494849), 《아시안투데이》, 2011년 6월 27일
+30. ['설기현 17경기 2골' 이름값 못해](http://news.hankooki.com/ArticleView/ArticleViewSH.php?url=soccer/201106/sp2011061517360593650.htm&cd=2103&ver=v002), 《한국일보》, 2011년 6월 15일
+31. [국가대표 출신 최성국 "승부조작 모의 참석"](http://news.chosun.com/site/data/html_dir/2011/06/29/2011062900166.html), 《조선일보》, 2011년 6월 29일
+32. [승부조작 연루설 최성국, 유병수 “한 점 부끄러움이 없다”](http://sports.khan.co.kr/news/sk_index.html?cat=view&art_id=201105311800423&sec_id=520101&pt=nv), 《경향신문》, 2011년 5월 31일
+33. [외신, K리그 승부조작 연달아 보도](http://www.sportalkorea.com/news/view.php?gisa_uniq=2011063009474748&section_code=10&key=외신&field=gisa_title), 《스포탈코리아》, 2011년 6월 30일
+34. ["승부조작, 코치에게 알렸지만 묵살당해"](http://news.chosun.com/site/data/html_dir/2011/06/28/2011062802591.html), 《조선일보》, 2011년 6월 29일
+35. [상무 승부조작 온상 된 이유](http://sports.chosun.com/news/ntype.htm?id=201106280100245540020254&servicedate=20110627), 《스포츠조선》, 2011년 6월 27일
+36. [무거운 책임감 느끼는 왕선재 감독, "무엇이 옳은지 고민 중"](http://joynews.inews24.com/php/news_view.php?g_menu=702210&g_serial=584515&rrf=nv), 《조이뉴스24》, 2011년 6월 25일
+37. [최성국 등 승부조작 K리거 40명, 선수 자격 영구 박탈](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=107&oid=073&aid=0002080488) (스포츠서울)

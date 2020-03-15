@@ -1,0 +1,71 @@
+> This article is converted from Wikipedia: [G1 DMB](https://ko.wikipedia.org/wiki/G1_DMB).
+
+
+**G1 DMB**는 강원도를 가시청권으로 하는 [지상파DMB](https://ko.wikipedia.org/wiki/지상파DMB "wikilink") 방송국으로, [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [2월 29일에](https://ko.wikipedia.org/wiki/2월_29일 "wikilink") 개국하였으며 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [10월 10일](https://ko.wikipedia.org/wiki/10월_10일 "wikilink") 방송국의 명칭을 **GTB DMB**에서 **G1 DMB**로 변경하였다. [㈜G1이](../Page/G1.md "wikilink") 사업자로서 운영하고 있다.
+
+## 방송국 연혁
+
+  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [5월 2일](https://ko.wikipedia.org/wiki/5월_2일 "wikilink") : 지상파DMB방송국 허가
+  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [2월 29일](https://ko.wikipedia.org/wiki/2월_29일 "wikilink") : 지상파DMB방송국 **GTB DMB** 개국 (대룡산 송신소)
+  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [10월 10일](https://ko.wikipedia.org/wiki/10월_10일 "wikilink") : GTB DMB에서 **G1 DMB**로 변경
+  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [12월 15일](https://ko.wikipedia.org/wiki/12월_15일 "wikilink") : G1 DMB 백운산 중계소, 괘방산 중계소 개국
+  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [8월 18일](https://ko.wikipedia.org/wiki/8월_18일 "wikilink") : 현대 홈쇼핑, G1 DMB로 송출
+  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") : G1 DMB 청대산 중계소, 봉황산 중계소 개국
+  - [2020년](https://ko.wikipedia.org/wiki/2020년 "wikilink") [3월 4일](https://ko.wikipedia.org/wiki/3월_4일 "wikilink") : SBS U HD, 아리랑 라디오, SBS V RADIO가 추가 된다.
+
+## 비디오 채널
+
+  - Hi G1
+
+<!-- end list -->
+
+  -
+    전 시간대에 G1 TV 였다. 2019년 3월 4일 부터 평일 저녁 시간대 자체 편성 이다. 2020년 3월 4일 부터 SBS U HD,아리랑 라디오,SBS V RADIO가 삽입 된다
+
+<!-- end list -->
+
+  - Go G1
+
+<!-- end list -->
+
+  -
+    YTN의 DMB 채널인 mYTN를 내보낸다.2020년 3월 4일 부터 수도권 mYTN HD도 같이 삽입 된다
+
+## 데이터 채널
+
+  - G1 DATA
+
+<!-- end list -->
+
+  -
+    G1 DMB에서 운영하는 자체채널이다. 부가 데이터 서비스, 지역정보, 웹서비스 등 다양한 데이터 서비스를 제공하는 채널이다.
+
+<!-- end list -->
+
+  - DTS
+
+<!-- end list -->
+
+  -
+    YTN DMB에서 운영하는 임대채널이다. 부가 데이터 서비스, 교통정보, 웹서비스 등 다양한 데이터 서비스를 제공하는 채널이다.
+
+## 방송 송출 시설망
+
+  - 호출부호 : HLCG-TDMB
+
+| 송신소     | 주파수                 | 출력                    | 송신소 위치              | 비고 |
+| ------- | ------------------- | --------------------- | ------------------- | -- |
+| 대룡산 송신소 | CH 13B (214.736MHz) | 2kW                   | 강원 춘천시 동내면 고은리 산1-2 |    |
+| 백운산 중계소 | 2kW                 | 강원 원주시 판부면 서곡리 산116-1 |                     |    |
+| 태기산 중계소 | 2kW                 | 강원 횡성군 둔내면 태기리 산1-5   |                     |    |
+| 괘방산 중계소 | 2kW                 | 강원 강릉시 강동면 정동진리 산19   |                     |    |
+| 봉황산 중계소 | 90W                 | 강원 삼척시 정상동 산41        |                     |    |
+| 청대산 중계소 | 90W                 | 강원 속초시 도문동 산151       |                     |    |
+
+## 관련 보기
+
+  - [MY MBC](https://ko.wikipedia.org/wiki/MY_MBC_\(강원권\) "wikilink")
+  - [U-KBS](https://ko.wikipedia.org/wiki/U-KBS "wikilink")
+  - [대한민국의 지상파DMB](https://ko.wikipedia.org/wiki/대한민국의_지상파DMB "wikilink")
+
+[분류:G1](https://ko.wikipedia.org/wiki/분류:G1 "wikilink") [분류:2008년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2008년_설립된_텔레비전_방송국과_채널 "wikilink") [분류:대한민국의 디지털 멀티미디어 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_디지털_멀티미디어_방송국 "wikilink")

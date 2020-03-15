@@ -1,0 +1,37 @@
+> This article is converted from Wikipedia: [, Op. 9 \(\)](https://ko.wikipedia.org/wiki/,_Op._9_\(\)).
+
+
+**쇼팽의 녹턴 작품번호 제9번**(3 Nocturnes, Op. 9)은 [프레데리크 쇼팽이](https://ko.wikipedia.org/wiki/프레데리크_쇼팽 "wikilink") [1830년](https://ko.wikipedia.org/wiki/1830년 "wikilink")에서 [1832년](https://ko.wikipedia.org/wiki/1832년 "wikilink") 사이에 작곡했으며 21개의 [녹턴](../Page/녹턴_\(쇼팽\).md "wikilink") 중 1번, 2번, 3번을 통합해서 부르는 말이다. 작품번호 제9번은 [1833년](https://ko.wikipedia.org/wiki/1833년 "wikilink")에 처음 출판되었다.
+
+## 녹턴 1번 내림나단조
+
+쇼팽의 녹턴 1번은 음표 사용의 자유로움이 묻어나는 곡으로 왼손은 평이한 8분음표의 아르페지오 형식으로 되어 있고 오른손은 다양한 길이의 음표 (7잇단, 11잇단, 20잇단, 22잇단음표) 가 사용되었다.
+
+첫 주제는 내림나단조의 조성으로 가볍고 구슬프게 시작하지만 두 번째 주제에서는 나란한조인 내림라장조로 변조, 장중해지며 무거워진 음이 들려온다. 하지만 다시 마지막 부분에서 내림나단조로 다시 돌아가 여린음으로 곡을 마치게 된다.
+
+|                                                                               |                                                                               |
+| ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| [섬네일](https://ko.wikipedia.org/wiki/파일:Chopin_nocturne_op9_1a.png "wikilink") | [섬네일](https://ko.wikipedia.org/wiki/파일:Chopin_nocturne_op9_1b.png "wikilink") |
+
+## 녹턴 2번 내림마장조
+
+쇼팽의 녹턴 2번은 전체 녹턴 21개 중 가장 유명한 곡 중 하나로 손꼽히는 곡으로 그의 나이 20세경에 작곡되었다. 다른 많은 쇼팽의 작품과 마찬가지로 약간의 우울함과 희망감이 곡에 묻어있다.
+
+이 유명한 녹턴은 순환적 [두도막 형식](https://ko.wikipedia.org/wiki/두도막_형식 "wikilink")(A-A-B-A-B-A-C)으로 되어 있고 마지막 [코다](https://ko.wikipedia.org/wiki/코다 "wikilink")인 C부분이 추가된다. 주제 부분인 A,B부분에서는 많은 음이 재현되며 장식적인 음이 많이 가미되었다. 특히 A에서는 여린 음으로 시작하여 부드러운 연주를 중시하며 우아한 음이 많이 내포되어있다. 곡이 끝으로 치닫을 수록 A는 발전을 거듭하여 첫부분보다 트릴과 잇단음표의 사용 빈도가 증가된다.
+
+곡에서 계속된 부드러운 음은 C부분인 코다에서 격정적으로 변화하여 빠르기가 빨라진다. 그 후 화려한 트릴이 전개되고 나서야 고요한 음으로 곡이 마친다.
+
+|                                                                               |                                                                               |
+| ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| [섬네일](https://ko.wikipedia.org/wiki/파일:Chopin_nocturne_op9_2a.png "wikilink") | [섬네일](https://ko.wikipedia.org/wiki/파일:Chopin_nocturne_op9_2b.png "wikilink") |
+
+## 녹턴 3번 나장조
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Chopin_nocturne_op9_3a.png "wikilink") 쇼팽의 녹턴 3번은 [세도막 형식인](https://ko.wikipedia.org/wiki/세도막_형식 "wikilink") (A-B-A)형식을 취하고 있다. 첫 부분은 알레그레토(Allegretto)의 빠르기가 지시되어 있으며 물 흐르듯이 부드럽게 전개되나 두 번째 부분은 나단조로 변조되어 매우 빠른 속력으로 쳐내야한다. 오른손은 보통 녹턴의 멜로디와 다를 것이 없으나 왼손은 8분음표의 셋잇단음표가 연속적으로 나타나며 이 부분이 매우 높은 기술을 요하는 부분이다. 곡의 마지막 부분에서는 오른손의 화려한 하강음에 이어 양손의 아르페지오 음이 나타난 후 끝나게 된다. 3번은 곡 전체에서 장식적인 음의 사용이 많은 편이다.
+
+## 같이 보기
+
+  - [프레데리크 쇼팽](https://ko.wikipedia.org/wiki/프레데리크_쇼팽 "wikilink")
+  - [쇼팽의 녹턴](../Page/녹턴_\(쇼팽\).md "wikilink")
+
+[09](https://ko.wikipedia.org/wiki/분류:쇼팽의_녹턴 "wikilink") [분류:내림나단조 작품](https://ko.wikipedia.org/wiki/분류:내림나단조_작품 "wikilink") [분류:헌정곡](https://ko.wikipedia.org/wiki/분류:헌정곡 "wikilink") [분류:피아노 곡](https://ko.wikipedia.org/wiki/분류:피아노_곡 "wikilink") [ja:夜想曲第3番 (ショパン)](https://ko.wikipedia.org/wiki/ja:夜想曲第3番_\(ショパン\) "wikilink")

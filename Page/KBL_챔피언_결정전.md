@@ -1,0 +1,58 @@
+> This article is converted from Wikipedia: [KBL  ](https://ko.wikipedia.org/wiki/KBL__).
+
+
+다음은 **KBL 챔피언 결정전**에 대한 주요 정보를 표로 나열한 것이다.
+
+## 내력
+
+| 연도    | 우승 팀                                                                  | 스코어                                                             | 준우승 팀                                                                 | MVP                                                              | 소속팀          |
+| ----- | --------------------------------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------------------------------- | ---------------------------------------------------------------- | ------------ |
+| 1997년 | [부산 기아 엔터프라이즈](https://ko.wikipedia.org/wiki/울산_현대모비스_피버스 "wikilink") | 4승1패                                                            | [원주 나래 블루버드](https://ko.wikipedia.org/wiki/원주_동부_프로미 "wikilink")      | [강동희](https://ko.wikipedia.org/wiki/강동희_\(농구인\) "wikilink")      | 부산 기아 엔터프라이즈 |
+| 1998년 | [대전 현대 다이냇](https://ko.wikipedia.org/wiki/전주_KCC_이지스 "wikilink")      | 4승3패                                                            | [부산 기아 엔터프라이즈](https://ko.wikipedia.org/wiki/울산_현대모비스_피버스 "wikilink") | [허재](../Page/허재.md "wikilink")\[1\]                              |              |
+| 1999년 | 4승1패                                                                  | [조성원](../Page/조성원_\(농구인\).md "wikilink")                        | 대전 현대 다이냇                                                             |                                                                  |              |
+| 2000년 | [청주 SK 나이츠](https://ko.wikipedia.org/wiki/서울_SK_나이츠 "wikilink")       | 4승2패                                                            | [대전 현대 걸리버스](https://ko.wikipedia.org/wiki/전주_KCC_이지스 "wikilink")     | [서장훈](https://ko.wikipedia.org/wiki/서장훈 "wikilink")              | 청주 SK 나이츠    |
+| 2001년 | [수원 삼성 썬더스](https://ko.wikipedia.org/wiki/서울_삼성_썬더스 "wikilink")       | 4승1패                                                            | [창원 LG 세이커스](../Page/창원_LG_세이커스.md "wikilink")                        | [주희정](../Page/주희정.md "wikilink")                                 | 수원 삼성 썬더스    |
+| 2002년 | [대구 동양 오리온스](../Page/고양_오리온_오리온스.md "wikilink")                       | 4승3패                                                            | [서울 SK 나이츠](https://ko.wikipedia.org/wiki/서울_SK_나이츠 "wikilink")       | [마르커스 힉스](https://ko.wikipedia.org/wiki/마르커스_힉스 "wikilink")\[2\] | 대구 동양 오리온스   |
+| 2003년 | [원주 TG 엑써스](https://ko.wikipedia.org/wiki/원주_DB_프로미 "wikilink")       | 4승2패                                                            | [대구 동양 오리온스](../Page/고양_오리온_오리온스.md "wikilink")                       | [데이비드 잭슨](https://ko.wikipedia.org/wiki/데이비드_잭슨 "wikilink")      | 원주 TG 엑써스    |
+| 2004년 | [전주 KCC 이지스](https://ko.wikipedia.org/wiki/전주_KCC_이지스 "wikilink")     | 4승3패                                                            | [원주 TG삼보 엑써스](https://ko.wikipedia.org/wiki/원주_DB_프로미 "wikilink")     | [이상민](../Page/이상민_\(농구인\).md "wikilink")                         | 전주 KCC 이지스   |
+| 2005년 | [원주 TG삼보 엑써스](https://ko.wikipedia.org/wiki/원주_DB_프로미 "wikilink")     | 4승2패                                                            | [전주 KCC 이지스](https://ko.wikipedia.org/wiki/전주_KCC_이지스 "wikilink")     | [김주성](../Page/김주성_\(농구_선수\).md "wikilink")                       | 원주 TG삼보 엑써스  |
+| 2006년 | [서울 삼성 썬더스](https://ko.wikipedia.org/wiki/서울_삼성_썬더스 "wikilink")       | 4승                                                              | [울산 모비스 피버스](https://ko.wikipedia.org/wiki/울산_모비스_피버스 "wikilink")     | [강혁](../Page/강혁_\(농구인\).md "wikilink")                           | 서울 삼성 썬더스    |
+| 2007년 | [울산 모비스 피버스](https://ko.wikipedia.org/wiki/울산_현대모비스_피버스 "wikilink")   | 4승3패                                                            | [부산 KTF 매직윙스](https://ko.wikipedia.org/wiki/부산_kt_소닉붐 "wikilink")     | [양동근](https://ko.wikipedia.org/wiki/양동근_\(농구_선수\) "wikilink")    | 울산 모비스 피버스   |
+| 2008년 | [원주 동부 프로미](https://ko.wikipedia.org/wiki/원주_DB_프로미 "wikilink")       | 4승1패                                                            | [서울 삼성 썬더스](https://ko.wikipedia.org/wiki/서울_삼성_썬더스 "wikilink")       | [김주성](../Page/김주성_\(농구_선수\).md "wikilink")                       | 원주 동부 프로미    |
+| 2009년 | [전주 KCC 이지스](https://ko.wikipedia.org/wiki/전주_KCC_이지스 "wikilink")     | 4승3패                                                            | [추승균](https://ko.wikipedia.org/wiki/추승균 "wikilink")                   | 전주 KCC 이지스                                                       |              |
+| 2010년 | [울산 모비스 피버스](https://ko.wikipedia.org/wiki/울산_현대모비스_피버스 "wikilink")   | 4승2패                                                            | [전주 KCC 이지스](https://ko.wikipedia.org/wiki/전주_KCC_이지스 "wikilink")     | [함지훈](../Page/함지훈.md "wikilink")                                 | 울산 모비스 피버스   |
+| 2011년 | [전주 KCC 이지스](https://ko.wikipedia.org/wiki/전주_KCC_이지스 "wikilink")     | 4승2패                                                            | [원주 동부 프로미](https://ko.wikipedia.org/wiki/원주_DB_프로미 "wikilink")       | [하승진](https://ko.wikipedia.org/wiki/하승진 "wikilink")              | 전주 KCC 이지스   |
+| 2012년 | [안양 KGC인삼공사](https://ko.wikipedia.org/wiki/안양_KGC인삼공사_농구단 "wikilink") | 4승2패                                                            | [오세근](../Page/오세근.md "wikilink")                                      | 안양 KGC인삼공사                                                       |              |
+| 2013년 | [울산 모비스 피버스](https://ko.wikipedia.org/wiki/울산_모비스_피버스 "wikilink")     | 4승                                                              | [서울 SK 나이츠](https://ko.wikipedia.org/wiki/서울_SK_나이츠 "wikilink")       | [양동근](https://ko.wikipedia.org/wiki/양동근_\(농구_선수\) "wikilink")    | 울산 모비스 피버스   |
+| 2014년 | 4승2패                                                                  | [창원 LG 세이커스](../Page/창원_LG_세이커스.md "wikilink")                  | [문태영](https://ko.wikipedia.org/wiki/문태영_\(농구_선수\) "wikilink")\[3\]    |                                                                  |              |
+| 2015년 | 4승                                                                    | [원주 동부 프로미](https://ko.wikipedia.org/wiki/원주_DB_프로미 "wikilink") | [양동근](https://ko.wikipedia.org/wiki/양동근_\(농구_선수\) "wikilink")         |                                                                  |              |
+| 2016년 | [고양 오리온 오리온스](../Page/고양_오리온_오리온스.md "wikilink")                      | 4승2패                                                            | [전주 KCC 이지스](https://ko.wikipedia.org/wiki/전주_KCC_이지스 "wikilink")     | [이승현](../Page/이승현_\(농구_선수\).md "wikilink")                       | 고양 오리온 오리온스  |
+| 2017년 | [안양 KGC인삼공사](https://ko.wikipedia.org/wiki/안양_KGC인삼공사 "wikilink")     | 4승2패                                                            | [서울 삼성 썬더스](https://ko.wikipedia.org/wiki/서울_삼성_썬더스 "wikilink")       | [오세근](../Page/오세근.md "wikilink")                                 | 안양 KGC인삼공사   |
+| 2018년 | [서울 SK 나이츠](https://ko.wikipedia.org/wiki/서울_SK_나이츠 "wikilink")       | 4승2패                                                            | [원주 DB 프로미](https://ko.wikipedia.org/wiki/원주_DB_프로미 "wikilink")       | [테리코 화이트](../Page/테리코_화이트.md "wikilink")                         | 서울 SK 나이츠    |
+| 2019년 | [울산 현대모비스 피버스](https://ko.wikipedia.org/wiki/울산_현대모비스_피버스 "wikilink") | 4승1패                                                            | [인천 전자랜드 엘리펀츠](https://ko.wikipedia.org/wiki/인천_전자랜드_엘리펀츠 "wikilink") | [이대성](../Page/이대성.md "wikilink")                                 | 울산 현대모비스 피버스 |
+| 2020년 |                                                                       |                                                                 |                                                                       |                                                                  |              |
+
+### 우승 횟수
+
+| 횟수                                                                    | 팀                                                                     | 우승                                       | 준우승                                | 비고                                       |
+| --------------------------------------------------------------------- | --------------------------------------------------------------------- | ---------------------------------------- | ---------------------------------- | ---------------------------------------- |
+| 7회                                                                    | [울산 현대모비스 피버스](https://ko.wikipedia.org/wiki/울산_현대모비스_피버스 "wikilink") | 1997, 2007, 2010, 2013, 2014, 2015, 2019 | 1998, 1999, 2006                   | 부산 기아 엔터프라이즈 시절 포함                       |
+| 5회                                                                    | [전주 KCC 이지스](https://ko.wikipedia.org/wiki/전주_KCC_이지스 "wikilink")     | 1998, 1999, 2004, 2009, 2011             | 2000, 2005, 2010, 2016             | 대전 현대 다이냇 시절 포함                          |
+| 3회                                                                    | [원주 DB 프로미](https://ko.wikipedia.org/wiki/원주_DB_프로미 "wikilink")       | 2003, 2005, 2008                         | 1997, 2004, 2011, 2012, 2015, 2018 | 원주 나래 블루버드, 원주 TG 엑써스, 원주 TG삼보 엑써스 시절 포함 |
+| 2회                                                                    | [서울 삼성 썬더스](https://ko.wikipedia.org/wiki/서울_삼성_썬더스 "wikilink")       | 2001, 2006                               | 2008, 2009, 2017                   | 수원 삼성 썬더스 시절 포함                          |
+| [서울 SK 나이츠](https://ko.wikipedia.org/wiki/서울_SK_나이츠 "wikilink")       | 2000, 2018                                                            | 2002, 2013                               | 청주 SK 나이츠 시절 포함                    |                                          |
+| [고양 오리온 오리온스](../Page/고양_오리온_오리온스.md "wikilink")                      | 2002, 2016                                                            | 2003                                     | 대구 동양 오리온스 시절 포함                   |                                          |
+| [창원 LG 세이커스](../Page/창원_LG_세이커스.md "wikilink")                        |                                                                       | 2001, 2014                               |                                    |                                          |
+| [안양 KGC인삼공사](https://ko.wikipedia.org/wiki/안양_KGC인삼공사_농구단 "wikilink") | 2012, 2017                                                            |                                          |                                    |                                          |
+| 1회                                                                    | [부산 kt 소닉붐](https://ko.wikipedia.org/wiki/부산_kt_소닉붐 "wikilink")       |                                          | 2007                               | 부산 KTF 매직윙스 시절 포함                        |
+| [인천 전자랜드 엘리펀츠](https://ko.wikipedia.org/wiki/인천_전자랜드_엘리펀츠 "wikilink") |                                                                       | 2019                                     |                                    |                                          |
+
+## 각주
+
+<references/>
+
+[챔피언결정전](https://ko.wikipedia.org/wiki/분류:한국농구연맹 "wikilink")
+
+1.  처음으로 준우승 팀 선수가 MVP를 수상하였다.
+2.  처음으로 용병선수가 MVP를 수상하였다.
+3.  처음으로 혼혈선수가 MVP를 수상하였다.

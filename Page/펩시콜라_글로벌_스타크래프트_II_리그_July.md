@@ -1,0 +1,123 @@
+> This article is converted from Wikipedia: [   II  July](https://ko.wikipedia.org/wiki/___II__July).
+
+
+**펩시콜라 글로벌 스타크래프트 II 리그 July**(Pepsi Global Star Craft II League July)는 [글로벌 스타크래프트 II 리그](https://ko.wikipedia.org/wiki/글로벌_스타크래프트_II_리그 "wikilink") 2011 GSL 투어의 10번째 리그로 2011년 6월 28일 임재덕, 박서용(기권), 박성준, 서기수로 구성된 그룹A와 이정환, 한규종, 김동환, 김상철로 구성된 그룹B의 매치를 시작으로 약 한달 간의 일정에 돌입하게 된다. 메인스폰서는 펩시콜라로 결정되었다.\[1\]
+
+## 리그기간
+
+  - Code S 조지명식: [6월 20일](https://ko.wikipedia.org/wiki/6월_20일 "wikilink")
+  - Code S: [6월 28일](https://ko.wikipedia.org/wiki/6월_28일 "wikilink") \~ [7월 30일](https://ko.wikipedia.org/wiki/7월_30일 "wikilink")
+  - Code A: [6월 27일](https://ko.wikipedia.org/wiki/6월_27일 "wikilink") \~ [7월 18일](https://ko.wikipedia.org/wiki/7월_18일 "wikilink")
+  - 승격/강등전: [7월 26일](https://ko.wikipedia.org/wiki/7월_26일 "wikilink") \~ [7월 28일](https://ko.wikipedia.org/wiki/7월_28일 "wikilink")
+
+## 리그방식
+
+  - 이번 일정 변경에서 가장 주목할 점은 코드A, 코드S, GSTL이 매주 진행된다는 것. 월요일부터 금요일까지 세 개의 리그가 정규 편성되어 진행된다. 월요일은 코드A, 화, 수요일은 코드S, 목, 금요일에는 GSTL이 펼쳐진다. 결승전 외에는 주말에 경기가 펼쳐지지 않는다. 주말에 일정을 비워둔 것은 해외 리그와의 일정 조율을 위한 것으로 단, 코드A의 32강과 16강은 월요일부터 금요일까지 고르게 나뉘어 열린다. 또한 코드S 경기는 32강 방식을 기존 곰TV 리그 방식에서 "듀얼토너먼트" 방식으로 변경됐다. 1경기와 2경기는 조지명식을 통해 결정되며, 3경기는 1경기 승자와 2경기 승자가 맞붙어 승리한 선수가 조 1위로 16강에 진출한다. 4경기는 1경기 패자와 2경기 패자가 맞붙는다. 이 경기에서 패한 선수는 조 4위가 되어 탈락하고, 승리한 선수는 5경기를 치르게 된다. 최종전이라 할 수 있는 5경기에서는 승자전(3경기)에서 패배한 선수와 패자전(4경기)에서 승리한 선수가 맞붙어 승리한 선수는 조 2위, 패배한 선수가 조 3위로 결정된다. 이로써 각 조의 1, 2위는 16강에 진출하고 조3위는 코드S에 잔류하며, 4위는 승격강등전으로 탈락한다.
+  - 코드S와 코드A의 위치를 결정하는 "승격강등전"도 대폭 변경된다. 우선 코드A 우승자는 승격강등전에 출전하지 않는다. 그 동안 코드A 우승자에게 돌아가는 혜택이 너무 적다는 지적을 적극 수용해 코드A 우승자는 승격강등전 없이 곧바로 코드S로 진출한다. 또한 MLG 우승자에게 다음 달의 코드S 시드를 지급한다. 만일 대회의 우승자가 한국 선수일 경우도 시드를 지급하고, 우승자가 시드를 거부하거나 이미 코드S인 경우에는 준우승자에게 시드권이 돌아간다. 또한 MLG가 열리지 않을 경우에는 와일드카드전을 통해 코드S 직행 선수를 가리게 된다. 본격적인 승격강등전은 코드S 조 4위 8명과 코드A 상위 7명이 출전한다. 총 15명의 선수가 5명씩 3개의 그룹으로 나뉘어 조별풀리그를 진행한다. 각 조의 상위 1, 2위가 코드S에 승격하며 나머지 3위부터는 다시 코드 A로 돌아간다.\[2\]
+
+## 맵
+
+  - 금속 도시
+  - 젤나가 동굴
+  - 크레바스
+  - 십자 포화 SE
+  - 종착역
+  - 탈다림 제단
+  - 듀얼 사이트
+  - 젤나가 요새
+  - 벨시르 해안
+
+## 상금
+
+### Code S
+
+  - 우승: 5000만 원
+  - 준우승: 2000만 원
+  - 4강: 500만 원
+  - 8강: 300만 원
+  - 16강: 200만 원
+  - 32강: 150만 원
+
+### Code A
+
+  - 우승: 150만 원
+  - 준우승: 100만 원
+  - 4강: 80만 원
+  - 8강: 60만 원
+  - 16강: 40만 원
+  - 32강: 20만 원
+
+## 방송
+
+  - 곰TV (인터넷 방송: 생방송, 다시 보기), (모바일 애플리케이션: 다시 보기)
+  - [애니박스](../Page/애니박스.md "wikilink") ([케이블 방송](../Page/대한민국의_케이블TV_방송.md "wikilink"): 생방송)
+  - [챔프TV](https://ko.wikipedia.org/wiki/챔프TV "wikilink") ([케이블 방송](../Page/대한민국의_케이블TV_방송.md "wikilink"): 주요 경기 재방송)
+  - [olleh TV](https://ko.wikipedia.org/wiki/올레TV "wikilink") ([IPTV](https://ko.wikipedia.org/wiki/인터넷_프로토콜_텔레비전 "wikilink"): 다시 보기)
+
+## 중계진
+
+  - 한국어\[3\]
+      - 캐스터: [이현주](../Page/이현주_\(방송인\).md "wikilink"), [이인환](https://ko.wikipedia.org/wiki/이인환_\(방송인\) "wikilink"), [서경환](https://ko.wikipedia.org/wiki/서경환 "wikilink")
+      - 해설: [채정원](../Page/채정원.md "wikilink"), [안준영](../Page/안준영_\(방송인\).md "wikilink"), [이주영](../Page/이주영_\(프로게이머\).md "wikilink"), [박대만](../Page/박대만.md "wikilink"), [황영재](../Page/황영재.md "wikilink")
+  - 영어\[4\]
+      - 캐스터: [Nicholas Plott](https://ko.wikipedia.org/wiki/Nicholas_Plott "wikilink")
+      - 해설: [Daniel Stemkoski](https://ko.wikipedia.org/wiki/Daniel_Stemkoski "wikilink")
+
+## Code S
+
+### 32강
+
+| A조 (2011년 6월 28일)                                       | B조 (2011년 6월 28일) | C조 (2011년 6월 29일) | D조 (2011년 6월 29일)                                                 |
+| ------------------------------------------------------- | ----------------- | ----------------- | ----------------------------------------------------------------- |
+| **이름**                                                  | **승**             | **패**             | **이름**                                                            |
+| [임재덕](https://ko.wikipedia.org/wiki/임재덕 "wikilink") (Z) | 2                 | 0                 | [한규종](../Page/한규종.md "wikilink") (T)                              |
+| [서기수](../Page/서기수.md "wikilink") (P)                    | 2                 | 1                 | [김상철](https://ko.wikipedia.org/wiki/김상철 "wikilink") (T)           |
+| [박성준](../Page/박성준_\(1986년\).md "wikilink") (Z)          | 1                 | 2                 | [김동환](https://ko.wikipedia.org/wiki/김동환_\(프로게이머\) "wikilink") (Z) |
+| [박서용](../Page/박서용.md "wikilink") (T)\[5\]               | X                 | X                 | [이정환](https://ko.wikipedia.org/wiki/이정환 "wikilink") (P)           |
+
+| E조 (2011년 7월 5일)                                                  | F조 (2011년 7월 5일) | G조 (2011년 7월 6일) | H조 (2011년 7월 6일)                                                  |
+| ----------------------------------------------------------------- | ---------------- | ---------------- | ----------------------------------------------------------------- |
+| **이름**                                                            | **승**            | **패**            | **이름**                                                            |
+| [최정민](../Page/최정민_\(프로게이머\).md "wikilink") (Z)                    | 2                | 0                | [이윤열](../Page/이윤열.md "wikilink") (T)                              |
+| [변현우](https://ko.wikipedia.org/wiki/변현우_\(프로게이머\) "wikilink") (T) | 2                | 1                | [안홍욱](../Page/안홍욱.md "wikilink") (P)                              |
+| [정종현](https://ko.wikipedia.org/wiki/정종현 "wikilink") (T)           | 1                | 2                | [김영진](https://ko.wikipedia.org/wiki/김영진_\(프로게이머\) "wikilink") (T) |
+| [김승철](https://ko.wikipedia.org/wiki/김승철 "wikilink") (T)           | 0                | 2                | [황규석](https://ko.wikipedia.org/wiki/황규석 "wikilink") (T)           |
+
+### 16강 \~ 결승
+
+### 결과
+
+  - **우승: [임재덕](https://ko.wikipedia.org/wiki/임재덕 "wikilink")**
+  - **준우승: [황강호](../Page/황강호.md "wikilink")**
+
+## Code A
+
+### 결과
+
+  - **우승: [김상준](../Page/김상준_\(프로게이머\).md "wikilink")**
+  - **준우승: [김정훈](https://ko.wikipedia.org/wiki/김정훈_\(1990년\) "wikilink")**
+
+## 승격/강등전
+
+  - **CODE A 선수는 굵은 글씨**
+
+| A조 (2011년 7월 26일)                                                     | B조 (2011년 7월 27일) | C조 (2011년 7월 28일) |
+| --------------------------------------------------------------------- | ----------------- | ----------------- |
+| **이름**                                                                | **승**             | **패**             |
+| **[김동원](https://ko.wikipedia.org/wiki/김동원_\(프로게이머\) "wikilink") (T)** | 4                 | 0                 |
+| **[안호진](https://ko.wikipedia.org/wiki/안호진 "wikilink") (T)**           | 2                 | 1                 |
+| **[조중혁](https://ko.wikipedia.org/wiki/조중혁 "wikilink") (T)**           | 2                 | 2                 |
+| [이정훈](../Page/이정훈_\(프로게이머\).md "wikilink") (T)                        | 1                 | 3                 |
+| [김원기](../Page/김원기_\(프로게이머\).md "wikilink") (Z)                        | 0                 | 3                 |
+
+## 각주
+
+<references/>
+
+[분류:글로벌 스타크래프트 II 리그](https://ko.wikipedia.org/wiki/분류:글로벌_스타크래프트_II_리그 "wikilink") [분류:2011년 이스포츠](https://ko.wikipedia.org/wiki/분류:2011년_이스포츠 "wikilink")
+
+1.  \[<http://www.thisisgame.com/board/view.php?id=687134&category=13438>, GSL July 메인 스폰서는 펩시 콜라\!\] 《SC2 - 디스이즈게임》 2011/06/28 10:39:13
+2.  \[<http://www.gamedonga.co.kr/gamenews/gamenewsview.asp?sendgamenews=45420>, 새로워진 GSL 리그, 다양한 재미가 한가득\] 《게임동아》2011년 06월 21일
+3.  1 캐스터, 2 해설 체재로 진행
+4.  1 캐스터, 1 해설 체재로 진행
+5.  대회 참가 포기

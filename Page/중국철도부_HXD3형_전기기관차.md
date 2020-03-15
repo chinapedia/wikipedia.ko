@@ -1,0 +1,16 @@
+> This article is converted from Wikipedia: [ HXD3 ](https://ko.wikipedia.org/wiki/_HXD3_).
+
+
+**중국철도부 HX<sub>D</sub>3형 전기기관차**는 [중화인민공화국 철도부의](https://ko.wikipedia.org/wiki/중화인민공화국_철도부 "wikilink") [교류](../Page/교류.md "wikilink") 전용 [전기기관차](https://ko.wikipedia.org/wiki/전기기관차 "wikilink")다. HXD 란 칭호는 和諧電 (허쉐뎬)의 한어 로마자 머리 글자에 유래한다.
+
+최고속도는 120km/h 이지만 중국 대륙의 모든 지역에서 운용할 것을 전제로 하고 있으며 축중은 23t 또는 25t 으로 변경 가능한다. [섭씨](https://ko.wikipedia.org/wiki/섭씨 "wikilink") -40도에서 +40도까지의 온도 조건을 만족한다. 견인 전동기는 삼상 [유도 전동기이며](https://ko.wikipedia.org/wiki/유도_전동기 "wikilink") 연속 정격 출력은 7200kW이며 견인 하중은 5000t이다. 주 변환 장치의 냉각 방식은 강제 순환 수냉 방식이다. 운용의 여유도에 배려해서 각 차축 마다 제어할 방식을 채용하였다. 보조 전원 장치는 출력 230kW×2 세트이며 각각 가변전압 가변주파수 (VVVF) 기능과 일정전압 일정주파수 (CVCF) 기능을 갖게 해서 대용량 송풍기는 VVVF로 기동 및 운전하며 기관차가 정차시에는 소음 저감과 절전 하기 위해 속도 반감 운전한다. 고장 발생시에도 기관차 성능의 저하를 초래하지 않도록 보조전원 1세트로 대부분인 보조기기를 운전할 수 있게 설계되었다. 일부 기관차는 객차 전원공급장치도 갖추어 있다. 최대 4 중련의 총괄제어가 가능한 TCMS를 탑재하며 모든 시스템의 운전 지령과 동작 상황을 감시한다.
+
+## 참고 문헌
+
+  - 鐵道ピクトリアル 臨時增刊號 鐵道車輛年鑑 2010年版
+
+## 외부 링크
+
+  - [東芝 近代的な物流を支える機関車及び貨物電車システム](http://www.toshiba.co.jp/tech/review/2006/09/61_09pdf/a05.pdf)（PDF 파일）
+
+[분류:중국의 철도 차량](https://ko.wikipedia.org/wiki/분류:중국의_철도_차량 "wikilink") [HXD3](https://ko.wikipedia.org/wiki/분류:중화인민공화국의_철도_교통 "wikilink") [전기 기관차](https://ko.wikipedia.org/wiki/분류:전기_기관차 "wikilink")

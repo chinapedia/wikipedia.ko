@@ -1,0 +1,284 @@
+> This article is converted from Wikipedia: [ THE CHASER](https://ko.wikipedia.org/wiki/_THE_CHASER).
+
+
+《**추적자 THE CHASER**》는 [SBS에서](https://ko.wikipedia.org/wiki/SBS_TV "wikilink") [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [5월 28일부터](https://ko.wikipedia.org/wiki/5월_28일 "wikilink") [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [7월 17일까지](https://ko.wikipedia.org/wiki/7월_17일 "wikilink") 방영된 [SBS](https://ko.wikipedia.org/wiki/SBS_TV "wikilink") [월화 드라마이다](https://ko.wikipedia.org/wiki/SBS_월화드라마 "wikilink").
+
+이 드라마는 딸의 갑작스런 죽음과 억울한 누명을 밝히고 사회의 부조리에 맞서는 한 형사의 이야기로, 초기 제목은 ‘아버지의 전쟁’이었다. 또한 《[패션왕](../Page/패션왕_\(드라마\).md "wikilink")》의 후속작 《[드라마의 제왕](https://ko.wikipedia.org/wiki/드라마의_제왕 "wikilink")》이 제작상의 문제로 인해 첫 방송일이 연기되면서 갑작스럽게 편성되었다. 하지만 주인공을 맡은 [손현주](https://ko.wikipedia.org/wiki/손현주 "wikilink")가 뛰어난 연기력으로 많은 사랑을 받으며 데뷔 첫 연기대상을 거머쥐었다.
+
+## 등장 인물
+
+### 주요 인물
+
+  - [손현주](https://ko.wikipedia.org/wiki/손현주 "wikilink") : 백홍석(42세) 역 - 강북경찰서 강력2팀 형사
+
+<!-- end list -->
+
+  -
+    딸의 휴대 전화를 사 주기 위해 돈을 아껴쓰고 영수증까지 알뜰살뜰 챙기는 생계형 형사. 경찰서 직속 상관인 황 반장에게는 그만둔다며 틈만나면 사표를 던지는 그지만 가족에게는 어느 누구도 부럽지 않은 아버지이고 남편이고 싶은 남자다. 하지만 딸이었던 백수정이 서지수와 PK준이 일으킨 교통 사고에 연루되어 죽음을 당하고, 그 죽음마저 조작된 채 은폐되려 하자 그 사건을 밝히기 위해 나선다. 그는 딸을 살해한 살해범이었던 PK준이 강동윤과의 거래로 인해 가벼운 형벌을 받고 사건이 마무리가 되려고 하자, 법정으로 찾아가 총으로 PK준을 죽이게 된다. 사건 직후 체포된 그는 PK준의 핸드폰을 통해 강동윤이 PK준과 거래를 하여 딸의 죽음을 조작했다는 사실을 알게 된다. 그는 딸의 죽음에 대한 진실을 찾아 복수하기 위해 탈옥을 결심하고 실행에 옮기게 된다. 서민을 대변하는 인물로 가진 것은 아무것도 없지만 진실이라는 가장 큰 무기를 이용해 싸우는 인물이다.
+
+<!-- end list -->
+
+  - [김상중](../Page/김상중.md "wikilink") : 강동윤(40대) 역 - 대한국민당 소속의 4선 국회의원
+
+<!-- end list -->
+
+  -
+    독산동의 찢어지게 가난한 이발소집 아들로 태어나서 출세 가도를 밟아 현재 여당인 대한국민당에서 지명한 대통령 후보로 올라선 차기 대권주자이자 대통령 후보다. 치밀하고 냉정하고 항상 계산대로 움직이며, 정치는 돈과 권력이 뒷받침이 되어야 하고 그것을 지키기 위해서라면 어떤 일이라도 할 수 있는 무서운 인물이다. 아내 서지수가 낸 교통 사고가 자신은 물론이고 장인이 이끌고 있는 한오그룹마저 위험하게 되자, 사태 수습을 위해 사고 피해자인 백홍석의 딸 백수정을 의학적으로 사망하게 만든다. 하지만 백홍석이 딸의 죽음과 그의 실체를 밝히기 위해 조여오면서 백홍석과 운명적으로 겨루게 된다. 정치권과 거대권력자들을 대변하는 인물로 권력과 돈, 공권력을 이용하여 백홍석을 막으려는 인물이다.
+
+### 백홍석의 가족
+
+  - [이혜인](https://ko.wikipedia.org/wiki/이혜인 "wikilink") : 백수정(17세) 역 - 백홍석의 딸. 고등학교 2학년
+
+<!-- end list -->
+
+  -
+    사춘기의 나이인데도 묵묵히 자기일을 다하며 아버지를 존경하고 믿고 따르는 착한 딸이다. 서지수가 낸 교통 사고로 인해 죽음의 문턱까지 가다가 윤창민의 시술로 살아난다. 하지만 후에 강동윤의 사주를 받은 윤창민에 의해 의학적으로 사망한다.
+
+<!-- end list -->
+
+  - [김도연](../Page/김도연_\(1966년\).md "wikilink") : 송미연(39세) 역 - 백홍석의 아내
+
+<!-- end list -->
+
+  -
+    착하디 착하고 가족 밖에 모르는 여자로, 딸의 죽음이 조작되자 아파트에서 자살한다.
+
+### 백홍석의 주변 인물
+
+  - [류승수](https://ko.wikipedia.org/wiki/류승수 "wikilink") : 최정우(40세) 역 - 서울중앙지검 형사부 검사
+
+<!-- end list -->
+
+  -
+    잘나가던 시절 권력의 핵심을 잘못 건드려 말단 지청을 떠돌다가 얼마전 서울지검으로 복귀한 파란만장한 인생사를 지낸 검사다. 이제는 조그마한 사건을 맡으며 조용히 지내려다 가련다 하는 생각을 갖고 있지만, 백홍석의 사건을 보면서 진실이 은폐되려고 하자 나서서 백홍석을 돕고 사건의 진실을 파헤친다.
+
+<!-- end list -->
+
+  - [박효주](../Page/박효주.md "wikilink") : 조남숙(32세) 역 - 강북경찰서 형사
+
+<!-- end list -->
+
+  -
+    백홍석의 오른팔이자 강단있고 무술 실력이 뛰어난 형사이지만 일 때문에 결혼을 3번이나 한 인물이다. 백홍석을 믿고 의지하고 존경하며 따른다. 백홍석을 끝까지 보좌하면서 곁을 든든히 지킨다. 하지만 백홍석 일행과 같이 사건을 겪으며 전과 7범의 용식을 사랑하게 된다.
+
+<!-- end list -->
+
+  - [강신일](https://ko.wikipedia.org/wiki/강신일 "wikilink") : 황일관(50대) 역 - 강북경찰서 강력1반 반장
+
+<!-- end list -->
+
+  -
+    20여 년 전에 큰 딸이 반장 달 때 자신도 반장 달았으나 진급 못하고 그대로 반장 신세라며 핀잔을 늘어놓지만, 언제나 사람 좋은 웃음과 특유의 너스레와 넉살로 살아가는 한량적인 인물이다. 백홍석을 누구보다 믿고 챙기며 고민이 있을 때 그와 상담할 정도로 각별한 사이다. 하지만 강동윤의 계략으로 백홍석을 배신하고 그에게 총을 겨누게 되지만 잘못을 뉘우치고 돕게 된다.
+
+<!-- end list -->
+
+  - [최준용](https://ko.wikipedia.org/wiki/최준용_\(배우\) "wikilink") : 윤창민(42세) 역 - 백홍석의 친구, 백수정의 담당 의사
+
+<!-- end list -->
+
+  -
+    교통 사고 후 병원으로 실려온 수정을 살리지만 강동윤의 유혹으로 인해 백수정을 의학적으로 사망하게 한다. 후에 법정에서 최정우에 의해 파멸된다.
+
+<!-- end list -->
+
+  - [조재윤](https://ko.wikipedia.org/wiki/조재윤 "wikilink") : 박용식(30대) 역 - 자수성가한 소규모 조폭
+
+<!-- end list -->
+
+  -
+    백홍석은 물론이고 조 형사, 황 반장 등과도 친한 조직폭력배 보스이다. 말만 조폭이지 싸움도 못하고 자금력으로 장악해 도박장을 운영하는 그런 조폭이다. 백홍석의 사건에 개입되면서 조 형사를 흠모하게 된다.
+
+### 강동윤의 가족
+
+  - [김성령](https://ko.wikipedia.org/wiki/김성령 "wikilink") : 서지수(40대) 역 - 서동환 회장의 딸, 강동윤의 아내
+
+<!-- end list -->
+
+  -
+    백수정의 사고를 낸 장본인이자 수많은 연예인이나 모델들과 스캔들을 비롯한 염문을 뿌린다. 백수정의 사고를 끝까지 외면하고 막으려 하지만 백홍석에 의해 모든 사건의 전모가 드러나며 법정 구속된다.
+
+<!-- end list -->
+
+  - [고준희](https://ko.wikipedia.org/wiki/고준희 "wikilink") : 서지원(28세) 역 - 서동환 회장의 막내 딸, 방송국 기자
+
+<!-- end list -->
+
+  -
+    백홍석 사건을 처음부터 끝까지 관심을 가지고 취재하며 진실을 찾고자 매달린다. 그 과정에서 자신의 언니가 사건에 관계 되어 있다는 사실을 알고 갈등하지만 결국 진실을 선택하고 자신의 형부 강동윤과 언니 서지수를 몰락시킨다. 진실을 찾고자 하는 백홍석의 사람들과 생사고락을 함께하면서, 그 과정에서 서울지검 형사부 검사 최정우와 사랑에 빠지게 된다.
+
+<!-- end list -->
+
+  - [박근형](../Page/박근형.md "wikilink") : 서동환(60대) 역 - 국내 최대 재벌 한오그룹 수장
+
+<!-- end list -->
+
+  -
+    전화 한 통으로 국무총리의 호출은 물론, 정계나 제계뿐 아니라 각계각층에 그의 힘이 미치지 않는 곳이 없을 정도로 큰 권력을 지니고 있다. 한오그룹 본사 회장실로 출근하지 않고 자신의 집 서재에서 모든 업무를 보며 총괄한다. 사위인 강동윤의 대통령 출마를 막으려 하지만 자신의 딸 서지수의 교통사고를 이용해 그의 목을 죄여오는 강동윤의 겁박에 의해 대통령 출마를 인정하고 만다. 하지만, 이후 끊임없이 강동윤과 대립하며 그의 대통령 출마를 막으려 하고 강동윤으로부터 한오그룹을 지키려 고군분투한다.
+
+<!-- end list -->
+
+  - [전노민](https://ko.wikipedia.org/wiki/전노민 "wikilink") : 서영욱(40대) 역 - 서동환 회장의 아들
+
+<!-- end list -->
+
+  -
+    무능하고 생각이 짧고 말보다 행동이 앞서는 행동파다. 그래서인지 아버지에게 인정받지 못하고 늘 주눅들어 있다. 아버지가 강동윤의 의도를 간파하고 강동윤의 목을 죄어들자 그에 일조하여 강동윤의 약점을 잡아내고 그것을 이용해 강동윤을 파멸시키는데 가담한다.
+
+<!-- end list -->
+
+  - [남다름](../Page/남다름.md "wikilink") : 강민성(10세) 역 - 강동윤과 서지수의 아들
+
+<!-- end list -->
+
+  -
+    끝없이 갈등하는 부부를 헤어질 수 없게 만드는 존재다.
+
+### 강동윤의 주변 인물
+
+  - [장신영](https://ko.wikipedia.org/wiki/장신영 "wikilink") : 신혜라(30대) 역 - 강동윤의 보좌관
+
+<!-- end list -->
+
+  -
+    강동윤 만큼이나 피도 눈물도 없는 잔인한 인물이다. 오직 강동윤의 지시로만 움직이며 강동윤의 성공과 영화를 위해 자신의 모든 것을 절대적으로 바치는 충성심을 지니고 있다. 그리고 한편으로는 강동윤을 남자로 느끼며 서지수를 몰락시키려 계략을 쓰는 팜므파탈적인 인물이며 머리가 비상하여 계략에 능하다.
+
+<!-- end list -->
+
+  - [전국환](../Page/전국환.md "wikilink") : 장병호(60대) 역 - 법조인
+
+<!-- end list -->
+
+  -
+    한오그룹쪽의 식구로 최연소 대법관을 지닌 불세출의 인물이자 변호사이다. 서동환 회장의 오른팔로 그의 말이면 죽는 시늉도 하는 인물이다. 최정우 검사의 치명적인 약점을 알고 있다.
+
+<!-- end list -->
+
+  - [송재호](https://ko.wikipedia.org/wiki/송재호 "wikilink") : 유태진(60대) 역 - 정치인
+
+<!-- end list -->
+
+  -
+    서동환 회장의 오랜 지기로 유신 때부터 국회를 장악해왔지만 강동윤과의 대통령 후보 경합에서 패배하고 절치부심하다 서동환의 도움으로 신당을 창당하고 강동윤과 대립각을 세운다.
+
+<!-- end list -->
+
+  - [오타니 료헤이](https://ko.wikipedia.org/wiki/오타니_료헤이 "wikilink") : 배기철(30대) - 조직폭력배 보스, 한오그룹 계열 보안회사 상무이사
+
+<!-- end list -->
+
+  -
+    신혜라의 오른팔이며 정보 수집과 뒷처리를 담당한다. 신혜라의 사주에 의해 광역 수사대를 용식의 도박장으로 급파하고 블랙박스칩을 숨기지만 최정우 검사에 의해 궁지에 몰리고 결국 파멸한다.
+
+<!-- end list -->
+
+  - [이용우](https://ko.wikipedia.org/wiki/이용우_\(배우\) "wikilink") : PK준(20대) 역 - 본명 박기준, 최고의 한류 스타, 서지수의 정부
+
+<!-- end list -->
+
+  -
+    교통사고의 진실을 은폐하고 자기 한몸 생존하고자 강동윤과 거래하여 법정에서는 벌금형을 선고받지만 백홍석에 의해 사망한다.
+
+<!-- end list -->
+
+  - 미상 : 강씨(60대) 역 - 강동윤의 아버지
+
+<!-- end list -->
+
+  -
+    작은 이발소를 운영하며, 일주일에 한번 머리를 깎으러 오는 강동윤을 기다리는 게 인생의 낙이다.
+
+### 그 외 인물
+
+  - [송영규](https://ko.wikipedia.org/wiki/송영규 "wikilink") : 박민찬 역 - 비리검사
+
+<!-- end list -->
+
+  -
+    서영욱의 힘을 등에 업고 기세등등한 비리검사이며 서영욱의 특검 때 좌천됐다가 돌아와 권력을 휘두르며 악행을 벌인다.
+
+<!-- end list -->
+
+  - [이레](../Page/이레_\(배우\).md "wikilink") : 윤승은 역 - 윤창민의 딸
+
+### 특별 출연
+
+  - [이정길](../Page/이정길_\(1944년\).md "wikilink") : 조동수 역 - 강동윤과 경합을 벌이는 대통령 후보
+  - [정수인](https://ko.wikipedia.org/wiki/정수인 "wikilink") : 최 검사의 비서 역
+  - [조영진](../Page/조영진.md "wikilink") : 김창재 역
+
+## 시청률
+
+| [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") |
+| ------------------------------------------------------- |
+| 회차                                                      |
+| 대한민국(전국)                                                |
+| 제1회                                                     |
+| 제2회                                                     |
+| 제3회                                                     |
+| 제4회                                                     |
+| 제5회                                                     |
+| 제6회                                                     |
+| 제7회                                                     |
+| 제8회                                                     |
+| 제9회                                                     |
+| 제10회                                                    |
+| 제11회                                                    |
+| 제12회                                                    |
+| 제13회                                                    |
+| 제14회                                                    |
+| 제15회                                                    |
+| 제16회                                                    |
+| 평균 시청률                                                  |
+|                                                         |
+| 스페셜                                                     |
+| 제1회                                                     |
+| 제2회                                                     |
+|                                                         |
+
+## 사운드 트랙
+
+### 추적자 THE CHASER OST
+
+{{-}}
+
+### 추적자 THE CHASER OST Special
+
+## 수상 경력
+
+  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [SBS 연기대상](https://ko.wikipedia.org/wiki/SBS_연기대상 "wikilink") 10대 스타상, 대상 - [손현주](https://ko.wikipedia.org/wiki/손현주 "wikilink")
+  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [SBS 연기대상](https://ko.wikipedia.org/wiki/SBS_연기대상 "wikilink") 미니시리즈부문 남자 우수 연기상 - [김상중](../Page/김상중.md "wikilink")
+  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [SBS 연기대상](https://ko.wikipedia.org/wiki/SBS_연기대상 "wikilink") 미니시리즈부문 여자 우수 연기상 - [김성령](https://ko.wikipedia.org/wiki/김성령 "wikilink")
+  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [SBS 연기대상](https://ko.wikipedia.org/wiki/SBS_연기대상 "wikilink") 3사 PD들이 뽑은 연기상 - [박근형](../Page/박근형.md "wikilink")
+  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [SBS 연기대상](https://ko.wikipedia.org/wiki/SBS_연기대상 "wikilink") 미니시리즈 특별 연기상 - [장신영](https://ko.wikipedia.org/wiki/장신영 "wikilink")
+  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [SBS 연기대상](https://ko.wikipedia.org/wiki/SBS_연기대상 "wikilink") 뉴스타상 - [고준희](https://ko.wikipedia.org/wiki/고준희 "wikilink")
+  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [SBS 연기대상](https://ko.wikipedia.org/wiki/SBS_연기대상 "wikilink") 뉴스타상 - [박효주](../Page/박효주.md "wikilink")
+  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 제5회 [코리아드라마페스티벌](https://ko.wikipedia.org/wiki/코리아드라마페스티벌 "wikilink") 남자 최우수상 - [김상중](../Page/김상중.md "wikilink")
+  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") 제49회 [백상예술대상](../Page/백상예술대상.md "wikilink") TV부문 작품상 (드라마)
+  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") 제49회 [백상예술대상](../Page/백상예술대상.md "wikilink") TV부문 남자최우수연기상 - [손현주](https://ko.wikipedia.org/wiki/손현주 "wikilink")
+  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") 제49회 [백상예술대상](../Page/백상예술대상.md "wikilink") TV부문 극본상 - [박경수](../Page/박경수_\(작가\).md "wikilink")
+  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 제1회[에이판 스타 어워즈](https://ko.wikipedia.org/wiki/에이판_스타_어워즈 "wikilink") 대상 - [손현주](https://ko.wikipedia.org/wiki/손현주 "wikilink")
+
+## 연장 사유
+
+  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [7월 10일](https://ko.wikipedia.org/wiki/7월_10일 "wikilink") : 추적자 THE CHASER 방영 분량이 16부작에서 17부작으로 연장이 예정되었으나,\[1\] 작가의 건강 악화로 인해 1회 연장이 취소되었다.\[2\]
+
+## 동시간대 드라마
+
+  - [사랑비](../Page/사랑비.md "wikilink")
+  - [빅](https://ko.wikipedia.org/wiki/빅_\(드라마\) "wikilink") ([KBS 2TV](../Page/KBS_2TV.md "wikilink"))
+  - [빛과 그림자](../Page/빛과_그림자_\(2011년_드라마\).md "wikilink")
+  - [골든타임](https://ko.wikipedia.org/wiki/골든타임_\(드라마\) "wikilink") ([MBC](https://ko.wikipedia.org/wiki/MBC_TV "wikilink"))
+
+## 참고
+
+<references/>
+
+## 외부 링크
+
+  - [추적자 THE CHASER 홈페이지](http://tv.sbs.co.kr/thechaser/)
+  - [SBS All VOD - 추적자](http://allvod.sbs.co.kr/allvod/vodProgramDetail.do?pgmId=00000364736)
+
+[분류:2012년 드라마](https://ko.wikipedia.org/wiki/분류:2012년_드라마 "wikilink") [분류:법률 드라마](https://ko.wikipedia.org/wiki/분류:법률_드라마 "wikilink") [분류:SBS 월화드라마](https://ko.wikipedia.org/wiki/분류:SBS_월화드라마 "wikilink") [분류:대한민국의 서스펜스 드라마](https://ko.wikipedia.org/wiki/분류:대한민국의_서스펜스_드라마 "wikilink") [분류:경찰 드라마](https://ko.wikipedia.org/wiki/분류:경찰_드라마 "wikilink") [분류:복수를 소재로 한 드라마](https://ko.wikipedia.org/wiki/분류:복수를_소재로_한_드라마 "wikilink") [분류:김종학 프로덕션 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:김종학_프로덕션_텔레비전_프로그램 "wikilink")
+
+1.
+2.

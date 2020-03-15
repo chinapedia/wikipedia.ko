@@ -1,0 +1,55 @@
+> This article is converted from Wikipedia: [CD ](https://ko.wikipedia.org/wiki/CD_).
+
+
+**클럽 데포르티보 과달라하라**()는 [멕시코](https://ko.wikipedia.org/wiki/멕시코 "wikilink") [과달라하라의](../Page/과달라하라_\(멕시코\).md "wikilink") [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로, 줄여서 **과달라하라**() 또는 **치바스**()라는 별명으로도 부른다.
+
+멕시코에서 성공한 축구 클럽 가운데 하나로 뽑히고 있으며 멕시코 프리메라 디비시온 우승 11회, 캄페온 데 캄페오네스 우승 7회, 코파 멕시코 우승 2회의 기록을 보유하고 있다. 창단 이후부터 단 한 번도 강등된 적이 없으며 [클럽 아메리카와](https://ko.wikipedia.org/wiki/클럽_아메리카 "wikilink") 라이벌 관계에 있다.
+
+멕시코의 축구 클럽 가운데 유일하게 멕시코 국적을 가진 선수들로만 구성된 팀이기도 하다. 팀을 상징하는 색은 빨강, 하양, 파랑인데 이는 "협력, 단결, 스포츠"를 뜻한다.
+
+## 주요 경력
+
+### 멕시코 국내 대회
+
+  - [멕시코 프리메라 디비시온](https://ko.wikipedia.org/wiki/멕시코_프리메라_디비시온 "wikilink"): 우승 11회 (1956-57, 1958-59, 1959-60, 1960-61, 1961-62, 1963-64, 1964-65, 1969-70, 1986-87, 1997 하계 리그, 2006 동계 리그), 준우승 9회 (1951-52, 1954-55, 1962-63, 1968-69, 멕시코 1970, 1982-83, 1983-84, 1998 동계 리그, 2004 하계 리그)
+  - [캄페온 데 캄페오네스](https://ko.wikipedia.org/wiki/캄페온_데_캄페오네스 "wikilink"): 우승 7회 (1956-1957, 1958-1959, 1959-1960, 1960-1961, 1963-1964, 1964-1965, 1969-1970)
+  - [코파 멕시코](https://ko.wikipedia.org/wiki/코파_멕시코 "wikilink"): 우승 2회 (1963, 1970), 준우승 5회 (1947-48, 1950-51, 1953-54, 1954-55, 1966-67)
+
+### 국제 대회
+
+  - [CONCACAF 챔피언스리그](../Page/CONCACAF_챔피언스리그.md "wikilink"): 우승 1회 (1962), 준우승 3회 (1963, 1984, 2007)
+  - [코파 리베르타도레스](../Page/코파_리베르타도레스.md "wikilink"): 준우승 1회 (2010)
+
+## 선수 명단
+
+### 유명한 선수
+
+  - [하레드 보르헤티](../Page/하레드_보르헤티.md "wikilink")
+
+  - [하비에르 아기레](https://ko.wikipedia.org/wiki/하비에르_아기레 "wikilink")
+
+  - [하비에르 에르난데스 발카사르](../Page/하비에르_에르난데스_발카사르.md "wikilink") (치차리토)
+
+  - [오마르 브라보](../Page/오마르_브라보.md "wikilink")
+
+  - [오스왈도 산체스](../Page/오스왈도_산체스.md "wikilink")
+
+  - [카를로스 살시도](https://ko.wikipedia.org/wiki/카를로스_살시도 "wikilink")
+
+  - [프란시스코 로드리게스](https://ko.wikipedia.org/wiki/프란시스코_하비에르_로드리게스 "wikilink")
+
+## 유명 감독
+
+  - [리카르도 라볼페](https://ko.wikipedia.org/wiki/리카르도_라볼페 "wikilink")
+
+  - [오스발도 아르딜레스](https://ko.wikipedia.org/wiki/오스발도_아르딜레스 "wikilink")
+
+## 관련 항목
+
+  - [CD 치바스 USA](https://ko.wikipedia.org/wiki/CD_치바스_USA "wikilink")
+
+## 외부 링크
+
+  - [CD 과달라하라 공식 홈페이지](http://www.chivasdecorazon.com.mx/)
+
+[분류:멕시코의 축구단](https://ko.wikipedia.org/wiki/분류:멕시코의_축구단 "wikilink") [\*](https://ko.wikipedia.org/wiki/분류:CD_과달라하라 "wikilink") [과달라하라](https://ko.wikipedia.org/wiki/분류:강등된_적이_없는_축구단 "wikilink") [분류:1906년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1906년_설립된_축구단 "wikilink")

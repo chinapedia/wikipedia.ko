@@ -1,0 +1,132 @@
+> This article is converted from Wikipedia: [SK](https://ko.wikipedia.org/wiki/SK).
+
+
+**SK텔링크**(SK Telink)는 대한민국의 통신 서비스 업체다. 국제전화 00700, 전국대표번호, 인터넷전화, 시외전화, 위성 DMB([TU미디어](../Page/TU미디어.md "wikilink")) 등 통신 서비스업이 주요 업종이나 그 중 위성 DMB는 2012년 사업을 접었다. [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") MVNO 사업권을 획득 후 세븐모바일을 런칭하면서 MVNO 사업을 시작했다.
+
+## 연혁
+
+  - [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink") SK텔링크주식회사 설립
+  - 1998년 4월 [정보통신부](https://ko.wikipedia.org/wiki/정보통신부 "wikilink") 등록증 취득
+  - 1998년 [6월](https://ko.wikipedia.org/wiki/6월 "wikilink") 정보통신부 식별번호(00700) 취득
+  - 1998년 [7월](https://ko.wikipedia.org/wiki/7월 "wikilink") 'SK 국제전화' 상용 서비스 개시
+  - 1998년 [9월](https://ko.wikipedia.org/wiki/9월 "wikilink") 요금인하
+  - 1998년 [10월](https://ko.wikipedia.org/wiki/10월 "wikilink") SK Express 서비스 개시, SK 국제전화 선불카드 판매개시
+  - 1998년 [12월](https://ko.wikipedia.org/wiki/12월 "wikilink") 신헌철 신임 대표이사 취임
+  - [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [1월](https://ko.wikipedia.org/wiki/1월 "wikilink") 019 이동전화망 연동
+  - 1999년 [2월](https://ko.wikipedia.org/wiki/2월 "wikilink") 요금 인하 및 심야시간대 할인제 도입
+  - 1999년 [5월](https://ko.wikipedia.org/wiki/5월 "wikilink") 별정통신 3호(구내통신) 사업 등록
+  - 1999년 7월 중국, 일본 요금 인하
+  - 1999년 10월 미국 등 150여개 지역 요금 인하, 국제 관문국(IGW) 이설
+  - 1999년 12월 신규 법인접속교환기(ETS) 개통
+  - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") 1월 017 이동전화망 연동
+  - 2000년 [3월](https://ko.wikipedia.org/wiki/3월 "wikilink") 인마셋 서비스 개시
+  - 2000년 4월 018 이동전화망 연동
+  - 2000년 6월 부산 지역 SK Express 서비스 개시
+  - 2000년 [11월](https://ko.wikipedia.org/wiki/11월 "wikilink") 016 이동전화망 연동(전 이동통신망 연동)
+  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") 3월 VoIP Co-Location 서비스 개시
+  - 2001년 7월 SK Bizlink 서비스 개시
+  - 2001년 9월 ITU 위성망 국제등록 신청
+  - 2001년 11월 SK DC Phone 서비스 개시, SK Cyberpass 일본 현지법인 설립
+  - 2001년 12월 몽고 국제전화 서비스를 위한 협력 계약
+  - [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") 5월 SK DC 콜렉트콜 서비스 개시
+  - 2002년 7월 김정수 신임 대표이사 취임
+  - 2002년 11월 SK 전용회선 서비스 제공
+  - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") 6월 국제전화 기간사업자 면허 취득(식별번호 006), SK Bizlink SMS 서비스 개시
+  - 2003년 8월 SK Bizlink VPN 서비스 개시
+  - 2003년 11월 유선 국제전화 서비스 개시
+  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 3월 BIZ폴더 서비스 개시
+  - 2004년 4월 국제 SMS 서비스 개시(국내 최초)
+  - 2004년 6월 시외전화 기간사업자 면허 취득
+  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") 2월 SK 시외전화 서비스 개시
+  - 2005년 4월 조민래 신임 대표이사 취임
+  - 2005년 6월 인터넷전화/시내부가 기간 사업 권 획득
+  - 2005년 11월 국가 브랜드경쟁력지수(NBCI) 국제전화서비스 부문 1위 수상
+  - 2005년 12월 인터넷전화/시내부가 서비스 개시
+  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") 04월 국가고객만족도(NCSI) 국제전화서비스부문 1위 수상
+  - 2006년 8월 네이트온폰(웹 포탈 소프트 폰) 서비스 개시
+  - 2006년 10월 요금 인하, 2년 연속 국가 브랜드경쟁력지수(NBCI) 국제전화서비스 부문 1위 수상
+  - 2006년 12월 네이트온폰 070 착발신 서비스 개시
+  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") 2월 미국 에코스타 투자 유치
+  - 2007년 3월 2년 연속 국가고객만족도(NCSI) 국제전화서비스부문 1위 수상
+  - 2007년 6월 케이블 사업자 [C\&M](https://ko.wikipedia.org/wiki/C&M "wikilink")과 제휴, 국내 최초 TPS(Triple Play Service) 개시
+  - 2007년 7월 국내 최초 WCDMA-유선전화 간 영상전화 연동 개시
+  - 2007년 9월 사업자 재허가 승인, UC(Unified Communication) 서비스 개시, [SK텔레콤](https://ko.wikipedia.org/wiki/SK텔레콤 "wikilink")과 함께 FMC(Fixed Mobile Convergence) 서비스 개시
+  - 2007년 10월 영어인증시험 Bulats(Business Language Testing Service) 국내 운영권 획득
+  - 2007년 11월 영어인증시험 Bulats(Business Language Testing Service) 시행
+  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink")1월 김철규 신임 사장 취임
+  - 2008년 3월 3년 연속 국가고객만족도(NCSI) 국제전화서비스부문 1위 수상, SKT 550억 증자
+  - 2008년 5월 국내 최초 기업용 레터링(Lettering)서비스 개시, SKT 태국 모바일 TV 시범 서비스 구축 참여
+  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") 1월 박인식 신임 사장 취임
+  - 2009년 2월 국내 최초 오피스 레터링(Office Lettering)서비스 개시
+  - 2009년 4월 4년 연속 국가고객만족도(NCSI) 국제전화서비스부문 1위 수상
+  - 2009년 9월 한국산업의 고객만족도(KCSI) 국제전화서비스 부문 1위 선정, 국가브랜드경쟁력지수(NBCI) 국제전화서비스 부문 1위 수상, 국제전화 00700 통화상품권 기프티콘(Gifticon) 출시
+  - 2009년 10월 한국서비스품질지수(KS-SQI) 국제전화서비스 부문 1위 선정
+  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") 1월 이규빈 신임 사장 취임
+  - 2010년 4월 5년 연속 국가고객만족도(NCSI) 국제전화서비스부문 1위 수상
+  - 2010년 8월 국가브랜드경쟁력지수(NBCI) 국제전화서비스 부문 1위
+  - 2010년 10월 한국서비스품질지수(KS-SQI) 국제전화서비스 부문 1위
+  - 2010년 11월 [TU미디어](../Page/TU미디어.md "wikilink")와 합병
+  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") 1월 박병근 신임 사장 취임
+  - 2011년 3월 국가고객만족도(NCSI) 국제전화서비스 부문 1위 수상
+  - 2011년 8월 국가브랜드경쟁력지수(NBCI) 국제전화서비스 부문 1위 수상
+  - 2011년 10월 한국서비스품질지수(KS-SQI) 국제전화서비스 부문 1위 선정
+  - 2012년 3월 00700 App 출시
+  - 2012년 5월 클라우드 영상회의 서비스 VaaS(바스) 출시
+  - 2012년 5월 동영상 벨소리 아이디벨 App 출시
+  - 2012년 5월 MVNO(알뜰폰) 사업권 획득
+  - 2012년 6월 MVNO(알뜰폰) 선불 사업 시작
+  - 2012년 8월 위성DMB 사업 종료
+  - 2012년 10월 한국서비스품질지수(KS-SQI) 국제전화서비스 부문 1위 선정
+  - 2013년 1월 MVNO(알뜰폰) 후불 사업 시작
+  - 2013년 2월 박상준 사장 취임
+  - 2013년 6월 한국서비스품질지수(KS-SQI) 국제전화서비스 부문 1위 선정 (5년 연속)
+  - 2013년 8월 국가브랜드경쟁력지수(NBCI) 국제전화서비스 부문 1위 수상 (5년 연속)
+  - 2013년 12월 서성원 사장 취임
+  - 2014년 3월 국가고객만족도 (NCSI) 국제전화서비스 부문 1위 수상
+  - 2014년 6월 위성통신 서비스 “SK스마트샛” 출시
+  - 2014년 6월 한국서비스품질지수(KS-SQI) 국제전화서비스 부문 1위 수상(6년 연속)
+  - 2014년 7월 프리미엄브랜드지수(KS-PBI) 국제전화서비스 부문 1위 수상(3년 연속)
+  - 2014년 9월 국가브랜드경쟁력지수(NBCI) 국제전화서비스 부문 1위 수상(6년 연속)
+  - 2014년 10월모바일팩스 서비스 개시
+  - 2015년 3월 국가고객만족도(NCSI) 국제전화서비스 부문 1위 수상(2년연속)
+  - 2015년 4월 미래부 지정 국가 공인 웹접근성(Web Accessibility) 품질 인증마크 획득
+  - 2015년 6월 한국서비스품질지수(KS-SQI) 국제전화서비스 부문 1위 수상(7년 연속)
+  - 2015년 7월 프리미엄브랜드지수(KS-PBI) 국제전화서비스 부문 1위 수상(4년 연속)
+  - 2015년 8월 세계 최초 VoLTE 국제전화 테스트 성공
+  - 2015년 8월 국가브랜드경쟁력지수(NBCI) 국제전화서비스 부문 1위 수상(7년 연속)
+  - 2015년 10월 한국산업의 고객만족도(KCSI) 국제전화서비스 부문 1위 수상(2년 연속)
+  - 2016년 3월 국가고객만족도(NCSI) 국제전화서비스 부문 1위 수상(3년연속)
+  - 2016년 4월 미래부 지정 국가 공인 웹접근성(Web Accessibility) 품질 인증마크 획득
+  - 2016년 7월 한국서비스품질지수(KS-SQI) 국제전화서비스 부문 1위 수상(8년 연속)
+  - 2016년 7월 프리미엄브랜드지수(KS-PBI) 국제전화서비스 부문 1위 수상(5년 연속)
+  - 2016년 8월 국가브랜드경쟁력지수(NBCI) 국제전화서비스 부문 1위 수상(8년 연속)
+  - 2016년 10월 한국산업의 고객만족도(KCSI) 국제전화서비스 부문 1위 수상(3년 연속)
+  - 2016년 10월 보안전문회사 엔에스오케이(NSOK) 인수
+  - 2016년 12월 고객이 가장 추천하는 기업(KNPS) 국제전화서비스 부문 1위 수상
+  - 2016년 12월 방송통신위원회 이용자보호업무평가 알뜰폰 최고등급(3년 연속)
+  - 2017년 3월 국가고객만족도(NCSI) 국제전화서비스 부문 1위 수상(4년연속)
+  - 2017년 5월 세계 최초 VoLTE 국제전화 서비스 상용화
+  - 2017년 6월 알뜰폰 공부의신 상품 출시
+  - 2017년 7월 한국서비스품질지수(KS-SQI) 국제전화서비스 부문 1위 수상(9년 연속)
+  - 2017년 7월 프리미엄브랜드지수(KS-PBI) 국제전화서비스 부문 1위 수상(6년 연속)
+  - 2017년 8월 국가브랜드경쟁력지수(NBCI) 국제전화서비스 부문 1위 수상(9년 연속)
+  - 2017년 9월 알뜰폰 서비스 브랜드 'SK 7mobile'로 리뉴얼
+  - 2017년 10월 한국산업의 고객만족도(KCSI) 국제전화서비스 부문 1위 수상(3년 연속)
+  - 2017년 12월 고객이 가장 추천하는 기업(KNPS) 국제전화서비스 부문 1위 수상(2년 연속)
+
+<!-- end list -->
+
+  - 2018년 3월 국가고객만족도(NCSI) 국제전화서비스 부문 1위 수상(5년연속)
+  - 2018년 6월 SK 7mobile 효도의신 상품 출시
+  - 2018년 7월 한국서비스품질지수(KS-SQI) 국제전화서비스 부문 1위 수상(10년 연속)
+  - 2018년 7월 프리미엄브랜드지수(KS-PBI) 국제전화서비스 부문 1위 수상(7년 연속)
+  - 2018년 8월 국가브랜드경쟁력지수(NBCI) 국제전화서비스 부문 1위 수상(10년 연속)
+  - 2018년 10월 한국산업의 고객만족도(KCSI) 국제전화서비스 부문 1위 수상(4년 연속)
+  - 2018년 12월 고객이 가장 추천하는 기업(KNPS) 국제전화서비스 부문 1위 수상(3년 연속)
+  - 2019년 3월 국가고객만족도(NCSI) 국제전화서비스 부문 1위 수상(6년 연속)
+
+## 외부 링크
+
+  -
+  -
+[텔링크](https://ko.wikipedia.org/wiki/분류:SK텔레콤 "wikilink") [분류:대한민국의 통신 기업](https://ko.wikipedia.org/wiki/분류:대한민국의_통신_기업 "wikilink") [분류:대한민국의 별정 통신 기업](https://ko.wikipedia.org/wiki/분류:대한민국의_별정_통신_기업 "wikilink") [SK텔링크](https://ko.wikipedia.org/wiki/분류:1998년_설립 "wikilink") [TU미디어](https://ko.wikipedia.org/wiki/분류:2003년_설립 "wikilink") [TU미디어](https://ko.wikipedia.org/wiki/분류:가상_이동_통신망_사업자 "wikilink") [분류:서울특별시의 기업](https://ko.wikipedia.org/wiki/분류:서울특별시의_기업 "wikilink")

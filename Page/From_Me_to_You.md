@@ -1,0 +1,97 @@
+> This article is converted from Wikipedia: [From Me to You](https://ko.wikipedia.org/wiki/From_Me_to_You).
+
+
+〈**From Me to You**〉는 [폴 매카트니와](https://ko.wikipedia.org/wiki/폴_매카트니 "wikilink") [존 레논이](https://ko.wikipedia.org/wiki/존_레논 "wikilink") 작곡하고, 영국의 록 밴드 [비틀즈](https://ko.wikipedia.org/wiki/비틀즈 "wikilink")가 1963년에 발표한 그들의 세 번째 싱글이다. 싱글은 비틀즈가 처음으로 영국의 몇몇 차트에서 1위, 혹은 2위를 차지하게 했다. 허나 당시 초기에 발매된 것은 미국에서 큰 파장을 불러 일으키지는 못했다. 그러나 1963년 델 새넌이 커버한 버전이 [레논-매카트니](https://ko.wikipedia.org/wiki/레논-매카트니 "wikilink") 곡으로는 처음으로 미국 팝 차트에 진입했다. 싱글은 매카트니-레논으로 표기된 맨 마지막 싱글 중 하나다. 이 다음부터는 쭉 레논-매카트니로 표기된다.
+
+## 작곡
+
+〈From Me to You〉는 존 레논과 폴 매카트니가 [헬렌 샤피로와](https://ko.wikipedia.org/wiki/헬렌_샤피로 "wikilink") 함께 투어를 돌던 중, [슈루즈베리](https://ko.wikipedia.org/wiki/슈루즈베리 "wikilink")를 향하는 버스를 타고 가면서 쓰기 시작했다. 제목은 [NME](https://ko.wikipedia.org/wiki/NME "wikilink")의 편지 투고란에서 발견한 편지 제목 "From You to Us"에서 영감을 받았다. 폴 매카트니는 비틀즈가 초기에 노래를 "매우 직접적이고 개인적"으로 제작하기 위해 "I", "me" 또는 "you"와 같은 단어를 넣는 경향이 있었다고 언급했다.
+
+레논은 1980년 《[플레이보이](https://ko.wikipedia.org/wiki/플레이보이 "wikilink")》지 인터뷰에서 곡에 대해 이렇게 말했다. "우린 곡을 차 안에서 썼던 것 같습니다. 그리고 아마 첫 구절을 제가 만들었을 거예요. 제가 만들었을 겁니다. \[*처음에 흥얼거리는 부분 말이에요.*\] 그 이후 거기서 가져다 썼습니다. 우리가 다 쓰고 보니 너무 블루스 조의 노래더군요. 그래서 펑키한 재편곡이 필요하다고 메모했어요. 이 인터뷰 이전에 레논은 "우린 곡이 처음에 너무 블루스 조라 녹음하지 못할 줄로 알았어요. 근데 조지 마틴이 결과물을 보더니 하모니카를 추가한 편곡을 하더군요. 꽤 괜찮았어요."라고 말했다. 1964년, 매카트니는 재편곡에 대해 이렇게 말했다. "〈From Me to You〉는 구닥다리 래그타임 곡이 될 수도 있었어요. 미들 에이트에서 특히 그런 면이 두드러지죠. 그래서 곡에 그런 어법은 쓰지 않기로 했어요. 저희가 5년 후에는 곡을 다르게 편곡할 수도 있겠지만 똑같은 고물이나 쓰고 있을게 분명해요\!"
+
+매카트니만이 버스에서 이 곡을 고물이라고 말한 사람은 아니었다. 가수 케니 린치는 비틀즈가 "ooh"를 노래하는 것을 듣고는 "그딴 거 부르지 마. 그런 건 호모들이나 부르는 거라고\!"라고 말했다. 이내 그들로부터 뛰쳐나간 그는 비틀즈가 작곡에 대해서는 아무것도 모르는 놈들이라고 주장했다. 로저 그린웨이는 이 일화를 이렇게 말한다. "존과 폴은 버스의 뒤쪽에 앉아있었다. 당시 자신이 작곡가로서 자부심이 있었던 케니는 버스를 어슬렁거리며 뒤쪽으로 왔다. 그리고 그는 그들의 곡 작업을 도와주기로 결심했다. 30분 정도 지나고, 케니는 앞쪽으로 달려오더니 외쳤다. '어이구, 됐어. 저런 머저리들의 쓰레기 따위 절대 돕지 않을 거야. 저 뒷놈들은 음악이란 걸 모를 걸. 이제 됐어\! 절대 안 도와\!'" 그럼에도 불구하고 이 곡은 비틀즈를 성장시켰다고 평가받으며 싱글컷에 성공했다. 이 곡은 정말로 레논-매카트니가 둘이서 공동 작곡한 것 중 하나다. 매카트니는 "공동 작곡 그 자체"라고 묘사했다.
+
+## 녹음
+
+조지 마틴이 곡에 대해 말한다. "저는 그들에게 '[Please Please Me](https://ko.wikipedia.org/wiki/Please_Please_Me "wikilink")'에 수록될 좋은 곡이 더 없냐고 물었고, 그들이 하나를 가져왔는데 그것이 'From Me to You.'입니다 . . . 마치 무한한 노래의 샘이 있는 것만 같았습니다."\[1\] 〈From Me to You〉는 1963년 3월 5일 [애비 로드 스튜디오에서](../Page/애비_로드_스튜디오.md "wikilink") 6테이크를 녹음하고 7번 편집을 거쳤다. 이 곡에서 레논은, 60년대 비틀즈와 같은 돈을 받고 활동한 미국인 델버트 맥클린턴에게 배운 [지미 리드풍의](https://ko.wikipedia.org/wiki/지미_리드 "wikilink") 블루스 스타일로 하모니카를 연주했다. 맥클린턴은 말한다. "현재는 제가 레논에게 가르친 하모니카가 제대로 그에게 새겨진 상태입니다." "레논이 말했죠, '뭔가 보여줘요' 저는 꽤나 특이한 위치에 있었습니다. 왜냐면 대중음악계에서 하모니카를 연주할 줄 아는 사람은 그리 많지 않거든요."\[2\]
+
+4월 11일, 팔로폰을 통해 〈[Thank You Girl](../Page/Thank_You_Girl.md "wikilink")〉을 B면에 담아 영국에서 싱글(R5015)로 출시되었다. 9일 뒤에 영국 차트에 진입했고 5월 4일 정상에 올라 7주간 머물렀다. 이후 게리 앤 더 페이스메이커스의 〈[How Do You Do It](https://ko.wikipedia.org/wiki/How_Do_You_Do_It "wikilink")〉로 자리를 내줘야 했다. 〈[She Loves You](../Page/She_Loves_You.md "wikilink")〉와 〈[I Want to Hold Your Hand](../Page/I_Want_to_Hold_Your_Hand.md "wikilink")〉의 후광에 가려지기는 했지만 비틀즈는 이 곡 덕분에 진정으로 성공을 거둘 수 있었다고 여겼으며, 매카트니는 자신의 당시 기분을 이렇게 말했다. "제가 정말로 해냈구나, 하고 느낀 첫 시점이었습니다. 제가 어느 날 아침 잠자리에서 일어났는데, 우유 배달부가 부르는 'From Me to You'의 휘파람 소리가 들렸어요. 그게, 한 번은 새가 부르는 소리도 들었던 거 같아요. 정말이라니까요\!"
+
+## 차트
+
+<table>
+<thead>
+<tr class="header">
+<th><p>차트 (1963–64)</p></th>
+<th><p>최고<br />
+순위</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>호주 (켄트 뮤직 리포트)[3]</p></td>
+<td><p>9</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>뉴질랜드 (레버 히트 퍼레이드)[4]</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 참여 인원
+
+  - [존 레논](https://ko.wikipedia.org/wiki/존_레논 "wikilink") – 리드 보컬, 리듬 기타, 하모니카
+  - [폴 매카트니](https://ko.wikipedia.org/wiki/폴_매카트니 "wikilink") – 보컬, 베이스 기타
+  - [조지 해리슨](https://ko.wikipedia.org/wiki/조지_해리슨 "wikilink") – 리드 기타
+  - [링고 스타](https://ko.wikipedia.org/wiki/링고_스타 "wikilink") – 드럼
+
+<!-- end list -->
+
+  -
+    [이언 맥도널드](../Page/이언_맥도널드.md "wikilink") 제공
+
+## 각주
+
+## 참고 문헌
+
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+[분류:1963년 노래](https://ko.wikipedia.org/wiki/분류:1963년_노래 "wikilink") [분류:1963년 싱글](https://ko.wikipedia.org/wiki/분류:1963년_싱글 "wikilink") [분류:비틀즈의 노래](https://ko.wikipedia.org/wiki/분류:비틀즈의_노래 "wikilink") [분류:레논-매카트니가 작곡한 노래](https://ko.wikipedia.org/wiki/분류:레논-매카트니가_작곡한_노래 "wikilink") [분류:비 지스의 노래](https://ko.wikipedia.org/wiki/분류:비_지스의_노래 "wikilink")
+
+1.
+2.
+3.
+4.

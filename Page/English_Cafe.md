@@ -1,0 +1,43 @@
+> This article is converted from Wikipedia: [English Cafe](https://ko.wikipedia.org/wiki/English_Cafe).
+
+
+《**English Cafe**》(잉글리쉬 카페)는 EBS에서 방영되었던 프로그램이다.
+
+## 출연자
+
+  - [문단열](../Page/문단열.md "wikilink")
+  - [최재원](https://ko.wikipedia.org/wiki/최재원 "wikilink")
+  - [김영철](https://ko.wikipedia.org/wiki/김영철_\(희극인\) "wikilink")
+  - [이지희](https://ko.wikipedia.org/wiki/이지희 "wikilink")
+  - [김민희](https://ko.wikipedia.org/wiki/김민희_\(1972년\) "wikilink")
+  - [최은희](https://ko.wikipedia.org/wiki/최은희_\(희극인\) "wikilink")
+  - [길수현](https://ko.wikipedia.org/wiki/길수현 "wikilink")
+  - [아이작 더스트](https://ko.wikipedia.org/wiki/아이작_더스트 "wikilink")
+  - [매튜 리드맨](https://ko.wikipedia.org/wiki/매튜_리드맨 "wikilink")
+  - [보이드](https://ko.wikipedia.org/wiki/보이드 "wikilink")
+  - [마이클](https://ko.wikipedia.org/wiki/마이클 "wikilink")
+  - [리사 켈리](https://ko.wikipedia.org/wiki/리사_켈리 "wikilink")
+  - [클라라](https://ko.wikipedia.org/wiki/클라라 "wikilink")
+
+## 잉카밴드
+
+  - [고헌균](https://ko.wikipedia.org/wiki/고헌균 "wikilink")
+  - [명지은](https://ko.wikipedia.org/wiki/명지은 "wikilink")
+  - [홍대룡](https://ko.wikipedia.org/wiki/홍대룡 "wikilink")
+  - [오지영](https://ko.wikipedia.org/wiki/오지영 "wikilink")
+  - [우성원](https://ko.wikipedia.org/wiki/우성원 "wikilink")
+
+## 역대 방송 시간
+
+| 방송 기간                                                                                                                                                                                                                                  | 방송 시간                 |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
+| [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [8월 26일](https://ko.wikipedia.org/wiki/8월_26일 "wikilink") \~ [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [2월 21일](https://ko.wikipedia.org/wiki/2월_21일 "wikilink") | 밤 9시 30분 \~ 밤 9시 50분  |
+| [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [2월 24일](https://ko.wikipedia.org/wiki/2월_24일 "wikilink") \~ [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [2월 27일](https://ko.wikipedia.org/wiki/2월_27일 "wikilink") | 밤 9시 25분 \~ 밤 9시 50분  |
+| [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [3월 1일](https://ko.wikipedia.org/wiki/3월_1일 "wikilink") \~ [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [8월 27일](https://ko.wikipedia.org/wiki/8월_27일 "wikilink")   | 저녁 7시 55분 \~ 밤 8시 20분 |
+| [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [9월 6일](https://ko.wikipedia.org/wiki/9월_6일 "wikilink") \~ [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [2월 25일](https://ko.wikipedia.org/wiki/2월_25일 "wikilink")   | 저녁 7시 45분 \~ 밤 8시 10분 |
+| [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [2월 28일](https://ko.wikipedia.org/wiki/2월_28일 "wikilink") \~ [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [8월 26일](https://ko.wikipedia.org/wiki/8월_26일 "wikilink") | 저녁 7시 55분 \~ 밤 8시 20분 |
+| [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [9월 5일](https://ko.wikipedia.org/wiki/9월_5일 "wikilink") \~ [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [8월 25일](https://ko.wikipedia.org/wiki/8월_25일 "wikilink")   | 밤 9시 \~ 밤 9시 25분      |
+| [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [8월 28일](https://ko.wikipedia.org/wiki/8월_28일 "wikilink") \~ [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [8월 24일](https://ko.wikipedia.org/wiki/8월_24일 "wikilink") | 밤 8시 55분 \~ 밤 9시 20분  |
+| [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [8월 27일](https://ko.wikipedia.org/wiki/8월_27일 "wikilink") \~ [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [2월 27일](https://ko.wikipedia.org/wiki/2월_27일 "wikilink") | 아침 6시 35분 \~ 아침 7시    |
+
+[분류:한국교육방송공사의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:한국교육방송공사의_텔레비전_프로그램 "wikilink")

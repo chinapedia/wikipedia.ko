@@ -1,0 +1,48 @@
+> This article is converted from Wikipedia: [ H](https://ko.wikipedia.org/wiki/_H).
+
+
+[thumb](https://ko.wikipedia.org/wiki/파일:Kungsgatan_1967.jpg "wikilink") [thumb](https://ko.wikipedia.org/wiki/파일:Dagen_H.svg "wikilink") **다겐 H**(, )는 [스웨덴](https://ko.wikipedia.org/wiki/스웨덴 "wikilink")의 [대면 통행](https://ko.wikipedia.org/wiki/대면_통행 "wikilink") 방식이 좌측에서 우측 통행으로 바뀐 [1967년](https://ko.wikipedia.org/wiki/1967년 "wikilink") [9월 3일을](https://ko.wikipedia.org/wiki/9월_3일 "wikilink") 가리킨다. H는 스웨덴어로 우측 통행을 뜻하는 (회게르트라피크)에서 온 단어이다.
+
+## 도입
+
+통행 방향을 변경한 데에는 두 가지 이유가 있었다.
+
+  - [노르웨이](https://ko.wikipedia.org/wiki/노르웨이 "wikilink"), [핀란드](https://ko.wikipedia.org/wiki/핀란드 "wikilink")를 비롯한 스웨덴과 국경을 접하고 있는 나라들은 모두 우측 통행을 실시하였다.
+  - 스웨덴의 내수용 차량은 대부분 왼쪽에 운전대가 설치되어 있었다. 인구 밀도와 교통량이 낮았기 때문에 2차선 고속도로에서 정면 충돌의 원인이 되었다.
+
+많은 사람들이 변화를 바라지 않았고, 이전 40년간 통행 방식을 바꾸려는 시도는 투표에서 거부되었다. 1955년 스웨덴에서 있었던 국민 투표에서는 83%의 사람이 제안을 거부하였다. 그러나 1963년 스웨덴 의회에서는 변경안을 통과시켰고, 국가 우측 통행 위원회()를 설립하여 감독하였다. 심리학자들의 도움을 얻어서 4년간의 교육 프로그램을 시작하였다.\[1\]
+
+캠페인의 일부로 다겐 H 로고는 남녀 속옷, 우유팩, 기념품 등 다양한 곳에 삽입되었다.\[2\]\[3\] SVT에서는 우측 통행을 홍보하는 노래 컨테스트를 열었고, Rock-Boris의 노래 〈Håll dig till höger, Svensson〉 ('스벤손 씨, 오른쪽으로 가세요')가 최우수상을 받았다.
+
+다겐 H가 다가오면서 모든 교차로에는 추가적인 봉이 설치되었고 새로운 신호등은 검은 플라스틱에 둘러싸인 채 설치되었다. 다겐 H 아침에 플라스틱이 모두 제거되었다. 차선을 구분하는 흰색 선이 새로 칠해졌고 검은 테이프로 숨겨 놓았다. 다겐 H 이전에는 차선을 구분하는 데 노란색 선을 사용하였다. 일방 통행로는 새로운 문제가 되었다. 버스 정류장은 길 반대편으로 옮겨졌다. 원활한 합류를 위하여 교차로의 모양을 바꿔야 했다.
+
+## 전환 이후
+
+9월 3일 일요일 다겐 H 당일, 오전 1시부터 6시까지 모든 불필요한 교통이 차단되었다. 이 때 통행하는 모든 차량은 특별한 규칙을 따라야 했다. 모든 차량은 오전 4시 50분에 완전히 멈춘 다음, 통행 방향을 오른쪽으로 바꾸고, 5시에 진행이 허용될 때까지 멈춰 있어야 했다. [스톡홀름](https://ko.wikipedia.org/wiki/스톡홀름 "wikilink")과 [말뫼](https://ko.wikipedia.org/wiki/말뫼 "wikilink")에서는 교차로 방향을 재설정하는 작업 때문에 2일 오전 10시부터 3일 오후 3시까지 교통이 차단되었다. 일부 지역에서도 2일 오후 3시부터 3일 오후 3시까지 교통이 차단되었다.
+
+[스톡홀름](https://ko.wikipedia.org/wiki/스톡홀름 "wikilink")의 [노면 전차는](https://ko.wikipedia.org/wiki/노면_전차 "wikilink") 폐선되었고 [버스](https://ko.wikipedia.org/wiki/버스 "wikilink")로 대체되었으며, 기존의 버스도 오른쪽에 문이 달려 있는 새로운 버스로 교체되었다. 8000여대의 기존 버스는 양쪽에 문을 설치하는 개조가 이루어졌다. [예테보리](../Page/예테보리.md "wikilink")의 버스 중 운전대가 오른쪽에 달려 있는 버스는 [파키스탄](https://ko.wikipedia.org/wiki/파키스탄 "wikilink")과 [케냐](https://ko.wikipedia.org/wiki/케냐 "wikilink")에 수출되었다. 버스의 전환 비용은 국가 부담이었고, 예산의 가장 큰 비중을 차지했다. 예테보리와 [노르셰핑](https://ko.wikipedia.org/wiki/노르셰핑 "wikilink") 노면 전차는 운행을 계속하였다.
+
+상대편 운전자를 보호하기 위해서 스웨덴의 모든 차량은 헤드라이트를 교체해야 했다. 스웨덴 의회에서 다겐 H를 통과시킨 이유 중 하나는, 당시 스웨덴의 차량은 저렴한 공용 헤드라이트를 사용하였으나, 시대의 흐름이 상대적으로 비싼 차량별 전용 헤드라이트로 바뀌고 있었기 때문이다. 통행 방식 전환이 더 늦어지면 차량 소유자에게 부담이 증가하기 때문이다.
+
+## 사고
+
+다겐 H 다음날(월요일) 보고된 교통 사고는 125건으로, 다겐 H 이전 월요일의 130건에서 198건보다 적은 수치이다. 통행 방식 변경 때문에 발생한 사상 사고는 없었다. 전문가들의 시각은 이미 왼쪽에 운전대가 달린 차량을 운전한 적이 있기 때문에, 우측 통행을 하면 전방 시야가 좋아져서 사고를 줄일 수 있음이었다. 실제로 치명적인 대차 및 대인 사고가 매우 감소하였다. 사고가 감소한 원인 중에는 통행 방향 전환 이후로 임시적으로 10km/h 낮게 조정된 제한 속도도 있었다. 2년도 지나지 않아서 사고 발생률은 통행 방향 전환 이전 수준으로 올라갔다.
+
+## 같이 보기
+
+  - [대면 통행](https://ko.wikipedia.org/wiki/대면_통행 "wikilink")
+  - [H-다귀린](https://ko.wikipedia.org/wiki/H-다귀린 "wikilink") (아이슬란드)
+  - [730 (교통)](https://ko.wikipedia.org/wiki/730_\(교통\) "wikilink") (일본 오키나와현)
+  - [체코슬로바키아의 우측 통행 전환](https://ko.wikipedia.org/wiki/체코슬로바키아의_우측_통행_전환 "wikilink")
+
+## 참조
+
+## 외부 링크
+
+  - [방향 전환을 다룬 텔레비전 방송](https://web.archive.org/web/20110525071955/http://svtplay.se/v/1449258/oppet_arkiv/h-vaka_04.45-05.15?sb,k103107,3,f,103131)
+
+[분류:스웨덴의 교통](https://ko.wikipedia.org/wiki/분류:스웨덴의_교통 "wikilink") [분류:1967년 스웨덴](https://ko.wikipedia.org/wiki/분류:1967년_스웨덴 "wikilink") [분류:1967년 9월](https://ko.wikipedia.org/wiki/분류:1967년_9월 "wikilink")
+
+1.  [Switch to the Right](http://www.time.com/time/magazine/article/0,9171,941144,00.html), *TIME*, 1967년 9월 15일
+2.
+3.   [Hogertrafikomläggning](http://hem.bredband.net/b132258/hogertrafik/Minnen.htm)

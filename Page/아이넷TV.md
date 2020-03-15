@@ -1,0 +1,204 @@
+> This article is converted from Wikipedia: [TV](https://ko.wikipedia.org/wiki/TV).
+
+
+**아이넷TV**(Inet TV)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 아이넷방송이 운영하는 [음악 전문](../Page/음악.md "wikilink") [유료 방송 채널이다](../Page/대한민국의_케이블TV_방송.md "wikilink"). [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") 개국했으며, 주로 성인가요·[트로트](https://ko.wikipedia.org/wiki/트로트 "wikilink")와 관련된 [프로그램들을](https://ko.wikipedia.org/wiki/텔레비전_프로그램 "wikilink") 방영한다.
+
+## 연혁
+
+  - **[2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink")**
+
+`  `**`4월`**
+`  한국법무보호복지공단 MOU 체결`
+`  2019 케이블방송대상 기획대상`
+
+  - **[2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink")**
+
+`  `**`12월`**` `
+`  방송통신위원회 2018년 제작역랑평가 매우우수등급`
+`  `**`10월`**` `
+`  (사)세계한민족여성재단 MOU체결`
+
+  - **[2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink")**
+
+`  `**`3월`**` `
+`  사단법인 전국노인복지단체연합회 MOU 체결 `
+`  케이블 방송 대상 프로그램 대상 수상`
+
+  - **[2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink")**
+
+`  `**`12월`**` `
+`  사단법인 한국언론인협회 MOU체결(건강기능식품 홍보)`
+`  `**`10월`**` `
+`  우크라이나 TELEONE과 문화교류 MOU체결`
+`  `**`8월`**` `
+`  세계한인무역협회 중국 연길지회와 문화콘텐츠 교류 MOU체결`
+`  `**`3월`**` `
+`  미국 SAINT UNIVERSITY 와  문화콘텐츠 교류 MOU체결`
+`  `**`2월`**` `
+`  강동아트센터 "문화예술의 발전”MOU체결`
+
+  - **[2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink")**
+
+`  `**`4월`**` `
+`  방송통신위원회 제작지원사업 "한번만 더 날자”`
+
+  - **[2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink")**
+
+`  `**`12월`**` `
+`  한국영상대학교 및 공주정보고등학교와 연계교육 협약서 체결`
+`  한국영상대학교 와 산학협력 협약서 체결`
+`  `**`8월`**` `
+`  국방부 조사본부와 아이넷방송 업무협약서 체결`
+`  국악방송과 아이넷방송 방송업무 제휴 협약서 체결`
+`  `**`6월`**` `
+`  서울시 서초구 양재동 아이넷방송 본사 이전`
+`  `**`5월`**` `
+`  유니세프 한국위원회와 아이넷방송 업무협약서 체결`
+`  `**`1월`**` `
+`  한국방송통신대학교와  `
+`  아이넷방송 교육 및 문화콘텐츠 교류 MOU 체결`
+`  FULL HD 프로그램 24시간 송출`
+
+  - **[2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink")**
+
+`  `**`4월`**` `
+`  방송통신위원회 제작지원사업`
+`  "상처난 마음에 음악 연고를 발라주세요”  `
+
+  - **[2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink")**
+
+`  `**`7월`**` `
+`  FULL HD 12톤 중계차 도입 및 HD종합편집 시스템 구축`
+`  `**`5월`**` `
+`  인도네시아 LBS-TV와 제휴 음악채널 LBS- I.NET  TV 개국`
+`  `**`4월`**` `
+`  방송통신위원회  제작지원사업 "한국인의 소울, 트로트”`
+
+  - **[2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink")**
+
+`  `**`12월`**` `
+`  중국 연길TV와 방송문화콘텐츠교류 MOU체결`
+`  `**`11월`**` `
+`  인도네시아 LBS-TV와 방송문화콘텐츠 교류 MOU체결`
+`  북미 한인방송 KEMS-TV와 방송문화콘텐츠교류 MOU체결`
+`  캐나다 BENA TV와  방송문화콘텐츠교류 MOU체결`
+`  `**`9월`**` `
+`  뉴욕 한인방송 KNN-TV 와 방송문화콘텐츠교류 MOU체결`
+`  뉴욕 한인방송 KNN-TV 에 아이넷 TV 콘텐츠 5억원 무상공급`
+`  `**`3월`**` `
+`  한국케이블방송대상 쇼/음악부문“올해의 작품상 수상”`
+
+  - **[2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink")**
+
+`  `**`9월`**` `
+`  주한미대사관 공보과와 방송콘텐츠 제공협약 MOU체결`
+`  주한미대사관 `
+` “월드뮤직 브레이크 17회, 마운틴스테이지16회”방송 `
+`  `**`4월`**` `
+`  서강대학교 와 아이넷방송 "청춘열차”공동제작 `
+`  `**`1월`**` `
+`  서강대학교 영상대학원 `
+`  영상미디어 콘텐츠 공동제작 MOU체결`
+
+  - **[2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink")**
+
+`  `**`10월`**` `
+`  미주 한인방송 TVK24와 `
+`  영상미디어 콘텐츠 공동제작 MOU체결`
+
+  - **[2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")**
+
+`  `**`9월`**` `
+`  FULL DIGITAL 12톤 중계차 도입`
+`  경인방송 프로그램 35,000여편 저작권 및 판권 인수`
+
+  - **[2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink")**
+
+`  `**`8월`**` `
+`  FULL DIGITAL 5톤 중계차 도입`
+
+  - **[2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink")**
+
+`  `**`6월`**` `
+`  법인명 ㈜아이넷방송 `
+`  채널명 INET TV 변경 `
+`  송통신제작지원사업 선정“한국인의 소율 뮤직 - 트로트”`
+
+  - **[2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink")**
+
+`  `**`10월`**` `
+`  케이블 TV E-TV 설립`
+
+## 프로그램
+
+  - 가요110년사 향수
+  - 가요110년사 청춘
+  - 가요110년사 행복한가요
+  - 가요110년사 즐거운가요
+  - 가요110년사 회상
+  - 유쾌한 톡쇼
+  - 풍경
+  - 가요사랑콘서트
+  - 스타쇼
+  - 가요 110년사 향수
+  - 솔까말 공작소
+  - 스타 쇼쇼쇼
+  - 니나노 차차차
+  - 미스터리극장 위험한 초대
+  - 파워뮤직
+  - 쇼 한마당
+  - 즐거운 가요
+  - 가요가 좋다
+  - 니나노 포차
+  - 라디오가 기가막혀
+  - 윤경화의 바람개비
+  - 베스트콘서트
+  - 기억속의 멜로디
+  - 김명성의 I'm 스타가요쇼
+  - 러브인 현장스케치
+  - 가인
+  - 뮤직쇼 악바리클럽|HD프로젝트 레인보우 뮤직쇼 악바리클럽
+  - 추억의 음악세상
+  - 북스앤드뮤직
+  - 이용식의 파워콘서트
+  - 성인가요 베스트 30|그때 그순위 타임머신
+  - 신나는 노래자랑
+  - 라이브쇼
+  - 인기가요 베스트 10
+  - 힐링뮤직
+  - K-Rock
+  - 그리운가요
+  - 뮤직카니발
+  - 음악을 그리는 사람들
+  - 전국가요대행진
+  - 파워뮤직
+  - 성인가요 차트50
+  - 해와달의 축복콘서트
+  - 성인가요베스트50
+  - 고향이 좋다
+  - 아름다운 쇼
+  - 해와달의 라이브 갤러리
+  - 추억의 송트레인
+  - 테마콘서트 만남
+  - 뮤직앤조이
+  - 뮤직박스
+  - 3일간의 사랑
+  - 리얼스토리 실제상황
+
+## 채널 번호
+
+  - [KT](https://ko.wikipedia.org/wiki/KT "wikilink") - 92번
+  - [스카이라이프](https://ko.wikipedia.org/wiki/스카이라이프 "wikilink") - 99번
+  - [B TV](../Page/B_TV.md "wikilink") - 253번
+  - [LG U+](https://ko.wikipedia.org/wiki/LG_U+ "wikilink") - 150번
+  - [티브로드](https://ko.wikipedia.org/wiki/티브로드 "wikilink") - 88번
+  - [HCN](https://ko.wikipedia.org/wiki/HCN "wikilink") - 48번
+  - [LG헬로비전](https://ko.wikipedia.org/wiki/LG헬로비전 "wikilink") - 99번
+  - [딜라이브](https://ko.wikipedia.org/wiki/딜라이브 "wikilink") - 88번
+  - [CMB](https://ko.wikipedia.org/wiki/CMB "wikilink") - 126번
+
+## 외부 링크
+
+  - [아이넷TV 홈페이지](http://www.inettv.tv/)
+
+[분류:음악 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:음악_텔레비전_네트워크 "wikilink") [분류:대한민국의 텔레비전 케이블 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_케이블_방송국 "wikilink") [분류:2002년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2002년_설립된_텔레비전_방송국과_채널 "wikilink")
