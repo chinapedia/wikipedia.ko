@@ -56,7 +56,7 @@
 <tr class="even">
 <td><div style="text-align: center;">
 <p><a href="https://ko.wikipedia.org/wiki/세리에_A_2001-02" title="wikilink">2002</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/마테오_브리기" title="wikilink">마테오 브리기</a></p></td>
+<td><p><a href="../Page/마테오_브리기.md" title="wikilink">마테오 브리기</a></p></td>
 <td><div style="text-align: center;">
 <p><a href="https://ko.wikipedia.org/wiki/볼로냐_FC_1909" title="wikilink">볼로냐</a></p></td>
 </tr>
@@ -148,7 +148,7 @@
 <tr class="even">
 <td><div style="text-align: center;">
 <p><a href="https://ko.wikipedia.org/wiki/세리에_A_2012-13" title="wikilink">2013</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/도메니코_베라르디" title="wikilink">도메니코 베라르디</a></p></td>
+<td><p><a href="../Page/도메니코_베라르디.md" title="wikilink">도메니코 베라르디</a></p></td>
 <td><div style="text-align: center;">
 <p><a href="../Page/US_사수올로_칼초.md" title="wikilink">사수올로</a></p></td>
 </tr>

@@ -14,7 +14,7 @@
 
 ## 주요 업무
 
-  - 방송광고의 판매대행 (민영 [SBS](https://ko.wikipedia.org/wiki/SBS_\(대한민국의_방송사\) "wikilink") 및 SBS의 모기업인 [태영건설](https://ko.wikipedia.org/wiki/태영건설 "wikilink")을 비롯해 SBS와 네트워크협정을 맺고 있는 9개 지역민방 및 9개 지역민방의 모기업, [OBS](https://ko.wikipedia.org/wiki/OBS경인TV "wikilink"), [SBS 플러스](https://ko.wikipedia.org/wiki/SBS_플러스_\(기업\) "wikilink"), [SBS 미디어넷](https://ko.wikipedia.org/wiki/SBS_미디어넷 "wikilink") 계열 PP들 등의 결합판매)
+  - 방송광고의 판매대행 (민영 [SBS](https://ko.wikipedia.org/wiki/SBS_\(대한민국의_방송사\) "wikilink") 및 SBS의 모기업인 [태영건설](../Page/태영건설.md "wikilink")을 비롯해 SBS와 네트워크협정을 맺고 있는 9개 지역민방 및 9개 지역민방의 모기업, [OBS](https://ko.wikipedia.org/wiki/OBS경인TV "wikilink"), [SBS 플러스](https://ko.wikipedia.org/wiki/SBS_플러스_\(기업\) "wikilink"), [SBS 미디어넷](https://ko.wikipedia.org/wiki/SBS_미디어넷 "wikilink") 계열 PP들 등의 결합판매)
       - [SBS TV](https://ko.wikipedia.org/wiki/SBS_TV "wikilink")(모기업:태영건설)
       - [SBS 러브FM](https://ko.wikipedia.org/wiki/SBS_러브FM "wikilink")
       - [SBS 파워FM](https://ko.wikipedia.org/wiki/SBS_파워FM "wikilink")
@@ -30,7 +30,7 @@
       - SBS F\!L UHD
       - [니켈로디언 코리아](https://ko.wikipedia.org/wiki/니켈로디언_코리아 "wikilink")
       - SBS의 모기업
-          - [태영건설](https://ko.wikipedia.org/wiki/태영건설 "wikilink")
+          - [태영건설](../Page/태영건설.md "wikilink")
       - 지역민방
           - [KNN 부산경남방송](https://ko.wikipedia.org/wiki/KNN "wikilink")(모기업:넥센)
           - [대구경북 TBC](https://ko.wikipedia.org/wiki/TBC_\(대구방송\) "wikilink")(모기업:귀뚜라미그룹)
@@ -44,8 +44,8 @@
       - 지역민방의 모기업
           - [넥센](https://ko.wikipedia.org/wiki/넥센 "wikilink")(KNN 부산경남방송의 모기업)
           - [귀뚜라미그룹](https://ko.wikipedia.org/wiki/귀뚜라미그룹 "wikilink")(대구경북 TBC의 모기업)
-          - [호반건설](https://ko.wikipedia.org/wiki/호반건설 "wikilink")(kbc 광주방송의 모기업)
-          - [우성사료](https://ko.wikipedia.org/wiki/우성사료 "wikilink")(TJB 대전방송의 모기업)
+          - [호반건설](../Page/호반건설.md "wikilink")(kbc 광주방송의 모기업)
+          - [우성사료](../Page/우성사료.md "wikilink")(TJB 대전방송의 모기업)
           - 일진그룹(JTV 전주방송의 모기업)
           - 두진건설(CJB 청주방송의 모기업)
           - SM그룹(ubc 울산방송의 모기업)

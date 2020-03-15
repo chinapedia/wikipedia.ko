@@ -48,7 +48,7 @@
 
   - [4차원 \(\mathcal N=4\) 양-밀스 이론의](https://ko.wikipedia.org/wiki/𝒩=4_초대칭_양-밀스_이론 "wikilink") [SU(4)](https://ko.wikipedia.org/wiki/SU\(N\) "wikilink")=[Spin(6)](https://ko.wikipedia.org/wiki/스핀_군 "wikilink") R대칭군은 [AdS/CFT 대응성을](https://ko.wikipedia.org/wiki/AdS/CFT_대응성 "wikilink") 통해, [반 더 시터르 공간의](https://ko.wikipedia.org/wiki/반_더_시터르_공간 "wikilink") 등거리군으로 설명할 수 있다. 또한, 4차원 \(\mathcal N=4\)는 10차원 \(\mathcal N=1\) 양-밀스 이론에서 6개의 차원을 [축소화](https://ko.wikipedia.org/wiki/축소화 "wikilink")하여 얻으며, 이에 따라 Spin(6)=SU(4)를 얻는다.
   - 6차원 \(\mathcal N=(1,1)\) 이론의 경우, 10차원 \(\mathcal N=1\) 양-밀스 이론에서 4개의 차원을 축소화하여 얻을 수 있다. 이에 따라 R대칭군은 Spin(4)=USp(2)×USp(2)이다.
-  - [6차원 \(\mathcal N=(2,0)\) 이론의](https://ko.wikipedia.org/wiki/6차원_\(2,0\)_초등각_장론 "wikilink") 경우, [M5-막](https://ko.wikipedia.org/wiki/M5-막 "wikilink") 위에 존재한다. 따라서, 11차원 [M이론](https://ko.wikipedia.org/wiki/M이론 "wikilink")을 사용하여, M5-막에 수직인 5개의 차원으로부터 R대칭 Spin(5)=USp(4)를 얻는다.
+  - [6차원 \(\mathcal N=(2,0)\) 이론의](../Page/6차원_\(2,0\)_초등각_장론.md "wikilink") 경우, [M5-막](https://ko.wikipedia.org/wiki/M5-막 "wikilink") 위에 존재한다. 따라서, 11차원 [M이론](https://ko.wikipedia.org/wiki/M이론 "wikilink")을 사용하여, M5-막에 수직인 5개의 차원으로부터 R대칭 Spin(5)=USp(4)를 얻는다.
   - 3차원 \(\mathcal N=4\) 이론은 6차원 \(\mathcal N=1\) 이론에서 세 개의 차원을 [축소화](https://ko.wikipedia.org/wiki/축소화 "wikilink")하여 얻을 수 있다. 이 경우, 6차원 \(\mathcal N=1\) 이론은 USp(2) R대칭을 가지며, 축소화한 3개의 차원으로부터 Spin(3)=[SU(2)](https://ko.wikipedia.org/wiki/SU\(2\) "wikilink") R대칭이 추가로 발생한다. 따라서 총 R대칭은 Spin(4)=SU(2)×SU(2)이다.
 
 ### 등각 대칭 / (반) 더 시터르
@@ -71,7 +71,7 @@
 | \(\mathfrak f(4)\)                         | \((7-p,p)\) | \(\mathfrak{su}(2)\)                         |                           |         |                      |
 | \(\mathfrak g(3)\)                         | (2,1)       | \(\mathfrak g_2\)                            |                           |         |                      |
 
-이들은 [초등각 장론](https://ko.wikipedia.org/wiki/초등각_장론 "wikilink") 또는 이에 대응하는 [반 더 시터르 공간이나](https://ko.wikipedia.org/wiki/반_더_시터르_공간 "wikilink") [더 시터르 공간](https://ko.wikipedia.org/wiki/더_시터르_공간 "wikilink") 위의 초대칭 이론에서 사용된다.\[3\]
+이들은 [초등각 장론](../Page/초등각_장론.md "wikilink") 또는 이에 대응하는 [반 더 시터르 공간이나](https://ko.wikipedia.org/wiki/반_더_시터르_공간 "wikilink") [더 시터르 공간](https://ko.wikipedia.org/wiki/더_시터르_공간 "wikilink") 위의 초대칭 이론에서 사용된다.\[3\]
 
 ## 참고 문헌
 

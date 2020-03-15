@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MONOCHROME](https://ko.wikipedia.org/wiki/MONOCHROME).
 
 
-《**MONOCHROME**》은 대한민국의 가수 [이효리](https://ko.wikipedia.org/wiki/이효리 "wikilink")의 다섯 번째 정규 음반으로, 2013년 5월 12일 [CJ E\&M을](https://ko.wikipedia.org/wiki/CJ_E&M "wikilink") 통해 발매되었다. 이효리는 이번 앨범을 통해 많은 변신을 시도했는데, 총 8곡을 직접 작사했다. 이 외에 [이상순](https://ko.wikipedia.org/wiki/이상순 "wikilink"), [김태춘](https://ko.wikipedia.org/wiki/김태춘 "wikilink"), 고고보이스, 배영준과 같은 [인디 음악가들이](https://ko.wikipedia.org/wiki/독립_음악 "wikilink") 앨범의 프로듀서로 참여했다.
+《**MONOCHROME**》은 대한민국의 가수 [이효리](https://ko.wikipedia.org/wiki/이효리 "wikilink")의 다섯 번째 정규 음반으로, 2013년 5월 12일 [CJ E\&M을](https://ko.wikipedia.org/wiki/CJ_E&M "wikilink") 통해 발매되었다. 이효리는 이번 앨범을 통해 많은 변신을 시도했는데, 총 8곡을 직접 작사했다. 이 외에 [이상순](https://ko.wikipedia.org/wiki/이상순 "wikilink"), [김태춘](../Page/김태춘.md "wikilink"), 고고보이스, 배영준과 같은 [인디 음악가들이](https://ko.wikipedia.org/wiki/독립_음악 "wikilink") 앨범의 프로듀서로 참여했다.
 
 앨범에는 일렉트로닉 댄스 음악보다 [락앤롤](https://ko.wikipedia.org/wiki/락앤롤 "wikilink"), [레트로](https://ko.wikipedia.org/wiki/레트로 "wikilink"), [컨트리](https://ko.wikipedia.org/wiki/컨트리_음악 "wikilink"), [블루스](https://ko.wikipedia.org/wiki/블루스 "wikilink"), 레트로 소울 등 기존의 이미지를 벗어나 많은 장르를 시도했다. 이효리는 앨범 발매 전 2013년 5월 6일 선공개곡 〈[미스코리아](https://ko.wikipedia.org/wiki/미스코리아_\(노래\) "wikilink")〉를 발매했는데, [가온 디지털 종합 차트](https://ko.wikipedia.org/wiki/가온_디지털_종합_차트 "wikilink") 1위에 올랐다. 타이틀곡 "Bad Girls"이다.
 
@@ -11,7 +11,7 @@
 
 ## 평가
 
-《[뉴시스](https://ko.wikipedia.org/wiki/뉴시스 "wikilink")》의 이재훈은 이효리에게 [장필순](https://ko.wikipedia.org/wiki/장필순 "wikilink")이 느껴진다며 "이효리는 2010년 *H-Logic* 때까지만 해도 화려함을 자신의 색깔로 내세웠다. 그런데 3년이라는 시간이 그녀를 변화시켰다. 앨범에 인디 뮤지션이 다수 참여한 점도 눈길을 끈다. 이효리는 뮤지션이라는 타이틀에 치우쳐 마냥 정숙해지지 만은 않았다. "Bad Girls" 뮤비에서 이효리는 여전히 섹시하다. 다만 예전보다는 진지해진 모습이다. 그렇게 음악 인생의 제2막을 열고자 한 듯하다"고 리뷰했다.\[5\] 《[10 아시아](https://ko.wikipedia.org/wiki/10_아시아 "wikilink")》의 권석정은 "앨범의 키워드는 '변신', 그리고 그 변신을 가능케 한 것은 [김태춘](https://ko.wikipedia.org/wiki/김태춘 "wikilink"), [빈지노](https://ko.wikipedia.org/wiki/빈지노 "wikilink"), 고고보이스 등 이효리와 활동반경이 다른 여러 뮤지션들과의 협연이다. 목소리도 전과 다르다. 최종적으로 나온 음악들은 기존에 보여준 트렌디한 댄스뮤직보다는 60년대 소울, 컨트리, 로큰롤, 모던포크 등 정통의 사운드에 가깝다"고 리뷰했다.\[6\]
+《[뉴시스](https://ko.wikipedia.org/wiki/뉴시스 "wikilink")》의 이재훈은 이효리에게 [장필순](https://ko.wikipedia.org/wiki/장필순 "wikilink")이 느껴진다며 "이효리는 2010년 *H-Logic* 때까지만 해도 화려함을 자신의 색깔로 내세웠다. 그런데 3년이라는 시간이 그녀를 변화시켰다. 앨범에 인디 뮤지션이 다수 참여한 점도 눈길을 끈다. 이효리는 뮤지션이라는 타이틀에 치우쳐 마냥 정숙해지지 만은 않았다. "Bad Girls" 뮤비에서 이효리는 여전히 섹시하다. 다만 예전보다는 진지해진 모습이다. 그렇게 음악 인생의 제2막을 열고자 한 듯하다"고 리뷰했다.\[5\] 《[10 아시아](https://ko.wikipedia.org/wiki/10_아시아 "wikilink")》의 권석정은 "앨범의 키워드는 '변신', 그리고 그 변신을 가능케 한 것은 [김태춘](../Page/김태춘.md "wikilink"), [빈지노](https://ko.wikipedia.org/wiki/빈지노 "wikilink"), 고고보이스 등 이효리와 활동반경이 다른 여러 뮤지션들과의 협연이다. 목소리도 전과 다르다. 최종적으로 나온 음악들은 기존에 보여준 트렌디한 댄스뮤직보다는 60년대 소울, 컨트리, 로큰롤, 모던포크 등 정통의 사운드에 가깝다"고 리뷰했다.\[6\]
 
 ## 차트 성적
 

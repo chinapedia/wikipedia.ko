@@ -396,7 +396,7 @@
 <tr class="even">
 <td><p>40회</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/2015년" title="wikilink">2015년</a> <a href="https://ko.wikipedia.org/wiki/10월_29일" title="wikilink">10월 29일</a></p></td>
-<td><p>물의 왕국 <a href="https://ko.wikipedia.org/wiki/사우디아라비아" title="wikilink">사우디아라비아</a></p></td>
+<td><p>물의 왕국 <a href="../Page/사우디아라비아.md" title="wikilink">사우디아라비아</a></p></td>
 <td><p>윤영수</p></td>
 <td><p>장강복</p></td>
 </tr>
@@ -483,7 +483,7 @@
 <tr class="odd">
 <td><p>44회</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/2015년" title="wikilink">2015년</a> <a href="https://ko.wikipedia.org/wiki/11월_20일" title="wikilink">11월 20일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/지하드" title="wikilink">지하드</a>의 신부들 - 그들은 왜 <a href="https://ko.wikipedia.org/wiki/이라크_레반트_이슬람_국가" title="wikilink">IS로</a> 갔나</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/지하드" title="wikilink">지하드</a>의 신부들 - 그들은 왜 <a href="../Page/이라크_레반트_이슬람_국가.md" title="wikilink">IS로</a> 갔나</p></td>
 <td><p>-</p></td>
 <td><p>양홍선<br />
 (<a href="https://ko.wikipedia.org/wiki/영국방송협회" title="wikilink">해외 제작</a>)</p></td>

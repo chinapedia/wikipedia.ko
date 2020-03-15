@@ -24,15 +24,15 @@
 
 ## 경쟁 기종
 
-  - [ZTE ME](https://ko.wikipedia.org/wiki/ZTE_ME "wikilink")
-  - [삼성 갤럭시 S4 미니](https://ko.wikipedia.org/wiki/삼성_갤럭시_S4_미니 "wikilink")
+  - [ZTE ME](../Page/ZTE_ME.md "wikilink")
+  - [삼성 갤럭시 S4 미니](../Page/삼성_갤럭시_S4_미니.md "wikilink")
   - [삼성 갤럭시 R 스타일](https://ko.wikipedia.org/wiki/삼성_갤럭시_R_스타일 "wikilink")
 
 ## 같이 보기
 
   - [LG 옵티머스 F7](../Page/LG_옵티머스_F7.md "wikilink")
-  - [LG 옵티머스 L3 II](https://ko.wikipedia.org/wiki/LG_옵티머스_L3_II "wikilink")
-  - [LG 옵티머스 L5 II](https://ko.wikipedia.org/wiki/LG_옵티머스_L5_II "wikilink")
+  - [LG 옵티머스 L3 II](../Page/LG_옵티머스_L3_II.md "wikilink")
+  - [LG 옵티머스 L5 II](../Page/LG_옵티머스_L5_II.md "wikilink")
   - [LG 옵티머스 L7 II](https://ko.wikipedia.org/wiki/LG_옵티머스_L7_II "wikilink")
 
 ## 외부 링크

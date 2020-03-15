@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [    XIII](https://ko.wikipedia.org/wiki/____XIII).
 
 
-『**라이트닝 리턴즈 파이널 판타지 XIII**』(ライトニング リターンズ ファイナルファンタジーサーティーン, LIGHTNING RETURNS FINAL FANTASY XIII, 약칭： **LRFFXIII**, **LRFF13**)은 [스퀘어 에닉스가](https://ko.wikipedia.org/wiki/스퀘어_에닉스 "wikilink") [플레이스테이션 3과](https://ko.wikipedia.org/wiki/플레이스테이션_3 "wikilink") [엑스박스 360으로](https://ko.wikipedia.org/wiki/엑스박스_360 "wikilink") 2013년에 발매한 게임이다. 『**[파이널 판타지 XIII](https://ko.wikipedia.org/wiki/파이널_판타지_XIII "wikilink")**』과 『**[파이널 판타지 XIII-2](https://ko.wikipedia.org/wiki/파이널_판타지_XIII-2 "wikilink")**』의 속편이다.
+『**라이트닝 리턴즈 파이널 판타지 XIII**』(ライトニング リターンズ ファイナルファンタジーサーティーン, LIGHTNING RETURNS FINAL FANTASY XIII, 약칭： **LRFFXIII**, **LRFF13**)은 [스퀘어 에닉스가](https://ko.wikipedia.org/wiki/스퀘어_에닉스 "wikilink") [플레이스테이션 3과](https://ko.wikipedia.org/wiki/플레이스테이션_3 "wikilink") [엑스박스 360으로](https://ko.wikipedia.org/wiki/엑스박스_360 "wikilink") 2013년에 발매한 게임이다. 『**[파이널 판타지 XIII](https://ko.wikipedia.org/wiki/파이널_판타지_XIII "wikilink")**』과 『**[파이널 판타지 XIII-2](../Page/파이널_판타지_XIII-2.md "wikilink")**』의 속편이다.
 
 ## 개요
 

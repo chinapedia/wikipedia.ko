@@ -3,7 +3,7 @@
 
 〈**She Loves You**〉는 1963년 8월에 [비틀즈](https://ko.wikipedia.org/wiki/비틀즈 "wikilink")가 발표한 싱글이다. [존 레논과](https://ko.wikipedia.org/wiki/존_레논 "wikilink") [폴 매카트니가](https://ko.wikipedia.org/wiki/폴_매카트니 "wikilink") 썼다. 영국 차트의 여러 싱글을 뛰어넘었고, 1964년 4월 4일 미국 차트에서 상위 5위를 동시에 차지한 비틀즈 5곡 중 한 곡으로, 미국에서 기록을 세웠다. 〈She Loves You〉는 비틀즈의 가장 많이 팔린 싱글이자 영국에서 1960년대에 가장 많이 팔린 싱글이다.
 
-2004년 11월 《[롤링 스톤](https://ko.wikipedia.org/wiki/롤링_스톤 "wikilink")》은 [역사상 가장 위대한 노래 500곡](https://ko.wikipedia.org/wiki/롤링_스톤_역사상_가장_위대한_노래_500곡 "wikilink") 목록에서 〈She Loves You〉를 64위로 선정했다.\[1\] 2009년 8월 BBC Radio 2는 비틀즈 주간(Beatles Weekend)의 마지막에서 〈She Loves You〉가 오피셜 차트 컴퍼니에서 수집한 정보를 기반으로 영국에서 비틀즈의 가장 많이 팔린 싱글이라고 발표했다.
+2004년 11월 《[롤링 스톤](https://ko.wikipedia.org/wiki/롤링_스톤 "wikilink")》은 [역사상 가장 위대한 노래 500곡](../Page/롤링_스톤_역사상_가장_위대한_노래_500곡.md "wikilink") 목록에서 〈She Loves You〉를 64위로 선정했다.\[1\] 2009년 8월 BBC Radio 2는 비틀즈 주간(Beatles Weekend)의 마지막에서 〈She Loves You〉가 오피셜 차트 컴퍼니에서 수집한 정보를 기반으로 영국에서 비틀즈의 가장 많이 팔린 싱글이라고 발표했다.
 
 ## 작곡
 

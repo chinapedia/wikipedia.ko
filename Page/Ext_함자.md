@@ -5,11 +5,11 @@
 
 ## 정의
 
-[Ext 함자는](https://ko.wikipedia.org/wiki/Ext_함자 "wikilink") 세 가지로 정의할 수 있다.
+[Ext 함자는](../Page/Ext_함자.md "wikilink") 세 가지로 정의할 수 있다.
 
   - Ext 함자는 특정 [완전열](https://ko.wikipedia.org/wiki/완전열 "wikilink")들의 [동치류](https://ko.wikipedia.org/wiki/동치류 "wikilink") 집합으로 정의할 수 있다. 이는 가장 구체적이지만 복잡하며, 또 [집합론](https://ko.wikipedia.org/wiki/집합론 "wikilink")적 문제가 발생할 수 있다 (즉, Ext 함자의 값이 [고유 모임일](https://ko.wikipedia.org/wiki/고유_모임 "wikilink") 수 있다). 이 정의는 [요네다 노부오가](https://ko.wikipedia.org/wiki/요네다_노부오 "wikilink") 도입하였다.\[1\]
   - [단사 대상을 충분히 가지는 범주](https://ko.wikipedia.org/wiki/단사_대상을_충분히_가지는_범주 "wikilink") 또는 [사영 대상을 충분히 가지는 범주에서](https://ko.wikipedia.org/wiki/사영_대상을_충분히_가지는_범주 "wikilink"), Ext 함자는 [오른쪽 유도 함자](https://ko.wikipedia.org/wiki/오른쪽_유도_함자 "wikilink") 또는 [왼쪽 유도 함자를](https://ko.wikipedia.org/wiki/왼쪽_유도_함자 "wikilink") 사용하여 정의할 수 있다. 이 경우 집합론적 문제가 발생하지 않지만, 이는 [단사 대상](https://ko.wikipedia.org/wiki/단사_대상 "wikilink") 또는 [사영 대상이](https://ko.wikipedia.org/wiki/사영_대상 "wikilink") 부족한 [아벨 범주에서는](https://ko.wikipedia.org/wiki/아벨_범주 "wikilink") 사용할 수 없다.
-  - [유도 범주의](https://ko.wikipedia.org/wiki/유도_범주 "wikilink") 개념을 사용하면 Ext 함자는 매우 간단하게 정의된다. 그러나 [유도 함자의](../Page/유도_함자.md "wikilink") 존재 역시 여러 집합론적 문제를 야기한다.
+  - [유도 범주의](../Page/유도_범주.md "wikilink") 개념을 사용하면 Ext 함자는 매우 간단하게 정의된다. 그러나 [유도 함자의](../Page/유도_함자.md "wikilink") 존재 역시 여러 집합론적 문제를 야기한다.
 
 [대수학](https://ko.wikipedia.org/wiki/대수학 "wikilink")에서 가장 중요한 경우인 [환](https://ko.wikipedia.org/wiki/환_\(수학\) "wikilink") 위의 [가군](https://ko.wikipedia.org/wiki/가군 "wikilink") 범주의 경우 [단사 대상을 충분히 가지는 범주이자](https://ko.wikipedia.org/wiki/단사_대상을_충분히_가지는_범주 "wikilink") [사영 대상을 충분히 가지는 범주이므로](https://ko.wikipedia.org/wiki/사영_대상을_충분히_가지는_범주 "wikilink"), [유도 함자](../Page/유도_함자.md "wikilink") 정의를 사용할 수 있다.
 
@@ -33,13 +33,13 @@
 0\to&B&\to&X'&\to&A&\to0
 \end{matrix}\] (이 사상 \(X\to X'\)은 [짧은 5항 보조정리에](https://ko.wikipedia.org/wiki/짧은_5항_보조정리 "wikilink") 따라서 항상 [동형 사상이다](https://ko.wikipedia.org/wiki/동형_사상 "wikilink").) 이는 확대에 대한 [동치 관계를](https://ko.wikipedia.org/wiki/동치_관계 "wikilink") 이룬다.
 
-확대의 동치류들은 **베어 합**()이라는 연산 아래 [아벨 군을](https://ko.wikipedia.org/wiki/아벨_군 "wikilink") 이룬다.\[2\] 두 확대 \(0\to B\xrightarrow\iota X\xrightarrow\pi A\to0\), \(0\to B\xrightarrow{\iota'} X'\xrightarrow{\pi'} A\to0\)가 주어졌을 때, \(Y\)를 \(X\)와 \(X'\)의 \(A\)에 대한 [당김이라고](https://ko.wikipedia.org/wiki/당김_\(범주론\) "wikilink") 하자. [미첼 매장 정리를](https://ko.wikipedia.org/wiki/미첼_매장_정리 "wikilink") 사용하면, 이는 다음과 같다.
+확대의 동치류들은 **베어 합**()이라는 연산 아래 [아벨 군을](https://ko.wikipedia.org/wiki/아벨_군 "wikilink") 이룬다.\[2\] 두 확대 \(0\to B\xrightarrow\iota X\xrightarrow\pi A\to0\), \(0\to B\xrightarrow{\iota'} X'\xrightarrow{\pi'} A\to0\)가 주어졌을 때, \(Y\)를 \(X\)와 \(X'\)의 \(A\)에 대한 [당김이라고](../Page/당김_\(범주론\).md "wikilink") 하자. [미첼 매장 정리를](https://ko.wikipedia.org/wiki/미첼_매장_정리 "wikilink") 사용하면, 이는 다음과 같다.
 
 \[X\oplus X\supseteq Y=\{(x,x')\in X\oplus X'\colon \pi(x)=\pi'(x)\}\supseteq\iota(B)\oplus\iota'(B)\] 즉, \(Y\)는 \(B\)를 두 번 부분 대상으로 포함한다. 대각 사상 \(\operatorname{diag}_B\colon B\to B\oplus B\)사용하여, \(Y\)의 몫대상
 
 \[X''=\frac Y{\left((\iota,-\iota')\circ\operatorname{diag}_B\right)(B)}\] 을 정의할 수 있다. 이는 \(Y\) 속에 존재하는 두 개의 \(B\)를 하나로 합치는 것이다. 그렇다면
 
-\[0\to B\to X''\to A\to0\] 는 [짧은 완전열을](https://ko.wikipedia.org/wiki/짧은_완전열 "wikilink") 이룬다. \(0\to X\to X''\to A\to0\)의 [동치류](https://ko.wikipedia.org/wiki/동치류 "wikilink")를 \(0\to B\xrightarrow\iota X\xrightarrow\pi A\to0\), \(0\to B\xrightarrow{\iota'} X'\xrightarrow{\pi'} A\to0\)의 [동치류](https://ko.wikipedia.org/wiki/동치류 "wikilink")의 **베어 합**()이라고 한다. 확대의 [동치류](https://ko.wikipedia.org/wiki/동치류 "wikilink")들은 베어 합 아래 [아벨 군을](https://ko.wikipedia.org/wiki/아벨_군 "wikilink") 이룬다. 베어 합의 항등원은 [분할 완전열](https://ko.wikipedia.org/wiki/분할_완전열 "wikilink") \(0\to B\to A\oplus B\to A\to0\)이며, 확대 \(0\to B\xrightarrow\iota X\xrightarrow\pi A\to0\)의 베어 합에 대한 역원은 \(0\to B\xrightarrow{-\iota}X\xrightarrow\pi A\to0\) 또는 \(0\to B\xrightarrow\iota X\xrightarrow{-\pi} A\to0\)이다. (이 둘은 서로 동치이다.)
+\[0\to B\to X''\to A\to0\] 는 [짧은 완전열을](https://ko.wikipedia.org/wiki/짧은_완전열 "wikilink") 이룬다. \(0\to X\to X''\to A\to0\)의 [동치류](https://ko.wikipedia.org/wiki/동치류 "wikilink")를 \(0\to B\xrightarrow\iota X\xrightarrow\pi A\to0\), \(0\to B\xrightarrow{\iota'} X'\xrightarrow{\pi'} A\to0\)의 [동치류](https://ko.wikipedia.org/wiki/동치류 "wikilink")의 **베어 합**()이라고 한다. 확대의 [동치류](https://ko.wikipedia.org/wiki/동치류 "wikilink")들은 베어 합 아래 [아벨 군을](https://ko.wikipedia.org/wiki/아벨_군 "wikilink") 이룬다. 베어 합의 항등원은 [분할 완전열](../Page/분할_완전열.md "wikilink") \(0\to B\to A\oplus B\to A\to0\)이며, 확대 \(0\to B\xrightarrow\iota X\xrightarrow\pi A\to0\)의 베어 합에 대한 역원은 \(0\to B\xrightarrow{-\iota}X\xrightarrow\pi A\to0\) 또는 \(0\to B\xrightarrow\iota X\xrightarrow{-\pi} A\to0\)이다. (이 둘은 서로 동치이다.)
 
 \(\mathcal A\) 속의 대상 \(A,B\in\mathcal A\)에 대하여, **1차 Ext 함자** \(\operatorname{Ext}^1_{\mathcal A}(A,B)\)는 \(A\)의 \(B\)에 대한 확대들의 동치류 집합이다. 이는 베어 합 아래 [아벨 군을](https://ko.wikipedia.org/wiki/아벨_군 "wikilink") 이루며, 함자
 
@@ -49,7 +49,7 @@
 
 \[\operatorname{Ext}^1_{\mathcal A}(-,A)\colon\mathcal A^{\operatorname{op}}\to\operatorname{Ab}\] 는 둘 다 [가법 함자를](https://ko.wikipedia.org/wiki/가법_함자 "wikilink") 이룬다.
 
-위 정의에서, [집합론](https://ko.wikipedia.org/wiki/집합론 "wikilink")적 문제를 무시하였다. 사실, ([국소적으로 작은](https://ko.wikipedia.org/wiki/국소적으로_작은_범주 "wikilink")) [아벨 범주의](https://ko.wikipedia.org/wiki/아벨_범주 "wikilink") 경우 1차 Ext 함자의 값이 [고유 모임일](https://ko.wikipedia.org/wiki/고유_모임 "wikilink") 수 있다.\[3\] 물론, [작은](https://ko.wikipedia.org/wiki/작은_범주 "wikilink") [아벨 범주에](https://ko.wikipedia.org/wiki/아벨_범주 "wikilink") 대해서는 이러한 문제가 생기지 않는다. 또한, [단사 대상을 충분히 가지는 범주나](https://ko.wikipedia.org/wiki/단사_대상을_충분히_가지는_범주 "wikilink") [사영 대상을 충분히 가지는 범주에서는](https://ko.wikipedia.org/wiki/사영_대상을_충분히_가지는_범주 "wikilink") [유도 함자를](../Page/유도_함자.md "wikilink") 통한 정의를 사용할 수 있으며, 이 경우 집합론적 문제가 발생하지 않는다.
+위 정의에서, [집합론](https://ko.wikipedia.org/wiki/집합론 "wikilink")적 문제를 무시하였다. 사실, ([국소적으로 작은](https://ko.wikipedia.org/wiki/국소적으로_작은_범주 "wikilink")) [아벨 범주의](https://ko.wikipedia.org/wiki/아벨_범주 "wikilink") 경우 1차 Ext 함자의 값이 [고유 모임일](https://ko.wikipedia.org/wiki/고유_모임 "wikilink") 수 있다.\[3\] 물론, [작은](../Page/작은_범주.md "wikilink") [아벨 범주에](https://ko.wikipedia.org/wiki/아벨_범주 "wikilink") 대해서는 이러한 문제가 생기지 않는다. 또한, [단사 대상을 충분히 가지는 범주나](https://ko.wikipedia.org/wiki/단사_대상을_충분히_가지는_범주 "wikilink") [사영 대상을 충분히 가지는 범주에서는](https://ko.wikipedia.org/wiki/사영_대상을_충분히_가지는_범주 "wikilink") [유도 함자를](../Page/유도_함자.md "wikilink") 통한 정의를 사용할 수 있으며, 이 경우 집합론적 문제가 발생하지 않는다.
 
 #### 고차 Ext
 
@@ -80,9 +80,9 @@
 
 두 \(n\)차 확대 \((B,X_\bullet,A)\), \((B',X_\bullet',A')\)가 주어졌을 때, \(Y_i\)를 다음과 같이 정의하자.
 
-  - \(i=1\)일 때, \(Y_1\)은 \(X_1\)과 \(X_1'\)의 \(A\)에 대한 [당김이다](https://ko.wikipedia.org/wiki/당김_\(범주론\) "wikilink").
+  - \(i=1\)일 때, \(Y_1\)은 \(X_1\)과 \(X_1'\)의 \(A\)에 대한 [당김이다](../Page/당김_\(범주론\).md "wikilink").
   - \(1<i<n\)일 때, \(Y_i=X_1\oplus X_1'\)이다.
-  - \(i=n\)일 때, \(X_n\xrightarrow f\tilde Y\xleftarrow{f'}X_n'\)를 \(B\xrightarrow\iota X_n\)과 \(B\xrightarrow{\iota'}X_n\)의 \(B\)에 대한 [밂이라고](https://ko.wikipedia.org/wiki/밂_\(범주론\) "wikilink") 하자. 그렇다면 대각 사상 \(\operatorname{diag}_B\colon B\to B\oplus B\)를 사용하여, \((f\circ\iota,-f'\circ\iota')\circ\operatorname{diag}_B\colon B\to\tilde Y\)를 정의할 수 있다. 그렇다면, \(Y_n=\tilde Y/((f\circ\iota,-f'\circ\iota')\circ\operatorname{diag}_B)(B)\)이다.
+  - \(i=n\)일 때, \(X_n\xrightarrow f\tilde Y\xleftarrow{f'}X_n'\)를 \(B\xrightarrow\iota X_n\)과 \(B\xrightarrow{\iota'}X_n\)의 \(B\)에 대한 [밂이라고](../Page/밂_\(범주론\).md "wikilink") 하자. 그렇다면 대각 사상 \(\operatorname{diag}_B\colon B\to B\oplus B\)를 사용하여, \((f\circ\iota,-f'\circ\iota')\circ\operatorname{diag}_B\colon B\to\tilde Y\)를 정의할 수 있다. 그렇다면, \(Y_n=\tilde Y/((f\circ\iota,-f'\circ\iota')\circ\operatorname{diag}_B)(B)\)이다.
 
 그렇다면 \((B,Y_\bullet',A)\)는 \(n\)차 확대를 이룬다. \((B,X_\bullet,A)\)의 [동치류](https://ko.wikipedia.org/wiki/동치류 "wikilink")와 \((B',X_\bullet',A')\)의 [동치류](https://ko.wikipedia.org/wiki/동치류 "wikilink")의 합을 \((B,Y_\bullet',A)\)의 [동치류](https://ko.wikipedia.org/wiki/동치류 "wikilink")로 정의하자.
 
@@ -112,7 +112,7 @@ Ext는 [가법 함자를](https://ko.wikipedia.org/wiki/가법_함자 "wikilink"
 
 \[0\to A\to X_1\to\cdots\to X_m\xrightarrow{\iota\circ\pi}Y_1\to\cdots\to Y_n\to C\to0\] 그렇다면 \((A,X_\bullet,B)\)의 동치류와 \((B,Y_\bullet,C)\)의 동치류의 **요네다 합성**은 \((A,X_\bullet,Y_\bullet,C)\)의 동치류이다.
 
-요네다 합성을 사용하여, 자연수 등급 [아벨 군의](https://ko.wikipedia.org/wiki/아벨_군 "wikilink") 범주 \(\operatorname{GrAb}_{\mathbb N}\) 위의 [풍성한 범주](https://ko.wikipedia.org/wiki/풍성한_범주 "wikilink") \(\operatorname{Ext}\mathcal A\)를 다음과 같이 정의할 수 있다.
+요네다 합성을 사용하여, 자연수 등급 [아벨 군의](https://ko.wikipedia.org/wiki/아벨_군 "wikilink") 범주 \(\operatorname{GrAb}_{\mathbb N}\) 위의 [풍성한 범주](../Page/풍성한_범주.md "wikilink") \(\operatorname{Ext}\mathcal A\)를 다음과 같이 정의할 수 있다.
 
   - \(\operatorname{Ext}\mathcal A\)의 대상은 \(\mathcal A\)의 대상과 같다.
   - \(\operatorname{Ext}\mathcal A\)의 사상군은 다음과 같은 자연수 등급 아벨 군이다.
@@ -142,21 +142,21 @@ Ext는 [가법 함자를](https://ko.wikipedia.org/wiki/가법_함자 "wikilink"
 
 ### 유도 범주를 통한 정의
 
-Ext 함자는 [유도 범주의](https://ko.wikipedia.org/wiki/유도_범주 "wikilink") 개념을 사용하여 간단하게 정의할 수 있다. [아벨 범주](https://ko.wikipedia.org/wiki/아벨_범주 "wikilink") \(\mathcal A\)가 주어졌다고 하자. \(\mathcal A\)의 대상을 하나의 성분만이 [영 대상이](https://ko.wikipedia.org/wiki/영_대상 "wikilink") 아닌 [사슬 복합체로](https://ko.wikipedia.org/wiki/사슬_복합체 "wikilink") 간주한다면, \(\mathcal A\)는 [사슬 복합체](https://ko.wikipedia.org/wiki/사슬_복합체 "wikilink") 범주 \(\operatorname{Ch}(\mathcal A)\)의 [충만한 부분 범주를](https://ko.wikipedia.org/wiki/충만한_부분_범주 "wikilink") 이룬다.
+Ext 함자는 [유도 범주의](../Page/유도_범주.md "wikilink") 개념을 사용하여 간단하게 정의할 수 있다. [아벨 범주](https://ko.wikipedia.org/wiki/아벨_범주 "wikilink") \(\mathcal A\)가 주어졌다고 하자. \(\mathcal A\)의 대상을 하나의 성분만이 [영 대상이](https://ko.wikipedia.org/wiki/영_대상 "wikilink") 아닌 [사슬 복합체로](https://ko.wikipedia.org/wiki/사슬_복합체 "wikilink") 간주한다면, \(\mathcal A\)는 [사슬 복합체](https://ko.wikipedia.org/wiki/사슬_복합체 "wikilink") 범주 \(\operatorname{Ch}(\mathcal A)\)의 [충만한 부분 범주를](https://ko.wikipedia.org/wiki/충만한_부분_범주 "wikilink") 이룬다.
 
 \(\mathcal A\) 속의 [사슬 복합체](https://ko.wikipedia.org/wiki/사슬_복합체 "wikilink") \(A\)에 대하여,
 
 \[A[i]^\bullet=X^{\bullet+i}\]
 
-\[d_{A[i]}=(-1)^nd|_A\] 로 정의하자. (여기서 모든 사슬 복합체의 경계 사상의 차수는 \(\deg d=+1\)이다.) 또한, \(\mathcal A\)의 [유도 범주가](https://ko.wikipedia.org/wiki/유도_범주 "wikilink") [국소적으로 작은 범주라고](https://ko.wikipedia.org/wiki/국소적으로_작은_범주 "wikilink") 하자. 그렇다면, \(\mathcal A\)의 두 대상 \(A,B\in\mathcal A\)에 대한 \(n\)차 **Ext 함자**는 [유도 범주](https://ko.wikipedia.org/wiki/유도_범주 "wikilink") \(\operatorname D(\mathcal A)\)의 다음과 같은 사상군이다.
+\[d_{A[i]}=(-1)^nd|_A\] 로 정의하자. (여기서 모든 사슬 복합체의 경계 사상의 차수는 \(\deg d=+1\)이다.) 또한, \(\mathcal A\)의 [유도 범주가](../Page/유도_범주.md "wikilink") [국소적으로 작은 범주라고](https://ko.wikipedia.org/wiki/국소적으로_작은_범주 "wikilink") 하자. 그렇다면, \(\mathcal A\)의 두 대상 \(A,B\in\mathcal A\)에 대한 \(n\)차 **Ext 함자**는 [유도 범주](../Page/유도_범주.md "wikilink") \(\operatorname D(\mathcal A)\)의 다음과 같은 사상군이다.
 
 \[\operatorname{Ext}^n_{\mathcal A}(A,B)=\hom_{\operatorname D(\mathcal A)}(A,B[i])\]
 
-(이 경우, [집합론](https://ko.wikipedia.org/wiki/집합론 "wikilink")적 문제는 원래 [아벨 범주가](https://ko.wikipedia.org/wiki/아벨_범주 "wikilink") [국소적으로 작은 범주라고](https://ko.wikipedia.org/wiki/국소적으로_작은_범주 "wikilink") 해도, 그 [유도 범주는](https://ko.wikipedia.org/wiki/유도_범주 "wikilink") 일반적으로 [국소적으로 작은 범주가](https://ko.wikipedia.org/wiki/국소적으로_작은_범주 "wikilink") 아닐 수 있는 것이다.)
+(이 경우, [집합론](https://ko.wikipedia.org/wiki/집합론 "wikilink")적 문제는 원래 [아벨 범주가](https://ko.wikipedia.org/wiki/아벨_범주 "wikilink") [국소적으로 작은 범주라고](https://ko.wikipedia.org/wiki/국소적으로_작은_범주 "wikilink") 해도, 그 [유도 범주는](../Page/유도_범주.md "wikilink") 일반적으로 [국소적으로 작은 범주가](https://ko.wikipedia.org/wiki/국소적으로_작은_범주 "wikilink") 아닐 수 있는 것이다.)
 
 ## 성질
 
-만약 \(M\)이 [사영 가군이거나](https://ko.wikipedia.org/wiki/사영_가군 "wikilink") \(N\)이 [단사 가군이라면](https://ko.wikipedia.org/wiki/단사_가군 "wikilink"),
+만약 \(M\)이 [사영 가군이거나](../Page/사영_가군.md "wikilink") \(N\)이 [단사 가군이라면](../Page/단사_가군.md "wikilink"),
 
 \[\operatorname{Ext}^n_R(M,N)=0\qquad\forall n>0\] 이다. 또한, 다음이 성립한다.
 
@@ -166,7 +166,7 @@ Ext 함자는 [유도 범주의](https://ko.wikipedia.org/wiki/유도_범주 "wi
 
 ### 벡터 공간
 
-체 \(K\) 위의 [가군](https://ko.wikipedia.org/wiki/가군 "wikilink")의 범주에서의 Ext 함자를 생각해 보자. 체 위의 가군은 [벡터 공간이며](https://ko.wikipedia.org/wiki/벡터_공간 "wikilink"), 모든 벡터 공간은 [사영 가군이자](https://ko.wikipedia.org/wiki/사영_가군 "wikilink") [단사 가군이다](https://ko.wikipedia.org/wiki/단사_가군 "wikilink"). 즉, 벡터 공간 \(V\)의 단사 분해 및 사영 분해는 자명하다.
+체 \(K\) 위의 [가군](https://ko.wikipedia.org/wiki/가군 "wikilink")의 범주에서의 Ext 함자를 생각해 보자. 체 위의 가군은 [벡터 공간이며](https://ko.wikipedia.org/wiki/벡터_공간 "wikilink"), 모든 벡터 공간은 [사영 가군이자](../Page/사영_가군.md "wikilink") [단사 가군이다](../Page/단사_가군.md "wikilink"). 즉, 벡터 공간 \(V\)의 단사 분해 및 사영 분해는 자명하다.
 
 \[0\to V\to I^0=V\to0\]
 
@@ -178,7 +178,7 @@ Ext 함자는 [유도 범주의](https://ko.wikipedia.org/wiki/유도_범주 "wi
 
 ### 아벨 군
 
-[정수환](https://ko.wikipedia.org/wiki/정수환 "wikilink") \(\mathbb Z\) 위의 가군의 범주에서의 Ext 함자를 생각해 보자. 정수환 위의 가군은 [아벨 군이며](https://ko.wikipedia.org/wiki/아벨_군 "wikilink"), [사영 가군은](https://ko.wikipedia.org/wiki/사영_가군 "wikilink") [자유 아벨 군이며](https://ko.wikipedia.org/wiki/자유_아벨_군 "wikilink"), [단사 가군은](https://ko.wikipedia.org/wiki/단사_가군 "wikilink") [나눗셈군](../Page/나눗셈군.md "wikilink")이다. 모든 아벨 군은 길이가 1 이하인 단사 분해 및 사영 분해를 갖는다. 즉, 임의의 아벨 군 \(G\)는 [자유 아벨 군](https://ko.wikipedia.org/wiki/자유_아벨_군 "wikilink") \(P^0\)의 [몫군](https://ko.wikipedia.org/wiki/몫군 "wikilink") \(P^0/P^1\)으로 나타낼 수 있으며, [자유 아벨 군의](https://ko.wikipedia.org/wiki/자유_아벨_군 "wikilink") 모든 [부분군](https://ko.wikipedia.org/wiki/부분군 "wikilink")은 자유 아벨 군이므로 다음은 사영 분해이다.
+[정수환](https://ko.wikipedia.org/wiki/정수환 "wikilink") \(\mathbb Z\) 위의 가군의 범주에서의 Ext 함자를 생각해 보자. 정수환 위의 가군은 [아벨 군이며](https://ko.wikipedia.org/wiki/아벨_군 "wikilink"), [사영 가군은](../Page/사영_가군.md "wikilink") [자유 아벨 군이며](../Page/자유_아벨_군.md "wikilink"), [단사 가군은](../Page/단사_가군.md "wikilink") [나눗셈군](../Page/나눗셈군.md "wikilink")이다. 모든 아벨 군은 길이가 1 이하인 단사 분해 및 사영 분해를 갖는다. 즉, 임의의 아벨 군 \(G\)는 [자유 아벨 군](../Page/자유_아벨_군.md "wikilink") \(P^0\)의 [몫군](https://ko.wikipedia.org/wiki/몫군 "wikilink") \(P^0/P^1\)으로 나타낼 수 있으며, [자유 아벨 군의](../Page/자유_아벨_군.md "wikilink") 모든 [부분군](https://ko.wikipedia.org/wiki/부분군 "wikilink")은 자유 아벨 군이므로 다음은 사영 분해이다.
 
 \[0\to G\to P^0\to P^1\to0\] 마찬가지로, 임의의 아벨 군 \(G\)는 [나눗셈군](../Page/나눗셈군.md "wikilink") \(I^0\)의 [부분군](https://ko.wikipedia.org/wiki/부분군 "wikilink")으로 나타낼 수 있으며, 나눗셈군의 모든 [몫군](https://ko.wikipedia.org/wiki/몫군 "wikilink")은 나눗셈군이므로 다음은 단사 분해를 이룬다.
 
@@ -188,7 +188,7 @@ Ext 함자는 [유도 범주의](https://ko.wikipedia.org/wiki/유도_범주 "wi
 
 \[\operatorname{Ext}^0_{\mathbb Z}(G,H)\cong\hom_{\operatorname{Ab}}(G,H)\] 이며,
 
-\[\operatorname{Ext}^1_{\mathbb Z}(G,H)\cong\hom_{\operatorname{Ab}}(P^1,H)/\operatorname{res}(\hom_{\operatorname{Ab}}(P^0,H))\] 는 [군의 확대](https://ko.wikipedia.org/wiki/군의_확대 "wikilink")
+\[\operatorname{Ext}^1_{\mathbb Z}(G,H)\cong\hom_{\operatorname{Ab}}(P^1,H)/\operatorname{res}(\hom_{\operatorname{Ab}}(P^0,H))\] 는 [군의 확대](../Page/군의_확대.md "wikilink")
 
 \[0\to H\to E\to G\to0\] 들의 동형류와 일대일 대응한다.
 
@@ -220,7 +220,7 @@ Ext 함자는 [유도 범주의](https://ko.wikipedia.org/wiki/유도_범주 "wi
 
 ### 리 대수 코호몰로지
 
-[리 대수 코호몰로지는](https://ko.wikipedia.org/wiki/리_대수_코호몰로지 "wikilink") 리 대수의 [보편 포락 대수의](https://ko.wikipedia.org/wiki/보편_포락_대수 "wikilink") Ext 함자와 같다. 이를 통해 [리 군의](https://ko.wikipedia.org/wiki/리_군 "wikilink") [드람 코호몰로지를](https://ko.wikipedia.org/wiki/드람_코호몰로지 "wikilink") 계산할 수 있다.
+[리 대수 코호몰로지는](../Page/리_대수_코호몰로지.md "wikilink") 리 대수의 [보편 포락 대수의](../Page/보편_포락_대수.md "wikilink") Ext 함자와 같다. 이를 통해 [리 군의](https://ko.wikipedia.org/wiki/리_군 "wikilink") [드람 코호몰로지를](https://ko.wikipedia.org/wiki/드람_코호몰로지 "wikilink") 계산할 수 있다.
 
 ### 층 코호몰로지
 
@@ -229,7 +229,7 @@ Ext 함자는 [유도 범주의](https://ko.wikipedia.org/wiki/유도_범주 "wi
 \[\operatorname H^\bullet(X,\mathcal F) = \operatorname{Ext}^\bullet(\underline{\mathbb Z},\mathcal F)\] 여기서
 
   - Ext 함자는 \(X\) 위의 아벨 군층의 [아벨 범주에서](https://ko.wikipedia.org/wiki/아벨_범주 "wikilink") 취한 것이다.
-  - \(\underline{\mathbb Z}\)는 [정수환](https://ko.wikipedia.org/wiki/정수환 "wikilink") 값의 [상수층](https://ko.wikipedia.org/wiki/상수층 "wikilink")이다.
+  - \(\underline{\mathbb Z}\)는 [정수환](https://ko.wikipedia.org/wiki/정수환 "wikilink") 값의 [상수층](../Page/상수층.md "wikilink")이다.
 
 스킴 \(X\) 위의 구조층의 코호몰로지에 대하여 다음이 성립한다.
 
@@ -237,13 +237,13 @@ Ext 함자는 [유도 범주의](https://ko.wikipedia.org/wiki/유도_범주 "wi
 
 ## 어원
 
-‘Ext’는 (확대)의 약자다. 이는 Ext 함자가 [군의 확대와](https://ko.wikipedia.org/wiki/군의_확대 "wikilink") 관련있기 때문이다. 아벨 군 \(G\)를 다른 아벨 군 \(H\)로 확대한다면, 가능한 확대들은 \(\operatorname{Ext}^1_{\mathbb Z}(G,H)\)와 [일대일 대응한다](https://ko.wikipedia.org/wiki/일대일_대응 "wikilink").
+‘Ext’는 (확대)의 약자다. 이는 Ext 함자가 [군의 확대와](../Page/군의_확대.md "wikilink") 관련있기 때문이다. 아벨 군 \(G\)를 다른 아벨 군 \(H\)로 확대한다면, 가능한 확대들은 \(\operatorname{Ext}^1_{\mathbb Z}(G,H)\)와 [일대일 대응한다](https://ko.wikipedia.org/wiki/일대일_대응 "wikilink").
 
 ## 같이 보기
 
-  - [Tor 함자](https://ko.wikipedia.org/wiki/Tor_함자 "wikilink")
+  - [Tor 함자](../Page/Tor_함자.md "wikilink")
   - [그로텐디크 군](https://ko.wikipedia.org/wiki/그로텐디크_군 "wikilink")
-  - [호몰로지 차원](https://ko.wikipedia.org/wiki/호몰로지_차원 "wikilink")
+  - [호몰로지 차원](../Page/호몰로지_차원.md "wikilink")
 
 ## 참고 문헌
 

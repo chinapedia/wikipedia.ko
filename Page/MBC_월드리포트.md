@@ -18,7 +18,7 @@
 
 ### 역대 진행자
 
-  - 1대 : [김소영](https://ko.wikipedia.org/wiki/김소영_\(기자\) "wikilink") 기자 (여) : 2013. 3. 23 \~ 2014. 3. 15
+  - 1대 : [김소영](../Page/김소영_\(기자\).md "wikilink") 기자 (여) : 2013. 3. 23 \~ 2014. 3. 15
   - 2대 : [장미일](https://ko.wikipedia.org/wiki/장미일 "wikilink") 기자 (여) : 2014. 3. 22 \~ 2017. 4. 2
 
 ## 방송 시간
@@ -36,7 +36,7 @@
 
 다음 지역 방송국은, **MBC 월드리포트**를 그대로 수중계한다.
 
-  - [춘천MBC](https://ko.wikipedia.org/wiki/춘천문화방송 "wikilink"), [원주MBC](https://ko.wikipedia.org/wiki/원주문화방송 "wikilink"), [MBC강원영동](https://ko.wikipedia.org/wiki/MBC강원영동 "wikilink"), [대전MBC](https://ko.wikipedia.org/wiki/대전문화방송 "wikilink"), [전주MBC](https://ko.wikipedia.org/wiki/전주문화방송 "wikilink"), [목포MBC](https://ko.wikipedia.org/wiki/목포문화방송 "wikilink"), [여수MBC](https://ko.wikipedia.org/wiki/여수문화방송 "wikilink"), [대구MBC](https://ko.wikipedia.org/wiki/대구문화방송 "wikilink"), [포항MBC](https://ko.wikipedia.org/wiki/포항문화방송 "wikilink"), [울산MBC](https://ko.wikipedia.org/wiki/울산문화방송 "wikilink"), [MBC경남](https://ko.wikipedia.org/wiki/MBC경남 "wikilink"), [제주MBC](https://ko.wikipedia.org/wiki/제주문화방송 "wikilink")
+  - [춘천MBC](https://ko.wikipedia.org/wiki/춘천문화방송 "wikilink"), [원주MBC](https://ko.wikipedia.org/wiki/원주문화방송 "wikilink"), [MBC강원영동](../Page/MBC강원영동.md "wikilink"), [대전MBC](https://ko.wikipedia.org/wiki/대전문화방송 "wikilink"), [전주MBC](https://ko.wikipedia.org/wiki/전주문화방송 "wikilink"), [목포MBC](https://ko.wikipedia.org/wiki/목포문화방송 "wikilink"), [여수MBC](https://ko.wikipedia.org/wiki/여수문화방송 "wikilink"), [대구MBC](https://ko.wikipedia.org/wiki/대구문화방송 "wikilink"), [포항MBC](https://ko.wikipedia.org/wiki/포항문화방송 "wikilink"), [울산MBC](https://ko.wikipedia.org/wiki/울산문화방송 "wikilink"), [MBC경남](https://ko.wikipedia.org/wiki/MBC경남 "wikilink"), [제주MBC](https://ko.wikipedia.org/wiki/제주문화방송 "wikilink")
 
 ### 자체 프로그램을 방영하는 방송국
 
@@ -45,7 +45,7 @@
 
 | 방송국                                                      | 프로그램 타이틀          |
 | -------------------------------------------------------- | ----------------- |
-| [MBC충북](https://ko.wikipedia.org/wiki/MBC충북 "wikilink")  | 프라임 인터뷰           |
+| [MBC충북](../Page/MBC충북.md "wikilink")                     | 프라임 인터뷰           |
 | [광주MBC](https://ko.wikipedia.org/wiki/광주문화방송 "wikilink") | 시청자가 만드는 TV       |
 | [안동MBC](https://ko.wikipedia.org/wiki/안동문화방송 "wikilink") | 살맛나는 세상 스페셜 (재방송) |
 | [부산MBC](https://ko.wikipedia.org/wiki/부산문화방송 "wikilink") | 부산 부산문화 스페셜       |

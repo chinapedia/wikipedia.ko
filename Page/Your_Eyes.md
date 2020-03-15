@@ -5,7 +5,7 @@
 
 ## 개요
 
-전작 〈[Face Down](https://ko.wikipedia.org/wiki/Face_Down "wikilink")〉으로부터 28일 간격의 발매. 2012년 3번째 싱글.
+전작 〈[Face Down](../Page/Face_Down.md "wikilink")〉으로부터 28일 간격의 발매. 2012년 3번째 싱글.
 
 초회 한정반, 통상반의 2형태로의 발매. 초회 한정반에는, 표제곡 〈Your Eyes〉의 뮤직 비디오가 들어간 DVD와 16페이지의 가사 소책자가 봉입되어 있다. DVD에 뮤직 비디오의 메이킹 영상은 수록되어 있지 않다.
 

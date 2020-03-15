@@ -19,16 +19,16 @@
   - [정수영](https://ko.wikipedia.org/wiki/정수영_\(배우\) "wikilink") : 진주 역
   - [문지윤](https://ko.wikipedia.org/wiki/문지윤 "wikilink") : 영민 역
   - [김보미](https://ko.wikipedia.org/wiki/김보미_\(1987년\) "wikilink") : 윤미 역
-  - [이재원](https://ko.wikipedia.org/wiki/이재원_\(배우\) "wikilink") : 김 대리 역
-  - [이미소](https://ko.wikipedia.org/wiki/이미소_\(1988년\) "wikilink") : 혜림 역
-  - [김지훈](https://ko.wikipedia.org/wiki/김지훈_\(1979년\) "wikilink") : 완식 역
+  - [이재원](../Page/이재원_\(배우\).md "wikilink") : 김 대리 역
+  - [이미소](../Page/이미소_\(1988년\).md "wikilink") : 혜림 역
+  - [김지훈](../Page/김지훈_\(1979년\).md "wikilink") : 완식 역
   - [곽지민](https://ko.wikipedia.org/wiki/곽지민 "wikilink") : 아라 역
-  - [황승언](https://ko.wikipedia.org/wiki/황승언_\(배우\) "wikilink") : 최영아 역
-  - [정성윤](https://ko.wikipedia.org/wiki/정성윤 "wikilink") : 소연남자친구 역
+  - [황승언](../Page/황승언_\(배우\).md "wikilink") : 최영아 역
+  - [정성윤](../Page/정성윤.md "wikilink") : 소연남자친구 역
   - 윤하린 : 글래머 녀 역
   - 윤진하 : 오타쿠 남 역
   - 오경수 : 현승회사 사장 역
-  - [정영기](https://ko.wikipedia.org/wiki/정영기_\(배우\) "wikilink") : 노래방 취객 1 역
+  - [정영기](../Page/정영기_\(배우\).md "wikilink") : 노래방 취객 1 역
   - [정종열](https://ko.wikipedia.org/wiki/정종렬 "wikilink") : 노래방 취객 2 역
   - 최교식 : 노래방 취객 3 역
   - 최은두 : 라디오 음치남 역
@@ -40,9 +40,9 @@
   - 배단희 : 포켄볼여 1 역
   - 정다연 : 포켄볼여 2 역
   - 박재영 : 산책로 할아버지 역
-  - [설창희](https://ko.wikipedia.org/wiki/설창희 "wikilink") : 승준 직장동료 1 역
+  - [설창희](../Page/설창희.md "wikilink") : 승준 직장동료 1 역
   - 김성우 : 승준 직장동료 2 역
-  - [정찬성](https://ko.wikipedia.org/wiki/정찬성_\(배우\) "wikilink") : 승준 직장동료 3 역
+  - [정찬성](../Page/정찬성_\(배우\).md "wikilink") : 승준 직장동료 3 역
   - [최유라](https://ko.wikipedia.org/wiki/최유라_\(1987년\) "wikilink") : 승준 직장동료 4 역
   - 한송이 : 바이어 역
   - 문서빈 : 홍대 젬베밴드 1 역
@@ -64,7 +64,7 @@
   - [전헌태](https://ko.wikipedia.org/wiki/전헌태 "wikilink") : 승준회사 부장 역 (우정출연)
   - [김주령](https://ko.wikipedia.org/wiki/김주령 "wikilink") : 바다거북녀 역 (우정출연)
   - [옥지영](https://ko.wikipedia.org/wiki/옥지영 "wikilink") : 수정 역 (우정출연)
-  - [탁트인](https://ko.wikipedia.org/wiki/탁트인 "wikilink") : 뚱뚱한 웨이터 역 (우정출연)
+  - [탁트인](../Page/탁트인.md "wikilink") : 뚱뚱한 웨이터 역 (우정출연)
   - [김보연](https://ko.wikipedia.org/wiki/김보연 "wikilink") : 윤정 모 역 (특별출연)
   - [신해철](https://ko.wikipedia.org/wiki/신해철 "wikilink") : 라디오 DJ 역 (특별출연)
   - [김준호](https://ko.wikipedia.org/wiki/김준호_\(희극인\) "wikilink") : 웨이터 역 (특별출연)

@@ -13,7 +13,7 @@
 
 이후로 스튜디오 뮤지션으로 전업하게 되며 1983년 [Mummer](https://ko.wikipedia.org/wiki/Mummer "wikilink")를 녹음에 착수하지만 이번엔 드러머 테리 챔버스가 빠져나가게 된다. 당시엔 드럼머신에 대한 거부감으로 탈퇴했다고 알려졌지만 실제로는 당시 호주 여친과 결혼해 살고 싶었던게 큰 이유였다고 한다. 테리 챔버스는 이후로 음악계랑 거리를 두며 살게 된다.
 
-1984년 [The Big Express는](https://ko.wikipedia.org/wiki/The_Big_Express "wikilink") 다시 한번 초기 시절로 돌아가면서도 작곡 능력의 발전으로 좋은 평가를 받지만 레코드 사와 불화를 일으켜 판매량은 저조했다. 이 시기 1960년대 록 밴드에 대한 존경심으로 장난삼아 만든 얼터 에고 [듀크스 오브 스트라토스피어The](https://ko.wikipedia.org/wiki/듀크스_오브_스트라토스피어 "wikilink") Dukes of Stratosphear의 EP가 생각외로 대단한 반응을 일으키기도 했다. 1986년 [토드 런그렌과](https://ko.wikipedia.org/wiki/토드_런그렌 "wikilink") 함께 [Skylarking](https://ko.wikipedia.org/wiki/Skylarking "wikilink")과 녹음에 착수, 발표하게 된다. Skylarking은 이후 이들의 최대 걸작이자 록 음악사의 명반으로 자리잡게 된다.
+1984년 [The Big Express는](https://ko.wikipedia.org/wiki/The_Big_Express "wikilink") 다시 한번 초기 시절로 돌아가면서도 작곡 능력의 발전으로 좋은 평가를 받지만 레코드 사와 불화를 일으켜 판매량은 저조했다. 이 시기 1960년대 록 밴드에 대한 존경심으로 장난삼아 만든 얼터 에고 [듀크스 오브 스트라토스피어The](https://ko.wikipedia.org/wiki/듀크스_오브_스트라토스피어 "wikilink") Dukes of Stratosphear의 EP가 생각외로 대단한 반응을 일으키기도 했다. 1986년 [토드 런그렌과](https://ko.wikipedia.org/wiki/토드_런그렌 "wikilink") 함께 [Skylarking](../Page/Skylarking.md "wikilink")과 녹음에 착수, 발표하게 된다. Skylarking은 이후 이들의 최대 걸작이자 록 음악사의 명반으로 자리잡게 된다.
 
 The Dukes of Stratosphear 명의로 첫 앨범 Psonic Psunspot 발표한 후 1989년에 만든 좀더 상업적으로 만든 앨범 [Oranges and Lemons는](https://ko.wikipedia.org/wiki/Oranges_and_Lemons "wikilink") 큰 인기를 끌게 된다. 이 즈음부터 방송국들 위주로 공연을 재개하기 시작했다. 이어 내놓은 Nonsuch도 환대를 받으며 상당히 성공을 했다. 그러나 Nonsuch 발표 후 밴드와 버진 레코드 간의 불화가 극대화되어서 결국 이들은 버진을 떠나게 된다. 그후 7년동안 침묵을 지키다가 1999년 [Apple Venus](https://ko.wikipedia.org/wiki/Apple_Venus "wikilink") 연작을 발표하면서 다시 극찬을 받게 되었다.
 
@@ -29,7 +29,7 @@ The Dukes of Stratosphear 명의로 첫 앨범 Psonic Psunspot 발표한 후 198
   - *[Mummer](https://ko.wikipedia.org/wiki/Mummer_\(album\) "wikilink")* (1983)
   - *[The Big Express](https://ko.wikipedia.org/wiki/The_Big_Express "wikilink")* (1984)
   - *[25 O'Clock](https://ko.wikipedia.org/wiki/25_O'Clock "wikilink")* (1985, the Dukes of Stratosphear)
-  - *[Skylarking](https://ko.wikipedia.org/wiki/Skylarking "wikilink")* (1986)
+  - *[Skylarking](../Page/Skylarking.md "wikilink")* (1986)
   - *[Psonic Psunspot](https://ko.wikipedia.org/wiki/Psonic_Psunspot "wikilink")* (1987, the Dukes of Stratosphear)
   - *[Oranges & Lemons](https://ko.wikipedia.org/wiki/Oranges_&_Lemons_\(album\) "wikilink")* (1989)
   - *[Nonsuch](https://ko.wikipedia.org/wiki/Nonsuch_\(album\) "wikilink")* (1992)

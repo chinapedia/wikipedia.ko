@@ -62,12 +62,12 @@
 ## 경쟁 기종
 
   - [HTC J 버터플라이](https://ko.wikipedia.org/wiki/HTC_J_버터플라이 "wikilink")
-  - [HTC 원](https://ko.wikipedia.org/wiki/HTC_원 "wikilink")
+  - [HTC 원](../Page/HTC_원.md "wikilink")
   - [삼성 갤럭시 S4](../Page/삼성_갤럭시_S4.md "wikilink")
   - [LG 옵티머스 G 프로](https://ko.wikipedia.org/wiki/LG_옵티머스_G_프로 "wikilink")
-  - [화웨이 어센드 P6](https://ko.wikipedia.org/wiki/화웨이_어센드_P6 "wikilink")
-  - [샤프 아쿠오스 206SH](https://ko.wikipedia.org/wiki/샤프_아쿠오스_206SH "wikilink")
-  - [샤프 아쿠오스 Sh930w](https://ko.wikipedia.org/wiki/샤프_아쿠오스_Sh930w "wikilink")
+  - [화웨이 어센드 P6](../Page/화웨이_어센드_P6.md "wikilink")
+  - [샤프 아쿠오스 206SH](../Page/샤프_아쿠오스_206SH.md "wikilink")
+  - [샤프 아쿠오스 Sh930w](../Page/샤프_아쿠오스_Sh930w.md "wikilink")
 
 ## 각주
 

@@ -12,7 +12,7 @@ SQL의 **CREATE** 문은 관계형 데이터베이스 관리시스템 (RDBMS)의
   - 기본 테이블 요소 쉼표 목록
     다음 중 하나로 구성된 정의로 쉼표로 구분된 목록이다.
       - 컬럼 정의: *\[컬럼명\]* ''\[데이터 형식\] *{NULL | NOT NULL}* *{컬럼 옵션}*
-      - [기본 키](https://ko.wikipedia.org/wiki/기본_키 "wikilink") 정의: *PRIMARY KEY* ( *\[컬럼 컴마 목록\]* )
+      - [기본 키](../Page/기본_키.md "wikilink") 정의: *PRIMARY KEY* ( *\[컬럼 컴마 목록\]* )
       - 제약: *{CONSTRAINT}* *\[제약정의\]*
       - RDBMS 특정한 기능
 

@@ -41,9 +41,9 @@
 
 ## 경쟁 기종
 
-  - [샤프 아쿠오스 패드](https://ko.wikipedia.org/wiki/샤프_아쿠오스_패드 "wikilink")
+  - [샤프 아쿠오스 패드](../Page/샤프_아쿠오스_패드.md "wikilink")
   - [아이패드 (4세대)](https://ko.wikipedia.org/wiki/아이패드_\(4세대\) "wikilink")
-  - [아이패드 미니](https://ko.wikipedia.org/wiki/아이패드_미니 "wikilink")
+  - [아이패드 미니](../Page/아이패드_미니.md "wikilink")
   - [삼성 갤럭시 노트 8.0](../Page/삼성_갤럭시_노트_8.0.md "wikilink")
 
 ## 출시국가

@@ -28,24 +28,24 @@ KBS 장애인 서비스 및 [KBS 2TV](https://ko.wikipedia.org/wiki/KBS_2TV "wik
 
 | 코너명                                                                              | 진행자                                                               |
 | -------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| 글로벌 주요뉴스                                                                         | [이각경](https://ko.wikipedia.org/wiki/이각경 "wikilink") 아나운서          |
+| 글로벌 주요뉴스                                                                         | [이각경](../Page/이각경.md "wikilink") 아나운서                             |
 | 글로벌 현장                                                                           |                                                                   |
 | 글로벌 인사이드                                                                         | [최규연](https://ko.wikipedia.org/wiki/최규연 "wikilink") 외신캐스터         |
 | 글로벌 카드뉴스                                                                         |                                                                   |
 | 글로벌 플러스 ([지구촌 뉴스](https://ko.wikipedia.org/wiki/지구촌_뉴스 "wikilink") 지구촌 Talk 재방송) | [박태원](https://ko.wikipedia.org/wiki/박태원_\(아나운서\) "wikilink") 아나운서 |
-| 클로징                                                                              | [이각경](https://ko.wikipedia.org/wiki/이각경 "wikilink") 아나운서          |
+| 클로징                                                                              | [이각경](../Page/이각경.md "wikilink") 아나운서                             |
 
 ## 앵커
 
   - 현재 메인 앵커는 2020년 1월 13일부터를 기준으로 하며, 서브 앵커는 2017년 11월 20일부터를 기준으로 한다.
-  - 첫 진행시 "전세계 24개국을 전하는 글로벌 24 입니다."로 진행자([이각경](https://ko.wikipedia.org/wiki/이각경 "wikilink") 아나운서)의 이름을 부르지 않고 진행하는 것이 아니라 진행자의 이름을 부르며 진행하는 것이 좋다.
+  - 첫 진행시 "전세계 24개국을 전하는 글로벌 24 입니다."로 진행자([이각경](../Page/이각경.md "wikilink") 아나운서)의 이름을 부르지 않고 진행하는 것이 아니라 진행자의 이름을 부르며 진행하는 것이 좋다.
   - 메인 앵커의 경우 2013년 4월 8일부터 2015년 9월 17일까지 보도국 기자가 진행하였으나, 2015년 9월 21일부터 아나운서가 진행하는 방식으로 변경되었다.
 
 ### 현재 앵커
 
 #### 메인
 
-  - [이각경](https://ko.wikipedia.org/wiki/이각경 "wikilink") (여) - [KBS](https://ko.wikipedia.org/wiki/한국방송공사 "wikilink") 아나운서
+  - [이각경](../Page/이각경.md "wikilink") (여) - [KBS](https://ko.wikipedia.org/wiki/한국방송공사 "wikilink") 아나운서
 
 #### 서브
 
@@ -68,7 +68,7 @@ KBS 장애인 서비스 및 [KBS 2TV](https://ko.wikipedia.org/wiki/KBS_2TV "wik
 <tbody>
 <tr class="odd">
 <td><p>1대</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/박에스더_(기자)" title="wikilink">박에스더</a> 기자</p></td>
+<td><p><a href="../Page/박에스더_(기자).md" title="wikilink">박에스더</a> 기자</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/2013년" title="wikilink">2013년</a> <a href="https://ko.wikipedia.org/wiki/4월_8일" title="wikilink">4월 8일</a> ~ <a href="https://ko.wikipedia.org/wiki/2014년" title="wikilink">2014년</a> <a href="https://ko.wikipedia.org/wiki/4월_11일" title="wikilink">4월 11일</a></p></td>
 <td></td>
 </tr>
@@ -80,7 +80,7 @@ KBS 장애인 서비스 및 [KBS 2TV](https://ko.wikipedia.org/wiki/KBS_2TV "wik
 </tr>
 <tr class="odd">
 <td><p>3대</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이각경" title="wikilink">이각경</a> 아나운서</p></td>
+<td><p><a href="../Page/이각경.md" title="wikilink">이각경</a> 아나운서</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/2015년" title="wikilink">2015년</a> <a href="https://ko.wikipedia.org/wiki/9월_21일" title="wikilink">9월 21일</a> ~ <a href="https://ko.wikipedia.org/wiki/2016년" title="wikilink">2016년</a> <a href="https://ko.wikipedia.org/wiki/4월_21일" title="wikilink">4월 21일</a></p></td>
 <td><p>[1]</p></td>
 </tr>
@@ -104,13 +104,13 @@ KBS 장애인 서비스 및 [KBS 2TV](https://ko.wikipedia.org/wiki/KBS_2TV "wik
 </tr>
 <tr class="odd">
 <td><p>7대</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김지원_(아나운서)" title="wikilink">김지원</a> 아나운서</p></td>
+<td><p><a href="../Page/김지원_(아나운서).md" title="wikilink">김지원</a> 아나운서</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/2018년" title="wikilink">2018년</a> <a href="https://ko.wikipedia.org/wiki/9월_17일" title="wikilink">9월 17일</a> ~ <a href="https://ko.wikipedia.org/wiki/2020년" title="wikilink">2020년</a> <a href="https://ko.wikipedia.org/wiki/1월_9일" title="wikilink">1월 9일</a></p></td>
 <td><p>[4]</p></td>
 </tr>
 <tr class="even">
 <td><p>8대</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이각경" title="wikilink">이각경</a> 아나운서</p></td>
+<td><p><a href="../Page/이각경.md" title="wikilink">이각경</a> 아나운서</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/2020년" title="wikilink">2020년</a> <a href="https://ko.wikipedia.org/wiki/1월_13일" title="wikilink">1월 13일</a> ~ <strong>현재</strong></p></td>
 <td><p>[5]</p></td>
 </tr>
@@ -168,7 +168,7 @@ KBS 장애인 서비스 및 [KBS 2TV](https://ko.wikipedia.org/wiki/KBS_2TV "wik
 ## 같이 보기
 
   - [지구촌 뉴스](https://ko.wikipedia.org/wiki/지구촌_뉴스 "wikilink")
-  - [특파원 보고 세계는 지금](https://ko.wikipedia.org/wiki/특파원_보고_세계는_지금 "wikilink")
+  - [특파원 보고 세계는 지금](../Page/특파원_보고_세계는_지금.md "wikilink")
 
 ## 각주 및 임시 앵커
 
@@ -176,9 +176,9 @@ KBS 장애인 서비스 및 [KBS 2TV](https://ko.wikipedia.org/wiki/KBS_2TV "wik
 
 [분류:한국방송공사의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:한국방송공사의_뉴스_텔레비전_프로그램 "wikilink")
 
-1.  [이각경](https://ko.wikipedia.org/wiki/이각경 "wikilink") 아나운서의 휴가 또는 출장으로 인하여, [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [12월 14일](https://ko.wikipedia.org/wiki/12월_14일 "wikilink") \~ [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [12월 17일](https://ko.wikipedia.org/wiki/12월_17일 "wikilink") 방송분은 [윤수영](https://ko.wikipedia.org/wiki/윤수영_\(아나운서\) "wikilink") 아나운서가 대신 진행했다.
+1.  [이각경](../Page/이각경.md "wikilink") 아나운서의 휴가 또는 출장으로 인하여, [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [12월 14일](https://ko.wikipedia.org/wiki/12월_14일 "wikilink") \~ [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [12월 17일](https://ko.wikipedia.org/wiki/12월_17일 "wikilink") 방송분은 [윤수영](https://ko.wikipedia.org/wiki/윤수영_\(아나운서\) "wikilink") 아나운서가 대신 진행했다.
 2.  [윤수영](https://ko.wikipedia.org/wiki/윤수영_\(아나운서\) "wikilink") 아나운서의 휴가 또는 출장으로 인하여, [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [10월 11일](https://ko.wikipedia.org/wiki/10월_11일 "wikilink") \~ [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [10월 12일](https://ko.wikipedia.org/wiki/10월_12일 "wikilink"), [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [12월 12일](https://ko.wikipedia.org/wiki/12월_12일 "wikilink") \~ [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [12월 15일](https://ko.wikipedia.org/wiki/12월_15일 "wikilink") 방송분은 [김진희](https://ko.wikipedia.org/wiki/김진희_\(아나운서\) "wikilink") 아나운서가 대신 진행했고, KBS의 파업으로 인하여, [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [12월 8일](https://ko.wikipedia.org/wiki/12월_8일 "wikilink") 방송분은 [임수민](https://ko.wikipedia.org/wiki/임수민_\(아나운서\) "wikilink") 아나운서가 대신 진행했다.
 3.  KBS의 노조 파업으로 인하여, [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [8월 28일](https://ko.wikipedia.org/wiki/8월_28일 "wikilink") \~ [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [9월 1일](https://ko.wikipedia.org/wiki/9월_1일 "wikilink") 방송분은 [엄지인](https://ko.wikipedia.org/wiki/엄지인 "wikilink") 아나운서가 대신 진행했고, [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [9월 4일](https://ko.wikipedia.org/wiki/9월_4일 "wikilink") \~ [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [1월 23일](https://ko.wikipedia.org/wiki/1월_23일 "wikilink") 방송분은 [강성곤](https://ko.wikipedia.org/wiki/강성곤 "wikilink") 아나운서가 대신 진행했다.
-4.  [김지원](https://ko.wikipedia.org/wiki/김지원_\(아나운서\) "wikilink") 아나운서의 휴가 또는 출장으로 인하여, [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [11월 8일](https://ko.wikipedia.org/wiki/11월_8일 "wikilink") 방송분은 [박지현](https://ko.wikipedia.org/wiki/박지현_\(1982년\) "wikilink") 아나운서가 대신 진행했고, [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [4월 8일](https://ko.wikipedia.org/wiki/4월_8일 "wikilink") \~ [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [4월 10일](https://ko.wikipedia.org/wiki/4월_10일 "wikilink") 방송분은 주말 [KBS 뉴스 9](https://ko.wikipedia.org/wiki/KBS_뉴스_9 "wikilink") 앵커로 진행한 [박소현](https://ko.wikipedia.org/wiki/박소현_\(1992년\) "wikilink") 아나운서가 대신 진행했고, [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [9월 26일](https://ko.wikipedia.org/wiki/9월_26일 "wikilink") \~ [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [10월 1일](https://ko.wikipedia.org/wiki/10월_1일 "wikilink") 방송분은 [김도연](https://ko.wikipedia.org/wiki/김도연_\(아나운서\) "wikilink") 아나운서가 대신 진행했다.
-5.  [이각경](https://ko.wikipedia.org/wiki/이각경 "wikilink") 아나운서는 4년 만에 KBS 글로벌 24 재진행했으나, 멘트시 전세계 24개국을 전하는 글로벌 24 입니다 로 이름을 부르지 않았다.
+4.  [김지원](../Page/김지원_\(아나운서\).md "wikilink") 아나운서의 휴가 또는 출장으로 인하여, [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [11월 8일](https://ko.wikipedia.org/wiki/11월_8일 "wikilink") 방송분은 [박지현](https://ko.wikipedia.org/wiki/박지현_\(1982년\) "wikilink") 아나운서가 대신 진행했고, [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [4월 8일](https://ko.wikipedia.org/wiki/4월_8일 "wikilink") \~ [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [4월 10일](https://ko.wikipedia.org/wiki/4월_10일 "wikilink") 방송분은 주말 [KBS 뉴스 9](https://ko.wikipedia.org/wiki/KBS_뉴스_9 "wikilink") 앵커로 진행한 [박소현](../Page/박소현_\(1992년\).md "wikilink") 아나운서가 대신 진행했고, [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [9월 26일](https://ko.wikipedia.org/wiki/9월_26일 "wikilink") \~ [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [10월 1일](https://ko.wikipedia.org/wiki/10월_1일 "wikilink") 방송분은 [김도연](https://ko.wikipedia.org/wiki/김도연_\(아나운서\) "wikilink") 아나운서가 대신 진행했다.
+5.  [이각경](../Page/이각경.md "wikilink") 아나운서는 4년 만에 KBS 글로벌 24 재진행했으나, 멘트시 전세계 24개국을 전하는 글로벌 24 입니다 로 이름을 부르지 않았다.
 6.  KBS의 노조 파업으로 인하여, [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [9월 4일](https://ko.wikipedia.org/wiki/9월_4일 "wikilink") \~ [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [11월 17일](https://ko.wikipedia.org/wiki/11월_17일 "wikilink") 방송분은 [강성곤](https://ko.wikipedia.org/wiki/강성곤 "wikilink") 아나운서가 대신 진행했고, [박태원](https://ko.wikipedia.org/wiki/박태원_\(아나운서\) "wikilink") 아나운서의 휴가로 인하여, [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [7월 29일](https://ko.wikipedia.org/wiki/7월_29일 "wikilink") \~ [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [8월 1일](https://ko.wikipedia.org/wiki/8월_1일 "wikilink") 방송분은 [한상헌](https://ko.wikipedia.org/wiki/한상헌 "wikilink") 아나운서가 대신 진행했고 [9월 26일](https://ko.wikipedia.org/wiki/9월_26일 "wikilink") 방송분은 출장으로 인하여 [이영호](https://ko.wikipedia.org/wiki/이영호_\(아나운서\) "wikilink") 아나운서가 대신 진행했고 [2020년](https://ko.wikipedia.org/wiki/2020년 "wikilink") [2월 13일](https://ko.wikipedia.org/wiki/2월_13일 "wikilink") 방송분도 출장으로 인하여 [강성규](https://ko.wikipedia.org/wiki/강성규 "wikilink") 아나운서가 대신 진행했다.

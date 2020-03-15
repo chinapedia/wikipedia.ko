@@ -9,7 +9,7 @@
   - [김래원](https://ko.wikipedia.org/wiki/김래원 "wikilink") - 영재 역
   - [이미숙](https://ko.wikipedia.org/wiki/이미숙 "wikilink") - 미숙 역
   - [최덕문](https://ko.wikipedia.org/wiki/최덕문 "wikilink") - 기수 역
-  - [이성경](https://ko.wikipedia.org/wiki/이성경 "wikilink") - 김 간호사 역
+  - [이성경](../Page/이성경.md "wikilink") - 김 간호사 역
   - [김지영](https://ko.wikipedia.org/wiki/김지영_\(1938년\) "wikilink") - 아줌마 역
   - [윤찬](https://ko.wikipedia.org/wiki/윤찬_\(1980년\) "wikilink") - 경수 역
   - [이유정](https://ko.wikipedia.org/wiki/이유정 "wikilink") - 진영 역
@@ -20,13 +20,13 @@
   - 박찬국 - 다크룸 직원 역
   - 배창수 - 담임 선생님 역 (우정출연)
   - [박준석](https://ko.wikipedia.org/wiki/박준석_\(배우\) "wikilink") - 영재 친구 1 역 (특별출연)
-  - [장희수](https://ko.wikipedia.org/wiki/장희수 "wikilink") - 윤정 역 (특별출연)
+  - [장희수](../Page/장희수.md "wikilink") - 윤정 역 (특별출연)
 
 ## 사운드 트랙
 
 ## 리메이크
 
-[2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [안젤라베이비](https://ko.wikipedia.org/wiki/안젤라베이비 "wikilink"), [자오유팅](https://ko.wikipedia.org/wiki/자오유팅 "wikilink") 주연의 중국 영화 [제일차](https://ko.wikipedia.org/wiki/제일차 "wikilink")로 리메이크되었다.
+[2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [안젤라베이비](../Page/안젤라베이비.md "wikilink"), [자오유팅](https://ko.wikipedia.org/wiki/자오유팅 "wikilink") 주연의 중국 영화 [제일차](https://ko.wikipedia.org/wiki/제일차 "wikilink")로 리메이크되었다.
 
 ## 외부 링크
 

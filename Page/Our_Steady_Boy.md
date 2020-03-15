@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Our Steady Boy](https://ko.wikipedia.org/wiki/Our_Steady_Boy).
 
 
-{{싱글 정보 | 곡명 = Our Steady Boy | 음악가 = [유이카오리](../Page/유이카오리.md "wikilink") | 음반 = [Puppy](https://ko.wikipedia.org/wiki/Puppy_\(유이카오리의_음반\) "wikilink") | A 사이드 = | B 사이드 = 또 다른 나 | 발매일 =  | 포맷 = [맥시싱글](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink") | 녹음 = 2010년
+{{싱글 정보 | 곡명 = Our Steady Boy | 음악가 = [유이카오리](../Page/유이카오리.md "wikilink") | 음반 = [Puppy](../Page/Puppy_\(유이카오리의_음반\).md "wikilink") | A 사이드 = | B 사이드 = 또 다른 나 | 발매일 =  | 포맷 = [맥시싱글](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink") | 녹음 = 2010년
  | 장르 = [J-POP](https://ko.wikipedia.org/wiki/J-POP "wikilink"), [애니메이션 노래](https://ko.wikipedia.org/wiki/애니메이션_노래 "wikilink") | 길이 = 16분 20초 | 레이블 = [스타 차일드](https://ko.wikipedia.org/wiki/스타_차일드 "wikilink")(KIZM-49/50) | 언어 = 일본어 | 프로듀서 = | 작사 = [오모리 쇼코](https://ko.wikipedia.org/wiki/오모리_쇼코 "wikilink")(작사 \#1)
 우에키 미즈키 in 슌류(작곡 \#1)
 [타다노 나츠미](https://ko.wikipedia.org/wiki/타다노_나츠미 "wikilink")(작사 \#2)
@@ -30,10 +30,10 @@
 
 ## 수록 음반
 
-| 곡명             | 앨범                                                                          | 발매일                                                                                                               |
-| -------------- | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| Our Steady Boy | 《**[Puppy](https://ko.wikipedia.org/wiki/Puppy_\(유이카오리의_음반\) "wikilink")**》 | [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [9월 21일](https://ko.wikipedia.org/wiki/9월_21일 "wikilink") |
-|                |                                                                             |                                                                                                                   |
+| 곡명             | 앨범                                                       | 발매일                                                                                                               |
+| -------------- | -------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| Our Steady Boy | 《**[Puppy](../Page/Puppy_\(유이카오리의_음반\).md "wikilink")**》 | [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [9월 21일](https://ko.wikipedia.org/wiki/9월_21일 "wikilink") |
+|                |                                                          |                                                                                                                   |
 
 ## 각주
 

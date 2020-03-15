@@ -15,26 +15,26 @@
 
 LVMH가 소유한 유명 자회사와 브랜드\[10\]\[11\] \[12\]
 
-| Company                                                                   | Sector            |
-| ------------------------------------------------------------------------- | ----------------- |
-| [모엣 샹동(Moët et Chandon)](https://ko.wikipedia.org/wiki/모엣_샹동 "wikilink")  | Wines and Spirits |
-| [헤네시](https://ko.wikipedia.org/wiki/헤네시 "wikilink")(Hennessy)             | Wines and Spirits |
-| [디오르(Dior)](https://ko.wikipedia.org/wiki/크리스티앙_디오르_\(기업\) "wikilink")    | 패션                |
-| [펜디](../Page/펜디.md "wikilink")(Fendi)                                     | 의류 및 잡화           |
-| [도나 카란(Donna Karan)](https://ko.wikipedia.org/wiki/도나_카란 "wikilink")      | 의류 및 잡화           |
-| [에밀리오 푸치(Emilio Pucci)](https://ko.wikipedia.org/wiki/에밀리오_푸치 "wikilink") | 의류 및 잡화           |
-| [지방시(Givenchy)](https://ko.wikipedia.org/wiki/지방시_\(브랜드\) "wikilink")     | 의류 및 잡화           |
-| [겐조](https://ko.wikipedia.org/wiki/겐조 "wikilink")(Kenzo_Takada)          | 의류 및 잡화           |
-| [벨루티](https://ko.wikipedia.org/wiki/벨루티 "wikilink")(Berluti)              | 의류 및 잡화           |
-| [루이비통 Vuitton)](https://ko.wikipedia.org/wiki/루이비통 "wikilink")(Louis      | 의류 및 잡화           |
-| [마크 제이콥스(Marc Jacobs)](https://ko.wikipedia.org/wiki/마크_제이콥스 "wikilink")  | 의류 및 잡화           |
-| [셀린느](https://ko.wikipedia.org/wiki/셀린느 "wikilink")(Céline)               | 의류 및 잡화           |
-| [태그 호이어(TAG Heuer)](https://ko.wikipedia.org/wiki/태그_호이어 "wikilink")      | 시계 및 보석           |
-| [제니스](https://ko.wikipedia.org/wiki/제니스 "wikilink")(Zenith)               | 시계 및 보석           |
-| [위블로](https://ko.wikipedia.org/wiki/위블로 "wikilink")(Hublot)               | 시계 및 보석           |
-| [쇼멧](https://ko.wikipedia.org/wiki/쇼멧 "wikilink")(Chaumet)                | 시계 및 보석           |
-| [불가리](https://ko.wikipedia.org/wiki/불가리 "wikilink")(Bulgari)              | 시계 및 보석           |
-| [로로 피아나(Loro Piana)](../Page/로로_피아나.md "wikilink")                        | 의류 및 잡화           |
+| Company                                                                  | Sector            |
+| ------------------------------------------------------------------------ | ----------------- |
+| [모엣 샹동(Moët et Chandon)](https://ko.wikipedia.org/wiki/모엣_샹동 "wikilink") | Wines and Spirits |
+| [헤네시](https://ko.wikipedia.org/wiki/헤네시 "wikilink")(Hennessy)            | Wines and Spirits |
+| [디오르(Dior)](https://ko.wikipedia.org/wiki/크리스티앙_디오르_\(기업\) "wikilink")   | 패션                |
+| [펜디](../Page/펜디.md "wikilink")(Fendi)                                    | 의류 및 잡화           |
+| [도나 카란(Donna Karan)](https://ko.wikipedia.org/wiki/도나_카란 "wikilink")     | 의류 및 잡화           |
+| [에밀리오 푸치(Emilio Pucci)](../Page/에밀리오_푸치.md "wikilink")                   | 의류 및 잡화           |
+| [지방시(Givenchy)](https://ko.wikipedia.org/wiki/지방시_\(브랜드\) "wikilink")    | 의류 및 잡화           |
+| [겐조](https://ko.wikipedia.org/wiki/겐조 "wikilink")(Kenzo_Takada)         | 의류 및 잡화           |
+| [벨루티](https://ko.wikipedia.org/wiki/벨루티 "wikilink")(Berluti)             | 의류 및 잡화           |
+| [루이비통 Vuitton)](https://ko.wikipedia.org/wiki/루이비통 "wikilink")(Louis     | 의류 및 잡화           |
+| [마크 제이콥스(Marc Jacobs)](https://ko.wikipedia.org/wiki/마크_제이콥스 "wikilink") | 의류 및 잡화           |
+| [셀린느](https://ko.wikipedia.org/wiki/셀린느 "wikilink")(Céline)              | 의류 및 잡화           |
+| [태그 호이어(TAG Heuer)](https://ko.wikipedia.org/wiki/태그_호이어 "wikilink")     | 시계 및 보석           |
+| [제니스](https://ko.wikipedia.org/wiki/제니스 "wikilink")(Zenith)              | 시계 및 보석           |
+| [위블로](https://ko.wikipedia.org/wiki/위블로 "wikilink")(Hublot)              | 시계 및 보석           |
+| [쇼멧](https://ko.wikipedia.org/wiki/쇼멧 "wikilink")(Chaumet)               | 시계 및 보석           |
+| [불가리](https://ko.wikipedia.org/wiki/불가리 "wikilink")(Bulgari)             | 시계 및 보석           |
+| [로로 피아나(Loro Piana)](../Page/로로_피아나.md "wikilink")                       | 의류 및 잡화           |
 
 ## 각주
 

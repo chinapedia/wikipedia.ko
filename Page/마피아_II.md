@@ -9,9 +9,9 @@
 
 **마피아 II**에는 [다운로드 가능 콘텐츠](https://ko.wikipedia.org/wiki/다운로드_가능_콘텐츠 "wikilink")(DLC)가 존재한다:
 
-***지미의 복수 (Jimmy's Vendetta)***는 [마피아 II의](https://ko.wikipedia.org/wiki/마피아_II "wikilink") [다운로드 가능 콘텐츠](https://ko.wikipedia.org/wiki/다운로드_가능_콘텐츠 "wikilink") 중 두번째로 만들어진 것이다.. [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [10월 7일에](https://ko.wikipedia.org/wiki/10월_7일 "wikilink") [플레이스테이션 네트워크와](https://ko.wikipedia.org/wiki/플레이스테이션_네트워크 "wikilink") [엑스박스 라이브 마켓플레이스](https://ko.wikipedia.org/wiki/엑스박스_라이브_마켓플레이스 "wikilink") , [스팀](https://ko.wikipedia.org/wiki/스팀 "wikilink")에 출시되었다.
+***지미의 복수 (Jimmy's Vendetta)***는 [마피아 II의](../Page/마피아_II.md "wikilink") [다운로드 가능 콘텐츠](https://ko.wikipedia.org/wiki/다운로드_가능_콘텐츠 "wikilink") 중 두번째로 만들어진 것이다.. [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [10월 7일에](https://ko.wikipedia.org/wiki/10월_7일 "wikilink") [플레이스테이션 네트워크와](https://ko.wikipedia.org/wiki/플레이스테이션_네트워크 "wikilink") [엑스박스 라이브 마켓플레이스](https://ko.wikipedia.org/wiki/엑스박스_라이브_마켓플레이스 "wikilink") , [스팀](https://ko.wikipedia.org/wiki/스팀 "wikilink")에 출시되었다.
 
-***조의 모험 (Joe's Adventures)***는 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [12월 23일에](https://ko.wikipedia.org/wiki/12월_23일 "wikilink") 출시된 [마피아 II의](https://ko.wikipedia.org/wiki/마피아_II "wikilink") 세번째이자 마지막 [다운로드 가능 콘텐츠이다](https://ko.wikipedia.org/wiki/다운로드_가능_콘텐츠 "wikilink").
+***조의 모험 (Joe's Adventures)***는 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [12월 23일에](https://ko.wikipedia.org/wiki/12월_23일 "wikilink") 출시된 [마피아 II의](../Page/마피아_II.md "wikilink") 세번째이자 마지막 [다운로드 가능 콘텐츠이다](https://ko.wikipedia.org/wiki/다운로드_가능_콘텐츠 "wikilink").
 
 ## 언어
 

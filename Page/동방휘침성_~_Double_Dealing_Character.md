@@ -17,7 +17,7 @@
 
 ## 주인공 소개
 
-플레이어 기체는 [하쿠레이 레이무](https://ko.wikipedia.org/wiki/하쿠레이_레이무 "wikilink"), [키리사메 마리사](https://ko.wikipedia.org/wiki/키리사메_마리사 "wikilink") 외에 [이자요이 사쿠야도](https://ko.wikipedia.org/wiki/이자요이_사쿠야 "wikilink") 있다.
+플레이어 기체는 [하쿠레이 레이무](https://ko.wikipedia.org/wiki/하쿠레이_레이무 "wikilink"), [키리사메 마리사](https://ko.wikipedia.org/wiki/키리사메_마리사 "wikilink") 외에 [이자요이 사쿠야도](../Page/이자요이_사쿠야.md "wikilink") 있다.
 
 ### 하쿠레이 레이무
 
@@ -49,7 +49,7 @@
 
 #### 이마이즈미 카게로
 
-동방휘침성 3면 보스. 미혹의 죽림에 사는 여자 [늑대인간](https://ko.wikipedia.org/wiki/늑대인간 "wikilink"). (1905년 멸종된) 일본늑대(니홍오오카미)로 [변신](https://ko.wikipedia.org/wiki/변신 "wikilink")할 수 있다.
+동방휘침성 3면 보스. 미혹의 죽림에 사는 여자 [늑대인간](https://ko.wikipedia.org/wiki/늑대인간 "wikilink"). (1905년 멸종된) 일본늑대(니홍오오카미)로 [변신](../Page/변신.md "wikilink")할 수 있다.
 
 차분한 성격으로, 그 성격은 변신도 다르지 않다. 본인은 "자신의 의사로 날뛰고 있다"고 주장했지만 실제로는 요술 망치의 마력에 의해 흉포하게 되어 있었다. 원래는 '털이 많이 난다 ","탈모 처리가 번잡하다 "등의 이유로 [보름달](https://ko.wikipedia.org/wiki/보름달 "wikilink") 밤, 적막하게 살고 있다. 싸움에 힘들 것 같은 (마리사의 말) 롱 타입의 [드레스](https://ko.wikipedia.org/wiki/드레스 "wikilink")를 입고 있지만, 이것은 [보름달](https://ko.wikipedia.org/wiki/보름달 "wikilink") [밤](https://ko.wikipedia.org/wiki/밤 "wikilink")에 나는 체모에 당황하여 그것을 감추기 위한 것.
 

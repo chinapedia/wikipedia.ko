@@ -53,7 +53,7 @@
 
 <!-- end list -->
 
-  - [쿠보타 마사타카](https://ko.wikipedia.org/wiki/쿠보타_마사타카 "wikilink") : **키리하타 히카루** 역 (25)
+  - [쿠보타 마사타카](../Page/쿠보타_마사타카.md "wikilink") : **키리하타 히카루** 역 (25)
 
 <!-- end list -->
 
@@ -116,7 +116,7 @@
 
 <!-- end list -->
 
-  - [야마모토 미즈키](https://ko.wikipedia.org/wiki/야마모토_미즈키 "wikilink") : **호리키리 아오이** 역 (21)
+  - [야마모토 미즈키](../Page/야마모토_미즈키.md "wikilink") : **호리키리 아오이** 역 (21)
 
 <!-- end list -->
 
@@ -125,7 +125,7 @@
 
 <!-- end list -->
 
-  - [와타나베 아키라](https://ko.wikipedia.org/wiki/와타나베_아키라 "wikilink") : **타니야마 이즈미** 역
+  - [와타나베 아키라](../Page/와타나베_아키라.md "wikilink") : **타니야마 이즈미** 역
 
 <!-- end list -->
 
@@ -161,8 +161,8 @@
 
 <!-- end list -->
 
-  - [치바 유다이](https://ko.wikipedia.org/wiki/치바_유다이 "wikilink") : **요네다 하루오** 역 (25)
-  - [하시모토 나나미](https://ko.wikipedia.org/wiki/하시모토_나나미 "wikilink") : **이시카키 요코** 역 (20)
+  - [치바 유다이](../Page/치바_유다이.md "wikilink") : **요네다 하루오** 역 (25)
+  - [하시모토 나나미](../Page/하시모토_나나미.md "wikilink") : **이시카키 요코** 역 (20)
 
 <!-- end list -->
 

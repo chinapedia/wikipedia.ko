@@ -80,10 +80,10 @@
 | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ---- | -------------- |
 | 2006                                                                         | [인간극장](https://ko.wikipedia.org/wiki/인간극장 "wikilink")                   | 본인   | 무림남매, 소림사 가다 편 |
 | 2013                                                                         | [네일샵 파리스](../Page/네일샵_파리스.md "wikilink")                                |      | 단역(9회)         |
-| 2014                                                                         | [띠동갑내기 과외하기](https://ko.wikipedia.org/wiki/띠동갑내기_과외하기 "wikilink")       | 출연자  | 예능             |
+| 2014                                                                         | [띠동갑내기 과외하기](../Page/띠동갑내기_과외하기.md "wikilink")                          | 출연자  | 예능             |
 | 2015                                                                         | [스쿨랜드 절대비법](https://ko.wikipedia.org/wiki/스쿨랜드_절대비법 "wikilink")         | 지헤라  | EBS            |
-| 2016                                                                         | [무림학교](https://ko.wikipedia.org/wiki/무림학교 "wikilink")                   | 제니 오 |                |
-| [달의 연인 - 보보경심 려](https://ko.wikipedia.org/wiki/달의_연인_-_보보경심_려 "wikilink")    | 박순덕                                                                     |      |                |
+| 2016                                                                         | [무림학교](../Page/무림학교.md "wikilink")                                      | 제니 오 |                |
+| [달의 연인 - 보보경심 려](../Page/달의_연인_-_보보경심_려.md "wikilink")                       | 박순덕                                                                     |      |                |
 | [역도요정 김복주](https://ko.wikipedia.org/wiki/역도요정_김복주 "wikilink")                | 송시연                                                                     |      |                |
 | 2017                                                                         | [쌈 마이웨이](https://ko.wikipedia.org/wiki/쌈_마이웨이 "wikilink")               | 쏘니아  | 특별 출연          |
 | [학교 2017](https://ko.wikipedia.org/wiki/학교_2017 "wikilink")                  | 유빛나                                                                     |      |                |

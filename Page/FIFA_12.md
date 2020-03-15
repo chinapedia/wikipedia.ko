@@ -5,7 +5,7 @@
 
 ## 새로운 기능
 
-  - **플레이어 임펙트 엔진(Player Impact Engine) ([PC](https://ko.wikipedia.org/wiki/개인용_컴퓨터 "wikilink"), [플레이스테이션 3](https://ko.wikipedia.org/wiki/플레이스테이션_3 "wikilink"), [엑스박스 360](https://ko.wikipedia.org/wiki/엑스박스_360 "wikilink"))**: [플레이스테이션 3와](https://ko.wikipedia.org/wiki/플레이스테이션_3 "wikilink") [엑스박스 360](https://ko.wikipedia.org/wiki/엑스박스_360 "wikilink"), [PC](https://ko.wikipedia.org/wiki/개인용_컴퓨터 "wikilink") 버전 에선 새로운 엔진이 적용되었다. FIFA 12의 최대 장점이라고 할 수있으며 최대 단점이라고 할 수 있다. 장점은 선수들의 움직임이나 모션등은 전작보다 더욱 더 리얼하고 부드럽게 움직이며, 선수간의 충돌 모든 상호 작용이 임펙트엔진에 영향을 받는다. 단점이라고 하면, 끼이거나, 부딛혀 날라가거나 이러한 물리엔진의 단점 때문에 순식간에 경기장이 엉망이 될 수도 있다. [FIFA 13에선](https://ko.wikipedia.org/wiki/FIFA_13 "wikilink") 많이 보완되었다.
+  - **플레이어 임펙트 엔진(Player Impact Engine) ([PC](https://ko.wikipedia.org/wiki/개인용_컴퓨터 "wikilink"), [플레이스테이션 3](https://ko.wikipedia.org/wiki/플레이스테이션_3 "wikilink"), [엑스박스 360](https://ko.wikipedia.org/wiki/엑스박스_360 "wikilink"))**: [플레이스테이션 3와](https://ko.wikipedia.org/wiki/플레이스테이션_3 "wikilink") [엑스박스 360](https://ko.wikipedia.org/wiki/엑스박스_360 "wikilink"), [PC](https://ko.wikipedia.org/wiki/개인용_컴퓨터 "wikilink") 버전 에선 새로운 엔진이 적용되었다. FIFA 12의 최대 장점이라고 할 수있으며 최대 단점이라고 할 수 있다. 장점은 선수들의 움직임이나 모션등은 전작보다 더욱 더 리얼하고 부드럽게 움직이며, 선수간의 충돌 모든 상호 작용이 임펙트엔진에 영향을 받는다. 단점이라고 하면, 끼이거나, 부딛혀 날라가거나 이러한 물리엔진의 단점 때문에 순식간에 경기장이 엉망이 될 수도 있다. [FIFA 13에선](../Page/FIFA_13.md "wikilink") 많이 보완되었다.
 
 <!-- end list -->
 

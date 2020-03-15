@@ -22,7 +22,7 @@
 
 〈Viva la Vida〉의 공식 뮤직비디오는 [하이프 윌리엄스가](https://ko.wikipedia.org/wiki/하이프_윌리엄스 "wikilink") 감독을 맡았고 2008년 8월 1일 콜드플레이의 공식 홈페이지에서 초연되었다.\[6\] 이 비디오는 밴드가 흐릿하고 뒤틀린 버전의 [외젠 들라크루아의](https://ko.wikipedia.org/wiki/외젠_들라크루아 "wikilink") 그림 《[민중을 이끄는 자유의 여신](https://ko.wikipedia.org/wiki/민중을_이끄는_자유의_여신 "wikilink")》에 맞서 공연하는 모습을 그리고 있으며, 밴드 멤버들은 장미 꽃잎으로 부서지고 있다. 이 동영상은 현재 [유튜브](https://ko.wikipedia.org/wiki/유튜브 "wikilink") 조회수 5억9900만 건을 기록하고 있다.\[7\]
 
-[네덜란드](https://ko.wikipedia.org/wiki/네덜란드 "wikilink") [헤이그](https://ko.wikipedia.org/wiki/헤이그 "wikilink")에서 [안톤 코르빈](https://ko.wikipedia.org/wiki/안톤_코르빈 "wikilink") 감독이 연출한 두 번째 얼터너티브 비디오가 촬영되어 첫 번째 비디오와 함께 공개되었다.\[8\] 이 두 번째 버전은 [디페쉬 모드의](https://ko.wikipedia.org/wiki/디페쉬_모드 "wikilink") 〈[Enjoy the Silence](https://ko.wikipedia.org/wiki/Enjoy_the_Silence "wikilink")〉를 위한 코르빈의 비디오에 대한 찬사로, 크리스 마틴을 누구의 관점에서 노래하는 왕으로 묘사하고 있다. 비디오가 진행되는 동안 그는 들라크루아의 그림을 들고 다닌다. 마지막에 그는 언덕 꼭대기에 있는 하얀 노점에 그림을 걸어 놓는다. 그가 마지막 코러스를 부를 때, 그의 밴드 동료들은 〈[Violet Hill](https://ko.wikipedia.org/wiki/Violet_Hill "wikilink")〉 비디오에서 느슨한 끝을 묶으며 그의 길을 향해 가고 있다.
+[네덜란드](https://ko.wikipedia.org/wiki/네덜란드 "wikilink") [헤이그](https://ko.wikipedia.org/wiki/헤이그 "wikilink")에서 [안톤 코르빈](../Page/안톤_코르빈.md "wikilink") 감독이 연출한 두 번째 얼터너티브 비디오가 촬영되어 첫 번째 비디오와 함께 공개되었다.\[8\] 이 두 번째 버전은 [디페쉬 모드의](https://ko.wikipedia.org/wiki/디페쉬_모드 "wikilink") 〈[Enjoy the Silence](https://ko.wikipedia.org/wiki/Enjoy_the_Silence "wikilink")〉를 위한 코르빈의 비디오에 대한 찬사로, 크리스 마틴을 누구의 관점에서 노래하는 왕으로 묘사하고 있다. 비디오가 진행되는 동안 그는 들라크루아의 그림을 들고 다닌다. 마지막에 그는 언덕 꼭대기에 있는 하얀 노점에 그림을 걸어 놓는다. 그가 마지막 코러스를 부를 때, 그의 밴드 동료들은 〈[Violet Hill](https://ko.wikipedia.org/wiki/Violet_Hill "wikilink")〉 비디오에서 느슨한 끝을 묶으며 그의 길을 향해 가고 있다.
 
 ## 각주
 

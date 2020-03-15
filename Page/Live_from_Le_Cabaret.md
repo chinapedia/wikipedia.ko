@@ -5,7 +5,7 @@
 
 ## 수록곡
 
-1.  "[If I Never See Your Face Again](https://ko.wikipedia.org/wiki/If_I_Never_See_Your_Face_Again "wikilink")" – 4:14
+1.  "[If I Never See Your Face Again](../Page/If_I_Never_See_Your_Face_Again.md "wikilink")" – 4:14
 2.  "[Makes Me Wonder](https://ko.wikipedia.org/wiki/Makes_Me_Wonder "wikilink")" – 4:36
 3.  "[Harder To Breathe](https://ko.wikipedia.org/wiki/Harder_To_Breathe "wikilink")" – 2:54
 4.  "The Sun" – 8:21

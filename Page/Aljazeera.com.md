@@ -5,7 +5,7 @@
 
 ## 소유권 분쟁의 역사
 
-2011년 3월 이전에는 Aljazeera**[.com](https://ko.wikipedia.org/wiki/.com "wikilink")**은 동명의 [위성 방송이나](https://ko.wikipedia.org/wiki/위성_방송 "wikilink") [사우디아라비아](https://ko.wikipedia.org/wiki/사우디아라비아 "wikilink")에 있는 [신문사](https://ko.wikipedia.org/wiki/신문사 "wikilink")와는 무관한 '알 자지라' [잡지](https://ko.wikipedia.org/wiki/잡지 "wikilink")의 영어판 웹사이트였다. 방송사는 Aljazeera**[.net](https://ko.wikipedia.org/wiki/.net "wikilink")** 도메인을 사용하고 있었다.
+2011년 3월 이전에는 Aljazeera**[.com](https://ko.wikipedia.org/wiki/.com "wikilink")**은 동명의 [위성 방송이나](https://ko.wikipedia.org/wiki/위성_방송 "wikilink") [사우디아라비아](../Page/사우디아라비아.md "wikilink")에 있는 [신문사](https://ko.wikipedia.org/wiki/신문사 "wikilink")와는 무관한 '알 자지라' [잡지](https://ko.wikipedia.org/wiki/잡지 "wikilink")의 영어판 웹사이트였다. 방송사는 Aljazeera**[.net](https://ko.wikipedia.org/wiki/.net "wikilink")** 도메인을 사용하고 있었다.
 
 2005년 방송사에서 .com 도메인을 취득하려고 시도했으나 실패하였다.\[1\] [세계 지식 재산권 기구](https://ko.wikipedia.org/wiki/세계_지식_재산권_기구 "wikilink") 중재·조정 센터(Arbitration and Mediation Center)의 행정 패널 결정문에서는 출판사가 도메인을 구입한 시점 이후에 동명의 방송사가 설립되었기 때문에 출판사가 악의적인 의도로 도메인을 소유하고 있다는 방송사의 주장을 받아들이지 않았다.
 

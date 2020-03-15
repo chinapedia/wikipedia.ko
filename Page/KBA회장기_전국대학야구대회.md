@@ -285,7 +285,7 @@
 <tr class="even">
 <td><p>2011</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/동의대학교" title="wikilink">동의대학교</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이상민_(야구_선수)" title="wikilink">이상민</a>(동의대)</p></td>
+<td><p><a href="../Page/이상민_(야구_선수).md" title="wikilink">이상민</a>(동의대)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/성균관대학교" title="wikilink">성균관대학교</a></p></td>
 </tr>
 <tr class="odd">
@@ -297,7 +297,7 @@
 <tr class="even">
 <td><p>2013</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/동국대학교" title="wikilink">동국대학교</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/강민국" title="wikilink">강민국</a>(동국대)</p></td>
+<td><p><a href="../Page/강민국.md" title="wikilink">강민국</a>(동국대)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/홍익대학교" title="wikilink">홍익대학교</a></p></td>
 </tr>
 <tr class="odd">
@@ -307,15 +307,15 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/건국대학교" title="wikilink">건국대학교</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2015년_KBA회장기_전국대학야구대회_춘계리그" title="wikilink">2015</a></p></td>
+<td><p><a href="../Page/2015년_KBA회장기_전국대학야구대회_춘계리그.md" title="wikilink">2015</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/인하대학교" title="wikilink">인하대학교</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/임서준" title="wikilink">임서준</a>(인하대)</p></td>
+<td><p><a href="../Page/임서준.md" title="wikilink">임서준</a>(인하대)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/경남대학교" title="wikilink">경남대학교</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2016년_KBA회장기_전국대학야구대회_춘계리그" title="wikilink">2016</a></p></td>
+<td><p><a href="../Page/2016년_KBA회장기_전국대학야구대회_춘계리그.md" title="wikilink">2016</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/경성대학교" title="wikilink">경성대학교</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김명신_(야구_선수)" title="wikilink">김명신</a>(경성대)</p></td>
+<td><p><a href="../Page/김명신_(야구_선수).md" title="wikilink">김명신</a>(경성대)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/동의대학교" title="wikilink">동의대학교</a></p></td>
 </tr>
 <tr class="even">
@@ -613,11 +613,11 @@
 <tr class="odd">
 <td><p>2012</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/인하대학교" title="wikilink">인하대학교</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/박민호" title="wikilink">박민호</a>(인하대)</p></td>
+<td><p><a href="../Page/박민호.md" title="wikilink">박민호</a>(인하대)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/경희대학교" title="wikilink">경희대학교</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2013년_KBA회장기_전국대학야구대회_하계리그" title="wikilink">2013</a></p></td>
+<td><p><a href="../Page/2013년_KBA회장기_전국대학야구대회_하계리그.md" title="wikilink">2013</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/원광대학교" title="wikilink">원광대학교</a></p></td>
 <td><p>김성재(원광대)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/건국대학교" title="wikilink">건국대학교</a></p></td>

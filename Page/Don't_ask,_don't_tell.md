@@ -16,7 +16,7 @@
 ## 같이 보기
 
   - [동성애](https://ko.wikipedia.org/wiki/동성애 "wikilink")
-  - [나라별 법률에 따른 성소수자의 권리](https://ko.wikipedia.org/wiki/나라별_법률에_따른_성소수자의_권리 "wikilink")
+  - [나라별 법률에 따른 성소수자의 권리](../Page/나라별_법률에_따른_성소수자의_권리.md "wikilink")
 
 ## 각주
 

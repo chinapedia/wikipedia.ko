@@ -28,7 +28,7 @@
 ### 메인 캐릭터
 
   - 나나세 하루카 ()
-    성우 : [시마자키 노부나가](https://ko.wikipedia.org/wiki/시마자키_노부나가 "wikilink"), [마츠모토 메구미](https://ko.wikipedia.org/wiki/마츠모토_메구미 "wikilink") (초등학교 시절)
+    성우 : [시마자키 노부나가](../Page/시마자키_노부나가.md "wikilink"), [마츠모토 메구미](https://ko.wikipedia.org/wiki/마츠모토_메구미 "wikilink") (초등학교 시절)
     이와토비 고등학교 2학년. 2기에서는 3학년. 3기에서는 대학생. 신장은 175cm이고 체중은 63kg. 수영을 좋아하고, “물”이라는 것에 독자적인 가치관을 품고 있어 타임이나 승패에 관심 없다, 자유롭게 수영하는 것에 집착한다. 단신 부임으로 간 아버지에게 어머니가 동행해서 현재는 독신 생활 중. 소꿉 친구의 마코토와 나기사는 “하루”, “하루짱(ハルちゃん)”라고 불리는 일이 많지만, “짱(ちゃん)” 이라 부르는 것을 별로 좋아하지 않는다. 다니던 수영클럽이 문을 닫고 수영을 그만두고 있어 “스무살 지나면 평범한 사람”이라는 체관을 둘러싸는 무기력한 나날을 보내고 있다.
     마코토부터는 “물 없이는 살수가 없다”라고까지 할 정도로 “물”에 굶주려 있으며, 일상은 아침부터 수영복 착용으로 냉탕에 잠겨 그 후에도 옷으로 갈아입지않고 수영복에 앞치마 스타일로 고등어 요리를 하거나 교복 아래도 속옷 대신 수영복을 입는 등, “수영”에 관해서는 매우 집착하는 특이한 부분이 눈에 띈다.
 
@@ -75,7 +75,7 @@
     성우 : [아베 아츠시](https://ko.wikipedia.org/wiki/아베_아츠시 "wikilink")
     하루카, 마코토 졸업 후, 수영부 신입부원.
   - 이스루기 시즈루 ()
-    성우 : [마츠오카 요시츠구](https://ko.wikipedia.org/wiki/마츠오카_요시츠구 "wikilink")
+    성우 : [마츠오카 요시츠구](../Page/마츠오카_요시츠구.md "wikilink")
     하루카, 마코토 졸업 후, 수영부 신입부원.
   - 쿠니키다 아유무 ()
     성우 : [히로하시 료](https://ko.wikipedia.org/wiki/히로하시_료 "wikilink")
@@ -160,7 +160,7 @@
     성우 : [코보리 미유키](https://ko.wikipedia.org/wiki/코보리_미유키 "wikilink")
     타치바나 마코토의 동생. 검은 머리를 투 사이드 업으로 하고 있다.
   - 카토 카즈마 ()
-    성우 : [카세 야스유키](https://ko.wikipedia.org/wiki/카세_야스유키 "wikilink")
+    성우 : [카세 야스유키](../Page/카세_야스유키.md "wikilink")
     소스케의 사촌형. 소바집에 경영하고 있다.
   - 하울 ()
     성우 : [제프 매닝](https://ko.wikipedia.org/wiki/제프_매닝 "wikilink")
@@ -221,7 +221,7 @@
 
   - 엔딩 테마〈**SPLASH FREE**〉
     작사 : 코다마 사오리 / 작곡, 편곡 : 와타나베 야스시
-    노래 : STYLE FIVE \[나나세 하루카 (CV. [시마자키 노부나가](https://ko.wikipedia.org/wiki/시마자키_노부나가 "wikilink")), 타치바나 마코토 (CV. [스즈키 타츠히사](https://ko.wikipedia.org/wiki/스즈키_타츠히사 "wikilink")), 마츠오카 린 (CV. [미야노 마모루](https://ko.wikipedia.org/wiki/미야노_마모루 "wikilink")), 하즈키 나기사 (CV. [요나가 츠바사](https://ko.wikipedia.org/wiki/요나가_츠바사 "wikilink")), 류가자키 레이 (CV. [히라카와 다이스케](https://ko.wikipedia.org/wiki/히라카와_다이스케 "wikilink"))\]
+    노래 : STYLE FIVE \[나나세 하루카 (CV. [시마자키 노부나가](../Page/시마자키_노부나가.md "wikilink")), 타치바나 마코토 (CV. [스즈키 타츠히사](https://ko.wikipedia.org/wiki/스즈키_타츠히사 "wikilink")), 마츠오카 린 (CV. [미야노 마모루](https://ko.wikipedia.org/wiki/미야노_마모루 "wikilink")), 하즈키 나기사 (CV. [요나가 츠바사](https://ko.wikipedia.org/wiki/요나가_츠바사 "wikilink")), 류가자키 레이 (CV. [히라카와 다이스케](https://ko.wikipedia.org/wiki/히라카와_다이스케 "wikilink"))\]
 
 <!-- end list -->
 

@@ -21,7 +21,7 @@
 ## 같이 보기
 
   - [LG 옵티머스 L5](https://ko.wikipedia.org/wiki/LG_옵티머스_L5 "wikilink")
-  - [LG 옵티머스 L3 II](https://ko.wikipedia.org/wiki/LG_옵티머스_L3_II "wikilink")
+  - [LG 옵티머스 L3 II](../Page/LG_옵티머스_L3_II.md "wikilink")
   - [LG 옵티머스 L7 II](https://ko.wikipedia.org/wiki/LG_옵티머스_L7_II "wikilink")
   - [LG 옵티머스 F5](../Page/LG_옵티머스_F5.md "wikilink")
   - [LG 옵티머스 F7](../Page/LG_옵티머스_F7.md "wikilink")

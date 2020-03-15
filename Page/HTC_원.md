@@ -31,18 +31,18 @@
 
 ## 경쟁 기종
 
-  - [소니 엑스페리아 Z1](https://ko.wikipedia.org/wiki/소니_엑스페리아_Z1 "wikilink")
-  - [LG G2](https://ko.wikipedia.org/wiki/LG_G2 "wikilink")
-  - [ZTE 누비아 Z5](https://ko.wikipedia.org/wiki/ZTE_누비아_Z5 "wikilink")
-  - [화웨이 어센드 D2](https://ko.wikipedia.org/wiki/화웨이_어센드_D2 "wikilink")
-  - [화웨이 어센드 P6](https://ko.wikipedia.org/wiki/화웨이_어센드_P6 "wikilink")
+  - [소니 엑스페리아 Z1](../Page/소니_엑스페리아_Z1.md "wikilink")
+  - [LG G2](../Page/LG_G2.md "wikilink")
+  - [ZTE 누비아 Z5](../Page/ZTE_누비아_Z5.md "wikilink")
+  - [화웨이 어센드 D2](../Page/화웨이_어센드_D2.md "wikilink")
+  - [화웨이 어센드 P6](../Page/화웨이_어센드_P6.md "wikilink")
   - [삼성 갤럭시 S4](../Page/삼성_갤럭시_S4.md "wikilink")
 
 ## 같이 보기
 
   - [HTC J 버터플라이](https://ko.wikipedia.org/wiki/HTC_J_버터플라이 "wikilink")
-  - [HTC 원 미니](https://ko.wikipedia.org/wiki/HTC_원_미니 "wikilink")
-  - [HTC 버터플라이 S](https://ko.wikipedia.org/wiki/HTC_버터플라이_S "wikilink")
+  - [HTC 원 미니](../Page/HTC_원_미니.md "wikilink")
+  - [HTC 버터플라이 S](../Page/HTC_버터플라이_S.md "wikilink")
   - [구글 에디션](https://ko.wikipedia.org/wiki/구글_에디션 "wikilink")
 
 ## 각주

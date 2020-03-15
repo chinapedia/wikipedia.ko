@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [E-girls](https://ko.wikipedia.org/wiki/E-girls).
 
 
-**E-girls**는 [LDH에](https://ko.wikipedia.org/wiki/LDH_\(기업\) "wikilink") 소속된 여성 그룹 [Happiness](https://ko.wikipedia.org/wiki/Happiness_\(음악_그룹\) "wikilink"), [Flower를](https://ko.wikipedia.org/wiki/Flower_\(음악_그룹\) "wikilink") 중심으로 결성된 걸즈 엔터테인먼트 프로젝트이다. 크리에이티브 매니저:[다카모토 아야](https://ko.wikipedia.org/wiki/다카모토_아야 "wikilink")
+**E-girls**는 [LDH에](../Page/LDH_\(기업\).md "wikilink") 소속된 여성 그룹 [Happiness](../Page/Happiness_\(음악_그룹\).md "wikilink"), [Flower를](../Page/Flower_\(음악_그룹\).md "wikilink") 중심으로 결성된 걸즈 엔터테인먼트 프로젝트이다. 크리에이티브 매니저:[다카모토 아야](https://ko.wikipedia.org/wiki/다카모토_아야 "wikilink")
 
 [캐치프레이즈](https://ko.wikipedia.org/wiki/캐치프레이즈 "wikilink")는, 〈[EXILE](https://ko.wikipedia.org/wiki/EXILE "wikilink")의 D.N.A를 이어 받는 걸즈 엔터테인먼트 프로젝트〉 등.
 
@@ -18,20 +18,20 @@
 
 **2013년**
 
-  - 4월 17일, 1st 앨범 《[Lesson 1](https://ko.wikipedia.org/wiki/Lesson_1 "wikilink")》을 발매.
+  - 4월 17일, 1st 앨범 《[Lesson 1](../Page/Lesson_1.md "wikilink")》을 발매.
   - 11월 25일, 《제64회 [NHK 홍백가합전](https://ko.wikipedia.org/wiki/NHK_홍백가합전 "wikilink")》에 첫 출장하는 것이 결정된다\[1\]\[2\].
   - 12월 31일, 《제64회 NHK 홍백가합전》에 첫 출장한다.
 
 **2014년**
 
   - 1월, [HIRO](https://ko.wikipedia.org/wiki/이가라시_히로유키 "wikilink") (EXILE)에 의해 E-girls의 리더로 [Aya](https://ko.wikipedia.org/wiki/타카모토_아야 "wikilink") (Dream)가 임명된다.
-  - 3월 19일, 2nd 앨범 《[COLORFUL POP](https://ko.wikipedia.org/wiki/COLORFUL_POP "wikilink")》을 발매.
+  - 3월 19일, 2nd 앨범 《[COLORFUL POP](../Page/COLORFUL_POP.md "wikilink")》을 발매.
   - 7월, 첫 단독 투어 《COLORFUL LAND》를 개최.
   - 11월 26일, 《제65회 NHK 홍백가합전》에 출장하는 것이 결정된다\[3\].
 
 **2015년**
 
-  - 1월 1일, 3rd 앨범 《[E.G. TIME](https://ko.wikipedia.org/wiki/E.G._TIME "wikilink")》을 발매.
+  - 1월 1일, 3rd 앨범 《[E.G. TIME](../Page/E.G._TIME.md "wikilink")》을 발매.
   - 1월 27일, 26명에서 20명으로 인원을 축소하고 새로운 체제로 이행. 새롭게 하부 조직이 되는 그룹, Rabbits, Bunnies가 만들어졌다.
   - 2월 \~ 3월, 아레나 투어 《E-girls LIVE TOUR 2015 COLORFUL WORLD》를 개최.
 
@@ -42,33 +42,33 @@
 
 ## 멤버
 
-**[Happiness](https://ko.wikipedia.org/wiki/Happiness_\(음악_그룹\) "wikilink")**
+**[Happiness](../Page/Happiness_\(음악_그룹\).md "wikilink")**
 
-  - MIYUU (1996년 [8월 16일](https://ko.wikipedia.org/wiki/8월_16일 "wikilink") \~ )-[Happiness리더](https://ko.wikipedia.org/wiki/Happiness_\(음악_그룹\) "wikilink")
+  - MIYUU (1996년 [8월 16일](https://ko.wikipedia.org/wiki/8월_16일 "wikilink") \~ )-[Happiness리더](../Page/Happiness_\(음악_그룹\).md "wikilink")
   - SAYAKA ([1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [9월 20일](https://ko.wikipedia.org/wiki/9월_20일 "wikilink") \~ )
-  - [카에데](https://ko.wikipedia.org/wiki/카에데 "wikilink") ([1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") [1월 11일](https://ko.wikipedia.org/wiki/1월_11일 "wikilink") \~ )
-  - [후지이 카렌](https://ko.wikipedia.org/wiki/후지이_카렌 "wikilink") (1996년 7월 16일 \~ )-[E-girls](https://ko.wikipedia.org/wiki/E-girls "wikilink")서브리더
+  - [카에데](../Page/카에데.md "wikilink") ([1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") [1월 11일](https://ko.wikipedia.org/wiki/1월_11일 "wikilink") \~ )
+  - [후지이 카렌](../Page/후지이_카렌.md "wikilink") (1996년 7월 16일 \~ )-[E-girls](../Page/E-girls.md "wikilink")서브리더
   - YURINO (1996년 [2월 6일](https://ko.wikipedia.org/wiki/2월_6일 "wikilink") \~ )-스단나유즈유리멤버
-  - [스다 안나](https://ko.wikipedia.org/wiki/스다_안나 "wikilink") ([1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [10월 12일](https://ko.wikipedia.org/wiki/10월_12일 "wikilink") \~ )-[E-girls](https://ko.wikipedia.org/wiki/E-girls "wikilink")서브리더, 스단나유즈유리멤버
+  - [스다 안나](../Page/스다_안나.md "wikilink") ([1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [10월 12일](https://ko.wikipedia.org/wiki/10월_12일 "wikilink") \~ )-[E-girls](../Page/E-girls.md "wikilink")서브리더, 스단나유즈유리멤버
   - 카와모토 루리 (1996년 [4월 12일](https://ko.wikipedia.org/wiki/4월_12일 "wikilink") \~ )
 
-**[Flower](https://ko.wikipedia.org/wiki/Flower_\(음악_그룹\) "wikilink")**
+**[Flower](../Page/Flower_\(음악_그룹\).md "wikilink")**
 
-  - 시게토메 마나미 (1994년 [12월 11일](https://ko.wikipedia.org/wiki/12월_11일 "wikilink") \~ )-[Flower리더](https://ko.wikipedia.org/wiki/Flower_\(음악_그룹\) "wikilink")
+  - 시게토메 마나미 (1994년 [12월 11일](https://ko.wikipedia.org/wiki/12월_11일 "wikilink") \~ )-[Flower리더](../Page/Flower_\(음악_그룹\).md "wikilink")
   - 나카지마 미오 ([1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") [11월 23일](https://ko.wikipedia.org/wiki/11월_23일 "wikilink") \~ )
-  - [와시오 레이나](https://ko.wikipedia.org/wiki/와시오_레이나 "wikilink") (1994년 [1월 20일](https://ko.wikipedia.org/wiki/1월_20일 "wikilink") \~ )
+  - [와시오 레이나](../Page/와시오_레이나.md "wikilink") (1994년 [1월 20일](https://ko.wikipedia.org/wiki/1월_20일 "wikilink") \~ )
   - 반도 노조미 (1997년 [9월 4일](https://ko.wikipedia.org/wiki/9월_4일 "wikilink") \~ )
-  - 사토 하루미 (1995년 [6월 8일](https://ko.wikipedia.org/wiki/6월_8일 "wikilink") \~ )-[E-girls](https://ko.wikipedia.org/wiki/E-girls "wikilink")리더
+  - 사토 하루미 (1995년 [6월 8일](https://ko.wikipedia.org/wiki/6월_8일 "wikilink") \~ )-[E-girls](../Page/E-girls.md "wikilink")리더
 
 **스단나유즈유리**
 
-  - YURINO (1996년 [2월 6일](https://ko.wikipedia.org/wiki/2월_6일 "wikilink") \~ )-[Happiness멤버](https://ko.wikipedia.org/wiki/Happiness_\(음악_그룹\) "wikilink")
-  - [스다 안나](https://ko.wikipedia.org/wiki/스다_안나 "wikilink") ([1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [10월 12일](https://ko.wikipedia.org/wiki/10월_12일 "wikilink") \~ )-서브리더, [Happiness멤버](https://ko.wikipedia.org/wiki/Happiness_\(음악_그룹\) "wikilink")
+  - YURINO (1996년 [2월 6일](https://ko.wikipedia.org/wiki/2월_6일 "wikilink") \~ )-[Happiness멤버](../Page/Happiness_\(음악_그룹\).md "wikilink")
+  - [스다 안나](../Page/스다_안나.md "wikilink") ([1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [10월 12일](https://ko.wikipedia.org/wiki/10월_12일 "wikilink") \~ )-서브리더, [Happiness멤버](../Page/Happiness_\(음악_그룹\).md "wikilink")
   - 타케베 유즈나 (1998년 [6월 17일](https://ko.wikipedia.org/wiki/6월_17일 "wikilink") \~ )-그외멤버
 
 그 외
 
-  - [이시이 안나](https://ko.wikipedia.org/wiki/이시이_안나_\(배우\) "wikilink") ([1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") [7월 11일](https://ko.wikipedia.org/wiki/7월_11일 "wikilink") \~ )
+  - [이시이 안나](../Page/이시이_안나_\(배우\).md "wikilink") ([1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") [7월 11일](https://ko.wikipedia.org/wiki/7월_11일 "wikilink") \~ )
   - 야마구치 노노카 (1998년 [3월 8일](https://ko.wikipedia.org/wiki/3월_8일 "wikilink") \~ )
   - 타케베 유즈나 (1998년 [6월 17일](https://ko.wikipedia.org/wiki/6월_17일 "wikilink") \~ )-스단나유즈유리멤버
 
@@ -222,12 +222,12 @@
 
 #### 오리지널 앨범
 
-|   | 발매일          | 타이틀                                                                       | 최고 순위 |
-| - | ------------ | ------------------------------------------------------------------------- | ----- |
-| 1 | 2013년 4월 17일 | **[Lesson 1](https://ko.wikipedia.org/wiki/Lesson_1 "wikilink")**         | 1위    |
-| 2 | 2014년 3월 19일 | **[COLORFUL POP](https://ko.wikipedia.org/wiki/COLORFUL_POP "wikilink")** | 1위    |
-| 3 | 2015년 1월 1일  | **[E.G. TIME](https://ko.wikipedia.org/wiki/E.G._TIME "wikilink")**       | 1위    |
-| 4 | 2017년 1월 18일 | **[E.G. CRAZY](https://ko.wikipedia.org/wiki/E.G._CRAZY "wikilink")**     | 1위    |
+|   | 발매일          | 타이틀                                                                   | 최고 순위 |
+| - | ------------ | --------------------------------------------------------------------- | ----- |
+| 1 | 2013년 4월 17일 | **[Lesson 1](../Page/Lesson_1.md "wikilink")**                        | 1위    |
+| 2 | 2014년 3월 19일 | **[COLORFUL POP](../Page/COLORFUL_POP.md "wikilink")**                | 1위    |
+| 3 | 2015년 1월 1일  | **[E.G. TIME](../Page/E.G._TIME.md "wikilink")**                      | 1위    |
+| 4 | 2017년 1월 18일 | **[E.G. CRAZY](https://ko.wikipedia.org/wiki/E.G._CRAZY "wikilink")** | 1위    |
 
 #### 베스트 앨범
 

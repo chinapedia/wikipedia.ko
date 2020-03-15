@@ -47,9 +47,9 @@
 <tr class="odd">
 <td><p>2017년 4월 30일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/산호세_(캘리포니아주)" title="wikilink">새너제이</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/SAP_센터_앳_새너제이" title="wikilink">SAP 센터 앳 새너제이</a></p></td>
+<td><p><a href="../Page/SAP_센터_앳_새너제이.md" title="wikilink">SAP 센터 앳 새너제이</a></p></td>
 <td><p>13,694</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/로만_레인즈" title="wikilink">로만 레인즈</a> vs. <a href="https://ko.wikipedia.org/wiki/브라운_스트로우먼" title="wikilink">브라운 스트로우먼</a> (싱글 매치)</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/로만_레인즈" title="wikilink">로만 레인즈</a> vs. <a href="../Page/브라운_스트로우먼.md" title="wikilink">브라운 스트로우먼</a> (싱글 매치)</p></td>
 </tr>
 </tbody>
 </table>

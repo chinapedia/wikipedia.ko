@@ -14,7 +14,7 @@
 
 <!-- end list -->
 
-  - **[레가 프로 프리마 디비시오네](https://ko.wikipedia.org/wiki/레가_프로_프리마_디비시오네 "wikilink")**
+  - **[레가 프로 프리마 디비시오네](../Page/레가_프로_프리마_디비시오네.md "wikilink")**
       - 승격: 2010-11 (플레이오프)
 
 <!-- end list -->

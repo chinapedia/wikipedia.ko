@@ -51,7 +51,7 @@
 
 ## [유나이티드 사커 리그](https://ko.wikipedia.org/wiki/유나이티드_사커_리그 "wikilink") 제휴팀
 
-  - [윌밍턴 해머헤즈 FC](https://ko.wikipedia.org/wiki/윌밍턴_해머헤즈_FC "wikilink") (월밍턴, 노스캐롤라이나)
+  - [윌밍턴 해머헤즈 FC](../Page/윌밍턴_해머헤즈_FC.md "wikilink") (월밍턴, 노스캐롤라이나)
 
 ## 같이 보기
 
@@ -60,7 +60,7 @@
   - [뉴욕 양키스](https://ko.wikipedia.org/wiki/뉴욕_양키스 "wikilink") ([메이저 리그 베이스볼](https://ko.wikipedia.org/wiki/메이저_리그_베이스볼 "wikilink"))
   - [뉴욕 레드불스](https://ko.wikipedia.org/wiki/뉴욕_레드불스 "wikilink") ([메이저 리그 사커](https://ko.wikipedia.org/wiki/메이저_리그_사커 "wikilink"))
   - [뉴욕 코스모스](https://ko.wikipedia.org/wiki/뉴욕_코스모스 "wikilink") ([북미 축구 리그](https://ko.wikipedia.org/wiki/북미_축구_리그 "wikilink"))
-  - [뉴욕 레드불스 II](https://ko.wikipedia.org/wiki/뉴욕_레드불스_II "wikilink") ([유나이티드 사커 리그](https://ko.wikipedia.org/wiki/유나이티드_사커_리그 "wikilink"))
+  - [뉴욕 레드불스 II](../Page/뉴욕_레드불스_II.md "wikilink") ([유나이티드 사커 리그](https://ko.wikipedia.org/wiki/유나이티드_사커_리그 "wikilink"))
 
 ## 참고 자료
 

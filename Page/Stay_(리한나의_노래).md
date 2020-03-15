@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Stay \( \)](https://ko.wikipedia.org/wiki/Stay_\(_\)).
 
 
-"**Stay**"는 [바베이도스](https://ko.wikipedia.org/wiki/바베이도스 "wikilink")의 가수 [리한나](https://ko.wikipedia.org/wiki/리한나 "wikilink")의 앨범 *[Unapologetic](https://ko.wikipedia.org/wiki/Unapologetic "wikilink")* 에 수록되어 있는 노래이다. [빌보드 핫 100](https://ko.wikipedia.org/wiki/빌보드_핫_100 "wikilink") 차트에서 3위 까지 오른 적이 있다.
+"**Stay**"는 [바베이도스](https://ko.wikipedia.org/wiki/바베이도스 "wikilink")의 가수 [리한나](https://ko.wikipedia.org/wiki/리한나 "wikilink")의 앨범 *[Unapologetic](../Page/Unapologetic.md "wikilink")* 에 수록되어 있는 노래이다. [빌보드 핫 100](https://ko.wikipedia.org/wiki/빌보드_핫_100 "wikilink") 차트에서 3위 까지 오른 적이 있다.
 
 ## 외부 링크
 

@@ -19,7 +19,7 @@
 }}
 
 ` | group3 = 원더우먼`
-` | list3  = `[`원더우먼`](https://ko.wikipedia.org/wiki/원더우먼_\(2017년_영화\) "wikilink")`{{·}} `[`원더우먼``   ``1984`](https://ko.wikipedia.org/wiki/원더우먼_1984 "wikilink")
+` | list3  = `[`원더우먼`](../Page/원더우먼_\(2017년_영화\).md "wikilink")`{{·}} `[`원더우먼``   ``1984`](https://ko.wikipedia.org/wiki/원더우먼_1984 "wikilink")
 
 ` | group4 = 레드`
 ` | list4  = `[`레드`](https://ko.wikipedia.org/wiki/레드_\(2010년_영화\) "wikilink")`{{·}} `[`레드:``   ``더``   ``레전드`](https://ko.wikipedia.org/wiki/레드:_더_레전드 "wikilink")

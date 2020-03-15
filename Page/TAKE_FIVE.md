@@ -17,7 +17,7 @@
     경비 회사·제1보안 방범 시스템 개발부 직원. 동도 은행 보안 시스템의 설계자.
   - 미나미 신이치 (50) - 롯카쿠 세이지
     와카바 종합 병원 약제사. 호무라의 옛 친구의 동료. 현재는 쇼코와 결혼해 4살인 딸, 모모카가 있다.
-  - 히오카 타모츠 (26) - [이리에 진기](https://ko.wikipedia.org/wiki/이리에_진기 "wikilink") (소년 시절:스다 에이토)
+  - 히오카 타모츠 (26) - [이리에 진기](../Page/이리에_진기.md "wikilink") (소년 시절:스다 에이토)
     1986년 10월 14일 출생. 고양이에 서투름. 중장비 메이커의 시험 주행 담당자. 할아버지는 원 TAKE FIVE의 멤버.
   - 이와츠키 카이 - [이나가키 고로](https://ko.wikipedia.org/wiki/이나가키_고로 "wikilink") ([SMAP](https://ko.wikipedia.org/wiki/SMAP "wikilink"))
     시바다이몬 경찰서 형사.
@@ -31,7 +31,7 @@
 
 #### 관계자
 
-  - 사사하라 루이 - [마츠유키 야스코](https://ko.wikipedia.org/wiki/마츠유키_야스코 "wikilink") (소녀 시절:[히로세 스즈](https://ko.wikipedia.org/wiki/히로세_스즈 "wikilink"))
+  - 사사하라 루이 - [마츠유키 야스코](https://ko.wikipedia.org/wiki/마츠유키_야스코 "wikilink") (소녀 시절:[히로세 스즈](../Page/히로세_스즈.md "wikilink"))
     시바다이몬 경찰서 도범 담당 형사. TAKE FIVE가 일으킨 사건으로 아버지를 여읜다.
   - 사사하라 사에 - 에다 유카
     루이의 동생. 죠쿄 대학 심리학부에 다니는 학생. 이전에는 경찰관을 지망했지만, 호무라의 강의의 영향으로 대학원을 진학하고 싶다고 생각하게 된다.
@@ -46,7 +46,7 @@
 
   - 마스다 코조 - [덴덴](https://ko.wikipedia.org/wiki/덴덴 "wikilink")
     도범 담당 계장.
-  - 야노 쇼타로 (23) - [치바 유다이](https://ko.wikipedia.org/wiki/치바_유다이 "wikilink")
+  - 야노 쇼타로 (23) - [치바 유다이](../Page/치바_유다이.md "wikilink")
     도범 담당.
   - 카가와 류이치 - 아베 신노스케
     도품 관리계.

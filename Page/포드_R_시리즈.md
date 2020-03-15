@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [ R ](https://ko.wikipedia.org/wiki/_R_).
 
 
-''' 포드 R 시리즈 '''는 [현대](https://ko.wikipedia.org/wiki/현대 "wikilink")[자동차](https://ko.wikipedia.org/wiki/자동차 "wikilink")가 포드 영국법인의 제휴로 제작한 [현대자동차](https://ko.wikipedia.org/wiki/현대자동차 "wikilink") 최초의 도시형[버스](https://ko.wikipedia.org/wiki/버스 "wikilink")형 대형[버스](https://ko.wikipedia.org/wiki/버스 "wikilink")이다. [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink")에 [R192](https://ko.wikipedia.org/wiki/포드_R_시리즈 "wikilink") 첫 출시 이후, [1977년](https://ko.wikipedia.org/wiki/1977년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink")에 후속모델인 [HD160/HD170에게](https://ko.wikipedia.org/wiki/현대_HD "wikilink") 물려주고 단종된 프론트엔진 대형 버스 차종이다.
+''' 포드 R 시리즈 '''는 [현대](https://ko.wikipedia.org/wiki/현대 "wikilink")[자동차](https://ko.wikipedia.org/wiki/자동차 "wikilink")가 포드 영국법인의 제휴로 제작한 [현대자동차](https://ko.wikipedia.org/wiki/현대자동차 "wikilink") 최초의 도시형[버스](https://ko.wikipedia.org/wiki/버스 "wikilink")형 대형[버스](https://ko.wikipedia.org/wiki/버스 "wikilink")이다. [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink")에 [R192](../Page/포드_R_시리즈.md "wikilink") 첫 출시 이후, [1977년](https://ko.wikipedia.org/wiki/1977년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink")에 후속모델인 [HD160/HD170에게](https://ko.wikipedia.org/wiki/현대_HD "wikilink") 물려주고 단종된 프론트엔진 대형 버스 차종이다.
 
 ## 특징
 
 전형적인 전방 엔진-후륜 구동(FR) 방식의 버스이다.
 
-[1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink") [R192](https://ko.wikipedia.org/wiki/포드_R_시리즈 "wikilink") 이 먼저 출시되었고, 이듬해인 [1970년](https://ko.wikipedia.org/wiki/1970년 "wikilink") [R182](https://ko.wikipedia.org/wiki/포드_R_시리즈 "wikilink") 이 출시되어 이 후로 2종류 차종으로 병행 생산하였다.
+[1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink") [R192](../Page/포드_R_시리즈.md "wikilink") 이 먼저 출시되었고, 이듬해인 [1970년](https://ko.wikipedia.org/wiki/1970년 "wikilink") [R182](../Page/포드_R_시리즈.md "wikilink") 이 출시되어 이 후로 2종류 차종으로 병행 생산하였다.
 
 ## R
 

@@ -22,12 +22,12 @@ e.g. [건스 앤 로지스의](https://ko.wikipedia.org/wiki/건스_앤_로지�
 **어벤지드 세븐폴드**
 
   - *[Sounding The Seventh Trumpet](https://ko.wikipedia.org/wiki/Sounding_The_Seventh_Trumpet "wikilink")* (2001)
-  - *[Waking the Fallen](https://ko.wikipedia.org/wiki/Waking_the_Fallen "wikilink")* (2003)
-  - *[City of Evil](https://ko.wikipedia.org/wiki/City_of_Evil "wikilink")* (2005)
-  - *[Avenged Sevenfold](https://ko.wikipedia.org/wiki/Avenged_Sevenfold "wikilink")* (2007)
-  - *[Live in the LBC & Diamonds in the Rough](https://ko.wikipedia.org/wiki/Live_in_the_LBC_&_Diamonds_in_the_Rough "wikilink")* (2008)
+  - *[Waking the Fallen](../Page/Waking_the_Fallen.md "wikilink")* (2003)
+  - *[City of Evil](../Page/City_of_Evil.md "wikilink")* (2005)
+  - *[Avenged Sevenfold](../Page/Avenged_Sevenfold.md "wikilink")* (2007)
+  - *[Live in the LBC & Diamonds in the Rough](../Page/Live_in_the_LBC_&_Diamonds_in_the_Rough.md "wikilink")* (2008)
   - *[Nightmare](https://ko.wikipedia.org/wiki/Nightmare "wikilink")* (2010)
-  - *[Hail to the King](https://ko.wikipedia.org/wiki/Hail_to_the_King "wikilink")* (2013)
+  - *[Hail to the King](../Page/Hail_to_the_King.md "wikilink")* (2013)
   - *[The Stage](https://ko.wikipedia.org/wiki/The_Stage "wikilink")* (2016)
 
 [분류:1981년 태어남](https://ko.wikipedia.org/wiki/분류:1981년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:미국의 남자 가수](https://ko.wikipedia.org/wiki/분류:미국의_남자_가수 "wikilink") [분류:미국의 헤비 메탈 가수](https://ko.wikipedia.org/wiki/분류:미국의_헤비_메탈_가수 "wikilink") [분류:캘리포니아주 출신 음악가](https://ko.wikipedia.org/wiki/분류:캘리포니아주_출신_음악가 "wikilink")

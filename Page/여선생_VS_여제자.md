@@ -20,7 +20,7 @@
   - [이재구](https://ko.wikipedia.org/wiki/이재구_\(배우\) "wikilink") : 김준성 역
   - [하덕성](https://ko.wikipedia.org/wiki/하덕성 "wikilink") : 반동만 역
   - [최보광](https://ko.wikipedia.org/wiki/최정인_\(배우\) "wikilink") : 장수경 역
-  - [김정영](https://ko.wikipedia.org/wiki/김정영 "wikilink") : 양경미 역
+  - [김정영](../Page/김정영.md "wikilink") : 양경미 역
   - 박길순 : 유부녀여선생 역
   - 이영미 : 유부녀여선생 역
   - 황경애 : 유부녀여선생 역
@@ -32,8 +32,8 @@
   - 정세리 : 어린 미옥 역
   - 김재옥 : 포장마차손님 역
   - 이종수 : 신참경찰 역
-  - [나재균](https://ko.wikipedia.org/wiki/나재균 "wikilink") : 경수 부 역
-  - [구본임](https://ko.wikipedia.org/wiki/구본임 "wikilink") : 경수 모 역
+  - [나재균](../Page/나재균.md "wikilink") : 경수 부 역
+  - [구본임](../Page/구본임.md "wikilink") : 경수 모 역
   - 이연우 드라마여 역
   - 김덕주 : 항의학부모 역
   - 신현종 : 항의학부모 역

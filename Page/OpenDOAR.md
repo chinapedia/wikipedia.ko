@@ -5,7 +5,7 @@
 
 ## 역사
 
-초기 OpenDOAR는 [SHERPA](../Page/SHERPA.md "wikilink")아래 오픈 액세스 및 저장소 작업 포트폴리오의 일부로 노팅엄 대학에 의해 개발되고 유지되었다. OpenDOAR는 노팅엄 대학, 영국, 룬드 대학, 스웨덴, [DOAJ](https://ko.wikipedia.org/wiki/DOAJ "wikilink")집에 의해 시작되고 처음으로 개발되었다. 초기 이후 현재 2011년 5월를 통해 [JISC](https://ko.wikipedia.org/wiki/JISC "wikilink")에 의해 자금 지원을 받고 있다. 이 시간 동안 목록뿐만 아니라 미래 서비스에 대한 미래의 지속 가능성 모델에 대한 조사 및 계획으로 개발되고 있다.\[3\]
+초기 OpenDOAR는 [SHERPA](../Page/SHERPA.md "wikilink")아래 오픈 액세스 및 저장소 작업 포트폴리오의 일부로 노팅엄 대학에 의해 개발되고 유지되었다. OpenDOAR는 노팅엄 대학, 영국, 룬드 대학, 스웨덴, [DOAJ](../Page/DOAJ.md "wikilink")집에 의해 시작되고 처음으로 개발되었다. 초기 이후 현재 2011년 5월를 통해 [JISC](https://ko.wikipedia.org/wiki/JISC "wikilink")에 의해 자금 지원을 받고 있다. 이 시간 동안 목록뿐만 아니라 미래 서비스에 대한 미래의 지속 가능성 모델에 대한 조사 및 계획으로 개발되고 있다.\[3\]
 
 ## 소개
 
@@ -20,7 +20,7 @@ OpenDOAR는 주로 국제 사회의 학술 및 연구 활동을 강화하고 지
 openDOAR는 전적으로 학문 연구에 사용이 된다. 전체 텍스트 리소스에 대한 Open Access의 개념은 포용 사이트에서 정보를 수집하고 제공하는 방식을 채택하였다. 따라서 접근을 제어하는 형태가 즉각적으로 접근을 방지하는 사이트는 포함되지 않는다. 마찬가지로 메타데이터의 레코드를 구성하는 사이트 또한 포함되지 않는다. 그러나 OpenDOAR는 자원을 다시 사용할 수 있도록 하는 문서나 메타데이터를 이미지 또는 데이터 집합의 예를 들어 다른 유형으로 나열해준다. OpenDOAR의 사이트를 나열하지 않는 이유는 다음과 같다.\[7\]
 
   - 사이트의 반복적인 접근불가
-  - 사이트는 전자저널이어야 한다(open access가 가능하거나 [DOAJ](https://ko.wikipedia.org/wiki/DOAJ "wikilink")에서 볼 수 있는)
+  - 사이트는 전자저널이어야 한다(open access가 가능하거나 [DOAJ](../Page/DOAJ.md "wikilink")에서 볼 수 있는)
   - 사이트는 서지참조 전용 또는 외부 사이트에 대한 링크가 포함되어 있다.
   - 사이트는 Open Access가 아닌 자원도 포함한다.
   - 사이트는 도서관 카탈로그나 지역적으로 접근 가능한 [e-book](https://ko.wikipedia.org/wiki/e-book "wikilink")의 모음이다.

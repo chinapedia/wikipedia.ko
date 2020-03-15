@@ -19,11 +19,11 @@
 
 ## 역대 진행자
 
-| 역대 | 진행자                                                        | 진행 기간                                                                                                                                                                                                                                    |
-| -- | ---------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1대 | 조현진                                                        | [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [11월 21일](https://ko.wikipedia.org/wiki/11월_21일 "wikilink") \~ [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [2월 27일](https://ko.wikipedia.org/wiki/2월_27일 "wikilink") |
-| 2대 | 이승기                                                        | [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [3월 6일](https://ko.wikipedia.org/wiki/3월_6일 "wikilink") \~ [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [7월 22일](https://ko.wikipedia.org/wiki/7월_22일 "wikilink")     |
-| 3대 | [이소정](https://ko.wikipedia.org/wiki/이소정_\(기자\) "wikilink") | [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [8월 5일](https://ko.wikipedia.org/wiki/8월_5일 "wikilink") \~ [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [4월 5일](https://ko.wikipedia.org/wiki/4월_5일 "wikilink")       |
+| 역대 | 진행자                                     | 진행 기간                                                                                                                                                                                                                                    |
+| -- | --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1대 | 조현진                                     | [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [11월 21일](https://ko.wikipedia.org/wiki/11월_21일 "wikilink") \~ [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [2월 27일](https://ko.wikipedia.org/wiki/2월_27일 "wikilink") |
+| 2대 | 이승기                                     | [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [3월 6일](https://ko.wikipedia.org/wiki/3월_6일 "wikilink") \~ [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [7월 22일](https://ko.wikipedia.org/wiki/7월_22일 "wikilink")     |
+| 3대 | [이소정](../Page/이소정_\(기자\).md "wikilink") | [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [8월 5일](https://ko.wikipedia.org/wiki/8월_5일 "wikilink") \~ [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [4월 5일](https://ko.wikipedia.org/wiki/4월_5일 "wikilink")       |
 
 ## 타이틀 변천사
 

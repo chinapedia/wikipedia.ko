@@ -33,7 +33,7 @@
 
 [250px](https://ko.wikipedia.org/wiki/파일:Mazda_ROADSTER_S_Special_Package_\(ND\)_front.JPG "wikilink") [250px](https://ko.wikipedia.org/wiki/파일:Mazda_ROADSTER_S_Special_Package_\(ND\)_rear.JPG "wikilink")
 
-[2015년 5월에](https://ko.wikipedia.org/wiki/2015년_5월 "wikilink") 출시되었으며, [피아트](https://ko.wikipedia.org/wiki/피아트 "wikilink")와의 정식 사업 계획을 체결하고, 합작으로 만든 첫 차종이다. 초고장력 강판을 58%에서 71%로 확대하였으며, 대폭적인 경량화를 통해 1세대와 같은 990kg의 중량을 달성했다. 1.5ℓ 엔진으로 다운 사이징했으며, 131마력의 출력을 낸다. 여기에 6단 [수동변속기](https://ko.wikipedia.org/wiki/수동변속기 "wikilink")나 6단 [자동변속기](https://ko.wikipedia.org/wiki/자동변속기 "wikilink")를 맞물린다. 같은 해 [9월](https://ko.wikipedia.org/wiki/9월 "wikilink")에는 레이싱 그레이드인 NR-A를 추가하였으며, [10월](https://ko.wikipedia.org/wiki/10월 "wikilink")에는 RS 그레이드를 추가했다. 2019년 nd2 2.0 185마력모델이 나왔다 {{-}}
+[2015년 5월에](../Page/2015년_5월.md "wikilink") 출시되었으며, [피아트](https://ko.wikipedia.org/wiki/피아트 "wikilink")와의 정식 사업 계획을 체결하고, 합작으로 만든 첫 차종이다. 초고장력 강판을 58%에서 71%로 확대하였으며, 대폭적인 경량화를 통해 1세대와 같은 990kg의 중량을 달성했다. 1.5ℓ 엔진으로 다운 사이징했으며, 131마력의 출력을 낸다. 여기에 6단 [수동변속기](https://ko.wikipedia.org/wiki/수동변속기 "wikilink")나 6단 [자동변속기](https://ko.wikipedia.org/wiki/자동변속기 "wikilink")를 맞물린다. 같은 해 [9월](https://ko.wikipedia.org/wiki/9월 "wikilink")에는 레이싱 그레이드인 NR-A를 추가하였으며, [10월](https://ko.wikipedia.org/wiki/10월 "wikilink")에는 RS 그레이드를 추가했다. 2019년 nd2 2.0 185마력모델이 나왔다 {{-}}
 
 ## 외부 링크
 

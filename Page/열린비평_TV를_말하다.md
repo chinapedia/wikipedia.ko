@@ -17,7 +17,7 @@
   - [열린 TV 시청자 세상](https://ko.wikipedia.org/wiki/열린_TV_시청자_세상 "wikilink") (SBS)
   - [TV비평 시청자데스크](https://ko.wikipedia.org/wiki/TV비평_시청자데스크 "wikilink") (KBS)
   - [채널A 시청자 마당](../Page/채널A_시청자_마당.md "wikilink") (채널A)
-  - [열린TV 열린세상](https://ko.wikipedia.org/wiki/열린TV_열린세상 "wikilink") (MBN)
+  - [열린TV 열린세상](../Page/열린TV_열린세상.md "wikilink") (MBN)
   - [시청자 의회](../Page/시청자_의회.md "wikilink") (JTBC)
   - [YTN 시민데스크](https://ko.wikipedia.org/wiki/YTN_시민데스크 "wikilink") (YTN)
   - [미디어 공감 좋은TV](https://ko.wikipedia.org/wiki/미디어_공감_좋은TV "wikilink") (OBS경인TV)

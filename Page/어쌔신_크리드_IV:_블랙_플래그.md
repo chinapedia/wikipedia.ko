@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [  IV:  ](https://ko.wikipedia.org/wiki/__IV:__).
 
 
-《**어쌔신 크리드 IV**》(Assassin's Creed IV : Black Flag)는 어쌔신크리드 3의 후속작이며 [유비소프트 몬트리올이](https://ko.wikipedia.org/wiki/유비소프트 "wikilink") 개발하고 [유비소프트](https://ko.wikipedia.org/wiki/유비소프트 "wikilink")가 발행하는 [액션 어드벤처](https://ko.wikipedia.org/wiki/액션_어드벤처 "wikilink") [게임으로](https://ko.wikipedia.org/wiki/비디오_게임 "wikilink"), [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [11월 01일](https://ko.wikipedia.org/wiki/11월_01일 "wikilink") [플레이스테이션 3와](https://ko.wikipedia.org/wiki/플레이스테이션_3 "wikilink") [엑스박스 360](https://ko.wikipedia.org/wiki/엑스박스_360 "wikilink"), [플레이스테이션 4와](https://ko.wikipedia.org/wiki/플레이스테이션_4 "wikilink") [엑스박스 원](https://ko.wikipedia.org/wiki/엑스박스_원 "wikilink"), [PC](https://ko.wikipedia.org/wiki/PC "wikilink")로 발매되었다.
+《**어쌔신 크리드 IV**》(Assassin's Creed IV : Black Flag)는 어쌔신크리드 3의 후속작이며 [유비소프트 몬트리올이](https://ko.wikipedia.org/wiki/유비소프트 "wikilink") 개발하고 [유비소프트](https://ko.wikipedia.org/wiki/유비소프트 "wikilink")가 발행하는 [액션 어드벤처](https://ko.wikipedia.org/wiki/액션_어드벤처 "wikilink") [게임으로](https://ko.wikipedia.org/wiki/비디오_게임 "wikilink"), [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [11월 01일](https://ko.wikipedia.org/wiki/11월_01일 "wikilink") [플레이스테이션 3와](https://ko.wikipedia.org/wiki/플레이스테이션_3 "wikilink") [엑스박스 360](https://ko.wikipedia.org/wiki/엑스박스_360 "wikilink"), [플레이스테이션 4와](https://ko.wikipedia.org/wiki/플레이스테이션_4 "wikilink") [엑스박스 원](../Page/엑스박스_원.md "wikilink"), [PC](https://ko.wikipedia.org/wiki/PC "wikilink")로 발매되었다.
 
 ## 개요
 
 플레이어는 전작의 데스몬드 마일즈의 선조이자 하이담 켄웨이의 아버지인 [에드워드 켄웨이(Edward Kenway)로](https://ko.wikipedia.org/wiki/에드워드_켄웨이\(Edward_Kenway\) "wikilink") 플레이하게 된다.
 
-에드워드 켄웨이는 17세기 중반 [대항해시대](https://ko.wikipedia.org/wiki/대항해시대 "wikilink")의 [해적](https://ko.wikipedia.org/wiki/해적 "wikilink")이다. 배가 난파되고, 섬에서 만난 변절한 암살자를 죽이고 그 옷을 빼앗아 입고, 자신이 암살단원인 것처럼 행세하여 [성전 기사단에게](https://ko.wikipedia.org/wiki/성전_기사단 "wikilink") 가서 이용당한다. 여러 곡절의 일을 겪으며, [성전 기사단과도](https://ko.wikipedia.org/wiki/성전_기사단 "wikilink") 관계가 나빠지고, [암살단](https://ko.wikipedia.org/wiki/암살단 "wikilink")하고도 관계가 나빠진다.
+에드워드 켄웨이는 17세기 중반 [대항해시대](https://ko.wikipedia.org/wiki/대항해시대 "wikilink")의 [해적](https://ko.wikipedia.org/wiki/해적 "wikilink")이다. 배가 난파되고, 섬에서 만난 변절한 암살자를 죽이고 그 옷을 빼앗아 입고, 자신이 암살단원인 것처럼 행세하여 [성전 기사단에게](https://ko.wikipedia.org/wiki/성전_기사단 "wikilink") 가서 이용당한다. 여러 곡절의 일을 겪으며, [성전 기사단과도](https://ko.wikipedia.org/wiki/성전_기사단 "wikilink") 관계가 나빠지고, [암살단](../Page/암살단.md "wikilink")하고도 관계가 나빠진다.
 
 ## 게임 방식
 
@@ -34,7 +34,7 @@
 [PC](https://ko.wikipedia.org/wiki/PC "wikilink"),[XBOX ONE](https://ko.wikipedia.org/wiki/XBOX_ONE "wikilink"),[플레이스테이션 4로](https://ko.wikipedia.org/wiki/플레이스테이션_4 "wikilink") 2014년 10월 29일 출시될 예정이다.
 **어쌔신크리드 : 로그**
 
-기존 어쌔신크리드와 달리 [암살단](https://ko.wikipedia.org/wiki/암살단 "wikilink")을 사냥하는 [템플러 어쌔신(어쌔신 헌터)으로](https://ko.wikipedia.org/wiki/템플러_어쌔신\(어쌔신_헌터\) "wikilink") 플레이할 수 있으며 어쌔신크리드3에서 약 20여년 전의 뉴욕을 배경으로 한다.
+기존 어쌔신크리드와 달리 [암살단](../Page/암살단.md "wikilink")을 사냥하는 [템플러 어쌔신(어쌔신 헌터)으로](https://ko.wikipedia.org/wiki/템플러_어쌔신\(어쌔신_헌터\) "wikilink") 플레이할 수 있으며 어쌔신크리드3에서 약 20여년 전의 뉴욕을 배경으로 한다.
 
 기존 어쌔신크리드3에서 등장했던 하이담 켄웨이 등이 재등장한다. 전작과 동일하게, 해상전이 등장한다.
 

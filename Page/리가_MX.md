@@ -42,7 +42,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/호르헤_베르가라" title="wikilink">호르헤 베르가라</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/클루브_네칵사" title="wikilink">네칵사</a></p></td>
+<td><p><a href="../Page/클루브_네칵사.md" title="wikilink">네칵사</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/아센소_MX" title="wikilink">아센소 MX</a> 2위</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/아과스칼리엔테스" title="wikilink">아과스칼리엔테스</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/에스타디오_빅토리아" title="wikilink">에스타디오 빅토리아</a></p></td>
@@ -50,7 +50,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/이그나시오_암브리스" title="wikilink">이그나시오 암브리스</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/클루브_레온" title="wikilink">레온</a></p></td>
+<td><p><a href="../Page/클루브_레온.md" title="wikilink">레온</a></p></td>
 <td><p>2위</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/레온_(멕시코)" title="wikilink">레온</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/에스타디오_레온" title="wikilink">에스타디오 레온</a></p></td>
@@ -58,7 +58,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/하비에르_토렌테" title="wikilink">하비에르 토렌테</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/모나르카스_모렐리아" title="wikilink">모렐리아</a></p></td>
+<td><p><a href="../Page/모나르카스_모렐리아.md" title="wikilink">모렐리아</a></p></td>
 <td><p>8위</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/모렐리아" title="wikilink">모렐리아</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/에스타디오_모렐로스" title="wikilink">에스타디오 모렐로스</a></p></td>
@@ -74,7 +74,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/안토니오_모하메드" title="wikilink">안토니오 모하메드</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/티부로네스_로호스_데_베라크루스" title="wikilink">베라크루스</a></p></td>
+<td><p><a href="../Page/티부로네스_로호스_데_베라크루스.md" title="wikilink">베라크루스</a></p></td>
 <td><p>15위</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/베라크루스" title="wikilink">베라크루스</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/에스타디오_루이스_피아타_푸엔테" title="wikilink">루이스 피아타 푸엔테</a></p></td>
@@ -98,7 +98,7 @@
 <td><p><em>공석</em></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/클루브_아틀라스" title="wikilink">아틀라스</a></p></td>
+<td><p><a href="../Page/클루브_아틀라스.md" title="wikilink">아틀라스</a></p></td>
 <td><p>17위</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/과달라하라" title="wikilink">과달라하라</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/에스타디오_할리스코" title="wikilink">에스타디오 할리스코</a></p></td>
@@ -106,7 +106,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/호세_과달루페_크루스" title="wikilink">호세 과달루페 크루스</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/치아파스_FC" title="wikilink">치아파스</a></p></td>
+<td><p><a href="../Page/치아파스_FC.md" title="wikilink">치아파스</a></p></td>
 <td><p>14위</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/툭스틀라구티에레스" title="wikilink">툭스틀라</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/에스타디오_빅토르_마누엘_레이나" title="wikilink">빅토르 마누엘 레이나</a></p></td>
@@ -151,18 +151,18 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/티후아나" title="wikilink">티후아나</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/에스타디오_칼리엔테" title="wikilink">에스타디오 칼리엔테</a></p></td>
 <td><p>27,333</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미겔_에레라" title="wikilink">미겔 에레라</a></p></td>
+<td><p><a href="../Page/미겔_에레라.md" title="wikilink">미겔 에레라</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/CF_파추카" title="wikilink">파추카</a></p></td>
 <td><p>7위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/파추카" title="wikilink">파추카</a></p></td>
+<td><p><a href="../Page/파추카.md" title="wikilink">파추카</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/에스타디오_이달고" title="wikilink">에스타디오 이달고</a></p></td>
 <td><p>27,512</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/디에고_알론소" title="wikilink">디에고 알론소</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/클루브_우니베르시다드_나시오날" title="wikilink">푸마스 UNAM</a></p></td>
+<td><p><a href="../Page/클루브_우니베르시다드_나시오날.md" title="wikilink">푸마스 UNAM</a></p></td>
 <td><p>9위</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/멕시코시티" title="wikilink">멕시코시티</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/에스타디오_올림피코_우니베르시타리오" title="wikilink">올림피코 우니베르시타리오</a></p></td>

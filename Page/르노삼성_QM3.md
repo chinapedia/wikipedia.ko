@@ -9,7 +9,7 @@
 
 ### QM3(2013년 11월\~2020년 1월)
 
-[right](https://ko.wikipedia.org/wiki/파일:20140525_Renault_Samsung_QM3_01.jpg "wikilink") [right](https://ko.wikipedia.org/wiki/파일:20140525_Renault_Samsung_QM3_02.jpg "wikilink") [2013년 3월에](https://ko.wikipedia.org/wiki/2013년_3월 "wikilink") 개최된 [제네바 모터쇼에서](https://ko.wikipedia.org/wiki/제네바_모터쇼 "wikilink") 양산형이 공개된 [르노 캡쳐의](https://ko.wikipedia.org/wiki/르노_캡쳐 "wikilink") [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")판이다. [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 같은 해 [3월](https://ko.wikipedia.org/wiki/3월 "wikilink")에 개최된 [서울 모터쇼에서](https://ko.wikipedia.org/wiki/서울_모터쇼 "wikilink") 처음 공개되었고, [11월](https://ko.wikipedia.org/wiki/11월 "wikilink")에 사전 예약이 이뤄져 1,000대가 우선 판매되기 시작했다. 플랫폼은 [닛산 쥬크와](https://ko.wikipedia.org/wiki/닛산_쥬크 "wikilink") 공유하며, 생산은 [르노](https://ko.wikipedia.org/wiki/르노 "wikilink")의 [스페인](https://ko.wikipedia.org/wiki/스페인 "wikilink") 현지 공장에서 이루어진다는 이유로 국산차가 아닌 수입차로 분류되며, [부산항](https://ko.wikipedia.org/wiki/부산항 "wikilink")을 통해 [수입된다](https://ko.wikipedia.org/wiki/수입_\(무역\) "wikilink"). [스페인](https://ko.wikipedia.org/wiki/스페인 "wikilink")에서 [생산](https://ko.wikipedia.org/wiki/생산 "wikilink")되나, 차대 번호의 국적은 [프랑스](https://ko.wikipedia.org/wiki/프랑스 "wikilink")(VF)로 되어있다. 슬라이딩 방식의 글로브 박스는 12ℓ에 달하고, 동급에서 유일하게 뒷좌석 슬라이딩 시트가 적용돼 트렁크 적재 공간이 377ℓ에서 최대 455ℓ까지 증가했다. [르노](https://ko.wikipedia.org/wiki/르노 "wikilink")에서 특허 받은 탈착식 지퍼형 시트는 지퍼로 간단하게 분리해 가정에서 쉽게 세탁할 수 있다. QM3 전용 부품 가격은 [QM5](https://ko.wikipedia.org/wiki/르노삼성_QM5 "wikilink") 대비 평균 85% 수준으로 책정돼 서비스 비용의 부담을 줄였다.
+[right](https://ko.wikipedia.org/wiki/파일:20140525_Renault_Samsung_QM3_01.jpg "wikilink") [right](https://ko.wikipedia.org/wiki/파일:20140525_Renault_Samsung_QM3_02.jpg "wikilink") [2013년 3월에](https://ko.wikipedia.org/wiki/2013년_3월 "wikilink") 개최된 [제네바 모터쇼에서](https://ko.wikipedia.org/wiki/제네바_모터쇼 "wikilink") 양산형이 공개된 [르노 캡쳐의](https://ko.wikipedia.org/wiki/르노_캡쳐 "wikilink") [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")판이다. [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 같은 해 [3월](https://ko.wikipedia.org/wiki/3월 "wikilink")에 개최된 [서울 모터쇼에서](https://ko.wikipedia.org/wiki/서울_모터쇼 "wikilink") 처음 공개되었고, [11월](https://ko.wikipedia.org/wiki/11월 "wikilink")에 사전 예약이 이뤄져 1,000대가 우선 판매되기 시작했다. 플랫폼은 [닛산 쥬크와](../Page/닛산_쥬크.md "wikilink") 공유하며, 생산은 [르노](https://ko.wikipedia.org/wiki/르노 "wikilink")의 [스페인](https://ko.wikipedia.org/wiki/스페인 "wikilink") 현지 공장에서 이루어진다는 이유로 국산차가 아닌 수입차로 분류되며, [부산항](https://ko.wikipedia.org/wiki/부산항 "wikilink")을 통해 [수입된다](https://ko.wikipedia.org/wiki/수입_\(무역\) "wikilink"). [스페인](https://ko.wikipedia.org/wiki/스페인 "wikilink")에서 [생산](https://ko.wikipedia.org/wiki/생산 "wikilink")되나, 차대 번호의 국적은 [프랑스](https://ko.wikipedia.org/wiki/프랑스 "wikilink")(VF)로 되어있다. 슬라이딩 방식의 글로브 박스는 12ℓ에 달하고, 동급에서 유일하게 뒷좌석 슬라이딩 시트가 적용돼 트렁크 적재 공간이 377ℓ에서 최대 455ℓ까지 증가했다. [르노](https://ko.wikipedia.org/wiki/르노 "wikilink")에서 특허 받은 탈착식 지퍼형 시트는 지퍼로 간단하게 분리해 가정에서 쉽게 세탁할 수 있다. QM3 전용 부품 가격은 [QM5](https://ko.wikipedia.org/wiki/르노삼성_QM5 "wikilink") 대비 평균 85% 수준으로 책정돼 서비스 비용의 부담을 줄였다.
 
 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [12월 1일에](https://ko.wikipedia.org/wiki/12월_1일 "wikilink") 선보인 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink")형은 탈착식 천연 가죽 시트, 마린 블루 바디 컬러, 신규 디자인의 데칼 등이 적용되었다. [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [3월 1일에](https://ko.wikipedia.org/wiki/3월_1일 "wikilink") 새롭게 추가된 최상위 트림인 RE 시그니처는 소닉 레드 바디&블랙 루프 (실버 스키드 포함)의 전용 컬러와 레드 데코, 천연 가죽 시트, 그립 컨트롤이 적용되었다. 같은 해 [11월 18일에](https://ko.wikipedia.org/wiki/11월_18일 "wikilink") 선보인 [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink")형은 센터 콘솔 디자인이 변경되고, 등받이 각도 조절 레버의 신규 적용과 유로 6 규제를 충족 등의 개선이 이루어졌다. [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [7월 1일에는](https://ko.wikipedia.org/wiki/7월_1일 "wikilink") 칸느 블루 바디 컬러와 블랙 컬러의 루프가 적용된 트림인 칸느 블루 스페셜 에디션이 500대 한정 판매되기 시작하였다.
 
@@ -249,22 +249,22 @@
 
 ## 경쟁 차종
 
-  - [현대자동차](https://ko.wikipedia.org/wiki/현대자동차 "wikilink") - [코나](https://ko.wikipedia.org/wiki/현대_코나 "wikilink"), [ix25](https://ko.wikipedia.org/wiki/현대_ix25 "wikilink")
-  - [기아자동차](https://ko.wikipedia.org/wiki/기아자동차 "wikilink") - [니로](https://ko.wikipedia.org/wiki/기아_니로 "wikilink"), [쏘울](https://ko.wikipedia.org/wiki/기아_쏘울 "wikilink"), [스토닉](https://ko.wikipedia.org/wiki/기아_스토닉 "wikilink"), [셀토스](https://ko.wikipedia.org/wiki/기아_셀토스 "wikilink")
+  - [현대자동차](https://ko.wikipedia.org/wiki/현대자동차 "wikilink") - [코나](https://ko.wikipedia.org/wiki/현대_코나 "wikilink"), [ix25](../Page/현대_ix25.md "wikilink")
+  - [기아자동차](https://ko.wikipedia.org/wiki/기아자동차 "wikilink") - [니로](../Page/기아_니로.md "wikilink"), [쏘울](https://ko.wikipedia.org/wiki/기아_쏘울 "wikilink"), [스토닉](https://ko.wikipedia.org/wiki/기아_스토닉 "wikilink"), [셀토스](https://ko.wikipedia.org/wiki/기아_셀토스 "wikilink")
   - [쉐보레](https://ko.wikipedia.org/wiki/쉐보레 "wikilink") - [트랙스](https://ko.wikipedia.org/wiki/쉐보레_트랙스 "wikilink")
-  - [쌍용자동차](https://ko.wikipedia.org/wiki/쌍용자동차 "wikilink") - [티볼리](https://ko.wikipedia.org/wiki/쌍용_티볼리 "wikilink")
-  - [르노삼성자동차](https://ko.wikipedia.org/wiki/르노삼성자동차 "wikilink") - [QM3](https://ko.wikipedia.org/wiki/르노삼성_QM3 "wikilink")
+  - [쌍용자동차](https://ko.wikipedia.org/wiki/쌍용자동차 "wikilink") - [티볼리](../Page/쌍용_티볼리.md "wikilink")
+  - [르노삼성자동차](https://ko.wikipedia.org/wiki/르노삼성자동차 "wikilink") - [QM3](../Page/르노삼성_QM3.md "wikilink")
   - [오펠](https://ko.wikipedia.org/wiki/오펠 "wikilink") - [모카](https://ko.wikipedia.org/wiki/오펠_모카 "wikilink"), [크로스랜드 X](https://ko.wikipedia.org/wiki/오펠_크로스랜드_X "wikilink")
   - [뷰익](https://ko.wikipedia.org/wiki/뷰익 "wikilink") - [앙코르](https://ko.wikipedia.org/wiki/뷰익_앙코르 "wikilink")
   - [폭스바겐](https://ko.wikipedia.org/wiki/폭스바겐 "wikilink") - [티크로스](https://ko.wikipedia.org/wiki/폭스바겐_티크로스 "wikilink"), [티록](https://ko.wikipedia.org/wiki/폭스바겐_티록 "wikilink")
   - [세아트](https://ko.wikipedia.org/wiki/세아트 "wikilink") - [아로나](https://ko.wikipedia.org/wiki/세아트_아로나 "wikilink")
   - [스코다](https://ko.wikipedia.org/wiki/스코다 "wikilink") - [예티](https://ko.wikipedia.org/wiki/스코다_예티 "wikilink")
-  - [지프](https://ko.wikipedia.org/wiki/지프_\(자동차\) "wikilink") - [레니게이드](https://ko.wikipedia.org/wiki/지프_레니게이드 "wikilink")
+  - [지프](https://ko.wikipedia.org/wiki/지프_\(자동차\) "wikilink") - [레니게이드](../Page/지프_레니게이드.md "wikilink")
   - [포드](https://ko.wikipedia.org/wiki/포드_모터_컴퍼니 "wikilink") - [에코스포츠](https://ko.wikipedia.org/wiki/포드_에코스포츠 "wikilink")
   - [시트로엥](https://ko.wikipedia.org/wiki/시트로엥 "wikilink") - [C3 에어크로스](https://ko.wikipedia.org/wiki/시트로엥_C3_에어크로스 "wikilink"), [C4 칵투스](https://ko.wikipedia.org/wiki/시트로엥_C4_칵투스 "wikilink")
-  - [푸조](https://ko.wikipedia.org/wiki/푸조 "wikilink") - [2008](https://ko.wikipedia.org/wiki/푸조_2008 "wikilink")
+  - [푸조](https://ko.wikipedia.org/wiki/푸조 "wikilink") - [2008](../Page/푸조_2008.md "wikilink")
   - [르노](https://ko.wikipedia.org/wiki/르노 "wikilink") - [캡쳐](https://ko.wikipedia.org/wiki/르노_캡쳐 "wikilink")
-  - [닛산](https://ko.wikipedia.org/wiki/닛산_자동차 "wikilink") - [쥬크](https://ko.wikipedia.org/wiki/닛산_쥬크 "wikilink")
+  - [닛산](https://ko.wikipedia.org/wiki/닛산_자동차 "wikilink") - [쥬크](../Page/닛산_쥬크.md "wikilink")
   - [혼다](https://ko.wikipedia.org/wiki/혼다_기연_공업 "wikilink") - [HR-V](https://ko.wikipedia.org/wiki/혼다_HR-V "wikilink")
   - [피아트](https://ko.wikipedia.org/wiki/피아트 "wikilink") - [500X](https://ko.wikipedia.org/wiki/피아트_500X "wikilink")
   - [마쓰다](https://ko.wikipedia.org/wiki/마쓰다 "wikilink") - [CX-3](https://ko.wikipedia.org/wiki/마쓰다_CX-3 "wikilink"), [CX-4](https://ko.wikipedia.org/wiki/마쓰다_CX-4 "wikilink")

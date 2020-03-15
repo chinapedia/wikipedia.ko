@@ -13,7 +13,7 @@
 
 ## 같이 보기
 
-  - [스프링닷미](https://ko.wikipedia.org/wiki/스프링닷미 "wikilink")
+  - [스프링닷미](../Page/스프링닷미.md "wikilink")
 
 ## 각주
 

@@ -1,14 +1,14 @@
 > This article is converted from Wikipedia: [C\* ](https://ko.wikipedia.org/wiki/C\*_).
 
 
-[함수해석학](https://ko.wikipedia.org/wiki/함수해석학 "wikilink")에서, **C\* 대수**(시스타 대수, )는 [대합 대수와](https://ko.wikipedia.org/wiki/대합_대수 "wikilink") [복소수 바나흐 대수의](https://ko.wikipedia.org/wiki/복소수_바나흐_대수 "wikilink") 구조를 서로 호환되게 갖춘 수학 구조이다.
+[함수해석학](https://ko.wikipedia.org/wiki/함수해석학 "wikilink")에서, **C\* 대수**(시스타 대수, )는 [대합 대수와](../Page/대합_대수.md "wikilink") [복소수 바나흐 대수의](https://ko.wikipedia.org/wiki/복소수_바나흐_대수 "wikilink") 구조를 서로 호환되게 갖춘 수학 구조이다.
 
 ## 정의
 
 C\* 대수의 개념은 다양한 방법으로 정의될 수 있다.
 
   - 추상적으로, [복소수 대합 대수와](https://ko.wikipedia.org/wiki/복소수_대합_대수 "wikilink") [복소수 바나흐 대수의](https://ko.wikipedia.org/wiki/복소수_바나흐_대수 "wikilink") 구조가 서로 호환되게 주어진 [복소수 벡터 공간으로](https://ko.wikipedia.org/wiki/복소수_벡터_공간 "wikilink") 여길 수 있다.
-  - 사실, [복소수 바나흐 공간](https://ko.wikipedia.org/wiki/복소수_바나흐_공간 "wikilink") 구조는 [복소수 대합 대수](https://ko.wikipedia.org/wiki/복소수_대합_대수 "wikilink") 구조로부터 정의될 수 있다. 따라서, C\* 대수를 순수하게 대수학적으로 특별한 꼴의 복소수 [대합 대수로](https://ko.wikipedia.org/wiki/대합_대수 "wikilink") 정의할 수 있다.
+  - 사실, [복소수 바나흐 공간](https://ko.wikipedia.org/wiki/복소수_바나흐_공간 "wikilink") 구조는 [복소수 대합 대수](https://ko.wikipedia.org/wiki/복소수_대합_대수 "wikilink") 구조로부터 정의될 수 있다. 따라서, C\* 대수를 순수하게 대수학적으로 특별한 꼴의 복소수 [대합 대수로](../Page/대합_대수.md "wikilink") 정의할 수 있다.
   - 구체적으로, [복소수 힐베르트 공간](https://ko.wikipedia.org/wiki/복소수_힐베르트_공간 "wikilink") 위의 [유계 작용소](https://ko.wikipedia.org/wiki/유계_작용소 "wikilink") 대수로 표현될 수 있는 [복소수 바나흐 대수로](https://ko.wikipedia.org/wiki/복소수_바나흐_대수 "wikilink") 여길 수 있다. 이 정의에서, [복소수 힐베르트 공간](https://ko.wikipedia.org/wiki/복소수_힐베르트_공간 "wikilink") 위의 \*-표현은 C\* 대수의 정의에 포함되지 않는다.
 
 이 정의들은 모두 서로 [동치](https://ko.wikipedia.org/wiki/동치 "wikilink")이다.
@@ -17,7 +17,7 @@ C\* 대수의 개념은 다양한 방법으로 정의될 수 있다.
 
 [복소수 벡터 공간](https://ko.wikipedia.org/wiki/복소수_벡터_공간 "wikilink") \(A\) 위에 다음과 같은 두 구조가 주어졌다고 하자.
 
-  - \((A,^*)\)는 (복소수 켤레를 부여한) [복소수체](https://ko.wikipedia.org/wiki/복소수체 "wikilink") 위의 (항등원을 갖는) [대합 대수이다](https://ko.wikipedia.org/wiki/대합_대수 "wikilink"). (즉, 임의의 \(a\in A\) 및 \(\lambda\in\mathbb C\)에 대하여 \((\lambda a)^*=\bar\lambda a^*\)이다.)
+  - \((A,^*)\)는 (복소수 켤레를 부여한) [복소수체](https://ko.wikipedia.org/wiki/복소수체 "wikilink") 위의 (항등원을 갖는) [대합 대수이다](../Page/대합_대수.md "wikilink"). (즉, 임의의 \(a\in A\) 및 \(\lambda\in\mathbb C\)에 대하여 \((\lambda a)^*=\bar\lambda a^*\)이다.)
   - \((A,\|\|)\)는 [복소수 바나흐 대수이다](https://ko.wikipedia.org/wiki/복소수_바나흐_대수 "wikilink").
 
 그렇다면, \((A,^*,\|\|)\)에 대하여 다음 두 조건이 서로 [동치](https://ko.wikipedia.org/wiki/동치 "wikilink")이며, 만약 \((A,^*,\|\|)\)가 이를 만족시킨다면 **C\* 대수**라고 한다.
@@ -31,11 +31,11 @@ C\* 대수의 개념은 다양한 방법으로 정의될 수 있다.
 
 ### 대수적 정의
 
-(복소수 켤레를 부여한) [복소수체](https://ko.wikipedia.org/wiki/복소수체 "wikilink") 위의 (항등원을 갖는) [대합 대수](https://ko.wikipedia.org/wiki/대합_대수 "wikilink") \((A,^*)\)가 다음 조건을 만족시킨다면, **C\* 대수**라고 한다.
+(복소수 켤레를 부여한) [복소수체](https://ko.wikipedia.org/wiki/복소수체 "wikilink") 위의 (항등원을 갖는) [대합 대수](../Page/대합_대수.md "wikilink") \((A,^*)\)가 다음 조건을 만족시킨다면, **C\* 대수**라고 한다.
 
   - \(a\mapsto\sup\operatorname{sp}(a^*a)\)는 \(A\) 위의 [노름](https://ko.wikipedia.org/wiki/노름 "wikilink")을 이룬다. 즉, 다음이 성립한다.
       - 임의의 \(a\in A\)에 대하여, [스펙트럼](https://ko.wikipedia.org/wiki/스펙트럼_\(함수해석학\) "wikilink") \(\operatorname{sp}(a^*a)\subseteq\mathbb C\)는 [유계 집합이다](https://ko.wikipedia.org/wiki/유계_집합 "wikilink").
-      - 임의의 \(a\in A\setminus\{0\}\)에 대하여, \(1+\lambda a^*a\)가 [가역원](https://ko.wikipedia.org/wiki/가역원 "wikilink")이 아니게 만드는 복소수 \(\lambda\in\mathbb C\)가 존재한다.
+      - 임의의 \(a\in A\setminus\{0\}\)에 대하여, \(1+\lambda a^*a\)가 [가역원](../Page/가역원.md "wikilink")이 아니게 만드는 복소수 \(\lambda\in\mathbb C\)가 존재한다.
       - ([삼각 부등식](https://ko.wikipedia.org/wiki/삼각_부등식 "wikilink")) 임의의 \(a,b\in A\)에 대하여, \(\sup\operatorname{sp}(a^*a+b^*b+a^*b+b^*a)\le \sup\operatorname{sp}(a^*a)+\sup\operatorname{sp}(b^*b)\)이다.
   - \(a\mapsto\sup\operatorname{sp}(a^*a)\)는 [완비 노름을](https://ko.wikipedia.org/wiki/완비_거리_공간 "wikilink") 이룬다.
 
@@ -46,7 +46,7 @@ C\* 대수의 개념은 다양한 방법으로 정의될 수 있다.
 [복소수 대합 대수](https://ko.wikipedia.org/wiki/복소수_대합_대수 "wikilink") \(A\)의 **\*-표현**()은 다음과 같은 데이터로 구성된다.
 
   - [복소수 힐베르트 공간](https://ko.wikipedia.org/wiki/복소수_힐베르트_공간 "wikilink") \(\mathcal H\)
-  - [유계 작용소들의](https://ko.wikipedia.org/wiki/유계_작용소 "wikilink") [복소수 바나흐 대수](https://ko.wikipedia.org/wiki/복소수_바나흐_대수 "wikilink") \(\operatorname B(\mathcal H,\mathcal H)\)로 가는 [단사](https://ko.wikipedia.org/wiki/단사_함수 "wikilink") [복소수 대합 대수](https://ko.wikipedia.org/wiki/복소수_대합_대수 "wikilink") 준동형 \(\iota\colon A\hookrightarrow \operatorname B(\mathcal H,\mathcal H)\). 즉, \(\iota\)는 [단사 함수이며](https://ko.wikipedia.org/wiki/단사_함수 "wikilink"), [복소수 선형 변환이며](https://ko.wikipedia.org/wiki/복소수_선형_변환 "wikilink"), (항등원을 보존하는) [환 준동형이며](https://ko.wikipedia.org/wiki/환_준동형 "wikilink"), [대합을](https://ko.wikipedia.org/wiki/대합_\(수학\) "wikilink") 보존한다 (즉, \(\iota(a^*)=\iota(a)*\;\forall a\in A\). 여기서 우변의 \((-)^*\)는 [유계 작용소의](https://ko.wikipedia.org/wiki/유계_작용소 "wikilink") [에르미트 수반이다](https://ko.wikipedia.org/wiki/에르미트_수반 "wikilink").)
+  - [유계 작용소들의](https://ko.wikipedia.org/wiki/유계_작용소 "wikilink") [복소수 바나흐 대수](https://ko.wikipedia.org/wiki/복소수_바나흐_대수 "wikilink") \(\operatorname B(\mathcal H,\mathcal H)\)로 가는 [단사](https://ko.wikipedia.org/wiki/단사_함수 "wikilink") [복소수 대합 대수](https://ko.wikipedia.org/wiki/복소수_대합_대수 "wikilink") 준동형 \(\iota\colon A\hookrightarrow \operatorname B(\mathcal H,\mathcal H)\). 즉, \(\iota\)는 [단사 함수이며](https://ko.wikipedia.org/wiki/단사_함수 "wikilink"), [복소수 선형 변환이며](https://ko.wikipedia.org/wiki/복소수_선형_변환 "wikilink"), (항등원을 보존하는) [환 준동형이며](https://ko.wikipedia.org/wiki/환_준동형 "wikilink"), [대합을](https://ko.wikipedia.org/wiki/대합_\(수학\) "wikilink") 보존한다 (즉, \(\iota(a^*)=\iota(a)*\;\forall a\in A\). 여기서 우변의 \((-)^*\)는 [유계 작용소의](https://ko.wikipedia.org/wiki/유계_작용소 "wikilink") [에르미트 수반이다](../Page/에르미트_수반.md "wikilink").)
 
 만약 [복소수 대합 대수가](https://ko.wikipedia.org/wiki/복소수_대합_대수 "wikilink") 그 [상이](https://ko.wikipedia.org/wiki/상_\(수학\) "wikilink") ([작용소 노름으로](https://ko.wikipedia.org/wiki/작용소_노름 "wikilink") 정의되는 [거리 위상에](https://ko.wikipedia.org/wiki/거리_위상 "wikilink") 대하여) [닫힌집합](https://ko.wikipedia.org/wiki/닫힌집합 "wikilink")인 \*-표현을 갖는다면, 이를 **C\* 대수**라고 한다. (마지막 조건을 노름 위상 대신 강한 [작용소 위상](https://ko.wikipedia.org/wiki/작용소_위상 "wikilink") 또는 약한 [작용소 위상에](https://ko.wikipedia.org/wiki/작용소_위상 "wikilink") 대한 [닫힌집합](https://ko.wikipedia.org/wiki/닫힌집합 "wikilink")인 것으로 강화시키면, 대신 [폰 노이만 대수의](https://ko.wikipedia.org/wiki/폰_노이만_대수 "wikilink") 개념을 얻는다.)
 
@@ -61,7 +61,7 @@ C\* 대수의 개념은 다양한 방법으로 정의될 수 있다.
   - 만약 \(y\in A\)가 존재하여 \(y^*y=x\)라면, \(x\)를 **음이 아닌 원소**(陰-元素, )라고 한다. 음이 아닌 원소들의 집합은 [볼록](https://ko.wikipedia.org/wiki/볼록집합 "wikilink") 뿔(convex cone)을 이룬다.
   - 만약 \(x=x^*\)라면, \(x\)를 **[자기 수반 원소](https://ko.wikipedia.org/wiki/자기_수반_원소 "wikilink")**라고 한다. 자기 수반 원소의 [스펙트럼은](https://ko.wikipedia.org/wiki/스펙트럼_\(함수해석학\) "wikilink") 모두 실수이다.
   - \(xx^*=x^*x=1\)이라면, \(x\)를 **[유니터리 원소](https://ko.wikipedia.org/wiki/유니터리_원소 "wikilink")**라고 한다. 유니터리 원소의 스펙트럼의 원소들의 [절댓값](https://ko.wikipedia.org/wiki/절댓값 "wikilink")은 항상 1이다.
-  - \(x\)의 **[스펙트럼](https://ko.wikipedia.org/wiki/스펙트럼_\(함수해석학\) "wikilink")** \(\sigma(x)\subset\mathbb C\)는 \(\lambda\cdot1-x\)가 [가역원](https://ko.wikipedia.org/wiki/가역원 "wikilink")이 아니게 되는 \(\lambda\in\mathbb C\)들의 집합이다. 일반적으로, \(\sigma(x^*)=\bar\sigma(x)\)이다.
+  - \(x\)의 **[스펙트럼](https://ko.wikipedia.org/wiki/스펙트럼_\(함수해석학\) "wikilink")** \(\sigma(x)\subset\mathbb C\)는 \(\lambda\cdot1-x\)가 [가역원](../Page/가역원.md "wikilink")이 아니게 되는 \(\lambda\in\mathbb C\)들의 집합이다. 일반적으로, \(\sigma(x^*)=\bar\sigma(x)\)이다.
   - \(x\)의 스펙트럼의 [절댓값](https://ko.wikipedia.org/wiki/절댓값 "wikilink")들의 [상한](https://ko.wikipedia.org/wiki/상한 "wikilink") \(\sup|\sigma(x)|=\nu(x)\)를 \(x\)의 **[스펙트럼 반지름](https://ko.wikipedia.org/wiki/스펙트럼_반지름 "wikilink")**이라고 한다. 스펙트럼 반지름은 다음과 같이 정의할 수도 있다.
     \[\nu(x)=\lim_{n\to\infty}\Vert x^n\Vert^{1/n}\]
 
@@ -94,7 +94,7 @@ C\* 대수의 개념은 다양한 방법으로 정의될 수 있다.
 
 ### 행렬 대수
 
-[C\* 대수](https://ko.wikipedia.org/wiki/C*_대수 "wikilink") \(A\) 및 [자연수](https://ko.wikipedia.org/wiki/자연수 "wikilink") \(n\in\mathbb N\)에 대하여, [행렬](https://ko.wikipedia.org/wiki/행렬 "wikilink") 대수 \(\operatorname{Mat}(n;A)\)는 \(A\) 성분의 \(n\times n\) [정사각 행렬들로](https://ko.wikipedia.org/wiki/정사각_행렬 "wikilink") 구성되며, 이 역시 C\* 대수를 이룬다. 만약 어떤 [복소수 힐베르트 공간](https://ko.wikipedia.org/wiki/복소수_힐베르트_공간 "wikilink") \(V\)에 대하여 \(A\subseteq\operatorname B(V,V)\)라면, \(\operatorname{Mat}(n;A)\subseteq\operatorname B(V^{\oplus n},V^{\oplus n})\)으로 여길 수 있다.
+[C\* 대수](../Page/C*_대수.md "wikilink") \(A\) 및 [자연수](https://ko.wikipedia.org/wiki/자연수 "wikilink") \(n\in\mathbb N\)에 대하여, [행렬](https://ko.wikipedia.org/wiki/행렬 "wikilink") 대수 \(\operatorname{Mat}(n;A)\)는 \(A\) 성분의 \(n\times n\) [정사각 행렬들로](https://ko.wikipedia.org/wiki/정사각_행렬 "wikilink") 구성되며, 이 역시 C\* 대수를 이룬다. 만약 어떤 [복소수 힐베르트 공간](https://ko.wikipedia.org/wiki/복소수_힐베르트_공간 "wikilink") \(V\)에 대하여 \(A\subseteq\operatorname B(V,V)\)라면, \(\operatorname{Mat}(n;A)\subseteq\operatorname B(V^{\oplus n},V^{\oplus n})\)으로 여길 수 있다.
 
 만약 \(n=0\)일 경우, 이는 [자명환](https://ko.wikipedia.org/wiki/자명환 "wikilink")이다.
 
@@ -119,7 +119,7 @@ C\* 대수의 개념은 다양한 방법으로 정의될 수 있다.
 
 \[\|a\|_A^2=\|a^*a\|_A\] 이다. \(a^*a\)는 음이 아닌 원소이므로, 그 노름은 [스펙트럼 반지름과](https://ko.wikipedia.org/wiki/스펙트럼_반지름 "wikilink") 같다.
 
-\[\|a^*a|_A=\operatorname{sp\,rad}_A(a^*a)\] \(A\)의 [가역원](https://ko.wikipedia.org/wiki/가역원 "wikilink")의 [상은](https://ko.wikipedia.org/wiki/상_\(수학\) "wikilink") \(B\)의 [가역원](https://ko.wikipedia.org/wiki/가역원 "wikilink")이므로 다음이 성립한다.
+\[\|a^*a|_A=\operatorname{sp\,rad}_A(a^*a)\] \(A\)의 [가역원](../Page/가역원.md "wikilink")의 [상은](https://ko.wikipedia.org/wiki/상_\(수학\) "wikilink") \(B\)의 [가역원](../Page/가역원.md "wikilink")이므로 다음이 성립한다.
 
 \[\operatorname{sp}_A(a^*a)\supseteq \operatorname{sp}_B(f(a^*a))\] 여기서 \(\operatorname{sp}(-)\)는 [스펙트럼이다](https://ko.wikipedia.org/wiki/스펙트럼_\(함수해석학\) "wikilink"). 특히
 
@@ -133,7 +133,7 @@ C\* 대수의 개념은 다양한 방법으로 정의될 수 있다.
 
 또한, 만약 \(f\)가 추가로 [단사 함수라면](https://ko.wikipedia.org/wiki/단사_함수 "wikilink"), 이는 [등거리 변환이다](https://ko.wikipedia.org/wiki/등거리_변환 "wikilink"). 즉, \(\|a\|_A=\|f(a)\|_B\;\forall a\in A\)이다.
 
-이에 따라, C\* 대수와 [복소수 대합 대수](https://ko.wikipedia.org/wiki/복소수_대합_대수 "wikilink") 준동형들은 [구체적 범주](https://ko.wikipedia.org/wiki/구체적_범주 "wikilink") \(\operatorname{C*Alg}\)를 이룬다.
+이에 따라, C\* 대수와 [복소수 대합 대수](https://ko.wikipedia.org/wiki/복소수_대합_대수 "wikilink") 준동형들은 [구체적 범주](../Page/구체적_범주.md "wikilink") \(\operatorname{C*Alg}\)를 이룬다.
 
 ### 스펙트럼
 
@@ -151,7 +151,7 @@ C\* 대수의 [자기 수반 원소의](https://ko.wikipedia.org/wiki/자기_수
 
 ### 자명한 C\* 대수
 
-[한원소 집합](https://ko.wikipedia.org/wiki/한원소_집합 "wikilink") \(\{\bullet\}\) 위의 유일한 환 구조인 [자명환](https://ko.wikipedia.org/wiki/자명환 "wikilink")은 C\* 대수를 이룬다. 이는 유일한 0차원 C\* 대수이다.
+[한원소 집합](../Page/한원소_집합.md "wikilink") \(\{\bullet\}\) 위의 유일한 환 구조인 [자명환](https://ko.wikipedia.org/wiki/자명환 "wikilink")은 C\* 대수를 이룬다. 이는 유일한 0차원 C\* 대수이다.
 
 ### 유한 차원 C\* 대수
 
@@ -165,12 +165,12 @@ C\* 대수의 [자기 수반 원소의](https://ko.wikipedia.org/wiki/자기_수
 
 \[\hat A=\hom(A,\mathbb C)\subseteq A^*\] 즉, \(A\to\mathbb C\) \*-준동형들의 집합이다. \*-준동형의 [작용소 노름은](https://ko.wikipedia.org/wiki/작용소_노름 "wikilink") 1 이하이므로,
 
-\[\hat A\subseteq\operatorname{cl}\left(\operatorname{ball}_{A^*}(0,1)\right)\] 이다. (여기서 우변은 [연속 쌍대 공간](https://ko.wikipedia.org/wiki/연속_쌍대_공간 "wikilink") \(A^*\)의 [닫힌](https://ko.wikipedia.org/wiki/닫힌집합 "wikilink") 단위 공이다.) 우변에 [약한-\* 위상을](https://ko.wikipedia.org/wiki/약한-*_위상 "wikilink") 주고, 좌변을 그 부분 공간으로 간주하면, [바나흐-앨러오글루 정리에](https://ko.wikipedia.org/wiki/바나흐-앨러오글루_정리 "wikilink") 의하여 \(\hat A\)는 [콤팩트](https://ko.wikipedia.org/wiki/콤팩트_공간 "wikilink") [하우스도르프 공간을](https://ko.wikipedia.org/wiki/하우스도르프_공간 "wikilink") 이룬다. 이 연산은 [함자](https://ko.wikipedia.org/wiki/함자_\(수학\) "wikilink")
+\[\hat A\subseteq\operatorname{cl}\left(\operatorname{ball}_{A^*}(0,1)\right)\] 이다. (여기서 우변은 [연속 쌍대 공간](../Page/연속_쌍대_공간.md "wikilink") \(A^*\)의 [닫힌](https://ko.wikipedia.org/wiki/닫힌집합 "wikilink") 단위 공이다.) 우변에 [약한-\* 위상을](https://ko.wikipedia.org/wiki/약한-*_위상 "wikilink") 주고, 좌변을 그 부분 공간으로 간주하면, [바나흐-앨러오글루 정리에](https://ko.wikipedia.org/wiki/바나흐-앨러오글루_정리 "wikilink") 의하여 \(\hat A\)는 [콤팩트](https://ko.wikipedia.org/wiki/콤팩트_공간 "wikilink") [하우스도르프 공간을](https://ko.wikipedia.org/wiki/하우스도르프_공간 "wikilink") 이룬다. 이 연산은 [함자](https://ko.wikipedia.org/wiki/함자_\(수학\) "wikilink")
 
 \[\hat{\color{White}{A}}\colon\operatorname{comC*Alg}\to\operatorname{CompHausTop}^{\operatorname{op}}\] 를 정의한다. 여기서
 
-  - [정의역](https://ko.wikipedia.org/wiki/정의역 "wikilink")은 (항등원을 갖는) [가환](https://ko.wikipedia.org/wiki/가환환 "wikilink") C\* 대수와, \*-준동형들의 [구체적 범주이다](https://ko.wikipedia.org/wiki/구체적_범주 "wikilink").
-  - [공역은](https://ko.wikipedia.org/wiki/공역_\(수학\) "wikilink") [콤팩트](https://ko.wikipedia.org/wiki/콤팩트_공간 "wikilink") [하우스도르프 공간과](https://ko.wikipedia.org/wiki/하우스도르프_공간 "wikilink") [연속 함수들의](https://ko.wikipedia.org/wiki/연속_함수 "wikilink") [구체적 범주의](https://ko.wikipedia.org/wiki/구체적_범주 "wikilink") [반대 범주이다](https://ko.wikipedia.org/wiki/반대_범주 "wikilink").
+  - [정의역](https://ko.wikipedia.org/wiki/정의역 "wikilink")은 (항등원을 갖는) [가환](https://ko.wikipedia.org/wiki/가환환 "wikilink") C\* 대수와, \*-준동형들의 [구체적 범주이다](../Page/구체적_범주.md "wikilink").
+  - [공역은](https://ko.wikipedia.org/wiki/공역_\(수학\) "wikilink") [콤팩트](https://ko.wikipedia.org/wiki/콤팩트_공간 "wikilink") [하우스도르프 공간과](https://ko.wikipedia.org/wiki/하우스도르프_공간 "wikilink") [연속 함수들의](https://ko.wikipedia.org/wiki/연속_함수 "wikilink") [구체적 범주의](../Page/구체적_범주.md "wikilink") [반대 범주이다](https://ko.wikipedia.org/wiki/반대_범주 "wikilink").
 
 반대로, 다음과 같은 [함자](https://ko.wikipedia.org/wiki/함자_\(수학\) "wikilink")
 
@@ -193,7 +193,7 @@ C\* 대수의 [자기 수반 원소의](https://ko.wikipedia.org/wiki/자기_수
 
 ### 콤팩트 작용소 대수
 
-임의의 [복소수 힐베르트 공간](https://ko.wikipedia.org/wiki/복소수_힐베르트_공간 "wikilink") \(V\) 위의 모든 [콤팩트 작용소들의](https://ko.wikipedia.org/wiki/콤팩트_작용소 "wikilink") 집합 \(\operatorname K(V,V)\)은 \(\operatorname B(V,V)\)의 [닫힌](https://ko.wikipedia.org/wiki/닫힌집합 "wikilink") [양쪽 아이디얼을](https://ko.wikipedia.org/wiki/양쪽_아이디얼 "wikilink") 이루며, 이에 대한 [몫환](https://ko.wikipedia.org/wiki/몫환 "wikilink")
+임의의 [복소수 힐베르트 공간](https://ko.wikipedia.org/wiki/복소수_힐베르트_공간 "wikilink") \(V\) 위의 모든 [콤팩트 작용소들의](../Page/콤팩트_작용소.md "wikilink") 집합 \(\operatorname K(V,V)\)은 \(\operatorname B(V,V)\)의 [닫힌](https://ko.wikipedia.org/wiki/닫힌집합 "wikilink") [양쪽 아이디얼을](https://ko.wikipedia.org/wiki/양쪽_아이디얼 "wikilink") 이루며, 이에 대한 [몫환](https://ko.wikipedia.org/wiki/몫환 "wikilink")
 
 \[\frac{\operatorname B(V,V)}{\operatorname K(V,V)}\] 은 C\* 대수를 이룬다. 이를 **콜킨 대수**()라고 한다.
 
@@ -201,7 +201,7 @@ C\* 대수의 [자기 수반 원소의](https://ko.wikipedia.org/wiki/자기_수
 
 C\* 대수의 이론은 [양자장론](https://ko.wikipedia.org/wiki/양자장론 "wikilink")을 수학적으로 엄밀하게 정의하려는 시도에 사용된다.
 
-겔판트 표현에 의하여, 가환 C\* 대수는 콤팩트 하우스도르프 공간에 대응되며, 만약 항등원을 가져야 하는 조건을 생략한다면, 이는 [국소 콤팩트](https://ko.wikipedia.org/wiki/국소_콤팩트 "wikilink") [하우스도르프 공간에](https://ko.wikipedia.org/wiki/하우스도르프_공간 "wikilink") 대응된다. 이에 대하여, 일반적 (비가환일 수 있는) C\* 대수 역시 일종의 ‘공간’으로 여길 수 있다. 이러한 수학적 분야를 [비가환 기하학이라고](https://ko.wikipedia.org/wiki/비가환_기하학 "wikilink") 한다.
+겔판트 표현에 의하여, 가환 C\* 대수는 콤팩트 하우스도르프 공간에 대응되며, 만약 항등원을 가져야 하는 조건을 생략한다면, 이는 [국소 콤팩트](https://ko.wikipedia.org/wiki/국소_콤팩트 "wikilink") [하우스도르프 공간에](https://ko.wikipedia.org/wiki/하우스도르프_공간 "wikilink") 대응된다. 이에 대하여, 일반적 (비가환일 수 있는) C\* 대수 역시 일종의 ‘공간’으로 여길 수 있다. 이러한 수학적 분야를 [비가환 기하학이라고](../Page/비가환_기하학.md "wikilink") 한다.
 
 ## 참고 문헌
 

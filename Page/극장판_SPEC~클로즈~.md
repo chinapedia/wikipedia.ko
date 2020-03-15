@@ -15,7 +15,7 @@
   - 아오이케 사토코 - [쿠리야마 치아키](https://ko.wikipedia.org/wiki/쿠리야마_치아키 "wikilink")
   - [카시이 유우](https://ko.wikipedia.org/wiki/가시_유우 "wikilink")
   - 마사키 미야비 - [아리무라 카스미](https://ko.wikipedia.org/wiki/아리무라_카스미 "wikilink")
-  - 후쿠다 켄타로 - [KENCHI](https://ko.wikipedia.org/wiki/타치바나_켄치 "wikilink") ([EXILE](https://ko.wikipedia.org/wiki/EXILE "wikilink"))
+  - 후쿠다 켄타로 - [KENCHI](../Page/타치바나_켄치.md "wikilink") ([EXILE](https://ko.wikipedia.org/wiki/EXILE "wikilink"))
   - 히데키.T - 엔도 켄이치
   - 마담 얀&인 - 아사노 유코
   - 니노마에 쥬이치 - [카미키 류노스케](https://ko.wikipedia.org/wiki/카미키_류노스케 "wikilink")
@@ -38,7 +38,7 @@
 ## 스태프
 
   - 감독 - [츠츠미 유키히코](https://ko.wikipedia.org/wiki/츠츠미_유키히코 "wikilink")
-  - 각본 - [니시오기 유미에](https://ko.wikipedia.org/wiki/니시오기_유미에 "wikilink")
+  - 각본 - [니시오기 유미에](../Page/니시오기_유미에.md "wikilink")
   - 주제가 - THE RiCECOOKERS (Anchor Records)
       - 전편 - 〈audioletter acoustic ver.〉
       - 후편 - 〈audioletter〉

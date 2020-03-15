@@ -14,7 +14,7 @@
 
 ### CD
 
-  - [4th LIVE TOUR 2009 \~The Secret Code\~](https://ko.wikipedia.org/wiki/4th_LIVE_TOUR_2009_~The_Secret_Code~ "wikilink") END ROLL 영상
+  - [4th LIVE TOUR 2009 \~The Secret Code\~](../Page/4th_LIVE_TOUR_2009_~The_Secret_Code~.md "wikilink") END ROLL 영상
   - Stand by U (Drama Ver.)
 
 ### DVD

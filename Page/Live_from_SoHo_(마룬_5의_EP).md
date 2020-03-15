@@ -5,7 +5,7 @@
 
 ## 수록곡
 
-1.  "[If I Never See Your Face Again](https://ko.wikipedia.org/wiki/If_I_Never_See_Your_Face_Again "wikilink")" – 4:53
+1.  "[If I Never See Your Face Again](../Page/If_I_Never_See_Your_Face_Again.md "wikilink")" – 4:53
 2.  "[Makes Me Wonder](https://ko.wikipedia.org/wiki/Makes_Me_Wonder "wikilink")" – 4:17
 3.  "Little Of Your Time" – 2:34
 4.  "[Wake Up Call](https://ko.wikipedia.org/wiki/Wake_Up_Call "wikilink")" – 4:10

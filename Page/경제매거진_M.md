@@ -16,18 +16,18 @@
 
 ### 현재 진행자
 
-  - [박창현](https://ko.wikipedia.org/wiki/박창현_\(아나운서\) "wikilink") - [문화방송](https://ko.wikipedia.org/wiki/문화방송 "wikilink") 아나운서 (남)
+  - [박창현](../Page/박창현_\(아나운서\).md "wikilink") - [문화방송](https://ko.wikipedia.org/wiki/문화방송 "wikilink") 아나운서 (남)
   - [차미연](https://ko.wikipedia.org/wiki/차미연 "wikilink") - [문화방송](https://ko.wikipedia.org/wiki/문화방송 "wikilink") 아나운서 (여)
 
 ### 역대 진행자
 
-  - 1대 [이주승](https://ko.wikipedia.org/wiki/이주승 "wikilink"), 지영은
+  - 1대 [이주승](../Page/이주승.md "wikilink"), 지영은
   - 2대 [박선영](https://ko.wikipedia.org/wiki/박선영 "wikilink")
   - 3대 [권재홍](https://ko.wikipedia.org/wiki/권재홍 "wikilink")
   - 4대 [차미연](https://ko.wikipedia.org/wiki/차미연 "wikilink")
   - 5대 [최대현](https://ko.wikipedia.org/wiki/최대현 "wikilink"), [차미연](https://ko.wikipedia.org/wiki/차미연 "wikilink")
   - 6대 [최대현](https://ko.wikipedia.org/wiki/최대현 "wikilink"), [임현주](https://ko.wikipedia.org/wiki/임현주 "wikilink")
-  - 7대 [박창현](https://ko.wikipedia.org/wiki/박창현 "wikilink"), [김초롱](https://ko.wikipedia.org/wiki/김초롱 "wikilink")
+  - 7대 [박창현](https://ko.wikipedia.org/wiki/박창현 "wikilink"), [김초롱](../Page/김초롱.md "wikilink")
   - 8대 [김준상](https://ko.wikipedia.org/wiki/김준상 "wikilink"), [이선영](https://ko.wikipedia.org/wiki/이선영 "wikilink")
   - 9대 [박창현](https://ko.wikipedia.org/wiki/박창현 "wikilink"), [차미연](https://ko.wikipedia.org/wiki/차미연 "wikilink")
 
@@ -56,7 +56,7 @@
 <td><p>전국시대 스페셜</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/MBC충북" title="wikilink">MBC충북</a></p></td>
+<td><p><a href="../Page/MBC충북.md" title="wikilink">MBC충북</a></p></td>
 <td><p>고향생각</p></td>
 </tr>
 <tr class="odd">
@@ -107,7 +107,7 @@
 <td><p>MBC토론 갑론을박</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/MBC강원영동" title="wikilink">MBC강원영동</a></p></td>
+<td><p><a href="../Page/MBC강원영동.md" title="wikilink">MBC강원영동</a></p></td>
 <td><p>나이야 가라</p></td>
 </tr>
 <tr class="odd">

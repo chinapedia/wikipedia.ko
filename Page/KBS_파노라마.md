@@ -27,7 +27,7 @@
 | 보이지 않는 [아이들](https://ko.wikipedia.org/wiki/어린이 "wikilink")                                                                |
 | 7회                                                                                                                        |
 | 9회                                                                                                                        |
-| [쿠쉬나메](https://ko.wikipedia.org/wiki/쿠쉬나메 "wikilink")                                                                     |
+| [쿠쉬나메](../Page/쿠쉬나메.md "wikilink")                                                                                        |
 | 10회                                                                                                                       |
 | 12회                                                                                                                       |
 | [한반도](https://ko.wikipedia.org/wiki/한반도 "wikilink") - 야생은 살아있다                                                            |
@@ -60,7 +60,7 @@
 | 51회                                                                                                                       |
 | 53회                                                                                                                       |
 | 54회                                                                                                                       |
-| [제돌이의 꿈은 바다였습니다](https://ko.wikipedia.org/wiki/2013년_대한민국_남방큰돌고래_방사 "wikilink")                                           |
+| [제돌이의 꿈은 바다였습니다](../Page/2013년_대한민국_남방큰돌고래_방사.md "wikilink")                                                              |
 | 56회                                                                                                                       |
 | 57회                                                                                                                       |
 | 은퇴 - 그 후                                                                                                                  |
@@ -75,90 +75,90 @@
 
 #### [<span style="color:black">2014년</span>](https://ko.wikipedia.org/wiki/2014년 "wikilink")
 
-| 연속 기획 제목                                                                                                                    |
-| --------------------------------------------------------------------------------------------------------------------------- |
-| 회차                                                                                                                          |
-| 글 · 구성                                                                                                                      |
-| 부국의 조건                                                                                                                      |
-| 73회                                                                                                                         |
-| 74회                                                                                                                         |
-| 75회                                                                                                                         |
-| [색](https://ko.wikipedia.org/wiki/색 "wikilink") 네 개의 욕망                                                                     |
-| 77회                                                                                                                         |
-| 114회\[2\]                                                                                                                   |
-| 79회                                                                                                                         |
-| 81회                                                                                                                         |
-| 83회                                                                                                                         |
-| 리얼 [아프리카](https://ko.wikipedia.org/wiki/아프리카 "wikilink")                                                                    |
-| 78회                                                                                                                         |
-| 80회                                                                                                                         |
-| [몽골 고원](https://ko.wikipedia.org/wiki/몽골_고원 "wikilink")                                                                     |
-| 82회                                                                                                                         |
-| 84회                                                                                                                         |
-| 86회                                                                                                                         |
-| 88회                                                                                                                         |
-| [굿모닝 미스터 오웰](https://ko.wikipedia.org/wiki/굿모닝_미스터_오웰 "wikilink") 30년 - [백남준](https://ko.wikipedia.org/wiki/백남준 "wikilink") |
-| 93회                                                                                                                         |
-| 95회                                                                                                                         |
-| 21세기 [교육](https://ko.wikipedia.org/wiki/교육 "wikilink")혁명 - 미래교실을 찾아서                                                        |
-| 94회                                                                                                                         |
-| 96회                                                                                                                         |
-| 110회                                                                                                                        |
-| 신의 [뇌](https://ko.wikipedia.org/wiki/뇌 "wikilink")                                                                          |
-| 97회                                                                                                                         |
-| 99회                                                                                                                         |
-| [히말라야 인](https://ko.wikipedia.org/wiki/히말라야_산맥 "wikilink")                                                                  |
-| 98회                                                                                                                         |
-| 100회                                                                                                                        |
-| 101회                                                                                                                        |
-| [치매](https://ko.wikipedia.org/wiki/치매 "wikilink")                                                                           |
-| 103회                                                                                                                        |
-| 104회                                                                                                                        |
-| [한국인](https://ko.wikipedia.org/wiki/한국인 "wikilink")의 [고독사](https://ko.wikipedia.org/wiki/고독사 "wikilink")\[3\]               |
-| 107회                                                                                                                        |
-| 109회                                                                                                                        |
-| [여야 의원 4인](https://ko.wikipedia.org/wiki/국회의원 "wikilink") - [독일](https://ko.wikipedia.org/wiki/독일 "wikilink")에 가다           |
-| 111회                                                                                                                        |
-| 112회                                                                                                                        |
-| [훔볼트](https://ko.wikipedia.org/wiki/알렉산더_폰_훔볼트 "wikilink") 로드 - 왜 탐험하는가                                                     |
-| 113회                                                                                                                        |
-| 115회                                                                                                                        |
-| 117회                                                                                                                        |
-| 119회                                                                                                                        |
-| 위험한 [생명](https://ko.wikipedia.org/wiki/야생동물 "wikilink")                                                                     |
-| 116회                                                                                                                        |
-| 118회                                                                                                                        |
-| 120회                                                                                                                        |
-| 디지털 미래경제                                                                                                                    |
-| 122회                                                                                                                        |
-| 123회                                                                                                                        |
-| [세월호 참사 100일 기획](https://ko.wikipedia.org/wiki/세월호_침몰_사고 "wikilink")                                                        |
-| 124회                                                                                                                        |
-| 125회                                                                                                                        |
-| 친환경 [유기농](https://ko.wikipedia.org/wiki/유기농 "wikilink")의 진실                                                                 |
-| 126회                                                                                                                        |
-| 128회                                                                                                                        |
-| [전쟁과](https://ko.wikipedia.org/wiki/제2차_세계대전 "wikilink") [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")                  |
-| 127회                                                                                                                        |
-| 129회                                                                                                                        |
-| 131회                                                                                                                        |
-| 133회                                                                                                                        |
-| [카레이스키](https://ko.wikipedia.org/wiki/고려인 "wikilink") [150](https://ko.wikipedia.org/wiki/1864년 "wikilink")                 |
-| 132회                                                                                                                        |
-| 134회                                                                                                                        |
-| 135회                                                                                                                        |
-| [코리아 이브](https://ko.wikipedia.org/wiki/한국인 "wikilink")                                                                      |
-| 136회                                                                                                                        |
-| 137회                                                                                                                        |
-| [플랫폼](https://ko.wikipedia.org/wiki/컴퓨팅_플랫폼 "wikilink") 혁명                                                                  |
-| 139회                                                                                                                        |
-| 144회                                                                                                                        |
-| [통일](https://ko.wikipedia.org/wiki/통일 "wikilink")을 보는 두 가지 테마                                                               |
-| 140회                                                                                                                        |
-| 141회                                                                                                                        |
-| [한국 무형문화유산](https://ko.wikipedia.org/wiki/무형문화재 "wikilink")                                                                 |
-| 144회                                                                                                                        |
-| 145회                                                                                                                        |
+| 연속 기획 제목                                                                                                          |
+| ----------------------------------------------------------------------------------------------------------------- |
+| 회차                                                                                                                |
+| 글 · 구성                                                                                                            |
+| 부국의 조건                                                                                                            |
+| 73회                                                                                                               |
+| 74회                                                                                                               |
+| 75회                                                                                                               |
+| [색](https://ko.wikipedia.org/wiki/색 "wikilink") 네 개의 욕망                                                           |
+| 77회                                                                                                               |
+| 114회\[2\]                                                                                                         |
+| 79회                                                                                                               |
+| 81회                                                                                                               |
+| 83회                                                                                                               |
+| 리얼 [아프리카](https://ko.wikipedia.org/wiki/아프리카 "wikilink")                                                          |
+| 78회                                                                                                               |
+| 80회                                                                                                               |
+| [몽골 고원](https://ko.wikipedia.org/wiki/몽골_고원 "wikilink")                                                           |
+| 82회                                                                                                               |
+| 84회                                                                                                               |
+| 86회                                                                                                               |
+| 88회                                                                                                               |
+| [굿모닝 미스터 오웰](../Page/굿모닝_미스터_오웰.md "wikilink") 30년 - [백남준](https://ko.wikipedia.org/wiki/백남준 "wikilink")          |
+| 93회                                                                                                               |
+| 95회                                                                                                               |
+| 21세기 [교육](https://ko.wikipedia.org/wiki/교육 "wikilink")혁명 - 미래교실을 찾아서                                              |
+| 94회                                                                                                               |
+| 96회                                                                                                               |
+| 110회                                                                                                              |
+| 신의 [뇌](https://ko.wikipedia.org/wiki/뇌 "wikilink")                                                                |
+| 97회                                                                                                               |
+| 99회                                                                                                               |
+| [히말라야 인](https://ko.wikipedia.org/wiki/히말라야_산맥 "wikilink")                                                        |
+| 98회                                                                                                               |
+| 100회                                                                                                              |
+| 101회                                                                                                              |
+| [치매](https://ko.wikipedia.org/wiki/치매 "wikilink")                                                                 |
+| 103회                                                                                                              |
+| 104회                                                                                                              |
+| [한국인](https://ko.wikipedia.org/wiki/한국인 "wikilink")의 [고독사](https://ko.wikipedia.org/wiki/고독사 "wikilink")\[3\]     |
+| 107회                                                                                                              |
+| 109회                                                                                                              |
+| [여야 의원 4인](https://ko.wikipedia.org/wiki/국회의원 "wikilink") - [독일](https://ko.wikipedia.org/wiki/독일 "wikilink")에 가다 |
+| 111회                                                                                                              |
+| 112회                                                                                                              |
+| [훔볼트](https://ko.wikipedia.org/wiki/알렉산더_폰_훔볼트 "wikilink") 로드 - 왜 탐험하는가                                           |
+| 113회                                                                                                              |
+| 115회                                                                                                              |
+| 117회                                                                                                              |
+| 119회                                                                                                              |
+| 위험한 [생명](https://ko.wikipedia.org/wiki/야생동물 "wikilink")                                                           |
+| 116회                                                                                                              |
+| 118회                                                                                                              |
+| 120회                                                                                                              |
+| 디지털 미래경제                                                                                                          |
+| 122회                                                                                                              |
+| 123회                                                                                                              |
+| [세월호 참사 100일 기획](../Page/세월호_침몰_사고.md "wikilink")                                                                 |
+| 124회                                                                                                              |
+| 125회                                                                                                              |
+| 친환경 [유기농](https://ko.wikipedia.org/wiki/유기농 "wikilink")의 진실                                                       |
+| 126회                                                                                                              |
+| 128회                                                                                                              |
+| [전쟁과](https://ko.wikipedia.org/wiki/제2차_세계대전 "wikilink") [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")        |
+| 127회                                                                                                              |
+| 129회                                                                                                              |
+| 131회                                                                                                              |
+| 133회                                                                                                              |
+| [카레이스키](https://ko.wikipedia.org/wiki/고려인 "wikilink") [150](https://ko.wikipedia.org/wiki/1864년 "wikilink")       |
+| 132회                                                                                                              |
+| 134회                                                                                                              |
+| 135회                                                                                                              |
+| [코리아 이브](https://ko.wikipedia.org/wiki/한국인 "wikilink")                                                            |
+| 136회                                                                                                              |
+| 137회                                                                                                              |
+| [플랫폼](https://ko.wikipedia.org/wiki/컴퓨팅_플랫폼 "wikilink") 혁명                                                        |
+| 139회                                                                                                              |
+| 144회                                                                                                              |
+| [통일](https://ko.wikipedia.org/wiki/통일 "wikilink")을 보는 두 가지 테마                                                     |
+| 140회                                                                                                              |
+| 141회                                                                                                              |
+| [한국 무형문화유산](https://ko.wikipedia.org/wiki/무형문화재 "wikilink")                                                       |
+| 144회                                                                                                              |
+| 145회                                                                                                              |
 
 ### 단편 기획
 
@@ -170,7 +170,7 @@
 | 3회     | [4월 18일](https://ko.wikipedia.org/wiki/4월_18일 "wikilink")   | [철의](https://ko.wikipedia.org/wiki/철의_여인_\(영화\) "wikilink") [여인의](https://ko.wikipedia.org/wiki/마거릿_대처 "wikilink") 유산                                                                                                    | 고은희      |
 | 5회     | [4월 25일](https://ko.wikipedia.org/wiki/4월_25일 "wikilink")   | [김정은](https://ko.wikipedia.org/wiki/김정은 "wikilink") - [한](https://ko.wikipedia.org/wiki/대한민국 "wikilink") · [미](https://ko.wikipedia.org/wiki/미국 "wikilink") · [중의](https://ko.wikipedia.org/wiki/중화인민공화국 "wikilink") 딜레마 | \-       |
 | 8회     | [5월 10일](https://ko.wikipedia.org/wiki/5월_10일 "wikilink")   | [바다](https://ko.wikipedia.org/wiki/바다의_날_\(대한민국\) "wikilink")[식목일](https://ko.wikipedia.org/wiki/식목일 "wikilink") 기획 - [바다](https://ko.wikipedia.org/wiki/바다 "wikilink")[숲](https://ko.wikipedia.org/wiki/숲 "wikilink")   | 나은희      |
-| 11회    | [5월 23일](https://ko.wikipedia.org/wiki/5월_23일 "wikilink")   | [아베](https://ko.wikipedia.org/wiki/아베_신조 "wikilink")[의 질주](https://ko.wikipedia.org/wiki/아베노믹스 "wikilink")                                                                                                               | 김영지      |
+| 11회    | [5월 23일](https://ko.wikipedia.org/wiki/5월_23일 "wikilink")   | [아베](https://ko.wikipedia.org/wiki/아베_신조 "wikilink")[의 질주](../Page/아베노믹스.md "wikilink")                                                                                                                                  | 김영지      |
 | 14회    | [5월 31일](https://ko.wikipedia.org/wiki/5월_31일 "wikilink")   | 백정 [아버지](https://ko.wikipedia.org/wiki/아버지 "wikilink")와 서양의사 [아들](https://ko.wikipedia.org/wiki/아들 "wikilink")                                                                                                           | 최미혜      |
 | 15회    | [6월 6일](https://ko.wikipedia.org/wiki/6월_6일 "wikilink")     | [아버지의](https://ko.wikipedia.org/wiki/대한민국 "wikilink") [나라](https://ko.wikipedia.org/wiki/국가 "wikilink") - [재일동포](https://ko.wikipedia.org/wiki/재일_한국인 "wikilink") [청년](https://ko.wikipedia.org/wiki/청년 "wikilink")들의 선택 | \-       |
 | 17회    | [6월 13일](https://ko.wikipedia.org/wiki/6월_13일 "wikilink")   | 검은 돈의 보물섬 - [조세회피처](https://ko.wikipedia.org/wiki/조세_피난처 "wikilink")                                                                                                                                                     | 강문채      |
@@ -241,7 +241,7 @@
 <tr class="odd">
 <td><p>89회</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/2월_21일" title="wikilink">2월 21일</a></p></td>
-<td><p>엄마의 나라 - <a href="https://ko.wikipedia.org/wiki/출입국관리" title="wikilink">중도입국</a> <a href="https://ko.wikipedia.org/wiki/청소년" title="wikilink">청소년</a> 표류기</p></td>
+<td><p>엄마의 나라 - <a href="../Page/출입국관리.md" title="wikilink">중도입국</a> <a href="https://ko.wikipedia.org/wiki/청소년" title="wikilink">청소년</a> 표류기</p></td>
 <td><p>최미혜</p></td>
 </tr>
 <tr class="even">
@@ -265,7 +265,7 @@
 <tr class="odd">
 <td><p>102회</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/4월_28일" title="wikilink">4월 28일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/세월호_침몰_사고" title="wikilink">세월호를 기억하라</a></p></td>
+<td><p><a href="../Page/세월호_침몰_사고.md" title="wikilink">세월호를 기억하라</a></p></td>
 <td><p>신지현</p></td>
 </tr>
 <tr class="even">
@@ -314,7 +314,7 @@
 <tr class="odd">
 <td><p>143회</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/10월_10일" title="wikilink">10월 10일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/토마_피케티" title="wikilink">피케티의</a> <a href="https://ko.wikipedia.org/wiki/21세기_자본" title="wikilink">21세기 자본</a> - 세계 경제에 던지는 질문</p></td>
+<td><p><a href="../Page/토마_피케티.md" title="wikilink">피케티의</a> <a href="../Page/21세기_자본.md" title="wikilink">21세기 자본</a> - 세계 경제에 던지는 질문</p></td>
 <td><p>김경선</p></td>
 </tr>
 <tr class="even">

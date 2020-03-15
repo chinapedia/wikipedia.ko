@@ -7,7 +7,7 @@
 
 [웹 브라우저](https://ko.wikipedia.org/wiki/웹_브라우저 "wikilink") 기반의 통신 방식인 WebRTC는 [구글](https://ko.wikipedia.org/wiki/구글 "wikilink")이 [오픈 소스화한](https://ko.wikipedia.org/wiki/오픈_소스 "wikilink") 프로젝트에서 기원하였다.\[1\] 그 뒤로 [국제 인터넷 표준화 기구](https://ko.wikipedia.org/wiki/국제_인터넷_표준화_기구 "wikilink")\[2\]가 [프로토콜](https://ko.wikipedia.org/wiki/프로토콜 "wikilink") 표준화 작업을, [W3C](https://ko.wikipedia.org/wiki/W3C "wikilink")가 API 정의를 진행하였다.\[3\]
 
-WebRTC의 W3C 초안\[4\] 작업은 진행 중이며 [크롬과](https://ko.wikipedia.org/wiki/구글_크롬 "wikilink") [파이어폭스](https://ko.wikipedia.org/wiki/파이어폭스 "wikilink") 브라우저에서 먼저 구현되고 있다. API는 [WHATWG](https://ko.wikipedia.org/wiki/WHATWG "wikilink")\[5\]과 [에릭슨](https://ko.wikipedia.org/wiki/에릭슨 "wikilink").\[6\]의 작업에 기반하여 정의되었다.
+WebRTC의 W3C 초안\[4\] 작업은 진행 중이며 [크롬과](https://ko.wikipedia.org/wiki/구글_크롬 "wikilink") [파이어폭스](https://ko.wikipedia.org/wiki/파이어폭스 "wikilink") 브라우저에서 먼저 구현되고 있다. API는 [WHATWG](../Page/WHATWG.md "wikilink")\[5\]과 [에릭슨](https://ko.wikipedia.org/wiki/에릭슨 "wikilink").\[6\]의 작업에 기반하여 정의되었다.
 
 ## 개요
 
@@ -28,19 +28,19 @@ WebRTC의 주요 구성 요소는 여러 [자바스크립트](https://ko.wikiped
 WebRTC는 다음의 브라우저에서 지원된다:
 
   - 데스크톱 PC
-      - [마이크로소프트 엣지](https://ko.wikipedia.org/wiki/마이크로소프트_엣지 "wikilink") 12+\[11\]
+      - [마이크로소프트 엣지](../Page/마이크로소프트_엣지.md "wikilink") 12+\[11\]
       - [구글 크롬](https://ko.wikipedia.org/wiki/구글_크롬 "wikilink") 28+
       - [모질라 파이어폭스](https://ko.wikipedia.org/wiki/모질라_파이어폭스 "wikilink") 22+\[12\]
       - [Safari](https://ko.wikipedia.org/wiki/사파리_\(웹_브라우저\) "wikilink") 11+\[13\]
       - [Opera](https://ko.wikipedia.org/wiki/오페라_\(웹_브라우저\) "wikilink") 18+\[14\]
-      - [Vivaldi](https://ko.wikipedia.org/wiki/비발디_\(웹_브라우저\) "wikilink") 1.9+
+      - [Vivaldi](../Page/비발디_\(웹_브라우저\).md "wikilink") 1.9+
   - [Android](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink")
       - Google Chrome 28+ (버전 29부터 기본으로 활성화됨)
       - Mozilla Firefox 24+\[15\]
       - Opera Mobile 12+
   - [크롬 OS](https://ko.wikipedia.org/wiki/크롬_OS "wikilink")
   - [파이어폭스 OS](https://ko.wikipedia.org/wiki/파이어폭스_OS "wikilink")
-  - [블랙베리 10](https://ko.wikipedia.org/wiki/블랙베리_10 "wikilink")
+  - [블랙베리 10](../Page/블랙베리_10.md "wikilink")
   - [IOS 11](https://ko.wikipedia.org/wiki/IOS_11 "wikilink")
       - MobileSafari/WebKit
   - [타이젠](https://ko.wikipedia.org/wiki/타이젠 "wikilink") 3.0
