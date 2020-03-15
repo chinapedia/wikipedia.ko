@@ -5,7 +5,7 @@
 
 본래 [닛산 자동차의](https://ko.wikipedia.org/wiki/닛산_자동차 "wikilink") 방계 회사인 **닛산 디젤**()(설립 당초는 일본 디젤 산업) 주식회사가 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink")에 [볼보 트럭에](https://ko.wikipedia.org/wiki/볼보_트럭 "wikilink") 인수되어 [볼보 트럭의](https://ko.wikipedia.org/wiki/볼보_트럭 "wikilink") 자회사가 되었다가 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink")에 현재의 사명으로 변경했다.\[1\]\[2\]\[3\]
 
-[대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 경우 [1960년대](https://ko.wikipedia.org/wiki/1960년대 "wikilink")에 [한일 관계의](https://ko.wikipedia.org/wiki/한일_관계 "wikilink") 정상화로 최초로 [대한통운](https://ko.wikipedia.org/wiki/대한통운 "wikilink")이 [트레일러를](https://ko.wikipedia.org/wiki/트레일러_\(자동차\) "wikilink") 도입했다. [쌍용자동차](https://ko.wikipedia.org/wiki/쌍용자동차 "wikilink")의 전신인 동아자동차가 [1970년대](https://ko.wikipedia.org/wiki/1970년대 "wikilink")부터 [1980년대](https://ko.wikipedia.org/wiki/1980년대 "wikilink")까지 [라이센스](https://ko.wikipedia.org/wiki/라이센스 "wikilink") 계약을 통해 트럭을 생산한 바가 있으며 [삼성자동차](https://ko.wikipedia.org/wiki/삼성자동차 "wikilink")도 [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink")부터 [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink")까지 기술 제휴를 통해서 [트럭](https://ko.wikipedia.org/wiki/트럭 "wikilink")과 [삼성 야무진을](https://ko.wikipedia.org/wiki/삼성_야무진 "wikilink") 생산한 바가 있다.\[4\] [1980년대](https://ko.wikipedia.org/wiki/1980년대 "wikilink")에 [닛산 레조나를](https://ko.wikipedia.org/wiki/닛산_디젤_레조나 "wikilink") [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에 수입한 적이 있으나 차량을 단종시키면서 도입을 중단하였고 이후 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에 지사 설립과 동시에 본격적으로 진출했다.\[5\]
+[대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 경우 [1960년대](https://ko.wikipedia.org/wiki/1960년대 "wikilink")에 [한일 관계의](https://ko.wikipedia.org/wiki/한일_관계 "wikilink") 정상화로 최초로 [대한통운](https://ko.wikipedia.org/wiki/대한통운 "wikilink")이 [트레일러를](https://ko.wikipedia.org/wiki/트레일러_\(자동차\) "wikilink") 도입했다. [쌍용자동차](https://ko.wikipedia.org/wiki/쌍용자동차 "wikilink")의 전신인 동아자동차가 [1970년대](https://ko.wikipedia.org/wiki/1970년대 "wikilink")부터 [1980년대](https://ko.wikipedia.org/wiki/1980년대 "wikilink")까지 [라이센스](https://ko.wikipedia.org/wiki/라이센스 "wikilink") 계약을 통해 트럭을 생산한 바가 있으며 [삼성자동차](https://ko.wikipedia.org/wiki/삼성자동차 "wikilink")도 [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink")부터 [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink")까지 기술 제휴를 통해서 [트럭](https://ko.wikipedia.org/wiki/트럭 "wikilink")과 [삼성 야무진을](https://ko.wikipedia.org/wiki/삼성_야무진 "wikilink") 생산한 바가 있다.\[4\] [1980년대](https://ko.wikipedia.org/wiki/1980년대 "wikilink")에 [닛산 레조나를](../Page/닛산_디젤_레조나.md "wikilink") [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에 수입한 적이 있으나 차량을 단종시키면서 도입을 중단하였고 이후 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에 지사 설립과 동시에 본격적으로 진출했다.\[5\]
 
 ## 역사
 
@@ -36,8 +36,8 @@
   - [UD트럭 카제트](https://ko.wikipedia.org/wiki/UD트럭_카제트 "wikilink")
   - [UD트럭 쿠제](https://ko.wikipedia.org/wiki/UD트럭_쿠제 "wikilink")
   - [UD트럭 퀘스터](https://ko.wikipedia.org/wiki/UD트럭_퀘스터 "wikilink")
-  - [닛산 디젤 콘도르](https://ko.wikipedia.org/wiki/닛산_디젤_콘도르 "wikilink")
-  - [닛산 디젤 큐온](https://ko.wikipedia.org/wiki/닛산_디젤_큐온 "wikilink")
+  - [닛산 디젤 콘도르](../Page/닛산_디젤_콘도르.md "wikilink")
+  - [닛산 디젤 큐온](../Page/닛산_디젤_큐온.md "wikilink")
 
 <!-- end list -->
 
@@ -67,8 +67,8 @@
   - [TN 93](https://ko.wikipedia.org/wiki/:ja:民生デイゼル工業 "wikilink")
   - [닛산 디젤 TW](https://ko.wikipedia.org/wiki/닛산_디젤_TW "wikilink")
   - [닛산 디젤 바이손](https://ko.wikipedia.org/wiki/닛산_디젤_바이손 "wikilink")
-  - [닛산 디젤 레조나](https://ko.wikipedia.org/wiki/닛산_디젤_레조나 "wikilink")
-  - [닛산 디젤 빅섬](https://ko.wikipedia.org/wiki/닛산_디젤_빅섬 "wikilink")
+  - [닛산 디젤 레조나](../Page/닛산_디젤_레조나.md "wikilink")
+  - [닛산 디젤 빅섬](../Page/닛산_디젤_빅섬.md "wikilink")
   - [닛산 디젤 선그레이트](https://ko.wikipedia.org/wiki/닛산_디젤_선그레이트 "wikilink")
 
 <!-- end list -->

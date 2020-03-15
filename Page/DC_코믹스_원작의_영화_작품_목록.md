@@ -128,7 +128,7 @@ Constantine</p></td>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/배트맨_비긴즈" title="wikilink">배트맨 비긴즈</a><br />
 Batman Begins</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/워너_브라더스" title="wikilink">워너 브라더스</a>/DC Entertainment/<a href="https://ko.wikipedia.org/wiki/레전더리_픽처스" title="wikilink">레전더리 픽처스</a>/<a href="https://ko.wikipedia.org/wiki/신카피" title="wikilink">신카피</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/워너_브라더스" title="wikilink">워너 브라더스</a>/DC Entertainment/<a href="https://ko.wikipedia.org/wiki/레전더리_픽처스" title="wikilink">레전더리 픽처스</a>/<a href="../Page/신카피.md" title="wikilink">신카피</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -150,7 +150,7 @@ Superman returns</p></td>
 <td><p>2008</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/다크_나이트" title="wikilink">다크 나이트</a><br />
 The Dark Knight</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/워너_브라더스" title="wikilink">워너 브라더스</a>/DC Entertainment/<a href="https://ko.wikipedia.org/wiki/레전더리_픽처스" title="wikilink">레전더리 픽처스</a>/<a href="https://ko.wikipedia.org/wiki/신카피" title="wikilink">신카피</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/워너_브라더스" title="wikilink">워너 브라더스</a>/DC Entertainment/<a href="https://ko.wikipedia.org/wiki/레전더리_픽처스" title="wikilink">레전더리 픽처스</a>/<a href="../Page/신카피.md" title="wikilink">신카피</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -162,7 +162,7 @@ Watch Men</p></td>
 </tr>
 <tr class="odd">
 <td><p>2010</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/루저스" title="wikilink">루저스</a><br />
+<td><p><a href="../Page/루저스.md" title="wikilink">루저스</a><br />
 The Losers</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/워너_브라더스" title="wikilink">워너 브라더스</a>/<a href="https://ko.wikipedia.org/wiki/다크_캐슬_엔터테인먼트" title="wikilink">다크 캐슬 엔터테인먼트</a></p></td>
 <td><p>버티고 코믹스 원작</p></td>
@@ -185,14 +185,14 @@ Green Lantern</p></td>
 <td><p>2012</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/다크_나이트_라이즈" title="wikilink">다크 나이트 라이즈</a><br />
 The Dark Knight Rises</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/워너_브라더스" title="wikilink">워너 브라더스</a>/DC Entertainment/<a href="https://ko.wikipedia.org/wiki/레전더리_픽처스" title="wikilink">레전더리 픽처스</a>/<a href="https://ko.wikipedia.org/wiki/신카피" title="wikilink">신카피</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/워너_브라더스" title="wikilink">워너 브라더스</a>/DC Entertainment/<a href="https://ko.wikipedia.org/wiki/레전더리_픽처스" title="wikilink">레전더리 픽처스</a>/<a href="../Page/신카피.md" title="wikilink">신카피</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2013</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/맨_오브_스틸" title="wikilink">맨 오브 스틸</a><br />
 Man of Steel</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/워너_브라더스" title="wikilink">워너 브라더스</a>/DC Entertainment/<a href="https://ko.wikipedia.org/wiki/레전더리_픽처스" title="wikilink">레전더리 픽처스</a>/<a href="https://ko.wikipedia.org/wiki/신카피" title="wikilink">신카피</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/워너_브라더스" title="wikilink">워너 브라더스</a>/DC Entertainment/<a href="https://ko.wikipedia.org/wiki/레전더리_픽처스" title="wikilink">레전더리 픽처스</a>/<a href="../Page/신카피.md" title="wikilink">신카피</a></p></td>
 <td><p>Set in the DC Films Universe</p></td>
 </tr>
 <tr class="even">
@@ -211,13 +211,13 @@ Suicide Squad</p></td>
 </tr>
 <tr class="even">
 <td><p>2017</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/원더우먼_(2017년_영화)" title="wikilink">원더우먼</a><br />
+<td><p><a href="../Page/원더우먼_(2017년_영화).md" title="wikilink">원더우먼</a><br />
 Wonder Woman</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/워너_브라더스" title="wikilink">워너 브라더스</a>/DC Entertainment/<a href="https://ko.wikipedia.org/wiki/랫팩-듄_엔터테인먼트" title="wikilink">랫팩 엔터테인먼트</a>/Atlas Entertainment/Cruel and Unusual Films</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/저스티스_리그_(영화)" title="wikilink">저스티스 리그</a><br />
+<td><p><a href="../Page/저스티스_리그_(영화).md" title="wikilink">저스티스 리그</a><br />
 Justice League</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/워너_브라더스" title="wikilink">워너 브라더스</a>/DC Entertainment/<a href="https://ko.wikipedia.org/wiki/랫팩-듄_엔터테인먼트" title="wikilink">랫팩 엔터테인먼트</a>/Atlas Entertainment/Cruel and Unusual Films</p></td>
 <td></td>

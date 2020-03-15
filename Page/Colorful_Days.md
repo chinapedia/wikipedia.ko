@@ -5,9 +5,9 @@
 
 ## 개요
 
-정식적인 제목은 〈**THE IDOLM@STER MASTER SPECIAL 765 “Colorful Days”**〉이며, 《[MASTER SPECIAL](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_MASTER_SPECIAL "wikilink")》 시리즈에 포함되어 타이틀 곡 〈Colorful Days〉는, [PSP](https://ko.wikipedia.org/wiki/플레이스테이션_포터블 "wikilink") 전용 게임 《[THE IDOLM@STER SP](../Page/THE_IDOLM@STER_SP.md "wikilink")》의 주제가이다. 이 CD의 발매에 앞서 2008년 11월 21일부터 2008년 12월 3일까지의 기간 한정으로 같은 곡의 게임 버전이 휴대 사이트인 아니메로믹스 ‘아니메로☆노래’에서 착신음으로서 무료 공개되었다.
+정식적인 제목은 〈**THE IDOLM@STER MASTER SPECIAL 765 “Colorful Days”**〉이며, 《[MASTER SPECIAL](../Page/THE_IDOLM@STER_MASTER_SPECIAL.md "wikilink")》 시리즈에 포함되어 타이틀 곡 〈Colorful Days〉는, [PSP](https://ko.wikipedia.org/wiki/플레이스테이션_포터블 "wikilink") 전용 게임 《[THE IDOLM@STER SP](../Page/THE_IDOLM@STER_SP.md "wikilink")》의 주제가이다. 이 CD의 발매에 앞서 2008년 11월 21일부터 2008년 12월 3일까지의 기간 한정으로 같은 곡의 게임 버전이 휴대 사이트인 아니메로믹스 ‘아니메로☆노래’에서 착신음으로서 무료 공개되었다.
 
-동시 발매된 [오버마스터](https://ko.wikipedia.org/wiki/오버마스터 "wikilink")와의 동시 구입 특전으로서 선착으로 ‘미니노보리와 이벤트 응모 엽서’\[1\]가 메이커 특전으로서 선물되었다.
+동시 발매된 [오버마스터](../Page/오버마스터.md "wikilink")와의 동시 구입 특전으로서 선착으로 ‘미니노보리와 이벤트 응모 엽서’\[1\]가 메이커 특전으로서 선물되었다.
 
 초회 한정반에는 〈765 프로 Colorful Days 선행 프로모션 비디오〉, 〈TOKYO GAME SHOW 2008 프로모션 영상〉, 〈게임 선행 영상 ‘라이벌과의 만남 (하루카·치하야·아미편)’〉, 〈[나카무라 에리코](https://ko.wikipedia.org/wiki/나카무라_에리코 "wikilink")·[이마이 아사미](https://ko.wikipedia.org/wiki/이마이_아사미 "wikilink")·[시모다 아사미](https://ko.wikipedia.org/wiki/시모다_아사미 "wikilink")·[니고 마야코으로의](https://ko.wikipedia.org/wiki/니고_마야코 "wikilink") 인터뷰 영상〉\[2\]\> 이 수록된 DVD가 부속된다.
 

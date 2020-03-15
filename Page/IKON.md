@@ -1,21 +1,21 @@
 > This article is converted from Wikipedia: [IKON](https://ko.wikipedia.org/wiki/IKON).
 
 
-**iKON**(아이콘)은 [YG 엔터테인먼트](https://ko.wikipedia.org/wiki/YG_엔터테인먼트 "wikilink") 소속의 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") 6인조 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌_가수 "wikilink") 음악 그룹이다. 멤버는 [김진환](https://ko.wikipedia.org/wiki/김진환_\(1994년\) "wikilink"), [송윤형](https://ko.wikipedia.org/wiki/송윤형 "wikilink"), [BOBBY](../Page/BOBBY.md "wikilink"), [김동혁](https://ko.wikipedia.org/wiki/김동혁_\(가수\) "wikilink"), [구준회](https://ko.wikipedia.org/wiki/구준회 "wikilink"), [정찬우로](https://ko.wikipedia.org/wiki/정찬우_\(가수\) "wikilink") 구성되어 있다. 아이콘은 'icon'과 'korea'의 합성어로 기존의 icon에서 c 대신에 k를 넣어 한국의 icon이 되라는 의미가 담겨 있다.\[1\]
+**iKON**(아이콘)은 [YG 엔터테인먼트](https://ko.wikipedia.org/wiki/YG_엔터테인먼트 "wikilink") 소속의 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") 6인조 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌_가수 "wikilink") 음악 그룹이다. 멤버는 [김진환](https://ko.wikipedia.org/wiki/김진환_\(1994년\) "wikilink"), [송윤형](../Page/송윤형.md "wikilink"), [BOBBY](../Page/BOBBY.md "wikilink"), [김동혁](../Page/김동혁_\(가수\).md "wikilink"), [구준회](../Page/구준회.md "wikilink"), [정찬우로](../Page/정찬우_\(가수\).md "wikilink") 구성되어 있다. 아이콘은 'icon'과 'korea'의 합성어로 기존의 icon에서 c 대신에 k를 넣어 한국의 icon이 되라는 의미가 담겨 있다.\[1\]
 
 ## 경력
 
 ### 2013–2014: 결성
 
-아이콘은 데뷔 이전 2013년 [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink")에서 방송 된 리얼리티 서바이벌 프로그램 《WIN - Who Is Next?》에 당시에 연습생이였던 [B.I](https://ko.wikipedia.org/wiki/B.I "wikilink"), [김진환](https://ko.wikipedia.org/wiki/김진환_\(1994년\) "wikilink"), [BOBBY](../Page/BOBBY.md "wikilink")(2011년 1월 연습생 시작), [송윤형](https://ko.wikipedia.org/wiki/송윤형 "wikilink"), [구준회](https://ko.wikipedia.org/wiki/구준회 "wikilink")(2012년 4월 연습생 시작), [김동혁](https://ko.wikipedia.org/wiki/김동혁_\(가수\) "wikilink")(2012년 연습생 시작)이 Team B라는 이름으로 출연했다. 서바이벌 프로그램을 통해 Team B는 세 장의 싱글 음반을 발표하기도 했다.\[2\]
+아이콘은 데뷔 이전 2013년 [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink")에서 방송 된 리얼리티 서바이벌 프로그램 《WIN - Who Is Next?》에 당시에 연습생이였던 [B.I](https://ko.wikipedia.org/wiki/B.I "wikilink"), [김진환](https://ko.wikipedia.org/wiki/김진환_\(1994년\) "wikilink"), [BOBBY](../Page/BOBBY.md "wikilink")(2011년 1월 연습생 시작), [송윤형](../Page/송윤형.md "wikilink"), [구준회](../Page/구준회.md "wikilink")(2012년 4월 연습생 시작), [김동혁](../Page/김동혁_\(가수\).md "wikilink")(2012년 연습생 시작)이 Team B라는 이름으로 출연했다. 서바이벌 프로그램을 통해 Team B는 세 장의 싱글 음반을 발표하기도 했다.\[2\]
 
 [2014년 6월](https://ko.wikipedia.org/wiki/2014년_6월 "wikilink"), Team B는 두 번째 리얼리티 서바이벌 프로그램 《믹스 앤 매치》에 출연했고, 이 프로그램에서는 새로운 7번째 멤버를 찾는 것에 포커스가 맞춰졌다. 기존의 Team B(6명)의 멤버들과 3명의 새로운 연습생 멤버의 정찬우, 정진형, 양홍석이 합류했다. 이 중에 김진환팀, B.I팀, BOBBY팀으로 나눠 대결을 해 우승자의 아이콘으로 데뷔하게 되었는데, 최종 멤버로 [정찬우가](https://ko.wikipedia.org/wiki/정찬우_\(1998년\) "wikilink") 합류하였다.\[3\]\[4\]\[5\] 이후 [B.I](https://ko.wikipedia.org/wiki/B.I "wikilink")와 [BOBBY](../Page/BOBBY.md "wikilink")가 힙합 래퍼 서바이벌 프로그램 《[쇼미더머니](https://ko.wikipedia.org/wiki/쇼미더머니 "wikilink")》에 참여했다. [BOBBY](../Page/BOBBY.md "wikilink")는 자신의 랩 실력을 유감없이 발휘해 프로그램에서 최종 우승을 해 iKON이라는 그룹을 알리는 계기가 되었다.\[6\]
 
 ### 2015–2016: 데뷔와 *WELCOME BACK*, 일본 데뷔와 첫 아시아 투어
 
-2015년 9월 4일, [YG 엔터테인먼트는](https://ko.wikipedia.org/wiki/YG_엔터테인먼트 "wikilink") 공식 블로그를 통해 아이콘과 [위너가](https://ko.wikipedia.org/wiki/WINNER "wikilink") 함께 등장한 프로젝트 필름 "dimension" 티저 포스터를 게재했고, 9월 7일에 공개 되었다.\[7\]\[8\] 9월 8일, [YG 엔터테인먼트는](https://ko.wikipedia.org/wiki/YG_엔터테인먼트 "wikilink") 공식 홈페이지를 통해 아이콘의 공식 데뷔를 알리는 티저 포스터를 공개했다. 그리고 그들의 데뷔 디지털 싱글 《취향저격(MY TYPE)》은 9월 15일에 발매 되었다. 이 곡은 앨범 발매 이후 국내 주요 음원 차트에서 1위를 차지했다.\[9\]\[10\] 또한 그들의 데뷔 앨범 《[WELCOME BACK](https://ko.wikipedia.org/wiki/WELCOME_BACK "wikilink")》은 2 파트로 나눠져 공개가 되어 그 첫 파트 '데뷔 하프 앨범'은 10월 1일에 발매 되었다. 아이콘은 그들의 데뷔 콘서트 ‘iKON - DEBUT CONCERT - SHOWTIME WITH NAVER’를 2015년 10월 3일 서울 올림픽공원 체조경기장에서 성공적으로 개최했다.\[11\] 데뷔 콘서트를 마친 다음 날인, 10월 4일 《SBS 인기가요》에서 더블 타이틀곡 "리듬 타"와 "Airplane"으로 본격적인 활동을 시작한 아이콘은 데뷔와 동시에 1위를 차지하는 기염을 토했다. 《엠카운트다운》에서도 연이어 1위를 차지했다.\[12\] 가온 음악 차트에 따르면, 아이콘의 '데뷔 하프 앨범' 《[WELCOME BACK](https://ko.wikipedia.org/wiki/WELCOME_BACK "wikilink")》은 10월 4일부터 10일까지 주간 앨범 판매 차트에서 1위를 기록했다.\[13\] 2015년 10월, 아이콘은 일본에서의 팬미팅 시리즈 ‘iKON FAN MEETING 2015 in JAPAN - iKONTACT’을 도쿄, 아이치 현, 후쿠오카 현, 오사카에서 연이어 개최하였고, 총 26,600여명의 팬들과 만났다\[14\] 아이콘은 11월 16일 더블 디지털 싱글의 신곡 "지못미"와 B.I.와 BOBBY의 유닛 곡 "이리오너라"를 추가적으로 공개하였고 "덤앤더머", "왜 또", "아니라고", "리듬타 (Rock ver.)"가 추가된 풀버전의 데뷔 정규 앨범은 12월 24일에 발매되었다.\[15\]
+2015년 9월 4일, [YG 엔터테인먼트는](https://ko.wikipedia.org/wiki/YG_엔터테인먼트 "wikilink") 공식 블로그를 통해 아이콘과 [위너가](https://ko.wikipedia.org/wiki/WINNER "wikilink") 함께 등장한 프로젝트 필름 "dimension" 티저 포스터를 게재했고, 9월 7일에 공개 되었다.\[7\]\[8\] 9월 8일, [YG 엔터테인먼트는](https://ko.wikipedia.org/wiki/YG_엔터테인먼트 "wikilink") 공식 홈페이지를 통해 아이콘의 공식 데뷔를 알리는 티저 포스터를 공개했다. 그리고 그들의 데뷔 디지털 싱글 《취향저격(MY TYPE)》은 9월 15일에 발매 되었다. 이 곡은 앨범 발매 이후 국내 주요 음원 차트에서 1위를 차지했다.\[9\]\[10\] 또한 그들의 데뷔 앨범 《[WELCOME BACK](../Page/WELCOME_BACK.md "wikilink")》은 2 파트로 나눠져 공개가 되어 그 첫 파트 '데뷔 하프 앨범'은 10월 1일에 발매 되었다. 아이콘은 그들의 데뷔 콘서트 ‘iKON - DEBUT CONCERT - SHOWTIME WITH NAVER’를 2015년 10월 3일 서울 올림픽공원 체조경기장에서 성공적으로 개최했다.\[11\] 데뷔 콘서트를 마친 다음 날인, 10월 4일 《SBS 인기가요》에서 더블 타이틀곡 "리듬 타"와 "Airplane"으로 본격적인 활동을 시작한 아이콘은 데뷔와 동시에 1위를 차지하는 기염을 토했다. 《엠카운트다운》에서도 연이어 1위를 차지했다.\[12\] 가온 음악 차트에 따르면, 아이콘의 '데뷔 하프 앨범' 《[WELCOME BACK](../Page/WELCOME_BACK.md "wikilink")》은 10월 4일부터 10일까지 주간 앨범 판매 차트에서 1위를 기록했다.\[13\] 2015년 10월, 아이콘은 일본에서의 팬미팅 시리즈 ‘iKON FAN MEETING 2015 in JAPAN - iKONTACT’을 도쿄, 아이치 현, 후쿠오카 현, 오사카에서 연이어 개최하였고, 총 26,600여명의 팬들과 만났다\[14\] 아이콘은 11월 16일 더블 디지털 싱글의 신곡 "지못미"와 B.I.와 BOBBY의 유닛 곡 "이리오너라"를 추가적으로 공개하였고 "덤앤더머", "왜 또", "아니라고", "리듬타 (Rock ver.)"가 추가된 풀버전의 데뷔 정규 앨범은 12월 24일에 발매되었다.\[15\]
 
-2016년 1월 13일, 아이콘은 일본어 버전의 《[WELCOME BACK](https://ko.wikipedia.org/wiki/WELCOME_BACK "wikilink")》으로 일본 데뷔 앨범을 발표하고 첫 주에 61,508장를 판매하며 오리콘 앨범 주간 차트 3위에 올랐고,\[16\] 제58회 일본 레코드대상에서 최우수신인상을 수상했다.\[17\] 한국판 앨범은 2016년 말 일본에서 10만장 이상 판매 되었다.<ref>Cumulative sales for "Welcome Back" in Japan (8,269 Half album + 91,749 full album):
+2016년 1월 13일, 아이콘은 일본어 버전의 《[WELCOME BACK](../Page/WELCOME_BACK.md "wikilink")》으로 일본 데뷔 앨범을 발표하고 첫 주에 61,508장를 판매하며 오리콘 앨범 주간 차트 3위에 올랐고,\[16\] 제58회 일본 레코드대상에서 최우수신인상을 수상했다.\[17\] 한국판 앨범은 2016년 말 일본에서 10만장 이상 판매 되었다.<ref>Cumulative sales for "Welcome Back" in Japan (8,269 Half album + 91,749 full album):
 
   -
   -
@@ -72,7 +72,7 @@
 
 <!-- end list -->
 
-  - 2015: 《[WELCOME BACK](https://ko.wikipedia.org/wiki/WELCOME_BACK "wikilink")》
+  - 2015: 《[WELCOME BACK](../Page/WELCOME_BACK.md "wikilink")》
   - 2018: 《Return》
 
 <!-- end list -->

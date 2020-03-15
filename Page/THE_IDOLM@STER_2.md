@@ -34,5 +34,5 @@
 
 1.
 2.  \<[5명 편성에, 새로운 멤버도\!“THE IDOLM@STER 5th ANNIVERSARY The world is all one\!\! ”속보 리포트【사진 추가】](http://www.famitsu.com/game/news/1237234_1124.html)\>[패미통.com](https://ko.wikipedia.org/wiki/패미통.com "wikilink") , 2010년 7월 4일.
-3.  \<[패미통](https://ko.wikipedia.org/wiki/패미통 "wikilink")\>2010년 7월 22일호.
+3.  \<[패미통](../Page/패미통.md "wikilink")\>2010년 7월 22일호.
 4.  일련 번호들이. 반다이남코게임스 공식 통판 사이트인 라라 비트 마켓내에 설치된 \<765 프로 구매부\>에서 한정 상품의 구입이 가능한 권리가 부여되는 것 외에 라이브 이벤트에 사원범위가 설치되어 티켓의 선행 판매를 하는 우대조치를 한다.

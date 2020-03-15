@@ -25,7 +25,7 @@
 
 <!-- end list -->
 
-  - Sayo([신재평](https://ko.wikipedia.org/wiki/신재평 "wikilink")) - [프로듀서](https://ko.wikipedia.org/wiki/음악_프로듀서 "wikilink"), [기타](https://ko.wikipedia.org/wiki/기타 "wikilink"), [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), 전곡 편곡, 믹싱
+  - Sayo([신재평](../Page/신재평.md "wikilink")) - [프로듀서](https://ko.wikipedia.org/wiki/음악_프로듀서 "wikilink"), [기타](https://ko.wikipedia.org/wiki/기타 "wikilink"), [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), 전곡 편곡, 믹싱
   - Noshel(이장원) - 프로듀서, [베이스 기타](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink"), 보컬
 
 <!-- end list -->

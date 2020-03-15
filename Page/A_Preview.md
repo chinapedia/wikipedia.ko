@@ -13,7 +13,7 @@
 
 <!-- end list -->
 
-  - Sayo([신재평](https://ko.wikipedia.org/wiki/신재평 "wikilink")) - [기타](https://ko.wikipedia.org/wiki/기타 "wikilink"), [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), [시퀀서](https://ko.wikipedia.org/wiki/시퀀서 "wikilink"), [코러스](https://ko.wikipedia.org/wiki/코러스_\(대중음악\) "wikilink"), 녹음, 믹싱
+  - Sayo([신재평](../Page/신재평.md "wikilink")) - [기타](https://ko.wikipedia.org/wiki/기타 "wikilink"), [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), [시퀀서](https://ko.wikipedia.org/wiki/시퀀서 "wikilink"), [코러스](https://ko.wikipedia.org/wiki/코러스_\(대중음악\) "wikilink"), 녹음, 믹싱
   - Noshel(이장원) - [베이스 기타](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink"), 보컬, 코러스, 녹음, 믹싱
 
 <!-- end list -->

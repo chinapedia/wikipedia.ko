@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CHANGE!!!!](https://ko.wikipedia.org/wiki/CHANGE!!!!).
 
 
-〈**CHANGE\!\!\!\!**〉(체인지, )는 765 PRO ALLSTARS의 노래이다. [싱글은](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink") 《[THE IDOLM@STER ANIM@TION MASTER](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_ANIM@TION_MASTER "wikilink")》 시리즈 제4탄으로 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [11월 9일에](https://ko.wikipedia.org/wiki/11월_9일 "wikilink") [일본 컬럼비아에서](../Page/일본_컬럼비아.md "wikilink") 발매되었다.
+〈**CHANGE\!\!\!\!**〉(체인지, )는 765 PRO ALLSTARS의 노래이다. [싱글은](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink") 《[THE IDOLM@STER ANIM@TION MASTER](../Page/THE_IDOLM@STER_ANIM@TION_MASTER.md "wikilink")》 시리즈 제4탄으로 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [11월 9일에](https://ko.wikipedia.org/wiki/11월_9일 "wikilink") [일본 컬럼비아에서](../Page/일본_컬럼비아.md "wikilink") 발매되었다.
 
 ## 개요
 

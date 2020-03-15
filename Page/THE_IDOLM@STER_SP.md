@@ -11,7 +11,7 @@
 
 게임에서의 플레이어의 목표는, 아케이드판·Xbox 360판 같이, 예능 사무소 \<765 (남코) 프로덕션\>의 프로듀서로서 소속 아이돌들을 톱 아이돌에 길러내는 것은 있지만, 스토리 프로듀스에서는, 지금까지의 작품보다 담당 아이돌과의 커뮤니케이션의 비중이 크고, 스토리 프로듀스에서도 프리 프로듀스에서도 프로듀스할 수 있는 것은 1명씩 솔로 유닛 한정이 된다. 또, 새롭게 스토리 프로듀스에는 라이벌 사무소가 되는 \<961 (검정) 프로덕션\>에 소속하는 신캐릭터인<가나하 히비키>와<시죠 타카네>가 등장해, Xbox 360판의 캐릭터 <호시이 미키>도 765 프로덕션에서 961 프로덕션에 이적해 버려, 이 3명이 <프로젝트 페어리>로서 라이벌 캐릭터가 된다.
 
-초기 캐릭터 9명에, 미키와 신캐릭터 2명을 맞춘 \<3명+1인\>의 4명의, 다른 스토리가 그려지는 3버전으로의 전개가 된다 (각 버전으로 다른 캐릭터와 라이벌, 스토리가 되지만, 각 버전의 세이브 데이터를 읽어들이는 것으로, 각각의 아이돌이 사용 가능하게 된다). 또 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [10월 25일에는](https://ko.wikipedia.org/wiki/10월_25일 "wikilink") 같은 PSP 소프트로서 \<[아이돌마스터 샤이니 페스타](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_SHINY_FESTA "wikilink")\>도 본작과 같이 3패키지로 발매되었지만, 가나하 히비키와 시죠 타카네과 호시이 미키가 765 프로 아이돌로서 추가되고 있기 때문에 멤버의 편성은 본작과는 다르다. 각 버전과 참가 캐릭터의 편성은 다음과 같다.
+초기 캐릭터 9명에, 미키와 신캐릭터 2명을 맞춘 \<3명+1인\>의 4명의, 다른 스토리가 그려지는 3버전으로의 전개가 된다 (각 버전으로 다른 캐릭터와 라이벌, 스토리가 되지만, 각 버전의 세이브 데이터를 읽어들이는 것으로, 각각의 아이돌이 사용 가능하게 된다). 또 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [10월 25일에는](https://ko.wikipedia.org/wiki/10월_25일 "wikilink") 같은 PSP 소프트로서 \<[아이돌마스터 샤이니 페스타](../Page/THE_IDOLM@STER_SHINY_FESTA.md "wikilink")\>도 본작과 같이 3패키지로 발매되었지만, 가나하 히비키와 시죠 타카네과 호시이 미키가 765 프로 아이돌로서 추가되고 있기 때문에 멤버의 편성은 본작과는 다르다. 각 버전과 참가 캐릭터의 편성은 다음과 같다.
 
 ### <span style="color:red">퍼펙트 선</span>
 
@@ -36,7 +36,7 @@
 ## 관련항목
 
   - [PlayStation Portable](https://ko.wikipedia.org/wiki/PlayStation_Portable "wikilink")
-  - [THE IDOLM@STER SHINY FESTA](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_SHINY_FESTA "wikilink")
+  - [THE IDOLM@STER SHINY FESTA](../Page/THE_IDOLM@STER_SHINY_FESTA.md "wikilink")
 
 ## 외부 링크
 

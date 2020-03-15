@@ -71,7 +71,7 @@
 〈P.S. I Love You〉는 다음의 이들에게 커버되었다.
 
   - [소니 커티스가](https://ko.wikipedia.org/wiki/소니_커티스 "wikilink") 1964년에.
-  - [앨빈과 슈퍼밴드가](https://ko.wikipedia.org/wiki/앨빈과_슈퍼밴드 "wikilink") 1964년 음반 《The Chipmunks Sing the Beatles Hits》에 수록.
+  - [앨빈과 슈퍼밴드가](../Page/앨빈과_슈퍼밴드.md "wikilink") 1964년 음반 《The Chipmunks Sing the Beatles Hits》에 수록.
   - 헐리릿지 스트링스가 1964년 오케스트라 연주로.
   - 피터 리파가 2003년 음반 《Beatles in Blue(s)》에 비틀즈 커버 16곡과 함께 수록.
   - 필리핀 가수 졸리나 마그댕갈이 2000년 음반 《On Memory Lane》에 수록.

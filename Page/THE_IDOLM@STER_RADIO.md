@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [THE IDOLM@STER RADIO](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_RADIO).
 
 
-\<**THE IDOLM@STER RADIO**\> (아이돌마스터 라디오)는 [라디오 오사카](https://ko.wikipedia.org/wiki/오사카_방송 "wikilink") [V-STATION화의](https://ko.wikipedia.org/wiki/1314_V-STATION "wikilink") 라디오 프로그램. 프로그램의 애칭은 \<**아이마스 라디오**\> (공식 일본어 표기는 <アイドルマスターレイディオ>다). 전173회. 후 프로그램으로서 \<[THE IDOLM@STER STATION\!\!\!](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_STATION!!! "wikilink")\>이 방송되고 있었다 (2013년 3월까지).
+\<**THE IDOLM@STER RADIO**\> (아이돌마스터 라디오)는 [라디오 오사카](https://ko.wikipedia.org/wiki/오사카_방송 "wikilink") [V-STATION화의](https://ko.wikipedia.org/wiki/1314_V-STATION "wikilink") 라디오 프로그램. 프로그램의 애칭은 \<**아이마스 라디오**\> (공식 일본어 표기는 <アイドルマスターレイディオ>다). 전173회. 후 프로그램으로서 \<[THE IDOLM@STER STATION\!\!\!](../Page/THE_IDOLM@STER_STATION!!!.md "wikilink")\>이 방송되고 있었다 (2013년 3월까지).
 
 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") (헤세이 18년) [4월 9일부터](https://ko.wikipedia.org/wiki/4월_9일 "wikilink") [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") (헤세이 19년) [4월 1일의](https://ko.wikipedia.org/wiki/4월_1일 "wikilink") 사이, 매주 일요일 23:30 - 24:00에 방송. 2007년 [4월 8일부터](https://ko.wikipedia.org/wiki/4월_8일 "wikilink") [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") (헤세이 21년) 4월 5일 간은, 매주 일요일 21:30 - 22:00에 방송범위를 이동. [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") (헤세이 21년) 4월 12일부터는 22:00 - 22:30에 화를 이동해 방송되고 있었다. 또, 제40회 이후는 인터넷 전달도 행해지고 있었다.
 

@@ -9,8 +9,8 @@
 
 ## 우승 기록
 
-  - [FK컵](https://ko.wikipedia.org/wiki/FK컵 "wikilink")
-      - 준우승(1): [2014](https://ko.wikipedia.org/wiki/FK컵_2014 "wikilink")
+  - [FK컵](../Page/FK컵.md "wikilink")
+      - 준우승(1): [2014](../Page/FK컵_2014.md "wikilink")
 
 ## 기록
 

@@ -5,7 +5,7 @@
 
 ## 역사
 
-[1958년](https://ko.wikipedia.org/wiki/1958년 "wikilink") [프라하](https://ko.wikipedia.org/wiki/프라하 "wikilink") [데이비체](https://ko.wikipedia.org/wiki/데이비체 "wikilink") 지역에서 창단되었으며, [스타디온 율리스카를](https://ko.wikipedia.org/wiki/스타디온_율리스카 "wikilink") 홈구장으로 사용하게 되었다. 이 시기에 노란색과 빨간색이 팀 컬러로 정해졌다. 1996년 두클라 팀의 [1. FK 프르지브람으로의](https://ko.wikipedia.org/wiki/1._FK_프르지브람 "wikilink") 합병이 결정되었고, 이로 인해 [FK 프르지브람이](https://ko.wikipedia.org/wiki/1._FK_프르지브람 "wikilink") 기존 팀을 법적으로 승계하게 되었으나, 프라하의 팬들을 중심으로 [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink")에 새 팀인 [FK 두클라 프라하를](https://ko.wikipedia.org/wiki/FK_두클라_프라하 "wikilink") 창단하였다. 2001년부터 2007년까지는 하부리그인 지역리그에 소속되었으며, 2007년부터 4년간 2부리그에서 활동하였다. 2011-12시즌부터 1부리그로 승격되었다.
+[1958년](https://ko.wikipedia.org/wiki/1958년 "wikilink") [프라하](https://ko.wikipedia.org/wiki/프라하 "wikilink") [데이비체](https://ko.wikipedia.org/wiki/데이비체 "wikilink") 지역에서 창단되었으며, [스타디온 율리스카를](https://ko.wikipedia.org/wiki/스타디온_율리스카 "wikilink") 홈구장으로 사용하게 되었다. 이 시기에 노란색과 빨간색이 팀 컬러로 정해졌다. 1996년 두클라 팀의 [1. FK 프르지브람으로의](https://ko.wikipedia.org/wiki/1._FK_프르지브람 "wikilink") 합병이 결정되었고, 이로 인해 [FK 프르지브람이](https://ko.wikipedia.org/wiki/1._FK_프르지브람 "wikilink") 기존 팀을 법적으로 승계하게 되었으나, 프라하의 팬들을 중심으로 [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink")에 새 팀인 [FK 두클라 프라하를](../Page/FK_두클라_프라하.md "wikilink") 창단하였다. 2001년부터 2007년까지는 하부리그인 지역리그에 소속되었으며, 2007년부터 4년간 2부리그에서 활동하였다. 2011-12시즌부터 1부리그로 승격되었다.
 
 ## 경기장
 

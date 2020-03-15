@@ -5,9 +5,9 @@
 
 ## 음반 목록
 
-  - *[True Romance](https://ko.wikipedia.org/wiki/True_Romance "wikilink")* (2013)
-  - *[Sucker](https://ko.wikipedia.org/wiki/Sucker "wikilink")* (2014)
-  - *[Vroom Vroom](https://ko.wikipedia.org/wiki/Vroom_Vroom "wikilink")* (2016)
+  - *[True Romance](../Page/True_Romance.md "wikilink")* (2013)
+  - *[Sucker](../Page/Sucker.md "wikilink")* (2014)
+  - *[Vroom Vroom](../Page/Vroom_Vroom.md "wikilink")* (2016)
   - *[Charli](https://ko.wikipedia.org/wiki/Charli_\(찰리_XCX의_음반\) "wikilink")*
 
 ## 외부 링크

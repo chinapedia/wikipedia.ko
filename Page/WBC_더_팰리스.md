@@ -62,7 +62,7 @@ WBC 더 팰리스는 오피스텔 단지이다. 편의시설은 실내사우나,
 
 ## 더 보기
 
-  - [더 게이트 센텀](https://ko.wikipedia.org/wiki/더_게이트_센텀 "wikilink")
+  - [더 게이트 센텀](../Page/더_게이트_센텀.md "wikilink")
   - [대한민국의 마천루 목록](../Page/대한민국의_마천루_목록.md "wikilink")
   - [부산광역시의 마천루 목록](../Page/부산광역시의_마천루_목록.md "wikilink")
   - [금호 리첸시아](https://ko.wikipedia.org/wiki/금호_리첸시아 "wikilink")

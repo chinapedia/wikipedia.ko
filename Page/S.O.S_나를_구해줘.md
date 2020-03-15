@@ -9,7 +9,7 @@
 
   - [안용준](https://ko.wikipedia.org/wiki/안용준 "wikilink") : 김지훈 역
   - [김보라](https://ko.wikipedia.org/wiki/김보라_\(1995년\) "wikilink") : 정유이 역
-  - [노행하](https://ko.wikipedia.org/wiki/노행하 "wikilink") : 김다영 역
+  - [노행하](../Page/노행하.md "wikilink") : 김다영 역
   - [광수](https://ko.wikipedia.org/wiki/광수_\(가수\) "wikilink") : 유재인 역
   - [안혜경](https://ko.wikipedia.org/wiki/안혜경 "wikilink") : 마윤희 역
   - [선우재덕](https://ko.wikipedia.org/wiki/선우재덕 "wikilink") : 김지원 역
@@ -23,7 +23,7 @@
   - [박태영](https://ko.wikipedia.org/wiki/박태영 "wikilink") : 김규현 역
   - [박장식](https://ko.wikipedia.org/wiki/박장식 "wikilink") : 김민재 역
   - [김한](https://ko.wikipedia.org/wiki/김한 "wikilink") : 박찬휘 역
-  - [박광재](https://ko.wikipedia.org/wiki/박광재 "wikilink") : 박철현 역
+  - [박광재](../Page/박광재.md "wikilink") : 박철현 역
   - [강인아](https://ko.wikipedia.org/wiki/강인아 "wikilink") : 이명숙 역
   - [홍세연](https://ko.wikipedia.org/wiki/홍세연 "wikilink") : 김서진 역
 

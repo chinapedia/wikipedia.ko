@@ -46,7 +46,7 @@
 ## 같이 보기
 
   - [대교어린이TV](https://ko.wikipedia.org/wiki/대교어린이TV "wikilink")
-  - [대교어린이TV 음악콩쿠르](https://ko.wikipedia.org/wiki/대교어린이TV_음악콩쿠르 "wikilink")
+  - [대교어린이TV 음악콩쿠르](../Page/대교어린이TV_음악콩쿠르.md "wikilink")
 
 ## 외부 링크
 

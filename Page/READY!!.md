@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [READY!!](https://ko.wikipedia.org/wiki/READY!!).
 
 
-〈**READY\!\!**〉 (레디, )는 765PRO ALLSTARS의 노래이다. [TV 애니메이션](https://ko.wikipedia.org/wiki/일본의_애니메이션 "wikilink") 《[THE IDOLM@STER](../Page/THE_IDOLM@STER_\(애니메이션\).md "wikilink")》의 전기 [오프닝 테마이다](https://ko.wikipedia.org/wiki/주제가 "wikilink"). [싱글은](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink") 《[THE IDOLM@STER ANIM@TION MASTER](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_ANIM@TION_MASTER "wikilink")》 시리즈 제 1탄으로서 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [8월 10일에](https://ko.wikipedia.org/wiki/8월_10일 "wikilink") [일본 컬럼비아에서](../Page/일본_컬럼비아.md "wikilink") 발매되었다.
+〈**READY\!\!**〉 (레디, )는 765PRO ALLSTARS의 노래이다. [TV 애니메이션](https://ko.wikipedia.org/wiki/일본의_애니메이션 "wikilink") 《[THE IDOLM@STER](../Page/THE_IDOLM@STER_\(애니메이션\).md "wikilink")》의 전기 [오프닝 테마이다](https://ko.wikipedia.org/wiki/주제가 "wikilink"). [싱글은](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink") 《[THE IDOLM@STER ANIM@TION MASTER](../Page/THE_IDOLM@STER_ANIM@TION_MASTER.md "wikilink")》 시리즈 제 1탄으로서 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [8월 10일에](https://ko.wikipedia.org/wiki/8월_10일 "wikilink") [일본 컬럼비아에서](../Page/일본_컬럼비아.md "wikilink") 발매되었다.
 
 ## 개요
 
@@ -11,7 +11,7 @@
 
 [mobage](https://ko.wikipedia.org/wiki/mobage "wikilink")의 《[아이돌마스터 신데렐라 걸즈](../Page/아이돌마스터_신데렐라_걸즈.md "wikilink")》의 CM송으로도 사용되고 있다.
 
-2012년 2월 1일에 발매된 《[THE IDOLM@STER ANIM@TION MASTER 07](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_ANIM@TION_MASTER#ANIM@TION_MASTER_07 "wikilink")》에는 타이틀 곡 〈READY\!\!〉와 후기 오프닝곡 〈[CHANGE\!\!\!\!](https://ko.wikipedia.org/wiki/CHANGE!!!! "wikilink")〉를 조합한 〈**READY\!\! & CHANGE\!\!\!\! SPECIAL EDITION**〉이 수록되고 있다.
+2012년 2월 1일에 발매된 《[THE IDOLM@STER ANIM@TION MASTER 07](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_ANIM@TION_MASTER#ANIM@TION_MASTER_07 "wikilink")》에는 타이틀 곡 〈READY\!\!〉와 후기 오프닝곡 〈[CHANGE\!\!\!\!](../Page/CHANGE!!!!.md "wikilink")〉를 조합한 〈**READY\!\! & CHANGE\!\!\!\! SPECIAL EDITION**〉이 수록되고 있다.
 
 2013년에 발매된 싱글 〈스페샤 애니연 Vol. 1 feat.후쿠하라 카오리 and ARM〉에서 [후쿠하라 카오리에게](https://ko.wikipedia.org/wiki/후쿠하라_카오리 "wikilink") 커버되었다.
 

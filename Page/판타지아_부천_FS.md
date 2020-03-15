@@ -9,7 +9,7 @@
 
 ## 역사
 
-판타지아 부천FS는 2007년 생활체육풋살구단을 목표로 해서 창단하였으며 2012-13시즌부터 FK리그에 참가하였다. 첫번째 시즌에서 5위를 기록하며 아쉬운 성적을 거뒀던 부천은 이윽고 절치부심하여 [FK컵](https://ko.wikipedia.org/wiki/FK컵 "wikilink")에 나섰고 준우승이라는 성적을 달성했다. 이후 [2015-16 FK리그에서](https://ko.wikipedia.org/wiki/FK리그_2015-16_남자부 "wikilink") 준우승을 차지하였고 다음해인 2016-17시즌엔 [슈퍼리그에](https://ko.wikipedia.org/wiki/FK_슈퍼리그 "wikilink") 잔류할 수 있는 성적 (1위\~6위)을 차지하면서 2017-18시즌 FK 슈퍼리그에 나서게되었다. 승강제 시행 이후 2016년 10월 판타지아 부천FS 서포터즈 [복사풋살혁신연합](https://ko.wikipedia.org/wiki/복사풋살혁신연합 "wikilink")이 창단함에 따라 서포터즈를 보유하고 있는 팀이 되었으며 2018-19시즌 극적으로 [슈퍼리그](https://ko.wikipedia.org/wiki/FK_슈퍼리그 "wikilink") 잔류에 성공했다.
+판타지아 부천FS는 2007년 생활체육풋살구단을 목표로 해서 창단하였으며 2012-13시즌부터 FK리그에 참가하였다. 첫번째 시즌에서 5위를 기록하며 아쉬운 성적을 거뒀던 부천은 이윽고 절치부심하여 [FK컵](../Page/FK컵.md "wikilink")에 나섰고 준우승이라는 성적을 달성했다. 이후 [2015-16 FK리그에서](../Page/FK리그_2015-16_남자부.md "wikilink") 준우승을 차지하였고 다음해인 2016-17시즌엔 [슈퍼리그에](https://ko.wikipedia.org/wiki/FK_슈퍼리그 "wikilink") 잔류할 수 있는 성적 (1위\~6위)을 차지하면서 2017-18시즌 FK 슈퍼리그에 나서게되었다. 승강제 시행 이후 2016년 10월 판타지아 부천FS 서포터즈 [복사풋살혁신연합](https://ko.wikipedia.org/wiki/복사풋살혁신연합 "wikilink")이 창단함에 따라 서포터즈를 보유하고 있는 팀이 되었으며 2018-19시즌 극적으로 [슈퍼리그](https://ko.wikipedia.org/wiki/FK_슈퍼리그 "wikilink") 잔류에 성공했다.
 
 ## 클럽문화
 
@@ -59,8 +59,8 @@
 ## 우승 기록
 
   - [FK리그](https://ko.wikipedia.org/wiki/FK리그 "wikilink")
-      - 준우승(1): [2015-16](https://ko.wikipedia.org/wiki/FK리그_2015-16_남자부 "wikilink")
-  - [FK컵](https://ko.wikipedia.org/wiki/FK컵 "wikilink")
+      - 준우승(1): [2015-16](../Page/FK리그_2015-16_남자부.md "wikilink")
+  - [FK컵](../Page/FK컵.md "wikilink")
       - 우승(1): 2016
       - 준우승(1): [2013](https://ko.wikipedia.org/wiki/FK컵_2013 "wikilink")
 

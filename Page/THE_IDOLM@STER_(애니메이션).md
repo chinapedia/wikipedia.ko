@@ -44,11 +44,11 @@
 
 :; 야부키 카나 (矢吹 可奈)
 
-:: 소리- [키도 이부키](https://ko.wikipedia.org/wiki/키도_이부키 "wikilink")
+:: 소리- [키도 이부키](../Page/키도_이부키.md "wikilink")
 
 :; 키타자와 시호 (北沢 志保)
 
-:: 소리- [아마미야 소라](https://ko.wikipedia.org/wiki/아마미야_소라 "wikilink")
+:: 소리- [아마미야 소라](../Page/아마미야_소라.md "wikilink")
 
 :; 하코자키 세리카 (箱崎 星梨花)
 
@@ -103,7 +103,7 @@
 
 ### 주제가 (극장판)
 
-  - 주제가 \<[M@STERPIECE](https://ko.wikipedia.org/wiki/M@STERPIECE "wikilink")\>
+  - 주제가 \<[M@STERPIECE](../Page/M@STERPIECE.md "wikilink")\>
     작사- yura /작곡-신전새벽 (MONACA)/편곡-신전아키라, 타카다 류이치 (MONACA)/노래 - 아마미 하루카, 호시이 미키, 키사라기 치하야, 타카츠키 야요이, 하기와라 유키호, 키쿠치 마코토, 후타미 아미/마미, 미나세 이오리, 미우라 아즈사, 시죠 타카네, 가나하 히비키
 
   - 오프닝 테마 \<THE IDOLM@STER\>
@@ -145,13 +145,13 @@
 
 각각의 첫회 한정반에는 극장용으로 5.1 ch로 리믹스 된 BGM가 수록된 [Blu-ray Disc Audio가](https://ko.wikipedia.org/wiki/Blu-ray_Disc "wikilink") 동고 된다.
 
-  - [M@STERPIECE](https://ko.wikipedia.org/wiki/M@STERPIECE "wikilink")
+  - [M@STERPIECE](../Page/M@STERPIECE.md "wikilink")
     2014년 1월 29일 발매. 주제가 \<M@STERPIECE\> 등을 수록.
   - THE IDOLM@STER MOVIE ORIGINAL SOUNDTRACK
     2014년 2월 5일 발매. 극중에서 사용된 BGM 및 삽입곡을 수록.
-  - [라무네빛 청춘](https://ko.wikipedia.org/wiki/라무네빛_청춘 "wikilink")
+  - [라무네빛 청춘](../Page/라무네빛_청춘.md "wikilink")
     2014년 6월 18일 발매. 삽입곡 <라무네빛 청춘> 외, 첫CD화가 되는 \<기다려 프린스 (M@STER VERSION)\>를 수록.
-  - [무지갯빛 미러클](https://ko.wikipedia.org/wiki/무지갯빛_미러클 "wikilink")
+  - [무지갯빛 미러클](../Page/무지갯빛_미러클.md "wikilink")
     2014년 8월 13일 발매. ED곡 <무지갯빛 미러클>과 삽입곡 <Fate of the World>를 수록.
 
 ### BD / DVD (극장판)

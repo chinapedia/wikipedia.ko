@@ -31,7 +31,7 @@
 
 ## 운행 차량
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Profilo_Metro_C_\(Roma\).jpg "wikilink") C선은 2014년 11월 현재 5대의 [안살도브레다 무인 지하철](https://ko.wikipedia.org/wiki/안살도브레다_무인_지하철 "wikilink") 차량으로 운행되고 있다. 안살도브레다 무인 지하철은 [밀라노 지하철 5호선과](../Page/밀라노_지하철_5호선.md "wikilink") [코펜하겐 지하철](https://ko.wikipedia.org/wiki/코펜하겐_지하철 "wikilink"), [브레시아 지하철에서도](../Page/브레시아_지하철.md "wikilink") 운행되고 있는 차종이다. C선이 완전히 개통되면 총 30대가 운행될 예정이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Profilo_Metro_C_\(Roma\).jpg "wikilink") C선은 2014년 11월 현재 5대의 [안살도브레다 무인 지하철](https://ko.wikipedia.org/wiki/안살도브레다_무인_지하철 "wikilink") 차량으로 운행되고 있다. 안살도브레다 무인 지하철은 [밀라노 지하철 5호선과](../Page/밀라노_지하철_5호선.md "wikilink") [코펜하겐 지하철](../Page/코펜하겐_지하철.md "wikilink"), [브레시아 지하철에서도](../Page/브레시아_지하철.md "wikilink") 운행되고 있는 차종이다. C선이 완전히 개통되면 총 30대가 운행될 예정이다.
 
 ## 각주
 

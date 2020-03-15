@@ -3,7 +3,7 @@
 
 ## 역사
 
-**제천 FS**()는 2009년 FC기적팀으로 생활체육대회에서 많은 입상을 하여 초대 FK리그인 2009-10 [FK리그](https://ko.wikipedia.org/wiki/FK리그 "wikilink")에 한방제천FC로 참가하였다. 2010년 팀사정으로 탈퇴 후 제천FS로 2012년 2012 [FK컵](https://ko.wikipedia.org/wiki/FK컵 "wikilink")에 참가하여 3위에 입상하였으며 그 해 현대해상 2012-13 [FK리그](https://ko.wikipedia.org/wiki/FK리그 "wikilink")에서 준우승을 하였다.
+**제천 FS**()는 2009년 FC기적팀으로 생활체육대회에서 많은 입상을 하여 초대 FK리그인 2009-10 [FK리그](https://ko.wikipedia.org/wiki/FK리그 "wikilink")에 한방제천FC로 참가하였다. 2010년 팀사정으로 탈퇴 후 제천FS로 2012년 2012 [FK컵](../Page/FK컵.md "wikilink")에 참가하여 3위에 입상하였으며 그 해 현대해상 2012-13 [FK리그](https://ko.wikipedia.org/wiki/FK리그 "wikilink")에서 준우승을 하였다.
 
 다음 해 2013-14 [FK리그](https://ko.wikipedia.org/wiki/FK리그 "wikilink")에서도 2년 연속 챔피언결정전에 진출하였지만 아쉽게 준우승에 머물렀다.
 
@@ -98,8 +98,8 @@
 ## 우승 기록
 
   - [FK리그](https://ko.wikipedia.org/wiki/FK리그 "wikilink")
-      - 준우승(2): [2012-13](https://ko.wikipedia.org/wiki/FK리그_2012-13 "wikilink"), [2013-14](https://ko.wikipedia.org/wiki/FK리그_2013-14 "wikilink")
-  - FK컵 : 우승(1) [2015](https://ko.wikipedia.org/wiki/FK컵_2015 "wikilink")
+      - 준우승(2): [2012-13](../Page/FK리그_2012-13.md "wikilink"), [2013-14](../Page/FK리그_2013-14.md "wikilink")
+  - FK컵 : 우승(1) [2015](../Page/FK컵_2015.md "wikilink")
 
 ## 각주
 

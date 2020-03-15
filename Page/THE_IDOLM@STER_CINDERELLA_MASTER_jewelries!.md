@@ -21,7 +21,7 @@ CD용 신곡은 굵은 글씨, 커버곡은 이탤릭으로 표기한다.
 
 :\# **Nation Blue**
 
-:\#: 노래: 시부야 린 ([후쿠하라 아야카](https://ko.wikipedia.org/wiki/후쿠하라_아야카 "wikilink"))·타카가키 카에데 ([하야미 사오리](https://ko.wikipedia.org/wiki/하야미_사오리 "wikilink"))·칸자키 란코 ([우치다 마아야](https://ko.wikipedia.org/wiki/우치다_마아야 "wikilink"))·타다 리이나 ([아오키 루리코](https://ko.wikipedia.org/wiki/아오키_루리코 "wikilink"))·닛타 미나미 ([스자키 아야](https://ko.wikipedia.org/wiki/스자키_아야 "wikilink"))
+:\#: 노래: 시부야 린 ([후쿠하라 아야카](../Page/후쿠하라_아야카.md "wikilink"))·타카가키 카에데 ([하야미 사오리](https://ko.wikipedia.org/wiki/하야미_사오리 "wikilink"))·칸자키 란코 ([우치다 마아야](../Page/우치다_마아야.md "wikilink"))·타다 리이나 ([아오키 루리코](../Page/아오키_루리코.md "wikilink"))·닛타 미나미 ([스자키 아야](../Page/스자키_아야.md "wikilink"))
 
 :\#: 작사·작곡·편곡: [토야마 아키라효](https://ko.wikipedia.org/wiki/토야마_아키라효 "wikilink")
 
@@ -101,7 +101,7 @@ CD용 신곡은 굵은 글씨, 커버곡은 이탤릭으로 표기한다.
 
 :\#: 작사·작곡·오리지널 아티스트: [오오누키 타에코](https://ko.wikipedia.org/wiki/오오누키_타에코 "wikilink")
 
-:\# ''[올려다 봐 밤의 별을](https://ko.wikipedia.org/wiki/올려다_봐_밤의_별을 "wikilink") ''
+:\# ''[올려다 봐 밤의 별을](../Page/올려다_봐_밤의_별을.md "wikilink") ''
 
 :\#: 노래: 아나스타시야 (우에사카 스미레)
 
@@ -145,7 +145,7 @@ CD용 신곡은 굵은 글씨, 커버곡은 이탤릭으로 표기한다.
 
 :\# **Orange Sapphire**
 
-:\#: 노래: 죠가사키 리카 ([야마모토 노조미](https://ko.wikipedia.org/wiki/야마모토_노조미 "wikilink"))·모로보시 키라리 ([마츠자키 레이](https://ko.wikipedia.org/wiki/마츠자키_레이 "wikilink"))·죠가사키 미카 ([요시무라 하루카](https://ko.wikipedia.org/wiki/요시무라_하루카 "wikilink"))·혼다 미오 ([하라 사유리](https://ko.wikipedia.org/wiki/하라_사유리 "wikilink"))·아카기 미리아 ([쿠로사와 토모요](https://ko.wikipedia.org/wiki/쿠로사와_토모요 "wikilink"))
+:\#: 노래: 죠가사키 리카 ([야마모토 노조미](../Page/야마모토_노조미.md "wikilink"))·모로보시 키라리 ([마츠자키 레이](../Page/마츠자키_레이.md "wikilink"))·죠가사키 미카 ([요시무라 하루카](https://ko.wikipedia.org/wiki/요시무라_하루카 "wikilink"))·혼다 미오 ([하라 사유리](../Page/하라_사유리.md "wikilink"))·아카기 미리아 ([쿠로사와 토모요](../Page/쿠로사와_토모요.md "wikilink"))
 
 :\#: 작사·작곡·편곡: [Funta](https://ko.wikipedia.org/wiki/Funta "wikilink")
 
@@ -269,7 +269,7 @@ CD용 신곡은 굵은 글씨, 커버곡은 이탤릭으로 표기한다.
 
 :\# **나 고철 안드로이드**
 
-:\#: 노래: 후타바 안즈 ([이가라시 히로미](https://ko.wikipedia.org/wiki/이가라시_히로미 "wikilink"))·마에카와 미쿠 ([타카모리 나츠미](https://ko.wikipedia.org/wiki/타카모리_나츠미 "wikilink"))·시마무라 우즈키 ([오오하시 아야카](https://ko.wikipedia.org/wiki/오오하시_아야카 "wikilink"))·코히나타 미호 ([츠다 미나미](https://ko.wikipedia.org/wiki/츠다_미나미 "wikilink"))·아베 나나 ([미야케 마리에](https://ko.wikipedia.org/wiki/미야케_마리에 "wikilink"))
+:\#: 노래: 후타바 안즈 ([이가라시 히로미](../Page/이가라시_히로미.md "wikilink"))·마에카와 미쿠 ([타카모리 나츠미](../Page/타카모리_나츠미.md "wikilink"))·시마무라 우즈키 ([오오하시 아야카](../Page/오오하시_아야카.md "wikilink"))·코히나타 미호 ([츠다 미나미](https://ko.wikipedia.org/wiki/츠다_미나미 "wikilink"))·아베 나나 ([미야케 마리에](https://ko.wikipedia.org/wiki/미야케_마리에 "wikilink"))
 
 :\#: 작사·작곡·편곡: [사사키트모코](https://ko.wikipedia.org/wiki/사사키트모코 "wikilink")
 
@@ -329,7 +329,7 @@ CD용 신곡은 굵은 글씨, 커버곡은 이탤릭으로 표기한다.
 
 :\# **파스텔 핑크한 사랑**
 
-:\#: 노래: 미무라 카나코 ([오오츠보 유카](https://ko.wikipedia.org/wiki/오오츠보_유카 "wikilink"))·코시미즈 사치코 ([타케타츠 아야나](https://ko.wikipedia.org/wiki/타케타츠_아야나 "wikilink"))·사쿠마 마유 ([마키노 유이](https://ko.wikipedia.org/wiki/마키노_유이 "wikilink"))·오가타 치에리 ([오오조라 나오미](https://ko.wikipedia.org/wiki/오오조라_나오미 "wikilink"))·코바야카와 사에 ([타치바나 리카](https://ko.wikipedia.org/wiki/타치바나_리카 "wikilink"))
+:\#: 노래: 미무라 카나코 ([오오츠보 유카](../Page/오오츠보_유카.md "wikilink"))·코시미즈 사치코 ([타케타츠 아야나](https://ko.wikipedia.org/wiki/타케타츠_아야나 "wikilink"))·사쿠마 마유 ([마키노 유이](https://ko.wikipedia.org/wiki/마키노_유이 "wikilink"))·오가타 치에리 ([오오조라 나오미](https://ko.wikipedia.org/wiki/오오조라_나오미 "wikilink"))·코바야카와 사에 ([타치바나 리카](https://ko.wikipedia.org/wiki/타치바나_리카 "wikilink"))
 
 :\#: 작사: marhy, 작곡·편곡: BNSI(우치다 테츠야)
 

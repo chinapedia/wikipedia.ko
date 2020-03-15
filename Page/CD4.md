@@ -5,7 +5,7 @@
 
 [세포표면항원무리](../Page/세포표면항원무리.md "wikilink") 4 혹은 **CD4**는 [보조 T 세포](https://ko.wikipedia.org/wiki/보조_T_세포 "wikilink"), [단핵구](https://ko.wikipedia.org/wiki/단핵구 "wikilink"), [대식세포](https://ko.wikipedia.org/wiki/대식세포 "wikilink"), [수지상세포](https://ko.wikipedia.org/wiki/수지상세포 "wikilink") 등 면역세포의 표면에 있는 [당단백질](https://ko.wikipedia.org/wiki/당단백질 "wikilink") 분자이다. 1970년대 후반에 발견되었고, 원래는 leu-3와 T4(여기 반응한 OKT4 [단일클론 항체를](https://ko.wikipedia.org/wiki/단일클론_항체 "wikilink") 따서 이렇게 부름)라고 불리다가 1984년 CD4로 배정되었다.\[1\] 사람의 CD4 단백질은 *CD4* 유전자에 부호화되어 있다.\[2\]\[3\]
 
-CD4+ 보조 T 세포는 [백혈구](https://ko.wikipedia.org/wiki/백혈구 "wikilink")의 일종으로 사람 [면역계](https://ko.wikipedia.org/wiki/면역계 "wikilink")에 필수적이다. 종종 CD4 세포, T<sub>H</sub> 세포라고도 부른다. 보조 T 세포는 다른 면역세포, 예를 들면 [CD8](https://ko.wikipedia.org/wiki/CD8 "wikilink") [세포독성 T 세포에](https://ko.wikipedia.org/wiki/세포독성_T_세포 "wikilink") 신호를 보내 감염성 입자를 없애도록 "보조"한다. [HIV](https://ko.wikipedia.org/wiki/HIV "wikilink") 감염, [장기 이식](https://ko.wikipedia.org/wiki/장기_이식 "wikilink") 전 [면역억제제](https://ko.wikipedia.org/wiki/면역억제제 "wikilink") 등으로 인하여 CD4 세포가 감소하면 외부 감염에 취약해져서, 일반적인 경우에는 면역계가 싸워 이길 수 있는 감염도 막아내지 못한다.
+CD4+ 보조 T 세포는 [백혈구](https://ko.wikipedia.org/wiki/백혈구 "wikilink")의 일종으로 사람 [면역계](https://ko.wikipedia.org/wiki/면역계 "wikilink")에 필수적이다. 종종 CD4 세포, T<sub>H</sub> 세포라고도 부른다. 보조 T 세포는 다른 면역세포, 예를 들면 [CD8](../Page/CD8.md "wikilink") [세포독성 T 세포에](https://ko.wikipedia.org/wiki/세포독성_T_세포 "wikilink") 신호를 보내 감염성 입자를 없애도록 "보조"한다. [HIV](https://ko.wikipedia.org/wiki/HIV "wikilink") 감염, [장기 이식](https://ko.wikipedia.org/wiki/장기_이식 "wikilink") 전 [면역억제제](https://ko.wikipedia.org/wiki/면역억제제 "wikilink") 등으로 인하여 CD4 세포가 감소하면 외부 감염에 취약해져서, 일반적인 경우에는 면역계가 싸워 이길 수 있는 감염도 막아내지 못한다.
 
 ## 구조
 
@@ -44,7 +44,7 @@ CD4는 SPG21,\[5\] Lck\[6\]\[7\]\[8\]\[9\]\[10\], 단백질 unc-119 상동체\[1
 
 ### 기타 질병
 
-CD4는 [보조 T 세포에서](https://ko.wikipedia.org/wiki/보조_T_세포 "wikilink") 유래한 신생물 대부분에서도 발현된다. 따라서 [생검](https://ko.wikipedia.org/wiki/생검 "wikilink")한 조직에서 [면역조직화학법](https://ko.wikipedia.org/wiki/면역조직화학법 "wikilink")을 통해 CD4를 검출하여 말초 T 세포 [림프종](https://ko.wikipedia.org/wiki/림프종 "wikilink")의 및 그와 관련된 악성 상태를 파악할 수 있다.\[15\] [백피](https://ko.wikipedia.org/wiki/백피 "wikilink")나 [제1형 당뇨병](https://ko.wikipedia.org/wiki/제1형_당뇨병 "wikilink") 등 다수의 [자가면역질환](../Page/자가면역질환.md "wikilink")과도 연관이 있다.\[16\]
+CD4는 [보조 T 세포에서](https://ko.wikipedia.org/wiki/보조_T_세포 "wikilink") 유래한 신생물 대부분에서도 발현된다. 따라서 [생검](https://ko.wikipedia.org/wiki/생검 "wikilink")한 조직에서 [면역조직화학법](https://ko.wikipedia.org/wiki/면역조직화학법 "wikilink")을 통해 CD4를 검출하여 말초 T 세포 [림프종](../Page/림프종.md "wikilink")의 및 그와 관련된 악성 상태를 파악할 수 있다.\[15\] [백피](https://ko.wikipedia.org/wiki/백피 "wikilink")나 [제1형 당뇨병](https://ko.wikipedia.org/wiki/제1형_당뇨병 "wikilink") 등 다수의 [자가면역질환](../Page/자가면역질환.md "wikilink")과도 연관이 있다.\[16\]
 
 ## 각주 및 참고 문헌
 

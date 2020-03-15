@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [THE IDOLM@STER CINDERELLA MASTER](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_CINDERELLA_MASTER).
 
 
-\<**THE IDOLM@STER CINDERELLA MASTER**\> (아이돌마스터 신데렐라 마스터)는 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [4월 18일부터](https://ko.wikipedia.org/wiki/4월_18일 "wikilink") [일본 컬럼비아에서](https://ko.wikipedia.org/wiki/일본_컬럼비아 "wikilink") 발매되고 있는 [소셜 게임](https://ko.wikipedia.org/wiki/소셜_게임 "wikilink") \<[아이돌마스터 신데렐라 걸즈](../Page/아이돌마스터_신데렐라_걸즈.md "wikilink")\>의 [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink") 시리즈.
+\<**THE IDOLM@STER CINDERELLA MASTER**\> (아이돌마스터 신데렐라 마스터)는 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [4월 18일부터](https://ko.wikipedia.org/wiki/4월_18일 "wikilink") [일본 컬럼비아에서](../Page/일본_컬럼비아.md "wikilink") 발매되고 있는 [소셜 게임](https://ko.wikipedia.org/wiki/소셜_게임 "wikilink") \<[아이돌마스터 신데렐라 걸즈](../Page/아이돌마스터_신데렐라_걸즈.md "wikilink")\>의 [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink") 시리즈.
 
 ## 개요
 
@@ -21,7 +21,7 @@
 
 1.  **Never say never** \[3:49\]
       -
-        노래: 시부야 린 ([후쿠하라 아야카](https://ko.wikipedia.org/wiki/후쿠하라_아야카 "wikilink"))
+        노래: 시부야 린 ([후쿠하라 아야카](../Page/후쿠하라_아야카.md "wikilink"))
         작사·작곡: NBGI ([토야마 아키라효](https://ko.wikipedia.org/wiki/토야마_아키라효 "wikilink")), 작사: NBGI (야시로 유타), 편곡: 세키 쥰지로우
         왕도적인 클럽 사운드로, 수록에는 6시간 이상 걸렸다\[5\]. 소리를 담당한 후쿠하라는, 최초의 단계에서는 노래하는 방법이 베테랑 그 자체였기 때문에, 힘을 빼 신인다움을 담았다고 한다\[6\].
 2.  드라마 \<노려라\! 신데렐라 NO. 1\! - 시부야 린편-\>\[7:19\]
@@ -40,7 +40,7 @@
 
 1.  **안즈의 노래** \[3:33\]
       -
-        노래: 후타바 안즈 ([이가라시 히로미](https://ko.wikipedia.org/wiki/이가라시_히로미 "wikilink"))
+        노래: 후타바 안즈 ([이가라시 히로미](../Page/이가라시_히로미.md "wikilink"))
         작사·작곡·편곡: NBGI (사토 타카후미), 작사: NBGI (야시로 유타)
         안즈가 <니트계의 잔다르크>인 것부터, 의지가 없을 것 같은 프레이즈를 넣는 등 철야로 완성한 곡\[7\]. 또한 제작전에, 야시로에 살구의 귀여움을 어떻게 표현하는지를 전화로 이야기하거나 이시하라와 너무 한 부분을 환송하는 이야기를 행했다\[8\].
 2.  드라마 \<노려라\! 신데렐라 NO. 1\! - 후타바 안즈편-\>\[8:24\]
@@ -57,7 +57,7 @@
 
 1.  **초콜릿 티아라** \[3:35\]
       -
-        노래: 미무라 카나코 ([오오츠보 유카](https://ko.wikipedia.org/wiki/오오츠보_유카 "wikilink"))
+        노래: 미무라 카나코 ([오오츠보 유카](../Page/오오츠보_유카.md "wikilink"))
         작사: 후루야 신, 작곡·편곡: NBGI (kyo)
 2.  드라마 \<노려라\! 신데렐라 NO. 1\! - 미무라 카나코편-\>\[8:02\]
       -
@@ -91,7 +91,7 @@
 
 1.  **DOKIDOKI 리듬** \[3:48\]
       -
-        노래: 죠가사키 리카 ([야마모토 노조미](https://ko.wikipedia.org/wiki/야마모토_노조미 "wikilink"))
+        노래: 죠가사키 리카 ([야마모토 노조미](../Page/야마모토_노조미.md "wikilink"))
         작사·작곡·편곡: NBGI (사토 타카후미)
 2.  드라마 \<노려라\! 신데렐라 NO. 1\! - 죠가사키 리카편-\>\[7:56\]
       -
@@ -111,7 +111,7 @@
 
 1.  **꽃봉오리 꿈꾸는 광시곡 \~혼의 이끌림\~** \[4:49\]
       -
-        노래: 칸자키 란코 ([우치다 마아야](https://ko.wikipedia.org/wiki/우치다_마아야 "wikilink"))
+        노래: 칸자키 란코 ([우치다 마아야](../Page/우치다_마아야.md "wikilink"))
         작사: NBSI (동쪽노옥채), 작곡·편곡: NBSI (호천경중2), 편곡: NBSI (후치곡증2)
 2.  드라마 \<노려라\! 신데렐라 NO. 1\! - 칸자키 란코편-\>\[7:15\]
 3.  드라마 \<노려라\! 신데렐라 NO. 1\! - 칸자키 란코편-\>(부음성 ver.) \[7:23\]
@@ -128,7 +128,7 @@
 
 1.  '''조르기 Shall We\~? ''' \[4:13\]
       -
-        노래: 마에카와 미쿠 ([타카모리 나츠미](https://ko.wikipedia.org/wiki/타카모리_나츠미 "wikilink"))
+        노래: 마에카와 미쿠 ([타카모리 나츠미](../Page/타카모리_나츠미.md "wikilink"))
         작사·작곡·편곡: NBSI (사토 타카후미)
 2.  드라마 \<노려라\! 신데렐라 NO. 1\! - 마에카와 미쿠편-\>\[7:50\]
       -
@@ -146,7 +146,7 @@
 
 1.  **마시멜로☆키스** \[3:37\]
       -
-        노래: 모로보시 키라리 ([마츠자키 레이](https://ko.wikipedia.org/wiki/마츠자키_레이 "wikilink"))
+        노래: 모로보시 키라리 ([마츠자키 레이](../Page/마츠자키_레이.md "wikilink"))
         작사·작곡·편곡: NBSI (새음)
 2.  드라마 \<노려라\! 신데렐라 NO. 1\! - 모로보시 키라리 편-\>\[8:13\]
 3.  마시멜로☆키스 (오리지널 가라오케)
@@ -180,7 +180,7 @@
 
 1.  '''S(mile)ING\! ''' \[3:32\]
       -
-        노래: 시마무라 우즈키 ([오오하시 아야카](https://ko.wikipedia.org/wiki/오오하시_아야카 "wikilink"))
+        노래: 시마무라 우즈키 ([오오하시 아야카](../Page/오오하시_아야카.md "wikilink"))
         작사: NBSI (야시로 유타), 작곡·편곡: NBSI (Yoshi)
 2.  드라마 \<노려라\! 신데렐라 NO. 1\! - 시마무라 우즈키편-\>\[8:30\]
       -
@@ -218,7 +218,7 @@
 
 1.  **Twilight Sky** \[4:24\]
       -
-        노래: 타다 리이나 ([아오키 루리코](https://ko.wikipedia.org/wiki/아오키_루리코 "wikilink"))
+        노래: 타다 리이나 ([아오키 루리코](../Page/아오키_루리코.md "wikilink"))
         작사·작곡·편곡: NBSI (와타나베량)
 2.  드라마 \<노려라\! 신데렐라 NO. 1\! - 타다 리이나편-\>\[10:00\]
       -
@@ -271,7 +271,7 @@
 <!-- end list -->
 
 1.  **세 개의 별☆☆★** \[3:39\]
-2.  노래: 혼다 미오 ([하라 사유리](https://ko.wikipedia.org/wiki/하라_사유리 "wikilink"))
+2.  노래: 혼다 미오 ([하라 사유리](../Page/하라_사유리.md "wikilink"))
       -
         작사: NBSI (야시로 유타), 작곡·편곡: NBSI (kyo)
 3.  드라마 \<노려라\! 신데렐라 NO. 1\! - 혼다 미오편-\>\[10:19\]
@@ -309,7 +309,7 @@
 
 1.  **Romantic Now** \[04:57\]
       -
-        노래: 아카기 미리아 ([쿠로사와 토모요](https://ko.wikipedia.org/wiki/쿠로사와_토모요 "wikilink"))
+        노래: 아카기 미리아 ([쿠로사와 토모요](../Page/쿠로사와_토모요.md "wikilink"))
         작사: NBSI (MC TC), 작곡·편곡: NBSI (Taku Inoue)
 2.  드라마 \<노려라\! 신데렐라 NO. 1\! - 아카기 미리아편-\>\[09:17\]
 3.  Romantic Now (오리지널 가라오케)
@@ -341,7 +341,7 @@
 
 1.  **비너스 신드롬** \[04:22\]
       -
-        노래: 닛타 미나미 ([스자키 아야](https://ko.wikipedia.org/wiki/스자키_아야 "wikilink"))
+        노래: 닛타 미나미 ([스자키 아야](../Page/스자키_아야.md "wikilink"))
         작사: 후루타니 신, 작곡·편곡: NBSI (kyo)
 2.  드라마 \<노려라\! 신데렐라 NO. 1\! - 닛타 미나미편-\>\[09:27\]
 3.  비너스 신드롬 (오리지널 가라오케)

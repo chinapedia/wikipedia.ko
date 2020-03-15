@@ -246,7 +246,7 @@
 </tr>
 <tr class="odd">
 <td><p>2015</p></td>
-<td><p><em><a href="https://ko.wikipedia.org/wiki/WELCOME_BACK" title="wikilink">WELCOME BACK</a></em></p></td>
+<td><p><em><a href="../Page/WELCOME_BACK.md" title="wikilink">WELCOME BACK</a></em></p></td>
 <td><p>취향저격 (My Type)</p></td>
 <td></td>
 <td><p>B.I, KUSH</p></td>
@@ -397,8 +397,8 @@
 <td><p> B.I, 송민호</p></td>
 </tr>
 <tr class="odd">
-<td><p><em><a href="https://ko.wikipedia.org/wiki/나는_달라" title="wikilink">나는 달라</a></em></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/하이수현" title="wikilink">하이수현</a></p></td>
+<td><p><em><a href="../Page/나는_달라.md" title="wikilink">나는 달라</a></em></p></td>
+<td><p><a href="../Page/하이수현.md" title="wikilink">하이수현</a></p></td>
 <td><p>나는 달라 (feat. BOBBY)</p></td>
 <td></td>
 <td><p> 마스타우</p></td>
@@ -413,7 +413,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><em><a href="https://ko.wikipedia.org/wiki/신발장" title="wikilink">신발장</a></em></p></td>
+<td><p><em><a href="../Page/신발장.md" title="wikilink">신발장</a></em></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/에픽하이" title="wikilink">에픽하이</a></p></td>
 <td><p>Born Hater (feat. Beenzino, Verbal Jint, B.I, Mino, Bobby)</p></td>
 <td></td>
@@ -435,14 +435,14 @@
 
 ### 방송
 
-| 년도   | 방송사  | 제목                                                                        | 역할         | 참고              |
-| ---- | ---- | ------------------------------------------------------------------------- | ---------- | --------------- |
-| 2014 | Mnet | 《WIN - Who Is Next》                                                       | 본인(Team B) | 참가자             |
-| 2014 | Mnet | 《[쇼미더머니 3](https://ko.wikipedia.org/wiki/쇼미더머니_3 "wikilink")》             | 본인         | 참가자, 최종 우승      |
-| 2014 | Mnet | 《믹스 앤 매치》                                                                 | 본인         | 참가자             |
-| 2016 | MBC  | 《[무한도전](https://ko.wikipedia.org/wiki/무한도전 "wikilink")》                   | 본인         | 게스트             |
-| 2016 | tvN  | 《[아버지와 나](https://ko.wikipedia.org/wiki/아버지와_나 "wikilink")》               | 본인         | 고정 멤버           |
-| 2017 | MBC  | 《[미스터리 음악쇼 복면가왕](https://ko.wikipedia.org/wiki/미스터리_음악쇼_복면가왕 "wikilink")》 | 참가자        | 어물전 최고미남 꼴뚜기 왕자 |
+| 년도   | 방송사  | 제목                                                            | 역할         | 참고              |
+| ---- | ---- | ------------------------------------------------------------- | ---------- | --------------- |
+| 2014 | Mnet | 《WIN - Who Is Next》                                           | 본인(Team B) | 참가자             |
+| 2014 | Mnet | 《[쇼미더머니 3](https://ko.wikipedia.org/wiki/쇼미더머니_3 "wikilink")》 | 본인         | 참가자, 최종 우승      |
+| 2014 | Mnet | 《믹스 앤 매치》                                                     | 본인         | 참가자             |
+| 2016 | MBC  | 《[무한도전](https://ko.wikipedia.org/wiki/무한도전 "wikilink")》       | 본인         | 게스트             |
+| 2016 | tvN  | 《[아버지와 나](../Page/아버지와_나.md "wikilink")》                      | 본인         | 고정 멤버           |
+| 2017 | MBC  | 《[미스터리 음악쇼 복면가왕](../Page/미스터리_음악쇼_복면가왕.md "wikilink")》        | 참가자        | 어물전 최고미남 꼴뚜기 왕자 |
 
 ### CF
 

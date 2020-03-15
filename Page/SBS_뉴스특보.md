@@ -18,7 +18,7 @@
 ## 경쟁 프로그램
 
   - [KBS 뉴스특보](../Page/KBS_뉴스특보.md "wikilink") ([KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink"))
-  - [MBC 뉴스특보](https://ko.wikipedia.org/wiki/MBC_뉴스특보 "wikilink") ([MBC TV](https://ko.wikipedia.org/wiki/MBC_TV "wikilink"))
+  - [MBC 뉴스특보](../Page/MBC_뉴스특보.md "wikilink") ([MBC TV](https://ko.wikipedia.org/wiki/MBC_TV "wikilink"))
   - [JTBC 뉴스특보](https://ko.wikipedia.org/wiki/JTBC_뉴스특보 "wikilink") ([JTBC](https://ko.wikipedia.org/wiki/JTBC "wikilink"))
 
 ## 그 외 [SBS 뉴스 프로그램](https://ko.wikipedia.org/wiki/SBS의_뉴스_프로그램 "wikilink")

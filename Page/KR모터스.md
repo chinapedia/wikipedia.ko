@@ -9,7 +9,7 @@
   - [1979년](https://ko.wikipedia.org/wiki/1979년 "wikilink") [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") [스즈키](https://ko.wikipedia.org/wiki/스즈키 "wikilink")사와 기술제휴를 하여, "효성스즈끼"라는 브랜드명으로 [모터사이클](https://ko.wikipedia.org/wiki/모터사이클 "wikilink")을 생산하기 시작하였다.
   - [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") 기술연구소가 설립되었다.
   - [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink") 순수 독자 개발품을 양산하였다.
-  - [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") 국내 최초로 125cc급 모터사이클 [DOHC](https://ko.wikipedia.org/wiki/DOHC "wikilink") 엔진을 개발하였다.
+  - [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") 국내 최초로 125cc급 모터사이클 [DOHC](../Page/DOHC.md "wikilink") 엔진을 개발하였다.
   - [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") 대전피혁공업(1917년 설립)에 합병되었다.
   - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") 피혁사업부를 폐쇄하였으며 본사를 [창원시](https://ko.wikipedia.org/wiki/창원시 "wikilink")로 이전하였다.
   - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") 효성그룹으로부터 분리되었다.

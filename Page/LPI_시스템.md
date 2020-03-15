@@ -15,7 +15,7 @@ LPG 차량은 연비가 나쁘고 겨울에 시동이 잘 안걸리고 고장이
 
 ## 관련 기업
 
-대한민국에서 LPI 시스템을 생산하는 기업으로는 [모토닉](https://ko.wikipedia.org/wiki/모토닉 "wikilink")이 있다. 이 회사는 현대차 및 기아차에 들어가는 LPI 시스템을 [OEM](https://ko.wikipedia.org/wiki/OEM "wikilink")으로 생산한다.
+대한민국에서 LPI 시스템을 생산하는 기업으로는 [모토닉](../Page/모토닉.md "wikilink")이 있다. 이 회사는 현대차 및 기아차에 들어가는 LPI 시스템을 [OEM](https://ko.wikipedia.org/wiki/OEM "wikilink")으로 생산한다.
 
 ## 각주
 

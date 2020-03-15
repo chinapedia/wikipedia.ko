@@ -13,7 +13,7 @@
 
 파라이바 주 리그인 [캄페오나투 파라이바누에서](https://ko.wikipedia.org/wiki/캄페오나투_파라이바누 "wikilink") 꾸준히 좋은 성적을 거두었으며, [1937년](https://ko.wikipedia.org/wiki/1937년 "wikilink"), [1949년](https://ko.wikipedia.org/wiki/1949년 "wikilink"), [1953년](https://ko.wikipedia.org/wiki/1953년 "wikilink"), [1957년](https://ko.wikipedia.org/wiki/1957년 "wikilink"), [1970년](https://ko.wikipedia.org/wiki/1970년 "wikilink"), [1976년](https://ko.wikipedia.org/wiki/1976년 "wikilink") 대회에서는 무패우승을 거두었다.
 
-[2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [EC 비토리아를](https://ko.wikipedia.org/wiki/EC_비토리아 "wikilink") 종합 3-1로 꺾으며, 구단은 역사상 처음으로 코파 두 브라지우 2라운드에 진출하였다. [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") 보타포구 다 파라이바는 [캄페오나투 브라질레이루 세리이 D에서](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_D "wikilink") 우승을 차지하며, 전국 대회 최초의 우승 트로피를 들어올렸다.
+[2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [EC 비토리아를](https://ko.wikipedia.org/wiki/EC_비토리아 "wikilink") 종합 3-1로 꺾으며, 구단은 역사상 처음으로 코파 두 브라지우 2라운드에 진출하였다. [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") 보타포구 다 파라이바는 [캄페오나투 브라질레이루 세리이 D에서](../Page/캄페오나투_브라질레이루_세리이_D.md "wikilink") 우승을 차지하며, 전국 대회 최초의 우승 트로피를 들어올렸다.
 
 ## 기록
 
