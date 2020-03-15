@@ -1,0 +1,20 @@
+> This article is converted from Wikipedia: [OGLE-TR-111b](https://ko.wikipedia.org/wiki/OGLE-TR-111b).
+
+
+**OGLE-TR-111b**는 [용골자리](https://ko.wikipedia.org/wiki/용골자리 "wikilink") 방향으로 지구로부터 약 5,000광년 떨어진 곳에 있는 [외계 행성이다](https://ko.wikipedia.org/wiki/외계_행성 "wikilink"). 어머니 항성은 [OGLE-TR-111](../Page/OGLE-TR-111.md "wikilink")로, 지금까지 이 별을 도는 것으로 확인된 행성은 b 하나뿐이다(그러나 두 번째 행성이 있을 확률이 높다).
+
+2002년 OGLE 연구 프로젝트는 항성 OGLE-TR-111의 빛이 4일 주기로 조금씩 약해지는 현상을 발견했다. 이는 행성 크기 천체가 별과 우리 사이 시야를 가려 별에서 나오는 빛 일부를 차단하기 때문이었다. 그러나 행성체의 질량을 구할 수 없었기 때문에 이 천체가 행성인지 아니면 더 무거운 [갈색 왜성이나](https://ko.wikipedia.org/wiki/갈색_왜성 "wikilink") [적색 왜성인지를](https://ko.wikipedia.org/wiki/적색_왜성 "wikilink") 판별할 수 없었다.\[1\] 2004년, [도플러 분광법을](../Page/도플러_효과.md "wikilink") 통해 이 천체는 갈색 왜성이나 적색 왜성이 아닌, 가스 행성임을 밝혀냈다.\[2\]
+
+OGLE-TR-111b는 항성 바로 옆을 돌고 있는 여타 [뜨거운 목성들과](../Page/뜨거운_목성.md "wikilink") 비슷하다. 질량은 목성의 절반 정도이며 지구\~태양 거리의 20분의 1도 안 되는 아주 가까운 간격밖에 떨어져 있지 않다. 공교롭게도 이 행성은 외계 행성 탐사 역사 초에 발견되었던 오시리스 [HD 209458 b와](../Page/HD_209458_b.md "wikilink") 질량이 비슷하다. 차이점이라면 b의 반지름은 OGLE 계획이 발견한 다른 가스 행성들과 마찬가지로 목성과 비슷하다는 것이다. 특기할 점이라면 OGLE의 다른 가스 행성들은 질량이 b보다 더 크고 통상의 뜨거운 목성들보다 항성에 더 바싹 붙어 있다는 것이다. 가스 행성은 질량이 커지더라도 자체 중력 때문에 압축되어 그 크기가 목성 정도에서 크게 어긋나지 않는다. 그런데 질량이 작은 행성이 항성 가까이에 있을 경우 대기가 가열되어 항성이 쉽게 부풀어 오르는 반면, 질량이 큰 행성은 중력 때문에 대기도 잘 들뜨지 않아 덩치가 쉽게 늘어나지 않는다. 이런 점에서 b는 그 질량이 작음에도 덩치가 그리 크지 않아 천문학자들은 이 모순된 결과에 주목하고 있다.\[3\]
+
+## 참고 문헌
+
+## 외부 링크
+
+  -
+
+[분류:외계 행성](https://ko.wikipedia.org/wiki/분류:외계_행성 "wikilink") [분류:2002년 발견한 외계 행성](https://ko.wikipedia.org/wiki/분류:2002년_발견한_외계_행성 "wikilink") [분류:용골자리](https://ko.wikipedia.org/wiki/분류:용골자리 "wikilink") [분류:뜨거운 목성](https://ko.wikipedia.org/wiki/분류:뜨거운_목성 "wikilink") [분류:목성형 행성](https://ko.wikipedia.org/wiki/분류:목성형_행성 "wikilink")
+
+1.
+2.
+3.  \*

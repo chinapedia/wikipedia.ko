@@ -1,0 +1,49 @@
+> This article is converted from Wikipedia: [CA ](https://ko.wikipedia.org/wiki/CA_).
+
+
+**CA 오사수나**(Club Atlético Osasuna)는 [팜플로나](https://ko.wikipedia.org/wiki/팜플로나 "wikilink")에 위치한 [에스타디오 엘 사다르](https://ko.wikipedia.org/wiki/에스타디오_엘_사다르 "wikilink") 경기장을 근거로 하는 [스페인](https://ko.wikipedia.org/wiki/스페인 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다.
+
+이 축구단은 [1920년](https://ko.wikipedia.org/wiki/1920년 "wikilink") 창단되었다. '오사수나'라는 팀명은 [바스크어](https://ko.wikipedia.org/wiki/바스크어 "wikilink")로 '건강'을 뜻한다.
+
+## 역사
+
+2000-01시즌에 승격한 후 계속 [프리메라리가](https://ko.wikipedia.org/wiki/프리메라리가 "wikilink")에 속해 있다. 2004-05시즌 [코파 델 레이](https://ko.wikipedia.org/wiki/코파_델_레이 "wikilink") 결승전에 진출했으나 [레알 베티스에게](../Page/레알_베티스.md "wikilink") 연장전 끝에 패해 준우승을 차지했고, 2005-06시즌에는 팀 최고 성적인 리그 4위를 기록하였다. 이때 [세비야 FC와](https://ko.wikipedia.org/wiki/세비야_FC "wikilink") 승점이 같았으나 승자승 원칙에 따라 CA 오사수나가 [UEFA 챔피언스리그](../Page/UEFA_챔피언스리그.md "wikilink") 예선에 진출하였다. 하지만, 3차 예선에서 [함부르크 SV에게](https://ko.wikipedia.org/wiki/함부르크_SV "wikilink") 패하여 다음 시즌인 2006-07시즌에는 [UEFA 컵에](https://ko.wikipedia.org/wiki/UEFA_컵_2006-07 "wikilink") 참가하였고, 4강에 오르는 기록을 세웠으나 [UEFA 챔피언스리그](../Page/UEFA_챔피언스리그.md "wikilink") 참가권을 놓고 다투었던 [세비야 FC에게](https://ko.wikipedia.org/wiki/세비야_FC "wikilink") 합계 1-2로 패하여 결승 진출에는 실패했다.
+
+그 후 다시 팀은 중하위권으로 떨어져 강등권에서 탈출 경쟁을 벌였는데, 특히 2008-09시즌에는 마지막 경기를 앞두고 18위인 상태에서 [레알 마드리드와](https://ko.wikipedia.org/wiki/레알_마드리드 "wikilink") 홈경기를 치루어 1골을 먹힌 후 [후안프란이](https://ko.wikipedia.org/wiki/후안_프란시스코_토레스 "wikilink") 2골을 넣어 역전승을 일구며 극적으로 잔류에 성공하기도 했다.
+
+10-11시즌은 9위, 11-12시즌은 7위로 마감하였다.
+
+## 성적
+
+  - 2000-01시즌부터의 성적임.
+
+| 시즌      | 순위     | 경기수 | 승  | 무  | 패  | 득점 | 실점 | 승점     | [코파 델 레이](https://ko.wikipedia.org/wiki/코파_델_레이 "wikilink") | 유럽대회                                                                   | 비고      |
+| ------- | ------ | --- | -- | -- | -- | -- | -- | ------ | ----------------------------------------------------------- | ---------------------------------------------------------------------- | ------- |
+| 2000-01 | **15** | 38  | 10 | 12 | 16 | 43 | 54 | **42** | 32강                                                         |                                                                        |         |
+| 2001-02 | **17** | 38  | 10 | 12 | 16 | 36 | 49 | **42** | 32강                                                         |                                                                        |         |
+| 2002-03 | **12** | 38  | 12 | 11 | 15 | 40 | 48 | **47** | 4강                                                          |                                                                        |         |
+| 2003-04 | **13** | 38  | 11 | 15 | 12 | 38 | 37 | **48** | 16강                                                         |                                                                        |         |
+| 2004-05 | **15** | 38  | 12 | 10 | 16 | 46 | 65 | **46** | **준우승**                                                     |                                                                        |         |
+| 2005-06 | **4**  | 38  | 21 | 5  | 12 | 49 | 43 | **68** | 16강                                                         | [UEFA 컵 1라운드](https://ko.wikipedia.org/wiki/UEFA_컵_2005-06 "wikilink") | 리그 최고성적 |
+| 2006-07 | **14** | 38  | 13 | 7  | 18 | 51 | 49 | **46** | 8강                                                          | [UEFA 컵 4강](https://ko.wikipedia.org/wiki/UEFA_컵_2006-07 "wikilink")   |         |
+| 2007-08 | **17** | 38  | 12 | 7  | 19 | 37 | 44 | **43** | 32강                                                         |                                                                        |         |
+| 2008-09 | **15** | 38  | 10 | 13 | 15 | 41 | 47 | **43** | 16강                                                         |                                                                        |         |
+| 2009-10 | **12** | 38  | 11 | 10 | 17 | 37 | 46 | **43** | 8강                                                          |                                                                        |         |
+| 2010-11 | **9**  | 38  | 13 | 8  | 17 | 45 | 46 | **47** | 32강                                                         |                                                                        |         |
+| 2011-12 | **7**  | 38  | 13 | 15 | 10 | 44 | 61 | **54** | 16강                                                         |                                                                        |         |
+| 2012-13 | **16** | 38  | 10 | 9  | 19 | 33 | 50 | **39** | 16강                                                         |                                                                        |         |
+
+  - [코파 델 레이](https://ko.wikipedia.org/wiki/코파_델_레이 "wikilink")
+      - 준우승 (1): 2004-2005
+
+## 선수
+
+### 현재 선수 명단
+
+*2013-14 시즌 명단 기준*
+
+## 외부 링크
+
+  - [오사수나 공식 홈페이지](http://www.osasuna.es)
+
+[CA_오사수나](https://ko.wikipedia.org/wiki/분류:CA_오사수나 "wikilink") [분류:스페인의 축구단](https://ko.wikipedia.org/wiki/분류:스페인의_축구단 "wikilink") [분류:1920년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1920년_설립된_축구단 "wikilink") [분류:나바라 지방의 축구단](https://ko.wikipedia.org/wiki/분류:나바라_지방의_축구단 "wikilink")

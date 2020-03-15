@@ -1,0 +1,39 @@
+> This article is converted from Wikipedia: [JAPAN FM LEAGUE](https://ko.wikipedia.org/wiki/JAPAN_FM_LEAGUE).
+
+
+**JAPAN FM LEAGUE**는 일본의 FM 네트워크 중 하나로 [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") [10월](https://ko.wikipedia.org/wiki/10월 "wikilink") 설립되었다.
+
+약칭으로 JFL을 사용하고 있다.
+
+## 개요
+
+  - 각 방송국의 자주성을 중시하기 때문에 중심국 개념이 존재하지 않으며 또한 전국방송용 프로그램이 다른 라디오 네트워크보다 적다.
+  - 커뮤니티 라디오 방송국에서 JFL프로그램을 방송할 때도 있다.
+
+## 가맹국
+
+| 에리어                                                                                                                                                                                                                                                                                                                                            | 애칭                                                              | 회사명                                                           | 구회사명 |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------- | ---- |
+| 비고                                                                                                                                                                                                                                                                                                                                             |                                                                 |                                                               |      |
+| [홋카이도](https://ko.wikipedia.org/wiki/홋카이도 "wikilink")                                                                                                                                                                                                                                                                                          | **FM NORTH WAVE**                                               | [FM 노스웨이브](https://ko.wikipedia.org/wiki/FM_노스웨이브 "wikilink") | \-   |
+| [아바시리 지청](https://ko.wikipedia.org/wiki/아바시리_지청 "wikilink"), [네무로 지청](https://ko.wikipedia.org/wiki/네무로_지청 "wikilink"), [소야 지청에서는](https://ko.wikipedia.org/wiki/소야_지청 "wikilink") 청취 불가                                                                                                                                                       |                                                                 |                                                               |      |
+| [도쿄도](https://ko.wikipedia.org/wiki/도쿄도 "wikilink")                                                                                                                                                                                                                                                                                            | **[J-WAVE](https://ko.wikipedia.org/wiki/J-WAVE "wikilink")**   | FM 재팬                                                         |      |
+| 섬지역에선 청취불가                                                                                                                                                                                                                                                                                                                                     |                                                                 |                                                               |      |
+| [아이치현](https://ko.wikipedia.org/wiki/아이치현 "wikilink")                                                                                                                                                                                                                                                                                          | **[ZIP-FM](https://ko.wikipedia.org/wiki/ZIP-FM "wikilink")**   | FM 나고야                                                        |      |
+|                                                                                                                                                                                                                                                                                                                                                |                                                                 |                                                               |      |
+| [오사카부](https://ko.wikipedia.org/wiki/오사카부 "wikilink")                                                                                                                                                                                                                                                                                          | **[FM802](../Page/FM802.md "wikilink")**                        | FM 하치마루니                                                      |      |
+|                                                                                                                                                                                                                                                                                                                                                |                                                                 |                                                               |      |
+| [후쿠오카현](https://ko.wikipedia.org/wiki/후쿠오카현 "wikilink")                                                                                                                                                                                                                                                                                        | **[CROSS FM](https://ko.wikipedia.org/wiki/크로스_FM "wikilink")** | \-                                                            |      |
+| [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") [9월 1일부터](https://ko.wikipedia.org/wiki/9월_1일 "wikilink") [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [6월 30일까지](https://ko.wikipedia.org/wiki/6월_30일 "wikilink") 주식회사 [FM 규슈에서](https://ko.wikipedia.org/wiki/FM_규슈 "wikilink") 운영했으며 지금의 CROSS FM은 이전의 FM 규슈와는 별개의 회사이다. |                                                                 |                                                               |      |
+|                                                                                                                                                                                                                                                                                                                                                |                                                                 |                                                               |      |
+
+## 보충서술
+
+  - 계열국들이 자유롭고 개성적인 프로그램 편성을 하는 독자적인 정책에 의해 특히 J-WAVE·ZIP-FM·FM802은 방송구역 FM라디오 청취율 1위가 될때도 많지만 FM NORTH WAVE·CROSS FM는 이러한 정책으로 경영이 불안해지는 바람에 방송구역내 [JFN](../Page/JFN.md "wikilink") 계열국과 힘겨운 싸움을 벌기고 있다. 그리고 이 2 방송국에서는 심야부터 아침까지 심야프로그램 제작을 단념하고 새벽에는 음악만 방송하고 있어 JFL 가맹국간 프로그램 제작 능력에 격차가 생기고 있다.
+  - 커뮤니티 FM 방송국에서 도쿄의 FM방송국 J-WAVE방송을 재전송하는 일이 많아지면서 지역정보를 제공해야할 커뮤니티 FM 방송국이 J-WAVE의 중계국처럼 되가면서 커뮤니티 FM 방송국 본래의 모습이 유지되는가 하는 비판이 나오고 있다.
+
+## 외부 링크
+
+  - [J-Wave측 JFL 계열국 소개사이트](http://www.j-wave.co.jp/jfl/)
+
+[분류:JAPAN FM LEAGUE‎](https://ko.wikipedia.org/wiki/분류:JAPAN_FM_LEAGUE‎ "wikilink") [분류:일본의 라디오 네트워크](https://ko.wikipedia.org/wiki/분류:일본의_라디오_네트워크 "wikilink")

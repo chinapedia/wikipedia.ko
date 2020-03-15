@@ -1,0 +1,271 @@
+> This article is converted from Wikipedia: [OBSTV](https://ko.wikipedia.org/wiki/OBSTV).
+
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:OBS-1.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:OBS-2.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:OBS-3.jpg "wikilink") **OBS경인TV**(약칭 **OBS**)는 [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink")와 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") 전역을 방송권역으로 하는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [민영방송사이다](https://ko.wikipedia.org/wiki/민영_방송 "wikilink"). 지역민영 방송사중 유일하게 [SBS와](https://ko.wikipedia.org/wiki/SBS_\(대한민국의_방송사\) "wikilink") 네트워크 제휴협정을 맺지않은 독립방송사로, 기존에 경인지역을 가시청권으로 방송하던 [경인방송](https://ko.wikipedia.org/wiki/경인방송 "wikilink")(iTV)이 폐국한이후 새로 경인지역 지상파TV사업권을 취득하여, 다시개국한 지역민영방송사이다.
+
+## 개요
+
+### OBS의 의미
+
+OBS에서 O의 의미는 [하나를](https://ko.wikipedia.org/wiki/1 "wikilink") 뜻하는 **One**과 우리를 뜻하는 **Our**, 열림을 뜻하는 **Open**, 척박한 [사막](https://ko.wikipedia.org/wiki/사막 "wikilink")의 희망인 [오아시스](https://ko.wikipedia.org/wiki/오아시스 "wikilink")를 뜻하는 **Oasis**, 기회를 뜻하는 **Oppotunity**가 담겨져 있다.
+
+### 캐치프레이즈
+
+  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") \~ [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") : 희망을 나눠요
+  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") : 따뜻한 세상 함께 하는 OBS
+  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") \~ [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") : 사람 세상(世上)을 만듭니다
+  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") \~ [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") : 경인 성장의 힘 OBS
+  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") : 지역의 희망이 되겠습니다.
+  - [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") \~ 현재 : 지역이 희망입니다.
+
+### 로고송
+
+  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") \~ 현재 : 어제보다 더 희망찬 내일 OBS\~
+  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [12월 28일](https://ko.wikipedia.org/wiki/12월_28일 "wikilink") \~ 현재 : 오늘보다 더 나은 내일 우우우 OBS\~
+  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [1월 1일](https://ko.wikipedia.org/wiki/1월_1일 "wikilink") \~ 현재 : 다 함께 희망을 나눠요 우우우 OBS\~
+
+### 방송 권역
+
+지상파로는 [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink") 및 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [남부](https://ko.wikipedia.org/wiki/남쪽 "wikilink"), [동부](https://ko.wikipedia.org/wiki/동쪽 "wikilink"), [북서부](https://ko.wikipedia.org/wiki/북서쪽 "wikilink") 지역과 서울 일부, [충남](https://ko.wikipedia.org/wiki/충청남도 "wikilink") [북부지역을](https://ko.wikipedia.org/wiki/북쪽 "wikilink") 가시청 권역으로 하고, [유료방송 재송신을](https://ko.wikipedia.org/wiki/대한민국의_케이블TV_방송 "wikilink") 통해 [서울](https://ko.wikipedia.org/wiki/서울특별시 "wikilink") 전역을 포함한 [수도권을](https://ko.wikipedia.org/wiki/대한민국의_수도권 "wikilink") 가시청권으로 한다.
+
+### 나라별 제휴국
+
+  - [마이니치방송](https://ko.wikipedia.org/wiki/마이니치방송 "wikilink")()
+
+  - [RKB 마이니치 방송](https://ko.wikipedia.org/wiki/RKB_마이니치_방송 "wikilink")()
+
+  - [도쿄 메트로폴리탄 텔레비전](https://ko.wikipedia.org/wiki/도쿄_메트로폴리탄_텔레비전 "wikilink")()
+
+## 연혁
+
+### 1990년대
+
+  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [10월 11일](https://ko.wikipedia.org/wiki/10월_11일 "wikilink") [iTV 인천방송](https://ko.wikipedia.org/wiki/경인방송 "wikilink") 개국 (현iFM 경인방송/OBS 경인TV/OBS W)
+
+### 2000년대
+
+  - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink") : [iTV 경인방송으로](https://ko.wikipedia.org/wiki/경인방송 "wikilink") 사명 변경 (현iFM 경인방송/OBS 경인TV/OBS W)
+  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [12월 31일](https://ko.wikipedia.org/wiki/12월_31일 "wikilink") : [iTV 경인방송의](https://ko.wikipedia.org/wiki/경인방송 "wikilink") TV방송 종료 및 경인방송 TV방송 잠정적 중단 (현iFM 경인방송/OBS 경인TV/OBS W)
+  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [2월 21일](https://ko.wikipedia.org/wiki/2월_21일 "wikilink") : 경인 지역 지상파 방송 허가 추천 기본 계획 수립 · 공표([방송위원회](https://ko.wikipedia.org/wiki/대한민국_방송위원회 "wikilink"))
+  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [2월 24일](https://ko.wikipedia.org/wiki/2월_24일 "wikilink") : 경인 지역 지상파 방송 허가 추천 신청 공고(방송위원회)
+  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [3월 27일](https://ko.wikipedia.org/wiki/3월_27일 "wikilink") : 경인 지역 지상파 방송 허가 추천 신청 접수 마감(방송위원회)
+  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [4월 28일](https://ko.wikipedia.org/wiki/4월_28일 "wikilink") : 경인 지역 지상파 방송 사업자 선정
+  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [5월 2일](https://ko.wikipedia.org/wiki/5월_2일 "wikilink") : 경인TV 개국 준비단 발족
+  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [8월 29일](https://ko.wikipedia.org/wiki/8월_29일 "wikilink") : 창립 총회
+  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [8월 30일](https://ko.wikipedia.org/wiki/8월_30일 "wikilink") : 법인 설립
+  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [11월 8일](https://ko.wikipedia.org/wiki/11월_8일 "wikilink") : 김성재 사장 취임
+  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [4월 5일](https://ko.wikipedia.org/wiki/4월_5일 "wikilink") : OBS경인TV(주) 허가 추천 결정(방송위원회)
+  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [4월 12일](https://ko.wikipedia.org/wiki/4월_12일 "wikilink") : 3개 송신소, 중계소 허가 추천서 수령
+  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [7월 25일](https://ko.wikipedia.org/wiki/7월_25일 "wikilink") : 주철환 사장 취임 , 김성재 사장은 회장으로 취임.
+  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [11월 23일](https://ko.wikipedia.org/wiki/11월_23일 "wikilink") : OBS의 [계양산](https://ko.wikipedia.org/wiki/계양산 "wikilink") [아날로그 TV와](https://ko.wikipedia.org/wiki/아날로그_텔레비전 "wikilink") [디지털 TV](https://ko.wikipedia.org/wiki/디지털_텔레비전 "wikilink") 방송국 허가증 교부([정보통신부](https://ko.wikipedia.org/wiki/대한민국_정보통신부 "wikilink")), 시험방송 실시
+  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [12월 7일](https://ko.wikipedia.org/wiki/12월_7일 "wikilink") : OBS경인TV 방송국 검사필증 취득
+  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [12월 26일](https://ko.wikipedia.org/wiki/12월_26일 "wikilink") : [OBS문화재단](https://ko.wikipedia.org/wiki/OBS문화재단 "wikilink") 설립
+  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [12월 28일](https://ko.wikipedia.org/wiki/12월_28일 "wikilink") : OBS경인TV 개국
+  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [8월 15일](https://ko.wikipedia.org/wiki/8월_15일 "wikilink") : 광교산 중계소 전파 송출 시작
+  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [1월 21일](https://ko.wikipedia.org/wiki/1월_21일 "wikilink") : 주철환 사장 사퇴 의사 표명
+  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [2월 12일](https://ko.wikipedia.org/wiki/2월_12일 "wikilink") : 주주 총회에서 차용규 전 [울산방송](../Page/울산방송.md "wikilink") 사장을 OBS 신임 사장으로 선임
+  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [2월 16일](https://ko.wikipedia.org/wiki/2월_16일 "wikilink") : 차용규 사장 취임.
+  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [8월](https://ko.wikipedia.org/wiki/8월 "wikilink") : 미디어OBS를 방송통신위원회에 PP로 등록.
+
+### 2010년대
+
+  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink") : 손용 사장 취임.
+  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [5월](https://ko.wikipedia.org/wiki/5월 "wikilink") : [스카이라이프를](https://ko.wikipedia.org/wiki/KT스카이라이프 "wikilink") 통한 재송신 개시.\[1\]
+  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [5월 19일](https://ko.wikipedia.org/wiki/5월_19일 "wikilink") : 경인일보-OBS 양사간 업무협약 조인.\[2\]
+  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [6월](https://ko.wikipedia.org/wiki/6월 "wikilink") : [OBS W](https://ko.wikipedia.org/wiki/OBS_W "wikilink") 개국.\[3\]
+  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [3월 21일](https://ko.wikipedia.org/wiki/3월_21일 "wikilink") : OBS 역외 재송신 허용([방송통신위원회](https://ko.wikipedia.org/wiki/방송통신위원회 "wikilink")).\[4\]
+  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [8월 1일](https://ko.wikipedia.org/wiki/8월_1일 "wikilink") : 서울 전지역 [케이블TV SO를](https://ko.wikipedia.org/wiki/대한민국의_케이블TV_방송 "wikilink") 통한 재송신 개시.
+  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [12월 28일](https://ko.wikipedia.org/wiki/12월_28일 "wikilink") : [용문산 중계소](https://ko.wikipedia.org/wiki/용문산_\(경기\) "wikilink") 전파 송출 개시.
+  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [3월 20일](https://ko.wikipedia.org/wiki/3월_20일 "wikilink") : [SK브로드밴드](https://ko.wikipedia.org/wiki/SK브로드밴드 "wikilink") [B TV를](https://ko.wikipedia.org/wiki/B_TV "wikilink") 통한 재송신 개시.\[5\]
+  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [7월 1일](https://ko.wikipedia.org/wiki/7월_1일 "wikilink") : 서울 지역 스카이라이프 HD 가입자들을 대상으로 한 재송신 개시.\[6\]
+  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [9월 12일](https://ko.wikipedia.org/wiki/9월_12일 "wikilink") : SK브로드밴드 B TV를 통한 재송신 권역을 [서울특별시](https://ko.wikipedia.org/wiki/서울특별시 "wikilink") 전 지역으로 확대.\[7\]
+  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [9월 29일](https://ko.wikipedia.org/wiki/9월_29일 "wikilink") : [KT](https://ko.wikipedia.org/wiki/KT "wikilink") [올레 TV를](https://ko.wikipedia.org/wiki/올레_TV "wikilink") 통한 재송신을 개시.\[8\]
+  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [10월 16일](https://ko.wikipedia.org/wiki/10월_16일 "wikilink") : [LG](https://ko.wikipedia.org/wiki/LG유플러스 "wikilink") [U+ TV를](https://ko.wikipedia.org/wiki/U+_TV "wikilink") 통한 재송신을 개시.\[9\]
+  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [12월 31일](https://ko.wikipedia.org/wiki/12월_31일 "wikilink") : 새벽 04시 수도권 지상파 아날로그 TV방송 종료.
+  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [10월 16일](https://ko.wikipedia.org/wiki/10월_16일 "wikilink") : [수도권](https://ko.wikipedia.org/wiki/수도권 "wikilink"), [충청권](https://ko.wikipedia.org/wiki/충청권 "wikilink"), [강원도](https://ko.wikipedia.org/wiki/강원도 "wikilink") 디지털방송 재배치.
+  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [11월 19일](https://ko.wikipedia.org/wiki/11월_19일 "wikilink") : [경인방송](https://ko.wikipedia.org/wiki/경인방송 "wikilink")과 업무협정 체결.\[10\]
+  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [4월 24일](https://ko.wikipedia.org/wiki/4월_24일 "wikilink") : 주 송신소를 계양산에서 광교산으로 변경.
+  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [12월 28일](https://ko.wikipedia.org/wiki/12월_28일 "wikilink") : 백령 중계소 전파 송출 개시.\[11\]
+
+## 방송 송출 시설망
+
+[계양산](https://ko.wikipedia.org/wiki/계양산 "wikilink") 중계소 문제는 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [11월](https://ko.wikipedia.org/wiki/11월 "wikilink") 말에 허가 교부증이 나오면서 해결되었으며, [광교산](https://ko.wikipedia.org/wiki/광교산 "wikilink") 송신소 문제도 역시 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [7월](https://ko.wikipedia.org/wiki/7월 "wikilink")에 허가 교부증이 나오면서 해결되었다.
+
+  - 호출부호 : HLQS-DTV
+  - 가상채널 : 8-1
+
+| 송신소     | UHD   | HD    | 송신소 위치                | 비고                 |
+| ------- | ----- | ----- | --------------------- | ------------------ |
+| 물리채널    | 출력    | 물리채널  | 출력                    |                    |
+| 광교산 송신소 | 준비중   | CH 25 | 2.5kW                 | 경기 용인시 수지구 고기동 산52 |
+| 계양산 중계소 | CH 36 | 500W  | 인천 계양구 목상동 산57-1      |                    |
+| 파평 중계소  | CH 21 | 90W   | 경기 파주시 파평면 눌노리 산 23-8 |                    |
+| 용문산 중계소 | CH 30 | 500W  | 경기 양평군 옥천면 용천리 산25-1  |                    |
+| 진촌 중계소  | CH 43 | 20W   | 인천 옹진군 백령면 진촌리 용기원산   |                    |
+
+  - 아날로그TV
+
+<!-- end list -->
+
+  - <span style="color:dimgray;">호출부호 : HLQS-TV</span>
+
+| 송신소     | 채널    | 출력   | 송신소 위치             |
+| ------- | ----- | ---- | ------------------ |
+| 계양산 송신소 | CH 21 | 10kW | 인천 계양구 목상동 산57-1   |
+| 광교산 중계소 | CH 4  | 1kW  | 경기 용인시 수지구 고기동 산52 |
+
+## OBS의 문제점과 그 이후
+
+### 개국 전 송신소 문제
+
+  - 옛 iTV[경인방송](https://ko.wikipedia.org/wiki/경인방송 "wikilink")과는 달리, 계양산을 키 스테이션으로 하여 아날로그 및 디지털 모두 송출할 계획이다.
+  - 그러나 전파 월경과 전파 혼신 문제를 두고 같은 수도권 민방사인 [SBS](https://ko.wikipedia.org/wiki/SBS "wikilink")와의 마찰과 함께 [정보통신부](https://ko.wikipedia.org/wiki/정보통신부 "wikilink")의 허가가 지연되어, 당초 개국 예정일이었던 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [11월 1일을](https://ko.wikipedia.org/wiki/11월_1일 "wikilink") 넘겨버리게 되었다.
+  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [11월 23일에](https://ko.wikipedia.org/wiki/11월_23일 "wikilink") [정보통신부의](https://ko.wikipedia.org/wiki/대한민국_정보통신부 "wikilink") **OBS경인TV**에 대한 방송 허가 교부증이 나오면서 시험방송을 통해 [12월 28일에](https://ko.wikipedia.org/wiki/12월_28일 "wikilink") 정식으로 개국하였다.
+
+### 개국 후 OBS 시청문제
+
+  - OBS는 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [12월 28일에](https://ko.wikipedia.org/wiki/12월_28일 "wikilink") 개국을 무사히 치렀으나, SO와 계약을 하지 않아 개국 이후 2개월 가까이 유선 케이블 방송이 아닌 UHF 지상파 안테나로만 시청이 가능했다.
+  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [1월](https://ko.wikipedia.org/wiki/1월 "wikilink")에는 계양산송신소의 가시청 구역 안에 위치한 아파트들을 대상으로 OBS 수신을 위한 공시청망 개선 작업을 실시하여, 작업이 끝난 곳에서는 지상파를 통해 OBS를 시청할 수 있게 되었다.
+  - 계양산송신소와 광교산중계소의 가시청 구역 안에 위치한 곳에 살고 있다면. UHF 안테나를 해당 송신소 방향으로 설치함으로써 OBS를 지상파로 수신할 수 있다.
+  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 2월 말에 주송출지역인 인천광역시 일부 지역과 경기도 남부(수원, 안양, 평택 등) SO 채널에서도 OBS 채널이 설정되어, 케이블 TV를 통한 시청도 가능하게 되었다.
+  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [8월 15일에](https://ko.wikipedia.org/wiki/8월_15일 "wikilink") [광교산](https://ko.wikipedia.org/wiki/광교산 "wikilink") 중계소에서 전파 송출이 시작되어 경기 남부와 충남 북부 지역에서도 OBS를 수신할 수 있다. (디지털 : UHF 25)
+  - 그러나 [티브로드](https://ko.wikipedia.org/wiki/티브로드 "wikilink") 등 MSO와 계약을 하면서, 위성방송 스카이라이프에는 방송하지 않는다는 조건을 달아 논란이 되었으나\[12\] [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [5월](https://ko.wikipedia.org/wiki/5월 "wikilink")에 스카이라이프를 통한 OBS 재전송이 시작되었다.\[13\]
+  - 일부 지역 케이블TV 방송국들은 OBS의 디지털 방송을 아날로그 상품 가입자들에게 재전송 하지 않기 때문에, 일부 케이블TV 가입자들은 OBS의 [HD 방송을](https://ko.wikipedia.org/wiki/고선명_텔레비전 "wikilink") 안테나로만 시청이 가능하다.
+
+### 역외 재송신
+
+  - 방통위는 2009년 [11월 18일에](https://ko.wikipedia.org/wiki/11월_18일 "wikilink") 전체회의를 열어 기존 승인받은 티브로드 강서방송, HCN(서초방송), CJ헬로비전(양천방송), GS 강남방송, 큐릭스 종로중구방송 등 13개 종합 유선 방송 사업자(SO)의 OBS 역외 재송신 재승인 여부를 2010년 2월 18일 이전까지 결정키로 했다. 방통위는 이들 13개 SO에 대해 재승인 심사의사를 통보하고 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") 2월 18일까지 지상파 방송의 역외 재송신 정책방안을 전체회의에 상정, 승인 여부를 결정할 계획이다. 방통위 전신인 옛 방송위원회는 2008년 2월 19일에 서울 지역 13개 SO에 대한 OBS 역외 재송신을 승인하고 기간을 2년으로 한정했다. 재승인이 만료되는 2010년 2월 19일 이전에 방통위가 재송인 승인 여부를 결정하지 않을 경우 3년간 자동 연장된다.\[14\]
+  - 그리고 옛 방송위원회는 OBS의 서울 등 수도권 지역의 역외 재송신에 대해 승인한 바 있으나, 방통위는 그간 역외 재송신 승인은 권역별로 나눈 지상파 방송 허가 제도의 근본취지를 허물 수 있는 만큼 재검토가 필요하다는 입장을 고수해 왔다. 또 의무 전송 채널인 종합 편성채널과 SBS 등과의 형평성 문제가 제기돼 왔다. 그러나 지난 국정 감사에서 여야를 막론하고 OBS 역외 재송신과 관련, 정책 일관성 등에 대해 집중적인 문제가 제기되기도 했다. OBS 관계자는 “OBS가 광고 수주 등의 어려움으로 재정이 어렵기 때문에 역외 재송신을 해야 한다는 논리보다는 방송위원회 시절부터 꾸준하게 제기돼 온 지역 콘텐츠 활성화와 지역 방송 생존 전략이라는 전략으로 접근해야 한다”며 “방통위의 긍정적인 결정을 기대한다”고 밝혔다.\[15\]
+  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [7월](https://ko.wikipedia.org/wiki/7월 "wikilink")에 방송통신위원회가 OBS를 재전송하지 않는 서울 일부 지역의 케이블TV 사업자들에 대해 OBS 재전송을 승인함에 따라 2011년 [8월 1일부터](https://ko.wikipedia.org/wiki/8월_1일 "wikilink") 서울 전 지역에서 케이블TV를 통해 OBS를 시청할 수 있게 되었다.\[16\] 그리고 며칠 뒤 7월 31일 보도자료를 통해 "서울지역 송출을 시작함에 따라 OBS는 서울ㆍ경기ㆍ인천 등 수도권 2천400만 명의 시청자와 만날 수 있게 됐다"면서 "올 가을 개편 때 교양 · 예능 프로그램을 대폭 강화하는 한편, 장기적으로는 드라마 제작도 검토할 계획"이라고 말했다.<ref>
+
+</ref>
+
+### 광고 판매 및 송출 현황
+
+  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 광고 판매 수익이 90억 원 정도로 타사에 비해 매우 적은 편으로, 제작비가 부족해 종영된 프로그램을 다시 편성하는 경우도 있다.\[17\]
+  - [한국방송광고진흥공사](https://ko.wikipedia.org/wiki/한국방송광고진흥공사 "wikilink")(KOBACO)가 광고 판매를 다른 지상파 방송국과 달리 [DMB 사업자들과](../Page/디지털_멀티미디어_방송.md "wikilink") 같은 군으로 판매해 광고 수주비용이 매우 낮은 상황이다.
+  - 개국 당시에는 자본금 1400억 원이 마련되었으나 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink")에 900억 원을 지출하여 500억 원이 남아있는 상황으로, [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink")과 같은 상황이라면 자본 잠식으로 증자를 피할 수 없게 된다.
+  - [방송통신위](https://ko.wikipedia.org/wiki/대한민국_방송통신위원회 "wikilink") 부위원장인 송도균이 [SBS](https://ko.wikipedia.org/wiki/SBS_\(대한민국의_방송사\) "wikilink") 출신이라 OBS에 관한 안건에 부정적이거나 아예 무시로 일관한다는 의혹이 있다. [서울 지역](https://ko.wikipedia.org/wiki/서울특별시 "wikilink") 송출문제가 대표적이다.
+  - 위성방송 ([스카이라이프](https://ko.wikipedia.org/wiki/스카이라이프 "wikilink"))을 통한 재송신이 늦어졌다. 결국, [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [5월](https://ko.wikipedia.org/wiki/5월 "wikilink")에 스카이라이프 HD 가입자들을 대상으로 OBS를 재전송하기 시작하였다.
+
+### 특징
+
+과거의 지상파([KBS](https://ko.wikipedia.org/wiki/한국방송공사 "wikilink"), [MBC](https://ko.wikipedia.org/wiki/문화방송 "wikilink"), [SBS](https://ko.wikipedia.org/wiki/SBS_\(대한민국의_방송사\) "wikilink"), [EBS](https://ko.wikipedia.org/wiki/한국교육방송공사 "wikilink")), 종편, [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink") 인기 프로그램이 많음과 동시에 구매 프로그램이 보는 경우가 있다.
+
+## 방송 프로그램
+
+  - 다시보기는 다른방송들과는 달리 지역방송특성때문에 무료제공되고있다.(뉴스나,홈페이지에 들어갈수없는 일부프로그램 제외)
+
+### 방영 프로그램
+
+#### 뉴스 · 스포츠
+
+  - [OBS 뉴스아침](../Page/OBS_뉴스아침.md "wikilink")
+  - [OBS 경인투데이](https://ko.wikipedia.org/wiki/OBS_경인투데이 "wikilink") (수어 방송)
+  - [OBS 뉴스 오늘](../Page/OBS_뉴스_오늘.md "wikilink")
+  - [OBS 뉴스중심](https://ko.wikipedia.org/wiki/OBS_뉴스중심 "wikilink")
+  - [오늘의 월드뉴스](https://ko.wikipedia.org/wiki/오늘의_월드뉴스 "wikilink")
+  - [OBS 뉴스라인 인천-경기](../Page/OBS_뉴스라인_인천-경기.md "wikilink")
+  - [OBS 뉴스 (주말)](../Page/OBS_뉴스_\(주말\).md "wikilink")
+  - [OBS 뉴스특보](https://ko.wikipedia.org/wiki/OBS_뉴스특보 "wikilink")
+  - OBS 스포츠 - [야구](https://ko.wikipedia.org/wiki/KBO_리그 "wikilink"), [농구](https://ko.wikipedia.org/wiki/대한민국_프로_농구 "wikilink"), [축구](https://ko.wikipedia.org/wiki/K리그_클래식 "wikilink")\[18\] 중계
+
+#### 시사 · 교양 · 생활
+
+  - 아시아 전통시장
+  - 리얼귀농스토리 나는 농부다
+  - 자전기 기행, 발길 머무는 곳
+  - 히스토리 초이스
+  - 행복 부동산 연구소
+  - 와이드 ASIA
+  - 미디어 공감 좋은TV
+  - 오\! 이맛이야
+  - 오\! 이곳이야
+  - OBS 초대석
+  - [명불허전](https://ko.wikipedia.org/wiki/명불허전_\(OBS\) "wikilink")
+  - 영국에서 온 감탄식객
+  - [OBS 스페셜](https://ko.wikipedia.org/wiki/OBS_스페셜 "wikilink")
+
+#### 다큐멘터리
+
+  - [경찰 25시](../Page/경찰_25시.md "wikilink")
+  - [멜로다큐 가족](https://ko.wikipedia.org/wiki/멜로다큐_가족 "wikilink")
+  - [OBS 스페셜](https://ko.wikipedia.org/wiki/OBS_스페셜 "wikilink")
+  - [인간대 자연 극한에서 살아남기](https://ko.wikipedia.org/wiki/인간과_자연의_대결 "wikilink")
+  - 옴니극장 이것이 인생
+  - 위대한 자연
+  - 브레이크 아웃
+
+#### 연예 · 오락 · 음악
+
+  - [독특한 연예뉴스](https://ko.wikipedia.org/wiki/독특한_연예뉴스 "wikilink")
+  - [연예매거진](https://ko.wikipedia.org/wiki/연예매거진_-_좋은_일_나쁜_일_수상한_일 "wikilink")
+  - [전기현의 씨네뮤직](../Page/전기현의_씨네뮤직.md "wikilink")
+  - [뮤직탱크](https://ko.wikipedia.org/wiki/뮤직탱크 "wikilink")
+  - [스타 가요쇼](https://ko.wikipedia.org/wiki/스타_가요쇼 "wikilink")
+
+#### 어린이 · 애니메이션
+
+  - 꾸러기 TV
+
+#### 영화 · 외화
+
+  - OBS 시네마
+  - [웨스트 윙](../Page/웨스트_윙_\(드라마\).md "wikilink")(미국 [NBC](../Page/NBC.md "wikilink") 제작)
+
+## 아나운서
+
+  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") 입사 : [이상희](https://ko.wikipedia.org/wiki/이상희_\(아나운서\) "wikilink"), [유진영](https://ko.wikipedia.org/wiki/유진영_\(아나운서\) "wikilink"), [김준우](https://ko.wikipedia.org/wiki/김준우 "wikilink"), [홍원기](https://ko.wikipedia.org/wiki/홍원기_\(아나운서\) "wikilink")
+  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 입사 : [김하나](https://ko.wikipedia.org/wiki/김하나 "wikilink"), [유영선](https://ko.wikipedia.org/wiki/유영선 "wikilink")
+  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") 입사 : [김준호](https://ko.wikipedia.org/wiki/김준호 "wikilink")
+  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") 입사 : [이자연](https://ko.wikipedia.org/wiki/이자연 "wikilink"), [강미정](https://ko.wikipedia.org/wiki/강미정 "wikilink"), [최지해](https://ko.wikipedia.org/wiki/최지해 "wikilink"), [김용재](https://ko.wikipedia.org/wiki/김용재 "wikilink")
+  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 입사 : [신미정](https://ko.wikipedia.org/wiki/신미정 "wikilink"), [조은유](https://ko.wikipedia.org/wiki/조은유 "wikilink")
+
+## 전직 아나운서
+
+  - [유형서](https://ko.wikipedia.org/wiki/유형서 "wikilink") - 전 [iTV](https://ko.wikipedia.org/wiki/경인방송 "wikilink") 아나운서, 현 프리랜서
+  - [조진영](https://ko.wikipedia.org/wiki/조진영 "wikilink") - 전 [iTV](https://ko.wikipedia.org/wiki/경인방송 "wikilink") 아나운서, 현 프리랜서
+  - [정지원](https://ko.wikipedia.org/wiki/정지원_\(1985년\) "wikilink") - 현 [KBS](https://ko.wikipedia.org/wiki/한국방송공사 "wikilink") 아나운서
+  - [이지연](https://ko.wikipedia.org/wiki/이지연_\(1986년\) "wikilink") - 현 [KBS](https://ko.wikipedia.org/wiki/한국방송공사 "wikilink") 아나운서
+  - [김빛이라](../Page/김빛이라.md "wikilink") - 현 [KBS](https://ko.wikipedia.org/wiki/한국방송공사 "wikilink") 기자
+  - [박수연](../Page/박수연.md "wikilink") (2007\~2008, 현 YTN 아나운서)
+  - 이윤진 (2007\~2009, 전 [춘천MBC](https://ko.wikipedia.org/wiki/춘천MBC "wikilink") 아나운서 / 현 영어칼럼니스트, 국제회의전문통역사)
+  - [장예인](../Page/장예인.md "wikilink")\[19\] - 전 [MBC 스포츠플러스](https://ko.wikipedia.org/wiki/MBC_스포츠플러스 "wikilink") 아나운서
+  - [김소영](https://ko.wikipedia.org/wiki/김소영 "wikilink") - 전 [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink") 아나운서, 현 프리랜서
+
+## 같이 보기
+
+  - [미디어크리에이트](https://ko.wikipedia.org/wiki/미디어크리에이트 "wikilink")
+  - [한국방송공사](https://ko.wikipedia.org/wiki/한국방송공사 "wikilink")
+  - [한국교육방송공사](https://ko.wikipedia.org/wiki/한국교육방송공사 "wikilink")
+  - [문화방송](https://ko.wikipedia.org/wiki/문화방송 "wikilink")
+  - [SBS](https://ko.wikipedia.org/wiki/SBS_\(대한민국의_방송사\) "wikilink")
+
+## 각주
+
+<references/>
+
+## 외부 링크
+
+  -
+[분류:인천광역시의 기업](https://ko.wikipedia.org/wiki/분류:인천광역시의_기업 "wikilink") [경인TV](https://ko.wikipedia.org/wiki/분류:경인TV "wikilink") [분류:대한민국의 수도권 지상파 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_수도권_지상파_방송국 "wikilink") [분류:2006년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2006년_설립된_텔레비전_방송국과_채널 "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13. 인천 · 경기 지역 HD 상품 가입자들만 시청이 가능하다.
+14.
+15.
+16.
+17. OBS 경인TV 2008 감사보고서
+18. [성남 FC](https://ko.wikipedia.org/wiki/성남_FC "wikilink") 홈경기
+19. [장예인](../Page/장예인.md "wikilink")은 아나운서가 아닌 기상 캐스터 신분으로 되어 있다.

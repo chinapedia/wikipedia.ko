@@ -1,0 +1,52 @@
+> This article is converted from Wikipedia: [ C. ](https://ko.wikipedia.org/wiki/_C._).
+
+
+**매튜 캘브레이드 페리**(Matthew Calbraith Perry{{\#tag:ref|페리의 중간 이름은 종종 **C**albraith 대신 **G**albraith로 잘못 쓰이기도 한다.|group="Note"}}, [1794년](https://ko.wikipedia.org/wiki/1794년 "wikilink") [4월 10일](https://ko.wikipedia.org/wiki/4월_10일 "wikilink") \~ [1858년](https://ko.wikipedia.org/wiki/1858년 "wikilink") [3월 4일](https://ko.wikipedia.org/wiki/3월_4일 "wikilink"))는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [함대사령관](https://ko.wikipedia.org/wiki/함대사령관 "wikilink")이며 그의 형은 [올리버 페리이다](../Page/올리버_해저드_페리.md "wikilink"). [쇄국정책](../Page/쇄국정책.md "wikilink")을 펼치던 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [에도 시대에](https://ko.wikipedia.org/wiki/에도_시대 "wikilink") 함대를 이끌고 무력시위를 하여 [가나가와 조약](https://ko.wikipedia.org/wiki/가나가와_조약 "wikilink")(神奈川条約)을 체결하여 일본을 개항시킨 인물이다. 내항 당시 [막부](https://ko.wikipedia.org/wiki/막부 "wikilink")는 [네덜란드어](https://ko.wikipedia.org/wiki/네덜란드어 "wikilink") 통역을 사용했기 때문에, 당시 문서에는 네덜란드 발음 '페루리'(ペルリ)로 표기되었다. [윌리엄 페리](https://ko.wikipedia.org/wiki/윌리엄_페리 "wikilink") (1927-) 전 북핵조정관은 그의 일가이다.
+
+## 생애
+
+매튜 C. 페리는 [1794년](https://ko.wikipedia.org/wiki/1794년 "wikilink") [4월 10일에](https://ko.wikipedia.org/wiki/4월_10일 "wikilink") [로드아일랜드주](https://ko.wikipedia.org/wiki/로드아일랜드주 "wikilink") [뉴포트에서](https://ko.wikipedia.org/wiki/뉴포트_\(로드아일랜드주\) "wikilink") [미국 해군의](../Page/미국_해군.md "wikilink") [사략선](https://ko.wikipedia.org/wiki/사략선 "wikilink") 선장 크리스토퍼 레이몬드 페리의 3남으로 태어났다. [1809년](https://ko.wikipedia.org/wiki/1809년 "wikilink") 16세에 형 [올리버 페리에](../Page/올리버_해저드_페리.md "wikilink") 이어 해군에 입대하고 [1812년 전쟁\[미영 전쟁](https://ko.wikipedia.org/wiki/1812년_전쟁[미영_전쟁 "wikilink") (1812-1815)에 형 2명과 함께 [1812년](https://ko.wikipedia.org/wiki/1812년 "wikilink")부터 참전했다. [1833년](https://ko.wikipedia.org/wiki/1833년 "wikilink")에 [브루클린 해군 공창의](../Page/브루클린_해군_공창.md "wikilink") 조선소장이 되고, [1837년](https://ko.wikipedia.org/wiki/1837년 "wikilink") 12월에는 그해 5월에 진수된 미국 해군 최초의 증기선 제2 [풀턴 호](https://ko.wikipedia.org/wiki/풀턴_호 "wikilink") ([en](https://ko.wikipedia.org/wiki/:en:USS_Fulton_\(1837\) "wikilink"))의 선장으로 부임한다.
+
+[1840년](https://ko.wikipedia.org/wiki/1840년 "wikilink") 6월에 [함대사령관](https://ko.wikipedia.org/wiki/함대사령관 "wikilink")으로 승진하고 [1841년](https://ko.wikipedia.org/wiki/1841년 "wikilink")에는 브루클린 해군공창의 사령관이 되었다. 증기선을 주력으로 하는 해군의 강화책을 진행함과 동시에 사관교육의 임무를 맡아‘증기선의 아버지’라고 칭송받는다.
+
+### 일본 개항
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Matthewperry.jpg "wikilink") [1852년](https://ko.wikipedia.org/wiki/1852년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink") 동인도함대의 사령장관에 취임했고 제13대 대통령 [밀러드 필모어에](https://ko.wikipedia.org/wiki/밀러드_필모어 "wikilink") 의해 미국과의 통상을 위해 필요하다면 [포함외교](https://ko.wikipedia.org/wiki/포함외교 "wikilink")를 써서라도 일본을 개항하라는 임무를 받았다.\[1\]
+
+증가하는 미국-[청나라](../Page/청나라.md "wikilink") 교역, 일본 근해의 미국 포경선 존재, 그리고 아시아 잠재 석탄보급지들의 영국과 프랑스에 의한 독점증대, 이것들이 미국의 새 통상지를 개척해야 할 요인이었다. 많은 미국인들이 ‘[명백한 운명](https://ko.wikipedia.org/wiki/명백한_운명 "wikilink")’의 개념에 사로잡혀 있었고, 낙후지로 인식되는 아시아에게 서양 문명의 혜택을 강요하고자 했다. 일본은 페리의 내항에 대해 네덜란드로부터 사전경고를 받았는데 250년간 지속해 온 [쇄국정책](../Page/쇄국정책.md "wikilink")을 당연히 꺼려했다.\[2\]
+
+[1852년](https://ko.wikipedia.org/wiki/1852년 "wikilink") 11월에 [밀러드 필모어](https://ko.wikipedia.org/wiki/필모어 "wikilink") 대통령의 친서를 휴대하고 [버지니아주](https://ko.wikipedia.org/wiki/버지니아주 "wikilink") [노어퍽을](https://ko.wikipedia.org/wiki/노퍽_\(버지니아주\) "wikilink") 출항했다. [프리깃](https://ko.wikipedia.org/wiki/프리깃 "wikilink")함 미시시피 호를 기선으로 한 4척의 함대는 [카나리아 제도](https://ko.wikipedia.org/wiki/카나리아_제도 "wikilink"), [케이프타운](https://ko.wikipedia.org/wiki/케이프타운 "wikilink"), [싱가포르](../Page/싱가포르.md "wikilink")를 경유하여 [1853년](https://ko.wikipedia.org/wiki/1853년 "wikilink") [7월 8일에](https://ko.wikipedia.org/wiki/7월_8일 "wikilink") [우라가에](https://ko.wikipedia.org/wiki/요코스카시 "wikilink") 입항했다.
+
+[7월 14일에](https://ko.wikipedia.org/wiki/7월_14일 "wikilink") 막부 측이 지정한 [구리하마](../Page/구리하마.md "wikilink")에 호위를 거느리고 상륙하여 [도다 우지요시와](https://ko.wikipedia.org/wiki/도다_우지요시 "wikilink") [이도 히로미치에게](https://ko.wikipedia.org/wiki/이도_히로미치 "wikilink") [밀러드 필모어](https://ko.wikipedia.org/wiki/필모어 "wikilink") 대통령의 친서를 전달했다. 구체적 협의를 진행하지는 않은 채 개국을 요구했으며, 막부 내 사정을 받아들여 다음 해(1854) 7월 까지의 만 1년의 협상유예에 동의했다. 그후 며칠간만 측량한 후 보급 등 함대의 사정으로 [류큐](https://ko.wikipedia.org/wiki/류큐 "wikilink")로 돌아가 기항했다.
+
+[태평천국](https://ko.wikipedia.org/wiki/태평천국 "wikilink")의 난이 일어나면서 미국에 극동사정이 전해지는 중이던 [1854년](https://ko.wikipedia.org/wiki/1854년 "wikilink") 2월에는 만 1년이라는 협상유예 약속을 깨어 버렸다. [2월 13일에](https://ko.wikipedia.org/wiki/2월_13일 "wikilink") 기함 [서스케하나 호](https://ko.wikipedia.org/wiki/서스케하나_호 "wikilink")([en](https://ko.wikipedia.org/wiki/:en:USS_Susquehanna_\(1850\) "wikilink")) 등 군함 10척과 해군 1,600명을 이끌고 현재의 [가나가와현](https://ko.wikipedia.org/wiki/가나가와현 "wikilink")(神奈川県) [요코하마시](https://ko.wikipedia.org/wiki/요코하마시 "wikilink") [가나자와구](https://ko.wikipedia.org/wiki/가나자와구 "wikilink") (金沢区) 앞바다에 육박해 입항을 강요했다. 3월 8일에 입항하고 조약체결을 요구하여, [3월 31일에](https://ko.wikipedia.org/wiki/3월_31일 "wikilink") 요코하마에서 [가나가와 조약을](https://ko.wikipedia.org/wiki/가나가와_조약 "wikilink") 조인했다. 또 그 후, [나하에](https://ko.wikipedia.org/wiki/나하시 "wikilink") 기항하여, [7월 11일에는](https://ko.wikipedia.org/wiki/7월_11일 "wikilink") 류큐 왕국과도 [미류수호조약](https://ko.wikipedia.org/wiki/미류수호조약 "wikilink")을 체결했다.
+
+귀국한 후에는 각 나라의 원정기를 작성하였다. 만년의 사진을 보면 가발을 착용하고 있다. [1858년](https://ko.wikipedia.org/wiki/1858년 "wikilink")에 [간암](https://ko.wikipedia.org/wiki/간암 "wikilink")으로 사망하여 출생지 [뉴포트의](https://ko.wikipedia.org/wiki/뉴포트_\(로드아일랜드주\) "wikilink") Island 묘지 ([en](https://ko.wikipedia.org/wiki/:en:Common_Burying_Ground_and_Island_Cemetery "wikilink"))에 묻혔다.
+
+## 기념
+
+  - [구리하마 페리 축제](https://ko.wikipedia.org/wiki/구리하마_페리_축제 "wikilink")
+  - [페리 공원](https://ko.wikipedia.org/wiki/페리_공원 "wikilink") - [요코스카시](https://ko.wikipedia.org/wiki/요코스카시 "wikilink") [구리하마](../Page/구리하마.md "wikilink")
+
+## 갤러리
+
+파일:Anonymous, The Black Ship Scroll, 1854.jpg|1854년 [흑선](https://ko.wikipedia.org/wiki/흑선 "wikilink") [스크롤](../Page/에마키모노.md "wikilink") (Black Ship Scroll)에 등장하는 미국 장교 파일:Commander H.A. Adams of the Perry Expedition from the Black Ship Scroll, 1854.jpg|1854년 [흑선](https://ko.wikipedia.org/wiki/흑선 "wikilink") 스크롤에 등장하는 Henry A. Adams (매튜 C. 페리의 참모장) 파일:Commodore Matthew C Perry-5c.jpg|페리내항 100주년 기념 우표, 1953년 파일:Commodore Perry banquet, view 2 - Sanada Treasure Museum - DSC09570.JPG|페리의 연회 파일:Embossing Morse Telegraph.jpg|페리가 막부에 기증한 엠보싱 전신기 파일:PerryBustShimoda.jpg|페리의 흉상, [시즈오카현](https://ko.wikipedia.org/wiki/시즈오카현 "wikilink") [시모다](https://ko.wikipedia.org/wiki/시모다시 "wikilink") 파일:Perry, Matthew Calbraith.jpg|페리의 두상, [시모다](https://ko.wikipedia.org/wiki/시모다시 "wikilink") 파일:Commodore Matthew Perry Statue in Touro Park, Newport, RI.JPG| 페리의 동상, [뉴포트](https://ko.wikipedia.org/wiki/뉴포트_\(로드아일랜드주\) "wikilink")
+
+## 관련 항목
+
+  - [포함 외교](https://ko.wikipedia.org/wiki/포함_외교 "wikilink")
+  - [페리 원정](../Page/페리_원정.md "wikilink")([흑선](https://ko.wikipedia.org/wiki/흑선 "wikilink")내항 黒船来航)
+
+## 각주
+
+## 외부 링크
+
+  - [페리의 생애-연표](http://www.history.navy.mil/branches/teach/pearl/kanagawa/friends4.htm)
+  - [Perry Visits Japan: A Visual History](http://dl.lib.brown.edu/japan/index.html)
+  - [Matthew Calbraith Perry memorial at](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=804) [Find a Grave](https://ko.wikipedia.org/wiki/Find_a_Grave "wikilink").
+  - [Narrative of the Expedition of an American Squadron to the China Seas and Japan](https://archive.org/details/narrativeofexped03perr), by M.C. Perry - [인터넷 아카이브](https://ko.wikipedia.org/wiki/인터넷_아카이브 "wikilink")
+
+[분류:1794년 태어남](https://ko.wikipedia.org/wiki/분류:1794년_태어남 "wikilink") [분류:1858년 죽음](https://ko.wikipedia.org/wiki/분류:1858년_죽음 "wikilink") [분류:미국의 군인](https://ko.wikipedia.org/wiki/분류:미국의_군인 "wikilink") [분류:막말의 외국인](https://ko.wikipedia.org/wiki/분류:막말의_외국인 "wikilink") [분류:스코틀랜드계 미국인](https://ko.wikipedia.org/wiki/분류:스코틀랜드계_미국인 "wikilink") [분류:잉글랜드계 미국인](https://ko.wikipedia.org/wiki/분류:잉글랜드계_미국인 "wikilink") [분류:뉴포트 (로드아일랜드주) 출신](https://ko.wikipedia.org/wiki/분류:뉴포트_\(로드아일랜드주\)_출신 "wikilink")
+
+1.  J. W. Hall, *Japan*, p.207.
+2.  W. G. Beasley, *The Meiji Restoration*, p.88.

@@ -1,0 +1,208 @@
+> This article is converted from Wikipedia: [ C++ ](https://ko.wikipedia.org/wiki/_C++_).
+
+
+이 글은 **[자바와](https://ko.wikipedia.org/wiki/자바_\(프로그래밍_언어\) "wikilink") [C++ 프로그래밍 언어의](https://ko.wikipedia.org/wiki/C++ "wikilink") 비교**에 대한 글이다.
+
+## 설계 목표
+
+C++과 자바 언어의 차이는 각각의 탄생 역사에서부터 찾을 수 있다.
+
+  - **C++**는 이름에서 나타나듯이 [C를](https://ko.wikipedia.org/wiki/C_\(프로그래밍_언어\) "wikilink") 더 확장하여 만들었다. [절차적 프로그래밍](https://ko.wikipedia.org/wiki/절차적_프로그래밍 "wikilink") 언어에 효율적인 실행을 목표로 설계되었다. 정적 자료형 검사 [객체 지향 프로그래밍](https://ko.wikipedia.org/wiki/객체_지향_프로그래밍 "wikilink"), [예외 처리](https://ko.wikipedia.org/wiki/예외_처리 "wikilink"), [RAII](https://ko.wikipedia.org/wiki/RAII "wikilink"), [제네릭 프로그래밍을](https://ko.wikipedia.org/wiki/제네릭_프로그래밍 "wikilink") 지원한다. 범용 컨터이너와 알고리즘을 포함한 [C++ 표준 라이브러리도](https://ko.wikipedia.org/wiki/C++_표준_라이브러리 "wikilink") 추가되었다.
+
+<!-- end list -->
+
+  - **자바**는 처음에는 가전제품에 탑재되어 네트워크 컴퓨팅을 지원하기 위해서 만들었다. 가상 머신 위에서 실행되기 때문에 안전성을 가지며 또한 이식성이 높다. 하위 플랫폼을 완벽히 추상화시켜 주는 광대한 분량의 라이브러리를 가지고 있다. 자바는 C와 비슷한 문법을 사용할뿐 직접적인 호환성은 없다. 사용하기 편하고 많은 사람이 이해하기 쉬운 언어를 목표로 설계되었다.
+
+두 언어는 개발의 목적이 다르기 때문에 결과적으로 서로 다른 원리, 방침, 설계에서 트레이드오프에 차이가 생겼다.
+
+| C++                                                                                 | 자바                                                                                                                               |
+| ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| C 소스 코드와 하위 호환성                                                                     | 다른 언어와 소스 코드 호환성은 없음                                                                                                             |
+| 직접적인 시스템 라이브러리 호출 가능                                                                | [자바 네이티브 인터페이스를](https://ko.wikipedia.org/wiki/자바_네이티브_인터페이스 "wikilink") 이용                                                      |
+| 저수준 시스템 접근 가능                                                                       | 안전하게 보호되는 가상 머신 위에서 실행됨                                                                                                          |
+| 선택적 자동 [경계 검사](../Page/경계_검사.md "wikilink")                                         | 항상 자동 경계 검사함                                                                                                                     |
+| 부호없는(unsigned) 연산 지원                                                                | 부호없는 연산 지원 안 함                                                                                                                   |
+| 값에 의한 매개변수 전달 또는 참조에 의한 매개변수 전달                                                     | 항상 값에 의한 매개변수 전달. *매개변수로 객체에 대한 참조값을 사용할 수는 있다. 참조 대상의 내용을 변경할 수는 있지만, 참조값 자체는 변경할 수 없다; 메서드 호출 후에도 참조하는 객체는 다른 객체로 바뀌지 않을 것이다.* |
+| 명시적 메모리 관리, 가비지 콜렉션은 추가적으로 라이브러리를 이용해야 함                                            | 항상 자동 가비지 콜렉션                                                                                                                    |
+| 명시적인 자료형 재정의 허용                                                                     | 자료형 안전성에 엄격함                                                                                                                     |
+| [C++ 표준 라이브러리는](https://ko.wikipedia.org/wiki/C++_표준_라이브러리 "wikilink") 적절한 범위까지 지원함 | 광대한 분량의 라이브러리                                                                                                                    |
+| [연산자 오버로딩](https://ko.wikipedia.org/wiki/연산자_오버로딩 "wikilink")                       | 연산자는 재정의 할 수 없음                                                                                                                  |
+
+C++는 강력하지만 복잡하고 어려운 언어로, 성능 위주의 응용 프로그램이나 라이브러리에 적당하다. 자바는 대개 배우기 쉽지만, 플랫폼 자체가 가지는 전체 기능 이용이나 완벽한 성능 활용을 기대하기는 어렵다.
+
+## 언어의 특징
+
+### 문법
+
+  - 자바 문법은 간단한 [LALR 파서가](https://ko.wikipedia.org/wiki/LALR_파서 "wikilink") 해석할 수 있는 [문맥 자유 문법이다](https://ko.wikipedia.org/wiki/문맥_자유_문법 "wikilink"). C++ 해석은 약간 더 복잡하다. 예를 들면, `Foo<1>(3);`인 문장을 해석할 때 `Foo`가 변수라면 연속된 비교문이지만, `Foo`가 클래스 템플릿 이름이라면 객체를 생성하게 된다.
+  - C++은 이름 공간 레벨에 상수, 변수, 함수가 있을 수 있다. 자바에서는 모든 상수, 변수, 함수는 반드시 클래스나 인터페이스에 속해 있어야 한다.
+  - C++에 있는 `const`는 개념적으로 '읽기 전용' 데이터임을 명시하며 자료형에 적용된다. 자바에 있는 `final`은 변수가 다시 할당될 수 없음을 나타낸다. 기본 자료형에 대해서는 `const int`와 `final int`처럼 동일하지만, 복잡한 클래스에서는 조금 다르다:
+
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>C++</p></th>
+<th><p>자바</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><div class="sourceCode" id="cb1"><pre class="sourceCode cpp"><code class="sourceCode cpp"><span id="cb1-1"><a href="#cb1-1"></a><span class="at">const</span> Rectangle r;</span></code></pre></div></td>
+<td><div class="sourceCode" id="cb2"><pre class="sourceCode java"><code class="sourceCode java"><span id="cb2-1"><a href="#cb2-1"></a><span class="dt">final</span> <span class="bu">Rectangle</span> r = <span class="kw">new</span> <span class="bu">Rectangle</span>();</span></code></pre></div></td>
+</tr>
+<tr class="even">
+<td><div class="sourceCode" id="cb3"><pre class="sourceCode cpp"><code class="sourceCode cpp"><span id="cb3-1"><a href="#cb3-1"></a>r = anotherRectangle; <span class="co">// 잘못</span></span></code></pre></div></td>
+<td><div class="sourceCode" id="cb4"><pre class="sourceCode java"><code class="sourceCode java"><span id="cb4-1"><a href="#cb4-1"></a>r = anotherRectangle; <span class="co">// 잘못</span></span></code></pre></div></td>
+</tr>
+<tr class="odd">
+<td><div class="sourceCode" id="cb5"><pre class="sourceCode cpp"><code class="sourceCode cpp"><span id="cb5-1"><a href="#cb5-1"></a>r.x = <span class="dv">5</span>; <span class="co">// 잘못, r은 상수 Rectangle</span></span></code></pre></div></td>
+<td><div class="sourceCode" id="cb6"><pre class="sourceCode java"><code class="sourceCode java"><span id="cb6-1"><a href="#cb6-1"></a>r.<span class="fu">x</span> = <span class="dv">5</span>; <span class="co">// 올바름, r은 여전히 같은 Rectangle 객체를 참조하고 있다.</span></span></code></pre></div></td>
+</tr>
+</tbody>
+</table>
+
+  - C++은 [`goto` 문을](https://ko.wikipedia.org/wiki/GOTO_문 "wikilink") 지원한다. 자바는 코드를 읽기 쉽도록 구조적 제어 흐름을 강요한다. `goto` 문을 지원하지 않지만, `goto`와 비슷한 기능을 하는 레이블 `break` 와 레이블 `continue`를 제공한다.
+  - C++은 자바에는 없는 저수준 기능을 제공한다. C++에서는, 포인터를 이용하면 저수준으로 [운영 체제](https://ko.wikipedia.org/wiki/운영_체제 "wikilink") 컴포넌트에 쓰기 작업을 할 수밖에 없는 경우 특정한 메모리 위치에서 데이터를 조작하는 데 사용될 수 있다. 또한, 많은 C++ 컴파일러는 [어셈블리어](https://ko.wikipedia.org/wiki/어셈블리어 "wikilink")를 지원한다. 자바에서는, 그런 코드는 모두 외부 라이브러리에 배치해야 하며 상당한 오버헤드를 가지는 [자바 네이티브 인터페이스를](https://ko.wikipedia.org/wiki/자바_네이티브_인터페이스 "wikilink") 통해서만 접근이 가능하다.
+
+### 의미론(Semantics)
+
+  - C++은 기본 자료형 사이에 암시적 형 변환을 허용하며, 사용자 정의 자료형에 대한 암시적 형 변환도 가능하다. 자바에서는 기본 자료형 사이에 오직 넓은 범위로의 암시적 형 변환을 허용하며, 다른 경우는 모두 cast를 통한 명시적 형 변환만 가능하다.
+      - 이런 영향은 불린 자료형이 필요한 조건문(`if`, `while` 그리고 `for`의 탈출 조건)에도 나타난다. 자바는 int를 boolean으로 좁힐 수 있는 암시적 형 변환이 안 되기 때문에 `if(a = 5)`와 같은 코드는 컴파일 오류가 발생한다. 요즘의 C++ 컴파일러는 대부분 경고를 발생한다.
+  - 함수에 인자를 전달할 때, C++은 [참조 호출과](https://ko.wikipedia.org/wiki/참조_호출 "wikilink") [값 호출](https://ko.wikipedia.org/wiki/값_호출 "wikilink") 방식을 모두 지원한다. 자바에서는 인자는 항상 값 호출로 전달된다.\[1\]
+  - 자바의 내장 자료형은 가상 머신이 결정한 일정한 크기와 범위를 가진다. 반면 C++의 내장 자료형은 최소한의 범위는 결정되어 있지만, 크기와 범위에 대한 정확한 표현은 작동하는 플랫폼의 지원에 따라 달라질 수 있다.
+      - 예를 들어, 자바의 문자형(char)은 16비트 [유니코드](https://ko.wikipedia.org/wiki/유니코드 "wikilink") 방식이고 문자열은 이런 문자형의 연속으로 이루어진다. C++은 반각 문자와 전각 문자를 모두 지원하지만 이런 문자형의 실제 크기는 사용되는 플랫폼에 종속적이다.
+  - 부동 소수점 연산에 있어서 C++은 플랫폼 종속적이다. 자바는 각기 다른 플랫폼에서 같은 결과를 보장한다. 하지만 수행 성능의 저하가 있을 수 있다.
+  - C++의 [포인터는](https://ko.wikipedia.org/wiki/포인터_\(프로그래밍\) "wikilink") 메모리 주소 값으로 직접 조작할 수 있다. 자바에는 포인터가 없다 — 객체에 대한 참조와 배열 참조가 있지만, 메모리 주소에 대한 직접 접근은 허용되지 않는다. C++은 포인터에 대한 포인터를 만들 수도 있지만, 자바의 참조는 객체에 대한 접근 기능만 제공한다.
+  - C++의 포인터는 함수나 메서드를 가리킬 수 있다([함수 포인터나](../Page/함수_포인터.md "wikilink") [펑터](https://ko.wikipedia.org/wiki/펑터 "wikilink")). 자바에서는 같은 메커니즘으로 객체에 대한 참조나 인터페이스에 대한 참조를 이용한다.
+  - C++은 [RAII](https://ko.wikipedia.org/wiki/RAII "wikilink") 자원관리를 사용할 수 있다. 이 기술은 객체의 소멸에 맞추어 자동으로 메모리와 시스템 자원을 관리해 준다. 또, [가비지 콜렉션이](https://ko.wikipedia.org/wiki/가비지_콜렉션 "wikilink") 자동으로 메모리를 관리한다. 하지만 메모리를 제외한 다른 시스템 자원(윈도, 포트, 스레드)에 대해서는 사용이 끝나면 명시적 해제가 필요하다.
+  - C++은 프로그래머가 [연산자 오버로딩을](https://ko.wikipedia.org/wiki/연산자_오버로딩 "wikilink") 할 수 있다. 자바는 문자열 연결에 쓰이는 "`+`"와 "`+=`"만 오버로딩되어 있을 뿐이다.
+  - 자바는 [리플렉션과](https://ko.wikipedia.org/wiki/반영_\(컴퓨터\) "wikilink") [동적 로딩을](https://ko.wikipedia.org/wiki/동적_로딩 "wikilink") 지원하는 표준 [API](../Page/API.md "wikilink")를 가지고 있다.
+  - 자바는 [제네릭 프로그래밍을](https://ko.wikipedia.org/wiki/제네릭_프로그래밍 "wikilink") 지원하는 제네릭형을 가진다. C++은 템플릿을 가지고 있다. 템플릿은 더 광범위한 지원을 해준다.
+  - 자바와 C++ 모두 기본 자료형(원시 자료형이나 내장 자료형으로도 불림)과 사용자 정의 자료형(복합 형)를 구분한다. 자바에서는 기본 자료형은 값으로의 의미만 있고, 사용자 정의 자료형은 참조로의 의미만 있다. C++에서는 모든 자료형이 값으로의 의미를 가지지만, 어떠한 자료형에 대해서도 참조(포인터)를 만들 수 있으므로 참조를 통해 객체를 다룰 수 있게 된다.
+  - C++은 클래스의 [다중 상속을](https://ko.wikipedia.org/wiki/다중_상속 "wikilink") 지원한다. 자바에서는 한 클래스는 오직 하나의 클래스만 상속할 수 있지만 복수의 [인터페이스를](../Page/인터페이스_\(자바\).md "wikilink") 구현할 수 있다(즉, 형태에 대한 다중 상속은 지원하지만 구현에 대해서 단일 상속만 가능하다).
+  - 자바에서 인터페이스와 클래스는 명시적으로 구별되는 개념이다. C++에서 자바의 인터페이스와 같은 역할을 하도록 하려면 클래스에 다중 상속과 순수 가상 함수를 적용하면 된다.
+  - 자바는 언어와 표준 라이브러리 차원에서 [멀티스레드를](https://ko.wikipedia.org/wiki/스레드 "wikilink") 지원한다. 자바의 `synchronized` 키워드는 간단하고 안전한 [뮤텍스](https://ko.wikipedia.org/wiki/뮤텍스 "wikilink")를 지원한다. 반면 C++은 멀티스레드에 대한 일반적인 메모리 모델이 없으므로 라이브러리를 사용하여 비슷한 일을 할 수 있다.
+
+### 자원 관리
+
+  - 자바는 자동 [가비지 콜렉션을](https://ko.wikipedia.org/wiki/가비지_콜렉션 "wikilink") 지원한다. C++의 메모리는 일반적으로 [스마트 포인터가](https://ko.wikipedia.org/wiki/스마트_포인터 "wikilink") 관리한다. C++ 에서도 가비지 콜렉션을 사용할 수 있지만, 일반적으로 잘 사용하지 않는다.
+  - C++은 임의의 블록 크기로 메모리를 할당할 수 있다. 자바는 객체를 생성하는 방식으로만 메모리를 할당할 수 있다. (자바에서 프로그래머는 임의의 크기로 메모리를 할당하기 위해 바이트 배열을 생성하면 된다. 자바에서 배열도 객체이다.)
+  - 자바와 C++은 자원 관리에서 서로 다른 관습이 있다. 자바는 주로 가비지 콜렉션에 의지해 메모리의 재생만을 할 수 있어 다른 자원상에서는 최근의 장면이 될지 모른다. 하지만,C++은 주로 RAII (Resource Acquisition Is Initialization) 라는 관습에 의지한다. 이것은 두 언어간의 아래와 같은 여러가지 차이가 나타나고 있다.
+      - C++에서는 복합형의 객체를 스택영역에 할당하여 영역을 벗어나면 소멸되는 방식으로 사용하기도 한다. 자바에서는 복합형은 항상 힙영역에만 할당되고 가비지 콜렉터가 수거한다.
+      - C++에는 [소멸자가](../Page/소멸자_\(컴퓨터_프로그래밍\).md "wikilink") 있다. 자바에는 종결자(Finalizer)가 있다. 둘 다 객체가 소멸되기 직전에 호출되지만, 확연한 차이가 있다. C++의 객체 소멸자는 암시적으로(스택영역 변수의 경우) 또는 명시적으로 객체를 할당 해제할 때 실행된다. 소멸자는 객체가 할당 해제될 때 동기적으로 실행된다. 자바에서 객체의 할당 해제는 가비지 콜렉터가 암시적으로 처리한다. 자바의 객체 종결자는 마지막으로 그 객체에 접근한 시기보다 조금 후에 비동기적으로 호출된다. 대부분의 경우 종결자는 필요가 없다. 종결자는 할당 해제되기 전에 반드시 정리해야 할 자원(주로 JVM 외부 자원)이 있는 객체에 대해서만 필요할 뿐이다. 자바에서 안전한 동기적 자원 할당 해제를 하기 위해서는 명시적으로 try/finally를 사용하여야 한다.
+      - C++에는 [허상 포인터](../Page/허상_포인터.md "wikilink")(dangling pointer, 이미 소멸된 객체를 가리키고 있는 포인터)가 문제가 될 수 있다. 만약 길잃은 포인터를 사용하려 한다면 프로그램은 오류가 발생하게 된다. 자바의 가비지 콜렉터는 참조중인 객체는 소멸시키지 않으므로 문제가 발생하지 않는다.
+      - C++에서는 초기화하지 않고 객체를 생성할 수 있다(쓰레기 값을 가지고 있다). 자바는 기본 초기화가 강제로 수행된다(0 등으로 초기화 된다).
+      - C++에는 메모리에 할당하였지만 접근 가능한 참조가 없는 객체가 있을 수 있다. 이런 접근 불가능한 객체는 소멸될 수도 없으므로 [메모리 누수를](../Page/메모리_누수.md "wikilink") 일으킨다. 반면, 자바에서는 접근 불가능한 객체가 되기 전까지 그 객체는 가비지 콜렉터가 소멸시키지 않는다. 자바의 가비지 콜렉션은 대부분의 메모리 누수를 예방하지만, 어떤 상황에서는 여전히 메모리 누수 문제가 발생할 수 있다.<ref>["Java memory leaks -- Catch me if you can"](http://www-128.ibm.com/developerworks/rational/library/05/0816_GuptaPalanki/) by Satish Chandra Gupta, Rajeev Palanki, IBM DeveloperWorks, 16 Aug 2005
+
+</ref>
+
+  -   - 자바는 메모리가 아닌 다른 자원의 누수에 대해서는 C++에 비해 상대적으로 취약하다.
+
+### 라이브러리
+
+  - 자바에는 C++에 비해서 상당히 거대한 표준 라이브러리가 있다. C++의 표준 라이브러리는 문자열, 컨테이너, 입출력 스트림 등의 비교적 범용적인 요소들만 제공한다. [자바 SE](https://ko.wikipedia.org/wiki/자바_SE "wikilink") 표준 라이브러리는 [컴퓨터 네트워크](https://ko.wikipedia.org/wiki/컴퓨터_네트워크 "wikilink"), [그래픽 사용자 인터페이스](https://ko.wikipedia.org/wiki/그래픽_사용자_인터페이스 "wikilink"), [XML](https://ko.wikipedia.org/wiki/XML "wikilink") 처리, 로깅, [데이터베이스](https://ko.wikipedia.org/wiki/데이터베이스 "wikilink") 접근, [암호학](https://ko.wikipedia.org/wiki/암호학 "wikilink"), 기타 요소들을 모두 제공한다. 이런 추가 기능은 C++에서는 각자 구현할 필요없이 제3자(서드 파티) 라이브러리를 주로 이용한다.
+  - C++은 C와 가장 [하위 호환성이](../Page/하위_호환성.md "wikilink") 좋은 언어이다. C 라이브러리에 있는 [운영 체제의](https://ko.wikipedia.org/wiki/운영_체제 "wikilink") [API](../Page/API.md "wikilink") 같은 것을 C++에서는 직접 사용할 수 있다. 자바에서는 주로 플랫폼 종속적인 라이브러리로 가능한 여러 기능들을 [크로스 플랫폼](https://ko.wikipedia.org/wiki/크로스_플랫폼 "wikilink") 환경에서 대부분 가능하도록 하는 풍부한 표준 라이브러리를 제공한다. 하지만 자바에서 운영 체제나 하드웨어 기능에 직접 접근하려면 [자바 네이티브 인터페이스를](https://ko.wikipedia.org/wiki/자바_네이티브_인터페이스 "wikilink") 이용하여야만 한다.
+
+### 런타임
+
+  - C++은 보통 [기계어](https://ko.wikipedia.org/wiki/기계어 "wikilink")로 직접 컴파일되고, 이를 [운영 체제가](https://ko.wikipedia.org/wiki/운영_체제 "wikilink") 실행한다. 자바는 보통 [바이트코드](../Page/바이트코드.md "wikilink")로 컴파일되고, [자바 가상 머신이](https://ko.wikipedia.org/wiki/자바_가상_머신 "wikilink") [인터프리터](https://ko.wikipedia.org/wiki/인터프리터 "wikilink") 방식으로 실행하거나 [JIT 컴파일러](https://ko.wikipedia.org/wiki/JIT_컴파일러 "wikilink") 방식으로 기계어로 컴파일한 다음 실행한다. 이론상 [동적 재컴파일은](https://ko.wikipedia.org/wiki/동적_재컴파일 "wikilink") 두 언어 모두에 적용할 수 있으며 특히 자바에 유용하다. 하지만 현재 동적 재컴파일은 거의 쓰이지 않게 되었다.
+  - C++의 다소 자유로운 표현력(배열 범위 검사 없음, 미사용 포인터, 자료형 변환) 덕분에 컴파일시에 신뢰성 있는 검사가 안 되고 런타임에 오류가 날 위험이 있다. 관련 오류로는 [버퍼 오버플로](https://ko.wikipedia.org/wiki/버퍼_오버플로 "wikilink"), [세그먼테이션 폴트가](https://ko.wikipedia.org/wiki/세그먼테이션_폴트 "wikilink") 있다. 하지만 [STL이](https://ko.wikipedia.org/wiki/표준_템플릿_라이브러리 "wikilink") 제공하는 고수준 추상 개념(벡터, 리스트, 맵)을 사용하면 오류를 피할 수 있다. 자바에서는 이런 오류는 아예 발생하지 않거나 [자바 가상 머신에](https://ko.wikipedia.org/wiki/자바_가상_머신 "wikilink") 적발되어 [예외 처리](https://ko.wikipedia.org/wiki/예외_처리 "wikilink") 형태로 응용 프로그램에게 보고한다.
+  - 자바는 배열의 범위를 벗어난 접근에 대해 명확하게 배열의 [경계 검사를](../Page/경계_검사.md "wikilink") 요구한다. 이는 불안정성을 줄이기는 하지만 일반적으로 실행 속도에 나쁜 영향을 준다. 일부 경우, 컴파일러의 분석으로 이런 문제는 모두 제거되어서 경계 검사가 불필요한 일이 되기도 한다. C++은 배열의 범위를 벗어난 접근에 대해 아무런 행동도 하지 않으므로 배열의 경계 검사는 하지 않는다. C++ 표준 라이브러리의 벡터 같은 콜렉션의 경우 선택적으로 경계 검사를 제공한다. 요약하자면, 자바 배열은 "항상 안전하고, 엄격하게 검사하고, 가능하면 빠르게" 이고, C++ 배열은 "항상 빠르게, 전혀 검사하지 않고, 잠재적 위험이 있는" 것이다.
+
+### 템플릿 vs 제네릭스
+
+C++와 자바 둘 다 [제네릭 프로그래밍을](https://ko.wikipedia.org/wiki/제네릭_프로그래밍 "wikilink") 지원하기 위한 기능을 갖추고 있다. C++에는 [템플릿이](https://ko.wikipedia.org/wiki/템플릿_\(C++\) "wikilink") 있고 자바에는 제네릭스가 있다. 둘 다 비슷한 문제를 해결하기 위해 만들어졌으며 문법도 비슷하지만, 내부적으로는 상당히 다르다.
+
+| C++ 템플릿                                                                                                                                                                                                                                                                                                                                                                                      | 자바 제네릭스                                                                                                                                                                                         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 클래스, 함수, 별칭(alias)\[2\], 변수\[3\]에 템플릿 적용 가능하다.                                                                                                                                                                                                                                                                                                                                               | 클래스와 메소드를 제네릭으로 만들 수 있다.                                                                                                                                                                        |
+| 템플릿 매개 변수는 여러 개가 올 수 있으며, 내장 자료형, 문자형 리터럴, 클래스 템플릿이 가능하다.                                                                                                                                                                                                                                                                                                                                    | 매개 변수는 모든 참조(reference) 타입이 가능하다. int는 Integer로, boolean은 Boolean 클래스를 사용하면 된다.                                                                                                                 |
+| 컴파일 과정에서 클래스나 함수가 각각의 타입에 대하여 별개의 클래스나 함수가 새로 생성된다. 클래스의 멤버 함수의 경우 사용된 것만 생성된다.                                                                                                                                                                                                                                                                                                              | 단 하나의 클래스나 함수만 생성되고, 인자로 주어진 모든 타입에서 작동한다. (이때 type-erasure이 사용된다.)                                                                                                                             |
+| 다른 매개 변수로 만들어진 클래스 템플릿으로 만들어진 오브젝트들은 런타임 시 다른 타입으로 구분된다.                                                                                                                                                                                                                                                                                                                                     | 타입 매개 변수는 컴파일 시 지워진다. 즉 다른 타입 매개 변수를 가진 클래스라도 런타임엔 같은 타입이다. 이것은 서로 다른 생성자를 유발한다. 이 type-erasure 때문에 제네릭 클래스에 다른 매개 변수를 줘서 메소드를 오버로딩 하는 것은 불가능하다.                                                |
+| 클래스나 함수 템플릿의 구현은 translation unit이 볼 수 있어야 한다. 이로 인해 보통 정의를 헤더 파일 내에서 하거나 inlcude를 하게 된다. 하지만 [C++11](https://ko.wikipedia.org/wiki/C++11 "wikilink")에서부턴 extern 템플릿을 이용해 몇 인스턴스를 다른 파일로 분리하는 것이 가능하다.                                                                                                                                                                                       | 컴파일된 클래스 파일의 클래스나 함수의 시그니쳐(signature)만으로 충분하다.                                                                                                                                                  |
+| 템플릿은 [특수화가](https://ko.wikipedia.org/wiki/위키백과:Template_\(C++\)#Explicit_template_specialization "wikilink") 가능하다. 특정한 타입에 대한 별개의 구현을 만들 수 있다.                                                                                                                                                                                                                                               | 제네릭은 특수화할 수 없다.                                                                                                                                                                                 |
+| 템플릿 매개 변수는 기본값을 가질 수 있다. [C++11](https://ko.wikipedia.org/wiki/C++11 "wikilink") 이전에는 템플릿 클래스에서만 가능했고 함수에선 불가능했다.                                                                                                                                                                                                                                                                            | 제네릭 타입 매개 변수는 기본값을 가질 수 없다.                                                                                                                                                                     |
+| 와일드카드는 지원되지 않는다. 대신 중첩 typedef로 리턴 값을 조정할 수는 있다. [C++11](https://ko.wikipedia.org/wiki/C++11 "wikilink")에서 `auto` 키워드가 추가되었는데, 컴파일 타임에 특정 가능한 모든 타입에 대한 와일드카드처럼 사용될 수 있다.                                                                                                                                                                                                                    | 와일드카드는 타입 매개 변수로써 지원된다.                                                                                                                                                                         |
+| 타입 매개 변수의 타입을 제한(bounding of type parameters)하는 기능을 직접적으로 지원하지는 않는다. 다만 이는 메타프로그래밍으로 달성할 수 있다.                                                                                                                                                                                                                                                                                               | `extends`와 `super` 키워드를 통해 upper, lower 바운드를 지원한다. 타입 매개 변수간의 관계를 강제할 수 있게 한다.                                                                                                                  |
+| 클래스 템플릿의 타입 매개 변수는 static 메소드와 변수에 사용될 수 있다.                                                                                                                                                                                                                                                                                                                                                 | 불가능하다.                                                                                                                                                                                          |
+| static 변수는 서로 다른 타입 매개 변수를 가진 클래스 간에는 공유되지 않는다.                                                                                                                                                                                                                                                                                                                                              | 공유된다.                                                                                                                                                                                           |
+| 클래스와 함수 템플릿은 선언부에서 타입 매개 변수 간의 관계를 강제하지 않는다. 잘못된 타입 매개 변수 사용은 컴파일 에러를 일으키는데, 주로 유저의 호출 코드가 아니라 템플릿 코드에서 에러 메시지를 생성한다. 템플릿 클래스와 함수의 올바른 사용법을 알기 위해선 도큐멘테이션을 읽어봐야 한다. 메타프로그래밍을 사용하는 것은 많은 노력을 필요로 한다. [C++11](https://ko.wikipedia.org/wiki/C++11 "wikilink")에서 이 문제를 해결하기 위해 [Concepts라는](https://ko.wikipedia.org/wiki/위키백과:Concepts_\(C++\) "wikilink") 것이 제안되었는데, 이는 향후 표준에서 구현되도록 예정돼 있다. | 제네릭 클래스와 메소드는 선언부에서 타입 매개 변수간의 관계를 강제할 수 있다. 잘못된 타입 매개 변수의 사용은 호출된 곳에서 타입 에러를 일으킨다. 제네릭 코드 안에서, 매개 변수로 받은 타입에 대한 연산을 수행할 때는 선언부에 의해 안전하다고 보증할 수 있는 경우에만 허용된다. 이는 유연성을 희생하는 대신 타입 안전성을 크게 향상시킨다. |
+| 템플릿은 [튜링 완전하다](https://ko.wikipedia.org/wiki/튜링_완전 "wikilink"). ([템플릿 메타프로그래밍](https://ko.wikipedia.org/wiki/템플릿_메타프로그래밍 "wikilink") 참고)                                                                                                                                                                                                                                                     | 제네릭스는 보통 튜링 완전하지 않다.                                                                                                                                                                            |
+
+### 기타
+
+  - 자바와 C++는 코드를 여러 파일로 나누는 데 서로 다른 방법을 사용한다. 자바는 패키지 시스템을 사용하여 모든 프로그램 정의에 대해 파일 이름과 경로를 지정한다. 자바의 컴파일러는 실행 가능한 [클래스 파일을](https://ko.wikipedia.org/wiki/클래스_파일 "wikilink") import한다. C++는 [헤더 파일](https://ko.wikipedia.org/wiki/헤더_파일 "wikilink") inclusion 시스템을 이용하여 선언부를 소스 파일간에 공유한다.
+  - 컴파일된 자바 코드 파일은 보통 컴파일된 C++ 파일보다 작은데, 이는 [자바 바이트코드는](https://ko.wikipedia.org/wiki/자바_바이트코드 "wikilink") 대체로 [기계어](https://ko.wikipedia.org/wiki/기계어 "wikilink")보다 간결하고, 자바 프로그램은 정적으로 링크되지 않기 때문이다.
+  - C++ 컴파일러 자바와는 달리 [전처리기](https://ko.wikipedia.org/wiki/전처리기 "wikilink")라는 기능을 지원한다. 덕분에 전처리 작업을 통해 상황에 따른 컴파일을 더 효과적으로 수행할 수 있다.
+  - 자바에서 / 연산과 % 연산은 소숫점 아래를 버리도록(truncate to zero) 명확히 정의되어 있다. 그러나 [C++11](https://ko.wikipedia.org/wiki/C++11 "wikilink")이전의 C++에서는 버림이 일어나는지 내림(truncate to -infinity)이 일어나는지 정의되어 있지 않다. 자바와 C++ 11에서 -3/2를 수행하면 결과는 항상 -1이다. 하지만 C++ 03에서는 플랫폼에 따라 -1이나 -2가 될 수 있다. 자바와 C++ 11는 모든 a와 b의 경우 `b != 0`일 때 `(a/b)*b + (a%b) == a`를 보장한다. 그런데 C++ 03은 때에 따라 더 빠를 수도 있는데, 이는 해당 컴퓨터의 CPU가 어느 연산을 더 효과적으로 하는지 컴파일러가 결정할 수 있기 때문이다.
+  - 자바에서는 정수형의 크기가 정의되어 있는데 (int는 32비트, long은 64비트), C++에서는 정수형과 포인터의 크기는 컴파일러와 [응용 프로그램 이진 인터페이스에](https://ko.wikipedia.org/wiki/응용_프로그램_이진_인터페이스 "wikilink") 의해 결정된다. 따라서 자바 프로그램은 플랫폼에 관계없이 동일하게 작동하는 반면, C++ 프로그램은 일부 조정이 필요할 수 있다. 하지만 C++는 해당 CPU가 떠 빨리 처리할 수 있는 크기로 결정하기 때문에 성능 면에선 유리하다.
+
+## 성능
+
+컴파일된 자바 프로그램을 실행할 때에는, 컴파일된 자바 프로그램 뿐만 아니라 [자바 가상 머신도](https://ko.wikipedia.org/wiki/자바_가상_머신 "wikilink") 실행해야 한다. 반면 컴파일된 C++ 프로그램은 외부 프로그램 없이 스스로 동작할 수 있다. 자바의 초기 버전의 성능은 C++와 같은 정적 컴파일 언어에 한참 미달했다. 왜냐하면 겉으로는 비슷하게 생긴 두 언어의 한 스테이트먼트는, C++에서는 적은 수의 머신 인스트럭션으로 컴파일되는 데 반해 자바에서는 몇 개의 바이트코드로 변환되며, 이 바이트코드들은 [JVM](https://ko.wikipedia.org/wiki/JVM "wikilink")에서 각각 몇 개의 머신 인스트럭션을 만들어내기 때문이다. 예를 들어
+
+<table>
+<thead>
+<tr class="header">
+<th><p>Java/C++ 스테이트먼트</p></th>
+<th><p>C++로 생성된 코드 (x86)</p></th>
+<th><p>자바로 생성된 바이트 코드</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><code>vector[i]++;</code></p></td>
+<td><p><code>mov edx,[ebp+4h]</code> <code>mov eax,[ebp+1Ch]</code></p>
+<p><code>inc dword ptr [edx+eax*4]</code></p></td>
+<td><p><code>aload_1</code> <code>iload_2</code></p>
+<p><code>dup2</code></p>
+<p><code>iaload</code></p>
+<p><code>iconst_1</code></p>
+<p><code>iadd</code></p>
+<p><code>iastore</code></p></td>
+</tr>
+</tbody>
+</table>
+
+성능 최적화는 매우 복잡한 문제이기 때문에 C++와 자바의 성능을 일반적인 기준으로 정량화해서 비교하는 것은 어렵고, 대다수의 벤치마크들은 신뢰성이 낮고 편파적이다. 두 언어의 본질은 매우 다르기 때문에 두 언어의 질적인 차이를 명확히 그리는 것은 어렵다.
+
+한 마디로 말하자면, 자바는 유연성 있는 고수준 추상화에 크게 의존하기 때문에, 성능 최적화를 하는 데에는 본질적인 비효율성과 한계가 있다. 강력한 [JIT 컴파일러를](https://ko.wikipedia.org/wiki/JIT_컴파일 "wikilink") 사용하면 몇몇 문제들을 해결할 수 있다. 그리고 언제든 자바 코드의 성능이 부족하다 판단되면 [자바 네이티브 인터페이스를](https://ko.wikipedia.org/wiki/자바_네이티브_인터페이스 "wikilink") 통해 C/C++ 코드를 자바에서 사용할 수 있다.
+
+자바 언어의 본질적인 비효율성들은 다음과 같다:
+
+  - 모든 객체들은 힙 영역에 할당된다. 작은 객체를 이용하는 함수의 경우, 이 때문에 성능 저하와 힙 단편화가 일어날 수 있다. 반면 스택 할당은 비용의 거의 없다. 그러나 현대의 [JIT 컴파일러는](https://ko.wikipedia.org/wiki/JIT_컴파일 "wikilink") escape analysis와 escape detection을 통해 일부 객체를 스택에 생성한다.
+  - 효율적인 데이터베이스 시스템이나 메시징 라이브러리 같은 프로젝트들은 성능이 매우 중요하기 때문에 `sun.misc.Unsafe` 같은 내부적 비공식 API를 통해 수동 자원 관리 권한을 얻고 스택 할당을 해야 했다. 사실상 포인터를 사용하는 것과 다름 없었다.
+  - 메소드들은 개본적으로 [가상 함수이다](../Page/가상_함수.md "wikilink"). (`final` 키워드를 사용할 수 있긴 하다.) virtual 메소드는 올바른 메소드를 찾기 위해 [가상 메소드 테이블을](../Page/가상_메소드_테이블.md "wikilink") 이용하는데, 이는 함수 호출을 느리게 만들고 메모리 공간을 차지한다. 또한 JIT 컴파일러가 작은 함수들은 virtual에서 일반 함수로 변경하는 작업을 추가적으로 해야 하기 때문이다.
+  - 여러 런타임 캐스팅은 표준 컨테이터 클래스를 사용해야 해서 성능에 악영향을 준다. 다만 이는 JIT 컴파일러에 의해 최적화될 수 있다.
+  - 안전성 검사가 성능 하락을 유발한다. 예를 들어 배열과 같은 경우 컴파일러는 매번 범위 검사를 수행하여 배열 외부의 값에 접근하지 못하게 지킨다. 그러나 이는 효율적이지 않다. 그래서 대부분의 JIT 컴파일러들은 이를 제거하거나 루프 밖으로 이동시키려 시도한다. (C++에서도 선택적으로 범위 검사를 수행할 수 있는데, 그 경우 컴파일러가 동일한 최적화를 수행한다.)
+  - 로우레벨에 접근할 수 없기 때문에, 컴파일러가 할 수 없는 최적화를 개발자가 할 수 없다.
+  - 유저 정의 타입엔 반드시 reference-semantics를 써야 한다는 점 때문에 메모리 내에서 데이터들이 멀리 떨어져 있어(JIT 컴파일러가 개입하지 않는 한) 빈번한 캐시 미싱을 야기한다. cache-aware이나 cache-oblivious 데이터 구조를 통해 구현할 수 있는 캐시 최적화는 크기 비교(orders of magnitude)의 성능을 개선할 수 있고, 시간 복잡성 증대를 피할 수 있다. 즉 이는 최적화에 있어 매우 중요한 기술인데, 자바의 reference-semantics은 이러한 최적화 실현하는 것을 불가능하게 만든다.
+  - [가비지 콜렉션은](https://ko.wikipedia.org/wiki/쓰레기_수집_\(컴퓨터_과학\) "wikilink") 메모리 오버헤드를 유발한다.
+
+하지만 자바의 디자인으로 인해 실현된, 혹은 이론적으로 제기된 이익들도 많이 있다.
+
+  - 자바의 카비지 콜렉션은 malloc/new 보다 메모리 할당에 있어 cache coherence에 유리할 수 있다. 그렇지만 두 방법 다 힙 영역을 똑같이 단편화시켜 cache locality에 유리하지 않다는 주장도 있다. 그러나 C++에서는 하나의 작은 객체는 힙이 아니라 스택에 할당되는 경우가 대부분이고, 여러 개의 작은 객체는 STL 컨테이너를 이용해 블록으로 할당된다.
+  - 런타임 컴파일은 코드가 실행되는 플랫폼의 정보를 이용해 더 최적화된 코드를 만들어낼 수도 있다. 그러나 최신 네이티브(C, C++ 등) 컴파일러들은 여러 개의 코드 경로를 만들어서 해당 시스템에서 최적의 성능을 낼 수 있도록 한다. 또한 반대의 의견도 있을 수 있는데, 네이티브 컴파일러가 멀티 플랫폼 JVM보다 특정 아키텍처에 맞는 최적화를 더 잘 달성할 수 있다.
+  - 런타임 컴파일은 정적 컴파일보다 [가상 함수를](../Page/가상_함수.md "wikilink") 더 공격적으로 인라이닝 할 수 있다. 왜냐하면 [JIT 컴파일러는](https://ko.wikipedia.org/wiki/JIT_컴파일 "wikilink") 가상 함수 호출의 대상에 대한 정보를 더 많이 가질 수 있기 때문이다. JVM은 대다수의 단일형과 이형의 호출을 인라이닝하는 데 문제가 없고, 변성의 호출을 인라이닝 하는 연구도 진행 중이다. 이는 자바 7에 추가된 invoke dynamic enhancements 덕분이다.\[4\] 인라이닝은 루프 벡터화나 loop unrolling과 같은 최적화를 가능하게 한다.
+  - 자바에는 스레드 동기화가 언어에 내장되어 있다. 그래서 JIT 컴파일러가 escape analysis, elide locks\[5\]를 이용해 네이티브 멀티쓰레드 코드의 성능을 향상시킬 수 있다. 이 방식은 Sun JDK 6 update 10에서 biased locking이라는 이름으로 소개되었다.
+
+C++에서도 몇몇 성능 문제가 일어난다.
+
+  - 포인터가 모든 주소를 가리킬 수 있게 허용하는 것은, 서로를 참조하는 포인터 사이의 간섭 때문에 최적화를 힘들게 할 수 있다. 그러나 *strict-aliasing* 규칙이 이 문제를 해결했다.
+  - 템플릿 클래스를 통해 생성된 각기 다른 타입의 코드들은 서로 공유되지 않기 때문에, 과도한 템플릿 클래스의 사용은 실행 파일의 크기를 키울 수 있다. 그러나 함수 템플릿은 공격적으로 인라이닝되기 때문에 코드 크기를 줄이는 경우도 있다. 그리고 컴파일러가 정적 분석을 하여 최적화하는 데 용이하기 때문에, 템플릿이 아닌 코드보다 훨씬 효율적이다. 반면 자바의 제네릭스는 제네릭스가 아닌 코드보다 덜 효율적이다.
+  - 전통적인 C++ 컴파일러에서는 코드 생성과 최적화가 이루어진 뒤 동적 링킹이 일어나기 때문에, 동적 모듈에서 불러온 함수에 대해선 인라이닝이 불가능했다. 하지만 MSVC, Clang+LLVM과 같은 현대의 컴파일러들은 링크 타임 코드 생성 옵션이 있어 링크 단계에서 인라이닝이 가능하다.
+  - 쓰레드는 대체로 라이브러리를 통해 제공됐었기 때문에 C++ 컴파일러는 쓰레드 관련 최적화는 하지 못했다. 하지만 멀티쓰레딩 메모리 모델이 [C++11](https://ko.wikipedia.org/wiki/C++11 "wikilink")에서 추가되었기 때문에 현대 컴파일러들은 최적화가 가능하다.
+
+## 각주
+
+[분류:프로그래밍 언어의 비교](https://ko.wikipedia.org/wiki/분류:프로그래밍_언어의_비교 "wikilink") [분류:자바 (프로그래밍 언어)](https://ko.wikipedia.org/wiki/분류:자바_\(프로그래밍_언어\) "wikilink") [분류:C++](https://ko.wikipedia.org/wiki/분류:C++ "wikilink")
+
+1.  [James Gosling](https://ko.wikipedia.org/wiki/James_Gosling "wikilink"), [Bill Joy](https://ko.wikipedia.org/wiki/Bill_Joy "wikilink"), [Guy Steele](https://ko.wikipedia.org/wiki/Guy_L._Steele,_Jr. "wikilink"), and [Gilad Bracha](https://ko.wikipedia.org/wiki/Gilad_Bracha "wikilink"), *The Java language specification*, third edition. Addison-Wesley, 2005.  (see also [online edition of the specification](http://java.sun.com/docs/books/jls/third_edition/html/j3TOC.html)).
+2.
+3.
+4.   Azul Systems: Blogs|확인날짜=2017-06-02}}
+5.   Oracle Technology Network {{\!}} Oracle|확인날짜=2017-06-02}}

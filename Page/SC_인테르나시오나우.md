@@ -1,0 +1,98 @@
+> This article is converted from Wikipedia: [SC ](https://ko.wikipedia.org/wiki/SC_).
+
+
+**스포르트 클루브 인테르나시오나우**()는 [브라질](https://ko.wikipedia.org/wiki/브라질 "wikilink")의 축구 클럽으로, [히우그란지두술주](../Page/히우그란지두술주.md "wikilink")의 [포르투알레그리](../Page/포르투알레그리.md "wikilink")를 연고로 한다. [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") 현재 브라질 전국리그 최상위인 [캄페오나투 브라질레이루 세리이 A와](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A "wikilink") 히우그란지두술 주의 주리그인 [캄페오나투 가우슈에](../Page/캄페오나투_가우슈.md "wikilink") 참가하고 있다. 이 팀은 [1909년](https://ko.wikipedia.org/wiki/1909년 "wikilink")에 창단되었다.
+
+이 팀의 유니폼은 빨간색 셔츠와 흰색의 짧은 양말이며 처음 주어진 별명은 *O Colorado*(빨강)이다. 인테르나시오나우는 전통적으로 같은 지역의 다른 클럽인 [그레미우](https://ko.wikipedia.org/wiki/그레미우 "wikilink")와 경쟁 관계에 있으며 그레미우와의 더비는 [그레나우](https://ko.wikipedia.org/wiki/그레나우 "wikilink")로 알려져 있다.
+
+이 팀의 홈 경기장은 "Giant from the River Bank" 또는 "[베이라-히우](https://ko.wikipedia.org/wiki/이스타지우_베이라히우 "wikilink")"로 알려져 있으며, [구아이바 강의](https://ko.wikipedia.org/wiki/구아이바_강 "wikilink") 둑 위에 위치한다. 총 51,300명을 수용할 수 있는 규모로, 실제로 브라질의 남부 지방에서 가장 큰 규모의 축구 경기장이다.
+
+이 클럽이 최고의 절정기를 누린 것은 2006년으로, 이 해는 인테르나시오나우가 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") [가나가와현](https://ko.wikipedia.org/wiki/가나가와현 "wikilink") [요코하마에서](https://ko.wikipedia.org/wiki/요코하마_시 "wikilink") 열린 [2006년 FIFA 클럽 월드컵에서](https://ko.wikipedia.org/wiki/FIFA_클럽_월드컵_2006 "wikilink") [FC 바르셀로나를](../Page/FC_바르셀로나.md "wikilink") 꺾고 우승을 차지한 해였다.
+
+## 역사
+
+### 초창기 : 1900\~30년대
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Henrique_poppe.jpg "wikilink") 브라질의 [이탈리아](https://ko.wikipedia.org/wiki/이탈리아 "wikilink")계 후손인 엔히키 포페, 조제 포페 그리고 루이스 포페는 SC 인테르나시오나우의 주요 창립 멤버들이다. 포페 형제들은 [1901년](https://ko.wikipedia.org/wiki/1901년 "wikilink") [상파울루주](../Page/상파울루주.md "wikilink") [포르투알레그리](../Page/포르투알레그리.md "wikilink")로 이사한 이후, 축구를 할 수 있는 구단을 찾고 있었다. 당시 포르투알레그리에는 푸스바우 포르투알레그렌시와 그레미우 포르투알레그렌시 단 두 팀만이 존재하고 있었으며, 두 팀 모두 독일계 브라질인들만을 위한 축구단이었다. [1909년](https://ko.wikipedia.org/wiki/1909년 "wikilink") [4월 4일](https://ko.wikipedia.org/wiki/4월_4일 "wikilink") 포페 형제들은 지역의 학생들을 모아 141 헤덴상 거리(현재 1025 주앙페소아 거리)에서 새로운 축구단 창단에 대해 논의를 가졌다. 이 후 새로운 구단의 창단이 확정되었으며, 40여 명의 사람들이 새로운 구단의 명칭에 대해 투표를 가졌다. 구단명은 당시 [상파울루주](../Page/상파울루주.md "wikilink")에 있던 [SC 인테르나시오나우와](https://ko.wikipedia.org/wiki/SC_인테르나시오나우_\(상파울루주\) "wikilink") 자신들의 고향의 축구단인 [FC 인테르나치오날레 밀라노의](../Page/FC_인테르나치오날레_밀라노.md "wikilink") 이름을 본 따 *스포르트 클루브 인테르나시오나우*라는 이름으로 정해졌다. 당시 축구단들은 유럽계 자손들에 의해 창단된 경우가 많았으며, 명칭 또한 자신들의 혈통을 상징하는 것으로 지은 경우가 많았다. 예를 들어 [이탈리아](https://ko.wikipedia.org/wiki/이탈리아 "wikilink")계의 [팔레스트라 이탈리아](../Page/SE_파우메이라스.md "wikilink") (현재 SE 파우메이라스), [포르투갈](https://ko.wikipedia.org/wiki/포르투갈 "wikilink")계의 [바스쿠 다 가마가](../Page/CR_바스쿠_다_가마.md "wikilink") 그러하였다. 그러나 SC 인테르나시오나우는 그들의 구단명에서 드러나듯, 국적과 혈통의 상관 없이 모두를 위한 축구단이 되고자 하는 염원을 담았다.
+
+[1926년](https://ko.wikipedia.org/wiki/1926년 "wikilink") SC 인테르나시오나우는 [흑인](https://ko.wikipedia.org/wiki/흑인 "wikilink") 축구 선수들의 입단을 허용하기 시작하였으며, 이는 [1952년](https://ko.wikipedia.org/wiki/1952년 "wikilink")에 제재를 해제한 라이벌 [그레미우](https://ko.wikipedia.org/wiki/그레미우 "wikilink")보다 26년 빠른 선택이었다. 인종을 가리지 않고, 누구나 순수한 실력을 발휘할 수 있는 구단으로 성장하였으며, 이로 인해 구단은 *민중의 구단*이라는 별칭을 얻었다.
+
+### 홀루 콤프레소르 (Rolo Compressor) : 1940년대
+
+1940년대는 SC 인테르나시오나우에게 뜻깊은 시기였다. [1939년](https://ko.wikipedia.org/wiki/1939년 "wikilink")부터 [1948년](https://ko.wikipedia.org/wiki/1948년 "wikilink")까지 막강한 공격력을 자랑하던 팀으로, [포르투갈어](https://ko.wikipedia.org/wiki/포르투갈어 "wikilink")로 "증기기관차"라는 뜻을 가진 *Rolo Compressor (홀루 콤프레소르)*라는 별칭을 가지게 되기도 하였다. 구단은 이 시기동안 [히우그란지두술 주 리그에서](../Page/캄페오나투_가우슈.md "wikilink") 여덟 차례 우승을 차지하였다. 당시 구단의 대표적인 선수들로는 아우페우, 테수리냐, 아비가이우, 카를리투스, 아당지뉴 등이 있었다.
+
+### 구단의 성장 : 1950\~60년대
+
+1940년대 이후, SC 인테르나시오나우는 눈부신 성장을 시작하였다. [1950년 FIFA 월드컵](https://ko.wikipedia.org/wiki/1950년_FIFA_월드컵 "wikilink") 개최를 위해 그들의 홈 경기장인 [이스타지우 두스 이우칼립투스가](https://ko.wikipedia.org/wiki/이스타지우_두스_이우칼립투스 "wikilink") 새롭게 단장하였으며, 월드컵에서 두 경기를 치렀다. 선수단 보강도 꾸준히 이어나갔는데, [1956년](https://ko.wikipedia.org/wiki/1956년 "wikilink") [멕시코](https://ko.wikipedia.org/wiki/멕시코 "wikilink")에서 열린 범아메리카 축구 선수권 대회에 참가한 [브라질 대표팀](https://ko.wikipedia.org/wiki/브라질_축구_국가대표팀 "wikilink") 선수들을 선발하였다. [1956년](https://ko.wikipedia.org/wiki/1956년 "wikilink")에는 브라질 대표팀에 8명의 인테르나시오나우 선수가 선발된 적도 있었다.
+
+1960년대에 들어서면서 기존 홈구장인 이우칼립투스 경기장은 늘어나는 팬들을 수용하기에는 작아지기 시작하였다. 이 후 구단의 팬들이 새로운 경기장을 짓기 위한 자금 및 물품들을 후원하기 시작하였고, [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink") [4월 6일](https://ko.wikipedia.org/wiki/4월_6일 "wikilink") [이스타지우 베이라히우가](https://ko.wikipedia.org/wiki/이스타지우_베이라히우 "wikilink") 탄생하게 되었다. 베이라히우()는 강기슭을 뜻하는 포르투갈어이다.
+
+### 전국 리그의 등장 : 1970년대
+
+1970년대 SC 인테르나시오나우는 [히우그란지두술주](../Page/히우그란지두술주.md "wikilink")의 가장 성공적인 구단으로 자리매김하였다. 팬들이 가장 환희를 느낀 순간은 [1975년](https://ko.wikipedia.org/wiki/1975년 "wikilink") [캄페오나투 브라질레이루 세리이 A에서](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A "wikilink") [크루제이루 EC를](../Page/크루제이루_EC.md "wikilink") 1-0으로 꺾고 구단 역사상 처음으로 전국 대회 우승을 차지했을 무렵이었다. [1976년](https://ko.wikipedia.org/wiki/1976년 "wikilink") 인테르나시오나우는 전국 리그 결승전에서 [SC 코린치앙스 파울리스타를](https://ko.wikipedia.org/wiki/SC_코린치앙스_파울리스타 "wikilink") 2-0으로 꺾고, 2년 연속 전국 리그 타이틀을 거머쥐었다. 해당 시즌에 인테르나시오나우는 총 23경기 중 19승 1무 3패를 기록하였다. [1979년](https://ko.wikipedia.org/wiki/1979년 "wikilink") [CR 바스쿠 다 가마를](../Page/CR_바스쿠_다_가마.md "wikilink") 2-1로 꺾고, 전국 리그 세번째 트로피를 들어올렸다. 해당 시즌에는 16승을 기록하는 동시에, 무패를 기록하였다.
+
+### 세계로 뻗어가는 인테르나시오나우 : 1980\~90년대
+
+1980년대 SC 인테르나시오나우에는 [파우캉](https://ko.wikipedia.org/wiki/파울루_호베르투_파우캉 "wikilink"), [이지바우두](https://ko.wikipedia.org/wiki/이지바우두_지_프레이타스 "wikilink"), [바치스타](https://ko.wikipedia.org/wiki/주앙_바치스타_다_시우바 "wikilink") 등 기라성 같은 스타들이 등장하였다. 이 들의 활약을 바탕으로 인테르나시오나우는 1980년 [코파 리베르타도레스에서](https://ko.wikipedia.org/wiki/코파_리베르타도레스_1980 "wikilink") 좋은 활약을 시작하였다. 이 대회의 조별 예선에서 인테르나시오나우는 브라질의 [CR 바스쿠 다 가마와](../Page/CR_바스쿠_다_가마.md "wikilink") [베네수엘라](https://ko.wikipedia.org/wiki/베네수엘라 "wikilink")의 [데포르티보 타치라](../Page/데포르티보_타치라.md "wikilink"), [데포르티보 갈리시아와](https://ko.wikipedia.org/wiki/데포르티보_갈리시아 "wikilink") 한 조에 묶였고, 4승 1무 1패를 기록하였다. 이 후 준결승에서는 [아르헨티나](https://ko.wikipedia.org/wiki/아르헨티나 "wikilink")의 [벨레스 사르스피엘드와](../Page/벨레스_사르스피엘드.md "wikilink") [콜롬비아](https://ko.wikipedia.org/wiki/콜롬비아 "wikilink")의 [아메리카 데 칼리와](../Page/아메리카_데_칼리.md "wikilink") 한 조가 되었고, 2승 2무 무패로 다음 라운드에 진출하였다. 결승전에서는 [우루과이](https://ko.wikipedia.org/wiki/우루과이 "wikilink")의 [클루브 나시오날과](../Page/클루브_나시오날_데_풋볼.md "wikilink") 맞닥뜨렸다. 1차전 홈 경기에선 0-0 무승부를 거두었으며, 2차전 원정 경기에서 1-0으로 나시오날에게 패배하면서 준우승에 머물렀다. 비록 구단 역사상 가장 중요한 대회 트로피를 눈앞에서 놓쳤으나, [1981년](https://ko.wikipedia.org/wiki/1981년 "wikilink")부터 [캄페오나투 가우슈에서](../Page/캄페오나투_가우슈.md "wikilink") 4년 연속 우승을 차지하며 팬들은 위안을 삼았다.
+
+[1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") [브라질 축구 국가대표팀에서](https://ko.wikipedia.org/wiki/브라질_축구_국가대표팀 "wikilink") 인테르나시오나우 출신 선수들이 또 한번 장악을 하기 시작하였다. [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink")에 참가한 브라질 대표팀의 선발 명단 11명이 전부 인테르나시오나우의 선수들로 구성되었으며, 이 팀은 브라질 대표팀을 뜻하는 "셀레상"과 인테르나시오나우를 결합하여 *셀레인테르*라고 불리기도 하였다.
+
+[1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink") 인테르나시오나우는 또다시 [캄페오나투 브라질레이루 세리이 A의](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A "wikilink") 정상을 노렸으나, 결승전에서 [CR 플라멩구에게](../Page/CR_플라멩구.md "wikilink") 패배하며 준우승에 머물렀다. 이듬해인 [1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink") 인테르나시오나우는 또다시 브라질 전국 리그 재패를 꿈꾸었으며, 준결승에서 구단의 최대 라이벌 [그레미우](https://ko.wikipedia.org/wiki/그레미우 "wikilink")를 꺾으면서 꿈을 이루는 듯 하였다. 그러나 결승전에서 [EC 바이아에게](../Page/EC_바이아.md "wikilink") 종합 2-1 패배를 당하며, 2년 연속 준우승에 머무르고 말았다. 그러나 [코파 리베르타도레스 1989](https://ko.wikipedia.org/wiki/코파_리베르타도레스_1989 "wikilink") 시즌 8강에서 다시 바이아를 만났고, 종합 1-0 승리를 거두며 복수에 성공하였다. 해당 시즌 코파 리베르타도레스에선 [파라과이](https://ko.wikipedia.org/wiki/파라과이 "wikilink")의 [클루브 올림피아에](../Page/클루브_올림피아.md "wikilink") 의해 4강에서 탈락하였다.
+
+[1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink") 인테르나시오나우는 [코파 두 브라질](https://ko.wikipedia.org/wiki/코파_두_브라질 "wikilink") 결승전에서 [플루미넨시 FC를](../Page/플루미넨시_FC.md "wikilink") 꺾고 대회 네번째 우승을 차지하였다.
+
+### 영광의 시대 : 2000년대
+
+새천년에 들어선 이후 [페르난두 카르발류](https://ko.wikipedia.org/wiki/페르난두_샤가스_카르발류_네투 "wikilink") 회장은 유소년 선수를 활용하면서 구단의 리빌딩에 힘을 쓰기 시작하였다. 또한 이 시기에 구단은 새로운 시대를 맞이하여, 구단의 시설들을 현대화하기 시작하였다. [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink")부터 [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink")까지 인테르나시오나우는 [캄페오나투 가우슈에서](../Page/캄페오나투_가우슈.md "wikilink") 4년 연속 우승을 차지하였다. 이 후 구단은 남아메리카 최고의 대회인 [코파 리베르타도레스](../Page/코파_리베르타도레스.md "wikilink") 타이틀을 향한 여정을 시작하였다. 인테르나시오나우는 조별 예선에서 8승 6무 1패를 기록하였고, 8강에서 [에콰도르](https://ko.wikipedia.org/wiki/에콰도르 "wikilink")의 [LDU 키토를](https://ko.wikipedia.org/wiki/LDU_키토 "wikilink") 만나 승리를 따냈다. 4강에서는 [1980년에](https://ko.wikipedia.org/wiki/코파_리베르타도레스_1980 "wikilink") 트로피를 빼앗긴 [우루과이](https://ko.wikipedia.org/wiki/우루과이 "wikilink")의 [클루브 나시오날를](../Page/클루브_나시오날_데_풋볼.md "wikilink") 상대하게 되었고, 승리를 따내며 결승전으로 진출하였다. 결승전에서는 같은 브라질의 축구단인 [상파울루 FC와](../Page/상파울루_FC.md "wikilink") 만나게 되었다. 상파울루의 홈구장 [이스타지우 두 모룸비에서](https://ko.wikipedia.org/wiki/이스타지우_두_모룸비 "wikilink") 열린 결승전 1차전은 약 8만여 명의 상파울리누스가 운집하였다. 그러나 [하파에우 소비스가](https://ko.wikipedia.org/wiki/하파에우_아우구스투_소비스_두_나시멘투 "wikilink") 두 골을 기록하며, 2-1 승리를 거두며 홈 팬들을 잠재웠다. 베이라히우에서 펼쳐진 2차전에서 [스트라이커](https://ko.wikipedia.org/wiki/공격수#스트라이커 "wikilink") [페르난당이](https://ko.wikipedia.org/wiki/페르난두_루시우_다_코스타 "wikilink") 마침내 결승골을 터뜨리며, 구단으로 하여금 최고의 영광을 누리게 해줄 코파 리베르타도레스의 트로피를 들어올렸다.
+
+[2006년 FIFA 클럽 월드컵에](https://ko.wikipedia.org/wiki/2006년_FIFA_클럽_월드컵 "wikilink") 참가하게 된 인테르나시오나우는 결승전에서 유럽 챔피언 [FC 바르셀로나와](../Page/FC_바르셀로나.md "wikilink") 맞붙게 되었고, 승리를 따내며 역사상 첫 세계 축구 선수권 대회 우승을 차지하였다. [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [레코파 수다메리카나](../Page/레코파_수다메리카나.md "wikilink") 결승전에서 [멕시코](https://ko.wikipedia.org/wiki/멕시코 "wikilink")의 [CF 파추카를](../Page/CF_파추카.md "wikilink") 만나게 되었다. 1차전 원정에서 2-1 패배를 당했으나, 51,000명의 팬들이 모인 2차전 베이라히우에서의 홈 경기에서 4-0 승리를 거두며, 대회 역사상 최대점수차 승리를 거두었다. 당시 어린 선수였던 [알레샨드리 파투가](../Page/알레샨드리_파투.md "wikilink") 결승골에 성공한 바 있다. 그러나 브라질 전국리그 [2007 시즌에](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A_2007 "wikilink") 위기를 겪으며 11위에 아슬아슬하게 안착하였다. 이후 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [코파 수다메리카나에](../Page/코파_수다메리카나.md "wikilink") 진출하였으며, [아르헨티나](https://ko.wikipedia.org/wiki/아르헨티나 "wikilink")의 [에스투디안테스 데 라플라타를](../Page/에스투디안테스_데_라플라타.md "wikilink") 꺾고 대회 최초의 브라질 우승팀으로 기록되었다. 2008년에는 또한 전국 리그 6위를 기록하였으며, [주리그](../Page/캄페오나투_가우슈.md "wikilink") 우승, [코파 두 브라질](https://ko.wikipedia.org/wiki/코파_두_브라질 "wikilink") 결승, [스루가 은행 챔피언십](https://ko.wikipedia.org/wiki/스루가_은행_챔피언십 "wikilink") 우승을 차지하였다. [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") 구단은 100주년을 맞이하여 황금색으로 빛나는 서드 유니폼을 발표하였다. 해당 시즌 구단은 전국리그 2위를 기록하며, 뛰어난 활약을 보였다.
+
+[2010년](https://ko.wikipedia.org/wiki/코파_리베르타도레스_2010 "wikilink") 구단은 또다시 코파 리베르타도레스 우승을 노리기 위해 준비하였다. 조별 예선에서 [에콰도르](https://ko.wikipedia.org/wiki/에콰도르 "wikilink")의 [데포르티보 키토](https://ko.wikipedia.org/wiki/데포르티보_키토 "wikilink"), [CS 에멜레크](../Page/CS_에멜레크.md "wikilink") 그리고 [우루과이](https://ko.wikipedia.org/wiki/우루과이 "wikilink")의 [CA 세로와](https://ko.wikipedia.org/wiki/CA_세로 "wikilink") 같은 조에 묶였다. 인테르나시오나우는 조별 예선 모든 홈 경기에서 3승, 모든 원정 경기에서 3무를 기록하며 다음 라운드로 진출하였다. 이후 [아르헨티나](https://ko.wikipedia.org/wiki/아르헨티나 "wikilink")의 챔피언 [CA 반피엘드와](../Page/CA_반피엘드.md "wikilink") 만났고, [클레베르의](https://ko.wikipedia.org/wiki/클레베르_지_카르발류_코헤아 "wikilink") 귀중한 골로 다음 라운드 진출이 확정되었다. 8강에서 [코파 수다메리카나에서](https://ko.wikipedia.org/wiki/코파_수다메리카나_2008 "wikilink") 만난 적이 있던 [아르헨티나](https://ko.wikipedia.org/wiki/아르헨티나 "wikilink")의 [에스투디안테스 데 라플라타와](../Page/에스투디안테스_데_라플라타.md "wikilink") 다시 만났으며, 1차전 홈 경기는 인테르나시오나우의 1-0 승리로 끝이 났다. 그러나 원정 경기 에스투디안테스가 2-0으로 앞서나가고 있었는데, 88분 이후 [스트라이커](https://ko.wikipedia.org/wiki/공격수#스트라이커 "wikilink") [지울리아누의](https://ko.wikipedia.org/wiki/지울리아누_빅토르_지_파울라 "wikilink") 대활약으로 4강에 진출할 수 있었다. 4강에서는 4년 전에 만났던 [상파울루 FC와](../Page/상파울루_FC.md "wikilink") 만났으며, 승리를 따내고 결승전에 진출하였다. 결승전에서는 [멕시코](https://ko.wikipedia.org/wiki/멕시코 "wikilink")의 [CD 과달라하라를](https://ko.wikipedia.org/wiki/CD_과달라하라 "wikilink") 만났으며, 1차전 2-1 승리, 2차전 3-2 승리를 거두며 두번째 코파 리베르타도레스 타이틀을 따냈다.
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:EMELEC-INTERNACIONAL_13_\(16675274519\).jpg "wikilink") 이 후 인테르나시오나우는 [2010년 FIFA 클럽 월드컵에](https://ko.wikipedia.org/wiki/2010년_FIFA_클럽_월드컵 "wikilink") 참가하였으나, 4강에서 [콩고민주공화국](https://ko.wikipedia.org/wiki/콩고민주공화국 "wikilink")의 [TP 마젬베에게](https://ko.wikipedia.org/wiki/TP_마젬베 "wikilink") 0-2 충격패를 당하고 탈락하였다.
+
+### 충격의 강등 : 2010년대
+
+인테르나시오나우는 [캄페오나투 브라질레이루 세리이 A 2016](../Page/캄페오나투_브라질레이루_세리이_A_2016.md "wikilink") 시즌에서 좋은 출발을 보였으나, 14경기 연속 무승을 기록하는 등 어려운 상황에 놓이게 되었고, 시즌 막판 결국 구단 역사상 최초로 [캄페오나투 브라질레이루 세리이 B로](../Page/캄페오나투_브라질레이루_세리이_B.md "wikilink") 강등되었다. [캄페오나투 브라질레이루 세리이 B 2017에서](../Page/캄페오나투_브라질레이루_세리이_B_2017.md "wikilink") 2위를 차지하며, 곧바로 재승격에 성공하였다.
+
+## 앰블럼
+
+파일:SCInternacionalFirstCrest.JPG|창단 당시 앰블럼 파일:SCIneternacional1977Crest.jpg|1976년 [전국 리그](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A "wikilink") 두번째 우승 이후 파일:SCInternacional1993Crest.JPG|1992년 [코파 두 브라질](https://ko.wikipedia.org/wiki/코파_두_브라질 "wikilink") 우승 이후 파일:SCIneternacional2006Crest.jpg|2006년 [코파 리베르타도레스](../Page/코파_리베르타도레스.md "wikilink") 우승 이후 파일:SCIneternacional2007Crest.jpg|2006년 [FIFA 클럽 월드컵](../Page/FIFA_클럽_월드컵.md "wikilink") 우승 이후 파일:Sport Club Internacional 2009.svg|2009년 100주년 기념 이후
+
+구단의 앰블럼은 둥근 테두리에 붉은색과 흰색으로 이루어져 있다. 가운데 문양은 *스포르트 클루브 인테르나시오나우 (Sport Club Internacional)*의 각 첫 글자를 따온 SCI로 꾸며낸 문양이다. 초창기에는 흰색 바탕에 붉은색 테두리와 문양을 사용했으나, 1950년대에 색 배합이 서로 뒤바뀌었다. 1975년 [전국 리그를](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A "wikilink") 최초로 제패하였을 때, 앰블럼 상단에 별을 부착하였다. 이후 1976년과 1979년 우승할 때 별을 하나씩 추가하였다. 이후 네번째 별은 1992년 [코파 두 브라질에서](https://ko.wikipedia.org/wiki/코파_두_브라질 "wikilink") 우승한 이후 추가되었다. 2006년 [코파 리베르타도레스](https://ko.wikipedia.org/wiki/코파_리베르타도레스_2006 "wikilink") 우승 이후, 이를 기념하기 위해 기존의 네 개의 별 위에 상대적으로 큰 별을 달아 장식하였다. 같은 해 [FIFA 클럽 월드컵에서](https://ko.wikipedia.org/wiki/2006년_FIFA_클럽_월드컵 "wikilink") 우승하면서, 기존에 있던 다섯 개의 별을 같은 선상에 놓으며 내려보내고, 클럽 월드컵 우승을 기념하는 은색 별을 그 위에 올려놓았다. 2009년 구단 100주년을 기념하면서 앰블럼 테두리에 세부 꾸밈이 변경되었고, 현재까지 이르고 있다.
+
+## 선수단
+
+### 1군 선수단
+
+*2018년 1월 6일 기준*
+
+### 임대 선수 명단
+
+## 수상
+
+### 국제 대회
+
+#### 세계
+
+  - [FIFA 클럽 월드컵](../Page/FIFA_클럽_월드컵.md "wikilink") (1) : [2006](https://ko.wikipedia.org/wiki/FIFA_클럽_월드컵_2006 "wikilink")
+
+#### 대륙
+
+  - [코파 리베르타도레스](../Page/코파_리베르타도레스.md "wikilink") (2) : [2006](https://ko.wikipedia.org/wiki/코파_리베르타도레스_2006 "wikilink"), [2010](https://ko.wikipedia.org/wiki/코파_리베르타도레스_2010 "wikilink")
+  - [레코파 수다메리카나](../Page/레코파_수다메리카나.md "wikilink") (2) : 2007, 2011
+  - [코파 수다메리카나](../Page/코파_수다메리카나.md "wikilink") (1) : 2008
+  - [스루가 은행 챔피언십](https://ko.wikipedia.org/wiki/스루가_은행_챔피언십 "wikilink") (1) : 2009
+
+### 국내 대회
+
+#### 전국
+
+  - [캄페오나투 브라질레이루 세리이 A](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A "wikilink") (3) : [1975](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A_1975 "wikilink"), [1976](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A_1976 "wikilink"), [1979](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A_1979 "wikilink")
+  - [코파 두 브라질](https://ko.wikipedia.org/wiki/코파_두_브라질 "wikilink") (1) : [1992](https://ko.wikipedia.org/wiki/코파_두_브라질_1992 "wikilink")
+
+#### 주 (州)
+
+  - [캄페오나투 가우슈](../Page/캄페오나투_가우슈.md "wikilink") (45) : 1927, 1934, 1940, 1941, 1942, 1943, 1944, 1945, 1947, 1948, 1950, 1951, 1952, 1953, 1955, 1961, 1969, 1970, 1971, 1972, 1973, 1974, 1975, 1976, 1978, 1981, 1982, 1983, 1984, 1991, 1992, 1994, 1997, 2002, 2003, 2004, 2005, 2008, 2009, 2011, 2012, 2013, 2014, 2015, 2016
+
+[SC_인테르나시오나우](https://ko.wikipedia.org/wiki/분류:SC_인테르나시오나우 "wikilink") [분류:브라질의 축구단](https://ko.wikipedia.org/wiki/분류:브라질의_축구단 "wikilink") [분류:1909년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1909년_설립된_축구단 "wikilink") [분류:히우그란지두술주의 축구단](https://ko.wikipedia.org/wiki/분류:히우그란지두술주의_축구단 "wikilink")

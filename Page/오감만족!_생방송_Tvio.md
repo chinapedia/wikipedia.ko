@@ -1,0 +1,48 @@
+> This article is converted from Wikipedia: [!  Tvio](https://ko.wikipedia.org/wiki/!__Tvio).
+
+
+**오감만족\! 생방송 Tvio**는 [OBS 경인TV에서](https://ko.wikipedia.org/wiki/OBS_경인TV "wikilink") [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [12월 31일부터](https://ko.wikipedia.org/wiki/12월_31일 "wikilink") [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [6월 20일까지](https://ko.wikipedia.org/wiki/6월_20일 "wikilink") 평일 오후 5:00 \~ 7:00에 방송했던 정보 쇼 프로그램이다. 현재는 종영됐고, 후속으로는 [생방송 투유가](https://ko.wikipedia.org/wiki/생방송_투유 "wikilink") 방송된다.
+
+## 출연자
+
+### 진행자
+
+  - [신영일](https://ko.wikipedia.org/wiki/신영일_\(방송인\) "wikilink") - 프리랜서 아나운서. (전 KBS 아나운서)
+  - [유진영](https://ko.wikipedia.org/wiki/유진영_\(방송인\) "wikilink") - OBS 아나운서. (전 부산MBC 아나운서)
+
+원래 개그맨 [강성범](https://ko.wikipedia.org/wiki/강성범 "wikilink")이 메인MC를 맡을 예정이었으나, 강성범이 [생방송 5BS](https://ko.wikipedia.org/wiki/생방송_OBS "wikilink") 진행을 맡게 되면서, 프리 아나운서 신영일이 진행하게 되었다.
+
+### 출연자
+
+  - [이미진](https://ko.wikipedia.org/wiki/이미진 "wikilink")
+  - [윤석주](https://ko.wikipedia.org/wiki/윤석주 "wikilink")
+  - [유상무](https://ko.wikipedia.org/wiki/유상무_\(희극인\) "wikilink")
+
+## 프로그램 명칭에 관해
+
+**Tvio**는 **TV**와 **라디오(Radio)**의 합성어이며, TV와 라디오의 특성을 접목시킨 구성을 의미한다.
+
+## 주요 코너
+
+  - Tvio 교통센터 - 교통정보와 고속버스, 철도 잔여좌석을 안내하고있다.
+  - 생활문화 핫클릭 - 화제가 되고 있는 생활 정보를 소개한다.
+  - Tvio 특별한 저녁식사
+  - 아하\! 생활의 발견
+
+### 요일별 코너
+
+  - 도전\! 퀴즈 서바이벌 (월 \~ 목) - 인터넷을 통한 쌍방향 퀴즈코너로, 인터넷이 설치된 곳이면 어디든지 방송이 가능한 <Tvio 방송 시스템>을 통하여 진행한다.
+  - (월요일) OBS 최고의 5분을 찾아라\! - 지난 한 주 동안 OBS에서 가장 화제가 된 프로그램, 최고의 시청률을 올렸던 코너에 대한 5분간의 하이라이트 구성.
+  - (화요일) 사운드 오브 쿵짝 - 초대 가수의 삶 이야기도 듣고, 노래도 배워보는 코너.
+  - (수요일) 2008 베이징 올림픽\! 당신을 응원합니다. - 베이징 올림픽에 출전하는 전 종목을 소개하고, 금메달 유망주를 만나보는 베이징 올림픽 관련 특별코너. 인기 종목은 물론 비인기 종목까지 소개하여, 베이징 올림픽에 대한 시청자들의 관심을 높이는 것이 목적이다.
+  - (목요일) 환상의 주(zoo)인공 - 애완견 전성시대를 맞아 가족보다 동물을 더 사랑하는 별난 사람, 별난 동물이야기, 캐릭터 강한 동물의 일상을 보여준다.
+
+## 오프닝
+
+오프닝은 방송 개시일인 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [12월 31일부터](https://ko.wikipedia.org/wiki/12월_31일 "wikilink") 종료일인 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [6월 20일까지](https://ko.wikipedia.org/wiki/6월_20일 "wikilink") 계속 사용되었다. 2부의 경우 Tvio 로고송이 나온 후, 스튜디오의 모습이 나오면서 프로그램 로고 아래에 '2부'라고 나온 뒤, 이후에 제공스폰서 안내가 나오며, 광고 후에 시작.
+
+## 로고송
+
+영화 OST로 잘 알려져있는 밴드인 [타카피](https://ko.wikipedia.org/wiki/타카피 "wikilink")의 곡이다. [로고송 들어보기](http://mfiles.naver.net/9640a2786c325ae9c192/data21/2008/2/13/25/obs_tvio_logosong.wma)
+
+[분류:경인TV의 시사교양 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:경인TV의_시사교양_텔레비전_프로그램 "wikilink")

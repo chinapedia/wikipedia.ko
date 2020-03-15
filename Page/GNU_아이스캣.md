@@ -1,0 +1,90 @@
+> This article is converted from Wikipedia: [GNU ](https://ko.wikipedia.org/wiki/GNU_).
+
+
+**GNU 아이스캣**은 이전에 **GNU 아이스위즐**로 알려져 있던,\[1\] [GNU 프로젝트에](https://ko.wikipedia.org/wiki/GNU_프로젝트 "wikilink") 의해 배포되는 [웹 브라우저이다](https://ko.wikipedia.org/wiki/웹_브라우저 "wikilink"). 아이스캣은 완전한 [자유 소프트웨어로](https://ko.wikipedia.org/wiki/자유_소프트웨어 "wikilink") 만들어졌으며, [모질라 파이어폭스의](https://ko.wikipedia.org/wiki/모질라_파이어폭스 "wikilink") 포크이다.
+
+GNU 프로젝트는 아이스캣을 통해 파이어폭스의 최신 개발물과의 호환을 유지하고, [모질라 재단에](https://ko.wikipedia.org/wiki/모질라_재단 "wikilink") 의해 릴리즈되어 자유 소프트웨어 지지자들에 의해 비자유 컨텐츠로 분류되어 있는 제한된 공식 아트웍과 플러그인 저장소를 제거하면서 모질라 파이어폭스의 버전을 제공하려는 목표를 가지고 있다.\[2\]
+
+## 특징
+
+GNU 아이스캣의 가장 큰 장점은 완전한 자유 소프트웨어라는 것이다.\[3\]
+
+공식적인 파이어폭스 릴리즈와의 차이점은 다음과 같다.
+
+  - [자유 소프트웨어만을](https://ko.wikipedia.org/wiki/자유_소프트웨어 "wikilink") 포함
+      - 제한된 아트웍들을 자유 아트워크들로 치환
+      - 제한적인 충돌 보고 시스템을 제거 (이 시스템의 바이너리만 배포 가능한 라이선스 때문)
+      - 자유로운 플러그인만을 플러그인 검색 서비스에서 제공
+  - 프라이버시 보호 기능을 추가.
+      - 서드파티 [HTTP 쿠키로](https://ko.wikipedia.org/wiki/HTTP_쿠키 "wikilink") 나타나는 서드파티 zero-length 이미지 파일들. (웹 버그)\[4\] 파이어폭스 1.0과 1.5의 서드파티 쿠키들은 UI를 통해 완전히 해제될 수 있음을 참조. 그러나 UI옵션은 2.0 버전에서는 제거되었다.
+      - [URL](https://ko.wikipedia.org/wiki/URL "wikilink") 넘겨주기 (경고만)\[5\]
+
+## 역사
+
+### 이름의 유래
+
+상표법에 의해 그 트레이드마크를 보호하기 위해 모질라는 트레이드마크를 기술된 정책에 따라 사용할 것을 요구하며 이를 지키지 않을 경우 가이드라인을 충족하지 않는 비공식 빌드에 대해 "파이어폭스"라는 이름의 사용을 거부할 수 있도록 했다.\[6\] 배포판들이 모질라에서 제공하는 [실행 파일들을](../Page/실행_파일.md "wikilink") 사용하지 않으면, 가이드라인을 충족하지 못하므로, 특별 허가를 받지 않는 이상 그들은 반드시 파이어폭스의 소스를 [컴파일](https://ko.wikipedia.org/wiki/컴파일 "wikilink")할 때 파이어폭스라는 브랜드명과 연관된 아트웍들을 사용하지 않고 대신 들어간 자유 아트웍 또는 컴파일 타임에 주어진 아트웍들을 사용하는 바이너리를 생성하도록 옵션을 주어서 컴파일해야 했다.\[7\]
+
+이런 정책으로 인해 [데비안 프로젝트와](https://ko.wikipedia.org/wiki/데비안_프로젝트 "wikilink") 2004년과 2005년에 긴 논쟁이 있었다. 논쟁 동안에, "아이스위즐"이라는 이름이 파이어폭스의 개명 버전의 이름으로 제시되었다. 이런 의미에서의 아이스위즐이라는 이름의 최초의 사용은 나타나엘 네로드가\[8\] 에릭 도랜드의 "아이스래빗" 제안에 단 답변에서 처음 나타났다.\[9\] 이 이름은 "파이어폭스"의 패러디로 만들어진 것이었다.\[10\] "아이스위즐"은 모질라의 상표 정책에서 파이어폭스의 개명 버전의 이름의 예시로 사용되었고\[11\] 이후 (가상의) 파이어폭스의 개명 버전에 가장 흔히 사용되는 이름이 되었다. [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [1월 1일에](https://ko.wikipedia.org/wiki/1월_1일 "wikilink") 이 이름은 "아이스위즐 루트"란 이름으로 적용되었다.\[12\]
+
+"얼음 족제비"라는 용어는 매트 그뢰닝이 프리드리히 니체에게 가상으로 증여한 시구에서 먼저 나타났다. "사랑은 툰드라를 달리는 스노모빌로, 갑자기 뒤집어지면서 당신을 아래로 추락하게 한다. 그리고 밤엔 얼음 족제비들이 다가온다." \[13\]
+
+[데비안](https://ko.wikipedia.org/wiki/데비안 "wikilink")은 처음에 상표를 사용할 허가를 가지고 파이어폭스라는 이름을 사용하고 있었다.\[14\] 그러나 파이어폭스에서 사용된 아트웍들이 독점적 저작권을 가지고 있어 [데비안 자유 소프트웨어 가이드라인과](https://ko.wikipedia.org/wiki/데비안_자유_소프트웨어_가이드라인 "wikilink") 맞지 않았기 때문에 대용의 로고가 사용되어야 했다.\[15\] [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")에, 모질라는 데비안이 파이어폭스라는 이름을 사용할 권리를 회수했으며, 아이스위즐이 그 자리를 대신했다.
+
+### 그누질라 아이스위즐
+
+[2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") 8월에\[16\], [그누질라](../Page/그누질라.md "wikilink") 프로젝트가 아이스위즐이란 이름의 자유 아트웍을 사용하는 파이어폭스에 대한 프로젝트로 채택되었다.\[17\]
+
+최초의 그누질라 아이스위즐의 릴리즈는 파이어폭스의 1.5.0.4 버전에 기반한 것이었다.\[18\] version of Firefox. 1.5.0.5나 1.5.0.6 버전에 기반한 릴리즈는 없었으며, [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 4월 현재의 최신 버전은 2.0.0.13 및 3.0b5(베타 버전)이다.\[19\]
+
+### 이름 변경
+
+[2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [9월 23일에](https://ko.wikipedia.org/wiki/9월_23일 "wikilink"), 개발자들 중 한 명은 그누질라의 공식 메일링 리스트에서 다음 릴리즈의 이름은 **아이스캣**(IceCat)으로 바뀔 것이라고 밝혔다. 그 이유는 [데비안](https://ko.wikipedia.org/wiki/데비안 "wikilink")이 이미 그누질라 이전에 이미 아이스위즐이라는 이름을 사용하고 있었으며 따라서 두 가지 독립적인 릴리즈간에 혼동을 피하기 위해서라고 하였다.\[20\] 바뀐 이름은 현재까지 아이스캣으로 유지되고 있다.\[21\]
+
+## 배포
+
+아이스캣은 [32비트](https://ko.wikipedia.org/wiki/32비트 "wikilink") [i386](https://ko.wikipedia.org/wiki/i386 "wikilink") [아키텍처](https://ko.wikipedia.org/wiki/아키텍처 "wikilink")에서 사용할 수 있으며 무료로 다운로드할 수 있다. 현재의 빌드는 [리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink")용만 존재하지만 바이너리와 소스 모두 다운로드할 수 있다.
+
+## 라이선스
+
+그누질라는 모질라가 소스 코드에 사용하는 [모질라 공개 라이선스](https://ko.wikipedia.org/wiki/모질라_공개_라이선스 "wikilink")(MPL)/[GNU 일반 공중 사용 허가서](https://ko.wikipedia.org/wiki/GNU_일반_공중_사용_허가서 "wikilink")(GPL)/[GNU 약소 일반 공중 사용 허가서](../Page/GNU_약소_일반_공중_사용_허가서.md "wikilink")(LGPL) 의 삼중 라이선스를 따르고 있다. 모질라와 달리 아이스캣의 기본 아이콘들 또한 위의 삼중 라이선스를 따른다.
+
+## 함께 보기
+
+  - [그누질라](../Page/그누질라.md "wikilink")
+  - [아이스도브](https://ko.wikipedia.org/wiki/아이스도브 "wikilink")
+  - [아이스에이프](https://ko.wikipedia.org/wiki/아이스에이프 "wikilink")
+  - [모질라 파이어폭스](https://ko.wikipedia.org/wiki/모질라_파이어폭스 "wikilink")
+  - [데비안에서 개명된 모질라 소프트웨어들](../Page/데비안에서_개명된_모질라_소프트웨어들.md "wikilink")
+
+## 참고자료
+
+<references/>
+
+## 외부 링크
+
+  - [그누질라/아이스캣의 홈페이지](http://www.gnu.org/software/gnuzilla/)
+
+[분류:데비안](https://ko.wikipedia.org/wiki/분류:데비안 "wikilink") [분류:게코 기반 소프트웨어](https://ko.wikipedia.org/wiki/분류:게코_기반_소프트웨어 "wikilink") [분류:POSIX 웹 브라우저](https://ko.wikipedia.org/wiki/분류:POSIX_웹_브라우저 "wikilink") [분류:파이어폭스 기반 웹 브라우저](https://ko.wikipedia.org/wiki/분류:파이어폭스_기반_웹_브라우저 "wikilink") [분류:소프트웨어 포크](https://ko.wikipedia.org/wiki/분류:소프트웨어_포크 "wikilink") [분류:자유 웹 브라우저](https://ko.wikipedia.org/wiki/분류:자유_웹_브라우저 "wikilink")
+
+1.
+2.
+3.  [Gnuzilla Homepage](http://www.gnu.org/software/gnuzilla/)
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.

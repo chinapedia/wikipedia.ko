@@ -1,0 +1,386 @@
+> This article is converted from Wikipedia: [HERO](https://ko.wikipedia.org/wiki/HERO).
+
+
+《**HERO**》(히어로)는, [후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink") [계열에서](https://ko.wikipedia.org/wiki/후지_네트워크 "wikilink") 방송된 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink"). 주연은 [키무라 타쿠야](../Page/기무라_타쿠야.md "wikilink").
+
+[2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink")에 〈[게츠9](https://ko.wikipedia.org/wiki/후지_TV_월요일_밤_9시_드라마 "wikilink")〉 시간대에 방송된 후, [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")에 단발 드라마가 방송되어, 영화화도 되었다. [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink")에 속편이 〈게츠9〉 시간대에서 방송되어, 영화화도 되었다.
+
+## 개요
+
+[키무라 타쿠야가](../Page/기무라_타쿠야.md "wikilink") 연기하는 파격적이고 정의감이 강한 검사와, [마츠 타카코가](../Page/마츠_타카코.md "wikilink") 연기하는 고지식하지만 어딘가 얼빠진 사무관의 콤비 수사 활동과, 동료 검사들이 일으키는 코미디를 그린다. [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [1월 8일부터](https://ko.wikipedia.org/wiki/1월_8일 "wikilink") [3월 19일까지](https://ko.wikipedia.org/wiki/3월_19일 "wikilink") 방송되어, 평균 시청률 36.8% (칸토 지구·비디오 리서치 조사)라는 높은 시청률을 기록했다.
+
+[2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [7월 3일](https://ko.wikipedia.org/wiki/7월_3일 "wikilink") (월요일 21:00 \~ 23:18)에는, 종료 후 5년 만에 특별편이 방송되었다. 하이비전 제작. 또 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [9월 8일의](https://ko.wikipedia.org/wiki/9월_8일 "wikilink") 영화판 개봉에 맞춰, [8월](https://ko.wikipedia.org/wiki/8월 "wikilink") \~ [9월](https://ko.wikipedia.org/wiki/9월 "wikilink")에 걸쳐 〈채널α〉 시간대에서 본편의 재방송이 (참고로, 본편의 재재방송이 2007년 10월 15일부터 〈채널α〉 시간대에서 행해진다, 그 외의 후지 TV 계열국에서도 차례차례 재재방송이 개시된다), [9월 23일](https://ko.wikipedia.org/wiki/9월_23일 "wikilink") (일요일 21:00 \~ 23:29)에는 드라마 레전드 스페셜에서 이 특별편의 완전판(편집에 의해 영상 추가)이 방송되었다. 영화판에 대해서는 《[HERO (2007년 영화)](https://ko.wikipedia.org/wiki/HERO_\(2007년_영화\) "wikilink")》를 참조.
+
+[2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [7월 14일부터](https://ko.wikipedia.org/wiki/7월_14일 "wikilink") [9월 22일까지](https://ko.wikipedia.org/wiki/9월_22일 "wikilink") 〈속편〉으로 13년 만에 연속 드라마가 제작되었다\[1\]. 속편은 후지 TV 개국 55주년 기념 프로그램으로서 제작.
+
+ORICON STYLE에 의한 14년 7월기 연속 드라마 만족도 랭킹에서 만족도 63%를 획득해 1위가 되었다\[2\].
+
+[2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [7월 18일](https://ko.wikipedia.org/wiki/7월_18일 "wikilink"), 영화화 작품이 개봉되었다. 제2기의 캐스트에 더해, 제1기에서 여주인공을 맡았던 마츠 타카코가 아마미야 마이코 역으로 출연했다. 게스트 출연으로 [사토 코이치를](https://ko.wikipedia.org/wiki/사토_코이치 "wikilink") 맞이했다\[3\]. 영화판에 대해서는 《[HERO (2015년 영화)](https://ko.wikipedia.org/wiki/HERO_\(2015년_영화\) "wikilink")》를 참조.
+
+## 제1기
+
+### 등장인물
+
+#### 주요 인물
+
+[200px](https://ko.wikipedia.org/wiki/파일:Takuya_Kimura's_costume_in_Hero.jpg "wikilink")
+
+  - 쿠리우 코헤이 (27) - [키무라 타쿠야](../Page/기무라_타쿠야.md "wikilink")
+    검사.
+  - 아마미야 마이코 (24) - [마츠 타카코](../Page/마츠_타카코.md "wikilink")
+    사무관.
+
+#### 검찰·사무관
+
+  - 나카무라 미스즈 (30) - 오오츠카 네네
+    검사.
+  - 시바야마 미츠쿠 (36) - [아베 히로시](https://ko.wikipedia.org/wiki/아베_히로시 "wikilink")
+    주임 검사.
+  - 엔도 켄지 (25) - 야시마 노리토
+    사무관.
+  - 에가미 타츠오 (32) - [카츠무라 마사노부](https://ko.wikipedia.org/wiki/카츠무라_마사노부 "wikilink")
+    검사.
+  - 스에츠구 타카유키 (40) - [코히나타 후미요](https://ko.wikipedia.org/wiki/코히나타_후미요 "wikilink")
+    사무관.
+  - 우시마루 타노조 (50) - 카도노 타쿠조
+    죠사이 지부 검사 부장.
+  - 나베시마 토시미츠 (61) - [코다마 키요시](https://ko.wikipedia.org/wiki/코다마_키요시 "wikilink")
+    도쿄 지검의 차석 검사.
+
+#### 그 외
+
+  - 바텐더 - 타나카 요지
+    바 〈St.George's Tavern〉의 바텐더.
+  - 이도 슈지 - 마사나 보쿠조
+    죠사이 지부의 수위.
+  - 오오츠카 - 오카야마 하지메
+    순경.
+  - 통신 판매 프로그램의 내레이션 - 야자와 료스케, 사카이 아카네
+    통신 판매 프로그램의 더빙 내레이터.
+
+### 스태프
+
+  - 각본 - 오오타케 마나부 (1), 후쿠다 야스시 (2 \~ 4·6·7·9·11), 하타 타케히코 (5), 타나베 미츠루 (8·10)
+  - 연출 - 스즈키 마사유키 (1·2·4·7·9·11), 히라노 신 (3·5), 사와다 켄사쿠 (6·10), 카몬 이쿠오 (8)
+  - 프로듀스 - 이시하라 타카시, 와다 코우
+  - 협력 프로듀스 - 쇼지 히데후미
+  - 기획 협력 - [키바야시 신](https://ko.wikipedia.org/wiki/아기_다다시 "wikilink")
+  - 음악 - 핫토리 타카유키
+  - 편성 - 오사베 소스케
+  - 편집 - 타구치 타쿠야
+  - 제작 협력 - 바스크, 시부야 비디오 스튜디오
+  - 제작 - [후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink")
+
+### 주제가
+
+  - [우타다 히카루](https://ko.wikipedia.org/wiki/우타다_히카루 "wikilink") 〈Can You Keep A Secret?〉
+
+### 방송 일자
+
+| 각 화                                                                                  | 방송일                                 | 부제                                  | 각본       | 연출                              | 시청률                            |
+| ------------------------------------------------------------------------------------ | ----------------------------------- | ----------------------------------- | -------- | ------------------------------- | ------------------------------ |
+| 칸토                                                                                   | 칸사이                                 |                                     |          |                                 |                                |
+| 제1화                                                                                  | 2001년 1월 8일                         | 최악의 만남                              | 오오타케 마나부 | 스즈키 마사유키                        | 33.4%                          |
+| 제2화                                                                                  | 2001년 1월 15일                        | 돌아가지 못하는 두 사람                       | 후쿠다 야스시  | 32.7%                           | 24.6%                          |
+| 제3화                                                                                  | 2001년 1월 22일                        | 사랑이라고 하는 이름의 범죄                     | 히라노 신    | 30.8%                           | 21.7%                          |
+| 제4화                                                                                  | 2001년 1월 29일                        | 그에게 배운 것                            | 스즈키 마사유키 | <span style="color:blue;">30.7% | 24.2%                          |
+| 제5화                                                                                  | 2001년 2월 5일                         | 둘만의 밤                               | 하타 타케히코  | 히라노 신                           | 34.9%                          |
+| 제6화                                                                                  | 2001년 2월 12일                        | 그녀의 가장 소중한 것                        | 후쿠다 야스시  | 사와다 켄사쿠                         | 36.1%                          |
+| 제7화                                                                                  | 2001년 2월 19일                        | 널 만나서 다행이야                          | 스즈키 마사유키 | 34.5%                           | 22.1%                          |
+| 제8화                                                                                  | 2001년 2월 26일                        | 과거를 아는 여자                           | 타나베 미츠루  | 카몬 이쿠오                          | <span style="color:red;">36.8% |
+| 제9화                                                                                  | 2001년 3월 5일                         | 내가 언제나 곁에 있어                        | 후쿠다 야스시  | 스즈키 마사유키                        | 34.4%                          |
+| 제10화                                                                                 | 2001년 3월 12일                        | 이별의 예감                              | 타나베 미츠루  | 사와다 켄사쿠                         | 35.1%                          |
+| 최종화                                                                                  | 2001년 3월 19일                        | 마지막 사건                              | 후쿠다 야스시  | 스즈키 마사유키                        | <span style="color:red;">36.8% |
+| 펑균 시청률                                                                               | <span style="color:green;">'''34.3% | <span style="color:green;">'''24.6% |          |                                 |                                |
+| (시청률은 칸토 지구, 칸사이 지구 [비디오 리서치사](https://ko.wikipedia.org/wiki/비디오_리서치 "wikilink") 조사) |                                     |                                     |          |                                 |                                |
+
+  - 제1화는 15분 확대 (21:00 \~ 22:09).
+  - 최종화는 25분 확대 (21:00 \~ 22:19).
+
+## 특별편
+
+[2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [7월 3일에](https://ko.wikipedia.org/wiki/7월_3일 "wikilink") 단발 드라마로 5년 만에 부활했다.
+
+### 등장인물
+
+  - 쿠리우 코헤이 - [키무라 타쿠야](../Page/기무라_타쿠야.md "wikilink")
+
+  - 츠가루 타모츠 - [츠츠미 신이치](https://ko.wikipedia.org/wiki/츠츠미_신이치 "wikilink")
+
+  - 이즈미야 리리코 - [아야세 하루카](https://ko.wikipedia.org/wiki/아야세_하루카 "wikilink")
+
+  - 코모리 타쿠로 - 벤가루
+
+  - 무라카미 켄타로 - 스즈키 코스케
+
+  - 테라모토 아츠시 - 스즈키 타쿠
+
+  - 시마무라 메구미 - 네기시 토시에
+
+  - 오오야부 마사히로 - 이시바시 렌지
+
+  - 타츠미 에리코 - [이이지마 나오코](https://ko.wikipedia.org/wiki/이이지마_나오코 "wikilink")
+
+  - 야지마 - 무사카 나오마사
+
+  - 선술집 주인 - 무라마츠 토시후미
+
+  - 아키즈키 레이코 - 요시노 키미카
+
+  - 카모이 마사키 - [리쥬 고](https://ko.wikipedia.org/wiki/리쥬_고 "wikilink")
+
+  - 산노미야 타카시 - 사카타 타다시
+
+  - 실화 파라다이스의 관계자 - 오오타카 히로오
+
+  - 니와토리 도로보 - [사토 지로](https://ko.wikipedia.org/wiki/사토_지로 "wikilink")
+
+  - 니시야마 고이치 - [시오미 산세이](https://ko.wikipedia.org/wiki/시오미_산세이 "wikilink")
+
+  - 후루코시 히로코 - 테즈카 사토미
+
+  - 타키타 아키히코 - [나카이 키이치](https://ko.wikipedia.org/wiki/나카이_키이치 "wikilink")
+
+  - 아마미야 마이코 - [마츠 타카코](../Page/마츠_타카코.md "wikilink")
+
+  - 나카무라 미스즈 - 오오츠카 네네
+
+  - 시바야마 미츠쿠 - [아베 히로시](https://ko.wikipedia.org/wiki/아베_히로시 "wikilink")
+
+  - 에가미 타츠오 - [카츠무라 마사노부](https://ko.wikipedia.org/wiki/카츠무라_마사노부 "wikilink")
+
+  - 스에츠구 타카유키 - [코히나타 후미요](https://ko.wikipedia.org/wiki/코히나타_후미요 "wikilink")
+
+  - 엔도 켄지 - 야시마 노리토
+
+  - 우시마루 유타카 - 카도노 타쿠조
+
+  - 나베시마 토시미츠 - [코다마 키요시](https://ko.wikipedia.org/wiki/코다마_키요시 "wikilink")
+
+  - 이도 슈지 - 마사나 보쿠조
+
+  - 바텐더 - 타나카 요지
+
+  - 통신 판매 프로그램의 내레이션 - 사토 아사토, 야마기시 이사오, 모로타 카오루
+
+### 스태프
+
+  - 각본 - 후쿠다 야스시
+  - 음악 - 핫토리 타카유키
+  - 기획 - 이시하라 타카시, 와다 코우
+  - 프로듀스 - 스즈키 요시히로, 마키노 타다시
+  - 협력 프로듀스 - 키쿠치 히로유키
+  - 연출 - 사와다 켄사쿠
+
+### 방송 일자
+
+| 방송일         | 부제 (서브 타이틀) | 각본                            | 연출      | 칸토 시청률  | 칸사이 시청률 |
+| ----------- | ----------- | ----------------------------- | ------- | ------- | ------- |
+| 2006년 7월 3일 | 오늘밤 부활      | 아름다운 바다 마을의 괴사건에 전설의 검사가 도전한다 | 후쿠다 야스시 | 사와다 켄사쿠 | 30.9%   |
+
+## 제2기
+
+[캐치프레이즈](https://ko.wikipedia.org/wiki/캐치프레이즈 "wikilink")는, 〈**시대는 변했다. 이 남자는 어떤가.**〉.
+
+### 등장인물
+
+#### 주요 인물
+
+  - 쿠리우 코헤이 (40) - [키무라 타쿠야](../Page/기무라_타쿠야.md "wikilink")
+    검사.
+  - 아사기 치카 (28) - [키타가와 케이코](../Page/키타가와_케이코.md "wikilink")
+    사무관.
+
+#### 도쿄 지방 검찰청 죠사이 지부
+
+  - 카와지리 켄자부로 (55) - [마츠시게 유타카](https://ko.wikipedia.org/wiki/마츠시게_유타카 "wikilink")
+    부장 검사.
+  - 타무라 마사시 (44) - 스기모토 텟타
+    검사.
+  - 엔도 켄지 (38) - [야시마 노리토](https://ko.wikipedia.org/wiki/야시마_노리토 "wikilink")
+    사무관.
+  - 우노 다이스케 (31) - 하마다 가쿠
+    검사.
+  - 스에츠구 타카유키 (53) - [코히나타 후미요](https://ko.wikipedia.org/wiki/코히나타_후미요 "wikilink")
+    사무관.
+  - 바바 레이코 (42) - 요시다 요
+    검사.
+  - 이도 슈지 (42) - 마사나 보쿠조
+    사무관.
+  - 코스기 케이타 (33) - [카츠야](https://ko.wikipedia.org/wiki/카츠야_\(배우\) "wikilink")
+    경비원.
+
+#### 도쿄 지방 검찰청 본청
+
+  - 우시마루 유타카 (62) - 카도노 타쿠조
+    도쿄 지검 차석 검사.
+
+#### 그 외
+
+  - 〈St.George's Tavern〉 마스터 - 타나카 요지
+
+### 스태프
+
+  - 각본 - 후쿠다 야스시
+  - 음악 - 핫토리 타카유키
+  - 기획 - 스즈키 요시히로
+  - 기획 협력 - [키바야시 신](https://ko.wikipedia.org/wiki/아기_다다시 "wikilink")
+  - 타이틀백·VFX - 야마모토 마사유키
+  - 프로듀스 - 와타나베 츠네야
+  - 협력 프로듀스 - 마키노 타다시
+  - 연출 - 스즈키 마사유키, 히라노 신, 카나이 히로시, 모리와키 토모노부
+
+### 방송 일자
+
+<table>
+<thead>
+<tr class="header">
+<th><p>각 화</p></th>
+<th><p>방송일</p></th>
+<th><p>부제 (서브 타이틀)</p></th>
+<th><p>연출</p></th>
+<th><p>시청률[4]</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>제1화</p></td>
+<td><p>2014년 7월 14일</p></td>
+<td><p>13년 만에 게츠9에 부활! 쿠리우 새로운 전설의 시작은 시효 직전의 보석 강도</p></td>
+<td><p>스즈키 마사유키</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>제2화</p></td>
+<td><p>2014년 7월 21일</p></td>
+<td><p>쿠리우VS민완 변호사! 여자의 적…두 치한의 거짓말과 수수께끼</p></td>
+<td><p>19.0%</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>제3화</p></td>
+<td><p>2014년 7월 28일</p></td>
+<td><p>진실의 행방 콤비 해소 위기!? 절대로 사과하지 않는 검사</p></td>
+<td><p>히라노 신</p></td>
+<td><p>20.5%</p></td>
+</tr>
+<tr class="even">
+<td><p>제4화</p></td>
+<td><p>2014년 8월 4일</p></td>
+<td><p>미스즈 검사 등장! 넌 내가 지킨다</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>제5화</p></td>
+<td><p>2014년 8월 11일</p></td>
+<td><p>귀신 검사와 비밀을 아는 소녀의 눈물</p></td>
+<td><p>카나이 히로시</p></td>
+<td><p>21.0%</p></td>
+</tr>
+<tr class="even">
+<td><p>제6화</p></td>
+<td><p>2014년 8월 18일</p></td>
+<td><p>엔도가 체포! 참극의 미팅</p></td>
+<td><p>스즈키 마사유키</p></td>
+<td><p>20.1%</p></td>
+</tr>
+<tr class="odd">
+<td><p>제7화</p></td>
+<td><p>2014년 8월 25일</p></td>
+<td><p>운명의 만남 애증의 아타미 출장</p></td>
+<td><p>히라노 신</p></td>
+<td><p>19.0%</p></td>
+</tr>
+<tr class="even">
+<td><p>제8화</p></td>
+<td><p>2014년 9월 1일</p></td>
+<td><p>쿠리우 위기! 대역 출두의 어둠</p></td>
+<td><p>카나이 히로시</p></td>
+<td><p>20.5%</p></td>
+</tr>
+<tr class="odd">
+<td><p>제9화</p></td>
+<td><p>2014년 9월 8일</p></td>
+<td><p>용서받지 못할 거짓말! 치열한 팀전</p></td>
+<td><p>모리와키 토모노부</p></td>
+<td><p>20.2%</p></td>
+</tr>
+<tr class="even">
+<td><p>제10화</p></td>
+<td><p>2014년 9월 15일</p></td>
+<td><p>최종장 돌입 들춰지는 진실의 대가…죠사이 지부 최후의 사건</p></td>
+<td><p>히라노 신</p></td>
+<td><p>22.3%</p></td>
+</tr>
+<tr class="odd">
+<td><p>최종화</p></td>
+<td><p>2014년 9월 22일</p></td>
+<td><p>전대미문의 재판원 재판! 쿠리우, 검사 생명을 건 결단·정의를 위한 최종 결전</p></td>
+<td><p>스즈키 마사유키</p></td>
+<td><p>22.9%</p></td>
+</tr>
+<tr class="even">
+<td><p>평균 시청률 21.3% (시청률은 <a href="https://ko.wikipedia.org/wiki/간토_지방" title="wikilink">칸토 지구</a>·<a href="https://ko.wikipedia.org/wiki/비디오_리서치" title="wikilink">비디오 리서치사</a> 조사)</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+  - 첫회는 30분 확대 (21:00 \~ 22:24).
+  - 제2·3·10화는 15분 확대 (21:00 \~ 22:09).
+  - 최종회는 30분 확대 (21:00 \~ 22:24).
+
+## 수상 경력
+
+**제1기**
+
+  - 제38회 갤럭시 선장
+  - 제26회 [엘란도르상](https://ko.wikipedia.org/wiki/엘란도르상 "wikilink") (작품 부문, 프로듀서 부문)
+  - TV LIFE (각켄) 드라마 대상
+  - 제28회 더 텔레비전 드라마 아카데미상 (최우수 작품상, 주연 남우상, 주제가상, 베스트 드레서상, 감독상, 캐스팅상)
+  - 제4회 닛칸 스포츠 드라마 그랑프리 주연 남우상
+  - 제11회 TV LIFE 연간 드라마 대상 주연 남우상
+
+**제2기**
+
+  - 제82회 더 텔레비전 드라마 아카데미상 (최우수 작품상, 주연 남우상, 감독상)
+  - 도쿄 드라마 어워드 2015 (조연 여우상)
+
+## 스핀오프 드라마
+
+2014년 8월 10일 심야부터 제2기의 스핀 오프 드라마로, 경비원 코스기 케이타를 주인공으로 한 단편 드라마《**HORE**》가 후지 TV에서 방송\[5\]. 총 4회.
+
+### 등장인물
+
+  - 코스기 케이타 - 카츠야
+  - 이도 슈지 - 마사나 보쿠조
+  - 바바 레이코 - 요시다 요 (3 - 4)
+
+### 방송 일자
+
+  -
+    {| class="wikitable" style="text-align:center"
+
+|- \!각 화\!\!방송일\!\!부제\!\!연출\!\!방송 시간 |- |제1밤||style="text-align:right"|2014년 8월 11일||공포\! 조사이 지부에 살인마\!? 경비원 코스기||카나이 히로||2:20 - 2:35 |- |제2밤||style="text-align:right"|2014년 8월 18일||흥미롭게도하고\! 경비원 VS 웃지 않는 아이||히라노 신||2:50 - 3:05 |- |제3밤||style="text-align:right"|2014년 8월 25일||연애는 사건의 시작? 검사 바바 레이코 등장\!||모리와키 토모노부||2:45 - 3:00 |- |제4밤||style="text-align:right"|2014년 9월 15일||어\!? 코스기가 검사에\!? 어느 남자의 이상한 꿈||메구로 유키노||2:50 - 3:05 |- |}
+
+## 각주
+
+<references/>
+
+## 외부 링크
+
+  - [HERO (2001년) - 후지 TV 프로그램 기본 정보](http://www.fujitv.co.jp/b_hp/hero/index.html)
+
+  - [HERO (2014년) - 후지 TV](https://web.archive.org/web/20141113143601/http://www.fujitv.co.jp/HERO/index.html)
+
+[분류:2001년 드라마](https://ko.wikipedia.org/wiki/분류:2001년_드라마 "wikilink") [분류:2006년 드라마](https://ko.wikipedia.org/wiki/분류:2006년_드라마 "wikilink") [분류:2014년 드라마](https://ko.wikipedia.org/wiki/분류:2014년_드라마 "wikilink") [분류:검사 드라마](https://ko.wikipedia.org/wiki/분류:검사_드라마 "wikilink") [분류:게츠쿠](https://ko.wikipedia.org/wiki/분류:게츠쿠 "wikilink") [분류:후지 TV의 스페셜 드라마](https://ko.wikipedia.org/wiki/분류:후지_TV의_스페셜_드라마 "wikilink") [분류:도쿄도를 배경으로 한 작품](https://ko.wikipedia.org/wiki/분류:도쿄도를_배경으로_한_작품 "wikilink") [분류:야마구치현을 배경으로 한 작품](https://ko.wikipedia.org/wiki/분류:야마구치현을_배경으로_한_작품 "wikilink") [분류:아기 다다시](https://ko.wikipedia.org/wiki/분류:아기_다다시 "wikilink") [분류:후쿠다 야스시 각본 작품](https://ko.wikipedia.org/wiki/분류:후쿠다_야스시_각본_작품 "wikilink") [분류:텔레비전 드라마 시리즈](https://ko.wikipedia.org/wiki/분류:텔레비전_드라마_시리즈 "wikilink")
+
+1.
+2.
+3.
+4.  [HERO](http://www.sponichi.co.jp/entertainment/yomimono/drama/2014/07_09/hero/index.html) , 스포니치 어넥스, 2014년 9월 24일 열람.
+5.

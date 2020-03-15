@@ -1,0 +1,178 @@
+> This article is converted from Wikipedia: [CR ](https://ko.wikipedia.org/wiki/CR_).
+
+
+**클루비 지 헤가타스 두 플라멩구** () 는 [리우데자네이루](../Page/리우데자네이루.md "wikilink")를 연고로 하는 [브라질](https://ko.wikipedia.org/wiki/브라질 "wikilink")의 축구단이다. [산투스 FC](https://ko.wikipedia.org/wiki/산투스_FC "wikilink"), [상파울루 FC](https://ko.wikipedia.org/wiki/상파울루_FC "wikilink"), [크루제이루 EC와](https://ko.wikipedia.org/wiki/크루제이루_EC "wikilink") 더불어 [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink")까지 브라질 전국 리그에서 단 한 번도 강등된 적이 없는 네 개 팀 중 하나이다. 이 클럽은 [1895년](https://ko.wikipedia.org/wiki/1895년 "wikilink")에 창단하였으나, 초기에는 축구가 아닌 [조정](https://ko.wikipedia.org/wiki/조정_\(스포츠\) "wikilink")() 클럽으로 태어났다. CR 플라멩구는 [1912년](https://ko.wikipedia.org/wiki/1912년 "wikilink")이 되어서야 축구를 시작했으며, 이후 브라질에서 가장 성공적인 축구단으로 성장하였다. CR 플라멩구는 [캄페오나투 브라질레이루 세리이 A에서](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A "wikilink") 다섯 차례 우승했으며, 리오데자네이루의 주리그인 [캄페오나투 카리오카에서](../Page/캄페오나투_카리오카.md "wikilink") 33회 우승, [코파 두 브라질](https://ko.wikipedia.org/wiki/코파_두_브라질 "wikilink") 3회, [인터콘티넨털컵](../Page/인터콘티넨털컵_\(축구\).md "wikilink") 1회, [코파 리베르타도레스](../Page/코파_리베르타도레스.md "wikilink") 1회 우승을 기록하고 있다.
+
+홈 경기장은 본래 [리우데자네이루](../Page/리우데자네이루.md "wikilink")의 [마라카낭 경기장으로](https://ko.wikipedia.org/wiki/이스타지우_두_마라카낭 "wikilink"), 78,838명이 수용 가능하다. [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink")부터는 임시적으로 [일랴 두 우루부를](https://ko.wikipedia.org/wiki/이스타지우_루수_브라질레이루 "wikilink") 홈 경기장으로 사용했다. [리우데자네이루](../Page/리우데자네이루.md "wikilink")를 연고로 하는 다른 구단인 [플루미넨시](../Page/플루미넨시_FC.md "wikilink"), [바스쿠 다 가마](../Page/CR_바스쿠_다_가마.md "wikilink"), [보타포구와는](https://ko.wikipedia.org/wiki/보타포구_FR "wikilink") 라이벌 관계에 있으며, [아틀레치쿠 미네이루와](https://ko.wikipedia.org/wiki/아틀레치쿠_미네이루 "wikilink") 주간(州間) 라이벌을 형성하고 있다. 또 이 구단은 과거 [브라질을](https://ko.wikipedia.org/wiki/브라질_축구_국가대표팀 "wikilink") 대표하는 스타들이었던 [자갈루](https://ko.wikipedia.org/wiki/자갈루 "wikilink"), [지지뉴](../Page/지지뉴.md "wikilink"), [가린샤](https://ko.wikipedia.org/wiki/가린샤 "wikilink"), [지쿠](https://ko.wikipedia.org/wiki/지쿠 "wikilink"), [소크라치스](../Page/소크라치스.md "wikilink"), [호마리우](../Page/호마리우.md "wikilink") 등이 거쳐간 구단으로 유명하며, [리우데자네이루](../Page/리우데자네이루.md "wikilink")뿐만 아니라, [브라질](https://ko.wikipedia.org/wiki/브라질 "wikilink")에서도 가장 인기있는 구단으로 알려져 있다.
+
+붉은색 유니폼에 검정 줄무늬는 구단의 상징이며, 전통적으로 홈 유니폼의 바지는 흰색, 양말은 검정색에 붉은 줄무늬가 들어간 형태를 띈다.
+
+CR 플라멩구는 4,000만명이라는 어마어마한 숫자의 지지자를 소유하고 있는 구단으로, [FIFA](https://ko.wikipedia.org/wiki/FIFA "wikilink")가 21세기를 맞이해 팬투표로 선정한 20세기 클럽에서 9위에 오른 바 있다. 또한 브라질에서 가장 부유한 구단 중 하나이며, [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink")에 [R$](../Page/브라질_헤알.md "wikilink")3억(약 한화 1,000억 원)의 연간 수익을 올렸다. [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") 기준 플라멩구는 R$8억(약 3,000억 원)정도로 총 자산 가치를 측정받기도 하였으며, 이는 [남아메리카](https://ko.wikipedia.org/wiki/남아메리카 "wikilink")에서 가장 높은 수치를 기록한 것이었다.
+
+## 역사
+
+### 클럽의 탄생 : 1895\~1912
+
+여섯 명의 창립자 조제 아고스치뉴 페헤이라 다 쿠냐와 마히우 스핀돌라, 네스토르 지 바후스, 아구스투 로페스, 조제 펠리스 다 쿠냐 메네시스, 펠리스베르투 라포르트는 [리우데자네이루](../Page/리우데자네이루.md "wikilink") 근방 [플라멩구](https://ko.wikipedia.org/wiki/플라멩구 "wikilink")의 *카페 라마스*에 모여 19세기 리우데자네이루의 엘리트 스포츠 클럽의 창단에 대한 논의를 지속했다. 그들은 지역 사회의 젊은 여성들과 상위 계층에게 인기가 있던 조정 클럽을 창단하기로 결정했고, [1895년](https://ko.wikipedia.org/wiki/1895년 "wikilink") [11월 17일](https://ko.wikipedia.org/wiki/11월_17일 "wikilink") 밤 플라멩구 해변에 있는 네스토르 지 바후스의 저택에서 모여 플라멩구 조정 그룹()을 창단하였다. 도밍구스 마르키스 지 아제베두가 초대 회장으로 선출되었으며, 몇 주 뒤 클럽의 명칭이 플라멩구 조정 클럽()으로 변경되었다. 플라멩구는 창단일이 11월 17일임에도 불구하고, 오늘날까지 [11월 15일에](https://ko.wikipedia.org/wiki/11월_15일 "wikilink") 창단기념일을 연례행사로 가지는데, 이는 창립자들이 구단의 창단기념행사를 브라질의 기념일과 함께하기 위해 행사일자를 일부러 변경했기 때문이다.
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Flamengo_1912.jpg "wikilink") 조정 클럽으로 시작했으나, 축구단으로 성공한 CR 플라멩구의 시작은 이러하다. 당시 [플루미넨시 FC의](../Page/플루미넨시_FC.md "wikilink") 축구 선수들이 구단의 이사회와 마찰을 빚었고, 이 선수들이 구단을 탈퇴한 일이 있었다. 주장 아우베르투 보르게르트를 필두로, 오통 지 피게이레두 바에나, 핀다루 지 카르발류 호드리게스, 이마누에우 아우구스투 네리, 이르네스투 아마란치, 아르만두 지 아우메이다, 오를란두 삼파이우 마투스, 구스타부 아돌푸 지 카르발류, 로런스 앤드류스, 아르나우두 마샤두 기마랑이스 10명의 선수들은 플라멩구 조정 클럽에 가입하기로 결정하였으며, 이는 주장 아우베르트 보르게르트가 CR 플라멩구 소속 조정 선수이기도 했기 때문이었다. [1911년](https://ko.wikipedia.org/wiki/1911년 "wikilink") [11월 8일](https://ko.wikipedia.org/wiki/11월_8일 "wikilink") CR 플라멩구는 이 선수들에 대한 영입을 허가하였으며, [12월 24일](https://ko.wikipedia.org/wiki/12월_24일 "wikilink") 플라멩구 클럽은 축구단을 창설하기까지에 이르렀다.
+
+새로운 축구단은 [후세우 해변에서](https://ko.wikipedia.org/wiki/프라이아_두_후세우 "wikilink") 훈련을 가졌으며, 점진적으로 지역 내 축구단들과 연락하여 경기를 주선하기 시작하였다. [1912년](https://ko.wikipedia.org/wiki/1912년 "wikilink") [5월 3일](https://ko.wikipedia.org/wiki/5월_3일 "wikilink") 구단의 역사적인 첫 경기가 열렸으며, [SC 망게이라를](https://ko.wikipedia.org/wiki/SC_망게이라 "wikilink") 상대로 16-2 대승을 거두었다. 이 기록은 지금까지도 이어지는 최다 득점차 승리이다. 1912년 [7월 7일에는](https://ko.wikipedia.org/wiki/7월_7일 "wikilink") 리우데자네이루의 최대 더비전으로 성장하게 될 [플루미넨시 FC와의](../Page/플루미넨시_FC.md "wikilink") 첫번째 [플라플루](https://ko.wikipedia.org/wiki/플라플루 "wikilink") 대전이 펼쳐지기도 했으며, 첫 더비전은 플루미넨시의 3-2 승리로 끝이 났다.
+
+### 아마추어 축구단 시절 : 1912\~1933
+
+[섬네일에서](https://ko.wikipedia.org/wiki/파일:1914_-_Flamengo.jpg "wikilink") 우승을 차지한 플라멩구.\]\] 창단 이후 얼마 지나지않아 CR 플라멩구는 *리가 메트로폴리타나 지 데스포르토스 테레스트레스*(, 육상 스포츠 광역권 리그)에 가입하였다. 창단 이후 첫 시즌인 1912년에 플라멩구는 리우데자네이루의 [주 리그](../Page/브라질의_주별_리그.md "wikilink") [캄페오나투 카리오카에서](../Page/캄페오나투_카리오카.md "wikilink") 준우승을 차지하는 위업을 달성했다. 이후 [1915년](https://ko.wikipedia.org/wiki/1915년 "wikilink")과 [1920년](https://ko.wikipedia.org/wiki/1920년 "wikilink") 그리고 [1921년](https://ko.wikipedia.org/wiki/1921년 "wikilink")의 캄페오나투 카리오카의 트로피를 들어올리며 빠르게 성장해 나갔다. [1925년](https://ko.wikipedia.org/wiki/1925년 "wikilink")에는 축구팀이 캄페오나투 카리오카에서 우승을 거둔 동시에, 다섯 개의 다른 스포츠 토너먼트에서 우승을 차지하는 진기록을 세웠다. [1927년](https://ko.wikipedia.org/wiki/1927년 "wikilink") [조르나우 두 브라질의](https://ko.wikipedia.org/wiki/조르나우_두_브라질 "wikilink") 주최 하에 펼쳐진 설문조사에서, CR 플라멩구는 "브라질에서 가장 사랑받는 클럽"으로 뽑혔다.
+
+### 프로화 이후 : 1934\~1955
+
+[1934년](https://ko.wikipedia.org/wiki/1934년 "wikilink") 조제 바스투스 파딜랴가 새로운 회장으로 선출되었으며, 이 무렵 구단은 대외적 홍보를 강화할 여력이 되기 시작했다. [1936년](https://ko.wikipedia.org/wiki/1936년 "wikilink") 브라질의 스타 선수 [도밍구스 다 기아와](https://ko.wikipedia.org/wiki/도밍구스_다_기아 "wikilink") [레오니다스 다 시우바를](https://ko.wikipedia.org/wiki/레오니다스_다_시우바 "wikilink") 영입했다. [1937년](https://ko.wikipedia.org/wiki/1937년 "wikilink") [헝가리](https://ko.wikipedia.org/wiki/헝가리 "wikilink")의 감독 [퀴르슈너 이지도르와](https://ko.wikipedia.org/wiki/퀴르슈너_이지도르 "wikilink") 계약을 맺었고, 공 없이 훈련하는 법과 WM 포메이션 등 당대 축구의 흐름을 구단에 이식하였다. 그럼에도 불구하고 CR 플라멩구의 무관은 12년간 지속되었는데, [1939년](https://ko.wikipedia.org/wiki/1939년 "wikilink") 캄페오나투 카리오카에서 우승을 차지하며, 무관 기록을 종식시켰다.
+
+[1942년](https://ko.wikipedia.org/wiki/1942년 "wikilink") CR 플라멩구는 세계 최초로 조직화된 서포터 그룹을 가지게 되었으며, 그들의 이름은 차랑가 루브로네그라(Charanga Rubro-Negra)로 결정되었다. 그 해부터 [1944년](https://ko.wikipedia.org/wiki/1944년 "wikilink")까지 플라멩구는 리우데자네이루의 주 리그에서 3년 연속 우승을 달성하였다. 이후 [1953년](https://ko.wikipedia.org/wiki/1953년 "wikilink")부터 [1955년](https://ko.wikipedia.org/wiki/1955년 "wikilink")까지 3년 연속 우승을 또 한번 기록하기도 하였다.
+
+### 황금기의 시작 : 1956\~1973
+
+[1961년](https://ko.wikipedia.org/wiki/1961년 "wikilink") 구단은 [토르네이우 리우-상파울루에서](https://ko.wikipedia.org/wiki/토르네이우_리우-상파울루 "wikilink") 우승을 차지했으며, [1963년](https://ko.wikipedia.org/wiki/1963년 "wikilink")과 [1965년](https://ko.wikipedia.org/wiki/1965년 "wikilink") 그리고 [1968년](https://ko.wikipedia.org/wiki/1968년 "wikilink") 캄페오나투 카리오카에서 우승을 차지하였다. 이후 브라질의 영웅 [가힌샤](../Page/가힌샤.md "wikilink")를 영입하였으나, 20경기 출전 4골에 그치며 [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink") [4월 12일](https://ko.wikipedia.org/wiki/4월_12일 "wikilink") 팀을 떠났다.
+
+CR 플라멩구는 1970년대에 세계에서 가장 성공한 클럽으로 우뚝 서고 있었다. [지쿠](https://ko.wikipedia.org/wiki/지쿠 "wikilink"), [주니오르](https://ko.wikipedia.org/wiki/레오베지우두_링스_다_가마_주니오르 "wikilink"), [레안드루와](https://ko.wikipedia.org/wiki/조제_레안드루_지_소우자_페헤이라 "wikilink") 같은 유명 선수들과 함께 거대한 업적을 쌓아 나갔다. [1970년](https://ko.wikipedia.org/wiki/1970년 "wikilink") [과나바라컵에서](https://ko.wikipedia.org/wiki/타사_과나바라 "wikilink") 우승을 차지하였으며, [1972년](https://ko.wikipedia.org/wiki/1972년 "wikilink") 과나바라컵과 캄페오나투 카리오카에서 우승, [1973년](https://ko.wikipedia.org/wiki/1973년 "wikilink") 다시 과나바라컵에서 우승을 차지하였다.
+
+### 지쿠와 황금기 : 1974\~1983
+
+[오른쪽는](https://ko.wikipedia.org/wiki/파일:Zico_2012.jpg "wikilink") 1971–83 그리고 1985–89 동안 플라멩구에서 활약했다.\]\] 빛을 발하기 시작하던 플라멩구의 전성기는 [1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink") [캄페오나투 카리오카에서의](../Page/캄페오나투_카리오카.md "wikilink") 우승을 기점으로 터지기 시작하였다. [주니오르](https://ko.wikipedia.org/wiki/레오베지우두_링스_다_가마_주니오르 "wikilink"), [카르페지아니](https://ko.wikipedia.org/wiki/파울루_세자르_카르페지아니 "wikilink"), [아질리우](https://ko.wikipedia.org/wiki/아질리우_지_올리베이라_곤사우베스 "wikilink"), [클라우지우 아당](https://ko.wikipedia.org/wiki/클라우지우_아당 "wikilink"), [치타](https://ko.wikipedia.org/wiki/미우통_케이루스_다_파이샹 "wikilink") 등 수 많은 스타 선수도 있었으나, 그 중 단연 최고는 [지코](https://ko.wikipedia.org/wiki/지코 "wikilink")였다. CR 플라멩구는 이 황금세대들과 함께 3년 연속 주 대회 우승을 차지하였고, [1980년](https://ko.wikipedia.org/wiki/1980년 "wikilink") 구단 역사상 첫번째 [캄페오나투 브라질레이루 세리이 A우승을](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A "wikilink") 차지하였다.
+
+이듬해 [코파 리베르타도레스에](../Page/코파_리베르타도레스.md "wikilink") 출격하여, [칠레](https://ko.wikipedia.org/wiki/칠레 "wikilink")의 [코브렐로아](../Page/코브렐로아.md "wikilink")를 꺾고 남미 챔피언으로 등극하였다. 이 후 [도쿄](../Page/도쿄.md "wikilink")로 날아가 [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink")의 [리버풀 FC와의](https://ko.wikipedia.org/wiki/리버풀_FC "wikilink") [인터콘티넨털컵](../Page/인터콘티넨털컵_\(축구\).md "wikilink") 경기를 치렀다. 경기는 [1981년](https://ko.wikipedia.org/wiki/1981년 "wikilink") [12월 13일에](https://ko.wikipedia.org/wiki/12월_13일 "wikilink") 치러졌으며, [하우](https://ko.wikipedia.org/wiki/하우_플라스망 "wikilink"), [레안드루](https://ko.wikipedia.org/wiki/조제_레안드루_페헤이라 "wikilink"), 마리뉴, [모제르](../Page/카를루스_모제르.md "wikilink"), [주니오르](https://ko.wikipedia.org/wiki/레오베지우두_링스_다_가마_주니오르 "wikilink"), [안드라지](https://ko.wikipedia.org/wiki/조르지_루이스_안드라지 "wikilink"), [아질리우](https://ko.wikipedia.org/wiki/아질리우_지_올리베이라_곤사우베스 "wikilink"), [누니스](https://ko.wikipedia.org/wiki/주앙_바치스타_누니스 "wikilink"), [치타](https://ko.wikipedia.org/wiki/미우통_케이루스_다_파이샹 "wikilink") 그리고 [지코](https://ko.wikipedia.org/wiki/지코 "wikilink")가 구단 역사상 가장 중요한 대회에 출격하였고, 리버풀을 상대로 3-0 승리를 따내며 영광의 순간을 누리게 되었다. 이후 1981년 리우의 주리그와 [1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink")과 [1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink") 브라질 전국 대회에서도 우승을 차지하였다.
+
+### 지쿠 시대의 종식 : 1984\~1994
+
+[1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") [지쿠](https://ko.wikipedia.org/wiki/지쿠 "wikilink")는 팀을 잠시 떠났으나, [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") 다시 플라멩구로 돌아왔으며, 당해의 [캄페오나투 카리오카에서](../Page/캄페오나투_카리오카.md "wikilink") 우승을 차지하였다. 지쿠는 플라멩구에서 통산 508골을 기록하며, 구단 역사상 최다득점자로 올라섰다. [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink") 지쿠는 플라멩구에서 선수 생활 은퇴를 선언하였다.
+
+커다란 별을 잃었음에도 불구하고, CR 플라멩구는 성공의 역사를 지속해서 써내려갔다. [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink") [고이아스 EC와의](https://ko.wikipedia.org/wiki/고이아스_EC "wikilink") [코파 두 브라질](https://ko.wikipedia.org/wiki/코파_두_브라질 "wikilink") 결승전에서 승리를 따내며 우승컵을 들어올렸고, [캄페오나투 카리오카](../Page/캄페오나투_카리오카.md "wikilink") 1991 시즌에는 5연승을 질주하기도 하면서 우승을 차지하였다. [캄페오나투 브라질레이루 세리이 A 1992](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A_1992 "wikilink") 시즌에는 [보타포구 FR을](https://ko.wikipedia.org/wiki/보타포구_FR "wikilink") 꺾고 우승을 차지하기도 하였다.
+
+### 100주년과 위기 : 1995\~2005
+
+그러나 그 이후 CR 플라멩구는 재정적 위기에 봉착하게 되었고, 주리그와 전국리그에서 불만족스러운 성적표를 들게 되었다. 그럼에도 불구하고 근근히 주리그 타이틀을 거머쥐며, 브라질 구단 중 유일하게 꾸준한 성적을 기록한 구단이 되기도 하였다. [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") CR 플라멩구는 창단 100주년을 맞이하였고, 라디오 스포츠 해설자였던 클레베르 레이치가 회장으로 추대되었다. 이후 [FC 바르셀로나로부터](../Page/FC_바르셀로나.md "wikilink") 세계적인 [스트라이커](https://ko.wikipedia.org/wiki/공격수#스트라이커 "wikilink") [호마리우](../Page/호마리우.md "wikilink")를 영입하였고, [사비우와](https://ko.wikipedia.org/wiki/사비우_보르톨리니_피멘테우 "wikilink") [이드문두를](../Page/이드문두_아우베스_지_소자_네투.md "wikilink") 영입하며 "꿈의 공격진"을 구성하였다. 그러나 이러한 꿈의 공격진과 함께 했음에도 불구하고, 구단의 100주년은 영광스러운 나날과는 거리가 있었다. 이들 공격진으로 [타사 과나바라](https://ko.wikipedia.org/wiki/타사_과나바라 "wikilink") 1회 우승을 하는 데에 그쳤으며, 라이벌 구단의 팬들은 이들을 두고 "악몽의 공격진"이라며 비아냥거리기도 하였다.
+
+그러나 [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") CR 플라멩구는 [캄페오나투 카리오카에서](../Page/캄페오나투_카리오카.md "wikilink") 무패우승을 달성하고, [타사 과나바라와](https://ko.wikipedia.org/wiki/타사_과나바라 "wikilink") [타사 리우에서](https://ko.wikipedia.org/wiki/타사_리우 "wikilink") 우승을 차지하며, 뒤늦게 그들의 100주년을 자축하였고, [코파 데 오로에서](https://ko.wikipedia.org/wiki/코파_데_오로 "wikilink") 우승하며 오랜만에 국제 대회 트로피를 들어올리기도 하였다.
+
+[1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") 이드문두 두스 산투스 시우바가 새로운 회장으로 선출되었으며, [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink")의 스포츠마케팅 회사인 [ISL과](https://ko.wikipedia.org/wiki/:en:International_Sport_and_Leisure "wikilink") 거액의 스폰서십 계약을 체결하였다. 당해에 [코파 메르코수르에서](../Page/코파_메르코수르.md "wikilink") 우승컵을 들어올렸으며, [캄페오나투 카리오카에서](../Page/캄페오나투_카리오카.md "wikilink") 우승하고, 이후 [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink")까지 3년 연속 우승에도 또 다시 성공하였다. [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink")에는 [코파 두스 캄페옹이스에서](https://ko.wikipedia.org/wiki/코파_두스_캄페옹이스 "wikilink") 우승을 차지하면서도, 전국 리그에서 불안한 경기력을 보이며 강등의 위기까지 내몰렸으나, 마지막에 [SE 파우메이라스를](../Page/SE_파우메이라스.md "wikilink") 상대로 승리를 거두며 [세리이 B로의](../Page/캄페오나투_브라질레이루_세리이_B.md "wikilink") 강등을 면하였다.
+
+그런데 [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") ISL이 파산하면서, CR 플라멩구는 거액의 파트너를 잃게되었다. 이 후 이미 늘어난 지출 수준을 감당하기 어려워지면서 이드문두 두스 산투스 시우바 회장이 회장직에서 물러났다. 그러나 허리띠를 졸라매기 시작한 플라멩구는 더 이상 큰 규모의 선수 계약을 이행하기 어려워졌고, 우승 트로피와도 점점 멀어지기 시작하였다. [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 라이벌 [CR 바스쿠 다 가마를](../Page/CR_바스쿠_다_가마.md "wikilink") 꺾고 [캄페오나투 카리오카에서](../Page/캄페오나투_카리오카.md "wikilink") 우승을 차지하기도 하였으나, [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") 구단은 역대 최악의 시기를 보내게 되었다. [캄페오나투 브라질레이루 세리이 A 2005](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A_2005 "wikilink") 시즌에는 또 다시 강등 위기를 맛보았고, [조에우 산타나](https://ko.wikipedia.org/wiki/조에우_산타나 "wikilink") 감독 아래 막판에 겨우 강등 위기에서 탈출할 수 있었다.
+
+### 새로운 도약 : 2006\~2013
+
+[오른쪽](https://ko.wikipedia.org/wiki/파일:Adriano_Leite_Ribeiro.jpg "wikilink").\]\] [캄페오나투 브라질레이루 세리이 A 2007](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A_2007 "wikilink") 시즌 플라멩구는 수 많은 승리를 거두며, 하위권에서 탈출하여 2위에 올라서기도 하였으며, 마지막에는 3위로 시즌을 마감하였다. [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink")에는 [캄페오나투 카리오카에서](../Page/캄페오나투_카리오카.md "wikilink") 우승을 차지하였으며, [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")에는 [세리이 A에서](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A_2009 "wikilink") 우승을 차지하며 구단의 여섯 번째 전국 리그 트로피를 들어올렸다.
+
+## 라이벌
+
+### 클라시쿠 두스 밀룡이스
+
+백만의 더비라는 뜻을 가진 [클라시쿠 두스 밀룡이스](https://ko.wikipedia.org/wiki/클라시쿠_두스_밀룡이스 "wikilink")()는 리우데자네이루를 대표하는 CR 플라멩구와 [CR 바스쿠 다 가마](../Page/CR_바스쿠_다_가마.md "wikilink") 간의 더비 경기를 칭한다. 두 구단은 리우데자네이루에서 가장 인기가 많으며, 1920년대부터 리우데자네이루의 상징적인 더비 매치로 꼽히고 있다.
+
+### 플라플루
+
+[플라플루](https://ko.wikipedia.org/wiki/플라플루 "wikilink")는 CR 플라멩구와 [플루미넨시 FC](../Page/플루미넨시_FC.md "wikilink") 간의 라이벌 경기를 칭하며, CR 플라멩구의 축구팀이 플루미넨시 FC에 반발심을 가지고 나온 축구 선수들로 인해 만들어진 것이 시발점이 되어 오늘날 까지 이어져 오고 있다.
+
+### 플라멩구-아틀레치쿠
+
+CR 플라멩구는 [미나스제라이스주](../Page/미나스제라이스주.md "wikilink")의 [아틀레치쿠 미네이루와도](https://ko.wikipedia.org/wiki/아틀레치쿠_미네이루 "wikilink") 라이벌 관계를 가지고 있으며, 이는 1980년대에 전국 리그와 [코파 리베르타도레스의](../Page/코파_리베르타도레스.md "wikilink") 주요 길목에서 맞닥뜨렸던 두 구단의 운명과 관계가 있다.
+
+## 현재 선수단
+
+*2017년 9월 21일 기준*     [16px](https://ko.wikipedia.org/wiki/파일:Captain_sports.svg "wikilink")
+
+## 우승 기록
+
+#### 국제 대회
+
+  - **[인터콘티넨털컵](../Page/인터콘티넨털컵_\(축구\).md "wikilink")**
+      - 우승 (1회) : 1981
+  - **[코파 리베르타도레스](../Page/코파_리베르타도레스.md "wikilink")**
+      - 우승 (1회) : 1981
+      - 준우승 (2회) : 1984, 2007
+  - **[코파 수다메리카나](../Page/코파_수다메리카나.md "wikilink")**
+      - 준우승 (2회) : [2017](https://ko.wikipedia.org/wiki/코파_수다메리카나_2017 "wikilink")
+  - **[수페르코파 수다메리카나](../Page/수페르코파_수다메리카나.md "wikilink")**
+      - 준우승 (2회) : 1993, 1995
+  - **[코파 메르코수르](../Page/코파_메르코수르.md "wikilink")**
+      - 우승 (1회) : 1999
+      - 준우승 (1회) : 2001
+  - **[코파 데 오로](https://ko.wikipedia.org/wiki/코파_데_오로 "wikilink")**
+      - 우승 (1회) : 1996
+
+#### 전국 대회
+
+  - **[캄페오나투 브라질레이루 세리이 A](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A "wikilink")**
+      - 우승 (5회) : 1980, 1982, 1983, 1992, 2009
+      - 준우승 (1회) : 1964
+  - **[코파 우니앙](https://ko.wikipedia.org/wiki/코파_우니앙 "wikilink")**
+      - 우승 (1회) : 1987
+  - **[코파 두 브라질](https://ko.wikipedia.org/wiki/코파_두_브라질 "wikilink")**
+      - 우승 (3회) : 1990, 2006, 2013
+      - 준우승 (3회) : 1997, 2003, 2004, 2017
+
+#### 주 대회
+
+  - [캄페오나투 카리오카](../Page/캄페오나투_카리오카.md "wikilink")
+      - 우승 (33회) : 1914, 1915, 1920, 1921, 1925, 1927, 1939, 1942, 1943, 1944, 1953, 1954, 1955, 1963, 1965, 1972, 1974, 1978, 1979 (C), 1979 (S), 1981, 1986, 1991, 1996, 1999, 2000, 2001, 2004, 2007, 2008, 2009, 2011, 2014, 2017
+      - 준우승 (31회): 1912, 1919, 1922, 1923, 1924, 1932, 1936, 1937, 1938, 1940, 1941, 1952, 1958, 1961, 1962, 1966, 1969, 1973, 1977, 1982, 1983, 1984, 1987, 1988, 1989, 1992, 1994, 1995, 1998, 2010, 2013
+
+<!-- end list -->
+
+  - [토르네이우 리우-상파울루](https://ko.wikipedia.org/wiki/토르네이우_리우-상파울루 "wikilink")
+      - 우승 (1회) : 1961
+      - 준우승 (2회) : 1958, 1997
+
+<!-- end list -->
+
+  - [타사 과나바라](https://ko.wikipedia.org/wiki/타사_과나바라 "wikilink")
+      - 우승 (20회) : 1970, 1972, 1973, 1978, 1979, 1980, 1981, 1982, 1984, 1988, 1989, 1995, 1996, 1999, 2001, 2004, 2007, 2008, 2011, 2014
+      - 준우승 (11회) : 1966, 1968, 1976, 1977, 1986, 1991, 1992, 1998, 2003, 2015, 2017
+
+<!-- end list -->
+
+  - [타사 리우](https://ko.wikipedia.org/wiki/타사_리우 "wikilink")
+      - 우승 (8회) : 1983, 1985, 1986, 1991, 1996, 2000, 2009, 2011
+      - 준우승 (7회) : 1992, 1993, 1997, 1999, 2001, 2005, 2010
+
+## 관중 기록
+
+### 평균 관중 기록
+
+[친선 경기를](https://ko.wikipedia.org/wiki/친선_경기 "wikilink") 포함한 CR 플라멩구의 홈 경기장 [이스타지우 두 마라카낭과](https://ko.wikipedia.org/wiki/이스타지우_두_마라카낭 "wikilink") [일랴 두 우루부에서의](https://ko.wikipedia.org/wiki/이스타지우_루수_브라질레이루 "wikilink") 평균 관중 기록이다.\[1\]\[2\]
+
+[오른쪽](https://ko.wikipedia.org/wiki/파일:Festejando_el_gol_Flamengo.jpg "wikilink")
+
+|                                          |                                             |                                          |                                             |                                          |                                             |                                          |                                      |                                          |                                                   |                      |                                             |
+| ---------------------------------------- | ------------------------------------------- | ---------------------------------------- | ------------------------------------------- | ---------------------------------------- | ------------------------------------------- | ---------------------------------------- | ------------------------------------ | ---------------------------------------- | ------------------------------------------------- | -------------------- | ------------------------------------------- |
+| <span style="color:black;">**연도**</span> | <span style="color:black;">**평균 관중**</span> | <span style="color:black;">**연도**</span> | <span style="color:black;">**평균 관중**</span> | <span style="color:black;">**연도**</span> | <span style="color:black;">**평균 관중**</span> | <span style="color:black;">**연도**</span> | <span style="color:black;">**평균 관중** | <span style="color:black;">**연도**</span> | <span style="color:black;">**평균 관중**</span>       | </span>**연도**</span> | <span style="color:black;">**평균 관중**</span> |
+| **1961**                                 | \*                                          | **1971**                                 | 35,130                                      | **1981**                                 | 45,145                                      | **1991**                                 | 35,541                               | **2001**                                 | \*                                                | **2011**             | 19,546<sup><small>4</small></sup>\[3\]      |
+| **1962**                                 | 46,427                                      | **1972**                                 | 46,408                                      | **1982**                                 | 57,156                                      | **1992**                                 | 53,958                               | **2002**                                 | \*                                                | **2012**             | 13,956<sup><small>4</small></sup>\[4\]      |
+| **1963**                                 | 54,475                                      | **1973**                                 | 42,269                                      | **1983**                                 | 44,046                                      | **1993**                                 | 19,198                               | **2003**                                 | \*                                                | **2013**             | 26,350<sup><small>4</small></sup>\[5\]      |
+| **1964**                                 | 49,854                                      | **1974**                                 | 37,931                                      | **1984**                                 | 37,956                                      | **1994**                                 | 28,290                               | **2004**                                 | 9,707<sup><small>1</small></sup>                  | **2014**             | 28,221<sup><small>4</small></sup>\[6\]      |
+| **1965**                                 | 47,572                                      | **1975**                                 | 40,758                                      | **1985**                                 | 34,657                                      | **1995**                                 | 42,335                               | **2005**                                 | 13,657<sup><small>2</small></sup>                 | **2015**             | 31,502<sup><small>4</small></sup>\[7\]      |
+| **1966**                                 | 37,894                                      | **1976**                                 | 54,015                                      | **1986**                                 | 42,689                                      | **1996**                                 | 42,153                               | **2006**                                 | 15,711                                            | **2016**             | 25,462<sup><small>4</small></sup>\[8\]      |
+| **1967**                                 | 33,931                                      | **1977**                                 | 45,584                                      | **1987**                                 | 44,715                                      | **1997**                                 | 26,465                               | **2007**                                 | 42,015                                            | **2017**             | 16,569                                      |
+| **1968**                                 | 54,676                                      | **1978**                                 | 38,226                                      | **1988**                                 | 28,547                                      | **1998**                                 | 18,127                               | **2008**                                 | 43,736                                            | **2018**             |                                             |
+| **1969**                                 | 61,157                                      | **1979**                                 | 54,606                                      | **1989**                                 | 28,898                                      | **1999**                                 | 37,141                               | **2009**                                 | 40,074<sup><small>4</small></sup>                 | **2019**             |                                             |
+| **1970**                                 | 47,980                                      | **1980**                                 | 54,268                                      | **1990**                                 | 33,617                                      | **2000**                                 | 29,329                               | **2010**                                 | 18,945<sup><small>3</small><small>4</small></sup> | **2020**             |                                             |
+
+(\*) 자료 없음.
+
+  - <sup>1</sup> 2004년 CR 플라멩구는 [이스타지우 라울리누 지 올리베이라를](https://ko.wikipedia.org/wiki/이스타지우_라울리누_지_올리베이라 "wikilink") 홈 구장으로 사용했다.
+  - <sup>2</sup> 2005년 CR 플라멩구는 [이스타지우 루수브라질레이루를](https://ko.wikipedia.org/wiki/이스타지우_루수브라질레이루 "wikilink") 홈 구장으로 사용했다.
+  - <sup>3</sup> 2010년 CR 플라멩구는 [이스타지우 두 마라카낭](https://ko.wikipedia.org/wiki/이스타지우_두_마라카낭 "wikilink"), [이스타지우 라울리누 지 올리베이라](https://ko.wikipedia.org/wiki/이스타지우_라울리누_지_올리베이라 "wikilink"), [이스타지우 올림피쿠 주앙 아벨랑지를](https://ko.wikipedia.org/wiki/이스타지우_올림피쿠_주앙_아벨랑지 "wikilink") 홈 구장으로 사용했다.
+  - <sup>4</sup> [세리이 A에서의](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A "wikilink") 평균 관중만을 집계하였다.
+
+## 각주
+
+<references/>
+
+[CR_플라멩구](https://ko.wikipedia.org/wiki/분류:CR_플라멩구 "wikilink") [분류:브라질의 축구단](https://ko.wikipedia.org/wiki/분류:브라질의_축구단 "wikilink") [플라멩구](https://ko.wikipedia.org/wiki/분류:강등된_적이_없는_축구단 "wikilink") [분류:1895년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1895년_설립된_축구단 "wikilink")
+
+1.  [Médias de Público do Flamengo no Maracanã ano a ano](http://www.flamengo.com.br/flapedia/M%C3%A9dias_de_P%C3%BAblico_do_Flamengo_no_Maracan%C3%A3_ano_a_ano)@Flapédia
+2.  [Jogos do Flamengo em 2009](http://www.flamengo.com.br/flapedia/Jogos_do_Flamengo_em_2009)
+3.
+4.
+5.
+6.
+7.
+8.

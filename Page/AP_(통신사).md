@@ -1,0 +1,32 @@
+> This article is converted from Wikipedia: [AP \(\)](https://ko.wikipedia.org/wiki/AP_\(\)).
+
+
+**미국연합통신**(美國聯合通信, )은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") 뉴욕에 위치한 다국적 [비영리](https://ko.wikipedia.org/wiki/비영리_단체 "wikilink") [통신사](https://ko.wikipedia.org/wiki/통신사 "wikilink")로, 미국에서 가장 오래된 유서깊은 최대의 통신사다. [1846년](https://ko.wikipedia.org/wiki/1846년 "wikilink") [5월](https://ko.wikipedia.org/wiki/5월 "wikilink")에 신문사와 방송국의 협동조합의 형태로 설립되었다.
+
+2005년 기준으로 미국 내의 약 5000개의 텔레비전 방송국과 라디오 방송국, 약 1700개의 신문사와 기사 제휴 계약을 맺고 있다. 그리고 전 세계에 243개의 지국을 운영하고 있고, 121개국에서 기자들이 활동하고 있다.
+
+## 개요
+
+연합통신은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 방송국이나 신문사의 협동조합이기도 하다. 미국 내 각 언론사는 연합통신을 통해서 자신의 기사를 다른 회사에 보내기도 하고, 연합통신으로부터 기사 공급을 받기도 한다. 대부분의 회원사들은 자신이 생산한 뉴스를 연합통신이 다른 회사에 배급하는 걸 특별한 절차 없이 승인해준다. [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") 국외의 방송국이나 신문사는 연합통신의 가입자일 뿐, 협동조합 회원은 아닌 만큼 요금을 내고 연합통신의 기사 서비스를 받는다. 2005년 기준으로 5천개 이상의 텔레비전 방송국과 라디오 방송국, 1천700개 이상의 신문사와 계약하고 있다. 사진 라이브러리에는 1천만개를 넘는 사진이 축적돼 있다. 연합통신은 243개의 지국을 갖고 있고, 121개국에서 세계 각국의 직원이 활동하고 있다. 연합통신의 기사 스타일북은 사실상 미국에서 기사 작성시 기준으로 간주되고 있다. 연합통신은 기사에 [사실](https://ko.wikipedia.org/wiki/사실 "wikilink")만 쓰는 스타일을 유지하고 있다. *역삼각형 기사 작성법*을 채용하는데, 이는 편집자들이 허용된 공간에 맞춰 기사를 아랫부분부터 역으로 잘라낼 수 있게 해줌으로써 윗부분에 있는 기사의 핵심을 잃지 않게 해주는 방법이다. 경쟁사였던 [UPI](https://ko.wikipedia.org/wiki/UPI "wikilink")가 1993년 쇠락한 뒤로는 연합통신은 미국내 유일한 전국 통신사이다. [로이터](https://ko.wikipedia.org/wiki/로이터 "wikilink"), [AFP](https://ko.wikipedia.org/wiki/프랑스_통신사 "wikilink") 등도 영어 뉴스를 서비스하고 있지만 이들 통신사는 미국 국외에 기반이 있다. 온라인 매체의 폭발적인 성장으로 인해 연합통신은 재정 구조상 위협을 받고 있다. 2005년 4월18일(현지시각) 연례 미팅에 즈음해 연합통신은 2006년부터 기사나 사진을 온라인에서 사용하려면 별도 사용료를 내야 한다고 발표했다. 연합통신은 후일 이 방침을 철회하고 18\~34세 고객들을 대상으로 한 *asap* 서비스를 시작했다가 2007년 10월에 중단했다. 연합통신의 미국내 사용자들은 행정부 등을 제외하고는 *미국 뉴스 미디어 길드 & 커뮤니케이션 워커스* 에 의해 대표된다.
+
+## 역사
+
+연합통신은 [1846년](https://ko.wikipedia.org/wiki/1846년 "wikilink") [5월](https://ko.wikipedia.org/wiki/5월 "wikilink")에 [유럽](https://ko.wikipedia.org/wiki/유럽 "wikilink")에서 오는 정보를 좀 더 효율적인 방법으로 수집하기 위해 공통 뉴스 소스(pool resources)를 만들려고 한 미국 신문사들에 의해 설립됐다. 이전까지 미국 신문사들은 유럽에서 온 배가 항구에 도착하면 작은 배에 탄 기자들을 그 배에 올려보내려고 경쟁을 벌였다. 신문사 소유주들은 자신들이 결국 똑같은 정보를 얻기 위해 이중, 삼중으로 비용을 지불하고 있다는 것과 한 회사를 만들어 공동으로 사용하는게 더 효율적이라는 사실을 깨달았다. 이렇게 해서 만들어진 새 회사는 *항구뉴스협회(Harbor News Association)*라고 명명됐고, 나중에 *연합통신(Associated Press)*라고 개칭됐다. *뉴욕 선*지의 발행인(publisher)이었던 *모시스 예일 비치(Moses Yale Beach)*가 이 흐름을 주도했다. 그는 *멕시코-미국 전쟁*을 취재하기 위해 다른 뉴욕의 신문 발행인들이 *뉴욕 선*지와 힘을 합쳐 새 회사에 가담해야 한다고 주장했다. 이때 *뉴욕 선*지와 협정에 가담한 뉴욕의 4개 신문사는 *저널 오브 커머스(Journal of Commerce)*, *쿠리에 & 인콰이어러(Courier and Enquirer)*, *헤럴드( Herald)*와 *익스프레스(Express)*지였다.
+
+  - [1849년](https://ko.wikipedia.org/wiki/1849년 "wikilink"):*항구 뉴스 협회*는 미국 국외인 *노바 스코티아(Nova Scotia)*의 *할리팩스(Halifax)*에 첫 지국을 개설했다. 이는 [유럽](https://ko.wikipedia.org/wiki/유럽 "wikilink")에서 오는 배가 뉴욕 항구에 도착하기 전에 배에 승선하기 위한 것이었다.
+  - [1861년](https://ko.wikipedia.org/wiki/1861년 "wikilink"): [남북전쟁](https://ko.wikipedia.org/wiki/남북전쟁 "wikilink") 취재 도중 정부 검열에 직면하게 되자, 기자들은 처음으로 이름 대신 *AP*라는 익명 *바이라인*을 사용했다.
+  - [1876년](https://ko.wikipedia.org/wiki/1876년 "wikilink"): *스트링거*이자 연합통신의 첫 특파원이었던 *마크 켈로그(Mark Kellogg)*는 *리틀 빅혼 전투(Battle of the Little Bighorn)* 취재 도중 살해됐다. 그가 마지막으로 송고한 기사는 "나는 커스터(조지 암스트롱 장군을 일컬음)와 함께 가서 죽게 될 것이다"라는 내용이었다.
+  - [1893년](https://ko.wikipedia.org/wiki/1893년 "wikilink"): *멜빌 E. 스톤(Melville E. Stone)*은 연합통신의 총지배인이 됐다. 그는 1921년까지 이 자리에 있으면서 연합통신을 세계에서 가장 영향력 있는 [통신사](https://ko.wikipedia.org/wiki/통신사 "wikilink")로 키워놓았다.
+  - [1899](https://ko.wikipedia.org/wiki/1899 "wikilink"): 연합통신은 [뉴저지주](https://ko.wikipedia.org/wiki/뉴저지주 "wikilink")[샌디훅](https://ko.wikipedia.org/wiki/샌디훅 "wikilink")에서 열린 미국 요트 경주 기사를 송신하기 위해 [굴리엘모 마르코니의](https://ko.wikipedia.org/wiki/굴리엘모_마르코니 "wikilink") 무선 전신 기술을 채용했다. 이는 신기술을 뉴스 테스트를 위해 처음으로 사용한 것이었다.
+  - [1914년](https://ko.wikipedia.org/wiki/1914년 "wikilink"):연합통신은 텔레그래프 와이어를 통해 전송된 기사가 바로 프린트되는 *텔레타이프(Teletype)*를 도입했다. 결국 1분에 60 단어를 송신하는 세계적인 텔레타이프 네트워크가 건설됐다.
+  - [1935년](https://ko.wikipedia.org/wiki/1935년 "wikilink"): 연합통신은 세계적으로 첫 사진 통신 서비스인 *와이어포토(WirePhoto)*서비스를 시작했다. 이 서비스를 통해 첫 송신된 사진은 1935년 새해 첫날에 [뉴욕](https://ko.wikipedia.org/wiki/뉴욕_시 "wikilink") *모어하우스빌(Morehouseville)*에서 일어난 비행기 추락 사고 사진이었다.
+  - [1938년](https://ko.wikipedia.org/wiki/1938년 "wikilink"): 연합통신은 [뉴욕](https://ko.wikipedia.org/wiki/뉴욕 "wikilink")에 새로 건설된 록펠러 센터 50층에 새 사무실(이른바 *50 Rock*)을 개설했다. 이 사무실은 이후 68년간 연합통신의 본사 역할을 수행했다. 연합통신 본사는 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink")에 [맨해튼](https://ko.wikipedia.org/wiki/맨해튼 "wikilink") 33번가 450 W. 더 큰 건물로 이주했다.
+  - [1941년](https://ko.wikipedia.org/wiki/1941년 "wikilink"): 연합통신은 인쇄물 외에도 라디오 방송 뉴스로 서비스 범위를 확장했다.
+  - [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink"): 연합통신은 [런던에](https://ko.wikipedia.org/wiki/런던시 "wikilink") 본부를 둔 동영상 뉴스 서비스 *APTV*를 설립했다.
+
+## 외부 링크
+
+  - [AP통신 공식 홈페이지](http://www.ap.org/)
+
+  -
+[분류:미국의 통신사](https://ko.wikipedia.org/wiki/분류:미국의_통신사 "wikilink") [분류:미국의 협동조합](https://ko.wikipedia.org/wiki/분류:미국의_협동조합 "wikilink") [분류:1846년 설립](https://ko.wikipedia.org/wiki/분류:1846년_설립 "wikilink") [분류:미국의 대중 매체](https://ko.wikipedia.org/wiki/분류:미국의_대중_매체 "wikilink") [분류:1846년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1846년_설립된_기업 "wikilink") [분류:1846년 창간](https://ko.wikipedia.org/wiki/분류:1846년_창간 "wikilink") [분류:AP (통신사)](https://ko.wikipedia.org/wiki/분류:AP_\(통신사\) "wikilink")

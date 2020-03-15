@@ -1,0 +1,58 @@
+> This article is converted from Wikipedia: [AZ ](https://ko.wikipedia.org/wiki/AZ_).
+
+
+**AZ**는 [네덜란드](https://ko.wikipedia.org/wiki/네덜란드 "wikilink") [에레디비시](../Page/에레디비시.md "wikilink")의 축구팀으로, [1967년](https://ko.wikipedia.org/wiki/1967년 "wikilink") [5월 10일에](https://ko.wikipedia.org/wiki/5월_10일 "wikilink") 설립되었다. 연고지는 [네덜란드](https://ko.wikipedia.org/wiki/네덜란드 "wikilink")의 [노르트홀란트주](https://ko.wikipedia.org/wiki/노르트홀란트주 "wikilink")에 위치한 [알크마르](https://ko.wikipedia.org/wiki/알크마르 "wikilink")이다. 정식 명칭은 AZ이지만, 유럽 대회에서는 **AZ 알크마르**로 더 잘 알려져 있다. AZ는 **알크마르 잔스트레이크**(Alkmaar Zaanstreek)의 [네덜란드어](https://ko.wikipedia.org/wiki/네덜란드어 "wikilink") 약칭이다.
+
+AZ는 [1977년](https://ko.wikipedia.org/wiki/1977년 "wikilink")부터 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink")까지 유럽 대회에서의 32번의 홈경기 무패 기록을 가지고 있었지만, [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [12월 20일에](https://ko.wikipedia.org/wiki/12월_20일 "wikilink") [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink")의 [에버턴 FC에](https://ko.wikipedia.org/wiki/에버턴_FC "wikilink") 2-3으로 패하면서 기록이 깨지고 말았다.
+
+2006년 여름에 클럽은 홈구장을 이전하여 예전의 8,400여명 규모의 경기장에서 17,000명 수용 규모의 [DSB 경기장으로](https://ko.wikipedia.org/wiki/DSB_경기장 "wikilink") 이전하였다. 2008-09시즌을 우승하면서 1981년 이후 28년 만에 리그 우승을 차지하였다.
+
+## 역대 성적
+
+  - **[에레디비시](../Page/에레디비시.md "wikilink") : 2**
+
+<!-- end list -->
+
+  -
+
+      -
+        1981, 2009
+
+<!-- end list -->
+
+  - **[에이르스터 디비시](https://ko.wikipedia.org/wiki/에이르스터_디비시 "wikilink") : 2**
+
+<!-- end list -->
+
+  -
+
+      -
+        1996, 1998
+
+<!-- end list -->
+
+  - **[KVNB컵](https://ko.wikipedia.org/wiki/KVNB컵 "wikilink") : 3**
+
+<!-- end list -->
+
+  -
+
+      -
+        1978, 1981, 1982
+
+<!-- end list -->
+
+  - **[UEFA컵](https://ko.wikipedia.org/wiki/UEFA컵 "wikilink") 준우승 : 1**
+
+<!-- end list -->
+
+  -
+
+      -
+        1981
+
+## 외부 링크
+
+  - [AZ 공식 홈페이지](http://www.az.nl/)
+
+[분류:1967년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1967년_설립된_축구단 "wikilink") [분류:네덜란드의 축구단](https://ko.wikipedia.org/wiki/분류:네덜란드의_축구단 "wikilink") [AZ_알크마르](https://ko.wikipedia.org/wiki/분류:AZ_알크마르 "wikilink")

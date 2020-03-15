@@ -1,0 +1,271 @@
+> This article is converted from Wikipedia: [OGN](https://ko.wikipedia.org/wiki/OGN).
+
+
+**OGN**은 [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [7월 24일에](https://ko.wikipedia.org/wiki/7월_24일 "wikilink") 개국한 게임 전문 방송국이다.최초의 게임대회, 최초의 야외 결승전, 최초의 온라인 방송, 최초의 위성중계 등등 OGN은 게임, 그리고 [e스포츠](https://ko.wikipedia.org/wiki/e스포츠 "wikilink")를 통해 새로운 문화를 만들어 왔다.
+
+2015년 7월 23일까지는 **온게임넷**이라는 명칭을 사용하였다.
+
+## 역사
+
+SBS TV 코미디작가였으며 [CJ E\&M](https://ko.wikipedia.org/wiki/CJ_E&M "wikilink")(구 온미디어)의 어린이 채널 [투니버스](https://ko.wikipedia.org/wiki/투니버스 "wikilink")의 기획 PD인 [황형준](https://ko.wikipedia.org/wiki/황형준 "wikilink") (現 온게임넷 본부장)은 [1998년 프랑스 월드컵때](https://ko.wikipedia.org/wiki/1998년_프랑스_월드컵 "wikilink") 축구시뮬레이션 게임으로 월드컵 경기 결과를 예측해보자는 아이디어를 고안한다. 여기에 게임의 몰입도를 높이기 위해 캐스터와 해설자를 도입하고, 16강 이후의 경기 16경기 중 12경기를 맞춰 성공하였으나 [박찬호](https://ko.wikipedia.org/wiki/박찬호 "wikilink") 등판경기에서는 예측 시뮬레이션으로 프로그램을 제작하였으나 실패하였다. 이후 이 시뮬레이션을 대신할 물건으로 [스타크래프트](https://ko.wikipedia.org/wiki/스타크래프트 "wikilink")를 선정해 그간의 실패했던 경험과 노하우를 적용하고 선수와 해설자를 모아 스타크래프트 대회를 열었다.\[1\]
+
+[1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") 애니메이션 채널 [투니버스](https://ko.wikipedia.org/wiki/투니버스 "wikilink")에서 방영된 게임 정보 프로그램인 《게임 플러스》와 [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") 스타리그의 전신인 《[99 프로게이머 코리아 오픈](https://ko.wikipedia.org/wiki/99_프로게이머_코리아_오픈 "wikilink")》(99 PKO)와 [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") 최초의 스타리그로 알려진 《[2000 하나로통신배 투니버스 스타리그](https://ko.wikipedia.org/wiki/2000_하나로통신배_투니버스_스타리그 "wikilink")》를 토대로 하여 [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [5월 22일](https://ko.wikipedia.org/wiki/5월_22일 "wikilink") 설립되어, [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [7월 24일](https://ko.wikipedia.org/wiki/7월_24일 "wikilink") 개국했다. 개국 초기에는 오후 2시부터 다음날 오전 2시까지 12시간 정도만 방영되었다.\[2\][2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [1월 1일부터](https://ko.wikipedia.org/wiki/1월_1일 "wikilink") [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") 계약만료로 온게임넷과 [MTV 코리아](https://ko.wikipedia.org/wiki/SBS_MTV "wikilink") 계약으로 아침 8시부터 낮 12시까지 [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [6월 30일까지](https://ko.wikipedia.org/wiki/6월_30일 "wikilink") 하루 4시간 분량의 MTV 프로그램을 방영\[3\] 한 적도 있다.
+
+[2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [6월](https://ko.wikipedia.org/wiki/6월 "wikilink")부터 24시간 방송을 시작했으며, 게임과 관련된 모든 프로그램을 100% 자체 제작하여 방송한다. 이와 같은 온게임넷의 각종 프로그램은 각종 시청률 기관의 조사결과, 10대와 20대 남성 시청률 1위를 한 적이 있다. [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [6월 23일](https://ko.wikipedia.org/wiki/6월_23일 "wikilink") 프로게임팀 KOR을 인수해 [온게임넷 스파키즈](https://ko.wikipedia.org/wiki/하이트_스파키즈 "wikilink")(현 [CJ 엔투스에](https://ko.wikipedia.org/wiki/CJ_엔투스 "wikilink") 흡수됨)를 창단했었다. 케이블TV와 위성방송 [KT스카이라이프](https://ko.wikipedia.org/wiki/KT스카이라이프 "wikilink") 채널 149번, [올레 TV](https://ko.wikipedia.org/wiki/올레_TV "wikilink") 채널 123번, [B TV](https://ko.wikipedia.org/wiki/B_TV "wikilink") 채널 136번, [U+ TV](https://ko.wikipedia.org/wiki/U+_TV "wikilink") 채널 96번, 위성방송(스카이라이프) 159번에서 시청할 수 있다. 스타크래프트2 프로리그, 스페셜포스2 리그, 리그오브레전드 리그, 서든어택 리그, 카트라이더 리그 등 많은 게임대회를 주로 방송하고 있다. [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink")부터 진행할 스타크래프트2와 리그오브레전드 방송을 위해 HD Live 인터넷 시청하기 서비스를 시작했다. 온게임넷은 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [3월 29일이후부터](https://ko.wikipedia.org/wiki/3월_29일 "wikilink") 진행되는 게임부터는 원래 무료였던 VOD 다시 보기 서비스에 일반 게임은 30일에 1500원, HD 서비스를 제공하는 스타크래프트 II나 리그오브레전드의 경우는 30편에 14,000원의 가격을 책정했다. [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [7월 20일부터](https://ko.wikipedia.org/wiki/7월_20일 "wikilink") HD VOD 서비스의 가격과 마찬가지로, HD Live 서비스에 30회 시청 접속 당 14,000원의 요금을 내도록 유료화 하였다. [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [12월 26일부터는](https://ko.wikipedia.org/wiki/12월_26일 "wikilink") HD VOD와 HD LIVE 서비스가 전면 무료화되었다.
+
+[2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [7월 24일](https://ko.wikipedia.org/wiki/7월_24일 "wikilink") 개국 15주년을 맞이하여 공식 사명을 'OGN'으로 변경하고 리뉴얼 런칭하였다.\[4\]
+
+## 캐치프레이즈 슬로건 변천사
+
+  - 2000년 7월 24일 \~ 2006년 12월 31일 : 가지고 노는 TV
+  - 2007년 1월 1일 \~ 2009년 12월 31일 : E스포츠의 중심
+  - 2010년 1월 1일 \~ 2010년 7월 31일 : P.L.A.Y
+  - 2010년 8월 1일 \~ 2010년 10월 31일 : It's Just a GAME
+  - 2010년 11월 1일 \~ 2011년 7월 31일 : SMART 'n GAME
+  - 2011년 8월 1일 \~ 2012년 10월 18일 : SMART 'n GAME Level up
+  - 2012년 10월 19일 \~ 2013년 8월 4일 : ORIGIN & FUTURE
+  - 2013년 8월 5일 \~ 2018년 7월 23일 : e-Sport to e-Culture
+  - 2018년 7월 24일 \~ 2019년 12월 31일 : GAME CHANGER
+  - 2020년 1월 1일 \~ 현재 : 파티모집 OGN팟\!
+
+
+\== 프로그램 ==
+
+### 리그
+
+  - 인텔 펍지 코리아 컨텐더스 리그
+
+### 오락 프로그램
+
+  - [켠김에 왕까지](https://ko.wikipedia.org/wiki/켠김에_왕까지 "wikilink")
+  - 심야의 라이브 배틀
+  - 단유기 (LoL)
+
+### 종영 프로그램
+
+  - 생방송 게임콜
+  - 생방송 PC방
+  - 생방송 비비빅(비바 빅토리)
+  - 생방송 후비고
+  - C U @ Battle.net
+  - [I LOVE STAR](https://ko.wikipedia.org/wiki/I_LOVE_STAR "wikilink")
+  - 해피 버스데이 온게임넷
+  - 스타리그 DAY
+  - 스쿨 쇼다운
+  - [스타 N 스타](https://ko.wikipedia.org/wiki/스타_N_스타 "wikilink")
+  - 동행
+  - I LOVE 온게임넷(10주년 특집)
+  - 게임박스
+  - 게임플러스 (G-People)
+  - [스타브레인](https://ko.wikipedia.org/wiki/스타브레인 "wikilink")
+  - 리얼스토리 프로게이머
+  - 전사도
+  - 스타 7224
+  - 라인업 엄 VS 김
+  - 김태형, 김정민의 경기 뒷담화
+  - 이기자\! 테란, 싸우자\! 프로토스, 나가자\! 저그
+  - PLAYPLE NOW
+  - 바투여신전
+  - e스토리
+  - 라이브배틀
+  - SD건담리그
+  - 열혈사커리그
+  - 케로로파이터 리그
+  - 스페셜포스 마스터리그
+  - e-Sports Center
+  - DO THE G
+  - 한영의 락유
+  - [티아라](https://ko.wikipedia.org/wiki/티아라 "wikilink")닷컴
+  - e-stars Seoul 2011
+  - SF 하이파이브 마스터즈
+  - 까요톱텐
+  - 고수와 하수가 만났을때.AVI
+  - 복수용달
+  - 아이템DREAM
+  - 창천동 텐트하우스
+  - 종을 울려라\! C2TOWN
+  - 스타 CSI
+  - 2009 NF LEAGUE
+  - 월드바투리그
+  - 창천리그
+  - 투혼 2010
+  - 케로로배틀
+  - 테트리스리그
+  - B 스페셜포스 11차 마스터리그
+  - 투혼2010 SSF IV
+  - 난 스타본다 시즌 1, 시즌 2, 시즌 3
+  - 국가대표
+  - [용선생의 매너파일런](https://ko.wikipedia.org/wiki/용선생의_매너파일런 "wikilink")
+  - G마켓 마구마구 프로리그
+  - HOT6 카스온라인 동아시아대회
+  - 온게임넷 2010 NF League
+  - 레알전투\! 배틀스타
+  - 셔틀탈출기 내가 용자라니\!\!
+  - [SF 프로리그](https://ko.wikipedia.org/wiki/프로리그_\(스페셜포스\) "wikilink")
+  - [카스온라인 리그](https://ko.wikipedia.org/wiki/카운터-스트라이크_온라인 "wikilink")
+  - 캐\!공감\!프로젝트,퀘이크하다가...
+  - [용선생의 매너파이터](https://ko.wikipedia.org/wiki/용선생의_매너파이터 "wikilink")
+  - 2000 컬렉션
+  - [돌아온 뒷담화](https://ko.wikipedia.org/wiki/스타뒷담화 "wikilink")
+  - 드리머
+  - 배틀Feel걸
+  - 스페셜걸스주니어시즌2
+  - 성캐의 야(夜)생중계 - 7차 던파걸 서바이벌 오디션
+  - [아발론](https://ko.wikipedia.org/wiki/아발론_온라인 "wikilink") 리그
+  - 서든어택 슈퍼리그
+  - 카오스 클랜 배틀
+  - 양민이 뿔났다
+  - 스페셜걸스 시즌3 G5
+  - 온게임넷 랭킹쇼 시즌1, 시즌2
+  - 하트비트 메가폰
+  - [신애와 밤샐기세.scx](https://ko.wikipedia.org/wiki/신애와_밤샐기세.scx "wikilink")
+  - 황혼에서 새벽까지
+  - 온게임넷 어워즈
+  - 크리에이티브 던파
+  - IeSF 벨로스터HD 국가대표 선발전
+  - 슈퍼앱코리아\!
+  - 양민이 뿔났다
+  - 내가 니 앱이다\! 시즌 1, 시즌 2, 시즌 3
+  - 게임톡
+  - [던전앤파이터 리그](https://ko.wikipedia.org/wiki/던전앤파이터_리그 "wikilink")
+  - [사이퍼즈](https://ko.wikipedia.org/wiki/사이퍼즈 "wikilink") 리그
+  - 대한민국 게임상황실 GP
+  - 스마트 IT 수다
+  - [TEKKEN BUSTERS](https://ko.wikipedia.org/wiki/TEKKEN_BUSTERS "wikilink")
+  - G맨 게임종결자 시즌 1, 시즌 2, 시즌 3
+  - 탕탕탕 강예빈이 쏜다
+  - [박완규의 스2라이크](https://ko.wikipedia.org/wiki/박완규의_스2라이크 "wikilink")
+  - Directors\! 시즌 1, 시즌 2
+  - 김정민의 스팀팩SC2
+  - Hello SA SUDDEN ATTACK
+  - 기사님올라잇:사이퍼즈
+  - [카트라이더 리그](https://ko.wikipedia.org/wiki/카트라이더_리그 "wikilink")
+  - 레알귀농스쿨
+  - 728호 아저씨의 게임이야기
+  - 월드오브탱크 DEAD OR ALIVE
+  - LOL 서머레슨
+  - [SK planet 스타 프로리그 12-13](https://ko.wikipedia.org/wiki/스타크래프트_프로리그 "wikilink")
+  - [스타리그](https://ko.wikipedia.org/wiki/스타리그 "wikilink")
+  - 더 테스터
+  - 카스2 임진왜란
+  - [한판만](../Page/한판만.md "wikilink") 시즌 1, 시즌 2
+  - TG 삼보 Intel A.V.A 오픈챌린지
+  - 도타 2나잇
+  - [더 지니어스: 룰 브레이커](../Page/더_지니어스:_룰_브레이커.md "wikilink") 비하인드
+  - 갤럭시노트3배 전국민 모두의마블 대회
+  - 하스스톤: 아옳옳옳
+  - [WCG](https://ko.wikipedia.org/wiki/월드_사이버_게임즈 "wikilink")
+  - 하스스톤 인비테이셔널
+  - 롤챔스 코멘터리
+  - 액션토너먼트 던전앤파이터 & 사이퍼즈
+  - YES GAME TALK
+  - In & Out 시즌 1, 시즌 2, 시즌 3, 시즌 4
+  - [스타행쇼](../Page/스타행쇼.md "wikilink") 시즌 1, 시즌 2, 시즌 3, 시즌 4, 시즌 5
+  - 클템의 夜한 방
+  - [LOL Night Show - 나는 캐리다](https://ko.wikipedia.org/wiki/LOL_Night_Show_-_나는_캐리다 "wikilink")
+  - [하스스톤 아옳옳옳](../Page/하스스톤_아옳옳옳.md "wikilink")
+  - 권이슬의 심해탈출기
+  - [LoL 마스터즈](https://ko.wikipedia.org/wiki/LoL_마스터즈 "wikilink")
+  - 히로인 오브 더 스톰
+  - 간만에 스타 뒷담화
+  - 왓따\! 풍선껌크게불기 챔피언쉽 시즌 1, 시즌 2, 시즌 3, 시즌 4
+  - [대배틀](https://ko.wikipedia.org/wiki/대배틀 "wikilink")
+  - 소원의 섬 캐릭아일랜드 시즌 1, 시즌 2, 시즌 3, 시즌 4 (투니버스와 공동 방영)
+  - [소닉 스타리그](https://ko.wikipedia.org/wiki/소닉_스타리그 "wikilink")
+  - 만년다이아 이슬이를 부탁해
+  - True LoL Show - 트롤쇼
+  - 백발백중 챌린지
+  - 정복자들
+  - 지구를 지켜라
+  - [하스스톤 마스터즈 코리아](../Page/하스스톤_마스터즈_코리아.md "wikilink")
+  - [히어로즈 오브 더 스톰](../Page/히어로즈_오브_더_스톰.md "wikilink") 슈퍼리그
+  - [한판만](../Page/한판만.md "wikilink")
+  - 워치맨 EXPANSION
+  - 붉은 수염의 비밀 : 파이러츠워
+  - 퍼펙트 센스 VR
+  - PSS 부트캠프
+  - 게임플러스
+  - 리그 오브 레전드 챔피언스 코리아
+  - 오버워치 APEX
+  - 월드 오브 탱크 리그
+
+## 관련 방송인
+
+  - 현 온게임넷 출연 방송인
+      - [전용준](../Page/전용준.md "wikilink") 캐스터
+      - [이동진](https://ko.wikipedia.org/wiki/이동진_\(방송인\) "wikilink") 캐스터
+      - [정소림](https://ko.wikipedia.org/wiki/정소림 "wikilink") 캐스터
+      - [박상현](https://ko.wikipedia.org/wiki/박상현_\(1981년\) "wikilink") 캐스터
+      - [김의중](https://ko.wikipedia.org/wiki/김의중 "wikilink") 캐스터
+      - [허준](https://ko.wikipedia.org/wiki/허준 "wikilink") 캐스터
+      - [김정민](https://ko.wikipedia.org/wiki/김정민_\(1982년\) "wikilink") 해설위원
+      - [박태민](https://ko.wikipedia.org/wiki/박태민_\(프로게이머\) "wikilink") 해설위원
+      - [김동준](https://ko.wikipedia.org/wiki/김동준_\(1981년\) "wikilink") 해설위원
+      - [이현우](../Page/이현우_\(프로게이머\).md "wikilink") 해설위원
+      - [오성균](https://ko.wikipedia.org/wiki/오성균 "wikilink") 해설위원
+      - [박용욱](https://ko.wikipedia.org/wiki/박용욱 "wikilink") 해설위원
+
+<!-- end list -->
+
+  - 아나운서
+      - [최은강](https://ko.wikipedia.org/wiki/최은강 "wikilink")
+
+<!-- end list -->
+
+  - 전 온게임넷 출연 방송인
+      - [정일훈](https://ko.wikipedia.org/wiki/정일훈_\(게임_해설가\) "wikilink") 캐스터
+      - 최상용 캐스터
+      - 한상균 캐스터
+      - [성문규](../Page/성문규.md "wikilink") 캐스터
+      - [김철민](https://ko.wikipedia.org/wiki/김철민_\(방송인\) "wikilink") 캐스터
+      - [성승헌](https://ko.wikipedia.org/wiki/성승헌 "wikilink") 캐스터
+      - 임동석 캐스터
+      - [김창선](https://ko.wikipedia.org/wiki/김창선 "wikilink") 해설위원
+      - [김동수](https://ko.wikipedia.org/wiki/김동수_\(프로게이머\) "wikilink") 해설위원
+      - [정준](https://ko.wikipedia.org/wiki/정준 "wikilink") 해설위원
+      - [주훈](https://ko.wikipedia.org/wiki/주훈 "wikilink") 해설위원
+      - [유대현](https://ko.wikipedia.org/wiki/유대현 "wikilink") 해설위원
+      - [손대영](https://ko.wikipedia.org/wiki/손대영 "wikilink") 해설위원
+      - [박현규](../Page/박현규.md "wikilink") 해설위원
+      - [김대겸](https://ko.wikipedia.org/wiki/김대겸 "wikilink") 해설위원
+      - [복한규](../Page/복한규.md "wikilink") 해설위원
+      - 이준행 해설위원
+      - 정노철 해설위원
+      - [김태형](https://ko.wikipedia.org/wiki/김태형_\(해설자\) "wikilink") 해설위원
+      - [엄재경](https://ko.wikipedia.org/wiki/엄재경 "wikilink") 해설위원
+      - [정인호](https://ko.wikipedia.org/wiki/정인호_\(방송인\) "wikilink") 해설위원
+      - [이승원](https://ko.wikipedia.org/wiki/이승원_\(방송인\) "wikilink") 해설위원
+      - [강민](https://ko.wikipedia.org/wiki/강민_\(프로게이머\) "wikilink") 해설위원
+      - [온상민](https://ko.wikipedia.org/wiki/온상민 "wikilink") 해설위원
+      - [정준](https://ko.wikipedia.org/wiki/정준_\(1983년\) "wikilink") 해설위원
+      - [정우서](https://ko.wikipedia.org/wiki/정우서 "wikilink") 해설위원
+      - [길수현](https://ko.wikipedia.org/wiki/길수현 "wikilink")
+      - [장영란](https://ko.wikipedia.org/wiki/장영란 "wikilink")
+      - [송지영](https://ko.wikipedia.org/wiki/송지영 "wikilink")
+      - [신주현](https://ko.wikipedia.org/wiki/신주현 "wikilink")
+      - [조은정](https://ko.wikipedia.org/wiki/조은정 "wikilink") 아나운서
+
+## 같이 보기
+
+  - [하이트 스파키즈](https://ko.wikipedia.org/wiki/하이트_스파키즈 "wikilink")(온게임넷 스파키즈) : 온게임넷이 창단한 [스타크래프트](https://ko.wikipedia.org/wiki/스타크래프트 "wikilink"), [스페셜 포스](https://ko.wikipedia.org/wiki/스페셜_포스 "wikilink") 프로게임단, [하이트 맥주의](https://ko.wikipedia.org/wiki/하이트_맥주 "wikilink") 네이밍 스폰서로 인해 팀명이 한 차례 바뀌었었고 2010년 10월 [CJ 엔투스에](https://ko.wikipedia.org/wiki/CJ_엔투스 "wikilink") 의해 합병되었다.
+  - [용산 e스포츠 스타디움](https://ko.wikipedia.org/wiki/용산_e스포츠_스타디움 "wikilink") : 2006년 8월부터 2016년 4월 16일까지 [한국e스포츠협회](https://ko.wikipedia.org/wiki/한국e스포츠협회 "wikilink")로부터 임차하여 사용한 OGN의 주 경기장이다.
+  - [서울 OGN e스타디움](../Page/서울_OGN_e스타디움.md "wikilink") : 2016년 4월 30일 개장한 OGN의 주 경기장이다.
+
+## 각주
+
+<references/>
+
+## 외부 링크
+
+  - [OGN 홈페이지](https://web.archive.org/web/20141119061234/http://ch.interest.me/ongamenet)
+  - [OGN 공식 트위터](https://www.twitter.com/ognlive)
+  - [OGN 공식 유튜브](https://www.youtube.com/TVOngamenet)
+  - [OGN 공식 블로그](http://blog.naver.com/ongamenettv)
+  - [OGN 공식 페이스북](https://www.facebook.com/ongamenettv)
+
+[분류:CJ ENM의 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:CJ_ENM의_텔레비전_네트워크 "wikilink") [분류:게임 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:게임_텔레비전_네트워크 "wikilink") [분류:2000년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2000년_설립된_텔레비전_방송국과_채널 "wikilink") [분류:2015년 폐지된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2015년_폐지된_텔레비전_방송국과_채널 "wikilink")
+
+1.
+2.
+3.
+4.

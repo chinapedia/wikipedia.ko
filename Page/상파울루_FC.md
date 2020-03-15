@@ -1,0 +1,173 @@
+> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+
+
+**상파울루 푸테보우 클루비**()는 보통 **상파울루 FC** 또는 **상파울루**라고 불리는 [브라질](https://ko.wikipedia.org/wiki/브라질 "wikilink")의 축구 클럽으로, [상파울루](../Page/상파울루.md "wikilink")를 연고로 한다. 구단은 브라질 전국리그인 [브라질레이랑과](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A "wikilink") 상파울루의 주리그인 [파울리스탕에](../Page/캄페오나투_파울리스타.md "wikilink") 참여하고 있다. 처음 설립된 것은 [1930년](https://ko.wikipedia.org/wiki/1930년 "wikilink") [1월 25일이나](https://ko.wikipedia.org/wiki/1월_25일 "wikilink"), [1935년](https://ko.wikipedia.org/wiki/1935년 "wikilink") [12월 16일에](https://ko.wikipedia.org/wiki/12월_16일 "wikilink") 재설립되었다.
+
+상파울루는 브라질에서 세 번째로 가장 인기있는 클럽으로, 2,800만명 이상의 지지자를 소유하고 있다. 또, 이 팀은 브라질에서 가장 성공한 클럽중 하나로, 국내 대회와 세계 대회에서 여러 차례 뛰어난 성적을 보여준 바 있다. 이 클럽은 과거 [인터콘티넨털컵을](../Page/인터콘티넨털컵_\(축구\).md "wikilink") 2번, [FIFA 클럽 월드컵을](../Page/FIFA_클럽_월드컵.md "wikilink") 3번 제패한 적이 있으며, [코파 리베르타도레스를](../Page/코파_리베르타도레스.md "wikilink") 3번, [브라질 1부리그를](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A "wikilink") 6번 제패한 경력을 가지고 있다. 그 밖에 강팀들이 즐비한 상파울루 주 선수권에서도 22회나 우승하는 등, 상파울루 주뿐만 아니라, [브라질](https://ko.wikipedia.org/wiki/브라질 "wikilink")을 대표하는 명문 축구 클럽중 하나로 알려져 있다.
+
+홈 경기장은 **[시세루 폼페우 지 톨레두 스타디움](https://ko.wikipedia.org/wiki/이스타지우_두_모룸비 "wikilink")** (별칭은 *모룸비*)으로, 수용 인원은 67,052명이다. 유니폼은 하얀 바탕에 각각 빨간색과 검정색의 수평 줄무늬로 이루어져 있으며, 짧고 하얀 양말을 착용한다. 하양과 검정, 빨강의 세가지 색을 두고 삼색 군단(, *트리콜로르*)이라는 애칭으로 불린다.
+
+## 역사
+
+### 구단의 창단 : 1930년대
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:SPFC_squad_-_1931_-_02.jpg "wikilink") 상파울루 FC는 [1930년](https://ko.wikipedia.org/wiki/1930년 "wikilink") [1월 25일](https://ko.wikipedia.org/wiki/1월_25일 "wikilink") [CA 파울리스타누와](https://ko.wikipedia.org/wiki/CA_파울리스타누 "wikilink") [AA 다스 파우메이라스로부터](https://ko.wikipedia.org/wiki/AA_다스_파우메이라스 "wikilink") 60명의 관계자, 선수들이 모여 창단되었다. CA 파울리스타누는 [1900년](https://ko.wikipedia.org/wiki/1900년 "wikilink")에 창단되어, 상파울루의 가장 오래된 스포츠 클럽이었다. 상파울루에서 챔피언 자리에 11회나 올랐으나, 스포츠의 프로화 이후 축구 산업을 포기하였다. 상파울루 FC는 CA 파울리스타누로부터 축구 선수를, AA 다스 파우메이라스로부터 경기장을 얻어내며 창단되었다. 구단의 상징색은 앞선 두 구단의 것을 차용하였다. AA 다스 파우메이라스의 상징인 가슴팍의 검은줄에, CA 파울리스타누의 빨강과 검정을 섞어서 오늘날까지 이르고 있다.
+
+구단의 역사적인 첫 경기는 [1930년](https://ko.wikipedia.org/wiki/1930년 "wikilink") [3월 16일](https://ko.wikipedia.org/wiki/3월_16일 "wikilink") [CA 이피랑가와의](https://ko.wikipedia.org/wiki/CA_이피랑가 "wikilink") 0-0 무승부 경기였으며, CA 파울리스타누의 스타 선수였던 [루벤스 살리스](https://ko.wikipedia.org/wiki/루벤스_살리스 "wikilink") 감독하에 치러졌다. 같은 해 [주리그에서](../Page/캄페오나투_파울리스타.md "wikilink") 준우승을 차지했으며, 이듬해인 [1931년](https://ko.wikipedia.org/wiki/1931년 "wikilink")에는 26경기 동안 92득점과 단 1패만을 기록하며 주리그에서 우승을 차지했다.
+
+[1933년](https://ko.wikipedia.org/wiki/1933년 "wikilink") 상파울루 FC는 공식적으로 프로화로 전환하였다. 프로화 이후 첫 공식 경기는 [1933년](https://ko.wikipedia.org/wiki/1933년 "wikilink") [3월 12일](https://ko.wikipedia.org/wiki/3월_12일 "wikilink") 치러진 [산투스 FC와의](https://ko.wikipedia.org/wiki/산투스_FC "wikilink") [친선 경기였으며](https://ko.wikipedia.org/wiki/친선_경기 "wikilink"), 상파울루의 5-1 승리로 종료되었다. 프로화 이후 재정적인 문제가 발생하였으며, 이에 상파울루 FC는 같은 도시에 있던 [CR 치에테를](https://ko.wikipedia.org/wiki/CR_치에테 "wikilink") 흡수 합병하였다. 치에테와의 합병 이후 구단의 창립자들이 구단을 재창단하는 데에 뜻을 모았으며, [12월 16일](https://ko.wikipedia.org/wiki/12월_16일 "wikilink") 구단은 재창단되었다. 재창단 이후 첫 경기는 [1936년](https://ko.wikipedia.org/wiki/1936년 "wikilink") [1월 25일](https://ko.wikipedia.org/wiki/1월_25일 "wikilink") [포르투게자 산치스타와의](https://ko.wikipedia.org/wiki/AA_포르투게자_\(산투스\) "wikilink") 경기였다. [1938년](https://ko.wikipedia.org/wiki/1938년 "wikilink") 구단은 [CA 이스투단치스 파울리스타와](https://ko.wikipedia.org/wiki/CA_이스투단치스_파울리스타 "wikilink") 또 한차례 합병을 하였다. 해당 연도에 구단은 주리그에서 준우승을 차지하였다.
+
+### 폭주 기관차 : 1940년대
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:SPFC_squad_-_1936_-_01.jpg "wikilink") [1940년](https://ko.wikipedia.org/wiki/1940년 "wikilink") [이스타지우 두 파카엠부가](../Page/이스타지우_두_파카엠부.md "wikilink") 개장하며, [상파울루주](../Page/상파울루주.md "wikilink")는 새로운 시대를 맞이하였다. 상파울루 FC는 [1941년](https://ko.wikipedia.org/wiki/1941년 "wikilink") 주리그에서 또다시 준우승을 차지하였다. 이듬해 상파울루 FC는 [아타르비오라루스로부터](../Page/CR_플라멩구.md "wikilink") [R$](../Page/브라질_헤알.md "wikilink")200(오늘날 약 R$162,000의 가치에 해당)을 지불하며, [포로사](https://ko.wikipedia.org/wiki/포로사 "wikilink") 선수를 영입했다. 또한 [아르헨티나의](https://ko.wikipedia.org/wiki/아르헨티나_축구_국가대표팀 "wikilink") [안토니오 사스트레](https://ko.wikipedia.org/wiki/안토니오_사스트레 "wikilink"), [브라질의](https://ko.wikipedia.org/wiki/브라질_축구_국가대표팀 "wikilink") [노로냐와](https://ko.wikipedia.org/wiki/아우프레두_에두아르두_바헤투_지_프레이타스_노로냐 "wikilink") [바우에르](https://ko.wikipedia.org/wiki/조제_카를루스_바우에르 "wikilink") 등을 영입하며, 막강한 스쿼드를 갖추었다. 그들은 *폭주 기관차*라는 새로운 별명을 얻었으며, 파울리스타 주리그에서 [1943년](https://ko.wikipedia.org/wiki/1943년 "wikilink"), [1945년](https://ko.wikipedia.org/wiki/1945년 "wikilink"), [1946년](https://ko.wikipedia.org/wiki/1946년 "wikilink"), [1948년](https://ko.wikipedia.org/wiki/1948년 "wikilink") 그리고 [1949년](https://ko.wikipedia.org/wiki/1949년 "wikilink"), 총 5차례 우승을 차지하였다. 이후 구단은 새로운 경기장을 세우는 계획을 수립하였다.
+
+### 정체기 : 1950년대
+
+[섬네일와](https://ko.wikipedia.org/wiki/파일:Leônidas_da_Silva_and_Arthur_Friedenreich_01.jpg "wikilink") [아르투르 프리덴라이히](../Page/아르투르_프리덴라이히.md "wikilink")\]\] 1940년대의 성공과 달리, 구단의 50년대는 밝지 않았다. 상파울루 FC는 주리그에서 [1953년](https://ko.wikipedia.org/wiki/1953년 "wikilink")과 [1957년](https://ko.wikipedia.org/wiki/1957년 "wikilink")에 단 두 차례만 우승을 하였다. 이 시기 동안 구단은 [산투스 FC의](https://ko.wikipedia.org/wiki/산투스_FC "wikilink") [펠레](https://ko.wikipedia.org/wiki/펠레 "wikilink")를 막는데 고군분투하였다. [1952년](https://ko.wikipedia.org/wiki/1952년 "wikilink") 착공을 시작한 [모룸비 경기장이](https://ko.wikipedia.org/wiki/이스타지우_두_모룸비 "wikilink") 완공되기 까지, 구단은 13년이라는 역사상 가장 긴 기간 동안 무관으로 한 시대를 보냈다. 실제로 상파울루 FC의 예산은 모룸비의 건설에 집중되어 있었으며, 새로운 선수들을 수급하는 데에는 버거움이 있었다.
+
+### 모룸비 개장 : 1960년대
+
+빡빡한 예산을 가지고 있었던 상파울루 FC이지만, 60년대엔 그럭저럭 선수들을 수급하였다. 당시 [브라질](https://ko.wikipedia.org/wiki/브라질_축구_국가대표팀 "wikilink") 대표였던 [호베르투 디아스와](https://ko.wikipedia.org/wiki/호베르투_디아스 "wikilink") [주란디르를](https://ko.wikipedia.org/wiki/주란디르_지_프레이타스 "wikilink") 영입하는 데에 성공하였다. [1960년](https://ko.wikipedia.org/wiki/1960년 "wikilink")에 [모룸비 경기장이](https://ko.wikipedia.org/wiki/이스타지우_두_모룸비 "wikilink") 개장하였으며, 당시 구단 회장이었으나 완공 이전에 사망한 "시세루 폼피우 지 톨레두"의 이름을 따 [이스타지우 시세루 폼페우 지 톨레두라](https://ko.wikipedia.org/wiki/이스타지우_두_모룸비 "wikilink") 공식 명칭이 붙여졌다. [1963년](https://ko.wikipedia.org/wiki/1963년 "wikilink")에는 펠레의 [산투스 FC를](https://ko.wikipedia.org/wiki/산투스_FC "wikilink") 상대로 4-1로 대승을 거둔 적도 있다. [섬네일](https://ko.wikipedia.org/wiki/파일:Cicero_pompeu_de_toledo_-_panoramic_-_01.jpg "wikilink")\]\]
+
+### 전국 리그 참가 : 1970년대
+
+[1970년](https://ko.wikipedia.org/wiki/1970년 "wikilink")에 [모룸비 경기장이](https://ko.wikipedia.org/wiki/이스타지우_두_모룸비 "wikilink") 마침내 완공되었으며, 구단은 새로운 출발을 기대하였다. [1954년 FIFA 월드컵의](https://ko.wikipedia.org/wiki/1954년_FIFA_월드컵 "wikilink") [브라질 대표팀](https://ko.wikipedia.org/wiki/브라질_축구_국가대표팀 "wikilink") 감독을 맡았던 [제제 모헤이라가](https://ko.wikipedia.org/wiki/제제_모헤이라 "wikilink") 감독직을 맡았고, [보타포구로부터](https://ko.wikipedia.org/wiki/보타포구_FR "wikilink") [제르송을](https://ko.wikipedia.org/wiki/제르송_지_올리베이라_누니스 "wikilink") 영입, [페냐롤](../Page/페냐롤.md "wikilink")로부터 [우루과이의](../Page/우루과이_축구_국가대표팀.md "wikilink") [미드필더](../Page/미드필더.md "wikilink") [페드로 로차](https://ko.wikipedia.org/wiki/페드로_로차 "wikilink"), [산투스로부터](https://ko.wikipedia.org/wiki/산투스_FC "wikilink") [스트라이커](https://ko.wikipedia.org/wiki/공격수#스트라이커 "wikilink") [토니뉴 게레이루를](https://ko.wikipedia.org/wiki/토니뉴_게레이루 "wikilink") 영입하였다. 상파울루 FC는 해당 연도 파울리스타 주리그 우승을 차지하였다.
+
+[1971년](https://ko.wikipedia.org/wiki/1971년 "wikilink") 브라질 전국리그가 개막하였다. 리그 첫 해 당시 상파울루 FC는 [텔레 산타나](../Page/텔레_산타나.md "wikilink") 감독하에 [아틀레치쿠 미네이루의](https://ko.wikipedia.org/wiki/아틀레치쿠_미네이루 "wikilink") 뒤를 이어 준우승을 차지하였다. 이 시기에 펠레의 [산투스가](https://ko.wikipedia.org/wiki/산투스_FC "wikilink") 점차 저물고, 상파울루 FC와 [파우메이라스가](../Page/SE_파우메이라스.md "wikilink") 그들을 뛰어 넘기 시작하였다. 상파울루 주의 최강자는 [코린치앙스가](https://ko.wikipedia.org/wiki/SC_코린치앙스_파울리스타 "wikilink") 우뚝 서게 되었다. 상파울루 FC는 [1972년](https://ko.wikipedia.org/wiki/1972년 "wikilink") 주리그에서 단 1점차로 밀려 파우메이라스에게 타이틀을 넘겨주게 되었다. [1974년](https://ko.wikipedia.org/wiki/1974년 "wikilink") [코파 리베르타도레스](../Page/코파_리베르타도레스.md "wikilink") 결승전에서는 [인데펜디엔테에게](../Page/CA_인데펜디엔테.md "wikilink") 패배하며 준우승을 차지하였다.
+
+[1975년](https://ko.wikipedia.org/wiki/1975년 "wikilink") 브라질의 전 [골키퍼](https://ko.wikipedia.org/wiki/골키퍼 "wikilink")였던 [조제 포이가](https://ko.wikipedia.org/wiki/조제_포이 "wikilink") 감독으로 선임되었다. 해당 연도 상파울루 FC는 [포르투게자를](https://ko.wikipedia.org/wiki/아소시아상_포르투게자_지_제스포르투스 "wikilink") 꺾고 우승을 차지하였다. [1977년](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A_1977 "wikilink") 마침내 상파울루 FC가 브라질 전국 대회에서 우승을 차지하였다. 그러나 그 이후 80년대가 되기 전 까지, 구단은 아무런 트로피도 들지 못하였다.
+
+### 삼색 군단의 시대 : 1980년대
+
+1980년대에 상파울루 FC는 주리그에서 4차례, 전국리그에서 한 차례 우승을 차지하였다. 당시 우승의 일등 공신으로는 중원을 책임진 [오스카르와](https://ko.wikipedia.org/wiki/조제_오스카르_베르나르지 "wikilink") [다리오 페레이라](https://ko.wikipedia.org/wiki/다리오_페레이라 "wikilink") 두 명이 꼽힌다. 파울리스타 주리그에서 [1980년](https://ko.wikipedia.org/wiki/1980년 "wikilink")과 [1981년](https://ko.wikipedia.org/wiki/1981년 "wikilink") 2회 연속 우승을 차지하며, 이는 40년대 이후 처음으로 이룬 대회 연속 우승이었다.
+
+[1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink") [실리뉴](https://ko.wikipedia.org/wiki/실리뉴 "wikilink") 감독 하에 구단은 또다시 주리그 우승을 차지하였다. 당시 핵심 선수는 [카레카](../Page/카레카.md "wikilink")로, [1986년 FIFA 월드컵에](https://ko.wikipedia.org/wiki/1986년_FIFA_월드컵 "wikilink") [브라질 대표팀의](https://ko.wikipedia.org/wiki/브라질_축구_국가대표팀 "wikilink") [중앙 공격수로](https://ko.wikipedia.org/wiki/공격수#중앙_공격수 "wikilink") 출전하기도 하였다. [이탈리아](https://ko.wikipedia.org/wiki/이탈리아 "wikilink")의 축구팀 [AS 로마로부터](../Page/AS_로마.md "wikilink") 영입한 [미드필더](../Page/미드필더.md "wikilink") [파우캉은](https://ko.wikipedia.org/wiki/파울루_호베르투_파우캉 "wikilink") 구단에서 매우 중요한 역할을 맡았으며, [1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink")과 [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") 주리그 우승에 크게 공헌하였다. [1986년](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A_1986 "wikilink") [페페](https://ko.wikipedia.org/wiki/페페_\(1935년\) "wikilink") 감독 하에 구단 역사상 두번째로 전국 리그를 제패하였다. [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink") 핵심 선수인 다리오 페레이라가 팀을 떠났지만, 상파울루 FC는 계속해서 트로피를 수집하였다. 87년에 주리그에서 우승을 차지하였으며, [1989년](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A_1989 "wikilink") 전국 리그에서 준우승을 차지하며 80년대 황금기를 마무리지었다.
+
+### 텔레 시대 : 1990년대
+
+[섬네일의](https://ko.wikipedia.org/wiki/파일:Telê_Santana_da_Silva_01.jpg "wikilink") 모습\]\] [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink") 구단은 주리그 초반, 깜짝 놀랄만큼 빈약한 경기력을 선보였다. 이에 구단은 [텔레 산타나를](../Page/텔레_산타나.md "wikilink") 감독으로 취임시켰으며, [1990년](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A_1990 "wikilink") 전국 리그 준우승을 차지하였다. [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink") 주리그에서 우승을 차지하였으며, 이는 텔레 산타나 본인에게 첫 트로피였다. [1991년](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A_1991 "wikilink") 전국 리그에서도 [카를루스 아우베르투 파헤이라의](https://ko.wikipedia.org/wiki/카를루스_아우베르투_파헤이라 "wikilink") [CA 브라간치누를](https://ko.wikipedia.org/wiki/CA_브라간치누 "wikilink") 격파하며 우승을 차지하였다. 이 후 구단은 성공가도를 달리기 시작하였다.
+
+[1992년에](../Page/1992년_코파_리베르타도레스.md "wikilink") [코파 리베르타도레스](../Page/코파_리베르타도레스.md "wikilink") 결승전에 진출하였으며, [아르헨티나](https://ko.wikipedia.org/wiki/아르헨티나 "wikilink")의 [뉴얼스 올드 보이스를](../Page/뉴얼스_올드_보이스.md "wikilink") 만나 [승부차기](../Page/승부차기.md "wikilink") 끝에 구단 역사상 최초로 대륙 대회 우승을 차지하였다. 같은 연도 [도쿄](../Page/도쿄.md "wikilink")에서 열린 [인터콘티넨털컵에서도](../Page/1992년_인터콘티넨털컵.md "wikilink") [요한 크라위프의](https://ko.wikipedia.org/wiki/요한_크라위프 "wikilink") [FC 바르셀로나를](../Page/FC_바르셀로나.md "wikilink") 만나 2-1 승리를 거두며, 트로피를 추가하였다. 주리그에서도 [파우메이라스를](../Page/SE_파우메이라스.md "wikilink") 꺾고 구단의 18번째 주리그 타이틀을 거머쥐었다. [1993년에도](../Page/1993년_코파_리베르타도레스.md "wikilink") 코파 리베르타도레스 결승전에서 [칠레](https://ko.wikipedia.org/wiki/칠레 "wikilink")의 [우니베르시다드 카톨리카를](../Page/우니베르시다드_카톨리카.md "wikilink") 꺾고 우승을 차지했으며, 같은 연도 [인터콘티넨털컵에서](../Page/1993년_인터콘티넨털컵.md "wikilink") [AC 밀란을](../Page/AC_밀란.md "wikilink") 상대로 3-2 승리를 거두며, 2년 연속 코파 리베르타도레스와 인터콘티넨털컵 더블 우승이라는 위업을 달성하였다. [1994년](../Page/1994년_코파_리베르타도레스.md "wikilink") 코파 리베르타도레스 3년 연속 결승전에 올라섰으며, 이번 대회에서는 [아르헨티나](https://ko.wikipedia.org/wiki/아르헨티나 "wikilink")의 [벨레스 사르스피엘드에게](../Page/벨레스_사르스피엘드.md "wikilink") 밀려 우승을 놓쳤다. 그러나 [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink") 새로이 창설한 [코파 CONMEBOL에서](../Page/코파_CONMEBOL.md "wikilink") [페냐롤](../Page/페냐롤.md "wikilink")을 꺾고 우승을 차지하며, 트로피를 또다시 들어올릴 수 있었다.
+
+그러나 [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") 건강상의 문제로 텔레 산타나가 감독직을 사임하였으며, 이와 동시에 상파울루 FC의 황금기는 막을 내렸다. 이후 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink")까지 상파울루 FC에는 14명의 감독이 들어오고 떠났다.
+
+### 침체기와 부활 : 2000년대
+
+[섬네일의](https://ko.wikipedia.org/wiki/파일:Rogerio_ceni.jpg "wikilink") 모습.\]\] [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink")도 [캄페오나투 파울리스타에서](../Page/캄페오나투_파울리스타.md "wikilink") 우승을 차지하였으며, [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink")에는 리우-상파울루 토너먼트에서 첫 우승을 차지하기도 하였다. [호제리우 세니](../Page/호제리우_세니.md "wikilink"), [줄리우 바프티스타](../Page/줄리우_바프티스타.md "wikilink"), [루이스 파비아누](https://ko.wikipedia.org/wiki/루이스_파비아누 "wikilink") 그리고 [카카](https://ko.wikipedia.org/wiki/카카 "wikilink") 등 당시 스타 선수들이 즐비했음에도, 특별한 타이틀을 석권하지 못하였다. 2004년 상파울루 FC는 [코파 리베르타도레스](../Page/2004년_코파_리베르타도레스.md "wikilink") 4강에 오랜만에 다시 진출하였으나, [콜롬비아](https://ko.wikipedia.org/wiki/콜롬비아 "wikilink")의 [온세 칼다스에게](../Page/온세_칼다스.md "wikilink") 충격패를 당하고 탈락의 고배를 마셔야 했다.
+
+이후 [에메르송 레앙이](https://ko.wikipedia.org/wiki/에메르송_레앙 "wikilink") 구단의 새로운 감독으로 취임하였으며, [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") 주리그 우승을 차지하였다. 그러나 짧은 재임 기간을 뒤로 하고, 레앙은 팀을 떠났다. 이후 [파울로 아우투오리가](https://ko.wikipedia.org/wiki/파울로_아우투오리 "wikilink") 지휘봉을 잡았으며, 2005년 [코파 리베르타도레스](../Page/2005년_코파_리베르타도레스.md "wikilink") [아틀레치쿠 파라나엔시를](https://ko.wikipedia.org/wiki/아틀레치쿠_파라나엔시 "wikilink") 꺾고 구단 역사상 세번째 코파 리베르타도레스 트로피를 들어올렸다. 이는 브라질 축구단 중 최초로 코파 리베르타도레스 3회 우승을 달성한 기록으로 남았다. 같은 연도 [FIFA 클럽 월드컵에서](https://ko.wikipedia.org/wiki/2005년_FIFA_클럽_세계_선수권_대회 "wikilink") [사우디아라비아](../Page/사우디아라비아.md "wikilink")의 [알이티하드를](https://ko.wikipedia.org/wiki/알이티하드_\(지다\) "wikilink") 꺾고, 결승전에서 [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink") 구단 [리버풀 FC를](https://ko.wikipedia.org/wiki/리버풀_FC "wikilink") 상대로 1-0 승리를 거두며, 세계 클럽 선수권 대회로써의 세번째 트로피를 들어올렸다. 큰 성공을 거둔 상파울루의 2005년을 뒤로 하고, 아우투오리 감독은 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") [J1리그](../Page/J1리그.md "wikilink")의 [가시마 앤틀러스](../Page/가시마_앤틀러스.md "wikilink") 감독직을 맡기 위해 서명을 하러 떠났다. [섬네일에서](https://ko.wikipedia.org/wiki/파일:SPFC_squad_-_2005_-_01.jpg "wikilink") 우승한 이후, 파울리스타 축구 협회와 [룰라](../Page/루이스_이나시우_룰라_다_시우바.md "wikilink") 대통령으로부터 헌장을 수여받는 상파울루 FC.\]\]
+
+이후 상파울루 FC의 새 감독으로 [무리시 하말류가](https://ko.wikipedia.org/wiki/무리시_하말류 "wikilink") 선임되었다. 하말류의 상파울루는 1점차로 [산투스 FC에게](https://ko.wikipedia.org/wiki/산투스_FC "wikilink") 밀려 주리그 준우승을 차지하였고, 2006년 [코파 리베르타도레스](../Page/2006년_코파_리베르타도레스.md "wikilink") 결승전에서 [SC 인테르나시오나우와](https://ko.wikipedia.org/wiki/SC_인테르나시오나우 "wikilink") 맞붙었으나 종합 3-4 스코어로 밀리며 트로피를 내주었다. 그러나 [전국 리그에서는](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A_2006 "wikilink") 네번째 우승을 차지하며, 브라질 전국 리그 개편 이후 최초로 우승을 차지한 팀이 되었다. 2007년에는 [코파 리베르타도레스에서](https://ko.wikipedia.org/wiki/2007년_코파_리베르타도레스 "wikilink") 일찍 탈락하였으나, [전국 리그에서](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A_2007 "wikilink") 또다시 우승을 차지하며 대회 연속 우승을 기록하였다. 2008년에도 [전국 리그에서](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A_2007 "wikilink") 우승을 차지했고, 대회 3년 연속 우승 및 구단의 여섯 번째 리그 우승 트로피를 차지했다. 또한 무리시 하말류는 브라질 대회에서, 같은 팀에서 3년 연속 우승을 차지한 최초의 감독으로 기록되었다. 2009년 [코파 리베르타도레스에서](https://ko.wikipedia.org/wiki/2009년_코파_리베르타도레스 "wikilink") [크루제이루 EC에게](../Page/크루제이루_EC.md "wikilink") 패배하며, 상파울루 FC는 4년 연속 브라질 팀에게 패배하여 탈락하게 되는 기록을 남기게 되었다. 이후 하말류 감독은 경질되었으며, [히카르두 고메스가](https://ko.wikipedia.org/wiki/히카르두_고메스 "wikilink") 새로운 감독으로 선임되었다.
+
+### 2010년대\~현재
+
+그러나 [히카르두 고메스](https://ko.wikipedia.org/wiki/히카르두_고메스 "wikilink") 또한 2010년 [코파 리베르타도레스에서](https://ko.wikipedia.org/wiki/2010년_코파_리베르타도레스 "wikilink") [SC 인테르나시오나우에게](https://ko.wikipedia.org/wiki/SC_인테르나시오나우 "wikilink") 패배하며, 5년 연속 코파 리베르타도레스에서 브라질 팀에게 패배하여 탈락하게 되었다. 이후 히카르두 고메스는 경질되었다. [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") 상파울루 FC는 [우즈베키스탄](https://ko.wikipedia.org/wiki/우즈베키스탄 "wikilink")의 [부뇨드코르](https://ko.wikipedia.org/wiki/부뇨드코르 "wikilink")에서 선수 말년으로 활동하고 있던 전설적인 선수 [히바우두](../Page/히바우두.md "wikilink")를 영입하였고, [스페인](https://ko.wikipedia.org/wiki/스페인 "wikilink") [세비야 FC로부터](https://ko.wikipedia.org/wiki/세비야_FC "wikilink") 구단 역사상 최고액을 지불하며 [루이스 파비아누를](https://ko.wikipedia.org/wiki/루이스_파비아누 "wikilink") [€](https://ko.wikipedia.org/wiki/유로 "wikilink")7,600만에 영입하였다. 2011년에는 [골키퍼](https://ko.wikipedia.org/wiki/골키퍼 "wikilink") [호베르투 세니가](https://ko.wikipedia.org/wiki/호베르투_세니 "wikilink") [SC 코린치앙스 파울리스타를](https://ko.wikipedia.org/wiki/SC_코린치앙스_파울리스타 "wikilink") 상대로 개인 통산 100호골을 기록하였다.
+
+[2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink")부터 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink")까지 상파울루 FC는 브라질에서 두번째로 큰 영업이익을 기록하고 있었다.\[1\] [2013 시즌을](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A_2013 "wikilink") 앞두고, 상파울루 FC는 7년간 입어온 [리복](https://ko.wikipedia.org/wiki/리복 "wikilink")과 해지하고, 브라질 국내 브랜드인 [페나우치](https://ko.wikipedia.org/wiki/페나우치 "wikilink")와 유니폼 계약을 체결하였다. 이 계약으로 상파울루 FC는 연간 [R$](../Page/브라질_헤알.md "wikilink")3,500만을 벌어들이게 되었다.\[2\] 이 계약은 [아디다스](https://ko.wikipedia.org/wiki/아디다스 "wikilink")와 체결한 [CR 플라멩구](../Page/CR_플라멩구.md "wikilink") 다음으로, 브라질 축구 역사상 두번째로 큰 수익을 벌어들인 유니폼 계약이었다.\[3\] [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") 5월, 상파울루 FC는 [언더아머](../Page/언더아머.md "wikilink")와 유니폼 계약을 체결하였다.
+
+## 선수 명단
+
+### 1군 선수단
+
+*2017년 8월 23일 기준*       [16px](https://ko.wikipedia.org/wiki/파일:Captain_sports.svg "wikilink")
+
+## 라이벌 매치
+
+### 상파울루 vs 코린치앙스
+
+양 팀간의 대결은 "토마스 마쪼니 (Thomas Mazzoni)"의 이름을 따, [클라시쿠 마제스토](https://ko.wikipedia.org/wiki/클라시쿠_마제스토 "wikilink")()라 불린다. 두 팀의 첫 대결은 [1930년](https://ko.wikipedia.org/wiki/1930년 "wikilink") [5월 25일에](https://ko.wikipedia.org/wiki/5월_25일 "wikilink") 펼쳐졌다. 역대 전적으로는 상파울루 FC가 79승, 코린치앙스가 88승을 거두었으며, 84회의 무승부가 있었다.
+
+### 상파울루 vs 파우메이라스
+
+양 팀간의 대결은 [초키 헤이](https://ko.wikipedia.org/wiki/초키_헤이 "wikilink") ()라 불린다. 역대 전적으로는 상파울루 FC가 103승, 코린치앙스가 99승을 거두었으며, 99회의 무승부가 있었다.
+
+### 상파울루 vs 산투스
+
+양 팀간의 대결은 [산상](https://ko.wikipedia.org/wiki/산상_\(축구_경기\) "wikilink") ()라 불린다. 역대 전적으로는 상파울루 FC가 114승, 코린치앙스가 92승을 거두었으며, 62회의 무승부가 있었다.
+
+## 기록
+
+### 전국 리그 기록
+
+| 연도       | 순위     | 연도       | 순위     | 연도       | 순위     | 연도       | 순위     | 연도       | 순위   |
+| -------- | ------ | -------- | ------ | -------- | ------ | -------- | ------ | -------- | ---- |
+| **1971** | 2nd    | **1981** | 2nd    | **1991** | **우승** | **2001** | 7th    | **2011** | 6th  |
+| **1972** | 9th    | **1982** | 6th    | **1992** | 6th    | **2002** | 5th    | **2012** | 4th  |
+| **1973** | 6th    | **1983** | 5th    | **1993** | 4th    | **2003** | 3rd    | **2013** | 9th  |
+| **1974** | 10th   | **1984** | 17th   | **1994** | 6th    | **2004** | 3rd    | **2014** | 2nd  |
+| **1975** | 5th    | **1985** | 22nd   | **1995** | 12th   | **2005** | 11th   | **2015** | 4th  |
+| **1976** | 25th   | **1986** | **우승** | **1996** | 11th   | **2006** | **우승** | **2016** | 10th |
+| **1977** | **우승** | **1987** | 6th    | **1997** | 12th   | **2007** | **우승** | **2017** | 13th |
+| **1978** | 19th   | **1988** | 11th   | **1998** | 15th   | **2008** | **우승** | **2018** |      |
+| **1979** | –      | **1989** | 2nd    | **1999** | 4th    | **2009** | 3rd    | **2019** |      |
+| **1980** | 9th    | **1990** | 2nd    | **2000** | 12th   | **2010** | 9th    | **2020** |      |
+|          |        |          |        |          |        |          |        |          |      |
+
+## 관중수
+
+### 전국 리그 관중
+
+| 연도       | 관중수    | 연도       | 관중수    | 연도       | 관중수    | 연도       | 관중수    | 연도       | 관중수    |
+| -------- | ------ | -------- | ------ | -------- | ------ | -------- | ------ | -------- | ------ |
+| **1971** | 19,518 | **1981** | 41,179 | **1991** | 22,196 | **2001** | 18,085 | **2011** | 21,485 |
+| **1972** | 21,270 | **1982** | 23,841 | **1992** | 20,440 | **2002** | 25,452 | **2012** | 24,298 |
+| **1973** | 18,282 | **1983** | 21,643 | **1993** | 23,275 | **2003** | 12,231 | **2013** | 23,024 |
+| **1974** | 8,596  | **1984** | 8,202  | **1994** | 8,992  | **2004** | 8,613  | **2014** | 24,744 |
+| **1975** | 14,001 | **1985** | 12,532 | **1995** | 6,135  | **2005** | 9,805  | **2015** | 20,558 |
+| **1976** | 18,266 | **1986** | 29,483 | **1996** | 7,498  | **2006** | 22,948 | **2016** |        |
+| **1977** | 32,031 | **1987** | 12,907 | **1997** | 5,889  | **2007** | 28,662 | **2017** |        |
+| **1978** | 11,472 | **1988** | 10,635 | **1998** | 9,430  | **2008** | 21,333 | **2018** |        |
+| **1979** | \-     | **1989** | 17,211 | **1999** | 19,282 | **2009** | 26,268 | **2019** |        |
+| **1980** | 21,369 | **1990** | 18,243 | **2000** | 10,113 | **2010** | 14,704 | **2020** |        |
+
+### 코파 리베르타도레스 관중
+
+| 연도       | 관중수     | 연도       | 관중수    |
+| -------- | ------- | -------- | ------ |
+| **1972** | 38,616  | **2004** | 56,103 |
+| **1974** | 21,821  | **2005** | 48,822 |
+| **1978** | 31,132  | **2006** | 50,755 |
+| **1982** | 14,552  | **2007** | 26,287 |
+| **1987** | 7,301   | **2008** | 36,809 |
+| **1992** | 25,771  | **2009** | 38,403 |
+| **1993** | 68,725  | **2010** | 42,686 |
+| **1994** | 54,663  | **2013** | 41,346 |
+| **----** | \------ | **2015** | 37,023 |
+
+## 수상
+
+### 국제 대회
+
+#### 세계
+
+  - **[FIFA 클럽 월드컵](../Page/FIFA_클럽_월드컵.md "wikilink")** (1) : [2005](https://ko.wikipedia.org/wiki/2005년_FIFA_클럽_세계_선수권_대회 "wikilink")
+  - **[인터콘티넨털컵](https://ko.wikipedia.org/wiki/인터콘티넨털컵 "wikilink")** (2) : [1992](../Page/1992년_인터콘티넨털컵.md "wikilink"), [1993](../Page/1993년_인터콘티넨털컵.md "wikilink")
+
+#### 대륙
+
+  - **[코파 리베르타도레스](../Page/코파_리베르타도레스.md "wikilink")** (3) : [1992](../Page/1992년_코파_리베르타도레스.md "wikilink"), [1993](../Page/1993년_코파_리베르타도레스.md "wikilink"), [1995](../Page/1995년_코파_리베르타도레스.md "wikilink")
+  - **[코파 CONMEBOL](../Page/코파_CONMEBOL.md "wikilink")** (1) : 1994
+  - **[레코파 수다메리카나](../Page/레코파_수다메리카나.md "wikilink")** (2) : 1994, 1994
+  - **[코파 수다메리카나](../Page/코파_수다메리카나.md "wikilink")** (1) : 2012
+  - **[수페르코파 리베르타도레스](https://ko.wikipedia.org/wiki/수페르코파_리베르타도레스 "wikilink")** (1) : [1993](https://ko.wikipedia.org/wiki/1993년_수페르코파_리베르타도레스 "wikilink")
+  - **[코파 마스터스 CONMEBOL](https://ko.wikipedia.org/wiki/코파_마스터스_CONMEBOL "wikilink")** (1) : 1996
+
+### 국내 대회
+
+#### 전국
+
+  - **[캄페오나투 브라질레이루 세리이 A](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A "wikilink")** (6) : [1977](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A_1977 "wikilink"), [1986](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A_1986 "wikilink"), [1991](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A_1991 "wikilink"), [2006](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A_2006 "wikilink"), [2007](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A_2007 "wikilink"), [2008](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A_2008 "wikilink")
+
+#### 주 (州)
+
+  - **[캄페오나투 파울리스타](../Page/캄페오나투_파울리스타.md "wikilink")** (21) : 1931, 1943, 1945, 1946, 1948, 1949, 1953, 1957, 1970, 1971, 1975, 1980, 1981, 1985, 1987, 1989, 1991, 1992, 1998, 2000, 2005
+  - **[토르네이우 리우-상파울루](https://ko.wikipedia.org/wiki/토르네이우_리우-상파울루 "wikilink")** (1) : 2001
+  - **[수페르캄페오나투 파울리스타](https://ko.wikipedia.org/wiki/수페르캄페오나투_파울리스타 "wikilink")** (1) : 2002
+
+## 각주
+
+[상파울루_FC](https://ko.wikipedia.org/wiki/분류:상파울루_FC "wikilink") [분류:1930년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1930년_설립된_축구단 "wikilink") [분류:1935년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1935년_설립된_축구단 "wikilink") [분류:브라질의 축구단](https://ko.wikipedia.org/wiki/분류:브라질의_축구단 "wikilink") [분류:강등된 적이 없는 축구단](https://ko.wikipedia.org/wiki/분류:강등된_적이_없는_축구단 "wikilink")
+
+1.
+2.
+3.

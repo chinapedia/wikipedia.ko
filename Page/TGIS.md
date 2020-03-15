@@ -1,0 +1,54 @@
+> This article is converted from Wikipedia: [TGIS](https://ko.wikipedia.org/wiki/TGIS).
+
+
+**TGIS**(Train General Information System)는 [전동차](https://ko.wikipedia.org/wiki/전동차 "wikilink")의 상태를 감시하여 이를 승무원에게 전달하는 열차 정보 현시장치이다. [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink")에 [도시바](../Page/도시바.md "wikilink")가 개발하여 [한국철도공사](https://ko.wikipedia.org/wiki/한국철도공사 "wikilink")의 모든 전동차 및 [서울교통공사](../Page/서울교통공사.md "wikilink")의 전동차 중 [1호선과](../Page/서울교통공사_1000호대_VVVF_전동차.md "wikilink") [4호선](../Page/서울교통공사_4000호대_전동차.md "wikilink") 전동차에 채용되어 있다.
+
+## 시스템 구성
+
+기본적으로 각 선두차에 설치된 중앙컴퓨터 및 현시장치와 각 차량에 설치된 단말컴퓨터로 구성되어 있으며 각 시스템은 링 네트워크 형태로 구성되어 있다. 각 컴퓨터간의 통신속도는 1Kbps정도이다.
+
+## 주요 기능
+
+### 차량 운행정보 현시
+
+  - 운행중 각 차량의 전기기기 상태([팬터그래프](../Page/집전장치.md "wikilink"), 차단기, [VVVF](https://ko.wikipedia.org/wiki/가변_전압_가변_주파수 "wikilink"), 보조전원장치, 공기압축기, 제동장치)를 실시간으로 감시하여 이를 승무원실의 모니터에 현시하며 고장시 고장여부와 고장시 조치요령을 승무원에게 현시하며 이를 검수용 메모리장치에 기록한다.
+  - 운행중 각 차량의 서비스기기 상태(출입문, 실내 형광등, 냉난방장치, 방송장치, 안내장치 등)를 실시간으로 감시하여 이를 승무원실의 모니터에 현시하며 고장시 고장여부를 현시하고 이를 검수용 메모리 장치에 기록한다.
+  - 객실 안내용 LED스크린 장치에 자막을 전송한다.
+
+### 검수지원 기능
+
+  - 운행전 각종 기기의 상태(주 제어기기, 제동장치, 서비스기기 등)를 자동으로 체크하여 이를 현시하고 검수용 메모리장치에 기록한다.
+  - 운행중 속도,주행거리등을 자동으로 검수용 메모리장치에 기록한다.
+
+## TGIS의 개량
+
+TGIS의 개발 이후 [우진산전](../Page/우진산전.md "wikilink")에서 이 시스템의 사후 관리를 전담하였는데, 이후 [한국철도공사](https://ko.wikipedia.org/wiki/한국철도공사 "wikilink")차량에 장비된 TGIS는 상당수 개량을 거치게 된다. 그 내역은 아래와 같다.
+
+  - 시스템간의 통신속도를 2Mbps로 높였다.
+  - 서비스기기의 제어기능(냉난방장치,자동안내방송,출입문 제어,행선표시기 등)을 추가하였다. 이로써 운전실 내의 불필요한 기기를 다수 제거하게 되었다.
+  - [한국철도공사 341000호대 전동차](https://ko.wikipedia.org/wiki/한국철도공사_341000호대_전동차 "wikilink")(4호선용) 및 [한국철도공사 351000호대 전동차](https://ko.wikipedia.org/wiki/한국철도공사_351000호대_전동차 "wikilink")(분당선용)는 초창기에 도입 당시 흑백 모니터를 사용하였으나, 이를 컬러 모니터로 교체하였다.
+  - [한국철도공사 311000호대 전동차엔](../Page/한국철도공사_311000호대_전동차.md "wikilink") 급행열차 운용등으로 인하여 정차역 통보장치 기능을 추가하였다.
+
+## 채용 사례
+
+TGIS는 현재 아래와 같은 차량에 채용되었다.
+
+  - [한국철도공사 311000호대 전동차](../Page/한국철도공사_311000호대_전동차.md "wikilink")([수도권 전철 1호선용](https://ko.wikipedia.org/wiki/수도권_전철_1호선 "wikilink"))
+  - [한국철도공사 321000호대 전동차](https://ko.wikipedia.org/wiki/한국철도공사_321000호대_전동차 "wikilink")/[한국철도공사 331000호대 전동차](https://ko.wikipedia.org/wiki/한국철도공사_331000호대_전동차 "wikilink")([경의·중앙선용](../Page/수도권_전철_경의·중앙선.md "wikilink"))
+  - [한국철도공사 341000호대 전동차](https://ko.wikipedia.org/wiki/한국철도공사_341000호대_전동차 "wikilink")([수도권 전철 4호선용](https://ko.wikipedia.org/wiki/수도권_전철_4호선 "wikilink"))
+  - [한국철도공사 351000호대 전동차](https://ko.wikipedia.org/wiki/한국철도공사_351000호대_전동차 "wikilink")([분당선](https://ko.wikipedia.org/wiki/분당선 "wikilink"), [수인선](https://ko.wikipedia.org/wiki/수인선 "wikilink")용)
+  - [한국철도공사 361000호대 전동차](https://ko.wikipedia.org/wiki/한국철도공사_361000호대_전동차 "wikilink")([경춘선](https://ko.wikipedia.org/wiki/경춘선 "wikilink")용)
+  - [한국철도공사 371000호대 전동차](../Page/한국철도공사_371000호대_전동차.md "wikilink")([경강선](../Page/경강선.md "wikilink")용)
+  - [한국철도공사 381000호대 전동차](../Page/한국철도공사_381000호대_전동차.md "wikilink")([동해선](https://ko.wikipedia.org/wiki/동해선 "wikilink")용)
+
+아래의 전동차에 설치된 TGIS는 제작사가 다르며, 기능개량을 거치지 않았다.
+
+  - [한국철도공사 3000호대 전동차](../Page/한국철도공사_3000호대_전동차.md "wikilink")
+  - [서울교통공사 4000호대 전동차](../Page/서울교통공사_4000호대_전동차.md "wikilink")
+  - [서울교통공사 1000호대 VVVF 전동차](../Page/서울교통공사_1000호대_VVVF_전동차.md "wikilink")
+
+## 함께 보기
+
+  - [TCMS](../Page/TCMS.md "wikilink") : TGIS를 개량한 형태
+
+[분류:철도차량공학](https://ko.wikipedia.org/wiki/분류:철도차량공학 "wikilink")

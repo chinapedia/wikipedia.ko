@@ -1,0 +1,218 @@
+> This article is converted from Wikipedia: [KBS](https://ko.wikipedia.org/wiki/KBS).
+
+
+**KBS충주방송국**(KBS忠州放送局)은 [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") 북부 지역을 방송 권역으로 하는 [KBS 청주방송총국](https://ko.wikipedia.org/wiki/KBS_청주방송총국 "wikilink") 소속 산하의 지역방송국이다. KBS 지역국 중 유일하게 AM 방송을 하지 않는다.
+
+## 연혁
+
+  - 1962.05.15 청주방송국 충주중계소 개소
+  - 1971.04.22 청주방송국 제천중계소 개소
+  - 1971.05.15 중앙방송국 충주출장소 개소
+  - 1973.03.03 한국방송공사 청주방송국 충주중계소 개칭
+  - 1975.08.05 청주방송국 제천중계소 출력 증강
+  - 1975.09.25 청주방송국 충주중계소 청사 이전
+  - 1978.01.01 청주방송국 단양중계소 개소
+  - 1978.10.07 청주방송국 가엽산송신소 개소
+  - 1981.02.06 가엽산송신소 교육FM 송출
+  - 1981.07.03 가엽산송신소 교육TV 및 표준FM 송출
+  - 1982.12.29 가엽산송신소 제 2TV 송출
+  - 1983.09.03 가엽산송신소 음악FM 송출
+  - 1984.12.01 가엽산송신소·충주송신소 한국통신(KTA)에 통합이관
+  - 1984.12.23 한국방송공사 충주방송국 개국
+  - 1985.09.26 중양중계소 현청사(단양읍 도전리 산4-2) 준공 및 이전
+  - 1986.04.18 충주방송국 현청사 준공이전
+  - 1987.11.16 제 1TV·음악FM 로컬프로그램 송출개시
+  - 1987.11.17 제천 방송스튜디오 개소
+  - 1988.06.01 한국통신(KTA) 이관시설 환원
+  - 1995.10.20 단양중계소 자동화 완료
+  - 1995.12.05 가엽산송신소 RDS·SCA 방송 실시
+  - 1995.12.08 제천중계소 자동화 완료
+  - 1995.12.29 송출운용센터 준공
+  - 1996.01.01 제천,단양중계소 본격 자동화 운용
+  - 1996.08.10 충주송신소 자동화장비 교체로 AM송중계소 자동화장비
+  - 1997.12.20 가엽산송신소 교육TV 예비송신기 설치
+  - 1999.04.26 제천 방송스튜디오 인원철수 및 폐소
+  - 1999.06.15 제천중계소 간이스튜디오 설치
+  - 1999.12.23 가엽산송신소 자동화공사 완료로 송출센터에서 원격운용
+  - 2000.11.06 제 1라디오 표준FM 방송실시
+  - 2001.08.17 가엽산(송) 2TV 안테나 교체
+  - 2001.10.25 가엽산(송) 1TV 송신기 교체
+  - 2002.03.26 가엽산(송) 표준,음악FM 송신기 교체
+  - 2002.08.29 가엽산(송) 1TV,2TV,교육TV M/w 송신기 교체
+  - 2002.10.23 제천 TVR 원격제어시설 설치
+  - 2002.12.24 라디오 중계차 교체
+  - 2003.10.01 가엽산(송) 표준FM 주파수 변경
+  - 2003.10.10 표준FM 스테레오공사 완료
+  - 2003.11.05 가엽산(송) 1TV 예비 송신기 교체
+  - 2003.11.16 연주소 정보통신망 시설 보강 공사
+  - 2003.11.29 연주소 전원시설 전자화 배선반 설치
+  - 2006.11.19 가엽산송신소 DTV(1.2.교육)개국
+  - 2008.12.8 TV주조 SD공사 완료 및 SD방송 개시
+  - 2009.01.01 가엽산송신소 DMB 송출 개시
+  - 2009.04.26 제천, 단양 표준FMR 방송 개시
+  - 2009.12.08 TV주조 뉴스 16:9 SD 방송 개시
+  - 2010.11.03 DTV시범사업 단양지역 ASO완료 (단양,두산,영춘DTVR)
+  - 2011.04.11 단양 중계소 폐소
+  - 2011.10.19 2011년 DTVR공사 완료(금성,송학,봉양,금왕DTVR)
+  - 2011.12.18 제천 용두산 DMBR 방송개시
+  - 2011.12.29 단양 금수산 DMBR 방송개시
+  - 2012.10.02 아날로그 TV(1,2,교육) 송출종료
+  - 2013.10.16 디지털 TV 채널 주파수 재배치 완료
+  - 2013.10.30 디지털 TV 채널 주파수 재배치 완료
+  - 2016.11.2 충주AM송신소 철거
+
+## 방송 송출 시설망
+
+### TV
+
+  - 1TV
+      - 호출부호 : HLCH-DTV
+      - 가상채널 : 9-1
+
+| 송신소     | UHD   | HD    | 송신소 위치 | 비고                      |
+| ------- | ----- | ----- | ------ | ----------------------- |
+| 물리채널    | 출력    | 물리채널  | 출력     |                         |
+| 1TV     | 2TV   | 1TV   | 2TV    |                         |
+| 가엽산 송신소 | 준비중   | CH 39 | CH 47  | 2kW                     |
+| 금왕 중계소  | CH 32 | CH 45 | 20W    | 충북 음성군 금왕읍 금석리 산35      |
+| 괴산 중계소  | CH ?? | CH ?? | 20W    | 충북 괴산군 괴산읍 대사리 산6       |
+| 칠성 중계소  | CH 19 | CH 21 | 20W    | 충북 괴산군 칠성면 쌍곡리 산6-5     |
+| 소수 중계소  | CH 25 | CH 28 | 5W     | 충북 괴산군 소수면 수리 산44-1     |
+| 연풍 중계소  | CH 25 | CH 28 | 20W    | 충북 괴산군 연풍면 적석리 산26-5    |
+| 장연 중계소  | CH 20 | CH 23 | 5W     | 충북 괴산군 장연면 송덕리 335-2    |
+| 앙성 중계소  | CH 19 | CH 21 | 20W    | 충북 충주시 앙성면 용대리 산6       |
+| 중앙탑 소출력 | CH 39 | CH 47 | 0.05W  | 충북 충주시 중앙탑면 탑평리         |
+| 수안보 중계소 | CH 19 | CH 26 | 20W    | 충북 충주시 수안보면 안보리 산25-1   |
+| 용두산 중계소 | CH 16 | CH 17 | 90W    | 충북 제천시 신월동 산39-30       |
+| 평동 중계소  | CH 20 | CH 23 | 5W     | 충북 제천시 백운면 평동리 산50-1    |
+| 봉양 중계소  | CH 20 | CH 23 | 10W    | 충북 제천시 봉양읍 장평리 산821-1   |
+| 송학 중계소  | CH 29 | CH 31 | 10W    | 충북 제천시 송학면 자곡리 산1397    |
+| 금성 중계소  | CH 28 | CH 30 | 20W    | 충북 제천시 금성면 구룡리 산1       |
+| 단양 중계소  | CH 26 | CH 27 | 90W    | 충북 단양군 적성면 상리 산86-2 금수산 |
+| 수산 소출력  | CH 26 | CH 27 | 0.05W  | 충북 제천시 수산면 내리           |
+| 덕산 소출력  | CH 26 | CH 27 | 0.05W  | 충북 제천시 덕산면 도전리          |
+| 두산 중계소  | CH 21 | CH 20 | 50W    | 충북 단양군 가곡면 사평리 산93-1    |
+| 어상천 소출력 | CH 19 | CH 20 | 0.05W  | 충북 단양군 어상천면 임현리         |
+| 영춘 중계소  | CH 19 | CH 20 | 2W     | 충북 단양군 영춘면 하리 산57-1     |
+
+  - 아날로그TV
+
+<!-- end list -->
+
+  - <span style="color:dimgray;">1TV
+      - 호출부호 : HLCH-TV
+  - 2TV
+
+| 송신소     | 채널    | 출력    | 송신소 위치     | 비고                      |
+| ------- | ----- | ----- | ---------- | ----------------------- |
+| 1TV     | 2TV   |       |            |                         |
+| 가엽산 송신소 | CH 12 | CH 30 | 1kW / 10kW | 충북 음성군 음성읍 용산리 산11-4    |
+| 금왕 중계소  | CH 50 | CH 46 | 10W        | 충북 음성군 금왕읍 금석리 산35      |
+| 괴산 중계소  | CH 53 | CH 49 | 50W        | 충북 괴산군 괴산읍 대사리 산6       |
+| 칠성 중계소  | CH 9  | CH 26 | 1W / 10W   | 충북 괴산군 칠성면 쌍곡리 산6-5     |
+| 소수 중계소  | CH 7  | CH 25 | 1W / 10W   | 충북 괴산군 소수면 수리 산44-1     |
+| 연풍 중계소  | CH 9  | CH 47 | 10W / 50W  | 충북 괴산군 연풍면 적석리 산26-5    |
+| 장연 중계소  | CH 42 | CH 44 | 10W        | 충북 괴산군 장연면 송덕리 335-2    |
+| 상모 중계소  | CH 9  | CH 7  | 10W        | 충북 충주시 수안보면 안보리 산22-1   |
+| 용두산 중계소 | CH 33 | CH 23 | 500W       | 충북 제천시 신월동 산39-30       |
+| 평동 중계소  | CH 51 | CH 47 | 10W        | 충북 제천시 백운면 평동리 산100-1   |
+| 봉양 중계소  | CH 9  | CH 47 | 10W / 50W  | 충북 제천시 봉양읍 장평리 산66-17   |
+| 송학 중계소  | CH 46 | CH 19 | 10W        | 충북 제천시 송학면 시곡리 산13-1    |
+| 금성 중계소  | CH 49 | CH 52 | 100W       | 충북 제천시 금성면 구룡리 산1       |
+| 단양 중계소  | CH 60 | CH 44 | 500W       | 충북 단양군 적성면 상리 산86-2 금수산 |
+| 신단양 중계소 | CH 24 | CH 56 | 10W        | 충북 단양군 단양읍 고수리          |
+| 매포 중계소  | CH 46 | CH 31 | 50W        | 충북 단양군 매포읍 평동리 36-1     |
+| 영춘 중계소  | CH 10 | CH 47 | 1W / 10W   | 충북 단양군 영춘면 상리 산57-1     |
+
+### 라디오
+
+충북 북부 지역과 경기 동남부 일부지역을 가청권으로 하고 있다. 2라디오와 Cool FM은 방송권역 내에 중계소가 없어 청취할 수가 없으며, 컴퓨터로 [한국방송공사](https://ko.wikipedia.org/wiki/한국방송공사 "wikilink") 홈페이지에 접속해서 KBS 콩 프로그램을 다운로드 받아 청취할 수 있다. AM방송은 2016년 11월 2일자로 송신소가 철거되어서 수신이되지않는다.
+
+| KBS충주 제1라디오 |
+| ----------- |
+| 송신소         |
+| 가엽산 송신소     |
+| 용두산 중계소     |
+| 단양 중계소      |
+| KBS충주 음악FM  |
+| 송신소         |
+| 가엽산 송신소     |
+
+### 지상파 DMB
+
+## 제작 프로그램
+
+### TV 프로그램
+
+| 프로그램명                                         | 방송시간     | 편성시간           | 진행                               |
+| --------------------------------------------- | -------- | -------------- | -------------------------------- |
+|                                               |          |                |                                  |
+|                                               |          |                |                                  |
+| [KBS 뉴스 9 충주](../Page/KBS_뉴스_9.md "wikilink") | 월\~금 10분 | 21:35 \~ 21:45 | [정지성](../Page/정지성.md "wikilink") |
+
+### 라디오 프로그램
+
+#### 제1라디오
+
+  - 뉴스
+
+| 프로그램명                                                      | 방송시간                | 편성시간                                                          | 진행                                                            |
+| ---------------------------------------------------------- | ------------------- | ------------------------------------------------------------- | ------------------------------------------------------------- |
+| KBS 제1라디오 오전 9시 뉴스                                         | 월요일 \~ 금요일 5분       | 오전 9시 \~ 9시 5분                                                | [박찬송](https://ko.wikipedia.org/wiki/박찬송 "wikilink")(TV:동시 송출) |
+| [KBS 제1라디오 정오종합뉴스](../Page/KBS_제1라디오_정오종합뉴스.md "wikilink") | 낮 12시 15분\~ 12시 20분 | [진두연](https://ko.wikipedia.org/wiki/진두연 "wikilink")(TV:동시 송출) |                                                               |
+| KBS 제1라디오 오후 5시 뉴스                                         | 오후 5시 \~ 5시 5분      | [정지성](../Page/정지성.md "wikilink")(TV:동시 송출)                    |                                                               |
+| KBS 제1라디오 오후 6시 뉴스                                         | 토요일 \~ 일요일 5분       | 저녁 6시 \~ 6시 5분                                                | 청주 수중계(TV:동시 수중계)                                             |
+
+  - 프로그램
+
+<!-- end list -->
+
+  - [계명산의 아침](http://program.kbs.co.kr/1radio/local/mountain/pc/index.html)(월-금,23분)(진행 박찬송)(TV:동시 송출)
+  - [92.1여기는라디오충주](http://program.kbs.co.kr/1radio/local/chung/pc/index.html)(월-금,30분)(진행 김경희)(TV:동시 송출)
+  - [생방송,충청은 지금\!](http://program.kbs.co.kr/1radio/local/now/pc/index.html)(월-금,55분)(진행 정지성)(TV:동시 송출)
+
+#### 음악FM
+
+  - [Kiss The Music](http://program.kbs.co.kr/1fm/local/kiss/pc/index.html)(월\~금,60분)(진행 진두연)(TV:동시 송출)
+
+## 아나운서
+
+  - [진두연](https://ko.wikipedia.org/wiki/진두연 "wikilink"):[1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink")(9기) 입사
+  - [김경희](https://ko.wikipedia.org/wiki/김경희 "wikilink"):[1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink")(10기) 입사
+  - [정지성](../Page/정지성.md "wikilink"):[2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink")(프리랜서) 입사
+  - [박찬송](https://ko.wikipedia.org/wiki/박찬송 "wikilink"):[2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") 6월 ([프리랜서](https://ko.wikipedia.org/wiki/프리랜서 "wikilink")) 입사
+
+## 전직 아나운서
+
+### 남성
+
+  - [김관동](https://ko.wikipedia.org/wiki/김관동 "wikilink")(충주방송국장, 현 KBS전주총국)
+  - [고광수](https://ko.wikipedia.org/wiki/고광수 "wikilink")(퇴사)
+  - [김호성](https://ko.wikipedia.org/wiki/김호성 "wikilink")(현 [KBS 청주방송총국](https://ko.wikipedia.org/wiki/KBS_청주방송총국 "wikilink"))
+  - [김흥수](https://ko.wikipedia.org/wiki/김흥수_\(아나운서\) "wikilink")(현 1997년\~1999년 KBS 대구본국 [KBS 서울본국](https://ko.wikipedia.org/wiki/KBS_서울본국 "wikilink"))
+  - [이영진](https://ko.wikipedia.org/wiki/이영진_\(아나운서\) "wikilink")(전 [KBS 청주방송총국](https://ko.wikipedia.org/wiki/KBS_청주방송총국 "wikilink"))
+  - [김형신](https://ko.wikipedia.org/wiki/김형신_\(아나운서\) "wikilink")(현 [MBC경남 창원본부](https://ko.wikipedia.org/wiki/MBC경남_창원본부 "wikilink") 아나운서)
+  - [강동일](https://ko.wikipedia.org/wiki/강동일 "wikilink") (현 kbc 기자)
+  - [조승학](https://ko.wikipedia.org/wiki/조승학 "wikilink") (현 [연합뉴스](https://ko.wikipedia.org/wiki/연합뉴스 "wikilink") 아나운서)
+
+### 여성
+
+  - [김윤혜](https://ko.wikipedia.org/wiki/김윤혜_\(아나운서\) "wikilink")(현 [KBS 청주방송총국](https://ko.wikipedia.org/wiki/KBS_청주방송총국 "wikilink"))
+  - [원순식](https://ko.wikipedia.org/wiki/원순식 "wikilink"):[2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink")(프리랜서) 입사(전 [KBS 청주방송총국](https://ko.wikipedia.org/wiki/KBS_청주방송총국 "wikilink"))
+  - [임지윤](https://ko.wikipedia.org/wiki/임지윤 "wikilink"):[2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink")(프리랜서) 입사(현 퇴사)
+  - [강승희](https://ko.wikipedia.org/wiki/강승희_\(아나운서\) "wikilink"):[2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink")(프리랜서) 입사(현 [KBS 경인방송센터](https://ko.wikipedia.org/wiki/KBS_경인방송센터 "wikilink"))
+  - [최인희](https://ko.wikipedia.org/wiki/최인희 "wikilink"):[2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink")(프리랜서) 입사(현 [KBS 청주방송총국](https://ko.wikipedia.org/wiki/KBS_청주방송총국 "wikilink"))
+  - [김지원](https://ko.wikipedia.org/wiki/김지원_\(1988년_아나운서\) "wikilink"):[2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink")(프리랜서) 입사(현 [롯데홈쇼핑](https://ko.wikipedia.org/wiki/롯데홈쇼핑 "wikilink"))
+  - [조민경](https://ko.wikipedia.org/wiki/조민경 "wikilink"):[2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink")(프리랜서) 입사(현 [대전MBC](https://ko.wikipedia.org/wiki/대전MBC "wikilink"))
+  - [김수연](https://ko.wikipedia.org/wiki/김수연_\(1990년\) "wikilink"):[2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink")(프리랜서) 입사\~2019.5 (현 [KBS46기 춘천방송총국](https://ko.wikipedia.org/wiki/KBS46기_춘천방송총국 "wikilink") 아나운서)
+
+## 인근의 타 방송사
+
+  - [MBC충북 충주방송국](https://ko.wikipedia.org/wiki/MBC충북_충주방송국 "wikilink")
+  - [CJB](../Page/청주방송.md "wikilink")
+
+## 외부 링크
+
+  - [KBS충주방송국 공식 홈페이지](http://chungju.kbs.co.kr/)
+
+[충주](https://ko.wikipedia.org/wiki/분류:한국방송공사의_지역방송국 "wikilink") [분류:1962년 설립](https://ko.wikipedia.org/wiki/분류:1962년_설립 "wikilink") [분류:대한민국의 충청북도 지상파 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_충청북도_지상파_방송국 "wikilink") [분류:충주시](https://ko.wikipedia.org/wiki/분류:충주시 "wikilink")

@@ -1,0 +1,38 @@
+> This article is converted from Wikipedia: [P-](https://ko.wikipedia.org/wiki/P-).
+
+
+[계산 복잡도 이론에서](https://ko.wikipedia.org/wiki/계산_복잡도_이론 "wikilink") [복잡도 종류](https://ko.wikipedia.org/wiki/복잡도_종류 "wikilink") **P-완전**은 [판정 문제의](https://ko.wikipedia.org/wiki/판정_문제 "wikilink") 집합으로, [병렬 컴퓨터가](https://ko.wikipedia.org/wiki/병렬_처리 "wikilink") 빠르게 풀 수 있는 문제들을 분석하는 데 쓸모가 있다. 어떤 [판정 문제가](https://ko.wikipedia.org/wiki/판정_문제 "wikilink") **P-완전**이려면 **[P](https://ko.wikipedia.org/wiki/P_\(복잡도\) "wikilink")**에 대해 [완전해야](https://ko.wikipedia.org/wiki/완전_\(복잡도\) "wikilink") 한다. 이는 **P**에 들어 있는 모든 문제가 프로세스 다항 개가 있는 병렬 컴퓨터로 다항로그 시간을 써서 이 문제로 환산될 수 있다는 뜻이다. 다시 말해서, 어떤 문제 *A*가 *P-완전*이려면 **P** 문제 *B*마다 *B*가 *A*로 병렬 프로세서[O](https://ko.wikipedia.org/wiki/빅-오_기호 "wikilink")(*n*<sup>*k*</sup>)개 써서 O((log *n*)<sup>*c*</sup>) 시간에 환산될 수 있는 상수 *c*와 *k*가 있다는 뜻이다. 병렬 프로세서의 정의는 **[NC](https://ko.wikipedia.org/wiki/NC_\(복잡도\) "wikilink")**를 참고하라.
+
+## 동기
+
+순차 컴퓨터에서 "다룰 수 있는" 모든 문제를 포함하는 복잡도인 **P**는, 병렬 컴퓨터에서 다룰 수 있는 문제로 구성된 복잡도 **[NC](https://ko.wikipedia.org/wiki/NC_\(복잡도\) "wikilink")**도 포함한다. 이는 순차 기계가 병렬 컴퓨터를 시뮬레이트할 수 있기 때문이다. **NC**=**P**인지는 아직 밝혀지지 않았다. 다시 말해서, 원래 순차적인, 다룰 수 있는 문제가 존재하는지 여부는 아직 모른다. 다만, **P**와 **NP**가 다를 가능성이 높기 때문에 **NC**와 **P**도 다를 것으로 추측한다.
+
+**[NP-완전](https://ko.wikipedia.org/wiki/NP-완전 "wikilink")**은 "다룰 수 없을 것 같은" 문제들의 집합으로 **P**=**NP** 문제를 연구하면서 나온 개념이다. 비슷하게, "병렬화할 수 없을 것 같은", "원래 순차적인 것 같은" 문제의 집합인 **P-완전** 문제는 **NC**=**P** 문제와 관련이 있다. 어떤 **P-완전**문제를 빠르게 병렬화하는 방법을 찾는다면, **NC** ≠ **P** 명제가 틀리다는 것을 증명하게 된다.
+
+## P-완전 문제들
+
+가장 기본적인 **P-완전** 문제는, [튜링 기계와](https://ko.wikipedia.org/wiki/튜링_기계 "wikilink") 여기 들어가는 입력이 하나 있고, [일진수](https://ko.wikipedia.org/wiki/일진법 "wikilink") \(T\)가 있을 때, 이 기계가 첫 \(T\) 단계 안에 멈출 것인가 하는 문제이다. 이 문제가 **P-완전**임은 틀림없다. 만약 순차 컴퓨터의 일반적인 시뮬레이션을 병렬화할 수 있다면, 그 컴퓨터에서 돌아가는 어떠한 프로그램도 병렬화할 수 있을 것이기 때문이다. 이 문제가 **NC**라면 **P**에 들어가는 다른 모든 문제도 **NC**가 된다. 단계 수가 일진이 아니라 [이진수라면](https://ko.wikipedia.org/wiki/이진법 "wikilink") 이 문제는 [EXPTIME-완전](https://ko.wikipedia.org/wiki/EXPTIME-완전 "wikilink")이 된다.
+
+위 보기는 **P-완전** 이론에서 흔히 쓰는 방법이다. 어떤 문제를 병렬 컴퓨터가 빨리 풀어내는지는 진정한 관심사가 아니다. 다만 병렬 컴퓨터가 그 문제를 순차 컴퓨터보다 *훨씬 더* 빨리 푸는지만 관심이 있을 뿐이다. 따라서 그 문제를 순차 버전은 **P**가 되도록 바꾸어 불러야 한다. 이것이 *T*가 일진수여야 하는 까닭이다. \(T\)가 이진수(0과 1이 \(n\)개로 이루어진 문자열, \(n=\log T\))라면 순차 알고리즘은 2<sup>*n*</sup> 시간 걸린다. 반면에 \(T\)가 일진수(1이 \(n\)개로 이루어진 문자열, \(n=T\))라면 순차 알고리즘은 \(n\)시간 걸릴 뿐이다. \(T\)를 이진이 아닌 일진수로 씀으로써 순차 알고리즘에 걸리는 시간을 지수 시간에서 선형 시간으로 줄이게 된다. 이리하여 순차 문제는 **P**에 들게 된다. 이 문제는 병렬화할 수 있을 때만 **NC**가 된다.
+
+이밖에도 **P-완전**임이 증명된, 즉, 원래 순차적인 문제는 많이 있다. 아래 나열하는 문제는 [판정 문제꼴로](https://ko.wikipedia.org/wiki/판정_문제 "wikilink") 되어 있다.
+
+  - [선형계획법](https://ko.wikipedia.org/wiki/선형계획법 "wikilink") - 선형 부등식 제약조건을 만족하면서 선형 함수를 최대화하는 문제.
+  - 깊이 우선 탐색 순서 - 순서가 정해진 인접 리스트로 표현되는 [그래프에](https://ko.wikipedia.org/wiki/그래프_이론 "wikilink") 마디 *u*와 *v*가 있다고 할 때, 깊이 우선 탐색에서 꼭짓점 *u*를 *v*보다 먼저 방문하는지를 묻는 문제.
+  - 문맥 자유 문법 - [문맥 자유 문법과](https://ko.wikipedia.org/wiki/문맥_자유_문법 "wikilink") 문자열 하나가 있을 때, 이 문자열을 그 문법으로 만들 수 있는가?
+
+어떤 문제가 P-완전인지 증명하려면 보통, 이미 알고 있는 **P-완전** 문제를 좋은 병렬 알고리즘을 써서 그 문제로 환산해 본다.
+
+## P-완전인지 밝혀지지 않은 문제
+
+어떤 문제는 **NP-완전**, **P** 어느 쪽인지 아직 밝혀지지 않았다. 이 문제들(예: [소인수 분해](https://ko.wikipedia.org/wiki/소인수_분해 "wikilink"))은 어려울 것으로 추측하고 있다. 이와 비슷하게 **P-완전**인지 **NC**인지 밝혀지지 않았지만, 어려울 것으로 보고 있는 문제들도 있다.
+
+예를 들어 두 이진수의 [최대공약수](https://ko.wikipedia.org/wiki/최대공약수 "wikilink")를 찾는 문제의 [판정 문제꼴이나](https://ko.wikipedia.org/wiki/판정_문제 "wikilink"), [확장 유클리드 알고리즘이](https://ko.wikipedia.org/wiki/유클리드_호제법 "wikilink") 이진수 두 개를 입력받았을 때 어떤 답을 할지 판정하는 문제가 있다.
+
+## 참고 문헌
+
+  - — 이론을 전개하고 P-완전 문제 96개에 대한 목록을 만들었다.
+
+  - Satoru Miyano, Shuji Shiraishi, and Takayoshi Shoudai. *A List of P-Complete Problems*. Kyushu University, RIFIS-TR-CS-17. December 1990.
+
+[분류:복잡도 종류](https://ko.wikipedia.org/wiki/분류:복잡도_종류 "wikilink")

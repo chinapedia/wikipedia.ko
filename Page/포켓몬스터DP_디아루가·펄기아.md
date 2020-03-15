@@ -1,0 +1,764 @@
+> This article is converted from Wikipedia: [DP ](https://ko.wikipedia.org/wiki/DP_).
+
+
+《**포켓몬스터DP 디아루가·펄기아**》( )는 [게임 프리크가](https://ko.wikipedia.org/wiki/게임_프리크 "wikilink") 개발하고, [닌텐도](https://ko.wikipedia.org/wiki/닌텐도 "wikilink")가 [닌텐도 DS용으로](https://ko.wikipedia.org/wiki/닌텐도_DS "wikilink") 발매한 [포켓몬스터 시리즈의](https://ko.wikipedia.org/wiki/포켓몬스터_시리즈 "wikilink") 게임이다. 이후 발매된 《[포켓몬스터Pt 기라티나](https://ko.wikipedia.org/wiki/포켓몬스터Pt_기라티나 "wikilink")》, 《[포켓몬스터 하트골드·소울실버](https://ko.wikipedia.org/wiki/포켓몬스터_하트골드·소울실버 "wikilink")》와 함께 포켓몬스터 4세대 작품군을 이루고 있는 게임으로, [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [9월 28일에](https://ko.wikipedia.org/wiki/9월_28일 "wikilink") [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서 최초 발매되었으며, 2007년과 2008년에 걸쳐 미국, 오스트레일리아, 유럽, 대한민국에서 발매되었다.
+
+《포켓몬스터DP》는 107마리의 새로운 포켓몬이 [신오지방](https://ko.wikipedia.org/wiki/신오지방 "wikilink")을 배경으로 등장하는 작품이다. 시리즈 최초로 [닌텐도 와이파이 커넥션](../Page/닌텐도_와이파이_커넥션.md "wikilink") 기능이 지원되었으며, 배틀의 형식이 3세대 작품군과 비교해 크게 변화되었다. 《포켓몬스터DP 디아루가》와 《포켓몬스터DP 펄기아》는 기본 줄거리를 공유하지만 서로 독립적인 게임이며, 잡을 수 있는 포켓몬이 조금 달라 각각의 [포켓몬 도감을](https://ko.wikipedia.org/wiki/포켓몬_도감 "wikilink") 완성하기 위해 상호 포켓몬 교환이 필요하다.
+
+《포켓몬스터DP》의 개발은 2004년 4분기의 닌텐도 기자회견에서 최초 발표되었다. 2005년 일본 출시를 목표로 하였으나 실 발매는 2006년에 이루어졌다. 발매와 더불어 [포켓몬스터](https://ko.wikipedia.org/wiki/포켓몬스터 "wikilink") 한정판 [DS 라이트를](../Page/닌텐도_DS_라이트.md "wikilink") 판매하였으며, 미국에서는 출시 기념 파티를 열기도 했다.
+
+게임 평가 사이트에서는 대체적으로 게임을 긍정적으로 평가했다. 특히, [와이파이](https://ko.wikipedia.org/wiki/와이파이 "wikilink") 기능의 추가가 호평을 받았으며, 이전 게임에 비해 눈에 띄는 업데이트는 없었음에도 플레이 자체가 여전히 매력적이라는 부분이 높게 평가 받았다. 단, 그래픽 부문에서는 평론가들의 입장이 갈렸으며, 사운드트랙이 전작 대비의 발전이 없다는 비판을 받기도 했다. 또한, 세이브를 하는 시간이 너무 오래 걸린다는 것을 비판했다.
+
+《포켓몬스터DP》는 전세계적으로 약 1800만 장이 팔리며 상업적인 성공을 거두었다. 전작 《[포켓몬스터 루비·사파이어](https://ko.wikipedia.org/wiki/포켓몬스터_루비·사파이어 "wikilink")》, 《[포켓몬스터 파이어레드·리프그린](https://ko.wikipedia.org/wiki/포켓몬스터_파이어레드·리프그린 "wikilink")》보다 각각 200만 장, 600만 장이 더 팔렸으며, 후속작 《[포켓몬스터 블랙·화이트](https://ko.wikipedia.org/wiki/포켓몬스터_블랙·화이트 "wikilink")》보다도 약 200만장이 더 팔렸다.
+
+## 게임플레이
+
+《포켓몬스터DP 디아루가·펄기아》는 어드벤처 요소를 갖춘 [롤플레잉 게임으로](https://ko.wikipedia.org/wiki/롤플레잉_게임 "wikilink"), 기본적인 플레이 방식은 이전의 1, 2, 3세대 작품군과 거의 같다.\[1\] 모든 [휴대용 기기의](../Page/휴대용_게임기.md "wikilink") 포켓몬 게임과 마찬가지로 3인칭 오버헤드 시점으로 게임을 진행하며,\[2\] 메인 캐릭터를 안내해주는 필드 맵, 배틀 스크린, 그리고 메뉴의 세가지 기본 스크린으로 구성되어 있다. 게임 플레이 설정, 도구, 지닌 포켓몬의 설정은 메뉴 화면에서 이루어진다. 플레이어는 [몬스터볼과](https://ko.wikipedia.org/wiki/포켓몬_볼 "wikilink") [포켓몬](https://ko.wikipedia.org/wiki/포켓몬 "wikilink")이 없는 상태로 게임을 시작하나, 스토리 과정 속에서 3마리의 [스타팅 포켓몬](https://ko.wikipedia.org/wiki/포켓몬스터의_게임플레이#처음_만나는_포켓몬_\(스타팅_포켓몬\) "wikilink") 중 하나를 선택할 수 있는 기회를 가질 수 있다. 몬스터볼을 얻은 순간부터, 플레이어는 이를 이용해 다양한 포켓몬을 잡을 수 있게 된다.
+
+플레이어는 배틀에서 상대 포켓몬에게 대미지를 입히기 위해 자신이 지닌 포켓몬을 이용할 수도 있다. 플레이어가 야생 포켓몬과 조우하거나 트레이너와 만나 배틀을 하게 될 때 마다, 필드 맵 스크린이 턴제 배틀 스크린으로 전환된다.\[3\] 배틀이 시작되면 플레이어는 포켓몬이 기술을 쓰도록 지시하여 상대 포켓몬에 대미지를 입히고, 열매, 회복제와 같은 아이템을 사용할 수 있으며, 포켓몬을 교체할 수도 있다. 야생 포켓몬과의 배틀 중에는 도망가는 것도 가능하다.
+
+모든 포켓몬은 고유의 HP()를 가지고 있으며, 포켓몬의 HP가 0으로 떨어지는 순간 포켓몬은 기절하게 된다. 기절한 포켓몬은, 포켓몬 센터에 가서 회복을 하거나, 특정 아이템을 사용하기 전까지는 배틀을 할 수 없게 된다. 플레이어의 포켓몬이 상대 포켓몬의 HP를 0으로 만들어 기절시킬 경우, 경험치를 획득하게 되는데, 이 경험치를 축적하면 레벨업이 가능해진다. 특정 레벨까지 도달하면, 대부분의 포켓몬은 종족값이 더 높은 포켓몬으로 진화하여 새로운 기술을 배울 수 있게 된다.\[4\]
+
+배틀과 더불어, 포켓몬을 포획하는 것 또한 포켓몬스터의 게임 플레이에 있어 가장 중요한 요소의 하나이다.\[5\] 플레이어는 다양한 야생 포켓몬을 포획할 수 있으나, 다른 트레이너의 포켓몬을 잡아오는 것은 불가능하다. 포획에 성공한 야생 포켓몬은 지닌 포켓몬에 포함되며, 들어갈 자리가 없을 경우 자동으로 보관소에 맡겨진다. 각 포켓몬마다 고유의 포획률이 책정되어 있으나, 포켓몬의 HP가 낮을수록, 또 몬스터볼의 파워가 셀수록 포획 성공률이 높아진다. 포켓몬이 잠듦, 마비와 같은 상태이상에 빠졌을 때에도 포획 성공률이 증가된다.
+
+### 새로운 기능
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Nightime_feature.jpg "wikilink") 《포켓몬스터DP 디아루가·펄기아》는 [시리즈의](https://ko.wikipedia.org/wiki/포켓몬스터_시리즈 "wikilink") 전작들과 기본적 게임 플레이 방식은 같으나, 다양한 새 기능이 추가된 작품이다. 《[포켓몬스터 금·은](../Page/포켓몬스터_금·은.md "wikilink")》이후 전통적으로 아침·낮·밤의 세 가지로 분류되던 시간대를 아침·낮·저녁·밤·심야의 다섯 개로 세분화하였다.\[6\]\[7\] 배틀 기술의 분류 기준 또한 변경되었다. 이전 3세대 작품군까지는 포켓몬 기술은 기술의 타입에 따라 '물리'와 '특수'로 분류되어 왔다. 예로, 모든 에스퍼타입 기술은 특수 기술로 분류되었으며 모든 격투타입 기술은 물리 기술로 분류되었었다. 그러나, 《포켓몬스터DP》부터는 상대방과 접촉하는 기술은 '물리', 접촉하지 않는 기술은 '특수', 대미지를 직접적으로 발생시키지 않는 상태이상 유발 기술이나 회복 기술은 '변화', 이 세가지로 기술들을 재분류\[8\]\[9\]하였으며, 7세대 작품군까지 이 분류를 유지한다.\[10\]
+
+게임플레이 중 닌텐도 DS의 터치스크린에는 가상 [스마트워치](../Page/스마트워치.md "wikilink")인 포켓몬워치()가 표시되는데, 게임 진행에 필요한 시계, 만보계, 지도, 그림판, 다우징 머신등의 기능을 가지고 있다.\[11\]\[12\] 포켓몬워치의 기능은 게임이 진행되면서 계속 추가된다.\[13\] 신오지방의 지하에는 무선 멀티플레이\[14\]\[15\]를 지원하는 지하통로()가 존재하는데, 여기서 비밀기지를 생성하여 꾸미거나, 미니게임을 즐길 수 있다. 닌텐도 DS와 Wii에 지원되던 [닌텐도 와이파이 커넥션](../Page/닌텐도_와이파이_커넥션.md "wikilink") 서비스가 시리즈 최초로 도입되었으나, 닌텐도가 해당 서비스를 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [9월 20일](https://ko.wikipedia.org/wiki/9월_20일 "wikilink") 전면 중지하면서 《포켓몬스터DP》에서도 관련 기능을 사용할 수 없게 되었다.\[16\]\[17\] 서비스 종료 전까지, 와이파이 커넥션을 이용하여 사용자 간 포켓몬을 교환활 수 있는 [GTS](https://ko.wikipedia.org/wiki/GTS "wikilink") 기능이 사용 가능했다. 교환하고 싶은 자신의 포켓몬을 맡겨두고 원하는 포켓몬을 올려두면, 조건이 맞는 다른 플레이어와 매칭하여 교환해주는 서비스로, 한번 올려 둔 포켓몬의 정보는 다른 플레이어들이 상시 볼 수 있어 언제든 교환을 실행할 수 있는 시스템이었다.\[18\]\[19\]\[20\] GTS를 통해 다른 나라의 플레이어와 포켓몬을 교환하여 오는 경우, 원래의 국가에서 사용하던 명칭 그대로 [포켓몬 도감에](https://ko.wikipedia.org/wiki/포켓몬_도감 "wikilink") 기록된다.\[21\]
+
+한편, 이전 3세대 작품군에서 등장했던 포켓몬 콘테스트가 재등장한다. 3세대와의 차이점은, 콘테스트가 한 단계가 아닌 3단계로 이루어지게 되는 점이다. 포켓몬 리본을 얻기 위한\[22\] 콘테스트의 첫 단계는 비주얼 심사인데, 터치스크린으로 포켓몬에게 굿즈를 장착하여 "귀여움", "슬기로움", "강인함", "아름다움", "근사함"의 5가지 속성을 부각시켜 심사받는다.\[23\] 둘째 단계인 댄스 심사에서는 플레이어가 리듬에 맞추어 버튼을 눌러 점수를 얻어야 한다. 마지막 연기 심사 단계에서는 포켓몬이 심사위원과 관중 앞에서 기술을 수행하여 평가를 받게 된다.\[24\] 3세대의 '포켓블럭'과 유사하게, 열매류로 만들어져 다양한 맛이 나는 포켓몬용 과자인 '포핀'을 포켓몬에게 먹일 수 있는데, 이는 포켓몬의 5가지 속성 중 하나의 기본 능력치를 상승시킴으로써 콘테스트에서 높은 평가를 받는데 도움을 준다.\[25\]
+
+### 타 기기와의 통신
+
+《포켓몬스터DP 디아루가·펄기아》는 3세대 작품군과의 호환이 가능하다. 플레이어가 전국도감을 획득한 이후, 3세대 [게임보이 어드밴스](https://ko.wikipedia.org/wiki/게임보이_어드밴스 "wikilink") 작품군인 《[포켓몬스터 루비·사파이어](https://ko.wikipedia.org/wiki/포켓몬스터_루비·사파이어 "wikilink")》, 《[포켓몬스터 에메랄드](https://ko.wikipedia.org/wiki/포켓몬스터_에메랄드 "wikilink")》, 《[포켓몬스터 파이어레드·리프그린](https://ko.wikipedia.org/wiki/포켓몬스터_파이어레드·리프그린 "wikilink")》의 카트리지와 《포켓몬스터DP》의 게임 칩을 동시에 꽂으면, 3세대의 소프트웨어의 포켓몬 중 여섯 마리가 '팔파크'로 옮겨지며, 그 곳에서 플레이어가 포켓몬들을 잡을 수 있다.\[26\]\[27\] 단, 이 작업은 24시간에 한번씩만 가능하며, 옮겨진 여섯 마리를 모두 잡지 않은 상태에서 팔파크로 또 다른 포켓몬을 이동시키는 것은 불가능하다. 이렇게 《포켓몬스터DP》로 이동된 포켓몬은 다시 3세대 작품군으로 되돌아갈 수 없다.\[28\]
+
+[포켓몬 레인저와의](https://ko.wikipedia.org/wiki/포켓몬_레인저 "wikilink") 통신도 가능하다. 포켓몬 레인저에서 특별 임무를 완수한 이후, 플레이어는 [마나피](https://ko.wikipedia.org/wiki/마나피 "wikilink")의 알이나 [리오르](https://ko.wikipedia.org/wiki/리오르 "wikilink")를 레인저로부터 받아 이를 《포켓몬스터DP》로 가져올 수 있다.\[29\] 또 플레이어는 무선으로 [Wii](https://ko.wikipedia.org/wiki/Wii "wikilink") 소프트웨어 《[포켓몬 배틀 레볼루션](https://ko.wikipedia.org/wiki/포켓몬_배틀_레볼루션 "wikilink")》과 《마이 포켓몬 랜치》로부터 포켓몬을 옮겨오는 것이 가능하다.\[30\] [닌텐도 와이파이 커넥션에](../Page/닌텐도_와이파이_커넥션.md "wikilink") 연결하면 전 세계의 플레이어와 배틀할 수 있으며, [DS 무선 통신을](https://ko.wikipedia.org/wiki/닌텐도_DS#특징 "wikilink") 이용할 경우 5미터 내,의 사람과 함께 게임을 즐길 수 있다.
+
+## 시놉시스
+
+### 배경
+
+[섬네일를](https://ko.wikipedia.org/wiki/파일:Map_of_Hokkaido.jpg "wikilink") 모티브로 만들어졌다.\[31\]\]\] 《포켓몬스터DP 디아루가·펄기아》는 일본의 [홋카이도](https://ko.wikipedia.org/wiki/홋카이도 "wikilink")를 모티브로 한 가상의 지역인 [신오지방](https://ko.wikipedia.org/wiki/신오지방 "wikilink")을 공간적 배경으로 한다. 신오지방은 포켓몬 세계의 다른 지역과 직접 연결된다는 언급은 없다. 눈으로 덮인 산맥인 천관산에 의해 반으로 나뉘어 있으며\[32\], 107마리\[33\]의 새로운 포켓몬이 등장하는데, 스타팅 포켓몬으로 [팽도리](../Page/팽도리.md "wikilink"), [불꽃숭이](../Page/불꽃숭이.md "wikilink"), [모부기](../Page/모부기.md "wikilink")(각각 물, 불, 풀 타입)가 주어진다. 팽도리는 [팽태자](https://ko.wikipedia.org/wiki/팽태자 "wikilink")를 거쳐 [엠페르트](https://ko.wikipedia.org/wiki/엠페르트 "wikilink")로, 불꽃숭이는 [파이숭이](https://ko.wikipedia.org/wiki/파이숭이 "wikilink")를 거쳐 [초염몽](https://ko.wikipedia.org/wiki/초염몽 "wikilink")으로, 모부기는 [수풀부기](https://ko.wikipedia.org/wiki/수풀부기 "wikilink")를 거쳐 [토대부기](../Page/토대부기.md "wikilink")로 최종 진화한다.
+
+신오지방은 유일하게 눈으로 덮인 도로\[34\]를 가지고 있으며, 삼각형을 이루는 입지호수, 예지호수, 진실호수의 세 호수가 특징적이다. 또, 도로의 대부분이 수로로 이루어져 있는 [호연지방과](https://ko.wikipedia.org/wiki/호연_지방 "wikilink") 달리, 신오지방은 전체 도로의 30%만 수로이다.\[35\] 신오지방의 지하에는, 터널과 동굴로 이루어진 거대한 미로인 '지하통로'가 존재한다.
+
+### 줄거리
+
+《포켓몬스터DP 디아루가·펄기아》는, 포켓몬 리그의 챔피언을 꿈꾸는 한 [포켓몬 트레이너의](https://ko.wikipedia.org/wiki/포켓몬_트레이너 "wikilink") 모험을 다루고 있다. 게임에는 8개의 [체육관이](https://ko.wikipedia.org/wiki/포켓몬스터의_게임플레이#포켓몬_체육관 "wikilink") 존재하는데, 각각 [포켓몬 타입별](https://ko.wikipedia.org/wiki/포켓몬스터의_게임플레이#타입 "wikilink") 전문 트레이너인 체육관 관장이 이끌고 있다. 체육관 관장은 게임에서 보스의 역할을 하며, 플레이어가 이들에 승리할 시 스토리 진행에 필수적인 물건인 포켓몬 배지를 수여받는다. 한편, 플레이어는 악의 조직인 갤럭시단과도 맞서 싸워야 한다. 갤럭시단은 포켓몬을 이용해 현재의 우주를 파괴하고 그들만의 새로운 우주를 창조하려는 야심을 가진 단체이다.\[36\]
+
+시리즈의 타 작품과 마찬가지로 《포켓몬스터DP》 또한 주인공의 고향인 [떡잎마을에서](https://ko.wikipedia.org/wiki/신오_지방 "wikilink") 시작한다. 멀리 떨어진 호수([성도지방의](https://ko.wikipedia.org/wiki/성도_지방 "wikilink") 분노의 호수\[37\])에서 발견된 붉은색 [갸라도스](../Page/갸라도스.md "wikilink")를 다룬 텔레비전 프로그램을 본 후, 주인공과 그의 친구는 그와 같은 특별한 포켓몬을 찾기 위해 마을의 호수로 향한다. 이곳에서 우연히 포켓몬 진화 전문가인 마박사와 그의 조수가 짧은 대화를 나눈 후 호수를 떠나는 것을 목격한다. 주인공 일행은 야생 [찌르꼬](https://ko.wikipedia.org/wiki/찌르꼬 "wikilink")에게 공격 당하자, [마박사](https://ko.wikipedia.org/wiki/마박사 "wikilink")가 남기고 간 서류 가방을 열어보게 되는데, 이 때 그 안에서 나온 세 포켓몬([모부기](../Page/모부기.md "wikilink"), [팽도리](../Page/팽도리.md "wikilink"), [불꽃숭이](../Page/불꽃숭이.md "wikilink")) 중 하나를 선택할 수 있는 기회를 얻게 된다. 선택한 포켓몬으로 야생 찌르꼬를 물리친 후, 마박사의 조수가 돌아와 서류가방을 찾아 마박사에게 돌려준다. 마박사는 주인공과 주인공이 골랐던 포켓몬 사이에 친밀감이 생겼음을 느끼고, 그 포켓몬을 정식으로 선물하면서 포켓몬들과 함께 모험을 떠날 것을 요청한다.\[38\]
+
+모험을 떠난 주인공은 게임 초반 마박사를 포위한 갤럭시단의 조무래기를 물리치게 되는데, 이것이 갤럭시단과의 첫번째 만남이다. 이후, 골짜기발전소와 영원시티의 갤럭시단 본사에서 두 번 더 만나게 된다. 주인공이 7번째 체육관 배지를 얻은 직후, 갤럭시단은 신오지방의 세 개의 호수를 점령하고 환상의 포켓몬 [유크시](https://ko.wikipedia.org/wiki/유크시 "wikilink"), [엠라이트](https://ko.wikipedia.org/wiki/엠라이트 "wikilink"), [아그놈](https://ko.wikipedia.org/wiki/아그놈 "wikilink")을 잡아 갤럭시단 본사의 과학 연구소에 잡아 가둔다. 그들로부터 크리스탈을 추출하여 전설의 포켓몬 [디아루가](../Page/디아루가.md "wikilink") 또는 [펄기아](../Page/펄기아.md "wikilink")\[39\]를 조종할 수 있는 도구인 붉은 사슬을 만들려는 것이었다. 주인공이 이들을 해방시키고 [천관산](https://ko.wikipedia.org/wiki/천관산 "wikilink") 꼭대기에 진입한다. 이때, 갤럭시단의 리더 태홍이 디아루가 또는 펄기아\[40\]를 깨우고, 이들이 신오지방을 압도하기 시작한다. 주인공은 여기에서 디아루가와 펄기아와\[41\] 배틀을 하여 승리함으로써 신오지방의 평화를 되찾는 것으로 이야기는 1차적으로 마무리된다. 이후에도 플레이어는 계속 게임을 진행해 8개의 배지를 모두 취득하여 [포켓몬 리그의](https://ko.wikipedia.org/wiki/신오지방#포켓몬_리그 "wikilink") 사천왕에 도전할 수 있는 자격을 가질 수 있다. 사천왕에게 모두 승리하면 최종적으로 신오지방의 [챔피언](https://ko.wikipedia.org/wiki/챔피언 "wikilink"), [난천](https://ko.wikipedia.org/wiki/난천 "wikilink")과 대결하게 되며, 난천에게 승리하면 신오지방의 새로운 챔피언이 되어 전당등록을 완료하고 신오지방 북동쪽에 위치한 새로운 섬에 진입할 수 있게 된다. 이 섬에서는, 파이트에리어와 리조트에리어에 방문하여 새로운 포켓몬을 잡고, 배틀 토너먼트 시설을 이용할 수도 있다.
+
+## 개발과 출시
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:New_York_Pokemon_D_and_P_Launch_Party.jpg "wikilink") [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 4분기\[42\]에 있었던 기자회견에서, 닌텐도는 《[포켓몬 대시](../Page/포켓몬_대시.md "wikilink")》의 출시를 발표하고 이와 함께 《포켓몬스터DP 디아루가·펄기아》가 개발 단계에 있음을 처음 공개하였다. 개발자 [마스다 준이치는](https://ko.wikipedia.org/wiki/마스다_준이치 "wikilink") 《포켓몬스터DP》가 "다양한 형태의 플레이를 제공하는 새로운 유형의 게임이 될 것" 이라고 말하며, "궁극의 포켓몬 게임"을 지향한다고 밝혔다.\[43\]\[44\] [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") 발매를 목표로 하였으나, 게임플레이의 다양한 측면을 고려한 개발을 위해 출시 시기를 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")으로 미루었다고 발표하면서,\[45\] [게임 보이 어드밴스로부터](https://ko.wikipedia.org/wiki/게임보이_어드밴스 "wikilink") 포켓몬을 가져오는 것이 가능하며 [닌텐도 와이파이 커넥션을](../Page/닌텐도_와이파이_커넥션.md "wikilink") 통해 한번에 16명의 플레이어까지 통신 할 수 있다는 점을 언급하였다.\[46\] 2006년 중반에는, 닌텐도의 사장 [이와타 사토루가](https://ko.wikipedia.org/wiki/이와타_사토루 "wikilink") [포켓몬 배틀 레볼루션과의](https://ko.wikipedia.org/wiki/포켓몬_배틀_레볼루션 "wikilink") 호환을 위한 개발\[47\]이 진행 중이며 포켓몬 워치와 같은 새로운 기능이 추가될 것임을 최초 공개하였다.\[48\]\[49\]
+
+포켓몬의 공동 개발자인 라이언 롱은 《포켓몬스터DP》는 닌텐도 와이파이 커넥션과 게임보이 어드밴스 카트리지와 같은 [닌텐도 DS의](https://ko.wikipedia.org/wiki/닌텐도_DS "wikilink") 독특한 기능\[50\]을 활용할 수 있도록 만들어 졌다고 말했다. 마스다 준이치는 배틀 스크린의 명령 버튼을 키우고 색을 입힘으로써 난독증 플레이어들을 배려했음\[51\]을 밝혔다. 터치스크린의 인터페이스는 손가락보다는 DS의 스타일러스 펜으로 조종하는 것이 더 용이하도록 설계되어 있으며,\[52\] 그래픽은 대부분 2D이지만 몇몇 배경은 3D로 표현되어 있다.\[53\]\[54\]\[55\] 2D 그래픽의 유지에 대해 비판이 일자, 크리처스 주식회사의 회장 [이시하라 쓰네카즈는](https://ko.wikipedia.org/wiki/이시하라_쓰네카즈 "wikilink") "큰 맵에서 플레이하는 오리지널 포켓몬 게임의 기본을 유지하는 것을 원했기에 2D를 혼용했다"고 밝혔다. 또, 친구 코드 사용에 대한 비판에 대해서는 "와이파이 통신을 통해 낯선 이와 음성 채팅을 할 수 없도록 하기 위한 보안 장치" 라고 말했다.\[56\] 출시 이후, 닌텐도는 일본판 《포켓몬스터DP》에 [글리치](https://ko.wikipedia.org/wiki/글리치 "wikilink")가 있음을 공식적으로 발표하였다. 이 글리치로 인해 플레이어가 게임 내 벽에 갇히거나 세이브 파일이 손상되는 등 치명적인 오류가 발생하였으며, 이를 해결하기 위해 소매점에서 업그레이드 패치를 배포하기도 했다.\[57\]\[58\]
+
+《포켓몬스터DP》는 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [9월 28일](https://ko.wikipedia.org/wiki/9월_28일 "wikilink") [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서 세계 최초로 발매되었다. 출시를 기념하기 위해서, 일본 내 포켓몬 센터에서 한정판 [닌텐도 DS 라이트를](../Page/닌텐도_DS_라이트.md "wikilink") 판매하였다. 이 한정판은 메탈 블랙 본체 위에 [디아루가](../Page/디아루가.md "wikilink")와 [펄기아](../Page/펄기아.md "wikilink")가 각각 은색과 금색으로 그려져 있는 것이었다.\[59\]
+
+[북아메리카](https://ko.wikipedia.org/wiki/북아메리카 "wikilink")에서는 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [4월 22일](https://ko.wikipedia.org/wiki/4월_22일 "wikilink") 발매를 예고하면서, 선주문자들에게 새로운 포켓몬이 그려진 특별한 닌텐도 스타일러스 펜을 지급한다고 발표하였다.\[60\] 북미 발매 직전에, [포켓몬 컴퍼니는](https://ko.wikipedia.org/wiki/포켓몬_\(기업\) "wikilink") 게임 개발자 회의의 닌텐도 부스에서 《포켓몬스터DP》의 체험판을 공개하였으며,\[61\] 발매 이후 [뉴욕](https://ko.wikipedia.org/wiki/뉴욕 "wikilink") [록펠러 센터의](https://ko.wikipedia.org/wiki/록펠러_센터 "wikilink") 닌텐도 월드 스토어에서 출시 기념 파티를 가졌다.\[62\]
+
+[2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [7월 26일](https://ko.wikipedia.org/wiki/7월_26일 "wikilink") 햄리스의 GAME 매장에서 개최된 [유럽](https://ko.wikipedia.org/wiki/유럽 "wikilink") 발매 기념 행사에서는, 공식 발매일인 [7월 27일](https://ko.wikipedia.org/wiki/7월_27일 "wikilink") 하루 전날 게임을 구입할 수 있었으며, 밴드 [맥플라이](https://ko.wikipedia.org/wiki/맥플라이 "wikilink")의 공연이 있었다.\[63\]\[64\]
+
+[오스트레일리아](https://ko.wikipedia.org/wiki/오스트레일리아 "wikilink")에서의 공식 발매일은 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [6월 21일이었으며](https://ko.wikipedia.org/wiki/6월_21일 "wikilink"),\[65\] 발매를 기념하여 개최한 '닌텐도 DS 커넥션 투어 07'를 통해 각 투어 정류장마다 포켓몬 상식 게임, [포켓몬 카드 게임](https://ko.wikipedia.org/wiki/포켓몬_카드_게임 "wikilink") 등의 행사를 진행하였다.\[66\]
+
+[대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [2월 14일에](https://ko.wikipedia.org/wiki/2월_14일 "wikilink") 발매되었다.\[67\] 대한민국을 제외한 전 세계에서는 《포켓몬스터 다이아몬드·펄》이라는 명칭으로 정식 발매 되었으나, 정식발매 이전에 [대원씨아이](https://ko.wikipedia.org/wiki/대원씨아이 "wikilink")에서 한글화를 거치지 않은 《다이아몬드·펄》 버전을 발매한 적이 있었기에 한국닌텐도가 해당 명칭에 대한 상표권을 획득하지 못해, 대한민국에서는 《포켓몬스터DP 디아루가·펄기아》라는 명칭으로 발매되었다.\[68\] 이에 따라, 후속작 《포켓몬스터 플래티넘》도 대한민국에서는 《[포켓몬스터Pt 기라티나](https://ko.wikipedia.org/wiki/포켓몬스터Pt_기라티나 "wikilink")》로 출시되었다.\[69\]
+
+해당 게임의 성공은, 《[포켓몬스터 루비·사파이어](https://ko.wikipedia.org/wiki/포켓몬스터_루비·사파이어 "wikilink")》 이후 다소 축소되었던 [포켓몬스터](https://ko.wikipedia.org/wiki/포켓몬스터 "wikilink") 브랜드의 인기를 다시 부활시켰다.\[70\] 당시 미국 닌텐도의 마케팅 부사장이었던 조지 해리슨은, 《포켓몬스터DP》가 성공할 수 있었던 것은 어린이들부터 성인까지, 또 포켓몬스터를 처음 접하는 사람부터 이전에 접했던 사람들에 이르기까지 누구에게나 매력적인 게임이었기 때문이라고 자평했다.\[71\] 《포켓몬스터DP》의 성공에 힘입어, 포켓몬스터 USA는 [타임스 스퀘어의](https://ko.wikipedia.org/wiki/타임스_스퀘어 "wikilink") [토이저러스](../Page/토이저러스.md "wikilink") 매장에 포켓몬스터의 [피겨](https://ko.wikipedia.org/wiki/피겨_\(모형\) "wikilink"), [가방](https://ko.wikipedia.org/wiki/가방 "wikilink"), [봉제인형](https://ko.wikipedia.org/wiki/봉제완구 "wikilink"), [의류](https://ko.wikipedia.org/wiki/옷 "wikilink")\[72\]등을 판매하는 [부티크](https://ko.wikipedia.org/wiki/부티크 "wikilink")를 한시적으로 개장하였으며\[73\] 이후 미국 내 585개 토이저러스 전 매장에 이 부티크를 열었다.\[74\] [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [7월 7일부터](https://ko.wikipedia.org/wiki/7월_7일 "wikilink") [8월 3일까지](https://ko.wikipedia.org/wiki/8월_3일 "wikilink") 미국에서 해당 프로모션이 진행되었고, 다른 국가에서는 그 해 가을까지 계속되었다.\[75\] 2008년에는 미국 [버거킹](../Page/버거킹.md "wikilink")과 제휴를 맺고, 어린이 세트에 한정판 포켓몬 트레이딩 카드와 액세서리를 포함시켜 판매하기도 했다.\[76\]
+
+## 사운드트랙
+
+일본 한정으로, 게임의 [사운드트랙](https://ko.wikipedia.org/wiki/사운드트랙 "wikilink") 《**닌텐도 DS 포켓몬스터 다이아몬드 & 펄 슈퍼 뮤직 콜렉션**》이 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [12월 22일](https://ko.wikipedia.org/wiki/12월_22일 "wikilink") 발매되었다. 이치노세 고의 프로듀스로, 사토 히토미와 [마스다 준이치가](https://ko.wikipedia.org/wiki/마스다_준이치 "wikilink") 작곡한 게임 삽입곡과 아오키 모리카즈가 작곡한 [팡파르](https://ko.wikipedia.org/wiki/팡파르 "wikilink")\[77\]를 담고 있는 이 사운드트랙은 일본 [오리콘 차트](../Page/오리콘.md "wikilink") 253위에 올라가 1주 간 차트에 머물렀다.\[78\]
+
+<table>
+<thead>
+<tr class="header">
+<th><p>DISC 1</p></th>
+<th><p>|</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><table>
+<thead>
+<tr class="header">
+<th><p>Disc 1</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>No.</p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+</tr>
+<tr class="odd">
+<td><p>4</p></td>
+</tr>
+<tr class="even">
+<td><p>5</p></td>
+</tr>
+<tr class="odd">
+<td><p>6</p></td>
+</tr>
+<tr class="even">
+<td><p>7</p></td>
+</tr>
+<tr class="odd">
+<td><p>8</p></td>
+</tr>
+<tr class="even">
+<td><p>9</p></td>
+</tr>
+<tr class="odd">
+<td><p>10</p></td>
+</tr>
+<tr class="even">
+<td><p>11</p></td>
+</tr>
+<tr class="odd">
+<td><p>12</p></td>
+</tr>
+<tr class="even">
+<td><p>13</p></td>
+</tr>
+<tr class="odd">
+<td><p>14</p></td>
+</tr>
+<tr class="even">
+<td><p>15</p></td>
+</tr>
+<tr class="odd">
+<td><p>16</p></td>
+</tr>
+<tr class="even">
+<td><p>17</p></td>
+</tr>
+<tr class="odd">
+<td><p>18</p></td>
+</tr>
+<tr class="even">
+<td><p>19</p></td>
+</tr>
+<tr class="odd">
+<td><p>20</p></td>
+</tr>
+<tr class="even">
+<td><p>21</p></td>
+</tr>
+<tr class="odd">
+<td><p>22</p></td>
+</tr>
+<tr class="even">
+<td><p>23</p></td>
+</tr>
+<tr class="odd">
+<td><p>24</p></td>
+</tr>
+<tr class="even">
+<td><p>25</p></td>
+</tr>
+<tr class="odd">
+<td><p>26</p></td>
+</tr>
+<tr class="even">
+<td><p>27</p></td>
+</tr>
+<tr class="odd">
+<td><p>28</p></td>
+</tr>
+<tr class="even">
+<td><p>29</p></td>
+</tr>
+<tr class="odd">
+<td><p>30</p></td>
+</tr>
+<tr class="even">
+<td><p>31</p></td>
+</tr>
+<tr class="odd">
+<td><p>32</p></td>
+</tr>
+<tr class="even">
+<td><p>33</p></td>
+</tr>
+<tr class="odd">
+<td><p>34</p></td>
+</tr>
+<tr class="even">
+<td><p>35</p></td>
+</tr>
+<tr class="odd">
+<td><p>36</p></td>
+</tr>
+<tr class="even">
+<td><p>37</p></td>
+</tr>
+<tr class="odd">
+<td><p>38</p></td>
+</tr>
+<tr class="even">
+<td><p>39</p></td>
+</tr>
+<tr class="odd">
+<td><p>40</p></td>
+</tr>
+<tr class="even">
+<td><p>41</p></td>
+</tr>
+<tr class="odd">
+<td><p>42</p></td>
+</tr>
+<tr class="even">
+<td><p>43</p></td>
+</tr>
+<tr class="odd">
+<td><p>44</p></td>
+</tr>
+<tr class="even">
+<td><p>45</p></td>
+</tr>
+<tr class="odd">
+<td><p>46</p></td>
+</tr>
+<tr class="even">
+<td><p>47</p></td>
+</tr>
+<tr class="odd">
+<td><p>48</p></td>
+</tr>
+<tr class="even">
+<td><p>49</p></td>
+</tr>
+<tr class="odd">
+<td><p>50</p></td>
+</tr>
+<tr class="even">
+<td><p>51</p></td>
+</tr>
+<tr class="odd">
+<td><p>52</p></td>
+</tr>
+<tr class="even">
+<td><p>53</p></td>
+</tr>
+<tr class="odd">
+<td><p>54</p></td>
+</tr>
+<tr class="even">
+<td><p>55</p></td>
+</tr>
+<tr class="odd">
+<td><p>56</p></td>
+</tr>
+<tr class="even">
+<td><p>57</p></td>
+</tr>
+<tr class="odd">
+<td><p>58</p></td>
+</tr>
+<tr class="even">
+<td><p>59</p></td>
+</tr>
+<tr class="odd">
+<td><p>60</p></td>
+</tr>
+<tr class="even">
+<td><p>61</p></td>
+</tr>
+<tr class="odd">
+<td><p>62</p></td>
+</tr>
+<tr class="even">
+<td><p>63</p></td>
+</tr>
+<tr class="odd">
+<td><p>64</p></td>
+</tr>
+<tr class="even">
+<td><p>65</p></td>
+</tr>
+<tr class="odd">
+<td><p>66</p></td>
+</tr>
+<tr class="even">
+<td><p>67</p></td>
+</tr>
+<tr class="odd">
+<td><p>68</p></td>
+</tr>
+<tr class="even">
+<td><p>69</p></td>
+</tr>
+<tr class="odd">
+<td><p>70</p></td>
+</tr>
+<tr class="even">
+<td><p>71</p></td>
+</tr>
+<tr class="odd">
+<td><p>72</p></td>
+</tr>
+<tr class="even">
+<td><p>73</p></td>
+</tr>
+<tr class="odd">
+<td><p>74</p></td>
+</tr>
+<tr class="even">
+<td><p>75</p></td>
+</tr>
+<tr class="odd">
+<td><p>76</p></td>
+</tr>
+<tr class="even">
+<td><p>77</p></td>
+</tr>
+<tr class="odd">
+<td><p>78</p></td>
+</tr>
+</tbody>
+</table></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr class="header">
+<th><p>DISC 2</p></th>
+<th><p>|</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><table>
+<thead>
+<tr class="header">
+<th><p>Disc 2</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>No.</p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+</tr>
+<tr class="odd">
+<td><p>4</p></td>
+</tr>
+<tr class="even">
+<td><p>5</p></td>
+</tr>
+<tr class="odd">
+<td><p>6</p></td>
+</tr>
+<tr class="even">
+<td><p>7</p></td>
+</tr>
+<tr class="odd">
+<td><p>8</p></td>
+</tr>
+<tr class="even">
+<td><p>9</p></td>
+</tr>
+<tr class="odd">
+<td><p>10</p></td>
+</tr>
+<tr class="even">
+<td><p>11</p></td>
+</tr>
+<tr class="odd">
+<td><p>12</p></td>
+</tr>
+<tr class="even">
+<td><p>13</p></td>
+</tr>
+<tr class="odd">
+<td><p>14</p></td>
+</tr>
+<tr class="even">
+<td><p>15</p></td>
+</tr>
+<tr class="odd">
+<td><p>16</p></td>
+</tr>
+<tr class="even">
+<td><p>17</p></td>
+</tr>
+<tr class="odd">
+<td><p>18</p></td>
+</tr>
+<tr class="even">
+<td><p>19</p></td>
+</tr>
+<tr class="odd">
+<td><p>20</p></td>
+</tr>
+<tr class="even">
+<td><p>21</p></td>
+</tr>
+<tr class="odd">
+<td><p>22</p></td>
+</tr>
+<tr class="even">
+<td><p>23</p></td>
+</tr>
+<tr class="odd">
+<td><p>24</p></td>
+</tr>
+<tr class="even">
+<td><p>25</p></td>
+</tr>
+<tr class="odd">
+<td><p>26</p></td>
+</tr>
+<tr class="even">
+<td><p>27</p></td>
+</tr>
+<tr class="odd">
+<td><p>28</p></td>
+</tr>
+<tr class="even">
+<td><p>29</p></td>
+</tr>
+<tr class="odd">
+<td><p>30</p></td>
+</tr>
+<tr class="even">
+<td><p>31</p></td>
+</tr>
+<tr class="odd">
+<td><p>32</p></td>
+</tr>
+<tr class="even">
+<td><p>33</p></td>
+</tr>
+<tr class="odd">
+<td><p>34</p></td>
+</tr>
+<tr class="even">
+<td><p>35</p></td>
+</tr>
+<tr class="odd">
+<td><p>36</p></td>
+</tr>
+<tr class="even">
+<td><p>37</p></td>
+</tr>
+<tr class="odd">
+<td><p>38</p></td>
+</tr>
+<tr class="even">
+<td><p>39</p></td>
+</tr>
+<tr class="odd">
+<td><p>40</p></td>
+</tr>
+<tr class="even">
+<td><p>41</p></td>
+</tr>
+<tr class="odd">
+<td><p>42</p></td>
+</tr>
+<tr class="even">
+<td><p>43</p></td>
+</tr>
+<tr class="odd">
+<td><p>44</p></td>
+</tr>
+<tr class="even">
+<td><p>45</p></td>
+</tr>
+<tr class="odd">
+<td><p>46</p></td>
+</tr>
+<tr class="even">
+<td><p>47</p></td>
+</tr>
+<tr class="odd">
+<td><p>48</p></td>
+</tr>
+<tr class="even">
+<td><p>49</p></td>
+</tr>
+<tr class="odd">
+<td><p>50</p></td>
+</tr>
+<tr class="even">
+<td><p>51</p></td>
+</tr>
+<tr class="odd">
+<td><p>52</p></td>
+</tr>
+<tr class="even">
+<td><p>53</p></td>
+</tr>
+<tr class="odd">
+<td><p>54</p></td>
+</tr>
+<tr class="even">
+<td><p>55</p></td>
+</tr>
+<tr class="odd">
+<td><p>56</p></td>
+</tr>
+<tr class="even">
+<td><p>57</p></td>
+</tr>
+<tr class="odd">
+<td><p>58</p></td>
+</tr>
+<tr class="even">
+<td><p>59</p></td>
+</tr>
+<tr class="odd">
+<td><p>60</p></td>
+</tr>
+<tr class="even">
+<td><p>61</p></td>
+</tr>
+<tr class="odd">
+<td><p>62</p></td>
+</tr>
+<tr class="even">
+<td><p>63</p></td>
+</tr>
+<tr class="odd">
+<td><p>64</p></td>
+</tr>
+<tr class="even">
+<td><p>65</p></td>
+</tr>
+<tr class="odd">
+<td><p>66</p></td>
+</tr>
+<tr class="even">
+<td><p>67</p></td>
+</tr>
+<tr class="odd">
+<td><p>68</p></td>
+</tr>
+<tr class="even">
+<td><p>69</p></td>
+</tr>
+<tr class="odd">
+<td><p>70</p></td>
+</tr>
+<tr class="even">
+<td><p>71</p></td>
+</tr>
+</tbody>
+</table></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 평가
+
+《포켓몬스터DP 디아루가·펄기아》는 전작 《[포켓몬스터 루비·사파이어](https://ko.wikipedia.org/wiki/포켓몬스터_루비·사파이어 "wikilink")》, 《[포켓몬스터 파이어레드·리프그린](https://ko.wikipedia.org/wiki/포켓몬스터_파이어레드·리프그린 "wikilink")》에 비해 대체로 조금 더 나은 평가를 받았다. [메타크리틱](https://ko.wikipedia.org/wiki/메타크리틱 "wikilink")에서는 100점 만점에 85점을, [게임랭킹스](https://ko.wikipedia.org/wiki/게임랭킹스 "wikilink")에서는 85.07%로 호평을 받았다. 이 가운데, UK 오피셜 닌텐도 매거진에서 받은 92점이 최고점이었으며, 게임 레볼루션의 67점이 최저점이었다.\[79\] [게임스팟](../Page/게임스팟.md "wikilink")의 라이언 데이비스는 10점 만점에 8.5점을 부여하며, "지금까지의 포켓몬 게임 중 가장 다방면으로 우수한 게임" 이라고 평했다.\[80\] [IGN](https://ko.wikipedia.org/wiki/IGN "wikilink")과 [게임존](https://ko.wikipedia.org/wiki/GameZone "wikilink") 또한 10점 만점에 8.5점을 주었으며,\[81\]\[82\] [게임스파이](https://ko.wikipedia.org/wiki/게임스파이 "wikilink")의 경우 5점 만점에 4.5점을 주었다.\[83\] ComputerAndVideo.com에서는 전작 《루비·사파이어》보다 약간 낮은 점수를 주었으나, [1UP.com](https://ko.wikipedia.org/wiki/1UP.com "wikilink")에서는 《루비·사파이어》의 B- 보다 더 나은 점수인 A-를 주었다.\[84\]\[85\]
+
+대부분의 평론가들이 전작에 비해 스토리라인에 많은 변화는 없으나 게임은 여전히 매력적이라고 평가했다. 게임스팟의 라이언 데이비스는 "포켓몬 시리즈의 형식이 《포켓몬스터DP》에서 여전히 잘 유지되고 있다는 점은 다소 놀랍다"며, "이것이 포켓몬스터 시리즈의 시스템 측면에서의 우수성과 기본적 원리의 탄탄함을 증명해주는 것"\[86\]이라고 말했다.
+
+특히, [온라인 플레이](../Page/닌텐도_와이파이_커넥션.md "wikilink") 지원 기능이 매우 긍정적인 평가를 받았다. 1UP.com은 무선 통신의 추가가 이 게임의 "가장 큰 발전"\[87\]이라고 평가했으며, 게임스팟과 게임스파이 또한 온라인 플레이를 "강건하고도 중요한 새 기능"이라고 칭했다.\[88\]\[89\] ComputerAndVideo.com은 무선 통신을 이용한 GTS에 대해, "90년대 후반 포켓몬들로 게임 시장이 떠들썩했던 이래 처음으로 포켓몬들이 제대로 살아있다고 느껴졌다. 게임기를 켜고, 그토록 원했던 레벨 100짜리 잠만보가 (GTS 교환을 통해) 당신의 지닌 포켓몬에 들어가 있는 것을 발견하는 순간, 게임 프리크의 기술적 보수성을 즉시 용서하게 될 것이다."라고 언급하기도 했다.\[90\]
+
+그래픽에 대한 평가 또한 대체적으로 긍정적이었다. 게임스팟은 2D와 3D의 혼합을 긍정적으로 평가하였으며, 게임존은 그래픽이 "예상했단 것보다 낫다" 며, "지금까지의 휴대기기 전용 포켓몬 게임 중 최상의 그래픽"이라고 말했다.\[91\]\[92\] 게임스파이는, 그래픽이 단순하기는 하나 "모험하는 즐거움" 을 준다고 말했다.\[93\] 그러나 ComputerAndVideoGames.com은 "해당 게임에 사용된 소위 '3D'는 DS의 우수한 구동장치를 활용하지 못하고, 그저 시점을 뒤섞으면서 플레이를 혼란스럽게 만든다"며 비판하기도 했다.\[94\]
+
+오디오는 부정적인 평가가 많았다. IGN은 포켓몬들의 울음소리가 이전 [게임보이](https://ko.wikipedia.org/wiki/게임보이 "wikilink") 작품들과 다를 바 없이 여전히 매우 날카로우며, BGM이 나아지기는 했어도 [게임보이 어드밴스](https://ko.wikipedia.org/wiki/게임보이_어드밴스 "wikilink") 작품군과 비교했을 때 질적으로 크게 발전했다고 볼 수는 없다고 평했다.\[95\] 게임존 또한 《포켓몬스터DP》에서 유일하게 개선되지 못한 점으로 오디오를 뽑았다.\[96\] 한편 게임스팟은 게임 내에서 같은 BGM이 중복 사용된 점을 부정적으로 평가했다.\[97\]
+
+《포켓몬스터DP》의 첫주 판매량은 포켓몬 시리즈 사상 최고였다. 특히, [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서는 모든 [닌텐도 DS](https://ko.wikipedia.org/wiki/닌텐도_DS "wikilink") 소프트웨어 중 첫주 판매량이 가장 높았다.\[98\] 46일 동안 약 300만 장이 팔린 것으로 집계되며 일본 내 닌텐도 DS 게임 중 가장 빠르게 팔린 게임에 등극했다. 뒤이어 2006년 총 결산 500만 장이 판매되어 가장 많이 팔린 포켓몬 게임이 되었다.\[99\]\[100\]
+
+[미국](https://ko.wikipedia.org/wiki/미국 "wikilink")에서도 흥행이 이어졌다. 미국 내 선주문량이 약 53만 3천 장\[101\]이었는데, 이는 바로 전작인 《[파이어레드·리프그린》의](https://ko.wikipedia.org/wiki/포켓몬스터_파이어레드·리프그린 "wikilink") 선주문량의 두배에 이르는 것이었다.\[102\] 해당 게임은, 미국에서 5일 만에 100만 장이 팔렸다. 이 기록은 《[포켓몬스터Pt 기라티나](https://ko.wikipedia.org/wiki/포켓몬스터Pt_기라티나 "wikilink")》가 발매되기 전까지 가장 빠른 판매 속도였다.\[103\]\[104\] 《포켓몬스터DP》는 2007년 한 해 427만 장이 팔리며 해당년도 비디오 게임 판매 순위 7위를 기록했으며,\[105\] 2009년 초반에는 530만 장을 넘어섰다.\[106\] 생산 종료일인 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [8월 15일까지](https://ko.wikipedia.org/wiki/8월_15일 "wikilink"), 전세계적으로 《포켓몬스터DP》는 전작인 《[루비·사파이어](https://ko.wikipedia.org/wiki/포켓몬스터_루비·사파이어 "wikilink")》보다 200만 장, 《[파이어레드·리프그린](https://ko.wikipedia.org/wiki/포켓몬스터_파이어레드·리프그린 "wikilink")》보다는 600만장이 높은 수치인 1763만 장\[107\]이 팔렸다.\[108\]\[109\]\[110\] 게임의 성공은 하드웨어의 판매량에도 큰 영향을 미쳤다. 미국 내에서, 《포켓몬스터DP》출시 직후 47만 1천대의 DS가 추가적으로 팔렸고, 2006년 4월 대비 2007년 4월의 닌텐도 DS 소프트웨어 매출을 20% 상승시키는 결과도 가져왔다.\[111\]
+
+[유럽에서는](https://ko.wikipedia.org/wiki/유럽_연합 "wikilink") 발매 7주 만에 약 160만 장\[112\]\[113\]\[114\]이 팔리며, 스페인, 독일, 영국의 비디오 게임 차트 1위에 올랐다. 와이파이를 통한 포켓몬 교환은 천만건 이상 이루어졌다.\[115\]
+
+2006년 [패미통](../Page/패미통.md "wikilink") 게임 시상식에서, 《포켓몬스터DP》는 "베스트 히트" 상을 수상했으며, [파이널 판타지 XII와](../Page/파이널_판타지_XII.md "wikilink") 함께 "올해의 게임"으로 선정되었다.\[116\] 2007년 G4의 G-phoria에서는 "최고의 휴대용 게임"상을 받았으며, "베스트 RPG" 게임 부문 후보에도 올랐다.\[117\] 또, [IGN](https://ko.wikipedia.org/wiki/IGN "wikilink")의 2007년 시상식에서, "베스트 RPG"와 "베스트 온라인 멀티플레이 게임" 으로 선정되기도 했다.\[118\] 2008년에는, [영국 영화 텔레비전 예술 아카데미의](https://ko.wikipedia.org/wiki/영국_영화_텔레비전_예술_아카데미 "wikilink") '어린이의 선택 부문'의 후보작으로 이름을 올렸다.\[119\]
+
+## 관련 게임
+
+### 포켓몬스터Pt 기라티나
+
+《**포켓몬스터Pt 기라티나**》( )는 게임 프리크가 개발하고 닌텐도가 발매한 《포켓몬스터DP 디아루가·펄기아》의 업그레이드 리메이크 버전으로, [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서 2008년 9월 13일, [북미](https://ko.wikipedia.org/wiki/북미 "wikilink")에서 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [3월 22일](https://ko.wikipedia.org/wiki/3월_22일 "wikilink"), [오스트레일리아](https://ko.wikipedia.org/wiki/오스트레일리아 "wikilink")에서 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [5월 14일](https://ko.wikipedia.org/wiki/5월_14일 "wikilink"), [유럽](https://ko.wikipedia.org/wiki/유럽 "wikilink")에서 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [5월 22일](https://ko.wikipedia.org/wiki/5월_22일 "wikilink"), 그리고 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [7월 2일에](https://ko.wikipedia.org/wiki/7월_2일 "wikilink") 출시되었다.
+
+《포켓몬스터Pt 기라티나》는 [메타크리틱](https://ko.wikipedia.org/wiki/메타크리틱 "wikilink")과 [게임랭킹스](https://ko.wikipedia.org/wiki/게임랭킹스 "wikilink")에서 각각 84점\[120\], 83.14%\[121\]의 높은 점수를 받았다. IGN, 닌텐도 파워, 게임프로 등 여러 비평지는, 《포켓몬스터DP》로부터의 개선점에 대하여 호평했다. 그러나, 전작과 줄거리가 너무 유사하다는 점에서는 비판을 받기도 했다. IGN은 이 게임을 역대 닌텐도 DS 게임 중 9등으로 선정했으며,\[122\] 2009년에는 베스트 RPG상 후보로 올리기도 했다.\[123\] 이 게임은 일본에서 2006년 출시돼 2010년 5월 7일까지 700만장이 팔렸는데, 당시 가장 빠른 속도로 판매된 게임이었다.\[124\]\[125\]
+
+### 포켓몬 배틀 레볼루션
+
+《**포켓몬 배틀 레볼루션**》( )은 포켓몬스터 시리즈 최초의 Wii 콘솔 게임이다. 북미와 일본에서 닌텐도 와이파이 커넥션이 최초로 적용된 Wii 게임이며,\[126\] 닌텐도 DS와 무선으로 통신이 가능한 두 번째 게임이기도 하다.\[127\]포켓몬 배틀 레볼루션은 평단으로부터 포켓몬스터DP와의 연동성에 대해서는 좋은 평가를 받았으나, 온라인 플레이의 부재, 반복적인 플레이로 인해 게임랭킹스와 메타크리틱에서 53.19%의 낮은 점수를 받았다.\[128\]\[129\]
+
+### 마이 포켓몬 랜치
+
+《**마이 포켓몬 랜치**》( )는 엠브렐라사가 개발한 Wii 게임으로, 북미와 일본, 유럽의 Wii 쇼핑 채널에서 1000 Wii 포인트\[130\]로 구매할 수 있는 게임이다. 일본에서는 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [3월 25일](https://ko.wikipedia.org/wiki/3월_25일 "wikilink") 첫 출시되었으며, 미국에서 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [6월 9일](https://ko.wikipedia.org/wiki/6월_9일 "wikilink"), 유럽에서 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [7월 4일에](https://ko.wikipedia.org/wiki/7월_4일 "wikilink") 첫 출시되었다.\[131\] [게임큐브의](https://ko.wikipedia.org/wiki/닌텐도_게임큐브 "wikilink") 《포켓몬 박스》나, [닌텐도 3DS의](https://ko.wikipedia.org/wiki/닌텐도_3DS "wikilink") 《포켓몬 뱅크》처럼 《마이 포켓몬 랜치》는 《포켓몬스터DP》의 포켓몬을 옮겨와 보관할 수 있게 되어 있다. 옮긴 포켓몬들은 게임 내에서 3D로 전환되며, Wii 본체에 등록된 Mii들과 연계가 가능해진다. 전반적으로, 해당 게임은 비평지로부터 대체적으로 부정적인 평가를 받았다. [게임랭킹스](https://ko.wikipedia.org/wiki/게임랭킹스 "wikilink")는 해당 게임에 46점을 부여했으며,\[132\] [IGN](https://ko.wikipedia.org/wiki/IGN "wikilink") 또한 게임이 닌텐도 DS와 연동 가능한 점은 긍정적으로 평가했으나, 그래픽이 부족하다는 점을 근거로 10점 만점에 4점을 부여했다.\[133\] 이 외 닌텐도 라이프, 영국 공식 닌텐도 매거진도 100점 만점에 40점을 부여하였다.\[134\]\[135\]
+
+## 참고
+
+{각주|group=참고}}
+
+## 각주
+
+## 참고 문헌
+
+  -
+  - "포켓몬스터DP 디아루가·펄기아 소개 책자". 닌텐도 (2008).
+
+  -
+## 외부 링크
+
+  - [한국닌텐도 포켓몬스터DP 디아루가·펄기아 공식 사이트](http://www.nintendo.co.kr/DS/soft/PokemonDP/main.php)
+  - [홋카이도 지도 출처](http://www.freeworldmaps.net/asia/japan/hokkaido.html)
+
+[분류:2006년 비디오 게임](https://ko.wikipedia.org/wiki/분류:2006년_비디오_게임 "wikilink") [분류:닌텐도 DS 게임](https://ko.wikipedia.org/wiki/분류:닌텐도_DS_게임 "wikilink") [분류:포켓몬스터 게임](https://ko.wikipedia.org/wiki/분류:포켓몬스터_게임 "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.  Loe, p. 20
+8.
+9.  Loe, p. 15
+10.
+11. Loe, pp. 30–31
+12.
+13.
+14.
+15. 지하통로에서는 [닌텐도 와이파이 커넥션이](../Page/닌텐도_와이파이_커넥션.md "wikilink") 아니라, [DS 무선 통신](https://ko.wikipedia.org/wiki/닌텐도_DS#기능 "wikilink") 기능을 사용한다.
+16.
+17.
+18.
+19. Loe, p.41
+20.
+21.
+22.
+23. Loe, p. 34–35
+24.
+25.
+26.
+27. 단, [게임보이 어드밴스](https://ko.wikipedia.org/wiki/게임보이_어드밴스 "wikilink") 카트리지 슬롯이 존재하지 않는 [닌텐도 DS의](https://ko.wikipedia.org/wiki/닌텐도_DS "wikilink") 후속작 [닌텐도 DSi에서는](https://ko.wikipedia.org/wiki/닌텐도_DSi "wikilink") 이 기능이 사용될 수 없다.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39. 포켓몬스터 DP 디아루가의 경우 디아루가, 포켓몬스터 DP 펄기아의 경우 펄기아 포켓몬스터PT 기라티나의 경우 디어루가와 펄기아
+40.
+41.
+42.
+43.
+44.
+45.
+46.
+47.
+48.
+49.
+50.
+51.
+52.
+53.
+54.
+55.
+56.
+57.
+58.
+59.
+60.
+61.
+62.
+63.
+64.
+65.
+66.
+67.
+68.
+69.
+70.
+71.
+72.
+73.
+74.
+75.
+76.
+77.
+78.
+79.
+80.
+81.
+82.
+83.
+84.
+85.
+86.
+87.
+88.
+89.
+90.
+91.
+92.
+93.
+94.
+95.
+96.
+97.
+98.
+99.
+100.
+101.
+102.
+103.
+104.
+105.
+106.
+107.
+108.
+109.
+110.
+111.
+112.
+113.
+114.
+115.
+116.
+117.
+118.
+119.
+120.
+121.
+122.
+123.
+124.
+125.
+126.
+127.
+128.
+129.
+130.
+131.
+132.
+133.
+134.
+135.

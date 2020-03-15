@@ -1,0 +1,197 @@
+> This article is converted from Wikipedia: [ Z](https://ko.wikipedia.org/wiki/_Z).
+
+
+**마징가 Z**(, , 미국에서는 Tranzor Z로 간단히 알려짐)는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [만화가](https://ko.wikipedia.org/wiki/만화가 "wikilink") [나가이 고](https://ko.wikipedia.org/wiki/나가이_고 "wikilink")(永井豪)의 장편 [만화](https://ko.wikipedia.org/wiki/만화 "wikilink") 또는, 이를 원작으로 [1972년](https://ko.wikipedia.org/wiki/1972년 "wikilink")에 제작한 장편 TV [애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink")이다.\[1\] 애니메이션은 인기리에 방영되어 [토에이 애니메이션에서](https://ko.wikipedia.org/wiki/토에이_애니메이션 "wikilink") 총 92화로 제작되었으며, 주제가는 응원가로 사용되기도 하였다. 원작에서 이 "마징가 Z"는 주인공이 조종하는 거대한 [로봇](https://ko.wikipedia.org/wiki/로봇 "wikilink")에 붙여진 이름으로, 광자력 연구소내 폐수 처리장 밑에 숨겨져 보관되는데, 이 마징가 Z의 격납고를 실제로 건축하기 위한 예산을 책정하는 과정을 설명하는 책이 출간되어 화제가 되기도 했다.
+
+## 줄거리
+
+초합금 Z로 설계된 로봇인 마징가 Z는 초합금 Z라고 불리는 일본의 후지산에서만 발견되는 미지의 광석인 재패니움(일부 한국의 번역본: 코리니움)으로 제작한 특수 합금으로 만들어졌는데, 이 초합금Z의 경도는 엄청나며, 이것으로 제작된 강철의 거인 마징가 Z는 카부토 코우지의 할아버지인 카부토 쥬죠가 Dr. Hell(닥터 헬)로부터 평화를 지키기 위해 비밀리에 설계했다. 마징가 Z는 Dr. Hell(닥터 헬) 박사가 [바도스 섬에서](https://ko.wikipedia.org/wiki/바도스_섬 "wikilink") 발견한 [기계수](https://ko.wikipedia.org/wiki/기계수 "wikilink")들과 싸우고 있다. 마징가 Z는 약 20m의 크기에 여러 가지 살상병기를 소유하고 있는 [로봇](https://ko.wikipedia.org/wiki/로봇 "wikilink")이다. 마징가 Z는 매번 Dr. Hell(닥터 헬)이 보낸 아수라 남작, 브로켄 백작, 피그만 자작, 그리고 이들이 보낸 기계수들과 싸워 이김으로써 세계평화를 지키고 있다.
+
+## 방영
+
+《마징가 Z》는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서 [1972년](https://ko.wikipedia.org/wiki/1972년 "wikilink") [12월 3일부터](https://ko.wikipedia.org/wiki/12월_3일 "wikilink") [1974년](https://ko.wikipedia.org/wiki/1974년 "wikilink") [9월 1일까지](https://ko.wikipedia.org/wiki/9월_1일 "wikilink") 92화를 방영하였다. 마징가 Z는 시청률이 약 20% 이상의 매우 인기가 많았던 만화영화였고, 특히 1974년 3월 17일 방영한 제 68화는 최고 시청률 30.4%를 기록하였다. 이렇게 《마징가 Z》가 인기를 끌 수 있었던 것은 매화 바뀌는 기계수와 이전에 제작된 유일한 로봇물인 《[철인 28호](https://ko.wikipedia.org/wiki/철인_28호 "wikilink")》에서는 볼 수 없었던 화려한 기술들 때문이며, [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 《[우주의 왕자 빠삐](https://ko.wikipedia.org/wiki/:ja:遊星少年パピイ "wikilink")》 후속으로 [1975년](https://ko.wikipedia.org/wiki/1975년 "wikilink") [8월](https://ko.wikipedia.org/wiki/8월 "wikilink")부터 [1976년](https://ko.wikipedia.org/wiki/1976년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink")까지 [문화방송](https://ko.wikipedia.org/wiki/문화방송 "wikilink")(現 MBC)에서 방영되었고, [1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink") [10월](https://ko.wikipedia.org/wiki/10월 "wikilink")에서 [1980년](https://ko.wikipedia.org/wiki/1980년 "wikilink") [7월](https://ko.wikipedia.org/wiki/7월 "wikilink")까지 재방영되었다. [대원방송](https://ko.wikipedia.org/wiki/대원방송 "wikilink") 계열인 [애니박스](https://ko.wikipedia.org/wiki/애니박스 "wikilink")에서 [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [4월 21일부터](https://ko.wikipedia.org/wiki/4월_21일 "wikilink") 재더빙판을 방영하고 있다.
+
+### 한국어판 제작
+
+#### 문화방송
+
+##### 목소리 출연
+
+  - [김영옥](https://ko.wikipedia.org/wiki/김영옥_\(배우\) "wikilink"): 강쇠돌, 여 아수라
+  - 정순원
+  - [박일](https://ko.wikipedia.org/wiki/박일_\(성우\) "wikilink"): 헬 박사
+  - [우문희](https://ko.wikipedia.org/wiki/우문희 "wikilink"): 강철
+  - [박소현](https://ko.wikipedia.org/wiki/박소현_\(성우\) "wikilink"): 윤애리
+  - 황민
+  - 김순민
+  - 김민섭
+  - [최병학](https://ko.wikipedia.org/wiki/최병학_\(성우\) "wikilink"): 서둘러 박사
+  - [김현직](https://ko.wikipedia.org/wiki/김현직 "wikilink"): 남 아수라
+  - [김석옥](https://ko.wikipedia.org/wiki/김석옥 "wikilink"): 남 아수라
+
+##### 우리말 제작
+
+  - 번역: 신순남
+  - 녹음: 최경환
+  - 음향: 송태윤, 류도일
+  - 기획 지휘: 금일봉
+  - 연출: 김기만
+
+##### 주제가
+
+  - 작곡: 마상원 / 작사: [윤석중](https://ko.wikipedia.org/wiki/윤석중 "wikilink") / 노래: 배영근, 이지혜, 별셋
+
+#### 화성 비디오·대영팬더
+
+##### 목소리 출연
+
+  - [최수민](https://ko.wikipedia.org/wiki/최수민_\(성우\) "wikilink"): 강쇠돌
+
+##### 주제가
+
+  - 노래: 강애리자
+
+#### 대원방송
+
+##### 목소리 출연
+
+  - [김영선](https://ko.wikipedia.org/wiki/김영선_\(성우\) "wikilink"): 강쇠돌
+  - [정미숙](https://ko.wikipedia.org/wiki/정미숙 "wikilink"): 윤애리
+  - [문관일](https://ko.wikipedia.org/wiki/문관일 "wikilink"): 헬 박사
+  - [권혁수](https://ko.wikipedia.org/wiki/권혁수_\(성우\) "wikilink"): 윤현조
+  - [최낙윤](https://ko.wikipedia.org/wiki/최낙윤 "wikilink"): 강일원, 대장
+  - [이창민](../Page/이창민_\(성우\).md "wikilink"): 남 아수라
+  - [김은연](../Page/김은연.md "wikilink"): 여 아수라
+  - [이다은](../Page/이다은.md "wikilink"): 강철
+  - [손선영](https://ko.wikipedia.org/wiki/손선영 "wikilink"): 루미
+  - [강구한](https://ko.wikipedia.org/wiki/강구한 "wikilink"): 브로켄
+  - [정의한](../Page/정의한_\(성우\).md "wikilink"): 내레이션
+  - [이승행](../Page/이승행.md "wikilink"): 고뭉치
+  - [김진홍](https://ko.wikipedia.org/wiki/김진홍_\(성우\) "wikilink"): 여삼각
+  - [강은애](../Page/강은애.md "wikilink"): 미라
+  - 그 외: [원에스더](../Page/원에스더.md "wikilink")
+
+##### 주제가
+
+  - 노래: [민경훈](https://ko.wikipedia.org/wiki/민경훈 "wikilink")
+
+## 후속작
+
+《마징가 Z》가 성공한 후, 거기서 멈추기가 아까웠던 제작사 토에이 애니메이션은 《마징가 Z》의 후속인 《[그레이트 마징가](https://ko.wikipedia.org/wiki/그레이트_마징가 "wikilink")》를 제작한다.(마징가 Z 만화책의 후속으로 그레이트 마징가 만화책이 발매된 상황이었다.) 《그레이트 마징가》는 《마징가 제트》의 후속이라고 할 수 있으며 츠루기 테츠야가 조종하고, 카부토 코우지의 아버지인 카부토 켄죠가 제작한 메카이다. 마지막화에 근접하면서는 카부토 코우지와 츠루기 테츠야가 함께 힘을 합쳐 미케네 제국의 7대 장군과 지옥 대원수, 야누스 후작 등의 악의 무리들을 모두 쓰러뜨리고 평화가 찾아오게 된다.
+
+그리고 1975년 다른 후속작인 《[UFO 로보 그랜다이져](https://ko.wikipedia.org/wiki/:en:Grendizer "wikilink")》(미국판은 Force Five: Grandizer)가 등장하여, 《마징가 Z》의 스토리를 일부 담았다. 카부토 코우지가 서포팅 캐릭터로 나오며, 만화는 극장판으로도 제작되었다. 《마징가 Z vs 데빌맨》이 등장하고, 《마징가 Z vs 암흑대장군》도 있다.
+
+원작 마징가가 방영 시작한 지 약 30년, 나가이 고의 회사인 다이나믹 플래닝에서는 2001년, 신작 마징가 시리즈인 《마징카이져》를 발표하였고, 2003년 러닝타임 60분으로 무삭제로 출시된 마징카이져의 극장판인 《마징카이져 사투\! 암흑대장군》을 개봉하였다.
+
+2009년에는 《자이언트로보 THE ANIMATION 지구가 멈추는 날》의 [이마가와 야스히로를](https://ko.wikipedia.org/wiki/이마가와_야스히로 "wikilink") 감독으로 BEEMEDIA CODE에서 마징가의 리메이크판인 《진마징가-충격\!Z편-》을 총 26편으로 제작하였다.
+
+## 로봇 설정
+
+  - 호버 파일더, 제트 파일더
+
+마징가 Z의 두뇌부분이다. 주인공인 카부토 코우지는 이것을 타고 마징가 Z와 합체해서 마징가 Z를 조종한다. 조종석은 쥬죠가 오토바이를 잘 타는 자신의 손자를 위해서 오토바이처럼 만들어 놓았다고 한다. 초기 마징가 Z의 파일더는 오토바이를 달려 마징가의 등에 있는 발판을 타고 올라 머리부분에 합체 하는 방식이었으나 이후 개선된 합체 방식인 호버 파일더는 먼저 파일더의 날개가 접히고 마징가 Z의 머리에 붙는다. 여기서 외치는 구호는 **파일더 온\!**이다. 후에 고곤 대공에 의해 호버 파일더는 파괴되고, 광자력 연구소에서 새로운 제트 파일더를 제작한다. 공격능력, 비행속도 모두 호버 파일더에 비해 월등히 상승한 새로운 파일더다. 초기 파일더는 오토바이 형태이고 호버파일더는 비행선의 양 날개 끝에 아래를 향한 프로펠러가 한쌍 달려있다. 제트파일더는 호버파일더의 날개끝 원형 프로펠러 대신 제트엔진을 사용한다.
+
+  - 길이: 5.6 미터
+  - 너비: 3.2 미터
+  - 높이: 3 미터
+  - 무게: 260 킬로그램
+  - 한계 고도: 10,500 미터
+  - 상승 속도: 120km/h
+  - 최고 속도: 마하 3
+  - 마력: 20,000 마력
+
+<!-- end list -->
+
+  - 마징가 Z
+
+<!-- end list -->
+
+  - 주동력: 광자력 에너지
+  - 장갑: 초합금Z
+  - 높이: 18 미터
+  - 무게: 20 톤
+  - 목 둘레: 5.6 미터
+  - 가슴 둘레: 13.6 미터
+  - 팔 둘레: 5.3 미터
+  - 다리 둘레: 6.2 미터
+  - 팔 길이: 7 미터
+  - 다리 길이: 9 미터
+  - 걷는 속도: 50km/h
+  - 뛰는 속도: 360km/h
+  - 수영 속도: 20 노트(=36km/h?)
+  - 비행 속도: 마하 3(=3672km/h)
+  - 한계 고도: 630 미터
+  - 무게 한도: 150 톤
+  - 마력: 65,000 마력
+
+<!-- end list -->
+
+  - 무장
+    ;광자력 빔
+
+광자력 에너지를 눈으로 집결시켜 발사하는 레이저. 그 위력은 약 10톤급의 TNT폭탄이 터진 것과 같다고 한다. 이것은 1972년에 나온 마징가 Z에서는 가장 기본 무기였지만, 진 마징가 충격\! Z편에서는 최강급 필살기가 됐다.
+
+  - ;로켓 펀치
+
+마징가 Z의 가장 기본적인 기술. 말 그대로 주먹이 로켓처럼 날아가는 기술이다. 공격 후 마징가 Z의 팔에 다시 붙는다.
+
+  - ;루스트 허리케인 \[2\]
+
+마징가 Z의 입 부분에서 발사되는 강력한 바람이다. 이 바람에는 황산이 들어있어서 맞는 순간 원자까지 분해된다.
+
+  - ;브레스트 파이어
+
+가슴에 있는 붉은색 재패니움(한국명 코리니움) 방열판에 광자력 에너지가 집결되어서 약 섭씨 3만 도가 되는 열을 만들어 빔으로 발사한다. 이 빔을 맞으면 어중간한 기계수들의 장갑은 모두 다 녹아버린다. 슈퍼로봇대전에서는 코우지와 테츠야의 협동기술로, "더블 버닝 파이어"가 있다. 그리고 슈퍼로봇대전MX 에서는 "파이널 다이나믹 스페셜"이라는 기술을 사용한다.(그랜다이져와 겟타로보와 함께 사용한다.)
+
+  - ;아이언 커터
+
+로켓 펀치에 도끼날과 같은 장비를 장착시켜 로켓 펀치의 살상력을 더더욱 높인 기술. 이 무기는 마징가 Z가 가진 무기 중 유일하게 초합금 Z에 상처를 입힌다고 한다.
+
+  - ;드릴 미사일
+
+팔꿈치 쪽 관절에서 발사되는 드릴 모양 미사일. 이 기술은 보통 로켓 펀치가 돌아오기 전에 발사하는 기술이다.
+
+  - ;대차륜 로켓 펀치
+
+마징가 Z의 팔을 마구 회전시켜 그 회전력을 이용해 날리는 로켓 펀치의 위력을 높인 기술.
+
+  - ;냉동 광선
+
+적을 얼리는 기술. 마징가 Z의 얼굴 양쪽의 뿔에서 발사되는 기술이다.
+
+  - ;핑거 미사일
+
+이름 그대로 손가락 발사시켜 공격하며, 사용 후에는 로켓 펀치를 쓸 수 없게 된다.
+
+  - 제트 스크랜더
+
+제트 스크랜더가 마징가 Z에게 장착되면 마징가 Z는 비행이 가능하며, 적과 공중에서 전투도 가능하고 피할 수도 있다. 제트 스크랜더는 광자력 연구소와 떨어져 있는 비밀 발사대에서 발사되며, 마징가 Z가 있는 장소로 날아가서 마징가 Z가 점프 시 뒤로 와서 벨트처럼 붙는다. 구호는 "스크랜더 크로스\!"이다.
+
+  - 날개 길이: 12.8 미터
+  - 무게: 1 톤
+  - 최고속도: 마하 3
+  - 한계고도: 20,000 미터
+  - 무장
+      - 스크랜더 커터: 제트 스크랜더의 날개로 적을 공격하는 기술.
+      - 사우전 크로스 나이프: 제트 스크랜더에서 발사되는 수리검과 비슷한 무기.
+
+## 참고 문헌
+
+  - 마에다건설 판타지 영업부, 《마징가 Z 지하기지를 건설하라\! (공상과학현실화프로젝트1)》, 스튜디오본프리, 2005
+
+## 외부 링크
+
+  - [마징가 제트 - 도에이 애니메이션](http://www.toei-anim.co.jp/lineup/tv/mazingerz/)
+
+  - [극장판 마징가 제트 / INFINITY 공식 사이트](https://web.archive.org/web/20170902192928/http://www.mazinger-z.jp/)
+
+  -
+  -
+## 각주
+
+<references/>
+
+[분류:일본의 만화](https://ko.wikipedia.org/wiki/분류:일본의_만화 "wikilink") [분류:1972년 애니메이션](https://ko.wikipedia.org/wiki/분류:1972년_애니메이션 "wikilink") [분류:1973년 애니메이션](https://ko.wikipedia.org/wiki/분류:1973년_애니메이션 "wikilink") [분류:1974년 애니메이션](https://ko.wikipedia.org/wiki/분류:1974년_애니메이션 "wikilink") [분류:일본의 애니메이션](https://ko.wikipedia.org/wiki/분류:일본의_애니메이션 "wikilink") [분류:로봇 애니메이션](https://ko.wikipedia.org/wiki/분류:로봇_애니메이션 "wikilink") [분류:후지 TV 계열 애니메이션](https://ko.wikipedia.org/wiki/분류:후지_TV_계열_애니메이션 "wikilink") [분류:도에이 애니메이션](https://ko.wikipedia.org/wiki/분류:도에이_애니메이션 "wikilink") [분류:문화방송의 텔레비전 애니메이션](https://ko.wikipedia.org/wiki/분류:문화방송의_텔레비전_애니메이션 "wikilink") [분류:투니버스의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:투니버스의_텔레비전_프로그램 "wikilink") [분류:대원방송의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대원방송의_텔레비전_프로그램 "wikilink") [분류:나가이 고](https://ko.wikipedia.org/wiki/분류:나가이_고 "wikilink")
+
+1.  1972년에 제작된 로봇 애니메이션이자 1970년대 로봇 애니메이션으로는 두 번째로 제작되었다. 최초로 제작된 1970년대 로봇 애니메이션은 아스트로 강가(짱가)이다.
+2.  이것도 초합금 Z를 삭힌다. '라인 X1'과의 결투에선 X1이 이걸 반사해서 마징가Z의 오른팔이 맞고 삭아서 가루가 되었다

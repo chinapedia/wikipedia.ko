@@ -1,0 +1,130 @@
+> This article is converted from Wikipedia: [SBS ](https://ko.wikipedia.org/wiki/SBS_).
+
+
+**SBS 스포츠**(SBS Sports)는 스포츠 채널로 올림픽, 월드컵 등 빅이벤트 및 프로야구, 프로배구 등 대한민국의 프로스포츠를 주로 중계하는 방송국이다. 권투(메이웨더 vs 파퀴아오), ISU 빙상패키지 등도 중계한다.
+
+## 연혁
+
+  - 1995년 **한국스포츠TV** 개국
+  - 2000년 **SBS 스포츠** 채널명 변경
+  - 2010년 **SBS ESPN** 설립 및 채널명 변경
+  - 2014년 **SBS 스포츠** 채널명 환원
+
+## 아나운서
+
+  - [박상준](https://ko.wikipedia.org/wiki/박상준_\(아나운서\) "wikilink")
+  - [진달래](../Page/진달래_\(아나운서\).md "wikilink")
+  - [홍재경](https://ko.wikipedia.org/wiki/홍재경 "wikilink")
+  - [조민호](../Page/조민호.md "wikilink")
+  - [정우영](https://ko.wikipedia.org/wiki/정우영_\(1975년\) "wikilink")
+  - [윤성호](https://ko.wikipedia.org/wiki/윤성호_\(아나운서\) "wikilink")
+  - [이동근](https://ko.wikipedia.org/wiki/이동근_\(아나운서\) "wikilink")
+  - [이재형](https://ko.wikipedia.org/wiki/이재형_\(아나운서\) "wikilink")
+  - [안현준](https://ko.wikipedia.org/wiki/안현준 "wikilink")
+  - [김세연](https://ko.wikipedia.org/wiki/김세연_\(1991년\) "wikilink")
+  - [김민아](https://ko.wikipedia.org/wiki/김민아 "wikilink") (프리랜서 계약직)
+  - [유희종](https://ko.wikipedia.org/wiki/유희종 "wikilink")
+  - [김세희](../Page/김세희.md "wikilink")
+  - [장유례](https://ko.wikipedia.org/wiki/장유례 "wikilink")
+
+## 해설 위원
+
+<table>
+<thead>
+<tr class="header">
+<th><p>종목</p></th>
+<th><p>해설진</p></th>
+<th><p>비고</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>축구</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/김동완_(축구인)" title="wikilink">김동완</a>, <a href="https://ko.wikipedia.org/wiki/장지현" title="wikilink">장지현</a>, <a href="https://ko.wikipedia.org/wiki/이황재" title="wikilink">이황재</a>,</p></td>
+<td><p>SBS TV/RADIO<br />
+<a href="https://ko.wikipedia.org/wiki/프리미어리그" title="wikilink">프리미어리그</a>, <a href="https://ko.wikipedia.org/wiki/FA컵_(잉글랜드)" title="wikilink">FA컵</a>, <a href="https://ko.wikipedia.org/wiki/리그_1" title="wikilink">리그 1</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/피겨스케이팅" title="wikilink">피겨스케이팅</a></p></td>
+<td><p>방상아,<a href="https://ko.wikipedia.org/wiki/이호정_(피겨스케이팅_선수)" title="wikilink">이호정</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/국제빙상경기연맹" title="wikilink">빙상</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/쇼트트랙" title="wikilink">쇼트트랙</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/조해리" title="wikilink">조해리</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/KBO_리그" title="wikilink">KBO 리그</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/이순철" title="wikilink">이순철</a>, <a href="https://ko.wikipedia.org/wiki/안경현" title="wikilink">안경현</a>, <a href="../Page/이종열.md" title="wikilink">이종열</a>, <a href="https://ko.wikipedia.org/wiki/최원호_(야구인)" title="wikilink">최원호</a>, <a href="https://ko.wikipedia.org/wiki/이승엽" title="wikilink">이승엽</a></p></td>
+<td><p>SBS TV/RADIO</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/고교야구" title="wikilink">고교야구</a>, <a href="https://ko.wikipedia.org/wiki/대학야구" title="wikilink">대학야구</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/이광권" title="wikilink">이광권</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/아이스하키.md" title="wikilink">아이스하키</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/오솔길" title="wikilink">오솔길</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/아시아리그_아이스하키" title="wikilink">아시아리그 아이스하키</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/볼링" title="wikilink">볼링</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/오일수" title="wikilink">오일수</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/배구" title="wikilink">배구</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/최천식" title="wikilink">최천식</a>, <a href="https://ko.wikipedia.org/wiki/이상열_(배구_선수)" title="wikilink">이상열</a>, <a href="https://ko.wikipedia.org/wiki/이종경" title="wikilink">이종경</a>, <a href="../Page/장소연_(배구인).md" title="wikilink">장소연</a>, <a href="../Page/김사니.md" title="wikilink">김사니</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/종합격투기.md" title="wikilink">종합격투기</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/김기태_(이종격투기_선수)" title="wikilink">김기태</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/테니스" title="wikilink">테니스</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/유진선" title="wikilink">유진선</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/육상" title="wikilink">육상</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/장재근" title="wikilink">장재근</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/농구" title="wikilink">농구</a></p></td>
+<td><p><a href="../Page/박수교.md" title="wikilink">박수교</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/복싱" title="wikilink">복싱</a></p></td>
+<td><p><a href="../Page/홍수환.md" title="wikilink">홍수환</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/족구.md" title="wikilink">족구</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/정찬마" title="wikilink">정찬마</a></p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 같이 보기
+
+  - [SBS 러브FM](https://ko.wikipedia.org/wiki/SBS_러브FM "wikilink")
+  - [KBS N 스포츠](../Page/KBS_N_스포츠.md "wikilink")
+  - [MBC 스포츠+](https://ko.wikipedia.org/wiki/MBC_스포츠+ "wikilink")
+  - [JTBC3 Fox Sports](https://ko.wikipedia.org/wiki/JTBC3_Fox_Sports "wikilink")
+  - [SPOTV](https://ko.wikipedia.org/wiki/SPOTV "wikilink")
+  - [IB 스포츠](https://ko.wikipedia.org/wiki/IB_스포츠 "wikilink")
+  - [스카이 스포츠 (대한민국)](https://ko.wikipedia.org/wiki/스카이_스포츠_\(대한민국\) "wikilink")
+
+## 외부 링크
+
+  - [SBS 스포츠 홈페이지](http://sbssports.sbs.co.kr/)
+  - [SBS 스포츠 트위터](https://twitter.com/SBSSPORTSNOW)
+
+[스포츠](https://ko.wikipedia.org/wiki/분류:SBS의_텔레비전_네트워크 "wikilink") [분류:대한민국의 텔레비전 케이블 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_케이블_방송국 "wikilink") [한국스포츠TV](https://ko.wikipedia.org/wiki/분류:1995년_설립된_텔레비전_방송국과_채널 "wikilink") [한국스포츠TV](https://ko.wikipedia.org/wiki/분류:2000년_폐지된_텔레비전_방송국과_채널 "wikilink") [SBS 스포츠TV](https://ko.wikipedia.org/wiki/분류:2000년_설립된_텔레비전_방송국과_채널 "wikilink") [SBS 스포츠TV](https://ko.wikipedia.org/wiki/분류:2010년_폐지된_텔레비전_방송국과_채널 "wikilink") [SBS ESPN](https://ko.wikipedia.org/wiki/분류:2010년_설립된_텔레비전_방송국과_채널 "wikilink") [SBS ESPN](https://ko.wikipedia.org/wiki/분류:2013년_폐지된_텔레비전_방송국과_채널 "wikilink") [SBS 스포츠](https://ko.wikipedia.org/wiki/분류:2014년_설립된_텔레비전_방송국과_채널 "wikilink") [분류:스포츠 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:스포츠_텔레비전_네트워크 "wikilink") [분류:SBS 미디어넷](https://ko.wikipedia.org/wiki/분류:SBS_미디어넷 "wikilink")

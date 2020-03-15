@@ -1,0 +1,110 @@
+> This article is converted from Wikipedia: [VHS](https://ko.wikipedia.org/wiki/VHS).
+
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:VHS_logo.svg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:JVC-VHS_Cassette001.JPG "wikilink") **VHS**(Video Home System, 브이에이치에스)는 카세트를 이용하여 동영상을 기록하고 재생할 수 있도록 만들어진 표준 규격이다.
+
+## 역사
+
+[JVC](https://ko.wikipedia.org/wiki/JVC "wikilink")사가 [1976년](https://ko.wikipedia.org/wiki/1976년 "wikilink") [9월](https://ko.wikipedia.org/wiki/9월 "wikilink") 발표하였다. 발표 초기에는 [소니](https://ko.wikipedia.org/wiki/소니 "wikilink")사의 [베타맥스](https://ko.wikipedia.org/wiki/베타맥스 "wikilink") 규격과 [경쟁하였으나](https://ko.wikipedia.org/wiki/비디오테이프_표준_전쟁 "wikilink"), 이 후 대부분의 가정에서 VHS 규격만 사용하였다. 베타맥스 방식에 비해 테이프의 움직임이 간단하고 기록 시간이 길다는 장점이 있다.
+
+VHS를 대체하는 동영상 저장 방식으로는 [DVD](https://ko.wikipedia.org/wiki/DVD "wikilink")가 있으며 현재 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") 등 선진국은 물론이고 세계 대부분의 나라의 경우, 정부 차원의 디지털 방송 전환 정책의 일환으로, VHS 방식 영화 카세트를 더 이상 출시하지 않고 있다.
+
+대한민국에서는 더이상 VHS 방식 영화 카세트를 출시하지 않고 있으며 또한 VHS 전용 장치는 이미 생산이 중단된 상태이고 현재는 DVD 콤보 장치에 장착되어 판매되고 있을 뿐이다.
+
+2016년 7월 원조 국가인 일본이 마지막 제조사인 후나이 전기가 생산을 중단하였다.\[1\]
+
+## 기술 규격
+
+VHS 카세트 안에는 12.7mm의 넓이를 갖는 자기 테이프가 들어있다. 일반적으로 재생할 때는 [NTSC](https://ko.wikipedia.org/wiki/NTSC "wikilink") 방식의 경우 초당 3.335cm, [PAL](https://ko.wikipedia.org/wiki/PAL "wikilink") 방식의 경우 초당 2.339cm의 속도로 테이프가 움직인다.
+
+카세트 안의 자기 테이프의 길이는 테이프의 두께를 얇게 했을 때 최대 430m 까지 가능하며 표준속도(SP) 재생시 NTSC는 3.5시간, PAL은 5시간을 기록할 수 있는 분량이다.
+
+다만 테이프의 길이가 길어질수록 두께가 얇아지면서 테이프가 늘어나거나 걸리는 현상이 생기기 쉬우므로 보통 2시간이 넘는 기록 용량을 갖는 카세트는 사용하지 않는다.
+
+일반적으로 사용되는 표준 모드(SP) 외에도 LP모드, EP모드로 동영상을 기록할 수 있으며 이 때는 테이프의 속도를 1/2 혹은 1/3로 떨어뜨려 더 많은 동영상을 기록하는 것이 가능하다. 다만 테이프의 속도가 느려질수록 저장된 동영상의 화질이 낮아지는 문제가 생긴다.
+
+### 다른 매체와의 비교
+
+아래에는 오늘날 쓰이는 다양한 매체를 디지털 수치로 나열한 것이다. 아래에는 잘 알려진 포맷만 나열하고 있으며 실제 화질은 기계마다, 또는 테이프마다 다양하므로 모든 값은 근사값이다. 비교를 쉽게 하기 위해, 모든 값은 NTSC 시스템을 기준으로 하고 있으며, 가장 낮은 화질에서 가장 높은 화질까지 오름차순으로 나열하였다. (PAL 시스템의 경우, 480을 576으로 바꿔서 이해할 것)
+
+  - 350×240 (250 라인): 비디오 CD
+  - 330×480 (250 라인): Umatic, 베타맥스, VHS, 비디오8
+  - 400×480 (300 라인): 슈퍼 베타맥스, 베타캠 (전문가급)
+  - 440×480 (330 라인): 아날로그 방송
+  - 560×480 (420 라인): 레이저디스크, 슈퍼 VHS, 하이8
+
+<!-- end list -->
+
+  - 670×480 (500 라인): ED 베타맥스
+  - 720×480 (520 라인): DVD, 미니DV, 디지털8, 디지털 베타캠 (전문가급)
+  - 720×480 (400 라인): 와이드스크린 DVD (애나모픽)
+  - 1280×720 (720 라인): D-VHS, HD DVD, 블루레이, HDV (미니DV)
+  - 1920×1080 (1080 라인): D-VHS, HD DVD, 블루레이, HDCAM SR (전문가급)
+
+## 종류
+
+  - 슈퍼 VHS / 디지털 VHS (고선명)
+  - VHS-C / 슈퍼 VHS-C / 콤팩트 비디오 카세트
+  - 개인용 컴퓨터의 백업 장치로 사용
+  - W-VHS
+  - D9
+
+## 신호 표준
+
+  - [PAL](https://ko.wikipedia.org/wiki/PAL "wikilink")/576/25 (대부분의 서부 유럽, 오스트레일리아, 아시아의 많은 지역 (중국, 인도 등), 남아메리카의 일부 지역 (아르헨티나, 우루과이 등), 아프리카)
+  - [SECAM](https://ko.wikipedia.org/wiki/SECAM "wikilink")/625/25 (SECAM)
+  - [MESECAM](https://ko.wikipedia.org/wiki/SECAM "wikilink")/625/25 (대부분의 다른 SECAM 국가, 보통 구 소비에트 연방, 중동)
+  - [NTSC](https://ko.wikipedia.org/wiki/NTSC "wikilink")/525/30 (북아메리카, 남아메리카의 대부분 지역, 일본, 대한민국)
+  - [PAL](https://ko.wikipedia.org/wiki/PAL "wikilink")/525/30 (이를테면, PAL-M, 브라질)
+
+## 테이프 길이
+
+NTSC, PAL/SECAM VHS 카세트 모두 물리적으로 동일하다. (테이프에 기록되는 신호는 호환이 되지 않지만 말이다.) 그러나 NTSC와 PAL/SECAM 사이의 테이프 속도, 카세트의 재생 속도는 시스템에 따라 다르다.
+
+혼동을 피하기 위해, 제조업체들은 분 단위로 시간을 표기하고 있다. 비어 있는 T-XXX 테이프를 PAL 기기에, 비어 있는 E-XXX 테이프를 NTSC 기기에 완벽하게 녹화하여 재생할 수 있지만 재생 속도는 표기한 바와는 다를 수 있다.
+
+  - 알림:
+
+<!-- end list -->
+
+  - NTSC, PAL의 경우 SP = 표준 재생, LP = 롱 플레이 (1/2 속도)
+  - NTSC 지역에서는 EP/SLP = Extended Play/Super Long Play (1/3 속도)
+  - PAL은 EP/SLP 속도를 사용하지 않는다.
+
+<!-- end list -->
+
+  - 속도:
+
+<!-- end list -->
+
+  - T-XXX는 SP 속도로 NTSC/PAL-M의 재생 시간을 표기한다.
+  - E-XXX는 SP 속도로 PAL/SECAM의 재생 시간을 표기한다.
+
+| 테이프 레이블 | 테이프 길이            | 녹화 시간 (NTSC) | 녹화 시간 (PAL)  |
+| ------- | ----------------- | ------------ | ------------ |
+| SP      | LP                | EP/SLP       | SP           |
+| T-120   | 812 ft (247.5 m)  | 2:00         | 4:00         |
+| T-160   | 1075 ft (327.7 m) | 2:40         | 5:20         |
+| T-180   | 1210 ft (368.8 m) | 3:00         | 6:00         |
+| T-210   | 1421 ft (433.1 m) | 3:30         | 7:00         |
+| 테이프 레이블 | 테이프 길이            | 녹화 시간 (PAL)  | 녹화 시간 (NTSC) |
+| SP      | \---              | LP           | SP           |
+| E-120   | 570 ft (173.7 m)  | 2:00         |              |
+| E-180   | 851 ft (259.4 m)  | 3:00         |              |
+| E-240   | 1142 ft (348.1 m) | 4:00         |              |
+|         |                   |              |              |
+
+**일반 테이프 길이 (시간: 분)**
+
+## 각주
+
+<references/>
+
+## 같이 보기
+
+  - [비디오테이프 표준 전쟁](https://ko.wikipedia.org/wiki/비디오테이프_표준_전쟁 "wikilink")
+  - [베타맥스](https://ko.wikipedia.org/wiki/베타맥스 "wikilink")
+
+[분류:비디오테이프](https://ko.wikipedia.org/wiki/분류:비디오테이프 "wikilink") [분류:영상 저장 매체](https://ko.wikipedia.org/wiki/분류:영상_저장_매체 "wikilink") [분류:일본의 발명품](https://ko.wikipedia.org/wiki/분류:일본의_발명품 "wikilink")
+
+1.  <http://news.nate.com/view/20160722n04098?mid=n1006>

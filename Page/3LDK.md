@@ -1,0 +1,78 @@
+> This article is converted from Wikipedia: [3LDK](https://ko.wikipedia.org/wiki/3LDK).
+
+
+《**3LDK♥**》(, )는 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [6월 27일에](https://ko.wikipedia.org/wiki/6월_27일 "wikilink") DEEP BLUE에서 발매한 18금 연애 [어드벤처 게임이다](https://ko.wikipedia.org/wiki/어드벤처_게임 "wikilink"). 또한 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [7월 1일에는](https://ko.wikipedia.org/wiki/7월_1일 "wikilink") 가정용으로 이식되어 프린세스 소프트에서 [CERO](https://ko.wikipedia.org/wiki/CERO "wikilink") 등급 15세 이상 대응의 [플레이스테이션2](https://ko.wikipedia.org/wiki/플레이스테이션2 "wikilink")판 《**3LDK♥ \~행복하세요\~**》가 발매되었다.
+
+## 스토리
+
+아사카와 마사토(주인공)은 원래 부모와 함께 살고 있었지만 현재는 자신과 함께 머물러 있는 소꿉친구 세노 치호기와 함께, 3LDK의 맨션에서 살고 있었다. 그러던 중 급하게 마사토의 부모가 해외전근을 가게 되고 그 결과 치호기와 단 둘이 남게 되었을 법했지만... 그러던게 갑자기 치호기의 언니가 감독자 역할로 오지않나, 불량배에게 둘어쌓여 있다고 생각해 구해준 아이돌이 무턱대고 머물지 않나, 또한 불행소녀와 수수께끼의 가출소녀도 오게되어 시끌벅적한 생활이 시작하려 하고 있었다.
+
+## 등장인물
+
+  - 아사카와 마사토 ()
+    주인공. 예전에 축구부였지만 지금은 그만둔 상태.
+
+<!-- end list -->
+
+  - 세노 치호기 ()
+    성우：[青葉楓/토카 레이코](https://ko.wikipedia.org/wiki/혼마_유카리 "wikilink")
+    원래는 이웃에 살고 있었지만, 1년 전 부모의 전근이 있었을 때 마사토와 떨어지고 싶지 않다는 이유로 마사토의 집에 머물기 시작했다. 성격은 좀 둔한편이지만 운동신경은 좋아서 현재 수영부 소속이다.
+
+<!-- end list -->
+
+  - 세노 요모기 ()
+    성우 : [야나이 나가레우미](https://ko.wikipedia.org/wiki/고토_유코 "wikilink")
+    치호기의 언니. 마사토와 치호기의 감독자 역할을 맡고 있다. 잠에 약해서 오후 8시가 넘어가면 몸이 자동적으로 수면 모드에 돌입한다. 신사일을 항상 동경해와서 대학도 관련 학과를 나와 현재는 신사에서 무녀 아르바이트를 하고 있으며 덕분에 언제나 무녀복을 입고 있다.
+
+<!-- end list -->
+
+  - 미야시타 아야세 ()
+    성우：[나가사키 미나미](../Page/나가사키_미나미.md "wikilink")
+    초인기 아이돌. 아이돌로서는 청순한 이미지지만 사실은 기가 세며 마사토 앞에서만은 태도가 험해진다. 생활능력은 전무로 물건 망가트리기에 일가견이 있으며 요리실력도 제로에 가깝다.
+
+<!-- end list -->
+
+  - 유키무라 노에루 ()
+    성우 : [코노하 카에데](../Page/리키마루_노리코.md "wikilink")
+    공주님같은 외견이지만 실상은 굉장한 불행소녀. 고아원에서 혼자 살기 위해 나왔지만 부동산 사기를 당해 마사토의 집에 머물게 된다. 남성은 굉장히 어려워 하는 편으로 마사토가 접근하면 반드시 뭔가 안좋은 일이 발생한다.
+
+<!-- end list -->
+
+  - 히나 ()
+    성우 : [노다 아스미](https://ko.wikipedia.org/wiki/후지사키_카오리 "wikilink")
+    수수께끼의 가출소녀. 자칭 트리케라톱스의 아이. 입버릇은 "에로에로". 이유는 모르지만 손재주가 매우 뛰어난지 요리할 때 당근을 여러 모양으로 자른다든지 고장난 걸 금방 고친다든지 한다.
+
+## 추가 설명
+
+### 전량 회수 및 재출시
+
+  - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [6월](https://ko.wikipedia.org/wiki/6월 "wikilink") 초회판 출시 후 [소프륜](https://ko.wikipedia.org/wiki/소프륜 "wikilink")의 규정을 위반한 CG가 존재한다는 이유로 전량 회수 조치가 되었다. 그 후 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [10월](https://ko.wikipedia.org/wiki/10월 "wikilink") 위반 사항을 수정하여 초회판 재출시 및 통상판이 출시되었으며 [10월](https://ko.wikipedia.org/wiki/10월 "wikilink")에 나온 버전의 경우 구판에 비해 CD장수가 한 장 적게 구성되었다.
+
+### 기타 사항
+
+  - PC판의 경우 패치가 존재하나 현재 DEEP BLUE사가 존재하지 않는 관계로, 인터넷 검색을 통해 패치 파일을 구하여만 한다.
+
+## 스탭
+
+  - 기획·원안：미코이시 히로후미
+  - 원화：키미즈카 아오이
+  - 시나리오：미코이시 히로후미, 무라나카 시호
+  - BGM：feel
+
+## 관련상품
+
+  - 무크
+      - 3LDK♥ 비주얼 웍스 (Softgarage · )
+          -
+            캐릭터별 비주얼 및 원화, PS2판 3LDK♥ 및 LostPassage 비주얼, 스탭 인터뷰, 게임 공략 등 수록
+  - 소설
+      - 3LDK♥ \~행복해 지자\!\~ 1·히나&노에루편 소프가레노벨즈(Softgarage · )
+      - 3LDK♥ 2·치호기편 소프가레노벨즈 (Softgarage · )
+  - CD
+      - 3LDK♥ 사운드 트랙&드라마CD (지다스 · SG-03192)
+
+## 외부 링크
+
+  - [PS2판 3LDK♥ \~행복하세요\~(프린세스 소프트) 공식 사이트](http://www.oaks-soft.co.jp/princess-soft/3ldk/)
+
+[분류:2003년 성인 비디오 게임](https://ko.wikipedia.org/wiki/분류:2003년_성인_비디오_게임 "wikilink") [분류:프린세스 소프트](https://ko.wikipedia.org/wiki/분류:프린세스_소프트 "wikilink") [분류:플레이스테이션 2 게임](https://ko.wikipedia.org/wiki/분류:플레이스테이션_2_게임 "wikilink") [분류:미소녀 게임](https://ko.wikipedia.org/wiki/분류:미소녀_게임 "wikilink") [분류:연애 어드벤처 게임](https://ko.wikipedia.org/wiki/분류:연애_어드벤처_게임 "wikilink")

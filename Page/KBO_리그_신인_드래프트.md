@@ -1,0 +1,145 @@
+> This article is converted from Wikipedia: [KBO   ](https://ko.wikipedia.org/wiki/KBO___).
+
+
+**프로야구 신인선수 지명회의**는 [KBO에서](https://ko.wikipedia.org/wiki/KBO_\(야구\) "wikilink") 주최하는 연례행사로 프로 야구 선수가 될 수 있는 방법 중 하나이다. 1차 드래프트라고도 불린다.
+
+8월 중순에 신인 지명 회의를 개최한다. 구단의 신인 지명 순서는 모든 라운드에서 전년도 성적의 역순으로 뽑는다. 즉 소위 Z자 형태의 지명이다.
+
+<table>
+<thead>
+<tr class="header">
+<th><p>지명<br />
+순위</p></th>
+<th><p>작년 10위</p></th>
+<th><p>작년 9위</p></th>
+<th><p>작년 8위</p></th>
+<th><p>작년 7위</p></th>
+<th><p>작년 6위</p></th>
+<th><p>작년 5위</p></th>
+<th><p>작년 4위</p></th>
+<th><p>작년 3위</p></th>
+<th><p>작년 한국시리즈 준우승</p></th>
+<th><p>작년 한국시리즈 우승</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p>①</p></td>
+<td><p>②</p></td>
+<td><p>③</p></td>
+<td><p>④</p></td>
+<td><p>⑤</p></td>
+<td><p>⑥</p></td>
+<td><p>⑦</p></td>
+<td><p>⑧</p></td>
+<td><p>⑨</p></td>
+<td><p>⑩</p></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p>⑪</p></td>
+<td><p>⑫</p></td>
+<td><p>⑬</p></td>
+<td><p>⑭</p></td>
+<td><p>⑮</p></td>
+<td><p>…</p></td>
+<td><p>…</p></td>
+<td><p>…</p></td>
+<td><p>…</p></td>
+<td><p>…</p></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p>…</p></td>
+<td><p>…</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+※ 원 안에 쓰인 숫자는 전체 지명 순위를 의미함.
+※ 단, 그 해에 신생팀이 있을 경우에는 순서 조정이 약간 있다.
+
+## 신인 지명 방식의 변천사
+
+  - [1983년](https://ko.wikipedia.org/wiki/1983년_한국프로야구_신인_드래프트 "wikilink") : 1차 지명과 2차 지명때 지명할 수 있는 선수의 제한이 없었다. 한편, 임시로 [대전에](https://ko.wikipedia.org/wiki/대전광역시 "wikilink") 머물렀다가 [1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink")에 서울로 연고 이전을 예정하고 있었던 [OB 베어스는](https://ko.wikipedia.org/wiki/두산_베어스 "wikilink") 1차 지명때 서울 연고 지역의 선수들을 드래프트할 수 있었고,\[1\] 대전 지역의 선수들도 OB가 드래프트 할 수 있었다.
+
+<!-- end list -->
+
+  - [1985년](https://ko.wikipedia.org/wiki/1985년_한국프로야구_신인_드래프트 "wikilink") : OB 베어스가 대전 지역을 떠나 서울로 이전하였고, 그로 인해 빈 지역이 돼버린 대전을 비롯한 [충청도](https://ko.wikipedia.org/wiki/충청도 "wikilink") 지역에 [빙그레 이글스가](https://ko.wikipedia.org/wiki/한화_이글스 "wikilink") 참가하게 되었다. 이로 인해 OB는 더이상 대전 지역 선수를 1차 지명 때 지명할 수 없게 되었고, 그 권한은 빙그레에 넘어가게 되었다.
+
+<!-- end list -->
+
+  - [1986년](https://ko.wikipedia.org/wiki/1986년_한국프로야구_신인_드래프트 "wikilink") : 1차 지명때 지명할 수 있는 선수 숫자가 10명으로 제한되었다.
+
+<!-- end list -->
+
+  - [1987년](https://ko.wikipedia.org/wiki/1987년_한국프로야구_신인_드래프트 "wikilink") : 1차 지명때 최대 3명까지만 지명하도록 제한하였다. 그와 함께, 2차 지명은 전 구단이 전 지역 선수들을 대상으로 드래프트하는 방식으로 바뀌었다.
+
+<!-- end list -->
+
+  - [1990년](https://ko.wikipedia.org/wiki/1990년_한국프로야구_신인_드래프트 "wikilink") : 1차 지명 가능 선수가 2명으로 또 줄어들었다. 그와 함께 [쌍방울 레이더스가](https://ko.wikipedia.org/wiki/쌍방울_레이더스 "wikilink") 창단됨에 따라, 신생구단 특별우선지명이라는 이름으로 2년동안 10명씩 우선 선발할 수 있는 특혜를 주었다. 이와 함께, [전라도](https://ko.wikipedia.org/wiki/전라도 "wikilink") 지역이 연고였던 [해태 타이거즈는](https://ko.wikipedia.org/wiki/해태_타이거즈 "wikilink") [전북](https://ko.wikipedia.org/wiki/전라북도 "wikilink") 지역이 쌍방울의 연고지가 되면서 전북 지역에 대한 1차 지명권을 상실했다.
+
+<!-- end list -->
+
+  - [1991년](https://ko.wikipedia.org/wiki/1991년_한국프로야구_신인_드래프트 "wikilink") : 1차 지명 선수가 1명으로 줄어들었다.
+
+<!-- end list -->
+
+  - [1996년](https://ko.wikipedia.org/wiki/1996년_한국프로야구_신인_드래프트 "wikilink") : 고졸우선지명이 추가되었다. 이는 구단이 연고로 하는 지역 내의 [고등학교 팀의](https://ko.wikipedia.org/wiki/대한민국의_고등학교_야구 "wikilink") 고등학교 졸업 예정인 선수들 중, 3명을 지명할 수 있는 제도이다.
+
+<!-- end list -->
+
+  - [1997년](https://ko.wikipedia.org/wiki/1997년_한국프로야구_신인_드래프트 "wikilink") : 2차 지명의 팀당 최대 지명 가능 선수 수가 12명으로 제한되었다. 그리고 지난 시즌에 최하위를 한 팀에게 2차 1순위 지명때 2명을 지명할 수 있는 혜택이 적용된 마지막 회의였다.
+
+<!-- end list -->
+
+  - [1999년](https://ko.wikipedia.org/wiki/1999년_한국프로야구_신인_드래프트 "wikilink") : 고졸우선지명때 지명할 수 있는 선수의 수가 1명으로 줄어들었다. 그리고 이 회의를 마지막으로 고졸우선지명은 사라졌다.
+
+<!-- end list -->
+
+  - [2001년](https://ko.wikipedia.org/wiki/2001년_한국프로야구_신인_드래프트 "wikilink") : 지난번까지는 2차 지명 회의가 매년 [11월](https://ko.wikipedia.org/wiki/11월 "wikilink") 중에 열렸지만, 프로 구단과 대학 팀간의 선수 스카우트 분쟁을 막기 위해 이번 회의부터는 시즌중인 [6월](https://ko.wikipedia.org/wiki/6월 "wikilink")로 시기를 옮겼다. 그리고 [SK 와이번스가](https://ko.wikipedia.org/wiki/SK_와이번스 "wikilink") [인천지역을](https://ko.wikipedia.org/wiki/인천광역시 "wikilink") 기반으로 창단하면서, [현대 유니콘스와](https://ko.wikipedia.org/wiki/현대_유니콘스 "wikilink") 함께 1차 지명을 인천, [경기](https://ko.wikipedia.org/wiki/경기도 "wikilink"), [강원](https://ko.wikipedia.org/wiki/강원도 "wikilink") 지역의 선수를 지명할 수 있게 되었다.
+
+<!-- end list -->
+
+  - [2003년](https://ko.wikipedia.org/wiki/2003년_한국프로야구_신인_드래프트 "wikilink") : 2차때 최대 지명 가능 선수의 수가 9명으로 축소되었다. 그리고 이 회의 때부터 인천, 경기, 강원 지역에 대한 현대의 1차 지명권이 박탈되었다.
+
+<!-- end list -->
+
+  - [2007년](https://ko.wikipedia.org/wiki/2007년_한국프로야구_신인_드래프트 "wikilink") : 1차 지명 가능 선수의 수가 2명으로 늘어났다. 그러나 바로 다음 해인 [2008년](https://ko.wikipedia.org/wiki/2008년_한국프로야구_신인_드래프트 "wikilink") 회의 때 다시 1명으로 줄어들었다.
+
+<!-- end list -->
+
+  - [2009년](https://ko.wikipedia.org/wiki/2009년_한국프로야구_신인_드래프트 "wikilink") : 현대팀의 선수단을 인계받은 [우리 히어로즈가](https://ko.wikipedia.org/wiki/넥센_히어로즈 "wikilink") 서울 지역을 연고로 창단되면서, 넥센 히어로즈는 1차 지명을 서울 지역의 선수를 지명할 수 있게 되었다.
+
+<!-- end list -->
+
+  - [2010년](https://ko.wikipedia.org/wiki/2010년_한국프로야구_신인_드래프트 "wikilink") : 지역 연고 지명을 폐지하고, 전면 드래프트제로 전환되었다. 최대 지명 가능 선수의 수가 10명으로 늘어났다. 신인 선수 지명회의 실황이 처음으로 TV로 생중계 되었다.
+
+<!-- end list -->
+
+  - [2012년](https://ko.wikipedia.org/wiki/2012년_한국프로야구_신인_드래프트 "wikilink") : 신생 구단 [NC 다이노스가](https://ko.wikipedia.org/wiki/NC_다이노스 "wikilink") 창단 지역을 연고로 창단되면서 드래프트에 새로 참가하게 되었다. NC 다이노스는 총 15명의 신인 선수를 선발할 특권을 누리게 되었다.
+
+<!-- end list -->
+
+  - [2014년](https://ko.wikipedia.org/wiki/2014년_한국프로야구_신인_드래프트 "wikilink") : 5년 만에 1차 지명이 부활하였다. 신생 구단 [kt 위즈가](https://ko.wikipedia.org/wiki/kt_위즈 "wikilink") 창단 지역을 연고로 창단되면서 드래프트에 새로 참가하게 되었다. kt 위즈는 총 15명의 신인 선수를 선발할 특권을 누리게 되었다.
+
+<!-- end list -->
+
+  - [2017년](https://ko.wikipedia.org/wiki/2017년_한국프로야구_신인_드래프트 "wikilink") : 모든 라운드에서 전년도 순위의 역순으로 지명을 실시하는 것으로 변경되었다. 팀간 성적의 평준화를 위해서 내린 조치.
+
+## 각주
+
+<references/>
+
+[KBO_리그_신인_드래프트](https://ko.wikipedia.org/wiki/분류:KBO_리그_신인_드래프트 "wikilink")
+
+1.  이 때문에 서울지역 1차 지명때 [MBC 청룡과](https://ko.wikipedia.org/wiki/MBC_청룡 "wikilink") 함께 드래프트를 해야만 했다.

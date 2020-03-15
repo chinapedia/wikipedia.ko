@@ -1,0 +1,522 @@
+> This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
+
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Campnoumatch.jpg "wikilink") **풋볼 클럽 바르셀로나**(, *축구단 바르셀로나*)는 [스페인](https://ko.wikipedia.org/wiki/스페인 "wikilink") [카탈루냐 지방의](https://ko.wikipedia.org/wiki/카탈루냐_지방 "wikilink") [바르셀로나](https://ko.wikipedia.org/wiki/바르셀로나 "wikilink")를 연고지로 하는 세계 최대 규모로 [회원제](https://ko.wikipedia.org/wiki/회원제 "wikilink") 형태로 운영되는 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 홈 경기장은 [캄 노우이며](https://ko.wikipedia.org/wiki/캄_노우 "wikilink"), [1899년](https://ko.wikipedia.org/wiki/1899년 "wikilink") [11월 29일에](../Page/11월_29일.md "wikilink") 창단되었다.
+
+리저브 팀으로 [FC 바르셀로나 B를](https://ko.wikipedia.org/wiki/FC_바르셀로나_B "wikilink") 두고 있다. 유스 팀으로는 [FC 바르셀로나 후베닐 A](../Page/FC_바르셀로나_후베닐_A.md "wikilink"), [FC 바르셀로나 후베닐 B](https://ko.wikipedia.org/wiki/FC_바르셀로나_후베닐_B "wikilink"), [FC 바르셀로나 카다테](https://ko.wikipedia.org/wiki/FC_바르셀로나_카다테 "wikilink"), [FC 바르셀로나 인판틸](https://ko.wikipedia.org/wiki/FC_바르셀로나_인판틸 "wikilink"), [FC 바르셀로나 알레빈](https://ko.wikipedia.org/wiki/FC_바르셀로나_알레빈 "wikilink"), [FC 바르셀로나 벤하민](https://ko.wikipedia.org/wiki/FC_바르셀로나_벤하민 "wikilink"), 순으로 나뉘어 있다. 바르사의 유스 시스템인 [라 마시아는](../Page/라_마시아.md "wikilink") 펩 과르디올라, 리오넬 메시, 안드레스 이니에스타, 세르히오 부스케츠, 제라르 피케, 조르디 알바, 카를레스 푸욜, 챠비 에르난데스, 빅토르 발데스, 페페 레이나, 세스크 파브레가스, 페드로 로드리게스, 티아고 알칸타라, 세르지 로베르토 등등 많은 축구 선수들을 배출하였다.
+
+[프리메라리가](https://ko.wikipedia.org/wiki/프리메라리가 "wikilink")에서 [레알 마드리드 CF](https://ko.wikipedia.org/wiki/레알_마드리드_CF "wikilink") 와 숙명의 라이벌이며 두 클럽 사이의 대결은 [엘 클라시코라고](https://ko.wikipedia.org/wiki/엘_클라시코 "wikilink") 부른다. 또한 같은 지역을 연고로 하는 [RCD 에스파뇰과의](https://ko.wikipedia.org/wiki/RCD_에스파뇰 "wikilink") 바르셀로나 더비도 유명하다.
+
+팀 명을 줄여서 **바르사(바르싸)**(Barça)라고도 부르는데 발음할 때에 주의해야 한다. '[ç](https://ko.wikipedia.org/wiki/ç "wikilink")' 표기가 없는 언어에서는 모양이 유사한 알파벳 'c'로 'ç'를 대체하는 경우가 많아 'Barca'라고 표기되는 경우도 흔한데, 이것은 단순히 표기상의 난점으로 인해 일어나는 현상일 뿐 발음은 '바르카'가 아닌 '바르사(바르싸)' 로 한다.
+
+## 역사
+
+### 클럽 창단과 발전 (1899 \~ 1908)
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Futbol_club_barcelona_-_notas_de_sport.jpg "wikilink")
+
+[1899년](https://ko.wikipedia.org/wiki/1899년 "wikilink") [10월 22일](https://ko.wikipedia.org/wiki/10월_22일 "wikilink"), [호안 감퍼는](https://ko.wikipedia.org/wiki/호안_감퍼 "wikilink") 로스 데포르테스 신문에 축구 클럽을 만들고 싶다는 광고를 실었다. 한 달 가량 지난 11월 29일, 광고에 흥미를 느낀 사람들이 힘나시오 솔레에서 모임을 했고, 클럽 창단을 결의했다. 왈테르 윌드, 유이스 도소, 바르토메우 테라다스, 오토 쿤츨레, 오토 마이어, 엔릭 투칼, 페레 카보트, 호셉 요르베트, 존 파슨스, 그리고 윌리엄 파슨스 등 열한 명의 사람들이 제1기 선수가 되었고, 이로써 FC 바르셀로나라는 클럽이 탄생했다.\[1\] 몇몇의 다른 팀들, 예를 들어 [레알 마드리드 CF나](https://ko.wikipedia.org/wiki/레알_마드리드_CF "wikilink") [아틀레틱 빌바오](https://ko.wikipedia.org/wiki/아틀레틱_빌바오 "wikilink") 같은 팀들도 이처럼 주로 영국인들에 의해 창설된 클럽이었다.
+
+알려진 바로는 클럽의 색인 '블라우그라나'는 호안 감퍼가 [FC 바젤의](https://ko.wikipedia.org/wiki/FC_바젤 "wikilink") 엠블럼에서 따온 것이라고 한다. 하지만, 감퍼가 뛰었던 다른 [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink") 팀들과 [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink") [크로스비](https://ko.wikipedia.org/wiki/크로스비 "wikilink")에 있는 머천트 테일러 학교도 자신들에게서 이 색깔이 유래한 것이라고 주장하고 있어 그 유래가 분명한 것은 아니다. FC 바르셀로나는 얼마 지나지 않아 [카탈루냐 축구 챔피언십과](https://ko.wikipedia.org/wiki/카탈루냐_축구_챔피언십 "wikilink") [코파 델 레이에서](https://ko.wikipedia.org/wiki/코파_델_레이 "wikilink") 선전하며 스페인에서 가장 수준 높은 클럽의 반열에 올라섰다. 1902년에 바르셀로나는 [코파 마캬야에서](https://ko.wikipedia.org/wiki/코파_마캬야 "wikilink") 첫 번째 트로피를 우승해서 들었다.
+
+### 호안 감퍼 시대 (1908 \~ 1925)
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Joan_Gamper_1910_year.jpg "wikilink") [1908년](https://ko.wikipedia.org/wiki/1908년 "wikilink"), 호안 감퍼는 클럽의 회장이 되었다. 그가 회장직을 맡았을 당시 바르셀로나는 위기 상황에 놓여 있었다. 1905년 이후로 카탈루냐 축구 챔피언십에서 한 번도 우승하지 못했고, 이로 인해 클럽의 재정은 더욱 어려워진 상태였다. 감퍼는 1908년부터 1925년까지 다섯 번의 회장 임기를 지냈고 25년간 사실상 클럽의 수뇌부로 일했다. 그의 주요 업적 중 하나는 바르셀로나가 고유 구장을 소유할 수 있게 도운 일이었다.
+
+1909년 3월 14일, 클럽은 총 수용 가능 인원 8,000명의 카르레르 인두스트리아 경기장을 홈 구장으로 지정했다. 감퍼는 또한 클럽 멤버를 더 모집하기 위한 캠페인을 발족했고 1922년쯤에는 클럽 멤버가 10,000명까지 늘어났다. 이것은 또 한 번 연고 구장을 라스 코르테스로 옮길 수 있게 한 큰 계기가 되었다. 이 경기장의 수용 인원은 22,000명이었고, 나중에는 60,000명까지 가능하도록 확장되었다.
+
+1912년에는 [파울리노 알칸타라](https://ko.wikipedia.org/wiki/파울리노_알칸타라 "wikilink") (국적:[필리핀](https://ko.wikipedia.org/wiki/필리핀 "wikilink"), [스페인](https://ko.wikipedia.org/wiki/스페인 "wikilink"), [말레이시아](https://ko.wikipedia.org/wiki/말레이시아 "wikilink"))가 [아시아](https://ko.wikipedia.org/wiki/아시아 "wikilink")인으로는 최초이자 [동남아시아](https://ko.wikipedia.org/wiki/동남아시아 "wikilink")인으로는 최초로 바르셀로나에 입단하였다.
+
+감퍼는 또한 감독으로 잭 그린웰을 선임했다. 그의 지도로 클럽의 성적은 진일보했다. 감퍼의 임기 동안 FC 바르셀로나는 카탈루냐 챔피언십에서 11번이나 우승했고, 코파 델 레이에서 6번 우승했으며 또한 쿠페 드 피레니에서 네 번의 우승컵을 들어 올리는 등 클럽의 "황금 시대"를 맞았다.
+
+### 독재 정권에 대한 저항과 스페인 내전 (1923 \~ 1939)
+
+[1925년](https://ko.wikipedia.org/wiki/1925년 "wikilink") [6월 14일](https://ko.wikipedia.org/wiki/6월_14일 "wikilink"), [오르페오 카탈라를](https://ko.wikipedia.org/wiki/오르페오_카탈라 "wikilink") 기념하기 위한 경기를 보기 위해 모인 관중들은 [스페인의 국가를](https://ko.wikipedia.org/wiki/스페인의_국가 "wikilink") 조롱했다. 당시 계속되고 있던 [미겔 프리모 데 리베라의](https://ko.wikipedia.org/wiki/미겔_프리모_데_리베라 "wikilink") 독재 정권에 대해 저항하는 의미였다. 독재 정권은 그에 대한 보복으로 경기장을 폐쇄하였고 감퍼는 강제적으로 회장직을 빼앗겼다. [1928년](https://ko.wikipedia.org/wiki/1928년 "wikilink") 바르셀로나의 [스페인 컵](https://ko.wikipedia.org/wiki/스페인_컵 "wikilink") 우승은 “Oda a Platko”라는 시로 기려졌다. 이 시는 스페인의 '[27년 세대](https://ko.wikipedia.org/wiki/27년_세대 "wikilink")'의 중요한 멤버 중 한 명인 [라파엘 알베르티가](https://ko.wikipedia.org/wiki/라파엘_알베르티 "wikilink") 바르셀로나 [골키퍼](https://ko.wikipedia.org/wiki/골키퍼 "wikilink")의 환상적인 퍼포먼스에 감명받아 쓴 것이었다.\[2\] 1930년 7월 30일에는 호안 감퍼가 개인 사정과 금전적 사유로 우울증에 빠진 나머지 자살을 택하는 충격적인 사건도 일어났다.
+
+바르셀로나는 [호셉 에스콜라와](https://ko.wikipedia.org/wiki/호셉_에스콜라 "wikilink") 같은 좋은 선수들이 지속적으로 배출되었지만, 정치 분쟁으로 인해 스포츠를 포함한 사회 전반이 암흑기에 빠지면서 바르셀로나는 침체기에 빠졌다. 바르셀로나는 세 가지 측면에서 위기를 겪고 있었다. 금전적인 문제가 첫 번째였고, 멤버가 지속적으로 감소하는 등 사회적으로도 침체 상태였다. 또한 비록 1930년, 1931년, 1932년, 1934년, 1936년 그리고 1938년의 카탈루냐 챔피언십에서 우승하긴 했지만, 스페인 전체의 리그에서는 우승하지 못하는 등 스포츠적인 면에서도 시련을 겪었다.\[3\]
+
+[스페인 내전](https://ko.wikipedia.org/wiki/스페인_내전 "wikilink") 발발 한 달 후인 1937년 여름에, [좌익](https://ko.wikipedia.org/wiki/좌익 "wikilink") 정치성향의 바르셀로나 회장 [호셉 수뇰이](https://ko.wikipedia.org/wiki/호셉_수뇰 "wikilink") [과다라마](https://ko.wikipedia.org/wiki/과다라마 "wikilink") 인근에서 [프란시스코 프랑코의](https://ko.wikipedia.org/wiki/프란시스코_프랑코 "wikilink") 군사들에 의해 살해되었다.\[4\] 이 당시 선수단은 [멕시코](https://ko.wikipedia.org/wiki/멕시코 "wikilink")와 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") 투어중이었는데, 팀원 중 절반정도가 멕시코나 [프랑스](../Page/프랑스.md "wikilink")로의 망명을 시도하였다. 1938년 3월 16일, [파시스트](https://ko.wikipedia.org/wiki/파시스트 "wikilink")들이 클럽 오피스에 폭탄을 투척하는 등 심각한 파괴를 가했다. 몇 달 후, 바르셀로나는 파시스트에게 점령을 당하였고, 회원수가 3,486명으로 크게 줄어드는 등, '카탈루니아 애국주의'의 상징이었던 바르셀로나는 심각한 곤란을 겪게 되었다.
+
+### 프랑코 독재와 클럽 데 풋볼 바르셀로나 (1939 \~ 1974)
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Franco0001.PNG "wikilink")\]\]
+
+스페인 내전 직후 스페인에서는 [카탈루냐어](https://ko.wikipedia.org/wiki/카탈루냐어 "wikilink")와 [카탈루냐](https://ko.wikipedia.org/wiki/카탈루냐 "wikilink") 국기 사용이 금지되었고 스페인어가 아닌 이름을 가진 축구 클럽에 제재가 가해졌다. 이로써 FC 바르셀로나는 강제적으로 **클럽 데 풋볼 바르셀로나**(Club de Fútbol Barcelona, 줄여서 CF 바르셀로나)로 클럽 이름을 바꾸고 클럽 로고에서 카탈루냐 국기 디자인을 삭제해야 했다. 1940년 3월, 프랑코 정부 협력자이던 에릭 피네이로가 회장에 임명되었다.
+
+1943년, 바르셀로나는 [코파 델 헤네랄리시모](https://ko.wikipedia.org/wiki/코파_델_헤네랄리시모 "wikilink") 준결승전에서 라이벌 [레알 마드리드를](https://ko.wikipedia.org/wiki/레알_마드리드_CF "wikilink") 만나게 되었다. [레스 코르츠에서](https://ko.wikipedia.org/wiki/캄_데_레스_코르츠 "wikilink") 있었던 1차전에서는 바르셀로나가 3-0으로 승리를 거뒀다. 그러나 2차전이 열리는 날, 바르셀로나 선수들의 라커룸에 프랑코의 안전보장부장이 찾아왔다. 그는 바르셀로나 선수들이 경기에서 뛸 수 있는 것은 '제국이 관대하기 때문'이라는 점을 잊지 말라고 경고했다. 결국 이러한 조건 하에서 레알 마드리드는 경기를 지배했고, 바르셀로나는 11-1로 처참히 격파당했다. 물론 경기직후 바르셀로나 선수들이 이러한 사실을 폭로했고 마드리드 측은 정당한 경기에서 승리한것이라며 팽팽히 대립하다가 결국 스페인 축구협회에서는 해당경기를 무효로 선언한다. 이 사건으로 바르셀로나와 카탈루냐인들의 불신은 점점더 레알마드리드에게 커져만갔다.\[5\]
+
+이러한 어려운 정치 상황에도 불구하고, FC 바르셀로나는 1940년대와 1950년대 상당한 성공을 이어갔다. 1945년에는, [호셉 사미티에르](https://ko.wikipedia.org/wiki/호셉_사미티에르 "wikilink") 감독 하에서 세자르, 라마예츠, 발라스코와 같은 선수들이 대활약 하여 1929년 이후 처음으로 라 리가 우승컵을 따냈다. 그들은 1948년과 1949년 두 번의 타이틀을 더 따냈다. 1949년에는 최초로 [코파 라티나에서](https://ko.wikipedia.org/wiki/코파_라티나 "wikilink") 우승하기도 했다.
+
+1950년에는 바르셀로나는 [라디슬라오 쿠발라를](https://ko.wikipedia.org/wiki/라디슬라오_쿠발라 "wikilink") 영입했다. 쿠발라는 처음에는 레알 마드리드와 계약하려 했으나, 당시 호셉 사미티에르와 친분이 있고 바르셀로나에서 스카우트로 활동하고 있던 페르디난트 다우치크의 딸과 결혼하면서 바르셀로나에 들어가기로 마음을 굳혔다.
+
+1951년 비오는 여름날, 2-1로 [라싱 산탄데르를](https://ko.wikipedia.org/wiki/라싱_산탄데르 "wikilink") 이긴 바르셀로나의 관중들은 어떠한 [트램도](https://ko.wikipedia.org/wiki/노면_전차 "wikilink") 타지 않고 모두 걸어서 집으로 향하는 모습을 보여주며 프랑코 정권 당국을 놀라게 했다. 그 이유는 간단했다: 그 당시에 트램기사 파업이 바르셀로나에서 열렸고, 바르셀로나 팬들이 그것을 지지하고 있었기 때문이다. 이러한 이벤트들이 FC 바르셀로나를 단순히 카탈루냐를 대표하는 클럽 그 이상으로 만들게 되었고, 많은 진보적인 스페인인들이 이 클럽을 자유와 권리를 지키는 지조있는 수호자로 여기게 되었다.
+
+페르난도 다우식 코치와 라디슬라오 쿠발라는 1952년 한 해에만 팀을 [라 리가](https://ko.wikipedia.org/wiki/라_리가 "wikilink"), 코파 델 헤네랄리시모, 코파 라티나, 코파 에바 두아르테 그리고 코파 마르티니 로시에서 모두 우승시키며 다섯 개의 우승컵을 모두 끌어안았다. 1953년에도 리가와 코파 델 헤네랄리시모에서 또다시 우승했다.
+
+헬레니오 헤레라 감독, 1960년에 [발롱도르](https://ko.wikipedia.org/wiki/발롱도르 "wikilink")를 수상한 루이스 수아레스, 쿠발라가 추천한 두 [헝가리](https://ko.wikipedia.org/wiki/헝가리 "wikilink")인인 [코치시 샨도르와](https://ko.wikipedia.org/wiki/코치시_샨도르 "wikilink") [치보르 졸탄](https://ko.wikipedia.org/wiki/치보르_졸탄 "wikilink") 등 걸출한 인물들이 쏟아져 나오면서 팀은 1959년에 또다시 [더블](https://ko.wikipedia.org/wiki/더블 "wikilink")을 달성했고, 1960년에는 리가와 [인터시티스 페어스컵에서](https://ko.wikipedia.org/wiki/인터시티스_페어스컵 "wikilink") 우승하는 등 세미 더블을 이뤘다. 1961년에는 레알 마드리드를 [유러피언 컵](https://ko.wikipedia.org/wiki/유러피언_컵 "wikilink") 1라운드에서 격파, 독주를 멈추게 한 최초의 클럽이 되었다. 결승전에서는 [SL 벤피카에게](https://ko.wikipedia.org/wiki/SL_벤피카 "wikilink") 3-2로 패했다.
+
+1960년대에는 레알 마드리드가 리가를 독주하면서, 바르셀로나는 상대적으로 덜 성공적인 모습을 보여주게 되었다. 1957년에 완료된 [캄 노우](https://ko.wikipedia.org/wiki/캄_노우 "wikilink") 건축은 클럽을 재정적으로 빈곤하게 만들었고, 이 때문에 새로운 선수를 영입할 자금이 거의 없었던 것이 결정적인 원인이었다. 하지만 [호셉 푸스테와](https://ko.wikipedia.org/wiki/호셉_푸스테 "wikilink") [카를레스 렉사흐](https://ko.wikipedia.org/wiki/카를레스_렉사흐 "wikilink") 등의 선수가 활약하였고 1963년 코파 델 헤네랄리시모, 1966년 인터시티스 페어스컵에서 우승했다. 바르셀로나는 1968년 [산티아고 베르나베우에서](https://ko.wikipedia.org/wiki/산티아고_베르나베우 "wikilink") 열린 코파 델 헤네랄리시모 결승전에서, [프란시스코 프랑코의](https://ko.wikipedia.org/wiki/프란시스코_프랑코 "wikilink") 눈 앞에서 레알 마드리드를 1-0으로 물리침으로써 실추되었던 명예를 회복하는 역사적인 사건을 만들어냈다. 당시 바르셀로나의 감독은 공교롭게도 스페인 내전 때 프랑코 정권에 맞선 제2공화국 측의 파일럿이었던 살바도르 아르티가스였다. 이 일은 지금까지도 스페인 내에서 널리 회자되고 있다.
+
+클럽은 1974년에 원래 이름인 FC 바르셀로나(Futbol Club Barcelona)를 되찾았다.
+
+### 요한 크루이프의 활약 (1974 \~ 1978)
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Bundesarchiv_Bild_183-N0716-0314,_Fußball-WM,_BRD_-_Niederlande_2-1.jpg "wikilink")
+
+1973–74 시즌에, 훗날 FC 바르셀로나의 전설이 된 선수인 [요한 크루이프가](https://ko.wikipedia.org/wiki/요한_크루이프 "wikilink") 팀에 입단했다. 당시 크루이프는 이미 [AFC 아약스에서](https://ko.wikipedia.org/wiki/AFC_아약스 "wikilink") 검증받은 선수였다. 그는 도착하자마자 언론 인터뷰에서 자신은 프란시스코 프랑코가 지원하는 클럽에서는 뛰고 싶지 않았기 때문에 레알 마드리드를 거절하고 바르셀로나로 왔다고 말해 팬들의 큰 환호를 얻었다. 그는 나중에 그의 아들에게 요르디 (Jordi) 라는 카탈루냐 이름을 붙여줌으로써 팀에 대한 각별한 애정을 다시 한번 보여주었다. 후안 마누엘 아센시, 카를레스 렉사흐, 우고 소틸 같은 훌륭한 선수들과 함께 크루이프는 바르셀로나에 1960년 이후 13년 만에 리그 우승컵을 가져다 주었다. 그 해 산티아고 베르나베우에서는 5-0의 대승을 거두기도 했다. 크루이프는 이 같은 활약으로 발롱도르를 수상했다.
+
+### 누녜스와 팀의 안정기 (1978 \~ 2000)
+
+<table>
+<tbody>
+<tr class="odd">
+<td><div style="position: relative;">
+<p><a href="https://ko.wikipedia.org/wiki/파일:Soccer_Field_Transparant.svg" title="wikilink">175px</a>           </p>
+</div></td>
+</tr>
+<tr class="even">
+<td><p><small><a href="https://ko.wikipedia.org/wiki/유러피언컵" title="wikilink">유러피언컵</a> 시즌 결승전 선발 라인업.</small></p></td>
+</tr>
+</tbody>
+</table>
+
+1978년 [호셉 유이스 누녜스가](https://ko.wikipedia.org/wiki/호셉_유이스_누녜스 "wikilink") FC 바르셀로나의 회장으로 선출되었다. 그의 주 목표는 바르셀로나가 재정적, 스포츠적인 면에서 안정성을 확보하여 세계적인 수준의 클럽으로 발전하도록 하는 것이었다.
+
+1982년 5월 12일, 전 [FC 바이에른 뮌헨의](https://ko.wikipedia.org/wiki/FC_바이에른_뮌헨 "wikilink") 감독이었던 [우도 라텍의](https://ko.wikipedia.org/wiki/우도_라텍 "wikilink") 지도 하에 바르셀로나는 [스탕다르 리에주와의](https://ko.wikipedia.org/wiki/스탕다르_리에주 "wikilink") [UEFA 컵 위너스컵](https://ko.wikipedia.org/wiki/UEFA_컵_위너스컵 "wikilink") 결승전에서 2-1로 승리, 우승컵을 안았다.
+
+1982년 6월에는, [디에고 마라도나가](https://ko.wikipedia.org/wiki/디에고_마라도나 "wikilink") 당시 역대 최고액으로 [보카 주니어스로부터](https://ko.wikipedia.org/wiki/보카_주니어스 "wikilink") 영입되었다. 이어진 시즌에서 세사르 루이스 메노티 감독 하의 바르셀로나와 마라도나는 레알 마드리드를 꺾으며 코파 델 레이에서 우승했다. 그러나 마라도나는 얼마 지나지 않아 폭력사태에 연루되면서 팀에서 방출당하는 수모를 겪고 [SSC 나폴리로](https://ko.wikipedia.org/wiki/SSC_나폴리 "wikilink") 팀을 옮겼다. 바르셀로나는 1984-85시즌에는 새로 부임한 테리 베너블스 감독과 독일 미드필더 [베른트 슈스터의](https://ko.wikipedia.org/wiki/베른트_슈스터 "wikilink") 활약에 힘입어 라 리가 정상에 등극했다. 그 다음 시즌에는 또다시 유러피언 컵 결승전에 올라갔고, [슈테우아 부쿠레슈티를](https://ko.wikipedia.org/wiki/슈테우아_부쿠레슈티 "wikilink") 상대로 선전했으나 승부차기패를 맛봤다.
+
+[1986년 FIFA 월드컵이](https://ko.wikipedia.org/wiki/1986년_FIFA_월드컵 "wikilink") 끝나고, [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink") 최다 득점자인 [게리 리네커와](https://ko.wikipedia.org/wiki/게리_리네커 "wikilink") 골키퍼 [안도니 수비사레타가](https://ko.wikipedia.org/wiki/안도니_수비사레타 "wikilink") 영입되었다. 그러나 슈스터가 팀에서 제외되면서 팀은 좋은 성적을 내지 못했다. 베너블스 감독은 곧 해임되었고 1987-88시즌엔 [루이스 아라고네스](https://ko.wikipedia.org/wiki/루이스_아라고네스 "wikilink") 감독이 그 자리를 대신하게 되었다. [레알 소시에다드를](https://ko.wikipedia.org/wiki/레알_소시에다드 "wikilink") 누르고 코파 델 레이에서 우승컵을 드는 등 좋은 성과도 있는 시즌이었지만 시즌 말미에 'Motín del Hesperia'로 알려진, 누녜스 회장에 대한 선수들의 집단 반항 사건이 일어나기도 했다.
+
+1988년, 요한 크라위프가 클럽에 감독으로 다시 돌아왔고 훗날 드림팀이라고 불리게 된 선수들을 소집했다. 그는 [주제프 과르디올라](https://ko.wikipedia.org/wiki/주제프_과르디올라 "wikilink"), [호세 마리 바케로](https://ko.wikipedia.org/wiki/호세_마리_바케로 "wikilink"), [치키 베히리스타인](https://ko.wikipedia.org/wiki/치키_베히리스타인 "wikilink"), [욘 안도니 고이코에체아](https://ko.wikipedia.org/wiki/욘_안도니_고이코에체아 "wikilink"), [게오르게 하지](https://ko.wikipedia.org/wiki/게오르게_하지 "wikilink"), [로날트 쿠만](https://ko.wikipedia.org/wiki/로날트_쿠만 "wikilink"), [미카엘 라우드루프](https://ko.wikipedia.org/wiki/미카엘_라우드루프 "wikilink"), [호마리우](https://ko.wikipedia.org/wiki/호마리우 "wikilink"), [흐리스토 스토이치코프같은](https://ko.wikipedia.org/wiki/흐리스토_스토이치코프 "wikilink") 선수들을 지휘했다.
+
+크라위프의 지도 하에, 바르셀로나는 1991년부터 1994년까지 라 리가 우승 행진을 이어갔다. 그들은 1989년 [UEFA 컵 위너스컵과](https://ko.wikipedia.org/wiki/UEFA_컵_위너스컵 "wikilink") [1992년 유러피언 컵](https://ko.wikipedia.org/wiki/유러피언컵_1991-92 "wikilink") 결승전에서 모두 [UC 삼프도리아와](https://ko.wikipedia.org/wiki/UC_삼프도리아 "wikilink") 맞닥뜨렸는데, 두 번 다 승리하였다. [웸블리 스타디움에서](https://ko.wikipedia.org/wiki/웸블리_스타디움_\(1923년\) "wikilink") 열렸던 유러피언 컵 결승전에서 터진 로날트 쿠만의 [프리킥](https://ko.wikipedia.org/wiki/프리킥 "wikilink")골은 아직도 유명하다. 바르셀로나는 또한 1990년에 코파 델 레이를 재패했고, 1992년의 [유러피언 컵과](https://ko.wikipedia.org/wiki/유러피언_컵 "wikilink") 세 번의 스페인 슈퍼컵을 더 들어올렸다. 총 11개의 우승컵을 든 크라위프는 역대 감독 중 가장 성공적인 감독으로 남아있다. 그는 또한 바르셀로나의 최장기 연임 감독이었다. 하지만, 그의 임기 마지막 두 시즌은 무관에 그쳤고, 결국엔 감독직에서 물러나게 되었다.
+
+크라위프의 자리를 대신하여 온 [보비 롭슨](https://ko.wikipedia.org/wiki/보비_롭슨 "wikilink") 감독은 1996-97시즌 단 한 시즌만을 맡았다. 그는 [PSV 에인트호번으로부터](https://ko.wikipedia.org/wiki/PSV_에인트호번 "wikilink") [호나우두](https://ko.wikipedia.org/wiki/호나우두 "wikilink")를 데려왔고 코파 델 레이, UEFA 컵 위너스컵, [수페르코파 데 에스파냐를](https://ko.wikipedia.org/wiki/수페르코파_데_에스파냐 "wikilink") 들어올리는 세미 트레블을 달성했다. 그러나 그는 클럽이 [루이스 판 할](https://ko.wikipedia.org/wiki/루이스_판_할 "wikilink") 감독을 데려오기 전까지 임시감독직을 맡기로 한 것이었기 때문에 한 시즌만에 하차했다.
+
+마라도나처럼, 호나우두는 짧은 시간동안 팀에 있었고 곧 [인테르로](https://ko.wikipedia.org/wiki/FC_인테르나치오날레_밀라노 "wikilink") 이적했다. 하지만 [루이스 피구](https://ko.wikipedia.org/wiki/루이스_피구 "wikilink"), [파트릭 클라위버르트](https://ko.wikipedia.org/wiki/파트릭_클라위버르트 "wikilink"), [루이스 엔리케](https://ko.wikipedia.org/wiki/루이스_엔리케_마르티네스_가르시아 "wikilink"), [히바우두](https://ko.wikipedia.org/wiki/히바우두 "wikilink") 같은 스타들이 바로 떠올랐고 1998년 팀은 코파 델 레이와 리가에서 우승하며 더블을 달성했다. 1999년, 팀 창단 100주년을 맞이한 FC 바르셀로나는 리가에서 또다시 우승컵을 들었고 히바우두는 바르셀로나의 네 번째 발롱도르 수상자가 되었다. 스페인 내에서의 이러한 성공에도 불구하고, UEFA 챔피언스리그에서 레알 마드리드를 이기는 데 실패한 것은 판 할 감독과 누네즈 회장이 2000년에 사임하는 계기가 되었다.
+
+### 라포르타 회장과 새로운 시대의 개막 (2003 \~ 2010)
+
+<table>
+<tbody>
+<tr class="odd">
+<td><div style="position: relative;">
+<p><a href="https://ko.wikipedia.org/wiki/파일:Soccer_Field_Transparant.svg" title="wikilink">175px</a>           </p>
+</div></td>
+</tr>
+<tr class="even">
+<td><p><small><a href="https://ko.wikipedia.org/wiki/UEFA_챔피언스리그_2005-06" title="wikilink">UEFA 챔피언스리그 2005-06시즌</a> 결승전 선발 라인업.</small></p></td>
+</tr>
+</tbody>
+</table>
+
+실망스러운 가스파르트 시대 후에, 젊은 회장 [호안 라포르타가](https://ko.wikipedia.org/wiki/호안_라포르타 "wikilink") 당선되었고 역시 젊은 감독이자, [네덜란드와](https://ko.wikipedia.org/wiki/네덜란드_축구_국가대표팀 "wikilink") [AC 밀란의](https://ko.wikipedia.org/wiki/AC_밀란 "wikilink") 수퍼스타였던 [프랑크 레이카르트가](https://ko.wikipedia.org/wiki/프랑크_레이카르트 "wikilink") 감독으로 선임되었다. 이들은 팀을 다시 최고의 자리로 끌어올렸다. 외국에서 영입한 [호나우지뉴](../Page/호나우지뉴.md "wikilink"), [데쿠](https://ko.wikipedia.org/wiki/데쿠 "wikilink"), [헨리크 라르손](https://ko.wikipedia.org/wiki/헨리크_라르손 "wikilink"), [뤼도비크 지울리](https://ko.wikipedia.org/wiki/뤼도비크_지울리 "wikilink"), [사뮈엘 에토](https://ko.wikipedia.org/wiki/사뮈엘_에토 "wikilink"), [라파엘 마르케스](https://ko.wikipedia.org/wiki/라파엘_마르케스 "wikilink") 등의 선수와 팀 유스에서 자체적으로 육성한 [카를레스 푸욜](https://ko.wikipedia.org/wiki/카를레스_푸욜 "wikilink"), [안드레스 이니에스타](https://ko.wikipedia.org/wiki/안드레스_이니에스타 "wikilink"), [사비 에르난데스](https://ko.wikipedia.org/wiki/사비_에르난데스 "wikilink"), [빅토르 발데스](https://ko.wikipedia.org/wiki/빅토르_발데스 "wikilink") 같은 [스페인](https://ko.wikipedia.org/wiki/스페인_축구_국가대표팀 "wikilink") 선수들은 팀을 성공가도에 올려놓았다.
+
+바르셀로나는 2004-05 시즌 라 리가와 [수페르코파 데 에스파냐에서](https://ko.wikipedia.org/wiki/수페르코파_데_에스파냐 "wikilink") 모두 우승했고, 스타로 떠오른 호나우지뉴와 에토는 [FIFA 올해의 선수에서](https://ko.wikipedia.org/wiki/FIFA_올해의_선수 "wikilink") 각각 1위와 3위를 차지했다.
+
+[2005–06](https://ko.wikipedia.org/wiki/프리메라리가_2005-06 "wikilink") 시즌, 바르셀로나는 리그와 수퍼컵에서의 성공을 또 한번 이어갔다. 리그 상승세의 정점은 산티아고 베르나베우에서 레알 마드리드를 3-0으로 제압한 때였다. 프랑크 레이카르트는 이로써 베르나베우에서 두 번 승리를 거둔 최초의 감독이 되었다. 호나우지뉴의 활약은 실로 놀라웠고 그의 두 번째, 세 번째 골이 터진 뒤에는 레알 마드리드의 팬들이 좌절한 나머지 그에게 기립박수를 쳐주는 해프닝도 일어났다. 또한 [챔피언스리그에서](https://ko.wikipedia.org/wiki/UEFA_챔피언스리그_2005-06 "wikilink"), 바르셀로나는 결승전 상대인 [아스널 FC를](https://ko.wikipedia.org/wiki/아스널_FC "wikilink") 2-1로 누르고 우승을 차지했다. 15분이 남은 상태에서 1-0으로 뒤지고 있던 바르셀로나는 10명이 뛰고 있는 상태였던 아스널을 상대로 두 골을 몰아넣어 극적으로 승리했다. 헨리크 라르손은 바르셀로나에서의 마지막 출장이 된 이날 경기에서 교체 투입되자마자 에투에게 어시스트를 하는 활약을 보였고, 그에 이어 교체 투입된 [벨레치가](https://ko.wikipedia.org/wiki/줄리아누_벨레치 "wikilink") 결승골을 기록하며 팀에게 14년 만에 유럽 정상에 오르는 선물을 안겼다.
+
+[2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [9월 12일](https://ko.wikipedia.org/wiki/9월_12일 "wikilink"), FC 바르셀로나는 [유니세프](../Page/유니세프.md "wikilink")와 계약을 했다. FC 바르셀로나의 유니폼 스폰서십을 에이즈에 노출된 전 세계 어린이를 위해 유니세프와 체결한다는 내용이었다. 일반적으로 유니폼 스폰서십이란 돈을 받고 유니폼에 그 회사의 로고를 새겨 그 회사를 선전하는 것인데, FC 바르셀로나는 반대로 어린이들의 에이즈 위험 퇴치를 위해 5년간 구단 수입의 0.7%를 유니세프에 지원해 준다고 하는, 기존의 유니폼 스폰서십의 상식을 완전히 뒤엎은 계약을 하게 되었다. “클럽, 그 이상”이란 FC 바르셀로나의 슬로건은 이러한 FC 바르셀로나의 모습을 잘 나타내어 주고 있다.
+
+[섬네일을](https://ko.wikipedia.org/wiki/파일:Barca_medals.jpg "wikilink") 상대로 [05-06시즌 챔피언스리그에서](https://ko.wikipedia.org/wiki/UEFA_챔피언스리그_2005-06 "wikilink") 우승한 바르셀로나 선수들이 메달을 수여받고 있다.\]\]
+
+그러나 [2006-07시즌](https://ko.wikipedia.org/wiki/프리메라리가_2006-07 "wikilink") 초반의 상승세에도 불구,바르셀로나는 결국 무관에 그쳤다. [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")에서의 프리시즌은 팀의 골잡이 에토와 떠오르는 스타 [리오넬 메시에게](https://ko.wikipedia.org/wiki/리오넬_메시 "wikilink") 부상을 안겨주었고 이는 후에 강도높은 비판을 받았다. 에토가 공개적으로 레이카르트 감독과 호나우지뉴를 비판하는 일도 있었다. 호나우지뉴도 체력 부족이 그의 실력 하락을 가져왔다는 점을 인정했다. 라 리가에서 바르셀로나는 시즌 대부분의 기간동안 1위를 유지했으나, 다음해로 넘어가면서 레알 마드리드가 역전 우승에 성공했다. 코파 델 레이에서는 준결승 1차전에서 디에고 마라도나를 연상시키는 메시의 골을 앞세워 [헤타페 CF를](https://ko.wikipedia.org/wiki/헤타페_CF "wikilink") 제압했으나, 2차전에서 4-0으로 대패하며 결승 진출에 실패했다. 그들은 [FIFA 클럽 월드컵에도](../Page/FIFA_클럽_월드컵.md "wikilink") 참가했으나 후반 늦게 터진 골로 브라질 클럽 [SC 인테르나시오나우에게](https://ko.wikipedia.org/wiki/SC_인테르나시오나우 "wikilink") 패해 우승 기회를 놓쳤다. [챔피언스리그에서는](https://ko.wikipedia.org/wiki/UEFA_챔피언스리그_2006-07 "wikilink") 16강전에서 [리버풀 FC에게](https://ko.wikipedia.org/wiki/리버풀_FC "wikilink") 패했다.
+
+바르셀로나는 [2007-08](https://ko.wikipedia.org/wiki/프리메라리가_2007–08 "wikilink") 시즌 리그에서 3위를 기록했고, [챔피언스리그와](https://ko.wikipedia.org/wiki/UEFA_챔피언스리그_2007-08 "wikilink") 코파 델 레이에서 준결승에 진출하는 데 그쳤다. 두 대회 모두 대회 챔피언이 된 [맨체스터 유나이티드 FC와](https://ko.wikipedia.org/wiki/맨체스터_유나이티드_FC "wikilink") [발렌시아 CF에](https://ko.wikipedia.org/wiki/발렌시아_CF "wikilink") 패한 것이었다. 레알 마드리드에게 4-1 패를 당한 다음날, 호안 라포르타는 [바르셀로나 B팀의](https://ko.wikipedia.org/wiki/바르셀로나_B "wikilink") 감독인 주제프 과르디올라가 6월 30일에 종료되는 레이카르트의 뒤를 이을 것이라고 선언했다.\[6\]
+
+### 스페인 클럽 최초 트레블 및 6관왕 달성 (2008-09)
+
+<table>
+<tbody>
+<tr class="odd">
+<td><div style="position: relative;">
+<p><a href="https://ko.wikipedia.org/wiki/파일:Soccer_Field_Transparant.svg" title="wikilink">175px</a>           </p>
+</div></td>
+</tr>
+<tr class="even">
+<td><p><small><a href="https://ko.wikipedia.org/wiki/UEFA_챔피언스리그_2008-09" title="wikilink">UEFA 챔피언스리그 2008-09시즌</a> 결승전 선발 라인업.</small></p></td>
+</tr>
+</tbody>
+</table>
+
+[2008-09시즌](https://ko.wikipedia.org/wiki/프리메라리가_2008-09 "wikilink") 개막 전, 호안 라포르타 회장의 불신임안이 표결에 부쳐졌다. 해임이 결정되는 66%의 찬성표에 조금 못미치는 60%의 찬성표가 나옴으로써 라포르타는 회장 임기를 가까스로 유지할 수 있었다. 라포르타는 축구 디렉터인 [치키 베히리스타인과](https://ko.wikipedia.org/wiki/치키_베히리스타인 "wikilink") 함께, 국면 전환을 위해 팀의 전설적인 미드필더였던 [주제프 과르디올라에게](https://ko.wikipedia.org/wiki/주제프_과르디올라 "wikilink") 새 사령탑을 맡기기로 결정했다.
+
+라포르타는 또한 선수단에도 큰 변화를 주었다. [잔루카 참브로타](https://ko.wikipedia.org/wiki/잔루카_참브로타 "wikilink"), 데쿠, [에드미우송](https://ko.wikipedia.org/wiki/에드미우송 "wikilink")과 호나우지뉴를 내보낸 것이었다.\[7\] 그 후 스쿼드를 리빌딩하는데 거의 9천만 유로가 소비되었다. 베히리스타인과 라포르타는 [세이두 케이타](https://ko.wikipedia.org/wiki/세이두_케이타 "wikilink"), [헤라르드 피케](https://ko.wikipedia.org/wiki/헤라르드_피케 "wikilink"), [마르틴 카세레스](https://ko.wikipedia.org/wiki/마르틴_카세레스 "wikilink"), [다니에우 아우베스](https://ko.wikipedia.org/wiki/다니에우_아우베스 "wikilink"), 그리고 [알략산드르 흘렙을](https://ko.wikipedia.org/wiki/알략산드르_흘렙 "wikilink") 새로이 영입했다. 카를레스 푸욜, 리오넬 메시, 사비 에르난데스, 빅토르 발데스, 안드레스 이니에스타 등 팀 유스에서 발굴한 인재들은 여전히 팀을 지켰다.
+
+2009년 1월 17일, 바르셀로나는 전반기 리그 19경기에서 오직 한번의 패와 두 번의 무승부를 기록하고 나머지 경기를 전부 승리하면서 라 리가 역대 전반기 최고 승점인 50점을 획득하는 기록을 세웠다. 또한 팀은 코파 델 레이 준결승전에서 [RCD 마요르카를](https://ko.wikipedia.org/wiki/RCD_마요르카 "wikilink") 제압하며 1998년 이후로 처음으로 결승전에 진출했다. 6개월 후인 1월 23일, 국제기구인 [IFFHS](https://ko.wikipedia.org/wiki/IFFHS "wikilink")는 최근 18년간의 최고 클럽 리스트에서 바르셀로나를 1위에 랭크시켰다.\[8\] 국가 내 리그, 컵, 대륙간 경기 그리고 FIFA 주최 경기 등 모든 경기를 종합하여 나온 랭킹이었다.
+
+시즌 후반기에, 바르셀로나는 산티아고 베르나베우에서 레알 마드리드와의 [엘 클라시코를](https://ko.wikipedia.org/wiki/엘_클라시코 "wikilink") 치렀다. 바르셀로나는 역사적인 스코어인 2-6으로 마드리드를 대파했는데 이는 클럽 역사상 엘 클라시코에서의 최다 득점이었으며, 요한 크라위프가 0-5 승리를 거둔 1970년대 이후로 최대 점수차의 승리였다. 이러한 역사적인 승리 후 며칠 지나지 않은 2009년 5월 6일, 바르셀로나는 [챔피언스리그](https://ko.wikipedia.org/wiki/UEFA_챔피언스리그_2008-09 "wikilink") 준결승전 2차전에서 [첼시 FC를](../Page/첼시_FC.md "wikilink") 상대로 경기를 가졌다.
+
+5월 13일에는 [누에보 메스타야에서](https://ko.wikipedia.org/wiki/누에보_메스타야 "wikilink") 열린 아틀레틱 빌바오와의 코파 델 레이 결승전에서 4-1로 승리함으로써 25번째 우승컵을 들었다. 며칠 후 레알 마드리드가 [비야레알 CF에](https://ko.wikipedia.org/wiki/비야레알_CF "wikilink") 패배하면서, 바르셀로나는 [2008-09시즌](https://ko.wikipedia.org/wiki/프리메라리가_2008-09 "wikilink") 우승을 확정지었다.
+
+과르디올라의 공격 점유율 축구 철학 하에서, 베스트 일레븐 멤버 중 7명(빅토르 발데스, 카를레스 푸욜, 헤라르드 피케, 사비 에르난데스, 안드레스 이니에스타, 세르히오 부스케츠, 리오넬 메시)에 해당하는 [바르셀로나 유스](https://ko.wikipedia.org/wiki/FC_바르셀로나_아틀레틱 "wikilink") 출신 선수들과 외부에서 온 훌륭한 선수들은 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [5월 27일](https://ko.wikipedia.org/wiki/5월_27일 "wikilink") [로마](https://ko.wikipedia.org/wiki/로마 "wikilink") [스타디오 올림피코에서](https://ko.wikipedia.org/wiki/스타디오_올림피코 "wikilink") 디펜딩 챔피언 맨체스터 유나이티드를 2-0으로 제압했다. 이렇게 챔피언스리그 우승컵까지 든 FC 바르셀로나는 라 리가와 코파 델 레이 우승컵을 포함하여 [트레블](https://ko.wikipedia.org/wiki/트레블 "wikilink")을 달성하였다. 이것은 스페인 축구 역사상 최초의 일이었다.\[9\]
+
+클럽 역사상 최고 이적료인 6900만 유로로 [즐라탄 이브라히모비치를](https://ko.wikipedia.org/wiki/즐라탄_이브라히모비치 "wikilink") 영입한 바르셀로나는 두 경기 총합 5-1로 아틀레틱 빌바오를 제압하여 [2009 수페르코파 데 에스파냐](https://ko.wikipedia.org/wiki/수페르코파_데_에스파냐 "wikilink") 우승컵을 들었고, [샤흐타르 도네츠크와의](https://ko.wikipedia.org/wiki/FC_샤흐타르_도네츠크 "wikilink") [UEFA 슈퍼컵](https://ko.wikipedia.org/wiki/UEFA_슈퍼컵 "wikilink") 경기에서도 승리하며 시즌을 시작하면서, 트레블 직후의 리그 슈퍼컵과 UEFA 슈퍼컵에서 우승한 최초의 팀이 되었다. 2009년 12월에는 [아랍에미리트](https://ko.wikipedia.org/wiki/아랍에미리트 "wikilink")에서 치러진 [FIFA 클럽 월드컵에서도](https://ko.wikipedia.org/wiki/FIFA_클럽_월드컵_2009 "wikilink") 우승함으로써 바르셀로나는 2009년 참가한 모든 대회에서 우승하게 되었고, 전 세계 축구 클럽 역사에서 전무후무한 한 해 6관왕의 업적을 달성했다.
+
+### 산드로 로셀 시대 (2010 \~ 2013)
+
+<table>
+<tbody>
+<tr class="odd">
+<td><div style="position: relative;">
+<p><a href="https://ko.wikipedia.org/wiki/파일:Soccer_Field_Transparant.svg" title="wikilink">175px</a>           </p>
+</div></td>
+</tr>
+<tr class="even">
+<td><p><small><a href="https://ko.wikipedia.org/wiki/UEFA_챔피언스리그_2010-11" title="wikilink">UEFA 챔피언스리그 2010-11시즌</a> 결승전 선발 라인업.</small></p></td>
+</tr>
+</tbody>
+</table>
+
+[2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [6월](https://ko.wikipedia.org/wiki/6월 "wikilink") [산드로 로셀은](https://ko.wikipedia.org/wiki/산드로_로셀 "wikilink") 라포르타에 이어 새로운 회장이 되었다. 선거는 [6월 13일에](https://ko.wikipedia.org/wiki/6월_13일 "wikilink") 실시하였고, 그는 최고 득표율인 61.35%로 당선되었다. 로셀은 [다비드 비야를](https://ko.wikipedia.org/wiki/다비드_비야 "wikilink") [발렌시아 CF에서](https://ko.wikipedia.org/wiki/발렌시아_CF "wikilink") €40M에 영입하였고, [리버풀 FC로부터](https://ko.wikipedia.org/wiki/리버풀_FC "wikilink") [하비에르 마스체라노를](https://ko.wikipedia.org/wiki/하비에르_마스체라노 "wikilink") €19M에 영입하고, 두 번의 소규모 영입을 하였다.
+
+2010년 11월, 바르셀로나는 그들의 숙적 [레알 마드리드 CF를](https://ko.wikipedia.org/wiki/레알_마드리드_CF "wikilink") 5-0으로 대파하였다. 2010-11 시즌, 바르셀로나는 최종 승점 96점으로 라 리가 3연패를 달성하였다. 2011년 4월, 바르셀로나는 [발렌시아](https://ko.wikipedia.org/wiki/발렌시아 "wikilink")의 [메스타야 경기장에서](https://ko.wikipedia.org/wiki/메스타야_경기장 "wikilink") 열린 [코파 델 레이](https://ko.wikipedia.org/wiki/코파_델_레이 "wikilink") 결승전에 진출하였지만, 연장전 끝에 레알 마드리드에 1-0으로 패하였다.
+
+다음 달, 바르셀로나는 [UEFA 챔피언스리그 2010-11 결승전에서](https://ko.wikipedia.org/wiki/UEFA_챔피언스리그_2010-11_결승전 "wikilink") 2년 전 결승상대인 [맨체스터 유나이티드 FC를](https://ko.wikipedia.org/wiki/맨체스터_유나이티드_FC "wikilink") 만나 3-1 완승을 거두고, 네 번째 빅이어를 들어올렸다.
+
+그러나 2011-12 시즌에서는 이러한 영광을 이어가지 못했다. [리그에서는](https://ko.wikipedia.org/wiki/프리메라리가_2011-12 "wikilink") 레알 마드리드에 밀려 4년 만에 2위를 거두었으며, [챔피언스리그 준결승](https://ko.wikipedia.org/wiki/UEFA_챔피언스리그_2011-12 "wikilink") [첼시와의](../Page/첼시_FC.md "wikilink") 맞대결에서 첼시의 밀집된 수비진을 끝내 공략하지 못해 탈락하고 말았다. [주제프 과르디올라는](https://ko.wikipedia.org/wiki/주제프_과르디올라 "wikilink") 시즌이 종료되는 즉시 감독직에서 자진 사임 의사를 밝혔다. [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [4월 28일에](https://ko.wikipedia.org/wiki/4월_28일 "wikilink") [티토 빌라노바가](https://ko.wikipedia.org/wiki/티토_빌라노바 "wikilink") [주제프 과르디올라의](https://ko.wikipedia.org/wiki/주제프_과르디올라 "wikilink") 뒤를 이어 감독직을 맡는다고 공식 발표하였다.
+
+[2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [5월 25일에](https://ko.wikipedia.org/wiki/5월_25일 "wikilink") [아틀레티코 마드리드의](https://ko.wikipedia.org/wiki/아틀레티코_마드리드 "wikilink") 홈 구장인 [비센테 칼데론](https://ko.wikipedia.org/wiki/비센테_칼데론 "wikilink") 경기장에서 열린 [아틀레틱 빌바오와의](https://ko.wikipedia.org/wiki/아틀레틱_빌바오 "wikilink") [코파 델 레이](https://ko.wikipedia.org/wiki/코파_델_레이 "wikilink") 결승전에서 [페드로 로드리게스 레데스마와](../Page/페드로_로드리게스_레데스마.md "wikilink") [리오넬 메시의](https://ko.wikipedia.org/wiki/리오넬_메시 "wikilink") 골로 3-0 완승을 거두어 [주제프 과르디올라의](https://ko.wikipedia.org/wiki/주제프_과르디올라 "wikilink") 마지막 경기에서 우승컵을 들어올렸다.
+
+12-13 시즌은 티토 빌라노바가 감독이었다. 티토 빌라노바는 분위기를 안정시키는데 성공하여 12-13 시즌 리그 우승을 차지했다. [UEFA 챔피언스리그](../Page/UEFA_챔피언스리그.md "wikilink") 조별 리그에서 [셀틱FC](https://ko.wikipedia.org/wiki/셀틱FC "wikilink"), [스파르타크 모스크바](https://ko.wikipedia.org/wiki/스파르타크_모스크바 "wikilink"), [SL 벤피카를](https://ko.wikipedia.org/wiki/SL_벤피카 "wikilink") 상대해 4승 1무 1패라는 성적을 거두어 셀틱을 조 2위로 밀어내고 16강에 진출하였다. 2012년 12월 20일 챔피언스리그 16강 대진 추첨식에서 바르셀로나는 지난 시즌 챔피언스리그 조별 예선과 토너먼트전 8강에서 만난 [AC 밀란과](https://ko.wikipedia.org/wiki/AC_밀란 "wikilink") 다시 만나게 되었고 밀란과의 1차전에서는 2-0으로 패했으나 3월 13일에 열린 2차 홈 경기에선 4-0으로 승리하여 합계전적 4:2로 8강에 진출하였다. 8강 상대는 [파리 생제르맹으로](https://ko.wikipedia.org/wiki/파리_생제르맹 "wikilink") 결정되었다. 1차전 원정에서 전반 38분 [리오넬 메시가](https://ko.wikipedia.org/wiki/리오넬_메시 "wikilink") 선제골 넣으며 앞서 나갔지만 후반 35분, 프리킥 상황에서 [티아구 실바가](https://ko.wikipedia.org/wiki/티아구_실바 "wikilink") 헤딩슛을 날렸지만 골대를 맞고 굴절된 볼을 [즐라탄 이브라히모비치가](https://ko.wikipedia.org/wiki/즐라탄_이브라히모비치 "wikilink") 왼발로 마무리해 동점골을 터뜨렸다. 그러나 5분뒤에 골키퍼 [살바토레 시리구의](https://ko.wikipedia.org/wiki/살바토레_시리구 "wikilink") 반칙으로 얻어낸 PK를 [사비 에르난데스가](https://ko.wikipedia.org/wiki/사비_에르난데스 "wikilink") 성공하며 역전에 성공했다. 후반 끝나기 직전 [즐라탄 이브라히모비치의](https://ko.wikipedia.org/wiki/즐라탄_이브라히모비치 "wikilink") 해딩 패스를 [블레이즈 마투이디가](https://ko.wikipedia.org/wiki/블레이즈_마투이디 "wikilink") 왼발 슈팅으로 극적인 동점을 넣어 혈투 끝에 2:2로 비겼다. 8강 2차전은 [캄 노우에서](https://ko.wikipedia.org/wiki/캄_노우 "wikilink") 열렸는데 8강 1차전에서 [리오넬 메시가](https://ko.wikipedia.org/wiki/리오넬_메시 "wikilink") 햄스트링 부상을 당해 경기 출전이 어려워지는 상황에 몰렸고 그 와중에 [파리 생제르맹의](https://ko.wikipedia.org/wiki/파리_생제르맹 "wikilink") 선제골이 터졌다. 탈락 위기에 몰린 [바르셀로나](https://ko.wikipedia.org/wiki/바르셀로나 "wikilink")는 후반 16분, [세스크 파브레가스를](https://ko.wikipedia.org/wiki/세스크_파브레가스 "wikilink") 벤치로 불러들이고 부상에서 완전히 회복되지 않은 [리오넬 메시를](https://ko.wikipedia.org/wiki/리오넬_메시 "wikilink") 투입했다. 메시는 후반 25분 직접 드리블을 하며 [다비드 비야한테](https://ko.wikipedia.org/wiki/다비드_비야 "wikilink") 패스를 건냈고 비야는 [페드로 로드리게스에게](https://ko.wikipedia.org/wiki/페드로_로드리게스 "wikilink") 패스 했으며 페드로는 다시 비야에게 패스하고 비야는 정확한 슈팅을 연결해 동점골로 원점을 돌렸다. 1대1로 비겼지만 원정 2골이 있는 [바르셀로나](https://ko.wikipedia.org/wiki/바르셀로나 "wikilink")는 종합전적 3대3 원정 다득점 원칙으로 준결승전에 올랐다.
+
+그러나 바르셀로나는 준결승 1차 원정 경기에서 [FC 바이에른 뮌헨에](https://ko.wikipedia.org/wiki/FC_바이에른_뮌헨 "wikilink") 0:4로 대패했다. [리오넬 메시가](https://ko.wikipedia.org/wiki/리오넬_메시 "wikilink") 부상으로 결장한 2차 홈 경기에서 후반 3분, [아르연 로번에게](https://ko.wikipedia.org/wiki/아르연_로번 "wikilink") 선제골을 허용하더니 [프랑크 리베리의](https://ko.wikipedia.org/wiki/프랑크_리베리 "wikilink") 크로스를 걷어내려던 [헤라르드 피케의](https://ko.wikipedia.org/wiki/헤라르드_피케 "wikilink") 자책골로 완전히 무너졌고 [토마스 뮐러의](https://ko.wikipedia.org/wiki/토마스_뮐러 "wikilink") 결정타 골로 0:3 패배했다. 1-2차전 합계 0:7, 결국 [바르셀로나](https://ko.wikipedia.org/wiki/바르셀로나 "wikilink")는 탈락했다. [프리메라리가](https://ko.wikipedia.org/wiki/프리메라리가 "wikilink")에서는 리그 우승을 차지하였다.
+
+### 두 번째 트레블 (2014-15)
+
+(2014 \~ 2015) ===
+
+<table>
+<tbody>
+<tr class="odd">
+<td><div style="position: relative;">
+<p><a href="https://ko.wikipedia.org/wiki/파일:Soccer_Field_Transparant.svg" title="wikilink">175px</a>           </p>
+</div></td>
+</tr>
+<tr class="even">
+<td><p><small><a href="https://ko.wikipedia.org/wiki/UEFA_챔피언스리그_2014-15" title="wikilink">UEFA 챔피언스리그 2014-15시즌</a> 결승전 선발 라인업.</small></p></td>
+</tr>
+</tbody>
+</table>
+
+바르셀로나는 감독으로 선수로 두 번의 리가 우승을 차지하고, B팀 감독으로도 있었던 [루이스 엔리케를](https://ko.wikipedia.org/wiki/루이스_엔리케_마르티네스_가르시아 "wikilink") 내정했다. 또한 [알렉시스 산체스](https://ko.wikipedia.org/wiki/알렉시스_산체스 "wikilink"), [세스크 파브레가스](https://ko.wikipedia.org/wiki/세스크_파브레가스 "wikilink"), [빅토르 발데스가](https://ko.wikipedia.org/wiki/빅토르_발데스 "wikilink") 나가고 [루이스 수아레스](https://ko.wikipedia.org/wiki/루이스_수아레스 "wikilink"), [이반 라키티치](https://ko.wikipedia.org/wiki/이반_라키티치 "wikilink"), [마르크안드레 테어 슈테겐](https://ko.wikipedia.org/wiki/마르크안드레_테어_슈테겐 "wikilink"), [클라우디오 브라보가](https://ko.wikipedia.org/wiki/클라우디오_브라보 "wikilink") 새로 영입되었다. 비록 수아레스가 2014년 월드컵에서 받은 징계로 2014년 10월 25일까지 경기장에 출전할 수 없었지만, 징계가 풀림과 동시에 [메시](https://ko.wikipedia.org/wiki/리오넬_메시 "wikilink"), [네이마르](https://ko.wikipedia.org/wiki/네이마르 "wikilink")와 뛰어난 호흡을 보여주었다. 세 남아메리카 선수의 앞글자를 따서 'MSN'이라고도 불린 이 공격조합은 프리메라리가 역사상 가장 많은 골인 122 득점을 기록하면서\[10\] 라이벌 레알 마드리드를 승점 2점차로 따돌리면서 [2014-15 시즌](../Page/프리메라리가_2014-15.md "wikilink") 우승을 차지했다. 또한 [코파 델 레이에서도](https://ko.wikipedia.org/wiki/코파_델_레이 "wikilink") [아틀레틱 빌바오를](https://ko.wikipedia.org/wiki/아틀레틱_빌바오 "wikilink") 3-1로 꺾으면서 우승을 하였고, [UEFA 챔피언스리그 2014-15까지](https://ko.wikipedia.org/wiki/UEFA_챔피언스리그_2014-15 "wikilink") 이탈리아의 [유벤투스 FC를](https://ko.wikipedia.org/wiki/유벤투스_FC "wikilink") 3-1로 꺾으면서 축구 역사상 최초로 두 번째 [트레블](https://ko.wikipedia.org/wiki/트레블 "wikilink")을 달성한 클럽이 되었다.
+
+2015-16 시즌, 리그와 코파 델 레이에서 우승을 거두었다.
+
+## 클럽 상징
+
+### 엠블럼
+
+FC 바르셀로나의 최초 엠블럼은 현재와 상당히 다른 모습을 가지고 있었다. [바르셀로나](https://ko.wikipedia.org/wiki/바르셀로나 "wikilink") 시의 문양을 기본으로 한 이 엠블럼은 흰색 바탕의 붉은 색 십자가 그려진 [성 게오르기우스 십자와](https://ko.wikipedia.org/wiki/성_게오르기우스_십자 "wikilink") 붉은색과 노란색 줄이 교대로 나타나는 [카탈루냐](https://ko.wikipedia.org/wiki/카탈루냐 "wikilink") 국기로 채워져있는 마름모를 중심으로, [월계수](https://ko.wikipedia.org/wiki/월계수 "wikilink") 가지가 둥글게 감싸고 있는 형태였다.
+
+그 후 1910년, 클럽은 새로운 문양 계획안을 공모하였다. 그 결과 클럽에서 선수로 뛰고 있던 예술학도 카를레스 코마말라의 작품이 채택되었다. 이 형태는 현재의 엠블럼의 기초가 되는 것이었으며, 실제로 큰 변화 없이 현재까지 유지되어 왔다. 구체적인 형태를 설명하자면 다음과 같다. 전체적으로는 상단에 두 개의 포인트가 솟아있는 넓은 접시 모양으로 그 아래에는 성 게오르기우스 십자와 카탈루냐 국기가 좌우로 반씩 공간을 차지하고 있다. 그 밑으로 클럽의 약자인 'F.C.B.'가 새겨져있고, 그 아래엔 바르셀로나의 상징인 블라우그라나 수직 무늬와 축구공 문양이 그려져 있다. [프란시스코 프랑코](https://ko.wikipedia.org/wiki/프란시스코_프랑코 "wikilink") 정권 하의 [스페인어](https://ko.wikipedia.org/wiki/스페인어 "wikilink") 사용 압력으로 인해 'F.C.B.'가 'C.F.B.'로 강제 변경된 일이 있었지만, 1974년 이후엔 다시 'F.C.B.'가 엠블럼의 중심을 채우게 되었다.
+
+현재의 문양은 2002년 디자이너 클라렛 세라히마가 도안한 것이다. 선들이 좀 더 단순해지고 'F.C.B.'에서 글자 사이의 점이 빠진 FCB를 택하였으며, 전체적으로 뾰족한 모서리들이 줄어들었다.\[11\]
+
+### 블라우그라나
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:600px_BlauGrana.svg "wikilink")
+
+FC 바르셀로나의 유니폼의 색이 어째서 블라우그라나([파란색](https://ko.wikipedia.org/wiki/파란색 "wikilink")과 [붉은색](https://ko.wikipedia.org/wiki/붉은색 "wikilink"))이 됐는지, 그 유래에 대해서는 아직도 논란이 많다. 가장 확실한 것은 팀의 설립자인 [조안 감페르가](https://ko.wikipedia.org/wiki/조안_감페르 "wikilink") 이 색을 선택했다는 것이다. 실제로 FC 바르셀로나를 창설하기 이전에도 감퍼는 파란색과 붉은 색이 들어간 모자를 쓰고 경기에서 뛰곤 했다.
+
+최근까지는 조안 감페르가 이전에 속했던 것으로 알려진 팀인 [FC 바젤의](https://ko.wikipedia.org/wiki/FC_바젤 "wikilink") 팀 컬러를 그대로 채용한 것이 아니냐는 주장도 있었으나, 그의 후손들이 감페르는 바젤에서 뛴 적이 없다고 언급하는 등 그 진위에 대해 논란이 생겼다.\[12\]
+
+또 다른 가설은, 감페르가 그의 여동생 로사와 함께 살았던 [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink") [티치노주](https://ko.wikipedia.org/wiki/티치노주 "wikilink")의 상징색이 파란색과 붉은 색이라는 것에서 그 유래를 찾고 있다.
+
+네 번째 가설로, 초기 FC 바르셀로나의 멤버였던 코마말라 형제의 어머니가 형제를 구별하기 위해 파란색과 붉은색의 손목 밴드를 준 데서 블라우그라나가 유래하였다는 주장도 있다.
+
+최근에는 클럽의 창시자 중 한 명인 오토 마이어의 고향 [독일](https://ko.wikipedia.org/wiki/독일 "wikilink") 남부 도시 [하이덴하임안데어브렌츠](https://ko.wikipedia.org/wiki/하이덴하임안데어브렌츠 "wikilink")를 상징하는 색이라는 추측도 설득력을 얻고 있다.
+
+### 응원가
+
+FC 바르셀로나의 응원가는 [칸트 델 바르사이다](https://ko.wikipedia.org/wiki/칸트_델_바르사 "wikilink"). 1974년, 창단 75주년을 기념하여 만들어졌다. 하우메 피카스와 호셉 마리아 에스피나스가 작사했고 마누엘 발스 고리나가 작곡했다. 코랄 산트 요르디가 정식 음원에서 노래를 불렀다. 창단 100주년 행사에서는 싱어송라이터인 [호안 마누엘 세라트가](https://ko.wikipedia.org/wiki/호안_마누엘_세라트 "wikilink") 노래하기도 했으며, [호세 카레라스와](../Page/호세_카레라스.md "wikilink") 같은 명사들도 공연에서 이 노래를 부른 바 있다.
+
+## 경기장
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Camp_nou_mès_que_un_club.JPG "wikilink")\]\]
+
+  - **이름** : [캄프 누](https://ko.wikipedia.org/wiki/캄_노우 "wikilink")
+  - **도시** : [바르셀로나](https://ko.wikipedia.org/wiki/바르셀로나 "wikilink")
+  - **수용 인원** : 99,354명
+  - **기타 시설**
+      - 캠프 티토 빌라노바 (FC 바르셀로나의 1군 훈련장)
+      - [시우타트 에스포르티바 호안 감퍼](https://ko.wikipedia.org/wiki/시우타트_에스포르티바_호안_감퍼 "wikilink") (FC 바르셀로나의 연습 구장)
+      - [라 마시아](../Page/라_마시아.md "wikilink") (유스 선수들의 거주 시설)
+      - [미니 에스타디](../Page/미니_에스타디.md "wikilink") (FC 바르셀로나 B팀 경기장)
+      - 팔라우 블라우그라나 (FC 바르셀로나 실내 경기장)
+      - 팔라우 블라우그라나2 (FC 바르셀로나 제2 실내 경기장)
+
+## 서포터
+
+FC 바르셀로나의 팬들은 꾸레 또는 쿨레스(카탈루냐어 Culers /kuˈlɛs/, 에스파냐어 Culés)라고 불린다. 카탈루냐어와 에스파냐어 모두 기본적으로 발음은 유사하나 강세의 위치가 다르다. (카탈루냐어 '쿠'와 'ㄹ레스' 사이, 에스파냐어 '레')
+
+쿨레스라는 이름은 카탈루냐어로 엉덩이를 뜻하는 'cul'에서 유래한 것이다. 클럽 창단 이후 초창기에 바르셀로나가 경기했던 인두스트리아 구장의 시설은 매우 열악하였다. 그로 인해 관중석이 극도로 부족해서 제대로 앉지 못하는 관중이 굉장히 많았는데, 이 광경을 경기장 밖에서 보면 엉덩이들이 경기장을 빙 두르고 있는 모양새였다. 그것을 두고 사람들이 바르셀로나의 서포터들을 쿨레스라고 부르기 시작했다. 그 이후로 현재 [캄 노우가](https://ko.wikipedia.org/wiki/캄_노우 "wikilink") 되기까지 바르셀로나의 경기장은 두 번이나 훨씬 크게 변화했지만, 쿨레스라는 별명만큼은 아직도 남아서 널리 사용되고 있다.
+
+## 스폰서십
+
+FC 바르셀로나는 전통적으로 유니폼 스폰서십에 대해 주목할 만한 태도를 취하고 있다. 다른 축구팀과는 달리 시작이 [협동조합](https://ko.wikipedia.org/wiki/협동조합 "wikilink") 형태로 출발한 바르셀로나는 창립 당시부터 2010년까지 유니폼에 스폰서 기업의 광고를 다는 것을 거부했다. 2006년 7월 14일, 클럽은 [유니세프](../Page/유니세프.md "wikilink")와 5년 협약을 맺었는데, 그 계약에는 유니폼에 유니세프의 로고를 다는 것도 포함되어 있었다. 이 협약은 바르셀로나가 막대한 자금을 제공하는 유니폼 스폰서를 거절하고, 클럽의 연간 수입의 0.7%에 해당하는 1900만 달러 가량을 유니세프에 매년 지급하는 것을 내용으로 하고 있다.\[13\]
+
+클럽은 세계 발전을 위한 국제 협력 프로그램을 만들기 위해 이러한 협약을 맺었고, [UN 밀레니엄 발전 목표를](https://ko.wikipedia.org/wiki/UN_밀레니엄_발전_목표 "wikilink") 지원하게 되었다. 또한 5년동안 150만 유로를 유니세프의 인류 구호 프로그램을 위해 기부하는 것을 내용으로 하는 협약도 체결하였다.
+
+2010년 들면서 창단 이래 최초의 항공사 스폰서를 맺게 되는데 2010년 1월 18일 캄 노우에서 바르셀로나 구단과 새 스폰서인 [터키항공](https://ko.wikipedia.org/wiki/터키항공 "wikilink") 양측 대표들이 나온 가운데 항공스폰서 조인을 가졌는데 후원 액수는 밝히지 않았지만 3년 동안 총 900만 유로(한화 146억원) 규모인 것으로 알려졌다.
+
+바르셀로나가 항공사의 후원을 받는 것은 이번이 처음이며, 선수단은 터키항공으로부터 선수들의 원정에 필요한 보잉 777 전용기를 지원받는다.
+
+이를 위해 터키항공은 보잉 777의 동체를 바르셀로나를 상징하는 푸른색과 붉은색으로 치장했고, 항공기 측면 바르셀로나의 로고를 크게 새겨넣었다.\[14\]
+
+[섬네일가](https://ko.wikipedia.org/wiki/파일:LeoMessi.JPG "wikilink") [유니세프](../Page/유니세프.md "wikilink") 로고가 새겨진 유니폼을 입고 플레이하고 있다.(2008-09)\]\]
+
+이밖에 바르셀로나가 스폰서십을 맺고 있는 회사들은 다음과 같다.
+
+  - [나이키](https://ko.wikipedia.org/wiki/나이키_\(기업\) "wikilink") : 공식 스폰서
+  - [아우디](https://ko.wikipedia.org/wiki/아우디 "wikilink") : 공식 스폰서
+  - [에스테야 담](https://ko.wikipedia.org/wiki/에스테야_담 "wikilink") : 공식 스폰서
+  - [라 카이사](https://ko.wikipedia.org/wiki/라_카이사 "wikilink") : 공식 스폰서
+  - [TV3](https://ko.wikipedia.org/wiki/TV3_\(카탈루냐\) "wikilink") : 공식 스폰서
+  - [텔레포니카](https://ko.wikipedia.org/wiki/텔레포니카 "wikilink") : 공식 스폰서
+  - [카타루 항공](https://ko.wikipedia.org/wiki/카타루_항공 "wikilink") : 공식 스폰서
+  - [라쿠텐](https://ko.wikipedia.org/wiki/라쿠텐 "wikilink") : 공식 스폰서
+  - [코카콜라](https://ko.wikipedia.org/wiki/코카콜라 "wikilink") : 공식 지원사
+  - [가스 내츄럴](https://ko.wikipedia.org/wiki/가스_내츄럴 "wikilink") : 공식 지원사
+  - [미디어프로](https://ko.wikipedia.org/wiki/미디어프로 "wikilink") : 공식 지원사
+  - [NH 호텔](https://ko.wikipedia.org/wiki/NH_호텔 "wikilink") : 공식 지원사
+  - [터키항공](https://ko.wikipedia.org/wiki/터키항공 "wikilink") : 공식 지원사
+
+### 유니폼
+
+| 기간        | 제조사                                                                                                                                                                                                       | 주 협찬사                                                                                  | 부 협찬사 |
+| --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ----- |
+| 1899–1982 | *없음*                                                                                                                                                                                                      | *없음*                                                                                   | *없음*  |
+| 1982–1992 | [메이바](https://ko.wikipedia.org/wiki/메이바 "wikilink")                                                                                                                                                       |                                                                                        |       |
+| 1992–1998 | [카파](https://ko.wikipedia.org/wiki/카파_\(기업\) "wikilink")                                                                                                                                                  |                                                                                        |       |
+| 1998–2006 | [나이키](https://ko.wikipedia.org/wiki/나이키 "wikilink")                                                                                                                                                       |                                                                                        |       |
+| 2006–2011 | [유니세프](../Page/유니세프.md "wikilink")                                                                                                                                                                        |                                                                                        |       |
+| 2011–2013 | [카타르 재단](https://ko.wikipedia.org/wiki/카타르_파운데이션 "wikilink")                                                                                                                                              | [유니세프](../Page/유니세프.md "wikilink")                                                     |       |
+| 2013–2014 | [카타르 항공](https://ko.wikipedia.org/wiki/카타르_항공 "wikilink")                                                                                                                                                 | [유니세프](../Page/유니세프.md "wikilink") / [인텔](https://ko.wikipedia.org/wiki/인텔 "wikilink") |       |
+| 2014–2016 | [유니세프](../Page/유니세프.md "wikilink") / [인텔](https://ko.wikipedia.org/wiki/인텔 "wikilink") / [베코](https://ko.wikipedia.org/wiki/베코_\(기업\) "wikilink")                                                         |                                                                                        |       |
+| 2016–2017 | [유니세프](../Page/유니세프.md "wikilink") / [인텔](https://ko.wikipedia.org/wiki/인텔 "wikilink") / [베코](https://ko.wikipedia.org/wiki/베코_\(기업\) "wikilink") / [게토레이](https://ko.wikipedia.org/wiki/게토레이 "wikilink") |                                                                                        |       |
+| 2017–     | [라쿠텐](https://ko.wikipedia.org/wiki/라쿠텐 "wikilink")                                                                                                                                                       |                                                                                        |       |
+
+## 우승 기록
+
+### 국내 대회
+
+#### 리그
+
+  - **[라리가](https://ko.wikipedia.org/wiki/라리가 "wikilink")**
+
+<!-- end list -->
+
+  -
+
+    **우승 (26)**: 1928-29, 1944-45, 1947-48, 1948-49, 1951-52, 1952-53, 1958-59, 1959-60, 1973-74, 1984-85, 1990-91, 1991-92, 1992-93, 1993-94, [1997-98](https://ko.wikipedia.org/wiki/프리메라리가_1997-98 "wikilink"), [1998-99](https://ko.wikipedia.org/wiki/프리메라리가_1998-99 "wikilink"), [2004-05](https://ko.wikipedia.org/wiki/프리메라리가_2004-05 "wikilink"), [2005-06](https://ko.wikipedia.org/wiki/프리메라리가_2005-06 "wikilink"), [2008-09](https://ko.wikipedia.org/wiki/프리메라리가_2008-09 "wikilink"), [2009-10](https://ko.wikipedia.org/wiki/프리메라리가_2009-10 "wikilink"), [2010-11](https://ko.wikipedia.org/wiki/프리메라리가_2010-11 "wikilink"), [2012-13](../Page/프리메라리가_2012-13.md "wikilink"), [2014-15](../Page/프리메라리가_2014-15.md "wikilink"), [2015-16](../Page/프리메라리가_2015-16.md "wikilink"), [2017-18](https://ko.wikipedia.org/wiki/프리메라리가_2017-18 "wikilink"), [2018-19](https://ko.wikipedia.org/wiki/프리메라리가_2018-19 "wikilink")
+
+    **준우승 (25)**: 1929-30, 1945-46, 1953-54, 1954-55, 1955-56, 1961-62, 1963-64, 1966-67, 1967-68, 1970-71, 1972-73, 1975-76, 1976-77, 1977-78, 1981-82, 1985-86, 1986-87, 1988-89, [1996-97](https://ko.wikipedia.org/wiki/프리메라리가_1996-97 "wikilink"), [1999-2000](https://ko.wikipedia.org/wiki/프리메라리가_1999-2000 "wikilink"), [2003-04](https://ko.wikipedia.org/wiki/프리메라리가_2003-04 "wikilink"), [2006-07](https://ko.wikipedia.org/wiki/프리메라리가_2006-07 "wikilink"), [2011-12](https://ko.wikipedia.org/wiki/프리메라리가_2011-12 "wikilink"), [2013-14](https://ko.wikipedia.org/wiki/프리메라리가_2013-14 "wikilink"), [2016-17](https://ko.wikipedia.org/wiki/프리메라리가_2016-17 "wikilink")
+
+#### 컵
+
+  - **[코파 델 레이](https://ko.wikipedia.org/wiki/코파_델_레이 "wikilink")**
+
+<!-- end list -->
+
+  -
+
+    **우승 (30, 최다 기록)**: 1910, 1912, 1913, 1920, 1922, 1925, 1926, 1928, 1942, 1951, 1952, 1953, 1957, 1959, 1963, 1968, 1971, 1978, 1981, 1983, 1988, 1990, 1997, 1998, 2009, 2012, 2015, 2016, 2017, 2018
+
+    **준우승 (11)**: 1919, 1932, 1936, 1954, 1974, 1984, 1986, 1996, 2011, 2014, 2019
+
+<!-- end list -->
+
+  - **[수페르코파 데 에스파냐](https://ko.wikipedia.org/wiki/수페르코파_데_에스파냐 "wikilink")**
+
+<!-- end list -->
+
+  -
+
+    **우승 (14, 최다 기록)**: 1983, 1991, 1992, 1994, 1996, 2005, 2006, 2009, 2010, 2011, 2013, 2016, 2018, 2019
+
+    **준우승 (10)**: 1985, 1988, 1990, 1993, 1997, 1998, 1999, 2012, 2015, 2017
+
+<!-- end list -->
+
+  - **[코파 데 라 리가](../Page/코파_데_라_리가.md "wikilink")**
+
+<!-- end list -->
+
+  -
+
+    **우승 (2, 최다 기록)**: 1982-83, 1985-86
+
+<!-- end list -->
+
+  - **[코파 에바 두아르테](../Page/코파_에바_두아르테.md "wikilink")**
+
+<!-- end list -->
+
+  -
+
+    **우승 (4, 최다 기록)**: 1945, 1948, 1952, 1953
+
+    **준우승 (2)**: 1949, 1951
+
+### 국제 대회
+
+#### 유럽 대회
+
+  - **[UEFA 챔피언스리그](../Page/UEFA_챔피언스리그.md "wikilink")**
+
+<!-- end list -->
+
+  -
+
+    **우승 (5)**: [1991-92](https://ko.wikipedia.org/wiki/1991-92년_유러피언컵 "wikilink"), [2005-06](https://ko.wikipedia.org/wiki/2005-06년_UEFA_챔피언스리그 "wikilink"), [2008-09](https://ko.wikipedia.org/wiki/2008-09년_UEFA_챔피언스리그 "wikilink"), [2010-11](https://ko.wikipedia.org/wiki/2010-11년_UEFA_챔피언스리그 "wikilink"), [2014-15](https://ko.wikipedia.org/wiki/2014-15년_UEFA_챔피언스리그 "wikilink")
+
+    **준우승 (3)**: [1961-62](https://ko.wikipedia.org/wiki/1961-62년_유러피언컵 "wikilink"), [1963-64](https://ko.wikipedia.org/wiki/1963-64년_유러피언컵 "wikilink"), [1980-81](https://ko.wikipedia.org/wiki/1980-81년_유러피언컵 "wikilink")
+
+<!-- end list -->
+
+  - **[UEFA 슈퍼컵](https://ko.wikipedia.org/wiki/UEFA_슈퍼컵 "wikilink")**
+
+<!-- end list -->
+
+  -
+
+    **우승 (5, 최다 기록)**: [1992](../Page/1992년_UEFA_슈퍼컵.md "wikilink"), [1997](../Page/1997년_UEFA_슈퍼컵.md "wikilink"), [2009](../Page/2009년_UEFA_슈퍼컵.md "wikilink"), [2011](../Page/2011년_UEFA_슈퍼컵.md "wikilink"), [2015](../Page/2015년_UEFA_슈퍼컵.md "wikilink")
+
+    **준우승 (4)**: [1979](../Page/1979년_UEFA_슈퍼컵.md "wikilink"), [1982](../Page/1982년_UEFA_슈퍼컵.md "wikilink"), [1989](../Page/1989년_UEFA_슈퍼컵.md "wikilink"), [2006](../Page/2006년_UEFA_슈퍼컵.md "wikilink")
+
+<!-- end list -->
+
+  - **[UEFA 컵위너스컵](https://ko.wikipedia.org/wiki/UEFA_컵위너스컵 "wikilink")**
+
+<!-- end list -->
+
+  -
+
+    **우승 (4, 최다 기록)**: [1978-79](../Page/1978-79년_UEFA_컵위너스컵.md "wikilink"), [1981-82](../Page/1981-82년_UEFA_컵위너스컵.md "wikilink"), [1988-89](../Page/1988-89년_UEFA_컵위너스컵.md "wikilink"), [1996-97](../Page/1996-97년_UEFA_컵위너스컵.md "wikilink")
+
+    **준우승 (2)**: [1968-69](../Page/1968-69년_UEFA_컵위너스컵.md "wikilink"), [1990-91](../Page/1990-91년_UEFA_컵위너스컵.md "wikilink")
+
+<!-- end list -->
+
+  - **[인터시티스 페어스컵](https://ko.wikipedia.org/wiki/인터시티스_페어스컵 "wikilink")**
+
+<!-- end list -->
+
+  -
+
+    **우승 (3, 최다 기록)**: [1955-58](../Page/1955-58년_인터시티스_페어스컵.md "wikilink"), [1958-60](../Page/1958-60년_인터시티스_페어스컵.md "wikilink"), [1965-66](../Page/1965-66년_인터시티스_페어스컵.md "wikilink")
+
+    **준우승 (1)**: [1961-62](../Page/1961-62년_인터시티스_페어스컵.md "wikilink")
+
+<!-- end list -->
+
+  - **[라틴컵](https://ko.wikipedia.org/wiki/라틴컵 "wikilink")**
+
+<!-- end list -->
+
+  -
+
+    **우승 (2, 최다 기록)**: 1949, 1952
+
+#### 세계 대회
+
+  - **[FIFA 클럽 월드컵](../Page/FIFA_클럽_월드컵.md "wikilink")**
+
+<!-- end list -->
+
+  -
+
+    **우승 (3, 공동 최다 기록)**: [2009](https://ko.wikipedia.org/wiki/FIFA_클럽_월드컵_2009 "wikilink"), [2011](https://ko.wikipedia.org/wiki/FIFA_클럽_월드컵_2011 "wikilink"), [2015](https://ko.wikipedia.org/wiki/FIFA_클럽_월드컵_2015 "wikilink")
+
+    **준우승 (1)**: [2006](https://ko.wikipedia.org/wiki/FIFA_클럽_월드컵_2006 "wikilink")
+
+<!-- end list -->
+
+  - **[인터콘티넨털컵](https://ko.wikipedia.org/wiki/인터콘티넨털컵_\(축구\) "wikilink")**
+
+<!-- end list -->
+
+  -
+
+    **준우승 (1)**: [1992](../Page/1992년_인터콘티넨털컵.md "wikilink")
+
+## 선수단
+
+### 선수
+
+2019년 9월 2일\[15\]\[16\]
+
+### 임대 선수 명단
+
+### 코칭 스태프
+
+<table>
+<thead>
+<tr class="header">
+<th><p>지위</p></th>
+<th><p>이름</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>감독</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/키케_세티엔" title="wikilink">키케 세티엔</a></p></td>
+</tr>
+<tr class="even">
+<td><p>수석 코치</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>골키퍼 코치</p></td>
+<td><p>호세 라몬 데 라 푸엔테</p></td>
+</tr>
+<tr class="even">
+<td><p>피트니스 코치</p></td>
+<td><p>라파엘 폴<br />
+ 에두 폰스<br />
+ 프란세스크 코스<br />
+ 파코 세이룰로</p></td>
+</tr>
+<tr class="odd">
+<td><p>디렉터</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p>유스 아카데미 디렉터</p></td>
+<td><p>호르디 로우라</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/FC_바르셀로나_B" title="wikilink">리저브 팀</a> 감독</p></td>
+<td><p>제라르 로페즈</p></td>
+</tr>
+</tbody>
+</table>
+
+## 각주
+
+<references/>
+
+## 외부 링크
+
+  - [FC 바르셀로나 공식 웹사이트](http://www.fcbarcelona.com/)
+
+[FC_바르셀로나](https://ko.wikipedia.org/wiki/분류:FC_바르셀로나 "wikilink") [분류:바르셀로나의 축구단](https://ko.wikipedia.org/wiki/분류:바르셀로나의_축구단 "wikilink") [분류:라리가 구단](https://ko.wikipedia.org/wiki/분류:라리가_구단 "wikilink") [분류:1899년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1899년_설립된_축구단 "wikilink") [분류:강등된 적이 없는 축구단](https://ko.wikipedia.org/wiki/분류:강등된_적이_없는_축구단 "wikilink") [분류:카탈루냐 지방의 축구단](https://ko.wikipedia.org/wiki/분류:카탈루냐_지방의_축구단 "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.

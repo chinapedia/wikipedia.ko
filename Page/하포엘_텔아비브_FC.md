@@ -1,0 +1,85 @@
+> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+
+
+**하포엘 텔아비브 FC**(, )는 [이스라엘](https://ko.wikipedia.org/wiki/이스라엘 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로 현재 [이스라엘 슈퍼리그에](https://ko.wikipedia.org/wiki/이스라엘_슈퍼리그 "wikilink") 참여하고 있다. 하포엘 텔아비브는 현재까지 13번의 리그 우승과 11번의 [스테이트컵](https://ko.wikipedia.org/wiki/이스라엘_스테이트컵 "wikilink") 우승 기록을 가지고 있다. 1957년 한국을 방문하여 총 3차례의 친선경기를 가졌는데 이는 외국 프로축구 클럽으로서는 첫번째 방한이었다.
+
+## 역사
+
+하포엘 텔아비브는 공식적으로 [1923년](https://ko.wikipedia.org/wiki/1923년 "wikilink")에 창단되었지만 오래가지 못하고, [1925년](https://ko.wikipedia.org/wiki/1925년 "wikilink")에 재조직되었고, [1926년](https://ko.wikipedia.org/wiki/1926년 "wikilink")에 세 번째로 만들어져 현재에 이르고 있다. [1927년](https://ko.wikipedia.org/wiki/1927년 "wikilink")에 알렌비 FC(Allenby FC)를 병합하였고, [1928년](https://ko.wikipedia.org/wiki/1928년 "wikilink")에 최초로 [스테이트컵](https://ko.wikipedia.org/wiki/이스라엘_스테이트컵 "wikilink") 우승을 하였다. 1934년과 1937년부터 3회 연속하여 스테이트컵을 차지하였고, 1934년부터 1936년까지 3회 연속 리그 우승을 차지하였다. 이 때의 리그는 이스라엘이 영국 점령하에 있었기 때문에 영국 군부대 팀도 포함되어 있었다. 그 후로도 1938년, 1940년, 1943년까지 세번의 우승을 더 차지하였다.
+
+[1948년](https://ko.wikipedia.org/wiki/1948년 "wikilink")에 이스라엘의 독립 선언이 있고 나서, 하포엘 텔아이브는 9년 후인 [1957년](https://ko.wikipedia.org/wiki/1957년 "wikilink")에 리그 우승을 다시 한번 하게 된다. 1966년에 다시 한번 리그 우승을 하고, [1967년](https://ko.wikipedia.org/wiki/1967년 "wikilink")에는 [아시아 챔피언스컵](../Page/AFC_챔피언스리그.md "wikilink") 우승을 차지하게 된다. 다음해인 [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink") 역시 리그 우승을 하며 좋은 성과를 기록하게 되었다.
+
+1970년대를 통틀어 어떤 대회에서도 우승하지 못하였다. 1980년대에는 이를 무색하게 하듯이, 1981년, 1986년, 1988년에 리그 우승을 하였고, 1983년에는 컵대회 우승을 하였다. 그러나 1989년에는 2부리그로 강등당했는데, 클럽 경영의 무질서, 선수들과 경영진과의 불화가 주된 원인이었다.
+
+1년 후에 다시 1부리그로 복귀하였지만, 1990년대에는 [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink")의 컵대회 우승을 제외하고 어떠한 우승컵도 얻지 못하였다. [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink")에 리그 우승과 컵 대회 우승을 동시에 하는 더블을 기록하였고, [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink")에는 [UEFA컵](https://ko.wikipedia.org/wiki/UEFA컵 "wikilink")에 진출하여 [로코모티브 모스크바](https://ko.wikipedia.org/wiki/로코모티브_모스크바 "wikilink"), [첼시 FC](../Page/첼시_FC.md "wikilink"), [파르마 FC](https://ko.wikipedia.org/wiki/파르마_FC "wikilink") 등을 물리치며 8강에까지 올랐었다. [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")에는 [프랑스](../Page/프랑스.md "wikilink")의 [파리 생제르맹 FC를](../Page/파리_생제르맹_FC.md "wikilink") 이기고, [FK 믈라다볼레슬라프와](../Page/FK_믈라다볼레슬라프.md "wikilink") 비기는 등 2001년의 UEFA컵 8강 이후 최고의 성적인 32강에 올랐다. [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink")에도 [UEFA컵](https://ko.wikipedia.org/wiki/UEFA컵 "wikilink")에 진출하였으나 조별리그에서 탈락하여 32강 진출에 실패하였다.
+
+2006-07시즌, 하포엘 텔아이브는 UEFA컵 조별리그에서 최하위를 기록하며 또 한 번 탈락하게 되었다. 2007-08시즌에도 조별리그에 진출하여 조 3위로 32강까지 나갔으나 [레인저스 FC에](../Page/레인저스_FC.md "wikilink") 패하면서 32강으로 만족해야 했다.
+
+## 역대 성적
+
+### 국내 대회
+
+  - **[이스라엘 슈퍼리그](https://ko.wikipedia.org/wiki/이스라엘_슈퍼리그 "wikilink")**
+
+<!-- end list -->
+
+  -
+    **우승 (13회) :** 1933/34, 1934/35, 1935/36, 1937/38, 1939/40, 1942/43, 1956/57, 1965/66, 1968/69, 1980/81, 1985/86, 1987/88, 1999/00
+    **준우승 (11회) :** 1949/50, 1960/61, 1962/63, 1969/70, 1972/73, 1979/80, 1997/98, 2000/01, 2001/02, 2005/06, 2008/09
+
+<!-- end list -->
+
+  - **[이스라엘 스테이트컵](https://ko.wikipedia.org/wiki/이스라엘_스테이트컵 "wikilink")**
+
+<!-- end list -->
+
+  -
+    **우승 (9회) :** 1927/28, 1933/34, 1936/37, 1937/38, 1938/39, 1960/61, 1971/72, 1982/83, 1998/99, 1999/00, 2005/06, 2006/07
+    **준우승 (8회) :** 1932/33, 1940/41, 1966/67, 1980/81, 1981/82, 1987/88, 1993/94, 2007/08
+
+<!-- end list -->
+
+  - **[토토컵](https://ko.wikipedia.org/wiki/토토컵 "wikilink")**
+
+<!-- end list -->
+
+  -
+    **우승 (1회) :** 2001/02
+
+### 국제 대회
+
+**아시아**
+
+  - **[AFC 챔피언스리그](../Page/AFC_챔피언스리그.md "wikilink")** (2회 출전)
+
+<!-- end list -->
+
+  -
+    **우승 (1회) :** 1967
+    **준우승 (1회) :** 1970
+
+**유럽**
+
+  - **[UEFA 챔피언스리그](../Page/UEFA_챔피언스리그.md "wikilink")** (1회 출전 - 2000/01 예선2회전)
+
+<!-- end list -->
+
+  - **[UEFA컵](https://ko.wikipedia.org/wiki/UEFA컵 "wikilink")** (8회 출전)
+
+<!-- end list -->
+
+  -
+    **8강 (1회) :** 2001-02
+    **32강 (1회) :** 2006-07
+    **조별리그 (1회) :** 2007-08
+
+<!-- end list -->
+
+  - **[UEFA 인터토토컵](../Page/UEFA_인터토토컵.md "wikilink")** (1회 출전 - 1996 조별리그)
+
+## 외부 링크
+
+  - [공식 웹사이트](https://web.archive.org/web/20071009153917/http://www.hapoelta-fc.co.il/)
+  - [팬 포럼](http://www.shedim.com/)
+
+[하포엘_텔아비브_FC](https://ko.wikipedia.org/wiki/분류:하포엘_텔아비브_FC "wikilink") [분류:1923년 설립](https://ko.wikipedia.org/wiki/분류:1923년_설립 "wikilink") [분류:1923년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1923년_설립된_축구단 "wikilink") [분류:이스라엘의 축구단](https://ko.wikipedia.org/wiki/분류:이스라엘의_축구단 "wikilink") [분류:1967년 아시안 클럽 챔피언십 선수단](https://ko.wikipedia.org/wiki/분류:1967년_아시안_클럽_챔피언십_선수단 "wikilink")

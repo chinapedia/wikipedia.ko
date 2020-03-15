@@ -1,0 +1,1089 @@
+> This article is converted from Wikipedia: [MBC ](https://ko.wikipedia.org/wiki/MBC_).
+
+
+**MBC게임 스타리그**(MBC Game Star League)는 [MBC 플러스 미디어와](https://ko.wikipedia.org/wiki/MBC_플러스_미디어 "wikilink") [일간스포츠](../Page/일간스포츠.md "wikilink")가 주최하는 [KeSPA](https://ko.wikipedia.org/wiki/KeSPA "wikilink")공인 스타크래프트 개인리그였다.
+
+역대 우승자 중 4명은 3회 우승을 했으며 그 중 2명은 3회 연속 우승을 달성하기도 했다.
+
+[2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") KPGA 1차 투어를 시작으로 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") Stout배부터 **MBC게임 스타리그**라는 독자브랜드로 시작하였으며, 다음 시즌인 TG삼보배부터 **MSL**이라는 약칭이 사용되었다. [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [2월 1일](https://ko.wikipedia.org/wiki/2월_1일 "wikilink") [MBC게임](https://ko.wikipedia.org/wiki/MBC게임 "wikilink") 채널이 폐국됨에 따라 MSL도 2011년 ABC MART MSL 대회를 마지막으로 폐지되었다.
+
+## 리그방식
+
+### MSL 서바이버 토너먼트
+
+차기 MSL 진출자 선발전 성격을 띠고 있는 서바이버 토너먼트는 예선 진출자와 지난 시즌 MSL 탈락자들과 합해 총 48명이 각 조 4명씩 총 12개 조로 나누어 원데이 듀얼 방식으로 진행되었으나, 지난 2009 서바이버 토너먼트 시즌1(아발론 MSL 서바이버 토너먼트)에서는 1회차 \~ 6회차는 하루에 2개조에서 각 조 승자전에서 승리한 2명이 MSL에 진출하고, 7회차 \~ 12회차는 2개조에서 최종전을 치러 진출하는 2명의 선수가 MSL 진출권을 따내게 되는 분리형 듀얼 방식으로 채택하였다.\[1\] 하지만 효율성 문제로 2009 서바이버 토너먼트 시즌2부터 다시 종전 원데이 듀얼 방식으로 회귀하게 된다.\[2\]
+
+### MSL 본선
+
+#### 조지명식
+
+  - MSL 출전 선수는 지난 시즌 시드권자 8명과 서바이버 토너먼트를 통해 올라온 24명 총 32명으로 구성되며, 조지명식은 프링글스 MSL 시즌 1부터 적용된 스틸 드래프트 방식으로 진행했다. NATE MSL에서부터 지명권의 가치를 높이는 차원에서 지명권의 숫자가 조정되었다. 32강 각 조에는 두 명의 선수가 고정된다. 17\~32번 시드의 지명권 행사는 이전과 동일하다. 19차 MSL 조지명식에서 9\~16번 시드를 받게 되는 선수에게는 자신의 위치를 바꾸거나 옆 선수의 위치를 바꿀 수 있는 권한이 주어지며, 3\~8번 시드는 대진표를 최대 한 번, 2번 시드는 대진표를 최대 두 번, 1번 시드는 대진표를 최대 세 번 바꿀 수 있었다. 지난 시즌과 달리 9\~16번 시드는 자유롭게 이동이 가능했다.
+
+<!-- end list -->
+
+  - 조지명식 시드 순서
+
+<!-- end list -->
+
+  -
+    \<1\~8번 시드는 지난시즌 MSL 성적\>
+    \<9\~32번 시드는 MSL 본선진출횟수 -\> MBC게임 A매치 다승 -\> MBC게임 A매치 승률 -\> KeSPA 랭킹 순\>
+
+<!-- end list -->
+
+  - 조지명순서 <시드별 지명권한>
+      - 17\~32번 시드- 빈 자리 중 자신의 자리 선택
+      - 16\~9번 시드- 자신의 옆자리 변경 가능
+      - 8\~3번 시드- 대진표를 최대 한 번 변경 가능
+      - 2번 시드- 대진표를 최대 두 번 변경 가능
+      - 1번 시드- 대진표를 최대 세 번 변경 가능
+
+이렇게 해서 결정된 32강 조편성에 따라 대진이 결정되며, 출전 선수들의 스케줄에 따라 조정된다. (32강이 분리형 듀얼 방식으로 바뀐 아발론 MSL 2009에서는 조별 순서대로 경기가 진행되었다.)
+
+#### 32강
+
+  - 예(ABC마트 MSL 32강 D조)
+
+<!-- end list -->
+
+  -
+    32강은 원데이 듀얼방식으로 진행된다. [아발론 온라인 MSL 2009는](https://ko.wikipedia.org/wiki/아발론_온라인_MSL_2009 "wikilink") 분리형 32강 듀얼방식으로 진행했으나, [NATE MSL 2009부터](https://ko.wikipedia.org/wiki/NATE_MSL_2009 "wikilink") 다시 원 데이 듀얼로 회귀하였다.
+
+<!-- end list -->
+
+  -
+    순위선정 및 16강 편성은 다음과 같다.
+
+<div style="font-size:85%">
+
+1.  승자전에서의 승자는 16강에 진출하면서 조 1위가 된다.
+2.  최종전에서의 승자는 16강에 진출하면서 조 2위가 된다.
+3.  최종전에서의 패자는 서바이버 토너먼트로 강등되면서 조 3위가 된다.
+4.  패자전에서의 패자는 서바이버 토너먼트로 강등되면서 조 4위가 된다.
+5.  16강은 별도의 조추첨이 없이 자동으로 조가 편성된다. 예(A조 1위 vs E조 2위, A조 2위 vs E조 1위)
+
+</div>
+
+#### 16강전 \~ 결승전
+
+**예([ABC마트 MSL 2011](https://ko.wikipedia.org/wiki/ABC마트_MSL_2011 "wikilink") 16강)**
+
+  -
+    16강부터는 [싱글 엘리미네이션 토너먼트](https://ko.wikipedia.org/wiki/싱글_엘리미네이션_토너먼트 "wikilink")(녹다운 토너먼트)방식으로 진행된다. [2002년 KPGA 투어](https://ko.wikipedia.org/wiki/2002년_KPGA_투어 "wikilink") 이후의 16강 토너먼트를 사용한다.
+
+<!-- end list -->
+
+  - 16강 : 분리형 3전 2선승제(1주차에서 치르고 2주차 에서 2, 3차전을 치러 승자가 진출)로 진행된다.([당신은 골프왕 MSL 2004이후](https://ko.wikipedia.org/wiki/당신은_골프왕_MSL_2004 "wikilink") 첫 분리형 3전 2선승제 사용)
+  - 8강 : [로스트사가 MSL 2009까지는](https://ko.wikipedia.org/wiki/로스트사가_MSL_2009 "wikilink") 별다른 임의배치를 실시하지 않았다. 그러나, [아발론 온라인 MSL 2009부터](https://ko.wikipedia.org/wiki/아발론_온라인_MSL_2009 "wikilink") 16강전의 변수를 보완하는 **8강 랭킹별 재배치**가 실시된다. 그동안 대진표가 실력적으로 한쪽으로 방향으로 치우치는 현상이나 대박매치가 8강이나 4강에서 먼저 성사되어 팬들의 아쉬움을 자아냈던 것을 한꺼번에 개선하고자 시도하는 것으로 KeSPA 랭킹에 근거해 진행된다. 그리고 8강은 하루에 5전 3선승제로 진행되었으나 [아발론 온라인 MSL 2009부터는](https://ko.wikipedia.org/wiki/아발론_온라인_MSL_2009 "wikilink") e-스포츠 사상 최초로 **분리형 5전 3선승제**가 도입되었다. [스타리그](https://ko.wikipedia.org/wiki/스타리그 "wikilink")의 8강 분리형 3전 2선승제와 동일하며, 8강 1회차에서 총 8명의 선수가 출전하고 1set만을 치러, 추후 2, 3회차에서는 각 2조 4명의 선수가 출전, 나머지 2\~5세트를 한번에 진행하는 방식으로 진행된다.
+  - 4강전 및 결승전 : 하루에 5전 3선승제를 치러 우승자와 준우승자를 가린다. 3, 4위 시드는 3, 4위전 없이 32강부터의 승률로 계산하여 승률이 높은 쪽이 3번 시드, 낮은 쪽이 4번 시드를 받게 된다. 8강 입상자도 시드를 받게 되는데, 마찬가지로 승률로 계산하여 5번시드 \~ 8번 시드를 받게 된다.
+
+<!-- end list -->
+
+  -
+    **역대 3위 시드자 승률**
+
+| 리그명        | 선수 이름                                               | 32강 | 16강 | 8강    | 4강    | 총 전적  | 승률    |
+| ---------- | --------------------------------------------------- | --- | --- | ----- | ----- | ----- | ----- |
+| 프링글스 06 S1 | [전상욱](https://ko.wikipedia.org/wiki/전상욱 "wikilink") | \-  | 2승  | 3승 1패 | 2승 3패 | 7승 4패 | 63.6% |
+
+  -
+    **역대 4위 시드자 승률**
+
+| 리그명        | 선수 이름                                               | 32강 | 16강   | 8강    | 4강 | 총 전적  | 승률    |
+| ---------- | --------------------------------------------------- | --- | ----- | ----- | -- | ----- | ----- |
+| 프링글스 06 S1 | [박용욱](https://ko.wikipedia.org/wiki/박용욱 "wikilink") | \-  | 2승 1패 | 4승 3패 | 3패 | 6승 7패 | 46.1% |
+
+## 전신
+
+### 2001년 KPGA 월별 투어
+
+### 2002년 KPGA 투어 리그
+
+## 역대 MSL
+
+### 2003년 MSL \~ 2005년 MSL
+
+#### Stout MSL
+
+  - 리그기간 : 2003-04-17 \~ 2003-07-19
+  - MBC게임 최초의 MSL
+  - 2002 스타우트&베스킨라빈스배 4차 KPGA 결승진출자(이윤열,조용호)와 , 2003 KTEC배 KPGA 위너스 챔피언십 결승진출자(홍진호,임요환)에게 시드 부여
+  - [더블 엘리미네이션](https://ko.wikipedia.org/wiki/더블_엘리미네이션_토너먼트 "wikilink") 방식 도입
+  - 이윤열 MBC게임 공식리그 4연속 결승진출
+  - 결승전 장소 : 여의도 한강시민공원 무대
+  - 결승전에 앞서 MSL 출범과 함께 시작된 이벤트전 Stout배 Again 2000 결승전 진행([기욤 패트리](https://ko.wikipedia.org/wiki/기욤_패트리 "wikilink") 2:0 송병석)
+  - MBC게임 메이저 대회에서 최초의 프로토스 우승(강민)
+  - 이윤열은 개인리그 결승에서 처음으로 준우승을 기록함
+  - 승자조에 올라온 선수에게 결승전 1승의 어드벤티지를 준 최초의 대회(이후 폐지)
+  - 우승 [강민](https://ko.wikipedia.org/wiki/강민_\(프로게이머\) "wikilink"), 준우승 [이윤열](https://ko.wikipedia.org/wiki/이윤열 "wikilink"), 3위 [전태규](https://ko.wikipedia.org/wiki/전태규 "wikilink") · [조용호](https://ko.wikipedia.org/wiki/조용호 "wikilink")
+
+#### TG삼보 MSL
+
+  - 리그기간 : 2003-09-04 \~ 2003-11-30
+  - 최초로 MSL이라는 명칭을 사용
+  - 우승상금이 2천만원으로 상승
+  - 메이저, 마이너 진출전을 통해 선발
+  - MSL 최초로 맵에 스폰서 이름이 붙음 (Gauntlet TG)
+  - 결승전 장소 : 코엑스 태평양홀
+  - 최연성 시대의 개막
+  - 홍진호의 마지막 양대 메이저 대회 결승진출
+  - 우승 [최연성](../Page/최연성.md "wikilink"), 준우승 [홍진호](https://ko.wikipedia.org/wiki/홍진호 "wikilink"), 3위 [이윤열](https://ko.wikipedia.org/wiki/이윤열 "wikilink") · [이병민](https://ko.wikipedia.org/wiki/이병민_\(프로게이머\) "wikilink")
+
+#### 하나포스 센게임 MSL
+
+  - 리그기간 : 2004-01-08 \~ 2004-04-18
+  - 우승 상금 2500만원으로 확대
+  - 메이저 대회에 프로토스는 강민 단 1명 진출 (IOPS 스타리그 [박정석](https://ko.wikipedia.org/wiki/박정석 "wikilink") 1명 진출과 유사)
+  - 각리그 결승전을 이틀에 걸쳐 치르는 챔피언스데이 실시
+  - 미네랄을 뚫어 새로운 길을 확보하는 식의 컨셉을 사용한 맵등장(Detonation : LG IBM팀리그 에서 먼저 사용)
+  - 결승전 장소 : 서울 [장충체육관](https://ko.wikipedia.org/wiki/장충체육관 "wikilink") (프로배구 [GS칼텍스 서울 KIXX의](https://ko.wikipedia.org/wiki/GS칼텍스_서울_KIXX "wikilink") 홈 경기장)
+  - 최연성의 MSL 2연속 우승
+  - 우승 [최연성](../Page/최연성.md "wikilink"), 준우승 [이윤열](https://ko.wikipedia.org/wiki/이윤열 "wikilink"), 3위 [김정민](https://ko.wikipedia.org/wiki/김정민_\(프로게이머\) "wikilink") · [강민](https://ko.wikipedia.org/wiki/강민_\(프로게이머\) "wikilink")
+
+#### Spris MSL
+
+  - 리그기간 : 2004-05-20 \~ 2004-08-29
+  - 맵 제작자 송기범이 Into the Darkness로 데뷔한 대회
+  - 결승전 장소 : 서울 [장충체육관](https://ko.wikipedia.org/wiki/장충체육관 "wikilink") (프로배구 [GS칼텍스 서울 KIXX의](https://ko.wikipedia.org/wiki/GS칼텍스_서울_KIXX "wikilink") 홈 경기장)
+  - 최연성의 MSL 3연속 우승
+  - 우승 [최연성](../Page/최연성.md "wikilink"), 준우승 [박용욱](https://ko.wikipedia.org/wiki/박용욱 "wikilink"), 3위 [강민](https://ko.wikipedia.org/wiki/강민_\(프로게이머\) "wikilink") · [이병민](https://ko.wikipedia.org/wiki/이병민_\(프로게이머\) "wikilink")
+
+#### 당신은 골프왕 MSL
+
+  - 리그기간 : 2004-09-30 \~ 2005-02-06
+  - 유일무이한 7전 4선승제의 결승전
+  - MSL 최초의 저그 우승([박태민](https://ko.wikipedia.org/wiki/박태민_\(프로게이머\) "wikilink"))
+  - 공식맵으로는 최초로 'SCM드래프트'를 이용한 확장언덕이 이용됨 (Raid-Assault)
+  - 역대 MSL중 가장 긴 리그일정 진행
+  - 16강 3전2선승제 실시
+  - 승자조 8강 1차 야외무대 장소 : 코엑스 태평양홀 1층 특설무대(MBC게임 개인리그 최초로 결승전이 아닌 야외무대 경기)
+  - 승자결승, 패자준결승, 패자결승 5전3선승제 실시
+  - 결승전 장소 : 부산 [사직실내체육관](https://ko.wikipedia.org/wiki/사직실내체육관 "wikilink") (프로농구 [부산 KT 소닉붐의](https://ko.wikipedia.org/wiki/부산_KT_소닉붐 "wikilink") 홈 경기장)
+  - 우승 [박태민](https://ko.wikipedia.org/wiki/박태민_\(프로게이머\) "wikilink"), 준우승 [이윤열](https://ko.wikipedia.org/wiki/이윤열 "wikilink"), 3위 [서지훈](https://ko.wikipedia.org/wiki/서지훈 "wikilink") · [조용호](https://ko.wikipedia.org/wiki/조용호 "wikilink")
+
+#### UZOO MSL
+
+  - 리그기간 : 2005-04-21 \~ 2005-08-06
+  - 2기 프로게이머 협회가 발족하며 양방송사 공식맵을 1개씩 공유하여 사용(Neo Requiem, Luna the Final)
+  - 결승을 5전 3선승제, 16강 승패자 결정전을 단판으로 회귀
+  - 결승전 장소 : 부산 해운대
+  - 우승 [마재윤](https://ko.wikipedia.org/wiki/마재윤 "wikilink"), 준우승 [박정석](https://ko.wikipedia.org/wiki/박정석 "wikilink"), 3위 [조용호](https://ko.wikipedia.org/wiki/조용호 "wikilink") · [최연성](../Page/최연성.md "wikilink")
+
+#### CYON MSL
+
+  - 리그기간 : 2005-10-06 \~ 2006-01-14
+  - 과거 공식맵 수정 재사용(Dark Sauron 2.0)
+  - MSL 사상 최초로 스폰서 없이 조지명식 진행
+  - 조 배정을 시드권자 8인이 비시드권자 8인을 지명
+  - 최초의 자체로고 도입
+  - 'Fight a Real Duel'이라는 슬로건 도입
+  - 사상최초의 공인리그 저그 대 저그 결승
+  - 결승전 장소 : 광주 염주체육관
+  - 조용호의 방송사 공식 개인리그의 최초이자 마지막 우승
+  - 우승 [조용호](https://ko.wikipedia.org/wiki/조용호 "wikilink"), 준우승 [마재윤](https://ko.wikipedia.org/wiki/마재윤 "wikilink"), 3위 [최연성](../Page/최연성.md "wikilink") · [성학승](https://ko.wikipedia.org/wiki/성학승 "wikilink")
+
+### 2006년 MSL \~ 2007년 MSL
+
+#### 프링글스 MSL Season 1
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:060622MSL-10map-shsechs.png "wikilink")
+
+  - 리그기간 : 2006-04-06 \~ 2006-07-16
+  - 스퀘어 지형을 이용한 수직언덕지형 도입(The Eye)
+  - 스틸드래프트 지명방식 도입
+  - 기존의 [더블 엘리미네이션](https://ko.wikipedia.org/wiki/더블_엘리미네이션_토너먼트 "wikilink") 방식을 소폭 수정
+  - 4강에서 패한 선수들은 3,4위전 없이 승률로 3위,4위배정
+  - 진출한 선수의 절반이상이 [SK텔레콤T1](https://ko.wikipedia.org/wiki/SK텔레콤T1 "wikilink")선수 (임요환, 최연성, 전상욱, 박태민, 윤종민, 김성제, 성학승, 박용욱)
+  - 결승전 장소 : [고양시](https://ko.wikipedia.org/wiki/고양시 "wikilink") [일산](https://ko.wikipedia.org/wiki/일산서구 "wikilink") [KINTEX](https://ko.wikipedia.org/wiki/KINTEX "wikilink")
+  - 맵 썸즈다운(드롭)제도 도입
+  - 우승상금 3000만원으로 확대
+  - 차기 MSL 시드권자가 종전 8명에서 4명으로 축소
+  - 우승 [마재윤](https://ko.wikipedia.org/wiki/마재윤 "wikilink"), 준우승 [강민](https://ko.wikipedia.org/wiki/강민_\(프로게이머\) "wikilink"), 3위 [전상욱](https://ko.wikipedia.org/wiki/전상욱 "wikilink") · [박용욱](https://ko.wikipedia.org/wiki/박용욱 "wikilink")
+
+#### 프링글스 MSL Season 2
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Prinmslseason2.png "wikilink")
+
+  - 리그기간 : 2006-08-17 \~ 2006-11-11
+  - 최초로 두 번 연속으로 같은 스폰서가 지원한 MSL
+  - 스틸드래프트 조지명 방식의 보완
+  - 경기장을 세중게임월드에서 히어로 센터로 이전
+  - 임요환의 군입대 전 마지막 개인리그
+  - 임요환의 군입대로 와일드카드전 진행
+      - 각조 3위 선수(강민, 원종서, 이윤열, 조용호)들이 토너먼트 방식으로 대결, 최종 승자가 8강에 진출
+          - 4강: 강민 승 vs 원종서 패, 이윤열 승 vs 조용호 패, 결승: 강민 승 vs 이윤열 패
+  - 사상최초로 결승전을 군부대에서 개최 (당시 훈련병이었던 임요환 선수가 참관하여 화제를 낳음)
+  - 결승전 장소: 진주 공군교육사령부
+  - 결승전 축하공연으로 가수 [배슬기](https://ko.wikipedia.org/wiki/배슬기 "wikilink") 초빙
+  - 우승 [마재윤](https://ko.wikipedia.org/wiki/마재윤 "wikilink"), 준우승 [심소명](https://ko.wikipedia.org/wiki/심소명 "wikilink"), 3위 [강민](https://ko.wikipedia.org/wiki/강민_\(프로게이머\) "wikilink") · [변은종](https://ko.wikipedia.org/wiki/변은종 "wikilink")
+
+#### 곰TV MSL Season 1
+
+  - 리그기간 : 2006-12-07 \~ 2007-03-03
+  - 인터넷 방송국인 곰TV와 케이블 방송국 MBC게임의 전략적 제휴.
+  - 반섬 맵 이면서도 섬 맵 양상을 띈 맵 등장(GomTV_DesertFox)
+  - 양대리그 우승과 MSL 4회우승을 노리던 마재윤을 김택용이 3:0으로 격침
+  - 2003년 Stout배 MSL 이후 약 4년 만에 프로토스가 우승한 대회.
+  - 최연소 우승 기록 갱신 (이후 박성균이 최연소 우승 기록을 갱신함)
+  - 강민 프로토스 최초의 3연속 4강 진출
+  - MSL 최초로 결승전에서 프로토스가 저그를 꺾고 우승한 사례 (스타리그에서는 2000년 프리챌배 스타리그에서 김동수가 봉준구를 3:0으로 꺾고 우승함)
+  - 모션 그래픽 전문 스튜디오인 이미지베이커리가 MSL 그래픽 디자인과 오프닝 패키지를 제작하기 시작함.
+  - 결승전 장소: 서울 어린이 대공원 돔아트홀
+  - 결승전 축하공연으로 그룹 [천상지희 더 그레이스](https://ko.wikipedia.org/wiki/천상지희_더_그레이스 "wikilink") 초빙
+  - 우승 [김택용](../Page/김택용.md "wikilink"), 준우승 [마재윤](https://ko.wikipedia.org/wiki/마재윤 "wikilink") 3위 [진영수](https://ko.wikipedia.org/wiki/진영수 "wikilink") · [강민](https://ko.wikipedia.org/wiki/강민_\(프로게이머\) "wikilink")
+
+#### 곰TV MSL Season 2
+
+  - 리그기간 : 2007-05-03 \~ 2007-07-14
+  - 곰TV의 장기후원 약속
+  - 서바이버를 폐지하며 32강으로 확대된 최초의 MSL
+  - 지난시즌과 비교하여 최초로 모든 맵이 교체된 MSL
+  - 주 2회 방송으로 변경(목요일,토요일)
+  - 임요환이 32강에 진출했던 마지막 개인리그
+  - [일간스포츠](../Page/일간스포츠.md "wikilink")가 주최사로 참여
+  - 개인리그 최초로 [공군 ACE소속](https://ko.wikipedia.org/wiki/공군_ACE "wikilink") 프로게이머 출전(임요환)
+  - 종전 4강부터 적용했던 5전 3선승제를 8강부터 적용 (이렇게 해서 시드권은 4장에서 8장으로 늘어남)
+  - 슬로건을 'The Live'로 변경
+  - MSL 최초로 경기 중 실시간으로 경기 시간 표시 시작.
+  - 이주영의 군입대로 와일드카드전 진행
+      - 16강 패자 8명(강민, 박정욱, 송병구, 이재호, 염보성, 최연성, 서지훈, 박성훈)이 토너먼트 방식으로 대결, 최종승자가 8강 진출
+          - 송병구가 최종 승자 자리를 차지함
+  - 최초로 본진 투가스와 자원회전률을 높인 지상맵 등장 (Desperado)
+  - 김택용 MSL 2연속 결승진출
+  - 결승전 장소 : 서울 어린이 대공원 돔아트홀
+  - 김택용 MSL 2연속 우승
+  - MSL 최초의 프프전 결승이자 최초의 2연속 프로토스 우승
+  - 이미지베이커리가 제작한 오프닝이 '2008 BDA 월드 골드 어워즈(2008 BDA World Gold Awards)'에서 스포츠-오픈 부분 동상 수상
+  - 우승 상금을 5000만원으로 확대
+  - 결승전 축하 공연으로 가수 [윤하](https://ko.wikipedia.org/wiki/윤하 "wikilink") 초빙
+  - 우승 [김택용](../Page/김택용.md "wikilink") ,준우승 [송병구](https://ko.wikipedia.org/wiki/송병구 "wikilink"), 3위 [박태민](https://ko.wikipedia.org/wiki/박태민_\(프로게이머\) "wikilink")·[이성은](https://ko.wikipedia.org/wiki/이성은 "wikilink")
+
+#### 곰TV MSL Season 3
+
+  - 리그기간 : 2007년 9월 13일 \~ 11월 17일
+  - 32강 변경 이후 테란 최다 진출(18명).
+  - 최연소 우승기록 경신 (박성균) (이후 박카스 스타리그에서 이영호가 최연소 우승기록을 재경신하였다)
+  - 김택용 MSL 3연속 결승진출
+  - 2년 9개월(7시즌)만의 테란 결승진출 (박성균)
+  - 결승전 장소 : 서울 어린이 대공원 돔아트홀
+  - 결승전 축하공연으로 가수 [브라운아이드걸스](https://ko.wikipedia.org/wiki/브라운아이드걸스 "wikilink") 초빙
+  - 3년 3개월(8시즌)만의 테란 우승 (박성균)
+  - 우승 [박성균](https://ko.wikipedia.org/wiki/박성균 "wikilink"), 준우승 [김택용](../Page/김택용.md "wikilink"), 3위 [마재윤](https://ko.wikipedia.org/wiki/마재윤 "wikilink") · [서지훈](https://ko.wikipedia.org/wiki/서지훈 "wikilink")
+
+### 2008년 MSL \~ 2009년 MSL
+
+#### 곰TV MSL Season 4
+
+  - 리그기간 : 2008년 1월 3일 \~ 2008년 3월 8일
+  - 리그주제 : 'Face Off'.
+  - 스폰서 캐치프레이즈: 24시간 무한채널 곰tv
+  - 전 대회 시드권자 8인 중 박성균, 한상봉 만이 16강 진출에 성공하였다.
+  - 오프닝 영상 중 슬로건이 뜬 장면에 있던 선수 전원 32강 탈락 (Face Off의 저주)
+      - Face Off의 저주란, 말 그대로 오프닝 영상 중에 슬로건이 뜬 장면에 있던 선수는 모두 32강에서 탈락했다는 것을 말한다. 속칭 박선비의 저주라 불리면서 수많은 탈락자를 낳았다. (김택용, 마재윤, 이성은, 주현준, 박태민, 민찬기 등) 심지어 결승전 오프닝에서도 Face Off가 뜬 장면이 있던 김구현이 패배, 큰 파장을 낳기도 했다.
+  - 결승전 장소: 부산 [BEXCO](https://ko.wikipedia.org/wiki/BEXCO "wikilink")
+  - **이제동** '임요환, 이윤열, 강민, 최연성, 마재윤'에 이어 6번째로 양대리그 석권(온게임넷 스타리그 & MSL)
+  - 우승 [이제동](https://ko.wikipedia.org/wiki/이제동 "wikilink"), 준우승 [김구현](https://ko.wikipedia.org/wiki/김구현_\(프로게이머\) "wikilink"), 3위 [허영무](https://ko.wikipedia.org/wiki/허영무 "wikilink") · [박성균](https://ko.wikipedia.org/wiki/박성균 "wikilink")
+
+#### ARENA MSL
+
+  - 리그기간:[2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [5월 1일](https://ko.wikipedia.org/wiki/5월_1일 "wikilink") \~ [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [7월 26일](https://ko.wikipedia.org/wiki/7월_26일 "wikilink")
+  - SK LOOX([문래동](https://ko.wikipedia.org/wiki/문래동 "wikilink"))[히어로센터](https://ko.wikipedia.org/wiki/히어로센터 "wikilink")에서 하는 최초의 MSL
+  - 리그주제 :The Eyes
+  - 스폰서 캐치프레이즈: 최고의 스포츠 브랜드 아레나
+  - MBC게임 공식맵 제작자 송기범이 복귀함
+  - TG삼보 MSL과 하나포스 CENGAME MSL의 공식맵으로 쓰였던 Enter the Dragon을 리메이크한 Tiamat(티아매트)가 공식맵으로 채택되었다
+  - 곰TV MSL 시즌1 이후 4시즌만에 3인용맵 등장(Athena)
+  - 2007 곰TV MSL Season2 이후 두 번째로, 지난 시즌에 사용된 4개의 공식맵을 모두 신규맵으로 교체함.
+  - 목요일은 6시 30분, 토요일은 7시 30분 경기
+  - 개인리그 최초로 4명의 프로토스가 한 조에 속하게 되었다. (B조: [허영무](https://ko.wikipedia.org/wiki/허영무 "wikilink"), [오영종](https://ko.wikipedia.org/wiki/오영종 "wikilink"), [박영민](https://ko.wikipedia.org/wiki/박영민_\(프로게이머\) "wikilink"), [윤용태](https://ko.wikipedia.org/wiki/윤용태 "wikilink"))
+  - 이제동 MSL 2연속 결승진출
+  - 당신은 골프왕 5th MSL 이후 9시즌 만에 테란 대 저그의 결승전이 열린다.
+  - MSL로 바뀐 후에 스프리스 MSL 이후 결승에서 같은 팀 선수간의 대결이 펼쳐졌다. (박지수, 이제동은 르까프 오즈 소속의 같은 팀이다)
+  - ‘e스타즈 서울 2008’과 함께 서울 무역전시 컨벤션 센터에서 열릴 예정인 결승전을 한강공원 잠실 야외수영장 특설무대에서도 관람할 수 있도록 2원 생중계로 진행. (e스포츠 결승전 사상 최초 2원 생중계)
+  - 결승전 장소: 서울 무역전시 컨벤션 센터 & 한강공원 잠실 야외수영장 특설무대
+  - 박지수 생애 첫 개인리그 결승진출 및 우승
+  - MSL 오프닝을 제작하고 있는 이미지 베이커리에서 제작한 자막사용
+  - 르까프 오즈, 프로게임단 3번째 개인리그 전 종족 우승자 배출([오영종](https://ko.wikipedia.org/wiki/오영종 "wikilink"),[이제동](https://ko.wikipedia.org/wiki/이제동 "wikilink"),[박지수](https://ko.wikipedia.org/wiki/박지수 "wikilink"))
+  - 우승 [박지수](https://ko.wikipedia.org/wiki/박지수 "wikilink"), 준우승 [이제동](https://ko.wikipedia.org/wiki/이제동 "wikilink") , 3위 [이영호](https://ko.wikipedia.org/wiki/이영호_\(프로게이머,_1992\) "wikilink")·[박영민](https://ko.wikipedia.org/wiki/박영민_\(프로게이머\) "wikilink")
+
+#### 클럽데이 MSL
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Teak2.png "wikilink")
+
+  - 리그기간: 2008년 9월 11일 \~ 2008년 11월 22일
+  - 리그주제:END=AND
+  - 스폰서 캐치프레이즈: 당신이 찾던 댄스 RPG, 클럽데이 온라인
+  - 서바이버 토너먼트에서 신맵 사용 (비잔티움) → MSL 본선에서는 기존의 맵이 수정된 '비잔티움2'를 사용
+  - 32강 개편 이후 저그 최소 진출 (5명)
+  - 32강 개편 이후 프로토스 최다 진출 (10명)
+  - [강민의](https://ko.wikipedia.org/wiki/강민_\(프로게이머\) "wikilink") MSL 해설 데뷔
+  - 스프리스 MSL 이후 11시즌만에 저그 4강진출 실패
+  - 프링글스 MSL 시즌2 이후 6시즌만에 테란 4강진출 실패
+  - 2008년 10월 김동준의 군입대로 인해 이후 강민이 모든 클럽데이 온라인 MSL 해설을 담당
+  - 8강 4경기 모두 32강 리매치 (A조 [김구현](https://ko.wikipedia.org/wiki/김구현_\(프로게이머\) "wikilink") vs [송병구](https://ko.wikipedia.org/wiki/송병구 "wikilink"), B조 [허영무](https://ko.wikipedia.org/wiki/허영무 "wikilink") vs [박명수](https://ko.wikipedia.org/wiki/박명수_\(프로게이머\) "wikilink"), C조 [김택용](../Page/김택용.md "wikilink") vs [이성은](https://ko.wikipedia.org/wiki/이성은 "wikilink"), D조 [윤용태](https://ko.wikipedia.org/wiki/윤용태 "wikilink") vs [이윤열](https://ko.wikipedia.org/wiki/이윤열 "wikilink")) (B,C,D조는 32강의 승자전 리매치이며 A조만 32강 1경기의 리매치이다)
+  - 8강 경기 결과중 [프로토스](https://ko.wikipedia.org/wiki/프로토스 "wikilink") VS [저그](https://ko.wikipedia.org/wiki/저그 "wikilink"),[테란](https://ko.wikipedia.org/wiki/테란 "wikilink")전에서 전부 3:0 스코어가 나옴
+  - 4강에 4프로토스 진출([김구현](https://ko.wikipedia.org/wiki/김구현_\(프로게이머\) "wikilink"),[허영무](https://ko.wikipedia.org/wiki/허영무 "wikilink"),[김택용](../Page/김택용.md "wikilink"),[윤용태](https://ko.wikipedia.org/wiki/윤용태 "wikilink")) - 한 종족이 4강을 독식
+  - 개인리그 최초로 4강에서 한 종족이 모든 자리를 차지(프로토스)
+  - 허영무 생애 첫 개인리그 결승진출
+  - 김택용 곰TV MSL 시즌3 이후 약 1여 년 만에 결승 진출
+  - 김택용 프로토스 최초이자 마지막으로 MSL 4회 결승 진출
+  - 결승전 장소: 서울 [광운대학교](https://ko.wikipedia.org/wiki/광운대학교 "wikilink") 대강당
+  - 결승전 날짜: 2008년 11월 22일 ( [허영무](https://ko.wikipedia.org/wiki/허영무 "wikilink") vs [김택용](../Page/김택용.md "wikilink") )
+  - 결승전 초대가수: 다이나믹듀오
+  - 김택용 프로토스 최초이자 마지막으로 스타크래프트(부르드워) 개인리그 3회 우승
+  - [SK텔레콤 T1은](https://ko.wikipedia.org/wiki/SK텔레콤_T1 "wikilink") 최연성의 우승 이후 2년 8개월 만에 개인리그 우승자를 배출, T1 창단 5번째 개인리그 우승을 하였다.(그전에 SK텔레콤 T1의 전신, 동양 오리온에서 2회 우승)
+  - 우승 [김택용](../Page/김택용.md "wikilink"), 준우승 [허영무](https://ko.wikipedia.org/wiki/허영무 "wikilink"), 3위 [윤용태](https://ko.wikipedia.org/wiki/윤용태 "wikilink") · [김구현](https://ko.wikipedia.org/wiki/김구현_\(프로게이머\) "wikilink")
+
+#### 로스트사가 MSL
+
+  - 리그기간: [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [1월 8일](https://ko.wikipedia.org/wiki/1월_8일 "wikilink") \~ [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [3월 21일](https://ko.wikipedia.org/wiki/3월_21일 "wikilink")
+  - 스폰서 캐치프레이즈: 캐주얼 대전 게임의 완성, 로스트사가
+  - 32강 개편 이후 테란 최소 진출 (14명)
+  - 공식맵 역사상 최초로 특수사이즈(112x128)가 적용된 맵 사용.(Carthage)
+  - 32강 개편 이후 디펜딩 챔피언의 첫 32강 탈락 (김택용)
+  - [허영무](https://ko.wikipedia.org/wiki/허영무 "wikilink") 2시즌 연속 MSL 결승 진출 성공 (8강 vs [이윤열](https://ko.wikipedia.org/wiki/이윤열 "wikilink") 3-2 승, 4강 vs [송병구](https://ko.wikipedia.org/wiki/송병구 "wikilink") 3-0승)
+  - 지난 시즌에 이어 2시즌 연속 테란 4강 진출 실패
+  - 결승전 일자 및 장소 : [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [3월 21일](https://ko.wikipedia.org/wiki/3월_21일 "wikilink") 어린이 대공원 돔 아트홀
+  - [허영무](https://ko.wikipedia.org/wiki/허영무 "wikilink") 2시즌 연속 MSL 준우승
+  - KTF 매직엔스, CYON MSL [조용호](https://ko.wikipedia.org/wiki/조용호 "wikilink") 이후 4년 만에 MSL 우승자 배출
+  - 우승 [박찬수](https://ko.wikipedia.org/wiki/박찬수 "wikilink"), 준우승 [허영무](https://ko.wikipedia.org/wiki/허영무 "wikilink"), 3위 [송병구](https://ko.wikipedia.org/wiki/송병구 "wikilink") · [김명운](https://ko.wikipedia.org/wiki/김명운 "wikilink")
+
+#### 아발론 MSL
+
+  - 리그기간: [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [6월 4일](https://ko.wikipedia.org/wiki/6월_4일 "wikilink") \~ [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [8월 30일](https://ko.wikipedia.org/wiki/8월_30일 "wikilink")
+  - MSL 3연속 게임 스폰서(클럽데이 온라인,로스트사가,아발론 온라인)
+  - 32강에 진출한 민찬기의 군 입대로 인한 와일드카드전 개최 (서바이버 토너먼트 2009 시즌1 최종전 탈락자들이 참여하며, 민찬기에게는 차기 시즌 서바이버 토너먼트 시드 수여)- 김창희가 최종 승자 자리 차지, MSL 진출
+  - 32강 조지명식에서 처음으로 지난 시즌 우승, 준우승 선수에게 맵 제거권 부여.
+  - 32강 체제가 도입된 지 2년 만에 리그 방식 전면 개편 단행(CYON MSL 이후 10시즌만에 MSL 로고 변경)
+  - 아일랜드 미디어 웍스에서 오프닝과 자막등의 프로그램 패키지 디자인 참여.
+  - 32강 B조에 4토스 조 형성 (허영무 - 김택용 - 윤용태 - 김구현)
+  - 2시즌 연속 디펜딩 챔프 32강 탈락 ([박찬수](https://ko.wikipedia.org/wiki/박찬수 "wikilink")), 역대 최초 우승자&준우승자 동시 32강 탈락 ([박찬수](https://ko.wikipedia.org/wiki/박찬수 "wikilink"), [허영무](https://ko.wikipedia.org/wiki/허영무 "wikilink"))
+  - CYON MSL 이후 10시즌만에 프로토스 4강 진출 실패
+  - 테란, ARENA MSL 이후 3시즌만에 4강 진출 성공(변형태)
+  - [김윤환](https://ko.wikipedia.org/wiki/김윤환_\(1989년\) "wikilink")(STX SOUL) 생애 첫 결승진출(4강 [이제동](https://ko.wikipedia.org/wiki/이제동 "wikilink")(Z) 3-1 W)
+  - [한상봉](https://ko.wikipedia.org/wiki/한상봉_\(프로게이머\) "wikilink")(CJ 엔투스) 생애 첫 결승진출(역스윕)(4강 [변형태](https://ko.wikipedia.org/wiki/변형태 "wikilink")(T) 3-2 W)
+  - 스타우트 MSL (이윤열 vs 전태규 패자결승)이후 MSL에서 리버스스윕 발생 (4강 [변형태](https://ko.wikipedia.org/wiki/변형태 "wikilink") vs [한상봉](https://ko.wikipedia.org/wiki/한상봉_\(프로게이머\) "wikilink"))
+  - 곰TV MSL S4이후 4시즌 만에 지방 결승
+  - 프링글스 MSL S2 이후 8시즌만에 저그vs저그전 결승 성립
+  - MSL 저그 대 저그전 3연속 3:1
+  - [김윤환](https://ko.wikipedia.org/wiki/김윤환_\(1989년\) "wikilink") MSL 32강 체제 이후 최소패수(2패)로 우승
+  - 결승전 일자 및 장소 : [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [8월 30일](https://ko.wikipedia.org/wiki/8월_30일 "wikilink") - 창원 실내 체육관 (프로농구 [창원 LG 세이커스](https://ko.wikipedia.org/wiki/창원_LG_세이커스 "wikilink") 홈 경기장)
+  - [김윤환](https://ko.wikipedia.org/wiki/김윤환_\(1989년\) "wikilink")(STX SOUL) 팀플서 개인 전환 후 첫 성공사례
+  - 결승전에서 강철승 출연한 드라마 [밥줘](https://ko.wikipedia.org/wiki/밥줘 "wikilink") 편집분 상영
+  - MSL 4번째 저그 챔피언 : 김윤환([박태민](https://ko.wikipedia.org/wiki/박태민_\(프로게이머\) "wikilink")-[조용호](https://ko.wikipedia.org/wiki/조용호 "wikilink")-[이제동](https://ko.wikipedia.org/wiki/이제동 "wikilink"))
+  - 김윤환 첫 개인리그 우승
+  - 한상봉 첫 개인리그 준우승
+  - 우승 : [김윤환](https://ko.wikipedia.org/wiki/김윤환_\(1989년\) "wikilink"), 준우승 : [한상봉](https://ko.wikipedia.org/wiki/한상봉_\(프로게이머\) "wikilink"), 3위 : [변형태](https://ko.wikipedia.org/wiki/변형태 "wikilink") · [이제동](https://ko.wikipedia.org/wiki/이제동 "wikilink")
+
+#### NATE MSL
+
+  - 리그기간:[2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [11월 26일](https://ko.wikipedia.org/wiki/11월_26일 "wikilink") \~ [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [1월 23일](https://ko.wikipedia.org/wiki/1월_23일 "wikilink")
+  - 조지명식이 11월 5일로 예정돼 있었으나 스폰서 지정 및 WCG,IEF 관계로 2주 연기되었다.(11월 19일 진행)
+  - [네이트](https://ko.wikipedia.org/wiki/네이트 "wikilink"), 양대리그 스폰서가 됨([2002 NATE배 온게임넷 스타리그](https://ko.wikipedia.org/wiki/2002_NATE배_온게임넷_스타리그 "wikilink"),[NATE MSL 2009](https://ko.wikipedia.org/wiki/NATE_MSL_2009 "wikilink"))
+  - 유일무이하게 정전이 일어난 결승전이다.(1/23 NATE MSL 결승전 제3경기) 케스파는 리플레이 대신 녹화화면을 판독하여 7:3의 비율로 이제동선수가 우세하다고 판단 이제동선수의 우세승을 판정하였다.
+  - 리그시작 전 이벤트전 실시 - 로얄로더 후보 9인이 토너먼트 방식으로 대결을 펼치는 로얄로더 토너먼트, 김재춘이 우승
+  - 조지명식 방식 소폭 변경
+      - 17\~32위 : 기존과 동일
+      - 16\~9위 : 1회에 걸쳐 대진표 변경 가능. (이동 불가)
+      - 3\~8위 : 1회에 걸쳐 대진표 변경 가능.
+      - 2위 : 2회에 걸쳐 대진표 변경 가능.
+      - 1위 : 2회에 걸쳐 대진표 변경 가능. 중간 지명권(조지명식 중간에 대진 변경 가능) 수여
+  - 아레나 MSL(Tiamat)이후 5시즌 만의 스페이스 타일 맵이자 앞마당 이후 멀티가 모두 섬멀티인 맵 등장(Ultimatum)
+  - 공식 맵 중 2개가 정글 타일(Odd Eye, 투혼), 2개가 스페이스 타일(Ultimatum, Matchpoint)
+  - 3시즌 연속 디펜딩 챔프 32강 탈락 ([김윤환](https://ko.wikipedia.org/wiki/김윤환_\(1989년\) "wikilink"))
+  - 4강 매치가 아발론 MSL 16강의 리매치 (이제동 vs 김구현, 이영호 vs 한상봉)
+  - [이영호](https://ko.wikipedia.org/wiki/이영호_\(1992년\) "wikilink") MSL 첫 결승진출
+  - [이제동](https://ko.wikipedia.org/wiki/이제동 "wikilink") 아레나 MSL이후 4 시즌만에 결승진출
+  - 저그종족 2연속 우승
+  - [이제동](https://ko.wikipedia.org/wiki/이제동 "wikilink") 저그 최초 2회 MSL 우승
+  - 결승전 장소 - 여의도 MBC D 공개홀 / MBC 가상 스튜디오 (결승전에 초점을 맞추고 진행했기 때문에 별도의 초대 가수가 없었다.)
+  - MSL 32강 본선 저그 최다 진출기록 수립(16명)
+  - 우승 : [이제동](https://ko.wikipedia.org/wiki/이제동 "wikilink"), 준우승 : [이영호](https://ko.wikipedia.org/wiki/이영호_\(1992년\) "wikilink"), 3위 : [한상봉](https://ko.wikipedia.org/wiki/한상봉_\(프로게이머\) "wikilink") · [김구현](https://ko.wikipedia.org/wiki/김구현_\(프로게이머\) "wikilink")
+
+### 2010년 MSL \~ 2011년 MSL
+
+#### 하나대투증권 MSL
+
+  - 리그 기간: 2010년 4월 1일 \~ 2010년 5월 29일
+  - MSL 사상 두 번째로 스폰서 없이 조지명식 진행
+  - 기존의 팀별 1위 예선면제권 폐지
+  - MSL 최초 육룡 6명 전원 합류
+  - 육룡 대거 탈락(도재욱,송병구,김구현,김택용)하는 이변이 발생
+  - 김택용 MSL 징크스를 깨고 32강 탈락(16강진출-탈락,진출-탈락을 반복한다는 징크스)
+  - 육룡 몰락 and 신 프로토스라인 진영화,김윤중 16강진출
+  - 신인 [정종현](https://ko.wikipedia.org/wiki/정종현 "wikilink") [신동원](https://ko.wikipedia.org/wiki/신동원 "wikilink") 16강진출 이변
+  - 웅진테란 일명 '웅테' 정종현 생애 첫 MSL 8강 진출
+  - 올드의 희망 전상욱 11시즌(4년)만에 MSL 8강 진출
+  - 공식맵 최초로 아비터를 활용한 '클로킹 에그' 적용(트라이애슬론 맵)
+  - 이영호 최초 2연속 양대리그 결승진출(스타리그,MSL)
+  - 이영호 결승전 5전제 트라우마 극복하며 첫 MSL우승
+  - 2연속 '리쌍록'의 대진이 화제.
+  - 이영호 역대 테란 4번째로 양대개인리그 동시석권
+  - 결승장소: [고려대학교](https://ko.wikipedia.org/wiki/고려대학교 "wikilink") 화정체육관
+  - 결승인원: 결승장이 수용한 인원만 만여명, 돌아간 인원만 천여명 이상으로 MSL 역사상 가장 많은 팬들이 결승전에 참여
+  - 결승전 초대가수 : 아이유
+  - 우승 : [이영호](https://ko.wikipedia.org/wiki/이영호_\(1992년\) "wikilink"), 준우승 : [이제동](https://ko.wikipedia.org/wiki/이제동 "wikilink"), 3위 : [윤용태](https://ko.wikipedia.org/wiki/윤용태 "wikilink") · [김윤환](https://ko.wikipedia.org/wiki/김윤환_\(1989년\) "wikilink")
+
+#### 빅파일 MSL
+
+  - 하나대투증권 MSL 결승전 종료 직후에 공식 발표
+  - 리그 기간: 2010년 7월 1일 \~ 2010년 8월 28일
+  - 기존의 쓰이던 오드아이2의 테저전 밸런스를 조정한 오드아이3가 사용됨.
+  - [염보성](https://ko.wikipedia.org/wiki/염보성 "wikilink")이 양대 개인리그 사상 처음으로 8강 진출 (2:0[김택용](../Page/김택용.md "wikilink"))
+  - 3시즌 연속 리쌍록 결승 (NATE MSL 2009, 하나대투증권 MSL, 빅파일 MSL 2010)
+  - 결승전 장소 변경 : 여의도 공원 → 인천 [삼산월드체육관](https://ko.wikipedia.org/wiki/삼산월드체육관 "wikilink") (프로농구 [인천 전자랜드 엘리펀츠](https://ko.wikipedia.org/wiki/인천_전자랜드_엘리펀츠 "wikilink") 홈 경기장)
+  - 이영호 2연속 MSL 우승
+  - 초대가수 : 걸스데이
+  - 우승 : [이영호](https://ko.wikipedia.org/wiki/이영호_\(1992년\) "wikilink") , 준우승 : [이제동](https://ko.wikipedia.org/wiki/이제동 "wikilink") , 3위 : [정명훈](https://ko.wikipedia.org/wiki/정명훈_\(프로게이머\) "wikilink") · [이재호](https://ko.wikipedia.org/wiki/이재호_\(프로게이머\) "wikilink")
+
+#### 피디팝 MSL
+
+  - 리그 기간: 2010년 12월 16일 \~ 2011년 2월 19일
+  - 지난 시즌 우승자 이영호 MSL 32강 탈락
+  - 박지수, 은퇴로 부전패
+  - 16강에서 테란 전멸
+  - 클럽데이 온라인 MSL에 이어 두 번째로 한 종족이 4강 독식 (저그)
+  - 아발론 MSL에 이어 다시 저그 vs 저그 결승전
+  - 삼성전자 칸 역사상 최초로 저그 결승 진출자 배출 (차명환)
+  - 스타크래프트 브루드워 저그의 마지막 우승 (신동원)
+  - 결승전 장소 : 연세대학교 대강당
+  - 결승전 초대가수 : 달샤벳
+  - 우승 : [신동원](https://ko.wikipedia.org/wiki/신동원_\(프로게이머\) "wikilink") , 준우승 : [차명환](https://ko.wikipedia.org/wiki/차명환 "wikilink") , 3위 : [김명운](https://ko.wikipedia.org/wiki/김명운 "wikilink") · [이제동](https://ko.wikipedia.org/wiki/이제동 "wikilink")
+
+#### ABC마트 MSL
+
+  - 리그 기간: 2011년 4월 14일 \~ 2011년 6월 11일
+  - 역대 최강의 죽음의 조(DSL; 이제동, 이영호, 김택용, 염보성이 D조에 편성됨)가 이루어졌다.
+  - 박성균이 [곰TV MSL 시즌4](https://ko.wikipedia.org/wiki/곰TV_MSL_시즌4 "wikilink") 이후 9시즌 만에 MSL 8강에 진출하였다.
+  - 이제동은 6시즌 연속 4강에 진출하였다. (아발론 - NATE - 하나대투증권 - 빅파일 - 피디팝 - ABC마트)
+  - 김명운은 생애 최초로 개인리그 결승에 진출하였다.
+  - 이영호가 MSL 3회 우승을 기록하면서 MSL로고 금배지를 획득하였다. (최초이자 최후의 골든 그랜드 슬램 달성)
+  - 결승전 장소 : 광운대학교 대강당
+  - 결승전 초대가수 : 에이핑크
+  - MBC게임에서 MBC뮤직으로 채널 이름과 장르가 변경되면서 이 대회는 MBC게임 마지막 MSL이 되었다.
+  - 우승 : [이영호](https://ko.wikipedia.org/wiki/이영호_\(1992년\) "wikilink"), 준우승 : [김명운](https://ko.wikipedia.org/wiki/김명운 "wikilink"), 3위 : [이제동](https://ko.wikipedia.org/wiki/이제동 "wikilink") · [신동원](https://ko.wikipedia.org/wiki/신동원_\(프로게이머\) "wikilink")
+
+## 이벤트 리그
+
+#### 2001년 KPGA 12월 챔피언십
+
+  - 리그 기간 : 2001-12-27 \~ 2002-01-24
+  - 챔피언십으로 진행됨
+  - 성학승, 홍진호, 김정민, 강도경 등 4명의 선수가 풀리그를 통해 결승 진출자를 선발하기 위한 4강전을 치름.
+      - 성학승은 3승으로 1위를 차지하며 가장 먼저 결승행을 확정, 홍진호, 김정민, 강도경은 1승 2패 동률로 재경기에 돌입.
+      - 재경기에서 세 명의 선수는 다시 한번 동률을 이뤄 재재경기에 돌입했고, 결국 홍진호가 2승을 기록하며 결승 진출에 성공했다. (오후 8시에 경기를 시작하여 새벽 2시에 경기를 마침)
+  - MBC게임 최초의 야외무대 결승
+  - 결승전 장소 : 경희대학교 평화의 전당
+  - 먼저 3,4위전이 진행된 뒤, 결승전 진행
+  - 우승 [성학승](https://ko.wikipedia.org/wiki/성학승 "wikilink"), 준우승 [홍진호](https://ko.wikipedia.org/wiki/홍진호 "wikilink"), 3위 [김정민](https://ko.wikipedia.org/wiki/김정민_\(프로게이머\) "wikilink"), 4위 [강도경](https://ko.wikipedia.org/wiki/강도경 "wikilink")
+
+#### KTEC KPGA 위너스 챔피언쉽
+
+  - 리그기간 : 2003-01-23 \~ 2003-03-22
+  - MBC게임 최초이자 마지막인 KPGA투어 왕중왕전성격의 위너스 챔피언쉽.
+  - 결승전 장소 : 여의도 공원 (이때 올스타전으로 팬들과 함께하는 이벤트 경기를 진행)
+  - 우승 [홍진호](https://ko.wikipedia.org/wiki/홍진호 "wikilink"), 준우승 [임요환](https://ko.wikipedia.org/wiki/임요환 "wikilink"), 3위 [이윤열](https://ko.wikipedia.org/wiki/이윤열 "wikilink"), 4위 [박신영](https://ko.wikipedia.org/wiki/박신영_\(프로게이머\) "wikilink")
+
+#### KTF Bigi배 스타크래프트 4대천왕전
+
+  - 리그기간 : 2003-01-29
+  - MBC게임에서 펼쳐진 최초의 이벤트전
+  - 장소 : 잠실체육관(결승전 이외에 4강전 및 3, 4위전까지 치름)
+  - 우승 [임요환](https://ko.wikipedia.org/wiki/임요환 "wikilink"), 준우승 [이윤열](https://ko.wikipedia.org/wiki/이윤열 "wikilink"), 3위 [박정석](https://ko.wikipedia.org/wiki/박정석 "wikilink"), 4위 [홍진호](https://ko.wikipedia.org/wiki/홍진호 "wikilink")
+
+#### Ladies MSL
+
+  - 리그기간 : 2005-02-17 \~ 2005-04-07
+  - 특이사항
+      - 처음이자 마지막인 여성 MBC게임 스타리그
+      - 총상금 800만원
+      - 8강 [더블엘리미네이션](https://ko.wikipedia.org/wiki/더블엘리미네이션 "wikilink") 3전 2선승제로 경기
+  - 우승 [서지수](https://ko.wikipedia.org/wiki/서지수 "wikilink"), 준우승 김영미, 3위 [이종미](https://ko.wikipedia.org/wiki/이종미 "wikilink"), 4위 강현
+
+#### NATE Pre MSL 로얄로더 토너먼트
+
+  - 리그기간 : 2009-11-12 \~ 2009-11-14
+  - 차기 시즌 로열로더 선수 9명으로 진행된 이벤트 성 토너먼트이다.
+  - 9강 토너먼트 방식으로 진행되었다.
+  - 우승 [김재춘](https://ko.wikipedia.org/wiki/김재춘 "wikilink"), 준우승 [임정현](https://ko.wikipedia.org/wiki/임정현 "wikilink"), 3위 [김동현](https://ko.wikipedia.org/wiki/김동현_\(프로게이머\) "wikilink"), 4위 [도재욱](https://ko.wikipedia.org/wiki/도재욱 "wikilink")
+
+## 역대 MSL 진출자 명단
+
+  - **굵은 글씨**는 시드자
+
+### 2002년 KPGA 1차리그 \~ 곰TV MSL 시즌 1
+
+|                                                                                   |   |                                         |
+| --------------------------------------------------------------------------------- | - | --------------------------------------- |
+| 종족                                                                                | 명 | 이름                                      |
+| style="background: \#f9f9c9;" center;" colspan="3" |2002 KPGA 1차리그                |   |                                         |
+| 테란                                                                                | 7 | 김동준 **임요환** 변길섭 이윤열 김정민 최인규 한웅렬         |
+| 저그                                                                                | 4 | 강도경 성학승 임정호 **홍진호**                     |
+| 프로토스                                                                              | 2 | 기욤패트리 임성춘                               |
+| 랜덤                                                                                | 3 | 김완철 베르트랑 성준모                            |
+|                                                                                   |   |                                         |
+| style="background: \#f9f9c9;" center;" colspan="3" |리복배 2002 KPGA 2차리그            |   |                                         |
+| 테란                                                                                | 5 | 김정민 변길섭 임요환 **이윤열** 최인규                 |
+| 저그                                                                                | 6 | 김동우 나경보 박신영 장진수 조용호 **홍진호**             |
+| 프로토스                                                                              | 4 | 박정석 이재훈 임성춘 임효진                         |
+| 랜덤                                                                                | 1 | 주한진                                     |
+|                                                                                   |   |                                         |
+| style="background: \#f9f9c9;" center;" colspan="3" |펩시트위스트배 2002 KPGA 3차리그        |   |                                         |
+| 테란                                                                                | 5 | 변길섭 이운재 **이윤열** 임요환 최인규                 |
+| 저그                                                                                | 5 | 강도경 이창훈 장진수 주진철 홍진호                     |
+| 프로토스                                                                              | 6 | 김동수 김성제 **박정석** 손승완 전태규 조병호             |
+|                                                                                   |   |                                         |
+| style="background: \#f9f9c9;" center;" colspan="3" |스타우트 & 베스킨라빈스배 2002 KPGA 4차리그 |   |                                         |
+| 테란                                                                                | 6 | 김현진 변길섭 서지훈 **이윤열** 임요환 한웅렬             |
+| 저그                                                                                | 7 | 강도경 박경락 박현준 성학승 장진남 정재호 **조용호**         |
+| 프로토스                                                                              | 3 | 문준희 박정석 전태규                             |
+|                                                                                   |   |                                         |
+| style="background: \#f9f9c9;" center;" colspan="3" |스타우트 MSL                      |   |                                         |
+| 테란                                                                                | 7 | 김정민 김현진 변길섭 서지훈 **이윤열** 임요환 조정현         |
+| 저그                                                                                | 5 | 박태민 변은종 장진수 조용호 홍진호                     |
+| 프로토스                                                                              | 4 | **강민** 김환중 백영민 전태규                      |
+|                                                                                   |   |                                         |
+| style="background: \#f9f9c9;" center;" colspan="3" |TG삼보 MSL                      |   |                                         |
+| 테란                                                                                | 7 | 나도현 베르트랑 이병민 이윤열 **최연성** 최인규 한승엽        |
+| 저그                                                                                | 5 | 변은종 심소명 장진수 조용호 **홍진호**                 |
+| 프로토스                                                                              | 4 | 강민 김환중 박용욱 전태규                          |
+|                                                                                   |   |                                         |
+| style="background: \#f9f9c9;" center;" colspan="3" |하나포스 센게임 MSL                  |   |                                         |
+| 테란                                                                                | 8 | 김정민 김현진 서지훈 이병민 **이윤열** **최연성** 최인규 한승엽 |
+| 저그                                                                                | 7 | 나경보 박신영 심소명 장진수 조용호 주진철 홍진호             |
+| 프로토스                                                                              | 1 | 강민                                      |
+|                                                                                   |   |                                         |
+| style="background: \#f9f9c9;" center;" colspan="3" |스프리스 MSL                      |   |                                         |
+| 테란                                                                                | 7 | 김동진 김정민 김현진 서지훈 이병민 이윤열 **최연성**         |
+| 저그                                                                                | 5 | 마재윤 박성준 주진철 홍진호 조용호                     |
+| 프로토스                                                                              | 4 | 강민 김환중 **박용욱** 전태규                      |
+|                                                                                   |   |                                         |
+| style="background: \#f9f9c9;" center;" colspan="3" |당신은 골프왕 MSL                   |   |                                         |
+| 테란                                                                                | 8 | 김동진 김정민 변길섭 서지훈 이병민 **이윤열** 전상욱 최연성     |
+| 저그                                                                                | 5 | 김민구 **박태민** 박성준 변은종 조용호                 |
+| 프로토스                                                                              | 3 | 강민 김환중 박용욱                              |
+|                                                                                   |   |                                         |
+| style="background: \#f9f9c9;" center;" colspan="3" |우주 MSL                        |   |                                         |
+| 테란                                                                                | 5 | 김정민 서지훈 이윤열 임요환 최연성                     |
+| 저그                                                                                | 7 | 김민구 **마재윤** 박성준 박태민 변은종 조용호 홍진호         |
+| 프로토스                                                                              | 4 | 박용욱 **박정석** 이재훈 전태규                     |
+|                                                                                   |   |                                         |
+| style="background: \#f9f9c9;" center;" colspan="3" |싸이언 MSL                       |   |                                         |
+| 테란                                                                                | 4 | 서지훈 이병민 임요환 최연성                         |
+| 저그                                                                                | 6 | 김민구 **마재윤** 변은종 성학승 심소명 **조용호**         |
+| 프로토스                                                                              | 6 | 강민 김성제 박정길 박정석 이재훈 전태규                  |
+|                                                                                   |   |                                         |
+| style="background: \#f9f9c9;" center;" colspan="3" |프링글스 MSL 시즌1                  |   |                                         |
+| 테란                                                                                | 4 | 임요환 전상욱 최연성 한승엽                         |
+| 저그                                                                                | 5 | **마재윤** 박태민 성학승 윤종민 조용호                 |
+| 프로토스                                                                              | 7 | **강민** 김성제 박용욱 박정길 박정석 박지호 송병구          |
+|                                                                                   |   |                                         |
+| style="background: \#f9f9c9;" center;" colspan="3" |프링글스 MSL 시즌2                  |   |                                         |
+| 테란                                                                                | 5 | 서지훈 원종서 이윤열 임요환 전상욱                     |
+| 저그                                                                                | 6 | **마재윤** 박명수 변은종 서경종 **심소명** 조용호         |
+| 프로토스                                                                              | 5 | 강민 박대만 박용욱 박정길 박지호                      |
+|                                                                                   |   |                                         |
+| style="background: \#f9f9c9;" center;" colspan="3" |곰TV MSL 시즌 1                  |   |                                         |
+| 테란                                                                                | 6 | 고인규 변형태 서지훈 원종서 이재호 진영수                 |
+| 저그                                                                                | 5 | 김세현 **마재윤** 변은종 심소명 이제동                 |
+| 프로토스                                                                              | 5 | 강민 **김택용** 박영민 박지호 윤용태                  |
+
+### 곰TV MSL 시즌 2 \~ ABC마트 MSL 2011
+
+|                                                                           |    |                                                                                            |
+| ------------------------------------------------------------------------- | -- | ------------------------------------------------------------------------------------------ |
+| 종족                                                                        | 명  | 이름                                                                                         |
+| style="background: \#f9f9c9;" center;" colspan="3" |곰TV MSL 시즌 2 (32강 개편) |    |                                                                                            |
+| 테란                                                                        | 17 | 강구열 고인규 김창희 박정욱 서지훈 안상원 염보성 원종서 이병민 이성은 이윤열 이재호 임요환 장용석 전상욱 **진영수** 최연성                    |
+| 저그                                                                        | 7  | 김남기 **마재윤** 박성준 박태민 변은종 이주영 임동혁                                                            |
+| 프로토스                                                                      | 8  | **강민** **김택용** 박성훈 박영민 송병구 윤용태 이승훈 허영무                                                     |
+| style="background: \#f9f9c9;" center;" colspan="3" |곰TV MSL 시즌3           |    |                                                                                            |
+| 테란                                                                        | 18 | **강구열** 고인규 김윤환(T) 민찬기 박성균 박지수 **서지훈** 손주흥 안상원 염보성 오충훈 **이성은** 이영호 이윤열 이재호 주현준 **진영수** 최연성 |
+| 저그                                                                        | 7  | 권수현 **마재윤** 박명수 **박성준** **박태민** **이주영** 한상봉                                                |
+| 프로토스                                                                      | 7  | 강민 **김택용** 박대경 **송병구** 신상호 윤용태 이영호(P)                                                      |
+| style="background: \#f9f9c9;" center;" colspan="3" |곰TV MSL 시즌4           |    |                                                                                            |
+| 테란                                                                        | 15 | 고인규 민찬기 **박성균** 박지수 **서지훈** 신희승 안상원 염보성 이성은 이영호 이윤열 이재호 **주현준** 진영수 최연성                    |
+| 저그                                                                        | 10 | 권수현 김명운 김상욱 **마재윤** 박명수 박성준 박찬수 박태민 이제동 **한상봉**                                            |
+| 프로토스                                                                      | 7  | **강민** 김구현 **김택용** 신상호 오영종 **윤용태** 허영무                                                     |
+| style="background: \#f9f9c9;" center;" colspan="3" |아레나 MSL               |    |                                                                                            |
+| 테란                                                                        | 15 | 고인규 김동건 **박성균** 박지수 손주흥 **신희승** 염보성 이병민 이성은 **이영호** **이윤열** **이재호** 정명훈 주현준 진영수            |
+| 저그                                                                        | 8  | 김윤환 마재윤 문성진 박명수 박찬수 서경종 **이제동** 한상봉                                                        |
+| 프로토스                                                                      | 9  | **김구현** 김윤중 김택용 박영민 오영종 윤용태 이영호(P) 한동훈 **허영무**                                             |
+| style="background: \#f9f9c9;" center;" colspan="3" |클럽데이 온라인 MSL          |    |                                                                                            |
+| 테란                                                                        | 17 | 고인규 김동건 김창희 민찬기 **박지수** 변형태 **손주흥** 신상문 신희승 염보성 이성은 **이영호** 이윤열 이학주 정명훈 주현준 **진영수**        |
+| 저그                                                                        | 5  | 김명운 마재윤 문성진 박명수 **이제동**                                                                    |
+| 프로토스                                                                      | 10 | 권오혁 **김구현** 김택용 **박영민** 박재영 손찬웅 송병구 **윤용태** 한동훈 허영무                                        |
+| style="background: \#f9f9c9;" center;" colspan="3" |로스트사가 MSL             |    |                                                                                            |
+| 테란                                                                        | 14 | 고인규 김동건 김창희 민찬기 박지수 변형태 신상문 신희승 염보성 **이성은** 이영호 **이윤열** 정명훈 진영수                            |
+| 저그                                                                        | 9  | 김명운 마재윤 **박명수** 박문기 박재혁 박찬수 이제동 조일장 한상봉                                                    |
+| 프로토스                                                                      | 9  | 권오혁 **김구현** **김택용** 박영민 박재영 **송병구** **윤용태** 이경민 **허영무**                                    |
+| style="background: \#f9f9c9;" center;" colspan="3" |아발론 MSL               |    |                                                                                            |
+| 테란                                                                        | 16 | 고인규 구성훈 김창희 **박지수** 변형태 **신상문** 신희승 안상원 염보성 이성은 이영호 **이윤열** 임진묵 정명훈 조병세 진영수                |
+| 저그                                                                        | 7  | **김명운** 김윤환 김정우 **마재윤** **박찬수** 이제동 한상봉                                                    |
+| 프로토스                                                                      | 9  | 김구현 김택용 박세정 박영민 **송병구** 윤용태 이경민 진영화 **허영무**                                                |
+| style="background: \#f9f9c9;" center;" colspan="3" |네이트 MSL               |    |                                                                                            |
+| 테란                                                                        | 8  | **고인규** 민찬기 박지수 **변형태** 이신형 이영호 이재호 진영수                                                    |
+| 저그                                                                        | 16 | 김동현 **김명운** 김상욱 **김윤환** 김재춘 **김정우** 마재윤 문성진 박성준 박재혁 신대근 이영한 **이제동** 임정현 조일장 **한상봉**        |
+| 프로토스                                                                      | 8  | 김대엽 김구현 김승현 **김택용** 도재욱 송병구 진영화 허영무                                                        |
+| style="background: \#f9f9c9;" center;" colspan="3" |하나대투증권 MSL            |    |                                                                                            |
+| 테란                                                                        | 10 | 구성훈 박성균 염보성 **이영호** **이재호** 전상욱 전태양 정명훈 정종현 **진영수**                                        |
+| 저그                                                                        | 12 | 고석현 김명운 김성대 김윤환 김재춘 박명수 박성준 박재혁 신동원 **이제동** 차명환 **한상봉**                                    |
+| 프로토스                                                                      | 10 | **김구현** **김대엽** 김윤중 김택용 **도재욱** 박세정 송병구 윤용태 진영화 허영무                                        |
+| style="background: \#f9f9c9;" center;" colspan="3" |빅파일 MSL               |    |                                                                                            |
+| 테란                                                                        | 11 | **구성훈** 염보성 **이영호** 이재호 **전상욱** 박상우 정명훈 **정종현** 박지수 조병세 김도우                                |
+| 저그                                                                        | 12 | 김명운 김상욱 김성대 **김윤환** 김정우 박재혁 신노열 신동원 조일장 이승석 **이제동** **차명환**                                |
+| 프로토스                                                                      | 9  | 김구현 김대엽 김윤중 김택용 도재욱 박수범 우정호 **윤용태** 허영무                                                    |
+| style="background: \#f9f9c9;" center;" colspan="3" |피디팝 MSL               |    |                                                                                            |
+| 테란                                                                        | 10 | 이영호 최호선 김도우 정명훈 신상문 이재호 전상욱 박지수(은퇴) 염보성 박상우                                                |
+| 저그                                                                        | 13 | **김명운** 김상욱 김성대 **김윤환** 한두열 **신동원** 김민철 박준오 **이제동** **차명환** 신노열 이승석 이영한                    |
+| 프로토스                                                                      | 9  | **김구현** 김대엽 김택용 **장윤철** **송병구** 윤용태 김재훈 김유진 김태균                                            |
+| style="background: \#f9f9c9;" center;" colspan="3" |ABC마트 MSL             |    |                                                                                            |
+| 테란                                                                        | 11 | 이영호 이재호 박상우 신상문 민찬기 이성은 정명훈 김기현 염보성 김도우 박성균                                                |
+| 저그                                                                        | 12 | 김명운 이제동 차명환 신동원 김경모 박재혁 조일장 이영한 김민철 고석현 김윤환 신노열                                            |
+| 프로토스                                                                      | 9  | 박수범 이경민 송병구 김택용 장윤철 유병준 윤용태 백동준 김구현                                                        |
+|                                                                           |    |                                                                                            |
+
+## 역대 결승전 결과
+
+  - 2001년 열렸던 월별 대회는 MBC게임이 인정하는 공식 대회가 아니므로 제외된다.
+
+| 연도   | 리그 및 스폰서               | 우승자                                                           | 결과  | 준우승자                                                          |
+| ---- | ---------------------- | ------------------------------------------------------------- | --- | ------------------------------------------------------------- |
+| 2002 | 1차 KPGA                | [임요환](https://ko.wikipedia.org/wiki/임요환 "wikilink")           | 3-1 | [홍진호](https://ko.wikipedia.org/wiki/홍진호 "wikilink")           |
+| 2002 | 리복배 2차 KPGA            | [이윤열](https://ko.wikipedia.org/wiki/이윤열 "wikilink")           | 3-2 | [홍진호](https://ko.wikipedia.org/wiki/홍진호 "wikilink")           |
+| 2002 | 펩시트위스트배 3차 KPGA        | [이윤열](https://ko.wikipedia.org/wiki/이윤열 "wikilink")           | 3-0 | [박정석](https://ko.wikipedia.org/wiki/박정석 "wikilink")           |
+| 2002 | 스타우트 & 베스킨라빈스배 4차 KPGA | [이윤열](https://ko.wikipedia.org/wiki/이윤열 "wikilink")           | 3-2 | [조용호](https://ko.wikipedia.org/wiki/조용호 "wikilink")           |
+| 2003 | 스타우트 MSL               | [강민](https://ko.wikipedia.org/wiki/강민_\(프로게이머\) "wikilink")   | 3-0 | [이윤열](https://ko.wikipedia.org/wiki/이윤열 "wikilink")           |
+| 2003 | TG삼보 MSL               | [최연성](../Page/최연성.md "wikilink")                              | 3-0 | [홍진호](https://ko.wikipedia.org/wiki/홍진호 "wikilink")           |
+| 2004 | 하나포스 센게임 MSL           | [최연성](../Page/최연성.md "wikilink")                              | 3-2 | [이윤열](https://ko.wikipedia.org/wiki/이윤열 "wikilink")           |
+| 2004 | 스프리스 MSL               | [최연성](../Page/최연성.md "wikilink")                              | 3-2 | [박용욱](https://ko.wikipedia.org/wiki/박용욱 "wikilink")           |
+| 2004 | 당신은 골프왕 MSL\[3\]       | [박태민](https://ko.wikipedia.org/wiki/박태민_\(프로게이머\) "wikilink") | 4-2 | [이윤열](https://ko.wikipedia.org/wiki/이윤열 "wikilink")           |
+| 2005 | UZOO MSL               | [마재윤](https://ko.wikipedia.org/wiki/마재윤 "wikilink")           | 3-1 | [박정석](https://ko.wikipedia.org/wiki/박정석 "wikilink")           |
+| 2005 | CYON MSL               | [조용호](https://ko.wikipedia.org/wiki/조용호 "wikilink")           | 3-1 | [마재윤](https://ko.wikipedia.org/wiki/마재윤 "wikilink")           |
+| 2006 | 프링글스 MSL S1            | [마재윤](https://ko.wikipedia.org/wiki/마재윤 "wikilink")           | 3-1 | [강민](https://ko.wikipedia.org/wiki/강민_\(프로게이머\) "wikilink")   |
+| 2006 | 프링글스 MSL S2            | [마재윤](https://ko.wikipedia.org/wiki/마재윤 "wikilink")           | 3-1 | [심소명](https://ko.wikipedia.org/wiki/심소명 "wikilink")           |
+| 2007 | 곰TV MSL S1             | [김택용](../Page/김택용.md "wikilink")                              | 3-0 | [마재윤](https://ko.wikipedia.org/wiki/마재윤 "wikilink")           |
+| 2007 | 곰TV MSL S2             | [김택용](../Page/김택용.md "wikilink")                              | 3-2 | [송병구](https://ko.wikipedia.org/wiki/송병구 "wikilink")           |
+| 2007 | 곰TV MSL S3             | [박성균](https://ko.wikipedia.org/wiki/박성균 "wikilink")           | 3-1 | [김택용](../Page/김택용.md "wikilink")                              |
+| 2008 | 곰TV MSL S4             | [이제동](https://ko.wikipedia.org/wiki/이제동 "wikilink")           | 3-1 | [김구현](https://ko.wikipedia.org/wiki/김구현_\(프로게이머\) "wikilink") |
+| 2008 | 아레나 MSL                | [박지수](https://ko.wikipedia.org/wiki/박지수 "wikilink")           | 3-0 | [이제동](https://ko.wikipedia.org/wiki/이제동 "wikilink")           |
+| 2008 | 클럽데이 온라인 MSL           | [김택용](../Page/김택용.md "wikilink")                              | 3-1 | [허영무](https://ko.wikipedia.org/wiki/허영무 "wikilink")           |
+| 2009 | 로스트사가 MSL              | [박찬수](https://ko.wikipedia.org/wiki/박찬수 "wikilink")           | 3-1 | [허영무](https://ko.wikipedia.org/wiki/허영무 "wikilink")           |
+| 2009 | 아발론 MSL                | [김윤환](https://ko.wikipedia.org/wiki/김윤환_\(1989년\) "wikilink") | 3-1 | [한상봉](https://ko.wikipedia.org/wiki/한상봉_\(프로게이머\) "wikilink") |
+| 2009 | 네이트 MSL                | [이제동](https://ko.wikipedia.org/wiki/이제동 "wikilink")           | 3-1 | [이영호](https://ko.wikipedia.org/wiki/이영호_\(1992년\) "wikilink") |
+| 2010 | 하나대투증권 MSL             | [이영호](https://ko.wikipedia.org/wiki/이영호_\(1992년\) "wikilink") | 3-0 | [이제동](https://ko.wikipedia.org/wiki/이제동 "wikilink")           |
+| 2010 | 빅파일 MSL                | [이영호](https://ko.wikipedia.org/wiki/이영호_\(1992년\) "wikilink") | 3-2 | [이제동](https://ko.wikipedia.org/wiki/이제동 "wikilink")           |
+| 2010 | 피디팝 MSL                | [신동원](https://ko.wikipedia.org/wiki/신동원_\(프로게이머\) "wikilink") | 3-1 | [차명환](https://ko.wikipedia.org/wiki/차명환 "wikilink")           |
+| 2011 | ABC마트 MSL              | [이영호](https://ko.wikipedia.org/wiki/이영호_\(1992년\) "wikilink") | 3-0 | [김명운](https://ko.wikipedia.org/wiki/김명운 "wikilink")           |
+|      |                        |                                                               |     |                                                               |
+
+## 리그별 공식맵
+
+리그별 공식맵은 기본적으로 4개맵(2001년 KPGA 8,9월 투어, 2002년 KPGA 4차리그 제외)을 원칙으로 한다.
+
+UZOO MSL부터 [온게임넷 스타리그와](../Page/온게임넷_스타리그.md "wikilink") 서로 1개씩 공통맵을 사용했다.
+
+곰TV MSL 시즌2부터는 프로리그와 공통맵을 2가지씩 사용했다.\[4\]
+
+  - **2001년 KPGA 8월 투어**
+
+<!-- end list -->
+
+  -
+    Universal Tripod, Symmetry of Psy, Back and Belly
+
+<!-- end list -->
+
+  - **2001년 KPGA 9월 투어**
+
+<!-- end list -->
+
+  -
+    Universal Tripod, Symmetry of Psy, Plains to Hill
+
+<!-- end list -->
+
+  - **2001년 KPGA 10월 투어**
+
+<!-- end list -->
+
+  -
+    Universal Tripod, Symmetry of Psy, Plains to Hill, Lost Temple
+
+<!-- end list -->
+
+  - **2001년 KPGA 11월 투어**
+
+<!-- end list -->
+
+  -
+    Universal Tripod, Symmetry of Psy, Plains to Hill, Lost Temple
+
+<!-- end list -->
+
+  - **2001년 KPGA 12월 챔피언십**
+
+<!-- end list -->
+
+  -
+    Universal Tripod, Symmetry of Psy, Plains to Hill, Lost Temple
+
+<!-- end list -->
+
+  - **2002년 KPGA 투어 1차리그**
+
+<!-- end list -->
+
+  -
+    Wish Bone, Symmetry of Psy2, Plains to Hill1.07, River of flame
+
+<!-- end list -->
+
+  - **2002년 리복배 KPGA 투어 2차리그**
+
+<!-- end list -->
+
+  -
+    Blade Storm, Indian Lament, Plains to Hill, River of flame
+
+<!-- end list -->
+
+  - **2002년 펩시트위스트배 KPGA 3차리그**
+
+<!-- end list -->
+
+  -
+    Blade Storm, Indian Lament\[5\], Plains to Hill, River of flame
+
+<!-- end list -->
+
+  - **2002년 스타우트 & 베스킨라빈스배 KPGA 4차리그**
+
+<!-- end list -->
+
+  -
+    Blade Storm, Acheron, Plains to Hill, River of flame, Face Off\[6\]
+
+<!-- end list -->
+
+  - **2003년 KTEC KPGA 위너스 챔피언십**
+
+<!-- end list -->
+
+  -
+    Blade Storm, Sauron, Plains to Hill (D), JRs Memory (J)
+
+<!-- end list -->
+
+  - **\[1차\] 스타우트 MSL**
+
+<!-- end list -->
+
+  -
+    Charity, Dark Sauron, Gauntlet 2003, JRs Memory (J)
+
+<!-- end list -->
+
+  - **\[2차\] TG삼보 MSL**
+
+<!-- end list -->
+
+  -
+    U-Boat, Enter the Dragon, Gauntlet_TG, JRs Memory (J)
+
+<!-- end list -->
+
+  - **\[3차\] 하나포스 센게임 MSL**
+
+<!-- end list -->
+
+  -
+    U-Boat 2004, Enter the Dragon 2004, Luna, Detonation
+
+<!-- end list -->
+
+  - **\[4차\] 스프리스 MSL**
+
+<!-- end list -->
+
+  -
+    Parallellines 3, Into the Darkness, Luna MBCGame, Detonation F
+
+<!-- end list -->
+
+  - **\[5차\] 당신은 골프왕 MSL**
+
+<!-- end list -->
+
+  -
+    Raid-Assault, Into the Darkness II, Luna_당신은 골프왕, Arizona
+
+<!-- end list -->
+
+  - **\[6차\] UZOO MSL**
+
+<!-- end list -->
+
+  -
+    Raid-Assault 2, Rush Hour_UZOO, Luna the Final, Neo Requiem
+
+<!-- end list -->
+
+  - **\[7차\] CYON MSL**
+
+<!-- end list -->
+
+  -
+    Dark Sauron ll, Rush Hour ll, R-Point, Ride of Valkyries
+
+<!-- end list -->
+
+  - **\[8차\] 프링글스 MSL 시즌1**
+
+<!-- end list -->
+
+  -
+    Pringles_The Eye, Rush Hour lll, Arcadia, 815 lll
+
+<!-- end list -->
+
+  - **\[9차\] 프링글스 MSL 시즌2**
+
+<!-- end list -->
+
+  -
+    Longinus, Blitz_Pringles, Arcadia II, 신 백두대간
+
+<!-- end list -->
+
+  - **\[10차\] 곰TV MSL 시즌1**
+
+<!-- end list -->
+
+  -
+    Longinus ll, Blitz X, Gom TV_Desert Fox, Reverse Temple
+
+<!-- end list -->
+
+  - **\[11차\] 곰TV MSL 시즌2**
+
+<!-- end list -->
+
+  -
+    Desperado, Gom TV_Loki, Python, Monty Hall
+
+<!-- end list -->
+
+  - **\[12차\] 곰TV MSL 시즌3**
+
+<!-- end list -->
+
+  -
+    ZodiAc, Gom TV_Loki ll, Python, Blue Storm
+
+<!-- end list -->
+
+  - **\[13차\] 곰TV MSL 시즌4**
+
+<!-- end list -->
+
+  -
+    ZodiAc, Gom TV_Loki ll, Katrina, Blue Storm
+
+<!-- end list -->
+
+  - **\[14차\] 아레나 MSL 2008**
+
+<!-- end list -->
+
+  -
+    Tiamat, Athena, Othello, Colosseum
+
+<!-- end list -->
+
+  - **\[15차\] 클럽데이 온라인 MSL**
+
+<!-- end list -->
+
+  -
+    Athena 2, Byzantium 2, Medusa, Destination
+
+<!-- end list -->
+
+  - **\[16차\] 로스트사가 MSL 2009**
+
+<!-- end list -->
+
+  -
+    Byzantium 2.3, 신 청풍명월, Destination, Carthage
+
+<!-- end list -->
+
+  - **\[17차\] 아발론 MSL**
+
+<!-- end list -->
+
+  -
+    Byzantium 3, Carthage 3, 단장의 능선, Outsider
+
+<!-- end list -->
+
+  - **\[18차\] NATE MSL 2009**
+
+<!-- end list -->
+
+  -
+    Odd-Eye, Ultimatum, 투혼, Match Point
+
+<!-- end list -->
+
+  - **\[19차\] 하나대투증권 MSL 2010**
+
+<!-- end list -->
+
+  -
+    Odd-Eye 2, Triathlon, 투혼, Match Point
+
+<!-- end list -->
+
+  - **\[20차\] 빅파일 MSL 2010**
+
+<!-- end list -->
+
+  -
+    Odd-Eye 3, Triathlon, 투혼, 폴라리스랩소디
+
+<!-- end list -->
+
+  - **\[21차\] 피디팝 MSL 2010**
+
+<!-- end list -->
+
+  -
+    벤젠, Triathlon, 서킷브레이커, 단테스피크
+
+<!-- end list -->
+
+  - **\[22차\] ABC마트 MSL 2011**
+
+<!-- end list -->
+
+  -
+    단테스피크SE, Monte Cristo, 서킷브레이커, 라만차
+
+## MSL 경기기록(2001년 KPGA 투어 포함)
+
+  - **첫 번째 경기** : [김동우](https://ko.wikipedia.org/wiki/김동우_\(프로게이머\) "wikilink") vs 김완철(2001 KPGA 8월 투어)
+  - **1000번째 경기** : [박성훈](https://ko.wikipedia.org/wiki/박성훈_\(프로게이머\) "wikilink") vs [윤용태](https://ko.wikipedia.org/wiki/윤용태 "wikilink")(Gom TV MSL S2)
+  - **최다전선수** : [이윤열](https://ko.wikipedia.org/wiki/이윤열 "wikilink")(172전)
+  - **최다승선수** : [이윤열](https://ko.wikipedia.org/wiki/이윤열 "wikilink")(105승)
+  - **최다패선수** : [이윤열](https://ko.wikipedia.org/wiki/이윤열 "wikilink")(69패)
+  - **최고승률 선수** : [이영호](https://ko.wikipedia.org/wiki/이제동 "wikilink")(69.8%)
+
+## MSL 기록
+
+  - **최초의 MSL 우승** - [임요환](https://ko.wikipedia.org/wiki/임요환 "wikilink")(2002 KPGA 1차 리그)
+  - **최초의 MSL 3회 우승(양대 최초 3회 우승)** - [이윤열](https://ko.wikipedia.org/wiki/이윤열 "wikilink")(2002 KPGA 2차, 3차, 4차 리그)
+  - **저그 최초의 MSL 우승** - [박태민](https://ko.wikipedia.org/wiki/박태민_\(프로게이머\) "wikilink")(당신은 골프왕 MSL 2004)
+  - **프로토스 최초의 MSL 우승** - [강민](https://ko.wikipedia.org/wiki/강민_\(프로게이머\) "wikilink")(스타우트 MSL 2003)
+  - **최초의 저그 2회 우승** - [이제동](https://ko.wikipedia.org/wiki/이제동 "wikilink")(곰TV MSL Season 4, NATE MSL 2009)\[7\]
+  - **최초의 프로토스 3회 우승** - [김택용](../Page/김택용.md "wikilink")(곰TV MSL Season 1, Season 2, 클럽데이 온라인 MSL 2008)
+  - **양대 최초 세종족 상대로 우승** - [최연성](../Page/최연성.md "wikilink")
+      - TG 삼보 MSL *VS [홍진호](https://ko.wikipedia.org/wiki/홍진호 "wikilink")(Z)*, 하나포스 센게임 MSL 2004 *VS [이윤열](https://ko.wikipedia.org/wiki/이윤열 "wikilink")(T)*, 스프리스 MSL 2003 *VS [박용욱](https://ko.wikipedia.org/wiki/박용욱 "wikilink")(P)*
+  - **MSL 로얄로더 (첫 진출만에 우승)** - [강민](https://ko.wikipedia.org/wiki/강민_\(프로게이머\) "wikilink"), [최연성](../Page/최연성.md "wikilink"), [김택용](../Page/김택용.md "wikilink"), [박성균](https://ko.wikipedia.org/wiki/박성균 "wikilink")
+  - **MSL 최초의 동족전 결승** - [최연성](../Page/최연성.md "wikilink") vs [이윤열](https://ko.wikipedia.org/wiki/이윤열 "wikilink") ([하나포스 센게임 MSL 2004](https://ko.wikipedia.org/wiki/하나포스_센게임_MSL_2004 "wikilink"))
+  - **양대 방송 개인리그 최초의 저그 대 저그 결승전** - [조용호](https://ko.wikipedia.org/wiki/조용호 "wikilink") VS 마재윤 ([CYON MSL 2005](https://ko.wikipedia.org/wiki/CYON_MSL_2005 "wikilink"))
+  - **MSL 최초의 토스 대 토스 결승전** - [김택용](../Page/김택용.md "wikilink") VS [송병구](https://ko.wikipedia.org/wiki/송병구 "wikilink") ([곰TV MSL Season 2](https://ko.wikipedia.org/wiki/곰TV_MSL_Season_2 "wikilink"))
+  - **최초로 한 종족이 4강을 독식** - [클럽데이 온라인 MSL 2008](https://ko.wikipedia.org/wiki/클럽데이_온라인_MSL_2008 "wikilink") : [김구현](https://ko.wikipedia.org/wiki/김구현 "wikilink") - [허영무](https://ko.wikipedia.org/wiki/허영무 "wikilink"), [윤용태](https://ko.wikipedia.org/wiki/윤용태 "wikilink") - [김택용](../Page/김택용.md "wikilink") (4강 진출자 모두 프로토스)
+      - **두 번째로 한 종족이 4강을 독식** - [피디팝 MSL 2010](https://ko.wikipedia.org/wiki/피디팝_MSL_2010 "wikilink") : [이제동](https://ko.wikipedia.org/wiki/이제동 "wikilink") - [신동원](https://ko.wikipedia.org/wiki/신동원 "wikilink"), [차명환](https://ko.wikipedia.org/wiki/차명환 "wikilink") - [김명운](https://ko.wikipedia.org/wiki/김명운 "wikilink") (4강 진출자 모두 저그)
+  - **MSL 최다 결승 진출자** - [이윤열](https://ko.wikipedia.org/wiki/이윤열 "wikilink")(6회)
+  - **MSL 연속 진출 최다 횟수** - [김택용](../Page/김택용.md "wikilink")(14회)
+  - **MSL 최연소 우승** - [박성균](https://ko.wikipedia.org/wiki/박성균 "wikilink") (만16세 1개월 14일 - 곰TV MSL Season 3)<ref>양대 방송 통틀어 최연소 우승 기록은 [박카스 스타리그 2008](https://ko.wikipedia.org/wiki/박카스_스타리그_2008 "wikilink") 에서 우승한 [이영호가](https://ko.wikipedia.org/wiki/이영호_\(프로게이머,_1992\) "wikilink") 보유하고 있다.
+
+</ref>
+
+  - **스틸 드래프트 최하위권 순번 우승** - [박성균](https://ko.wikipedia.org/wiki/박성균 "wikilink")(곰TV MSL Season 3 - 스틸드래프트 지명순번 31번이였다.)
+  - **최초 양대리그 스폰서** - [NHN](../Page/NHN.md "wikilink") ([NHN한게임배 온게임넷 스타리그 03\~04](https://ko.wikipedia.org/wiki/NHN한게임배_온게임넷_스타리그_03~04 "wikilink"), [당신은 골프왕 MSL 2004](https://ko.wikipedia.org/wiki/당신은_골프왕_MSL_2004 "wikilink"))
+  - **최장기간 MSL 스폰서** - [곰TV](https://ko.wikipedia.org/wiki/곰TV "wikilink") (곰TV MSL Season 1 \~ Season 4, 4시즌 연속 후원.)
+  - **양대 최초 단일리그 3연속 동일 대진의 결승** - [이영호](https://ko.wikipedia.org/wiki/이영호_\(1992년\) "wikilink") vs [이제동](https://ko.wikipedia.org/wiki/이제동 "wikilink") ([NATE MSL 2009](https://ko.wikipedia.org/wiki/NATE_MSL_2009 "wikilink"), [하나대투증권 MSL 2010](https://ko.wikipedia.org/wiki/하나대투증권_MSL_2010 "wikilink"), [빅파일 MSL 2010](https://ko.wikipedia.org/wiki/빅파일_MSL_2010 "wikilink"))
+  - **MSL 최다우승** [이윤열](https://ko.wikipedia.org/wiki/이윤열 "wikilink") [최연성](../Page/최연성.md "wikilink") [김택용](../Page/김택용.md "wikilink") [이영호](https://ko.wikipedia.org/wiki/이영호_\(1992년\) "wikilink")(3회 우승)\[8\]
+  - **MSL 최다준우승** [이윤열](https://ko.wikipedia.org/wiki/이윤열 "wikilink") [홍진호](https://ko.wikipedia.org/wiki/홍진호 "wikilink") [이제동](https://ko.wikipedia.org/wiki/이제동 "wikilink") (3회 준우승)
+  - **프로토스 최후의 MSL 우승** - [김택용](../Page/김택용.md "wikilink") ([클럽데이 온라인 MSL 2008](https://ko.wikipedia.org/wiki/클럽데이_온라인_MSL_2008 "wikilink"))
+  - **저그 최후의 MSL 우승** - [신동원](https://ko.wikipedia.org/wiki/신동원 "wikilink") ([피디팝 MSL 2010](https://ko.wikipedia.org/wiki/피디팝_MSL_2010 "wikilink"))
+  - **테란 최후의 MSL 우승** - [이영호](https://ko.wikipedia.org/wiki/이영호_\(1992년\) "wikilink") ([ABC마트 MSL 2011](https://ko.wikipedia.org/wiki/ABC마트_MSL_2011 "wikilink"))
+  - **최후의 MSL 우승** - [이영호](https://ko.wikipedia.org/wiki/이영호_\(1992년\) "wikilink") ([ABC마트 MSL 2011](https://ko.wikipedia.org/wiki/ABC마트_MSL_2011 "wikilink"))
+
+## MSL 경기장 및 해설자, 주관방송사
+
+### 경기장
+
+  - **2001년 KPGA 8월 투어** \~ **KTEC KPGA 위너스 챔피언십** 서울 영등포구 여의도 MBC경영지원센터 2층 A스튜디오
+  - **스타우트 MSL** \~ **프링글스 MSL 시즌1** 서울 강남구 삼성동 코엑스 세중게임월드
+  - **프링글스 MSL 시즌2** \~ **곰TV MSL 시즌4** 서울 강남구 삼성동 코엑스 히어로센터
+  - **아레나 MSL 2008** \~ **ABC마트 MSL 2011** 서울 영등포구 문래동 룩스 히어로센터
+
+파일:Saejeung.png|세중게임월드 파일:Herocenter.png|코엑스 히어로센터 파일:Lookshero.png|룩스 히어로센터
+
+### 해설자
+
+  - **2001년 KPGA 8월 투어** \~ **2001년 KPGA 12월 챔피언십**
+      - 캐스터 : [김철민](https://ko.wikipedia.org/wiki/김철민 "wikilink")
+      - 해설 : [이현주](../Page/이현주_\(방송인\).md "wikilink") 임영수
+  - **2002년 1차 KPGA** \~ **2002년 펩시트위스트배 3차 KPGA**
+      - 캐스터 : [김철민](https://ko.wikipedia.org/wiki/김철민 "wikilink")
+      - 해설 : [이승원](https://ko.wikipedia.org/wiki/이승원 "wikilink") [이현주](../Page/이현주_\(방송인\).md "wikilink")
+  - **2002년 스타우트 & 배스킨라빈스배 4차 KPGA**
+      - 엑스트라 매치
+          - 캐스터 : [김철민](https://ko.wikipedia.org/wiki/김철민 "wikilink")
+          - 해설 : [이승원](https://ko.wikipedia.org/wiki/이승원 "wikilink") 성상훈
+      - 매가 매치
+          - 캐스터 : [최상용](https://ko.wikipedia.org/wiki/최상용 "wikilink")
+          - 해설 : [이승원](https://ko.wikipedia.org/wiki/이승원 "wikilink") 이준호
+  - **KTEC KPGA 위너스 챔피언십** \~ **곰TV MSL 시즌4**
+      - 캐스터 : [김철민](https://ko.wikipedia.org/wiki/김철민 "wikilink")
+      - 해설 : [이승원](https://ko.wikipedia.org/wiki/이승원 "wikilink") [김동준](https://ko.wikipedia.org/wiki/김동준_\(방송인\) "wikilink")
+  - **아레나 MSL 2008** \~ **아발론 온라인 MSL 2009**
+      - 캐스터 : [김철민](https://ko.wikipedia.org/wiki/김철민 "wikilink")
+      - 해설 : [이승원](https://ko.wikipedia.org/wiki/이승원 "wikilink") [강민](https://ko.wikipedia.org/wiki/강민_\(프로게이머\) "wikilink")
+  - **NATE MSL 2009**
+  - 목요일 저녁 5시 30분, 토요일 저녁 5시
+      - 캐스터 : [김철민](https://ko.wikipedia.org/wiki/김철민 "wikilink")
+      - 해설 : [이승원](https://ko.wikipedia.org/wiki/이승원 "wikilink") [유대현](https://ko.wikipedia.org/wiki/유대현 "wikilink")
+  - 목요일 저녁 7시 30분
+      - 캐스터 : [박상현](https://ko.wikipedia.org/wiki/박상현_\(1981년\) "wikilink")
+      - 해설 : [정인호](https://ko.wikipedia.org/wiki/정인호 "wikilink") [임성춘](https://ko.wikipedia.org/wiki/임성춘 "wikilink")
+  - **하나대투증권 MSL 2010** \~ **빅파일 MSL 2010**
+      - 캐스터 : [김철민](https://ko.wikipedia.org/wiki/김철민_\(방송인\) "wikilink")
+      - 해설 : [이승원](https://ko.wikipedia.org/wiki/이승원 "wikilink") [한승엽](https://ko.wikipedia.org/wiki/한승엽 "wikilink")
+  - **피디팝 MSL 2010**
+      - 캐스터 : [김철민](https://ko.wikipedia.org/wiki/김철민 "wikilink")
+      - 해설 : [이승원](https://ko.wikipedia.org/wiki/이승원 "wikilink") [유대현](https://ko.wikipedia.org/wiki/유대현 "wikilink") [임성춘](https://ko.wikipedia.org/wiki/임성춘 "wikilink")
+  - **ABC마트 MSL 2011**
+      - 캐스터 : [김철민](https://ko.wikipedia.org/wiki/김철민 "wikilink")
+      - 해설 : [이승원](https://ko.wikipedia.org/wiki/이승원 "wikilink") [김동준](https://ko.wikipedia.org/wiki/김동준_\(방송인\) "wikilink")
+
+## MSL 우승자 상징
+
+  - **1회 우승** MSL 로고 은배지 (우승마다 수여)
+  - **3회 우승** [MSL 로고 금배지](https://ko.wikipedia.org/wiki/MSL_금배지 "wikilink") : [이윤열](https://ko.wikipedia.org/wiki/이윤열 "wikilink"), [최연성](../Page/최연성.md "wikilink"), [김택용](../Page/김택용.md "wikilink"), [마재윤](https://ko.wikipedia.org/wiki/마재윤 "wikilink"), [이영호](https://ko.wikipedia.org/wiki/이영호_\(1992년\) "wikilink") 수상\[9\]
+
+## 같이 보기
+
+  - [MBC 게임](../Page/MBC_게임.md "wikilink")
+  - [스타리그](https://ko.wikipedia.org/wiki/스타리그 "wikilink")
+  - [스타크래프트 프로리그](../Page/스타크래프트_프로리그.md "wikilink")
+  - [MSL 금배지](https://ko.wikipedia.org/wiki/MSL_금배지 "wikilink")
+
+## 각주
+
+[분류:MSL](https://ko.wikipedia.org/wiki/분류:MSL "wikilink") [분류:2002년 설립](https://ko.wikipedia.org/wiki/분류:2002년_설립 "wikilink")
+
+1.  [《포모스》MBC게임, 서바이버 토너먼트 진행 방식 변경](http://www.fomos.kr/board/board.php?express=서바이버&mode=read&keyno=94252&db=issue&cate=&page=16&field=)
+2.  [《포모스》서바이버 토너먼트, 원데이 듀얼토너먼트 방식으로 회귀](http://www.fomos.kr/board/board.php?express=서바이버&mode=read&keyno=99631&db=issue&cate=&page=6&field=)
+3.  개인리그에서 유일하게 7전 4선승제로 결승이 진행 되었다.
+4.  스폰서가 붙은 맵 이름은 '_스폰서' 또는 '스폰서_'로 표시(단 그대회 에서만 스폰서가 붙어서 사용되며, 다음시즌에 사용되는 경우엔 스폰서가 붙지 않는 경우도 있다.)
+5.  2인용으로 수정
+6.  Indian Lament를 지상맵으로 바꿈
+7.  원래 최초의 저그 3회 우승은 마재윤이 했으나, 승부조작 사건으로 우승자 명단에서 모두 삭제당하고 말았다.
+8.  마재윤도 MSL 3회 우승을 차지했으나, 승부조작 사건으로 우승자 명단에서 모두 삭제당하고 말았다.
+9.  마재윤 역시 금배지를 수상하였지만 승부조작 사건으로 무효처리 되었다.

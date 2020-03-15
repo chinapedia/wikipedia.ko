@@ -1,0 +1,40 @@
+> This article is converted from Wikipedia: [BS](https://ko.wikipedia.org/wiki/BS).
+
+
+**BS후지**는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 민영방송국 [후지 TV의](https://ko.wikipedia.org/wiki/후지_TV "wikilink") BS위탁방송 사업자이다.
+
+## 연혁
+
+  - [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") [12월 15일](https://ko.wikipedia.org/wiki/12월_15일 "wikilink") - 주식회사 BS후지 설립.
+  - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [12월 1일](https://ko.wikipedia.org/wiki/12월_1일 "wikilink") - 오전 11시에 본방송 개시.
+  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [1월](https://ko.wikipedia.org/wiki/1월 "wikilink") - 민방계열 BS디지털 방송국으로서는 첫 번째로 단월 흑자 달성.
+  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink") - 2006년도 결산에서 민방계열 BS디지털 방송국으로서는 [BS JAPAN과](https://ko.wikipedia.org/wiki/BS_JAPAN "wikilink") 함께 첫 번째로 연간 결산 흑자를 달성한다.
+  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [12월 3일](https://ko.wikipedia.org/wiki/12월_3일 "wikilink") - 풀 스펙(1920 X 1080)에 의한 하이비전 방송을 개시.
+  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [1월 29일](https://ko.wikipedia.org/wiki/1월_29일 "wikilink") - 방송 해상도가 1440×1080으로 하락.
+
+## 채널 내역
+
+### 텔레비전 방송
+
+  - BS181 - 183ch을 할당받았으며 2007년 12월 1일 182ch와 183ch을 완전히 사용하기 시작했음에도 멀티편성을 하지 않고 있다.또한 임시 방송용으로 188ch와 189ch를 할당받았지만 모두 사용하고 있지 않다. 리모콘 키 ID는 **8**.
+
+### 라디오 방송
+
+  - BS488, 489 ch(다만 프로그램은 자사 제작 프로그램이 아니다)를 할당받았고 [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [12월 1일](https://ko.wikipedia.org/wiki/12월_1일 "wikilink") 개국과 동시에 방송을 시작했다.
+      - BS 488ch는 [닛폰방송](https://ko.wikipedia.org/wiki/닛폰방송 "wikilink")제작 「LFX488」로서 인터넷 방송도 하는 심야 생방송 와이드 프로나 1시간 전체를 청취자에 의한 선곡으로 꾸미는 프로그램 등을, BS489ch는 [분카 방송제작](../Page/분카_방송.md "wikilink") 「BSQR489」로서 특히 밤은 애니메이션과 게임 관련 프로그램을 중심으로 편성해 왔지만 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink") 종료했다.
+
+### 독립 데이터 방송
+
+  - BS780, 781ch를 할당받았지만 781에서는 방송하지 않았다. 그리고 780ch는 BS후지의 데이터 방송으로서 할당받았지만 BS181에서 데이터방송 버튼을 누르고 일기 예보＆뉴스를 선택하지 않으면 데이터 화면이 나타나지 않는다.
+
+## 보충 서술
+
+  - 제공 크레딧은 일반적으로 화면 상단에 표시되는 "제공"의 문자가 아니라 단지 스폰서 명의만이 표시된다. 이 방식은 후지 TV에서 2011년 7월 1일부터 23일까지 채용되고 있었다 (아날로그 방송 종료까지의 날짜 카운트 다운을 표시하기 위해).
+  - 간사이 TV의 제작 프로그램은 방송국 제작 다른 프로그램의 CM이 많이 방영된다 (BS 후지에서 방영되지 않는 프로그램도 포함). 예전에는 방송국이 운영하는 간사이 ☆ 교토 채널 CM도 흘러가고 있었다(2009 년 4월 30일 폐국).
+  - 긴급 지진 속보(지역 무관)가 발표되었을 때는 종소리와 함께 화면 하단 중앙에 메시지가 표시된다. 이것은 후지 TV의 송출 마스터가 소유한 모든 채널에 대해 일체적으로 운용되고 있기 때문이다. 또한 종소리는 NHK와 같다.
+
+## 외부 링크
+
+  - [BS후지 공식 사이트](http://www.bsfuji.tv/top/)
+
+[분류:일본의 위성방송국](https://ko.wikipedia.org/wiki/분류:일본의_위성방송국 "wikilink") [분류:2000년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2000년_설립된_텔레비전_방송국과_채널 "wikilink") [분류:후지 TV](https://ko.wikipedia.org/wiki/분류:후지_TV "wikilink")

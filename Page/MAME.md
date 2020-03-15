@@ -1,0 +1,76 @@
+> This article is converted from Wikipedia: [MAME](https://ko.wikipedia.org/wiki/MAME).
+
+
+**MAME**(, 다중 아케이드 기계 에뮬레이터)는 [아케이드 게임](https://ko.wikipedia.org/wiki/아케이드_게임 "wikilink") [에뮬레이터](../Page/에뮬레이터.md "wikilink")로서 아케이드 게임 시스템의 [하드웨어](https://ko.wikipedia.org/wiki/하드웨어 "wikilink")를 [소프트웨어](https://ko.wikipedia.org/wiki/소프트웨어 "wikilink")로 구현하고 있다. 이는 고전 게임을 보존하자는 의도에서 시작된 프로젝트이다.
+
+한국에서는 원작자인 니콜라 살모리아(Nicola Salmoria)의 의견에 따라 MAME를 “마메”로 읽고 표기하는 것이 일반적이다. “마메”는 MAME의 이태리식 발음을 음차한 것이며, 영어식으로는 “**메임**”이 된다.\[1\] 한국에서 마메는 PC통신 나우누리의 PGF(순수 게임 사랑) 동호회를 통해 처음 소개되었고, 이후 PGF(순수 게임 사랑) 동호회 내의 ELF(Emul Love Forum)을 통해 널리 알려졌다.
+
+1997년 2월 5일, 니콜라 살모리아(Nicola Salmoria)가 최초의 MAME를 공개했으며 버전은 0.1이었다. 2010년 10월 21일에 발표된 0.140 버전에서는 4510개의 게임과 9012개의 [롬](https://ko.wikipedia.org/wiki/롬 "wikilink") 이미지를 지원하며, 지원되는 게임은 계속 늘어나고 있다. 그러나 배포된 모든 롬이 실행 가능한 것은 아니다. 가령 0.140 버전에서는 1391개의 롬이 동작하지 않는 것으로 나오며, 53개는 게임이 아닌 BIOS 롬이다. 이 프로젝트는 현재 MESS의 프로젝트 리더인 Miodrag Milanovic이 관리하고 있다.
+
+## 역사와 개요
+
+이 프로젝트는 이탈리아인 프로그래머인 니콜라 살모리아가 시작하였다. MAME의 근원은 Multi-Pac이라고 불리는 초창기 에뮬레이터 프로젝트까지 이어지지만, 점점 더 많은 게임들이 MAME 프레임워크 안에서 에뮬레이트되기 시작하면서 이름이 바뀌게 되었다. 1997년 4월 살모리아는 군복무로 인해 물러나고 반년 정도의 기간동안 프로젝트의 관리를 동료 이탈리아인 Mirko Buffoni에게 맡기었다. 2003년 5월 부터 프로젝트는 Aaron Giles가 지휘하게 되었고, 2011년 5월부터는 Angelo Salese가 새로운 조정자로 대신하게 되었다. 이 프로젝트는 전 세계 수백명의 개발자들과 수천명의 외부 공헌자들이 지원하고 있다.
+
+처음에는 MAME는 MS-DOS만을 위해 개발되었지만 곧 Unix-like 시스템(X/MAME), 매킨토시(MacMAME와 좀 더 나중에는 MAME OS X)와 윈도(MAME32)로 포팅되었다. 현재 주요 개발은 윈도 플랫폼에서 한 뒤 대부분의 다른 플랫폼들은 SDLMAME 프로젝트를 통해 지원하는 방식이었으나, 최근에 들어서는 메인 개발 소스 트리에 통합되었다. 그에 더하여, 여러 버전의 MAME들은 다른 컴퓨터, 게임 콘솔, 모바일폰과 PDA, 심지어는 디지털 카메라\[2\]에 까지도 포팅되었다. 2012년, [Google](https://ko.wikipedia.org/wiki/Google "wikilink")에서는 MAME를 [Chrome에서](https://ko.wikipedia.org/wiki/Google_Chrome "wikilink") 실행될 수 있도록 [구글 네이티브 클라이언트로](https://ko.wikipedia.org/wiki/구글_네이티브_클라이언트 "wikilink") 포팅하였다.\[3\]
+
+주요 배포는 거의 한달에 한번꼴로 이루어진다. 윈도 실행파일은 32bit와 64bit 모두 완전한 소스 코드와 함께 개발팀의 공식 웹사이트에서 배포된다. 좀 더 작은, 증분 "u"(업데이트) 배포는 개발자들 사이의 코드를 동기화 하기 위해 주단위로 가장 최근 주요 버전에 대한 소스 차이점(diffs)만을 배포한다. 최신 MAME 소스 코드는 원하는 사람들이 누구나 접근할 수 있도록 공개 mess.org [서브버전](https://ko.wikipedia.org/wiki/서브버전 "wikilink") 서버에 저장된다. 이것은 [컴파일러](https://ko.wikipedia.org/wiki/컴파일러 "wikilink") 도구를 사용할 수 있고 소스코드에서 소프트웨어를 빌드하는데 거리낌이 없는 사람들을 위한 것이다.
+
+MAME의 아키텍처는 해를 거듭하면서 광범위하게 개선되었다. 다중 CPU들과 사운드 칩은 물론이고 [래스터](https://ko.wikipedia.org/wiki/래스터 "wikilink")와 벡터 화면을 위한 지원들이 프로젝트의 첫 6개월내에 MAME에 포함되었다. 여러 가지의 에뮬레이트된 CPU 코어들 사이의 동기화를 조직화할 유연한 타이머 시스템이 구현되었고, ROM 이미지들은 [ZIP 파일에서](../Page/ZIP_\(파일_포맷\).md "wikilink") [CRC32](https://ko.wikipedia.org/wiki/순환_중복_검사 "wikilink") 해쉬에 따라 로드되는 방식이 시작되었다.
+
+MAME는 다양한 CPU(M6809에서 파생된 새로운 명령어 셋을 가진[코나미](https://ko.wikipedia.org/wiki/코나미 "wikilink")CPU 같은)와 사운드 칩(예를 들면 야마하 FM 사운드 칩)등 문서화되지 않은 많은 시스템 아키텍처들의 리버스 엔지니어링을 개척해 나갔다. 또한 MAME 개발자들은 아케이드 게임에 쓰인 많은 상용 암호 알고리즘들의 리버스 엔지니어링에서 중요한 역할을 맡아왔다. 예를 들자면 [네오지오](https://ko.wikipedia.org/wiki/네오지오 "wikilink"), CP System II, CP System IIII등이 있다.
+
+MAME가 등장한 이래 열성가들이 오래된 게임들을 재현하기 위해 자신들만의 비디오 게임 아케이드 캐비넷을 만들거나, 몇몇 회사들이 불법 MAME 수정본을 만들어 게임장에 설치하는 등 인기를 끌게 되었다. 캐비넷은 아예 새로 만들던지 한때 진짜 하드웨어가 내장되어 있던 진품 아케이드 게임 캐비넷을 분해한 뒤 손봐서 만들기도 한다.\[4\]\[5\] 고전 아케이드 게임들을 본딴 캐비넷들(MAME가 미리 설치된 PC도 선택사양)을 구매하여 조립할 수 도 있다.\[6\]
+
+MAME자체는 기본적인 사용자 인터페이스만을 갖추고 있기 때문에 MAME를 아케이드 게임 캐비넷이나 [홈 시어터 PC등에서](../Page/홈_시어터_PC.md "wikilink") 사용하려면 좀 더 발전된 사용자 인터페이스를 갖춘 *프론트 엔드*라는 특별한 실행기가 필요하다. 프론트 엔드는 다양한 종류의 사용자 정의가 가능하여 캐비넷의 이미지, 게임의 역사, 게임 조작팁등은 물론 게임 플레이 비디오나 *데모 모드(attract mode)*를 볼 수도 있다.
+
+MAME에 담긴 정보들은 무료로 재사용 가능하여, 옛 고전 게임들을 현대 시스템에서 재창조할 때 게임 회사들에서 MAME를 활용한다는 경우도 많다. 어떤 회사들은 더 나아가, MAME 개발자들을 고용해 자신들의 옛 게임들에 대한 에뮬레이터를 만들기도 한다. 이런 한 예로는 *[위키백과:Taito Legends](https://ko.wikipedia.org/wiki/위키백과:Taito_Legends "wikilink")* 팩이 있다.\[7\]
+
+## 디자인
+
+MAME의 중심부는 동시에 여러 요소들의 에뮬레이션을 조정한다. 이 요소들은 원래의 아케이드 기계들안에 있던 하드웨어들의 동작을 그대로 모사한다. MAME는 서로 다른 여러 종류의 [중앙 처리 장치](https://ko.wikipedia.org/wiki/중앙_처리_장치 "wikilink") (CPU)들과 그에 관련된 하드웨어들을 에뮬레이트 할 수 있다. 이 요소들은 가상화되어 원래의 게임의 프로그램과 동작하는 플랫폼 사이에서 MAME가 소프트웨어 계층으로 동작할 수 있도록 한다. MAME는 임의의 화면 해상도, 리프레시 비율과 디스플레이 설정, 다중 에뮬레이트된 모니터 (예를 들자면 [위키백과:Darius (video game)등에서](https://ko.wikipedia.org/wiki/위키백과:Darius_\(video_game\) "wikilink") 요구하는) 등도 지원한다.
+
+각각의 아케이드 시스템들은 [C 매크로의](https://ko.wikipedia.org/wiki/매크로_\(컴퓨터_과학\) "wikilink") 형태를 가지는 드라이버들로 명시한다. 이 드라이버들은 에뮬레이트할 각각의 요소들과 그들이 어떻게 서로 통신할 것인지를 명시한다. MAME는 처음에는 [C로](https://ko.wikipedia.org/wiki/C_\(프로그래밍_언어\) "wikilink") 쓰여졌지만, [객체 지향 프로그래밍의](https://ko.wikipedia.org/wiki/객체_지향_프로그래밍 "wikilink") 필요성으로 인해 개발팀은 MAME 0.136부터 모든 코드를 [C++](https://ko.wikipedia.org/wiki/C++ "wikilink")로 컴파일하기 시작하여 C++의 추가 기능의 이점을 활용하게 되었다.
+
+CPU 에뮬레이션의 핵심 거의 대부분은 [인터프리터](https://ko.wikipedia.org/wiki/인터프리터 "wikilink")로 동작하지만, MAME는 에뮬레이션 속도를 높이기 위해 Universal Machine Language (UML) 라는 중간 언어를 통해 [동적 재컴파일을](https://ko.wikipedia.org/wiki/위키백과:dynamic_recompilation "wikilink") 지원한다. [백엔드](https://ko.wikipedia.org/wiki/백엔드 "wikilink")가 지원하는 대상은 x86과 x64이다. C로 만들어진 백엔드도 추가적인 검증과 수정을 위해 제공된다. 이런 방식으로 에뮬레이트되는 CPU들은 SH-2, MIPS R3000과 PowerPC등이 있다.
+
+### 게임 데이터
+
+게임이 에뮬레이트되기 위해서는 원래의 프로그램 코드와 그래픽과 음향 데이터가 존재하여야 한다. 대부분의 아케이드 기계에서는 이 데이터들이 [고정 기억 장치](https://ko.wikipedia.org/wiki/고정_기억_장치 "wikilink")(ROM)에 저장되지만, [콤팩트 카세트](../Page/콤팩트_카세트.md "wikilink"), [플로피 디스크](https://ko.wikipedia.org/wiki/플로피_디스크 "wikilink"), [하드 디스크](https://ko.wikipedia.org/wiki/하드_디스크 "wikilink"), [레이저디스크](../Page/레이저디스크.md "wikilink"), [콤팩트 디스크](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink") 과 같은 다른 장치도 쓰이곤 한다. 이들 장치의 내용들은 "덤핑"이라는 과정을 통해 컴퓨터 파일들로 복사할 수 있다. 결과물인 파일들은 어느 저장장치에서 유래했든지 상관없이 흔히 [ROM 이미지나](https://ko.wikipedia.org/wiki/위키백과:ROM_image "wikilink") ROM이라고 부른다. 게임은 보통 여러개의 ROM과 [프로그래머블 어레이 논리](../Page/프로그래머블_어레이_논리.md "wikilink") 이미지들로 구성되어 있고 이것들은 단일 [ZIP 파일안에](../Page/ZIP_\(파일_포맷\).md "wikilink") 저장되어 ROM 세트를 구성한다. 게임의 롬 구성은 기준이 되는 "부모" ROM 세트 (보통 게임의 가장 최신의 "전 세계" 버전으로 선택한다.)에 더하여 다른 프로그램 코드, 다른 시장을 위한 언어 텍스트등이 담긴 "복제" 롬 세트를 가지기도 한다. 예를 들자면, *[스트리트 파이터 2 터보](https://ko.wikipedia.org/wiki/스트리트_파이터_2_터보 "wikilink")*는 *스트리트 파이터 2*의 변종으로 여긴다. [네오 지오같은](https://ko.wikipedia.org/wiki/네오_지오_\(콘솔\) "wikilink") 시스템 보드들은 여러 게임에 걸쳐 공유되는 ROM들을 가지고 있고 이 ROM들은 "BIOS" ROM 세트에 적절한 이름으로 저장되어 있어야 한다.
+
+하드 디스크, 컴팩트 디스크, 레이저 디스크에서 추출한 데이터들은 CHD (Compressed Hunks of Data - 압축된 데이터 덩어리)라는 MAME 전용 포맷으로 저장된다.\[8\] 몇몇 아케이드 기계들은 레이저 디스크 같은 아날로그 하드웨어를 사용하여 사운드트랙이나 영상 같은 오디오/비디오 데이터를 저장하고 플레이한다. 이 데이터들은 캡처하여 MAME가 읽을 수 있는 디지털 파일들로 인코딩하여야 한다. MAME는 아케이드 체험을 완벽히 재현하기 위해서 필요한 외부 아날로그 장치(원래 아케이드에서 사용되었던 스피커나 스피커 인클로져등도)의 사용을 지원하지 않는다. 몇 몇 게임들은 아직 에뮬레이션에 성공하지 못한 사운드 칩을 사용하는 경우도 있다. 이들 게임들은 음향 에뮬레이션을 위해 WAV 파일 포맷의 음향 샘플들이 필요하다. MAME는 추가적으로 아케이드 기계에 있던 테두리와 오버레이 그래픽을 위한 아트웍 파일도 [PNG](https://ko.wikipedia.org/wiki/PNG "wikilink") 파일 포맷으로 지원한다.
+
+## 법적인 문제
+
+에뮬레이터를 제작하고 배포하는 것은 원칙적으로 가능하다. 몇몇 회사(가령 [소니](https://ko.wikipedia.org/wiki/소니 "wikilink"))들이 이를 금지하고 소송을 걸려고 노력하였으나, 궁극적으로는 실패했다.
+
+그러나 게임 이미지, 즉 게임 롬 파일을 배포하는 것은 문제가 있을 수 있다. 게임들이 제작되고 판매된 지 어느 정도 시간이 지났고, 지금은 게임센터에서 찾을 수 없는 게임이거나 판매되지 않는 게임이라 할지라도 저작권이 소멸하지 않은 경우가 많다. 몇몇 게임 회사는 시간이 지난 게임 롬 파일을 비상업적인 용도에 한정하여 공개하는 경우도 있고 이 경우에는 MAME 프로젝트 홈페이지에서 직접 내려받을 수도 있다.[1](http://www.mamedev.org/roms/)
+
+## MAME 라이선스
+
+MAME는 소스 코드까지 포함해 무료로 제공되고 있지만, 상업적 사용과 재배포는 제한되어 있어서 [자유 소프트웨어는](https://ko.wikipedia.org/wiki/자유_소프트웨어 "wikilink") 아니다. 즉, [공개 소스 정의의](https://ko.wikipedia.org/wiki/공개_소스_정의 "wikilink") 조건을 만족하지 않으며, [자유 소프트웨어 재단에서](https://ko.wikipedia.org/wiki/자유_소프트웨어_재단 "wikilink") 정의한 "자유 소프트웨어"에도 맞지 않는다.
+
+사실, MAME는 수정되었든 수정되지 않았든, 소스 형식이든 이진 파일 형식이든 상관없이 배포가 가능하다. 다만 재배포판을 팔아서는 안 되고 상업적인 상품이나 활동에 포함되어서도 안 된다.
+
+## 같이 보기
+
+  - [아케이드 게임](https://ko.wikipedia.org/wiki/아케이드_게임 "wikilink")
+
+## 각주
+
+<references/>
+
+## 외부 링크
+
+  - [공식 웹사이트](http://www.mamedev.org/)
+  - [MAMEworld](http://www.mameworld.info/net/) MAME 관련 자료 및 소식
+
+[분류:1997년 소프트웨어](https://ko.wikipedia.org/wiki/분류:1997년_소프트웨어 "wikilink") [분류:크로스 플랫폼 소프트웨어](https://ko.wikipedia.org/wiki/분류:크로스_플랫폼_소프트웨어 "wikilink") [분류:리눅스 에뮬레이션 소프트웨어](https://ko.wikipedia.org/wiki/분류:리눅스_에뮬레이션_소프트웨어 "wikilink") [분류:플레이스테이션 에뮬레이터](https://ko.wikipedia.org/wiki/분류:플레이스테이션_에뮬레이터 "wikilink") [분류:윈도우 에뮬레이션 소프트웨어](https://ko.wikipedia.org/wiki/분류:윈도우_에뮬레이션_소프트웨어 "wikilink")
+
+1.  pronounced 'Maim' in English [VG-Network](http://www.vg-network.com/mame/)
+2.
+3.
+4.
+5.
+6.
+7.
+8.

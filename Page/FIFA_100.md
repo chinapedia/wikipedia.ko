@@ -1,0 +1,397 @@
+> This article is converted from Wikipedia: [FIFA 100](https://ko.wikipedia.org/wiki/FIFA_100).
+
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:pele.jpg "wikilink") **FIFA 100**은 세계에서 가장 유명한 공격수인 [펠레](https://ko.wikipedia.org/wiki/펠레 "wikilink")가 선택한 현존하는 최고의 축구 선수 125명에 관한 목록이다. [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [3월 4일](https://ko.wikipedia.org/wiki/3월_4일 "wikilink") [영국](https://ko.wikipedia.org/wiki/영국 "wikilink") [런던](https://ko.wikipedia.org/wiki/런던 "wikilink")에 열린 [FIFA](https://ko.wikipedia.org/wiki/FIFA "wikilink")의 창립 100주년 기념 행사의 일환으로서 공개되었다. 숫자 100은 FIFA 100주년 기념을 말하는 것이며 리스트에 있는 선수 숫자를 말하는 것이 아니다. [펠레](https://ko.wikipedia.org/wiki/펠레 "wikilink")는 50명의 현역 선수와 50명의 은퇴한 선수, 총합 100명의 선수를 선택하라는 요청을 받은 적이 있었으나, 딱 50명만을 고른다는 게 그에게는 꽤 힘든 일이었다.\[1\]
+
+이 리스트는 123명의 남자 선수들과 2명의 여자 선수들을 포함하고 있다. FIFA 100이 선정되던 시기에 50명의 선수들은 그 당시에 활동하고 있던 선수들이었고 나머지 75명의 선수들은 현역에서 은퇴한 선수들이었다. 한 가지 특이한 점은 펠레는 자신과 같은 시대에 활동했던 비슷한 포지션(공격수)의 선수인 [가힌샤](https://ko.wikipedia.org/wiki/가힌샤 "wikilink")와 [마리우 자갈루를](../Page/마리우_자갈루.md "wikilink") 제외시켰다. 특히 당대 펠레에 버금가는 실력을 자랑한 가힌샤를 제외시킨 것은 많은 축구팬들이 지금도 의아해 하고 있다.
+
+FIFA는 세계 곳곳에서 이들 125인의 모습을 담은 사진전을 가졌다.\[2\]
+
+## 비판
+
+일부 축구 전문가들은 리스트 선택 방법에 의문을 제기했다. 전직 정치인이며 축구 학자로 돌아선 데이비드 멜러는 이브닝 스탠더드에 실린 그의 칼럼에서 이 리스트의 축구 선수들이 순수하게 그라운드에서의 축구 실력으로 선택되었다기보다는 정치적 요인이 작용한 듯한 느낌을 받는다고 했다.\[3\] 그는 이 선택이 마치 축구 선수들이 펠레의 펜보다는 [제프 블라터](https://ko.wikipedia.org/wiki/제프_블라터 "wikilink") FIFA 회장의 펜에서 온 것처럼 보인다고 말했다. 멜러는 이를 뒷받침하는 증거로 아시아와 아프리카 등 지리적으로 널리 알려진 선택된 축구 선수들의 분포를 가리켰다. 실력에 따른 실질적인 축구 선수 선정은 좀 더 남아메리카와 유럽에 중점을 두어야 한다고 주장했다. 이와 같은 주장이 [BBC](https://ko.wikipedia.org/wiki/BBC "wikilink") 칼럼니스트 팀 비커리에 의해서도 제기되었다.\[4\] 하지만 이러한 입장에 대해 이 리스트는 이 리스트에 한 명도 배출하지 못한 국가들의 입장을 반영하지 못했다는 반론도 있다.\[5\]
+
+한편 펠레의 많은 동료들은 브라질 출신의 축구 선수들이 많이 배제된 선정에 대해 동의하기 힘들다는 입장을 많이 표명했다.\[6\] 특히 이전 [브라질 대표팀](https://ko.wikipedia.org/wiki/브라질_축구_국가대표팀 "wikilink") 미드필더이자 펠레의 오래된 팀 동료 중 한 명이었던 제르송은 펠레가 선정한 FIFA 100에서 자신이 탈락한 것에 격분해 브라질 텔레비전 프로그램에서 FIFA 100 명단이 적힌 종이를 갈기갈기 찢는 반응을 보였다.\[7\] 이에 따라 원래 100명을 뽑으려던 계획이 125명으로 수정되었다. 하지만 이 또한 지나치게 펠레가 자신의 조국인 브라질을 의식한 행동이었다는 비판이 있다.\[8\]
+
+그 밖에도 당시 생존해 있던 축구 선수 위주로 문서를 작성한 나머지 오히려 커리어가 완전히 쌓이지 않은 젊은 축구 선수들까지 무리하게 집어넣었다는 비판도 있다.\[9\] [마르코 판 바스턴과](https://ko.wikipedia.org/wiki/마르코_판_바스턴 "wikilink") [우베 젤러는](https://ko.wikipedia.org/wiki/우베_젤러 "wikilink") 본인의 원칙에 따라 이 프로젝트의 참가를 거절했다.\[10\]
+
+더군다나 FIFA 100은 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 3월에 선정된 탓에 FIFA 100에 선정된 상당수의 축구 선수들보다 훨씬 뛰어난 축구 선수로 평가받고 있는 [리오넬 메시나](https://ko.wikipedia.org/wiki/리오넬_메시 "wikilink") [크리스티아누 호날두와](https://ko.wikipedia.org/wiki/크리스티아누_호날두 "wikilink") 같은 최고의 축구 선수들이 선정되지 못했다. 또한 2004년 3월 선정 당시에 생존해 있던 축구 선수들만을 기준으로 했기 때문에 1990년에 사망한 [레프 야신](https://ko.wikipedia.org/wiki/레프_야신 "wikilink") 등 이미 고인이 된 최고의 축구 선수들이 선정되지 못했다. 게다가 2002년 FIFA 월드컵에서 많은 골을 넣어 갑자기 유명세를 탔던 [미로슬라프 클로제](https://ko.wikipedia.org/wiki/미로슬라프_클로제 "wikilink") 역시 FIFA 100에서 제외되어 논란을 일으키고 있다.
+
+## 목록
+
+아래는 펠레가 지명한 현존하는 최고의 축구 선수들은 담은 FIFA 100 선수 목록이다.
+
+  - FIFA 100 발표 당시 활동하고 있던 선수들은 (\*)로 표시했다.
+  - 현재도 활동하고 있는 선수들은 이탤릭체로 표시했다.
+
+###
+
+| 선수                                                        | 포지션                                                | 생년월일                                                                                                              |
+| --------------------------------------------------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| [아베디 펠레](https://ko.wikipedia.org/wiki/아베디_펠레 "wikilink") | [FW](https://ko.wikipedia.org/wiki/공격수 "wikilink") | [1964년](https://ko.wikipedia.org/wiki/1964년 "wikilink") [11월 5일](https://ko.wikipedia.org/wiki/11월_5일 "wikilink") |
+|                                                           |                                                    |                                                                                                                   |
+
+###
+
+| 선수                                                              | 포지션 | 생년월일                                                                                                              |
+| --------------------------------------------------------------- | --- | ----------------------------------------------------------------------------------------------------------------- |
+| [제이제이 오코차](https://ko.wikipedia.org/wiki/제이제이_오코차 "wikilink")\* | MF  | [1973년](https://ko.wikipedia.org/wiki/1973년 "wikilink") [8월 14일](https://ko.wikipedia.org/wiki/8월_14일 "wikilink") |
+|                                                                 |     |                                                                                                                   |
+
+###
+
+| 선수                                                                    | 포지션 | 생년월일                                                                                                                |
+| --------------------------------------------------------------------- | --- | ------------------------------------------------------------------------------------------------------------------- |
+| [마르코 판 바스턴](https://ko.wikipedia.org/wiki/마르코_판_바스턴 "wikilink")       | FW  | [1964년](https://ko.wikipedia.org/wiki/1964년 "wikilink") [10월 31일](https://ko.wikipedia.org/wiki/10월_31일 "wikilink") |
+| [데니스 베르흐캄프](https://ko.wikipedia.org/wiki/데니스_베르흐캄프 "wikilink")\*     | FW  | [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink") [5월 10일](https://ko.wikipedia.org/wiki/5월_10일 "wikilink")   |
+| [요한 크라위프](https://ko.wikipedia.org/wiki/요한_크라위프 "wikilink")           | FW  | [1947년](https://ko.wikipedia.org/wiki/1947년 "wikilink") [4월 25일](https://ko.wikipedia.org/wiki/4월_25일 "wikilink")   |
+| [엣하르 다비츠](https://ko.wikipedia.org/wiki/엣하르_다비츠 "wikilink")\*         | MF  | [1973년](https://ko.wikipedia.org/wiki/1973년 "wikilink") [3월 13일](https://ko.wikipedia.org/wiki/3월_13일 "wikilink")   |
+| [뤼트 휠릿](https://ko.wikipedia.org/wiki/뤼트_휠릿 "wikilink")               | MF  | [1962년](https://ko.wikipedia.org/wiki/1962년 "wikilink") [9월 1일](https://ko.wikipedia.org/wiki/9월_1일 "wikilink")     |
+| [레네 판 더 케르크호프](https://ko.wikipedia.org/wiki/레네_판_더_케르크호프 "wikilink") | MF  | [1951년](https://ko.wikipedia.org/wiki/1951년 "wikilink") [9월 16일](https://ko.wikipedia.org/wiki/9월_16일 "wikilink")   |
+| [빌리 판 더 케르크호프](https://ko.wikipedia.org/wiki/빌리_판_더_케르크호프 "wikilink") | MF  | [1951년](https://ko.wikipedia.org/wiki/1951년 "wikilink") [9월 16일](https://ko.wikipedia.org/wiki/9월_16일 "wikilink")   |
+| [파트릭 클라위버르트](https://ko.wikipedia.org/wiki/파트릭_클라위버르트 "wikilink")\*   | FW  | [1976년](https://ko.wikipedia.org/wiki/1976년 "wikilink") [7월 1일](https://ko.wikipedia.org/wiki/7월_1일 "wikilink")     |
+| [요한 네이스컨스](https://ko.wikipedia.org/wiki/요한_네이스컨스 "wikilink")         | MF  | [1951년](https://ko.wikipedia.org/wiki/1951년 "wikilink") [9월 15일](https://ko.wikipedia.org/wiki/9월_15일 "wikilink")   |
+| [뤼트 판 니스텔로이](https://ko.wikipedia.org/wiki/뤼트_판_니스텔로이 "wikilink")\*   | FW  | [1976년](https://ko.wikipedia.org/wiki/1976년 "wikilink") [7월 1일](https://ko.wikipedia.org/wiki/7월_1일 "wikilink")     |
+| [로프 렌센브링크](https://ko.wikipedia.org/wiki/로프_렌센브링크 "wikilink")         | FW  | [1947년](https://ko.wikipedia.org/wiki/1947년 "wikilink") [7월 3일](https://ko.wikipedia.org/wiki/7월_3일 "wikilink")     |
+| [프랑크 레이카르트](https://ko.wikipedia.org/wiki/프랑크_레이카르트 "wikilink")       | MF  | [1962년](https://ko.wikipedia.org/wiki/1962년 "wikilink") [9월 30일](https://ko.wikipedia.org/wiki/9월_30일 "wikilink")   |
+| [클라렌서 세이도르프](../Page/클라렌서_세이도르프.md "wikilink")\*                      | MF  | [1976년](https://ko.wikipedia.org/wiki/1976년 "wikilink") [4월 1일](https://ko.wikipedia.org/wiki/4월_1일 "wikilink")     |
+|                                                                       |     |                                                                                                                     |
+
+###
+
+| 선수                                                    | 포지션 | 생년월일                                                                                                              |
+| ----------------------------------------------------- | --- | ----------------------------------------------------------------------------------------------------------------- |
+| [홍명보](https://ko.wikipedia.org/wiki/홍명보 "wikilink")\* | DF  | [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink") [2월 12일](https://ko.wikipedia.org/wiki/2월_12일 "wikilink") |
+|                                                       |     |                                                                                                                   |
+
+###
+
+| 선수                                                              | 포지션 | 생년월일                                                                                                                |
+| --------------------------------------------------------------- | --- | ------------------------------------------------------------------------------------------------------------------- |
+| [브리안 라우드루프](https://ko.wikipedia.org/wiki/브리안_라우드루프 "wikilink") | FW  | [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink") [2월 22일](https://ko.wikipedia.org/wiki/2월_22일 "wikilink")   |
+| [미카엘 라우드루프](https://ko.wikipedia.org/wiki/미카엘_라우드루프 "wikilink") | MF  | [1964년](https://ko.wikipedia.org/wiki/1964년 "wikilink") [6월 15일](https://ko.wikipedia.org/wiki/6월_15일 "wikilink")   |
+| [페테르 슈마이켈](https://ko.wikipedia.org/wiki/페테르_슈마이켈 "wikilink")   | GK  | [1963년](https://ko.wikipedia.org/wiki/1963년 "wikilink") [11월 18일](https://ko.wikipedia.org/wiki/11월_18일 "wikilink") |
+|                                                                 |     |                                                                                                                     |
+
+###
+
+| 선수                                                                | 포지션 | 생년월일                                                                                                              |
+| ----------------------------------------------------------------- | --- | ----------------------------------------------------------------------------------------------------------------- |
+| [미하엘 발라크](https://ko.wikipedia.org/wiki/미하엘_발라크 "wikilink")\*     | MF  | [1976년](https://ko.wikipedia.org/wiki/1976년 "wikilink") [9월 26일](https://ko.wikipedia.org/wiki/9월_26일 "wikilink") |
+| [프란츠 베켄바워](https://ko.wikipedia.org/wiki/프란츠_베켄바워 "wikilink")     | SW  | [1945년](https://ko.wikipedia.org/wiki/1945년 "wikilink") [9월 11일](https://ko.wikipedia.org/wiki/9월_11일 "wikilink") |
+| [파울 브라이트너](https://ko.wikipedia.org/wiki/파울_브라이트너 "wikilink")     | MF  | [1951년](https://ko.wikipedia.org/wiki/1951년 "wikilink") [9월 5일](https://ko.wikipedia.org/wiki/9월_5일 "wikilink")   |
+| [올리버 칸](https://ko.wikipedia.org/wiki/올리버_칸 "wikilink")\*         | GK  | [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink") [6월 15일](https://ko.wikipedia.org/wiki/6월_15일 "wikilink") |
+| [위르겐 클린스만](https://ko.wikipedia.org/wiki/위르겐_클린스만 "wikilink")     | FW  | [1964년](https://ko.wikipedia.org/wiki/1964년 "wikilink") [7월 30일](https://ko.wikipedia.org/wiki/7월_30일 "wikilink") |
+| [제프 마이어](https://ko.wikipedia.org/wiki/제프_마이어 "wikilink")         | GK  | [1944년](https://ko.wikipedia.org/wiki/1944년 "wikilink") [2월 28일](https://ko.wikipedia.org/wiki/2월_28일 "wikilink") |
+| [로타어 마테우스](https://ko.wikipedia.org/wiki/로타어_마테우스 "wikilink")     | MF  | [1961년](https://ko.wikipedia.org/wiki/1961년 "wikilink") [3월 21일](https://ko.wikipedia.org/wiki/3월_21일 "wikilink") |
+| [게르트 뮐러](https://ko.wikipedia.org/wiki/게르트_뮐러 "wikilink")         | FW  | [1945년](https://ko.wikipedia.org/wiki/1945년 "wikilink") [11월 3일](https://ko.wikipedia.org/wiki/11월_3일 "wikilink") |
+| [카를하인츠 루메니게](https://ko.wikipedia.org/wiki/카를하인츠_루메니게 "wikilink") | FW  | [1955년](https://ko.wikipedia.org/wiki/1955년 "wikilink") [9월 25일](https://ko.wikipedia.org/wiki/9월_25일 "wikilink") |
+| [우베 젤러](https://ko.wikipedia.org/wiki/우베_젤러 "wikilink")           | FW  | [1936년](https://ko.wikipedia.org/wiki/1936년 "wikilink") [11월 5일](https://ko.wikipedia.org/wiki/11월_5일 "wikilink") |
+|                                                                   |     |                                                                                                                   |
+
+###
+
+| 선수                                                      | 포지션 | 생년월일                                                                                                              |
+| ------------------------------------------------------- | --- | ----------------------------------------------------------------------------------------------------------------- |
+| [조지 웨아](https://ko.wikipedia.org/wiki/조지_웨아 "wikilink") | FW  | [1966년](https://ko.wikipedia.org/wiki/1966년 "wikilink") [10월 1일](https://ko.wikipedia.org/wiki/10월_1일 "wikilink") |
+|                                                         |     |                                                                                                                   |
+
+###
+
+| 선수                                                            | 포지션 | 생년월일                                                                                                              |
+| ------------------------------------------------------------- | --- | ----------------------------------------------------------------------------------------------------------------- |
+| [리나트 다사예프](https://ko.wikipedia.org/wiki/리나트_다사예프 "wikilink") | GK  | [1957년](https://ko.wikipedia.org/wiki/1957년 "wikilink") [6월 13일](https://ko.wikipedia.org/wiki/6월_13일 "wikilink") |
+|                                                               |     |                                                                                                                   |
+
+###
+
+| 선수                                                          | 포지션 | 생년월일                                                                                                            |
+| ----------------------------------------------------------- | --- | --------------------------------------------------------------------------------------------------------------- |
+| [게오르게 하지](https://ko.wikipedia.org/wiki/게오르게_하지 "wikilink") | MF  | [1965년](https://ko.wikipedia.org/wiki/1965년 "wikilink") [2월 5일](https://ko.wikipedia.org/wiki/2월_5일 "wikilink") |
+|                                                             |     |                                                                                                                 |
+
+###
+
+| 선수                                                        | 포지션 | 생년월일                                                                                                              |
+| --------------------------------------------------------- | --- | ----------------------------------------------------------------------------------------------------------------- |
+| [우고 산체스](https://ko.wikipedia.org/wiki/우고_산체스 "wikilink") | FW  | [1958년](https://ko.wikipedia.org/wiki/1958년 "wikilink") [7월 11일](https://ko.wikipedia.org/wiki/7월_11일 "wikilink") |
+|                                                           |     |                                                                                                                   |
+
+###
+
+| 선수                                                                  | 포지션 | 생년월일                                                                                                              |
+| ------------------------------------------------------------------- | --- | ----------------------------------------------------------------------------------------------------------------- |
+| [미셸 에이커스](https://ko.wikipedia.org/wiki/미셸_에이커스 "wikilink") (여자 선수) | FW  | [1966년](https://ko.wikipedia.org/wiki/1966년 "wikilink") [2월 1일](https://ko.wikipedia.org/wiki/2월_1일 "wikilink")   |
+| [미아 햄](https://ko.wikipedia.org/wiki/미아_햄 "wikilink")\* (여자 선수)     | FW  | [1972년](https://ko.wikipedia.org/wiki/1972년 "wikilink") [3월 17일](https://ko.wikipedia.org/wiki/3월_17일 "wikilink") |
+|                                                                     |     |                                                                                                                   |
+
+###
+
+| 선수                                                                    | 포지션                                                | 생년월일                                                                                                              |
+| --------------------------------------------------------------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| [얀 쾰레만스](https://ko.wikipedia.org/wiki/얀_쾰레만스 "wikilink")             | MF                                                 | [1957년](https://ko.wikipedia.org/wiki/1957년 "wikilink") [2월 28일](https://ko.wikipedia.org/wiki/2월_28일 "wikilink") |
+| [장마리 파프](https://ko.wikipedia.org/wiki/장마리_파프 "wikilink")             | [GK](https://ko.wikipedia.org/wiki/골키퍼 "wikilink") | [1953년](https://ko.wikipedia.org/wiki/1953년 "wikilink") [12월 4일](https://ko.wikipedia.org/wiki/12월_4일 "wikilink") |
+| [프랑키 판 데르 엘스트](https://ko.wikipedia.org/wiki/프랑키_판_데르_엘스트 "wikilink") | MF                                                 | [1961년](https://ko.wikipedia.org/wiki/1961년 "wikilink") [4월 30일](https://ko.wikipedia.org/wiki/4월_30일 "wikilink") |
+|                                                                       |                                                    |                                                                                                                   |
+
+###
+
+| 선수                                                        | 포지션 | 생년월일                                                                                                              |
+| --------------------------------------------------------- | --- | ----------------------------------------------------------------------------------------------------------------- |
+| [조지 베스트](https://ko.wikipedia.org/wiki/조지_베스트 "wikilink") | MF  | [1946년](https://ko.wikipedia.org/wiki/1946년 "wikilink") [5월 22일](https://ko.wikipedia.org/wiki/5월_22일 "wikilink") |
+|                                                           |     |                                                                                                                   |
+
+###
+
+| 선수                                                                  | 포지션 | 생년월일                                                                                                            |
+| ------------------------------------------------------------------- | --- | --------------------------------------------------------------------------------------------------------------- |
+| [흐리스토 스토이치코프](https://ko.wikipedia.org/wiki/흐리스토_스토이치코프 "wikilink") | FW  | [1966년](https://ko.wikipedia.org/wiki/1966년 "wikilink") [2월 8일](https://ko.wikipedia.org/wiki/2월_8일 "wikilink") |
+|                                                                     |     |                                                                                                                 |
+
+###
+
+| 선수                                                                    | 포지션 | 생년월일                                                                                                                |
+| --------------------------------------------------------------------- | --- | ------------------------------------------------------------------------------------------------------------------- |
+| [카를루스 아우베르투](https://ko.wikipedia.org/wiki/카를루스_아우베르투_토히스 "wikilink") | DF  | [1944년](https://ko.wikipedia.org/wiki/1944년 "wikilink") [7월 17일](https://ko.wikipedia.org/wiki/7월_17일 "wikilink")   |
+| [카푸](https://ko.wikipedia.org/wiki/카푸 "wikilink")\*                   | DF  | [1970년](https://ko.wikipedia.org/wiki/1970년 "wikilink") [6월 7일](https://ko.wikipedia.org/wiki/6월_7일 "wikilink")     |
+| [파우캉](https://ko.wikipedia.org/wiki/파울루_호베르투_파우캉 "wikilink")          | MF  | [1953년](https://ko.wikipedia.org/wiki/1953년 "wikilink") [10월 16일](https://ko.wikipedia.org/wiki/10월_16일 "wikilink") |
+| [펠레](https://ko.wikipedia.org/wiki/펠레 "wikilink")                     | FW  | [1940년](https://ko.wikipedia.org/wiki/1940년 "wikilink") [10월 23일](https://ko.wikipedia.org/wiki/10월_23일 "wikilink") |
+| [주니오르](https://ko.wikipedia.org/wiki/레오베지우두_링스_다_가마_주니오르 "wikilink")  | MF  | [1954년](https://ko.wikipedia.org/wiki/1954년 "wikilink") [6월 29일](https://ko.wikipedia.org/wiki/6월_29일 "wikilink")   |
+| [히바우두](https://ko.wikipedia.org/wiki/히바우두 "wikilink")\*               | FW  | [1972년](https://ko.wikipedia.org/wiki/1972년 "wikilink") [4월 19일](https://ko.wikipedia.org/wiki/4월_19일 "wikilink")   |
+| [호베르투 히벨리누](https://ko.wikipedia.org/wiki/호베르투_히벨리누 "wikilink")       | MF  | [1946년](https://ko.wikipedia.org/wiki/1946년 "wikilink") [1월 1일](https://ko.wikipedia.org/wiki/1월_1일 "wikilink")     |
+| [호베르투 카를루스](https://ko.wikipedia.org/wiki/호베르투_카를루스 "wikilink")\*     | DF  | [1972년](https://ko.wikipedia.org/wiki/1972년 "wikilink") [4월 10일](https://ko.wikipedia.org/wiki/4월_10일 "wikilink")   |
+| [호마리우](https://ko.wikipedia.org/wiki/호마리우 "wikilink")\*               | FW  | [1966년](https://ko.wikipedia.org/wiki/1966년 "wikilink") [1월 29일](https://ko.wikipedia.org/wiki/1월_29일 "wikilink")   |
+| [호나우지뉴](../Page/호나우지뉴.md "wikilink")\*                                | FW  | [1980년](https://ko.wikipedia.org/wiki/1980년 "wikilink") [3월 21일](https://ko.wikipedia.org/wiki/3월_21일 "wikilink")   |
+| [호나우두](https://ko.wikipedia.org/wiki/호나우두 "wikilink")\*               | FW  | [1976년](https://ko.wikipedia.org/wiki/1976년 "wikilink") [9월 18일](https://ko.wikipedia.org/wiki/9월_18일 "wikilink")   |
+| [자우마 산투스](https://ko.wikipedia.org/wiki/자우마_산투스 "wikilink")           | DF  | [1929년](https://ko.wikipedia.org/wiki/1929년 "wikilink") [2월 27일](https://ko.wikipedia.org/wiki/2월_27일 "wikilink")   |
+| [니우통 산투스](https://ko.wikipedia.org/wiki/니우통_산투스 "wikilink")           | DF  | [1927년](https://ko.wikipedia.org/wiki/1927년 "wikilink") [5월 16일](https://ko.wikipedia.org/wiki/5월_16일 "wikilink")   |
+| [소크라치스](../Page/소크라치스.md "wikilink")                                  | MF  | [1954년](https://ko.wikipedia.org/wiki/1954년 "wikilink") [2월 19일](https://ko.wikipedia.org/wiki/2월_19일 "wikilink")   |
+| [지쿠](https://ko.wikipedia.org/wiki/지쿠 "wikilink")                     | MF  | [1953년](https://ko.wikipedia.org/wiki/1953년 "wikilink") [3월 3일](https://ko.wikipedia.org/wiki/3월_3일 "wikilink")     |
+
+###
+
+| 선수                                                              | 포지션 | 생년월일                                                                                                              |
+| --------------------------------------------------------------- | --- | ----------------------------------------------------------------------------------------------------------------- |
+| [엘 하지 디우프](https://ko.wikipedia.org/wiki/엘_하지_디우프 "wikilink")\* | FW  | [1981년](https://ko.wikipedia.org/wiki/1981년 "wikilink") [1월 15일](https://ko.wikipedia.org/wiki/1월_15일 "wikilink") |
+|                                                                 |     |                                                                                                                   |
+
+###
+
+| 선수                                                          | 포지션 | 생년월일                                                                                                            |
+| ----------------------------------------------------------- | --- | --------------------------------------------------------------------------------------------------------------- |
+| [케니 달글리시](https://ko.wikipedia.org/wiki/케니_달글리시 "wikilink") | FW  | [1951년](https://ko.wikipedia.org/wiki/1951년 "wikilink") [3월 4일](https://ko.wikipedia.org/wiki/3월_4일 "wikilink") |
+|                                                             |     |                                                                                                                 |
+
+###
+
+| 선수                                                                       | 포지션 | 생년월일                                                                                                              |
+| ------------------------------------------------------------------------ | --- | ----------------------------------------------------------------------------------------------------------------- |
+| [에밀리오 부트라게뇨](https://ko.wikipedia.org/wiki/에밀리오_부트라게뇨 "wikilink")        | FW  | [1963년](https://ko.wikipedia.org/wiki/1963년 "wikilink") [7월 22일](https://ko.wikipedia.org/wiki/7월_22일 "wikilink") |
+| [루이스 엔리케](https://ko.wikipedia.org/wiki/루이스_엔리케_마르티네스_가르시아 "wikilink")\* | MF  | [1970년](https://ko.wikipedia.org/wiki/1970년 "wikilink") [5월 8일](https://ko.wikipedia.org/wiki/5월_8일 "wikilink")   |
+| [라울 곤살레스](https://ko.wikipedia.org/wiki/라울_곤살레스 "wikilink")\*            | FW  | [1977년](https://ko.wikipedia.org/wiki/1977년 "wikilink") [6월 27일](https://ko.wikipedia.org/wiki/6월_27일 "wikilink") |
+|                                                                          |     |                                                                                                                   |
+
+###
+
+| 선수                                                                    | 포지션                                                | 생년월일                                                                                                                |
+| --------------------------------------------------------------------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| [가브리엘 바티스투타](https://ko.wikipedia.org/wiki/가브리엘_바티스투타 "wikilink")\*   | [FW](https://ko.wikipedia.org/wiki/공격수 "wikilink") | [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink") [2월 1일](https://ko.wikipedia.org/wiki/2월_1일 "wikilink")     |
+| [에르난 크레스포](https://ko.wikipedia.org/wiki/에르난_크레스포 "wikilink")\*       | FW                                                 | [1975년](https://ko.wikipedia.org/wiki/1975년 "wikilink") [7월 5일](https://ko.wikipedia.org/wiki/7월_5일 "wikilink")     |
+| [알프레도 디 스테파노](https://ko.wikipedia.org/wiki/알프레도_디_스테파노 "wikilink")   | FW                                                 | [1926년](https://ko.wikipedia.org/wiki/1926년 "wikilink") [7월 4일](https://ko.wikipedia.org/wiki/7월_4일 "wikilink")     |
+| [마리오 켐페스](https://ko.wikipedia.org/wiki/마리오_켐페스 "wikilink")           | FW                                                 | [1954년](https://ko.wikipedia.org/wiki/1954년 "wikilink") [7월 15일](https://ko.wikipedia.org/wiki/7월_15일 "wikilink")   |
+| [디에고 마라도나](https://ko.wikipedia.org/wiki/디에고_마라도나 "wikilink")         | MF                                                 | [1960년](https://ko.wikipedia.org/wiki/1960년 "wikilink") [10월 30일](https://ko.wikipedia.org/wiki/10월_30일 "wikilink") |
+| [다니엘 파사레야](https://ko.wikipedia.org/wiki/다니엘_파사레야 "wikilink")         | [DF](https://ko.wikipedia.org/wiki/수비수 "wikilink") | [1953년](https://ko.wikipedia.org/wiki/1953년 "wikilink") [5월 25일](https://ko.wikipedia.org/wiki/5월_25일 "wikilink")   |
+| [하비에르 사비올라](https://ko.wikipedia.org/wiki/하비에르_사비올라 "wikilink")\*     | FW                                                 | [1981년](https://ko.wikipedia.org/wiki/1981년 "wikilink") [12월 11일](https://ko.wikipedia.org/wiki/12월_11일 "wikilink") |
+| [오마르 시보리](https://ko.wikipedia.org/wiki/오마르_시보리 "wikilink")           | FW                                                 | [1935년](https://ko.wikipedia.org/wiki/1935년 "wikilink") [10월 2일](https://ko.wikipedia.org/wiki/10월_2일 "wikilink")   |
+| [후안 세바스티안 베론](https://ko.wikipedia.org/wiki/후안_세바스티안_베론 "wikilink")\* | [MF](../Page/미드필더.md "wikilink")                   | [1975년](https://ko.wikipedia.org/wiki/1975년 "wikilink") [3월 9일](https://ko.wikipedia.org/wiki/3월_9일 "wikilink")     |
+| [하비에르 사네티](https://ko.wikipedia.org/wiki/하비에르_사네티 "wikilink")\*       | DF/MF                                              | [1973년](https://ko.wikipedia.org/wiki/1973년 "wikilink") [8월 10일](https://ko.wikipedia.org/wiki/8월_10일 "wikilink")   |
+
+###
+
+| 선수                                                      | 포지션 | 생년월일                                                                                                              |
+| ------------------------------------------------------- | --- | ----------------------------------------------------------------------------------------------------------------- |
+| [로이 킨](https://ko.wikipedia.org/wiki/로이_킨 "wikilink")\* | MF  | [1971년](https://ko.wikipedia.org/wiki/1971년 "wikilink") [8월 10일](https://ko.wikipedia.org/wiki/8월_10일 "wikilink") |
+|                                                         |     |                                                                                                                   |
+
+###
+
+| 선수                                                              | 포지션 | 생년월일                                                                                                                |
+| --------------------------------------------------------------- | --- | ------------------------------------------------------------------------------------------------------------------- |
+| [엔초 프란체스콜리](https://ko.wikipedia.org/wiki/엔초_프란체스콜리 "wikilink") | FW  | [1961년](https://ko.wikipedia.org/wiki/1961년 "wikilink") [12월 11일](https://ko.wikipedia.org/wiki/12월_11일 "wikilink") |
+|                                                                 |     |                                                                                                                     |
+
+###
+
+| 선수                                                           | 포지션 | 생년월일                                                                                                              |
+| ------------------------------------------------------------ | --- | ----------------------------------------------------------------------------------------------------------------- |
+| [안드리 셰브첸코](https://ko.wikipedia.org/wiki/안드리_솁첸코 "wikilink") | FW  | [1976년](https://ko.wikipedia.org/wiki/1976년 "wikilink") [9월 29일](https://ko.wikipedia.org/wiki/9월_29일 "wikilink") |
+|                                                              |     |                                                                                                                   |
+
+###
+
+| 선수                                                                    | 포지션 | 생년월일                                                                                                                |
+| --------------------------------------------------------------------- | --- | ------------------------------------------------------------------------------------------------------------------- |
+| [로베르토 바조](https://ko.wikipedia.org/wiki/로베르토_바조 "wikilink")\*         | FW  | [1967년](https://ko.wikipedia.org/wiki/1967년 "wikilink") [2월 18일](https://ko.wikipedia.org/wiki/2월_18일 "wikilink")   |
+| [프란코 바레시](https://ko.wikipedia.org/wiki/프란코_바레시 "wikilink")           | DF  | [1960년](https://ko.wikipedia.org/wiki/1960년 "wikilink") [5월 8일](https://ko.wikipedia.org/wiki/5월_8일 "wikilink")     |
+| [주세페 베르고미](https://ko.wikipedia.org/wiki/주세페_베르고미 "wikilink")         | DF  | [1963년](https://ko.wikipedia.org/wiki/1963년 "wikilink") [12월 22일](https://ko.wikipedia.org/wiki/12월_22일 "wikilink") |
+| [잠피에로 보니페르티](https://ko.wikipedia.org/wiki/잠피에로_보니페르티 "wikilink")     | FW  | [1928년](https://ko.wikipedia.org/wiki/1928년 "wikilink") [7월 4일](https://ko.wikipedia.org/wiki/7월_4일 "wikilink")     |
+| *[잔루이지 부폰](https://ko.wikipedia.org/wiki/잔루이지_부폰 "wikilink")\**       | GK  | [1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink") [1월 28일](https://ko.wikipedia.org/wiki/1월_28일 "wikilink")   |
+| [알레산드로 델 피에로](https://ko.wikipedia.org/wiki/알레산드로_델_피에로 "wikilink")\* | FW  | [1974년](https://ko.wikipedia.org/wiki/1974년 "wikilink") [11월 5일](https://ko.wikipedia.org/wiki/11월_5일 "wikilink")   |
+| [자친토 파케티](https://ko.wikipedia.org/wiki/자친토_파케티 "wikilink")           | DF  | [1942년](https://ko.wikipedia.org/wiki/1942년 "wikilink") [7월 18일](https://ko.wikipedia.org/wiki/7월_18일 "wikilink")   |
+| [파올로 말디니](../Page/파올로_말디니.md "wikilink")\*                            | DF  | [1968년](https://ko.wikipedia.org/wiki/1968년 "wikilink") [6월 26일](https://ko.wikipedia.org/wiki/6월_26일 "wikilink")   |
+| [알레산드로 네스타](../Page/알레산드로_네스타.md "wikilink")\*                        | DF  | [1976년](https://ko.wikipedia.org/wiki/1976년 "wikilink") [3월 19일](https://ko.wikipedia.org/wiki/3월_19일 "wikilink")   |
+| [잔니 리베라](https://ko.wikipedia.org/wiki/잔니_리베라 "wikilink")             | MF  | [1943년](https://ko.wikipedia.org/wiki/1943년 "wikilink") [8월 18일](https://ko.wikipedia.org/wiki/8월_18일 "wikilink")   |
+| [파올로 로시](https://ko.wikipedia.org/wiki/파올로_로시 "wikilink")             | FW  | [1956년](https://ko.wikipedia.org/wiki/1956년 "wikilink") [9월 23일](https://ko.wikipedia.org/wiki/9월_23일 "wikilink")   |
+| [프란체스코 토티](https://ko.wikipedia.org/wiki/프란체스코_토티 "wikilink")\*       | FW  | [1976년](https://ko.wikipedia.org/wiki/1976년 "wikilink") [9월 27일](https://ko.wikipedia.org/wiki/9월_27일 "wikilink")   |
+| [크리스티안 비에리](https://ko.wikipedia.org/wiki/크리스티안_비에리 "wikilink")\*     | FW  | [1973년](https://ko.wikipedia.org/wiki/1973년 "wikilink") [7월 12일](https://ko.wikipedia.org/wiki/7월_12일 "wikilink")   |
+| [디노 초프](https://ko.wikipedia.org/wiki/디노_초프 "wikilink")               | GK  | [1942년](https://ko.wikipedia.org/wiki/1942년 "wikilink") [2월 28일](https://ko.wikipedia.org/wiki/2월_28일 "wikilink")   |
+|                                                                       |     |                                                                                                                     |
+
+###
+
+| 선수                                                              | 포지션 | 생년월일                                                                                                              |
+| --------------------------------------------------------------- | --- | ----------------------------------------------------------------------------------------------------------------- |
+| [나카타 히데토시](https://ko.wikipedia.org/wiki/나카타_히데토시 "wikilink")\* | MF  | [1977년](https://ko.wikipedia.org/wiki/1977년 "wikilink") [1월 22일](https://ko.wikipedia.org/wiki/1월_22일 "wikilink") |
+|                                                                 |     |                                                                                                                   |
+
+###
+
+| 선수                                                            | 포지션 | 생년월일                                                                                                                |
+| ------------------------------------------------------------- | --- | ------------------------------------------------------------------------------------------------------------------- |
+| [고든 뱅크스](https://ko.wikipedia.org/wiki/고든_뱅크스 "wikilink")     | GK  | [1937년](https://ko.wikipedia.org/wiki/1937년 "wikilink") [12월 30일](https://ko.wikipedia.org/wiki/12월_30일 "wikilink") |
+| [데이비드 베컴](https://ko.wikipedia.org/wiki/데이비드_베컴 "wikilink")\* | MF  | [1975년](https://ko.wikipedia.org/wiki/1975년 "wikilink") [5월 2일](https://ko.wikipedia.org/wiki/5월_2일 "wikilink")     |
+| [보비 찰턴](https://ko.wikipedia.org/wiki/보비_찰턴 "wikilink")       | MF  | [1937년](https://ko.wikipedia.org/wiki/1937년 "wikilink") [10월 11일](https://ko.wikipedia.org/wiki/10월_11일 "wikilink") |
+| [케빈 키건](https://ko.wikipedia.org/wiki/케빈_키건 "wikilink")       | MF  | [1951년](https://ko.wikipedia.org/wiki/1951년 "wikilink") [2월 14일](https://ko.wikipedia.org/wiki/2월_14일 "wikilink")   |
+| [게리 리네커](https://ko.wikipedia.org/wiki/게리_리네커 "wikilink")     | FW  | [1960년](https://ko.wikipedia.org/wiki/1960년 "wikilink") [11월 30일](https://ko.wikipedia.org/wiki/11월_30일 "wikilink") |
+| [마이클 오언](https://ko.wikipedia.org/wiki/마이클_오언 "wikilink")\*   | FW  | [1979년](https://ko.wikipedia.org/wiki/1979년 "wikilink") [12월 14일](https://ko.wikipedia.org/wiki/12월_14일 "wikilink") |
+| [앨런 시어러](https://ko.wikipedia.org/wiki/앨런_시어러 "wikilink")\*   | FW  | [1970년](https://ko.wikipedia.org/wiki/1970년 "wikilink") [8월 13일](https://ko.wikipedia.org/wiki/8월_13일 "wikilink")   |
+|                                                               |     |                                                                                                                     |
+
+###
+
+| 선수                                                              | 포지션 | 생년월일                                                                                                              |
+| --------------------------------------------------------------- | --- | ----------------------------------------------------------------------------------------------------------------- |
+| [요세프 마소푸스트](https://ko.wikipedia.org/wiki/요세프_마소푸스트 "wikilink") | MF  | [1931년](https://ko.wikipedia.org/wiki/1931년 "wikilink") [2월 9일](https://ko.wikipedia.org/wiki/2월_9일 "wikilink")   |
+| [파벨 네드베트](https://ko.wikipedia.org/wiki/파벨_네드베트 "wikilink")\*   | MF  | [1972년](https://ko.wikipedia.org/wiki/1972년 "wikilink") [8월 30일](https://ko.wikipedia.org/wiki/8월_30일 "wikilink") |
+|                                                                 |     |                                                                                                                   |
+
+###
+
+| 선수                                                              | 포지션 | 생년월일                                                                                                                |
+| --------------------------------------------------------------- | --- | ------------------------------------------------------------------------------------------------------------------- |
+| [엘리아스 피게로아](https://ko.wikipedia.org/wiki/엘리아스_피게로아 "wikilink") | DF  | [1946년](https://ko.wikipedia.org/wiki/1946년 "wikilink") [10월 25일](https://ko.wikipedia.org/wiki/10월_25일 "wikilink") |
+| [이반 사모라노](https://ko.wikipedia.org/wiki/이반_사모라노 "wikilink")     | FW  | [1967년](https://ko.wikipedia.org/wiki/1967년 "wikilink") [1월 18일](https://ko.wikipedia.org/wiki/1월_18일 "wikilink")   |
+|                                                                 |     |                                                                                                                     |
+
+###
+
+| 선수                                                      | 포지션 | 생년월일                                                                                                              |
+| ------------------------------------------------------- | --- | ----------------------------------------------------------------------------------------------------------------- |
+| [로제 밀라](https://ko.wikipedia.org/wiki/로제_밀라 "wikilink") | FW  | [1952년](https://ko.wikipedia.org/wiki/1952년 "wikilink") [5월 20일](https://ko.wikipedia.org/wiki/5월_20일 "wikilink") |
+|                                                         |     |                                                                                                                   |
+
+###
+
+| 선수                                                              | 포지션 | 생년월일                                                                                                            |
+| --------------------------------------------------------------- | --- | --------------------------------------------------------------------------------------------------------------- |
+| [카를로스 발데라마](https://ko.wikipedia.org/wiki/카를로스_발데라마 "wikilink") | MF  | [1961년](https://ko.wikipedia.org/wiki/1961년 "wikilink") [9월 2일](https://ko.wikipedia.org/wiki/9월_2일 "wikilink") |
+|                                                                 |     |                                                                                                                 |
+
+###
+
+| 선수                                                          | 포지션 | 생년월일                                                                                                            |
+| ----------------------------------------------------------- | --- | --------------------------------------------------------------------------------------------------------------- |
+| [다보르 슈케르](https://ko.wikipedia.org/wiki/다보르_슈케르 "wikilink") | FW  | [1968년](https://ko.wikipedia.org/wiki/1968년 "wikilink") [1월 1일](https://ko.wikipedia.org/wiki/1월_1일 "wikilink") |
+|                                                             |     |                                                                                                                 |
+
+###
+
+| 선수                                                              | 포지션 | 생년월일                                                                                                              |
+| --------------------------------------------------------------- | --- | ----------------------------------------------------------------------------------------------------------------- |
+| [뤼쉬튀 레츠베르](https://ko.wikipedia.org/wiki/뤼쉬튀_레츠베르 "wikilink")\* | GK  | [1973년](https://ko.wikipedia.org/wiki/1973년 "wikilink") [5월 10일](https://ko.wikipedia.org/wiki/5월_10일 "wikilink") |
+| *[엠레 벨뢰졸루](https://ko.wikipedia.org/wiki/엠레_벨뢰졸루 "wikilink")\** | MF  | [1980년](https://ko.wikipedia.org/wiki/1980년 "wikilink") [7월 9일](https://ko.wikipedia.org/wiki/7월_9일 "wikilink")   |
+|                                                                 |     |                                                                                                                   |
+
+###
+
+| 선수                                                           | 포지션 | 생년월일                                                                                                              |
+| ------------------------------------------------------------ | --- | ----------------------------------------------------------------------------------------------------------------- |
+| [로메리토](https://ko.wikipedia.org/wiki/훌리오_세사르_로메로 "wikilink") | FW  | [1960년](https://ko.wikipedia.org/wiki/1960년 "wikilink") [8월 28일](https://ko.wikipedia.org/wiki/8월_28일 "wikilink") |
+|                                                              |     |                                                                                                                   |
+
+###
+
+| 선수                                                              | 포지션 | 생년월일                                                                                                            |
+| --------------------------------------------------------------- | --- | --------------------------------------------------------------------------------------------------------------- |
+| [테오필로 쿠비야스](https://ko.wikipedia.org/wiki/테오필로_쿠비야스 "wikilink") | FW  | [1949년](https://ko.wikipedia.org/wiki/1949년 "wikilink") [3월 8일](https://ko.wikipedia.org/wiki/3월_8일 "wikilink") |
+|                                                                 |     |                                                                                                                 |
+
+###
+
+| 선수                                                          | 포지션 | 생년월일                                                                                                              |
+| ----------------------------------------------------------- | --- | ----------------------------------------------------------------------------------------------------------------- |
+|                                                             |     |                                                                                                                   |
+| [에우제비우](https://ko.wikipedia.org/wiki/에우제비우 "wikilink")     | FW  | [1942년](https://ko.wikipedia.org/wiki/1942년 "wikilink") [1월 25일](https://ko.wikipedia.org/wiki/1월_25일 "wikilink") |
+| [루이스 피구](https://ko.wikipedia.org/wiki/루이스_피구 "wikilink")\* | MF  | [1972년](https://ko.wikipedia.org/wiki/1972년 "wikilink") [11월 4일](https://ko.wikipedia.org/wiki/11월_4일 "wikilink") |
+| [후이 코스타](https://ko.wikipedia.org/wiki/후이_코스타 "wikilink")\* | MF  | [1972년](https://ko.wikipedia.org/wiki/1972년 "wikilink") [3월 29일](https://ko.wikipedia.org/wiki/3월_29일 "wikilink") |
+|                                                             |     |                                                                                                                   |
+
+###
+
+| 선수                                                                  | 포지션 | 생년월일                                                                                                            |
+| ------------------------------------------------------------------- | --- | --------------------------------------------------------------------------------------------------------------- |
+| [즈비그니에프 보니에크](https://ko.wikipedia.org/wiki/즈비그니에프_보니에크 "wikilink") | MF  | [1956년](https://ko.wikipedia.org/wiki/1956년 "wikilink") [3월 3일](https://ko.wikipedia.org/wiki/3월_3일 "wikilink") |
+|                                                                     |     |                                                                                                                 |
+
+###
+
+| 선수                                                              | 포지션 | 생년월일                                                                                                                |
+| --------------------------------------------------------------- | --- | ------------------------------------------------------------------------------------------------------------------- |
+| [에리크 캉토나](https://ko.wikipedia.org/wiki/에리크_캉토나 "wikilink")     | FW  | [1966년](https://ko.wikipedia.org/wiki/1966년 "wikilink") [5월 24일](https://ko.wikipedia.org/wiki/5월_24일 "wikilink")   |
+| [마르셀 드사이](https://ko.wikipedia.org/wiki/마르셀_드사이 "wikilink")\*   | DF  | [1968년](https://ko.wikipedia.org/wiki/1968년 "wikilink") [9월 7일](https://ko.wikipedia.org/wiki/9월_7일 "wikilink")     |
+| [디디에 데샹](https://ko.wikipedia.org/wiki/디디에_데샹 "wikilink")       | MF  | [1968년](https://ko.wikipedia.org/wiki/1968년 "wikilink") [10월 15일](https://ko.wikipedia.org/wiki/10월_15일 "wikilink") |
+| [쥐스트 퐁텐](https://ko.wikipedia.org/wiki/쥐스트_퐁텐 "wikilink")       | FW  | [1933년](https://ko.wikipedia.org/wiki/1933년 "wikilink") [8월 18일](https://ko.wikipedia.org/wiki/8월_18일 "wikilink")   |
+| [티에리 앙리](https://ko.wikipedia.org/wiki/티에리_앙리 "wikilink")\*     | FW  | [1977년](https://ko.wikipedia.org/wiki/1977년 "wikilink") [8월 17일](https://ko.wikipedia.org/wiki/8월_17일 "wikilink")   |
+| [레몽 코파](https://ko.wikipedia.org/wiki/레몽_코파 "wikilink")         | MF  | [1931년](https://ko.wikipedia.org/wiki/1931년 "wikilink") [10월 31일](https://ko.wikipedia.org/wiki/10월_31일 "wikilink") |
+| [장피에르 파팽](https://ko.wikipedia.org/wiki/장피에르_파팽 "wikilink")     | FW  | [1963년](https://ko.wikipedia.org/wiki/1963년 "wikilink") [11월 5일](https://ko.wikipedia.org/wiki/11월_5일 "wikilink")   |
+| [로베르 피레스](https://ko.wikipedia.org/wiki/로베르_피레스 "wikilink")\*   | FW  | [1973년](https://ko.wikipedia.org/wiki/1973년 "wikilink") [10월 29일](https://ko.wikipedia.org/wiki/10월_29일 "wikilink") |
+| [미셸 플라티니](https://ko.wikipedia.org/wiki/미셸_플라티니 "wikilink")     | MF  | [1955년](https://ko.wikipedia.org/wiki/1955년 "wikilink") [6월 21일](https://ko.wikipedia.org/wiki/6월_21일 "wikilink")   |
+| [릴리앙 튀랑](https://ko.wikipedia.org/wiki/릴리앙_튀랑 "wikilink")\*     | DF  | [1972년](https://ko.wikipedia.org/wiki/1972년 "wikilink") [1월 1일](https://ko.wikipedia.org/wiki/1월_1일 "wikilink")     |
+| [마리우스 트레소르](https://ko.wikipedia.org/wiki/마리우스_트레소르 "wikilink") | DF  | [1950년](https://ko.wikipedia.org/wiki/1950년 "wikilink") [1월 15일](https://ko.wikipedia.org/wiki/1월_15일 "wikilink")   |
+| [다비드 트레제게](https://ko.wikipedia.org/wiki/다비드_트레제게 "wikilink")\* | FW  | [1977년](https://ko.wikipedia.org/wiki/1977년 "wikilink") [10월 15일](https://ko.wikipedia.org/wiki/10월_15일 "wikilink") |
+| [파트리크 비에라](https://ko.wikipedia.org/wiki/파트리크_비에라 "wikilink")\* | MF  | [1976년](https://ko.wikipedia.org/wiki/1976년 "wikilink") [6월 23일](https://ko.wikipedia.org/wiki/6월_23일 "wikilink")   |
+| [지네딘 지단](https://ko.wikipedia.org/wiki/지네딘_지단 "wikilink")\*     | FW  | [1972년](https://ko.wikipedia.org/wiki/1972년 "wikilink") [6월 23일](https://ko.wikipedia.org/wiki/6월_23일 "wikilink")   |
+|                                                                 |     |                                                                                                                     |
+
+###
+
+| 선수                                                            | 포지션 | 생년월일                                                                                                            |
+| ------------------------------------------------------------- | --- | --------------------------------------------------------------------------------------------------------------- |
+| [푸슈카시 페렌츠](https://ko.wikipedia.org/wiki/푸슈카시_페렌츠 "wikilink") | FW  | [1927년](https://ko.wikipedia.org/wiki/1927년 "wikilink") [4월 2일](https://ko.wikipedia.org/wiki/4월_2일 "wikilink") |
+|                                                               |     |                                                                                                                 |
+
+## 같이 보기
+
+  - [FIFA 랭킹](https://ko.wikipedia.org/wiki/FIFA_랭킹 "wikilink")
+  - [FIFA 여자 축구 랭킹](https://ko.wikipedia.org/wiki/FIFA_여자_축구_랭킹 "wikilink")
+  - [월드사커 매거진 선정 축구선수 100인](https://ko.wikipedia.org/wiki/월드사커_매거진 "wikilink")
+  - [플라카르 매거진](https://ko.wikipedia.org/wiki/플라카르 "wikilink")
+
+## 각주
+
+## 외부 링크
+
+  - [FIFA 100](http://news.bbc.co.uk/sport1/hi/football/3533891.stm)
+
+[\*](https://ko.wikipedia.org/wiki/분류:FIFA_100 "wikilink") [분류:축구 선수 목록](https://ko.wikipedia.org/wiki/분류:축구_선수_목록 "wikilink") [분류:명수 100](https://ko.wikipedia.org/wiki/분류:명수_100 "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.

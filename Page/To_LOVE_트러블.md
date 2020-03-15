@@ -1,0 +1,660 @@
+> This article is converted from Wikipedia: [To LOVE ](https://ko.wikipedia.org/wiki/To_LOVE_).
+
+
+《**To LOVE 트러블**》()은 《[주간 소년 점프](../Page/주간_소년_점프.md "wikilink")》 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") 21·22호부터 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") 40호까지 연재된 [하세미 사키가](https://ko.wikipedia.org/wiki/하세미_사키 "wikilink") 쓰고 [야부키 켄타로가](https://ko.wikipedia.org/wiki/야부키_켄타로 "wikilink") 그린 [만화](https://ko.wikipedia.org/wiki/만화 "wikilink") 작품이다. 『To LOVE 트러블』의 완결 이후에는 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [11월](https://ko.wikipedia.org/wiki/11월 "wikilink")부터 외전 시리즈인 『To LOVE 트러블 다크니스』()가 《[ジャンプSQ.](https://ko.wikipedia.org/wiki/ジャンプSQ. "wikilink")》에서 연재되기 시작하였다.
+
+누계 발행 부수는 350만 부를 넘고 있다. 연재 화수 단위는 “트러블”이다.
+
+만화책을 원작으로 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") TV [애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink") 시리즈를 [XEBEC](../Page/XEBEC.md "wikilink")에서 제작하여 2008년 4월부터 9월까지 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")내 TBS 외의 방송사에서 방영하였다. 그리고 2010년 10월 6일 부터 2010년 12월 22일 까지 TV 애니메이션 시리즈 2기에 해당하는 『좀 더 To LOVE 트러블』()가 제작되어 [도쿄 MX](https://ko.wikipedia.org/wiki/도쿄_MX "wikilink") 등의 방송사에서 방영하였다.
+
+[닌텐도 DS와](https://ko.wikipedia.org/wiki/닌텐도_DS "wikilink") [PSP용의](https://ko.wikipedia.org/wiki/플레이스테이션_포터블 "wikilink") 게임소프트도 발매된 상태이다.
+
+[대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 [서울문화사](../Page/서울문화사.md "wikilink")가 만화 단행본을 발매하였다.\[1\] 후속작인 『투 러브 트러블 다크니스』도 [서울문화사](../Page/서울문화사.md "wikilink")가 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink")부터 발매하고 있다.\[2\] TV 애니메이션 시리즈는 [애니박스](https://ko.wikipedia.org/wiki/애니박스 "wikilink")가『투 러브 트러블』이란 방영 명칭으로 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [4월 6일부터](https://ko.wikipedia.org/wiki/4월_6일 "wikilink") 매주 3화 연속으로 [한국어](https://ko.wikipedia.org/wiki/한국어 "wikilink") 더빙 방송을 시작하였다. 2012년에 [㈜제이제이미디어웍스가](https://ko.wikipedia.org/wiki/제이제이미디어웍스 "wikilink") TV 애니메이션 시리즈 3기에 해당하는 『[투 러브 트러블 다크니스](https://ko.wikipedia.org/wiki/투_러브_트러블_다크니스 "wikilink")』를 수입하였고 자사의 [애니플러스](https://ko.wikipedia.org/wiki/애니플러스 "wikilink")를 통해 방송할 예정이었으나, 방송 마스터 수급 및 심의기일 관련으로 방영이 연기되었다고 트위터를 통해 발표하였다. 추후 [애니플러스](https://ko.wikipedia.org/wiki/애니플러스 "wikilink")의 [유튜브](../Page/유튜브.md "wikilink") 채널에서 『투 러브 트러블 다크니스』의 전 화를 공개하였다.\[3\]
+
+## 개요
+
+고교생이 되었지만 연애에는 매우 약한 유우키 리토의 곁에, 우주인인 데빌룩성의 왕녀 라라가 찾아오게 된다. 이 둘이 주위 사람들과 엮이며 펼쳐지는, 많이 야하지만 유쾌하고 통쾌한 시끌벅적 러브 코미디.
+
+## 등장인물
+
+(※성우는 드라마 CD·TV 애니메이션 모두 같다. 나열 순서는 제작 국인 일본의 방영판과 대한민국에서의 한국어 더빙 방영판 순서이다.)
+
+### 주요인물
+
+  - 유우키 리토(結城 梨斗)
+    [성우](https://ko.wikipedia.org/wiki/성우 "wikilink") - [와타나베 아케노](../Page/와타나베_아케노.md "wikilink") / [이지영](../Page/이지영_\(성우\).md "wikilink")
+    본 작품의 남자 주인공. 연재 시작당시엔 15세(고교 1년생)였다가 이후 2학년이 된다. 애칭은 “리토”. 생일은 [10월 16일](https://ko.wikipedia.org/wiki/10월_16일 "wikilink"). 이성 연애 경험 전무에 남자애들과 어울리기를 전념하다 중학교 2학년 때 같은 반이 된 하루나를 보고 반해서 짝사랑에 빠졌지만 이성연애 경험이 없는 탓에 용기를 못 내다 다시 같은 반이 된 고교 1년에 다시 용기를 내려 했으나 갑작스런 라라의 등장, 그리고 등굣길에 하루나에게 고백하던 중에 라라가 둘 사이에 끼어든 후 일은 더욱 꼬여 급기야 라라의 약혼자 후보의 한 사람이 되고 만다.
+    우유부단하고 순진한 면이 있으나, 때론 정의감이 강한 모습을 보여주곤 한다. 꽃을 가꾸는 것을 좋아하는 섬세한 면모를 지니고 있다.
+
+<!-- end list -->
+
+  - 라라 사타린 데빌룩(ララ・サタリン・デビルーク)
+    성우 - [토마츠 하루카](https://ko.wikipedia.org/wiki/토마츠_하루카 "wikilink") / [정소영](https://ko.wikipedia.org/wiki/정소영_\(성우\) "wikilink")
+    본 작품의 히로인. 은하계를 지배하는 데빌룩성의 왕녀로 강제적인 약혼을 피해 지구까지 도망치다 리토와 우연히 만나게 되고 리토의 고백 뒤 저스틴이 처음 왔을 때의 일을 계기로 리토를 진심으로 좋아하게 된 이후로 리토네 집에서 살고 있다. 세상물정 모르는 자유분방한 성격으로 하이텐션에 활발. 어릴 적부터 기상천외한 발명품을 만들어왔으나 뭔가 소동을 일으키는 것들이 대 부분이었다. 운동신경은 지구인의 평균을 훨씬 뛰어넘어 100 m달리기를 10초대에 주파하기도 하였다. 지능도 매우 뛰어나 시험점수는 항상 100점이다.
+
+<!-- end list -->
+
+  - 사이렌지 하루나(西連寺 春菜)
+    성우 - [야하기 사유리](https://ko.wikipedia.org/wiki/야하기_사유리 "wikilink") / [박선영](https://ko.wikipedia.org/wiki/박선영_\(성우\) "wikilink")
+    라라와는 대칭적인 본 작품의 또 한 명의 히로인. 현재 고교 2년생으로 리토나 라라와는 클래스메이트. 중학교 2학년 때 같은 반이 되었을 때부터 남 몰래 리토에게 연심을 품고 있었으나 말하지 못한 채 지내다 급기야는 라라의 등장으로 한치 앞을 내다보기 힘든 상황이 되어 버린다. 성격은 다소곳한 편이다.
+
+<!-- end list -->
+
+  - 금빛 어둠(金色の闇)
+    성우 - [후쿠엔 미사토](../Page/후쿠엔_미사토.md "wikilink") / [이재현](https://ko.wikipedia.org/wiki/이재현 "wikilink")
+    우주에서도 톱클래스를 달리는 위험성을 가진 암살자. 외견은 금발과 검은 옷의 미소녀. 전신을 자유자재로 변화시키는 능력을 가지고 있다. 리토를 암살하려 왔다가 미캉과 절친이 된다. 그리고 리토를 점점 좋아하게 된다.
+    야부키씨의 전작 《[블랙캣](https://ko.wikipedia.org/wiki/블랙캣 "wikilink")》의 이브를 그대로 리파인한 캐릭터이다. 덧붙여, 드라마CD나 애니메이션의 담당 성우도 이브와 동일한 후쿠엔 미사토씨가 기용되었다.
+
+### 유우키가
+
+  - 유우키 미캉(結城 美柑)
+    성우 - [하나자와 카나](../Page/하나자와_카나.md "wikilink") / [이지현](https://ko.wikipedia.org/wiki/이지현_\(성우\) "wikilink")
+    리토의 여동생. 연재가 시작할 당시에 11살로 현재는 초등학교 6학년생. 라라가 우주인인 것을 알고도 오히려 동거를 기뻐하기까지 하는 등 융통성 있는 일면을 보여 준다. 리토를 암살하려 온 야미와 절친을 맺기도 한다. 항상 리토 이야기만 하며, 모모의 하렘계획에 포함되어 있다.
+
+<!-- end list -->
+
+  - 유우키 사이바이(結城 才培)
+    리토와 미캉의 아버지. 동시에 정기 연재를 3편이나 하고 있는 인기 [만화가](https://ko.wikipedia.org/wiki/만화가 "wikilink"). 미캉과 비슷하게 자식들이 우주인이랑 동거하고 있다는 사실을 전혀 신경 쓰지 않는 대범한 성격의 소유자. 바쁜 까닭에 일하는 곳에서 집에는 오지 않는다. 리토와 저스틴들을 어시스턴트로 마구 부리고 있다. 나이는 첫 등장 시점에서 36세이다.
+
+### 사이난 고교
+
+#### 학생
+
+  - 코테가와 유이(古手川 唯)
+    성우 - [나즈카 카오리](https://ko.wikipedia.org/wiki/나즈카_가오리 "wikilink") / [이지현](https://ko.wikipedia.org/wiki/이지현_\(성우\) "wikilink")
+    원래 1-B반 반장. 2학년부터 리토 일행과 같은 2-A반 학생이 된다. 머리 모양은 검은색 긴머리이다. 선도부원으로서 학교의 분위기를 흐트러뜨리는 것을 싫어하여 자주 주의를 주거나 화를 내거나 한다. 특히나 라라와 리토를 요주의인물로 눈여겨 보고 있다. 그러다 리토의 본 모습에 호감을 품게 되고 점점 그를 좋아하게 된다.
+
+<!-- end list -->
+
+  - 오시즈(お静)
+    성우 - [노토 마미코](https://ko.wikipedia.org/wiki/노토_마미코 "wikilink") / [서유리](https://ko.wikipedia.org/wiki/서유리 "wikilink")
+    400년전에 죽어서 사이나 고교의 폐교에 살고 있는 유령. 개를 매우 무서워한다.
+  - 렌·엘시·쥬얼리아(レン・エルシ・ジュエリア)
+    성우 - [오우라 휴유카](https://ko.wikipedia.org/wiki/오우라_휴유카 "wikilink") / [문남숙](https://ko.wikipedia.org/wiki/문남숙 "wikilink")
+    라라의 소꿉친구. 중성적인 얼굴의 미소년으로, 성적우수에 운동신경발군. 렌 본인은 어린시절 약혼자라고 하지만 그것은 어린시절 렌의 질문에 라라가 아무 생각 없이 답한 것으로 라라 본인은 기억하지 못하고 있다.
+
+<!-- end list -->
+
+  - 룬(ルン)
+    성우 - [오우라 휴유카](https://ko.wikipedia.org/wiki/오우라_휴유카 "wikilink") / 문남숙
+    렌의 여성인격. 세미롱 헤어의 미소녀이며 라라와 같이 자유분방한 성격으로 리토를 매우 좋아한다. 첫 등장 이후 연예 기획사의 눈에 띄어 캐스팅되며 잘 나가는 아이돌로 데뷔하게 된다.
+
+<!-- end list -->
+
+  - 텐죠우인 사키(天条院 沙姫)
+    성우 - [카와스미 아야코](../Page/카와스미_아야코.md "wikilink") / [오인실](https://ko.wikipedia.org/wiki/오인실 "wikilink")
+    2학년 B반 소속(첫 등장시)으로 리토들의 1년 선배. 부잣집 따님으로서 그야말로 여왕님 성격이다.
+
+<!-- end list -->
+
+  - 후지사키 아야(藤崎 綾)
+    성우 - [미즈하시 카오리](../Page/미즈하시_카오리.md "wikilink") / [김민정](https://ko.wikipedia.org/wiki/김민정_\(성우\) "wikilink")
+    사키를 따르는 한 사람. 보통엔 안경을 쓰고 있지만 안경을 벗으면 상당한 미소녀이다.
+
+<!-- end list -->
+
+  - 쿠죠 린(九条 凛)
+    성우 - [하시모토 마이](https://ko.wikipedia.org/wiki/하시모토_마이 "wikilink") / [이명희](https://ko.wikipedia.org/wiki/이명희 "wikilink")
+    사키를 따르는 한 사람. 집안이 대대로 텐죠우인 가문을 섬겨왔기 때문에 마찬가지로 텐죠우인 가문의 사키를 섬기고 있다.
+
+<!-- end list -->
+
+  - 모테미츠(弄光)
+    성우 - [나미카와 다이스케](https://ko.wikipedia.org/wiki/나미카와_다이스케 "wikilink") / [서원석](https://ko.wikipedia.org/wiki/서원석 "wikilink")
+    야구부의 선배. 장래에 프로 입단이 확정이라고 자랑하고 있다. 첫 등장 때에 갑자기 라라에게 꼬시기를 시도해 보지만 "어? 거절할래."라고 딱 잘라 거절 당했다.
+
+#### 교사
+
+  - 사스가(佐清)
+    체육 담당 교사. 하루나들이 활동하는 테니스부의 고문이며, 인터하이 출전 경험이 있다.
+
+<!-- end list -->
+
+  - 교장(校長)
+    성우 - [오가타 켄이치](../Page/오가타_켄이치.md "wikilink") / [최낙윤](https://ko.wikipedia.org/wiki/최낙윤 "wikilink")
+    리토가 다니는 사이나 고교의 교장. 본명은 알려져 있지 않다. 작은키에 고도비만이며 색골이다. 마음에 드는 여성앞에서는 옷을 다 벗고 달려든다. (금수저인지, 교육부에서 안 짜르고 법의 처벌을 안 받는거 같다.)
+
+<!-- end list -->
+
+  - 미카도 료우코(御門 涼子)
+    성우 - [죠 마사코](https://ko.wikipedia.org/wiki/죠_마사코 "wikilink") / [이미나](https://ko.wikipedia.org/wiki/이미나_\(성우\) "wikilink")
+    표면적으론 리토들이 다니는 사이나 고교의 양호교사이지만, 뒷 면에선 지구에 살고 있는 우주인들의 병을 고치는 일을 부업으로 삼고 있는 수수께끼가 많은 미녀이다.
+
+<!-- end list -->
+
+  - 티아유 루나틱(ティアーユ・ ルナティック)
+    성우- [후쿠엔 미사토](../Page/후쿠엔_미사토.md "wikilink")
+    To Love Trouble의 작가인 [야부키 켄타로의](https://ko.wikipedia.org/wiki/야부키_켄타로 "wikilink") 전 작품인 《[블랙 캣](https://ko.wikipedia.org/wiki/블랙_캣 "wikilink")》의 동명 캐릭터를 모티브로 하였다. 금빛 어둠을 만든 과학자들 중 한명이며, 유우키 리토의 반에 부담임으로 취임한다. 금빛 어둠을 만든 과학자 중 한명이다. 하지만 금빛 어둠은 '병기' 로써 키워져야 했으나, 티아유가 그녀를 '사람'으로 키우려고 했기 때문에 조직에서 티아유를 살해하려고 하나 도망쳐 나와 가까스로 살아남고 떠돌던 중 금빛 어둠이 암살자가 되었다는 소식을 듣는다. 본인은 금빛 어둠이 '살인병기'로 키워진 것에 대한 죄책감이 큰 듯. 성우는 금빛 어둠 캐릭터 칸에 설명 되어있듯이 성우는 같은 [후쿠엔 미사토이다](../Page/후쿠엔_미사토.md "wikilink"). 참고로 전 작인 《[블랙 캣](https://ko.wikipedia.org/wiki/블랙_캣 "wikilink")》에서는 냉철한 과학자로 묘사되었으나, 여기에선 덜렁이 속성이 추가되어 학교 남학생들에게 많은 사랑을 받고있는 캐릭터이다.
+
+### 우주인
+
+  - 기드·루시온·데빌룩(ギド・ルシオン・デビルーク)
+    성우 - [나카무라 히데토시](https://ko.wikipedia.org/wiki/나카무라_히데토시 "wikilink")/[시영준](../Page/시영준.md "wikilink")
+    데빌룩성의 왕이며 라라의 아버지. 은하를 통일했다는 말을 들은 유우키 리토는 엄청 크고 위엄 있는 사람으로 생각했으나, 알고보니 [쇼타](../Page/쇼타.md "wikilink")인 캐릭터였다.(사실 데빌룩성인은 힘을 다 쓰면 어려진다.―\[부럽다...\]) 하지만 외모와 달리, 매우 흉폭하고 어마어마한 능력을 지니고 있다.
+
+<!-- end list -->
+
+  - 나나 아스타 데빌룩(ナナ·アスタ·デビル-ク)
+    성우 - [이토 카나에](https://ko.wikipedia.org/wiki/이토_카나에 "wikilink")
+    라라의 쌍둥이 여동생이자 데빌룩 성 제2의 왕녀. 라라를 따라서 지구로 오게 되었으며 동물을 다루는 능력을 가졌다. 의외로 순수한 면에 [츤데레](https://ko.wikipedia.org/wiki/츤데레 "wikilink")이다. 우유부단한 리토를 싫어했으나 점점 좋아하게 된다.
+
+<!-- end list -->
+
+  - 모모 베리아 데빌룩(モモ·ベリア·デビル-ク)
+    성우 - [토요사키 아키](../Page/토요사키_아키.md "wikilink")
+    라라의 쌍둥이 여동생이자 데빌룩 성 제3의 왕녀. 나나와 함께 지구로 오게 되었으며 식물과 대화하는 능력을 가졌다. 리토를 중심으로 하는 하렘계획을 이끌어가는 장본인이다. 리토 앞에서는 요조숙녀이지만 어둡고 난폭한 성질을 가지고 있기도 하다.
+
+<!-- end list -->
+
+  - 저스틴(ザスティン)
+    성우 - [코야스 타케히토](../Page/코야스_타케히토.md "wikilink") / [송준석](https://ko.wikipedia.org/wiki/송준석 "wikilink")
+    데빌룩성 왕실 친위대 대장. 데빌룩 최강의 검사로 불리는 남자로 사실상 라라의 보호자 적인 존재. 하지만 우주에서든 지구에서든 길을 잃는 일이 많다. 덤으로 나나와 모모자매를 데빌룩성으로 데려가려 했을 때도 둘에게 밀려 데려가지 못한다. 겉보기에는 용사 스토리의 최종보스같이 생겼지만 실제로는 그렇게 세지 않다.
+
+<!-- end list -->
+
+  - 기·브리(ギ・ブリー)
+    성우 - [마도노 미츠아키](https://ko.wikipedia.org/wiki/마도노_미츠아키 "wikilink")
+    라라와 결혼하려 하던 우주인의 한 명. 하지만 라라가 좋아하지 않는다. 리토가 다니는 학교에 체육교사 겸 테니스부 고문이기도 한 사스가 선생의 모습을 흉내내고 있었다.
+
+### 기타
+
+  - 매지컬 쿄코(マジカルキョーコ)
+    성우 - [치바 치에미](https://ko.wikipedia.org/wiki/치바_치에미 "wikilink") / [김민정](https://ko.wikipedia.org/wiki/김민정_\(성우\) "wikilink")
+    라라가 열중하고 있는 어린이 취향의 특촬 TV방송 《폭렬소녀 매지컬 쿄코》(뒤에 《폭렬마법소녀 매지컬 쿄코 염 -프레임-》으로 후속 시리즈 방영)의 주인공. To LOVE의 작품 세계중에선 가공의 인물. 본편의 스토리 내에선 리토 일행이 휘말려버린 3D 체감 롤플레잉 게임 세계 안에 존재하는 최종 보스(대마왕)으로 등장하였다. 그리고 2기에 해당하는 '좀 더 투러브 트러블'에선 실존 인물로 등장하며, 그녀는 외계인과 지구인의 혼혈아에다가, 실제로 불을 자유자재로 다룰 수 있는 걸로 등장한다.
+    모델은 야부키씨의 전작 《[블랙캣](https://ko.wikipedia.org/wiki/블랙캣 "wikilink")》의 등장인물 키리사키 쿄코. 그런 까닭으로 애니메이션의 담당 성우도 금빛 어둠과 마찬가지로 키리사키 쿄코와 동일한 치바 치에미씨가 기용되었다.
+
+<!-- end list -->
+
+  - 사이렌지 아키호(西連寺 秋穂)
+    성우 - [타카하시 미카코](../Page/타카하시_미카코.md "wikilink")
+    하루나의 언니로 자신이 빌린 집에 동생을 동거시키고 있다. 유우키가를 가출했던 라라에게, 하루나와 사이좋게 지내달라고 하는 등 외향적인 자신과는 대칭적으로 다소 조용한 성격에 덧 붙여 친구도 그렇게 많지 않은 여동생에게 신경을 쓰고 있다.
+
+<!-- end list -->
+
+  - 코테가와 유우 (古手川 優)
+    성우 - [아베 아츠시](https://ko.wikipedia.org/wiki/아베_아츠시 "wikilink")
+    유이의 오빠로 깐깐한 성격을 가지고 있다. 외모는 잘생긴 편이며 사이렌지 아키호를 좋아하고 있지만 별 성과는 없는듯하다. 유우키 리토와는 몇번 만난적이 있으며 유이의 남자친구로 낙점하고 있다.
+
+## 라라의 발명품
+
+  - 페케(ペケ)
+    성우 - [아라이 사토미](https://ko.wikipedia.org/wiki/아라이_사토미 "wikilink") / [이재현](https://ko.wikipedia.org/wiki/이재현 "wikilink")
+    의지를 가진 만능 코스튬 로봇. 눈은 소용돌이 모양을 하고 있으며, 등에 날개가 돋아 있다. 보통은 라라가 쓰고 있지만, 페케에게서 부담을 덜어주기 위해 종종 벗고 있는 듯하다.(이런 때를 위하여 따로 옷이 준비 되어 있는 듯.) [코스프레](../Page/코스프레.md "wikilink")에 가까운 모습(드레스 모드)부터 제복 모드까지 여러가지 형태로 변화할 수 있으며 다른 사람의 의복을 그대로 본 따는 것도 가능하다.
+
+<!-- end list -->
+
+  - 뿅뿅 워프 군(ぴょんぴょんワープくん)
+    생체단위의 단거리 워프가 가능하지만, 입고 있는 옷같은 것은 워프가 불가능. 목적지는 랜덤으로 정해진다('[좀 더 To LOVE -트러블-](https://ko.wikipedia.org/wiki/좀_더_To_LOVE_-트러블- "wikilink")'에서는 목적지 설정이 가능하다). 한 번 쓰면 에너지 충전에 하루가 걸린다.
+
+<!-- end list -->
+
+  - 고고 바큠 군(ごーごーバキュームくん)
+    문어 모양으로, 뭐든지 빨아들일 수 있다.
+
+<!-- end list -->
+
+  - 만능 공구(万能工具)
+    보통의 물체를 즉석에서 개조하는 것이 가능한 공구.
+
+:;붕붕 배트 군(만능 공구+배트)
+
+  -
+
+      -
+        라라가 배트를 즉석에서 개조시킨 도구. 분사구가 3개 달려 있어서 휘두르면 동시에 분사하는 것으로 거대한 힘을 발휘할 수 있는 모양이다.
+        사람을 날릴 수 있을 정도로 분사가 강력하여, 이걸로 인해 리토가 하늘 저편으로 날려가 버렸다.
+
+<!-- end list -->
+
+  - 킁킁 토레스 군(くんくんトレース君)
+    특정 인물을 찾는 개의 형상을 한 기계. 찾는 사람의 냄새를 맡는 것으로 목적의 인물을 찾아낸다. 저스틴을 찾기 위해 사용한 듯하다. 라라는 이것으로 리토를 찾아내기 위해, 그의 팬티를 가지고 다니고 있다.
+    말하는 것이 가능하며, 말끝에 “ㅁ다.”를 붙인다.(알겠습니다. 를 알겠슴다. 로 말하는 식으로)
+
+<!-- end list -->
+
+  - 바이바이 메모리 군(ばいばいメモリーくん)
+    리토 일행의 라라에 관계된 기억을 지우기 위해 사용하지만 전혀 효과가 없었다. 단, 저스틴 만에게는 자신의 이름을 잊어버릴 수준까지 과잉되게 효과가 있었다.
+
+<!-- end list -->
+
+  - 첨벙첨벙 물코끼리 군(でるでるミズゾウくん)
+    애니메이션판 오리지널 발명품. 작은 코끼리 모양의 인형처럼 생겼으며 코끼리 코에서 대량의 물을 방출해 낸다. 그 물의 양은 리토들이 놀러간 수족관이 위치한 고층 건물 한 채를 다 채우고도 넘쳐 날 정도이다.
+
+<!-- end list -->
+
+  - 시원시원 콘테라 군
+    애니메이션판 오리지널 발명품. 공간 만곡 시스템을 탑재하였으며, 뭐든지 넣을 수 있고 뭐든지 냉동시킬 수 있다. 하지만 내용물을 멋대로 해동시키는 게 단점.
+
+## 용어 설명
+
+  - 코롯토 감기(コロット風邪)
+    미열을 동반하며 성격이 완전 반대로 변하고 마는 증상이 나타나는 병. 라라가 리토의 생일 선물을 구하면서 걸렸던 바 있다.
+
+## 만화
+
+투 러브 트러블의 일본어판은 18권으로 완결되었고 한국어판도 18권까지 출판되었다.
+한글 제목은 한국어판 만화 기준으로 현재 한국어판이 발매된 경우에만 기입한다. 또한 수록된 연재분 내용은 원판에만 해당한다. 참고로, 한국어판의 경우 책에 표기된 발매일자와 실제 발매일자는 차이가 있는 경우가 있다.
+
+1.  **갑자기 나타난 소녀(舞い降りた少女)** 원판:, 한국어판:
+      -
+        원판:[2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [11월 11일](https://ko.wikipedia.org/wiki/11월_11일 "wikilink") 발매, 한국어판: [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [11월 25일](https://ko.wikipedia.org/wiki/11월_25일 "wikilink") 발매
+        《[주간 소년 점프](../Page/주간_소년_점프.md "wikilink")》 2006년 22호\~28호까지의 연재분 수록
+        한국어판의 경우 초판한정으로 CD케이스가 동봉되었다.
+2.  **두근두근 온천 여행(ドキドキ湯けむり旅情)** 원판:, 한국어판:
+      -
+        원판:[2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [2월 2일](https://ko.wikipedia.org/wiki/2월_2일 "wikilink") 발매, 한국어판: [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [12월 25일](https://ko.wikipedia.org/wiki/12월_25일 "wikilink") 발매
+        《주간 소년 점프》 2006년 29호\~38호까지의 연재분 수록
+3.  **돌격\! 비밀의 화원(突撃\!秘密の花園)** 원판:, 한국어판:
+      -
+        원판:[2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [4월 4일](https://ko.wikipedia.org/wiki/4월_4일 "wikilink") 발매, 한국어판: [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [1월 25일](https://ko.wikipedia.org/wiki/1월_25일 "wikilink") 발매
+        《주간 소년 점프》 2006년 39호\~47호까지의 연재분 수록
+4.  **좀 더 알고 싶어(もっと知りたい)** 원판:, 한국어판:
+      -
+        원판:[2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [6월 4일](https://ko.wikipedia.org/wiki/6월_4일 "wikilink") 발매, 한국어판: [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [2월 25일](https://ko.wikipedia.org/wiki/2월_25일 "wikilink") 발매
+        《주간 소년 점프》 2006년 46호\~2007년4·5합병호까지의 연재분 수록
+5.  **금빛 어둠(金色の闇)** 원판:, 한국어판:
+      -
+        원판:[2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [8월 3일](https://ko.wikipedia.org/wiki/8월_3일 "wikilink") 발매, 한국어판: [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [3월 25일](https://ko.wikipedia.org/wiki/3월_25일 "wikilink") 발매
+        《주간 소년 점프》 2007년 6·7합병호\~15호까지의 연재분 수록
+6.  **다시 한 번 여기서부터(もう一度ここから)** 원판:, 한국어판:
+      -
+        원판:[2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [10월 4일](https://ko.wikipedia.org/wiki/10월_4일 "wikilink") 발매, 한국어판: [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [4월 25일](https://ko.wikipedia.org/wiki/4월_25일 "wikilink") 발매
+        《주간 소년 점프》 2007년 16호\~25호까지의 연재분 수록
+7.  **하루나가 좋아하는 사람(春奈の好きな人)** 원판:, 한국어판:
+      -
+        원판:[2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [1월 4일](https://ko.wikipedia.org/wiki/1월_4일 "wikilink") 발매, 한국어판: [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [5월 25일](https://ko.wikipedia.org/wiki/5월_25일 "wikilink") 발매
+        《주간 소년 점프》 2007년 26호\~34호까지의 연재분 수록
+8.  **두근두근♥ 서바이벌(ドキドキ♥サバイバル)** 원판:, 한국어판:
+      -
+        원판:[2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [3월 4일](https://ko.wikipedia.org/wiki/3월_4일 "wikilink") 발매, 한국어판: [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [7월 25일](https://ko.wikipedia.org/wiki/7월_25일 "wikilink") 발매
+        《주간 소년 점프》 2007년 35호\~44호까지의 연재분 수록
+9.  **잠 못 이루는 밤(気になる夜)** 원판:, 한국어판:
+      -
+        원판:[2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [5월 2일](https://ko.wikipedia.org/wiki/5월_2일 "wikilink") 발매, 한국어판: [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [9월 25일](https://ko.wikipedia.org/wiki/9월_25일 "wikilink") 발매
+        《주간 소년 점프》 2007년 45호\~2008년 1호까지의 연재분 수록
+10. **목욕탕 전쟁(お風呂場戦争)** 원판:, 한국어판:
+      -
+        원판:[2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [8월 4일](https://ko.wikipedia.org/wiki/8월_4일 "wikilink") 발매, 한국어판: [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [11월 27일](https://ko.wikipedia.org/wiki/11월_27일 "wikilink") 발매
+11. **트러블 퀘스트(とらぶるクエスト)** 원판:, 한국어판:
+      -
+        원판:[2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [10월 3일](https://ko.wikipedia.org/wiki/10월_3일 "wikilink") 발매, 한국어판: [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [3월 25일](https://ko.wikipedia.org/wiki/3월_25일 "wikilink") 발매
+12. **소녀스러운 BOY♡(乙女ちっくボーイ♡)** 원판:, 한국어판:
+      -
+        원판:[2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [1월 5일](https://ko.wikipedia.org/wiki/1월_5일 "wikilink") 발매, 한국어판: [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [7월 25일](https://ko.wikipedia.org/wiki/7월_25일 "wikilink") 발매
+13. **축제의 밤에(祭りの夜に)** 원판:, 한국어판:
+      -
+        원판:[2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [4월 3일](https://ko.wikipedia.org/wiki/4월_3일 "wikilink") 발매, 한국어판: [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [9월 25일](https://ko.wikipedia.org/wiki/9월_25일 "wikilink") 발매
+14. **연애 동지♡(恋友♡)** 원판:, 한국어판:
+      -
+        원판:[2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [6월 4일](https://ko.wikipedia.org/wiki/6월_4일 "wikilink") 발매, 한국어판: [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [11월 25일](https://ko.wikipedia.org/wiki/11월_25일 "wikilink") 발매
+15. **꽃잎 공주(花びら姫)** 원판:, 한국어판:
+      -
+        원판:[2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [8월 1일](https://ko.wikipedia.org/wiki/8월_1일 "wikilink") 발매, 한국어판: [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [6월 30일](https://ko.wikipedia.org/wiki/6월_30일 "wikilink") 발매
+16. **남자와 초콜릿과... 나(男子とチョコと...私)** 원판:, 한국어판:
+      -
+        원판:[2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [11월 4일](https://ko.wikipedia.org/wiki/11월_4일 "wikilink") 발매, 한국어판: [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [8월 30일](https://ko.wikipedia.org/wiki/8월_30일 "wikilink") 발매
+17. **여자의 마음(オンナノコノキモチ)** 원판:, 한국어판:
+      -
+        원판:[2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [2월 4일](https://ko.wikipedia.org/wiki/2월_4일 "wikilink") 발매, 한국어판: [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [10월 30일](https://ko.wikipedia.org/wiki/10월_30일 "wikilink") 발매
+18. **너무좋아♡(大スキ♡)** 원판:, 한국어판:
+      -
+        원판:[2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [4월 2일](https://ko.wikipedia.org/wiki/4월_2일 "wikilink") 발매, 한국어판: [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [1월 30일](https://ko.wikipedia.org/wiki/1월_30일 "wikilink") 발매
+
+## TV 애니메이션 시리즈
+
+### 투 러브 트러블
+
+2008년에 만화를 원작으로 하여 동명의 TV 애니메이션 시리즈 1기 《**투 러브 트러블**》()이 제작되었고 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink")부터 [9월](https://ko.wikipedia.org/wiki/9월 "wikilink")까지 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")내 TBS 외의 방송사에서 방영하였다.
+
+[2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [12월 22일에](https://ko.wikipedia.org/wiki/12월_22일 "wikilink") 〈점프 페스타 2007〉 이벤트 중 정식으로 발표되었다(홍보 영상이 선행 상영되었음). 총 26화이다.
+
+[대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 [애니박스](https://ko.wikipedia.org/wiki/애니박스 "wikilink")를 통해 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [4월 6일부터](https://ko.wikipedia.org/wiki/4월_6일 "wikilink") 매주 3화 연속으로 한국어 더빙 방송을 시작하였다.
+
+#### 스탭
+
+  - 원작: [하세미 사키](https://ko.wikipedia.org/wiki/하세미_사키 "wikilink"), [야부키 켄타로](https://ko.wikipedia.org/wiki/야부키_켄타로 "wikilink")
+  - 감독: 카토 타카오
+  - 시리즈 구성: 야마토야 아카츠키
+  - 캐릭터 디자인·총작화감독: 오카 유우이치
+  - 미술감독: 와타나베 케이토
+  - 음향감독: 미마 마사후미
+  - 애니메이션 제작: XEBEC
+  - 제작협력
+      - [슈에이샤](../Page/슈에이샤.md "wikilink")
+      - [에이벡스 엔터테인먼트](../Page/에이벡스_엔터테인먼트.md "wikilink")
+      - 제네온 엔터테인먼트
+      - XEBEC
+  - 제작: 트러블 제작위원회, TBS
+
+#### 주제가
+
+  - 오프닝 테마 〈forever we can make it\!〉
+    노래:THYME
+  - 엔딩 테마1 〈럭키 튠(ラッキーチューン)〉(1화\~13화, 26화)
+    노래:ANNA(from Bon-Bon Blanco)
+  - 엔딩 테마2 〈키스의 행방(kissの行方)〉(14화\~25화)
+    노래:ANNA(from Bon-Bon Blanco)
+
+#### 각화 제목
+
+<table>
+<thead>
+<tr class="header">
+<th><p>화수</p></th>
+<th><p>일본 제목</p></th>
+<th><p>제목(뜻)</p></th>
+<th><p>화수</p></th>
+<th><p>한국 제목</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1화</p></td>
+<td><p>舞い降りた少女</p></td>
+<td><p>갑자기 나타난 소녀</p></td>
+<td><p>1화</p></td>
+<td><p>하늘에서 내려온 소녀</p></td>
+</tr>
+<tr class="even">
+<td><p>2화</p></td>
+<td><p>婚約解消!?</p></td>
+<td><p>약혼 취소!?</p></td>
+<td><p>2화</p></td>
+<td><p>약혼 취소!?</p></td>
+</tr>
+<tr class="odd">
+<td><p>3화</p></td>
+<td><p>三角関係</p></td>
+<td><p>삼각관계</p></td>
+<td><p>3화</p></td>
+<td><p>삼각관계</p></td>
+</tr>
+<tr class="even">
+<td><p>4화</p></td>
+<td><p>宇宙のLOVEエプロン</p></td>
+<td><p>우주의 LOVE 앞치마</p></td>
+<td><p>4화</p></td>
+<td><p>사랑의 우주 앞치마</p></td>
+</tr>
+<tr class="odd">
+<td><p>5화</p></td>
+<td><p>くいーんの挑戦状</p></td>
+<td><p>여왕의 도전장</p></td>
+<td><p>5화</p></td>
+<td><p>여왕의 도전장</p></td>
+</tr>
+<tr class="even">
+<td><p>6화</p></td>
+<td><p>宇宙人の刺客</p></td>
+<td><p>우주인 자객</p></td>
+<td><p>6화</p></td>
+<td><p>우주의 자객</p></td>
+</tr>
+<tr class="odd">
+<td><p>7화</p></td>
+<td><p>男とはかくあるべし!</p></td>
+<td><p>남자는 격이 있어야 한다!</p></td>
+<td><p>7화</p></td>
+<td><p>진짜 사나이!</p></td>
+</tr>
+<tr class="even">
+<td><p>8화</p></td>
+<td><p>清廉潔白風紀委員</p></td>
+<td><p>청렴결백 풍기위원</p></td>
+<td><p>8화</p></td>
+<td><p>청림결백 선도부원</p></td>
+</tr>
+<tr class="odd">
+<td><p>9화</p></td>
+<td><p>光星より愛を込めて</p></td>
+<td><p>광성으로부터 사랑을 담고</p></td>
+<td><p>9화</p></td>
+<td><p>별빛보다 사랑을 찾아</p></td>
+</tr>
+<tr class="even">
+<td><p>10화</p></td>
+<td><p>宇宙の女芸人</p></td>
+<td><p>우주 여자 연예인</p></td>
+<td><p>10화</p></td>
+<td><p>우주 예능인</p></td>
+</tr>
+<tr class="odd">
+<td><p>11화</p></td>
+<td><p>金色の闇</p></td>
+<td><p>금빛 어둠</p></td>
+<td><p>11화</p></td>
+<td><p>금빛 어둠</p></td>
+</tr>
+<tr class="even">
+<td><p>12화</p></td>
+<td><p>戦慄!体育祭</p></td>
+<td><p>전율! 체육대회</p></td>
+<td><p>12화</p></td>
+<td><p>공포의 운동회</p></td>
+</tr>
+<tr class="odd">
+<td><p>13화</p></td>
+<td><p>宇宙一の男</p></td>
+<td><p>우주 제일의 남자</p></td>
+<td><p>13화</p></td>
+<td><p>우주 최고의 남자</p></td>
+</tr>
+<tr class="even">
+<td><p>14화</p></td>
+<td><p>ふたりだけの秘密</p></td>
+<td><p>둘만의 비밀</p></td>
+<td><p>14화</p></td>
+<td><p>둘만의 비밀</p></td>
+</tr>
+<tr class="odd">
+<td><p>15화</p></td>
+<td><p>密林のプリンセス</p></td>
+<td><p>밀림의 공주</p></td>
+<td><p>15화</p></td>
+<td><p>밀림의 공주</p></td>
+</tr>
+<tr class="even">
+<td><p>16화</p></td>
+<td><p>ルンの突撃告白タイム</p></td>
+<td><p>룬의 돌격 고백 타임</p></td>
+<td><p>16화</p></td>
+<td><p>룬의 깜짝 고백 작전!</p></td>
+</tr>
+<tr class="odd">
+<td><p>17화</p></td>
+<td><p>旧校舎の幽霊</p></td>
+<td><p>구 교사의 유령</p></td>
+<td><p>17화</p></td>
+<td><p>구 교사의 유령</p></td>
+</tr>
+<tr class="even">
+<td><p>18화</p></td>
+<td><p>猿山がお土産</p></td>
+<td><p>사루야마가 선물</p></td>
+<td><p>18화</p></td>
+<td><p>사루야마의 대 위기</p></td>
+</tr>
+<tr class="odd">
+<td><p>19화</p></td>
+<td><p>地獄温泉女宇宙人七色ポロリ</p></td>
+<td><p>지옥온천 여자 우주인 일곱 빛깔 훌쩍</p></td>
+<td><p>19화</p></td>
+<td><p>지옥 온천과 여자 우주인과 뾰로롱 무지개!</p></td>
+</tr>
+<tr class="even">
+<td><p>20화</p></td>
+<td><p>爆熱少女マジカルキョーコ炎（フレイム）</p></td>
+<td><p>폭렬소녀 매지컬 쿄코 플레임</p></td>
+<td><p>20화</p></td>
+<td><p>불꽃 소녀 매지컬 쿄코 플레임</p></td>
+</tr>
+<tr class="odd">
+<td><p>21화</p></td>
+<td><p>結城亭血風録</p></td>
+<td><p>유우키 정 혈풍록</p></td>
+<td><p>21화</p></td>
+<td><p>유우키장 잔혹사</p></td>
+</tr>
+<tr class="even">
+<td><p>22화</p></td>
+<td><p>戦慄!文化祭</p></td>
+<td><p>전율! 문화제</p></td>
+<td><p>22화</p></td>
+<td><p>결전의 축제날!</p></td>
+</tr>
+<tr class="odd">
+<td><p>23화</p></td>
+<td><p>猿山の大奥物語</p></td>
+<td><p>사루야마의 오오쿠 이야기</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>24화</p></td>
+<td><p>はじらいながら</p></td>
+<td><p>수줍어하면서</p></td>
+<td><p>23화</p></td>
+<td><p>얼굴을 붉히면서</p></td>
+</tr>
+<tr class="odd">
+<td><p>25화</p></td>
+<td><p>地球最後の夜</p></td>
+<td><p>지구 최후의 밤</p></td>
+<td><p>24화</p></td>
+<td><p>지구 최후의 밤</p></td>
+</tr>
+<tr class="even">
+<td><p>26화</p></td>
+<td><p>ララ</p></td>
+<td><p>라라</p></td>
+<td><p>25화</p></td>
+<td><p>라라</p></td>
+</tr>
+</tbody>
+</table>
+
+#### 대한민국 방영
+
+  - 제목: To LOVE(투러브) -트러블-
+  - 번역: 양준모
+  - 녹음,믹싱: 이성수
+  - 타이틀: 조아라
+  - CG: 이강희
+  - 자막: 김효정
+  - 조연출: 서정은
+  - 연출: 황태훈
+  - 기획: [애니박스](https://ko.wikipedia.org/wiki/애니박스 "wikilink")
+  - 방영: [애니박스](https://ko.wikipedia.org/wiki/애니박스 "wikilink")
+  - 더빙 제작: [대원방송](https://ko.wikipedia.org/wiki/대원방송 "wikilink")㈜
+
+##### 목소리 출연
+
+  - [이지영](../Page/이지영_\(성우\).md "wikilink"): 유우키 리토 역
+  - [정소영](https://ko.wikipedia.org/wiki/정소영_\(성우\) "wikilink"): 라라 사타린 데빌룩 역
+  - [박선영](https://ko.wikipedia.org/wiki/박선영_\(성우\) "wikilink"): 사이렌지 하루나 역
+  - [송준석](https://ko.wikipedia.org/wiki/송준석 "wikilink"): 저스틴 역
+  - [이지현](https://ko.wikipedia.org/wiki/이지현_\(성우\) "wikilink"): 유우키 미캉 / 코테가와 유이 역
+  - [이재현](https://ko.wikipedia.org/wiki/이재현 "wikilink"): 금색의 어둠 / 페케 역
+  - [문남숙](https://ko.wikipedia.org/wiki/문남숙 "wikilink"): 렌 / 룬 역
+  - [오인실](https://ko.wikipedia.org/wiki/오인실 "wikilink"): 텐죠인 사키 역
+  - [김민정](https://ko.wikipedia.org/wiki/김민정_\(성우\) "wikilink"): 후지사키 아야 / 매지컬 쿄코 / 진짜 기브리 역
+  - [이명희](https://ko.wikipedia.org/wiki/이명희_\(성우\) "wikilink"): 쿠죠 린 / 스텔라 역
+  - [서원석](https://ko.wikipedia.org/wiki/서원석 "wikilink"): 모테미츠 / 기브리 역
+  - [최낙윤](https://ko.wikipedia.org/wiki/최낙윤 "wikilink"): 교장 역
+  - [이미나](https://ko.wikipedia.org/wiki/이미나_\(성우\) "wikilink"): 미카도 료코 선생님 역
+  - [임하진](https://ko.wikipedia.org/wiki/임하진 "wikilink")(구 임경명): 사루야마 켄이치 역
+  - [서유리](https://ko.wikipedia.org/wiki/서유리 "wikilink"): 모미오카 리사 / 오시즈 역
+  - [김성연](https://ko.wikipedia.org/wiki/김성연 "wikilink"): 사와다 미오 / 사이렌지 아키호 / 라코스포 역
+  - [박서진](https://ko.wikipedia.org/wiki/박서진 "wikilink")(구 박상태): 피카리 / 호네카와 선생 역
+  - [시영준](../Page/시영준.md "wikilink"): 기드 루시온 데빌룩 역
+
+### ‎좀 더 To LOVE루 -트러블-
+
+[2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink")에는 『**좀 더 To LOVE루 -트러블-**』(이란 이름으로 TV 애니메이션 시리즈 2기가 제작되었다.
+
+[XEBEC](../Page/XEBEC.md "wikilink")가 애니메이션 제작을 담당하였고, 2010년 10월 6일부터 매주 수요일 새벽 2시에 TOKYO MX, 치바TV, SUN TV 등에서 방영하였다.
+
+#### 출연진
+
+  - [와타나베 아케노](../Page/와타나베_아케노.md "wikilink"): 유우키 리토 역
+  - [토마츠 하루카](https://ko.wikipedia.org/wiki/토마츠_하루카 "wikilink"): 라라·사타린·데빌루크 역
+  - [야하기 사유리](https://ko.wikipedia.org/wiki/야하기_사유리 "wikilink"): 사이렌지 하루나 역
+  - [하나자와 카나](../Page/하나자와_카나.md "wikilink"): 유우키 미캉 역
+  - [카와스미 아야코](../Page/카와스미_아야코.md "wikilink"): 텐죠우인 사키 역
+  - [나즈카 가오리](https://ko.wikipedia.org/wiki/나즈카_가오리 "wikilink"): 코테가와 유이 역
+  - 오우라 후유카: 렌 / 룬 역
+  - [요시노 히로유키](https://ko.wikipedia.org/wiki/요시노_히로유키 "wikilink"): 사루야마 켄이치 역
+  - [유즈키 료카](../Page/유즈키_료카.md "wikilink"): 모미오카 리사 역
+  - [지바 지에미](https://ko.wikipedia.org/wiki/지바_지에미 "wikilink"): 사와다 미오 역
+  - [하시모토 마이](https://ko.wikipedia.org/wiki/하시모토_마이 "wikilink"): 쿠죠 린 역
+  - [미즈하시 카오리](../Page/미즈하시_카오리.md "wikilink"): 후지사키 아야 역
+  - [노토 마미코](https://ko.wikipedia.org/wiki/노토_마미코 "wikilink"): 무라사메 시즈 역
+  - 오가타 겐이치: 교장 역
+  - [후쿠엔 미사토](../Page/후쿠엔_미사토.md "wikilink"): 금색의 어둠 역
+  - [이토 가나에](https://ko.wikipedia.org/wiki/이토_가나에 "wikilink"): 나나·아스타·데빌루크 역
+  - [토요사키 아키](../Page/토요사키_아키.md "wikilink"): 모모·베리아·데빌루크 / 페케 역
+
+#### 제작진
+
+  - 원작: [하세미 사키](https://ko.wikipedia.org/wiki/하세미_사키 "wikilink"), [야부키 켄타로](https://ko.wikipedia.org/wiki/야부키_켄타로 "wikilink")
+  - 감독: 오오츠키 아츠시
+  - 시리즈 구성: 야마다 야스노리
+  - 캐릭터 디자인: 오카 유이치
+  - 음향감독: 아케타가와 진
+  - 음악: 와타나베 타케시
+  - 오프닝 테마: KOTOKO 「Loop-the-Loop」
+  - 엔딩 테마: 토마츠 하루카 「Baby Baby Love」
+  - 애니메이션 제작: [XEBEC](../Page/XEBEC.md "wikilink")
+
+## 게임
+
+  - [PSP판](https://ko.wikipedia.org/wiki/플레이스테이션_포터블 "wikilink")
+    To LOVE루 -트러블- 두근두근\! 해변학교편(To LOVEる -とらぶる- ドキドキ\! 臨海学校編)
+    장르：2D [어드벤처](https://ko.wikipedia.org/wiki/AVG_\(게임\) "wikilink")
+    발매일：2008년 9월 25일
+  - [DS판](https://ko.wikipedia.org/wiki/닌텐도_DS "wikilink")
+    To LOVE루 -트러블- 두근두근\! 여름학교편(To LOVEる -とらぶる- ワクワク\! 林間学校編)
+    장르：2D 디지털 코믹+3D 터치액션
+    발매일：2008년 8월 28일
+
+## 웹 라디오
+
+**〈라디오 To LOVE루 -트러블- \~아케노·사유리의 사이나 고교 방송부\~〉**
+
+  - 퍼스널리티: [와타나베 아케노](../Page/와타나베_아케노.md "wikilink")(유우키 리토 역), [야하기 사유리](https://ko.wikipedia.org/wiki/야하기_사유리 "wikilink")(사이렌지 하루나 역)
+  - 방송 사이트: 애니메이트 TV
+  - 방송 기간: 2008년 3월 28일 -
+
+## 관련 상품
+
+  - 드라마 CD: 2008년 2월 29일 발매. . 초회한정판엔 일러스트 첨부 미니 클리어 파일이 들어있다.
+
+## 같이 보기
+
+  - [블랙캣](https://ko.wikipedia.org/wiki/블랙캣 "wikilink")
+  - [주간 소년 점프](../Page/주간_소년_점프.md "wikilink")
+  - [TBS 계열 애니메이션](https://ko.wikipedia.org/wiki/TBS_계열_애니메이션 "wikilink")
+
+## 출처
+
+<references/>
+
+## 외부 링크
+
+  - [트러블 닷컴(공식 사이트)](http://www.j-toloveru.com/)
+
+  - [트러블 닷컴 시리즈 1작 정보](http://www.j-toloveru.com/old_tolove/)
+
+  - [TV 애니메이션 공식 사이트](http://www.tbs.co.jp/anime/to-love-ru/)
+
+  - [XEBEC 내 작품 소개 사이트](https://web.archive.org/web/20080418020446/http://www.xebec-inc.co.jp/anime/toloveru/)
+
+  - [닌텐도 DS/PSP판 게임 공식 사이트](http://www.mmv.co.jp/special/game/to-love-ru/)
+
+  - [라디오 To LOVE -트러블- \~아케노·사유리의 사이나 고교 방송부\~](http://www.animate.tv/digital/web_radio/detail_130)
+
+[분류:일본의 만화](https://ko.wikipedia.org/wiki/분류:일본의_만화 "wikilink") [분류:2006년 만화](https://ko.wikipedia.org/wiki/분류:2006년_만화 "wikilink") [분류:2008년 애니메이션](https://ko.wikipedia.org/wiki/분류:2008년_애니메이션 "wikilink") [분류:2009년 애니메이션](https://ko.wikipedia.org/wiki/분류:2009년_애니메이션 "wikilink") [분류:2010년 애니메이션](https://ko.wikipedia.org/wiki/분류:2010년_애니메이션 "wikilink") [분류:2012년 애니메이션](https://ko.wikipedia.org/wiki/분류:2012년_애니메이션 "wikilink") [분류:TBS 계열 애니메이션](https://ko.wikipedia.org/wiki/분류:TBS_계열_애니메이션 "wikilink") [분류:고등학교를 배경으로 한 애니메이션](https://ko.wikipedia.org/wiki/분류:고등학교를_배경으로_한_애니메이션 "wikilink") [분류:NBC유니버설 재팬 애니메이션](https://ko.wikipedia.org/wiki/분류:NBC유니버설_재팬_애니메이션 "wikilink") [분류:2008년 비디오 게임](https://ko.wikipedia.org/wiki/분류:2008년_비디오_게임 "wikilink") [분류:닌텐도 DS 게임](https://ko.wikipedia.org/wiki/분류:닌텐도_DS_게임 "wikilink") [분류:플레이스테이션 포터블 게임](https://ko.wikipedia.org/wiki/분류:플레이스테이션_포터블_게임 "wikilink") [분류:플레이스테이션 비타 게임](https://ko.wikipedia.org/wiki/분류:플레이스테이션_비타_게임 "wikilink")
+
+1.
+2.
+3.

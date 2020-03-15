@@ -1,0 +1,17 @@
+> This article is converted from Wikipedia: [LG](https://ko.wikipedia.org/wiki/LG).
+
+
+**LG 파워콤** (LG Powercomm)은 [한국전력공사](https://ko.wikipedia.org/wiki/한국전력공사 "wikilink")가 통신 사업을 해서는 안 된다는 정부의 결정에 따라 통신 사업 부문이 분리되어 [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [1월 26일에](https://ko.wikipedia.org/wiki/1월_26일 "wikilink") 설립된 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 통신 사업자였다.\[1\] [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [12월 16일](https://ko.wikipedia.org/wiki/12월_16일 "wikilink") [LG데이콤](https://ko.wikipedia.org/wiki/LG데이콤 "wikilink")이 지분 45.5%를 취득하여 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink") [LG그룹](../Page/LG그룹.md "wikilink")으로 편입되었다.\[2\] 초고속 인터넷 XPEED(엑스피드), [IPTV](https://ko.wikipedia.org/wiki/인터넷_프로토콜_텔레비전 "wikilink") myLGtv, [인터넷 전화](https://ko.wikipedia.org/wiki/VoIP "wikilink") [myLG070](https://ko.wikipedia.org/wiki/myLG070 "wikilink") 을 서비스하였다. [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [1월 1일에](https://ko.wikipedia.org/wiki/1월_1일 "wikilink") [LG텔레콤](https://ko.wikipedia.org/wiki/LG텔레콤 "wikilink")이 LG파워콤과 [LG데이콤](https://ko.wikipedia.org/wiki/LG데이콤 "wikilink")을 흡수 합병하는 방식으로 새로운 통합법인 [통합LG텔레콤](https://ko.wikipedia.org/wiki/통합LG텔레콤 "wikilink")이 출범하였다.
+
+## 참조
+
+## 외부 링크
+
+  - [엑스피드](http://www.xpeed.com/)
+  - [myLGtv](http://www.mylgtv.com/)
+  - [myLG070](http://www.mylg070.com/)
+
+[분류:LG유플러스](https://ko.wikipedia.org/wiki/분류:LG유플러스 "wikilink") [분류:대한민국의 없어진 통신 기업](https://ko.wikipedia.org/wiki/분류:대한민국의_없어진_통신_기업 "wikilink") [분류:대한민국의 통신 기업](https://ko.wikipedia.org/wiki/분류:대한민국의_통신_기업 "wikilink") [분류:2000년 설립](https://ko.wikipedia.org/wiki/분류:2000년_설립 "wikilink") [분류:2009년 폐지](https://ko.wikipedia.org/wiki/분류:2009년_폐지 "wikilink") [분류:한국전력공사의 이전 자회사](https://ko.wikipedia.org/wiki/분류:한국전력공사의_이전_자회사 "wikilink")
+
+1.
+2.

@@ -1,0 +1,128 @@
+> This article is converted from Wikipedia: [ BSC](https://ko.wikipedia.org/wiki/_BSC).
+
+
+**헤르타 베를리너 슈포르트-클루프 폰 1892** (Hertha Berliner Sport-Club von 1892) 는 흔히 **헤르타 BSC** () 혹은 **헤르타 베를린** (Hertha Berlin) 으로 알려진 수도 [베를린](../Page/베를린.md "wikilink")을 연고로 하는 [독일의 축구 클럽이다](https://ko.wikipedia.org/wiki/독일의_축구 "wikilink"). 헤르타 BSC는 1892년에 창단되었다. 헤르타는 1900년 [라이프치히](https://ko.wikipedia.org/wiki/라이프치히 "wikilink")의 [독일 축구 협회 창립 멤버였다](https://ko.wikipedia.org/wiki/DFB_창립_클럽 "wikilink"). 헤르타 BSC는 독일 축구 1부리그인 [분데스리가에](https://ko.wikipedia.org/wiki/푸스발-분데스리가 "wikilink") 소속되어 있으며, [2012-13 시즌에](https://ko.wikipedia.org/wiki/2._푸스발-분데스리가_2012-13 "wikilink") [2. 분데스리가에서](https://ko.wikipedia.org/wiki/2._푸스발-분데스리가 "wikilink") 우승을 거둔 후에 승격되었다. 헤르타 BSC는 1930년과 1931년에 [독일 챔피언십](https://ko.wikipedia.org/wiki/독일_축구_리그_우승팀 "wikilink") 우승을 거두었다. 1963년 이래, 헤르타 BSC는 [올림피아슈타디온을](https://ko.wikipedia.org/wiki/베를린_올림픽_스타디움 "wikilink") 홈구장으로 사용하고 있다.
+
+## 역사
+
+[300px](https://ko.wikipedia.org/wiki/파일:Hertha_BSC_Performance_Chart.png "wikilink") 이후 헤르타 BSC의 연간 실적\]\]
+
+### 초창기
+
+클럽은 1892년, 청색과 백색의 굴뚝을 가진 증기선의 이름을 딴 *BFC 헤르타 92* (BFC Hertha 92) 라는 이름으로 창단되었다.\[1\] 클럽을 창단한 젊은이 4명 중 1명은 그의 아버지를 따라 이 증기선으로 여행을 하였다. 헤르타란 이름은 게르만 신화의 풍요 여신인 [네르투스](https://ko.wikipedia.org/wiki/네르투스 "wikilink")의 다른 이름이다.
+
+헤르타는 1905년 첫 베를린 선수권을 우승하는 것을 포함하여 꾸준히 좋은 성적을 거두었다.\[2\] 1910년 5월, 헤르타는 [사우스엔드 유나이티드와의](https://ko.wikipedia.org/wiki/사우스엔드_유나이티드_FC "wikilink") 친선경기에서 승리하였는데, 이는 당시 축구의 기원이자 축구를 지배하던 잉글랜드 클럽을 상대로 거둔 승리였기에 큰 의미를 가졌다.\[3\] 그러나, 재정적으로는 그리 큰 성공을 거두지 못하였는데, 1920년에 충실한 노동 계층\[4\]의 지지와 [베를리너 슈포어트-클루브](https://ko.wikipedia.org/wiki/베를리너_슈포어트-클루브 "wikilink") (Berliner Sport-Club) 가 합쳐져 *헤르타 베를리너 슈포어트-클루브* (Hertha Berliner Sport-Club) 이 되었다.\[5\] 새로 통합된 구단은 [오버리가 베를린-브란덴부르크에서](https://ko.wikipedia.org/wiki/오버리가_베를린-브란덴부르크 "wikilink") 큰 성공을 거두기도 하였으나, 큰 굴욕을 당하기도 하였다. 팀은 1926년부터 1931녀까지 6시즌 연속으로 독일 챔피언쉽 결승전에 진출하였으나, 이 중 1930년과 1931년에 단 두번만을 우승하였고,\[6\] *BSC*는 첫 챔피언쉽 우승 후 독립하였다. 그에도 불구하고 *헤르타* (Hertha) 는 제1, 2차 세계대전 전쟁 사이 기간동안 독일의 두번째로 성공적인 구단이었다.
+
+### 제3제국 시기
+
+독일 축구는 1933년 [제3제국이](https://ko.wikipedia.org/wiki/나치_독일 "wikilink") 출범하면서 16기의 1부 리그로 나뉘게 되었고, *헤르타* (Hertha) 는 이 시기에 [가울리가 베를린-브란덴부르크에](https://ko.wikipedia.org/wiki/가울리가_베를린-브란덴부르크 "wikilink") 소속되었다. 클럽은 소속된 리그에서 계속해서 성공을 거두었고, 대개 리그를 상위권으로 마무리하였으며, 1935년, 1937년, 그리고 1944년에는 우승을 거두었다. 그러나, 패권을 서서히 잃은 헤르타는 국가 챔피언쉽의 하위 라운드에도 진출하지 못하였다. 정치적으로, 이 클럽은 히틀러의 주시 하에 놓였는데, 당시 나치당 일원이었던 한스 파이퍼 (Hans Pfeifer) 가 클럽 회장을 부임하였었다.\[7\]\[8\]
+
+### 종전 후 갈라진 베를린
+
+제2차 세계 대전 종전 후, 독일을 점령한 연합군 관계자들은 스포츠 및 축구 클럽들을 포함하여 독일의 대부분의 조직 활동을 금지시켰다. 1945년, 헤르타는 1945년에 *SG 게준트브루넨* (SG Gesundbrunnen) 으로 재조직되었고, 오버리가 베를린 C조에서 활동을 재개하였다. 종전 후 오버리가 베를린의 첫 시즌에 소속된 팀의 숫자는 36개에서 이듬해에 12개로 줄어들었고, 클럽은 축구 1부 리그에서 제외되어 아마토이어리가 베를린으로 옮겼다. 1949년 말, 팀은 본명인 *헤르타 BSC 베를린* (Hertha BSC Berlin) 으로 환원되었고, 1부리그로 복귀하였다.
+
+시 여러 구역을 점령한 서부 연합국들(미국, 영국, 프랑스)과 소비에트 연방 간의 긴장 관계가 고조되었고, 이는 [냉전](https://ko.wikipedia.org/wiki/냉전 "wikilink")으로 이어졌으며, 수도 베를린의 축구는 혼돈의 소용돌이에 빠지게 된다. 헤르타는 몇 명의 선수들과 감독이 [드레스덴](../Page/드레스덴.md "wikilink")을 연고로 하는 [프리드리히슈타트에서](https://ko.wikipedia.org/wiki/드레스데너_SC "wikilink") 도주하여 합류함에 따라, 1949-50 시즌 동안 [동독](https://ko.wikipedia.org/wiki/독일_민주_공화국 "wikilink") 클럽들과의 경기가 금지되었다.\[9\] 시 동부에 있던 몇 팀들은 오버리가 베를린에서 퇴출되었고, 이 팀들은 1950-51 시즌을 기점으로 새로 출범한 [DDR-리가](../Page/DDR-리가.md "wikilink")에 속하게 되었다.
+
+1950년대에 팀은 [테니스 보루시아 베를린과](https://ko.wikipedia.org/wiki/테니스_보루시아_베를린 "wikilink") 격렬한 라이벌 관계를 가졌다. 1958년에 두 클럽 간의 합병이 제안되었으나, 이는 266명 중 3명만이 찬성하면서 기각되었다.\[10\]
+
+### 분데스리가 진입
+
+1963년 [분데스리가](https://ko.wikipedia.org/wiki/푸스발-분데스리가 "wikilink") 출범 당시, 헤르타는 베를린의 디펜딩 챔피언임에 따라 새로 출범한 국내 리그의 창립 멤버가 되었다.\[11\] 1964-65 시즌에 팀은 강등권을 벗어나서 시즌을 마무리하였으나, 시 내로 선수를 불러들이기 위해 매수하려는 시도가 적발되는 [베를린 장벽이](https://ko.wikipedia.org/wiki/베를린_장벽 "wikilink") 세워진 후로는 불쾌한 분위기가 조성되었고, 팀은 강등되었다.\[12\] 이 사태로 전 수도를 연고로 하는 클럽이 없게 됨에 따라 정치적인 요인으로 보드진에게 그들이 원하는 분데스리가의 조성에 위기를 불러모았다. 여러 단계의 술수를 거쳐 결국 [타스마니아 베를린이](https://ko.wikipedia.org/wiki/SC_타스마니아_1900_베를린 "wikilink") 승격되었는데, 이 팀은 분데스리가 역사상 최악의 팀으로 기록되었다. 1968-69 시즌, 헤르타는 독일 1부 리그에 복귀하였고, 이후 우수한 활약을 펼치며, 베를린의 최고 인기팀이 되었다.\[13\]
+
+그러나, 헤르타는 1971년에 또다시 스캔들에 연루되었는데, 이번에는 다른 몇 클럽들과 분데스리가에서 승부 조작 혐의를 받았다. 헤르타의 역할에 대해 조사를 착수하던 도중, 클럽이 6M DM의 빚을 졌다는 것이 밝혀졌다. 재정적 문제는 팀의 전 홈구장 매각으로 면할 수 있었다.\[14\]
+
+이에도 불구하고, 팀은 70년대에 들어서 평타 이상의 성공을 거두었고, 1974-75 시즌에는 [묀헨글라트바흐에](https://ko.wikipedia.org/wiki/보루시아_묀헨글라트바흐 "wikilink") 뒤쳐진 준우승을 거두었고,\[15\] [UEFA컵에서는](https://ko.wikipedia.org/wiki/UEFA_유로파리그 "wikilink") 1979년에 준결승 진출을 이룩하였으며,\[16\] 1977년과 1979년에는 [DFB-포칼](https://ko.wikipedia.org/wiki/DFB-포칼 "wikilink") 결승전에 진출하였다.\[17\] 이어지는 시즌, 팀의 운이 쇠하여 악화일로를 걸었고, 결국 [2. 분데스리가로](https://ko.wikipedia.org/wiki/2._푸스발-분데스리가 "wikilink") 강등되었는데,\[18\] 이어지는 17시즌동안 13시즌을 이곳에서 보냈다.
+
+1982년, [테니스 보루시아 베를린](https://ko.wikipedia.org/wiki/테니스_보루시아_베를린 "wikilink"), [블라우-바이스 베를린](https://ko.wikipedia.org/wiki/SpVgg_블라우-바이스_1900_베를린 "wikilink"), 그리고 [SCC 베를린과](https://ko.wikipedia.org/wiki/SCC_베를린 "wikilink") 합병하여 *FC 유토피아* (FC Utopia) 를 창설할 계획이 있었으나, 성사되지 않았다.\[19\] 헤르타는 3부 리그인 아마토이어 오버리가 베를린으로 가라앉아 두 시즌 (1986-87 시즌, 1987-88 시즌) 을 보냈다.\[20\] 비슷한 기간대에 팀은 2시즌 (1982-83 시즌,\[21\] 1990-91 시즌) 을 분데스리가에 올락오기도 하였으나, 형편 없는 활약 끝에 팀은 한시즌씩만에 강등되었다. 헤르타의 아마토이어 팀은 반면 성공하였는데, 1993년에는 [DFB-포칼](https://ko.wikipedia.org/wiki/DFB-포칼 "wikilink")의 결승전에 진출하였으나, [레버쿠젠과의](https://ko.wikipedia.org/wiki/바이어_04_레버쿠젠 "wikilink") 접전 끝에 0-1로 패하였다.\[22\]
+
+[베를린 장벽의](https://ko.wikipedia.org/wiki/베를린_장벽 "wikilink") 붕괴 후, 헤르타는 구 동독 지역에서도 인기팀이 되었다. 장벽 붕괴 이틀 후, 11,000명의 동베를린 시민들이 헤르타의 [바텐샤이트 09와의](https://ko.wikipedia.org/wiki/SG_바텐샤이트_09 "wikilink") 경기를 관전하러 경기장을 방문하였다.\[23\] [우니온 베를린과의](https://ko.wikipedia.org/wiki/1._FC_우니온_베를린 "wikilink") 친선 관계가 발전하기 시작하였고, 두 팀간의 친선전에 50,000명의 관중이 웅집하였다.\[24\] 1994년, 재정문제는 더욱 악화되었고, 팀은 10M DM의 빚을 지고 있다는 것이 확인되었다.\[25\] 위기는 또다시 부동산 주식 매각과 새 스폰서 계약, 보드진 교체로 해결되었다.\[26\] 1997년, 헤르타는 분데스리가 복귀를 이룩하였고,\[27\] 이후 리그 상위 3분의 1에 들었다. 1997년 헤르타의 승격 원년에, 베를린의 6년만에 분데스리가에 참가하는 팀을 두게 되었는데, 이에 따라 분데스리가는 최장 기간동안 국가의 최대 도시나 수도를 연고로 하는 팀 없이 치른 유럽 1부 리그로 기록되었다.
+
+### 최근 행보
+
+[left의](https://ko.wikipedia.org/wiki/파일:Ostkurve_in_Action.jpg "wikilink") *서쪽 스탠드* (Ostkurve).\]\] [섬네일가](https://ko.wikipedia.org/wiki/파일:Eintracht_frankfurt_gegen_hertha_bsc_albert_streit_vs_sofian_chahed.JPG "wikilink") 나왔다.\]\] 근래, 1999년을 기점으로 [UEFA 챔피언스리그와](../Page/UEFA_챔피언스리그.md "wikilink") [UEFA컵](https://ko.wikipedia.org/wiki/UEFA_유로파리그 "wikilink") 등의 대외컵에 연속으로 참가하면서 팀을 밝게 빛냈고, 이는 [제바스티안 다이슬러나](https://ko.wikipedia.org/wiki/제바스티안_다이슬러 "wikilink"), 브라질 국가대표이자 2005년 5월에 분데스리가 올해의 선수로 선정되었던 [마르셀리뉴](https://ko.wikipedia.org/wiki/마르셀루_두스_산투스 "wikilink") 등을 영입할 수 있었다. 헤르타는 유소년 아카데미에도 큰 예산을 투자하였고, 그 결과 분데스리가에 적합한 몇명의 유망주를 배출해냈다.
+
+팀은 [2003-04 시즌에](https://ko.wikipedia.org/wiki/푸스발-분데스리가_2003-04 "wikilink") 강등의 위기를 모면하였으나, 그 다음 시즌에 [하노버 96과의](https://ko.wikipedia.org/wiki/하노버_96 "wikilink") 최종전에서 비기는 와중에 [베르더 브레멘이](../Page/SV_베르더_브레멘.md "wikilink") 추월하는 바람에 챔피언스리그를 놓쳐 리그를 4위로 마감하였다. 감사의 표시로, 베르더는 [하노버](https://ko.wikipedia.org/wiki/하노버 "wikilink") 선수들에게 [샴페인](https://ko.wikipedia.org/wiki/샴페인 "wikilink") 96병을 선물하였다. 2005-06 시즌에 헤르타는 시즌을 6위로 마감하면서 [모스크바와의](https://ko.wikipedia.org/wiki/FK_모스크바 "wikilink") [UEFA 인터토토컵에서의](https://ko.wikipedia.org/wiki/UEFA_인터토토컵 "wikilink") 승리로 UEFA컵 진출권을 획득하였으나, 1라운드에서 [오덴세에](https://ko.wikipedia.org/wiki/오덴세_BK "wikilink") 패하며 탈락하였다. 2006-07 시즌, 헤르타는 리그를 10위로 마감하였고, 4월 11일에 [팔코 괴츠](https://ko.wikipedia.org/wiki/팔코_괴츠 "wikilink") 감독을 경질하였다. 2007-08 시즌, 헤르타는 새 시즌에 2006, 2007년의 스위스 슈퍼리그를 거미쥔 [뤼시앵 파브르](https://ko.wikipedia.org/wiki/뤼시앵_파브르 "wikilink") 감독을 [취리히에서](https://ko.wikipedia.org/wiki/FC_취리히 "wikilink") 모셔오며 시작하였다. 이 시즌도 리그를 10위로 마감하였으나, 페어 플레이 랭킹에 들어 UEFA컵 예선 1라운드에 참가할 수 있게 되었고, 대회의 조별 리그까지 진출하였다. 성공적인 [2008-09 시즌에](https://ko.wikipedia.org/wiki/헤르타_BSC_2008-09_시즌 "wikilink") 리그 우승 레이스를 33라운드까지 끌고 가 리그를 4위로 마친 이후, 팀은 [2009-10 시즌에](https://ko.wikipedia.org/wiki/헤르타_BSC_2009-10 "wikilink") 형편 없는 성적을 거두며 분데스리가 최하위를 차지하였다.
+
+[2010-11 시즌을](https://ko.wikipedia.org/wiki/2._푸스발-분데스리가_2010-11 "wikilink") [2. 분데스리가에서](https://ko.wikipedia.org/wiki/2._푸스발-분데스리가 "wikilink") 보낸 헤르타 BSC는 [뒤스부르크전에서](https://ko.wikipedia.org/wiki/MSV_뒤스부르크 "wikilink") 1-0으로 승리하며, 3경기를 남겨놓은 상황에서 2011-12 시즌의 [분데스리가](https://ko.wikipedia.org/wiki/푸스발-분데스리가 "wikilink") 복귀를 확정지었다. 그러나, 헤르타는 [2011-12 시즌을](https://ko.wikipedia.org/wiki/푸스발-분데스리가_2011-12 "wikilink") 16위로 마감하였고, [포르투나 뒤셀도르프와의](https://ko.wikipedia.org/wiki/포르투나_뒤셀도르프 "wikilink") [논란의 플레이오프전에서](https://ko.wikipedia.org/wiki/푸스발-분데스리가_2011-12#플레이오프 "wikilink") 패하며 강등당했다.
+
+[2012-13 시즌에](https://ko.wikipedia.org/wiki/2._푸스발-분데스리가_2012-13 "wikilink") 헤르타는 또다시 3시즌째에 2번째 우승을 거두며 승격에 성공하였다. [2013-14 시즌](https://ko.wikipedia.org/wiki/푸스발-분데스리가_2013-14 "wikilink") 개막전에서, 헤르타는 [아인트라흐트 프랑크푸르트와의](https://ko.wikipedia.org/wiki/아인트라흐트_프랑크푸르트 "wikilink") [올림피아슈타디온](https://ko.wikipedia.org/wiki/베를린_올림픽_스타디움 "wikilink") 홈경기에서 6-1 대승을 거두고 선두를 달리기도 하였다.
+
+## 경기장
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Olympicstadium2.jpg "wikilink") \]\] 1963년을 기점으로, 헤르타 BSC는 홈경기를 [1936년 하계 올림픽을](https://ko.wikipedia.org/wiki/1936년_하계_올림픽 "wikilink") 위해 지어졌던 베를린의 [올림피아슈타디온에서](https://ko.wikipedia.org/wiki/베를린_올림픽_스타디움 "wikilink") 치른다. 근래 리모델링을 통하여, 경기장의 수용 인원은 74,228석 (확장: 77,116석) 으로 증축하였고,\[28\] 이로 인해 이 경기장은 [도르트문트의](../Page/보루시아_도르트문트.md "wikilink") [베스트팔렌슈타디온](https://ko.wikipedia.org/wiki/지그날_이두나_파크 "wikilink") (82,932석, \~67,000석의 좌석 포함) 에 이어 독일에서 두번째 규모의 경기장을 가지게 되었다. 이 경기장은 1974년과 2000년에서 2004년 까지 대규모 리모델링을 거쳤다. 두 경우 모두 다가오는 [FIFA 월드컵을](https://ko.wikipedia.org/wiki/FIFA_월드컵 "wikilink") 위해 리모델링 되었다. 1974년 리모델링에서, 경기장의 일부가 지붕으로 덮였다. [2006년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵 "wikilink") 당시에는 현대화를 거쳤다. 이 때에, 육상 트랙의 색상은 헤르타의 클럽 색상과 맞추기 위해 청색으로 변경되었다. 헤르타 홈 경기 외에도, 올림피아슈타디온은 [독일 축구 국가대표팀의](https://ko.wikipedia.org/wiki/독일_축구_국가대표팀 "wikilink") 홈 구장들 중 하나로 사용되며, 콘서트, 트랙 및 필드 육상 대회, 그리고 연간 DFB-포칼 결승전도 주최한다. 이 곳은 [2006년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵 "wikilink") 당시 결승전을 포함하여 6경기를 주최하였다.
+
+1904년을 기점으로, 헤르타의 [홈 구장은](https://ko.wikipedia.org/wiki/슈타디온_암_게준트브루넨 "wikilink") [게준트브루넨 구의](https://ko.wikipedia.org/wiki/게준트브루넨_구_\(베를린\) "wikilink") 플룸페에 위치하였다. 경기장은 1923년에 35,000석 (3,600석의 좌석) 의 수용력을 가진 경기장으로 지어졌다. 1963년 [분데스리가가](https://ko.wikipedia.org/wiki/푸스발-분데스리가 "wikilink") 출범할 당시 기존의 홈 구장을 떠났다. 헤르타는 1965년부터 1968년까지 레기오날리가에 속해 있을 당시 이 곳으로 복귀하였다. 1971년 경기장 매각은 클럽의 파산을 면하는데 도움을 주었다.
+
+관중의 관심을 덜 끔에 따라, 헤르타는 1986년부터 1989년까지 2. 분데스리가 경기와 아마토이어리가 경기를 [포슈트슈타디온](https://ko.wikipedia.org/wiki/포슈트슈타디온 "wikilink")에서 치르었다. 1992-93 시즌의 개막전, [UEFA 인터토토컵](https://ko.wikipedia.org/wiki/UEFA_인터토토컵 "wikilink"), 그리고 [UEFA컵](https://ko.wikipedia.org/wiki/UEFA_유로파리그 "wikilink") 예선전 경기는 [프리드리히-루트비히-얀-슈포어트파크](https://ko.wikipedia.org/wiki/프리드리히-루트비히-얀-슈포어트파크 "wikilink")에서 치르었다.
+
+## 문양
+
+## 선수
+
+### 현재 선수 명단
+
+### 임대 선수 명단
+
+### 유명 선수
+
+  - [이비차 올리치](https://ko.wikipedia.org/wiki/이비차_올리치 "wikilink")
+
+  - [일한 만스즈](https://ko.wikipedia.org/wiki/일한_만스즈 "wikilink")
+
+  - [알리 다에이](https://ko.wikipedia.org/wiki/알리_다에이 "wikilink")
+
+  - [살로몽 칼루](https://ko.wikipedia.org/wiki/살로몽_칼루 "wikilink")
+
+  - [호소가이 하지메](https://ko.wikipedia.org/wiki/호소가이_하지메 "wikilink")
+
+  - [야노슬라프 드론비](https://ko.wikipedia.org/wiki/야노슬라프_드론비 "wikilink")
+
+  - [아드리안 라모스](https://ko.wikipedia.org/wiki/아드리안_라모스 "wikilink")
+
+  - [케빈 프린스 보아텡](https://ko.wikipedia.org/wiki/케빈_프린스_보아텡 "wikilink")
+
+## 경력
+
+### 리그
+
+### 컵
+
+## 각주
+
+<references />
+
+## 외부 링크
+
+  -
+  - [헤르타 BSC 공식 홈페이지](http://www.herthabsc.de)
+
+[헤르타_BSC](https://ko.wikipedia.org/wiki/분류:헤르타_BSC "wikilink") [분류:독일의 축구단](https://ko.wikipedia.org/wiki/분류:독일의_축구단 "wikilink") [분류:베를린의 축구단](https://ko.wikipedia.org/wiki/분류:베를린의_축구단 "wikilink") [분류:1892년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1892년_설립된_축구단 "wikilink")
+
+1.
+2.
+3.
+4.  Hesse-Lictenberger, Ulrich (2003), *Tor\! The Story of German Football*, WSG Books Ltd.
+5.
+6.
+7.
+8.  HA HO HE Hertha BSC; München: Copress-Verlag, 1971
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.

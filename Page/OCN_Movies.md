@@ -1,0 +1,47 @@
+> This article is converted from Wikipedia: [OCN Movies](https://ko.wikipedia.org/wiki/OCN_Movies).
+
+
+**OCN무비스**(OCN Movies)는 [CJ그룹](https://ko.wikipedia.org/wiki/CJ그룹 "wikilink")의 엔터테인먼트및 미디어영역의 업체인 [CJ ENM](https://ko.wikipedia.org/wiki/CJ_ENM "wikilink") 방송사업부문이 운영하는 [영화](../Page/영화.md "wikilink") 전문 [채널이다](https://ko.wikipedia.org/wiki/채널_\(통신\) "wikilink").
+
+## 개요
+
+개국당시 초창기엔 [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [3월 1일에](https://ko.wikipedia.org/wiki/3월_1일 "wikilink") 과거 [현대그룹](https://ko.wikipedia.org/wiki/현대그룹 "wikilink")에서 개국한 (구) HBS현대방송인데 같은 해 가을 시작된 작은 영웅들은 케이블TV가 제작한 최초의 본격드라마로 화제를모았다.\[1\] 하지만, 나중에 [SBS와](https://ko.wikipedia.org/wiki/SBS_\(대한민국의_방송사\) "wikilink") 공동제작하여\[2\] 해당 채널(HBS)에서는 주말극, [SBS에서는](https://ko.wikipedia.org/wiki/SBS_\(대한민국의_방송사\) "wikilink") 월화극으로 방영된 공동제작한 드라마 [사랑하니까가](https://ko.wikipedia.org/wiki/사랑하니까_\(드라마\) "wikilink") 초반에는 작가 [김수현씨](https://ko.wikipedia.org/wiki/김수현_\(작가\) "wikilink") 효과를 내세워 잘 나갔지만 허술한 연출, 등장인물의 정형화된 성격\[3\] 등뒤로 갈수록 부족한 구성이 드러났고 결국 중반이후 시청률이 갈수록 하락하여 기대이하의 성적에 그친데이어 (구) [iTV](https://ko.wikipedia.org/wiki/경인방송 "wikilink") 개국첫 연속극인 일일드라마 〈가족〉을 제작, 납품했으나\[4\](구) [iTV가](https://ko.wikipedia.org/wiki/경인방송 "wikilink") 경제난 때문에 이 작품을 끝으로 일일극을 폐지하여 경영 악화로 어려움을 겪어왔으며 [1999년 9월에](https://ko.wikipedia.org/wiki/1999년_9월 "wikilink") 넥스트미디어코퍼레이션 주식회사에서 인수하여 [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [3월 13일에](https://ko.wikipedia.org/wiki/3월_13일 "wikilink") 종합오락채널 (구) NTV로 명칭을 바꾸었고(구) [iTV는](https://ko.wikipedia.org/wiki/경인방송 "wikilink") [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [11월 4일](https://ko.wikipedia.org/wiki/11월_4일 "wikilink") 시작하여 월\~목 9시 30분 편성된 〈해바라기 가족〉을 통해\[5\] 일일드라마를 재편성했지만 신인들과 조연들의 매끄럽지 못한연기와 자연스럽게 연결되지 못한장면, 극의흐름을 끊는듯한 편집, 그리고 극의 지지부진한 전개등으로\[6\] 기대 이하의 성적에 그쳤으며 (구) [iTV는](https://ko.wikipedia.org/wiki/경인방송 "wikilink") 〈해바라기 가족〉을 끝으로 일일드라마를 또다시 폐지했다. 그러나, [드라마넷을](../Page/MBC_드라마넷.md "wikilink") [2001년 3월](https://ko.wikipedia.org/wiki/2001년_3월 "wikilink") [MBC로](https://ko.wikipedia.org/wiki/문화방송 "wikilink") 넘긴 (구) [CJ미디어](https://ko.wikipedia.org/wiki/CJ_E&M "wikilink")(현 [CJ E\&M 방송사업부문](https://ko.wikipedia.org/wiki/CJ_E&M "wikilink"))가 [2001년 4월](https://ko.wikipedia.org/wiki/2001년_4월 "wikilink") 인수했는데 지상파 3사의 모든 드라마 및 예능프로그램을 방영해온 [드라마넷과의](../Page/MBC_드라마넷.md "wikilink") 경쟁에서 밀리자 [같은 해 9월부터](https://ko.wikipedia.org/wiki/2001년_9월 "wikilink") 장르를 영화전문채널로 전환한 다음, [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [7월 29일에](https://ko.wikipedia.org/wiki/7월_29일 "wikilink") 종합영화채널 (구) Home CGV로 채널명을 변경하였다. (구) Home CGV 시절에는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 영화전문 [유료 방송 채널들](../Page/대한민국의_케이블TV_방송.md "wikilink") 가운데 막강한자리를 차지하고있던 (구) [온미디어](https://ko.wikipedia.org/wiki/CJ_E&M_방송사업부문 "wikilink")(현) [CJ E\&M](https://ko.wikipedia.org/wiki/CJ_E&M "wikilink") 계열의 [OCN에](../Page/OCN_\(텔레비전_채널\).md "wikilink") 밀려 고전을 면치 못했으나, [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [12월 1일부터](https://ko.wikipedia.org/wiki/12월_1일 "wikilink") [아날로그 케이블TV 보급형 상품을](../Page/대한민국의_케이블TV_방송.md "wikilink") 통해 송출되기 시작하고 **Cinema Republic**이라는 캐치프레이즈와 함께 채널CGV로 채널명을 변경하면서 세계 주요 영화채널중 하나로 성장하였다. ch.CGV 또는 ch CGV로 약칭하기도한다. 최근부터는 영화뿐만 아니라 자체제작드라마, TV영화와 해외수입 드라마를 방영하기 시작했고, 이전에도 [크리미널 마인드](https://ko.wikipedia.org/wiki/크리미널_마인드 "wikilink"), [퍼슨 오브 인터레스트](https://ko.wikipedia.org/wiki/퍼슨_오브_인터레스트 "wikilink"), [본즈](https://ko.wikipedia.org/wiki/본즈_\(드라마\) "wikilink"), [테라노바](https://ko.wikipedia.org/wiki/테라_노바_\(미국_드라마\) "wikilink"), [블레이드](https://ko.wikipedia.org/wiki/블레이드 "wikilink"), [그림형제](https://ko.wikipedia.org/wiki/그림형제 "wikilink"), [색시몽](https://ko.wikipedia.org/wiki/색시몽 "wikilink") 등이 방영된 적이있다. 또한 [아카데미 시상식을](https://ko.wikipedia.org/wiki/아카데미_시상식 "wikilink") 독점으로 생중계를 통해방영한다. 2015년부터 슬로건은 영화는, 채널CGV이며 영화만 중점적으로 편성하고 방송되었던 [OCN에서](../Page/OCN_\(텔레비전_채널\).md "wikilink") 방송되고있다. 참고로 CJ CGV는 같은 [CJ그룹](https://ko.wikipedia.org/wiki/CJ그룹 "wikilink") 내의 별개의 기업인 [CJ CGV가](../Page/CJ_CGV.md "wikilink") 운영한다. 2020년 [OCN](https://ko.wikipedia.org/wiki/OCN "wikilink")이 개국 25주년을 맞아 채널CGV는 **OCN Movies**로 변경된다.\[7\]
+
+## 드라마(orginal)
+
+  - 프리즈
+  - 18(Eighteen)〈펀치스트라이크,소녀X소녀,학교,다녀오겠습니다,램프의요정〉
+  - 파이브걸즈(시트콤)
+  - 색시몽
+  - [정조암살미스터리: 8일](https://ko.wikipedia.org/wiki/정조암살미스터리:_8일 "wikilink")(사극)
+  - 파이브걸즈-란제리
+  - 색시몽(리턴즈)
+  - 라디오야설극장-색녀유혼
+  - 리틀맘스캔들
+  - TV방자전
+  - 소녀K
+
+## 채널 번호
+
+  - 올레TV 스카이라이프 - 61번
+  - 올레TV - 29번
+  - SK B tv - 53번
+  - U+tv G - 44번
+  - [케이블방송](https://ko.wikipedia.org/wiki/CJ헬로비전 "wikilink") - 22번
+
+## 각주
+
+## 외부 링크
+
+  - [OCN Movies 홈페이지](https://ocnmovies.m.tving.com/ocnmovies/)
+  - [OCN Movies 유튜브 채널 - 뭅뭅](https://www.youtube.com/ChCGVTV)
+
+[분류:CJ ENM의 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:CJ_ENM의_텔레비전_네트워크 "wikilink") [분류:영화 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:영화_텔레비전_네트워크 "wikilink") [HBS현대방송](https://ko.wikipedia.org/wiki/분류:1995년_설립된_텔레비전_방송국과_채널 "wikilink") [HBS현대방송](https://ko.wikipedia.org/wiki/분류:2000년_폐지된_텔레비전_방송국과_채널 "wikilink") [NTV (케이블방송)](https://ko.wikipedia.org/wiki/분류:2000년_설립된_텔레비전_방송국과_채널 "wikilink") [NTV (케이블방송)](https://ko.wikipedia.org/wiki/분류:2002년_폐지된_텔레비전_방송국과_채널 "wikilink") [Home CGV](https://ko.wikipedia.org/wiki/분류:2002년_설립된_텔레비전_방송국과_채널 "wikilink") [Home CGV](https://ko.wikipedia.org/wiki/분류:2005년_폐지된_텔레비전_방송국과_채널 "wikilink") [채널CGV](https://ko.wikipedia.org/wiki/분류:2005년_설립된_텔레비전_방송국과_채널 "wikilink") [채널CGV](https://ko.wikipedia.org/wiki/분류:2020년_폐지된_텔레비전_방송국과_채널 "wikilink") [OCN Movies](https://ko.wikipedia.org/wiki/분류:2020년_설립된_텔레비전_방송국과_채널 "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.

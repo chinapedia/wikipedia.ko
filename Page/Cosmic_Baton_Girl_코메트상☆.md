@@ -1,0 +1,353 @@
+> This article is converted from Wikipedia: [Cosmic Baton Girl ](https://ko.wikipedia.org/wiki/Cosmic_Baton_Girl_).
+
+
+《**Cosmic Baton Girl 코메트상☆**》 () 또는 《**별나라 요정 코미**》(줄여서 **별코미**)는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 텔레비전 [애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink")으로, [요코야마 미츠테루의](https://ko.wikipedia.org/wiki/요코야마_미츠테루 "wikilink") 만화 《코메트상》를 원작으로 한 작품이다. [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [4월 1일부터](https://ko.wikipedia.org/wiki/4월_1일 "wikilink") [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [1월 27일까지](https://ko.wikipedia.org/wiki/1월_27일 "wikilink") [TV 오사카를](../Page/TV_오사카.md "wikilink") 중심으로 [TV 도쿄](../Page/TV_도쿄.md "wikilink") 계열국에서 방영되었다. 한국어 더빙판은 [KBS 2TV를](../Page/KBS_2TV.md "wikilink") 통해 《**별나라 요정 코미**》라는 제목으로 [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") 2월 17일부터 7월 14일까지 매주 일요일 오전 7시 50분부터 2편이 연속으로 방영되었고, 이후 [투니버스](https://ko.wikipedia.org/wiki/투니버스 "wikilink")를 통해서도 수시 편성된 바 있었는데 이들 중 마지막회는 [데블파이터](https://ko.wikipedia.org/wiki/데블파이터 "wikilink") 최종회와 함께 <만화동산>이란 이름으로 방송됐다.
+
+## 개요
+
+요코야마 미츠테루의 만화 코메트상은 예전에 두 차례에 걸쳐 TV 드라마로 제작되면서 인기를 끈 적이 있었다. 이 작품은 그런 의미에서 TV 시리즈로서 '3대 코메트상'인 셈이며, 초대 코메트 역을 맡았던 코코노에 유미코와 2대 코메트 역을 맡았던 오오바 쿠미코가 이 작품에서는 각각 코메트의 엄마와 이모의 성우를 담당하였다. 이러한 선대 《코메트상》와의 관계와, TV 드라마 《코메트상》의 인기가 높았다는 이유 등으로 인하여, 애니메이션 제작 결정 당시에 화제가 되기도 했었다.
+
+폭넓은 시청자 층의 지지를 받았던 반면, 방송요일이나 시간대 관계상 시청률이 생각만큼 나오지 않았으며, 관련상품 판매 부진 등의 이유로, 조기종영 되었다. 총 52화 완결 예정이었으나 43화로 완결. 결과적으로, 선대 《코메트 상》만큼의 인기를 끌지 못했다.
+
+## 줄거리
+
+하모니카 성국의 공주 코메트가 행방불명된 탬버린 성국의 왕자를 찾으러 지구로 오게 되면서 겪게 되는 일들을 중심으로 이야기가 펼쳐진다.
+
+## 제작진
+
+  - 감독: 간베 마모루
+  - 원작: 요코야마 미츠테루
+  - 각본: 오케야 아키라
+  - 음악: 코니시 가요
+  - 제작: 테레비 오사카, 요미우리 광고사, 토호, 니혼 애니미디어
+
+## 등장 인물/성우진
+
+  - 등장인물 이름은 일본명/한국명으로 기재한다.
+  - 성우진은 일본어 성우/한국어 성우순이다.
+  - 등장 인물 소개는 [베스트 애니메사이트를](https://ko.wikipedia.org/wiki/베스트_애니메 "wikilink") 참고하였다.
+
+<!-- end list -->
+
+  - 코메트(코멧)() / 코미
+
+<!-- end list -->
+
+  - 성우 : [마에다 아키](../Page/마에다_아키.md "wikilink") / [문선희](https://ko.wikipedia.org/wiki/문선희 "wikilink")
+
+<!-- end list -->
+
+  -
+    인간연령으로는 12세. 하모니카 성국의 공주. 취미는 별을 보는 것이다. 좀 단순한 구석이 있어서 감정표현이 확실하다. 탬버린 성국의 왕자를 찾으러 지구에 왔으나,원래의 목적은 잊은 채 지구를 구경하고 열심히 놀기에 바쁘다. 지구에 와서 네네와 츠요시를 만나게 되고 그 집에서 살게 된다. 별의 힘을 팅클버튼으로 끌어들여 마법을 쓴다.
+
+<!-- end list -->
+
+  - 라바보() / 핑코
+
+<!-- end list -->
+
+  - 성우 : 카와타 타에코 / [구민선](https://ko.wikipedia.org/wiki/구민선 "wikilink")
+
+<!-- end list -->
+
+  -
+    풀네임은 라 발못트 브르포네(). 코메트를 보살펴 주는 일을 하며,왕자를 찾는 일도 돕고 있고,겸사겸사해서 애완동물이기도하다. 왕자님을 찾기 위해 라바볼처럼 튀어 날아가버리기도 한다. 코메트가 트윙클 바톤에 별의 힘을 충전시킬 때 없으면 안되는 존재이다. 크게 부풀면 얼굴만 보인다. 부풀면 날 수도 있고 점프능력도 있다. 코메트의 이모(스피커이모)와 같이 사는 라바퐁을 좋아한다. 말버릇은 \~디보(\~핑)이다.
+
+<!-- end list -->
+
+  - 메테오( / 트랄라
+
+<!-- end list -->
+
+  - 성우 : [혼다 치에코](https://ko.wikipedia.org/wiki/혼다_치에코 "wikilink") / [김옥경](https://ko.wikipedia.org/wiki/김옥경_\(성우\) "wikilink")
+
+<!-- end list -->
+
+  -
+    탬버린 성국의 왕자를 찾아 지구에 온다. 유치원 다닐 때,자기가 받고 싶어했던"반짝반짝 상"을 코메트가 탔을 때부터 코메트를 라이벌로 생각하고 있다. 좀 심술궂은 트러블 메이커. 유명한 아이돌 가수인 카이를 좋아한다. 한때 미시마 케이스케가 왕자인 줄 알고 접근하기도 했었다. 왕자를 찾는 데 있어선 코메트 못지않게 적극적이다.
+
+<!-- end list -->
+
+  - 무크() / 팅팅
+
+<!-- end list -->
+
+  - 성우 : [나가사와 나오](https://ko.wikipedia.org/wiki/나가사와_나오 "wikilink") / [김정주](../Page/김정주_\(성우\).md "wikilink")
+
+<!-- end list -->
+
+  -
+    풀네임은 무 웨이첸 크노델(). 메테오 공주의 부하겸 애완동물. 메테오 공주를 못마땅하게 여겨서 가끔 밉살스럽게 지껄이며 빈정거리는 말을 하기도 하지만 캐스터네츠 왕국에 대한 충성심과 메테오 공주의 강요 때문에 함께 다닌다.
+
+<!-- end list -->
+
+  - 후지요시 네네() & 후지요시 츠요시() / 아롱 & 다롱
+
+<!-- end list -->
+
+  - 성우
+      - 네네(아롱) : [마츠오카 유키](../Page/마츠오카_유키.md "wikilink") / [이연승](https://ko.wikipedia.org/wiki/이연승 "wikilink")
+      - 츠요시(다롱) : [마미야 쿠루미](../Page/마미야_쿠루미.md "wikilink") / [홍영란](https://ko.wikipedia.org/wiki/홍영란 "wikilink")
+
+<!-- end list -->
+
+  -
+    후지요시 집안의 쌍둥이로, 어린 아이지만 인터넷을 사용하는 등 현대적인 [메카닉](https://ko.wikipedia.org/wiki/메카닉 "wikilink")에 익숙하다. 코메트가 지구에 와서 처음 만난 사람이다. 쌍둥이인 것을 이용해 짓궂은 장난을 치기도 한다.
+
+밑의 두 분은 지구에 온 후 마땅히 갈 곳이 없었던 코메트를 받아들여준 네네와 츠요시의 부모님이다.
+
+  - 후지요시 케이타로()
+
+<!-- end list -->
+
+  - 성우 : 야마노이 진 / [김일](https://ko.wikipedia.org/wiki/김일_\(성우\) "wikilink")
+
+<!-- end list -->
+
+  -
+    쌍둥이의 아빠. 건축가이며 바다를 아주 좋아하는 요트맨.
+
+<!-- end list -->
+
+  - 후지요시 사야카()
+
+<!-- end list -->
+
+  - 성우 : 토미나가 미이나 / [김정주](../Page/김정주_\(성우\).md "wikilink")
+
+<!-- end list -->
+
+  -
+    쌍둥이의 엄마로 활기찬 성격이다. 바닷가 근처에서 잡화상(슈퍼마켓)을 운영하고 있다.
+
+<!-- end list -->
+
+  - 미시마 케이스케() / 빈
+
+<!-- end list -->
+
+  - 성우 : 아사노 마유미 / [황재경](../Page/황재경.md "wikilink")
+
+<!-- end list -->
+
+  -
+    내성적이고 수줍음을 잘 타는 성격으로 코메트네 아빠가 소유한 요트의 조수다. 커서 세계 제일의 인명구조대원이 되는 것이 꿈.
+
+<!-- end list -->
+
+  - 이마카와 슌() / 카이
+
+<!-- end list -->
+
+  - 성우 : 시모와다 히로키 / [오길경](https://ko.wikipedia.org/wiki/오길경 "wikilink")
+
+<!-- end list -->
+
+  -
+    아이돌 가수로 바쁜 일정에 쫒겨 피곤해 하고 있을 때 코메트의 마법으로 잠시 쉴 수 있게 된다. 그때부터 코메트에게 호감을 갖게 된다. 어렸을 때부터 고아로 지내왔지만 사실 카이의 엄마는 유명한 디자이너다. 결국에는 카이를 찾아온다.
+
+<!-- end list -->
+
+  - 플래닛 왕자() / 루빈
+
+<!-- end list -->
+
+  - 성우 : [이시카와 시즈카](https://ko.wikipedia.org/wiki/이시카와_시즈카 "wikilink") / [황재경](../Page/황재경.md "wikilink")
+
+<!-- end list -->
+
+  -
+    별빛의 눈동자를 갖고 있다고 한다. 처음에 코메트를 만났을 때는 케이스케의 모습을 하고 있었다. 나중에는 원래 자신의 모습으로 돌아온다. 코메트가 케이스케에게 관심을 갖고 있다는 것을 알고 있다. 케이스케와 루빈왕자는 별개의 사람이다.
+
+<!-- end list -->
+
+  - 하모니카 성국 임금
+
+<!-- end list -->
+
+  - 성우 : 이와타 야스오
+
+<!-- end list -->
+
+  -
+    코메트의 아빠. 가끔 국정 회의에서 졸기도 하지만 사건을 빠르게 해석하고 처리할 수 있다. 공주를 너무 귀여워해서 팔불출인 구석도 있다.
+
+<!-- end list -->
+
+  - 하모니카 성국 왕비
+
+<!-- end list -->
+
+  - 성우 : 코코노에 유미코 / [황재경](../Page/황재경.md "wikilink")
+
+<!-- end list -->
+
+  -
+    [1967년판 드라마에 등장한 선대의 코메트](../Page/코메트상.md "wikilink"). 왕자를 찾기 위해 지구로 떠난 코메트를 따뜻하게 지켜보고 있다. 코메트에게 지구에 대한 이야기를 해준다. 어렸을 때 모험심이 강했다고 한다.
+
+<!-- end list -->
+
+  - 스피카
+
+<!-- end list -->
+
+  - 성우 : 오오바 쿠미코 / [오길경](https://ko.wikipedia.org/wiki/오길경 "wikilink")
+
+<!-- end list -->
+
+  -
+    코메트의 이모로 아주 상냥하다. 처음엔 네네와 츠요시 가족과 산장에 갔다가 우연히 만났다. 코메트의 고민 상담을 해주곤 한다. 또한 그 고민에 아주 현명하게 대처하는 엄마와도 같은 인물. 나중에는 작은 빛인 아기를 가지게 된다.
+
+<!-- end list -->
+
+  - 라바푱( / 핑퐁
+
+<!-- end list -->
+
+  - 성우 : [아오키 사야카](https://ko.wikipedia.org/wiki/아오키_사야카_\(성우\) "wikilink") / [황재경](../Page/황재경.md "wikilink")
+
+<!-- end list -->
+
+  -
+    스피카 이모와 같이 살고 있는 '라바보'와 같은 종류의 생명체이다. 토끼같이 생겼으며 말끝마다 (\~퐁)이라는 단어를 붙인다.
+
+<!-- end list -->
+
+  - 히게노시타 시종장
+
+<!-- end list -->
+
+  - 성우 : 오오타케 히로시 / [서광재](https://ko.wikipedia.org/wiki/서광재 "wikilink")
+
+<!-- end list -->
+
+  -
+    코메트의 가정교사같은 시종장. 중반쯤 코메트에 대한 감찰을 겸해 지구로 내려왔다가 다시 올라간다. 단것을 먹으면 금방 쓰러진다. 가끔 강아지로 변한다.
+
+<!-- end list -->
+
+  - 캐스터네츠 성국 여왕
+
+<!-- end list -->
+
+  - 성우 : [후카미 리카](https://ko.wikipedia.org/wiki/후카미_리카 "wikilink") / [홍영란](https://ko.wikipedia.org/wiki/홍영란 "wikilink")
+
+<!-- end list -->
+
+  -
+    메테오의 어머니. 아주 무서운 얼굴을 하고 있다. 딸을 능가하는 탐욕스런 성격으로 지구에 올 땐 항상 큰 배를 갖고 온다. 자기 딸에게도 아주 냉정하게 대하나 메테오가 머리를 쓸 때는 '역시 내 딸이야...'하면서 딸을 칭찬하기도 한다.
+
+<!-- end list -->
+
+  - 미라() / 미나
+
+<!-- end list -->
+
+  - 성우 : [코바야시 사나에](../Page/코바야시_사나에.md "wikilink") / [오길경](https://ko.wikipedia.org/wiki/오길경 "wikilink")
+
+<!-- end list -->
+
+  -
+    탬버린 왕국에서 온 아이로 코메트와 동갑이다. 탬버린 왕국의 왕자를 찾아오라는 임무를 받고 지구와 왔으나 지구 생활에 적응을 못해 고생을 한다. 카이의 공연을 보고 있던 코메트가 울고 있던 미라를 발견한 것을 계기로 코메트가 사는 집에 머물게 된다. 보통 아이들이 다니는 학교에도 다니는 등 지구에서의 멋진 추억을 만든 뒤 동생과 함께 별나라로 돌아간다. 먹성이 좋아 코메트의 손을 먹는 것으로 착각한 적도 있다.
+
+<!-- end list -->
+
+  - 카론() / 레오
+
+<!-- end list -->
+
+  - 성우 : 쿠사카 치히로 / [황재경](../Page/황재경.md "wikilink")
+
+<!-- end list -->
+
+  -
+    미라의 남동생. 그도 지구 생활에 적응을 하지 못했다. 미라와 마찬가지로 코메트에게 발견되었으나 메테오의 집에 머문다. 보통 아이들과 학교도 다니며 즐거운 경험을 한다. 이후 누나와 함께 지구로 돌아온다.
+
+' 캐스터네츠 성국 시종장
+
+  - 성우 : ([서광재](https://ko.wikipedia.org/wiki/서광재 "wikilink")/추정)
+
+<!-- end list -->
+
+  -
+    루빈의 시종장으로 라바보를 재판한 인물. 후에 루빈에게 코메트야 말로 루빈이 찾던 빛이라는 것을 알려준다.
+
+## 배경
+
+[가나가와현](https://ko.wikipedia.org/wiki/가나가와현 "wikilink") [가마쿠라 시가](https://ko.wikipedia.org/wiki/가마쿠라_시 "wikilink") 무대로 되어 있어 전철이나 역 주변은 [에노시마 전철을](https://ko.wikipedia.org/wiki/에노시마_전철 "wikilink"), 후지요시가 주변은 가마쿠라 시 주택가를, 해안은 유이가하마,이나무라가사키,시치리가하마를 배경으로 한 것이다.
+
+방영 기간 중에는 에노시마 전철의 역이나 거리에 포스터나 스티커가 붙여졌었고, 코메트상의 인형이 거리를 걷는 등, 거리에서 활발한 캠페인을 했다. 현재에도 코메트상과 [슬램 덩크의](../Page/슬램_덩크_\(만화\).md "wikilink") 분위기를 맛보고자 가마쿠라를 방문하는 사람은 많다.
+
+## 주제가 및 삽입곡
+
+### 주제가
+
+  - 오프닝
+
+<!-- end list -->
+
+  - **너에게 스마일**( (1 \~ 27화)
+      - 노래 : 니이보리 나유
+  - **미라클 파워 \~스타더스트 버전\~**() (28 \~ 43화)
+
+<!-- end list -->
+
+  - 엔딩
+
+<!-- end list -->
+
+  - **트윙클☆스타**( (1 \~ 27화)
+      - 노래 : [치바 사에코](../Page/치바_사에코.md "wikilink")
+  - **별의 퍼레이드☆**() (28 \~ 43화)
+      - 노래 : 타나카 사유리
+
+### 관련 음반
+
+#### 싱글
+
+  - 8 cm 싱글
+
+<!-- end list -->
+
+  - 발매처 : [NEC 인터채널](https://ko.wikipedia.org/wiki/인터채널 "wikilink") / 출판사 : [킹레코드](https://ko.wikipedia.org/wiki/킹레코드_\(일본\) "wikilink")
+  - 발매일 : [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [4월 25일](https://ko.wikipedia.org/wiki/4월_25일 "wikilink")
+      - **너에게 스마일**() - 니이보리 나유
+          - 너에게 스마일() (초기 오프닝)
+          - 밀키웨이() (C/W)
+      - **트윙클☆스타**() - [치바 사에코](../Page/치바_사에코.md "wikilink")
+          - 트윙클☆스타() (초기 엔딩)
+          - 미라클 파워() (C/W)
+
+<!-- end list -->
+
+  - 12 cm 싱글
+
+<!-- end list -->
+
+  - 발매처 : [NEC 인터채널](https://ko.wikipedia.org/wiki/인터채널 "wikilink") / 출판사 : [킹레코드](https://ko.wikipedia.org/wiki/킹레코드_\(일본\) "wikilink")
+  - 발매일 : [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [10월 30일](https://ko.wikipedia.org/wiki/10월_30일 "wikilink")
+      - **미라클 파워 \~스타더스트☆버전\~**() - 나카야마 시즈카
+          - 미라클 파워 \~스타더스트☆버전\~() (후기 오프닝)\[1\]
+          - 별에게 소원을() (C/W)
+      - **별의 퍼레이드☆**() - 타나카 사유리
+          - 별의 퍼레이드☆() (후기 엔딩)
+          - 코메트☆송() (C/W)
+
+#### 앨범
+
+  - 발매처 : [NEC 인터채널](https://ko.wikipedia.org/wiki/인터채널 "wikilink") / 출판사 : [킹레코드](https://ko.wikipedia.org/wiki/킹레코드_\(일본\) "wikilink")
+      - 《코메트상☆ BGM집 1》 : [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [6월 27일](https://ko.wikipedia.org/wiki/6월_27일 "wikilink") 발매
+      - 《코메트상☆ 캐릭터송 컬렉션》 : [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [7월 25일](https://ko.wikipedia.org/wiki/7월_25일 "wikilink") 발매
+      - 《코메트상☆ 캐릭터송 컬렉션 2》 : [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [11월 29일](../Page/11월_29일.md "wikilink") 발매
+      - 《코메트상☆ BGM집 2》 : [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [12월 29일](https://ko.wikipedia.org/wiki/12월_29일 "wikilink") 발매
+      - 《코메트상☆ 베스트송 컬렉션》 : [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [1월 26일](https://ko.wikipedia.org/wiki/1월_26일 "wikilink") 발매
+
+## 각주
+
+<references group="※"/>
+
+<references/>
+
+[분류:2001년 애니메이션](https://ko.wikipedia.org/wiki/분류:2001년_애니메이션 "wikilink") [분류:TV 오사카의 애니메이션 작품](https://ko.wikipedia.org/wiki/분류:TV_오사카의_애니메이션_작품 "wikilink") [분류:코미디 만화](https://ko.wikipedia.org/wiki/분류:코미디_만화 "wikilink") [분류:드라마 애니메이션](https://ko.wikipedia.org/wiki/분류:드라마_애니메이션 "wikilink") [분류:드라마 만화](https://ko.wikipedia.org/wiki/분류:드라마_만화 "wikilink") [분류:한국방송공사의 텔레비전 애니메이션](https://ko.wikipedia.org/wiki/분류:한국방송공사의_텔레비전_애니메이션 "wikilink") [분류:투니버스의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:투니버스의_텔레비전_프로그램 "wikilink")
+
+1.  [치바 사에코의](../Page/치바_사에코.md "wikilink") 〈미라클 파워〉를 리메이크한 곡이다.

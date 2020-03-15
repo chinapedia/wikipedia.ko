@@ -1,0 +1,301 @@
+> This article is converted from Wikipedia: [KTV ](https://ko.wikipedia.org/wiki/KTV_).
+
+
+**KTV 국민방송**(國民放送, )은 [정부와](https://ko.wikipedia.org/wiki/대한민국_정부 "wikilink") [산하기관에서](https://ko.wikipedia.org/wiki/공공기관 "wikilink") 만든 정책을 국민들이 알기 쉽도록 국정 관련 프로그램을 제작·방송하는 공공 방송국이다. 상업 광고는 일체 하지 않는 것이 특징이다.
+
+## 연혁
+
+  - [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [3월 1일](https://ko.wikipedia.org/wiki/3월_1일 "wikilink") [케이블TV](https://ko.wikipedia.org/wiki/대한민국의_케이블TV_방송 "wikilink") [공익채널](https://ko.wikipedia.org/wiki/공익채널 "wikilink") 'K-TV 국립방송'으로 개국.
+  - [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [3월 1일](https://ko.wikipedia.org/wiki/3월_1일 "wikilink") [디지털 위성방송](../Page/KT스카이라이프.md "wikilink")(CH 520) 및 [인터넷 방송](https://ko.wikipedia.org/wiki/인터넷_텔레비전 "wikilink") 실시.
+  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink") 채널명을 **한국정책방송 KTV**로 변경.
+  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [6월](https://ko.wikipedia.org/wiki/6월 "wikilink") 24시간 방송 개시.
+  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [12월](https://ko.wikipedia.org/wiki/12월 "wikilink") [HD](https://ko.wikipedia.org/wiki/고선명_텔레비전 "wikilink") 방송 개시.
+  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [1월 1일](https://ko.wikipedia.org/wiki/1월_1일 "wikilink") 채널명을 **국민방송**으로 변경.
+  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [12월 15일](https://ko.wikipedia.org/wiki/12월_15일 "wikilink") [세종특별자치시](../Page/세종특별자치시.md "wikilink")로 신사옥 이전.
+  - [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") 1월 YouTube 'KTV국민방송' 채널 실버버튼 수여 (온라인콘텐츠부)
+  - [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") 1월 YouTube 'KTV스콘' 채널 실버버튼 수여 (온라인콘텐츠부)
+  - [2017년 제7회 2017 대한민국 SNS대상](http://snsawards.com/result_2017_2) - 공공기업 '최우수상' 수상 (온라인콘텐츠부)
+  - [2018년 제8회 2018 대한민국 SNS대상](http://snsawards.com/result_2018_2) - 공공기업 '최우수상' 수상 (온라인콘텐츠부)
+  - [2019년 제9회 2019 대한민국 SNS대상](http://snsawards.com/result_2019_2) - 공공기업 '대상' 수상 (온라인콘텐츠부)
+  - [2019년 제12회 대한민국 인터넷소통대상](http://kicoa.or.kr/) - 중앙행정기관 부문 '대상' 수상 (온라인콘텐츠부)
+  - [2019년 제12회 대한민국 공감콘텐츠대상](http://kicoa.or.kr/) - 중앙행정기관 부문 '대상' 수상 (온라인콘텐츠부)
+  - [2019년 제5회 올해의 SNS](http://yearsns.com/) - 공기업/비영리 YouTube 부문 '대상' 수상 (온라인콘텐츠부)
+
+### 로고송
+
+  - 국민과 함께하는\~ 채널14 국립영상\~ (1995.3.1\~2000)
+  - 국민과 함께하는\~ 채널14 K\~TV (2000\~2002.2.28)
+  - 국민과 함께하는 K-T-V\~ (2002.3.1\~2005)
+  - 유익한 정보 국민과 함께하는 KTV 한국정책방송 (2005\~2013)
+
+## 방영 프로그램 및 종영 프로그램
+
+  - 05국정감사 이슈현장
+  - 100년의 역사기행
+  - 1분뉴스
+  - 100살의 행복, 100살의 희망
+  - 2005！ 클린코리아
+  - 2006년 연두업무보고 브리핑
+  - 2007 남북정상회담 특별포럼
+  - 2007 남북정상회담 특집기획
+  - 2008 송년특집 KTV 스페셜
+  - 2011 신년방송좌담회 「대통령과의 대화, 2011 대한민국은\!」
+  - 2011년 광역자치단체장에게 듣는다
+  - 2011년도 정부 업무보고
+  - 2012 10대 뉴스
+  - 2012년도 정부 업무보고
+  - 2013 실내무도아시아경기 대회
+  - 2013 업무보고 주요 정책
+  - 2013 업무보고 하이라이트
+  - 2014년 부처 업무보고
+  - 2015년도 정부업무보고
+  - 2018 동계올림픽 평창 평가단 기자회견
+  - 21C환경
+  - 21세기 국가전략 보고서
+  - 2만불시대
+  - 4대강 살리기 - 1000일의 약속 流
+  - 4대강 살리기 - 기대효과 영상
+  - 6.25 60주년 특별기획
+  - 7분 다큐
+  - HD특선 다시보는 문화영화
+  - KTV - YTN사이언스 공동기획 '안전 코리아'
+  - KTV 10
+  - KTV 100년의 행복, 희망 대한민국
+  - KTV 100년의 행복, 희망 대한민국 +
+  - KTV 1230
+  - KTV 13
+  - KTV 230
+  - KTV 330
+  - KTV 430
+  - KTV 730 (2010.10.11\~2011.08.05)
+  - KTV 7 (2011.08.08\~2011.10.07)
+  - KTV 7 (2013.06.04\~2013.09.06)
+  - KTV 7 (2014.06.30\~2015.03.07)
+  - KTV 830
+  - KTV 830
+  - KTV 9
+  - KTV 930
+  - KTV 930
+  - KTV NEWS 10
+  - KTV NEWS 13
+  - KTV NEWS 14
+  - KTV NEWS 16
+  - KTV NEWS 9
+  - KTV SNS
+  - KTV SNS 공감영상
+  - KTV 뉴스
+  - KTV 뉴스10시
+  - KTV 뉴스16시
+  - KTV 뉴스(17시)
+  - KTV [다큐 프라임](https://ko.wikipedia.org/wiki/다큐_프라임 "wikilink")-[EBS1](https://ko.wikipedia.org/wiki/EBS_1TV "wikilink")
+  - KTV 문화가 있는 삶
+  - KTV 스포츠가 있는 삶
+  - KTV 스페셜
+  - KTV 시네마
+  - KTV 신년 특별기획
+  - KTV 앙코르 TV문학관
+  - KTV 정책통
+  - KTV 중계석
+  - KTV 특별기획
+  - KTV 특보
+  - KTV 특선
+  - KTV 특집
+  - KTV 특집다큐
+  - KTV 특선다큐멘터리
+  - KTV 특집
+  - KTV 특집토론
+  - KTV 국정뉴스
+  - KTV 종합뉴스
+  - KTV 네트워크
+  - SB기획
+  - SB캠페인
+  - SNS SB
+  - 『정책&이슈』
+  - 건강통
+  - 경찰리포트
+  - 국민리포트
+  - 국민행복시대
+  - 국세 매거진
+  - 국악 콘서트 울림
+  - 귀농 다큐 ‘살어리랏다’
+  - 극한 직업
+  - 다시보는 대한늬우스
+  - 다시보는 문화영화
+  - 대통령 신년사
+  - 대한늬우스의 ‘그때 그 사람’
+  - 대한늬우스와 함께하는 ‘리사이틀 인생쇼’
+  - 대한늬우스의 주인공을 찾습니다 (SB)
+  - 대한민국정책포털
+  - 대한민국정책퀴즈왕
+  - 로드다큐 아시아
+  - 명품열전
+  - 문화카페
+  - 미스터리 아시아
+  - 발굴 스토리
+  - 방방곡곡 국민 행복 리포트
+  - 방방곡곡 국민 행복 리포트+
+  - 방송 모니터
+  - 베테랑
+  - 사랑합니다 대한민국\!
+  - 사랑합니다 대한민국+
+  - 살맛나는 이야기 미담(美談)
+  - 생방송 KTV 토론광장
+  - 생방송 국정네트워크
+  - 생방송 국정현장
+  - 생방송 뉴스&토크
+  - 생방송 대한민국
+  - 생방송 정보넷 코리아
+  - 생방송 정보와이드 3부
+  - 생방송 토론광장
+  - 생방송e-korea1부
+  - 생방송e-korea2부
+  - 생방송e-korea3부
+  - 생방송특급작전일자리팡팡
+  - 생생 문화광장
+  - 생활공감 행복충전
+  - 생활과 정책
+  - 생활과 정책
+  - 생활법령 탐구생활
+  - 생활정보 유쾌한 발견
+  - 세미나 중계실
+  - [세계테마기행](https://ko.wikipedia.org/wiki/세계테마기행 "wikilink")-[EBS1](https://ko.wikipedia.org/wiki/EBS_1TV "wikilink")
+  - [순풍 산부인과](https://ko.wikipedia.org/wiki/순풍_산부인과 "wikilink")-[SBS](https://ko.wikipedia.org/wiki/SBS_TV "wikilink")
+  - 스페셜기획 『이제는 경제다\!』
+  - 스페셜기획 『이제는 경제다\!』+
+  - 시니어리포트
+  - 신한국비경
+  - 아침e-korea
+  - 안숙선의 소리마당
+  - 앙코르 베스트셀러극장
+  - 여기는 국정기록실
+  - 여명의 눈동자
+  - 연합뉴스
+  - 영상기록 시간속으로 (2010.03.19\~2013.04.20)
+  - 영상기록 시간속으로 (2013.02.25\~)
+  - 영상포엠 한국 100경
+  - 영상산책
+  - 영상실록 '국민과 함께 만든 더 큰 대한민국'
+  - 영상 어제와 오늘
+  - 영상에세이 국민여러분
+  - 영상에세이 대한민국
+  - 영상의궤 "선진일류국가 시대를 열다"
+  - 영상포엠 마음이 머무는 풍경
+  - 영화공감
+  - [오감만족 세상은 맛있다](https://ko.wikipedia.org/wiki/오감만족_세상은_맛있다 "wikilink")- [KBS2](../Page/KBS_2TV.md "wikilink")
+  - 오늘의 정책
+  - 오늘의국정
+  - 외신에 비친 한국
+  - 우리가락얼쑤
+  - 우리가락우리춤
+  - 우리가만드는나라
+  - 우리것을찾아서
+  - 우리는 공무원
+  - 우리땅 속살보기 '오지'
+  - 우리땅 숨은 그림 오지
+  - 우리말 하나되기
+  - 우리말알고씁시다
+  - 우리문화탐구-멋과슬기
+  - 우리시대 나눔과 어울림
+  - 우리의국군
+  - 우리지방소식
+  - 월드컵으로가는길
+  - 월드컵특집
+  - 월요진단
+  - 위대한 도전, 4대강 살리기
+  - 위클리 여론
+  - 유밀레가여는세상
+  - 이 한권의 책
+  - 이 시각 주요뉴스
+  - 이슈 본(本)
+  - 인터넷 라디오 방송 채널 '포피'
+  - 전통의 향기
+  - 정보라인2
+  - 정보라인5
+  - 정보와이드 6
+  - 정보와이드 930
+  - 정보와이드 모닝
+  - 정보파노라마
+  - 정보파노라마1
+  - 정보파노라마2
+  - 정상외교
+  - 정재환의 아하 그렇군요
+  - 정찬용의 정책포커스
+  - 정책 A／S
+  - 정책 오늘
+  - 정책 오늘
+  - 정책 오늘
+  - 정책 와이드
+  - 정책 인사이드
+  - 정책 포커스
+  - 정책 플러스
+  - 정책 현장
+  - 정책 현장
+  - 정책 현장 속으로
+  - 정책 현장을 가다
+  - 정책&여론
+  - 정책&이슈
+  - 정책&이슈 (통일로 가는 길)
+  - 정책Q\&A
+  - 정책＆여론
+  - 정책라인 10
+  - 정책브리핑
+  - 정책을 알면 돈이 보인다
+  - 정책을 알면 돈이 보인다
+  - 정책포커스
+  - 정책현장
+  - 정책현장 2
+  - 정책홈쇼핑 K
+  - 주간 SNS 정책현장
+  - 주간 청와대 소식
+  - 철밥통은 가라
+  - 청와대 브리핑
+  - 출발 정책 투데이
+  - 출발\! 국정투데이
+  - 출발전국을향하여
+  - 카메듀서의 映像美學
+  - 캠퍼스리포트
+  - 캠퍼스토론 청년, 通하라\!
+  - 코리아 월드 베스트
+  - 코리아2002
+  - 코리아플러스
+  - 퀴즈게임 무한도전
+  - 클릭 정책이 보인다
+  - 클릭\! 퀴즈마당
+  - 클릭,사이버정부
+  - 클릭@정책
+  - 토론광장 클릭 10 PM
+  - 특별생방송
+  - 특집
+  - 파워특강
+  - 파워특강 10 minutes
+  - 포토에세이 대한민국
+  - [한국기행](https://ko.wikipedia.org/wiki/한국기행 "wikilink")-[EBS1](https://ko.wikipedia.org/wiki/EBS_1TV "wikilink")
+  - 한국의 맛
+  - [한국인의 밥상](https://ko.wikipedia.org/wiki/한국인의_밥상 "wikilink")-[KBS1](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink")
+  - 한지붕 세가족
+  - 해외 특선다큐
+  - 행복한 오후
+  - 활짝 청와대 이야기
+  - [허준](https://ko.wikipedia.org/wiki/허준 "wikilink")
+  - 휴먼다큐 앞서가는 사람들
+  - 희망로드 세계로
+  - 희망의 새시대
+  - 히스토리텔링 동행
+  - 힐링다큐 한국의 섬
+  - [KTV 대한뉴스](https://ko.wikipedia.org/wiki/대한뉴스 "wikilink")
+
+## 사옥
+
+  - [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink") [9월 1일](https://ko.wikipedia.org/wiki/9월_1일 "wikilink") \~ [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [2월 28일](https://ko.wikipedia.org/wiki/2월_28일 "wikilink") : [서울특별시](https://ko.wikipedia.org/wiki/서울특별시 "wikilink") [강남구](https://ko.wikipedia.org/wiki/강남구 "wikilink") 역삼동 704-45
+  - [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [3월 1일](https://ko.wikipedia.org/wiki/3월_1일 "wikilink") \~ [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [12월 15일](https://ko.wikipedia.org/wiki/12월_15일 "wikilink") : [서울특별시](https://ko.wikipedia.org/wiki/서울특별시 "wikilink") [강남구](https://ko.wikipedia.org/wiki/강남구 "wikilink") 역삼동 704-45 KTV 사옥
+  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [12월 15일](https://ko.wikipedia.org/wiki/12월_15일 "wikilink") : [세종특별자치시](../Page/세종특별자치시.md "wikilink") 노을 4로 13 정부세종2청사 한국정책방송원 KTV
+
+## 같이 보기
+
+  - [대한뉴스](https://ko.wikipedia.org/wiki/대한뉴스 "wikilink") (1953년 \~ 1994년)
+
+## 외부 링크
+
+  - [KTV 국민방송](https://web.archive.org/web/20190812233041/http://www.ktv.co.kr/)
+
+[분류:대한민국 문화체육관광부](https://ko.wikipedia.org/wiki/분류:대한민국_문화체육관광부 "wikilink") [분류:1995년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:1995년_설립된_텔레비전_방송국과_채널 "wikilink") [분류:대한민국의 텔레비전 케이블 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_케이블_방송국 "wikilink")

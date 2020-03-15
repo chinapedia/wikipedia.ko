@@ -1,0 +1,12 @@
+> This article is converted from Wikipedia: [  DS](https://ko.wikipedia.org/wiki/__DS).
+
+
+《**마리오 카트 DS**》(Mario Kart DS)는 [닌텐도](https://ko.wikipedia.org/wiki/닌텐도 "wikilink")가 개발한 [닌텐도 DS용](https://ko.wikipedia.org/wiki/닌텐도_DS "wikilink") 게임 소프트웨어이다. [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")에서 [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [11월 14일](https://ko.wikipedia.org/wiki/11월_14일 "wikilink") 먼저 발매했으며, [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [4월 5일에](https://ko.wikipedia.org/wiki/4월_5일 "wikilink") 발매되었다. 마리오 카트 시리즈의 다섯 번째 작품이며 닌텐도의 무료 무선 대전 서비스인 [닌텐도 와이파이 커넥션을](../Page/닌텐도_와이파이_커넥션.md "wikilink") 지원하는 첫 작품이다. 레트로 코스가 처음으로 도입된 게임이다. [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 [차태현](https://ko.wikipedia.org/wiki/차태현 "wikilink"), [박수홍](https://ko.wikipedia.org/wiki/박수홍 "wikilink")이 광고 모델을 하였다.
+
+## 각주
+
+## 외부 링크
+
+  - [공식 홈페이지](http://www.nintendo.co.kr/DS/soft/mariokart/mariokart_main.php)
+
+[DS](https://ko.wikipedia.org/wiki/분류:마리오_카트 "wikilink") [분류:경주 게임](https://ko.wikipedia.org/wiki/분류:경주_게임 "wikilink") [분류:닌텐도 DS 게임](https://ko.wikipedia.org/wiki/분류:닌텐도_DS_게임 "wikilink") [분류:2005년 비디오 게임](https://ko.wikipedia.org/wiki/분류:2005년_비디오_게임 "wikilink") [분류:버추얼 콘솔 게임](https://ko.wikipedia.org/wiki/분류:버추얼_콘솔_게임 "wikilink")

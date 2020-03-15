@@ -1,0 +1,34 @@
+> This article is converted from Wikipedia: [ TW](https://ko.wikipedia.org/wiki/_TW).
+
+
+**바다뱀자리 TW**는 [바다뱀자리](https://ko.wikipedia.org/wiki/바다뱀자리 "wikilink")에 있는, 지구에서 176광년 떨어진 [오렌지색 왜성이다](https://ko.wikipedia.org/wiki/오렌지색_왜성 "wikilink"). 이 별은 [태양계](../Page/태양계.md "wikilink")에서 가장 가까운 [황소자리 T 항성이기도](https://ko.wikipedia.org/wiki/황소자리_T_항성 "wikilink") 하다. 바다뱀자리 TW는 태양과 질량이 비슷하지만 나이는 500만 \~ 1천만 년으로 매우 젊다. 이 별의 주위에는 [원시 행성계 원반이](../Page/원시_행성계_원반.md "wikilink") 형성되어 물질을 끌어모으고 있는 중으로 보이며, 이는 [허블 우주 망원경의](https://ko.wikipedia.org/wiki/허블_우주_망원경 "wikilink") 관측을 통해 분석되었다. 바다뱀자리 TW 주위에는 20개 정도의 작은 질량의 별들이 함께 몰려 있으며, 이들은 비슷한 고유 운동을 보여주고 있는데(이들을 [바다뱀자리 TW 성협으로](https://ko.wikipedia.org/wiki/바다뱀자리_TW_성협 "wikilink") 부른다), 태양계에서 가장 가까운, ‘별의 탄생 과정’을 보여주는 지역이다.
+
+## 행성계
+
+### 원시 행성계 원반
+
+[하버드-스미소니언 천체물리학 센터의](https://ko.wikipedia.org/wiki/하버드-스미소니언_천체물리학_센터 "wikilink") 데이비드 윌너는 1990년대 후반 향상된 성능의 망원경들을 이용하여 [바다뱀자리](https://ko.wikipedia.org/wiki/바다뱀자리 "wikilink") 영역을 관측하기 시작했다. 2005년 그는 바다뱀자리 TW 주변 가스 원반에 작은 [미행성](../Page/미행성.md "wikilink") 물질들이 10억 킬로미터 반경에 걸쳐 펼쳐져 있는 것을 발견했다. 이 미행성 조각들은 장래의 행성 재료가 될 물질일 것이다. 일반적인 이론에 따르면 행성의 생성은 원반에 있는 먼지 조각들이 부딪혀서 뭉쳐 점점 커지면서 시작된다. 수백만 년 후 이렇게 뭉친 덩어리들은 행성으로 자라나게 된다.
+
+윌너 연구진은 [국립과학재단](https://ko.wikipedia.org/wiki/국립과학재단 "wikilink")이 출연한 VLA 망원경을 이용하여 바다뱀자리 TW가 뿜는 전파의 강도를 쟀다. 파장과 입자의 크기 간 상관관계에 기초하여, 윌너 연구진은 항성을 둘러싸고 있는 알갱이들의 크기는 수 센티미터 수준임을 알게 되었다.
+
+윌너와 함께 작업했던 마크 클로센은 바다뱀자리 TW에서 감지된 강하고 변덕스러운 [엑스선](https://ko.wikipedia.org/wiki/엑스선 "wikilink") 방출 양상은 젊은 별에서 흔히 나타나는 [자기장](https://ko.wikipedia.org/wiki/자기장 "wikilink") 활동을 나타내는 것이라고 생각했다. 클로센은 그들이 전파 영역에서 바다뱀자리 TW를 수 개월 동안 관측한다면, [VLBA](https://ko.wikipedia.org/wiki/VLBA "wikilink")를 이용한 고해상도 이미지 및 자기장 활동에 대한 연구 성과를 얻기에 충분할 것으로 생각했다. 그러나 클로센은 전파 방출량이 크게 요동치지 않는 것을 발견했다.
+
+최근 윌너는 졸업생들과 협력하여 바다뱀자리 TW의 먼지 원반에 있는 구멍 한 개의 실체를 규명하려 하고 있다. 윌너는 이 구멍이 목성 정도 질량의 행성이 주변의 암석 물질을 빨아들여서 생긴 것이라고 밝혔다. 2007년 4월 윌너의 주장은 [천체물리학 저널에서](../Page/천체물리학_저널.md "wikilink") 인정되었다.
+
+### 행성
+
+2007년 12월 [독일](https://ko.wikipedia.org/wiki/독일 "wikilink") [하이델베르크](https://ko.wikipedia.org/wiki/하이델베르크 "wikilink") [막스 플랑크 천문학 연구소의](https://ko.wikipedia.org/wiki/막스_플랑크_천문학_연구소 "wikilink") 조니 세티아완 연구팀은 바다뱀자리 TW를 공전하는 행성 하나를 발견했고 여기에 바다뱀자리 TW **b**라는 명칭을 붙였다. 이 행성의 질량은 목성의 9.8±3.3배였고 공전주기는 3.56일, 어머니 항성과의 거리는 0.04 천문단위로 원시 행성계 원반의 안쪽 경계보다 더 안쪽에 자리잡고 있다.\[1\]\[2\] 항성 자체는 매우 젊기 때문에 지금까지 발견된 외계 행성들 중 가장 젊으며, 아직도 행성계가 생성되는 중으로 생각된다.\[3\]
+
+## 참고 문헌
+
+<references/>
+
+## 외부 링크
+
+  -
+  -
+[분류:바다뱀자리](https://ko.wikipedia.org/wiki/분류:바다뱀자리 "wikilink") [분류:K형 주계열성](https://ko.wikipedia.org/wiki/분류:K형_주계열성 "wikilink") [분류:황소자리 T형 변광성](https://ko.wikipedia.org/wiki/분류:황소자리_T형_변광성 "wikilink") [분류:히파르코스 천체](https://ko.wikipedia.org/wiki/분류:히파르코스_천체 "wikilink")
+
+1.
+2.
+3.

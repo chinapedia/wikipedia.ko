@@ -1,0 +1,364 @@
+> This article is converted from Wikipedia: [ DeNA ](https://ko.wikipedia.org/wiki/_DeNA_).
+
+
+1998 | 플레이오프 = | 시리즈 = 일본 시리즈 | 시리즈 우승 횟수= 2 | 시리즈 우승 = [1960](https://ko.wikipedia.org/wiki/1960년_일본_시리즈 "wikilink"){{•개행}}[1998](https://ko.wikipedia.org/wiki/1998년_일본_시리즈 "wikilink") | 이전 구단명 =
+
+  - 다이요 웨일스 (1950년 \~ 1952년)
+  - 다이요 쇼치쿠 로빈스 (1953년)
+  - 요쇼 로빈스 (1954년)
+  - 다이요 웨일스 (1955년 \~ 1977년)
+  - 요코하마 다이요 웨일스 (1978년 \~ 1992년)
+  - 요코하마 베이스타스 (1993년 \~ 2011년)
+  - 요코하마 DeNA 베이스타스 (2012년 \~ 현재)
+
+| 이전 홈구장 = | 마스코트 = | 시리즈 출장 횟수= 3 | 시리즈 출장 = **[1960](https://ko.wikipedia.org/wiki/1960년_일본_시리즈 "wikilink")**{{•개행}}**[1998](https://ko.wikipedia.org/wiki/1998년_일본_시리즈 "wikilink")**{{•개행}}[2017](../Page/2017년_일본_시리즈.md "wikilink") | 클라이맥스 시리즈 = 1승 2패
+[2016](../Page/2016년_센트럴_리그_클라이맥스_시리즈.md "wikilink"){{•개행}}**[2017](../Page/2017년_센트럴_리그_클라이맥스_시리즈.md "wikilink")**{{•개행}}*[2019](https://ko.wikipedia.org/wiki/2019년_센트럴_리그_클라이맥스_시리즈 "wikilink")* | 클라이맥스 시리즈 횟수 = 3
+
+|모자모양1 = |왼팔모양1 =_pinstripesonwhite |몸통모양1 =_thinstripesonwhite |오른팔모양1 =_pinstripesonwhite |바지모양1 =_pinstripesonwhite |모자1 = 0000FF |왼팔1 = 000000 |몸통1 = 000000 |오른팔1 = 000000 |바지1 = 000000 |양말1 = 0000FF |모자모양2 = |왼팔모양2 = |몸통모양2 = |오른팔모양2 = |바지모양2 = |모자2 = 0000FF |왼팔2 = 0000FF |몸통2 = 0000FF |오른팔2 = 0000FF |바지2 = FFFFFF |양말2 = 0000FF }} **요코하마 DeNA 베이스타스**(,)는 [가나가와현](https://ko.wikipedia.org/wiki/가나가와현 "wikilink") [요코하마시](https://ko.wikipedia.org/wiki/요코하마시 "wikilink")를 연고로 하는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 프로 [야구](https://ko.wikipedia.org/wiki/야구 "wikilink")단으로, [센트럴 리그](../Page/센트럴_리그.md "wikilink") 소속이다.
+
+[1949년](https://ko.wikipedia.org/wiki/1949년 "wikilink") [11월 22일에](https://ko.wikipedia.org/wiki/11월_22일 "wikilink") **다이요 웨일스**()라는 이름으로 창단, [1960년](https://ko.wikipedia.org/wiki/1960년 "wikilink")에 창단 이후 처음으로 [센트럴 리그](../Page/센트럴_리그.md "wikilink") 우승과 [일본 시리즈](https://ko.wikipedia.org/wiki/일본_선수권_시리즈 "wikilink") 우승을 달성했다. 자회사는 [모바일 게임](https://ko.wikipedia.org/wiki/모바일_게임 "wikilink") 업체인 [DeNA](https://ko.wikipedia.org/wiki/DeNA "wikilink")이며, [요코하마 스타디움을](https://ko.wikipedia.org/wiki/요코하마_스타디움 "wikilink") 홈 구장으로 쓰고 있다. 최근에 일본 시리즈 우승한 연도는 [1998년이다](https://ko.wikipedia.org/wiki/1998년_일본_시리즈 "wikilink").
+
+2011년 11월 4일, DeNA가 3일 [TBS로부터](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink") 정식으로 요코하마를 인수한다고 공식 발표했다. 발표 내용에 따르면 DeNA는 TBS가 가지고 있는 요코하마의 주식 69.23% 중 2.31%를 제외한 나머지를 65억엔에 사들임과 동시에 [일본 야구 기구에](https://ko.wikipedia.org/wiki/일본_야구_기구 "wikilink") 보증금 30억 엔을 내고 정식으로 요코하마의 소유주가 됐다.
+
+그 동안 말이 많았던 구단 명칭에 대해서는 정식으로 ‘요코하마 DeNA 베이스타스’로 하기로 했다. 12월 1일에 열린 구단주 회의에서 3/4 이상의 동의를 얻어 인수가 정식으로 확정됐다.\[1\]
+
+## 구단의 역사
+
+하야시카네상점(이후 [다이요 어업을](https://ko.wikipedia.org/wiki/마루하 "wikilink") 거쳐 현 [마루하니치로](https://ko.wikipedia.org/wiki/마루하니치로 "wikilink"))의 실업 팀으로 [1925년](https://ko.wikipedia.org/wiki/1925년 "wikilink") 5월에 설립되었다. 이후 [1930년](https://ko.wikipedia.org/wiki/1930년 "wikilink") 제4회 [전일본 도시 대항 야구 대회에서](https://ko.wikipedia.org/wiki/전일본_도시_대항_야구_대회 "wikilink") 첫 도전을 하면서 비록 초전 패퇴지만 전국 대회의 출전이라는 성과를 남겼다. 이듬해 주고쿠 대회에서 4강에 오르는 등의 성적을 남겼으나 세계적인 [대공황](https://ko.wikipedia.org/wiki/대공황 "wikilink")의 영향으로 제6회 전일본 도시 대항 야구 대회가 중지되어 연식 야구부만이 태평양 전쟁 시작 직전까지 존재하고 있었다. 이후 종전 뒤 [1946년](https://ko.wikipedia.org/wiki/1946년 "wikilink") 6월에 다이요 어업(1945년 12월에 개칭)의 연식 야구부로 부활해 같은 해 11월(일설에는 [1947년](https://ko.wikipedia.org/wiki/1947년 "wikilink") 11월)에 경식 야구부로 변경되었다. 이후 도시 대항 야구에서 전국 대회의 단골이 되었고 [1948년](https://ko.wikipedia.org/wiki/1948년 "wikilink")에는 [국민 체육 대회에서](https://ko.wikipedia.org/wiki/국민_체육_대회 "wikilink") 우승해 일약 이름을 알리게 되었다.
+
+[1949년](https://ko.wikipedia.org/wiki/1949년 "wikilink") 프로 야구의 리그 확장 정책으로 많은 기업들이 프로 야구 참여에 나섰고 다이요 어업 야구부에서는 [도구라 가쓰키](https://ko.wikipedia.org/wiki/도구라_가쓰키 "wikilink"), [고우치 다쿠시](https://ko.wikipedia.org/wiki/고우치_다쿠시 "wikilink"), [도쿠아미 시게루](../Page/도쿠아미_시게루.md "wikilink") 등의 주전 선수들이 새로운 구단인 [마이니치 오리온스로](https://ko.wikipedia.org/wiki/지바_롯데_마린스 "wikilink") 뽑혀갔다. 야구부에 열정을 쏟고 있던 [나카베 겐이치](https://ko.wikipedia.org/wiki/나카베_겐이치 "wikilink") 전 사장은 이에 분개하여 자사 야구부의 프로 참여 방침을 밝혔다.
+
+1949년 [11월 22일에](https://ko.wikipedia.org/wiki/11월_22일 "wikilink") **주식회사 마루하 구단**(株式会社まるは球団)을 설립하고 구단 이름은 잠정적으로 **마루하 구단**(まるは球団)을 자칭했다. [센트럴 리그에](../Page/센트럴_리그.md "wikilink") 가맹해 [야마구치현](https://ko.wikipedia.org/wiki/야마구치현 "wikilink") [시모노세키 시를](https://ko.wikipedia.org/wiki/시모노세키_시 "wikilink") 프랜차이즈로, 시모노세키 시립 경기장([시모노세키 구장과는](https://ko.wikipedia.org/wiki/시모노세키_구장 "wikilink") 다름)을 홈구장으로 삼았다. 원래 다이요의 사장과 동일한 'は를 원형 그대로 マルハ'라고 표기해야 했지만 이것이 신문의 활자에 없었기 때문에 'まるは'라고 표기하게 되었다.
+
+사회인 야구로서의 다이요 어업 야구부는 마루하 구단의 설립으로 인해 1949년 11월 30일자로 해산했지만 사회인 야구 시대의 선수에 구애받지 않는 나카베 사장의 정책으로 마루하 구단에 이적할 수 없던 선수를 위해 **전 시모노세키**(全下関) 팀을 만들어 [1951년](https://ko.wikipedia.org/wiki/1951년 "wikilink")까지 활동했다.
+
+### 시모노세키 시대
+
+1950년 시즌 개막 후 **다이요 웨일스**(大洋ホエールズ)로 구단명을 변경하고 9월에는 사무소를 시모노세키 시에서 [도쿄도](https://ko.wikipedia.org/wiki/도쿄도 "wikilink") [치요다 구로](https://ko.wikipedia.org/wiki/치요다_구 "wikilink") 이전했다. [요미우리 자이언츠에서](https://ko.wikipedia.org/wiki/요미우리_자이언츠 "wikilink") 뛰었던 [나카지마 하루야스와](../Page/나카지마_하루야스.md "wikilink") [히라야마 기쿠지](https://ko.wikipedia.org/wiki/히라야마_기쿠지 "wikilink"), 타이요 로빈스로부터 [후지이 이사무와](https://ko.wikipedia.org/wiki/후지이_이사무 "wikilink") [하야시 나오아키를](https://ko.wikipedia.org/wiki/하야시_나오아키 "wikilink") 넘겨 받았고, [우타카 이사무의](https://ko.wikipedia.org/wiki/우타카_이사무 "wikilink") 스카우트 활동으로 [도큐 플라이어스에서](https://ko.wikipedia.org/wiki/홋카이도_닛폰햄_파이터스 "wikilink") [오자와 기요시와](https://ko.wikipedia.org/wiki/오자와_기요시 "wikilink") [나가모치 에이키치](https://ko.wikipedia.org/wiki/나가모치_에이키치 "wikilink"), [가타야마 히로시를](../Page/가타야마_히로시.md "wikilink") 얻었고, [한큐 브레이브스에서](https://ko.wikipedia.org/wiki/오릭스_버펄로스 "wikilink") [미야자키 다케시와](https://ko.wikipedia.org/wiki/미야자키_다케시 "wikilink") [이마니시 렌타로를](https://ko.wikipedia.org/wiki/이마니시_렌타로 "wikilink") 얻어 구단을 보강하고 시즌을 시작했지만 리그에 가맹한 1950년에 5위, [1951년](https://ko.wikipedia.org/wiki/1951년 "wikilink") 6위, [1952년](https://ko.wikipedia.org/wiki/1952년 "wikilink") 4위로 부진을 면치 못했다.
+
+1951년 부채산으로 경영이 악화된 [히로시마 카프를](https://ko.wikipedia.org/wiki/히로시마_도요_카프 "wikilink") 흡수 합병하는 방안도 검토되었지만, 히로시마 구단 관계자와 지역 시민들의 필사적 생존 운동으로 히로시마와의 합병 이야기는 흐지부지됐다. 1952년 9월 7일의 쇼치쿠 로빈스 전(교토 니시쿄고쿠 종합 운동 공원 야구장)에서 당시 센트럴 리그 최장 기록인 연장 20회까지 갔으나 끝내기 패배를 당했다.
+
+### 오사카 시대
+
+[1953년](https://ko.wikipedia.org/wiki/1953년 "wikilink") [1월 10일](https://ko.wikipedia.org/wiki/1월_10일 "wikilink") 이전 년도의 "시즌 승률 3할 미만의 구단에게 처벌을 내린다"는 합의로 인해 그 해당 구단이 된 [쇼치쿠 로빈스와](../Page/쇼치쿠_로빈스.md "wikilink") 대등 합병해 센트럴 리그는 6팀 체제가 되었다. 구단의 명칭은 **다이요 쇼치쿠 로빈스**(大洋松竹ロビンス)로 개칭했고, 이듬해인 [1954년](https://ko.wikipedia.org/wiki/1954년 "wikilink") 통칭인 '요쇼'(洋松)가 들어가는 **요쇼 로빈스**(洋松ロビンス)로 개칭했다.
+
+1953년 시즌은 구단의 합병·통합을 결정하면서도 운영 회사의 완전한 합병이 이루어지지 않았고, 프랜차이즈도 다이요 구단의 시모노세키 시와 쇼치쿠 구단의 [교토부](https://ko.wikipedia.org/wiki/교토부 "wikilink")에서 병립하는 체제가 되었다. 구단 운영도 2개에서 1개의 구단을 운영하는 말처럼 변칙적인 형태가 되어 선수들의 연봉도 각각의 구단에서 지급하게 되었다. 주최 경기는 흥행면의 이점을 살려 [오사카 구장에서](https://ko.wikipedia.org/wiki/오사카_구장 "wikilink") 진행되었다. 합병 후 1년차의 시즌 종료 후인 [12월 26일에](https://ko.wikipedia.org/wiki/12월_26일 "wikilink") 구단 운영 회사가 신설 합병으로 정식 통합하며(당시 회사 이름은 **주식회사 다이요 쇼치쿠 구단**(株式会社大洋松竹球団)) 구단 사무소도 오사카 구장에 위치하게 되었다.
+
+오사카 시대의 구단 성적은 1953년 5위, 이듬해인 [1954년](https://ko.wikipedia.org/wiki/1954년 "wikilink")에는 32승 96패 2무의 최하위로 우승 팀인 [주니치 드래곤스와](https://ko.wikipedia.org/wiki/주니치_드래곤스 "wikilink") 55경기, 2위인 [고쿠테쓰 스왈로스와](../Page/도쿄_야쿠르트_스왈로스.md "wikilink") 22경기의 큰 차이로 벌어지는 대참패였다.
+
+### 가와사키 시대
+
+1954년 [12월 11일을](https://ko.wikipedia.org/wiki/12월_11일 "wikilink") 마지막으로 [쇼치쿠](https://ko.wikipedia.org/wiki/쇼치쿠 "wikilink")는 구단 경영에서 물러나고 [나카베 겐키치가](https://ko.wikipedia.org/wiki/나카베_겐키치 "wikilink") 오너가 되었다. 구단 명칭을 다시 **다이요 웨일스**(大洋ホエールズ)로 변경했고 보호 지역을 [가나가와현](https://ko.wikipedia.org/wiki/가나가와현 "wikilink")으로 이전했다. [가와사키 시의](https://ko.wikipedia.org/wiki/가와사키_시 "wikilink") [가와사키 구장을](https://ko.wikipedia.org/wiki/가와사키_구장 "wikilink") 홈구장으로 하는 '신생 웨일스'로 다시 시작했으나 1년차인 [1955년](https://ko.wikipedia.org/wiki/1955년 "wikilink")의 성적은 31승 99패로 1위인 요미우리와는 61.5경기 차였으며 5위인 고쿠테쓰와도 큰 차이가 난 채로 최하위에 머물렀다. 이후 팀은 로빈스 시대인 1954년부터 [1959년](https://ko.wikipedia.org/wiki/1959년 "wikilink")까지 6년 연속 최하위를 기록했다.
+
+[1956년](https://ko.wikipedia.org/wiki/1956년 "wikilink") [메이지 대학에서](https://ko.wikipedia.org/wiki/메이지_대학 "wikilink") [아키야마 노보루](https://ko.wikipedia.org/wiki/아키야마_노보루 "wikilink"), [도이 기요시](https://ko.wikipedia.org/wiki/도이_기요시 "wikilink"), [이와오카 야스히로](https://ko.wikipedia.org/wiki/이와오카_야스히로 "wikilink"), [구로키 히로시게](https://ko.wikipedia.org/wiki/구로키_히로시게 "wikilink"), [오키야마 데루토시의](https://ko.wikipedia.org/wiki/오키야마_데루토시 "wikilink") 5명이 입단했다. 같은 학교의 선수가 같은 구단에 동시에 5명이 선발되는 것은 드문 경우여서 '메이지 5인방'이라는 이름이 붙으며 이목을 끌었다. 에이스인 아키야마가 매년 혹사를 견디어 냈고 요미우리에서 이적한 [아오타 노보루가](../Page/아오타_노보루.md "wikilink") 세 번의 홈런왕을 차지했다.
+
+[1960년](https://ko.wikipedia.org/wiki/1960년 "wikilink") 이전까지 [니시테쓰 라이온스의](https://ko.wikipedia.org/wiki/사이타마_세이부_라이온스 "wikilink") 감독이었던 [미하라 오사무를](../Page/미하라_오사무.md "wikilink") 감독으로 초빙했다. 미하라는 신인 [곤도 아키히토와](https://ko.wikipedia.org/wiki/곤도_아키히토 "wikilink") 시즌 중에 [긴테쓰 버펄로스에서](https://ko.wikipedia.org/wiki/오사카_긴테쓰_버펄로스 "wikilink") 획득한 [스즈키 다케시로](https://ko.wikipedia.org/wiki/스즈키_다케시_\(야구인\) "wikilink") 2-유간을 굳혀 아키야마와 [시마다 겐타로를](https://ko.wikipedia.org/wiki/시마다_겐타로 "wikilink") 중심으로 한 투수력을 앞세워 [미즈하라 시게루](../Page/미즈하라_시게루.md "wikilink") 감독이 이끄는 요미우리와 우승 경쟁을 다퉈 전년도 최하위에서 리그 우승을 한다. 그 해 [일본 시리즈에서도](https://ko.wikipedia.org/wiki/1960년_일본_시리즈 "wikilink") 마이니치 다이에이 오리온스를 상대로 모두 1점차 승리로 4연승하며 일본 제일을 차지했다.
+
+[1962년](https://ko.wikipedia.org/wiki/1962년 "wikilink")과 [1964년](https://ko.wikipedia.org/wiki/1964년 "wikilink")에는 [한신 타이거스와](../Page/한신_타이거스.md "wikilink") 우승 경쟁을 벌였으나 패배하고 [1963년](https://ko.wikipedia.org/wiki/1963년 "wikilink")에는 최하위인 히로시마와 한 경기 차인 5위에 머물렀다. 이후에는 점점 우승에서 멀어지게 되었으며 미하라는 [1967년](https://ko.wikipedia.org/wiki/1967년 "wikilink")에 감독을 퇴임했다. **[메가톤 타선](https://ko.wikipedia.org/wiki/메가톤_타선 "wikilink")**이라는 강력한 타선과 [곤도 가즈히토](https://ko.wikipedia.org/wiki/곤도_가즈히토 "wikilink"), [클리트 보이어](https://ko.wikipedia.org/wiki/클리트_보이어 "wikilink"), [구와타 다케시](https://ko.wikipedia.org/wiki/구와타_다케시 "wikilink"), [마쓰바라 마코토](../Page/마쓰바라_마코토.md "wikilink"), [히라마쓰 마사지](../Page/히라마쓰_마사지.md "wikilink"), [존 시핀](https://ko.wikipedia.org/wiki/존_시핀 "wikilink") 같은 이름난 선수들을 보유했으나 팀의 전체적인 전력이 약했고 1965년 이후 팀의 승률은 1969년에서 1971년의 3년 간을 제외하면 본거지 이전까지 5할을 넘지 못했다.
+
+1965년에서 1973년에 걸친 요미우리의 V9 동안 다이요는 강력한 타선으로 요미우리의 투수진을 붕괴시켰는데 빈약한 투수진이 비슷한 타선에 막혀 언제나 타격전의 양상을 보였다. 당시 요미우리와 타격으로 맞붙어 이길 수 있는 대표적인 팀이 다이요였다. 그것도 양익 89m, 중견 118m의 가와사키 구장의 좁음과 무관하지 않았다. 하지만 [1973년](https://ko.wikipedia.org/wiki/1973년 "wikilink")에는 개막전부터 6월까지 혼전을 보이던 센트럴 리그에서 히로시마와 함께 선두 경쟁의 주도권을 쥐고 있었다. 그러나 7월부터 서서히 침체되어 결과적으로 요미우리에게 선두를 내주고 우승 경쟁에서 밀려나 있던 야쿠르트에게도 밀려나 5위를 차지했다. 감독이었던 아오타 노보루가 이에 책임을 지고 사임했다.
+
+[1974년](https://ko.wikipedia.org/wiki/1974년 "wikilink") 팀은 5위를 기록했지만 마쓰바라가 처음으로 타율 3할을 기록하며 최다 안타를 획득했다. 다음 해인 [1975년](https://ko.wikipedia.org/wiki/1975년 "wikilink")에도 5위로 시즌을 끝냈다.
+
+[1976년](https://ko.wikipedia.org/wiki/1976년 "wikilink") 가와사키에서 요코하마로 이전 계획을 획책하고 있던 다이요 구단은 요코하마의 새로운 야구장 건설 자금을 염출하기 위해 [아스카다 이치오](https://ko.wikipedia.org/wiki/아스카다_이치오 "wikilink") 요코하마 시장의 주선으로 [국토 계획](https://ko.wikipedia.org/wiki/국토_계획 "wikilink")(현재의 [프린스 호텔](https://ko.wikipedia.org/wiki/프린스_호텔 "wikilink"))의 출자를 받아 들였다. 따라서 다이요 구단의 지분율은 다이요 어업 55%, 국토 계획 45%가 되었다.
+
+[1977년](https://ko.wikipedia.org/wiki/1977년 "wikilink"), 오너였던 나카베가 1월에 사망하면서 모회사인 다이요 어업은 장남인 [나카베 도지로가](https://ko.wikipedia.org/wiki/나카베_도지로 "wikilink"), 다이요 구단주는 삼남인 [나카베 신지로가](https://ko.wikipedia.org/wiki/나카베_신지로 "wikilink") 각각 물려 받았다. 마쓰바라나 [요네다 게이자부로](https://ko.wikipedia.org/wiki/요네다_게이자부로 "wikilink") 등의 수비의 명수들 이외에 보이어, 시핀, 미얀의 호수비를 자랑하는 외국인 선수들의 활약으로 1970년대의 다이요 내야진은 실력을 뽐냈다. 1980년대에 들어서도 [야마시타 다이스케](https://ko.wikipedia.org/wiki/야마시타_다이스케 "wikilink"), [모토이 미쓰오나](https://ko.wikipedia.org/wiki/모토이_미쓰오 "wikilink") [다카기 유타카에](https://ko.wikipedia.org/wiki/다카기_유타카 "wikilink") 철벽의 2-유간이 계승되었다. 이 때 '2루수가 역 싱글 포구 뒤 짧은 토스, 그 순간에 원 바운드 송구로 주자 아웃' 같은 플레이를 실제로 하고 있었다.
+
+### 요코하마 시대
+
+#### 다이요 시대
+
+[1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink") 국토 계획의 주도로 [요코하마 시](https://ko.wikipedia.org/wiki/요코하마_시 "wikilink") [나카 구에](https://ko.wikipedia.org/wiki/나카_구_\(요코하마_시\) "wikilink") 건축된 [요코하마 스타디움으로](https://ko.wikipedia.org/wiki/요코하마_스타디움 "wikilink") 이전했다. 도시 이름을 넣어 **요코하마 다이요 웨일스**(横浜大洋ホエールズ)로 개칭했다. 요코하마의 초등학생이 가입하기 쉬운 팬클럽 창설 등 영업 체제 개혁을 수반한 운영에 의해 팬이 증가했다. 이 해에 국토 계획이 후쿠오카 야구 주식회사(크라운 라이터 라이온스)를 인수했기 때문에 야구 협약에 저촉되어 회사가 가진 다이요 구단의 주식은 [닛폰 방송과](../Page/닛폰_방송.md "wikilink") TBS([도쿄 방송](https://ko.wikipedia.org/wiki/도쿄_방송_홀딩스 "wikilink"))에 2:1의 비율로 매각되었다. 이후 [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") 초까지 구단 지분율은 다이요 어업(이후 마루하) 55%, 닛폰 방송 30%, TBS 15%를 차지했다.
+
+요코하마로 이전한 첫 해에는 4위, [1979년](https://ko.wikipedia.org/wiki/1979년 "wikilink")에는 2위로 약진했으나 시즌이 끝나고 감독었던 [벳토 가오루가](https://ko.wikipedia.org/wiki/벳토_가오루 "wikilink") 퇴임해 이듬해에 다이요 구단의 전무 이사·구단 대표로 취임했다. [1980년](https://ko.wikipedia.org/wiki/1980년 "wikilink") 신인 지명 회의에서는 지역의 대학인 [도카이 대학의](../Page/도카이_대학.md "wikilink") [하라 다쓰노리를](https://ko.wikipedia.org/wiki/하라_다쓰노리 "wikilink") 1순위로 지명했으나 교섭권을 획득하지 못했다. [도이 기요시가](https://ko.wikipedia.org/wiki/도이_기요시 "wikilink") 감독으로 취임했으나 4위로 시즌을 마쳤고 [1981년](https://ko.wikipedia.org/wiki/1981년 "wikilink")에도 부진에 이어 도이 감독이 [9월 24일부터](https://ko.wikipedia.org/wiki/9월_24일 "wikilink") 휴양으로 팀을 떠나면서 최하위에 머물렀다. [1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink") [나가시마 시게오를](https://ko.wikipedia.org/wiki/나가시마_시게오 "wikilink") 감독으로 초빙하는 포석으로 나가시마와 친분이 있던 [세키네 준조를](https://ko.wikipedia.org/wiki/세키네_준조 "wikilink") 감독으로 맞이했으나 나가시마의 영입에는 실패했다. 또한 '주니어'라고 불리었던 투수 [세키네 히로후미의](https://ko.wikipedia.org/wiki/세키네_히로후미 "wikilink") 입단 과정에서 닛산 야구부와의 협상이 결렬되며 시즌을 5위로 마쳤다. [1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink") 3위로 A클래스에 입성했지만 [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") 다시 최하위로 전락하며 세키네 감독이 사임했다.
+
+[1985](https://ko.wikipedia.org/wiki/1985 "wikilink")년 [곤도 사다오가](https://ko.wikipedia.org/wiki/곤도_사다오 "wikilink") 감독으로 취임하면서 다카기 유타카, [가토 히로카즈](https://ko.wikipedia.org/wiki/가토_히로카즈 "wikilink"), [야시키 가나메의](https://ko.wikipedia.org/wiki/야시키_가나메 "wikilink") **[슈퍼카 트리오](https://ko.wikipedia.org/wiki/슈퍼카_트리오 "wikilink")**가 결성되어 주목을 끌었다. 하지만 엔도나 [사이토 아키오의](https://ko.wikipedia.org/wiki/사이토_아키오 "wikilink") 투수진은 개선되지 않아 팀 성적은 4위에 그쳤다. 이듬해 [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") 4위를 기록하며 감독이었던 곤도는 2년 만에 퇴임했다.
+
+[1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink")에는 히로시마에서 4회 우승을 이끌었던 [고바 다케시를](https://ko.wikipedia.org/wiki/고바_다케시 "wikilink") 감독으로 맞이했으나 3년 동안 5위, 4위, 최하위로 한 번도 A클래스에 입성하지 못하는 부진으로 [1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink")에 팀 부진의 책임을 지고 감독직에서 물러났다. 그러나 그 기간 동안 이후의 [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") 우승 당시의 주력 선수들을 획득하는 등 리빌딩의 측면에서는 성공했다고 볼 수 있다.
+
+[1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink") [스도 유타카가](https://ko.wikipedia.org/wiki/스도_유타카 "wikilink") 감독으로 취임해 3위로 팀을 A클래스에 이끌었으나 [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink")에는 5위로 B클래스로 전락하고 말았다. [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink") 개막 이전에 사임해 수석 코치였던 [에지리 아키라가](https://ko.wikipedia.org/wiki/에지리_아키라 "wikilink") 감독 대행을 맡다가 정식 감독으로 승격해 팀을 이끌었으나 5위로 시즌을 끝냈다. 한편 에지리 감독 시절에 [모리타 고키와](https://ko.wikipedia.org/wiki/모리타_고키 "wikilink") [사사키 가즈히로의](https://ko.wikipedia.org/wiki/사사키_가즈히로 "wikilink") 더블 스토퍼 체제를 확립했다.
+
+[1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink") [11월 11일에](https://ko.wikipedia.org/wiki/11월_11일 "wikilink") 모구단인 다이요 어업이 법인 조직의 정체성 실현을 위해 이름을 마루하로 개칭한 것에 따라 웨일스도 지역에 밀착한 시민 구단을 목표로 하여 **요코하마 베이스타스**(横浜ベイスターズ)로 구단 명칭을 변경했다. 이듬해 4월에 회사 이름도 기존의 '주식회사 다이요 구단'에서 **주식회사 요코하마 베이스타스**(株式会社横浜ベイスターズ)로 변경했다. 구단 이름에서 회사 이름인 '다이요'를 분리하고 도시 이름인 '요코하마'만 씌운다는 방침은 CI의 도입 결정시 정해져 있었지만 개칭 후 구단 이름은 사내·외에서는 당초의 애칭을 그대로 사용한 '요코하마 웨일스'가 된다는 추측이 있었다. 그러나 오너였던 나카베 케이지로는 한때 다이요 어업의 주력 사업이었던 상업 포경의 규제가 강해지고 있다고 지적하고, "우리 회사는 이제 더 이상 고래만에 의존할 수 있는 여유가 없게 되었다. 그래서 애칭도 변경해야 한다"고 말하며 내부에 새로운 애칭을 검토하도록 지시했다. 그 결과 애칭은 '요코하마 베이브릿지'에서 따온 '베이스타스'가 되었다. 또한 베이스타스 선수가 마루하의 CM에는 일절 출연하지 않는 것이 약속되었다.
+
+#### 요코하마 베이스타스 시대
+
+[1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") [곤도 아키히토가](https://ko.wikipedia.org/wiki/곤도_아키히토 "wikilink") 감독으로 취임했다. 구단 이름의 변경에 따라 유니폼·구단 깃발·마스코트 캐릭터를 새롭게 단장했다. 이 해 시즌 종료 후부터 시작된 프리 에이전트 제도로 요미우리의 [고마다 노리히로를](https://ko.wikipedia.org/wiki/고마다_노리히로 "wikilink") 획득했으나 오랫동안 팀에서 뛰었던 다카기 유타카나 야시키 가나메, [야마자키 겐이치](https://ko.wikipedia.org/wiki/야마자키_겐이치 "wikilink"), [이치카와 가즈마사](https://ko.wikipedia.org/wiki/이치카와_가즈마사 "wikilink") 등의 주전 선수가 대거 해고되었다. 베이스타스 출범 첫 해는 5위를 기록했다.
+
+[1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") 고마다 이외에 [사에키 다카히로나](https://ko.wikipedia.org/wiki/사에키_다카히로 "wikilink") [하루 도시오](https://ko.wikipedia.org/wiki/하루_도시오 "wikilink") 등을 기용하며 전력 강화를 도모했으나 혼전의 시즌을 거치며 최하위로 끝냈다.
+
+[1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") 결과적으로 4위로 끝났으나 12년 만의 5할 승률에 복귀했다. 하지만 앞선 곤도에 대한 감독으로서의 평가는 그다지 좋지 못했고 결국 임기 만료로 퇴임했다. 곤도의 후임으로는 [오야 아키히코가](https://ko.wikipedia.org/wiki/오야_아키히코 "wikilink") 부임했으며 이후에 수위 타자가 되는 [스즈키 다카노리가](https://ko.wikipedia.org/wiki/스즈키_다카노리 "wikilink") 3번·좌익수로 기용되는 등 젊은 선수들이 부상했다.
+
+[1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") 4월에 선두를 질주하며 "센트럴 리그 태풍의 눈"이라는 평가를 받았지만 5월 이후 하락세를 보이며 결국 5위로 시즌을 마쳤다.
+
+[1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [곤도 히로시를](https://ko.wikipedia.org/wiki/곤도_히로시 "wikilink") 배터리 코치로 맞이했다. 시즌 후반에 1위인 야쿠르트를 위협하며 추격하는 모습을 보였으나 결국 2위에 머물렀다. 감독인 오야가 2년 임기를 마치고 사임하면서 곤도가 차기 감독으로 부임하였다.
+
+[1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink"), 마무리인 사사키를 부동의 중심으로 하는 투수진과 "한 번 치기 시작하면 멈추지 않는다"는 **[머신 건 타선](https://ko.wikipedia.org/wiki/머신_건_타선 "wikilink")**이 맞물려 [10월 8일에](https://ko.wikipedia.org/wiki/10월_8일 "wikilink") 38년 만의 리그 우승을 차지했다. 이후 [일본 시리즈에서는](https://ko.wikipedia.org/wiki/1998년_일본_시리즈 "wikilink") 세이부를 상대로 4승 2패로 일본 제일을 차지했다. 신인 선수 지명 회의에서는 요코하마 고등학교의 [마쓰자카 다이스케를](../Page/마쓰자카_다이스케.md "wikilink") 1순위 지명했으나 교섭권 획득에 실패하고, [후루키 가쓰아키를](https://ko.wikipedia.org/wiki/후루키_가쓰아키 "wikilink") 지명했다.
+
+[1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink")에는 머신 건 타선이 절호조에 이르러 팀은 시즌 타율 .294, 용병인 로즈가 153타점을 기록하며 팀 최고 타율을 기록했다. 그러나 투수진은 [가와무라 다케오가](https://ko.wikipedia.org/wiki/가와무라_다케오 "wikilink") 17승을 올리며 활약했지만 [미우라 다이스케의](https://ko.wikipedia.org/wiki/미우라_다이스케 "wikilink") 부진이나 [노무라 히로키](https://ko.wikipedia.org/wiki/노무라_히로키 "wikilink")·사사키의 부상 등으로 제 실력을 발휘하지 못하고 3위로 끝냈다. 시즌 종료 후에는 사사키가 메이저 리그 [시애틀 매리너스로](https://ko.wikipedia.org/wiki/시애틀_매리너스 "wikilink") 이적했다.
+
+[2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [긴조 다쓰히코가](https://ko.wikipedia.org/wiki/긴조_다쓰히코 "wikilink") 신인왕과 수위 타자의 2관왕을 차지했지만 투·타 모두 부진에 부상자 등으로 우승 경쟁에는 참가하지 못하고 2년 연속 3위로 시즌을 마쳤다. 시즌 종료 후 곤도 감독이 퇴진했으며 로즈와 고마다가 퇴단했다. 팜 조직의 이름을 **쇼난 시렉스**(湘南シーレックス)로 개칭하고 독립 채산을 목표로 활동에 나섰다. 감독에는 곤도의 뒤를 이어 [모리 마사아키가](https://ko.wikipedia.org/wiki/모리_마사아키_\(야구인\) "wikilink") 취임했다.
+
+[2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") 이 해에는 순위 결정 방식이 달랐고 5년 연속 A클래스(3위)가 되었다(이 해의 순위에 관해서는 후술).
+
+[2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") 개막전부터 기록적인 침체가 계속되어 [9월 25일에](https://ko.wikipedia.org/wiki/9월_25일 "wikilink") 감독인 모리가 시즌 종료를 맞지 못하고 휴양을 강요당하며(최종 승률 .363) 3년 계약의 두 번째 해에 사실상 해임당했다. [1월 26일](https://ko.wikipedia.org/wiki/1월_26일 "wikilink") 모회사(최대 주주)가 마루하에서 닛폰 방송으로 변경되었지만 당시 닛폰 방송의 계열사인 [후지 텔레비전](https://ko.wikipedia.org/wiki/후지_TV "wikilink")(현재의 후지 미디어 홀딩스)이 야쿠르트 구단의 주식을 20% 이상 보유하고 있었기 때문에 TBS(도쿄 방송)으로의 이행이 프로 야구 오너 회의에서 승인되었고 구단주가 당시 TBS의 사장이었던 [스나하라 유키오로](https://ko.wikipedia.org/wiki/스나하라_유키오 "wikilink") 바뀌었다(자세한 내용은 마루하에서 TBS의 필두 주주 교체 문단을 참고). 이를 기점으로 1978년 이후 닛폰 방송에 독점 중계권을 빼앗겨 상실했던 TBS의 라디오 중계가 부활했다. 요코하마 스타디움에서의 야간 중계 이외의 경기나 요미우리 전 이외의 주말의 낮 경기를 'THE 베이스볼 베이스타스'라는 제목으로 방송을 시작했다. 또한 두 개의 응원단이 통합하여 '전국성패회'가 발족하였다. 모리의 후임으로는 야마시타 다이스케가 부임했다.
+
+[2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") 젊은 선수와 공격을 중시하는 야구를 펼쳤으나 모두 실패하고 승률도 전년도를 밑도는 .324를 기록했다. 5위 히로시마와 22.5 경기 차 이상으로 벌어지며(2003년 시즌에 우승한 한신과 5위 히로시마의 경기 차이는 20경기) 45승 94패 1무라는 참담한 성적으로 시즌 90패에 도달했는데 이는 1970년의 야쿠르트 이후 33년만의 일이었다.
+
+[2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink")에는 4월 종료 시점에서 선두를 달리고 있었으나 투수진의 부진으로 서서히 추락했고 시즌 종료에 5위 싸움을 했으나 최종전에서 패해 히로시마와 승률 0.00092라는 근소한 차이로 최하위를 기록했다. 이로 인해 45년 만에 3년 연속 최하위를 기록했고 감독이었던 야마시타가 사임했다. 오프 시즌에 [이치바 야스히로의](https://ko.wikipedia.org/wiki/이치바_야스히로 "wikilink") 금전 수수 문제로 오너가 스나하라 유키오에서 TBS의 부사장인 [와카바야시 기요시로](https://ko.wikipedia.org/wiki/와카바야시_기요시 "wikilink") 교체되었다. 감독으로는 [우시지마 가즈히코가](https://ko.wikipedia.org/wiki/우시지마_가즈히코 "wikilink") 부임했다.
+
+[2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink")에는 그 동안 부진했던 투수진이 부활하며 4년 만에 A클래스인 3위로 부상했다. 특별 고문으로 우시지마의 친구인 [이시바시 다카아키](https://ko.wikipedia.org/wiki/이시바시_다카아키 "wikilink")([돈네루즈](https://ko.wikipedia.org/wiki/돈네루즈 "wikilink"))를 발탁해 선수단과 팬들 간의 연결 고리를 담당하게 되는 등 새로운 팬 서비스를 시작했다.
+
+[2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")은 투수진의 선발진 약화와 이중 모션 금지로 인한 영향으로 주력 투수들이 잇따라 부진에 빠지며 5월까지 분위기가 침체되었다. 6월부터는 [무라타 슈이치와](https://ko.wikipedia.org/wiki/무라타_슈이치 "wikilink") [요시무라 유키](https://ko.wikipedia.org/wiki/요시무라_유키 "wikilink") 등 젊은 야수들의 대두와 [우시다 시게루](https://ko.wikipedia.org/wiki/우시다_시게루 "wikilink") 등 젊은 투수들을 기용했으나 패배를 넘지 못하고 최하위에 그쳤다. 구단 측은 연임을 희망했지만 우도는 최하위의 책임을 지고 시즌 도중인 [9월 3일에](https://ko.wikipedia.org/wiki/9월_3일 "wikilink") 퇴임을 발표했다. 후임은 오야 아키히코가 10년 만에 복귀하는 것으로 결정되었다. [4월 3일](https://ko.wikipedia.org/wiki/4월_3일 "wikilink") 스포츠 활동을 통해 지역 공헌을 목표로 하는 NPO 법인 '요코하마 베이스타스 스포츠 커뮤니티'를 설립하고 활동을 시작했다. 이사장은 팀의 OB 출신인 [히라마쓰 마사지](../Page/히라마쓰_마사지.md "wikilink"), 부이사장에는 [하타야마 히토시가](https://ko.wikipedia.org/wiki/하타야마_히토시 "wikilink") 취임했다. [7월 1일](https://ko.wikipedia.org/wiki/7월_1일 "wikilink") 자회사인 주식회사 베이스타스 소프트를 인수합병했다. [12월 1일에](https://ko.wikipedia.org/wiki/12월_1일 "wikilink") 자본금이 6억 5천만 엔에서 1억 엔으로 감소했으며 '팀 운영 총괄'이라는 GM의 자리에 닛산 자동차 경식 야구부의 감독을 맡은 [무라카미 다다노리가](https://ko.wikipedia.org/wiki/무라카미_다다노리 "wikilink") 부임했다. 오프 시즌에는 [후쿠오카 소프트뱅크 호크스의](../Page/후쿠오카_소프트뱅크_호크스.md "wikilink") [데라하라 하야토를](../Page/데라하라_하야토.md "wikilink") [다무라 히토시와의](https://ko.wikipedia.org/wiki/다무라_히토시 "wikilink") 트레이드로 영입했으며 요미우리의 [니시 도시히사를](https://ko.wikipedia.org/wiki/니시_도시히사 "wikilink") [오다지마 마사쿠니에](https://ko.wikipedia.org/wiki/오다지마_마사쿠니 "wikilink") 현금을 더하는 트레이드로 영입했다. 이 해 팀의 유일한 두 자릿 수 승수를 거두었던 투수 [가도쿠라 겐이](https://ko.wikipedia.org/wiki/가도쿠라_겐 "wikilink") 연봉 평가에 불만을 가져 FA를 선언하고 요미우리로 이적해 보상 선수로 [구도 기미야스를](https://ko.wikipedia.org/wiki/구도_기미야스 "wikilink") 획득했다.
+
+[2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink")에는 이적조와 베테랑 세력의 활약으로 전반기에는 임시 선두로 상위권을 맹추격하며 3위로 끝냈다. 후반기에는 계속된 연패를 당해 최종전 이전에 연패를 끊었으나 최종전에서 패배하며 4위로 시즌을 마쳤다. 무라타가 [구와타 다케시](https://ko.wikipedia.org/wiki/구와타_다케시 "wikilink") 이후 31년 만의 홈런왕 획득과 구단 사상 최초로 2년 연속 100타점을 돌파했고 미우라의 35이닝 연속 무실점, 데라하라의 2경기 연속 완봉승 등 주력 선수들의 활약이 돋보였다. [1월 15일](https://ko.wikipedia.org/wiki/1월_15일 "wikilink") [산노 능률대학과](https://ko.wikipedia.org/wiki/산노_능률대학 "wikilink") 제휴 업무 협약을 체결해 팜인 쇼난 시렉스를 스포츠 비즈니스의 수업에 도입하기로 결정했다.
+
+[2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink")에는 개막전 투수로 유력했던 한신 킬러 미우라의 복귀가 늦어지며 한신에게 개막 3연패를 당했다. 이후에도 침체가 계속되어 2년 만에 최하위에 머물렀다. 이 해에 도약 한 [우치카와 세이이치](https://ko.wikipedia.org/wiki/우치카와_세이이치 "wikilink") 이외에 무라타, 요시무라의 강력한 타선을 가졌으나 투수진의 붕괴로 최하위로 침몰했고 2003년 이후 5년 만에 90패를 기록했다. 선수의 타율(우치카와의 .378)이 팀 승률(.338)을 상회하는 2리그 분열 후에는 최초의 진기록도 기록되었다. 성적의 책임을 물어 수석 겸 타격 코치인 [히로타 스미오](https://ko.wikipedia.org/wiki/히로타_스미오 "wikilink") 등 4명의 코치를 교체했다. 주전 포수인 [아이카와 료지가](https://ko.wikipedia.org/wiki/아이카와_료지 "wikilink") FA를 선언해 야쿠르트에 이적했다. CS 방송의 홈구장에서의 중계권을 Jsports에서 TBS 소속 [TBS 뉴스 버드에](https://ko.wikipedia.org/wiki/TBS_뉴스_버드 "wikilink") 이행했다.
+
+[2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")에는 [월드 베이스볼 클래식에서](https://ko.wikipedia.org/wiki/월드_베이스볼_클래식 "wikilink") 무라타의 부상 등으로 인해 개막 6연패를 당하는 등 초반부터 부진해 [5월 18일에](https://ko.wikipedia.org/wiki/5월_18일 "wikilink") 오야 감독의 무기한 휴가(사실상 해임)가 발표되었다. 2군 감독인 [다시로 도미오가](https://ko.wikipedia.org/wiki/다시로_도미오 "wikilink") 다음 날부터 감독 대행을 맡았으나 팀을 반전시킬 수는 없었고 2년 연속 최하위에 머물렀다. 전년도와 마찬가지로 다시로 감독 대행이 유임되지 않고 2군 감독으로 복귀했다. [11월 11일](https://ko.wikipedia.org/wiki/11월_11일 "wikilink") 후임 감독으로 요미우리의 투수 코치를 맡고 있던 [오바나 다카오를](https://ko.wikipedia.org/wiki/오바나_다카오 "wikilink") 초빙했으며 [요코하마 항을](https://ko.wikipedia.org/wiki/요코하마_항 "wikilink") 주유하는 '마린 루즈'에서 취임 기자 회견을 가졌다.
+
+[2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") 지바 롯데의 에이스 [시미즈 나오유키를](https://ko.wikipedia.org/wiki/시미즈_나오유키 "wikilink") 다인 트레이드로 획득했고 FA 선언을 한 지바 롯데의 [하시모토 다스쿠와](https://ko.wikipedia.org/wiki/하시모토_다스쿠 "wikilink") 닛폰햄의 [터멜 슬레지를](https://ko.wikipedia.org/wiki/터멜_슬레지 "wikilink") 영입하는 등 대규모 보강을 실시했다. [3월 31일](https://ko.wikipedia.org/wiki/3월_31일 "wikilink") 대 요미우리 전 승리로 공동 3위가 되며 히로시마가 6위로 시즌을 시작했는데, 요코하마의 '최하위에서의 탈출'은 2008년 4월 5일 이후 284번째 경기(725일 만)이며 라쿠텐의 이전 기록인 262경기(2005년 4월 9일 \~ 2007년 3월 24일)를 대폭 상회하며 경신했다. 그러나 교류전 이후 침체되어 최하위로 전락하며 한 번도 순위가 상승하지 않고 [9월 7일](https://ko.wikipedia.org/wiki/9월_7일 "wikilink") 요미우리 전에서 패배하면서 5년 연속 B클래스가 확정되었다. [9월 25일](https://ko.wikipedia.org/wiki/9월_25일 "wikilink") 주니치 전 패배로 3년 연속 최하위가 확정되었고 [9월 28일의](https://ko.wikipedia.org/wiki/9월_28일 "wikilink") 야쿠르트 전에서 패배하며 프로 야구 사상 첫 3년 연속 90패, [10월 6일](https://ko.wikipedia.org/wiki/10월_6일 "wikilink") 한신 전에서 패배하면서 130경기 제였던 [1955년](https://ko.wikipedia.org/wiki/1955년 "wikilink") 이후 55년 만에 시즌 95패를 기록했다. 코치인 [시마다 마코토가](https://ko.wikipedia.org/wiki/시마다_마코토 "wikilink") 성적 부진의 책임을 지고 사임했으며 우치카와가 FA로 소프트뱅크에 이적했다. 8월에는 2010년 시즌 종료와 함께 '쇼난 시렉스'라는 명칭의 2군을 1군과 같은 '요코하마 베이스타스'로 변경하는 것으로 일본 프로 야구 실행 위원회의 승인을 얻었다.
+
+[2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") FA로 닛폰햄의 [모리모토 히초리를](https://ko.wikipedia.org/wiki/모리모토_히초리 "wikilink") 영입했다. [3월 11일](https://ko.wikipedia.org/wiki/3월_11일 "wikilink") 발생한 [동일본 대지진](https://ko.wikipedia.org/wiki/동일본_대지진 "wikilink") 발생 당시 요코하마 구장에서 야쿠르트와 시범 경기를 진행하던 중이었으나 구장 전체가 흔들리고 경기가 중단되어 선수와 관중들이 그라운드로 피난했다. 당초 [3월 25일로](https://ko.wikipedia.org/wiki/3월_25일 "wikilink") 예정되어 있던 개막전이 지진의 영향으로 [4월 12일로](https://ko.wikipedia.org/wiki/4월_12일 "wikilink") 연기되어 4년 만에 홈구장에서 개막전을 가지게 되었다. 개막 상대인 주니치를 상대로 3연승을 거두며 2000년 이후 11년 만에 개막 카드를 역전했으나 5월 이후 하락세를 타며 교류전에서는 원정에서 1승(9패 2무)을 기록하며 7승 13패로 11위로 마쳤으며 7월 이후에는 연승도 없이 전반기를 25승 44패 6무로 승차가 -19가 되었다. 후반전에도 하락세는 계속되어 9월 27일 요미우리 전(요코하마 구장)에서 패하면서 B클래스가 확정되었고 10월 9일 한신 전(요코하마 구장)에서 패하면서 4년 연속 최하위가 결정되었다. 결국 47승 86패 11무로 1위와 27.5경기, 5위 히로시마와 11.5경기 차이로 6위에 머물렀다. 팀 방어율은 6년 만에 3점대로 복귀했으나 2년 연속 최하위로 승률도 1957년 \~ 1961년의 긴테쓰 이후 50년 만에 4년 연속 3할대로 부진했다. 오프 시즌에 무라타가 FA를 선언해 요미우리로 이적했고 슬레지와 [브렛 하퍼가](https://ko.wikipedia.org/wiki/브렛_하퍼 "wikilink") 해고되었다.
+
+10월 19일 TBS HD가 보유하고 있는 요코하마 베이스타스의 주식의 대부분을 [DeNA](https://ko.wikipedia.org/wiki/DeNA "wikilink")에 양도하는 것으로 대체하는 것에 합의했다. 10월 22일 최종전이 끝난 이후 감독인 오바나와 1군 코치진의 휴양이 발표되었다. 11월 4일 TBS HD가 소유한 주식의 일부(TBS HD 소유 640,000주(의결권 비율 49.23%), BS-TBS 소유 230,000주(의결권 비율 17.69%))를 12월 2일 자로 일본 프로 야구 기구 실행 위원회 및 오너 회의의 승인을 얻는 것을 조건으로 DeNA에 양도함으로써 양 회사 간의 정식 계약(취득 가격 주당 7,471 엔, 총액 65억 엔)을 맺었다. 또한 새 구단명으로 '요코하마 DeNA 베이스타스'가 신청되었다. 11월 22일 오바나 감독을 비롯한 6명의 코치의 해임이 발표되었다. 12월 1일 일본 프로 야구 오너 회의 및 실행 위원회에서 DeNA의 요코하마 베이스타스 인수와 오너 회사 변경이 승인되었다. 다음날인 2일 구단 주식이 양도되었고 상호 변경에 의해 **요코하마 DeNA 베이스타스**(横浜DeNAベイスターズ)로 새롭게 출발했다. 구단 GM은 요미우리 OB인 [다카다 시게루가](https://ko.wikipedia.org/wiki/다카다_시게루 "wikilink") 취임했지만 감독 인선에는 난항을 겪었다. 당초에는 요코하마 OB이기도 한 [구도 기미야스가](https://ko.wikipedia.org/wiki/구도_기미야스 "wikilink") 후보가 되었으나 투수 코치 인선을 둘러싸고 구단과 대립하여 [12월 5일](https://ko.wikipedia.org/wiki/12월_5일 "wikilink") 다카다 GM에 의해 파혼되었다고 회견에서 밝혀졌다. 다음날인 [12월 6일](https://ko.wikipedia.org/wiki/12월_6일 "wikilink") 후보였던 [나카하타 기요시의](https://ko.wikipedia.org/wiki/나카하타_기요시 "wikilink") 이름이 올라 [12월 9일에](https://ko.wikipedia.org/wiki/12월_9일 "wikilink") 감독 취임과 함께 새로운 구단의 로고가 발표되었다.
+
+#### DeNA 시대
+
+[2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 모회사의 변경에 따라 유니폼·구단 깃발·마스코트 캐릭터를 변경했다. [1월 29일](https://ko.wikipedia.org/wiki/1월_29일 "wikilink") 퀸스 스퀘어 요코하마 퀸스 서클에서 신 유니폼 발표 행사를 실시했다. [3월 18일에는](https://ko.wikipedia.org/wiki/3월_18일 "wikilink") 지금까지의 구단 마스코트인 홋시·홋시나·홋시조의 졸업과 함께 새로운 마스코트인 DB 스타맨의 취임을 발표했다.
+
+요미우리에서 자유 계약으로 [알렉스 라미레스를](https://ko.wikipedia.org/wiki/알렉스_라미레스 "wikilink") 영입했고 같은 요미우리에서 FA로 [쓰루오카 가즈나리](../Page/쓰루오카_가즈나리.md "wikilink"), 주니치에서 FA로 [고이케 마사아키를](https://ko.wikipedia.org/wiki/고이케_마사아키 "wikilink") 영입하면서 각각 4년 만에 베이스타스에 복귀했다. 한편 무라타의 보상 선수로 요미우리에서 [후지이 슈고를](../Page/후지이_슈고.md "wikilink") 획득했다. [3월 30일](https://ko.wikipedia.org/wiki/3월_30일 "wikilink") 시즌 개막전인 한신 전(교세라 돔 오사카)은 5대 5 무승부로 끝났고 [4월 1일](https://ko.wikipedia.org/wiki/4월_1일 "wikilink") 같은 시리즈에서 6대 2로 구단 명칭 변경 후 첫 승리를 거두었지만 이어진 4일부터 10일까지, 22일부터 5월 1일까지 2차례에 걸쳐 6연패하는 등 좋은 출발을 보이지 못했다. 교류전은 9승 14패로 10위에 머물렀고 [7월 7일](https://ko.wikipedia.org/wiki/7월_7일 "wikilink") 주니치 전에서 패배하며 자력 우승이 사실상 소멸하고 말았다. 전반기 마지막 3연전인 야쿠르트 전(메이지 진구 구장)에서 이번 시즌 첫 동일한 시리즈에서 3연승을 거두지만 전반기를 최하위로 끝냈다. 이후 [9월 15일의](https://ko.wikipedia.org/wiki/9월_15일 "wikilink") 야쿠르트 전(메이지 진구 구장)에 패배해 B클래스가 확정되었다. [9월 29일의](https://ko.wikipedia.org/wiki/9월_29일 "wikilink") 요미우리 전(요코하마 스타디움)에 승리하고 이번 시즌 첫 5연승을(2무 포함)하지만 136경기째인 30일의 주니치 전(요코하마 스타디움)에서 패배하며 5년 연속 최하위가 결정되었다. [10월 7일](https://ko.wikipedia.org/wiki/10월_7일 "wikilink") 대 요미우리 전(도쿄 돔)에서 패배하면서 시즌 내 요미우리 원정에서 1승도 거두지 못했고 시즌이 끝나며 도쿄 돔에서는 센트럴 리그 최초의 기록이 되었다. 결국 1위 요미우리와는 40경기 차, 5위 한신과 9.5경기 차를 기록했고 시즌 전적 46승 85패 13무로 센트럴 리그 5구단에 모두 루징 시리즈를 기록했다.
+
+[2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") 주니치에서 자유 계약으로 [토니 블랑코](../Page/토니_블랑코.md "wikilink"), [엔옐버트 소토](https://ko.wikipedia.org/wiki/엔옐버트_소토 "wikilink"), [호르헤 소사의](https://ko.wikipedia.org/wiki/호르헤_소사 "wikilink") 세 선수를 획득했다. 또한 한 때 팀의 주력 타자였던 소프트뱅크의 다무라 히토시를 포함해 3명의 선수가 요시무라 유키, [야마모토 쇼고](https://ko.wikipedia.org/wiki/야마모토_쇼고 "wikilink") 등 3명의 선수와 3대 3 트레이드로 입단했다. 다무라는 7년 만에 친정팀인 베이스타스에 복귀하게 되었다. 교류전은 7승 17패로 최하위에 머물렀으며 [9월 24일](https://ko.wikipedia.org/wiki/9월_24일 "wikilink") 대 한신 전(한신 고시엔 구장)에서 1대 6으로 패배하며 클라이막스 시리즈 진출 가능성이 소멸되었고 8년 연속 B클래스가 확정되었다. 하지만 [10월 1일](https://ko.wikipedia.org/wiki/10월_1일 "wikilink") 야쿠르트가 요미우리에게 패배하며 6년 만에 최하위에서 탈출하게 되며 5위로 시즌을 마쳤다. 한편 야쿠르트와 한신, 주니치에게 위닝 시리즈를 기록했는데, 이 세 팀에게 위닝 시리즈를 기록한 것은 12년 만이었다. 시즌 종료 후 라미레스가 퇴단했다.
+
+## 역대 감독
+
+  - [와타나베 다이리쿠](https://ko.wikipedia.org/wiki/와타나베_다이리쿠 "wikilink")(, 1950년)
+  - [나카지마 하루야스](../Page/나카지마_하루야스.md "wikilink")(, 1951년)
+  - [아리마 기이치](https://ko.wikipedia.org/wiki/아리마_기이치 "wikilink")(, 1951년)
+  - [고니시 도쿠로](https://ko.wikipedia.org/wiki/고니시_도쿠로 "wikilink")(, 1952년 \~ 1953년)
+  - [나가사와 다케오](https://ko.wikipedia.org/wiki/나가사와_다케오 "wikilink")(, 1954년)
+  - [후지이 이사무](https://ko.wikipedia.org/wiki/후지이_이사무 "wikilink")(, 1955년)
+  - [사코하타 마사미](https://ko.wikipedia.org/wiki/사코하타_마사미 "wikilink")(, 1956년 \~ 1958년)
+  - [모리 시게오](../Page/모리_시게오.md "wikilink")(, 1959년)
+  - [미하라 오사무](../Page/미하라_오사무.md "wikilink")(, 1960년 \~ 1967년)
+  - [벳토 가오루](https://ko.wikipedia.org/wiki/벳토_가오루 "wikilink")(, 1968년 \~ 1972년)**〈제1차〉**
+      - [아오타 노보루](../Page/아오타_노보루.md "wikilink")(, 1972년**〈제1차〉**)【감독 대행】
+      - [미야자키 다케시](https://ko.wikipedia.org/wiki/미야자키_다케시 "wikilink")(, 1972년**〈제1차〉**)【감독 대행】
+  - 아오타 노보루(, 1973년)**〈제2차〉**
+  - 미야자키 다케시(, 1974년)**〈제2차〉**
+  - [아키야마 노보루](https://ko.wikipedia.org/wiki/아키야마_노보루 "wikilink")(, 1975년 \~ 1976년)
+  - 벳토 가오루(, 1977년 \~ 1979년)**〈제2차〉**
+  - [도이 기요시](https://ko.wikipedia.org/wiki/도이_기요시 "wikilink")(, 1980년 \~ 1981년)
+      - [야마네 도시히데](https://ko.wikipedia.org/wiki/야마네_도시히데 "wikilink")(, 1981년)【감독 대행】
+  - [세키네 준조](https://ko.wikipedia.org/wiki/세키네_준조 "wikilink")(, 1982년 \~ 1984년)
+  - [곤도 사다오](https://ko.wikipedia.org/wiki/곤도_사다오 "wikilink")(, 1985년 \~ 1986년)
+  - [고바 다케시](https://ko.wikipedia.org/wiki/고바_다케시 "wikilink")(, 1987년 \~ 1989년)
+  - [스도 유타카](https://ko.wikipedia.org/wiki/스도_유타카 "wikilink")(, 1990년 \~ 1992년)
+  - [에지리 아키라](https://ko.wikipedia.org/wiki/에지리_아키라 "wikilink")(, 1992년)
+  - [곤도 아키히토](https://ko.wikipedia.org/wiki/곤도_아키히토 "wikilink")(, 1993년 \~ 1995년)
+  - [오야 아키히코](https://ko.wikipedia.org/wiki/오야_아키히코 "wikilink")(, 1996년 \~ 1997년)**〈제1차〉**
+  - [곤도 히로시](https://ko.wikipedia.org/wiki/곤도_히로시 "wikilink")(, 1998년 \~ 2000년)
+  - [모리 마사아키](https://ko.wikipedia.org/wiki/모리_마사아키_\(야구인\) "wikilink")(, 2001년 \~ 2002년)
+      - [구로에 유키노부](https://ko.wikipedia.org/wiki/구로에_유키노부 "wikilink")(, 2002년)【감독 대행】
+  - [야마시타 다이스케](https://ko.wikipedia.org/wiki/야마시타_다이스케 "wikilink")(, 2003년 \~ 2004년)
+  - [우시지마 가즈히코](https://ko.wikipedia.org/wiki/우시지마_가즈히코 "wikilink")(, 2005년 \~ 2006년)
+  - 오야 아키히코(, 2007년 \~ 2009년)**〈제2차〉**
+      - [다시로 도미오](https://ko.wikipedia.org/wiki/다시로_도미오 "wikilink")(, 2009년)【감독 대행】
+  - [오바나 다카오](https://ko.wikipedia.org/wiki/오바나_다카오 "wikilink")(, 2010년 \~ 2011년)
+  - [나카하타 기요시](https://ko.wikipedia.org/wiki/나카하타_기요시 "wikilink")(, 2012년 \~ 2015년)
+  - [알렉스 라미레스](https://ko.wikipedia.org/wiki/알렉스_라미레스 "wikilink")(, 2016년 \~ )
+
+※ **〈 〉**은 재임 차수.
+
+## 연도별 성적
+
+| 연도                                                      | 감독                                                                                                       | 순위     | 경기  | 승리 | 패전 | 무승부 | 승률   | 승차   | 타율   | 홈런  | 평균자책점 |
+| ------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ------ | --- | -- | -- | --- | ---- | ---- | ---- | --- | ----- |
+| [1950년](https://ko.wikipedia.org/wiki/1950년 "wikilink") | [와타나베 다이리쿠](https://ko.wikipedia.org/wiki/와타나베_다이리쿠 "wikilink")                                          | 5위     | 140 | 69 | 68 | 3   | .504 | 31   | .273 | 111 | 4.47  |
+| [1951년](https://ko.wikipedia.org/wiki/1951년 "wikilink") | [나카지마 하루야스](../Page/나카지마_하루야스.md "wikilink")·[아리마 기이치](https://ko.wikipedia.org/wiki/아리마_기이치 "wikilink") | 6위     | 108 | 40 | 64 | 4   | .385 | 37   | .253 | 86  | 4.84  |
+| [1952년](https://ko.wikipedia.org/wiki/1952년 "wikilink") | [고니시 도쿠로](https://ko.wikipedia.org/wiki/고니시_도쿠로 "wikilink")                                              | 4위     | 120 | 58 | 62 | 0   | .483 | 25   | .248 | 57  | 3.68  |
+| [1953년](https://ko.wikipedia.org/wiki/1953년 "wikilink") | 고니시 도쿠로                                                                                                  | 5위     | 130 | 52 | 77 | 1   | .403 | 37.5 | .246 | 63  | 4.10  |
+| [1954년](https://ko.wikipedia.org/wiki/1954년 "wikilink") | [나가사와 다케오](https://ko.wikipedia.org/wiki/나가사와_다케오 "wikilink")                                            | 6위     | 130 | 32 | 96 | 2   | .250 | 55   | .227 | 68  | 4.13  |
+| [1955년](https://ko.wikipedia.org/wiki/1955년 "wikilink") | [후지이 이사무](https://ko.wikipedia.org/wiki/후지이_이사무 "wikilink")                                              | 6위     | 130 | 31 | 99 | 0   | .238 | 61.5 | .209 | 51  | 3.69  |
+| [1956년](https://ko.wikipedia.org/wiki/1956년 "wikilink") | [사코하타 마사미](https://ko.wikipedia.org/wiki/사코하타_마사미 "wikilink")                                            | 6위     | 130 | 43 | 87 | 0   | .331 | 41   | .208 | 74  | 3.15  |
+| [1957년](https://ko.wikipedia.org/wiki/1957년 "wikilink") | 사코하타 마사미                                                                                                 | 6위     | 130 | 52 | 74 | 4   | .415 | 21.5 | .229 | 63  | 3.10  |
+| [1958년](https://ko.wikipedia.org/wiki/1958년 "wikilink") | 사코하타 마사미                                                                                                 | 6위     | 130 | 51 | 73 | 6   | .415 | 23.5 | .215 | 78  | 2.75  |
+| [1959년](https://ko.wikipedia.org/wiki/1959년 "wikilink") | [모리 시게오](../Page/모리_시게오.md "wikilink")                                                                   | 6위     | 130 | 49 | 77 | 4   | .392 | 28.5 | .214 | 73  | 3.47  |
+| [1960년](https://ko.wikipedia.org/wiki/1960년 "wikilink") | [미하라 오사무](../Page/미하라_오사무.md "wikilink")                                                                 | **1위** | 130 | 70 | 56 | 4   | .554 | \-   | .230 | 60  | 2.32  |
+| [1961년](https://ko.wikipedia.org/wiki/1961년 "wikilink") | 미하라 오사무                                                                                                  | 6위     | 130 | 50 | 75 | 5   | .404 | 21.5 | .236 | 76  | 3.10  |
+| [1962년](https://ko.wikipedia.org/wiki/1962년 "wikilink") | 미하라 오사무                                                                                                  | 2위     | 134 | 71 | 59 | 4   | .546 | 4    | .242 | 100 | 2.73  |
+| [1963년](https://ko.wikipedia.org/wiki/1963년 "wikilink") | 미하라 오사무                                                                                                  | 5위     | 140 | 59 | 79 | 2   | .428 | 24   | .237 | 110 | 3.29  |
+| [1964년](https://ko.wikipedia.org/wiki/1964년 "wikilink") | 미하라 오사무                                                                                                  | 2위     | 140 | 80 | 58 | 2   | .580 | 1    | .255 | 134 | 3.03  |
+| [1965년](https://ko.wikipedia.org/wiki/1965년 "wikilink") | 미하라 오사무                                                                                                  | 4위     | 140 | 68 | 70 | 2   | .493 | 23   | .244 | 136 | 2.81  |
+| [1966년](https://ko.wikipedia.org/wiki/1966년 "wikilink") | 미하라 오사무                                                                                                  | 5위     | 130 | 52 | 78 | 0   | .400 | 37   | .247 | 116 | 3.74  |
+| [1967년](https://ko.wikipedia.org/wiki/1967년 "wikilink") | 미하라 오사무                                                                                                  | 4위     | 135 | 59 | 71 | 5   | .454 | 25   | .245 | 130 | 3.28  |
+| [1968년](https://ko.wikipedia.org/wiki/1968년 "wikilink") | [벳토 가오루](https://ko.wikipedia.org/wiki/벳토_가오루 "wikilink")                                                | 5위     | 133 | 59 | 71 | 3   | .454 | 18   | .236 | 131 | 3.71  |
+| [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink") | 벳토 가오루                                                                                                   | 3위     | 130 | 61 | 61 | 8   | .500 | 11   | .239 | 125 | 3.19  |
+| [1970년](https://ko.wikipedia.org/wiki/1970년 "wikilink") | 벳토 가오루                                                                                                   | 3위     | 130 | 69 | 57 | 4   | .548 | 10   | .241 | 106 | 2.75  |
+| [1971년](https://ko.wikipedia.org/wiki/1971년 "wikilink") | 벳토 가오루                                                                                                   | 3위     | 130 | 61 | 59 | 10  | .508 | 8    | .216 | 82  | 2.31  |
+| [1972년](https://ko.wikipedia.org/wiki/1972년 "wikilink") | 벳토 가오루                                                                                                   | 5위     | 130 | 57 | 69 | 4   | .452 | 17   | .242 | 135 | 3.66  |
+| [1973년](https://ko.wikipedia.org/wiki/1973년 "wikilink") | [아오타 노보루](../Page/아오타_노보루.md "wikilink")                                                                 | 5위     | 130 | 60 | 64 | 6   | .484 | 5    | .243 | 125 | 3.30  |
+| [1974년](https://ko.wikipedia.org/wiki/1974년 "wikilink") | [미야자키 다케시](https://ko.wikipedia.org/wiki/미야자키_다케시 "wikilink")                                            | 5위     | 130 | 55 | 69 | 6   | .444 | 17.5 | .265 | 143 | 4.28  |
+| [1975년](https://ko.wikipedia.org/wiki/1975년 "wikilink") | [아키야마 노보루](https://ko.wikipedia.org/wiki/아키야마_노보루 "wikilink")                                            | 5위     | 130 | 51 | 69 | 10  | .425 | 21.5 | .249 | 137 | 3.93  |
+| [1976년](https://ko.wikipedia.org/wiki/1976년 "wikilink") | 아키야마 노보루                                                                                                 | 6위     | 130 | 45 | 78 | 7   | .366 | 32   | .256 | 172 | 4.45  |
+| [1977년](https://ko.wikipedia.org/wiki/1977년 "wikilink") | 벳토 가오루                                                                                                   | 6위     | 130 | 51 | 68 | 11  | .429 | 25.5 | .268 | 176 | 4.94  |
+| [1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink") | 벳토 가오루                                                                                                   | 4위     | 130 | 64 | 57 | 9   | .529 | 7.5  | .273 | 132 | 3.90  |
+| [1979년](https://ko.wikipedia.org/wiki/1979년 "wikilink") | 벳토 가오루                                                                                                   | 2위     | 130 | 59 | 54 | 17  | .522 | 6    | .266 | 135 | 4.05  |
+| [1980년](https://ko.wikipedia.org/wiki/1980년 "wikilink") | [도이 기요시](https://ko.wikipedia.org/wiki/도이_기요시 "wikilink")                                                | 4위     | 130 | 59 | 62 | 9   | .488 | 16   | .259 | 135 | 4.18  |
+| [1981년](https://ko.wikipedia.org/wiki/1981년 "wikilink") | 도이 기요시                                                                                                   | 6위     | 130 | 42 | 80 | 8   | .344 | 31.5 | .252 | 105 | 4.41  |
+| [1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink") | [세키네 준조](https://ko.wikipedia.org/wiki/세키네_준조 "wikilink")                                                | 5위     | 130 | 53 | 65 | 12  | .449 | 14.5 | .250 | 125 | 3.92  |
+| [1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink") | 세키네 준조                                                                                                   | 3위     | 130 | 61 | 61 | 8   | .500 | 11   | .272 | 137 | 4.52  |
+| [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") | 세키네 준조                                                                                                   | 6위     | 130 | 46 | 77 | 7   | .374 | 30.5 | .263 | 100 | 4.55  |
+| [1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink") | [곤도 사다오](https://ko.wikipedia.org/wiki/곤도_사다오 "wikilink")                                                | 4위     | 130 | 57 | 61 | 12  | .483 | 14.5 | .267 | 132 | 4.59  |
+| [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") | 곤도 사다오                                                                                                   | 4위     | 130 | 56 | 69 | 5   | .448 | 20   | .264 | 84  | 3.81  |
+| [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink") | [고바 다케시](https://ko.wikipedia.org/wiki/고바_다케시 "wikilink")                                                | 5위     | 130 | 56 | 68 | 6   | .452 | 22.5 | .259 | 113 | 4.26  |
+| [1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink") | 고바 다케시                                                                                                   | 4위     | 130 | 59 | 67 | 4   | .468 | 20.5 | .273 | 85  | 3.93  |
+| [1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink") | 고바 다케시                                                                                                   | 6위     | 130 | 47 | 80 | 3   | .370 | 36.5 | .260 | 76  | 4.07  |
+| [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink") | [스도 유타카](https://ko.wikipedia.org/wiki/스도_유타카 "wikilink")                                                | 3위     | 133 | 64 | 66 | 3   | .492 | 24   | .266 | 90  | 3.94  |
+| [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink") | 스도 유타카                                                                                                   | 5위     | 131 | 64 | 66 | 1   | .492 | 10   | .269 | 66  | 3.74  |
+| [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink") | 스도 유타카·[에지리 아키라](https://ko.wikipedia.org/wiki/에지리_아키라 "wikilink")                                       | 5위     | 131 | 61 | 69 | 1   | .469 | 8    | .249 | 97  | 3.75  |
+| [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") | [곤도 아키히토](https://ko.wikipedia.org/wiki/곤도_아키히토 "wikilink")                                              | 5위     | 130 | 57 | 73 | 0   | .438 | 23   | .249 | 87  | 3.83  |
+| [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") | 곤도 아키히토                                                                                                  | 6위     | 130 | 61 | 69 | 0   | .469 | 9    | .261 | 107 | 3.76  |
+| [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") | 곤도 아키히토                                                                                                  | 4위     | 130 | 66 | 64 | 0   | .508 | 16   | .261 | 114 | 4.37  |
+| [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") | [오야 아키히코](https://ko.wikipedia.org/wiki/오야_아키히코 "wikilink")                                              | 5위     | 130 | 55 | 75 | 0   | .423 | 22   | .270 | 85  | 4.67  |
+| [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") | 오야 아키히코                                                                                                  | 2위     | 135 | 72 | 63 | 0   | .533 | 11   | .273 | 105 | 3.70  |
+| [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") | [곤도 히로시](https://ko.wikipedia.org/wiki/곤도_히로시 "wikilink")                                                | **1위** | 136 | 79 | 56 | 1   | .585 | \-   | .277 | 100 | 3.49  |
+| [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") | 곤도 히로시                                                                                                   | 3위     | 135 | 71 | 64 | 0   | .526 | 10   | .294 | 140 | 4.44  |
+| [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") | 곤도 히로시                                                                                                   | 3위     | 136 | 69 | 66 | 1   | .511 | 9    | .277 | 103 | 3.92  |
+| [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") | [모리 마사아키](https://ko.wikipedia.org/wiki/모리_마사아키_\(야구인\) "wikilink")                                      | 3위     | 140 | 69 | 67 | 4   | .507 |      | .267 | 94  | 3.75  |
+| [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") | 모리 마사아키                                                                                                  | 6위     | 140 | 49 | 86 | 5   | .363 | 35.5 | .240 | 97  | 4.09  |
+| [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") | [야마시타 다이스케](https://ko.wikipedia.org/wiki/야마시타_다이스케 "wikilink")                                          | 6위     | 140 | 45 | 94 | 1   | .324 | 42.5 | .258 | 192 | 4.80  |
+| [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") | 야마시타 다이스케                                                                                                | 6위     | 138 | 59 | 76 | 3   | .437 | 20   | .279 | 194 | 4.47  |
+| [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") | [우시지마 가즈히코](https://ko.wikipedia.org/wiki/우시지마_가즈히코 "wikilink")                                          | 3위     | 146 | 69 | 70 | 7   | .496 | 17   | .265 | 143 | 3.68  |
+| [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") | 우시지마 가즈히코                                                                                                | 6위     | 146 | 58 | 84 | 4   | .408 | 29.5 | .257 | 127 | 4.25  |
+| [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") | 오야 아키히코                                                                                                  | 4위     | 144 | 71 | 72 | 1   | .497 | 9    | .265 | 124 | 4.01  |
+| [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") | 오야 아키히코                                                                                                  | 6위     | 144 | 48 | 94 | 2   | .338 | 36.5 | .266 | 145 | 4.74  |
+| [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") | 오야 아키히코                                                                                                  | 6위     | 144 | 51 | 93 | 0   | .354 | 42.5 | .239 | 128 | 4.36  |
+| [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") | [오바나 다카오](https://ko.wikipedia.org/wiki/오바나_다카오 "wikilink")                                              | 6위     | 144 | 48 | 95 | 1   | .336 | 32   | .255 | 117 | 4.88  |
+| [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") | 오바나 다카오                                                                                                  | 6위     | 144 | 47 | 86 | 11  | .353 | 27.5 | .239 | 78  | 3.87  |
+| [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") | [나카하타 기요시](https://ko.wikipedia.org/wiki/나카하타_기요시 "wikilink")                                            | 6위     | 144 | 46 | 85 | 13  | .351 | 41   | .233 | 66  | 3.76  |
+| [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") | 나카하타 기요시                                                                                                 | 5위     | 144 | 64 | 79 | 1   | .448 | 23   | .262 | 132 | 4.50  |
+| [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") | 나카하타 기요시                                                                                                 | 5위     | 144 | 67 | 75 | 2   | .472 | 14.5 | .253 | 121 | 3.76  |
+| [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") | 나카하타 기요시                                                                                                 | 6위     | 143 | 62 | 80 | 1   | .437 | 14.5 | .249 | 112 | 3.80  |
+| [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") | [알렉스 라미레스](https://ko.wikipedia.org/wiki/알렉스_라미레스 "wikilink")                                            | 3위     | 143 | 69 | 71 | 3   | .493 | 19.5 | .249 | 140 | 3.76  |
+| [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") | 알렉스 라미레스                                                                                                 | 3위     | 143 | 73 | 65 | 5   | .529 | 14.5 | .252 | 134 | 3.81  |
+| [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") | 알렉스 라미레스                                                                                                 | 4위     | 143 | 67 | 74 | 2   | .475 | 15   | .250 | 181 | 4.18  |
+| [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") | 알렉스 라미레스                                                                                                 | 2위     | 143 | 71 | 69 | 3   | .507 | 5.5  | .246 | 163 | 3.93  |
+
+  - 2019년 시즌 종료 기준, 순위에서 **굵은 글씨**는 일본 시리즈 우승.
+  - 통산 성적 : 4066승 293무 5035패(승률 .447)
+
+## 구단 기록
+
+### 경기·승패·승률에 관한 기록
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Yokohama_BayStars_Ranking.svg "wikilink")
+
+  - 리그 우승 : 2회
+
+<!-- end list -->
+
+  -
+    (1960년, 1998년)
+
+<!-- end list -->
+
+  - 일본 시리즈 우승 : 2회
+
+<!-- end list -->
+
+  -
+    (1960년, 1998년)
+
+<!-- end list -->
+
+  - 클라이맥스 시리즈 우승 : 1회
+
+<!-- end list -->
+
+  -
+    (2017년)
+
+<!-- end list -->
+
+  - A클래스 : 18회
+
+<!-- end list -->
+
+  -
+    (1960년, 1962년, 1964년, 1969년 \~ 1971년, 1979년, 1983년, 1990년, 1997년 \~ 2001년, 2005년, 2016년 \~ 2017년, 2019년)\[2\]
+
+<!-- end list -->
+
+  - B클래스 : 52회
+
+<!-- end list -->
+
+  -
+    (1950년 \~ 1959년, 1961년, 1963년, 1965년 \~ 1968년, 1972년 \~ 1978년, 1980년 \~ 1982년, 1984년 \~ 1989년, 1991년 \~ 1996년, 2002년 \~ 2004년, 2006년 \~ 2015년, 2018년)
+
+<!-- end list -->
+
+  - 최다 승리 : 80승(1964년)
+  - 최다 패전 : 99패(1955년)
+  - 최다 무승부 : 17무(1979년)
+  - 최고 승률 : .585(1998년)
+  - 최저 승률 : .238(1955년)
+  - 최다 연승 : 10연승(과거 5차례 기록이며 10연승을 기록한 것은 1999년)
+  - 최다 연패 : 14연패(1955년, 2008년)
+  - 최장 경기 시간 : 6시간 13분(1998년 8월 9일 대 히로시마 도요 카프)
+  - 연속 이닝 무득점 : 46득점(2012년)
+  - 연속 A클래스 진입 최장 기록 : 5년(1997년 \~ 2001년)
+  - 연속 B클래스 최장 기록 : 10년(1950년 \~ 1959년, 2006년 \~ 2015년)
+  - 통산 4500패(2012년 8월 24일의 요미우리전에서 양대 리그제 도입 후 가장 빠른 기록)
+
+### 그 외의 기록
+
+  - 최소 경기차 : 1.0경기차(1964년)
+  - 최대 경기차 : 61.5경기차(1955년)
+  - 최다 홈런 : 194개(2004년)
+  - 최소 홈런 : 51개(1955년)
+  - 최고 타율 : .294(1999년)
+  - 최저 타율 : .208(1956년)
+  - 최고 평균자책점 : 2.31(1971년)
+  - 최저 평균자책점 : 4.94(1977년)
+
+## 역대 홈구장
+
+  - [시모노세키 구장](https://ko.wikipedia.org/wiki/시모노세키_구장 "wikilink")(1950년 \~ 1952년)
+  - [오사카 구장](https://ko.wikipedia.org/wiki/오사카_구장 "wikilink")(1953년 \~ 1954년)
+  - [가와사키 구장](https://ko.wikipedia.org/wiki/가와사키_구장 "wikilink")(1955년 \~ 1977년)
+  - [요코하마 스타디움](https://ko.wikipedia.org/wiki/요코하마_스타디움 "wikilink")(1978년 \~ 현재)
+
+## 유명 선수
+
+  - [라이언 글린](https://ko.wikipedia.org/wiki/라이언_글린 "wikilink")
+
+  - [타이론 우즈](https://ko.wikipedia.org/wiki/타이론_우즈 "wikilink")
+
+  - [알렉스 라미레스](https://ko.wikipedia.org/wiki/알렉스_라미레스 "wikilink")
+
+  - [아롬 발디리스](https://ko.wikipedia.org/wiki/아롬_발디리스 "wikilink")
+
+  - [크리스 부첵](https://ko.wikipedia.org/wiki/크리스_부첵 "wikilink")
+
+  - [두에인 빌로우](https://ko.wikipedia.org/wiki/두에인_빌로우 "wikilink")
+
+## 각주
+
+<references/>
+
+## 같이 보기
+
+  - [도쿄 방송 홀딩스](https://ko.wikipedia.org/wiki/도쿄_방송_홀딩스 "wikilink") - 베이스타스의 과거 운영모체
+  - [DeNA](https://ko.wikipedia.org/wiki/DeNA "wikilink")
+  - [요코하마 DeNA 베이스타스 (2군)](https://ko.wikipedia.org/wiki/요코하마_DeNA_베이스타스_\(2군\) "wikilink")
+
+## 외부 링크
+
+  - [공식 웹사이트](http://www.baystars.co.jp/)
+
+[요코하마_DeNA_베이스타스](https://ko.wikipedia.org/wiki/분류:요코하마_DeNA_베이스타스 "wikilink") [분류:1950년 설립](https://ko.wikipedia.org/wiki/분류:1950년_설립 "wikilink") [분류:일본의 프로 야구 팀](https://ko.wikipedia.org/wiki/분류:일본의_프로_야구_팀 "wikilink") [분류:요코하마시의 스포츠](https://ko.wikipedia.org/wiki/분류:요코하마시의_스포츠 "wikilink") [분류:1950년 설립된 스포츠 클럽](https://ko.wikipedia.org/wiki/분류:1950년_설립된_스포츠_클럽 "wikilink")
+
+1.  [DeNA사, 요코하마 인수 최종 확정](http://sports.media.daum.net/worldbaseball/news/mlb/breaking/view.html?cateid=1071&newsid=20111202080707870&p=mk) - mk 스포츠
+2.  2001년 센트럴 리그의 순위는 승률 순이 아닌 승수 대로 되어있기 때문에 승률의 경우에는 B클래스(4위)가 되어 있었다.

@@ -1,0 +1,50 @@
+> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+
+
+**아포엘**(, )은 [키프로스](https://ko.wikipedia.org/wiki/키프로스 "wikilink") [니코시아](https://ko.wikipedia.org/wiki/니코시아 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 21번의 리그 우승과 19번의 컵 대회 우승, 12번의 슈퍼컵 우승 기록을 갖고 있으며 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink")와 [농구](https://ko.wikipedia.org/wiki/농구 "wikilink"), [배구](https://ko.wikipedia.org/wiki/배구 "wikilink"), [탁구](../Page/탁구.md "wikilink"), [사이클](https://ko.wikipedia.org/wiki/사이클 "wikilink") 팀도 운영하고 있다. 클럽 이름은 [그리스어](https://ko.wikipedia.org/wiki/그리스어 "wikilink")로 "니코시아 그리스인 스포츠 축구 클럽"을 뜻한다.
+
+[UEFA 챔피언스리그 2011-12에서](https://ko.wikipedia.org/wiki/UEFA_챔피언스리그_2011-12 "wikilink") 키프로스 클럽으로는 처음으로 [UEFA 챔피언스리그](../Page/UEFA_챔피언스리그.md "wikilink") 8강에 진출하는 돌풍을 일으켰다.
+
+## 역대 성적
+
+  - **[키프로스 1부 리그](../Page/키프로스_1부_리그.md "wikilink")**
+
+<!-- end list -->
+
+  -
+    **우승 (28) :** 1935–36, 1936–37, 1937–38, 1938–39, 1939–40, 1946–47, 1947–48, 1948–49, 1951–52, 1964–65, 1972–73, 1979–80, 1985–86, 1989–90, 1991–92, 1995–96, 2001–02, 2003–04, 2006–07, 2008–09, 2010–11, 2012–13, 2013–14, 2014–15, 2015–16, 2016–17, 2017–18, 2018-19
+
+<!-- end list -->
+
+  -
+    **준우승 (20) :** 1941, 1945, 1946, 1951, 1954, 1956, 1963, 1964, 1967, 1976, 1977, 1978, 1979, 1981, 1985, 1987, 1988, 2005, 2008, 2012
+
+<!-- end list -->
+
+  - **[키프로스컵](https://ko.wikipedia.org/wiki/키프로스컵_\(남자_축구\) "wikilink")**
+
+<!-- end list -->
+
+  -
+    **우승 (21) :** 1936–37, 1940–41, 1946–47, 1950–51, 1962–63, 1967–68, 1968–69, 1972–73, 1975–76, 1977–78, 1978–79, 1983–84, 1992–93, 1994–95, 1995–96, 1996–97, 1998–99, 2005–06, 2007–08, 2013–14, 2014–15
+    **준우승 (10) :** 1935, 1939, 1945, 1946, 1948, 1949, 1964, 1986, 2000, 2010
+
+<!-- end list -->
+
+  - **[키프로스 FA 실드](https://ko.wikipedia.org/wiki/키프로스_FA_실드 "wikilink")**
+
+<!-- end list -->
+
+  -
+    **우승 (12) :** 1963, 1984, 1986, 1992, 1993, 1996, 1999, 2002, 2004, 2008, 2009, 2011
+    **준우승 (10) :** 1951, 1952, 1968, 1979, 1980, 1990, 1995, 1997, 2006, 2007
+
+### 현재 선수 명단
+
+2017\~18 시즌
+
+## 외부 링크
+
+  - [APOEL FC 공식 웹사이트](http://www.apoelfc.com.cy)
+
+[분류:키프로스의 축구단](https://ko.wikipedia.org/wiki/분류:키프로스의_축구단 "wikilink") [\*](https://ko.wikipedia.org/wiki/분류:아포엘_FC "wikilink") [분류:강등된 적이 없는 축구단](https://ko.wikipedia.org/wiki/분류:강등된_적이_없는_축구단 "wikilink") [분류:1926년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1926년_설립된_축구단 "wikilink")

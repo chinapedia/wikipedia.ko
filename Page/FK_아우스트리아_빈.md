@@ -1,0 +1,82 @@
+> This article is converted from Wikipedia: [FK  ](https://ko.wikipedia.org/wiki/FK__).
+
+
+**FK 아우스트리아 빈**(FK Austria Wien)은 [오스트리아](https://ko.wikipedia.org/wiki/오스트리아 "wikilink")의 수도 [빈](https://ko.wikipedia.org/wiki/빈 "wikilink")을 연고로 하는 오스트리아 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 오스트리아 리그 1911–12 시즌에 참가한 이래로 총 24번으로, [오스트리아 분데스리가를](../Page/푸스발-분데스리가_\(오스트리아\).md "wikilink") 두번째로 많이 우승했다. 같은 도시를 연고로 하는 경쟁팀 [라피트 빈과](https://ko.wikipedia.org/wiki/SK_라피트_빈 "wikilink") 함께 오스트리아 1부 리그에서 단 한번도 강등되지 않은 유일한 팀이기도 하다. [오스트리아 컵](https://ko.wikipedia.org/wiki/오스트리아_컵 "wikilink") 27회, [오스트리아 슈퍼컵](https://ko.wikipedia.org/wiki/오스트리아_슈퍼컵 "wikilink") 6회 우승 기록을 가진 아우스트리아 빈은 앞에 언급한 대회들에서 가장 많은 우승을 했고, 오스트리아 클럽들 중 자국 리그 우승을 가장 많이 했다. [UEFA 컵위너스컵](../Page/UEFA_컵위너스컵.md "wikilink") [1977-78](https://ko.wikipedia.org/wiki/UEFA_컵위너스컵_1977-78 "wikilink") 시즌에는 결승전, 그 다음 시즌 [유러피언 컵](https://ko.wikipedia.org/wiki/유러피언_컵 "wikilink") 8강까지 올랐다. 홈구장은 [프란츠 호어 슈타디온이며](https://ko.wikipedia.org/wiki/프란츠_호어_슈타디온 "wikilink"), 2010년에 이탈리아 보험사와의 명칭 사용권 계약으로 [제네랄리](https://ko.wikipedia.org/wiki/제네랄리_그룹 "wikilink") 아레나라고도 알려져 있다.
+
+## 역사
+
+아우스트리아 빈은 [1911년](https://ko.wikipedia.org/wiki/1911년 "wikilink") [3월 12일에](https://ko.wikipedia.org/wiki/3월_12일 "wikilink") 비엔나 크리켓 & 축구 클럽(Vienna Cricket- and Football- Club)의 선수들과 임원들에 의해 **빈 아마추어 스포츠연합**(Wiener Amateur Sportvereinigung)으로 창단되었다. [1926년](https://ko.wikipedia.org/wiki/1926년 "wikilink")에 프로로 전향하면서 아마추어라는 이름을 아우스트리아로 바꾸었다.
+
+[나치 독일이](https://ko.wikipedia.org/wiki/나치_독일 "wikilink") 오스트리아를 지배하던 1938년부터 1945년까지 클럽의 유대인 임원이나 선수들은 떠나거나 나치 체제하에 죽임을 당했다. 이 기간에 아우스트리아 빈은 뚜렷한 성과를 거두지 못하였다. 하지만 나치의 스포츠 정책에 의해 팀 명칭을 바꾸려는 시도에도 불구하고 "아우스트리아"라는 이름을 지키는 성과를 이루었다.
+
+[제2차 세계 대전이](https://ko.wikipedia.org/wiki/제2차_세계_대전 "wikilink") 끝난 후 아우스트리아 빈은 1949, 1950, 1953, 1961, 1962, 1963, 1969년 시즌에서 우승을 거두는 성공적인 기간을 보냈다. 1960년대는 아우스트리아 빈의 황금기가 시작된 기간으로, 1960년부터 1993년까지 33회의 리그 가운데 16번의 우승을 차지하였다.
+
+1970년부터 1975년까지 어려운 시기를 보냈었다. 1974-75 시즌이 팀에게 좋지 않은 시즌으로 끝나게 되자 평균 23세 이하로 1975-76 시즌을 준비하였다. 1975-76 시즌부터 1979-80 시즌까지의 다섯 시즌 동안 평균 23세 이하로 시즌을 시작하였다. 1975-76 시즌부터 1985-86 시즌까지의 11번의 시즌 동안 8번의 우승을 차지하였다. 1976-77 시즌에 컵 대회 우승을 차지한 후 1977-78 시즌에 [UEFA 컵 위너스컵에](https://ko.wikipedia.org/wiki/UEFA_컵_위너스컵 "wikilink") 진출하여 [RSC 안데를레흐트와의](../Page/RSC_안데를레흐트.md "wikilink") 결승전에서 패하여 준우승을 차지하였다. 또한 1978-79 시즌의 [UEFA 챔피언스리그에서는](../Page/UEFA_챔피언스리그.md "wikilink") 4강에 오르는 성과를 이루기도 하였다. 1982-83 시즌엔 컵위너스컵에 진출하여 4강에 올랐다.
+
+이후 1990년대와 2000년대를 거치면서 5회의 우승을 더하였고, 7회의 컵대회 우승 기록을 추가하였다.
+
+## 유명 선수
+
+  - [밀렌코 아치모비치](https://ko.wikipedia.org/wiki/밀렌코_아치모비치 "wikilink")
+
+  - [쑨샹](../Page/쑨샹.md "wikilink")
+
+  - [이진현](../Page/이진현.md "wikilink")
+
+## 역대 성적
+
+#### 국내
+
+  - **[오스트리아 분데스리가](https://ko.wikipedia.org/wiki/오스트리아_분데스리가 "wikilink")**
+
+<!-- end list -->
+
+  -
+    **우승 (24회) :** 1924, 1926, 1949, 1950, 1953, 1961, 1962, 1963, 1969, 1970, 1976, 1978, 1979, 1980, 1981, 1984, 1985, 1986, 1991, 1992, 1993, 2003, 2006, 2013
+    **준우승 (19회) :** 1920, 1921, 1923, 1925, 1937, 1946, 1952, 1954, 1964, 1972, 1982, 1983, 1987, 1988, 1990, 1991, 1994, 2004, 2010
+
+<!-- end list -->
+
+  - **[오스트리아 컵](https://ko.wikipedia.org/wiki/오스트리아_컵 "wikilink")**
+
+<!-- end list -->
+
+  -
+    **우승 (27회) :** 1921, 1924, 1925, 1926, 1933, 1935, 1936, 1948, 1949, 1960, 1962, 1963, 1967, 1971, 1974, 1977, 1980, 1982, 1986, 1990, 1992, 1994, 2003, 2005, 2006, 2007, 2009
+    **준우승 (10회) :** 1920, 1922, 1927, 1930, 1931, 1947, 1964, 1984, 1985, 2004
+
+#### 유럽
+
+  - **[UEFA 챔피언스리그](../Page/UEFA_챔피언스리그.md "wikilink")**
+
+<!-- end list -->
+
+  -
+    **4강 (1회) :** 1978-79
+    **8강 (1회) :** 1984-85
+
+<!-- end list -->
+
+  - **[UEFA 컵 위너스컵](https://ko.wikipedia.org/wiki/UEFA_컵_위너스컵 "wikilink")**
+
+<!-- end list -->
+
+  -
+    **준우승 (1회) :** 1977-78
+    **4강 (1회) :** 1982-83
+    **8강 (1회) :** 1960-61
+
+<!-- end list -->
+
+  - **[UEFA컵](https://ko.wikipedia.org/wiki/UEFA컵 "wikilink")**
+
+<!-- end list -->
+
+  -
+    **8강 (2회) :** 1983-84, 2004-05
+
+## 외부 링크
+
+  - [공식 웹사이트](http://www.fk-austria.at)
+
+[분류:오스트리아의 축구단](https://ko.wikipedia.org/wiki/분류:오스트리아의_축구단 "wikilink") [\*](https://ko.wikipedia.org/wiki/분류:FK_아우스트리아_빈 "wikilink") [분류:1911년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1911년_설립된_축구단 "wikilink")

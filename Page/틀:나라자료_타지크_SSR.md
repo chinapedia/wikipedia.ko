@@ -1,0 +1,4 @@
+> This article is converted from Wikipedia: [:  SSR](https://ko.wikipedia.org/wiki/:__SSR).
+
+
+<onlyinclude>{{  | 나라이름 = 타지크 소비에트 사회주의 공화국 | 짧은이름 = 타지크 SSR | 틀이름 = 타지크 SSR | 국기그림 = Flag of Tajik SSR.svg | 국기그림-1919 = Flag_of_Turkestan_ASSR_(1919-1921).svg | 국기그림-1929 = Flag_of_the_Tajik_ASSR_(1929.02-1929.04).svg | 국기그림-1929b = Flag of the Tajik Soviet Socialist Republic (1929-1931).svg | 국기그림-1931 = Flag of Tajik SSR (1931-1935).svg | 국기그림-1935 = Flag of Tajik SSR (1935-1936).svg | 국기그림-1936 = Flag of Tajik SSR (1936-1938).svg | 국기그림-1938 = Flag of Tajik SSR (1938-1940).svg | 국기그림-1940 = Flag_of_Tajik_SSR_(1940-1953).svg | 국기그림-1991 = Flag_of_Tajikistan_(1991-1992).svg | 크기 =  | 이름 =  | 대체링크 =  | 변수 =  | 변수1 = 1919 | 변수2 = 1929 | 변수3 = 1929b | 변수4 = 1931 | 변수5 = 1935 | 변수6 = 1936 | 변수7 = 1938 | 변수8 = 1940 | 변수9 = 1991 | 넘겨주기1 = | 관련문서1 = 소비에트 연방 | 관련문서2 = 타지키스탄 }}</onlyinclude>

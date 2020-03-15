@@ -1,0 +1,98 @@
+> This article is converted from Wikipedia: [CD-ROM](https://ko.wikipedia.org/wiki/CD-ROM).
+
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:CD-ROM.png "wikilink") **CD-ROM**(, ) 또는 **시디롬**은 많은 양의 자료가 디지털 형태로 저장되는 [콤팩트 디스크이다](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink").
+
+컴퓨터에 소프트웨어를 보급할 때 널리 사용되는 저장장치이다.\[1\] 게임기에서도 많이 이용되고 있으나 게임기용 CD-ROM의 경우 기종별로 독자적인 규격을 사용하고 있는 경우도 있다.
+
+## 특징
+
+‘시디롬(CD-ROM)’이라는 명칭은 ‘저장된 내용만 읽는 콤팩트 디스크(Compact Disk-Read Only Memory)’라는 영어 표현이 줄어서 된 것이다. 여기서 ‘읽기전용기억장치’라는 의미를 지닌 롬(ROM)은 시디롬에 데이터가 영구히 들어 있다는 뜻이다. 따라서, 컴퓨터로 시디롬 안의 데이터를 지우거나 바꾸거나 새로운 내용을 더 삽입할 수는 없다.\[2\]
+
+시디롬은 오디오용 콤팩트 디스크와 크기도 같고 작동 방식도 같다. 시디롬의 한쪽 면은 평평한 면에 0과 1을 나타내는 미세한 구멍들이 있다. [레이저](https://ko.wikipedia.org/wiki/레이저 "wikilink") 장치로 레이저 광선을 쏘아 시디롬 디스크의 구멍들을 읽어서 [비트](https://ko.wikipedia.org/wiki/비트_\(단위\) "wikilink") 신호를 만든다. 표준 규격의 시디롬은 약 650메가바이트의 용량을 저장할 수 있는데, 이것은 대략 양면으로 타자한 문서 32만 5,000페이지에 이르는 분량이다. 이렇게 용량이 크기 때문에 시디롬은 동영상, 음향 등으로 용량이 큰 멀티미디어 프로그램들을 보급하는 주요 수단으로 쓰인다.\[3\]
+
+## 규격
+
+CD-ROM은 규격서 (옐로 북)에 의해 라이선스화되었다.
+
+CD-ROM은 원래 CD가 그렇듯이 프레스 비용이 비교적 싸며, 특히 제품 등을 대량으로 배포하기 위해 만든 읽기 전용 미디어이다. 규격발표 당시에는 용량이 540 MB(메가바이트)라 전해졌는데, 현재는 650\~700 MB정도까지가 주류를 차지하며 그보다 더욱 용량이 많은 것도 있다. CD-ROM의 포맷은 표준적인 [ISO 9660](https://ko.wikipedia.org/wiki/ISO_9660 "wikilink") 등이 있다.
+
+1990년대 중반에는 [하드 디스크보다](https://ko.wikipedia.org/wiki/하드_디스크 "wikilink") 많은 데이터를 저장할 수 있었다. 2016년 2월 기준으로 하드 디스크는 8.0 TB가 넘는 것도 시중에서 판매되고 있으나 출시 당시에는 300\~500 MB 정도였다.
+
+CD-ROM을 확장한 것으로는 [CD-ROM XA](https://ko.wikipedia.org/wiki/CD-ROM_XA "wikilink"), [CD-I](https://ko.wikipedia.org/wiki/CD-I "wikilink"), [GD-ROM](https://ko.wikipedia.org/wiki/GD-ROM "wikilink") 등이 있다.
+
+## 종류
+
+흔히 볼 수 있는 지름이 12 cm인 CD-ROM과 [미니 CD라](https://ko.wikipedia.org/wiki/미니_CD "wikilink") 불리는 지름 8 cm의 두 종류가 대표적으로 쓰인다.
+
+## 용량
+
+| 유형                                                                 | 섹터                                                         | 데이터 최대 크기 | | 오디오 최대 크기                                              | 시간        |
+| ------------------------------------------------------------------ | ---------------------------------------------------------- | --------- | -------------------------------------------------------- | --------- |
+| ([MB](https://ko.wikipedia.org/wiki/메가바이트 "wikilink"))             | 대략 ([MiB](https://ko.wikipedia.org/wiki/메비바이트 "wikilink")) | (MB)      | ([분](https://ko.wikipedia.org/wiki/분_\(시간\) "wikilink")) |           |
+| 8 cm                                                               | 94,500                                                     | 193.536   | 184.570                                                  | 222.264   |
+|                                                                    | 283,500                                                    | 580.608   | 553.711                                                  | 666.792   |
+| 650 MB                                                             | 333,000                                                    | 681.984   | 650.391                                                  | 783.216   |
+| 700 MB                                                             | 360,000                                                    | 737.280   | 703.125                                                  | 846.720   |
+| 800 MB                                                             | 405,000                                                    | 829.440   | 791.016                                                  | 952.560   |
+| 900 MB                                                             | 445,500                                                    | 912.384   | 870.117                                                  | 1,047.816 |
+| <small>참고: 메가바이트 (MB)와 분 단위 값은 절대적인 값이다. MiB의 값은 대략적인 값이다.</small> |                                                            |           |                                                          |           |
+
+CD의 용량 (90, 99분 디스크는 표준이 아님)
+
+## CD-ROM 드라이브
+
+### 레이저
+
+CD-ROM 드라이브는 780 나노미터 레이저 다이오드를 이용한다.
+
+### 전송 속도
+
+| 전송 속도 | | [KiB/s](https://ko.wikipedia.org/wiki/KiB/s "wikilink") | | [Mbit/s](https://ko.wikipedia.org/wiki/Mbit/s "wikilink") | | [MiB/s](https://ko.wikipedia.org/wiki/MiB/s "wikilink") | | [RPM](https://ko.wikipedia.org/wiki/RPM "wikilink") |
+| ----- | --------------------------------------------------------- | ----------------------------------------------------------- | --------------------------------------------------------- | ----------------------------------------------------- |
+| 1×    | 150                                                       | 1.2288                                                      | 0.146                                                     | 200–500                                               |
+| 2×    | 300                                                       | 2.4576                                                      | 0.293                                                     | 400-1,000                                             |
+| 4×    | 600                                                       | 4.9152                                                      | 0.586                                                     | 800–2,000                                             |
+| 8×    | 1,200                                                     | 9.8304                                                      | 1.17                                                      | 1,600–4,000                                           |
+| 10×   | 1,500                                                     | 12.288                                                      | 1.46                                                      | 2,000–5,000                                           |
+| 12×   | 1,800                                                     | 14.7456                                                     | 1.76                                                      | 2,400–6,000                                           |
+| 20×   | 1,200–3,000                                               | 최대 24.576                                                   | 최대 2.93                                                   | 4,000 (CAV)                                           |
+| 32×   | 1,920–4,800                                               | 최대 39.3216                                                  | 최대 4.69                                                   | 4,800 (CAV)                                           |
+| 36×   | 2,160–5,400                                               | 최대 44.2368                                                  | 최대 5.27                                                   | 7,200 (CAV)                                           |
+| 40×   | 2,400–6,000                                               | 최대 49.152                                                   | 최대 5.86                                                   | 8,000 (CAV)                                           |
+| 48×   | 2,880–7,200                                               | 최대 58.9824                                                  | 최대 7.03                                                   | 9,600 (CAV)                                           |
+| 52×   | 3,120–7,800                                               | 최대 63.8976                                                  | 최대 7.62                                                   | 10,400 (CAV)                                          |
+| 56×   | 3,360–8,400                                               | 최대 68.8128                                                  | 최대 8.20                                                   | 11,200 (CAV)                                          |
+| 72×   | 6,750–10,800                                              | 최대 88.4736                                                  | 최대 10.5                                                   | 2,000 (멀티빔)                                           |
+
+CD-ROM 드라이브의 일반적인 데이터 전송 속도
+
+## CD-ROM을 채용한 게임기
+
+  - [PC 엔진의](https://ko.wikipedia.org/wiki/PC_엔진 "wikilink") [CD-ROM²](https://ko.wikipedia.org/wiki/CD-ROM² "wikilink")
+  - [메가 드라이브의](https://ko.wikipedia.org/wiki/메가_드라이브 "wikilink") [메가 CD](https://ko.wikipedia.org/wiki/메가_CD "wikilink")
+  - [네오지오 CD](../Page/네오지오_CD.md "wikilink")
+  - [플레이디아](https://ko.wikipedia.org/wiki/플레이디아 "wikilink")
+  - [3DO](https://ko.wikipedia.org/wiki/3DO_인터렉티브_멀티플레이어 "wikilink")
+  - [PC-FX](https://ko.wikipedia.org/wiki/PC-FX "wikilink")
+  - [세가 새턴](https://ko.wikipedia.org/wiki/세가_새턴 "wikilink")
+  - [플레이스테이션](https://ko.wikipedia.org/wiki/플레이스테이션 "wikilink")
+  - [플레이스테이션 2](https://ko.wikipedia.org/wiki/플레이스테이션_2 "wikilink") ([DVD](https://ko.wikipedia.org/wiki/DVD "wikilink")를 지원하지만 CD를 통해서도 소프트웨어를 판매하였다)
+
+## 같이 보기
+
+  - [CD](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink")
+  - [CD-R](https://ko.wikipedia.org/wiki/CD-R "wikilink")
+  - [CD-RW](https://ko.wikipedia.org/wiki/CD-RW "wikilink")
+
+## 각주
+
+<references/>
+
+## 참고 자료
+
+[ROM](https://ko.wikipedia.org/wiki/분류:CD "wikilink") [분류:영상 저장 매체](https://ko.wikipedia.org/wiki/분류:영상_저장_매체 "wikilink") [분류:소리 저장 매체](https://ko.wikipedia.org/wiki/분류:소리_저장_매체 "wikilink")
+
+1.  CD-ROM, 《글로벌 세계 대백과》
+2.
+3.

@@ -1,0 +1,93 @@
+> This article is converted from Wikipedia: [STV ](https://ko.wikipedia.org/wiki/STV_).
+
+
+**STV라디오**는 [1962년](https://ko.wikipedia.org/wiki/1962년 "wikilink") [12월 15일](https://ko.wikipedia.org/wiki/12월_15일 "wikilink") [삿포로TV방송](https://ko.wikipedia.org/wiki/삿포로TV방송 "wikilink")의 중파라디오 방송국으로서 개국했다.
+
+[2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [10월 1일](https://ko.wikipedia.org/wiki/10월_1일 "wikilink") 삿포로 TV 방송에서 분사했다.
+
+## 개요
+
+  - 홋카이도의 유일한 AM라디오 단일 방송국이다.
+  - [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") [10월](https://ko.wikipedia.org/wiki/10월 "wikilink")부터 AM 스테레오 방송을 실시했었으나 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [3월 28일을](https://ko.wikipedia.org/wiki/3월_28일 "wikilink") 기해 종료했다.
+  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [10월 17일](https://ko.wikipedia.org/wiki/10월_17일 "wikilink") [홋카이도 방송와](../Page/홋카이도_방송.md "wikilink") 동시에 삿포로 방송국 FM 보완중계국을 개국했다.
+
+## 주파수
+
+### 삿포로 방송국, 도마코마이·무로란 방송국(JOWF)
+
+방송 에리어：[이시카리 지청전역](https://ko.wikipedia.org/wiki/이시카리_지청 "wikilink")·소라치 지청 중부와 남부·[시리베시 지청전역](https://ko.wikipedia.org/wiki/시리베시_지청 "wikilink")·[이부리 지청전역](https://ko.wikipedia.org/wiki/이부리_지청 "wikilink")·[히다카 지청전역](https://ko.wikipedia.org/wiki/히다카_지청 "wikilink")
+
+| 방송국·중계국       | 주파수     | 출력   | 비고                                                                        |
+| ------------- | ------- | ---- | ------------------------------------------------------------------------- |
+| 삿포로 방송국       | 1440kHz | 50kw | 도마코마이·무로란 방송국과 동일 주파수 방송을 실시하고 있다.                                        |
+| 삿포로 FM 보완 중계국 | 90.4MHz | 5kw  |                                                                           |
+| 무로란 방송국       | 1440kHz | 3kw  | 1995년 출력을 1kw에서 3kw로 증력.                                                  |
+| 도마코마이 방송국     | 1440kHz | 1kw  | [아오모리현](https://ko.wikipedia.org/wiki/아오모리현 "wikilink") 일부 지방에서는 낮에도 수신가능 |
+
+### 아사히카와 방송국(JOWL)
+
+방송 에리어：[소라치 지청북부](https://ko.wikipedia.org/wiki/소라치_지청 "wikilink")·[가미카와 지청전역](https://ko.wikipedia.org/wiki/가미카와_지청 "wikilink")·[루모이 지청전역](https://ko.wikipedia.org/wiki/루모이_지청 "wikilink")·[소야 지청전역](https://ko.wikipedia.org/wiki/소야_지청 "wikilink")
+
+| 방송국·중계국                                                     | 주파수     | 출력   | 비고                        |
+| ----------------------------------------------------------- | ------- | ---- | ------------------------- |
+| 아사히카와 방송국                                                   | 1197kHz | 3kW  | 1995년 1kW에서 3kW로 출력을 높였다. |
+| [나요로](https://ko.wikipedia.org/wiki/나요로_시 "wikilink") 중계국   | 1197kHz | 1kW  |                           |
+| [루모이](https://ko.wikipedia.org/wiki/루모이_시 "wikilink") 중계국   | 1197kHz | 100W |                           |
+| 엔베쯔 중계국                                                     | 1197kHz | 1kW  |                           |
+| [왓카나이](https://ko.wikipedia.org/wiki/왓카나이_시 "wikilink") 중계국 | 1197kHz | 1kW  |                           |
+
+### 하코다테 방송국(JOWN)
+
+방송 에리어：[오시마 지청전역](../Page/오시마_지청_\(홋카이도\).md "wikilink")·[히야마 지청전역](https://ko.wikipedia.org/wiki/히야마_지청 "wikilink")
+
+  -
+    주파수는 개국 당초에 1557 kHz(1978년 11월 22일까지는 1550 kHz)였고, 그 후 1197kHz로 변경했다가 1995년 현재의 639kHz로 변경했다.
+
+| 방송국·중계국                                                     | 주파수    | 출력   | 비고                        |
+| ----------------------------------------------------------- | ------ | ---- | ------------------------- |
+| [하코다테](https://ko.wikipedia.org/wiki/하코다테_시 "wikilink") 방송국 | 639kHz | 5kW  | 1995년 출력을 1Kw에서 3Kw로 높였다. |
+| 에사시 중계국                                                     | 882kHz | 1kw  |                           |
+| 기야히 중계국                                                     | 882kHz | 100w |                           |
+
+### 오비히로 방송국(JOWM)
+
+방송 에리어：[도카치 지청전역](../Page/도카치_지청.md "wikilink")
+
+  -
+    개국 당초 주파수는 1485kHz로, 그 후 1530kHz로 변경했다가, 1995년에 현재의 1071kHz로 변경.
+
+| 방송국·중계국                                                     | 주파수     | 출력  | 비고                        |
+| ----------------------------------------------------------- | ------- | --- | ------------------------- |
+| [오비히로](https://ko.wikipedia.org/wiki/오비히로_시 "wikilink") 방송국 | 1071kHz | 5kW | 1995년 출력을 1Kw에서 5Kw로 높였다. |
+
+### 기타미 방송국(JOVX)
+
+방송 에리어：[아바시리 지청전역](https://ko.wikipedia.org/wiki/아바시리_지청 "wikilink")
+
+  -
+    개국당시 주파수는 1062kHz였고, 그 후 936kHz로 변경했다가 1995년에 현재의 909 kHz로 변경.
+    라디오·텔레비전 분사화에 의해 일본 중파라디오방송국에서는 유일하게 콜사인 끝에*' 「X」*'가 붙는 방송국이 되었다.
+
+| 방송국·중계국                                                     | 주파수     | 출력   | 비고                        |
+| ----------------------------------------------------------- | ------- | ---- | ------------------------- |
+| [아바시리](https://ko.wikipedia.org/wiki/아바시리_시 "wikilink") 방송국 | 909kHz  | 5kW  | 1995년 출력을 1Kw에서 5Kw로 높였다. |
+| 기타미 방송국                                                     | 1485kHz | 100W | JOYS라는 콜사인이 있다.           |
+| 엔가루 중계국                                                     | 909kHz  | 100w |                           |
+
+### 구시로 방송국(JOWS)
+
+방송 에리어：[구시로 지청전역](https://ko.wikipedia.org/wiki/구시로_지청 "wikilink")·[네무로 지청전역](https://ko.wikipedia.org/wiki/네무로_지청 "wikilink")
+
+  -
+    개국 당시 주파수는 1440kHz였으며 그 후 918kHz로 변경했다가 1995년에 현재의 882 kHz로 변경.
+
+| 방송국·중계국                                                   | 주파수     | 출력   | 비고                        |
+| --------------------------------------------------------- | ------- | ---- | ------------------------- |
+| [구시로](https://ko.wikipedia.org/wiki/구시로_시 "wikilink") 방송국 | 882kHz  | 3kw  | 1995년 출력을 1Kw에서 3Kw로 높였다. |
+| [네무로](https://ko.wikipedia.org/wiki/네무로_시 "wikilink") 방송국 | 1062kHz | 100W | JOXS라는 콜사인이 있다.           |
+
+## 외부 링크
+
+  - [공식 사이트](http://www.stv.ne.jp/radio/)
+
+[분류:1962년 설립](https://ko.wikipedia.org/wiki/분류:1962년_설립 "wikilink") [분류:NRN](https://ko.wikipedia.org/wiki/분류:NRN "wikilink") [분류:일본의 AM 라디오 방송국](https://ko.wikipedia.org/wiki/분류:일본의_AM_라디오_방송국 "wikilink")

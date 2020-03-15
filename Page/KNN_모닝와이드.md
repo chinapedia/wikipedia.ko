@@ -1,0 +1,63 @@
+> This article is converted from Wikipedia: [KNN ](https://ko.wikipedia.org/wiki/KNN_).
+
+
+**KNN 모닝와이드**는 [KNN](../Page/KNN.md "wikilink") 부산경남방송의 대표적인 아침 뉴스 프로그램으로, 1998년 3월 5일부터 방송을 개시하여 현재까지 방송 중인 프로그램이다.
+
+다른 KNN 뉴스 프로그램과 함께 2009년 4월 13일부터 [HD급](https://ko.wikipedia.org/wiki/고선명_텔레비전 "wikilink") 화질의 영상으로 방송하기 시작하였다.
+
+## 방송 시작
+
+  - 교양 중심과 뉴스/교양 프로그램이었던 **PSB 모닝와이드**의 후속 프로그램으로 2002년 11월 4일부터 보도 기능을 강화한 **PSB 뉴스와이드**로 방송을 개시하였고, 이후 2006년 5월 14일 KNN 부산경남방송으로 방송사명을 변경한 첫날부터는 **PSB 뉴스와이드**에서 **KNN 뉴스와이드**로 타이틀을 변경하였으며, 2009년 1월 5일부터는 **KNN 모닝와이드**로 타이틀을 변경하여 방송하고 있다. 한편 이전 프로그램인 PSB 모닝와이드는 2000년 5월 1일부터 2002년 11월 2일까지 방송했었다.
+
+## KNN 모닝와이드의 편성
+
+  - KNN 모닝와이드는 현재 전국의 지역 민방 가운데 방송 분량이 압도적으로 많은 아침 뉴스 프로그램으로, 타 지역민영방송사가 아침뉴스로 [모닝와이드](../Page/모닝와이드.md "wikilink")의 2부 방송 진행 도중 중간에 10분\~30분정도를 따로 할애하여 편성하는 것과는 달리, 'KNN 모닝와이드'는 [SBS](../Page/SBS.md "wikilink") [모닝와이드](../Page/모닝와이드.md "wikilink") 3부 방송 시간대를 통째로 할애하여 1시간(평일기준)으로 편성하고 있다. 사실 이러한 편성은 **PSB 모닝와이드**시절때부터 이어져 왔다.
+  - 한편, KNN 모닝와이드가 1시간 분량의 대형 뉴스프로그램으로 편성된데에 대한 배경으로는 이전의 PSB 모닝와이드의 편성분량에도 영향이 있지만, 무엇보다도 KNN 모닝와이드가 단순한 부산/경남권 지역뉴스가 아닌, 부산과 경남을 중심으로하는 '전국뉴스'라는 점이 부각 된 것으로 보인다. 실제로 KNN 모닝와이드는 KNN 서울지국을 통해 정가소식을 중심으로 한 전국뉴스를 공급받아 전하고 있다.
+  - KNN 모닝와이드는 프로그램 최초반, 중반, 최후반에 날씨예보와 주요기사 브리핑을 배치하였다. 프로그램 중반(8시 경)에는 KNN 창원방송센터를 연결해 약 10분간 경남지역소식을 전하고 있다. 또한 '클릭 세상이야기'를 통해 주로 당일 발행한 신문의 주요기사를 알아보는 조간 브리핑 코너와 각종 동영상이 곁들여 있는 인터넷 뉴스 기사 및 화제의 기사를 방송한다. 프로그램 말미(8시 15분경)에는 [APTN](https://ko.wikipedia.org/wiki/APTN "wikilink")으로부터 뉴스를 공급받아 미국, 영국, 일본 등의 외국발 소식을 다루는 월드뉴스와 부산경남의 전시, 공연, 연극, 영화 등 문화예술계 소식을 전달하는 '[핫이슈 클릭](https://ko.wikipedia.org/wiki/핫이슈_클릭 "wikilink")'과 부산경남의 주요인사나 부산경남에 연고를 둔 타지역 인사를 초빙하여 알아보는 '[인물포커스](https://ko.wikipedia.org/wiki/인물포커스 "wikilink")', 의사들과 만나 건강정보를 제공하는 '[건강365](https://ko.wikipedia.org/wiki/건강365 "wikilink")', 부산경남의 문화, 전시 등 다양한 행사를 알려주는 코너인 '알림마당'을 편성하였다.
+
+## 방송시간
+
+  - 평일의 경우 SBS의 아침뉴스 및 교양 프로그램인 [모닝와이드](../Page/모닝와이드.md "wikilink")의 3부 시간대를 통째로 할애하여 편성하고 있다.
+  - 월요일 - 아침 7시 35분 \~ 8시 25분
+  - 화\~금 - 아침 7시 35분 \~ 8시 35분
+
+## 진행자
+
+  - 현재 진행 중인 체제는 2019년 12월 2일부터 적용됐으며, [황범](https://ko.wikipedia.org/wiki/황범 "wikilink") 아나운서와 박수진 아나운서가 진행을 하고 있다.
+
+### 전체 진행자
+
+  - [황범](https://ko.wikipedia.org/wiki/황범 "wikilink") 아나운서
+  - 박수진 아나운서
+
+### 각 코너 별 진행
+
+  - 핫이슈 클릭 - [이재원](https://ko.wikipedia.org/wiki/이재원 "wikilink") 기상캐스터
+  - 와이드 스포츠
+  - 월드뉴스
+  - 인물포커스 - [전성호](https://ko.wikipedia.org/wiki/전성호 "wikilink") KNN 편집부장, [구형모](https://ko.wikipedia.org/wiki/구형모 "wikilink") KNN 경남 보도국장, [송원재](../Page/송원재.md "wikilink") KNN 서울본부 취재부장
+  - 건강365 - [이해리](https://ko.wikipedia.org/wiki/이해리 "wikilink") 아나운서
+
+## 같이 보기
+
+  - [모닝와이드](../Page/모닝와이드.md "wikilink")
+
+## 그 외 KNN의 뉴스 프로그램
+
+  - [KNN 뉴스와 생활경제](https://ko.wikipedia.org/wiki/KNN_뉴스와_생활경제 "wikilink")
+  - [KNN 뉴스와 건강](https://ko.wikipedia.org/wiki/KNN_뉴스와_건강 "wikilink")
+  - [KNN 뉴스아이](https://ko.wikipedia.org/wiki/KNN_뉴스아이 "wikilink")
+
+## 경쟁 프로그램
+
+  - [KBS 뉴스광장](https://ko.wikipedia.org/wiki/KBS_뉴스광장 "wikilink") 부산 ([KBS부산](../Page/KBS부산방송총국.md "wikilink"))
+  - [KBS 뉴스광장](https://ko.wikipedia.org/wiki/KBS_뉴스광장 "wikilink") 경남 ([KBS창원](../Page/KBS창원방송총국.md "wikilink")·[KBS진주](../Page/KBS진주방송국.md "wikilink"))
+  - [MBC 뉴스투데이](../Page/MBC_뉴스투데이.md "wikilink") 부산(부산MBC 뉴스투데이) ([부산문화방송](../Page/부산문화방송.md "wikilink"))
+  - [MBC 뉴스투데이](../Page/MBC_뉴스투데이.md "wikilink") 경남(MBC경남 뉴스투데이) ([MBC경남](https://ko.wikipedia.org/wiki/MBC경남 "wikilink"))
+
+## 외부 링크
+
+  - [KNN 공식 홈페이지](http://www.knn.co.kr)
+  - [KNN 모닝와이드 공식페이지](http://www.knn.co.kr/category/news/morningwide)
+
+[분류:KNN의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:KNN의_뉴스_텔레비전_프로그램 "wikilink") [분류:아침 정보 프로그램](https://ko.wikipedia.org/wiki/분류:아침_정보_프로그램 "wikilink")
