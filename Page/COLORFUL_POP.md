@@ -12,7 +12,7 @@
         작사: Maria Okada, MNDR / 작곡: [타카하시 유키히로](../Page/다카하시_유키히로.md "wikilink") / 편곡: CLARABELL
     <!-- end list -->
       - [YMO의](https://ko.wikipedia.org/wiki/옐로_매직_오케스트라 "wikilink") 커버(실제로는 샘플링) 악곡
-      - 보컬은 [Dream의](https://ko.wikipedia.org/wiki/Dream_\(음악_그룹\) "wikilink") [Shizuka와](https://ko.wikipedia.org/wiki/니시다_시즈카 "wikilink") [Erie](https://ko.wikipedia.org/wiki/아베_에리에 "wikilink"), [Happiness의](../Page/Happiness_\(음악_그룹\).md "wikilink") [후지이 카렌](../Page/후지이_카렌.md "wikilink"), [Flower의](../Page/Flower_\(음악_그룹\).md "wikilink") [와시오 레이나](https://ko.wikipedia.org/wiki/와시오_레이나 "wikilink").
+      - 보컬은 [Dream의](https://ko.wikipedia.org/wiki/Dream_\(음악_그룹\) "wikilink") [Shizuka와](https://ko.wikipedia.org/wiki/니시다_시즈카 "wikilink") [Erie](https://ko.wikipedia.org/wiki/아베_에리에 "wikilink"), [Happiness의](../Page/Happiness_\(음악_그룹\).md "wikilink") [후지이 카렌](../Page/후지이_카렌.md "wikilink"), [Flower의](../Page/Flower_\(음악_그룹\).md "wikilink") [와시오 레이나](../Page/와시오_레이나.md "wikilink").
 2.  **Kissing You** / <small>**미안해요의 Kissing You**</small>
       -
         작사: Yu Shimoji / 작곡·편곡: CLARABELL(RzC)

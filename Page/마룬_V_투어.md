@@ -116,7 +116,7 @@
 <tr class="even">
 <td><p>2015년 2월 28일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/인디애나폴리스" title="wikilink">인디애나폴리스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뱅커스_라이프_필드하우스" title="wikilink">뱅커스 라이프 필드하우스</a></p></td>
+<td><p><a href="../Page/뱅커스_라이프_필드하우스.md" title="wikilink">뱅커스 라이프 필드하우스</a></p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td></td>
@@ -134,7 +134,7 @@
 <tr class="even">
 <td><p>2015년 3월 3일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/보스턴" title="wikilink">보스턴</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/TD_가든" title="wikilink">TD 가든</a></p></td>
+<td><p><a href="../Page/TD_가든.md" title="wikilink">TD 가든</a></p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td></td>
@@ -179,7 +179,7 @@
 <tr class="odd">
 <td><p>2015년 3월 11일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/콜럼버스_(오하이오주)" title="wikilink">콜럼버스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/네이션와이드_아레나" title="wikilink">네이션와이드 아레나</a></p></td>
+<td><p><a href="../Page/네이션와이드_아레나.md" title="wikilink">네이션와이드 아레나</a></p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td></td>
@@ -225,7 +225,7 @@
 <tr class="even">
 <td><p>2015년 3월 19일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/시카고" title="wikilink">시카고</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유나이티드_센터" title="wikilink">유나이티드 센터</a></p></td>
+<td><p><a href="../Page/유나이티드_센터.md" title="wikilink">유나이티드 센터</a></p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td></td>
@@ -243,7 +243,7 @@
 <tr class="even">
 <td><p>2015년 3월 23일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/세인트폴_(미네소타주)" title="wikilink">세인트폴</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/엑셀_에너지_센터" title="wikilink">엑셀 에너지 센터</a></p></td>
+<td><p><a href="../Page/엑셀_에너지_센터.md" title="wikilink">엑셀 에너지 센터</a></p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td></td>
@@ -324,7 +324,7 @@
 <tr class="odd">
 <td><p>2015년 4월 6일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/애너하임" title="wikilink">애너하임</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/혼다_센터" title="wikilink">혼다 센터</a></p></td>
+<td><p><a href="../Page/혼다_센터.md" title="wikilink">혼다 센터</a></p></td>
 <td><p>14,924 / 14,924</p></td>
 <td><p>$1,082,918</p></td>
 <td></td>
@@ -651,7 +651,7 @@
 <tr class="odd">
 <td><p>2015년 10월 3일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/오클랜드" title="wikilink">오클랜드</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/벡터_아레나" title="wikilink">벡터 아레나</a></p></td>
+<td><p><a href="../Page/벡터_아레나.md" title="wikilink">벡터 아레나</a></p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td></td>

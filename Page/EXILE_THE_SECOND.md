@@ -35,23 +35,23 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/쿠로키_케이지" title="wikilink">쿠로키 케이지</a></strong></p></td>
+<td><p><strong><a href="../Page/쿠로키_케이지.md" title="wikilink">쿠로키 케이지</a></strong></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/TETSUYA" title="wikilink">EXILE TETSUYA</a></strong></p></td>
+<td><p><strong><a href="../Page/TETSUYA.md" title="wikilink">EXILE TETSUYA</a></strong></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/NESMITH" title="wikilink">EXILE NESMITH</a></strong></p></td>
+<td><p><strong><a href="../Page/NESMITH.md" title="wikilink">EXILE NESMITH</a></strong></p></td>
 <td><p>보컬<br />
 퍼포머</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/SHOKICHI" title="wikilink">EXILE SHOKICHI</a></strong></p></td>
+<td><p><strong><a href="../Page/SHOKICHI.md" title="wikilink">EXILE SHOKICHI</a></strong></p></td>
 <td></td>
 <td></td>
 </tr>

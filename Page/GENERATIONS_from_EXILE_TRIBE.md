@@ -5,7 +5,7 @@
 
 ## 내력
 
-[2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") 4월, [HIRO](https://ko.wikipedia.org/wiki/HIRO "wikilink") 프로듀스로, EXPG 내에서 오디션이 열려, 코모리 하야토·사노 레오·[세키구치 멘디가](https://ko.wikipedia.org/wiki/세키구치_멘디 "wikilink") 선출된다\[1\]. 이 3명에 극단 EXILE에서 [시라하마 아란](../Page/시라하마_아란.md "wikilink")·마치다 케이타, 《VOCAL BATTLE AUDITION 2》의 파이널리스트에서 [카타요세 료타](https://ko.wikipedia.org/wiki/카타요세_료타 "wikilink")·[카즈하라 류토를](https://ko.wikipedia.org/wiki/카즈하라_류토 "wikilink") 더한 7명이 후보 멤버로서, [7월 19일에](https://ko.wikipedia.org/wiki/7월_19일 "wikilink") 발표되었다. [23일부터](https://ko.wikipedia.org/wiki/7월_23일 "wikilink") 활동해, 마이크로버스 1대로 일본 전국을 이동하는 〈무사수행〉 등을 실시했다. 연말부터는 서포트 멤버가 퍼포먼스에 참가했다.
+[2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") 4월, [HIRO](https://ko.wikipedia.org/wiki/HIRO "wikilink") 프로듀스로, EXPG 내에서 오디션이 열려, 코모리 하야토·사노 레오·[세키구치 멘디가](../Page/세키구치_멘디.md "wikilink") 선출된다\[1\]. 이 3명에 극단 EXILE에서 [시라하마 아란](../Page/시라하마_아란.md "wikilink")·마치다 케이타, 《VOCAL BATTLE AUDITION 2》의 파이널리스트에서 [카타요세 료타](../Page/카타요세_료타.md "wikilink")·[카즈하라 류토를](https://ko.wikipedia.org/wiki/카즈하라_류토 "wikilink") 더한 7명이 후보 멤버로서, [7월 19일에](https://ko.wikipedia.org/wiki/7월_19일 "wikilink") 발표되었다. [23일부터](https://ko.wikipedia.org/wiki/7월_23일 "wikilink") 활동해, 마이크로버스 1대로 일본 전국을 이동하는 〈무사수행〉 등을 실시했다. 연말부터는 서포트 멤버가 퍼포먼스에 참가했다.
 
 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 2월, 마치다가 배우의 길로 나아가기 위해 후보 멤버에서 빠져, 극단 EXILE에 재가입한다\[2\]. [4월 17일](https://ko.wikipedia.org/wiki/4월_17일 "wikilink"), 6명의 후보 멤버가 정식 멤버가 되는 것이 발표되었다. 메이저 데뷔를 목표로 해, LDH 소속 아티스트의 라이브 투어에 참가하거나 〈무사수행 \~제2장\~〉을 실시했다\[3\]. [9월 11일](https://ko.wikipedia.org/wiki/9월_11일 "wikilink"), 서포트 멤버 나카츠카 유타가 정식 멤버로서 가입하는 것이 발표되었다. [11월 21일](https://ko.wikipedia.org/wiki/11월_21일 "wikilink"), 시라하마가 주연을 맡는 [닛폰 TV](https://ko.wikipedia.org/wiki/닛폰_TV_방송망 "wikilink") 계열 드라마 《슈가리스》의 주제가로 기용된 〈BRAVE IT OUT〉으로 메이저 데뷔를 한다\[4\].
 
@@ -40,7 +40,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/카타요세_료타" title="wikilink">카타요세 료타</a></strong></p></td>
+<td><p><strong><a href="../Page/카타요세_료타.md" title="wikilink">카타요세 료타</a></strong></p></td>
 <td><p>보컬<br />
 퍼포머</p></td>
 <td></td>
@@ -61,7 +61,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/세키구치_멘디" title="wikilink">세키구치 멘디</a></strong></p></td>
+<td><p><strong><a href="../Page/세키구치_멘디.md" title="wikilink">세키구치 멘디</a></strong></p></td>
 <td></td>
 <td></td>
 </tr>

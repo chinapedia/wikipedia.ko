@@ -23,7 +23,7 @@
       -
         작사: Jam9 / 작곡: Jam9, ArmySlick
     <!-- end list -->
-      - 보컬은 [Dream의](https://ko.wikipedia.org/wiki/Dream_\(음악_그룹\) "wikilink") [Erie](https://ko.wikipedia.org/wiki/아베_에리에 "wikilink"), [Flower의](../Page/Flower_\(음악_그룹\).md "wikilink") [와시오 레이나](https://ko.wikipedia.org/wiki/와시오_레이나 "wikilink"), 카와모토 루리
+      - 보컬은 [Dream의](https://ko.wikipedia.org/wiki/Dream_\(음악_그룹\) "wikilink") [Erie](https://ko.wikipedia.org/wiki/아베_에리에 "wikilink"), [Flower의](../Page/Flower_\(음악_그룹\).md "wikilink") [와시오 레이나](../Page/와시오_레이나.md "wikilink"), 카와모토 루리
 4.  **One Two Three**
       -
         작사: Yosuke Nimbari, 후지바야시 쇼코 / 작곡: ArmySlick, Yosuke Nimbari

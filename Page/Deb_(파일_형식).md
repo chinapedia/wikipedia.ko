@@ -9,7 +9,7 @@
 
 데비안 패키지는 두 개의 [Tar](https://ko.wikipedia.org/wiki/Tar_\(파일_포맷\) "wikilink") 보존, 혹은 선택적으로 [Gzip](https://ko.wikipedia.org/wiki/Gzip "wikilink") (zlib), [Bzip2](https://ko.wikipedia.org/wiki/Bzip2 "wikilink"), [Izma](https://ko.wikipedia.org/wiki/Izma "wikilink"), [xz](https://ko.wikipedia.org/wiki/xz "wikilink") (Izma2) 를 사용하는 표준 [유닉스](https://ko.wikipedia.org/wiki/유닉스 "wikilink") ar 보존을 사용하는데, 이 형식들은 통제 정보와 프로그램 데이터에 관한 내용을 포함한다.
 
-허용되는 프로그램은 [Dpkg](../Page/Dpkg.md "wikilink")인데, 대부분 [APT](https://ko.wikipedia.org/wiki/어드밴스트_패키징_툴 "wikilink") 혹은 [앱티튜드](https://ko.wikipedia.org/wiki/앱티튜드 "wikilink"), 우분투 소프트웨어 센터, 시냅틱, 혹은 GDebi를 사용한다.
+허용되는 프로그램은 [Dpkg](../Page/Dpkg.md "wikilink")인데, 대부분 [APT](https://ko.wikipedia.org/wiki/어드밴스트_패키징_툴 "wikilink") 혹은 [앱티튜드](../Page/앱티튜드.md "wikilink"), 우분투 소프트웨어 센터, 시냅틱, 혹은 GDebi를 사용한다.
 
 데비안 패키지는 에일리언 소프트웨어를 이용해 다른 패키지 형식으로 전환될 수 있으며, [체크인스톨](https://ko.wikipedia.org/wiki/체크인스톨 "wikilink")과 데비안 패키지 매니저를 이용해 소스 코드로부터 생성할 수 있다.
 

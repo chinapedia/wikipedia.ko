@@ -3,7 +3,7 @@
 
 **NTV**()는 [러시아](https://ko.wikipedia.org/wiki/러시아 "wikilink")의 [텔레비전 방송국이며](https://ko.wikipedia.org/wiki/텔레비전_방송국 "wikilink"), [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") [10월 10일에](https://ko.wikipedia.org/wiki/10월_10일 "wikilink") 모스트 그룹(Группа Мост)의 블라디미르 구신스키(Владимир Гусинский)에 의해 설립되었다. 개국 당시에는 [상트페테르부르크](https://ko.wikipedia.org/wiki/상트페테르부르크 "wikilink")가 본사였으나 현재 본사는 [모스크바](https://ko.wikipedia.org/wiki/모스크바 "wikilink")에 있다.
 
-대표 프로그램으로 종합/일반 뉴스 프로그램인 '[세고드냐](https://ko.wikipedia.org/wiki/세고드냐_\(텔레비전_프로그램\) "wikilink")([Сегодня](https://ko.wikipedia.org/wiki/:ru:Сегодня_\(телепрограмма\) "wikilink"))'와 주간 뉴스 해설 프로그램인 '[이토기](https://ko.wikipedia.org/wiki/이토기 "wikilink")([Итоги](https://ko.wikipedia.org/wiki/:ru:Итоги_\(программа\) "wikilink"))'가 있다.\[1\]
+대표 프로그램으로 종합/일반 뉴스 프로그램인 '[세고드냐](../Page/세고드냐_\(텔레비전_프로그램\).md "wikilink")([Сегодня](https://ko.wikipedia.org/wiki/:ru:Сегодня_\(телепрограмма\) "wikilink"))'와 주간 뉴스 해설 프로그램인 '[이토기](https://ko.wikipedia.org/wiki/이토기 "wikilink")([Итоги](https://ko.wikipedia.org/wiki/:ru:Итоги_\(программа\) "wikilink"))'가 있다.\[1\]
 
 ## 역사
 

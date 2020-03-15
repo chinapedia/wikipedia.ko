@@ -15,7 +15,7 @@
 
 ## 대외 활동
 
-2011년 《[G맨 게임종결자](https://ko.wikipedia.org/wiki/G맨_게임종결자 "wikilink")》, 2014년 《[대배틀 The Contender](https://ko.wikipedia.org/wiki/대배틀_The_Contender "wikilink")》에서 MC를 맡았다.\[14\]\[15\] PD대정령이 방송에 출연할땐 가면을 쓰는게 특징인데 누가 알아볼까 부담스럽고\[16\] 신비주의를 고수해야 극한의 재미를 끌어올릴 수 있기 때문이라 밝혔으며 정규 방송이 비교적 더 부담되지만 인터넷 방송보다 더 마음이 편하다했는데 유저들의 피드백이 바로 오지 않기 때문에, 반응을 신경 쓰지 않고 방송을 할 수 있기 때문이라고 한다.\[17\]
+2011년 《[G맨 게임종결자](https://ko.wikipedia.org/wiki/G맨_게임종결자 "wikilink")》, 2014년 《[대배틀 The Contender](../Page/대배틀_The_Contender.md "wikilink")》에서 MC를 맡았다.\[14\]\[15\] PD대정령이 방송에 출연할땐 가면을 쓰는게 특징인데 누가 알아볼까 부담스럽고\[16\] 신비주의를 고수해야 극한의 재미를 끌어올릴 수 있기 때문이라 밝혔으며 정규 방송이 비교적 더 부담되지만 인터넷 방송보다 더 마음이 편하다했는데 유저들의 피드백이 바로 오지 않기 때문에, 반응을 신경 쓰지 않고 방송을 할 수 있기 때문이라고 한다.\[17\]
 
 ## 수상
 
@@ -32,42 +32,42 @@
 <tbody>
 <tr class="odd">
 <td><p>2011</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아프리카TV_BJ대상" title="wikilink">아프리카TV 방송대상</a></p></td>
+<td><p><a href="../Page/아프리카TV_BJ대상.md" title="wikilink">아프리카TV 방송대상</a></p></td>
 <td><p>시청자의 선택</p></td>
 <td></td>
 <td><p>[18]</p></td>
 </tr>
 <tr class="even">
 <td><p>2012</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아프리카TV_BJ대상" title="wikilink">아프리카TV 방송대상</a></p></td>
+<td><p><a href="../Page/아프리카TV_BJ대상.md" title="wikilink">아프리카TV 방송대상</a></p></td>
 <td><p>우수상 게임 부문</p></td>
 <td></td>
 <td><p>[19]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2014</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아프리카TV_BJ대상" title="wikilink">아프리카TV BJ FESTIVAL</a></p></td>
+<td><p><a href="../Page/아프리카TV_BJ대상.md" title="wikilink">아프리카TV BJ FESTIVAL</a></p></td>
 <td><p>Star BJ 20</p></td>
 <td></td>
 <td><p>[20]</p></td>
 </tr>
 <tr class="even">
 <td><p>2015</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아프리카TV_BJ대상" title="wikilink">아프리카TV BJ대상</a></p></td>
+<td><p><a href="../Page/아프리카TV_BJ대상.md" title="wikilink">아프리카TV BJ대상</a></p></td>
 <td><p>대표 BJ 50</p></td>
 <td></td>
 <td><p>[21]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아프리카TV_BJ대상" title="wikilink">아프리카TV BJ대상</a></p></td>
+<td><p><a href="../Page/아프리카TV_BJ대상.md" title="wikilink">아프리카TV BJ대상</a></p></td>
 <td><p>대표 BJ 50</p></td>
 <td></td>
 <td><p>[22]</p></td>
 </tr>
 <tr class="even">
 <td><p>2017</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아프리카TV_BJ대상" title="wikilink">아프리카TV BJ대상</a></p></td>
+<td><p><a href="../Page/아프리카TV_BJ대상.md" title="wikilink">아프리카TV BJ대상</a></p></td>
 <td><p>종합게임 부문</p></td>
 <td></td>
 <td><p>[23]</p></td>
@@ -84,7 +84,7 @@
 
 ## 사건
 
-2016년 10월 [머독](https://ko.wikipedia.org/wiki/머독_\(인터넷_방송인\) "wikilink"), 쥐 등의 폭로로 인하여 뒷담화 논란이 터졌다. 아내가 팬아트 일러스트레이터와 뒷담화를 하고 대정령이 여기에 개입하면서 생긴 논란인데, 심지어 대정령이 사과 방송 도중 망언 등으로 인해 더욱 악화되었고 사과문을 올리기도 했다. 심지어 지인들을 고소하여 거액의 합의금을 뜯어간 사실이 알려졌고, 결국 자신의 이미지에 큰 타격을 입게 되었다. 시청자들은 대정령에 대한 부정적 인식이 크게 생긴것은 물론 100만명을 앞두고 있던 유튜브 구독자가 대폭 감소하여 이제는 66만명이나 떨어졌다. 한편 대정령은 사건 이후 2019년 군 입대를 마치고 방송에 복귀하였다.
+2016년 10월 [머독](../Page/머독_\(인터넷_방송인\).md "wikilink"), 쥐 등의 폭로로 인하여 뒷담화 논란이 터졌다. 아내가 팬아트 일러스트레이터와 뒷담화를 하고 대정령이 여기에 개입하면서 생긴 논란인데, 심지어 대정령이 사과 방송 도중 망언 등으로 인해 더욱 악화되었고 사과문을 올리기도 했다. 심지어 지인들을 고소하여 거액의 합의금을 뜯어간 사실이 알려졌고, 결국 자신의 이미지에 큰 타격을 입게 되었다. 시청자들은 대정령에 대한 부정적 인식이 크게 생긴것은 물론 100만명을 앞두고 있던 유튜브 구독자가 대폭 감소하여 이제는 66만명이나 떨어졌다. 한편 대정령은 사건 이후 2019년 군 입대를 마치고 방송에 복귀하였다.
 
 ## 각주
 

@@ -52,7 +52,7 @@
 
 ### 뮤직 비디오
 
-  - [EXILE THE SECOND](https://ko.wikipedia.org/wiki/EXILE_THE_SECOND "wikilink") 〈YEAH\!\! YEAH\!\! YEAH\!\!〉 (2016년)
+  - [EXILE THE SECOND](../Page/EXILE_THE_SECOND.md "wikilink") 〈YEAH\!\! YEAH\!\! YEAH\!\!〉 (2016년)
 
 ## 각주
 

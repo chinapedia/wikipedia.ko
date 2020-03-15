@@ -15,7 +15,7 @@
 
   - [DEEP](https://ko.wikipedia.org/wiki/DEEP "wikilink")
   - [DOBERMAN INFINITY](https://ko.wikipedia.org/wiki/DOBERMAN_INFINITY "wikilink")
-  - [시오노야 사야카](https://ko.wikipedia.org/wiki/시오노야_사야카 "wikilink")
+  - [시오노야 사야카](../Page/시오노야_사야카.md "wikilink")
   - [Crystal Kay](https://ko.wikipedia.org/wiki/크리스털_케이 "wikilink")
   - [JAY'ED](https://ko.wikipedia.org/wiki/JAY'ED "wikilink")
   - [미야타 사토시](https://ko.wikipedia.org/wiki/미야타_사토시 "wikilink")
@@ -23,12 +23,12 @@
 
 **[E-girls](../Page/E-girls.md "wikilink")그룹&솔로**
 
-  - [E-girls](../Page/E-girls.md "wikilink") - 멤버 [YURINO](https://ko.wikipedia.org/wiki/YURINO "wikilink"), [스다 안나](../Page/스다_안나.md "wikilink"), 야마구치 노노카, [카에데](https://ko.wikipedia.org/wiki/카에데 "wikilink"), 타케베 유즈나 소속그룹
+  - [E-girls](../Page/E-girls.md "wikilink") - 멤버 [YURINO](https://ko.wikipedia.org/wiki/YURINO "wikilink"), [스다 안나](../Page/스다_안나.md "wikilink"), 야마구치 노노카, [카에데](../Page/카에데.md "wikilink"), 타케베 유즈나 소속그룹
   - [Happiness](../Page/Happiness_\(음악_그룹\).md "wikilink") - 멤버 [YURINO](https://ko.wikipedia.org/wiki/YURINO "wikilink")&[스다 안나](../Page/스다_안나.md "wikilink") 소속그룹
   - [Flower](../Page/Flower_\(음악_그룹\).md "wikilink")
   - [다카모토 아야](https://ko.wikipedia.org/wiki/다카모토_아야 "wikilink")([E-girls](../Page/E-girls.md "wikilink") 크리에이티브 매니저)
   - [나카시마 아미](https://ko.wikipedia.org/wiki/나카시마_아미 "wikilink")(솔로가수)
-  - [DANCE EARTH PARTY](https://ko.wikipedia.org/wiki/DANCE_EARTH_PARTY "wikilink")(멤버:[니시다 시즈카](https://ko.wikipedia.org/wiki/니시다_시즈카 "wikilink"), [EXILE](https://ko.wikipedia.org/wiki/EXILE "wikilink")멤버:[우사미 요시히로](https://ko.wikipedia.org/wiki/우사미_요시히로 "wikilink")&[TETSUYA](https://ko.wikipedia.org/wiki/TETSUYA "wikilink"))
+  - [DANCE EARTH PARTY](https://ko.wikipedia.org/wiki/DANCE_EARTH_PARTY "wikilink")(멤버:[니시다 시즈카](https://ko.wikipedia.org/wiki/니시다_시즈카 "wikilink"), [EXILE](https://ko.wikipedia.org/wiki/EXILE "wikilink")멤버:[우사미 요시히로](https://ko.wikipedia.org/wiki/우사미_요시히로 "wikilink")&[TETSUYA](../Page/TETSUYA.md "wikilink"))
   - 스단나유즈유리 - [YURINO](https://ko.wikipedia.org/wiki/YURINO "wikilink")&[스다 안나](../Page/스다_안나.md "wikilink")([Happiness](https://ko.wikipedia.org/wiki/Happiness "wikilink")멤버)/타케베 유즈나 (그외멤버)
 
 **[EXILE](https://ko.wikipedia.org/wiki/EXILE "wikilink")그룹**
@@ -37,8 +37,8 @@
   - [THE SECOND from EXILE](https://ko.wikipedia.org/wiki/THE_SECOND_from_EXILE "wikilink")
   - [3대째 J Soul Brothers from EXILE TRIBE](../Page/J_Soul_Brothers.md "wikilink")
   - [GENERATIONS from EXILE TRIBE](../Page/GENERATIONS_from_EXILE_TRIBE.md "wikilink")
-  - [THE RAMPAGE from EXILE TRIBE](https://ko.wikipedia.org/wiki/THE_RAMPAGE_from_EXILE_TRIBE "wikilink")
-  - [DANCE EARTH PARTY](https://ko.wikipedia.org/wiki/DANCE_EARTH_PARTY "wikilink")(멤버:[니시다 시즈카](https://ko.wikipedia.org/wiki/니시다_시즈카 "wikilink"), [EXILE](https://ko.wikipedia.org/wiki/EXILE "wikilink")멤버:[우사미 요시히로](https://ko.wikipedia.org/wiki/우사미_요시히로 "wikilink")&[TETSUYA](https://ko.wikipedia.org/wiki/TETSUYA "wikilink"))
+  - [THE RAMPAGE from EXILE TRIBE](../Page/THE_RAMPAGE_from_EXILE_TRIBE.md "wikilink")
+  - [DANCE EARTH PARTY](https://ko.wikipedia.org/wiki/DANCE_EARTH_PARTY "wikilink")(멤버:[니시다 시즈카](https://ko.wikipedia.org/wiki/니시다_시즈카 "wikilink"), [EXILE](https://ko.wikipedia.org/wiki/EXILE "wikilink")멤버:[우사미 요시히로](https://ko.wikipedia.org/wiki/우사미_요시히로 "wikilink")&[TETSUYA](../Page/TETSUYA.md "wikilink"))
 
 **송 라이터**
 
@@ -69,7 +69,7 @@
   - 오오야 카나
   - RIKACO
   - 오토즈키 케이
-  - [미즈노 에리나](https://ko.wikipedia.org/wiki/미즈노_에리나 "wikilink")
+  - [미즈노 에리나](../Page/미즈노_에리나.md "wikilink")
   - 하세베 유
   - 키도 아이리
   - 키노 아키코
@@ -83,11 +83,11 @@
   - [우사미 요시히로](https://ko.wikipedia.org/wiki/우사미_요시히로 "wikilink")
   - [마츠모토 토시오](https://ko.wikipedia.org/wiki/마쓰모토_도시오 "wikilink")
   - [AKIRA](https://ko.wikipedia.org/wiki/AKIRA_\(배우\) "wikilink")
-  - [타치바나 켄치](https://ko.wikipedia.org/wiki/타치바나_켄치 "wikilink")
-  - [쿠로키 케이지](https://ko.wikipedia.org/wiki/쿠로키_케이지 "wikilink")
-  - [TETSUYA](https://ko.wikipedia.org/wiki/TETSUYA "wikilink")
-  - [NAOTO](https://ko.wikipedia.org/wiki/NAOTO "wikilink")
-  - [NAOKI](https://ko.wikipedia.org/wiki/NAOKI "wikilink")
+  - [타치바나 켄치](../Page/타치바나_켄치.md "wikilink")
+  - [쿠로키 케이지](../Page/쿠로키_케이지.md "wikilink")
+  - [TETSUYA](../Page/TETSUYA.md "wikilink")
+  - [NAOTO](../Page/NAOTO.md "wikilink")
+  - [NAOKI](../Page/NAOKI.md "wikilink")
   - 오미야 타로
   - 히라누마 노리히사
   - 아마노 코세이

@@ -7,7 +7,7 @@
 
 ## 역대 앵커
 
-  - [하워드 K. 스미스](https://ko.wikipedia.org/wiki/하워드_K._스미스 "wikilink")(Howard K. Smith, [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink")\~[1975년](https://ko.wikipedia.org/wiki/1975년 "wikilink"))
+  - [하워드 K. 스미스](../Page/하워드_K._스미스.md "wikilink")(Howard K. Smith, [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink")\~[1975년](https://ko.wikipedia.org/wiki/1975년 "wikilink"))
   - [해리 리소너](https://ko.wikipedia.org/wiki/해리_리소너 "wikilink")(Harry Reasoner, [1970년](https://ko.wikipedia.org/wiki/1970년 "wikilink")\~[1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink"))
   - [바버라 월터스](https://ko.wikipedia.org/wiki/바버라_월터스 "wikilink")(Barbara Walters, [1976년](https://ko.wikipedia.org/wiki/1976년 "wikilink")\~[1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink"))
   - [프랭크 레이놀즈](https://ko.wikipedia.org/wiki/프랭크_레이놀즈 "wikilink")(Frank Reynolds, [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink")\~[1970년](https://ko.wikipedia.org/wiki/1970년 "wikilink"), [1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink")\~[1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink"))

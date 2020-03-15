@@ -15,7 +15,7 @@
 
 | 호수  | 다룬 브랜드                                                                                         | 상세       | 국적   |
 | --- | ---------------------------------------------------------------------------------------------- | -------- | ---- |
-| 1호  | [프라이탁](https://ko.wikipedia.org/wiki/프라이탁 "wikilink") (FREITAG)                                | 가방       | 스위스  |
+| 1호  | [프라이탁](../Page/프라이탁.md "wikilink") (FREITAG)                                                   | 가방       | 스위스  |
 | 2호  | [뉴발란스](../Page/뉴발란스.md "wikilink") (NEW BALANCE)                                               | 신발       | 미국   |
 | 3호  | 스노우피크 (SNOW PEAK)                                                                              | 캠핑용품     | 일본   |
 | 4호  | [라미](../Page/라미.md "wikilink") (LAMY)                                                          | 문구       | 독일   |
@@ -49,7 +49,7 @@
 | 32호 | 리모와 (RIMOWA)                                                                                   | 가방       | 독일   |
 | 33호 | 비트라 (VITRA)                                                                                    | 가구       | 스위스  |
 | 34호 | [라이카](https://ko.wikipedia.org/wiki/라이카_\(사진기\) "wikilink")                                    | 카메라      | 독일   |
-| 35호 | [헬베티카](https://ko.wikipedia.org/wiki/헬베티카 "wikilink")                                          | 서체       | 스위스  |
+| 35호 | [헬베티카](../Page/헬베티카.md "wikilink")                                                             | 서체       | 스위스  |
 | 36호 | [나스](https://ko.wikipedia.org/wiki/나스_\(화장품\) "wikilink")                                      | 화장품      | 프랑스  |
 | 37호 | [츠타야](https://ko.wikipedia.org/wiki/츠타야 "wikilink")                                            | 서점       | 일본   |
 | 38호 | [파타고니아 (기업)](https://ko.wikipedia.org/wiki/파타고니아_\(기업\) "wikilink") (PATAGONIA)                | 의류       | 미국   |
@@ -68,7 +68,7 @@
 | 52호 | 위워크 (WEWORK)                                                                                   | 워크스페이스   | 미국   |
 | 53호 | [무인양품](../Page/무인양품.md "wikilink") (MUJI)                                                      | 생활 잡화    | 일본   |
 | 54호 | 메종 마르지엘라 (Maison Margiela)                                                                     | 패션       | 프랑스  |
-| 55호 | [애플 뮤직](https://ko.wikipedia.org/wiki/애플_뮤직 "wikilink") (Apple Music)                          | 모바일 서비스  | 미국   |
+| 55호 | [애플 뮤직](../Page/애플_뮤직.md "wikilink") (Apple Music)                                             | 모바일 서비스  | 미국   |
 | 56호 | [미쉐린 가이드](https://ko.wikipedia.org/wiki/미쉐린_가이드 "wikilink") (Michelin Guide)                   | 도서       | 프랑스  |
 | 57호 | 발뮤다 (Balmuda)                                                                                  | 가전제품     | 일본   |
 | 58호 | [포틀랜드](https://ko.wikipedia.org/wiki/포틀랜드_\(오리건_주\) "wikilink") (Portland)                     | 도시       | 미국   |

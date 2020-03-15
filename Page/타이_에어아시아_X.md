@@ -19,14 +19,14 @@
 
   - [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [8월](https://ko.wikipedia.org/wiki/8월 "wikilink") 기준으로 타이 에어아시아 X는 다음과 같은 기종을 보유하고 있다.
 
-| 기종                                                                        | 대수                                   | 주문    | 승객 | 비고  |
-| ------------------------------------------------------------------------- | ------------------------------------ | ----- | -- | --- |
-| <abbr title="Premium class">P</abbr>                                      | <abbr title="Economy class">Y</abbr> | Total |    |     |
-| [에어버스 A330-300](https://ko.wikipedia.org/wiki/에어버스_A330-300 "wikilink")   | 13                                   | 0     | 12 | 365 |
-| 30                                                                        | 255                                  | 285   |    |     |
-| 0                                                                         | 367                                  | 367   |    |     |
-| [에어버스 A330-900neo](https://ko.wikipedia.org/wiki/에어버스_A330neo "wikilink") | 2\[2\]                               | 0     | 12 | 365 |
-| 합계                                                                        | 15                                   | 0     |    |     |
+| 기종                                                                      | 대수                                   | 주문    | 승객 | 비고  |
+| ----------------------------------------------------------------------- | ------------------------------------ | ----- | -- | --- |
+| <abbr title="Premium class">P</abbr>                                    | <abbr title="Economy class">Y</abbr> | Total |    |     |
+| [에어버스 A330-300](https://ko.wikipedia.org/wiki/에어버스_A330-300 "wikilink") | 13                                   | 0     | 12 | 365 |
+| 30                                                                      | 255                                  | 285   |    |     |
+| 0                                                                       | 367                                  | 367   |    |     |
+| [에어버스 A330-900neo](../Page/에어버스_A330neo.md "wikilink")                  | 2\[2\]                               | 0     | 12 | 365 |
+| 합계                                                                      | 15                                   | 0     |    |     |
 
 타이 에어아시아 X의 보유기종
 

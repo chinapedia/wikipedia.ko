@@ -54,7 +54,7 @@
 #### [중유럽](https://ko.wikipedia.org/wiki/중유럽 "wikilink")
 
   - ****
-      - [제네바](https://ko.wikipedia.org/wiki/제네바 "wikilink") - [제네바 국제공항](https://ko.wikipedia.org/wiki/제네바_국제공항 "wikilink")
+      - [제네바](https://ko.wikipedia.org/wiki/제네바 "wikilink") - [제네바 국제공항](../Page/제네바_국제공항.md "wikilink")
   - ****
       - [비엔나](https://ko.wikipedia.org/wiki/비엔나 "wikilink") - [빈 국제공항](https://ko.wikipedia.org/wiki/빈_국제공항 "wikilink")
 
@@ -126,7 +126,7 @@
   - ****
       - [타바](https://ko.wikipedia.org/wiki/타바 "wikilink") - [타바 국제공항](https://ko.wikipedia.org/wiki/타바_국제공항 "wikilink")
   - ****
-      - [튀니스](https://ko.wikipedia.org/wiki/튀니스 "wikilink") - [튀니스 카르타고 국제공항](https://ko.wikipedia.org/wiki/튀니스_카르타고_국제공항 "wikilink")
+      - [튀니스](https://ko.wikipedia.org/wiki/튀니스 "wikilink") - [튀니스 카르타고 국제공항](../Page/튀니스_카르타고_국제공항.md "wikilink")
 
 ### [유럽](https://ko.wikipedia.org/wiki/유럽 "wikilink")
 

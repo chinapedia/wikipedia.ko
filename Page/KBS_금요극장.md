@@ -35,8 +35,8 @@
 <td><p>2화</p></td>
 <td><p>1997년 11월 7일</p></td>
 <td><p>은비늘</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/노경주" title="wikilink">노경주</a>, <a href="https://ko.wikipedia.org/wiki/이주경" title="wikilink">이주경</a>, <a href="https://ko.wikipedia.org/wiki/맹상훈" title="wikilink">맹상훈</a>, 박건식, 조은덕,<br />
-심우창, <a href="https://ko.wikipedia.org/wiki/신충식" title="wikilink">신충식</a>, <a href="https://ko.wikipedia.org/wiki/임병기" title="wikilink">임병기</a>, <a href="https://ko.wikipedia.org/wiki/김홍석" title="wikilink">김홍석</a>, <a href="https://ko.wikipedia.org/wiki/한범희" title="wikilink">한범희</a>,<br />
+<td><p><a href="../Page/노경주.md" title="wikilink">노경주</a>, <a href="https://ko.wikipedia.org/wiki/이주경" title="wikilink">이주경</a>, <a href="https://ko.wikipedia.org/wiki/맹상훈" title="wikilink">맹상훈</a>, 박건식, 조은덕,<br />
+심우창, <a href="https://ko.wikipedia.org/wiki/신충식" title="wikilink">신충식</a>, <a href="https://ko.wikipedia.org/wiki/임병기" title="wikilink">임병기</a>, <a href="../Page/김홍석.md" title="wikilink">김홍석</a>, <a href="../Page/한범희.md" title="wikilink">한범희</a>,<br />
 <a href="https://ko.wikipedia.org/wiki/김덕현" title="wikilink">김덕현</a>, <a href="https://ko.wikipedia.org/wiki/이규준" title="wikilink">이규준</a></p></td>
 <td><p>류갑열</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/최지영" title="wikilink">최지영</a></p></td>
@@ -46,7 +46,7 @@
 <td><p>1997년 11월 14일</p></td>
 <td><p>두 아이 이야기</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/김주승" title="wikilink">김주승</a>, <a href="https://ko.wikipedia.org/wiki/이혜숙" title="wikilink">이혜숙</a>, <a href="https://ko.wikipedia.org/wiki/김정난" title="wikilink">김정난</a>, <a href="https://ko.wikipedia.org/wiki/박찬환" title="wikilink">박찬환</a>, <a href="https://ko.wikipedia.org/wiki/이원종" title="wikilink">이원종</a>,<br />
-<a href="https://ko.wikipedia.org/wiki/박인환" title="wikilink">박인환</a>, <a href="https://ko.wikipedia.org/wiki/이일웅" title="wikilink">이일웅</a>, 이영주, <a href="https://ko.wikipedia.org/wiki/기정수" title="wikilink">기정수</a>, <a href="https://ko.wikipedia.org/wiki/이한수" title="wikilink">이한수</a>,<br />
+<a href="https://ko.wikipedia.org/wiki/박인환" title="wikilink">박인환</a>, <a href="https://ko.wikipedia.org/wiki/이일웅" title="wikilink">이일웅</a>, 이영주, <a href="../Page/기정수.md" title="wikilink">기정수</a>, <a href="https://ko.wikipedia.org/wiki/이한수" title="wikilink">이한수</a>,<br />
 권은아</p></td>
 <td><p>이란</p></td>
 <td><p>이민홍</p></td>
@@ -57,7 +57,7 @@
 <td><p>첫날밤에 생긴 일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/김소연" title="wikilink">김소연</a>, <a href="https://ko.wikipedia.org/wiki/이병춘" title="wikilink">이병춘</a>, <a href="../Page/박현숙_(배우).md" title="wikilink">박현숙</a>, 고지영, 황성규,<br />
 이재식, <a href="https://ko.wikipedia.org/wiki/오태경" title="wikilink">오태경</a>, <a href="https://ko.wikipedia.org/wiki/이일화" title="wikilink">이일화</a>, <a href="https://ko.wikipedia.org/wiki/김일우" title="wikilink">김일우</a>, <a href="https://ko.wikipedia.org/wiki/전원주" title="wikilink">전원주</a>,<br />
-강영아, <a href="https://ko.wikipedia.org/wiki/이경표" title="wikilink">이경표</a>, <a href="https://ko.wikipedia.org/wiki/이희도" title="wikilink">이희도</a></p></td>
+강영아, <a href="../Page/이경표.md" title="wikilink">이경표</a>, <a href="https://ko.wikipedia.org/wiki/이희도" title="wikilink">이희도</a></p></td>
 <td><p>황순영</p></td>
 <td><p>이재영</p></td>
 </tr>

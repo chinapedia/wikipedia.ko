@@ -5,34 +5,34 @@
 
 1999년 초대 J Soul Brothers를 결성. 2001년에 그룹의 이름을 [EXILE](https://ko.wikipedia.org/wiki/EXILE "wikilink")로 개명한 이후로 초대 J Soul Brothers의 명의로 활동하는 것은 종료되었다. 2007년에 새로운 멤버들로 2대 J Soul Brothers를 결성. 2009년에 2대의 멤버들이 전원 EXILE에 가입하게되어 2대 J Soul Brothers의 명의로 활동하는 것은 종료되었다. 2010년에 새로운 멤버들로 3대 J Soul Brothers를 결성. 현재 **산다이메 J Soul Brothers** 또는 **산다이메 J Soul Brothers from EXILE TRIBE**의 명의로 활동 중이다.
 
-[LDH](https://ko.wikipedia.org/wiki/LDH_\(기업\) "wikilink") 소속. 레이블은 [rhythm zone](https://ko.wikipedia.org/wiki/리듬존 "wikilink").
+[LDH](../Page/LDH_\(기업\).md "wikilink") 소속. 레이블은 [rhythm zone](https://ko.wikipedia.org/wiki/리듬존 "wikilink").
 
 ## 멤버
 
-| 이름                                                                | 담당     |
-| ----------------------------------------------------------------- | ------ |
-| 초대                                                                |        |
-| **[HIRO](https://ko.wikipedia.org/wiki/이가라시_히로유키 "wikilink")**    | 퍼포머    |
-| **[MATSU](https://ko.wikipedia.org/wiki/마츠모토_토시오 "wikilink")**    |        |
-| **[USA](https://ko.wikipedia.org/wiki/우사미_요시히로 "wikilink")**      |        |
-| **[MAKIDAI](https://ko.wikipedia.org/wiki/마키_다이스케 "wikilink")**   |        |
-| **[SASA](https://ko.wikipedia.org/wiki/SASA "wikilink")**         | 보컬&컴포저 |
-| 2대                                                                |        |
-| **[KENCHI](https://ko.wikipedia.org/wiki/타치바나_켄치 "wikilink")**    | 퍼포머    |
-| **[KEIJI](https://ko.wikipedia.org/wiki/쿠로키_케이지 "wikilink")**     |        |
-| **[TETSUYA](https://ko.wikipedia.org/wiki/TETSUYA "wikilink")**   |        |
-| **[NESMITH](https://ko.wikipedia.org/wiki/NESMITH "wikilink")**   | 보컬&퍼포머 |
-| **[SHOKICHI](https://ko.wikipedia.org/wiki/SHOKICHI "wikilink")** |        |
-| **[NAOTO](https://ko.wikipedia.org/wiki/NAOTO "wikilink")**       | 퍼포머    |
-| **[NAOKI](https://ko.wikipedia.org/wiki/NAOKI "wikilink")**       |        |
-| 3대                                                                |        |
-| **[NAOTO](https://ko.wikipedia.org/wiki/NAOTO "wikilink")**       | 리더&퍼포머 |
-| **[코바야시 나오키](https://ko.wikipedia.org/wiki/NAOKI "wikilink")**    |        |
-| **[ELLY](https://ko.wikipedia.org/wiki/ELLY "wikilink")**         | 퍼포머    |
-| **[야마시타 켄지로](https://ko.wikipedia.org/wiki/야마시타_켄지로 "wikilink")** |        |
-| **[이와타 타카노리](https://ko.wikipedia.org/wiki/이와타_타카노리 "wikilink")** |        |
-| **[이마이치 류지](https://ko.wikipedia.org/wiki/이마이치_류지 "wikilink")**   | 보컬     |
-| **[토사카 히로오미](https://ko.wikipedia.org/wiki/토사카_히로오미 "wikilink")** |        |
+| 이름                                                              | 담당     |
+| --------------------------------------------------------------- | ------ |
+| 초대                                                              |        |
+| **[HIRO](https://ko.wikipedia.org/wiki/이가라시_히로유키 "wikilink")**  | 퍼포머    |
+| **[MATSU](https://ko.wikipedia.org/wiki/마츠모토_토시오 "wikilink")**  |        |
+| **[USA](https://ko.wikipedia.org/wiki/우사미_요시히로 "wikilink")**    |        |
+| **[MAKIDAI](https://ko.wikipedia.org/wiki/마키_다이스케 "wikilink")** |        |
+| **[SASA](https://ko.wikipedia.org/wiki/SASA "wikilink")**       | 보컬&컴포저 |
+| 2대                                                              |        |
+| **[KENCHI](../Page/타치바나_켄치.md "wikilink")**                     | 퍼포머    |
+| **[KEIJI](../Page/쿠로키_케이지.md "wikilink")**                      |        |
+| **[TETSUYA](../Page/TETSUYA.md "wikilink")**                    |        |
+| **[NESMITH](../Page/NESMITH.md "wikilink")**                    | 보컬&퍼포머 |
+| **[SHOKICHI](../Page/SHOKICHI.md "wikilink")**                  |        |
+| **[NAOTO](../Page/NAOTO.md "wikilink")**                        | 퍼포머    |
+| **[NAOKI](../Page/NAOKI.md "wikilink")**                        |        |
+| 3대                                                              |        |
+| **[NAOTO](../Page/NAOTO.md "wikilink")**                        | 리더&퍼포머 |
+| **[코바야시 나오키](../Page/NAOKI.md "wikilink")**                     |        |
+| **[ELLY](../Page/ELLY.md "wikilink")**                          | 퍼포머    |
+| **[야마시타 켄지로](../Page/야마시타_켄지로.md "wikilink")**                  |        |
+| **[이와타 타카노리](../Page/이와타_타카노리.md "wikilink")**                  |        |
+| **[이마이치 류지](../Page/이마이치_류지.md "wikilink")**                    | 보컬     |
+| **[토사카 히로오미](../Page/토사카_히로오미.md "wikilink")**                  |        |
 
 ## 음반 목록
 

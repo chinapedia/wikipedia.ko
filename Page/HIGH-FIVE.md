@@ -13,7 +13,7 @@
 
 <!-- end list -->
 
-  - [신재평](https://ko.wikipedia.org/wiki/신재평 "wikilink") - [프로듀서](https://ko.wikipedia.org/wiki/음악_프로듀서 "wikilink"), [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), [코러스](https://ko.wikipedia.org/wiki/코러스_\(대중음악\) "wikilink"), [기타](https://ko.wikipedia.org/wiki/기타 "wikilink")(1, 3\~6, 10\~13), 박수 소리(1), [전기 기타](https://ko.wikipedia.org/wiki/전기_기타 "wikilink")(2, 7, 9), [피아노](https://ko.wikipedia.org/wiki/피아노 "wikilink")(8, 10, 14), 프로그래밍(12), 믹싱(12)
+  - [신재평](../Page/신재평.md "wikilink") - [프로듀서](https://ko.wikipedia.org/wiki/음악_프로듀서 "wikilink"), [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), [코러스](https://ko.wikipedia.org/wiki/코러스_\(대중음악\) "wikilink"), [기타](https://ko.wikipedia.org/wiki/기타 "wikilink")(1, 3\~6, 10\~13), 박수 소리(1), [전기 기타](https://ko.wikipedia.org/wiki/전기_기타 "wikilink")(2, 7, 9), [피아노](https://ko.wikipedia.org/wiki/피아노 "wikilink")(8, 10, 14), 프로그래밍(12), 믹싱(12)
   - 이장원 - 프로듀서, 보컬, 코러스, [베이스 기타](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink")(1\~3, 5\~13), 박수 소리(1)
 
 <!-- end list -->

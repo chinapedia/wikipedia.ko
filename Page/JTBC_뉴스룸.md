@@ -55,15 +55,15 @@ JTBC는 [JTBC 뉴스 9과](https://ko.wikipedia.org/wiki/JTBC_뉴스_9 "wikilink
 | -- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1대 | [손석희](https://ko.wikipedia.org/wiki/손석희 "wikilink"), [김소현](https://ko.wikipedia.org/wiki/김소현 "wikilink") | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [9월 16일](https://ko.wikipedia.org/wiki/9월_16일 "wikilink") \~ [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [7월 10일](https://ko.wikipedia.org/wiki/7월_10일 "wikilink") |
 | 2대 | [손석희](https://ko.wikipedia.org/wiki/손석희 "wikilink"), [한윤지](https://ko.wikipedia.org/wiki/한윤지 "wikilink") | [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [7월 13일](https://ko.wikipedia.org/wiki/7월_13일 "wikilink") \~ [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [4월 14일](https://ko.wikipedia.org/wiki/4월_14일 "wikilink") |
-| 3대 | [손석희](https://ko.wikipedia.org/wiki/손석희 "wikilink"), [안나경](https://ko.wikipedia.org/wiki/안나경 "wikilink") | [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [4월 18일](https://ko.wikipedia.org/wiki/4월_18일 "wikilink") \~ [2020년](https://ko.wikipedia.org/wiki/2020년 "wikilink") [1월 2일](https://ko.wikipedia.org/wiki/1월_2일 "wikilink")   |
-| 4대 | 서복현, [안나경](https://ko.wikipedia.org/wiki/안나경 "wikilink")                                                 | [2020년](https://ko.wikipedia.org/wiki/2020년 "wikilink") [1월 6일](https://ko.wikipedia.org/wiki/1월_6일 "wikilink") \~ 현재                                                                                                                  |
+| 3대 | [손석희](https://ko.wikipedia.org/wiki/손석희 "wikilink"), [안나경](../Page/안나경.md "wikilink")                    | [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [4월 18일](https://ko.wikipedia.org/wiki/4월_18일 "wikilink") \~ [2020년](https://ko.wikipedia.org/wiki/2020년 "wikilink") [1월 2일](https://ko.wikipedia.org/wiki/1월_2일 "wikilink")   |
+| 4대 | 서복현, [안나경](../Page/안나경.md "wikilink")                                                                    | [2020년](https://ko.wikipedia.org/wiki/2020년 "wikilink") [1월 6일](https://ko.wikipedia.org/wiki/1월_6일 "wikilink") \~ 현재                                                                                                                  |
 
 ### 금요일\~일요일\[2\]
 
 | 대수 | 진행자                                                      | 진행 기간                                                                                                                                                                                                                                    |
 | -- | -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1대 | 전진배, [이지은](https://ko.wikipedia.org/wiki/이지은 "wikilink") | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [9월 27일](https://ko.wikipedia.org/wiki/9월_27일 "wikilink") \~ [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [12월 28일](https://ko.wikipedia.org/wiki/12월_28일 "wikilink") |
-| 2대 | 전진배, [안나경](https://ko.wikipedia.org/wiki/안나경 "wikilink") | [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [1월 3일](https://ko.wikipedia.org/wiki/1월_3일 "wikilink") \~ [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [4월 10일](https://ko.wikipedia.org/wiki/4월_10일 "wikilink")     |
+| 2대 | 전진배, [안나경](../Page/안나경.md "wikilink")                    | [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [1월 3일](https://ko.wikipedia.org/wiki/1월_3일 "wikilink") \~ [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [4월 10일](https://ko.wikipedia.org/wiki/4월_10일 "wikilink")     |
 | 3대 | 전진배, [이지은](https://ko.wikipedia.org/wiki/이지은 "wikilink") | [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [4월 15일](https://ko.wikipedia.org/wiki/4월_15일 "wikilink") \~ [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [8월 13일](https://ko.wikipedia.org/wiki/8월_13일 "wikilink")   |
 | 4대 | 김필규, [이지은](https://ko.wikipedia.org/wiki/이지은 "wikilink") | [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [8월 18일](https://ko.wikipedia.org/wiki/8월_18일 "wikilink") \~ [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [7월 29일](https://ko.wikipedia.org/wiki/7월_29일 "wikilink")   |
 | 5대 | 김필규, 한민용                                                 | [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [8월 3일](https://ko.wikipedia.org/wiki/8월_3일 "wikilink") \~ [2020년](https://ko.wikipedia.org/wiki/2020년 "wikilink") [1월 5일](https://ko.wikipedia.org/wiki/1월_5일 "wikilink")       |
@@ -102,7 +102,7 @@ JTBC는 [JTBC 뉴스 9과](https://ko.wikipedia.org/wiki/JTBC_뉴스_9 "wikilink
 </tr>
 <tr class="even">
 <td><p>4</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/JTBC_뉴스룸" title="wikilink">JTBC 뉴스룸</a></p></td>
+<td><p><a href="../Page/JTBC_뉴스룸.md" title="wikilink">JTBC 뉴스룸</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/2014년" title="wikilink">2014년</a> <a href="https://ko.wikipedia.org/wiki/9월_22일" title="wikilink">9월 22일</a> ~ <strong>현재</strong></p></td>
 </tr>
 </tbody>
@@ -125,8 +125,8 @@ JTBC는 [JTBC 뉴스 9과](https://ko.wikipedia.org/wiki/JTBC_뉴스_9 "wikilink
   - [뉴스A](https://ko.wikipedia.org/wiki/뉴스A "wikilink") (채널A)
   - [YTN 뉴스나이트](https://ko.wikipedia.org/wiki/YTN_뉴스나이트 "wikilink") (평일) (YTN)
   - [YTN 뉴스와이드 (2150)](https://ko.wikipedia.org/wiki/YTN_뉴스나이트 "wikilink") (주말) (YTN)
-  - [뉴스투나잇](https://ko.wikipedia.org/wiki/뉴스투나잇_\(연합뉴스TV\) "wikilink") (평일) (연합뉴스TV)
-  - [뉴스 23](https://ko.wikipedia.org/wiki/뉴스투나잇_\(연합뉴스TV\) "wikilink") (주말) (연합뉴스TV)
+  - [뉴스투나잇](../Page/뉴스투나잇_\(연합뉴스TV\).md "wikilink") (평일) (연합뉴스TV)
+  - [뉴스 23](../Page/뉴스투나잇_\(연합뉴스TV\).md "wikilink") (주말) (연합뉴스TV)
 
 ## 관련 서적
 

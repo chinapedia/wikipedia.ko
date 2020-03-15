@@ -7,7 +7,7 @@
 
   - *[:en:Drexell's Class](https://ko.wikipedia.org/wiki/:en:Drexell's_Class "wikilink")* (1991) – 멜리사 드렉셀
   - *[In the Heat of the Night](https://ko.wikipedia.org/wiki/:en:In_the_Heat_of_the_Night_\(TV_series\) "wikilink")* (1992) – 메건 파울러
-  - *[마이 소 콜드 라이프](https://ko.wikipedia.org/wiki/마이_소_콜드_라이프 "wikilink")* (1994–95) – 레이건 그라프
+  - *[마이 소 콜드 라이프](../Page/마이_소_콜드_라이프.md "wikilink")* (1994–95) – 레이건 그라프
   - *[:en:It's Like, You Know...](https://ko.wikipedia.org/wiki/:en:It's_Like,_You_Know... "wikilink")* (1999) – 로렌 우즈
   - *[Three Sisters](https://ko.wikipedia.org/wiki/:en:Three_Sisters_\(TV_series\) "wikilink")* (2001) – 앤 버스타인 플린
   - *[I Love the '90s](https://ko.wikipedia.org/wiki/:en:I_Love_the_'90s_\(U.S._TV_series\) "wikilink")* (2004) – A.J. 랭거

@@ -17,7 +17,7 @@
 
 ## 경쟁 차량
 
-  - [BMW](https://ko.wikipedia.org/wiki/BMW "wikilink") - [2 시리즈](https://ko.wikipedia.org/wiki/BMW_2_시리즈 "wikilink")
+  - [BMW](https://ko.wikipedia.org/wiki/BMW "wikilink") - [2 시리즈](../Page/BMW_2_시리즈.md "wikilink")
   - [아우디](https://ko.wikipedia.org/wiki/아우디 "wikilink") - [A3](https://ko.wikipedia.org/wiki/아우디_A3 "wikilink")
 
 ## 외부 링크

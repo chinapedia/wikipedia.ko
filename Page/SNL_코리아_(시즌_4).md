@@ -19,14 +19,14 @@
   - [권혁수](../Page/권혁수_\(배우\).md "wikilink")
   - [박상우](https://ko.wikipedia.org/wiki/박상우_\(1986년\) "wikilink")
   - [클라라](https://ko.wikipedia.org/wiki/클라라_\(배우\) "wikilink")
-  - [류혜린](https://ko.wikipedia.org/wiki/류혜린 "wikilink")
+  - [류혜린](../Page/류혜린.md "wikilink")
 
 ## 코너
 
 ### 위캔드 업데이트
 
   - 메인 뉴스: [유희열](https://ko.wikipedia.org/wiki/유희열 "wikilink")(앵커), [권혁수](../Page/권혁수_\(배우\).md "wikilink")(기자)
-  - 개구쟁이 스덕후: [정이랑](../Page/정이랑.md "wikilink"), [이상훈](https://ko.wikipedia.org/wiki/이상훈_\(성우\) "wikilink"), [박보미](https://ko.wikipedia.org/wiki/박보미 "wikilink")
+  - 개구쟁이 스덕후: [정이랑](../Page/정이랑.md "wikilink"), [이상훈](https://ko.wikipedia.org/wiki/이상훈_\(성우\) "wikilink"), [박보미](../Page/박보미.md "wikilink")
 
 ### 콩트
 

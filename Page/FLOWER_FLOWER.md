@@ -23,7 +23,7 @@
 
   - [3월 5일](https://ko.wikipedia.org/wiki/3월_5일 "wikilink"): yui가 자신의 블로그에서 공황 장애로 진단된 사실을 밝히고, 당해 [5월 4일](https://ko.wikipedia.org/wiki/5월_4일 "wikilink") 출연할 예정이었던 실내 록 페스티벌 "VIVA LA ROCK" 참여를 취소하겠다고 발표함\[10\].
   - [5월 21일](https://ko.wikipedia.org/wiki/5월_21일 "wikilink"): 디지털 싱글 "신()" 발매.
-  - [6월](https://ko.wikipedia.org/wiki/6월 "wikilink"): 영화 "[리틀 포레스트](https://ko.wikipedia.org/wiki/리틀_포레스트 "wikilink")"의 주제가를 담당하고, 4부작인 이 영화의 각 편에 1곡 씩 총 4곡의 신곡을 새로 썼음을 발표함\[11\].
+  - [6월](https://ko.wikipedia.org/wiki/6월 "wikilink"): 영화 "[리틀 포레스트](../Page/리틀_포레스트.md "wikilink")"의 주제가를 담당하고, 4부작인 이 영화의 각 편에 1곡 씩 총 4곡의 신곡을 새로 썼음을 발표함\[11\].
   - [8월 30일](https://ko.wikipedia.org/wiki/8월_30일 "wikilink"): 디지털 싱글 "여름, 가을(, )" 발매.
   - [10월 1일](https://ko.wikipedia.org/wiki/10월_1일 "wikilink"): 디지털 싱글 "멋진 세상()" 발매.
   - [11월 26일](https://ko.wikipedia.org/wiki/11월_26일 "wikilink"): 첫 앨범 "열매()" 발매.
@@ -82,8 +82,8 @@
 
 ## 타이업
 
-1.  "여름()", "가을()" - 영화 "[리틀 포레스트](https://ko.wikipedia.org/wiki/리틀_포레스트 "wikilink")" 주제가 (2014년)
-2.  "멋진 세계()" - [TV도쿄](https://ko.wikipedia.org/wiki/TV도쿄 "wikilink") 계열 드라마 "[다마가와 구청 OF THE DEAD](https://ko.wikipedia.org/wiki/다마가와_구청_OF_THE_DEAD "wikilink")" 주제가 (2014년)
+1.  "여름()", "가을()" - 영화 "[리틀 포레스트](../Page/리틀_포레스트.md "wikilink")" 주제가 (2014년)
+2.  "멋진 세계()" - [TV도쿄](https://ko.wikipedia.org/wiki/TV도쿄 "wikilink") 계열 드라마 "[다마가와 구청 OF THE DEAD](../Page/다마가와_구청_OF_THE_DEAD.md "wikilink")" 주제가 (2014년)
 
 ## 각주
 

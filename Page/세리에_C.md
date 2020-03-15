@@ -30,7 +30,7 @@
   - 1941-42 - [크레모네세](../Page/US_크레모네세.md "wikilink"), [유벤티나 팔레르모](https://ko.wikipedia.org/wiki/US_팔레르모 "wikilink")
   - 1942-43 - [바레세](https://ko.wikipedia.org/wiki/AS_바레세_1910 "wikilink"), [프로 고리치아](https://ko.wikipedia.org/wiki/AS_프로_고리치아 "wikilink")
   - 1943-45 - *[2차 세계 대전으로](https://ko.wikipedia.org/wiki/2차_세계_대전 "wikilink") 연기됨*
-  - 1945-46 - [메스트리나](https://ko.wikipedia.org/wiki/칼초_메스트레 "wikilink"), [프라토](../Page/AC_프라토.md "wikilink"), [페루자](https://ko.wikipedia.org/wiki/페루자_칼초 "wikilink"), [알바 알라 로마](https://ko.wikipedia.org/wiki/알바_트라스테베레 "wikilink"), [베네벤토](https://ko.wikipedia.org/wiki/베네벤토_칼초 "wikilink"), [레체](https://ko.wikipedia.org/wiki/US_레체 "wikilink"), [레오네 팔레르모](https://ko.wikipedia.org/wiki/US_팔레르모 "wikilink")
+  - 1945-46 - [메스트리나](https://ko.wikipedia.org/wiki/칼초_메스트레 "wikilink"), [프라토](../Page/AC_프라토.md "wikilink"), [페루자](https://ko.wikipedia.org/wiki/페루자_칼초 "wikilink"), [알바 알라 로마](https://ko.wikipedia.org/wiki/알바_트라스테베레 "wikilink"), [베네벤토](../Page/베네벤토_칼초.md "wikilink"), [레체](https://ko.wikipedia.org/wiki/US_레체 "wikilink"), [레오네 팔레르모](https://ko.wikipedia.org/wiki/US_팔레르모 "wikilink")
   - 1946-47 - [마젠타](https://ko.wikipedia.org/wiki/AC_마젠타 "wikilink"), [비타 노바 PS 피에트로](https://ko.wikipedia.org/wiki/US_폰테_산_피에트로 "wikilink"), [볼차노](https://ko.wikipedia.org/wiki/FC_볼차노_1996 "wikilink"), [첸테세](https://ko.wikipedia.org/wiki/AC_첸테세 "wikilink"), [노체리나](https://ko.wikipedia.org/wiki/AG_노체리나_1910 "wikilink")
   - 1947-48 - *18개의 지역별 리그 운영, 세리에 B 승격 X*
   - 1948-49 - [판풀라 로디](https://ko.wikipedia.org/wiki/AC_판풀라_1874 "wikilink"), [우디니세](https://ko.wikipedia.org/wiki/우디네세_칼초 "wikilink"), [프라토](../Page/AC_프라토.md "wikilink"), [아벨리노](https://ko.wikipedia.org/wiki/US_아벨리노 "wikilink")

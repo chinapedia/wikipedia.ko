@@ -71,6 +71,6 @@
 
 ::\* [2016](https://ko.wikipedia.org/wiki/2016년_AFC컵 "wikilink") : 4강
 
-::\* [2017](https://ko.wikipedia.org/wiki/2017년_AFC컵 "wikilink") : 지역 예선
+::\* [2017](../Page/2017년_AFC컵.md "wikilink") : 지역 예선
 
 [분류:말레이시아의 축구단](https://ko.wikipedia.org/wiki/분류:말레이시아의_축구단 "wikilink") [분류:1972년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1972년_설립된_축구단 "wikilink")

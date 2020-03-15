@@ -20,7 +20,7 @@ CB
 
   - [도리아](https://ko.wikipedia.org/wiki/도리아 "wikilink")
   - [케네스 오메루오](../Page/케네스_오메루오.md "wikilink")
-  - [디미트리스 시오바스](https://ko.wikipedia.org/wiki/디미트리스_시오바스 "wikilink")
+  - [디미트리스 시오바스](../Page/디미트리스_시오바스.md "wikilink")
 
 RB
 

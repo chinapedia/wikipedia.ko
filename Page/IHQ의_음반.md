@@ -12,7 +12,7 @@
   - 2003년 5월 1일 차태현 - **The Book**
   - 2006년 3월 27일 현진영 - **Street Jazz In My Soul**
   - 2007년 5월 4일 현진영 - **Paradise**
-  - 2007년 6월 12일 [소울스타](https://ko.wikipedia.org/wiki/소울스타 "wikilink") - **우리가 이별할 때**\[1\]
+  - 2007년 6월 12일 [소울스타](../Page/소울스타.md "wikilink") - **우리가 이별할 때**\[1\]
   - 2008년 3월 13일 [써드코스트](https://ko.wikipedia.org/wiki/써드코스트 "wikilink") - **First Collection**
   - 2008년 3월 18일 [문희준](https://ko.wikipedia.org/wiki/문희준 "wikilink") - **MoonHeeJun Special Album**
   - 2009년 6월 18일 문희준 - **Last Cry**
@@ -49,13 +49,13 @@
   - 2013년 9월 6일 박재범 - **\[Digital Single\] Trill**
   - 2013년 10월 8일 투아이즈 - **Shooting Star**
   - 2013년 11월 4일 [김소현](https://ko.wikipedia.org/wiki/김소현 "wikilink") - **수상한 가정부 OST Part.3**
-  - 2014년 4월 11일 박재범 - **\[Digital Single\] [메트로놈 (Metronome)](https://ko.wikipedia.org/wiki/EVOLUTION_\(박재범의_음반\) "wikilink")**\[6\]
+  - 2014년 4월 11일 박재범 - **\[Digital Single\] [메트로놈 (Metronome)](../Page/EVOLUTION_\(박재범의_음반\).md "wikilink")**\[6\]
   - 2014년 5월 8일 [God](https://ko.wikipedia.org/wiki/god_\(음악_그룹\) "wikilink") - **\[Digital Single\] 미운오리새끼**\[7\]
   - 2014년 6월 1일 박재범 - **\[Digital Single\] Taekwondo**
   - 2014년 7월 8일 God - **[Chapter 8](../Page/Chapter_8.md "wikilink")**
-  - 2014년 7월 25일 박재범 - **\[Digital Single\] [나나 (NaNa)](https://ko.wikipedia.org/wiki/EVOLUTION_\(박재범의_음반\) "wikilink")**\[8\]
-  - 2014년 8월 18일 박재범 - **\[Digital Single\] [약속해](https://ko.wikipedia.org/wiki/EVOLUTION_\(박재범의_음반\) "wikilink")**\[9\]
-  - 2014년 9월 1일 박재범 - **[EVOLUTION](https://ko.wikipedia.org/wiki/EVOLUTION_\(박재범의_음반\) "wikilink")**
+  - 2014년 7월 25일 박재범 - **\[Digital Single\] [나나 (NaNa)](../Page/EVOLUTION_\(박재범의_음반\).md "wikilink")**\[8\]
+  - 2014년 8월 18일 박재범 - **\[Digital Single\] [약속해](../Page/EVOLUTION_\(박재범의_음반\).md "wikilink")**\[9\]
+  - 2014년 9월 1일 박재범 - **[EVOLUTION](../Page/EVOLUTION_\(박재범의_음반\).md "wikilink")**
   - 2014년 9월 16일 [박희본](https://ko.wikipedia.org/wiki/박희본 "wikilink") - **썸남썸녀 OST**
   - 2014년 10월 6일 김소현 - **리셋 OST Part.1**
   - 2014년 10월 22일 God - **\[Digital Single\] Thanks Edition \`바람\`**
@@ -147,23 +147,23 @@
 14. 박재범의 정규 3집 네 번째 선공개곡.
 15. [에이핑크](https://ko.wikipedia.org/wiki/에이핑크 "wikilink")의 멤버 [윤보미](https://ko.wikipedia.org/wiki/윤보미 "wikilink")도 앨범 참여.
 16. 박재범의 정규 3집 마지막 선공개곡.
-17. [지누션](https://ko.wikipedia.org/wiki/지누션 "wikilink"),[에픽하이](https://ko.wikipedia.org/wiki/에픽하이 "wikilink")의 멤버 [타블로](https://ko.wikipedia.org/wiki/타블로 "wikilink"),[산이](https://ko.wikipedia.org/wiki/산이 "wikilink"),[버벌 진트](https://ko.wikipedia.org/wiki/버벌_진트 "wikilink"),[로꼬](https://ko.wikipedia.org/wiki/로꼬 "wikilink"),[긱스의](https://ko.wikipedia.org/wiki/긱스_\(남성_듀오\) "wikilink") 멤버 [릴보이](https://ko.wikipedia.org/wiki/릴보이 "wikilink"),[베이식](https://ko.wikipedia.org/wiki/베이식_\(가수\) "wikilink"),[인크레더블](https://ko.wikipedia.org/wiki/인크레더블_\(래퍼\) "wikilink"),[블랙넛](https://ko.wikipedia.org/wiki/블랙넛 "wikilink"),[이노베이터](https://ko.wikipedia.org/wiki/이노베이터 "wikilink")도 앨범 참여.
+17. [지누션](https://ko.wikipedia.org/wiki/지누션 "wikilink"),[에픽하이](https://ko.wikipedia.org/wiki/에픽하이 "wikilink")의 멤버 [타블로](https://ko.wikipedia.org/wiki/타블로 "wikilink"),[산이](https://ko.wikipedia.org/wiki/산이 "wikilink"),[버벌 진트](https://ko.wikipedia.org/wiki/버벌_진트 "wikilink"),[로꼬](https://ko.wikipedia.org/wiki/로꼬 "wikilink"),[긱스의](https://ko.wikipedia.org/wiki/긱스_\(남성_듀오\) "wikilink") 멤버 [릴보이](../Page/릴보이.md "wikilink"),[베이식](https://ko.wikipedia.org/wiki/베이식_\(가수\) "wikilink"),[인크레더블](https://ko.wikipedia.org/wiki/인크레더블_\(래퍼\) "wikilink"),[블랙넛](../Page/블랙넛.md "wikilink"),[이노베이터](../Page/이노베이터.md "wikilink")도 앨범 참여.
 18. 박재범 정규 4집의 첫 번째 선공개곡.
 19. [윤현상](https://ko.wikipedia.org/wiki/윤현상 "wikilink")도 앨범 참여.
 20. 박재범 정규 4집의 두 번째 선공개곡.
 21. 박재범 정규 4집의 세 번째 선공객곡.
-22. [럭키제이](https://ko.wikipedia.org/wiki/럭키제이 "wikilink")의 멤버 [제시](https://ko.wikipedia.org/wiki/제시_\(가수\) "wikilink"),[조한결](https://ko.wikipedia.org/wiki/조한결 "wikilink"),[김석구](https://ko.wikipedia.org/wiki/김석구 "wikilink")도 앨범 참여.
+22. [럭키제이](../Page/럭키제이.md "wikilink")의 멤버 [제시](https://ko.wikipedia.org/wiki/제시_\(가수\) "wikilink"),[조한결](https://ko.wikipedia.org/wiki/조한결 "wikilink"),[김석구](https://ko.wikipedia.org/wiki/김석구 "wikilink")도 앨범 참여.
 23. [키썸](../Page/키썸.md "wikilink")도 앨범 참여.
-24. [어글리덕](https://ko.wikipedia.org/wiki/어글리덕 "wikilink")도 앨범 참여.
+24. [어글리덕](../Page/어글리덕.md "wikilink")도 앨범 참여.
 25. 박재범 정규 4집의 세 번째 선공개곡.
 26. [B1A4](https://ko.wikipedia.org/wiki/B1A4 "wikilink")의 멤버 [산들](https://ko.wikipedia.org/wiki/산들 "wikilink"),조한결,조선영도 앨범 참여.
 27. [기린도](https://ko.wikipedia.org/wiki/기린_\(가수\) "wikilink") 앨범 참여.
 28. 박재범 정규 4집의 다섯 번째 선공개곡.
 29. 박재범 정규 4집의 마지막 선공개곡.
-30. [젝스키스](https://ko.wikipedia.org/wiki/젝스키스 "wikilink")의 멤버 [장수원](https://ko.wikipedia.org/wiki/장수원 "wikilink"),[EXID](https://ko.wikipedia.org/wiki/EXID "wikilink")의 멤버 [혜린](https://ko.wikipedia.org/wiki/혜린 "wikilink"),[NRG의](https://ko.wikipedia.org/wiki/NRG_\(음악_그룹\) "wikilink") 멤버 [천명훈](https://ko.wikipedia.org/wiki/천명훈 "wikilink"),[딘딘](https://ko.wikipedia.org/wiki/딘딘 "wikilink"),[샵의](https://ko.wikipedia.org/wiki/샵_\(음악_그룹\) "wikilink") 멤버 [이지혜](https://ko.wikipedia.org/wiki/이지혜_\(1988년\) "wikilink"),[이세영](https://ko.wikipedia.org/wiki/이세영_\(가수\) "wikilink"),[주우재](https://ko.wikipedia.org/wiki/주우재 "wikilink")도 앨범 참여.
+30. [젝스키스](https://ko.wikipedia.org/wiki/젝스키스 "wikilink")의 멤버 [장수원](https://ko.wikipedia.org/wiki/장수원 "wikilink"),[EXID](https://ko.wikipedia.org/wiki/EXID "wikilink")의 멤버 [혜린](../Page/혜린.md "wikilink"),[NRG의](https://ko.wikipedia.org/wiki/NRG_\(음악_그룹\) "wikilink") 멤버 [천명훈](https://ko.wikipedia.org/wiki/천명훈 "wikilink"),[딘딘](../Page/딘딘.md "wikilink"),[샵의](https://ko.wikipedia.org/wiki/샵_\(음악_그룹\) "wikilink") 멤버 [이지혜](https://ko.wikipedia.org/wiki/이지혜_\(1988년\) "wikilink"),[이세영](https://ko.wikipedia.org/wiki/이세영_\(가수\) "wikilink"),[주우재](../Page/주우재.md "wikilink")도 앨범 참여.
 31. [레드벨벳의](../Page/레드벨벳_\(음악_그룹\).md "wikilink") 멤버 [조이도](../Page/조이_\(가수\).md "wikilink") 앨범 참여.
 32. [차지연](https://ko.wikipedia.org/wiki/차지연 "wikilink")도 앨범 참여.
 33. [015B](https://ko.wikipedia.org/wiki/015B "wikilink")도 앨범 참여.
-34. [혁오](https://ko.wikipedia.org/wiki/혁오 "wikilink")도 앨범 참여.
+34. [혁오](../Page/혁오.md "wikilink")도 앨범 참여.
 35. god의 데뷔 20주년 기념 앨범.
-36. [빅톤의](https://ko.wikipedia.org/wiki/빅톤_\(음악_그룹\) "wikilink") 두 멤버 [한승우](https://ko.wikipedia.org/wiki/한승우_\(가수\) "wikilink"),[최병찬](https://ko.wikipedia.org/wiki/최병찬 "wikilink"),[유니크의](https://ko.wikipedia.org/wiki/유니크_\(음악_그룹\) "wikilink") 멤버 [조승연](https://ko.wikipedia.org/wiki/조승연_\(가수\) "wikilink"),[인투잇](https://ko.wikipedia.org/wiki/인투잇 "wikilink")의 멤버 [성현](https://ko.wikipedia.org/wiki/인투잇 "wikilink") 외 96명도 앨범 참여.
+36. [빅톤의](https://ko.wikipedia.org/wiki/빅톤_\(음악_그룹\) "wikilink") 두 멤버 [한승우](https://ko.wikipedia.org/wiki/한승우_\(가수\) "wikilink"),[최병찬](https://ko.wikipedia.org/wiki/최병찬 "wikilink"),[유니크의](../Page/유니크_\(음악_그룹\).md "wikilink") 멤버 [조승연](https://ko.wikipedia.org/wiki/조승연_\(가수\) "wikilink"),[인투잇](https://ko.wikipedia.org/wiki/인투잇 "wikilink")의 멤버 [성현](https://ko.wikipedia.org/wiki/인투잇 "wikilink") 외 96명도 앨범 참여.
