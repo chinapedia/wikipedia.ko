@@ -33,7 +33,7 @@
 
   - 에도가와 토무 - [제시](https://ko.wikipedia.org/wiki/제시_\(배우\) "wikilink") ([쟈니즈 Jr.](https://ko.wikipedia.org/wiki/자니스_주니어 "wikilink"))
     레이지의 조수.
-  - 쿠리야마 카오루 - [야마모토 미즈키](https://ko.wikipedia.org/wiki/야마모토_미즈키 "wikilink")
+  - 쿠리야마 카오루 - [야마모토 미즈키](../Page/야마모토_미즈키.md "wikilink")
     레이지의 조수.
   - 쿠라타 토모하루 - 이케다 다이
     레이지의 조수.
@@ -49,7 +49,7 @@
 
 ### 그 외
 
-  - 사프리 - [혼다 츠바사](https://ko.wikipedia.org/wiki/혼다_츠바사 "wikilink")
+  - 사프리 - [혼다 츠바사](../Page/혼다_츠바사.md "wikilink")
     안도 로이도의 수리를 하는 서플라이어 안드로이드.
   - 수수께끼의 미소녀 - [키리타니 미레이](https://ko.wikipedia.org/wiki/키리타니_미레이 "wikilink")
     하얀 세라복을 몸에 걸치고 있는 수수께끼의 여고생.
@@ -181,7 +181,7 @@
 
 ## 스태프
 
-  - 각본 - [니시오기 유미에](https://ko.wikipedia.org/wiki/니시오기_유미에 "wikilink"), 이즈미자와 요코
+  - 각본 - [니시오기 유미에](../Page/니시오기_유미에.md "wikilink"), 이즈미자와 요코
   - 음악 - 칸노 유고
   - 주제가 - [타케우치 마리야](https://ko.wikipedia.org/wiki/다케우치_마리야 "wikilink") 〈Your Eyes〉 ([워너 뮤직 재팬](https://ko.wikipedia.org/wiki/워너_뮤직_재팬 "wikilink"))
   - 연출 - 하타노 타카후미, 키무라 히사시, 츠보이 토시오

@@ -21,9 +21,9 @@
 
 ## 구성원
 
-  - [슈](https://ko.wikipedia.org/wiki/슈_\(1980년\) "wikilink") ([기타](https://ko.wikipedia.org/wiki/기타 "wikilink"), [코러스](https://ko.wikipedia.org/wiki/코러스_\(대중음악\) "wikilink"), 리더)
+  - [슈](../Page/슈_\(1980년\).md "wikilink") ([기타](https://ko.wikipedia.org/wiki/기타 "wikilink"), [코러스](https://ko.wikipedia.org/wiki/코러스_\(대중음악\) "wikilink"), 리더)
   - 유키 ([키보드](https://ko.wikipedia.org/wiki/건반_악기 "wikilink"), [해먼드 오르간](https://ko.wikipedia.org/wiki/해먼드_오르간 "wikilink"), [숄더 키보드](https://ko.wikipedia.org/wiki/숄더_키보드 "wikilink"), [코러스](https://ko.wikipedia.org/wiki/코러스_\(대중음악\) "wikilink"))
-  - [오노 마사토시](https://ko.wikipedia.org/wiki/오노_마사토시 "wikilink") ([보컬](https://ko.wikipedia.org/wiki/가창 "wikilink"))
+  - [오노 마사토시](../Page/오노_마사토시.md "wikilink") ([보컬](https://ko.wikipedia.org/wiki/가창 "wikilink"))
   - 타카 ([베이스](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink"))
   - 모리시타 후미야 ([드럼](https://ko.wikipedia.org/wiki/드럼셋 "wikilink"))
 
@@ -62,15 +62,15 @@ Galneryus 결성 때부터 밴드를 거쳐갔던 구성원들이다.
 
 ## 음악 성향
 
-[파워 메탈의](https://ko.wikipedia.org/wiki/파워_메탈 "wikilink") 격렬한 선율 속에 정취적인 울음의 멜로디를 포함하여 복잡한 변박자를 가져온 [네오클래시컬 메탈적인](https://ko.wikipedia.org/wiki/네오클래시컬_메탈 "wikilink") 합창과 [교향곡](https://ko.wikipedia.org/wiki/교향곡 "wikilink")을 많이 쓰고 있다.
+[파워 메탈의](https://ko.wikipedia.org/wiki/파워_메탈 "wikilink") 격렬한 선율 속에 정취적인 울음의 멜로디를 포함하여 복잡한 변박자를 가져온 [네오클래시컬 메탈적인](../Page/네오클래시컬_메탈.md "wikilink") 합창과 [교향곡](https://ko.wikipedia.org/wiki/교향곡 "wikilink")을 많이 쓰고 있다.
 
-[바이올린 협주곡 (차이콥스키)](https://ko.wikipedia.org/wiki/바이올린_협주곡_\(차이콥스키\) "wikilink") Op.35를 모티브로 한 여덟 번째 앨범의 표제곡 ANGEL OF SALVATION과 앨범, REINCARNATION의 수록곡인 THE FLAG OF REINCARNATION, ADVANCE TO THE FALL 수록곡인 DREAM PLACE처럼 [클래식 음악의](https://ko.wikipedia.org/wiki/클래식_음악 "wikilink") 명곡 문구를 [기타](https://ko.wikipedia.org/wiki/기타 "wikilink") 솔로에 도입하는 등 많은 곡에 [바이올린](https://ko.wikipedia.org/wiki/바이올린 "wikilink") 소양을 살린 [네오클래시컬 메탈적인](https://ko.wikipedia.org/wiki/네오클래시컬_메탈 "wikilink") 요소도 보인다.
+[바이올린 협주곡 (차이콥스키)](https://ko.wikipedia.org/wiki/바이올린_협주곡_\(차이콥스키\) "wikilink") Op.35를 모티브로 한 여덟 번째 앨범의 표제곡 ANGEL OF SALVATION과 앨범, REINCARNATION의 수록곡인 THE FLAG OF REINCARNATION, ADVANCE TO THE FALL 수록곡인 DREAM PLACE처럼 [클래식 음악의](../Page/클래식_음악.md "wikilink") 명곡 문구를 [기타](https://ko.wikipedia.org/wiki/기타 "wikilink") 솔로에 도입하는 등 많은 곡에 [바이올린](https://ko.wikipedia.org/wiki/바이올린 "wikilink") 소양을 살린 [네오클래시컬 메탈적인](../Page/네오클래시컬_메탈.md "wikilink") 요소도 보인다.
 
 또한 연주 기술을 가지고 밴드 활동 외에 악기 세미나와 [유투브](https://ko.wikipedia.org/wiki/유투브 "wikilink") 동영상을 통해 국내외를 불문하고 많은 밴드 플레이어의 지지를 모으고 있다.
 
 맴버들간 교류가 넓고 많은 음악 잡지나 라이브 이벤트에서 국내외 아티스트와 공동 출연 하고 서포트 멤버로 다양한 스튜디오 음원이나 라이브에 참가하는 경우가 많다.
 
-첫 번째 앨범부터 다섯 번째 앨범까지 전직 [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink") 리스트인 야마구치 마사히로()가 맴버로 활약할 당시 [파워 메탈의](https://ko.wikipedia.org/wiki/파워_메탈 "wikilink") 요소를 내세운 곡에서 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")에 가입한 [오노 마사토시가](https://ko.wikipedia.org/wiki/오노_마사토시 "wikilink") 등록한 여섯 번째 앨범에서 [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink")의 넓은 음역을 살려 질주감에 중점을 둔 [멜로딕 스피드 메탈의](https://ko.wikipedia.org/wiki/멜로딕_스피드_메탈 "wikilink") 요소를 내세운 곡이 인기를 모으고 있다. 이후 꾸준히 인기를 상승하면서 [오리콘 차트](https://ko.wikipedia.org/wiki/오리콘_차트 "wikilink") 탑 20위 안에 들어갔다. 또한 [방송](https://ko.wikipedia.org/wiki/방송 "wikilink") 출연 증가와 동시에 [라이브](https://ko.wikipedia.org/wiki/라이브 "wikilink") 공연도 점차 늘려갔다.
+첫 번째 앨범부터 다섯 번째 앨범까지 전직 [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink") 리스트인 야마구치 마사히로()가 맴버로 활약할 당시 [파워 메탈의](https://ko.wikipedia.org/wiki/파워_메탈 "wikilink") 요소를 내세운 곡에서 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")에 가입한 [오노 마사토시가](../Page/오노_마사토시.md "wikilink") 등록한 여섯 번째 앨범에서 [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink")의 넓은 음역을 살려 질주감에 중점을 둔 [멜로딕 스피드 메탈의](https://ko.wikipedia.org/wiki/멜로딕_스피드_메탈 "wikilink") 요소를 내세운 곡이 인기를 모으고 있다. 이후 꾸준히 인기를 상승하면서 [오리콘 차트](https://ko.wikipedia.org/wiki/오리콘_차트 "wikilink") 탑 20위 안에 들어갔다. 또한 [방송](https://ko.wikipedia.org/wiki/방송 "wikilink") 출연 증가와 동시에 [라이브](https://ko.wikipedia.org/wiki/라이브 "wikilink") 공연도 점차 늘려갔다.
 
 ## 음반
 

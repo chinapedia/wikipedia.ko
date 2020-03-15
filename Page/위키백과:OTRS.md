@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [:OTRS](https://ko.wikipedia.org/wiki/:OTRS).
 
 
-[100px](https://ko.wikipedia.org/wiki/파일:Exp_OTRS.png "wikilink") 위키미디어 **OTRS**([Open-source Tickets Request System](https://ko.wikipedia.org/wiki/OTRS "wikilink"), 열린 자료 허가 요청 체계)는 위키백과나 위키미디어와 관련한 문의 사항이나 위키미디어 프로젝트에 대한 저작권 이용 허락을 접수하는 창구입니다. OTRS로 들어오는 문의 사항은 여러 언어를 구사하는 자원봉사자가 처리하게 됩니다.
+[100px](https://ko.wikipedia.org/wiki/파일:Exp_OTRS.png "wikilink") 위키미디어 **OTRS**([Open-source Tickets Request System](../Page/OTRS.md "wikilink"), 열린 자료 허가 요청 체계)는 위키백과나 위키미디어와 관련한 문의 사항이나 위키미디어 프로젝트에 대한 저작권 이용 허락을 접수하는 창구입니다. OTRS로 들어오는 문의 사항은 여러 언어를 구사하는 자원봉사자가 처리하게 됩니다.
 
 OTRS 자원봉사자는 위키미디어 프로젝트에서 좋은 평판을 갖고 있어야 하며, 문의 사항에 대해 친절하게 답변할 수 있어야 합니다. 위키미디어 재단의 개인정보 정책에서는 상대방의 개인 정보를 명시적인 동의 없이 알리는 것을 금지하고 있습니다. 특정한 OTRS 티켓에 대한 정보를 요청받은 때에는 개인 정보를 함부로 누설해서는 안 됩니다.
 

@@ -68,7 +68,7 @@
 [19]</p></td>
 </tr>
 <tr class="even">
-<td><p>"<a href="https://ko.wikipedia.org/wiki/첫_사랑니_(Rum_Pum_Pum_Pum)" title="wikilink">첫 사랑니 (Rum Pum Pum Pum)</a>"</p></td>
+<td><p>"<a href="../Page/첫_사랑니_(Rum_Pum_Pum_Pum).md" title="wikilink">첫 사랑니 (Rum Pum Pum Pum)</a>"</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">

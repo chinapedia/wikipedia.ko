@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Roar](https://ko.wikipedia.org/wiki/Roar).
 
 
-"**Roar**"는 미국의 가수 [케이티 페리의](https://ko.wikipedia.org/wiki/케이티_페리 "wikilink") 노래로, 네 번째 정규 앨범 *[Prism](https://ko.wikipedia.org/wiki/Prism_\(케이티_페리의_음반\) "wikilink")*의 리드 싱글이다. 노래의 작사와 작곡에는 케이티 페리, 보니 맥키, 맥스 마틴, Lukasz Gottwald, Cirkut\[1\] 가 참여했다. "Roar"는 미디엄템포의 [파워 팝](https://ko.wikipedia.org/wiki/파워_팝 "wikilink") 장르 노래이다.
+"**Roar**"는 미국의 가수 [케이티 페리의](https://ko.wikipedia.org/wiki/케이티_페리 "wikilink") 노래로, 네 번째 정규 앨범 *[Prism](../Page/Prism_\(케이티_페리의_음반\).md "wikilink")*의 리드 싱글이다. 노래의 작사와 작곡에는 케이티 페리, 보니 맥키, 맥스 마틴, Lukasz Gottwald, Cirkut\[1\] 가 참여했다. "Roar"는 미디엄템포의 [파워 팝](https://ko.wikipedia.org/wiki/파워_팝 "wikilink") 장르 노래이다.
 
 음악 평론가들은 페리의 새 앨범과 라디오에서 히트 할 것이 확실하다며 대체로 긍정적인 평가를 내렸다.\[2\]\[3\] 대부분 긍정적인 평가를 받았지만 일부에서는 반복되는가사로 인해 지루하다며 지적했다.\[4\] "Roar"는 [빌보드 핫 100](https://ko.wikipedia.org/wiki/빌보드_핫_100 "wikilink") 1위에 오르며 페리의 여덟 번째 1위 곡이 되었다. 또한 "[Firework](https://ko.wikipedia.org/wiki/Firework "wikilink")"을 제치고 지금까지 페리 싱글 중 가장 높은 주간 판매량을 기록했다. 이 외에 9개 국가에서 1위, 25개 국가에서 10위권에 진입했다. 그래디 홀과 마크 쿠드시가 감독을 맡은 "Roar"의 뮤직비디오는 2013년 9월 5일 공개되었다. 촬영은 로스앤젤레스 카운티 수목원에서 진행되었다.\[5\]\[6\]
 

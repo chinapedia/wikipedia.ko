@@ -13,9 +13,9 @@
   - [뉴스A LIVE](https://ko.wikipedia.org/wiki/뉴스A_LIVE "wikilink")
   - [사건 상황실](https://ko.wikipedia.org/wiki/사건_상황실 "wikilink")
   - [정치 데스크](https://ko.wikipedia.org/wiki/정치_데스크 "wikilink")
-  - [채널A 뉴스 TOP 10](https://ko.wikipedia.org/wiki/채널A_뉴스_TOP_10 "wikilink")
+  - [채널A 뉴스 TOP 10](../Page/채널A_뉴스_TOP_10.md "wikilink")
   - [뉴스A](https://ko.wikipedia.org/wiki/뉴스A "wikilink")
-  - [채널A 뉴스뱅크](https://ko.wikipedia.org/wiki/채널A_뉴스뱅크 "wikilink")
+  - [채널A 뉴스뱅크](../Page/채널A_뉴스뱅크.md "wikilink")
 
 ## 외부 링크
 

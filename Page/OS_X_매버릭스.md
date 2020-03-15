@@ -3,7 +3,7 @@
 
 **OS X 매버릭스**(OS X Mavericks, 버전 10.9)는 [애플의](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 10번 째 주요 [OS X](https://ko.wikipedia.org/wiki/OS_X "wikilink") [운영 체제이다](https://ko.wikipedia.org/wiki/운영_체제 "wikilink"). [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [6월 10일](https://ko.wikipedia.org/wiki/6월_10일 "wikilink") [WWDC 2013에서](https://ko.wikipedia.org/wiki/애플_세계_개발자_회의 "wikilink") 발표되었다. [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [10월 22일](https://ko.wikipedia.org/wiki/10월_22일 "wikilink") 애플은 OS X 매버릭스를 무료로 배포하겠다고 밝혔으며 같은 달 23일부터 정식 버전의 배포가 시작되었다.\[1\]\[2\]
 
-기존 [맥 OS 10](https://ko.wikipedia.org/wiki/OS_X "wikilink") 버전 대는 [고양이](https://ko.wikipedia.org/wiki/고양이 "wikilink")과의 [펫 네임을](https://ko.wikipedia.org/wiki/펫_네임 "wikilink") 사용했는데, 10.8([마운틴 라이언](https://ko.wikipedia.org/wiki/OS_X_마운틴_라이언 "wikilink"))을 마지막으로 10.9([매버릭스](https://ko.wikipedia.org/wiki/OS_X_매버릭스 "wikilink")) 부터는 [미국 캘리포니아 주의](https://ko.wikipedia.org/wiki/캘리포니아_주 "wikilink") 지명을 사용하기 시작했다. 후속 버전은 [OS X 요세미티이다](https://ko.wikipedia.org/wiki/OS_X_요세미티 "wikilink").
+기존 [맥 OS 10](https://ko.wikipedia.org/wiki/OS_X "wikilink") 버전 대는 [고양이](https://ko.wikipedia.org/wiki/고양이 "wikilink")과의 [펫 네임을](https://ko.wikipedia.org/wiki/펫_네임 "wikilink") 사용했는데, 10.8([마운틴 라이언](https://ko.wikipedia.org/wiki/OS_X_마운틴_라이언 "wikilink"))을 마지막으로 10.9([매버릭스](../Page/OS_X_매버릭스.md "wikilink")) 부터는 [미국 캘리포니아 주의](https://ko.wikipedia.org/wiki/캘리포니아_주 "wikilink") 지명을 사용하기 시작했다. 후속 버전은 [OS X 요세미티이다](../Page/OS_X_요세미티.md "wikilink").
 
 2013년 10월 22일, 애플은 자사의 운영 체제와 비즈니스 소프트웨어의 수명을 위해 무료 업그레이드를 제공하였다.\[3\]
 

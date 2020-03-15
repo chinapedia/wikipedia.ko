@@ -5,7 +5,7 @@
 
 ## 주요 사양
 
-  - 프로세서: 제 4세대 [해스웰](https://ko.wikipedia.org/wiki/하스웰_\(마이크로아키텍처\) "wikilink") 2.6 GHz [인텔 코어](https://ko.wikipedia.org/wiki/인텔_코어 "wikilink") i5 4200U
+  - 프로세서: 제 4세대 [해스웰](https://ko.wikipedia.org/wiki/하스웰_\(마이크로아키텍처\) "wikilink") 2.6 GHz [인텔 코어](../Page/인텔_코어.md "wikilink") i5 4200U
   - 메모리: DDR3 4GB
   - 13.3 인치 터치 스크린
   - 해상도: 3200 x 1800 (275 [ppi](https://ko.wikipedia.org/wiki/화소_밀도 "wikilink"))

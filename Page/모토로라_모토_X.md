@@ -24,7 +24,7 @@
 
 ### 음성인식
 
-모토 X는 **[모토로라 X8 모바일 컴퓨팅 시스템](https://ko.wikipedia.org/wiki/모토로라_X8_모바일_컴퓨팅_시스템 "wikilink")** 내부에 따로 음성인식칩이 존재하듯이 음성인식에 초점을두고있기때문에, 특별히 음성익식기능을 실행할필요없이 평상시에도 사람의 말을 알아들어 목소리만으로 다양한 기능을 실행할 수 있는 음성 인식 기능을 지원한다.\[9\]
+모토 X는 **[모토로라 X8 모바일 컴퓨팅 시스템](../Page/모토로라_X8_모바일_컴퓨팅_시스템.md "wikilink")** 내부에 따로 음성인식칩이 존재하듯이 음성인식에 초점을두고있기때문에, 특별히 음성익식기능을 실행할필요없이 평상시에도 사람의 말을 알아들어 목소리만으로 다양한 기능을 실행할 수 있는 음성 인식 기능을 지원한다.\[9\]
 
 [음성인식기능 모토로라 공식 설명 동영상](https://www.youtube.com/watch?v=xXyCbrdQEyA)
 
@@ -70,11 +70,11 @@
 ## 경쟁 기종
 
   - [소니 엑스페리아 Z 울트라](../Page/소니_엑스페리아_Z_울트라.md "wikilink")
-  - [LG G2](https://ko.wikipedia.org/wiki/LG_G2 "wikilink")
-  - [삼성 갤럭시 노트 3](https://ko.wikipedia.org/wiki/삼성_갤럭시_노트_3 "wikilink")
-  - [소니 엑스페리아 Z1](https://ko.wikipedia.org/wiki/소니_엑스페리아_Z1 "wikilink")
+  - [LG G2](../Page/LG_G2.md "wikilink")
+  - [삼성 갤럭시 노트 3](../Page/삼성_갤럭시_노트_3.md "wikilink")
+  - [소니 엑스페리아 Z1](../Page/소니_엑스페리아_Z1.md "wikilink")
   - [애플 아이폰 5S](https://ko.wikipedia.org/wiki/애플_아이폰_5S "wikilink")
-  - [LG G 프로 2](https://ko.wikipedia.org/wiki/LG_G_프로_2 "wikilink")
+  - [LG G 프로 2](../Page/LG_G_프로_2.md "wikilink")
   - [베가 시크릿 노트](https://ko.wikipedia.org/wiki/베가_시크릿_노트 "wikilink")
   - [베가 LTE-A](https://ko.wikipedia.org/wiki/베가_LTE-A "wikilink")
   - [베가 시크릿 업](https://ko.wikipedia.org/wiki/베가_시크릿_업 "wikilink")

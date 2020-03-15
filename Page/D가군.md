@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [D](https://ko.wikipedia.org/wiki/D).
 
 
-[수학](https://ko.wikipedia.org/wiki/수학 "wikilink")에서, **D가군**()은 [미분 연산자들의](https://ko.wikipedia.org/wiki/미분_연산자 "wikilink") 환에 대한 [가군층](https://ko.wikipedia.org/wiki/가군층 "wikilink")이다. 선형 [편미분 방정식의](https://ko.wikipedia.org/wiki/편미분_방정식 "wikilink") 추상화이며, 또한 평탄한 [코쥘 접속을](https://ko.wikipedia.org/wiki/코쥘_접속 "wikilink") 갖춘 [벡터 다발의](https://ko.wikipedia.org/wiki/벡터_다발 "wikilink") 일반화이다.
+[수학](https://ko.wikipedia.org/wiki/수학 "wikilink")에서, **D가군**()은 [미분 연산자들의](https://ko.wikipedia.org/wiki/미분_연산자 "wikilink") 환에 대한 [가군층](../Page/가군층.md "wikilink")이다. 선형 [편미분 방정식의](https://ko.wikipedia.org/wiki/편미분_방정식 "wikilink") 추상화이며, 또한 평탄한 [코쥘 접속을](https://ko.wikipedia.org/wiki/코쥘_접속 "wikilink") 갖춘 [벡터 다발의](https://ko.wikipedia.org/wiki/벡터_다발 "wikilink") 일반화이다.
 
 ## 정의
 
-\(X\)가 [표수 0인](https://ko.wikipedia.org/wiki/체의_표수 "wikilink") [체](https://ko.wikipedia.org/wiki/체_\(수학\) "wikilink") \(k\)에 대한 [비특이 대수다양체라고](https://ko.wikipedia.org/wiki/비특이_대수다양체 "wikilink") 하고, \(X\) 위의 정칙함수들의 [층을](https://ko.wikipedia.org/wiki/층_\(수학\) "wikilink") \(\mathcal O_X\)라고 하자. 또한, \(X\) 위의 (대수적) 벡터장들로 생성되는 \(\mathcal O_X\)-[가군층](https://ko.wikipedia.org/wiki/가군층 "wikilink") \(\mathcal D_X\)를 생각하자. 이는 미분 연산자들로 간주할 수 있다.
+\(X\)가 [표수 0인](https://ko.wikipedia.org/wiki/체의_표수 "wikilink") [체](https://ko.wikipedia.org/wiki/체_\(수학\) "wikilink") \(k\)에 대한 [비특이 대수다양체라고](https://ko.wikipedia.org/wiki/비특이_대수다양체 "wikilink") 하고, \(X\) 위의 정칙함수들의 [층을](https://ko.wikipedia.org/wiki/층_\(수학\) "wikilink") \(\mathcal O_X\)라고 하자. 또한, \(X\) 위의 (대수적) 벡터장들로 생성되는 \(\mathcal O_X\)-[가군층](../Page/가군층.md "wikilink") \(\mathcal D_X\)를 생각하자. 이는 미분 연산자들로 간주할 수 있다.
 
 \(X\) 위의 **D가군** \((\mathcal M,\nabla)\)은 다음과 같은 데이터로 이루어져 있다.
 
-  - \(\mathcal O_X\)-[가군층](https://ko.wikipedia.org/wiki/가군층 "wikilink") \(\mathcal M\)
+  - \(\mathcal O_X\)-[가군층](../Page/가군층.md "wikilink") \(\mathcal M\)
   - \(k\)-[선형사상](https://ko.wikipedia.org/wiki/선형사상 "wikilink") \(\nabla\colon\mathcal D_X\to\operatorname{End}(M)\), \(v\mapsto\nabla_v\)
 
 이는 다음과 같은 공리를 만족시켜야 한다. 모든 \(\mathcal O_X\)의 단면 \(f\), \(\mathcal M\)의 단면 \(m\), \(X\) 위의 [벡터장](https://ko.wikipedia.org/wiki/벡터장 "wikilink") \(u,v\)에 대하여,

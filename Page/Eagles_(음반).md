@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Eagles \(\)](https://ko.wikipedia.org/wiki/Eagles_\(\)).
 
 
-《**Eagles**》는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 록 밴드 [이글스](https://ko.wikipedia.org/wiki/이글스 "wikilink")의 데뷔 스튜디오 음반이다. 이 음반은 프로듀서 [글린 존스와](https://ko.wikipedia.org/wiki/글린_존스 "wikilink") 함께 [런던](https://ko.wikipedia.org/wiki/런던 "wikilink")의 [올림픽 스튜디오에서](https://ko.wikipedia.org/wiki/올림픽_스튜디오 "wikilink") 녹음되어 1972년에 발매되었다. 이 음반은 이 젊은 밴드에게 즉각적인 성공을 거두어 차트에서 22위에 올랐고 플래티넘에 올랐다. 음반에서 3개의 싱글이 발매되었는데, 각각 〈[Take It Easy](https://ko.wikipedia.org/wiki/Take_It_Easy "wikilink")〉(12위), 〈[Witchy Woman](https://ko.wikipedia.org/wiki/Witchy_Woman "wikilink")〉(9위), 〈[Peaceful Easy Feeling](https://ko.wikipedia.org/wiki/Peaceful_Easy_Feeling "wikilink")〉(22위) 등 상위 40위에 올랐다. 이 음반을 시작으로 이 밴드는 [컨트리 록](https://ko.wikipedia.org/wiki/컨트리_록 "wikilink") 사운드를 대중화하는 데 큰 역할을 했다.\[1\]
+《**Eagles**》는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 록 밴드 [이글스](https://ko.wikipedia.org/wiki/이글스 "wikilink")의 데뷔 스튜디오 음반이다. 이 음반은 프로듀서 [글린 존스와](https://ko.wikipedia.org/wiki/글린_존스 "wikilink") 함께 [런던](https://ko.wikipedia.org/wiki/런던 "wikilink")의 [올림픽 스튜디오에서](https://ko.wikipedia.org/wiki/올림픽_스튜디오 "wikilink") 녹음되어 1972년에 발매되었다. 이 음반은 이 젊은 밴드에게 즉각적인 성공을 거두어 차트에서 22위에 올랐고 플래티넘에 올랐다. 음반에서 3개의 싱글이 발매되었는데, 각각 〈[Take It Easy](../Page/Take_It_Easy.md "wikilink")〉(12위), 〈[Witchy Woman](https://ko.wikipedia.org/wiki/Witchy_Woman "wikilink")〉(9위), 〈[Peaceful Easy Feeling](https://ko.wikipedia.org/wiki/Peaceful_Easy_Feeling "wikilink")〉(22위) 등 상위 40위에 올랐다. 이 음반을 시작으로 이 밴드는 [컨트리 록](https://ko.wikipedia.org/wiki/컨트리_록 "wikilink") 사운드를 대중화하는 데 큰 역할을 했다.\[1\]
 
 이 음반은 《[롤링 스톤](https://ko.wikipedia.org/wiki/롤링_스톤 "wikilink")》이 2012년에 발표한 [역사상 가장 위대한 음반 500장](https://ko.wikipedia.org/wiki/역사상_가장_위대한_음반_500장 "wikilink") 순위에서 368위에 올랐다. 싱글 〈Take It Easy〉는 [로큰롤 명예의 전당](https://ko.wikipedia.org/wiki/로큰롤_명예의_전당 "wikilink") "로큰롤의 모습을 한 500곡"의 일부분이다.\[2\] 이 음반은 [4부작](https://ko.wikipedia.org/wiki/4부작_사운드 "wikilink") 발매 예정이었고 4부작 카탈로그 번호까지 주어졌지만 결코 그런 형식으로 발매되지 않았다.
 
@@ -9,7 +9,7 @@
 
 ### 앞면
 
-1.  "[Take It Easy](https://ko.wikipedia.org/wiki/Take_It_Easy "wikilink")" - 3:34
+1.  "[Take It Easy](../Page/Take_It_Easy.md "wikilink")" - 3:34
 2.  "[Witchy Woman](https://ko.wikipedia.org/wiki/Witchy_Woman "wikilink")" - 4:14
 3.  "Chug All Night" - 3:18
 4.  "Most of Us Are Sad" - 3:38

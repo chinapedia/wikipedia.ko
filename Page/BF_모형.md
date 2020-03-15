@@ -9,7 +9,7 @@
 
 **BF 모형**은 다음과 같은 두 장으로 구성되는 [양자장론](https://ko.wikipedia.org/wiki/양자장론 "wikilink")이다.
 
-  - \(A\)는 \(P\)의 [주접속](https://ko.wikipedia.org/wiki/주접속 "wikilink")이다. 즉, [게이지 보손에](https://ko.wikipedia.org/wiki/게이지_보손 "wikilink") 해당한다.
+  - \(A\)는 \(P\)의 [주접속](../Page/주접속.md "wikilink")이다. 즉, [게이지 보손에](https://ko.wikipedia.org/wiki/게이지_보손 "wikilink") 해당한다.
   - \(B\in\Omega^{d-2}(M;\mathfrak g)\)는 \(M\) 위에 정의된, 리 대수 \(\mathfrak g\)에 값을 갖는 \((d-2)\)차 [미분 형식이다](https://ko.wikipedia.org/wiki/미분_형식 "wikilink").
 
 두 장 모두 [게이지 대칭을](https://ko.wikipedia.org/wiki/게이지_대칭 "wikilink") 가진다.\[3\]
@@ -59,7 +59,7 @@ BF 모형의 [작용은](https://ko.wikipedia.org/wiki/작용_\(물리학\) "wik
 
   - \(\mathcal A^{\text{flat}}_\Sigma\)는 \(P\twoheadrightarrow\Sigma\)의 [평탄 주접속들의](https://ko.wikipedia.org/wiki/평탄_주접속 "wikilink") 공간이다.
 
-이 경우, [주접속](https://ko.wikipedia.org/wiki/주접속 "wikilink") \(A_\mu^a\)에 대응하는 [일반화 운동량은](https://ko.wikipedia.org/wiki/일반화_운동량 "wikilink") \(B^a_{\mu_1\dotsb\mu_{d-2}}\)이다. 즉, 정준 교환 관계는 다음과 같다.
+이 경우, [주접속](../Page/주접속.md "wikilink") \(A_\mu^a\)에 대응하는 [일반화 운동량은](https://ko.wikipedia.org/wiki/일반화_운동량 "wikilink") \(B^a_{\mu_1\dotsb\mu_{d-2}}\)이다. 즉, 정준 교환 관계는 다음과 같다.
 
 \[\{
 B^a_{\mu_1\dotso\mu_{d-2}}(x),A_{b\mu_{d-1}}(y)
@@ -123,7 +123,7 @@ BF 모형에 [초대칭](https://ko.wikipedia.org/wiki/초대칭 "wikilink")을 
 
 이에 따라, 작용은 다음과 같다.\[6\]
 
-\[S=Q\int(\chi F+\bar\phi d*\psi)=\int \left(BF+(-1)^d\chi d\psi+\eta d*\psi+\bar\phi[\psi,*\psi]-\bar\phi d*d\phi\right)\] 초대칭이 없는 경우와 마찬가지로, 이 경우 이론은 \(M\) 위의 \(G\)-[평탄 주접속들의](https://ko.wikipedia.org/wiki/평탄_주접속 "wikilink") [모듈라이 공간의](https://ko.wikipedia.org/wiki/모듈라이_공간 "wikilink") 특성을 계산한다.
+\[S=Q\int(\chi F+\bar\phi d*\psi)=\int \left(BF+(-1)^d\chi d\psi+\eta d*\psi+\bar\phi[\psi,*\psi]-\bar\phi d*d\phi\right)\] 초대칭이 없는 경우와 마찬가지로, 이 경우 이론은 \(M\) 위의 \(G\)-[평탄 주접속들의](https://ko.wikipedia.org/wiki/평탄_주접속 "wikilink") [모듈라이 공간의](../Page/모듈라이_공간.md "wikilink") 특성을 계산한다.
 
 만약 시공간이 3차원일 경우 (\(d=3\)), 이 이론은 추가로 \(\mathcal N_T=2\) 위상 초대칭을 갖는다.\[7\]\[8\] 즉, 두 개의 스칼라 초전하(BRST 연산자)를 가지며, 이 둘을 섞는 SU(2) [R대칭](../Page/R대칭.md "wikilink")이 존재하며, 이 아래 \((\chi,\psi)\)는 SU(2)의 2차원 기본 표현을 따른다. 이 이론은 3차원 \(\mathcal N=4\) 게이지 이론의 A-뒤틂과 같으며, 이는 [도널드슨 이론을](https://ko.wikipedia.org/wiki/도널드슨_이론 "wikilink") 3차원으로 [축소화](https://ko.wikipedia.org/wiki/축소화 "wikilink")한 것과 같다.\[9\]
 

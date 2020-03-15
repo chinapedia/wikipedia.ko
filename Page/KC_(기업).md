@@ -22,13 +22,13 @@
   - [대주중공업](https://ko.wikipedia.org/wiki/대주중공업 "wikilink")
   - [대주ENT](https://ko.wikipedia.org/wiki/대주ENT "wikilink")
   - [삼양산업](https://ko.wikipedia.org/wiki/삼양산업 "wikilink")
-  - [한국알루미나](https://ko.wikipedia.org/wiki/한국알루미나 "wikilink")
+  - [한국알루미나](../Page/한국알루미나.md "wikilink")
   - [코레스](https://ko.wikipedia.org/wiki/코레스 "wikilink")
   - [케이씨세라믹](https://ko.wikipedia.org/wiki/케이씨세라믹 "wikilink")
 
 ## 같이 보기
 
-  - [한국알루미나](https://ko.wikipedia.org/wiki/한국알루미나 "wikilink")
+  - [한국알루미나](../Page/한국알루미나.md "wikilink")
   - [KCC](https://ko.wikipedia.org/wiki/KCC_\(기업\) "wikilink")
   - [남해화학](https://ko.wikipedia.org/wiki/남해화학 "wikilink")
   - [삼성정밀화학](https://ko.wikipedia.org/wiki/삼성정밀화학 "wikilink")

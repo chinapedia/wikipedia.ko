@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ CBR125R](https://ko.wikipedia.org/wiki/_CBR125R).
 
 
-**혼다 CBR125R**(Honda CBR125R)은 [혼다](https://ko.wikipedia.org/wiki/혼다 "wikilink")가 만든 125 cc [4행정 기관](https://ko.wikipedia.org/wiki/4행정_기관 "wikilink") [스포츠 바이크이다](https://ko.wikipedia.org/wiki/스포츠_바이크 "wikilink").
+**혼다 CBR125R**(Honda CBR125R)은 [혼다](https://ko.wikipedia.org/wiki/혼다 "wikilink")가 만든 125 cc [4행정 기관](../Page/4행정_기관.md "wikilink") [스포츠 바이크이다](https://ko.wikipedia.org/wiki/스포츠_바이크 "wikilink").
 
 2004년부터 [혼다 NSR125시리즈를](https://ko.wikipedia.org/wiki/혼다_NSR125 "wikilink") 대체하며 출시되었다. 후속 기종으로 [혼다 CBR150R](https://ko.wikipedia.org/wiki/혼다_CBR150R "wikilink") 이 출시되었다. 하지만 국내에는 정식 수입되지 않는다. 엔진은 124.9cc SOHC 4행정 수냉 단기통 엔진이 탑재되었다. 또한 6단 수동 변속기가 장착되었으며, 디스크 브레이크가 앞 뒤 모두 사용된다. 타이어는 앞 80/90 17" 뒤100/80 17" 를 사용한다. 길이 1920mm, 너비 675mm, 높이 1070mm, 시트고 776mm 의 작은 키에도 부담없는 크기를 가지고 있다.
 

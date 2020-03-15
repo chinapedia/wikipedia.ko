@@ -1088,10 +1088,10 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/야체크_크지누베크" title="wikilink">야체크 크지누베크</a> (폴란드)</p>
+<a href="../Page/야체크_크지누베크.md" title="wikilink">야체크 크지누베크</a> (폴란드)</p>
 <p><strong>부심:</strong><br />
 보메르 피에로 (<a href="https://ko.wikipedia.org/wiki/에콰도르_축구_협회" title="wikilink">에콰도르</a>)<br />
-야프 폴 (<a href="https://ko.wikipedia.org/wiki/네덜란드_왕립_축구_협회" title="wikilink">네덜란드</a>)<br />
+야프 폴 (<a href="../Page/네덜란드_왕립_축구_협회.md" title="wikilink">네덜란드</a>)<br />
 <strong>대기심:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/코피_코지아" title="wikilink">코피 코지아</a> (<a href="https://ko.wikipedia.org/wiki/베냉_축구_협회" title="wikilink">베냉</a>)</p></td>
 </tr>

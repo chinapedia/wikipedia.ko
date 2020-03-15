@@ -15,7 +15,7 @@
 
 기아자동차
 
-  - [기아 T-600](https://ko.wikipedia.org/wiki/기아_T-600 "wikilink")
+  - [기아 T-600](../Page/기아_T-600.md "wikilink")
   - [기아 브리사 S-1000](https://ko.wikipedia.org/wiki/기아_브리사 "wikilink")
   - [아시아 K-111 지휘차](https://ko.wikipedia.org/wiki/K-111 "wikilink")
   - [기아 봉고나인](https://ko.wikipedia.org/wiki/기아_봉고#제_1세대_모델《BA2》 "wikilink")
@@ -31,7 +31,7 @@
   - [아시아 록스타 R2](https://ko.wikipedia.org/wiki/아시아_록스타 "wikilink")
   - [기아 카니발](https://ko.wikipedia.org/wiki/기아_카니발#1세대\(KV-Ⅱ\) "wikilink")
   - [기아 프레지오](https://ko.wikipedia.org/wiki/기아_프레지오 "wikilink")
-  - [기아 T-2000](https://ko.wikipedia.org/wiki/기아_T-2000 "wikilink")
+  - [기아 T-2000](../Page/기아_T-2000.md "wikilink")
   - [기아 뉴봉고 킹캡](https://ko.wikipedia.org/wiki/기아_봉고#뉴_봉고_\(2002년_12월~2004년_1월\) "wikilink")
   - [아시아 피아트 124](https://ko.wikipedia.org/wiki/피아트_124 "wikilink")
   - [기아 푸조 604](https://ko.wikipedia.org/wiki/푸조_604 "wikilink")

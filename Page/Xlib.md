@@ -13,7 +13,7 @@
   - [Qt](https://ko.wikipedia.org/wiki/Qt_\(툴킷\) "wikilink") (X11 버전)
   - [Tk](https://ko.wikipedia.org/wiki/Tk_\(프레임워크\) "wikilink")
 
-Xlib은 1985년 즈음에 출현했으며 현재 수많은 [유닉스 계열](https://ko.wikipedia.org/wiki/유닉스_계열 "wikilink") [운영 체제의](https://ko.wikipedia.org/wiki/운영_체제 "wikilink") [GUI에](https://ko.wikipedia.org/wiki/그래픽_사용자_인터페이스 "wikilink") 사용된다. [XCB](https://ko.wikipedia.org/wiki/XCB "wikilink") 라이브러리는 Xlib을 대체할 목적으로 만들어진 라이브러리이다. 아직까지 Xlib이 널리 쓰이고 있으나, 오늘날 Xlib에서 구현하는 것들은 낮은 수준의 전송 계층으로서 XCB를 대신 이용할 수 있다.
+Xlib은 1985년 즈음에 출현했으며 현재 수많은 [유닉스 계열](https://ko.wikipedia.org/wiki/유닉스_계열 "wikilink") [운영 체제의](https://ko.wikipedia.org/wiki/운영_체제 "wikilink") [GUI에](https://ko.wikipedia.org/wiki/그래픽_사용자_인터페이스 "wikilink") 사용된다. [XCB](../Page/XCB.md "wikilink") 라이브러리는 Xlib을 대체할 목적으로 만들어진 라이브러리이다. 아직까지 Xlib이 널리 쓰이고 있으나, 오늘날 Xlib에서 구현하는 것들은 낮은 수준의 전송 계층으로서 XCB를 대신 이용할 수 있다.
 
 ## 자료형
 

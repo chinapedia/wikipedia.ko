@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ LX](https://ko.wikipedia.org/wiki/_LX).
 
 
-**렉서스 LX**(Lexus LX)는 [토요타 자동차의](https://ko.wikipedia.org/wiki/토요타_자동차 "wikilink") 고급 브랜드인 [렉서스](https://ko.wikipedia.org/wiki/렉서스 "wikilink")의 대형 [SUV이다](https://ko.wikipedia.org/wiki/스포츠_유틸리티_자동차 "wikilink"). 고급 [SUV](https://ko.wikipedia.org/wiki/스포츠_유틸리티_자동차 "wikilink") 중에서는 얼마 안 되는 고도의 오프 로드 주행 성능을 갖춘 차종으로, 2세대부터는 V형 8기통 가솔린 엔진에 풀 타임 [4륜구동](https://ko.wikipedia.org/wiki/4륜구동 "wikilink")이 장착됐다. [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")에 [4세대 LS가](https://ko.wikipedia.org/wiki/렉서스_LS#4세대 "wikilink") 출시되기 전까지 [렉서스](https://ko.wikipedia.org/wiki/렉서스 "wikilink") 전 차종 중에서도 가장 비싼 차종이었다. [토요타 랜드크루저의](https://ko.wikipedia.org/wiki/토요타_랜드크루저 "wikilink") 형제 차량이다.
+**렉서스 LX**(Lexus LX)는 [토요타 자동차의](https://ko.wikipedia.org/wiki/토요타_자동차 "wikilink") 고급 브랜드인 [렉서스](https://ko.wikipedia.org/wiki/렉서스 "wikilink")의 대형 [SUV이다](https://ko.wikipedia.org/wiki/스포츠_유틸리티_자동차 "wikilink"). 고급 [SUV](https://ko.wikipedia.org/wiki/스포츠_유틸리티_자동차 "wikilink") 중에서는 얼마 안 되는 고도의 오프 로드 주행 성능을 갖춘 차종으로, 2세대부터는 V형 8기통 가솔린 엔진에 풀 타임 [4륜구동](https://ko.wikipedia.org/wiki/4륜구동 "wikilink")이 장착됐다. [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")에 [4세대 LS가](https://ko.wikipedia.org/wiki/렉서스_LS#4세대 "wikilink") 출시되기 전까지 [렉서스](https://ko.wikipedia.org/wiki/렉서스 "wikilink") 전 차종 중에서도 가장 비싼 차종이었다. [토요타 랜드크루저의](../Page/토요타_랜드크루저.md "wikilink") 형제 차량이다.
 
 {{-}}
 
@@ -25,7 +25,7 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Lexus_LX_570_20090620_front.JPG "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Lexus_LX_J200_facelift_China_2012-06-08.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Lexus_LX_P4250848.jpg "wikilink")
 
-[2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink")에 출시되었다. V형 8기통 5,700cc 가솔린 엔진(3UR-FE)이 적용되었으며, 역대 LX 최초로 V형 8기통 4,500cc 디젤 엔진(1VD-FTV)도 적용되었다. [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink")에는 [렉서스](https://ko.wikipedia.org/wiki/렉서스 "wikilink")의 새 패밀리 룩인 스핀들 그릴이 적용되었다. [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink")에도 페이스 리프트를 거쳤으며, 같은 해에 그동안 [토요타 랜드크루저의](https://ko.wikipedia.org/wiki/토요타_랜드크루저 "wikilink") 존재로 인하여 판매되지 않던 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서도 판매가 시작되었다.
+[2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink")에 출시되었다. V형 8기통 5,700cc 가솔린 엔진(3UR-FE)이 적용되었으며, 역대 LX 최초로 V형 8기통 4,500cc 디젤 엔진(1VD-FTV)도 적용되었다. [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink")에는 [렉서스](https://ko.wikipedia.org/wiki/렉서스 "wikilink")의 새 패밀리 룩인 스핀들 그릴이 적용되었다. [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink")에도 페이스 리프트를 거쳤으며, 같은 해에 그동안 [토요타 랜드크루저의](../Page/토요타_랜드크루저.md "wikilink") 존재로 인하여 판매되지 않던 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서도 판매가 시작되었다.
 
 {{-}}
 

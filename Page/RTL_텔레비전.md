@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [RTL ](https://ko.wikipedia.org/wiki/RTL_).
 
 
-**RTL 텔레비전**은 [독일](https://ko.wikipedia.org/wiki/독일 "wikilink")의 [민영 방송이자](https://ko.wikipedia.org/wiki/민영_방송 "wikilink") [룩셈부르크](https://ko.wikipedia.org/wiki/룩셈부르크 "wikilink")에 본사를 둔 [RTL 그룹의](https://ko.wikipedia.org/wiki/RTL_그룹 "wikilink") 계열의 독일 미디어 그룹 Mediengruppe RTL Deutschland 산하의 채널이다. [SAT.1](https://ko.wikipedia.org/wiki/SAT.1 "wikilink")와 함께 독일에서 최초로 개국한 민영 방송국이기도 하다.
+**RTL 텔레비전**은 [독일](https://ko.wikipedia.org/wiki/독일 "wikilink")의 [민영 방송이자](https://ko.wikipedia.org/wiki/민영_방송 "wikilink") [룩셈부르크](https://ko.wikipedia.org/wiki/룩셈부르크 "wikilink")에 본사를 둔 [RTL 그룹의](../Page/RTL_그룹.md "wikilink") 계열의 독일 미디어 그룹 Mediengruppe RTL Deutschland 산하의 채널이다. [SAT.1](https://ko.wikipedia.org/wiki/SAT.1 "wikilink")와 함께 독일에서 최초로 개국한 민영 방송국이기도 하다.
 
 독일 외에 [오스트리아](https://ko.wikipedia.org/wiki/오스트리아 "wikilink"), [불가리아](https://ko.wikipedia.org/wiki/불가리아 "wikilink"), [룩셈부르크](https://ko.wikipedia.org/wiki/룩셈부르크 "wikilink"), [벨기에](https://ko.wikipedia.org/wiki/벨기에 "wikilink"), [네덜란드](https://ko.wikipedia.org/wiki/네덜란드 "wikilink"), [헝가리](https://ko.wikipedia.org/wiki/헝가리 "wikilink"), [체코](https://ko.wikipedia.org/wiki/체코 "wikilink"), [루마니아](https://ko.wikipedia.org/wiki/루마니아 "wikilink"), [크로아티아](https://ko.wikipedia.org/wiki/크로아티아 "wikilink"), [이탈리아](https://ko.wikipedia.org/wiki/이탈리아 "wikilink")에도 위성 방송으로 시청할 수 있다.
 

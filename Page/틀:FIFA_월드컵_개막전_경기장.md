@@ -33,7 +33,7 @@
 
   - [1990년](https://ko.wikipedia.org/wiki/1990년_FIFA_월드컵 "wikilink") [스타디오 주세페 메아차](https://ko.wikipedia.org/wiki/스타디오_주세페_메아차 "wikilink") ([밀라노](https://ko.wikipedia.org/wiki/밀라노 "wikilink"))
 
-  - [1994년](https://ko.wikipedia.org/wiki/1994년_FIFA_월드컵 "wikilink") [솔저 필드](https://ko.wikipedia.org/wiki/솔저_필드 "wikilink") ([시카고](https://ko.wikipedia.org/wiki/시카고 "wikilink"))
+  - [1994년](https://ko.wikipedia.org/wiki/1994년_FIFA_월드컵 "wikilink") [솔저 필드](../Page/솔저_필드.md "wikilink") ([시카고](https://ko.wikipedia.org/wiki/시카고 "wikilink"))
 
   - [1998년](https://ko.wikipedia.org/wiki/1998년_FIFA_월드컵 "wikilink") [스타드 드 프랑스](https://ko.wikipedia.org/wiki/스타드_드_프랑스 "wikilink") ([생드니](https://ko.wikipedia.org/wiki/생드니 "wikilink"))
 

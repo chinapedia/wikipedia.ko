@@ -13,7 +13,7 @@
   - [소니 엑스페리아 Z](../Page/소니_엑스페리아_Z.md "wikilink")
   - [HTC J 버터플라이](https://ko.wikipedia.org/wiki/HTC_J_버터플라이 "wikilink")
   - [삼성 갤럭시 S4](../Page/삼성_갤럭시_S4.md "wikilink")
-  - [화웨이 어센드 P6](https://ko.wikipedia.org/wiki/화웨이_어센드_P6 "wikilink")
+  - [화웨이 어센드 P6](../Page/화웨이_어센드_P6.md "wikilink")
   - [LG 옵티머스 G](https://ko.wikipedia.org/wiki/LG_옵티머스_G "wikilink")
 
 ### 관련 사이트

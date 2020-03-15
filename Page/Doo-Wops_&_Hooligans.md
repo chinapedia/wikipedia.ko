@@ -6,10 +6,10 @@
 ## 수록곡
 
 1.  "[Grenade](https://ko.wikipedia.org/wiki/Grenade "wikilink")" - 3:42
-2.  "[Just the Way You Are](https://ko.wikipedia.org/wiki/Just_the_Way_You_Are_\(브루노_마스의_노래\) "wikilink")" - 3:40
+2.  "[Just the Way You Are](../Page/Just_the_Way_You_Are_\(브루노_마스의_노래\).md "wikilink")" - 3:40
 3.  "Our First Time" - 4:03
 4.  "[Runaway Baby](https://ko.wikipedia.org/wiki/Runaway_Baby "wikilink")" - 2:27
-5.  "[The Lazy Song](https://ko.wikipedia.org/wiki/The_Lazy_Song "wikilink")" - 3:15
+5.  "[The Lazy Song](../Page/The_Lazy_Song.md "wikilink")" - 3:15
 6.  "[Marry You](https://ko.wikipedia.org/wiki/Marry_You "wikilink")" - 3:50
 7.  "[Talking to the Moon](https://ko.wikipedia.org/wiki/Talking_to_the_Moon "wikilink")" - 3:37
 8.  "[Liquor Store Blues](https://ko.wikipedia.org/wiki/Liquor_Store_Blues "wikilink")" (featuring "[Damian Marley](https://ko.wikipedia.org/wiki/데이미언_말리 "wikilink")") - 3:49

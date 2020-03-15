@@ -19,7 +19,7 @@ IBM 노트와 도미노 제품은 다음의 구성 요소를 이룬다:
 
 ### 클라이언트/서버
 
-IBM 노트와 도미노는 [NoSQL](https://ko.wikipedia.org/wiki/NoSQL "wikilink") 클라이언트/서버 데이터베이스 환경이다. 서버 소프트웨어는 IBM 도미노이고, 클라이언트 소프트웨어는 IBM 노트이다.
+IBM 노트와 도미노는 [NoSQL](../Page/NoSQL.md "wikilink") 클라이언트/서버 데이터베이스 환경이다. 서버 소프트웨어는 IBM 도미노이고, 클라이언트 소프트웨어는 IBM 노트이다.
 
 ### 데이터 복제
 

@@ -11,7 +11,7 @@ BitBake recipes는 패키지의 소스 URL ([http](https://ko.wikipedia.org/wiki
 
 ## 같이 보기
 
-  - [욕토 프로젝트](https://ko.wikipedia.org/wiki/욕토_프로젝트 "wikilink")
+  - [욕토 프로젝트](../Page/욕토_프로젝트.md "wikilink")
 
 ## 외부 링크
 

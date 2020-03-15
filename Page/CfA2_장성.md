@@ -3,7 +3,7 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Nearsc.gif "wikilink")
 
-**CfA2 장성**([영어](https://ko.wikipedia.org/wiki/영어 "wikilink"):**CfA2 Great Wall**, 때때로 **머리털자리 장성**이나 **그레이트 월**로 불린다)은 우주에서 가장 거대한 구조 중 하나다(이 중 가장 거대한 것은 [헤라클레스자리-북쪽왕관자리 장성이다](https://ko.wikipedia.org/wiki/헤라클레스자리-북쪽왕관자리_장성 "wikilink")). 이 장성은 지구로부터 약 2억 광년 떨어져있고 굵기 1600만 광년, 폭 3억 광년, 장축이 5억 광년에 이르고, [헤라클레스자리 초은하단과](https://ko.wikipedia.org/wiki/헤라클레스자리_초은하단 "wikilink") [머리털자리 초은하단](https://ko.wikipedia.org/wiki/머리털자리_초은하단 "wikilink"), [사자자리 은하단을](https://ko.wikipedia.org/wiki/사자자리_은하단 "wikilink") 포함하는 은하의 필라멘트 구조다.
+**CfA2 장성**([영어](https://ko.wikipedia.org/wiki/영어 "wikilink"):**CfA2 Great Wall**, 때때로 **머리털자리 장성**이나 **그레이트 월**로 불린다)은 우주에서 가장 거대한 구조 중 하나다(이 중 가장 거대한 것은 [헤라클레스자리-북쪽왕관자리 장성이다](../Page/헤라클레스자리-북쪽왕관자리_장성.md "wikilink")). 이 장성은 지구로부터 약 2억 광년 떨어져있고 굵기 1600만 광년, 폭 3억 광년, 장축이 5억 광년에 이르고, [헤라클레스자리 초은하단과](https://ko.wikipedia.org/wiki/헤라클레스자리_초은하단 "wikilink") [머리털자리 초은하단](https://ko.wikipedia.org/wiki/머리털자리_초은하단 "wikilink"), [사자자리 은하단을](https://ko.wikipedia.org/wiki/사자자리_은하단 "wikilink") 포함하는 은하의 필라멘트 구조다.
 
 CfA2 장성은 1989년 CfA 적색편이 조사의 적색편이 데이터에 기반하여 마가렛 겔러와 존 허츠라에 의해 발견되었다.
 

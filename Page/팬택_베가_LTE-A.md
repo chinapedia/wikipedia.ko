@@ -25,7 +25,7 @@
 
 ### 배터리
 
-경쟁 제품인 [삼성전자 갤럭시S4 LTE-A이나](https://ko.wikipedia.org/wiki/삼성_갤럭시S4_LTE-A "wikilink") [LG G2](https://ko.wikipedia.org/wiki/LG_G2 "wikilink")([대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") 제품 기준) 보다 높은 용량인 3100mAh를 제공하고 있으며, 2 Ah 급속충전으로 1시간 33분 만에 완전히 충전할 수 있다.
+경쟁 제품인 [삼성전자 갤럭시S4 LTE-A이나](https://ko.wikipedia.org/wiki/삼성_갤럭시S4_LTE-A "wikilink") [LG G2](../Page/LG_G2.md "wikilink")([대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") 제품 기준) 보다 높은 용량인 3100mAh를 제공하고 있으며, 2 Ah 급속충전으로 1시간 33분 만에 완전히 충전할 수 있다.
 
 ### UX
 

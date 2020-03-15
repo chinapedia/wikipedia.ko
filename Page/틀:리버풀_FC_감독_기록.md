@@ -142,7 +142,7 @@
 <td><p>[8]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/빌_섕클리" title="wikilink">빌 섕클리</a></p></td>
+<td><p><a href="../Page/빌_섕클리.md" title="wikilink">빌 섕클리</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/1959년" title="wikilink">1959년</a> <a href="https://ko.wikipedia.org/wiki/12월_1일" title="wikilink">12월 1일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/1974년" title="wikilink">1974년</a> <a href="https://ko.wikipedia.org/wiki/7월_12일" title="wikilink">7월 12일</a></p></td>

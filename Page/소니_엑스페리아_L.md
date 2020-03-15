@@ -5,7 +5,7 @@
 
 ## 연혁
 
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [8월 4일](https://ko.wikipedia.org/wiki/8월_4일 "wikilink") : **[베를린 국제가전박람회](https://ko.wikipedia.org/wiki/베를린_국제가전박람회 "wikilink") 2013** (IFA 2013)에서 공개
+  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [8월 4일](https://ko.wikipedia.org/wiki/8월_4일 "wikilink") : **[베를린 국제가전박람회](../Page/베를린_국제가전박람회.md "wikilink") 2013** (IFA 2013)에서 공개
   - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [8월 29일](https://ko.wikipedia.org/wiki/8월_29일 "wikilink") : 출시\[1\]
 
 ## 색상

@@ -163,7 +163,7 @@ E<sub>6</sub>의 부분군에 대하여, E<sub>6</sub>의 표현들은 다음과
 
 ### 대수기하학적 성질
 
-[슈발레 기저를](https://ko.wikipedia.org/wiki/슈발레_기저 "wikilink") 사용하여 정수 계수의 리 대수 \(\mathfrak e_6(\mathbb Z)\) 및 군 \(E_6(\mathbb Z)\)을 정의할 수 있다. 보다 일반적으로, 이는 임의의 [가환환](https://ko.wikipedia.org/wiki/가환환 "wikilink") \(R\)에 대하여 [대수군](https://ko.wikipedia.org/wiki/대수군 "wikilink")으로 정의할 수 있다.
+[슈발레 기저를](https://ko.wikipedia.org/wiki/슈발레_기저 "wikilink") 사용하여 정수 계수의 리 대수 \(\mathfrak e_6(\mathbb Z)\) 및 군 \(E_6(\mathbb Z)\)을 정의할 수 있다. 보다 일반적으로, 이는 임의의 [가환환](https://ko.wikipedia.org/wiki/가환환 "wikilink") \(R\)에 대하여 [대수군](../Page/대수군.md "wikilink")으로 정의할 수 있다.
 
 특히, [유한체](https://ko.wikipedia.org/wiki/유한체 "wikilink") \(\mathbb F_q\)에 대한 계수의 [슈발레 군](https://ko.wikipedia.org/wiki/슈발레_군 "wikilink") \(E_6(\mathbb F_q)\)을 정의할 수 있다. 이 경우, 다음과 같은 두 가지 구성이 가능하다.
 
@@ -182,7 +182,7 @@ E<sub>6</sub>의 부분군에 대하여, E<sub>6</sub>의 표현들은 다음과
 
 \[|E_6(\mathbb F_4)|\approx2.85\times10^{46}\]
 
-\[|E_6(\mathbb F_5)|\approx3.18\times10^{54}\] \(E_6(\mathbb F_5)\)부터는 이는 [괴물군보다](https://ko.wikipedia.org/wiki/괴물군_\(수학\) "wikilink") 더 크다.
+\[|E_6(\mathbb F_5)|\approx3.18\times10^{54}\] \(E_6(\mathbb F_5)\)부터는 이는 [괴물군보다](../Page/괴물군_\(수학\).md "wikilink") 더 크다.
 
 E<sub>6</sub>의 [딘킨 도표는](https://ko.wikipedia.org/wiki/딘킨_도표 "wikilink") \(\mathbb Z/2\) 대칭을 가진다. [유한체](https://ko.wikipedia.org/wiki/유한체 "wikilink") \(\mathbb F_{q^2}/\mathbb F_q\)는 \(\mathbb Z/2\) [프로베니우스 자기 동형](https://ko.wikipedia.org/wiki/프로베니우스_자기_동형 "wikilink") \(x\mapsto x^q\)을 가지며, 이에 따라 슈발레 군을 뒤틀어 스타인버그 군 \({}^2E_6(q)\) 및 그 [범피복군](https://ko.wikipedia.org/wiki/범피복군 "wikilink") \({}^2\tilde E_6(q)\)를 정의할 수 있다. 이들의 크기는 다음과 같다.
 
@@ -196,7 +196,7 @@ E<sub>6</sub>의 [딘킨 도표는](https://ko.wikipedia.org/wiki/딘킨_도표 
 
 \[|{}^2E_6(\mathbb F_4)|\approx8.57\times10^{46}\]
 
-\[|{}^2E_6(\mathbb F_5)|\approx1.06\times10^{54}\] \({}^2E_6(\mathbb F_5)\)부터는 이는 [괴물군보다](https://ko.wikipedia.org/wiki/괴물군_\(수학\) "wikilink") 더 크다.
+\[|{}^2E_6(\mathbb F_5)|\approx1.06\times10^{54}\] \({}^2E_6(\mathbb F_5)\)부터는 이는 [괴물군보다](../Page/괴물군_\(수학\).md "wikilink") 더 크다.
 
 ## 응용
 
@@ -208,7 +208,7 @@ E<sub>6</sub>의 [딘킨 도표는](https://ko.wikipedia.org/wiki/딘킨_도표 
 
 리 대수 \(\mathfrak e_6\)는 [빌헬름 킬링이](../Page/빌헬름_킬링.md "wikilink") 복소수 [단순 리 대수를](https://ko.wikipedia.org/wiki/단순_리_대수 "wikilink") 분류하면서 발견하였다. 이후 [엘리 카르탕이](https://ko.wikipedia.org/wiki/엘리_카르탕 "wikilink") 1894년에 복소수 [단순 리 군을](https://ko.wikipedia.org/wiki/단순_리_군 "wikilink") 분류하면서 그 존재와 유일함을 엄밀히 증명하였다.\[21\]
 
-E<sub>6</sub>에 대한 슈발레 군은 [레너드 유진 딕슨이](https://ko.wikipedia.org/wiki/레너드_유진_딕슨 "wikilink") 1901년에 발견하였다.\[22\]\[23\] 스타인버그 군 <sup>2</sup>E<sub>6</sub>은 [로베르트 스테인베르그가](https://ko.wikipedia.org/wiki/로베르트_스테인베르그 "wikilink") 1959년에 발견하였다.\[24\]
+E<sub>6</sub>에 대한 슈발레 군은 [레너드 유진 딕슨이](../Page/레너드_유진_딕슨.md "wikilink") 1901년에 발견하였다.\[22\]\[23\] 스타인버그 군 <sup>2</sup>E<sub>6</sub>은 [로베르트 스테인베르그가](../Page/로베르트_스테인베르그.md "wikilink") 1959년에 발견하였다.\[24\]
 
 ## 참고 문헌
 

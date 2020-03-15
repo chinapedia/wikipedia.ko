@@ -5,8 +5,8 @@
 
 ## 개요
 
-  - 〈[ANDROID](https://ko.wikipedia.org/wiki/ANDROID_\(동방신기의_노래\) "wikilink")〉이후 6개월 만에 발매한 싱글이다.
-  - 정규 6집 〈[TIME](https://ko.wikipedia.org/wiki/TIME_\(동방신기의_음반\) "wikilink")〉의 선행 싱글이다.
+  - 〈[ANDROID](../Page/ANDROID_\(동방신기의_노래\).md "wikilink")〉이후 6개월 만에 발매한 싱글이다.
+  - 정규 6집 〈[TIME](../Page/TIME_\(동방신기의_음반\).md "wikilink")〉의 선행 싱글이다.
   - 제목으로 알 수 있다시피 동방신기의 국내 정규 6집 타이틀곡인 〈[Catch Me](https://ko.wikipedia.org/wiki/Catch_Me_\(동방신기의_음반\) "wikilink")〉의 일본어 버전이며 일본어 버전 한정으로 부제가 추가되었다.
 
 ## 수록곡

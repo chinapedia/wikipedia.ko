@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [AT\&T ](https://ko.wikipedia.org/wiki/AT\&T_).
 
 
-**AT\&T 센터**(AT\&T Center)는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [텍사스주](https://ko.wikipedia.org/wiki/텍사스주 "wikilink") [샌안토니오](https://ko.wikipedia.org/wiki/샌안토니오 "wikilink")에 소재한 실내 경기장이다. 현재 [NBA](https://ko.wikipedia.org/wiki/전미_농구_협회 "wikilink") [샌안토니오 스퍼스](https://ko.wikipedia.org/wiki/샌안토니오_스퍼스 "wikilink"), [AHL](https://ko.wikipedia.org/wiki/아메리칸_하키_리그 "wikilink") [샌안토니오 램페이지의](https://ko.wikipedia.org/wiki/샌안토니오_램페이지 "wikilink") 홈경기장으로 사용되고 있으며, [G 리그](https://ko.wikipedia.org/wiki/NBA_G_리그 "wikilink") [오스틴 스퍼스의](https://ko.wikipedia.org/wiki/오스틴_스퍼스 "wikilink") 제 2홈경기장으로 사용되고 있다. 과거 [WNBA](https://ko.wikipedia.org/wiki/전미_여자_농구_협회 "wikilink") [샌안토니오 스타스의](https://ko.wikipedia.org/wiki/라스베이거스_WNBA_팀 "wikilink") 홈 경기장으로 사용했다.
+**AT\&T 센터**(AT\&T Center)는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [텍사스주](https://ko.wikipedia.org/wiki/텍사스주 "wikilink") [샌안토니오](https://ko.wikipedia.org/wiki/샌안토니오 "wikilink")에 소재한 실내 경기장이다. 현재 [NBA](https://ko.wikipedia.org/wiki/전미_농구_협회 "wikilink") [샌안토니오 스퍼스](https://ko.wikipedia.org/wiki/샌안토니오_스퍼스 "wikilink"), [AHL](../Page/아메리칸_하키_리그.md "wikilink") [샌안토니오 램페이지의](../Page/샌안토니오_램페이지.md "wikilink") 홈경기장으로 사용되고 있으며, [G 리그](https://ko.wikipedia.org/wiki/NBA_G_리그 "wikilink") [오스틴 스퍼스의](../Page/오스틴_스퍼스.md "wikilink") 제 2홈경기장으로 사용되고 있다. 과거 [WNBA](https://ko.wikipedia.org/wiki/전미_여자_농구_협회 "wikilink") [샌안토니오 스타스의](https://ko.wikipedia.org/wiki/라스베이거스_WNBA_팀 "wikilink") 홈 경기장으로 사용했다.
 
 ## 외부 링크
 

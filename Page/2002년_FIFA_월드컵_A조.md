@@ -1049,9 +1049,9 @@ A조의 다크호스 우루과이도 기대 이하의 프랑스를 상대로 득
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/파파_부바_디오프" title="wikilink">파파 부바 디오프</a> (세네갈)</p>
+<a href="../Page/파파_부바_디오프.md" title="wikilink">파파 부바 디오프</a> (세네갈)</p>
 <p><strong>부심:</strong><br />
-야프 폴 (<a href="https://ko.wikipedia.org/wiki/네덜란드_왕립_축구_협회" title="wikilink">네덜란드</a>)<br />
+야프 폴 (<a href="../Page/네덜란드_왕립_축구_협회.md" title="wikilink">네덜란드</a>)<br />
 셰켈리 페렌츠 (<a href="https://ko.wikipedia.org/wiki/헝가리_축구_협회" title="wikilink">헝가리</a>)<br />
 <strong>대기심:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/키로스_바사라스" title="wikilink">키로스 바사라스</a> (<a href="https://ko.wikipedia.org/wiki/그리스_축구_협회" title="wikilink">그리스</a>)</p></td>

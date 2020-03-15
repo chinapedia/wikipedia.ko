@@ -147,7 +147,7 @@
 <!-- end list -->
 
   -
-    [아카자와 호노](https://ko.wikipedia.org/wiki/아카자와_호노 "wikilink"), [이시즈카 아카리](https://ko.wikipedia.org/wiki/이시즈카_아카리 "wikilink"), [이지리 안나](https://ko.wikipedia.org/wiki/이지리_안나 "wikilink"), [우에다 미레이](https://ko.wikipedia.org/wiki/우에다_미레이 "wikilink"), [우메하라 마코](https://ko.wikipedia.org/wiki/우메하라_마코 "wikilink"), [오타 유우리](https://ko.wikipedia.org/wiki/오타_유우리 "wikilink"), [가토 유카](https://ko.wikipedia.org/wiki/가토_유카 "wikilink"), [가미에다 에미카](https://ko.wikipedia.org/wiki/가미에다_에미카 "wikilink"), [구사카 고노미](https://ko.wikipedia.org/wiki/구사카_고노미 "wikilink"), [구시로 리나](https://ko.wikipedia.org/wiki/구시로_리나 "wikilink"), [구로카와 하즈키](https://ko.wikipedia.org/wiki/구로카와_하즈키 "wikilink"), [고노 사키](https://ko.wikipedia.org/wiki/고노_사키 "wikilink"), [코바야시 리카코](https://ko.wikipedia.org/wiki/코바야시_리카코_\(가수\) "wikilink"), [무로 카나코](https://ko.wikipedia.org/wiki/무로_카나코 "wikilink"), [야부시타 슈](https://ko.wikipedia.org/wiki/야부시타_슈 "wikilink"), [야마우치 쓰바사](https://ko.wikipedia.org/wiki/야마우치_쓰바사 "wikilink")
+    [아카자와 호노](https://ko.wikipedia.org/wiki/아카자와_호노 "wikilink"), [이시즈카 아카리](https://ko.wikipedia.org/wiki/이시즈카_아카리 "wikilink"), [이지리 안나](https://ko.wikipedia.org/wiki/이지리_안나 "wikilink"), [우에다 미레이](https://ko.wikipedia.org/wiki/우에다_미레이 "wikilink"), [우메하라 마코](https://ko.wikipedia.org/wiki/우메하라_마코 "wikilink"), [오타 유우리](https://ko.wikipedia.org/wiki/오타_유우리 "wikilink"), [가토 유카](https://ko.wikipedia.org/wiki/가토_유카 "wikilink"), [가미에다 에미카](https://ko.wikipedia.org/wiki/가미에다_에미카 "wikilink"), [구사카 고노미](https://ko.wikipedia.org/wiki/구사카_고노미 "wikilink"), [구시로 리나](https://ko.wikipedia.org/wiki/구시로_리나 "wikilink"), [구로카와 하즈키](https://ko.wikipedia.org/wiki/구로카와_하즈키 "wikilink"), [고노 사키](https://ko.wikipedia.org/wiki/고노_사키 "wikilink"), [코바야시 리카코](https://ko.wikipedia.org/wiki/코바야시_리카코_\(가수\) "wikilink"), [무로 카나코](https://ko.wikipedia.org/wiki/무로_카나코 "wikilink"), [야부시타 슈](../Page/야부시타_슈.md "wikilink"), [야마우치 쓰바사](https://ko.wikipedia.org/wiki/야마우치_쓰바사 "wikilink")
 
 <!-- end list -->
 
@@ -315,7 +315,7 @@
 <th><p>소속</p></th>
 <th><p>득표수</p></th>
 <th><p>속보</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/AKB48_27th_싱글_선발_총선거" title="wikilink">전회 순위</a></p></th>
+<th><p><a href="../Page/AKB48_27th_싱글_선발_총선거.md" title="wikilink">전회 순위</a></p></th>
 <th><p>과거 최고 순위</p></th>
 </tr>
 </thead>

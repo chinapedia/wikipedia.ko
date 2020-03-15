@@ -12,7 +12,7 @@
 ## 같이 보기
 
   - [삼성 갤럭시 카메라](https://ko.wikipedia.org/wiki/삼성_갤럭시_카메라 "wikilink")
-  - [삼성 갤럭시 S4 줌](https://ko.wikipedia.org/wiki/삼성_갤럭시_S4_줌 "wikilink")
+  - [삼성 갤럭시 S4 줌](../Page/삼성_갤럭시_S4_줌.md "wikilink")
 
 ## 각주
 

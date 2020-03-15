@@ -38,7 +38,7 @@ CD에 명시되어 있다.
 ### 이글스
 
   - [글렌 프레이](https://ko.wikipedia.org/wiki/글렌_프레이 "wikilink") - 기타, 키보드, 베이스 기타, 보컬
-  - [돈 헨리](https://ko.wikipedia.org/wiki/돈_헨리 "wikilink") - 드럼, 타악기, 기타, 보컬
+  - [돈 헨리](../Page/돈_헨리.md "wikilink") - 드럼, 타악기, 기타, 보컬
   - [조 월시](https://ko.wikipedia.org/wiki/조_월시 "wikilink") - 기타, 키보드, 보컬
   - [티모시 B. 슈미트](https://ko.wikipedia.org/wiki/티모시_B._슈미트 "wikilink") - 베이스, 보컬
 

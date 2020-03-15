@@ -20,7 +20,7 @@ JR 도카이에서는 다음의 노선·구간에서 이용 가능(TOICA 지역)
   - [다카야마 본선](https://ko.wikipedia.org/wiki/다카야마_본선 "wikilink")
       - [기후 역](https://ko.wikipedia.org/wiki/기후_역 "wikilink") - [미노오타 역](https://ko.wikipedia.org/wiki/미노오타_역 "wikilink") 간
   - [다케토요 선](https://ko.wikipedia.org/wiki/다케토요_선 "wikilink")
-      - [오부 역](https://ko.wikipedia.org/wiki/오부_역 "wikilink") - [다케토요 역](https://ko.wikipedia.org/wiki/다케토요_역 "wikilink") (전구간)
+      - [오부 역](https://ko.wikipedia.org/wiki/오부_역 "wikilink") - [다케토요 역](../Page/다케토요_역.md "wikilink") (전구간)
   - [다이타 선](https://ko.wikipedia.org/wiki/다이타_선 "wikilink")
       - [미노오타 역](https://ko.wikipedia.org/wiki/미노오타_역 "wikilink") - [다지미 역](https://ko.wikipedia.org/wiki/다지미_역 "wikilink") (전구간)
   - [도카이도 본선](https://ko.wikipedia.org/wiki/도카이도_본선 "wikilink")
@@ -39,11 +39,11 @@ JR 도카이에서는 다음의 노선·구간에서 이용 가능(TOICA 지역)
 ## 같이 보기
 
   - [manaca](https://ko.wikipedia.org/wiki/manaca "wikilink")
-  - [PASMO](https://ko.wikipedia.org/wiki/PASMO "wikilink")
+  - [PASMO](../Page/PASMO.md "wikilink")
   - [Suica](https://ko.wikipedia.org/wiki/Suica "wikilink")
   - [ICOCA](https://ko.wikipedia.org/wiki/ICOCA "wikilink")
   - [PiTaPa](https://ko.wikipedia.org/wiki/PiTaPa "wikilink")
-  - [Kitaca](https://ko.wikipedia.org/wiki/Kitaca "wikilink")
+  - [Kitaca](../Page/Kitaca.md "wikilink")
   - [SUGOCA](https://ko.wikipedia.org/wiki/SUGOCA "wikilink")
   - [티머니](https://ko.wikipedia.org/wiki/티머니 "wikilink")
 

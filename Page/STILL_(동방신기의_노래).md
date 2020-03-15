@@ -6,7 +6,7 @@
 ## 개요
 
   - 33번째 싱글이자 계절 싱글인 〈[Winter \~Winter Rose / Duet-winter ver.-\~](https://ko.wikipedia.org/wiki/Winter_~Winter_Rose_/_Duet-winter_ver.-~ "wikilink")〉 이후 약 3개월만에 발매된 싱글이다.
-  - 타이틀곡 〈STILL〉은 싱글 발매에 앞서 〈[TOHOSHINKI LIVE TOUR 2012 \~TONE\~](https://ko.wikipedia.org/wiki/TOHOSHINKI_LIVE_TOUR_2012_~TONE~ "wikilink")〉에서 최초 공개되었다.
+  - 타이틀곡 〈STILL〉은 싱글 발매에 앞서 〈[TOHOSHINKI LIVE TOUR 2012 \~TONE\~](../Page/TOHOSHINKI_LIVE_TOUR_2012_~TONE~.md "wikilink")〉에서 최초 공개되었다.
 
 ## 수록곡
 

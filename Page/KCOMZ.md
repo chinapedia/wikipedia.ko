@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KCOMZ](https://ko.wikipedia.org/wiki/KCOMZ).
 
 
-****, 제8006부대는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서 후방기지사령부, 후방관구사령부, 한국병참지대사령부, 한국병참관구 등으로 다양하게 부르던 [한국 전쟁](https://ko.wikipedia.org/wiki/한국_전쟁 "wikilink") 중에 설립된 [미국 육군의](https://ko.wikipedia.org/wiki/미국_육군 "wikilink") [한반도](https://ko.wikipedia.org/wiki/한반도 "wikilink") 전구 지원[사령부](https://ko.wikipedia.org/wiki/사령부 "wikilink")였다. 한반도에 배치된 [주한 미군](https://ko.wikipedia.org/wiki/주한_미군 "wikilink"), [유엔군](https://ko.wikipedia.org/wiki/유엔사령부 "wikilink"), [대한민국 국군에](https://ko.wikipedia.org/wiki/대한민국_국군 "wikilink") 대한 모든 군수지원을 도맡았으며, [거제도 포로수용소에](https://ko.wikipedia.org/wiki/거제도_포로수용소 "wikilink") 수용된 [전쟁 포로](https://ko.wikipedia.org/wiki/전쟁_포로 "wikilink") 또한 감독하였다.
+****, 제8006부대는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서 후방기지사령부, 후방관구사령부, 한국병참지대사령부, 한국병참관구 등으로 다양하게 부르던 [한국 전쟁](https://ko.wikipedia.org/wiki/한국_전쟁 "wikilink") 중에 설립된 [미국 육군의](https://ko.wikipedia.org/wiki/미국_육군 "wikilink") [한반도](https://ko.wikipedia.org/wiki/한반도 "wikilink") 전구 지원[사령부](https://ko.wikipedia.org/wiki/사령부 "wikilink")였다. 한반도에 배치된 [주한 미군](https://ko.wikipedia.org/wiki/주한_미군 "wikilink"), [유엔군](../Page/유엔사령부.md "wikilink"), [대한민국 국군에](https://ko.wikipedia.org/wiki/대한민국_국군 "wikilink") 대한 모든 군수지원을 도맡았으며, [거제도 포로수용소에](https://ko.wikipedia.org/wiki/거제도_포로수용소 "wikilink") 수용된 [전쟁 포로](https://ko.wikipedia.org/wiki/전쟁_포로 "wikilink") 또한 감독하였다.
 
 ## 역사
 
@@ -9,7 +9,7 @@
 
 [제1기병사단의](https://ko.wikipedia.org/wiki/제1기병사단_\(미국\) "wikilink") 연대가 1953년 4월까지, 그 후로는 [제24보병사단의](https://ko.wikipedia.org/wiki/제24보병사단_미국\) "wikilink") 연대가 순환배속되었다.
 
-1953년 1월 16일에 [극동사령부에서](https://ko.wikipedia.org/wiki/극동사령부_\(미국\) "wikilink") [극동육군으로](https://ko.wikipedia.org/wiki/미국_극동_육군 "wikilink") 예속 전환되었다.
+1953년 1월 16일에 [극동사령부에서](../Page/극동사령부_\(미국\).md "wikilink") [극동육군으로](../Page/미국_극동_육군.md "wikilink") 예속 전환되었다.
 
 이후, 1955년 7월에 *[제8군 지원사령부](https://ko.wikipedia.org/wiki/제8전구지원사령부 "wikilink")*, 1956년에 주한 미국 육군 지역사령부(), 1957년에 *[제7군수사령부](https://ko.wikipedia.org/wiki/제7지원사령부 "wikilink")*로 재편성되었다.
 
@@ -17,8 +17,8 @@
 
 ### 상위부대
 
-  - [극동 사령부](https://ko.wikipedia.org/wiki/극동사령부_\(미국\) "wikilink"); 1952년 \~ 1953년
-  - [미국 극동 육군](https://ko.wikipedia.org/wiki/미국_극동_육군 "wikilink"); 1953년 \~ 1956년
+  - [극동 사령부](../Page/극동사령부_\(미국\).md "wikilink"); 1952년 \~ 1953년
+  - [미국 극동 육군](../Page/미국_극동_육군.md "wikilink"); 1953년 \~ 1956년
   - [제8군](https://ko.wikipedia.org/wiki/제8군_\(미국\) "wikilink"); 1956년
 
 ### 편성
@@ -116,9 +116,9 @@
   - 그외
       - 제8076부대, 민간 정보교육파견대
       - 제8112부대, 육군추락구조단
-      - 제8157부대, [미국 극동 육군](https://ko.wikipedia.org/wiki/미국_극동_육군 "wikilink"), 항공배송및 교신파견대
+      - 제8157부대, [미국 극동 육군](../Page/미국_극동_육군.md "wikilink"), 항공배송및 교신파견대
       - 제8214부대, 국군 라디오근무대
-      - 제8240부대, [주한 유엔 유격군](https://ko.wikipedia.org/wiki/주한_유엔_유격군 "wikilink") (UNPIK)
+      - 제8240부대, [주한 유엔 유격군](../Page/주한_유엔_유격군.md "wikilink") (UNPIK)
       - 제8242부대, 연합사령부 한국 정찰활동처 (CCRAK)
       - 문산리 Holding 파견대 (임시)
   - 군수
@@ -143,7 +143,7 @@
           - A중대
           - 제8공병전투대대
       - 제6전차대대, C중대
-      - [제7연대 전투단](https://ko.wikipedia.org/wiki/제7기병연대_\(미국\) "wikilink")
+      - [제7연대 전투단](../Page/제7기병연대_\(미국\).md "wikilink")
           - 제7기병연대, 중전차중대
           - 제8공병전투대대, B중대
       - [제8연대 전투단](https://ko.wikipedia.org/wiki/제8기병연대_\(미국\) "wikilink")

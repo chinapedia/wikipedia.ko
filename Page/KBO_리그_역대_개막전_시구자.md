@@ -43,7 +43,7 @@
 MBC vs OB<br />
 삼미 vs 삼성</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/정선호_(1935년)" title="wikilink">정선호</a><br />
-<a href="https://ko.wikipedia.org/wiki/염보현" title="wikilink">염보현</a><br />
+<a href="../Page/염보현.md" title="wikilink">염보현</a><br />
 <a href="https://ko.wikipedia.org/wiki/김찬회" title="wikilink">김찬회</a></p></td>
 <td><p>체육부차관<br />
 서울시장<br />
@@ -76,7 +76,7 @@ OB vs MBC</p></td>
 해태 vs OB</p></td>
 <td><p>이상연<br />
 <a href="https://ko.wikipedia.org/wiki/정채진" title="wikilink">정채진</a><br />
-<a href="https://ko.wikipedia.org/wiki/전석홍" title="wikilink">전석홍</a></p></td>
+<a href="../Page/전석홍.md" title="wikilink">전석홍</a></p></td>
 <td><p>대구시장<br />
 부산시장<br />
 전라남도지사</p></td>
@@ -91,7 +91,7 @@ OB vs MBC</p></td>
 MBC vs OB<br />
 롯데 vs 청보</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/김양배" title="wikilink">김양배</a><br />
-<a href="https://ko.wikipedia.org/wiki/황선필_(1939년)" title="wikilink">황선필</a><br />
+<a href="../Page/황선필_(1939년).md" title="wikilink">황선필</a><br />
 <a href="https://ko.wikipedia.org/wiki/김주호_(1933년)" title="wikilink">김주호</a></p></td>
 <td><p>광주시장<br />
 MBC구단주<br />
@@ -138,7 +138,7 @@ OB베어스 성인회원 1호</p></td>
 <td><p>해태 vs 빙그레<br />
 태평양 vs 삼성<br />
 OB vs LG</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/정동성" title="wikilink">정동성</a><br />
+<td><p><a href="../Page/정동성.md" title="wikilink">정동성</a><br />
 서성환<br />
 박경갑</p></td>
 <td><p>체육부장관<br />
@@ -159,7 +159,7 @@ OB베어스 성인회원</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/박철언" title="wikilink">박철언</a><br />
 <a href="https://ko.wikipedia.org/wiki/이해봉_(1942년)" title="wikilink">이해봉</a><br />
 <a href="https://ko.wikipedia.org/wiki/이효계" title="wikilink">이효계</a><br />
-<a href="https://ko.wikipedia.org/wiki/홍선기" title="wikilink">홍선기</a></p></td>
+<a href="../Page/홍선기.md" title="wikilink">홍선기</a></p></td>
 <td><p>체육청소년부장관<br />
 대구시장<br />
 광주시장<br />
@@ -274,8 +274,8 @@ OB vs 쌍방울<br />
 한화 vs OB</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/송태호" title="wikilink">송태호</a><br />
 <a href="https://ko.wikipedia.org/wiki/최기선" title="wikilink">최기선</a> 외 2명<br />
-<a href="https://ko.wikipedia.org/wiki/유종근_(1944년)" title="wikilink">유종근</a><br />
-<a href="https://ko.wikipedia.org/wiki/홍선기" title="wikilink">홍선기</a></p></td>
+<a href="../Page/유종근_(1944년).md" title="wikilink">유종근</a><br />
+<a href="../Page/홍선기.md" title="wikilink">홍선기</a></p></td>
 <td><p>문화체육부장관<br />
 인천시장<br />
 전라북도지사<br />
@@ -495,7 +495,7 @@ LG vs KIA</p></td>
 안길성</p></td>
 <td><p>문화체육관광부 장관<br />
 대구시장<br />
-<a href="https://ko.wikipedia.org/wiki/소원초등학교" title="wikilink">소원초등학교</a> 의항분교 어린이</p></td>
+<a href="../Page/소원초등학교.md" title="wikilink">소원초등학교</a> 의항분교 어린이</p></td>
 </tr>
 <tr class="even">
 <td><p>3월 30일*</p></td>
@@ -577,7 +577,7 @@ SK vs 넥센<br />
 두산 vs 넥센<br />
 롯데 vs 한화</p></td>
 <td><p>주미선 / 주재민<br />
-문호세(시구) / <a href="https://ko.wikipedia.org/wiki/우동기" title="wikilink">우동기</a>(시타)<br />
+문호세(시구) / <a href="../Page/우동기.md" title="wikilink">우동기</a>(시타)<br />
 <a href="https://ko.wikipedia.org/wiki/박하선" title="wikilink">박하선</a><br />
 <a href="https://ko.wikipedia.org/wiki/강소라" title="wikilink">강소라</a></p></td>
 <td><p>다문화가정 야구교육 프로그램 참가자<br />
@@ -638,7 +638,7 @@ KIA vs 넥센<br />
 <td><p>창원</p></td>
 <td><p>KIA vs NC</p></td>
 <td><p>김영권(시구) / 김상준(시타)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/군산신풍초등학교" title="wikilink">신풍초등학교</a> 야구선수/<a href="https://ko.wikipedia.org/wiki/양덕초등학교_(경남)" title="wikilink">양덕초등학교</a> 야구선수</p></td>
+<td><p><a href="../Page/군산신풍초등학교.md" title="wikilink">신풍초등학교</a> 야구선수/<a href="https://ko.wikipedia.org/wiki/양덕초등학교_(경남)" title="wikilink">양덕초등학교</a> 야구선수</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -654,9 +654,9 @@ KIA vs 넥센<br />
 두산 vs NC<br />
 롯데 vs KT<br />
 넥센 vs 한화</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/윤장현" title="wikilink">윤장현</a> / 임지용<br />
+<td><p><a href="../Page/윤장현.md" title="wikilink">윤장현</a> / 임지용<br />
 박성호(시구) / 박창기(시타) / 박용현(시포)<br />
-<a href="https://ko.wikipedia.org/wiki/찬미_(1996년)" title="wikilink">찬미</a>(시구) / <a href="https://ko.wikipedia.org/wiki/지민_(래퍼)" title="wikilink">지민</a>(시타)<br />
+<a href="../Page/찬미_(1996년).md" title="wikilink">찬미</a>(시구) / <a href="../Page/지민_(래퍼).md" title="wikilink">지민</a>(시타)<br />
 김정자<br />
 <a href="https://ko.wikipedia.org/wiki/전지윤" title="wikilink">전지윤</a></p></td>
 <td><p>광주시장/KIA 타이거즈 어린이팬<br />
@@ -729,7 +729,7 @@ kt vs KIA<br />
 <td><p>미상<br />
 이상화<br />
 <a href="https://ko.wikipedia.org/wiki/유노윤호" title="wikilink">유노윤호</a><br />
-<a href="https://ko.wikipedia.org/wiki/박해수" title="wikilink">박해수</a>(시투) / <a href="https://ko.wikipedia.org/wiki/안창환_(배우)" title="wikilink">안창환</a>(시포)<br />
+<a href="../Page/박해수.md" title="wikilink">박해수</a>(시투) / <a href="https://ko.wikipedia.org/wiki/안창환_(배우)" title="wikilink">안창환</a>(시포)<br />
 이정훈(시구) / 최서운(시타)</p></td>
 <td><p>2018 주니어 다이노스 스프링 챔피언십 최우수선수<br />
 스피드스케이팅 선수<br />

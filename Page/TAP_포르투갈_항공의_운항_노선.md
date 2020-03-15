@@ -75,19 +75,19 @@
       - [리옹](https://ko.wikipedia.org/wiki/리옹 "wikilink") - [생텍쥐페리 국제공항](https://ko.wikipedia.org/wiki/생텍쥐페리_국제공항 "wikilink")
       - [니스](https://ko.wikipedia.org/wiki/니스_\(프랑스\) "wikilink") - [니스 코트다쥐르 공항](https://ko.wikipedia.org/wiki/니스_코트다쥐르_공항 "wikilink")
       - [마르세유](https://ko.wikipedia.org/wiki/마르세유 "wikilink") - [마르세유 프로방스 공항](https://ko.wikipedia.org/wiki/마르세유_프로방스_공항 "wikilink")
-      - [뮐루즈](https://ko.wikipedia.org/wiki/뮐루즈 "wikilink") - [유로 에어포트](https://ko.wikipedia.org/wiki/유로_에어포트 "wikilink")
+      - [뮐루즈](https://ko.wikipedia.org/wiki/뮐루즈 "wikilink") - [유로 에어포트](../Page/유로_에어포트.md "wikilink")
       - [보르도](https://ko.wikipedia.org/wiki/보르도 "wikilink") - [보르도 메리냑 공항](https://ko.wikipedia.org/wiki/보르도_메리냑_공항 "wikilink")
       - [툴루즈](https://ko.wikipedia.org/wiki/툴루즈 "wikilink") - [툴루즈 블라냑 공항](https://ko.wikipedia.org/wiki/툴루즈_블라냑_공항 "wikilink")
   - ****
-      - [베를린](https://ko.wikipedia.org/wiki/베를린 "wikilink") - [베를린 쇠네펠트 공항](https://ko.wikipedia.org/wiki/베를린_쇠네펠트_공항 "wikilink")
+      - [베를린](https://ko.wikipedia.org/wiki/베를린 "wikilink") - [베를린 쇠네펠트 공항](../Page/베를린_쇠네펠트_공항.md "wikilink")
       - [프랑크푸르트](https://ko.wikipedia.org/wiki/프랑크푸르트 "wikilink") - [프랑크푸르트암마인 공항](https://ko.wikipedia.org/wiki/프랑크푸르트암마인_공항 "wikilink")
       - [뒤셀도르프](https://ko.wikipedia.org/wiki/뒤셀도르프 "wikilink") - [뒤셀도르프 국제공항](https://ko.wikipedia.org/wiki/뒤셀도르프_국제공항 "wikilink")
       - [뮌헨](https://ko.wikipedia.org/wiki/뮌헨 "wikilink") - [뮌헨 국제공항](https://ko.wikipedia.org/wiki/뮌헨_국제공항 "wikilink")
       - [쾰른](https://ko.wikipedia.org/wiki/쾰른 "wikilink") - [쾰른 본 공항](https://ko.wikipedia.org/wiki/쾰른_본_공항 "wikilink")
-      - [프라이부르크](https://ko.wikipedia.org/wiki/프라이부르크 "wikilink") - [유로 에어포트](https://ko.wikipedia.org/wiki/유로_에어포트 "wikilink")
-      - [함부르크](https://ko.wikipedia.org/wiki/함부르크 "wikilink") - [함부르크 공항](https://ko.wikipedia.org/wiki/함부르크_공항 "wikilink")
+      - [프라이부르크](https://ko.wikipedia.org/wiki/프라이부르크 "wikilink") - [유로 에어포트](../Page/유로_에어포트.md "wikilink")
+      - [함부르크](https://ko.wikipedia.org/wiki/함부르크 "wikilink") - [함부르크 공항](../Page/함부르크_공항.md "wikilink")
   - ****
-      - [더블린](https://ko.wikipedia.org/wiki/더블린 "wikilink") - [더블린 공항](https://ko.wikipedia.org/wiki/더블린_공항 "wikilink")
+      - [더블린](https://ko.wikipedia.org/wiki/더블린 "wikilink") - [더블린 공항](../Page/더블린_공항.md "wikilink")
   - ****
       - [암스테르담](https://ko.wikipedia.org/wiki/암스테르담 "wikilink") - [암스테르담 스키폴 국제공항](https://ko.wikipedia.org/wiki/암스테르담_스키폴_국제공항 "wikilink")
   - ****
@@ -98,7 +98,7 @@
 #### [중유럽](https://ko.wikipedia.org/wiki/중유럽 "wikilink")
 
   - ****
-      - [바젤](https://ko.wikipedia.org/wiki/바젤 "wikilink") - [유로 에어포트](https://ko.wikipedia.org/wiki/유로_에어포트 "wikilink")
+      - [바젤](https://ko.wikipedia.org/wiki/바젤 "wikilink") - [유로 에어포트](../Page/유로_에어포트.md "wikilink")
       - [제네바](https://ko.wikipedia.org/wiki/제네바 "wikilink") - [제네바 공항](https://ko.wikipedia.org/wiki/제네바_공항 "wikilink")
       - [취리히](https://ko.wikipedia.org/wiki/취리히 "wikilink") - [취리히 국제공항](https://ko.wikipedia.org/wiki/취리히_국제공항 "wikilink")
   - ****
@@ -124,12 +124,12 @@
       - [토리노](https://ko.wikipedia.org/wiki/토리노 "wikilink") - [토리노 국제공항](https://ko.wikipedia.org/wiki/토리노_국제공항 "wikilink")
   - ****
       - [리스본](https://ko.wikipedia.org/wiki/리스본 "wikilink") - [리스본 공항](https://ko.wikipedia.org/wiki/리스본_공항 "wikilink") **허브**
-      - [포르투](https://ko.wikipedia.org/wiki/포르투 "wikilink") - [프란시스쿠 드 사 카르네이루 공항](https://ko.wikipedia.org/wiki/프란시스쿠_드_사_카르네이루_공항 "wikilink") **포커스 시티**
-      - [오르타](https://ko.wikipedia.org/wiki/오르타 "wikilink") - [오르타 공항](https://ko.wikipedia.org/wiki/오르타_공항 "wikilink")
+      - [포르투](https://ko.wikipedia.org/wiki/포르투 "wikilink") - [프란시스쿠 드 사 카르네이루 공항](../Page/프란시스쿠_드_사_카르네이루_공항.md "wikilink") **포커스 시티**
+      - [오르타](../Page/오르타.md "wikilink") - [오르타 공항](https://ko.wikipedia.org/wiki/오르타_공항 "wikilink")
       - [테르세이라](https://ko.wikipedia.org/wiki/테르세이라_섬 "wikilink") - [라제스 공군 기지](https://ko.wikipedia.org/wiki/라제스_공군_기지 "wikilink")
-      - [파루](https://ko.wikipedia.org/wiki/파루_\(도시\) "wikilink") - [파루 공항](https://ko.wikipedia.org/wiki/파루_공항 "wikilink")
+      - [파루](../Page/파루_\(도시\).md "wikilink") - [파루 공항](https://ko.wikipedia.org/wiki/파루_공항 "wikilink")
       - [포르투산투](https://ko.wikipedia.org/wiki/포르투산투_섬 "wikilink") - [포르투산투 공항](https://ko.wikipedia.org/wiki/포르투산투_공항 "wikilink")
-      - [폰타델가다](https://ko.wikipedia.org/wiki/폰타델가다 "wikilink") - [주앙 파울로 2세 공항](https://ko.wikipedia.org/wiki/주앙_파울로_2세_공항 "wikilink")
+      - [폰타델가다](../Page/폰타델가다.md "wikilink") - [주앙 파울로 2세 공항](https://ko.wikipedia.org/wiki/주앙_파울로_2세_공항 "wikilink")
       - [푼샬](https://ko.wikipedia.org/wiki/푼샬 "wikilink") - [마데리아 공항](https://ko.wikipedia.org/wiki/마데리아_공항 "wikilink")
       - [피쿠](https://ko.wikipedia.org/wiki/피쿠_섬 "wikilink") - [피쿠 공항](https://ko.wikipedia.org/wiki/피쿠_공항 "wikilink")
 
@@ -140,7 +140,7 @@
   - ****
       - [프라하](https://ko.wikipedia.org/wiki/프라하 "wikilink") - [프라하 바츨라프 하벨 국제공항](https://ko.wikipedia.org/wiki/프라하_바츨라프_하벨_국제공항 "wikilink")
   - ****
-      - [바르샤바](https://ko.wikipedia.org/wiki/바르샤바 "wikilink") - [바르샤바 쇼팽 국제공항](https://ko.wikipedia.org/wiki/바르샤바_쇼팽_국제공항 "wikilink")
+      - [바르샤바](https://ko.wikipedia.org/wiki/바르샤바 "wikilink") - [바르샤바 쇼팽 국제공항](../Page/바르샤바_쇼팽_국제공항.md "wikilink")
   - ****
       - [부다페스트](https://ko.wikipedia.org/wiki/부다페스트 "wikilink") - [부다페스트 페리 헤지 국제공항](https://ko.wikipedia.org/wiki/부다페스트_페리_헤지_국제공항 "wikilink")
 
@@ -248,7 +248,7 @@
       - [밀라노](https://ko.wikipedia.org/wiki/밀라노 "wikilink") - [밀라노 리나테 공항](https://ko.wikipedia.org/wiki/밀라노_리나테_공항 "wikilink")
       - [토리노](https://ko.wikipedia.org/wiki/토리노 "wikilink") - [토리노 공항](https://ko.wikipedia.org/wiki/토리노_공항 "wikilink")
   - ****
-      - [자그레브](https://ko.wikipedia.org/wiki/자그레브 "wikilink") - [자그레브 국제공항](https://ko.wikipedia.org/wiki/자그레브_국제공항 "wikilink")
+      - [자그레브](https://ko.wikipedia.org/wiki/자그레브 "wikilink") - [자그레브 국제공항](../Page/자그레브_국제공항.md "wikilink")
       - [두브로브니크](https://ko.wikipedia.org/wiki/두브로브니크 "wikilink") - [두브로브니크 공항](https://ko.wikipedia.org/wiki/두브로브니크_공항 "wikilink")
   - ****
       - [산타마리아](https://ko.wikipedia.org/wiki/산타마리아_섬 "wikilink") - [산타마리아 공항](https://ko.wikipedia.org/wiki/산타마리아_공항 "wikilink")
@@ -258,7 +258,7 @@
   - ****
       - [상트페테르부르크](https://ko.wikipedia.org/wiki/상트페테르부르크 "wikilink") - [풀코보 국제공항](https://ko.wikipedia.org/wiki/풀코보_국제공항 "wikilink")
   - ****
-      - [탈린](https://ko.wikipedia.org/wiki/탈린 "wikilink") - [탈린 공항](https://ko.wikipedia.org/wiki/탈린_공항 "wikilink")
+      - [탈린](https://ko.wikipedia.org/wiki/탈린 "wikilink") - [탈린 공항](../Page/탈린_공항.md "wikilink")
 
 #### [북유럽](https://ko.wikipedia.org/wiki/북유럽 "wikilink")
 
@@ -276,7 +276,7 @@
   - ****
       - [몬트리올](https://ko.wikipedia.org/wiki/몬트리올 "wikilink") - [몬트리올 피에르 엘리오트 트뤼도 국제공항](https://ko.wikipedia.org/wiki/몬트리올_피에르_엘리오트_트뤼도_국제공항 "wikilink")
   - ****
-      - [파나마 시티](https://ko.wikipedia.org/wiki/파나마_시티 "wikilink") - [토쿠멘 국제공항](https://ko.wikipedia.org/wiki/토쿠멘_국제공항 "wikilink")
+      - [파나마 시티](https://ko.wikipedia.org/wiki/파나마_시티 "wikilink") - [토쿠멘 국제공항](../Page/토쿠멘_국제공항.md "wikilink")
 
 #### [남아메리카](https://ko.wikipedia.org/wiki/남아메리카 "wikilink")
 
@@ -291,7 +291,7 @@
 #### [카리브해](https://ko.wikipedia.org/wiki/카리브해 "wikilink")
 
   - ****
-      - [푼타카나](https://ko.wikipedia.org/wiki/푼타카나 "wikilink") - [푼타카나 국제공항](https://ko.wikipedia.org/wiki/푼타카나_국제공항 "wikilink")
+      - [푼타카나](../Page/푼타카나.md "wikilink") - [푼타카나 국제공항](../Page/푼타카나_국제공항.md "wikilink")
   - ****
       - [바라데로](https://ko.wikipedia.org/wiki/바라데로 "wikilink") - [후안 괄베르토 고메스 공항](https://ko.wikipedia.org/wiki/후안_괄베르토_고메스_공항 "wikilink")
   - ****

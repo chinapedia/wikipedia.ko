@@ -24,7 +24,7 @@
 
   - 에도가와 코난(작은 쿠도 신이치) (코난(작은 남도일)) - [타카야마 미나미](https://ko.wikipedia.org/wiki/타카야마_미나미 "wikilink") / [김선혜](https://ko.wikipedia.org/wiki/김선혜_\(성우\) "wikilink")
   - 쿠도 신이치 (남도일) - [야마구치 캇페이](https://ko.wikipedia.org/wiki/야마구치_캇페이 "wikilink") / [강수진](https://ko.wikipedia.org/wiki/강수진_\(남자_성우\) "wikilink")
-  - 모리 란 (유미란) - [야마자키 와카나](https://ko.wikipedia.org/wiki/야마자키_와카나 "wikilink") / [이현진](https://ko.wikipedia.org/wiki/이현진_\(성우\) "wikilink")
+  - 모리 란 (유미란) - [야마자키 와카나](../Page/야마자키_와카나.md "wikilink") / [이현진](https://ko.wikipedia.org/wiki/이현진_\(성우\) "wikilink")
   - 모리 코고로 (유명한) - [코야마 리키야](https://ko.wikipedia.org/wiki/코야마_리키야 "wikilink") / [이정구](https://ko.wikipedia.org/wiki/이정구_\(성우\) "wikilink")
   - 하이바라 아이 (홍장미) - [하야시바라 메구미](https://ko.wikipedia.org/wiki/하야시바라_메구미 "wikilink") / [우정신](https://ko.wikipedia.org/wiki/우정신 "wikilink")
   - 요시다 아유미 (한아름) - [이와이 유키코](https://ko.wikipedia.org/wiki/이와이_유키코 "wikilink") / [여민정](https://ko.wikipedia.org/wiki/여민정_\(성우\) "wikilink")

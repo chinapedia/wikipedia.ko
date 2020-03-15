@@ -51,7 +51,7 @@
 <tr class="even">
 <td><p>2회</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/3월_11일" title="wikilink">3월 11일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/행복한_장의사" title="wikilink">행복한 장의사</a></p></td>
+<td><p><a href="../Page/행복한_장의사.md" title="wikilink">행복한 장의사</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -117,7 +117,7 @@
 <tr class="odd">
 <td><p>13회</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/5월_27일" title="wikilink">5월 27일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아름다운_시절_(1998년_영화)" title="wikilink">아름다운 시절</a></p></td>
+<td><p><a href="../Page/아름다운_시절_(1998년_영화).md" title="wikilink">아름다운 시절</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/금요일" title="wikilink">금요일</a> 밤 12:05 ~ 1:55 (110분)</p></td>
 </tr>
 <tr class="even">
@@ -385,13 +385,13 @@
 <tr class="even">
 <td><p>55회</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/3월_23일" title="wikilink">3월 23일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/헤어드레서_(2010년_영화)" title="wikilink">헤어드레서</a></p></td>
+<td><p><a href="../Page/헤어드레서_(2010년_영화).md" title="wikilink">헤어드레서</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/금요일" title="wikilink">금요일</a> 밤 12:05 ~ 1:50 (105분)</p></td>
 </tr>
 <tr class="odd">
 <td><p>56회</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/3월_30일" title="wikilink">3월 30일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/행복한_장의사" title="wikilink">행복한 장의사</a></p></td>
+<td><p><a href="../Page/행복한_장의사.md" title="wikilink">행복한 장의사</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/금요일" title="wikilink">금요일</a> 밤 12:05 ~ 1:40 (95분)</p></td>
 </tr>
 <tr class="even">
@@ -713,7 +713,7 @@
 <tr class="even">
 <td><p>107회</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/4월_5일" title="wikilink">4월 5일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/헤어드레서_(2010년_영화)" title="wikilink">헤어드레서</a></p></td>
+<td><p><a href="../Page/헤어드레서_(2010년_영화).md" title="wikilink">헤어드레서</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/금요일" title="wikilink">금요일</a> 밤 11:15 ~ 1:00 (105분)</p></td>
 </tr>
 <tr class="odd">
@@ -891,7 +891,7 @@
 <tr class="even">
 <td><p>8회</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/4월_21일" title="wikilink">4월 21일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/와즈다" title="wikilink">와즈다</a></p></td>
+<td><p><a href="../Page/와즈다.md" title="wikilink">와즈다</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/금요일" title="wikilink">금요일</a> 밤 12:25 ~ 2:05 (100분)</p></td>
 </tr>
 <tr class="odd">
@@ -957,13 +957,13 @@
 <tr class="odd">
 <td><p>19회</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/7월_7일" title="wikilink">7월 7일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/먹고_기도하고_사랑하라" title="wikilink">먹고 기도하고 사랑하라</a></p></td>
+<td><p><a href="../Page/먹고_기도하고_사랑하라.md" title="wikilink">먹고 기도하고 사랑하라</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/금요일" title="wikilink">금요일</a> 밤 12:25 ~ 2:45 (140분)</p></td>
 </tr>
 <tr class="even">
 <td><p>20회</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/7월_14일" title="wikilink">7월 14일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/줄리_&amp;_줄리아" title="wikilink">줄리 &amp; 줄리아</a></p></td>
+<td><p><a href="../Page/줄리_&amp;_줄리아.md" title="wikilink">줄리 &amp; 줄리아</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/금요일" title="wikilink">금요일</a> 밤 12:25 ~ 2:30 (125분)</p></td>
 </tr>
 <tr class="odd">
@@ -1017,7 +1017,7 @@
 <tr class="odd">
 <td><p>29회</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/9월_22일" title="wikilink">9월 22일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/라붐" title="wikilink">라붐</a></p></td>
+<td><p><a href="../Page/라붐.md" title="wikilink">라붐</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/금요일" title="wikilink">금요일</a> 밤 12:25 ~ 2:10 (110분)</p></td>
 </tr>
 <tr class="even">
@@ -1029,7 +1029,7 @@
 <tr class="odd">
 <td><p>31회</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/10월_6일" title="wikilink">10월 6일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/바닷마을_다이어리" title="wikilink">바닷마을 다이어리</a></p></td>
+<td><p><a href="../Page/바닷마을_다이어리.md" title="wikilink">바닷마을 다이어리</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/금요일" title="wikilink">금요일</a> 밤 12:25 ~ 2:35 (130분)</p></td>
 </tr>
 <tr class="even">
@@ -1059,7 +1059,7 @@
 <tr class="even">
 <td><p>36회</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/11월_10일" title="wikilink">11월 10일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/우먼_인_골드" title="wikilink">우먼 인 골드</a></p></td>
+<td><p><a href="../Page/우먼_인_골드.md" title="wikilink">우먼 인 골드</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/금요일" title="wikilink">금요일</a> 밤 12:25 ~ 2:15 (110분)</p></td>
 </tr>
 <tr class="odd">
@@ -1089,7 +1089,7 @@
 <tr class="odd">
 <td><p>41회</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/12월_22일" title="wikilink">12월 22일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/시애틀의_잠_못_이루는_밤" title="wikilink">시애틀의 잠 못 이루는 밤</a></p></td>
+<td><p><a href="../Page/시애틀의_잠_못_이루는_밤.md" title="wikilink">시애틀의 잠 못 이루는 밤</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/금요일" title="wikilink">금요일</a> 밤 12:25 ~ 2:10 (105분)</p></td>
 </tr>
 <tr class="even">
@@ -1135,7 +1135,7 @@
 <tr class="even">
 <td><p>46회</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/1월_26일" title="wikilink">1월 26일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/보리밭을_흔드는_바람" title="wikilink">보리밭을 흔드는 바람</a></p></td>
+<td><p><a href="../Page/보리밭을_흔드는_바람.md" title="wikilink">보리밭을 흔드는 바람</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/금요일" title="wikilink">금요일</a> 밤 12:25 ~ 2:35 (130분)</p></td>
 </tr>
 <tr class="odd">
@@ -1273,7 +1273,7 @@
 <tr class="odd">
 <td><p>69회</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/7월_6일" title="wikilink">7월 6일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/와즈다" title="wikilink">와즈다</a></p></td>
+<td><p><a href="../Page/와즈다.md" title="wikilink">와즈다</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/금요일" title="wikilink">금요일</a> 새벽 1:15 ~ 2:55 (100분)</p></td>
 </tr>
 <tr class="even">
@@ -1285,7 +1285,7 @@
 <tr class="odd">
 <td><p>71회</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/7월_20일" title="wikilink">7월 20일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/해바라기_(영화)" title="wikilink">해바라기</a></p></td>
+<td><p><a href="../Page/해바라기_(영화).md" title="wikilink">해바라기</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/금요일" title="wikilink">금요일</a> 새벽 1:15 ~ 2:55 (100분)</p></td>
 </tr>
 <tr class="even">
@@ -1357,7 +1357,7 @@
 <tr class="odd">
 <td><p>83회</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/10월_19일" title="wikilink">10월 19일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/자전거_탄_소년" title="wikilink">자전거 탄 소년</a></p></td>
+<td><p><a href="../Page/자전거_탄_소년.md" title="wikilink">자전거 탄 소년</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/금요일" title="wikilink">금요일</a> 밤 12:35 ~ 2:05 (90분)</p></td>
 </tr>
 <tr class="even">
@@ -1439,13 +1439,13 @@
 <tr class="odd">
 <td><p>94회</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/1월_4일" title="wikilink">1월 4일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/바닷마을_다이어리" title="wikilink">바닷마을 다이어리</a></p></td>
+<td><p><a href="../Page/바닷마을_다이어리.md" title="wikilink">바닷마을 다이어리</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/금요일" title="wikilink">금요일</a> 밤 12:35 ~ 2:45 (130분)</p></td>
 </tr>
 <tr class="even">
 <td><p>95회</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/1월_11일" title="wikilink">1월 11일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/클라우즈_오브_실스마리아" title="wikilink">클라우즈 오브 실스마리아</a></p></td>
+<td><p><a href="../Page/클라우즈_오브_실스마리아.md" title="wikilink">클라우즈 오브 실스마리아</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/금요일" title="wikilink">금요일</a> 밤 12:35 ~ 2:40 (125분)</p></td>
 </tr>
 <tr class="odd">
@@ -1481,7 +1481,7 @@
 <tr class="even">
 <td><p>101회</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/2월_22일" title="wikilink">2월 22일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/엘_시크레토:_비밀의_눈동자" title="wikilink">엘 시크레토: 비밀의 눈동자</a></p></td>
+<td><p><a href="../Page/엘_시크레토:_비밀의_눈동자.md" title="wikilink">엘 시크레토: 비밀의 눈동자</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/금요일" title="wikilink">금요일</a> 밤 12:55</p></td>
 </tr>
 <tr class="odd">
@@ -1639,8 +1639,8 @@
 
   - [명화극장](https://ko.wikipedia.org/wiki/명화극장 "wikilink")
   - [독립영화관](https://ko.wikipedia.org/wiki/독립영화관 "wikilink")
-  - [세계의 명화](https://ko.wikipedia.org/wiki/세계의_명화 "wikilink")
-  - [한국영화특선](https://ko.wikipedia.org/wiki/한국영화특선 "wikilink")
+  - [세계의 명화](../Page/세계의_명화.md "wikilink")
+  - [한국영화특선](../Page/한국영화특선.md "wikilink")
 
 ## 각주
 

@@ -3,7 +3,7 @@
 
 **2013년 CONCACAF 골드컵**(2013 CONCACAF Gold Cup)은 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [7월 7일부터](https://ko.wikipedia.org/wiki/7월_7일 "wikilink") [7월 28일까지](https://ko.wikipedia.org/wiki/7월_28일 "wikilink") [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")에서 개최된 12번째 [CONCACAF 골드컵이다](https://ko.wikipedia.org/wiki/CONCACAF_골드컵 "wikilink").
 
-이 대회부터 [FIFA 컨페더레이션스컵에](https://ko.wikipedia.org/wiki/FIFA_컨페더레이션스컵 "wikilink") 북중미 대표로 참가하는 방식이 바뀐다. 이 대회의 우승 팀은 [2015년 CONCACAF 골드컵의](https://ko.wikipedia.org/wiki/2015년_CONCACAF_골드컵 "wikilink") 우승 팀과 [플레이오프를](https://ko.wikipedia.org/wiki/2015년_CONCACAF컵 "wikilink") 치러서 승리한 팀이 [2017년 FIFA 컨페더레이션스컵에](https://ko.wikipedia.org/wiki/2017년_FIFA_컨페더레이션스컵 "wikilink") 진출하게 된다. (단, 이 대회의 우승 팀이 다음 대회에도 우승하는 경우는 제외)
+이 대회부터 [FIFA 컨페더레이션스컵에](https://ko.wikipedia.org/wiki/FIFA_컨페더레이션스컵 "wikilink") 북중미 대표로 참가하는 방식이 바뀐다. 이 대회의 우승 팀은 [2015년 CONCACAF 골드컵의](../Page/2015년_CONCACAF_골드컵.md "wikilink") 우승 팀과 [플레이오프를](../Page/2015년_CONCACAF컵.md "wikilink") 치러서 승리한 팀이 [2017년 FIFA 컨페더레이션스컵에](https://ko.wikipedia.org/wiki/2017년_FIFA_컨페더레이션스컵 "wikilink") 진출하게 된다. (단, 이 대회의 우승 팀이 다음 대회에도 우승하는 경우는 제외)
 
 ## 예선 및 참가국
 
@@ -42,7 +42,7 @@
 <td><p>11회</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/2012년_카리브컵" title="wikilink">2012년 카리브컵</a></strong></p></td>
+<td><p><strong><a href="../Page/2012년_카리브컵.md" title="wikilink">2012년 카리브컵</a></strong></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -67,7 +67,7 @@
 <td><p>4회</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/2013년_코파_센트로아메리카나" title="wikilink">2013년 코파 센트로아메리카나</a></strong></p></td>
+<td><p><strong><a href="../Page/2013년_코파_센트로아메리카나.md" title="wikilink">2013년 코파 센트로아메리카나</a></strong></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -153,9 +153,9 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/애틀란타" title="wikilink">애틀란타</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/BBVA_컴패스_스타디움" title="wikilink">BBVA 컴패스 스타디움</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/프로비던스_파크" title="wikilink">젤드 웬 필드</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/리오_틴토_스타디움" title="wikilink">리오 틴토 스타디움</a></p></td>
+<td><p><a href="../Page/BBVA_컴패스_스타디움.md" title="wikilink">BBVA 컴패스 스타디움</a></p></td>
+<td><p><a href="../Page/프로비던스_파크.md" title="wikilink">젤드 웬 필드</a></p></td>
+<td><p><a href="../Page/리오_틴토_스타디움.md" title="wikilink">리오 틴토 스타디움</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/렌츨러_필드" title="wikilink">렌츨러 필드</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/조지아_돔" title="wikilink">조지아 돔</a></p></td>
 </tr>
@@ -184,7 +184,7 @@
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/M&amp;T_뱅크_스타디움" title="wikilink">M&amp;T 뱅크 스타디움</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/카우보이스_스타디움" title="wikilink">카우보이스 스타디움</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/솔저_필드" title="wikilink">솔저 필드</a></p></td>
+<td><p><a href="../Page/솔저_필드.md" title="wikilink">솔저 필드</a></p></td>
 <td></td>
 <td></td>
 </tr>

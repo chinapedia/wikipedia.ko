@@ -38,7 +38,7 @@
 
   - [컴포넌트 비디오](https://ko.wikipedia.org/wiki/컴포넌트_비디오 "wikilink")
   - [RF 단자](https://ko.wikipedia.org/wiki/RF_단자 "wikilink")
-  - [XLR 단자](https://ko.wikipedia.org/wiki/XLR_단자 "wikilink")
+  - [XLR 단자](../Page/XLR_단자.md "wikilink")
 
 [분류:시청각 연결 단자](https://ko.wikipedia.org/wiki/분류:시청각_연결_단자 "wikilink")
 

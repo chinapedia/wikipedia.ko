@@ -58,19 +58,19 @@
 
 ## 경쟁 기종
 
-  - [HTC 원 맥스](https://ko.wikipedia.org/wiki/HTC_원_맥스 "wikilink")
+  - [HTC 원 맥스](../Page/HTC_원_맥스.md "wikilink")
   - [화웨이 어센드 메이트](../Page/화웨이_어센드_메이트.md "wikilink")
-  - [ZTE 누비아 Z5](https://ko.wikipedia.org/wiki/ZTE_누비아_Z5 "wikilink")
+  - [ZTE 누비아 Z5](../Page/ZTE_누비아_Z5.md "wikilink")
   - [삼성 갤럭시 메가 6.3](../Page/삼성_갤럭시_메가_6.3.md "wikilink")
-  - [LG G2](https://ko.wikipedia.org/wiki/LG_G2 "wikilink")
+  - [LG G2](../Page/LG_G2.md "wikilink")
   - [삼성 갤럭시 노트3](https://ko.wikipedia.org/wiki/삼성_갤럭시_노트3 "wikilink")
   - [팬택 베가 넘버 6](https://ko.wikipedia.org/wiki/팬택_베가_넘버_6 "wikilink")
 
 ## 같이 보기
 
   - [소니 엑스페리아 Z](../Page/소니_엑스페리아_Z.md "wikilink")
-  - [소니 엑스페리아 Z1](https://ko.wikipedia.org/wiki/소니_엑스페리아_Z1 "wikilink")
-  - [삼성 갤럭시 W (2014)](https://ko.wikipedia.org/wiki/삼성_갤럭시_W_\(2014\) "wikilink")
+  - [소니 엑스페리아 Z1](../Page/소니_엑스페리아_Z1.md "wikilink")
+  - [삼성 갤럭시 W (2014)](../Page/삼성_갤럭시_W_\(2014\).md "wikilink")
   - [구글 에디션](https://ko.wikipedia.org/wiki/구글_에디션 "wikilink")
 
 ## 각주

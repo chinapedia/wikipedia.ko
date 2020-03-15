@@ -20,7 +20,7 @@
 
 [분류:1930년 태어남](https://ko.wikipedia.org/wiki/분류:1930년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:미국의 물리학자](https://ko.wikipedia.org/wiki/분류:미국의_물리학자 "wikilink") [분류:펜실베이니아 대학교 동문](https://ko.wikipedia.org/wiki/분류:펜실베이니아_대학교_동문 "wikilink") [분류:시카고 대학교 동문](https://ko.wikipedia.org/wiki/분류:시카고_대학교_동문 "wikilink")
 
-1.  [윌러드 보일](https://ko.wikipedia.org/wiki/윌러드_보일 "wikilink"), [찰스 가오](https://ko.wikipedia.org/wiki/찰스_가오 "wikilink"), [조지 E. 스미스](https://ko.wikipedia.org/wiki/조지_E._스미스 "wikilink")
+1.  [윌러드 보일](https://ko.wikipedia.org/wiki/윌러드_보일 "wikilink"), [찰스 가오](https://ko.wikipedia.org/wiki/찰스_가오 "wikilink"), [조지 E. 스미스](../Page/조지_E._스미스.md "wikilink")
 2.  "for the invention of an imaging semiconductor circuit—the CCD sensor"
 3.  .
 4.

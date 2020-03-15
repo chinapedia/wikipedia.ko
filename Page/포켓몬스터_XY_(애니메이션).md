@@ -104,7 +104,7 @@
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/포켓몬_더_무비_XY:_후파:_광륜의_초마신" title="wikilink">후파: 광륜의 초마신</a></strong></p></td>
+<td><p><strong><a href="../Page/포켓몬_더_무비_XY:_후파:_광륜의_초마신.md" title="wikilink">후파: 광륜의 초마신</a></strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/2015년" title="wikilink">2015년</a> <a href="https://ko.wikipedia.org/wiki/7월_18일" title="wikilink">7월 18일</a></p></td>
 <td><p>극장개봉 <a href="https://ko.wikipedia.org/wiki/2015년" title="wikilink">2015년</a> <a href="https://ko.wikipedia.org/wiki/12월_23일" title="wikilink">12월 23일</a></p></td>
 </tr>
@@ -256,7 +256,7 @@
 
 ## 등장인물
 
-  - 주인공은 **[지우](https://ko.wikipedia.org/wiki/지우 "wikilink")**<small>(사토시)</small>와 **[세레나](https://ko.wikipedia.org/wiki/세레나 "wikilink")**, **[시트론](https://ko.wikipedia.org/wiki/시트론_\(포켓몬스터\) "wikilink")**, **[유리카](https://ko.wikipedia.org/wiki/유리카 "wikilink")**이다.
+  - 주인공은 **[지우](https://ko.wikipedia.org/wiki/지우 "wikilink")**<small>(사토시)</small>와 **[세레나](https://ko.wikipedia.org/wiki/세레나 "wikilink")**, **[시트론](../Page/시트론_\(포켓몬스터\).md "wikilink")**, **[유리카](https://ko.wikipedia.org/wiki/유리카 "wikilink")**이다.
   - 스타팅 [포켓몬](https://ko.wikipedia.org/wiki/포켓몬 "wikilink")은 **[도치마론](https://ko.wikipedia.org/wiki/도치마론 "wikilink"), [푸호꼬](https://ko.wikipedia.org/wiki/푸호꼬 "wikilink"), [개구마르](https://ko.wikipedia.org/wiki/개구마르 "wikilink")**다.
   - 전설의 [포켓몬](https://ko.wikipedia.org/wiki/포켓몬 "wikilink")은 **[제르네아스](https://ko.wikipedia.org/wiki/제르네아스 "wikilink")**, **[이벨타르](https://ko.wikipedia.org/wiki/이벨타르 "wikilink")**, **[지가르데](https://ko.wikipedia.org/wiki/지가르데 "wikilink")**다.
 

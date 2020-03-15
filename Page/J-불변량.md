@@ -42,7 +42,7 @@
 
 j-불변량의 [푸리에 급수는](https://ko.wikipedia.org/wiki/푸리에_급수 "wikilink") \(q=\exp(2\pi i\tau)\)를 사용하여 적으면 다음과 같다
 
-\[j(\tau) = \frac1q + 744 + 196884 q + 21493760 q^2 + 864299970 q^3 + 20245856256 q^4 + 333202640600q^5+\cdots\] 이 계수들은 가장 큰 예외적 유한 [단순군](https://ko.wikipedia.org/wiki/단순군 "wikilink")인 [괴물군의](https://ko.wikipedia.org/wiki/괴물군_\(수학\) "wikilink") [기약 표현들의](https://ko.wikipedia.org/wiki/기약_표현 "wikilink") 차원과 관계있다.
+\[j(\tau) = \frac1q + 744 + 196884 q + 21493760 q^2 + 864299970 q^3 + 20245856256 q^4 + 333202640600q^5+\cdots\] 이 계수들은 가장 큰 예외적 유한 [단순군](https://ko.wikipedia.org/wiki/단순군 "wikilink")인 [괴물군의](../Page/괴물군_\(수학\).md "wikilink") [기약 표현들의](https://ko.wikipedia.org/wiki/기약_표현 "wikilink") 차원과 관계있다.
 
 \[\begin{align}
 1 & = 1 \\

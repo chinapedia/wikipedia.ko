@@ -6,7 +6,7 @@
 ## 역사
 
   - 전신인 한게임 커뮤니케이션은 대한민국에 [인터넷](https://ko.wikipedia.org/wiki/인터넷 "wikilink")이 보급되던 시기인 [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [김범수와](https://ko.wikipedia.org/wiki/김범수_\(기업인\) "wikilink") 김범수가 다니던 직장인 [삼성 SDS의](https://ko.wikipedia.org/wiki/삼성_SDS "wikilink") 동료 및 주위 지인들과 함께, [한양대학교](https://ko.wikipedia.org/wiki/한양대학교 "wikilink")앞 PC방에서 운영과 개발을 시작하여 12월 1일 정식 서비스를 시작하게 되었다. 이후 국내의 인터넷 포탈들과 전략적 제휴를 맺어 발전하였다.
-  - 2000년 6월 네이버컴(현 [네이버 주식회사](https://ko.wikipedia.org/wiki/네이버_주식회사 "wikilink"))과 합병을 하여 [NHN](https://ko.wikipedia.org/wiki/NHN "wikilink") 주식회사를 설립하게 된다. 이후 12년간 합병상태를 유지해 오다 2013년 8월 1일 법적으로 기업분할을 하였으며 2013년 8월 29일 [KOSPI](https://ko.wikipedia.org/wiki/KOSPI "wikilink")에 상장되었다.\[3\]
+  - 2000년 6월 네이버컴(현 [네이버 주식회사](https://ko.wikipedia.org/wiki/네이버_주식회사 "wikilink"))과 합병을 하여 [NHN](../Page/NHN.md "wikilink") 주식회사를 설립하게 된다. 이후 12년간 합병상태를 유지해 오다 2013년 8월 1일 법적으로 기업분할을 하였으며 2013년 8월 29일 [KOSPI](https://ko.wikipedia.org/wiki/KOSPI "wikilink")에 상장되었다.\[3\]
   - 또한, 2014년 2월 1일 게임 운영과 개발을 담당하는 NHN블랙픽, NHN스튜디오629, NHN픽셀큐브 등 3개 자회사를 신설하는 물적분할을 실시했다.\[4\]\[5\]
   - 2015년 8월 1일에는 '사는게 니나노'라는 캐치프라이즈의 간편결제 서비스인 [페이코](https://ko.wikipedia.org/wiki/페이코 "wikilink")(PAYCO)를 출시하였다.
 
@@ -87,7 +87,7 @@
 ## 같이 보기
 
   - [한게임](https://ko.wikipedia.org/wiki/한게임 "wikilink")
-  - [NHN (2001년 기업)](https://ko.wikipedia.org/wiki/NHN_\(2001년_기업\) "wikilink") / [네이버 주식회사](https://ko.wikipedia.org/wiki/네이버_주식회사 "wikilink")
+  - [NHN (2001년 기업)](../Page/NHN_\(2001년_기업\).md "wikilink") / [네이버 주식회사](https://ko.wikipedia.org/wiki/네이버_주식회사 "wikilink")
 
 ## 각주
 

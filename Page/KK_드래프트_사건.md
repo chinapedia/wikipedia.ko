@@ -23,5 +23,5 @@ PL가쿠엔 고등학교의 [구와타 마스미와](https://ko.wikipedia.org/wi
 
 [분류:일본의 야구 역사](https://ko.wikipedia.org/wiki/분류:일본의_야구_역사 "wikilink") [분류:1985년 야구](https://ko.wikipedia.org/wiki/분류:1985년_야구 "wikilink") [분류:요미우리 자이언츠](https://ko.wikipedia.org/wiki/분류:요미우리_자이언츠 "wikilink") [분류:사이타마 세이부 라이온스](https://ko.wikipedia.org/wiki/분류:사이타마_세이부_라이온스 "wikilink") [분류:1985년 11월](https://ko.wikipedia.org/wiki/분류:1985년_11월 "wikilink")
 
-1.  당시 세이부의 구단 관리 과장이었던 [네모토 리쿠오에](https://ko.wikipedia.org/wiki/네모토_리쿠오 "wikilink") 의하면 구와타가 1위로 지명되지 못했을 경우에 하위에서 세이부가 지명할 예정이었다. 결국 요미우리가 구와타를 지명하면서 이를 저지했다.
+1.  당시 세이부의 구단 관리 과장이었던 [네모토 리쿠오에](../Page/네모토_리쿠오.md "wikilink") 의하면 구와타가 1위로 지명되지 못했을 경우에 하위에서 세이부가 지명할 예정이었다. 결국 요미우리가 구와타를 지명하면서 이를 저지했다.
 2.  [](https://web.archive.org/web/20091225150734/http://www.sponichi.co.jp/osaka/100sen/87.html) - 스포츠 닛폰, 1987년 11월 1일

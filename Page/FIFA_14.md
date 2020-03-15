@@ -194,7 +194,7 @@ FIFA 14에서부터 새로 추가된 모드이다. 온라인에서 친구와 함
 
 ### 리그
 
-[아르헨티나](https://ko.wikipedia.org/wiki/아르헨티나 "wikilink"), [콜롬비아](https://ko.wikipedia.org/wiki/콜롬비아 "wikilink"), [칠레](https://ko.wikipedia.org/wiki/칠레 "wikilink") 1부 리그가 추가되었으며,\[39\]\[40\]\[41\] 전작까지 라이선스를 따지 못한 팀이 적지 않았던 [브라질 세리 A도](https://ko.wikipedia.org/wiki/브라질_세리_A "wikilink") [EC 바이아를](https://ko.wikipedia.org/wiki/EC_바이아 "wikilink") 제외한 모든 팀의 라이선스를 획득하여 [남아메리카](https://ko.wikipedia.org/wiki/남아메리카 "wikilink") 지역 리그 구현에 중점을 두었다. [FIFA 12와](../Page/FIFA_12.md "wikilink") [FIFA 13에서](../Page/FIFA_13.md "wikilink") 리그 전체 팀이 비실명으로 나왔던 [폴란드](https://ko.wikipedia.org/wiki/폴란드 "wikilink") [엑스트라클라사](https://ko.wikipedia.org/wiki/엑스트라클라사 "wikilink") 역시 이번에는 전 구단이 사실대로 구현되었다.\[42\]
+[아르헨티나](https://ko.wikipedia.org/wiki/아르헨티나 "wikilink"), [콜롬비아](https://ko.wikipedia.org/wiki/콜롬비아 "wikilink"), [칠레](https://ko.wikipedia.org/wiki/칠레 "wikilink") 1부 리그가 추가되었으며,\[39\]\[40\]\[41\] 전작까지 라이선스를 따지 못한 팀이 적지 않았던 [브라질 세리 A도](https://ko.wikipedia.org/wiki/브라질_세리_A "wikilink") [EC 바이아를](../Page/EC_바이아.md "wikilink") 제외한 모든 팀의 라이선스를 획득하여 [남아메리카](https://ko.wikipedia.org/wiki/남아메리카 "wikilink") 지역 리그 구현에 중점을 두었다. [FIFA 12와](../Page/FIFA_12.md "wikilink") [FIFA 13에서](../Page/FIFA_13.md "wikilink") 리그 전체 팀이 비실명으로 나왔던 [폴란드](https://ko.wikipedia.org/wiki/폴란드 "wikilink") [엑스트라클라사](https://ko.wikipedia.org/wiki/엑스트라클라사 "wikilink") 역시 이번에는 전 구단이 사실대로 구현되었다.\[42\]
 
 <table>
 <thead>

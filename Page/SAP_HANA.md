@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SAP HANA](https://ko.wikipedia.org/wiki/SAP_HANA).
 
 
-**HANA**는 [SAP의](https://ko.wikipedia.org/wiki/SAP_AG "wikilink") [인메모리 데이터베이스](https://ko.wikipedia.org/wiki/인메모리_데이터베이스 "wikilink") 플랫폼이다.
+**HANA**는 [SAP의](https://ko.wikipedia.org/wiki/SAP_AG "wikilink") [인메모리 데이터베이스](../Page/인메모리_데이터베이스.md "wikilink") 플랫폼이다.
 
 ## 제품명
 

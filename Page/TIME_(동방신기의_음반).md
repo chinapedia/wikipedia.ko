@@ -11,7 +11,7 @@
 
 《**TIME**》은 대한민국 음악 그룹 동방신기의 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서 발매한 6번째 정규 앨범이다.
 
-앨범 컨셉은 앨범 제목에 걸맞게 과거 (CD+DVD반), 현재 (CD+DVD반), 미래 (CD반)로 분류되어 있으며 2011년 정규 5집 〈[TONE](https://ko.wikipedia.org/wiki/TONE "wikilink")〉이후에 발매된 〈[Winter \~Winter Rose / Duet-winter ver.-\~](https://ko.wikipedia.org/wiki/Winter_~Winter_Rose_/_Duet-winter_ver.-~ "wikilink")〉 부터 〈[Catch Me -If you wanna-](../Page/Catch_Me_-If_you_wanna-.md "wikilink")〉에 싱글되어 있는 수록곡들과 7곡의 신곡으로 구성되어 있다.
+앨범 컨셉은 앨범 제목에 걸맞게 과거 (CD+DVD반), 현재 (CD+DVD반), 미래 (CD반)로 분류되어 있으며 2011년 정규 5집 〈[TONE](../Page/TONE.md "wikilink")〉이후에 발매된 〈[Winter \~Winter Rose / Duet-winter ver.-\~](https://ko.wikipedia.org/wiki/Winter_~Winter_Rose_/_Duet-winter_ver.-~ "wikilink")〉 부터 〈[Catch Me -If you wanna-](../Page/Catch_Me_-If_you_wanna-.md "wikilink")〉에 싱글되어 있는 수록곡들과 7곡의 신곡으로 구성되어 있다.
 
 본 앨범의 첫 싱글로 취급되고 있는 〈Winter Rose〉는 정식적인 싱글보다는 계절 싱글의 성격을 크게 띄고 있어 CD반 한정으로 보너스 트랙으로 분류되어 있다.
 
@@ -33,7 +33,7 @@
 
 <!-- end list -->
 
-  - シアワセ色の花 ([TOHOSHINKI LIVE TOUR 2012 \~TONE\~](https://ko.wikipedia.org/wiki/TOHOSHINKI_LIVE_TOUR_2012_~TONE~ "wikilink"))
+  - シアワセ色の花 ([TOHOSHINKI LIVE TOUR 2012 \~TONE\~](../Page/TOHOSHINKI_LIVE_TOUR_2012_~TONE~.md "wikilink"))
   - 뮤직비디오 (댄스 버전)
 
 <!-- end list -->
@@ -55,7 +55,7 @@
 
 <!-- end list -->
 
-  - [TONE](https://ko.wikipedia.org/wiki/TONE "wikilink") 릴리즈 기념 이벤트 다이제스트 (2011.11.3)
+  - [TONE](../Page/TONE.md "wikilink") 릴리즈 기념 이벤트 다이제스트 (2011.11.3)
 
 <!-- end list -->
 

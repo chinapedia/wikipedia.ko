@@ -9,7 +9,7 @@
 
 1980년대 초반은 미국 공화당 레이건 대통령과 소련 브레즈네프 서기장이 중거리 핵미사일로 경쟁한 사건이 세계적으로 매우 이슈가 되었다. 2000년대에 미국의 유럽에 [패트리어트 미사일](https://ko.wikipedia.org/wiki/패트리어트_미사일 "wikilink") 설치와 러시아의 유럽에 [SS-26](https://ko.wikipedia.org/wiki/SS-26 "wikilink") 배치라는 대립관계 처럼, 1980년대 초반에도 그러한 미소경쟁이 있었다.
 
-1979년 소련은 유럽에 [SS-20](https://ko.wikipedia.org/wiki/SS-20 "wikilink") 중거리 핵미사일을 배치했다. 14곳의 발사장이 있었다. 이에 대한 [대응조치](https://ko.wikipedia.org/wiki/대응조치 "wikilink")로서, 미국은 [서독](https://ko.wikipedia.org/wiki/서독 "wikilink") 등 유럽에 [퍼싱-2](https://ko.wikipedia.org/wiki/퍼싱-2 "wikilink") 중거리 탄도 미사일과 [BGM-109G 그리폰](https://ko.wikipedia.org/wiki/BGM-109G_그리폰 "wikilink") 중거리 순항 미사일을 배치하려 했다.
+1979년 소련은 유럽에 [SS-20](https://ko.wikipedia.org/wiki/SS-20 "wikilink") 중거리 핵미사일을 배치했다. 14곳의 발사장이 있었다. 이에 대한 [대응조치](https://ko.wikipedia.org/wiki/대응조치 "wikilink")로서, 미국은 [서독](https://ko.wikipedia.org/wiki/서독 "wikilink") 등 유럽에 [퍼싱-2](https://ko.wikipedia.org/wiki/퍼싱-2 "wikilink") 중거리 탄도 미사일과 [BGM-109G 그리폰](../Page/BGM-109G_그리폰.md "wikilink") 중거리 순항 미사일을 배치하려 했다.
 
 당시 미소간의 대립은 매우 팽팽한 긴장을 유발하였는데, 양국이 한 발 물러나 상호간에 중거리 핵미사일 유럽배치가 취소되자, 소련은 SS-20을 극동지역으로 이동시켰다. 한국과 일본에 있는 미군이 중거리 핵미사일을 보유하고 있다는 이유에서였다.
 
@@ -37,12 +37,12 @@
 
 2016년 3월 [도널드 트럼프는](https://ko.wikipedia.org/wiki/도널드_트럼프 "wikilink") [뉴욕타임스](https://ko.wikipedia.org/wiki/뉴욕타임스 "wikilink")와의 인터뷰에서, [주일미군](https://ko.wikipedia.org/wiki/주일미군 "wikilink"), [주한미군](https://ko.wikipedia.org/wiki/주한미군 "wikilink")이 주둔비용 문제로 철수할 경우, 일본, 한국의 독자 핵무장을 지지한다고 말했다.\[3\] 일본이 핵무장을 할 경우, 중국 전역의 사거리를 가지려면 SS-20 정도의 사거리가 필요하다. 일본의 미사일 사거리와 동일한 허용을 한다고 가정하면, 미국은 한국에게도 SS-20 정도의 사거리를 허용할 가능성이 있다.
 
-2015년 [박근혜](https://ko.wikipedia.org/wiki/박근혜 "wikilink") 대통령이 참석한 중국 베이징의 군사 퍼레이드, [중국 인민 항일 전쟁 및 세계 반파시즘 전쟁 승리 70주년 기념 대회에서](https://ko.wikipedia.org/wiki/중국_인민_항일_전쟁_및_세계_반파시즘_전쟁_승리_70주년_기념_대회 "wikilink") [DF-26](https://ko.wikipedia.org/wiki/DF-26 "wikilink")을 최초로 전세계에 공개했다. 2016년 북한은 [무수단 미사일을](https://ko.wikipedia.org/wiki/무수단_미사일 "wikilink") 최초로 시험발사하는데 성공했다. SS-20 세이버, SS-28 세이버2, [DF-26](https://ko.wikipedia.org/wiki/DF-26 "wikilink"), [무수단 미사일은](https://ko.wikipedia.org/wiki/무수단_미사일 "wikilink") 모두 고체연료 2단 로켓으로서, 수소폭탄 3발을 탑재하고, 사거리 3,000-5,500 km 정도 되는 중거리 핵탄도 미사일([IRBM](https://ko.wikipedia.org/wiki/IRBM "wikilink"))이다. 동북아에 한국, 일본, 중국, 북한 사이에 무수단 미사일([IRBM](https://ko.wikipedia.org/wiki/IRBM "wikilink")) 배치 경쟁이 일어날 가능성이 있다.
+2015년 [박근혜](https://ko.wikipedia.org/wiki/박근혜 "wikilink") 대통령이 참석한 중국 베이징의 군사 퍼레이드, [중국 인민 항일 전쟁 및 세계 반파시즘 전쟁 승리 70주년 기념 대회에서](../Page/중국_인민_항일_전쟁_및_세계_반파시즘_전쟁_승리_70주년_기념_대회.md "wikilink") [DF-26](../Page/DF-26.md "wikilink")을 최초로 전세계에 공개했다. 2016년 북한은 [무수단 미사일을](https://ko.wikipedia.org/wiki/무수단_미사일 "wikilink") 최초로 시험발사하는데 성공했다. SS-20 세이버, SS-28 세이버2, [DF-26](../Page/DF-26.md "wikilink"), [무수단 미사일은](https://ko.wikipedia.org/wiki/무수단_미사일 "wikilink") 모두 고체연료 2단 로켓으로서, 수소폭탄 3발을 탑재하고, 사거리 3,000-5,500 km 정도 되는 중거리 핵탄도 미사일([IRBM](https://ko.wikipedia.org/wiki/IRBM "wikilink"))이다. 동북아에 한국, 일본, 중국, 북한 사이에 무수단 미사일([IRBM](https://ko.wikipedia.org/wiki/IRBM "wikilink")) 배치 경쟁이 일어날 가능성이 있다.
 
 ## 같이 보기
 
   - [퍼싱-2](https://ko.wikipedia.org/wiki/퍼싱-2 "wikilink")
-  - [BGM-109G 그리폰](https://ko.wikipedia.org/wiki/BGM-109G_그리폰 "wikilink")
+  - [BGM-109G 그리폰](../Page/BGM-109G_그리폰.md "wikilink")
   - [INF 조약](https://ko.wikipedia.org/wiki/INF_조약 "wikilink")
 
 ## 각주

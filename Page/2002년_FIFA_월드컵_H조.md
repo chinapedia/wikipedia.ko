@@ -742,7 +742,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/라우프_부자이엔" title="wikilink">라우프 부자이엔</a> (튀니지)</p>
+<a href="../Page/라우프_부자이엔.md" title="wikilink">라우프 부자이엔</a> (튀니지)</p>
 <p><strong>부심:</strong><br />
 폴 스미스 (<a href="https://ko.wikipedia.org/wiki/뉴질랜드_축구_협회" title="wikilink">뉴질랜드</a>)<br />
 코말레스와란 산카르 (<a href="https://ko.wikipedia.org/wiki/인도_축구_연맹" title="wikilink">인도</a>)<br />

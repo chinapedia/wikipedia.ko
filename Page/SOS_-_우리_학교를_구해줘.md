@@ -112,7 +112,7 @@
   - [홍성철](https://ko.wikipedia.org/wiki/홍성철 "wikilink") : 오광 역
   - [이태현](https://ko.wikipedia.org/wiki/이태현 "wikilink") : 한철 역
   - [강지원](https://ko.wikipedia.org/wiki/강지원 "wikilink") : 진주 역
-  - [조하석](https://ko.wikipedia.org/wiki/조하석 "wikilink") : 두창 역
+  - [조하석](../Page/조하석.md "wikilink") : 두창 역
   - [이선용](https://ko.wikipedia.org/wiki/이선용 "wikilink") : 검안의 역
   - [박리나](https://ko.wikipedia.org/wiki/박리나 "wikilink") : 두창의 여자친구 역
   - [박삼녕](https://ko.wikipedia.org/wiki/박삼녕 "wikilink") : 소방대원 역

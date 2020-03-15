@@ -35,9 +35,9 @@
 | 준결승   | [경성대학교](https://ko.wikipedia.org/wiki/경성대학교 "wikilink"){{·}}[홍익대학교](https://ko.wikipedia.org/wiki/홍익대학교 "wikilink") |    |
 | 최우수선수 | [정정환](https://ko.wikipedia.org/wiki/정정환 "wikilink") (인하대학교)                                                         |    |
 | 우수투수상 | [장성호](https://ko.wikipedia.org/wiki/장성호\(1992년\) "wikilink") (인하대학교)                                                |    |
-| 감투상   | [이호중](https://ko.wikipedia.org/wiki/이호중 "wikilink") (경희대학교)                                                         |    |
+| 감투상   | [이호중](../Page/이호중.md "wikilink") (경희대학교)                                                                            |    |
 | 수훈상   | [강윤웅](https://ko.wikipedia.org/wiki/강윤웅 "wikilink") (인하대학교)                                                         |    |
-| 타격상   | [양원혁](https://ko.wikipedia.org/wiki/양원혁 "wikilink") (인하대학교)                                                         |    |
+| 타격상   | [양원혁](../Page/양원혁.md "wikilink") (인하대학교)                                                                            |    |
 | 타점상   | [강백산](https://ko.wikipedia.org/wiki/강백산 "wikilink") (인하대학교)                                                         |    |
 | 도루상   | [조성모](https://ko.wikipedia.org/wiki/조성모 "wikilink") (경희대학교)                                                         |    |
 | 홈런상   | [박광택](https://ko.wikipedia.org/wiki/박광택 "wikilink") (동국대학교)                                                         |    |

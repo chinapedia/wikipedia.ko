@@ -11,6 +11,6 @@
 
 [분류:2013년 음반](https://ko.wikipedia.org/wiki/분류:2013년_음반 "wikilink") [분류:더콰이엇의 음반](https://ko.wikipedia.org/wiki/분류:더콰이엇의_음반 "wikilink") [분류:대한민국의 음반](https://ko.wikipedia.org/wiki/분류:대한민국의_음반 "wikilink") [분류:일리네어 레코즈의 음반](https://ko.wikipedia.org/wiki/분류:일리네어_레코즈의_음반 "wikilink") [분류:힙합 음반](https://ko.wikipedia.org/wiki/분류:힙합_음반 "wikilink")
 
-1.  "[The Quiett 'AMBITIQN' 발매](http://www.illionaire.kr/base/news/news.php?com_board_basic=read_form&com_board_idx=221&&com_board_search_code=&com_board_search_value1=&com_board_search_value2=&com_board_page=10&) ", [일리네어 레코즈](https://ko.wikipedia.org/wiki/일리네어_레코즈 "wikilink"). 2013년 2월 18일.
+1.  "[The Quiett 'AMBITIQN' 발매](http://www.illionaire.kr/base/news/news.php?com_board_basic=read_form&com_board_idx=221&&com_board_search_code=&com_board_search_value1=&com_board_search_value2=&com_board_page=10&) ", [일리네어 레코즈](../Page/일리네어_레코즈.md "wikilink"). 2013년 2월 18일.
 2.  신원철, "[더콰이엇 복무연장, 누리꾼 제보에서 시작…'병역법 33조 1항 위반'](http://entertain.naver.com/read?oid=311&aid=0000218724)". 엑스포츠뉴스. 2013년 5월 13일.
-3.  "[The Quiett 'AMBITIQN' 9월 12일 재발매](http://www.illionaire.kr/base/news/news.php?com_board_basic=read_form&com_board_idx=286&&com_board_search_code=&com_board_search_value1=&com_board_search_value2=&com_board_page=4&) " [일리네어 레코즈](https://ko.wikipedia.org/wiki/일리네어_레코즈 "wikilink"), 2014년 9월 4일.
+3.  "[The Quiett 'AMBITIQN' 9월 12일 재발매](http://www.illionaire.kr/base/news/news.php?com_board_basic=read_form&com_board_idx=286&&com_board_search_code=&com_board_search_value1=&com_board_search_value2=&com_board_page=4&) " [일리네어 레코즈](../Page/일리네어_레코즈.md "wikilink"), 2014년 9월 4일.

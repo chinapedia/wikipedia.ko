@@ -3,7 +3,7 @@
 
 [**PF컴퍼니**는](http://pfcompany.kr/) [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [연예 기획사다](https://ko.wikipedia.org/wiki/연예_기획사 "wikilink").
 
-배우 매니지먼트사로서 입지를 다져온 [PF엔터테인먼트](https://ko.wikipedia.org/wiki/PF엔터테인먼트 "wikilink") 가 [PF컴퍼니](https://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&query=pf%EC%BB%B4%ED%8D%BC%EB%8B%88&oquery=%EB%B0%B1%EC%88%98%ED%9D%AC&tqi=UnOq4sp0J14ssSChPQwssssstxZ-463146) 로 최근 사명을 변경하고 새로운 도약에 나섰다.
+배우 매니지먼트사로서 입지를 다져온 [PF엔터테인먼트](../Page/PF엔터테인먼트.md "wikilink") 가 [PF컴퍼니](https://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&query=pf%EC%BB%B4%ED%8D%BC%EB%8B%88&oquery=%EB%B0%B1%EC%88%98%ED%9D%AC&tqi=UnOq4sp0J14ssSChPQwssssstxZ-463146) 로 최근 사명을 변경하고 새로운 도약에 나섰다.
 
 ## 소속 연예인
 

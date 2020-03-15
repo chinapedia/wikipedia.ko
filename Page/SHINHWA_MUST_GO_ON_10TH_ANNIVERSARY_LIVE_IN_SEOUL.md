@@ -6,7 +6,7 @@
 ## 설명
 
   - 신화는 본 콘서트를 마지막으로 군복무 기간을 위한 4년 간의 그룹 활동 휴지기를 가졌다.
-  - 이에 앞서 개최된 중·일 투어 〈[2007 JAPAN TOUR 'SHINHWA FOREVER'](https://ko.wikipedia.org/wiki/2007_JAPAN_TOUR_'SHINHWA_FOREVER' "wikilink")〉의 큐시트를 일부 수정한 구성이다.
+  - 이에 앞서 개최된 중·일 투어 〈[2007 JAPAN TOUR 'SHINHWA FOREVER'](../Page/2007_JAPAN_TOUR_'SHINHWA_FOREVER'.md "wikilink")〉의 큐시트를 일부 수정한 구성이다.
   - 9집 수록곡인 "아직 못다한 이야기"를 선공개하였다.
   - 본 콘서트에서 4차례에 걸쳐 상영한 VCR 시리즈는 9집 타이틀곡 "RUN" 뮤직비디오의 원본으로 제작되었다.
 

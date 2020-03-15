@@ -7,7 +7,7 @@
 
 ### 앞면
 
-1.  "[One of These Nights](https://ko.wikipedia.org/wiki/One_of_These_Nights_\(노래\) "wikilink")" - 4:51
+1.  "[One of These Nights](../Page/One_of_These_Nights_\(노래\).md "wikilink")" - 4:51
 2.  "Too Many Hands" - 4:43
 3.  "Hollywood Waltz" - 4:04
 4.  "Journey of the Sorcerer" - 6:40

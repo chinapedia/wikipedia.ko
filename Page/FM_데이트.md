@@ -43,7 +43,7 @@
 ### 주말 코너
 
   - 토 : 길어도 괜찮아 / 꺼내들어요 (with [조커](https://ko.wikipedia.org/wiki/조커 "wikilink"))
-  - 일 : 노래는 말이죠 (with [윤덕원](https://ko.wikipedia.org/wiki/윤덕원 "wikilink"), [선우정아](https://ko.wikipedia.org/wiki/선우정아 "wikilink"))
+  - 일 : 노래는 말이죠 (with [윤덕원](https://ko.wikipedia.org/wiki/윤덕원 "wikilink"), [선우정아](../Page/선우정아.md "wikilink"))
 
 ## 수상 경력
 

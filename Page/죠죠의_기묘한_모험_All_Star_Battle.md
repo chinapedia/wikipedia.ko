@@ -91,10 +91,10 @@
     성우 - [스기타 토모카즈](https://ko.wikipedia.org/wiki/스기타_토모카즈 "wikilink")
     배틀 스타일 - 파문
   - 시저 안토니오 체펠리
-    성우 - [사토 타쿠야](https://ko.wikipedia.org/wiki/사토_타쿠야 "wikilink")
+    성우 - [사토 타쿠야](../Page/사토_타쿠야.md "wikilink")
     배틀 스타일 - 파문
   - 와무우
-    성우 - [오오츠카 아키오](https://ko.wikipedia.org/wiki/오오츠카_아키오 "wikilink")
+    성우 - [오오츠카 아키오](../Page/오오츠카_아키오.md "wikilink")
     배틀 스타일 - 유법
   - 에시디시
     성우 - [후지와라 케이지](https://ko.wikipedia.org/wiki/후지와라_케이지 "wikilink")

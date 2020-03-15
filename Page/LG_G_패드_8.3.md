@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LG G  8.3](https://ko.wikipedia.org/wiki/LG_G__8.3).
 
 
-**LG G패드 8.3** (LG G pad 8.3)은 [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")가 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [9월 4일](https://ko.wikipedia.org/wiki/9월_4일 "wikilink") 독일에서 열린 **[베를린 국제가전박람회](https://ko.wikipedia.org/wiki/베를린_국제가전박람회 "wikilink") 2013** (IFA 2013)에서 공개한 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [태블릿으로](https://ko.wikipedia.org/wiki/태블릿_컴퓨터 "wikilink"), **[LG 옵티머스 패드](https://ko.wikipedia.org/wiki/LG_옵티머스_패드 "wikilink")**의 후속 기종이다.
+**LG G패드 8.3** (LG G pad 8.3)은 [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")가 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [9월 4일](https://ko.wikipedia.org/wiki/9월_4일 "wikilink") 독일에서 열린 **[베를린 국제가전박람회](../Page/베를린_국제가전박람회.md "wikilink") 2013** (IFA 2013)에서 공개한 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [태블릿으로](https://ko.wikipedia.org/wiki/태블릿_컴퓨터 "wikilink"), **[LG 옵티머스 패드](https://ko.wikipedia.org/wiki/LG_옵티머스_패드 "wikilink")**의 후속 기종이다.
 
 ## 변종
 

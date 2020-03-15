@@ -5,7 +5,7 @@
 
 ## 그 외
 
-  - 동방신기의 5번째 국내 투어 〈[TVXQ\! SPECIAL LIVE TOUR "T1ST0RY"](https://ko.wikipedia.org/wiki/TVXQ!_SPECIAL_LIVE_TOUR_"T1ST0RY" "wikilink")〉에서 한국어 버전이 공개된 바 있다.
+  - 동방신기의 5번째 국내 투어 〈[TVXQ\! SPECIAL LIVE TOUR "T1ST0RY"](../Page/TVXQ!_SPECIAL_LIVE_TOUR_"T1ST0RY".md "wikilink")〉에서 한국어 버전이 공개된 바 있다.
 
 ## 수록곡
 
@@ -15,7 +15,7 @@
 
 <!-- end list -->
 
-  - [TOHOSHINKI LIVE TOUR 2012 \~TONE\~](https://ko.wikipedia.org/wiki/TOHOSHINKI_LIVE_TOUR_2012_~TONE~ "wikilink") 다이제스트 무비
+  - [TOHOSHINKI LIVE TOUR 2012 \~TONE\~](../Page/TOHOSHINKI_LIVE_TOUR_2012_~TONE~.md "wikilink") 다이제스트 무비
 
 ### DVD
 

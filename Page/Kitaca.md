@@ -16,7 +16,7 @@
   - [지토세 선](https://ko.wikipedia.org/wiki/지토세_선 "wikilink")
       - 공항 지선을 포함한 전 구간
   - [무로란 본선](https://ko.wikipedia.org/wiki/무로란_본선 "wikilink")
-      - [누마노하타 역](https://ko.wikipedia.org/wiki/누마노하타_역 "wikilink") - [도마코마이 역](https://ko.wikipedia.org/wiki/도마코마이_역 "wikilink") 간
+      - [누마노하타 역](../Page/누마노하타_역.md "wikilink") - [도마코마이 역](../Page/도마코마이_역.md "wikilink") 간
   - [삿쇼 선](https://ko.wikipedia.org/wiki/삿쇼_선 "wikilink")
       - [소엔 역](https://ko.wikipedia.org/wiki/소엔_역 "wikilink") - [홋카이도 의료 대학 역](https://ko.wikipedia.org/wiki/홋카이도_의료_대학_역 "wikilink") 간
 
@@ -26,7 +26,7 @@
 
 ## 같이 보기
 
-  - [PASMO](https://ko.wikipedia.org/wiki/PASMO "wikilink")
+  - [PASMO](../Page/PASMO.md "wikilink")
   - [PiTaPa](https://ko.wikipedia.org/wiki/PiTaPa "wikilink")
   - [ICOCA](https://ko.wikipedia.org/wiki/ICOCA "wikilink")
   - [Suica](https://ko.wikipedia.org/wiki/Suica "wikilink")

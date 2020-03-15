@@ -20,7 +20,7 @@
       -
         작사: Soluna / 작곡: Chris Janey, Junior Jokinen / 편곡: Trevor Ingram
         [마츠모토 준](https://ko.wikipedia.org/wiki/마츠모토_준 "wikilink") 주연 [후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 계열 드라마 《[럭키 세븐](https://ko.wikipedia.org/wiki/럭키_세븐_\(드라마\) "wikilink")》 주제가
-4.  **[Face Down](https://ko.wikipedia.org/wiki/Face_Down "wikilink")** \[3:59\]
+4.  **[Face Down](../Page/Face_Down.md "wikilink")** \[3:59\]
       -
         작사: eltvo / Rap 작사: 사쿠라이 쇼 / 작곡: Albi Albertsson, Royce.H, Vincent Stein, Kontantin Scherer / 편곡: metropolitan digital clique, Vincent Stein, Kontantin Scherer
         [오노 사토시](https://ko.wikipedia.org/wiki/오노_사토시 "wikilink") 주연 후지 TV 계열 드라마 《[열쇠가 잠긴 방](https://ko.wikipedia.org/wiki/방범_탐정·에노모토_시리즈 "wikilink")》 주제가

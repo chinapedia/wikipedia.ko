@@ -79,7 +79,7 @@
   - [톰 로스록](https://ko.wikipedia.org/wiki/톰_로스록 "wikilink") – 백 보컬 (6)
   - W. 빈센트 – 베이스 기타 (8)
   - 더 프로듀서 – 슬라이드 기타 (9)
-  - [린다 페리](https://ko.wikipedia.org/wiki/린다_페리 "wikilink") – 기타, 프로덕션 (10)
+  - [린다 페리](../Page/린다_페리.md "wikilink") – 기타, 프로덕션 (10)
   - P. III – 베이스 기타 (10)
   - 브라이언 맥클라우드 – 드럼 (10)
 

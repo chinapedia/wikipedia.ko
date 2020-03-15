@@ -10,13 +10,13 @@
 3.  Skit \#1
 4.  거품 안 넘치게 따라줘 (Life Is Good, Feat. [Crush](../Page/크러쉬_\(음악가\).md "wikilink"), [DJ Friz](https://ko.wikipedia.org/wiki/DJ_프리즈 "wikilink"))
 5.  BAAAM (Feat. [Muzie](https://ko.wikipedia.org/wiki/뮤지 "wikilink") of [UV](https://ko.wikipedia.org/wiki/UV_\(음악_그룹\) "wikilink"))
-6.  Airplane Mode (Feat. [이주한](https://ko.wikipedia.org/wiki/이주한_\(음악가\) "wikilink"), [혜원](https://ko.wikipedia.org/wiki/혜원_\(1984년\) "wikilink") of [Winterplay](https://ko.wikipedia.org/wiki/윈터플레이 "wikilink"), Simo)
+6.  Airplane Mode (Feat. [이주한](../Page/이주한_\(음악가\).md "wikilink"), [혜원](../Page/혜원_\(1984년\).md "wikilink") of [Winterplay](https://ko.wikipedia.org/wiki/윈터플레이 "wikilink"), Simo)
 7.  만루홈런 ([Lee Dae Ho](https://ko.wikipedia.org/wiki/이대호 "wikilink"), Feat. [Supreme Team](https://ko.wikipedia.org/wiki/Supreme_Team "wikilink"), [DJ Friz](https://ko.wikipedia.org/wiki/DJ_프리즈 "wikilink"))
 8.  슛 골인 (Shoot - Goal In)
 9.  날개뼈 (Hot Wings, Feat. [효린](https://ko.wikipedia.org/wiki/효린 "wikilink") of [SISTAR](https://ko.wikipedia.org/wiki/SISTAR "wikilink"))
 10. 아침사랑 (Good Morning Love)
 11. 비극 Part 2 (Tragedy Part 2)
-12. 범죄야 범죄 (Crime Scene, Feat. [정재일](https://ko.wikipedia.org/wiki/정재일 "wikilink"))
+12. 범죄야 범죄 (Crime Scene, Feat. [정재일](../Page/정재일.md "wikilink"))
 13. 가끔씩 오래 보자 ([Shin Dong Yeop](https://ko.wikipedia.org/wiki/신동엽_\(희극인\) "wikilink"))
 
 ## 외부 링크

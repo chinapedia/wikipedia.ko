@@ -19,14 +19,14 @@
 <tr class="odd">
 <td><p>2013년 10월 6일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/버펄로_(뉴욕주)" title="wikilink">버펄로</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/키뱅크_센터" title="wikilink">퍼스트 나이아가라 센터</a></p></td>
+<td><p><a href="../Page/키뱅크_센터.md" title="wikilink">퍼스트 나이아가라 센터</a></p></td>
 <td><p>11,700</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/랜디_오턴" title="wikilink">랜디 오턴</a> vs. <a href="https://ko.wikipedia.org/wiki/대니얼_브라이언" title="wikilink">대니얼 브라이언</a> (WWE 챔피언십)</p></td>
 </tr>
 <tr class="even">
 <td><p>2014년 7월 20일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/탬파" title="wikilink">탬파</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아말리_아레나" title="wikilink">템파베이 타임즈 포럼</a></p></td>
+<td><p><a href="../Page/아말리_아레나.md" title="wikilink">템파베이 타임즈 포럼</a></p></td>
 <td><p>12,000</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/존_시나" title="wikilink">존 시나</a> vs. <a href="https://ko.wikipedia.org/wiki/랜디_오턴" title="wikilink">랜디 오턴</a> vs. <a href="https://ko.wikipedia.org/wiki/케인_(프로레슬링_선수)" title="wikilink">케인</a> vs. <a href="https://ko.wikipedia.org/wiki/로만_레인즈" title="wikilink">로만 레인즈</a> (WWE 챔피언십, 페이탈 포 웨이 매치)</p></td>
 </tr>
@@ -47,7 +47,7 @@
 <tr class="odd">
 <td><p>2017년 7월 23일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/필라델피아" title="wikilink">필라델피아</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/웰스_파고_센터" title="wikilink">웰스 파고 센터</a></p></td>
+<td><p><a href="../Page/웰스_파고_센터.md" title="wikilink">웰스 파고 센터</a></p></td>
 <td><p>12,500</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/진더_마할" title="wikilink">진더 마할</a> vs. <a href="https://ko.wikipedia.org/wiki/랜디_오턴" title="wikilink">랜디 오턴</a> (WWE 챔피언십, 펀자비 프리즌 매치)</p></td>
 </tr>

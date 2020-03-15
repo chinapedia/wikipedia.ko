@@ -22,14 +22,14 @@
 
 <!-- end list -->
 
-1.  [Mr. Simple](https://ko.wikipedia.org/wiki/Mr._Simple_\(노래\) "wikilink")
-2.  [Opera](https://ko.wikipedia.org/wiki/Opera_\(슈퍼주니어의_노래\) "wikilink")
-3.  [Sexy, Free & Single](https://ko.wikipedia.org/wiki/Sexy,_Free_&_Single_\(노래\) "wikilink")
+1.  [Mr. Simple](../Page/Mr._Simple_\(노래\).md "wikilink")
+2.  [Opera](../Page/Opera_\(슈퍼주니어의_노래\).md "wikilink")
+3.  [Sexy, Free & Single](../Page/Sexy,_Free_&_Single_\(노래\).md "wikilink")
 4.  **Hero**
-5.  [Oppa, Oppa](https://ko.wikipedia.org/wiki/Oppa,_Oppa "wikilink") ([슈퍼주니어-D\&E](https://ko.wikipedia.org/wiki/슈퍼주니어-D&E "wikilink"))
-6.  [Promise You](https://ko.wikipedia.org/wiki/Promise_You "wikilink") ([슈퍼주니어-K.R.Y](https://ko.wikipedia.org/wiki/슈퍼주니어-K.R.Y "wikilink"))
-7.  [I WANNA DANCE](https://ko.wikipedia.org/wiki/I_WANNA_DANCE "wikilink") ([슈퍼주니어-D\&E](https://ko.wikipedia.org/wiki/슈퍼주니어-D&E "wikilink"))
-8.  [I WANNA DANCE](https://ko.wikipedia.org/wiki/I_WANNA_DANCE "wikilink") (Room ver.) ([슈퍼주니어-D\&E](https://ko.wikipedia.org/wiki/슈퍼주니어-D&E "wikilink"))
+5.  [Oppa, Oppa](https://ko.wikipedia.org/wiki/Oppa,_Oppa "wikilink") ([슈퍼주니어-D\&E](../Page/슈퍼주니어-D&E.md "wikilink"))
+6.  [Promise You](../Page/Promise_You.md "wikilink") ([슈퍼주니어-K.R.Y](https://ko.wikipedia.org/wiki/슈퍼주니어-K.R.Y "wikilink"))
+7.  [I WANNA DANCE](../Page/I_WANNA_DANCE.md "wikilink") ([슈퍼주니어-D\&E](../Page/슈퍼주니어-D&E.md "wikilink"))
+8.  [I WANNA DANCE](../Page/I_WANNA_DANCE.md "wikilink") (Room ver.) ([슈퍼주니어-D\&E](../Page/슈퍼주니어-D&E.md "wikilink"))
 9.  ロクゴ\!\!\! (Rokuko) ([슈퍼주니어-T](https://ko.wikipedia.org/wiki/슈퍼주니어-T "wikilink"))
 10. ハナミズキ ([슈퍼주니어-K.R.Y](https://ko.wikipedia.org/wiki/슈퍼주니어-K.R.Y "wikilink"))
 
@@ -41,9 +41,9 @@
 <!-- end list -->
 
 1.  Back Stage ～ SUPERMAN
-2.  [Mr. Simple](https://ko.wikipedia.org/wiki/Mr._Simple_\(노래\) "wikilink")
+2.  [Mr. Simple](../Page/Mr._Simple_\(노래\).md "wikilink")
 3.  [Sorry, Sorry](https://ko.wikipedia.org/wiki/Sorry,_Sorry "wikilink")
-4.  [Sexy, Free & Single](https://ko.wikipedia.org/wiki/Sexy,_Free_&_Single_\(노래\) "wikilink")
+4.  [Sexy, Free & Single](../Page/Sexy,_Free_&_Single_\(노래\).md "wikilink")
 
 <!-- end list -->
 

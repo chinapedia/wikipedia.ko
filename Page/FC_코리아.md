@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
 
 
-**FC 코리아**(FC Korea)는 [재일본조선인총련합회](https://ko.wikipedia.org/wiki/재일본조선인총련합회 "wikilink")계 [재일 조선인을](https://ko.wikipedia.org/wiki/재일_한국인 "wikilink") 주축으로 하는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink")단으로 일본 간토 사커 리그 및 [독립 축구 협회 연맹에](https://ko.wikipedia.org/wiki/독립_축구_협회_연맹 "wikilink") 소속되어 있는 팀이며 홈 경기장은 [도쿄](https://ko.wikipedia.org/wiki/도쿄 "wikilink")에 위치한 아카바네 파크 스타디움이다.
+**FC 코리아**(FC Korea)는 [재일본조선인총련합회](https://ko.wikipedia.org/wiki/재일본조선인총련합회 "wikilink")계 [재일 조선인을](https://ko.wikipedia.org/wiki/재일_한국인 "wikilink") 주축으로 하는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink")단으로 일본 간토 사커 리그 및 [독립 축구 협회 연맹에](../Page/독립_축구_협회_연맹.md "wikilink") 소속되어 있는 팀이며 홈 경기장은 [도쿄](https://ko.wikipedia.org/wiki/도쿄 "wikilink")에 위치한 아카바네 파크 스타디움이다.
 
 ## 역사
 
@@ -15,7 +15,7 @@
 
 ### 국제 대회
 
-2015년 [재일 조선인](https://ko.wikipedia.org/wiki/일본의_통일_코리안들_축구_대표팀 "wikilink")(United Koreans in Japan) 축구 협회를 만들어 [독립 축구 협회 연맹의](https://ko.wikipedia.org/wiki/독립_축구_협회_연맹 "wikilink") 정식 회원으로 가입했다.
+2015년 [재일 조선인](https://ko.wikipedia.org/wiki/일본의_통일_코리안들_축구_대표팀 "wikilink")(United Koreans in Japan) 축구 협회를 만들어 [독립 축구 협회 연맹의](../Page/독립_축구_협회_연맹.md "wikilink") 정식 회원으로 가입했다.
 
 ## 같이 보기
 

@@ -14,8 +14,8 @@
 | 2011 | **한국전쟁을 말한다** ([YTN](https://ko.wikipedia.org/wiki/YTN "wikilink"))                                                       |
 | 2012 | **[특수사건 전담반 TEN](../Page/특수사건_전담반_TEN.md "wikilink")** ([OCN](https://ko.wikipedia.org/wiki/OCN_\(방송\) "wikilink"))       |
 | 2013 | **[응답하라 1997](https://ko.wikipedia.org/wiki/응답하라_1997 "wikilink")** ([tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")) |
-| 2014 | **[응답하라 1994](https://ko.wikipedia.org/wiki/응답하라_1994 "wikilink")** ([tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")) |
-| 2015 | **[미생](https://ko.wikipedia.org/wiki/미생_\(드라마\) "wikilink")** ([tvN](https://ko.wikipedia.org/wiki/tvN "wikilink"))       |
+| 2014 | **[응답하라 1994](../Page/응답하라_1994.md "wikilink")** ([tvN](https://ko.wikipedia.org/wiki/tvN "wikilink"))                    |
+| 2015 | **[미생](../Page/미생_\(드라마\).md "wikilink")** ([tvN](https://ko.wikipedia.org/wiki/tvN "wikilink"))                          |
 |      |                                                                                                                           |
 
 ## 역대 부문별 수상내역
@@ -260,7 +260,7 @@ GO! 슈퍼코리안2 (CJ미디어(현 <a href="https://ko.wikipedia.org/wiki/CJ_
 <a href="https://ko.wikipedia.org/wiki/바비_킴" title="wikilink">바비킴</a> (MBC라이프 수요예술무대)<br />
 <a href="https://ko.wikipedia.org/wiki/김태현_(희극인)" title="wikilink">김태현</a> (코미디TV 얼짱시대)<br />
 <a href="https://ko.wikipedia.org/wiki/김하은" title="wikilink">김하은</a> (E채널 조선첩보활극 <a href="../Page/비밀기방_앙심정.md" title="wikilink">비밀기방 앙심정</a>)<br />
-<a href="https://ko.wikipedia.org/wiki/이택림" title="wikilink">이택림</a> (inet-TV 즐거운 가요)<br />
+<a href="../Page/이택림.md" title="wikilink">이택림</a> (inet-TV 즐거운 가요)<br />
 <a href="https://ko.wikipedia.org/wiki/김양_(가수)" title="wikilink">김양</a> (월드이벤트TV 월드빅쇼)<br />
 <a href="https://ko.wikipedia.org/wiki/조영구" title="wikilink">조영구</a>, <a href="https://ko.wikipedia.org/wiki/신재은" title="wikilink">신재은</a> (육아방송 육아매거진)<br />
 김동은 (현대홈쇼핑 쇼호스트)</p></td>
@@ -398,7 +398,7 @@ HD다큐멘터리 '고군산군도 천년의 역사를 품다' (금강방송)</p
 <tbody>
 <tr class="odd">
 <td><p>대상</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/응답하라_1994" title="wikilink">응답하라 1994</a> (<a href="https://ko.wikipedia.org/wiki/tvN" title="wikilink">tvN</a>)</p></td>
+<td><p><a href="../Page/응답하라_1994.md" title="wikilink">응답하라 1994</a> (<a href="https://ko.wikipedia.org/wiki/tvN" title="wikilink">tvN</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p>PP작품상 교양/다큐</p></td>
@@ -411,7 +411,7 @@ HD다큐멘터리 '고군산군도 천년의 역사를 품다' (금강방송)</p
 </tr>
 <tr class="even">
 <td><p>PP작품상 드라마/엔터테인먼트</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/실업급여_로맨스" title="wikilink">실업급여 로맨스</a> (<a href="https://ko.wikipedia.org/wiki/E채널" title="wikilink">E채널</a>)</p></td>
+<td><p><a href="../Page/실업급여_로맨스.md" title="wikilink">실업급여 로맨스</a> (<a href="https://ko.wikipedia.org/wiki/E채널" title="wikilink">E채널</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p>PP작품상 창의콘텐츠</p></td>
@@ -464,7 +464,7 @@ HD다큐멘터리 '고군산군도 천년의 역사를 품다' (금강방송)</p
 <tbody>
 <tr class="odd">
 <td><p>대상</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미생_(드라마)" title="wikilink">미생</a> (<a href="https://ko.wikipedia.org/wiki/tvN" title="wikilink">tvN</a>)</p></td>
+<td><p><a href="../Page/미생_(드라마).md" title="wikilink">미생</a> (<a href="https://ko.wikipedia.org/wiki/tvN" title="wikilink">tvN</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p>PP작품상 교양/다큐</p></td>
@@ -480,7 +480,7 @@ HD다큐멘터리 '고군산군도 천년의 역사를 품다' (금강방송)</p
 </tr>
 <tr class="odd">
 <td><p>PP작품상 창의콘텐츠</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/삼시세끼" title="wikilink">삼시세끼</a> (<a href="https://ko.wikipedia.org/wiki/CJ_E&amp;M" title="wikilink">CJ E&amp;M</a>)</p></td>
+<td><p><a href="../Page/삼시세끼.md" title="wikilink">삼시세끼</a> (<a href="https://ko.wikipedia.org/wiki/CJ_E&amp;M" title="wikilink">CJ E&amp;M</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p>PP작품상 문화교류</p></td>
@@ -512,10 +512,10 @@ Born in the U.S.A (CMB 대전방송)</p></td>
 ▲베스트커플상 - <a href="https://ko.wikipedia.org/wiki/한승연" title="wikilink">한승연</a>, <a href="https://ko.wikipedia.org/wiki/홍종현_(배우)" title="wikilink">홍종현</a><br />
 ▲MC상 - <a href="https://ko.wikipedia.org/wiki/전현무" title="wikilink">전현무</a><br />
 ▲코미디언상 - <a href="https://ko.wikipedia.org/wiki/안영미_(희극인)" title="wikilink">안영미</a><br />
-▲인기상(스포츠부문) - <a href="https://ko.wikipedia.org/wiki/윤태진_(아나운서)" title="wikilink">윤태진</a>, <a href="../Page/김선신.md" title="wikilink">김선신</a>, <a href="https://ko.wikipedia.org/wiki/김세희" title="wikilink">김세희</a><br />
+▲인기상(스포츠부문) - <a href="https://ko.wikipedia.org/wiki/윤태진_(아나운서)" title="wikilink">윤태진</a>, <a href="../Page/김선신.md" title="wikilink">김선신</a>, <a href="../Page/김세희.md" title="wikilink">김세희</a><br />
 ▲인기상(연기부문) - <a href="https://ko.wikipedia.org/wiki/강하늘" title="wikilink">강하늘</a>, <a href="https://ko.wikipedia.org/wiki/심형탁" title="wikilink">심형탁</a>, <a href="https://ko.wikipedia.org/wiki/유라" title="wikilink">유라</a><br />
 ▲인기상(가수부문) - <a href="https://ko.wikipedia.org/wiki/EXID" title="wikilink">EXID</a>, <a href="https://ko.wikipedia.org/wiki/홍진영" title="wikilink">홍진영</a>, <a href="https://ko.wikipedia.org/wiki/에일리" title="wikilink">에일리</a><br />
-▲인기상(한류부문) - <a href="../Page/방탄소년단.md" title="wikilink">방탄소년단</a>, <a href="https://ko.wikipedia.org/wiki/지연_(가수)" title="wikilink">지연</a></p></td>
+▲인기상(한류부문) - <a href="../Page/방탄소년단.md" title="wikilink">방탄소년단</a>, <a href="../Page/지연_(가수).md" title="wikilink">지연</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -538,7 +538,7 @@ Born in the U.S.A (CMB 대전방송)</p></td>
 <tr class="odd">
 <td><p>rowspan="9" text align=center|PP 작품상</p></td>
 <td><p>text align=center|드라마 부문</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/응답하라_1988" title="wikilink">응답하라 1988</a> (<a href="https://ko.wikipedia.org/wiki/tvN" title="wikilink">tvN</a>)</p></td>
+<td><p><a href="../Page/응답하라_1988.md" title="wikilink">응답하라 1988</a> (<a href="https://ko.wikipedia.org/wiki/tvN" title="wikilink">tvN</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p>text align=center|예능 부문</p></td>
@@ -562,7 +562,7 @@ Born in the U.S.A (CMB 대전방송)</p></td>
 </tr>
 <tr class="even">
 <td><p>text align=center|뉴미디어 부문</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유일랍미" title="wikilink">유일랍미</a> (Dream H)</p></td>
+<td><p><a href="../Page/유일랍미.md" title="wikilink">유일랍미</a> (Dream H)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -586,11 +586,11 @@ Born in the U.S.A (CMB 대전방송)</p></td>
 <tr class="even">
 <td><p>rowspan="13" text align=center|케이블스타상</p></td>
 <td><p>text align=center|베스트 연기자</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/박해진" title="wikilink">박해진</a> (<a href="https://ko.wikipedia.org/wiki/치즈인더트랩_(드라마)" title="wikilink">치즈인더트랩</a>)</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/박해진" title="wikilink">박해진</a> (<a href="../Page/치즈인더트랩_(드라마).md" title="wikilink">치즈인더트랩</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p>text align=center|베스트 MC</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/신동엽_(희극인)" title="wikilink">신동엽</a> (<a href="https://ko.wikipedia.org/wiki/용감한_기자들" title="wikilink">용감한 기자들</a>)</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/신동엽_(희극인)" title="wikilink">신동엽</a> (<a href="../Page/용감한_기자들.md" title="wikilink">용감한 기자들</a>)</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -600,32 +600,32 @@ Born in the U.S.A (CMB 대전방송)</p></td>
 </tr>
 <tr class="odd">
 <td><p>text align=center|라이징 스타</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/류준열" title="wikilink">류준열</a>, <a href="https://ko.wikipedia.org/wiki/류혜영" title="wikilink">류혜영</a> (<a href="https://ko.wikipedia.org/wiki/응답하라_1988" title="wikilink">응답하라 1988</a>) </br> <a href="https://ko.wikipedia.org/wiki/이진호_(1986년)" title="wikilink">이진호</a> (<a href="https://ko.wikipedia.org/wiki/배우학교" title="wikilink">배우학교</a>)</p></td>
+<td><p><a href="../Page/류준열.md" title="wikilink">류준열</a>, <a href="../Page/류혜영.md" title="wikilink">류혜영</a> (<a href="../Page/응답하라_1988.md" title="wikilink">응답하라 1988</a>) </br> <a href="https://ko.wikipedia.org/wiki/이진호_(1986년)" title="wikilink">이진호</a> (<a href="../Page/배우학교.md" title="wikilink">배우학교</a>)</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>text align=center|인기 스타</p></td>
-<td><p><a href="../Page/라미란.md" title="wikilink">라미란</a> (<a href="https://ko.wikipedia.org/wiki/응답하라_1988" title="wikilink">응답하라 1988</a>) </br> <a href="https://ko.wikipedia.org/wiki/이수근_(희극인)" title="wikilink">이수근</a> (KBS N 스포츠 죽방전설)</p></td>
+<td><p><a href="../Page/라미란.md" title="wikilink">라미란</a> (<a href="../Page/응답하라_1988.md" title="wikilink">응답하라 1988</a>) </br> <a href="https://ko.wikipedia.org/wiki/이수근_(희극인)" title="wikilink">이수근</a> (KBS N 스포츠 죽방전설)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>text align=center|베스트 커플</p></td>
-<td><p><a href="../Page/오창석.md" title="wikilink">오창석</a>, <a href="https://ko.wikipedia.org/wiki/이태임" title="wikilink">이태임</a> (<a href="https://ko.wikipedia.org/wiki/유일랍미" title="wikilink">유일랍미</a>)</p></td>
+<td><p><a href="../Page/오창석.md" title="wikilink">오창석</a>, <a href="https://ko.wikipedia.org/wiki/이태임" title="wikilink">이태임</a> (<a href="../Page/유일랍미.md" title="wikilink">유일랍미</a>)</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>text align=center|베스트 캐릭터</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김동욱_(1983년)" title="wikilink">김동욱</a>, <a href="https://ko.wikipedia.org/wiki/이청아" title="wikilink">이청아</a> (<a href="https://ko.wikipedia.org/wiki/라이더스:_내일을_잡아라" title="wikilink">라이더스: 내일을 잡아라</a>)</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/김동욱_(1983년)" title="wikilink">김동욱</a>, <a href="https://ko.wikipedia.org/wiki/이청아" title="wikilink">이청아</a> (<a href="../Page/라이더스:_내일을_잡아라.md" title="wikilink">라이더스: 내일을 잡아라</a>)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>text align=center|공감 스타</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/윤진서" title="wikilink">윤진서</a> (<a href="https://ko.wikipedia.org/wiki/나에게_건배" title="wikilink">나에게 건배</a>)</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/윤진서" title="wikilink">윤진서</a> (<a href="../Page/나에게_건배.md" title="wikilink">나에게 건배</a>)</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>text align=center|맛있는 스타</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김준현_(희극인)" title="wikilink">김준현</a>, <a href="https://ko.wikipedia.org/wiki/유민상_(희극인)" title="wikilink">유민상</a>, <a href="https://ko.wikipedia.org/wiki/김민경_(희극인)" title="wikilink">김민경</a>, <a href="https://ko.wikipedia.org/wiki/문세윤" title="wikilink">문세윤</a> (<a href="https://ko.wikipedia.org/wiki/맛있는_녀석들" title="wikilink">맛있는 녀석들</a>)</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/김준현_(희극인)" title="wikilink">김준현</a>, <a href="https://ko.wikipedia.org/wiki/유민상_(희극인)" title="wikilink">유민상</a>, <a href="https://ko.wikipedia.org/wiki/김민경_(희극인)" title="wikilink">김민경</a>, <a href="https://ko.wikipedia.org/wiki/문세윤" title="wikilink">문세윤</a> (<a href="../Page/맛있는_녀석들.md" title="wikilink">맛있는 녀석들</a>)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -641,7 +641,7 @@ Born in the U.S.A (CMB 대전방송)</p></td>
 </tr>
 <tr class="odd">
 <td><p>text align=center|핫이슈 예능인</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/최현석" title="wikilink">최현석</a> (<a href="https://ko.wikipedia.org/wiki/냉장고를_부탁해" title="wikilink">냉장고를 부탁해</a>)</p></td>
+<td><p><a href="../Page/최현석.md" title="wikilink">최현석</a> (<a href="../Page/냉장고를_부탁해.md" title="wikilink">냉장고를 부탁해</a>)</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -657,16 +657,16 @@ Born in the U.S.A (CMB 대전방송)</p></td>
 <tr class="even">
 <td><p>rowspan="4" text align=center|케이블 VOD</p></td>
 <td><p>text align=center|드라마 부문</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/응답하라_1988" title="wikilink">응답하라 1988</a> (<a href="https://ko.wikipedia.org/wiki/CJ_E&amp;M" title="wikilink">CJ E&amp;M</a>)</p></td>
+<td><p><a href="../Page/응답하라_1988.md" title="wikilink">응답하라 1988</a> (<a href="https://ko.wikipedia.org/wiki/CJ_E&amp;M" title="wikilink">CJ E&amp;M</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p>text align=center|예능 부문</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/냉장고를_부탁해" title="wikilink">냉장고를 부탁해</a> (<a href="https://ko.wikipedia.org/wiki/JTBC" title="wikilink">JTBC</a>)</p></td>
+<td><p><a href="../Page/냉장고를_부탁해.md" title="wikilink">냉장고를 부탁해</a> (<a href="https://ko.wikipedia.org/wiki/JTBC" title="wikilink">JTBC</a>)</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>text align=center|영화 부문</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/베테랑_(영화)" title="wikilink">베테랑</a> (제작사 외유내강)</p></td>
+<td><p><a href="../Page/베테랑_(영화).md" title="wikilink">베테랑</a> (제작사 외유내강)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -705,51 +705,51 @@ KCTV스페셜-가네보의 검은 실타래 (한국케이블TV <a href="https://
 
 ### 2017년
 
-| |부문                                    | |세부 부문                                                                                                                                                                                                                        | |수상작 / 수상자                                                                                                                  |
-| -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| rowspan="8" text align=center|PP 작품상   | text align=center|드라마 부문 대상                                                                                                                                                                                                   | [도깨비](https://ko.wikipedia.org/wiki/도깨비_\(드라마\) "wikilink") ([tvN](https://ko.wikipedia.org/wiki/tvN "wikilink"))           |
-| text align=center|예능/코미디 부문 대상         | [주간 아이돌](https://ko.wikipedia.org/wiki/주간_아이돌 "wikilink") (MBC every1)                                                                                                                                                        |                                                                                                                             |
-| text align=center|교양/다큐 부문 대상          | 마을이야기 ([YTN](https://ko.wikipedia.org/wiki/YTN "wikilink")), 순종 (CBS)                                                                                                                                                         |                                                                                                                             |
-| text align=center|어린이 부문 대상            | 미술관에 간 클래식 (대교어린이TV)                                                                                                                                                                                                          |                                                                                                                             |
-| text align=center|음악 부문 대상             | 함양 물레방아골 축제기념-함양군 노래교실 합창 경연대회 (I.NET)                                                                                                                                                                                        |                                                                                                                             |
-| text align=center|기획 부문 대상             | 교과서에 나오는 문화유산 답사기 (UMAX)                                                                                                                                                                                                      |                                                                                                                             |
-| text align=center|글로벌 부문 대상            | 2016 Mnet Asian Music Awards ([Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink"))                                                                                                                                          |                                                                                                                             |
-| text align=center|뉴미디어 부문 대상           | [1%의 어떤 것](https://ko.wikipedia.org/wiki/1%의_어떤_것_\(2016년_드라마\) "wikilink") ([드라맥스](https://ko.wikipedia.org/wiki/드라맥스 "wikilink"))                                                                                           |                                                                                                                             |
-| rowspan="19" text align=center|케이블스타상  | text align=center|베스트 연기자상                                                                                                                                                                                                    | [유지태](https://ko.wikipedia.org/wiki/유지태 "wikilink") ([굿 와이프](https://ko.wikipedia.org/wiki/굿_와이프_\(2016년_드라마\) "wikilink")) |
-| text align=center|베스트 예능 MC상           | [정형돈](https://ko.wikipedia.org/wiki/정형돈 "wikilink"), [데프콘](https://ko.wikipedia.org/wiki/데프콘 "wikilink") ([주간아이돌](https://ko.wikipedia.org/wiki/주간아이돌 "wikilink"))                                                            |                                                                                                                             |
-| text align=center|베스트 커플상              | [김지석](https://ko.wikipedia.org/wiki/김지석_\(배우\) "wikilink"), [예지원](https://ko.wikipedia.org/wiki/예지원 "wikilink") ([또\! 오해영](https://ko.wikipedia.org/wiki/또!_오해영 "wikilink"))                                                  |                                                                                                                             |
-| text align=center|라이징 스타상 (연기)         | [육성재](https://ko.wikipedia.org/wiki/육성재 "wikilink") ([도깨비](https://ko.wikipedia.org/wiki/도깨비_\(드라마\) "wikilink"))                                                                                                             |                                                                                                                             |
-| text align=center|라이징 스타상 (MC)         | [하니](https://ko.wikipedia.org/wiki/하니_\(가수\) "wikilink")                                                                                                                                                                      |                                                                                                                             |
-| text align=center|라이징 스타상 (예능)         | [권혁수](https://ko.wikipedia.org/wiki/권혁수 "wikilink") ([툰드라쇼](https://ko.wikipedia.org/wiki/툰드라쇼 "wikilink"))                                                                                                                   |                                                                                                                             |
-| text align=center|인기스타상                | [김지석](https://ko.wikipedia.org/wiki/김지석_\(배우\) "wikilink") ([또\! 오해영](https://ko.wikipedia.org/wiki/또!_오해영 "wikilink"))                                                                                                       |                                                                                                                             |
-| text align=center|신스틸러상                | [예지원](https://ko.wikipedia.org/wiki/예지원 "wikilink") ([또\! 오해영](https://ko.wikipedia.org/wiki/또!_오해영 "wikilink"))                                                                                                              |                                                                                                                             |
-| text align=center|용감한 스타상              | [윤정수](https://ko.wikipedia.org/wiki/윤정수 "wikilink"), [김태현](https://ko.wikipedia.org/wiki/김태현_\(희극인\) "wikilink"), [레이디 제인](../Page/레이디_제인_\(가수\).md "wikilink") ([용감한 기자들](https://ko.wikipedia.org/wiki/용감한_기자들 "wikilink")) |                                                                                                                             |
-| text align=center|올해 가수상               | [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink")                                                                                                                                                                         |                                                                                                                             |
-| text align=center|한류스타상                | [비투비](https://ko.wikipedia.org/wiki/비투비 "wikilink")                                                                                                                                                                           |                                                                                                                             |
-| text align=center|퍼포먼스상                | [세븐틴](https://ko.wikipedia.org/wiki/세븐틴_\(음악_그룹\) "wikilink")                                                                                                                                                                 |                                                                                                                             |
-| text align=center|OST상                 | [에일리](https://ko.wikipedia.org/wiki/에일리 "wikilink") ([도깨비](https://ko.wikipedia.org/wiki/도깨비_\(드라마\) "wikilink"))                                                                                                             |                                                                                                                             |
-| text align=center|트로트상                 | [태진아](https://ko.wikipedia.org/wiki/태진아 "wikilink")                                                                                                                                                                           |                                                                                                                             |
-| text align=center|스타일 아이콘상             | [한혜진](../Page/한혜진_\(모델\).md "wikilink") (스타일 라이킷) </br> [김주리](https://ko.wikipedia.org/wiki/김주리 "wikilink") ([38사기동대](https://ko.wikipedia.org/wiki/38사기동대 "wikilink"))                                                       |                                                                                                                             |
-| text align=center|뷰티 아이콘상              | [한채영](https://ko.wikipedia.org/wiki/한채영 "wikilink") (화장대를 부탁해2)                                                                                                                                                               |                                                                                                                             |
-| text align=center|인기패널상                | [이혜정](https://ko.wikipedia.org/wiki/이혜정 "wikilink")                                                                                                                                                                           |                                                                                                                             |
-| text align=center|캐릭터상                 | 캐리 (캐리와 장난감 친구들)                                                                                                                                                                                                              |                                                                                                                             |
-| text align=center|1인 크리에이터상            | 도티 (도티TV 유튜브)                                                                                                                                                                                                                 |                                                                                                                             |
-| colspan="2" text align=center|PP 채널상   | [E채널](https://ko.wikipedia.org/wiki/E채널 "wikilink")                                                                                                                                                                           |                                                                                                                             |
-| rowspan="3" text align=center|케이블 VOD상 | text align=center|VOD 영화 부문 대상                                                                                                                                                                                                | [곡성](https://ko.wikipedia.org/wiki/곡성_\(영화\) "wikilink")                                                                    |
-| text align=center|VOD 방송 부문 대상         | [도깨비](https://ko.wikipedia.org/wiki/도깨비_\(드라마\) "wikilink")                                                                                                                                                                   |                                                                                                                             |
-| text align=center|VOD 어린이 부문 대상        | 뽀롱뽀롱 뽀로로 시즌6                                                                                                                                                                                                                  |                                                                                                                             |
-| rowspan="3" text align=center|지역채널 작품상 | text align=center|보도 부문 대상                                                                                                                                                                                                    | 나무 두 그루에 울고 웃은 성북동 (딜라이브 북부케이블TV) </br> 뉴스인타임 \<기획보도-경남 혁신도시, 지금 살만합니까?\> (서경방송)                                            |
-| text align=center|정규방송 부문 대상           | 탐라 오디세이 제주올레-다시, 이길에서 (KCTV 제주방송) </br> 시간이 빚어낸 부산의 맛- 고향으로 돌아온 부산 명란 (현대HCN 부산방송)                                                                                                                                            |                                                                                                                             |
-| text align=center|특집방송 부문 대상           | 다시쓰는 한국야구 100년 (CJ헬로비전 해운대기장방송) </br> 옛길을 찾아 새길을 걷다 (딜라이브 우리케이블TV)                                                                                                                                                            |                                                                                                                             |
-| colspan="2" text align=center|지역채널 개인상 | 이철진 PD (지역채널 프로듀서상)</br>이하영 기자 (지역채널 보도기자상)</br>김길정 감독 (지역채널 촬영감독상)</br>박상인 감독 (지역채널 방송기술상)                                                                                                                                   |                                                                                                                             |
-|                                        |                                                                                                                                                                                                                               |                                                                                                                             |
+| |부문                                    | |세부 부문                                                                                                                                                                                                     | |수상작 / 수상자                                                                                               |
+| -------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| rowspan="8" text align=center|PP 작품상   | text align=center|드라마 부문 대상                                                                                                                                                                                | [도깨비](../Page/도깨비_\(드라마\).md "wikilink") ([tvN](https://ko.wikipedia.org/wiki/tvN "wikilink"))           |
+| text align=center|예능/코미디 부문 대상         | [주간 아이돌](https://ko.wikipedia.org/wiki/주간_아이돌 "wikilink") (MBC every1)                                                                                                                                     |                                                                                                          |
+| text align=center|교양/다큐 부문 대상          | 마을이야기 ([YTN](https://ko.wikipedia.org/wiki/YTN "wikilink")), 순종 (CBS)                                                                                                                                      |                                                                                                          |
+| text align=center|어린이 부문 대상            | 미술관에 간 클래식 (대교어린이TV)                                                                                                                                                                                       |                                                                                                          |
+| text align=center|음악 부문 대상             | 함양 물레방아골 축제기념-함양군 노래교실 합창 경연대회 (I.NET)                                                                                                                                                                     |                                                                                                          |
+| text align=center|기획 부문 대상             | 교과서에 나오는 문화유산 답사기 (UMAX)                                                                                                                                                                                   |                                                                                                          |
+| text align=center|글로벌 부문 대상            | 2016 Mnet Asian Music Awards ([Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink"))                                                                                                                       |                                                                                                          |
+| text align=center|뉴미디어 부문 대상           | [1%의 어떤 것](../Page/1%의_어떤_것_\(2016년_드라마\).md "wikilink") ([드라맥스](https://ko.wikipedia.org/wiki/드라맥스 "wikilink"))                                                                                           |                                                                                                          |
+| rowspan="19" text align=center|케이블스타상  | text align=center|베스트 연기자상                                                                                                                                                                                 | [유지태](https://ko.wikipedia.org/wiki/유지태 "wikilink") ([굿 와이프](../Page/굿_와이프_\(2016년_드라마\).md "wikilink")) |
+| text align=center|베스트 예능 MC상           | [정형돈](https://ko.wikipedia.org/wiki/정형돈 "wikilink"), [데프콘](https://ko.wikipedia.org/wiki/데프콘 "wikilink") ([주간아이돌](https://ko.wikipedia.org/wiki/주간아이돌 "wikilink"))                                         |                                                                                                          |
+| text align=center|베스트 커플상              | [김지석](https://ko.wikipedia.org/wiki/김지석_\(배우\) "wikilink"), [예지원](https://ko.wikipedia.org/wiki/예지원 "wikilink") ([또\! 오해영](../Page/또!_오해영.md "wikilink"))                                                  |                                                                                                          |
+| text align=center|라이징 스타상 (연기)         | [육성재](../Page/육성재.md "wikilink") ([도깨비](../Page/도깨비_\(드라마\).md "wikilink"))                                                                                                                                |                                                                                                          |
+| text align=center|라이징 스타상 (MC)         | [하니](../Page/하니_\(가수\).md "wikilink")                                                                                                                                                                      |                                                                                                          |
+| text align=center|라이징 스타상 (예능)         | [권혁수](https://ko.wikipedia.org/wiki/권혁수 "wikilink") ([툰드라쇼](https://ko.wikipedia.org/wiki/툰드라쇼 "wikilink"))                                                                                                |                                                                                                          |
+| text align=center|인기스타상                | [김지석](https://ko.wikipedia.org/wiki/김지석_\(배우\) "wikilink") ([또\! 오해영](../Page/또!_오해영.md "wikilink"))                                                                                                       |                                                                                                          |
+| text align=center|신스틸러상                | [예지원](https://ko.wikipedia.org/wiki/예지원 "wikilink") ([또\! 오해영](../Page/또!_오해영.md "wikilink"))                                                                                                              |                                                                                                          |
+| text align=center|용감한 스타상              | [윤정수](https://ko.wikipedia.org/wiki/윤정수 "wikilink"), [김태현](https://ko.wikipedia.org/wiki/김태현_\(희극인\) "wikilink"), [레이디 제인](../Page/레이디_제인_\(가수\).md "wikilink") ([용감한 기자들](../Page/용감한_기자들.md "wikilink")) |                                                                                                          |
+| text align=center|올해 가수상               | [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink")                                                                                                                                                      |                                                                                                          |
+| text align=center|한류스타상                | [비투비](https://ko.wikipedia.org/wiki/비투비 "wikilink")                                                                                                                                                        |                                                                                                          |
+| text align=center|퍼포먼스상                | [세븐틴](../Page/세븐틴_\(음악_그룹\).md "wikilink")                                                                                                                                                                 |                                                                                                          |
+| text align=center|OST상                 | [에일리](https://ko.wikipedia.org/wiki/에일리 "wikilink") ([도깨비](../Page/도깨비_\(드라마\).md "wikilink"))                                                                                                             |                                                                                                          |
+| text align=center|트로트상                 | [태진아](https://ko.wikipedia.org/wiki/태진아 "wikilink")                                                                                                                                                        |                                                                                                          |
+| text align=center|스타일 아이콘상             | [한혜진](../Page/한혜진_\(모델\).md "wikilink") (스타일 라이킷) </br> [김주리](https://ko.wikipedia.org/wiki/김주리 "wikilink") ([38사기동대](../Page/38사기동대.md "wikilink"))                                                       |                                                                                                          |
+| text align=center|뷰티 아이콘상              | [한채영](https://ko.wikipedia.org/wiki/한채영 "wikilink") (화장대를 부탁해2)                                                                                                                                            |                                                                                                          |
+| text align=center|인기패널상                | [이혜정](https://ko.wikipedia.org/wiki/이혜정 "wikilink")                                                                                                                                                        |                                                                                                          |
+| text align=center|캐릭터상                 | 캐리 (캐리와 장난감 친구들)                                                                                                                                                                                           |                                                                                                          |
+| text align=center|1인 크리에이터상            | 도티 (도티TV 유튜브)                                                                                                                                                                                              |                                                                                                          |
+| colspan="2" text align=center|PP 채널상   | [E채널](https://ko.wikipedia.org/wiki/E채널 "wikilink")                                                                                                                                                        |                                                                                                          |
+| rowspan="3" text align=center|케이블 VOD상 | text align=center|VOD 영화 부문 대상                                                                                                                                                                             | [곡성](../Page/곡성_\(영화\).md "wikilink")                                                                    |
+| text align=center|VOD 방송 부문 대상         | [도깨비](../Page/도깨비_\(드라마\).md "wikilink")                                                                                                                                                                   |                                                                                                          |
+| text align=center|VOD 어린이 부문 대상        | 뽀롱뽀롱 뽀로로 시즌6                                                                                                                                                                                               |                                                                                                          |
+| rowspan="3" text align=center|지역채널 작품상 | text align=center|보도 부문 대상                                                                                                                                                                                 | 나무 두 그루에 울고 웃은 성북동 (딜라이브 북부케이블TV) </br> 뉴스인타임 \<기획보도-경남 혁신도시, 지금 살만합니까?\> (서경방송)                         |
+| text align=center|정규방송 부문 대상           | 탐라 오디세이 제주올레-다시, 이길에서 (KCTV 제주방송) </br> 시간이 빚어낸 부산의 맛- 고향으로 돌아온 부산 명란 (현대HCN 부산방송)                                                                                                                         |                                                                                                          |
+| text align=center|특집방송 부문 대상           | 다시쓰는 한국야구 100년 (CJ헬로비전 해운대기장방송) </br> 옛길을 찾아 새길을 걷다 (딜라이브 우리케이블TV)                                                                                                                                         |                                                                                                          |
+| colspan="2" text align=center|지역채널 개인상 | 이철진 PD (지역채널 프로듀서상)</br>이하영 기자 (지역채널 보도기자상)</br>김길정 감독 (지역채널 촬영감독상)</br>박상인 감독 (지역채널 방송기술상)                                                                                                                |                                                                                                          |
+|                                        |                                                                                                                                                                                                            |                                                                                                          |
 
 ### 2018년
 
 | |부문                                    | |세부 부문                                                                                                                                                                                                                                                                                                                   | |수상작 / 수상자                                                                                                            |
 | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------- |
 | rowspan="7" text align=center|PP 작품상   | text align=center|드라마 부문 대상                                                                                                                                                                                                                                                                                              | [슬기로운 감빵생활](https://ko.wikipedia.org/wiki/슬기로운_감빵생활 "wikilink") ([tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")) |
-| text align=center|예능/코미디 부문 대상         | [맛있는 녀석들](https://ko.wikipedia.org/wiki/맛있는_녀석들 "wikilink") ([코미디TV](https://ko.wikipedia.org/wiki/코미디TV "wikilink"))                                                                                                                                                                                                    |                                                                                                                       |
+| text align=center|예능/코미디 부문 대상         | [맛있는 녀석들](../Page/맛있는_녀석들.md "wikilink") ([코미디TV](https://ko.wikipedia.org/wiki/코미디TV "wikilink"))                                                                                                                                                                                                                       |                                                                                                                       |
 | text align=center|교양/다큐 부문 대상          | 다시 쓰는 루터 로드 ([CBS](https://ko.wikipedia.org/wiki/CBS "wikilink"))</br>영국에서 온 감탄식객 ([ONT](https://ko.wikipedia.org/wiki/ONT "wikilink"))                                                                                                                                                                                  |                                                                                                                       |
 | text align=center|어린이 부문 대상            | [한다면 한다\! 한다맨](https://ko.wikipedia.org/wiki/한다면_한다!_한다맨 "wikilink") ([대교어린이TV](https://ko.wikipedia.org/wiki/대교어린이TV "wikilink"))                                                                                                                                                                                       |                                                                                                                       |
 | text align=center|음악 부문 대상             | [쇼 챔피언](https://ko.wikipedia.org/wiki/쇼_챔피언 "wikilink") ([MBC Music](https://ko.wikipedia.org/wiki/MBC_Music "wikilink"))                                                                                                                                                                                                |                                                                                                                       |

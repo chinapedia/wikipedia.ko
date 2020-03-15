@@ -18,7 +18,7 @@
 
 <!-- end list -->
 
-  - 2010: *[WOW](https://ko.wikipedia.org/wiki/WOW_\(AK의_음반\) "wikilink")*
+  - 2010: *[WOW](../Page/WOW_\(AK의_음반\).md "wikilink")*
 
 <!-- end list -->
 

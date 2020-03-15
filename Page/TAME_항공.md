@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TAME ](https://ko.wikipedia.org/wiki/TAME_).
 
 
-**TAME 항공**()은 [에콰도르](https://ko.wikipedia.org/wiki/에콰도르 "wikilink")의 [국영 항공사로](https://ko.wikipedia.org/wiki/국영_항공사 "wikilink") 총 22개 노선을 취항하고 있다. 본사는 [에콰도르](https://ko.wikipedia.org/wiki/에콰도르 "wikilink") [키토](https://ko.wikipedia.org/wiki/키토 "wikilink") 위치해 있으며 [1962년](https://ko.wikipedia.org/wiki/1962년 "wikilink")에 설립했다. 또한 사용하고 있는 [허브 공항으로](https://ko.wikipedia.org/wiki/허브_공항 "wikilink") [마리스칼 수크레 국제공항](https://ko.wikipedia.org/wiki/마리스칼_수크레_국제공항 "wikilink"), [호세 호아킨데 올메도 국제공항이](https://ko.wikipedia.org/wiki/호세_호아킨데_올메도_국제공항 "wikilink") 있다.\[1\]
+**TAME 항공**()은 [에콰도르](https://ko.wikipedia.org/wiki/에콰도르 "wikilink")의 [국영 항공사로](https://ko.wikipedia.org/wiki/국영_항공사 "wikilink") 총 22개 노선을 취항하고 있다. 본사는 [에콰도르](https://ko.wikipedia.org/wiki/에콰도르 "wikilink") [키토](https://ko.wikipedia.org/wiki/키토 "wikilink") 위치해 있으며 [1962년](https://ko.wikipedia.org/wiki/1962년 "wikilink")에 설립했다. 또한 사용하고 있는 [허브 공항으로](https://ko.wikipedia.org/wiki/허브_공항 "wikilink") [마리스칼 수크레 국제공항](../Page/마리스칼_수크레_국제공항.md "wikilink"), [호세 호아킨데 올메도 국제공항이](../Page/호세_호아킨데_올메도_국제공항.md "wikilink") 있다.\[1\]
 
 ## 역사
 
