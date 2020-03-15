@@ -3,9 +3,9 @@
 
 **[ZARD](https://ko.wikipedia.org/wiki/ZARD "wikilink")**는 [사카이 이즈미를](https://ko.wikipedia.org/wiki/사카이_이즈미 "wikilink") 중심으로 활동했던 일본의 [밴드이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). ZARD는 사카이가 사망한 2007년까지 활동했지만 사후에도 음반이 제작되었고, 지금까지 모두 11장의 [정규 음반](https://ko.wikipedia.org/wiki/정규_음반 "wikilink"), 1장의 [라이브 음반](https://ko.wikipedia.org/wiki/라이브_음반 "wikilink"), 1장의 [사운드트랙](https://ko.wikipedia.org/wiki/사운드트랙 "wikilink"), 45장의 [싱글](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink"), 12장의 [컴필레이션을](https://ko.wikipedia.org/wiki/컴필레이션_음반 "wikilink") 발표했다. 컴필레이션은 다시 세 종류로 구분할 수 있고, 각각 5장의 [베스트 음반](https://ko.wikipedia.org/wiki/베스트_음반 "wikilink"), 4장의 셀렉션 음반, [박스 세트](https://ko.wikipedia.org/wiki/박스_세트 "wikilink") 3세트이다. 데뷔 25주년이던 2016년, 그녀의 곡들을 다시 편곡해 발매한 [헌정 음반도](https://ko.wikipedia.org/wiki/헌정_음반 "wikilink") 1장 존재한다.
 
-1991년 후지 TV의 드라마 《결혼의 이상과 현실》의 PD가 주제곡을 구하기 위해 [빙을](https://ko.wikipedia.org/wiki/빙_\(기업\) "wikilink") 찾았다가 사카이의 데모 테이프를 듣고 발탁했으며,\[1\] [이 주제곡으로](https://ko.wikipedia.org/wiki/Good-bye_My_Loneliness "wikilink") 데뷔함과 동시에 ZARD가 결성되었다.\[2\] 1993년 〈[지지마세요](https://ko.wikipedia.org/wiki/지지마세요 "wikilink")〉와 〈[흔들리는 마음](../Page/흔들리는_마음.md "wikilink")〉이 공전의 대성공을 거뒀으며, 이 두 곡을 수록한 정규 음반 《[흔들리는 마음](https://ko.wikipedia.org/wiki/흔들리는_마음_\(음반\) "wikilink")》이 200만 장 이상의 판매고를 기록하며 상업적으로도 성공하였다. 지금까지 발매했던 작품 중에 11장의 음반과 12장의 싱글이 [오리콘 차트에서](https://ko.wikipedia.org/wiki/오리콘_차트 "wikilink") 1위를 기록했다. 다만 활동 시기에 미디어로의 노출이 극단적으로 없었으며, 전성기를 맞이하던 시절에도 라이브조차 하지 않았고, 나아가 "ZARD는 실제로 존재하지 않는다.", "음반 재킷에 있는 사람과 노래하는 사람이 다르다." 등의 [도시전설](https://ko.wikipedia.org/wiki/도시전설 "wikilink")마저 존재할 정도로 세간에 노출되지 않는 가수로서의 이미지가 강했다.\[3\]
+1991년 후지 TV의 드라마 《결혼의 이상과 현실》의 PD가 주제곡을 구하기 위해 [빙을](https://ko.wikipedia.org/wiki/빙_\(기업\) "wikilink") 찾았다가 사카이의 데모 테이프를 듣고 발탁했으며,\[1\] [이 주제곡으로](https://ko.wikipedia.org/wiki/Good-bye_My_Loneliness "wikilink") 데뷔함과 동시에 ZARD가 결성되었다.\[2\] 1993년 〈[지지마세요](https://ko.wikipedia.org/wiki/지지마세요 "wikilink")〉와 〈[흔들리는 마음](../Page/흔들리는_마음.md "wikilink")〉이 공전의 대성공을 거뒀으며, 이 두 곡을 수록한 정규 음반 《[흔들리는 마음](../Page/흔들리는_마음_\(음반\).md "wikilink")》이 200만 장 이상의 판매고를 기록하며 상업적으로도 성공하였다. 지금까지 발매했던 작품 중에 11장의 음반과 12장의 싱글이 [오리콘 차트에서](https://ko.wikipedia.org/wiki/오리콘_차트 "wikilink") 1위를 기록했다. 다만 활동 시기에 미디어로의 노출이 극단적으로 없었으며, 전성기를 맞이하던 시절에도 라이브조차 하지 않았고, 나아가 "ZARD는 실제로 존재하지 않는다.", "음반 재킷에 있는 사람과 노래하는 사람이 다르다." 등의 [도시전설](https://ko.wikipedia.org/wiki/도시전설 "wikilink")마저 존재할 정도로 세간에 노출되지 않는 가수로서의 이미지가 강했다.\[3\]
 
-사카이 이즈미는 보컬이었지만 작사가로서도 활발히 활동했다. 첫 번째 정규 음반 《[Good-bye my Loneliness](https://ko.wikipedia.org/wiki/Good-bye_My_Loneliness_\(음반\) "wikilink")》에 수록된 단 두 곡만을 [카와시마 다리아가](https://ko.wikipedia.org/wiki/카와시마_다리아 "wikilink") 작사했고, ZARD가 발표한 모든 작품 중에서 사카이가 작사에 관여하지 않은 곡은 없다. 1993년 [테레사 텐의](https://ko.wikipedia.org/wiki/테레사_텐 "wikilink") 싱글 〈[당신과 함께 살아가요](https://ko.wikipedia.org/wiki/당신과_함께_살아가요 "wikilink")〉의 가사를 맡으며 다른 아티스트들의 곡도 작곡가로서 참여하기 시작했고, 모두 13곡의 작사에 관여했다. 이 곡들은 사카이가 다시 [커버해](https://ko.wikipedia.org/wiki/리메이크_노래 "wikilink") 불렀거나 [데모 버전이](https://ko.wikipedia.org/wiki/데모_\(음악\) "wikilink") 존재하며, ZARD의 음반에 전부 수록되었다. 작곡의 경우엔 수백 곡을 발표하며 〈[솔직하게 말할 수 없어서](../Page/솔직하게_말할_수_없어서.md "wikilink")〉, 〈[언젠가는...](https://ko.wikipedia.org/wiki/이제_찾지_않아_\(음반\) "wikilink")〉, 〈[잠](../Page/이별인사는_지금도_가슴_속에_있어요.md "wikilink")〉, 〈[당신을 향한 블루스](../Page/가슴에_불을_붙여.md "wikilink")〉 단 네 곡만을 본인이 담당했다. 그중에서 〈솔직하게 말할 수 없어서〉는 ZARD가 발표한 싱글 중에서 유일하게 사카이가 작곡한 곡이 타이틀 곡으로 사용된 경우다.
+사카이 이즈미는 보컬이었지만 작사가로서도 활발히 활동했다. 첫 번째 정규 음반 《[Good-bye my Loneliness](https://ko.wikipedia.org/wiki/Good-bye_My_Loneliness_\(음반\) "wikilink")》에 수록된 단 두 곡만을 [카와시마 다리아가](https://ko.wikipedia.org/wiki/카와시마_다리아 "wikilink") 작사했고, ZARD가 발표한 모든 작품 중에서 사카이가 작사에 관여하지 않은 곡은 없다. 1993년 [테레사 텐의](https://ko.wikipedia.org/wiki/테레사_텐 "wikilink") 싱글 〈[당신과 함께 살아가요](https://ko.wikipedia.org/wiki/당신과_함께_살아가요 "wikilink")〉의 가사를 맡으며 다른 아티스트들의 곡도 작곡가로서 참여하기 시작했고, 모두 13곡의 작사에 관여했다. 이 곡들은 사카이가 다시 [커버해](https://ko.wikipedia.org/wiki/리메이크_노래 "wikilink") 불렀거나 [데모 버전이](https://ko.wikipedia.org/wiki/데모_\(음악\) "wikilink") 존재하며, ZARD의 음반에 전부 수록되었다. 작곡의 경우엔 수백 곡을 발표하며 〈[솔직하게 말할 수 없어서](../Page/솔직하게_말할_수_없어서.md "wikilink")〉, 〈[언젠가는...](../Page/이제_찾지_않아_\(음반\).md "wikilink")〉, 〈[잠](../Page/이별인사는_지금도_가슴_속에_있어요.md "wikilink")〉, 〈[당신을 향한 블루스](../Page/가슴에_불을_붙여.md "wikilink")〉 단 네 곡만을 본인이 담당했다. 그중에서 〈솔직하게 말할 수 없어서〉는 ZARD가 발표한 싱글 중에서 유일하게 사카이가 작곡한 곡이 타이틀 곡으로 사용된 경우다.
 
 ZARD는 일본에서 활동한 여성 보컬 중 가장 큰 성공을 거둔 음악가 중 한 명이다. [오리콘](https://ko.wikipedia.org/wiki/오리콘 "wikilink")이 조사한 음반의 판매량은 약 3,762만 장이며, 이는 오리콘이 판매량 집계를 시작한 이래로 9위에 해당되는 수치이다. 이 중 싱글이 1,773만 장, 정규 음반이 1,989만 장이다. 발표한 45장의 싱글 모두가 100위 이내를 기록했으며, 그 중에서 43장은 10위 이내에 들었다.
 
@@ -89,7 +89,7 @@ ZARD는 일본에서 활동한 여성 보컬 중 가장 큰 성공을 거둔 음
 <td><p>Px</p></td>
 </tr>
 <tr class="even">
-<td><p>《<a href="https://ko.wikipedia.org/wiki/이제_찾지_않아_(음반)" title="wikilink">이제 찾지 않아</a>》[5]<br />
+<td><p>《<a href="../Page/이제_찾지_않아_(음반).md" title="wikilink">이제 찾지 않아</a>》[5]<br />
 <span style="font-size: 90%">()</span></p></td>
 <td><ul>
 <li>발매일: 1991년 12월 25일</li>
@@ -100,7 +100,7 @@ ZARD는 일본에서 활동한 여성 보컬 중 가장 큰 성공을 거둔 음
 <td><p>Px</p></td>
 </tr>
 <tr class="odd">
-<td><p>《<a href="https://ko.wikipedia.org/wiki/HOLD_ME" title="wikilink">HOLD ME</a>》[6]</p></td>
+<td><p>《<a href="../Page/HOLD_ME.md" title="wikilink">HOLD ME</a>》[6]</p></td>
 <td><ul>
 <li>발매일: 1992년 9월 2일</li>
 <li>레이블: b.gram (폴리도르 레코드)</li>
@@ -110,7 +110,7 @@ ZARD는 일본에서 활동한 여성 보컬 중 가장 큰 성공을 거둔 음
 <td><p>3Px</p></td>
 </tr>
 <tr class="even">
-<td><p>《<a href="https://ko.wikipedia.org/wiki/흔들리는_마음_(음반)" title="wikilink">흔들리는 마음</a>》[7]<br />
+<td><p>《<a href="../Page/흔들리는_마음_(음반).md" title="wikilink">흔들리는 마음</a>》[7]<br />
 <span style="font-size: 90%">()</span></p></td>
 <td><ul>
 <li>발매일: 1993년 7월 10일</li>
@@ -121,7 +121,7 @@ ZARD는 일본에서 활동한 여성 보컬 중 가장 큰 성공을 거둔 음
 <td><p>2M</p></td>
 </tr>
 <tr class="odd">
-<td><p>《<a href="https://ko.wikipedia.org/wiki/OH_MY_LOVE" title="wikilink">OH MY LOVE</a>》[8]</p></td>
+<td><p>《<a href="../Page/OH_MY_LOVE.md" title="wikilink">OH MY LOVE</a>》[8]</p></td>
 <td><ul>
 <li>발매일: 1994년 6월 4일</li>
 <li>레이블: B-Gram RECORDS</li>
@@ -141,7 +141,7 @@ ZARD는 일본에서 활동한 여성 보컬 중 가장 큰 성공을 거둔 음
 <td><p>4Px</p></td>
 </tr>
 <tr class="odd">
-<td><p>《<a href="https://ko.wikipedia.org/wiki/TODAY_IS_ANOTHER_DAY" title="wikilink">TODAY IS ANOTHER DAY</a>》[10]</p></td>
+<td><p>《<a href="../Page/TODAY_IS_ANOTHER_DAY.md" title="wikilink">TODAY IS ANOTHER DAY</a>》[10]</p></td>
 <td><ul>
 <li>발매일: 1996년 2월 17일</li>
 <li>레이블: B-Gram RECORDS</li>
@@ -432,7 +432,7 @@ ZARD는 일본에서 활동한 여성 보컬 중 가장 큰 성공을 거둔 음
 <span style="font-size: 90%">()</span></p></td>
 <td><p>30</p></td>
 <td><p>―</p></td>
-<td><p>《<a href="https://ko.wikipedia.org/wiki/이제_찾지_않아_(음반)" title="wikilink">이제 찾지 않아</a>》</p></td>
+<td><p>《<a href="../Page/이제_찾지_않아_(음반).md" title="wikilink">이제 찾지 않아</a>》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -449,13 +449,13 @@ ZARD는 일본에서 활동한 여성 보컬 중 가장 큰 성공을 거둔 음
 <td><p>1992</p></td>
 <td><p>8</p></td>
 <td><p>Px</p></td>
-<td><p>《<a href="https://ko.wikipedia.org/wiki/HOLD_ME" title="wikilink">HOLD ME</a>》</p></td>
+<td><p>《<a href="../Page/HOLD_ME.md" title="wikilink">HOLD ME</a>》</p></td>
 </tr>
 <tr class="odd">
 <td><p>〈<a href="../Page/IN_MY_ARMS_TONIGHT.md" title="wikilink">IN MY ARMS TONIGHT</a>〉[33]</p></td>
 <td><p>9</p></td>
 <td><p>Gx</p></td>
-<td><p>《<a href="https://ko.wikipedia.org/wiki/흔들리는_마음_(음반)" title="wikilink">흔들리는 마음</a>》</p></td>
+<td><p>《<a href="../Page/흔들리는_마음_(음반).md" title="wikilink">흔들리는 마음</a>》</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -487,7 +487,7 @@ ZARD는 일본에서 활동한 여성 보컬 중 가장 큰 성공을 거둔 음
 <span style="font-size: 90%">()</span></p></td>
 <td><p>2</p></td>
 <td><p>2Px</p></td>
-<td><p>《<a href="https://ko.wikipedia.org/wiki/OH_MY_LOVE" title="wikilink">OH MY LOVE</a>》</p></td>
+<td><p>《<a href="../Page/OH_MY_LOVE.md" title="wikilink">OH MY LOVE</a>》</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -534,7 +534,7 @@ ZARD는 일본에서 활동한 여성 보컬 중 가장 큰 성공을 거둔 음
 <span style="font-size: 90%">()</span></p></td>
 <td><p>2</p></td>
 <td><p>Px</p></td>
-<td><p>《<a href="https://ko.wikipedia.org/wiki/TODAY_IS_ANOTHER_DAY" title="wikilink">TODAY IS ANOTHER DAY</a>》</p></td>
+<td><p>《<a href="../Page/TODAY_IS_ANOTHER_DAY.md" title="wikilink">TODAY IS ANOTHER DAY</a>》</p></td>
 <td></td>
 </tr>
 <tr class="even">

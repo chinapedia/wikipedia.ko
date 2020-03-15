@@ -54,9 +54,9 @@ LG UX 7.0이 적용되었다. 마찬가지로 LG Bridge 또는 OTP를 통해 업
 ## 같이 보기
 
   - [LG V10](../Page/LG_V10.md "wikilink")
-  - [LG V20](https://ko.wikipedia.org/wiki/LG_V20 "wikilink")
+  - [LG V20](../Page/LG_V20.md "wikilink")
   - [LG X](https://ko.wikipedia.org/wiki/LG_X "wikilink")
-  - [LG X 캠](https://ko.wikipedia.org/wiki/LG_X_캠 "wikilink")
+  - [LG X 캠](../Page/LG_X_캠.md "wikilink")
   - [LG X 스킨](https://ko.wikipedia.org/wiki/LG_X_스킨 "wikilink")
   - [LG X 파워](https://ko.wikipedia.org/wiki/LG_X_파워 "wikilink")
   - [LG X5 (X 맥스)](https://ko.wikipedia.org/wiki/LG_X5 "wikilink")

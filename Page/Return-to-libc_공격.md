@@ -20,7 +20,7 @@
   - [스택 스매싱 방어](https://ko.wikipedia.org/wiki/스택_스매싱_방어 "wikilink")
   - [NX 비트](https://ko.wikipedia.org/wiki/NX_비트 "wikilink")
   - [주소 공간 배치 난수화](https://ko.wikipedia.org/wiki/주소_공간_배치_난수화 "wikilink")
-  - [반환 지향형 프로그래밍](https://ko.wikipedia.org/wiki/반환_지향형_프로그래밍 "wikilink")
+  - [반환 지향형 프로그래밍](../Page/반환_지향형_프로그래밍.md "wikilink")
 
 ## 각주
 

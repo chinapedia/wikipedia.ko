@@ -3,7 +3,7 @@
 
 **제16SS기갑척탄병사단 SS국가지도자**()는 [독일 제3제국](https://ko.wikipedia.org/wiki/나치_독일 "wikilink") [무장친위대](https://ko.wikipedia.org/wiki/무장친위대 "wikilink") 소속의 [기갑척탄병](https://ko.wikipedia.org/wiki/기갑척탄병 "wikilink")사단 중 하나이다.
 
-1943년 11월 [돌격여단 SS국가지도자에](https://ko.wikipedia.org/wiki/돌격여단_SS국가지도자 "wikilink") [폴크스도이체](https://ko.wikipedia.org/wiki/폴크스도이체 "wikilink") 신병들이 추가되어 사단급으로 재편되었다. 사단의 [전투단](https://ko.wikipedia.org/wiki/전투단 "wikilink")은 이탈리아 [안치오](https://ko.wikipedia.org/wiki/안치오 "wikilink") 교두보에 주둔했고 나머지는 [헝가리](https://ko.wikipedia.org/wiki/헝가리 "wikilink") 지역에 주둔했다. 1944년 5월부터 이탈리아에서 싸웠고, 이후 1945년 2월에는 전 사단이 헝가리로 ㄹ이동했다.
+1943년 11월 [돌격여단 SS국가지도자에](../Page/돌격여단_SS국가지도자.md "wikilink") [폴크스도이체](https://ko.wikipedia.org/wiki/폴크스도이체 "wikilink") 신병들이 추가되어 사단급으로 재편되었다. 사단의 [전투단](https://ko.wikipedia.org/wiki/전투단 "wikilink")은 이탈리아 [안치오](https://ko.wikipedia.org/wiki/안치오 "wikilink") 교두보에 주둔했고 나머지는 [헝가리](https://ko.wikipedia.org/wiki/헝가리 "wikilink") 지역에 주둔했다. 1944년 5월부터 이탈리아에서 싸웠고, 이후 1945년 2월에는 전 사단이 헝가리로 ㄹ이동했다.
 
 ## 역대 사단장
 

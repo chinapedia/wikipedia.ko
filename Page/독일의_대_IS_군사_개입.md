@@ -25,7 +25,7 @@
 ### 독일 공군
 
   - [인시를릭 공군 기지](https://ko.wikipedia.org/wiki/인시를릭_공군_기지 "wikilink")
-      - [에어버스 A310-304 MRTT](https://ko.wikipedia.org/wiki/에어버스_A310_MRTT "wikilink")
+      - [에어버스 A310-304 MRTT](../Page/에어버스_A310_MRTT.md "wikilink")
           - 연방 국방부 특수항공임무부대 ([독일 공군](https://ko.wikipedia.org/wiki/독일_공군 "wikilink")).\[9\]
       - [파나비어 토네이도 ECR](https://ko.wikipedia.org/wiki/파나비어_토네이도 "wikilink")
           - [독일 연합전술공군 제51부대](https://ko.wikipedia.org/wiki/독일_연합전술공군_제51부대 "wikilink")\[10\]

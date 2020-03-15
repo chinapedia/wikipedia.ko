@@ -82,6 +82,6 @@
   - [AN/APG-63](https://ko.wikipedia.org/wiki/AN/APG-63 "wikilink")
   - [AN/APG-66](https://ko.wikipedia.org/wiki/AN/APG-66 "wikilink")
   - [AN/APG-80](https://ko.wikipedia.org/wiki/AN/APG-80 "wikilink")
-  - [N001](https://ko.wikipedia.org/wiki/N001 "wikilink")
+  - [N001](../Page/N001.md "wikilink")
 
 [분류:전투기 레이다](https://ko.wikipedia.org/wiki/분류:전투기_레이다 "wikilink") [분류:러시아와 소련의 군용 레이다](https://ko.wikipedia.org/wiki/분류:러시아와_소련의_군용_레이다 "wikilink")

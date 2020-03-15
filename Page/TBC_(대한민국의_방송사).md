@@ -310,7 +310,7 @@
 | [오늘도 써니데이](https://ko.wikipedia.org/wiki/오늘도_써니데이 "wikilink")           | 월\~금 오전 6시\~ 7시        | 김선희 아나운서                                                     | <TV:동시> 송출 |
 | [모닝클래식](https://ko.wikipedia.org/wiki/모닝클래식 "wikilink")                 | 토\~일 오전 5시\~ 6시 50분    | 조현진(성악가)                                                     | <TV:동시> 송출 |
 | 내 마음의 쉼터                                                                | 토\~일 오전 6시 50분 \~ 7시   |                                                              | <TV:동시> 송출 |
-| [뮤직갤러리](https://ko.wikipedia.org/wiki/뮤직갤러리_\(TBC_드림FM\) "wikilink")    | 매일 오전 11시 \~ 11시 50분   | [장진영](https://ko.wikipedia.org/wiki/장진영_\(아나운서\) "wikilink") | <TV:동시> 송출 |
+| [뮤직갤러리](../Page/뮤직갤러리_\(TBC_드림FM\).md "wikilink")                       | 매일 오전 11시 \~ 11시 50분   | [장진영](https://ko.wikipedia.org/wiki/장진영_\(아나운서\) "wikilink") | <TV:동시> 송출 |
 | [TBC 낮 종합뉴스](https://ko.wikipedia.org/wiki/TBC_낮_종합뉴스 "wikilink")       | 매일 오전 11시 50분 \~ 낮 12시 | 이향원 앵커 (주말 무작위)                                              | <TV:동시> 송출 |
 | [달콤한 오후 이수정입니다](https://ko.wikipedia.org/wiki/달콤한_오후_이수정입니다 "wikilink") | 매일 오후 4시\~ 6시          | DJ 이수정                                                       | <TV:동시> 송출 |
 | [TBC 저녁종합뉴스](https://ko.wikipedia.org/wiki/TBC_저녁종합뉴스 "wikilink")       | 월\~금 저녁 5시 50분 \~ 6시   | 김명미 앵커                                                       | <TV:동시> 송출 |

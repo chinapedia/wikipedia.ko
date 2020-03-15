@@ -47,7 +47,7 @@ Still PM의 공식적 데뷔는 2009년 앨범 \[Love & Verse 1/4\]이지만 가
 
 ## U.R.D 디스 의혹
 
-2008년 매슬로의 앨범 수록곡 중 〈불만〉 이라는 곡이 U.R.D를 디스 했다는 의혹이 제기 되었다. 이는 기정사실이 되었고 그 후 U.R.D는 재기 하지 못하고 사라진다. 〈불만〉에 참여한 아티스트는 [Maslo](https://ko.wikipedia.org/wiki/매슬로 "wikilink"), [Jepp Blackman](https://ko.wikipedia.org/wiki/방용국 "wikilink"), [Still PM으로](https://ko.wikipedia.org/wiki/Still_PM "wikilink") 총 3명이였다. 스틸피엠의 벌스에서 효과음이 U.R.D를 연상시킨다는 점과 당시 유알디의 행보를 보아 U.R.D 디스로 보여진다고 리스너들은 추측했다.
+2008년 매슬로의 앨범 수록곡 중 〈불만〉 이라는 곡이 U.R.D를 디스 했다는 의혹이 제기 되었다. 이는 기정사실이 되었고 그 후 U.R.D는 재기 하지 못하고 사라진다. 〈불만〉에 참여한 아티스트는 [Maslo](https://ko.wikipedia.org/wiki/매슬로 "wikilink"), [Jepp Blackman](https://ko.wikipedia.org/wiki/방용국 "wikilink"), [Still PM으로](../Page/Still_PM.md "wikilink") 총 3명이였다. 스틸피엠의 벌스에서 효과음이 U.R.D를 연상시킨다는 점과 당시 유알디의 행보를 보아 U.R.D 디스로 보여진다고 리스너들은 추측했다.
 
 ## J-TONG의 디스
 

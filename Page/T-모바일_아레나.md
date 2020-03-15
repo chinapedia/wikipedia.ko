@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [T- ](https://ko.wikipedia.org/wiki/T-_).
 
 
-**T-모바일 아레나**(T-Mobile Arena)은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [네바다주](https://ko.wikipedia.org/wiki/네바다주 "wikilink") [패러다이스에](https://ko.wikipedia.org/wiki/패러다이스_\(네바다주\) "wikilink") 위치한 실내 경기장이다. 현재 [NHL](https://ko.wikipedia.org/wiki/내셔널_하키_리그 "wikilink") [베이거스 골든 나이츠의](https://ko.wikipedia.org/wiki/베이거스_골든_나이츠 "wikilink") 홈경기장으로 사용하고 있다.
+**T-모바일 아레나**(T-Mobile Arena)은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [네바다주](https://ko.wikipedia.org/wiki/네바다주 "wikilink") [패러다이스에](https://ko.wikipedia.org/wiki/패러다이스_\(네바다주\) "wikilink") 위치한 실내 경기장이다. 현재 [NHL](https://ko.wikipedia.org/wiki/내셔널_하키_리그 "wikilink") [베이거스 골든 나이츠의](../Page/베이거스_골든_나이츠.md "wikilink") 홈경기장으로 사용하고 있다.
 
 ## 스포츠 경기 이벤트 (2016년)
 

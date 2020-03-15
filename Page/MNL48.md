@@ -9,7 +9,7 @@
 
 ## 내력
 
-[2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [3월 26일](https://ko.wikipedia.org/wiki/3월_26일 "wikilink"), [요코하마 스타디움에서](https://ko.wikipedia.org/wiki/요코하마_스타디움 "wikilink") 열린 [다카하시 미나미](https://ko.wikipedia.org/wiki/다카하시_미나미 "wikilink") 졸업 관련 AKB48 단독 콘서트 석상에서 [중화민국](https://ko.wikipedia.org/wiki/중화민국 "wikilink")의 [타이베이 시에](https://ko.wikipedia.org/wiki/타이베이_시 "wikilink") 본사를 둔 [TPE48](https://ko.wikipedia.org/wiki/TPE48 "wikilink"), [태국](https://ko.wikipedia.org/wiki/태국 "wikilink")의 [방콕](https://ko.wikipedia.org/wiki/방콕 "wikilink")에 본사를 둔 [BNK48](https://ko.wikipedia.org/wiki/BNK48 "wikilink")와 함께 공식 활동을 개시하는 일이 발표됐다. 공식 사이트에서는 그룹 칼라에 대해서 특산의 [망고](https://ko.wikipedia.org/wiki/망고 "wikilink")를 기조로 한 그라데이션을 채용했다\[1\]\[2\].
+[2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [3월 26일](https://ko.wikipedia.org/wiki/3월_26일 "wikilink"), [요코하마 스타디움에서](https://ko.wikipedia.org/wiki/요코하마_스타디움 "wikilink") 열린 [다카하시 미나미](https://ko.wikipedia.org/wiki/다카하시_미나미 "wikilink") 졸업 관련 AKB48 단독 콘서트 석상에서 [중화민국](https://ko.wikipedia.org/wiki/중화민국 "wikilink")의 [타이베이 시에](https://ko.wikipedia.org/wiki/타이베이_시 "wikilink") 본사를 둔 [TPE48](https://ko.wikipedia.org/wiki/TPE48 "wikilink"), [태국](https://ko.wikipedia.org/wiki/태국 "wikilink")의 [방콕](https://ko.wikipedia.org/wiki/방콕 "wikilink")에 본사를 둔 [BNK48](../Page/BNK48.md "wikilink")와 함께 공식 활동을 개시하는 일이 발표됐다. 공식 사이트에서는 그룹 칼라에 대해서 특산의 [망고](https://ko.wikipedia.org/wiki/망고 "wikilink")를 기조로 한 그라데이션을 채용했다\[1\]\[2\].
 
 운영은 AKS와 파트너십 계약한 하로하로 그룹인 하로하로 엔터테인먼트가 담당한다. [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [12월 3일](https://ko.wikipedia.org/wiki/12월_3일 "wikilink"), AKB48 팀8 멤버를 초빙한 팬미팅 자리에서 멤버 오디션의 개시가 선언되었다. 첫 응모는 Web 중 스마트 폰에서는 전용 앱에서\[3\], PC · 태블릿부터 공식 사이트상에서 지원하는 시스템이다.
 
@@ -1009,7 +1009,7 @@ MNL48 캡틴</p></td>
 <!-- end list -->
 
   - [JKT48](https://ko.wikipedia.org/wiki/JKT48 "wikilink")
-  - [BNK48](https://ko.wikipedia.org/wiki/BNK48 "wikilink")
+  - [BNK48](../Page/BNK48.md "wikilink")
   - [AKB48 Team SH](https://ko.wikipedia.org/wiki/AKB48_Team_SH "wikilink")
   - [AKB48 Team TP](https://ko.wikipedia.org/wiki/AKB48_Team_TP "wikilink")
   - [SGO48](https://ko.wikipedia.org/wiki/SGO48 "wikilink")

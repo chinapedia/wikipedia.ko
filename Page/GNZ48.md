@@ -1216,7 +1216,7 @@ GNZ55101266</p></td>
 
   - [SNH48](https://ko.wikipedia.org/wiki/SNH48 "wikilink")
   - [BEJ48](https://ko.wikipedia.org/wiki/BEJ48 "wikilink")
-  - [SHY48](https://ko.wikipedia.org/wiki/SHY48 "wikilink")
+  - [SHY48](../Page/SHY48.md "wikilink")
   - [CKG48](https://ko.wikipedia.org/wiki/CKG48 "wikilink")
   - [CGT48](https://ko.wikipedia.org/wiki/CGT48 "wikilink")
 

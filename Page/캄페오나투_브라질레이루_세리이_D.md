@@ -89,13 +89,13 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/승부차기" title="wikilink">승부차기</a>에서 톰벤시가 4-2로 승리했다.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_D_2015" title="wikilink">2015</a></p></td>
+<td><p><a href="../Page/캄페오나투_브라질레이루_세리이_D_2015.md" title="wikilink">2015</a></p></td>
 <td><p><br />
 <a href="../Page/보타포구_FC_(상파울루주).md" title="wikilink">보타포구</a> (<a href="https://ko.wikipedia.org/wiki/상파울루_주" title="wikilink">SP</a>)</p></td>
 <td><p>3–2<br />
 <strong>0–0</strong></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/히베르_AC" title="wikilink">히베르</a> (<a href="https://ko.wikipedia.org/wiki/피아우이_주" title="wikilink">PI</a>)</p></td>
+<a href="../Page/히베르_AC.md" title="wikilink">히베르</a> (<a href="https://ko.wikipedia.org/wiki/피아우이_주" title="wikilink">PI</a>)</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -216,7 +216,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/우베를란지아" title="wikilink">우베를란지아</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/AA_카우덴시" title="wikilink">카우덴시</a></p></td>
+<td><p><a href="../Page/AA_카우덴시.md" title="wikilink">카우덴시</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/포소스지카우다스" title="wikilink">포소스지카우다스</a></p></td>
 <td></td>
 </tr>
@@ -334,7 +334,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/플라시두지카스트루" title="wikilink">플라시두지카스트루</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/히우브랑쿠_FC" title="wikilink">히우브랑쿠</a></p></td>
+<td><p><a href="../Page/히우브랑쿠_FC.md" title="wikilink">히우브랑쿠</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/히우브랑쿠" title="wikilink">히우브랑쿠</a></p></td>
 <td></td>
 </tr>

@@ -49,7 +49,7 @@
 
 ## 같이 보기
 
-  - [베어 너클 1](https://ko.wikipedia.org/wiki/베어_너클:_분노의_철권 "wikilink")
+  - [베어 너클 1](../Page/베어_너클:_분노의_철권.md "wikilink")
   - [베어 너클 2](../Page/베어_너클_II:_사투로의_진혼가.md "wikilink")
 
 ## 각주

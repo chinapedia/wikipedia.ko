@@ -204,7 +204,7 @@ D
 </tr>
 <tr class="odd">
 <td><p>2016</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/CARNIVAL" title="wikilink">CARNIVAL</a></strong></p>
+<td><p><strong><a href="../Page/CARNIVAL.md" title="wikilink">CARNIVAL</a></strong></p>
 <ul>
 <li>포맷: <a href="https://ko.wikipedia.org/wiki/콤팩트_디스크" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a></li>
 <li>발매일자: 2016년 2월 22일</li>
@@ -562,7 +562,7 @@ D
 </tr>
 <tr class="even">
 <td><p>2016</p></td>
-<td><p>"<a href="https://ko.wikipedia.org/wiki/Feel_So_Good_(B.A.P의_노래)" title="wikilink">Feel So Good</a>"</p></td>
+<td><p>"<a href="../Page/Feel_So_Good_(B.A.P의_노래).md" title="wikilink">Feel So Good</a>"</p></td>
 <td><p>51</p></td>
 <td><p>27</p></td>
 <td><p>—</p></td>

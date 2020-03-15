@@ -6,10 +6,10 @@
 ## 2010년대
 
   - 2015년 9월 15일 [타입비](https://ko.wikipedia.org/wiki/타입비 "wikilink") - **Feeling Down**
-  - 2015년 11월 2일 [VAV](https://ko.wikipedia.org/wiki/VAV "wikilink") - **Under the moonlight**
+  - 2015년 11월 2일 [VAV](../Page/VAV.md "wikilink") - **Under the moonlight**
   - 2016년 5월 10일 VAV - **Brotherhood**
   - 2016년 7월 1일 VAV - **No Doubt**
-  - 2016년 7월 6일 [바론](https://ko.wikipedia.org/wiki/VAV "wikilink") - **\[Digital Single\] 날개**\[1\]
+  - 2016년 7월 6일 [바론](../Page/VAV.md "wikilink") - **\[Digital Single\] 날개**\[1\]
   - 2016년 12월 15일 VAV - **\[Digital Single\] Here I Am**
   - 2017년 2월 18일 VAV - **\[Digital Single\] VENUS (Dance With Me)**
   - 2017년 5월 3일 VAV - **\[Digital Single\] Flower (You)**
@@ -21,7 +21,7 @@
   - 2017년 12월 15일 샤오 - **\[Digital Single\] 骤雨 Trouble**
   - 2018년 1월 29일 VAV - **Spotlight**
   - 2018년 5월 10일 [김초연](https://ko.wikipedia.org/wiki/프로듀스_48 "wikilink") - **\[Digital Single\] 내꺼야 (Pick Me)**\[3\]
-  - 2018년 5월 25일 [제이콥](https://ko.wikipedia.org/wiki/VAV "wikilink") - **\[Digital Single\] Love Night**
+  - 2018년 5월 25일 [제이콥](../Page/VAV.md "wikilink") - **\[Digital Single\] Love Night**
   - 2018년 10월 11일 VAV - **\[Digital Single\] Senorita**
   - 2019년 3월 6일 VAV - **Thrilla Killa**
   - 2019년 7월 23일 VAV - **\[Digital Single\] Give Me More**

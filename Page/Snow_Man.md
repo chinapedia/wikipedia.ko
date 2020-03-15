@@ -15,32 +15,32 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/후카자와_타츠야" title="wikilink">후카자와 타츠야</a> ()</p></td>
+<td><p><a href="../Page/후카자와_타츠야.md" title="wikilink">후카자와 타츠야</a> ()</p></td>
 <td><p>, <a href="https://ko.wikipedia.org/wiki/도쿄도" title="wikilink">도쿄도</a> 출신, B형</p></td>
 <td><p>퍼플</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/사쿠마_다이스케" title="wikilink">사쿠마 다이스케</a> ()</p></td>
+<td><p><a href="../Page/사쿠마_다이스케.md" title="wikilink">사쿠마 다이스케</a> ()</p></td>
 <td><p>, 도쿄 도 출신, O형</p></td>
 <td><p>핑크</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/와타나베_쇼타" title="wikilink">와타나베 쇼타</a> ()</p></td>
+<td><p><a href="../Page/와타나베_쇼타.md" title="wikilink">와타나베 쇼타</a> ()</p></td>
 <td><p>, 도쿄 도 출신, B형</p></td>
 <td><p>블루</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/미야다테_료타" title="wikilink">미야다테 료타</a> ()</p></td>
+<td><p><a href="../Page/미야다테_료타.md" title="wikilink">미야다테 료타</a> ()</p></td>
 <td><p>, 도쿄 도 출신, A형</p></td>
 <td><p>레드</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/이와모토_히카루" title="wikilink">이와모토 히카루</a> ()</p></td>
+<td><p><a href="../Page/이와모토_히카루.md" title="wikilink">이와모토 히카루</a> ()</p></td>
 <td><p>, <a href="https://ko.wikipedia.org/wiki/사이타마현" title="wikilink">사이타마현</a> 출신, A형</p></td>
 <td><p>옐로우</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/아베_료헤이" title="wikilink">아베 료헤이</a> ()</p></td>
+<td><p><a href="../Page/아베_료헤이.md" title="wikilink">아베 료헤이</a> ()</p></td>
 <td><p>, <a href="https://ko.wikipedia.org/wiki/치바_현" title="wikilink">치바 현</a> 출신, AB형</p></td>
 <td><p>그린</p></td>
 </tr>
@@ -178,7 +178,7 @@ SHOW TIME Hit Series Change</p></td>
 <td><p>DREAM BOYS</p></td>
 <td><p>9월 3일 ~ 9월 25일</p></td>
 <td><p>제국 극장</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아베_료헤이" title="wikilink">아베 료헤이</a><br />
+<td><p><a href="../Page/아베_료헤이.md" title="wikilink">아베 료헤이</a><br />
 수험으로 휴식</p></td>
 </tr>
 <tr class="odd">

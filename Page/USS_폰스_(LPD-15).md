@@ -9,7 +9,7 @@
 
 폰스함 LaWS의 출력은 33 kW, 유효 사거리는 1.6km다. 절단기 등에 쓰이는 고출력 레이저 발진장치 6개에서 나오는 광선을 한 곳에 집중시키는 방식으로 구성됐으며, 미 해군의 기술연구기관인 [해양 시스템 사령부에서](https://ko.wikipedia.org/wiki/해양_시스템_사령부 "wikilink") 7년간 4천만 달러(약 438억원)를 들여 개발했다.\[2\] LaWS는 레이저 무기지만 영화에서처럼 에너지 빔이 눈으로 보이는 건 아니다. 영상에서 강력한 파괴력을 과시한 LaWS는 레이저포 1발당 비용이 0.59달러에 불과하다.\[3\] 2020년 [알레이 버크급 이지스함에](https://ko.wikipedia.org/wiki/알레이_버크급_이지스함 "wikilink") 100 kW 출력(유효사거리 5km)으로 실전배치할 계획이다.
 
-2015년말 미국 [아리조나 대학교는](https://ko.wikipedia.org/wiki/아리조나_대학교 "wikilink") 기존의 레이저포 사거리를 11배 늘리는 기술을 개발하는데 성공했다. [미국 공군 연구소](https://ko.wikipedia.org/wiki/미국_공군_연구소 "wikilink")(AFRL, Air Force Research Laboratory)에 기술이전되었다.\[4\] 기존에는 출력 100 kw인 경우 사거리는 고작 5 km이었는데, 55 km로 늘어나는 신기술이 개발된 것이다.
+2015년말 미국 [아리조나 대학교는](https://ko.wikipedia.org/wiki/아리조나_대학교 "wikilink") 기존의 레이저포 사거리를 11배 늘리는 기술을 개발하는데 성공했다. [미국 공군 연구소](../Page/미국_공군_연구소.md "wikilink")(AFRL, Air Force Research Laboratory)에 기술이전되었다.\[4\] 기존에는 출력 100 kw인 경우 사거리는 고작 5 km이었는데, 55 km로 늘어나는 신기술이 개발된 것이다.
 
 ## 더 보기
 

@@ -25,7 +25,7 @@
 
 <!-- end list -->
 
-  - [AN/APG-63(v)3](https://ko.wikipedia.org/wiki/AN/APG-63\(v\)3 "wikilink") v2가 문제가 생겨 v2를 기반으로 만든 v3가 양산됐다. : [보잉 F-15SG](https://ko.wikipedia.org/wiki/보잉_F-15SG "wikilink"), **F-15SA**
+  - [AN/APG-63(v)3](https://ko.wikipedia.org/wiki/AN/APG-63\(v\)3 "wikilink") v2가 문제가 생겨 v2를 기반으로 만든 v3가 양산됐다. : [보잉 F-15SG](../Page/보잉_F-15SG.md "wikilink"), **F-15SA**
 
 <!-- end list -->
 
@@ -39,11 +39,11 @@
 
 <!-- end list -->
 
-  - [보잉 F-15SA](https://ko.wikipedia.org/wiki/보잉_F-15SA "wikilink")
+  - [보잉 F-15SA](../Page/보잉_F-15SA.md "wikilink")
 
 <!-- end list -->
 
-  - [보잉 F-15I](https://ko.wikipedia.org/wiki/보잉_F-15I "wikilink")
+  - [보잉 F-15I](../Page/보잉_F-15I.md "wikilink")
 
 ### 비교 기종
 

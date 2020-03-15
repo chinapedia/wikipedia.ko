@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DNCE](https://ko.wikipedia.org/wiki/DNCE).
 
 
-**DNCE**(디앤씨이)는 2015년에 결성된 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [팝 록](https://ko.wikipedia.org/wiki/팝_록 "wikilink") 밴드이다. 2015년에 발매된 데뷔 싱글 "[Cake by the Ocean](https://ko.wikipedia.org/wiki/Cake_by_the_Ocean "wikilink")"은 [빌보드 핫 100](https://ko.wikipedia.org/wiki/빌보드_핫_100 "wikilink") 9위까지 올랐다. 이후 같은 해 발매된 EP 앨범 *[Swaay](https://ko.wikipedia.org/wiki/Swaay "wikilink")* 도 호평을 받았다.
+**DNCE**(디앤씨이)는 2015년에 결성된 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [팝 록](https://ko.wikipedia.org/wiki/팝_록 "wikilink") 밴드이다. 2015년에 발매된 데뷔 싱글 "[Cake by the Ocean](../Page/Cake_by_the_Ocean.md "wikilink")"은 [빌보드 핫 100](https://ko.wikipedia.org/wiki/빌보드_핫_100 "wikilink") 9위까지 올랐다. 이후 같은 해 발매된 EP 앨범 *[Swaay](../Page/Swaay.md "wikilink")* 도 호평을 받았다.
 
 ## 음반 목록
 
@@ -11,11 +11,11 @@
 
 ### EP
 
-  - *[Swaay](https://ko.wikipedia.org/wiki/Swaay "wikilink")* (2015)
+  - *[Swaay](../Page/Swaay.md "wikilink")* (2015)
 
 ### 싱글
 
-  - [Cake by the Ocean](https://ko.wikipedia.org/wiki/Cake_by_the_Ocean "wikilink") (2015)
+  - [Cake by the Ocean](../Page/Cake_by_the_Ocean.md "wikilink") (2015)
   - Toothbrush (2016)
   - Body Moves (2016)
   - Kissing Strangers (feat. [Nicki Minaj](https://ko.wikipedia.org/wiki/니키_미나즈 "wikilink")) (2017)

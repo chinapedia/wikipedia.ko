@@ -35,7 +35,7 @@
   - [K-1](https://ko.wikipedia.org/wiki/K-1 "wikilink")
   - [GLORY](../Page/글로리_\(킥복싱\).md "wikilink")
   - [맥스 FC](../Page/맥스_FC.md "wikilink")
-  - [TAS](https://ko.wikipedia.org/wiki/TAS_\(격투기\) "wikilink")
+  - [TAS](../Page/TAS_\(격투기\).md "wikilink")
   - [엔젤스 파이팅](https://ko.wikipedia.org/wiki/엔젤스_파이팅 "wikilink")
 
 ## 참조
