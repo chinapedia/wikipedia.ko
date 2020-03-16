@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  EXO ](https://ko.wikipedia.org/wiki/__EXO_).
 
 
-《**우리 옆집에 EXO가 산다**》는 대한민국의 [웹드라마이다](https://ko.wikipedia.org/wiki/웹_시리즈 "wikilink"). 우리 옆집에 [EXO](https://ko.wikipedia.org/wiki/EXO "wikilink")가 산다는 웹드라마 최초 조회수 1000만건을 기록하였다.
+《**우리 옆집에 EXO가 산다**》는 대한민국의 [웹드라마이다](https://ko.wikipedia.org/wiki/웹_시리즈 "wikilink"). 우리 옆집에 [EXO](../Page/EXO.md "wikilink")가 산다는 웹드라마 최초 조회수 1000만건을 기록하였다.
 
 ## 줄거리
 
@@ -12,8 +12,8 @@
 ### 주요 인물
 
   - [박찬열](https://ko.wikipedia.org/wiki/박찬열 "wikilink") (아역 : [정재혁](https://ko.wikipedia.org/wiki/정재혁 "wikilink"))
-  - [윤주상](https://ko.wikipedia.org/wiki/윤주상 "wikilink") : 찬열의 할아버지 역
-  - [문가영](https://ko.wikipedia.org/wiki/문가영 "wikilink") : 지연희 역 (아역 : [한서진](https://ko.wikipedia.org/wiki/한서진_\(2008년\) "wikilink"))
+  - [윤주상](../Page/윤주상.md "wikilink") : 찬열의 할아버지 역
+  - [문가영](../Page/문가영.md "wikilink") : 지연희 역 (아역 : [한서진](../Page/한서진_\(2008년\).md "wikilink"))
 
 ### [찬열](../Page/찬열.md "wikilink")의 주변인물
 
@@ -32,7 +32,7 @@
   - [장유상](../Page/장유상.md "wikilink") : 지광수 역
   - [전수진](../Page/전수진.md "wikilink") : 가은 역
   - [정시현](https://ko.wikipedia.org/wiki/정시현 "wikilink") : 민환 역
-  - [김희정](https://ko.wikipedia.org/wiki/김희정_\(1970년\) "wikilink") : 연희의 엄마 역
+  - [김희정](../Page/김희정_\(1970년\).md "wikilink") : 연희의 엄마 역
 
 ## 외부 링크
 

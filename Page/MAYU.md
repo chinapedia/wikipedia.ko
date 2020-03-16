@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MAYU](https://ko.wikipedia.org/wiki/MAYU).
 
 
-**MAYU**(마유, )란, [보컬로이드](https://ko.wikipedia.org/wiki/보컬로이드 "wikilink")3용의 음성 라이브러리, 또 그의 이미지 캐릭터이다. EXIT TUNES에서 발매되었다.
+**MAYU**(마유, )란, [보컬로이드](../Page/보컬로이드.md "wikilink")3용의 음성 라이브러리, 또 그의 이미지 캐릭터이다. EXIT TUNES에서 발매되었다.
 
 패키지판(QWCE-00264)은 2012년 12월 5일에, 다운로드판은 2013년 7월 4일에 발매되었다. 가격은 패키지판이 11,500엔, 다운로드판이 7,980엔으로 되어있다.
 
@@ -19,11 +19,11 @@
 
 이미지 캐릭터의 공식 설정은 옷자락에 건반을 배합한 고딕로리터 차림으로, 오른손에 도끼, 왼손에는 마이크 일체형인 인형(우사노 미미)를 가지고 있는 얀데레 중학생으로 되어있다.
 
-[건반](https://ko.wikipedia.org/wiki/건반 "wikilink")이나 [스피커](https://ko.wikipedia.org/wiki/스피커 "wikilink")의 디자인을 배합한 [롤리타 패션에](https://ko.wikipedia.org/wiki/롤리타_패션 "wikilink") 몸을 감싸며, [마이크](https://ko.wikipedia.org/wiki/마이크 "wikilink")와 겸용이라고 간주되는 토키 인형을 손에 가지고 있다. 공식 사이트의 얼굴 부분에 커서를 올리면 표정이 변화하게 되어있다.
+[건반](https://ko.wikipedia.org/wiki/건반 "wikilink")이나 [스피커](../Page/스피커.md "wikilink")의 디자인을 배합한 [롤리타 패션에](https://ko.wikipedia.org/wiki/롤리타_패션 "wikilink") 몸을 감싸며, [마이크](../Page/마이크.md "wikilink")와 겸용이라고 간주되는 토키 인형을 손에 가지고 있다. 공식 사이트의 얼굴 부분에 커서를 올리면 표정이 변화하게 되어있다.
 
 ## 관련항목
 
-  - [EXIT TUNES](https://ko.wikipedia.org/wiki/EXIT_TUNES "wikilink") - MAYU의 개발원
+  - [EXIT TUNES](../Page/EXIT_TUNES.md "wikilink") - MAYU의 개발원
 
 ## 외부 링크
 

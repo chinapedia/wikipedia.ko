@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Stand Up Tour](https://ko.wikipedia.org/wiki/Stand_Up_Tour).
 
 
-**Stand Up Tour**는 [빅뱅의](https://ko.wikipedia.org/wiki/빅뱅_\(음악_그룹\) "wikilink") 첫 번째 일본 콘서트 투어로 그들의 일본 데뷔 앨범 *[Number 1](https://ko.wikipedia.org/wiki/Number_1_\(빅뱅의_음반\) "wikilink")* 발매 이후 개최 되었다. 이 콘서트의 마지막 공연 실황을 담은 CD와 DVD가 2010년 5월 17일에 발매 되었다.\[1\]\[2\]
+**Stand Up Tour**는 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") 첫 번째 일본 콘서트 투어로 그들의 일본 데뷔 앨범 *[Number 1](../Page/Number_1_\(빅뱅의_음반\).md "wikilink")* 발매 이후 개최 되었다. 이 콘서트의 마지막 공연 실황을 담은 CD와 DVD가 2010년 5월 17일에 발매 되었다.\[1\]\[2\]
 
 ### 스페셜 게스트
 

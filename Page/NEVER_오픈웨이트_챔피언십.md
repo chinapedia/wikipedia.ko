@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NEVER  ](https://ko.wikipedia.org/wiki/NEVER__).
 
 
-**NEVER 오픈웨이트 챔피언십**(NEVER OpenWeight championship)은 [신일본 프로레슬링의](https://ko.wikipedia.org/wiki/신일본_프로레슬링 "wikilink") 챔피언십중 하나다. 신일본 프로레슬링의 챔피언쉽 가운데 하나. 서양과 달리 체급을 딱딱 구분하는 일본 프로레슬링계에 존재하는 체급을 무시하는 벨트이다.
+**NEVER 오픈웨이트 챔피언십**(NEVER OpenWeight championship)은 [신일본 프로레슬링의](../Page/신일본_프로레슬링.md "wikilink") 챔피언십중 하나다. 신일본 프로레슬링의 챔피언쉽 가운데 하나. 서양과 달리 체급을 딱딱 구분하는 일본 프로레슬링계에 존재하는 체급을 무시하는 벨트이다.
 
 ## 역사
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Kendrick Lamar EP](https://ko.wikipedia.org/wiki/The_Kendrick_Lamar_EP).
 
 
-***The Kendrick Lamar EP***는 미국의 힙합 가수 켄드릭 라마의 [EP이다](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink"). 이 앨범에는 Angela McCluskey, [Ab-Soul](https://ko.wikipedia.org/wiki/앱소울 "wikilink"), JaVonté, [Jay Rock](https://ko.wikipedia.org/wiki/제이_락 "wikilink"), BJ The Chicago Kid, Punch, [ScHoolboy Q](https://ko.wikipedia.org/wiki/스쿨보이_큐 "wikilink"), Big Pooh이 피처링을 맡았다. 이 앨범의 주요 프로듀서로는 Dee.Jay.Dave, Dude Dawg, Sounwave, King Blue, Insomnia, Jake 1, Wyldfyer, Pete Rahk이 있다.\[1\]
+***The Kendrick Lamar EP***는 미국의 힙합 가수 켄드릭 라마의 [EP이다](../Page/익스텐디드_플레이.md "wikilink"). 이 앨범에는 Angela McCluskey, [Ab-Soul](https://ko.wikipedia.org/wiki/앱소울 "wikilink"), JaVonté, [Jay Rock](https://ko.wikipedia.org/wiki/제이_락 "wikilink"), BJ The Chicago Kid, Punch, [ScHoolboy Q](https://ko.wikipedia.org/wiki/스쿨보이_큐 "wikilink"), Big Pooh이 피처링을 맡았다. 이 앨범의 주요 프로듀서로는 Dee.Jay.Dave, Dude Dawg, Sounwave, King Blue, Insomnia, Jake 1, Wyldfyer, Pete Rahk이 있다.\[1\]
 
 ## 트랙 리스트
 
@@ -13,14 +13,14 @@
 
   - 〈Is It Love?〉는 Télépopmusik의 〈Don't Look Back〉을 샘플링했다.\[2\]
   - 〈Celebration〉는 Roy Ayers Ubiquity의 〈Hummin'〉을 샘플링했다.\[3\]
-  - 〈P & P〉는 [The Roots의](https://ko.wikipedia.org/wiki/더_루츠 "wikilink") 〈Clock with No Hands〉를 샘플링했다.\[4\]
-  - 〈She Needs Me〉는 Mountain의 〈Long Red〉, [Q-Tip의](https://ko.wikipedia.org/wiki/큐팁 "wikilink") 〈Let's Ride〉, Dimlite의 〈Byrdshot and Bye〉를 샘플링했다.\[5\]\[6\]\[7\]
-  - 〈I Am (Interlude)〉는 [Q-Tip의](https://ko.wikipedia.org/wiki/큐팁 "wikilink") 〈Believe〉를 샘플링했다.\[8\]
+  - 〈P & P〉는 [The Roots의](../Page/더_루츠.md "wikilink") 〈Clock with No Hands〉를 샘플링했다.\[4\]
+  - 〈She Needs Me〉는 Mountain의 〈Long Red〉, [Q-Tip의](../Page/큐팁.md "wikilink") 〈Let's Ride〉, Dimlite의 〈Byrdshot and Bye〉를 샘플링했다.\[5\]\[6\]\[7\]
+  - 〈I Am (Interlude)〉는 [Q-Tip의](../Page/큐팁.md "wikilink") 〈Believe〉를 샘플링했다.\[8\]
   - 〈Wanna Be Heard〉는 Black Milk의 〈Popular Demand〉를 샘플링했다.\[9\]
-  - 〈I Do This〉는 [Bill Withers의](https://ko.wikipedia.org/wiki/빌_위더스 "wikilink") 〈Don't You Want to Stay〉를 샘플링했다.\[10\]
+  - 〈I Do This〉는 [Bill Withers의](../Page/빌_위더스.md "wikilink") 〈Don't You Want to Stay〉를 샘플링했다.\[10\]
   - 〈Faith〉는 Menahan Street Band의 〈Tired of Fighting〉를 샘플링했다.\[11\]
   - 〈Vanity Slaves〉는 The Foreign Exchange의 〈Daykeeper〉를 샘플링했다.\[12\]
-  - 〈Thanksgiving〉는 [Nat King Cole의](https://ko.wikipedia.org/wiki/냇_킹_콜 "wikilink") 〈Almost Like Being in Love〉, Mountain의 〈Long Red〉를 샘플링했다.\[13\]\[14\]
+  - 〈Thanksgiving〉는 [Nat King Cole의](../Page/냇_킹_콜.md "wikilink") 〈Almost Like Being in Love〉, Mountain의 〈Long Red〉를 샘플링했다.\[13\]\[14\]
   - 〈Determined〉는 Lamont Dozier의 〈Family〉를 샘플링했다.\[15\]
 
 ## 각주

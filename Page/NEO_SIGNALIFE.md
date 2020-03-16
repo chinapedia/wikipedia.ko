@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NEO SIGNALIFE](https://ko.wikipedia.org/wiki/NEO_SIGNALIFE).
 
 
-〈**NEO SIGNALIFE**〉(네오 시그널라이프)는 [유이카오리](../Page/유이카오리.md "wikilink")의 열 번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink"). [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [1월 7일에](https://ko.wikipedia.org/wiki/1월_7일 "wikilink") [킹레코드에서](https://ko.wikipedia.org/wiki/킹레코드_\(일본\) "wikilink") 발매되었다\[1\].
+〈**NEO SIGNALIFE**〉(네오 시그널라이프)는 [유이카오리](../Page/유이카오리.md "wikilink")의 열 번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). [2015년](../Page/2015년.md "wikilink") [1월 7일에](../Page/1월_7일.md "wikilink") [킹레코드에서](../Page/킹레코드_\(일본\).md "wikilink") 발매되었다\[1\].
 
 ## 개요
 
@@ -15,18 +15,18 @@
 
 ## 수록 음반
 
-| 곡명            | 음반                                                         | 발매일                                                                                                               |
-| ------------- | ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| NEO SIGNALIFE | 《**[Bright Canary](../Page/Bright_Canary.md "wikilink")**》 | [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [11월 4일](https://ko.wikipedia.org/wiki/11월_4일 "wikilink") |
-| 오리콘의 메시지      |                                                            |                                                                                                                   |
+| 곡명            | 음반                                                         | 발매일                                                                         |
+| ------------- | ---------------------------------------------------------- | --------------------------------------------------------------------------- |
+| NEO SIGNALIFE | 《**[Bright Canary](../Page/Bright_Canary.md "wikilink")**》 | [2015년](../Page/2015년.md "wikilink") [11월 4일](../Page/11월_4일.md "wikilink") |
+| 오리콘의 메시지      |                                                            |                                                                             |
 
 ## 발매일
 
-| 국가   | 일정                                                            | 포맷                                                                                                         | 레이블                                                          |
-| ---- | ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| 일본   | 2015년 1월 7일                                                   | [CD](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink")+[DVD](https://ko.wikipedia.org/wiki/DVD "wikilink") | [킹레코드](https://ko.wikipedia.org/wiki/킹레코드_\(일본\) "wikilink") |
-| 대한민국 | [디지털 다운로드](https://ko.wikipedia.org/wiki/디지털_다운로드 "wikilink") | 씨앤엘뮤직                                                                                                      |                                                              |
-|      |                                                               |                                                                                                            |                                                              |
+| 국가   | 일정                                                            | 포맷                                                                   | 레이블                                       |
+| ---- | ------------------------------------------------------------- | -------------------------------------------------------------------- | ----------------------------------------- |
+| 일본   | 2015년 1월 7일                                                   | [CD](../Page/콤팩트_디스크.md "wikilink")+[DVD](../Page/DVD.md "wikilink") | [킹레코드](../Page/킹레코드_\(일본\).md "wikilink") |
+| 대한민국 | [디지털 다운로드](https://ko.wikipedia.org/wiki/디지털_다운로드 "wikilink") | 씨앤엘뮤직                                                                |                                           |
+|      |                                                               |                                                                      |                                           |
 
 ## 출전
 

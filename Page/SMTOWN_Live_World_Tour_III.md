@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SMTOWN Live World Tour III](https://ko.wikipedia.org/wiki/SMTOWN_Live_World_Tour_III).
 
 
-**SMTOWN Live World Tour III**는 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink")부터 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink")까지 열린 [SM TOWN](https://ko.wikipedia.org/wiki/SM_TOWN "wikilink") 네 번째 합동 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").
+**SMTOWN Live World Tour III**는 [2012년](../Page/2012년.md "wikilink")부터 [2013년](../Page/2013년.md "wikilink")까지 열린 [SM TOWN](../Page/SM_TOWN.md "wikilink") 네 번째 합동 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").
 
 ## 국가별 라인업
 
@@ -40,15 +40,15 @@
 
 <!-- end list -->
 
-  - **Korean Music Wave in LA** ([MBC TV](https://ko.wikipedia.org/wiki/MBC_TV "wikilink"), 2012년 7월 19일)
-  - **Korean Music Wave in SEOUL** ([MBC TV](https://ko.wikipedia.org/wiki/MBC_TV "wikilink"), 2012년 9월 30일)
+  - **Korean Music Wave in LA** ([MBC TV](../Page/MBC_TV.md "wikilink"), 2012년 7월 19일)
+  - **Korean Music Wave in SEOUL** ([MBC TV](../Page/MBC_TV.md "wikilink"), 2012년 9월 30일)
 
 ## 제작
 
-  - 주최 : [SM 엔터테인먼트](https://ko.wikipedia.org/wiki/SM_엔터테인먼트 "wikilink")
+  - 주최 : [SM 엔터테인먼트](../Page/SM_엔터테인먼트.md "wikilink")
   - 주관 : 드림메이커
-  - 후원 : [G마켓](https://ko.wikipedia.org/wiki/G마켓 "wikilink")
-  - 협찬 : [VISA](https://ko.wikipedia.org/wiki/비자카드 "wikilink"), [KB국민카드](https://ko.wikipedia.org/wiki/KB국민카드 "wikilink")
+  - 후원 : [G마켓](../Page/G마켓.md "wikilink")
+  - 협찬 : [VISA](../Page/비자카드.md "wikilink"), [KB국민카드](../Page/KB국민카드.md "wikilink")
 
 ## 각주
 

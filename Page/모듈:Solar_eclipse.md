@@ -210,7 +210,7 @@ local function infobox(frame)
 
 \----------------------- Times -----------------------
 
-`       ["header12"] = "시간 (`[`UTC`](https://ko.wikipedia.org/wiki/협정_세계시 "wikilink")`)" .. (args['times_ref'] or ''),`
+`       ["header12"] = "시간 (`[`UTC`](../Page/협정_세계시.md "wikilink")`)" .. (args['times_ref'] or ''),`
 `       ["label13"] = "(P1) 반영접촉 시작",`
 `       ["data13"] = args['start_partial'] or '',`
 `       ["label14"] = "(U1) 본영접촉 시작",`
@@ -229,7 +229,7 @@ local function infobox(frame)
 \------------------------ Event references -------------------------
 
 `       ["header20"] = "출처",`
-`       ["label21"] = "`[`사로스``   ``주기`](https://ko.wikipedia.org/wiki/사로스_주기 "wikilink")`",`
+`       ["label21"] = "`[`사로스``   ``주기`](../Page/사로스_주기.md "wikilink")`",`
 `       ["data21"] = (args['saros'] or '') `
 `           .. " (" .. (args['saros_total'] or '') .. "개 중 " .. (args['saros_sequence'] or '') .. "번 째)",`
 `       ["label22"] = "목록 # (SE5000)",`

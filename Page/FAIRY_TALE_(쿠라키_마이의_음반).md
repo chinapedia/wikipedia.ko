@@ -1,14 +1,14 @@
 > This article is converted from Wikipedia: [FAIRY TALE \(  \)](https://ko.wikipedia.org/wiki/FAIRY_TALE_\(__\)).
 
 
-《**FAIRY TALE**》(페어리 테일)은 [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [10월 23일에](https://ko.wikipedia.org/wiki/10월_23일 "wikilink") 발매된 [쿠라키 마이의](https://ko.wikipedia.org/wiki/쿠라키_마이 "wikilink") 3번째 [정규 음반이다](https://ko.wikipedia.org/wiki/정규_음반 "wikilink").
+《**FAIRY TALE**》(페어리 테일)은 [2002년](../Page/2002년.md "wikilink") [10월 23일에](../Page/10월_23일.md "wikilink") 발매된 [쿠라키 마이의](../Page/쿠라키_마이.md "wikilink") 3번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
 
 ## 해설
 
   - 1번째 음반, 2번째 음반에 이어서 100만장 이상의 출하를 기록.
   - “동화”를 테마로 쿠라키의 “꿈을 버리는 것이 어른이라면 되고 싶지 않다”(夢を捨てるのが大人ならば、なりたくはない)라는 생각을 잇댄 [콘셉트 음반이다](https://ko.wikipedia.org/wiki/콘셉트_음반 "wikilink").
   - 이 음반이 [대만](https://ko.wikipedia.org/wiki/대만 "wikilink")의 CD 차트 1위를 획득한 것을 계기로 [쑨옌즈](https://ko.wikipedia.org/wiki/쑨옌즈 "wikilink")와 차회작으로 경연하게 되었다.
-  - 제17회 [일본 골드 디스크 대상에서](https://ko.wikipedia.org/wiki/일본_골드_디스크_대상 "wikilink") 록&팝 앨범 오브 더 이어를 수상하고 있다.
+  - 제17회 [일본 골드 디스크 대상에서](../Page/일본_골드_디스크_대상.md "wikilink") 록&팝 앨범 오브 더 이어를 수상하고 있다.
 
 ## 수록곡
 
@@ -20,7 +20,7 @@
       - 작곡 · 편곡: [토쿠나가 아키히토](../Page/토쿠나가_아키히토.md "wikilink")
     <!-- end list -->
       -
-        음반 표제곡. 가사에는 ‘[호박 마차](https://ko.wikipedia.org/wiki/신데렐라 "wikilink")’‘[독 사과](https://ko.wikipedia.org/wiki/백설_공주 "wikilink")’ 등 동화와 관련된 말이 다수 등장한다. 앨범 투어 이후 피로되는 것은 적었지만, 10월에 개최되는 핼러윈 라이브에서는 피로되는 차가 많은 음반 곡이다.
+        음반 표제곡. 가사에는 ‘[호박 마차](../Page/신데렐라.md "wikilink")’‘[독 사과](../Page/백설_공주.md "wikilink")’ 등 동화와 관련된 말이 다수 등장한다. 앨범 투어 이후 피로되는 것은 적었지만, 10월에 개최되는 핼러윈 라이브에서는 피로되는 차가 많은 음반 곡이다.
 2.  **[Feel fine\!](../Page/Feel_fine!.md "wikilink")** (4:48)
       - 작곡 · 편곡: 토쿠나가 아키히토
     <!-- end list -->
@@ -30,19 +30,19 @@
       - 작곡 · 편곡: 토쿠나가 아키히토
     <!-- end list -->
       -
-        [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink")도 《[전일본대학여자역전](https://ko.wikipedia.org/wiki/전일본대학여자역전 "wikilink")》([ABC제작](https://ko.wikipedia.org/wiki/아사히_방송 "wikilink") [TV 아사히계열](https://ko.wikipedia.org/wiki/TV_아사히 "wikilink")) 테마송. 비디오 클립이 제작되었으며, 당시의 백 밴드 EXPERIENCE와 같이 [hills 빵공장의](https://ko.wikipedia.org/wiki/hills_빵공장 "wikilink") 지하 2층 스테이지를 사용하여서 라이브 형식으로 제작되고 있다.
+        [2002년](../Page/2002년.md "wikilink")도 《[전일본대학여자역전](https://ko.wikipedia.org/wiki/전일본대학여자역전 "wikilink")》([ABC제작](../Page/아사히_방송.md "wikilink") [TV 아사히계열](../Page/TV_아사히.md "wikilink")) 테마송. 비디오 클립이 제작되었으며, 당시의 백 밴드 EXPERIENCE와 같이 [hills 빵공장의](https://ko.wikipedia.org/wiki/hills_빵공장 "wikilink") 지하 2층 스테이지를 사용하여서 라이브 형식으로 제작되고 있다.
 4.  **key to my heart** (3:33)
       - 작곡: [오노 아이카](https://ko.wikipedia.org/wiki/오노_아이카 "wikilink"), 편곡: Cybersound
     <!-- end list -->
       -
-        [남코](https://ko.wikipedia.org/wiki/반다이_남코_엔터테인먼트 "wikilink") [테일즈 오브 데스티니 2](https://ko.wikipedia.org/wiki/테일즈_오브_데스티니_2 "wikilink") 테마송.
-        [게임 소프트웨어](https://ko.wikipedia.org/wiki/게임_소프트웨어 "wikilink") [《테일즈 오브》 시리즈의](https://ko.wikipedia.org/wiki/테일즈_시리즈 "wikilink") 테마곡 [컴필레이션 음반](https://ko.wikipedia.org/wiki/컴필레이션_음반 "wikilink") 《[The Best of Tales](https://ko.wikipedia.org/wiki/The_Best_of_Tales "wikilink")》에도 수록되어있다.
+        [남코](../Page/반다이_남코_엔터테인먼트.md "wikilink") [테일즈 오브 데스티니 2](../Page/테일즈_오브_데스티니_2.md "wikilink") 테마송.
+        [게임 소프트웨어](../Page/게임_소프트웨어.md "wikilink") [《테일즈 오브》 시리즈의](https://ko.wikipedia.org/wiki/테일즈_시리즈 "wikilink") 테마곡 [컴필레이션 음반](https://ko.wikipedia.org/wiki/컴필레이션_음반 "wikilink") 《[The Best of Tales](https://ko.wikipedia.org/wiki/The_Best_of_Tales "wikilink")》에도 수록되어있다.
         비디오 클립도 제작되었으며, 〈Ride on Time〉과 마찬가지로 당시의 백 밴드 EXPERIENCE와 같이, 이쪽은 관객을 넣은 라이브 형식으로 촬영되었다.
 5.  **[Winter Bells](../Page/Winter_Bells.md "wikilink")** (4:37)
       - 작곡 · 편곡: 토쿠나가 아키히토
     <!-- end list -->
       -
-        11번째 싱글. [요미우리 TV](https://ko.wikipedia.org/wiki/요미우리_TV_방송 "wikilink") [애니메이션](https://ko.wikipedia.org/wiki/일본의_애니메이션 "wikilink") 《[명탐정 코난](https://ko.wikipedia.org/wiki/명탐정_코난_\(애니메이션\) "wikilink")》 [오프닝 테마이다](https://ko.wikipedia.org/wiki/오프닝_테마 "wikilink").
+        11번째 싱글. [요미우리 TV](../Page/요미우리_TV_방송.md "wikilink") [애니메이션](../Page/일본의_애니메이션.md "wikilink") 《[명탐정 코난](../Page/명탐정_코난_\(애니메이션\).md "wikilink")》 [오프닝 테마이다](https://ko.wikipedia.org/wiki/오프닝_테마 "wikilink").
 6.  **Loving You…** (5:18)
       - 작곡: 오노 아이카, 편곡: Cybersound
     <!-- end list -->
@@ -69,7 +69,7 @@
       - 작곡: 오노 아이카, 편곡: 이케다 다이스케
     <!-- end list -->
       -
-        《[이상한 나라의 앨리스](https://ko.wikipedia.org/wiki/이상한_나라의_앨리스 "wikilink")》의 하얀 토끼가 가사에 등장한다. 곡보다도 가사 쪽이 먼저 이루어진 작품이다.
+        《[이상한 나라의 앨리스](../Page/이상한_나라의_앨리스.md "wikilink")》의 하얀 토끼가 가사에 등장한다. 곡보다도 가사 쪽이 먼저 이루어진 작품이다.
 12. **fantasy** (3:49)
       - 작곡: 오노 아이카, 편곡: 토쿠나가 아키히토
 

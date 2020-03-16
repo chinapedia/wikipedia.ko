@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WASP-14](https://ko.wikipedia.org/wiki/WASP-14).
 
 
-**WASP-14** 또는 **BD+22 2716**은 [목동자리](https://ko.wikipedia.org/wiki/목동자리 "wikilink") 방향에 있는 [항성](https://ko.wikipedia.org/wiki/항성 "wikilink")이다. [슈퍼WASP](https://ko.wikipedia.org/wiki/슈퍼WASP "wikilink") 프로젝트 중 이 별이 [변광성](https://ko.wikipedia.org/wiki/변광성 "wikilink")임을 알아냈으며 이는 [외계 행성이](https://ko.wikipedia.org/wiki/외계_행성 "wikilink") 존재하는 증거로 보인다.\[1\]
+**WASP-14** 또는 **BD+22 2716**은 [목동자리](../Page/목동자리.md "wikilink") 방향에 있는 [항성](https://ko.wikipedia.org/wiki/항성 "wikilink")이다. [슈퍼WASP](https://ko.wikipedia.org/wiki/슈퍼WASP "wikilink") 프로젝트 중 이 별이 [변광성](../Page/변광성.md "wikilink")임을 알아냈으며 이는 [외계 행성이](../Page/외계_행성.md "wikilink") 존재하는 증거로 보인다.\[1\]
 
 ## 행성계
 

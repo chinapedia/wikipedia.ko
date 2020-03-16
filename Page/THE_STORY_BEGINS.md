@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [THE STORY BEGINS](https://ko.wikipedia.org/wiki/THE_STORY_BEGINS).
 
 
-《**THE STORY BEGINS**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 9인조 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink")의 데뷔 앨범이자 첫 번째 [EP](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink") 앨범이다. 타이틀곡은 〈**OOH-AHH하게**〉이며, [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [10월 20일에](https://ko.wikipedia.org/wiki/10월_20일 "wikilink") 지니뮤직에서 발매되었다.
+《**THE STORY BEGINS**》는 [대한민국](../Page/대한민국.md "wikilink")의 9인조 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink")의 데뷔 앨범이자 첫 번째 [EP](../Page/익스텐디드_플레이.md "wikilink") 앨범이다. 타이틀곡은 〈**OOH-AHH하게**〉이며, [2015년](../Page/2015년.md "wikilink") [10월 20일에](../Page/10월_20일.md "wikilink") 지니뮤직에서 발매되었다.
 
-[2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [11월 11일](https://ko.wikipedia.org/wiki/11월_11일 "wikilink") 오전, "OOH-AHH하게" 뮤직비디오의 [유튜브](https://ko.wikipedia.org/wiki/유튜브 "wikilink") 조회 수가 1억 뷰를 돌파했다. 대한민국 가수 최초로 데뷔 곡의 뮤직 비디오가 유튜브 1억 뷰를 넘은 것이다.\[1\] "OOH-AHH하게"는 2016년 [멜론](https://ko.wikipedia.org/wiki/멜론_\(온라인_음악_서비스\) "wikilink") 연간차트 7위를 기록했다.\[2\]
+[2016년](../Page/2016년.md "wikilink") [11월 11일](../Page/11월_11일.md "wikilink") 오전, "OOH-AHH하게" 뮤직비디오의 [유튜브](../Page/유튜브.md "wikilink") 조회 수가 1억 뷰를 돌파했다. 대한민국 가수 최초로 데뷔 곡의 뮤직 비디오가 유튜브 1억 뷰를 넘은 것이다.\[1\] "OOH-AHH하게"는 2016년 [멜론](../Page/멜론_\(온라인_음악_서비스\).md "wikilink") 연간차트 7위를 기록했다.\[2\]
 
 ## 수록곡
 
@@ -18,7 +18,7 @@
   -
 <!-- end list -->
 
-  - 멤버 별 스페셜 영상 - [유튜브](https://ko.wikipedia.org/wiki/유튜브 "wikilink")
+  - 멤버 별 스페셜 영상 - [유튜브](../Page/유튜브.md "wikilink")
 
 <!-- end list -->
 

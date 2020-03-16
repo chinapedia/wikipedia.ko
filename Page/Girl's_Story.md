@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Girl\'s Story](https://ko.wikipedia.org/wiki/Girl\'s_Story).
 
 
-《**Girl's Story**》는 대한민국 걸그룹 [카라](https://ko.wikipedia.org/wiki/카라_\(음악_그룹\) "wikilink") 의 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") 다섯 번째 정규음반으로 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [6월 17일](https://ko.wikipedia.org/wiki/6월_17일 "wikilink") 에 발매되었다.
+《**Girl's Story**》는 대한민국 걸그룹 [카라](../Page/카라_\(음악_그룹\).md "wikilink") 의 [일본](../Page/일본.md "wikilink") 다섯 번째 정규음반으로 [2015년](../Page/2015년.md "wikilink") [6월 17일](../Page/6월_17일.md "wikilink") 에 발매되었다.
 
 ## 트랙 리스트
 
@@ -15,7 +15,7 @@
 8.  Last Summer
 9.  SUNNY DAYS
 10. ファンファーレ
-11. Forever Love ([Fin.K.L](https://ko.wikipedia.org/wiki/핑클 "wikilink") cover)
+11. Forever Love ([Fin.K.L](../Page/핑클.md "wikilink") cover)
 
 ## 한정반
 

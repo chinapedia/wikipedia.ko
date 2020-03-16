@@ -2,7 +2,7 @@
 
 
 <table>
-<caption><span style="font-size: 13pt"><strong><a href="https://ko.wikipedia.org/wiki/EXID" title="wikilink">EXID</a>의 수상 및 후보 목록</strong></span></caption>
+<caption><span style="font-size: 13pt"><strong><a href="../Page/EXID.md" title="wikilink">EXID</a>의 수상 및 후보 목록</strong></span></caption>
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:EXID_(South_Korean_girl_group)_in_October_2013.jpg" title="wikilink">250px</a> 2013년 10월 EXID</p></td>
@@ -41,7 +41,7 @@
 </tr>
 <tr class="even">
 <td><dl>
-<dt><a href="https://ko.wikipedia.org/wiki/멜론_뮤직_어워드" title="wikilink">멜론 뮤직 어워드</a></dt>
+<dt><a href="../Page/멜론_뮤직_어워드.md" title="wikilink">멜론 뮤직 어워드</a></dt>
 
 </dl></td>
 </tr>
@@ -88,7 +88,7 @@
 </tr>
 <tr class="even">
 <td><dl>
-<dt><a href="https://ko.wikipedia.org/wiki/뮤직뱅크" title="wikilink">뮤직뱅크</a></dt>
+<dt><a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a></dt>
 
 </dl></td>
 </tr>
@@ -125,7 +125,7 @@
 </tbody>
 </table>
 
-다음은 대한민국의 음악 그룹 [EXID](https://ko.wikipedia.org/wiki/EXID "wikilink")의 수상 및 후보 목록이다.
+다음은 대한민국의 음악 그룹 [EXID](../Page/EXID.md "wikilink")의 수상 및 후보 목록이다.
 
 ## 시상식
 
@@ -402,24 +402,24 @@
 <li>'''위아래 (총 6회)
 <ul>
 <li>1월 8일 <a href="https://ko.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a> 《<a href="https://ko.wikipedia.org/wiki/M!COUNTDOWN" title="wikilink">엠카운트다운</a>》 1위</li>
-<li>1월 9일 <a href="https://ko.wikipedia.org/wiki/KBS" title="wikilink">KBS</a> 《<a href="https://ko.wikipedia.org/wiki/뮤직뱅크" title="wikilink">뮤직뱅크</a>》 1위</li>
-<li>1월 11일 <a href="https://ko.wikipedia.org/wiki/SBS_TV" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 1위</li>
-<li>1월 13일 <a href="https://ko.wikipedia.org/wiki/SBS_MTV" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/더_쇼" title="wikilink">더 쇼</a>》 1위</li>
+<li>1월 9일 <a href="https://ko.wikipedia.org/wiki/KBS" title="wikilink">KBS</a> 《<a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a>》 1위</li>
+<li>1월 11일 <a href="../Page/SBS_TV.md" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 1위</li>
+<li>1월 13일 <a href="../Page/SBS_MTV.md" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/더_쇼" title="wikilink">더 쇼</a>》 1위</li>
 <li>1월 15일 <a href="https://ko.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a> 《<a href="https://ko.wikipedia.org/wiki/M!COUNTDOWN" title="wikilink">엠카운트다운</a>》1위 (2주 연속)</li>
-<li>1월 16일 <a href="https://ko.wikipedia.org/wiki/KBS" title="wikilink">KBS</a> 《<a href="https://ko.wikipedia.org/wiki/뮤직뱅크" title="wikilink">뮤직뱅크</a>》 1위 (2주 연속)</li>
+<li>1월 16일 <a href="https://ko.wikipedia.org/wiki/KBS" title="wikilink">KBS</a> 《<a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a>》 1위 (2주 연속)</li>
 </ul></li>
 <li>'''Ah Yeah (총 5회)
 <ul>
-<li>4월 21일 <a href="https://ko.wikipedia.org/wiki/SBS_MTV" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/더_쇼" title="wikilink">더 쇼</a>》 1위</li>
-<li>4월 26일 <a href="https://ko.wikipedia.org/wiki/SBS_TV" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 1위</li>
+<li>4월 21일 <a href="../Page/SBS_MTV.md" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/더_쇼" title="wikilink">더 쇼</a>》 1위</li>
+<li>4월 26일 <a href="../Page/SBS_TV.md" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 1위</li>
 <li>4월 29일 <a href="https://ko.wikipedia.org/wiki/MBC_MUSIC" title="wikilink">MBC MUSIC</a> 《<a href="https://ko.wikipedia.org/wiki/쇼_챔피언" title="wikilink">쇼 챔피언</a>》 챔피언송</li>
-<li>5월 3일 <a href="https://ko.wikipedia.org/wiki/SBS_TV" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 1위 (2주 연속)</li>
+<li>5월 3일 <a href="../Page/SBS_TV.md" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 1위 (2주 연속)</li>
 <li>5월 6일 <a href="https://ko.wikipedia.org/wiki/MBC_MUSIC" title="wikilink">MBC MUSIC</a> 《<a href="https://ko.wikipedia.org/wiki/쇼_챔피언" title="wikilink">쇼 챔피언</a>》 챔피언송 (2주 연속)</li>
 </ul></li>
 <li>'''Hot Pink (총 2회)
 <ul>
 <li>11월 25일 <a href="https://ko.wikipedia.org/wiki/MBC_MUSIC" title="wikilink">MBC MUSIC</a> 《<a href="https://ko.wikipedia.org/wiki/쇼_챔피언" title="wikilink">쇼 챔피언</a>》 챔피언송</li>
-<li>12월 6일 <a href="https://ko.wikipedia.org/wiki/SBS" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 1위</li>
+<li>12월 6일 <a href="../Page/SBS.md" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 1위</li>
 </ul></li>
 </ul></td>
 </tr>
@@ -429,9 +429,9 @@
 <li>'''L.I.E. (총 4회)
 <ul>
 <li>6월 8일 <a href="https://ko.wikipedia.org/wiki/MBC_MUSIC" title="wikilink">MBC MUSIC</a> 《<a href="https://ko.wikipedia.org/wiki/쇼_챔피언" title="wikilink">쇼 챔피언</a>》 챔피언송</li>
-<li>6월 12일 <a href="https://ko.wikipedia.org/wiki/SBS" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 1위</li>
-<li>6월 14일 <a href="https://ko.wikipedia.org/wiki/SBS_MTV" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/더_쇼" title="wikilink">더 쇼</a>》 1위</li>
-<li>7월 5일 <a href="https://ko.wikipedia.org/wiki/SBS_MTV" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/더_쇼" title="wikilink">더 쇼</a>》 1위 (2주 연속)</li>
+<li>6월 12일 <a href="../Page/SBS.md" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 1위</li>
+<li>6월 14일 <a href="../Page/SBS_MTV.md" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/더_쇼" title="wikilink">더 쇼</a>》 1위</li>
+<li>7월 5일 <a href="../Page/SBS_MTV.md" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/더_쇼" title="wikilink">더 쇼</a>》 1위 (2주 연속)</li>
 </ul></li>
 </ul></td>
 </tr>
@@ -440,13 +440,13 @@
 <td><ul>
 <li>'''낮보다는 밤 (총 3회)
 <ul>
-<li>4월 25일 <a href="https://ko.wikipedia.org/wiki/SBS_MTV" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/더_쇼" title="wikilink">더 쇼</a>》 1위</li>
+<li>4월 25일 <a href="../Page/SBS_MTV.md" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/더_쇼" title="wikilink">더 쇼</a>》 1위</li>
 <li>4월 26일 <a href="https://ko.wikipedia.org/wiki/MBC_MUSIC" title="wikilink">MBC MUSIC</a> 《<a href="https://ko.wikipedia.org/wiki/쇼_챔피언" title="wikilink">쇼 챔피언</a>》 챔피언송</li>
-<li>5월 2일 <a href="https://ko.wikipedia.org/wiki/SBS_MTV" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/더_쇼" title="wikilink">더 쇼</a>》1위 (2주 연속)</li>
+<li>5월 2일 <a href="../Page/SBS_MTV.md" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/더_쇼" title="wikilink">더 쇼</a>》1위 (2주 연속)</li>
 </ul></li>
 <li>'''덜덜덜 (총 1회)
 <ul>
-<li>11월 21일 <a href="https://ko.wikipedia.org/wiki/SBS_MTV" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/더_쇼" title="wikilink">더 쇼</a>》1위</li>
+<li>11월 21일 <a href="../Page/SBS_MTV.md" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/더_쇼" title="wikilink">더 쇼</a>》1위</li>
 </ul></li>
 </ul></td>
 </tr>
@@ -455,7 +455,7 @@
 <td><ul>
 <li>'''내일해 (총 1회)
 <ul>
-<li>4월 10일 <a href="https://ko.wikipedia.org/wiki/SBS_MTV" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/더_쇼" title="wikilink">더 쇼</a>》 1위</li>
+<li>4월 10일 <a href="../Page/SBS_MTV.md" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/더_쇼" title="wikilink">더 쇼</a>》 1위</li>
 </ul></li>
 </ul></td>
 </tr>

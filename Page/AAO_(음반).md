@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [AAO \(\)](https://ko.wikipedia.org/wiki/AAO_\(\)).
 
 
-〈**AAO**〉는, [Kis-My-Ft2](https://ko.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")의 14번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink").
+〈**AAO**〉는, [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")의 14번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 
 초회 생산 한정반 , 통상반, 키스마이 SHOP반의 3형태로 발매된다.
 
-[나오토 인티 레이미가](https://ko.wikipedia.org/wiki/나오토_인티_레이미 "wikilink") 작사・작곡을 담당 한 표제곡 〈AAO〉는, 멤버인 [타마모리 유타의](https://ko.wikipedia.org/wiki/타마모리_유타 "wikilink") 주연 드라마 「청춘탐정 하루야 \~ 어른의 악을 허락하지않아\!\~」의 주제가
+[나오토 인티 레이미가](https://ko.wikipedia.org/wiki/나오토_인티_레이미 "wikilink") 작사・작곡을 담당 한 표제곡 〈AAO〉는, 멤버인 [타마모리 유타의](../Page/타마모리_유타.md "wikilink") 주연 드라마 「청춘탐정 하루야 \~ 어른의 악을 허락하지않아\!\~」의 주제가
 커플링곡「NOVEL」는 코와 「홋카이로누쿠누쿠당번」CM송이다.
 
 ## 수록곡

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Happy Days \(B1A4 \)](https://ko.wikipedia.org/wiki/Happy_Days_\(B1A4_\)).
 
 
-**Happy Days**는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악 그룹 [B1A4](https://ko.wikipedia.org/wiki/B1A4 "wikilink")의 일본어 [노래](https://ko.wikipedia.org/wiki/노래 "wikilink")이다. 일본에서 발매한 여섯 번째 싱글 《Happy Days》의 타이틀곡으로, [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [11월 18일에](https://ko.wikipedia.org/wiki/11월_18일 "wikilink") 발매됐다. [白いキセキ를](../Page/시로이키세키.md "wikilink") 이은 번안곡이 아닌 오리지널 곡이다.
+**Happy Days**는 [대한민국](../Page/대한민국.md "wikilink")의 음악 그룹 [B1A4](../Page/B1A4.md "wikilink")의 일본어 [노래](https://ko.wikipedia.org/wiki/노래 "wikilink")이다. 일본에서 발매한 여섯 번째 싱글 《Happy Days》의 타이틀곡으로, [2015년](../Page/2015년.md "wikilink") [11월 18일에](../Page/11월_18일.md "wikilink") 발매됐다. [白いキセキ를](../Page/시로이키세키.md "wikilink") 이은 번안곡이 아닌 오리지널 곡이다.
 
 ## 앨범
 

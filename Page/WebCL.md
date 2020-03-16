@@ -1,18 +1,18 @@
 > This article is converted from Wikipedia: [WebCL](https://ko.wikipedia.org/wiki/WebCL).
 
 
-**WebCL** (**웹 컴퓨팅 언어**)는 플러그인 없이 웹 브라우저만을 이용하여 이질 [병렬 컴퓨팅을](https://ko.wikipedia.org/wiki/병렬_컴퓨팅 "wikilink") 수행하기 위한 [OpenCL](https://ko.wikipedia.org/wiki/OpenCL "wikilink") 이용 [자바스크립트](https://ko.wikipedia.org/wiki/자바스크립트 "wikilink") [바인딩](https://ko.wikipedia.org/wiki/바인딩 "wikilink")이다.  기본적으로 WebCL은 멀티코어 CPU와 GPU가 제 성능을 발휘할 수 있도록 해준다. 웹 브라우저 안에서도 예를 들어 물리엔진이나 캔바스 요소 그리고 영상 편집같은 계산을 많이하는 컴퓨터 프로그램이 원활하게 구동되도록 해준다.  WebCL은 비영리단체인 크로노스 그룹에서 개발하고 관리하고 있다. 2014년 3월 19일 WebCL 1.0 표준문서가 개발되어 발표되었다.
+**WebCL** (**웹 컴퓨팅 언어**)는 플러그인 없이 웹 브라우저만을 이용하여 이질 [병렬 컴퓨팅을](../Page/병렬_컴퓨팅.md "wikilink") 수행하기 위한 [OpenCL](../Page/OpenCL.md "wikilink") 이용 [자바스크립트](../Page/자바스크립트.md "wikilink") [바인딩](https://ko.wikipedia.org/wiki/바인딩 "wikilink")이다.  기본적으로 WebCL은 멀티코어 CPU와 GPU가 제 성능을 발휘할 수 있도록 해준다. 웹 브라우저 안에서도 예를 들어 물리엔진이나 캔바스 요소 그리고 영상 편집같은 계산을 많이하는 컴퓨터 프로그램이 원활하게 구동되도록 해준다.  WebCL은 비영리단체인 크로노스 그룹에서 개발하고 관리하고 있다. 2014년 3월 19일 WebCL 1.0 표준문서가 개발되어 발표되었다.
 
 ## 구현
 
-이 표준은 새롭게 만들어졌기 때문에, 현재 WebCL를 기본적으로 지원하는 브라우저는 없다.  그러나, WebCL을 구현한 네이티브가 아닌 애드온으로 구현된 것들이 있는다. 예를 들어 [노키아](https://ko.wikipedia.org/wiki/노키아 "wikilink")는 WebCL의 확장을 개발하였다.\[1\] [모질라](https://ko.wikipedia.org/wiki/모질라 "wikilink")는  [OpenGL ES 3.1](https://ko.wikipedia.org/wiki/OpenGL_ES "wikilink") Compute Shader를 더 선호하여 WebCL을 개발할 계획이 없다.\[2\]
+이 표준은 새롭게 만들어졌기 때문에, 현재 WebCL를 기본적으로 지원하는 브라우저는 없다.  그러나, WebCL을 구현한 네이티브가 아닌 애드온으로 구현된 것들이 있는다. 예를 들어 [노키아](../Page/노키아.md "wikilink")는 WebCL의 확장을 개발하였다.\[1\] [모질라](../Page/모질라.md "wikilink")는  [OpenGL ES 3.1](../Page/OpenGL_ES.md "wikilink") Compute Shader를 더 선호하여 WebCL을 개발할 계획이 없다.\[2\]
 
-  - Nokia ([Firefox](https://ko.wikipedia.org/wiki/모질라_파이어폭스 "wikilink")) - <https://web.archive.org/web/20120510173953/http://webcl.nokiaresearch.com/>
+  - Nokia ([Firefox](../Page/모질라_파이어폭스.md "wikilink")) - <https://web.archive.org/web/20120510173953/http://webcl.nokiaresearch.com/>
   - Mozilla (Firefox) - <https://web.archive.org/web/20160303191941/http://hg.mozilla.org/projects/webcl/>
 
 ### 현재 표준을 반영한 WebCL 확장
 
-  - 삼성 ([WebKit](https://ko.wikipedia.org/wiki/웹킷 "wikilink")) - <https://web.archive.org/web/20150218105743/https://github.com/SRA-SiliconValley/webkit-webcl>
+  - 삼성 ([WebKit](../Page/웹킷.md "wikilink")) - <https://web.archive.org/web/20150218105743/https://github.com/SRA-SiliconValley/webkit-webcl>
   - 노키아 (Firefox) - <https://github.com/toaarnio/webcl-firefox>
   - 인텔 (Crosswalk) - <http://www.crosswalk-project.org/>
 
@@ -24,8 +24,8 @@
 
 ## 함께 보기
 
-  - [WebGL](https://ko.wikipedia.org/wiki/WebGL "wikilink")
-  - [HTML5](https://ko.wikipedia.org/wiki/HTML5 "wikilink")
+  - [WebGL](../Page/WebGL.md "wikilink")
+  - [HTML5](../Page/HTML5.md "wikilink")
 
 ## 외부 링크
 

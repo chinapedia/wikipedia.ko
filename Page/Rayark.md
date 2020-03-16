@@ -1,12 +1,12 @@
 > This article is converted from Wikipedia: [Rayark](https://ko.wikipedia.org/wiki/Rayark).
 
 
-**Rayark**()는 2011년 9월 설립하여\[1\] 2013년 타이베이 시 행정부에 등록 승인을 얻은\[2\] [중화민국](https://ko.wikipedia.org/wiki/중화민국 "wikilink")의 모바일 게임 회사이다. [Cytus](../Page/Cytus.md "wikilink"), [Deemo](../Page/Deemo.md "wikilink") 등의 게임을 개발하였다.
+**Rayark**()는 2011년 9월 설립하여\[1\] 2013년 타이베이 시 행정부에 등록 승인을 얻은\[2\] [중화민국](../Page/중화민국.md "wikilink")의 모바일 게임 회사이다. [Cytus](../Page/Cytus.md "wikilink"), [Deemo](../Page/Deemo.md "wikilink") 등의 게임을 개발하였다.
 
 ## 개발 게임
 
   - [Cytus](../Page/Cytus.md "wikilink") - 2012년 1월 12일 앱스토어에 처음 나왔다.\[3\]
-      - CYTUS λ (사이터스 람다) - 소니 사의 [플레이스테이션 모바일](https://ko.wikipedia.org/wiki/플레이스테이션_모바일 "wikilink") 버전으로 개발한 Cytus 시리즈 게임이다.\[4\]
+      - CYTUS λ (사이터스 람다) - 소니 사의 [플레이스테이션 모바일](../Page/플레이스테이션_모바일.md "wikilink") 버전으로 개발한 Cytus 시리즈 게임이다.\[4\]
   - [Mandora](https://ko.wikipedia.org/wiki/Mandora "wikilink") - 2012년 11월 23일 구글 플레이 스토어에 처음 나왔다.\[5\]
   - [Deemo](../Page/Deemo.md "wikilink") - 2013년 11월 13일 애플 앱스토어에 처음 나왔고, 12월 26일 안드로이드 버전으로도 발매되었다.\[6\]
       - Deemo \~마지막 리사이틀\~ - [PS Vita](https://ko.wikipedia.org/wiki/PS_Vita "wikilink") 버전 Deemo 시리즈 게임이다.\[7\]

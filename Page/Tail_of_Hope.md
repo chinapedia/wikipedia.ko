@@ -5,7 +5,7 @@
 
 ## 설명
 
-  - 타이틀곡인 'Tail of Hope'는 [토카이 TV](https://ko.wikipedia.org/wiki/토카이_TV "wikilink")·[후지 TV계](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 드라마 「백의의 눈물」 오프닝 테마로 사용되었다.
+  - 타이틀곡인 'Tail of Hope'는 [토카이 TV](https://ko.wikipedia.org/wiki/토카이_TV "wikilink")·[후지 TV계](../Page/후지_TV.md "wikilink") 드라마 「백의의 눈물」 오프닝 테마로 사용되었다.
   - 커플링곡인 'Baby You...'는 2013년 1월 대한민국 첫번째 단독콘서트였던 '[BoA SPECIAL LIVE 2013 \~Here I Am\~](../Page/BoA_SPECIAL_LIVE_2013_~Here_I_Am~.md "wikilink")' 개최기념으로 발매한 디지털 싱글 '[그런 너](https://ko.wikipedia.org/wiki/그런_너 "wikilink")'의 번안곡이다.
   - 'Tail of Hope'의 뮤직비디오는 사이판에서 촬영되었다.
 

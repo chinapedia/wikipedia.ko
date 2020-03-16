@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [WASP-7](https://ko.wikipedia.org/wiki/WASP-7).
 
 
-**WASP-7** 또는 **HD 197286**은 지구로부터 [현미경자리](https://ko.wikipedia.org/wiki/현미경자리 "wikilink") 방향으로 약 456 광년 떨어져 있는 F형 항성이다. 이 별은 태양보다 반지름이 좀 더 크고 질량은 28% 더 높다. 따라서 태양보다 뜨겁고 밝다. [겉보기 등급은](https://ko.wikipedia.org/wiki/겉보기_등급 "wikilink") 9로 맨눈으로는 보이지 않으나 작은 [망원경](https://ko.wikipedia.org/wiki/망원경 "wikilink")이라면 관측이 가능하다.\[1\]
+**WASP-7** 또는 **HD 197286**은 지구로부터 [현미경자리](https://ko.wikipedia.org/wiki/현미경자리 "wikilink") 방향으로 약 456 광년 떨어져 있는 F형 항성이다. 이 별은 태양보다 반지름이 좀 더 크고 질량은 28% 더 높다. 따라서 태양보다 뜨겁고 밝다. [겉보기 등급은](https://ko.wikipedia.org/wiki/겉보기_등급 "wikilink") 9로 맨눈으로는 보이지 않으나 작은 [망원경](../Page/망원경.md "wikilink")이라면 관측이 가능하다.\[1\]
 
 ## 행성계
 
-2008년 [슈퍼WASP](https://ko.wikipedia.org/wiki/슈퍼WASP "wikilink") 프로젝트 중 이 별을 도는 [외계 행성](https://ko.wikipedia.org/wiki/외계_행성 "wikilink") [WASP-7b](https://ko.wikipedia.org/wiki/WASP-7b "wikilink")가 발견되었다. 이 행성의 질량은 [목성](https://ko.wikipedia.org/wiki/목성 "wikilink")과 비슷하며 어머니 항성에 매우 가깝게 붙어 돌고 있어 [뜨거운 목성으로](https://ko.wikipedia.org/wiki/뜨거운_목성 "wikilink") 분류할 수 있다. 가까운 거리 때문에 행성은 가열되어 있어 스스로 빛을 낼 정도의 열을 발산하고 있다.\[2\]
+2008년 [슈퍼WASP](https://ko.wikipedia.org/wiki/슈퍼WASP "wikilink") 프로젝트 중 이 별을 도는 [외계 행성](../Page/외계_행성.md "wikilink") [WASP-7b](https://ko.wikipedia.org/wiki/WASP-7b "wikilink")가 발견되었다. 이 행성의 질량은 [목성](../Page/목성.md "wikilink")과 비슷하며 어머니 항성에 매우 가깝게 붙어 돌고 있어 [뜨거운 목성으로](../Page/뜨거운_목성.md "wikilink") 분류할 수 있다. 가까운 거리 때문에 행성은 가열되어 있어 스스로 빛을 낼 정도의 열을 발산하고 있다.\[2\]
 
-| 비교 <small>(항성에서 가까운 순서)</small> | 질량                              | 궤도평균거리 <small>([AU](https://ko.wikipedia.org/wiki/천문단위 "wikilink"))</small> | [공전주기](https://ko.wikipedia.org/wiki/공전_주기 "wikilink")<small>(일)</small> | [궤도이심률](https://ko.wikipedia.org/wiki/궤도이심률 "wikilink") | [궤도경사각](https://ko.wikipedia.org/wiki/궤도_경사 "wikilink") | 반지름 |
-| ------------------------------- | ------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------- | ------------------------------------------------------- | --- |
-| **WASP-7b**                     | 0.96 −0.18+0.12 *M*<sub>J</sub> | 0.0618 −0.0033+0.0014                                                       | 4.954658 −4.3e-05+5.5e-05                                                | 0                                                       | —                                                       | —   |
+| 비교 <small>(항성에서 가까운 순서)</small> | 질량                              | 궤도평균거리 <small>([AU](../Page/천문단위.md "wikilink"))</small> | [공전주기](../Page/공전_주기.md "wikilink")<small>(일)</small> | [궤도이심률](https://ko.wikipedia.org/wiki/궤도이심률 "wikilink") | [궤도경사각](../Page/궤도_경사.md "wikilink") | 반지름 |
+| ------------------------------- | ------------------------------- | -------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------- | ------------------------------------ | --- |
+| **WASP-7b**                     | 0.96 −0.18+0.12 *M*<sub>J</sub> | 0.0618 −0.0033+0.0014                                    | 4.954658 −4.3e-05+5.5e-05                             | 0                                                       | —                                    | —   |
 
 **WASP-7 행성계**
 

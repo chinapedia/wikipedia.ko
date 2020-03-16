@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [WASP-5](https://ko.wikipedia.org/wiki/WASP-5).
 
 
-**WASP-5** 는 [봉황자리](https://ko.wikipedia.org/wiki/봉황자리 "wikilink") 방향으로 지구로부터 약 910 광년 떨어져 있는 [황색 왜성이다](https://ko.wikipedia.org/wiki/황색_왜성 "wikilink"). [겉보기 등급은](https://ko.wikipedia.org/wiki/겉보기_등급 "wikilink") 약 12이다.\[1\]
+**WASP-5** 는 [봉황자리](../Page/봉황자리.md "wikilink") 방향으로 지구로부터 약 910 광년 떨어져 있는 [황색 왜성이다](https://ko.wikipedia.org/wiki/황색_왜성 "wikilink"). [겉보기 등급은](https://ko.wikipedia.org/wiki/겉보기_등급 "wikilink") 약 12이다.\[1\]
 
 ## 행성계
 
-2007년 슈퍼WASP 프로젝트 중 이 별을 도는 외계 행성 [WASP-5b](https://ko.wikipedia.org/wiki/WASP-5b "wikilink")가 발견되었다.\[2\]
+2007년 슈퍼WASP 프로젝트 중 이 별을 도는 외계 행성 [WASP-5b](../Page/WASP-5b.md "wikilink")가 발견되었다.\[2\]
 
 ## 참고 문헌
 

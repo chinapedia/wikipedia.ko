@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [CHAT-SHIRE](https://ko.wikipedia.org/wiki/CHAT-SHIRE).
 
 
-《**CHAT-SHIRE**》는 대한민국의 가수 [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink")의 네 번째 EP 앨범으로, [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [10월 23일에](https://ko.wikipedia.org/wiki/10월_23일 "wikilink") [로엔 엔터테인먼트에서](https://ko.wikipedia.org/wiki/로엔_엔터테인먼트 "wikilink") 발매하였다. [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink")가 직접 프로듀싱한 최초의 [음반](https://ko.wikipedia.org/wiki/음반 "wikilink")이며, 전체 수록곡을 본인이 작사하였다.
+《**CHAT-SHIRE**》는 대한민국의 가수 [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink")의 네 번째 EP 앨범으로, [2015년](../Page/2015년.md "wikilink") [10월 23일에](../Page/10월_23일.md "wikilink") [로엔 엔터테인먼트에서](https://ko.wikipedia.org/wiki/로엔_엔터테인먼트 "wikilink") 발매하였다. [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink")가 직접 프로듀싱한 최초의 [음반](../Page/음반.md "wikilink")이며, 전체 수록곡을 본인이 작사하였다.
 
-2015년 기준 [한국식 나이로](https://ko.wikipedia.org/wiki/동아시아의_나이_계산 "wikilink") 23살인 아이유가 느끼고 생각한 바를 소설 속 캐릭터들을 빌어 총 7곡에 담아냈다. 앨범명 "CHAT-SHIRE" 는 각 곡의 캐릭터들이 살고 있는 [주](https://ko.wikipedia.org/wiki/주_\(행정_구역\) "wikilink")(州), 스물 세 걸음이면 모두 돌아볼 수 있는 작은 사회를 의미한다.\[1\]
+2015년 기준 [한국식 나이로](https://ko.wikipedia.org/wiki/동아시아의_나이_계산 "wikilink") 23살인 아이유가 느끼고 생각한 바를 소설 속 캐릭터들을 빌어 총 7곡에 담아냈다. 앨범명 "CHAT-SHIRE" 는 각 곡의 캐릭터들이 살고 있는 [주](../Page/주_\(행정_구역\).md "wikilink")(州), 스물 세 걸음이면 모두 돌아볼 수 있는 작은 사회를 의미한다.\[1\]
 
 ## 트랙리스트
 
@@ -131,8 +131,8 @@
 
 ## 외부 링크
 
-  - [CHAT-SHIRE](http://music.naver.com/album/index.nhn?albumId=592471) - [네이버](https://ko.wikipedia.org/wiki/네이버 "wikilink") 뮤직
-  - [CHAT-SHIRE](http://www.melon.com/album/detail.htm?albumId=2646282) - [멜론](https://ko.wikipedia.org/wiki/멜론_\(온라인_음악_서비스\) "wikilink")
+  - [CHAT-SHIRE](http://music.naver.com/album/index.nhn?albumId=592471) - [네이버](../Page/네이버.md "wikilink") 뮤직
+  - [CHAT-SHIRE](http://www.melon.com/album/detail.htm?albumId=2646282) - [멜론](../Page/멜론_\(온라인_음악_서비스\).md "wikilink")
 
 ### 유튜브
 

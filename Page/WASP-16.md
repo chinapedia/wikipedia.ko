@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WASP-16](https://ko.wikipedia.org/wiki/WASP-16).
 
 
-**WASP-16**은 [처녀자리](https://ko.wikipedia.org/wiki/처녀자리 "wikilink") 방향에 있는 황색 왜성이다. 겉보기 등급은 11로 맨눈으로는 볼 수 없다. 이 별은 태양과 물리적 특징이 비슷하다.\[1\]\[2\]
+**WASP-16**은 [처녀자리](../Page/처녀자리.md "wikilink") 방향에 있는 황색 왜성이다. 겉보기 등급은 11로 맨눈으로는 볼 수 없다. 이 별은 태양과 물리적 특징이 비슷하다.\[1\]\[2\]
 
 ## 행성계
 

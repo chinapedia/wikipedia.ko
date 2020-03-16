@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ABAYO](https://ko.wikipedia.org/wiki/ABAYO).
 
 
-〈**ABAYO**〉( )는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [걸그룹](https://ko.wikipedia.org/wiki/걸그룹 "wikilink")이었던 [에비스 마스캇츠의](../Page/에비스_마스캇츠.md "wikilink") 9번째이자 마지막 싱글 앨범이다.
+〈**ABAYO**〉( )는 [일본](../Page/일본.md "wikilink")의 [걸그룹](https://ko.wikipedia.org/wiki/걸그룹 "wikilink")이었던 [에비스 마스캇츠의](../Page/에비스_마스캇츠.md "wikilink") 9번째이자 마지막 싱글 앨범이다.
 
 2013년 2월경, [포니캐년](https://ko.wikipedia.org/wiki/포니캐년 "wikilink")의 유투브 페이지에 짧은 버전의 뮤직 비디오가 공개되었다. 뮤직비디오에서는 《[오네다리 마스캇토SP\!](../Page/오네다리_마스캇토SP!.md "wikilink")》에서 사용되는 스튜디오 의상을 착용한 모습을 볼 수 있다.
 

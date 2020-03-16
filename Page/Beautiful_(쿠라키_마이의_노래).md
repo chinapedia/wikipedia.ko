@@ -1,12 +1,12 @@
 > This article is converted from Wikipedia: [Beautiful \(  \)](https://ko.wikipedia.org/wiki/Beautiful_\(__\)).
 
 
-{{싱글 정보 | 곡명 = Beautiful | 음악가 = [쿠라키 마이](https://ko.wikipedia.org/wiki/쿠라키_마이 "wikilink") | 음반 = [FUTURE KISS](../Page/FUTURE_KISS.md "wikilink") | A 사이드 = | B 사이드 = wana | 발매일 = [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [6월 10일](https://ko.wikipedia.org/wiki/6월_10일 "wikilink") | 포맷 = 맥시 싱글 | 녹음 = | 장르 = [J-POP](https://ko.wikipedia.org/wiki/J-POP "wikilink") | 길이 = 4분 31초 | 레이블 = [노던 뮤직](https://ko.wikipedia.org/wiki/노던_뮤직 "wikilink") | 프로듀서 = 쿠라키 마이
+{{싱글 정보 | 곡명 = Beautiful | 음악가 = [쿠라키 마이](../Page/쿠라키_마이.md "wikilink") | 음반 = [FUTURE KISS](../Page/FUTURE_KISS.md "wikilink") | A 사이드 = | B 사이드 = wana | 발매일 = [2009년](../Page/2009년.md "wikilink") [6월 10일](../Page/6월_10일.md "wikilink") | 포맷 = 맥시 싱글 | 녹음 = | 장르 = [J-POP](https://ko.wikipedia.org/wiki/J-POP "wikilink") | 길이 = 4분 31초 | 레이블 = [노던 뮤직](https://ko.wikipedia.org/wiki/노던_뮤직 "wikilink") | 프로듀서 = 쿠라키 마이
 [나가토 다이코](https://ko.wikipedia.org/wiki/나가토_다이코 "wikilink") | 이전싱글 = [PUZZLE/Revive](https://ko.wikipedia.org/wiki/PUZZLE/Revive "wikilink")
-([2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")) | 이번싱글 = **Beautiful**
+([2009년](../Page/2009년.md "wikilink")) | 이번싱글 = **Beautiful**
 (2009년) | 다음싱글 = \[\[에이엔요리_나가쿠/Drive_me_crazy|
 
-〈**Beautiful**〉(뷰티풀)은 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [쿠라키 마이의](https://ko.wikipedia.org/wiki/쿠라키_마이 "wikilink") 32번째 [CD 싱글로](https://ko.wikipedia.org/wiki/싱글_\(음악\)#CD_싱글 "wikilink") [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [6월 10일에](https://ko.wikipedia.org/wiki/6월_10일 "wikilink") [노던 뮤직에서](https://ko.wikipedia.org/wiki/노던_뮤직 "wikilink") 발매되었다.
+〈**Beautiful**〉(뷰티풀)은 [일본](../Page/일본.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [쿠라키 마이의](../Page/쿠라키_마이.md "wikilink") 32번째 [CD 싱글로](https://ko.wikipedia.org/wiki/싱글_\(음악\)#CD_싱글 "wikilink") [2009년](../Page/2009년.md "wikilink") [6월 10일에](../Page/6월_10일.md "wikilink") [노던 뮤직에서](https://ko.wikipedia.org/wiki/노던_뮤직 "wikilink") 발매되었다.
 
 ## 해설
 
@@ -18,14 +18,14 @@
 
 PV는 [시치리가하마](https://ko.wikipedia.org/wiki/시치리가하마 "wikilink")에서 촬영되었다.
 
-[KOSE COSMEPORT](https://ko.wikipedia.org/wiki/고세 "wikilink") [살롱 스타일의](https://ko.wikipedia.org/wiki/살롱_스타일 "wikilink") CM로의 타이업과는 다르며, CM 타이업판은 발매되지 않았지만, 발매로부터 약 1년 반 후인 2010년 11월 17일 발매의 오리지널 음반 《[FUTURE KISS](../Page/FUTURE_KISS.md "wikilink")》에 〈Beautiful (comfortable ver.)〉로 수록되었다.
+[KOSE COSMEPORT](../Page/고세.md "wikilink") [살롱 스타일의](https://ko.wikipedia.org/wiki/살롱_스타일 "wikilink") CM로의 타이업과는 다르며, CM 타이업판은 발매되지 않았지만, 발매로부터 약 1년 반 후인 2010년 11월 17일 발매의 오리지널 음반 《[FUTURE KISS](../Page/FUTURE_KISS.md "wikilink")》에 〈Beautiful (comfortable ver.)〉로 수록되었다.
 
 2010년 4월에 홍콩의 공영 방송국 RTHK 개최의 21st RTHK International Pop Poll Award에서 ‘Top Japanese Gold Song’를 수상하였다.
 
 악곡은 아래의 미디어에서 사용되고 있다.
 
-  - [닛폰 TV계](https://ko.wikipedia.org/wiki/닛폰_TV_방송망 "wikilink") 《[슷키리\!\!](https://ko.wikipedia.org/wiki/슷키리!! "wikilink")》 6월 테마송
-  - [KOSE COSMEPORT](https://ko.wikipedia.org/wiki/고세 "wikilink") [살롱 스타일](https://ko.wikipedia.org/wiki/살롱_스타일 "wikilink") CM 송
+  - [닛폰 TV계](../Page/닛폰_TV_방송망.md "wikilink") 《[슷키리\!\!](https://ko.wikipedia.org/wiki/슷키리!! "wikilink")》 6월 테마송
+  - [KOSE COSMEPORT](../Page/고세.md "wikilink") [살롱 스타일](https://ko.wikipedia.org/wiki/살롱_스타일 "wikilink") CM 송
 
 ## 싱글 수록곡
 
@@ -39,9 +39,9 @@ PV는 [시치리가하마](https://ko.wikipedia.org/wiki/시치리가하마 "wik
 
 ### TV 출연
 
-  - [MUSIC STATION](https://ko.wikipedia.org/wiki/MUSIC_STATION "wikilink")(2009년 6월 12일 방송, [TV 아사히](https://ko.wikipedia.org/wiki/TV_아사히 "wikilink")）
-  - [음악전사 MUSIC FIGHTER](https://ko.wikipedia.org/wiki/음악전사_MUSIC_FIGHTER "wikilink")(2009년 6월 13일 방송, [닛폰 TV](https://ko.wikipedia.org/wiki/닛폰_TV_방송망 "wikilink")）
-  - [MUSIC JAPAN](https://ko.wikipedia.org/wiki/MUSIC_JAPAN "wikilink")(2009년 6월 14일 방송, [NHK](https://ko.wikipedia.org/wiki/일본방송협회 "wikilink"))
+  - [MUSIC STATION](https://ko.wikipedia.org/wiki/MUSIC_STATION "wikilink")(2009년 6월 12일 방송, [TV 아사히](../Page/TV_아사히.md "wikilink")）
+  - [음악전사 MUSIC FIGHTER](https://ko.wikipedia.org/wiki/음악전사_MUSIC_FIGHTER "wikilink")(2009년 6월 13일 방송, [닛폰 TV](../Page/닛폰_TV_방송망.md "wikilink")）
+  - [MUSIC JAPAN](https://ko.wikipedia.org/wiki/MUSIC_JAPAN "wikilink")(2009년 6월 14일 방송, [NHK](../Page/일본방송협회.md "wikilink"))
   - [COUNT DOWN TV](https://ko.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")(2009년 6월 20일 방송, [TBS](https://ko.wikipedia.org/wiki/TBS_TV "wikilink"))
 
 ※[지상파](https://ko.wikipedia.org/wiki/지상파 "wikilink") 음악방송만

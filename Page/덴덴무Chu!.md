@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Chu!](https://ko.wikipedia.org/wiki/Chu!).
 
 
-**덴덴무Chu\!**()는 일본의 아이돌 그룹 [AKB48](https://ko.wikipedia.org/wiki/AKB48 "wikilink"), [HKT48](https://ko.wikipedia.org/wiki/HKT48 "wikilink") 그룹의 멤버가 결성한 6인조 [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") 그룹이다.
+**덴덴무Chu\!**()는 일본의 아이돌 그룹 [AKB48](../Page/AKB48.md "wikilink"), [HKT48](../Page/HKT48.md "wikilink") 그룹의 멤버가 결성한 6인조 [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") 그룹이다.
 
 ## 구성원
 
-  - **[무라야마 유이리](https://ko.wikipedia.org/wiki/무라야마_유이리 "wikilink")** (AKB48 팀4) - 리더, 최연장자
+  - **[무라야마 유이리](../Page/무라야마_유이리.md "wikilink")** (AKB48 팀4) - 리더, 최연장자
   - **[무카이치 미온](../Page/무카이치_미온.md "wikilink")** (AKB48 팀A) - 서브리더
-  - [타니구치 메구](https://ko.wikipedia.org/wiki/타니구치_메구 "wikilink") (AKB48 팀A)
+  - [타니구치 메구](../Page/타니구치_메구.md "wikilink") (AKB48 팀A)
   - [카와모토 사야](../Page/카와모토_사야.md "wikilink") (AKB48 팀4)
   - [타나카 미쿠](https://ko.wikipedia.org/wiki/타나카_미쿠 "wikilink") (HKT48 팀H) - 최연소
   - [야부키 나코](../Page/야부키_나코.md "wikilink") (HKT48 팀H)

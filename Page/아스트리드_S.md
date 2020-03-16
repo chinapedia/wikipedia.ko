@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [ S](https://ko.wikipedia.org/wiki/_S).
 
 
-**아스트리드 S**(Astrid S, [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") [10월 29일](https://ko.wikipedia.org/wiki/10월_29일 "wikilink") \~ )는 [노르웨이](https://ko.wikipedia.org/wiki/노르웨이 "wikilink")의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")이다. 2013년 [팝 아이돌](https://ko.wikipedia.org/wiki/팝_아이돌 "wikilink") 노르웨이에 나와 5위를 했다.
+**아스트리드 S**(Astrid S, [1996년](../Page/1996년.md "wikilink") [10월 29일](../Page/10월_29일.md "wikilink") \~ )는 [노르웨이](../Page/노르웨이.md "wikilink")의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")이다. 2013년 [팝 아이돌](https://ko.wikipedia.org/wiki/팝_아이돌 "wikilink") 노르웨이에 나와 5위를 했다.
 
 ## 소개
 
-[노르웨이](https://ko.wikipedia.org/wiki/노르웨이 "wikilink") [베르코크](https://ko.wikipedia.org/wiki/베르코크 "wikilink")(Berkåk)라는 작은 마을에서 자라, 어릴 적부터 음악에 빠졌다. 16살이었던 2013년, [팝 아이돌](https://ko.wikipedia.org/wiki/팝_아이돌 "wikilink") 노르웨이에 참가했다. 당시 본명으로 싱글 "Shattered"를 발매했다. 그 후, 2015년, 미국에서 "아스트리드 S"라는 새로운 이름으로 첫 싱글 "2AM"을 발매했다. 17살 때, 음악 활동에 집중하기 위해 고등학교를 그만 두었다.\[1\]
+[노르웨이](../Page/노르웨이.md "wikilink") [베르코크](https://ko.wikipedia.org/wiki/베르코크 "wikilink")(Berkåk)라는 작은 마을에서 자라, 어릴 적부터 음악에 빠졌다. 16살이었던 2013년, [팝 아이돌](https://ko.wikipedia.org/wiki/팝_아이돌 "wikilink") 노르웨이에 참가했다. 당시 본명으로 싱글 "Shattered"를 발매했다. 그 후, 2015년, 미국에서 "아스트리드 S"라는 새로운 이름으로 첫 싱글 "2AM"을 발매했다. 17살 때, 음악 활동에 집중하기 위해 고등학교를 그만 두었다.\[1\]
 
 2016년, [트로이 시반의](../Page/트로이_시반.md "wikilink") 유럽 투어에 참여했고, 5월 20일에 EP *Astrid S* 를 발매했다.\[2\]
 
@@ -62,7 +62,7 @@
 </tr>
 <tr class="even">
 <td><p>"Waiting for Love"<br />
-<small>(<a href="https://ko.wikipedia.org/wiki/아비치" title="wikilink">아비치</a>의 곡. 프린스턴과 함께)</small></p></td>
+<small>(<a href="../Page/아비치.md" title="wikilink">아비치</a>의 곡. 프린스턴과 함께)</small></p></td>
 <td><p><em>Waiting for Love Remixes</em></p></td>
 <td></td>
 </tr>

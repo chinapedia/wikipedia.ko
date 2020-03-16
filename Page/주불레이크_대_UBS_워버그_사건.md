@@ -35,8 +35,8 @@
 
 ## 같이 보기
 
-  - [미국의 민사소송법](https://ko.wikipedia.org/wiki/미국의_민사소송법 "wikilink")
-  - [디스커버리 (법)](https://ko.wikipedia.org/wiki/디스커버리_\(법\) "wikilink")
+  - [미국의 민사소송법](../Page/미국의_민사소송법.md "wikilink")
+  - [디스커버리 (법)](../Page/디스커버리_\(법\).md "wikilink")
 
 ## 각주
 

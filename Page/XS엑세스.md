@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [XS](https://ko.wikipedia.org/wiki/XS).
 
 
-**XS엑세스**는 [송지형](https://ko.wikipedia.org/wiki/송지형 "wikilink")의 만화이다. [학산문화사](https://ko.wikipedia.org/wiki/학산문화사 "wikilink")의 [부킹](https://ko.wikipedia.org/wiki/부킹 "wikilink")이라는 잡지에 연재되었으며 영어판의 경우 [다크 호스 코믹스의](https://ko.wikipedia.org/wiki/다크_호스_코믹스 "wikilink") 라이선스를 받는다. 전5권 완결이다.
+**XS엑세스**는 [송지형](https://ko.wikipedia.org/wiki/송지형 "wikilink")의 만화이다. [학산문화사](../Page/학산문화사.md "wikilink")의 [부킹](https://ko.wikipedia.org/wiki/부킹 "wikilink")이라는 잡지에 연재되었으며 영어판의 경우 [다크 호스 코믹스의](https://ko.wikipedia.org/wiki/다크_호스_코믹스 "wikilink") 라이선스를 받는다. 전5권 완결이다.
 
 ## 책
 
@@ -28,7 +28,7 @@
 ## 외부 링크
 
   - [XS Volume 1: Hybrid](http://www.darkhorse.com/Books/13-978/XS-Volume-1-Hybrid) - [다크 호스 코믹스](https://ko.wikipedia.org/wiki/다크_호스_코믹스 "wikilink")
-  - [XS엑세스 1권](http://www.haksanpub.co.kr/comics/comics_prod_view.asp?prod_code=C0000342&vol_code=1) - [학산문화사](https://ko.wikipedia.org/wiki/학산문화사 "wikilink")
+  - [XS엑세스 1권](http://www.haksanpub.co.kr/comics/comics_prod_view.asp?prod_code=C0000342&vol_code=1) - [학산문화사](../Page/학산문화사.md "wikilink")
 
 [분류:대한민국의 만화](https://ko.wikipedia.org/wiki/분류:대한민국의_만화 "wikilink")
 

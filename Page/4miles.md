@@ -1,16 +1,16 @@
 > This article is converted from Wikipedia: [4miles](https://ko.wikipedia.org/wiki/4miles).
 
 
-**홍성민**(1975년 12월 25일 \~ )은 **4miles**라는 예명으로 알려진 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 싱어송라이터 겸 음악 프로듀서이며, a.k.a.는 **모지스 홍**(Moses Hong)이다.
+**홍성민**(1975년 12월 25일 \~ )은 **4miles**라는 예명으로 알려진 [대한민국](../Page/대한민국.md "wikilink")의 싱어송라이터 겸 음악 프로듀서이며, a.k.a.는 **모지스 홍**(Moses Hong)이다.
 
 ## 이력
 
 ### 주요 경력
 
-  - 1994년 홍성민 본명으로 언더그라운드 [라이브 클럽에서](https://ko.wikipedia.org/wiki/라이브_클럽 "wikilink") [록 음악](https://ko.wikipedia.org/wiki/록_음악 "wikilink") [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") 첫 [데뷔](https://ko.wikipedia.org/wiki/데뷔 "wikilink").
-  - 1997년 [예명](https://ko.wikipedia.org/wiki/예명 "wikilink") 홍지호\[1\]로 [KBS](https://ko.wikipedia.org/wiki/한국방송공사 "wikilink") [TV 드라마](https://ko.wikipedia.org/wiki/텔레비전_드라마 "wikilink") 《[프로포즈](https://ko.wikipedia.org/wiki/프로포즈_\(드라마\) "wikilink")》의 메인 OST 곡 《Propose》를 작업.
-  - 2001년 본명 홍성민\[2\]으로 《홍성민 1집》 [음반](https://ko.wikipedia.org/wiki/음반 "wikilink")\[3\]을 발표.
-  - 2003년 [예명](https://ko.wikipedia.org/wiki/예명 "wikilink") M22N\[4\]으로 《M22N 1집》 [음반](https://ko.wikipedia.org/wiki/음반 "wikilink")을 발표.
+  - 1994년 홍성민 본명으로 언더그라운드 [라이브 클럽에서](https://ko.wikipedia.org/wiki/라이브_클럽 "wikilink") [록 음악](../Page/록_음악.md "wikilink") [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") 첫 [데뷔](https://ko.wikipedia.org/wiki/데뷔 "wikilink").
+  - 1997년 [예명](https://ko.wikipedia.org/wiki/예명 "wikilink") 홍지호\[1\]로 [KBS](../Page/한국방송공사.md "wikilink") [TV 드라마](../Page/텔레비전_드라마.md "wikilink") 《[프로포즈](../Page/프로포즈_\(드라마\).md "wikilink")》의 메인 OST 곡 《Propose》를 작업.
+  - 2001년 본명 홍성민\[2\]으로 《홍성민 1집》 [음반](../Page/음반.md "wikilink")\[3\]을 발표.
+  - 2003년 [예명](https://ko.wikipedia.org/wiki/예명 "wikilink") M22N\[4\]으로 《M22N 1집》 [음반](../Page/음반.md "wikilink")을 발표.
 
 ## 소속
 

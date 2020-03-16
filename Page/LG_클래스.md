@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LG ](https://ko.wikipedia.org/wiki/LG_).
 
 
-*' LG 클래스*'(LG CLASS)는 [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")가 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [9월 22일에](https://ko.wikipedia.org/wiki/9월_22일 "wikilink") 출시한 중저가 [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")이다.\[1\] [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink") [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink") 최초로 풀메탈을 적용한 것이 특징이며, 전체적인 사양은 [LG 밴드플레이와](../Page/LG_밴드플레이.md "wikilink") 비슷하다. 보급형 치고 판매 실적이 꽤 좋았는데 출시 초기에는 주간 스마트폰 판매 순위 TOP 10 진입에 성공했다.\[2\] [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")을 제외한 해외 출시 국가에는 제로라는 이름으로 출시되었다. 홍보는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 걸그룹 [걸스데이](https://ko.wikipedia.org/wiki/걸스데이 "wikilink")가 맡았다.
+*' LG 클래스*'(LG CLASS)는 [LG전자](../Page/LG전자.md "wikilink")가 [2015년](../Page/2015년.md "wikilink") [9월 22일에](../Page/9월_22일.md "wikilink") 출시한 중저가 [스마트폰](../Page/스마트폰.md "wikilink")이다.\[1\] [LG전자](../Page/LG전자.md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink") 최초로 풀메탈을 적용한 것이 특징이며, 전체적인 사양은 [LG 밴드플레이와](../Page/LG_밴드플레이.md "wikilink") 비슷하다. 보급형 치고 판매 실적이 꽤 좋았는데 출시 초기에는 주간 스마트폰 판매 순위 TOP 10 진입에 성공했다.\[2\] [대한민국](../Page/대한민국.md "wikilink")을 제외한 해외 출시 국가에는 제로라는 이름으로 출시되었다. 홍보는 [대한민국](../Page/대한민국.md "wikilink")의 걸그룹 [걸스데이](../Page/걸스데이.md "wikilink")가 맡았다.
 
 ## 운영체제 / 소프트웨어
 
@@ -11,7 +11,7 @@
 
 ### 안드로이드 6.0 마시멜로
 
-[2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [4월 24일](https://ko.wikipedia.org/wiki/4월_24일 "wikilink"), [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") 통신 3사의 클래스에 [6.0 마시멜로가](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 배포되었다. [5.1 롤리팝과](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 크게 달라진 점은 없지만 배터리 최적화 기능이 적용되고 4자리만 지원하던 노크 코드를 6자리에서 8자리까지 선택할 수 있도록 변경되었다.\[3\]
+[2016년](../Page/2016년.md "wikilink") [4월 24일](../Page/4월_24일.md "wikilink"), [대한민국](../Page/대한민국.md "wikilink") 통신 3사의 클래스에 [6.0 마시멜로가](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 배포되었다. [5.1 롤리팝과](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 크게 달라진 점은 없지만 배터리 최적화 기능이 적용되고 4자리만 지원하던 노크 코드를 6자리에서 8자리까지 선택할 수 있도록 변경되었다.\[3\]
 
 ## 특수 기능
 
@@ -24,7 +24,7 @@
 
 ### 롱 제스쳐 샷
 
-손바닥을 펼쳤다가 주먹을 지면 3초 후 자동으로 사진이 찍히는 기능이다. 최대 1.5[m까지](https://ko.wikipedia.org/wiki/미터 "wikilink") 사용가능하다.
+손바닥을 펼쳤다가 주먹을 지면 3초 후 자동으로 사진이 찍히는 기능이다. 최대 1.5[m까지](../Page/미터.md "wikilink") 사용가능하다.
 
 ### 제스쳐 뷰어
 

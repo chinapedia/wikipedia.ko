@@ -3,13 +3,13 @@
 
 **카카오 T**(Kakao T)는 [카카오가](../Page/카카오_\(기업\).md "wikilink") 2015년 출시한 콜택시 및 대중교통 서비스 애플리케이션(앱)이다. 카카오택시 이용자(승객)는 카카오 계정으로 로그인해 이용자 정보를 카카오택시에 적용한다. 이용자가 승객용 앱을 통해 택시 요청을 하면 카카오택시 기사용 앱에 가입한 택시기사에게 이용자의 현 위치정보와 목적지 등이 전송된다.\[1\]
 
-카카오택시는 카카오 계정으로 연동하여 사용한다는 점, 전국 어디에서나 사용 가능한 점 등의 편의성과 기사, 승객 평가 시스템을 운영한다는 점 등의 부분에서 차별성을 앞세워 운영하고 있다. 카카오택시는 출시 3개월만에 누적 호출 수가 500만 건을 넘어섰다.\[2\] 2017년 11월에는 출시 3년여 만에 누적 승객 수 1371만 명을 돌파했고, 누적 운행 거리는 1,601,700,000 ㎞로, [서울과](https://ko.wikipedia.org/wiki/서울특별시 "wikilink") [부산을](https://ko.wikipedia.org/wiki/부산광역시 "wikilink") 186만 번 왕복한 것과 같다는 집계결과가 나왔다.\[3\]
+카카오택시는 카카오 계정으로 연동하여 사용한다는 점, 전국 어디에서나 사용 가능한 점 등의 편의성과 기사, 승객 평가 시스템을 운영한다는 점 등의 부분에서 차별성을 앞세워 운영하고 있다. 카카오택시는 출시 3개월만에 누적 호출 수가 500만 건을 넘어섰다.\[2\] 2017년 11월에는 출시 3년여 만에 누적 승객 수 1371만 명을 돌파했고, 누적 운행 거리는 1,601,700,000 ㎞로, [서울과](../Page/서울특별시.md "wikilink") [부산을](https://ko.wikipedia.org/wiki/부산광역시 "wikilink") 186만 번 왕복한 것과 같다는 집계결과가 나왔다.\[3\]
 
 ## 서비스 목록
 
 ### 택시
 
-2015년 1월 31일 부터 [택시](https://ko.wikipedia.org/wiki/택시 "wikilink")의 기사 모집을 해서 같은 해 3월 31일 부터 운영하고 있는 택시 서비스이다. 현재는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")과 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서 운영 중이다.
+2015년 1월 31일 부터 [택시](../Page/택시.md "wikilink")의 기사 모집을 해서 같은 해 3월 31일 부터 운영하고 있는 택시 서비스이다. 현재는 [대한민국](../Page/대한민국.md "wikilink")과 [일본](../Page/일본.md "wikilink")에서 운영 중이다.
 
 #### 재팬택시
 
@@ -17,7 +17,7 @@
 
 #### 해외여행
 
-2019년 10월 14일부터 [베트남](https://ko.wikipedia.org/wiki/베트남 "wikilink")을 시작으로 외국에서 서비스하는 택시서비스이다.
+2019년 10월 14일부터 [베트남](../Page/베트남.md "wikilink")을 시작으로 외국에서 서비스하는 택시서비스이다.
 
 ### 블랙
 
@@ -33,11 +33,11 @@
 
 ### 카풀
 
-2018년 12월 6일부터 시범서비스를 하다가 [아래 사건으로](https://ko.wikipedia.org/wiki/#카풀_영업_논란 "wikilink") 인해 2019년 1월 18일에 중단한 [승차 공유 서비스이다](https://ko.wikipedia.org/wiki/승차_공유_서비스 "wikilink").
+2018년 12월 6일부터 시범서비스를 하다가 [아래 사건으로](https://ko.wikipedia.org/wiki/#카풀_영업_논란 "wikilink") 인해 2019년 1월 18일에 중단한 [승차 공유 서비스이다](../Page/승차_공유_서비스.md "wikilink").
 
 ### 바이크
 
-2019년 3월 6일부터 [카카오에서](../Page/카카오_\(기업\).md "wikilink") 운영하는 [자전거](https://ko.wikipedia.org/wiki/자전거 "wikilink") 대여 서비스이다.\[6\] 현재는 [서울특별시](https://ko.wikipedia.org/wiki/서울특별시 "wikilink") [송파구](https://ko.wikipedia.org/wiki/송파구 "wikilink") ([위례신도시](../Page/위례신도시.md "wikilink") 지역만), [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink") [연수구](https://ko.wikipedia.org/wiki/연수구 "wikilink"), [남동구](https://ko.wikipedia.org/wiki/남동구 "wikilink") (일부), [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [성남시](https://ko.wikipedia.org/wiki/성남시 "wikilink"), [하남시](https://ko.wikipedia.org/wiki/하남시 "wikilink") ([위례신도시](../Page/위례신도시.md "wikilink") 지역만), [전라북도](https://ko.wikipedia.org/wiki/전라북도 "wikilink") [전주시](https://ko.wikipedia.org/wiki/전주시 "wikilink"), [울산광역시](https://ko.wikipedia.org/wiki/울산광역시 "wikilink") (일부)에서만 서비스하고 있다.
+2019년 3월 6일부터 [카카오에서](../Page/카카오_\(기업\).md "wikilink") 운영하는 [자전거](../Page/자전거.md "wikilink") 대여 서비스이다.\[6\] 현재는 [서울특별시](../Page/서울특별시.md "wikilink") [송파구](https://ko.wikipedia.org/wiki/송파구 "wikilink") ([위례신도시](../Page/위례신도시.md "wikilink") 지역만), [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink") [연수구](../Page/연수구.md "wikilink"), [남동구](../Page/남동구.md "wikilink") (일부), [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [성남시](../Page/성남시.md "wikilink"), [하남시](../Page/하남시.md "wikilink") ([위례신도시](../Page/위례신도시.md "wikilink") 지역만), [전라북도](https://ko.wikipedia.org/wiki/전라북도 "wikilink") [전주시](https://ko.wikipedia.org/wiki/전주시 "wikilink"), [울산광역시](https://ko.wikipedia.org/wiki/울산광역시 "wikilink") (일부)에서만 서비스하고 있다.
 
 ## 카풀 영업 논란
 

@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [GS](https://ko.wikipedia.org/wiki/GS).
 
 
-**GS타워**(), **GS강남타워**()는 지상 38층, 173m로 구성되며 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") [서울특별시](https://ko.wikipedia.org/wiki/서울특별시 "wikilink") [강남구](https://ko.wikipedia.org/wiki/강남구 "wikilink") [역삼동](https://ko.wikipedia.org/wiki/역삼동 "wikilink")에 위치한 건축물이다.\[1\] [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink")에 착공하여 [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink")에 완공하였고 옥탑 4층, 지상 38층, 지하 6층이 있으며 173m가 높고 내부 시설에는 사무실들이 입주하였다.
+**GS타워**(), **GS강남타워**()는 지상 38층, 173m로 구성되며 [대한민국](../Page/대한민국.md "wikilink") [서울특별시](../Page/서울특별시.md "wikilink") [강남구](https://ko.wikipedia.org/wiki/강남구 "wikilink") [역삼동](https://ko.wikipedia.org/wiki/역삼동 "wikilink")에 위치한 건축물이다.\[1\] [1994년](../Page/1994년.md "wikilink")에 착공하여 [1999년](../Page/1999년.md "wikilink")에 완공하였고 옥탑 4층, 지상 38층, 지하 6층이 있으며 173m가 높고 내부 시설에는 사무실들이 입주하였다.
 
 ## 역사
 
-[1994년 6월에](https://ko.wikipedia.org/wiki/1994년_6월 "wikilink") 기본설계가 발주하였고 [1994년 8월에도](https://ko.wikipedia.org/wiki/1994년_8월 "wikilink") 발주하였고 [1994년 12월에](https://ko.wikipedia.org/wiki/1994년_12월 "wikilink") 착공 신고를 받고 기존 건물을 철거하였다. [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") [12월 21일에](https://ko.wikipedia.org/wiki/12월_21일 "wikilink") 착공하여 [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [9월 30일에](https://ko.wikipedia.org/wiki/9월_30일 "wikilink") 완공하였다. [2005년 3월에](https://ko.wikipedia.org/wiki/2005년_3월 "wikilink") LG강남타워를 GS타워로 명칭을 변경했다. [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink")에 GS타워에 UCC 존(UCC ZONE)을 설치했다.\[2\] [2011년 6월에](https://ko.wikipedia.org/wiki/2011년_6월 "wikilink") 화재에 안전한 우수건물으로 선정되었다.
+[1994년 6월에](https://ko.wikipedia.org/wiki/1994년_6월 "wikilink") 기본설계가 발주하였고 [1994년 8월에도](https://ko.wikipedia.org/wiki/1994년_8월 "wikilink") 발주하였고 [1994년 12월에](https://ko.wikipedia.org/wiki/1994년_12월 "wikilink") 착공 신고를 받고 기존 건물을 철거하였다. [1994년](../Page/1994년.md "wikilink") [12월 21일에](../Page/12월_21일.md "wikilink") 착공하여 [1999년](../Page/1999년.md "wikilink") [9월 30일에](../Page/9월_30일.md "wikilink") 완공하였다. [2005년 3월에](../Page/2005년_3월.md "wikilink") LG강남타워를 GS타워로 명칭을 변경했다. [2007년](../Page/2007년.md "wikilink")에 GS타워에 UCC 존(UCC ZONE)을 설치했다.\[2\] [2011년 6월에](../Page/2011년_6월.md "wikilink") 화재에 안전한 우수건물으로 선정되었다.
 
 ## 건축
 
@@ -96,13 +96,13 @@ LG강남타워가 기존사무소빌딩과 구별되는 점의 하나는 바로 
 
 ## 대중문화
 
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [GMA 일일연속극](https://ko.wikipedia.org/wiki/GMA_네트워크 "wikilink") - [한국인 자기야](https://ko.wikipedia.org/wiki/한국인_자기야_\(드라마\) "wikilink")
+  - [2017년](../Page/2017년.md "wikilink") [GMA 일일연속극](../Page/GMA_네트워크.md "wikilink") - [한국인 자기야](../Page/한국인_자기야_\(드라마\).md "wikilink")
 
 ## 교통
 
 ### 지하철
 
-  - \- [역삼역](https://ko.wikipedia.org/wiki/역삼역 "wikilink")
+  - \- [역삼역](../Page/역삼역.md "wikilink")
 
 ### 버스
 
@@ -110,10 +110,10 @@ LG강남타워가 기존사무소빌딩과 구별되는 점의 하나는 바로 
 
 ## 더 보기
 
-  - [GS그룹](https://ko.wikipedia.org/wiki/GS그룹 "wikilink")
+  - [GS그룹](../Page/GS그룹.md "wikilink")
   - [대한민국의 마천루 목록](../Page/대한민국의_마천루_목록.md "wikilink")
   - [서울특별시의 마천루 목록](../Page/서울특별시의_마천루_목록.md "wikilink")
-  - [서울특별시 강남구의 마천루 목록](https://ko.wikipedia.org/wiki/서울특별시_강남구의_마천루_목록 "wikilink")
+  - [서울특별시 강남구의 마천루 목록](../Page/서울특별시_강남구의_마천루_목록.md "wikilink")
 
 ## 각주
 

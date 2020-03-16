@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ \(ecosystem \)](https://ko.wikipedia.org/wiki/_\(ecosystem_\)).
 
 
-「**딜레마**」(ジレンマ)는, [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [밴드](https://ko.wikipedia.org/wiki/악단 "wikilink"), [ecosystem](https://ko.wikipedia.org/wiki/ecosystem "wikilink")의 음악으로, 첫 번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink"). [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [11월 30일에](https://ko.wikipedia.org/wiki/11월_30일 "wikilink") [SME Records에서](https://ko.wikipedia.org/wiki/SME_Records "wikilink") 발매되었다.
+「**딜레마**」(ジレンマ)는, [일본](../Page/일본.md "wikilink")의 [밴드](https://ko.wikipedia.org/wiki/악단 "wikilink"), [ecosystem](https://ko.wikipedia.org/wiki/ecosystem "wikilink")의 음악으로, 첫 번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). [2011년](../Page/2011년.md "wikilink") [11월 30일에](../Page/11월_30일.md "wikilink") [SME Records에서](https://ko.wikipedia.org/wiki/SME_Records "wikilink") 발매되었다.
 
 ## 해설
 
@@ -15,8 +15,8 @@
 
 1.  **딜레마** \[3:59\]
       -
-        [TV 도쿄](https://ko.wikipedia.org/wiki/TV_도쿄 "wikilink") 계열 애니메이션 "銀魂'" 제 2기\[2\] 오프닝 테마.\[3\]
-        2011년 [10월 3일부터](https://ko.wikipedia.org/wiki/10월_3일 "wikilink") 오프닝 테마로 사용되었다.\[4\]
+        [TV 도쿄](../Page/TV_도쿄.md "wikilink") 계열 애니메이션 "銀魂'" 제 2기\[2\] 오프닝 테마.\[3\]
+        2011년 [10월 3일부터](../Page/10월_3일.md "wikilink") 오프닝 테마로 사용되었다.\[4\]
 2.  **밤의 거리** \[4:07\]
 3.  **망상 기생** \[3:57\]
 
@@ -30,5 +30,5 @@
 
 1.
 2.  第1シーズンからの通算では、第10期
-3.  2011年10月3日 - [12月26日放送分](https://ko.wikipedia.org/wiki/12월_26일 "wikilink")、第236話（11月28日放送分）では、エンディングとして使用された。
+3.  2011年10月3日 - [12月26日放送分](../Page/12월_26일.md "wikilink")、第236話（11月28日放送分）では、エンディングとして使用された。
 4.

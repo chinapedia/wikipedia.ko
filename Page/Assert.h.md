@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Assert.h](https://ko.wikipedia.org/wiki/Assert.h).
 
 
-**assert.h**는 [C 표준 라이브러리](https://ko.wikipedia.org/wiki/C_표준_라이브러리 "wikilink") 중 하나다. [C 언어 전처리기](https://ko.wikipedia.org/wiki/C_언어_전처리기 "wikilink") [매크로](https://ko.wikipedia.org/wiki/매크로 "wikilink") 중 하나인 `assert()`\[1\]\[2\] 이 매크로는 [표명](../Page/표명.md "wikilink")을 구현하여 프로그램이 추정한 것을 확인하며 거짓인 경우 진단 메시지를 출력한다. [C++](https://ko.wikipedia.org/wiki/C++ "wikilink")에서는 **cassert** 헤더 파일을 통해 사용할 수 있다.
+**assert.h**는 [C 표준 라이브러리](../Page/C_표준_라이브러리.md "wikilink") 중 하나다. [C 언어 전처리기](https://ko.wikipedia.org/wiki/C_언어_전처리기 "wikilink") [매크로](https://ko.wikipedia.org/wiki/매크로 "wikilink") 중 하나인 `assert()`\[1\]\[2\] 이 매크로는 [표명](../Page/표명.md "wikilink")을 구현하여 프로그램이 추정한 것을 확인하며 거짓인 경우 진단 메시지를 출력한다. [C++](https://ko.wikipedia.org/wiki/C++ "wikilink")에서는 **cassert** 헤더 파일을 통해 사용할 수 있다.
 
 프로그램이 실행될 때, `assert()` 는 조건에 오류가 있을 경우 표준오류 (`stderr`) 를 통해 실패한 호출의 정보를 출력하고, `abort()`를 호출한다. 표준오류 (`stderr`)에 포함된 정보는 아래와 같다.
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BASIC \(   \)](https://ko.wikipedia.org/wiki/BASIC_\(___\)).
 
 
-《**BASIC**》은 대한민국의 음악 그룹 [브라운 아이드 걸스의](https://ko.wikipedia.org/wiki/브라운_아이드_걸스 "wikilink") 여섯 번째 정규 음반이다. 2015년 11월 5일 [로엔 엔터테인먼트를](https://ko.wikipedia.org/wiki/로엔_엔터테인먼트 "wikilink") 통해 발매되었다.
+《**BASIC**》은 대한민국의 음악 그룹 [브라운 아이드 걸스의](../Page/브라운_아이드_걸스.md "wikilink") 여섯 번째 정규 음반이다. 2015년 11월 5일 [로엔 엔터테인먼트를](https://ko.wikipedia.org/wiki/로엔_엔터테인먼트 "wikilink") 통해 발매되었다.
 
 ## 수록곡
 
@@ -43,7 +43,7 @@
 
 <!-- end list -->
 
-  - Choreography : Jonte Moaning, 김화영, 박진우, [가인](https://ko.wikipedia.org/wiki/가인 "wikilink")
+  - Choreography : Jonte Moaning, 김화영, 박진우, [가인](../Page/가인.md "wikilink")
 
 <!-- end list -->
 
@@ -64,7 +64,7 @@
       - Guitar : 김수완
       - Bass : [프라이머리](https://ko.wikipedia.org/wiki/프라이머리 "wikilink")
       - Keyboards : [프라이머리](https://ko.wikipedia.org/wiki/프라이머리 "wikilink")
-      - Rap Making : [미료](https://ko.wikipedia.org/wiki/미료 "wikilink")
+      - Rap Making : [미료](../Page/미료.md "wikilink")
       - Recorded by : 정재원(@STUDIO89)
       - Mixed by : 고현정(@MUSICABAL)
       - Mastered by : 최효영(@SUONO)
@@ -84,11 +84,11 @@
 
   - Wave
       - Bass : 최훈
-      - Piano : [정석원](https://ko.wikipedia.org/wiki/정석원_\(음악가\) "wikilink")
-      - Keyboards : [정석원](https://ko.wikipedia.org/wiki/정석원_\(음악가\) "wikilink")
-      - Rap Making : [미료](https://ko.wikipedia.org/wiki/미료 "wikilink")
-      - All Programming : [정석원](https://ko.wikipedia.org/wiki/정석원_\(음악가\) "wikilink")
-      - Vocal Arrangements : [정석원](https://ko.wikipedia.org/wiki/정석원_\(음악가\) "wikilink"), 케이준
+      - Piano : [정석원](../Page/정석원_\(음악가\).md "wikilink")
+      - Keyboards : [정석원](../Page/정석원_\(음악가\).md "wikilink")
+      - Rap Making : [미료](../Page/미료.md "wikilink")
+      - All Programming : [정석원](../Page/정석원_\(음악가\).md "wikilink")
+      - Vocal Arrangements : [정석원](../Page/정석원_\(음악가\).md "wikilink"), 케이준
       - Recorded by : 정재원(@STUDIO89)
       - Mixed by : 조준성(@W SOUND)
       - Mastered by : 최효영(@SUONO)
@@ -105,7 +105,7 @@
       - Scarbee Mark 1 : 이민수, 이선민
       - Chorus : 강현주
       - Background Vocals : [브라운아이드걸스](https://ko.wikipedia.org/wiki/브라운아이드걸스 "wikilink")
-      - Rap Making : [미료](https://ko.wikipedia.org/wiki/미료 "wikilink")
+      - Rap Making : [미료](../Page/미료.md "wikilink")
       - Strings Arranged by : 이나일
       - Strings : ON the string
       - Recorded by : 정재원(@STUDIO89)
@@ -121,7 +121,7 @@
       - Bass : 이신우
       - Keyboards : 에코브릿지
       - Soprano Saxophone : Jamil Soul
-      - Rap Making : [미료](https://ko.wikipedia.org/wiki/미료 "wikilink")
+      - Rap Making : [미료](../Page/미료.md "wikilink")
       - All Programming : 에코브릿지
       - Recorded by : 정재원(@STUDIO89), 박상운(@NUPLAY)
       - Mixed by : 이청무
@@ -135,7 +135,7 @@
       - Electric Piano : KZ, LUCKY.D, 미친감성
       - Keyboards : KZ, LUCKY.D, 미친감성
       - Chorus : 정진하, KZ
-      - Rap Making : [미료](https://ko.wikipedia.org/wiki/미료 "wikilink")
+      - Rap Making : [미료](../Page/미료.md "wikilink")
       - Midi Programming : KZ, LUCKY.D, 미친감성
       - Recorded by : 정재원(@STUDIO89)
       - Vocal Edited by : 박선영
@@ -145,7 +145,7 @@
 <!-- end list -->
 
   - Light
-      - Rap Making : [미료](https://ko.wikipedia.org/wiki/미료 "wikilink")
+      - Rap Making : [미료](../Page/미료.md "wikilink")
       - Recorded by : 정재원(@STUDIO89)
       - Mixed by : 김한구, 정호진(@SOUND POOL)
       - Mastered by : 최효영(@SUONO)
@@ -172,7 +172,7 @@
       - Electric Piano : 전자맨, KZ
       - Keyboards : 전자맨, KZ
       - Chorus : 정진하, KZ
-      - Rap Making : [미료](https://ko.wikipedia.org/wiki/미료 "wikilink")
+      - Rap Making : [미료](../Page/미료.md "wikilink")
       - Midi Programming : 전자맨, KZ
       - Recorded by : 정재원(@STUDIO89)
       - Vocal Edited by : 박선영
@@ -183,7 +183,7 @@
 
   - Fractal
       - Guitar : 정수완
-      - Rap Making : [미료](https://ko.wikipedia.org/wiki/미료 "wikilink")
+      - Rap Making : [미료](../Page/미료.md "wikilink")
       - Recorded by : 정재원 (@STUDIO89)
       - Mixed by : 김한구, 정호진(@SOUND POOL)
       - Mastered by : 최효영(@SUONO)

@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [WASP-3](https://ko.wikipedia.org/wiki/WASP-3).
 
 
-**WASP-3**은 [거문고자리](https://ko.wikipedia.org/wiki/거문고자리 "wikilink") 방향으로 지구로부터 약 727 광년 떨어진 곳에 있는 겉보기 등급 10의 [황백색 왜성이다](https://ko.wikipedia.org/wiki/F형_주계열성 "wikilink").\[1\] 이 별은 [변광성](https://ko.wikipedia.org/wiki/변광성 "wikilink")으로 보이는데 그 증거로 2007년부터 2010년 사이 별의 활동량이 증가했다.\[2\]
+**WASP-3**은 [거문고자리](../Page/거문고자리.md "wikilink") 방향으로 지구로부터 약 727 광년 떨어진 곳에 있는 겉보기 등급 10의 [황백색 왜성이다](../Page/F형_주계열성.md "wikilink").\[1\] 이 별은 [변광성](../Page/변광성.md "wikilink")으로 보이는데 그 증거로 2007년부터 2010년 사이 별의 활동량이 증가했다.\[2\]
 
 ## 행성계
 
-2007년 슈퍼WASP 프로젝트 중 이 항성을 돌고 있는 [외계 행성](https://ko.wikipedia.org/wiki/외계_행성 "wikilink") [WASP-3b](https://ko.wikipedia.org/wiki/WASP-3b "wikilink")가 발견되었다.\[3\] 2008년 [윌리엄 허셜 망원경으로](https://ko.wikipedia.org/wiki/윌리엄_허셜_망원경 "wikilink") 이 천체가 외계 행성임을 검증했다.
+2007년 슈퍼WASP 프로젝트 중 이 항성을 돌고 있는 [외계 행성](../Page/외계_행성.md "wikilink") [WASP-3b](../Page/WASP-3b.md "wikilink")가 발견되었다.\[3\] 2008년 [윌리엄 허셜 망원경으로](https://ko.wikipedia.org/wiki/윌리엄_허셜_망원경 "wikilink") 이 천체가 외계 행성임을 검증했다.
 
 2010년 천문학자들은 별을 도는 두 번째 행성이 있다고 주장했다.\[4\]\[5\] 그러나 2012년 이 제안은 기각되었다.\[6\]
 

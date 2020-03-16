@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [F-](https://ko.wikipedia.org/wiki/F-).
 
 
-**F-시큐어 코퍼레이션**(F-Secure Corporation)은 [핀란드](https://ko.wikipedia.org/wiki/핀란드 "wikilink")의 [보안 소프트웨어](https://ko.wikipedia.org/wiki/보안_소프트웨어 "wikilink") 기업으로, 본사는 [헬싱키](https://ko.wikipedia.org/wiki/헬싱키 "wikilink")에 위치해 있다. F-시큐어는 [헬싱키 증권 거래소에서](https://ko.wikipedia.org/wiki/헬싱키_증권_거래소 "wikilink") 상장기호 FSC1V로 거래되고 있다.
+**F-시큐어 코퍼레이션**(F-Secure Corporation)은 [핀란드](../Page/핀란드.md "wikilink")의 [보안 소프트웨어](https://ko.wikipedia.org/wiki/보안_소프트웨어 "wikilink") 기업으로, 본사는 [헬싱키](../Page/헬싱키.md "wikilink")에 위치해 있다. F-시큐어는 [헬싱키 증권 거래소에서](https://ko.wikipedia.org/wiki/헬싱키_증권_거래소 "wikilink") 상장기호 FSC1V로 거래되고 있다.
 
 F-시큐어는 F-시큐어 인터넷 시큐리티 제품 등으로 [안티바이러스 산업에서](https://ko.wikipedia.org/wiki/안티바이러스_산업 "wikilink") 다른 보안 업체들과 경쟁하고 있다. F-시큐어 랩 웹로그는 글로벌 인터넷과 모바일 보안 위협을 추적, 분석하고 있다.\[1\]
 

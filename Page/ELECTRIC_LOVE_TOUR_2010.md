@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [ELECTRIC LOVE TOUR 2010](https://ko.wikipedia.org/wiki/ELECTRIC_LOVE_TOUR_2010).
 
 
-**ELECTRIC LOVE TOUR 2010**은 [빅뱅의](https://ko.wikipedia.org/wiki/빅뱅_\(음악_그룹\) "wikilink") 두 번째 일본 투어이다. 이 콘서트의 공연에는 약 39억원의 제작비가 투입 되었으며,\[1\] 마지막 콘서트 장소였던 일본무도관에서 그들의 일본 최초의 아레나 투어를 마무리하며 총 6만명의 관객을 동원했다.\[2\] 이 투어는 일본 데뷔를 한 이후 불과 4개월 만에 일본 무도관 입성으로 아이돌 그룹 중에서 가장 빠른 기록을 세웠다.\[3\] 이 공연에는 수많은 일본의 유명 인사들이 관람을 해 화제가 되었는데, 니시와키 아야카, 방송인 와타나베 시호, [AKB48](https://ko.wikipedia.org/wiki/AKB48 "wikilink")의 우메다 아야카와 사토 유카리, [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink")의 [다나카 레이나](https://ko.wikipedia.org/wiki/다나카_레이나 "wikilink"), [w-inds.](https://ko.wikipedia.org/wiki/w-inds. "wikilink"), [나카시마 미카](https://ko.wikipedia.org/wiki/나카시마_미카 "wikilink"), 모델 [미즈사와 에레나](https://ko.wikipedia.org/wiki/미즈사와_에레나 "wikilink"), [아오야마 테루마](https://ko.wikipedia.org/wiki/아오야마_테루마 "wikilink"), [마츠우라 아야](https://ko.wikipedia.org/wiki/마츠우라_아야 "wikilink"), [EXILE](https://ko.wikipedia.org/wiki/EXILE "wikilink")의 [마키 다이스케](https://ko.wikipedia.org/wiki/마키_다이스케 "wikilink"), [아키라](https://ko.wikipedia.org/wiki/아키라 "wikilink"), [SPEED의](https://ko.wikipedia.org/wiki/SPEED_\(일본의_음악_그룹\) "wikilink") [이마이 에리코](https://ko.wikipedia.org/wiki/이마이_에리코 "wikilink"), [코다 쿠미](https://ko.wikipedia.org/wiki/코다_쿠미 "wikilink"), [마에다 아츠코](https://ko.wikipedia.org/wiki/마에다_아츠코 "wikilink") 등 공연장을 찾았다.\[4\] 2010년 4월 28일에는 이 공연 실황을 담은 DVD가 발매되어 오리콘 DVD 차트에서 6위를 기록해 4만장의 판매량을 기록했다.
+**ELECTRIC LOVE TOUR 2010**은 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") 두 번째 일본 투어이다. 이 콘서트의 공연에는 약 39억원의 제작비가 투입 되었으며,\[1\] 마지막 콘서트 장소였던 일본무도관에서 그들의 일본 최초의 아레나 투어를 마무리하며 총 6만명의 관객을 동원했다.\[2\] 이 투어는 일본 데뷔를 한 이후 불과 4개월 만에 일본 무도관 입성으로 아이돌 그룹 중에서 가장 빠른 기록을 세웠다.\[3\] 이 공연에는 수많은 일본의 유명 인사들이 관람을 해 화제가 되었는데, 니시와키 아야카, 방송인 와타나베 시호, [AKB48](../Page/AKB48.md "wikilink")의 우메다 아야카와 사토 유카리, [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 [다나카 레이나](../Page/다나카_레이나.md "wikilink"), [w-inds.](https://ko.wikipedia.org/wiki/w-inds. "wikilink"), [나카시마 미카](../Page/나카시마_미카.md "wikilink"), 모델 [미즈사와 에레나](../Page/미즈사와_에레나.md "wikilink"), [아오야마 테루마](https://ko.wikipedia.org/wiki/아오야마_테루마 "wikilink"), [마츠우라 아야](../Page/마츠우라_아야.md "wikilink"), [EXILE](../Page/EXILE.md "wikilink")의 [마키 다이스케](../Page/마키_다이스케.md "wikilink"), [아키라](https://ko.wikipedia.org/wiki/아키라 "wikilink"), [SPEED의](../Page/SPEED_\(일본의_음악_그룹\).md "wikilink") [이마이 에리코](https://ko.wikipedia.org/wiki/이마이_에리코 "wikilink"), [코다 쿠미](../Page/코다_쿠미.md "wikilink"), [마에다 아츠코](../Page/마에다_아츠코.md "wikilink") 등 공연장을 찾았다.\[4\] 2010년 4월 28일에는 이 공연 실황을 담은 DVD가 발매되어 오리콘 DVD 차트에서 6위를 기록해 4만장의 판매량을 기록했다.
 
 ### 스페셜 게스트
 
-  - [2NE1](https://ko.wikipedia.org/wiki/2NE1 "wikilink")
+  - [2NE1](../Page/2NE1.md "wikilink")
   - [w-inds.](https://ko.wikipedia.org/wiki/w-inds. "wikilink")\[5\]
 
 ### 세트 리스트
@@ -27,7 +27,7 @@
 <td><p>2010년 2월 10일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/횡빈" title="wikilink">횡빈</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/요코하마_아레나" title="wikilink">요코하마 아레나</a></p></td>
+<td><p><a href="../Page/요코하마_아레나.md" title="wikilink">요코하마 아레나</a></p></td>
 <td><p>80,000</p></td>
 </tr>
 <tr class="even">

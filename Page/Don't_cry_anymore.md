@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Don\'t cry anymore](https://ko.wikipedia.org/wiki/Don\'t_cry_anymore).
 
 
-《**don't cry anymore**》는 [miwa](https://ko.wikipedia.org/wiki/miwa "wikilink")의 메이저 데뷔 첫 번째 [싱글](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink"). [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [3월 3일에](https://ko.wikipedia.org/wiki/3월_3일 "wikilink") [Sony Records에서](https://ko.wikipedia.org/wiki/소니_뮤직_레코드 "wikilink") 발매되었다.
+《**don't cry anymore**》는 [miwa](https://ko.wikipedia.org/wiki/miwa "wikilink")의 메이저 데뷔 첫 번째 [싱글](../Page/싱글_\(음악\).md "wikilink"). [2010년](../Page/2010년.md "wikilink") [3월 3일에](../Page/3월_3일.md "wikilink") [Sony Records에서](https://ko.wikipedia.org/wiki/소니_뮤직_레코드 "wikilink") 발매되었다.
 
 ## 개요
 
@@ -13,7 +13,7 @@
       - 작사·작곡: miwa / 편곡: Quatre-M, Naoki-T
     <!-- end list -->
       -
-        [후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 계열 드라마 《울지 않겠다고 결심한 날》 주제가
+        [후지 TV](../Page/후지_TV.md "wikilink") 계열 드라마 《울지 않겠다고 결심한 날》 주제가
 2.  **** / <small>**메구로 강**</small> \[4:34\]
       - 작사·작곡: miwa / 편곡: DAISHI KATAOKA
 3.  **Wake Up, Break Out\!** \[4:43\]

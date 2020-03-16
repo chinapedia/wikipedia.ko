@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Ring Ring Rainbow!!](https://ko.wikipedia.org/wiki/Ring_Ring_Rainbow!!).
 
 
-〈**Ring Ring Rainbow**〉(링 링 레인보우)는 [유이카오리](../Page/유이카오리.md "wikilink")의 열한 번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink"). [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [8월 5일에](https://ko.wikipedia.org/wiki/8월_5일 "wikilink") [킹레코드에서](https://ko.wikipedia.org/wiki/킹레코드_\(일본\) "wikilink") 발매되었다\[1\]\[2\].
+〈**Ring Ring Rainbow**〉(링 링 레인보우)는 [유이카오리](../Page/유이카오리.md "wikilink")의 열한 번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). [2015년](../Page/2015년.md "wikilink") [8월 5일에](../Page/8월_5일.md "wikilink") [킹레코드에서](../Page/킹레코드_\(일본\).md "wikilink") 발매되었다\[1\]\[2\].
 
 ## 개요
 
 전작 〈[NEO SIGNALIFE](../Page/NEO_SIGNALIFE.md "wikilink")〉로부터 약 7개월만이 되는, 2015년 2번째 싱글이다. 판매형태는 DVD가 들어있는 초회한정반(KICM-91605) 및 통상반(KICM-1606)의 2종류로, DVD에는 〈Ring Ring Rainbow\!\!〉의 PV와 그 메이킹 영상이 수록되어있다.
 
-타이틀곡인 〈Ring Ring Rainbow\!\!〉은 [TV 애니메이션](https://ko.wikipedia.org/wiki/일본의_애니메이션 "wikilink") 《[성 아랫마을의 단델리온](https://ko.wikipedia.org/wiki/성_아랫마을의_단델리온#애니메이션 "wikilink")》의 [여는 곡으로](https://ko.wikipedia.org/wiki/주제가 "wikilink") 사용된 “가족”이 테마인 록튠\[3\]\[4\]이다.
+타이틀곡인 〈Ring Ring Rainbow\!\!〉은 [TV 애니메이션](../Page/일본의_애니메이션.md "wikilink") 《[성 아랫마을의 단델리온](https://ko.wikipedia.org/wiki/성_아랫마을의_단델리온#애니메이션 "wikilink")》의 [여는 곡으로](https://ko.wikipedia.org/wiki/주제가 "wikilink") 사용된 “가족”이 테마인 록튠\[3\]\[4\]이다.
 
 또, 커플링곡인 〈Calling Calling〉은 어른스러운 분위기인 [EDM이다](https://ko.wikipedia.org/wiki/일렉트로닉_댄스_뮤직 "wikilink")\[5\].
 
@@ -27,11 +27,11 @@
 
 ## 발매일
 
-| 국가   | 일정          | 포맷                                                                                                         | 레이블                                                          |
-| ---- | ----------- | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| 일본   | 2015년 8월 5일 | [CD](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink")+[DVD](https://ko.wikipedia.org/wiki/DVD "wikilink") | [킹레코드](https://ko.wikipedia.org/wiki/킹레코드_\(일본\) "wikilink") |
-| 대한민국 | 2015년 8월 7일 | [디지털 다운로드](https://ko.wikipedia.org/wiki/디지털_다운로드 "wikilink")                                              | 씨앤엘뮤직                                                        |
-|      |             |                                                                                                            |                                                              |
+| 국가   | 일정          | 포맷                                                                   | 레이블                                       |
+| ---- | ----------- | -------------------------------------------------------------------- | ----------------------------------------- |
+| 일본   | 2015년 8월 5일 | [CD](../Page/콤팩트_디스크.md "wikilink")+[DVD](../Page/DVD.md "wikilink") | [킹레코드](../Page/킹레코드_\(일본\).md "wikilink") |
+| 대한민국 | 2015년 8월 7일 | [디지털 다운로드](https://ko.wikipedia.org/wiki/디지털_다운로드 "wikilink")        | 씨앤엘뮤직                                     |
+|      |             |                                                                      |                                           |
 
 ## 출전
 

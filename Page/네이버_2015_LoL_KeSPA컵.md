@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ 2015 LoL KeSPA](https://ko.wikipedia.org/wiki/_2015_LoL_KeSPA).
 
 
-**네이버 2015 LoL KeSPA컵** (NAVER 2015 LoL KeSPA Cup)은 [한국e스포츠협회](https://ko.wikipedia.org/wiki/한국e스포츠협회 "wikilink")가 주최하는 e스포츠 종목 활성화 및 아마추어 저변 확대를 위한 대한민국 프로와 아마추어의 통합 e스포츠 대회이다. 본선 장소는 12강부터 8강까지 [넥슨 아레나](../Page/넥슨_아레나.md "wikilink"), 4강과 결승전은 부산 벡스코 오디토리움에서 진행된다. 주관 방송은 [SPOTV GAMES가](https://ko.wikipedia.org/wiki/SPOTV_GAMES "wikilink") 담당한다.
+**네이버 2015 LoL KeSPA컵** (NAVER 2015 LoL KeSPA Cup)은 [한국e스포츠협회](../Page/한국e스포츠협회.md "wikilink")가 주최하는 e스포츠 종목 활성화 및 아마추어 저변 확대를 위한 대한민국 프로와 아마추어의 통합 e스포츠 대회이다. 본선 장소는 12강부터 8강까지 [넥슨 아레나](../Page/넥슨_아레나.md "wikilink"), 4강과 결승전은 부산 벡스코 오디토리움에서 진행된다. 주관 방송은 [SPOTV GAMES가](https://ko.wikipedia.org/wiki/SPOTV_GAMES "wikilink") 담당한다.
 
 ## 개요
 
@@ -23,12 +23,12 @@
 
 리그 오브 레전드 챌린저스 코리아 참가 팀과 전국체전 상위 입상 아마추어 팀, 총 8개 팀이 싱글 토너먼트 방식으로 4개 팀을 가리는 예선을 진행한 후 예선을 통과한 4개 팀과 리그 오브 레전드 챔피언스 코리아 서머 시즌 1, 2위 팀을 제외한 나머지 8개 팀이 본선 12강 경기를 치른다. 본선 12강에는 최종 예선을 거친 통과 4개 팀과 LCK 출전 8개 팀, 총 12개 팀이 싱글 토너먼트 방식으로 붙고 본선 8강에는 본선 12강에서 승리한 6개 팀과 리그 오브 레전드 챔피언스 코리아 서머 1, 2위 팀이 같은 방식으로 8강 경기를 치르게 된다.
 
-|                                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                            |
-| --------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
-| 출전 자격                                         | 출전 팀                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 비고                         |
-| **스베누 리그 오브 레전드 챔피언스 코리아 서머 2015 1, 2위 팀**    | [SK텔레콤 T1](https://ko.wikipedia.org/wiki/SK텔레콤_T1 "wikilink"), [KT 롤스터](https://ko.wikipedia.org/wiki/KT_롤스터 "wikilink")                                                                                                                                                                                                                                                                                                                                             | 네이버 2015 LoL KeSPA컵 8강 시드  |
-| **스베누 리그 오브 레전드 챔피언스 코리아 서머 2015 3 \~ 10위 팀** | [CJ 엔투스](https://ko.wikipedia.org/wiki/CJ_엔투스 "wikilink"), [타이거즈](https://ko.wikipedia.org/wiki/타이거즈_\(e스포츠\) "wikilink")<sup>1</sup>, [나진 e-엠파이어](https://ko.wikipedia.org/wiki/나진_e-엠파이어 "wikilink"), [진에어 그린윙스](https://ko.wikipedia.org/wiki/진에어_그린윙스 "wikilink"), [삼성 갤럭시](https://ko.wikipedia.org/wiki/삼성_갤럭시_\(e스포츠\) "wikilink"), 레블즈 아나키, [LongZhu-IM](https://ko.wikipedia.org/wiki/LongZhu-IM "wikilink"), [스베누 소닉붐](../Page/프라임_\(e스포츠\).md "wikilink") | 네이버 2015 LoL KeSPA컵 12강 시드 |
-| **네이버 2015 LoL KeSPA컵 예선 통과 팀**               | ESC Ever, Winners, CTU Pathos, Young Boss<sup>2</sup>                                                                                                                                                                                                                                                                                                                                                                                                                |                            |
+|                                               |                                                                                                                                                                                                                                                                                                                                                                                                                                |                            |
+| --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------- |
+| 출전 자격                                         | 출전 팀                                                                                                                                                                                                                                                                                                                                                                                                                           | 비고                         |
+| **스베누 리그 오브 레전드 챔피언스 코리아 서머 2015 1, 2위 팀**    | [SK텔레콤 T1](https://ko.wikipedia.org/wiki/SK텔레콤_T1 "wikilink"), [KT 롤스터](https://ko.wikipedia.org/wiki/KT_롤스터 "wikilink")                                                                                                                                                                                                                                                                                                       | 네이버 2015 LoL KeSPA컵 8강 시드  |
+| **스베누 리그 오브 레전드 챔피언스 코리아 서머 2015 3 \~ 10위 팀** | [CJ 엔투스](https://ko.wikipedia.org/wiki/CJ_엔투스 "wikilink"), [타이거즈](https://ko.wikipedia.org/wiki/타이거즈_\(e스포츠\) "wikilink")<sup>1</sup>, [나진 e-엠파이어](https://ko.wikipedia.org/wiki/나진_e-엠파이어 "wikilink"), [진에어 그린윙스](../Page/진에어_그린윙스.md "wikilink"), [삼성 갤럭시](../Page/삼성_갤럭시_\(e스포츠\).md "wikilink"), 레블즈 아나키, [LongZhu-IM](https://ko.wikipedia.org/wiki/LongZhu-IM "wikilink"), [스베누 소닉붐](../Page/프라임_\(e스포츠\).md "wikilink") | 네이버 2015 LoL KeSPA컵 12강 시드 |
+| **네이버 2015 LoL KeSPA컵 예선 통과 팀**               | ESC Ever, Winners, CTU Pathos, Young Boss<sup>2</sup>                                                                                                                                                                                                                                                                                                                                                                          |                            |
 
 네이버 2015 LoL KeSPA컵 출전 팀 목록
 
@@ -55,8 +55,8 @@
 
 ## 리그 중계진
 
-  - 캐스터 : [김철민](https://ko.wikipedia.org/wiki/김철민_\(방송인\) "wikilink")
-  - 해설 : [정인호](https://ko.wikipedia.org/wiki/정인호_\(방송인\) "wikilink"), [하광석](https://ko.wikipedia.org/wiki/하광석 "wikilink")
+  - 캐스터 : [김철민](../Page/김철민_\(방송인\).md "wikilink")
+  - 해설 : [정인호](../Page/정인호_\(방송인\).md "wikilink"), [하광석](../Page/하광석.md "wikilink")
 
 ## 대회 최종 결과
 

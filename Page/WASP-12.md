@@ -5,7 +5,7 @@
 
 ## 행성계
 
-2008년 이 별 주위를 도는 외계 행성 [WASP-12b](https://ko.wikipedia.org/wiki/WASP-12b "wikilink")가 발견되었으며 발견방법은 통과법이었다.\[2\] 특이점이라면 행성 대기에 포함된 [산소](https://ko.wikipedia.org/wiki/산소 "wikilink") 대비 [탄소](https://ko.wikipedia.org/wiki/탄소 "wikilink")의 비율이 높았는데 이로부터 만약 이 행성계에 [지구형 행성이](https://ko.wikipedia.org/wiki/지구형_행성 "wikilink") 있다면 그 조성은 [탄소 행성일](https://ko.wikipedia.org/wiki/탄소_행성 "wikilink") 가능성이 클 것으로 추정된다.\[3\]
+2008년 이 별 주위를 도는 외계 행성 [WASP-12b](../Page/WASP-12b.md "wikilink")가 발견되었으며 발견방법은 통과법이었다.\[2\] 특이점이라면 행성 대기에 포함된 [산소](../Page/산소.md "wikilink") 대비 [탄소](../Page/탄소.md "wikilink")의 비율이 높았는데 이로부터 만약 이 행성계에 [지구형 행성이](../Page/지구형_행성.md "wikilink") 있다면 그 조성은 [탄소 행성일](../Page/탄소_행성.md "wikilink") 가능성이 클 것으로 추정된다.\[3\]
 
 파일:WASP-12b a Hot, Carbon-Rich Planet.jpg|WASP-12b. 파일:WASP-12b.jpg|WASP-12b. 파일:WASP-12b (NASA).jpg|WASP-12와 WASP-12b의 상상화.
 

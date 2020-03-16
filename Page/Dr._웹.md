@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Dr. ](https://ko.wikipedia.org/wiki/Dr._).
 
 
-**닥터 웹**(Dr. Web)은 [러시아](https://ko.wikipedia.org/wiki/러시아 "wikilink")의 [안티바이러스 소프트웨어](https://ko.wikipedia.org/wiki/안티바이러스_소프트웨어 "wikilink") 기업이자, 동사의 제품명이다. 1992년 처음 출시된 닥터 웹은 러시아에서 최초로 서비스된 [안티바이러스](https://ko.wikipedia.org/wiki/안티바이러스 "wikilink") 제품이다.\[1\]
+**닥터 웹**(Dr. Web)은 [러시아](../Page/러시아.md "wikilink")의 [안티바이러스 소프트웨어](https://ko.wikipedia.org/wiki/안티바이러스_소프트웨어 "wikilink") 기업이자, 동사의 제품명이다. 1992년 처음 출시된 닥터 웹은 러시아에서 최초로 서비스된 [안티바이러스](https://ko.wikipedia.org/wiki/안티바이러스 "wikilink") 제품이다.\[1\]
 
 닥터 웹은 러시아 최대 검색 제공자인 [얀덱스](../Page/얀덱스.md "wikilink")에서 사용되는 [이메일](https://ko.wikipedia.org/wiki/이메일 "wikilink") 첨부 파일을 검사하는 안티스팸 솔루션을 제공하고 있다. 또한, 닥터 웹의 온라인 버전으로 링크를 스캔해 주는 브라우저용 추가 프로그램도 있다.\[2\] 닥터 웹은 600,000개 이상의 맥에 영향을 주었던 [트로이 목마 백도어.플래시백](https://ko.wikipedia.org/wiki/트로이_목마_백도어.플래시백 "wikilink") 변종도 발견하였다.\[3\]
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [HOT PINK](https://ko.wikipedia.org/wiki/HOT_PINK).
 
 
-〈**HOT PINK**〉는 대한민국의 음악 그룹 [EXID](https://ko.wikipedia.org/wiki/EXID "wikilink")의 네 번째 싱글이다. 2015년 11월 18일 발매되었다.
+〈**HOT PINK**〉는 대한민국의 음악 그룹 [EXID](../Page/EXID.md "wikilink")의 네 번째 싱글이다. 2015년 11월 18일 발매되었다.
 
 ## 차트
 
@@ -21,7 +21,7 @@
 <td><p>21</p></td>
 </tr>
 <tr class="even">
-<td><p>대한민국 (<a href="https://ko.wikipedia.org/wiki/가온_디지털_차트" title="wikilink">가온 디지털 차트</a>)[2]</p></td>
+<td><p>대한민국 (<a href="../Page/가온_디지털_차트.md" title="wikilink">가온 디지털 차트</a>)[2]</p></td>
 <td><p>4</p></td>
 </tr>
 <tr class="odd">

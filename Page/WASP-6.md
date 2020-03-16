@@ -15,11 +15,11 @@
 <small>(항성에서 가까운 순서)</small></p></th>
 <th><p>질량</p></th>
 <th><p>궤도평균반경<br />
-<small>(<a href="https://ko.wikipedia.org/wiki/천문단위" title="wikilink">AU</a>)</small></p></th>
+<small>(<a href="../Page/천문단위.md" title="wikilink">AU</a>)</small></p></th>
 <th><p>공전주기<br />
 <small>(일)</small></p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/궤도이심률" title="wikilink">궤도이심률</a></p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/궤도_경사" title="wikilink">궤도경사각</a></p></th>
+<th><p><a href="../Page/궤도_경사.md" title="wikilink">궤도경사각</a></p></th>
 <th><p>반지름</p></th>
 </tr>
 </thead>

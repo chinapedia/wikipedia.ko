@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [2015 CONCERT TOUR KIS-MY-WORLD](https://ko.wikipedia.org/wiki/2015_CONCERT_TOUR_KIS-MY-WORLD).
 
 
-『2015 CONCERT TOUR KIS-MY-WORLD』은, [Kis-My-Ft2](https://ko.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")의 7번째 [DVD](https://ko.wikipedia.org/wiki/DVD "wikilink"),[Blu-ray](https://ko.wikipedia.org/wiki/Blu-ray "wikilink")이다.
+『2015 CONCERT TOUR KIS-MY-WORLD』은, [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")의 7번째 [DVD](../Page/DVD.md "wikilink"),[Blu-ray](https://ko.wikipedia.org/wiki/Blu-ray "wikilink")이다.
 
 ## 개요
 

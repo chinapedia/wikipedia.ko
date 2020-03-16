@@ -1,18 +1,18 @@
 > This article is converted from Wikipedia: [ Z  ](https://ko.wikipedia.org/wiki/_Z__).
 
 
-《**바비 Z의 삶과 죽음**》()은 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") 공개된 영화이다.
+《**바비 Z의 삶과 죽음**》()은 [2007년](../Page/2007년.md "wikilink") 공개된 영화이다.
 
 ## 출연
 
 ### 주연
 
-  - [폴 워커](https://ko.wikipedia.org/wiki/폴_워커 "wikilink")
+  - [폴 워커](../Page/폴_워커.md "wikilink")
   - [로렌스 피시번](https://ko.wikipedia.org/wiki/로렌스_피시번 "wikilink")
 
 ### 조연
 
-  - [올리비아 와일드](https://ko.wikipedia.org/wiki/올리비아_와일드 "wikilink")
+  - [올리비아 와일드](../Page/올리비아_와일드.md "wikilink")
   - [제이슨 플레밍](https://ko.wikipedia.org/wiki/제이슨_플레밍 "wikilink")
   - [키스 캐러딘](https://ko.wikipedia.org/wiki/키스_캐러딘 "wikilink")
   - [조아큄 드 알메이다](https://ko.wikipedia.org/wiki/조아큄_드_알메이다 "wikilink")

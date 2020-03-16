@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [GS](https://ko.wikipedia.org/wiki/GS).
 
 
-**GS하이츠자이**()는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink") [남구](https://ko.wikipedia.org/wiki/남구_\(부산광역시\) "wikilink") [용호동에](../Page/용호동_\(부산\).md "wikilink") 위치한 고급 [아파트](https://ko.wikipedia.org/wiki/아파트 "wikilink") 단지이다. 이곳은 용호만 매립지에 건설된 [LG메트로시티](../Page/LG메트로시티.md "wikilink") 6차로 지어진곳이며 매립지 위에 LG메트로시티 완공 이후 LG메트로시티 뒷편을 더 매립해서 지은곳이다. [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink")에 완공하였다. 9개동의 아파트 1149세대와 상업 시설로 이루어져 있다.
+**GS하이츠자이**()는 [대한민국](../Page/대한민국.md "wikilink") [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink") [남구](../Page/남구_\(부산광역시\).md "wikilink") [용호동에](../Page/용호동_\(부산\).md "wikilink") 위치한 고급 [아파트](../Page/아파트.md "wikilink") 단지이다. 이곳은 용호만 매립지에 건설된 [LG메트로시티](../Page/LG메트로시티.md "wikilink") 6차로 지어진곳이며 매립지 위에 LG메트로시티 완공 이후 LG메트로시티 뒷편을 더 매립해서 지은곳이다. [2008년](../Page/2008년.md "wikilink")에 완공하였다. 9개동의 아파트 1149세대와 상업 시설로 이루어져 있다.
 
 평형대는 모두 중\~대형평수로 구성되어 있다. 전체 1,149세대중에서도 중형 평수인 34평은 116세대, 38평은 174세대밖에 없으며, 나머지는 모두 49평, 56평, 64평의 대형 평수들인데, 49평형 403세대, 56평형 228세대, 63평형 228세대가 있다. 차량이 드나드는 1층은 주차장이며 2층부터 집이있고 사람만 지나다닐수 있는 공원이 있다. 또 주상복합 아파트가 아님에도 아파트 바로 아래 1층에 상가와 상가전용 주차장이 아파트 지하주차장에 함께 분리되어 있어 주상복합으로 오인하는 사람들도 가끔 있다.
 

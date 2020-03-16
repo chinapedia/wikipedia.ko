@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Win32   ](https://ko.wikipedia.org/wiki/Win32___).
 
 
-**TIB ()** (TIB)은 Win32의 [자료 구조로서](https://ko.wikipedia.org/wiki/자료_구조 "wikilink") 현재 실행 중인 [스레드](https://ko.wikipedia.org/wiki/스레드 "wikilink")에 대한 정보를 저장하고 있다. 이 구조체는 또한 스레드 환경 블록 (TEB: Thread Environment Block)으로도 알려져 있다.\[1\]
+**TIB ()** (TIB)은 Win32의 [자료 구조로서](../Page/자료_구조.md "wikilink") 현재 실행 중인 [스레드](https://ko.wikipedia.org/wiki/스레드 "wikilink")에 대한 정보를 저장하고 있다. 이 구조체는 또한 스레드 환경 블록 (TEB: Thread Environment Block)으로도 알려져 있다.\[1\]
 
-이 TIB는 공식적으로 윈도 9x에서는 문서화되어 있지 않다. 윈도 NT 시리즈 DDK는 하위 시스템 독립적인 부분을 문서화한 winnt.h에 NT_TIB 구조체를 포함한다. [와인은](https://ko.wikipedia.org/wiki/와인_\(소프트웨어\) "wikilink") 확장된 (구체적인 하위 시스템 부분의) TIB를 위한 선언을 포함한다. 수 많은 Win32 프로그램들은 실질적으로 API의 한 부분이라고 할 수 있는 이 문서화되지 않은 필드들을 사용한다. 특히 첫 번째 필드는 마이크로소프트의 자체 컴파일러에서 직접적으로 코드에 의한 참조가 일어난다.\[2\]
+이 TIB는 공식적으로 윈도 9x에서는 문서화되어 있지 않다. 윈도 NT 시리즈 DDK는 하위 시스템 독립적인 부분을 문서화한 winnt.h에 NT_TIB 구조체를 포함한다. [와인은](../Page/와인_\(소프트웨어\).md "wikilink") 확장된 (구체적인 하위 시스템 부분의) TIB를 위한 선언을 포함한다. 수 많은 Win32 프로그램들은 실질적으로 API의 한 부분이라고 할 수 있는 이 문서화되지 않은 필드들을 사용한다. 특히 첫 번째 필드는 마이크로소프트의 자체 컴파일러에서 직접적으로 코드에 의한 참조가 일어난다.\[2\]
 
 TIB는 Win32 API를 호출하지 않고도 프로세스에 대한 많은 정보를 얻기 위해 사용될 수 있다. [PEB](https://ko.wikipedia.org/wiki/PEB "wikilink")를 가리키는 포인터를 통해서 IAT에 대한 접근, 프로세스 시작 인수, 이미지 이름 등을 얻을 수 있다.
 
@@ -65,7 +65,7 @@ FS는 TIB를 저장하는데, TDB(스레드 데이터 베이스)라고 알려진
 
 ## TIB에 접근하기
 
-현재 스레드의 TIB는 세그먼트 [레지스터](https://ko.wikipedia.org/wiki/프로세서_레지스터 "wikilink") FS (x86) 또는 GS (x64)의 오프셋으로 접근할 수 있다.
+현재 스레드의 TIB는 세그먼트 [레지스터](../Page/프로세서_레지스터.md "wikilink") FS (x86) 또는 GS (x64)의 오프셋으로 접근할 수 있다.
 
 FS:\[0\] 부터 오프셋으로 TIB 필드에 접근하는 것 대신 FS:\[0x18\]에 저장된 먼저 선형 자기 참조 포인터를 가지는 것이 TIB 필드에 접근하는 보편적인 방식이다. 이 포인터는 포인터 연산 등에 사용될 수 있다.
 

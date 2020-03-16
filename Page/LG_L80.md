@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LG L80](https://ko.wikipedia.org/wiki/LG_L80).
 
 
-''' LG L80 '''은 [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")가 [2014년 4월](https://ko.wikipedia.org/wiki/2014년_4월 "wikilink") 출시한 보급형 스마트폰이다. [LG L70과](../Page/LG_L70.md "wikilink") 전체적인 사양이 비슷하지만 화면이 5인치로 커지고 디자인이 [G 프로 2](../Page/LG_G_프로_2.md "wikilink") 디자인으로 바뀌었다.
+''' LG L80 '''은 [LG전자](../Page/LG전자.md "wikilink")가 [2014년 4월](../Page/2014년_4월.md "wikilink") 출시한 보급형 스마트폰이다. [LG L70과](../Page/LG_L70.md "wikilink") 전체적인 사양이 비슷하지만 화면이 5인치로 커지고 디자인이 [G 프로 2](../Page/LG_G_프로_2.md "wikilink") 디자인으로 바뀌었다.
 
 ## 운영체제/소프트웨어
 
@@ -26,6 +26,6 @@ L80은 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드 "wikilink
 ## 색상
 
   - [블랙](https://ko.wikipedia.org/wiki/검정 "wikilink")
-  - [화이트](https://ko.wikipedia.org/wiki/하양 "wikilink")
+  - [화이트](../Page/하양.md "wikilink")
 
 [분류:2014년 출시](https://ko.wikipedia.org/wiki/분류:2014년_출시 "wikilink") [분류:안드로이드 장치](https://ko.wikipedia.org/wiki/분류:안드로이드_장치 "wikilink") [L80](https://ko.wikipedia.org/wiki/분류:LG_휴대_전화기 "wikilink") [L80](https://ko.wikipedia.org/wiki/분류:LG전자의_스마트폰 "wikilink") [분류:스마트폰](https://ko.wikipedia.org/wiki/분류:스마트폰 "wikilink")

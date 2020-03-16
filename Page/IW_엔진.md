@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [IW ](https://ko.wikipedia.org/wiki/IW_).
 
 
-**IW 엔진**(IW engine)은 [인피니티 워드](https://ko.wikipedia.org/wiki/인피니티_워드 "wikilink") 사에서 개발한 [콜 오브 듀티 시리즈에](https://ko.wikipedia.org/wiki/콜_오브_듀티_시리즈 "wikilink") 사용되는 엔진이다.
+**IW 엔진**(IW engine)은 [인피니티 워드](../Page/인피니티_워드.md "wikilink") 사에서 개발한 [콜 오브 듀티 시리즈에](https://ko.wikipedia.org/wiki/콜_오브_듀티_시리즈 "wikilink") 사용되는 엔진이다.
 
 ## 게임
 
@@ -26,7 +26,7 @@
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/콜_오브_듀티_2" title="wikilink">콜 오브 듀티 2</a></strong></p></td>
+<td><p><strong><a href="../Page/콜_오브_듀티_2.md" title="wikilink">콜 오브 듀티 2</a></strong></p></td>
 <td><p>IW 2.0</p></td>
 <td><p>2005</p></td>
 <td><p><strong>콜 오브 듀티</strong>의 id Tech 3 수정판</p></td>
@@ -39,7 +39,7 @@
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/콜_오브_듀티_4:_모던_워페어" title="wikilink">콜 오브 듀티 4: 모던 워페어</a></strong></p></td>
+<td><p><strong><a href="../Page/콜_오브_듀티_4:_모던_워페어.md" title="wikilink">콜 오브 듀티 4: 모던 워페어</a></strong></p></td>
 <td><p>IW 3.0</p></td>
 <td><p>2007</p></td>
 <td><p><strong>콜 오브 듀티 2</strong>의 IW 2.0 엔진</p></td>
@@ -53,7 +53,7 @@
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/콜_오브_듀티:_월드_앳_워" title="wikilink">콜 오브 듀티: 월드 앳 워</a></strong></p></td>
+<td><p><strong><a href="../Page/콜_오브_듀티:_월드_앳_워.md" title="wikilink">콜 오브 듀티: 월드 앳 워</a></strong></p></td>
 <td><p>IW 3.0</p></td>
 <td><p>2008</p></td>
 <td><p><strong>콜 오브 듀티 4: 모던 워페어</strong>의 IW 3.0 엔진</p></td>
@@ -68,7 +68,7 @@
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/007_퀀텀_오브_솔러스_(비디오_게임)" title="wikilink">007 퀀텀 오브 솔러스</a></strong>[1]</p></td>
+<td><p><strong><a href="../Page/007_퀀텀_오브_솔러스_(비디오_게임).md" title="wikilink">007 퀀텀 오브 솔러스</a></strong>[1]</p></td>
 <td><p>IW 3.0</p></td>
 <td><p>2008</p></td>
 <td><p><strong>콜 오브 듀티 4: 모던 워페어</strong>의 IW 3.0 엔진</p></td>
@@ -77,7 +77,7 @@
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/콜_오브_듀티:_모던_워페어_2" title="wikilink">콜 오브 듀티: 모던 워페어 2</a></strong></p></td>
+<td><p><strong><a href="../Page/콜_오브_듀티:_모던_워페어_2.md" title="wikilink">콜 오브 듀티: 모던 워페어 2</a></strong></p></td>
 <td><p>IW 4.0</p></td>
 <td><p>2009</p></td>
 <td><p><strong>콜 오브 듀티 4: 모던 워페어</strong>의 IW 3.0 엔진</p></td>
@@ -87,19 +87,19 @@
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/콜_오브_듀티:_블랙_옵스" title="wikilink">콜 오브 듀티: 블랙 옵스</a><br />
+<td><p><strong><a href="../Page/콜_오브_듀티:_블랙_옵스.md" title="wikilink">콜 오브 듀티: 블랙 옵스</a><br />
 </strong>[2]</p></td>
 <td><p>IW 3.0</p></td>
 <td><p>2010</p></td>
 <td><p><strong>콜 오브 듀티: 월드 앳 워</strong>의 IW 3.0 엔진</p></td>
 <td><ul>
 <li>텍스쳐 스트리밍 기술</li>
-<li><a href="https://ko.wikipedia.org/wiki/스테레오스코피" title="wikilink">스테레오스코픽 3D</a> 지원</li>
+<li><a href="../Page/스테레오스코피.md" title="wikilink">스테레오스코픽 3D</a> 지원</li>
 <li>지연된 조명[3]</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/콜_오브_듀티:_모던_워페어_3" title="wikilink">콜 오브 듀티: 모던 워페어 3</a><br />
+<td><p><strong><a href="../Page/콜_오브_듀티:_모던_워페어_3.md" title="wikilink">콜 오브 듀티: 모던 워페어 3</a><br />
 </strong>[4][5]</p></td>
 <td><p>MW3 엔진 (IW 5.0)</p></td>
 <td><p>2011</p></td>
@@ -125,7 +125,7 @@
 <li>바운스 조명</li>
 <li>셀프 섀도잉</li>
 <li>교차 그림자</li>
-<li>윈도우 버전용 <a href="https://ko.wikipedia.org/wiki/DirectX" title="wikilink">DirectX</a> 11</li>
+<li>윈도우 버전용 <a href="../Page/DirectX.md" title="wikilink">DirectX</a> 11</li>
 <li>오디오 엔진 개선</li>
 </ul></td>
 </tr>
@@ -136,7 +136,7 @@
 <td><p>2013</p></td>
 <td><p><strong>콜 오브 듀티: 모던 워페어 3</strong>의 MW3 엔진 (IW 5.0)</p></td>
 <td><ul>
-<li><a href="https://ko.wikipedia.org/wiki/픽사" title="wikilink">픽사</a>의 SubD[9]</li>
+<li><a href="../Page/픽사.md" title="wikilink">픽사</a>의 SubD[9]</li>
 <li>움직임을 위한 새 애니메이션 시스템 (슬라이딩, 리닝 등)</li>
 <li>유체 역학</li>
 <li>인터렉티브 연기</li>

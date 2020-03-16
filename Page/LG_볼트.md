@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LG ](https://ko.wikipedia.org/wiki/LG_).
 
 
-*' LG 볼트*'(LG Volt)는 [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")가 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [4월 17일](https://ko.wikipedia.org/wiki/4월_17일 "wikilink") 출시한 보급형 스마트폰이다.\[1\] [2015년 2월](../Page/2015년_2월.md "wikilink"), [마그나](../Page/LG_마그나.md "wikilink"), [레온](https://ko.wikipedia.org/wiki/LG_레온 "wikilink"), [조이와](https://ko.wikipedia.org/wiki/LG_조이 "wikilink") 함께 공개된 것을 시작으로 [브라질](https://ko.wikipedia.org/wiki/브라질 "wikilink")과 [유럽](https://ko.wikipedia.org/wiki/유럽 "wikilink") 국가에서 먼저 출시되었다. G4와 디자인이 비슷하며 곡면 디스플레이가 특징이다. 해외에서는 스피릿이라는 이름으로 출시되었다.
+*' LG 볼트*'(LG Volt)는 [LG전자](../Page/LG전자.md "wikilink")가 [2015년](../Page/2015년.md "wikilink") [4월 17일](../Page/4월_17일.md "wikilink") 출시한 보급형 스마트폰이다.\[1\] [2015년 2월](../Page/2015년_2월.md "wikilink"), [마그나](../Page/LG_마그나.md "wikilink"), [레온](https://ko.wikipedia.org/wiki/LG_레온 "wikilink"), [조이와](https://ko.wikipedia.org/wiki/LG_조이 "wikilink") 함께 공개된 것을 시작으로 [브라질](../Page/브라질.md "wikilink")과 [유럽](../Page/유럽.md "wikilink") 국가에서 먼저 출시되었다. G4와 디자인이 비슷하며 곡면 디스플레이가 특징이다. 해외에서는 스피릿이라는 이름으로 출시되었다.
 
 ## 운영체제/소프트웨어
 
@@ -22,7 +22,7 @@ LG 볼트는 [5.0.1 롤리팝을](https://ko.wikipedia.org/wiki/안드로이드_
 ## 색상
 
   - [티탄](https://ko.wikipedia.org/wiki/검정 "wikilink")
-  - [화이트](https://ko.wikipedia.org/wiki/하양 "wikilink")
+  - [화이트](../Page/하양.md "wikilink")
   - [골드](https://ko.wikipedia.org/wiki/금색 "wikilink") (스피릿)
 
 ## 각주
