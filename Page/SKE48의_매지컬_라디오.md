@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [SKE48  ](https://ko.wikipedia.org/wiki/SKE48__).
 
 
-《**SKE48의 매지컬 라디오**》 ()는 [닛폰 TV 방송망에서](../Page/닛폰_TV_방송망.md "wikilink") [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink")부터 방송되고 있는 심야 [텔레비전 드라마이자](https://ko.wikipedia.org/wiki/텔레비전_드라마 "wikilink") [버라이어티 쇼이다](../Page/버라이어티_쇼.md "wikilink").
+《**SKE48의 매지컬 라디오**》 ()는 [닛폰 TV 방송망에서](../Page/닛폰_TV_방송망.md "wikilink") [2011년](../Page/2011년.md "wikilink")부터 방송되고 있는 심야 [텔레비전 드라마이자](../Page/텔레비전_드라마.md "wikilink") [버라이어티 쇼이다](../Page/버라이어티_쇼.md "wikilink").
 
 ## 개요
 
-도쿄의 주요 방송국(키국)에서 방송되는 [SKE48](https://ko.wikipedia.org/wiki/SKE48 "wikilink")의 첫 [간무리방구미](https://ko.wikipedia.org/wiki/간무리방구미 "wikilink")이다.
+도쿄의 주요 방송국(키국)에서 방송되는 [SKE48](../Page/SKE48.md "wikilink")의 첫 [간무리방구미](https://ko.wikipedia.org/wiki/간무리방구미 "wikilink")이다.
 
 나고야의 가공의 라디오 방송국 '라디오 샤치호코'에서 방송되는 심야 라디오 프로그램 《매지컬 라디오》를 무대로 한 [시트콤](https://ko.wikipedia.org/wiki/시트콤 "wikilink")으로 드라마를 중심으로 진행되나 대본 없는 [애드립](https://ko.wikipedia.org/wiki/애드립 "wikilink") 부분, 상황에 맞는 게임 등의 기획도 실시된다.
 
@@ -25,7 +25,7 @@
 
 ## 출연진
 
-  - [마츠이 쥬리나](https://ko.wikipedia.org/wiki/마츠이_쥬리나 "wikilink")
+  - [마츠이 쥬리나](../Page/마츠이_쥬리나.md "wikilink")
     《매지컬 라디오》의 새로운 DJ이다.
     한 때 40%를 넘는 시청률을 기록한 드라마 《맛 없는 아이》에 아역으로 출연했으나 그 후 드라마에서의 이미지를 벗지 못하고 활동 폭을 넓히지 못한다.
     폐지 위기에 놓인 《매지컬 라디오》를 살리기 위해 새로운 DJ로 기용되었다.

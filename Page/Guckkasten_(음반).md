@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Guckkasten \(\)](https://ko.wikipedia.org/wiki/Guckkasten_\(\)).
 
 
-《**Guckkasten**》은 2010년 4월 20일에 발표한 [국카스텐](https://ko.wikipedia.org/wiki/국카스텐 "wikilink")의 첫 정규 음반이다. 이 음반은 2009년도에 발표한 《[Guckkasten (Before Regular Album)](https://ko.wikipedia.org/wiki/Guckkasten_\(Before_Regular_Album\) "wikilink")》에 수록된 곡들을 스튜디오에서 재녹음하여 발매된 리레코딩 앨범(Re-recording Album)이다.
+《**Guckkasten**》은 2010년 4월 20일에 발표한 [국카스텐](../Page/국카스텐.md "wikilink")의 첫 정규 음반이다. 이 음반은 2009년도에 발표한 《[Guckkasten (Before Regular Album)](../Page/Guckkasten_\(Before_Regular_Album\).md "wikilink")》에 수록된 곡들을 스튜디오에서 재녹음하여 발매된 리레코딩 앨범(Re-recording Album)이다.
 
 ## 배경
 
-기존에 발매된 《[Before Regular Album](https://ko.wikipedia.org/wiki/Guckkasten_\(Before_Regular_Album\) "wikilink")》은 녹음 과정 중 데이터 손실로 인해 음반 완성도를 완벽하게 구현하지 못한 채 발매되었다. 1년이 지난 2010년 4월 20일, 전곡의 재녹음・재편곡 과정을 거쳐서 국카스텐만의 독창적인 사운드를 펼칠 수 있게 되어 진정한 국카스텐 정규 1집으로 재탄생되었다. 또한 비포 레귤러앨범을 구입한 사람들을 위해 [루비살롱 레코드는](https://ko.wikipedia.org/wiki/루비살롱_레코드 "wikilink") 리레코딩앨범으로 교환해주는 리콜제를 시행하였는데 앨범 교환행사는 발매일인 2010년 4월 20일부터 2개월간 진행되었다. 비포 레귤러앨범과는 재생 시간과 트랙 배치가 다르며 히든 트랙인 〈꼬리〉의 어쿠스틱 버전이 추가된 것을 제외하면 앨범 전체 수록곡은 같다.
+기존에 발매된 《[Before Regular Album](../Page/Guckkasten_\(Before_Regular_Album\).md "wikilink")》은 녹음 과정 중 데이터 손실로 인해 음반 완성도를 완벽하게 구현하지 못한 채 발매되었다. 1년이 지난 2010년 4월 20일, 전곡의 재녹음・재편곡 과정을 거쳐서 국카스텐만의 독창적인 사운드를 펼칠 수 있게 되어 진정한 국카스텐 정규 1집으로 재탄생되었다. 또한 비포 레귤러앨범을 구입한 사람들을 위해 [루비살롱 레코드는](../Page/루비살롱_레코드.md "wikilink") 리레코딩앨범으로 교환해주는 리콜제를 시행하였는데 앨범 교환행사는 발매일인 2010년 4월 20일부터 2개월간 진행되었다. 비포 레귤러앨범과는 재생 시간과 트랙 배치가 다르며 히든 트랙인 〈꼬리〉의 어쿠스틱 버전이 추가된 것을 제외하면 앨범 전체 수록곡은 같다.
 
 ## 수록곡
 
@@ -51,7 +51,7 @@
 <tr class="even">
 <td><p>Faust (파우스트)</p></td>
 <td><p>독일의 문호 '괴테'가 악마와 계약한 '파우스트'의 전설을 극화한 희곡</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/요한_볼프강_폰_괴테" title="wikilink">괴테의</a> &lt;<a href="https://ko.wikipedia.org/wiki/파우스트_(괴테)" title="wikilink">파우스트</a>&gt;를 읽고 쓴 곡으로 권태에서 벗어나기 위한 한 남자의 절규를 노래함. "괴테의 파우스트에서 '삶이 앞에 있다. 시선을 거꾸로 할 때 그 때 삶 속에 죽음이 보인다.' 이 글귀를 모토로 만들었어요."<br />
+<td><p><a href="../Page/요한_볼프강_폰_괴테.md" title="wikilink">괴테의</a> &lt;<a href="../Page/파우스트_(괴테).md" title="wikilink">파우스트</a>&gt;를 읽고 쓴 곡으로 권태에서 벗어나기 위한 한 남자의 절규를 노래함. "괴테의 파우스트에서 '삶이 앞에 있다. 시선을 거꾸로 할 때 그 때 삶 속에 죽음이 보인다.' 이 글귀를 모토로 만들었어요."<br />
 "권태와 죽음, 깜짝 놀라 본능적으로 눈이 떠지는 찰나의 깨어남을 노래한 곡입니다." - 하현우</p></td>
 </tr>
 <tr class="odd">
@@ -62,7 +62,7 @@
 <tr class="even">
 <td><p>Vitriol (비트리올)</p></td>
 <td><p>황산염의 옛 용어</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/파울로_코엘료" title="wikilink">파울로 코엘료의</a> 소설 <베로니카 죽기로 결심하다>에서 등장한 '비트리올 중독'에 착안하여 쓴 곡. 비트리올 증후군은 사람을 무기력하게 만들어 버리는 증세로 학교를 졸업하고 직장을 얻어 차도 사고, 결혼해서 아이도 낳아 잘 살고 있음에도 왜 그러는지에 대해서는 잘 모르게 된다고 한다. "스스로를 고장이 난 불량품이라고 여기며 방 안에서 유령이 되어버린, 어리고 여린 자신을 위로하는 노래입니다. 원망하듯 터지는 후렴이 듣는 이의 가슴을 저미게 만드는 눈물과도 같은, 마술 같은 곡입니다." - 국카스텐</p></td>
+<td><p><a href="../Page/파울로_코엘료.md" title="wikilink">파울로 코엘료의</a> 소설 <베로니카 죽기로 결심하다>에서 등장한 '비트리올 중독'에 착안하여 쓴 곡. 비트리올 증후군은 사람을 무기력하게 만들어 버리는 증세로 학교를 졸업하고 직장을 얻어 차도 사고, 결혼해서 아이도 낳아 잘 살고 있음에도 왜 그러는지에 대해서는 잘 모르게 된다고 한다. "스스로를 고장이 난 불량품이라고 여기며 방 안에서 유령이 되어버린, 어리고 여린 자신을 위로하는 노래입니다. 원망하듯 터지는 후렴이 듣는 이의 가슴을 저미게 만드는 눈물과도 같은, 마술 같은 곡입니다." - 국카스텐</p></td>
 </tr>
 <tr class="odd">
 <td><p>Gavial (<a href="../Page/가비알.md" title="wikilink">가비알</a>)</p></td>

@@ -168,7 +168,7 @@
 <tr class="even">
 <td><p>2006</p></td>
 <td><p>6월 8일 – 11일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/박세리" title="wikilink">박세리</a> <small>(3)</small></p></td>
+<td><p><a href="../Page/박세리.md" title="wikilink">박세리</a> <small>(3)</small></p></td>
 <td></td>
 <td><p>280</p></td>
 <td><p>−8</p></td>
@@ -212,7 +212,7 @@
 <tr class="even">
 <td><p>2002</p></td>
 <td><p>6월 6일 – 9일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/박세리" title="wikilink">박세리</a> <small>(2)</small></p></td>
+<td><p><a href="../Page/박세리.md" title="wikilink">박세리</a> <small>(2)</small></p></td>
 <td></td>
 <td><p>279</p></td>
 <td><p>−5</p></td>
@@ -256,7 +256,7 @@
 <tr class="even">
 <td><p>1998</p></td>
 <td><p>5월 14일 – 17일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/박세리" title="wikilink">박세리</a></p></td>
+<td><p><a href="../Page/박세리.md" title="wikilink">박세리</a></p></td>
 <td></td>
 <td><p>273</p></td>
 <td><p>−11</p></td>
@@ -274,7 +274,7 @@
   - [ANA 인스퍼레이션](../Page/ANA_인스퍼레이션.md "wikilink")
   - [US 여자 오픈](https://ko.wikipedia.org/wiki/US_여자_오픈 "wikilink")
   - [에비앙 챔피언십](../Page/에비앙_챔피언십.md "wikilink")
-  - [브리티시 여자 오픈](https://ko.wikipedia.org/wiki/위민스_브리티시_오픈 "wikilink")
+  - [브리티시 여자 오픈](../Page/위민스_브리티시_오픈.md "wikilink")
 
 ## 외부 링크
 

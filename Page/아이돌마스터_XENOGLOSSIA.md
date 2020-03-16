@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ XENOGLOSSIA](https://ko.wikipedia.org/wiki/_XENOGLOSSIA).
 
 
-《**아이돌 마스터 XENOGLOSSIA**》()는 [선라이즈가](https://ko.wikipedia.org/wiki/선라이즈_\(애니메이션_스튜디오\) "wikilink") 제작한 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [로봇](https://ko.wikipedia.org/wiki/로봇 "wikilink") [애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink")이다. 텔레비전 애니메이션으로서 2007년 4월부터 동년 9월에 걸쳐 전 26화가 방송되었다.
+《**아이돌 마스터 XENOGLOSSIA**》()는 [선라이즈가](https://ko.wikipedia.org/wiki/선라이즈_\(애니메이션_스튜디오\) "wikilink") 제작한 [일본](../Page/일본.md "wikilink")의 [로봇](../Page/로봇.md "wikilink") [애니메이션](../Page/애니메이션.md "wikilink")이다. 텔레비전 애니메이션으로서 2007년 4월부터 동년 9월에 걸쳐 전 26화가 방송되었다.
 
 [반다이남코게임즈](https://ko.wikipedia.org/wiki/반다이남코게임즈 "wikilink")의 아케이드 게임 「[THE IDOLM@STER](../Page/THE_IDOLM@STER.md "wikilink")」를 원안으로 하여, 동작의 미디어 믹스 기획 「[PROJECT IM@S](https://ko.wikipedia.org/wiki/PROJECT_IM@S "wikilink")」의 일환으로서 제작된 작품이다. 캐치 카피는 「당신의 아이돌이 되고 싶어요…」.
 
@@ -40,11 +40,11 @@
   - 후타미 아미()
     성우 - [나즈카 카오리](../Page/나즈카_카오리.md "wikilink")
   - 후타미 마미()
-    성우 - [사이토 모모코](https://ko.wikipedia.org/wiki/사이토_모모코 "wikilink")
+    성우 - [사이토 모모코](../Page/사이토_모모코.md "wikilink")
   - 조셉 신게츠()
     성우 - [나카타 카즈히로](https://ko.wikipedia.org/wiki/나카타_카즈히로 "wikilink")
   - 미우라 아즈사()
-    성우 - [사쿠라이 토모](https://ko.wikipedia.org/wiki/사쿠라이_토모 "wikilink")
+    성우 - [사쿠라이 토모](../Page/사쿠라이_토모.md "wikilink")
   - 무나카타 나제()
     성우 - [노토 마미코](https://ko.wikipedia.org/wiki/노토_마미코 "wikilink")
   - 다이도 나라바()

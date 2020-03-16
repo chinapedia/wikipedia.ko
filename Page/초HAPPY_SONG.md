@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [HAPPY SONG](https://ko.wikipedia.org/wiki/HAPPY_SONG).
 
 
-**초HAPPY SONG**(초해피송, )은 [Berryz코보](../Page/Berryz코보.md "wikilink")×[℃-ute](../Page/℃-ute.md "wikilink")(베리큐)의 두 번째 싱글이다. [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [4월 28일에](https://ko.wikipedia.org/wiki/4월_28일 "wikilink") [디지털 음원](https://ko.wikipedia.org/wiki/음악_다운로드 "wikilink")\[1\]으로 발매됐으며, 같은 해 [6월 20일에](https://ko.wikipedia.org/wiki/6월_20일 "wikilink") CD 싱글을 발매했다\[2\]. 발매 레이블으ㅏ zetima이다\[3\].
+**초HAPPY SONG**(초해피송, )은 [Berryz코보](../Page/Berryz코보.md "wikilink")×[℃-ute](../Page/℃-ute.md "wikilink")(베리큐)의 두 번째 싱글이다. [2012년](../Page/2012년.md "wikilink") [4월 28일에](../Page/4월_28일.md "wikilink") [디지털 음원](https://ko.wikipedia.org/wiki/음악_다운로드 "wikilink")\[1\]으로 발매됐으며, 같은 해 [6월 20일에](../Page/6월_20일.md "wikilink") CD 싱글을 발매했다\[2\]. 발매 레이블으ㅏ zetima이다\[3\].
 
 ## 개요
 

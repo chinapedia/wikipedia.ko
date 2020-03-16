@@ -51,11 +51,11 @@
 
 11. [SHOCK ME vs Devil or Angel](../Page/체리시_\(NEWS의_노래\).md "wikilink")
 
-12. PRIVATE HEARTS ([코야마 케이치로](https://ko.wikipedia.org/wiki/코야마_케이치로 "wikilink") 솔로)
+12. PRIVATE HEARTS ([코야마 케이치로](../Page/코야마_케이치로.md "wikilink") 솔로)
 
 13. ([마스다 타카히사](../Page/마스다_타카히사.md "wikilink")·코야마 케이치로·야마시타 토모히사)
 
-14. HAPPY MUSIC ([카토 시게아키](https://ko.wikipedia.org/wiki/카토_시게아키 "wikilink") 솔로)
+14. HAPPY MUSIC ([카토 시게아키](../Page/카토_시게아키.md "wikilink") 솔로)
 
 15. DREAMS
 
@@ -75,7 +75,7 @@
 
 23. [SNOW EXPRESS](https://ko.wikipedia.org/wiki/color_\(NEWS의_음반\) "wikilink")
 
-24. / <small>키스\~돌아가는 길의 러브송\~</small> ([테고마스](https://ko.wikipedia.org/wiki/테고마스 "wikilink"))
+24. / <small>키스\~돌아가는 길의 러브송\~</small> ([테고마스](../Page/테고마스.md "wikilink"))
 
 25. / <small>안아줘 세뇨리타</small> (야마시타 토모히사 솔로)
 
@@ -89,7 +89,7 @@
 
 30. / <small>너를 생각하는 밤</small>
 
-31. code ([니시키도 료](https://ko.wikipedia.org/wiki/니시키도_료 "wikilink") 솔로)
+31. code ([니시키도 료](../Page/니시키도_료.md "wikilink") 솔로)
 
 32. VIBRATION
 
@@ -125,7 +125,7 @@
 
 <!-- end list -->
 
-  - 우연히 콘서트를 보러 온 [아라시](https://ko.wikipedia.org/wiki/아라시 "wikilink")의 [사쿠라이 쇼와](https://ko.wikipedia.org/wiki/사쿠라이_쇼 "wikilink") [니노미야 카즈나리가](https://ko.wikipedia.org/wiki/니노미야_카즈나리 "wikilink") 즉흥으로 MC에 참가한 모습이 수록되고 있다.
+  - 우연히 콘서트를 보러 온 [아라시](../Page/아라시.md "wikilink")의 [사쿠라이 쇼와](../Page/사쿠라이_쇼.md "wikilink") [니노미야 카즈나리가](../Page/니노미야_카즈나리.md "wikilink") 즉흥으로 MC에 참가한 모습이 수록되고 있다.
 
 <!-- end list -->
 

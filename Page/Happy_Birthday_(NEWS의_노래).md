@@ -8,7 +8,7 @@
   - 전작으로부터 5개월 만이 되는 싱글이다. 또, 연내에 싱글을 3작 발매하는 것은, 처음이다. (태양의 눈물, SUMMER TIME, Happy Birthday)
   - 자켓은, 초회 한정반과 통상반으로 다르다.
   - 전작에 이어, CM 송(코세 《HAPPY BATH DAY》)이 되고 있어 작사·작곡은, SEAMO가 악곡 제공했다.
-  - NEWS로서는, [GReeeeN](https://ko.wikipedia.org/wiki/GReeeeN "wikilink")으로부터 제공된 〈[weeeek](https://ko.wikipedia.org/wiki/weeeek "wikilink")〉에 이어, 2번째로 악곡 제공된 곡이다.
+  - NEWS로서는, [GReeeeN](../Page/GReeeeN.md "wikilink")으로부터 제공된 〈[weeeek](https://ko.wikipedia.org/wiki/weeeek "wikilink")〉에 이어, 2번째로 악곡 제공된 곡이다.
   - PV에서 테고시가, [DAIGO의](https://ko.wikipedia.org/wiki/다이고 "wikilink") 〈(윗슈)〉를 하고 있는 장면이 있다.
   - 이 곡의 PV의 마지막에도, 야마시타가 〈\[山\]\[P\]〉라고 쓰여진 종이컵을 사용하고 있다. 근작은 5번째의 등장이며 〈[별을 향해서](../Page/별을_향해서.md "wikilink")〉, 〈weeeek〉, 〈[태양의 눈물](../Page/태양의_눈물_\(노래\).md "wikilink")〉, 〈[SUMMER TIME](../Page/SUMMER_TIME_\(NEWS의_노래\).md "wikilink")〉, 〈Happy Birthday〉에 계속 된다.
   - 본작으로, 데뷔로부터 싱글주간 차트 10작 연속 1위가 되었다. 이것으로, 21세기에 들어가 최다인 [ORANGE RANGE의](https://ko.wikipedia.org/wiki/오렌지_렌지 "wikilink") 기록(9작 연속)을 깬 것이 된다.

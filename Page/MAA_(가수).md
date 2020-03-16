@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [MAA \(\)](https://ko.wikipedia.org/wiki/MAA_\(\)).
 
 
-**MAA**는 2006년부터 2010년까지 **MAR**라는 이름으로 [MarBell](https://ko.wikipedia.org/wiki/MarBell "wikilink")에서 [보컬로](https://ko.wikipedia.org/wiki/가수 "wikilink") 활동하다, 해체 이후 [솔로](https://ko.wikipedia.org/wiki/솔로 "wikilink")로 활동하고 있는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")이다.
+**MAA**는 2006년부터 2010년까지 **MAR**라는 이름으로 [MarBell](../Page/MarBell.md "wikilink")에서 [보컬로](https://ko.wikipedia.org/wiki/가수 "wikilink") 활동하다, 해체 이후 [솔로](https://ko.wikipedia.org/wiki/솔로 "wikilink")로 활동하고 있는 [일본](../Page/일본.md "wikilink")의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")이다.
 
 ## 생애
 
-MAA 는 1986년 1월 25일 [요코스카 시에서](https://ko.wikipedia.org/wiki/요코스카_시 "wikilink") [미군](https://ko.wikipedia.org/wiki/미군 "wikilink") 아버지와 [일본인](https://ko.wikipedia.org/wiki/일본인 "wikilink") 어머니 사이에서 태어났다. 모델로 활동을 시작하여 *Visual Shock*라는 TV 프로그램의 쇼 호스트로 활동하였다.\[1\]
+MAA 는 1986년 1월 25일 [요코스카 시에서](https://ko.wikipedia.org/wiki/요코스카_시 "wikilink") [미군](../Page/미군.md "wikilink") 아버지와 [일본인](../Page/일본인.md "wikilink") 어머니 사이에서 태어났다. 모델로 활동을 시작하여 *Visual Shock*라는 TV 프로그램의 쇼 호스트로 활동하였다.\[1\]
 
 ### 2006–2010: MarBell
 
-2006년, MAR라는 예명으로, 츠노다 타카노리와 함께 [얼터너티브](../Page/얼터너티브_록.md "wikilink") [록 밴드](https://ko.wikipedia.org/wiki/록_밴드 "wikilink"), [MarBell](https://ko.wikipedia.org/wiki/MarBell "wikilink")을 결성하고 [베이시스트](https://ko.wikipedia.org/wiki/베이시스트 "wikilink") AZUSA와 [드러머](https://ko.wikipedia.org/wiki/드럼_연주자 "wikilink") yu-ya를 영입\[2\] 하여 2008년 5월 14일, 데뷔 앨범 *[Sister](https://ko.wikipedia.org/wiki/Sister "wikilink")*를 발표한다.
+2006년, MAR라는 예명으로, 츠노다 타카노리와 함께 [얼터너티브](../Page/얼터너티브_록.md "wikilink") [록 밴드](https://ko.wikipedia.org/wiki/록_밴드 "wikilink"), [MarBell](../Page/MarBell.md "wikilink")을 결성하고 [베이시스트](https://ko.wikipedia.org/wiki/베이시스트 "wikilink") AZUSA와 [드러머](https://ko.wikipedia.org/wiki/드럼_연주자 "wikilink") yu-ya를 영입\[2\] 하여 2008년 5월 14일, 데뷔 앨범 *[Sister](https://ko.wikipedia.org/wiki/Sister "wikilink")*를 발표한다.
 
-이후 [MarBell](https://ko.wikipedia.org/wiki/MarBell "wikilink")은 2008년 미국 *Otakon*, 2008년 5월 3일 *[hide](../Page/히데.md "wikilink") memorial summit* 등의 콘서트에 참여하다가 2009년부터 활동을 완전히 중단하고, 결국 2010년 3월 10일 공식 해체되었다.
+이후 [MarBell](../Page/MarBell.md "wikilink")은 2008년 미국 *Otakon*, 2008년 5월 3일 *[hide](../Page/히데.md "wikilink") memorial summit* 등의 콘서트에 참여하다가 2009년부터 활동을 완전히 중단하고, 결국 2010년 3월 10일 공식 해체되었다.
 
 ### 2010년\~현재: 솔로
 
@@ -49,7 +49,7 @@ MAA 는 1986년 1월 25일 [요코스카 시에서](https://ko.wikipedia.org/wik
 
 <!-- end list -->
 
-  - [MarBell](https://ko.wikipedia.org/wiki/MarBell "wikilink")
+  - [MarBell](../Page/MarBell.md "wikilink")
 
 <!-- end list -->
 

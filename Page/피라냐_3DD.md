@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ 3DD](https://ko.wikipedia.org/wiki/_3DD).
 
 
-**피라냐 3DD**(Piranha 3DD)는 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 개봉한 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 공포 코미디 영화이다.
+**피라냐 3DD**(Piranha 3DD)는 [2012년](../Page/2012년.md "wikilink") 개봉한 [미국](../Page/미국.md "wikilink")의 공포 코미디 영화이다.
 
 ## 스토리
 
@@ -9,7 +9,7 @@
 
 ## 출연
 
-  - [대니엘 패너베이커](https://ko.wikipedia.org/wiki/대니엘_패너베이커 "wikilink") - 매디 (Maddy)
+  - [대니엘 패너베이커](../Page/대니엘_패너베이커.md "wikilink") - 매디 (Maddy)
   - [맷 부시](https://ko.wikipedia.org/wiki/맷_부시_\(배우\) "wikilink") - 배리 (Barry)
   - [데이비드 케크너](https://ko.wikipedia.org/wiki/데이비드_케크너 "wikilink") - 쳇 (Chet)
   - [크리스 질카](https://ko.wikipedia.org/wiki/크리스_질카 "wikilink") - 카일 (Kyle)

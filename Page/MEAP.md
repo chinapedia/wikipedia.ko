@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MEAP](https://ko.wikipedia.org/wiki/MEAP).
 
 
-**MEAP**는 Mobile Enterprise Application Platform의 약자로 [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")의 성장과 함께 모바일오피스 시장에서 사용되는 키워드이다.</br> MEAP는 아래의 엔터프라이즈 모빌리티 환경에서 발생하는 다양한 문제들을 해결하기 위해 방법을 제공하는 것을 최종 목적으로 한다.
+**MEAP**는 Mobile Enterprise Application Platform의 약자로 [스마트폰](../Page/스마트폰.md "wikilink")의 성장과 함께 모바일오피스 시장에서 사용되는 키워드이다.</br> MEAP는 아래의 엔터프라이즈 모빌리티 환경에서 발생하는 다양한 문제들을 해결하기 위해 방법을 제공하는 것을 최종 목적으로 한다.
 
 모바일 그룹웨어
 

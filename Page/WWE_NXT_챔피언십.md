@@ -15,8 +15,8 @@
 
   - 초대 챔피언 : [세스 롤린스](https://ko.wikipedia.org/wiki/세스_롤린스 "wikilink")
   - 최장수 챔피언 : [핀 베일러](../Page/핀_베일러.md "wikilink") (292일)
-  - 최단 기간 챔피언 : [사모아 조](https://ko.wikipedia.org/wiki/사모아_조 "wikilink") (14일)
-  - 최다 챔피언 : [사모아 조](https://ko.wikipedia.org/wiki/사모아_조 "wikilink"), [나카무라 신스케](../Page/나카무라_신스케.md "wikilink") (2회)
+  - 최단 기간 챔피언 : [사모아 조](../Page/사모아_조.md "wikilink") (14일)
+  - 최다 챔피언 : [사모아 조](../Page/사모아_조.md "wikilink"), [나카무라 신스케](../Page/나카무라_신스케.md "wikilink") (2회)
   - 최중량급 챔피언 : [빅 E 랭스턴](https://ko.wikipedia.org/wiki/빅_E_랭스턴 "wikilink") (130kg)
   - 최경량급 챔피언 : [핀 베일러](../Page/핀_베일러.md "wikilink") (86kg)
   - 최고령 챔피언 : [바비 루드](https://ko.wikipedia.org/wiki/바비_루드 "wikilink") (39세 262일)
@@ -31,15 +31,15 @@
   - [새미 제인](https://ko.wikipedia.org/wiki/새미_제인 "wikilink")
   - [케빈 오웬스](https://ko.wikipedia.org/wiki/케빈_오웬스 "wikilink")
   - [핀 베일러](../Page/핀_베일러.md "wikilink")
-  - [사모아 조](https://ko.wikipedia.org/wiki/사모아_조 "wikilink")
+  - [사모아 조](../Page/사모아_조.md "wikilink")
   - [나카무라 신스케](../Page/나카무라_신스케.md "wikilink")
   - [바비 루드](../Page/로버트_루드.md "wikilink")
-  - [드루 매킨타이어](https://ko.wikipedia.org/wiki/드루_매킨타이어 "wikilink")
+  - [드루 매킨타이어](../Page/드루_매킨타이어.md "wikilink")
   - [안드라데 시엔 알마스](../Page/안드라데_시엔_알마스.md "wikilink")
   - [알레이스터 블랙](../Page/알레이스터_블랙.md "wikilink")
   - 토마소 치암파
   - 쟈니 가르가노
-  - **[애덤 콜](https://ko.wikipedia.org/wiki/애덤_콜 "wikilink")** (현 챔피언)
+  - **[애덤 콜](../Page/애덤_콜.md "wikilink")** (현 챔피언)
 
 ## 같이 보기
 

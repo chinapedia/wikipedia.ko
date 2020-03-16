@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DHL ](https://ko.wikipedia.org/wiki/DHL_).
 
 
-**DHL 항공**()는 [독일](https://ko.wikipedia.org/wiki/독일 "wikilink")의 [DHL](../Page/DHL.md "wikilink")의 자회사로 [DHL](../Page/DHL.md "wikilink")의 항공 물류 분야를 분사한 기업이다.
+**DHL 항공**()는 [독일](../Page/독일.md "wikilink")의 [DHL](../Page/DHL.md "wikilink")의 자회사로 [DHL](../Page/DHL.md "wikilink")의 항공 물류 분야를 분사한 기업이다.
 
 ## 자회사
 
@@ -19,45 +19,45 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/유로_에어_트랜스포트_라이프치히.md" title="wikilink">유로 에어 트랜스포트 라이프치히</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/독일" title="wikilink">독일</a></p></td>
+<td><p><a href="../Page/독일.md" title="wikilink">독일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:European_Air_Transport_Leipzig_-_Boeing_757-23APF_-_Tel_Aviv_Ben_Gurion_-_D-ALEJ-1275.jpg" title="wikilink">150px</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/독일" title="wikilink">독일</a>의 <a href="../Page/화물_항공사.md" title="wikilink">화물 항공사</a></p></td>
+<td><p><a href="../Page/독일.md" title="wikilink">독일</a>의 <a href="../Page/화물_항공사.md" title="wikilink">화물 항공사</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/DHL_에어_UK" title="wikilink">DHL 에어 UK</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/영국" title="wikilink">영국</a></p></td>
+<td><p><a href="../Page/DHL_에어_UK.md" title="wikilink">DHL 에어 UK</a></p></td>
+<td><p><a href="../Page/영국.md" title="wikilink">영국</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:DHL_Air_UK_-_G-BIKK_-_Boeing_757-200_-_Airport_Budapest_(9433-35).jpg" title="wikilink">150px</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/영국" title="wikilink">영국</a>의 <a href="../Page/화물_항공사.md" title="wikilink">화물 항공사</a></p></td>
+<td><p><a href="../Page/영국.md" title="wikilink">영국</a>의 <a href="../Page/화물_항공사.md" title="wikilink">화물 항공사</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/DHL_데_과테말라" title="wikilink">DHL 데 과테말라</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/과테말라" title="wikilink">과테말라</a></p></td>
+<td><p><a href="../Page/과테말라.md" title="wikilink">과테말라</a></p></td>
 <td><p>없음</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/과테말라" title="wikilink">과테말라</a>의 <a href="../Page/화물_항공사.md" title="wikilink">화물 항공사</a></p></td>
+<td><p><a href="../Page/과테말라.md" title="wikilink">과테말라</a>의 <a href="../Page/화물_항공사.md" title="wikilink">화물 항공사</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/DHL_아에로_에스프로소" title="wikilink">DHL 아에로 에스프로소</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/파나마" title="wikilink">파나마</a></p></td>
+<td><p><a href="../Page/파나마.md" title="wikilink">파나마</a></p></td>
 <td><p>없음</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/파나마" title="wikilink">파나마</a>의 <a href="../Page/화물_항공사.md" title="wikilink">화물 항공사</a></p></td>
+<td><p><a href="../Page/파나마.md" title="wikilink">파나마</a>의 <a href="../Page/화물_항공사.md" title="wikilink">화물 항공사</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/아에로_익스프레스_델_에콰도르" title="wikilink">아에로 익스프레스 델 에콰도르</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/에콰도르" title="wikilink">에콰도르</a></p></td>
+<td><p><a href="../Page/에콰도르.md" title="wikilink">에콰도르</a></p></td>
 <td><p>없음</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/에콰도르" title="wikilink">에콰도르</a>의 <a href="../Page/화물_항공사.md" title="wikilink">화물 항공사</a></p></td>
+<td><p><a href="../Page/에콰도르.md" title="wikilink">에콰도르</a>의 <a href="../Page/화물_항공사.md" title="wikilink">화물 항공사</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/DHL_국제항공_ME" title="wikilink">DHL 국제항공 ME</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/바레인" title="wikilink">바레인</a></p></td>
+<td><p><a href="../Page/바레인.md" title="wikilink">바레인</a></p></td>
 <td><p>없음</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/바레인" title="wikilink">바레인</a>의 <a href="../Page/화물_항공사.md" title="wikilink">화물 항공사</a></p></td>
+<td><p><a href="../Page/바레인.md" title="wikilink">바레인</a>의 <a href="../Page/화물_항공사.md" title="wikilink">화물 항공사</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/블루다트_항공.md" title="wikilink">블루다트 항공</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/인도" title="wikilink">인도</a></p></td>
+<td><p><a href="../Page/인도.md" title="wikilink">인도</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Blue_Dart_B752_OO-DPL.jpg" title="wikilink">150px</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/인도" title="wikilink">인도</a>의 <a href="../Page/화물_항공사.md" title="wikilink">화물 항공사</a></p></td>
+<td><p><a href="../Page/인도.md" title="wikilink">인도</a>의 <a href="../Page/화물_항공사.md" title="wikilink">화물 항공사</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -76,27 +76,27 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/에어로로직.md" title="wikilink">에어로로직</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/독일" title="wikilink">독일</a></p></td>
+<td><p><a href="../Page/독일.md" title="wikilink">독일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:AeroLogic_Boeing_777F_D-AALE_FRA_2011-11-26.png" title="wikilink">150px</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/독일" title="wikilink">독일</a>의 <a href="../Page/화물_항공사.md" title="wikilink">화물 항공사</a></p></td>
+<td><p><a href="../Page/독일.md" title="wikilink">독일</a>의 <a href="../Page/화물_항공사.md" title="wikilink">화물 항공사</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/에어컨트랙터" title="wikilink">에어컨트랙터</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아일랜드" title="wikilink">아일랜드</a></p></td>
+<td><p><a href="../Page/아일랜드.md" title="wikilink">아일랜드</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Air_contractors_a300b4-200f_ei-saf_lands_london_heathrow_arp.jpg" title="wikilink">150px</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아일랜드" title="wikilink">아일랜드</a>의 <a href="../Page/화물_항공사.md" title="wikilink">화물 항공사</a></p></td>
+<td><p><a href="../Page/아일랜드.md" title="wikilink">아일랜드</a>의 <a href="../Page/화물_항공사.md" title="wikilink">화물 항공사</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/에어홍콩.md" title="wikilink">에어홍콩</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/홍콩" title="wikilink">홍콩</a></p></td>
+<td><p><a href="../Page/홍콩.md" title="wikilink">홍콩</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Air_Hong_Kong_Boeing_747-400F_Spijkers.jpg" title="wikilink">150px</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/홍콩" title="wikilink">홍콩</a>의 <a href="../Page/화물_항공사.md" title="wikilink">화물 항공사</a></p></td>
+<td><p><a href="../Page/홍콩.md" title="wikilink">홍콩</a>의 <a href="../Page/화물_항공사.md" title="wikilink">화물 항공사</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/ABX_에어.md" title="wikilink">ABX 에어</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미국" title="wikilink">미국</a></p></td>
+<td><p><a href="../Page/미국.md" title="wikilink">미국</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:ABX-Air_B767-200_N739AX.jpg" title="wikilink">150px</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미국" title="wikilink">미국</a>의 <a href="../Page/화물_항공사.md" title="wikilink">화물 항공사</a></p></td>
+<td><p><a href="../Page/미국.md" title="wikilink">미국</a>의 <a href="../Page/화물_항공사.md" title="wikilink">화물 항공사</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/아비아_스타_TU" title="wikilink">아비아 스타 TU</a></p></td>
@@ -106,27 +106,27 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/폴라에어_카고.md" title="wikilink">폴라에어 카고</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미국" title="wikilink">미국</a></p></td>
+<td><p><a href="../Page/미국.md" title="wikilink">미국</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Polar_Air_Cargo_B747-46NF_N453PA.jpg" title="wikilink">150px</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미국" title="wikilink">미국</a>의 <a href="../Page/화물_항공사.md" title="wikilink">화물 항공사</a></p></td>
+<td><p><a href="../Page/미국.md" title="wikilink">미국</a>의 <a href="../Page/화물_항공사.md" title="wikilink">화물 항공사</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/칼리타_에어.md" title="wikilink">칼리타 에어</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미국" title="wikilink">미국</a></p></td>
+<td><p><a href="../Page/미국.md" title="wikilink">미국</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Kalitta_Air_Boeing_747-400_KvW.jpg" title="wikilink">150px</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미국" title="wikilink">미국</a>의 <a href="../Page/화물_항공사.md" title="wikilink">화물 항공사</a></p></td>
+<td><p><a href="../Page/미국.md" title="wikilink">미국</a>의 <a href="../Page/화물_항공사.md" title="wikilink">화물 항공사</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/서던_에어.md" title="wikilink">서던 에어</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미국" title="wikilink">미국</a></p></td>
+<td><p><a href="../Page/미국.md" title="wikilink">미국</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Southern_Air_Boeing_747-200_KvW.jpg" title="wikilink">150px</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미국" title="wikilink">미국</a>의 <a href="../Page/화물_항공사.md" title="wikilink">화물 항공사</a></p></td>
+<td><p><a href="../Page/미국.md" title="wikilink">미국</a>의 <a href="../Page/화물_항공사.md" title="wikilink">화물 항공사</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/타스만_카고_에어.md" title="wikilink">타스만 카고 에어</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오스트레일리아" title="wikilink">오스트레일리아</a></p></td>
+<td><p><a href="../Page/오스트레일리아.md" title="wikilink">오스트레일리아</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:727atSYD.jpg" title="wikilink">150px</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오스트레일리아" title="wikilink">오스트레일리아</a>의 <a href="../Page/화물_항공사.md" title="wikilink">화물 항공사</a></p></td>
+<td><p><a href="../Page/오스트레일리아.md" title="wikilink">오스트레일리아</a>의 <a href="../Page/화물_항공사.md" title="wikilink">화물 항공사</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/SA_항공" title="wikilink">SA 항공</a></p></td>
@@ -151,9 +151,9 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/아스타_에어_카고.md" title="wikilink">아스타 에어 카고</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미국" title="wikilink">미국</a></p></td>
+<td><p><a href="../Page/미국.md" title="wikilink">미국</a></p></td>
 <td><p>없음</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미국" title="wikilink">미국</a>의 <a href="../Page/화물_항공사.md" title="wikilink">화물 항공사</a></p></td>
+<td><p><a href="../Page/미국.md" title="wikilink">미국</a>의 <a href="../Page/화물_항공사.md" title="wikilink">화물 항공사</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -174,20 +174,20 @@
 | 1                                                                               | 벤세카르 인터내셔날                                                        |                               |                                                              |                                                     |
 | [보잉 727-200F](https://ko.wikipedia.org/wiki/보잉_727-200 "wikilink")              | 3                                                                 | 0                             | [트랜스마일 에어 서비스](../Page/트랜스마일_에어_서비스.md "wikilink")           |                                                     |
 | 3                                                                               | 벤세카르 인터내셔날                                                        |                               |                                                              |                                                     |
-| [보잉 737-400SF](https://ko.wikipedia.org/wiki/보잉_737 "wikilink")                 | 3                                                                 | 4                             | [ASL 항공 아일랜드](../Page/ASL_항공_아일랜드.md "wikilink")             |                                                     |
+| [보잉 737-400SF](../Page/보잉_737.md "wikilink")                                    | 3                                                                 | 4                             | [ASL 항공 아일랜드](../Page/ASL_항공_아일랜드.md "wikilink")             |                                                     |
 | 5                                                                               | [서던 에어](../Page/서던_에어.md "wikilink")                              |                               |                                                              |                                                     |
 | [보잉 747-400F](../Page/보잉_747-400.md "wikilink")                                 | 6                                                                 | 0                             | [아틀라스 항공](../Page/아틀라스_항공.md "wikilink")                     |                                                     |
 | [보잉 747-400BCF](../Page/보잉_747-400.md "wikilink")                               | 4                                                                 | 0                             | [칼리타 에어](../Page/칼리타_에어.md "wikilink")                       |                                                     |
 | [보잉 747-8F](../Page/보잉_747-8.md "wikilink")                                     | 6                                                                 | 0                             | [아틀라스 항공](../Page/아틀라스_항공.md "wikilink")                     |                                                     |
-| [보잉 757-200F](https://ko.wikipedia.org/wiki/보잉_757 "wikilink")                  | 6                                                                 | 0                             | [블루다트 항공](../Page/블루다트_항공.md "wikilink")                     |                                                     |
+| [보잉 757-200F](../Page/보잉_757.md "wikilink")                                     | 6                                                                 | 0                             | [블루다트 항공](../Page/블루다트_항공.md "wikilink")                     |                                                     |
 | 4                                                                               | DHL 아에로 에스프로소                                                     |                               |                                                              |                                                     |
-| 23                                                                              | [DHL 에어 UK](https://ko.wikipedia.org/wiki/DHL_에어_UK "wikilink")   |                               |                                                              |                                                     |
+| 23                                                                              | [DHL 에어 UK](../Page/DHL_에어_UK.md "wikilink")                      |                               |                                                              |                                                     |
 | 9                                                                               | [유로 에어 트랜스포트 라이프치히](../Page/유로_에어_트랜스포트_라이프치히.md "wikilink")      |                               |                                                              |                                                     |
-| [보잉 767-200F](https://ko.wikipedia.org/wiki/보잉_767 "wikilink")                  | 5                                                                 | 0                             | [아틀라스 항공](../Page/아틀라스_항공.md "wikilink")                     |                                                     |
+| [보잉 767-200F](../Page/보잉_767.md "wikilink")                                     | 5                                                                 | 0                             | [아틀라스 항공](../Page/아틀라스_항공.md "wikilink")                     |                                                     |
 | 6                                                                               | [DHL 인터내셔널 에이비에이션 ME](../Page/DHL_인터내셔널_에이비에이션_ME.md "wikilink")  |                               |                                                              |                                                     |
 | 1                                                                               | [트랜스마일 에어 서비스](../Page/트랜스마일_에어_서비스.md "wikilink")                |                               |                                                              |                                                     |
-| [보잉 767-300ERF](https://ko.wikipedia.org/wiki/보잉_767 "wikilink")                | 2                                                                 | 0                             | [아틀라스 항공](../Page/아틀라스_항공.md "wikilink")                     |                                                     |
-| 3                                                                               | [DHL 에어 UK](https://ko.wikipedia.org/wiki/DHL_에어_UK "wikilink")   |                               |                                                              |                                                     |
+| [보잉 767-300ERF](../Page/보잉_767.md "wikilink")                                   | 2                                                                 | 0                             | [아틀라스 항공](../Page/아틀라스_항공.md "wikilink")                     |                                                     |
+| 3                                                                               | [DHL 에어 UK](../Page/DHL_에어_UK.md "wikilink")                      |                               |                                                              |                                                     |
 | 6                                                                               | [칼리타 에어](../Page/칼리타_에어.md "wikilink")                            |                               |                                                              |                                                     |
 | [보잉 777F](https://ko.wikipedia.org/wiki/보잉_777F "wikilink")                     | 14                                                                | 9\[3\]                        | [에어로로직](../Page/에어로로직.md "wikilink")                         |                                                     |
 | 9                                                                               | [서던 에어](../Page/서던_에어.md "wikilink")                              |                               |                                                              |                                                     |

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Only One \( \)](https://ko.wikipedia.org/wiki/Only_One_\(_\)).
 
 
-***Only One***은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 가수 [보아](https://ko.wikipedia.org/wiki/보아 "wikilink")의 일곱 번째 한국 정규 앨범이다. 앨범의 타이틀곡은 보아가 직접 작곡, 작사한 "Only One"이다. *Only One*은 2012년 7월 25일 KMP홀딩스를 통해 발매되었고, 이에 앞서 온라인을 통해 22일 발매 되었다.
+***Only One***은 [대한민국](../Page/대한민국.md "wikilink")의 가수 [보아](../Page/보아.md "wikilink")의 일곱 번째 한국 정규 앨범이다. 앨범의 타이틀곡은 보아가 직접 작곡, 작사한 "Only One"이다. *Only One*은 2012년 7월 25일 KMP홀딩스를 통해 발매되었고, 이에 앞서 온라인을 통해 22일 발매 되었다.
 
 ## 작업 및 발매
 
@@ -15,7 +15,7 @@
 
 ## 프로모션
 
-[SM 엔터테인먼트는](https://ko.wikipedia.org/wiki/SM_엔터테인먼트 "wikilink") 이번 앨범에 색다른 프로모션을 선보인다고 밝히며 2012년 7월 19일부터 음원 공개일자인 22일까지 SBS를 통해 다양한 시간대에 시보 광고를 방영한다고 발표했다.\[9\] 7월 28일에는 *Only One* 컴백을 맞이해 SBS에서 데뷔부터 지금까지의 성장 모습을 담은 컴백쇼 《[보아 4354](https://ko.wikipedia.org/wiki/보아_4354 "wikilink")》를 방영했다.\[10\] 4354의 뜻은 보아가 《[인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink")》에서 데뷔 한 이후 지금까지의 일수로, 보아는 이 프로그램에서 "[Hurricane Venus](../Page/Hurricane_Venus.md "wikilink")", "[My Name](../Page/My_Name.md "wikilink")", "[Girls On Top](../Page/Girls_On_Top_\(음반\).md "wikilink")"을 포함한 몇몇 이전 히트곡과 [유노윤호](https://ko.wikipedia.org/wiki/유노윤호 "wikilink")와 함께한 "Only One"을 포함한 앨범 수록곡들을 공연했다.\[11\] 하루 뒤인 7월 29일 보아는 《인기가요》에서 "The Shadow"와 샤이니의 [태민](https://ko.wikipedia.org/wiki/태민 "wikilink")과 함께 "Only One"을 부르며 컴백을했다. 보아는 이 날 무대에서 립싱크 공연을 해 논란이 일었는데, 보아는 "이 춤을 추면서 라이브를 기대하는 것 자체가 욕심이다. 사람이 할 수 없는 일인 것 같다"며 라이브 버전과 립싱크 버전으로 나눠 활동한다고 밝혔다. 하지만 모든 공연은 라이브 버전으로 활동을 마무리했다.\[12\] 8월 4일 《[음악중심](https://ko.wikipedia.org/wiki/음악중심 "wikilink")》에서는 슈퍼주니어의 [은혁](../Page/은혁.md "wikilink")과 함께 "Only One" 무대를 섰다.\[13\]
+[SM 엔터테인먼트는](../Page/SM_엔터테인먼트.md "wikilink") 이번 앨범에 색다른 프로모션을 선보인다고 밝히며 2012년 7월 19일부터 음원 공개일자인 22일까지 SBS를 통해 다양한 시간대에 시보 광고를 방영한다고 발표했다.\[9\] 7월 28일에는 *Only One* 컴백을 맞이해 SBS에서 데뷔부터 지금까지의 성장 모습을 담은 컴백쇼 《[보아 4354](https://ko.wikipedia.org/wiki/보아_4354 "wikilink")》를 방영했다.\[10\] 4354의 뜻은 보아가 《[인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink")》에서 데뷔 한 이후 지금까지의 일수로, 보아는 이 프로그램에서 "[Hurricane Venus](../Page/Hurricane_Venus.md "wikilink")", "[My Name](../Page/My_Name.md "wikilink")", "[Girls On Top](../Page/Girls_On_Top_\(음반\).md "wikilink")"을 포함한 몇몇 이전 히트곡과 [유노윤호](../Page/유노윤호.md "wikilink")와 함께한 "Only One"을 포함한 앨범 수록곡들을 공연했다.\[11\] 하루 뒤인 7월 29일 보아는 《인기가요》에서 "The Shadow"와 샤이니의 [태민](../Page/태민.md "wikilink")과 함께 "Only One"을 부르며 컴백을했다. 보아는 이 날 무대에서 립싱크 공연을 해 논란이 일었는데, 보아는 "이 춤을 추면서 라이브를 기대하는 것 자체가 욕심이다. 사람이 할 수 없는 일인 것 같다"며 라이브 버전과 립싱크 버전으로 나눠 활동한다고 밝혔다. 하지만 모든 공연은 라이브 버전으로 활동을 마무리했다.\[12\] 8월 4일 《[음악중심](https://ko.wikipedia.org/wiki/음악중심 "wikilink")》에서는 슈퍼주니어의 [은혁](../Page/은혁.md "wikilink")과 함께 "Only One" 무대를 섰다.\[13\]
 
 ## 평가
 
@@ -263,15 +263,15 @@ Hurricane Venus, No.1<br />
 
 ### 노래 차트
 
-| 노래                                                            | 최고 순위                                                                   |
-| ------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| <small>한국                                                     |                                                                         |
-| [가온 차트](https://ko.wikipedia.org/wiki/가온_차트 "wikilink")\[17\] | <small>[빌보드 K-Pop 핫 100](../Page/코리아_K-Pop_핫_100.md "wikilink")</small> |
-| "Only One"                                                    | 2                                                                       |
-| "The Shadow"                                                  | 77                                                                      |
-| "Mayday\! Mayday\! (너에게 닿기를 간절히 외치다)"                         | 90                                                                      |
-| "네모난 바퀴 (Hope)"                                               | 92                                                                      |
-|                                                               |                                                                         |
+| 노래                                         | 최고 순위                                                                   |
+| ------------------------------------------ | ----------------------------------------------------------------------- |
+| <small>한국                                  |                                                                         |
+| [가온 차트](../Page/가온_차트.md "wikilink")\[17\] | <small>[빌보드 K-Pop 핫 100](../Page/코리아_K-Pop_핫_100.md "wikilink")</small> |
+| "Only One"                                 | 2                                                                       |
+| "The Shadow"                               | 77                                                                      |
+| "Mayday\! Mayday\! (너에게 닿기를 간절히 외치다)"      | 90                                                                      |
+| "네모난 바퀴 (Hope)"                            | 92                                                                      |
+|                                            |                                                                         |
 
 ## 각주
 

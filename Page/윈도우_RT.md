@@ -3,7 +3,7 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Windows_RT_logo_and_wordmark.svg "wikilink")
 
-**윈도우 RT**(Windows RT, 개발명: 윈도우 온 ARM/Windows on ARM)는 [태블릿과](../Page/태블릿_컴퓨터.md "wikilink") 같은 [ARM](https://ko.wikipedia.org/wiki/ARM_아키텍처 "wikilink") 기기들을 위한 [윈도우 8](https://ko.wikipedia.org/wiki/윈도우_8 "wikilink") [운영 체제](https://ko.wikipedia.org/wiki/운영_체제 "wikilink") 버전이다. 장치 제조업자에게만 직접 판매하는 제품으로 일반 소비자에게는 판매하지 않는다.
+**윈도우 RT**(Windows RT, 개발명: 윈도우 온 ARM/Windows on ARM)는 [태블릿과](../Page/태블릿_컴퓨터.md "wikilink") 같은 [ARM](../Page/ARM_아키텍처.md "wikilink") 기기들을 위한 [윈도우 8](../Page/윈도우_8.md "wikilink") [운영 체제](../Page/운영_체제.md "wikilink") 버전이다. 장치 제조업자에게만 직접 판매하는 제품으로 일반 소비자에게는 판매하지 않는다.
 
 ## 하드웨어 요구사항
 

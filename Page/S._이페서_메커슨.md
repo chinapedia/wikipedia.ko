@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [S.  ](https://ko.wikipedia.org/wiki/S.__).
 
 
-**S. 이페서 메커슨**(S. Epatha Merkerson, [1952년](https://ko.wikipedia.org/wiki/1952년 "wikilink") [11월 28일](https://ko.wikipedia.org/wiki/11월_28일 "wikilink") \~ )은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [배우](../Page/배우.md "wikilink")이다.
+**S. 이페서 메커슨**(S. Epatha Merkerson, [1952년](../Page/1952년.md "wikilink") [11월 28일](../Page/11월_28일.md "wikilink") \~ )은 [미국](../Page/미국.md "wikilink")의 [배우](../Page/배우.md "wikilink")이다.
 
 ## 출연 작품
 

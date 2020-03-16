@@ -5,9 +5,9 @@
 
 ## 개요
 
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") 제1탄으로 전작으로부터 약 6개월 만이 되는 싱글이다. 또, 〈[weeeek](https://ko.wikipedia.org/wiki/weeeek "wikilink")〉, 〈[SUMMER TIME](../Page/SUMMER_TIME_\(NEWS의_노래\).md "wikilink")〉에 뒤이어, 이번에도 RUSS-K의 CM송에 기용되고 있다.
+  - [2009년](../Page/2009년.md "wikilink") 제1탄으로 전작으로부터 약 6개월 만이 되는 싱글이다. 또, 〈[weeeek](https://ko.wikipedia.org/wiki/weeeek "wikilink")〉, 〈[SUMMER TIME](../Page/SUMMER_TIME_\(NEWS의_노래\).md "wikilink")〉에 뒤이어, 이번에도 RUSS-K의 CM송에 기용되고 있다.
   - 초회 한정 생산반에는, 2008년 12월 31일에 행해진 〈NEWS WINTER PARTY DIAMOND in TOKYO DOME〉에서 피로된 곡의 DVD, 통상반에는 같은 날의 라이브 음원 《Share》가 수록되고 있다.
-  - 이 곡의 [PV의](https://ko.wikipedia.org/wiki/뮤직_비디오 "wikilink") 마지막에도, 야마시타가 〈\[山\]\[P\]〉라고 쓰여진 종이컵을 사용하고 있다. 〈[별을 향해서](../Page/별을_향해서.md "wikilink")〉, 〈weeeek〉, 〈[태양의 눈물](../Page/태양의_눈물_\(노래\).md "wikilink")〉, 〈SUMMER TIME〉, 〈[Happy Birthday](../Page/Happy_Birthday_\(NEWS의_노래\).md "wikilink")〉에 계속 되는 6번째 등장이다.
+  - 이 곡의 [PV의](../Page/뮤직_비디오.md "wikilink") 마지막에도, 야마시타가 〈\[山\]\[P\]〉라고 쓰여진 종이컵을 사용하고 있다. 〈[별을 향해서](../Page/별을_향해서.md "wikilink")〉, 〈weeeek〉, 〈[태양의 눈물](../Page/태양의_눈물_\(노래\).md "wikilink")〉, 〈SUMMER TIME〉, 〈[Happy Birthday](../Page/Happy_Birthday_\(NEWS의_노래\).md "wikilink")〉에 계속 되는 6번째 등장이다.
   - 최초의 콜이나 대사는 코야마와 야마시타가 고안 (〈코야마P〉명의).
   - 참고로 〈사랑의 ABO〉의 작사를 담당한 zopp의 혈액형은 O형이다.
   - 2009년 5월 11일 자의 오리콘 주간 싱글 차트로 첫 등장 1위를 획득. 이것으로, 데뷔곡 〈[희망\~Yell\~](../Page/희망~Yell~.md "wikilink")〉부터 11작 연속으로 획득한 일이 되어, [KinKi Kids에](https://ko.wikipedia.org/wiki/킨키_키즈 "wikilink") 뒤잇는 역대 2위의 기록이 되었다. 또, 초동 매상은 전작으로부터 증가해, 〈희망\~Yell\~〉, 〈weeeek〉, 〈별을 향해서〉를 뒤이어, 그룹 내에서 4번째로 높은 초동이 되었다.

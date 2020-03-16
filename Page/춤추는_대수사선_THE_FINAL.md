@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [  THE FINAL](https://ko.wikipedia.org/wiki/__THE_FINAL).
 
 
-《**춤추는 대수사선 THE FINAL 새로운 희망**》()은 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [9월 7일에](https://ko.wikipedia.org/wiki/9월_7일 "wikilink") 개봉한 [일본 영화이다](https://ko.wikipedia.org/wiki/일본의_영화 "wikilink").
+《**춤추는 대수사선 THE FINAL 새로운 희망**》()은 [일본](../Page/일본.md "wikilink")에서 [2012년](../Page/2012년.md "wikilink") [9월 7일에](../Page/9월_7일.md "wikilink") 개봉한 [일본 영화이다](../Page/일본의_영화.md "wikilink").
 
 ## 개요
 
-[후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 제작의 연속 TV 드라마 《[춤추는 대수사선](../Page/춤추는_대수사선.md "wikilink")》의 극장판 제4작이며, 시리즈 최종작. 호칭은 ODF\[1\]. 전작으로부터 2년만의 작품에 해당한다.
+[후지 TV](../Page/후지_TV.md "wikilink") 제작의 연속 TV 드라마 《[춤추는 대수사선](../Page/춤추는_대수사선.md "wikilink")》의 극장판 제4작이며, 시리즈 최종작. 호칭은 ODF\[1\]. 전작으로부터 2년만의 작품에 해당한다.
 
-촬영은 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [1월 18일](https://ko.wikipedia.org/wiki/1월_18일 "wikilink")\[2\] 부터 [4월 20일](https://ko.wikipedia.org/wiki/4월_20일 "wikilink")\[3\] 까지 행해졌다.
+촬영은 [2012년](../Page/2012년.md "wikilink") [1월 18일](../Page/1월_18일.md "wikilink")\[2\] 부터 [4월 20일](../Page/4월_20일.md "wikilink")\[3\] 까지 행해졌다.
 
-본작은 촬영 종료후 [5월 16일에](https://ko.wikipedia.org/wiki/5월_16일 "wikilink") 서거한 [코바야시 스스무의](https://ko.wikipedia.org/wiki/고바야시_스스무 "wikilink") 유작이 된다\[4\].
+본작은 촬영 종료후 [5월 16일에](../Page/5월_16일.md "wikilink") 서거한 [코바야시 스스무의](https://ko.wikipedia.org/wiki/고바야시_스스무 "wikilink") 유작이 된다\[4\].
 
 ## 등장 인물
 
@@ -17,11 +17,11 @@
 
 <!-- end list -->
 
-  - **[아오시마 슌사쿠](../Page/아오시마_슌사쿠.md "wikilink")** - [오다 유지](https://ko.wikipedia.org/wiki/오다_유지 "wikilink")
+  - **[아오시마 슌사쿠](../Page/아오시마_슌사쿠.md "wikilink")** - [오다 유지](../Page/오다_유지.md "wikilink")
   - **[온다 스미레](../Page/온다_스미레.md "wikilink")** - [후카츠 에리](https://ko.wikipedia.org/wiki/후카쓰_에리 "wikilink")
   - **[마시타 마사요시](../Page/마시타_마사요시.md "wikilink")** - [유스케 산타마리아](../Page/유스케_산타마리아.md "wikilink")
   - **오가타 카오루** - [코모토 마사히로](https://ko.wikipedia.org/wiki/고모토_마사히로 "wikilink")
-  - **시노하라 나츠미** - [우치다 유키](https://ko.wikipedia.org/wiki/우치다_유키 "wikilink")
+  - **시노하라 나츠미** - [우치다 유키](../Page/우치다_유키.md "wikilink")
   - **와쿠 신지로** - [이토 아츠시](https://ko.wikipedia.org/wiki/이토_아쓰시 "wikilink")
   - **쿠라야마 코지** - [카와노 나오키](https://ko.wikipedia.org/wiki/가와노_나오키 "wikilink")
   - [타키토 켄이치](https://ko.wikipedia.org/wiki/다키토_겐이치 "wikilink")
@@ -39,7 +39,7 @@
 
 <!-- end list -->
 
-  - 토리가이 세이이치 - [오구리 슌](https://ko.wikipedia.org/wiki/오구리_슌 "wikilink")
+  - 토리가이 세이이치 - [오구리 슌](../Page/오구리_슌.md "wikilink")
   - 코이케 시게루 - [코이즈미 코타로](https://ko.wikipedia.org/wiki/고이즈미_고타로 "wikilink")
 
 <!-- end list -->
@@ -56,7 +56,7 @@
 
 <!-- end list -->
 
-  - 쿠제 - [카토리 싱고](../Page/카토리_싱고.md "wikilink") ([SMAP](https://ko.wikipedia.org/wiki/SMAP "wikilink"))
+  - 쿠제 - [카토리 싱고](../Page/카토리_싱고.md "wikilink") ([SMAP](../Page/SMAP.md "wikilink"))
 
 ## 스탭
 

@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [KSC ](https://ko.wikipedia.org/wiki/KSC_).
 
 
-**KSC 로케런**(K.S.C. Lokeren Oost-Vlaanderen, K.S.C. Lokeren)은 [벨기에](https://ko.wikipedia.org/wiki/벨기에 "wikilink") [로케런](https://ko.wikipedia.org/wiki/로케런 "wikilink")의 축구 클럽으로, 현재 [벨기에 프로리그에서](https://ko.wikipedia.org/wiki/벨기에_프로리그 "wikilink") 활동하고 있다.
+**KSC 로케런**(K.S.C. Lokeren Oost-Vlaanderen, K.S.C. Lokeren)은 [벨기에](../Page/벨기에.md "wikilink") [로케런](https://ko.wikipedia.org/wiki/로케런 "wikilink")의 축구 클럽으로, 현재 [벨기에 프로리그에서](https://ko.wikipedia.org/wiki/벨기에_프로리그 "wikilink") 활동하고 있다.
 
 ## 역사
 
-  - [1923년](https://ko.wikipedia.org/wiki/1923년 "wikilink"): **Racing Club Lokeren**이라는 이름으로 창단.
-  - [1951년](https://ko.wikipedia.org/wiki/1951년 "wikilink"): **Koninklijke Racing Club Lokeren**으로 명칭 변경.
-  - [1970년](https://ko.wikipedia.org/wiki/1970년 "wikilink"): 클럽의 재정 문제로 인해 같은 연고지를 쓰고 있던 다른 클럽을 합병하여 **Koninklijke Standaard F.C. Lokeren**으로 명칭 변경.
-  - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink"): *K. Sint-Niklase S.K.E.*과 *Koninklijke Sporting Club Lokeren*이 합병됨.
-  - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink"): **K.S.C. Lokeren Oost-Vlaanderen**으로 명칭 변경.
+  - [1923년](../Page/1923년.md "wikilink"): **Racing Club Lokeren**이라는 이름으로 창단.
+  - [1951년](../Page/1951년.md "wikilink"): **Koninklijke Racing Club Lokeren**으로 명칭 변경.
+  - [1970년](../Page/1970년.md "wikilink"): 클럽의 재정 문제로 인해 같은 연고지를 쓰고 있던 다른 클럽을 합병하여 **Koninklijke Standaard F.C. Lokeren**으로 명칭 변경.
+  - [2000년](../Page/2000년.md "wikilink"): *K. Sint-Niklase S.K.E.*과 *Koninklijke Sporting Club Lokeren*이 합병됨.
+  - [2003년](../Page/2003년.md "wikilink"): **K.S.C. Lokeren Oost-Vlaanderen**으로 명칭 변경.
 
 ## 성적
 

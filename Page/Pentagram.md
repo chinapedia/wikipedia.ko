@@ -42,6 +42,6 @@
 10. "CHAPTER 7 : When You Get There"
       -
         작곡 : 심지 / 작사 : 요한
-        심지의 프로그래밍과 신디사이져로만 이루어진 곡. 2010년 [펜타포트 락 페스티벌을](https://ko.wikipedia.org/wiki/펜타포트_락_페스티벌 "wikilink") 통해 라이브에서 처음으로 공개하였다.
+        심지의 프로그래밍과 신디사이져로만 이루어진 곡. 2010년 [펜타포트 락 페스티벌을](../Page/펜타포트_락_페스티벌.md "wikilink") 통해 라이브에서 처음으로 공개하였다.
 
 [분류:2011년 음반](https://ko.wikipedia.org/wiki/분류:2011년_음반 "wikilink") [분류:피아의 음반](https://ko.wikipedia.org/wiki/분류:피아의_음반 "wikilink")

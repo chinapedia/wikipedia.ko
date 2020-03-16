@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Flower \(  \)](https://ko.wikipedia.org/wiki/Flower_\(__\)).
 
 
-〈**Flower**〉는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") [마에다 아츠코의](https://ko.wikipedia.org/wiki/마에다_아츠코 "wikilink") 솔로 데뷔 싱글이다. 2011년 6월 22일에 [You, Be Cool\!를](../Page/You,_Be_Cool!.md "wikilink") 통해 발매됐다.
+〈**Flower**〉는 [일본](../Page/일본.md "wikilink")의 [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") [마에다 아츠코의](../Page/마에다_아츠코.md "wikilink") 솔로 데뷔 싱글이다. 2011년 6월 22일에 [You, Be Cool\!를](../Page/You,_Be_Cool!.md "wikilink") 통해 발매됐다.
 
 ## 수록곡
 

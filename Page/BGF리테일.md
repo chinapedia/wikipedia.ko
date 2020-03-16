@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BGF](https://ko.wikipedia.org/wiki/BGF).
 
 
-**BGF리테일**(비지에프리테일, BGF Retail)은 대한민국 최대 편의점 프랜차이즈 [CU를](https://ko.wikipedia.org/wiki/CU_\(편의점\) "wikilink") 운영하는 종합유통서비스 기업이다. 대한민국 편의점 업계 최초로 전국 시군구 출점을 완료하였으며, 이를 바탕으로 다양한 상품과 서비스를 제공하고 있다.
+**BGF리테일**(비지에프리테일, BGF Retail)은 대한민국 최대 편의점 프랜차이즈 [CU를](../Page/CU_\(편의점\).md "wikilink") 운영하는 종합유통서비스 기업이다. 대한민국 편의점 업계 최초로 전국 시군구 출점을 완료하였으며, 이를 바탕으로 다양한 상품과 서비스를 제공하고 있다.
 
 ## 연혁
 
@@ -10,7 +10,7 @@
   - 2004년 개성공단점 개점
   - 2011년 국내 최초 6000호점 달성
   - 2012년 6월 BGF리테일로 사명 변경
-  - 2012년 8월 체인형 편의점 [CU](https://ko.wikipedia.org/wiki/CU_\(편의점\) "wikilink") 브랜드 런칭
+  - 2012년 8월 체인형 편의점 [CU](../Page/CU_\(편의점\).md "wikilink") 브랜드 런칭
   - 2012년 12월 편의점 업계 최초 CCM인증
   - 2013년 3월 '브랜드 파워 편의점 부문 1위'8년 연속 수상
   - 2014년 1월 '대한민국 퍼스트 브랜드 대상' 11년 연속 수상
@@ -21,7 +21,7 @@
   - 2016년 6월 국내 최초 10,000호점 달성
   - 2016년 12월 [보광](../Page/BGF_\(기업\).md "wikilink") 지분 전량 매각으로 [보광그룹에서](../Page/BGF_\(기업\).md "wikilink") 분리
   - 2017년 2월 국내 최초 11,000호점 달성
-  - 2017년 11월 기업 분할로 신규 설립 (지주회사명 : [BGF](https://ko.wikipedia.org/wiki/BGF "wikilink"), 사업회사명 : [BGF리테일](https://ko.wikipedia.org/wiki/BGF리테일 "wikilink"))
+  - 2017년 11월 기업 분할로 신규 설립 (지주회사명 : [BGF](https://ko.wikipedia.org/wiki/BGF "wikilink"), 사업회사명 : [BGF리테일](../Page/BGF리테일.md "wikilink"))
 
 ## 외부 링크
 

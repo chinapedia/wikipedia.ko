@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Jonas Brothers: The 3D Concert Experience](https://ko.wikipedia.org/wiki/Jonas_Brothers:_The_3D_Concert_Experience).
 
 
-**Jonas Brothers: The 3D Concert Experience**는 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [2월 27일](https://ko.wikipedia.org/wiki/2월_27일 "wikilink") 개봉한 [아이맥스](https://ko.wikipedia.org/wiki/아이맥스 "wikilink") [3D](https://ko.wikipedia.org/wiki/3D_영화 "wikilink") [콘서트 영화이다](https://ko.wikipedia.org/wiki/콘서트_영화 "wikilink"). [조나스 브라더스의](../Page/조나스_브라더스.md "wikilink") 콘서트 [Burnin' Up Tour를](https://ko.wikipedia.org/wiki/Burnin'_Up_Tour "wikilink") 보여주고 있다. 게스트로 [테일러 스위프트](https://ko.wikipedia.org/wiki/테일러_스위프트 "wikilink"), [데미 로바토가](https://ko.wikipedia.org/wiki/데미_로바토 "wikilink") 등장하여 노래를 부른다.
+**Jonas Brothers: The 3D Concert Experience**는 [2009년](../Page/2009년.md "wikilink") [2월 27일](../Page/2월_27일.md "wikilink") 개봉한 [아이맥스](../Page/아이맥스.md "wikilink") [3D](https://ko.wikipedia.org/wiki/3D_영화 "wikilink") [콘서트 영화이다](https://ko.wikipedia.org/wiki/콘서트_영화 "wikilink"). [조나스 브라더스의](../Page/조나스_브라더스.md "wikilink") 콘서트 [Burnin' Up Tour를](https://ko.wikipedia.org/wiki/Burnin'_Up_Tour "wikilink") 보여주고 있다. 게스트로 [테일러 스위프트](../Page/테일러_스위프트.md "wikilink"), [데미 로바토가](../Page/데미_로바토.md "wikilink") 등장하여 노래를 부른다.
 
 ## 출연
 
@@ -14,8 +14,8 @@
 ### 조연
 
   - [로버트 페간스](https://ko.wikipedia.org/wiki/로버트_페간스 "wikilink")
-  - [데미 로바토](https://ko.wikipedia.org/wiki/데미_로바토 "wikilink")
-  - [테일러 스위프트](https://ko.wikipedia.org/wiki/테일러_스위프트 "wikilink")
+  - [데미 로바토](../Page/데미_로바토.md "wikilink")
+  - [테일러 스위프트](../Page/테일러_스위프트.md "wikilink")
   - [존 케이츠](https://ko.wikipedia.org/wiki/존_케이츠 "wikilink")
   - [알렉산드라 다드다리오](https://ko.wikipedia.org/wiki/알렉산드라_다드다리오 "wikilink")
   - [레베카 브랜디스](https://ko.wikipedia.org/wiki/레베카_브랜디스 "wikilink")

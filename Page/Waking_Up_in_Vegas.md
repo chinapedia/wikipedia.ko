@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Waking Up in Vegas](https://ko.wikipedia.org/wiki/Waking_Up_in_Vegas).
 
 
-"**Waking Up In Vegas**"는 미국의 가수 [케이티 페리의](https://ko.wikipedia.org/wiki/케이티_페리 "wikilink") 노래이다. 이 노래는 페리의 두 번째 정규 앨범 *[One of the Boys](https://ko.wikipedia.org/wiki/One_of_the_Boys "wikilink")*의 마지막 싱글이자 네 번째 싱글로 발매되었다. 이 노래는 케이티 페리와 데스몬드 차일드, 안드레 칼손이 작곡했다. 또한 케이티 페리와 그레그 웰스가 공동 프로듀서를 맡았다. 웰스는 노래의 모든 악기 연주에 일조했다. 그리고 노래는 공식적으로 미국 라디오에 2009년 4월 21일 공개되며 발매되었다.
+"**Waking Up In Vegas**"는 미국의 가수 [케이티 페리의](../Page/케이티_페리.md "wikilink") 노래이다. 이 노래는 페리의 두 번째 정규 앨범 *[One of the Boys](https://ko.wikipedia.org/wiki/One_of_the_Boys "wikilink")*의 마지막 싱글이자 네 번째 싱글로 발매되었다. 이 노래는 케이티 페리와 데스몬드 차일드, 안드레 칼손이 작곡했다. 또한 케이티 페리와 그레그 웰스가 공동 프로듀서를 맡았다. 웰스는 노래의 모든 악기 연주에 일조했다. 그리고 노래는 공식적으로 미국 라디오에 2009년 4월 21일 공개되며 발매되었다.
 
 노래는 음악 평론가들로부터 익숙하고 외기 쉬운 멜로디라는 평가로 대체로 긍정적인 평가를 받았다. 노래는 [빌보드 핫 100](../Page/빌보드_핫_100.md "wikilink") 9위까지 오르며 페리의 세 번째 10위권 진입 싱글이 되었다. 이 외에 미국 댄스 클럽차트, 오스트레일리아, 네덜란드에서 1위를 하며 성공을 했고 캐나다, 뉴질랜드, 이탈리아 이 외에 많은 나라에서 10위권에 진입했다. 싱글의 뮤직비디오는 [라스베가스](https://ko.wikipedia.org/wiki/라스베가스 "wikilink")를 배경으로 도박과 파티를 즐기는 커플 페리와 배우 데이비드 무어가 출연한다.
 
@@ -87,23 +87,23 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/오스트레일리아" title="wikilink">오스트레일리아</a></p></td>
+<td><p><a href="../Page/오스트레일리아.md" title="wikilink">오스트레일리아</a></p></td>
 <td><p>골드[2]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/브라질" title="wikilink">브라질</a></p></td>
+<td><p><a href="../Page/브라질.md" title="wikilink">브라질</a></p></td>
 <td><p>플래티넘[3]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/캐나다" title="wikilink">캐나다</a></p></td>
+<td><p><a href="../Page/캐나다.md" title="wikilink">캐나다</a></p></td>
 <td><p>플래티넘[4]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴질랜드" title="wikilink">뉴질랜드</a></p></td>
+<td><p><a href="../Page/뉴질랜드.md" title="wikilink">뉴질랜드</a></p></td>
 <td><p>Gold</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/미국" title="wikilink">미국</a></p></td>
+<td><p><a href="../Page/미국.md" title="wikilink">미국</a></p></td>
 <td><p>2× 플래티넘[5]</p></td>
 </tr>
 </tbody>
@@ -111,14 +111,14 @@
 
 ### 연말 차트
 
-| 차트 (2009)                                                                 | 최고 순위 |
-| ------------------------------------------------------------------------- | ----- |
-| 오스트레일리아 싱글 차트\[6\]                                                        | 67    |
-| [캐나다 핫 100](https://ko.wikipedia.org/wiki/캐나다_핫_100 "wikilink")\[7\]      | 28    |
-| 헝가리 싱글 차트\[8\]                                                            | 30    |
-| [영국 싱글 차트](https://ko.wikipedia.org/wiki/영국_싱글_차트 "wikilink")\[9\]        | 138   |
-| 미국 [빌보드 핫 100](../Page/빌보드_핫_100.md "wikilink")\[10\]                     | 36    |
-| 미국 핫 댄스 클럽 송(*[빌보드](https://ko.wikipedia.org/wiki/빌보드 "wikilink")*)\[11\] | 2     |
+| 차트 (2009)                                                            | 최고 순위 |
+| -------------------------------------------------------------------- | ----- |
+| 오스트레일리아 싱글 차트\[6\]                                                   | 67    |
+| [캐나다 핫 100](https://ko.wikipedia.org/wiki/캐나다_핫_100 "wikilink")\[7\] | 28    |
+| 헝가리 싱글 차트\[8\]                                                       | 30    |
+| [영국 싱글 차트](https://ko.wikipedia.org/wiki/영국_싱글_차트 "wikilink")\[9\]   | 138   |
+| 미국 [빌보드 핫 100](../Page/빌보드_핫_100.md "wikilink")\[10\]                | 36    |
+| 미국 핫 댄스 클럽 송(*[빌보드](../Page/빌보드.md "wikilink")*)\[11\]               | 2     |
 
 ## 발매 일정
 

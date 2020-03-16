@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Mr.Children 2001-2005 micro](https://ko.wikipedia.org/wiki/Mr.Children_2001-2005_micro).
 
 
-《**Mr.Children 2001-2005 ＜micro＞**》 (Mr.Children 니센이치 니센고 미크로)는 [Mr.Children](https://ko.wikipedia.org/wiki/Mr.Children "wikilink")의 [베스트 음반이다](https://ko.wikipedia.org/wiki/베스트_음반 "wikilink"). [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [5월 10일에](https://ko.wikipedia.org/wiki/5월_10일 "wikilink") 《[Mr.Children 2005-2010 ＜macro＞](https://ko.wikipedia.org/wiki/Mr.Children_2005-2010_＜macro＞ "wikilink")》와 함께 발매됐다.
+《**Mr.Children 2001-2005 ＜micro＞**》 (Mr.Children 니센이치 니센고 미크로)는 [Mr.Children](../Page/Mr.Children.md "wikilink")의 [베스트 음반이다](https://ko.wikipedia.org/wiki/베스트_음반 "wikilink"). [2012년](../Page/2012년.md "wikilink") [5월 10일에](../Page/5월_10일.md "wikilink") 《[Mr.Children 2005-2010 ＜macro＞](../Page/Mr.Children_2005-2010_＜macro＞.md "wikilink")》와 함께 발매됐다.
 
 2001년부터 2005년까지 발표한 싱글과 음반의 수록곡이 수록되어 있다.
 
@@ -25,11 +25,11 @@
 
 ## 차트 순위
 
-| 차트                                                               | 최고순위 |
-| ---------------------------------------------------------------- | ---- |
-| 오리콘 주간 음반 차트\[1\]                                                | 2    |
-| [빌보드](https://ko.wikipedia.org/wiki/빌보드 "wikilink") 재팬 탑 앨범\[2\] | 2    |
-| 오리콘 연간 음반 (2012년)\[3\]                                           | 2    |
+| 차트                                            | 최고순위 |
+| --------------------------------------------- | ---- |
+| 오리콘 주간 음반 차트\[1\]                             | 2    |
+| [빌보드](../Page/빌보드.md "wikilink") 재팬 탑 앨범\[2\] | 2    |
+| 오리콘 연간 음반 (2012년)\[3\]                        | 2    |
 
 | 기관                                                                   | 인증  | 출하수        |
 | -------------------------------------------------------------------- | --- | ---------- |

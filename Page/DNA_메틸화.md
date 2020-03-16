@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DNA ](https://ko.wikipedia.org/wiki/DNA_).
 
 
-**DNA 메틸화**(DNA methylation)란, 고등 생물의 발달에 매우 중요한 생화학적 과정이다. 그것은 한 [메틸기](https://ko.wikipedia.org/wiki/메틸기 "wikilink")를 [시토신](https://ko.wikipedia.org/wiki/시토신 "wikilink")의 [피리미딘](../Page/피리미딘.md "wikilink") 고리 5번째 위치에 추가하거나 [아데닌](https://ko.wikipedia.org/wiki/아데닌 "wikilink")의 [퓨린](https://ko.wikipedia.org/wiki/퓨린 "wikilink") 고리의 숫자 6 질소에 추가하는 것을 포함한다(시토신과 아데닌은 DNA의 네 가지 염기에 속한다). 이 변화는 세포 분화를 통해서 유전될 수 있다.
+**DNA 메틸화**(DNA methylation)란, 고등 생물의 발달에 매우 중요한 생화학적 과정이다. 그것은 한 [메틸기](https://ko.wikipedia.org/wiki/메틸기 "wikilink")를 [시토신](https://ko.wikipedia.org/wiki/시토신 "wikilink")의 [피리미딘](../Page/피리미딘.md "wikilink") 고리 5번째 위치에 추가하거나 [아데닌](../Page/아데닌.md "wikilink")의 [퓨린](https://ko.wikipedia.org/wiki/퓨린 "wikilink") 고리의 숫자 6 질소에 추가하는 것을 포함한다(시토신과 아데닌은 DNA의 네 가지 염기에 속한다). 이 변화는 세포 분화를 통해서 유전될 수 있다.
 
 DNA 메틸화는 일반적인 유기체적 진화와 세포적 변이를 위해 결정적 부분이다. DNA 메틸화는 안정적으로 세포에서 유전자 표현형을 변화 시킨다. 그래서 세포는 "그들이 어디에 원래 있었는지 기억하는 것" 또는 유전자 표현형을 감소시키는 것을 할 수 있게 된다. 예를 들면, 태아가 발현하는 동안 이자섬(pancreatic islets)으로 남도록 프로그램된 세포들은 유기체의 일생 동안 그들이 이자섬으로 남아 있도록 지속적인 신호를 보내지 않더라도 이자섬으로 남아있는다. DNA 메틸화는 일반적으로 접합자(zygote, 쉽게 말해서, 사람으로 치면 정자와 난자가 합쳐진 형태) 생성 과정에서 사라지고, 발현 과정에서 차후의 세포 분화를 통해서 다시 생성된다. 하지만, 가장 최신의 연구는 접합자에서 메틸 그룹이 사라지는 것보다는 수산기화(hydroxylation)가 되는 것을 보인다. 몇몇 유전자 표현형을 제어하는 메틸화 변화들은 유전될 수 있고 후성 유전적 제어라고 불린다.
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [I Love You \(2NE1 \)](https://ko.wikipedia.org/wiki/I_Love_You_\(2NE1_\)).
 
 
-"**I Love You**"는 대한민국의 걸 그룹 [2NE1](https://ko.wikipedia.org/wiki/2NE1 "wikilink")의 노래이다. 2012년 7월 5일 KMP홀딩스를 통해 발매되었다. 9월 19일에는 일본에서 2NE1의 세 번째 일본 싱글로 발매되었다.
+"**I Love You**"는 대한민국의 걸 그룹 [2NE1](../Page/2NE1.md "wikilink")의 노래이다. 2012년 7월 5일 KMP홀딩스를 통해 발매되었다. 9월 19일에는 일본에서 2NE1의 세 번째 일본 싱글로 발매되었다.
 
 ## 평가
 
@@ -25,7 +25,7 @@
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p>미국 (<a href="https://ko.wikipedia.org/wiki/빌보드" title="wikilink">빌보드 가스펠 송</a>)[3]</p></td>
+<td><p>미국 (<a href="../Page/빌보드.md" title="wikilink">빌보드 가스펠 송</a>)[3]</p></td>
 <td><p>21</p></td>
 </tr>
 <tr class="odd">
@@ -63,11 +63,11 @@
 
 ## 발매 일정
 
-| 국가           | 일정           | 레이블                                                             | 포맷                                                                 |
-| ------------ | ------------ | --------------------------------------------------------------- | ------------------------------------------------------------------ |
-| 세계           | 2012년 7월 5일  | [YG 엔터테인먼트](https://ko.wikipedia.org/wiki/YG_엔터테인먼트 "wikilink") | [디지털 다운로드](https://ko.wikipedia.org/wiki/디지털_다운로드 "wikilink")\[6\] |
-| 일본           | 2012년 8월 29일 | [YGEX](https://ko.wikipedia.org/wiki/에이벡스 "wikilink")           | 디지털 다운로드 (일본 버전)\[7\]                                              |
-| 2012년 9월 19일 | YGEX         | CD 싱글 (일본 버전)\[8\]                                              |                                                                    |
+| 국가           | 일정           | 레이블                                                   | 포맷                                                                 |
+| ------------ | ------------ | ----------------------------------------------------- | ------------------------------------------------------------------ |
+| 세계           | 2012년 7월 5일  | [YG 엔터테인먼트](../Page/YG_엔터테인먼트.md "wikilink")          | [디지털 다운로드](https://ko.wikipedia.org/wiki/디지털_다운로드 "wikilink")\[6\] |
+| 일본           | 2012년 8월 29일 | [YGEX](https://ko.wikipedia.org/wiki/에이벡스 "wikilink") | 디지털 다운로드 (일본 버전)\[7\]                                              |
+| 2012년 9월 19일 | YGEX         | CD 싱글 (일본 버전)\[8\]                                    |                                                                    |
 
 ## 각주
 

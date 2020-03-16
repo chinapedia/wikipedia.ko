@@ -17,9 +17,9 @@
 
 1.  **weeeek**
       -
-        작사·작곡: [GReeeeN](https://ko.wikipedia.org/wiki/GReeeeN "wikilink") / 편곡: 스즈키 마사야, JIN
+        작사·작곡: [GReeeeN](../Page/GReeeeN.md "wikilink") / 편곡: 스즈키 마사야, JIN
     <!-- end list -->
-      - 크림슨 RUSS-K 〈RUSS-K를 모아라\!〉 〈무슨계도 아닌 RUSS-K〉 CM송, 《레코멘\!》 ([분카 방송](../Page/분카_방송.md "wikilink")) 2007년 11월도 엔딩 테마. 보컬 그룹·[GReeeeN](https://ko.wikipedia.org/wiki/GReeeeN "wikilink")이 NEWS를 위해서 새로 쓴 악곡이다. 타이틀에 있는 4련의 알파벳 〈e〉는, GReeeeN로부터의 제공곡인 것에 유래한다. 가사는 타이틀 대로 〈[일주일간](https://ko.wikipedia.org/wiki/주_\(시간\) "wikilink")〉을 테마로 하고 있어 일하는 사회인을 응원하는 내용이다\[1\]. 멤버는 GReeeeN가 노래한 가노래의 음원을 건네 받아 각자 연습한 후, 2007년 7월에 레코딩에 임했다\[2\]\[3\]. 맨처음의 [야마시타 토모히사의](../Page/야마시타_토모히사.md "wikilink") 구령 〈行きまーす\! イェイ\! (이키마-스\! 예이\!)〉는, 레코딩 시에 애드립으로 발한 소리가 그대로 채용된 것으로, 그런 부분은 그 밖에도 여기저기에 포함되어 있다\[4\]. 사비의 [하모니는](https://ko.wikipedia.org/wiki/화성_\(음악\) "wikilink"), [테고시 유야가](../Page/테고시_유야.md "wikilink") 고음부를, [마스다 타카히사가](../Page/마스다_타카히사.md "wikilink") 저음부를 담당했다\[5\]\[6\]. 쿠보 시게아키가 감독을 맡은 [PV는](https://ko.wikipedia.org/wiki/뮤직_비디오 "wikilink"), 멤버가 취업용 양복이나 안경, 가방등을 구사하고, 샐러리맨으로 분장했다. 덧붙여 고정된 안무가 없기 때문에, 멤버는 각각이 자유롭게 춤추고 있다\[7\].
+      - 크림슨 RUSS-K 〈RUSS-K를 모아라\!〉 〈무슨계도 아닌 RUSS-K〉 CM송, 《레코멘\!》 ([분카 방송](../Page/분카_방송.md "wikilink")) 2007년 11월도 엔딩 테마. 보컬 그룹·[GReeeeN](../Page/GReeeeN.md "wikilink")이 NEWS를 위해서 새로 쓴 악곡이다. 타이틀에 있는 4련의 알파벳 〈e〉는, GReeeeN로부터의 제공곡인 것에 유래한다. 가사는 타이틀 대로 〈[일주일간](../Page/주_\(시간\).md "wikilink")〉을 테마로 하고 있어 일하는 사회인을 응원하는 내용이다\[1\]. 멤버는 GReeeeN가 노래한 가노래의 음원을 건네 받아 각자 연습한 후, 2007년 7월에 레코딩에 임했다\[2\]\[3\]. 맨처음의 [야마시타 토모히사의](../Page/야마시타_토모히사.md "wikilink") 구령 〈行きまーす\! イェイ\! (이키마-스\! 예이\!)〉는, 레코딩 시에 애드립으로 발한 소리가 그대로 채용된 것으로, 그런 부분은 그 밖에도 여기저기에 포함되어 있다\[4\]. 사비의 [하모니는](../Page/화성_\(음악\).md "wikilink"), [테고시 유야가](../Page/테고시_유야.md "wikilink") 고음부를, [마스다 타카히사가](../Page/마스다_타카히사.md "wikilink") 저음부를 담당했다\[5\]\[6\]. 쿠보 시게아키가 감독을 맡은 [PV는](../Page/뮤직_비디오.md "wikilink"), 멤버가 취업용 양복이나 안경, 가방등을 구사하고, 샐러리맨으로 분장했다. 덧붙여 고정된 안무가 없기 때문에, 멤버는 각각이 자유롭게 춤추고 있다\[7\].
 2.  **with me**
       -
         작사: zopp / 작곡: Shusui, Tobias Lundgren, Johan Fransson, Tim Larsson / 편곡: h-wonder
@@ -73,5 +73,5 @@
 4.
 5.
 6.  〈싱글 《weeeek》 & 앨범 《pacific》 발매 기념 특설 사이트〉Johnny's Web, 2007년 11월 4일. (참조: 2007년 11월 14일, 소멸 확인: 2007년 11월 27일)
-7.  《[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ko.wikipedia.org/wiki/HEY!HEY!HEY!Music_champ "wikilink")》 (2007년 11월 12일, [후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink")）
+7.  《[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ko.wikipedia.org/wiki/HEY!HEY!HEY!Music_champ "wikilink")》 (2007년 11월 12일, [후지 TV](../Page/후지_TV.md "wikilink")）
 8.

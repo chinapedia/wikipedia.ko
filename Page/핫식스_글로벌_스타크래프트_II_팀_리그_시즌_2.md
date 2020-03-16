@@ -52,7 +52,7 @@
 
   - 한국어
       - 1 캐스터, 2 해설 체재로 진행
-      - 캐스터 : [서경환](https://ko.wikipedia.org/wiki/서경환 "wikilink"), [박상현](https://ko.wikipedia.org/wiki/박상현_\(1981년\) "wikilink")
+      - 캐스터 : [서경환](https://ko.wikipedia.org/wiki/서경환 "wikilink"), [박상현](../Page/박상현_\(1981년\).md "wikilink")
       - 해설 : [채정원](../Page/채정원.md "wikilink"), [안준영](../Page/안준영_\(방송인\).md "wikilink"), [박대만](../Page/박대만.md "wikilink"), [황영재](../Page/황영재.md "wikilink")
   - 영어
       - 1 캐스터, 1 해설 체재로 진행

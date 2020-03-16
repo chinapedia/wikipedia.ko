@@ -14,7 +14,7 @@
   - 2008년
       - 11월 5일, Vap을 통해 1집 맥시 싱글 『Fiction』을 발표해 메이저에 데뷔한다.
   - 2009년
-      - 4월 5일, 2집 맥시 싱글 『8AM』을 발표, 주제곡 『8AM』 CD 발매에 앞 서, TV 애니메이션 『[더 파이팅 New Challenger](https://ko.wikipedia.org/wiki/더_파이팅 "wikilink")』의 마무리 곡으로 쓰였다.\[2\]
+      - 4월 5일, 2집 맥시 싱글 『8AM』을 발표, 주제곡 『8AM』 CD 발매에 앞 서, TV 애니메이션 『[더 파이팅 New Challenger](../Page/더_파이팅.md "wikilink")』의 마무리 곡으로 쓰였다.\[2\]
       - 8월 7일, [서머소닉 2009 오사카에](https://ko.wikipedia.org/wiki/서머소닉 "wikilink") 참가하였다.\[3\]
       - 10월 28일, 1집 앨범 『Final Destination』을 발표한다.
   - 2010년
@@ -49,11 +49,11 @@
   - 일본인 아버지와 미국인 어머니 사이에 태어나\[9\] 일본어와 영어 모두 구사 가능하다\[10\]\[11\]
   - 전곡의 작사를 담당하고 있다. 전곡이 영어인 이유도 이 때문이다.
 
-**Y.K.C** (요코치) / [기타](https://ko.wikipedia.org/wiki/기타 "wikilink")
+**Y.K.C** (요코치) / [기타](../Page/기타.md "wikilink")
 
   - 대부분의 곡을 작곡한다.
 
-**Sugi** (스기) / [기타](https://ko.wikipedia.org/wiki/기타 "wikilink"), 보컬
+**Sugi** (스기) / [기타](../Page/기타.md "wikilink"), 보컬
 
 **RxYxO** (료) / [베이스](https://ko.wikipedia.org/wiki/베이스 "wikilink"), 보컬
 
@@ -73,19 +73,19 @@
 </tr>
 <tr class="even">
 <td><p>1st</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2008년" title="wikilink">2008년</a> <a href="https://ko.wikipedia.org/wiki/11월_5일" title="wikilink">11월 5일</a></p></td>
+<td><p><a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/11월_5일.md" title="wikilink">11월 5일</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/Fiction_(coldrain의_곡)" title="wikilink">Fiction</a></strong></p></td>
 <td><p>VPCC-82268</p></td>
 </tr>
 <tr class="odd">
 <td><p>2nd</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2009년" title="wikilink">2009년</a> <a href="https://ko.wikipedia.org/wiki/4월_5일" title="wikilink">4월 5일</a></p></td>
+<td><p><a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/4월_5일.md" title="wikilink">4월 5일</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/8AM_(coldrain의_곡)" title="wikilink">8AM</a></strong></p></td>
 <td><p>VPCC-82633</p></td>
 </tr>
 <tr class="even">
 <td><p>3rd</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2016년" title="wikilink">2016년</a> <a href="https://ko.wikipedia.org/wiki/8월_17일" title="wikilink">8월 17일</a></p></td>
+<td><p><a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/8월_17일.md" title="wikilink">8월 17일</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/VENA_II" title="wikilink">VENA II</a></strong></p></td>
 <td><p>VPCC-82661(CD+DVD)<br />
 VPCC-82341(CD only)</p></td>
@@ -101,23 +101,23 @@ VPCC-82341(CD only)</p></td>
 
 ### 앨범
 
-|     |                                                                                                                     |                                                                                                      |            |
-| --- | ------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------- |
-|     | 발매일                                                                                                                 | 제목                                                                                                   | 음반번호       |
-| 1st | [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [10월 28일](https://ko.wikipedia.org/wiki/10월_28일 "wikilink") | **[Final Destination](https://ko.wikipedia.org/wiki/Final_Destination_\(coldrain의_앨범\) "wikilink")** | VPCC-81647 |
-| 2nd | [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [2월 16일](https://ko.wikipedia.org/wiki/2월_16일 "wikilink")   | **[The Enemy Inside](https://ko.wikipedia.org/wiki/The_Enemy_Inside "wikilink")**                    | VPCC-81698 |
-| 3rd | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [4월 17일](https://ko.wikipedia.org/wiki/4월_17일 "wikilink")   | **[THE REVELATION](https://ko.wikipedia.org/wiki/THE_REVELATION "wikilink")**                        | VPCC-81765 |
-| 4th | [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [10월 21일](https://ko.wikipedia.org/wiki/10월_21일 "wikilink") | **[VENA](https://ko.wikipedia.org/wiki/VENA "wikilink")**                                            | VPCC-81851 |
-| 5th | [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [10월 11일](https://ko.wikipedia.org/wiki/10월_11일 "wikilink") | FATELESS                                                                                             | WPCL-12764 |
+|     |                                                                               |                                                                                                      |            |
+| --- | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------- |
+|     | 발매일                                                                           | 제목                                                                                                   | 음반번호       |
+| 1st | [2009년](../Page/2009년.md "wikilink") [10월 28일](../Page/10월_28일.md "wikilink") | **[Final Destination](https://ko.wikipedia.org/wiki/Final_Destination_\(coldrain의_앨범\) "wikilink")** | VPCC-81647 |
+| 2nd | [2011년](../Page/2011년.md "wikilink") [2월 16일](../Page/2월_16일.md "wikilink")   | **[The Enemy Inside](https://ko.wikipedia.org/wiki/The_Enemy_Inside "wikilink")**                    | VPCC-81698 |
+| 3rd | [2013년](../Page/2013년.md "wikilink") [4월 17일](../Page/4월_17일.md "wikilink")   | **[THE REVELATION](https://ko.wikipedia.org/wiki/THE_REVELATION "wikilink")**                        | VPCC-81765 |
+| 4th | [2015년](../Page/2015년.md "wikilink") [10월 21일](../Page/10월_21일.md "wikilink") | **[VENA](https://ko.wikipedia.org/wiki/VENA "wikilink")**                                            | VPCC-81851 |
+| 5th | [2017년](../Page/2017년.md "wikilink") [10월 11일](../Page/10월_11일.md "wikilink") | FATELESS                                                                                             | WPCL-12764 |
 
 ### 미니 앨범
 
-|     |                                                                                                                   |                                                                                             |            |
-| --- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ---------- |
-|     | 발매일                                                                                                               | 제목                                                                                          | 음반번호       |
-| 1st | [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [6월 23일](https://ko.wikipedia.org/wiki/6월_23일 "wikilink") | **[Nothing Lasts Forever](https://ko.wikipedia.org/wiki/Nothing_Lasts_Forever "wikilink")** | VPCC-81675 |
-| 2nd | [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [7월 4일](https://ko.wikipedia.org/wiki/7월_4일 "wikilink")   | **[Through Clarity](https://ko.wikipedia.org/wiki/Through_Clarity "wikilink")**             | VPCC-81737 |
-| 3rd | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [6월 18일](https://ko.wikipedia.org/wiki/6월_18일 "wikilink") | **[Until the End](https://ko.wikipedia.org/wiki/Until_the_End "wikilink")**                 | VPCC-81808 |
+|     |                                                                             |                                                                                             |            |
+| --- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ---------- |
+|     | 발매일                                                                         | 제목                                                                                          | 음반번호       |
+| 1st | [2010년](../Page/2010년.md "wikilink") [6월 23일](../Page/6월_23일.md "wikilink") | **[Nothing Lasts Forever](https://ko.wikipedia.org/wiki/Nothing_Lasts_Forever "wikilink")** | VPCC-81675 |
+| 2nd | [2012년](../Page/2012년.md "wikilink") [7월 4일](../Page/7월_4일.md "wikilink")   | **[Through Clarity](https://ko.wikipedia.org/wiki/Through_Clarity "wikilink")**             | VPCC-81737 |
+| 3rd | [2014년](../Page/2014년.md "wikilink") [6월 18일](../Page/6월_18일.md "wikilink") | **[Until the End](https://ko.wikipedia.org/wiki/Until_the_End "wikilink")**                 | VPCC-81808 |
 
 ### 영상 작품
 
@@ -131,19 +131,19 @@ VPCC-82341(CD only)</p></td>
 </tr>
 <tr class="even">
 <td><p>1st</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2011년" title="wikilink">2011년</a> <a href="https://ko.wikipedia.org/wiki/12월_7일" title="wikilink">12월 7일</a></p></td>
+<td><p><a href="../Page/2011년.md" title="wikilink">2011년</a> <a href="../Page/12월_7일.md" title="wikilink">12월 7일</a></p></td>
 <td><p>THREE DAYS OF ADRENALINE</p></td>
 <td><p>VPBQ-19071 (DVD)</p></td>
 </tr>
 <tr class="odd">
 <td><p>2nd</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2014년" title="wikilink">2014년</a> <a href="https://ko.wikipedia.org/wiki/4월_30일" title="wikilink">4월 30일</a></p></td>
+<td><p><a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/4월_30일.md" title="wikilink">4월 30일</a></p></td>
 <td><p>EVOLVE</p></td>
 <td><p>VPBQ-19090 (DVD) VPXQ-79004 (Blu-ray)</p></td>
 </tr>
 <tr class="even">
 <td><p>3rd</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2018년" title="wikilink">2018년</a> <a href="https://ko.wikipedia.org/wiki/9월_26일" title="wikilink">9월 26일</a></p></td>
+<td><p><a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/9월_26일.md" title="wikilink">9월 26일</a></p></td>
 <td><p>20180206 LIVE AT BUDOKAN</p></td>
 <td><p>WPZL-90171~73 (DVD - 초회한정반) WPBL-90482 (DVD - 통상반)</p>
 <p>WPZL-90163~65 (Blu-ray - 초회한정반)</p>
@@ -154,12 +154,12 @@ VPCC-82341(CD only)</p></td>
 
 ### 참가 작품
 
-| 발매일                                                                                                               | **제목**                                                                                       | 수록곡                       | 음반번호       |
-| ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------- | ---------- |
-| [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [5월 22일](https://ko.wikipedia.org/wiki/5월_22일 "wikilink") | [더 파이팅 New Challenger](https://ko.wikipedia.org/wiki/더_파이팅 "wikilink") 오리지널 사운드 트랙           | 8AM (TV SIZE)             | VPCG-84893 |
-| [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [7월 23일](https://ko.wikipedia.org/wiki/7월_23일 "wikilink") | [RAINBOW 2사 6방의 7인](https://ko.wikipedia.org/wiki/RAINBOW-2사_6방의_7인- "wikilink") 오리지널 사운드 트랙 | We're not alone (TV SIZE) | VPCG-84904 |
-| [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [2월 9일](https://ko.wikipedia.org/wiki/2월_9일 "wikilink")   | [FUCK THE BORDER LINE](https://ko.wikipedia.org/wiki/FUCK_THE_BORDER_LINE "wikilink")        | CHANDLER                  | AVCD-38206 |
-|                                                                                                                   |                                                                                              |                           |            |
+| 발매일                                                                         | **제목**                                                                                       | 수록곡                       | 음반번호       |
+| --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------- | ---------- |
+| [2009년](../Page/2009년.md "wikilink") [5월 22일](../Page/5월_22일.md "wikilink") | [더 파이팅 New Challenger](../Page/더_파이팅.md "wikilink") 오리지널 사운드 트랙                              | 8AM (TV SIZE)             | VPCG-84893 |
+| [2010년](../Page/2010년.md "wikilink") [7월 23일](../Page/7월_23일.md "wikilink") | [RAINBOW 2사 6방의 7인](https://ko.wikipedia.org/wiki/RAINBOW-2사_6방의_7인- "wikilink") 오리지널 사운드 트랙 | We're not alone (TV SIZE) | VPCG-84904 |
+| [2011년](../Page/2011년.md "wikilink") [2월 9일](../Page/2월_9일.md "wikilink")   | [FUCK THE BORDER LINE](https://ko.wikipedia.org/wiki/FUCK_THE_BORDER_LINE "wikilink")        | CHANDLER                  | AVCD-38206 |
+|                                                                             |                                                                                              |                           |            |
 
 ## 보충 설명
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [COLORS OF LOVE](https://ko.wikipedia.org/wiki/COLORS_OF_LOVE).
 
 
-《**COLORS OF LOVE**》는 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [6월 21일에](https://ko.wikipedia.org/wiki/6월_21일 "wikilink") 발표한 [세렝게티의](../Page/세렝게티_\(밴드\).md "wikilink") 세 번째 정규 앨범이다.
+《**COLORS OF LOVE**》는 [2011년](../Page/2011년.md "wikilink") [6월 21일에](../Page/6월_21일.md "wikilink") 발표한 [세렝게티의](../Page/세렝게티_\(밴드\).md "wikilink") 세 번째 정규 앨범이다.
 
 ## 곡 리스트
 

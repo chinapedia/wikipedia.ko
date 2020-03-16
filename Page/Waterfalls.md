@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Waterfalls](https://ko.wikipedia.org/wiki/Waterfalls).
 
 
-**Waterfalls**는 [피아](https://ko.wikipedia.org/wiki/피아 "wikilink")의 통산 4번째 앨범이자 메이저 3번째 앨범이다. 전체적으로 피아노가 강조된 차분한 분위기를 갖고 있었던 전작에 비해 록 적인 면모가 돋보이는 앨범으로 초기 메탈 노선의 사운드를 벗어나 얼터너티브에 가까운 록 사운드를 들려주고 있다. 타이틀곡은 "Black Fish Swim"이며 이번 앨범도 전작에 이어 "히로노리 사토 (Hironori Satoh)"가 믹싱 엔지니어를 담당하였으며, [3rd Phase에서도](../Page/3rd_Phase.md "wikilink") 마스터링 엔지니어로 참여하였던 "기타무라 슈지 (Shuji Kitamura)"가 [마스터링](https://ko.wikipedia.org/wiki/마스터링 "wikilink")을 담당하였다. 특히 전작들에 비교하여 [신디사이저](https://ko.wikipedia.org/wiki/신디사이저 "wikilink")의 비중이 눈에 띄게 증가하였으며, 그 결과 전체적으로 다채로운 느낌의 사운드를 들려주고 있다. 해외 진출을 고려하여 전곡이 영어 제목으로 되어 있으며 이 앨범 이후 처음으로 일본 클럽 투어를 진행하였고, 일본의 ARIZE INTERNATIONAL을 통해 [Waterfalls](https://ko.wikipedia.org/wiki/Waterfalls "wikilink"), [Urban Explorer](https://ko.wikipedia.org/wiki/Urban_Explorer "wikilink") 가 일본에서 발매되는 등 본격적인 해외 활동의 시작점이 된 앨범이다.
+**Waterfalls**는 [피아](https://ko.wikipedia.org/wiki/피아 "wikilink")의 통산 4번째 앨범이자 메이저 3번째 앨범이다. 전체적으로 피아노가 강조된 차분한 분위기를 갖고 있었던 전작에 비해 록 적인 면모가 돋보이는 앨범으로 초기 메탈 노선의 사운드를 벗어나 얼터너티브에 가까운 록 사운드를 들려주고 있다. 타이틀곡은 "Black Fish Swim"이며 이번 앨범도 전작에 이어 "히로노리 사토 (Hironori Satoh)"가 믹싱 엔지니어를 담당하였으며, [3rd Phase에서도](../Page/3rd_Phase.md "wikilink") 마스터링 엔지니어로 참여하였던 "기타무라 슈지 (Shuji Kitamura)"가 [마스터링](https://ko.wikipedia.org/wiki/마스터링 "wikilink")을 담당하였다. 특히 전작들에 비교하여 [신디사이저](https://ko.wikipedia.org/wiki/신디사이저 "wikilink")의 비중이 눈에 띄게 증가하였으며, 그 결과 전체적으로 다채로운 느낌의 사운드를 들려주고 있다. 해외 진출을 고려하여 전곡이 영어 제목으로 되어 있으며 이 앨범 이후 처음으로 일본 클럽 투어를 진행하였고, 일본의 ARIZE INTERNATIONAL을 통해 [Waterfalls](../Page/Waterfalls.md "wikilink"), [Urban Explorer](../Page/Urban_Explorer.md "wikilink") 가 일본에서 발매되는 등 본격적인 해외 활동의 시작점이 된 앨범이다.
 
 ## 곡 목록
 

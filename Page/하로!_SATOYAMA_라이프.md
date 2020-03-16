@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [! SATOYAMA ](https://ko.wikipedia.org/wiki/!_SATOYAMA_).
 
 
-《**하로\! SATOYAMA 라이프**》()은 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [6월 7일부터](https://ko.wikipedia.org/wiki/6월_7일 "wikilink") [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [12월 26일까지](https://ko.wikipedia.org/wiki/12월_26일 "wikilink") [TV 도쿄](../Page/TV_도쿄.md "wikilink") 계열에서 목요일 심야에 방송되고 있는 [헬로\! 프로젝트](../Page/헬로!_프로젝트.md "wikilink") 멤버 출연의 TV 프로그램이다.
+《**하로\! SATOYAMA 라이프**》()은 [2012년](../Page/2012년.md "wikilink") [6월 7일부터](../Page/6월_7일.md "wikilink") [2013년](../Page/2013년.md "wikilink") [12월 26일까지](../Page/12월_26일.md "wikilink") [TV 도쿄](../Page/TV_도쿄.md "wikilink") 계열에서 목요일 심야에 방송되고 있는 [헬로\! 프로젝트](../Page/헬로!_프로젝트.md "wikilink") 멤버 출연의 TV 프로그램이다.
 
 ## 개요
 
@@ -9,7 +9,7 @@
 
 ## 출연자
 
-  - [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink")
+  - [모닝구무스메](../Page/모닝구무스메.md "wikilink")
   - [스마이레지](https://ko.wikipedia.org/wiki/스마이레지 "wikilink")
   - [미츠이 아이카](../Page/미츠이_아이카.md "wikilink")
   - [사야시 리호](../Page/사야시_리호.md "wikilink")
@@ -31,52 +31,52 @@
 
 <!-- end list -->
 
-  - [마노 에리나](https://ko.wikipedia.org/wiki/마노_에리나 "wikilink") (2013년 2월 21일까지)
+  - [마노 에리나](../Page/마노_에리나.md "wikilink") (2013년 2월 21일까지)
   - [시노다 쥰코](https://ko.wikipedia.org/wiki/시노다_쥰코 "wikilink") (나레이션, 2013년 6월 27일까지)
 
 ## 방송국과 방송 시간
 
-| 주요 방송 지역                                                  | 방송국                                                           | 방송 기간                                                                                                                                                                                                                                  | 계열                                                              | 방송 요일과 방송 시간       |
-| --------------------------------------------------------- | ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ------------------ |
-| [간토 광역권](https://ko.wikipedia.org/wiki/간토_광역권 "wikilink") | [TV 도쿄](../Page/TV_도쿄.md "wikilink") (제작국)                    | [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [6월 7일](https://ko.wikipedia.org/wiki/6월_7일 "wikilink") \~ [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [12월 26일](https://ko.wikipedia.org/wiki/12월_26일 "wikilink") | [TV 도쿄 계열](https://ko.wikipedia.org/wiki/TV_도쿄_네트워크 "wikilink") | 목요일 25:00 \~ 25:30 |
-| 전국                                                        | [BS JAPAN](https://ko.wikipedia.org/wiki/BS_JAPAN "wikilink") | 2012년 [6월 9일](https://ko.wikipedia.org/wiki/6월_9일 "wikilink") \~ 2013년 [12월 28일](https://ko.wikipedia.org/wiki/12월_28일 "wikilink")                                                                                                     | [BS 디지털](https://ko.wikipedia.org/wiki/BS_디지털 "wikilink")       | 토요일 09:30 \~ 10:00 |
-| [시가현](https://ko.wikipedia.org/wiki/시가현 "wikilink")       | [비와코 방송](../Page/비와코_방송.md "wikilink")                        | 2012년 [6월 24일](https://ko.wikipedia.org/wiki/6월_24일 "wikilink") \~ [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [1월 12일](https://ko.wikipedia.org/wiki/1월_12일 "wikilink")                                                   | [JAITS](https://ko.wikipedia.org/wiki/JAITS "wikilink")         | 일요일 23:30 \~ 24:00 |
-|                                                           |                                                               |                                                                                                                                                                                                                                        |                                                                 |                    |
+| 주요 방송 지역                                                  | 방송국                                                           | 방송 기간                                                                                                                                                      | 계열                                                              | 방송 요일과 방송 시간       |
+| --------------------------------------------------------- | ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ------------------ |
+| [간토 광역권](https://ko.wikipedia.org/wiki/간토_광역권 "wikilink") | [TV 도쿄](../Page/TV_도쿄.md "wikilink") (제작국)                    | [2012년](../Page/2012년.md "wikilink") [6월 7일](../Page/6월_7일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [12월 26일](../Page/12월_26일.md "wikilink") | [TV 도쿄 계열](https://ko.wikipedia.org/wiki/TV_도쿄_네트워크 "wikilink") | 목요일 25:00 \~ 25:30 |
+| 전국                                                        | [BS JAPAN](https://ko.wikipedia.org/wiki/BS_JAPAN "wikilink") | 2012년 [6월 9일](../Page/6월_9일.md "wikilink") \~ 2013년 [12월 28일](../Page/12월_28일.md "wikilink")                                                               | [BS 디지털](https://ko.wikipedia.org/wiki/BS_디지털 "wikilink")       | 토요일 09:30 \~ 10:00 |
+| [시가현](../Page/시가현.md "wikilink")                          | [비와코 방송](../Page/비와코_방송.md "wikilink")                        | 2012년 [6월 24일](../Page/6월_24일.md "wikilink") \~ [2014년](../Page/2014년.md "wikilink") [1월 12일](../Page/1월_12일.md "wikilink")                                | [JAITS](https://ko.wikipedia.org/wiki/JAITS "wikilink")         | 일요일 23:30 \~ 24:00 |
+|                                                           |                                                               |                                                                                                                                                            |                                                                 |                    |
 
 ## DVD
 
-  - 하로\! SATOYAMA 라이프 Vol.1 (2013년 [4월 24일](https://ko.wikipedia.org/wiki/4월_24일 "wikilink"))
-  - 하로\! SATOYAMA 라이프 Vol.2 (2013년 [4월 24일](https://ko.wikipedia.org/wiki/4월_24일 "wikilink"))
-  - 하로\! SATOYAMA 라이프 Vol.3 (2013년 [6월 12일](https://ko.wikipedia.org/wiki/6월_12일 "wikilink"))
-  - 하로\! SATOYAMA 라이프 Vol.4 (2013년 [6월 12일](https://ko.wikipedia.org/wiki/6월_12일 "wikilink"))
-  - 하로\! SATOYAMA 라이프 Vol.5 (2013년 [7월 3일](https://ko.wikipedia.org/wiki/7월_3일 "wikilink"))
-  - 하로\! SATOYAMA 라이프 Vol.6 (2013년 [7월 3일](https://ko.wikipedia.org/wiki/7월_3일 "wikilink"))
-  - 하로\! SATOYAMA 라이프 Vol.7 (2013년 [8월 14일](https://ko.wikipedia.org/wiki/8월_14일 "wikilink"))
-  - 하로\! SATOYAMA 라이프 Vol.8 (2013년 [8월 14일](https://ko.wikipedia.org/wiki/8월_14일 "wikilink"))
-  - 하로\! SATOYAMA 라이프 Vol.9 (2013년 [9월 4일](https://ko.wikipedia.org/wiki/9월_4일 "wikilink"))
-  - 하로\! SATOYAMA 라이프 Vol.10 (2013년 [9월 4일](https://ko.wikipedia.org/wiki/9월_4일 "wikilink"))
-  - 하로\! SATOYAMA 라이프 Vol.11 (2013년 [10월 23일](https://ko.wikipedia.org/wiki/10월_23일 "wikilink"))
-  - 하로\! SATOYAMA 라이프 Vol.12 (2013년 [10월 23일](https://ko.wikipedia.org/wiki/10월_23일 "wikilink"))
-  - 하로\! SATOYAMA 라이프 Vol.13 (2013년 [11월 20일](https://ko.wikipedia.org/wiki/11월_20일 "wikilink"))
-  - 하로\! SATOYAMA 라이프 Vol.14 (2013년 [11월 20일](https://ko.wikipedia.org/wiki/11월_20일 "wikilink"))
-  - 하로\! SATOYAMA 라이프 Vol.15 (2013년 [12월 4일](https://ko.wikipedia.org/wiki/12월_4일 "wikilink"))
-  - 하로\! SATOYAMA 라이프 Vol.16 (2013년 [12월 4일](https://ko.wikipedia.org/wiki/12월_4일 "wikilink"))
-  - 하로\! SATOYAMA 라이프 Vol.17 (2013년 [12월 18일](https://ko.wikipedia.org/wiki/12월_18일 "wikilink"))
-  - 하로\! SATOYAMA 라이프 Vol.18 (2013년 [12월 18일](https://ko.wikipedia.org/wiki/12월_18일 "wikilink"))
-  - 하로\! SATOYAMA 라이프 Vol.19 (2014년 [2월 5일](https://ko.wikipedia.org/wiki/2월_5일 "wikilink"))
-  - 하로\! SATOYAMA 라이프 Vol.20 (2014년 [2월 5일](https://ko.wikipedia.org/wiki/2월_5일 "wikilink"))
+  - 하로\! SATOYAMA 라이프 Vol.1 (2013년 [4월 24일](../Page/4월_24일.md "wikilink"))
+  - 하로\! SATOYAMA 라이프 Vol.2 (2013년 [4월 24일](../Page/4월_24일.md "wikilink"))
+  - 하로\! SATOYAMA 라이프 Vol.3 (2013년 [6월 12일](../Page/6월_12일.md "wikilink"))
+  - 하로\! SATOYAMA 라이프 Vol.4 (2013년 [6월 12일](../Page/6월_12일.md "wikilink"))
+  - 하로\! SATOYAMA 라이프 Vol.5 (2013년 [7월 3일](../Page/7월_3일.md "wikilink"))
+  - 하로\! SATOYAMA 라이프 Vol.6 (2013년 [7월 3일](../Page/7월_3일.md "wikilink"))
+  - 하로\! SATOYAMA 라이프 Vol.7 (2013년 [8월 14일](../Page/8월_14일.md "wikilink"))
+  - 하로\! SATOYAMA 라이프 Vol.8 (2013년 [8월 14일](../Page/8월_14일.md "wikilink"))
+  - 하로\! SATOYAMA 라이프 Vol.9 (2013년 [9월 4일](../Page/9월_4일.md "wikilink"))
+  - 하로\! SATOYAMA 라이프 Vol.10 (2013년 [9월 4일](../Page/9월_4일.md "wikilink"))
+  - 하로\! SATOYAMA 라이프 Vol.11 (2013년 [10월 23일](../Page/10월_23일.md "wikilink"))
+  - 하로\! SATOYAMA 라이프 Vol.12 (2013년 [10월 23일](../Page/10월_23일.md "wikilink"))
+  - 하로\! SATOYAMA 라이프 Vol.13 (2013년 [11월 20일](../Page/11월_20일.md "wikilink"))
+  - 하로\! SATOYAMA 라이프 Vol.14 (2013년 [11월 20일](../Page/11월_20일.md "wikilink"))
+  - 하로\! SATOYAMA 라이프 Vol.15 (2013년 [12월 4일](../Page/12월_4일.md "wikilink"))
+  - 하로\! SATOYAMA 라이프 Vol.16 (2013년 [12월 4일](../Page/12월_4일.md "wikilink"))
+  - 하로\! SATOYAMA 라이프 Vol.17 (2013년 [12월 18일](../Page/12월_18일.md "wikilink"))
+  - 하로\! SATOYAMA 라이프 Vol.18 (2013년 [12월 18일](../Page/12월_18일.md "wikilink"))
+  - 하로\! SATOYAMA 라이프 Vol.19 (2014년 [2월 5일](../Page/2월_5일.md "wikilink"))
+  - 하로\! SATOYAMA 라이프 Vol.20 (2014년 [2월 5일](../Page/2월_5일.md "wikilink"))
   - 하로\! SATOYAMA 라이프 Vol.21 (2014년 [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink"))
   - 하로\! SATOYAMA 라이프 Vol.22 (2014년 [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink"))
-  - 하로\! SATOYAMA 라이프 Vol.23 (2014년 [3월 19일](https://ko.wikipedia.org/wiki/3월_19일 "wikilink"))
-  - 하로\! SATOYAMA 라이프 Vol.24 (2014년 [3월 19일](https://ko.wikipedia.org/wiki/3월_19일 "wikilink"))
-  - 하로\! SATOYAMA 라이프 Vol.25 (2014년 [5월 14일](https://ko.wikipedia.org/wiki/5월_14일 "wikilink"))
-  - 하로\! SATOYAMA 라이프 Vol.26 (2014년 [5월 14일](https://ko.wikipedia.org/wiki/5월_14일 "wikilink"))
-  - 하로\! SATOYAMA 라이프 Vol.27 (2014년 [5월 28일](https://ko.wikipedia.org/wiki/5월_28일 "wikilink"))
-  - 하로\! SATOYAMA 라이프 Vol.28 (2014년 [5월 28일](https://ko.wikipedia.org/wiki/5월_28일 "wikilink"))
-  - 하로\! SATOYAMA 라이프 Vol.29 (2014년 [6월 25일](https://ko.wikipedia.org/wiki/6월_25일 "wikilink"))
-  - 하로\! SATOYAMA 라이프 Vol.30 (2014년 [6월 25일](https://ko.wikipedia.org/wiki/6월_25일 "wikilink"))
-  - 하로\! SATOYAMA 라이프 Vol.31 (2014년 [8월 6일](https://ko.wikipedia.org/wiki/8월_6일 "wikilink"))
-  - 하로\! SATOYAMA 라이프 Vol.32 (2014년 [8월 6일](https://ko.wikipedia.org/wiki/8월_6일 "wikilink"))
+  - 하로\! SATOYAMA 라이프 Vol.23 (2014년 [3월 19일](../Page/3월_19일.md "wikilink"))
+  - 하로\! SATOYAMA 라이프 Vol.24 (2014년 [3월 19일](../Page/3월_19일.md "wikilink"))
+  - 하로\! SATOYAMA 라이프 Vol.25 (2014년 [5월 14일](../Page/5월_14일.md "wikilink"))
+  - 하로\! SATOYAMA 라이프 Vol.26 (2014년 [5월 14일](../Page/5월_14일.md "wikilink"))
+  - 하로\! SATOYAMA 라이프 Vol.27 (2014년 [5월 28일](../Page/5월_28일.md "wikilink"))
+  - 하로\! SATOYAMA 라이프 Vol.28 (2014년 [5월 28일](../Page/5월_28일.md "wikilink"))
+  - 하로\! SATOYAMA 라이프 Vol.29 (2014년 [6월 25일](../Page/6월_25일.md "wikilink"))
+  - 하로\! SATOYAMA 라이프 Vol.30 (2014년 [6월 25일](../Page/6월_25일.md "wikilink"))
+  - 하로\! SATOYAMA 라이프 Vol.31 (2014년 [8월 6일](../Page/8월_6일.md "wikilink"))
+  - 하로\! SATOYAMA 라이프 Vol.32 (2014년 [8월 6일](../Page/8월_6일.md "wikilink"))
 
 ## 외부 링크
 

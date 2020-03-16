@@ -7,9 +7,9 @@
 
 | CU 편의점 지역별 점포수                                              |
 | ----------------------------------------------------------- |
-| [서울특별시](https://ko.wikipedia.org/wiki/서울특별시 "wikilink")     |
+| [서울특별시](../Page/서울특별시.md "wikilink")                        |
 | [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink")     |
-| [대구광역시](https://ko.wikipedia.org/wiki/대구광역시 "wikilink")     |
+| [대구광역시](../Page/대구광역시.md "wikilink")                        |
 | [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink")     |
 | [광주광역시](https://ko.wikipedia.org/wiki/광주광역시 "wikilink")     |
 | [대전광역시](https://ko.wikipedia.org/wiki/대전광역시 "wikilink")     |
@@ -26,22 +26,22 @@
 | [제주특별자치도](https://ko.wikipedia.org/wiki/제주특별자치도 "wikilink") |
 | 2019\. 3. 1 현재                                              |
 
-[대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") 종합유통서비스 기업인 [BGF리테일](../Page/BGF리테일.md "wikilink")이 2012년 8월 신규 런칭한 편의점 브랜드이다. CU는 국내 소비자의 특성과 매정별 입지를 과학적으로 분석해을 표방한 새로운 개념의 편의점으로 생활의 편의를 돕고(Convenience) 최상의 상품과 서비스, 운영상의 편의성과 수익성으로 고객과 가맹점주(You)를 소중히 모시는 생활 속 쉼터를 조성하겠다는 뜻을 담아 이들 영어단어의 앞 글자로 조합한 이름이다. 현재 대한민국 최대 프랜차이즈망을 바탕으로 다양한 상품과 서비스를 고객들에게 제공하고 있다. 초창기에는 혼동 방지를 위해 'with FamilyMart'가 붙었지만, 상장 이후에는 [훼미리마트](../Page/훼미리마트.md "wikilink") 측이 BGF리테일의 지분을 모두 매각하면서 with Familymart 문구를 빼고 BGF리테일 로고로 교체하였다.
+[대한민국](../Page/대한민국.md "wikilink") 종합유통서비스 기업인 [BGF리테일](../Page/BGF리테일.md "wikilink")이 2012년 8월 신규 런칭한 편의점 브랜드이다. CU는 국내 소비자의 특성과 매정별 입지를 과학적으로 분석해을 표방한 새로운 개념의 편의점으로 생활의 편의를 돕고(Convenience) 최상의 상품과 서비스, 운영상의 편의성과 수익성으로 고객과 가맹점주(You)를 소중히 모시는 생활 속 쉼터를 조성하겠다는 뜻을 담아 이들 영어단어의 앞 글자로 조합한 이름이다. 현재 대한민국 최대 프랜차이즈망을 바탕으로 다양한 상품과 서비스를 고객들에게 제공하고 있다. 초창기에는 혼동 방지를 위해 'with FamilyMart'가 붙었지만, 상장 이후에는 [훼미리마트](../Page/훼미리마트.md "wikilink") 측이 BGF리테일의 지분을 모두 매각하면서 with Familymart 문구를 빼고 BGF리테일 로고로 교체하였다.
 
 ## 제휴 카드
 
-  - 통신사 제휴 [SK텔레콤](https://ko.wikipedia.org/wiki/SK텔레콤 "wikilink")-T멤버십
+  - 통신사 제휴 [SK텔레콤](../Page/SK텔레콤.md "wikilink")-T멤버십
   - OK캐쉬백 할인.
   - E1 오렌지 카드 적립, 할인.
   - 해피 포인트 할인.
   - 하나머니 포인트.
-  - [그린카드로](https://ko.wikipedia.org/wiki/그린카드_\(상품\) "wikilink") 지정상품 구매시 적립받을 수 있는 에코머니 외에는 아예 적립받을 수 없다.
-  - CU 포인트 적립, 할인. CU 포인트 적립을 [T-멤버십](https://ko.wikipedia.org/wiki/SK텔레콤 "wikilink") 할인과 동시에 적용하려면, 포켓CU 앱에 T-멤버십 번호를 등록한 후 통합 바코드를 제시해야 한다.
+  - [그린카드로](../Page/그린카드_\(상품\).md "wikilink") 지정상품 구매시 적립받을 수 있는 에코머니 외에는 아예 적립받을 수 없다.
+  - CU 포인트 적립, 할인. CU 포인트 적립을 [T-멤버십](../Page/SK텔레콤.md "wikilink") 할인과 동시에 적용하려면, 포켓CU 앱에 T-멤버십 번호를 등록한 후 통합 바코드를 제시해야 한다.
 
 ## 서비스
 
   - 택배 픽업 서비스
-    [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") 11월부터 [소셜커머스](https://ko.wikipedia.org/wiki/소셜_커머스 "wikilink") 티몬과 제휴해‘택배 픽업’서비스를 제공하고 있다. 2017년 [5월 1일부터는](https://ko.wikipedia.org/wiki/5월_1일 "wikilink") [SK플래닛](../Page/SK플래닛.md "wikilink")의 온라인 쇼핑몰 [11번가](https://ko.wikipedia.org/wiki/11번가 "wikilink")와 제휴해 24시간 택배 픽업 서비스를 제공하기로 했다.\[1\]
+    [2016년](../Page/2016년.md "wikilink") 11월부터 [소셜커머스](https://ko.wikipedia.org/wiki/소셜_커머스 "wikilink") 티몬과 제휴해‘택배 픽업’서비스를 제공하고 있다. 2017년 [5월 1일부터는](../Page/5월_1일.md "wikilink") [SK플래닛](../Page/SK플래닛.md "wikilink")의 온라인 쇼핑몰 [11번가](../Page/11번가.md "wikilink")와 제휴해 24시간 택배 픽업 서비스를 제공하기로 했다.\[1\]
 
 ## BI 변천사
 

@@ -17,7 +17,7 @@
       -
         작사·작곡: 히비노 히로후미 / 편곡: ha-j, 요시오카 타쿠
     <!-- end list -->
-      - 《배구 월드 그랑프리 2005》([후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 계열) 이미지 송.
+      - 《배구 월드 그랑프리 2005》([후지 TV](../Page/후지_TV.md "wikilink") 계열) 이미지 송.
 2.  **** / **<small>꿈의 수만큼 사랑이 태어난다</small>**
       -
         작사: zopp / 작곡: Larry Forsberg, Sven-lnge Sjoberg, Lennart Wastesson

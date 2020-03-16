@@ -20,7 +20,7 @@
 ## 관련 항목
 
   - [kbc](../Page/광주방송.md "wikilink")
-  - [SBS 오 뉴스](https://ko.wikipedia.org/wiki/SBS_오_뉴스 "wikilink")
+  - [SBS 오 뉴스](../Page/SBS_오_뉴스.md "wikilink")
 
 ## 외부 링크
 

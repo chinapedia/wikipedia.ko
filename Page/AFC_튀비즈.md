@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [AFC ](https://ko.wikipedia.org/wiki/AFC_).
 
 
-**AFC 튀비즈**(A.F.C. Tubize)는 [튀비즈](https://ko.wikipedia.org/wiki/튀비즈 "wikilink")를 연고로 하는 [벨기에](https://ko.wikipedia.org/wiki/벨기에 "wikilink")의 축구 클럽이다.
+**AFC 튀비즈**(A.F.C. Tubize)는 [튀비즈](https://ko.wikipedia.org/wiki/튀비즈 "wikilink")를 연고로 하는 [벨기에](../Page/벨기에.md "wikilink")의 축구 클럽이다.
 
 ## 개요
 
-1953년 창단되었으며, 2014년 8월 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 기업 [스포티즌](../Page/스포티즌.md "wikilink")에 인수되었다.\[1\]
+1953년 창단되었으며, 2014년 8월 [대한민국](../Page/대한민국.md "wikilink")의 기업 [스포티즌](../Page/스포티즌.md "wikilink")에 인수되었다.\[1\]
 
-[황진성](https://ko.wikipedia.org/wiki/황진성_\(축구_선수\) "wikilink"), [남승우](../Page/남승우.md "wikilink") 등의 한국선수를 영입하였고, 코치로 [김은중](../Page/김은중.md "wikilink")을 영입하였다.\[2\] [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink")에는 전지훈련 차원에서 한국을 방문해 코치 김은중의 은퇴 경기인 [대전 시티즌과의](https://ko.wikipedia.org/wiki/대전_시티즌 "wikilink") [It's Daejeon 축구대회에](../Page/It's_Daejeon_축구대회.md "wikilink") 참가하였으며,\[3\] 전지훈련 기간 중에도 [고려대학교](https://ko.wikipedia.org/wiki/고려대학교 "wikilink"), [경주 한수원](../Page/경주_한국수력원자력_축구단.md "wikilink"), [전북 현대](https://ko.wikipedia.org/wiki/전북_현대 "wikilink") 등과 친선경기를 가졌다.\[4\]
+[황진성](https://ko.wikipedia.org/wiki/황진성_\(축구_선수\) "wikilink"), [남승우](../Page/남승우.md "wikilink") 등의 한국선수를 영입하였고, 코치로 [김은중](../Page/김은중.md "wikilink")을 영입하였다.\[2\] [2016년](../Page/2016년.md "wikilink")에는 전지훈련 차원에서 한국을 방문해 코치 김은중의 은퇴 경기인 [대전 시티즌과의](https://ko.wikipedia.org/wiki/대전_시티즌 "wikilink") [It's Daejeon 축구대회에](../Page/It's_Daejeon_축구대회.md "wikilink") 참가하였으며,\[3\] 전지훈련 기간 중에도 [고려대학교](https://ko.wikipedia.org/wiki/고려대학교 "wikilink"), [경주 한수원](../Page/경주_한국수력원자력_축구단.md "wikilink"), [전북 현대](https://ko.wikipedia.org/wiki/전북_현대 "wikilink") 등과 친선경기를 가졌다.\[4\]
 
 ## 역사
 
@@ -29,7 +29,7 @@
 
 ## 선수 명단
 
-[2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [8월 17일](https://ko.wikipedia.org/wiki/8월_17일 "wikilink") 기준
+[2017년](../Page/2017년.md "wikilink") [8월 17일](../Page/8월_17일.md "wikilink") 기준
 
 ### 임대
 

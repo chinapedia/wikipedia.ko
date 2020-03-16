@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DAY BY DAY \(EP\)](https://ko.wikipedia.org/wiki/DAY_BY_DAY_\(EP\)).
 
 
-《**DAY BY DAY**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악 그룹 [티아라의](https://ko.wikipedia.org/wiki/티아라_\(음악_그룹\) "wikilink") 네 번째 미니 앨범이다. [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [7월 3일에](https://ko.wikipedia.org/wiki/7월_3일 "wikilink") 발매되었으며 공개 직후 음원 사이트를 장악하였다.
+《**DAY BY DAY**》는 [대한민국](../Page/대한민국.md "wikilink")의 음악 그룹 [티아라의](../Page/티아라_\(음악_그룹\).md "wikilink") 네 번째 미니 앨범이다. [2012년](../Page/2012년.md "wikilink") [7월 3일에](../Page/7월_3일.md "wikilink") 발매되었으며 공개 직후 음원 사이트를 장악하였다.
 
 ## 수록곡
 

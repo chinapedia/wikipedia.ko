@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [F\&](https://ko.wikipedia.org/wiki/F\&).
 
 
-《**F&**》(에프앤)은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서 발행되는 월간 축구 [잡지](https://ko.wikipedia.org/wiki/잡지 "wikilink")로 '풋볼 매거북'이라는 제창하에 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [7월 16일](https://ko.wikipedia.org/wiki/7월_16일 "wikilink") 창간되었다. F&의 어원은 F는 '[축구](https://ko.wikipedia.org/wiki/축구 "wikilink")(Football)'의 약자이며, &은 '그리고'를 의미한다. [축구](https://ko.wikipedia.org/wiki/축구 "wikilink")를 코어(core)로 삼고, 축구 이외의 세상과 적극적으로 소통하고자하는 의미를 담고 있다.
+《**F&**》(에프앤)은 [대한민국](../Page/대한민국.md "wikilink")에서 발행되는 월간 축구 [잡지](../Page/잡지.md "wikilink")로 '풋볼 매거북'이라는 제창하에 [2012년](../Page/2012년.md "wikilink") [7월 16일](../Page/7월_16일.md "wikilink") 창간되었다. F&의 어원은 F는 '[축구](../Page/축구.md "wikilink")(Football)'의 약자이며, &은 '그리고'를 의미한다. [축구](../Page/축구.md "wikilink")를 코어(core)로 삼고, 축구 이외의 세상과 적극적으로 소통하고자하는 의미를 담고 있다.
 
 2012년 7월 창간호의 표지는 [퀸즈 파크 레인저스와의](../Page/퀸스_파크_레인저스_FC.md "wikilink") 조인식 당일 '로프터스 로드 스타디움'에서 촬영된 [박지성](https://ko.wikipedia.org/wiki/박지성 "wikilink")을 모델로 하였다.\[1\]
 
 ## 연혁
 
-[2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [7월 16일](https://ko.wikipedia.org/wiki/7월_16일 "wikilink") [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서 창간되었다.
+[2012년](../Page/2012년.md "wikilink") [7월 16일](../Page/7월_16일.md "wikilink") [대한민국](../Page/대한민국.md "wikilink")에서 창간되었다.
 
-[2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [10월](https://ko.wikipedia.org/wiki/10월 "wikilink") 11월호이자 통권 27호 발간 후 휴간 중이다.
+[2014년](../Page/2014년.md "wikilink") [10월](../Page/10월.md "wikilink") 11월호이자 통권 27호 발간 후 휴간 중이다.
 
 ## 각주
 

@@ -8,7 +8,7 @@
 〈WINTER PARTY DIAMOND LIVE TOUR〉 (2008년 10월 25일 \~ 2009년 1월 12일/전국 10개소)의 최종 공연이 되는, 오사카·쿄세라 돔 09년 1월 12일의 모습&투어 다큐멘터리를 수록한 LIVE DVD.
 
   - SPECIAL REEL로서 멤버 각자가 셀프 프로듀스한 Music Clip.
-  - 특전 영상에 LIVE의 오프닝을 장식한, [타키자와 히데아키가](https://ko.wikipedia.org/wiki/타키자와_히데아키 "wikilink") 감독한 영상의 메이킹 풍경을 수록.
+  - 특전 영상에 LIVE의 오프닝을 장식한, [타키자와 히데아키가](../Page/타키자와_히데아키.md "wikilink") 감독한 영상의 메이킹 풍경을 수록.
   - 초회·통상의 패키지는 다르지만, 수록 내용은 같다 (음성 채널만 다르다).
 
 ### 초회 생산 한정
@@ -51,7 +51,7 @@ LIVE 본편
 
 11. Party Time
 
-12. / <small>샤라라 탬버린</small> ([카토 시게아키](https://ko.wikipedia.org/wiki/카토_시게아키 "wikilink") 솔로)
+12. / <small>샤라라 탬버린</small> ([카토 시게아키](../Page/카토_시게아키.md "wikilink") 솔로)
 
 13. / <small>사랑의 투우사</small> ([테고시 유야](../Page/테고시_유야.md "wikilink") 솔로)
 
@@ -73,9 +73,9 @@ LIVE 본편
 
 ### DISC2
 
-1.  / <small>긴자 랩소디</small> (코야마P: [코야마 케이치로](https://ko.wikipedia.org/wiki/코야마_케이치로 "wikilink"), [야마시타 토모히사](../Page/야마시타_토모히사.md "wikilink"))
+1.  / <small>긴자 랩소디</small> (코야마P: [코야마 케이치로](../Page/코야마_케이치로.md "wikilink"), [야마시타 토모히사](../Page/야마시타_토모히사.md "wikilink"))
 
-2.  / <small>함께 쓴 우산</small> ([테고마스](https://ko.wikipedia.org/wiki/테고마스 "wikilink"))
+2.  / <small>함께 쓴 우산</small> ([테고마스](../Page/테고마스.md "wikilink"))
 
 3.  / <small>한겨울의 별똥별</small>
 
@@ -93,7 +93,7 @@ LIVE 본편
 
 10. MOLA (야마시타 토모히사 솔로)
 
-11. ordinary ([니시키도 료](https://ko.wikipedia.org/wiki/니시키도_료 "wikilink") 솔로)
+11. ordinary ([니시키도 료](../Page/니시키도_료.md "wikilink") 솔로)
 
 12. Change the World
 
@@ -129,12 +129,12 @@ LIVE 본편
 2.  11.1 \~ 2 선돔 후쿠이
 3.  11.15 \~ 16 마코마나이 세키스이하임 아이스 아레나
 4.  12.6 \~ 7 오이타·비콘 프라자 컨벤션 홀
-5.  12.13 \~ 14 [히로시마 그린 아레나](https://ko.wikipedia.org/wiki/히로시마_현립_종합_체육관 "wikilink")
+5.  12.13 \~ 14 [히로시마 그린 아레나](../Page/히로시마_현립_종합_체육관.md "wikilink")
 6.  12.17 \~ 18 그랑멧세 쿠마모토
 7.  12.21 \~ 23 나고야·니혼 가이시 스포츠 프라자 가이시 홀
 8.  12.27 \~ 28 마린멧세 후쿠오카
-9.  12.30 \~ 31, 1.1 [도쿄 돔](https://ko.wikipedia.org/wiki/도쿄_돔 "wikilink")
-10. 1.10 \~ 12 [쿄세라 돔 오사카](https://ko.wikipedia.org/wiki/오사카_돔 "wikilink")
+9.  12.30 \~ 31, 1.1 [도쿄 돔](../Page/도쿄_돔.md "wikilink")
+10. 1.10 \~ 12 [쿄세라 돔 오사카](../Page/오사카_돔.md "wikilink")
 
 ## SPECIAL REEL
 

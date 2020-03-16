@@ -7,11 +7,11 @@
 
 ### 박지민
 
-박지민(1997년 7월 5일 \~ )은 우승자로, 소속사는 [JYP 엔터테인먼트이다](../Page/JYP_엔터테인먼트.md "wikilink"). [15&](https://ko.wikipedia.org/wiki/15& "wikilink")로 [백예린](https://ko.wikipedia.org/wiki/백예린 "wikilink")과 데뷔했다.
+박지민(1997년 7월 5일 \~ )은 우승자로, 소속사는 [JYP 엔터테인먼트이다](../Page/JYP_엔터테인먼트.md "wikilink"). [15&](../Page/15&.md "wikilink")로 [백예린](../Page/백예린.md "wikilink")과 데뷔했다.
 
 ### 이하이
 
-이하이(1996년 9월 23일 \~ )은 준우승자로, 소속사는 [YG 엔터테인먼트이다](https://ko.wikipedia.org/wiki/YG_엔터테인먼트 "wikilink").
+이하이(1996년 9월 23일 \~ )은 준우승자로, 소속사는 [YG 엔터테인먼트이다](../Page/YG_엔터테인먼트.md "wikilink").
 
 ### 백아연
 
@@ -19,11 +19,11 @@
 
 ### 이승훈
 
-**[이승훈](../Page/이승훈_\(가수\).md "wikilink")**(1992년 1월 11일\~)은 Top 4를 한 인물로, 현재 [YG 엔터테인먼트](https://ko.wikipedia.org/wiki/YG_엔터테인먼트 "wikilink") 소속이고 [WINNER](https://ko.wikipedia.org/wiki/WINNER "wikilink")로 데뷔했다.
+**[이승훈](../Page/이승훈_\(가수\).md "wikilink")**(1992년 1월 11일\~)은 Top 4를 한 인물로, 현재 [YG 엔터테인먼트](../Page/YG_엔터테인먼트.md "wikilink") 소속이고 [WINNER](https://ko.wikipedia.org/wiki/WINNER "wikilink")로 데뷔했다.
 
 ### 이미쉘
 
-**이미쉘**(1991년 9월 9일 \~ )은 Top 5를 한 인물로, 이후 [YG 엔터테인먼트와](https://ko.wikipedia.org/wiki/YG_엔터테인먼트 "wikilink") 계약했으나 불화로 계약을 해지하고 이적했다. 현재 [디마엔터테인먼트](https://ko.wikipedia.org/wiki/디마엔터테인먼트 "wikilink") 소속. 2014년 3월 21일 디지털싱글 1집 위드아웃 유(without you)를 발표했다.
+**이미쉘**(1991년 9월 9일 \~ )은 Top 5를 한 인물로, 이후 [YG 엔터테인먼트와](../Page/YG_엔터테인먼트.md "wikilink") 계약했으나 불화로 계약을 해지하고 이적했다. 현재 [디마엔터테인먼트](https://ko.wikipedia.org/wiki/디마엔터테인먼트 "wikilink") 소속. 2014년 3월 21일 디지털싱글 1집 위드아웃 유(without you)를 발표했다.
 
 ### 박제형
 
@@ -31,7 +31,7 @@
 
 ### 윤현상
 
-**윤현상**(1994년 1월 14일 \~ )은 Top 7을 한 인물로, 현재 [문화인](https://ko.wikipedia.org/wiki/문화인 "wikilink") 소속이다.
+**윤현상**(1994년 1월 14일 \~ )은 Top 7을 한 인물로, 현재 [문화인](../Page/문화인.md "wikilink") 소속이다.
 
 ### 백지웅
 
@@ -39,11 +39,11 @@
 
 ### 김나윤
 
-**김나윤**'(1994년 월 일 \~ )은 Top 9을 한 인물로, 소속사는 [스타쉽 엔터테인먼트이다](https://ko.wikipedia.org/wiki/스타쉽_엔터테인먼트 "wikilink").
+**김나윤**'(1994년 월 일 \~ )은 Top 9을 한 인물로, 소속사는 [스타쉽 엔터테인먼트이다](../Page/스타쉽_엔터테인먼트.md "wikilink").
 
 ### 이정미
 
-**이정미**(1995년 8월 16일 \~ )는 Top 10을 한 인물로, 이후 [YG 엔터테인먼트와](https://ko.wikipedia.org/wiki/YG_엔터테인먼트 "wikilink") 계약했으나 불화로 계약을 해지했다. 현재 소속사는 없다.
+**이정미**(1995년 8월 16일 \~ )는 Top 10을 한 인물로, 이후 [YG 엔터테인먼트와](../Page/YG_엔터테인먼트.md "wikilink") 계약했으나 불화로 계약을 해지했다. 현재 소속사는 없다.
 
 ## 그 외
 
@@ -65,11 +65,11 @@
 
 ### 허지원
 
-**허지원**은 현재 [FNC 엔터테인먼트](../Page/FNC_엔터테인먼트.md "wikilink") 소속이다. 2019년에 [체리블렛](https://ko.wikipedia.org/wiki/체리블렛 "wikilink")으로 데뷔했다.
+**허지원**은 현재 [FNC 엔터테인먼트](../Page/FNC_엔터테인먼트.md "wikilink") 소속이다. 2019년에 [체리블렛](../Page/체리블렛.md "wikilink")으로 데뷔했다.
 
 ### 매튜김(BM)
 
-**매튜김**은 현재 [DSP 미디어](https://ko.wikipedia.org/wiki/DSP_미디어 "wikilink") 소속이다. [k.a.r.d](../Page/카드_\(음악_그룹\).md "wikilink") [BM으로](https://ko.wikipedia.org/wiki/BM_\(가수\) "wikilink") 데뷔했다.
+**매튜김**은 현재 [DSP 미디어](../Page/DSP_미디어.md "wikilink") 소속이다. [k.a.r.d](../Page/카드_\(음악_그룹\).md "wikilink") [BM으로](https://ko.wikipedia.org/wiki/BM_\(가수\) "wikilink") 데뷔했다.
 
 ### [유주](../Page/유주_\(1997년\).md "wikilink")
 

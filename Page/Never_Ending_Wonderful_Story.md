@@ -55,9 +55,9 @@
 
 17. Boom\! Boom\! POWER
 
-18. Love Addiction ([코야마 케이치로](https://ko.wikipedia.org/wiki/코야마_케이치로 "wikilink") 솔로)
+18. Love Addiction ([코야마 케이치로](../Page/코야마_케이치로.md "wikilink") 솔로)
 
-19. / <small>카카오</small> ([카토 시게아키](https://ko.wikipedia.org/wiki/카토_시게아키 "wikilink") 솔로)
+19. / <small>카카오</small> ([카토 시게아키](../Page/카토_시게아키.md "wikilink") 솔로)
 
 20. Stars ([테고시 유야](../Page/테고시_유야.md "wikilink") 솔로)
 
@@ -87,7 +87,7 @@
 
 2.  / <small>치라리즈무</small> (코야시게: 코야마 케이치로, 카토 시게아키)
 
-3.  / <small>둥근 힘</small> ([테고마스](https://ko.wikipedia.org/wiki/테고마스 "wikilink"))
+3.  / <small>둥근 힘</small> ([테고마스](../Page/테고마스.md "wikilink"))
 
 4.  SNOW EXPRESS
 
@@ -95,7 +95,7 @@
 
 6.  / <small>악센트 댄스</small>
 
-7.  code ([니시키도 료](https://ko.wikipedia.org/wiki/니시키도_료 "wikilink") 솔로)
+7.  code ([니시키도 료](../Page/니시키도_료.md "wikilink") 솔로)
 
 8.  / <small>상처일뿐</small>
 

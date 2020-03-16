@@ -5,23 +5,23 @@
 
 ## 현 구성원
 
-  - 〈조각〉 란의 1은 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [8월 23일의](https://ko.wikipedia.org/wiki/8월_23일 "wikilink") 〈요미우리 신문 창간 135주년 기념 콘서트 \~AKB104 선발 멤버 조각 축제\~〉에서 발표된 셔플 이전의 소속팀을 의미한다. 단, 전 팀A의 [키쿠치 아야카는](https://ko.wikipedia.org/wiki/키쿠치_아야카 "wikilink") 구 3기생으로서, 팀B의 오프닝 멤버이지만, 일신상의 이유로 일시 사퇴한 후 다시 오디션을 치러서 7기생으로서 재적하고 있으며, 7기생으로서는 1차 조각 이전에 팀B가 아니었으므로, 1차 조각 란에는 〈해당사항 없음〉으로 표기한다. 이후, [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [6월 6일에는](https://ko.wikipedia.org/wiki/6월_6일 "wikilink") 연구생 소속 미정 멤버에 의한 팀4의 결성이 발표됐다. 또, [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink")의 [SKE48](https://ko.wikipedia.org/wiki/SKE48 "wikilink")의 [마츠이 쥬리나와](https://ko.wikipedia.org/wiki/마츠이_쥬리나 "wikilink") [NMB48](../Page/NMB48.md "wikilink")의 [와타나베 미유키의](../Page/와타나베_미유키.md "wikilink") AKB48와의 겸임이 개시되었다.
+  - 〈조각〉 란의 1은 [2009년](../Page/2009년.md "wikilink") [8월 23일의](../Page/8월_23일.md "wikilink") 〈요미우리 신문 창간 135주년 기념 콘서트 \~AKB104 선발 멤버 조각 축제\~〉에서 발표된 셔플 이전의 소속팀을 의미한다. 단, 전 팀A의 [키쿠치 아야카는](../Page/키쿠치_아야카.md "wikilink") 구 3기생으로서, 팀B의 오프닝 멤버이지만, 일신상의 이유로 일시 사퇴한 후 다시 오디션을 치러서 7기생으로서 재적하고 있으며, 7기생으로서는 1차 조각 이전에 팀B가 아니었으므로, 1차 조각 란에는 〈해당사항 없음〉으로 표기한다. 이후, [2011년](../Page/2011년.md "wikilink") [6월 6일에는](../Page/6월_6일.md "wikilink") 연구생 소속 미정 멤버에 의한 팀4의 결성이 발표됐다. 또, [2012년](../Page/2012년.md "wikilink") [3월](../Page/3월.md "wikilink")의 [SKE48](../Page/SKE48.md "wikilink")의 [마츠이 쥬리나와](../Page/마츠이_쥬리나.md "wikilink") [NMB48](../Page/NMB48.md "wikilink")의 [와타나베 미유키의](../Page/와타나베_미유키.md "wikilink") AKB48와의 겸임이 개시되었다.
 
 <!-- end list -->
 
-  - 〈조각〉 란의 2는 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [8월 24일의](https://ko.wikipedia.org/wiki/8월_24일 "wikilink") 〈AKB48 in TOKYO DOME \~1830m의 꿈\~〉에서 발표된 그랜드 셔플 이전의 소속팀을 의미한다. 마츠이 쥬리나와 와타나베 미유키는 2차 조각 이전에도 각각 AKB48 팀K, 팀B에 소속되어 있었지만, 이들의 원소속팀은 각각 SKE48 팀S, NMB48 팀N이므로, 2차 조각 란에 소속팀을 표기하지 않고 〈해당사항 없음〉으로 표기한다. 이후, [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [8월 24일의](https://ko.wikipedia.org/wiki/8월_24일 "wikilink") 〈AKB48 2013 한여름의 돔 투어 \~아직도, 하지 않으면 안되는 것이있다\~〉 3일째 공연에서 먼저 승격한 [오오시마 료카](../Page/오오시마_료카.md "wikilink")(당시 팀A 배속)를 제외하고 당시 연구생이던 13기생 9명과 14기생 전원 및 연구생으로 강등했던 1기생인 [미네기시 미나미](https://ko.wikipedia.org/wiki/미네기시_미나미 "wikilink") 등 16명의 승격이 발표되면서 그 소속 업체로서 팀4가 재결성되었다. 캡틴은 미네기시가 취임.
+  - 〈조각〉 란의 2는 [2012년](../Page/2012년.md "wikilink") [8월 24일의](../Page/8월_24일.md "wikilink") 〈AKB48 in TOKYO DOME \~1830m의 꿈\~〉에서 발표된 그랜드 셔플 이전의 소속팀을 의미한다. 마츠이 쥬리나와 와타나베 미유키는 2차 조각 이전에도 각각 AKB48 팀K, 팀B에 소속되어 있었지만, 이들의 원소속팀은 각각 SKE48 팀S, NMB48 팀N이므로, 2차 조각 란에 소속팀을 표기하지 않고 〈해당사항 없음〉으로 표기한다. 이후, [2013년](../Page/2013년.md "wikilink") [8월 24일의](../Page/8월_24일.md "wikilink") 〈AKB48 2013 한여름의 돔 투어 \~아직도, 하지 않으면 안되는 것이있다\~〉 3일째 공연에서 먼저 승격한 [오오시마 료카](../Page/오오시마_료카.md "wikilink")(당시 팀A 배속)를 제외하고 당시 연구생이던 13기생 9명과 14기생 전원 및 연구생으로 강등했던 1기생인 [미네기시 미나미](../Page/미네기시_미나미.md "wikilink") 등 16명의 승격이 발표되면서 그 소속 업체로서 팀4가 재결성되었다. 캡틴은 미네기시가 취임.
 
 <!-- end list -->
 
-  - 〈조각〉 란의 3은 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [2월 24일의](https://ko.wikipedia.org/wiki/2월_24일 "wikilink") 〈AKB48 그룹 대조각 축제, 시대는 바뀐다. 하지만 우리는 전밖에 맞네\!\~〉에서 국내 48 그룹을 중심으로 한 새로운 체제가 발표되었다. 이 팀 체제에서 부캡틴 제도를 도입하거나 처음 48 그룹 이외의 멤버가 AKB48과 겸임하는 것이 발표되었다.
+  - 〈조각〉 란의 3은 [2014년](../Page/2014년.md "wikilink") [2월 24일의](../Page/2월_24일.md "wikilink") 〈AKB48 그룹 대조각 축제, 시대는 바뀐다. 하지만 우리는 전밖에 맞네\!\~〉에서 국내 48 그룹을 중심으로 한 새로운 체제가 발표되었다. 이 팀 체제에서 부캡틴 제도를 도입하거나 처음 48 그룹 이외의 멤버가 AKB48과 겸임하는 것이 발표되었다.
 
 <!-- end list -->
 
-  - 〈조각〉 란의 4는 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [3월 26일의](https://ko.wikipedia.org/wiki/3월_26일 "wikilink") 〈AKB48 봄의 단독 콘서트 \~차기 총감독 아직 수행 중\!\~〉에서 겸임 멤버의 인선 개편에 의한 자매 그룹을 포함한 겸임 대량 해소, 각 팀 간부 교체 등을 포함한 재편성이 발표되었다. 신 팀으로서의 활동은 [5월 9일의](https://ko.wikipedia.org/wiki/5월_9일 "wikilink") 〈제2회 AKB48 대운동회〉에서 시작했지만 극장 공연에서 새로운 체제 이행은 스케줄에서 크게 늦어지면서 [5월 29일의](https://ko.wikipedia.org/wiki/5월_29일 "wikilink") 팀A 공연으로 자매 그룹을 포함한 겸임 해소 작업을 겨우 마친 상황이었다. 구 팀 흥행 최종일의 일정은 [5월 28일](https://ko.wikipedia.org/wiki/5월_28일 "wikilink") 시점에 있어서도 정해지지 않았다. 이 날 시점에서의 상황은 이하대로.
+  - 〈조각〉 란의 4는 [2015년](../Page/2015년.md "wikilink") [3월 26일의](../Page/3월_26일.md "wikilink") 〈AKB48 봄의 단독 콘서트 \~차기 총감독 아직 수행 중\!\~〉에서 겸임 멤버의 인선 개편에 의한 자매 그룹을 포함한 겸임 대량 해소, 각 팀 간부 교체 등을 포함한 재편성이 발표되었다. 신 팀으로서의 활동은 [5월 9일의](../Page/5월_9일.md "wikilink") 〈제2회 AKB48 대운동회〉에서 시작했지만 극장 공연에서 새로운 체제 이행은 스케줄에서 크게 늦어지면서 [5월 29일의](../Page/5월_29일.md "wikilink") 팀A 공연으로 자매 그룹을 포함한 겸임 해소 작업을 겨우 마친 상황이었다. 구 팀 흥행 최종일의 일정은 [5월 28일](../Page/5월_28일.md "wikilink") 시점에 있어서도 정해지지 않았다. 이 날 시점에서의 상황은 이하대로.
 
 <!-- end list -->
 
-  - 〈조각〉 란의 5는 [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [12월 8일의](https://ko.wikipedia.org/wiki/12월_8일 "wikilink") 〈AKB48 극장 12주년 기념 특별 공연〉에서 신 팀의 캡틴 및 멤버 발표. 16기 연구생에서 9명이 정규 멤버로 승격하고 연구생에 머물 멤버는 각각 팀 소속 연구생이다. 자매 그룹으로부터의 겸임 멤버는 모두 겸임해제, 팀8 멤버는 다른팀과 겸임하게 된다. [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [1월 21일](https://ko.wikipedia.org/wiki/1월_21일 "wikilink") 실시의 〈제3회 AKB48 그룹 드래프트 회의〉에는 팀8 멤버를 포함한 명 팀이 신 팀체제에 참가.
+  - 〈조각〉 란의 5는 [2017년](../Page/2017년.md "wikilink") [12월 8일의](../Page/12월_8일.md "wikilink") 〈AKB48 극장 12주년 기념 특별 공연〉에서 신 팀의 캡틴 및 멤버 발표. 16기 연구생에서 9명이 정규 멤버로 승격하고 연구생에 머물 멤버는 각각 팀 소속 연구생이다. 자매 그룹으로부터의 겸임 멤버는 모두 겸임해제, 팀8 멤버는 다른팀과 겸임하게 된다. [2018년](../Page/2018년.md "wikilink") [1월 21일](../Page/1월_21일.md "wikilink") 실시의 〈제3회 AKB48 그룹 드래프트 회의〉에는 팀8 멤버를 포함한 명 팀이 신 팀체제에 참가.
 
 <!-- end list -->
 
@@ -73,7 +73,7 @@
 <td></td>
 <td><p>4</p></td>
 <td><p>A</p></td>
-<td><p>2018년 4월부터 <a href="https://ko.wikipedia.org/wiki/멕시코" title="wikilink">멕시코</a> 유학 중</p></td>
+<td><p>2018년 4월부터 <a href="../Page/멕시코.md" title="wikilink">멕시코</a> 유학 중</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/카토_레나.md" title="wikilink">카토 레나</a></p></td>
@@ -186,7 +186,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/미야자키_미호" title="wikilink">미야자키 미호</a></p></td>
+<td><p><a href="../Page/미야자키_미호.md" title="wikilink">미야자키 미호</a></p></td>
 <td></td>
 <td></td>
 <td><p>5기</p></td>
@@ -336,7 +336,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/미네기시_미나미" title="wikilink">미네기시 미나미</a></p></td>
+<td><p><a href="../Page/미네기시_미나미.md" title="wikilink">미네기시 미나미</a></p></td>
 <td></td>
 <td></td>
 <td><p>1기</p></td>
@@ -512,7 +512,7 @@
 <td><p>A</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/카시와기_유키" title="wikilink">카시와기 유키</a></p></td>
+<td><p><a href="../Page/카시와기_유키.md" title="wikilink">카시와기 유키</a></p></td>
 <td></td>
 <td></td>
 <td><p>3기</p></td>
@@ -858,7 +858,7 @@
 
 ### 팀8
 
-팀8은 [토요타 자동차의](https://ko.wikipedia.org/wiki/토요타_자동차 "wikilink") 전면 지원을 받으며 활동하고 있어 그룹 내에서 유일하게 팀 단독 공식 사이트가 있다.
+팀8은 [토요타 자동차의](../Page/토요타_자동차.md "wikilink") 전면 지원을 받으며 활동하고 있어 그룹 내에서 유일하게 팀 단독 공식 사이트가 있다.
 
   - 팀 컬러는 남(<span style="color:#0000bf">**■**</span>)
 
@@ -1566,7 +1566,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/우사미_유키" title="wikilink">우사미 유키</a></p></td>
+<td><p><a href="../Page/우사미_유키.md" title="wikilink">우사미 유키</a></p></td>
 <td></td>
 <td><p>1기</p></td>
 <td><p>2006년 3월 31일</p></td>
@@ -1603,7 +1603,7 @@
 <td><p>2007년 6월 22일</p></td>
 <td><p>K</p></td>
 <td><p>-</p></td>
-<td><p>동생은 <a href="https://ko.wikipedia.org/wiki/다카다_시오리" title="wikilink">다카다 시오리</a> (전 <a href="https://ko.wikipedia.org/wiki/SKE48" title="wikilink">SKE48</a>)</p></td>
+<td><p>동생은 <a href="https://ko.wikipedia.org/wiki/다카다_시오리" title="wikilink">다카다 시오리</a> (전 <a href="../Page/SKE48.md" title="wikilink">SKE48</a>)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1671,7 +1671,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/코마타니_히토미" title="wikilink">코마타니 히토미</a></p></td>
 <td></td>
 <td><p>선 뮤직 브레인</p></td>
-<td><p>후에 <a href="https://ko.wikipedia.org/wiki/SDN48" title="wikilink">SDN48</a> 가입</p></td>
+<td><p>후에 <a href="../Page/SDN48.md" title="wikilink">SDN48</a> 가입</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1681,14 +1681,14 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/토지마_하나" title="wikilink">토지마 하나</a></p></td>
 <td></td>
 <td><p>드레스코드</p></td>
-<td><p>후에 <a href="https://ko.wikipedia.org/wiki/SDN48" title="wikilink">SDN48</a> 가입</p></td>
+<td><p>후에 <a href="../Page/SDN48.md" title="wikilink">SDN48</a> 가입</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/나카니시_리나" title="wikilink">나카니시 리나</a></p></td>
+<td><p><a href="../Page/나카니시_리나.md" title="wikilink">나카니시 리나</a></p></td>
 <td></td>
 <td><p>(BELLTECH)</p></td>
 <td><p>현예명 : </p></td>
@@ -1750,7 +1750,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/오오시마_마이" title="wikilink">오오시마 마이</a></p></td>
+<td><p><a href="../Page/오오시마_마이.md" title="wikilink">오오시마 마이</a></p></td>
 <td></td>
 <td><p>1기</p></td>
 <td><p>2009년 4월 26일</p></td>
@@ -1760,7 +1760,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/하야노_카오루" title="wikilink">하야노 카오루</a></p></td>
+<td><p><a href="../Page/하야노_카오루.md" title="wikilink">하야노 카오루</a></p></td>
 <td></td>
 <td><p>2기</p></td>
 <td><p>K</p></td>
@@ -1770,7 +1770,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/나루세_리사" title="wikilink">나루세 리사</a></p></td>
+<td><p><a href="../Page/나루세_리사.md" title="wikilink">나루세 리사</a></p></td>
 <td></td>
 <td><p>4기</p></td>
 <td><p>2009년 5월 24일</p></td>
@@ -1782,7 +1782,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/사에키_미카" title="wikilink">사에키 미카</a></p></td>
+<td><p><a href="../Page/사에키_미카.md" title="wikilink">사에키 미카</a></p></td>
 <td></td>
 <td><p>2009년 8월 23일</p></td>
 <td><p>B</p></td>
@@ -1799,14 +1799,14 @@
 <td><p>2010년 2월 21일</p></td>
 <td><p>K</p></td>
 <td><p>호리프로</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/SDN48" title="wikilink">SDN48</a> 이적</p></td>
+<td><p><a href="../Page/SDN48.md" title="wikilink">SDN48</a> 이적</p></td>
 <td><p>24위</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/노로_카요" title="wikilink">노로 카요</a></p></td>
+<td><p><a href="../Page/노로_카요.md" title="wikilink">노로 카요</a></p></td>
 <td></td>
 <td><p>오오타 프로덕션</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/SDN48" title="wikilink">SDN48</a> 이적</p></td>
+<td><p><a href="../Page/SDN48.md" title="wikilink">SDN48</a> 이적</p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -1819,7 +1819,7 @@
 <td><p>2010년 4월 16일</p></td>
 <td><p>B</p></td>
 <td><p>프로덕션 오기</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/SDN48" title="wikilink">SDN48</a> 이적</p></td>
+<td><p><a href="../Page/SDN48.md" title="wikilink">SDN48</a> 이적</p></td>
 <td><p>17위</p></td>
 </tr>
 <tr class="even">
@@ -1827,20 +1827,20 @@
 <td></td>
 <td><p>5기</p></td>
 <td><p>(매그니파이)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/SDN48" title="wikilink">SDN48</a> 이적<br />
+<td><p><a href="../Page/SDN48.md" title="wikilink">SDN48</a> 이적<br />
 구 드레스코드</p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/사토_유카리_(가수)" title="wikilink">사토 유카리</a></p></td>
+<td><p><a href="../Page/사토_유카리_(가수).md" title="wikilink">사토 유카리</a></p></td>
 <td></td>
 <td><p>1기</p></td>
 <td><p>2010년 5월 27일</p></td>
 <td><p>A</p></td>
 <td><p>게이에이 프로덕션</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/SDN48" title="wikilink">SDN48</a> 이적<br />
+<td><p><a href="../Page/SDN48.md" title="wikilink">SDN48</a> 이적<br />
 구 아티스트하우스 피라미드</p></td>
 <td><p>15위</p></td>
 </tr>
@@ -1875,7 +1875,7 @@
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/히라지마_나츠미" title="wikilink">히라지마 나츠미</a></p></td>
+<td><p><a href="../Page/히라지마_나츠미.md" title="wikilink">히라지마 나츠미</a></p></td>
 <td></td>
 <td><p>1기</p></td>
 <td><p>2012년 2월 5일</p></td>
@@ -1886,7 +1886,7 @@
 <td><p>26위</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/요네자와_루미" title="wikilink">요네자와 루미</a></p></td>
+<td><p><a href="../Page/요네자와_루미.md" title="wikilink">요네자와 루미</a></p></td>
 <td></td>
 <td><p>3기</p></td>
 <td><p>K</p></td>
@@ -1897,7 +1897,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/사시하라_리노" title="wikilink">사시하라 리노</a></p></td>
+<td><p><a href="../Page/사시하라_리노.md" title="wikilink">사시하라 리노</a></p></td>
 <td></td>
 <td><p>5기</p></td>
 <td><p>2012년 6월 17일</p></td>
@@ -1908,7 +1908,7 @@
 <td><p>4위</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/마에다_아츠코" title="wikilink">마에다 아츠코</a></p></td>
+<td><p><a href="../Page/마에다_아츠코.md" title="wikilink">마에다 아츠코</a></p></td>
 <td></td>
 <td><p>1기</p></td>
 <td><p>2012년 8월 27일</p></td>
@@ -1929,7 +1929,7 @@
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/오오타_아이카" title="wikilink">오오타 아이카</a></p></td>
+<td><p><a href="../Page/오오타_아이카.md" title="wikilink">오오타 아이카</a></p></td>
 <td></td>
 <td><p>3기</p></td>
 <td><p>2012년 10월 31일</p></td>
@@ -1940,7 +1940,7 @@
 <td><p>20위</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/나카가와_하루카" title="wikilink">나카가와 하루카</a></p></td>
+<td><p><a href="../Page/나카가와_하루카.md" title="wikilink">나카가와 하루카</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/덴츠" title="wikilink">Dentsu Indonesia</a></p></td>
 <td><p>구 프로덕션 오기<br />
@@ -1952,7 +1952,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/사토_나츠키" title="wikilink">사토 나츠키</a></p></td>
+<td><p><a href="../Page/사토_나츠키.md" title="wikilink">사토 나츠키</a></p></td>
 <td></td>
 <td><p>2기</p></td>
 <td><p>2012년 11월 30일</p></td>
@@ -1963,7 +1963,7 @@ Cee my Nail 오너</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/마스다_유카" title="wikilink">마스다 유카</a></p></td>
+<td><p><a href="../Page/마스다_유카.md" title="wikilink">마스다 유카</a></p></td>
 <td></td>
 <td><p>2012년 12월 17일</p></td>
 <td><p>K</p></td>
@@ -1998,13 +1998,13 @@ Cee my Nail 오너</p></td>
 <td></td>
 <td><p>-</p></td>
 <td><p>B</p></td>
-<td><p>2012년 11월 1일부터 겸임해제까지 <a href="https://ko.wikipedia.org/wiki/SKE48" title="wikilink">SKE48</a> 팀KII 겸임</p></td>
+<td><p>2012년 11월 1일부터 겸임해제까지 <a href="../Page/SKE48.md" title="wikilink">SKE48</a> 팀KII 겸임</p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/카사이_토모미" title="wikilink">카사이 토모미</a></p></td>
+<td><p><a href="../Page/카사이_토모미.md" title="wikilink">카사이 토모미</a></p></td>
 <td></td>
 <td><p>2기</p></td>
 <td><p>2013년 5월 3일</p></td>
@@ -2014,14 +2014,14 @@ Cee my Nail 오너</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/미야자와_사에" title="wikilink">미야자와 사에</a></p></td>
+<td><p><a href="../Page/미야자와_사에.md" title="wikilink">미야자와 사에</a></p></td>
 <td></td>
 <td><p>2013년 6월 24일</p></td>
 <td><p>K</p></td>
 <td><p>(플레이브 엔터테인먼트)</p></td>
-<td><p>2012년 11월 1일에 <a href="https://ko.wikipedia.org/wiki/SNH48" title="wikilink">SNH48</a> 팀SII 이적<br />
+<td><p>2012년 11월 1일에 <a href="../Page/SNH48.md" title="wikilink">SNH48</a> 팀SII 이적<br />
 2013년 4월 28일부터 겸임해제까지 SNH48 팀SII 겸임<br />
-2014년 4월 24일자로 <a href="https://ko.wikipedia.org/wiki/SKE48" title="wikilink">SKE48</a> 팀S 겸임변경</p></td>
+2014년 4월 24일자로 <a href="../Page/SKE48.md" title="wikilink">SKE48</a> 팀S 겸임변경</p></td>
 <td><p>9위</p></td>
 <td></td>
 </tr>
@@ -2057,7 +2057,7 @@ Cee my Nail 오너</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/시노다_마리코" title="wikilink">시노다 마리코</a></p></td>
+<td><p><a href="../Page/시노다_마리코.md" title="wikilink">시노다 마리코</a></p></td>
 <td></td>
 <td><p>1.5기</p></td>
 <td><p>2013년 7월 21일</p></td>
@@ -2068,7 +2068,7 @@ Cee my Nail 오너</p></td>
 <td><p>3위</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/이타노_토모미" title="wikilink">이타노 토모미</a></p></td>
+<td><p><a href="../Page/이타노_토모미.md" title="wikilink">이타노 토모미</a></p></td>
 <td></td>
 <td><p>1기</p></td>
 <td><p>2013년 8월 27일</p></td>
@@ -2078,7 +2078,7 @@ Cee my Nail 오너</p></td>
 <td><p>4위</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/아키모토_사야카" title="wikilink">아키모토 사야카</a></p></td>
+<td><p><a href="../Page/아키모토_사야카.md" title="wikilink">아키모토 사야카</a></p></td>
 <td></td>
 <td><p>2기</p></td>
 <td><p>2013년 8월 28일</p></td>
@@ -2109,7 +2109,7 @@ Cee my Nail 오너</p></td>
 <td><p>8위</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/노나카_미사토" title="wikilink">노나카 미사토</a></p></td>
+<td><p><a href="../Page/노나카_미사토.md" title="wikilink">노나카 미사토</a></p></td>
 <td></td>
 <td><p>6기</p></td>
 <td><p>2014년 4월 22일</p></td>
@@ -2126,7 +2126,7 @@ Cee my Nail 오너</p></td>
 <td><p>A</p></td>
 <td><p>(호리프로)</p></td>
 <td><p>구 팀B<br />
-<a href="https://ko.wikipedia.org/wiki/SKE48" title="wikilink">SKE48</a> 팀E 이적</p></td>
+<a href="../Page/SKE48.md" title="wikilink">SKE48</a> 팀E 이적</p></td>
 <td><p>31위</p></td>
 </tr>
 <tr class="odd">
@@ -2152,7 +2152,7 @@ Cee my Nail 오너</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/우메다_아야카" title="wikilink">우메다 아야카</a></p></td>
+<td><p><a href="../Page/우메다_아야카.md" title="wikilink">우메다 아야카</a></p></td>
 <td></td>
 <td><p>2기</p></td>
 <td><p>플레이브 엔터테인먼트</p></td>
@@ -2169,13 +2169,13 @@ Cee my Nail 오너</p></td>
 <td><p>9기</p></td>
 <td><p>재팬 뮤직 엔터테인먼트</p></td>
 <td><p>구 팀4<br />
-<a href="https://ko.wikipedia.org/wiki/SKE48" title="wikilink">SKE48</a> 팀KII 이적</p></td>
+<a href="../Page/SKE48.md" title="wikilink">SKE48</a> 팀KII 이적</p></td>
 <td><p>35위</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/후지에_레이나" title="wikilink">후지에 레이나</a></p></td>
+<td><p><a href="../Page/후지에_레이나.md" title="wikilink">후지에 레이나</a></p></td>
 <td></td>
 <td><p>4기</p></td>
 <td><p>이토 컴퍼니</p></td>
@@ -2191,7 +2191,7 @@ Cee my Nail 오너</p></td>
 <td><p>9기</p></td>
 <td><p>와타나베 엔터테인먼트</p></td>
 <td><p>구 팀4<br />
-<a href="https://ko.wikipedia.org/wiki/SKE48" title="wikilink">SKE48</a> 팀S 이적</p></td>
+<a href="../Page/SKE48.md" title="wikilink">SKE48</a> 팀S 이적</p></td>
 <td><p>36위</p></td>
 <td></td>
 <td></td>
@@ -2228,7 +2228,7 @@ Cee my Nail 오너</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/키쿠치_아야카" title="wikilink">키쿠치 아야카</a></p></td>
+<td><p><a href="../Page/키쿠치_아야카.md" title="wikilink">키쿠치 아야카</a></p></td>
 <td></td>
 <td><p>7기</p></td>
 <td><p>2014년 9월 23일</p></td>
@@ -2240,7 +2240,7 @@ Cee my Nail 오너</p></td>
 <td><p>51위</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/카타야마_하루카" title="wikilink">카타야마 하루카</a></p></td>
+<td><p><a href="../Page/카타야마_하루카.md" title="wikilink">카타야마 하루카</a></p></td>
 <td></td>
 <td><p>3기</p></td>
 <td><p>2014년 9월 29일</p></td>
@@ -2300,7 +2300,7 @@ Cee my Nail 오너</p></td>
 <td><p>A</p></td>
 <td><p>제스트</p></td>
 <td><p>2013년 4월 28일부터 2014년 4월 23일까지 팀K 재적<br />
-2014년 4월 24일부터 겸임해제까지 <a href="https://ko.wikipedia.org/wiki/SKE48" title="wikilink">SKE48</a> 팀KII 겸임</p></td>
+2014년 4월 24일부터 겸임해제까지 <a href="../Page/SKE48.md" title="wikilink">SKE48</a> 팀KII 겸임</p></td>
 <td><p>55위</p></td>
 <td></td>
 </tr>
@@ -2397,7 +2397,7 @@ Cee my Nail 오너</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/쿠라모치_아스카" title="wikilink">쿠라모치 아스카</a></p></td>
+<td><p><a href="../Page/쿠라모치_아스카.md" title="wikilink">쿠라모치 아스카</a></p></td>
 <td></td>
 <td><p>4기</p></td>
 <td><p>2015년 8월 17일</p></td>
@@ -2408,7 +2408,7 @@ Cee my Nail 오너</p></td>
 <td><p>21위</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/키타하라_리에" title="wikilink">키타하라 리에</a></p></td>
+<td><p><a href="../Page/키타하라_리에.md" title="wikilink">키타하라 리에</a></p></td>
 <td></td>
 <td><p>5기</p></td>
 <td><p>2015년 8월 26일</p></td>
@@ -2416,12 +2416,12 @@ Cee my Nail 오너</p></td>
 <td><p>오오타 프로덕션</p></td>
 <td><p>구 팀A→B<br />
 전 팀K 부캡틴<br />
-전 <a href="https://ko.wikipedia.org/wiki/SKE48" title="wikilink">SKE48</a> 팀S 겸임<br />
+전 <a href="../Page/SKE48.md" title="wikilink">SKE48</a> 팀S 겸임<br />
 <a href="https://ko.wikipedia.org/wiki/NGT48" title="wikilink">NGT48</a> 팀NIII 이적</p></td>
 <td><p>11위</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/우치다_마유미" title="wikilink">우치다 마유미</a></p></td>
+<td><p><a href="../Page/우치다_마유미.md" title="wikilink">우치다 마유미</a></p></td>
 <td></td>
 <td><p>2015년 10월 25일</p></td>
 <td><p>B</p></td>
@@ -2443,13 +2443,13 @@ Cee my Nail 오너</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/마츠이_쥬리나" title="wikilink">마츠이 쥬리나</a></p></td>
+<td><p><a href="../Page/마츠이_쥬리나.md" title="wikilink">마츠이 쥬리나</a></p></td>
 <td></td>
 <td><p>-</p></td>
 <td><p>2015년 12월 24일</p></td>
 <td><p>K</p></td>
 <td><p>어 빙</p></td>
-<td><p>2012년 3월 24일부터 겸임해제까지 <a href="https://ko.wikipedia.org/wiki/SKE48" title="wikilink">SKE48</a> 팀S 겸임</p></td>
+<td><p>2012년 3월 24일부터 겸임해제까지 <a href="../Page/SKE48.md" title="wikilink">SKE48</a> 팀S 겸임</p></td>
 <td><p>4위</p></td>
 </tr>
 <tr class="odd">
@@ -2473,7 +2473,7 @@ Cee my Nail 오너</p></td>
 <td><p>39위</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/코바야시_카나" title="wikilink">코바야시 카나</a></p></td>
+<td><p><a href="../Page/코바야시_카나.md" title="wikilink">코바야시 카나</a></p></td>
 <td></td>
 <td><p>2기</p></td>
 <td><p>2016년 3월 31일</p></td>
@@ -2558,7 +2558,7 @@ Cee my Nail 오너</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/이와사_미사키" title="wikilink">이와사 미사키</a></p></td>
+<td><p><a href="../Page/이와사_미사키.md" title="wikilink">이와사 미사키</a></p></td>
 <td></td>
 <td><p>7기</p></td>
 <td><p>B</p></td>
@@ -2578,7 +2578,7 @@ Cee my Nail 오너</p></td>
 <td><p>6위</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/이시다_하루카" title="wikilink">이시다 하루카</a></p></td>
+<td><p><a href="../Page/이시다_하루카.md" title="wikilink">이시다 하루카</a></p></td>
 <td></td>
 <td><p>5기</p></td>
 <td><p>2016년 6월 5일</p></td>
@@ -2596,7 +2596,7 @@ Cee my Nail 오너</p></td>
 <td><p>roundcell</p></td>
 <td><p><a href="../Page/NMB48.md" title="wikilink">NMB48</a> 졸업에 따른 겸임종료<br />
 2012년 3월 24일부터 2014년 4월 23일까지 팀B 겸임<br />
-2014년 4월 24일부터 2015년 5월 21일까지 <a href="https://ko.wikipedia.org/wiki/SKE48" title="wikilink">SKE48</a> 팀S 겸임변경<br />
+2014년 4월 24일부터 2015년 5월 21일까지 <a href="../Page/SKE48.md" title="wikilink">SKE48</a> 팀S 겸임변경<br />
 2015년 5월 22일부터 겸임해제까지 <a href="../Page/NMB48.md" title="wikilink">NMB48</a> 팀BII 겸임</p></td>
 <td><p>12위</p></td>
 </tr>
@@ -2724,7 +2724,7 @@ Cee my Nail 오너</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/코지마_하루나" title="wikilink">코지마 하루나</a></p></td>
+<td><p><a href="../Page/코지마_하루나.md" title="wikilink">코지마 하루나</a></p></td>
 <td></td>
 <td><p>1기</p></td>
 <td><p>2017년 4월 19일</p></td>
@@ -2784,7 +2784,7 @@ Cee my Nail 오너</p></td>
 <td><p>K</p></td>
 <td><p>플레이브 엔터테인먼트</p></td>
 <td><p>구 팀B→A<br />
-전 <a href="https://ko.wikipedia.org/wiki/SNH48" title="wikilink">SNH48</a> 팀SII 겸임</p></td>
+전 <a href="../Page/SNH48.md" title="wikilink">SNH48</a> 팀SII 겸임</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -2856,10 +2856,10 @@ Cee my Nail 오너</p></td>
 <td><p>2017년 9월 30일</p></td>
 <td><p>B</p></td>
 <td><p>트라이스톤 엔터테인먼트</p></td>
-<td><p>전 <a href="https://ko.wikipedia.org/wiki/SKE48" title="wikilink">SKE48</a> 팀S<br />
+<td><p>전 <a href="../Page/SKE48.md" title="wikilink">SKE48</a> 팀S<br />
 구 팀4<br />
 전 팀B 캡틴<br />
-아사이 유우카(<a href="https://ko.wikipedia.org/wiki/SKE48" title="wikilink">SKE48</a> 팀E)의 고종사촌언니</p></td>
+아사이 유우카(<a href="../Page/SKE48.md" title="wikilink">SKE48</a> 팀E)의 고종사촌언니</p></td>
 <td><p>22위</p></td>
 <td></td>
 </tr>
@@ -2887,7 +2887,7 @@ Cee my Nail 오너</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/와타나베_마유" title="wikilink">와타나베 마유</a></p></td>
+<td><p><a href="../Page/와타나베_마유.md" title="wikilink">와타나베 마유</a></p></td>
 <td></td>
 <td><p>3기</p></td>
 <td><p>2017년 12월 31일</p></td>
@@ -2974,7 +2974,7 @@ Cee my Nail 오너</p></td>
 <td><p>2018년 5월 18일</p></td>
 <td><p>4</p></td>
 <td><p>(제스트)</p></td>
-<td><p>2015년 9월 1일부터 겸임해제까지 <a href="https://ko.wikipedia.org/wiki/SKE48" title="wikilink">SKE48</a> 팀S 겸임</p></td>
+<td><p>2015년 9월 1일부터 겸임해제까지 <a href="../Page/SKE48.md" title="wikilink">SKE48</a> 팀S 겸임</p></td>
 <td><p>64위</p></td>
 <td></td>
 </tr>
@@ -3116,7 +3116,7 @@ Cee my Nail 오너</p></td>
 <td></td>
 <td><p>12기</p></td>
 <td><p>B</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/울림엔터테인먼트" title="wikilink">울림엔터테인먼트</a></p></td>
+<td><p><a href="../Page/울림엔터테인먼트.md" title="wikilink">울림엔터테인먼트</a></p></td>
 <td><p>구 팀4→A→B→4<br />
 구 팀4 캡틴<br />
 전 팀B 캡틴<br />
@@ -3281,7 +3281,7 @@ Cee my Nail 오너</p></td>
 <td><p>K</p></td>
 <td><p>-</p></td>
 <td><p>제3회 AKB48 그룹 드래프트 회장에서 팀K 가입 (1위 지명)<br />
-언니는 <a href="https://ko.wikipedia.org/wiki/야하기_유키나" title="wikilink">야하기 유키나</a> (전 <a href="https://ko.wikipedia.org/wiki/SKE48" title="wikilink">SKE48</a> 팀KII)</p></td>
+언니는 <a href="https://ko.wikipedia.org/wiki/야하기_유키나" title="wikilink">야하기 유키나</a> (전 <a href="../Page/SKE48.md" title="wikilink">SKE48</a> 팀KII)</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -3424,7 +3424,7 @@ Cee my Nail 오너</p></td>
 <td><p>2007년 11월 26일</p></td>
 <td><p>-</p></td>
 <td><p>졸업</p></td>
-<td><p>전 <a href="https://ko.wikipedia.org/wiki/SKE48" title="wikilink">SKE48</a></p></td>
+<td><p>전 <a href="../Page/SKE48.md" title="wikilink">SKE48</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3455,7 +3455,7 @@ Cee my Nail 오너</p></td>
 <td><p>2008년 8월 26일</p></td>
 <td><p>아크로스 엔터테인먼트</p></td>
 <td><p>졸업</p></td>
-<td><p>전 <a href="https://ko.wikipedia.org/wiki/SKE48" title="wikilink">SKE48</a></p></td>
+<td><p>전 <a href="../Page/SKE48.md" title="wikilink">SKE48</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -3931,7 +3931,7 @@ Cee my Nail 오너</p></td>
 <td><p>2017년 8월 13일</p></td>
 <td><p>플레이브 엔터테인먼트</p></td>
 <td><p>제2회 AKB48 그룹 드래프트 회장에서 가입 (팀K 1위 지명)<br />
-동생은 <a href="https://ko.wikipedia.org/wiki/노무라_미요" title="wikilink">노무라 미요</a> (<a href="https://ko.wikipedia.org/wiki/SKE48" title="wikilink">SKE48</a> 팀S)</p></td>
+동생은 <a href="https://ko.wikipedia.org/wiki/노무라_미요" title="wikilink">노무라 미요</a> (<a href="../Page/SKE48.md" title="wikilink">SKE48</a> 팀S)</p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -4128,7 +4128,7 @@ Cee my Nail 오너</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/잇시키_레나" title="wikilink">잇시키 레나</a></p></td>
 <td><p>一色嶺奈</p></td>
 <td><p>-</p></td>
-<td><p>전 <a href="https://ko.wikipedia.org/wiki/SKE48" title="wikilink">SKE48</a> 팀S</p></td>
+<td><p>전 <a href="../Page/SKE48.md" title="wikilink">SKE48</a> 팀S</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -4258,7 +4258,7 @@ Cee my Nail 오너</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/사에키_미카" title="wikilink">사에키 미카</a></p></td>
+<td><p><a href="../Page/사에키_미카.md" title="wikilink">사에키 미카</a></p></td>
 <td><p>佐伯美香</p></td>
 <td><p>-</p></td>
 <td><p>구 4기생<br />
@@ -4472,7 +4472,7 @@ Cee my Nail 오너</p></td>
 <td><p>?</p></td>
 <td><p>?</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/AKB48_49th_선발_총선거" title="wikilink">제8회 선발 총선거에</a> 입후보한 수수께끼의 인물.<br />
-2016년 6월 18일의 개표 행사에서 정체가 <a href="https://ko.wikipedia.org/wiki/코지마_하루나" title="wikilink">코지마 하루나로</a> 판명.</p></td>
+2016년 6월 18일의 개표 행사에서 정체가 <a href="../Page/코지마_하루나.md" title="wikilink">코지마 하루나로</a> 판명.</p></td>
 <td><p>16위</p></td>
 </tr>
 <tr class="even">

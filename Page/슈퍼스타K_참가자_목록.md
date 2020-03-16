@@ -9,9 +9,9 @@
 
 ### [조문근](https://ko.wikipedia.org/wiki/조문근 "wikilink")
 
-### [길학미](https://ko.wikipedia.org/wiki/길학미 "wikilink")
+### [길학미](../Page/길학미.md "wikilink")
 
-### [박태진](https://ko.wikipedia.org/wiki/박태진_\(가수\) "wikilink")
+### [박태진](../Page/박태진_\(가수\).md "wikilink")
 
 ### 김주왕
 
@@ -39,7 +39,7 @@
 
 ### 몽실이 시스터즈
 
-**몽실이 시스터즈**는 강진아, 윤예슬이, 김민선으로 구성된 그룹이다. 가수 [현미가](../Page/현미_\(가수\).md "wikilink") 제안해 결성되었다. 두 번째 싱글에서는 기존의 윤예슬이 대신, 부산 출신 연습생 서미정으로 멤버를 교체하였다. 멤버 김민선은 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [피기돌스](https://ko.wikipedia.org/wiki/피기돌스 "wikilink")로 재데뷔하였고, 리더 강진아는 [슈퍼스타K3](https://ko.wikipedia.org/wiki/슈퍼스타K3 "wikilink")에 출연하였다. 데뷔는 2009년 12월 4일 디지털 싱글 '사랑아'\[1\]
+**몽실이 시스터즈**는 강진아, 윤예슬이, 김민선으로 구성된 그룹이다. 가수 [현미가](../Page/현미_\(가수\).md "wikilink") 제안해 결성되었다. 두 번째 싱글에서는 기존의 윤예슬이 대신, 부산 출신 연습생 서미정으로 멤버를 교체하였다. 멤버 김민선은 [2011년](../Page/2011년.md "wikilink") [피기돌스](https://ko.wikipedia.org/wiki/피기돌스 "wikilink")로 재데뷔하였고, 리더 강진아는 [슈퍼스타K3](https://ko.wikipedia.org/wiki/슈퍼스타K3 "wikilink")에 출연하였다. 데뷔는 2009년 12월 4일 디지털 싱글 '사랑아'\[1\]
 
 ### [배수지](../Page/수지_\(대한민국의_가수\).md "wikilink")
 
@@ -51,7 +51,7 @@
 
 ### [이호원](https://ko.wikipedia.org/wiki/이호원_\(배우\) "wikilink")
 
-  - 데뷔: 2010년 6월 9일 [인피니트](https://ko.wikipedia.org/wiki/인피니트 "wikilink") 미니앨범 'First Invasion'\[3\]
+  - 데뷔: 2010년 6월 9일 [인피니트](../Page/인피니트.md "wikilink") 미니앨범 'First Invasion'\[3\]
 
 ### 김현지
 
@@ -63,7 +63,7 @@
 
 ### [주찬양](https://ko.wikipedia.org/wiki/주찬양 "wikilink")
 
-  - 데뷔: 2010년 5월 28일 [티맥스](https://ko.wikipedia.org/wiki/티맥스_\(음악_그룹\) "wikilink") 1집 'Born To The MAX'\[5\]
+  - 데뷔: 2010년 5월 28일 [티맥스](../Page/티맥스_\(음악_그룹\).md "wikilink") 1집 'Born To The MAX'\[5\]
 
 ### 김태하
 

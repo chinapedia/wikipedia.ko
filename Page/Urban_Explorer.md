@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Urban Explorer](https://ko.wikipedia.org/wiki/Urban_Explorer).
 
 
-[Urban Explorer는](https://ko.wikipedia.org/wiki/Urban_Explorer "wikilink") [피아](https://ko.wikipedia.org/wiki/피아 "wikilink")의 첫 미니앨범([EP](../Page/익스텐디드_플레이.md "wikilink"))이다. 전작 [Waterfalls](../Page/Waterfalls.md "wikilink") 이후 1년 만에 발매되었으며 신곡 4곡과 재녹음 트랙 1곡, 리믹스 트랙 2곡으로 이루어져 있다. 본작은 전자음을 중심으로 한 일렉트로닉 사운드가 전면에 나서며 굉장히 댄서블한 사운드를 들려주고 있는데, 멤버들의 말에 의하면 "정규 앨범 수준에 가까운 작업을 소화한 느낌"이라고 밝혔다. 요한의 말에 의하면 "EP를 만들기 시작할때엔 간단히 리프레시 하는 느낌으로 작업하려고 했는데, 너무 힘을 뺐다"라고 한다. 피아의 멤버들이 프로듀싱 외에도 레코딩, 믹싱 등 전반적인 과정에 참여하였으며 [서태지](https://ko.wikipedia.org/wiki/서태지 "wikilink")가 사운드 수퍼바이저 (음향감독)로써 참여한 앨범으로 서태지가 자신의 음반 외에 다른 뮤지션의 음반에 스탭으로 참여한건 이 앨범이 처음이다. 이 앨범을 마지막으로 [서태지컴퍼니](https://ko.wikipedia.org/wiki/서태지컴퍼니 "wikilink")를 떠나 [윈원엔터테인먼트](https://ko.wikipedia.org/wiki/윈원엔터테인먼트 "wikilink")와 계약한다.
+[Urban Explorer는](../Page/Urban_Explorer.md "wikilink") [피아](https://ko.wikipedia.org/wiki/피아 "wikilink")의 첫 미니앨범([EP](../Page/익스텐디드_플레이.md "wikilink"))이다. 전작 [Waterfalls](../Page/Waterfalls.md "wikilink") 이후 1년 만에 발매되었으며 신곡 4곡과 재녹음 트랙 1곡, 리믹스 트랙 2곡으로 이루어져 있다. 본작은 전자음을 중심으로 한 일렉트로닉 사운드가 전면에 나서며 굉장히 댄서블한 사운드를 들려주고 있는데, 멤버들의 말에 의하면 "정규 앨범 수준에 가까운 작업을 소화한 느낌"이라고 밝혔다. 요한의 말에 의하면 "EP를 만들기 시작할때엔 간단히 리프레시 하는 느낌으로 작업하려고 했는데, 너무 힘을 뺐다"라고 한다. 피아의 멤버들이 프로듀싱 외에도 레코딩, 믹싱 등 전반적인 과정에 참여하였으며 [서태지](../Page/서태지.md "wikilink")가 사운드 수퍼바이저 (음향감독)로써 참여한 앨범으로 서태지가 자신의 음반 외에 다른 뮤지션의 음반에 스탭으로 참여한건 이 앨범이 처음이다. 이 앨범을 마지막으로 [서태지컴퍼니](https://ko.wikipedia.org/wiki/서태지컴퍼니 "wikilink")를 떠나 [윈원엔터테인먼트](https://ko.wikipedia.org/wiki/윈원엔터테인먼트 "wikilink")와 계약한다.
 
 ## 곡 목록
 

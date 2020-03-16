@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Living Things](https://ko.wikipedia.org/wiki/Living_Things).
 
 
-***Living Things***는 미국의 락 그룹인 [린킨 파크의](https://ko.wikipedia.org/wiki/린킨_파크 "wikilink") 5번째 정규 음반이다.
+***Living Things***는 미국의 락 그룹인 [린킨 파크의](../Page/린킨_파크.md "wikilink") 5번째 정규 음반이다.
 
 ## 수록곡
 

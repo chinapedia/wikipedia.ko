@@ -5,7 +5,7 @@
 
 ## 개요
 
-전작 〈[NEWS일본](../Page/NEWS일본.md "wikilink")〉이 실질상 [인디즈](https://ko.wikipedia.org/wiki/독립_음악 "wikilink") 취급이기 때문에, 본작이 메이저 데뷔 싱글이 된다. 발매 당시, 본작의 어필을 위해 일본 전국을 돌아, 약 200개의 라디오 프로그램에 출연했다.
+전작 〈[NEWS일본](../Page/NEWS일본.md "wikilink")〉이 실질상 [인디즈](../Page/독립_음악.md "wikilink") 취급이기 때문에, 본작이 메이저 데뷔 싱글이 된다. 발매 당시, 본작의 어필을 위해 일본 전국을 돌아, 약 200개의 라디오 프로그램에 출연했다.
 
 초회 생산 한정반과 통상반은 자켓 사진·수록곡이 다르다. 초회 생산 한정반에는 〈NEWS 프리미엄 캠페인〉의 응모 엽서가, 통상반에는 동 캠페인의 응모권이 봉입된다. 이것은, 멤버가 참가하는 이벤트 〈NEWS 프라이빗 파티〉가, 오리지널 상품이 추첨으로 당첨된다고 하는 것으로, 〈NEWS 프라이빗 파티〉의 기획의 일부는, 후에 발매된 앨범 《[touch](https://ko.wikipedia.org/wiki/touch_\(NEWS의_음반\) "wikilink")》의 특전 DVD에 수록되었다.
 
@@ -20,7 +20,7 @@
 
     <!-- end list -->
 
-      - 《아테네 올림픽 배구 세계 최종 예선》([TBS](https://ko.wikipedia.org/wiki/도쿄_방송_홀딩스 "wikilink")·[후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 계열) 이미지 송.
+      - 《아테네 올림픽 배구 세계 최종 예선》([TBS](../Page/도쿄_방송_홀딩스.md "wikilink")·[후지 TV](../Page/후지_TV.md "wikilink") 계열) 이미지 송.
 
 2.  **Stand Up\!**
 
@@ -29,7 +29,7 @@
 
     <!-- end list -->
 
-      - NEWS 결성 이전에, [코야마 케이치로](https://ko.wikipedia.org/wiki/코야마_케이치로 "wikilink")·[카토 시게아키](https://ko.wikipedia.org/wiki/카토_시게아키 "wikilink")·[쿠사노 히로노리가](https://ko.wikipedia.org/wiki/쿠사노_히로노리 "wikilink") 소속해 있던 유닛·[K.K.Kity](https://ko.wikipedia.org/wiki/K.K.Kity "wikilink")가 노래하고 있던, 라이트 세이드 프레드의 [커버곡](https://ko.wikipedia.org/wiki/리메이크_노래 "wikilink"). 《배구 월드컵 2003》(후지 TV 계열)의 타임 아웃간에 사용되어 다음 해, 《제35회 봄 고교 배구》(후지 TV 계열)의 이미지 송으로 선택된다. 후에, 앨범 《[touch](../Page/Touch_\(NEWS의_음반\).md "wikilink")》에 〈Stand Up\! (Rock version)〉으로 수록된다.
+      - NEWS 결성 이전에, [코야마 케이치로](../Page/코야마_케이치로.md "wikilink")·[카토 시게아키](../Page/카토_시게아키.md "wikilink")·[쿠사노 히로노리가](../Page/쿠사노_히로노리.md "wikilink") 소속해 있던 유닛·[K.K.Kity](../Page/K.K.Kity.md "wikilink")가 노래하고 있던, 라이트 세이드 프레드의 [커버곡](https://ko.wikipedia.org/wiki/리메이크_노래 "wikilink"). 《배구 월드컵 2003》(후지 TV 계열)의 타임 아웃간에 사용되어 다음 해, 《제35회 봄 고교 배구》(후지 TV 계열)의 이미지 송으로 선택된다. 후에, 앨범 《[touch](../Page/Touch_\(NEWS의_음반\).md "wikilink")》에 〈Stand Up\! (Rock version)〉으로 수록된다.
 
 3.  **Good News\!**
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ VV](https://ko.wikipedia.org/wiki/_VV).
 
 
-**신트트라위던 VV**(K. Sint-Truidense V.V.)는 [벨기에](https://ko.wikipedia.org/wiki/벨기에 "wikilink") [신트트라위던](https://ko.wikipedia.org/wiki/신트트라위던 "wikilink")의 축구 클럽으로, 2019-20 시즌 현재 [벨기에 퍼스트 디비전 A](../Page/벨기에_퍼스트_디비전_A.md "wikilink") 에 소속되어있다.
+**신트트라위던 VV**(K. Sint-Truidense V.V.)는 [벨기에](../Page/벨기에.md "wikilink") [신트트라위던](https://ko.wikipedia.org/wiki/신트트라위던 "wikilink")의 축구 클럽으로, 2019-20 시즌 현재 [벨기에 퍼스트 디비전 A](../Page/벨기에_퍼스트_디비전_A.md "wikilink") 에 소속되어있다.
 
 ## 역대 성적
 

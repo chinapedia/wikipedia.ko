@@ -7,7 +7,7 @@
 
 ## 원인
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:XYY_syndrome.svg "wikilink") 47,XYY는 유전되는 것은 아니지만, 일반적으로 [정자](https://ko.wikipedia.org/wiki/정자 "wikilink") 세포의 형성 기간 동안 무작위로 발생한다. 비분열(비분리)로 불리는, [감수 분열](https://ko.wikipedia.org/wiki/감수_분열 "wikilink") 2단계의 염색체 분리 오류가 발생하면 Y 염색체가 하나 더 생기는 정자 세포가 생산될 수 있다. 이 비정상적인 정자 세포들 가운데 하나가 아이의 유전적 구성에 기여하는 경우 아이는 몸 세포 각각에 Y 염색체가 하나 더 붙게 된다.\[5\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:XYY_syndrome.svg "wikilink") 47,XYY는 유전되는 것은 아니지만, 일반적으로 [정자](https://ko.wikipedia.org/wiki/정자 "wikilink") 세포의 형성 기간 동안 무작위로 발생한다. 비분열(비분리)로 불리는, [감수 분열](../Page/감수_분열.md "wikilink") 2단계의 염색체 분리 오류가 발생하면 Y 염색체가 하나 더 생기는 정자 세포가 생산될 수 있다. 이 비정상적인 정자 세포들 가운데 하나가 아이의 유전적 구성에 기여하는 경우 아이는 몸 세포 각각에 Y 염색체가 하나 더 붙게 된다.\[5\]
 
 초기 태아 단계의 접합자 이후 [유사 분열](../Page/유사_분열.md "wikilink") 시기에 세포 분열을 하다가 비분열(비분리)이 일어나 Y 염색체가 하나 더 붙는 경우도 일부 있다. 이는 46,XY/47,XYY [모자이크가](https://ko.wikipedia.org/wiki/모자이크_\(유전학\) "wikilink") 생성될 수 있다.\[6\]
 
@@ -16,7 +16,7 @@
   - [클라인펠터 증후군](../Page/클라인펠터_증후군.md "wikilink")
   - [세 쌍 X염색체 증후군](https://ko.wikipedia.org/wiki/세_쌍_X염색체_증후군 "wikilink")
   - [터너 증후군](../Page/터너_증후군.md "wikilink")
-  - [XXYY 증후군](https://ko.wikipedia.org/wiki/XXYY_증후군 "wikilink")
+  - [XXYY 증후군](../Page/XXYY_증후군.md "wikilink")
 
 ## 각주
 

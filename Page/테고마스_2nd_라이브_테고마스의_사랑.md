@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ 2nd   ](https://ko.wikipedia.org/wiki/_2nd___).
 
 
-《**테고마스 2nd 라이브 테고마스의 사랑♥**》()는, [테고마스](https://ko.wikipedia.org/wiki/테고마스 "wikilink")의 2번째 라이브 비디오 음반이다.
+《**테고마스 2nd 라이브 테고마스의 사랑♥**》()는, [테고마스](../Page/테고마스.md "wikilink")의 2번째 라이브 비디오 음반이다.
 
 ## 개요
 

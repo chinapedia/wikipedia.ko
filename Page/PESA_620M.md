@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [PESA 620M](https://ko.wikipedia.org/wiki/PESA_620M).
 
 
-**PESA 620M**은 [폴란드](https://ko.wikipedia.org/wiki/폴란드 "wikilink") PESA 비드고슈치에서 생산한 단량 [디젤 동차로](https://ko.wikipedia.org/wiki/디젤_동차 "wikilink"), [리투아니아](https://ko.wikipedia.org/wiki/리투아니아 "wikilink"), [우크라이나](https://ko.wikipedia.org/wiki/우크라이나 "wikilink"), [벨라루스](https://ko.wikipedia.org/wiki/벨라루스 "wikilink")의 철도에서 사용 중이다.
+**PESA 620M**은 [폴란드](../Page/폴란드.md "wikilink") PESA 비드고슈치에서 생산한 단량 [디젤 동차로](https://ko.wikipedia.org/wiki/디젤_동차 "wikilink"), [리투아니아](../Page/리투아니아.md "wikilink"), [우크라이나](../Page/우크라이나.md "wikilink"), [벨라루스](../Page/벨라루스.md "wikilink")의 철도에서 사용 중이다.
 
 ## 차량
 
-620M은 폴란드에서 사용 중인 PESA 214M을 기반으로 개발되었다. 주 사용 지역에 맞추어 [러시아 궤간으로](https://ko.wikipedia.org/wiki/러시아_궤간 "wikilink") 설계가 변경되었고, 이에 따라서 2+3 좌석을 장착할 수 있게 되었다. 차량 양쪽에 모두 운전실이 있으며, 출입문은 면당 두 개에 저상 승강장을 위한 계단이 설치되어 있다. [디젤 엔진과](https://ko.wikipedia.org/wiki/디젤_엔진 "wikilink") [변속기](../Page/변속기.md "wikilink"), 냉각 시스템으로 이루어진 파워팩은 좌석부 아래에 장착되어 있으며, 620M-004까지의 초기형과 이후 제작분의 구성 방식이 다르다. 전기형은 MTU 6R183TD13H 315kW 디젤 엔진이 장착되어 있으며, 후기형은 MAN D2876LUE623 385kW 엔진이 장착되어 있다. 트랜스미션은 전기형이 Voith Tr211re3, 후기형이 Tr211re4를 사용한다. 전기형에는 BEHR에서 제조한 냉각 시스템이 장착되어 있으며, 후기형에는 Voith 냉각 시스템이 장착되어 있다.
+620M은 폴란드에서 사용 중인 PESA 214M을 기반으로 개발되었다. 주 사용 지역에 맞추어 [러시아 궤간으로](../Page/러시아_궤간.md "wikilink") 설계가 변경되었고, 이에 따라서 2+3 좌석을 장착할 수 있게 되었다. 차량 양쪽에 모두 운전실이 있으며, 출입문은 면당 두 개에 저상 승강장을 위한 계단이 설치되어 있다. [디젤 엔진과](../Page/디젤_엔진.md "wikilink") [변속기](../Page/변속기.md "wikilink"), 냉각 시스템으로 이루어진 파워팩은 좌석부 아래에 장착되어 있으며, 620M-004까지의 초기형과 이후 제작분의 구성 방식이 다르다. 전기형은 MTU 6R183TD13H 315kW 디젤 엔진이 장착되어 있으며, 후기형은 MAN D2876LUE623 385kW 엔진이 장착되어 있다. 트랜스미션은 전기형이 Voith Tr211re3, 후기형이 Tr211re4를 사용한다. 전기형에는 BEHR에서 제조한 냉각 시스템이 장착되어 있으며, 후기형에는 Voith 냉각 시스템이 장착되어 있다.
 
 ## 국가별 도입
 

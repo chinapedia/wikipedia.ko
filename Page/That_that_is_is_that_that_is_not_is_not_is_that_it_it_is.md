@@ -9,7 +9,7 @@
 
 ## 같이 보기
 
-  - [Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo](https://ko.wikipedia.org/wiki/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo "wikilink")
+  - [Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo](../Page/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo.md "wikilink")
   - [James while John had had had had had had had had had had had a better effect on the teacher](https://ko.wikipedia.org/wiki/James_while_John_had_had_had_had_had_had_had_had_had_had_had_a_better_effect_on_the_teacher "wikilink")
 
 ## 각주 및 인용

@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [GOLD \(\)](https://ko.wikipedia.org/wiki/GOLD_\(\)).
 
 
-《**GOLD**》(골드)는 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [7월 8일](https://ko.wikipedia.org/wiki/7월_8일 "wikilink") 부터 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [9월 16일까지](https://ko.wikipedia.org/wiki/9월_16일 "wikilink") [후지 TV에서](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 방송된 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink").
+《**GOLD**》(골드)는 [2010년](../Page/2010년.md "wikilink") [7월 8일](../Page/7월_8일.md "wikilink") 부터 [2010년](../Page/2010년.md "wikilink") [9월 16일까지](../Page/9월_16일.md "wikilink") [후지 TV에서](../Page/후지_TV.md "wikilink") 방송된 [일본](../Page/일본.md "wikilink")의 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink").
 
 ## 개요
 
-[싱글맘](https://ko.wikipedia.org/wiki/싱글맘 "wikilink")으로서 4명의 아이들을 길러낸 여성을 통해 최고의 가족애를 그리는 홈 드라마. 각본은 [노지마 신지가](../Page/노지마_신지.md "wikilink") 맡았고, [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 《[장미가 없는 꽃집](../Page/장미가_없는_꽃집.md "wikilink")》이래 3년만의 작품이다.
+[싱글맘](https://ko.wikipedia.org/wiki/싱글맘 "wikilink")으로서 4명의 아이들을 길러낸 여성을 통해 최고의 가족애를 그리는 홈 드라마. 각본은 [노지마 신지가](../Page/노지마_신지.md "wikilink") 맡았고, [2008년](../Page/2008년.md "wikilink") [후지 TV](../Page/후지_TV.md "wikilink") 《[장미가 없는 꽃집](../Page/장미가_없는_꽃집.md "wikilink")》이래 3년만의 작품이다.
 
 [캐치프레이즈](https://ko.wikipedia.org/wiki/캐치프레이즈 "wikilink")는 〈**"아마미 유키 금메달을 목표로 한다.", "금메달을 획득하지 않는다면, 끝나지 않아."**〉
 
@@ -13,7 +13,7 @@
 
 ### 사오토메가(家)
 
-  - **사오토메 유리** : [아마미 유키](https://ko.wikipedia.org/wiki/아마미_유키 "wikilink")
+  - **사오토메 유리** : [아마미 유키](../Page/아마미_유키.md "wikilink")
 
 <!-- end list -->
 
@@ -27,7 +27,7 @@
 <!-- end list -->
 
   -
-    향년 22세. 유리의 오빠로, 수영 올림픽 대표 선수. [1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink"), 서울 올림픽에서 금메달을 획득 직전에 사고사했다고 되어 있었다. 하지만 실제로는 금메달리스트가 된 호주의 유력선수의 출현에 동요하고 올림픽에서 이길 수 없다고 생각해 자신감을 잃고 끝내 자살하였다.
+    향년 22세. 유리의 오빠로, 수영 올림픽 대표 선수. [1988년](../Page/1988년.md "wikilink"), 서울 올림픽에서 금메달을 획득 직전에 사고사했다고 되어 있었다. 하지만 실제로는 금메달리스트가 된 호주의 유력선수의 출현에 동요하고 올림픽에서 이길 수 없다고 생각해 자신감을 잃고 끝내 자살하였다.
 
 <!-- end list -->
 
@@ -148,7 +148,7 @@
 
 <!-- end list -->
 
-  - **우츠키 요스케** : [아야노 고](https://ko.wikipedia.org/wiki/아야노_고 "wikilink") (제2화 \~ 제7화)
+  - **우츠키 요스케** : [아야노 고](../Page/아야노_고.md "wikilink") (제2화 \~ 제7화)
 
 <!-- end list -->
 
@@ -211,7 +211,7 @@
 
 <!-- end list -->
 
-  - **카미 마이코** : [미나미사와 나오](https://ko.wikipedia.org/wiki/미나미사와_나오 "wikilink") (제7화 \~ 최종화)
+  - **카미 마이코** : [미나미사와 나오](../Page/미나미사와_나오.md "wikilink") (제7화 \~ 최종화)
 
 <!-- end list -->
 
@@ -251,7 +251,7 @@
   - 음악 : 센주 아키라, 이케 요시히로
   - 프로듀서 : 아즈마 야스유키
   - 연출 : 카와케 슌사쿠, 카토 히로마사, 이시이 유스케
-  - 제작 : [후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 드라마 제작 센터
+  - 제작 : [후지 TV](../Page/후지_TV.md "wikilink") 드라마 제작 센터
 
 ## DVD
 
@@ -374,7 +374,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>(시청률은 <a href="https://ko.wikipedia.org/wiki/간토_지방" title="wikilink">간토 지방</a>·비디오 리서치사 조사)</p></td>
+<td><p>(시청률은 <a href="../Page/간토_지방.md" title="wikilink">간토 지방</a>·비디오 리서치사 조사)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -384,8 +384,8 @@
 </tbody>
 </table>
 
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [7월 29일](https://ko.wikipedia.org/wiki/7월_29일 "wikilink") 제4회는 《톤네루즈의 여러분 덕분입니다》 확대 방송을 위해 20분 지연 방송되었다.
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [9월 9일](https://ko.wikipedia.org/wiki/9월_9일 "wikilink") 제10화는 《세계 유도 선수권 2010》 중계 연장을 위해 40분 지연 방송되었다.
+  - [2010년](../Page/2010년.md "wikilink") [7월 29일](../Page/7월_29일.md "wikilink") 제4회는 《톤네루즈의 여러분 덕분입니다》 확대 방송을 위해 20분 지연 방송되었다.
+  - [2010년](../Page/2010년.md "wikilink") [9월 9일](../Page/9월_9일.md "wikilink") 제10화는 《세계 유도 선수권 2010》 중계 연장을 위해 40분 지연 방송되었다.
 
 ## 외부 링크
 

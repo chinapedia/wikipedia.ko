@@ -1,77 +1,77 @@
 > This article is converted from Wikipedia: [J. K. ](https://ko.wikipedia.org/wiki/J._K._).
 
 
-**J. K. 시먼스**(J. K. Simmons, [1955년](https://ko.wikipedia.org/wiki/1955년 "wikilink") [1월 9일](https://ko.wikipedia.org/wiki/1월_9일 "wikilink") \~ )는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [배우](../Page/배우.md "wikilink")이다.
+**J. K. 시먼스**(J. K. Simmons, [1955년](../Page/1955년.md "wikilink") [1월 9일](../Page/1월_9일.md "wikilink") \~ )는 [미국](../Page/미국.md "wikilink")의 [배우](../Page/배우.md "wikilink")이다.
 
 ## 출연 작품
 
-| **연도**                                                  | **작품명**                                                                         | **원제**                                   | **역할**     | **비고** |
-| ------------------------------------------------------- | ------------------------------------------------------------------------------- | ---------------------------------------- | ---------- | ------ |
-| [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink") | 법과 질서                                                                           | Law & Order                              |            |        |
-| [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") | 사랑의 금고털이                                                                        | The Ref , Hostile Hostages               |            |        |
-| [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") | 스카우트                                                                            | The Scout                                |            |        |
-| [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") | 선택                                                                              | Extreme Measures                         |            |        |
-| [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") | [자칼](../Page/자칼_\(영화\).md "wikilink")                                           | The Jackal                               | 위더스푼       |        |
-| [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") | 사랑의 트라이앵글                                                                       | Love Walked In                           |            |        |
-| [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") | [사랑을 위하여](https://ko.wikipedia.org/wiki/사랑을_위하여_\(1999년_영화\) "wikilink")        | For Love Of The Game                     | 프랭크 페리     |        |
-| [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") | [사이더 하우스](../Page/사이더_하우스.md "wikilink")                                        | The Cider House Rules                    | 레이 켄달      |        |
-| [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") | 히트 앤 런어웨이                                                                       | Hit And Runway                           |            |        |
-| [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") | 뉴욕의 가을                                                                          | Autumn In New York                       | 닥터 톰 그랜디   |        |
-| [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") | [기프트](https://ko.wikipedia.org/wiki/기프트_\(2000년_영화\) "wikilink")                | The Gift                                 | 존슨 보안관     |        |
-| [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") | 뷰티풀 죠                                                                           | Beautiful Joe                            |            |        |
-| [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") | [멕시칸](../Page/멕시칸_\(영화\).md "wikilink")                                         | The Mexican                              | 테드 슬로컴     |        |
-| [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") | [스파이더맨](../Page/스파이더맨_\(영화\).md "wikilink")                                     | Spider-Man                               | J. 조나 제임슨  |        |
-| [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") | 페스 투 워                                                                          | Path To War                              |            |        |
-| [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") | 오프 더 맵                                                                          | Off The Map                              |            |        |
-| [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") | [히달고](https://ko.wikipedia.org/wiki/히달고 "wikilink")                             | Hidalgo                                  |            |        |
-| [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") | [레이디킬러](https://ko.wikipedia.org/wiki/레이디킬러 "wikilink")                         | The Ladykillers                          | 가스 팬케이크    |        |
-| [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") | [스파이더맨 2](../Page/스파이더맨_2.md "wikilink")                                        | Spider-Man 2                             | J. 조나 제임슨  |        |
-| [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") | [하쉬 타임](../Page/하쉬_타임.md "wikilink")                                            | Harsh Times                              |            |        |
-| [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") | 땡큐 포 스모킹                                                                        | Thank You For Smoking                    | 버드 BR 로러베처 |        |
-| [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") | 퍼스트 스노우                                                                         | First Snow                               | 바카로        |        |
-| [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") | [스파이더맨 3](../Page/스파이더맨_3.md "wikilink")                                        | Spider-Man 3                             | J. 조나 제임슨  |        |
-| [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") | [주노](https://ko.wikipedia.org/wiki/주노_\(영화\) "wikilink")                        | Juno                                     | 맥 맥거프      |        |
-| [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") | [렌디션 (영화)](https://ko.wikipedia.org/wiki/렌디션_\(영화\) "wikilink")                 | Rendition                                | 리 메이어      |        |
-| [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") | 애스트로넛 파머                                                                        | The Astronaut Farmer                     | 제이콥슨       |        |
-| [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") | 포스탈                                                                             | Postal                                   |            |        |
-| [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") | [번 애프터 리딩](../Page/번_애프터_리딩.md "wikilink")                                      | Burn After Reading                       | CIA 상관     |        |
-| [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") | 미쓰 루시힐                                                                          | New In Town                              | 스투 코펜하퍼    |        |
-| [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") | [인 디 에어](../Page/인_디_에어.md "wikilink")                                          | Up In The Air                            | 밥          |        |
-| [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") | [죽여줘\! 제니퍼](https://ko.wikipedia.org/wiki/죽여줘!_제니퍼 "wikilink")                  | Jennifer's Body                          | 미스터 로블스키   |        |
-| [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") | 붉은 모래                                                                           | Red Sands                                |            |        |
-| [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") | 웨이 오브 워                                                                         | The Way Of War                           |            |        |
-| [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") | [알러뷰 맨](../Page/알러뷰_맨.md "wikilink")                                            | I Love You, Man                          | 오스왈드 클레이븐  |        |
-| [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") | [엑스트랙트](https://ko.wikipedia.org/wiki/엑스트랙트 "wikilink")                         | Extract                                  |            |        |
-| [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") | [포스트 그래드](https://ko.wikipedia.org/wiki/포스트_그래드 "wikilink")                     | Post Grad                                |            |        |
-| [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") | 비셔스 카인드                                                                         | The Vicious Kind                         |            |        |
-| [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") | 캣츠 앤 독스 2                                                                       | Cats & Dogs: The Revenge Of Kitty Galore |            |        |
-| [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") | [메가마인드](../Page/메가마인드.md "wikilink")                                            | Megamind                                 | 워든         |        |
-| [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") | [인비저블 사인](../Page/인비저블_사인.md "wikilink")                                        | An Invisible Sign                        | 존스         |        |
-| [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") | 크레이지 온더 아웃사이드                                                                   | Crazy On The Outside                     |            |        |
-| [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") | 비기너스 가이드 투 엔딩                                                                   | A Beginner's Guide To Endings            |            |        |
-| [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") | 뮤직 네버 스탑                                                                        | The Music Never Stopped                  | 헨리 소여      |        |
-| [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") | [굿 닥터](https://ko.wikipedia.org/wiki/굿_닥터_\(영화\) "wikilink")                    | The Good Doctor                          |            |        |
-| [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") | [영 어덜트](../Page/영_어덜트.md "wikilink")                                            | Young Adult                              | 편집장 목소리    |        |
-| [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") | [콘트라밴드](../Page/콘트라밴드_\(영화\).md "wikilink")                                     | Contraband                               | 캡틴         |        |
-| [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") | [더 스토리: 세상에 숨겨진 사랑](https://ko.wikipedia.org/wiki/더_스토리:_세상에_숨겨진_사랑 "wikilink") | The Words                                |            |        |
-| [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") | [잡스](../Page/잡스_\(영화\).md "wikilink")                                           | Jobs                                     | 아서 락       |        |
-| [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") | [3 기저스\!](https://ko.wikipedia.org/wiki/3_기저스! "wikilink")                      | 3 Geezers\!                              | 제이 킴벨      |        |
-| [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") | [위플래쉬](../Page/위플래쉬.md "wikilink")                                              | Whiplash                                 | 플렛처        |        |
-| [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") | [한 번 더 해피엔딩](https://ko.wikipedia.org/wiki/한_번_더_해피엔딩 "wikilink")               | The Rewrite                              | Dr. 러너     |        |
-| [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") | 베어풋                                                                             | Barefoot                                 | Dr. 베르텔만   |        |
-| [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") | [밀리언 달러 암](../Page/밀리언_달러_암.md "wikilink")                                      | Million Dollar Arm                       |            |        |
-| [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") | [터미네이터 제니시스](../Page/터미네이터_제니시스.md "wikilink")                                  | Terminator Genisys                       | 오브라이언      |        |
-| [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") | [아브릴과 조작된 세계](../Page/아브릴과_조작된_세계.md "wikilink")                                | April and the Twisted World              | 로드리그       |        |
-| [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") | [라라랜드](../Page/라라랜드.md "wikilink")                                              | La La Land                               | 재즈클럽 사장    |        |
-| [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") | [스노우맨](../Page/스노우맨_\(영화\).md "wikilink")                                       | The Snowman                              | 아르브 스탑     |        |
-| [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") | [레니게이드](https://ko.wikipedia.org/wiki/레니게이드 "wikilink")                         | Renegades                                |            |        |
-| [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") | 파더 피거스                                                                          | Father Figures                           |            |        |
-| [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") | 올 나잇터                                                                           | All Nighter                              |            |        |
-| [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") | 아임 낫 히어                                                                         | I'm Not Here                             |            |        |
-| [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") | 해피 어게인                                                                          | The Bachelors                            |            |        |
-| [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") | 더 박스카 칠드런: 서프라이즈 아일랜드                                                           | The Boxcar Children: Surprise Island     |            |        |
-| [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") | 더 프론트 러너                                                                        | The Front Runner                         |            |        |
-| [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") | [스파이더맨: 파 프롬 홈](../Page/스파이더맨:_파_프롬_홈.md "wikilink")                            | Spider-Man: Far From Home                |            |        |
+| **연도**                               | **작품명**                                                           | **원제**                                   | **역할**     | **비고** |
+| ------------------------------------ | ----------------------------------------------------------------- | ---------------------------------------- | ---------- | ------ |
+| [1990년](../Page/1990년.md "wikilink") | 법과 질서                                                             | Law & Order                              |            |        |
+| [1994년](../Page/1994년.md "wikilink") | 사랑의 금고털이                                                          | The Ref , Hostile Hostages               |            |        |
+| [1994년](../Page/1994년.md "wikilink") | 스카우트                                                              | The Scout                                |            |        |
+| [1996년](../Page/1996년.md "wikilink") | 선택                                                                | Extreme Measures                         |            |        |
+| [1997년](../Page/1997년.md "wikilink") | [자칼](../Page/자칼_\(영화\).md "wikilink")                             | The Jackal                               | 위더스푼       |        |
+| [1997년](../Page/1997년.md "wikilink") | 사랑의 트라이앵글                                                         | Love Walked In                           |            |        |
+| [1999년](../Page/1999년.md "wikilink") | [사랑을 위하여](../Page/사랑을_위하여_\(1999년_영화\).md "wikilink")             | For Love Of The Game                     | 프랭크 페리     |        |
+| [1999년](../Page/1999년.md "wikilink") | [사이더 하우스](../Page/사이더_하우스.md "wikilink")                          | The Cider House Rules                    | 레이 켄달      |        |
+| [1999년](../Page/1999년.md "wikilink") | 히트 앤 런어웨이                                                         | Hit And Runway                           |            |        |
+| [2000년](../Page/2000년.md "wikilink") | 뉴욕의 가을                                                            | Autumn In New York                       | 닥터 톰 그랜디   |        |
+| [2000년](../Page/2000년.md "wikilink") | [기프트](https://ko.wikipedia.org/wiki/기프트_\(2000년_영화\) "wikilink")  | The Gift                                 | 존슨 보안관     |        |
+| [2000년](../Page/2000년.md "wikilink") | 뷰티풀 죠                                                             | Beautiful Joe                            |            |        |
+| [2001년](../Page/2001년.md "wikilink") | [멕시칸](../Page/멕시칸_\(영화\).md "wikilink")                           | The Mexican                              | 테드 슬로컴     |        |
+| [2001년](../Page/2001년.md "wikilink") | [스파이더맨](../Page/스파이더맨_\(영화\).md "wikilink")                       | Spider-Man                               | J. 조나 제임슨  |        |
+| [2002년](../Page/2002년.md "wikilink") | 페스 투 워                                                            | Path To War                              |            |        |
+| [2003년](../Page/2003년.md "wikilink") | 오프 더 맵                                                            | Off The Map                              |            |        |
+| [2004년](../Page/2004년.md "wikilink") | [히달고](https://ko.wikipedia.org/wiki/히달고 "wikilink")               | Hidalgo                                  |            |        |
+| [2004년](../Page/2004년.md "wikilink") | [레이디킬러](../Page/레이디킬러.md "wikilink")                              | The Ladykillers                          | 가스 팬케이크    |        |
+| [2004년](../Page/2004년.md "wikilink") | [스파이더맨 2](../Page/스파이더맨_2.md "wikilink")                          | Spider-Man 2                             | J. 조나 제임슨  |        |
+| [2005년](../Page/2005년.md "wikilink") | [하쉬 타임](../Page/하쉬_타임.md "wikilink")                              | Harsh Times                              |            |        |
+| [2005년](../Page/2005년.md "wikilink") | 땡큐 포 스모킹                                                          | Thank You For Smoking                    | 버드 BR 로러베처 |        |
+| [2006년](../Page/2006년.md "wikilink") | 퍼스트 스노우                                                           | First Snow                               | 바카로        |        |
+| [2006년](../Page/2006년.md "wikilink") | [스파이더맨 3](../Page/스파이더맨_3.md "wikilink")                          | Spider-Man 3                             | J. 조나 제임슨  |        |
+| [2007년](../Page/2007년.md "wikilink") | [주노](../Page/주노_\(영화\).md "wikilink")                             | Juno                                     | 맥 맥거프      |        |
+| [2007년](../Page/2007년.md "wikilink") | [렌디션 (영화)](../Page/렌디션_\(영화\).md "wikilink")                      | Rendition                                | 리 메이어      |        |
+| [2007년](../Page/2007년.md "wikilink") | 애스트로넛 파머                                                          | The Astronaut Farmer                     | 제이콥슨       |        |
+| [2007년](../Page/2007년.md "wikilink") | 포스탈                                                               | Postal                                   |            |        |
+| [2008년](../Page/2008년.md "wikilink") | [번 애프터 리딩](../Page/번_애프터_리딩.md "wikilink")                        | Burn After Reading                       | CIA 상관     |        |
+| [2009년](../Page/2009년.md "wikilink") | 미쓰 루시힐                                                            | New In Town                              | 스투 코펜하퍼    |        |
+| [2009년](../Page/2009년.md "wikilink") | [인 디 에어](../Page/인_디_에어.md "wikilink")                            | Up In The Air                            | 밥          |        |
+| [2009년](../Page/2009년.md "wikilink") | [죽여줘\! 제니퍼](../Page/죽여줘!_제니퍼.md "wikilink")                       | Jennifer's Body                          | 미스터 로블스키   |        |
+| [2009년](../Page/2009년.md "wikilink") | 붉은 모래                                                             | Red Sands                                |            |        |
+| [2009년](../Page/2009년.md "wikilink") | 웨이 오브 워                                                           | The Way Of War                           |            |        |
+| [2009년](../Page/2009년.md "wikilink") | [알러뷰 맨](../Page/알러뷰_맨.md "wikilink")                              | I Love You, Man                          | 오스왈드 클레이븐  |        |
+| [2009년](../Page/2009년.md "wikilink") | [엑스트랙트](https://ko.wikipedia.org/wiki/엑스트랙트 "wikilink")           | Extract                                  |            |        |
+| [2009년](../Page/2009년.md "wikilink") | [포스트 그래드](https://ko.wikipedia.org/wiki/포스트_그래드 "wikilink")       | Post Grad                                |            |        |
+| [2009년](../Page/2009년.md "wikilink") | 비셔스 카인드                                                           | The Vicious Kind                         |            |        |
+| [2010년](../Page/2010년.md "wikilink") | 캣츠 앤 독스 2                                                         | Cats & Dogs: The Revenge Of Kitty Galore |            |        |
+| [2010년](../Page/2010년.md "wikilink") | [메가마인드](../Page/메가마인드.md "wikilink")                              | Megamind                                 | 워든         |        |
+| [2010년](../Page/2010년.md "wikilink") | [인비저블 사인](../Page/인비저블_사인.md "wikilink")                          | An Invisible Sign                        | 존스         |        |
+| [2010년](../Page/2010년.md "wikilink") | 크레이지 온더 아웃사이드                                                     | Crazy On The Outside                     |            |        |
+| [2010년](../Page/2010년.md "wikilink") | 비기너스 가이드 투 엔딩                                                     | A Beginner's Guide To Endings            |            |        |
+| [2011년](../Page/2011년.md "wikilink") | 뮤직 네버 스탑                                                          | The Music Never Stopped                  | 헨리 소여      |        |
+| [2011년](../Page/2011년.md "wikilink") | [굿 닥터](https://ko.wikipedia.org/wiki/굿_닥터_\(영화\) "wikilink")      | The Good Doctor                          |            |        |
+| [2011년](../Page/2011년.md "wikilink") | [영 어덜트](../Page/영_어덜트.md "wikilink")                              | Young Adult                              | 편집장 목소리    |        |
+| [2012년](../Page/2012년.md "wikilink") | [콘트라밴드](../Page/콘트라밴드_\(영화\).md "wikilink")                       | Contraband                               | 캡틴         |        |
+| [2012년](../Page/2012년.md "wikilink") | [더 스토리: 세상에 숨겨진 사랑](../Page/더_스토리:_세상에_숨겨진_사랑.md "wikilink")      | The Words                                |            |        |
+| [2013년](../Page/2013년.md "wikilink") | [잡스](../Page/잡스_\(영화\).md "wikilink")                             | Jobs                                     | 아서 락       |        |
+| [2013년](../Page/2013년.md "wikilink") | [3 기저스\!](https://ko.wikipedia.org/wiki/3_기저스! "wikilink")        | 3 Geezers\!                              | 제이 킴벨      |        |
+| [2014년](../Page/2014년.md "wikilink") | [위플래쉬](../Page/위플래쉬.md "wikilink")                                | Whiplash                                 | 플렛처        |        |
+| [2014년](../Page/2014년.md "wikilink") | [한 번 더 해피엔딩](https://ko.wikipedia.org/wiki/한_번_더_해피엔딩 "wikilink") | The Rewrite                              | Dr. 러너     |        |
+| [2014년](../Page/2014년.md "wikilink") | 베어풋                                                               | Barefoot                                 | Dr. 베르텔만   |        |
+| [2014년](../Page/2014년.md "wikilink") | [밀리언 달러 암](../Page/밀리언_달러_암.md "wikilink")                        | Million Dollar Arm                       |            |        |
+| [2015년](../Page/2015년.md "wikilink") | [터미네이터 제니시스](../Page/터미네이터_제니시스.md "wikilink")                    | Terminator Genisys                       | 오브라이언      |        |
+| [2015년](../Page/2015년.md "wikilink") | [아브릴과 조작된 세계](../Page/아브릴과_조작된_세계.md "wikilink")                  | April and the Twisted World              | 로드리그       |        |
+| [2016년](../Page/2016년.md "wikilink") | [라라랜드](../Page/라라랜드.md "wikilink")                                | La La Land                               | 재즈클럽 사장    |        |
+| [2017년](../Page/2017년.md "wikilink") | [스노우맨](../Page/스노우맨_\(영화\).md "wikilink")                         | The Snowman                              | 아르브 스탑     |        |
+| [2017년](../Page/2017년.md "wikilink") | [레니게이드](https://ko.wikipedia.org/wiki/레니게이드 "wikilink")           | Renegades                                |            |        |
+| [2017년](../Page/2017년.md "wikilink") | 파더 피거스                                                            | Father Figures                           |            |        |
+| [2017년](../Page/2017년.md "wikilink") | 올 나잇터                                                             | All Nighter                              |            |        |
+| [2017년](../Page/2017년.md "wikilink") | 아임 낫 히어                                                           | I'm Not Here                             |            |        |
+| [2017년](../Page/2017년.md "wikilink") | 해피 어게인                                                            | The Bachelors                            |            |        |
+| [2017년](../Page/2017년.md "wikilink") | 더 박스카 칠드런: 서프라이즈 아일랜드                                             | The Boxcar Children: Surprise Island     |            |        |
+| [2018년](../Page/2018년.md "wikilink") | 더 프론트 러너                                                          | The Front Runner                         |            |        |
+| [2019년](../Page/2019년.md "wikilink") | [스파이더맨: 파 프롬 홈](../Page/스파이더맨:_파_프롬_홈.md "wikilink")              | Spider-Man: Far From Home                |            |        |
 
 ## 수상 경력
 

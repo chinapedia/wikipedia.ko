@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ SK](https://ko.wikipedia.org/wiki/_SK).
 
 
-**리르서 SK**(K. Lierse S.K.)는 [벨기에](https://ko.wikipedia.org/wiki/벨기에 "wikilink") [리르](https://ko.wikipedia.org/wiki/리르 "wikilink")의 축구 클럽으로, 현재 [벨기에 프로 리그에서](https://ko.wikipedia.org/wiki/벨기에_프로_리그 "wikilink") 뛰고 있다. 벨기에 1부 리그에서 4회 우승했으며 한동안 2부 리그로 강등되었다가 1부 리그로 다시 승격된 경력을 갖고 있다.
+**리르서 SK**(K. Lierse S.K.)는 [벨기에](../Page/벨기에.md "wikilink") [리르](https://ko.wikipedia.org/wiki/리르 "wikilink")의 축구 클럽으로, 현재 [벨기에 프로 리그에서](https://ko.wikipedia.org/wiki/벨기에_프로_리그 "wikilink") 뛰고 있다. 벨기에 1부 리그에서 4회 우승했으며 한동안 2부 리그로 강등되었다가 1부 리그로 다시 승격된 경력을 갖고 있다.
 
 ## 역대 성적
 
@@ -14,7 +14,7 @@
 
   - [하니 람지](../Page/하니_람지.md "wikilink")
 
-  - [플라비우 아마두](https://ko.wikipedia.org/wiki/플라비우_아마두 "wikilink")
+  - [플라비우 아마두](../Page/플라비우_아마두.md "wikilink")
 
 ## 외부 링크
 

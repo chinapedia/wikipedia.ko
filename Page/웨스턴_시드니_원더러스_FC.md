@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [   FC](https://ko.wikipedia.org/wiki/___FC).
 
 
-**웨스턴 시드니 원더러스 FC**(Western Sydney Wanderers FC)는 [오스트레일리아](https://ko.wikipedia.org/wiki/오스트레일리아 "wikilink")의 [A리그](../Page/A리그.md "wikilink") 소속 프로축구단으로 [뉴사우스웨일스주](https://ko.wikipedia.org/wiki/뉴사우스웨일스주 "wikilink")의 [시드니](https://ko.wikipedia.org/wiki/시드니 "wikilink")의 서부 지역을 연고로 한다. 2012-13 시즌부터 A리그에 참가하기 시작하였다.
+**웨스턴 시드니 원더러스 FC**(Western Sydney Wanderers FC)는 [오스트레일리아](../Page/오스트레일리아.md "wikilink")의 [A리그](../Page/A리그.md "wikilink") 소속 프로축구단으로 [뉴사우스웨일스주](../Page/뉴사우스웨일스주.md "wikilink")의 [시드니](../Page/시드니.md "wikilink")의 서부 지역을 연고로 한다. 2012-13 시즌부터 A리그에 참가하기 시작하였다.
 
 ## 역사
 
-[2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [4월 4일에](https://ko.wikipedia.org/wiki/4월_4일 "wikilink") 창단하였고 [토니 포포비치](https://ko.wikipedia.org/wiki/토니_포포비치 "wikilink") 감독을 팀의 초대 감독으로 선임한 후 2012-13 시즌부터 [A리그](../Page/A리그.md "wikilink")에 참가하기 시작하였다. 창단 첫 해 정규 리그 우승을 기록하고 그랜드 파이널에 출전하였으나 [센트럴코스트에](https://ko.wikipedia.org/wiki/센트럴코스트_매리너스_FC "wikilink") 패하여 준우승에 머물렀다.
+[2012년](../Page/2012년.md "wikilink") [4월 4일에](../Page/4월_4일.md "wikilink") 창단하였고 [토니 포포비치](../Page/토니_포포비치.md "wikilink") 감독을 팀의 초대 감독으로 선임한 후 2012-13 시즌부터 [A리그](../Page/A리그.md "wikilink")에 참가하기 시작하였다. 창단 첫 해 정규 리그 우승을 기록하고 그랜드 파이널에 출전하였으나 [센트럴코스트에](../Page/센트럴코스트_매리너스_FC.md "wikilink") 패하여 준우승에 머물렀다.
 
 이후, [2014 AFC 챔피언스리그에](https://ko.wikipedia.org/wiki/2014_AFC_챔피언스리그 "wikilink") 처음으로 우승하였다. 이는 [A리그](../Page/A리그.md "wikilink")에서 최초의 [AFC 챔피언스리그](../Page/AFC_챔피언스리그.md "wikilink") 우승이기도 하다.
 

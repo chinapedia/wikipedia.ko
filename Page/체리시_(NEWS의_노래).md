@@ -29,7 +29,7 @@
 
     <!-- end list -->
 
-      - [코야마 케이치로가](https://ko.wikipedia.org/wiki/코야마_케이치로 "wikilink") 퍼스낼리티를 맡은 라디오 프로그램, 《[NEWS의 Party Time](https://ko.wikipedia.org/wiki/K짱_NEWS#NEWS의_Party_Time "wikilink")》 ([분카 방송](../Page/분카_방송.md "wikilink")) 테마 송. 동 곡의 타이틀이 그대로 프로그램명으로도 사용되었다.
+      - [코야마 케이치로가](../Page/코야마_케이치로.md "wikilink") 퍼스낼리티를 맡은 라디오 프로그램, 《[NEWS의 Party Time](https://ko.wikipedia.org/wiki/K짱_NEWS#NEWS의_Party_Time "wikilink")》 ([분카 방송](../Page/분카_방송.md "wikilink")) 테마 송. 동 곡의 타이틀이 그대로 프로그램명으로도 사용되었다.
 
 3.  **SHOCK ME**
 

@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [The Love Bug](https://ko.wikipedia.org/wiki/The_Love_Bug).
 
 
-《**the Love Bug**》는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [m-flo](https://ko.wikipedia.org/wiki/m-flo "wikilink")와 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") [여자](../Page/여성.md "wikilink") [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [보아](https://ko.wikipedia.org/wiki/보아 "wikilink")가 일본에서 발매한 듀엣 싱글이다. [m-flo](https://ko.wikipedia.org/wiki/m-flo "wikilink")의 통산 16번째 [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink")이며 **[m-flo](https://ko.wikipedia.org/wiki/m-flo "wikilink") loves Who?** 시리즈의 제3탄으로 [m-flo](https://ko.wikipedia.org/wiki/m-flo "wikilink") loves [BoA](https://ko.wikipedia.org/wiki/BoA "wikilink") 명의로 발매되었다.
+《**the Love Bug**》는 [일본](../Page/일본.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [m-flo](https://ko.wikipedia.org/wiki/m-flo "wikilink")와 [대한민국](../Page/대한민국.md "wikilink") [여자](../Page/여성.md "wikilink") [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [보아](../Page/보아.md "wikilink")가 일본에서 발매한 듀엣 싱글이다. [m-flo](https://ko.wikipedia.org/wiki/m-flo "wikilink")의 통산 16번째 [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink")이며 **[m-flo](https://ko.wikipedia.org/wiki/m-flo "wikilink") loves Who?** 시리즈의 제3탄으로 [m-flo](https://ko.wikipedia.org/wiki/m-flo "wikilink") loves [BoA](https://ko.wikipedia.org/wiki/BoA "wikilink") 명의로 발매되었다.
 
 ## 설명
 
   - 이 싱글에 미수록된 [the Love Bug의](https://ko.wikipedia.org/wiki/the_Love_Bug "wikilink") Instrumental 버전은 아날로그판에 수록되고 있다.
   - 베이스라인은[Sylvia Striplin](https://ko.wikipedia.org/wiki/:_en:Sylvia_Striplin "wikilink") 의 앨범 「[Give Me Your Love](https://ko.wikipedia.org/wiki/:_en:Give_Me_Your_Love_\(album\) "wikilink") 」의 타이틀곡을 인용하고 있다.
-  - [m-flo](https://ko.wikipedia.org/wiki/m-flo "wikilink")의 ASTROMANTIC 앨범에도 수록되었고, [보아](https://ko.wikipedia.org/wiki/보아 "wikilink")의 일본 베스트 앨범 [BEST OF SOUL의](../Page/BEST_OF_SOUL.md "wikilink") DVD에 PV가 수록되었다.
+  - [m-flo](https://ko.wikipedia.org/wiki/m-flo "wikilink")의 ASTROMANTIC 앨범에도 수록되었고, [보아](../Page/보아.md "wikilink")의 일본 베스트 앨범 [BEST OF SOUL의](../Page/BEST_OF_SOUL.md "wikilink") DVD에 PV가 수록되었다.
 
 ## 수록곡
 

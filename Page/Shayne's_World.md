@@ -15,7 +15,7 @@
 
 ## 외부 링크
 
-  - [셰인의 다른 선택지 SHAYNE SHAYNE'S WORLD](https://web.archive.org/web/20120323015302/http://music.daum.net/musicbar/musicbar/detail?board_id=2918) [다음](https://ko.wikipedia.org/wiki/다음 "wikilink")
+  - [셰인의 다른 선택지 SHAYNE SHAYNE'S WORLD](https://web.archive.org/web/20120323015302/http://music.daum.net/musicbar/musicbar/detail?board_id=2918) [다음](../Page/다음.md "wikilink")
 
 [분류:2012년 EP](https://ko.wikipedia.org/wiki/분류:2012년_EP "wikilink")
 

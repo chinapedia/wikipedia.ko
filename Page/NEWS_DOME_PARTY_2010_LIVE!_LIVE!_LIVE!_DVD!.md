@@ -46,11 +46,11 @@ DISC1, DISC2는 초회·통상 모두 공통이다.
 
 9.  MC
 
-10. / <small>나의 신데렐라</small> ([테고마스](https://ko.wikipedia.org/wiki/테고마스 "wikilink"))
+10. / <small>나의 신데렐라</small> ([테고마스](../Page/테고마스.md "wikilink"))
 
 11. / <small>밤엔 별을 올려다봐줘</small> (테고마스)
 
-12. / <small>말하고 싶을 뿐</small> (코야시게: [코야마 케이치로](https://ko.wikipedia.org/wiki/코야마_케이치로 "wikilink"), [카토 시게아키](https://ko.wikipedia.org/wiki/카토_시게아키 "wikilink"))
+12. / <small>말하고 싶을 뿐</small> (코야시게: [코야마 케이치로](../Page/코야마_케이치로.md "wikilink"), [카토 시게아키](../Page/카토_시게아키.md "wikilink"))
 
 13. / <small>엔드리스 서머</small>
 
@@ -68,7 +68,7 @@ DISC1, DISC2는 초회·통상 모두 공통이다.
 
 ### DISC2
 
-1.  code ([니시키도 료](https://ko.wikipedia.org/wiki/니시키도_료 "wikilink") 솔로)
+1.  code ([니시키도 료](../Page/니시키도_료.md "wikilink") 솔로)
 
 2.  / <small>내용 없는 편지</small>
 
