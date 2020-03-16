@@ -8,12 +8,12 @@
 [킹 파이살 국제상](https://ko.wikipedia.org/wiki/킹_파이살_국제상 "wikilink")(2018년)
 [올버니 의료센터 상](https://ko.wikipedia.org/wiki/올버니_의료센터_상 "wikilink")(2018년)
 Dr. Paul Janssen Award for Biomedical Research(2018년)\[1\]
-[노벨 생리학·의학상](https://ko.wikipedia.org/wiki/노벨_생리학·의학상 "wikilink")(2018년) |배우자 = 파드마니 샤르마(MD, PhD)\[2\] }} **제임스 패트릭 앨리슨**(, [1948년](https://ko.wikipedia.org/wiki/1948년 "wikilink") [8월 7일](https://ko.wikipedia.org/wiki/8월_7일 "wikilink") \~ )은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [면역학](https://ko.wikipedia.org/wiki/면역학 "wikilink")자이다. 2018년에 음성적 면역조절 억제에 의한 암 치료법을 발견한 공로로 [혼조 다스쿠와](../Page/혼조_다스쿠.md "wikilink") 함께 [노벨 생리학·의학상을](https://ko.wikipedia.org/wiki/노벨_생리학·의학상 "wikilink") 수상했다.\[3\]\[4\]
+[노벨 생리학·의학상](../Page/노벨_생리학·의학상.md "wikilink")(2018년) |배우자 = 파드마니 샤르마(MD, PhD)\[2\] }} **제임스 패트릭 앨리슨**(, [1948년](../Page/1948년.md "wikilink") [8월 7일](../Page/8월_7일.md "wikilink") \~ )은 [미국](../Page/미국.md "wikilink")의 [면역학](../Page/면역학.md "wikilink")자이다. 2018년에 음성적 면역조절 억제에 의한 암 치료법을 발견한 공로로 [혼조 다스쿠와](../Page/혼조_다스쿠.md "wikilink") 함께 [노벨 생리학·의학상을](../Page/노벨_생리학·의학상.md "wikilink") 수상했다.\[3\]\[4\]
 
 ## 학력
 
-  - 1965년 \~ 1969년: [텍사스 대학교 오스틴](https://ko.wikipedia.org/wiki/텍사스_대학교_오스틴 "wikilink") 면역학과 (학사)
-  - 1969년 \~ 1973년: [텍사스 대학교 오스틴](https://ko.wikipedia.org/wiki/텍사스_대학교_오스틴 "wikilink") 면역학과 (박사)
+  - 1965년 \~ 1969년: [텍사스 대학교 오스틴](../Page/텍사스_대학교_오스틴.md "wikilink") 면역학과 (학사)
+  - 1969년 \~ 1973년: [텍사스 대학교 오스틴](../Page/텍사스_대학교_오스틴.md "wikilink") 면역학과 (박사)
 
 ## 수상 경력
 

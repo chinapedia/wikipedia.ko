@@ -10,7 +10,7 @@
 
 ## 여담
 
-TALISE의 뜻은 [이로쿼이 연맹의](https://ko.wikipedia.org/wiki/이로쿼이_연맹 "wikilink") 언어로, 아름다운 물이란 뜻이다.\[6\]
+TALISE의 뜻은 [이로쿼이 연맹의](../Page/이로쿼이_연맹.md "wikilink") 언어로, 아름다운 물이란 뜻이다.\[6\]
 
 ## 각주
 

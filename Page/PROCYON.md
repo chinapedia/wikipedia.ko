@@ -9,7 +9,7 @@
 
 ## 발사
 
-개발 완료 후 2014년 11월 30일 [H-IIA](https://ko.wikipedia.org/wiki/H-IIA "wikilink")로 [다네가시마 우주 센터에서](https://ko.wikipedia.org/wiki/다네가시마_우주_센터 "wikilink") 발사되려고 했으나,\[6\]\[7\]\[8\] 악천후에 의해 연기되어 2014년 12월 3일 [H-IIA](https://ko.wikipedia.org/wiki/H-IIA "wikilink")로 [다네가시마 우주 센터에서](https://ko.wikipedia.org/wiki/다네가시마_우주_센터 "wikilink") 발사되었다.\[9\]\[10\]\[11\]\[12\]\[13\]\[14\]
+개발 완료 후 2014년 11월 30일 [H-IIA](https://ko.wikipedia.org/wiki/H-IIA "wikilink")로 [다네가시마 우주 센터에서](../Page/다네가시마_우주_센터.md "wikilink") 발사되려고 했으나,\[6\]\[7\]\[8\] 악천후에 의해 연기되어 2014년 12월 3일 [H-IIA](https://ko.wikipedia.org/wiki/H-IIA "wikilink")로 [다네가시마 우주 센터에서](../Page/다네가시마_우주_센터.md "wikilink") 발사되었다.\[9\]\[10\]\[11\]\[12\]\[13\]\[14\]
 
 ## 실패
 

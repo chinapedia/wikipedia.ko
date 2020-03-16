@@ -1,24 +1,24 @@
 > This article is converted from Wikipedia: [ EBS ](https://ko.wikipedia.org/wiki/_EBS_).
 
 
-《**생방송 EBS 교육저널**》은 [EBS 1TV에서](https://ko.wikipedia.org/wiki/EBS_1TV "wikilink") 매월 마지막 [금요일](https://ko.wikipedia.org/wiki/금요일 "wikilink") 밤 11시 35분에 방송되는 [교양](https://ko.wikipedia.org/wiki/교양 "wikilink") 프로그램이다.
+《**생방송 EBS 교육저널**》은 [EBS 1TV에서](../Page/EBS_1TV.md "wikilink") 매월 마지막 [금요일](../Page/금요일.md "wikilink") 밤 11시 35분에 방송되는 [교양](../Page/교양.md "wikilink") 프로그램이다.
 
 ## 방송 시간
 
-| 방송 채널                                                       | 방송 기간                                                                                                                                                                                                                                  | 방송 시간                                      |
-| ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
-| [EBS 1TV](https://ko.wikipedia.org/wiki/EBS_1TV "wikilink") | [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [8월 31일](https://ko.wikipedia.org/wiki/8월_31일 "wikilink") \~ [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [3월 29일](https://ko.wikipedia.org/wiki/3월_29일 "wikilink") | 매월 마지막주 금요일 밤 11시 35분 \~ 12시 55분 (1시간 20분) |
+| 방송 채널                                    | 방송 기간                                                                                                                                                      | 방송 시간                                      |
+| ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| [EBS 1TV](../Page/EBS_1TV.md "wikilink") | [2018년](../Page/2018년.md "wikilink") [8월 31일](../Page/8월_31일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [3월 29일](../Page/3월_29일.md "wikilink") | 매월 마지막주 금요일 밤 11시 35분 \~ 12시 55분 (1시간 20분) |
 
 ## 방송 회차
 
 ## 타이틀 변천사
 
-| 역대 | 타이틀                                               | 방송 기간                                                                                                                                                                                                                                  |
-| -- | ------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1대 | [<난상토론> 교육을 말한다](../Page/EBS_교육대토론.md "wikilink") | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [3월 1일](https://ko.wikipedia.org/wiki/3월_1일 "wikilink") \~ [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [8월 23일](https://ko.wikipedia.org/wiki/8월_23일 "wikilink")   |
-| 2대 | [생방송 EBS 교육대토론](../Page/EBS_교육대토론.md "wikilink")  | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [8월 26일](https://ko.wikipedia.org/wiki/8월_26일 "wikilink") \~ [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [8월 19일](https://ko.wikipedia.org/wiki/8월_19일 "wikilink") |
-| 3대 | [EBS 교육대토론](../Page/EBS_교육대토론.md "wikilink")      | [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [9월 2일](https://ko.wikipedia.org/wiki/9월_2일 "wikilink") \~ [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [8월 17일](https://ko.wikipedia.org/wiki/8월_17일 "wikilink")   |
-| 4대 | 생방송 EBS 교육저널                                      | [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [8월 31일](https://ko.wikipedia.org/wiki/8월_31일 "wikilink") \~ [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [3월 29일](https://ko.wikipedia.org/wiki/3월_29일 "wikilink") |
+| 역대 | 타이틀                                               | 방송 기간                                                                                                                                                      |
+| -- | ------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1대 | [<난상토론> 교육을 말한다](../Page/EBS_교육대토론.md "wikilink") | [2013년](../Page/2013년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [8월 23일](../Page/8월_23일.md "wikilink")   |
+| 2대 | [생방송 EBS 교육대토론](../Page/EBS_교육대토론.md "wikilink")  | [2013년](../Page/2013년.md "wikilink") [8월 26일](../Page/8월_26일.md "wikilink") \~ [2016년](../Page/2016년.md "wikilink") [8월 19일](../Page/8월_19일.md "wikilink") |
+| 3대 | [EBS 교육대토론](../Page/EBS_교육대토론.md "wikilink")      | [2016년](../Page/2016년.md "wikilink") [9월 2일](../Page/9월_2일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [8월 17일](../Page/8월_17일.md "wikilink")   |
+| 4대 | 생방송 EBS 교육저널                                      | [2018년](../Page/2018년.md "wikilink") [8월 31일](../Page/8월_31일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [3월 29일](../Page/3월_29일.md "wikilink") |
 
 ## 외부 링크
 

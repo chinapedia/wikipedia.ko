@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [PRODUCE 48 - FINAL](https://ko.wikipedia.org/wiki/PRODUCE_48_-_FINAL).
 
 
-《**PRODUCE 48 - FINAL**》은 [엠넷](https://ko.wikipedia.org/wiki/엠넷 "wikilink")의 서바이벌 리얼리티 프로그램 《[PRODUCE 48](https://ko.wikipedia.org/wiki/PRODUCE_48 "wikilink")》 [참가자들의](../Page/PRODUCE_48_참가자_목록.md "wikilink") 미니 앨범이다. [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [9월 1일](https://ko.wikipedia.org/wiki/9월_1일 "wikilink") 스톤뮤직 엔터테인먼트를 통해 공개되었다.
+《**PRODUCE 48 - FINAL**》은 [엠넷](../Page/엠넷.md "wikilink")의 서바이벌 리얼리티 프로그램 《[PRODUCE 48](https://ko.wikipedia.org/wiki/PRODUCE_48 "wikilink")》 [참가자들의](../Page/PRODUCE_48_참가자_목록.md "wikilink") 미니 앨범이다. [2018년](../Page/2018년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink") 스톤뮤직 엔터테인먼트를 통해 공개되었다.
 
 ## 개요
 

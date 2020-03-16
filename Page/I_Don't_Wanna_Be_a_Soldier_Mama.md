@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [I Don\'t Wanna Be a Soldier Mama](https://ko.wikipedia.org/wiki/I_Don\'t_Wanna_Be_a_Soldier_Mama).
 
 
-〈**I Don't Wanna Be a Soldier Mama**〉는 [존 레논이](https://ko.wikipedia.org/wiki/존_레논 "wikilink") 작곡하고 공연한 곡으로 1971년 그의 두 번째 정규 음반 《[Imagine](https://ko.wikipedia.org/wiki/Imagine_\(존_레논의_음반\) "wikilink")》에서 5번째 트랙으로 발매되었다. 그 노래는 사회의 기대에 어긋난다.
+〈**I Don't Wanna Be a Soldier Mama**〉는 [존 레논이](../Page/존_레논.md "wikilink") 작곡하고 공연한 곡으로 1971년 그의 두 번째 정규 음반 《[Imagine](https://ko.wikipedia.org/wiki/Imagine_\(존_레논의_음반\) "wikilink")》에서 5번째 트랙으로 발매되었다. 그 노래는 사회의 기대에 어긋난다.
 
 ## 가사
 
-이 곡은 25개의 단어만을 포함하고 있으며 1969년 [비틀즈](https://ko.wikipedia.org/wiki/비틀즈 "wikilink")의 음반 《[Abbey Road](https://ko.wikipedia.org/wiki/Abbey_Road "wikilink")》에서 나온 레논의 〈[I Want You (She's So Heavy)](https://ko.wikipedia.org/wiki/I_Want_You_\(She's_So_Heavy\) "wikilink")〉와 매우 흡사하다.
+이 곡은 25개의 단어만을 포함하고 있으며 1969년 [비틀즈](../Page/비틀즈.md "wikilink")의 음반 《[Abbey Road](../Page/Abbey_Road.md "wikilink")》에서 나온 레논의 〈[I Want You (She's So Heavy)](../Page/I_Want_You_\(She's_So_Heavy\).md "wikilink")〉와 매우 흡사하다.
 
 ## 커버
 

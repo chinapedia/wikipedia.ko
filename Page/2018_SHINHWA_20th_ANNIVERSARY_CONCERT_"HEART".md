@@ -24,7 +24,7 @@
 <td><p>2018년 10월 6일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/서울" title="wikilink">서울</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/올림픽체조경기장" title="wikilink">올림픽체조경기장</a>[3]</p></td>
+<td><p><a href="../Page/올림픽체조경기장.md" title="wikilink">올림픽체조경기장</a>[3]</p></td>
 <td><p>통산 22,000명</p></td>
 </tr>
 <tr class="even">
@@ -79,7 +79,7 @@
 <td style="text-align: left;"><p>DVD</p></td>
 <td style="text-align: left;"><p>2018 SHINHWA 20th ANNIVERSARY CONCERT 《HEART》 DVD</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2019년" title="wikilink">2019년</a> <a href="https://ko.wikipedia.org/wiki/7월_12일" title="wikilink">7월 12일</a></li>
+<li>발매일 : <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/7월_12일.md" title="wikilink">7월 12일</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -103,7 +103,7 @@
 <td style="text-align: left;"><p>블루레이</p></td>
 <td style="text-align: left;"><p>2018 SHINHWA 20th ANNIVERSARY CONCERT 《HEART》 Blu-ray</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2019년" title="wikilink">2019년</a> <a href="https://ko.wikipedia.org/wiki/8월_16일" title="wikilink">8월 16일</a></li>
+<li>발매일 : <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/8월_16일.md" title="wikilink">8월 16일</a></li>
 </ul></td>
 </tr>
 </tbody>

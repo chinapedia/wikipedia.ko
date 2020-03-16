@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [ G ](https://ko.wikipedia.org/wiki/_G_).
 
 
-**《건담 G의 레콘키스타》**()는 [선라이즈에서](https://ko.wikipedia.org/wiki/선라이즈_\(애니메이션_스튜디오\) "wikilink") 제작한 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [로봇](https://ko.wikipedia.org/wiki/로봇 "wikilink") 애니메이션이다. [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [10월](https://ko.wikipedia.org/wiki/10월 "wikilink")부터 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink")까지 방영되었다.
+**《건담 G의 레콘키스타》**()는 [선라이즈에서](https://ko.wikipedia.org/wiki/선라이즈_\(애니메이션_스튜디오\) "wikilink") 제작한 [일본](../Page/일본.md "wikilink")의 [로봇](../Page/로봇.md "wikilink") 애니메이션이다. [2014년](../Page/2014년.md "wikilink") [10월](../Page/10월.md "wikilink")부터 [2015년](../Page/2015년.md "wikilink") [3월](../Page/3월.md "wikilink")까지 방영되었다.
 
 ## 개요
 
-「[턴에이 건담](https://ko.wikipedia.org/wiki/턴에이_건담 "wikilink")」이래 15년으로, 단편 CG 작품을 포함한 「[링크 오브 건담](https://ko.wikipedia.org/wiki/링크_오브_건담 "wikilink")」이래 5년으로에, [건담 시리즈](https://ko.wikipedia.org/wiki/건담_시리즈 "wikilink") 작품의 하나.
+「[턴에이 건담](https://ko.wikipedia.org/wiki/턴에이_건담 "wikilink")」이래 15년으로, 단편 CG 작품을 포함한 「[링크 오브 건담](https://ko.wikipedia.org/wiki/링크_오브_건담 "wikilink")」이래 5년으로에, [건담 시리즈](../Page/건담_시리즈.md "wikilink") 작품의 하나.
 
 ## 외부 링크
 

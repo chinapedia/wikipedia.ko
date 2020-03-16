@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Alone In The City](https://ko.wikipedia.org/wiki/Alone_In_The_City).
 
 
-《**Alone In The City**》(얼론 인 더 시티)는 대한민국의 걸 그룹 [드림캐쳐의](../Page/드림캐쳐_\(음악_그룹\).md "wikilink") 세 번째 [미니 음반이다](https://ko.wikipedia.org/wiki/미니_음반 "wikilink"). 타이틀 곡은 〈[What](https://ko.wikipedia.org/wiki/What_\(드림캐쳐의_노래\) "wikilink")〉으로, 2018년 9월 20일 지니뮤직을 통하여 발매되었다.
+《**Alone In The City**》(얼론 인 더 시티)는 대한민국의 걸 그룹 [드림캐쳐의](../Page/드림캐쳐_\(음악_그룹\).md "wikilink") 세 번째 [미니 음반이다](https://ko.wikipedia.org/wiki/미니_음반 "wikilink"). 타이틀 곡은 〈[What](../Page/What_\(드림캐쳐의_노래\).md "wikilink")〉으로, 2018년 9월 20일 지니뮤직을 통하여 발매되었다.
 
 ## 개요
 
@@ -21,7 +21,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>대한민국 (<a href="https://ko.wikipedia.org/wiki/가온_차트" title="wikilink">가온 차트 '주간'</a>)[2]</p></td>
+<td><p>대한민국 (<a href="../Page/가온_차트.md" title="wikilink">가온 차트 '주간'</a>)[2]</p></td>
 <td><p>2</p></td>
 </tr>
 <tr class="even">

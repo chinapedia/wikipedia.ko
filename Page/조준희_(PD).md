@@ -7,11 +7,11 @@
 
   - [개그콘서트](https://ko.wikipedia.org/wiki/개그콘서트 "wikilink") (2015년 \~ 2017년) \[연출, CP\]
   - [해피투게더3](https://ko.wikipedia.org/wiki/해피투게더3 "wikilink") (2017년 \~ 2017년) \[CP\]
-  - [가요무대](https://ko.wikipedia.org/wiki/가요무대 "wikilink") (2018년 \~ 2018년) \[CP}
-  - [KBS 중계석](https://ko.wikipedia.org/wiki/KBS_중계석 "wikilink") (2018년 \~ 2018년) \[CP\]
-  - [가요무대](https://ko.wikipedia.org/wiki/가요무대 "wikilink") (2019년 \~ 2019년) \[CP}
-  - [KBS 중계석](https://ko.wikipedia.org/wiki/KBS_중계석 "wikilink") (2019년 \~ 2019년) \[CP\]
-  - [유희열의 스케치북](https://ko.wikipedia.org/wiki/유희열의_스케치북 "wikilink") (2019년 \~ ) \[연출\]
+  - [가요무대](../Page/가요무대.md "wikilink") (2018년 \~ 2018년) \[CP}
+  - [KBS 중계석](../Page/KBS_중계석.md "wikilink") (2018년 \~ 2018년) \[CP\]
+  - [가요무대](../Page/가요무대.md "wikilink") (2019년 \~ 2019년) \[CP}
+  - [KBS 중계석](../Page/KBS_중계석.md "wikilink") (2019년 \~ 2019년) \[CP\]
+  - [유희열의 스케치북](../Page/유희열의_스케치북.md "wikilink") (2019년 \~ ) \[연출\]
 
 ## 각주
 

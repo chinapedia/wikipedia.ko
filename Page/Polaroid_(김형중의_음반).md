@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Polaroid \( \)](https://ko.wikipedia.org/wiki/Polaroid_\(_\)).
 
 
-**《Polaroid》**는 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [4월 23일에](https://ko.wikipedia.org/wiki/4월_23일 "wikilink") 발매된 [김형중](https://ko.wikipedia.org/wiki/김형중 "wikilink")의 4집 앨범이다.
+**《Polaroid》**는 [2009년](../Page/2009년.md "wikilink") [4월 23일에](../Page/4월_23일.md "wikilink") 발매된 [김형중](../Page/김형중.md "wikilink")의 4집 앨범이다.
 
 ## 수록곡
 

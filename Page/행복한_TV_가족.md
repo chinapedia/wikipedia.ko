@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ TV ](https://ko.wikipedia.org/wiki/_TV_).
 
 
-《**행복한 TV 가족**》은 [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [11월 3일부터](https://ko.wikipedia.org/wiki/11월_3일 "wikilink") [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [4월 20일까지](https://ko.wikipedia.org/wiki/4월_20일 "wikilink") [문화방송](https://ko.wikipedia.org/wiki/문화방송 "wikilink")에서 방송되었던 가족과 함께 나누는 따뜻한 이야기가 담긴 예능 프로그램이다.
+《**행복한 TV 가족**》은 [2001년](../Page/2001년.md "wikilink") [11월 3일부터](../Page/11월_3일.md "wikilink") [2001년](../Page/2001년.md "wikilink") [4월 20일까지](../Page/4월_20일.md "wikilink") [문화방송](../Page/문화방송.md "wikilink")에서 방송되었던 가족과 함께 나누는 따뜻한 이야기가 담긴 예능 프로그램이다.
 
 ## 기획의도
 
@@ -16,8 +16,8 @@
 
 ## 진행자
 
-  - [이재용](https://ko.wikipedia.org/wiki/이재용_\(아나운서\) "wikilink") 前 아나운서 (남)
-  - [박미선](https://ko.wikipedia.org/wiki/박미선 "wikilink") 개그우먼 (여)
+  - [이재용](../Page/이재용_\(아나운서\).md "wikilink") 前 아나운서 (남)
+  - [박미선](../Page/박미선.md "wikilink") 개그우먼 (여)
   - [표인봉](../Page/표인봉.md "wikilink") 방송인 (남)
 
 [분류:문화방송의 예능 프로그램](https://ko.wikipedia.org/wiki/분류:문화방송의_예능_프로그램 "wikilink")

@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [- GLE](https://ko.wikipedia.org/wiki/-_GLE).
 
 
-**메르세데스-벤츠 GLE**(Mercedes-benz GLE)는 [메르세데스-벤츠](https://ko.wikipedia.org/wiki/메르세데스-벤츠 "wikilink")의 준대형 SUV다.
+**메르세데스-벤츠 GLE**(Mercedes-benz GLE)는 [메르세데스-벤츠](../Page/메르세데스-벤츠.md "wikilink")의 준대형 SUV다.
 
 ## 1세대(W166/C292)
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:2016_Mercedes-Benz_GLE_350d_\(W_166\)_wagon_\(2018-08-27\)_01.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:2018_Mercedes-Benz_GLE_250d_4MATIC_2.1_Rear.jpg "wikilink") [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink")에 [ML클래스가](https://ko.wikipedia.org/wiki/메르세데스-벤츠_M_클래스 "wikilink") 페이스리프트를 거치며 벤츠의 작명법으로 인해 GLE로 바뀌었다. 동시에 쿠페가 출시되었다. [섬네일](https://ko.wikipedia.org/wiki/파일:Mercedes_GLE_Coupe_\(20811758863\).jpg "wikilink")
+[섬네일](https://ko.wikipedia.org/wiki/파일:2016_Mercedes-Benz_GLE_350d_\(W_166\)_wagon_\(2018-08-27\)_01.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:2018_Mercedes-Benz_GLE_250d_4MATIC_2.1_Rear.jpg "wikilink") [2015년](../Page/2015년.md "wikilink")에 [ML클래스가](../Page/메르세데스-벤츠_M_클래스.md "wikilink") 페이스리프트를 거치며 벤츠의 작명법으로 인해 GLE로 바뀌었다. 동시에 쿠페가 출시되었다. [섬네일](https://ko.wikipedia.org/wiki/파일:Mercedes_GLE_Coupe_\(20811758863\).jpg "wikilink")
 
 ## 2세대(v167)
 

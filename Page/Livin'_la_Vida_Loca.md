@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Livin\' la Vida Loca](https://ko.wikipedia.org/wiki/Livin\'_la_Vida_Loca).
 
 
-"**Livin' la Vida Loca**"는 [리키 마틴의](https://ko.wikipedia.org/wiki/리키_마틴 "wikilink") 노래이다. 5번째 정규 음반이자 첫번째 영어 음반 *[Ricky Martin](https://ko.wikipedia.org/wiki/Ricky_Martin_\(1999년_음반\) "wikilink")*의 첫번째 싱글이다.
+"**Livin' la Vida Loca**"는 [리키 마틴의](../Page/리키_마틴.md "wikilink") 노래이다. 5번째 정규 음반이자 첫번째 영어 음반 *[Ricky Martin](https://ko.wikipedia.org/wiki/Ricky_Martin_\(1999년_음반\) "wikilink")*의 첫번째 싱글이다.
 
 ## 외부 링크
 

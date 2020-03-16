@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Enscript](https://ko.wikipedia.org/wiki/Enscript).
 
 
-**GNU enscript**  [컴퓨터 프로그램은](https://ko.wikipedia.org/wiki/컴퓨터_프로그램 "wikilink")  텍스트 파일을 [pdf](https://ko.wikipedia.org/wiki/PDF "wikilink"),[PostScript](https://ko.wikipedia.org/wiki/포스트스크립트 "wikilink"), [RTF](https://ko.wikipedia.org/wiki/서식_있는_텍스트_포맷 "wikilink"),또는 HTML 형식등으로 변환하여주는 [명령어형](https://ko.wikipedia.org/wiki/리눅스_명령어 "wikilink") 프로그램이다. 변환시킬 대상파일 형식이 주어지지 않은 경우 입력 파일은 주어진 enscript 프로세스 [표준으로](https://ko.wikipedia.org/wiki/표준_스트림 "wikilink") 대체된다. Enscript는 명령어 형 프로그램이므로 [파이프라인등을](https://ko.wikipedia.org/wiki/명령어_파이프라인 "wikilink") 연계사용하여 확장할 수 있는 다른 형식의 출력이 미디어,텍스트 [인코딩](https://ko.wikipedia.org/wiki/인코딩 "wikilink")등  많은 옵션을 사용할 수 있는 사용자 정의 출력이 가능하다. 이것은 [GNU GPL](https://ko.wikipedia.org/wiki/GNU_일반_공중_사용권 "wikilink") 버전 3하에 배포되고있다.\[1\]
+**GNU enscript**  [컴퓨터 프로그램은](../Page/컴퓨터_프로그램.md "wikilink")  텍스트 파일을 [pdf](../Page/PDF.md "wikilink"),[PostScript](../Page/포스트스크립트.md "wikilink"), [RTF](../Page/서식_있는_텍스트_포맷.md "wikilink"),또는 HTML 형식등으로 변환하여주는 [명령어형](https://ko.wikipedia.org/wiki/리눅스_명령어 "wikilink") 프로그램이다. 변환시킬 대상파일 형식이 주어지지 않은 경우 입력 파일은 주어진 enscript 프로세스 [표준으로](../Page/표준_스트림.md "wikilink") 대체된다. Enscript는 명령어 형 프로그램이므로 [파이프라인등을](../Page/명령어_파이프라인.md "wikilink") 연계사용하여 확장할 수 있는 다른 형식의 출력이 미디어,텍스트 [인코딩](https://ko.wikipedia.org/wiki/인코딩 "wikilink")등  많은 옵션을 사용할 수 있는 사용자 정의 출력이 가능하다. 이것은 [GNU GPL](https://ko.wikipedia.org/wiki/GNU_일반_공중_사용권 "wikilink") 버전 3하에 배포되고있다.\[1\]
 
-대용량 고속처리에도 불구하고 [유니코드](https://ko.wikipedia.org/wiki/유니코드 "wikilink") 등 완전한 [인코딩](https://ko.wikipedia.org/wiki/인코딩 "wikilink")은 미지원될수있다.
+대용량 고속처리에도 불구하고 [유니코드](../Page/유니코드.md "wikilink") 등 완전한 [인코딩](https://ko.wikipedia.org/wiki/인코딩 "wikilink")은 미지원될수있다.
 
 ## 도움말(help)
 

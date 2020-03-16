@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DF-5](https://ko.wikipedia.org/wiki/DF-5).
 
 
-**DF-5**는 [중국](https://ko.wikipedia.org/wiki/중국 "wikilink")의 ICBM이다.
+**DF-5**는 [중국](../Page/중국.md "wikilink")의 ICBM이다.
 
 ## 역사
 
@@ -24,7 +24,7 @@
 
 ## DF-5C
 
-2017년 1월 20일, [도널드 트럼프](https://ko.wikipedia.org/wiki/도널드_트럼프 "wikilink") 미국 대통령 취임식 날, 중국이 지하 사일로형이던 DF-5B를 트럭 이동식 DF-5C로 개량을 하여, 최초로 시험발사했다. 산시 성 [타이위안 위성발사센터에서](https://ko.wikipedia.org/wiki/타이위안_위성발사센터 "wikilink") 서부 사막 지대로 발사했다.
+2017년 1월 20일, [도널드 트럼프](../Page/도널드_트럼프.md "wikilink") 미국 대통령 취임식 날, 중국이 지하 사일로형이던 DF-5B를 트럭 이동식 DF-5C로 개량을 하여, 최초로 시험발사했다. 산시 성 [타이위안 위성발사센터에서](../Page/타이위안_위성발사센터.md "wikilink") 서부 사막 지대로 발사했다.
 
 중국은 북한과의 접경지역에 DF-5C와 DF-41 대륙간 탄도미사일(ICBM)을 배치했다고 밝히며 "한국에 사드를 배치하는 것은 중국을 협박하는 것"이라고 적반하장식 주장을 폈다.\[1\]
 

@@ -45,7 +45,7 @@ function p._main(args, options)
 `   local mainForm`
 `   local curNs = currentTitle.namespace`
 `   if (curNs == 14) or (curNs == 15) then --category/talk namespaces`
-`       mainForm = '이 `[`분류의`](https://ko.wikipedia.org/wiki/위키백과:분류 "wikilink")` 본문은 %s입니다.'`
+`       mainForm = '이 `[`분류의`](../Page/위키백과:분류.md "wikilink")` 본문은 %s입니다.'`
 `   else`
 `       mainForm = '이 부분의 본문은 %s입니다.'`
 `   end`

@@ -5,7 +5,7 @@
 
 ## 역사와 제작배경
 
-2008년, [카시니 하위헌스가](https://ko.wikipedia.org/wiki/카시니_하위헌스 "wikilink") 엔셀라두스 [간헐천](https://ko.wikipedia.org/wiki/간헐천 "wikilink")에서 [유기물](https://ko.wikipedia.org/wiki/유기물 "wikilink")을 발견했다.\[6\] 그리고 [간헐천](https://ko.wikipedia.org/wiki/간헐천 "wikilink") 성분 중 [소금](https://ko.wikipedia.org/wiki/소금 "wikilink")도 발견했다.\[7\] 또한 지하 바다의 존재가 밝혀지자\[8\]\[9\]\[10\]\[11\]\[12\] 이런 연구결과에 힘 입어 더 많은 자료를 알아내자고 2011년 [디스커버리 계획에](https://ko.wikipedia.org/wiki/디스커버리_계획 "wikilink") 제안되었으나,\[13\] [루시와](../Page/루시_\(우주선\).md "wikilink") [프시케가](../Page/프시케_\(우주선\).md "wikilink") 최종적으로 디스커버리 13과 14로 선출되며 선출되지 않았다.\[14\]\[15\]
+2008년, [카시니 하위헌스가](https://ko.wikipedia.org/wiki/카시니_하위헌스 "wikilink") 엔셀라두스 [간헐천](https://ko.wikipedia.org/wiki/간헐천 "wikilink")에서 [유기물](../Page/유기물.md "wikilink")을 발견했다.\[6\] 그리고 [간헐천](https://ko.wikipedia.org/wiki/간헐천 "wikilink") 성분 중 [소금](../Page/소금.md "wikilink")도 발견했다.\[7\] 또한 지하 바다의 존재가 밝혀지자\[8\]\[9\]\[10\]\[11\]\[12\] 이런 연구결과에 힘 입어 더 많은 자료를 알아내자고 2011년 [디스커버리 계획에](https://ko.wikipedia.org/wiki/디스커버리_계획 "wikilink") 제안되었으나,\[13\] [루시와](../Page/루시_\(우주선\).md "wikilink") [프시케가](../Page/프시케_\(우주선\).md "wikilink") 최종적으로 디스커버리 13과 14로 선출되며 선출되지 않았다.\[14\]\[15\]
 
 ## 과학장비
 

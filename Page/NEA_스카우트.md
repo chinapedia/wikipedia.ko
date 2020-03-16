@@ -9,7 +9,7 @@
 
 ## 발사
 
-[SLS으로](https://ko.wikipedia.org/wiki/우주_발사_시스템 "wikilink") [케네디 우주 센터 제39발사단지에서](https://ko.wikipedia.org/wiki/케네디_우주_센터_제39발사단지 "wikilink") 발사되며, 다른 [큐브 위성](https://ko.wikipedia.org/wiki/큐브_위성 "wikilink") 13개와 함께 발사된다.\[18\]
+[SLS으로](../Page/우주_발사_시스템.md "wikilink") [케네디 우주 센터 제39발사단지에서](https://ko.wikipedia.org/wiki/케네디_우주_센터_제39발사단지 "wikilink") 발사되며, 다른 [큐브 위성](https://ko.wikipedia.org/wiki/큐브_위성 "wikilink") 13개와 함께 발사된다.\[18\]
 
 ## 지원, 개발, 투자
 
@@ -25,12 +25,12 @@
   - [록히드마틴](https://ko.wikipedia.org/wiki/록히드마틴 "wikilink")
   - [Caltech](https://ko.wikipedia.org/wiki/Caltech "wikilink")
   - [MIT](https://ko.wikipedia.org/wiki/MIT "wikilink")
-  - [존스 홉킨스 대학교](https://ko.wikipedia.org/wiki/존스_홉킨스_대학교 "wikilink")
-  - [프린스턴 대학교](https://ko.wikipedia.org/wiki/프린스턴_대학교 "wikilink")
+  - [존스 홉킨스 대학교](../Page/존스_홉킨스_대학교.md "wikilink")
+  - [프린스턴 대학교](../Page/프린스턴_대학교.md "wikilink")
 
 ## 같이 발사되는 인공위성들
 
-  - [루나 플래쉬라이트](https://ko.wikipedia.org/wiki/루나_플래쉬라이트 "wikilink")
+  - [루나 플래쉬라이트](../Page/루나_플래쉬라이트.md "wikilink")
   - [바이오 센티넬](https://ko.wikipedia.org/wiki/바이오_센티넬 "wikilink")
   - [스카이 파이어](https://ko.wikipedia.org/wiki/스카이_파이어 "wikilink")
   - [루나 아이스큐브](https://ko.wikipedia.org/wiki/루나_아이스큐브 "wikilink")

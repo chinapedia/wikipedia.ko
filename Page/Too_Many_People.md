@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Too Many People](https://ko.wikipedia.org/wiki/Too_Many_People).
 
 
-〈**Too Many People**〉은 [폴 매카트니와](https://ko.wikipedia.org/wiki/폴_매카트니 "wikilink") 그의 아내 [린다 매카트니의](https://ko.wikipedia.org/wiki/린다_매카트니 "wikilink") 1971년 음반 《[Ram](../Page/Ram_\(음반\).md "wikilink")》뿐만 아니라 〈[Uncle Albert/Admiral Halsey](https://ko.wikipedia.org/wiki/Uncle_Albert/Admiral_Halsey "wikilink")〉 싱글의 B사이드의 폴 매카트니가 부른 곡이다.
+〈**Too Many People**〉은 [폴 매카트니와](../Page/폴_매카트니.md "wikilink") 그의 아내 [린다 매카트니의](../Page/린다_매카트니.md "wikilink") 1971년 음반 《[Ram](../Page/Ram_\(음반\).md "wikilink")》뿐만 아니라 〈[Uncle Albert/Admiral Halsey](https://ko.wikipedia.org/wiki/Uncle_Albert/Admiral_Halsey "wikilink")〉 싱글의 B사이드의 폴 매카트니가 부른 곡이다.
 
 ## 녹음
 
@@ -9,8 +9,8 @@
 
 ## 참여 인원
 
-  - [폴 매카트니](https://ko.wikipedia.org/wiki/폴_매카트니 "wikilink") – 리드 보컬, 베이스 기타
-  - [린다 매카트니](https://ko.wikipedia.org/wiki/린다_매카트니 "wikilink") – 백 보컬
+  - [폴 매카트니](../Page/폴_매카트니.md "wikilink") – 리드 보컬, 베이스 기타
+  - [린다 매카트니](../Page/린다_매카트니.md "wikilink") – 백 보컬
   - [데이비드 스피노자](https://ko.wikipedia.org/wiki/데이비드_스피노자 "wikilink") – 아쿠스틱 기타
   - [휴 맥크라켄](https://ko.wikipedia.org/wiki/휴_맥크라켄 "wikilink") – 일렉트릭 기타
   - [데니 세이웰](https://ko.wikipedia.org/wiki/데니_세이웰 "wikilink") – 드럼

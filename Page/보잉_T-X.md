@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ T-X](https://ko.wikipedia.org/wiki/_T-X).
 
 
-**보잉 T-X**는 [미국 공군의](https://ko.wikipedia.org/wiki/미국_공군 "wikilink") [T-X 프로그램에서](../Page/T-X_프로그램.md "wikilink") 최종 선정된 제트 고등훈련기이다.
+**보잉 T-X**는 [미국 공군의](../Page/미국_공군.md "wikilink") [T-X 프로그램에서](../Page/T-X_프로그램.md "wikilink") 최종 선정된 제트 고등훈련기이다.
 
 ## 역사
 
@@ -19,7 +19,7 @@
 <thead>
 <tr class="header">
 <th><p>항목</p></th>
-<th style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/T-38_탤론" title="wikilink">T-38 탤론</a></p></th>
+<th style="text-align: center;"><p><a href="../Page/T-38_탤론.md" title="wikilink">T-38 탤론</a></p></th>
 <th style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/KAI_T-50_골든이글" title="wikilink">KAI T-50 골든이글</a></p></th>
 <th style="text-align: center;"><p>보잉 T-X</p></th>
 </tr>
@@ -58,8 +58,8 @@
 <tr class="even">
 <td><p>엔진</p></td>
 <td style="text-align: center;"><p>제너럴 일렉트릭 J85-5A (쌍발)</p></td>
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/제너럴_일렉트릭_F404" title="wikilink">제너럴 일렉트릭 F404</a> (단발)</p></td>
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/제너럴_일렉트릭_F404" title="wikilink">제너럴 일렉트릭 F404</a> (단발)</p></td>
+<td style="text-align: center;"><p><a href="../Page/제너럴_일렉트릭_F404.md" title="wikilink">제너럴 일렉트릭 F404</a> (단발)</p></td>
+<td style="text-align: center;"><p><a href="../Page/제너럴_일렉트릭_F404.md" title="wikilink">제너럴 일렉트릭 F404</a> (단발)</p></td>
 </tr>
 <tr class="odd">
 <td><p>최고속도</p></td>
@@ -101,7 +101,7 @@
   - **높이:**13.12 ft (4.00 m)
   - **경하중량:** 7,165 lb (3,250 kg)
   - **최대이륙중량:** 12,125 lb (5,500kg)
-  - **엔진:** 1 × [제너럴 일렉트릭 F404](https://ko.wikipedia.org/wiki/제너럴_일렉트릭_F404 "wikilink") 애프터버닝 터보팬, 11,000 lbf (49 kN) thrust dry, 17,700 lbf (79 kN) with afterburner
+  - **엔진:** 1 × [제너럴 일렉트릭 F404](../Page/제너럴_일렉트릭_F404.md "wikilink") 애프터버닝 터보팬, 11,000 lbf (49 kN) thrust dry, 17,700 lbf (79 kN) with afterburner
 
 <!-- end list -->
 

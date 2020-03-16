@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [NuGet](https://ko.wikipedia.org/wiki/NuGet).
 
 
-**NuGet**은 [마이크로소프트](https://ko.wikipedia.org/wiki/마이크로소프트 "wikilink")에서 [비주얼 스튜디오에서](https://ko.wikipedia.org/wiki/비주얼_스튜디오 "wikilink") 개발 확장으로 공개한 무료 오픈 소스 [패키지 관리자](../Page/패키지_관리자.md "wikilink") 프로그램이다. 비주얼 스튜디오 2012부터 NuGet이 기본적으로 사전 설치되어 있고, NuGet은 [SharpDevelop](https://ko.wikipedia.org/wiki/SharpDevelop "wikilink")과 통합되기도 한다. 또한 명령줄에서 NuGet을 사용할 수 있으며 스크립트로 자동화할 수 있다. 주로 [닷넷 프레임워크의](https://ko.wikipedia.org/wiki/닷넷_프레임워크 "wikilink") 패키지와 [C++](https://ko.wikipedia.org/wiki/C++ "wikilink")로 작성된 네이티브 패키지([CoApp](http://coapp.org/) 지원)를 지원한다.
+**NuGet**은 [마이크로소프트](../Page/마이크로소프트.md "wikilink")에서 [비주얼 스튜디오에서](https://ko.wikipedia.org/wiki/비주얼_스튜디오 "wikilink") 개발 확장으로 공개한 무료 오픈 소스 [패키지 관리자](../Page/패키지_관리자.md "wikilink") 프로그램이다. 비주얼 스튜디오 2012부터 NuGet이 기본적으로 사전 설치되어 있고, NuGet은 [SharpDevelop](https://ko.wikipedia.org/wiki/SharpDevelop "wikilink")과 통합되기도 한다. 또한 명령줄에서 NuGet을 사용할 수 있으며 스크립트로 자동화할 수 있다. 주로 [닷넷 프레임워크의](../Page/닷넷_프레임워크.md "wikilink") 패키지와 [C++](https://ko.wikipedia.org/wiki/C++ "wikilink")로 작성된 네이티브 패키지([CoApp](http://coapp.org/) 지원)를 지원한다.
 
 ## Chocolatey
 
-Chocolatey\[1\]은 [윈도우 NT용으로](https://ko.wikipedia.org/wiki/윈도우_NT "wikilink") 개발된 소프트웨어 패키지용 시스템 수준 패키지 관리자 및 설치 프로그램이다. NuGet의 기반과 [윈도우 파워셸을](https://ko.wikipedia.org/wiki/윈도우_파워셸 "wikilink") 사용하여 윈도우 시스템에 소프트웨어를 설치하는 자동화 도구를 제공하는 실행 엔진으로, 사용자 관점에서 프로세스를 단순화하도록 설계되었다.\[2\]
+Chocolatey\[1\]은 [윈도우 NT용으로](../Page/윈도우_NT.md "wikilink") 개발된 소프트웨어 패키지용 시스템 수준 패키지 관리자 및 설치 프로그램이다. NuGet의 기반과 [윈도우 파워셸을](https://ko.wikipedia.org/wiki/윈도우_파워셸 "wikilink") 사용하여 윈도우 시스템에 소프트웨어를 설치하는 자동화 도구를 제공하는 실행 엔진으로, 사용자 관점에서 프로세스를 단순화하도록 설계되었다.\[2\]
 
 Chocolatey는 윈도우 파워셀 5.0의 PackageManagement 모듈(이전에는 'OneGet')\[3\] 로 불러들일수 있다.\[4\]
 
@@ -14,7 +14,7 @@ Chocolatey는 윈도우 파워셀 5.0의 PackageManagement 모듈(이전에는 '
 ## 같이 보기
 
   - [C++](https://ko.wikipedia.org/wiki/C++ "wikilink")
-  - [닷넷 프레임워크](https://ko.wikipedia.org/wiki/닷넷_프레임워크 "wikilink")
+  - [닷넷 프레임워크](../Page/닷넷_프레임워크.md "wikilink")
   - [비주얼 스튜디오](https://ko.wikipedia.org/wiki/비주얼_스튜디오 "wikilink")
 
 ## 외부 링크

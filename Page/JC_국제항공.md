@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [JC ](https://ko.wikipedia.org/wiki/JC_).
 
 
-**JC 국제항공**(JC International Airlines, )는 [캄보디아](https://ko.wikipedia.org/wiki/캄보디아 "wikilink")의 항공사이며, [프놈펜 국제공항의](https://ko.wikipedia.org/wiki/프놈펜_국제공항 "wikilink") 허브 공항이기도 하다.
+**JC 국제항공**(JC International Airlines, )는 [캄보디아](../Page/캄보디아.md "wikilink")의 항공사이며, [프놈펜 국제공항의](https://ko.wikipedia.org/wiki/프놈펜_국제공항 "wikilink") 허브 공항이기도 하다.
 
 ## 역사
 
-JC 국제항공은 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [6월](https://ko.wikipedia.org/wiki/6월 "wikilink")에 캄보디아 상무부에 등록했다.\[1\] 2017년 2월 2대의 Airbus A320을 납품하고, 3월 17일 프놈펜, 시엠랩, 시아누크빌행 국내선 운항을 시작했다.\[2\]\[3\]
+JC 국제항공은 [2014년](../Page/2014년.md "wikilink") [6월](../Page/6월.md "wikilink")에 캄보디아 상무부에 등록했다.\[1\] 2017년 2월 2대의 Airbus A320을 납품하고, 3월 17일 프놈펜, 시엠랩, 시아누크빌행 국내선 운항을 시작했다.\[2\]\[3\]
 
 ## 기업문제
 
@@ -199,7 +199,7 @@ ICAO</p></th>
 
 ## 보유 기종
 
-[2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [12월 31일](https://ko.wikipedia.org/wiki/12월_31일 "wikilink") 현재, JC 국제항공사는 다음의 항공기로 구성된다\[5\].
+[2017년](../Page/2017년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink") 현재, JC 국제항공사는 다음의 항공기로 구성된다\[5\].
 
 | <span style="color:Gold;">기종                                        | <span style="color:Gold;">대수                              | <span style="color:Gold;">주문 | <span style="color:Gold;">탐승 승객수 | <span style="color:Gold;">비고 |
 | ------------------------------------------------------------------- | --------------------------------------------------------- | ---------------------------- | -------------------------------- | ---------------------------- |

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JA ](https://ko.wikipedia.org/wiki/JA_).
 
 
-**JA히로시마뵤인마에 역**()은 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") [히로시마현](https://ko.wikipedia.org/wiki/히로시마현 "wikilink") [하쓰카이치 시에](https://ko.wikipedia.org/wiki/하쓰카이치_시 "wikilink") 위치한 [히로시마 전철](https://ko.wikipedia.org/wiki/히로시마_전철 "wikilink") [미야지마 선의](https://ko.wikipedia.org/wiki/히로시마_전철_미야지마_선 "wikilink") [철도역](https://ko.wikipedia.org/wiki/철도역 "wikilink")이다. 역 번호는 **M 35**이며, [상대식 승강장](https://ko.wikipedia.org/wiki/상대식_승강장 "wikilink") 2면 2선의 구조를 갖춘 지상역이다.
+**JA히로시마뵤인마에 역**()은 [일본](../Page/일본.md "wikilink") [히로시마현](../Page/히로시마현.md "wikilink") [하쓰카이치 시에](https://ko.wikipedia.org/wiki/하쓰카이치_시 "wikilink") 위치한 [히로시마 전철](../Page/히로시마_전철.md "wikilink") [미야지마 선의](../Page/히로시마_전철_미야지마_선.md "wikilink") [철도역](../Page/철도역.md "wikilink")이다. 역 번호는 **M 35**이며, [상대식 승강장](https://ko.wikipedia.org/wiki/상대식_승강장 "wikilink") 2면 2선의 구조를 갖춘 지상역이다.
 
 ## 이용 현황
 
@@ -99,10 +99,10 @@
 
 ## 역사
 
-  - [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink")
-      - [3월 31일](https://ko.wikipedia.org/wiki/3월_31일 "wikilink") : 히로시마 전철이 신 역의 부설을 발표.
-      - [4월 1일](https://ko.wikipedia.org/wiki/4월_1일 "wikilink") : 개업.
-  - [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [8월 17일](https://ko.wikipedia.org/wiki/8월_17일 "wikilink") : 아침 출근 시간대의 당 역 환승 열차를 설정.
+  - [1998년](../Page/1998년.md "wikilink")
+      - [3월 31일](../Page/3월_31일.md "wikilink") : 히로시마 전철이 신 역의 부설을 발표.
+      - [4월 1일](../Page/4월_1일.md "wikilink") : 개업.
+  - [1999년](../Page/1999년.md "wikilink") [8월 17일](../Page/8월_17일.md "wikilink") : 아침 출근 시간대의 당 역 환승 열차를 설정.
 
 ## 인접 역
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Jealous Guy](https://ko.wikipedia.org/wiki/Jealous_Guy).
 
 
-〈**Jealous Guy**〉는 1971년 음반 《[Imagine](https://ko.wikipedia.org/wiki/Imagine_\(존_레논의_음반\) "wikilink")》의 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 록 음악가 [존 레논이](https://ko.wikipedia.org/wiki/존_레논 "wikilink") 부른 노래이다. 레논은 1968년 "〈**Child of Nature**〉로 이 곡을 쓰기 시작했는데, 이 곡은 [비틀즈](https://ko.wikipedia.org/wiki/비틀즈 "wikilink")가 직접 녹음한 《[The Beatles](https://ko.wikipedia.org/wiki/The_Beatles_\(음반\) "wikilink")》을 녹음하기 전에 보여준 많은 곡들 중 하나였다. 이 가사는 원래 1968년 초, [마하리시 마헤쉬 요기가](https://ko.wikipedia.org/wiki/마하리시_마헤쉬_요기 "wikilink") 한 강연에서 영감을 얻은 것으로 비틀즈가 [인도](https://ko.wikipedia.org/wiki/인도 "wikilink") [리시케시](../Page/리시케시.md "wikilink")에서 영적 휴양지에 참석했던 때였다. 다시 쓰여진 형식에서, 이 노래는 레논이 연인과 남편으로서 실패한 결과를 초래한 불충분한 감정을 다루는 고백자의 역할을 한다.
+〈**Jealous Guy**〉는 1971년 음반 《[Imagine](https://ko.wikipedia.org/wiki/Imagine_\(존_레논의_음반\) "wikilink")》의 [영국](../Page/영국.md "wikilink")의 록 음악가 [존 레논이](../Page/존_레논.md "wikilink") 부른 노래이다. 레논은 1968년 "〈**Child of Nature**〉로 이 곡을 쓰기 시작했는데, 이 곡은 [비틀즈](../Page/비틀즈.md "wikilink")가 직접 녹음한 《[The Beatles](../Page/The_Beatles_\(음반\).md "wikilink")》을 녹음하기 전에 보여준 많은 곡들 중 하나였다. 이 가사는 원래 1968년 초, [마하리시 마헤쉬 요기가](../Page/마하리시_마헤쉬_요기.md "wikilink") 한 강연에서 영감을 얻은 것으로 비틀즈가 [인도](../Page/인도.md "wikilink") [리시케시](../Page/리시케시.md "wikilink")에서 영적 휴양지에 참석했던 때였다. 다시 쓰여진 형식에서, 이 노래는 레논이 연인과 남편으로서 실패한 결과를 초래한 불충분한 감정을 다루는 고백자의 역할을 한다.
 
 〈Jealous Guy〉는 적어도 92곡의 커버 버전을 가진 가장 흔하게 녹음된 레논 노래들 중 하나이다. 싱글로 발매된 [록시 뮤직의](../Page/록시_뮤직.md "wikilink") 버전은 1980년 12월 레논의 사망 후 3개월 만에 여러 나라에서 1위에 올랐다.
 

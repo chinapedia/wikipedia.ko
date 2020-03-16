@@ -7,7 +7,7 @@
 
 ### 주연
 
-  - [손비야](https://ko.wikipedia.org/wiki/손비야 "wikilink")
+  - [손비야](../Page/손비야.md "wikilink")
   - [타츠미 유이](https://ko.wikipedia.org/wiki/타츠미_유이 "wikilink")
 
 ## 각주

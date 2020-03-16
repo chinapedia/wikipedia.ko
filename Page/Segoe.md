@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Segoe](https://ko.wikipedia.org/wiki/Segoe).
 
 
-**Segoe**(시고)는 [마이크로소프트](https://ko.wikipedia.org/wiki/마이크로소프트 "wikilink")가 사용하는 것으로 잘 알려진 [글꼴](https://ko.wikipedia.org/wiki/글꼴 "wikilink") 계열이다. 이 기업은 Segoe를 온라인 및 마케팅 인쇄물에 사용하며, 여기에는 수많은 제품을 위한 최근 로고가 포함된다. 게다가 Segoe UI 글꼴 하위 계열은 수많은 마이크로소프트 애플리케이션에 의해 사용되며 애플리케이션(예: [마이크로소프트 오피스 2007](https://ko.wikipedia.org/wiki/마이크로소프트_오피스_2007 "wikilink"), [윈도우 라이브 메신저 2009](https://ko.wikipedia.org/wiki/윈도우_라이브_메신저 "wikilink"))에 의해 설치될 수 있다. [윈도우 비스타를](https://ko.wikipedia.org/wiki/윈도우_비스타 "wikilink") 기점으로 마이크로소프트의 기본 운영 체제 글꼴로 채택되었으며 마이크로소프트의 웹 기반 이메일 서비스인 [outlook.com](https://ko.wikipedia.org/wiki/outlook.com "wikilink")에도 사용된다. 2012년 8월, 마이크로소프트는 Segoe를 사용한 새로운 회사 로고 타입셋을 공개했으며 이는 지난 25년 간 사용해온 로고를 대체하는 것이다.\[1\]
+**Segoe**(시고)는 [마이크로소프트](../Page/마이크로소프트.md "wikilink")가 사용하는 것으로 잘 알려진 [글꼴](../Page/글꼴.md "wikilink") 계열이다. 이 기업은 Segoe를 온라인 및 마케팅 인쇄물에 사용하며, 여기에는 수많은 제품을 위한 최근 로고가 포함된다. 게다가 Segoe UI 글꼴 하위 계열은 수많은 마이크로소프트 애플리케이션에 의해 사용되며 애플리케이션(예: [마이크로소프트 오피스 2007](https://ko.wikipedia.org/wiki/마이크로소프트_오피스_2007 "wikilink"), [윈도우 라이브 메신저 2009](../Page/윈도우_라이브_메신저.md "wikilink"))에 의해 설치될 수 있다. [윈도우 비스타를](../Page/윈도우_비스타.md "wikilink") 기점으로 마이크로소프트의 기본 운영 체제 글꼴로 채택되었으며 마이크로소프트의 웹 기반 이메일 서비스인 [outlook.com](https://ko.wikipedia.org/wiki/outlook.com "wikilink")에도 사용된다. 2012년 8월, 마이크로소프트는 Segoe를 사용한 새로운 회사 로고 타입셋을 공개했으며 이는 지난 25년 간 사용해온 로고를 대체하는 것이다.\[1\]
 
 Segoe라는 이름은 마이크로소프트사의 등록 상표이지만 이 글꼴은 원래 [모노타이프](https://ko.wikipedia.org/wiki/모노타이프 "wikilink")가 개발하였다.
 

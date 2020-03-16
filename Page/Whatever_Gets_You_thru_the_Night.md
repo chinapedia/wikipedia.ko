@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Whatever Gets You thru the Night](https://ko.wikipedia.org/wiki/Whatever_Gets_You_thru_the_Night).
 
 
-〈**Whatever Gets You Thru the Night**〉는 [존 레논의](https://ko.wikipedia.org/wiki/존_레논 "wikilink") 노래다. 1974년 [애플 레코드를](https://ko.wikipedia.org/wiki/애플_레코드 "wikilink") 통해 미국에서 애플 1874(Apple 1874)로서 싱글 출시, 영국에서 애플 R5998(Apple R5998)로서 싱글 출시되었다.\[1\]
+〈**Whatever Gets You Thru the Night**〉는 [존 레논의](../Page/존_레논.md "wikilink") 노래다. 1974년 [애플 레코드를](../Page/애플_레코드.md "wikilink") 통해 미국에서 애플 1874(Apple 1874)로서 싱글 출시, 영국에서 애플 R5998(Apple R5998)로서 싱글 출시되었다.\[1\]
 
 성적은 [빌보트 핫 100](https://ko.wikipedia.org/wiki/빌보트_핫_100 "wikilink"), [캐쉬박스 톱 100](https://ko.wikipedia.org/wiki/캐쉬박스_톱_100 "wikilink") 동시 1위\[2\] 및 [영국 싱글 차트](https://ko.wikipedia.org/wiki/영국_싱글_차트 "wikilink") 36위.\[3\]
 

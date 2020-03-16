@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [YOUTH \( \)](https://ko.wikipedia.org/wiki/YOUTH_\(_\)).
 
 
-《**YOUTH**》(유스)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [보이 밴드](https://ko.wikipedia.org/wiki/보이_밴드 "wikilink") [방탄소년단](../Page/방탄소년단.md "wikilink")의 2번째 일본 스튜디오 음반으로서, 2016년 9월 7일 출시되었다. 이 음반에는 13개의 트랙이 있다.\[1\]
+《**YOUTH**》(유스)는 [대한민국](../Page/대한민국.md "wikilink")의 [보이 밴드](https://ko.wikipedia.org/wiki/보이_밴드 "wikilink") [방탄소년단](../Page/방탄소년단.md "wikilink")의 2번째 일본 스튜디오 음반으로서, 2016년 9월 7일 출시되었다. 이 음반에는 13개의 트랙이 있다.\[1\]
 
 ## 에디션
 
@@ -32,10 +32,10 @@
 
 ## 출시 역사
 
-| 나라                                                | 날짜          | 포맷                                                                                                              | 레이블                                                     |
-| ------------------------------------------------- | ----------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
-| [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") | 2016년 9월 7일 | [CD](https://ko.wikipedia.org/wiki/CD "wikilink"), [디지털 다운로드](https://ko.wikipedia.org/wiki/음악_다운로드 "wikilink") | [포니 캐년](https://ko.wikipedia.org/wiki/포니_캐년 "wikilink") |
-|                                                   |             |                                                                                                                 |                                                         |
+| 나라                             | 날짜          | 포맷                                                                                                              | 레이블                                  |
+| ------------------------------ | ----------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+| [일본](../Page/일본.md "wikilink") | 2016년 9월 7일 | [CD](https://ko.wikipedia.org/wiki/CD "wikilink"), [디지털 다운로드](https://ko.wikipedia.org/wiki/음악_다운로드 "wikilink") | [포니 캐년](../Page/포니_캐년.md "wikilink") |
+|                                |             |                                                                                                                 |                                      |
 
 ## 각주
 

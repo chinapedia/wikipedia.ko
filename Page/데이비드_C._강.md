@@ -3,7 +3,7 @@
 
 **데이비드 강**(David Chan-oong Kang, 1965년 \~ )는 미국의 대학교수이다.
 
-[스탠퍼드 대학교에서](https://ko.wikipedia.org/wiki/스탠퍼드_대학교 "wikilink") 학사 학위를, [캘리포니아 대학교에서](https://ko.wikipedia.org/wiki/캘리포니아_대학교 "wikilink") 정치학 박사 학위를, 1995년 버클리에서 인류학과 국제정치학을 취득하였다. 다트머스 대학의 객원 교수, 스탠포드대학, [예일대학교](https://ko.wikipedia.org/wiki/예일대학교 "wikilink"), [서울시립대학교](https://ko.wikipedia.org/wiki/서울시립대학교 "wikilink"), 한국대학교 등에서 근무하였다. 2009년부터 [서던 캘리포니아 대학교에서](https://ko.wikipedia.org/wiki/서던_캘리포니아_대학교 "wikilink") 국제 정치 및 조직을 관리하는 소장 직을 맡으면서 같은 대학 연구소에서 근무하고 있다.\[1\]
+[스탠퍼드 대학교에서](../Page/스탠퍼드_대학교.md "wikilink") 학사 학위를, [캘리포니아 대학교에서](../Page/캘리포니아_대학교.md "wikilink") 정치학 박사 학위를, 1995년 버클리에서 인류학과 국제정치학을 취득하였다. 다트머스 대학의 객원 교수, 스탠포드대학, [예일대학교](https://ko.wikipedia.org/wiki/예일대학교 "wikilink"), [서울시립대학교](https://ko.wikipedia.org/wiki/서울시립대학교 "wikilink"), 한국대학교 등에서 근무하였다. 2009년부터 [서던 캘리포니아 대학교에서](https://ko.wikipedia.org/wiki/서던_캘리포니아_대학교 "wikilink") 국제 정치 및 조직을 관리하는 소장 직을 맡으면서 같은 대학 연구소에서 근무하고 있다.\[1\]
 
 ## 언론 발표 자료
 

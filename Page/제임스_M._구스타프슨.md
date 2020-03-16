@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ M. ](https://ko.wikipedia.org/wiki/_M._).
 
 
-**제임스 M. 구스타프슨** (James M. Gustafson, 1925년 12월 2일 - )은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [기독교](https://ko.wikipedia.org/wiki/기독교 "wikilink") 윤리학자이다.  1985년 [웁살라 대학교](https://ko.wikipedia.org/wiki/웁살라_대학교 "wikilink") 신학부에서 명예 박사를 받았다.\[1\] 그는 [예일 대학교](https://ko.wikipedia.org/wiki/예일_대학교 "wikilink")  신학과(1955-1972)에서 기독교 윤리를 가르쳤고, [시카고 대학교에서](https://ko.wikipedia.org/wiki/시카고_대학교 "wikilink") 기독교 윤리학을 가르치고(1972-1988), [에모리 대학교에서](https://ko.wikipedia.org/wiki/에모리_대학교 "wikilink") 교수를 하였다.그는 2011년 기독교 윤리학회로 부터 그의 업적에 의해서 상을 받았다.\[2\]
+**제임스 M. 구스타프슨** (James M. Gustafson, 1925년 12월 2일 - )은 [미국](../Page/미국.md "wikilink") [기독교](../Page/기독교.md "wikilink") 윤리학자이다.  1985년 [웁살라 대학교](https://ko.wikipedia.org/wiki/웁살라_대학교 "wikilink") 신학부에서 명예 박사를 받았다.\[1\] 그는 [예일 대학교](../Page/예일_대학교.md "wikilink")  신학과(1955-1972)에서 기독교 윤리를 가르쳤고, [시카고 대학교에서](../Page/시카고_대학교.md "wikilink") 기독교 윤리학을 가르치고(1972-1988), [에모리 대학교에서](../Page/에모리_대학교.md "wikilink") 교수를 하였다.그는 2011년 기독교 윤리학회로 부터 그의 업적에 의해서 상을 받았다.\[2\]
 
-그의 제자 가운데 저명한 학자로 [스탠리 하우어워스와](https://ko.wikipedia.org/wiki/스탠리_하우어워스 "wikilink") 더글라스 오타티가 있다.
+그의 제자 가운데 저명한 학자로 [스탠리 하우어워스와](../Page/스탠리_하우어워스.md "wikilink") 더글라스 오타티가 있다.
 
 ## 참고문헌
 

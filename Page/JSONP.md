@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JSONP](https://ko.wikipedia.org/wiki/JSONP).
 
 
-[thumb](https://ko.wikipedia.org/wiki/파일:JSONP_logo.png "wikilink") **JSONP**(**[JSON](https://ko.wikipedia.org/wiki/JSON "wikilink") with Padding** 또는 JSON-P\[1\])는 클라이언트가 아닌, 각기 다른 도메인에 상주하는 서버로부터 데이터를 요청하기 위해 사용된다. 2005년에 Bob Ippolito가 제안하였다.\[2\] JSONP는 [동일-출처 정책을](../Page/동일-출처_정책.md "wikilink") 우회하는 데이터의 공유를 가능하게 한다. 이 정책은 페이지의 출처 밖에서 가져온 미디어 [DOM](https://ko.wikipedia.org/wiki/문서_객체_모델 "wikilink") 요소나 [XHR](../Page/XMLHttpRequest.md "wikilink") 데이터를 읽기 위해 [자바스크립트](https://ko.wikipedia.org/wiki/자바스크립트 "wikilink")를 실행하는 것을 허용하지 않는다. 사이트의 스킴, 포트 번호, 호스트 이름의 집합은 출처로 식별된다. 상속 비보안 문제로 인해 JSONP는 [CORS로](https://ko.wikipedia.org/wiki/크로스_오리진_리소스_셰어링 "wikilink") 대체되고 있다.
+[thumb](https://ko.wikipedia.org/wiki/파일:JSONP_logo.png "wikilink") **JSONP**(**[JSON](../Page/JSON.md "wikilink") with Padding** 또는 JSON-P\[1\])는 클라이언트가 아닌, 각기 다른 도메인에 상주하는 서버로부터 데이터를 요청하기 위해 사용된다. 2005년에 Bob Ippolito가 제안하였다.\[2\] JSONP는 [동일-출처 정책을](../Page/동일-출처_정책.md "wikilink") 우회하는 데이터의 공유를 가능하게 한다. 이 정책은 페이지의 출처 밖에서 가져온 미디어 [DOM](../Page/문서_객체_모델.md "wikilink") 요소나 [XHR](../Page/XMLHttpRequest.md "wikilink") 데이터를 읽기 위해 [자바스크립트](../Page/자바스크립트.md "wikilink")를 실행하는 것을 허용하지 않는다. 사이트의 스킴, 포트 번호, 호스트 이름의 집합은 출처로 식별된다. 상속 비보안 문제로 인해 JSONP는 [CORS로](https://ko.wikipedia.org/wiki/크로스_오리진_리소스_셰어링 "wikilink") 대체되고 있다.
 
 ## JSONP의 동작 원리
 

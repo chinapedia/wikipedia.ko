@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ P. ](https://ko.wikipedia.org/wiki/_P._).
 
 
-**조지 피어슨 스미스**(, [1941년](https://ko.wikipedia.org/wiki/1941년 "wikilink") [3월 10일](https://ko.wikipedia.org/wiki/3월_10일 "wikilink") \~ )는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [화학](https://ko.wikipedia.org/wiki/화학 "wikilink")자이다. 2018년에 박테리아를 감염시키는 바이러스를 이용하여 새로운 단백질을 진화시키는데 사용될 수 있는 ‘파지 전시’라는 과정을 개발한 공로로 [프랜시스 아널드](../Page/프랜시스_아널드.md "wikilink"), [그레고리 윈터와](https://ko.wikipedia.org/wiki/그레고리_윈터 "wikilink") 함께 [노벨 화학상을](https://ko.wikipedia.org/wiki/노벨_화학상 "wikilink") 수상했다.
+**조지 피어슨 스미스**(, [1941년](../Page/1941년.md "wikilink") [3월 10일](../Page/3월_10일.md "wikilink") \~ )는 [미국](../Page/미국.md "wikilink")의 [화학](../Page/화학.md "wikilink")자이다. 2018년에 박테리아를 감염시키는 바이러스를 이용하여 새로운 단백질을 진화시키는데 사용될 수 있는 ‘파지 전시’라는 과정을 개발한 공로로 [프랜시스 아널드](../Page/프랜시스_아널드.md "wikilink"), [그레고리 윈터와](../Page/그레고리_윈터.md "wikilink") 함께 [노벨 화학상을](https://ko.wikipedia.org/wiki/노벨_화학상 "wikilink") 수상했다.
 
 ## 각주
 

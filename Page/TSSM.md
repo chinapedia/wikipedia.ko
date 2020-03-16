@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TSSM](https://ko.wikipedia.org/wiki/TSSM).
 
 
-**TSSM**은 [타이탄](https://ko.wikipedia.org/wiki/타이탄 "wikilink")과 [엔셀라두스](https://ko.wikipedia.org/wiki/엔셀라두스 "wikilink")를 탐사하기 위한 탐사선으로, [NASA](https://ko.wikipedia.org/wiki/NASA "wikilink")와 ESA의 합작이다.\[1\] 2003년 제안되었으며,\[2\] 목적은 타이탄과 엔셀라두스의 공통점과 차이점을 찾고, 생명체 거주 가능성을 연구하는 것이다.
+**TSSM**은 [타이탄](https://ko.wikipedia.org/wiki/타이탄 "wikilink")과 [엔셀라두스](../Page/엔셀라두스.md "wikilink")를 탐사하기 위한 탐사선으로, [NASA](https://ko.wikipedia.org/wiki/NASA "wikilink")와 ESA의 합작이다.\[1\] 2003년 제안되었으며,\[2\] 목적은 타이탄과 엔셀라두스의 공통점과 차이점을 찾고, 생명체 거주 가능성을 연구하는 것이다.
 
 ## 역사와 제작배경
 
@@ -13,7 +13,7 @@
 
 ## 발사
 
-2019년 정도에 [델타 IV 헤비](../Page/델타_IV_헤비.md "wikilink"), [SLS](https://ko.wikipedia.org/wiki/우주_발사_시스템 "wikilink"), [아틀라스 V](https://ko.wikipedia.org/wiki/아틀라스_V "wikilink") 중 하나를 이용해\[11\] 발사될 예정이었으나, [EJSM](https://ko.wikipedia.org/wiki/EJSM "wikilink")을 개발 우선 순위로 두면서 2020년대로 미뤄졌다.\[12\]
+2019년 정도에 [델타 IV 헤비](../Page/델타_IV_헤비.md "wikilink"), [SLS](../Page/우주_발사_시스템.md "wikilink"), [아틀라스 V](https://ko.wikipedia.org/wiki/아틀라스_V "wikilink") 중 하나를 이용해\[11\] 발사될 예정이었으나, [EJSM](https://ko.wikipedia.org/wiki/EJSM "wikilink")을 개발 우선 순위로 두면서 2020년대로 미뤄졌다.\[12\]
 
 ## 지원, 개발, 투자
 
@@ -22,7 +22,7 @@
   - [GSFC](https://ko.wikipedia.org/wiki/GSFC "wikilink")
   - [SwRI](https://ko.wikipedia.org/wiki/SwRI "wikilink")
   - [ESA](https://ko.wikipedia.org/wiki/ESA "wikilink")
-  - [아리안스페이스](https://ko.wikipedia.org/wiki/아리안스페이스 "wikilink")
+  - [아리안스페이스](../Page/아리안스페이스.md "wikilink")
   - [EADS 아스트리움](https://ko.wikipedia.org/wiki/EADS_아스트리움 "wikilink")
 
 ## 각주

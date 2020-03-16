@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [HGM-25A  I](https://ko.wikipedia.org/wiki/HGM-25A__I).
 
 
-**HGM-25A 타이탄 I**은 미국의 2번째 ICBM이다. 미국 최초의 ICBM인 [SM-65 아틀라스에](https://ko.wikipedia.org/wiki/SM-65_아틀라스 "wikilink") 이어 개발되었다.
+**HGM-25A 타이탄 I**은 미국의 2번째 ICBM이다. 미국 최초의 ICBM인 [SM-65 아틀라스에](../Page/SM-65_아틀라스.md "wikilink") 이어 개발되었다.
 
 ## 역사
 
-[마틴 마리에타가](https://ko.wikipedia.org/wiki/마틴_마리에타 "wikilink") 개발했다. 미국 최초의 ICBM인 [SM-65 아틀라스와](https://ko.wikipedia.org/wiki/SM-65_아틀라스 "wikilink") 마찬가지로, 극저온 액체산소와 상온 등유를 사용한다. [타이탄 (로켓)의](../Page/타이탄_\(로켓\).md "wikilink") 최초 모델인데, 그 이후 모델들은 모두 극저온 액체산소가 아니라 상온 [하이드라진](https://ko.wikipedia.org/wiki/하이드라진 "wikilink")을 사용했다.
+[마틴 마리에타가](https://ko.wikipedia.org/wiki/마틴_마리에타 "wikilink") 개발했다. 미국 최초의 ICBM인 [SM-65 아틀라스와](../Page/SM-65_아틀라스.md "wikilink") 마찬가지로, 극저온 액체산소와 상온 등유를 사용한다. [타이탄 (로켓)의](../Page/타이탄_\(로켓\).md "wikilink") 최초 모델인데, 그 이후 모델들은 모두 극저온 액체산소가 아니라 상온 [하이드라진](../Page/하이드라진.md "wikilink")을 사용했다.
 
 1959년 부터 1965년 까지 실전배치되어 사용되었다.
 

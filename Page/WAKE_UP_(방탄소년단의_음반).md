@@ -1,14 +1,14 @@
 > This article is converted from Wikipedia: [WAKE UP \( \)](https://ko.wikipedia.org/wiki/WAKE_UP_\(_\)).
 
 
-《**WAKE UP**》(웨이크 업)은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [보이 밴드](https://ko.wikipedia.org/wiki/보이_밴드 "wikilink") [방탄소년단](../Page/방탄소년단.md "wikilink")의 데뷔 일본 스튜디오 음반으로, 2014년 12월 24일 출시되었다. 이 음반은 13개의 트랙이 있으며 일본어 버전의 《No More Dream》, 《Boy in Luv》, 《Danger》가 수록되어 있고 그 외에 2개의 일본 오리지널 노래 《The Stars》, 《Wake Up》이 포함되었다. 이 음반은 [오리콘 차트에서](https://ko.wikipedia.org/wiki/오리콘_차트 "wikilink") 2위를 차지했다.
+《**WAKE UP**》(웨이크 업)은 [대한민국](../Page/대한민국.md "wikilink")의 [보이 밴드](https://ko.wikipedia.org/wiki/보이_밴드 "wikilink") [방탄소년단](../Page/방탄소년단.md "wikilink")의 데뷔 일본 스튜디오 음반으로, 2014년 12월 24일 출시되었다. 이 음반은 13개의 트랙이 있으며 일본어 버전의 《No More Dream》, 《Boy in Luv》, 《Danger》가 수록되어 있고 그 외에 2개의 일본 오리지널 노래 《The Stars》, 《Wake Up》이 포함되었다. 이 음반은 [오리콘 차트에서](https://ko.wikipedia.org/wiki/오리콘_차트 "wikilink") 2위를 차지했다.
 
 ## 출시 역사
 
-| 나라                                                    | 날짜            | 포맷                                                                                                              | 레이블                                                             |
-| ----------------------------------------------------- | ------------- | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")     | 2014년 12월 24일 | [CD](https://ko.wikipedia.org/wiki/CD "wikilink"), [디지털 다운로드](https://ko.wikipedia.org/wiki/음악_다운로드 "wikilink") | [포니 캐년](https://ko.wikipedia.org/wiki/포니_캐년 "wikilink")         |
-| [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") | 2015년 2월 26일  | [디지털 다운로드](https://ko.wikipedia.org/wiki/음악_다운로드 "wikilink")                                                    | [로엔 엔터테인먼트](https://ko.wikipedia.org/wiki/로엔_엔터테인먼트 "wikilink") |
+| 나라                                 | 날짜            | 포맷                                                                                                              | 레이블                                                             |
+| ---------------------------------- | ------------- | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| [일본](../Page/일본.md "wikilink")     | 2014년 12월 24일 | [CD](https://ko.wikipedia.org/wiki/CD "wikilink"), [디지털 다운로드](https://ko.wikipedia.org/wiki/음악_다운로드 "wikilink") | [포니 캐년](../Page/포니_캐년.md "wikilink")                            |
+| [대한민국](../Page/대한민국.md "wikilink") | 2015년 2월 26일  | [디지털 다운로드](https://ko.wikipedia.org/wiki/음악_다운로드 "wikilink")                                                    | [로엔 엔터테인먼트](https://ko.wikipedia.org/wiki/로엔_엔터테인먼트 "wikilink") |
 
 ## 곡 목록
 

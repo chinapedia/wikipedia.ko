@@ -1,31 +1,31 @@
 > This article is converted from Wikipedia: [VDL  \& ](https://ko.wikipedia.org/wiki/VDL__\&_).
 
 
-**VDL 버스 & 코치**()는 [네덜란드](https://ko.wikipedia.org/wiki/네덜란드 "wikilink")의 자동차 메이커로 주로 [시내버스](https://ko.wikipedia.org/wiki/시내버스 "wikilink"), [전세버스](https://ko.wikipedia.org/wiki/전세버스 "wikilink"), [고속버스](https://ko.wikipedia.org/wiki/고속버스 "wikilink")를 생산하고 있다.
+**VDL 버스 & 코치**()는 [네덜란드](../Page/네덜란드.md "wikilink")의 자동차 메이커로 주로 [시내버스](../Page/시내버스.md "wikilink"), [전세버스](https://ko.wikipedia.org/wiki/전세버스 "wikilink"), [고속버스](https://ko.wikipedia.org/wiki/고속버스 "wikilink")를 생산하고 있다.
 
 ## 역사
 
-설립 당시 **DAF 버스 인터내셔널**()이란 명칭을 사용했으나 [DAF 트럭과](../Page/DAF_트럭.md "wikilink") 계열사에서 분리되면서 [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink")에 [유나이티드 버스에](https://ko.wikipedia.org/wiki/유나이티드_버스 "wikilink") 인수되었다. [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink")에 [유나이티드 버스가](https://ko.wikipedia.org/wiki/유나이티드_버스 "wikilink") 도산되면서 [VDL 그룹에](https://ko.wikipedia.org/wiki/VDL_그룹 "wikilink") 의해 인수되었다.
+설립 당시 **DAF 버스 인터내셔널**()이란 명칭을 사용했으나 [DAF 트럭과](../Page/DAF_트럭.md "wikilink") 계열사에서 분리되면서 [1990년](../Page/1990년.md "wikilink")에 [유나이티드 버스에](https://ko.wikipedia.org/wiki/유나이티드_버스 "wikilink") 인수되었다. [1993년](../Page/1993년.md "wikilink")에 [유나이티드 버스가](https://ko.wikipedia.org/wiki/유나이티드_버스 "wikilink") 도산되면서 [VDL 그룹에](https://ko.wikipedia.org/wiki/VDL_그룹 "wikilink") 의해 인수되었다.
 
-[2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [11월](https://ko.wikipedia.org/wiki/11월 "wikilink")에 **VDL 버스 인터내셔널**()로 사명으로 변경되었다. [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") 기준으로 지분이 [VDL 그룹이](https://ko.wikipedia.org/wiki/VDL_그룹 "wikilink") 81%를 소유하고 있으며 [파카 그룹이](../Page/파카_그룹.md "wikilink") 19%를 소유하고 있다. [VDL 그룹의](https://ko.wikipedia.org/wiki/VDL_그룹 "wikilink") 경우 벌코프, [욘케레](../Page/욘케레.md "wikilink")를 인수해 [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink")에 VDL 버스 그룹이 탄생되었다.
+[2003년](../Page/2003년.md "wikilink") [11월](../Page/11월.md "wikilink")에 **VDL 버스 인터내셔널**()로 사명으로 변경되었다. [2005년](../Page/2005년.md "wikilink") 기준으로 지분이 [VDL 그룹이](https://ko.wikipedia.org/wiki/VDL_그룹 "wikilink") 81%를 소유하고 있으며 [파카 그룹이](../Page/파카_그룹.md "wikilink") 19%를 소유하고 있다. [VDL 그룹의](https://ko.wikipedia.org/wiki/VDL_그룹 "wikilink") 경우 벌코프, [욘케레](../Page/욘케레.md "wikilink")를 인수해 [1998년](../Page/1998년.md "wikilink")에 VDL 버스 그룹이 탄생되었다.
 
-[2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink")에 현재의 사명으로 변경되면서 현재에 이르고 있다.\[1\]
+[2008년](../Page/2008년.md "wikilink")에 현재의 사명으로 변경되면서 현재에 이르고 있다.\[1\]
 
 ## 생산 차량
 
 ### 현재 생산차량
 
-#### [시내버스](https://ko.wikipedia.org/wiki/시내버스 "wikilink"), [전세버스](https://ko.wikipedia.org/wiki/전세버스 "wikilink")
+#### [시내버스](../Page/시내버스.md "wikilink"), [전세버스](https://ko.wikipedia.org/wiki/전세버스 "wikilink")
 
   - [시티아](https://ko.wikipedia.org/wiki/VDL_시티아 "wikilink")
   - 퓨트라
 
 #### 차체
 
-  - SB180 - [저상버스](https://ko.wikipedia.org/wiki/저상버스 "wikilink") 차체
-  - [SB200](https://ko.wikipedia.org/wiki/VDL_SB200 "wikilink") - [저상버스](https://ko.wikipedia.org/wiki/저상버스 "wikilink") 차체
-  - SB230 - [저상버스](https://ko.wikipedia.org/wiki/저상버스 "wikilink") 차체
-  - SBR230 - [저상버스](https://ko.wikipedia.org/wiki/저상버스 "wikilink") 차체
+  - SB180 - [저상버스](../Page/저상버스.md "wikilink") 차체
+  - [SB200](https://ko.wikipedia.org/wiki/VDL_SB200 "wikilink") - [저상버스](../Page/저상버스.md "wikilink") 차체
+  - SB230 - [저상버스](../Page/저상버스.md "wikilink") 차체
+  - SBR230 - [저상버스](../Page/저상버스.md "wikilink") 차체
   - DB300 - 더블데커 차체
   - TB2175 - 해비듀티 (프론트 앤진)
   - TBR2175 - 해비듀티 (프론트 앤진)

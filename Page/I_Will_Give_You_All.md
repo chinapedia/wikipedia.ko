@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [I Will Give You All](https://ko.wikipedia.org/wiki/I_Will_Give_You_All).
 
 
-**〈I Will Give You All〉**은 [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink")에 발매된 [조규만](../Page/조규만.md "wikilink")의 싱글 리패키지 음반이다. 이 앨범은 출시 5개월만에 10만장 판매라는 기록을 세웠다.\[1\]
+**〈I Will Give You All〉**은 [2000년](../Page/2000년.md "wikilink")에 발매된 [조규만](../Page/조규만.md "wikilink")의 싱글 리패키지 음반이다. 이 앨범은 출시 5개월만에 10만장 판매라는 기록을 세웠다.\[1\]
 
 ## 수록곡
 

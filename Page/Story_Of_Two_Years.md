@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Story Of Two Years](https://ko.wikipedia.org/wiki/Story_Of_Two_Years).
 
 
-**《Story Of Two Years》**는 2000년 5월 16일에 발매된 [임재범](https://ko.wikipedia.org/wiki/임재범 "wikilink")의 네 번째 정규 음반이다. 타이틀곡 〈너를 위해〉가 영화 《[동감](https://ko.wikipedia.org/wiki/동감 "wikilink")》의 OST로 사용되면서 큰 인기를 얻었으나 당시 임재범은 활동을 중단하고 잠적한 상태였다. 2011년 MBC 《[나는 가수다](../Page/나는_가수다.md "wikilink")》에 출연한 후 〈너를 위해〉는 새롭게 조명을 받았다.
+**《Story Of Two Years》**는 2000년 5월 16일에 발매된 [임재범](../Page/임재범.md "wikilink")의 네 번째 정규 음반이다. 타이틀곡 〈너를 위해〉가 영화 《[동감](../Page/동감.md "wikilink")》의 OST로 사용되면서 큰 인기를 얻었으나 당시 임재범은 활동을 중단하고 잠적한 상태였다. 2011년 MBC 《[나는 가수다](../Page/나는_가수다.md "wikilink")》에 출연한 후 〈너를 위해〉는 새롭게 조명을 받았다.
 
 ## 2년의 시간
 
@@ -27,10 +27,10 @@
 
 </dl>
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/Sam_Lee" title="wikilink">Sam Lee</a> - <a href="https://ko.wikipedia.org/wiki/전기_기타" title="wikilink">전기 기타</a>(2, 4, 5, 7, 9)</li>
-<li>신현권 - <a href="https://ko.wikipedia.org/wiki/베이스_기타" title="wikilink">베이스 기타</a>(1, 2, 4~6, 7, 9)</li>
+<li><a href="https://ko.wikipedia.org/wiki/Sam_Lee" title="wikilink">Sam Lee</a> - <a href="../Page/전기_기타.md" title="wikilink">전기 기타</a>(2, 4, 5, 7, 9)</li>
+<li>신현권 - <a href="../Page/베이스_기타.md" title="wikilink">베이스 기타</a>(1, 2, 4~6, 7, 9)</li>
 <li><a href="https://ko.wikipedia.org/wiki/강수호_(드러머)" title="wikilink">강수호</a> - <a href="https://ko.wikipedia.org/wiki/드럼" title="wikilink">드럼</a>(1, 2, 4~6, 7, 9)</li>
-<li>이승환(Story) - <a href="https://ko.wikipedia.org/wiki/키보드_(악기)" title="wikilink">건반</a>(1, 2, 4~6, 7, 9), <a href="https://ko.wikipedia.org/wiki/피아노" title="wikilink">피아노</a>(1, 9)</li>
+<li>이승환(Story) - <a href="https://ko.wikipedia.org/wiki/키보드_(악기)" title="wikilink">건반</a>(1, 2, 4~6, 7, 9), <a href="../Page/피아노.md" title="wikilink">피아노</a>(1, 9)</li>
 <li>심상원 외 14인 - 현악(1, 4, 5, 9)</li>
 <li>최원석 - <a href="https://ko.wikipedia.org/wiki/코러스_(대중음악)" title="wikilink">코러스</a>(2, 7, 9)</li>
 <li>이근형 - 전기 기타(1, 6)</li>
@@ -59,7 +59,7 @@
 <li>이상호, 정석우 - 마스터링</li>
 <li>임계환, 고현정, 김한구, 류재경, 이정형 - 레코딩 엔지니어</li>
 <li>이선용 - <a href="../Page/판촉.md" title="wikilink">프로모션</a>, 프로덕션 코디네이터</li>
-<li><a href="https://ko.wikipedia.org/wiki/김중만" title="wikilink">김중만</a>, 김유철 - 사진</li>
+<li><a href="../Page/김중만.md" title="wikilink">김중만</a>, 김유철 - 사진</li>
 <li>신진택, 정태영, 박재욱 - 컴퓨터 그래픽</li>
 </ul></td>
 </tr>

@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Fake Plastic Trees](https://ko.wikipedia.org/wiki/Fake_Plastic_Trees).
 
 
-〈**Fake Plastic Trees**〉는 1995년 5월 15일 두 번째 음반 《[The Bends](https://ko.wikipedia.org/wiki/The_Bends "wikilink")》의 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink") [얼터너티브 록](https://ko.wikipedia.org/wiki/얼터너티브_록 "wikilink") 밴드 [라디오헤드](https://ko.wikipedia.org/wiki/라디오헤드 "wikilink")의 곡이다. 이 곡은 영국에서 세 번째 싱글곡이었지만 미국에서는 이 밴드의 첫 번째 싱글로 발매되었다. 〈Fake Plastic Trees〉는 초기 히트곡인 〈[Creep](https://ko.wikipedia.org/wiki/Creep_\(라디오헤드의_노래\) "wikilink")〉의 [그런지](https://ko.wikipedia.org/wiki/그런지 "wikilink") 사운드에서 벗어나 밴드의 초기 경력에서 전환점을 기록했다.\[1\] 이 곡은 [영국 싱글 차트](https://ko.wikipedia.org/wiki/영국_싱글_차트 "wikilink"), [뉴질랜드 싱글 차트](https://ko.wikipedia.org/wiki/리코디드_뮤직_NZ "wikilink"), 미국 [모던 록 트랙 차트](https://ko.wikipedia.org/wiki/모던_록_트랙_차트 "wikilink"), 캐나다 록/얼터너티브 차트에 대한 차트를 작성했지만, 다른 곳에서는 실질적인 상업적 영향을 주지 않았다.
+〈**Fake Plastic Trees**〉는 1995년 5월 15일 두 번째 음반 《[The Bends](../Page/The_Bends.md "wikilink")》의 [영국](../Page/영국.md "wikilink") [얼터너티브 록](../Page/얼터너티브_록.md "wikilink") 밴드 [라디오헤드](../Page/라디오헤드.md "wikilink")의 곡이다. 이 곡은 영국에서 세 번째 싱글곡이었지만 미국에서는 이 밴드의 첫 번째 싱글로 발매되었다. 〈Fake Plastic Trees〉는 초기 히트곡인 〈[Creep](../Page/Creep_\(라디오헤드의_노래\).md "wikilink")〉의 [그런지](https://ko.wikipedia.org/wiki/그런지 "wikilink") 사운드에서 벗어나 밴드의 초기 경력에서 전환점을 기록했다.\[1\] 이 곡은 [영국 싱글 차트](https://ko.wikipedia.org/wiki/영국_싱글_차트 "wikilink"), [뉴질랜드 싱글 차트](https://ko.wikipedia.org/wiki/리코디드_뮤직_NZ "wikilink"), 미국 [모던 록 트랙 차트](https://ko.wikipedia.org/wiki/모던_록_트랙_차트 "wikilink"), 캐나다 록/얼터너티브 차트에 대한 차트를 작성했지만, 다른 곳에서는 실질적인 상업적 영향을 주지 않았다.
 
 ## 중요 수신
 
-이 곡의 인기에도 불구하고, 모든 비평가가 발표될 때 칭찬을 받은 것은 아니었다. 1995년 5월 《[NME](../Page/뉴_뮤지컬_익스프레스.md "wikilink")》를 위해 작곡한 [존 멀베이는](https://ko.wikipedia.org/wiki/존_멀베이 "wikilink") 그 노래가 내용이 부족하다고 추측했고 [U2](https://ko.wikipedia.org/wiki/U2 "wikilink")의 [아레나 록과](https://ko.wikipedia.org/wiki/아레나_록 "wikilink") 비교를 했다.\[2\]
+이 곡의 인기에도 불구하고, 모든 비평가가 발표될 때 칭찬을 받은 것은 아니었다. 1995년 5월 《[NME](../Page/뉴_뮤지컬_익스프레스.md "wikilink")》를 위해 작곡한 [존 멀베이는](https://ko.wikipedia.org/wiki/존_멀베이 "wikilink") 그 노래가 내용이 부족하다고 추측했고 [U2](../Page/U2.md "wikilink")의 [아레나 록과](https://ko.wikipedia.org/wiki/아레나_록 "wikilink") 비교를 했다.\[2\]
 
-이 곡은 《[롤링 스톤](https://ko.wikipedia.org/wiki/롤링_스톤 "wikilink")》의 [역사상 가장 위대한 노래 500곡](https://ko.wikipedia.org/wiki/역사상_가장_위대한_노래_500곡 "wikilink") 중 376위에 올랐으며 [트리플 J](https://ko.wikipedia.org/wiki/트리플_J "wikilink") 라디오의 가장 인기있는 100곡에 28위에 올랐다.\[3\]
+이 곡은 《[롤링 스톤](../Page/롤링_스톤.md "wikilink")》의 [역사상 가장 위대한 노래 500곡](https://ko.wikipedia.org/wiki/역사상_가장_위대한_노래_500곡 "wikilink") 중 376위에 올랐으며 [트리플 J](https://ko.wikipedia.org/wiki/트리플_J "wikilink") 라디오의 가장 인기있는 100곡에 28위에 올랐다.\[3\]
 
 ## 뮤직 비디오
 

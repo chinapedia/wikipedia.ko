@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Power to the People](https://ko.wikipedia.org/wiki/Power_to_the_People).
 
 
-〈**Power to the People**〉은 1971년 싱글곡으로 발매된 [존 레논이](https://ko.wikipedia.org/wiki/존_레논 "wikilink") 쓴 곡으로, [존 레논](https://ko.wikipedia.org/wiki/존_레논 "wikilink")/[플라스틱 오노 밴드가](https://ko.wikipedia.org/wiki/플라스틱_오노_밴드 "wikilink") 작곡한 곡이다. [애플 레코드](https://ko.wikipedia.org/wiki/애플_레코드 "wikilink") (영국에서는 카탈로그 번호 R5892, 미국에서는 1830), 미국에서는 [빌보드 핫 100에서](https://ko.wikipedia.org/wiki/빌보드_핫_100 "wikilink") 11위, [캐시박스](https://ko.wikipedia.org/wiki/캐시박스 "wikilink") 탑 100에서 10위를 기록했다.\[1\] 그리고 [영국 싱글 차트에서](https://ko.wikipedia.org/wiki/영국_싱글_차트 "wikilink") 6위를 기록했다.\[2\] 이 곡의 첫 음반은 1975년 컴필레이션 《[Shaved Fish](../Page/Shaved_Fish.md "wikilink")》였다.
+〈**Power to the People**〉은 1971년 싱글곡으로 발매된 [존 레논이](../Page/존_레논.md "wikilink") 쓴 곡으로, [존 레논](../Page/존_레논.md "wikilink")/[플라스틱 오노 밴드가](https://ko.wikipedia.org/wiki/플라스틱_오노_밴드 "wikilink") 작곡한 곡이다. [애플 레코드](../Page/애플_레코드.md "wikilink") (영국에서는 카탈로그 번호 R5892, 미국에서는 1830), 미국에서는 [빌보드 핫 100에서](../Page/빌보드_핫_100.md "wikilink") 11위, [캐시박스](https://ko.wikipedia.org/wiki/캐시박스 "wikilink") 탑 100에서 10위를 기록했다.\[1\] 그리고 [영국 싱글 차트에서](https://ko.wikipedia.org/wiki/영국_싱글_차트 "wikilink") 6위를 기록했다.\[2\] 이 곡의 첫 음반은 1975년 컴필레이션 《[Shaved Fish](../Page/Shaved_Fish.md "wikilink")》였다.
 
 ## 작곡과 녹음
 
@@ -9,12 +9,12 @@
 
 ## 참여 인원
 
-  - [존 레논](https://ko.wikipedia.org/wiki/존_레논 "wikilink") – [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), [기타](https://ko.wikipedia.org/wiki/기타 "wikilink")
+  - [존 레논](../Page/존_레논.md "wikilink") – [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), [기타](../Page/기타.md "wikilink")
   - [로제타 하이타워](https://ko.wikipedia.org/wiki/로제타_하이타워 "wikilink") 그리고 다른 가수들 – [백 보컬](https://ko.wikipedia.org/wiki/백_보컬 "wikilink"), [박수](https://ko.wikipedia.org/wiki/박수 "wikilink")
-  - [오노 요코](https://ko.wikipedia.org/wiki/오노_요코 "wikilink") – [백 보컬](https://ko.wikipedia.org/wiki/백_보컬 "wikilink"), [피아노](https://ko.wikipedia.org/wiki/피아노 "wikilink")
-  - [바비 키스](https://ko.wikipedia.org/wiki/바비_키스 "wikilink") – [색소폰](https://ko.wikipedia.org/wiki/색소폰 "wikilink")
-  - [빌리 프레스턴](https://ko.wikipedia.org/wiki/빌리_프레스턴 "wikilink") – [피아노](https://ko.wikipedia.org/wiki/피아노 "wikilink"), [키보드](https://ko.wikipedia.org/wiki/건반_악기 "wikilink")
-  - [클라우스 부어만](https://ko.wikipedia.org/wiki/클라우스_부어만 "wikilink") – [베이스](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink")
+  - [오노 요코](../Page/오노_요코.md "wikilink") – [백 보컬](https://ko.wikipedia.org/wiki/백_보컬 "wikilink"), [피아노](../Page/피아노.md "wikilink")
+  - [바비 키스](https://ko.wikipedia.org/wiki/바비_키스 "wikilink") – [색소폰](../Page/색소폰.md "wikilink")
+  - [빌리 프레스턴](../Page/빌리_프레스턴.md "wikilink") – [피아노](../Page/피아노.md "wikilink"), [키보드](https://ko.wikipedia.org/wiki/건반_악기 "wikilink")
+  - [클라우스 부어만](../Page/클라우스_부어만.md "wikilink") – [베이스](../Page/베이스_기타.md "wikilink")
   - [앨런 화이트](https://ko.wikipedia.org/wiki/앨런_화이트_\(예스_드러머\) "wikilink") – [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink")
 
 ## 각주

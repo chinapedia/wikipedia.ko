@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [N. K. ](https://ko.wikipedia.org/wiki/N._K._).
 
 
-**N. K. 제미신**(, [1972년](https://ko.wikipedia.org/wiki/1972년 "wikilink") [9월 19일](https://ko.wikipedia.org/wiki/9월_19일 "wikilink") \~ )은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 판타지·SF [소설가](https://ko.wikipedia.org/wiki/소설가 "wikilink")이다. 데뷔작인 2011년작 《십만국》(The Hundred Thousand Kingdoms)으로 [로커스상](https://ko.wikipedia.org/wiki/로커스상 "wikilink") 데뷔작상을 수상하였고, 이후 2016년작 《[다섯 번째 계절](https://ko.wikipedia.org/wiki/다섯_번째_계절 "wikilink")》을 시작으로 하는 '무너진 대지' 삼부작으로 [휴고상](https://ko.wikipedia.org/wiki/휴고상 "wikilink"), [네뷸러상](https://ko.wikipedia.org/wiki/네뷸러상 "wikilink"), 로커스상을 전부 수상하였다.
+**N. K. 제미신**(, [1972년](../Page/1972년.md "wikilink") [9월 19일](../Page/9월_19일.md "wikilink") \~ )은 [미국](../Page/미국.md "wikilink")의 판타지·SF [소설가](https://ko.wikipedia.org/wiki/소설가 "wikilink")이다. 데뷔작인 2011년작 《십만국》(The Hundred Thousand Kingdoms)으로 [로커스상](https://ko.wikipedia.org/wiki/로커스상 "wikilink") 데뷔작상을 수상하였고, 이후 2016년작 《[다섯 번째 계절](https://ko.wikipedia.org/wiki/다섯_번째_계절 "wikilink")》을 시작으로 하는 '무너진 대지' 삼부작으로 [휴고상](https://ko.wikipedia.org/wiki/휴고상 "wikilink"), [네뷸러상](../Page/네뷸러상.md "wikilink"), 로커스상을 전부 수상하였다.
 
 ## 저작
 

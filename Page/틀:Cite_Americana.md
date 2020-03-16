@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [:Cite Americana](https://ko.wikipedia.org/wiki/:Cite_Americana).
 
 
-{{\#if:||\[\[파일:{{\#if:|{{\#if: |하나 이상의 상기 문장들은|이 문서는}} [퍼블릭 도메인의](https://ko.wikipedia.org/wiki/퍼블릭_도메인 "wikilink") 출판물의 내용을 포함합니다: |}} =
+{{\#if:||\[\[파일:{{\#if:|{{\#if: |하나 이상의 상기 문장들은|이 문서는}} [퍼블릭 도메인의](../Page/퍼블릭_도메인.md "wikilink") 출판물의 내용을 포함합니다: |}} =
 
 `|{{#if:``    |last1    |HIDE_PARAMETER2}}=`
 `|{{#if:``   |author   |HIDE_PARAMETER3}}=`

@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [ M. ](https://ko.wikipedia.org/wiki/_M._).
 
 
-<span>**사무엘 M. 즈웨머**(Samuel Marinus Zwemer, </span>1867년 4월 12일 - 1952년 4월 2일)는 별명이 [이슬람](https://ko.wikipedia.org/wiki/이슬람 "wikilink")의 [사도](https://ko.wikipedia.org/wiki/사도 "wikilink")이며 미국의 선교사, 여행가, 그리고 학자이다. 그는 [미시간주](https://ko.wikipedia.org/wiki/미시간주 "wikilink") 브레스랜드에서 태어났다. 미시간 [홀랜드에](https://ko.wikipedia.org/wiki/홀랜드_\(미시간주\) "wikilink") 있는 [호프 칼리지를](https://ko.wikipedia.org/wiki/호프_칼리지 "wikilink") 졸업하고 [뉴브런즈윅 신학교를](https://ko.wikipedia.org/wiki/뉴브런즈윅_신학교 "wikilink") 졸업하고 호프 칼리지, [럿거스 대학교에서](https://ko.wikipedia.org/wiki/럿거스_대학교 "wikilink") 명예학 박사를 받았다. [섬네일](https://ko.wikipedia.org/wiki/파일:Founding_Fathers_of_Arabian_Mission_for_the_Reformed_Church_of_America.jpg "wikilink")
+<span>**사무엘 M. 즈웨머**(Samuel Marinus Zwemer, </span>1867년 4월 12일 - 1952년 4월 2일)는 별명이 [이슬람](https://ko.wikipedia.org/wiki/이슬람 "wikilink")의 [사도](../Page/사도.md "wikilink")이며 미국의 선교사, 여행가, 그리고 학자이다. 그는 [미시간주](../Page/미시간주.md "wikilink") 브레스랜드에서 태어났다. 미시간 [홀랜드에](https://ko.wikipedia.org/wiki/홀랜드_\(미시간주\) "wikilink") 있는 [호프 칼리지를](../Page/호프_칼리지.md "wikilink") 졸업하고 [뉴브런즈윅 신학교를](https://ko.wikipedia.org/wiki/뉴브런즈윅_신학교 "wikilink") 졸업하고 호프 칼리지, [럿거스 대학교에서](../Page/럿거스_대학교.md "wikilink") 명예학 박사를 받았다. [섬네일](https://ko.wikipedia.org/wiki/파일:Founding_Fathers_of_Arabian_Mission_for_the_Reformed_Church_of_America.jpg "wikilink")
 
 ## 생애
 
 ### 신학 
 
-즈웨머는 부모의 [칼빈주의](https://ko.wikipedia.org/wiki/칼빈주의 "wikilink") 따른 신학으로 모든 것들에서 [하나님의 주권을](https://ko.wikipedia.org/wiki/하나님의_주권 "wikilink") 강조하였다\[1\].\[2\] 성경은 그의 믿음과 사역의 사고에 실제적으로 작동하게 했다.\[3\] 그는 [신론](https://ko.wikipedia.org/wiki/신론 "wikilink")을 공부하고 [성경](https://ko.wikipedia.org/wiki/성경 "wikilink")의 [하나님](https://ko.wikipedia.org/wiki/하나님 "wikilink")과 대조적인 것을 알았지만 좀더 토착화하였다.\[4\] 그래서 이슬람의 신의 개념은 동양의 칼빈주의적 개념에서 이해가 되었다.\[5\]\[6\]
+즈웨머는 부모의 [칼빈주의](https://ko.wikipedia.org/wiki/칼빈주의 "wikilink") 따른 신학으로 모든 것들에서 [하나님의 주권을](https://ko.wikipedia.org/wiki/하나님의_주권 "wikilink") 강조하였다\[1\].\[2\] 성경은 그의 믿음과 사역의 사고에 실제적으로 작동하게 했다.\[3\] 그는 [신론](../Page/신론.md "wikilink")을 공부하고 [성경](../Page/성경.md "wikilink")의 [하나님](../Page/하나님.md "wikilink")과 대조적인 것을 알았지만 좀더 토착화하였다.\[4\] 그래서 이슬람의 신의 개념은 동양의 칼빈주의적 개념에서 이해가 되었다.\[5\]\[6\]
 
 ### 선교학
 

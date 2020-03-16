@@ -21,11 +21,11 @@ SAMV 알고리즘을 사용하는 일반적인 응용 프로그램은 [Doppler r
 
 ## 오픈 소스 소프트웨어
 
-SAMV 알고리즘의 오픈 소스 [MATLAB](https://ko.wikipedia.org/wiki/MATLAB "wikilink") [소프트웨어를 다운로드 할 수 있습 니다](https://qilin-zhang.github.io/_pages/zips/Iterative_Sparse_Asymptotic_Minimum_Variance_Based_Approach_Matlab_Codes.zip?raw=true).
+SAMV 알고리즘의 오픈 소스 [MATLAB](../Page/MATLAB.md "wikilink") [소프트웨어를 다운로드 할 수 있습 니다](https://qilin-zhang.github.io/_pages/zips/Iterative_Sparse_Asymptotic_Minimum_Variance_Based_Approach_Matlab_Codes.zip?raw=true).
 
 ## 같이 보기
 
-  - [레이다](https://ko.wikipedia.org/wiki/레이다 "wikilink")
+  - [레이다](../Page/레이다.md "wikilink")
   - [도플러 레이다](https://ko.wikipedia.org/wiki/도플러_레이다 "wikilink")
 
 ## 참조

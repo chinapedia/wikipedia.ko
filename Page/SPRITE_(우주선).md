@@ -11,7 +11,7 @@
 
 ASI:토성의 풍속, 대기압, 온도 등을 측정하는 것이 목표다.\[8\]
 
-[질량분석](https://ko.wikipedia.org/wiki/질량분석 "wikilink")기:토성 대기에 있는 [비활성 기체의](https://ko.wikipedia.org/wiki/비활성_기체 "wikilink") 성질을 분석하고 [지구](https://ko.wikipedia.org/wiki/지구 "wikilink")의 비활성 기체와 [토성](https://ko.wikipedia.org/wiki/토성 "wikilink")의 어떻게 다른지 알아내는 것이 목표이다.\[9\]\[10\]
+[질량분석](https://ko.wikipedia.org/wiki/질량분석 "wikilink")기:토성 대기에 있는 [비활성 기체의](../Page/비활성_기체.md "wikilink") 성질을 분석하고 [지구](../Page/지구.md "wikilink")의 비활성 기체와 [토성](../Page/토성.md "wikilink")의 어떻게 다른지 알아내는 것이 목표이다.\[9\]\[10\]
 
 ## 발사
 
