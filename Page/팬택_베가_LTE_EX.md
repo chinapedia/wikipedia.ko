@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  LTE EX](https://ko.wikipedia.org/wiki/__LTE_EX).
 
 
-**팬택 스카이 베가 LTE EX**(Pantech SKY VEGA LTE EX)는 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [1월 10일](https://ko.wikipedia.org/wiki/1월_10일 "wikilink") [LG유플러스](https://ko.wikipedia.org/wiki/LG유플러스 "wikilink")에서 단독 출시된 [팬택](../Page/팬택.md "wikilink")의 스마트폰이다. [스카이 베가 LTE M의](https://ko.wikipedia.org/wiki/스카이_베가_LTE_M "wikilink") 변형 기종이다.
+**팬택 스카이 베가 LTE EX**(Pantech SKY VEGA LTE EX)는 [2012년](../Page/2012년.md "wikilink") [1월 10일](../Page/1월_10일.md "wikilink") [LG유플러스](../Page/LG유플러스.md "wikilink")에서 단독 출시된 [팬택](../Page/팬택.md "wikilink")의 스마트폰이다. [스카이 베가 LTE M의](https://ko.wikipedia.org/wiki/스카이_베가_LTE_M "wikilink") 변형 기종이다.
 
 ## 운영 체제/소프트웨어
 

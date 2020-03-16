@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [All I Want for Christmas Is You](https://ko.wikipedia.org/wiki/All_I_Want_for_Christmas_Is_You).
 
 
-〈**All I Want for Christmas Is You**〉는 1994년 10월 29일에 발매한 [머라이어 캐리의](https://ko.wikipedia.org/wiki/머라이어_캐리 "wikilink") 싱글로, 크리스마스 캐럴 음반 《[Merry Christmas](https://ko.wikipedia.org/wiki/Merry_Christmas_\(머라이어_캐리의_음반\) "wikilink")》의 리드 싱글이다.
+〈**All I Want for Christmas Is You**〉는 1994년 10월 29일에 발매한 [머라이어 캐리의](../Page/머라이어_캐리.md "wikilink") 싱글로, 크리스마스 캐럴 음반 《[Merry Christmas](../Page/Merry_Christmas_\(머라이어_캐리의_음반\).md "wikilink")》의 리드 싱글이다.
 
 ## 트랙 리스트
 

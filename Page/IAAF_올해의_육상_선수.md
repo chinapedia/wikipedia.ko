@@ -49,12 +49,12 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/1995_in_athletics_(track_and_field)" title="wikilink">1995</a></p></td>
-<td style="text-align: left;"><p><a href="https://ko.wikipedia.org/wiki/조너선_에드워즈" title="wikilink">조너선 에드워즈</a></p></td>
+<td style="text-align: left;"><p><a href="../Page/조너선_에드워즈.md" title="wikilink">조너선 에드워즈</a></p></td>
 <td style="text-align: left;"><p><a href="../Page/그웬_토런스.md" title="wikilink">그웬 토런스</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/1996_in_athletics_(track_and_field)" title="wikilink">1996</a></p></td>
-<td style="text-align: left;"><p><a href="https://ko.wikipedia.org/wiki/마이클_존슨_(육상_선수)" title="wikilink">마이클 존슨</a></p></td>
+<td style="text-align: left;"><p><a href="../Page/마이클_존슨_(육상_선수).md" title="wikilink">마이클 존슨</a></p></td>
 <td style="text-align: left;"><p><a href="../Page/스베틀라나_마스테르코바.md" title="wikilink">스베틀라나 마스테르코바</a></p></td>
 </tr>
 <tr class="even">
@@ -95,7 +95,7 @@
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/2004_in_athletics_(track_and_field)" title="wikilink">2004</a></p></td>
 <td style="text-align: left;"><p><a href="https://ko.wikipedia.org/wiki/케네니사_베켈레" title="wikilink">케네니사 베켈레</a></p></td>
-<td style="text-align: left;"><p><a href="https://ko.wikipedia.org/wiki/옐레나_이신바예바" title="wikilink">옐레나 이신바예바</a></p></td>
+<td style="text-align: left;"><p><a href="../Page/옐레나_이신바예바.md" title="wikilink">옐레나 이신바예바</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/2005_in_athletics_(track_and_field)" title="wikilink">2005</a></p></td>

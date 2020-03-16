@@ -5,7 +5,7 @@
 
 ## 해설
 
-[2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [8월 4일에](https://ko.wikipedia.org/wiki/8월_4일 "wikilink") 발매되었다. 실질적으로 같은 해 2월에 발매된 2번째 베스트 앨범 「[THE BEST History of GARNET CROW at the crest...](../Page/THE_BEST_History_of_GARNET_CROW_at_the_crest....md "wikilink")」을 이후 발매된 컨셉 앨범이다. 특전으로 같은 해 발매된 라이브 DVD 「*GARNET CROW livescope 2010 \~THE BEST TOUR\~*」와 연동되고, 특전 응모권이 봉입되어 있다.
+[2010년](../Page/2010년.md "wikilink") [8월 4일에](../Page/8월_4일.md "wikilink") 발매되었다. 실질적으로 같은 해 2월에 발매된 2번째 베스트 앨범 「[THE BEST History of GARNET CROW at the crest...](../Page/THE_BEST_History_of_GARNET_CROW_at_the_crest....md "wikilink")」을 이후 발매된 컨셉 앨범이다. 특전으로 같은 해 발매된 라이브 DVD 「*GARNET CROW livescope 2010 \~THE BEST TOUR\~*」와 연동되고, 특전 응모권이 봉입되어 있다.
 
 **"소중한 사람들에게 주고 싶고, 들어 주었으면 하는 곡"**의 테마로 기존에 발매된 싱글과 앨범에 수록된 곡 중 15개곡을 선택하였고, 신곡으로 **하늘의 불꽃**(空に花火)이 수록되어 있다. 그러나 같은 해 4월 14일에 발매된 싱글「[Over Drive](https://ko.wikipedia.org/wiki/Over_Drive_\(가넷_크로우의_싱글\) "wikilink")」의 수록곡들은 이번 앨범에서 제외되었다.
 

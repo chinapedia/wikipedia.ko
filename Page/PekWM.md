@@ -19,7 +19,7 @@ PekWM의 주요 기능은 다음과 같다.
 ## 같이 보기
 
   - [블랙박스](../Page/블랙박스_\(창_관리자\).md "wikilink")
-  - [플럭스박스](https://ko.wikipedia.org/wiki/플럭스박스 "wikilink")
+  - [플럭스박스](../Page/플럭스박스.md "wikilink")
 
 ## 각주
 

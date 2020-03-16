@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Sexy Boyz](https://ko.wikipedia.org/wiki/Sexy_Boyz).
 
 
-**Sexy Boyz**(섹시 보이즈)는 [쟈니즈 Jr.](https://ko.wikipedia.org/wiki/자니스_주니어 "wikilink") 내의 유닛이다.
+**Sexy Boyz**(섹시 보이즈)는 [쟈니즈 Jr.](../Page/자니스_주니어.md "wikilink") 내의 유닛이다.
 
 ## 개요
 
-[2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [7월 24일](https://ko.wikipedia.org/wiki/7월_24일 "wikilink"), [소년구락부](../Page/소년구락부.md "wikilink")의 수록에서 그룹 결성이 발표되었다.
+[2012년](../Page/2012년.md "wikilink") [7월 24일](../Page/7월_24일.md "wikilink"), [소년구락부](../Page/소년구락부.md "wikilink")의 수록에서 그룹 결성이 발표되었다.
 
-당초는 [Sexy Zone의](https://ko.wikipedia.org/wiki/섹시_존 "wikilink") 멤버인 마츠시마 소우·마리우스 요와 Jr.가 포함된 유닛이었지만, 현재는 Sexy Zone의 백을 서는 Jr.들만을 말하며, 주로 [진구지 유타](https://ko.wikipedia.org/wiki/진구지_유타 "wikilink"), [이와하시 겡키](../Page/이와하시_겡키.md "wikilink") 등이 본 유닛으로서 활동하고 있다.
+당초는 [Sexy Zone의](https://ko.wikipedia.org/wiki/섹시_존 "wikilink") 멤버인 마츠시마 소우·마리우스 요와 Jr.가 포함된 유닛이었지만, 현재는 Sexy Zone의 백을 서는 Jr.들만을 말하며, 주로 [진구지 유타](../Page/진구지_유타.md "wikilink"), [이와하시 겡키](../Page/이와하시_겡키.md "wikilink") 등이 본 유닛으로서 활동하고 있다.
 
 ## 오리지널 곡
 
@@ -38,7 +38,7 @@
 <td><p>JINNY</p></td>
 <td><p>Andreas Carlsson / Samuel Wearmo</p></td>
 <td><p>카와이 에이지</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/One_Sexy_Zone" title="wikilink">one Sexy Zone</a></p></td>
+<td><p><a href="../Page/One_Sexy_Zone.md" title="wikilink">one Sexy Zone</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -74,9 +74,9 @@
 
 ### 앨범
 
-| \# | 발매일           | 제목                                                                      | 수록곡                  | 레이블  | 비고       |
-| -- | ------------- | ----------------------------------------------------------------------- | -------------------- | ---- | -------- |
-| 1  | 2012년 11월 14일 | [one Sexy Zone](https://ko.wikipedia.org/wiki/One_Sexy_Zone "wikilink") | Don't Stop Sexy Boyz | 포니캐년 | 최고 순위:1위 |
+| \# | 발매일           | 제목                                                   | 수록곡                  | 레이블  | 비고       |
+| -- | ------------- | ---------------------------------------------------- | -------------------- | ---- | -------- |
+| 1  | 2012년 11월 14일 | [one Sexy Zone](../Page/One_Sexy_Zone.md "wikilink") | Don't Stop Sexy Boyz | 포니캐년 | 최고 순위:1위 |
 
 ## 출연
 
@@ -99,7 +99,7 @@
 ### 콘서트
 
   - JOHNNY'S World - 쟈니즈 월드 - (2012년 11월 10일 \~ 1월 27일, 도쿄 제국 극장)
-  - 프레시 쟈니즈 Jr. in 요코하마 아레나 (2012년 12월 16일, [요코하마 아레나](https://ko.wikipedia.org/wiki/요코하마_아레나 "wikilink"))
+  - 프레시 쟈니즈 Jr. in 요코하마 아레나 (2012년 12월 16일, [요코하마 아레나](../Page/요코하마_아레나.md "wikilink"))
 
 ## 외부 링크
 
@@ -107,6 +107,6 @@
 
 ## 관련항목
 
-  - [쟈니즈 Jr.](https://ko.wikipedia.org/wiki/자니스_주니어 "wikilink")
+  - [쟈니즈 Jr.](../Page/자니스_주니어.md "wikilink")
 
 [분류:자니즈 주니어](https://ko.wikipedia.org/wiki/분류:자니즈_주니어 "wikilink")

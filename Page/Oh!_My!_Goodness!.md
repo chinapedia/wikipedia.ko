@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Oh! My! Goodness!](https://ko.wikipedia.org/wiki/Oh!_My!_Goodness!).
 
 
-《**Oh\! My\! Goodness\!**》는 [V6의](https://ko.wikipedia.org/wiki/V6_\(음악_그룹\) "wikilink") 12번째 정규 앨범이다.
+《**Oh\! My\! Goodness\!**》는 [V6의](../Page/V6_\(음악_그룹\).md "wikilink") 12번째 정규 앨범이다.
 
 ## 개요
 
-  - 전작 《[READY?](https://ko.wikipedia.org/wiki/READY? "wikilink")》로부터, 3년 만의 앨범.
+  - 전작 《[READY?](../Page/READY?.md "wikilink")》로부터, 3년 만의 앨범.
   - 2012년 12월 27일에 도쿄·롯폰기 힐즈 아레나에서 행해진 공개 이벤트 〈V6 《ROCK YOUR SOUL》 Rock네\! 이벤트〉에서 발매가 고지되었다.
   - 양 A면으로 나온 싱글곡 가운데, 〈Catch〉 〈소중한 의지〉는 미수록.
   - 초회 한정반 A(CD+DVD), 초회 한정반 B(CD+DVD), 통상반(CD만, 초회만 호화 소책자 사양)의 3형태 사양.
@@ -31,7 +31,7 @@
 
 ## 초회 생산 한정반 A
 
-  - [DVD](https://ko.wikipedia.org/wiki/DVD "wikilink") - Music Video+특별 영상
+  - [DVD](../Page/DVD.md "wikilink") - Music Video+특별 영상
       - **Supernova** 뮤직 비디오
       - **Supernova** <메이킹 영상>
       - **大人Guyz** / <small>어른 Guyz</small> 뮤직 비디오

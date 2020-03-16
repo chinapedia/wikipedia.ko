@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [TRICK  2](https://ko.wikipedia.org/wiki/TRICK__2).
 
 
-《**TRICK 극장판 2**》()은 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [6월 10일에](https://ko.wikipedia.org/wiki/6월_10일 "wikilink") 개봉한 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") [영화](../Page/영화.md "wikilink")이다. 공식 사이트 및 팜플렛 등에서는 **TRICK -극장판2-**로 표기되어 있다.
+《**TRICK 극장판 2**》()은 [2006년](../Page/2006년.md "wikilink") [6월 10일에](../Page/6월_10일.md "wikilink") 개봉한 [일본](../Page/일본.md "wikilink") [영화](../Page/영화.md "wikilink")이다. 공식 사이트 및 팜플렛 등에서는 **TRICK -극장판2-**로 표기되어 있다.
 
 ## 개요
 
-[나카마 유키에](https://ko.wikipedia.org/wiki/나카마_유키에 "wikilink"), [아베 히로시](https://ko.wikipedia.org/wiki/아베_히로시 "wikilink") 등 기존 시리즈 출연진들과, 상자를 조립해 천계와 지상을 자유롭게 왕래할 수 입구를 만들어내는, 이 영화에서는 악역의 초능력자·'하코가미 사와코' 역에는 [카타히라 나기사가](https://ko.wikipedia.org/wiki/카타히라_나기사 "wikilink") 캐스팅 되었다. 또한 이 작품은 극장판 시리즈 중 가장 사망자 수가 적은 작품으로, 스토리 전반을 작은 섬, 후반을 산간부 농촌과 사건의 무대를 이등분한 구성으로 되어 있다. [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서는 흥행수입은 21억엔.
+[나카마 유키에](../Page/나카마_유키에.md "wikilink"), [아베 히로시](../Page/아베_히로시.md "wikilink") 등 기존 시리즈 출연진들과, 상자를 조립해 천계와 지상을 자유롭게 왕래할 수 입구를 만들어내는, 이 영화에서는 악역의 초능력자·'하코가미 사와코' 역에는 [카타히라 나기사가](https://ko.wikipedia.org/wiki/카타히라_나기사 "wikilink") 캐스팅 되었다. 또한 이 작품은 극장판 시리즈 중 가장 사망자 수가 적은 작품으로, 스토리 전반을 작은 섬, 후반을 산간부 농촌과 사건의 무대를 이등분한 구성으로 되어 있다. [일본](../Page/일본.md "wikilink")에서는 흥행수입은 21억엔.
 
 ## 줄거리
 
@@ -19,14 +19,14 @@
 
 ### 주연
 
-  - [나카마 유키에](https://ko.wikipedia.org/wiki/나카마_유키에 "wikilink")
-  - [아베 히로시](https://ko.wikipedia.org/wiki/아베_히로시 "wikilink")
+  - [나카마 유키에](../Page/나카마_유키에.md "wikilink")
+  - [아베 히로시](../Page/아베_히로시.md "wikilink")
 
 ### 조연
 
   - [나마세 카츠히사](../Page/나마세_카츠히사.md "wikilink")
   - [노기와 요코](https://ko.wikipedia.org/wiki/노기와_요코 "wikilink")
-  - [호리키타 마키](https://ko.wikipedia.org/wiki/호리키타_마키 "wikilink")
+  - [호리키타 마키](../Page/호리키타_마키.md "wikilink")
   - [히라오카 유타](../Page/히라오카_유타.md "wikilink")
   - [카타히라 나기사](https://ko.wikipedia.org/wiki/카타히라_나기사 "wikilink")
   - [와타비키 카츠히코](https://ko.wikipedia.org/wiki/와타비키_카츠히코 "wikilink")

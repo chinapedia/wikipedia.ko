@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [  :  ! B  !](https://ko.wikipedia.org/wiki/__:__!_B__!).
 
 
-《**짱구는 못말려 극장판: 바카우맛\! B급 음식 서바이벌\!**》은 일본에서 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [4월 20일에](https://ko.wikipedia.org/wiki/4월_20일 "wikilink") 개봉한 [크레용 신짱](https://ko.wikipedia.org/wiki/크레용_신짱 "wikilink")(한국명 : 짱구는 못말려)의 [애니메이션 영화](../Page/애니메이션_영화.md "wikilink") 시리즈의 제21부작이다. 대한민국에는 [대원미디어](https://ko.wikipedia.org/wiki/대원미디어 "wikilink")㈜에서 작품을 수입하여 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [4월 3일에](https://ko.wikipedia.org/wiki/4월_3일 "wikilink") 《**짱구는 못말려 극장판：엄청 맛있어\! B급 음식 서바이벌\!**》이란 제목으로 극장 개봉을 하였다. 극장 상영은 현지화를 진행한 한국어 더빙으로 TV 애니메이션 더빙에 참여한 성우들이 그대로 참여한다. 그리고 국내에서는 "야키소바"라는 이름 대신 "볶음국수"라는 단어를 이용한다. 또한 오세홍 성우가 생애 마지막으로 녹음에 참여하였던 짱구 극장판이기도 하다.
+《**짱구는 못말려 극장판: 바카우맛\! B급 음식 서바이벌\!**》은 일본에서 [2013년](../Page/2013년.md "wikilink") [4월 20일에](../Page/4월_20일.md "wikilink") 개봉한 [크레용 신짱](https://ko.wikipedia.org/wiki/크레용_신짱 "wikilink")(한국명 : 짱구는 못말려)의 [애니메이션 영화](../Page/애니메이션_영화.md "wikilink") 시리즈의 제21부작이다. 대한민국에는 [대원미디어](../Page/대원미디어.md "wikilink")㈜에서 작품을 수입하여 [2014년](../Page/2014년.md "wikilink") [4월 3일에](../Page/4월_3일.md "wikilink") 《**짱구는 못말려 극장판：엄청 맛있어\! B급 음식 서바이벌\!**》이란 제목으로 극장 개봉을 하였다. 극장 상영은 현지화를 진행한 한국어 더빙으로 TV 애니메이션 더빙에 참여한 성우들이 그대로 참여한다. 그리고 국내에서는 "야키소바"라는 이름 대신 "볶음국수"라는 단어를 이용한다. 또한 오세홍 성우가 생애 마지막으로 녹음에 참여하였던 짱구 극장판이기도 하다.
 
 ## 개요
 
-감독은 하시모토 마사카즈가 담당한다. 이 영화는 [크레용 신짱](https://ko.wikipedia.org/wiki/크레용_신짱 "wikilink") 최초로 "[음식](https://ko.wikipedia.org/wiki/음식 "wikilink")"을 테마로 쓴 작품이다. 그리고 또 제목에 "\~을 부르는"이 붙지 않고 "바카우맛"이 붙는다. 표어는 불타라\! 야끼소바\!\! 태워라\! 우정\!\!이다.
+감독은 하시모토 마사카즈가 담당한다. 이 영화는 [크레용 신짱](https://ko.wikipedia.org/wiki/크레용_신짱 "wikilink") 최초로 "[음식](../Page/음식.md "wikilink")"을 테마로 쓴 작품이다. 그리고 또 제목에 "\~을 부르는"이 붙지 않고 "바카우맛"이 붙는다. 표어는 불타라\! 야끼소바\!\! 태워라\! 우정\!\!이다.
 
 ## 줄거리
 
@@ -79,7 +79,7 @@
   - 하구(川口) : 카무라 다이키
   - 원장선생 : 나야 로쿠로
   - 카자마 엄마 : 타마가와 사키코
-  - 요시린 : [사카구치 다이스케](https://ko.wikipedia.org/wiki/사카구치_다이스케 "wikilink")
+  - 요시린 : [사카구치 다이스케](../Page/사카구치_다이스케.md "wikilink")
   - 밋치 : 후지키 이치로
   - 소스의 건 : 츠지 신파치
   - 타코야끼의 미나미 : Jenya
@@ -90,7 +90,7 @@
   - 쇼가의 홍자 : 와타나베 나오미
   - 구르메포이 : [나카무라 유이치](https://ko.wikipedia.org/wiki/나카무라_유이치 "wikilink")
   - 토류프 : [카미야 히로시](../Page/카미야_히로시.md "wikilink")
-  - 캬비아 : [하야미 사오리](https://ko.wikipedia.org/wiki/하야미_사오리 "wikilink")
+  - 캬비아 : [하야미 사오리](../Page/하야미_사오리.md "wikilink")
   - 피기 : 후나키 마치토
   - 횡강 푸아그라 금 : 오오카와 토오루
   - 초밥 부부 가면・남편 : 오오츠카 호우츄
@@ -103,12 +103,12 @@
 ## 우리말 더빙
 
   - [신짱구](https://ko.wikipedia.org/wiki/신짱구 "wikilink") - [박영남](../Page/박영남.md "wikilink")
-  - [신형만](https://ko.wikipedia.org/wiki/신형만 "wikilink") - [오세홍](https://ko.wikipedia.org/wiki/오세홍 "wikilink")
-  - [봉미선](https://ko.wikipedia.org/wiki/봉미선 "wikilink") - [강희선](https://ko.wikipedia.org/wiki/강희선 "wikilink")
+  - [신형만](https://ko.wikipedia.org/wiki/신형만 "wikilink") - [오세홍](../Page/오세홍.md "wikilink")
+  - [봉미선](https://ko.wikipedia.org/wiki/봉미선 "wikilink") - [강희선](../Page/강희선.md "wikilink")
   - [신짱아](https://ko.wikipedia.org/wiki/신짱아 "wikilink"), [철수](https://ko.wikipedia.org/wiki/철수 "wikilink") - [여민정](../Page/여민정_\(성우\).md "wikilink")
-  - [흰둥이](https://ko.wikipedia.org/wiki/흰둥이 "wikilink"), [유리](https://ko.wikipedia.org/wiki/유리 "wikilink") - [장경희](https://ko.wikipedia.org/wiki/장경희_\(성우\) "wikilink")
+  - [흰둥이](https://ko.wikipedia.org/wiki/흰둥이 "wikilink"), [유리](../Page/유리.md "wikilink") - [장경희](../Page/장경희_\(성우\).md "wikilink")
   - [훈이](https://ko.wikipedia.org/wiki/훈이 "wikilink") - [정혜옥](../Page/정혜옥_\(성우\).md "wikilink")
-  - [액션가면](https://ko.wikipedia.org/wiki/액션가면 "wikilink") - [현경수](https://ko.wikipedia.org/wiki/현경수 "wikilink")
+  - [액션가면](https://ko.wikipedia.org/wiki/액션가면 "wikilink") - [현경수](../Page/현경수.md "wikilink")
   - 로열 황태자 - [이광수](../Page/이광수_\(성우\).md "wikilink")
   - 소스의 달인 강사장 - [안효민](../Page/안효민.md "wikilink")
   - [맹구](https://ko.wikipedia.org/wiki/맹구 "wikilink"), 연지 - [박고운](../Page/박고운.md "wikilink")
@@ -117,15 +117,15 @@
   - 푸아그라 - [김혜성](../Page/김혜성_\(성우\).md "wikilink")
   - 공레오 - [정윤식](https://ko.wikipedia.org/wiki/정윤식 "wikilink")
   - 장수 - [신경선](../Page/신경선.md "wikilink")
-  - 향단 - [이유리](https://ko.wikipedia.org/wiki/이유리 "wikilink"), [김도영](../Page/김도영.md "wikilink"), [이인석](../Page/이인석_\(성우\).md "wikilink")
+  - 향단 - [이유리](../Page/이유리.md "wikilink"), [김도영](../Page/김도영.md "wikilink"), [이인석](../Page/이인석_\(성우\).md "wikilink")
 
 ## 주제가
 
   - 오프닝 《너에게 100퍼센트》([워너 뮤직 재팬](../Page/워너_뮤직_재팬.md "wikilink"))
-      - 작사・작곡・편곡:[나카타 야스타카](https://ko.wikipedia.org/wiki/나카타_야스타카 "wikilink") / 노래:[캬리 파뮤파뮤](../Page/캬리_파뮤파뮤.md "wikilink")
+      - 작사・작곡・편곡:[나카타 야스타카](../Page/나카타_야스타카.md "wikilink") / 노래:[캬리 파뮤파뮤](../Page/캬리_파뮤파뮤.md "wikilink")
   - 삽입곡 - 「야키소바의 노래 \~소스 is love\~」
       - 작사 - [하시모토 마사카즈](https://ko.wikipedia.org/wiki/하시모토_마사카즈 "wikilink") / 작곡 - 아라카와 토시유키 / 노래 - 사와구치 카즈히코&떡잎마을 방범대([야지마 아키코](../Page/야지마_아키코.md "wikilink"), 마시바 마리, 하야시 타마오, 이치류사이 테이유,사토우 치에)
-  - 엔딩- RPG ([토이스 팩토리](https://ko.wikipedia.org/wiki/토이스_팩토리 "wikilink"))
+  - 엔딩- RPG ([토이스 팩토리](../Page/토이스_팩토리.md "wikilink"))
       - 노래 - [세카이노 오와리](https://ko.wikipedia.org/wiki/세카이노_오와리 "wikilink") ([SEKAI NO OWARI](../Page/SEKAI_NO_OWARI.md "wikilink"))
 
 ## 갤러리

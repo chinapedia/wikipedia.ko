@@ -1,22 +1,22 @@
 > This article is converted from Wikipedia: [Beck \(\)](https://ko.wikipedia.org/wiki/Beck_\(\)).
 
 
-《**Beck**》()는 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink")의 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") [영화](../Page/영화.md "wikilink")이다.
+《**Beck**》()는 [2010년](../Page/2010년.md "wikilink")의 [일본](../Page/일본.md "wikilink") [영화](../Page/영화.md "wikilink")이다.
 
 ## 개요
 
-[원작](https://ko.wikipedia.org/wiki/원작 "wikilink")의 [Beck](https://ko.wikipedia.org/wiki/Beck_\(만화\) "wikilink") 1권부터 10권까지의 내용을 바탕으로 실사 영화화되었다. 감독은 《[20세기 소년](https://ko.wikipedia.org/wiki/20세기_소년 "wikilink")》과 《[TRICK](https://ko.wikipedia.org/wiki/트릭_\(드라마\) "wikilink")》의 [츠츠미 유키히코](../Page/츠츠미_유키히코.md "wikilink"). 주연은 [미즈시마 히로](https://ko.wikipedia.org/wiki/미즈시마_히로 "wikilink"), [사토 타케루와](https://ko.wikipedia.org/wiki/사토_타케루 "wikilink") [키리타니 켄타](../Page/키리타니_켄타.md "wikilink") 등 당시 영화나 드라마에서 높은 주목을 받고 있는 배우가 기용되었다.
+[원작](https://ko.wikipedia.org/wiki/원작 "wikilink")의 [Beck](../Page/Beck_\(만화\).md "wikilink") 1권부터 10권까지의 내용을 바탕으로 실사 영화화되었다. 감독은 《[20세기 소년](../Page/20세기_소년.md "wikilink")》과 《[TRICK](../Page/트릭_\(드라마\).md "wikilink")》의 [츠츠미 유키히코](../Page/츠츠미_유키히코.md "wikilink"). 주연은 [미즈시마 히로](../Page/미즈시마_히로.md "wikilink"), [사토 타케루와](../Page/사토_타케루.md "wikilink") [키리타니 켄타](../Page/키리타니_켄타.md "wikilink") 등 당시 영화나 드라마에서 높은 주목을 받고 있는 배우가 기용되었다.
 
-극중 '그레이트 풀 사운드' 야외 라이브 장면은 후지 록 페스티벌의 무대 감독과 조명·음향을 지원받아, 기술 직원의 협력하에 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") 실제 공연의 종료 다음날에 나에바 스키장([니가타현](https://ko.wikipedia.org/wiki/니가타현 "wikilink"))에서 촬영되었다. 또한 [츠츠미 유키히코](../Page/츠츠미_유키히코.md "wikilink") 감독은 "악기의 묘사는 물론 등장 인물들이 입은 옷이나 신발도 직접 제작하여, 원작에 충실하게 재현했다"라고 밝혔다.
+극중 '그레이트 풀 사운드' 야외 라이브 장면은 후지 록 페스티벌의 무대 감독과 조명·음향을 지원받아, 기술 직원의 협력하에 [2009년](../Page/2009년.md "wikilink") 실제 공연의 종료 다음날에 나에바 스키장([니가타현](../Page/니가타현.md "wikilink"))에서 촬영되었다. 또한 [츠츠미 유키히코](../Page/츠츠미_유키히코.md "wikilink") 감독은 "악기의 묘사는 물론 등장 인물들이 입은 옷이나 신발도 직접 제작하여, 원작에 충실하게 재현했다"라고 밝혔다.
 
-[2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [8월 28일에는](https://ko.wikipedia.org/wiki/8월_28일 "wikilink") [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서의 특별 선행 상영 및 무대 인사에서는 [쇼치쿠](../Page/쇼치쿠.md "wikilink") 배급 영화 사상 최초로 마루노우치 피카데리 1,2,3의 3관을 모두 동시 독점하였다. 영화는 전국([일본](https://ko.wikipedia.org/wiki/일본 "wikilink")내) 316개 스크린에서 개봉되어, [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [9월 4일](https://ko.wikipedia.org/wiki/9월_4일 "wikilink"), [5일](https://ko.wikipedia.org/wiki/9월_5일 "wikilink") 첫날 2일간으로 흥행 수입 3억 1,357만 4750엔, 관객수는 23만 151명으로, 영화 관객 동원 랭킹에 첫 등장 1위를 차지했다.
+[2010년](../Page/2010년.md "wikilink") [8월 28일에는](../Page/8월_28일.md "wikilink") [일본](../Page/일본.md "wikilink")에서의 특별 선행 상영 및 무대 인사에서는 [쇼치쿠](../Page/쇼치쿠.md "wikilink") 배급 영화 사상 최초로 마루노우치 피카데리 1,2,3의 3관을 모두 동시 독점하였다. 영화는 전국([일본](../Page/일본.md "wikilink")내) 316개 스크린에서 개봉되어, [2010년](../Page/2010년.md "wikilink") [9월 4일](../Page/9월_4일.md "wikilink"), [5일](../Page/9월_5일.md "wikilink") 첫날 2일간으로 흥행 수입 3억 1,357만 4750엔, 관객수는 23만 151명으로, 영화 관객 동원 랭킹에 첫 등장 1위를 차지했다.
 
-[쇼치쿠](../Page/쇼치쿠.md "wikilink") 배급 작품의 1위는 2009년 3월의 《[얏타맨](https://ko.wikipedia.org/wiki/얏타맨_\(영화\) "wikilink")》이래. 또한 피아 첫날 만족도 랭킹에서도 제2위를 차지하는 등 높은 평가를 받는 한편, 영화 평론가, 뮤지션, 영화 잡지 등 에서는 연이은 혹평을 받았다. TBS 라디오 "라임 스타 우타마루 주말에는 셔플" 시네마 사기꾼 2010년 전체 영화 랭킹에서는 대상 56작품 중 최악 6위. 영화잡지 <영화비보>가 선정하는 'HIHO 하쿠사이(배추)상' 최악 7위에 선정되었다.
+[쇼치쿠](../Page/쇼치쿠.md "wikilink") 배급 작품의 1위는 2009년 3월의 《[얏타맨](../Page/얏타맨_\(영화\).md "wikilink")》이래. 또한 피아 첫날 만족도 랭킹에서도 제2위를 차지하는 등 높은 평가를 받는 한편, 영화 평론가, 뮤지션, 영화 잡지 등 에서는 연이은 혹평을 받았다. TBS 라디오 "라임 스타 우타마루 주말에는 셔플" 시네마 사기꾼 2010년 전체 영화 랭킹에서는 대상 56작품 중 최악 6위. 영화잡지 <영화비보>가 선정하는 'HIHO 하쿠사이(배추)상' 최악 7위에 선정되었다.
 
 ## 출연진
 
-  - [미즈시마 히로](https://ko.wikipedia.org/wiki/미즈시마_히로 "wikilink")
-  - [사토 타케루](https://ko.wikipedia.org/wiki/사토_타케루 "wikilink")
+  - [미즈시마 히로](../Page/미즈시마_히로.md "wikilink")
+  - [사토 타케루](../Page/사토_타케루.md "wikilink")
   - [키리타니 켄타](../Page/키리타니_켄타.md "wikilink")
   - [나카무라 아오이](../Page/나카무라_아오이.md "wikilink")
   - [무카이 오사무](../Page/무카이_오사무.md "wikilink")
@@ -27,7 +27,7 @@
   - [컨닝 타케야마](https://ko.wikipedia.org/wiki/컨닝_타케야마 "wikilink")
   - [마츠시타 유키](https://ko.wikipedia.org/wiki/마츠시타_유키 "wikilink")
   - [쿠라우치 사리](https://ko.wikipedia.org/wiki/쿠라우치_사리 "wikilink")
-  - [사쿠라다 도리](https://ko.wikipedia.org/wiki/사쿠라다_도리 "wikilink")
+  - [사쿠라다 도리](../Page/사쿠라다_도리.md "wikilink")
   - [나카무라 시도](https://ko.wikipedia.org/wiki/나카무라_시도 "wikilink")
   - [카와노 나오키](https://ko.wikipedia.org/wiki/카와노_나오키 "wikilink")
   - [타카하시 츠토무](https://ko.wikipedia.org/wiki/타카하시_츠토무 "wikilink")

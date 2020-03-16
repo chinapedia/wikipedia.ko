@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TV](https://ko.wikipedia.org/wiki/TV).
 
 
-**국방TV**(**구 국군방송**, 國防TV)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") [국방부에서](https://ko.wikipedia.org/wiki/대한민국_국방부 "wikilink") 관할하고 있는 방송국이다. 현재 하루 24시간 동안 [군인](https://ko.wikipedia.org/wiki/군인 "wikilink")과 [군사](https://ko.wikipedia.org/wiki/군사 "wikilink") 정보에 관한 매체물만을 방영하고 있다.\[1\]
+**국방TV**(**구 국군방송**, 國防TV)는 [대한민국](../Page/대한민국.md "wikilink") [국방부에서](../Page/대한민국_국방부.md "wikilink") 관할하고 있는 방송국이다. 현재 하루 24시간 동안 [군인](https://ko.wikipedia.org/wiki/군인 "wikilink")과 [군사](https://ko.wikipedia.org/wiki/군사 "wikilink") 정보에 관한 매체물만을 방영하고 있다.\[1\]
 
 직원 편성은 공무원 62명 비정규직 스태프 105명 등 167명이 근무 중이고, 유튜브 채널 등을 통해 SNS 콘텐츠를 제작하는 미디어전략실 18명의 비정규직 스태프가 일하고 있다.\[2\]
 
@@ -25,16 +25,16 @@
 
 ## 로고송
 
-  - 열린 국방 밝은 병영 KFN 국군방송\~\[3\] [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [12월 1일](https://ko.wikipedia.org/wiki/12월_1일 "wikilink") \~ [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink")
-  - 기쁨이 한가득\~ 사랑을 나눠요\~ KFN 국군방송\~ [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [12월 1일](https://ko.wikipedia.org/wiki/12월_1일 "wikilink") \~ [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")
-  - 국민과 함께\~ 국군방송\~ KFN\~ [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") \~ [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink")
-  - KFN 국군방송\~ (라디오에서 사용) [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") \~ [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink")
-  - 국민과 함께\~ 국군과 함께\~ 희망과 함께하는 KFN 국군방송\~ [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") \~ [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")
+  - 열린 국방 밝은 병영 KFN 국군방송\~\[3\] [2005년](../Page/2005년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") \~ [2007년](../Page/2007년.md "wikilink")
+  - 기쁨이 한가득\~ 사랑을 나눠요\~ KFN 국군방송\~ [2005년](../Page/2005년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") \~ [2006년](../Page/2006년.md "wikilink")
+  - 국민과 함께\~ 국군방송\~ KFN\~ [2008년](../Page/2008년.md "wikilink") \~ [2011년](../Page/2011년.md "wikilink")
+  - KFN 국군방송\~ (라디오에서 사용) [2006년](../Page/2006년.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink")
+  - 국민과 함께\~ 국군과 함께\~ 희망과 함께하는 KFN 국군방송\~ [2008년](../Page/2008년.md "wikilink") \~ [2009년](../Page/2009년.md "wikilink")
 
 ## 같이 보기
 
   - [국방홍보원](../Page/국방홍보원.md "wikilink")
-  - [국방FM](https://ko.wikipedia.org/wiki/국방FM "wikilink")
+  - [국방FM](../Page/국방FM.md "wikilink")
 
 ## 각주
 

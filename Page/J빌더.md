@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [J](https://ko.wikipedia.org/wiki/J).
 
 
-**J빌더**(JBuilder)는 [엠바카데로 테크놀로지스의](https://ko.wikipedia.org/wiki/엠바카데로_테크놀로지스 "wikilink") [자바](https://ko.wikipedia.org/wiki/자바_\(프로그래밍_언어\) "wikilink") [프로그래밍 언어를](https://ko.wikipedia.org/wiki/프로그래밍_언어 "wikilink") 위한 [통합 개발 환경](https://ko.wikipedia.org/wiki/통합_개발_환경 "wikilink")(IDE)이다. 원래 [볼랜드](../Page/볼랜드.md "wikilink")가 개발하였고 그 뒤에 [코드기어](../Page/코드기어.md "wikilink")가, 마지막으로 엠바카데로 테크놀로지스가 2008년부터 개발 중이다.
+**J빌더**(JBuilder)는 [엠바카데로 테크놀로지스의](../Page/엠바카데로_테크놀로지스.md "wikilink") [자바](../Page/자바_\(프로그래밍_언어\).md "wikilink") [프로그래밍 언어를](../Page/프로그래밍_언어.md "wikilink") 위한 [통합 개발 환경](../Page/통합_개발_환경.md "wikilink")(IDE)이다. 원래 [볼랜드](../Page/볼랜드.md "wikilink")가 개발하였고 그 뒤에 [코드기어](../Page/코드기어.md "wikilink")가, 마지막으로 엠바카데로 테크놀로지스가 2008년부터 개발 중이다.
 
 ## 버전
 

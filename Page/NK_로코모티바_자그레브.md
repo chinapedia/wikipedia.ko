@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NK  ](https://ko.wikipedia.org/wiki/NK__).
 
 
-**NK 로코모티바 자그레브**(NK Lokomotiva Zagreb)는 [크로아티아](https://ko.wikipedia.org/wiki/크로아티아 "wikilink") [자그레브](https://ko.wikipedia.org/wiki/자그레브 "wikilink")를 연고로 하는 축구 클럽이다. 이 클럽은 1914년에 창단되었으며 현재는 [프르바 HNL에](../Page/프르바_HNL.md "wikilink") 참가하고 있다.
+**NK 로코모티바 자그레브**(NK Lokomotiva Zagreb)는 [크로아티아](../Page/크로아티아.md "wikilink") [자그레브](../Page/자그레브.md "wikilink")를 연고로 하는 축구 클럽이다. 이 클럽은 1914년에 창단되었으며 현재는 [프르바 HNL에](../Page/프르바_HNL.md "wikilink") 참가하고 있다.
 
 ## 팀 명칭 연혁
 
@@ -22,7 +22,7 @@
 
   - **3위:** 2008–09
 
-** [유고슬라비아 1부 리그](https://ko.wikipedia.org/wiki/유고슬라비아_1부_리그 "wikilink"):**
+** [유고슬라비아 1부 리그](../Page/유고슬라비아_1부_리그.md "wikilink"):**
 
   - **3위:** 1952
 

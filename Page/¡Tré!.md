@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Tr!](https://ko.wikipedia.org/wiki/Tr!).
 
 
-《**¡Tré\!**》는 미국의 [펑크 록](https://ko.wikipedia.org/wiki/펑크_록 "wikilink") 밴드 [그린 데이의](https://ko.wikipedia.org/wiki/그린_데이 "wikilink") 열한 번째 정규 음반이다. 2012년 12월 11일 [리프리즈 레코드를](https://ko.wikipedia.org/wiki/리프리즈_레코드 "wikilink") 통해 발매되었으며, 2012년 9월부터 12월까지 발매될 《[¡Uno\!](../Page/¡Uno!.md "wikilink")》, 《[¡Dos\!](../Page/¡Dos!.md "wikilink")》, 《[¡Tré\!](https://ko.wikipedia.org/wiki/¡Tré! "wikilink")》 정규 음반 시리즈 삼부작 가운데 세 번째 음반이다. 그린 데이는 2012년 2월부터 6월까지 [오클랜드의](https://ko.wikipedia.org/wiki/오클랜드_\(캘리포니아_주\) "wikilink") 징글타운 스튜디오에서 음반을 녹음하였다.
+《**¡Tré\!**》는 미국의 [펑크 록](../Page/펑크_록.md "wikilink") 밴드 [그린 데이의](../Page/그린_데이.md "wikilink") 열한 번째 정규 음반이다. 2012년 12월 11일 [리프리즈 레코드를](https://ko.wikipedia.org/wiki/리프리즈_레코드 "wikilink") 통해 발매되었으며, 2012년 9월부터 12월까지 발매될 《[¡Uno\!](../Page/¡Uno!.md "wikilink")》, 《[¡Dos\!](../Page/¡Dos!.md "wikilink")》, 《[¡Tré\!](../Page/¡Tré!.md "wikilink")》 정규 음반 시리즈 삼부작 가운데 세 번째 음반이다. 그린 데이는 2012년 2월부터 6월까지 [오클랜드의](https://ko.wikipedia.org/wiki/오클랜드_\(캘리포니아_주\) "wikilink") 징글타운 스튜디오에서 음반을 녹음하였다.
 
 ## 수록곡
 

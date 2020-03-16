@@ -11,7 +11,7 @@
 
 개국 초창기에는 워크래프트3 리그와 카오스 리그(CCB : Chaos Clan Battle)에 비중을 두었으나 현재는 리그 오브 레전드 리그를 포함, PC 온라인 게임과 비디오 게임 등 여러가지 게임들을 활용하여 다양한 방송 컨텐츠를 제작하고 있다.
 
-2012년부터 [온게임넷](https://ko.wikipedia.org/wiki/온게임넷 "wikilink")의 [리그오브레전드 더 챔피언스과](https://ko.wikipedia.org/wiki/리그오브레전드_더_챔피언스 "wikilink") 연계하여 [나이스게임TV 리그 오브 레전드 배틀](https://ko.wikipedia.org/wiki/나이스게임TV_리그_오브_레전드_배틀 "wikilink")(NLB)을 진행한다.
+2012년부터 [온게임넷](https://ko.wikipedia.org/wiki/온게임넷 "wikilink")의 [리그오브레전드 더 챔피언스과](https://ko.wikipedia.org/wiki/리그오브레전드_더_챔피언스 "wikilink") 연계하여 [나이스게임TV 리그 오브 레전드 배틀](../Page/나이스게임TV_리그_오브_레전드_배틀.md "wikilink")(NLB)을 진행한다.
 
 또한 다른 e스포츠 행사나 대회의 중계를 맡기도 한다.
 
@@ -26,8 +26,8 @@
 
 ## 관련 방송인
 
-  - [정진호](https://ko.wikipedia.org/wiki/정진호_\(방송인\) "wikilink") 대표 및 캐스터
-  - [하광석](https://ko.wikipedia.org/wiki/하광석 "wikilink") 해설위원 겸 E스포츠팀 팀장
+  - [정진호](../Page/정진호_\(방송인\).md "wikilink") 대표 및 캐스터
+  - [하광석](../Page/하광석.md "wikilink") 해설위원 겸 E스포츠팀 팀장
   - [한창진](https://ko.wikipedia.org/wiki/한창진 "wikilink") 제작1팀
   - [이진세](https://ko.wikipedia.org/wiki/이진세 "wikilink") 제작1팀
 
@@ -44,7 +44,7 @@
 ### 리그 오브 레전드
 
   - [리그 오브 레전드 챌린저스 코리아](../Page/리그_오브_레전드_챌린저스_코리아.md "wikilink") 주관 및 중계
-  - [나이스게임TV 리그 오브 레전드 배틀](https://ko.wikipedia.org/wiki/나이스게임TV_리그_오브_레전드_배틀 "wikilink") 주관 및 중계
+  - [나이스게임TV 리그 오브 레전드 배틀](../Page/나이스게임TV_리그_오브_레전드_배틀.md "wikilink") 주관 및 중계
   - 리그 오브 레전드 클랜배틀 주관 및 중계
   - 리그 오브 레전드 배틀로얄 주관 및 중계
   - 리그 오브 레전드 제1회 투롤대회 중계

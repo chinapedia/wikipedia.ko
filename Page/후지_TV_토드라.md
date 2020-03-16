@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [ TV ](https://ko.wikipedia.org/wiki/_TV_).
 
 
-**토드라**()는, [후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink") [계열에서](../Page/후지_네트워크.md "wikilink"), [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 4월부터 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") 9월까지 및 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") 4월부터 [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") 3월까지, 후지 TV 제작으로 매주 [토요일](https://ko.wikipedia.org/wiki/토요일 "wikilink") 23:10 \~ 23:55에 방송된 [텔레비전 드라마](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink") 시간대이다.
+**토드라**()는, [후지 TV](../Page/후지_TV.md "wikilink") [계열에서](../Page/후지_네트워크.md "wikilink"), [2012년](../Page/2012년.md "wikilink") 4월부터 [2014년](../Page/2014년.md "wikilink") 9월까지 및 [2015년](../Page/2015년.md "wikilink") 4월부터 [2016년](../Page/2016년.md "wikilink") 3월까지, 후지 TV 제작으로 매주 [토요일](../Page/토요일.md "wikilink") 23:10 \~ 23:55에 방송된 [텔레비전 드라마](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink") 시간대이다.
 
 본 항목에서는 이 시간대 제2기의 후속 프로그램인, [토카이 TV](../Page/도카이_TV.md "wikilink") 제작으로 후지 TV 계열에서 방송 중인 《**[어른의 토드라](https://ko.wikipedia.org/wiki/#어른의_토드라 "wikilink")**》()에 대해서도 상술한다.
 
 ## 개요
 
-제1기는 토요일 23:10 \~ 23:55의 45분 시간대로 방송되었다. 이 시간대는 과거에 《[토요드라마](https://ko.wikipedia.org/wiki/후지_TV_토요드라마 "wikilink")》가 방송되어, 약 2년 만에 드라마 시간대가 부활하였다.
+제1기는 토요일 23:10 \~ 23:55의 45분 시간대로 방송되었다. 이 시간대는 과거에 《[토요드라마](../Page/후지_TV_토요드라마.md "wikilink")》가 방송되어, 약 2년 만에 드라마 시간대가 부활하였다.
 
-[2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") 10월 18일부터 이 시간대에서 버라이어티 프로그램 《밀레니엄즈》를 개시하여, 9월로 시간대가 일단 폐지되었지만, [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") 4월부터 [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") 3월까지는 토요일 23:40 \~ 24:05의 25분 시간대로 제2기로서 재개했다.
+[2014년](../Page/2014년.md "wikilink") 10월 18일부터 이 시간대에서 버라이어티 프로그램 《밀레니엄즈》를 개시하여, 9월로 시간대가 일단 폐지되었지만, [2015년](../Page/2015년.md "wikilink") 4월부터 [2016년](../Page/2016년.md "wikilink") 3월까지는 토요일 23:40 \~ 24:05의 25분 시간대로 제2기로서 재개했다.
 
 2016년 4월 2일부터, [토카이 TV](../Page/도카이_TV.md "wikilink") 제작의 새 드라마 시간대 《[어른의 토드라](https://ko.wikipedia.org/wiki/#어른의_토드라 "wikilink")》 (토요일 23:40 \~ 24:35)가 신설되어, 제2기는 3월 26일로 폐지되었다.
 
@@ -20,7 +20,7 @@
 #### 2012년
 
   - [미래일기-ANOTHER:WORLD-](../Page/미래일기-ANOTHER:WORLD-.md "wikilink") (4월 \~ 6월)
-    주연: [오카다 마사키](https://ko.wikipedia.org/wiki/오카다_마사키 "wikilink")
+    주연: [오카다 마사키](../Page/오카다_마사키.md "wikilink")
   - [주로 울고 있습니다](https://ko.wikipedia.org/wiki/주로_울고_있습니다 "wikilink") (7월 \~ 9월)
     주연: [나나오](https://ko.wikipedia.org/wiki/나나오 "wikilink")
   - [나와 그이와 수다쟁이 자동차](https://ko.wikipedia.org/wiki/나와_그이와_수다쟁이_자동차 "wikilink") (단발 9월 22일 \~ 29일)
@@ -31,13 +31,13 @@
 #### 2013년
 
   - [카라마조프의 형제](https://ko.wikipedia.org/wiki/카라마조프의_형제_\(드라마\) "wikilink") (1월 \~ 3월)
-    주연: [이치하라 하야토](https://ko.wikipedia.org/wiki/이치하라_하야토 "wikilink")
+    주연: [이치하라 하야토](../Page/이치하라_하야토.md "wikilink")
   - [오해받은 남자](https://ko.wikipedia.org/wiki/오해받은_남자 "wikilink") (4월 \~ 6월)
     주연: [후루타 아라타](https://ko.wikipedia.org/wiki/후루타_아라타 "wikilink")
   - [야마다 군과 7인의 마녀](https://ko.wikipedia.org/wiki/야마다와_7명의_마녀#텔레비전_드라마 "wikilink") (8월 \~ 9월)
     주연: [니시우치 마리야](../Page/니시우치_마리야.md "wikilink"), [야마모토 유스케](../Page/야마모토_유스케.md "wikilink")
   - [허니 트랩](https://ko.wikipedia.org/wiki/허니_트랩_\(드라마\) "wikilink") (10월 \~ 12월)
-    주연: [AKIRA](https://ko.wikipedia.org/wiki/AKIRA_\(가수\) "wikilink")
+    주연: [AKIRA](../Page/AKIRA_\(가수\).md "wikilink")
 
 #### 2014년
 
@@ -46,7 +46,7 @@
   - [퍼스트 클래스](../Page/퍼스트_클래스_\(드라마\).md "wikilink") (4월 \~ 6월)
     주연: [사와지리 에리카](../Page/사와지리_에리카.md "wikilink")
   - [수구 양키스](../Page/수구_양키스.md "wikilink") (7월 \~ 9월)
-    주연: [나카지마 유토](https://ko.wikipedia.org/wiki/나카지마_유토 "wikilink") ([Hey\! Say\! JUMP](https://ko.wikipedia.org/wiki/헤이!_세이!_점프 "wikilink"))
+    주연: [나카지마 유토](../Page/나카지마_유토.md "wikilink") ([Hey\! Say\! JUMP](https://ko.wikipedia.org/wiki/헤이!_세이!_점프 "wikilink"))
 
 ### 제2기
 
@@ -87,11 +87,11 @@
 
 ## 함께 보기
 
-  - [후지 TV 월요일 밤 9시 드라마](https://ko.wikipedia.org/wiki/후지_TV_월요일_밤_9시_드라마 "wikilink")
-  - [후지 TV 화요일 밤 9시 드라마](https://ko.wikipedia.org/wiki/후지_TV_화요일_밤_9시_드라마 "wikilink")
+  - [후지 TV 월요일 밤 9시 드라마](../Page/후지_TV_월요일_밤_9시_드라마.md "wikilink")
+  - [후지 TV 화요일 밤 9시 드라마](../Page/후지_TV_화요일_밤_9시_드라마.md "wikilink")
   - [칸사이 TV 화요일 밤 10시 드라마](../Page/간사이_TV_화요일_밤_10시_드라마.md "wikilink")
   - [후지 TV 목요극장](../Page/후지_TV_목요극장.md "wikilink")
-  - [후지 TV 토요드라마](https://ko.wikipedia.org/wiki/후지_TV_토요드라마 "wikilink")
+  - [후지 TV 토요드라마](../Page/후지_TV_토요드라마.md "wikilink")
   - [후지 TV 드라마틱 선데이](../Page/후지_TV_드라마틱_선데이.md "wikilink")
 
 ## 각주

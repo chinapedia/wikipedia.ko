@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [AMC ](https://ko.wikipedia.org/wiki/AMC_).
 
 
-**AMC 항공**()은 [이집트](https://ko.wikipedia.org/wiki/이집트 "wikilink")의 전세 항공사로 [카이로 국제공항이](../Page/카이로_국제공항.md "wikilink") [허브 공항으로](../Page/허브_공항.md "wikilink") [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink")에 설립되어 주로 전세편 노선에 운항하고 있다.\[1\]
+**AMC 항공**()은 [이집트](../Page/이집트.md "wikilink")의 전세 항공사로 [카이로 국제공항이](../Page/카이로_국제공항.md "wikilink") [허브 공항으로](../Page/허브_공항.md "wikilink") [1995년](../Page/1995년.md "wikilink")에 설립되어 주로 전세편 노선에 운항하고 있다.\[1\]
 
 ## 보유 기종
 
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [8월](https://ko.wikipedia.org/wiki/8월 "wikilink") 기준으로 AMC 항공은 다음과 같은 기종을 보유하고 있으며 평균 기령은 11년이다.\[2\]
+  - [2012년](../Page/2012년.md "wikilink") [8월](../Page/8월.md "wikilink") 기준으로 AMC 항공은 다음과 같은 기종을 보유하고 있으며 평균 기령은 11년이다.\[2\]
 
 <table>
 <caption><strong>AMC 항공의 보유 기종</strong></caption>
@@ -21,11 +21,11 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/보잉_737" title="wikilink">보잉 737–800</a></p></td>
+<td><p><a href="../Page/보잉_737.md" title="wikilink">보잉 737–800</a></p></td>
 <td><p>1</p></td>
 <td><p>3</p></td>
 <td><p>189</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2011년" title="wikilink">2011년</a>부터 <a href="https://ko.wikipedia.org/wiki/2013년" title="wikilink">2013년</a>까지 순차별로 도입 예정</p></td>
+<td><p><a href="../Page/2011년.md" title="wikilink">2011년</a>부터 <a href="../Page/2013년.md" title="wikilink">2013년</a>까지 순차별로 도입 예정</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/맥도넬더글러스_MD-80" title="wikilink">맥도넬더글러스 MD-83</a></p></td>

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Vanilla Mood](https://ko.wikipedia.org/wiki/Vanilla_Mood).
 
 
-**바닐라 무드**(, )는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 3인조 클래식 밴드이다. 바이올린, 첼로, 피아노로 구성되어 있으며, 2006년 2월 8일 첫 미니 앨범을 발매하였다.
+**바닐라 무드**(, )는 [일본](../Page/일본.md "wikilink")의 3인조 클래식 밴드이다. 바이올린, 첼로, 피아노로 구성되어 있으며, 2006년 2월 8일 첫 미니 앨범을 발매하였다.
 
 ## 멤버
 

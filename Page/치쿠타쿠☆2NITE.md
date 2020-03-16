@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [2NITE](https://ko.wikipedia.org/wiki/2NITE).
 
 
-「**チクタク☆2NITE**」（치크타크 투 나잇\[똑딱똑딱 투나잇\]）은 [9nine](../Page/9nine.md "wikilink")의 8번째 싱글이다. [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink")[12월21일](https://ko.wikipedia.org/wiki/12월21일 "wikilink")에 [SME Records로부터](https://ko.wikipedia.org/wiki/SME_Records "wikilink") 발매되었다.
+「**チクタク☆2NITE**」（치크타크 투 나잇\[똑딱똑딱 투나잇\]）은 [9nine](../Page/9nine.md "wikilink")의 8번째 싱글이다. [2011년](../Page/2011년.md "wikilink")[12월21일](https://ko.wikipedia.org/wiki/12월21일 "wikilink")에 [SME Records로부터](https://ko.wikipedia.org/wiki/SME_Records "wikilink") 발매되었다.
 
 ## 개요
 

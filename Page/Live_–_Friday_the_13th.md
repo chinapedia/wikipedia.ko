@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Live  Friday the 13th](https://ko.wikipedia.org/wiki/Live__Friday_the_13th).
 
 
-***Live – Friday The 13th***는 [마룬 5의](../Page/마룬_5.md "wikilink") [라이브 음반으로](https://ko.wikipedia.org/wiki/라이브_음반 "wikilink") DVD와 CD로 구성된다. 2005년 7월 13일 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [캘리포니아주](https://ko.wikipedia.org/wiki/캘리포니아주 "wikilink") [샌타바버라](https://ko.wikipedia.org/wiki/샌타바버라 "wikilink")의 샌타바버라 볼(Santa Barbara Bowl)에서 녹음 되었다. [제5회 혼다 시빅 투어의](https://ko.wikipedia.org/wiki/제5회_혼다_시빅_투어 "wikilink") 일환이었다.
+***Live – Friday The 13th***는 [마룬 5의](../Page/마룬_5.md "wikilink") [라이브 음반으로](https://ko.wikipedia.org/wiki/라이브_음반 "wikilink") DVD와 CD로 구성된다. 2005년 7월 13일 [미국](../Page/미국.md "wikilink") [캘리포니아주](../Page/캘리포니아주.md "wikilink") [샌타바버라](https://ko.wikipedia.org/wiki/샌타바버라 "wikilink")의 샌타바버라 볼(Santa Barbara Bowl)에서 녹음 되었다. [제5회 혼다 시빅 투어의](https://ko.wikipedia.org/wiki/제5회_혼다_시빅_투어 "wikilink") 일환이었다.
 
 ## 수록곡 목록
 
@@ -14,10 +14,10 @@
 7.  "Secret" / "Ain't No Sunshine" – 7:11
 8.  "Not Coming Home" – 4:28
 9.  "[This Love](https://ko.wikipedia.org/wiki/This_Love_\(마룬_5의_노래\) "wikilink")" – 5:14
-10. "[Must Get Out](https://ko.wikipedia.org/wiki/Must_Get_Out "wikilink")" – 4:08
+10. "[Must Get Out](../Page/Must_Get_Out.md "wikilink")" – 4:08
 11. "[Sunday Morning](https://ko.wikipedia.org/wiki/Sunday_Morning "wikilink")" – 6:37
 12. "Sweetest Goodbye" – 9:38
-13. "Hello" ([오아시스](https://ko.wikipedia.org/wiki/오아시스_\(밴드\) "wikilink") 커버) – 3:52
+13. "Hello" ([오아시스](../Page/오아시스_\(밴드\).md "wikilink") 커버) – 3:52
 14. "[She Will Be Loved](https://ko.wikipedia.org/wiki/She_Will_Be_Loved "wikilink")" – 8:51
 
 ## 제작

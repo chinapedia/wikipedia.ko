@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [ OS X 10.2](https://ko.wikipedia.org/wiki/_OS_X_10.2).
 
 
-**맥 OS X 버전 10.2 재규어**(Mac OS X v10.2 Jaguar)는 [맥 OS X의](https://ko.wikipedia.org/wiki/맥_OS_X "wikilink") 세 번째 주요 릴리즈로, [애플의](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 데스크톱 및 서버 [운영 체제이다](https://ko.wikipedia.org/wiki/운영_체제 "wikilink").
+**맥 OS X 버전 10.2 재규어**(Mac OS X v10.2 Jaguar)는 [맥 OS X의](https://ko.wikipedia.org/wiki/맥_OS_X "wikilink") 세 번째 주요 릴리즈로, [애플의](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 데스크톱 및 서버 [운영 체제이다](../Page/운영_체제.md "wikilink").
 
 이 운영 체제는 2002년 8월 23일에 단일 컴퓨터 설치나, 한 가정에 5개의 컴퓨터에 설치할 수 있게 하는 패밀리 팩을 통해 이용이 가능해졌다.\[1\]
 
 ## 시스템 요구 사항
 
-  - 지원 컴퓨터\[2\]: [파워맥 G3](https://ko.wikipedia.org/wiki/파워맥_G3 "wikilink"), [G4](https://ko.wikipedia.org/wiki/파워맥_G4 "wikilink"), 초기 [파워맥 G5](https://ko.wikipedia.org/wiki/파워맥_G5 "wikilink"), [아이맥](https://ko.wikipedia.org/wiki/아이맥 "wikilink"), [이맥](https://ko.wikipedia.org/wiki/이맥 "wikilink"), [파워북 G3](https://ko.wikipedia.org/wiki/파워북_G3 "wikilink") 또는 [G4](https://ko.wikipedia.org/wiki/파워북_G4 "wikilink"), 또는 [아이북](https://ko.wikipedia.org/wiki/아이북 "wikilink") 컴퓨터
+  - 지원 컴퓨터\[2\]: [파워맥 G3](https://ko.wikipedia.org/wiki/파워맥_G3 "wikilink"), [G4](https://ko.wikipedia.org/wiki/파워맥_G4 "wikilink"), 초기 [파워맥 G5](https://ko.wikipedia.org/wiki/파워맥_G5 "wikilink"), [아이맥](../Page/아이맥.md "wikilink"), [이맥](../Page/이맥.md "wikilink"), [파워북 G3](https://ko.wikipedia.org/wiki/파워북_G3 "wikilink") 또는 [G4](https://ko.wikipedia.org/wiki/파워북_G4 "wikilink"), 또는 [아이북](../Page/아이북.md "wikilink") 컴퓨터
   - 메모리 양: 128 [메가바이트](../Page/메가바이트.md "wikilink")(MB), 256\~512MB를 강력 권장.
   - 프로세서 종류: 233 MHz 이상으로 동작하는 [PowerPC](https://ko.wikipedia.org/wiki/PowerPC "wikilink") G3, G4, G5
 

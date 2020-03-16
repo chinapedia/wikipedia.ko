@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FIFA ](https://ko.wikipedia.org/wiki/FIFA_).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Puskas_Top_scorer_of_20th_century.JPG "wikilink") **FIFA 푸슈카시상**(FIFA Puskás Award)은 [국제 축구 연맹](https://ko.wikipedia.org/wiki/국제_축구_연맹 "wikilink")(FIFA)이 지난 한 해 동안 가장 뛰어난 골을 기록한 선수에게 수여하는 상이다. [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [10월 20일에](https://ko.wikipedia.org/wiki/10월_20일 "wikilink") 제정되었으며 상 이름은 1950년대 [헝가리](https://ko.wikipedia.org/wiki/헝가리 "wikilink")를 대표하는 축구 선수인 [푸슈카시 페렌츠에서](https://ko.wikipedia.org/wiki/푸슈카시_페렌츠 "wikilink") 유래된 이름이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Puskas_Top_scorer_of_20th_century.JPG "wikilink") **FIFA 푸슈카시상**(FIFA Puskás Award)은 [국제 축구 연맹](../Page/국제_축구_연맹.md "wikilink")(FIFA)이 지난 한 해 동안 가장 뛰어난 골을 기록한 선수에게 수여하는 상이다. [2009년](../Page/2009년.md "wikilink") [10월 20일에](../Page/10월_20일.md "wikilink") 제정되었으며 상 이름은 1950년대 [헝가리](../Page/헝가리.md "wikilink")를 대표하는 축구 선수인 [푸슈카시 페렌츠에서](../Page/푸슈카시_페렌츠.md "wikilink") 유래된 이름이다.
 
 ## 수여 기준
 
@@ -30,7 +30,7 @@
 <tr class="odd">
 <td><p><strong>1위</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/크리스티아누_호날두" title="wikilink">크리스티아누 호날두</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/맨체스터_유나이티드_FC" title="wikilink">맨체스터 유나이티드</a></p></td>
+<td><p><a href="../Page/맨체스터_유나이티드_FC.md" title="wikilink">맨체스터 유나이티드</a></p></td>
 <td><p><a href="../Page/FC_포르투.md" title="wikilink">포르투</a></p></td>
 <td><p><strong>1</strong> - 0</p></td>
 <td><p>2008-09 <a href="../Page/UEFA_챔피언스리그.md" title="wikilink">UEFA 챔피언스리그</a></p></td>
@@ -66,7 +66,7 @@
 <tr class="odd">
 <td><p>5위</p></td>
 <td><p><a href="../Page/페르난도_토레스.md" title="wikilink">페르난도 토레스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/리버풀_FC" title="wikilink">리버풀</a></p></td>
+<td><p><a href="../Page/리버풀_FC.md" title="wikilink">리버풀</a></p></td>
 <td><p><a href="../Page/블랙번_로버스_FC.md" title="wikilink">블랙번 로버스</a></p></td>
 <td><p><strong>4</strong> - 0</p></td>
 <td><p>2008-09 <a href="https://ko.wikipedia.org/wiki/프리미어리그" title="wikilink">프리미어리그</a></p></td>
@@ -83,7 +83,7 @@
 </tr>
 <tr class="odd">
 <td><p>7위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/마이클_에시엔" title="wikilink">마이클 에시엔</a></p></td>
+<td><p><a href="../Page/마이클_에시엔.md" title="wikilink">마이클 에시엔</a></p></td>
 <td><p><a href="../Page/첼시_FC.md" title="wikilink">첼시</a></p></td>
 <td><p><a href="../Page/FC_바르셀로나.md" title="wikilink">바르셀로나</a></p></td>
 <td><p><strong>1</strong> - 1</p></td>
@@ -102,7 +102,7 @@
 <tr class="odd">
 <td><p>9위</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/에마뉘엘_아데바요르" title="wikilink">에마뉘엘 아데바요르</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아스널_FC" title="wikilink">아스널</a></p></td>
+<td><p><a href="../Page/아스널_FC.md" title="wikilink">아스널</a></p></td>
 <td><p><a href="../Page/비야레알_CF.md" title="wikilink">비야레알</a></p></td>
 <td><p><strong>1</strong> - 1</p></td>
 <td><p>2008-09 <a href="../Page/UEFA_챔피언스리그.md" title="wikilink">UEFA 챔피언스리그</a></p></td>
@@ -172,7 +172,7 @@
 <td><p>N/A</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/리오넬_메시" title="wikilink">리오넬 메시</a></p></td>
+<td><p><a href="../Page/리오넬_메시.md" title="wikilink">리오넬 메시</a></p></td>
 <td><p><a href="../Page/FC_바르셀로나.md" title="wikilink">바르셀로나</a></p></td>
 <td><p><a href="../Page/발렌시아_CF.md" title="wikilink">발렌시아</a></p></td>
 <td><p><strong>3</strong> - 0</p></td>
@@ -182,7 +182,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/사미르_나스리.md" title="wikilink">사미르 나스리</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아스널_FC" title="wikilink">아스널</a></p></td>
+<td><p><a href="../Page/아스널_FC.md" title="wikilink">아스널</a></p></td>
 <td><p><a href="../Page/FC_포르투.md" title="wikilink">포르투</a></p></td>
 <td><p><strong>5</strong> - 0</p></td>
 <td><p>2009-10 <a href="../Page/UEFA_챔피언스리그.md" title="wikilink">UEFA 챔피언스리그</a></p></td>
@@ -208,7 +208,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/시피웨_차발랄라" title="wikilink">시피웨 차발랄라</a></p></td>
+<td><p><a href="../Page/시피웨_차발랄라.md" title="wikilink">시피웨 차발랄라</a></p></td>
 <td></td>
 <td></td>
 <td><p><strong>1</strong> - 1</p></td>
@@ -217,7 +217,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/요코야마_구미" title="wikilink">요코야마 구미</a></p></td>
+<td><p><a href="../Page/요코야마_구미.md" title="wikilink">요코야마 구미</a></p></td>
 <td></td>
 <td></td>
 <td><p><strong>2</strong> - 1</p></td>
@@ -307,9 +307,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/리오넬_메시" title="wikilink">리오넬 메시</a></p></td>
+<td><p><a href="../Page/리오넬_메시.md" title="wikilink">리오넬 메시</a></p></td>
 <td><p><a href="../Page/FC_바르셀로나.md" title="wikilink">바르셀로나</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아스널_FC" title="wikilink">아스널</a></p></td>
+<td><p><a href="../Page/아스널_FC.md" title="wikilink">아스널</a></p></td>
 <td><p><strong>3</strong> - 1</p></td>
 <td><p>2010-11 <a href="../Page/UEFA_챔피언스리그.md" title="wikilink">UEFA 챔피언스리그</a></p></td>
 <td></td>
@@ -326,7 +326,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/웨인_루니.md" title="wikilink">웨인 루니</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/맨체스터_유나이티드_FC" title="wikilink">맨체스터 유나이티드</a></p></td>
+<td><p><a href="../Page/맨체스터_유나이티드_FC.md" title="wikilink">맨체스터 유나이티드</a></p></td>
 <td><p><a href="../Page/맨체스터_시티_FC.md" title="wikilink">맨체스터 시티</a></p></td>
 <td><p><strong>2</strong> - 1</p></td>
 <td><p>2010-11 <a href="https://ko.wikipedia.org/wiki/프리미어리그" title="wikilink">프리미어리그</a></p></td>
@@ -363,7 +363,7 @@
 <tr class="odd">
 <td><p><strong>1위</strong></p></td>
 <td><p><a href="../Page/미로슬라우_스토흐.md" title="wikilink">미로슬라우 스토흐</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/페네르바흐체_SK_(축구)" title="wikilink">페네르바흐체</a></p></td>
+<td><p><a href="../Page/페네르바흐체_SK_(축구).md" title="wikilink">페네르바흐체</a></p></td>
 <td><p><a href="../Page/겐츨레르비를리이_SK.md" title="wikilink">겐츨레르비를리이</a></p></td>
 <td><p><strong>1</strong> - 0</p></td>
 <td><p>2011-12 <a href="../Page/쉬페르리그.md" title="wikilink">쉬페르리그</a></p></td>
@@ -393,7 +393,7 @@
 <td></td>
 <td></td>
 <td><p><strong>1</strong> - 1</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2012년_아프리카_네이션스컵" title="wikilink">2012년 아프리카 네이션스컵</a></p></td>
+<td><p><a href="../Page/2012년_아프리카_네이션스컵.md" title="wikilink">2012년 아프리카 네이션스컵</a></p></td>
 <td><p>N/A</p></td>
 </tr>
 <tr class="odd">
@@ -407,8 +407,8 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/에리크_하슬리" title="wikilink">에리크 하슬리</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/밴쿠버_화이트캡스_FC" title="wikilink">밴쿠버 화이트캡스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/토론토_FC" title="wikilink">토론토</a></p></td>
+<td><p><a href="../Page/밴쿠버_화이트캡스_FC.md" title="wikilink">밴쿠버 화이트캡스</a></p></td>
+<td><p><a href="../Page/토론토_FC.md" title="wikilink">토론토</a></p></td>
 <td><p><strong>1</strong> - 1</p></td>
 <td><p>2012 <a href="../Page/캐나다_챔피언십.md" title="wikilink">캐나다 챔피언십</a></p></td>
 <td></td>
@@ -433,9 +433,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/리오넬_메시" title="wikilink">리오넬 메시</a></p></td>
+<td><p><a href="../Page/리오넬_메시.md" title="wikilink">리오넬 메시</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/아르헨티나_축구_국가대표팀" title="wikilink">아르헨티나</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/브라질_축구_국가대표팀" title="wikilink">브라질</a></p></td>
+<td><p><a href="../Page/브라질_축구_국가대표팀.md" title="wikilink">브라질</a></p></td>
 <td><p><strong>4</strong> - 3</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/친선_경기" title="wikilink">친선 경기</a></p></td>
 <td></td>
@@ -443,8 +443,8 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/무사_소우.md" title="wikilink">무사 소우</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/페네르바흐체_SK_(축구)" title="wikilink">페네르바흐체</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/갈라타사라이_SK_(축구)" title="wikilink">갈라타사라이</a></p></td>
+<td><p><a href="../Page/페네르바흐체_SK_(축구).md" title="wikilink">페네르바흐체</a></p></td>
+<td><p><a href="../Page/갈라타사라이_SK_(축구).md" title="wikilink">갈라타사라이</a></p></td>
 <td><p><strong>2</strong> - 2</p></td>
 <td><p>2011-12 <a href="../Page/쉬페르리그.md" title="wikilink">쉬페르리그</a></p></td>
 <td></td>
@@ -506,15 +506,15 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/루이자_네시브.md" title="wikilink">루이자 네시브</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/올랭피크_리옹_(여자_축구)" title="wikilink">올랭피크 리옹</a></p></td>
+<td><p><a href="../Page/올랭피크_리옹_(여자_축구).md" title="wikilink">올랭피크 리옹</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/AS_생테티엔_(여자_축구)" title="wikilink">생테티엔</a></p></td>
 <td><p><strong>5</strong> - 0</p></td>
-<td><p>2012-13 <a href="https://ko.wikipedia.org/wiki/디비지옹_1_페미닌" title="wikilink">디비지옹 1 페미닌</a></p></td>
+<td><p>2012-13 <a href="../Page/디비지옹_1_페미닌.md" title="wikilink">디비지옹 1 페미닌</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/리사_디_배나" title="wikilink">리사 디 배나</a></p></td>
+<td><p><a href="../Page/리사_디_배나.md" title="wikilink">리사 디 배나</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/스카이_블루_FC" title="wikilink">스카이 블루</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/보스턴_브레이커스" title="wikilink">보스턴 브레이커스</a></p></td>
 <td><p><strong>5</strong> - 1</p></td>
@@ -551,8 +551,8 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/후안_마누엘_올리베라.md" title="wikilink">후안 마누엘 올리베라</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/나우치쿠_카피바리비" title="wikilink">나우치쿠 카피바리비</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/스포르트_헤시피" title="wikilink">스포르트 헤시피</a></p></td>
+<td><p><a href="../Page/나우치쿠_카피바리비.md" title="wikilink">나우치쿠 카피바리비</a></p></td>
+<td><p><a href="../Page/스포르트_헤시피.md" title="wikilink">스포르트 헤시피</a></p></td>
 <td><p><strong>2</strong> - 0</p></td>
 <td><p>2013 <a href="../Page/코파_수다메리카나.md" title="wikilink">코파 수다메리카나</a></p></td>
 <td></td>
@@ -650,15 +650,15 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/카밀루_산베주" title="wikilink">카밀루 산베주</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/밴쿠버_화이트캡스_FC" title="wikilink">밴쿠버 화이트캡스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/포틀랜드_팀버스" title="wikilink">포틀랜드 팀버스</a></p></td>
+<td><p><a href="../Page/밴쿠버_화이트캡스_FC.md" title="wikilink">밴쿠버 화이트캡스</a></p></td>
+<td><p><a href="../Page/포틀랜드_팀버스.md" title="wikilink">포틀랜드 팀버스</a></p></td>
 <td><p><strong>2</strong> - 2</p></td>
-<td><p>2013 <a href="https://ko.wikipedia.org/wiki/메이저_리그_사커" title="wikilink">메이저 리그 사커</a></p></td>
+<td><p>2013 <a href="../Page/메이저_리그_사커.md" title="wikilink">메이저 리그 사커</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/사토_히사토" title="wikilink">사토 히사토</a></p></td>
+<td><p><a href="../Page/사토_히사토.md" title="wikilink">사토 히사토</a></p></td>
 <td><p><a href="../Page/산프레체_히로시마.md" title="wikilink">산프레체 히로시마</a></p></td>
 <td><p><a href="../Page/가와사키_프론탈레.md" title="wikilink">가와사키 프론탈레</a></p></td>
 <td><p><strong>2</strong> - 1</p></td>
@@ -704,11 +704,11 @@
 </tr>
 <tr class="even">
 <td><p><strong>2위</strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/리오넬_메시" title="wikilink">리오넬 메시</a></p></td>
+<td><p><a href="../Page/리오넬_메시.md" title="wikilink">리오넬 메시</a></p></td>
 <td><p><a href="../Page/FC_바르셀로나.md" title="wikilink">바르셀로나</a></p></td>
 <td><p><a href="../Page/아틀레틱_빌바오.md" title="wikilink">아틀레틱 빌바오</a></p></td>
 <td><p><strong>1</strong> - 0</p></td>
-<td><p>2014-15 <a href="https://ko.wikipedia.org/wiki/코파_델_레이" title="wikilink">코파 델 레이</a></p></td>
+<td><p>2014-15 <a href="../Page/코파_델_레이.md" title="wikilink">코파 델 레이</a></p></td>
 <td><p>33.3%</p></td>
 </tr>
 <tr class="odd">
@@ -776,7 +776,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/카를로스_테베스.md" title="wikilink">카를로스 테베스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유벤투스_FC" title="wikilink">유벤투스</a></p></td>
+<td><p><a href="../Page/유벤투스_FC.md" title="wikilink">유벤투스</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/SSD_파르마_칼초_1913" title="wikilink">파르마</a></p></td>
 <td><p><strong>4</strong> - 0</p></td>
 <td><p>2014-15 <a href="../Page/세리에_A.md" title="wikilink">세리에 A</a></p></td>
@@ -816,7 +816,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/페낭_FA" title="wikilink">페낭</a></p></td>
 <td><p><a href="../Page/파항_FA.md" title="wikilink">파항</a></p></td>
 <td><p><strong>4</strong> - 1</p></td>
-<td><p>2016 <a href="https://ko.wikipedia.org/wiki/말레이시아_슈퍼리그" title="wikilink">말레이시아 슈퍼리그</a></p></td>
+<td><p>2016 <a href="../Page/말레이시아_슈퍼리그.md" title="wikilink">말레이시아 슈퍼리그</a></p></td>
 <td><p>59.46%</p></td>
 </tr>
 <tr class="even">
@@ -856,7 +856,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/리오넬_메시" title="wikilink">리오넬 메시</a></p></td>
+<td><p><a href="../Page/리오넬_메시.md" title="wikilink">리오넬 메시</a></p></td>
 <td></td>
 <td></td>
 <td><p><strong>2</strong> - 0</p></td>
@@ -930,7 +930,7 @@
 <tr class="odd">
 <td><p><strong>1위</strong></p></td>
 <td><p><a href="../Page/올리비에_지루.md" title="wikilink">올리비에 지루</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아스널_FC" title="wikilink">아스널</a></p></td>
+<td><p><a href="../Page/아스널_FC.md" title="wikilink">아스널</a></p></td>
 <td><p><a href="../Page/크리스털_팰리스_FC.md" title="wikilink">크리스털 팰리스</a></p></td>
 <td><p><strong>1</strong> - 0</p></td>
 <td><p>2016-17 <a href="https://ko.wikipedia.org/wiki/프리미어리그" title="wikilink">프리미어리그</a></p></td>
@@ -940,7 +940,7 @@
 <td><p><strong>2위</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/오스카리네_마술루케" title="wikilink">오스카리네 마술루케</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/바로카_FC" title="wikilink">바로카</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/올랜도_파이리츠_FC" title="wikilink">올랜도 파이리츠</a></p></td>
+<td><p><a href="../Page/올랜도_파이리츠_FC.md" title="wikilink">올랜도 파이리츠</a></p></td>
 <td><p><strong>1</strong> - 1</p></td>
 <td><p>2016-17 <a href="https://ko.wikipedia.org/wiki/남아프리카_공화국_퍼스트_디비전" title="wikilink">남아프리카 공화국 퍼스트 디비전</a></p></td>
 <td><p>27.48%</p></td>
@@ -974,7 +974,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/무사_뎀벨레_(1996년).md" title="wikilink">무사 뎀벨레</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/셀틱_FC" title="wikilink">셀틱</a></p></td>
+<td><p><a href="../Page/셀틱_FC.md" title="wikilink">셀틱</a></p></td>
 <td><p><a href="../Page/세인트_존스톤_FC.md" title="wikilink">세인트 존스톤</a></p></td>
 <td><p><strong>5</strong> - 2</p></td>
 <td><p>2016-17 <a href="https://ko.wikipedia.org/wiki/스코틀랜드_프리미어십" title="wikilink">스코틀랜드 프리미어십</a></p></td>
@@ -992,8 +992,8 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/마리오_만주키치.md" title="wikilink">마리오 만주키치</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유벤투스_FC" title="wikilink">유벤투스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/레알_마드리드_CF" title="wikilink">레알 마드리드</a></p></td>
+<td><p><a href="../Page/유벤투스_FC.md" title="wikilink">유벤투스</a></p></td>
+<td><p><a href="../Page/레알_마드리드_CF.md" title="wikilink">레알 마드리드</a></p></td>
 <td><p><strong>1</strong> - 1</p></td>
 <td><p>2016-17 <a href="../Page/UEFA_챔피언스리그.md" title="wikilink">UEFA 챔피언스리그</a></p></td>
 <td></td>
@@ -1038,7 +1038,7 @@
 <tr class="odd">
 <td><p><strong>1위</strong></p></td>
 <td><p><a href="../Page/무함마드_살라흐.md" title="wikilink">무함마드 살라흐</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/리버풀_FC" title="wikilink">리버풀</a></p></td>
+<td><p><a href="../Page/리버풀_FC.md" title="wikilink">리버풀</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/에버턴_FC" title="wikilink">에버턴</a></p></td>
 <td><p><strong>1</strong> - 0</p></td>
 <td><p>2017-18 <a href="https://ko.wikipedia.org/wiki/프리미어리그" title="wikilink">프리미어리그</a></p></td>
@@ -1047,8 +1047,8 @@
 <tr class="even">
 <td><p><strong>2위</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/크리스티아누_호날두" title="wikilink">크리스티아누 호날두</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/레알_마드리드_CF" title="wikilink">레알 마드리드</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유벤투스_FC" title="wikilink">유벤투스</a></p></td>
+<td><p><a href="../Page/레알_마드리드_CF.md" title="wikilink">레알 마드리드</a></p></td>
+<td><p><a href="../Page/유벤투스_FC.md" title="wikilink">유벤투스</a></p></td>
 <td><p><strong>3</strong> - 0</p></td>
 <td><p>2017-18 <a href="../Page/UEFA_챔피언스리그.md" title="wikilink">UEFA 챔피언스리그</a></p></td>
 <td><p>22%</p></td>
@@ -1065,8 +1065,8 @@
 <tr class="even">
 <td><p>순위 없음</p></td>
 <td><p><a href="../Page/가레스_베일.md" title="wikilink">가레스 베일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/레알_마드리드_CF" title="wikilink">레알 마드리드</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/리버풀_FC" title="wikilink">리버풀</a></p></td>
+<td><p><a href="../Page/레알_마드리드_CF.md" title="wikilink">레알 마드리드</a></p></td>
+<td><p><a href="../Page/리버풀_FC.md" title="wikilink">리버풀</a></p></td>
 <td><p><strong>3</strong> - 1</p></td>
 <td><p>2017-18 <a href="../Page/UEFA_챔피언스리그.md" title="wikilink">UEFA 챔피언스리그</a></p></td>
 <td><p>N/A</p></td>
@@ -1091,15 +1091,15 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/라일리_맥그리" title="wikilink">라일리 맥그리</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴캐슬_유나이티드_제츠_FC" title="wikilink">뉴캐슬 유나이티드 제츠</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/멜버른_시티_FC" title="wikilink">멜버른 시티</a></p></td>
+<td><p><a href="../Page/뉴캐슬_유나이티드_제츠_FC.md" title="wikilink">뉴캐슬 유나이티드 제츠</a></p></td>
+<td><p><a href="../Page/멜버른_시티_FC.md" title="wikilink">멜버른 시티</a></p></td>
 <td><p><strong>1</strong> - 1</p></td>
 <td><p>2017-18 <a href="../Page/A리그.md" title="wikilink">A리그</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/리오넬_메시" title="wikilink">리오넬 메시</a></p></td>
+<td><p><a href="../Page/리오넬_메시.md" title="wikilink">리오넬 메시</a></p></td>
 <td></td>
 <td></td>
 <td><p><strong>1</strong> - 0</p></td>
@@ -1154,7 +1154,7 @@
 </tr>
 <tr class="even">
 <td><p><strong>2위</strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/리오넬_메시" title="wikilink">리오넬 메시</a></p></td>
+<td><p><a href="../Page/리오넬_메시.md" title="wikilink">리오넬 메시</a></p></td>
 <td><p><a href="../Page/FC_바르셀로나.md" title="wikilink">바르셀로나</a></p></td>
 <td><p><a href="../Page/레알_베티스.md" title="wikilink">레알 베티스</a></p></td>
 <td><p><strong>4</strong> - 1</p></td>
@@ -1174,17 +1174,17 @@
 <td><p>순위 없음</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/마테우스_쿠냐" title="wikilink">마테우스 쿠냐</a></p></td>
 <td><p><a href="../Page/RB_라이프치히.md" title="wikilink">RB 라이프치히</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/바이어_04_레버쿠젠" title="wikilink">바이어 04 레버쿠젠</a></p></td>
+<td><p><a href="../Page/바이어_04_레버쿠젠.md" title="wikilink">바이어 04 레버쿠젠</a></p></td>
 <td><p><strong>4</strong> - 2</p></td>
 <td><p>2018-19 <a href="https://ko.wikipedia.org/wiki/푸스발-분데스리가" title="wikilink">푸스발-분데스리가</a></p></td>
 <td><p>N/A</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/즐라탄_이브라히모비치" title="wikilink">즐라탄 이브라히모비치</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/로스앤젤레스_갤럭시" title="wikilink">로스앤젤레스 갤럭시</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/토론토_FC" title="wikilink">토론토 FC</a></p></td>
+<td><p><a href="../Page/로스앤젤레스_갤럭시.md" title="wikilink">로스앤젤레스 갤럭시</a></p></td>
+<td><p><a href="../Page/토론토_FC.md" title="wikilink">토론토 FC</a></p></td>
 <td><p><strong>1</strong> - 3</p></td>
-<td><p>2018 <a href="https://ko.wikipedia.org/wiki/메이저_리그_사커" title="wikilink">메이저 리그 사커</a></p></td>
+<td><p>2018 <a href="../Page/메이저_리그_사커.md" title="wikilink">메이저 리그 사커</a></p></td>
 <td></td>
 <td></td>
 </tr>

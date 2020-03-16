@@ -41,7 +41,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:IPhone_3G.png" title="wikilink">100px</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아이폰_3G" title="wikilink">아이폰 3G</a></p></td>
+<td><p><a href="../Page/아이폰_3G.md" title="wikilink">아이폰 3G</a></p></td>
 <td><p>8, 16GB 2008년 7월 11일</p></td>
 <td><p>슬레이트</p></td>
 <td><p>GSM/GPRS/EDGE 850, 900, 1800, 1900MHz<br />
@@ -57,7 +57,7 @@ UMTS/HSDPA 3.6Mbps (850, 1900, 2100 MHz)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:IPhone3GS.JPG" title="wikilink">100px</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아이폰_3GS" title="wikilink">아이폰 3GS</a></p></td>
+<td><p><a href="../Page/아이폰_3GS.md" title="wikilink">아이폰 3GS</a></p></td>
 <td><p>16GB, 32GB 2009년 6월 19일<br />
 8GB 2010년 6월 24일</p></td>
 <td><p>슬레이트</p></td>
@@ -74,7 +74,7 @@ UMTS/HSDPA 7.2Mbps (850, 1900, 2100 MHz)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Iphone_4G-3_black_screen.png" title="wikilink">150px</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아이폰_4" title="wikilink">아이폰 4</a></p></td>
+<td><p><a href="../Page/아이폰_4.md" title="wikilink">아이폰 4</a></p></td>
 <td><p>16GB, 32GB 2010년 6월 24일<br />
 화이트 2011년 4월 28일<br />
 8GB 2011년 10월 4일</p></td>
@@ -93,7 +93,7 @@ HSUPA 5.76Mbps</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Iphone_4G-3_black_screen.png" title="wikilink">150px</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아이폰_4" title="wikilink">아이폰 4</a> CDMA</p></td>
+<td><p><a href="../Page/아이폰_4.md" title="wikilink">아이폰 4</a> CDMA</p></td>
 <td><p>16GB, 32GB 2011년 2월 10일<br />
 화이트 2011년 4월 28일<br />
 8GB 2011년 10월 14일</p></td>
@@ -179,7 +179,7 @@ LTE(1, 3, 5 대역)</li>
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:IPad-WiFi-1stGen.jpg" title="wikilink">100px</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아이패드" title="wikilink">아이패드</a> 3G</p></td>
+<td><p><a href="../Page/아이패드.md" title="wikilink">아이패드</a> 3G</p></td>
 <td><p>2010년 4월 30일</p></td>
 <td><p>스마트패드</p></td>
 <td><p>UMTS / HSDPA 850, 1,900, 2,100 MHz<br />
@@ -197,7 +197,7 @@ GSM / EDGE 850, 900, 1,800, 1,900 MHz)<br />
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:IPad-WiFi-1stGen.jpg" title="wikilink">100px</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아이패드" title="wikilink">아이패드</a> WiFi</p></td>
+<td><p><a href="../Page/아이패드.md" title="wikilink">아이패드</a> WiFi</p></td>
 <td><p>2010년 4월 30일</p></td>
 <td><p>스마트패드</p></td>
 <td><p>WiFi</p></td>

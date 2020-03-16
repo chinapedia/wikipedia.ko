@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Colorful \(9nine \)](https://ko.wikipedia.org/wiki/Colorful_\(9nine_\)).
 
 
-「**colorful**」(컬러풀) [9nine](../Page/9nine.md "wikilink")의 13번째 싱글이다. [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [2월 6일에](https://ko.wikipedia.org/wiki/2월_6일 "wikilink") [SME Records로부터](https://ko.wikipedia.org/wiki/SME_Records "wikilink") 발매 예정이다.
+「**colorful**」(컬러풀) [9nine](../Page/9nine.md "wikilink")의 13번째 싱글이다. [2013년](../Page/2013년.md "wikilink") [2월 6일에](../Page/2월_6일.md "wikilink") [SME Records로부터](https://ko.wikipedia.org/wiki/SME_Records "wikilink") 발매 예정이다.
 
 ## 개요
 
@@ -22,15 +22,15 @@
 
 ## 초회특전
 
-1.  [DVD](https://ko.wikipedia.org/wiki/DVD "wikilink")
+1.  [DVD](../Page/DVD.md "wikilink")
       - 초회생산한정판A
           - 『9nine원맨라이브 "야온의 9nine"@히비야 야외 대음악당/2012.8.19』라이브 영상
-            1.  [koizora](https://ko.wikipedia.org/wiki/9nine_\(음반\) "wikilink")
+            1.  [koizora](../Page/9nine_\(음반\).md "wikilink")
             2.  [流星のくちづけ](https://ko.wikipedia.org/wiki/류세이노쿠치즈케 "wikilink")
             3.  [流星のくちづけ](https://ko.wikipedia.org/wiki/류세이노쿠치즈케 "wikilink")
       - 초회생산한정판B
           - 『9nine원맨라이브 "야온의 9nine"@히비야 야외 대음악당/2012.8.19』라이브 영상
-            1.  [9nine o'clock](https://ko.wikipedia.org/wiki/9nine_\(음반\) "wikilink")
+            1.  [9nine o'clock](../Page/9nine_\(음반\).md "wikilink")
             2.  [困惑コンフューズ](../Page/SHINING☆STAR.md "wikilink")
             3.  [SHINING☆STAR](../Page/SHINING☆STAR.md "wikilink")
       - 기간한정초회사양판（럭셔리 스타도라판）

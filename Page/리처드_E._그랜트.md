@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [ E. ](https://ko.wikipedia.org/wiki/_E._).
 
 
-**리처드 E. 그랜트**(Richard E. Grant, [1957년](https://ko.wikipedia.org/wiki/1957년 "wikilink") [5월 5일](https://ko.wikipedia.org/wiki/5월_5일 "wikilink")\~)는 [에스와티니](https://ko.wikipedia.org/wiki/에스와티니 "wikilink")에서 태어난 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 [배우](../Page/배우.md "wikilink")이다.
+**리처드 E. 그랜트**(Richard E. Grant, [1957년](../Page/1957년.md "wikilink") [5월 5일](../Page/5월_5일.md "wikilink")\~)는 [에스와티니](../Page/에스와티니.md "wikilink")에서 태어난 [영국](../Page/영국.md "wikilink")의 [배우](../Page/배우.md "wikilink")이다.
 
 ## 출연 작품
 
-  - [드라큘라](https://ko.wikipedia.org/wiki/드라큘라_\(1992년_영화\) "wikilink")
+  - [드라큘라](../Page/드라큘라_\(1992년_영화\).md "wikilink")
   - [철의 여인](../Page/철의_여인_\(영화\).md "wikilink")
   - [로건](../Page/로건_\(영화\).md "wikilink")
   - [킬러의 보디가드](../Page/킬러의_보디가드.md "wikilink")

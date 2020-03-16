@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [IONIS  ](https://ko.wikipedia.org/wiki/IONIS__).
 
 
-**IONIS 교육 그룹**(IONIS Education Group)은 프랑스의 사립 [고등교육](https://ko.wikipedia.org/wiki/고등교육 "wikilink") 그룹이다.\[1\] [1980년](https://ko.wikipedia.org/wiki/1980년 "wikilink")에 설립되었으며\[2\] [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") 현재 20,000명 이상의 학생과 62,000명 이상의 졸업생을 배출하였다.\[3\]
+**IONIS 교육 그룹**(IONIS Education Group)은 프랑스의 사립 [고등교육](https://ko.wikipedia.org/wiki/고등교육 "wikilink") 그룹이다.\[1\] [1980년](../Page/1980년.md "wikilink")에 설립되었으며\[2\] [2015년](../Page/2015년.md "wikilink") 현재 20,000명 이상의 학생과 62,000명 이상의 졸업생을 배출하였다.\[3\]
 
 ## 참고
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BOLERO](https://ko.wikipedia.org/wiki/BOLERO).
 
 
-《**BOLERO**》 (볼레로)는 [Mr.Children](https://ko.wikipedia.org/wiki/Mr.Children "wikilink")의 여섯 번째 정규 음반이다. 1997년 3월 5일 토이즈 팩토리를 통하여 발매되었다.
+《**BOLERO**》 (볼레로)는 [Mr.Children](../Page/Mr.Children.md "wikilink")의 여섯 번째 정규 음반이다. 1997년 3월 5일 토이즈 팩토리를 통하여 발매되었다.
 
 ## 설명
 

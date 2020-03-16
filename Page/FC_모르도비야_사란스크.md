@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
 
 
-**FC 모르도비야 사란스크**()는 [러시아](../Page/러시아.md "wikilink") [모르도바 공화국](https://ko.wikipedia.org/wiki/모르도바_공화국 "wikilink") [사란스크](https://ko.wikipedia.org/wiki/사란스크 "wikilink")를 연고로 하는 축구 클럽이다. 이 클럽은 1961년에 창단되었으며 2005년 비오히미크 모르도비야(Биохимик‑Мордовия)를 합병하면서 오늘에 이른다.
+**FC 모르도비야 사란스크**()는 [러시아](../Page/러시아.md "wikilink") [모르도바 공화국](../Page/모르도바_공화국.md "wikilink") [사란스크](../Page/사란스크.md "wikilink")를 연고로 하는 축구 클럽이다. 이 클럽은 1961년에 창단되었으며 2005년 비오히미크 모르도비야(Биохимик‑Мордовия)를 합병하면서 오늘에 이른다.
 
 2010년 [러시아 퍼스트 디비전으로](https://ko.wikipedia.org/wiki/러시아_퍼스트_디비전 "wikilink") 승격되었으며 2012년 팀 역사상 최초로 [러시아 프리미어리그로](../Page/러시아_프리미어리그.md "wikilink") 승격되었다.
 
@@ -9,7 +9,7 @@
 
 ### 1군 명단
 
-[2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [2월 4일](https://ko.wikipedia.org/wiki/2월_4일 "wikilink") 기준
+[2015년](../Page/2015년.md "wikilink") [2월 4일](../Page/2월_4일.md "wikilink") 기준
 
 ## 연혁
 

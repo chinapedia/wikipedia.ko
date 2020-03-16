@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Parallax](https://ko.wikipedia.org/wiki/Parallax).
 
 
-《**Parallax**》는 [박정현](https://ko.wikipedia.org/wiki/박정현 "wikilink")의 8번째 한국 정규 음반이다.
+《**Parallax**》는 [박정현](../Page/박정현.md "wikilink")의 8번째 한국 정규 음반이다.
 
 ## 수록곡
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Trespassing](https://ko.wikipedia.org/wiki/Trespassing).
 
 
-**Trespassing**은 [애덤 램버트의](https://ko.wikipedia.org/wiki/애덤_램버트 "wikilink") 두 번째 스튜디오 음반으로, 2012년 5월 15일 출시되었다.\[1\]\[2\]
+**Trespassing**은 [애덤 램버트의](../Page/애덤_램버트.md "wikilink") 두 번째 스튜디오 음반으로, 2012년 5월 15일 출시되었다.\[1\]\[2\]
 
 ## 수록곡
 

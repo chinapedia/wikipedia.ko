@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KARA Solo Collection](https://ko.wikipedia.org/wiki/KARA_Solo_Collection).
 
 
-《**KARA Solo Collection**》은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [카라의](../Page/카라_\(음악_그룹\).md "wikilink") 컴필레이션 음반이다.
+《**KARA Solo Collection**》은 [대한민국](../Page/대한민국.md "wikilink")의 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [카라의](../Page/카라_\(음악_그룹\).md "wikilink") 컴필레이션 음반이다.
 
 ### 트랙리스트
 

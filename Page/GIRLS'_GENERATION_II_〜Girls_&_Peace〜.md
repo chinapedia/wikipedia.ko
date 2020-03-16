@@ -5,7 +5,7 @@
 
 ## 상업적 성과
 
-음반은 발매 첫 날 약 4만 6천 장이 판매되며 오리콘 음반 차트에서 일본의 베테랑 밴드 [Mr.Children](https://ko.wikipedia.org/wiki/Mr.Children "wikilink")에 이어 2위를 차지하였다\[1\]. 오리콘 주간 차트에서는 약 11만 6천 장이 판매되며 Mr.Children, [마츠토야 유미에](https://ko.wikipedia.org/wiki/마츠토야_유미 "wikilink") 이어 3위를 차지하였다.
+음반은 발매 첫 날 약 4만 6천 장이 판매되며 오리콘 음반 차트에서 일본의 베테랑 밴드 [Mr.Children](../Page/Mr.Children.md "wikilink")에 이어 2위를 차지하였다\[1\]. 오리콘 주간 차트에서는 약 11만 6천 장이 판매되며 Mr.Children, [마츠토야 유미에](../Page/마츠토야_유미.md "wikilink") 이어 3위를 차지하였다.
 
 ## 싱글
 
@@ -46,7 +46,7 @@
 <td><p>3</p></td>
 </tr>
 <tr class="even">
-<td><p>오리콘 탑 앨범 (<a href="https://ko.wikipedia.org/wiki/빌보드" title="wikilink">빌보드</a>)[3]</p></td>
+<td><p>오리콘 탑 앨범 (<a href="../Page/빌보드.md" title="wikilink">빌보드</a>)[3]</p></td>
 <td><p>3</p></td>
 </tr>
 <tr class="odd">

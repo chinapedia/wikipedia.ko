@@ -1,27 +1,27 @@
 > This article is converted from Wikipedia: [SP THE MOTION PICTURE](https://ko.wikipedia.org/wiki/SP_THE_MOTION_PICTURE).
 
 
-《**SP THE MOTION PICTURE**》 ()는 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink")과 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink")에 공개된 [오카다 준이치](https://ko.wikipedia.org/wiki/오카다_준이치 "wikilink") 주연의 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") [영화](../Page/영화.md "wikilink")이다. [텔레비전 드라마](https://ko.wikipedia.org/wiki/텔레비전_드라마 "wikilink") 〈[SP 경시청 경비부 경호과 제4계](../Page/SP_\(드라마\).md "wikilink")〉의 극장판 작품이다.
+《**SP THE MOTION PICTURE**》 ()는 [2010년](../Page/2010년.md "wikilink")과 [2011년](../Page/2011년.md "wikilink")에 공개된 [오카다 준이치](../Page/오카다_준이치.md "wikilink") 주연의 [일본](../Page/일본.md "wikilink") [영화](../Page/영화.md "wikilink")이다. [텔레비전 드라마](../Page/텔레비전_드라마.md "wikilink") 〈[SP 경시청 경비부 경호과 제4계](../Page/SP_\(드라마\).md "wikilink")〉의 극장판 작품이다.
 
 ## 개요
 
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink")부터 [후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink") [토요 드라마](https://ko.wikipedia.org/wiki/후지_TV_토요_드라마 "wikilink") 시간대에 방송 된 연속 드라마 〈[SP 경시청 경비부 경호과 제4계](../Page/SP_\(드라마\).md "wikilink")〉의 극장판. 감독은 드라마 판에서도 연출을 맡은 하타노 타카후미가 담당했다. 영화감독으로는 데뷔작이다.
+  - [2007년](../Page/2007년.md "wikilink")부터 [후지 TV](../Page/후지_TV.md "wikilink") [토요 드라마](https://ko.wikipedia.org/wiki/후지_TV_토요_드라마 "wikilink") 시간대에 방송 된 연속 드라마 〈[SP 경시청 경비부 경호과 제4계](../Page/SP_\(드라마\).md "wikilink")〉의 극장판. 감독은 드라마 판에서도 연출을 맡은 하타노 타카후미가 담당했다. 영화감독으로는 데뷔작이다.
 
 <!-- end list -->
 
-  - 본작은 〈야망 편〉, 〈혁명 편〉의 2부작으로 되었고, 연속 드라마에서 남겨진 수수께끼가 밝혀지는 스토리이다. 〈야망 편〉시리즈는 "Episode V", 〈혁명 편〉은 "Episode VI (THE Final Episode)"가 된다. 촬영은 [200년](https://ko.wikipedia.org/wiki/200년 "wikilink") [9월 5일부터](https://ko.wikipedia.org/wiki/9월_5일 "wikilink") 크랭크인하여, 8개월 촬영 끝에 촬영 종료되었다. 4월 19일 제작보고 기자 회견이 도쿄 도내에서 열렸다.
+  - 본작은 〈야망 편〉, 〈혁명 편〉의 2부작으로 되었고, 연속 드라마에서 남겨진 수수께끼가 밝혀지는 스토리이다. 〈야망 편〉시리즈는 "Episode V", 〈혁명 편〉은 "Episode VI (THE Final Episode)"가 된다. 촬영은 [200년](https://ko.wikipedia.org/wiki/200년 "wikilink") [9월 5일부터](../Page/9월_5일.md "wikilink") 크랭크인하여, 8개월 촬영 끝에 촬영 종료되었다. 4월 19일 제작보고 기자 회견이 도쿄 도내에서 열렸다.
 
 <!-- end list -->
 
-  - 〈야망 편〉은 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 전국 394개 스크린에서 개봉되어, [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [10월 30일](https://ko.wikipedia.org/wiki/10월_30일 "wikilink"), [31일의](https://ko.wikipedia.org/wiki/10월_31일 "wikilink") 첫날 2일간으로 흥행수입 5.2억 엔, 관객수는 40만 6288명을 동원해 영화 관객 동원 랭킹 (흥행 통신사 조사)에서 첫 등장 1위를 차지했다. 피아 첫날 만족도 랭킹 (피어 영화 생활 조사)에서도 5위를 차지했다. 개봉 2주차에서도 누계 관객수 124만 9,232명, 흥행수입 15.3억엔을 돌파, 3주차 누계 관객수는 170만명, 흥행수입 20억엔을 돌파하며 3주 연속 흥행순위 1위를 차지하였다. 최종 흥행수입은 36.3억엔으로, [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") 흥행수입 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 방화 9위를 기록했다. 또한, [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [2월 18일](https://ko.wikipedia.org/wiki/2월_18일 "wikilink"), 〈야망 편〉이 제34회 [일본 아카데미상](https://ko.wikipedia.org/wiki/일본_아카데미상 "wikilink") 화제상(작품 부문)을 수상했다.
+  - 〈야망 편〉은 [일본](../Page/일본.md "wikilink")의 전국 394개 스크린에서 개봉되어, [2010년](../Page/2010년.md "wikilink") [10월 30일](../Page/10월_30일.md "wikilink"), [31일의](../Page/10월_31일.md "wikilink") 첫날 2일간으로 흥행수입 5.2억 엔, 관객수는 40만 6288명을 동원해 영화 관객 동원 랭킹 (흥행 통신사 조사)에서 첫 등장 1위를 차지했다. 피아 첫날 만족도 랭킹 (피어 영화 생활 조사)에서도 5위를 차지했다. 개봉 2주차에서도 누계 관객수 124만 9,232명, 흥행수입 15.3억엔을 돌파, 3주차 누계 관객수는 170만명, 흥행수입 20억엔을 돌파하며 3주 연속 흥행순위 1위를 차지하였다. 최종 흥행수입은 36.3억엔으로, [2010년](../Page/2010년.md "wikilink") 흥행수입 [일본](../Page/일본.md "wikilink")의 방화 9위를 기록했다. 또한, [2011년](../Page/2011년.md "wikilink") [2월 18일](../Page/2월_18일.md "wikilink"), 〈야망 편〉이 제34회 [일본 아카데미상](../Page/일본_아카데미상.md "wikilink") 화제상(작품 부문)을 수상했다.
 
 <!-- end list -->
 
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [3월 4일](https://ko.wikipedia.org/wiki/3월_4일 "wikilink") 〈금요 프리 스테이지〉에서, [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [4월 5일에](https://ko.wikipedia.org/wiki/4월_5일 "wikilink") 방송 된 [텔레비전 드라마](https://ko.wikipedia.org/wiki/텔레비전_드라마 "wikilink") 판의 총집편 "Episode IVex. 스페셜 앵콜 특별편"와 "혁명 편"의 메이킹 영상을 합친 재방송이 방송되었다. 또한, [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [3월 5일](https://ko.wikipedia.org/wiki/3월_5일 "wikilink"), 〈토요 프리미엄〉에서 "Episode V 야망 편"의 다이제스트(촬영 모습 등)를 더한 스페셜 드라마 "Pre Episode VI SP 혁명 전날"를 방송되었다.
+  - [2011년](../Page/2011년.md "wikilink") [3월 4일](../Page/3월_4일.md "wikilink") 〈금요 프리 스테이지〉에서, [2008년](../Page/2008년.md "wikilink") [4월 5일에](../Page/4월_5일.md "wikilink") 방송 된 [텔레비전 드라마](../Page/텔레비전_드라마.md "wikilink") 판의 총집편 "Episode IVex. 스페셜 앵콜 특별편"와 "혁명 편"의 메이킹 영상을 합친 재방송이 방송되었다. 또한, [2011년](../Page/2011년.md "wikilink") [3월 5일](../Page/3월_5일.md "wikilink"), 〈토요 프리미엄〉에서 "Episode V 야망 편"의 다이제스트(촬영 모습 등)를 더한 스페셜 드라마 "Pre Episode VI SP 혁명 전날"를 방송되었다.
 
 <!-- end list -->
 
-  - 〈혁명 편〉은 [동일본 대지진의](https://ko.wikipedia.org/wiki/2011년_도호쿠_지방_태평양_해역_지진 "wikilink") 영향으로 동일본을 중심으로 휴관이나 상영 시간의 단축을 강요한 가운데 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [3월 12일](https://ko.wikipedia.org/wiki/3월_12일 "wikilink"), [13일](https://ko.wikipedia.org/wiki/3월_13일 "wikilink") 첫날 2일간으로 흥행수입은 3억엔으로(추정), 관객 동원 랭킹 (흥행 통신사 조사)에서 첫 등장 1위를 차지했다. 또한 첫날 무대 인사에도 영향을 받아 연기가 되었다. 하지만 지진의 영향에도 개봉 3주차 16일에는 누계 관객수 119만 6,013명, 누계 흥행수입 15.9억엔을 돌파하여 3주 연속 1위를 차지했다. [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [1월](https://ko.wikipedia.org/wiki/1월 "wikilink") 발표한 총 흥행수입은 33.3억엔. 〈야망 편〉, 〈혁명 편〉의 2작품으로 총 70억엔을 달성한 대히트를 기록했다.
+  - 〈혁명 편〉은 [동일본 대지진의](https://ko.wikipedia.org/wiki/2011년_도호쿠_지방_태평양_해역_지진 "wikilink") 영향으로 동일본을 중심으로 휴관이나 상영 시간의 단축을 강요한 가운데 [2011년](../Page/2011년.md "wikilink") [3월 12일](../Page/3월_12일.md "wikilink"), [13일](../Page/3월_13일.md "wikilink") 첫날 2일간으로 흥행수입은 3억엔으로(추정), 관객 동원 랭킹 (흥행 통신사 조사)에서 첫 등장 1위를 차지했다. 또한 첫날 무대 인사에도 영향을 받아 연기가 되었다. 하지만 지진의 영향에도 개봉 3주차 16일에는 누계 관객수 119만 6,013명, 누계 흥행수입 15.9억엔을 돌파하여 3주 연속 1위를 차지했다. [2012년](../Page/2012년.md "wikilink") [1월](../Page/1월.md "wikilink") 발표한 총 흥행수입은 33.3억엔. 〈야망 편〉, 〈혁명 편〉의 2작품으로 총 70억엔을 달성한 대히트를 기록했다.
 
 [캐치프레이즈](https://ko.wikipedia.org/wiki/캐치프레이즈 "wikilink")는 〈**"액션을 일으키다", "충돌하는 두 운명"**("야망 편")〉, 〈**"마지막 임무 -이 나라를 경호하라." "운명의 최종장."**("혁명 편").〉
 
@@ -29,8 +29,8 @@
 
 ### 경시청 경비부 경호과 제4계 기동 경호반
 
-  - **이노우에 가오루** (경호과 제4계 기동 경호반 대원·경사) - [오카다 준이치](https://ko.wikipedia.org/wiki/오카다_준이치 "wikilink") / 20년 전 : [나카시마 카이토](https://ko.wikipedia.org/wiki/나카시마_카이토 "wikilink")
-  - **오가타 소이치로** (경호과 제4계 기동 경호반 대원·계장) - [츠츠미 신이치](https://ko.wikipedia.org/wiki/츠츠미_신이치 "wikilink") / 20년 전 : [나카이 사와료](https://ko.wikipedia.org/wiki/나카이_사와료 "wikilink")
+  - **이노우에 가오루** (경호과 제4계 기동 경호반 대원·경사) - [오카다 준이치](../Page/오카다_준이치.md "wikilink") / 20년 전 : [나카시마 카이토](https://ko.wikipedia.org/wiki/나카시마_카이토 "wikilink")
+  - **오가타 소이치로** (경호과 제4계 기동 경호반 대원·계장) - [츠츠미 신이치](../Page/츠츠미_신이치.md "wikilink") / 20년 전 : [나카이 사와료](https://ko.wikipedia.org/wiki/나카이_사와료 "wikilink")
   - **사사모토 에리** (경호과 제4계 기동 경호반 대원·경사) - [마키 요코](../Page/마키_요코.md "wikilink")
   - **야마모토 타카후미** (경호과 제4계 기동 경호반 대원·경사) - [마츠오 사토루](https://ko.wikipedia.org/wiki/마츠오_사토루 "wikilink")
   - **이시다 미츠오** (경호과 제4계 기동 경호반 대원·경위) - [카미오 유우](https://ko.wikipedia.org/wiki/카미오_유우 "wikilink")
@@ -153,7 +153,7 @@
   - 편집 - 호가키 준노스케
   - 사운드 디자인 - 톰 마이어
   - 액션 감독 - 오우치 타카히토
-  - 제작 - "SP" 프로젝트 팀 ([후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink"), [제이스톰](https://ko.wikipedia.org/wiki/제이스톰 "wikilink"), [도호](../Page/도호.md "wikilink"), ROBOT, FNS27 사)
+  - 제작 - "SP" 프로젝트 팀 ([후지 TV](../Page/후지_TV.md "wikilink"), [제이스톰](https://ko.wikipedia.org/wiki/제이스톰 "wikilink"), [도호](../Page/도호.md "wikilink"), ROBOT, FNS27 사)
   - 제작 프로덕션 - FILM
   - 배급 - [도호](../Page/도호.md "wikilink")
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KBS W](https://ko.wikipedia.org/wiki/KBS_W).
 
 
-**KBS W**()는 [KBS N의](https://ko.wikipedia.org/wiki/KBS_N "wikilink") [여성](../Page/여성.md "wikilink") 전문 [텔레비전](https://ko.wikipedia.org/wiki/텔레비전 "wikilink") [채널로](https://ko.wikipedia.org/wiki/채널_\(통신\) "wikilink"), [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [1월 1일에](https://ko.wikipedia.org/wiki/1월_1일 "wikilink") 개국하였다.
+**KBS W**()는 [KBS N의](https://ko.wikipedia.org/wiki/KBS_N "wikilink") [여성](../Page/여성.md "wikilink") 전문 [텔레비전](../Page/텔레비전.md "wikilink") [채널로](https://ko.wikipedia.org/wiki/채널_\(통신\) "wikilink"), [2013년](../Page/2013년.md "wikilink") [1월 1일에](../Page/1월_1일.md "wikilink") 개국하였다.
 
 ## 채널 번호
 
@@ -16,12 +16,12 @@
 
 ## 역사
 
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [1월 1일](https://ko.wikipedia.org/wiki/1월_1일 "wikilink") **KBS W**로 채널 변경 개국
+  - [2013년](../Page/2013년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") **KBS W**로 채널 변경 개국
 
 ## 연혁
 
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [4월 22일](https://ko.wikipedia.org/wiki/4월_22일 "wikilink") : [방송통신위원회로부터](../Page/대한민국_방송통신위원회.md "wikilink") [방송채널 사용사업](https://ko.wikipedia.org/wiki/대한민국_방송법 "wikilink") 등록을 승인받음\[1\].
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [1월 1일](https://ko.wikipedia.org/wiki/1월_1일 "wikilink") : 개국\[2\].
+  - [2011년](../Page/2011년.md "wikilink") [4월 22일](../Page/4월_22일.md "wikilink") : [방송통신위원회로부터](../Page/대한민국_방송통신위원회.md "wikilink") [방송채널 사용사업](https://ko.wikipedia.org/wiki/대한민국_방송법 "wikilink") 등록을 승인받음\[1\].
+  - [2013년](../Page/2013년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") : 개국\[2\].
 
 ## 프로그램
 
@@ -32,16 +32,16 @@
   - [내 딸 서영이](https://ko.wikipedia.org/wiki/내_딸_서영이 "wikilink")
   - [전우치](../Page/전우치_\(드라마\).md "wikilink")
   - [KBS 드라마 스페셜](https://ko.wikipedia.org/wiki/KBS_드라마_스페셜 "wikilink")
-  - [부부클리닉 사랑과 전쟁](https://ko.wikipedia.org/wiki/부부클리닉_사랑과_전쟁 "wikilink")
+  - [부부클리닉 사랑과 전쟁](../Page/부부클리닉_사랑과_전쟁.md "wikilink")
   - [학교 2013](https://ko.wikipedia.org/wiki/학교_2013 "wikilink")
   - [매리는 외박중](../Page/매리는_외박중_\(드라마\).md "wikilink")
   - [공주의 남자](../Page/공주의_남자.md "wikilink")
   - [동안미녀](../Page/동안미녀.md "wikilink")
   - [울랄라 부부](../Page/울랄라_부부.md "wikilink")
-  - [성균관 스캔들](https://ko.wikipedia.org/wiki/성균관_스캔들 "wikilink")
+  - [성균관 스캔들](../Page/성균관_스캔들.md "wikilink")
   - [꽃보다 남자](../Page/꽃보다_남자_\(대한민국의_드라마\).md "wikilink")
   - [넝쿨째 굴러온 당신](../Page/넝쿨째_굴러온_당신.md "wikilink")
-  - [부부클리닉 사랑과 전쟁 2](https://ko.wikipedia.org/wiki/부부클리닉_사랑과_전쟁 "wikilink")
+  - [부부클리닉 사랑과 전쟁 2](../Page/부부클리닉_사랑과_전쟁.md "wikilink")
   - [세상 어디에도 없는 착한 남자](https://ko.wikipedia.org/wiki/세상_어디에도_없는_착한_남자 "wikilink")
   - [달자의 봄](../Page/달자의_봄.md "wikilink")
   - 당찬 우리동네
@@ -49,7 +49,7 @@
   - [힘내요 미스터 김](../Page/힘내요_미스터_김.md "wikilink")
   - [로맨스 타운](../Page/로맨스_타운.md "wikilink")
   - [직장의 신](https://ko.wikipedia.org/wiki/직장의_신 "wikilink")
-  - [제빵왕 김탁구](https://ko.wikipedia.org/wiki/제빵왕_김탁구 "wikilink")
+  - [제빵왕 김탁구](../Page/제빵왕_김탁구.md "wikilink")
   - [천명 - 조선판 도망자 이야기](https://ko.wikipedia.org/wiki/천명_-_조선판_도망자_이야기 "wikilink")
   - [지성이면 감천](../Page/지성이면_감천.md "wikilink")
   - [웃어라 동해야](../Page/웃어라_동해야.md "wikilink")
@@ -84,13 +84,13 @@
   - 정은아의 성공노트 아이앰
   - [이소라의 두 번째 프로포즈](../Page/이소라의_두_번째_프로포즈.md "wikilink")
   - [세대공감 토요일](../Page/세대공감_토요일.md "wikilink")
-  - [여유만만](https://ko.wikipedia.org/wiki/여유만만 "wikilink")
-  - [김승우의 승승장구](https://ko.wikipedia.org/wiki/김승우의_승승장구 "wikilink")
+  - [여유만만](../Page/여유만만.md "wikilink")
+  - [김승우의 승승장구](../Page/김승우의_승승장구.md "wikilink")
   - [개그콘서트](https://ko.wikipedia.org/wiki/개그콘서트 "wikilink")
   - [불후의 명곡 2 - 전설을 노래하다](https://ko.wikipedia.org/wiki/불후의_명곡_전설을_노래하다 "wikilink")
   - [대국민 토크쇼 안녕하세요](../Page/대국민_토크쇼_안녕하세요.md "wikilink")
   - [보이프렌드의 헬로 베이비](https://ko.wikipedia.org/wiki/헬로_베이비 "wikilink")
-  - [샤이니의 헬로 베이비](https://ko.wikipedia.org/wiki/샤이니의_헬로_베이비 "wikilink")
+  - [샤이니의 헬로 베이비](../Page/샤이니의_헬로_베이비.md "wikilink")
   - [해피 투게더 3](../Page/해피투게더_\(텔레비전_프로그램\).md "wikilink")
   - [연예가 중계](https://ko.wikipedia.org/wiki/연예가_중계 "wikilink")
   - [1 대 100](../Page/1_대_100.md "wikilink")
@@ -108,14 +108,14 @@
 
   - 빨간핸드백
   - 나는 야구선수와 결혼했다
-  - [비타민](https://ko.wikipedia.org/wiki/비타민_\(텔레비전_프로그램\) "wikilink")
-  - [도전\! 골든벨](https://ko.wikipedia.org/wiki/도전!_골든벨 "wikilink")
+  - [비타민](../Page/비타민_\(텔레비전_프로그램\).md "wikilink")
+  - [도전\! 골든벨](../Page/도전!_골든벨.md "wikilink")
   - [스카우트](../Page/스카우트_\(텔레비전_프로그램\).md "wikilink")
   - [그녀들의 여유만만](../Page/그녀들의_여유만만.md "wikilink")
-  - [무엇이든 물어보세요](https://ko.wikipedia.org/wiki/무엇이든_물어보세요 "wikilink")
-  - [2TV 생생정보](https://ko.wikipedia.org/wiki/2TV_생생정보 "wikilink")
+  - [무엇이든 물어보세요](../Page/무엇이든_물어보세요.md "wikilink")
+  - [2TV 생생정보](../Page/2TV_생생정보.md "wikilink")
   - [서가식당](../Page/서가식당.md "wikilink")
-  - [다큐공감](https://ko.wikipedia.org/wiki/다큐공감 "wikilink")
+  - [다큐공감](../Page/다큐공감.md "wikilink")
   - [VJ특공대](../Page/VJ특공대.md "wikilink")
   - [위기탈출 넘버원](../Page/위기탈출_넘버원.md "wikilink")
   - [의뢰인 K](../Page/의뢰인_K.md "wikilink")
@@ -125,7 +125,7 @@
 
 ### 어린이
 
-  - [누가누가 잘하나](https://ko.wikipedia.org/wiki/누가누가_잘하나 "wikilink")
+  - [누가누가 잘하나](../Page/누가누가_잘하나.md "wikilink")
   - [TV 유치원](https://ko.wikipedia.org/wiki/TV_유치원 "wikilink")
 
 ### 스포츠

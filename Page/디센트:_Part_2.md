@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [: Part 2](https://ko.wikipedia.org/wiki/:_Part_2).
 
 
-**디센트: Part 2**(The Descent Part 2)는 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") 개봉한 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 공포 영화이다.
+**디센트: Part 2**(The Descent Part 2)는 [2009년](../Page/2009년.md "wikilink") 개봉한 [영국](../Page/영국.md "wikilink")의 공포 영화이다.
 
 ## 줄거리
 

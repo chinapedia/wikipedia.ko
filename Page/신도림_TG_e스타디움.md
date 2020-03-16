@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ TG e](https://ko.wikipedia.org/wiki/_TG_e).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Intel_e-studiem.jpg "wikilink") **신도림 TG e스타디움**은 [게임동아](https://ko.wikipedia.org/wiki/게임동아 "wikilink")와 [인텔](https://ko.wikipedia.org/wiki/인텔 "wikilink")코리아, [TG삼보의](https://ko.wikipedia.org/wiki/TG삼보컴퓨터 "wikilink") 제휴로 건립한 e스포츠 경기장이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Intel_e-studiem.jpg "wikilink") **신도림 TG e스타디움**은 [게임동아](https://ko.wikipedia.org/wiki/게임동아 "wikilink")와 [인텔](../Page/인텔.md "wikilink")코리아, [TG삼보의](https://ko.wikipedia.org/wiki/TG삼보컴퓨터 "wikilink") 제휴로 건립한 e스포츠 경기장이다.
 
 서울시 구로구 신도림 [테크노마트](../Page/테크노마트.md "wikilink") 3층에 위치하고 있다. 이곳에서는 [SPOTV](https://ko.wikipedia.org/wiki/SPO_TV "wikilink") 주관의 [프로리그가](../Page/스타크래프트_프로리그.md "wikilink") 열리기도 했으며, [글로벌 스타크래프트 II 리그](https://ko.wikipedia.org/wiki/글로벌_스타크래프트_II_리그 "wikilink") 예선, [스타리그](https://ko.wikipedia.org/wiki/스타리그 "wikilink")의 예선이 열린다.
 
@@ -9,13 +9,13 @@
 
 ## 개요
 
-[2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [5월 15일](https://ko.wikipedia.org/wiki/5월_15일 "wikilink") 게임동아가 용산 전자랜드, 인텔코리아, TG삼보와의 협력으로 용산 전자랜드 인텔 e-스타디움을 구축했다.
+[2007년](../Page/2007년.md "wikilink") [5월 15일](../Page/5월_15일.md "wikilink") 게임동아가 용산 전자랜드, 인텔코리아, TG삼보와의 협력으로 용산 전자랜드 인텔 e-스타디움을 구축했다.
 
-[2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink") 경기장을 신도림 테크노마트 7층으로 확장 이전하였다.
+[2009년](../Page/2009년.md "wikilink") [4월](../Page/4월.md "wikilink") 경기장을 신도림 테크노마트 7층으로 확장 이전하였다.
 
-[2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") 경기장을 신도림 테크노 마트 7층에서 3층으로 이전했다.
+[2011년](../Page/2011년.md "wikilink") 경기장을 신도림 테크노 마트 7층에서 3층으로 이전했다.
 
-[2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") 경기장 명칭이 신도림 인텔 e스타디움에서 **신도림 TG e스타디움**으로 소폭 변경되었다.
+[2014년](../Page/2014년.md "wikilink") 경기장 명칭이 신도림 인텔 e스타디움에서 **신도림 TG e스타디움**으로 소폭 변경되었다.
 
 ## 시설
 
@@ -61,9 +61,9 @@
 
 ## 역대 TG e스타디움 장소
 
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") \~ [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") : 용산 [전자랜드](https://ko.wikipedia.org/wiki/전자랜드 "wikilink") 신관 광장층
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") \~ [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") : 신도림 [테크노마트](../Page/테크노마트.md "wikilink") 7층
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") \~ 현재 : 신도림 [테크노마트](../Page/테크노마트.md "wikilink") 3층
+  - [2007년](../Page/2007년.md "wikilink") \~ [2009년](../Page/2009년.md "wikilink") : 용산 [전자랜드](https://ko.wikipedia.org/wiki/전자랜드 "wikilink") 신관 광장층
+  - [2009년](../Page/2009년.md "wikilink") \~ [2011년](../Page/2011년.md "wikilink") : 신도림 [테크노마트](../Page/테크노마트.md "wikilink") 7층
+  - [2011년](../Page/2011년.md "wikilink") \~ 현재 : 신도림 [테크노마트](../Page/테크노마트.md "wikilink") 3층
 
 ## 외부 링크
 

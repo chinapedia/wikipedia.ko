@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Au \( \)](https://ko.wikipedia.org/wiki/Au_\(_\)).
 
 
-**Au 파일 포맷**은 [선 마이크로시스템즈이](https://ko.wikipedia.org/wiki/선_마이크로시스템즈 "wikilink") 개발한 [오디오 파일 포맷이다](../Page/오디오_파일_포맷.md "wikilink"). Au 포맷은 [NeXT](../Page/NeXT.md "wikilink") 시스템과 초기 웹페이지에서 널리 사용되었다. 원래 헤더 파일이 없었으며 8000 Hz의 [샘플링 레이트에](https://ko.wikipedia.org/wiki/샘플링_레이트 "wikilink") 8비트 [µ-law방식으로](https://ko.wikipedia.org/wiki/뮤_법칙_알고리즘 "wikilink") 인코딩되었으나, 다른 기업들의 하드웨어에서 비디오 신호의 정수 요소로서 8192 Hz의 샘플링 레이트를 사용하기 시작했다. 현재 사용되는 파일들은 여섯 [unsigned](https://ko.wikipedia.org/wiki/unsigned "wikilink") 32비트로 작성된 헤더 파일을 가진다.
+**Au 파일 포맷**은 [선 마이크로시스템즈이](https://ko.wikipedia.org/wiki/선_마이크로시스템즈 "wikilink") 개발한 [오디오 파일 포맷이다](../Page/오디오_파일_포맷.md "wikilink"). Au 포맷은 [NeXT](../Page/NeXT.md "wikilink") 시스템과 초기 웹페이지에서 널리 사용되었다. 원래 헤더 파일이 없었으며 8000 Hz의 [샘플링 레이트에](../Page/샘플링_레이트.md "wikilink") 8비트 [µ-law방식으로](https://ko.wikipedia.org/wiki/뮤_법칙_알고리즘 "wikilink") 인코딩되었으나, 다른 기업들의 하드웨어에서 비디오 신호의 정수 요소로서 8192 Hz의 샘플링 레이트를 사용하기 시작했다. 현재 사용되는 파일들은 여섯 [unsigned](https://ko.wikipedia.org/wiki/unsigned "wikilink") 32비트로 작성된 헤더 파일을 가진다.
 
-이 포맷은 현재 다양한 [오디오 인코딩](https://ko.wikipedia.org/wiki/디지털_오디오 "wikilink") 포맷을 지원하지만 [µ-law](https://ko.wikipedia.org/wiki/뮤_법칙_알고리즘 "wikilink") 로그 부호화와 관련이 있다. 이 부호화는, [썬OS](https://ko.wikipedia.org/wiki/썬OS "wikilink")가 /dev/audio 인터페이스를 통해 이 부호화를 응용 프로그램에 노출시키던 [SPARCstation 1](https://ko.wikipedia.org/wiki/SPARCstation_1 "wikilink") 하드웨어에서 유래되었다. 이 부호화와 인터페이스는 [유닉스](https://ko.wikipedia.org/wiki/유닉스 "wikilink") 운영체제 소리의 [데 팍토](https://ko.wikipedia.org/wiki/데_팍토 "wikilink") 표준이 되었다.
+이 포맷은 현재 다양한 [오디오 인코딩](https://ko.wikipedia.org/wiki/디지털_오디오 "wikilink") 포맷을 지원하지만 [µ-law](https://ko.wikipedia.org/wiki/뮤_법칙_알고리즘 "wikilink") 로그 부호화와 관련이 있다. 이 부호화는, [썬OS](../Page/썬OS.md "wikilink")가 /dev/audio 인터페이스를 통해 이 부호화를 응용 프로그램에 노출시키던 [SPARCstation 1](https://ko.wikipedia.org/wiki/SPARCstation_1 "wikilink") 하드웨어에서 유래되었다. 이 부호화와 인터페이스는 [유닉스](../Page/유닉스.md "wikilink") 운영체제 소리의 [데 팍토](https://ko.wikipedia.org/wiki/데_팍토 "wikilink") 표준이 되었다.
 
 ## 새 포맷
 
@@ -16,7 +16,7 @@
 <tr class="header">
 <th><p>32 비트 워드 (unsigned)</p></th>
 <th><p>필드</p></th>
-<th><p>설명/내용 <a href="https://ko.wikipedia.org/wiki/C_(프로그래밍_언어)" title="wikilink">C</a> 주석 내의 <a href="https://ko.wikipedia.org/wiki/16진법" title="wikilink">16진수</a> |- valign = top</p></th>
+<th><p>설명/내용 <a href="../Page/C_(프로그래밍_언어).md" title="wikilink">C</a> 주석 내의 <a href="https://ko.wikipedia.org/wiki/16진법" title="wikilink">16진수</a> |- valign = top</p></th>
 <th><p>0</p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/마법의_숫자(프로그래밍)" title="wikilink">마법의 숫자</a></p></th>
 <th><p>값 <code>0x2e736e64</code> ( ASCII 네 문자 ".snd") |- valign = top</p></th>
@@ -30,7 +30,7 @@
 <th><p>인코딩</p></th>
 <th><p>데이터 인코딩 포맷:</p>
 <ul>
-<li>1 = 8-bit <a href="https://ko.wikipedia.org/wiki/G.711" title="wikilink">G.711</a> <a href="https://ko.wikipedia.org/wiki/mu-law_알고리즘" title="wikilink">µ-law</a></li>
+<li>1 = 8-bit <a href="../Page/G.711.md" title="wikilink">G.711</a> <a href="https://ko.wikipedia.org/wiki/mu-law_알고리즘" title="wikilink">µ-law</a></li>
 <li>2 = 8-bit 선형 <a href="../Page/펄스_부호_변조.md" title="wikilink">PCM</a></li>
 <li>3 = 16-bit 선형 <a href="../Page/펄스_부호_변조.md" title="wikilink">PCM</a></li>
 <li>4 = 24-bit 선형 <a href="../Page/펄스_부호_변조.md" title="wikilink">PCM</a></li>
@@ -47,11 +47,11 @@
 <li>19 = 16 비트 linear compressed</li>
 <li>20 = 16 비트 linear with emphasis and compression</li>
 <li>21 = Music kit DSP commands</li>
-<li>23 = 4 비트 ISDN <a href="https://ko.wikipedia.org/wiki/mu-law_알고리즘" title="wikilink">u-law</a> compressed using the <a href="https://ko.wikipedia.org/wiki/G.726" title="wikilink">ITU-T G.721</a> <a href="https://ko.wikipedia.org/wiki/ADPCM" title="wikilink">ADPCM</a> 음성 데이터 인코딩 스킴</li>
+<li>23 = 4 비트 ISDN <a href="https://ko.wikipedia.org/wiki/mu-law_알고리즘" title="wikilink">u-law</a> compressed using the <a href="../Page/G.726.md" title="wikilink">ITU-T G.721</a> <a href="https://ko.wikipedia.org/wiki/ADPCM" title="wikilink">ADPCM</a> 음성 데이터 인코딩 스킴</li>
 <li>24 = <a href="https://ko.wikipedia.org/wiki/G.722" title="wikilink">ITU-T G.722</a> <a href="https://ko.wikipedia.org/wiki/ADPCM" title="wikilink">ADPCM</a></li>
 <li>25 = <a href="https://ko.wikipedia.org/wiki/G.723" title="wikilink">ITU-T G.723</a> 3-bit <a href="https://ko.wikipedia.org/wiki/ADPCM" title="wikilink">ADPCM</a></li>
 <li>26 = <a href="https://ko.wikipedia.org/wiki/G.723" title="wikilink">ITU-T G.723</a> 5-bit <a href="https://ko.wikipedia.org/wiki/ADPCM" title="wikilink">ADPCM</a></li>
-<li>27 = 8-bit <a href="https://ko.wikipedia.org/wiki/G.711" title="wikilink">G.711</a> <a href="https://ko.wikipedia.org/wiki/A-law_알고리즘" title="wikilink">A-law</a></li>
+<li>27 = 8-bit <a href="../Page/G.711.md" title="wikilink">G.711</a> <a href="https://ko.wikipedia.org/wiki/A-law_알고리즘" title="wikilink">A-law</a></li>
 </ul>
 <p>|- valign = top</p></th>
 <th><p>4</p></th>

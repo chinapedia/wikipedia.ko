@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JCN ](https://ko.wikipedia.org/wiki/JCN_).
 
 
-**JCN 울산중앙방송**은 [울산광역시](https://ko.wikipedia.org/wiki/울산광역시 "wikilink")의 유일한 SO 방송국으로 이전에는 라이벌 케이블 SO사인 [구 GS울산방송과도](https://ko.wikipedia.org/wiki/C&M "wikilink") 경쟁 관계가 깊은 채널이기도 한다. [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [11월 25일](https://ko.wikipedia.org/wiki/11월_25일 "wikilink") 케이블TV 방송국 사옥 준공과 동시에 개국하였으며, [2012년 7월](https://ko.wikipedia.org/wiki/2012년_7월 "wikilink") [C\&M 울산 케이블TV를](https://ko.wikipedia.org/wiki/C&M "wikilink") 인수, 합병하였다.
+**JCN 울산중앙방송**은 [울산광역시](https://ko.wikipedia.org/wiki/울산광역시 "wikilink")의 유일한 SO 방송국으로 이전에는 라이벌 케이블 SO사인 [구 GS울산방송과도](https://ko.wikipedia.org/wiki/C&M "wikilink") 경쟁 관계가 깊은 채널이기도 한다. [2003년](../Page/2003년.md "wikilink") [11월 25일](../Page/11월_25일.md "wikilink") 케이블TV 방송국 사옥 준공과 동시에 개국하였으며, [2012년 7월](../Page/2012년_7월.md "wikilink") [C\&M 울산 케이블TV를](https://ko.wikipedia.org/wiki/C&M "wikilink") 인수, 합병하였다.
 
 ## 연혁
 
@@ -34,22 +34,22 @@
   - 2010년 6월 울산 전지역 초고속 인터넷 3.0 서비스(100M급) 개시
   - 2010년 12월 디지털방송 가입자 3만세대 돌파
   - 2011년 5월 지역채널(CH15) HD 디지털방송 시스템 구축
-  - 2012년 7월 C\&M(현 [딜라이브](https://ko.wikipedia.org/wiki/딜라이브 "wikilink")) 계열 울산케이블TV 인수
+  - 2012년 7월 C\&M(현 [딜라이브](../Page/딜라이브.md "wikilink")) 계열 울산케이블TV 인수
   - 2013년 1월 지역채널 22번 변경
   - 2014년 1월 JCN알뜰폰 사업 시작
   - 2015년 7월 14일 지역채널 5번 변경
 
 ## 사옥 현황
 
-  - 달동 사옥: [울산광역시](https://ko.wikipedia.org/wiki/울산광역시 "wikilink") [남구](https://ko.wikipedia.org/wiki/남구_\(울산광역시\) "wikilink") 신정로 76
-  - 신정동 사옥: [울산광역시](https://ko.wikipedia.org/wiki/울산광역시 "wikilink") [남구](https://ko.wikipedia.org/wiki/남구_\(울산광역시\) "wikilink") 돋질로 39
+  - 달동 사옥: [울산광역시](https://ko.wikipedia.org/wiki/울산광역시 "wikilink") [남구](../Page/남구_\(울산광역시\).md "wikilink") 신정로 76
+  - 신정동 사옥: [울산광역시](https://ko.wikipedia.org/wiki/울산광역시 "wikilink") [남구](../Page/남구_\(울산광역시\).md "wikilink") 돋질로 39
 
 ## 같이 보기
 
-  - [딜라이브](https://ko.wikipedia.org/wiki/딜라이브 "wikilink")
+  - [딜라이브](../Page/딜라이브.md "wikilink")
 
 ## 외부 링크
 
   - [JCN 울산중앙방송](http://www.jcntv.co.kr/)
 
-[분류:대한민국의 종합유선방송사업자](https://ko.wikipedia.org/wiki/분류:대한민국의_종합유선방송사업자 "wikilink") [분류:울산광역시의 대중 매체](https://ko.wikipedia.org/wiki/분류:울산광역시의_대중_매체 "wikilink") [분류:2000년 설립](https://ko.wikipedia.org/wiki/분류:2000년_설립 "wikilink") [분류:2003년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2003년_설립된_텔레비전_방송국과_채널 "wikilink")
+[분류:대한민국의 종합유선방송사업자](https://ko.wikipedia.org/wiki/분류:대한민국의_종합유선방송사업자 "wikilink") [분류:울산광역시의 대중 매체](../Page/분류:울산광역시의_대중_매체.md "wikilink") [분류:2000년 설립](https://ko.wikipedia.org/wiki/분류:2000년_설립 "wikilink") [분류:2003년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2003년_설립된_텔레비전_방송국과_채널 "wikilink")

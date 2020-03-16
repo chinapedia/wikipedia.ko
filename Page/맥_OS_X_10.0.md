@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [ OS X 10.0](https://ko.wikipedia.org/wiki/_OS_X_10.0).
 
 
-**맥 OS X 버전 10.0 치타**(Mac OS X v10.0 Cheetah)는 [맥 OS X의](https://ko.wikipedia.org/wiki/맥_OS_X "wikilink") 최초 주요 릴리즈로서, [애플의](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 데스크톱 및 서버 [운영 체제이다](https://ko.wikipedia.org/wiki/운영_체제 "wikilink").
+**맥 OS X 버전 10.0 치타**(Mac OS X v10.0 Cheetah)는 [맥 OS X의](https://ko.wikipedia.org/wiki/맥_OS_X "wikilink") 최초 주요 릴리즈로서, [애플의](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 데스크톱 및 서버 [운영 체제이다](../Page/운영_체제.md "wikilink").
 
 ## 시스템 요구 사항
 
 맥 OS X v10.0에 대한 시스템 요구 사항은 매킨토시 커뮤니티에 의해 수신되지는 않았다. 당시 매킨토시 컴퓨터의 표준 메모리(RAM) 양은 64 [메가바이트](../Page/메가바이트.md "wikilink")(MB)였으나 맥 OS X v10.0 요구 사항은 128 RAM으로 알려져 있다.
 
-  - **지원 컴퓨터:** [파워 매킨토시 G3](https://ko.wikipedia.org/wiki/파워_매킨토시_G3 "wikilink"), [G3 B\&W](https://ko.wikipedia.org/wiki/파워_매킨토시_G3_\(블루_앤드_화이트\) "wikilink"), [G4](https://ko.wikipedia.org/wiki/파워_매킨토시_G4 "wikilink"), [G4 큐브](https://ko.wikipedia.org/wiki/파워_맥_G4_큐브 "wikilink"), [아이맥](https://ko.wikipedia.org/wiki/아이맥 "wikilink"), [파워북 G3](https://ko.wikipedia.org/wiki/파워북_G3 "wikilink"), [파워북 G4](https://ko.wikipedia.org/wiki/파워북_G4 "wikilink"), [아이북](https://ko.wikipedia.org/wiki/아이북 "wikilink").
+  - **지원 컴퓨터:** [파워 매킨토시 G3](https://ko.wikipedia.org/wiki/파워_매킨토시_G3 "wikilink"), [G3 B\&W](https://ko.wikipedia.org/wiki/파워_매킨토시_G3_\(블루_앤드_화이트\) "wikilink"), [G4](https://ko.wikipedia.org/wiki/파워_매킨토시_G4 "wikilink"), [G4 큐브](https://ko.wikipedia.org/wiki/파워_맥_G4_큐브 "wikilink"), [아이맥](../Page/아이맥.md "wikilink"), [파워북 G3](https://ko.wikipedia.org/wiki/파워북_G3 "wikilink"), [파워북 G4](https://ko.wikipedia.org/wiki/파워북_G4 "wikilink"), [아이북](../Page/아이북.md "wikilink").
   - **요구되는 메모리(RAM):**
       - 128 MB (비공식적으로 최소 64MB)
   - **하드 드라이브 공간:** 1.5 [기가바이트](https://ko.wikipedia.org/wiki/기가바이트 "wikilink") (GB)

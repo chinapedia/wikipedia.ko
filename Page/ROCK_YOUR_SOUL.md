@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ROCK YOUR SOUL](https://ko.wikipedia.org/wiki/ROCK_YOUR_SOUL).
 
 
-〈**ROCK YOUR SOUL**〉은 [V6의](https://ko.wikipedia.org/wiki/V6_\(음악_그룹\) "wikilink") 41번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
+〈**ROCK YOUR SOUL**〉은 [V6의](../Page/V6_\(음악_그룹\).md "wikilink") 41번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 

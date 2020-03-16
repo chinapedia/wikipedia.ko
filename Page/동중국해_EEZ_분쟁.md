@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ EEZ ](https://ko.wikipedia.org/wiki/_EEZ_).
 
 
-**동중국해 EEZ 분쟁**(東中國海 排他的經濟水域 紛爭, )은 [동중국해](https://ko.wikipedia.org/wiki/동중국해 "wikilink")의 [배타적 경제 수역](https://ko.wikipedia.org/wiki/배타적_경제_수역 "wikilink") 획정과 관련한 한국, 중국, 일본의 국경선 획정 분쟁이다. 동중국해에는 막대한 천연가스와 석유가 매장되어 있다고 알려져 있어서, 한중일 삼국의 영해분쟁이 치열하다.
+**동중국해 EEZ 분쟁**(東中國海 排他的經濟水域 紛爭, )은 [동중국해](../Page/동중국해.md "wikilink")의 [배타적 경제 수역](../Page/배타적_경제_수역.md "wikilink") 획정과 관련한 한국, 중국, 일본의 국경선 획정 분쟁이다. 동중국해에는 막대한 천연가스와 석유가 매장되어 있다고 알려져 있어서, 한중일 삼국의 영해분쟁이 치열하다.
 
 ## 연표
 
@@ -15,10 +15,10 @@
 ## 같이 보기
 
   - [유엔 해양법](https://ko.wikipedia.org/wiki/유엔_해양법 "wikilink")
-  - [센카쿠 열도](https://ko.wikipedia.org/wiki/센카쿠_열도 "wikilink")(댜오위다오) - 일본의 실효적 지배
+  - [센카쿠 열도](../Page/센카쿠_열도.md "wikilink")(댜오위다오) - 일본의 실효적 지배
   - [한일공동개발구역](../Page/한일공동개발구역.md "wikilink")(JDZ, 7광구)
   - [춘샤오 가스전](../Page/춘샤오_가스전.md "wikilink") - 중국 2006년 천연가스 생산 시작
-  - [이어도](https://ko.wikipedia.org/wiki/이어도 "wikilink") - 대한민국의 실효적 지배
+  - [이어도](../Page/이어도.md "wikilink") - 대한민국의 실효적 지배
   - [방공 식별 구역](../Page/방공_식별_구역.md "wikilink")(ADIZ)
   - [비행 정보 구역](https://ko.wikipedia.org/wiki/비행_정보_구역 "wikilink")(FIR)
   - [방공 식별 구역 (동중국해)](https://ko.wikipedia.org/wiki/방공_식별_구역_\(동중국해\) "wikilink")([:en:Air Defense Identification Zone (East China Sea)](https://ko.wikipedia.org/wiki/:en:Air_Defense_Identification_Zone_\(East_China_Sea\) "wikilink"))

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [First9](https://ko.wikipedia.org/wiki/First9).
 
 
-**first9**(퍼스트 나인)은 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink")[3월21일](https://ko.wikipedia.org/wiki/3월21일 "wikilink")에 발매된 [9nine](../Page/9nine.md "wikilink")의 첫 앨범이다.
+**first9**(퍼스트 나인)은 [2007년](../Page/2007년.md "wikilink")[3월21일](https://ko.wikipedia.org/wiki/3월21일 "wikilink")에 발매된 [9nine](../Page/9nine.md "wikilink")의 첫 앨범이다.
 
 ## 수록곡
 

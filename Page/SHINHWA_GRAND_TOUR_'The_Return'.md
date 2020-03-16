@@ -11,11 +11,11 @@
 
 ### 신혜성의 부상
 
-평소 무릎이 약하기로 알려져 있는 [신혜성](https://ko.wikipedia.org/wiki/신혜성 "wikilink")이 서울에서의 2일차 공연의 앙코르 무대에서 'Yo\!'를 부르기 위해 펌핑을 타고 무대에 등장하다가 평소 좋지 않았던 무릎 인대에 다시 부상을 입어 인근 병원 응급실로 후송되는 사고가 발생했다.\[3\] 신혜성은 앞서 2001년에도 [MBC](https://ko.wikipedia.org/wiki/MBC_TV "wikilink") 〈[일요일 일요일 밤에](https://ko.wikipedia.org/wiki/일요일_일요일_밤에 "wikilink") - [게릴라 콘서트](../Page/게릴라_콘서트.md "wikilink")〉에서 마지막 곡인 〈Hey, Come On\!〉을 부르던 중 덤블링을 하다 무릎을 다친 사고를 당한 바 있다.\[4\] 이로 인해 정규 10집 〈Venus〉의 활동 기간 내내 퍼포먼스 대열에는 함께하지 못한 채 가만히 서있는 채로 자신의 파트만 부르고 퇴장해야 했다. 이후 부상을 회복한 뒤 2012년 4월 30일 가졌던 [상해](https://ko.wikipedia.org/wiki/상해 "wikilink") 공연을 통해 퍼포먼스에 합류하였다.\[5\]
+평소 무릎이 약하기로 알려져 있는 [신혜성](../Page/신혜성.md "wikilink")이 서울에서의 2일차 공연의 앙코르 무대에서 'Yo\!'를 부르기 위해 펌핑을 타고 무대에 등장하다가 평소 좋지 않았던 무릎 인대에 다시 부상을 입어 인근 병원 응급실로 후송되는 사고가 발생했다.\[3\] 신혜성은 앞서 2001년에도 [MBC](../Page/MBC_TV.md "wikilink") 〈[일요일 일요일 밤에](https://ko.wikipedia.org/wiki/일요일_일요일_밤에 "wikilink") - [게릴라 콘서트](../Page/게릴라_콘서트.md "wikilink")〉에서 마지막 곡인 〈Hey, Come On\!〉을 부르던 중 덤블링을 하다 무릎을 다친 사고를 당한 바 있다.\[4\] 이로 인해 정규 10집 〈Venus〉의 활동 기간 내내 퍼포먼스 대열에는 함께하지 못한 채 가만히 서있는 채로 자신의 파트만 부르고 퇴장해야 했다. 이후 부상을 회복한 뒤 2012년 4월 30일 가졌던 [상해](https://ko.wikipedia.org/wiki/상해 "wikilink") 공연을 통해 퍼포먼스에 합류하였다.\[5\]
 
 ### 특수효과의 부재
 
-서울에서의 첫 공연에서 [2012년 핵안보정상회의를](https://ko.wikipedia.org/wiki/2012년_핵안보정상회의 "wikilink") 통한 핵물질 사용 차단의 여파로 폭죽과 같은 특수효과는 볼 수 없었다.\[6\] [김동완이](../Page/김동완_\(가수\).md "wikilink") 오프닝 멘트를 통해 이에 대한 양해를 구한 바 있으며 기자회견에서 폭죽대신 물을 많이 뿌려서 무대가 미끄러워졌다고 밝히기도 했다.
+서울에서의 첫 공연에서 [2012년 핵안보정상회의를](../Page/2012년_핵안보정상회의.md "wikilink") 통한 핵물질 사용 차단의 여파로 폭죽과 같은 특수효과는 볼 수 없었다.\[6\] [김동완이](../Page/김동완_\(가수\).md "wikilink") 오프닝 멘트를 통해 이에 대한 양해를 구한 바 있으며 기자회견에서 폭죽대신 물을 많이 뿌려서 무대가 미끄러워졌다고 밝히기도 했다.
 
 ## 투어 일정
 
@@ -62,7 +62,7 @@
 <td><p>2012년 5월 29일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/횡빈" title="wikilink">횡빈</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/요코하마_아레나" title="wikilink">요코하마 아레나</a>[10]</p></td>
+<td><p><a href="../Page/요코하마_아레나.md" title="wikilink">요코하마 아레나</a>[10]</p></td>
 <td><p>통산 20,000명</p></td>
 </tr>
 <tr class="even">
@@ -130,7 +130,7 @@
 <td style="text-align: left;"><p>DVD</p></td>
 <td style="text-align: left;"><p>SHINHWA GRAND TOUR IN SEOUL 《The Return》 DVD</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2012년" title="wikilink">2012년</a> <a href="https://ko.wikipedia.org/wiki/12월_26일" title="wikilink">12월 26일</a></li>
+<li>발매일 : <a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/12월_26일.md" title="wikilink">12월 26일</a></li>
 </ul></td>
 </tr>
 </tbody>

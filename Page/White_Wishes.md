@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [White Wishes](https://ko.wikipedia.org/wiki/White_Wishes).
 
 
-「**White Wishes**」(화이트 위시스) [9nine](../Page/9nine.md "wikilink")의 12번째 싱글이다. [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [12월 12일에](https://ko.wikipedia.org/wiki/12월_12일 "wikilink") [SME Records로부터](https://ko.wikipedia.org/wiki/SME_Records "wikilink") 발매되었다.
+「**White Wishes**」(화이트 위시스) [9nine](../Page/9nine.md "wikilink")의 12번째 싱글이다. [2012년](../Page/2012년.md "wikilink") [12월 12일에](../Page/12월_12일.md "wikilink") [SME Records로부터](https://ko.wikipedia.org/wiki/SME_Records "wikilink") 발매되었다.
 
 ## 개요
 
@@ -21,7 +21,7 @@
 
 ## 첫회 특전
 
-  - [DVD](https://ko.wikipedia.org/wiki/DVD "wikilink")
+  - [DVD](../Page/DVD.md "wikilink")
     1.  초회생산한정판A
         1.  「White Wishes」Music Video
         2.  「White Wishes」Music Video Making
@@ -29,12 +29,12 @@
     2.  초회생산한정판B
           - 『9nine원맨라이브“청년관의9nine”＠일본청년관대홀／2012.5.6』라이브영상
             1.  Cross Over
-            2.  [\#girls](https://ko.wikipedia.org/wiki/9nine_\(음반\) "wikilink")
+            2.  [\#girls](../Page/9nine_\(음반\).md "wikilink")
             3.  [流星のくちづけ](../Page/유성의_입맞춤.md "wikilink")
     3.  초회생산한정판C
           - 『9nine원맨라이브“청년관의9nine”＠일본청년관대홀／2012.5.6』라이브영상
             1.  [Fly](https://ko.wikipedia.org/wiki/9nine_음반\) "wikilink")
-            2.  [オレンジdays](https://ko.wikipedia.org/wiki/9nine_\(음반\) "wikilink")
+            2.  [オレンジdays](../Page/9nine_\(음반\).md "wikilink")
             3.  [Wonderful World](https://ko.wikipedia.org/wiki/夏_wanna_say_love_U "wikilink")
 
 ## 타이업

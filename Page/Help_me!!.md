@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Help me!!](https://ko.wikipedia.org/wiki/Help_me!!).
 
 
-《**Help me\!\!**》(헬프 미\!\!)는 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [1월 23일](https://ko.wikipedia.org/wiki/1월_23일 "wikilink") 발매 된 [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink")의 쉰두 번째 싱글이다.
+《**Help me\!\!**》(헬프 미\!\!)는 [2013년](../Page/2013년.md "wikilink") [1월 23일](../Page/1월_23일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 쉰두 번째 싱글이다.
 
 ## 개요
 
@@ -35,7 +35,7 @@
 1.  **Help me\!\!**
 2.  ****
       -
-        작사, 작곡 : 층쿠 / 편곡 : 오쿠보 카오루 / 노래 : [미치시게 사유미](https://ko.wikipedia.org/wiki/미치시게_사유미 "wikilink"), [후쿠무라 미즈키](../Page/후쿠무라_미즈키.md "wikilink")
+        작사, 작곡 : 층쿠 / 편곡 : 오쿠보 카오루 / 노래 : [미치시게 사유미](../Page/미치시게_사유미.md "wikilink"), [후쿠무라 미즈키](../Page/후쿠무라_미즈키.md "wikilink")
 3.  Help me\!\! (Instrumental)
 
 <!-- end list -->
@@ -47,7 +47,7 @@
 1.  **Help me\!\!**
 2.  ****
       -
-        작사, 작곡 : 층쿠 / 편곡 : [AKIRA](https://ko.wikipedia.org/wiki/AKIRA "wikilink") / 노래 : [다나카 레이나](https://ko.wikipedia.org/wiki/다나카_레이나 "wikilink"), [이이쿠보 하루나](../Page/이이쿠보_하루나.md "wikilink"), [이시다 아유미](../Page/이시다_아유미_\(1997년\).md "wikilink")
+        작사, 작곡 : 층쿠 / 편곡 : [AKIRA](https://ko.wikipedia.org/wiki/AKIRA "wikilink") / 노래 : [다나카 레이나](../Page/다나카_레이나.md "wikilink"), [이이쿠보 하루나](../Page/이이쿠보_하루나.md "wikilink"), [이시다 아유미](../Page/이시다_아유미_\(1997년\).md "wikilink")
 3.  Help me\!\! (Instrumental)
 
 <!-- end list -->

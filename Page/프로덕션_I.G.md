@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ I.G](https://ko.wikipedia.org/wiki/_I.G).
 
 
-**프로덕션 I.G**(, )은 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink") 제작사이다.
+**프로덕션 I.G**(, )은 [일본](../Page/일본.md "wikilink")의 [애니메이션](../Page/애니메이션.md "wikilink") 제작사이다.
 
 ## 제작
 
@@ -21,7 +21,7 @@
       - [나의 지구를 지켜줘](../Page/나의_지구를_지켜줘.md "wikilink")
       - [기동경찰 패트레이버](../Page/기동경찰_패트레이버.md "wikilink") 2 극장판
   - 1995년
-      - [공각기동대](https://ko.wikipedia.org/wiki/공각기동대_\(영화\) "wikilink")
+      - [공각기동대](../Page/공각기동대_\(영화\).md "wikilink")
           - [이노센스](../Page/이노센스_\(2004년_일본_영화\).md "wikilink")(2004년)
   - 1997년
       - [엔드 오브 에반게리온](https://ko.wikipedia.org/wiki/신세기_에반게리온_극장판_THE_END_OF_EVANGELION_에어/진심을,_너에게 "wikilink")(가이낙스와 공동제작)
@@ -33,7 +33,7 @@
 
   - 2000년
       - [인랑](../Page/인랑_\(2000년_영화\).md "wikilink")
-      - [프리크리](https://ko.wikipedia.org/wiki/프리크리 "wikilink")([가이낙스](../Page/가이낙스.md "wikilink")와 공동제작)
+      - [프리크리](../Page/프리크리.md "wikilink")([가이낙스](../Page/가이낙스.md "wikilink")와 공동제작)
       - [블러드 더 라스트 뱀파이어](https://ko.wikipedia.org/wiki/블러드:_더_라스트_뱀파이어 "wikilink")
   - 2001년
       - 뱀파이어 키즈(**첫 TVA**)
@@ -41,7 +41,7 @@
       - NOIR
   - 2002년
       - [공각기동대 STAND ALONE COMPLEX](../Page/공각기동대_STAND_ALONE_COMPLEX.md "wikilink")
-          - [공각기동대 S.A.C. 2nd GIG](https://ko.wikipedia.org/wiki/공각기동대_S.A.C._2nd_GIG "wikilink")(2004년)
+          - [공각기동대 S.A.C. 2nd GIG](../Page/공각기동대_S.A.C._2nd_GIG.md "wikilink")(2004년)
           - [공각기동대 S.A.C. Solid State Society](../Page/공각기동대_S.A.C._Solid_State_Society.md "wikilink")(2006년)
       - 2003년
       - 데드 리브즈
@@ -75,16 +75,16 @@
   - 2009년
       - 무사시
       - 짐승의 연주자 에린
-      - [전국 바사라](https://ko.wikipedia.org/wiki/전국_바사라 "wikilink")
+      - [전국 바사라](../Page/전국_바사라.md "wikilink")
           - 전국 바사라 2(2010년)
           - 극장판 전국 바사라 The Last Party(2011년)
-      - [동쪽의 에덴](https://ko.wikipedia.org/wiki/동쪽의_에덴 "wikilink")
+      - [동쪽의 에덴](../Page/동쪽의_에덴.md "wikilink")
           - 동쪽의 에덴 극장판 Ⅰ - The King of Eden(2009년)
           - 동쪽의 에덴 극장판 Ⅱ - Paradise Lost(2010년)
       - 테일즈 오브 베스페리아 \~The First Strike\~
-      - [너에게 닿기를](https://ko.wikipedia.org/wiki/너에게_닿기를 "wikilink")(2009년, 2011년)
+      - [너에게 닿기를](../Page/너에게_닿기를.md "wikilink")(2009년, 2011년)
       - 헤일로 레전즈 - 「Homecoming」,「Duel」 2010년
-      - [문학소녀 시리즈](https://ko.wikipedia.org/wiki/문학소녀_시리즈 "wikilink") 극장판
+      - [문학소녀 시리즈](../Page/문학소녀_시리즈.md "wikilink") 극장판
       - 문학소녀 메모아르(2010년)
       - 병아리 사랑
       - 브레이크 블레이드(XEBEC과 공동 제작)
@@ -133,7 +133,7 @@
       - 노블레스: Awakening
       - 하이큐\!\! 카라스노 고교 vs 시라토리자와 학원 고교
   - 2017년
-      - [은하영웅전설](https://ko.wikipedia.org/wiki/은하영웅전설 "wikilink")
+      - [은하영웅전설](../Page/은하영웅전설.md "wikilink")
       - 볼룸에 오신 것을 환영합니다
       - [아톰: 더 비기닝](../Page/아톰_더_비기닝.md "wikilink")(OLM과 합작)
       - [낮잠 공주: 모르는 나의 이야기](https://ko.wikipedia.org/wiki/낮잠_공주:_모르는_나의_이야기 "wikilink")

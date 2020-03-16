@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [MONSTERS \(\)](https://ko.wikipedia.org/wiki/MONSTERS_\(\)).
 
 
-**MONSTERS**()는 [TBS](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink") [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink") 《[몬스터스](https://ko.wikipedia.org/wiki/몬스터스_\(TBS\) "wikilink")》에서 주연의 [카토리 싱고와](../Page/카토리_싱고.md "wikilink") [야마시타 토모히사의](../Page/야마시타_토모히사.md "wikilink") 기간 한정 유닛인 **The MONSTERS**의 [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink")이다. [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서는 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [11월 28일](https://ko.wikipedia.org/wiki/11월_28일 "wikilink") 발매되었다.
+**MONSTERS**()는 [TBS](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink") [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink") 《[몬스터스](https://ko.wikipedia.org/wiki/몬스터스_\(TBS\) "wikilink")》에서 주연의 [카토리 싱고와](../Page/카토리_싱고.md "wikilink") [야마시타 토모히사의](../Page/야마시타_토모히사.md "wikilink") 기간 한정 유닛인 **The MONSTERS**의 [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink")이다. [일본](../Page/일본.md "wikilink")에서는 [2012년](../Page/2012년.md "wikilink") [11월 28일](../Page/11월_28일.md "wikilink") 발매되었다.
 
 ## 개요
 
   - [TBS](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink") [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink") 《[몬스터스](https://ko.wikipedia.org/wiki/몬스터스_\(TBS\) "wikilink")》의 주제가. **The MONSTERS**는 드라마에 함께 출연한 [카토리 싱고와](../Page/카토리_싱고.md "wikilink") [야마시타 토모히사에](../Page/야마시타_토모히사.md "wikilink") 의한 유닛으로, 두 사람이 함께 공동 작사·작곡한 곡이다.
-  - 이 곡은 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [10월 30일](https://ko.wikipedia.org/wiki/10월_30일 "wikilink") 방송된 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 음악 방송 《화요곡》에서 음반의 수록록인 〈몬스터〉와 함께 텔레비전에서 첫 피로되었다.
-  - 원래는 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [8월 8일에](https://ko.wikipedia.org/wiki/8월_8일 "wikilink") 발매된 [SMAP](https://ko.wikipedia.org/wiki/SMAP "wikilink")의 20번째 정규 앨범 "GIFT of SMAP"에 카토리 싱고의 솔로 곡으로 수록되어 있는 곡을 The MONSTERS 명의로 싱글 컷되었다.
+  - 이 곡은 [2012년](../Page/2012년.md "wikilink") [10월 30일](../Page/10월_30일.md "wikilink") 방송된 [일본](../Page/일본.md "wikilink")의 음악 방송 《화요곡》에서 음반의 수록록인 〈몬스터〉와 함께 텔레비전에서 첫 피로되었다.
+  - 원래는 [2012년](../Page/2012년.md "wikilink") [8월 8일에](../Page/8월_8일.md "wikilink") 발매된 [SMAP](../Page/SMAP.md "wikilink")의 20번째 정규 앨범 "GIFT of SMAP"에 카토리 싱고의 솔로 곡으로 수록되어 있는 곡을 The MONSTERS 명의로 싱글 컷되었다.
   - 통상 반, 초회 한정반 A, 초회 한정반 B, 세븐&아이 한정반 아날로그 반의 5가지 사양으로 출시되었다.
   - 수록곡은 통상 반, 초회 한정반 A, 세븐&아이 한정반 아날로그 반에만 〈MONSTERS (SPACE COWBOY REMIX)〉가 수록되었고, 통상 반, 초회 한정반 B, 세븐&아이 한정반, \* 아날로그 반에는 핑크 레이디의 곡 〈몬스터〉의 리메이크(커버 곡)가 수록되었다. 또한 〈몬스터〉에 수록되어있는 함성 소리는 드라마에서 여주인공 역을 연기한 [야나기하라 카나코의](https://ko.wikipedia.org/wiki/야나기하라_카나코 "wikilink") 음성이다.
   - 초회 한정반 A에는 타이틀 곡 〈MONSTERS〉의 DVD(뮤직비디오 수록), 초회 한정반 B에는 〈몬스터〉의 DVD(뮤직비디오 수록)가 각각 수록되었다.
@@ -89,9 +89,9 @@
 ## 차트 최고 순위·기록
 
   - 위클리(주간) 1위 ([오리콘](../Page/오리콘.md "wikilink"))\[1\]
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [11월](https://ko.wikipedia.org/wiki/11월 "wikilink") 월간 3위 ([오리콘](../Page/오리콘.md "wikilink"))
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") Billboard Japan 에어 플레이, 싱글 100 세일즈 1위\[2\]
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") 키사라즈캣츠아이 (feat.MCU) 이후, [텔레비전 드라마로](https://ko.wikipedia.org/wiki/텔레비전_드라마 "wikilink") 인해 결성된 유닛의 1위([오리콘](../Page/오리콘.md "wikilink"))는 6년만의 기록이며, [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [슈지와 아키라](https://ko.wikipedia.org/wiki/슈지와_아키라 "wikilink") 이후에는 7년만이다.\[3\]
+  - [2012년](../Page/2012년.md "wikilink") [11월](../Page/11월.md "wikilink") 월간 3위 ([오리콘](../Page/오리콘.md "wikilink"))
+  - [2012년](../Page/2012년.md "wikilink") Billboard Japan 에어 플레이, 싱글 100 세일즈 1위\[2\]
+  - [2006년](../Page/2006년.md "wikilink") 키사라즈캣츠아이 (feat.MCU) 이후, [텔레비전 드라마로](../Page/텔레비전_드라마.md "wikilink") 인해 결성된 유닛의 1위([오리콘](../Page/오리콘.md "wikilink"))는 6년만의 기록이며, [2007년](../Page/2007년.md "wikilink") [슈지와 아키라](../Page/슈지와_아키라.md "wikilink") 이후에는 7년만이다.\[3\]
 
 ## 각주
 

@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [C   ](https://ko.wikipedia.org/wiki/C___).
 
 
-[C/C++에서](https://ko.wikipedia.org/wiki/C와_C++에서의_연산자 "wikilink") **정수형 변수**는 [정수](https://ko.wikipedia.org/wiki/정수 "wikilink")를 처리하기 위한 변수이다. 정수형 변수를 [마이크로프로세서](https://ko.wikipedia.org/wiki/마이크로프로세서 "wikilink")가 처리할 때, 부호와 숫자범위를 결정해야 한다. C/C++로 작성 된 코드는 결국 해당 마이크로프로세서의 기계어 코드로 변환하는데, 마이크로프로세서의 숫자체계(ALU 등 이용)를 사용하기 때문이다.
+[C/C++에서](https://ko.wikipedia.org/wiki/C와_C++에서의_연산자 "wikilink") **정수형 변수**는 [정수](../Page/정수.md "wikilink")를 처리하기 위한 변수이다. 정수형 변수를 [마이크로프로세서](../Page/마이크로프로세서.md "wikilink")가 처리할 때, 부호와 숫자범위를 결정해야 한다. C/C++로 작성 된 코드는 결국 해당 마이크로프로세서의 기계어 코드로 변환하는데, 마이크로프로세서의 숫자체계(ALU 등 이용)를 사용하기 때문이다.
 
 숫자 범위는 2진수의 몇비트로 처리할 것인가를 결정 해야 한다. 이것은 곧 정수 처리 범위를 결정된다. 마이크로프로세서 내에서 레지스터와 ALU의 비트수가 결정 되었기 때문이다. 숫자 범위는 char, int, short, long을 사용해 변수선언을 하면 된다. 부호는 unsigned을 이용한다. 음수와 양수를 표현하기 위해서는 signed과 unsigned를 사용한다. 음수를 사용할 경우 보통 signed를 생략 한다. int나 char 만을 선언하면 양수와 음수를 같이 사용한다. 양수 만을 사용하려면 unsigned 붙이면 된다.
 
 CPU에서 음수는 2진수 체계중에 논리 공학의 *2의보수*를 사용한다. unsigned를 사용할 경우는 정해진 비트 수 내에서 이진수와 같다. 그러나 음수를 사용할 경우, 양수와 음수는 2의 보수 체계를 사용하여 숫자를 배치 한다. 이것은 연산자로 코딩 될 때 수월하게 숫자를 표현하거나 계산할 수 있기 때문이다.
 
-정수 연산은 CPU 내의 ALU에서 처리 한다. 4칙연산, 논리연산, 비트 쉬프트 등의 연산이 가능하다. 많은 CPU의 경우 [부동소수점](https://ko.wikipedia.org/wiki/부동소수점 "wikilink") 연산(FPU) 모듈이 없지만, 정수형 연산은 모든 CPU가 가능하다. 정수는 정수형 ALU을 사용하여 연산한다. 경우에 따라 저속의 8비트 CPU는 나누기 기계어 코드가 없지만, 현재의 CPU 들은 거의 모두 4칙연산을 할 수 있다. 보통의 CPU ALU는 정수형의 나누기의 연산 시, 나누기 기계어 코드가 실행되고 몫과 나머지로 분리하여 레지스터에 저장함으로써 결과를 얻는다.
+정수 연산은 CPU 내의 ALU에서 처리 한다. 4칙연산, 논리연산, 비트 쉬프트 등의 연산이 가능하다. 많은 CPU의 경우 [부동소수점](../Page/부동소수점.md "wikilink") 연산(FPU) 모듈이 없지만, 정수형 연산은 모든 CPU가 가능하다. 정수는 정수형 ALU을 사용하여 연산한다. 경우에 따라 저속의 8비트 CPU는 나누기 기계어 코드가 없지만, 현재의 CPU 들은 거의 모두 4칙연산을 할 수 있다. 보통의 CPU ALU는 정수형의 나누기의 연산 시, 나누기 기계어 코드가 실행되고 몫과 나머지로 분리하여 레지스터에 저장함으로써 결과를 얻는다.
 
 ## 정수형 변수의 종류와 숫자 처리 능력
 
@@ -89,6 +89,6 @@ long long int llval;// 64비트 변수
 
 ## 외부 링크
 
-  - [Richard M. Stallman](https://ko.wikipedia.org/wiki/리처드_스톨만 "wikilink"): *[Using and Porting the GNU Compiler Collection](http://gcc.gnu.org/onlinedocs/gcc-2.95.3/gcc.html)*, [Free Software Foundation](https://ko.wikipedia.org/wiki/자유_소프트웨어_재단 "wikilink"),
+  - [Richard M. Stallman](https://ko.wikipedia.org/wiki/리처드_스톨만 "wikilink"): *[Using and Porting the GNU Compiler Collection](http://gcc.gnu.org/onlinedocs/gcc-2.95.3/gcc.html)*, [Free Software Foundation](../Page/자유_소프트웨어_재단.md "wikilink"),
 
 [분류:C 프로그래밍 언어](https://ko.wikipedia.org/wiki/분류:C_프로그래밍_언어 "wikilink")

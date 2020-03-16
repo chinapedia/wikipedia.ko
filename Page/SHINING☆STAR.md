@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SHININGSTAR](https://ko.wikipedia.org/wiki/SHININGSTAR).
 
 
-〈**SHINING☆STAR**〉(샤이닝 스타)는 [9nine](../Page/9nine.md "wikilink")의 6번째 싱글이다. [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [3월 9일에](https://ko.wikipedia.org/wiki/3월_9일 "wikilink") [SME Records로부터](https://ko.wikipedia.org/wiki/SME_Records "wikilink") 발매되었다.
+〈**SHINING☆STAR**〉(샤이닝 스타)는 [9nine](../Page/9nine.md "wikilink")의 6번째 싱글이다. [2011년](../Page/2011년.md "wikilink") [3월 9일에](../Page/3월_9일.md "wikilink") [SME Records로부터](https://ko.wikipedia.org/wiki/SME_Records "wikilink") 발매되었다.
 
 ## 개요
 

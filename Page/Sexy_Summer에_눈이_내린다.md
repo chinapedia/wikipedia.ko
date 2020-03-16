@@ -5,7 +5,7 @@
 
 ## 개요
 
-전작 〈[Lady 다이아몬드](https://ko.wikipedia.org/wiki/Lady_다이아몬드 "wikilink")〉로부터 약 6개월 만의 싱글이다.
+전작 〈[Lady 다이아몬드](../Page/Lady_다이아몬드.md "wikilink")〉로부터 약 6개월 만의 싱글이다.
 
 초회 한정반A, B와 통상반의 3형태로 발매. 통상반에는 초회 프레스 사양이 존재한다. 다만 예약 판매도 포함하면, 회장 한정 SUMMARY 2012 기념반(〈Johnny's Dome Theatre SUMMARY〉의 TOKYO DOME CITY HALL 회장만)도 존재한다\[1\].
 
@@ -19,12 +19,12 @@
       -
         작사: 미우라 요시코 / 작곡: Janne Hyoty, Martin Grano / 편곡: 스즈키 Daichi 히데유키
     <!-- end list -->
-      - [후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 계열 《초잠입\! 리얼 스코프 하이퍼》 테마 송
+      - [후지 TV](../Page/후지_TV.md "wikilink") 계열 《초잠입\! 리얼 스코프 하이퍼》 테마 송
 2.  **キミのため ボクがいる** / <small>**너를 위해 내가 있어**</small>
       -
         작사: [사토 쇼리](../Page/사토_쇼리.md "wikilink") / 작곡: Anders Dannvik, Takuya Harada, DAICHI / 편곡: 이시즈카 토모키
     <!-- end list -->
-      - [TBS](https://ko.wikipedia.org/wiki/도쿄_방송_홀딩스 "wikilink")·후지 TV 계열 《2012 런던 올림픽 배구 세계 최종 예선》 이미지 송
+      - [TBS](../Page/도쿄_방송_홀딩스.md "wikilink")·후지 TV 계열 《2012 런던 올림픽 배구 세계 최종 예선》 이미지 송
 3.  **雨だって** / <small>**비라도**</small> - [Sexy Boyz](../Page/Sexy_Boyz.md "wikilink")
       -
         작사: 이하시 나루야 / 작곡: Fredrik Samsson, 이하시 나루야 / 편곡: 이쿠타 마신

@@ -23,7 +23,7 @@
 
 ## 에이태킴스
 
-미국 [록히드 마틴](https://ko.wikipedia.org/wiki/록히드_마틴 "wikilink") [M270 MLRS에](https://ko.wikipedia.org/wiki/M270_MLRS "wikilink") 호환되는 [천무 다연장로켓](../Page/천무_다연장로켓.md "wikilink") 국산화에 이어, [M270 MLRS에서](https://ko.wikipedia.org/wiki/M270_MLRS "wikilink") 발사되는 [에이태킴스 미사일을](https://ko.wikipedia.org/wiki/에이태킴스_미사일 "wikilink") 국산화 한 것이 번개사업이다. 미사일의 외양은 거의 똑같다.
+미국 [록히드 마틴](../Page/록히드_마틴.md "wikilink") [M270 MLRS에](https://ko.wikipedia.org/wiki/M270_MLRS "wikilink") 호환되는 [천무 다연장로켓](../Page/천무_다연장로켓.md "wikilink") 국산화에 이어, [M270 MLRS에서](https://ko.wikipedia.org/wiki/M270_MLRS "wikilink") 발사되는 [에이태킴스 미사일을](https://ko.wikipedia.org/wiki/에이태킴스_미사일 "wikilink") 국산화 한 것이 번개사업이다. 미사일의 외양은 거의 똑같다.
 
   - MGM-140A 에이태킴스 블록1: 무게 1,670 kg, 길이 4.0 m, 직경 610 mm, 날개폭 1.4 m, 속력 마하 3, 탄두중량 560 kg, 최대사거리 128 km
   - K-BATS: 무게 1,500 kg, 길이 4.0 m, 직경 600 mm

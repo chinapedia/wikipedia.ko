@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ \&  FC](https://ko.wikipedia.org/wiki/_\&__FC).
 
 
-**대거넘 & 레드브리지 풋볼 클럽**()은 [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink") [대거넘](../Page/대거넘.md "wikilink")을 연고지로 하고 있는 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 흔히 애칭으로 대거스라고도 불리고 있다. 1992년 레드브리지 포리스트와 대거넘이 합병하여 창단되었다.
+**대거넘 & 레드브리지 풋볼 클럽**()은 [잉글랜드](../Page/잉글랜드.md "wikilink") [대거넘](../Page/대거넘.md "wikilink")을 연고지로 하고 있는 [축구](../Page/축구.md "wikilink") 클럽이다. 흔히 애칭으로 대거스라고도 불리고 있다. 1992년 레드브리지 포리스트와 대거넘이 합병하여 창단되었다.
 
 클럽의 전통적인 색깔은 빨간색과 파란색이며, 각각 합병된 팀의 전통 색깔이었다.
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TRICK ](https://ko.wikipedia.org/wiki/TRICK_).
 
 
-《**TRICK 극장판**》()은 [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [11월 9일에](https://ko.wikipedia.org/wiki/11월_9일 "wikilink") 개봉한 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") [영화](../Page/영화.md "wikilink")이다. [TV 아사히](../Page/TV_아사히.md "wikilink") 계열에서 방송된 《[트릭](https://ko.wikipedia.org/wiki/트릭_\(드라마\) "wikilink")》의 극장판 1탄이다. [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서는 개봉 당시 1주일 만에 영화 흥행 성적, 첫 등장 순위 1위를 기록. 4년 후 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")에는 제2탄 극장판 영화 《[TRICK 극장판 2](https://ko.wikipedia.org/wiki/TRICK_극장판_2 "wikilink")》가 제작, 개봉되었다.
+《**TRICK 극장판**》()은 [2002년](../Page/2002년.md "wikilink") [11월 9일에](../Page/11월_9일.md "wikilink") 개봉한 [일본](../Page/일본.md "wikilink") [영화](../Page/영화.md "wikilink")이다. [TV 아사히](../Page/TV_아사히.md "wikilink") 계열에서 방송된 《[트릭](../Page/트릭_\(드라마\).md "wikilink")》의 극장판 1탄이다. [일본](../Page/일본.md "wikilink")에서는 개봉 당시 1주일 만에 영화 흥행 성적, 첫 등장 순위 1위를 기록. 4년 후 [2006년](../Page/2006년.md "wikilink")에는 제2탄 극장판 영화 《[TRICK 극장판 2](../Page/TRICK_극장판_2.md "wikilink")》가 제작, 개봉되었다.
 
 ## 줄거리
 
@@ -22,8 +22,8 @@
 
 ### 주연
 
-  - [나카마 유키에](https://ko.wikipedia.org/wiki/나카마_유키에 "wikilink")
-  - [아베 히로시](https://ko.wikipedia.org/wiki/아베_히로시 "wikilink")
+  - [나카마 유키에](../Page/나카마_유키에.md "wikilink")
+  - [아베 히로시](../Page/아베_히로시.md "wikilink")
   - [야마시타 신지](https://ko.wikipedia.org/wiki/야마시타_신지 "wikilink")
   - [요시모토 미요코](https://ko.wikipedia.org/wiki/요시모토_미요코 "wikilink")
   - [나마세 카츠히사](../Page/나마세_카츠히사.md "wikilink")

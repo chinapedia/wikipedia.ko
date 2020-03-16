@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [9nine \(\)](https://ko.wikipedia.org/wiki/9nine_\(\)).
 
 
-**9nine**(나인)은 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [3월 7일에](https://ko.wikipedia.org/wiki/3월_7일 "wikilink") 발매된 [9nine](../Page/9nine.md "wikilink")의 세 번째 앨범, 리뉴얼후 첫 앨범이다.
+**9nine**(나인)은 [2012년](../Page/2012년.md "wikilink") [3월 7일에](../Page/3월_7일.md "wikilink") 발매된 [9nine](../Page/9nine.md "wikilink")의 세 번째 앨범, 리뉴얼후 첫 앨범이다.
 
 ## 개요
 

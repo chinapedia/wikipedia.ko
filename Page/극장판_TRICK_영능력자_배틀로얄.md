@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [ TRICK  ](https://ko.wikipedia.org/wiki/_TRICK__).
 
 
-《**극장판 TRICK 영능력자 배틀로얄**》()은 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [5월 8일에](https://ko.wikipedia.org/wiki/5월_8일 "wikilink") 개봉한 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") [영화](../Page/영화.md "wikilink")이다.
+《**극장판 TRICK 영능력자 배틀로얄**》()은 [2010년](../Page/2010년.md "wikilink") [5월 8일에](../Page/5월_8일.md "wikilink") 개봉한 [일본](../Page/일본.md "wikilink") [영화](../Page/영화.md "wikilink")이다.
 
 ## 개요
 
-《[트릭](https://ko.wikipedia.org/wiki/트릭_\(드라마\) "wikilink")》 시리즈 10주년 기념 작품(3탄)이며, 전작([TRICK 극장판 2](../Page/TRICK_극장판_2.md "wikilink"))이 제작된지 4년만에 제작되었다. [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")내 최종 흥행 수입은 18.6억엔
+《[트릭](../Page/트릭_\(드라마\).md "wikilink")》 시리즈 10주년 기념 작품(3탄)이며, 전작([TRICK 극장판 2](../Page/TRICK_극장판_2.md "wikilink"))이 제작된지 4년만에 제작되었다. [일본](../Page/일본.md "wikilink")내 최종 흥행 수입은 18.6억엔
 
-[2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [5월 8일](https://ko.wikipedia.org/wiki/5월_8일 "wikilink") 개봉에 맞추어 닌텐도 DS 소프트 출시, 스핀오프 드라마 야베 켄조 방영 등이 함께 이루어졌다. 또한 5월 15일에는 신작 스페셜2가 방송되었으며, [5월 20일에는](https://ko.wikipedia.org/wiki/5월_20일 "wikilink") 우에다 지로의 공식 블로그 '천재인 내가 너에게'가 개설되었다.
+[2010년](../Page/2010년.md "wikilink") [5월 8일](../Page/5월_8일.md "wikilink") 개봉에 맞추어 닌텐도 DS 소프트 출시, 스핀오프 드라마 야베 켄조 방영 등이 함께 이루어졌다. 또한 5월 15일에는 신작 스페셜2가 방송되었으며, [5월 20일에는](../Page/5월_20일.md "wikilink") 우에다 지로의 공식 블로그 '천재인 내가 너에게'가 개설되었다.
 
-[대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 [부산국제영화제](https://ko.wikipedia.org/wiki/부산국제영화제 "wikilink")에 공식 초청되어, 상영이 이루어졌다.
+[대한민국](../Page/대한민국.md "wikilink")에서는 [부산국제영화제](../Page/부산국제영화제.md "wikilink")에 공식 초청되어, 상영이 이루어졌다.
 
 ## 줄거리
 
@@ -25,19 +25,19 @@
 
 ### 주연
 
-  - [나카마 유키에](https://ko.wikipedia.org/wiki/나카마_유키에 "wikilink")
-  - [아베 히로시](https://ko.wikipedia.org/wiki/아베_히로시 "wikilink")
+  - [나카마 유키에](../Page/나카마_유키에.md "wikilink")
+  - [아베 히로시](../Page/아베_히로시.md "wikilink")
 
 ### 조연
 
   - [후지키 나오히토](../Page/후지키_나오히토.md "wikilink")
-  - [카호](https://ko.wikipedia.org/wiki/카호 "wikilink")
-  - [카타세 나나](https://ko.wikipedia.org/wiki/카타세_나나 "wikilink")
+  - [카호](../Page/카호.md "wikilink")
+  - [카타세 나나](../Page/카타세_나나.md "wikilink")
   - [마스모토 쇼이치로](https://ko.wikipedia.org/wiki/마스모토_쇼이치로 "wikilink")
-  - [마츠다이라 켄](https://ko.wikipedia.org/wiki/마츠다이라_켄 "wikilink")
+  - [마츠다이라 켄](../Page/마츠다이라_켄.md "wikilink")
   - [나마세 카츠히사](../Page/나마세_카츠히사.md "wikilink")
   - [노기와 요코](https://ko.wikipedia.org/wiki/노기와_요코 "wikilink")
-  - [사토 타케루](https://ko.wikipedia.org/wiki/사토_타케루 "wikilink")
+  - [사토 타케루](../Page/사토_타케루.md "wikilink")
   - [토다 케이코](../Page/토다_케이코.md "wikilink")
 
 ## 기타

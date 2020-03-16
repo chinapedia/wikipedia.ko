@@ -249,7 +249,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>《<a href="https://ko.wikipedia.org/wiki/피니와_퍼브" title="wikilink">피니와 퍼브</a>》</p></td>
+<td><p>《<a href="../Page/피니와_퍼브.md" title="wikilink">피니와 퍼브</a>》</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -324,7 +324,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>《<a href="https://ko.wikipedia.org/wiki/얼티밋_스파이더맨_(애니메이션)" title="wikilink">얼티밋 스파이더맨</a>》</p></td>
+<td><p>《<a href="../Page/얼티밋_스파이더맨_(애니메이션).md" title="wikilink">얼티밋 스파이더맨</a>》</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -363,7 +363,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>《<a href="https://ko.wikipedia.org/wiki/쿠스코?_쿠스코!" title="wikilink">쿠스코? 쿠스코!</a>》</p></td>
+<td><p>《<a href="../Page/쿠스코?_쿠스코!.md" title="wikilink">쿠스코? 쿠스코!</a>》</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -573,7 +573,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>《<a href="https://ko.wikipedia.org/wiki/나루토_질풍전" title="wikilink">나루토 질풍전</a>》</p></td>
+<td><p>《<a href="../Page/나루토_질풍전.md" title="wikilink">나루토 질풍전</a>》</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -591,7 +591,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>《<a href="https://ko.wikipedia.org/wiki/스티치!_새로운_모험" title="wikilink">스티치! 새로운 모험</a>》</p></td>
+<td><p>《<a href="../Page/스티치!_새로운_모험.md" title="wikilink">스티치! 새로운 모험</a>》</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -890,9 +890,9 @@
 
 ### 블록 편성
 
-  - *Disney XD's Saturday Morning* ([2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [2월 21일](https://ko.wikipedia.org/wiki/2월_21일 "wikilink") \~ [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [6월 19일](https://ko.wikipedia.org/wiki/6월_19일 "wikilink"), [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [9월 18일](https://ko.wikipedia.org/wiki/9월_18일 "wikilink") \~ [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [7월 6일](https://ko.wikipedia.org/wiki/7월_6일 "wikilink"))
-  - *Saturday Mornings Disney XD Style* ([2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [6월 26일](https://ko.wikipedia.org/wiki/6월_26일 "wikilink") \~ [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [9월 11일](https://ko.wikipedia.org/wiki/9월_11일 "wikilink"))
-  - 피니와 퍼브의 여름방학 ([2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [6월](https://ko.wikipedia.org/wiki/6월 "wikilink") \~ [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [9월](https://ko.wikipedia.org/wiki/9월 "wikilink"))
-  - *Disney Famdom* ([2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [7월 30일](https://ko.wikipedia.org/wiki/7월_30일 "wikilink") \~ [8월 1일](https://ko.wikipedia.org/wiki/8월_1일 "wikilink"))
+  - *Disney XD's Saturday Morning* ([2009년](../Page/2009년.md "wikilink") [2월 21일](../Page/2월_21일.md "wikilink") \~ [2010년](../Page/2010년.md "wikilink") [6월 19일](../Page/6월_19일.md "wikilink"), [2010년](../Page/2010년.md "wikilink") [9월 18일](../Page/9월_18일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [7월 6일](../Page/7월_6일.md "wikilink"))
+  - *Saturday Mornings Disney XD Style* ([2010년](../Page/2010년.md "wikilink") [6월 26일](../Page/6월_26일.md "wikilink") \~ [2010년](../Page/2010년.md "wikilink") [9월 11일](../Page/9월_11일.md "wikilink"))
+  - 피니와 퍼브의 여름방학 ([2010년](../Page/2010년.md "wikilink") [6월](../Page/6월.md "wikilink") \~ [2010년](../Page/2010년.md "wikilink") [9월](../Page/9월.md "wikilink"))
+  - *Disney Famdom* ([2013년](../Page/2013년.md "wikilink") [7월 30일](../Page/7월_30일.md "wikilink") \~ [8월 1일](../Page/8월_1일.md "wikilink"))
 
 [\*](https://ko.wikipedia.org/wiki/분류:디즈니_XD의_텔레비전_프로그램 "wikilink") [분류:방송사별 텔레비전 프로그램 목록](https://ko.wikipedia.org/wiki/분류:방송사별_텔레비전_프로그램_목록 "wikilink")
