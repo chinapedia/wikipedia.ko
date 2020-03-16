@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LG  LTE ](https://ko.wikipedia.org/wiki/LG__LTE_).
 
 
-**옵티머스 LTE 태그** (LG Optimus LTE Tag)는 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink")에 출시한 보급형 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")으로, [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서만 출시하였다.
+**옵티머스 LTE 태그** (LG Optimus LTE Tag)는 [2012년](../Page/2012년.md "wikilink") [2월](../Page/2월.md "wikilink")에 출시한 보급형 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")으로, [대한민국](../Page/대한민국.md "wikilink")에서만 출시하였다.
 
 ## 외부 링크
 

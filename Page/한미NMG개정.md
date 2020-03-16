@@ -5,7 +5,7 @@
 
 ## 과거 역사
 
-[1979년](https://ko.wikipedia.org/wiki/1979년 "wikilink"), 단거리 지대지 [탄도 미사일인](https://ko.wikipedia.org/wiki/탄도_미사일 "wikilink") [백곰 미사일](https://ko.wikipedia.org/wiki/백곰_미사일 "wikilink") 개발 때 부터 시작되었다. [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink"), [미사일 기술 통제 체제](https://ko.wikipedia.org/wiki/미사일_기술_통제_체제 "wikilink")([MTCR](https://ko.wikipedia.org/wiki/MTCR "wikilink"))조약이 만들어졌으나 미국의 반대로 가입하지 못했다. [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink"), [3월 26일에](https://ko.wikipedia.org/wiki/3월_26일 "wikilink") [MTCR](https://ko.wikipedia.org/wiki/MTCR "wikilink")의 33번째 가입국이 되었다. (이로 인해 사거리가 기존의 180KM에서 300KM로 연장되었다.)
+[1979년](../Page/1979년.md "wikilink"), 단거리 지대지 [탄도 미사일인](https://ko.wikipedia.org/wiki/탄도_미사일 "wikilink") [백곰 미사일](https://ko.wikipedia.org/wiki/백곰_미사일 "wikilink") 개발 때 부터 시작되었다. [1987년](../Page/1987년.md "wikilink"), [미사일 기술 통제 체제](../Page/미사일_기술_통제_체제.md "wikilink")([MTCR](https://ko.wikipedia.org/wiki/MTCR "wikilink"))조약이 만들어졌으나 미국의 반대로 가입하지 못했다. [2001년](../Page/2001년.md "wikilink"), [3월 26일에](../Page/3월_26일.md "wikilink") [MTCR](https://ko.wikipedia.org/wiki/MTCR "wikilink")의 33번째 가입국이 되었다. (이로 인해 사거리가 기존의 180KM에서 300KM로 연장되었다.)
 
 ## 기존 MG 개정의 필요성
 
@@ -85,6 +85,6 @@
 ## 같이 보기
 
   - [대한민국의 탄도 미사일 개발](https://ko.wikipedia.org/wiki/대한민국의_탄도_미사일_개발 "wikilink")
-  - [한미 미사일 지침](https://ko.wikipedia.org/wiki/한미_미사일_지침 "wikilink")
+  - [한미 미사일 지침](../Page/한미_미사일_지침.md "wikilink")
 
 [분류:대한민국의 군사사](https://ko.wikipedia.org/wiki/분류:대한민국의_군사사 "wikilink") [분류:대한민국의 무기](https://ko.wikipedia.org/wiki/분류:대한민국의_무기 "wikilink")

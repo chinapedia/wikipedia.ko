@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [  X ](https://ko.wikipedia.org/wiki/__X_).
 
 
-**스트리트 파이터 X 철권**(Street Fighter X Tekken)은 [캡콤](https://ko.wikipedia.org/wiki/캡콤 "wikilink")에서 제작한 [플레이스테이션 3](https://ko.wikipedia.org/wiki/플레이스테이션_3 "wikilink"), [엑스박스 360](https://ko.wikipedia.org/wiki/엑스박스_360 "wikilink"), [플레이스테이션 비타](https://ko.wikipedia.org/wiki/플레이스테이션_비타 "wikilink") 전용 대전 격투 게임이다.
+**스트리트 파이터 X 철권**(Street Fighter X Tekken)은 [캡콤](../Page/캡콤.md "wikilink")에서 제작한 [플레이스테이션 3](../Page/플레이스테이션_3.md "wikilink"), [엑스박스 360](../Page/엑스박스_360.md "wikilink"), [플레이스테이션 비타](https://ko.wikipedia.org/wiki/플레이스테이션_비타 "wikilink") 전용 대전 격투 게임이다.
 
 ## 개요
 
-[스트리트 파이터 시리즈의](https://ko.wikipedia.org/wiki/스트리트_파이터 "wikilink") 캐릭터와 [철권 시리즈의](../Page/철권.md "wikilink") 캐릭터가 등장하는 대전 격투 게임. 《[스트리트 파이터 IV](https://ko.wikipedia.org/wiki/스트리트_파이터_IV "wikilink")》와 《[철권 6](https://ko.wikipedia.org/wiki/철권_6 "wikilink")》의 발매를 계기로 캡콤과 [반다이 남코 엔터테인먼트의](https://ko.wikipedia.org/wiki/반다이_남코_엔터테인먼트 "wikilink") 개발자가 협력하여 개발이 시작되었다. 그러나 두 회사가 협력하여 하나의 제목을 만드는 것이 아니라, 캡콤과 반다이 남코 엔터테인먼트가 게임을 따로 만들었다. 《스트리트 파이터 X 철권》은 캡콤이 만드는 타이틀로, 반다이 남코 엔터테인먼트 측에서 만든 게임은 《[철권 X 스트리트 파이터](https://ko.wikipedia.org/wiki/철권_X_스트리트_파이터 "wikilink")》이다. 서로 검열, 간섭하지 않고 제작된 두 가지 작품 모두 게임성은 전혀 다른 작품이다.
+[스트리트 파이터 시리즈의](../Page/스트리트_파이터.md "wikilink") 캐릭터와 [철권 시리즈의](../Page/철권.md "wikilink") 캐릭터가 등장하는 대전 격투 게임. 《[스트리트 파이터 IV](https://ko.wikipedia.org/wiki/스트리트_파이터_IV "wikilink")》와 《[철권 6](../Page/철권_6.md "wikilink")》의 발매를 계기로 캡콤과 [반다이 남코 엔터테인먼트의](../Page/반다이_남코_엔터테인먼트.md "wikilink") 개발자가 협력하여 개발이 시작되었다. 그러나 두 회사가 협력하여 하나의 제목을 만드는 것이 아니라, 캡콤과 반다이 남코 엔터테인먼트가 게임을 따로 만들었다. 《스트리트 파이터 X 철권》은 캡콤이 만드는 타이틀로, 반다이 남코 엔터테인먼트 측에서 만든 게임은 《[철권 X 스트리트 파이터](https://ko.wikipedia.org/wiki/철권_X_스트리트_파이터 "wikilink")》이다. 서로 검열, 간섭하지 않고 제작된 두 가지 작품 모두 게임성은 전혀 다른 작품이다.
 
 ## 게임 플레이
 
@@ -84,7 +84,7 @@
 
 ## 단계 설정
 
-0회 이기고 8회 남았을 때부터 4회 이기고 4회 남았을 때까지는 일반 캐릭터가 등장한다. 5회 이기고 3회 남았을 때에는 자신의 라이벌이 등장한다. 6회 이기고 2회 남았을 때에는 [스트리트 파이터 시리즈](https://ko.wikipedia.org/wiki/스트리트_파이터 "wikilink") 캐릭터의 플레이를 할 경우 [철권 시리즈의](../Page/철권.md "wikilink") 중간 보스인 [카자마 진](https://ko.wikipedia.org/wiki/카자마_진 "wikilink") & [크리스티 몬테이로](https://ko.wikipedia.org/wiki/크리스티_몬테이로 "wikilink") 팀이 등장하고, [철권 시리즈](https://ko.wikipedia.org/wiki/철권_시리즈 "wikilink") 캐릭터의 플레이를 할 경우 [스트리트 파이터 시리즈의](https://ko.wikipedia.org/wiki/스트리트_파이터_시리즈 "wikilink") 중간 보스인 베가 & 한주리 팀이 등장한다. 7회 이기고 1회 남았을 때에는 [스트리트 파이터 시리즈의](https://ko.wikipedia.org/wiki/스트리트_파이터 "wikilink") 캐릭터로 플레이를 할 경우 [철권 시리즈의](../Page/철권.md "wikilink") 최종 보스인 [오우거가](https://ko.wikipedia.org/wiki/오우거_\(철권\) "wikilink") 등장하고, [철권 시리즈의](../Page/철권.md "wikilink") 캐릭터로 플레이를 할 경우 [스트리트 파이터 시리즈의](https://ko.wikipedia.org/wiki/스트리트_파이터 "wikilink") 최종 보스인 고우키가 등장한다.
+0회 이기고 8회 남았을 때부터 4회 이기고 4회 남았을 때까지는 일반 캐릭터가 등장한다. 5회 이기고 3회 남았을 때에는 자신의 라이벌이 등장한다. 6회 이기고 2회 남았을 때에는 [스트리트 파이터 시리즈](../Page/스트리트_파이터.md "wikilink") 캐릭터의 플레이를 할 경우 [철권 시리즈의](../Page/철권.md "wikilink") 중간 보스인 [카자마 진](../Page/카자마_진.md "wikilink") & [크리스티 몬테이로](https://ko.wikipedia.org/wiki/크리스티_몬테이로 "wikilink") 팀이 등장하고, [철권 시리즈](https://ko.wikipedia.org/wiki/철권_시리즈 "wikilink") 캐릭터의 플레이를 할 경우 [스트리트 파이터 시리즈의](https://ko.wikipedia.org/wiki/스트리트_파이터_시리즈 "wikilink") 중간 보스인 베가 & 한주리 팀이 등장한다. 7회 이기고 1회 남았을 때에는 [스트리트 파이터 시리즈의](../Page/스트리트_파이터.md "wikilink") 캐릭터로 플레이를 할 경우 [철권 시리즈의](../Page/철권.md "wikilink") 최종 보스인 [오우거가](https://ko.wikipedia.org/wiki/오우거_\(철권\) "wikilink") 등장하고, [철권 시리즈의](../Page/철권.md "wikilink") 캐릭터로 플레이를 할 경우 [스트리트 파이터 시리즈의](../Page/스트리트_파이터.md "wikilink") 최종 보스인 고우키가 등장한다.
 
 ## 각주
 

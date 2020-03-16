@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Do-Re-Mi](https://ko.wikipedia.org/wiki/Do-Re-Mi).
 
 
-**Do-Re-Mi**는 1[959년](https://ko.wikipedia.org/wiki/959년 "wikilink") [로저스와 해머스타인의](https://ko.wikipedia.org/wiki/로저스와_해머스타인 "wikilink") 뮤지컬 《[사운드 오브 뮤직](../Page/사운드_오브_뮤직.md "wikilink")》의 노래 중 하나이다. [오스카 해머스타인 2세가](https://ko.wikipedia.org/wiki/오스카_해머스타인_2세 "wikilink") 작사하였고, [리처드 로저스가](https://ko.wikipedia.org/wiki/리처드_로저스_\(작곡가\) "wikilink") 작곡을 하였다. 극중에서, [마리아가](https://ko.wikipedia.org/wiki/마리아_폰_트라프 "wikilink") 노래를 처음배우는 폰 트라프 가문의 아이들에게 [장음계](https://ko.wikipedia.org/wiki/장음계 "wikilink")의 음표를 가르치기 위해 사용되었다. 아이들의 아버지는 아내의 죽음 이후 천박하다며 허락하지 않았다. 이 노래는 각 음의 [솔페지오](https://ko.wikipedia.org/wiki/솔페지오 "wikilink")의 음절 체계가 가사에 있다는 점에서 유명해졌다.
+**Do-Re-Mi**는 1[959년](https://ko.wikipedia.org/wiki/959년 "wikilink") [로저스와 해머스타인의](../Page/로저스와_해머스타인.md "wikilink") 뮤지컬 《[사운드 오브 뮤직](../Page/사운드_오브_뮤직.md "wikilink")》의 노래 중 하나이다. [오스카 해머스타인 2세가](https://ko.wikipedia.org/wiki/오스카_해머스타인_2세 "wikilink") 작사하였고, [리처드 로저스가](https://ko.wikipedia.org/wiki/리처드_로저스_\(작곡가\) "wikilink") 작곡을 하였다. 극중에서, [마리아가](../Page/마리아_폰_트라프.md "wikilink") 노래를 처음배우는 폰 트라프 가문의 아이들에게 [장음계](../Page/장음계.md "wikilink")의 음표를 가르치기 위해 사용되었다. 아이들의 아버지는 아내의 죽음 이후 천박하다며 허락하지 않았다. 이 노래는 각 음의 [솔페지오](https://ko.wikipedia.org/wiki/솔페지오 "wikilink")의 음절 체계가 가사에 있다는 점에서 유명해졌다.
 
 무대 판에서는 마리아가 폰 트라프 대위의 집 거실에서 아이들에게 자신을 소개한 직후 이 노래를 부른다. 그러나, 어니스트 레만은 무대판 대본을 각색하여, 영화에 어울리게 1965년 영화판으로 각색을 했다. 이후 다른 영화에서도 사용되어 널리 알려져있다. **도레미송**이라고도 한다.
 
@@ -39,12 +39,12 @@
 
 이 노래가 결론을 내리듯이 “노래를 하기 위한 음계를 알게 되면, 어떤 것이든 잘 부를 수 있다.” (*When you know the notes to sing, you can sing most anything*)
 
-작가인 [더글러스 애덤스는](https://ko.wikipedia.org/wiki/더글러스_애덤스 "wikilink") 그의 글에서 “미완의 작업이다”고 썼다. 가사의 각 줄이 솔파 음계에서 나온 음계명을 취하고 있으면서 의미를 부여하고 있지만, ‘라(La), 소(So) 다음에 오는’ 가사는 그러한 패턴에 맞지 않고, 그냥 땜빵이었다. 애덤스는 유머러스하게 오스카 해머스타인은 단지 “소를 따라가기 위한 음표”라고 썼고, 나중에 다른 것으로 떼울려고 했지만, 더 좋은 것이 떠오르지 않았다고 상상했다.\[1\]
+작가인 [더글러스 애덤스는](../Page/더글러스_애덤스.md "wikilink") 그의 글에서 “미완의 작업이다”고 썼다. 가사의 각 줄이 솔파 음계에서 나온 음계명을 취하고 있으면서 의미를 부여하고 있지만, ‘라(La), 소(So) 다음에 오는’ 가사는 그러한 패턴에 맞지 않고, 그냥 땜빵이었다. 애덤스는 유머러스하게 오스카 해머스타인은 단지 “소를 따라가기 위한 음표”라고 썼고, 나중에 다른 것으로 떼울려고 했지만, 더 좋은 것이 떠오르지 않았다고 상상했다.\[1\]
 
 ## 대중 문화
 
   - [마돈나](../Page/마돈나.md "wikilink")의 1992년 히트작 《Deeper and Deeper》에서 참조되었다. 그 노래의 가사에 "When you know the notes to sing, you can sing most anything."라는 구절이 등장한다.
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [12월 24일](https://ko.wikipedia.org/wiki/12월_24일 "wikilink") [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")의 [SNL 코리아에서](../Page/SNL_코리아.md "wikilink") [박칼린](../Page/박칼린.md "wikilink")이 머리 아픈 정치인들에게 도레미송을 풍자하여 가리키는 내용이 등장한다.\[2\]
+  - [2011년](../Page/2011년.md "wikilink") [12월 24일](../Page/12월_24일.md "wikilink") [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")의 [SNL 코리아에서](../Page/SNL_코리아.md "wikilink") [박칼린](../Page/박칼린.md "wikilink")이 머리 아픈 정치인들에게 도레미송을 풍자하여 가리키는 내용이 등장한다.\[2\]
 
 <!-- end list -->
 
@@ -53,7 +53,7 @@
 
 <!-- end list -->
 
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [2월 3일](https://ko.wikipedia.org/wiki/2월_3일 "wikilink") 섬마을 쌤에서 가수 [성시경](https://ko.wikipedia.org/wiki/성시경 "wikilink")이 아이들에게 도레미송을 가르친다.
+  - [2014년](../Page/2014년.md "wikilink") [2월 3일](../Page/2월_3일.md "wikilink") 섬마을 쌤에서 가수 [성시경](https://ko.wikipedia.org/wiki/성시경 "wikilink")이 아이들에게 도레미송을 가르친다.
 
 ## 같이 보기
 

@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Piece \(\)](https://ko.wikipedia.org/wiki/Piece_\(\)).
 
 
-《**Piece**》(피스)는, [아시하라 히나코의](https://ko.wikipedia.org/wiki/아시하라_히나코 "wikilink") [만화](https://ko.wikipedia.org/wiki/만화 "wikilink") 작품이다.
+《**Piece**》(피스)는, [아시하라 히나코의](../Page/아시하라_히나코.md "wikilink") [만화](../Page/만화.md "wikilink") 작품이다.
 
-〈[베츠코미](https://ko.wikipedia.org/wiki/베쓰코미 "wikilink")〉([쇼가쿠칸](../Page/쇼가쿠칸.md "wikilink"))에서 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 5월호부터 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") 5월호까지 2개월 간격으로 연재되었다. 단행본은 전 10권. 연재 개시 당시는 〈Piece\~그녀의 기억\~〉이라고 하는 타이틀이었다.
+〈[베츠코미](https://ko.wikipedia.org/wiki/베쓰코미 "wikilink")〉([쇼가쿠칸](../Page/쇼가쿠칸.md "wikilink"))에서 [2008년](../Page/2008년.md "wikilink") 5월호부터 [2013년](../Page/2013년.md "wikilink") 5월호까지 2개월 간격으로 연재되었다. 단행본은 전 10권. 연재 개시 당시는 〈Piece\~그녀의 기억\~〉이라고 하는 타이틀이었다.
 
 작자에 의하면, 테마는 〈생각하지 말아라, 느껴라\!〉라고 한다(단행본 제1권으로부터).
 
-2013년 1월, 제58회 [쇼가쿠칸 만화상](https://ko.wikipedia.org/wiki/쇼가쿠칸_만화상 "wikilink") 소녀 부문 수상\[1\].
+2013년 1월, 제58회 [쇼가쿠칸 만화상](../Page/쇼가쿠칸_만화상.md "wikilink") 소녀 부문 수상\[1\].
 
 ## 개요
 
@@ -60,7 +60,7 @@
 
 ## 텔레비전 드라마
 
-[2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [10월 6일부터](https://ko.wikipedia.org/wiki/10월_6일 "wikilink") [12월 29일까지](https://ko.wikipedia.org/wiki/12월_29일 "wikilink") [닛폰 TV](../Page/닛폰_TV_방송망.md "wikilink") [계열에서](https://ko.wikipedia.org/wiki/닛폰TV_네트워크_협의회 "wikilink") 매주 [토요일](https://ko.wikipedia.org/wiki/토요일 "wikilink") 24:55 \~ 25:25([JST](https://ko.wikipedia.org/wiki/일본_표준시 "wikilink"))에 방송되었다. [나카야마 유마는](https://ko.wikipedia.org/wiki/나카야마_유마 "wikilink") 《사랑해 악마\~뱀파이어☆보이\~》이래, 3년 만의 연속 드라마 주연.
+[2012년](../Page/2012년.md "wikilink") [10월 6일부터](../Page/10월_6일.md "wikilink") [12월 29일까지](../Page/12월_29일.md "wikilink") [닛폰 TV](../Page/닛폰_TV_방송망.md "wikilink") [계열에서](https://ko.wikipedia.org/wiki/닛폰TV_네트워크_협의회 "wikilink") 매주 [토요일](../Page/토요일.md "wikilink") 24:55 \~ 25:25([JST](../Page/일본_표준시.md "wikilink"))에 방송되었다. [나카야마 유마는](../Page/나카야마_유마.md "wikilink") 《사랑해 악마\~뱀파이어☆보이\~》이래, 3년 만의 연속 드라마 주연.
 
 ### 개요
 
@@ -74,11 +74,11 @@
 
 #### 나루미의 고교 시절
 
-  - 나루미 히카루 - [나카야마 유마](https://ko.wikipedia.org/wiki/나카야마_유마 "wikilink") ([NYC](../Page/NYC_\(음악_그룹\).md "wikilink")/어린 시절:나가타니 세나)
+  - 나루미 히카루 - [나카야마 유마](../Page/나카야마_유마.md "wikilink") ([NYC](../Page/NYC_\(음악_그룹\).md "wikilink")/어린 시절:나가타니 세나)
     미즈호의 고교 시절 동급생. 맨션의 3층으로부터 아무렇지도 않은 얼굴을 하고 뛰어내릴 정도의 운동신경을 가져, 무신경한 발언을 반복해도 여성에게 미움받지 않는 특이한 분위기를 가지고 있었다.
   - 스가 미즈호 - [혼다 츠바사](../Page/혼다_츠바사.md "wikilink") (어린 시절:엔도 리나)
     일관해서 생각이 변하지 않는, 주위의 환경에 흘러가지 않는 성격을 하고 있다. 요령 좋게 이끌어가는 능력이 있어, 타인에게 주의를 받지 않게 먼저 해서 행동한다.
-  - 야나이 타카시 - 마츠무라 호쿠토 ([쟈니즈 Jr.](https://ko.wikipedia.org/wiki/자니스_주니어 "wikilink"))
+  - 야나이 타카시 - 마츠무라 호쿠토 ([쟈니즈 Jr.](../Page/자니스_주니어.md "wikilink"))
     미즈호의 고교 시절 선배. 재학 중에는 많은 여자 학생으로부터의 주목 대상이었다.
   - 세토우치 마도카 - [스즈키 아이리](../Page/스즈키_아이리.md "wikilink")
     미즈호의 고교 시절 동급생. 고등학교 선배인 코이케와 지금도 교제를 순조롭게 계속하고 있다. 아무렇지도 않게 걱정을 보이지만 그 행위가 오히려 상대를 유혹하는 결과에 연결되어 버린다.
@@ -95,7 +95,7 @@
   - 미와 쿄코 - [미야타케 미오](../Page/미야타케_미오.md "wikilink") (bump.y)
     미즈호의 고교 시절부터의 친구.
   - 마츠우라 - 와타나베 쇼타 ([Snow Man](../Page/Mis_Snow_Man.md "wikilink"))
-    미술부에 소속해, 고2의 겨울 방학에 조모가 사는 이바라키 현 나카 시에 놀러 갔을 때, 역 앞에서 우연히 하루카를 보고, 그 모습을 [데생하고](https://ko.wikipedia.org/wiki/소묘 "wikilink") 있었다.
+    미술부에 소속해, 고2의 겨울 방학에 조모가 사는 이바라키 현 나카 시에 놀러 갔을 때, 역 앞에서 우연히 하루카를 보고, 그 모습을 [데생하고](../Page/소묘.md "wikilink") 있었다.
   - 나츠키 - [이시이 안나](../Page/이시이_안나_\(배우\).md "wikilink") (bunny)
     나루미의 고교 시절 여자 친구.
   - 미야모토 - [타카하시 츠토무](https://ko.wikipedia.org/wiki/타카하시_츠토무 "wikilink")
@@ -165,11 +165,11 @@
   - 각본 - 오오이시 테츠야, 마츠다 유코, 아카마츠 요시마사, 카토 아야코, 오이카와 마미
   - 음악 - 세가와 에이시
   - 음악 협력 - Matchbox Twenty ([WARNER MUSIC JAPAN](../Page/워너_뮤직_재팬.md "wikilink"))
-  - 주제가 - [나카야마 유마](https://ko.wikipedia.org/wiki/나카야마_유마 "wikilink") 〈[Missing Piece](../Page/Missing_Piece.md "wikilink")〉 ([쟈니즈 엔터테인먼트](../Page/자니스_엔터테인먼트.md "wikilink"))
+  - 주제가 - [나카야마 유마](../Page/나카야마_유마.md "wikilink") 〈[Missing Piece](../Page/Missing_Piece.md "wikilink")〉 ([쟈니즈 엔터테인먼트](../Page/자니스_엔터테인먼트.md "wikilink"))
   - 삽입곡 - 나카야마 유마 〈[물이 돌아가는 장소](../Page/Missing_Piece.md "wikilink")〉 (쟈니즈 엔터테인먼트)
   - 연출 - 카와이 하야토, 하시모토 코지로, 타키모토 켄고
   - 프로듀서 - 우에노 히로유키 (닛폰 TV), 와타나베 히로히토 (닛테레 악스온)
-  - 협력 - [쟈니즈 사무소](https://ko.wikipedia.org/wiki/자니스_사무소 "wikilink")
+  - 협력 - [쟈니즈 사무소](../Page/자니스_사무소.md "wikilink")
   - 제작 프로덕션 - 닛테레 악스온
   - 기획 제작 - [닛폰 TV](../Page/닛폰_TV_방송망.md "wikilink")
   - 제작 - vap
@@ -313,7 +313,7 @@
 </tr>
 <tr class="even">
 <td><p>평균 시청률 2.1%<br />
-(시청률은 <a href="https://ko.wikipedia.org/wiki/간토_지방" title="wikilink">칸토 지구</a>·<a href="../Page/비디오_리서치.md" title="wikilink">비디오 리서치사</a> 조사)</p></td>
+(시청률은 <a href="../Page/간토_지방.md" title="wikilink">칸토 지구</a>·<a href="../Page/비디오_리서치.md" title="wikilink">비디오 리서치사</a> 조사)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -329,9 +329,9 @@
 </table>
 
   - 첫회는 30분 확대 방송 (24:55 \~ 25:55).
-  - 제2화는 토요 드라마 《[악몽짱](https://ko.wikipedia.org/wiki/악몽짱 "wikilink")》이 15분 확대 방송되어 25:10 \~ 25:40에 방영.
-  - 제3화는 [프로 야구](https://ko.wikipedia.org/wiki/프로_야구 "wikilink")·[클라이맥스 시리즈](https://ko.wikipedia.org/wiki/2012년_센트럴_리그_클라이맥스_시리즈 "wikilink") 제4전 [요미우리 자이언츠대](https://ko.wikipedia.org/wiki/요미우리_자이언츠 "wikilink")[주니치 드래건스](../Page/주니치_드래건스.md "wikilink") 중계 연장에 의해 25:10 \~ 25:40에 방영.
-  - 제4화는 [코나미 일본 시리즈 2012](https://ko.wikipedia.org/wiki/2012년_일본_시리즈 "wikilink") 제1전 중계 연장에 의해 25:45 \~ 26:15 방영.
+  - 제2화는 토요 드라마 《[악몽짱](../Page/악몽짱.md "wikilink")》이 15분 확대 방송되어 25:10 \~ 25:40에 방영.
+  - 제3화는 [프로 야구](https://ko.wikipedia.org/wiki/프로_야구 "wikilink")·[클라이맥스 시리즈](../Page/2012년_센트럴_리그_클라이맥스_시리즈.md "wikilink") 제4전 [요미우리 자이언츠대](../Page/요미우리_자이언츠.md "wikilink")[주니치 드래건스](../Page/주니치_드래건스.md "wikilink") 중계 연장에 의해 25:10 \~ 25:40에 방영.
+  - 제4화는 [코나미 일본 시리즈 2012](../Page/2012년_일본_시리즈.md "wikilink") 제1전 중계 연장에 의해 25:45 \~ 26:15 방영.
   - 제5화는 코나미 일본 시리즈 2012 제6전 중계 연장에 의해 26:00 \~ 26:30 방영.
   - 제6 \~ 9화는 프로그램 조정의 형편 때문에 25:05 \~ 25:35 방영.
   - 제10·11화는 프로그램 조정의 형편 때문에 25:41 \~ 26:11 방영.

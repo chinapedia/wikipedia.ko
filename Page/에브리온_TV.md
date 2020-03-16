@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ TV](https://ko.wikipedia.org/wiki/_TV).
 
 
-**에브리온 TV**는 [현대백화점그룹](https://ko.wikipedia.org/wiki/현대백화점그룹 "wikilink") [MSO인](https://ko.wikipedia.org/wiki/종합유선방송사업자 "wikilink") [현대HCN](../Page/현대HCN.md "wikilink")의 자회사이다. 에브리온TV는 실시간 N스크린 TV 서비스를 제공하고 있다.\[1\] 2011년 8월 9일 PC 기반 베타 서비스로 시작하여\[2\] 2014년 5월 기준 250여개 채널의 실시간 보기 서비스를 제공하고 있다. PC, 아이폰, 아이패드, 안드로이드 기반 스마트폰 및 태블릿PC에 이어 맥과 윈도 폰 전용 플레이어를 지원한다.\[3\]
+**에브리온 TV**는 [현대백화점그룹](../Page/현대백화점그룹.md "wikilink") [MSO인](https://ko.wikipedia.org/wiki/종합유선방송사업자 "wikilink") [현대HCN](../Page/현대HCN.md "wikilink")의 자회사이다. 에브리온TV는 실시간 N스크린 TV 서비스를 제공하고 있다.\[1\] 2011년 8월 9일 PC 기반 베타 서비스로 시작하여\[2\] 2014년 5월 기준 250여개 채널의 실시간 보기 서비스를 제공하고 있다. PC, 아이폰, 아이패드, 안드로이드 기반 스마트폰 및 태블릿PC에 이어 맥과 윈도 폰 전용 플레이어를 지원한다.\[3\]
 
-비회원 기반 무료 서비스이며,\[4\] 실시간 TV 보기 서비스만 제공한다. 지상파계열PP는 서비스되지 않으며, [종합편성채널](https://ko.wikipedia.org/wiki/종합편성채널 "wikilink"), 보도채널, 중소규모 [PP](https://terms.naver.com/entry.nhn?docId=18878&mobile&categoryId=2898) 및 [CP](https://ko.wikipedia.org/wiki/컨텐츠_서비스_제공자 "wikilink") 채널, 일부지역 케이블 자체채널 중심의 채널을 제공한다. 오는 [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [9월 30일부로](https://ko.wikipedia.org/wiki/9월_30일 "wikilink") 에브리온 TV는 공지사항에서 봤듯이 서비스가 종료되고, 10월부터 HCN 모바일 TV에서 똑같은 서비스를 이어받는다.
+비회원 기반 무료 서비스이며,\[4\] 실시간 TV 보기 서비스만 제공한다. 지상파계열PP는 서비스되지 않으며, [종합편성채널](https://ko.wikipedia.org/wiki/종합편성채널 "wikilink"), 보도채널, 중소규모 [PP](https://terms.naver.com/entry.nhn?docId=18878&mobile&categoryId=2898) 및 [CP](https://ko.wikipedia.org/wiki/컨텐츠_서비스_제공자 "wikilink") 채널, 일부지역 케이블 자체채널 중심의 채널을 제공한다. 오는 [2019년](../Page/2019년.md "wikilink") [9월 30일부로](../Page/9월_30일.md "wikilink") 에브리온 TV는 공지사항에서 봤듯이 서비스가 종료되고, 10월부터 HCN 모바일 TV에서 똑같은 서비스를 이어받는다.
 
 ## 제공 채널 목록
 

@@ -10,7 +10,7 @@
 ## 외부 링크
 
   -
-  - [Adult Video News Awards](https://www.imdb.com/Sections/Awards/Adult_Video_News_Awards/) - [인터넷 영화 데이터베이스](https://ko.wikipedia.org/wiki/인터넷_영화_데이터베이스 "wikilink")
+  - [Adult Video News Awards](https://www.imdb.com/Sections/Awards/Adult_Video_News_Awards/) - [인터넷 영화 데이터베이스](../Page/인터넷_영화_데이터베이스.md "wikilink")
 
 [분류:포르노 영화상](https://ko.wikipedia.org/wiki/분류:포르노_영화상 "wikilink")
 

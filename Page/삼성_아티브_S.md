@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [  S](https://ko.wikipedia.org/wiki/__S).
 
 
-**삼성 아티브 S**(Samsung ATIV S)는 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")에서 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [8월 29일](https://ko.wikipedia.org/wiki/8월_29일 "wikilink") [런던](https://ko.wikipedia.org/wiki/런던 "wikilink")에서 개최된 삼성 모바일 언팩행사에서 발표하여, [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [12월 14일에](https://ko.wikipedia.org/wiki/12월_14일 "wikilink") 출시한 [윈도 폰](https://ko.wikipedia.org/wiki/윈도_폰 "wikilink") [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")이다.
+**삼성 아티브 S**(Samsung ATIV S)는 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")에서 [2012년](../Page/2012년.md "wikilink") [8월 29일](../Page/8월_29일.md "wikilink") [런던](../Page/런던.md "wikilink")에서 개최된 삼성 모바일 언팩행사에서 발표하여, [2012년](../Page/2012년.md "wikilink") [12월 14일에](../Page/12월_14일.md "wikilink") 출시한 [윈도 폰](https://ko.wikipedia.org/wiki/윈도_폰 "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.
 
 이전에는 [윈도 모바일과](https://ko.wikipedia.org/wiki/윈도_모바일 "wikilink") 윈도 폰 운영체제 제품에 써오던 이름인 **옴니아**대신 채택한 이름인 **ATIV**는 라틴어로 **삶**(Life)를 뜻하는 **Vita**를 거꾸로 뒤집어서 그대로 읽은 것이다.
 
 ## 연혁
 
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [8월 29일](https://ko.wikipedia.org/wiki/8월_29일 "wikilink") : 삼성 모바일 언팩에서 공개
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [10월 29일](https://ko.wikipedia.org/wiki/10월_29일 "wikilink") : [윈도우8](https://ko.wikipedia.org/wiki/윈도우8 "wikilink") 런칭행사에서 공개
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [12월 14일](https://ko.wikipedia.org/wiki/12월_14일 "wikilink") : 제품 출시
+  - [2012년](../Page/2012년.md "wikilink") [8월 29일](../Page/8월_29일.md "wikilink") : 삼성 모바일 언팩에서 공개
+  - [2012년](../Page/2012년.md "wikilink") [10월 29일](../Page/10월_29일.md "wikilink") : [윈도우8](https://ko.wikipedia.org/wiki/윈도우8 "wikilink") 런칭행사에서 공개
+  - [2012년](../Page/2012년.md "wikilink") [12월 14일](../Page/12월_14일.md "wikilink") : 제품 출시
 
 ## exFAT포맷 지원
 
@@ -31,7 +31,7 @@
 ## 같이 보기
 
   - [윈도 폰](https://ko.wikipedia.org/wiki/윈도_폰 "wikilink")
-  - [삼성 아티브 탭](https://ko.wikipedia.org/wiki/삼성_아티브_탭 "wikilink")
+  - [삼성 아티브 탭](../Page/삼성_아티브_탭.md "wikilink")
   - [삼성 갤럭시 S III](../Page/삼성_갤럭시_S_III.md "wikilink")
   - [삼성 아티브 오디세이](https://ko.wikipedia.org/wiki/삼성_아티브_오디세이 "wikilink")
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SHINee WORLD](https://ko.wikipedia.org/wiki/SHINee_WORLD).
 
 
-《**SHINee The 1st CONCERT - SHINee WORLD**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [보이 그룹](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink") [샤이니](../Page/샤이니.md "wikilink")의 첫 번째 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").
+《**SHINee The 1st CONCERT - SHINee WORLD**》는 [대한민국](../Page/대한민국.md "wikilink")의 [보이 그룹](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink") [샤이니](../Page/샤이니.md "wikilink")의 첫 번째 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").
 
 ## 개요
 
@@ -11,7 +11,7 @@
 
 ### 종현의 부상
 
-콘서트를 앞두고 멤버 [종현](https://ko.wikipedia.org/wiki/종현 "wikilink")이 인도네시아 자카르타에서 개최된 '한국·인도네시아 우정콘서트' 공연 후 무대에 내려올 당시 인파가 한꺼번에 몰리면서 몸이 밀려, 그 과정에서 왼쪽 발목을 삐끗하는 부상을 당했다.\[3\] 이로 인해 콘서트에는 참석하였으나 퍼포먼스 무대에는 함께 하지 못했으며 향후 [EXO-M](https://ko.wikipedia.org/wiki/EXO-M "wikilink")의 멤버 [레이로](https://ko.wikipedia.org/wiki/레이_\(1991년\) "wikilink") 활동하게 되는 연습생 장이씽이 종현의 안무 동선을 대체할 보조 댄서로 나섰다. 종현은 서울 공연 1일 차인 1월 1일 공연에서의 클로징 멘트 중 북받친 감정에 눈물을 흘려 보는 이들을 숙연케하기도 했다. 이후 7월 16일 가졌던 타이베이 공연에서부터 안무 대열에 합류하였다.
+콘서트를 앞두고 멤버 [종현](../Page/종현.md "wikilink")이 인도네시아 자카르타에서 개최된 '한국·인도네시아 우정콘서트' 공연 후 무대에 내려올 당시 인파가 한꺼번에 몰리면서 몸이 밀려, 그 과정에서 왼쪽 발목을 삐끗하는 부상을 당했다.\[3\] 이로 인해 콘서트에는 참석하였으나 퍼포먼스 무대에는 함께 하지 못했으며 향후 [EXO-M](https://ko.wikipedia.org/wiki/EXO-M "wikilink")의 멤버 [레이로](https://ko.wikipedia.org/wiki/레이_\(1991년\) "wikilink") 활동하게 되는 연습생 장이씽이 종현의 안무 동선을 대체할 보조 댄서로 나섰다. 종현은 서울 공연 1일 차인 1월 1일 공연에서의 클로징 멘트 중 북받친 감정에 눈물을 흘려 보는 이들을 숙연케하기도 했다. 이후 7월 16일 가졌던 타이베이 공연에서부터 안무 대열에 합류하였다.
 
 ## 투어 일정
 
@@ -30,7 +30,7 @@
 <td><p>2010년 12월 26일 (1회)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/동경" title="wikilink">동경</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/국립_요요기_경기장" title="wikilink">국립 요요기 경기장</a> 제1체육관[4]</p></td>
+<td><p><a href="../Page/국립_요요기_경기장.md" title="wikilink">국립 요요기 경기장</a> 제1체육관[4]</p></td>
 <td><p>통산 26,000명</p></td>
 </tr>
 <tr class="even">
@@ -103,13 +103,13 @@
 
 ## 게스트
 
-| 일정            | 게스트                                                                                                                       |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| 2010년 12월 26일 | [크리스탈](https://ko.wikipedia.org/wiki/크리스탈_\(가수\) "wikilink")                                                              |
-| 2011년 1월 1일   |                                                                                                                           |
-| 2011년 1월 2일   | [크리스탈](https://ko.wikipedia.org/wiki/크리스탈_\(가수\) "wikilink"), [사이먼 도미닉](https://ko.wikipedia.org/wiki/사이먼_도미닉 "wikilink") |
-| 2011년 7월 16일  | [장리인](../Page/장리인.md "wikilink")                                                                                          |
-| 2011년 8월 20일  |                                                                                                                           |
+| 일정            | 게스트                                                                                 |
+| ------------- | ----------------------------------------------------------------------------------- |
+| 2010년 12월 26일 | [크리스탈](../Page/크리스탈_\(가수\).md "wikilink")                                           |
+| 2011년 1월 1일   |                                                                                     |
+| 2011년 1월 2일   | [크리스탈](../Page/크리스탈_\(가수\).md "wikilink"), [사이먼 도미닉](../Page/사이먼_도미닉.md "wikilink") |
+| 2011년 7월 16일  | [장리인](../Page/장리인.md "wikilink")                                                    |
+| 2011년 8월 20일  |                                                                                     |
 
 ## 관련 디스코그래피
 
@@ -131,7 +131,7 @@
 <td style="text-align: left;"><p>포토북</p></td>
 <td style="text-align: left;"><p>SHINee THE 1ST CONCERT PHOTOBOOK 《SHINee WORLD》 CONCERT BOOK</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2011년" title="wikilink">2011년</a> <a href="https://ko.wikipedia.org/wiki/11월_26일" title="wikilink">11월 26일</a></li>
+<li>발매일 : <a href="../Page/2011년.md" title="wikilink">2011년</a> <a href="../Page/11월_26일.md" title="wikilink">11월 26일</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -155,7 +155,7 @@
 <td style="text-align: left;"><p>라이브앨범</p></td>
 <td style="text-align: left;"><p>SHINEE THE 1ST CONCERT 《SHINEE WORLD》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2012년" title="wikilink">2012년</a> <a href="https://ko.wikipedia.org/wiki/2월_1일" title="wikilink">2월 1일</a></li>
+<li>발매일 : <a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/2월_1일.md" title="wikilink">2월 1일</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -179,7 +179,7 @@
 <td style="text-align: left;"><p>DVD</p></td>
 <td style="text-align: left;"><p>SHINEE THE 1ST CONCERT 《SHINEE WORLD》 DVD</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2012년" title="wikilink">2012년</a> <a href="https://ko.wikipedia.org/wiki/8월_8일" title="wikilink">8월 8일</a></li>
+<li>발매일 : <a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/8월_8일.md" title="wikilink">8월 8일</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -187,7 +187,7 @@
 
 ## 제작
 
-  - [샤이니](../Page/샤이니.md "wikilink") ([온유](https://ko.wikipedia.org/wiki/온유 "wikilink"), [종현](https://ko.wikipedia.org/wiki/종현 "wikilink"), [Key](https://ko.wikipedia.org/wiki/Key_\(가수\) "wikilink"), [민호](https://ko.wikipedia.org/wiki/민호 "wikilink"), [태민](https://ko.wikipedia.org/wiki/태민 "wikilink"))
+  - [샤이니](../Page/샤이니.md "wikilink") ([온유](../Page/온유.md "wikilink"), [종현](../Page/종현.md "wikilink"), [Key](https://ko.wikipedia.org/wiki/Key_\(가수\) "wikilink"), [민호](../Page/민호.md "wikilink"), [태민](../Page/태민.md "wikilink"))
   - 주최 : [SM엔터테인먼트](https://ko.wikipedia.org/wiki/SM엔터테인먼트 "wikilink")
   - 주관 : 드림메이커
   - 후원 : [G마켓](../Page/G마켓.md "wikilink")

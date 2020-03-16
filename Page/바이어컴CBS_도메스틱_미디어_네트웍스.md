@@ -37,7 +37,7 @@
 
   - [코미디 센트럴](../Page/코미디_센트럴.md "wikilink")<sup>7</sup>
   - [로고 TV](https://ko.wikipedia.org/wiki/로고_TV "wikilink")<sup>4</sup>
-  - [패러마운트 네트워크](https://ko.wikipedia.org/wiki/패러마운트_네트워크 "wikilink")
+  - [패러마운트 네트워크](../Page/패러마운트_네트워크.md "wikilink")
   - [컨트리 뮤직 텔레비전](https://ko.wikipedia.org/wiki/컨트리_뮤직_텔레비전 "wikilink")
       - [CMT 뮤직](https://ko.wikipedia.org/wiki/CMT_뮤직 "wikilink")<sup>3</sup>
       - [TV 랜드](https://ko.wikipedia.org/wiki/TV_랜드 "wikilink")

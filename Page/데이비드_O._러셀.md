@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ O. ](https://ko.wikipedia.org/wiki/_O._).
 
 
-**데이비드 O. 러셀**(, [1958년](https://ko.wikipedia.org/wiki/1958년 "wikilink") [8월 20일](https://ko.wikipedia.org/wiki/8월_20일 "wikilink") \~ )은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [영화 감독](../Page/영화_감독.md "wikilink"), [각본가](https://ko.wikipedia.org/wiki/각본가 "wikilink"), [영화 프로듀서이다](https://ko.wikipedia.org/wiki/영화_프로듀서 "wikilink"). 그는 감독 경력 초반에 《스팽킹 더 멍키》(1994), 《디제스터》(1996), 《[쓰리 킹즈](../Page/쓰리_킹즈.md "wikilink")》(1999), 《[아이 하트 헉커비스](https://ko.wikipedia.org/wiki/아이_하트_헉커비스 "wikilink")》(2004) 등을 포함한 코미디 영화를 연출했다. 러셀은 세 편의 전기 스포츠 드라마 영화 《[파이터](https://ko.wikipedia.org/wiki/파이터_\(2010년_영화\) "wikilink")》(2010), 로맨틱 코미디 드라마 영화 《[실버라이닝 플레이북](https://ko.wikipedia.org/wiki/실버라이닝_플레이북 "wikilink")》(2012), 코미디 드라마 범죄 영화 《[아메리칸 허슬](../Page/아메리칸_허슬.md "wikilink")》(2013)로 상업적으로 성공했고 비평가들로부터 찬사를 받았으며, [미국 아카데미상](https://ko.wikipedia.org/wiki/미국_아카데미상 "wikilink") 감독상에 세 번 후보 지명 되었고, 《[실버라이닝 플레이북](https://ko.wikipedia.org/wiki/실버라이닝_플레이북 "wikilink")》으로 각색상과 《[아메리칸 허슬](../Page/아메리칸_허슬.md "wikilink")》로 각본상에 후보 지명 되었다. 러셀은 반전기 코미디 드라마 영화 《[조이](../Page/조이_\(영화\).md "wikilink")》(2015)로 [골든 글로브상에](../Page/골든_글로브상.md "wikilink") 일곱 번 후보 지명 되었다.
+**데이비드 O. 러셀**(, [1958년](../Page/1958년.md "wikilink") [8월 20일](../Page/8월_20일.md "wikilink") \~ )은 [미국](../Page/미국.md "wikilink")의 [영화 감독](../Page/영화_감독.md "wikilink"), [각본가](https://ko.wikipedia.org/wiki/각본가 "wikilink"), [영화 프로듀서이다](https://ko.wikipedia.org/wiki/영화_프로듀서 "wikilink"). 그는 감독 경력 초반에 《스팽킹 더 멍키》(1994), 《디제스터》(1996), 《[쓰리 킹즈](../Page/쓰리_킹즈.md "wikilink")》(1999), 《[아이 하트 헉커비스](https://ko.wikipedia.org/wiki/아이_하트_헉커비스 "wikilink")》(2004) 등을 포함한 코미디 영화를 연출했다. 러셀은 세 편의 전기 스포츠 드라마 영화 《[파이터](../Page/파이터_\(2010년_영화\).md "wikilink")》(2010), 로맨틱 코미디 드라마 영화 《[실버라이닝 플레이북](../Page/실버라이닝_플레이북.md "wikilink")》(2012), 코미디 드라마 범죄 영화 《[아메리칸 허슬](../Page/아메리칸_허슬.md "wikilink")》(2013)로 상업적으로 성공했고 비평가들로부터 찬사를 받았으며, [미국 아카데미상](https://ko.wikipedia.org/wiki/미국_아카데미상 "wikilink") 감독상에 세 번 후보 지명 되었고, 《[실버라이닝 플레이북](../Page/실버라이닝_플레이북.md "wikilink")》으로 각색상과 《[아메리칸 허슬](../Page/아메리칸_허슬.md "wikilink")》로 각본상에 후보 지명 되었다. 러셀은 반전기 코미디 드라마 영화 《[조이](../Page/조이_\(영화\).md "wikilink")》(2015)로 [골든 글로브상에](../Page/골든_글로브상.md "wikilink") 일곱 번 후보 지명 되었다.
 
 ## 필모그래피
 
@@ -112,7 +112,7 @@
 </tr>
 <tr class="even">
 <td><p>2010</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/파이터_(2010년_영화)" title="wikilink">파이터</a><br />
+<td><p><a href="../Page/파이터_(2010년_영화).md" title="wikilink">파이터</a><br />
 <em>The Fighter</em></p></td>
 <td></td>
 <td></td>
@@ -120,7 +120,7 @@
 </tr>
 <tr class="odd">
 <td><p>2012</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/실버라이닝_플레이북" title="wikilink">실버라이닝 플레이북</a><br />
+<td><p><a href="../Page/실버라이닝_플레이북.md" title="wikilink">실버라이닝 플레이북</a><br />
 <em>Silver Linings Playbook</em></p></td>
 <td></td>
 <td></td>

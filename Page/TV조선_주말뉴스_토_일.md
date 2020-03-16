@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TV   ](https://ko.wikipedia.org/wiki/TV___).
 
 
-**TV조선 주말뉴스 토 일**은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서 주말 오후 7시 \~ 8시에 [텔레비전](https://ko.wikipedia.org/wiki/텔레비전 "wikilink")으로 방송했던 [TV조선](../Page/TV조선.md "wikilink")의 주말 메인 [뉴스](../Page/뉴스.md "wikilink") 프로그램이다.
+**TV조선 주말뉴스 토 일**은 [대한민국](../Page/대한민국.md "wikilink")에서 주말 오후 7시 \~ 8시에 [텔레비전](../Page/텔레비전.md "wikilink")으로 방송했던 [TV조선](../Page/TV조선.md "wikilink")의 주말 메인 [뉴스](../Page/뉴스.md "wikilink") 프로그램이다.
 
 ## 방송시간
 
@@ -22,7 +22,7 @@
   - [윤정호](https://ko.wikipedia.org/wiki/윤정호 "wikilink"), [이승연](https://ko.wikipedia.org/wiki/이승연_\(조선방송\) "wikilink") (2012년 9월 22일 \~ 2013년 4월)
   - [엄성섭](../Page/엄성섭.md "wikilink"), [최윤정](https://ko.wikipedia.org/wiki/최윤정_\(기자\) "wikilink") {2015년 3월 \~2015년 5월 31일)
   - [김명우](https://ko.wikipedia.org/wiki/김명우 "wikilink"), [김자민](https://ko.wikipedia.org/wiki/김자민 "wikilink") (2015년 6월 6일 \~ 2015년 7월 26일)
-  - [강동원](https://ko.wikipedia.org/wiki/강동원 "wikilink"), [김자민](https://ko.wikipedia.org/wiki/김자민 "wikilink") (2015년 8월 1일 \~ 2015년 9월 6일)
+  - [강동원](../Page/강동원.md "wikilink"), [김자민](https://ko.wikipedia.org/wiki/김자민 "wikilink") (2015년 8월 1일 \~ 2015년 9월 6일)
 
 ## 주요 코너
 

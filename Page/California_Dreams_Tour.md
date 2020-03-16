@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [California Dreams Tour](https://ko.wikipedia.org/wiki/California_Dreams_Tour).
 
 
-**California Dreams Tour** 또는 **The California Dreams Tour**는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 가수 [케이티 페리의](https://ko.wikipedia.org/wiki/케이티_페리 "wikilink") 두 번째 콘서트 투어이다. 이 투어는 페리의 세 번째 정규 앨범 *[Teenage Dream](https://ko.wikipedia.org/wiki/Teenage_Dream "wikilink")*을 홍보하는 투어이다. 투어는 2011년 2월부터 시작했는데, 유럽, 오스트레일리아, 아시아, 북아메리카, 남아메리카를 순회했다.\[1\] 투어는 2011년 동안 5,950만 달러를 벌어들여 《[폴스타](https://ko.wikipedia.org/wiki/폴스타 "wikilink")》의 "2011년 세계 투어 탑 25" 순위 중 16위에 올랐다.\[2\] 2011년 《[빌보드](https://ko.wikipedia.org/wiki/빌보드 "wikilink")》가 선정한 "최고의 투어 25" 순위에서는 124회의 공연을 통해 6,000만 달러를 벌어들여 13위에 선정되었다.\[3\] 제38회 [피플스 초이스 어워드에서는](https://ko.wikipedia.org/wiki/피플스_초이스_어워드 "wikilink") 가장 좋아하는 투어 헤드라이너상을 받았다.\[4\]
+**California Dreams Tour** 또는 **The California Dreams Tour**는 [미국](../Page/미국.md "wikilink")의 가수 [케이티 페리의](../Page/케이티_페리.md "wikilink") 두 번째 콘서트 투어이다. 이 투어는 페리의 세 번째 정규 앨범 *[Teenage Dream](https://ko.wikipedia.org/wiki/Teenage_Dream "wikilink")*을 홍보하는 투어이다. 투어는 2011년 2월부터 시작했는데, 유럽, 오스트레일리아, 아시아, 북아메리카, 남아메리카를 순회했다.\[1\] 투어는 2011년 동안 5,950만 달러를 벌어들여 《[폴스타](https://ko.wikipedia.org/wiki/폴스타 "wikilink")》의 "2011년 세계 투어 탑 25" 순위 중 16위에 올랐다.\[2\] 2011년 《[빌보드](../Page/빌보드.md "wikilink")》가 선정한 "최고의 투어 25" 순위에서는 124회의 공연을 통해 6,000만 달러를 벌어들여 13위에 선정되었다.\[3\] 제38회 [피플스 초이스 어워드에서는](https://ko.wikipedia.org/wiki/피플스_초이스_어워드 "wikilink") 가장 좋아하는 투어 헤드라이너상을 받았다.\[4\]
 
 ## 배경
 
@@ -49,38 +49,38 @@
 </tr>
 <tr class="even">
 <td><p>2011년 2월 20일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/리스본" title="wikilink">리스본</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/포르투갈" title="wikilink">포르투갈</a></p></td>
+<td><p><a href="../Page/리스본.md" title="wikilink">리스본</a></p></td>
+<td><p><a href="../Page/포르투갈.md" title="wikilink">포르투갈</a></p></td>
 <td><p>Campo Pequeno</p></td>
 </tr>
 <tr class="odd">
 <td><p>2011년 2월 23일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/밀라노" title="wikilink">밀라노</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이탈리아" title="wikilink">이탈리아</a></p></td>
+<td><p><a href="../Page/밀라노.md" title="wikilink">밀라노</a></p></td>
+<td><p><a href="../Page/이탈리아.md" title="wikilink">이탈리아</a></p></td>
 <td><p>Mediolanum Forum</p></td>
 </tr>
 <tr class="even">
 <td><p>2011년 2월 25일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/취리히" title="wikilink">취리히</a></p></td>
+<td><p><a href="../Page/취리히.md" title="wikilink">취리히</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/스위스" title="wikilink">스위스</a></p></td>
 <td><p>Hallenstadion</p></td>
 </tr>
 <tr class="odd">
 <td><p>2011년 2월 26일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뮌헨" title="wikilink">뮌헨</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/독일" title="wikilink">독일</a></p></td>
+<td><p><a href="../Page/뮌헨.md" title="wikilink">뮌헨</a></p></td>
+<td><p><a href="../Page/독일.md" title="wikilink">독일</a></p></td>
 <td><p>Zenith Munich</p></td>
 </tr>
 <tr class="even">
 <td><p>2011년 2월 27일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/비엔나" title="wikilink">비엔나</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오스트리아" title="wikilink">오스트리아</a></p></td>
+<td><p><a href="../Page/오스트리아.md" title="wikilink">오스트리아</a></p></td>
 <td><p>Wiener Stadthalle</p></td>
 </tr>
 <tr class="odd">
 <td><p>2011년 3월 4일</p></td>
 <td><p><a href="../Page/베를린.md" title="wikilink">베를린</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/독일" title="wikilink">독일</a></p></td>
+<td><p><a href="../Page/독일.md" title="wikilink">독일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Max-Schmeling-Halle" title="wikilink">Max-Schmeling-Halle</a></p></td>
 </tr>
 <tr class="even">
@@ -91,7 +91,7 @@
 </tr>
 <tr class="odd">
 <td><p>2011년 3월 7일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/파리_(프랑스)" title="wikilink">파리</a></p></td>
+<td><p><a href="../Page/파리_(프랑스).md" title="wikilink">파리</a></p></td>
 <td><p><a href="../Page/프랑스.md" title="wikilink">프랑스</a></p></td>
 <td><p>Zénith de Paris</p></td>
 </tr>
@@ -104,31 +104,31 @@
 <tr class="odd">
 <td><p>2011년 3월 10일</p></td>
 <td><p><a href="../Page/브뤼셀.md" title="wikilink">브뤼셀</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/벨기에" title="wikilink">벨기에</a></p></td>
+<td><p><a href="../Page/벨기에.md" title="wikilink">벨기에</a></p></td>
 <td><p>포레스트 네셔널</p></td>
 </tr>
 <tr class="even">
 <td><p>2011년 3월 11일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/쾰른" title="wikilink">쾰른</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/독일" title="wikilink">독일</a></p></td>
+<td><p><a href="../Page/쾰른.md" title="wikilink">쾰른</a></p></td>
+<td><p><a href="../Page/독일.md" title="wikilink">독일</a></p></td>
 <td><p>Palladium Köln</p></td>
 </tr>
 <tr class="odd">
 <td><p>2011년 3월 14일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/함부르크" title="wikilink">함부르크</a></p></td>
+<td><p><a href="../Page/함부르크.md" title="wikilink">함부르크</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Alsterdorfer_Sporthalle" title="wikilink">Alsterdorfer Sporthalle</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2011년 3월 15일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/암스테르담" title="wikilink">암스테르담</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/네덜란드" title="wikilink">네덜란드</a></p></td>
+<td><p><a href="../Page/암스테르담.md" title="wikilink">암스테르담</a></p></td>
+<td><p><a href="../Page/네덜란드.md" title="wikilink">네덜란드</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Heineken_Music_Hall" title="wikilink">Heineken Music Hall</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2011년 3월 17일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/런던" title="wikilink">런던</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/영국" title="wikilink">영국</a></p></td>
+<td><p><a href="../Page/런던.md" title="wikilink">런던</a></p></td>
+<td><p><a href="../Page/영국.md" title="wikilink">영국</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Hammersmith_Apollo" title="wikilink">HMV Hammersmith Apollo</a></p></td>
 </tr>
 <tr class="even">
@@ -157,20 +157,20 @@
 </tr>
 <tr class="even">
 <td><p>2011년 3월 27일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/리버풀" title="wikilink">리버풀</a></p></td>
+<td><p><a href="../Page/리버풀.md" title="wikilink">리버풀</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/에코_아레나_리버풀" title="wikilink">에코 아레나 리버풀</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2011년 3월 28일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/더블린" title="wikilink">더블린</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아일랜드" title="wikilink">아일랜드</a></p></td>
+<td><p><a href="../Page/더블린.md" title="wikilink">더블린</a></p></td>
+<td><p><a href="../Page/아일랜드.md" title="wikilink">아일랜드</a></p></td>
 <td><p>더 O<sub>2</sub></p></td>
 </tr>
 <tr class="even">
 <td><p>2011년 3월 30일</p></td>
 <td><p><a href="../Page/노팅엄.md" title="wikilink">노팅엄</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/영국" title="wikilink">영국</a></p></td>
+<td><p><a href="../Page/영국.md" title="wikilink">영국</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/National_Ice_Centre" title="wikilink">Capital FM Arena Nottingham</a></p></td>
 </tr>
 <tr class="odd">
@@ -193,19 +193,19 @@
 </tr>
 <tr class="even">
 <td><p>2011년 4월 4일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/버밍엄" title="wikilink">버밍엄</a></p></td>
+<td><p><a href="../Page/버밍엄.md" title="wikilink">버밍엄</a></p></td>
 <td><p>LG 아레나</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2011년 4월 5일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/글래스고" title="wikilink">글래스고</a></p></td>
+<td><p><a href="../Page/글래스고.md" title="wikilink">글래스고</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Scottish_Exhibition_and_Conference_Centre" title="wikilink">Scottish Exhibition and Conference Centre</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2011년 4월 9일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/런던" title="wikilink">런던</a></p></td>
+<td><p><a href="../Page/런던.md" title="wikilink">런던</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/윔블리_아레나" title="wikilink">윔블리 아레나</a></p></td>
 <td></td>
 </tr>
@@ -221,8 +221,8 @@
 </tr>
 <tr class="even">
 <td><p>2011년 4월 82일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/멜버른" title="wikilink">멜버른</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오스트레일리아" title="wikilink">오스트레일리아</a></p></td>
+<td><p><a href="../Page/멜버른.md" title="wikilink">멜버른</a></p></td>
+<td><p><a href="../Page/오스트레일리아.md" title="wikilink">오스트레일리아</a></p></td>
 <td><p>로아드 레버 아레나</p></td>
 </tr>
 <tr class="odd">
@@ -239,7 +239,7 @@
 </tr>
 <tr class="odd">
 <td><p>2011년 5월 4일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/시드니" title="wikilink">시드니</a></p></td>
+<td><p><a href="../Page/시드니.md" title="wikilink">시드니</a></p></td>
 <td><p><a href="../Page/시드니_엔터테인먼트_센터.md" title="wikilink">시드니 엔터테인먼트 센터</a></p></td>
 <td></td>
 </tr>
@@ -252,7 +252,7 @@
 <tr class="odd">
 <td><p>2011년 5월 7일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/오클랜드" title="wikilink">오클랜드</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴질랜드" title="wikilink">뉴질랜드</a></p></td>
+<td><p><a href="../Page/뉴질랜드.md" title="wikilink">뉴질랜드</a></p></td>
 <td><p><a href="../Page/벡터_아레나.md" title="wikilink">벡터 아레나</a></p></td>
 </tr>
 <tr class="even">
@@ -263,19 +263,19 @@
 </tr>
 <tr class="odd">
 <td><p>2011년 5월 10일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/웰링턴" title="wikilink">웰링턴</a></p></td>
+<td><p><a href="../Page/웰링턴.md" title="wikilink">웰링턴</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/TSB_뱅크_아레나" title="wikilink">TSB 뱅크 아레나</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2011년 5월 13일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴캐슬_(뉴사우스웨일스주)" title="wikilink">뉴캐슬</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오스트레일리아" title="wikilink">오스트레일리아</a></p></td>
+<td><p><a href="../Page/뉴캐슬_(뉴사우스웨일스주).md" title="wikilink">뉴캐슬</a></p></td>
+<td><p><a href="../Page/오스트레일리아.md" title="wikilink">오스트레일리아</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/뉴캐슬_엔터테인먼트_아레나" title="wikilink">뉴캐슬 엔터테인먼트 아레나</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2011년 5월 14일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/시드니" title="wikilink">시드니</a></p></td>
+<td><p><a href="../Page/시드니.md" title="wikilink">시드니</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/시드니_엔터테인먼트_아레나" title="wikilink">시드니 엔터테인먼트 아레나</a></p></td>
 <td></td>
 </tr>
@@ -294,7 +294,7 @@
 <tr class="even">
 <td><p>201년 5월 22일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/나고야_시" title="wikilink">나고야 시</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/일본" title="wikilink">일본</a></p></td>
+<td><p><a href="../Page/일본.md" title="wikilink">일본</a></p></td>
 <td><p><a href="../Page/Zepp.md" title="wikilink">Zepp 나고야</a></p></td>
 </tr>
 <tr class="odd">
@@ -324,7 +324,7 @@
 <tr class="odd">
 <td><p>2011년 6월 7일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/달라스" title="wikilink">달라스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미국" title="wikilink">미국</a></p></td>
+<td><p><a href="../Page/미국.md" title="wikilink">미국</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Arena_at_Gwinnett_Center" title="wikilink">Arena at Gwinnett Center</a></p></td>
 </tr>
 <tr class="even">
@@ -354,7 +354,7 @@
 <tr class="even">
 <td><p>2011년 6월 15일</p></td>
 <td><p><a href="../Page/컬럼비아_(메릴랜드주).md" title="wikilink">컬럼비아</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Merriweather_Post_Pavilion" title="wikilink">Merriweather Post Pavilion</a></p></td>
+<td><p><a href="../Page/Merriweather_Post_Pavilion.md" title="wikilink">Merriweather Post Pavilion</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -365,7 +365,7 @@
 </tr>
 <tr class="even">
 <td><p>2011년 6얼 18일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/보스턴" title="wikilink">보스턴</a></p></td>
+<td><p><a href="../Page/보스턴.md" title="wikilink">보스턴</a></p></td>
 <td><p><a href="../Page/TD_가든.md" title="wikilink">TD 가든</a></p></td>
 <td></td>
 </tr>
@@ -383,7 +383,7 @@
 </tr>
 <tr class="odd">
 <td><p>2011년 6월 24일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/필라델피아" title="wikilink">필라델피아</a></p></td>
+<td><p><a href="../Page/필라델피아.md" title="wikilink">필라델피아</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Wells_Fargo_Center" title="wikilink">Wells Fargo Center</a></p></td>
 <td></td>
 </tr>
@@ -401,8 +401,8 @@
 </tr>
 <tr class="even">
 <td><p>2011년 6월 29일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/토론토" title="wikilink">토론토</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/캐나다" title="wikilink">캐나다</a></p></td>
+<td><p><a href="../Page/토론토.md" title="wikilink">토론토</a></p></td>
+<td><p><a href="../Page/캐나다.md" title="wikilink">캐나다</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/에어_캐나다_센터" title="wikilink">에어 캐나다 센터</a></p></td>
 </tr>
 <tr class="odd">
@@ -413,13 +413,13 @@
 </tr>
 <tr class="even">
 <td><p>2011년 7월 2일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/몬트리올" title="wikilink">몬트리올</a></p></td>
+<td><p><a href="../Page/몬트리올.md" title="wikilink">몬트리올</a></p></td>
 <td><p><a href="../Page/벨_센터.md" title="wikilink">벨 센터</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2011년 7월 3일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오타와" title="wikilink">오타와</a></p></td>
+<td><p><a href="../Page/오타와.md" title="wikilink">오타와</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/스코티아뱅크_플레이스" title="wikilink">스코티아뱅크 플레이스</a></p></td>
 <td></td>
 </tr>
@@ -455,7 +455,7 @@
 </tr>
 <tr class="odd">
 <td><p>2011년 7월 17일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/에드먼턴" title="wikilink">에드먼턴</a></p></td>
+<td><p><a href="../Page/에드먼턴.md" title="wikilink">에드먼턴</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/렉솔_플레이스" title="wikilink">렉솔 플레이스</a></p></td>
 <td></td>
 </tr>
@@ -467,13 +467,13 @@
 </tr>
 <tr class="odd">
 <td><p>2011년 7월 20일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/시애틀" title="wikilink">시애틀</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미국" title="wikilink">미국</a></p></td>
+<td><p><a href="../Page/시애틀.md" title="wikilink">시애틀</a></p></td>
+<td><p><a href="../Page/미국.md" title="wikilink">미국</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/키아레나" title="wikilink">키아레나</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2011년 7월 22일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/포틀랜드_(오리건주)" title="wikilink">포틀랜드</a></p></td>
+<td><p><a href="../Page/포틀랜드_(오리건주).md" title="wikilink">포틀랜드</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/로즈_가든" title="wikilink">로즈 가든</a></p></td>
 <td></td>
 </tr>
@@ -569,13 +569,13 @@
 </tr>
 <tr class="even">
 <td><p>2011년 8월 19일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/내슈빌" title="wikilink">내슈빌</a></p></td>
+<td><p><a href="../Page/내슈빌.md" title="wikilink">내슈빌</a></p></td>
 <td><p><a href="../Page/브리지스톤_아레나.md" title="wikilink">브리지스톤 아레나</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2011년 8월 20일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/세인트루이스" title="wikilink">세인트루이스</a></p></td>
+<td><p><a href="../Page/세인트루이스.md" title="wikilink">세인트루이스</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/스콧트레이드센터" title="wikilink">스콧트레이드센터</a></p></td>
 <td></td>
 </tr>
@@ -587,25 +587,25 @@
 </tr>
 <tr class="odd">
 <td><p>2011년 8월 23일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/세인트폴_(미네소타주)" title="wikilink">세인트폴</a></p></td>
+<td><p><a href="../Page/세인트폴_(미네소타주).md" title="wikilink">세인트폴</a></p></td>
 <td><p><a href="../Page/엑셀_에너지_센터.md" title="wikilink">엑셀 에너지 센터</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2011년 9월 1일</p></td>
 <td><p><a href="../Page/과달라하라_(멕시코).md" title="wikilink">과달라하라</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/멕시코" title="wikilink">멕시코</a></p></td>
+<td><p><a href="../Page/멕시코.md" title="wikilink">멕시코</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Auditorio_Telmex" title="wikilink">Auditorio Telmex</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2011년 9월 3일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/멕시코시티" title="wikilink">멕시코시티</a></p></td>
+<td><p><a href="../Page/멕시코시티.md" title="wikilink">멕시코시티</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Palacio_de_los_Deportes" title="wikilink">Palacio de los Deportes</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2011년 9월 5일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/몬테레이" title="wikilink">몬테레이</a></p></td>
+<td><p><a href="../Page/몬테레이.md" title="wikilink">몬테레이</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/아레나_몬테레이" title="wikilink">아레나 몬테레이</a></p></td>
 <td></td>
 </tr>
@@ -617,7 +617,7 @@
 </tr>
 <tr class="even">
 <td><p>2011년 9월 8일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴올리언스" title="wikilink">뉴올리언스</a></p></td>
+<td><p><a href="../Page/뉴올리언스.md" title="wikilink">뉴올리언스</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/뉴올리언스_아레나" title="wikilink">뉴올리언스 아레나</a></p></td>
 <td></td>
 </tr>
@@ -629,7 +629,7 @@
 </tr>
 <tr class="even">
 <td><p>2011년 9월 13일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/콜럼버스_(오하이오주)" title="wikilink">콜럼버스</a></p></td>
+<td><p><a href="../Page/콜럼버스_(오하이오주).md" title="wikilink">콜럼버스</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Value_City_Arena" title="wikilink">Value City Arena</a></p></td>
 <td></td>
 </tr>
@@ -660,7 +660,7 @@
 <tr class="odd">
 <td><p>2011년 9월 23일</p></td>
 <td><p><a href="../Page/리우데자네이루.md" title="wikilink">리우데자네이루</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/브라질" title="wikilink">브라질</a></p></td>
+<td><p><a href="../Page/브라질.md" title="wikilink">브라질</a></p></td>
 <td><p>Parque Olímpico Cidade do Rock</p></td>
 </tr>
 <tr class="even">
@@ -671,8 +671,8 @@
 </tr>
 <tr class="odd">
 <td><p>2011년 9월 27일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/부에노스아이레스" title="wikilink">부에노스아이레스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아르헨티나" title="wikilink">아르헨티나</a></p></td>
+<td><p><a href="../Page/부에노스아이레스.md" title="wikilink">부에노스아이레스</a></p></td>
+<td><p><a href="../Page/아르헨티나.md" title="wikilink">아르헨티나</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Estadio_G.E.B.A." title="wikilink">Estadio G.E.B.A.</a></p></td>
 </tr>
 <tr class="even">
@@ -683,7 +683,7 @@
 </tr>
 <tr class="odd">
 <td><p>201년 10월 12일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/셰필드" title="wikilink">셰필드</a></p></td>
+<td><p><a href="../Page/셰필드.md" title="wikilink">셰필드</a></p></td>
 <td><p>영국</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/셰필드_아레나" title="wikilink">셰필드 아레나</a></p></td>
 </tr>
@@ -713,7 +713,7 @@
 </tr>
 <tr class="even">
 <td><p>2011년 10월 24일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/벨파스트" title="wikilink">벨파스트</a></p></td>
+<td><p><a href="../Page/벨파스트.md" title="wikilink">벨파스트</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/오디세이_아레나" title="wikilink">오디세이 아레나</a></p></td>
 <td></td>
 </tr>
@@ -725,13 +725,13 @@
 </tr>
 <tr class="even">
 <td><p>2011년 10월 27일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴캐슬어폰타인" title="wikilink">뉴캐슬</a></p></td>
+<td><p><a href="../Page/뉴캐슬어폰타인.md" title="wikilink">뉴캐슬</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/메트로_라디오_아레나" title="wikilink">메트로 라디오 아레나</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2011년 10월 29일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/애버딘" title="wikilink">애버딘</a></p></td>
+<td><p><a href="../Page/애버딘.md" title="wikilink">애버딘</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Aberdeen_Exhibition_and_Conference_Centre" title="wikilink">Press &amp; Journal Arena</a></p></td>
 <td></td>
 </tr>
@@ -791,8 +791,8 @@
 </tr>
 <tr class="odd">
 <td><p>2011년 11월 16일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴욕" title="wikilink">뉴욕</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/매디슨_스퀘어_가든" title="wikilink">매디슨 스퀘어 가든</a></p></td>
+<td><p><a href="../Page/뉴욕.md" title="wikilink">뉴욕</a></p></td>
+<td><p><a href="../Page/매디슨_스퀘어_가든.md" title="wikilink">매디슨 스퀘어 가든</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -810,7 +810,7 @@
 <tr class="even">
 <td><p>2011년 11월 22일</p></td>
 <td><p>로스앤젤레스</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/스테이플스_센터" title="wikilink">스테이플스 센터</a></p></td>
+<td><p><a href="../Page/스테이플스_센터.md" title="wikilink">스테이플스 센터</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -828,7 +828,7 @@
 <tr class="odd">
 <td><p>2012년 1월 19일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/보고르" title="wikilink">보고르</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/인도네시아" title="wikilink">인도네시아</a></p></td>
+<td><p><a href="../Page/인도네시아.md" title="wikilink">인도네시아</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Sentul_International_Convention_Center" title="wikilink">SICC Auditorium</a></p></td>
 </tr>
 <tr class="even">

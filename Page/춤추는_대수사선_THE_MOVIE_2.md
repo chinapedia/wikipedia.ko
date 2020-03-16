@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [  THE MOVIE 2](https://ko.wikipedia.org/wiki/__THE_MOVIE_2).
 
 
-《**춤추는 대수사선 THE MOVIE 2 레인보우 브릿지를 봉쇄하라\!**》()는 [후지 TV에서](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 방영되었던 동명의 TV [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink") 극장판 두 번째 시리즈인 [영화](../Page/영화.md "wikilink")이다. 약칭 OD2. 국제 버전 BAYSIDE SHAKEDOWN2가 리믹스 제작되어 상영되기도 하였다.
+《**춤추는 대수사선 THE MOVIE 2 레인보우 브릿지를 봉쇄하라\!**》()는 [후지 TV에서](../Page/후지_TV.md "wikilink") 방영되었던 동명의 TV [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink") 극장판 두 번째 시리즈인 [영화](../Page/영화.md "wikilink")이다. 약칭 OD2. 국제 버전 BAYSIDE SHAKEDOWN2가 리믹스 제작되어 상영되기도 하였다.
 
 ## 개요
 
-[일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서 흥행 수입은 173.5억엔으로 [외화](https://ko.wikipedia.org/wiki/외화 "wikilink")와 [애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink")을 제외한 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") 방화 영화 흥행수입 1위를 기록했다. [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") 현재 역대 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")내 영화 흥행 성적 6위를, 방화 [영화](../Page/영화.md "wikilink") 흥행 수입 순위에서 1위를 기록하고 있다.
+[일본](../Page/일본.md "wikilink")에서 흥행 수입은 173.5억엔으로 [외화](https://ko.wikipedia.org/wiki/외화 "wikilink")와 [애니메이션](../Page/애니메이션.md "wikilink")을 제외한 [2003년](../Page/2003년.md "wikilink") 방화 영화 흥행수입 1위를 기록했다. [2009년](../Page/2009년.md "wikilink") 현재 역대 [일본](../Page/일본.md "wikilink")내 영화 흥행 성적 6위를, 방화 [영화](../Page/영화.md "wikilink") 흥행 수입 순위에서 1위를 기록하고 있다.
 
-극중 설정은 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") 11월 22일부터 24일까지의 3일간이다.
+극중 설정은 [2003년](../Page/2003년.md "wikilink") 11월 22일부터 24일까지의 3일간이다.
 
 ## 선전 문구
 
@@ -23,10 +23,10 @@
 
 #### 주요 수상 내역
 
-  - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") 키네마 준보 일본 영화 베스트 25위
+  - [2003년](../Page/2003년.md "wikilink") 키네마 준보 일본 영화 베스트 25위
       - 독자 선정 일본 영화 베스트 9위
-  - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") 마이니치 영화 콩쿨 일본 영화 팬 상
-  - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") 영화 예술 일본 영화 워스트 텐 9위
+  - [2003년](../Page/2003년.md "wikilink") 마이니치 영화 콩쿨 일본 영화 팬 상
+  - [2003년](../Page/2003년.md "wikilink") 영화 예술 일본 영화 워스트 텐 9위
 
 ## 외부 링크
 

@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ DA](https://ko.wikipedia.org/wiki/_DA).
 
 
-**쌍용 DA트럭**(구 **동아 DA트럭**)은 동아자동차에서 생산하다가 [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") 쌍용이 동아자동차를 인수하면서 [1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink") 쌍용 DA트럭이 되었으며, 모델로는 DA10, DA20, DA30, DA50 등이 있었다.
+**쌍용 DA트럭**(구 **동아 DA트럭**)은 동아자동차에서 생산하다가 [1986년](../Page/1986년.md "wikilink") 쌍용이 동아자동차를 인수하면서 [1988년](../Page/1988년.md "wikilink") 쌍용 DA트럭이 되었으며, 모델로는 DA10, DA20, DA30, DA50 등이 있었다.
 
-[1977년](https://ko.wikipedia.org/wiki/1977년 "wikilink")부터 동아자동차는 [닛산와](https://ko.wikipedia.org/wiki/닛산_자동차 "wikilink") 기술 제휴를 하여 닛산 디젤 C시리즈를 들여와 생산했으며, 초기에는 DA10만 생산했다. [현대 90A](../Page/현대_대형트럭.md "wikilink"), 기아 KM시리즈와 경쟁했으며, 10기통과 8기통 엔진을 장착했다. [1981년](https://ko.wikipedia.org/wiki/1981년 "wikilink")에는 닛산 디젤의 특장 모델을 바탕으로 만든 DA20모델도 추가했으며, 소방차, 살수차, 카고, 트랙터 등이 있었으며, 소방차의 경우 DA10이 대부분이었다. 영화 \<2424\>에서 박태호([전광렬](https://ko.wikipedia.org/wiki/전광렬 "wikilink"))가 훔처서 도망가는 소방차가 DA10이다. 1987년까지 DA10, [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink")까지 DA20 모델이 생산되었으며, 그 후 대체 모델로 닛산 디젤 레조나의 설계를 바탕으로 개발한 DA30을 생산하다 [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink")에는 기존의 DA30에서 소폭 개량한 DA50을 생산하였으며, 이전 모델처럼 소방차나 레미콘등 주로 특장차로 생산되었다. [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink")에 [SY트럭이](https://ko.wikipedia.org/wiki/쌍용_SY트럭 "wikilink") 나오면서 병행 생산하다가 [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink")까지 생산하였다.
+[1977년](../Page/1977년.md "wikilink")부터 동아자동차는 [닛산와](../Page/닛산_자동차.md "wikilink") 기술 제휴를 하여 닛산 디젤 C시리즈를 들여와 생산했으며, 초기에는 DA10만 생산했다. [현대 90A](../Page/현대_대형트럭.md "wikilink"), 기아 KM시리즈와 경쟁했으며, 10기통과 8기통 엔진을 장착했다. [1981년](../Page/1981년.md "wikilink")에는 닛산 디젤의 특장 모델을 바탕으로 만든 DA20모델도 추가했으며, 소방차, 살수차, 카고, 트랙터 등이 있었으며, 소방차의 경우 DA10이 대부분이었다. 영화 \<2424\>에서 박태호([전광렬](../Page/전광렬.md "wikilink"))가 훔처서 도망가는 소방차가 DA10이다. 1987년까지 DA10, [1986년](../Page/1986년.md "wikilink")까지 DA20 모델이 생산되었으며, 그 후 대체 모델로 닛산 디젤 레조나의 설계를 바탕으로 개발한 DA30을 생산하다 [1987년](../Page/1987년.md "wikilink")에는 기존의 DA30에서 소폭 개량한 DA50을 생산하였으며, 이전 모델처럼 소방차나 레미콘등 주로 특장차로 생산되었다. [1993년](../Page/1993년.md "wikilink")에 [SY트럭이](../Page/쌍용_SY트럭.md "wikilink") 나오면서 병행 생산하다가 [1994년](../Page/1994년.md "wikilink")까지 생산하였다.
 
 ## 연혁별 차량 라인업 DA10/DA20
 

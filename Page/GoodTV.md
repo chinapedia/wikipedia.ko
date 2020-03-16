@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [GoodTV](https://ko.wikipedia.org/wiki/GoodTV).
 
 
-**GOODTV**(기독교복음방송)는 기독교 전문 채널로 [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [12월 25일](https://ko.wikipedia.org/wiki/12월_25일 "wikilink") C3TV 인터넷 방송 개국을 시작으로 '땅 끝까지 복음전파'라는 그리스도의 지상명령을 따라 미디어 선교를 전개하고 있다. 2009년 6월 TV분야는 C3TV에서 **GOODTV**로 채널명을 변경하였다.
+**GOODTV**(기독교복음방송)는 기독교 전문 채널로 [1997년](../Page/1997년.md "wikilink") [12월 25일](../Page/12월_25일.md "wikilink") C3TV 인터넷 방송 개국을 시작으로 '땅 끝까지 복음전파'라는 그리스도의 지상명령을 따라 미디어 선교를 전개하고 있다. 2009년 6월 TV분야는 C3TV에서 **GOODTV**로 채널명을 변경하였다.
 
 위성 방송, 케이블TV, IPTV 등의 매체를 통해 전국 1,600만 가시청가구를 가진 기독교 전문 채널로 성장하였다. 2008년 새로운 방송매체인 IPTV의 등장을 앞두고 8월 기독교 최초이자 유일한 CUG 서비스인 '우리교회방송(KT 888번)'을 런칭한 데 이어, 2010년 VOD를 포함한 서비스로 업그레이드하였다. 그 결과 현재 260여 개별 교회방송과 기독교 최대 VOD 콘텐츠를 제공하는 기독교 대표 서비스로, 크리스천의 높은 이용률과 여러 사업자의 주목을 이끌어 내고 있다.
 
@@ -9,16 +9,16 @@
 
 ## 연혁
 
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [12월 25일](https://ko.wikipedia.org/wiki/12월_25일 "wikilink") 인터넷방송 정식개국.
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [12월 25일](https://ko.wikipedia.org/wiki/12월_25일 "wikilink") 개국특집 지저스크라이스트 슈퍼스타 단독중계.
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [8월 1일](https://ko.wikipedia.org/wiki/8월_1일 "wikilink") 기독교 최초 CUG 서비스 런칭 (KT 우리교회방송(CH.888))
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [11월 18일](https://ko.wikipedia.org/wiki/11월_18일 "wikilink") IPTV 기독교채널로 단독선정 (KT, SKB)
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [6월 1일](https://ko.wikipedia.org/wiki/6월_1일 "wikilink") 채널명(구 C3TV) 변경
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [8월 1일](https://ko.wikipedia.org/wiki/8월_1일 "wikilink") 서울 영등포구 양평동에 사옥 신축 및 이전
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [4월 21일](https://ko.wikipedia.org/wiki/4월_21일 "wikilink") 스마트TV 앱 '우리교회방송', 미래부 주관 '스마트TV 앱 개발 지원사업' 대상자로 선정
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [10월 29일](https://ko.wikipedia.org/wiki/10월_29일 "wikilink") 신임 대표이사 사장 김명전 취임
-  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [2월 14일](https://ko.wikipedia.org/wiki/2월_14일 "wikilink") KT스카이라이프 위성방송 론칭
-  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [7월 11일](https://ko.wikipedia.org/wiki/7월_11일 "wikilink") GOODTV 뉴욕지사 개국
+  - [1997년](../Page/1997년.md "wikilink") [12월 25일](../Page/12월_25일.md "wikilink") 인터넷방송 정식개국.
+  - [1997년](../Page/1997년.md "wikilink") [12월 25일](../Page/12월_25일.md "wikilink") 개국특집 지저스크라이스트 슈퍼스타 단독중계.
+  - [2008년](../Page/2008년.md "wikilink") [8월 1일](../Page/8월_1일.md "wikilink") 기독교 최초 CUG 서비스 런칭 (KT 우리교회방송(CH.888))
+  - [2008년](../Page/2008년.md "wikilink") [11월 18일](../Page/11월_18일.md "wikilink") IPTV 기독교채널로 단독선정 (KT, SKB)
+  - [2009년](../Page/2009년.md "wikilink") [6월 1일](../Page/6월_1일.md "wikilink") 채널명(구 C3TV) 변경
+  - [2010년](../Page/2010년.md "wikilink") [8월 1일](../Page/8월_1일.md "wikilink") 서울 영등포구 양평동에 사옥 신축 및 이전
+  - [2014년](../Page/2014년.md "wikilink") [4월 21일](../Page/4월_21일.md "wikilink") 스마트TV 앱 '우리교회방송', 미래부 주관 '스마트TV 앱 개발 지원사업' 대상자로 선정
+  - [2015년](../Page/2015년.md "wikilink") [10월 29일](../Page/10월_29일.md "wikilink") 신임 대표이사 사장 김명전 취임
+  - [2018년](../Page/2018년.md "wikilink") [2월 14일](../Page/2월_14일.md "wikilink") KT스카이라이프 위성방송 론칭
+  - [2018년](../Page/2018년.md "wikilink") [7월 11일](../Page/7월_11일.md "wikilink") GOODTV 뉴욕지사 개국
 
 ## 외부 링크
 

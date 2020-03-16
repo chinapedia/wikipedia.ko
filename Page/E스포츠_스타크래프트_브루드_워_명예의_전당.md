@@ -3,7 +3,7 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Starcraft_brood_war_hall_of_fame.jpg "wikilink") **e스포츠 스타크래프트 브루드 워 명예의 전당**은 2012년 8월 [한국e스포츠협회](../Page/한국e스포츠협회.md "wikilink")가 제정한 모임이다.
 
-[SK플래닛 스타크래프트 II 프로리그 시즌 2를](../Page/SK플래닛_스타크래프트_II_프로리그_시즌_2.md "wikilink") 끝으로 역사 속으로 완전히 사라지는 [스타크래프트: 브루드 워](https://ko.wikipedia.org/wiki/스타크래프트:_브루드_워 "wikilink") 공식 리그를 기념하는 뜻에서 그 동안 브루드 워 리그에서 활약한 프로게이머들을 재조명하기 위해 제정되었다.
+[SK플래닛 스타크래프트 II 프로리그 시즌 2를](../Page/SK플래닛_스타크래프트_II_프로리그_시즌_2.md "wikilink") 끝으로 역사 속으로 완전히 사라지는 [스타크래프트: 브루드 워](../Page/스타크래프트:_브루드_워.md "wikilink") 공식 리그를 기념하는 뜻에서 그 동안 브루드 워 리그에서 활약한 프로게이머들을 재조명하기 위해 제정되었다.
 
 명예의 전당에 등극한 프로게이머들은 2012년 9월 22일 감사패 증정과 함께 핸드 프린팅식을 진행하였다. 또한 추후 e스포츠전용 경기장이 설립되면 Hall of Fame 기념관에 선수들의 핸드프린팅과 유니폼, 마우스 등 기념물들을 기증받아 전시될 예정이다.\[1\]
 
@@ -50,7 +50,7 @@
 <tr class="odd">
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/테란" title="wikilink">테란</a></strong></p></td>
 <td><div style="font-size:80%">
-<p><strong><a href="https://ko.wikipedia.org/wiki/임요환" title="wikilink">임요환</a></strong></p></td>
+<p><strong><a href="../Page/임요환.md" title="wikilink">임요환</a></strong></p></td>
 <td><div style="font-size:80%">
 <p>2회 우승, 4회 준우승</p></td>
 <td><div style="font-size:80%">
@@ -149,7 +149,7 @@
 </tr>
 <tr class="even">
 <td><div style="font-size:80%">
-<p><strong><a href="https://ko.wikipedia.org/wiki/정명훈_(프로게이머)" title="wikilink">정명훈</a></strong></p></td>
+<p><strong><a href="../Page/정명훈_(프로게이머).md" title="wikilink">정명훈</a></strong></p></td>
 <td><div style="font-size:80%">
 <p>1회 우승, 4회 준우승</p></td>
 <td><div style="font-size:80%">

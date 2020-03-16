@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [TV](https://ko.wikipedia.org/wiki/TV).
 
 
-《**TV시티**》는 [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [6월 5일](https://ko.wikipedia.org/wiki/6월_5일 "wikilink") \~ [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [7월 25일까지](https://ko.wikipedia.org/wiki/7월_25일 "wikilink") 방영된 [MBC](https://ko.wikipedia.org/wiki/문화방송 "wikilink") 월화드라마이다.
+《**TV시티**》는 [1995년](../Page/1995년.md "wikilink") [6월 5일](../Page/6월_5일.md "wikilink") \~ [1995년](../Page/1995년.md "wikilink") [7월 25일까지](../Page/7월_25일.md "wikilink") 방영된 [MBC](../Page/문화방송.md "wikilink") 월화드라마이다.
 
 ## 출연진
 
-  - [권오중](https://ko.wikipedia.org/wiki/권오중 "wikilink") : 이동호
+  - [권오중](../Page/권오중.md "wikilink") : 이동호
   - [김지호](../Page/김지호_\(배우\).md "wikilink") : 홍혜준
   - [김보성](https://ko.wikipedia.org/wiki/김보성_\(배우\) "wikilink") : 서경석
   - [정선일](../Page/정선일.md "wikilink") : 성재
   - [남주희](https://ko.wikipedia.org/wiki/남주희 "wikilink") : 유정
-  - [조민기](https://ko.wikipedia.org/wiki/조민기 "wikilink")
-  - [정찬](https://ko.wikipedia.org/wiki/정찬_\(배우\) "wikilink") : 영태
+  - [조민기](../Page/조민기.md "wikilink")
+  - [정찬](../Page/정찬_\(배우\).md "wikilink") : 영태
   - [유태웅](../Page/유태웅.md "wikilink") : 정훈
   - [한상혁](https://ko.wikipedia.org/wiki/한상혁 "wikilink")
   - [이원재](https://ko.wikipedia.org/wiki/이원재 "wikilink")

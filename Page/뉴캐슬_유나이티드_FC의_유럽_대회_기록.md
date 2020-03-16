@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  FC   ](https://ko.wikipedia.org/wiki/__FC___).
 
 
-**[뉴캐슬 유나이티드](../Page/뉴캐슬_유나이티드_FC.md "wikilink")**는 **[유럽 대회](https://ko.wikipedia.org/wiki/유럽_축구_연맹 "wikilink")**에서 1968-69 시즌 [인터시티스 페어스컵에서](../Page/인터시티스_페어스컵.md "wikilink") 우승한 적이 있다. 그들의 첫 [UEFA 챔피언스리그](../Page/UEFA_챔피언스리그.md "wikilink") 진출은 [1997-98 시즌이었으며](https://ko.wikipedia.org/wiki/UEFA_챔피언스리그_1997-98 "wikilink"), UEFA컵 위너스컵에는 1998-99 시즌에 출전한 바 있다. [유럽 축구 연맹](https://ko.wikipedia.org/wiki/유럽_축구_연맹 "wikilink") 공식 우승 기록으로는 [UEFA 인터토토컵이](../Page/UEFA_인터토토컵.md "wikilink") 유일하며, 2012-13 시즌까지 총 17시즌을 유럽 대회에 참가하였다.
+**[뉴캐슬 유나이티드](../Page/뉴캐슬_유나이티드_FC.md "wikilink")**는 **[유럽 대회](../Page/유럽_축구_연맹.md "wikilink")**에서 1968-69 시즌 [인터시티스 페어스컵에서](../Page/인터시티스_페어스컵.md "wikilink") 우승한 적이 있다. 그들의 첫 [UEFA 챔피언스리그](../Page/UEFA_챔피언스리그.md "wikilink") 진출은 [1997-98 시즌이었으며](https://ko.wikipedia.org/wiki/UEFA_챔피언스리그_1997-98 "wikilink"), UEFA컵 위너스컵에는 1998-99 시즌에 출전한 바 있다. [유럽 축구 연맹](../Page/유럽_축구_연맹.md "wikilink") 공식 우승 기록으로는 [UEFA 인터토토컵이](../Page/UEFA_인터토토컵.md "wikilink") 유일하며, 2012-13 시즌까지 총 17시즌을 유럽 대회에 참가하였다.
 
 ## 시즌별 경기 결과
 
@@ -24,7 +24,7 @@
 <td><p><a href="../Page/인터시티스_페어스컵.md" title="wikilink">인터시티스 페어스컵</a></p></td>
 <td><p>1라운드</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/페예노르트" title="wikilink">페예노르트</a></p></td>
+<td><p><a href="../Page/페예노르트.md" title="wikilink">페예노르트</a></p></td>
 <td><p>4-0</p></td>
 <td><p>0-2</p></td>
 <td><p><strong>4</strong>-2</p></td>
@@ -52,7 +52,7 @@
 <tr class="even">
 <td><p>8강전</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/비토리아_FC" title="wikilink">비토리아</a></p></td>
+<td><p><a href="../Page/비토리아_FC.md" title="wikilink">비토리아</a></p></td>
 <td><p>5-1</p></td>
 <td><p>1-3</p></td>
 <td><p><strong>6</strong>-4</p></td>
@@ -151,10 +151,10 @@
 </tr>
 <tr class="even">
 <td><p>1977-78</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/UEFA_유로파리그" title="wikilink">UEFA컵</a></p></td>
+<td><p><a href="../Page/UEFA_유로파리그.md" title="wikilink">UEFA컵</a></p></td>
 <td><p>1라운드</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/보헤미안_FC" title="wikilink">보헤미안</a></p></td>
+<td><p><a href="../Page/보헤미안_FC.md" title="wikilink">보헤미안</a></p></td>
 <td><p>4-0</p></td>
 <td><p>0-0</p></td>
 <td><p><strong>4</strong>-0</p></td>
@@ -171,7 +171,7 @@
 </tr>
 <tr class="even">
 <td><p>1994-95</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/UEFA_유로파리그" title="wikilink">UEFA컵</a></p></td>
+<td><p><a href="../Page/UEFA_유로파리그.md" title="wikilink">UEFA컵</a></p></td>
 <td><p>1라운드</p></td>
 <td></td>
 <td><p><a href="../Page/로열_앤트워프_FC.md" title="wikilink">로열 앤트워프</a></p></td>
@@ -191,7 +191,7 @@
 </tr>
 <tr class="even">
 <td><p>1996-97</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/UEFA_유로파리그" title="wikilink">UEFA컵</a></p></td>
+<td><p><a href="../Page/UEFA_유로파리그.md" title="wikilink">UEFA컵</a></p></td>
 <td><p>1라운드</p></td>
 <td></td>
 <td><p><a href="../Page/할름스타드_BK.md" title="wikilink">할름스타드</a></p></td>
@@ -251,7 +251,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/PSV_에인트호번" title="wikilink">PSV</a></p></td>
+<td><p><a href="../Page/PSV_에인트호번.md" title="wikilink">PSV</a></p></td>
 <td><p>0-2</p></td>
 <td><p>0-1</p></td>
 <td></td>
@@ -281,7 +281,7 @@
 </tr>
 <tr class="odd">
 <td><p>1999-00</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/UEFA_유로파리그" title="wikilink">UEFA컵</a></p></td>
+<td><p><a href="../Page/UEFA_유로파리그.md" title="wikilink">UEFA컵</a></p></td>
 <td><p>1라운드</p></td>
 <td></td>
 <td><p><a href="../Page/PFC_CSKA_소피아.md" title="wikilink">CSKA 소피아</a></p></td>
@@ -352,7 +352,7 @@
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/UEFA_챔피언스리그_2002-03#조별_리그" title="wikilink">조별 리그</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유벤투스_FC" title="wikilink">유벤투스</a></p></td>
+<td><p><a href="../Page/유벤투스_FC.md" title="wikilink">유벤투스</a></p></td>
 <td><p>1-0</p></td>
 <td><p>0-2</p></td>
 <td></td>
@@ -371,7 +371,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/페예노르트" title="wikilink">페예노르트</a></p></td>
+<td><p><a href="../Page/페예노르트.md" title="wikilink">페예노르트</a></p></td>
 <td><p>0-1</p></td>
 <td><p>3-2</p></td>
 <td></td>
@@ -401,7 +401,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/바이어_04_레버쿠젠" title="wikilink">레버쿠젠</a></p></td>
+<td><p><a href="../Page/바이어_04_레버쿠젠.md" title="wikilink">레버쿠젠</a></p></td>
 <td><p>3-1</p></td>
 <td><p>3-1</p></td>
 <td></td>
@@ -420,10 +420,10 @@
 <td><p>1<strong>-1(PK)</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/UEFA_유로파리그" title="wikilink">UEFA컵</a></p></td>
+<td><p><a href="../Page/UEFA_유로파리그.md" title="wikilink">UEFA컵</a></p></td>
 <td><p>1라운드</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/NAC_브레다" title="wikilink">브레다</a></p></td>
+<td><p><a href="../Page/NAC_브레다.md" title="wikilink">브레다</a></p></td>
 <td><p>5-0</p></td>
 <td><p>1-0</p></td>
 <td><p><strong>6</strong>-0</p></td>
@@ -462,7 +462,7 @@
 <tr class="odd">
 <td><p>8강전</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/PSV_에인트호번" title="wikilink">PSV</a></p></td>
+<td><p><a href="../Page/PSV_에인트호번.md" title="wikilink">PSV</a></p></td>
 <td><p>2-1</p></td>
 <td><p>1-1</p></td>
 <td><p><strong>3</strong>-2</p></td>
@@ -584,7 +584,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/UEFA_인터토토컵_2006" title="wikilink">UEFA 인터토토컵</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/UEFA_인터토토컵_2006#3회전" title="wikilink">3라운드</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/릴레스트룀_SK" title="wikilink">릴레스트룀</a></p></td>
+<td><p><a href="../Page/릴레스트룀_SK.md" title="wikilink">릴레스트룀</a></p></td>
 <td><p>1-1</p></td>
 <td><p>3-0</p></td>
 <td><p><strong>4</strong>-1</p></td>
@@ -672,7 +672,7 @@
 <tr class="even">
 <td><p>조별 리그</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/CS_마리티무" title="wikilink">마리티무</a></p></td>
+<td><p><a href="../Page/CS_마리티무.md" title="wikilink">마리티무</a></p></td>
 <td><p>1-1</p></td>
 <td><p>0-0</p></td>
 <td></td>
@@ -749,6 +749,6 @@
   - [인터시티스 페어스컵](../Page/인터시티스_페어스컵.md "wikilink")
   - [UEFA 챔피언스리그](../Page/UEFA_챔피언스리그.md "wikilink")
   - [UEFA 인터토토컵](../Page/UEFA_인터토토컵.md "wikilink")
-  - [UEFA 유로파리그](https://ko.wikipedia.org/wiki/UEFA_유로파리그 "wikilink")
+  - [UEFA 유로파리그](../Page/UEFA_유로파리그.md "wikilink")
 
 [분류:뉴캐슬 유나이티드 FC](https://ko.wikipedia.org/wiki/분류:뉴캐슬_유나이티드_FC "wikilink")

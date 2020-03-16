@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Sweet Dreams \(  \)](https://ko.wikipedia.org/wiki/Sweet_Dreams_\(__\)).
 
 
-**Sweet Dreams (Hola Hola Eh)**은 [유로댄스](https://ko.wikipedia.org/wiki/유로댄스 "wikilink") 그룹인 [라 부시의](https://ko.wikipedia.org/wiki/라_부시 "wikilink") 노래이다. 이 노래는 동일한 이름의 음반에 리드 싱글로 1994년 3월 처음 발매되었다. [북미](https://ko.wikipedia.org/wiki/북미 "wikilink")에서는 1996년 1월 발매되었다. [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 1995년 9월 발매되었다.\[1\]
+**Sweet Dreams (Hola Hola Eh)**은 [유로댄스](https://ko.wikipedia.org/wiki/유로댄스 "wikilink") 그룹인 [라 부시의](https://ko.wikipedia.org/wiki/라_부시 "wikilink") 노래이다. 이 노래는 동일한 이름의 음반에 리드 싱글로 1994년 3월 처음 발매되었다. [북미](https://ko.wikipedia.org/wiki/북미 "wikilink")에서는 1996년 1월 발매되었다. [대한민국](../Page/대한민국.md "wikilink")에서는 1995년 9월 발매되었다.\[1\]
 
 ## 트랙 리스트
 

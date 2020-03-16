@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Nostalgia \(  \)](https://ko.wikipedia.org/wiki/Nostalgia_\(__\)).
 
 
-**Nostlagia**는 [GARNET CROW의](../Page/GARNET_CROW.md "wikilink") 34번째 싱글이자, 마지막 싱글이다. [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [9월 26일](https://ko.wikipedia.org/wiki/9월_26일 "wikilink") [기자 스튜디오에서](https://ko.wikipedia.org/wiki/기자_스튜디오 "wikilink") 발매되었다.
+**Nostlagia**는 [GARNET CROW의](../Page/GARNET_CROW.md "wikilink") 34번째 싱글이자, 마지막 싱글이다. [2012년](../Page/2012년.md "wikilink") [9월 26일](../Page/9월_26일.md "wikilink") [기자 스튜디오에서](https://ko.wikipedia.org/wiki/기자_스튜디오 "wikilink") 발매되었다.
 
 전곡의 작곡은 [나카무라 유리](https://ko.wikipedia.org/wiki/나카무라_유리 "wikilink"), 작사는 [아즈키 나나](../Page/아즈키_나나.md "wikilink"), 편곡은 [후루이 히로히토가](../Page/후루이_히로히토.md "wikilink") 맡았다. 싱글은 초회한정반(GZCA - 7168)과 통상반 (GZCA - 4136)으로 구성되어 있다.
 

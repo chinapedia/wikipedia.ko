@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [BBC ](https://ko.wikipedia.org/wiki/BBC_).
 
 
-**BBC 라디오**(BBC Radio)는 [BBC의](https://ko.wikipedia.org/wiki/영국방송공사 "wikilink") 라디오 방송이다.
+**BBC 라디오**(BBC Radio)는 [BBC의](../Page/영국방송공사.md "wikilink") 라디오 방송이다.
 
 ## 전국 채널
 
 ### 아날로그-디지털
 
   - [BBC 라디오 1](../Page/BBC_라디오_1.md "wikilink") : 청년층 대중 가요 및 토크 프로그램. (대한민국의 [KBS 쿨FM와](../Page/KBS_제2FM.md "wikilink") 비슷)
-  - [BBC 라디오 2](https://ko.wikipedia.org/wiki/BBC_라디오_2 "wikilink") : 중장년층 대중 가요 및 토크 프로그램. (대한민국의 [KBS 해피FM과](../Page/KBS_제2라디오.md "wikilink") 비슷)
-  - [BBC 라디오 3](https://ko.wikipedia.org/wiki/BBC_라디오_3 "wikilink") : 클래식 음악 및 일부 교양 프로그램. (대한민국의 [KBS 클래식FM과](../Page/KBS_제1FM.md "wikilink") 비슷)
-  - [BBC 라디오 4](https://ko.wikipedia.org/wiki/BBC_라디오_4 "wikilink") : 뉴스, 시사, 교양 프로그램. 01:00\~05:20(영국 시각)에는 [BBC 월드 서비스](../Page/BBC_월드_서비스.md "wikilink") 재송출. (01:00에 전환시 영국 국가가 나옴.) 영국의 비상 시 국가상황 확인용으로 쓰일 정도인 국가 기간방송임. (대한민국의 [KBS 제1라디오와](../Page/KBS_제1라디오.md "wikilink") 비슷)
-  - [BBC 라디오 5 라이브](https://ko.wikipedia.org/wiki/BBC_라디오_5_라이브 "wikilink") : 스포츠 및 뉴스 프로그램.
+  - [BBC 라디오 2](../Page/BBC_라디오_2.md "wikilink") : 중장년층 대중 가요 및 토크 프로그램. (대한민국의 [KBS 해피FM과](../Page/KBS_제2라디오.md "wikilink") 비슷)
+  - [BBC 라디오 3](../Page/BBC_라디오_3.md "wikilink") : 클래식 음악 및 일부 교양 프로그램. (대한민국의 [KBS 클래식FM과](../Page/KBS_제1FM.md "wikilink") 비슷)
+  - [BBC 라디오 4](../Page/BBC_라디오_4.md "wikilink") : 뉴스, 시사, 교양 프로그램. 01:00\~05:20(영국 시각)에는 [BBC 월드 서비스](../Page/BBC_월드_서비스.md "wikilink") 재송출. (01:00에 전환시 영국 국가가 나옴.) 영국의 비상 시 국가상황 확인용으로 쓰일 정도인 국가 기간방송임. (대한민국의 [KBS 제1라디오와](../Page/KBS_제1라디오.md "wikilink") 비슷)
+  - [BBC 라디오 5 라이브](../Page/BBC_라디오_5_라이브.md "wikilink") : 스포츠 및 뉴스 프로그램.
 
 ### 디지털
 
@@ -109,20 +109,20 @@
 
 #### [BBC 스코틀랜드](../Page/BBC_스코틀랜드.md "wikilink")
 
-  - [BBC 라디오 스코틀랜드](https://ko.wikipedia.org/wiki/:en:BBC_Radio_Scotland "wikilink"): [스코틀랜드](https://ko.wikipedia.org/wiki/스코틀랜드 "wikilink") 지역 방송
-  - [BBC Radio nan Gàidheal](https://ko.wikipedia.org/wiki/:en:BBC_Radio_nan_Gàidheal "wikilink"): [스코틀랜드 게일어](https://ko.wikipedia.org/wiki/스코틀랜드_게일어 "wikilink") 방송
+  - [BBC 라디오 스코틀랜드](https://ko.wikipedia.org/wiki/:en:BBC_Radio_Scotland "wikilink"): [스코틀랜드](../Page/스코틀랜드.md "wikilink") 지역 방송
+  - [BBC Radio nan Gàidheal](https://ko.wikipedia.org/wiki/:en:BBC_Radio_nan_Gàidheal "wikilink"): [스코틀랜드 게일어](../Page/스코틀랜드_게일어.md "wikilink") 방송
   - [BBC 라디오 셰틀랜드](https://ko.wikipedia.org/wiki/:en:BBC_Radio_Shetland "wikilink"): [셰틀랜드 제도](https://ko.wikipedia.org/wiki/셰틀랜드_제도 "wikilink") 지역 방송
   - [BBC 라디오 오크니](https://ko.wikipedia.org/wiki/:en:BBC_Radio_Orkney "wikilink"): [오크니 제도](https://ko.wikipedia.org/wiki/오크니_제도 "wikilink") 지역 방송
 
 #### [BBC 웨일스](https://ko.wikipedia.org/wiki/BBC_웨일스 "wikilink")
 
-  - [BBC 라디오 웨일스](https://ko.wikipedia.org/wiki/:en:BBC_Radio_Wales "wikilink"): [웨일스](https://ko.wikipedia.org/wiki/웨일스 "wikilink") 지역 방송
-  - [BBC Radio Cymru](https://ko.wikipedia.org/wiki/:en:BBC_Radio_Cymru "wikilink"): [웨일스어](https://ko.wikipedia.org/wiki/웨일스어 "wikilink") 방송
+  - [BBC 라디오 웨일스](https://ko.wikipedia.org/wiki/:en:BBC_Radio_Wales "wikilink"): [웨일스](../Page/웨일스.md "wikilink") 지역 방송
+  - [BBC Radio Cymru](https://ko.wikipedia.org/wiki/:en:BBC_Radio_Cymru "wikilink"): [웨일스어](../Page/웨일스어.md "wikilink") 방송
 
 #### [BBC 북아일랜드](https://ko.wikipedia.org/wiki/BBC_북아일랜드 "wikilink")
 
-  - [BBC 라디오 얼스터](https://ko.wikipedia.org/wiki/:en:BBC_Radio_Ulster "wikilink"): [북아일랜드](https://ko.wikipedia.org/wiki/북아일랜드 "wikilink") 지역 방송
-  - [BBC Radio Foyle](https://ko.wikipedia.org/wiki/:en:BBC_Radio_Foyle "wikilink"): 북서부 [북아일랜드](https://ko.wikipedia.org/wiki/북아일랜드 "wikilink") 지역 방송
+  - [BBC 라디오 얼스터](https://ko.wikipedia.org/wiki/:en:BBC_Radio_Ulster "wikilink"): [북아일랜드](../Page/북아일랜드.md "wikilink") 지역 방송
+  - [BBC Radio Foyle](https://ko.wikipedia.org/wiki/:en:BBC_Radio_Foyle "wikilink"): 북서부 [북아일랜드](../Page/북아일랜드.md "wikilink") 지역 방송
 
 ## 외부 링크
 

@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [DDR4 SDRAM](https://ko.wikipedia.org/wiki/DDR4_SDRAM).
 
 
-[컴퓨팅](https://ko.wikipedia.org/wiki/컴퓨팅 "wikilink") 분야에서 **DDR4 SDRAM**은 2배속 [SDRAM](https://ko.wikipedia.org/wiki/SDRAM "wikilink")의 일종으로, 2014년에 출시되었다.\[1\]\[2\]\[3\] 'DDR4 SDRAM'은 'double data rate 4th generation synchronous dynamic random-access memory'(4세대 2배속 동기 동적 랜덤 접근 기억장치)를 줄인 말이다.
+[컴퓨팅](../Page/컴퓨팅.md "wikilink") 분야에서 **DDR4 SDRAM**은 2배속 [SDRAM](../Page/SDRAM.md "wikilink")의 일종으로, 2014년에 출시되었다.\[1\]\[2\]\[3\] 'DDR4 SDRAM'은 'double data rate 4th generation synchronous dynamic random-access memory'(4세대 2배속 동기 동적 랜덤 접근 기억장치)를 줄인 말이다.
 
 1970년대 초 이후로 사용되어 온 DRAM들 중 가장 최근의 변종이 되며,\[4\] [DDR2 SDRAM과](../Page/DDR2_SDRAM.md "wikilink") [DDR3 SDRAM](../Page/DDR3_SDRAM.md "wikilink") 기술의 뒤를 이었다. DDR4 SDRAM은 서로 다른 신호 전압, 물리적 인터페이스, 기타 요인으로 인해 이전 세대의 RAM과는 호환되지 않는다.
 
-DDR4 SDRAM은 2015년 2/4분기에 [ECC 메모리에](https://ko.wikipedia.org/wiki/ECC_메모리 "wikilink") 주력하여 시장에 공개되었고,\[5\] 비 ECC 메모리 모듈은 DDR4 메모리를 사용하는 [하스웰-E의](../Page/하스웰_\(마이크로아키텍처\).md "wikilink") 출시와 함께 2014년 3/4분기에 출시되었다.\[6\]
+DDR4 SDRAM은 2015년 2/4분기에 [ECC 메모리에](../Page/ECC_메모리.md "wikilink") 주력하여 시장에 공개되었고,\[5\] 비 ECC 메모리 모듈은 DDR4 메모리를 사용하는 [하스웰-E의](../Page/하스웰_\(마이크로아키텍처\).md "wikilink") 출시와 함께 2014년 3/4분기에 출시되었다.\[6\]
 
 ## 특징
 
-이전 기종인 DDR3에 비해 DDR4가 좋은 점으로는 모듈 밀도가 높고, 높은 [비트 전송률과](https://ko.wikipedia.org/wiki/비트레이트 "wikilink") 함께 필요한 전압이 낮음을 들 수 있다. DDR4의 기준은 이론적으로 DIMM이 용량 512[GiB까지](https://ko.wikipedia.org/wiki/기비바이트 "wikilink") 가능한데, DDR3의 경우 이론적으로 DIMM당 128GiB이 최고였다.\[7\] DDR4는 1.2 V에 800에서 1600 MHz의 주파수로 운용되는데, DDR3는 1.5 V 또는 1.65 V에서 400에서 1067 MHz로 기동한다.\[8\]\[9\]\[10\] 2014년 8월 저전력 기준이 확정되지는 않았지만, 저전력 DDR4는 DDR3의 저전력 기준인 1.35V의 운용 전압보다 낮은 1.05V로 구동이 된다.\[11\]
+이전 기종인 DDR3에 비해 DDR4가 좋은 점으로는 모듈 밀도가 높고, 높은 [비트 전송률과](../Page/비트레이트.md "wikilink") 함께 필요한 전압이 낮음을 들 수 있다. DDR4의 기준은 이론적으로 DIMM이 용량 512[GiB까지](https://ko.wikipedia.org/wiki/기비바이트 "wikilink") 가능한데, DDR3의 경우 이론적으로 DIMM당 128GiB이 최고였다.\[7\] DDR4는 1.2 V에 800에서 1600 MHz의 주파수로 운용되는데, DDR3는 1.5 V 또는 1.65 V에서 400에서 1067 MHz로 기동한다.\[8\]\[9\]\[10\] 2014년 8월 저전력 기준이 확정되지는 않았지만, 저전력 DDR4는 DDR3의 저전력 기준인 1.35V의 운용 전압보다 낮은 1.05V로 구동이 된다.\[11\]
 
 ### DIMM 차이
 

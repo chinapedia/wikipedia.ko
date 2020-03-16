@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [KBS  ](https://ko.wikipedia.org/wiki/KBS__).
 
 
-**KBS 걸작 다큐멘터리**는 매주 [수요일](https://ko.wikipedia.org/wiki/수요일 "wikilink") 밤 12시 40분에 [KBS 1TV에서](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방송되는 [다큐멘터리 텔레비전 프로그램이다](https://ko.wikipedia.org/wiki/다큐멘터리_텔레비전_프로그램 "wikilink").
+**KBS 걸작 다큐멘터리**는 매주 [수요일](../Page/수요일.md "wikilink") 밤 12시 40분에 [KBS 1TV에서](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방송되는 [다큐멘터리 텔레비전 프로그램이다](../Page/다큐멘터리_텔레비전_프로그램.md "wikilink").
 
 ## 특징
 
-[KBS에서](../Page/한국방송공사.md "wikilink") 방송된 [다큐멘터리 텔레비전 프로그램을](https://ko.wikipedia.org/wiki/다큐멘터리_텔레비전_프로그램 "wikilink") 재방송한다.
+[KBS에서](../Page/한국방송공사.md "wikilink") 방송된 [다큐멘터리 텔레비전 프로그램을](../Page/다큐멘터리_텔레비전_프로그램.md "wikilink") 재방송한다.
 
 ## 방송 시간
 
-방송 시간은 [수요일](https://ko.wikipedia.org/wiki/수요일 "wikilink") 방송을 기준으로 한다.
+방송 시간은 [수요일](../Page/수요일.md "wikilink") 방송을 기준으로 한다.
 
-※ [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [10월 8일](https://ko.wikipedia.org/wiki/10월_8일 "wikilink") : [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 24시간 방송 체제 도입 이후 기준임
+※ [2012년](../Page/2012년.md "wikilink") [10월 8일](../Page/10월_8일.md "wikilink") : [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 24시간 방송 체제 도입 이후 기준임
 
 | 방송 채널                                                       | 방송 기간                         | 방송 시간                    | 방송 분량 |
 | ----------------------------------------------------------- | ----------------------------- | ------------------------ | ----- |
@@ -33,6 +33,6 @@
 
 ## 같이 보기
 
-  - [다큐멘터리 텔레비전 프로그램](https://ko.wikipedia.org/wiki/다큐멘터리_텔레비전_프로그램 "wikilink")
+  - [다큐멘터리 텔레비전 프로그램](../Page/다큐멘터리_텔레비전_프로그램.md "wikilink")
 
 [분류:한국방송공사의 시사교양 프로그램](https://ko.wikipedia.org/wiki/분류:한국방송공사의_시사교양_프로그램 "wikilink")

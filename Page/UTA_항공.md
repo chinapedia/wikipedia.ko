@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [UTA ](https://ko.wikipedia.org/wiki/UTA_).
 
 
-**UTA 항공**()은 [1963년](https://ko.wikipedia.org/wiki/1963년 "wikilink")에 설립되어 [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink")에 [에어프랑스](https://ko.wikipedia.org/wiki/에어프랑스 "wikilink")에 합병된 [프랑스](../Page/프랑스.md "wikilink")의 항공사로 [허브 공항은](../Page/허브_공항.md "wikilink") [파리 샤를 드 골 공항으로](https://ko.wikipedia.org/wiki/파리_샤를_드_골_공항 "wikilink") [프랑스](../Page/프랑스.md "wikilink")에서 [에어프랑스](https://ko.wikipedia.org/wiki/에어프랑스 "wikilink") 다음으로 제2의 항공사로 알려져 있었다. 또한 [프랑스](../Page/프랑스.md "wikilink")의 대표적 국적기 중 하나로 알려졌다.
+**UTA 항공**()은 [1963년](../Page/1963년.md "wikilink")에 설립되어 [1992년](../Page/1992년.md "wikilink")에 [에어프랑스](https://ko.wikipedia.org/wiki/에어프랑스 "wikilink")에 합병된 [프랑스](../Page/프랑스.md "wikilink")의 항공사로 [허브 공항은](../Page/허브_공항.md "wikilink") [파리 샤를 드 골 공항으로](https://ko.wikipedia.org/wiki/파리_샤를_드_골_공항 "wikilink") [프랑스](../Page/프랑스.md "wikilink")에서 [에어프랑스](https://ko.wikipedia.org/wiki/에어프랑스 "wikilink") 다음으로 제2의 항공사로 알려져 있었다. 또한 [프랑스](../Page/프랑스.md "wikilink")의 대표적 국적기 중 하나로 알려졌다.
 
 ## 개요
 
-주로 [프랑스](../Page/프랑스.md "wikilink") 본토와 [아프리카](https://ko.wikipedia.org/wiki/아프리카 "wikilink") 및 [인도양](https://ko.wikipedia.org/wiki/인도양 "wikilink")의 구 식민지 및 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")과 [동남아시아](https://ko.wikipedia.org/wiki/동남아시아 "wikilink"), [뉴칼레도니아](https://ko.wikipedia.org/wiki/뉴칼레도니아 "wikilink"), [타히티](https://ko.wikipedia.org/wiki/타히티 "wikilink"), [오스트레일리아](https://ko.wikipedia.org/wiki/오스트레일리아 "wikilink"), [뉴질랜드](https://ko.wikipedia.org/wiki/뉴질랜드 "wikilink")등 취항하고 있으며 [에어프랑스](https://ko.wikipedia.org/wiki/에어프랑스 "wikilink")에 이어 [프랑스](../Page/프랑스.md "wikilink")의 제2 항공사로 알려졌지만 [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink") [에어프랑스](https://ko.wikipedia.org/wiki/에어프랑스 "wikilink")에 합병되었다. 기재의 도장은 꼬리 부근을 감색으로 있던 사람은 흰색으로 되어 있지만 문만 녹색으로 칠해저 있다. 여행사의 팜플렛등에서 UTA [프랑스](../Page/프랑스.md "wikilink")라고 소개 되었다.
+주로 [프랑스](../Page/프랑스.md "wikilink") 본토와 [아프리카](../Page/아프리카.md "wikilink") 및 [인도양](../Page/인도양.md "wikilink")의 구 식민지 및 [일본](../Page/일본.md "wikilink")과 [동남아시아](../Page/동남아시아.md "wikilink"), [뉴칼레도니아](https://ko.wikipedia.org/wiki/뉴칼레도니아 "wikilink"), [타히티](https://ko.wikipedia.org/wiki/타히티 "wikilink"), [오스트레일리아](../Page/오스트레일리아.md "wikilink"), [뉴질랜드](../Page/뉴질랜드.md "wikilink")등 취항하고 있으며 [에어프랑스](https://ko.wikipedia.org/wiki/에어프랑스 "wikilink")에 이어 [프랑스](../Page/프랑스.md "wikilink")의 제2 항공사로 알려졌지만 [1992년](../Page/1992년.md "wikilink") [에어프랑스](https://ko.wikipedia.org/wiki/에어프랑스 "wikilink")에 합병되었다. 기재의 도장은 꼬리 부근을 감색으로 있던 사람은 흰색으로 되어 있지만 문만 녹색으로 칠해저 있다. 여행사의 팜플렛등에서 UTA [프랑스](../Page/프랑스.md "wikilink")라고 소개 되었다.
 
 ## 보유 기종
 
 ### 맥도넬더글러스
 
-  - [더글러스 DC-8](https://ko.wikipedia.org/wiki/더글러스_DC-8 "wikilink")
+  - [더글러스 DC-8](../Page/더글러스_DC-8.md "wikilink")
   - [맥도넬더글러스 DC-10](https://ko.wikipedia.org/wiki/맥도넬더글러스_DC-10 "wikilink")
 
 ### 보잉

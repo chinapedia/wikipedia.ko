@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [  i](https://ko.wikipedia.org/wiki/__i).
 
 
-**모토로라 레이저 i** ()는 [모토로라 모빌리티에서](../Page/모토로라_모빌리티.md "wikilink") 제조/판매하는 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")이다. 출시당시 안드로이드 4.0.4 아이스크림샌드위치를 탑재하였다.\[1\]
+**모토로라 레이저 i** ()는 [모토로라 모빌리티에서](../Page/모토로라_모빌리티.md "wikilink") 제조/판매하는 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다. 출시당시 안드로이드 4.0.4 아이스크림샌드위치를 탑재하였다.\[1\]
 
 ## 기능
 
 ### 엣지투엣지 (edge to edge)
 
-[모토로라 레이저 M에](https://ko.wikipedia.org/wiki/모토로라_레이저_M "wikilink") 처음 탑재되었던 기술을 적용하였다. 엣지투엣지는 모토로라가 레이저 M모델부터 적용한 기술이며 베젤을 없애는 기술, 즉 베젤리스 스마트폰을 만드는 기술이다. 이를통해 레이저 i에는 베젤이 없다.
+[모토로라 레이저 M에](../Page/모토로라_레이저_M.md "wikilink") 처음 탑재되었던 기술을 적용하였다. 엣지투엣지는 모토로라가 레이저 M모델부터 적용한 기술이며 베젤을 없애는 기술, 즉 베젤리스 스마트폰을 만드는 기술이다. 이를통해 레이저 i에는 베젤이 없다.
 
 ## 출시국가
 
@@ -22,7 +22,7 @@
 
 ## 성능
 
-[CPU를](https://ko.wikipedia.org/wiki/중앙_처리_장치 "wikilink") [인텔 아톰 프로세서로](https://ko.wikipedia.org/wiki/인텔_아톰_프로세서 "wikilink") 채택하여 타 스마트폰 대비 최고속도 2GHz의 클럭수가 나왔지만 싱글코어이다.\[2\] 인텔의 저전력 프로젝트로인해 전력소비량이 전 인텔프로세서에 비해 향상되었다.\[3\] [하이퍼 쓰레딩기술이](https://ko.wikipedia.org/wiki/하이퍼_쓰레딩 "wikilink") 적용되기때문에 싱글코어지만 [듀얼 코어처럼](https://ko.wikipedia.org/wiki/듀얼_코어 "wikilink") 사용이 가능하다.
+[CPU를](../Page/중앙_처리_장치.md "wikilink") [인텔 아톰 프로세서로](https://ko.wikipedia.org/wiki/인텔_아톰_프로세서 "wikilink") 채택하여 타 스마트폰 대비 최고속도 2GHz의 클럭수가 나왔지만 싱글코어이다.\[2\] 인텔의 저전력 프로젝트로인해 전력소비량이 전 인텔프로세서에 비해 향상되었다.\[3\] [하이퍼 쓰레딩기술이](https://ko.wikipedia.org/wiki/하이퍼_쓰레딩 "wikilink") 적용되기때문에 싱글코어지만 [듀얼 코어처럼](https://ko.wikipedia.org/wiki/듀얼_코어 "wikilink") 사용이 가능하다.
 
 ### 칩셋
 

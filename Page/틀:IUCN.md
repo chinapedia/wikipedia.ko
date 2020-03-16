@@ -32,7 +32,7 @@
 `           | first10=``}}}`
 `           | year = ``}}}}}}}}}`
 `           | title = ``}}}}}}}}}`
-`           | work =`[`멸종``   ``위기``   ``종의``   ``IUCN``   ``적색``   ``목록`](https://ko.wikipedia.org/wiki/IUCN_적색_목록 "wikilink")`. ``}}}}}}}}}}}}}}}}}}판 `
+`           | work =`[`멸종``   ``위기``   ``종의``   ``IUCN``   ``적색``   ``목록`](../Page/IUCN_적색_목록.md "wikilink")`. ``}}}}}}}}}}}}}}}}}}판 `
 `           | publisher = `[`국제``   ``자연``   ``보전``   ``연맹`](../Page/국제_자연_보전_연맹.md "wikilink")
 `           | accessdate = ``}}}}}}}}}`
 `           | archiveurl = ``}}}`

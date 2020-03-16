@@ -1,12 +1,12 @@
 > This article is converted from Wikipedia: [ Take a chance](https://ko.wikipedia.org/wiki/_Take_a_chance).
 
 
-《**와쿠테카 Take a chance**》()는 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [10월 10일](https://ko.wikipedia.org/wiki/10월_10일 "wikilink") 발매 된 [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink")의 쉰한 번째 싱글이다.
+《**와쿠테카 Take a chance**》()는 [2012년](../Page/2012년.md "wikilink") [10월 10일](../Page/10월_10일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 쉰한 번째 싱글이다.
 
 ## 개요
 
-  - 일년에 4매 싱글을 내는 것은 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") 이래.
-  - 「와쿠테카 Take a chance」는 2012년 [8월 31일에](https://ko.wikipedia.org/wiki/8월_31일 "wikilink") 모닝구무스메。의 공식 [유튜브](../Page/유튜브.md "wikilink") 채널로 첫 피로되었다.
+  - 일년에 4매 싱글을 내는 것은 [2009년](../Page/2009년.md "wikilink") 이래.
+  - 「와쿠테카 Take a chance」는 2012년 [8월 31일에](../Page/8월_31일.md "wikilink") 모닝구무스메。의 공식 [유튜브](../Page/유튜브.md "wikilink") 채널로 첫 피로되었다.
   - 초회한정반 A, B, C, D, E, F, 통상반의 7 형태로 발매.
   - 초회한정반 A, C, E에는 DVD가 같이 수록되고 있다.
   - 모든 초회한정반에는 이벤트 추첨 일련 번호 카드가 봉입되고 있다.
@@ -42,7 +42,7 @@
 2.  ****
 
       -
-        작사, 작곡 : 층쿠 / 편곡 : [히라타 쇼이치로](https://ko.wikipedia.org/wiki/히라타_쇼이치로 "wikilink") / 노래 : [다나카 레이나](https://ko.wikipedia.org/wiki/다나카_레이나 "wikilink"), [사토 마사키](../Page/사토_마사키.md "wikilink"), [쿠도 하루카](../Page/쿠도_하루카.md "wikilink")
+        작사, 작곡 : 층쿠 / 편곡 : [히라타 쇼이치로](https://ko.wikipedia.org/wiki/히라타_쇼이치로 "wikilink") / 노래 : [다나카 레이나](../Page/다나카_레이나.md "wikilink"), [사토 마사키](../Page/사토_마사키.md "wikilink"), [쿠도 하루카](../Page/쿠도_하루카.md "wikilink")
 
 3.  (Instrumental)
 
@@ -72,7 +72,7 @@
 2.  ****
 
       -
-        작사, 작곡 : 층쿠 / 편곡 : [이타가키 유스케](https://ko.wikipedia.org/wiki/이타가키_유스케 "wikilink") / 노래 : [미치시게 사유미](https://ko.wikipedia.org/wiki/미치시게_사유미 "wikilink"), [이쿠타 에리나](../Page/이쿠타_에리나.md "wikilink"), [사야시 리호](../Page/사야시_리호.md "wikilink"), [스즈키 카논](../Page/스즈키_카논.md "wikilink"), [이이쿠보 하루나](../Page/이이쿠보_하루나.md "wikilink")
+        작사, 작곡 : 층쿠 / 편곡 : [이타가키 유스케](https://ko.wikipedia.org/wiki/이타가키_유스케 "wikilink") / 노래 : [미치시게 사유미](../Page/미치시게_사유미.md "wikilink"), [이쿠타 에리나](../Page/이쿠타_에리나.md "wikilink"), [사야시 리호](../Page/사야시_리호.md "wikilink"), [스즈키 카논](../Page/스즈키_카논.md "wikilink"), [이이쿠보 하루나](../Page/이이쿠보_하루나.md "wikilink")
 
 3.  (Instrumental)
 

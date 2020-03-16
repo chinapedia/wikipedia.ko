@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [RISC OS](https://ko.wikipedia.org/wiki/RISC_OS).
 
 
-**RISC OS**(리스크 오에스 \[1\])는 [ARM 아키텍처용으로](https://ko.wikipedia.org/wiki/ARM_아키텍처 "wikilink") 설계된 [그래픽 사용자 인터페이스](https://ko.wikipedia.org/wiki/그래픽_사용자_인터페이스 "wikilink") 기반 컴퓨터 [운영 체제](https://ko.wikipedia.org/wiki/운영_체제 "wikilink") 시리즈이다. 이를 지원하는 [RISC](https://ko.wikipedia.org/wiki/RISC "wikilink") 아키텍처에서 이름을 땄다. 이 운영 체제는 원래 [아콘 컴퓨터가](../Page/아콘_컴퓨터.md "wikilink") [아콘 RISC 머신](https://ko.wikipedia.org/wiki/ARM_아키텍처 "wikilink") 프로세서를 사용하는 1987년의 [아콘 아르키메데스](https://ko.wikipedia.org/wiki/아콘_아르키메데스 "wikilink") 개인용 컴퓨터 세대에 채용할 목적으로 개발되었다. [윈도 시스템을](https://ko.wikipedia.org/wiki/윈도_시스템 "wikilink") 갖춘 [데스크톱 환경과](../Page/데스크톱_환경.md "wikilink") [명령 줄 인터페이스로](../Page/명령_줄_인터페이스.md "wikilink") 이루어져 있다.
+**RISC OS**(리스크 오에스 \[1\])는 [ARM 아키텍처용으로](../Page/ARM_아키텍처.md "wikilink") 설계된 [그래픽 사용자 인터페이스](../Page/그래픽_사용자_인터페이스.md "wikilink") 기반 컴퓨터 [운영 체제](../Page/운영_체제.md "wikilink") 시리즈이다. 이를 지원하는 [RISC](https://ko.wikipedia.org/wiki/RISC "wikilink") 아키텍처에서 이름을 땄다. 이 운영 체제는 원래 [아콘 컴퓨터가](../Page/아콘_컴퓨터.md "wikilink") [아콘 RISC 머신](../Page/ARM_아키텍처.md "wikilink") 프로세서를 사용하는 1987년의 [아콘 아르키메데스](https://ko.wikipedia.org/wiki/아콘_아르키메데스 "wikilink") 개인용 컴퓨터 세대에 채용할 목적으로 개발되었다. [윈도 시스템을](https://ko.wikipedia.org/wiki/윈도_시스템 "wikilink") 갖춘 [데스크톱 환경과](../Page/데스크톱_환경.md "wikilink") [명령 줄 인터페이스로](../Page/명령_줄_인터페이스.md "wikilink") 이루어져 있다.
 
 1988년부터 1998년까지 이 운영 체제는 아르키메데스 제품군, [RiscPC](https://ko.wikipedia.org/wiki/RiscPC "wikilink"), 뉴스패드, [A7000을](https://ko.wikipedia.org/wiki/아콘_A7000 "wikilink") 포함한 거의 모든 ARM 기반 아콘 컴퓨터 모델에 기본 포함되었다. 이 운영 체제의 버전 ([NCOS](https://ko.wikipedia.org/wiki/NCOS "wikilink"))은 [오라클의](../Page/오라클_\(기업\).md "wikilink") [네트워크 컴퓨터](https://ko.wikipedia.org/wiki/네트워크_컴퓨터 "wikilink") 및 호환 기종에 사용되었다. 1998년 아콘이 해체된 뒤 이 운영 체제의 개발은 분리되면서 [RISCOS](https://ko.wikipedia.org/wiki/RISCOS "wikilink"), [페이스 마이크로 테크놀로지](https://ko.wikipedia.org/wiki/페이스_plc "wikilink"), [캐슬 테크놀로지를](https://ko.wikipedia.org/wiki/캐슬_테크놀로지 "wikilink") 포함한 여러 기업에서 별도로 개발을 지속하고 있다. 1998년 이후 [Iyonix](https://ko.wikipedia.org/wiki/Iyonix_PC "wikilink")\[2\], [A9홈](https://ko.wikipedia.org/wiki/A9홈 "wikilink")과 같은 수많은 ARM 기반 데스크톱 컴퓨터에 기본 포함되고 있다. 2012년 기준으로 이 운영 체제는 분기화되어 독립적으로 RISCOS사와 [RISC OS 오픈](https://ko.wikipedia.org/wiki/RISC_OS_오픈 "wikilink") 커뮤니티가 개발을 맡고 있다.
 
-가장 최근의 안정판은 ARMv3/ARMv4 [RiscPC](https://ko.wikipedia.org/wiki/RiscPC "wikilink")\[3\] ([버추얼아콘](https://ko.wikipedia.org/wiki/버추얼아콘 "wikilink")이나 [RPCEmu](https://ko.wikipedia.org/wiki/RPCEmu "wikilink")와 같은 에뮬레이션을 통해), ARMv5 [Iyonix](https://ko.wikipedia.org/wiki/Iyonix_PC "wikilink")\[4\], ARMv7 [Cortex-A8](https://ko.wikipedia.org/wiki/ARM_Cortex-A8 "wikilink") 프로세서\[5\]\[6\]([비글보드](https://ko.wikipedia.org/wiki/비글보드 "wikilink"), [터치 북에서](https://ko.wikipedia.org/wiki/터치_북 "wikilink") 사용됨)에서 구동된다. 2011년에는 [Cortex-A9](https://ko.wikipedia.org/wiki/ARM_Cortex-A9_MPCore "wikilink") [판다보드](https://ko.wikipedia.org/wiki/판다보드 "wikilink")용 포팅이 발표되었으며\[7\] [라즈베리 파이용](../Page/라즈베리_파이.md "wikilink") 개발 버전이 대중에 공개되었다.\[8\]\[9\]\[10\]
+가장 최근의 안정판은 ARMv3/ARMv4 [RiscPC](https://ko.wikipedia.org/wiki/RiscPC "wikilink")\[3\] ([버추얼아콘](https://ko.wikipedia.org/wiki/버추얼아콘 "wikilink")이나 [RPCEmu](https://ko.wikipedia.org/wiki/RPCEmu "wikilink")와 같은 에뮬레이션을 통해), ARMv5 [Iyonix](https://ko.wikipedia.org/wiki/Iyonix_PC "wikilink")\[4\], ARMv7 [Cortex-A8](https://ko.wikipedia.org/wiki/ARM_Cortex-A8 "wikilink") 프로세서\[5\]\[6\]([비글보드](../Page/비글보드.md "wikilink"), [터치 북에서](https://ko.wikipedia.org/wiki/터치_북 "wikilink") 사용됨)에서 구동된다. 2011년에는 [Cortex-A9](https://ko.wikipedia.org/wiki/ARM_Cortex-A9_MPCore "wikilink") [판다보드](https://ko.wikipedia.org/wiki/판다보드 "wikilink")용 포팅이 발표되었으며\[7\] [라즈베리 파이용](../Page/라즈베리_파이.md "wikilink") 개발 버전이 대중에 공개되었다.\[8\]\[9\]\[10\]
 
 ## 역사
 
@@ -122,7 +122,7 @@ RISC OS 버전들은 다음의 하드웨어에서 동작한다.
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/비글보드" title="wikilink">비글보드</a>[37]</p></td>
+<td><p><a href="../Page/비글보드.md" title="wikilink">비글보드</a>[37]</p></td>
 <td><p>2008</p></td>
 <td><p>5.15</p></td>
 <td><p>5.18[38]</p></td>

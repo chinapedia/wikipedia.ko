@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ MK](https://ko.wikipedia.org/wiki/_MK).
 
 
-**스타디움 MK**()는 [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink") [버킹엄셔주](https://ko.wikipedia.org/wiki/버킹엄셔주 "wikilink") [밀턴케인스](https://ko.wikipedia.org/wiki/밀턴케인스 "wikilink")에 위치한 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 경기장으로, 수용 인원은 22,000명이며 [밀턴케인스 던스 FC의](https://ko.wikipedia.org/wiki/밀턴케인스_던스_FC "wikilink") 홈 구장으로 사용되고 있다. 현지에서는 **덴비 스타디움**()이라고 부른다.
+**스타디움 MK**()는 [잉글랜드](../Page/잉글랜드.md "wikilink") [버킹엄셔주](https://ko.wikipedia.org/wiki/버킹엄셔주 "wikilink") [밀턴케인스](https://ko.wikipedia.org/wiki/밀턴케인스 "wikilink")에 위치한 [축구](../Page/축구.md "wikilink") 경기장으로, 수용 인원은 22,000명이며 [밀턴케인스 던스 FC의](https://ko.wikipedia.org/wiki/밀턴케인스_던스_FC "wikilink") 홈 구장으로 사용되고 있다. 현지에서는 **덴비 스타디움**()이라고 부른다.
 
-2007년 11월 29일 [엘리자베스 2세](https://ko.wikipedia.org/wiki/엘리자베스_2세 "wikilink") 영국 여왕이 참석한 가운데 개장했으며 [퍼퓰러스](https://ko.wikipedia.org/wiki/퍼퓰러스 "wikilink")가 경기장 설계를 담당했다. 축구 경기장으로 많이 사용되고 있지만 종종 [럭비](../Page/럭비.md "wikilink") 경기장으로 사용되기도 한다.
+2007년 11월 29일 [엘리자베스 2세](../Page/엘리자베스_2세.md "wikilink") 영국 여왕이 참석한 가운데 개장했으며 [퍼퓰러스](https://ko.wikipedia.org/wiki/퍼퓰러스 "wikilink")가 경기장 설계를 담당했다. 축구 경기장으로 많이 사용되고 있지만 종종 [럭비](../Page/럭비.md "wikilink") 경기장으로 사용되기도 한다.
 
 ## 사진
 

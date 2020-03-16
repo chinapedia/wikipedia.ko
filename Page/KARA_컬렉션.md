@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KARA ](https://ko.wikipedia.org/wiki/KARA_).
 
 
-《**KARA 컬렉션**》(KARA コレクション)은 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [9월 5일](https://ko.wikipedia.org/wiki/9월_5일 "wikilink") 일본에서 발매된 [카라의](../Page/카라_\(음악_그룹\).md "wikilink") 첫 번째 [미니 앨범이다](../Page/익스텐디드_플레이.md "wikilink").
+《**KARA 컬렉션**》(KARA コレクション)은 [2012년](../Page/2012년.md "wikilink") [9월 5일](../Page/9월_5일.md "wikilink") 일본에서 발매된 [카라의](../Page/카라_\(음악_그룹\).md "wikilink") 첫 번째 [미니 앨범이다](../Page/익스텐디드_플레이.md "wikilink").
 
 ## 개요
 
@@ -18,7 +18,7 @@
 ### CD
 
 1.  Wanna Do (지영 솔로)
-2.  Lost (니콜 솔로, Feat. [진운](https://ko.wikipedia.org/wiki/정진운 "wikilink"))
+2.  Lost (니콜 솔로, Feat. [진운](../Page/정진운.md "wikilink"))
 3.  Secret Love (하라 솔로)
 4.  백일몽 (규리 솔로)
 5.  Guilty (승연 솔로)

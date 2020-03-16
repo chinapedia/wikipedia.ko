@@ -1,14 +1,14 @@
 > This article is converted from Wikipedia: [   II](https://ko.wikipedia.org/wiki/___II).
 
 
-**삼성 갤럭시 노트II**(Samsung GALAXY NoteII)는 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")에서 제조/판매하는 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [패블릿](https://ko.wikipedia.org/wiki/패블릿 "wikilink") [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")으로, [갤럭시 노트의](https://ko.wikipedia.org/wiki/갤럭시_노트 "wikilink") 후속제품이다.
+**삼성 갤럭시 노트II**(Samsung GALAXY NoteII)는 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")에서 제조/판매하는 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [패블릿](../Page/패블릿.md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")으로, [갤럭시 노트의](https://ko.wikipedia.org/wiki/갤럭시_노트 "wikilink") 후속제품이다.
 
-2012년 8월 29일 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink") [런던](https://ko.wikipedia.org/wiki/런던 "wikilink")에서 개최된 **삼성 모바일 언팩**에서 발표하여, 대한민국에서 변종모델을 2012년 9월 26일\[1\], 표준모델을 2012년 9월 27일\[2\]\[3\] 출시하였다.
+2012년 8월 29일 [영국](../Page/영국.md "wikilink") [런던](../Page/런던.md "wikilink")에서 개최된 **삼성 모바일 언팩**에서 발표하여, 대한민국에서 변종모델을 2012년 9월 26일\[1\], 표준모델을 2012년 9월 27일\[2\]\[3\] 출시하였다.
 
 ## 연혁
 
   - 2012년 8월 29일 : 삼성 모바일 언팩에서 공개
-  - 2012년 9월 26일 : [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서 SHV-E250S/K/L 모델 출시
+  - 2012년 9월 26일 : [대한민국](../Page/대한민국.md "wikilink")에서 SHV-E250S/K/L 모델 출시
   - 2012년 9월 27일 : N7100 모델과 N7105 모델 출시
   - 2012년 11월 26일 : 판매량 500만대 돌파\[4\]
   - 2013년 11월 19일 : N7100 모델과 N7105 모델에 대한 [4.3 젤리빈](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드\[5\]\[6\]
@@ -16,7 +16,7 @@
 
 ## 출시 및 반응
 
-[2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [9월 26일](https://ko.wikipedia.org/wiki/9월_26일 "wikilink") [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에 처음 출시되었으며, [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 4분기 기준 128개국, 260개 거래선에 순차적으로 출시되었으며, [인도](https://ko.wikipedia.org/wiki/인도 "wikilink")에서도 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [9월 27일](https://ko.wikipedia.org/wiki/9월_27일 "wikilink") 조기 출시되었다.\[8\]\[9\]\[10\] [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [9월 30일](https://ko.wikipedia.org/wiki/9월_30일 "wikilink") [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")에서 공식 출시되었으며 10월 1일 모든 주요 스토어에 출시되었다. [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [9월 29일](https://ko.wikipedia.org/wiki/9월_29일 "wikilink") [인도네시아](https://ko.wikipedia.org/wiki/인도네시아 "wikilink")에서 선주문을 받기 시작했다.\[11\]
+[2012년](../Page/2012년.md "wikilink") [9월 26일](../Page/9월_26일.md "wikilink") [대한민국](../Page/대한민국.md "wikilink")에 처음 출시되었으며, [2012년](../Page/2012년.md "wikilink") 4분기 기준 128개국, 260개 거래선에 순차적으로 출시되었으며, [인도](../Page/인도.md "wikilink")에서도 [2012년](../Page/2012년.md "wikilink") [9월 27일](../Page/9월_27일.md "wikilink") 조기 출시되었다.\[8\]\[9\]\[10\] [2012년](../Page/2012년.md "wikilink") [9월 30일](../Page/9월_30일.md "wikilink") [영국](../Page/영국.md "wikilink")에서 공식 출시되었으며 10월 1일 모든 주요 스토어에 출시되었다. [2012년](../Page/2012년.md "wikilink") [9월 29일](../Page/9월_29일.md "wikilink") [인도네시아](../Page/인도네시아.md "wikilink")에서 선주문을 받기 시작했다.\[11\]
 
 폰아레나닷컴의 대니얼 P.는 갤럭시 노트II에 대해 "삼성이 생산한 최고의 전화 화면"을 갖추었다며 긍정적으로 평가하였다. 또, 그는 S 펜의 성능이 향상되었다고 언급하였다.\[12\] 스터프 매거진은 이 스마트폰에 5/5 별을 주며 "최고의 10대 스마트폰" 섹션에서 넘버 4로 순위를 올렸다.\[13\]
 
@@ -43,7 +43,7 @@ S 펜은 전작인 [갤럭시 노트의](https://ko.wikipedia.org/wiki/갤럭시
 
 [안드로이드 OS](https://ko.wikipedia.org/wiki/안드로이드_OS "wikilink") [4.1.1 젤리빈을](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 탑재하여 출시했다(보안 문제가 존재).
 
-2012년 12월 11일 N7100 모델과 N7105 모델의 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [4.1.2 젤리빈으로의](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드가 시작되었다.\[18\]\[19\]
+2012년 12월 11일 N7100 모델과 N7105 모델의 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [4.1.2 젤리빈으로의](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드가 시작되었다.\[18\]\[19\]
 
 그 외에도 다음 사항이 적용되었다.
 
@@ -108,7 +108,7 @@ S 펜은 전작인 [갤럭시 노트의](https://ko.wikipedia.org/wiki/갤럭시
 
 <!-- end list -->
 
-  - 올쉐어 캐스트 : 별도로 판매하는 올쉐어 캐스트 동글을 이용해 스마트폰 내 동영상, 게임 등의 화면을 [스마트 TV나](https://ko.wikipedia.org/wiki/스마트_TV "wikilink") [PC에서](https://ko.wikipedia.org/wiki/개인용_컴퓨터 "wikilink") 사용할 수 있다.\[25\]
+  - 올쉐어 캐스트 : 별도로 판매하는 올쉐어 캐스트 동글을 이용해 스마트폰 내 동영상, 게임 등의 화면을 [스마트 TV나](https://ko.wikipedia.org/wiki/스마트_TV "wikilink") [PC에서](../Page/개인용_컴퓨터.md "wikilink") 사용할 수 있다.\[25\]
 
 <!-- end list -->
 
@@ -122,7 +122,7 @@ S 펜은 전작인 [갤럭시 노트의](https://ko.wikipedia.org/wiki/갤럭시
 
   - [S 보이스](../Page/S_보이스.md "wikilink") : 대화형 음성제어 시스템으로, 소프트웨어와 자연어 대화를 통해 특정 기능을 작동하여 각종 기능을 실행한다.
 
-[애플의](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") [시리](https://ko.wikipedia.org/wiki/시리 "wikilink"), [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")의 [Q보이스](https://ko.wikipedia.org/wiki/Q보이스 "wikilink")와 비슷하다.
+[애플의](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") [시리](https://ko.wikipedia.org/wiki/시리 "wikilink"), [LG전자](../Page/LG전자.md "wikilink")의 [Q보이스](https://ko.wikipedia.org/wiki/Q보이스 "wikilink")와 비슷하다.
 
   - 애 플리케이션 음성제어 : 음성인식을 통하여 애플리케이션을 실행하거나 종료한다.
 
@@ -163,7 +163,7 @@ N7100 모델과 N7105 모델이 2013년 11월 19일에 [4.3 젤리빈으로](htt
 
 #### SHV-E250S/K/L
 
-[SK텔레콤](https://ko.wikipedia.org/wiki/SK텔레콤 "wikilink"), [KT](https://ko.wikipedia.org/wiki/KT "wikilink"), [LG유플러스](https://ko.wikipedia.org/wiki/LG유플러스 "wikilink")를 통해 출시된 LTE모델로, FM 라디오 대신 [지상파 DMB가](https://ko.wikipedia.org/wiki/지상파_DMB "wikilink") 탑재되어 있다.
+[SK텔레콤](../Page/SK텔레콤.md "wikilink"), [KT](../Page/KT.md "wikilink"), [LG유플러스](../Page/LG유플러스.md "wikilink")를 통해 출시된 LTE모델로, FM 라디오 대신 [지상파 DMB가](https://ko.wikipedia.org/wiki/지상파_DMB "wikilink") 탑재되어 있다.
 
 ###
 
@@ -183,13 +183,13 @@ N7100 모델과 N7105 모델이 2013년 11월 19일에 [4.3 젤리빈으로](htt
 
 #### GT-N7108D
 
-[차이나홍콩 모바일을](https://ko.wikipedia.org/wiki/차이나홍콩_모바일 "wikilink") 통해 출시된 [TD-SCDMA](../Page/TD-SCDMA.md "wikilink"), TD-LTE 동시 지원모델로, [애플리케이션 프로세서가](https://ko.wikipedia.org/wiki/애플리케이션_프로세서 "wikilink") [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink") [엑시노스](https://ko.wikipedia.org/wiki/엑시노스 "wikilink") 4 쿼드 (4412) 대신 [퀄컴](../Page/퀄컴.md "wikilink") [스냅드래곤](../Page/스냅드래곤.md "wikilink") 600 APQ8064T ([퀄컴](../Page/퀄컴.md "wikilink") [크래이트 300 아키텍처](https://ko.wikipedia.org/wiki/크래이트_아키텍처 "wikilink") [CPU](https://ko.wikipedia.org/wiki/중앙_처리_장치 "wikilink") + [퀄컴](../Page/퀄컴.md "wikilink") [아드레노](https://ko.wikipedia.org/wiki/아드레노 "wikilink") 320 400 [MHz](https://ko.wikipedia.org/wiki/MHz "wikilink") [그래픽 처리 장치](https://ko.wikipedia.org/wiki/그래픽_처리_장치 "wikilink"))가 장착되었다.
+[차이나홍콩 모바일을](https://ko.wikipedia.org/wiki/차이나홍콩_모바일 "wikilink") 통해 출시된 [TD-SCDMA](../Page/TD-SCDMA.md "wikilink"), TD-LTE 동시 지원모델로, [애플리케이션 프로세서가](https://ko.wikipedia.org/wiki/애플리케이션_프로세서 "wikilink") [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink") [엑시노스](https://ko.wikipedia.org/wiki/엑시노스 "wikilink") 4 쿼드 (4412) 대신 [퀄컴](../Page/퀄컴.md "wikilink") [스냅드래곤](../Page/스냅드래곤.md "wikilink") 600 APQ8064T ([퀄컴](../Page/퀄컴.md "wikilink") [크래이트 300 아키텍처](https://ko.wikipedia.org/wiki/크래이트_아키텍처 "wikilink") [CPU](../Page/중앙_처리_장치.md "wikilink") + [퀄컴](../Page/퀄컴.md "wikilink") [아드레노](https://ko.wikipedia.org/wiki/아드레노 "wikilink") 320 400 [MHz](https://ko.wikipedia.org/wiki/MHz "wikilink") [그래픽 처리 장치](../Page/그래픽_처리_장치.md "wikilink"))가 장착되었다.
 
 ### /
 
 #### SGH-I317
 
-[AT\&T](https://ko.wikipedia.org/wiki/AT&T "wikilink")를 통해 출시된 LTE모델이다.
+[AT\&T](../Page/AT&T.md "wikilink")를 통해 출시된 LTE모델이다.
 
 #### SGH-I317M
 

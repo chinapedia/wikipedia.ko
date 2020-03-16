@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Unplugged \( \)](https://ko.wikipedia.org/wiki/Unplugged_\(_\)).
 
 
-《**Unplugged**》는 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [5월 25일에](https://ko.wikipedia.org/wiki/5월_25일 "wikilink") 발매한 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 힙합 듀오 [리쌍](https://ko.wikipedia.org/wiki/리쌍 "wikilink")의 정규 8집 음반이다. 이 앨범을 끝으로 정규 9집 음반 없이 리쌍이 해체되었다.
+《**Unplugged**》는 [2012년](../Page/2012년.md "wikilink") [5월 25일에](../Page/5월_25일.md "wikilink") 발매한 [대한민국](../Page/대한민국.md "wikilink")의 힙합 듀오 [리쌍](../Page/리쌍.md "wikilink")의 정규 8집 음반이다. 이 앨범을 끝으로 정규 9집 음반 없이 리쌍이 해체되었다.
 
 ## 트랙 리스트
 

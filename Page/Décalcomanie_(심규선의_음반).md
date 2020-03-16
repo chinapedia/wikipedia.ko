@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Dcalcomanie \( \)](https://ko.wikipedia.org/wiki/Dcalcomanie_\(_\)).
 
 
-《**Décalcomanie**》(데칼코마니)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")인 [Lucia(심규선)의](../Page/심규선.md "wikilink") [EP](../Page/익스텐디드_플레이.md "wikilink") 음반이다.
+《**Décalcomanie**》(데칼코마니)는 [대한민국](../Page/대한민국.md "wikilink")의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")인 [Lucia(심규선)의](../Page/심규선.md "wikilink") [EP](../Page/익스텐디드_플레이.md "wikilink") 음반이다.
 
 ## 수록곡
 

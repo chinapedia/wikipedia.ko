@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Why We Fail](https://ko.wikipedia.org/wiki/Why_We_Fail).
 
 
-《**Why We Fail**》은 [이승열](https://ko.wikipedia.org/wiki/이승열 "wikilink")의 세 번째 정규 솔로음반이다. 수록곡 중 〈그들의 Blues〉와 〈라디라〉가 각각 먼저 디지털 싱글로 발매되었다.
+《**Why We Fail**》은 [이승열](../Page/이승열.md "wikilink")의 세 번째 정규 솔로음반이다. 수록곡 중 〈그들의 Blues〉와 〈라디라〉가 각각 먼저 디지털 싱글로 발매되었다.
 
-[2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 2월, 이승열은 이 앨범으로 제9회 [한국대중음악상](https://ko.wikipedia.org/wiki/한국대중음악상 "wikilink") 시상식에서 '최우수 모던록 음반상'과 수록곡 〈돌아오지 않아〉로 '최우수 모던록 노래상'을 수상했다.\[1\]
+[2012년](../Page/2012년.md "wikilink") 2월, 이승열은 이 앨범으로 제9회 [한국대중음악상](../Page/한국대중음악상.md "wikilink") 시상식에서 '최우수 모던록 음반상'과 수록곡 〈돌아오지 않아〉로 '최우수 모던록 노래상'을 수상했다.\[1\]
 
 ## 수록곡
 
@@ -11,7 +11,7 @@
 
 이 목록은 해당 앨범의 부클릿 〈Credits〉목록에서 발췌하였다.\[2\]
 
-  - [이승열](https://ko.wikipedia.org/wiki/이승열 "wikilink") - [프로듀서](../Page/음악_프로듀서.md "wikilink"), [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), [전기 기타](https://ko.wikipedia.org/wiki/전기_기타 "wikilink"), [건반 악기](https://ko.wikipedia.org/wiki/건반_악기 "wikilink") 등 각종 악기, 손 글씨, 그림
+  - [이승열](../Page/이승열.md "wikilink") - [프로듀서](../Page/음악_프로듀서.md "wikilink"), [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), [전기 기타](../Page/전기_기타.md "wikilink"), [건반 악기](https://ko.wikipedia.org/wiki/건반_악기 "wikilink") 등 각종 악기, 손 글씨, 그림
 
 <table style="width:10%;">
 <colgroup>
@@ -25,17 +25,17 @@
 
 </dl>
 <ul>
-<li>이경남 - <a href="https://ko.wikipedia.org/wiki/베이스_기타" title="wikilink">베이스 기타</a>(1, 3, 4~6, 8~10)</li>
+<li>이경남 - <a href="../Page/베이스_기타.md" title="wikilink">베이스 기타</a>(1, 3, 4~6, 8~10)</li>
 <li>신동훈 - <a href="https://ko.wikipedia.org/wiki/드럼" title="wikilink">드럼</a>(2, 3~6, 8~10, 12)</li>
-<li>윤상익 - <a href="https://ko.wikipedia.org/wiki/전기_기타" title="wikilink">전기 기타</a>(8, 10)</li>
+<li>윤상익 - <a href="../Page/전기_기타.md" title="wikilink">전기 기타</a>(8, 10)</li>
 <li>전영호 - <a href="https://ko.wikipedia.org/wiki/건반" title="wikilink">건반</a> 악기(8, 10)</li>
-<li>신현필 - <a href="https://ko.wikipedia.org/wiki/클라리넷" title="wikilink">클라리넷</a>(3)
+<li>신현필 - <a href="../Page/클라리넷.md" title="wikilink">클라리넷</a>(3)
 <ul>
 <li>이우준 - 클라리넷 편곡(3) 현악 편곡(8)</li>
 </ul></li>
 <li>신현필 - <a href="../Page/색소폰.md" title="wikilink">색소폰</a>(2, 9)</li>
-<li>최은선 - <a href="https://ko.wikipedia.org/wiki/바이올린" title="wikilink">바이올린</a>(8)</li>
-<li>최정아 - <a href="https://ko.wikipedia.org/wiki/첼로" title="wikilink">첼로</a>(8)</li>
+<li>최은선 - <a href="../Page/바이올린.md" title="wikilink">바이올린</a>(8)</li>
+<li>최정아 - <a href="../Page/첼로.md" title="wikilink">첼로</a>(8)</li>
 <li>CIEL, 나무, 권순일 - <a href="https://ko.wikipedia.org/wiki/코러스_(대중음악)" title="wikilink">코러스</a>(3)</li>
 </ul></td>
 <td><dl>

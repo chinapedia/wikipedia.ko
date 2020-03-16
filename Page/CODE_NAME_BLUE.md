@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CODE NAME BLUE](https://ko.wikipedia.org/wiki/CODE_NAME_BLUE).
 
 
-《**CODE NAME BLUE**》는 그룹 [씨엔블루](https://ko.wikipedia.org/wiki/씨엔블루 "wikilink")(CNBLUE)의 첫 번째 메이저 정규앨범으로, [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [8월 29일](https://ko.wikipedia.org/wiki/8월_29일 "wikilink") [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서 발매되었다.
+《**CODE NAME BLUE**》는 그룹 [씨엔블루](../Page/씨엔블루.md "wikilink")(CNBLUE)의 첫 번째 메이저 정규앨범으로, [2012년](../Page/2012년.md "wikilink") [8월 29일](../Page/8월_29일.md "wikilink") [일본](../Page/일본.md "wikilink")에서 발매되었다.
 
 성공적인 메이저 데뷔를 마친 후, 두 장의 메이저 싱글앨범을 발표하였다. 첫 날 2만 1천여장의 판매량을 기록하며, 오리콘 앨범 데일리 차트 1위를 기록하였다.\[1\] 또한, 오리콘 앨범 위클리 차트에 4만 5천장 이상을 팔아 치우며 일본 메이저 첫 정규앨범을 오리콘 앨범 위클리 차트 1위를 달성했다.\[2\]
 

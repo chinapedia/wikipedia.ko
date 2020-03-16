@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [VCard](https://ko.wikipedia.org/wiki/VCard).
 
 
-**vCard**는 전자 [명함](https://ko.wikipedia.org/wiki/명함 "wikilink")의 세계 표준 [파일 형식이다](https://ko.wikipedia.org/wiki/파일_형식 "wikilink"). 주로 [이메일](https://ko.wikipedia.org/wiki/이메일 "wikilink")에 덧붙여 보내거나, [월드 와이드 웹이나](../Page/월드_와이드_웹.md "wikilink") [메시지](../Page/메시지.md "wikilink") 형태로 바꿀 수 있다. 보통 vCard에는 [이름](../Page/이름.md "wikilink"), [주소](../Page/주소.md "wikilink"), [전화번호](../Page/전화번호.md "wikilink"), [이메일](https://ko.wikipedia.org/wiki/이메일 "wikilink"), [웹사이트](https://ko.wikipedia.org/wiki/웹사이트 "wikilink"), [로고](https://ko.wikipedia.org/wiki/로고 "wikilink"), [사진](../Page/사진.md "wikilink"), [소리](https://ko.wikipedia.org/wiki/소리 "wikilink") 등 [문자](https://ko.wikipedia.org/wiki/문자 "wikilink"), [멀티미디어](../Page/멀티미디어.md "wikilink") 자료도 넣을 수 있다.
+**vCard**는 전자 [명함](https://ko.wikipedia.org/wiki/명함 "wikilink")의 세계 표준 [파일 형식이다](https://ko.wikipedia.org/wiki/파일_형식 "wikilink"). 주로 [이메일](https://ko.wikipedia.org/wiki/이메일 "wikilink")에 덧붙여 보내거나, [월드 와이드 웹이나](../Page/월드_와이드_웹.md "wikilink") [메시지](../Page/메시지.md "wikilink") 형태로 바꿀 수 있다. 보통 vCard에는 [이름](../Page/이름.md "wikilink"), [주소](../Page/주소.md "wikilink"), [전화번호](../Page/전화번호.md "wikilink"), [이메일](https://ko.wikipedia.org/wiki/이메일 "wikilink"), [웹사이트](../Page/웹사이트.md "wikilink"), [로고](../Page/로고.md "wikilink"), [사진](../Page/사진.md "wikilink"), [소리](../Page/소리.md "wikilink") 등 [문자](../Page/문자.md "wikilink"), [멀티미디어](../Page/멀티미디어.md "wikilink") 자료도 넣을 수 있다.
 
 ## vCard 파일의 예
 
@@ -69,14 +69,14 @@
 
 ## 함께 보기
 
-  - [마이크로포맷](https://ko.wikipedia.org/wiki/마이크로포맷 "wikilink")
-  - [국제 인터넷 표준화 기구](https://ko.wikipedia.org/wiki/국제_인터넷_표준화_기구 "wikilink")
+  - [마이크로포맷](../Page/마이크로포맷.md "wikilink")
+  - [국제 인터넷 표준화 기구](../Page/국제_인터넷_표준화_기구.md "wikilink")
 
 ## 외부 링크
 
   - [Internet mail Consortium - Personal Data Interchange](https://web.archive.org/web/20150906130553/http://www.imc.org/pdi/)
   - [vCard: The Electronic Business Card (Version 2.1)](https://web.archive.org/web/20120501162958/http://www.imc.org/pdi/vcard-21.doc) vCard 2.1 specification (Sept-18-1996)
-  - [Representing vCard Objects in RDF](https://www.w3.org/TR/vcard-rdf/) - [W3C](https://ko.wikipedia.org/wiki/W3C "wikilink") ontology
+  - [Representing vCard Objects in RDF](https://www.w3.org/TR/vcard-rdf/) - [W3C](../Page/W3C.md "wikilink") ontology
   - RFC 2425 — A MIME Content-Type for Directory Information
   - RFC 2426 — vCard MIME Directory Profile
   - RFC 2739 — Calendar Attributes for vCard and LDAP

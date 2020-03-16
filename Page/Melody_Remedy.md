@@ -7,7 +7,7 @@
 
 ## 차트 성적
 
-### [가온 차트](https://ko.wikipedia.org/wiki/가온_차트 "wikilink")
+### [가온 차트](../Page/가온_차트.md "wikilink")
 
 
 \*앨범 차트 : ''정인 Melody Remedy- 순위권 외

@@ -7,14 +7,14 @@
 
 ### CD
 
-1.  How Crazy - by [SCANDAL](https://ko.wikipedia.org/wiki/SCANDAL "wikilink")
+1.  How Crazy - by [SCANDAL](../Page/SCANDAL.md "wikilink")
 2.  Tomorrow's way - by [네고토](https://ko.wikipedia.org/wiki/네고토 "wikilink")
 3.  Good-bye days - by [miwa](https://ko.wikipedia.org/wiki/miwa "wikilink")
 4.  LIFE - by [Goose house](https://ko.wikipedia.org/wiki/Goose_house "wikilink")
 5.  Rolling star - by [쇼코 나카가와](https://ko.wikipedia.org/wiki/쇼코_나카가와 "wikilink")
 6.  Namidairo - by [이데 아야카](https://ko.wikipedia.org/wiki/이데_아야카 "wikilink")
 7.  My Generation - by [Kylee](https://ko.wikipedia.org/wiki/Kylee "wikilink")
-8.  again - by [스테레오포니](https://ko.wikipedia.org/wiki/스테레오포니 "wikilink")
+8.  again - by [스테레오포니](../Page/스테레오포니.md "wikilink")
 9.  I remember you - by [사와이 미쿠](https://ko.wikipedia.org/wiki/사와이_미쿠 "wikilink")
 10. HELLO - by [Dancing Dolls](https://ko.wikipedia.org/wiki/Dancing_Dolls "wikilink")
 11. GLORIA - by [아오이 에일](https://ko.wikipedia.org/wiki/아오이_에일 "wikilink")

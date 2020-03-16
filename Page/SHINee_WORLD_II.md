@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SHINee WORLD II](https://ko.wikipedia.org/wiki/SHINee_WORLD_II).
 
 
-《**SHINee CONCERT - SHINee WORLD II**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [보이 그룹](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink") [샤이니](../Page/샤이니.md "wikilink")의 2번째 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").
+《**SHINee CONCERT - SHINee WORLD II**》는 [대한민국](../Page/대한민국.md "wikilink")의 [보이 그룹](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink") [샤이니](../Page/샤이니.md "wikilink")의 2번째 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").
 
 ## 개요
 
@@ -97,7 +97,7 @@
 <td style="text-align: left;"><p>라이브앨범</p></td>
 <td style="text-align: left;"><p>SHINee THE 2nd CONCERT ALBUM 《SHINee WORLD II In Seoul》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2014년" title="wikilink">2014년</a> <a href="https://ko.wikipedia.org/wiki/4월_2일" title="wikilink">4월 2일</a></li>
+<li>발매일 : <a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/4월_2일.md" title="wikilink">4월 2일</a></li>
 </ul></td>
 <td style="text-align: left;"></td>
 </tr>
@@ -122,7 +122,7 @@
 <td style="text-align: left;"><p>DVD</p></td>
 <td style="text-align: left;"><p>SHINee THE 2nd CONCERT 《SHINee WORLD II In Seoul》 DVD</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2014년" title="wikilink">2014년</a> <a href="https://ko.wikipedia.org/wiki/6월_20일" title="wikilink">6월 20일</a></li>
+<li>발매일 : <a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/6월_20일.md" title="wikilink">6월 20일</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -130,7 +130,7 @@
 
 ## 제작
 
-  - [샤이니](../Page/샤이니.md "wikilink") ([온유](https://ko.wikipedia.org/wiki/온유 "wikilink"), [종현](https://ko.wikipedia.org/wiki/종현 "wikilink"), [Key](https://ko.wikipedia.org/wiki/Key_\(가수\) "wikilink"), [민호](https://ko.wikipedia.org/wiki/민호 "wikilink"), [태민](https://ko.wikipedia.org/wiki/태민 "wikilink"))
+  - [샤이니](../Page/샤이니.md "wikilink") ([온유](../Page/온유.md "wikilink"), [종현](../Page/종현.md "wikilink"), [Key](https://ko.wikipedia.org/wiki/Key_\(가수\) "wikilink"), [민호](../Page/민호.md "wikilink"), [태민](../Page/태민.md "wikilink"))
   - 주최 : [SM엔터테인먼트](https://ko.wikipedia.org/wiki/SM엔터테인먼트 "wikilink")
   - 주관 : 드림메이커
   - 후원

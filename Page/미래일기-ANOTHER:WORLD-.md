@@ -1,14 +1,14 @@
 > This article is converted from Wikipedia: [-ANOTHER:WORLD-](https://ko.wikipedia.org/wiki/-ANOTHER:WORLD-).
 
 
-《미래일기-ANOTHER : WORLD-》()는 [에스노 사카에의](https://ko.wikipedia.org/wiki/에스노_사카에 "wikilink") 원작 만화 《[미래일기](../Page/미래일기.md "wikilink")》를 원작으로, [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [4월 21일부터](https://ko.wikipedia.org/wiki/4월_21일 "wikilink") [6월 30일까지](https://ko.wikipedia.org/wiki/6월_30일 "wikilink") [후지 TV에서](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 신설된 드라마 범위의 **토드라**(매주 토요일 11:10 - 11:55)의 제1탄으로 방송된 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/드라마 "wikilink"). 주연은 [오카다 마사키이다](https://ko.wikipedia.org/wiki/오카다_마사키 "wikilink"). 전 11화로, 평균 시청률 **6.6%**.
+《미래일기-ANOTHER : WORLD-》()는 [에스노 사카에의](https://ko.wikipedia.org/wiki/에스노_사카에 "wikilink") 원작 만화 《[미래일기](../Page/미래일기.md "wikilink")》를 원작으로, [2012년](../Page/2012년.md "wikilink") [4월 21일부터](../Page/4월_21일.md "wikilink") [6월 30일까지](../Page/6월_30일.md "wikilink") [후지 TV에서](../Page/후지_TV.md "wikilink") 신설된 드라마 범위의 **토드라**(매주 토요일 11:10 - 11:55)의 제1탄으로 방송된 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/드라마 "wikilink"). 주연은 [오카다 마사키이다](../Page/오카다_마사키.md "wikilink"). 전 11화로, 평균 시청률 **6.6%**.
 
 ## 등장 인물
 
-  - [오카다 마사키](https://ko.wikipedia.org/wiki/오카다_마사키 "wikilink")
+  - [오카다 마사키](../Page/오카다_마사키.md "wikilink")
   - [고리키 아야메](../Page/고리키_아야메.md "wikilink")
   - [혼고 가나타](https://ko.wikipedia.org/wiki/혼고_가나타 "wikilink")
-  - [후쿠다 마유코](https://ko.wikipedia.org/wiki/후쿠다_마유코 "wikilink")
+  - [후쿠다 마유코](../Page/후쿠다_마유코.md "wikilink")
   - [키쿠치 후마](../Page/키쿠치_후마.md "wikilink")
   - [미야자키 요시코](https://ko.wikipedia.org/wiki/미야자키_요시코 "wikilink")
   - [미쓰이시 겐](https://ko.wikipedia.org/wiki/미쓰이시_겐 "wikilink")
@@ -35,25 +35,25 @@
 
 ### 주제가
 
-  - [시바사키 코우](https://ko.wikipedia.org/wiki/시바사키_코우 "wikilink") 〈[ANOTHER:WORLD](../Page/ANOTHER:WORLD.md "wikilink")〉
+  - [시바사키 코우](../Page/시바사키_코우.md "wikilink") 〈[ANOTHER:WORLD](../Page/ANOTHER:WORLD.md "wikilink")〉
 
 ## 방송일 및 부제, 시청률
 
-| 각화                                                                         | 방송일          | 부제            | 시청률\[1\]                       |
-| -------------------------------------------------------------------------- | ------------ | ------------- | ------------------------------ |
-| EPISODE01                                                                  | 2012년 4월 21일 | 겨우 만날 수 있었군요  | <span style="color:blue;">9.9% |
-| EPISODE02                                                                  | 2012년 4월 28일 | 그래서 배신        | 5.8%                           |
-| EPISODE03                                                                  | 2012년 4월 5일  | 텅빈 무언가가 아니야   | 6.1%                           |
-| EPISODE04                                                                  | 2012년 5월 12일 | 7번째 소유자       | 6.7%                           |
-| EPISODE05                                                                  | 2012년 5월 19일 | 밝혀진 진실        | 7.0%                           |
-| EPISODE06                                                                  | 2012년 5월 26일 | 최후의 DEAD END  | 6.6%                           |
-| EPISODE07                                                                  | 2012년 6월 2일  | ANOTHER：WORLD | 6.1%                           |
-| EPISODE08                                                                  | 2012년 6월9일   | Re：START      | <span style="color:red;">5.2%  |
-| EPISODE09                                                                  | 2012년 6월16일  | 재회            | 5.6%                           |
-| EPISODE10                                                                  | 2012년 6월23일  | 선택과 결단        | 6.2%                           |
-| EPISODE FINAL                                                              | 2012년 6월30일  | 완전한 미래        | 7.2%                           |
-| 평균 시청률: 6.6%                                                               |              |               |                                |
-| (시청률은 [간토 지방](https://ko.wikipedia.org/wiki/간토_지방 "wikilink")·비디오 리서치사 조사) |              |               |                                |
+| 각화                                                      | 방송일          | 부제            | 시청률\[1\]                       |
+| ------------------------------------------------------- | ------------ | ------------- | ------------------------------ |
+| EPISODE01                                               | 2012년 4월 21일 | 겨우 만날 수 있었군요  | <span style="color:blue;">9.9% |
+| EPISODE02                                               | 2012년 4월 28일 | 그래서 배신        | 5.8%                           |
+| EPISODE03                                               | 2012년 4월 5일  | 텅빈 무언가가 아니야   | 6.1%                           |
+| EPISODE04                                               | 2012년 5월 12일 | 7번째 소유자       | 6.7%                           |
+| EPISODE05                                               | 2012년 5월 19일 | 밝혀진 진실        | 7.0%                           |
+| EPISODE06                                               | 2012년 5월 26일 | 최후의 DEAD END  | 6.6%                           |
+| EPISODE07                                               | 2012년 6월 2일  | ANOTHER：WORLD | 6.1%                           |
+| EPISODE08                                               | 2012년 6월9일   | Re：START      | <span style="color:red;">5.2%  |
+| EPISODE09                                               | 2012년 6월16일  | 재회            | 5.6%                           |
+| EPISODE10                                               | 2012년 6월23일  | 선택과 결단        | 6.2%                           |
+| EPISODE FINAL                                           | 2012년 6월30일  | 완전한 미래        | 7.2%                           |
+| 평균 시청률: 6.6%                                            |              |               |                                |
+| (시청률은 [간토 지방](../Page/간토_지방.md "wikilink")·비디오 리서치사 조사) |              |               |                                |
 
 ## 각주
 

@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [In Exchange](https://ko.wikipedia.org/wiki/In_Exchange).
 
 
-《**In Exchange**》는 [이승열](https://ko.wikipedia.org/wiki/이승열 "wikilink")의 두 번째 정규 솔로음반이다.
+《**In Exchange**》는 [이승열](../Page/이승열.md "wikilink")의 두 번째 정규 솔로음반이다.
 
-이승열은 이듬 해인 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 3월에 열린 제5회 [한국대중음악상](https://ko.wikipedia.org/wiki/한국대중음악상 "wikilink") 시상식에서 '올해의 음악인'과 수록곡 〈아도나이〉로 '최우수 모던록(노래 부문)'을 수상했다.\[1\]\[2\]
+이승열은 이듬 해인 [2008년](../Page/2008년.md "wikilink") 3월에 열린 제5회 [한국대중음악상](../Page/한국대중음악상.md "wikilink") 시상식에서 '올해의 음악인'과 수록곡 〈아도나이〉로 '최우수 모던록(노래 부문)'을 수상했다.\[1\]\[2\]
 
 ## 수록곡
 
