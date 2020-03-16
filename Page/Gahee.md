@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Gahee](https://ko.wikipedia.org/wiki/Gahee).
 
 
-《**gahee**》은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 가수 [이가희](https://ko.wikipedia.org/wiki/이가희 "wikilink")의 데뷔 음반이다. 정석원이 5년 만에 이 앨범의 프로듀서를 통해서 컴백했으며, 총 4억 원의 제작비로 만들어진 음반이다.
+《**gahee**》은 [대한민국](../Page/대한민국.md "wikilink")의 가수 [이가희](https://ko.wikipedia.org/wiki/이가희 "wikilink")의 데뷔 음반이다. 정석원이 5년 만에 이 앨범의 프로듀서를 통해서 컴백했으며, 총 4억 원의 제작비로 만들어진 음반이다.
 
 ## 타이틀 곡
 

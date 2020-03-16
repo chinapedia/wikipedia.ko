@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Wall](https://ko.wikipedia.org/wiki/The_Wall).
 
 
-***The Wall***은 1979년 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 [프로그레시브 록](https://ko.wikipedia.org/wiki/프로그레시브_록 "wikilink") 밴드 [핑크 플로이드가](https://ko.wikipedia.org/wiki/핑크_플로이드 "wikilink") 1979년 후반에 발매한 [록 오페라](https://ko.wikipedia.org/wiki/록_오페라 "wikilink") 형태의 [더블 음반이다](https://ko.wikipedia.org/wiki/더블_음반 "wikilink"). 발매 후에 연극 요소가 가미된 공연이 진행되었고, [영화로도](https://ko.wikipedia.org/wiki/Pink_Floyd_The_Wall_\(영화\) "wikilink") 제작되었다.
+***The Wall***은 1979년 [영국](../Page/영국.md "wikilink")의 [프로그레시브 록](../Page/프로그레시브_록.md "wikilink") 밴드 [핑크 플로이드가](../Page/핑크_플로이드.md "wikilink") 1979년 후반에 발매한 [록 오페라](https://ko.wikipedia.org/wiki/록_오페라 "wikilink") 형태의 [더블 음반이다](https://ko.wikipedia.org/wiki/더블_음반 "wikilink"). 발매 후에 연극 요소가 가미된 공연이 진행되었고, [영화로도](https://ko.wikipedia.org/wiki/Pink_Floyd_The_Wall_\(영화\) "wikilink") 제작되었다.
 
 *The Wall*은 "핑크" (Pink)라는 등장인물을 중심으로 한 [록 오페라이다](https://ko.wikipedia.org/wiki/록_오페라 "wikilink"). 워터스의 인생을 바탕으로 만들어진 가상의 인물 핑크는 전쟁에서 아버지를 잃고 ("[Another Brick in the Wall](https://ko.wikipedia.org/wiki/Another_Brick_in_the_Wall "wikilink") (Part 1)"), 선생에게 잘못된 교육을 받고 ("[The Happiest Days of Our Lives](https://ko.wikipedia.org/wiki/The_Happiest_Days_of_Our_Lives "wikilink")"), 과잉 보호를 하는 어머니에게 길러져 자립심을 잃고 ("[Mother](https://ko.wikipedia.org/wiki/Mother_\(Pink_Floyd_song\) "wikilink")"), 나중에는 아내에게 버림 받는 ("[Don't Leave Me Now](https://ko.wikipedia.org/wiki/Don't_Leave_Me_Now_\(Pink_Floyd_song\) "wikilink")") 등 고통받는 삶을 살게된다. 이러한 일들로 인해 핑크는 세상으로부터 정신적으로 단절되는 내면의 벽을 쌓게 되고, 이것은 비유적으로 "The Wall"로 칭한다.
 

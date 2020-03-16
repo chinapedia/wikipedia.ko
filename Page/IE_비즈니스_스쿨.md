@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [IE  ](https://ko.wikipedia.org/wiki/IE__).
 
 
-**IE 비즈니스 스쿨**(IE Business School)은 [스페인](https://ko.wikipedia.org/wiki/스페인 "wikilink") [마드리드](https://ko.wikipedia.org/wiki/마드리드 "wikilink")에 있는 대학원이다. 1973년 **Instituto de Empresa**라는 이름으로 설립되었으며, 2009년부터는 IE University의 산하 경영대학원으로 소속되어 있다.
+**IE 비즈니스 스쿨**(IE Business School)은 [스페인](../Page/스페인.md "wikilink") [마드리드](../Page/마드리드.md "wikilink")에 있는 대학원이다. 1973년 **Instituto de Empresa**라는 이름으로 설립되었으며, 2009년부터는 IE University의 산하 경영대학원으로 소속되어 있다.
 
 파이낸셜타임즈(Financial Times)의 세계 MBA 랭킹 (Best Business School in the world)에서 2009년 세계 6위, 2017년 세계 8위에 랭크되는 등 전 세계적인 명문 비즈니스 스쿨 중 하나로 알려져 있다.
 
@@ -9,7 +9,7 @@
 
 2017년 기준 IE는 29개국에 사무실을 두고 있으며, 전 세계 128여국에 50,000명의 동문이 활동하고 있다.
 
-IE 비즈니스스쿨의 캠퍼스는 [마드리드](https://ko.wikipedia.org/wiki/마드리드 "wikilink") 시내 중심에 위치해 있다.
+IE 비즈니스스쿨의 캠퍼스는 [마드리드](../Page/마드리드.md "wikilink") 시내 중심에 위치해 있다.
 
 ## 인가
 

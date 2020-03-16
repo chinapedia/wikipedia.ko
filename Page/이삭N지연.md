@@ -27,7 +27,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><small><a href="https://ko.wikipedia.org/wiki/가온_차트" title="wikilink">가온 차트</a> <a href="https://ko.wikipedia.org/wiki/디지털" title="wikilink">디지털</a></p></td>
+<td><p><small><a href="../Page/가온_차트.md" title="wikilink">가온 차트</a> <a href="https://ko.wikipedia.org/wiki/디지털" title="wikilink">디지털</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -60,7 +60,7 @@
 
   - 《**[2002 Winter Vacation in SMTOWN.com](../Page/2002_Winter_Vacation_in_SMTOWN.com.md "wikilink")**》 - 4번 트랙 〈Snow In My Mind〉 (with 슈, 보아, 밀크)
   - 《**['03 Summer Vacation in SMTOWN.com](../Page/'03_Summer_Vacation_in_SMTOWN.com.md "wikilink")**》 - 11번 트랙 〈Pray〉
-  - 《**['04 Summer Vacation in SMTOWN.com](../Page/'04_Summer_Vacation_in_SMTOWN.com.md "wikilink")**》 - 6번 트랙 〈해주고 싶은 얘기〉, 10번 트랙 〈Just One〉 (with [문희준](https://ko.wikipedia.org/wiki/문희준 "wikilink"), [강타](../Page/강타.md "wikilink"))
+  - 《**['04 Summer Vacation in SMTOWN.com](../Page/'04_Summer_Vacation_in_SMTOWN.com.md "wikilink")**》 - 6번 트랙 〈해주고 싶은 얘기〉, 10번 트랙 〈Just One〉 (with [문희준](../Page/문희준.md "wikilink"), [강타](../Page/강타.md "wikilink"))
 
 ## 뮤직 비디오
 

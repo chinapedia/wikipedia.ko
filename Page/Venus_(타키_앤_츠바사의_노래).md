@@ -5,7 +5,7 @@
 
 ## 개요
 
-  - [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에 정식 발매된 [타키 앤 츠바사의](https://ko.wikipedia.org/wiki/타키_앤_츠바사 "wikilink") 첫 싱글이다.
+  - [대한민국](../Page/대한민국.md "wikilink")에 정식 발매된 [타키 앤 츠바사의](https://ko.wikipedia.org/wiki/타키_앤_츠바사 "wikilink") 첫 싱글이다.
   - 일본과 같은 18일에 통상반과 DVD 버전이 발매되었고, 일주일 후인 25일에 국내 특별반(일본 초회 한정반과 내용 같음, 핸드폰 줄이 들어있다.)이 발매되었다.
 
 ## 수록곡
@@ -17,7 +17,7 @@
 <!-- end list -->
 
 1.  Venus
-2.  君の名を呼びたい (너의 이름을 부르고싶어) - [타키자와 히데아키](https://ko.wikipedia.org/wiki/타키자와_히데아키 "wikilink") 솔로곡
+2.  君の名を呼びたい (너의 이름을 부르고싶어) - [타키자와 히데아키](../Page/타키자와_히데아키.md "wikilink") 솔로곡
 3.  Neverever - [이마이 츠바사](https://ko.wikipedia.org/wiki/이마이_츠바사 "wikilink") 솔로곡
 4.  Venus (Korean Version)
 5.  Venus (Chinese Version)

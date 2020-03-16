@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [1st Mini Album \( \)](https://ko.wikipedia.org/wiki/1st_Mini_Album_\(_\)).
 
 
-《**1st Mini Album**》은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 가수 [태군](https://ko.wikipedia.org/wiki/태군 "wikilink")의 데뷔 EP이다. 2009년 1월 15일에 발매하였다.
+《**1st Mini Album**》은 [대한민국](../Page/대한민국.md "wikilink")의 가수 [태군](https://ko.wikipedia.org/wiki/태군 "wikilink")의 데뷔 EP이다. 2009년 1월 15일에 발매하였다.
 
 ## 수록곡
 

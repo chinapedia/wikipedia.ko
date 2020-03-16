@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KCM](https://ko.wikipedia.org/wiki/KCM).
 
 
-**KCM**(, [1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink") [1월 26일](https://ko.wikipedia.org/wiki/1월_26일 "wikilink") \~ )은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이다.
+**KCM**(, [1982년](../Page/1982년.md "wikilink") [1월 26일](../Page/1월_26일.md "wikilink") \~ )은 [대한민국](../Page/대한민국.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이다.
 
 ## 이력
 
@@ -10,7 +10,7 @@
 ## 학력
 
   - [충현고등학교](../Page/충현고등학교.md "wikilink") (졸업)
-  - [청운대학교](https://ko.wikipedia.org/wiki/청운대학교 "wikilink") 방송연기학과 (학사)
+  - [청운대학교](../Page/청운대학교.md "wikilink") 방송연기학과 (학사)
 
 ## 앨범
 
@@ -331,7 +331,7 @@
 
   - 2005년 10월 10일 《연인》 - 눈물이나요
   - 2006년 4월 18일 [수호](../Page/수호_\(가수\).md "wikilink") 《Thank U》 - 도화지 (피처링)
-  - 2007년 1월 29일 [조영수](https://ko.wikipedia.org/wiki/조영수_\(작곡가\) "wikilink") 《All Star》 - 가시리
+  - 2007년 1월 29일 [조영수](../Page/조영수_\(작곡가\).md "wikilink") 《All Star》 - 가시리
   - 2008년 3월 27일 조영수 《All Star 2집》 - 하나의 꽃
   - 2008년 5월 20일 《로뎀나무 Vol. 1》 - Only You
   - 2010년 2월 4일 양정승 《Generation》 - 밤하늘의 별을.. (With. 노누)
@@ -340,40 +340,40 @@
 
 ### OST
 
-  - 2003년 [SBS](https://ko.wikipedia.org/wiki/SBS_\(대한민국의_방송사\) "wikilink") 《[때려](https://ko.wikipedia.org/wiki/때려 "wikilink")》 - 알아요, 그래요
+  - 2003년 [SBS](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 《[때려](../Page/때려.md "wikilink")》 - 알아요, 그래요
   - 2006년 [KBS2](../Page/KBS_2TV.md "wikilink") 《[황진이](../Page/황진이_\(2006년_드라마\).md "wikilink")》 - 연
-  - 2008년 [MBC](https://ko.wikipedia.org/wiki/문화방송 "wikilink") 《[에덴의 동쪽](../Page/에덴의_동쪽_\(드라마\).md "wikilink")》 - Promise
-  - 2009년 [MBC](https://ko.wikipedia.org/wiki/문화방송 "wikilink") 《[보석비빔밥](https://ko.wikipedia.org/wiki/보석비빔밥 "wikilink")》 - 말해줘요
-  - 2010년 [KBS2](../Page/KBS_2TV.md "wikilink") 《[제빵왕 김탁구](https://ko.wikipedia.org/wiki/제빵왕_김탁구 "wikilink")》 - 죽도록 사랑해 (Feat. [소울 다이브](https://ko.wikipedia.org/wiki/소울_다이브 "wikilink"))
-  - 2010년 [SBS](https://ko.wikipedia.org/wiki/SBS_\(대한민국의_방송사\) "wikilink") 《[대물](../Page/대물_\(드라마\).md "wikilink")》 - Missing You
+  - 2008년 [MBC](../Page/문화방송.md "wikilink") 《[에덴의 동쪽](../Page/에덴의_동쪽_\(드라마\).md "wikilink")》 - Promise
+  - 2009년 [MBC](../Page/문화방송.md "wikilink") 《[보석비빔밥](https://ko.wikipedia.org/wiki/보석비빔밥 "wikilink")》 - 말해줘요
+  - 2010년 [KBS2](../Page/KBS_2TV.md "wikilink") 《[제빵왕 김탁구](../Page/제빵왕_김탁구.md "wikilink")》 - 죽도록 사랑해 (Feat. [소울 다이브](https://ko.wikipedia.org/wiki/소울_다이브 "wikilink"))
+  - 2010년 [SBS](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 《[대물](../Page/대물_\(드라마\).md "wikilink")》 - Missing You
   - 2012년 [채널A](../Page/채널A.md "wikilink") 《[불후의 명작](../Page/불후의_명작_\(드라마\).md "wikilink")》 - 나쁜 너
   - 2013년 [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink") 《[빠스껫 볼](../Page/빠스껫_볼.md "wikilink")》 - 울게 하소서
   - 2016년 [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink") 《[동네변호사 조들호](../Page/동네변호사_조들호_\(드라마\).md "wikilink")》 - 갇힌 맘
   - 2016년 [KBS2](../Page/KBS_2TV.md "wikilink") 《[아이가 다섯](https://ko.wikipedia.org/wiki/아이가_다섯 "wikilink")》 - Only you
-  - 2016년 [MBC](https://ko.wikipedia.org/wiki/문화방송 "wikilink") 《[W](../Page/W_\(드라마\).md "wikilink")》 - 기억
+  - 2016년 [MBC](../Page/문화방송.md "wikilink") 《[W](../Page/W_\(드라마\).md "wikilink")》 - 기억
 
 ## 출연 작품
 
 ### 예능
 
-  - 2007년 [KBS2](../Page/KBS_2TV.md "wikilink") 《[준비됐어요](https://ko.wikipedia.org/wiki/준비됐어요 "wikilink")》
+  - 2007년 [KBS2](../Page/KBS_2TV.md "wikilink") 《[준비됐어요](../Page/준비됐어요.md "wikilink")》
   - 2008년 [MBC 드라마넷](../Page/MBC_드라마넷.md "wikilink") 《[MT왕](https://ko.wikipedia.org/wiki/MT왕 "wikilink")》
   - 2008년 [KBS 조이](../Page/KBS_조이.md "wikilink") 《막무가내 팩토리》
-  - 2008년 [SBS](https://ko.wikipedia.org/wiki/SBS_\(대한민국의_방송사\) "wikilink") 《[있다\! 없다?](../Page/있다!_없다?.md "wikilink")》
+  - 2008년 [SBS](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 《[있다\! 없다?](../Page/있다!_없다?.md "wikilink")》
   - 2009년 [KBS1](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 《[가족오락관](https://ko.wikipedia.org/wiki/가족오락관 "wikilink")》
   - 2009년 [KBS2](../Page/KBS_2TV.md "wikilink") 《게임쇼 기막힌대결》
-  - 2010년 [KBS1](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 《[체험 삶의 현장](https://ko.wikipedia.org/wiki/체험_삶의_현장 "wikilink")》
+  - 2010년 [KBS1](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 《[체험 삶의 현장](../Page/체험_삶의_현장.md "wikilink")》
   - 2010년 [KBS2](../Page/KBS_2TV.md "wikilink") 《[세대공감 토요일](../Page/세대공감_토요일.md "wikilink")》
-  - 2010년 [MBC](https://ko.wikipedia.org/wiki/문화방송 "wikilink") 《[세바퀴](https://ko.wikipedia.org/wiki/세상을_바꾸는_퀴즈 "wikilink")》
-  - 2011년 [KBS2](../Page/KBS_2TV.md "wikilink") 《[출발드림팀 시즌 2](https://ko.wikipedia.org/wiki/출발드림팀_시즌_2 "wikilink")》
-  - 2016년 [MBC](https://ko.wikipedia.org/wiki/문화방송 "wikilink") 《[미스터리 음악쇼 복면가왕](../Page/미스터리_음악쇼_복면가왕.md "wikilink")》 - 파리잡는 파리넬리, 빵야빵야 총잡이(생방)
+  - 2010년 [MBC](../Page/문화방송.md "wikilink") 《[세바퀴](../Page/세상을_바꾸는_퀴즈.md "wikilink")》
+  - 2011년 [KBS2](../Page/KBS_2TV.md "wikilink") 《[출발드림팀 시즌 2](../Page/출발드림팀_시즌_2.md "wikilink")》
+  - 2016년 [MBC](../Page/문화방송.md "wikilink") 《[미스터리 음악쇼 복면가왕](../Page/미스터리_음악쇼_복면가왕.md "wikilink")》 - 파리잡는 파리넬리, 빵야빵야 총잡이(생방)
   - 2016년 [JTBC](../Page/JTBC.md "wikilink") 《[투유 프로젝트 - 슈가맨](../Page/투유_프로젝트_-_슈가맨.md "wikilink")》
   - 2016년 [KBS2](../Page/KBS_2TV.md "wikilink") 《[불후의 명곡 - 전설을 노래하다](../Page/불후의_명곡_-_전설을_노래하다.md "wikilink")》
-  - 2016년 [KBS1](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 《[열린음악회](https://ko.wikipedia.org/wiki/열린음악회 "wikilink")》
+  - 2016년 [KBS1](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 《[열린음악회](../Page/열린음악회.md "wikilink")》
   - 2016년 [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink") 《노래의 탄생》
-  - 2017년 [MBC](https://ko.wikipedia.org/wiki/문화방송 "wikilink") 《[듀엣가요제](../Page/듀엣가요제.md "wikilink")》
-  - 2017년 [SBS](https://ko.wikipedia.org/wiki/SBS_\(대한민국의_방송사\) "wikilink") 《[런닝맨](https://ko.wikipedia.org/wiki/런닝맨 "wikilink")》
-  - 2017년 [SBS](https://ko.wikipedia.org/wiki/SBS_\(대한민국의_방송사\) "wikilink") 《[정글의 법칙](../Page/정글의_법칙.md "wikilink")》
+  - 2017년 [MBC](../Page/문화방송.md "wikilink") 《[듀엣가요제](../Page/듀엣가요제.md "wikilink")》
+  - 2017년 [SBS](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 《[런닝맨](https://ko.wikipedia.org/wiki/런닝맨 "wikilink")》
+  - 2017년 [SBS](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 《[정글의 법칙](../Page/정글의_법칙.md "wikilink")》
   - 2017년 [JTBC](../Page/JTBC.md "wikilink") 《[갑자기 히어로즈](https://ko.wikipedia.org/wiki/갑자기_히어로즈 "wikilink")》
   - 2019년 채널A 《[리와인드 - 시간을 달리는 게임](https://ko.wikipedia.org/wiki/리와인드_-_시간을_달리는_게임 "wikilink")》
 

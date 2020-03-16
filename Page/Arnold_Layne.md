@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Arnold Layne](https://ko.wikipedia.org/wiki/Arnold_Layne).
 
 
-〈**Arnold Layne**〉는 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink") [사이키델릭 록](../Page/사이키델릭_록.md "wikilink") 그룹 [핑크 플로이드의](https://ko.wikipedia.org/wiki/핑크_플로이드 "wikilink") 첫 싱글로, 이 싱글을 발매한 후 EMI와 계약을 하게 되었다. 이 곡을 쓴 [시드 배릿은](https://ko.wikipedia.org/wiki/시드_배릿 "wikilink") 그룹의 원년 멤버로 리더이기도 하다. 데뷔 앨범인 《[The Piper at the Gates of Dawn](../Page/The_Piper_at_the_Gates_of_Dawn.md "wikilink")》에는 포함되지 않았지만 (CD 버전의 보너스 디스크로 들어감.), 최고의 사이키델릭 팝송으로 평가받고 있다.
+〈**Arnold Layne**〉는 [영국](../Page/영국.md "wikilink") [사이키델릭 록](../Page/사이키델릭_록.md "wikilink") 그룹 [핑크 플로이드의](../Page/핑크_플로이드.md "wikilink") 첫 싱글로, 이 싱글을 발매한 후 EMI와 계약을 하게 되었다. 이 곡을 쓴 [시드 배릿은](https://ko.wikipedia.org/wiki/시드_배릿 "wikilink") 그룹의 원년 멤버로 리더이기도 하다. 데뷔 앨범인 《[The Piper at the Gates of Dawn](../Page/The_Piper_at_the_Gates_of_Dawn.md "wikilink")》에는 포함되지 않았지만 (CD 버전의 보너스 디스크로 들어감.), 최고의 사이키델릭 팝송으로 평가받고 있다.
 
 ## 제작
 
@@ -22,7 +22,7 @@
 
   - [시드 배럿](../Page/시드_배럿.md "wikilink") – 전자 기타, 통기타, 리드 보컬
   - [리처드 라이트](https://ko.wikipedia.org/wiki/리처드_라이트 "wikilink") – 퍼피사제 오르간, 백 보컬
-  - [로저 워터스](https://ko.wikipedia.org/wiki/로저_워터스 "wikilink") – 베이스 기타
+  - [로저 워터스](../Page/로저_워터스.md "wikilink") – 베이스 기타
   - [닉 맨슨](https://ko.wikipedia.org/wiki/닉_맨슨 "wikilink") – 드럼
 
 ## 각주

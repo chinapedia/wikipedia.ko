@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ FC ](https://ko.wikipedia.org/wiki/_FC_).
 
 
-**서울 FC 마르티스**()는 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")부터 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink")까지 [K3리그](https://ko.wikipedia.org/wiki/K3리그 "wikilink")에 참가한 기독교 선교 축구단이다.
+**서울 FC 마르티스**()는 [2009년](../Page/2009년.md "wikilink")부터 [2015년](../Page/2015년.md "wikilink")까지 [K3리그](https://ko.wikipedia.org/wiki/K3리그 "wikilink")에 참가한 기독교 선교 축구단이다.
 
-연고지는 [서울특별시](https://ko.wikipedia.org/wiki/서울특별시 "wikilink")이며 강북구민운동장을 홈구장으로 사용한다. 경기도 양주시에 위치한 삶의 교회에서 팀을 운영한다.
+연고지는 [서울특별시](../Page/서울특별시.md "wikilink")이며 강북구민운동장을 홈구장으로 사용한다. 경기도 양주시에 위치한 삶의 교회에서 팀을 운영한다.
 
 선수 구성 미비로 인하여 [2016 시즌을](../Page/K3리그_2016.md "wikilink") 앞두고 리그에서 퇴출되었다.\[1\]
 
@@ -20,7 +20,7 @@
 
 ## 관련 항목
 
-  - [서울특별시의 축구](https://ko.wikipedia.org/wiki/서울특별시의_축구 "wikilink")
+  - [서울특별시의 축구](../Page/서울특별시의_축구.md "wikilink")
 
 ## 각주
 

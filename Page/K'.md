@@ -5,25 +5,25 @@
 
 ## 캐릭터 설정
 
-K'는 [맥시마](https://ko.wikipedia.org/wiki/맥시마 "wikilink")와 함께 공작원으로 활동하다 [더 킹 오브 파이터즈 99](https://ko.wikipedia.org/wiki/더_킹_오브_파이터즈_99 "wikilink") 대회에 참가한다. 동시에 [니카이도 베니마루와](https://ko.wikipedia.org/wiki/니카이도_베니마루 "wikilink") [야부키 신고에게도](../Page/야부키_신고.md "wikilink") KOF의 초대장이 전해지게 된다. 쿄의 실종과 [다이몬 고로는](https://ko.wikipedia.org/wiki/다이몬_고로 "wikilink") [더 킹 오브 파이터즈 98](https://ko.wikipedia.org/wiki/더_킹_오브_파이터즈_98 "wikilink") 이후 일본 유도대표팀의 코치 겸 선수로서의 당분간 KOF에 출전하지 않을 것이라 밝힌 뒤였으므로 K'와 맥시마, 베니마루, 신고가 한팀이 된다.
+K'는 [맥시마](https://ko.wikipedia.org/wiki/맥시마 "wikilink")와 함께 공작원으로 활동하다 [더 킹 오브 파이터즈 99](https://ko.wikipedia.org/wiki/더_킹_오브_파이터즈_99 "wikilink") 대회에 참가한다. 동시에 [니카이도 베니마루와](https://ko.wikipedia.org/wiki/니카이도_베니마루 "wikilink") [야부키 신고에게도](../Page/야부키_신고.md "wikilink") KOF의 초대장이 전해지게 된다. 쿄의 실종과 [다이몬 고로는](../Page/다이몬_고로.md "wikilink") [더 킹 오브 파이터즈 98](https://ko.wikipedia.org/wiki/더_킹_오브_파이터즈_98 "wikilink") 이후 일본 유도대표팀의 코치 겸 선수로서의 당분간 KOF에 출전하지 않을 것이라 밝힌 뒤였으므로 K'와 맥시마, 베니마루, 신고가 한팀이 된다.
 
 K'는 경기 도중 자신과 동일한 힘을 사용하는 쿄를 보고 자신의 존재에 대해 의문을 품게 된다. 그래서 그는 탈주한다.
 
 결승에 진출한 K' 와 맥시마 그리고 베니마루와 신고의 스페셜 팀. 그들은 네스츠 간부 [크리자리드](https://ko.wikipedia.org/wiki/크리자리드 "wikilink")를 만나고 그는 K'가 자신의 클론이라 주장한다. K'는 어린 시절의 기억이 모두 사라진 상태. K'에게 '암살 데이터의 작성을 도와라'라는 명목하에 싸워 이긴다.
 
-그 과정에서 자신을 네스츠의 일원으로 인식한 [하이데른](https://ko.wikipedia.org/wiki/하이데른 "wikilink")에게 쫓긴다. 네스츠는 K'에게 입력되어있는 쿄의 데이터를 찾아 K'를 추적한다. 맥시마는 자신의 친구의 복수를 위해 K'를 따라 탈주한다.
+그 과정에서 자신을 네스츠의 일원으로 인식한 [하이데른](../Page/하이데른.md "wikilink")에게 쫓긴다. 네스츠는 K'에게 입력되어있는 쿄의 데이터를 찾아 K'를 추적한다. 맥시마는 자신의 친구의 복수를 위해 K'를 따라 탈주한다.
 
 그 이후 K'와 맥시마는 네스츠를 도발하기 위해 세계 각지의 네스츠에 폭격을 가한다. [더 킹 오브 파이터즈 2000은](../Page/더_킹_오브_파이터즈_2000.md "wikilink") 하이데른이 그 둘을 유인, 체포하여 네스츠의 본거지를 알아내기 위해 대회를 개최한다.
 
-K'와 맥시마는 KOF의 초대장을 받고 하이데른용병부대의 다른 사령관인 '링'에 의해 [바넷사](https://ko.wikipedia.org/wiki/바넷사 "wikilink")와 [라몬](https://ko.wikipedia.org/wiki/라몬 "wikilink")이 그들의 팀메이트가 된다.
+K'와 맥시마는 KOF의 초대장을 받고 하이데른용병부대의 다른 사령관인 '링'에 의해 [바넷사](https://ko.wikipedia.org/wiki/바넷사 "wikilink")와 [라몬](../Page/라몬.md "wikilink")이 그들의 팀메이트가 된다.
 
-경기 중 네스츠가 K'제거를 위한 [쿨라 다이아몬드가](https://ko.wikipedia.org/wiki/쿨라_다이아몬드 "wikilink") 나타난다.
+경기 중 네스츠가 K'제거를 위한 [쿨라 다이아몬드가](../Page/쿨라_다이아몬드.md "wikilink") 나타난다.
 
 대회는 점차 하이데른이 생각하던 것과는 달리 사령관 '링'이 작전의 지휘권을 가진다. 배후에 네스츠의 간부인 [제로](https://ko.wikipedia.org/wiki/제로 "wikilink"). 그는 링을 제거하고 클론 링으로 하여금 하이데른의 용병부대를 교란, 이용한다. K'는 세계정복을 하려는 제로를 제거한다.
 
 K'는 어릴 적 누나의 꿈을 꾸게되고 곧 나타나는 윕(whip)이 같다는 것을 안다. 그 이후 그들은 같은 팀이 된다.
 
-[더 킹 오브 파이터즈 2001에서는](../Page/더_킹_오브_파이터즈_2001.md "wikilink") 네스츠팀이라고 하여 K'를 제거하기 위한 [K9999](https://ko.wikipedia.org/wiki/K9999 "wikilink")가 등장한다. [리얼제로](https://ko.wikipedia.org/wiki/리얼제로 "wikilink")를 이기고 네스츠의 총수 [이그니스](https://ko.wikipedia.org/wiki/이그니스 "wikilink")를 무찌른다. 네스츠를 파괴하고 쿨라의 도움으로 목숨을 건진다.
+[더 킹 오브 파이터즈 2001에서는](../Page/더_킹_오브_파이터즈_2001.md "wikilink") 네스츠팀이라고 하여 K'를 제거하기 위한 [K9999](https://ko.wikipedia.org/wiki/K9999 "wikilink")가 등장한다. [리얼제로](https://ko.wikipedia.org/wiki/리얼제로 "wikilink")를 이기고 네스츠의 총수 [이그니스](../Page/이그니스.md "wikilink")를 무찌른다. 네스츠를 파괴하고 쿨라의 도움으로 목숨을 건진다.
 
 대항하기 위해 NESTS로부터 만들어진 쿨라와는 어릴적 소꿉친구이다.
 

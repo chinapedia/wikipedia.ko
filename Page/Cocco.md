@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Cocco](https://ko.wikipedia.org/wiki/Cocco).
 
 
-**코코**(Cocco, , [1977년](https://ko.wikipedia.org/wiki/1977년 "wikilink") [1월 19일](https://ko.wikipedia.org/wiki/1월_19일 "wikilink") \~ )는 일본의 여성 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")이다. [오키나와현](https://ko.wikipedia.org/wiki/오키나와현 "wikilink") [나하 시](https://ko.wikipedia.org/wiki/나하_시 "wikilink") 출신이며, [오키나와 현립 카이호고등학교](https://ko.wikipedia.org/wiki/오키나와_현립_카이호고등학교 "wikilink") 운술과미술 출신이고, [스피드스타 레코드](https://ko.wikipedia.org/wiki/스피드스타_레코드 "wikilink") 소속이다.
+**코코**(Cocco, , [1977년](../Page/1977년.md "wikilink") [1월 19일](../Page/1월_19일.md "wikilink") \~ )는 일본의 여성 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")이다. [오키나와현](../Page/오키나와현.md "wikilink") [나하 시](https://ko.wikipedia.org/wiki/나하_시 "wikilink") 출신이며, [오키나와 현립 카이호고등학교](https://ko.wikipedia.org/wiki/오키나와_현립_카이호고등학교 "wikilink") 운술과미술 출신이고, [스피드스타 레코드](https://ko.wikipedia.org/wiki/스피드스타_레코드 "wikilink") 소속이다.
 
 ## 내력
 
-[1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [11월 21일](https://ko.wikipedia.org/wiki/11월_21일 "wikilink") "Cocko"란 이름으로 인디 데뷔. 2004년엔 [쿠루리](../Page/쿠루리.md "wikilink")의 키시타 시게루 등과 [싱어 송어로](https://ko.wikipedia.org/wiki/싱어_송어 "wikilink") 활동했다.
+[1997년](../Page/1997년.md "wikilink") [11월 21일](../Page/11월_21일.md "wikilink") "Cocko"란 이름으로 인디 데뷔. 2004년엔 [쿠루리](../Page/쿠루리.md "wikilink")의 키시타 시게루 등과 [싱어 송어로](https://ko.wikipedia.org/wiki/싱어_송어 "wikilink") 활동했다.
 
-[2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [12월 13일엔](https://ko.wikipedia.org/wiki/12월_13일 "wikilink") 자신이 주연을 맡은 다큐멘터리 영화 《괜찮도록 -코코 끝나지 않는 여행­-》이 개봉했다. 2009년 2월엔 작사·작곡을 맡은 [알란의](https://ko.wikipedia.org/wiki/알란_\(가수\) "wikilink") 싱글 《군조노타니》가 발매됐고, 9월엔 1년 10개월 만의 싱글 〈코코상노 다이도코로CD〉를 발매했다.
+[2008년](../Page/2008년.md "wikilink") [12월 13일엔](../Page/12월_13일.md "wikilink") 자신이 주연을 맡은 다큐멘터리 영화 《괜찮도록 -코코 끝나지 않는 여행­-》이 개봉했다. 2009년 2월엔 작사·작곡을 맡은 [알란의](https://ko.wikipedia.org/wiki/알란_\(가수\) "wikilink") 싱글 《군조노타니》가 발매됐고, 9월엔 1년 10개월 만의 싱글 〈코코상노 다이도코로CD〉를 발매했다.
 
 ## 음반 목록
 

@@ -33,7 +33,7 @@
 
   - [서울경제](../Page/서울경제.md "wikilink")
   - [매일경제TV](../Page/매일경제TV.md "wikilink")
-  - [SBS CNBC](https://ko.wikipedia.org/wiki/SBS_CNBC "wikilink")
+  - [SBS CNBC](../Page/SBS_CNBC.md "wikilink")
 
 ## 외부 링크
 

@@ -1,49 +1,49 @@
 > This article is converted from Wikipedia: [ CRH2](https://ko.wikipedia.org/wiki/_CRH2).
 
 
-**CRH2형 전철**()은 [중화인민공화국](https://ko.wikipedia.org/wiki/중화인민공화국 "wikilink") 철도부의 제6차 재래선 증속 계획을 위해 일본의 [가와사키 중공업에서](https://ko.wikipedia.org/wiki/가와사키_중공업 "wikilink") 구입한 고속 철도차량이다. 애칭은 〈총알〉이라는 뜻의 〈자탄두〉이며, 모든 CRH 차량은 화목함호로 불리고 있다.\[1\]
+**CRH2형 전철**()은 [중화인민공화국](../Page/중화인민공화국.md "wikilink") 철도부의 제6차 재래선 증속 계획을 위해 일본의 [가와사키 중공업에서](../Page/가와사키_중공업.md "wikilink") 구입한 고속 철도차량이다. 애칭은 〈총알〉이라는 뜻의 〈자탄두〉이며, 모든 CRH 차량은 화목함호로 불리고 있다.\[1\]
 
 ## 개요
 
-CRH2형 전철은 [일본](../Page/일본.md "wikilink")의 [E2계 1000번대](../Page/신칸센_E2계_전동차.md "wikilink") [신칸센](../Page/신칸센.md "wikilink") [전동차](https://ko.wikipedia.org/wiki/전동차 "wikilink")를 기본으로 제작되었다. [신칸센](../Page/신칸센.md "wikilink") 차량의 해외 수출은 [타이완 고속철도 700T형 전동차](../Page/타이완_고속철도_700T형_전동차.md "wikilink") 다음으로 두 번째이다. CRH2A형의 모터로 [E2계 1000번대와](../Page/신칸센_E2계_전동차.md "wikilink") 동일하지만, 전동차(M)와 부속차(T)의 구성비(MT비)는 4M4T로, 영업운전 최고 속도는 E2계 1000번대 (8M2T)의 최고 속도인 275 km/h(설계 최고속도 315 km/h)보다 낮은 250 km/h를 기록했다. 그 후 [베이징-톈진 고속철도의](https://ko.wikipedia.org/wiki/베이징-톈진_고속철도 "wikilink") 개통에 맞추어 투입되었다. CRH2C형은 6M2T의 MT비로 변경하여, [지멘스](https://ko.wikipedia.org/wiki/지멘스 "wikilink") [ICE3](https://ko.wikipedia.org/wiki/ICE3 "wikilink") 기본베이스의 CRH3형 전철과 함께 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [8월 1일](https://ko.wikipedia.org/wiki/8월_1일 "wikilink") 세계 최고 속도의 350km/h영업 운전을 시작하였다.\[2\]\[3\]\[4\]\[5\]\[6\]
+CRH2형 전철은 [일본](../Page/일본.md "wikilink")의 [E2계 1000번대](../Page/신칸센_E2계_전동차.md "wikilink") [신칸센](../Page/신칸센.md "wikilink") [전동차](https://ko.wikipedia.org/wiki/전동차 "wikilink")를 기본으로 제작되었다. [신칸센](../Page/신칸센.md "wikilink") 차량의 해외 수출은 [타이완 고속철도 700T형 전동차](../Page/타이완_고속철도_700T형_전동차.md "wikilink") 다음으로 두 번째이다. CRH2A형의 모터로 [E2계 1000번대와](../Page/신칸센_E2계_전동차.md "wikilink") 동일하지만, 전동차(M)와 부속차(T)의 구성비(MT비)는 4M4T로, 영업운전 최고 속도는 E2계 1000번대 (8M2T)의 최고 속도인 275 km/h(설계 최고속도 315 km/h)보다 낮은 250 km/h를 기록했다. 그 후 [베이징-톈진 고속철도의](https://ko.wikipedia.org/wiki/베이징-톈진_고속철도 "wikilink") 개통에 맞추어 투입되었다. CRH2C형은 6M2T의 MT비로 변경하여, [지멘스](https://ko.wikipedia.org/wiki/지멘스 "wikilink") [ICE3](https://ko.wikipedia.org/wiki/ICE3 "wikilink") 기본베이스의 CRH3형 전철과 함께 [2008년](../Page/2008년.md "wikilink") [8월 1일](../Page/8월_1일.md "wikilink") 세계 최고 속도의 350km/h영업 운전을 시작하였다.\[2\]\[3\]\[4\]\[5\]\[6\]
 
 ## 세부 모델
 
 ### CRH2A
 
-**CRH2A형 전철**()은 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink")에 [중화인민공화국 철도부에서](../Page/중화인민공화국_철도부.md "wikilink") 주문했고 최초의 CRH2 모델이다. 60편성이 제작되었고 8량 1편성으로 구성되었다. 이 중 3편성의 경우 [일본](../Page/일본.md "wikilink")에서 제작되어 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")에 [중화인민공화국](https://ko.wikipedia.org/wiki/중화인민공화국 "wikilink")에 수출했다. 나머지 편성은 [중화인민공화국](https://ko.wikipedia.org/wiki/중화인민공화국 "wikilink")의 [CRRC 칭다오 시팡에서](https://ko.wikipedia.org/wiki/CRRC_칭다오_시팡 "wikilink") 제조되었다. 영업 최고 속도는 [중국고속철도 CRH1와](https://ko.wikipedia.org/wiki/중국고속철도_CRH1 "wikilink") 같은 250km/h로 운행하고 있다. [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink")에 시운전을 진행 했으며 같은 해 [4월](https://ko.wikipedia.org/wiki/4월 "wikilink")부터 운행하기 시작했다.
+**CRH2A형 전철**()은 [2004년](../Page/2004년.md "wikilink")에 [중화인민공화국 철도부에서](../Page/중화인민공화국_철도부.md "wikilink") 주문했고 최초의 CRH2 모델이다. 60편성이 제작되었고 8량 1편성으로 구성되었다. 이 중 3편성의 경우 [일본](../Page/일본.md "wikilink")에서 제작되어 [2006년](../Page/2006년.md "wikilink")에 [중화인민공화국](../Page/중화인민공화국.md "wikilink")에 수출했다. 나머지 편성은 [중화인민공화국](../Page/중화인민공화국.md "wikilink")의 [CRRC 칭다오 시팡에서](https://ko.wikipedia.org/wiki/CRRC_칭다오_시팡 "wikilink") 제조되었다. 영업 최고 속도는 [중국고속철도 CRH1와](../Page/중국고속철도_CRH1.md "wikilink") 같은 250km/h로 운행하고 있다. [2007년](../Page/2007년.md "wikilink")에 시운전을 진행 했으며 같은 해 [4월](../Page/4월.md "wikilink")부터 운행하기 시작했다.
 
 파일:201609 D3094 at Wuxidong Station.jpg 파일:China_Railways_CRH2_March_2010.jpg
 
 ### CRH2B
 
-**CRH2B형 전철**()은 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink")부터 최초로 도입될 열차로 CRH2A과 달리 이 열차는 1편성 16량으로 구성되었다.\[7\]\[8\] 같은 해 [8월](https://ko.wikipedia.org/wiki/8월 "wikilink")에 [허닝 철로에](https://ko.wikipedia.org/wiki/허닝_철로 "wikilink") 투입되었다.
+**CRH2B형 전철**()은 [2008년](../Page/2008년.md "wikilink") [4월](../Page/4월.md "wikilink")부터 최초로 도입될 열차로 CRH2A과 달리 이 열차는 1편성 16량으로 구성되었다.\[7\]\[8\] 같은 해 [8월](../Page/8월.md "wikilink")에 [허닝 철로에](https://ko.wikipedia.org/wiki/허닝_철로 "wikilink") 투입되었다.
 
 파일:CRH2-113B.JPG 파일:CRH2B_at_Wuxi_Station_-_panoramio.jpg
 
 ### CRH2C
 
-**CRH2C형 전철**()은 CRH2A의 파생형으로 영업 최고 속도는 [중국고속철도 CRH3와](https://ko.wikipedia.org/wiki/중국고속철도_CRH3 "wikilink") 같은 350km/h로 운행하고 있다.\[9\] 당시 [중화인민공화국 철도부와](../Page/중화인민공화국_철도부.md "wikilink") [지멘스 벨라로](https://ko.wikipedia.org/wiki/지멘스_벨라로 "wikilink"), [신칸센 E2계 전동차와](../Page/신칸센_E2계_전동차.md "wikilink") 함께 [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink")에 입찰에 붙인 300km/h급 고속철도 사업의 일환으로 이 열차를 개발하기 위해 15억 [위안](https://ko.wikipedia.org/wiki/위안 "wikilink")이 들었다.\[10\]
+**CRH2C형 전철**()은 CRH2A의 파생형으로 영업 최고 속도는 [중국고속철도 CRH3와](../Page/중국고속철도_CRH3.md "wikilink") 같은 350km/h로 운행하고 있다.\[9\] 당시 [중화인민공화국 철도부와](../Page/중화인민공화국_철도부.md "wikilink") [지멘스 벨라로](../Page/지멘스_벨라로.md "wikilink"), [신칸센 E2계 전동차와](../Page/신칸센_E2계_전동차.md "wikilink") 함께 [2005년](../Page/2005년.md "wikilink")에 입찰에 붙인 300km/h급 고속철도 사업의 일환으로 이 열차를 개발하기 위해 15억 [위안](https://ko.wikipedia.org/wiki/위안 "wikilink")이 들었다.\[10\]
 
   - CRH2C 1차분
 
-[2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [12월](https://ko.wikipedia.org/wiki/12월 "wikilink")에 최초로 인도했고\[11\]\[12\] [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink")에 [베이징](https://ko.wikipedia.org/wiki/베이징 "wikilink")에서 [톈진](https://ko.wikipedia.org/wiki/톈진 "wikilink") 구간의 고속선에서 최고 영업 속도 370km/h를 달성한데 이어 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")에 최고 속도 394km/h를 달성했다.\[13\]\[14\] 당시 기술를 통해 최신형 기술이 적용된 차량으로 A형에 존재하던 4량의 일반 객차중 2량을 동력 객차로 개조해서 최고 영업 속도를 300km/h까지 올렸다. 알루미늄 차체를 적용해 경량화를 시켰고 [고속철도](https://ko.wikipedia.org/wiki/고속철도 "wikilink") 주행이 더 용이한 팬터그래프를 적용했다. 차내 시스템 연결의 경우 광섬유가 사용된 것이 특징이다.
+[2007년](../Page/2007년.md "wikilink") [12월](../Page/12월.md "wikilink")에 최초로 인도했고\[11\]\[12\] [2008년](../Page/2008년.md "wikilink")에 [베이징](https://ko.wikipedia.org/wiki/베이징 "wikilink")에서 [톈진](https://ko.wikipedia.org/wiki/톈진 "wikilink") 구간의 고속선에서 최고 영업 속도 370km/h를 달성한데 이어 [2009년](../Page/2009년.md "wikilink")에 최고 속도 394km/h를 달성했다.\[13\]\[14\] 당시 기술를 통해 최신형 기술이 적용된 차량으로 A형에 존재하던 4량의 일반 객차중 2량을 동력 객차로 개조해서 최고 영업 속도를 300km/h까지 올렸다. 알루미늄 차체를 적용해 경량화를 시켰고 [고속철도](../Page/고속철도.md "wikilink") 주행이 더 용이한 팬터그래프를 적용했다. 차내 시스템 연결의 경우 광섬유가 사용된 것이 특징이다.
 
   - CRH2C 2차분
 
-CRH2를 재설계한 모델로 30편성을 도입했고 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [1월](https://ko.wikipedia.org/wiki/1월 "wikilink")에 공개되어 같은 해 [2월](https://ko.wikipedia.org/wiki/2월 "wikilink")부터 운행에 들어갔다. 1차분과 달리 축중이 1톤이 늘어난 15톤으로 재설계 되었고 기어비의 변경과 소음과 진동을 감소시켰다.\[15\]\[16\] [고속열차](https://ko.wikipedia.org/wiki/고속열차 "wikilink") 주행의 승객 안전을 위해 창문과 문의 차폐성이 개선되었다. 대차 내구성의 강화로 최고 영업 속도를 350km/h까지 올렸다.
+CRH2를 재설계한 모델로 30편성을 도입했고 [2010년](../Page/2010년.md "wikilink") [1월](../Page/1월.md "wikilink")에 공개되어 같은 해 [2월](../Page/2월.md "wikilink")부터 운행에 들어갔다. 1차분과 달리 축중이 1톤이 늘어난 15톤으로 재설계 되었고 기어비의 변경과 소음과 진동을 감소시켰다.\[15\]\[16\] [고속열차](https://ko.wikipedia.org/wiki/고속열차 "wikilink") 주행의 승객 안전을 위해 창문과 문의 차폐성이 개선되었다. 대차 내구성의 강화로 최고 영업 속도를 350km/h까지 올렸다.
 
 파일:201604 G7049 enters into Dantu Station.JPG 파일:CRH2-080C 无锡站.JPG
 
 ### CRH2E
 
-**CRH2E형 전철**()은 CRH2의 [침대차](../Page/침대차.md "wikilink")로 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink")부터 CRH2E 차량이 도입되었고 전 차량이 [침대차](../Page/침대차.md "wikilink")로 구성되었다. 이층 침대로 구성되었고 평행으로 고정된 것이 특징이다.\[17\] 이 열차는 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink")부터 [베이징](https://ko.wikipedia.org/wiki/베이징 "wikilink")에서 [상하이](https://ko.wikipedia.org/wiki/상하이 "wikilink")를 오가는 노선에 투입되었다.
+**CRH2E형 전철**()은 CRH2의 [침대차](../Page/침대차.md "wikilink")로 [2007년](../Page/2007년.md "wikilink")부터 CRH2E 차량이 도입되었고 전 차량이 [침대차](../Page/침대차.md "wikilink")로 구성되었다. 이층 침대로 구성되었고 평행으로 고정된 것이 특징이다.\[17\] 이 열차는 [2008년](../Page/2008년.md "wikilink")부터 [베이징](https://ko.wikipedia.org/wiki/베이징 "wikilink")에서 [상하이](https://ko.wikipedia.org/wiki/상하이 "wikilink")를 오가는 노선에 투입되었다.
 
 파일:CRH2E-2126@BJN_(20150407173620).JPG 파일:201604_a_CRH2E-NG_EMU_leave_from_Shanghai_Station.jpg 파일:CRH2E-2463@BCR_(20170328162809).jpg
 
 ## 객차 구성
 
-CRH2A의 경우 다른 고속열차와 달리 침대차가 있으며 이 중 37편성은 [가와사키 중공업과](https://ko.wikipedia.org/wiki/가와사키_중공업 "wikilink") 시팡에서 제작되었다.\[18\] [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 이후에 제작된 차량의 경우 전 편성 최고 속도 350km/h로 설계되었다.\[19\]
+CRH2A의 경우 다른 고속열차와 달리 침대차가 있으며 이 중 37편성은 [가와사키 중공업과](../Page/가와사키_중공업.md "wikilink") 시팡에서 제작되었다.\[18\] [2008년](../Page/2008년.md "wikilink") 이후에 제작된 차량의 경우 전 편성 최고 속도 350km/h로 설계되었다.\[19\]
 
   - 차량 대상
 
@@ -324,9 +324,9 @@ CRH<sub>2</sub>-130E, CRH<sub>2</sub>-132E, CRH<sub>2</sub>-135E</p></td>
 ## 같이 보기
 
   - [중국고속철도](https://ko.wikipedia.org/wiki/중국고속철도 "wikilink")
-  - [중국고속철도 CRH1](https://ko.wikipedia.org/wiki/중국고속철도_CRH1 "wikilink")
-  - [중국고속철도 CRH3](https://ko.wikipedia.org/wiki/중국고속철도_CRH3 "wikilink")
-  - [중국고속철도 CRH5](https://ko.wikipedia.org/wiki/중국고속철도_CRH5 "wikilink")
+  - [중국고속철도 CRH1](../Page/중국고속철도_CRH1.md "wikilink")
+  - [중국고속철도 CRH3](../Page/중국고속철도_CRH3.md "wikilink")
+  - [중국고속철도 CRH5](../Page/중국고속철도_CRH5.md "wikilink")
   - [중국고속철도 CRH6](../Page/중국고속철도_CRH6.md "wikilink")
   - [CRH380A](../Page/CRH380A.md "wikilink")
 

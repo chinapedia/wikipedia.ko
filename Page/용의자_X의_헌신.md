@@ -5,7 +5,7 @@
 
 물리학자 **유카와 마나부**가 주인공인 '용의자 X의 헌신 시리즈'가운데 [탐정 갈릴레오](https://ko.wikipedia.org/wiki/탐정_갈릴레오 "wikilink"), [예지몽](https://ko.wikipedia.org/wiki/예지몽 "wikilink")에 이은 3번째 작품이다.
 
-[2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink")에는 [일본](../Page/일본.md "wikilink")에서 [영화](../Page/영화.md "wikilink")로 제작, 개봉되었다. [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서도 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 《[용의자 X](https://ko.wikipedia.org/wiki/용의자_X "wikilink")》라는 영화로 리메이크되었다. [중국](https://ko.wikipedia.org/wiki/중국 "wikilink")에서도 [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") 영화로 리메이크되었다.
+[2008년](../Page/2008년.md "wikilink")에는 [일본](../Page/일본.md "wikilink")에서 [영화](../Page/영화.md "wikilink")로 제작, 개봉되었다. [대한민국](../Page/대한민국.md "wikilink")에서도 [2012년](../Page/2012년.md "wikilink") 《[용의자 X](https://ko.wikipedia.org/wiki/용의자_X "wikilink")》라는 영화로 리메이크되었다. [중국](../Page/중국.md "wikilink")에서도 [2017년](../Page/2017년.md "wikilink") 영화로 리메이크되었다.
 
 ## 줄거리
 
@@ -67,12 +67,12 @@
 
 ## 일본 영화
 
-《**용의자 X의 헌신**》()은 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 추리 영화로, [히가시노 게이고의](../Page/히가시노_게이고.md "wikilink") 동명의 소설 원작을 바탕으로 했다. 히가시노 게이고의 소설 《탐정 갈릴레오》, 《예지몽》을 바탕으로 한 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 드라마 [갈릴레오의](../Page/갈릴레오_\(드라마\).md "wikilink") 영화화 작품이다.
+《**용의자 X의 헌신**》()은 [2008년](../Page/2008년.md "wikilink") 추리 영화로, [히가시노 게이고의](../Page/히가시노_게이고.md "wikilink") 동명의 소설 원작을 바탕으로 했다. 히가시노 게이고의 소설 《탐정 갈릴레오》, 《예지몽》을 바탕으로 한 [2007년](../Page/2007년.md "wikilink") [후지 TV](../Page/후지_TV.md "wikilink") 드라마 [갈릴레오의](../Page/갈릴레오_\(드라마\).md "wikilink") 영화화 작품이다.
 
 ### 개요
 
-  - [일본](../Page/일본.md "wikilink")에서 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [10월 4일](https://ko.wikipedia.org/wiki/10월_4일 "wikilink") 개봉되었고,\[1\] 개봉 후 4주 동안 주말 흥행 수입 1위를 기록했으며,\[2\] 10주 동안 Top 10 안에 들며 장기 흥행했다.\[3\] 일본 내에서 약 49억 2000만 엔의 흥행 수입을 올려서, 그 해 일본의 영화 중에서 흥행 수입 3위를 기록했다.\[4\]
-  - 해외에서는 [홍콩](https://ko.wikipedia.org/wiki/홍콩 "wikilink")에서 같은 해 [12월 24일에](https://ko.wikipedia.org/wiki/12월_24일 "wikilink") 개봉, 홍콩에서도 박스오피스 1위를 차지했다.\[5\] 이후 [싱가포르](../Page/싱가포르.md "wikilink")에서 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink"), [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서 같은 해 [4월 9일에](https://ko.wikipedia.org/wiki/4월_9일 "wikilink") 연이어 개봉하였다.
+  - [일본](../Page/일본.md "wikilink")에서 [2008년](../Page/2008년.md "wikilink") [10월 4일](../Page/10월_4일.md "wikilink") 개봉되었고,\[1\] 개봉 후 4주 동안 주말 흥행 수입 1위를 기록했으며,\[2\] 10주 동안 Top 10 안에 들며 장기 흥행했다.\[3\] 일본 내에서 약 49억 2000만 엔의 흥행 수입을 올려서, 그 해 일본의 영화 중에서 흥행 수입 3위를 기록했다.\[4\]
+  - 해외에서는 [홍콩](../Page/홍콩.md "wikilink")에서 같은 해 [12월 24일에](../Page/12월_24일.md "wikilink") 개봉, 홍콩에서도 박스오피스 1위를 차지했다.\[5\] 이후 [싱가포르](../Page/싱가포르.md "wikilink")에서 [2009년](../Page/2009년.md "wikilink") [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink"), [대한민국](../Page/대한민국.md "wikilink")에서 같은 해 [4월 9일에](../Page/4월_9일.md "wikilink") 연이어 개봉하였다.
 
 ### 줄거리
 
@@ -81,7 +81,7 @@
 ### 등장 인물
 
   - [후쿠야마 마사하루](../Page/후쿠야마_마사하루.md "wikilink") - **유가와 마나부 역**
-  - [시바사키 코우](https://ko.wikipedia.org/wiki/시바사키_코우 "wikilink") - **우쓰미 카오루 역**
+  - [시바사키 코우](../Page/시바사키_코우.md "wikilink") - **우쓰미 카오루 역**
   - [기타무라 가즈키](https://ko.wikipedia.org/wiki/기타무라_가즈키 "wikilink") - **구사나기 슌페이 역**
   - [마쓰유키 야스코](https://ko.wikipedia.org/wiki/마쓰유키_야스코 "wikilink") - **하나오카 야스코 역**
   - [쓰쓰미 신이치](https://ko.wikipedia.org/wiki/쓰쓰미_신이치 "wikilink") - **이시가미 데쓰야 역**

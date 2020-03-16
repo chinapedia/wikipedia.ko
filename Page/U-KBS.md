@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [U-KBS](https://ko.wikipedia.org/wiki/U-KBS).
 
 
-**U-KBS**는 [한국방송공사](../Page/한국방송공사.md "wikilink")가 운영하는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [지상파DMB](../Page/디지털_멀티미디어_방송.md "wikilink") 방송국이다. [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [12월 1일부터](https://ko.wikipedia.org/wiki/12월_1일 "wikilink") 방송을 개시하였다.\[1\]
+**U-KBS**는 [한국방송공사](../Page/한국방송공사.md "wikilink")가 운영하는 [대한민국](../Page/대한민국.md "wikilink")의 [지상파DMB](../Page/디지털_멀티미디어_방송.md "wikilink") 방송국이다. [2005년](../Page/2005년.md "wikilink") [12월 1일부터](../Page/12월_1일.md "wikilink") 방송을 개시하였다.\[1\]
 
 ## 채널 구성
 
@@ -49,7 +49,7 @@
   - [다이나믹 뮤직박스](https://ko.wikipedia.org/wiki/다이나믹_뮤직박스 "wikilink") (종영)
   - [재주소년 유상봉의 밤소풍](https://ko.wikipedia.org/wiki/밤소풍 "wikilink") (종영)
   - [요조의 히든트랙](https://ko.wikipedia.org/wiki/히든_트랙 "wikilink") (종영)
-  - [Music Lounge](https://ko.wikipedia.org/wiki/뮤직_라운지 "wikilink") (종영)
+  - [Music Lounge](../Page/뮤직_라운지.md "wikilink") (종영)
   - 라디오 플래닛 (종영)
   - [더 가까이 이선영입니다](../Page/더_가까이.md "wikilink") (종영)
 

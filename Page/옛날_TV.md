@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ TV](https://ko.wikipedia.org/wiki/_TV).
 
 
-**옛날 TV**는 [SBS에서](https://ko.wikipedia.org/wiki/SBS_TV "wikilink") [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [6월 17일부터](https://ko.wikipedia.org/wiki/6월_17일 "wikilink") [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [11월 4일까지](https://ko.wikipedia.org/wiki/11월_4일 "wikilink") 매주 일요일 5시 30분에 방송되었던 [일요일이 좋다](../Page/일요일이_좋다.md "wikilink") 종영 코너 중 하나다. 줄여서 〈옛따〉라고 부른다.
+**옛날 TV**는 [SBS에서](../Page/SBS_TV.md "wikilink") [2007년](../Page/2007년.md "wikilink") [6월 17일부터](../Page/6월_17일.md "wikilink") [2007년](../Page/2007년.md "wikilink") [11월 4일까지](../Page/11월_4일.md "wikilink") 매주 일요일 5시 30분에 방송되었던 [일요일이 좋다](../Page/일요일이_좋다.md "wikilink") 종영 코너 중 하나다. 줄여서 〈옛따〉라고 부른다.
 
 ## 개요
 

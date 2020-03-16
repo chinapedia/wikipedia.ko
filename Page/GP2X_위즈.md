@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [GP2X ](https://ko.wikipedia.org/wiki/GP2X_).
 
 
-**GP2X 위즈**(GP2X Wiz)는 [GP2X](https://ko.wikipedia.org/wiki/GP2X "wikilink")의 후속작으로 [게임파크 홀딩스](https://ko.wikipedia.org/wiki/게임파크_홀딩스 "wikilink")(GPH)에서 제작한 [휴대용 미디어 플레이어](https://ko.wikipedia.org/wiki/휴대용_미디어_플레이어 "wikilink") 겸 휴대용 게임기이다. [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [4월 30일에](https://ko.wikipedia.org/wiki/4월_30일 "wikilink") 발매되었다.\[1\]
+**GP2X 위즈**(GP2X Wiz)는 [GP2X](../Page/GP2X.md "wikilink")의 후속작으로 [게임파크 홀딩스](https://ko.wikipedia.org/wiki/게임파크_홀딩스 "wikilink")(GPH)에서 제작한 [휴대용 미디어 플레이어](https://ko.wikipedia.org/wiki/휴대용_미디어_플레이어 "wikilink") 겸 휴대용 게임기이다. [2009년](../Page/2009년.md "wikilink") [4월 30일에](../Page/4월_30일.md "wikilink") 발매되었다.\[1\]
 
 ## 사양
 
@@ -14,15 +14,15 @@
 
 ## 명텐도 논란
 
-[2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink"), [이명박](https://ko.wikipedia.org/wiki/이명박 "wikilink") 대통령이 [닌텐도](https://ko.wikipedia.org/wiki/닌텐도 "wikilink") 발언을 한 직후 언론에 의해 대중에게 ‘한국형 닌텐도’로 알려졌다.\[2\] 이 때문에 대통령의 발언을 풍자하기 위해 만들어진 가공의 게임기 이름을 따서 ‘**명텐도**’라는 별명으로 불리기도 했지만, 위즈만의 특성 때문에 명텐도 논란은 사그라지고 있는 중이다.
+[2009년](../Page/2009년.md "wikilink") [2월](../Page/2월.md "wikilink"), [이명박](https://ko.wikipedia.org/wiki/이명박 "wikilink") 대통령이 [닌텐도](../Page/닌텐도.md "wikilink") 발언을 한 직후 언론에 의해 대중에게 ‘한국형 닌텐도’로 알려졌다.\[2\] 이 때문에 대통령의 발언을 풍자하기 위해 만들어진 가공의 게임기 이름을 따서 ‘**명텐도**’라는 별명으로 불리기도 했지만, 위즈만의 특성 때문에 명텐도 논란은 사그라지고 있는 중이다.
 
 ## 예약판매
 
-[게임파크 홀딩스는](https://ko.wikipedia.org/wiki/게임파크_홀딩스 "wikilink") [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [4월 13일부터](https://ko.wikipedia.org/wiki/4월_13일 "wikilink") 30일 까지 18일에 걸쳐서 자사의 홈페이지와 대형 인터넷 쇼핑몰을 통해 예약판매와 보상할인 판매를 실시하였다. 예약판매 가격은 정식 출시 가격과 동일한 198,000원이었으나, 예약판매 구매자에게는 추가적으로 액정 보호 필름, 케이스, 스트랩 세트, 메탈 스티커로 구성된 5만 원 상당의 상품이 사은품으로 제공되었다.
+[게임파크 홀딩스는](https://ko.wikipedia.org/wiki/게임파크_홀딩스 "wikilink") [2009년](../Page/2009년.md "wikilink") [4월 13일부터](../Page/4월_13일.md "wikilink") 30일 까지 18일에 걸쳐서 자사의 홈페이지와 대형 인터넷 쇼핑몰을 통해 예약판매와 보상할인 판매를 실시하였다. 예약판매 가격은 정식 출시 가격과 동일한 198,000원이었으나, 예약판매 구매자에게는 추가적으로 액정 보호 필름, 케이스, 스트랩 세트, 메탈 스티커로 구성된 5만 원 상당의 상품이 사은품으로 제공되었다.
 
 ### 보상할인
 
-게임파크 홀딩스는 예약판매와 동시에, 이전 기종인 [GP2X](https://ko.wikipedia.org/wiki/GP2X "wikilink") F-100 및 GP2X F-200 사용자에 대한 보상할인 판매를 실시하였다. 보상할인은 선착순 100명에게 해당 기기를 반납하는 조건으로 제품 가격의 20%를 할인해 주는 방식으로 진행되었다. 보상할인 구매자에게도 예약판매 구매자와 마찬가지로 액정 보호 필름, 케이스, 스트랩 세트, 메탈 스티커로 구성된 5만 원 상당의 상품이 사은품으로 제공되었다.
+게임파크 홀딩스는 예약판매와 동시에, 이전 기종인 [GP2X](../Page/GP2X.md "wikilink") F-100 및 GP2X F-200 사용자에 대한 보상할인 판매를 실시하였다. 보상할인은 선착순 100명에게 해당 기기를 반납하는 조건으로 제품 가격의 20%를 할인해 주는 방식으로 진행되었다. 보상할인 구매자에게도 예약판매 구매자와 마찬가지로 액정 보호 필름, 케이스, 스트랩 세트, 메탈 스티커로 구성된 5만 원 상당의 상품이 사은품으로 제공되었다.
 
 ### 배송 지연
 
@@ -109,7 +109,7 @@
   - PGM 2010 (투엘컴퍼니, 스포츠)
   - Space Varments(외국 UCC게임)
 
-\- 이 5개는 원래 라인업에 있었으나 현재 라인업에서 사라졌다. (PGM 2010은 후속기종 [CAANOO](https://ko.wikipedia.org/wiki/CAANOO "wikilink")로만 발매되었다
+\- 이 5개는 원래 라인업에 있었으나 현재 라인업에서 사라졌다. (PGM 2010은 후속기종 [CAANOO](../Page/CAANOO.md "wikilink")로만 발매되었다
 
 ## FunGP 개발자 센터
 

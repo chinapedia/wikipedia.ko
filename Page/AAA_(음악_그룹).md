@@ -1,14 +1,14 @@
 > This article is converted from Wikipedia: [AAA \( \)](https://ko.wikipedia.org/wiki/AAA_\(_\)).
 
 
-[250px](https://ko.wikipedia.org/wiki/파일:AAA_LOGO_1.svg "wikilink") [250px](https://ko.wikipedia.org/wiki/파일:AAA_LOGO_2.svg "wikilink") **AAA**(, **Attack All Around**)는 5명의 멤버로 구성된 일본의 혼성 [음악 그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). 에이벡스 (avex trax) 소속. [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [9월 14일](https://ko.wikipedia.org/wiki/9월_14일 "wikilink"), [싱글](../Page/싱글_\(음악\).md "wikilink") 《BLOOD on FlRE》로 데뷔했다.
+[250px](https://ko.wikipedia.org/wiki/파일:AAA_LOGO_1.svg "wikilink") [250px](https://ko.wikipedia.org/wiki/파일:AAA_LOGO_2.svg "wikilink") **AAA**(, **Attack All Around**)는 5명의 멤버로 구성된 일본의 혼성 [음악 그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). 에이벡스 (avex trax) 소속. [2005년](../Page/2005년.md "wikilink") [9월 14일](../Page/9월_14일.md "wikilink"), [싱글](../Page/싱글_\(음악\).md "wikilink") 《BLOOD on FlRE》로 데뷔했다.
 그룹의 정식 명칭인 Attack All Around는 “모든 것에 도전한다”라는 의미가 담겨있다.
 
 ## 멤버
 
 ### 현 멤버
 
-  - [니시지마 타카히로](https://ko.wikipedia.org/wiki/니시지마_타카히로 "wikilink") (西島隆弘, Takahiro Nishijima)
+  - [니시지마 타카히로](../Page/니시지마_타카히로.md "wikilink") (西島隆弘, Takahiro Nishijima)
       - 1986년 9월 30일생
       - 일본 홋카이도 삿포로시 출신
       - AAA의 센터·메인 보컬
@@ -24,7 +24,7 @@
       - 1988년 11월 26일생
       - 일본 교토부 출신
       - AAA의 서브 래퍼
-  - [스에요시 슈타](https://ko.wikipedia.org/wiki/스에요시_슈타 "wikilink") (末吉秀太, Shuta Sueyoshi)
+  - [스에요시 슈타](../Page/스에요시_슈타.md "wikilink") (末吉秀太, Shuta Sueyoshi)
       - 1986년 12월 11일생
       - 일본 나가사키현 사세보시 출신
       - AAA의 서브 래퍼
@@ -39,7 +39,7 @@
       - 1987년 1월 10일생
       - 일본 아이치현 나고야시 출신
       - AAA의 서브 보컬
-  - [우라타 나오야](https://ko.wikipedia.org/wiki/우라타_나오야 "wikilink") (浦田直也, Naoya Urata)
+  - [우라타 나오야](../Page/우라타_나오야.md "wikilink") (浦田直也, Naoya Urata)
       - 1982년 11월 10일생
       - 일본 도쿄도 오우메시 출신
       - AAA의 리더·메인 보컬

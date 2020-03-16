@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [8eight](https://ko.wikipedia.org/wiki/8eight).
 
 
-**8eight**()는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 혼성 음악 그룹이다.
+**8eight**()는 [대한민국](../Page/대한민국.md "wikilink")의 혼성 음악 그룹이다.
 
 ## 활동
 
-8eight()는 리더이자 보컬인 [이현과](../Page/이현_\(1983년\).md "wikilink") 홍일점 보컬 [주희](https://ko.wikipedia.org/wiki/주희_\(가수\) "wikilink"), 랩과 보컬 [백찬](https://ko.wikipedia.org/wiki/백찬 "wikilink")이 속한 혼성 그룹이다. [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [MBC의](https://ko.wikipedia.org/wiki/문화방송 "wikilink") 《쇼바이벌》이라는 프로그램에서 첫 번째 시즌에서 우승하였고, 같은 해 [8월 23일](https://ko.wikipedia.org/wiki/8월_23일 "wikilink") [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink") 《[쇼\! 음악 중심](https://ko.wikipedia.org/wiki/쇼!_음악_중심 "wikilink")》에서 데뷔무대를 가졌으며 [8월 25일](https://ko.wikipedia.org/wiki/8월_25일 "wikilink") 정규 앨범 《The First》를 발매하였다.
+8eight()는 리더이자 보컬인 [이현과](../Page/이현_\(1983년\).md "wikilink") 홍일점 보컬 [주희](../Page/주희_\(가수\).md "wikilink"), 랩과 보컬 [백찬](https://ko.wikipedia.org/wiki/백찬 "wikilink")이 속한 혼성 그룹이다. [2007년](../Page/2007년.md "wikilink") [MBC의](../Page/문화방송.md "wikilink") 《쇼바이벌》이라는 프로그램에서 첫 번째 시즌에서 우승하였고, 같은 해 [8월 23일](../Page/8월_23일.md "wikilink") [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink") 《[쇼\! 음악 중심](https://ko.wikipedia.org/wiki/쇼!_음악_중심 "wikilink")》에서 데뷔무대를 가졌으며 [8월 25일](../Page/8월_25일.md "wikilink") 정규 앨범 《The First》를 발매하였다.
 
 8eight라는 팀명은 무한대 기호 '∞'를 세우면 '8'이 된다는 것에서 착안한 것으로, 무한한 가능성과 열정으로 다양하고 진보적인 음악을 선보이겠다는 멤버들의 의지가 담겨있다.
 
@@ -26,7 +26,7 @@
 <td style="text-align: left;"><p>1집</p></td>
 <td style="text-align: left;"><p>《<strong>The First</strong>》</p>
 <ul>
-<li>발매일: <a href="https://ko.wikipedia.org/wiki/2007년" title="wikilink">2007년</a> <a href="https://ko.wikipedia.org/wiki/8월_25일" title="wikilink">8월 25일</a></li>
+<li>발매일: <a href="../Page/2007년.md" title="wikilink">2007년</a> <a href="../Page/8월_25일.md" title="wikilink">8월 25일</a></li>
 </ul></td>
 <td style="text-align: left;"><ol>
 <li><strong>사랑을 잃고 난 노래하네</strong></li>
@@ -45,10 +45,10 @@
 <td style="text-align: left;"><p>2집</p></td>
 <td style="text-align: left;"><p>《<strong>Infinity</strong>》</p>
 <ul>
-<li>발매일: <a href="https://ko.wikipedia.org/wiki/2008년" title="wikilink">2008년</a> <a href="https://ko.wikipedia.org/wiki/3월_8일" title="wikilink">3월 8일</a></li>
+<li>발매일: <a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/3월_8일.md" title="wikilink">3월 8일</a></li>
 </ul></td>
 <td style="text-align: left;"><ol>
-<li><strong>Let Me Go (Feat. <a href="https://ko.wikipedia.org/wiki/조PD" title="wikilink">조PD</a>)</strong></li>
+<li><strong>Let Me Go (Feat. <a href="../Page/조PD.md" title="wikilink">조PD</a>)</strong></li>
 <li>I Love You (Feat. <a href="../Page/제시카_(가수).md" title="wikilink">제시카</a>)</li>
 <li>Sometin` Sometin`</li>
 <li>One Love</li>
@@ -57,14 +57,14 @@
 <li>왔어 그녀</li>
 <li>Me, 주희 (Feat. Pdogg)</li>
 <li>또 한걸음</li>
-<li>옷깃을 잡고서 (Feat. <a href="https://ko.wikipedia.org/wiki/빅마마" title="wikilink">빅마마</a> <a href="https://ko.wikipedia.org/wiki/박민혜" title="wikilink">박민혜</a>)</li>
+<li>옷깃을 잡고서 (Feat. <a href="../Page/빅마마.md" title="wikilink">빅마마</a> <a href="https://ko.wikipedia.org/wiki/박민혜" title="wikilink">박민혜</a>)</li>
 </ol></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p>3집</p></td>
 <td style="text-align: left;"><p>《<strong>The Golden Age</strong>》</p>
 <ul>
-<li>발매일: <a href="https://ko.wikipedia.org/wiki/2009년" title="wikilink">2009년</a> <a href="https://ko.wikipedia.org/wiki/3월_10일" title="wikilink">3월 10일</a></li>
+<li>발매일: <a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/3월_10일.md" title="wikilink">3월 10일</a></li>
 </ul></td>
 <td style="text-align: left;"><ol>
 <li>내 삶의빛 (Intro)</li>
@@ -102,7 +102,7 @@
 <td style="text-align: left;"><p>1집</p></td>
 <td style="text-align: left;"><p>《<strong>The Bridge</strong>》</p>
 <ul>
-<li>발매일: <a href="https://ko.wikipedia.org/wiki/2010년" title="wikilink">2010년</a> <a href="https://ko.wikipedia.org/wiki/5월_11일" title="wikilink">5월 11일</a></li>
+<li>발매일: <a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/5월_11일.md" title="wikilink">5월 11일</a></li>
 </ul></td>
 <td style="text-align: left;"><ol>
 <li>사랑이 간다 (Intro)</li>
@@ -117,7 +117,7 @@
 <td style="text-align: left;"><p>2집</p></td>
 <td style="text-align: left;"><p>《<strong>8eight</strong>》</p>
 <ul>
-<li>발매일: <a href="https://ko.wikipedia.org/wiki/2011년" title="wikilink">2011년</a> <a href="https://ko.wikipedia.org/wiki/6월_21일" title="wikilink">6월 21일</a></li>
+<li>발매일: <a href="../Page/2011년.md" title="wikilink">2011년</a> <a href="../Page/6월_21일.md" title="wikilink">6월 21일</a></li>
 </ul></td>
 <td style="text-align: left;"><ol>
 <li><strong>그 입술을 막아본다</strong></li>
@@ -145,7 +145,7 @@
 <td style="text-align: left;"><p>1집</p></td>
 <td style="text-align: left;"><p>《<strong>Music is my life Part.2</strong>》</p>
 <ul>
-<li>발매일: <a href="https://ko.wikipedia.org/wiki/2007년" title="wikilink">2007년</a> <a href="https://ko.wikipedia.org/wiki/11월_14일" title="wikilink">11월 14일</a></li>
+<li>발매일: <a href="../Page/2007년.md" title="wikilink">2007년</a> <a href="../Page/11월_14일.md" title="wikilink">11월 14일</a></li>
 </ul></td>
 <td style="text-align: left;"><ol>
 <li><strong>추억이 들린다(Yepp Song)</strong></li>
@@ -155,7 +155,7 @@
 <td style="text-align: left;"><p>2집</p></td>
 <td style="text-align: left;"><p>《<strong>I Love You</strong>》</p>
 <ul>
-<li>발매일: <a href="https://ko.wikipedia.org/wiki/2008년" title="wikilink">2008년</a> <a href="https://ko.wikipedia.org/wiki/6월_20일" title="wikilink">6월 20일</a></li>
+<li>발매일: <a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/6월_20일.md" title="wikilink">6월 20일</a></li>
 </ul></td>
 <td style="text-align: left;"><ol>
 <li><strong>I Love You (Feat. <a href="../Page/소녀시대.md" title="wikilink">소녀시대</a> <a href="../Page/제시카_(가수).md" title="wikilink">제시카</a>)</strong></li>
@@ -168,18 +168,18 @@
 <td style="text-align: left;"><p>3집</p></td>
 <td style="text-align: left;"><p>《<strong>잘가요 내사랑</strong>》</p>
 <ul>
-<li>발매일: <a href="https://ko.wikipedia.org/wiki/2009년" title="wikilink">2009년</a> <a href="https://ko.wikipedia.org/wiki/6월_11일" title="wikilink">6월 11일</a></li>
+<li>발매일: <a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/6월_11일.md" title="wikilink">6월 11일</a></li>
 </ul></td>
 <td style="text-align: left;"><ol>
 <li><strong>잘가요 내사랑</strong></li>
-<li>울고 싶어 우는 사람이 있겠어 (Feat. <a href="https://ko.wikipedia.org/wiki/다이나믹_듀오" title="wikilink">다이나믹 듀오</a>)</li>
+<li>울고 싶어 우는 사람이 있겠어 (Feat. <a href="../Page/다이나믹_듀오.md" title="wikilink">다이나믹 듀오</a>)</li>
 </ol></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p>4집</p></td>
 <td style="text-align: left;"><p>《<strong>울고 싶어 우는 사람이 있겠어</strong>》</p>
 <ul>
-<li>발매일: <a href="https://ko.wikipedia.org/wiki/2009년" title="wikilink">2009년</a> <a href="https://ko.wikipedia.org/wiki/8월_4일" title="wikilink">8월 4일</a></li>
+<li>발매일: <a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/8월_4일.md" title="wikilink">8월 4일</a></li>
 </ul></td>
 <td style="text-align: left;"><ol>
 <li><strong>울고 싶어 우는 사람이 있겠어 (Cry Mix)</strong></li>
@@ -190,7 +190,7 @@
 <td style="text-align: left;"><p>5집</p></td>
 <td style="text-align: left;"><p>《<strong>유효기간</strong>》</p>
 <ul>
-<li>발매일: <a href="https://ko.wikipedia.org/wiki/2010년" title="wikilink">2010년</a> <a href="https://ko.wikipedia.org/wiki/3월_8일" title="wikilink">3월 8일</a></li>
+<li>발매일: <a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/3월_8일.md" title="wikilink">3월 8일</a></li>
 </ul></td>
 <td style="text-align: left;"><ol>
 <li><strong>유효기간</strong></li>
@@ -200,7 +200,7 @@
 <td style="text-align: left;"><p>6집</p></td>
 <td style="text-align: left;"><p>《<strong>미치지말자</strong>》</p>
 <ul>
-<li>발매일: <a href="https://ko.wikipedia.org/wiki/2014년" title="wikilink">2014년</a> <a href="https://ko.wikipedia.org/wiki/9월_19일" title="wikilink">9월 19일</a></li>
+<li>발매일: <a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/9월_19일.md" title="wikilink">9월 19일</a></li>
 </ul></td>
 <td style="text-align: left;"><ol>
 <li><strong>미치지말자</strong></li>
@@ -211,22 +211,22 @@
 
 ### 참여 음반
 
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [12월 28일](https://ko.wikipedia.org/wiki/12월_28일 "wikilink") 《Somewhere Over The Rainbow Vol.6》
+  - [2007년](../Page/2007년.md "wikilink") [12월 28일](../Page/12월_28일.md "wikilink") 《Somewhere Over The Rainbow Vol.6》
       - 3\. 엉뚱한 상상
 
 <!-- end list -->
 
-  - 2008년 [11월 11일](https://ko.wikipedia.org/wiki/11월_11일 "wikilink") 《달라송》
+  - 2008년 [11월 11일](../Page/11월_11일.md "wikilink") 《달라송》
       - 2\. 달라송 (Original Ver.)
 
 <!-- end list -->
 
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [10월 28일](https://ko.wikipedia.org/wiki/10월_28일 "wikilink") 《2010 [MAMA](https://ko.wikipedia.org/wiki/MAMA "wikilink") 테마송》
+  - [2010년](../Page/2010년.md "wikilink") [10월 28일](../Page/10월_28일.md "wikilink") 《2010 [MAMA](https://ko.wikipedia.org/wiki/MAMA "wikilink") 테마송》
       - 1\. **MUSIC**
 
 <!-- end list -->
 
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [10월 6일](https://ko.wikipedia.org/wiki/10월_6일 "wikilink") 《Re:Feel Theme 설레임 + 사랑》
+  - [2011년](../Page/2011년.md "wikilink") [10월 6일](../Page/10월_6일.md "wikilink") 《Re:Feel Theme 설레임 + 사랑》
       - 2\. **썸데이...그리고**
 
 <!-- end list -->
@@ -235,39 +235,39 @@
 
 <!-- end list -->
 
-  - 《[달콤한 나의 도시](https://ko.wikipedia.org/wiki/달콤한_나의_도시 "wikilink") OST》 ([2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [6월 5일](https://ko.wikipedia.org/wiki/6월_5일 "wikilink"))
+  - 《[달콤한 나의 도시](https://ko.wikipedia.org/wiki/달콤한_나의_도시 "wikilink") OST》 ([2008년](../Page/2008년.md "wikilink") [6월 5일](../Page/6월_5일.md "wikilink"))
       - <달콤한 나의 도시>
-  - 《[천일의 약속](../Page/천일의_약속.md "wikilink") OST》 ([2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [11월 29일](../Page/11월_29일.md "wikilink"))
+  - 《[천일의 약속](../Page/천일의_약속.md "wikilink") OST》 ([2011년](../Page/2011년.md "wikilink") [11월 29일](../Page/11월_29일.md "wikilink"))
       - <한사람>
-  - 《[도롱뇽도사와 그림자 조작단](../Page/도롱뇽도사와_그림자_조작단.md "wikilink") OST Part.1》 ([2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [1월 27일](https://ko.wikipedia.org/wiki/1월_27일 "wikilink"))
+  - 《[도롱뇽도사와 그림자 조작단](../Page/도롱뇽도사와_그림자_조작단.md "wikilink") OST Part.1》 ([2012년](../Page/2012년.md "wikilink") [1월 27일](../Page/1월_27일.md "wikilink"))
 
 ## 콘서트
 
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [4월 25일](https://ko.wikipedia.org/wiki/4월_25일 "wikilink") <에이트 미니 콘서트> - 위치 \<[청담동](../Page/청담동.md "wikilink") CLUB ANSWER\>
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [10월 9일부터](https://ko.wikipedia.org/wiki/10월_9일 "wikilink") [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [10월 11일까지](https://ko.wikipedia.org/wiki/10월_11일 "wikilink") <에이트 콘서트-상상서곡 가을을 거닐다> - 위치 \<KT\&G 상상아트홀\>
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [12월 13일](https://ko.wikipedia.org/wiki/12월_13일 "wikilink") \<에이트 콘서트-CGV&신한카드 윈터가든\> - 위치 \<[영등포 타임스퀘어](https://ko.wikipedia.org/wiki/영등포_타임스퀘어 "wikilink") CGV ART HALL\>
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [12월 31일](https://ko.wikipedia.org/wiki/12월_31일 "wikilink") <에이트 콘서트-Maximum level> - 위치 <대구 시민회관>
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [11월 6일](https://ko.wikipedia.org/wiki/11월_6일 "wikilink")\~[11월 7일](https://ko.wikipedia.org/wiki/11월_7일 "wikilink") <에이트 투어 콘서트-Octave in Seoul> - 위치 <마포아트홀 맥>
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [11월 13일](https://ko.wikipedia.org/wiki/11월_13일 "wikilink") <에이트 투어 콘서트-Octave in Busan> - 위치 <부산 MBC 롯데 아트홀>
+  - [2009년](../Page/2009년.md "wikilink") [4월 25일](../Page/4월_25일.md "wikilink") <에이트 미니 콘서트> - 위치 \<[청담동](../Page/청담동.md "wikilink") CLUB ANSWER\>
+  - [2009년](../Page/2009년.md "wikilink") [10월 9일부터](../Page/10월_9일.md "wikilink") [2009년](../Page/2009년.md "wikilink") [10월 11일까지](../Page/10월_11일.md "wikilink") <에이트 콘서트-상상서곡 가을을 거닐다> - 위치 \<KT\&G 상상아트홀\>
+  - [2009년](../Page/2009년.md "wikilink") [12월 13일](../Page/12월_13일.md "wikilink") \<에이트 콘서트-CGV&신한카드 윈터가든\> - 위치 \<[영등포 타임스퀘어](https://ko.wikipedia.org/wiki/영등포_타임스퀘어 "wikilink") CGV ART HALL\>
+  - [2009년](../Page/2009년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink") <에이트 콘서트-Maximum level> - 위치 <대구 시민회관>
+  - [2010년](../Page/2010년.md "wikilink") [11월 6일](../Page/11월_6일.md "wikilink")\~[11월 7일](../Page/11월_7일.md "wikilink") <에이트 투어 콘서트-Octave in Seoul> - 위치 <마포아트홀 맥>
+  - [2010년](../Page/2010년.md "wikilink") [11월 13일](../Page/11월_13일.md "wikilink") <에이트 투어 콘서트-Octave in Busan> - 위치 <부산 MBC 롯데 아트홀>
 
 ## 기타 활동
 
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") 프리송 캠페인
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") 삼성전자 MP3 Player YEPP 모델
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 현대자동차 i-30 광고 음악 프로젝트 참여
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") 맨즈헬스 July 2009 표지모델 및 화보 (이현 + 주희)
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") 나라사랑 태극사랑 무궁화 패션쇼 메인모델 (designer 박종철 / 이현 + 백찬)
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") 2010 Mnet Asia Music Awards Theme Song <Music> with 2PM준수, 부활, 브라운아이드걸스(제아,나르샤), 슈프림팀
+  - [2007년](../Page/2007년.md "wikilink") 프리송 캠페인
+  - [2007년](../Page/2007년.md "wikilink") 삼성전자 MP3 Player YEPP 모델
+  - [2008년](../Page/2008년.md "wikilink") 현대자동차 i-30 광고 음악 프로젝트 참여
+  - [2009년](../Page/2009년.md "wikilink") 맨즈헬스 July 2009 표지모델 및 화보 (이현 + 주희)
+  - [2009년](../Page/2009년.md "wikilink") 나라사랑 태극사랑 무궁화 패션쇼 메인모델 (designer 박종철 / 이현 + 백찬)
+  - [2010년](../Page/2010년.md "wikilink") 2010 Mnet Asia Music Awards Theme Song <Music> with 2PM준수, 부활, 브라운아이드걸스(제아,나르샤), 슈프림팀
 
 ## 수상목록
 
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [8월 11일](https://ko.wikipedia.org/wiki/8월_11일 "wikilink") [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink") 쇼바이벌 S-1 그랑프리 우승
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [싸이월드](https://ko.wikipedia.org/wiki/싸이월드 "wikilink") 디지털 뮤직 어워드 '9월의 Rookie Of The Month'
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") 제1회 멜론 뮤직 어워드 'TOP 10'
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") 맨즈헬스 'COOL GUY 최고가수상'
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") Mnet 아시안 뮤직 어워드 '혼성그룹상'
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") 싸이월드 디지털 뮤직 어워드 '팅즈 초이스 아티스트상'
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") 싸이월드 디지털 뮤직 어워드 2009 '2009 BEST 10'
+  - [2007년](../Page/2007년.md "wikilink") [8월 11일](../Page/8월_11일.md "wikilink") [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink") 쇼바이벌 S-1 그랑프리 우승
+  - [2007년](../Page/2007년.md "wikilink") [싸이월드](../Page/싸이월드.md "wikilink") 디지털 뮤직 어워드 '9월의 Rookie Of The Month'
+  - [2009년](../Page/2009년.md "wikilink") 제1회 멜론 뮤직 어워드 'TOP 10'
+  - [2009년](../Page/2009년.md "wikilink") 맨즈헬스 'COOL GUY 최고가수상'
+  - [2009년](../Page/2009년.md "wikilink") Mnet 아시안 뮤직 어워드 '혼성그룹상'
+  - [2009년](../Page/2009년.md "wikilink") 싸이월드 디지털 뮤직 어워드 '팅즈 초이스 아티스트상'
+  - [2010년](../Page/2010년.md "wikilink") 싸이월드 디지털 뮤직 어워드 2009 '2009 BEST 10'
 
 ## 개인 프로필 및 활동
 
@@ -292,8 +292,8 @@
   - 2010 방시혁 프로젝트 <Homme by hitman bang> 디지털 싱글 '밥만 잘먹더라' with [2AM](https://ko.wikipedia.org/wiki/2AM "wikilink") [창민](https://ko.wikipedia.org/wiki/창민 "wikilink")
   - 2011 방시혁 프로젝트 <Homme by hitman bang> 5000장 한정반 '남자니까 웃는거야' with [2AM](https://ko.wikipedia.org/wiki/2AM "wikilink") [창민](https://ko.wikipedia.org/wiki/창민 "wikilink")
   - Homme([옴므](https://ko.wikipedia.org/wiki/옴므 "wikilink")) 미니앨범 <Pour les femmes>
-  - Feeling Project \#3 '널 잃고 보니' with [간미연](https://ko.wikipedia.org/wiki/간미연 "wikilink")
-  - <Soul Project> 2nd '타버려' with [정우](https://ko.wikipedia.org/wiki/정우 "wikilink")
+  - Feeling Project \#3 '널 잃고 보니' with [간미연](../Page/간미연.md "wikilink")
+  - <Soul Project> 2nd '타버려' with [정우](../Page/정우.md "wikilink")
   - Trend E <이수근의 게릴라키친> 공동MC
   - KBS 불후의 명곡 출연
   - 작사 및 작곡 : 태군 '1,2Step', 8eight 앨범 수록곡 다수.
@@ -312,7 +312,7 @@
   - 웹드라마 '아직 헤어지지 않았기 때문에' OST Part.1 '소나기'
   - tvN 월화드라마 '마녀의 연애' OST Part.4 '안녕'
   - tvN 월화드라마 '라이어게임' OST Part.3 '우리는 어디로'
-  - 웹드라마 '최고의 미래' OST '최고의 미래' with [홍경민](https://ko.wikipedia.org/wiki/홍경민 "wikilink"), 헥스(HEX), st.하루, 지윤
+  - 웹드라마 '최고의 미래' OST '최고의 미래' with [홍경민](../Page/홍경민.md "wikilink"), 헥스(HEX), st.하루, 지윤
   - 후쿠야마 마사하루 'The Best Bang\!\! Korea Edition' Part.7 '연인'
   - 빅히트 시즌송 디지털음원 'Perfect Christmas' with [2AM](https://ko.wikipedia.org/wiki/2AM "wikilink")[조권](../Page/조권.md "wikilink"), [임정희](https://ko.wikipedia.org/wiki/임정희 "wikilink"), [방탄소년단](../Page/방탄소년단.md "wikilink")[RM](https://ko.wikipedia.org/wiki/RM_\(가수\) "wikilink")&[정국](../Page/정국.md "wikilink")
   - 월간 잡지 MAXIM 2008년 8월호 화보 촬영 및 표지모델

@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Live at Wembley \'86](https://ko.wikipedia.org/wiki/Live_at_Wembley_\'86).
 
 
-《**Live at Wembley '86**》는 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 록 밴드 [퀸의](https://ko.wikipedia.org/wiki/퀸_\(밴드\) "wikilink") 1986년 매직 투어의 공연 중 하나였던 7월 12일의 영국 [런던](https://ko.wikipedia.org/wiki/런던 "wikilink")의 [웸블리 스타디움에서의](../Page/웸블리_스타디움_\(1923년\).md "wikilink") 실황을 담은 [CD이다](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink"). 웸블리 스타디움에서의 공연은 7월 11일과 12일 이틀 간 진행되었으며 두 장의 디스크에 나뉘어 수록되어 있다.
+《**Live at Wembley '86**》는 [영국](../Page/영국.md "wikilink")의 록 밴드 [퀸의](../Page/퀸_\(밴드\).md "wikilink") 1986년 매직 투어의 공연 중 하나였던 7월 12일의 영국 [런던](../Page/런던.md "wikilink")의 [웸블리 스타디움에서의](../Page/웸블리_스타디움_\(1923년\).md "wikilink") 실황을 담은 [CD이다](../Page/콤팩트_디스크.md "wikilink"). 웸블리 스타디움에서의 공연은 7월 11일과 12일 이틀 간 진행되었으며 두 장의 디스크에 나뉘어 수록되어 있다.
 
 이 공연 실황은 퀸의 공연 중 가장 유명한 것 중 하나로 알려져 있다. 매직 투어는 퀸의 마지막 투어였으며 웸블리 공연은 당초 영국 내에서의 마지막 공연으로 기획되었지만 열광적인 반응에 힘입어 8월 9일에 10만명 이상을 수용할 수 있는 [네브워스 공원에서](https://ko.wikipedia.org/wiki/네브워스_공원 "wikilink") 마지막 공연을 하게 된다.
 
-1992년 CD로 처음 발매되었으며, 2003년 DVD 발매와 함께 〈Tutti Frutti〉의 편집된 마지막 30초를 복원하고 리마스터하여 재발매하였고, Hollywood Records 에서 발매한 미국반에서는 7월 11일 공연과 7월 27일의 [헝가리](https://ko.wikipedia.org/wiki/헝가리 "wikilink") [부다페스트](https://ko.wikipedia.org/wiki/부다페스트 "wikilink")에서 열린 공연에서 가져온 4곡을 추가하여 재발매되었다.
+1992년 CD로 처음 발매되었으며, 2003년 DVD 발매와 함께 〈Tutti Frutti〉의 편집된 마지막 30초를 복원하고 리마스터하여 재발매하였고, Hollywood Records 에서 발매한 미국반에서는 7월 11일 공연과 7월 27일의 [헝가리](../Page/헝가리.md "wikilink") [부다페스트](../Page/부다페스트.md "wikilink")에서 열린 공연에서 가져온 4곡을 추가하여 재발매되었다.
 
 ## 곡 목록
 

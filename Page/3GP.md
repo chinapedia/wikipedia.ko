@@ -7,7 +7,7 @@
 
 3GP는 MPEG-4 파트 14(MP4)의 단순화된 버전이다. 휴대전화기의 편의를 제공하기 위하여 파일크기와 [대역폭](https://ko.wikipedia.org/wiki/대역폭 "wikilink")(bandwidth)을 줄이기 위하여 만들어졌다. 3GP 파일 내에 비디오 스트림은 MPEG-4 파트 2 또는 MPEG-4 파트 10(AVC/H.264)으로 저장되고, 오디오 스트림은 AMR-NB, AMR-WB, AMR-WB+, AAC-LC 또는 HE-AAC에 저장된다. 3GP 파일은 [빅 엔디안](https://ko.wikipedia.org/wiki/빅_엔디안 "wikilink")(big-endian)방식을 따라 최상위 비트를 먼저 저장하고 전송한다. 이미지의 크기와 [비트레이트](../Page/비트레이트.md "wikilink")(bitrate)에 대한 정보를 저장한다. 이 형식의 파일에 두가지 다른 표준이 있다.
 
-  - [3GPP](https://ko.wikipedia.org/wiki/3GPP "wikilink") (GSM에 기반하는 휴대전화를 위하여 만들어짐, 파일 확장자는 `.3gp`)
+  - [3GPP](../Page/3GPP.md "wikilink") (GSM에 기반하는 휴대전화를 위하여 만들어짐, 파일 확장자는 `.3gp`)
   - [3GPP2](https://ko.wikipedia.org/wiki/3GPP2 "wikilink") (CDMA에 기반하는 휴대전화를 위하여 만들어짐, 파일 확장자는 `.3g2`)
 
 ## 지원하는 기기들

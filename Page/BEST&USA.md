@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BEST\&USA](https://ko.wikipedia.org/wiki/BEST\&USA).
 
 
-《**BEST\&USA** (베스트 앤 유에스에이)》는 한국 출신 가수 [BoA](https://ko.wikipedia.org/wiki/BoA "wikilink")가 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [3월 18일](https://ko.wikipedia.org/wiki/3월_18일 "wikilink") [일본](../Page/일본.md "wikilink")에서 발매한 두 번째 베스트 음반이다. 사양은 CD반, 2CD반, 그리고 2CD+2DVD 반이 있다.
+《**BEST\&USA** (베스트 앤 유에스에이)》는 한국 출신 가수 [BoA](https://ko.wikipedia.org/wiki/BoA "wikilink")가 [2009년](../Page/2009년.md "wikilink") [3월 18일](../Page/3월_18일.md "wikilink") [일본](../Page/일본.md "wikilink")에서 발매한 두 번째 베스트 음반이다. 사양은 CD반, 2CD반, 그리고 2CD+2DVD 반이 있다.
 
 ## 정보
 

@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [ CRH3](https://ko.wikipedia.org/wiki/_CRH3).
 
 
-**CRH3형 전철**()은 [중화인민공화국 철도부의](../Page/중화인민공화국_철도부.md "wikilink") 제6차 재래선 증속 계획을 위해 [독일](https://ko.wikipedia.org/wiki/독일 "wikilink") [지멘스](https://ko.wikipedia.org/wiki/지멘스 "wikilink")의 기술 제공 라이선스에 의해서 [중화인민공화국](https://ko.wikipedia.org/wiki/중화인민공화국 "wikilink")의 차량 메이커가 제조하는 [고속철도](https://ko.wikipedia.org/wiki/고속철도 "wikilink") 차량이다.\[1\]
+**CRH3형 전철**()은 [중화인민공화국 철도부의](../Page/중화인민공화국_철도부.md "wikilink") 제6차 재래선 증속 계획을 위해 [독일](../Page/독일.md "wikilink") [지멘스](https://ko.wikipedia.org/wiki/지멘스 "wikilink")의 기술 제공 라이선스에 의해서 [중화인민공화국](../Page/중화인민공화국.md "wikilink")의 차량 메이커가 제조하는 [고속철도](../Page/고속철도.md "wikilink") 차량이다.\[1\]
 
 ## 개요
 
-[중화인민공화국 철도부는](../Page/중화인민공화국_철도부.md "wikilink") [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink"), [일본](../Page/일본.md "wikilink"), [프랑스](../Page/프랑스.md "wikilink")의 [고속철도](https://ko.wikipedia.org/wiki/고속철도 "wikilink")의 기술을 도입하기 위해 경쟁적인 제조 계약을 하고 있지만, 본 형식은 [지멘스 벨라로](https://ko.wikipedia.org/wiki/지멘스_벨라로 "wikilink") 차량을 기반으로 개발하는 것으로 시속 최고 영업 속도 300km의 [고속철도](https://ko.wikipedia.org/wiki/고속철도 "wikilink")로 사용하는 차량과 시속 최고 영업 속도 200km로 운행하는 재래선 고속화용 차량을 모두 100대를 편성하였다. 그 중 60편성의 경우 [지멘스 벨라로](https://ko.wikipedia.org/wiki/지멘스_벨라로 "wikilink") 기반의 차량을 현지 기업과 합작으로 납입하기로 [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink")에 결정되었다. 3편성의 경우 [독일](https://ko.wikipedia.org/wiki/독일 "wikilink")에서 제작하는 반면 나머지 편성의 경우 [중화인민공화국](https://ko.wikipedia.org/wiki/중화인민공화국 "wikilink") 기술 이전을 통해 생산하도록 하여 [베이차탕산](https://ko.wikipedia.org/wiki/탕산_궤도객차 "wikilink")()이 제조하게 되었다.
+[중화인민공화국 철도부는](../Page/중화인민공화국_철도부.md "wikilink") [캐나다](../Page/캐나다.md "wikilink"), [일본](../Page/일본.md "wikilink"), [프랑스](../Page/프랑스.md "wikilink")의 [고속철도](../Page/고속철도.md "wikilink")의 기술을 도입하기 위해 경쟁적인 제조 계약을 하고 있지만, 본 형식은 [지멘스 벨라로](../Page/지멘스_벨라로.md "wikilink") 차량을 기반으로 개발하는 것으로 시속 최고 영업 속도 300km의 [고속철도](../Page/고속철도.md "wikilink")로 사용하는 차량과 시속 최고 영업 속도 200km로 운행하는 재래선 고속화용 차량을 모두 100대를 편성하였다. 그 중 60편성의 경우 [지멘스 벨라로](../Page/지멘스_벨라로.md "wikilink") 기반의 차량을 현지 기업과 합작으로 납입하기로 [2005년](../Page/2005년.md "wikilink")에 결정되었다. 3편성의 경우 [독일](../Page/독일.md "wikilink")에서 제작하는 반면 나머지 편성의 경우 [중화인민공화국](../Page/중화인민공화국.md "wikilink") 기술 이전을 통해 생산하도록 하여 [베이차탕산](https://ko.wikipedia.org/wiki/탕산_궤도객차 "wikilink")()이 제조하게 되었다.
 
-현재 [중화인민공화국](https://ko.wikipedia.org/wiki/중화인민공화국 "wikilink") [고속철도](https://ko.wikipedia.org/wiki/고속철도 "wikilink") 전용 선로가 건설하면서 26편성이 추가로 생산이 이뤄지고 있고 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") 인도되었다.
+현재 [중화인민공화국](../Page/중화인민공화국.md "wikilink") [고속철도](../Page/고속철도.md "wikilink") 전용 선로가 건설하면서 26편성이 추가로 생산이 이뤄지고 있고 [2010년](../Page/2010년.md "wikilink") 인도되었다.
 
-[베이징-톈진 고속철도의](https://ko.wikipedia.org/wiki/베이징-톈진_고속철도 "wikilink") 개통에 맞추어 [중국고속철도 CRH2C](../Page/중국고속철도_CRH2.md "wikilink")([신칸센 E2계 1000번대](../Page/신칸센_E2계_전동차.md "wikilink") 계열) 모델과 함께 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [8월 1일부터](https://ko.wikipedia.org/wiki/8월_1일 "wikilink") 세계 최고 영업 속도인 350km/h 속도로 영업 운전을 시작했다.
+[베이징-톈진 고속철도의](https://ko.wikipedia.org/wiki/베이징-톈진_고속철도 "wikilink") 개통에 맞추어 [중국고속철도 CRH2C](../Page/중국고속철도_CRH2.md "wikilink")([신칸센 E2계 1000번대](../Page/신칸센_E2계_전동차.md "wikilink") 계열) 모델과 함께 [2008년](../Page/2008년.md "wikilink") [8월 1일부터](../Page/8월_1일.md "wikilink") 세계 최고 영업 속도인 350km/h 속도로 영업 운전을 시작했다.
 
 ## 특징
 
@@ -21,11 +21,11 @@
 
 ### CRH3A
 
-**CRH3A형 전철**()은 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink")에 시속 최고 영업 속도 250km/h를 목표로 하는 모델을 기반으로 개발을 시작했고 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink")에 최초로 시제차가 출시되었다.\[2\] [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [10월 4일부터](https://ko.wikipedia.org/wiki/10월_4일 "wikilink") 운행을 시작했다.\[3\] 기존에 운행했던 CRH3C 전철, CJ1 전철 모델을 기반으로 개발되었고 전 편성 [CRRC 창춘에서](https://ko.wikipedia.org/wiki/CRRC_창춘 "wikilink") 제작되었다.
+**CRH3A형 전철**()은 [2012년](../Page/2012년.md "wikilink")에 시속 최고 영업 속도 250km/h를 목표로 하는 모델을 기반으로 개발을 시작했고 [2013년](../Page/2013년.md "wikilink")에 최초로 시제차가 출시되었다.\[2\] [2017년](../Page/2017년.md "wikilink") [10월 4일부터](../Page/10월_4일.md "wikilink") 운행을 시작했다.\[3\] 기존에 운행했던 CRH3C 전철, CJ1 전철 모델을 기반으로 개발되었고 전 편성 [CRRC 창춘에서](https://ko.wikipedia.org/wiki/CRRC_창춘 "wikilink") 제작되었다.
 
 ### CRH3C
 
-**CRH3C형 전철**()은 [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [중화인민공화국 철도부는](../Page/중화인민공화국_철도부.md "wikilink") [징광 고속철도에서](../Page/징광_고속철도.md "wikilink") 투입하기 위해 [지멘스 벨라로](https://ko.wikipedia.org/wiki/지멘스_벨라로 "wikilink") 모델 60편성을 주문했다. [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink")에 최초로 [독일](https://ko.wikipedia.org/wiki/독일 "wikilink")에서 3편성을 제작했다.\[4\] 이 모델은 [지멘스 벨라로를](https://ko.wikipedia.org/wiki/지멘스_벨라로 "wikilink") 기반으로 하는 모델로 초기형 편성은 [브레머하펜](https://ko.wikipedia.org/wiki/브레머하펜 "wikilink")에서 제작되었다. [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink")부터 시속 최고 영업 속도 350km로 주행이 가능한 모델이 제작되었다.\[5\] 같은 해 [6월](https://ko.wikipedia.org/wiki/6월 "wikilink")에 [징진 고속철도](https://ko.wikipedia.org/wiki/징진_고속철도 "wikilink") 구간에서 최고 영업 속도 394.3km/h를 기록했다.\[6\] 이 모델은 [스페인](https://ko.wikipedia.org/wiki/스페인 "wikilink")의 [지멘스 벨라로 E](https://ko.wikipedia.org/wiki/지멘스_벨라로 "wikilink") 디자인과 유사하며 16량 편성으로 구성되었다. 1등석의 경우 50석, 2등석의 경우 490석으로 구성되었다.\[7\] [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [10월](https://ko.wikipedia.org/wiki/10월 "wikilink")에 [중화인민공화국 철도부는](../Page/중화인민공화국_철도부.md "wikilink") MOR 체결로 인해 20편성을 추가로 발주했다.\[8\] 같은 해 [12월](https://ko.wikipedia.org/wiki/12월 "wikilink")에 [정시 고속철도](https://ko.wikipedia.org/wiki/정시_고속철도 "wikilink") 구간에서 최고 영업 속도 394.2km/h를 기록했다.\[9\]
+**CRH3C형 전철**()은 [2005년](../Page/2005년.md "wikilink") [중화인민공화국 철도부는](../Page/중화인민공화국_철도부.md "wikilink") [징광 고속철도에서](../Page/징광_고속철도.md "wikilink") 투입하기 위해 [지멘스 벨라로](../Page/지멘스_벨라로.md "wikilink") 모델 60편성을 주문했다. [2007년](../Page/2007년.md "wikilink")에 최초로 [독일](../Page/독일.md "wikilink")에서 3편성을 제작했다.\[4\] 이 모델은 [지멘스 벨라로를](../Page/지멘스_벨라로.md "wikilink") 기반으로 하는 모델로 초기형 편성은 [브레머하펜](../Page/브레머하펜.md "wikilink")에서 제작되었다. [2008년](../Page/2008년.md "wikilink")부터 시속 최고 영업 속도 350km로 주행이 가능한 모델이 제작되었다.\[5\] 같은 해 [6월](../Page/6월.md "wikilink")에 [징진 고속철도](../Page/징진_고속철도.md "wikilink") 구간에서 최고 영업 속도 394.3km/h를 기록했다.\[6\] 이 모델은 [스페인](../Page/스페인.md "wikilink")의 [지멘스 벨라로 E](../Page/지멘스_벨라로.md "wikilink") 디자인과 유사하며 16량 편성으로 구성되었다. 1등석의 경우 50석, 2등석의 경우 490석으로 구성되었다.\[7\] [2009년](../Page/2009년.md "wikilink") [10월](../Page/10월.md "wikilink")에 [중화인민공화국 철도부는](../Page/중화인민공화국_철도부.md "wikilink") MOR 체결로 인해 20편성을 추가로 발주했다.\[8\] 같은 해 [12월](../Page/12월.md "wikilink")에 [정시 고속철도](https://ko.wikipedia.org/wiki/정시_고속철도 "wikilink") 구간에서 최고 영업 속도 394.2km/h를 기록했다.\[9\]
 
 파일:China Railways CRH3 201006141416.jpg 파일:CRH3C_in_Hengshan_West_Station.jpg 파일:201705_CRH3C-3030_at_Hangzhoudong_Station.jpg
 
@@ -104,7 +104,7 @@
 
   - [CRH380B](../Page/CRH380B.md "wikilink")
   - [CRH380C](../Page/CRH380C.md "wikilink")
-  - [지멘스 벨라로](https://ko.wikipedia.org/wiki/지멘스_벨라로 "wikilink")
+  - [지멘스 벨라로](../Page/지멘스_벨라로.md "wikilink")
 
 ## 외부 링크
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LS \( \)](https://ko.wikipedia.org/wiki/LS_\(_\)).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Ls2_zobrazovac1.JPG "wikilink") **LS**는 [체코](https://ko.wikipedia.org/wiki/체코 "wikilink") 및 [슬로바키아](https://ko.wikipedia.org/wiki/슬로바키아 "wikilink")에서 사용하는 철도 신호 시스템이다. 선로 허용 속도가 100km/h를 넘는 모든 구간에 설치되어 있다. 기관사 상태와 연동해서 동작한다는 특징이 있다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Ls2_zobrazovac1.JPG "wikilink") **LS**는 [체코](../Page/체코.md "wikilink") 및 [슬로바키아](../Page/슬로바키아.md "wikilink")에서 사용하는 철도 신호 시스템이다. 선로 허용 속도가 100km/h를 넘는 모든 구간에 설치되어 있다. 기관사 상태와 연동해서 동작한다는 특징이 있다.
 
 ## 역사
 
@@ -9,7 +9,7 @@
 
 ## 작동 원리
 
-궤도 회로를 통해서 50Hz(과거), 75Hz로 [진폭 변조된](https://ko.wikipedia.org/wiki/진폭_변조 "wikilink") 속도 코드를 보낸다. 차상자는 철도 차량의 첫 번째 차축 아래에 설치되어 있고, 이를 통해서 유도 전류 형태의 신호를 모은다. LS 차상자에서 표시하는 신호는 다음과 같다.
+궤도 회로를 통해서 50Hz(과거), 75Hz로 [진폭 변조된](../Page/진폭_변조.md "wikilink") 속도 코드를 보낸다. 차상자는 철도 차량의 첫 번째 차축 아래에 설치되어 있고, 이를 통해서 유도 전류 형태의 신호를 모은다. LS 차상자에서 표시하는 신호는 다음과 같다.
 
   - 정지
   - 속도 제한

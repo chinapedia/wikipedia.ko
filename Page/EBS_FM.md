@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [EBS FM](https://ko.wikipedia.org/wiki/EBS_FM).
 
 
-**EBS FM**은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 방송국 [한국교육방송공사](https://ko.wikipedia.org/wiki/한국교육방송공사 "wikilink")에서 운영·방송하는 FM [라디오](https://ko.wikipedia.org/wiki/라디오 "wikilink") 방송 채널이다. 주로 [어학](https://ko.wikipedia.org/wiki/어학 "wikilink"), [교육](../Page/교육.md "wikilink"), [교양](../Page/교양.md "wikilink") 프로그램 등을 방송한다. 아침에는 어학, 심야에는 주로 문학 관련 프로그램을 중점적으로 편성하므로, [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")의 송출망을 공유하고 있다. 채널 특성상 지역방송과 상업광고가 없고 24시간 방송이 아니며, 오전 5시부터 다음 날 오전 2시까지만 방송한다.
+**EBS FM**은 [대한민국](../Page/대한민국.md "wikilink")의 방송국 [한국교육방송공사](../Page/한국교육방송공사.md "wikilink")에서 운영·방송하는 FM [라디오](../Page/라디오.md "wikilink") 방송 채널이다. 주로 [어학](https://ko.wikipedia.org/wiki/어학 "wikilink"), [교육](../Page/교육.md "wikilink"), [교양](../Page/교양.md "wikilink") 프로그램 등을 방송한다. 아침에는 어학, 심야에는 주로 문학 관련 프로그램을 중점적으로 편성하므로, [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")의 송출망을 공유하고 있다. 채널 특성상 지역방송과 상업광고가 없고 24시간 방송이 아니며, 오전 5시부터 다음 날 오전 2시까지만 방송한다.
 
 ## 정규방송 시간
 
@@ -9,40 +9,40 @@
 
 ## 개요
 
-EBS FM은 [KBS 제1라디오와](../Page/KBS_제1라디오.md "wikilink") 함께 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서 송출망이 가장 많은 라디오 채널이다. 이렇게 주파수가 전국적으로 많이 구축된 것은, 과거에는 [대학수학능력시험](../Page/대학수학능력시험.md "wikilink") 듣기평가(언어, 외국어 영역)를 라디오 방송을 통해 재생하였고(수신불량 등 일부 음영 지역이 많은 경우, 현재는 각 학교의 시험장에 배부된 [카세트 테이프나](../Page/콤팩트_카세트.md "wikilink") [CD로](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink") 재생), 현재에도 전국 단위\[1\]로 중고교생을 대상으로 영어듣기능력평가가 이 방송을 통하여 시행되고 있기 때문이다.
+EBS FM은 [KBS 제1라디오와](../Page/KBS_제1라디오.md "wikilink") 함께 [대한민국](../Page/대한민국.md "wikilink")에서 송출망이 가장 많은 라디오 채널이다. 이렇게 주파수가 전국적으로 많이 구축된 것은, 과거에는 [대학수학능력시험](../Page/대학수학능력시험.md "wikilink") 듣기평가(언어, 외국어 영역)를 라디오 방송을 통해 재생하였고(수신불량 등 일부 음영 지역이 많은 경우, 현재는 각 학교의 시험장에 배부된 [카세트 테이프나](../Page/콤팩트_카세트.md "wikilink") [CD로](../Page/콤팩트_디스크.md "wikilink") 재생), 현재에도 전국 단위\[1\]로 중고교생을 대상으로 영어듣기능력평가가 이 방송을 통하여 시행되고 있기 때문이다.
 
 개국 당시 주파수는 EBS FM의 전신인 KBS 교육FM의 주파수를 계승하여, KBS의 송출망을 공유하고 있다.
 
 ### 로고송
 
-  - 또 다른 세상을 만나다\~ 새로운 여행\~ EBS\~ FM\~ [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [2월 27일](https://ko.wikipedia.org/wiki/2월_27일 "wikilink") \~ 현재 (책 읽어주는 라디오 개편 이후)
+  - 또 다른 세상을 만나다\~ 새로운 여행\~ EBS\~ FM\~ [2012년](../Page/2012년.md "wikilink") [2월 27일](../Page/2월_27일.md "wikilink") \~ 현재 (책 읽어주는 라디오 개편 이후)
 
 ### 1980년대
 
-  - [1981년](https://ko.wikipedia.org/wiki/1981년 "wikilink") [2월 1일](https://ko.wikipedia.org/wiki/2월_1일 "wikilink") : KBS 교육라디오 개국 (**호출부호 HLQL-FM, FM 104.5㎒**).
+  - [1981년](../Page/1981년.md "wikilink") [2월 1일](../Page/2월_1일.md "wikilink") : KBS 교육라디오 개국 (**호출부호 HLQL-FM, FM 104.5㎒**).
 
 ### 1990년대
 
-  - [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink") [12월 27일](https://ko.wikipedia.org/wiki/12월_27일 "wikilink") : 운영 주체 변경에 따라 교육방송(EBS)으로 분리. EBS FM 개국.
+  - [1990년](../Page/1990년.md "wikilink") [12월 27일](../Page/12월_27일.md "wikilink") : 운영 주체 변경에 따라 교육방송(EBS)으로 분리. EBS FM 개국.
 
 ### 2000년대
 
   - : 104.5㎒의 출력을 5㎾에서 10㎾로 증강.
 
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [8월 30일](https://ko.wikipedia.org/wiki/8월_30일 "wikilink") : 스튜디오 시스템을 기존의 아날로그 오픈릴 테이프 방식에서 디지털 오디오 파일 방식으로 전면 전환.
+  - [2004년](../Page/2004년.md "wikilink") [8월 30일](../Page/8월_30일.md "wikilink") : 스튜디오 시스템을 기존의 아날로그 오픈릴 테이프 방식에서 디지털 오디오 파일 방식으로 전면 전환.
 
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [6월 18일](https://ko.wikipedia.org/wiki/6월_18일 "wikilink") : [방송대학](https://ko.wikipedia.org/wiki/한국방송통신대학교 "wikilink") 강좌 라디오 송출 폐지.
+  - [2008년](../Page/2008년.md "wikilink") [6월 18일](../Page/6월_18일.md "wikilink") : [방송대학](https://ko.wikipedia.org/wiki/한국방송통신대학교 "wikilink") 강좌 라디오 송출 폐지.
 
 ### 2010년대
 
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [7월 27일](https://ko.wikipedia.org/wiki/7월_27일 "wikilink") : [우면산 산사태로](https://ko.wikipedia.org/wiki/2011년_7월_한국_중부_집중호우#우면산_산사태 "wikilink") 인한 방송장비 손상으로 정규방송 중지 및 긴급 음악방송으로 전환. 당일 저녁 6시에 정규방송 긴급 복구.
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [7월 16일](https://ko.wikipedia.org/wiki/7월_16일 "wikilink") : 일산 신사옥 이전을 위한, 라디오 방송의 우면동 방송센터 마지막 송출.
+  - [2011년](../Page/2011년.md "wikilink") [7월 27일](../Page/7월_27일.md "wikilink") : [우면산 산사태로](https://ko.wikipedia.org/wiki/2011년_7월_한국_중부_집중호우#우면산_산사태 "wikilink") 인한 방송장비 손상으로 정규방송 중지 및 긴급 음악방송으로 전환. 당일 저녁 6시에 정규방송 긴급 복구.
+  - [2017년](../Page/2017년.md "wikilink") [7월 16일](../Page/7월_16일.md "wikilink") : 일산 신사옥 이전을 위한, 라디오 방송의 우면동 방송센터 마지막 송출.
 
 ## 방송 송출 시설망
 
 ## 프로그램을 방송하던 방송국
 
-  - [한국교육방송공사](https://ko.wikipedia.org/wiki/한국교육방송공사 "wikilink")
+  - [한국교육방송공사](../Page/한국교육방송공사.md "wikilink")
 
 ## 방송 프로그램
 
@@ -65,10 +65,10 @@ EBS FM은 [KBS 제1라디오와](../Page/KBS_제1라디오.md "wikilink") 함께
 
 #### 교양
 
-  - [詩 콘서트](https://ko.wikipedia.org/wiki/시_콘서트 "wikilink") (책 읽어주는 라디오, [정애리](https://ko.wikipedia.org/wiki/정애리 "wikilink") 진행)
+  - [詩 콘서트](https://ko.wikipedia.org/wiki/시_콘서트 "wikilink") (책 읽어주는 라디오, [정애리](../Page/정애리.md "wikilink") 진행)
   - [인피니트 성종의 미드나잇 블랙](https://ko.wikipedia.org/wiki/인피니트_성종의_미드나잇_블랙 "wikilink") ([성종](../Page/이성종.md "wikilink") 진행)
   - [책으로 행복한 12시](https://ko.wikipedia.org/wiki/책으로_행복한_12시 "wikilink") (책 읽어주는 라디오, [김현주](../Page/김현주_\(1964년\).md "wikilink") 진행)
-  - [세계음악기행](https://ko.wikipedia.org/wiki/세계음악기행 "wikilink") ([이승열](../Page/이승열.md "wikilink") 진행)
+  - [세계음악기행](../Page/세계음악기행.md "wikilink") ([이승열](../Page/이승열.md "wikilink") 진행)
   - [다문화 음악여행](https://ko.wikipedia.org/wiki/다문화_음악여행 "wikilink") ([이금희](../Page/이금희_\(방송인\).md "wikilink") 진행)
   - [라디오 행복한 교육세상](https://ko.wikipedia.org/wiki/라디오_행복한_교육세상 "wikilink") ([문지애](../Page/문지애.md "wikilink") 진행)
   - [EBS 공감시대](https://ko.wikipedia.org/wiki/EBS_공감시대 "wikilink") ([고운기](../Page/고운기.md "wikilink") 진행)
@@ -154,7 +154,7 @@ EBS FM은 [KBS 제1라디오와](../Page/KBS_제1라디오.md "wikilink") 함께
   - [라디오 역사극장](https://ko.wikipedia.org/wiki/라디오_역사극장 "wikilink") (책 읽어주는 라디오)
   - [라디오 연재 소설](https://ko.wikipedia.org/wiki/라디오_연재_소설 "wikilink") (책 읽어주는 라디오)
   - [라디오 인물열전](https://ko.wikipedia.org/wiki/라디오_인물열전 "wikilink") (책 읽어주는 라디오)
-  - [주제가 있는 책방](https://ko.wikipedia.org/wiki/주제가_있는_책방 "wikilink") ([원기준](https://ko.wikipedia.org/wiki/원기준 "wikilink") 진행)
+  - [주제가 있는 책방](https://ko.wikipedia.org/wiki/주제가_있는_책방 "wikilink") ([원기준](../Page/원기준.md "wikilink") 진행)
   - [영어가 있는 재즈](https://ko.wikipedia.org/wiki/영어가_있는_재즈 "wikilink")
   - [영어가 있는 클래식](https://ko.wikipedia.org/wiki/영어가_있는_클래식 "wikilink")
   - [아름다운 밤 우리들의 라디오](../Page/아름다운_밤_우리들의_라디오.md "wikilink")
@@ -163,7 +163,7 @@ EBS FM은 [KBS 제1라디오와](../Page/KBS_제1라디오.md "wikilink") 함께
   - [어린이 영어 이렇게 하세요](https://ko.wikipedia.org/wiki/어린이_영어_이렇게_하세요 "wikilink")
   - [라디오 교양 시리즈](https://ko.wikipedia.org/wiki/라디오_교양_시리즈 "wikilink")
   - [지식 프라임](https://ko.wikipedia.org/wiki/지식_프라임 "wikilink")
-  - [심현섭의 성공시대](https://ko.wikipedia.org/wiki/심현섭의_성공시대 "wikilink") ([심현섭](https://ko.wikipedia.org/wiki/심현섭 "wikilink") 진행)
+  - [심현섭의 성공시대](https://ko.wikipedia.org/wiki/심현섭의_성공시대 "wikilink") ([심현섭](../Page/심현섭.md "wikilink") 진행)
   - [최광기, 황현희의 시사난타](https://ko.wikipedia.org/wiki/최광기,_황현희의_시사난타 "wikilink") ([최광기](https://ko.wikipedia.org/wiki/최광기 "wikilink"), [황현희](../Page/황현희.md "wikilink") 진행)
   - [지금은 교육시대](https://ko.wikipedia.org/wiki/지금은_교육시대 "wikilink")
   - [학교종이 땡땡땡](https://ko.wikipedia.org/wiki/학교종이_땡땡땡 "wikilink")
@@ -198,7 +198,7 @@ EBS FM은 [KBS 제1라디오와](../Page/KBS_제1라디오.md "wikilink") 함께
 
 ## 인터넷 라디오 (i-Radio)
 
-[한국교육방송공사](https://ko.wikipedia.org/wiki/한국교육방송공사 "wikilink")의 어학 및 독서 전문 [인터넷](../Page/인터넷.md "wikilink") 라디오 방송이다. [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink")부터 개국을 시작해, EBS 라디오의 어학 전문 프로그램을 모아서 방송되고 있다. [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [12월](https://ko.wikipedia.org/wiki/12월 "wikilink")부터 EBS 라디오 서비스 반디에서 외국어 1과 외국어 2로 나뉘어 방송되고 있으며, [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [10월](https://ko.wikipedia.org/wiki/10월 "wikilink")부터 책 읽어주는 라디오를 추가하여 방송되고 있다.
+[한국교육방송공사](../Page/한국교육방송공사.md "wikilink")의 어학 및 독서 전문 [인터넷](../Page/인터넷.md "wikilink") 라디오 방송이다. [2010년](../Page/2010년.md "wikilink")부터 개국을 시작해, EBS 라디오의 어학 전문 프로그램을 모아서 방송되고 있다. [2018년](../Page/2018년.md "wikilink") [12월](../Page/12월.md "wikilink")부터 EBS 라디오 서비스 반디에서 외국어 1과 외국어 2로 나뉘어 방송되고 있으며, [2019년](../Page/2019년.md "wikilink") [10월](../Page/10월.md "wikilink")부터 책 읽어주는 라디오를 추가하여 방송되고 있다.
 
 ## 방송 시간
 
@@ -220,10 +220,10 @@ EBS FM은 [KBS 제1라디오와](../Page/KBS_제1라디오.md "wikilink") 함께
   - [KBS 제1라디오](../Page/KBS_제1라디오.md "wikilink")
   - [KBS 제2라디오](../Page/KBS_제2라디오.md "wikilink")
   - [MBC FM4U](../Page/MBC_FM4U.md "wikilink")
-  - [SBS 파워FM](https://ko.wikipedia.org/wiki/SBS_파워FM "wikilink")
+  - [SBS 파워FM](../Page/SBS_파워FM.md "wikilink")
   - [CBS 음악FM](../Page/CBS_음악FM.md "wikilink")
   - [교통방송](../Page/교통방송.md "wikilink")
-  - [EBS 1TV](https://ko.wikipedia.org/wiki/EBS_1TV "wikilink")
+  - [EBS 1TV](../Page/EBS_1TV.md "wikilink")
   - [극동방송](../Page/극동방송.md "wikilink")
 
 ## 각주
@@ -235,4 +235,4 @@ EBS FM은 [KBS 제1라디오와](../Page/KBS_제1라디오.md "wikilink") 함께
 
 [분류:FM 라디오 방송](https://ko.wikipedia.org/wiki/분류:FM_라디오_방송 "wikilink") [FM](https://ko.wikipedia.org/wiki/분류:한국교육방송공사의_라디오_네트워크 "wikilink") [분류:1990년 설립된 라디오 방송국](https://ko.wikipedia.org/wiki/분류:1990년_설립된_라디오_방송국 "wikilink")
 
-1.  단, [서울특별시교육청](../Page/서울특별시교육청.md "wikilink")이 자체 영어듣기평가를 시행하는 [서울특별시](https://ko.wikipedia.org/wiki/서울특별시 "wikilink")는 제외.
+1.  단, [서울특별시교육청](../Page/서울특별시교육청.md "wikilink")이 자체 영어듣기평가를 시행하는 [서울특별시](../Page/서울특별시.md "wikilink")는 제외.

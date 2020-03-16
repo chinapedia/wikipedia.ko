@@ -1,19 +1,19 @@
 > This article is converted from Wikipedia: [Kp  ](https://ko.wikipedia.org/wiki/Kp__).
 
 
-[응집물질물리학](https://ko.wikipedia.org/wiki/응집물질물리학 "wikilink")에서, ***k·p* 섭동 이론**()은 [띠구조](../Page/띠구조.md "wikilink")를 다루는 [섭동 이론의](../Page/섭동_이론_\(양자역학\).md "wikilink") 하나다.
+[응집물질물리학](../Page/응집물질물리학.md "wikilink")에서, ***k·p* 섭동 이론**()은 [띠구조](../Page/띠구조.md "wikilink")를 다루는 [섭동 이론의](../Page/섭동_이론_\(양자역학\).md "wikilink") 하나다.
 
 ## 전개
 
-위치 에너지 \(\ V(\vec{r})\) 속에 있는 [전자](https://ko.wikipedia.org/wiki/전자 "wikilink")의 [해밀토니언은](https://ko.wikipedia.org/wiki/해밀토니언_\(양자역학\) "wikilink") 다음과 같다.
+위치 에너지 \(\ V(\vec{r})\) 속에 있는 [전자](../Page/전자.md "wikilink")의 [해밀토니언은](../Page/해밀토니언_\(양자역학\).md "wikilink") 다음과 같다.
 
-\[H_0=\mathbf p^2/2m+V(\mathbf r)+\frac1{4m^2c^2}(\boldsymbol{\sigma}\times\nabla V)\cdot\mathbf p\]. 전자 [파동 함수](../Page/파동_함수.md "wikilink") \(\psi(\mathbf r)\)는 [슈뢰딩거 방정식](https://ko.wikipedia.org/wiki/슈뢰딩거_방정식 "wikilink")
+\[H_0=\mathbf p^2/2m+V(\mathbf r)+\frac1{4m^2c^2}(\boldsymbol{\sigma}\times\nabla V)\cdot\mathbf p\]. 전자 [파동 함수](../Page/파동_함수.md "wikilink") \(\psi(\mathbf r)\)는 [슈뢰딩거 방정식](../Page/슈뢰딩거_방정식.md "wikilink")
 
 \[H_0\psi(\mathbf r)=E\psi(\mathbf r)\] 을 만족한다.
 
-[위치 에너지](../Page/위치_에너지.md "wikilink") \(\ V(\vec{r})\)은 [브라베 격자의](https://ko.wikipedia.org/wiki/브라베_격자 "wikilink") 주기성을 지닌다. 따라서 [파동 함수를](../Page/파동_함수.md "wikilink") [블로흐 파](https://ko.wikipedia.org/wiki/블로흐_파 "wikilink")
+[위치 에너지](../Page/위치_에너지.md "wikilink") \(\ V(\vec{r})\)은 [브라베 격자의](../Page/브라베_격자.md "wikilink") 주기성을 지닌다. 따라서 [파동 함수를](../Page/파동_함수.md "wikilink") [블로흐 파](../Page/블로흐_파.md "wikilink")
 
-\[\psi(\mathbf r)=\sum_{\mathbf k}\exp(i\mathbf k\cdot\mathbf r)u_{\mathbf k}(\mathbf r)\] 로 나타내자. 여기서 \(u_{\mathbf k}\)는 [브라베 격자의](https://ko.wikipedia.org/wiki/브라베_격자 "wikilink") 주기성을 지닌다. 그렇다면 [슈뢰딩거 방정식을](https://ko.wikipedia.org/wiki/슈뢰딩거_방정식 "wikilink") 다음과 같이 쓸 수 있다.
+\[\psi(\mathbf r)=\sum_{\mathbf k}\exp(i\mathbf k\cdot\mathbf r)u_{\mathbf k}(\mathbf r)\] 로 나타내자. 여기서 \(u_{\mathbf k}\)는 [브라베 격자의](../Page/브라베_격자.md "wikilink") 주기성을 지닌다. 그렇다면 [슈뢰딩거 방정식을](../Page/슈뢰딩거_방정식.md "wikilink") 다음과 같이 쓸 수 있다.
 
 \[H_{\mathbf k}u_{\mathbf k}(\mathbf r)=E_{\mathbf k}u_{\mathbf k}(\mathbf r)\]. 여기서
 
@@ -40,7 +40,7 @@
 
 \[({m \over m^*})_{\mu\nu} = \delta_{\mu\nu} + {2\over m}\sum_{\delta\neq n}{\langle n0|p_{\mu}|0\delta\rangle\langle\delta0|p_{\nu}|0n\rangle\over \varepsilon_{n0} - \varepsilon_{\delta0}}\]
 
-우변의 분모가 매우 작은 경우, 유효 질량 \(m^*\)이 실제 질량 \(m\)보다 매우 작게 된다. 예를 들어, [반도체](https://ko.wikipedia.org/wiki/반도체 "wikilink") Cd<sub>*x*</sub>Hg<sub>1−*x*</sub>Te (\(x = 0.136\))의 경우, [전도띠](https://ko.wikipedia.org/wiki/전도띠 "wikilink")의 [바닥 상태에서는](https://ko.wikipedia.org/wiki/바닥_상태 "wikilink") 유효 질량이 \(m^*/m\le 4*10^{-4}\)으로 매우 작다.
+우변의 분모가 매우 작은 경우, 유효 질량 \(m^*\)이 실제 질량 \(m\)보다 매우 작게 된다. 예를 들어, [반도체](../Page/반도체.md "wikilink") Cd<sub>*x*</sub>Hg<sub>1−*x*</sub>Te (\(x = 0.136\))의 경우, [전도띠](https://ko.wikipedia.org/wiki/전도띠 "wikilink")의 [바닥 상태에서는](https://ko.wikipedia.org/wiki/바닥_상태 "wikilink") 유효 질량이 \(m^*/m\le 4*10^{-4}\)으로 매우 작다.
 
 ### 스핀-궤도 결합
 

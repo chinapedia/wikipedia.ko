@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Man and the Journey](https://ko.wikipedia.org/wiki/The_Man_and_the_Journey).
 
 
-《**The Man and the Journey**》는 [핑크 플로이드가](https://ko.wikipedia.org/wiki/핑크_플로이드 "wikilink") 1969년 라이브 공연에서 선보인 컨셉츄얼 음악의 한 부분이다. 공개되지 않았던 노래를 비롯하여 *[Music from the Film More](https://ko.wikipedia.org/wiki/Music_from_the_Film_More "wikilink")*와 *[Ummagumma](../Page/Ummagumma.md "wikilink")*에 수록된 노래, 그룹 초기의 노래들도 포함되어 있다. *The Man*과 *The Journey* 두 앨범 분량을 하나로 통합한 형태이다. 이 공연에서는 톱질을 하면서 탁자를 만든다거나 무대 위에서 애프터눈 티를 마시는 등 시각적인 퍼포먼스 요소도 함께 행해졌다.
+《**The Man and the Journey**》는 [핑크 플로이드가](../Page/핑크_플로이드.md "wikilink") 1969년 라이브 공연에서 선보인 컨셉츄얼 음악의 한 부분이다. 공개되지 않았던 노래를 비롯하여 *[Music from the Film More](https://ko.wikipedia.org/wiki/Music_from_the_Film_More "wikilink")*와 *[Ummagumma](../Page/Ummagumma.md "wikilink")*에 수록된 노래, 그룹 초기의 노래들도 포함되어 있다. *The Man*과 *The Journey* 두 앨범 분량을 하나로 통합한 형태이다. 이 공연에서는 톱질을 하면서 탁자를 만든다거나 무대 위에서 애프터눈 티를 마시는 등 시각적인 퍼포먼스 요소도 함께 행해졌다.
 
 ## 트랙 목록 (1969년 암스테르담 공연 기준)
 

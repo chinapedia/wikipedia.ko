@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [A Saucerful of Secrets](https://ko.wikipedia.org/wiki/A_Saucerful_of_Secrets).
 
 
-《A Saucerful of Secrets》는 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink") 밴드 [핑크 플로이드가](https://ko.wikipedia.org/wiki/핑크_플로이드 "wikilink") [1968년](https://ko.wikipedia.org/wiki/1968년 "wikilink") 발매한 앨범이다. 밴드 통산 두 번째 앨범으로, 초기 리더였던 [시드 배릿이](https://ko.wikipedia.org/wiki/시드_배릿 "wikilink") 마지막으로 참여한 앨범이다. 또한 이 앨범에는 [데이빗 길모어가](https://ko.wikipedia.org/wiki/데이빗_길모어 "wikilink") 가입후 처음으로 참여했다.
+《A Saucerful of Secrets》는 [영국](../Page/영국.md "wikilink") 밴드 [핑크 플로이드가](../Page/핑크_플로이드.md "wikilink") [1968년](../Page/1968년.md "wikilink") 발매한 앨범이다. 밴드 통산 두 번째 앨범으로, 초기 리더였던 [시드 배릿이](https://ko.wikipedia.org/wiki/시드_배릿 "wikilink") 마지막으로 참여한 앨범이다. 또한 이 앨범에는 [데이빗 길모어가](https://ko.wikipedia.org/wiki/데이빗_길모어 "wikilink") 가입후 처음으로 참여했다.
 
 영국 차트 9위를 기록했다.
 
@@ -13,13 +13,13 @@
 
 ## 커버
 
-이 앨범은 영국 디자인 그룹인 [힙노시스](https://ko.wikipedia.org/wiki/힙노시스 "wikilink")가 처음으로 제작한 핑크 플로이드의 앨범 커버이다. 커버는 일종의 [콜라쥬](https://ko.wikipedia.org/wiki/콜라쥬 "wikilink") 형식으로 제작되었는데, 힙노시스는 [마벨 코믹스의](https://ko.wikipedia.org/wiki/마벨_코믹스 "wikilink") 1967년 'Strange Tales' 25쪽의 그림들을 사용했다.
+이 앨범은 영국 디자인 그룹인 [힙노시스](../Page/힙노시스.md "wikilink")가 처음으로 제작한 핑크 플로이드의 앨범 커버이다. 커버는 일종의 [콜라쥬](https://ko.wikipedia.org/wiki/콜라쥬 "wikilink") 형식으로 제작되었는데, 힙노시스는 [마벨 코믹스의](https://ko.wikipedia.org/wiki/마벨_코믹스 "wikilink") 1967년 'Strange Tales' 25쪽의 그림들을 사용했다.
 
 ## 곡 목록
 
 ### A면
 
-1.  "Let There Be More Light" ([로저 워터스](https://ko.wikipedia.org/wiki/로저_워터스 "wikilink")) – 5:38
+1.  "Let There Be More Light" ([로저 워터스](../Page/로저_워터스.md "wikilink")) – 5:38
 2.  "Remember a Day" ([리차드 라이트](../Page/리처드_라이트_\(음악가\).md "wikilink")) – 4:33
 3.  "Set the Controls for the Heart of the Sun" (워터스) – 5:28
 4.  "Corporal Clegg" (워터스) – 4:13

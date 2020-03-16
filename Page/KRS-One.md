@@ -3,7 +3,7 @@
 
 [thumb](https://ko.wikipedia.org/wiki/파일:KRS-One_Book_signing1.jpg "wikilink")
 
-**KRS-One**(본명: Lawrence Parker, [1965년](https://ko.wikipedia.org/wiki/1965년 "wikilink") [8월 20일](https://ko.wikipedia.org/wiki/8월_20일 "wikilink") \~ )은 크리스 파커(Kris Parker) 혹은 KRS-One 등의 스테이지 네임으로 잘 알려져있다.
+**KRS-One**(본명: Lawrence Parker, [1965년](../Page/1965년.md "wikilink") [8월 20일](../Page/8월_20일.md "wikilink") \~ )은 크리스 파커(Kris Parker) 혹은 KRS-One 등의 스테이지 네임으로 잘 알려져있다.
 
 ## 유년기
 
@@ -11,9 +11,9 @@
 
 ## 솔로 커리어의 시작
 
-[1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink"),[1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") 무렵, BDP의 수장이었던 **KRS-One**는 \[Sex and Violence\] 앨범을 끝으로 그룹 활동을 그만두고 솔로로 전향한다. 80년대의 끈끈했던 결속력을 상실한 BDP의 어수선한 모습은 그가 솔로 활동으로 선회할 시기가 왔음을 암시하는 것과도 같았다. 레이블과의 인연은 끊어지지 않았기에 솔로 전향 후에도 [Jive Record에서](https://ko.wikipedia.org/wiki/Jive_Record "wikilink") 앨범 발매를 계속할 수 있었다. 그리고 심기일전하여 만든 초창기 두 앨범을 통해 그는 아직 대중에게 보여줄 것이 많음을, 그리고 건재함을 증명한다.
+[1992년](../Page/1992년.md "wikilink"),[1993년](../Page/1993년.md "wikilink") 무렵, BDP의 수장이었던 **KRS-One**는 \[Sex and Violence\] 앨범을 끝으로 그룹 활동을 그만두고 솔로로 전향한다. 80년대의 끈끈했던 결속력을 상실한 BDP의 어수선한 모습은 그가 솔로 활동으로 선회할 시기가 왔음을 암시하는 것과도 같았다. 레이블과의 인연은 끊어지지 않았기에 솔로 전향 후에도 [Jive Record에서](https://ko.wikipedia.org/wiki/Jive_Record "wikilink") 앨범 발매를 계속할 수 있었다. 그리고 심기일전하여 만든 초창기 두 앨범을 통해 그는 아직 대중에게 보여줄 것이 많음을, 그리고 건재함을 증명한다.
 
-솔로 커리어의 초반부를 장식하는 \[Return of the Boom Bap\]과 \[KRS-One\]은 현재 KRS-One의 모든 앨범을 통틀어 가장 뛰어난 작품으로 평가받고 있다. 메인 프로듀서 [DJ Premier](https://ko.wikipedia.org/wiki/DJ_Premier "wikilink"),[Kid Capri](https://ko.wikipedia.org/wiki/Kid_Capri "wikilink"),'Showbiz'와 함께 작업한 \[Return of the Boom Bap\]은 최고의 수작앨범이었다. [자이브 레코드에서의](https://ko.wikipedia.org/wiki/자이브_레코드 "wikilink") 마지막 정규 앨범인 \[I Got Next\] (1997)는 KRS의 솔로 커리어를 통틀어 가장 "대중 친화적"인 앨범이었다. 펑크 그룹의 음원을 샘플링한 싱글 'Step into a World', [퍼프 대디가](https://ko.wikipedia.org/wiki/퍼프_대디 "wikilink") 함께했던 동명의 리믹스 트랙, [레드맨](https://ko.wikipedia.org/wiki/레드맨 "wikilink")이 피쳐링한 'Heartbeat'은 빌보드 차트 10위권에 진입했던 앨범이기도 하다.
+솔로 커리어의 초반부를 장식하는 \[Return of the Boom Bap\]과 \[KRS-One\]은 현재 KRS-One의 모든 앨범을 통틀어 가장 뛰어난 작품으로 평가받고 있다. 메인 프로듀서 [DJ Premier](https://ko.wikipedia.org/wiki/DJ_Premier "wikilink"),[Kid Capri](https://ko.wikipedia.org/wiki/Kid_Capri "wikilink"),'Showbiz'와 함께 작업한 \[Return of the Boom Bap\]은 최고의 수작앨범이었다. [자이브 레코드에서의](../Page/자이브_레코드.md "wikilink") 마지막 정규 앨범인 \[I Got Next\] (1997)는 KRS의 솔로 커리어를 통틀어 가장 "대중 친화적"인 앨범이었다. 펑크 그룹의 음원을 샘플링한 싱글 'Step into a World', [퍼프 대디가](https://ko.wikipedia.org/wiki/퍼프_대디 "wikilink") 함께했던 동명의 리믹스 트랙, [레드맨](https://ko.wikipedia.org/wiki/레드맨 "wikilink")이 피쳐링한 'Heartbeat'은 빌보드 차트 10위권에 진입했던 앨범이기도 하다.
 
 ## 자이브(Jive)와의 작별 이후
 

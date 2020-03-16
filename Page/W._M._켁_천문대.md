@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [W. M.  ](https://ko.wikipedia.org/wiki/W._M.__).
 
 
-**W. M. 켁 천문대**()는 [하와이](https://ko.wikipedia.org/wiki/하와이_섬 "wikilink") [마우나케아](https://ko.wikipedia.org/wiki/마우나케아 "wikilink") 정상 부근에 위치한 두 개의 천체망원경으로 구성된 천문대이다. 두 대의 천체망원경의 지름은 각 10m이며, 세계에서 가장 큰 광학 망원경이다. 두 망원경은 함께 간섭 관측기로 운영될 수 있다. [1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink"), W. M. 켁 재단의 하워드 B. 켁(Howard B. Keck)이 켁 I 망원경의 설계와 제작에 필요한 기금을 제공하였다. 켁 천문대의 대형 망원경 제작은 그보다 작은 거울 조각들을 하나의 큰 거울처럼 운영할 수 있게 함으로써 가능하게 되었다. 켁 망원경의 주반사경은 36개의 육각형 조각들로 구성되어 하나의 반사 거울로 작동한다. 그리고, 각 조각들은 [능동 광학에](../Page/능동_광학.md "wikilink") 의해 안정을 유지한다. 또한, [적응 제어 광학에](https://ko.wikipedia.org/wiki/적응_제어_광학 "wikilink") 의해 지구 대기에 의한 상의 왜곡을 상쇄시킨다.
+**W. M. 켁 천문대**()는 [하와이](https://ko.wikipedia.org/wiki/하와이_섬 "wikilink") [마우나케아](https://ko.wikipedia.org/wiki/마우나케아 "wikilink") 정상 부근에 위치한 두 개의 천체망원경으로 구성된 천문대이다. 두 대의 천체망원경의 지름은 각 10m이며, 세계에서 가장 큰 광학 망원경이다. 두 망원경은 함께 간섭 관측기로 운영될 수 있다. [1985년](../Page/1985년.md "wikilink"), W. M. 켁 재단의 하워드 B. 켁(Howard B. Keck)이 켁 I 망원경의 설계와 제작에 필요한 기금을 제공하였다. 켁 천문대의 대형 망원경 제작은 그보다 작은 거울 조각들을 하나의 큰 거울처럼 운영할 수 있게 함으로써 가능하게 되었다. 켁 망원경의 주반사경은 36개의 육각형 조각들로 구성되어 하나의 반사 거울로 작동한다. 그리고, 각 조각들은 [능동 광학에](../Page/능동_광학.md "wikilink") 의해 안정을 유지한다. 또한, [적응 제어 광학에](https://ko.wikipedia.org/wiki/적응_제어_광학 "wikilink") 의해 지구 대기에 의한 상의 왜곡을 상쇄시킨다.
 
 켁 천문대는 캘리포니아 천문 연구 협회(California Association for Research in Astronomy)가 운영하고 있다.
 

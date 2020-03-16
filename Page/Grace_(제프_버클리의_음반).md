@@ -36,4 +36,4 @@
 [분류:1994년 데뷔 음반](https://ko.wikipedia.org/wiki/분류:1994년_데뷔_음반 "wikilink") [분류:제프 버클리의 음반](https://ko.wikipedia.org/wiki/분류:제프_버클리의_음반 "wikilink") [분류:컬럼비아 레코드 음반](https://ko.wikipedia.org/wiki/분류:컬럼비아_레코드_음반 "wikilink")
 
 1.  도입부의 [오르간](../Page/오르간.md "wikilink") 연주는 미국의 작곡가 [로리스 홀랜드가](https://ko.wikipedia.org/wiki/로리스_홀랜드 "wikilink") 담당하였다.
-2.  [인도](https://ko.wikipedia.org/wiki/인도 "wikilink")의 전통 타악기인 [타블라](../Page/타블라.md "wikilink")가 사용되었고 연주는 [미샤 마수드가](https://ko.wikipedia.org/wiki/미샤_마수드 "wikilink") 담당하였다.
+2.  [인도](../Page/인도.md "wikilink")의 전통 타악기인 [타블라](../Page/타블라.md "wikilink")가 사용되었고 연주는 [미샤 마수드가](https://ko.wikipedia.org/wiki/미샤_마수드 "wikilink") 담당하였다.

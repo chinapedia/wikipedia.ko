@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TV](https://ko.wikipedia.org/wiki/TV).
 
 
-**한국케이블TV푸른방송 주식회사**(약칭 **GCS**)는 [대구광역시](https://ko.wikipedia.org/wiki/대구광역시 "wikilink") [달서구](https://ko.wikipedia.org/wiki/달서구 "wikilink"), [달성군](https://ko.wikipedia.org/wiki/달성군 "wikilink")을 서비스 구역으로 하는 대한민국의 케이블SO사업자이다.\[1\] [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") [9월 29일](https://ko.wikipedia.org/wiki/9월_29일 "wikilink") **흥진종합유선방송**으로서 설립되어 오늘날에 이르고 있다.
+**한국케이블TV푸른방송 주식회사**(약칭 **GCS**)는 [대구광역시](../Page/대구광역시.md "wikilink") [달서구](https://ko.wikipedia.org/wiki/달서구 "wikilink"), [달성군](../Page/달성군.md "wikilink")을 서비스 구역으로 하는 대한민국의 케이블SO사업자이다.\[1\] [1993년](../Page/1993년.md "wikilink") [9월 29일](../Page/9월_29일.md "wikilink") **흥진종합유선방송**으로서 설립되어 오늘날에 이르고 있다.
 
 ## 연혁
 
@@ -14,7 +14,7 @@
   - 1996.08.16 수재민돕기 모금운동 실시
   - 1996.10.13 길거리 농구대회 개최
   - 1997.02.17 전직원 미국 연수교육 실시 (LA 등)
-  - 1997.02.19 [달성군](https://ko.wikipedia.org/wiki/달성군 "wikilink") 방송사업구역 확대 인가
+  - 1997.02.19 [달성군](../Page/달성군.md "wikilink") 방송사업구역 확대 인가
   - 1997.03.01 ‘푸른방송(주)’에서 ‘한국케이블TV푸른방송(주)’로 상호변경
   - 1998.01.01 케이블TV 방송국 보도권 인가
   - 1998.03.01 제1회 푸른방송 문화제 개최
@@ -42,7 +42,7 @@
   - 2005.03.06 창사기념 MBC팀리그 결승전 개최 (EXCO)
   - 2005.04.08 우수사원 유럽 4개국 교육연수 (5명)
   - 2005.04.26 호주 마리온시 초청 푸른방송 참여작가전 - 한국의 美
-  - 2005.11.03 [대구광역시교육청](https://ko.wikipedia.org/wiki/대구광역시교육청 "wikilink")에 도서 1,000권 기증
+  - 2005.11.03 [대구광역시교육청](../Page/대구광역시교육청.md "wikilink")에 도서 1,000권 기증
   - 2006.01.05 [경북전문대학](https://ko.wikipedia.org/wiki/경북전문대학 "wikilink") / [영남이공대학](https://ko.wikipedia.org/wiki/영남이공대학 "wikilink") 산학 협약 체결
   - 2006.05.26 영국 하모니 오케스트라 내한공연 Great Concert (EXCO)
   - 2006.07. 기간통신사업자 선정
@@ -69,7 +69,7 @@
   - 2011.02.11 푸른방송 조경제 회장 ‘푸른숲’ 출판 기념식
   - 2011.03.14 에티오피아 한도데 마을 유치원 학용품 기증
   - 2011.03. 대구지역 공립, 사립도서관, 각 급 학교에 도서 5,150여권 기증
-  - 2011.09.30 [다사읍](https://ko.wikipedia.org/wiki/다사읍 "wikilink")민과 함께하는 가요사랑콘서트 공연 (강창교 둔치)
+  - 2011.09.30 [다사읍](../Page/다사읍.md "wikilink")민과 함께하는 가요사랑콘서트 공연 (강창교 둔치)
   - 2011.12.22 푸른방송 송년영화시사회, CGV대구현대점
   - 2012.01.31 푸른방송 조경제 회장 ‘성서조약국 흥생한의원이야기’ 출판 기념식
   - 2012.05.12 (사)한국예총 대구광역시 연합회, 업무협약(MOU) 체결
@@ -97,6 +97,6 @@
 
   - [GCS 푸른방송](http://www.gcs.co.kr/)
 
-[분류:1994년 설립](https://ko.wikipedia.org/wiki/분류:1994년_설립 "wikilink") [분류:1995년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:1995년_설립된_텔레비전_방송국과_채널 "wikilink") [분류:대한민국의 종합유선방송사업자](https://ko.wikipedia.org/wiki/분류:대한민국의_종합유선방송사업자 "wikilink") [분류:대구광역시의 대중 매체](https://ko.wikipedia.org/wiki/분류:대구광역시의_대중_매체 "wikilink")
+[분류:1994년 설립](https://ko.wikipedia.org/wiki/분류:1994년_설립 "wikilink") [분류:1995년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:1995년_설립된_텔레비전_방송국과_채널 "wikilink") [분류:대한민국의 종합유선방송사업자](https://ko.wikipedia.org/wiki/분류:대한민국의_종합유선방송사업자 "wikilink") [분류:대구광역시의 대중 매체](../Page/분류:대구광역시의_대중_매체.md "wikilink")
 
 1.

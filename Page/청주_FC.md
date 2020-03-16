@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
 
 
-'''청주 FC '''()는 [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink")에 창단한 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink")단이다. 연고지는 [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") [청주시](https://ko.wikipedia.org/wiki/청주시 "wikilink")이며, 홈구장은 [청주종합운동장이다](https://ko.wikipedia.org/wiki/청주종합경기장 "wikilink"). [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink")의 첫 번째 [K3리그 어드밴스](../Page/K3리그_어드밴스.md "wikilink") 팀으로서 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")부터 참가하고 있다.
+'''청주 FC '''()는 [2002년](../Page/2002년.md "wikilink")에 창단한 [대한민국](../Page/대한민국.md "wikilink")의 [축구](../Page/축구.md "wikilink")단이다. 연고지는 [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") [청주시](../Page/청주시.md "wikilink")이며, 홈구장은 [청주종합운동장이다](../Page/청주종합경기장.md "wikilink"). [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink")의 첫 번째 [K3리그 어드밴스](../Page/K3리그_어드밴스.md "wikilink") 팀으로서 [2009년](../Page/2009년.md "wikilink")부터 참가하고 있다.
 
 한편 2014 시즌을 앞두고 구단 공식명칭을 청주 직지 FC에서 충북 청주 FC로 변경하였다.\[1\] 2015년 다시 충북 청주에서 충북을 빼고 청주 FC로 구단명칭을 변경하였다.\[2\]
 
@@ -11,13 +11,13 @@
 
 ### 리그 참가 이전
 
-모태인 청주 솔베이지 축구단이 2002년 창단되었고 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") K3리그가 출범하자 청주에서도 K3리그 참가에 대한 논의가 시작되었다. [2007년 2월](../Page/2007년_2월.md "wikilink") 청주 솔베이지 축구단이 K3리그 가입에 대해 문의하였으나 청주시의 [내셔널리그](https://ko.wikipedia.org/wiki/대한민국_내셔널리그 "wikilink") 축구단 창단 준비 문제로 무산되었다. 그 해 12월 다시 대한축구협회에 창단 서류까지 접수했으나 다시 무산되었다.
+모태인 청주 솔베이지 축구단이 2002년 창단되었고 [2007년](../Page/2007년.md "wikilink") K3리그가 출범하자 청주에서도 K3리그 참가에 대한 논의가 시작되었다. [2007년 2월](../Page/2007년_2월.md "wikilink") 청주 솔베이지 축구단이 K3리그 가입에 대해 문의하였으나 청주시의 [내셔널리그](https://ko.wikipedia.org/wiki/대한민국_내셔널리그 "wikilink") 축구단 창단 준비 문제로 무산되었다. 그 해 12월 다시 대한축구협회에 창단 서류까지 접수했으나 다시 무산되었다.
 
-이듬해 2월 다시 한번 창단에 대한 재논의가 시작됐고, 여러 대회에 참가하여 성과를 올린 후 검토하는 방안을 세웠다. 솔베이지 축구단으로서 세 번째 출전한 [FA컵은](https://ko.wikipedia.org/wiki/FA컵_\(대한민국\) "wikilink") 3라운드에서 [호남대에게](https://ko.wikipedia.org/wiki/호남대학교 "wikilink") 승부차기로 석패했고, [전남](https://ko.wikipedia.org/wiki/전라남도 "wikilink") [광양에서](https://ko.wikipedia.org/wiki/광양시 "wikilink") 열린 [전국체전](https://ko.wikipedia.org/wiki/전국체전 "wikilink")에서는 [충북](https://ko.wikipedia.org/wiki/충청북도 "wikilink") 대표로 출전해 내셔널리그 팀인 [부산교통공사와](../Page/부산교통공사_축구단.md "wikilink") 겨루어 0-2로 패배하였다. 그렇게 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 한 해 동안 성과를 올린 솔베이지 축구단은 2009년 [대한축구협회](https://ko.wikipedia.org/wiki/대한축구협회 "wikilink")로부터 K3리그(현 챌린저스리그) 가입을 최종 승인받음에 따라 2월 청주 직지 FC 라는 이름으로 재창단되었고, 공개 모집을 통해 30여 명의 선수를 확보하였다.
+이듬해 2월 다시 한번 창단에 대한 재논의가 시작됐고, 여러 대회에 참가하여 성과를 올린 후 검토하는 방안을 세웠다. 솔베이지 축구단으로서 세 번째 출전한 [FA컵은](https://ko.wikipedia.org/wiki/FA컵_\(대한민국\) "wikilink") 3라운드에서 [호남대에게](../Page/호남대학교.md "wikilink") 승부차기로 석패했고, [전남](https://ko.wikipedia.org/wiki/전라남도 "wikilink") [광양에서](../Page/광양시.md "wikilink") 열린 [전국체전](https://ko.wikipedia.org/wiki/전국체전 "wikilink")에서는 [충북](https://ko.wikipedia.org/wiki/충청북도 "wikilink") 대표로 출전해 내셔널리그 팀인 [부산교통공사와](../Page/부산교통공사_축구단.md "wikilink") 겨루어 0-2로 패배하였다. 그렇게 [2008년](../Page/2008년.md "wikilink") 한 해 동안 성과를 올린 솔베이지 축구단은 2009년 [대한축구협회](../Page/대한축구협회.md "wikilink")로부터 K3리그(현 챌린저스리그) 가입을 최종 승인받음에 따라 2월 청주 직지 FC 라는 이름으로 재창단되었고, 공개 모집을 통해 30여 명의 선수를 확보하였다.
 
 ### 리그 참가
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:청주_종합_경기장.jpg "wikilink") 2009년 [3월 21일](https://ko.wikipedia.org/wiki/3월_21일 "wikilink"), 7천여명의 홈 관중 앞에서 치러진 [전주 온고을과의](../Page/전주_온고을_FC.md "wikilink") 첫 경기는 2-2 무승부로 끝났다.\[3\] 이후 2차전 [전주 EM과의](https://ko.wikipedia.org/wiki/전주_EM "wikilink") 원정 경기에서는 0대 2로 패배하였으나,\[4\] 이후 네 치러진 경기에서 4연승을 달리며 선두권으로 올라갔다. 계속해서 승리를 거듭해나가던 청주는 10승 2무 3패라는 성적을 기록하며 전반기를 1위로 장식했다. 하지만 후반기에선 주포 [이기동의](https://ko.wikipedia.org/wiki/이기동_\(축구_선수\) "wikilink") 득점포가 살아나지 못하면서 전반기만큼의 활약을 보여주지 못하였고, 결국 17개 팀 중 8위로 리그를 마감하였다. 이기동은 시즌이 끝난 후 [K리그](../Page/K리그.md "wikilink")의 [포항 스틸러스에](https://ko.wikipedia.org/wiki/포항_스틸러스 "wikilink") 입단했다.\[5\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:청주_종합_경기장.jpg "wikilink") 2009년 [3월 21일](../Page/3월_21일.md "wikilink"), 7천여명의 홈 관중 앞에서 치러진 [전주 온고을과의](../Page/전주_온고을_FC.md "wikilink") 첫 경기는 2-2 무승부로 끝났다.\[3\] 이후 2차전 [전주 EM과의](https://ko.wikipedia.org/wiki/전주_EM "wikilink") 원정 경기에서는 0대 2로 패배하였으나,\[4\] 이후 네 치러진 경기에서 4연승을 달리며 선두권으로 올라갔다. 계속해서 승리를 거듭해나가던 청주는 10승 2무 3패라는 성적을 기록하며 전반기를 1위로 장식했다. 하지만 후반기에선 주포 [이기동의](https://ko.wikipedia.org/wiki/이기동_\(축구_선수\) "wikilink") 득점포가 살아나지 못하면서 전반기만큼의 활약을 보여주지 못하였고, 결국 17개 팀 중 8위로 리그를 마감하였다. 이기동은 시즌이 끝난 후 [K리그](../Page/K리그.md "wikilink")의 [포항 스틸러스에](../Page/포항_스틸러스.md "wikilink") 입단했다.\[5\]
 
 이기동이 떠난 2010 시즌, 초중반에는 A조 6위에 계속 머물렀지만 후반기에 살아나면서 최종 라운드에서는 A조 3위에 올랐다. 이로써 [2011년 FA컵](../Page/FA컵_2011.md "wikilink") 진출권을 따냈고, 시즌이 끝난 후 열린 시상식에서 올해의 페어플레이상을 수여받았다.\[6\] 또한 홈 경기 관중 수도 18개 구단 중 가장 많은 동원력을 보였다.\[7\]
 
@@ -74,17 +74,17 @@
   -
     {| class="wikitable" style="text-align:center;font-size:100%;"
 
-\! 연도 \!\! 구분 \!\! 최종성적 \!\! 승 \!\! 무 \!\! 패 \!\! 득 \!\! 실 \!\! 차 \!\! 비고 |- | [2008](https://ko.wikipedia.org/wiki/FA컵_2008 "wikilink") | 예선 || 3라운드 || 1 || 1 || 0 || 5 || 4 || +1 ||align="left"|<small>**예선 3라운드**</small> 對[호남대학교](https://ko.wikipedia.org/wiki/호남대학교 "wikilink") 3–3 ([승부차기](../Page/승부차기.md "wikilink") 1–3) **<span style="color:BLUE;">패</span>** |- | [2009](https://ko.wikipedia.org/wiki/FA컵_2009 "wikilink") | 예선 || 2라운드 || 0 || 2 || 0 || 2 || 2 || 0 ||align="left"|<small>**예선 1라운드**</small> 對[삼척 신우전자 축구단](../Page/삼척_신우전자_축구단.md "wikilink") 2–2 ([승부차기](../Page/승부차기.md "wikilink") 7–6) **<span style="color:RED;">승</span>**
-<small>**예선 2라운드**</small> 對[고려대학교 축구부](../Page/고려대학교_축구부.md "wikilink") 1–1 ([승부차기](../Page/승부차기.md "wikilink") 4–5) **<span style="color:BLUE;">패</span>** |- | [2011](../Page/FA컵_2011.md "wikilink") | 예선 || 1라운드 || 0 || 0 || 1 || 1 || 3 || -2 || - |- | rowspan="2" |[2012](../Page/FA컵_2012.md "wikilink") | 예선 ||bgcolor="\#CCFFCC"|**본선 진출** || 2 || 0 || 0 || 4 || 1 || +3 || - |- | 본선 || 32강 || 0 || 0 || 1 || 0 || 4 || -4 ||align="left"|<small>**FA컵 32강**</small> 對[포항 스틸러스](https://ko.wikipedia.org/wiki/포항_스틸러스 "wikilink") 0–4 **<span style="color:BLUE;">패</span>** |- | [2013](../Page/FA컵_2013.md "wikilink") | 예선 || 2라운드 || 1 || 0 || 1 || 9 || 6 || +3 || - |- | [2014](../Page/FA컵_2014.md "wikilink") | 예선 || 1라운드 || 0 || 0 || 1 || 0 || 2 || -2 || - |- | [2015](../Page/FA컵_2015.md "wikilink") | 예선 || 3라운드 || 1 || 0 || 1 || 1 || 3 || -2 || - |- | [2016](../Page/FA컵_2016.md "wikilink") | 예선 || 2라운드 || 0 || 0 || 1 || 0 || 2 || -2 || - |- | [2017](../Page/FA컵_2017.md "wikilink") | 예선 || 3라운드 || 1 || 0 || 1 || 9 || 3 || +6 || - |}
+\! 연도 \!\! 구분 \!\! 최종성적 \!\! 승 \!\! 무 \!\! 패 \!\! 득 \!\! 실 \!\! 차 \!\! 비고 |- | [2008](../Page/FA컵_2008.md "wikilink") | 예선 || 3라운드 || 1 || 1 || 0 || 5 || 4 || +1 ||align="left"|<small>**예선 3라운드**</small> 對[호남대학교](../Page/호남대학교.md "wikilink") 3–3 ([승부차기](../Page/승부차기.md "wikilink") 1–3) **<span style="color:BLUE;">패</span>** |- | [2009](../Page/FA컵_2009.md "wikilink") | 예선 || 2라운드 || 0 || 2 || 0 || 2 || 2 || 0 ||align="left"|<small>**예선 1라운드**</small> 對[삼척 신우전자 축구단](../Page/삼척_신우전자_축구단.md "wikilink") 2–2 ([승부차기](../Page/승부차기.md "wikilink") 7–6) **<span style="color:RED;">승</span>**
+<small>**예선 2라운드**</small> 對[고려대학교 축구부](../Page/고려대학교_축구부.md "wikilink") 1–1 ([승부차기](../Page/승부차기.md "wikilink") 4–5) **<span style="color:BLUE;">패</span>** |- | [2011](../Page/FA컵_2011.md "wikilink") | 예선 || 1라운드 || 0 || 0 || 1 || 1 || 3 || -2 || - |- | rowspan="2" |[2012](../Page/FA컵_2012.md "wikilink") | 예선 ||bgcolor="\#CCFFCC"|**본선 진출** || 2 || 0 || 0 || 4 || 1 || +3 || - |- | 본선 || 32강 || 0 || 0 || 1 || 0 || 4 || -4 ||align="left"|<small>**FA컵 32강**</small> 對[포항 스틸러스](../Page/포항_스틸러스.md "wikilink") 0–4 **<span style="color:BLUE;">패</span>** |- | [2013](../Page/FA컵_2013.md "wikilink") | 예선 || 2라운드 || 1 || 0 || 1 || 9 || 6 || +3 || - |- | [2014](../Page/FA컵_2014.md "wikilink") | 예선 || 1라운드 || 0 || 0 || 1 || 0 || 2 || -2 || - |- | [2015](../Page/FA컵_2015.md "wikilink") | 예선 || 3라운드 || 1 || 0 || 1 || 1 || 3 || -2 || - |- | [2016](../Page/FA컵_2016.md "wikilink") | 예선 || 2라운드 || 0 || 0 || 1 || 0 || 2 || -2 || - |- | [2017](../Page/FA컵_2017.md "wikilink") | 예선 || 3라운드 || 1 || 0 || 1 || 9 || 3 || +6 || - |}
 
 #### 역대 [전국체전](../Page/전국체육대회.md "wikilink") 기록
 
   -
     {| class="wikitable" style="text-align:center;font-size:100%;"
 
-\! 연도 \!\! 회차 \!\! 진출자격 \!\! 최종순위 \!\! 경기결과 |- | 2008 || 제89회 전남 전국체육대회 || 충북 대표 || 예선경기 ||align="left"|<small>**예선경기**</small> 對[부산교통공사 축구단](../Page/부산교통공사_축구단.md "wikilink") 0–2 **<span style="color:BLUE;">패</span>** |- | 2009 || 제90회 대전 전국체육대회 || 충북 대표 || 예선경기 ||align="left"|<small>**예선경기**</small> 對[부산교통공사 축구단](../Page/부산교통공사_축구단.md "wikilink") 2–3 **<span style="color:BLUE;">패</span>** |- | 2010 || 제91회 경남 전국체육대회 || 충북 대표 || 예선경기 ||align="left"|<small>**예선경기**</small> 對[울산 현대미포조선 돌고래](../Page/울산_현대미포조선_돌고래.md "wikilink") 1–2 **<span style="color:BLUE;">패</span>** |- | 2011 || 제92회 경기 전국체육대회 || 충북 대표 ||bgcolor="\#CCFFCC"|**8강** ||align="left"|<small>**8강전**</small> 對[목포시청 축구단](https://ko.wikipedia.org/wiki/목포시청_축구단 "wikilink") 0–1 **<span style="color:BLUE;">패</span>** |- | 2012 || 제93회 대구 전국체육대회 || 충북 대표 || 예선경기 ||align="left"|<small>**예선경기**</small> 對[목포시청 축구단](https://ko.wikipedia.org/wiki/목포시청_축구단 "wikilink") 2–3 **<span style="color:BLUE;">패</span>** |- | 2013 || 제94회 인천 전국체육대회 || 충북 대표 ||bgcolor="SILVER"|**준우승** ||align="left"|<small>**8강전**</small> 對[경주 한국수력원자력 축구단](../Page/경주_한국수력원자력_축구단.md "wikilink") 1–0 **<span style="color:RED;">승</span>**
+\! 연도 \!\! 회차 \!\! 진출자격 \!\! 최종순위 \!\! 경기결과 |- | 2008 || 제89회 전남 전국체육대회 || 충북 대표 || 예선경기 ||align="left"|<small>**예선경기**</small> 對[부산교통공사 축구단](../Page/부산교통공사_축구단.md "wikilink") 0–2 **<span style="color:BLUE;">패</span>** |- | 2009 || 제90회 대전 전국체육대회 || 충북 대표 || 예선경기 ||align="left"|<small>**예선경기**</small> 對[부산교통공사 축구단](../Page/부산교통공사_축구단.md "wikilink") 2–3 **<span style="color:BLUE;">패</span>** |- | 2010 || 제91회 경남 전국체육대회 || 충북 대표 || 예선경기 ||align="left"|<small>**예선경기**</small> 對[울산 현대미포조선 돌고래](../Page/울산_현대미포조선_돌고래.md "wikilink") 1–2 **<span style="color:BLUE;">패</span>** |- | 2011 || 제92회 경기 전국체육대회 || 충북 대표 ||bgcolor="\#CCFFCC"|**8강** ||align="left"|<small>**8강전**</small> 對[목포시청 축구단](../Page/목포시청_축구단.md "wikilink") 0–1 **<span style="color:BLUE;">패</span>** |- | 2012 || 제93회 대구 전국체육대회 || 충북 대표 || 예선경기 ||align="left"|<small>**예선경기**</small> 對[목포시청 축구단](../Page/목포시청_축구단.md "wikilink") 2–3 **<span style="color:BLUE;">패</span>** |- | 2013 || 제94회 인천 전국체육대회 || 충북 대표 ||bgcolor="SILVER"|**준우승** ||align="left"|<small>**8강전**</small> 對[경주 한국수력원자력 축구단](../Page/경주_한국수력원자력_축구단.md "wikilink") 1–0 **<span style="color:RED;">승</span>**
 <small>**4강전**</small> 對[강릉시청 축구단](../Page/강릉시청_축구단.md "wikilink") 3–1 **<span style="color:RED;">승</span>**
-<small>**결승전**</small> 對[부산교통공사 축구단](../Page/부산교통공사_축구단.md "wikilink") 0–2 **<span style="color:BLUE;">패</span>** |- | 2014 || 제95회 제주 전국체육대회 || 충북 대표 || 예선경기 ||align="left"|<small>**예선경기**</small> 對[목포시청 축구단](https://ko.wikipedia.org/wiki/목포시청_축구단 "wikilink") 0–1 **<span style="color:BLUE;">패</span>** |- | 2015 || 제96회 제주 전국체육대회 || 충북 대표 || 예선경기 ||align="left"|<small>**예선경기**</small> 對[경주 한국수력원자력 축구단](../Page/경주_한국수력원자력_축구단.md "wikilink") 0–3 **<span style="color:BLUE;">패</span>** |- | 2017 || 제98회 충북 전국체육대회 || 충북 대표 ||bgcolor="\#CCFFCC"|**8강** ||align="left"|<small>**8강전**</small> 對[창원시청 축구단](../Page/창원시청_축구단.md "wikilink") 0–2 **<span style="color:BLUE;">패</span>** |}
+<small>**결승전**</small> 對[부산교통공사 축구단](../Page/부산교통공사_축구단.md "wikilink") 0–2 **<span style="color:BLUE;">패</span>** |- | 2014 || 제95회 제주 전국체육대회 || 충북 대표 || 예선경기 ||align="left"|<small>**예선경기**</small> 對[목포시청 축구단](../Page/목포시청_축구단.md "wikilink") 0–1 **<span style="color:BLUE;">패</span>** |- | 2015 || 제96회 제주 전국체육대회 || 충북 대표 || 예선경기 ||align="left"|<small>**예선경기**</small> 對[경주 한국수력원자력 축구단](../Page/경주_한국수력원자력_축구단.md "wikilink") 0–3 **<span style="color:BLUE;">패</span>** |- | 2017 || 제98회 충북 전국체육대회 || 충북 대표 ||bgcolor="\#CCFFCC"|**8강** ||align="left"|<small>**8강전**</small> 對[창원시청 축구단](../Page/창원시청_축구단.md "wikilink") 0–2 **<span style="color:BLUE;">패</span>** |}
 
 ## 클럽 운영진
 
@@ -98,7 +98,7 @@
 
   - 감독 : [서원상](https://ko.wikipedia.org/wiki/서원상 "wikilink")
   - 수석코치 : [서정원](../Page/서정원.md "wikilink")
-  - 코치 : [고기구](https://ko.wikipedia.org/wiki/고기구 "wikilink")
+  - 코치 : [고기구](../Page/고기구.md "wikilink")
   - 골키퍼 코치 : [차상광](../Page/차상광.md "wikilink")
   - 피지컬 코치 : [신상규](https://ko.wikipedia.org/wiki/신상규 "wikilink")
 
@@ -130,7 +130,7 @@
 
 ### 주요 승리
 
-  - **최대 점수차 승리** 12-0 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [5월 27일](https://ko.wikipedia.org/wiki/5월_27일 "wikilink") [서울 FC 마르티스](../Page/서울_FC_마르티스.md "wikilink") 전 (홈)
+  - **최대 점수차 승리** 12-0 [2012년](../Page/2012년.md "wikilink") [5월 27일](../Page/5월_27일.md "wikilink") [서울 FC 마르티스](../Page/서울_FC_마르티스.md "wikilink") 전 (홈)
 
 ## 관련 항목
 

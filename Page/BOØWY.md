@@ -5,11 +5,11 @@
 
 ## 발자취
 
-[1980년](https://ko.wikipedia.org/wiki/1980년 "wikilink") 밴드를 결성했다.
+[1980년](../Page/1980년.md "wikilink") 밴드를 결성했다.
 
-[1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink") [12월 24일에](https://ko.wikipedia.org/wiki/12월_24일 "wikilink") 해체했다.
+[1987년](../Page/1987년.md "wikilink") [12월 24일에](../Page/12월_24일.md "wikilink") 해체했다.
 
-[1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink") 4월 4\~5일 [도쿄 돔에서](https://ko.wikipedia.org/wiki/도쿄_돔 "wikilink") 마지막 라이브를 개최했다.
+[1988년](../Page/1988년.md "wikilink") 4월 4\~5일 [도쿄 돔에서](../Page/도쿄_돔.md "wikilink") 마지막 라이브를 개최했다.
 
 ## 개요
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [New Generation of Ska](https://ko.wikipedia.org/wiki/New_Generation_of_Ska).
 
 
-《**New Generation of Ska**》는 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [1월 20일에](https://ko.wikipedia.org/wiki/1월_20일 "wikilink") [도프뮤직](https://ko.wikipedia.org/wiki/도프뮤직 "wikilink")의 자회사인 [I WANNA RIOT](https://ko.wikipedia.org/wiki/I_WANNA_RIOT "wikilink")(I WANNA RIOT Records)에서 발매된 [스카썩스](../Page/스카썩스.md "wikilink")(SKASUCKS)의 두 번째 [EP이다](../Page/익스텐디드_플레이.md "wikilink").
+《**New Generation of Ska**》는 [2009년](../Page/2009년.md "wikilink") [1월 20일에](../Page/1월_20일.md "wikilink") [도프뮤직](https://ko.wikipedia.org/wiki/도프뮤직 "wikilink")의 자회사인 [I WANNA RIOT](https://ko.wikipedia.org/wiki/I_WANNA_RIOT "wikilink")(I WANNA RIOT Records)에서 발매된 [스카썩스](../Page/스카썩스.md "wikilink")(SKASUCKS)의 두 번째 [EP이다](../Page/익스텐디드_플레이.md "wikilink").
 
 ## 개요 및 평가
 

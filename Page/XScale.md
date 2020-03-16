@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [XScale](https://ko.wikipedia.org/wiki/XScale).
 
 
-[인텔](https://ko.wikipedia.org/wiki/인텔 "wikilink")의 **XScale**(엑스스케일) [프로세서는](https://ko.wikipedia.org/wiki/중앙_처리_장치 "wikilink") [ARM](https://ko.wikipedia.org/wiki/ARM "wikilink")v5 아키텍처를 기반으로 설계된 [인텔](https://ko.wikipedia.org/wiki/인텔 "wikilink")의 모바일 프로세서 아키텍처로 핸드헬드 PC나 PDA에 폭넓게 사용되고 있는 모바일 프로세서 아키텍처이다. StrongARM CPU는 [DEC](https://ko.wikipedia.org/wiki/DEC "wikilink")사에서 개발되었고 인텔이 인수하면서 인텔의 상표를 달고 출고되었다. XScale은 이 StrongARM 프로세서의 후속작이다.
+[인텔](../Page/인텔.md "wikilink")의 **XScale**(엑스스케일) [프로세서는](../Page/중앙_처리_장치.md "wikilink") [ARM](https://ko.wikipedia.org/wiki/ARM "wikilink")v5 아키텍처를 기반으로 설계된 [인텔](../Page/인텔.md "wikilink")의 모바일 프로세서 아키텍처로 핸드헬드 PC나 PDA에 폭넓게 사용되고 있는 모바일 프로세서 아키텍처이다. StrongARM CPU는 [DEC](https://ko.wikipedia.org/wiki/DEC "wikilink")사에서 개발되었고 인텔이 인수하면서 인텔의 상표를 달고 출고되었다. XScale은 이 StrongARM 프로세서의 후속작이다.
 
 2006년 인텔이 XScale 관련 라이선스를 [마벨사에](https://ko.wikipedia.org/wiki/마벨_테크놀로지_그룹 "wikilink") 매각함에 따라 현재 XScale 기반 프로세서는 [마벨](https://ko.wikipedia.org/wiki/마벨 "wikilink")(Marvell)사에서 제조되고 있다.
 
@@ -15,7 +15,7 @@
 
   - 일반모드 100MHz, 터보모드 132MHz
   - 50 \~ 99.5MHz PXBus Clock Speed
-  - 50 \~ 99.5MHz [SDRAM](https://ko.wikipedia.org/wiki/SDRAM "wikilink") Controller Clock Speed (99.5MHz)
+  - 50 \~ 99.5MHz [SDRAM](../Page/SDRAM.md "wikilink") Controller Clock Speed (99.5MHz)
   - 0.765 \~ 0.935V 동작
 
 #### 중전압 모드(1.00V)
@@ -37,7 +37,7 @@
 
   - 32KB [I-Cache](https://ko.wikipedia.org/wiki/I-Cache "wikilink"), 32KB [D-Cache](https://ko.wikipedia.org/wiki/D-Cache "wikilink"), 2KB Mini D-Cache
   - [AC97](https://ko.wikipedia.org/wiki/AC97 "wikilink")/[I2S](https://ko.wikipedia.org/wiki/I2S "wikilink") 오디오 지원
-  - [USB](https://ko.wikipedia.org/wiki/USB "wikilink")-Client 지원
+  - [USB](../Page/USB.md "wikilink")-Client 지원
   - 고속 [UART](../Page/UART.md "wikilink") 포트
   - 흐름제어 가능 2번 UART 포트
   - FIR, SIR 적외선 포트

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ CD](https://ko.wikipedia.org/wiki/_CD).
 
 
-**드라마 CD**는 [CD에](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink") 소리만으로 이야기를 담은 것이다. 대부분 만화책, 게임, 애니메이션 등을 원작으로 한다.
+**드라마 CD**는 [CD에](../Page/콤팩트_디스크.md "wikilink") 소리만으로 이야기를 담은 것이다. 대부분 만화책, 게임, 애니메이션 등을 원작으로 한다.
 
 ## 특징
 
@@ -15,10 +15,10 @@
 
   - [사쿠라장의 애완 그녀](../Page/사쿠라장의_애완_그녀.md "wikilink")
   - [역시 내 청춘 러브코메디는 잘못됐다](https://ko.wikipedia.org/wiki/역시_내_청춘_러브코메디는_잘못됐다 "wikilink")
-  - [내 여동생이 이렇게 귀여울 리가 없어](https://ko.wikipedia.org/wiki/내_여동생이_이렇게_귀여울_리가_없어 "wikilink")
-  - [성계의 문장](https://ko.wikipedia.org/wiki/성계의_문장 "wikilink")
-  - [성계의 전기](https://ko.wikipedia.org/wiki/성계의_전기 "wikilink")
-  - [마리아님이 보고계셔](https://ko.wikipedia.org/wiki/마리아님이_보고계셔 "wikilink")
+  - [내 여동생이 이렇게 귀여울 리가 없어](../Page/내_여동생이_이렇게_귀여울_리가_없어.md "wikilink")
+  - [성계의 문장](../Page/성계의_문장.md "wikilink")
+  - [성계의 전기](../Page/성계의_전기.md "wikilink")
+  - [마리아님이 보고계셔](../Page/마리아님이_보고계셔.md "wikilink")
   - [키미키스](../Page/키미키스.md "wikilink")
   - [클라나드](https://ko.wikipedia.org/wiki/클라나드_\(비디오_게임\) "wikilink")
   - [반쪽 달이 떠오르는 하늘](../Page/반쪽_달이_떠오르는_하늘.md "wikilink")
@@ -26,7 +26,7 @@
   - [사이버 포뮬러](https://ko.wikipedia.org/wiki/사이버_포뮬러 "wikilink")
   - [일곱빛깔 드롭스](https://ko.wikipedia.org/wiki/일곱빛깔_드롭스 "wikilink")
   - [쓰르라미 울 적에](../Page/쓰르라미_울_적에.md "wikilink")
-  - [나는 친구가 적다](https://ko.wikipedia.org/wiki/나는_친구가_적다 "wikilink")
+  - [나는 친구가 적다](../Page/나는_친구가_적다.md "wikilink")
   - [로큐브\!](../Page/로큐브!.md "wikilink")
   - [나와 호랑이님](../Page/나와_호랑이님.md "wikilink")
   - [오토보쿠](https://ko.wikipedia.org/wiki/오토보쿠 "wikilink")

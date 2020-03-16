@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Direct2D](https://ko.wikipedia.org/wiki/Direct2D).
 
 
-**Direct2D**는 [마이크로소프트](https://ko.wikipedia.org/wiki/마이크로소프트 "wikilink")사가 차기 [윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") [운영 체제를](https://ko.wikipedia.org/wiki/운영_체제 "wikilink") 위해 고안한 새로운 [2차원](https://ko.wikipedia.org/wiki/2차원_컴퓨터_그래픽스 "wikilink") 그래픽 [API](../Page/API.md "wikilink")이며 [DirectX](https://ko.wikipedia.org/wiki/DirectX "wikilink") 11의 한 부분이다. 현재 [윈도 비스타](https://ko.wikipedia.org/wiki/윈도_비스타 "wikilink") SP2 이상, [윈도 7](https://ko.wikipedia.org/wiki/윈도_7 "wikilink") 이상 운영 체제에서 지원되며, DirectX 10.1 이상을 지원하는 그래픽 하드웨어에서 완벽 지원한다.\[1\]
+**Direct2D**는 [마이크로소프트](../Page/마이크로소프트.md "wikilink")사가 차기 [윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") [운영 체제를](../Page/운영_체제.md "wikilink") 위해 고안한 새로운 [2차원](https://ko.wikipedia.org/wiki/2차원_컴퓨터_그래픽스 "wikilink") 그래픽 [API](../Page/API.md "wikilink")이며 [DirectX](../Page/DirectX.md "wikilink") 11의 한 부분이다. 현재 [윈도 비스타](https://ko.wikipedia.org/wiki/윈도_비스타 "wikilink") SP2 이상, [윈도 7](https://ko.wikipedia.org/wiki/윈도_7 "wikilink") 이상 운영 체제에서 지원되며, DirectX 10.1 이상을 지원하는 그래픽 하드웨어에서 완벽 지원한다.\[1\]
 
 Direct2D는 [GDI](../Page/그래픽_장치_인터페이스.md "wikilink"), [GDI+를](../Page/그래픽_장치_인터페이스.md "wikilink") 대체하여 작동한다. GDI계열 API에서 CPU에 의존하던 처리를 GPU에 분산하여 빠르게 동작하면서도 높은 화질의 2차원 그래픽을 제공하도록 설계되어 있다.\[2\] 다만 Direct2D는 COM 런타임을 사용하지 않는다.\[3\]
 
@@ -9,12 +9,12 @@ Direct2D는 GDI, GDI+, Direct3D과의 상호 운용성을 가지며 [DirectWrite
 
 ## 요구 사항
 
-다이렉트엑스 10.1 표준의 요구 사항에 따라 [윈도 비스타](https://ko.wikipedia.org/wiki/윈도_비스타 "wikilink") SP2 이상 또는 [윈도 7](https://ko.wikipedia.org/wiki/윈도_7 "wikilink") 이상의 운영 체제가 필요하다. (서버 기반 운영체제 포함) 하드웨어적으로는 다이렉트 엑스 9 이상을 지원하는 [GPU가](https://ko.wikipedia.org/wiki/그래픽_처리_장치 "wikilink") 필요하다.
+다이렉트엑스 10.1 표준의 요구 사항에 따라 [윈도 비스타](https://ko.wikipedia.org/wiki/윈도_비스타 "wikilink") SP2 이상 또는 [윈도 7](https://ko.wikipedia.org/wiki/윈도_7 "wikilink") 이상의 운영 체제가 필요하다. (서버 기반 운영체제 포함) 하드웨어적으로는 다이렉트 엑스 9 이상을 지원하는 [GPU가](../Page/그래픽_처리_장치.md "wikilink") 필요하다.
 
 ## 응용 프로그램
 
   - [게코](../Page/게코_\(레이아웃_엔진\).md "wikilink") 1.9.3 alpha 3\[4\]\[5\]
-  - [인터넷 익스플로러 9](https://ko.wikipedia.org/wiki/인터넷_익스플로러_9 "wikilink")
+  - [인터넷 익스플로러 9](../Page/인터넷_익스플로러_9.md "wikilink")
 
 ## 같이 보기
 

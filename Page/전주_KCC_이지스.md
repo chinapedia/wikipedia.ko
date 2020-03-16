@@ -1,14 +1,14 @@
 > This article is converted from Wikipedia: [ KCC ](https://ko.wikipedia.org/wiki/_KCC_).
 
 
-**KCC 이지스**(KCC Egis)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 프로 [농구](https://ko.wikipedia.org/wiki/농구 "wikilink")단이다. 법적으로는 [주식회사](https://ko.wikipedia.org/wiki/주식회사 "wikilink")이며, [KCC그룹](../Page/KCC그룹.md "wikilink")의 계열사이다.
+**KCC 이지스**(KCC Egis)는 [대한민국](../Page/대한민국.md "wikilink")의 프로 [농구](../Page/농구.md "wikilink")단이다. 법적으로는 [주식회사](../Page/주식회사.md "wikilink")이며, [KCC그룹](../Page/KCC그룹.md "wikilink")의 계열사이다.
 
 ## 역사
 
-  - [1977년](https://ko.wikipedia.org/wiki/1977년 "wikilink")\~[1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink"):  현대전자 실업농구단
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink")\~[1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink"):  대전 현대 다이넷
-  - [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink")\~[2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink"):  대전 현대 걸리버스
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink")\~현재:  **전주 KCC 이지스**
+  - [1977년](../Page/1977년.md "wikilink")\~[1996년](../Page/1996년.md "wikilink"):  현대전자 실업농구단
+  - [1997년](../Page/1997년.md "wikilink")\~[1999년](../Page/1999년.md "wikilink"):  대전 현대 다이넷
+  - [1999년](../Page/1999년.md "wikilink")\~[2001년](../Page/2001년.md "wikilink"):  대전 현대 걸리버스
+  - [2001년](../Page/2001년.md "wikilink")\~현재:  **전주 KCC 이지스**
 
 ## 우승 기록
 
@@ -18,13 +18,13 @@
 
   - **[KBL 챔피언 결정전](../Page/KBL_챔피언_결정전.md "wikilink")**
       - **[파일:Cup Winner.png](https://ko.wikipedia.org/wiki/파일:Cup_Winner.png "wikilink") 우승 (5)**: [1997-98](../Page/한국프로농구_1997-98.md "wikilink"), [1998-99](../Page/한국프로농구_1998-99.md "wikilink"), [2003-04](https://ko.wikipedia.org/wiki/한국프로농구_2003-04 "wikilink"), [2008-09](../Page/한국프로농구_2008-09.md "wikilink"), [2010-11](../Page/한국프로농구_2010-11.md "wikilink")
-      - [파일:Cup Finalist.png](https://ko.wikipedia.org/wiki/파일:Cup_Finalist.png "wikilink") 준우승 (4): [1999-2000](../Page/한국프로농구_1999-2000.md "wikilink"), [2004-05](https://ko.wikipedia.org/wiki/한국프로농구_2004-05 "wikilink"), [2009-10](https://ko.wikipedia.org/wiki/한국프로농구_2009-10 "wikilink"), [2015-16](../Page/한국프로농구_2015-16.md "wikilink")
-  - **[KBL 정규리그](https://ko.wikipedia.org/wiki/한국프로농구 "wikilink")**
+      - [파일:Cup Finalist.png](https://ko.wikipedia.org/wiki/파일:Cup_Finalist.png "wikilink") 준우승 (4): [1999-2000](../Page/한국프로농구_1999-2000.md "wikilink"), [2004-05](https://ko.wikipedia.org/wiki/한국프로농구_2004-05 "wikilink"), [2009-10](../Page/한국프로농구_2009-10.md "wikilink"), [2015-16](../Page/한국프로농구_2015-16.md "wikilink")
+  - **[KBL 정규리그](../Page/한국프로농구.md "wikilink")**
       - ** 우승 (4)**: [1997-98](../Page/한국프로농구_1997-98.md "wikilink"), [1998-99](../Page/한국프로농구_1998-99.md "wikilink"), [1999-2000](../Page/한국프로농구_1999-2000.md "wikilink"), [2015-16](../Page/한국프로농구_2015-16.md "wikilink")
 
       - 준우승 (3): [2003-04](https://ko.wikipedia.org/wiki/한국프로농구_2003-04 "wikilink"), [2004-05](https://ko.wikipedia.org/wiki/한국프로농구_2004-05 "wikilink"), [2007-08](../Page/한국프로농구_2007-08.md "wikilink")
 
-      - 3등 (5): [2001-02](https://ko.wikipedia.org/wiki/한국프로농구_2001-02 "wikilink"), [2008-09](../Page/한국프로농구_2008-09.md "wikilink"), [2009-10](https://ko.wikipedia.org/wiki/한국프로농구_2009-10 "wikilink"), [2010-11](../Page/한국프로농구_2010-11.md "wikilink"), [2017-18](../Page/한국프로농구_2017-18.md "wikilink")
+      - 3등 (5): [2001-02](https://ko.wikipedia.org/wiki/한국프로농구_2001-02 "wikilink"), [2008-09](../Page/한국프로농구_2008-09.md "wikilink"), [2009-10](../Page/한국프로농구_2009-10.md "wikilink"), [2010-11](../Page/한국프로농구_2010-11.md "wikilink"), [2017-18](../Page/한국프로농구_2017-18.md "wikilink")
 
 #### 컵
 
@@ -60,7 +60,7 @@
 <tr class="odd">
 <td><p>1대</p></td>
 <td><p>1997.2.1-2005.5.31</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/신선우" title="wikilink">신선우</a></p></td>
+<td><p><a href="../Page/신선우.md" title="wikilink">신선우</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2대</p></td>
@@ -70,7 +70,7 @@
 <tr class="odd">
 <td><p>3대</p></td>
 <td><p>2015.5.29-2018.11.15</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/추승균" title="wikilink">추승균</a></p></td>
+<td><p><a href="../Page/추승균.md" title="wikilink">추승균</a></p></td>
 </tr>
 <tr class="even">
 <td><p>4대</p></td>
@@ -80,7 +80,7 @@
 <tr class="odd">
 <td><p>5대</p></td>
 <td><p>2019.7.1-</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/전창진" title="wikilink">전창진</a></p></td>
+<td><p><a href="../Page/전창진.md" title="wikilink">전창진</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -115,16 +115,16 @@
 ### 홈 팀 공격 시
 
   - I Don't Care - [2NE1](https://ko.wikipedia.org/wiki/투애니원 "wikilink")
-  - 아줌마 - [왁스](https://ko.wikipedia.org/wiki/왁스_\(가수\) "wikilink")
+  - 아줌마 - [왁스](../Page/왁스_\(가수\).md "wikilink")
   - 젊은 그대 - [김수철](../Page/김수철_\(가수\).md "wikilink")
   - 오리날다 - [체리필터](../Page/체리필터.md "wikilink")
-  - 어젯밤이야기 - [소방차](https://ko.wikipedia.org/wiki/소방차 "wikilink")
-  - 쏘리쏘리 - [슈퍼주니어](https://ko.wikipedia.org/wiki/슈퍼주니어 "wikilink")
-  - 슈퍼매직 - [슈프림팀](https://ko.wikipedia.org/wiki/슈프림팀 "wikilink")
+  - 어젯밤이야기 - [소방차](../Page/소방차.md "wikilink")
+  - 쏘리쏘리 - [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")
+  - 슈퍼매직 - [슈프림팀](../Page/슈프림팀.md "wikilink")
   - 고등어 - [노라조](../Page/노라조.md "wikilink")
   - 해피송 - [노라조](../Page/노라조.md "wikilink")
   - 나 이런 사람이야 - [DJ DOC](../Page/DJ_DOC.md "wikilink")
-  - 우리가 원하는것들 - [양동근](https://ko.wikipedia.org/wiki/양동근 "wikilink")
+  - 우리가 원하는것들 - [양동근](../Page/양동근.md "wikilink")
   - 긍정리듬 - [리듬파워](../Page/리듬파워.md "wikilink")
 
 ## 응원단

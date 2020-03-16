@@ -5,9 +5,9 @@
 
 ## 개요
 
-[2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [쇼가쿠칸](../Page/쇼가쿠칸.md "wikilink")의 《[주간 영 선데이](../Page/주간_영_선데이.md "wikilink")》에서 연재를 시작했고, 대한민국에는 2001년부터 [대원씨아이](https://ko.wikipedia.org/wiki/대원씨아이 "wikilink")를 통해 단행본이 발매됐다. 2004년에는 제49회 [쇼가쿠칸 만화상에서](https://ko.wikipedia.org/wiki/쇼가쿠칸_만화상 "wikilink") 일반부문을 수상했다.
+[2000년](../Page/2000년.md "wikilink") [쇼가쿠칸](../Page/쇼가쿠칸.md "wikilink")의 《[주간 영 선데이](../Page/주간_영_선데이.md "wikilink")》에서 연재를 시작했고, 대한민국에는 2001년부터 [대원씨아이](https://ko.wikipedia.org/wiki/대원씨아이 "wikilink")를 통해 단행본이 발매됐다. 2004년에는 제49회 [쇼가쿠칸 만화상에서](../Page/쇼가쿠칸_만화상.md "wikilink") 일반부문을 수상했다.
 
-[2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink")에는 [후지 TV에서](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 드라마로 만들었으며, 2004년에는 스페셜판, 2006년에는 새 시리즈(2기)가 방송됐다. 대한민국에는 [메디TV](https://ko.wikipedia.org/wiki/메디TV "wikilink")를 통해 방송했다.
+[2003년](../Page/2003년.md "wikilink")에는 [후지 TV에서](../Page/후지_TV.md "wikilink") 드라마로 만들었으며, 2004년에는 스페셜판, 2006년에는 새 시리즈(2기)가 방송됐다. 대한민국에는 [메디TV](https://ko.wikipedia.org/wiki/메디TV "wikilink")를 통해 방송했다.
 
 ## 줄거리
 

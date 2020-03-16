@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LSY](https://ko.wikipedia.org/wiki/LSY).
 
 
-**LSY**는 [축산업](https://ko.wikipedia.org/wiki/축산업 "wikilink") 용어로, *Litters per Sow per Year*의 [줄임말](https://ko.wikipedia.org/wiki/줄임말 "wikilink")이다. 모돈(어미[돼지](https://ko.wikipedia.org/wiki/돼지 "wikilink"))이 1년에 몇번의 출산을 수행했는가를 뜻하는 생산성 지표 수치이다. 개나 고양이 그리고 돼지 등의 동물은 한번 출산에 10마리 내외의 새끼를 낳는 일복다산성 동물이며, 이 때에 한번 출산으로 나오는 새끼그룹을 묶어 칭함이 litter라는 영어 단어의 뜻 중 하나이다.
+**LSY**는 [축산업](https://ko.wikipedia.org/wiki/축산업 "wikilink") 용어로, *Litters per Sow per Year*의 [줄임말](https://ko.wikipedia.org/wiki/줄임말 "wikilink")이다. 모돈(어미[돼지](../Page/돼지.md "wikilink"))이 1년에 몇번의 출산을 수행했는가를 뜻하는 생산성 지표 수치이다. 개나 고양이 그리고 돼지 등의 동물은 한번 출산에 10마리 내외의 새끼를 낳는 일복다산성 동물이며, 이 때에 한번 출산으로 나오는 새끼그룹을 묶어 칭함이 litter라는 영어 단어의 뜻 중 하나이다.
 
 LSY의 결과수치는 근본적으로 모돈회전율이라는 수치와 같으나, 용어의 본뜻은 **모돈당 년간 출산수** 이기에 의미 흐름이 다소 다르며, 과거 소수의 축산관련 서적에서 오역으로 "1회 출산시 새끼 마릿수 (=복당산자수)"와 혼용되기도 하였기에 단어 사용상 주의를 필요로 한다.
 

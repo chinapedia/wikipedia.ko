@@ -5,7 +5,7 @@
 
 [미국의 국방부장관실이](https://ko.wikipedia.org/wiki/미국의_국방부장관실 "wikilink") 주도하여 만든 기구인 [고급분산학습](https://ko.wikipedia.org/wiki/고급분산학습 "wikilink")(Advanced Distributed Learning; ADL)사업단이 제안한 표준안이다.
 
-스콤 2004에는 계열화의 개념이 도입되었다. 계열화는 학습자가 콘텐츠 객체들을 학습할 수 있도록 하는 특정한 규칙들의 집합이다. 스콤 표준안은 [AICC](https://ko.wikipedia.org/wiki/AICC "wikilink"), [IMS 글로벌](https://ko.wikipedia.org/wiki/IMS_글로벌 "wikilink"), [IEEE](https://ko.wikipedia.org/wiki/IEEE "wikilink")에서 개발한 표준을 바탕으로 한 것으로, [XML](https://ko.wikipedia.org/wiki/XML "wikilink")을 사용한다.
+스콤 2004에는 계열화의 개념이 도입되었다. 계열화는 학습자가 콘텐츠 객체들을 학습할 수 있도록 하는 특정한 규칙들의 집합이다. 스콤 표준안은 [AICC](https://ko.wikipedia.org/wiki/AICC "wikilink"), [IMS 글로벌](https://ko.wikipedia.org/wiki/IMS_글로벌 "wikilink"), [IEEE](https://ko.wikipedia.org/wiki/IEEE "wikilink")에서 개발한 표준을 바탕으로 한 것으로, [XML](../Page/XML.md "wikilink")을 사용한다.
 
 ## 개요
 

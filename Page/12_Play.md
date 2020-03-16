@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [12 Play](https://ko.wikipedia.org/wiki/12_Play).
 
 
-《**12 Play**》는 [R\&B](https://ko.wikipedia.org/wiki/R&B "wikilink") 가수 [R. 켈리의](../Page/R._켈리.md "wikilink") 첫 번째 솔로 음반이다. R. 켈리는 [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") 가을에 이 음반을 냈다. R\&B 음반업계와 팬들로부터 R\&B 음악의 고전 명작이라고 인정받고 있다. 알 켈리가 그의 밴드 퍼블릭 어나운스먼트(Public Announcement)를 막 떠나 발표한 첫 번째 음반이었는데, 이 음반은 R\&B 계에서의 그의 위치를 확고히 해주었다. 이 음반은 남녀간의 사랑에 대한 찬가인 〈Bump n' Grind〉(미국 차트 1위), 〈Your Body's Calling〉(미국 차트 13위) 등을 수록하고 있다. 노골적인 가사를 담고 있는〈Sex Me, Pts. 1 & 2〉(미국 차트 20위) 도 이 음반에 들어 있는 곡 중 하나이다. 이 앨범은 알 켈리의 “12 Play” 제하의 TP 4부작 중 하나이다. 4부작은《[TP-2.com](https://ko.wikipedia.org/wiki/TP-2.com "wikilink") 》(2000년) 《[TP-3: Reloaded](https://ko.wikipedia.org/wiki/TP-3:_Reloaded "wikilink") 》(2005년), 《[12 Play: Fourth Quarter](https://ko.wikipedia.org/wiki/12_Play:_Fourth_Quarter "wikilink")》(2008년) 등으로 구성된다.
+《**12 Play**》는 [R\&B](https://ko.wikipedia.org/wiki/R&B "wikilink") 가수 [R. 켈리의](../Page/R._켈리.md "wikilink") 첫 번째 솔로 음반이다. R. 켈리는 [1993년](../Page/1993년.md "wikilink") 가을에 이 음반을 냈다. R\&B 음반업계와 팬들로부터 R\&B 음악의 고전 명작이라고 인정받고 있다. 알 켈리가 그의 밴드 퍼블릭 어나운스먼트(Public Announcement)를 막 떠나 발표한 첫 번째 음반이었는데, 이 음반은 R\&B 계에서의 그의 위치를 확고히 해주었다. 이 음반은 남녀간의 사랑에 대한 찬가인 〈Bump n' Grind〉(미국 차트 1위), 〈Your Body's Calling〉(미국 차트 13위) 등을 수록하고 있다. 노골적인 가사를 담고 있는〈Sex Me, Pts. 1 & 2〉(미국 차트 20위) 도 이 음반에 들어 있는 곡 중 하나이다. 이 앨범은 알 켈리의 “12 Play” 제하의 TP 4부작 중 하나이다. 4부작은《[TP-2.com](https://ko.wikipedia.org/wiki/TP-2.com "wikilink") 》(2000년) 《[TP-3: Reloaded](https://ko.wikipedia.org/wiki/TP-3:_Reloaded "wikilink") 》(2005년), 《[12 Play: Fourth Quarter](https://ko.wikipedia.org/wiki/12_Play:_Fourth_Quarter "wikilink")》(2008년) 등으로 구성된다.
 
 ## 수록곡
 
@@ -24,7 +24,7 @@
 
 ### Bump n' Grind
 
-〈Bump n' Grind〉는 미국 [빌보드 핫 100](../Page/빌보드_핫_100.md "wikilink") 차트 1위를 기록하였는데, 이것은 [에이스 오브 베이스의](../Page/에이스_오브_베이스.md "wikilink") 〈[더 사인](https://ko.wikipedia.org/wiki/더_사인 "wikilink")〉을 누른 것이었다. 또한 〈Bump n' Grind〉는 핫 R\&B(Hot R\&B Songs) 차트에서는 12주간 1위를 기록하였다. 당시 사상 최장 기록이었다. [영국](https://ko.wikipedia.org/wiki/영국 "wikilink") 차트에서는 8위를 기록하였다.
+〈Bump n' Grind〉는 미국 [빌보드 핫 100](../Page/빌보드_핫_100.md "wikilink") 차트 1위를 기록하였는데, 이것은 [에이스 오브 베이스의](../Page/에이스_오브_베이스.md "wikilink") 〈[더 사인](https://ko.wikipedia.org/wiki/더_사인 "wikilink")〉을 누른 것이었다. 또한 〈Bump n' Grind〉는 핫 R\&B(Hot R\&B Songs) 차트에서는 12주간 1위를 기록하였다. 당시 사상 최장 기록이었다. [영국](../Page/영국.md "wikilink") 차트에서는 8위를 기록하였다.
 
 〈Bump n' Grind〉는 영화 《위드다웃 어 패들》 (2004년), 《더 웩크니스》 (2008년)에 삽입되었다. 게임 《[그랜드 테프트 오토 IV](../Page/그랜드_테프트_오토_IV.md "wikilink")》에는, 게임 상의 R\&B 라디오 방송국인 바이브 98.8 방송국이 선곡하는 식으로 삽입되었다.
 

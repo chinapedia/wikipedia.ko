@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [  RPG](https://ko.wikipedia.org/wiki/__RPG).
 
 
-**페이퍼 마리오 RPG**(, )는 [RPG](https://ko.wikipedia.org/wiki/RPG "wikilink") 형식의 비디오 게임으로, [인텔리전트 시스템즈에서](https://ko.wikipedia.org/wiki/인텔리전트_시스템즈 "wikilink") 개발, [닌텐도](https://ko.wikipedia.org/wiki/닌텐도 "wikilink")를 통해 보급되었다. 페이퍼 마리오 RPG는 마리오 RPG 시리즈의 4번째이자 페이퍼 마리오 시리즈의 2번째 게임이다.
+**페이퍼 마리오 RPG**(, )는 [RPG](https://ko.wikipedia.org/wiki/RPG "wikilink") 형식의 비디오 게임으로, [인텔리전트 시스템즈에서](../Page/인텔리전트_시스템즈.md "wikilink") 개발, [닌텐도](../Page/닌텐도.md "wikilink")를 통해 보급되었다. 페이퍼 마리오 RPG는 마리오 RPG 시리즈의 4번째이자 페이퍼 마리오 시리즈의 2번째 게임이다.
 
-페이퍼 마리오 RPG의 게임 요소는 대부분이 전작인 [닌텐도 64용](https://ko.wikipedia.org/wiki/닌텐도_64 "wikilink") [페이퍼 마리오에서](https://ko.wikipedia.org/wiki/페이퍼_마리오 "wikilink") 빌려 온 것들이다. 예를 들면 턴제 방식의 전투와 강조된 액션, 그리고 페이퍼 테마 등이다. 플레이어는 기본적으로 주인공인 [마리오](../Page/마리오.md "wikilink")를 컨트롤하고, 일부 상황에서는 [피치나](../Page/피치_공주.md "wikilink") [쿠파도](https://ko.wikipedia.org/wiki/쿠파_\(게임_캐릭터\) "wikilink") 컨트롤이 가능하다. 이 게임의 스토리는 메가 밧텐 군단(, )으로부터 7개의 크리스탈 스타를 되찾고 피치를 구해내기 위한 마리오의 모험을 다루고 있다.
+페이퍼 마리오 RPG의 게임 요소는 대부분이 전작인 [닌텐도 64용](../Page/닌텐도_64.md "wikilink") [페이퍼 마리오에서](https://ko.wikipedia.org/wiki/페이퍼_마리오 "wikilink") 빌려 온 것들이다. 예를 들면 턴제 방식의 전투와 강조된 액션, 그리고 페이퍼 테마 등이다. 플레이어는 기본적으로 주인공인 [마리오](../Page/마리오.md "wikilink")를 컨트롤하고, 일부 상황에서는 [피치나](../Page/피치_공주.md "wikilink") [쿠파도](https://ko.wikipedia.org/wiki/쿠파_\(게임_캐릭터\) "wikilink") 컨트롤이 가능하다. 이 게임의 스토리는 메가 밧텐 군단(, )으로부터 7개의 크리스탈 스타를 되찾고 피치를 구해내기 위한 마리오의 모험을 다루고 있다.
 
 ## 게임 플레이
 
@@ -23,13 +23,13 @@
 
 ## 역사
 
-2003년, 닌텐도는 [게임 개발자 회의에서](../Page/게임_개발자_회의.md "wikilink") 처음으로 페이퍼 마리오 RPG를 발표하기에 이른다. 발매 전, 이 게임은 [닌텐도 64용인](https://ko.wikipedia.org/wiki/닌텐도_64 "wikilink") [페이퍼 마리오의](https://ko.wikipedia.org/wiki/페이퍼_마리오 "wikilink") 후속작으로 일본에는 마리오 스토리 2, 미국에는 페이퍼 마리오 2로 알려진 상태였다.
+2003년, 닌텐도는 [게임 개발자 회의에서](../Page/게임_개발자_회의.md "wikilink") 처음으로 페이퍼 마리오 RPG를 발표하기에 이른다. 발매 전, 이 게임은 [닌텐도 64용인](../Page/닌텐도_64.md "wikilink") [페이퍼 마리오의](https://ko.wikipedia.org/wiki/페이퍼_마리오 "wikilink") 후속작으로 일본에는 마리오 스토리 2, 미국에는 페이퍼 마리오 2로 알려진 상태였다.
 
 2004년, [E3](https://ko.wikipedia.org/wiki/E3 "wikilink")에서 이 게임의 베타 버전이 공개된다. 당시 베타 버전에서는 첫 번째 보스 성과 쿠파 스테이지 등을 강조했다.
 
 같은 해 10월 11일, 페이퍼 마리오 RPG가 *페이퍼 마리오 - 천년의 문* 이라는 제목으로 미국에서 발매되었다.
 
-이 게임의 후속작인 [슈퍼 페이퍼 마리오는](../Page/슈퍼_페이퍼_마리오.md "wikilink") 2007년 [인텔리전트 시스템](https://ko.wikipedia.org/wiki/인텔리전트_시스템 "wikilink") 제작, [Wii](https://ko.wikipedia.org/wiki/Wii "wikilink")로 발매되었다. 슈퍼 페이퍼 마리오는 플랫포머 기반에 중점을 둔 게임으로 페이퍼 마리오 RPG와는 다른 세계관을 가지고 있으나, 전작의 캐릭터들과 관련된 [이스터 에그를](https://ko.wikipedia.org/wiki/이스터_에그 "wikilink") 포함하고 있다.
+이 게임의 후속작인 [슈퍼 페이퍼 마리오는](../Page/슈퍼_페이퍼_마리오.md "wikilink") 2007년 [인텔리전트 시스템](https://ko.wikipedia.org/wiki/인텔리전트_시스템 "wikilink") 제작, [Wii](../Page/Wii.md "wikilink")로 발매되었다. 슈퍼 페이퍼 마리오는 플랫포머 기반에 중점을 둔 게임으로 페이퍼 마리오 RPG와는 다른 세계관을 가지고 있으나, 전작의 캐릭터들과 관련된 [이스터 에그를](https://ko.wikipedia.org/wiki/이스터_에그 "wikilink") 포함하고 있다.
 
 ## 평가
 

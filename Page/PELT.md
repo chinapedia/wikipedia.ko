@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [PELT](https://ko.wikipedia.org/wiki/PELT).
 
 
-**PELT**(Practical English Language Test)는 [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") 한국외국어평가원에서 개발한 국가공인 민간자격 실용영어 시험의 약자이다.
+**PELT**(Practical English Language Test)는 [2002년](../Page/2002년.md "wikilink") 한국외국어평가원에서 개발한 국가공인 민간자격 실용영어 시험의 약자이다.
 
 ## 개요
 
@@ -22,8 +22,8 @@
 
 ## 같이 보기
 
-  - [TOSEL](https://ko.wikipedia.org/wiki/TOSEL "wikilink")
-  - [TEPS](https://ko.wikipedia.org/wiki/TEPS "wikilink")
+  - [TOSEL](../Page/TOSEL.md "wikilink")
+  - [TEPS](../Page/TEPS.md "wikilink")
 
 ## 각주
 

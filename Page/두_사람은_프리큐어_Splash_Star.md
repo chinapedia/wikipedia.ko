@@ -9,21 +9,21 @@
 
   - [아사히 방송](../Page/아사히_방송.md "wikilink") 및 [TV 아사히 계열국을](../Page/올_닛폰_뉴스_네트워크.md "wikilink") 통해 2006년 2월 5일부터 2007년 1월 28일까지 방영되었다. 2006년 12월 9일에 극장판이 개봉되었다.
   - [프리큐어 시리즈](https://ko.wikipedia.org/wiki/프리큐어_시리즈 "wikilink") 통상 3번째 작품이자 2대 프리큐어에 해당되는 작품. 본 작품부터 프리큐어는 주인공과 세계관이 새롭게 바뀌는 형식을 취했다. 2004년 방영할때부터 스탭 사이에 "캐릭터는 바꾸어도 시리즈로서 계속해 갈 수 있으면 좋겠다"라고 해서 기획된 애니메이션이다.
-  - 원래는 전작 및 후속작과 마찬가지로 2기도 나오려고 했으나 후속작인 [Yes\! 프리큐어5](https://ko.wikipedia.org/wiki/Yes!_프리큐어5 "wikilink") 제작이 결정되면서 2기에 나와야할 큐어 브라이트와 큐어 윈디가 후반부에 한 작품에서 통합되어 나오게 되었다.
-  - 프리큐어 시리즈 중 최초로 캐릭터들에 광물색 계열(금색, 은색)을 설정한 작품이다. 이후 [하트캐치 프리큐어\!에서도](https://ko.wikipedia.org/wiki/하트캐치_프리큐어! "wikilink") 이어진다.
+  - 원래는 전작 및 후속작과 마찬가지로 2기도 나오려고 했으나 후속작인 [Yes\! 프리큐어5](../Page/Yes!_프리큐어5.md "wikilink") 제작이 결정되면서 2기에 나와야할 큐어 브라이트와 큐어 윈디가 후반부에 한 작품에서 통합되어 나오게 되었다.
+  - 프리큐어 시리즈 중 최초로 캐릭터들에 광물색 계열(금색, 은색)을 설정한 작품이다. 이후 [하트캐치 프리큐어\!에서도](../Page/하트캐치_프리큐어!.md "wikilink") 이어진다.
   - 전작인 프리큐어 Max Heart와는 달리 최초로 중간에 등장하는 프리큐어 신전사가 없다. 이는 후에 방영될 [스마일 프리큐어\!에서도](../Page/스마일_프리큐어!.md "wikilink") 이어진다.
-  - 대한민국에서는 [애니원](https://ko.wikipedia.org/wiki/애니원 "wikilink")과 [챔프TV](https://ko.wikipedia.org/wiki/챔프TV "wikilink")(대원방송 계열국)를 통해 2008년 10월 1일 《**프리큐어 Splash Star**》라는 타이틀로 방영되었으며, 이벤트로 당선된 시청자들이 직접 주제가에 참여했다.
+  - 대한민국에서는 [애니원](../Page/애니원.md "wikilink")과 [챔프TV](../Page/챔프TV.md "wikilink")(대원방송 계열국)를 통해 2008년 10월 1일 《**프리큐어 Splash Star**》라는 타이틀로 방영되었으며, 이벤트로 당선된 시청자들이 직접 주제가에 참여했다.
 
 ## 등장인물
 
 ### 프리큐어
 
   - [휴가 사키](../Page/휴가_사키.md "wikilink")(김소라) / [큐어 블룸](https://ko.wikipedia.org/wiki/#큐어_블룸 "wikilink") / [큐어 브라이트](https://ko.wikipedia.org/wiki/#큐어_브라이트 "wikilink")( /  / )
-    성우 - [키모토 오리에](../Page/키모토_오리에.md "wikilink") / [윤성혜](https://ko.wikipedia.org/wiki/윤성혜_\(성우\) "wikilink")
-    유우나기 중학교 2학년. 소프트볼 부 소속으로 포지션은 투수와 4번타자. 1화에서 10타자 연속 탈삼진을 달성하며, 소프트볼 부의 에이스로 활약중이다. 생일은 [8월 7일이며](https://ko.wikipedia.org/wiki/8월_7일 "wikilink"), 혈액형은 [O형](https://ko.wikipedia.org/wiki/O형 "wikilink"). 말버릇은 "**완전 짱입니다요\~()**". 공부와 그림실력은 별로지만, 언제나 밝고 명랑하며, 그 자리에 있는것만으로도 주위를 환하게 만드는 분위기 메이커. 마이의 오빠 카즈야로부터 "한여름 해바라기같은 아이"라 평가받았다. 반면에 한 번 화가 나면 용서해 줄 때까지 시간이 오래 걸리는 고집 센 면도 있다. 아침잠이 많아 자주 늦잠을 자는 버릇이 있다. 어릴 적부터 부모님에게서 자연과 물건의 소중함에 대해서 배웠다. 마이의 오빠 카즈야에게 남몰래 연심을 품고 있으며, 그 앞에서만 서면 평소 활발한 모습은 온데간데없이 급 온순해진다. 집은 부모님이 운영하는 '베이커리 PANPAKA빵'이라는 빵집. 가장 좋아하는 음식은 [초코](https://ko.wikipedia.org/wiki/초코 "wikilink") [소라빵](https://ko.wikipedia.org/wiki/소라빵 "wikilink"). 여동생 1명이 있다.
+    성우 - [키모토 오리에](../Page/키모토_오리에.md "wikilink") / [윤성혜](../Page/윤성혜_\(성우\).md "wikilink")
+    유우나기 중학교 2학년. 소프트볼 부 소속으로 포지션은 투수와 4번타자. 1화에서 10타자 연속 탈삼진을 달성하며, 소프트볼 부의 에이스로 활약중이다. 생일은 [8월 7일이며](../Page/8월_7일.md "wikilink"), 혈액형은 [O형](https://ko.wikipedia.org/wiki/O형 "wikilink"). 말버릇은 "**완전 짱입니다요\~()**". 공부와 그림실력은 별로지만, 언제나 밝고 명랑하며, 그 자리에 있는것만으로도 주위를 환하게 만드는 분위기 메이커. 마이의 오빠 카즈야로부터 "한여름 해바라기같은 아이"라 평가받았다. 반면에 한 번 화가 나면 용서해 줄 때까지 시간이 오래 걸리는 고집 센 면도 있다. 아침잠이 많아 자주 늦잠을 자는 버릇이 있다. 어릴 적부터 부모님에게서 자연과 물건의 소중함에 대해서 배웠다. 마이의 오빠 카즈야에게 남몰래 연심을 품고 있으며, 그 앞에서만 서면 평소 활발한 모습은 온데간데없이 급 온순해진다. 집은 부모님이 운영하는 '베이커리 PANPAKA빵'이라는 빵집. 가장 좋아하는 음식은 [초코](https://ko.wikipedia.org/wiki/초코 "wikilink") [소라빵](https://ko.wikipedia.org/wiki/소라빵 "wikilink"). 여동생 1명이 있다.
   - [미쇼 마이](../Page/미쇼_마이.md "wikilink")(이보라) / [큐어 이그렛](https://ko.wikipedia.org/wiki/#큐어_이그렛 "wikilink") / [큐어 윈디](https://ko.wikipedia.org/wiki/#큐어_윈디 "wikilink")( /  / )
     성우 - [에노모토 아츠코](../Page/에노모토_아츠코.md "wikilink") / [정윤정](https://ko.wikipedia.org/wiki/정윤정 "wikilink")
-    유우나기로 전학 온 중학교 2학년. 생일은 [11월 20일이며](https://ko.wikipedia.org/wiki/11월_20일 "wikilink"), 혈액형은 [AB형](https://ko.wikipedia.org/wiki/AB형 "wikilink"). 5년전 유우나기에서 살았었으며, 다른 지역에 이사갔다가 1화에서 다시 이사온다. 조용하고 차분한 성격이며, 섬세한 기질이 있어 눈치가 빠르다. 단짝친구인 사키를 소중히 생각하며, 사키가 소프트볼의 시합에서 지거나 긴장하고 있을 때 그 심정을 누구보다 먼저 헤아려 사키를 응원해주거나 격려해주지만, 때로는 고민하거나 우울할 때 그녀의 밝은 성격에 용기를 얻기도 한다. 그림 그리는 것을 아주 좋아하며, 감수성이 풍부하고 미적 감각이 뛰어나다. 그림그리기에 너무 집중한 나머지 누군가 자신을 불러도 못알아챌 때가 많다. 이를 본 사키의 추천으로 미술 부에 입부한다. 그림실력 뿐만 아니라 머리도 좋아 성적도 우수하며, 재봉에도 소질이 있다. 가족은 천문학자인 아버지와 고고학자인 어머니, 오빠 1명이 있다.
+    유우나기로 전학 온 중학교 2학년. 생일은 [11월 20일이며](../Page/11월_20일.md "wikilink"), 혈액형은 [AB형](https://ko.wikipedia.org/wiki/AB형 "wikilink"). 5년전 유우나기에서 살았었으며, 다른 지역에 이사갔다가 1화에서 다시 이사온다. 조용하고 차분한 성격이며, 섬세한 기질이 있어 눈치가 빠르다. 단짝친구인 사키를 소중히 생각하며, 사키가 소프트볼의 시합에서 지거나 긴장하고 있을 때 그 심정을 누구보다 먼저 헤아려 사키를 응원해주거나 격려해주지만, 때로는 고민하거나 우울할 때 그녀의 밝은 성격에 용기를 얻기도 한다. 그림 그리는 것을 아주 좋아하며, 감수성이 풍부하고 미적 감각이 뛰어나다. 그림그리기에 너무 집중한 나머지 누군가 자신을 불러도 못알아챌 때가 많다. 이를 본 사키의 추천으로 미술 부에 입부한다. 그림실력 뿐만 아니라 머리도 좋아 성적도 우수하며, 재봉에도 소질이 있다. 가족은 천문학자인 아버지와 고고학자인 어머니, 오빠 1명이 있다.
 
 ### 샘의 고향
 
@@ -70,7 +70,7 @@
 #### 미쇼 일가
 
   - 미쇼 카즈야(이혁)()
-    성우 - [노지마 켄지](https://ko.wikipedia.org/wiki/노지마_켄지_\(성우\) "wikilink") / [이상헌](https://ko.wikipedia.org/wiki/이상헌 "wikilink")
+    성우 - [노지마 켄지](../Page/노지마_켄지_\(성우\).md "wikilink") / [이상헌](https://ko.wikipedia.org/wiki/이상헌 "wikilink")
     마이의 오빠로 미쇼 가의 장남. 세이카이 고등학교 2학년으로 우주 비행사를 목표로 공부하고 있다. 사키의 연심의 대상. 문화제 당시 동아리 준비로 고민한 적이 있었으나 사키의 조언을 듣고 해결하기도 했으며, 사키의 생일에는 운석의 파편을 선물하기도 했다. 사키의 친구인 켄타가 아끼던 책에 홍차를 엎었을때도 상관하지 않을 정도의 대인배. 우주에 가서도 뼈를 튼튼하게 하기 위해 우유를 많이 마신다고 한다. 크리스마스때는 여자친구로 추정되는 인물을 데리고 와 사키의 오해를 사기도 했으나 사실은 케이크를 예약하러 온 반 친구였다.
 
 ### 유우나기 중학교
@@ -87,7 +87,7 @@
     성우 - [효우세이](https://ko.wikipedia.org/wiki/효우세이 "wikilink")
     유우나기 중학교의 교사로 담당 과목은 영어. 사키와 마이,키류 자매의 담임선생님이자 소프트볼부의 고문이기도 하다. 말버릇은 never give up. 미즈 시타타레가 똑같이 변신하여 사키와 마이에게 태양의 호수의 위치를 알아내라고 협박하기도 했다.
   - 이토 히토미()
-    성우 - [오노 료코](https://ko.wikipedia.org/wiki/오노_료코 "wikilink")
+    성우 - [오노 료코](../Page/오노_료코.md "wikilink")
     사키와 마이의 반 친구. 꽤 키가 크다. 대부분 오오타 유코와 함께 행동하며, 사키, 유코와 함께 소프트볼 부에 소속되어 있다. 등번호는 3번. 말버릇으로 "진짜()"라는 단어를 자주 붙이는 특징이 있다.
   - 오오타 유코()
     성우 - [죠 마사코](https://ko.wikipedia.org/wiki/죠_마사코 "wikilink")
@@ -112,7 +112,7 @@
 
 "**아름다운 은빛 날개, 큐어 이그렛\!()**"
 
-마이가 변신하는 [천공의](https://ko.wikipedia.org/wiki/하늘 "wikilink") 프리큐어. 디자인의 모티브는 화조풍월(花鳥風月)의 새. 이미지 컬러는 화이트. 프리큐어 테마색은 [은색](https://ko.wikipedia.org/wiki/은색 "wikilink"). 대사에선 은색이라 말하고 있지만, 변신 후 복장의 기본 테마색은 유백색과 은백색으로, 백로의 날개처럼 좌우로 펼친 스커트를 입고 있다. 변신전보다 선명하고 짙은 보라색 머리의 포니테일이 특징. 전투 스타일은 천공의 힘을 빌린 기술과 공중전을 이용한 육탄전을 주체로, 주로 발차기를 사용한다. 큐어 블룸과 마찬가지로 정령의 힘으로 배리어를 사용할 수 있다.
+마이가 변신하는 [천공의](../Page/하늘.md "wikilink") 프리큐어. 디자인의 모티브는 화조풍월(花鳥風月)의 새. 이미지 컬러는 화이트. 프리큐어 테마색은 [은색](https://ko.wikipedia.org/wiki/은색 "wikilink"). 대사에선 은색이라 말하고 있지만, 변신 후 복장의 기본 테마색은 유백색과 은백색으로, 백로의 날개처럼 좌우로 펼친 스커트를 입고 있다. 변신전보다 선명하고 짙은 보라색 머리의 포니테일이 특징. 전투 스타일은 천공의 힘을 빌린 기술과 공중전을 이용한 육탄전을 주체로, 주로 발차기를 사용한다. 큐어 블룸과 마찬가지로 정령의 힘으로 배리어를 사용할 수 있다.
 
 ### 큐어 브라이트
 
@@ -129,57 +129,57 @@
 ## 극장판
 
   - [영화 두 사람은 프리큐어 Splash Star 똑딱똑딱 위기일발\!](https://ko.wikipedia.org/wiki/:ja:映画_ふたりはプリキュア_Splash_Star_チクタク危機一髪! "wikilink")
-    [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [12월 9일](https://ko.wikipedia.org/wiki/12월_9일 "wikilink") 공개.
+    [2006년](../Page/2006년.md "wikilink") [12월 9일](../Page/12월_9일.md "wikilink") 공개.
 
 <!-- end list -->
 
   - 프리큐어 Splash Star 매직★두근♥ 3D 시어터
-    2006년부터 개봉한 시리즈 첫 3D 영화 상영 시간 12분. 또, 「프리큐어 Splash Star 매직★두근♥」의 제목으로 시리즈 최초의 대형 영상화를 칭송한 [IMAX 극장](https://ko.wikipedia.org/wiki/아이맥스 "wikilink") 대응판도 제작되고 있다. [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [10월 17일](https://ko.wikipedia.org/wiki/10월_17일 "wikilink") 발매 「두 사람은 프리큐어 Splash Star DVD-BOX vol.2」에 영상 특전으로 2D 영상판이 수록.
+    2006년부터 개봉한 시리즈 첫 3D 영화 상영 시간 12분. 또, 「프리큐어 Splash Star 매직★두근♥」의 제목으로 시리즈 최초의 대형 영상화를 칭송한 [IMAX 극장](../Page/아이맥스.md "wikilink") 대응판도 제작되고 있다. [2012년](../Page/2012년.md "wikilink") [10월 17일](../Page/10월_17일.md "wikilink") 발매 「두 사람은 프리큐어 Splash Star DVD-BOX vol.2」에 영상 특전으로 2D 영상판이 수록.
 
 ### 크로스 오버 극장판
 
   - [영화 프리큐어 올스타즈 DX 모두 친구☆기적의 전원 대집합\!](https://ko.wikipedia.org/wiki/:ja:映画_プリキュアオールスターズ_DX_みんなともだちっ☆奇跡の全員大集合! "wikilink")
-    [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [3월 20일](https://ko.wikipedia.org/wiki/3월_20일 "wikilink") 공개.
+    [2009년](../Page/2009년.md "wikilink") [3월 20일](../Page/3월_20일.md "wikilink") 공개.
 
 <!-- end list -->
 
   - [영화 프리큐어 올스타즈 DX2 희망의 빛☆레인보우 쥬얼을 지켜라\!](https://ko.wikipedia.org/wiki/:ja:映画_プリキュアオールスターズ_DX2_希望の光☆レインボージュエルを守れ! "wikilink")
-    [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [3월 20일](https://ko.wikipedia.org/wiki/3월_20일 "wikilink") 공개.
+    [2010년](../Page/2010년.md "wikilink") [3월 20일](../Page/3월_20일.md "wikilink") 공개.
 
 <!-- end list -->
 
   - [영화 프리큐어 올스타즈 DX3 미래에 닿아라\! 세계를 잇는☆무지갯빛 꽃](https://ko.wikipedia.org/wiki/:ja:映画_プリキュアオールスターズ_DX3_未来にとどけ!_世界をつなぐ☆虹色の花 "wikilink")
-    [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [3월 19일](https://ko.wikipedia.org/wiki/3월_19일 "wikilink") 공개.
+    [2011년](../Page/2011년.md "wikilink") [3월 19일](../Page/3월_19일.md "wikilink") 공개.
 
 <!-- end list -->
 
   - [영화 프리큐어 올스타즈 뉴 스테이지 미래의 친구](https://ko.wikipedia.org/wiki/:ja:映画_プリキュアオールスターズ_New_Stage_みらいのともだち "wikilink")
-    [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [3월 17일](https://ko.wikipedia.org/wiki/3월_17일 "wikilink") 공개.
+    [2012년](../Page/2012년.md "wikilink") [3월 17일](../Page/3월_17일.md "wikilink") 공개.
 
 <!-- end list -->
 
   - [영화 프리큐어 올스타즈 뉴 스테이지 2 마음의 친구](https://ko.wikipedia.org/wiki/:ja:映画_プリキュアオールスターズ_New_Stage_2_こころのともだち "wikilink")
-    [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [3월 16일](https://ko.wikipedia.org/wiki/3월_16일 "wikilink") 공개.
+    [2013년](../Page/2013년.md "wikilink") [3월 16일](../Page/3월_16일.md "wikilink") 공개.
 
 <!-- end list -->
 
   - [영화 프리큐어 올스타즈 뉴 스테이지 3 영원의 친구](https://ko.wikipedia.org/wiki/:ja:映画_プリキュアオールスターズ_New_Stage_3_永遠のともだち "wikilink")
-    [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [3월 15일](https://ko.wikipedia.org/wiki/3월_15일 "wikilink") 공개.
+    [2014년](../Page/2014년.md "wikilink") [3월 15일](../Page/3월_15일.md "wikilink") 공개.
 
 <!-- end list -->
 
   - [영화 프리큐어 올스타즈 봄의 카니발♪](https://ko.wikipedia.org/wiki/:ja:映画_プリキュアオールスターズ_春のカーニバル♪ "wikilink")
-    [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [3월 14일](https://ko.wikipedia.org/wiki/3월_14일 "wikilink") 공개.
+    [2015년](../Page/2015년.md "wikilink") [3월 14일](../Page/3월_14일.md "wikilink") 공개.
 
 <!-- end list -->
 
   - [영화 프리큐어 올스타즈 모두 함께 노래하다♪ 기적의 마법\!](https://ko.wikipedia.org/wiki/:ja:映画_プリキュアオールスターズ_みんなで歌う♪奇跡の魔法! "wikilink")
-    [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [3월 19일](https://ko.wikipedia.org/wiki/3월_19일 "wikilink") 공개.
+    [2016년](../Page/2016년.md "wikilink") [3월 19일](../Page/3월_19일.md "wikilink") 공개.
 
 <!-- end list -->
 
   - [영화 허긋토\! 프리큐어♡두 사람은 프리큐어 올스타즈 메모리즈](https://ko.wikipedia.org/wiki/:ja:映画_HUGっと!プリキュア・ふたりはプリキュア_オールスターズメモリーズ "wikilink")
-    [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [10월 27일](https://ko.wikipedia.org/wiki/10월_27일 "wikilink") 공개. 프리큐어 15주년 기념작으로, 전작인 [두 사람은 프리큐어](https://ko.wikipedia.org/wiki/두_사람은_프리큐어 "wikilink") 외 프리큐어 전 작품을 콜라보한 크로스 오버 작품이다.
+    [2018년](../Page/2018년.md "wikilink") [10월 27일](../Page/10월_27일.md "wikilink") 공개. 프리큐어 15주년 기념작으로, 전작인 [두 사람은 프리큐어](https://ko.wikipedia.org/wiki/두_사람은_프리큐어 "wikilink") 외 프리큐어 전 작품을 콜라보한 크로스 오버 작품이다.
 
 ## 외부 링크
 

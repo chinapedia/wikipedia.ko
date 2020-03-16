@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Twm](https://ko.wikipedia.org/wiki/Twm).
 
 
-**twm**(Tom's Window Manager → Tab Window Manager → Timeless Windows Manager)은 [X 윈도 시스템의](../Page/X_윈도_시스템.md "wikilink") 초창기 [창관리자](https://ko.wikipedia.org/wiki/창관리자 "wikilink") 가운데 하나다. Tom LaStrange가 만들었다. 사용자 입맛대로 고칠 수 있는 부분이 많으며 처음 나왔을 때는 혁신적인 [창관리자](https://ko.wikipedia.org/wiki/창관리자 "wikilink")로 평가되기도 했으며 [X윈도](https://ko.wikipedia.org/wiki/X윈도 "wikilink")의 개발에 큰 영향을 주었다. [C](https://ko.wikipedia.org/wiki/C "wikilink")로 만들어졌으며 [GTK+](https://ko.wikipedia.org/wiki/GTK+ "wikilink"), [Qt같은](https://ko.wikipedia.org/wiki/Qt_\(툴킷\) "wikilink") 별도의 툴킷을 쓰지 않고 [xlib](https://ko.wikipedia.org/wiki/xlib "wikilink")을 직접 썼다. [크노픽스](../Page/크노픽스.md "wikilink")가 twm을 기본으로 탑재하고 있다.
+**twm**(Tom's Window Manager → Tab Window Manager → Timeless Windows Manager)은 [X 윈도 시스템의](../Page/X_윈도_시스템.md "wikilink") 초창기 [창관리자](https://ko.wikipedia.org/wiki/창관리자 "wikilink") 가운데 하나다. Tom LaStrange가 만들었다. 사용자 입맛대로 고칠 수 있는 부분이 많으며 처음 나왔을 때는 혁신적인 [창관리자](https://ko.wikipedia.org/wiki/창관리자 "wikilink")로 평가되기도 했으며 [X윈도](https://ko.wikipedia.org/wiki/X윈도 "wikilink")의 개발에 큰 영향을 주었다. [C](../Page/C.md "wikilink")로 만들어졌으며 [GTK+](../Page/GTK+.md "wikilink"), [Qt같은](https://ko.wikipedia.org/wiki/Qt_\(툴킷\) "wikilink") 별도의 툴킷을 쓰지 않고 [xlib](https://ko.wikipedia.org/wiki/xlib "wikilink")을 직접 썼다. [크노픽스](../Page/크노픽스.md "wikilink")가 twm을 기본으로 탑재하고 있다.
 
 [MIT 라이선스를](https://ko.wikipedia.org/wiki/MIT_라이선스 "wikilink") 따르며 2009년 1월 29일 기준 최신판은 **1.0.4**다.
 
 ## 걸어온 길
 
-twm은 1987년 Evans and Sutherland에서 일하던 Tom LaStrange가 [UWM](https://ko.wikipedia.org/wiki/UWM "wikilink")에 불만을 느껴 만들었고 1988년 6월 13일 X11R1용 twm이 [유즈넷](https://ko.wikipedia.org/wiki/유즈넷 "wikilink")의 comp.unix.sources를 통해 나왔다.
+twm은 1987년 Evans and Sutherland에서 일하던 Tom LaStrange가 [UWM](https://ko.wikipedia.org/wiki/UWM "wikilink")에 불만을 느껴 만들었고 1988년 6월 13일 X11R1용 twm이 [유즈넷](../Page/유즈넷.md "wikilink")의 comp.unix.sources를 통해 나왔다.
 
 9달 뒤 MIT X Consortium의 Jim Fulton이 Tom LaStrange를 만났고 Tom LaStrange는 X Consortium으로 하여금 twm을 관리하게 했다. Jim Fulton은 twm을 Inter-Client Communication Conventions Manual에 맞게 바꿨으며 Keith Packard가 제목 틀(타이틀바)을 덧붙였다. 그 뒤 twm은 X11R4의 기본 GUI가 되었다.
 

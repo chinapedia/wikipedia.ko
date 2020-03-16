@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ HW](https://ko.wikipedia.org/wiki/_HW).
 
 
-**처녀자리 HW**()는 [처녀자리](https://ko.wikipedia.org/wiki/처녀자리 "wikilink") 방향으로 지구로부터 590광년 떨어져 있는 [알골형 변광성이자](../Page/알골형_변광성.md "wikilink") [근접쌍성](https://ko.wikipedia.org/wiki/근접쌍성 "wikilink")이다.
+**처녀자리 HW**()는 [처녀자리](../Page/처녀자리.md "wikilink") 방향으로 지구로부터 590광년 떨어져 있는 [알골형 변광성이자](../Page/알골형_변광성.md "wikilink") [근접쌍성](https://ko.wikipedia.org/wiki/근접쌍성 "wikilink")이다.
 
 ## 물리적 특징
 
@@ -15,7 +15,7 @@
 
 ## 행성계
 
-이 근접쌍성 처녀자리 HW에서 두 개의 행성이 발견되었다. 하나는 [처녀자리 HW c](https://ko.wikipedia.org/wiki/처녀자리_HW_c "wikilink") 로 질량은 8.47 M<sub>J</sub>이다. 그리고 9년에 한 번 궤도를 공전한다. 바깥에 있는 행성은 [처녀자리 HW b는](https://ko.wikipedia.org/wiki/처녀자리_HW_b "wikilink") 15.8년에 한 번 궤도를 공전하며 질량은 19.2 M<sub>J</sub>이다. 쌍성으로부터의 거리로 계산한 이들의 [표면 온도는](https://ko.wikipedia.org/wiki/표면_온도 "wikilink") c가 섭씨 영하 3도, b가 영하 43도로 추측된다.\[7\] 이 행성계는 대한민국 연구팀이 발견하였으며 최초의 이중 항성 행성계가 되었다.\[8\] 연구진은 소백산천문대 61센티미터 망원경과 충북대학교 천문우주학과 35센티미터 망원경을 이용하여 9년에 걸친 관측 끝에 성과를 보았으며,\[9\] '식쌍성의 극심시각 분석' 기법을 이용하여 최초로 행성을 발견한 사례로 기록되었다.\[10\]
+이 근접쌍성 처녀자리 HW에서 두 개의 행성이 발견되었다. 하나는 [처녀자리 HW c](../Page/처녀자리_HW_c.md "wikilink") 로 질량은 8.47 M<sub>J</sub>이다. 그리고 9년에 한 번 궤도를 공전한다. 바깥에 있는 행성은 [처녀자리 HW b는](https://ko.wikipedia.org/wiki/처녀자리_HW_b "wikilink") 15.8년에 한 번 궤도를 공전하며 질량은 19.2 M<sub>J</sub>이다. 쌍성으로부터의 거리로 계산한 이들의 [표면 온도는](https://ko.wikipedia.org/wiki/표면_온도 "wikilink") c가 섭씨 영하 3도, b가 영하 43도로 추측된다.\[7\] 이 행성계는 대한민국 연구팀이 발견하였으며 최초의 이중 항성 행성계가 되었다.\[8\] 연구진은 소백산천문대 61센티미터 망원경과 충북대학교 천문우주학과 35센티미터 망원경을 이용하여 9년에 걸친 관측 끝에 성과를 보았으며,\[9\] '식쌍성의 극심시각 분석' 기법을 이용하여 최초로 행성을 발견한 사례로 기록되었다.\[10\]
 
 질량으로 볼 때 가벼운 쪽인 c도 [슈퍼목성](https://ko.wikipedia.org/wiki/슈퍼목성 "wikilink")으로 볼 수 있으며, 무거운 b는 행성이라기보다는 [갈색 왜성일](https://ko.wikipedia.org/wiki/갈색_왜성 "wikilink") 가능성이 큰 것으로 보인다.
 
@@ -35,7 +35,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/처녀자리_HW_c" title="wikilink">c</a></p></td>
+<td><p><a href="../Page/처녀자리_HW_c.md" title="wikilink">c</a></p></td>
 <td><p>&gt;8.47 ± 0.02</p></td>
 <td><p>3.62 ± 0.52</p></td>
 <td><p>9.08 ± 0.22</p></td>
@@ -55,7 +55,7 @@
 
 ## 같이 보기
 
-  - [알골](https://ko.wikipedia.org/wiki/알골 "wikilink")
+  - [알골](../Page/알골.md "wikilink")
   - [용자리 CM](https://ko.wikipedia.org/wiki/용자리_CM "wikilink")
 
 ## 외부 링크

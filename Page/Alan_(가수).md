@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Alan \(\)](https://ko.wikipedia.org/wiki/Alan_\(\)).
 
 
-**알란**(alan, 본명: **알란 다와 돌마**(, ), [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink") [7월 25일](https://ko.wikipedia.org/wiki/7월_25일 "wikilink") \~ )은 [일본](../Page/일본.md "wikilink")에서 활동하는 [티베트족](https://ko.wikipedia.org/wiki/티베트족 "wikilink") 출신의 [중국인](https://ko.wikipedia.org/wiki/중국인 "wikilink") 여성 가수이다.
+**알란**(alan, 본명: **알란 다와 돌마**(, ), [1987년](../Page/1987년.md "wikilink") [7월 25일](../Page/7월_25일.md "wikilink") \~ )은 [일본](../Page/일본.md "wikilink")에서 활동하는 [티베트족](https://ko.wikipedia.org/wiki/티베트족 "wikilink") 출신의 [중국인](https://ko.wikipedia.org/wiki/중국인 "wikilink") 여성 가수이다.
 
 ## 발자취
 
   - [2007년 11월](../Page/2007년_11월.md "wikilink"), 각본가 [노지마 신지가](../Page/노지마_신지.md "wikilink") 작사를 담당한 《》로 데뷔했다.
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink"), [영화](../Page/영화.md "wikilink") 《[적벽대전: 거대한 전쟁의 시작](../Page/적벽대전:_거대한_전쟁의_시작.md "wikilink")》의 전 세계 주제가를 노래했다.
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [3월 4일에](https://ko.wikipedia.org/wiki/3월_4일 "wikilink") 첫 번째 정규 음반인 《Voice of EARTH》를 발매했다.
+  - [2008년](../Page/2008년.md "wikilink"), [영화](../Page/영화.md "wikilink") 《[적벽대전: 거대한 전쟁의 시작](../Page/적벽대전:_거대한_전쟁의_시작.md "wikilink")》의 전 세계 주제가를 노래했다.
+  - [2009년](../Page/2009년.md "wikilink") [3월 4일에](../Page/3월_4일.md "wikilink") 첫 번째 정규 음반인 《Voice of EARTH》를 발매했다.
 
 ## 음반 목록
 

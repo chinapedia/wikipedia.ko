@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Hardboiled](https://ko.wikipedia.org/wiki/Hardboiled).
 
 
-***Hardboiled***(하드보일드)는 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [9월 23일에](https://ko.wikipedia.org/wiki/9월_23일 "wikilink") 발매된 [더블유 앤 웨일의](https://ko.wikipedia.org/wiki/더블유_앤_웨일 "wikilink") 정규 음반이다.
+***Hardboiled***(하드보일드)는 [2008년](../Page/2008년.md "wikilink") [9월 23일에](../Page/9월_23일.md "wikilink") 발매된 [더블유 앤 웨일의](https://ko.wikipedia.org/wiki/더블유_앤_웨일 "wikilink") 정규 음반이다.
 
 ## 개요
 
@@ -39,4 +39,4 @@
 1.  [김영하의](../Page/김영하_\(소설가\).md "wikilink") 동명 소설 "오빠가 돌아왔다"와 가사 내용상 관련은 없다.
 2.  SK 브로드밴드 광고에 사용되었다. W & Whale 을 대중에게 알리게 된 가장 큰 계기다 되었다.
 3.  드라마 [케세라세라](https://ko.wikipedia.org/wiki/케세라세라 "wikilink") OST 앨범에 먼저 수록되었다.
-4.  한국판 [포켓몬스터](https://ko.wikipedia.org/wiki/포켓몬스터 "wikilink") 극장판 11기 기라티나와 하늘의 꽃다발 쉐이미 엔딩 주제가이다.
+4.  한국판 [포켓몬스터](../Page/포켓몬스터.md "wikilink") 극장판 11기 기라티나와 하늘의 꽃다발 쉐이미 엔딩 주제가이다.

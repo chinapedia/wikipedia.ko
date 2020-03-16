@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TortoiseSVN](https://ko.wikipedia.org/wiki/TortoiseSVN).
 
 
-**TortoiseSVN**은 [마이크로소프트 윈도용](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") [서브버전](https://ko.wikipedia.org/wiki/서브버전 "wikilink") 클라이언트 프로그램이다. 설치하면 윈도 탐색기 [콘텍스트 메뉴에](https://ko.wikipedia.org/wiki/콘텍스트_메뉴 "wikilink") 등록되어 편리하게 이용할 수 있다. 또한 Merge, diff 툴을 기본으로 제공한다.\[1\]\[2\]
+**TortoiseSVN**은 [마이크로소프트 윈도용](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") [서브버전](../Page/서브버전.md "wikilink") 클라이언트 프로그램이다. 설치하면 윈도 탐색기 [콘텍스트 메뉴에](https://ko.wikipedia.org/wiki/콘텍스트_메뉴 "wikilink") 등록되어 편리하게 이용할 수 있다. 또한 Merge, diff 툴을 기본으로 제공한다.\[1\]\[2\]
 
 ## 프로그램 용어
 

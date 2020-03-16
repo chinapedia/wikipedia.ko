@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Conomichi](https://ko.wikipedia.org/wiki/Conomichi).
 
 
-〈**co・no・mi・chi**〉()는 [Buono\!](../Page/Buono!.md "wikilink")의 6번째 싱글이다. 2009년 1월 21일 발매했다. 유통사는 [포니 캐년이다](https://ko.wikipedia.org/wiki/포니_캐년 "wikilink").
+〈**co・no・mi・chi**〉()는 [Buono\!](../Page/Buono!.md "wikilink")의 6번째 싱글이다. 2009년 1월 21일 발매했다. 유통사는 [포니 캐년이다](../Page/포니_캐년.md "wikilink").
 
 ## 특징
 

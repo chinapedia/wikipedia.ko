@@ -1,19 +1,19 @@
 > This article is converted from Wikipedia: [Xports](https://ko.wikipedia.org/wiki/Xports).
 
 
-**Xports**(엑스포츠)는 [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink")부터 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")까지 존속했던 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [케이블TV](https://ko.wikipedia.org/wiki/케이블TV "wikilink") 스포츠 채널이었다.
+**Xports**(엑스포츠)는 [2005년](../Page/2005년.md "wikilink")부터 [2009년](../Page/2009년.md "wikilink")까지 존속했던 [대한민국](../Page/대한민국.md "wikilink")의 [케이블TV](https://ko.wikipedia.org/wiki/케이블TV "wikilink") 스포츠 채널이었다.
 
-[2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [2월 25일](https://ko.wikipedia.org/wiki/2월_25일 "wikilink") [IB 스포츠가](https://ko.wikipedia.org/wiki/IB_스포츠 "wikilink") 영화채널 'TCM & 클래식 무비'를 인수한 뒤 [방송위원회](https://ko.wikipedia.org/wiki/방송위원회 "wikilink")의 방송 장르 변경 절차를 거쳐 같은 해 [4월 1일에](https://ko.wikipedia.org/wiki/4월_1일 "wikilink") 개국했다. 같은 해 [MLB](https://ko.wikipedia.org/wiki/MLB "wikilink")와 [AFC 챔피언스 리그의](https://ko.wikipedia.org/wiki/AFC_챔피언스_리그 "wikilink") 독점 중계권을 획득했고, [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink")에는 [KBO 리그](https://ko.wikipedia.org/wiki/KBO_리그 "wikilink") 중계권을 획득했다. 2005년 프로레슬링 [WWE 스맥다운을](https://ko.wikipedia.org/wiki/WWE_스맥다운 "wikilink") 방영하기도 하였다. [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [4월 18일](https://ko.wikipedia.org/wiki/4월_18일 "wikilink") [CJ E\&M에](../Page/CJ_E&M.md "wikilink") 넘어갔으나, [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [8월 13일에](https://ko.wikipedia.org/wiki/8월_13일 "wikilink") [SBS](../Page/SBS.md "wikilink")의 [지주회사](https://ko.wikipedia.org/wiki/지주회사 "wikilink")인 [SBS 미디어홀딩스에](https://ko.wikipedia.org/wiki/SBS_미디어홀딩스 "wikilink") 200억원이라는 거금으로 다시 인수되고, SBS가 [방송통신위원회](https://ko.wikipedia.org/wiki/방송통신위원회 "wikilink")에 장르 변경 절차를 신청해 경제 채널 [SBS CNBC로](https://ko.wikipedia.org/wiki/SBS_CNBC "wikilink") 바꾸면서 엑스포츠는 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [12월 27일자로](https://ko.wikipedia.org/wiki/12월_27일 "wikilink") 폐국되었다. 이후 [CJ E\&M이](../Page/CJ_E&M.md "wikilink") [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 자사의 계열 채널인 [XTM](../Page/XTM.md "wikilink")을 통해 프로 축구, 프로 야구, 프로 농구 등의 중계권을 다시 갖고 오게 되면서 [CJ E\&M](../Page/CJ_E&M.md "wikilink") 계열에서 프로 축구, 프로 야구, 프로 농구 등의 중계가 [XTM](../Page/XTM.md "wikilink")을 통하여 재개되었다.
+[2005년](../Page/2005년.md "wikilink") [2월 25일](../Page/2월_25일.md "wikilink") [IB 스포츠가](https://ko.wikipedia.org/wiki/IB_스포츠 "wikilink") 영화채널 'TCM & 클래식 무비'를 인수한 뒤 [방송위원회](https://ko.wikipedia.org/wiki/방송위원회 "wikilink")의 방송 장르 변경 절차를 거쳐 같은 해 [4월 1일에](../Page/4월_1일.md "wikilink") 개국했다. 같은 해 [MLB](https://ko.wikipedia.org/wiki/MLB "wikilink")와 [AFC 챔피언스 리그의](https://ko.wikipedia.org/wiki/AFC_챔피언스_리그 "wikilink") 독점 중계권을 획득했고, [2008년](../Page/2008년.md "wikilink")에는 [KBO 리그](https://ko.wikipedia.org/wiki/KBO_리그 "wikilink") 중계권을 획득했다. 2005년 프로레슬링 [WWE 스맥다운을](../Page/WWE_스맥다운.md "wikilink") 방영하기도 하였다. [2006년](../Page/2006년.md "wikilink") [4월 18일](../Page/4월_18일.md "wikilink") [CJ E\&M에](../Page/CJ_E&M.md "wikilink") 넘어갔으나, [2009년](../Page/2009년.md "wikilink") [8월 13일에](../Page/8월_13일.md "wikilink") [SBS](../Page/SBS.md "wikilink")의 [지주회사](https://ko.wikipedia.org/wiki/지주회사 "wikilink")인 [SBS 미디어홀딩스에](https://ko.wikipedia.org/wiki/SBS_미디어홀딩스 "wikilink") 200억원이라는 거금으로 다시 인수되고, SBS가 [방송통신위원회](https://ko.wikipedia.org/wiki/방송통신위원회 "wikilink")에 장르 변경 절차를 신청해 경제 채널 [SBS CNBC로](../Page/SBS_CNBC.md "wikilink") 바꾸면서 엑스포츠는 [2009년](../Page/2009년.md "wikilink") [12월 27일자로](../Page/12월_27일.md "wikilink") 폐국되었다. 이후 [CJ E\&M이](../Page/CJ_E&M.md "wikilink") [2012년](../Page/2012년.md "wikilink") 자사의 계열 채널인 [XTM](../Page/XTM.md "wikilink")을 통해 프로 축구, 프로 야구, 프로 농구 등의 중계권을 다시 갖고 오게 되면서 [CJ E\&M](../Page/CJ_E&M.md "wikilink") 계열에서 프로 축구, 프로 야구, 프로 농구 등의 중계가 [XTM](../Page/XTM.md "wikilink")을 통하여 재개되었다.
 
 ## 방송 특징
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:P1040010.JPG "wikilink") 기존 지상파 3사 산하의 스포츠 중계 제작 환경에서 외주 제작 시장을 넓히고 3사의 입김을 받지 않는 유일한 스포츠 방송이었다.
 하지만 케이블 베이스의 태생적 한계와 자금력의 한계 그리고 모기업 [CJ E\&M의](../Page/CJ_E&M.md "wikilink") 사업 정리로 인하여 5년간의 짧은 채널 역사를 마감하였다.
-[2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") 2월 케이블 최초 축구대표팀 A매치 경기를 지상파를 제외하고 케이블 단독 방송을 하면서 케이블 최고 시청률을 기록(TNS 전국 15.1% ).\[1\]
+[2006년](../Page/2006년.md "wikilink") 2월 케이블 최초 축구대표팀 A매치 경기를 지상파를 제외하고 케이블 단독 방송을 하면서 케이블 최고 시청률을 기록(TNS 전국 15.1% ).\[1\]
 
 KBL 중계시 프로농구 중계시 최초로 코믹 프로모션 제작및 경기중 2쿼터후 승리팀 감독을 코트에서 직접 인터뷰 섭외를 하여 구단 프런트+코칭 스텝+선수들의 미디어 친화도를 높였다. 또한 1시간전 라커룸의 모습을 보여주는등 기존 방송의 딱딱함을 벗어난 중계를 보여줬다. KBO 프로야구 중계시 경기 전에 아나운서가 덕아웃에서 인터뷰를 시도하는 "정지원의 rewind" 8회말 종료시 그날 경기의 영상을 BGM과 함께 중계차에서 직접 제작한 "그라운드 스케치"등이 있었다.
 
-한편, [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [8월](https://ko.wikipedia.org/wiki/8월 "wikilink") 방영될 예정이었던 골프드라마 <홀인원>으로 첫 드라마 방송을 할 예정이었으나\[2\] 이런저런 사정으로 불발됐다.
+한편, [2007년](../Page/2007년.md "wikilink") [8월](../Page/8월.md "wikilink") 방영될 예정이었던 골프드라마 <홀인원>으로 첫 드라마 방송을 할 예정이었으나\[2\] 이런저런 사정으로 불발됐다.
 
 ## Xports 선곡표
 
@@ -64,7 +64,7 @@ xports의 메이저 리그 타이틀 음악은 영화 national treasure OST중 "
 <!-- end list -->
 
   - [이종도](https://ko.wikipedia.org/wiki/이종도 "wikilink")
-  - [김건우](https://ko.wikipedia.org/wiki/김건우_\(1963년\) "wikilink")
+  - [김건우](../Page/김건우_\(1963년\).md "wikilink")
 
 <!-- end list -->
 
@@ -72,7 +72,7 @@ xports의 메이저 리그 타이틀 음악은 영화 national treasure OST중 "
 
 <!-- end list -->
 
-  - [이효봉](https://ko.wikipedia.org/wiki/이효봉 "wikilink") - 현 [XTM](../Page/XTM.md "wikilink") 해설
+  - [이효봉](../Page/이효봉.md "wikilink") - 현 [XTM](../Page/XTM.md "wikilink") 해설
   - [마해영](../Page/마해영.md "wikilink") - 현 [XTM](../Page/XTM.md "wikilink") 해설위원
 
 <!-- end list -->
@@ -81,12 +81,12 @@ xports의 메이저 리그 타이틀 음악은 영화 national treasure OST중 "
 
 <!-- end list -->
 
-  - [이효봉](https://ko.wikipedia.org/wiki/이효봉 "wikilink") - 현 XTM 해설
+  - [이효봉](../Page/이효봉.md "wikilink") - 현 XTM 해설
   - [마해영](../Page/마해영.md "wikilink") - 현 XTM 해설위원
 
 ### 축구
 
-  - [김강남](https://ko.wikipedia.org/wiki/김강남 "wikilink")
+  - [김강남](../Page/김강남.md "wikilink")
   - 송영주
   - 이종훈
   - [이상윤](../Page/이상윤_\(축구인\).md "wikilink")

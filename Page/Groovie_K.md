@@ -1,22 +1,22 @@
 > This article is converted from Wikipedia: [Groovie K](https://ko.wikipedia.org/wiki/Groovie_K).
 
 
-**Groovie K** (, [1967년](https://ko.wikipedia.org/wiki/1967년 "wikilink") [3월 25일](https://ko.wikipedia.org/wiki/3월_25일 "wikilink") \~ )는 대한민국의 기타리스트이자 음악 프로듀서이다.
+**Groovie K** (, [1967년](../Page/1967년.md "wikilink") [3월 25일](../Page/3월_25일.md "wikilink") \~ )는 대한민국의 기타리스트이자 음악 프로듀서이다.
 
 ## 생애
 
-어려서부터 [음악](../Page/음악.md "wikilink")에 관심이 많았던 그는 [중학교](https://ko.wikipedia.org/wiki/중학교 "wikilink") 때 친구들과 [밴드를](https://ko.wikipedia.org/wiki/악단 "wikilink") 결성해 음악 활동을 시작했으며, [한양대학교](../Page/한양대학교.md "wikilink") 작곡과에서 [학사](../Page/학사.md "wikilink") [학위](../Page/학위.md "wikilink")를 받은 뒤 문선대로 입대했다. 그곳에서 유영진과 [유준상을](../Page/유준상_\(배우\).md "wikilink") 만나 친분을 쌓고 [전역한](https://ko.wikipedia.org/wiki/전역_\(복무\) "wikilink") 뒤 유영진을 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")로 만들기 위해 3명이서 의기투합하여 거의 모든 [연예 기획사를](https://ko.wikipedia.org/wiki/연예_기획사 "wikilink") 돌아다녀봤으나, 유영진은 기획사에 갈 때 마다 탈락의 고배를 마셨다. 낙담 속에 그들은 [SM 엔터테인먼트의](https://ko.wikipedia.org/wiki/SM_엔터테인먼트 "wikilink") 전신인 SM 기획을 찾았고, 유영진의 재능을 알아본 [이수만](../Page/이수만.md "wikilink") [대표](https://ko.wikipedia.org/wiki/대표 "wikilink")가 그를 영입했다.\[1\] 그는 유영진의 1집을 프로듀싱함으로써 프로듀서로 [데뷔](https://ko.wikipedia.org/wiki/데뷔 "wikilink")를 했고, 이후에는 유영진의 세션 기타리스트로 활발한 활동을 하게 된다.
+어려서부터 [음악](../Page/음악.md "wikilink")에 관심이 많았던 그는 [중학교](../Page/중학교.md "wikilink") 때 친구들과 [밴드를](https://ko.wikipedia.org/wiki/악단 "wikilink") 결성해 음악 활동을 시작했으며, [한양대학교](../Page/한양대학교.md "wikilink") 작곡과에서 [학사](../Page/학사.md "wikilink") [학위](../Page/학위.md "wikilink")를 받은 뒤 문선대로 입대했다. 그곳에서 유영진과 [유준상을](../Page/유준상_\(배우\).md "wikilink") 만나 친분을 쌓고 [전역한](https://ko.wikipedia.org/wiki/전역_\(복무\) "wikilink") 뒤 유영진을 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")로 만들기 위해 3명이서 의기투합하여 거의 모든 [연예 기획사를](https://ko.wikipedia.org/wiki/연예_기획사 "wikilink") 돌아다녀봤으나, 유영진은 기획사에 갈 때 마다 탈락의 고배를 마셨다. 낙담 속에 그들은 [SM 엔터테인먼트의](../Page/SM_엔터테인먼트.md "wikilink") 전신인 SM 기획을 찾았고, 유영진의 재능을 알아본 [이수만](../Page/이수만.md "wikilink") [대표](https://ko.wikipedia.org/wiki/대표 "wikilink")가 그를 영입했다.\[1\] 그는 유영진의 1집을 프로듀싱함으로써 프로듀서로 [데뷔](https://ko.wikipedia.org/wiki/데뷔 "wikilink")를 했고, 이후에는 유영진의 세션 기타리스트로 활발한 활동을 하게 된다.
 
 ## 세션 참여 목록
 
   - **[H.O.T.](../Page/H.O.T..md "wikilink")** - 열맞춰\! (Line Up), Wedding X-mas, 아이야\! (I yah\!), Outside Castle, Time Will Tell, Good-Bye 이젠 (Good-bye for the Last), For 姸歌 (A Song For Lady), Natural Born Killer, 버려진 아이들 (Abandoned Children)
   - **[S.E.S.](https://ko.wikipedia.org/wiki/S.E.S. "wikilink")** - I\`m Your Girl, 완전한 이유, Snow X-mas, I Will...
-  - **[신화](https://ko.wikipedia.org/wiki/신화 "wikilink")** - 해결사, Yo\! (악동보고서), Nothing, Return, Only One, All Your Dreams, First Love, Jam \#1, Reminiscence
+  - **[신화](../Page/신화.md "wikilink")** - 해결사, Yo\! (악동보고서), Nothing, Return, Only One, All Your Dreams, First Love, Jam \#1, Reminiscence
   - **[Fly To The Sky](https://ko.wikipedia.org/wiki/Fly_To_The_Sky "wikilink")** - Fly To The Sky, Sea Of Love
-  - **[보아](https://ko.wikipedia.org/wiki/보아 "wikilink")** - ID; Peace B, Don\`t Start Now
+  - **[보아](../Page/보아.md "wikilink")** - ID; Peace B, Don\`t Start Now
   - **[동방신기](../Page/동방신기.md "wikilink")** - TRI-ANGLE, Rising Sun, Dangerous Mind, "O"-正.反.合., 왜 (Keep Your Head Down), Maximum, 이것만은 알고 가 (Before U Go)
-  - **[Super Junior](https://ko.wikipedia.org/wiki/슈퍼주니어 "wikilink")** - 돈 돈\! (Don't Don\!)
-  - **[태연](https://ko.wikipedia.org/wiki/태연 "wikilink") ([소녀시대](../Page/소녀시대.md "wikilink"))** - Devil\`s Cry
+  - **[Super Junior](../Page/슈퍼주니어.md "wikilink")** - 돈 돈\! (Don't Don\!)
+  - **[태연](../Page/태연.md "wikilink") ([소녀시대](../Page/소녀시대.md "wikilink"))** - Devil\`s Cry
   - **[EXO](../Page/EXO.md "wikilink")** - MAMA
   - **[Younique Unit](https://ko.wikipedia.org/wiki/Younique_Unit "wikilink")** - MAXSTEP
 
@@ -62,10 +62,10 @@
 | Sad Wedding Song                                                      |                     | 외국곡      | 공동 |     |    |
 | 드라마 "[하이에나](../Page/하이에나_\(2006년_드라마\).md "wikilink")" O.S.T          | Go Go               | 공동       | 단독 | 공동  |    |
 
-| 음반                                                                              | 연도    | 곡                   | 작사 | 작곡 | 편곡 |
-| ------------------------------------------------------------------------------- | ----- | ------------------- | -- | -- | -- |
-| 드라마 "[꽃미남 연쇄 테러사건](https://ko.wikipedia.org/wiki/꽃미남_연쇄_테러사건 "wikilink")" O.S.T | 2007년 | Wonder Boy          | 공동 | 단독 | 단독 |
-| 정규 2집 "[Don't Don](../Page/Don't_Don.md "wikilink")"                            | 2007년 | 돈 돈\! (Don't Don\!) |    | 공동 |    |
+| 음반                                                           | 연도    | 곡                   | 작사 | 작곡 | 편곡 |
+| ------------------------------------------------------------ | ----- | ------------------- | -- | -- | -- |
+| 드라마 "[꽃미남 연쇄 테러사건](../Page/꽃미남_연쇄_테러사건.md "wikilink")" O.S.T | 2007년 | Wonder Boy          | 공동 | 단독 | 단독 |
+| 정규 2집 "[Don't Don](../Page/Don't_Don.md "wikilink")"         | 2007년 | 돈 돈\! (Don't Don\!) |    | 공동 |    |
 
 | 음반                                                                                  | 연도    | 곡              | 작사 | 작곡 | 편곡 |
 | ----------------------------------------------------------------------------------- | ----- | -------------- | -- | -- | -- |

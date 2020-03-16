@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Buono!2](https://ko.wikipedia.org/wiki/Buono!2).
 
 
-《**Buono\!2**》()는 [Buono\!](../Page/Buono!.md "wikilink")의 두 번째 [음반](../Page/음반.md "wikilink")이다. [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [2월 11일](https://ko.wikipedia.org/wiki/2월_11일 "wikilink") 발매되었고 유통사는 [포니 캐년이다](https://ko.wikipedia.org/wiki/포니_캐년 "wikilink").
+《**Buono\!2**》()는 [Buono\!](../Page/Buono!.md "wikilink")의 두 번째 [음반](../Page/음반.md "wikilink")이다. [2009년](../Page/2009년.md "wikilink") [2월 11일](../Page/2월_11일.md "wikilink") 발매되었고 유통사는 [포니 캐년이다](../Page/포니_캐년.md "wikilink").
 
 ## 수록곡
 
@@ -15,7 +15,7 @@
     （작사：이와사토 유호　작곡・편곡：AKIRASTAR）
 4.  **소실점\~Vanishing Point\~** (消失点〜Vanishing Point〜)
     （작사：카와카미 나츠키　작곡：사키야 켄지로　편곡：사쿠마 마코토）
-5.  **[롯타라 롯타라](https://ko.wikipedia.org/wiki/롯타라_롯타라 "wikilink")** ()
+5.  **[롯타라 롯타라](../Page/롯타라_롯타라.md "wikilink")** ()
     （작사：이와사토 유호　작곡：이노우에 신지로　편곡：니시카와 스스무）
 6.  **[co・no・mi・chi](https://ko.wikipedia.org/wiki/co・no・mi・chi "wikilink")**
     （작사：미우라 요시코　작곡：[층쿠♂](https://ko.wikipedia.org/wiki/쓴쿠 "wikilink")　편곡：AKIRASTAR・나카야마 노부히코）
@@ -23,7 +23,7 @@
     （작사：C.Piece　작곡：AKIRASTAR　편곡：아베 쥰）
 8.  **I NEED YOU**
     （작사：이와사토 유호　작곡：AKIRASTAR　편곡：니시카와 스스무）
-9.  **[진검승부로 가자\!](https://ko.wikipedia.org/wiki/진검승부로_가자! "wikilink")** ()
+9.  **[진검승부로 가자\!](../Page/진검승부로_가자!.md "wikilink")** ()
     （작사：이와사토 유호　작곡：무라마츠 테츠야　편곡：니시카와 스스무）
 10. **You're My Friend**
     （작사：이와사토 유호　작곡・편곡：AKIRASTAR）

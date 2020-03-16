@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ FC \(\)](https://ko.wikipedia.org/wiki/_FC_\(\)).
 
 
-**알샤바브 FC**(, )는 [사우디아라비아](../Page/사우디아라비아.md "wikilink")의 축구 클럽으로, [1947년](https://ko.wikipedia.org/wiki/1947년 "wikilink")에 *샤바브 알리야드*란 이름으로 창단되었다. 그 후 [1967년](https://ko.wikipedia.org/wiki/1967년 "wikilink")에 현재의 이름으로 변경하였다. 연고지는 [수도](https://ko.wikipedia.org/wiki/수도 "wikilink")인 [리야드](https://ko.wikipedia.org/wiki/리야드 "wikilink")이다.
+**알샤바브 FC**(, )는 [사우디아라비아](../Page/사우디아라비아.md "wikilink")의 축구 클럽으로, [1947년](../Page/1947년.md "wikilink")에 *샤바브 알리야드*란 이름으로 창단되었다. 그 후 [1967년](../Page/1967년.md "wikilink")에 현재의 이름으로 변경하였다. 연고지는 [수도](../Page/수도.md "wikilink")인 [리야드](../Page/리야드.md "wikilink")이다.
 
 알샤바브는 현재 [사우디 프리미어리그에](https://ko.wikipedia.org/wiki/사우디_프리미어리그 "wikilink") 참가하고 있는데, 리그 5회 우승 기록을 가지고 있다. 또한 2001년에 [아시안 컵 위너스컵](https://ko.wikipedia.org/wiki/아시안_컵_위너스컵 "wikilink") 우승을 하였다.
 
@@ -61,11 +61,11 @@
 
 ## 유명한 선수
 
-  - [박주영](https://ko.wikipedia.org/wiki/박주영 "wikilink")
+  - [박주영](../Page/박주영.md "wikilink")
 
   - [곽태휘](../Page/곽태휘.md "wikilink")
 
-  - [송종국](https://ko.wikipedia.org/wiki/송종국 "wikilink")
+  - [송종국](../Page/송종국.md "wikilink")
 
 ## 외부 링크
 

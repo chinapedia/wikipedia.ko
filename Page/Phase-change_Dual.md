@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Phase-change Dual](https://ko.wikipedia.org/wiki/Phase-change_Dual).
 
 
-**Phase-change Dual**(페이즈-체인지 듀얼, 간단히 PD) 또는 **Phase-change Disc**(페이즈-체인지 디스크)(약칭 PD)는 마츠시타전기산업(현 [파나소닉](https://ko.wikipedia.org/wiki/파나소닉 "wikilink")전기)이 [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink")에 개발한 바꿔쓰기(Rewrite)가 가능한 [광 디스크](../Page/광_디스크.md "wikilink") 및 그 규격을 말한다. 용량은 단면 650[MB이며](../Page/메가바이트.md "wikilink") 디스크 외형크기는 일반적인 CD나 DVD 등과 같은 12cm(5인치)로, 사각형 카트리지에 수납된 채로 사용된다. 적색 레이저광을 통한 상변화기록기술을 채용하여 약 50만번 바꿔쓸 수 있다.
+**Phase-change Dual**(페이즈-체인지 듀얼, 간단히 PD) 또는 **Phase-change Disc**(페이즈-체인지 디스크)(약칭 PD)는 마츠시타전기산업(현 [파나소닉](../Page/파나소닉.md "wikilink")전기)이 [1995년](../Page/1995년.md "wikilink") [4월](../Page/4월.md "wikilink")에 개발한 바꿔쓰기(Rewrite)가 가능한 [광 디스크](../Page/광_디스크.md "wikilink") 및 그 규격을 말한다. 용량은 단면 650[MB이며](../Page/메가바이트.md "wikilink") 디스크 외형크기는 일반적인 CD나 DVD 등과 같은 12cm(5인치)로, 사각형 카트리지에 수납된 채로 사용된다. 적색 레이저광을 통한 상변화기록기술을 채용하여 약 50만번 바꿔쓸 수 있다.
 
 PD드라이브는 내장형, 외장형이 각각 발매되어 있으며 어느 쪽이든 [CD-ROM](../Page/CD-ROM.md "wikilink")을 읽을 수 있다. 또한, [CD-R](../Page/CD-R.md "wikilink") 미디어에 쓸 수 있는 PD드라이브도 발매된 바 있다. 드라이브는 마츠시타, NEC, 히타치, TEAC 등에서, 미디어는 미쓰비시 등에서 주로 생산되었다.
 

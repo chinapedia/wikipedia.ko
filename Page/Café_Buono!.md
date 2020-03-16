@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Caf Buono!](https://ko.wikipedia.org/wiki/Caf_Buono!).
 
 
-《**Café Buono\!**》(카페 보노\!)는 [Buono\!](../Page/Buono!.md "wikilink")의 첫 번째 [음반](../Page/음반.md "wikilink")이다. 2008년 2월 20일 발매했고 유통사는 [포니 캐년이다](https://ko.wikipedia.org/wiki/포니_캐년 "wikilink").
+《**Café Buono\!**》(카페 보노\!)는 [Buono\!](../Page/Buono!.md "wikilink")의 첫 번째 [음반](../Page/음반.md "wikilink")이다. 2008년 2월 20일 발매했고 유통사는 [포니 캐년이다](../Page/포니_캐년.md "wikilink").
 
 ## 수록곡
 

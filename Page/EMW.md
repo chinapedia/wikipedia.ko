@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [EMW](https://ko.wikipedia.org/wiki/EMW).
 
 
-**주식회사 이엠따블유** (한자어-株式會社 이엠따블유, 영어-[EMW Corporation](https://ko.wikipedia.org/wiki/:en:EMW_Corporation "wikilink"))는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [안테나](../Page/안테나.md "wikilink") 전문 [전자](https://ko.wikipedia.org/wiki/전자 "wikilink")회사다. [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink")에 설립하여 현재 [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")와 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")의 OEM방식으로 무선통신 [안테나](../Page/안테나.md "wikilink")를 생산하고있다. 본사는 인천 남동공단에 있다. 여기서 회사이름인 EMW의 약자는 "Electronical Magnetic Waves (일렉트로니컬 마그네틱 웨이브즈)"를 뜻한다.
+**주식회사 이엠따블유** (한자어-株式會社 이엠따블유, 영어-[EMW Corporation](https://ko.wikipedia.org/wiki/:en:EMW_Corporation "wikilink"))는 [대한민국](../Page/대한민국.md "wikilink")의 [안테나](../Page/안테나.md "wikilink") 전문 [전자](../Page/전자.md "wikilink")회사다. [1998년](../Page/1998년.md "wikilink")에 설립하여 현재 [LG전자](../Page/LG전자.md "wikilink")와 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")의 OEM방식으로 무선통신 [안테나](../Page/안테나.md "wikilink")를 생산하고있다. 본사는 인천 남동공단에 있다. 여기서 회사이름인 EMW의 약자는 "Electronical Magnetic Waves (일렉트로니컬 마그네틱 웨이브즈)"를 뜻한다.
 
 ## 연혁
 
@@ -36,7 +36,7 @@
 
 ## 같이 보기
 
-  - [블루투스](https://ko.wikipedia.org/wiki/블루투스 "wikilink")
+  - [블루투스](../Page/블루투스.md "wikilink")
 
 ## 외부 링크
 

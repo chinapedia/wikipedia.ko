@@ -7,7 +7,7 @@
 
 전원이 [치바현](https://ko.wikipedia.org/wiki/치바현 "wikilink")의 동해대학 부속 우라야수 고등학교 졸업생으로, 세키네 시오리만 1학년 후배이며, 그 외 멤버는 같은 학년이다.
 
-  - 고이데 유스케() [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") [12월 9일생](https://ko.wikipedia.org/wiki/12월_9일 "wikilink") - 기타, 보컬, 작사 작곡 담당
+  - 고이데 유스케() [1984년](../Page/1984년.md "wikilink") [12월 9일생](../Page/12월_9일.md "wikilink") - 기타, 보컬, 작사 작곡 담당
 
 동경 출신이다. 신세계 에반게리온을 굉장히 좋아해서, 그에 관한 멘트들을 자주 한다. 펜더 USA의 텔레캐스터나, 깁슨 레스 폴(Les Paul) 스페셜 더블컷터웨이를 사용한다. 서브기타도 팬더 USA의 텔레캐스터이며, 중학교 3학년때 부터 사용하고 있다. 앰프는 펜더 트윈 리버브를 사용한다. 뉴 웨이브 록에 강한 영향을 받았고, XTC를 좋아하는 밴드 중 하나로 들고 있다.
 
@@ -27,21 +27,21 @@
 
 ### 아마추어 시대 (자주제작, 제작 중지)
 
-  - 전(前)－front - ([2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink")7월)
-  - 후(後)－back - ([2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink")7월)
-  - 체인지업 ()([2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink")9월)
-  - 화이트와일라이트(하얀황혼) ()([2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink")10월)
-  - 스쿨라이프 ()([2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink")11월)
-  - HR([2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink")3월)
-  - YUMEisVISION ([2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") 6월)
-  - YUME/SAYONARA ([2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink")10월)
+  - 전(前)－front - ([2002년](../Page/2002년.md "wikilink")7월)
+  - 후(後)－back - ([2002년](../Page/2002년.md "wikilink")7월)
+  - 체인지업 ()([2002년](../Page/2002년.md "wikilink")9월)
+  - 화이트와일라이트(하얀황혼) ()([2002년](../Page/2002년.md "wikilink")10월)
+  - 스쿨라이프 ()([2002년](../Page/2002년.md "wikilink")11월)
+  - HR([2003년](../Page/2003년.md "wikilink")3월)
+  - YUMEisVISION ([2003년](../Page/2003년.md "wikilink") 6월)
+  - YUME/SAYONARA ([2003년](../Page/2003년.md "wikilink")10월)
 
 ### 인디
 
 #### 싱글
 
-  - [YUME is VISION](https://ko.wikipedia.org/wiki/YUME_is_VISION "wikilink") ([2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [7월 7일](https://ko.wikipedia.org/wiki/7월_7일 "wikilink"))
-  - B Beginning\!\!([2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink")[12월24일](https://ko.wikipedia.org/wiki/12월24일 "wikilink")、[Bacon](https://ko.wikipedia.org/wiki/Bacon "wikilink")과의 스플릿 싱글)
+  - [YUME is VISION](https://ko.wikipedia.org/wiki/YUME_is_VISION "wikilink") ([2004년](../Page/2004년.md "wikilink") [7월 7일](../Page/7월_7일.md "wikilink"))
+  - B Beginning\!\!([2004년](../Page/2004년.md "wikilink")[12월24일](https://ko.wikipedia.org/wiki/12월24일 "wikilink")、[Bacon](https://ko.wikipedia.org/wiki/Bacon "wikilink")과의 스플릿 싱글)
 
 #### 앨범
 
@@ -59,58 +59,58 @@
 
 #### 싱글
 
-|                      |                                                                                                                                   |                                                                            |
-| -------------------- | --------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| <small>**장**</small> | <small>**발매일**</small>                                                                                                            | <small>**타이틀**</small>                                                     |
-| <small>1st</small>   | <small>[2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")[6월 21일](https://ko.wikipedia.org/wiki/6월_21일 "wikilink")</small>   | **ELECTRIC SUMMER**                                                        |
-| <small>2nd</small>   | <small>[2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")[10월 4일](https://ko.wikipedia.org/wiki/10월_4일 "wikilink")</small>   | **STAND BY ME**                                                            |
-| <small>3rd</small>   | <small>[2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink")[4월 4일](https://ko.wikipedia.org/wiki/4월_4일 "wikilink")</small>     | **껴안고싶다 ()**                                                               |
-| <small>4th</small>   | <small>[2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [5월 16일](https://ko.wikipedia.org/wiki/5월_16일 "wikilink")</small>  | **[드라마틱](https://ko.wikipedia.org/wiki/드라마틱_\(베이스_볼_베어의_노래\) "wikilink")** |
-| <small>5th</small>   | <small>[2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink")[7월 18일](https://ko.wikipedia.org/wiki/7월_18일 "wikilink")</small>   | **한여름의 조건()**                                                              |
-| <small>6th</small>   | <small>[2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink")[10월 31일](https://ko.wikipedia.org/wiki/10월_31일 "wikilink")</small> | **사랑하고 있어()**                                                              |
-| <small>7th</small>   | <small>[2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [5월 8일](https://ko.wikipedia.org/wiki/5월_8일 "wikilink")</small>    | **changes**                                                                |
-| <small>8th</small>   | <small>[2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [1월 7일](https://ko.wikipedia.org/wiki/1월_7일 "wikilink")</small>    | **LOVE MATHEMATICS**                                                       |
-| <small>9th</small>   | <small>[2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [4월 15일](https://ko.wikipedia.org/wiki/4월_15일 "wikilink")</small>  | **신들이 널 본다 ()**                                                            |
-| <small>10th</small>  | <small>[2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")[6월 24일](https://ko.wikipedia.org/wiki/6월_24일 "wikilink")</small>   | **BREEEEZE GIRL**                                                          |
-| <small>11th</small>  | <small>[2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")[8월 5일](https://ko.wikipedia.org/wiki/8월_5일 "wikilink")</small>     | **Stairway Generation**                                                    |
-|                      |                                                                                                                                   |                                                                            |
+|                      |                                                                                             |                                                                            |
+| -------------------- | ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| <small>**장**</small> | <small>**발매일**</small>                                                                      | <small>**타이틀**</small>                                                     |
+| <small>1st</small>   | <small>[2006년](../Page/2006년.md "wikilink")[6월 21일](../Page/6월_21일.md "wikilink")</small>   | **ELECTRIC SUMMER**                                                        |
+| <small>2nd</small>   | <small>[2006년](../Page/2006년.md "wikilink")[10월 4일](../Page/10월_4일.md "wikilink")</small>   | **STAND BY ME**                                                            |
+| <small>3rd</small>   | <small>[2007년](../Page/2007년.md "wikilink")[4월 4일](../Page/4월_4일.md "wikilink")</small>     | **껴안고싶다 ()**                                                               |
+| <small>4th</small>   | <small>[2007년](../Page/2007년.md "wikilink") [5월 16일](../Page/5월_16일.md "wikilink")</small>  | **[드라마틱](https://ko.wikipedia.org/wiki/드라마틱_\(베이스_볼_베어의_노래\) "wikilink")** |
+| <small>5th</small>   | <small>[2007년](../Page/2007년.md "wikilink")[7월 18일](../Page/7월_18일.md "wikilink")</small>   | **한여름의 조건()**                                                              |
+| <small>6th</small>   | <small>[2007년](../Page/2007년.md "wikilink")[10월 31일](../Page/10월_31일.md "wikilink")</small> | **사랑하고 있어()**                                                              |
+| <small>7th</small>   | <small>[2008년](../Page/2008년.md "wikilink") [5월 8일](../Page/5월_8일.md "wikilink")</small>    | **changes**                                                                |
+| <small>8th</small>   | <small>[2009년](../Page/2009년.md "wikilink") [1월 7일](../Page/1월_7일.md "wikilink")</small>    | **LOVE MATHEMATICS**                                                       |
+| <small>9th</small>   | <small>[2009년](../Page/2009년.md "wikilink") [4월 15일](../Page/4월_15일.md "wikilink")</small>  | **신들이 널 본다 ()**                                                            |
+| <small>10th</small>  | <small>[2009년](../Page/2009년.md "wikilink")[6월 24일](../Page/6월_24일.md "wikilink")</small>   | **BREEEEZE GIRL**                                                          |
+| <small>11th</small>  | <small>[2009년](../Page/2009년.md "wikilink")[8월 5일](../Page/8월_5일.md "wikilink")</small>     | **Stairway Generation**                                                    |
+|                      |                                                                                             |                                                                            |
 
 #### 앨범
 
-|                       |                                                                                                                                 |                             |
-| --------------------- | ------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| <small>**장수**</small> | <small>**발매일**</small>                                                                                                          | <small>**타이틀**</small>      |
-| <small>1st</small>    | <small>[2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")[11월 29일](../Page/11월_29일.md "wikilink")</small>                  | **C**                       |
-| <small>2nd</small>    | <small>[2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink")[12월 5일](https://ko.wikipedia.org/wiki/12월_5일 "wikilink")</small> | **17세()**                   |
-| <small>3rd</small>    | <small>[2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")[9월 2일](https://ko.wikipedia.org/wiki/9월_2일 "wikilink")</small>   | *'(WHAT IS THE)LOVE & POP?* |
-| <small>4th</small>    | <small>[2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink")[3월17일](https://ko.wikipedia.org/wiki/3월17일 "wikilink")</small>   | **1235**                    |
-|                       |                                                                                                                                 |                             |
+|                       |                                                                                                            |                             |
+| --------------------- | ---------------------------------------------------------------------------------------------------------- | --------------------------- |
+| <small>**장수**</small> | <small>**발매일**</small>                                                                                     | <small>**타이틀**</small>      |
+| <small>1st</small>    | <small>[2006년](../Page/2006년.md "wikilink")[11월 29일](../Page/11월_29일.md "wikilink")</small>                | **C**                       |
+| <small>2nd</small>    | <small>[2007년](../Page/2007년.md "wikilink")[12월 5일](../Page/12월_5일.md "wikilink")</small>                  | **17세()**                   |
+| <small>3rd</small>    | <small>[2009년](../Page/2009년.md "wikilink")[9월 2일](../Page/9월_2일.md "wikilink")</small>                    | *'(WHAT IS THE)LOVE & POP?* |
+| <small>4th</small>    | <small>[2010년](../Page/2010년.md "wikilink")[3월17일](https://ko.wikipedia.org/wiki/3월17일 "wikilink")</small> | **1235**                    |
+|                       |                                                                                                            |                             |
 
 #### 미니앨범
 
-|                       |                                                                                                                               |                        |
-| --------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
-| <small>**장수**</small> | <small>**발매일**</small>                                                                                                        | <small>**타이틀**</small> |
-| <small>1st</small>    | <small>[2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")[4월12일](https://ko.wikipedia.org/wiki/4월12일 "wikilink")</small> | **GIRL FRIEND**        |
-|                       |                                                                                                                               |                        |
+|                       |                                                                                                            |                        |
+| --------------------- | ---------------------------------------------------------------------------------------------------------- | ---------------------- |
+| <small>**장수**</small> | <small>**발매일**</small>                                                                                     | <small>**타이틀**</small> |
+| <small>1st</small>    | <small>[2006년](../Page/2006년.md "wikilink")[4월12일](https://ko.wikipedia.org/wiki/4월12일 "wikilink")</small> | **GIRL FRIEND**        |
+|                       |                                                                                                            |                        |
 
 #### 베스트 앨범
 
-|                       |                                                                                                                             |                        |
-| --------------------- | --------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
-| <small>**장수**</small> | <small>**발매일**</small>                                                                                                      | <small>**타이틀**</small> |
-| <small>1st</small>    | <small>[2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")[1월7일](https://ko.wikipedia.org/wiki/1월7일 "wikilink")</small> | **완전판 밴드 B에 대해서()**    |
-|                       |                                                                                                                             |                        |
+|                       |                                                                                                          |                        |
+| --------------------- | -------------------------------------------------------------------------------------------------------- | ---------------------- |
+| <small>**장수**</small> | <small>**발매일**</small>                                                                                   | <small>**타이틀**</small> |
+| <small>1st</small>    | <small>[2009년](../Page/2009년.md "wikilink")[1월7일](https://ko.wikipedia.org/wiki/1월7일 "wikilink")</small> | **완전판 밴드 B에 대해서()**    |
+|                       |                                                                                                          |                        |
 
 #### 그 외 앨범
 
-  - 밴드 B에 대해서() ([2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")[1월 12일](https://ko.wikipedia.org/wiki/1월_12일 "wikilink")、INTRODUCING ALBUM、5000장 한정)
+  - 밴드 B에 대해서() ([2006년](../Page/2006년.md "wikilink")[1월 12일](../Page/1월_12일.md "wikilink")、INTRODUCING ALBUM、5000장 한정)
       - 라이브 공연장 한정판과 같은 이름의 앨범 2번 트랙에 신곡 「미로의 타이밍()」이 추가되어 있다.
       - 또한, 라이브 회장판에서 8번 트랙째에 수록된 「GIRL OF ARMS」의 연주버전은 미수록되어 있다.
 
 #### 라이브 DVD
 
-  - LIVE;(THIS IS THE)BASE BALL BEAR. NIPPON BUDOUKAN 2010.01.03（[2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink")[3월 17일](https://ko.wikipedia.org/wiki/3월_17일 "wikilink")）
+  - LIVE;(THIS IS THE)BASE BALL BEAR. NIPPON BUDOUKAN 2010.01.03（[2010년](../Page/2010년.md "wikilink")[3월 17일](../Page/3월_17일.md "wikilink")）
 
 #### 비디오 클립집
 

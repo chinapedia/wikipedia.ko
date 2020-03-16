@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Kloma](https://ko.wikipedia.org/wiki/Kloma).
 
 
-《**KLOMA**》은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 그룹 [015B](../Page/015B.md "wikilink") [장호일](../Page/장호일.md "wikilink")의 프로젝트 [앨범이다](../Page/음반.md "wikilink"). 이 앨범 후에 명성을 떨치게 되는 [김돈규](https://ko.wikipedia.org/wiki/김돈규 "wikilink"), [조성민](https://ko.wikipedia.org/wiki/조성민 "wikilink") 등이 정석원의 프로젝트 '연인' 에 이어 장호일의 프로젝트 '클로마'에도 참여했다.
+《**KLOMA**》은 [대한민국](../Page/대한민국.md "wikilink")의 그룹 [015B](../Page/015B.md "wikilink") [장호일](../Page/장호일.md "wikilink")의 프로젝트 [앨범이다](../Page/음반.md "wikilink"). 이 앨범 후에 명성을 떨치게 되는 [김돈규](https://ko.wikipedia.org/wiki/김돈규 "wikilink"), [조성민](https://ko.wikipedia.org/wiki/조성민 "wikilink") 등이 정석원의 프로젝트 '연인' 에 이어 장호일의 프로젝트 '클로마'에도 참여했다.
 
   - 원래 이 앨범은 장호일만의 계획이었으나, 차질이 생겨 정석원 음악작업인 영화 '그 남자 그 여자' OST 계획이 취소되어 삽입곡이 '클로마'에 수록이 되었다.
 

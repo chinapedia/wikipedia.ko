@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Division Bell](https://ko.wikipedia.org/wiki/The_Division_Bell).
 
 
-《**The Division Bell**》은 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink") 밴드 [핑크 플로이드가](https://ko.wikipedia.org/wiki/핑크_플로이드 "wikilink") 1994년 발표한 음반이다. 밴드 통산 14번째 정규 앨범이자, 영국과 미국, 노르웨이, 오스트레일리아에서 모두 앨범 차트 1위를 기록했다.
+《**The Division Bell**》은 [영국](../Page/영국.md "wikilink") 밴드 [핑크 플로이드가](../Page/핑크_플로이드.md "wikilink") 1994년 발표한 음반이다. 밴드 통산 14번째 정규 앨범이자, 영국과 미국, 노르웨이, 오스트레일리아에서 모두 앨범 차트 1위를 기록했다.
 
 ## 곡 목록
 

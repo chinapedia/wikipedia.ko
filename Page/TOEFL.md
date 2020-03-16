@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [TOEFL](https://ko.wikipedia.org/wiki/TOEFL).
 
 
-**TOEFL**은 대학생 수준의 표준 [미국식 영어를](https://ko.wikipedia.org/wiki/영어 "wikilink") 이해하고 사용하는 능력을 측정하는 시험이다. **T**est **o**f **E**nglish as a **F**oreign **L**anguage의 약자이며, **토플**이라고 읽는다. 이 시험은 비영어권 국가의 학생들이 영어권 국가의 대학을 지원을 하는데 필요하다. 또한, 정부 기관이나 자격증, 기업, 장학금 등에도 이 시험의 점수가 필요하며 시험 점수의 유효기간은 2년이다.
+**TOEFL**은 대학생 수준의 표준 [미국식 영어를](../Page/영어.md "wikilink") 이해하고 사용하는 능력을 측정하는 시험이다. **T**est **o**f **E**nglish as a **F**oreign **L**anguage의 약자이며, **토플**이라고 읽는다. 이 시험은 비영어권 국가의 학생들이 영어권 국가의 대학을 지원을 하는데 필요하다. 또한, 정부 기관이나 자격증, 기업, 장학금 등에도 이 시험의 점수가 필요하며 시험 점수의 유효기간은 2년이다.
 
-이 시험은 미국 [ETS](https://ko.wikipedia.org/wiki/ETS "wikilink")의 등록 상표이며, 전 세계적으로 관리한다. 원래는 언어학자인 [찰스 A 퍼거슨의](https://ko.wikipedia.org/wiki/찰스_A_퍼거슨 "wikilink") 주도하에 응용언어학 센터([:en:Center for Applied Linguistics](https://ko.wikipedia.org/wiki/:en:Center_for_Applied_Linguistics "wikilink"))에서 개발\[1\]되었는데, [1964년](https://ko.wikipedia.org/wiki/1964년 "wikilink")에 처음 실시한 이래 3000만명\[2\] 이상의 수험생들이 응시하였다.
+이 시험은 미국 [ETS](https://ko.wikipedia.org/wiki/ETS "wikilink")의 등록 상표이며, 전 세계적으로 관리한다. 원래는 언어학자인 [찰스 A 퍼거슨의](https://ko.wikipedia.org/wiki/찰스_A_퍼거슨 "wikilink") 주도하에 응용언어학 센터([:en:Center for Applied Linguistics](https://ko.wikipedia.org/wiki/:en:Center_for_Applied_Linguistics "wikilink"))에서 개발\[1\]되었는데, [1964년](../Page/1964년.md "wikilink")에 처음 실시한 이래 3000만명\[2\] 이상의 수험생들이 응시하였다.
 
 이 시험에 관한 정책은 16명의 이사진들의 조언에서 결정된다. 이들은 학부/대학원 및 2년제 교육기관, 국제 교육에 관심이 많은 공공 또는 민간 기관과 관련된 이들로 구성된다. 다른 구성원들은 제 2언어로의 영어 전문가들로 구성된다.
 
@@ -24,7 +24,7 @@
 
 ### 인터넷 기반 시험(iBT)
 
-**iBT**는 말하기 테스트와 통합형 에세이가 추가된 차세대 토플 시험이며, Internet-Based Testing의 준말이다. 일부 [아시아](https://ko.wikipedia.org/wiki/아시아 "wikilink")계 학생들이 토플에서 높은 점수를 받아도 실제 의사 소통에 어려움을 겪는 경우가 많자, 문법 영역을 폐지하고, 말하기 능력과 읽기/듣기/쓰기가 결합된 통합형 에세이가 새로 시험에 반영되었다. [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") 9월부터 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")에서 처음 시행되었고, 점차 다른 나라에도 시행되고 있다. [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") 5월부터 시작되었다.
+**iBT**는 말하기 테스트와 통합형 에세이가 추가된 차세대 토플 시험이며, Internet-Based Testing의 준말이다. 일부 [아시아](../Page/아시아.md "wikilink")계 학생들이 토플에서 높은 점수를 받아도 실제 의사 소통에 어려움을 겪는 경우가 많자, 문법 영역을 폐지하고, 말하기 능력과 읽기/듣기/쓰기가 결합된 통합형 에세이가 새로 시험에 반영되었다. [2005년](../Page/2005년.md "wikilink") 9월부터 [미국](../Page/미국.md "wikilink")에서 처음 시행되었고, 점차 다른 나라에도 시행되고 있다. [대한민국](../Page/대한민국.md "wikilink")에서는 [2006년](../Page/2006년.md "wikilink") 5월부터 시작되었다.
 
 처음에는 응시 지원자가 응시 가용인원보다 많았기 때문에 응시하려면 접수 후 한달정도를 기다려야 했던 적도 있었으나, 현재 대부분의 국가에서는 매달 1\~4회 시험을 진행하고 있다\[4\]\[5\]. 아래 4개의 영역으로 구성되어 있으며 4시간 30분동안 풀어야 한다. 각 영역은 기본적인 언어 능력 및 고등 교육 환경에서 일어나는 언어 구사를 측정하는데 초점을 맞춘다. 시험을 보는 동안 필기를 하는 것이 허용되며, 12일 이후에 재응시를 할 수 있다\[6\]. 노트 테이킹 용지는 시험이 끝난 뒤에는 모두 회수한다. 토플은 대한민국에서 볼 수 있는 3대 공인영어시험인 토익, 토플, 텝스 중에서 가장 난이도가 어렵다고 알려져 있다. 읽기와 듣기 영역에서는 더미(Dummy)도 나온다.
 
@@ -66,11 +66,11 @@
   - 총 점수: 0\~300점 (각 항목 0\~30점)
   - 쓰기는 0\~6점으로 매겨진다.
 
-[2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 9월 30일 이후 모든 CBT 성적은 무효가 되었다.
+[2008년](../Page/2008년.md "wikilink") 9월 30일 이후 모든 CBT 성적은 무효가 되었다.
 
 ### 종이 기반 시험(PBT)
 
-**PBT**는 paper-based test의 준말로 종이로 시험을 치는 방식을 가리킨다. iBT가 불가능한 일부 지역 (주로 [아프리카](https://ko.wikipedia.org/wiki/아프리카 "wikilink"), [오세아니아](https://ko.wikipedia.org/wiki/오세아니아 "wikilink") 지역의 개발도상국)에 한해서 실시되고 있다. 응시자들은 온라인을 통해 지원하거나 등록양식을 작성하여 지원해야 한다. 시험장의 좌석수가 한정되어 있고 일찍 마감되기 때문에 등록을 일찍 해야 한다.
+**PBT**는 paper-based test의 준말로 종이로 시험을 치는 방식을 가리킨다. iBT가 불가능한 일부 지역 (주로 [아프리카](../Page/아프리카.md "wikilink"), [오세아니아](../Page/오세아니아.md "wikilink") 지역의 개발도상국)에 한해서 실시되고 있다. 응시자들은 온라인을 통해 지원하거나 등록양식을 작성하여 지원해야 한다. 시험장의 좌석수가 한정되어 있고 일찍 마감되기 때문에 등록을 일찍 해야 한다.
 
 시험은 3시간 정도 소요되며, 모든 영역은 같은날 응시한다. 응시자들은 원하는 만큼 시험에 여러 차례 응시할 수 있으나 대학들은 대체로 가장 최근의 점수를 요구한다.
 
@@ -81,7 +81,7 @@
 
 ## 시험 점수
 
-대부분의 대학들은 TOEFL 점수를 입학 사정 때 활용한다. 대체로 학부에 지원할 경우 74.2점, 대학원에 지원할 경우 82.6점 이상이 요구된다. 한국에서는 [카투사](https://ko.wikipedia.org/wiki/카투사 "wikilink")나 [통역병](../Page/통역병.md "wikilink") 지원 시 TOEFL 성적을 제출할 수 있다. 한때 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [외국어 고등학교](https://ko.wikipedia.org/wiki/외국어_고등학교 "wikilink") 입학 전형에 TOEFL 성적을 반영하기도 하였다.
+대부분의 대학들은 TOEFL 점수를 입학 사정 때 활용한다. 대체로 학부에 지원할 경우 74.2점, 대학원에 지원할 경우 82.6점 이상이 요구된다. 한국에서는 [카투사](../Page/카투사.md "wikilink")나 [통역병](../Page/통역병.md "wikilink") 지원 시 TOEFL 성적을 제출할 수 있다. 한때 [대한민국](../Page/대한민국.md "wikilink")의 [외국어 고등학교](https://ko.wikipedia.org/wiki/외국어_고등학교 "wikilink") 입학 전형에 TOEFL 성적을 반영하기도 하였다.
 
 ### iBT
 
@@ -175,7 +175,7 @@
 | 18      | 340-343 |
 | 17      | 333-337 |
 
-### TOEFL - [IELTS](https://ko.wikipedia.org/wiki/IELTS "wikilink") 점수 비교표\[9\]
+### TOEFL - [IELTS](../Page/IELTS.md "wikilink") 점수 비교표\[9\]
 
 | IELTS Score | TOEFL iBT Score |
 | ----------- | --------------- |
@@ -210,13 +210,13 @@
 
 ETS가 공개한 쓰기 평가 기준은 모호한 표현으로 가득찬 상투적인 내용이 대다수이며, 수험생에게 전달된 채점 점수에 대한 설명과 평가 역시 제공되지 않는 탓에 객관성과 공정성에 의문을 낳고 있다.
 
-또한, [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 CBT에서 iBT로의 변경이 진행되던 [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") 6월부터 수년동안 응시자들의 폭주로 접수 사이트가 다운\[10\]되자, 시험시간을 긴급히 늘리고, 응시자들은 토플시험을 여러 번 미리 예약해 놓은 뒤, 인터넷을 통해 비싼 값에 양도하는 등의 일명 **토플대란**이 벌어졌다. 이에 ETS는 한국지사 설립, 서버 및 시험장 확충, 그리고 PBT시험의 확대를 약속했으나 지지부진하였기 때문에 수험생들이 일본 등 다른 나라에 가서 시험에 응시하는 일도 있었다.\[11\]
+또한, [대한민국](../Page/대한민국.md "wikilink")에서는 CBT에서 iBT로의 변경이 진행되던 [2005년](../Page/2005년.md "wikilink") 6월부터 수년동안 응시자들의 폭주로 접수 사이트가 다운\[10\]되자, 시험시간을 긴급히 늘리고, 응시자들은 토플시험을 여러 번 미리 예약해 놓은 뒤, 인터넷을 통해 비싼 값에 양도하는 등의 일명 **토플대란**이 벌어졌다. 이에 ETS는 한국지사 설립, 서버 및 시험장 확충, 그리고 PBT시험의 확대를 약속했으나 지지부진하였기 때문에 수험생들이 일본 등 다른 나라에 가서 시험에 응시하는 일도 있었다.\[11\]
 
 ## 주요 국가의 토플 응시 비용\[12\]
 
 2019년 5월 현재 한국 내 토플 응시 비용은 200달러이다.
 
-  - [베트남](https://ko.wikipedia.org/wiki/베트남 "wikilink") 170달러
+  - [베트남](../Page/베트남.md "wikilink") 170달러
   - 미국 캘리포니아주 195달러
   - 영국 200달러
   - 일본 235 달러
@@ -224,7 +224,7 @@ ETS가 공개한 쓰기 평가 기준은 모호한 표현으로 가득찬 상투
 
 ## 주요 국가의 토플 평균 점수
 
-[2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") 기사 기준.\[13\] 은 아래와 같으며 2015년 자료는 [Test and score report data for TOEFL iBT Tests](https://www.ets.org/s/toefl/pdf/94227_unlweb.pdf) 에서 볼 수 있다.
+[2011년](../Page/2011년.md "wikilink") 기사 기준.\[13\] 은 아래와 같으며 2015년 자료는 [Test and score report data for TOEFL iBT Tests](https://www.ets.org/s/toefl/pdf/94227_unlweb.pdf) 에서 볼 수 있다.
 
   - 1위 -  (100점)
   - 2위 -  (99점)

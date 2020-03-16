@@ -1,29 +1,29 @@
 > This article is converted from Wikipedia: [Seotaiji 8th Atomos Part Secret](https://ko.wikipedia.org/wiki/Seotaiji_8th_Atomos_Part_Secret).
 
 
-《**Seotaiji 8th Atomos Part Secret**(서태지 에이쓰 아토모스 파트 시크릿)》는 서태지 8집의 두 번째 활동이자 두 번째 싱글 음반이다. [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [3월 10일](https://ko.wikipedia.org/wiki/3월_10일 "wikilink") 발매되었다.
+《**Seotaiji 8th Atomos Part Secret**(서태지 에이쓰 아토모스 파트 시크릿)》는 서태지 8집의 두 번째 활동이자 두 번째 싱글 음반이다. [2009년](../Page/2009년.md "wikilink") [3월 10일](../Page/3월_10일.md "wikilink") 발매되었다.
 
 판매량은 [한터 차트](https://ko.wikipedia.org/wiki/한터_차트 "wikilink") 2009년 연간 집계 기준 63,296장이다.
 
 ## 음반
 
-〈Bermuda \[Triangle\]〉을 통해 [에덴동산](https://ko.wikipedia.org/wiki/에덴동산 "wikilink")의 사랑과 성(性)의 아름다움과 타락함을 은유적으로 묘사하며, 트랙2인 ‘Juliet’을 통해서는 시공을 초월한 애틋한 사랑을 담은 조작된 문명의 기록을 표현해 내고 있다. 이어 트랙3인 ‘Coma’에서는 화재로 소실된 [숭례문](https://ko.wikipedia.org/wiki/숭례문 "wikilink")의 이야기를 모티브로 하기도 한 동기성 망각과 지구인의 무력함에 대한 경고를 담아내고 있다. 음반은 이들 곡 외에 1번 트랙의 ‘Bermuda \[Triangle\]’의 리믹스버전까지 포함해 총 4개의 트랙으로 구성됐다.
+〈Bermuda \[Triangle\]〉을 통해 [에덴동산](https://ko.wikipedia.org/wiki/에덴동산 "wikilink")의 사랑과 성(性)의 아름다움과 타락함을 은유적으로 묘사하며, 트랙2인 ‘Juliet’을 통해서는 시공을 초월한 애틋한 사랑을 담은 조작된 문명의 기록을 표현해 내고 있다. 이어 트랙3인 ‘Coma’에서는 화재로 소실된 [숭례문](../Page/숭례문.md "wikilink")의 이야기를 모티브로 하기도 한 동기성 망각과 지구인의 무력함에 대한 경고를 담아내고 있다. 음반은 이들 곡 외에 1번 트랙의 ‘Bermuda \[Triangle\]’의 리믹스버전까지 포함해 총 4개의 트랙으로 구성됐다.
 
 ## 활동
 
 ### 프로모션
 
-[2월 22일부터](https://ko.wikipedia.org/wiki/2월_22일 "wikilink") 공식 홈페이지를 통해 ‘MISSING TAIJI’라는 두 번째 싱글 프로모션을 진행하기 시작했다. '우주 속으로 실종된 서태지'라는 테마로 전체의 스토리텔링을 완성해놓고 8집 두 번째 싱글 프로모션 활동을 펼쳤다. 이 프로모션의 서태지가 팬 전체를 상대로 두 번째 싱글 홈페이지를 통해 질문을 던지고 이를 맞추면 새로운 정보들이 등장하는 방식으로 진행된다는 점이다.\[1\]
+[2월 22일부터](../Page/2월_22일.md "wikilink") 공식 홈페이지를 통해 ‘MISSING TAIJI’라는 두 번째 싱글 프로모션을 진행하기 시작했다. '우주 속으로 실종된 서태지'라는 테마로 전체의 스토리텔링을 완성해놓고 8집 두 번째 싱글 프로모션 활동을 펼쳤다. 이 프로모션의 서태지가 팬 전체를 상대로 두 번째 싱글 홈페이지를 통해 질문을 던지고 이를 맞추면 새로운 정보들이 등장하는 방식으로 진행된다는 점이다.\[1\]
 
-서태지는 이번 스토리텔링 이벤트에서 인류의 기원을 외계로부터 온 것이라 설정하고 인류의 역사 역시 이 같은 배경에서 외계생명체의 인류와 교류 및 적응과정이 있다는 가정을 토대로 이야기를 구성하고 있다. 또 이 같은 진행과정 속에 현재 또는 가까운 미래 다소 암울한 인류문명에 대해 경고성 메시지를 전달하려는 의도도 엿보인 다는 지적이 있다.\[2\] [2월 24일](https://ko.wikipedia.org/wiki/2월_24일 "wikilink"), 티저 포스터가 공개되고 싱글은 [3월 10일에](https://ko.wikipedia.org/wiki/3월_10일 "wikilink") 발매 되고, 컴백 공연은 [3월 14일](https://ko.wikipedia.org/wiki/3월_14일 "wikilink"), [3월 15일](https://ko.wikipedia.org/wiki/3월_15일 "wikilink") 서울 올림픽홀에서 ‘웜홀(WORMHOLE)’이라는 이름으로 하기로 발표했다. [2월 27일](https://ko.wikipedia.org/wiki/2월_27일 "wikilink"), 두 번째 싱글명이 ‘Secret’라고 공개했고, [3월 3일에는](https://ko.wikipedia.org/wiki/3월_3일 "wikilink") 수록곡과 스틸컷을 공개했다.
+서태지는 이번 스토리텔링 이벤트에서 인류의 기원을 외계로부터 온 것이라 설정하고 인류의 역사 역시 이 같은 배경에서 외계생명체의 인류와 교류 및 적응과정이 있다는 가정을 토대로 이야기를 구성하고 있다. 또 이 같은 진행과정 속에 현재 또는 가까운 미래 다소 암울한 인류문명에 대해 경고성 메시지를 전달하려는 의도도 엿보인 다는 지적이 있다.\[2\] [2월 24일](../Page/2월_24일.md "wikilink"), 티저 포스터가 공개되고 싱글은 [3월 10일에](../Page/3월_10일.md "wikilink") 발매 되고, 컴백 공연은 [3월 14일](../Page/3월_14일.md "wikilink"), [3월 15일](../Page/3월_15일.md "wikilink") 서울 올림픽홀에서 ‘웜홀(WORMHOLE)’이라는 이름으로 하기로 발표했다. [2월 27일](../Page/2월_27일.md "wikilink"), 두 번째 싱글명이 ‘Secret’라고 공개했고, [3월 3일에는](../Page/3월_3일.md "wikilink") 수록곡과 스틸컷을 공개했다.
 
 ### 발매
 
-[3월 10일](https://ko.wikipedia.org/wiki/3월_10일 "wikilink") 발매된 싱글은 하루 만에 2만 4637장 팔리며 주간 차트 1위에 등극했다. 발매 기념 공연 ‘웜홀(WORMHOLE)’ 또한, 티켓 오픈 25분 만에 매진된 것으로 기록되었다.\[3\]
+[3월 10일](../Page/3월_10일.md "wikilink") 발매된 싱글은 하루 만에 2만 4637장 팔리며 주간 차트 1위에 등극했다. 발매 기념 공연 ‘웜홀(WORMHOLE)’ 또한, 티켓 오픈 25분 만에 매진된 것으로 기록되었다.\[3\]
 
 ### 방송
 
-[2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [3월 16일](https://ko.wikipedia.org/wiki/3월_16일 "wikilink") 《[쇼\! 음악중심](https://ko.wikipedia.org/wiki/쇼!_음악중심 "wikilink")》의 사전 녹화를 통해 본격적인 방송 활동을 시작했다. 이 날, 기획사의 사전 추첨을 통해 1300명의 팬과 30분 동안 〈Juliet〉와 〈Bermuda \[Triangle\]〉을 불렀다. 이 자리에서 서태지는 “두 번째 싱글로는 방송활동을 활발하게 할 예정이다.”라고 밝혔다. 이 방송은 [3월 21일에](https://ko.wikipedia.org/wiki/3월_21일 "wikilink") 방송되었다.\[4\] 바로 다음날에는 《[SBS 인기가요](../Page/SBS_인기가요.md "wikilink")》를 통해 같은 두 곡을 불렀으며 이 녹화분은 Juliet은 [3월 29일에](https://ko.wikipedia.org/wiki/3월_29일 "wikilink") BERMUDA \[Triangle\]는 [4월 5일에](https://ko.wikipedia.org/wiki/4월_5일 "wikilink") 방송되었다.\[5\] 이후 [3월 24일](https://ko.wikipedia.org/wiki/3월_24일 "wikilink"), 《[섹션TV 연예통신](https://ko.wikipedia.org/wiki/섹션TV_연예통신 "wikilink")》의 스타 인터뷰 코너 ‘S 다이어리’에 출연한 그는 [서태지와 아이들](https://ko.wikipedia.org/wiki/서태지와_아이들 "wikilink") 시절 이야기와 은퇴 배경에 대해 설명했다.\[6\]
+[2009년](../Page/2009년.md "wikilink") [3월 16일](../Page/3월_16일.md "wikilink") 《[쇼\! 음악중심](https://ko.wikipedia.org/wiki/쇼!_음악중심 "wikilink")》의 사전 녹화를 통해 본격적인 방송 활동을 시작했다. 이 날, 기획사의 사전 추첨을 통해 1300명의 팬과 30분 동안 〈Juliet〉와 〈Bermuda \[Triangle\]〉을 불렀다. 이 자리에서 서태지는 “두 번째 싱글로는 방송활동을 활발하게 할 예정이다.”라고 밝혔다. 이 방송은 [3월 21일에](../Page/3월_21일.md "wikilink") 방송되었다.\[4\] 바로 다음날에는 《[SBS 인기가요](../Page/SBS_인기가요.md "wikilink")》를 통해 같은 두 곡을 불렀으며 이 녹화분은 Juliet은 [3월 29일에](../Page/3월_29일.md "wikilink") BERMUDA \[Triangle\]는 [4월 5일에](../Page/4월_5일.md "wikilink") 방송되었다.\[5\] 이후 [3월 24일](../Page/3월_24일.md "wikilink"), 《[섹션TV 연예통신](../Page/섹션TV_연예통신.md "wikilink")》의 스타 인터뷰 코너 ‘S 다이어리’에 출연한 그는 [서태지와 아이들](../Page/서태지와_아이들.md "wikilink") 시절 이야기와 은퇴 배경에 대해 설명했다.\[6\]
 
 ## 수록곡
 
@@ -31,7 +31,7 @@
 
 ### BERMUDA \[Triangle\]
 
-중세풍의 성에 살고 있는 순결을 가진 소녀가 상자를 발견하고 상자를 열고자 하자 오히려 상처만 남게 되지만, 뱀의 도움으로 열쇠를 찾아 열게 된다. 상자 안에 있는 것은 사과이며 사과를 베어 먹으면서 소녀는 성인이 되어, 높은 굽 구두를 신고 걷고자 하지만 걷는 것에 실패하고 넘어지게 되고 소녀는 냉소적인 표정으로 꽃잎과 구더기를 함께 믹서에 넣고 갈아버린다.(이때, 믹서에 '벌레(Worm)'를 넣고 갈았다는 점에서 서태지의 2009년 콘서트인 '웜홀(Wormhole)'의 복선이었다고 주장하는 사람도 있다. 실제로 이 뮤직비디오는 싱글 2집 발표에 앞서 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [10월 24일에](https://ko.wikipedia.org/wiki/10월_24일 "wikilink") 공개되었다.) 전체적인 내용은 [구약성경](https://ko.wikipedia.org/wiki/구약성경 "wikilink")의 ‘아담과 이브의 신화’를 차용했으며, 뮤직비디오의 전후에는 《[서태지와 아이들 2집](https://ko.wikipedia.org/wiki/서태지와_아이들_2집 "wikilink")》의 〈[죽음의 늪](https://ko.wikipedia.org/wiki/서태지와_아이들_2집#수록곡 "wikilink")〉의 전주가 나온다.
+중세풍의 성에 살고 있는 순결을 가진 소녀가 상자를 발견하고 상자를 열고자 하자 오히려 상처만 남게 되지만, 뱀의 도움으로 열쇠를 찾아 열게 된다. 상자 안에 있는 것은 사과이며 사과를 베어 먹으면서 소녀는 성인이 되어, 높은 굽 구두를 신고 걷고자 하지만 걷는 것에 실패하고 넘어지게 되고 소녀는 냉소적인 표정으로 꽃잎과 구더기를 함께 믹서에 넣고 갈아버린다.(이때, 믹서에 '벌레(Worm)'를 넣고 갈았다는 점에서 서태지의 2009년 콘서트인 '웜홀(Wormhole)'의 복선이었다고 주장하는 사람도 있다. 실제로 이 뮤직비디오는 싱글 2집 발표에 앞서 [2008년](../Page/2008년.md "wikilink") [10월 24일에](../Page/10월_24일.md "wikilink") 공개되었다.) 전체적인 내용은 [구약성경](../Page/구약성경.md "wikilink")의 ‘아담과 이브의 신화’를 차용했으며, 뮤직비디오의 전후에는 《[서태지와 아이들 2집](https://ko.wikipedia.org/wiki/서태지와_아이들_2집 "wikilink")》의 〈[죽음의 늪](https://ko.wikipedia.org/wiki/서태지와_아이들_2집#수록곡 "wikilink")〉의 전주가 나온다.
 
 ### Juliet
 
@@ -39,13 +39,13 @@
 
 ## 참여
 
-  - 서태지([서태지컴퍼니](https://ko.wikipedia.org/wiki/서태지컴퍼니 "wikilink")): [프로듀서](https://ko.wikipedia.org/wiki/프로듀서 "wikilink"), [이그제큐티브 프로듀서](https://ko.wikipedia.org/wiki/이그제큐티브_프로듀서 "wikilink") [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), [작사](https://ko.wikipedia.org/wiki/작사 "wikilink")·[작곡](https://ko.wikipedia.org/wiki/작곡 "wikilink")·[편곡](../Page/편곡.md "wikilink"), [기타](https://ko.wikipedia.org/wiki/기타 "wikilink"), [베이스 기타](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink"), 프로그래밍, 디지털 에디트, 녹음, 믹싱
+  - 서태지([서태지컴퍼니](https://ko.wikipedia.org/wiki/서태지컴퍼니 "wikilink")): [프로듀서](https://ko.wikipedia.org/wiki/프로듀서 "wikilink"), [이그제큐티브 프로듀서](https://ko.wikipedia.org/wiki/이그제큐티브_프로듀서 "wikilink") [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), [작사](https://ko.wikipedia.org/wiki/작사 "wikilink")·[작곡](https://ko.wikipedia.org/wiki/작곡 "wikilink")·[편곡](../Page/편곡.md "wikilink"), [기타](../Page/기타.md "wikilink"), [베이스 기타](../Page/베이스_기타.md "wikilink"), 프로그래밍, 디지털 에디트, 녹음, 믹싱
   - [Top](../Page/안성훈.md "wikilink"): 기타, 편곡
   - 김석중: 편곡, 프로그래밍, 디지털 에디트
   - [혜승](https://ko.wikipedia.org/wiki/양혜승_\(1981년_가수\) "wikilink")([피아](https://ko.wikipedia.org/wiki/피아 "wikilink")): [드럼](https://ko.wikipedia.org/wiki/드럼셋 "wikilink")
   - 녹음·믹싱 스튜디오: Techno T
   - 최효영(Sonic Korea): [마스터링](https://ko.wikipedia.org/wiki/마스터링 "wikilink")
-  - day-z: [아트 디렉터](https://ko.wikipedia.org/wiki/아트_디렉터 "wikilink"), [디자인](https://ko.wikipedia.org/wiki/디자인 "wikilink")
+  - day-z: [아트 디렉터](https://ko.wikipedia.org/wiki/아트_디렉터 "wikilink"), [디자인](../Page/디자인.md "wikilink")
   - 노대영, 소유리: 3D 디자인
 
 ## 출처

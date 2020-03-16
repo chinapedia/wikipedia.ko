@@ -1,27 +1,27 @@
 > This article is converted from Wikipedia: [ CRH5](https://ko.wikipedia.org/wiki/_CRH5).
 
 
-**중국고속철도 CRH5형**() [중화인민공화국 철도부에서](../Page/중화인민공화국_철도부.md "wikilink") 운영하는 국영철로로 제6차 철도 고속화 계획에 의해 [프랑스](../Page/프랑스.md "wikilink")의 [TGV](https://ko.wikipedia.org/wiki/TGV "wikilink")를 제조한 [알스톰](../Page/알스톰.md "wikilink")과 제휴해 도입된 [고속철도](https://ko.wikipedia.org/wiki/고속철도 "wikilink") 차량이다.\[1\]
+**중국고속철도 CRH5형**() [중화인민공화국 철도부에서](../Page/중화인민공화국_철도부.md "wikilink") 운영하는 국영철로로 제6차 철도 고속화 계획에 의해 [프랑스](../Page/프랑스.md "wikilink")의 [TGV](../Page/TGV.md "wikilink")를 제조한 [알스톰](../Page/알스톰.md "wikilink")과 제휴해 도입된 [고속철도](../Page/고속철도.md "wikilink") 차량이다.\[1\]
 
 ## 개요
 
-이 전철은 [중화인민공화국 철도부가](../Page/중화인민공화국_철도부.md "wikilink") 제6차 재래선 고속계획을 위해 [프랑스](../Page/프랑스.md "wikilink")의 [알스톰](../Page/알스톰.md "wikilink")과 제휴해 도입된 [고속철도](https://ko.wikipedia.org/wiki/고속철도 "wikilink") 차량이다. 기반은 [알스톰](../Page/알스톰.md "wikilink")의 기술을 도입해 제조되었지만, 전기 기관차에 의한 동력 집중 방식은 [TGV](https://ko.wikipedia.org/wiki/TGV "wikilink")와는 달리 구 [피아트](https://ko.wikipedia.org/wiki/피아트 "wikilink")의 [펜돌리노](../Page/펜돌리노.md "wikilink") ETR600형 전철을 기반으로 한 동력 분산 방식에 의한 고속전차 차량이다. 영업 운전 속도는 200km/h 이상이며, 중국 측이 계약한 차량 수는 60대이다. 그 중 3편성은 [이탈리아](https://ko.wikipedia.org/wiki/이탈리아 "wikilink")에서 제조되어 완성품 형태로 중국에 인도되고, 6편성의 경우 부품 상태로 중국 측에 인도되어 조립된다. 나머지 51편성의 경우 [창춘궤도객차가](https://ko.wikipedia.org/wiki/창춘궤도객차_구펀_유한공사 "wikilink") 제조한다. 이 계약 내용은 다른 나라에 발주한 CRH1\~3형과 같다.\[2\]\[3\]\[4\]\[5\]\[6\]
+이 전철은 [중화인민공화국 철도부가](../Page/중화인민공화국_철도부.md "wikilink") 제6차 재래선 고속계획을 위해 [프랑스](../Page/프랑스.md "wikilink")의 [알스톰](../Page/알스톰.md "wikilink")과 제휴해 도입된 [고속철도](../Page/고속철도.md "wikilink") 차량이다. 기반은 [알스톰](../Page/알스톰.md "wikilink")의 기술을 도입해 제조되었지만, 전기 기관차에 의한 동력 집중 방식은 [TGV](../Page/TGV.md "wikilink")와는 달리 구 [피아트](../Page/피아트.md "wikilink")의 [펜돌리노](../Page/펜돌리노.md "wikilink") ETR600형 전철을 기반으로 한 동력 분산 방식에 의한 고속전차 차량이다. 영업 운전 속도는 200km/h 이상이며, 중국 측이 계약한 차량 수는 60대이다. 그 중 3편성은 [이탈리아](../Page/이탈리아.md "wikilink")에서 제조되어 완성품 형태로 중국에 인도되고, 6편성의 경우 부품 상태로 중국 측에 인도되어 조립된다. 나머지 51편성의 경우 [창춘궤도객차가](https://ko.wikipedia.org/wiki/창춘궤도객차_구펀_유한공사 "wikilink") 제조한다. 이 계약 내용은 다른 나라에 발주한 CRH1\~3형과 같다.\[2\]\[3\]\[4\]\[5\]\[6\]
 
-[2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [12월 11일에](https://ko.wikipedia.org/wiki/12월_11일 "wikilink") 이탈리아에서 [창춘](https://ko.wikipedia.org/wiki/창춘 "wikilink")에 배편으로 발송되어, [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [1월](https://ko.wikipedia.org/wiki/1월 "wikilink")에 도착했다. 중국 생산 차량은 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink")에 철도부에 납품되어 영업 운전용으로 사용되고 있다. [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [5월](https://ko.wikipedia.org/wiki/5월 "wikilink")에 점검을 위해서 철도국 검사장에 보내졌는데, 내장된 비품 대부분이 승객에 의해서 도난당했다.
+[2006년](../Page/2006년.md "wikilink") [12월 11일에](../Page/12월_11일.md "wikilink") 이탈리아에서 [창춘](https://ko.wikipedia.org/wiki/창춘 "wikilink")에 배편으로 발송되어, [2007년](../Page/2007년.md "wikilink") [1월](../Page/1월.md "wikilink")에 도착했다. 중국 생산 차량은 [2007년](../Page/2007년.md "wikilink") [4월](../Page/4월.md "wikilink")에 철도부에 납품되어 영업 운전용으로 사용되고 있다. [2007년](../Page/2007년.md "wikilink") [5월](../Page/5월.md "wikilink")에 점검을 위해서 철도국 검사장에 보내졌는데, 내장된 비품 대부분이 승객에 의해서 도난당했다.
 
 ## 세부 모델
 
 ### CRH5A
 
-**CRH5A형 전철**()은 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink")에 [중화인민공화국 철도부에서](../Page/중화인민공화국_철도부.md "wikilink") [CRRC 창춘 철도 제작소와](https://ko.wikipedia.org/wiki/CRRC_창춘_철도_제작소 "wikilink") [알스톰](../Page/알스톰.md "wikilink")에서 계약해 최대 영업 속도 250km/h로 운행하는 [고속열차](https://ko.wikipedia.org/wiki/고속열차 "wikilink")로 60편성까지 도입했다. [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")에 30편성을 추가로 발주한데 이어 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink")에 20편성, [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink")에 30편성을 주문했다.\[7\]\[8\] 초기 편성의 경우 [이탈리아](https://ko.wikipedia.org/wiki/이탈리아 "wikilink")에 제조해 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink")에 [중화인민공화국](https://ko.wikipedia.org/wiki/중화인민공화국 "wikilink")에 배달했다. 51편성의 경우 [중화인민공화국](https://ko.wikipedia.org/wiki/중화인민공화국 "wikilink") [CRRC 창춘 철도 제작소에서](https://ko.wikipedia.org/wiki/CRRC_창춘_철도_제작소 "wikilink") 제조했다.
+**CRH5A형 전철**()은 [2004년](../Page/2004년.md "wikilink")에 [중화인민공화국 철도부에서](../Page/중화인민공화국_철도부.md "wikilink") [CRRC 창춘 철도 제작소와](https://ko.wikipedia.org/wiki/CRRC_창춘_철도_제작소 "wikilink") [알스톰](../Page/알스톰.md "wikilink")에서 계약해 최대 영업 속도 250km/h로 운행하는 [고속열차](https://ko.wikipedia.org/wiki/고속열차 "wikilink")로 60편성까지 도입했다. [2009년](../Page/2009년.md "wikilink")에 30편성을 추가로 발주한데 이어 [2010년](../Page/2010년.md "wikilink")에 20편성, [2011년](../Page/2011년.md "wikilink")에 30편성을 주문했다.\[7\]\[8\] 초기 편성의 경우 [이탈리아](../Page/이탈리아.md "wikilink")에 제조해 [2007년](../Page/2007년.md "wikilink")에 [중화인민공화국](../Page/중화인민공화국.md "wikilink")에 배달했다. 51편성의 경우 [중화인민공화국](../Page/중화인민공화국.md "wikilink") [CRRC 창춘 철도 제작소에서](https://ko.wikipedia.org/wiki/CRRC_창춘_철도_제작소 "wikilink") 제조했다.
 
-[2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink")부터 정규 노선에 투입하기 시작했으며 [징하 고속철도](../Page/징하_고속철도.md "wikilink") 노선을 운행하기 시작해 [칭난 고속철도](https://ko.wikipedia.org/wiki/칭난_고속철도 "wikilink"), [스타이 고속철도를](https://ko.wikipedia.org/wiki/스타이_고속철도 "wikilink") 잇는 노선에 투입하기 시작했다.
+[2007년](../Page/2007년.md "wikilink") [4월](../Page/4월.md "wikilink")부터 정규 노선에 투입하기 시작했으며 [징하 고속철도](../Page/징하_고속철도.md "wikilink") 노선을 운행하기 시작해 [칭난 고속철도](https://ko.wikipedia.org/wiki/칭난_고속철도 "wikilink"), [스타이 고속철도를](https://ko.wikipedia.org/wiki/스타이_고속철도 "wikilink") 잇는 노선에 투입하기 시작했다.
 
 파일:CRH5E-5201@BCR_(20160106151614).jpg 파일:CRH5 in Beijing Railway Station.jpg 파일:Crh5 beijing.jpg
 
 ### CIT001
 
-**CIT001형 전철**()은 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [4월 2일에](https://ko.wikipedia.org/wiki/4월_2일 "wikilink") CRH5A 모델을 기반으로 주문했고 같은 해 [7월](https://ko.wikipedia.org/wiki/7월 "wikilink")에 시범 열차 운행에 들어갔다.\[9\]
+**CIT001형 전철**()은 [2007년](../Page/2007년.md "wikilink") [4월 2일에](../Page/4월_2일.md "wikilink") CRH5A 모델을 기반으로 주문했고 같은 해 [7월](../Page/7월.md "wikilink")에 시범 열차 운행에 들어갔다.\[9\]
 
 ## 특징
 

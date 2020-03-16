@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Taxi Driver](https://ko.wikipedia.org/wiki/Taxi_Driver).
 
 
-***Taxi Driver***는 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [5월 17일에](https://ko.wikipedia.org/wiki/5월_17일 "wikilink") 발매된 [다이나믹 듀오의](https://ko.wikipedia.org/wiki/다이나믹_듀오 "wikilink") 데뷔 앨범이자 정규 1집 앨범이다. [힙합](../Page/힙합.md "wikilink") 음악 위주로 채워져있다.
+***Taxi Driver***는 [2004년](../Page/2004년.md "wikilink") [5월 17일에](../Page/5월_17일.md "wikilink") 발매된 [다이나믹 듀오의](../Page/다이나믹_듀오.md "wikilink") 데뷔 앨범이자 정규 1집 앨범이다. [힙합](../Page/힙합.md "wikilink") 음악 위주로 채워져있다.
 
 ## 수록곡
 
@@ -26,8 +26,8 @@
 
 ## 특징
 
-  - 1번 트랙 "이력서"는 [커빈](https://ko.wikipedia.org/wiki/커빈 "wikilink")을 디스했으며, [타블로](https://ko.wikipedia.org/wiki/타블로 "wikilink")가 작곡하여 선물한 곡이다.
-  - 2, 6, 17번 트랙 스킷에는 [노홍철](https://ko.wikipedia.org/wiki/노홍철 "wikilink")이 택시 기사로 등장하며, 6번 트랙에는 [은지원](../Page/은지원.md "wikilink")이 '[취한친구](../Page/친한친구.md "wikilink")'의 DJ로 나온다.
+  - 1번 트랙 "이력서"는 [커빈](https://ko.wikipedia.org/wiki/커빈 "wikilink")을 디스했으며, [타블로](../Page/타블로.md "wikilink")가 작곡하여 선물한 곡이다.
+  - 2, 6, 17번 트랙 스킷에는 [노홍철](../Page/노홍철.md "wikilink")이 택시 기사로 등장하며, 6번 트랙에는 [은지원](../Page/은지원.md "wikilink")이 '[취한친구](../Page/친한친구.md "wikilink")'의 DJ로 나온다.
   - 18번 트랙 "Hidden Track"은 〈비극 Part 2〉, 또는 "Candy"라는 비공식 제목으로도 알려져있다.
 
 ## 외부 링크
