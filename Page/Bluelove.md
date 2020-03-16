@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Bluelove](https://ko.wikipedia.org/wiki/Bluelove).
 
 
-***Bluelove***는 그룹 [씨엔블루](../Page/씨엔블루.md "wikilink")(CNBLUE)의 두 번째 미니앨범으로, [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [5월 19일](https://ko.wikipedia.org/wiki/5월_19일 "wikilink") 발매되었다. 타이틀곡은 "Love"로, 씨엔블루는 이곡으로 [6월 10일](https://ko.wikipedia.org/wiki/6월_10일 "wikilink") M.net 엠카운트다운에서 1위를 차지하였다. [7월 11일](https://ko.wikipedia.org/wiki/7월_11일 "wikilink") [SBS 인기가요에서](../Page/SBS_인기가요.md "wikilink") 마지막 무대를 가졌다. 현재까지 92,351장 판매되었다. (2010년 \~ 2011년 상반기)
+***Bluelove***는 그룹 [씨엔블루](../Page/씨엔블루.md "wikilink")(CNBLUE)의 두 번째 미니앨범으로, [2010년](../Page/2010년.md "wikilink") [5월 19일](../Page/5월_19일.md "wikilink") 발매되었다. 타이틀곡은 "Love"로, 씨엔블루는 이곡으로 [6월 10일](../Page/6월_10일.md "wikilink") M.net 엠카운트다운에서 1위를 차지하였다. [7월 11일](../Page/7월_11일.md "wikilink") [SBS 인기가요에서](../Page/SBS_인기가요.md "wikilink") 마지막 무대를 가졌다. 현재까지 92,351장 판매되었다. (2010년 \~ 2011년 상반기)
 
 ## 수록곡 (작사 / 작곡)
 

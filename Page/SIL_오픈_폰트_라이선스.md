@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SIL   ](https://ko.wikipedia.org/wiki/SIL___).
 
 
-**SIL 오픈 폰트 라이선스**(SIL Open Font License), **공개 폰트 라이선스**(Open Font License, **OFL**)는 [국제 SIL에서](https://ko.wikipedia.org/wiki/국제_SIL "wikilink") 만든 [자유 소프트웨어](https://ko.wikipedia.org/wiki/자유_소프트웨어 "wikilink")/[오픈 소스 라이선스이다](https://ko.wikipedia.org/wiki/오픈_소스_라이선스 "wikilink"). [글꼴](https://ko.wikipedia.org/wiki/글꼴 "wikilink")을 단독으로 판매하는 것을 금지하는 조항이 있어 [GPL과는](https://ko.wikipedia.org/wiki/GNU_일반_공중_사용_허가서 "wikilink") 호환되지 않지만 글꼴을 다른 프로그램과 함께 배포하거나 판매하는 것은 허용된다.
+**SIL 오픈 폰트 라이선스**(SIL Open Font License), **공개 폰트 라이선스**(Open Font License, **OFL**)는 [국제 SIL에서](../Page/국제_SIL.md "wikilink") 만든 [자유 소프트웨어](../Page/자유_소프트웨어.md "wikilink")/[오픈 소스 라이선스이다](https://ko.wikipedia.org/wiki/오픈_소스_라이선스 "wikilink"). [글꼴](../Page/글꼴.md "wikilink")을 단독으로 판매하는 것을 금지하는 조항이 있어 [GPL과는](../Page/GNU_일반_공중_사용_허가서.md "wikilink") 호환되지 않지만 글꼴을 다른 프로그램과 함께 배포하거나 판매하는 것은 허용된다.
 
 ## 폰트
 

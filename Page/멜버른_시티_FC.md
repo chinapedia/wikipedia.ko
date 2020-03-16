@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
 
 
-**멜버른 시티 풋볼 클럽**()은 [A리그](../Page/A리그.md "wikilink")에 소속된 [오스트레일리아](https://ko.wikipedia.org/wiki/오스트레일리아 "wikilink")의 프로축구단으로 [빅토리아주](https://ko.wikipedia.org/wiki/빅토리아주 "wikilink")의 [멜버른](https://ko.wikipedia.org/wiki/멜버른 "wikilink")을 연고로 한다. [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")에 창단되었으며 2010-11 시즌부터 [A리그](../Page/A리그.md "wikilink")에 참가하고 있다. 2014년 1월 팀이 2013-14 시즌에서 14경기 연속 무승이라는 최악의 성적을 내고 있는 도중에 [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink")의 축구 클럽 [맨체스터 시티의](../Page/맨체스터_시티_FC.md "wikilink") 페란 소리아노 단장이 주도하는 컨소시엄에 의해 2014년 1월 인수되었다.
+**멜버른 시티 풋볼 클럽**()은 [A리그](../Page/A리그.md "wikilink")에 소속된 [오스트레일리아](../Page/오스트레일리아.md "wikilink")의 프로축구단으로 [빅토리아주](../Page/빅토리아주.md "wikilink")의 [멜버른](../Page/멜버른.md "wikilink")을 연고로 한다. [2009년](../Page/2009년.md "wikilink")에 창단되었으며 2010-11 시즌부터 [A리그](../Page/A리그.md "wikilink")에 참가하고 있다. 2014년 1월 팀이 2013-14 시즌에서 14경기 연속 무승이라는 최악의 성적을 내고 있는 도중에 [잉글랜드](../Page/잉글랜드.md "wikilink")의 축구 클럽 [맨체스터 시티의](../Page/맨체스터_시티_FC.md "wikilink") 페란 소리아노 단장이 주도하는 컨소시엄에 의해 2014년 1월 인수되었다.
 
 ## 명칭
 

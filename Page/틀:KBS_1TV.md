@@ -60,7 +60,7 @@
   - 《[걸어서 세계속으로](../Page/걸어서_세계속으로.md "wikilink")》&
   - 《[국악한마당](https://ko.wikipedia.org/wiki/국악한마당 "wikilink")》
   - 《[동행](../Page/동행_\(텔레비전_프로그램\).md "wikilink")》
-  - 《[김영철의 동네 한 바퀴](https://ko.wikipedia.org/wiki/김영철의_동네_한_바퀴 "wikilink")》
+  - 《[김영철의 동네 한 바퀴](../Page/김영철의_동네_한_바퀴.md "wikilink")》
   - 《[시사기획 창](../Page/시사기획_창.md "wikilink")》&
   - 《[특파원 보고 세계는 지금](../Page/특파원_보고_세계는_지금.md "wikilink")》&
   - 《[생방송 심야토론](../Page/생방송_심야토론.md "wikilink")》&
@@ -69,7 +69,7 @@
 
   - 《[일요진단 라이브](../Page/일요진단_라이브.md "wikilink")》&
   - 《[TV쇼 진품명품](../Page/TV쇼_진품명품.md "wikilink")》
-  - 《[도전\! 골든벨](https://ko.wikipedia.org/wiki/도전!_골든벨 "wikilink")》
+  - 《[도전\! 골든벨](../Page/도전!_골든벨.md "wikilink")》
   - 《[저널리즘 토크쇼 J](../Page/저널리즘_토크쇼_J.md "wikilink")》&
   - 《[글로벌 다큐멘터리](../Page/글로벌_다큐멘터리.md "wikilink")》
   - 《[KBS 영상실록](../Page/KBS_영상실록.md "wikilink")》²
@@ -98,18 +98,18 @@
   - 《[버추얼 가디언즈](https://ko.wikipedia.org/wiki/버추얼_가디언즈 "wikilink")》
   - 《[비밀의 바람숲](https://ko.wikipedia.org/wiki/비밀의_바람숲 "wikilink")》
   - 《[테테루](https://ko.wikipedia.org/wiki/테테루 "wikilink")》
-  - 《[출동\! 애니멀 레스큐](https://ko.wikipedia.org/wiki/출동!_애니멀_레스큐 "wikilink")》
+  - 《[출동\! 애니멀 레스큐](../Page/출동!_애니멀_레스큐.md "wikilink")》
   - 《[KBS 창작동요대회](../Page/KBS_창작동요대회.md "wikilink")》²
   - 《[국악동요제](../Page/국악동요제.md "wikilink")》²
 
 |아랫글속성 = hlist |아랫글 =
 
-  - [KBS1](https://ko.wikipedia.org/wiki/틀:KBS_1TV "wikilink")
+  - [KBS1](../Page/틀:KBS_1TV.md "wikilink")
   - [KBS2](../Page/틀:KBS_2TV.md "wikilink")
   - [MBC](../Page/틀:MBC_TV.md "wikilink")
   - [SBS](../Page/틀:SBS_TV.md "wikilink")
   - [OBS](../Page/틀:경인TV.md "wikilink")
-  - [EBS1](https://ko.wikipedia.org/wiki/틀:EBS_1TV "wikilink")
+  - [EBS1](../Page/틀:EBS_1TV.md "wikilink")
   - [EBS2](../Page/틀:EBS_2TV.md "wikilink")
 
 ¹ 유동적으로 편성되는 프로그램

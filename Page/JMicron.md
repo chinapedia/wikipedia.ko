@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JMicron](https://ko.wikipedia.org/wiki/JMicron).
 
 
-**JMicron Technology Corporation**(제이마이크론)은 [중화민국](https://ko.wikipedia.org/wiki/중화민국 "wikilink")의 반도체 기업으로 주로 [SATA](https://ko.wikipedia.org/wiki/시리얼_ATA "wikilink") 관련 컨트롤러를 제조, 판매하고 있다.\[1\] JMicron의 칩은 [에이수스](../Page/에이수스.md "wikilink")\[2\], [기가바이트](https://ko.wikipedia.org/wiki/기가바이트 "wikilink"), [MSI](https://ko.wikipedia.org/wiki/마이크로-스타_인터내셔널 "wikilink")\[3\] 등 다수의 PC 메인보드 제조업체에서 사용하고 있다. 하지만 최근 MSI의 새로운 제품들은 마벨 컨트롤러를 사용하는 추세이다.\[4\]
+**JMicron Technology Corporation**(제이마이크론)은 [중화민국](../Page/중화민국.md "wikilink")의 반도체 기업으로 주로 [SATA](https://ko.wikipedia.org/wiki/시리얼_ATA "wikilink") 관련 컨트롤러를 제조, 판매하고 있다.\[1\] JMicron의 칩은 [에이수스](../Page/에이수스.md "wikilink")\[2\], [기가바이트](https://ko.wikipedia.org/wiki/기가바이트 "wikilink"), [MSI](https://ko.wikipedia.org/wiki/마이크로-스타_인터내셔널 "wikilink")\[3\] 등 다수의 PC 메인보드 제조업체에서 사용하고 있다. 하지만 최근 MSI의 새로운 제품들은 마벨 컨트롤러를 사용하는 추세이다.\[4\]
 
 ## SSD 컨트롤러
 
@@ -11,7 +11,7 @@ JMicron의 SSD 컨트롤러는 에이수스 Eee PC, [커세어](https://ko.wikip
 
 ## 리눅스 호환성
 
-JMicron SATA/IDE 컨트롤러는 몇몇 [부트 로더와](https://ko.wikipedia.org/wiki/부트_로더 "wikilink") 호환성이 떨어진다. 특히, [우분투](https://ko.wikipedia.org/wiki/우분투_\(운영_체제\) "wikilink") 리눅스에서 [GRUB](../Page/GRUB.md "wikilink")을 사용할 경우 [시동](https://ko.wikipedia.org/wiki/시동 "wikilink")할 수 없는 경우가 있다.(2006년 8월, 2.6.17 커널 기준)\[13\] [리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink") 2.6.18 커널과 JMicron 컨트롤러 1.06.53 바이오스\[14\]에서 이 호환성 문제가 해결되었지만 메인보드 바이오스를 업그레이드해야 한다는 단점이 있다. [윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 부트 로더나 [EXTLINUX](https://ko.wikipedia.org/wiki/EXTLINUX "wikilink") 같은 다른 부트 로더에서는 제대로 작동한다.
+JMicron SATA/IDE 컨트롤러는 몇몇 [부트 로더와](https://ko.wikipedia.org/wiki/부트_로더 "wikilink") 호환성이 떨어진다. 특히, [우분투](../Page/우분투_\(운영_체제\).md "wikilink") 리눅스에서 [GRUB](../Page/GRUB.md "wikilink")을 사용할 경우 [시동](https://ko.wikipedia.org/wiki/시동 "wikilink")할 수 없는 경우가 있다.(2006년 8월, 2.6.17 커널 기준)\[13\] [리눅스](../Page/리눅스.md "wikilink") 2.6.18 커널과 JMicron 컨트롤러 1.06.53 바이오스\[14\]에서 이 호환성 문제가 해결되었지만 메인보드 바이오스를 업그레이드해야 한다는 단점이 있다. [윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 부트 로더나 [EXTLINUX](https://ko.wikipedia.org/wiki/EXTLINUX "wikilink") 같은 다른 부트 로더에서는 제대로 작동한다.
 
 ## 대표적인 제품
 

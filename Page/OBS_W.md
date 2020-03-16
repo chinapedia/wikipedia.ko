@@ -1,14 +1,14 @@
 > This article is converted from Wikipedia: [OBS W](https://ko.wikipedia.org/wiki/OBS_W).
 
 
-**OBS W**는 [미디어OBS의](../Page/OBS경인TV.md "wikilink") [텔레비전](https://ko.wikipedia.org/wiki/텔레비전 "wikilink") [채널이다](https://ko.wikipedia.org/wiki/채널_\(통신\) "wikilink").
+**OBS W**는 [미디어OBS의](../Page/OBS경인TV.md "wikilink") [텔레비전](../Page/텔레비전.md "wikilink") [채널이다](https://ko.wikipedia.org/wiki/채널_\(통신\) "wikilink").
 
 ## 연혁
 
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [8월](https://ko.wikipedia.org/wiki/8월 "wikilink") : [방송통신위원회로부터](../Page/대한민국_방송통신위원회.md "wikilink") [방송채널 사용사업](https://ko.wikipedia.org/wiki/대한민국_방송법 "wikilink") 등록을 허가받음\[1\].
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [6월](https://ko.wikipedia.org/wiki/6월 "wikilink") : 개국
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") 6월 : 개국 1주년을 기념하여 로고를 변경
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [7월](https://ko.wikipedia.org/wiki/7월 "wikilink") : 로고 재변경
+  - [2009년](../Page/2009년.md "wikilink") [8월](../Page/8월.md "wikilink") : [방송통신위원회로부터](../Page/대한민국_방송통신위원회.md "wikilink") [방송채널 사용사업](https://ko.wikipedia.org/wiki/대한민국_방송법 "wikilink") 등록을 허가받음\[1\].
+  - [2010년](../Page/2010년.md "wikilink") [6월](../Page/6월.md "wikilink") : 개국
+  - [2011년](../Page/2011년.md "wikilink") 6월 : 개국 1주년을 기념하여 로고를 변경
+  - [2012년](../Page/2012년.md "wikilink") [7월](../Page/7월.md "wikilink") : 로고 재변경
 
 ## 편성 기준
 

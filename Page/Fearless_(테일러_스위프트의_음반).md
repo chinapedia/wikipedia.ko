@@ -135,7 +135,7 @@
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/빌보드" title="wikilink">미국 빌보드 탑 컨트리 앨범</a>[21]</p></td>
+<td><p><a href="../Page/빌보드.md" title="wikilink">미국 빌보드 탑 컨트리 앨범</a>[21]</p></td>
 <td><p>1</p></td>
 </tr>
 </tbody>
@@ -145,23 +145,23 @@
 
 | 국가                                                            | [인증](../Page/음반_판매량_인증.md "wikilink") |
 | ------------------------------------------------------------- | ------------------------------------- |
-| [오스트레일리아](https://ko.wikipedia.org/wiki/오스트레일리아 "wikilink")   | 6× 플래티넘                               |
-| [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink")           | 6× 플래티넘                               |
-| [아일랜드](https://ko.wikipedia.org/wiki/아일랜드 "wikilink")         | 2× 플래티넘                               |
+| [오스트레일리아](../Page/오스트레일리아.md "wikilink")                      | 6× 플래티넘                               |
+| [캐나다](../Page/캐나다.md "wikilink")                              | 6× 플래티넘                               |
+| [아일랜드](../Page/아일랜드.md "wikilink")                            | 2× 플래티넘                               |
 | [일본](../Page/일본.md "wikilink")                                | 골드                                    |
-| [뉴질랜드](https://ko.wikipedia.org/wiki/뉴질랜드 "wikilink")         | 2× 플래티넘                               |
+| [뉴질랜드](../Page/뉴질랜드.md "wikilink")                            | 2× 플래티넘                               |
 | [노르웨이](https://ko.wikipedia.org/wiki/국제음반산업협회 "wikilink")     | 골드\[22\]                              |
 | [필리핀](../Page/필리핀.md "wikilink")                              | 9× 플래티넘                               |
 | 러시아                                                           | 골드\[23\]                              |
 | [싱가포르](../Page/싱가포르.md "wikilink")                            | 플래티넘\[24\]                            |
-| [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")             | 플래티넘                                  |
+| [영국](../Page/영국.md "wikilink")                                | 플래티넘                                  |
 | [미국](../Page/미국_음반_산업_협회.md "wikilink")                       | 6× 플래티넘                               |
-| [인도네시아](https://ko.wikipedia.org/wiki/인도네시아 "wikilink")       | 플래티넘                                  |
-| [말레이시아](https://ko.wikipedia.org/wiki/말레이시아 "wikilink")       | 플래티넘                                  |
-| [타이완](https://ko.wikipedia.org/wiki/타이완 "wikilink")           | 플래티넘                                  |
+| [인도네시아](../Page/인도네시아.md "wikilink")                          | 플래티넘                                  |
+| [말레이시아](../Page/말레이시아.md "wikilink")                          | 플래티넘                                  |
+| [타이완](../Page/타이완.md "wikilink")                              | 플래티넘                                  |
 | [남아프리카공화국](https://ko.wikipedia.org/wiki/남아프리카공화국 "wikilink") | 골드                                    |
-| [홍콩](https://ko.wikipedia.org/wiki/홍콩 "wikilink")             | 골드                                    |
-| [그리스](https://ko.wikipedia.org/wiki/그리스 "wikilink")           | 골드\[25\]                              |
+| [홍콩](../Page/홍콩.md "wikilink")                                | 골드                                    |
+| [그리스](../Page/그리스.md "wikilink")                              | 골드\[25\]                              |
 
 ## 발매일
 
@@ -169,8 +169,8 @@
 
 <!-- end list -->
 
-  - 11월 11일 - [미국](https://ko.wikipedia.org/wiki/미국 "wikilink"), [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink")
-  - 11월 15일 - [오스트레일리아](https://ko.wikipedia.org/wiki/오스트레일리아 "wikilink")
+  - 11월 11일 - [미국](../Page/미국.md "wikilink"), [캐나다](../Page/캐나다.md "wikilink")
+  - 11월 15일 - [오스트레일리아](../Page/오스트레일리아.md "wikilink")
 
 <!-- end list -->
 
@@ -178,17 +178,17 @@
 
 <!-- end list -->
 
-  - 2월 27일 - [오스트레일리아](https://ko.wikipedia.org/wiki/오스트레일리아 "wikilink")(리미티드 에디테이션)
-  - 3월 2일 - [스페인](https://ko.wikipedia.org/wiki/스페인 "wikilink")
-  - 3월 6일 - [아일랜드](https://ko.wikipedia.org/wiki/아일랜드 "wikilink"), [이탈리아](https://ko.wikipedia.org/wiki/이탈리아 "wikilink"), [타이완](https://ko.wikipedia.org/wiki/타이완 "wikilink")
-  - 3월 8일 - [영국](https://ko.wikipedia.org/wiki/영국 "wikilink"), [필리핀](../Page/필리핀.md "wikilink"), [말레이시아](https://ko.wikipedia.org/wiki/말레이시아 "wikilink"), [타이](https://ko.wikipedia.org/wiki/타이 "wikilink")
-  - 3월 9일 - [뉴질랜드](https://ko.wikipedia.org/wiki/뉴질랜드 "wikilink"), [러시아](../Page/러시아.md "wikilink")
-  - 3월 11일 - [스웨덴](https://ko.wikipedia.org/wiki/스웨덴 "wikilink"), [벨기에](https://ko.wikipedia.org/wiki/벨기에 "wikilink")
-  - 3월 17일 - [멕시코](https://ko.wikipedia.org/wiki/멕시코 "wikilink")
-  - 3월 20일 - [유럽](https://ko.wikipedia.org/wiki/유럽 "wikilink")
-  - 3월 31일 - [브라질](https://ko.wikipedia.org/wiki/브라질 "wikilink")
-  - 5월 15일 - [독일](https://ko.wikipedia.org/wiki/독일 "wikilink")
-  - 11월 19일 - [한국](https://ko.wikipedia.org/wiki/한국 "wikilink")(플래티넘 에디테이션)
+  - 2월 27일 - [오스트레일리아](../Page/오스트레일리아.md "wikilink")(리미티드 에디테이션)
+  - 3월 2일 - [스페인](../Page/스페인.md "wikilink")
+  - 3월 6일 - [아일랜드](../Page/아일랜드.md "wikilink"), [이탈리아](../Page/이탈리아.md "wikilink"), [타이완](../Page/타이완.md "wikilink")
+  - 3월 8일 - [영국](../Page/영국.md "wikilink"), [필리핀](../Page/필리핀.md "wikilink"), [말레이시아](../Page/말레이시아.md "wikilink"), [타이](https://ko.wikipedia.org/wiki/타이 "wikilink")
+  - 3월 9일 - [뉴질랜드](../Page/뉴질랜드.md "wikilink"), [러시아](../Page/러시아.md "wikilink")
+  - 3월 11일 - [스웨덴](../Page/스웨덴.md "wikilink"), [벨기에](../Page/벨기에.md "wikilink")
+  - 3월 17일 - [멕시코](../Page/멕시코.md "wikilink")
+  - 3월 20일 - [유럽](../Page/유럽.md "wikilink")
+  - 3월 31일 - [브라질](../Page/브라질.md "wikilink")
+  - 5월 15일 - [독일](../Page/독일.md "wikilink")
+  - 11월 19일 - [한국](../Page/한국.md "wikilink")(플래티넘 에디테이션)
 
 <!-- end list -->
 
@@ -196,8 +196,8 @@
 
 <!-- end list -->
 
-  - 3월 2일 - [멕시코](https://ko.wikipedia.org/wiki/멕시코 "wikilink")(플래티넘 에디테이션)
-  - 4월 1일 - [터키](https://ko.wikipedia.org/wiki/터키 "wikilink")(인터내셔널 에디테이션)
+  - 3월 2일 - [멕시코](../Page/멕시코.md "wikilink")(플래티넘 에디테이션)
+  - 4월 1일 - [터키](../Page/터키.md "wikilink")(인터내셔널 에디테이션)
 
 ## 각주
 

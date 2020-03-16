@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ VII](https://ko.wikipedia.org/wiki/_VII).
 
 
-《**영웅전설 VII**》([한자](https://ko.wikipedia.org/wiki/한자 "wikilink"): 英雄傳說 VII, , ) 및 《**영웅전설 - 제로의 궤적**》([한자](https://ko.wikipedia.org/wiki/한자 "wikilink"): 英雄傳說 - 제로의 軌跡, , ) 에 대한 《**영웅전설 - 벽의 궤적**》([한자](https://ko.wikipedia.org/wiki/한자 "wikilink"): 英雄傳說 - 碧의 軌跡, , ) 분할 될 수있다. 그들은 [팔콤](https://ko.wikipedia.org/wiki/팔콤 "wikilink")에서 만든 [롤플레잉 게임이다](https://ko.wikipedia.org/wiki/롤플레잉_게임 "wikilink").
+《**영웅전설 VII**》([한자](../Page/한자.md "wikilink"): 英雄傳說 VII, , ) 및 《**영웅전설 - 제로의 궤적**》([한자](../Page/한자.md "wikilink"): 英雄傳說 - 제로의 軌跡, , ) 에 대한 《**영웅전설 - 벽의 궤적**》([한자](../Page/한자.md "wikilink"): 英雄傳說 - 碧의 軌跡, , ) 분할 될 수있다. 그들은 [팔콤](https://ko.wikipedia.org/wiki/팔콤 "wikilink")에서 만든 [롤플레잉 게임이다](https://ko.wikipedia.org/wiki/롤플레잉_게임 "wikilink").
 
 ## 발매 경위
 
@@ -9,7 +9,7 @@
 
   - 2007년 6월 28일에 발매된 『[영웅전설 Ⅵ - 천공의 궤적](https://ko.wikipedia.org/wiki/영웅전설_VI_천공의_궤적 "wikilink")』의 최종작인 『영웅전설 Ⅵ - 천공의 궤적 the 3rd』의 엔딩 후에, 「*To be continued... The Legend of Heroes Ⅶ.*」이 표시되어 차기작이 속편이 됨을 암시한다.
   - 2007년 11월 14일, 『영웅전설 Ⅶ』이 개발중에 있음을 발표\[1\].
-  - 2010년 4월 23일, 『영웅전설 제로의궤적』을 2010년 안에 [PSP로](https://ko.wikipedia.org/wiki/플레이스테이션_포터블 "wikilink") 발매하는 것을 발표\[2\].
+  - 2010년 4월 23일, 『영웅전설 제로의궤적』을 2010년 안에 [PSP로](../Page/플레이스테이션_포터블.md "wikilink") 발매하는 것을 발표\[2\].
   - 2010년 4월 26일부터 5월 31일에 걸쳐서 작중에 등장하는 캐릭터의 이름을 모집하는 「제로의궤적에 출연\! 캠페인 ()」을 개최\[3\].
 
 ### 벽의 궤적

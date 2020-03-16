@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ Q1B](https://ko.wikipedia.org/wiki/_Q1B).
 
 
-**센스 Q1B**()는 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")가 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [11월 30일에](https://ko.wikipedia.org/wiki/11월_30일 "wikilink") 출시한 [울트라 모바일 PC이다](https://ko.wikipedia.org/wiki/울트라_모바일_PC "wikilink").\[1\]
+**센스 Q1B**()는 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")가 [2006년](../Page/2006년.md "wikilink") [11월 30일에](../Page/11월_30일.md "wikilink") 출시한 [울트라 모바일 PC이다](../Page/울트라_모바일_PC.md "wikilink").\[1\]
 
 ## 각주
 

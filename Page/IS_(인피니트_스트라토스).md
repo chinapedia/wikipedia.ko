@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [IS \( \)](https://ko.wikipedia.org/wiki/IS_\(_\)).
 
 
-《**IS〈인피니트 스트라토스〉**》(, Infinite Stratos)는 [일본](../Page/일본.md "wikilink")의 작가 [유미즈루 이즈루가](https://ko.wikipedia.org/wiki/유미즈루_이즈루 "wikilink") 쓰고 [choco](https://ko.wikipedia.org/wiki/choco "wikilink")가 삽화를 담당한 [라이트 노벨이다](https://ko.wikipedia.org/wiki/라이트_노벨 "wikilink"). [MF문고 J](../Page/MF문고_J.md "wikilink")([미디어 팩토리](https://ko.wikipedia.org/wiki/미디어_팩토리 "wikilink"))에서 발매되며 대한민국에서는 [익스트림 노벨](https://ko.wikipedia.org/wiki/익스트림_노벨 "wikilink")([학산문화사](../Page/학산문화사.md "wikilink"))로 발매된다. 원래 [오키우라](https://ko.wikipedia.org/wiki/오키우라 "wikilink")가 삽화를 담당했으나 지금의 [choco](https://ko.wikipedia.org/wiki/choco "wikilink")가 삽화를 담당하게 됐다.
+《**IS〈인피니트 스트라토스〉**》(, Infinite Stratos)는 [일본](../Page/일본.md "wikilink")의 작가 [유미즈루 이즈루가](https://ko.wikipedia.org/wiki/유미즈루_이즈루 "wikilink") 쓰고 [choco](https://ko.wikipedia.org/wiki/choco "wikilink")가 삽화를 담당한 [라이트 노벨이다](../Page/라이트_노벨.md "wikilink"). [MF문고 J](../Page/MF문고_J.md "wikilink")([미디어 팩토리](https://ko.wikipedia.org/wiki/미디어_팩토리 "wikilink"))에서 발매되며 대한민국에서는 [익스트림 노벨](../Page/익스트림_노벨.md "wikilink")([학산문화사](../Page/학산문화사.md "wikilink"))로 발매된다. 원래 [오키우라](https://ko.wikipedia.org/wiki/오키우라 "wikilink")가 삽화를 담당했으나 지금의 [choco](https://ko.wikipedia.org/wiki/choco "wikilink")가 삽화를 담당하게 됐다.
 
 ## 줄거리
 
@@ -147,26 +147,26 @@
 
 ## 단행본
 
-[일본](../Page/일본.md "wikilink")에서는 [미디어 팩토리를](https://ko.wikipedia.org/wiki/미디어_팩토리 "wikilink") 통해 발매되고 있으며, [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 [학산문화사](../Page/학산문화사.md "wikilink")가, [중화민국](https://ko.wikipedia.org/wiki/중화민국 "wikilink")에서는 [선단출판](https://ko.wikipedia.org/wiki/선단출판 "wikilink")이 각각 번역·발매하고 있다.
+[일본](../Page/일본.md "wikilink")에서는 [미디어 팩토리를](https://ko.wikipedia.org/wiki/미디어_팩토리 "wikilink") 통해 발매되고 있으며, [대한민국](../Page/대한민국.md "wikilink")에서는 [학산문화사](../Page/학산문화사.md "wikilink")가, [중화민국](../Page/중화민국.md "wikilink")에서는 [선단출판](https://ko.wikipedia.org/wiki/선단출판 "wikilink")이 각각 번역·발매하고 있다.
 
   - 제1권
-      - 일본 - ([2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [5월 31일](https://ko.wikipedia.org/wiki/5월_31일 "wikilink"))
-      - 대한민국 - ([2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [11월 7일](https://ko.wikipedia.org/wiki/11월_7일 "wikilink"))
+      - 일본 - ([2009년](../Page/2009년.md "wikilink") [5월 31일](../Page/5월_31일.md "wikilink"))
+      - 대한민국 - ([2010년](../Page/2010년.md "wikilink") [11월 7일](../Page/11월_7일.md "wikilink"))
   - 제2권
-      - 일본 - (2009년 [8월 31일](https://ko.wikipedia.org/wiki/8월_31일 "wikilink"))
-      - 대한민국 - (2010년 [11월 7일](https://ko.wikipedia.org/wiki/11월_7일 "wikilink"))
+      - 일본 - (2009년 [8월 31일](../Page/8월_31일.md "wikilink"))
+      - 대한민국 - (2010년 [11월 7일](../Page/11월_7일.md "wikilink"))
   - 제3권
-      - 일본 - (2009년 [12월 31일](https://ko.wikipedia.org/wiki/12월_31일 "wikilink"))
-      - 대한민국 - (2010년 [12월 7일](https://ko.wikipedia.org/wiki/12월_7일 "wikilink"))
+      - 일본 - (2009년 [12월 31일](../Page/12월_31일.md "wikilink"))
+      - 대한민국 - (2010년 [12월 7일](../Page/12월_7일.md "wikilink"))
   - 제4권
-      - 일본 - (2010년 [3월 31일](https://ko.wikipedia.org/wiki/3월_31일 "wikilink"))
-      - 대한민국 - ([2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [2월 10일](https://ko.wikipedia.org/wiki/2월_10일 "wikilink"))
+      - 일본 - (2010년 [3월 31일](../Page/3월_31일.md "wikilink"))
+      - 대한민국 - ([2011년](../Page/2011년.md "wikilink") [2월 10일](../Page/2월_10일.md "wikilink"))
   - 제5권
       - 일본 - (2010년 [6월 31일](https://ko.wikipedia.org/wiki/6월_31일 "wikilink"))
-      - 대한민국 - (2011년 [4월 17일](https://ko.wikipedia.org/wiki/4월_17일 "wikilink"))
+      - 대한민국 - (2011년 [4월 17일](../Page/4월_17일.md "wikilink"))
   - 제6권
-      - 일본 - (2010년 [12월 31일](https://ko.wikipedia.org/wiki/12월_31일 "wikilink"))
-      - 대한민국 - (2011년 [3월 17일](https://ko.wikipedia.org/wiki/3월_17일 "wikilink"))
+      - 일본 - (2010년 [12월 31일](../Page/12월_31일.md "wikilink"))
+      - 대한민국 - (2011년 [3월 17일](../Page/3월_17일.md "wikilink"))
   - 제7권
       - 일본 -
 
@@ -174,14 +174,14 @@
 
   - 1권
       - 일본 -
-      - 대한민국 - ISBN (2011년 [12월 23일](https://ko.wikipedia.org/wiki/12월_23일 "wikilink"))
+      - 대한민국 - ISBN (2011년 [12월 23일](../Page/12월_23일.md "wikilink"))
   - 2권
       - 일본 -
-      - 대한민국 - ISBN (2012년 [5월 12일](https://ko.wikipedia.org/wiki/5월_12일 "wikilink"))
+      - 대한민국 - ISBN (2012년 [5월 12일](../Page/5월_12일.md "wikilink"))
 
 ## 애니메이션
 
-[2011년 1월부터](../Page/2011년_1월.md "wikilink") [TBS](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink"), [BS-TBS](../Page/BS-TBS.md "wikilink") 등의 방송사를 통해 방영되고 있다. [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 [애니플러스](https://ko.wikipedia.org/wiki/애니플러스 "wikilink")를 통해서 한일 동시방영으로 '15세 이상 시청가' 등급판정 하에 심야시간에 방송하고 있다.
+[2011년 1월부터](../Page/2011년_1월.md "wikilink") [TBS](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink"), [BS-TBS](../Page/BS-TBS.md "wikilink") 등의 방송사를 통해 방영되고 있다. [대한민국](../Page/대한민국.md "wikilink")에서는 [애니플러스](../Page/애니플러스.md "wikilink")를 통해서 한일 동시방영으로 '15세 이상 시청가' 등급판정 하에 심야시간에 방송하고 있다.
 
 ### 제작진
 
@@ -199,7 +199,7 @@
   - 편집: 키무라 카시코
   - 음향감독: 미마 마사후미, 나카지마 토시히코
   - 음악: 나나세 히카루
-  - 음악 제작: [란티스](https://ko.wikipedia.org/wiki/란티스 "wikilink")
+  - 음악 제작: [란티스](../Page/란티스.md "wikilink")
   - 애니메이션 제작: 에이트 비트
 
 ### 주제가

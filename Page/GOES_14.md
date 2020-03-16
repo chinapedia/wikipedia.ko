@@ -3,7 +3,7 @@
 
 **GOES 14**는 미국의 기상위성이다. **GOES-O**로도 알려져 있다. 미국 [NOAA](https://ko.wikipedia.org/wiki/NOAA "wikilink")의 [GOES](https://ko.wikipedia.org/wiki/GOES "wikilink") 사업의 14번째 위성이다.
 
-[BSS-601](https://ko.wikipedia.org/wiki/BSS-601 "wikilink") 버스에 기반한 3개의 GOES 위성 중 2번째로서, [보잉](https://ko.wikipedia.org/wiki/보잉 "wikilink")에서 제작했다. [BSS-601](https://ko.wikipedia.org/wiki/BSS-601 "wikilink") 버스를 사용한 첫 번째 GOES 위성인 [GOES 13은](https://ko.wikipedia.org/wiki/GOES_13 "wikilink") 2006년 5월 발사되었다.
+[BSS-601](https://ko.wikipedia.org/wiki/BSS-601 "wikilink") 버스에 기반한 3개의 GOES 위성 중 2번째로서, [보잉](../Page/보잉.md "wikilink")에서 제작했다. [BSS-601](https://ko.wikipedia.org/wiki/BSS-601 "wikilink") 버스를 사용한 첫 번째 GOES 위성인 [GOES 13은](https://ko.wikipedia.org/wiki/GOES_13 "wikilink") 2006년 5월 발사되었다.
 
 GOES 14는 2009년 6월 27일 케이프 커네버럴 공군기지([CCAFS](https://ko.wikipedia.org/wiki/CCAFS "wikilink")) SLC 37 발사장에서 [Delta IV-M+(4,2)](../Page/델타_IV.md "wikilink") 로켓으로 발사되었다.
 

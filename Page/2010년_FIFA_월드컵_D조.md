@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [2010 FIFA  D](https://ko.wikipedia.org/wiki/2010_FIFA__D).
 
 
-**[2010년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵 "wikilink") D조**의 경기는 2010년 6월 13일과 6월 23일 사이에 치러졌다.\[1\] D조에는 [독일](https://ko.wikipedia.org/wiki/독일_축구_국가대표팀 "wikilink"), [오스트레일리아](https://ko.wikipedia.org/wiki/오스트레일리아_축구_국가대표팀 "wikilink"), [세르비아](https://ko.wikipedia.org/wiki/세르비아_축구_국가대표팀 "wikilink"), 그리고 [가나가](https://ko.wikipedia.org/wiki/가나_축구_국가대표팀 "wikilink") 편성되었다. 이 대회의 8개 조들 중 가장 전력 격차가 적고, 강팀들이 밀집한 조기 때문에 D조는 2010년 FIFA 월드컵의 "[죽음의 조](../Page/죽음의_조.md "wikilink")"로 평가되었다.\[2\]
+**[2010년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵 "wikilink") D조**의 경기는 2010년 6월 13일과 6월 23일 사이에 치러졌다.\[1\] D조에는 [독일](../Page/독일_축구_국가대표팀.md "wikilink"), [오스트레일리아](../Page/오스트레일리아_축구_국가대표팀.md "wikilink"), [세르비아](../Page/세르비아_축구_국가대표팀.md "wikilink"), 그리고 [가나가](../Page/가나_축구_국가대표팀.md "wikilink") 편성되었다. 이 대회의 8개 조들 중 가장 전력 격차가 적고, 강팀들이 밀집한 조기 때문에 D조는 2010년 FIFA 월드컵의 "[죽음의 조](../Page/죽음의_조.md "wikilink")"로 평가되었다.\[2\]
 
 ## 요약
 
-D조의 시드 배정국인 [독일은](https://ko.wikipedia.org/wiki/독일_축구_국가대표팀 "wikilink") 서독 시절 기록을 포함해 세르비아 (구 [SFR 유고슬라비아와](../Page/유고슬라비아_축구_국가대표팀.md "wikilink") [FR 유고슬라비아](../Page/세르비아_몬테네그로_축구_국가대표팀.md "wikilink") 시절을 포함하여) 와 오스트레일리아를 상대로 FIFA 월드컵 본선에서 맞대결을 펼쳤었다. 독일은 [세르비아를](https://ko.wikipedia.org/wiki/세르비아_축구_국가대표팀 "wikilink") 상대로 6번 맞대결을 펼쳐 4승 1무 1패의 기록을 냈다. 오스트레일리아와는 [1974년 대회의](https://ko.wikipedia.org/wiki/1974년_FIFA_월드컵 "wikilink") 1차 조별 리그에서 서로를 맞딱뜨렸었다. 당시 서독은 함부르크 홈 안방에서 [오스트레일리아를](https://ko.wikipedia.org/wiki/오스트레일리아_축구_국가대표팀 "wikilink") 3-0으로 완파하였다. 그 외의 맞대결은 이번 대회에서 처음으로 성사된 것이다.
+D조의 시드 배정국인 [독일은](../Page/독일_축구_국가대표팀.md "wikilink") 서독 시절 기록을 포함해 세르비아 (구 [SFR 유고슬라비아와](../Page/유고슬라비아_축구_국가대표팀.md "wikilink") [FR 유고슬라비아](../Page/세르비아_몬테네그로_축구_국가대표팀.md "wikilink") 시절을 포함하여) 와 오스트레일리아를 상대로 FIFA 월드컵 본선에서 맞대결을 펼쳤었다. 독일은 [세르비아를](../Page/세르비아_축구_국가대표팀.md "wikilink") 상대로 6번 맞대결을 펼쳐 4승 1무 1패의 기록을 냈다. 오스트레일리아와는 [1974년 대회의](https://ko.wikipedia.org/wiki/1974년_FIFA_월드컵 "wikilink") 1차 조별 리그에서 서로를 맞딱뜨렸었다. 당시 서독은 함부르크 홈 안방에서 [오스트레일리아를](../Page/오스트레일리아_축구_국가대표팀.md "wikilink") 3-0으로 완파하였다. 그 외의 맞대결은 이번 대회에서 처음으로 성사된 것이다.
 
   - *모든 시간은 [남아프리카 표준시를](https://ko.wikipedia.org/wiki/남아프리카_표준시 "wikilink") 따른다.* ([UTC+2](https://ko.wikipedia.org/wiki/UTC+2 "wikilink"))
 
@@ -189,7 +189,7 @@ D조의 시드 배정국인 [독일은](https://ko.wikipedia.org/wiki/독일_축
 
 ## 독일 vs 오스트레일리아
 
-독일은 오스트레일리아를 상대로 다득점을 성공시키며 첫 경기를 4-0 승리로 장식하였다. 한편 오스트레일리아의 [핌 페르베이크](https://ko.wikipedia.org/wiki/핌_베어벡 "wikilink") 감독은 두각을 나타내는 공격수 없이 경기를 임하였는데, 이로 그는 전술적 비판을 받았다.\[9\] 더 나아가서, [SBS](../Page/스페셜_브로드캐스팅_서비스.md "wikilink") 기술분석가 [크레이그 포스터는](https://ko.wikipedia.org/wiki/크레이그_포스터 "wikilink") 그가 즉각 경질돼야 한다고 주장하기에 이르기도 했다.\[10\]
+독일은 오스트레일리아를 상대로 다득점을 성공시키며 첫 경기를 4-0 승리로 장식하였다. 한편 오스트레일리아의 [핌 페르베이크](../Page/핌_베어벡.md "wikilink") 감독은 두각을 나타내는 공격수 없이 경기를 임하였는데, 이로 그는 전술적 비판을 받았다.\[9\] 더 나아가서, [SBS](../Page/스페셜_브로드캐스팅_서비스.md "wikilink") 기술분석가 [크레이그 포스터는](https://ko.wikipedia.org/wiki/크레이그_포스터 "wikilink") 그가 즉각 경질돼야 한다고 주장하기에 이르기도 했다.\[10\]
 
 |          |                        |                       |                        |                        |                        |                  |               |                   |                 |                |                     |          |                        |                       |                        |                        |                        |                  |               |                   |                 |                |                                         |
 | -------- | ---------------------- | --------------------- | ---------------------- | ---------------------- | ---------------------- | ---------------- | ------------- | ----------------- | --------------- | -------------- | ------------------- | -------- | ---------------------- | --------------------- | ---------------------- | ---------------------- | ---------------------- | ---------------- | ------------- | ----------------- | --------------- | -------------- | --------------------------------------- |
@@ -265,7 +265,7 @@ D조의 시드 배정국인 [독일은](https://ko.wikipedia.org/wiki/독일_축
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/요아힘_뢰프" title="wikilink">요아힘 뢰프</a></p></td>
+<td><p><a href="../Page/요아힘_뢰프.md" title="wikilink">요아힘 뢰프</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -338,7 +338,7 @@ D조의 시드 배정국인 [독일은](https://ko.wikipedia.org/wiki/독일_축
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/핌_베어벡" title="wikilink">핌 페르베이크</a></p></td>
+<td><p><a href="../Page/핌_베어벡.md" title="wikilink">핌 페르베이크</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -367,7 +367,7 @@ D조의 시드 배정국인 [독일은](https://ko.wikipedia.org/wiki/독일_축
 
 ## 독일 vs 세르비아
 
-독일은 [미로슬라프 클로제가](https://ko.wikipedia.org/wiki/미로슬라프_클로제 "wikilink") 37분에 퇴장당하면서 경기의 절반 이상을 수적 열세 속에 임해야 했다. 독일은 설상가상으로 클로제가 퇴장 당한지 얼마 지나지 않아 세르비아의 윙어 [밀란 요바노비치에게](../Page/밀란_요바노비치.md "wikilink") 실점을 허용했다. 후반에 들어서 세르비아의 중앙 수비수 [네마냐 비디치가](../Page/네마냐_비디치.md "wikilink") 페널티 구역 내에서 공을 만진 것으로 경고가 내려지면서 독일은 페널티킥으로 승부를 원점으로 돌릴 기회를 잡았다. 그러나, 이어지는 [루카스 포돌스키의](../Page/루카스_포돌스키.md "wikilink") 페널티킥을 수문장 [블라디미르 스토이코비치가](../Page/블라디미르_스토이코비치.md "wikilink") 잡아냈다.\[17\]
+독일은 [미로슬라프 클로제가](../Page/미로슬라프_클로제.md "wikilink") 37분에 퇴장당하면서 경기의 절반 이상을 수적 열세 속에 임해야 했다. 독일은 설상가상으로 클로제가 퇴장 당한지 얼마 지나지 않아 세르비아의 윙어 [밀란 요바노비치에게](../Page/밀란_요바노비치.md "wikilink") 실점을 허용했다. 후반에 들어서 세르비아의 중앙 수비수 [네마냐 비디치가](../Page/네마냐_비디치.md "wikilink") 페널티 구역 내에서 공을 만진 것으로 경고가 내려지면서 독일은 페널티킥으로 승부를 원점으로 돌릴 기회를 잡았다. 그러나, 이어지는 [루카스 포돌스키의](../Page/루카스_포돌스키.md "wikilink") 페널티킥을 수문장 [블라디미르 스토이코비치가](../Page/블라디미르_스토이코비치.md "wikilink") 잡아냈다.\[17\]
 
 |          |                        |                       |                        |                        |                        |                  |               |                   |                 |                |                     |          |                        |                       |                        |                        |                        |                  |               |                   |                 |                |                       |
 | -------- | ---------------------- | --------------------- | ---------------------- | ---------------------- | ---------------------- | ---------------- | ------------- | ----------------- | --------------- | -------------- | ------------------- | -------- | ---------------------- | --------------------- | ---------------------- | ---------------------- | ---------------------- | ---------------- | ------------- | ----------------- | --------------- | -------------- | --------------------- |
@@ -443,7 +443,7 @@ D조의 시드 배정국인 [독일은](https://ko.wikipedia.org/wiki/독일_축
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/요아힘_뢰프" title="wikilink">요아힘 뢰프</a></p></td>
+<td><p><a href="../Page/요아힘_뢰프.md" title="wikilink">요아힘 뢰프</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -692,7 +692,7 @@ D조의 시드 배정국인 [독일은](https://ko.wikipedia.org/wiki/독일_축
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/핌_베어벡" title="wikilink">핌 페르베이크</a></p></td>
+<td><p><a href="../Page/핌_베어벡.md" title="wikilink">핌 페르베이크</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -868,7 +868,7 @@ D조의 시드 배정국인 [독일은](https://ko.wikipedia.org/wiki/독일_축
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/요아힘_뢰프" title="wikilink">요아힘 뢰프</a></p></td>
+<td><p><a href="../Page/요아힘_뢰프.md" title="wikilink">요아힘 뢰프</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -973,7 +973,7 @@ D조의 시드 배정국인 [독일은](https://ko.wikipedia.org/wiki/독일_축
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/핌_베어벡" title="wikilink">핌 페르베이크</a></p></td>
+<td><p><a href="../Page/핌_베어벡.md" title="wikilink">핌 페르베이크</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1064,7 +1064,7 @@ D조의 시드 배정국인 [독일은](https://ko.wikipedia.org/wiki/독일_축
 마우리시오 에스피노사 (<a href="https://ko.wikipedia.org/wiki/우루과이_축구_협회" title="wikilink">우루과이</a>)<br />
 파블로 판디뇨 (<a href="https://ko.wikipedia.org/wiki/우루과이_축구_협회" title="wikilink">우루과이</a>)<br />
 <strong>대기심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/카를로스_바트레스" title="wikilink">카를로스 바트레스</a> (<a href="https://ko.wikipedia.org/wiki/과테말라_축구_협회" title="wikilink">과테말라</a>)<br />
+<a href="../Page/카를로스_바트레스.md" title="wikilink">카를로스 바트레스</a> (<a href="https://ko.wikipedia.org/wiki/과테말라_축구_협회" title="wikilink">과테말라</a>)<br />
 <strong>후보 대기심:</strong><br />
 레오넬 레알 (<a href="https://ko.wikipedia.org/wiki/코스타리카_축구_협회" title="wikilink">코스타리카</a>)</p></td>
 </tr>

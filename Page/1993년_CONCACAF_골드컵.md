@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [1993 CONCACAF ](https://ko.wikipedia.org/wiki/1993_CONCACAF_).
 
 
-**1993년 CONCACAF 골드컵**(1993 CONCACAF Gold Cup)은 [CONCACAF](https://ko.wikipedia.org/wiki/CONCACAF "wikilink")가 개최한 2번째 [CONCACAF 골드컵으로](../Page/CONCACAF_골드컵.md "wikilink"), [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") [7월 10일부터](https://ko.wikipedia.org/wiki/7월_10일 "wikilink") [7월 25일까지](https://ko.wikipedia.org/wiki/7월_25일 "wikilink") [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [댈러스](../Page/댈러스.md "wikilink")와 [멕시코](https://ko.wikipedia.org/wiki/멕시코 "wikilink") [멕시코시티](https://ko.wikipedia.org/wiki/멕시코시티 "wikilink")에서 개최되었다.
+**1993년 CONCACAF 골드컵**(1993 CONCACAF Gold Cup)은 [CONCACAF](https://ko.wikipedia.org/wiki/CONCACAF "wikilink")가 개최한 2번째 [CONCACAF 골드컵으로](../Page/CONCACAF_골드컵.md "wikilink"), [1993년](../Page/1993년.md "wikilink") [7월 10일부터](../Page/7월_10일.md "wikilink") [7월 25일까지](../Page/7월_25일.md "wikilink") [미국](../Page/미국.md "wikilink") [댈러스](../Page/댈러스.md "wikilink")와 [멕시코](../Page/멕시코.md "wikilink") [멕시코시티](../Page/멕시코시티.md "wikilink")에서 개최되었다.
 
-대회의 형식은 8개국이 2개의 조로 나뉘어 각 조의 1, 2위 팀이 4강에 진출하는 방식이었다. 이 대회 결승전에서는 [멕시코가](https://ko.wikipedia.org/wiki/멕시코_축구_국가대표팀 "wikilink") [미국을](https://ko.wikipedia.org/wiki/미국_축구_국가대표팀 "wikilink") 4-0으로 누르고 네 번째 우승을 차지했다.
+대회의 형식은 8개국이 2개의 조로 나뉘어 각 조의 1, 2위 팀이 4강에 진출하는 방식이었다. 이 대회 결승전에서는 [멕시코가](../Page/멕시코_축구_국가대표팀.md "wikilink") [미국을](../Page/미국_축구_국가대표팀.md "wikilink") 4-0으로 누르고 네 번째 우승을 차지했다.
 
 ## 예선
 
@@ -38,7 +38,7 @@
 ## 개최 도시 및 경기장
 
   - [댈러스](../Page/댈러스.md "wikilink") - [코튼볼](../Page/코튼볼_\(경기장\).md "wikilink")
-  - [멕시코시티](https://ko.wikipedia.org/wiki/멕시코시티 "wikilink") - [에스타디오 아스테카](../Page/에스타디오_아스테카.md "wikilink")
+  - [멕시코시티](../Page/멕시코시티.md "wikilink") - [에스타디오 아스테카](../Page/에스타디오_아스테카.md "wikilink")
 
 ## 선수 명단
 
@@ -227,7 +227,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Mexico.svg" title="wikilink">100px</a><br />
-<strong><a href="https://ko.wikipedia.org/wiki/멕시코_축구_국가대표팀" title="wikilink">멕시코</a></strong><br />
+<strong><a href="../Page/멕시코_축구_국가대표팀.md" title="wikilink">멕시코</a></strong><br />
 <strong>4번째 우승</strong></p></td>
 </tr>
 </tbody>

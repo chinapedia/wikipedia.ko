@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [   Wii](https://ko.wikipedia.org/wiki/___Wii).
 
 
-《**뉴 슈퍼 마리오브라더스 Wii**》()는 [닌텐도](https://ko.wikipedia.org/wiki/닌텐도 "wikilink")가 개발한 [Wii](https://ko.wikipedia.org/wiki/Wii "wikilink")용 액션 게임 소프트웨어이다. 대한민국에서는 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [8월 7일에](https://ko.wikipedia.org/wiki/8월_7일 "wikilink") 블랙 [Wii](https://ko.wikipedia.org/wiki/Wii "wikilink")와 함께 발매되었다.
+《**뉴 슈퍼 마리오브라더스 Wii**》()는 [닌텐도](../Page/닌텐도.md "wikilink")가 개발한 [Wii](../Page/Wii.md "wikilink")용 액션 게임 소프트웨어이다. 대한민국에서는 [2010년](../Page/2010년.md "wikilink") [8월 7일에](../Page/8월_7일.md "wikilink") 블랙 [Wii](../Page/Wii.md "wikilink")와 함께 발매되었다.
 
 ## 개요
 

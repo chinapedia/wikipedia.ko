@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  II](https://ko.wikipedia.org/wiki/__II).
 
 
-**애니콜 멀티터치 II**()은 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")에서 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [7월 16일에](https://ko.wikipedia.org/wiki/7월_16일 "wikilink") 출시한 [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")이다.\[1\]
+**애니콜 멀티터치 II**()은 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")에서 [2008년](../Page/2008년.md "wikilink") [7월 16일에](../Page/7월_16일.md "wikilink") 출시한 [스마트폰](../Page/스마트폰.md "wikilink")이다.\[1\]
 
 ## 각주
 

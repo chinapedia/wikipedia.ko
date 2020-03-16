@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LGM-30 ](https://ko.wikipedia.org/wiki/LGM-30_).
 
 
-**LGM-30 미니트맨**(LGM-30 Minuteman)은 미국 [보잉](https://ko.wikipedia.org/wiki/보잉 "wikilink")사가 제작한, 무게 35톤의 대륙간 탄도 미사일이다. 항속 거리는 13,000km이고 최고 속도는 28,400km/h이다. 미니트맨은 1962년에 실전배치되었다.
+**LGM-30 미니트맨**(LGM-30 Minuteman)은 미국 [보잉](../Page/보잉.md "wikilink")사가 제작한, 무게 35톤의 대륙간 탄도 미사일이다. 항속 거리는 13,000km이고 최고 속도는 28,400km/h이다. 미니트맨은 1962년에 실전배치되었다.
 
 ## 유일한 지상 ICBM
 
@@ -9,7 +9,7 @@
 
 ## UR-100
 
-소련 [흐루니체프](https://ko.wikipedia.org/wiki/흐루니체프 "wikilink")사는 이에 대응해 무게 40톤의 [UR-100](../Page/UR-100.md "wikilink") 핵미사일을 만들었고 1967년에 실전배치했다. 미니트맨은 3단 고체 추진 로켓이지만 [UR-100](../Page/UR-100.md "wikilink")은 2단 액체 추진 로켓이다.
+소련 [흐루니체프](../Page/흐루니체프.md "wikilink")사는 이에 대응해 무게 40톤의 [UR-100](../Page/UR-100.md "wikilink") 핵미사일을 만들었고 1967년에 실전배치했다. 미니트맨은 3단 고체 추진 로켓이지만 [UR-100](../Page/UR-100.md "wikilink")은 2단 액체 추진 로켓이다.
 
 소련의 [UR-100](../Page/UR-100.md "wikilink")은 액체 연료를 사용하기 때문에 오랜 액체 연료의 주입시간이 필요하지만 미국의 미니트맨은 고체 연료를 사용하기 때문에 즉시 발사할 수 있다. 소련도 1988년 고체 연료를 사용하는 토폴 대륙간 탄도 미사일을 실전배치했다.
 

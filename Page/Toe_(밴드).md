@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Toe \(\)](https://ko.wikipedia.org/wiki/Toe_\(\)).
 
 
-**토**(toe)는 [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink")에 결성된 [일본](../Page/일본.md "wikilink")의 [포스트 록](../Page/포스트_록.md "wikilink") [밴드](https://ko.wikipedia.org/wiki/밴드 "wikilink")이다. 노래는 [기악](../Page/기악.md "wikilink")곡이 많지만, 샤카좀비 (Shakkazombie)의 오스미, 클램본의 하라다 이쿠코 등이 게스트 [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink")로 참가한 곡도 있다. 또, 두 번째 [EP](../Page/익스텐디드_플레이.md "wikilink") 《New Sentimentality》에서는 기타를 맡고있는 야마자키가 보컬을 맡은 곡도 있다.
+**토**(toe)는 [2000년](../Page/2000년.md "wikilink")에 결성된 [일본](../Page/일본.md "wikilink")의 [포스트 록](../Page/포스트_록.md "wikilink") [밴드](https://ko.wikipedia.org/wiki/밴드 "wikilink")이다. 노래는 [기악](../Page/기악.md "wikilink")곡이 많지만, 샤카좀비 (Shakkazombie)의 오스미, 클램본의 하라다 이쿠코 등이 게스트 [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink")로 참가한 곡도 있다. 또, 두 번째 [EP](../Page/익스텐디드_플레이.md "wikilink") 《New Sentimentality》에서는 기타를 맡고있는 야마자키가 보컬을 맡은 곡도 있다.
 
 드러머인 가시쿠라는 토 외에 [하이에이터스](https://ko.wikipedia.org/wiki/하이에이터스 "wikilink") (The Hiatus)의 구성원으로도 활동 중이며, 기타 연주자인 야마자키는 공간 디자이너로 활동 중이며, 2007년에 방송된 드라마 《[라이프](../Page/라이프_\(만화\).md "wikilink")》의 음악 작가로도 활동 했다. 다른 기타연주자인 미노 타카시는 인디 밴드들의 엔지니어 및 프로듀싱을 하고 있는데 그가 참여한 밴드는 Lite, Spangle Call Lilli line 등이 있다.
 

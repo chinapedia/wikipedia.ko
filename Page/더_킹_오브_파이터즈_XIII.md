@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [    XIII](https://ko.wikipedia.org/wiki/____XIII).
 
 
-《**더 킹 오브 파이터즈 XIII**》(, 약칭 **KOF XIII**)은 [SNK](../Page/SNK.md "wikilink")가 제작한 2010년 [아케이드](../Page/아케이드_게임.md "wikilink") [대전 격투 게임이다](https://ko.wikipedia.org/wiki/대전_격투_게임 "wikilink"). 2010년 7월 14일 [타이토 타입 X2](https://ko.wikipedia.org/wiki/타이토_타입_X2 "wikilink") 기판으로 일본에서 발매됐으며, 이후 2011년 가정용 버전이 [플레이스테이션 3](https://ko.wikipedia.org/wiki/플레이스테이션_3 "wikilink") 및 [엑스박스 360](https://ko.wikipedia.org/wiki/엑스박스_360 "wikilink") 기종으로 전세계로 출시됐다. 《[더 킹 오브 파이터즈](../Page/더_킹_오브_파이터즈.md "wikilink")》 시리즈 열세번째 작품으로, [더 킹 오브 파이터즈 XI에](../Page/더_킹_오브_파이터즈_XI.md "wikilink") 은 '크림슨 사가'의 완결편이다.
+《**더 킹 오브 파이터즈 XIII**》(, 약칭 **KOF XIII**)은 [SNK](../Page/SNK.md "wikilink")가 제작한 2010년 [아케이드](../Page/아케이드_게임.md "wikilink") [대전 격투 게임이다](https://ko.wikipedia.org/wiki/대전_격투_게임 "wikilink"). 2010년 7월 14일 [타이토 타입 X2](https://ko.wikipedia.org/wiki/타이토_타입_X2 "wikilink") 기판으로 일본에서 발매됐으며, 이후 2011년 가정용 버전이 [플레이스테이션 3](../Page/플레이스테이션_3.md "wikilink") 및 [엑스박스 360](../Page/엑스박스_360.md "wikilink") 기종으로 전세계로 출시됐다. 《[더 킹 오브 파이터즈](../Page/더_킹_오브_파이터즈.md "wikilink")》 시리즈 열세번째 작품으로, [더 킹 오브 파이터즈 XI에](../Page/더_킹_오브_파이터즈_XI.md "wikilink") 은 '크림슨 사가'의 완결편이다.
 
 전작 《[더 킹 오브 파이터즈 XII](../Page/더_킹_오브_파이터즈_XII.md "wikilink")》의 컨텐츠 부족에 대한 지적을 받아들이고 이전에 참전하지 못했던 기존 출연진을 대게 재등장시키고 새로운 플레이어 캐릭터들도 추가했다. 가정용 이식판의 경우 더욱 더 많은 새로운 스테이지와 모드들을 소개했다. 게임플레이 시스템은 전작과 대동소이하나, 게이지를 소모해서 발휘되는 더욱 강력한 'NEO MAX 초필살기'를 새로이 도입했다.
 
-가정용 버전은 이후 아케이드로 《더 킹 오브 파이터즈 XIII 클라이맥스》라는 제목으로 재출시됐다. [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink")와 [안드로이드로는](../Page/안드로이드_\(운영_체제\).md "wikilink") 터치스크린을 고려한 조정판이 발매됐고, [마이크로소프트 윈도우로도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도우 "wikilink") 2013년 출시됐다.
+가정용 버전은 이후 아케이드로 《더 킹 오브 파이터즈 XIII 클라이맥스》라는 제목으로 재출시됐다. [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink")와 [안드로이드로는](../Page/안드로이드_\(운영_체제\).md "wikilink") 터치스크린을 고려한 조정판이 발매됐고, [마이크로소프트 윈도우로도](../Page/마이크로소프트_윈도우.md "wikilink") 2013년 출시됐다.
 
 ## 이야기 및 등장인물
 
@@ -41,7 +41,7 @@
 
 **김갑환 팀**
 
-  - [김갑환](https://ko.wikipedia.org/wiki/김갑환 "wikilink")
+  - [김갑환](../Page/김갑환.md "wikilink")
   - [화 자이](../Page/화_자이.md "wikilink")
   - [라이덴](https://ko.wikipedia.org/wiki/라이덴_\(아랑전설\) "wikilink")
 

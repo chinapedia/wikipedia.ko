@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Natural](https://ko.wikipedia.org/wiki/The_Natural).
 
 
-**The Natural**은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 발라드 가수 [윤종신](../Page/윤종신.md "wikilink")이 발표한 정규 3집 음반이다.
+**The Natural**은 [대한민국](../Page/대한민국.md "wikilink")의 발라드 가수 [윤종신](../Page/윤종신.md "wikilink")이 발표한 정규 3집 음반이다.
 
 ## 수록곡
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [AviSynth](https://ko.wikipedia.org/wiki/AviSynth).
 
 
-**AviSynth**는 마이크로소프트 윈도에서 구동되는 [frameserver](https://ko.wikipedia.org/wiki/frameserver "wikilink") 프로그램으로 [밴 로디악 굴드에](https://ko.wikipedia.org/wiki/밴_로디악_굴드 "wikilink") 의해 개발되었으며 라이선스는 [GNU](https://ko.wikipedia.org/wiki/GNU "wikilink")의 [GPL](https://ko.wikipedia.org/wiki/GPL "wikilink")에 따라 배포되고 있다. 그리고 일부 필터의 기능은 v2.5.7 릴리즈 이후 버전부터 [크리에이티브 커먼즈](https://ko.wikipedia.org/wiki/크리에이티브_커먼즈 "wikilink") Attribution-ShareAlike 3.0 License를 따른다.
+**AviSynth**는 마이크로소프트 윈도에서 구동되는 [frameserver](https://ko.wikipedia.org/wiki/frameserver "wikilink") 프로그램으로 [밴 로디악 굴드에](https://ko.wikipedia.org/wiki/밴_로디악_굴드 "wikilink") 의해 개발되었으며 라이선스는 [GNU](../Page/GNU.md "wikilink")의 [GPL](https://ko.wikipedia.org/wiki/GPL "wikilink")에 따라 배포되고 있다. 그리고 일부 필터의 기능은 v2.5.7 릴리즈 이후 버전부터 [크리에이티브 커먼즈](../Page/크리에이티브_커먼즈.md "wikilink") Attribution-ShareAlike 3.0 License를 따른다.
 
 [frameServer](https://ko.wikipedia.org/wiki/frameServer "wikilink")는 [동영상](https://ko.wikipedia.org/wiki/동영상 "wikilink")과 같이 용량이 큰 파일을 인코딩이나 디코딩시 한꺼번에 로딩하지 않고 필요한 부분만 조금씩 프로세싱 해주는 역할을 담당한다.
 
@@ -13,7 +13,7 @@ AviSynth를 사용함으로써 기대되는 효과로는 1) 다양한 포맷의 
 
 ## AviSynth 스크립트 언어
 
-AviSynth 스크립트 언어인 [AviScript](https://ko.wikipedia.org/wiki/AviScript "wikilink")는 AviSynth를 [frameserver](https://ko.wikipedia.org/wiki/frameserver "wikilink")로서 사용하기 위한 [인터프리터](https://ko.wikipedia.org/wiki/인터프리터 "wikilink") 언어이며 이를 파일형태로 지원하기 위한 확장자로 AVS가 사용된다. AVS를 확장자로 가지는 파일을 실행 하였을 때 편집에 사용된 원본의 영상과 효과를 FrameServing하여 보여주게 되며 frameserver에서는 스크립트를 해석하여 [다이렉트쇼](../Page/다이렉트쇼.md "wikilink")로 인터프리팅 하게 된다.
+AviSynth 스크립트 언어인 [AviScript](https://ko.wikipedia.org/wiki/AviScript "wikilink")는 AviSynth를 [frameserver](https://ko.wikipedia.org/wiki/frameserver "wikilink")로서 사용하기 위한 [인터프리터](../Page/인터프리터.md "wikilink") 언어이며 이를 파일형태로 지원하기 위한 확장자로 AVS가 사용된다. AVS를 확장자로 가지는 파일을 실행 하였을 때 편집에 사용된 원본의 영상과 효과를 FrameServing하여 보여주게 되며 frameserver에서는 스크립트를 해석하여 [다이렉트쇼](../Page/다이렉트쇼.md "wikilink")로 인터프리팅 하게 된다.
 
 ### AviSynth 스크립트 언어의 특징
 
@@ -35,7 +35,7 @@ AviSynth 스크립트 언어는 인터프리터의 특징을 가지고 있는대
 
 ## 한계점
 
-AviSynth를 사용하기위해서는 다음과 같은 한계가 있다. 우선 AviSynth 패키지를 사용자의 피씨에 설치해야 한다. 이는 [DirectX](https://ko.wikipedia.org/wiki/DirectX "wikilink")에서 다이렉트쇼를 통해 프로세싱하기 위해서이다. 그리고 AviSynth는 사용자의 PC에 설치되어 있는 [코덱](../Page/코덱.md "wikilink")에 의존적이다. 코덱이 설치되지 않은 PC에서는 해당 코덱을 사용하여 인코딩된 영상을 디코딩하지 못하게 되며(코덱 의존적임), 이는 결국 편집 및 재생에 대한 frameserving이 불가능하다는 것이다. 마지막으로 AVS 파일 작성 시 폴더나 파일명은 반드시 8+3규칙을 따라야 한다. AviSynth는 원래 DOS를 기반으로 만들어진 프로그램이기 때문에 반드시 영문 8자(빈칸 없이)이내, 확장자는 3자이여야 한다는 한계가 있다.
+AviSynth를 사용하기위해서는 다음과 같은 한계가 있다. 우선 AviSynth 패키지를 사용자의 피씨에 설치해야 한다. 이는 [DirectX](../Page/DirectX.md "wikilink")에서 다이렉트쇼를 통해 프로세싱하기 위해서이다. 그리고 AviSynth는 사용자의 PC에 설치되어 있는 [코덱](../Page/코덱.md "wikilink")에 의존적이다. 코덱이 설치되지 않은 PC에서는 해당 코덱을 사용하여 인코딩된 영상을 디코딩하지 못하게 되며(코덱 의존적임), 이는 결국 편집 및 재생에 대한 frameserving이 불가능하다는 것이다. 마지막으로 AVS 파일 작성 시 폴더나 파일명은 반드시 8+3규칙을 따라야 한다. AviSynth는 원래 DOS를 기반으로 만들어진 프로그램이기 때문에 반드시 영문 8자(빈칸 없이)이내, 확장자는 3자이여야 한다는 한계가 있다.
 
 ## 외부 링크
 

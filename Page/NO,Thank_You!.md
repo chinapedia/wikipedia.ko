@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NO,Thank You!](https://ko.wikipedia.org/wiki/NO,Thank_You!).
 
 
-《**NO,Thank You\!**》는 '방과 후 티타임'의 싱글 앨범이다. [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [8월 4일](https://ko.wikipedia.org/wiki/8월_4일 "wikilink") [포니 캐니언에서](https://ko.wikipedia.org/wiki/포니_캐니언 "wikilink") 발매되었다.
+《**NO,Thank You\!**》는 '방과 후 티타임'의 싱글 앨범이다. [2010년](../Page/2010년.md "wikilink") [8월 4일](../Page/8월_4일.md "wikilink") [포니 캐니언에서](https://ko.wikipedia.org/wiki/포니_캐니언 "wikilink") 발매되었다.
 
 ## 개요
 

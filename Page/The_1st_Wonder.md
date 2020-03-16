@@ -41,7 +41,7 @@
 </tr>
 <tr class="even">
 <td><p>2009년 2월 28일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/방콕" title="wikilink">방콕</a></p></td>
+<td><p><a href="../Page/방콕.md" title="wikilink">방콕</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/2PM" title="wikilink">2PM</a></p></td>
 <td><p>방콕 인도어 스타디움</p></td>
@@ -69,7 +69,7 @@
 </tr>
 <tr class="even">
 <td><p>2009년 3월 8일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴욕" title="wikilink">뉴욕</a></p></td>
+<td><p><a href="../Page/뉴욕.md" title="wikilink">뉴욕</a></p></td>
 <td><p>추가 바람</p></td>
 <td><p>맨하탄 해머스타인 볼룸 공연장</p></td>
 <td></td>

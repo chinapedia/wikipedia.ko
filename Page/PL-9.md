@@ -8,7 +8,7 @@
 ## 더 보기
 
   - [청두 J-10‎](https://ko.wikipedia.org/wiki/청두_J-10‎ "wikilink")
-  - [파이톤 5 미사일](https://ko.wikipedia.org/wiki/파이톤_5_미사일 "wikilink")
+  - [파이톤 5 미사일](../Page/파이톤_5_미사일.md "wikilink")
   - [PL-12](../Page/PL-12.md "wikilink") - 중국판 암람
 
 [분류:중화인민공화국의 공대공유도탄](https://ko.wikipedia.org/wiki/분류:중화인민공화국의_공대공유도탄 "wikilink") [분류:중화인민공화국의 지대공유도탄](https://ko.wikipedia.org/wiki/분류:중화인민공화국의_지대공유도탄 "wikilink") [분류:중화인민공화국의 미사일](https://ko.wikipedia.org/wiki/분류:중화인민공화국의_미사일 "wikilink")

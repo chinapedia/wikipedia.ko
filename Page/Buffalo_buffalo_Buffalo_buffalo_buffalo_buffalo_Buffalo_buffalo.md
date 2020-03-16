@@ -3,12 +3,12 @@
 
 [오른쪽](https://ko.wikipedia.org/wiki/파일:Buffalo_sentence_1_parse_tree.svg "wikilink"))
 PN = [고유명사](https://ko.wikipedia.org/wiki/명사_\(품사\)#보통_명사/고유명사 "wikilink")
-N = [명사](https://ko.wikipedia.org/wiki/명사_\(품사\) "wikilink")
+N = [명사](../Page/명사_\(품사\).md "wikilink")
 V = [동사](../Page/동사_\(품사\).md "wikilink")
 NP = [명사구](https://ko.wikipedia.org/wiki/명사구 "wikilink")
 RC = [관계사절](https://ko.wikipedia.org/wiki/관계사절 "wikilink")
 VP = [동사구](https://ko.wikipedia.org/wiki/동사구 "wikilink")
-S = [문장](https://ko.wikipedia.org/wiki/문장_\(언어학\) "wikilink") \]\] "**Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo.**"는 [영어](https://ko.wikipedia.org/wiki/영어 "wikilink")에서 [문법 올바른](https://ko.wikipedia.org/wiki/문법 "wikilink")적으로 [문장으로](https://ko.wikipedia.org/wiki/문장_\(언어학\) "wikilink"), [동음이의어](../Page/동음이의어.md "wikilink")를 사용하여 만들 수 있는 복잡한 예제로 사용되기도 한다. 이 문장은 [뉴욕 주립 대학교 버팔로의](https://ko.wikipedia.org/wiki/뉴욕_주립_대학교_버팔로 "wikilink") 부교수인 [윌리엄 J. 래퍼포트가](https://ko.wikipedia.org/wiki/윌리엄_J._래퍼포트 "wikilink") 1972년부터 쓰기 시작하였다\[1\]. 1992년에는 라파포트가 [링귀스트 리스트에](https://ko.wikipedia.org/wiki/링귀스트_리스트 "wikilink") 언급하기도 했으며\[2\], 1994년에 [스티븐 핑커가](https://ko.wikipedia.org/wiki/스티븐_핑커 "wikilink") 자신의 저서인 《[언어 본능](https://ko.wikipedia.org/wiki/언어_본능 "wikilink")》에 언급하기도 했다\[3\].
+S = [문장](../Page/문장_\(언어학\).md "wikilink") \]\] "**Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo.**"는 [영어](../Page/영어.md "wikilink")에서 [문법 올바른](../Page/문법.md "wikilink")적으로 [문장으로](../Page/문장_\(언어학\).md "wikilink"), [동음이의어](../Page/동음이의어.md "wikilink")를 사용하여 만들 수 있는 복잡한 예제로 사용되기도 한다. 이 문장은 [뉴욕 주립 대학교 버팔로의](https://ko.wikipedia.org/wiki/뉴욕_주립_대학교_버팔로 "wikilink") 부교수인 [윌리엄 J. 래퍼포트가](https://ko.wikipedia.org/wiki/윌리엄_J._래퍼포트 "wikilink") 1972년부터 쓰기 시작하였다\[1\]. 1992년에는 라파포트가 [링귀스트 리스트에](https://ko.wikipedia.org/wiki/링귀스트_리스트 "wikilink") 언급하기도 했으며\[2\], 1994년에 [스티븐 핑커가](../Page/스티븐_핑커.md "wikilink") 자신의 저서인 《[언어 본능](https://ko.wikipedia.org/wiki/언어_본능 "wikilink")》에 언급하기도 했다\[3\].
 
 ## 문장 구조
 
@@ -17,7 +17,7 @@ S = [문장](https://ko.wikipedia.org/wiki/문장_\(언어학\) "wikilink") \]\]
 이 문장에서는 'buffalo'라는 단어가 서로 다른 세 가지 품사로 사용되었다.
 
   - Buffalo: **[수.](https://ko.wikipedia.org/wiki/수식어 "wikilink")** [뉴욕 주 버펄로 시를](https://ko.wikipedia.org/wiki/버펄로_\(뉴욕_주\) "wikilink") 가리키는 [고유명사로](https://ko.wikipedia.org/wiki/명사_\(품사\)#보통_명사/고유명사 "wikilink"), 이 문장에서는 'buffalo' 명사를 꾸미는 또 다른 명사 수식어로 사용된다.
-  - buffalo: **[명.](https://ko.wikipedia.org/wiki/명사_\(품사\) "wikilink")** [아메리카들소](https://ko.wikipedia.org/wiki/아메리카들소 "wikilink"), 혹은 '버팔로'라고 부른다. 이 문장에서는 [명사로](https://ko.wikipedia.org/wiki/명사_\(품사\) "wikilink") 사용되었으며, 특히 복수형으로 사용되었다(복수형의 경우 buffaloes나 buffalos로 표기하는 것도 가능하다).
+  - buffalo: **[명.](../Page/명사_\(품사\).md "wikilink")** [아메리카들소](../Page/아메리카들소.md "wikilink"), 혹은 '버팔로'라고 부른다. 이 문장에서는 [명사로](../Page/명사_\(품사\).md "wikilink") 사용되었으며, 특히 복수형으로 사용되었다(복수형의 경우 buffaloes나 buffalos로 표기하는 것도 가능하다).
   - buffalo: **[동.](../Page/동사_\(품사\).md "wikilink")** 이 문장에서는 [동사로](../Page/동사_\(품사\).md "wikilink") 사용되었으며, 의미는 괴롭히다(bully), 혼란시키다(confuse), 속이다(deceive), 위협하다(intimidate)등이 있다.
 
 이와 같은 품사를 사용하면, 원래의 문장은 다음과 같이 해석이 가능하다.

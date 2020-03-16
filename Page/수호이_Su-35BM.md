@@ -3,7 +3,7 @@
 
 [`섬네일`](https://ko.wikipedia.org/wiki/파일:Russian_Air_Force_Sukhoi_Su-35_Belyakov.jpg "wikilink")
 
-**수호이 Su-35BM**은 러시아의 대형, 장거리, 다목적 전투기이다. [수호이 Su-35를](https://ko.wikipedia.org/wiki/수호이_Su-35 "wikilink") 개조한 것으로, 수호이사는 4.5세대 전투기라고 말한다.\[1\] 그러나 [AESA](../Page/AESA.md "wikilink") 레이다가 없기 때문에, 미국 기준에 의하면 4세대 전투기이다.\[2\] Su-35BM은 2007년 [MAKS 에어쇼에](https://ko.wikipedia.org/wiki/MAKS_에어쇼 "wikilink") 공개되었다.
+**수호이 Su-35BM**은 러시아의 대형, 장거리, 다목적 전투기이다. [수호이 Su-35를](../Page/수호이_Su-35.md "wikilink") 개조한 것으로, 수호이사는 4.5세대 전투기라고 말한다.\[1\] 그러나 [AESA](../Page/AESA.md "wikilink") 레이다가 없기 때문에, 미국 기준에 의하면 4세대 전투기이다.\[2\] Su-35BM은 2007년 [MAKS 에어쇼에](https://ko.wikipedia.org/wiki/MAKS_에어쇼 "wikilink") 공개되었다.
 
 ## 러시아 주문
 

@@ -27,19 +27,19 @@
 
 | 시상 부문         | 수상자                                                                                                                                                                                                                                                             |
 | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 올해의 비디오상      | [Mr.Children](https://ko.wikipedia.org/wiki/Mr.Children "wikilink") - "君が好き"                                                                                                                                                                                    |
+| 올해의 비디오상      | [Mr.Children](../Page/Mr.Children.md "wikilink") - "君が好き"                                                                                                                                                                                                       |
 | 최우수 남자 가수상    | [히라이 켄](../Page/히라이_켄.md "wikilink")                                                                                                                                                                                                                            |
 | 최우수 여자 가수상    | [하마사키 아유미](../Page/하마사키_아유미.md "wikilink")                                                                                                                                                                                                                      |
 | 최우수 그룹상       | [백스트리트 보이즈](https://ko.wikipedia.org/wiki/백스트리트_보이즈 "wikilink")                                                                                                                                                                                                 |
 | 최우수 신인상       | [립 슬라임](https://ko.wikipedia.org/wiki/립_슬라임 "wikilink")                                                                                                                                                                                                         |
 | 최우수 록 가수상     | [드래곤 애쉬](https://ko.wikipedia.org/wiki/드래곤_애쉬 "wikilink")                                                                                                                                                                                                       |
 | 최우수 팝 가수상     | [CHEMISTRY](https://ko.wikipedia.org/wiki/CHEMISTRY "wikilink")                                                                                                                                                                                                 |
-| 최우수 R\&B 가수상  | [우타다 히카루](https://ko.wikipedia.org/wiki/우타다_히카루 "wikilink")                                                                                                                                                                                                     |
+| 최우수 R\&B 가수상  | [우타다 히카루](../Page/우타다_히카루.md "wikilink")                                                                                                                                                                                                                        |
 | 최우수 힙합 가수상    | [립 슬라임](https://ko.wikipedia.org/wiki/립_슬라임 "wikilink")                                                                                                                                                                                                         |
-| 최우수 댄스 가수상    | [케미컬 브라더스](https://ko.wikipedia.org/wiki/케미컬_브라더스 "wikilink")                                                                                                                                                                                                   |
+| 최우수 댄스 가수상    | [케미컬 브라더스](../Page/케미컬_브라더스.md "wikilink")                                                                                                                                                                                                                      |
 | 최우수 웹사이트상     | [www.larc-en-ciel.com](https://web.archive.org/web/20081002015841/http://www.larc-en-ciel.com/)                                                                                                                                                                 |
 | 최우수 영화 비디오상   | [크리스티나 아길레라](../Page/크리스티나_아길레라.md "wikilink"), [릴 킴](../Page/릴_킴.md "wikilink"), [마이아](https://ko.wikipedia.org/wiki/마이아_\(가수\) "wikilink"), [핑크](../Page/핑크_\(가수\).md "wikilink") - "Lady Marmalade" (영화 [물랑 루즈\!](../Page/물랑_루즈_\(2001년_영화\).md "wikilink")) |
-| 최우수 라이브 퍼포먼스상 | [오아시스](https://ko.wikipedia.org/wiki/오아시스 "wikilink")                                                                                                                                                                                                           |
+| 최우수 라이브 퍼포먼스상 | [오아시스](../Page/오아시스.md "wikilink")                                                                                                                                                                                                                              |
 |               |                                                                                                                                                                                                                                                                 |
 
 ### 2003년 2회
@@ -49,9 +49,9 @@
 | 올해의 비디오상      | [립 슬라임](https://ko.wikipedia.org/wiki/립_슬라임 "wikilink") - "樂園ベイベ"                                                              |
 | 올해의 앨범상       | [CHEMISTRY](https://ko.wikipedia.org/wiki/CHEMISTRY "wikilink") - 《Second To None》                                             |
 | 최우수 남자 비디오상   | [크레이그 데이비드](../Page/크레이그_데이비드.md "wikilink") - "What's Your Flava?"                                                            |
-| 최우수 여자 비디오상   | [우타다 히카루](https://ko.wikipedia.org/wiki/우타다_히카루 "wikilink") - "SAKURAドロップス"                                                    |
+| 최우수 여자 비디오상   | [우타다 히카루](../Page/우타다_히카루.md "wikilink") - "SAKURAドロップス"                                                                       |
 | 최우수 그룹 비디오상   | [립 슬라임](https://ko.wikipedia.org/wiki/립_슬라임 "wikilink") - "樂園ベイベ"                                                              |
-| 최우수 신인상       | [에이브릴 라빈](https://ko.wikipedia.org/wiki/에이브릴_라빈 "wikilink") - "Complicated"                                                    |
+| 최우수 신인상       | [에이브릴 라빈](../Page/에이브릴_라빈.md "wikilink") - "Complicated"                                                                       |
 | 최우수 록 비디오상    | [레드 핫 칠리 페퍼스](../Page/레드_핫_칠리_페퍼스.md "wikilink") - "By the Way"                                                                |
 | 최우수 팝 비디오상    | [블루](../Page/블루_\(음악_그룹\).md "wikilink") - "One Love"                                                                          |
 | 최우수 R\&B 비디오상 | [크리스탈 케이](https://ko.wikipedia.org/wiki/크리스탈_케이 "wikilink") - "Girl U Love"                                                    |
@@ -76,7 +76,7 @@
 | 최우수 팝 비디오상          | [하마사키 아유미](../Page/하마사키_아유미.md "wikilink") - "No way to say"                                                                                                                          |
 | 최우수 R\&B 비디오상       | [아무로 나미에](../Page/아무로_나미에.md "wikilink") - "Put 'Em Up"                                                                                                                               |
 | 최우수 힙합 비디오상         | ZEEBRA - "Touch The Sky"                                                                                                                                                              |
-| 최우수 댄스 비디오상         | [보아](https://ko.wikipedia.org/wiki/보아 "wikilink") - "DOUBLE"                                                                                                                          |
+| 최우수 댄스 비디오상         | [보아](../Page/보아.md "wikilink") - "DOUBLE"                                                                                                                                             |
 | Breakthrough Video상 | [나카시마 미카](../Page/나카시마_미카.md "wikilink") - "Lose Addict"                                                                                                                              |
 | 최우수 영화 비디오상         | [핑크](../Page/핑크_\(가수\).md "wikilink") - "Feel Good Time" (feat. 윌리엄 오빗) (영화 미녀삼총사 2 - 맥시멈 스피드)                                                                                        |
 | 최우수 콜라보레이션상         | [비욘세](../Page/비욘세.md "wikilink") - "Crazy in Love" (feat. [제이지](https://ko.wikipedia.org/wiki/제이지 "wikilink"))                                                                        |
@@ -86,43 +86,43 @@
 
 ### 2005년 4회
 
-| 시상 부문           | 수상자                                                                                                                                                             |
-| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 올해의 비디오상        | [오렌지 렌지](https://ko.wikipedia.org/wiki/오렌지_렌지 "wikilink") - "花"                                                                                                 |
-| 올해의 앨범상         | [오렌지 렌지](https://ko.wikipedia.org/wiki/오렌지_렌지 "wikilink") - 《[musiQ](https://ko.wikipedia.org/wiki/MusiQ "wikilink")》                                           |
-| 최우수 남자 비디오상     | [히라이 켄](../Page/히라이_켄.md "wikilink") - "瞳をとじて"                                                                                                                  |
-| 최우수 여자 비디오상     | [나카시마 미카](../Page/나카시마_미카.md "wikilink") - "桜色舞うころ"                                                                                                             |
-| 최우수 그룹 비디오상     | [린킨 파크](https://ko.wikipedia.org/wiki/린킨_파크 "wikilink") - "Breaking The Habit"                                                                                  |
-| 최우수 신인상         | 삼보마스터 - "美しき人間の日々"                                                                                                                                              |
-| 최우수 록 비디오상      | [후바스탱크](../Page/후바스탱크.md "wikilink") - "The Reason"                                                                                                             |
-| 최우수 팝 비디오상      | [케츠메이시](https://ko.wikipedia.org/wiki/케츠메이시 "wikilink") - "君にBUMP"                                                                                              |
-| 최우수 R\&B 비디오상   | [아무로 나미에](../Page/아무로_나미에.md "wikilink") - "Girl Talk"                                                                                                          |
-| 최우수 힙합 비디오상     | [비스티 보이즈](https://ko.wikipedia.org/wiki/비스티_보이즈_\(힙합_그룹\) "wikilink") - "Ch-Check It Out"                                                                       |
-| 최우수 영화 비디오상     | [히라이 켄](../Page/히라이_켄.md "wikilink") - "瞳をとじて" (영화 [세상의 중심에서 사랑을 외치다](../Page/세상의_중심에서_사랑을_외치다.md "wikilink"))                                                  |
-| 최우수 콜라보레이션상     | [제이지](https://ko.wikipedia.org/wiki/제이지 "wikilink") - "Numb/Encore" (with [린킨 파크](https://ko.wikipedia.org/wiki/린킨_파크 "wikilink"))                              |
-| Best buzz ASIA상 | [오렌지 렌지](https://ko.wikipedia.org/wiki/오렌지_렌지 "wikilink") - "ロコロ-ション", [비](https://ko.wikipedia.org/wiki/비_\(가수\) "wikilink") - "It's Raining", 손연자 - "Running" |
-|                 |                                                                                                                                                                 |
+| 시상 부문           | 수상자                                                                                                                                          |
+| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 올해의 비디오상        | [오렌지 렌지](https://ko.wikipedia.org/wiki/오렌지_렌지 "wikilink") - "花"                                                                              |
+| 올해의 앨범상         | [오렌지 렌지](https://ko.wikipedia.org/wiki/오렌지_렌지 "wikilink") - 《[musiQ](https://ko.wikipedia.org/wiki/MusiQ "wikilink")》                        |
+| 최우수 남자 비디오상     | [히라이 켄](../Page/히라이_켄.md "wikilink") - "瞳をとじて"                                                                                               |
+| 최우수 여자 비디오상     | [나카시마 미카](../Page/나카시마_미카.md "wikilink") - "桜色舞うころ"                                                                                          |
+| 최우수 그룹 비디오상     | [린킨 파크](../Page/린킨_파크.md "wikilink") - "Breaking The Habit"                                                                                  |
+| 최우수 신인상         | 삼보마스터 - "美しき人間の日々"                                                                                                                           |
+| 최우수 록 비디오상      | [후바스탱크](../Page/후바스탱크.md "wikilink") - "The Reason"                                                                                          |
+| 최우수 팝 비디오상      | [케츠메이시](https://ko.wikipedia.org/wiki/케츠메이시 "wikilink") - "君にBUMP"                                                                           |
+| 최우수 R\&B 비디오상   | [아무로 나미에](../Page/아무로_나미에.md "wikilink") - "Girl Talk"                                                                                       |
+| 최우수 힙합 비디오상     | [비스티 보이즈](https://ko.wikipedia.org/wiki/비스티_보이즈_\(힙합_그룹\) "wikilink") - "Ch-Check It Out"                                                    |
+| 최우수 영화 비디오상     | [히라이 켄](../Page/히라이_켄.md "wikilink") - "瞳をとじて" (영화 [세상의 중심에서 사랑을 외치다](../Page/세상의_중심에서_사랑을_외치다.md "wikilink"))                               |
+| 최우수 콜라보레이션상     | [제이지](https://ko.wikipedia.org/wiki/제이지 "wikilink") - "Numb/Encore" (with [린킨 파크](../Page/린킨_파크.md "wikilink"))                              |
+| Best buzz ASIA상 | [오렌지 렌지](https://ko.wikipedia.org/wiki/오렌지_렌지 "wikilink") - "ロコロ-ション", [비](../Page/비_\(가수\).md "wikilink") - "It's Raining", 손연자 - "Running" |
+|                 |                                                                                                                                              |
 
 ### 2006년 5회
 
-| 시상 부문           | 수상자                                                                                                                                                                                                   |
-| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 올해의 비디오상        | [코다 쿠미](../Page/코다_쿠미.md "wikilink") - "Butterfly"                                                                                                                                                    |
-| 올해의 앨범상         | [오렌지 렌지](https://ko.wikipedia.org/wiki/오렌지_렌지 "wikilink") - 《[ИATURAL](https://ko.wikipedia.org/wiki/ИATURAL "wikilink")》                                                                             |
-| 최우수 남자 비디오상     | [히라이 켄](../Page/히라이_켄.md "wikilink") - "Pop Star"                                                                                                                                                     |
-| 최우수 여자 비디오상     | [코다 쿠미](../Page/코다_쿠미.md "wikilink") - "Butterfly"                                                                                                                                                    |
-| 최우수 그룹 비디오상     | [데프 테크](https://ko.wikipedia.org/wiki/데프_테크 "wikilink") - "このまま"                                                                                                                                      |
-| 최우수 신인상         | [리한나](../Page/리한나.md "wikilink") - "Pon De Replay"                                                                                                                                                    |
-| 최우수 록 비디오상      | [그린 데이](https://ko.wikipedia.org/wiki/그린_데이 "wikilink") - "Boulevard Of Broken Dreams"                                                                                                                |
-| 최우수 팝 비디오상      | [레미오로멘](../Page/레미오로멘.md "wikilink") - "粉雪"                                                                                                                                                           |
-| 최우수 R\&B 비디오상   | [Ai](../Page/AI_\(가수\).md "wikilink") - "Story"                                                                                                                                                       |
-| 최우수 힙합 비디오상     | [50 센트](../Page/50_센트.md "wikilink") - "Outta Control" (feat. [맙딥](../Page/맙딥.md "wikilink"))                                                                                                         |
-| 최우수 레게 비디오상     | [쇼난노카제](https://ko.wikipedia.org/wiki/쇼난노카제 "wikilink") - "カラス"                                                                                                                                       |
-| 최우수 댄스 비디오상     | [고릴라즈](../Page/고릴라즈.md "wikilink") - "Feel Good Inc."                                                                                                                                                 |
-| 최우수 영화 비디오상     | [NANA](../Page/나카시마_미카.md "wikilink") - "Glamorous Sky" (영화 [NANA](../Page/NANA.md "wikilink"))                                                                                                       |
-| 최우수 콜라보레이션상     | [호테이 토모야스X](../Page/호테이_토모야스.md "wikilink")[립 슬라임](https://ko.wikipedia.org/wiki/립_슬라임 "wikilink") - "Battle Funkatic"                                                                                |
-| Best buzz ASIA상 | [코다 쿠미](../Page/코다_쿠미.md "wikilink") - "Trust you", [세븐](https://ko.wikipedia.org/wiki/세븐_\(가수\) "wikilink") - "Start Line", [저우제룬](https://ko.wikipedia.org/wiki/저우제룬 "wikilink") - "Hair Like Snow" |
-|                 |                                                                                                                                                                                                       |
+| 시상 부문           | 수상자                                                                                                                                                             |
+| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 올해의 비디오상        | [코다 쿠미](../Page/코다_쿠미.md "wikilink") - "Butterfly"                                                                                                              |
+| 올해의 앨범상         | [오렌지 렌지](https://ko.wikipedia.org/wiki/오렌지_렌지 "wikilink") - 《[ИATURAL](https://ko.wikipedia.org/wiki/ИATURAL "wikilink")》                                       |
+| 최우수 남자 비디오상     | [히라이 켄](../Page/히라이_켄.md "wikilink") - "Pop Star"                                                                                                               |
+| 최우수 여자 비디오상     | [코다 쿠미](../Page/코다_쿠미.md "wikilink") - "Butterfly"                                                                                                              |
+| 최우수 그룹 비디오상     | [데프 테크](https://ko.wikipedia.org/wiki/데프_테크 "wikilink") - "このまま"                                                                                                |
+| 최우수 신인상         | [리한나](../Page/리한나.md "wikilink") - "Pon De Replay"                                                                                                              |
+| 최우수 록 비디오상      | [그린 데이](../Page/그린_데이.md "wikilink") - "Boulevard Of Broken Dreams"                                                                                             |
+| 최우수 팝 비디오상      | [레미오로멘](../Page/레미오로멘.md "wikilink") - "粉雪"                                                                                                                     |
+| 최우수 R\&B 비디오상   | [Ai](../Page/AI_\(가수\).md "wikilink") - "Story"                                                                                                                 |
+| 최우수 힙합 비디오상     | [50 센트](../Page/50_센트.md "wikilink") - "Outta Control" (feat. [맙딥](../Page/맙딥.md "wikilink"))                                                                   |
+| 최우수 레게 비디오상     | [쇼난노카제](https://ko.wikipedia.org/wiki/쇼난노카제 "wikilink") - "カラス"                                                                                                 |
+| 최우수 댄스 비디오상     | [고릴라즈](../Page/고릴라즈.md "wikilink") - "Feel Good Inc."                                                                                                           |
+| 최우수 영화 비디오상     | [NANA](../Page/나카시마_미카.md "wikilink") - "Glamorous Sky" (영화 [NANA](../Page/NANA.md "wikilink"))                                                                 |
+| 최우수 콜라보레이션상     | [호테이 토모야스X](../Page/호테이_토모야스.md "wikilink")[립 슬라임](https://ko.wikipedia.org/wiki/립_슬라임 "wikilink") - "Battle Funkatic"                                          |
+| Best buzz ASIA상 | [코다 쿠미](../Page/코다_쿠미.md "wikilink") - "Trust you", [세븐](../Page/세븐_\(가수\).md "wikilink") - "Start Line", [저우제룬](../Page/저우제룬.md "wikilink") - "Hair Like Snow" |
+|                 |                                                                                                                                                                 |
 
 ### 2007년 6회
 
@@ -141,7 +141,7 @@
 | 최우수 레게 비디오상     | [쇼난노카제](https://ko.wikipedia.org/wiki/쇼난노카제 "wikilink") - "純恋歌"                                                                       |
 | 최우수 댄스 비디오상     | [DJ OZMA](../Page/DJ_OZMA.md "wikilink") - "アゲ ♂ アゲ ♂ EVERY ☆ 騎士"                                                                     |
 | 최우수 영화 비디오상     | [오오츠카 아이](../Page/오오츠카_아이.md "wikilink") - "恋愛写真" (영화 [다만 널 사랑하고 있어](../Page/다만_널_사랑하고_있어.md "wikilink"))                             |
-| 최우수 콜라보레이션상     | [U2](https://ko.wikipedia.org/wiki/U2 "wikilink")&[그린 데이](https://ko.wikipedia.org/wiki/그린_데이 "wikilink") - "The Saints Are Coming"   |
+| 최우수 콜라보레이션상     | [U2](../Page/U2.md "wikilink")&[그린 데이](../Page/그린_데이.md "wikilink") - "The Saints Are Coming"                                         |
 | Best buzz ASIA상 | [이토 유나](../Page/이토_유나_\(1983년\).md "wikilink") - "Precious", [동방신기](../Page/동방신기.md "wikilink") - "'O'-正.反.合.", 메이데이 - "Born to Love" |
 |                 |                                                                                                                                       |
 
@@ -156,38 +156,38 @@
 | 최우수 그룹 비디오상     | [엠플로](https://ko.wikipedia.org/wiki/엠플로 "wikilink") - "Love Comes and Goes" (with [히노우치 에미](../Page/히노우치_에미.md "wikilink"), Ryohei, [에밀리](https://ko.wikipedia.org/wiki/에밀리_\(일본의_가수\) "wikilink"), [요시카](https://ko.wikipedia.org/wiki/요시카 "wikilink"), [리사](https://ko.wikipedia.org/wiki/리사_\(1974년\) "wikilink")) |
 | 최우수 신인상         | [하타 모토히로](../Page/하타_모토히로.md "wikilink") - "鱗"                                                                                                                                                                                                                                                                        |
 | 최우수 록 비디오상      | [래드윔프스](https://ko.wikipedia.org/wiki/래드윔프스 "wikilink") - "オーダーメイド"                                                                                                                                                                                                                                                   |
-| 최우수 팝 비디오상      | [에이브릴 라빈](https://ko.wikipedia.org/wiki/에이브릴_라빈 "wikilink") - "Girlfriend"                                                                                                                                                                                                                                            |
+| 최우수 팝 비디오상      | [에이브릴 라빈](../Page/에이브릴_라빈.md "wikilink") - "Girlfriend"                                                                                                                                                                                                                                                               |
 | 최우수 R\&B 비디오상   | [니요](../Page/니요.md "wikilink") - "Because of You"                                                                                                                                                                                                                                                                     |
 | 최우수 힙합 비디오상     | [릴 웨인](../Page/릴_웨인.md "wikilink") - "Lollipop" (feat. Static Major)                                                                                                                                                                                                                                                  |
 | 최우수 레게 비디오상     | [쇼난노카제](https://ko.wikipedia.org/wiki/쇼난노카제 "wikilink") - "睡蓮花"                                                                                                                                                                                                                                                       |
-| 최우수 댄스 비디오상     | [케미컬 브라더스](https://ko.wikipedia.org/wiki/케미컬_브라더스 "wikilink") - "Do It Again"                                                                                                                                                                                                                                         |
-| 최우수 영화 비디오상     | [우타다 히카루](https://ko.wikipedia.org/wiki/우타다_히카루 "wikilink") - "Beautiful World" (영화 [에반게리온: 서](../Page/에반게리온:_서.md "wikilink"))                                                                                                                                                                                       |
+| 최우수 댄스 비디오상     | [케미컬 브라더스](../Page/케미컬_브라더스.md "wikilink") - "Do It Again"                                                                                                                                                                                                                                                            |
+| 최우수 영화 비디오상     | [우타다 히카루](../Page/우타다_히카루.md "wikilink") - "Beautiful World" (영화 [에반게리온: 서](../Page/에반게리온:_서.md "wikilink"))                                                                                                                                                                                                          |
 | 최우수 콜라보레이션상     | [코다 쿠미](../Page/코다_쿠미.md "wikilink") - "Last Angel" (feat. [동방신기](../Page/동방신기.md "wikilink"))                                                                                                                                                                                                                        |
 | 최우수 가라오케 노래상    | [EXILE](../Page/EXILE.md "wikilink") - "時のカケラ"                                                                                                                                                                                                                                                                        |
 | Red Hot상        | Infinity 16                                                                                                                                                                                                                                                                                                           |
-| Best buzz ASIA상 | [Ai](../Page/AI_\(가수\).md "wikilink") - "I'll Remember You", [체리필터](../Page/체리필터.md "wikilink") - "느껴봐", [유덕화](https://ko.wikipedia.org/wiki/유덕화 "wikilink") - "One"                                                                                                                                                  |
+| Best buzz ASIA상 | [Ai](../Page/AI_\(가수\).md "wikilink") - "I'll Remember You", [체리필터](../Page/체리필터.md "wikilink") - "느껴봐", [유덕화](../Page/유덕화.md "wikilink") - "One"                                                                                                                                                                     |
 |                 |                                                                                                                                                                                                                                                                                                                       |
 
 ### 2009년 8회
 
-| 시상 부문         | 수상자                                                                                                                                                         |
-| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 올해의 비디오상      | [EXILE](../Page/EXILE.md "wikilink") - "Ti Amo (Chapter2)"                                                                                                  |
-| 올해의 앨범상       | [Mr.Children](https://ko.wikipedia.org/wiki/Mr.Children "wikilink") - 《[Supermarket Fantasy](https://ko.wikipedia.org/wiki/Supermarket_Fantasy "wikilink")》 |
-| 최우수 남자 비디오상   | [KREVA](https://ko.wikipedia.org/wiki/크레바 "wikilink") - "Akasatanahamayarawawon"                                                                            |
-| 최우수 여자 비디오상   | [아무로 나미에](../Page/아무로_나미에.md "wikilink") - "New Look"                                                                                                       |
-| 최우수 그룹 비디오상   | [EXILE](../Page/EXILE.md "wikilink") - "Ti Amo (Chapter2)"                                                                                                  |
-| 최우수 신인상       | 키마구렌 - "Life"                                                                                                                                               |
-| 최우수 록 비디오상    | [맥시멈 더 호르몬](../Page/맥시멈_더_호르몬.md "wikilink") - "爪爪爪"                                                                                                        |
-| 최우수 팝 비디오상    | [케이티 페리](../Page/케이티_페리.md "wikilink") - "I Kissed a Girl"                                                                                                  |
-| 최우수 R\&B 비디오상 | [아무로 나미에](../Page/아무로_나미에.md "wikilink") - "Sexy Girl"                                                                                                      |
-| 최우수 힙합 비디오상   | 데리야키 보이즈 - "Zock On\!" (feat. [버스타 라임스](../Page/버스타_라임스.md "wikilink")&[퍼렐 윌리엄스](../Page/퍼렐_윌리엄스.md "wikilink"))                                            |
-| 최우수 레게 비디오상   | 한쿤 - "Hotter Than Hot"                                                                                                                                      |
-| 최우수 댄스 비디오상   | [토와 테이](../Page/토와_테이.md "wikilink") - "Mind Wall" (feat. 하토리 미호)                                                                                           |
-| 최우수 영화 비디오상   | [레미오로멘](../Page/레미오로멘.md "wikilink") - "夢のつぼみ" (영화 [블레임: 인류멸망2011](https://ko.wikipedia.org/wiki/블레임:_인류멸망2011 "wikilink"))                                 |
-| 최우수 콜라보레이션상   | [넬리](../Page/넬리.md "wikilink")&[퍼기](../Page/퍼기.md "wikilink") - "Party People"                                                                              |
-| 최우수 가라오케 노래상  | 키마구렌 - "Life"                                                                                                                                               |
-|               |                                                                                                                                                             |
+| 시상 부문         | 수상자                                                                                                                                      |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| 올해의 비디오상      | [EXILE](../Page/EXILE.md "wikilink") - "Ti Amo (Chapter2)"                                                                               |
+| 올해의 앨범상       | [Mr.Children](../Page/Mr.Children.md "wikilink") - 《[Supermarket Fantasy](https://ko.wikipedia.org/wiki/Supermarket_Fantasy "wikilink")》 |
+| 최우수 남자 비디오상   | [KREVA](https://ko.wikipedia.org/wiki/크레바 "wikilink") - "Akasatanahamayarawawon"                                                         |
+| 최우수 여자 비디오상   | [아무로 나미에](../Page/아무로_나미에.md "wikilink") - "New Look"                                                                                    |
+| 최우수 그룹 비디오상   | [EXILE](../Page/EXILE.md "wikilink") - "Ti Amo (Chapter2)"                                                                               |
+| 최우수 신인상       | 키마구렌 - "Life"                                                                                                                            |
+| 최우수 록 비디오상    | [맥시멈 더 호르몬](../Page/맥시멈_더_호르몬.md "wikilink") - "爪爪爪"                                                                                     |
+| 최우수 팝 비디오상    | [케이티 페리](../Page/케이티_페리.md "wikilink") - "I Kissed a Girl"                                                                               |
+| 최우수 R\&B 비디오상 | [아무로 나미에](../Page/아무로_나미에.md "wikilink") - "Sexy Girl"                                                                                   |
+| 최우수 힙합 비디오상   | 데리야키 보이즈 - "Zock On\!" (feat. [버스타 라임스](../Page/버스타_라임스.md "wikilink")&[퍼렐 윌리엄스](../Page/퍼렐_윌리엄스.md "wikilink"))                         |
+| 최우수 레게 비디오상   | 한쿤 - "Hotter Than Hot"                                                                                                                   |
+| 최우수 댄스 비디오상   | [토와 테이](../Page/토와_테이.md "wikilink") - "Mind Wall" (feat. 하토리 미호)                                                                        |
+| 최우수 영화 비디오상   | [레미오로멘](../Page/레미오로멘.md "wikilink") - "夢のつぼみ" (영화 [블레임: 인류멸망2011](https://ko.wikipedia.org/wiki/블레임:_인류멸망2011 "wikilink"))              |
+| 최우수 콜라보레이션상   | [넬리](../Page/넬리.md "wikilink")&[퍼기](../Page/퍼기.md "wikilink") - "Party People"                                                           |
+| 최우수 가라오케 노래상  | 키마구렌 - "Life"                                                                                                                            |
+|               |                                                                                                                                          |
 
 ### 2010년 9회
 
@@ -212,24 +212,24 @@
 
 ### 2011년 10회
 
-| 시상 부문         | 수상자                                                                                                                                      |
-| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| 올해의 비디오상      | [레이디 가가](../Page/레이디_가가.md "wikilink") - "Born This Way"                                                                                 |
-| 올해의 앨범상       | [니시노 카나](../Page/니시노_카나.md "wikilink") - 《[to LOVE](../Page/To_LOVE.md "wikilink")》                                                      |
-| 최우수 남자 비디오상   | [브루노 마스](../Page/브루노_마스.md "wikilink") - "Just the Way You Are"                                                                          |
-| 최우수 여자 비디오상   | [레이디 가가](../Page/레이디_가가.md "wikilink") - "Born This Way"                                                                                 |
-| 최우수 그룹 비디오상   | [소녀시대](../Page/소녀시대.md "wikilink") - "Genie"                                                                                             |
-| 최우수 신인상       | [저스틴 비버](../Page/저스틴_비버.md "wikilink") - "Baby" (feat. [루다크리스](../Page/루다크리스.md "wikilink"))                                             |
-| 최우수 록 비디오상    | [토쿄 호텔](../Page/토쿄_호텔.md "wikilink") - "Darkside Of The Sun"                                                                             |
-| 최우수 팝 비디오상    | [이키모노가카리](../Page/이키모노가카리.md "wikilink") - "ありがとう"                                                                                       |
-| 최우수 R\&B 비디오상 | [리한나](../Page/리한나.md "wikilink") - "Only Girl (In The World)"                                                                            |
-| 최우수 힙합 비디오상   | [에미넴](https://ko.wikipedia.org/wiki/에미넴 "wikilink") - "Not Afraid"                                                                       |
-| 최우수 레게 비디오상   | [Iyaz](https://ko.wikipedia.org/wiki/Iyaz "wikilink") - "Replay"                                                                         |
-| 최우수 댄스 비디오상   | [레이디 가가](../Page/레이디_가가.md "wikilink") - "Born This Way"                                                                                 |
-| 최우수 영화 비디오상   | [에이브릴 라빈](https://ko.wikipedia.org/wiki/에이브릴_라빈 "wikilink") - "Alice" (영화 [이상한 나라의 앨리스](../Page/이상한_나라의_앨리스_\(2010년_영화\).md "wikilink")) |
-| 최우수 콜라보레이션상   | [에미넴](https://ko.wikipedia.org/wiki/에미넴 "wikilink") - "Love the Way You Lie" (feat. [리한나](../Page/리한나.md "wikilink"))                    |
-| 최우수 가라오케 노래상  | [소녀시대](../Page/소녀시대.md "wikilink") - "Genie"                                                                                             |
-|               |                                                                                                                                          |
+| 시상 부문         | 수상자                                                                                                                   |
+| ------------- | --------------------------------------------------------------------------------------------------------------------- |
+| 올해의 비디오상      | [레이디 가가](../Page/레이디_가가.md "wikilink") - "Born This Way"                                                              |
+| 올해의 앨범상       | [니시노 카나](../Page/니시노_카나.md "wikilink") - 《[to LOVE](../Page/To_LOVE.md "wikilink")》                                   |
+| 최우수 남자 비디오상   | [브루노 마스](../Page/브루노_마스.md "wikilink") - "Just the Way You Are"                                                       |
+| 최우수 여자 비디오상   | [레이디 가가](../Page/레이디_가가.md "wikilink") - "Born This Way"                                                              |
+| 최우수 그룹 비디오상   | [소녀시대](../Page/소녀시대.md "wikilink") - "Genie"                                                                          |
+| 최우수 신인상       | [저스틴 비버](../Page/저스틴_비버.md "wikilink") - "Baby" (feat. [루다크리스](../Page/루다크리스.md "wikilink"))                          |
+| 최우수 록 비디오상    | [토쿄 호텔](../Page/토쿄_호텔.md "wikilink") - "Darkside Of The Sun"                                                          |
+| 최우수 팝 비디오상    | [이키모노가카리](../Page/이키모노가카리.md "wikilink") - "ありがとう"                                                                    |
+| 최우수 R\&B 비디오상 | [리한나](../Page/리한나.md "wikilink") - "Only Girl (In The World)"                                                         |
+| 최우수 힙합 비디오상   | [에미넴](https://ko.wikipedia.org/wiki/에미넴 "wikilink") - "Not Afraid"                                                    |
+| 최우수 레게 비디오상   | [Iyaz](https://ko.wikipedia.org/wiki/Iyaz "wikilink") - "Replay"                                                      |
+| 최우수 댄스 비디오상   | [레이디 가가](../Page/레이디_가가.md "wikilink") - "Born This Way"                                                              |
+| 최우수 영화 비디오상   | [에이브릴 라빈](../Page/에이브릴_라빈.md "wikilink") - "Alice" (영화 [이상한 나라의 앨리스](../Page/이상한_나라의_앨리스_\(2010년_영화\).md "wikilink")) |
+| 최우수 콜라보레이션상   | [에미넴](https://ko.wikipedia.org/wiki/에미넴 "wikilink") - "Love the Way You Lie" (feat. [리한나](../Page/리한나.md "wikilink")) |
+| 최우수 가라오케 노래상  | [소녀시대](../Page/소녀시대.md "wikilink") - "Genie"                                                                          |
+|               |                                                                                                                       |
 
 ### 2012년 11회
 

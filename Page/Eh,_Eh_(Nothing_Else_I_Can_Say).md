@@ -75,15 +75,15 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/오스트레일리아" title="wikilink">오스트레일리아</a></p></td>
+<td><p><a href="../Page/오스트레일리아.md" title="wikilink">오스트레일리아</a></p></td>
 <td><p>Gold[5]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴질랜드" title="wikilink">뉴질랜드</a></p></td>
+<td><p><a href="../Page/뉴질랜드.md" title="wikilink">뉴질랜드</a></p></td>
 <td><p>Gold[6]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/스웨덴" title="wikilink">스웨덴</a></p></td>
+<td><p><a href="../Page/스웨덴.md" title="wikilink">스웨덴</a></p></td>
 <td><p>Gold[7]</p></td>
 </tr>
 </tbody>

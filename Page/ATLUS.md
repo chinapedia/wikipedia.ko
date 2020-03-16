@@ -11,16 +11,16 @@
 
   - 1986년 4월 - 컴퓨터 게임 개발 회사로 설립
   - 1987년
-      - 텔레넷, [MSX](https://ko.wikipedia.org/wiki/MSX "wikilink")용 소프트 [디지털 데빌 이야기 여신전생](../Page/디지털_데빌_이야기_여신전생.md "wikilink") 개발
+      - 텔레넷, [MSX](../Page/MSX.md "wikilink")용 소프트 [디지털 데빌 이야기 여신전생](../Page/디지털_데빌_이야기_여신전생.md "wikilink") 개발
       - [패미컴](https://ko.wikipedia.org/wiki/패미컴 "wikilink")용 소프트 [디지털 데빌 이야기 여신전생 개발](https://ko.wikipedia.org/wiki/디지털_데빌_이야기_여신전생_개발 "wikilink"), [남코](../Page/남코.md "wikilink")에서 발매
-  - 1989년 12월 - [아틀러스](https://ko.wikipedia.org/wiki/아틀러스 "wikilink") 최초 자체브랜드로 [게임보이](https://ko.wikipedia.org/wiki/게임보이 "wikilink") 소프트 [퍼즐보이](https://ko.wikipedia.org/wiki/퍼즐보이 "wikilink") 발매
-  - 1992년 10월 - 최초 [슈퍼 패미컴](https://ko.wikipedia.org/wiki/슈퍼_패미컴 "wikilink") 소프트 [진 여신전생](https://ko.wikipedia.org/wiki/진_여신전생 "wikilink") 발매
+  - 1989년 12월 - [아틀러스](https://ko.wikipedia.org/wiki/아틀러스 "wikilink") 최초 자체브랜드로 [게임보이](../Page/게임보이.md "wikilink") 소프트 [퍼즐보이](https://ko.wikipedia.org/wiki/퍼즐보이 "wikilink") 발매
+  - 1992년 10월 - 최초 [슈퍼 패미컴](../Page/슈퍼_패미컴.md "wikilink") 소프트 [진 여신전생](https://ko.wikipedia.org/wiki/진_여신전생 "wikilink") 발매
   - 1995년 7월 - 업소용 기기 [프린트 클럽](https://ko.wikipedia.org/wiki/프린트_클럽 "wikilink") 판매
-  - 1995년 12월 - 최초 [세가 새턴](https://ko.wikipedia.org/wiki/세가_새턴 "wikilink") 소프트 [진 여신전생 데빌 서머너](https://ko.wikipedia.org/wiki/진_여신전생_데빌_서머너 "wikilink") 발매
+  - 1995년 12월 - 최초 [세가 새턴](../Page/세가_새턴.md "wikilink") 소프트 [진 여신전생 데빌 서머너](https://ko.wikipedia.org/wiki/진_여신전생_데빌_서머너 "wikilink") 발매
   - 1997년 10월 7일 - JASDAQ 증권거래소 상장 (7866)
   - 2003년 2월 - 최초 [PS2](https://ko.wikipedia.org/wiki/플레이스테이션2 "wikilink") 소프트 [진 여신전생III-NOCTURNE](https://ko.wikipedia.org/wiki/진_여신전생III-NOCTURNE "wikilink") 발매
-  - 2009년 1월 - 최초 [DS](https://ko.wikipedia.org/wiki/닌텐도_DS "wikilink") 소프트 [여신이문록 데빌 서바이버](../Page/여신이문록_데빌_서바이버.md "wikilink") 발매
-  - 2010년 2월 2일 - 최초 [PSP](https://ko.wikipedia.org/wiki/플레이스테이션_포터블 "wikilink") 소프트 여신전생 페르소나3 포터블 발매
+  - 2009년 1월 - 최초 [DS](../Page/닌텐도_DS.md "wikilink") 소프트 [여신이문록 데빌 서바이버](../Page/여신이문록_데빌_서바이버.md "wikilink") 발매
+  - 2010년 2월 2일 - 최초 [PSP](../Page/플레이스테이션_포터블.md "wikilink") 소프트 여신전생 페르소나3 포터블 발매
   - 2010년 4월 30일 - 상장 폐지
   - 2011년 2월 17일 - 최초 HD게임 [PS3](https://ko.wikipedia.org/wiki/PS3 "wikilink")용 소프트 [캐서린](../Page/캐서린.md "wikilink") 발매
 

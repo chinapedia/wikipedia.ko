@@ -7,9 +7,9 @@
 
 ### 개요
 
-[2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [6월 3일에](https://ko.wikipedia.org/wiki/6월_3일 "wikilink") [포니캐년](https://ko.wikipedia.org/wiki/포니캐년 "wikilink")에서 발매되었다. [햐코쿠 하지메](https://ko.wikipedia.org/wiki/햐코쿠_하지메 "wikilink")\[1\] 에 의한 [사운드트랙](https://ko.wikipedia.org/wiki/사운드트랙 "wikilink")으로, 퓨전이나 테크노가 구사된 팝의 형태를 띈다. 초회 한정판은 4인의 일러스트로 만든 사진 분위기의 카드를 포함하고 있다.
+[2009년](../Page/2009년.md "wikilink") [6월 3일에](../Page/6월_3일.md "wikilink") [포니캐년](https://ko.wikipedia.org/wiki/포니캐년 "wikilink")에서 발매되었다. [햐코쿠 하지메](https://ko.wikipedia.org/wiki/햐코쿠_하지메 "wikilink")\[1\] 에 의한 [사운드트랙](https://ko.wikipedia.org/wiki/사운드트랙 "wikilink")으로, 퓨전이나 테크노가 구사된 팝의 형태를 띈다. 초회 한정판은 4인의 일러스트로 만든 사진 분위기의 카드를 포함하고 있다.
 
-[대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 통상판의 사양으로 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [3월 9일에](https://ko.wikipedia.org/wiki/3월_9일 "wikilink") [포니캐년 코리아를](https://ko.wikipedia.org/wiki/포니캐년_코리아 "wikilink") 통해 발매되었다.
+[대한민국](../Page/대한민국.md "wikilink")에서는 통상판의 사양으로 [2011년](../Page/2011년.md "wikilink") [3월 9일에](../Page/3월_9일.md "wikilink") [포니캐년 코리아를](https://ko.wikipedia.org/wiki/포니캐년_코리아 "wikilink") 통해 발매되었다.
 
 ### 수록곡
 
@@ -58,7 +58,7 @@
 
 ### 개요
 
-[TBS](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink") [계열](../Page/재팬_뉴스_네트워크.md "wikilink") TV 애니메이션 《[케이온\!\!](https://ko.wikipedia.org/wiki/케이온!! "wikilink")》의 [사운드트랙](https://ko.wikipedia.org/wiki/사운드트랙 "wikilink"). [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [7월 21일에](https://ko.wikipedia.org/wiki/7월_21일 "wikilink") [포니캐년](https://ko.wikipedia.org/wiki/포니캐년 "wikilink")에서 발매되었다. 보컬 트랙으로 애니메이션 제6화 '장마\!'에 사용된 동요 '비오는 날' 및 제8화 '진로\!'에 사용된 동요 '토끼와 거북이'등이 수록되어 있다. 또한, 초회 한정판에는 표지 일러스트를 이용한 사진 분위기의 카드를 포함하고 있다.
+[TBS](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink") [계열](../Page/재팬_뉴스_네트워크.md "wikilink") TV 애니메이션 《[케이온\!\!](https://ko.wikipedia.org/wiki/케이온!! "wikilink")》의 [사운드트랙](https://ko.wikipedia.org/wiki/사운드트랙 "wikilink"). [2010년](../Page/2010년.md "wikilink") [7월 21일에](../Page/7월_21일.md "wikilink") [포니캐년](https://ko.wikipedia.org/wiki/포니캐년 "wikilink")에서 발매되었다. 보컬 트랙으로 애니메이션 제6화 '장마\!'에 사용된 동요 '비오는 날' 및 제8화 '진로\!'에 사용된 동요 '토끼와 거북이'등이 수록되어 있다. 또한, 초회 한정판에는 표지 일러스트를 이용한 사진 분위기의 카드를 포함하고 있다.
 
 ### 수록곡
 
@@ -93,7 +93,7 @@
 
 ### 개요
 
-[TBS](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink") [계열](../Page/재팬_뉴스_네트워크.md "wikilink") TV 애니메이션 《[케이온\!\!](https://ko.wikipedia.org/wiki/케이온!! "wikilink")》의 [사운드트랙](https://ko.wikipedia.org/wiki/사운드트랙 "wikilink"). [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [10월 6일에](https://ko.wikipedia.org/wiki/10월_6일 "wikilink") [포니캐년](https://ko.wikipedia.org/wiki/포니캐년 "wikilink")에서 발매되었다. 보컬 트랙으로 애니메이션 제2기 1화 '고3\!'의 삽입곡인 '사쿠라가오카 여자고등학교 교가' 및 제9화 '기말고사\!'에 사용된 삽입곡 '붓펜 \~볼펜\~ (유이·아즈 Ver.)'등이 수록되어 있다.
+[TBS](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink") [계열](../Page/재팬_뉴스_네트워크.md "wikilink") TV 애니메이션 《[케이온\!\!](https://ko.wikipedia.org/wiki/케이온!! "wikilink")》의 [사운드트랙](https://ko.wikipedia.org/wiki/사운드트랙 "wikilink"). [2010년](../Page/2010년.md "wikilink") [10월 6일에](../Page/10월_6일.md "wikilink") [포니캐년](https://ko.wikipedia.org/wiki/포니캐년 "wikilink")에서 발매되었다. 보컬 트랙으로 애니메이션 제2기 1화 '고3\!'의 삽입곡인 '사쿠라가오카 여자고등학교 교가' 및 제9화 '기말고사\!'에 사용된 삽입곡 '붓펜 \~볼펜\~ (유이·아즈 Ver.)'등이 수록되어 있다.
 
 ### 수록곡
 

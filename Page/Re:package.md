@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Re:package](https://ko.wikipedia.org/wiki/Re:package).
 
 
-〈**Re:package**〉(리 패키지)는 음악 그룹, [라이브튠](https://ko.wikipedia.org/wiki/라이브튠 "wikilink")이 livetune feat. 하츠네 미쿠(初音ミク)명의로 발매한 동인 앨범 및 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [8월 27일에](https://ko.wikipedia.org/wiki/8월_27일 "wikilink") 비크타 엔터테인먼트에서 발매한 [라이브튠](https://ko.wikipedia.org/wiki/라이브튠 "wikilink")의 [데뷔](https://ko.wikipedia.org/wiki/데뷔 "wikilink")앨범을 말한다. "세계에서 최초로의 감동… 마침내 탄생한 기적의 고대가 여기에 있다"\[1\]라는 부제를 달고 있다.
+〈**Re:package**〉(리 패키지)는 음악 그룹, [라이브튠](https://ko.wikipedia.org/wiki/라이브튠 "wikilink")이 livetune feat. 하츠네 미쿠(初音ミク)명의로 발매한 동인 앨범 및 [2008년](../Page/2008년.md "wikilink") [8월 27일에](../Page/8월_27일.md "wikilink") 비크타 엔터테인먼트에서 발매한 [라이브튠](https://ko.wikipedia.org/wiki/라이브튠 "wikilink")의 [데뷔](https://ko.wikipedia.org/wiki/데뷔 "wikilink")앨범을 말한다. "세계에서 최초로의 감동… 마침내 탄생한 기적의 고대가 여기에 있다"\[1\]라는 부제를 달고 있다.
 
 ## 트랙 리스트
 

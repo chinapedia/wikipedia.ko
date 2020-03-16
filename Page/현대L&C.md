@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [L\&C](https://ko.wikipedia.org/wiki/L\&C).
 
 
-**현대L\&C**(Hyundai L\&C)는 2014년 7월 한화첨단소재(현 한화솔루션)의 건자재 분야가 분리되어 설립된 [현대백화점그룹](https://ko.wikipedia.org/wiki/현대백화점그룹 "wikilink")의 계열사이다. 현대L\&C의 사명에는 새로운 생활문화공간을 창조하는 기업이라는 ‘Living & Creative’의 뜻과 함께 끊임없는 도전과 변화를 주도해 새로운 기업문화를 창조한다는 ‘Leading & Challenging’의 의미가 함께 내포되어 있다.
+**현대L\&C**(Hyundai L\&C)는 2014년 7월 한화첨단소재(현 한화솔루션)의 건자재 분야가 분리되어 설립된 [현대백화점그룹](../Page/현대백화점그룹.md "wikilink")의 계열사이다. 현대L\&C의 사명에는 새로운 생활문화공간을 창조하는 기업이라는 ‘Living & Creative’의 뜻과 함께 끊임없는 도전과 변화를 주도해 새로운 기업문화를 창조한다는 ‘Leading & Challenging’의 의미가 함께 내포되어 있다.
 
 2016년 5월 바닥재, 창호, 인테리어 스톤, 인테리어 필름, 경질 필름 등 기존 건자재 분야에 벽지와 인테리어&가구 사업 부문을 추가한 현대L\&C는 제품 포트폴리오 확대해 경쟁력을 갖추고 한 차원 높은 토털 인테리어 솔루션 기업으로 거듭나고 있다. 2017년에는 경기도 평택에 본사 직영 창호 가•시공센터 “Q-WINDOW 기술센터’를 설립하고 본격적으로 B2C 완성창 사업에 본격 나섰다.
 
@@ -9,22 +9,22 @@
 
 ## 연혁
 
-  - [1966년](https://ko.wikipedia.org/wiki/1966년 "wikilink") 11월 충북 부강 PVC 공장 준공 (대한프라스틱)
-  - [1972년](https://ko.wikipedia.org/wiki/1972년 "wikilink") 12월 한국프라스틱공업㈜ 설립 (PVC 5개사 통합)
-  - [1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink") 05월 한양화학, 한국프라스틱공업㈜ 합병
-  - [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") 10월 한화종합화학㈜로 사명 변경
-  - [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") 07월 한화종합화학 / 한화석유화학 분리
-  - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") 03월 한화종화(북경) 설립
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") 03월 Maxforma Plastics LLC.
+  - [1966년](../Page/1966년.md "wikilink") 11월 충북 부강 PVC 공장 준공 (대한프라스틱)
+  - [1972년](../Page/1972년.md "wikilink") 12월 한국프라스틱공업㈜ 설립 (PVC 5개사 통합)
+  - [1988년](../Page/1988년.md "wikilink") 05월 한양화학, 한국프라스틱공업㈜ 합병
+  - [1994년](../Page/1994년.md "wikilink") 10월 한화종합화학㈜로 사명 변경
+  - [1999년](../Page/1999년.md "wikilink") 07월 한화종합화학 / 한화석유화학 분리
+  - [2003년](../Page/2003년.md "wikilink") 03월 한화종화(북경) 설립
+  - [2005년](../Page/2005년.md "wikilink") 03월 Maxforma Plastics LLC.
   - 2005년 07월 한화종화(상해) 설립
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") 10월 한화L\&C로 사명 변경
-  - 2007년 11월 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [아즈델](https://ko.wikipedia.org/wiki/아즈델 "wikilink")사 인수 (자동차 경량화 부품 세계1위 업체)
-  - 2007년 12월 [체코](https://ko.wikipedia.org/wiki/체코 "wikilink") 자동차부품 생산법인 설립
-  - 2007년 12월 [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink") 칸스톤(엔지니어드 스톤) 생산법인 설립
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 06월 대림콩크리트 EP(엔지니어드스톤) 사업부문 인수
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") 07월 [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink") 온타리오주 칸스톤(엔지니어드 스톤) 생산공장 준공
+  - [2007년](../Page/2007년.md "wikilink") 10월 한화L\&C로 사명 변경
+  - 2007년 11월 [미국](../Page/미국.md "wikilink") [아즈델](https://ko.wikipedia.org/wiki/아즈델 "wikilink")사 인수 (자동차 경량화 부품 세계1위 업체)
+  - 2007년 12월 [체코](../Page/체코.md "wikilink") 자동차부품 생산법인 설립
+  - 2007년 12월 [캐나다](../Page/캐나다.md "wikilink") 칸스톤(엔지니어드 스톤) 생산법인 설립
+  - [2008년](../Page/2008년.md "wikilink") 06월 대림콩크리트 EP(엔지니어드스톤) 사업부문 인수
+  - [2009년](../Page/2009년.md "wikilink") 07월 [캐나다](../Page/캐나다.md "wikilink") 온타리오주 칸스톤(엔지니어드 스톤) 생산공장 준공
   - 2009년 02월 상해 판매법인 설립
-  - 2009년 10월 [체코](https://ko.wikipedia.org/wiki/체코 "wikilink") 오스트라바 자동차부품 생산공장 준공
+  - 2009년 10월 [체코](../Page/체코.md "wikilink") 오스트라바 자동차부품 생산공장 준공
   - 2013년 03월 [미국 미시간](https://ko.wikipedia.org/wiki/미국_미시간 "wikilink") EPP 생산공장 준공
   - 2014년 07월 한화첨단소재 건자재 부문이 분리되어 신규 법인 설립 되었으며 한화그룹에서 분리 (MSPE: Morgan Stanley Private Equity에서 인수)
   - 2015년 08월 유럽 판매법인 설립

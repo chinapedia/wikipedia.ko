@@ -11,18 +11,18 @@
 
 ## 차트 기록
 
-|                                                          차트 (2007)                                                           | 최고기록 |
-| :--------------------------------------------------------------------------------------------------------------------------: | :--: |
-|                            [캐나다 핫 100 싱글](https://ko.wikipedia.org/wiki/캐나다_핫_100_싱글 "wikilink")                             |  1   |
-|                             [유럽 핫 100 싱글](https://ko.wikipedia.org/wiki/유럽_핫_100_싱글 "wikilink")                              |  2   |
-|                       [아일랜드 FIMI 싱글 차트](https://ko.wikipedia.org/wiki/아일랜드_FIMI_싱글_차트 "wikilink")\[1\]                       |  2   |
-|                              [노르웨이 싱글 차트](https://ko.wikipedia.org/wiki/노르웨이_싱글_차트 "wikilink")                               |  3   |
-|                               [스웨덴 싱글 차트](https://ko.wikipedia.org/wiki/스웨덴_싱글_차트 "wikilink")                                |  2   |
-|                               [스위스 싱글 차트](https://ko.wikipedia.org/wiki/스위스_싱글_차트 "wikilink")                                |  4   |
-|                                [영국 싱글 차트](https://ko.wikipedia.org/wiki/영국_음반_차트 "wikilink")                                 |  3   |
-|                                       미국 [빌보드 핫 100](../Page/빌보드_핫_100.md "wikilink")                                        |  3   |
-| 미국 *[빌보드](https://ko.wikipedia.org/wiki/빌보드 "wikilink")* [핫 댄스 클럽 플레이](https://ko.wikipedia.org/wiki/핫_댄스_클럽_플레이 "wikilink") |  1   |
-|                                                                                                                              |      |
+|                                                 차트 (2007)                                                 | 최고기록 |
+| :-------------------------------------------------------------------------------------------------------: | :--: |
+|                   [캐나다 핫 100 싱글](https://ko.wikipedia.org/wiki/캐나다_핫_100_싱글 "wikilink")                   |  1   |
+|                    [유럽 핫 100 싱글](https://ko.wikipedia.org/wiki/유럽_핫_100_싱글 "wikilink")                    |  2   |
+|             [아일랜드 FIMI 싱글 차트](https://ko.wikipedia.org/wiki/아일랜드_FIMI_싱글_차트 "wikilink")\[1\]              |  2   |
+|                     [노르웨이 싱글 차트](https://ko.wikipedia.org/wiki/노르웨이_싱글_차트 "wikilink")                     |  3   |
+|                      [스웨덴 싱글 차트](https://ko.wikipedia.org/wiki/스웨덴_싱글_차트 "wikilink")                      |  2   |
+|                      [스위스 싱글 차트](https://ko.wikipedia.org/wiki/스위스_싱글_차트 "wikilink")                      |  4   |
+|                       [영국 싱글 차트](https://ko.wikipedia.org/wiki/영국_음반_차트 "wikilink")                       |  3   |
+|                              미국 [빌보드 핫 100](../Page/빌보드_핫_100.md "wikilink")                              |  3   |
+| 미국 *[빌보드](../Page/빌보드.md "wikilink")* [핫 댄스 클럽 플레이](https://ko.wikipedia.org/wiki/핫_댄스_클럽_플레이 "wikilink") |  1   |
+|                                                                                                           |      |
 
 ## 각주
 

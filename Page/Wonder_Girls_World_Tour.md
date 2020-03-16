@@ -5,7 +5,7 @@
 
 ## 개요
 
-2010년 6월 1일, 미국으로 출국하여 전미 투어를 준비하였으며 공연 기획사인 [라이브 네이션과](../Page/라이브_네이션.md "wikilink") 함께 진행하기로 하였다. 총 공연 횟수는 애당초 계획된 20회에 7회 분량이 추가된 27회로 확정되어 미국 전역은 물론 캐나다, 하와이 주 호놀룰루까지 포함되었다. 6월 4일(현지 시각) 워싱턴 D.C.에서 처음으로 콘서트를 열었고, 2PM이 오프닝을 맡았으며 향후 [2PM](https://ko.wikipedia.org/wiki/2PM "wikilink"), [2AM](https://ko.wikipedia.org/wiki/2AM "wikilink")이 교대로 게스트로 출연했다. [워싱턴 D.C.에서](https://ko.wikipedia.org/wiki/워싱턴_D.C. "wikilink") 시작된 1차 전미 투어에서 [애틀랜타](https://ko.wikipedia.org/wiki/애틀랜타 "wikilink"), [뉴욕](https://ko.wikipedia.org/wiki/뉴욕 "wikilink"), [시카고](https://ko.wikipedia.org/wiki/시카고 "wikilink") 공연은 모든 티켓이 매진되었다. 이렇게 [2PM](https://ko.wikipedia.org/wiki/2PM "wikilink")과 함께 4일 부터 13일까지 총 9회에 걸친 1차 투어를 마친 원더걸스는 25일, 호놀룰루를 시작으로 2차 투어를 진행하려 하였으나 선예의 부친상으로 인하여 7월 16일로 연기되었다.\[1\] 호놀룰루 콘서트에서는 [박진영](../Page/박진영.md "wikilink")이 특별 게스트로 출연하였다.\[2\]
+2010년 6월 1일, 미국으로 출국하여 전미 투어를 준비하였으며 공연 기획사인 [라이브 네이션과](../Page/라이브_네이션.md "wikilink") 함께 진행하기로 하였다. 총 공연 횟수는 애당초 계획된 20회에 7회 분량이 추가된 27회로 확정되어 미국 전역은 물론 캐나다, 하와이 주 호놀룰루까지 포함되었다. 6월 4일(현지 시각) 워싱턴 D.C.에서 처음으로 콘서트를 열었고, 2PM이 오프닝을 맡았으며 향후 [2PM](https://ko.wikipedia.org/wiki/2PM "wikilink"), [2AM](https://ko.wikipedia.org/wiki/2AM "wikilink")이 교대로 게스트로 출연했다. [워싱턴 D.C.에서](../Page/워싱턴_D.C..md "wikilink") 시작된 1차 전미 투어에서 [애틀랜타](../Page/애틀랜타.md "wikilink"), [뉴욕](../Page/뉴욕.md "wikilink"), [시카고](../Page/시카고.md "wikilink") 공연은 모든 티켓이 매진되었다. 이렇게 [2PM](https://ko.wikipedia.org/wiki/2PM "wikilink")과 함께 4일 부터 13일까지 총 9회에 걸친 1차 투어를 마친 원더걸스는 25일, 호놀룰루를 시작으로 2차 투어를 진행하려 하였으나 선예의 부친상으로 인하여 7월 16일로 연기되었다.\[1\] 호놀룰루 콘서트에서는 [박진영](../Page/박진영.md "wikilink")이 특별 게스트로 출연하였다.\[2\]
 
 ## 세트리스트
 
@@ -41,28 +41,28 @@
 <tbody>
 <tr class="odd">
 <td><p>2010년 6월 4일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/워싱턴_D.C." title="wikilink">워싱턴 D.C.</a></p></td>
+<td><p><a href="../Page/워싱턴_D.C..md" title="wikilink">워싱턴 D.C.</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/2PM" title="wikilink">2PM</a></p></td>
 <td><p>워너 시어터</p></td>
 </tr>
 <tr class="even">
 <td><p>2010년 6월 5일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/애틀랜타" title="wikilink">애틀랜타</a></p></td>
+<td><p><a href="../Page/애틀랜타.md" title="wikilink">애틀랜타</a></p></td>
 <td><p>태버네클</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2010년 6월 6일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴욕" title="wikilink">뉴욕</a></p></td>
+<td><p><a href="../Page/뉴욕.md" title="wikilink">뉴욕</a></p></td>
 <td><p>맨해튼 해머스타인 볼룸 공연장</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2010년 6월 8일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/시카고" title="wikilink">시카고</a></p></td>
+<td><p><a href="../Page/시카고.md" title="wikilink">시카고</a></p></td>
 <td><p>하우스 오브 블루스</p></td>
 <td></td>
 <td></td>
@@ -97,7 +97,7 @@
 </tr>
 <tr class="odd">
 <td><p>2010년 6월 13일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/샌프란시스코" title="wikilink">샌프란시스코</a></p></td>
+<td><p><a href="../Page/샌프란시스코.md" title="wikilink">샌프란시스코</a></p></td>
 <td><p>필모어</p></td>
 <td></td>
 <td></td>
@@ -111,14 +111,14 @@
 </tr>
 <tr class="odd">
 <td><p>2010년 7월 30일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/시애틀" title="wikilink">시애틀</a></p></td>
+<td><p><a href="../Page/시애틀.md" title="wikilink">시애틀</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/2AM" title="wikilink">2AM</a></p></td>
 <td><p>무어 극장</p></td>
 </tr>
 <tr class="even">
 <td><p>2010년 7월 1일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/샌프란시스코" title="wikilink">샌프란시스코</a></p></td>
+<td><p><a href="../Page/샌프란시스코.md" title="wikilink">샌프란시스코</a></p></td>
 <td><p>필모어</p></td>
 <td></td>
 <td></td>
@@ -146,14 +146,14 @@
 </tr>
 <tr class="even">
 <td><p>2010년 7월 7일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/시카고" title="wikilink">시카고</a></p></td>
+<td><p><a href="../Page/시카고.md" title="wikilink">시카고</a></p></td>
 <td><p>하우스 오브 블루스</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2010년 7월 10일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/토론토" title="wikilink">토론토</a></p></td>
+<td><p><a href="../Page/토론토.md" title="wikilink">토론토</a></p></td>
 <td></td>
 <td><p>없음</p></td>
 <td><p>모드 클럽 극장</p></td>
@@ -167,7 +167,7 @@
 </tr>
 <tr class="odd">
 <td><p>2010년 7월 16일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/호놀룰루" title="wikilink">호놀룰루</a></p></td>
+<td><p><a href="../Page/호놀룰루.md" title="wikilink">호놀룰루</a></p></td>
 <td></td>
 <td><p><a href="../Page/박진영.md" title="wikilink">박진영</a></p></td>
 <td><p>피페 라인 카페</p></td>

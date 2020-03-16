@@ -24,19 +24,19 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/오스트레일리아" title="wikilink">오스트레일리아</a></p></td>
+<td><p><a href="../Page/오스트레일리아.md" title="wikilink">오스트레일리아</a></p></td>
 <td><p>Platinum</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/캐나다" title="wikilink">캐나다</a></p></td>
+<td><p><a href="../Page/캐나다.md" title="wikilink">캐나다</a></p></td>
 <td><p>2× Platinum</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴질랜드" title="wikilink">뉴질랜드</a></p></td>
+<td><p><a href="../Page/뉴질랜드.md" title="wikilink">뉴질랜드</a></p></td>
 <td><p>Gold[1]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/미국" title="wikilink">미국</a></p></td>
+<td><p><a href="../Page/미국.md" title="wikilink">미국</a></p></td>
 <td><p>Platinum[2]</p></td>
 </tr>
 <tr class="odd">

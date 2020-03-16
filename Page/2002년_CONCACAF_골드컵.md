@@ -1,14 +1,14 @@
 > This article is converted from Wikipedia: [2002 CONCACAF ](https://ko.wikipedia.org/wiki/2002_CONCACAF_).
 
 
-**2002년 CONCACAF 골드컵**(2002 CONCACAF Gold Cup)은 [CONCACAF](https://ko.wikipedia.org/wiki/CONCACAF "wikilink")가 개최한 6번째 [CONCACAF 골드컵으로](../Page/CONCACAF_골드컵.md "wikilink"), [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [1월 19일부터](https://ko.wikipedia.org/wiki/1월_19일 "wikilink") [2월 2일까지](https://ko.wikipedia.org/wiki/2월_2일 "wikilink") [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [마이애미](https://ko.wikipedia.org/wiki/마이애미 "wikilink")와 [패서디나에서](https://ko.wikipedia.org/wiki/패서디나_\(캘리포니아주\) "wikilink") 개최되었다.
+**2002년 CONCACAF 골드컵**(2002 CONCACAF Gold Cup)은 [CONCACAF](https://ko.wikipedia.org/wiki/CONCACAF "wikilink")가 개최한 6번째 [CONCACAF 골드컵으로](../Page/CONCACAF_골드컵.md "wikilink"), [2002년](../Page/2002년.md "wikilink") [1월 19일부터](../Page/1월_19일.md "wikilink") [2월 2일까지](../Page/2월_2일.md "wikilink") [미국](../Page/미국.md "wikilink") [마이애미](../Page/마이애미.md "wikilink")와 [패서디나에서](https://ko.wikipedia.org/wiki/패서디나_\(캘리포니아주\) "wikilink") 개최되었다.
 
-대회의 형식은 12개국이 네 개의 조로 나뉘어 각 조의 1, 2위 팀이 8강에 진출하는 방식이었다. 이 대회 결승전에서는 [미국이](https://ko.wikipedia.org/wiki/미국_축구_국가대표팀 "wikilink") [코스타리카를](https://ko.wikipedia.org/wiki/코스타리카_축구_국가대표팀 "wikilink") 2-0으로 누르고 두 번째 우승을 차지했다.
+대회의 형식은 12개국이 네 개의 조로 나뉘어 각 조의 1, 2위 팀이 8강에 진출하는 방식이었다. 이 대회 결승전에서는 [미국이](../Page/미국_축구_국가대표팀.md "wikilink") [코스타리카를](../Page/코스타리카_축구_국가대표팀.md "wikilink") 2-0으로 누르고 두 번째 우승을 차지했다.
 
 ## 개최 도시 및 경기장
 
   - [패서디나](https://ko.wikipedia.org/wiki/패서디나_\(캘리포니아주\) "wikilink") - [로즈 볼](https://ko.wikipedia.org/wiki/로즈_볼_\(경기장\) "wikilink")
-  - [마이애미](https://ko.wikipedia.org/wiki/마이애미 "wikilink") - [마이애미 오렌지 볼](../Page/마이애미_오렌지_볼.md "wikilink")
+  - [마이애미](../Page/마이애미.md "wikilink") - [마이애미 오렌지 볼](../Page/마이애미_오렌지_볼.md "wikilink")
 
 ## 예선
 
@@ -347,7 +347,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_the_United_States.svg" title="wikilink">100px</a><br />
-<strong><a href="https://ko.wikipedia.org/wiki/미국_축구_국가대표팀" title="wikilink">미국</a></strong><br />
+<strong><a href="../Page/미국_축구_국가대표팀.md" title="wikilink">미국</a></strong><br />
 <strong>2번째 우승</strong></p></td>
 </tr>
 </tbody>
@@ -369,7 +369,7 @@
 
   - [로날드 고메스](../Page/로날드_고메스.md "wikilink")
 
-  - [파울로 완초페](https://ko.wikipedia.org/wiki/파울로_완초페 "wikilink")
+  - [파울로 완초페](../Page/파울로_완초페.md "wikilink")
 
   - [알렉스 아기나가](../Page/알렉스_아기나가.md "wikilink")
 
@@ -391,11 +391,11 @@
 
   - [드웨인 데 로사리오](https://ko.wikipedia.org/wiki/드웨인_데_로사리오 "wikilink")
 
-  - [김도훈](https://ko.wikipedia.org/wiki/김도훈_\(1970년\) "wikilink")
+  - [김도훈](../Page/김도훈_\(1970년\).md "wikilink")
 
-  - [송종국](https://ko.wikipedia.org/wiki/송종국 "wikilink")
+  - [송종국](../Page/송종국.md "wikilink")
 
-  - [최진철](https://ko.wikipedia.org/wiki/최진철 "wikilink")
+  - [최진철](../Page/최진철.md "wikilink")
 
   - [마르코 가르세스](https://ko.wikipedia.org/wiki/마르코_가르세스 "wikilink")
 
@@ -427,7 +427,7 @@
 
   - [마크 로저스](https://ko.wikipedia.org/wiki/마크_로저스 "wikilink") ([마르티니크](../Page/마르티니크_축구_국가대표팀.md "wikilink") 전)
 
-  - [김도훈](https://ko.wikipedia.org/wiki/김도훈_\(1970년\) "wikilink") ([캐나다](../Page/캐나다_축구_국가대표팀.md "wikilink") 전)
+  - [김도훈](../Page/김도훈_\(1970년\).md "wikilink") ([캐나다](../Page/캐나다_축구_국가대표팀.md "wikilink") 전)
 
 ## 최종 순위
 

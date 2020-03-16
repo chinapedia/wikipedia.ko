@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [HTML ](https://ko.wikipedia.org/wiki/HTML_).
 
 
-**HTML 요소**(HTML 엘리먼트, HTML element)는 [HTML](https://ko.wikipedia.org/wiki/HTML "wikilink") 문서나 [웹 페이지를](../Page/웹_페이지.md "wikilink") 이루는 개별적인 요소를 의미하며, [문서 객체 모델](https://ko.wikipedia.org/wiki/문서_객체_모델 "wikilink")(DOM)으로 파싱된다. HTML은 [트리나](https://ko.wikipedia.org/wiki/트리_구조 "wikilink") HTML [노드](https://ko.wikipedia.org/wiki/노드 "wikilink")(텍스트 노드 등)로 구성된다. 각 노드는 [HTML 속성을](../Page/HTML_속성.md "wikilink") 지정할 수 있다. 노드들은 기타 노드와 텍스트를 포함한 콘텐츠도 소유할 수 있다. 수많은 HTML 노드들은 [시맨틱이나](https://ko.wikipedia.org/wiki/의미론 "wikilink") 의미를 표현한다. 이를테면 `title` 노드는 문서의 제목을 나타낸다.
+**HTML 요소**(HTML 엘리먼트, HTML element)는 [HTML](../Page/HTML.md "wikilink") 문서나 [웹 페이지를](../Page/웹_페이지.md "wikilink") 이루는 개별적인 요소를 의미하며, [문서 객체 모델](../Page/문서_객체_모델.md "wikilink")(DOM)으로 파싱된다. HTML은 [트리나](https://ko.wikipedia.org/wiki/트리_구조 "wikilink") HTML [노드](https://ko.wikipedia.org/wiki/노드 "wikilink")(텍스트 노드 등)로 구성된다. 각 노드는 [HTML 속성을](../Page/HTML_속성.md "wikilink") 지정할 수 있다. 노드들은 기타 노드와 텍스트를 포함한 콘텐츠도 소유할 수 있다. 수많은 HTML 노드들은 [시맨틱이나](../Page/의미론.md "wikilink") 의미를 표현한다. 이를테면 `title` 노드는 문서의 제목을 나타낸다.
 
 ## 개념
 
 ### 문서와 DOM
 
-HTML 문서들은 "문서"(document)로 전달된다.\[1\] 이들은 [구문 분석](https://ko.wikipedia.org/wiki/구문_분석 "wikilink") 과정을 거쳐 웹 브라우저 내에서 [문서 객체 모델](https://ko.wikipedia.org/wiki/문서_객체_모델 "wikilink")(DOM) 내부 표현으로 변환된다.\[2\]
+HTML 문서들은 "문서"(document)로 전달된다.\[1\] 이들은 [구문 분석](../Page/구문_분석.md "wikilink") 과정을 거쳐 웹 브라우저 내에서 [문서 객체 모델](../Page/문서_객체_모델.md "wikilink")(DOM) 내부 표현으로 변환된다.\[2\]
 
 화면과 같은 웹 브라우저의 표현이라든지 자바스크립트의 접근은 그 다음에 이 내부 모델에서 수행되며 원래의 문서에서 수행되지는 않는다.
 
@@ -19,7 +19,7 @@ HTML 문서들은 "문서"(document)로 전달된다.\[1\] 이들은 [구문 분
 
 요소의 위치는 시작 태그로부터 신장되며 일부 차일드 콘텐츠를 포함할 수 있으며 종료 태그로 종료된다.\[3\] HTML 문서 내의 다수의 요소에 해당되지만 모든 요소에 해당되는 것은 아니다.
 
-HTML이 [SGML](https://ko.wikipedia.org/wiki/SGML "wikilink")에 기반을 두므로\[4\] 구문 분석 또한 [DTD](https://ko.wikipedia.org/wiki/문서_형식_정의 "wikilink"), 특히 HTML 4.01의 것과 같은 HTML DTD의 사용에 의존한다.\[5\]\[6\] DTD는 어느 요소 유형이 가능한지 규정하며(예: HTML을 이루는 요소 유형의 집합을 정의) 문서에서 나타나는 유효한 결합도 규정한다.
+HTML이 [SGML](../Page/SGML.md "wikilink")에 기반을 두므로\[4\] 구문 분석 또한 [DTD](https://ko.wikipedia.org/wiki/문서_형식_정의 "wikilink"), 특히 HTML 4.01의 것과 같은 HTML DTD의 사용에 의존한다.\[5\]\[6\] DTD는 어느 요소 유형이 가능한지 규정하며(예: HTML을 이루는 요소 유형의 집합을 정의) 문서에서 나타나는 유효한 결합도 규정한다.
 
 HTML의 문서의 일부는
 
@@ -31,7 +31,7 @@ HTML의 문서의 일부는
 
 ### SGML과 XML
 
-SGML은 복잡하며 폭넓은 채택과 이해에 제한이 있다. 더 단순한 대안으로 [XML](https://ko.wikipedia.org/wiki/XML "wikilink")이 개발되었다. XML은 DTD 매커니즘을 사용하여 지원 요소 및 허가된 결합을 문서 구조로 정의한다는 면에서 SGML과 비슷하다. XML 구문 분석은 더 단순하다.
+SGML은 복잡하며 폭넓은 채택과 이해에 제한이 있다. 더 단순한 대안으로 [XML](../Page/XML.md "wikilink")이 개발되었다. XML은 DTD 매커니즘을 사용하여 지원 요소 및 허가된 결합을 문서 구조로 정의한다는 면에서 SGML과 비슷하다. XML 구문 분석은 더 단순하다.
 
 #### `%block;`과 box
 
@@ -60,7 +60,7 @@ HTML 또한 차이는 있지만 유사 개념이 있으며 이 둘이 종종 혼
 <p>P. Sherman<br>42 Wallaby Way<br>Sydney</p>
 ```
 
-[XHTML](https://ko.wikipedia.org/wiki/XHTML "wikilink") [DTD를](https://ko.wikipedia.org/wiki/문서_형식_정의 "wikilink") 사용할 때 하나의 태그로 요소를 열고 닫아야 한다. 빈 요소임을 지정하려면 "/"를 태그 끝에 포함시킨다. (닫는 태그의 시작부의 "/"와 혼동하지 말 것)
+[XHTML](../Page/XHTML.md "wikilink") [DTD를](https://ko.wikipedia.org/wiki/문서_형식_정의 "wikilink") 사용할 때 하나의 태그로 요소를 열고 닫아야 한다. 빈 요소임을 지정하려면 "/"를 태그 끝에 포함시킨다. (닫는 태그의 시작부의 "/"와 혼동하지 말 것)
 
 ``` html4strict
 <p>P. Sherman<br />42 Wallaby Way<br />Sydney</p>
@@ -72,7 +72,7 @@ HTML 또한 차이는 있지만 유사 개념이 있으며 이 둘이 종종 혼
 <abbr title="abbreviation">abbr.</abbr>
 ```
 
-여러 조율의 [HTML](https://ko.wikipedia.org/wiki/HTML "wikilink") 요소가 있다: 빈 요소(void elements), 순수 텍스트 요소(raw text elements), 일반 요소(normal elements).
+여러 조율의 [HTML](../Page/HTML.md "wikilink") 요소가 있다: 빈 요소(void elements), 순수 텍스트 요소(raw text elements), 일반 요소(normal elements).
 
 **빈 요소**는 [HTML 속성만](../Page/HTML_속성.md "wikilink") 담고있는 시작 태그만 있다. 텍스트나 다른 요소들과 같은 칠드런은 포함하지 않는다. 그림 () 요소와 같은 외부 링크를 참조하는 요소를 위한 플레이스 홀더 역할을 하기도 한다. 요소에 포함되는 속성들은 그 뒤 외부 파일을 가리키게 된다. 빈 요소의 다른 예는  요소이며 이를 위한 문법은 다음과 같다:
 
@@ -80,7 +80,7 @@ HTML 또한 차이는 있지만 유사 개념이 있으며 이 둘이 종종 혼
 <link rel="stylesheet" href="fancy.css" type="text/css">
 ```
 
-이  요소는 HTML 문서를 사용자에게 표시할 때 사용하기 위한 [스타일시트](https://ko.wikipedia.org/wiki/스타일시트 "wikilink")의 브라우저를 가리킨다. HTML 문법에서 속성은 특정 문자열(문자, 숫자, 하이픈 마이너스, 마침표)만 구성하고 있다면 인용부호를 사용할 필요가 없다. 한편 [XML](https://ko.wikipedia.org/wiki/XML "wikilink") 문법([XHTML](https://ko.wikipedia.org/wiki/XHTML "wikilink"))을 사용할 때 모든 속성은 인용 부호로 감싸야 하며 마지막 꺾쇠 괄호 앞에 [슬래시](https://ko.wikipedia.org/wiki/슬래시 "wikilink")를 추가해야 한다:
+이  요소는 HTML 문서를 사용자에게 표시할 때 사용하기 위한 [스타일시트](https://ko.wikipedia.org/wiki/스타일시트 "wikilink")의 브라우저를 가리킨다. HTML 문법에서 속성은 특정 문자열(문자, 숫자, 하이픈 마이너스, 마침표)만 구성하고 있다면 인용부호를 사용할 필요가 없다. 한편 [XML](../Page/XML.md "wikilink") 문법([XHTML](../Page/XHTML.md "wikilink"))을 사용할 때 모든 속성은 인용 부호로 감싸야 하며 마지막 꺾쇠 괄호 앞에 [슬래시](https://ko.wikipedia.org/wiki/슬래시 "wikilink")를 추가해야 한다:
 
 ``` xml
 <link rel="stylesheet" href="fancy.css" type="text/css" />
@@ -90,7 +90,7 @@ HTML 또한 차이는 있지만 유사 개념이 있으며 이 둘이 종종 혼
 
   - 시작 태그 (): 요소의 시작을 알리며 수많은 [HTML 속성을](../Page/HTML_속성.md "wikilink") 포함할 수 있다.
   - 요소(모든 태그는 콘텐츠로 해석됨)가 없는 어느 정도 분량의 텍스트 내용.
-  - 종료 태그: 요소 이름은 슬래시로 구분한다() 일부 HTML 버전에서 종료 태그는 일부 요소들에게 선택사항이다. 종료 태그는 [XHTML](https://ko.wikipedia.org/wiki/XHTML "wikilink")에서는 필수이다.
+  - 종료 태그: 요소 이름은 슬래시로 구분한다() 일부 HTML 버전에서 종료 태그는 일부 요소들에게 선택사항이다. 종료 태그는 [XHTML](../Page/XHTML.md "wikilink")에서는 필수이다.
 
 **일반 요소**는 보통 시작 태그와 종료 태그를 갖고 있으나 일부 요소들의 경우 종료 태그 또는 시작 태그와 종료 태그를 둘 다 생략할 수 있다. 비슷한 방식으로 구성되어 있다:
 
@@ -224,7 +224,7 @@ HTML 요소를 표현하기 위한 HTML 태그 목록은 다음과 같다.\[9\]
 
   -
 
-HTML(및 XML, SGML, SHTML)의 [주석은](../Page/주석_\(프로그래밍\).md "wikilink") doctype에 따라 [SGML](https://ko.wikipedia.org/wiki/SGML "wikilink")이나 [XML](https://ko.wikipedia.org/wiki/XML "wikilink")의 주석과 동일한 문법을 사용한다.
+HTML(및 XML, SGML, SHTML)의 [주석은](../Page/주석_\(프로그래밍\).md "wikilink") doctype에 따라 [SGML](../Page/SGML.md "wikilink")이나 [XML](../Page/XML.md "wikilink")의 주석과 동일한 문법을 사용한다.
 
 마크업 은 `Xbegin`를 만들어낸다.
 
@@ -232,8 +232,8 @@ HTML(및 XML, SGML, SHTML)의 [주석은](../Page/주석_\(프로그래밍\).md 
 
 ## 같이 보기
 
-  - [문서 객체 모델](https://ko.wikipedia.org/wiki/문서_객체_모델 "wikilink")(DOM)
-  - [자바스크립트](https://ko.wikipedia.org/wiki/자바스크립트 "wikilink")
+  - [문서 객체 모델](../Page/문서_객체_모델.md "wikilink")(DOM)
+  - [자바스크립트](../Page/자바스크립트.md "wikilink")
 
 ## 각주
 
@@ -247,7 +247,7 @@ HTML(및 XML, SGML, SHTML)의 [주석은](../Page/주석_\(프로그래밍\).md 
 
 [분류:HTML](https://ko.wikipedia.org/wiki/분류:HTML "wikilink")
 
-1.  "Document" may refer interchangeably to either a file stored on a computer filesystem, usually on disk, or to a document delivered across the Web by [HTTP](https://ko.wikipedia.org/wiki/HTTP "wikilink"). Such documents may equally be copies of disk files stored on the web server, or they may be generated on demand.
+1.  "Document" may refer interchangeably to either a file stored on a computer filesystem, usually on disk, or to a document delivered across the Web by [HTTP](../Page/HTTP.md "wikilink"). Such documents may equally be copies of disk files stored on the web server, or they may be generated on demand.
 2.  The term "web browser" here is used for simplicity. It does of course include other sorts of [web user agent](https://ko.wikipedia.org/wiki/web_user_agent "wikilink"), such as search engine [web crawlers](../Page/웹_크롤러.md "wikilink"), automatic news-feed retrievers etc.
 3.
 4.

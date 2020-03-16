@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [1991 CONCACAF ](https://ko.wikipedia.org/wiki/1991_CONCACAF_).
 
 
-**1991년 CONCACAF 골드컵**(1991 CONCACAF Gold Cup)은 [CONCACAF](https://ko.wikipedia.org/wiki/CONCACAF "wikilink")가 개최한 1번째 [CONCACAF 골드컵으로](../Page/CONCACAF_골드컵.md "wikilink"), [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink") [6월 28일부터](https://ko.wikipedia.org/wiki/6월_28일 "wikilink") [7월 7일까지](https://ko.wikipedia.org/wiki/7월_7일 "wikilink") [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [캘리포니아주](https://ko.wikipedia.org/wiki/캘리포니아주 "wikilink") [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink")와 [패서디나에서](https://ko.wikipedia.org/wiki/패서디나_\(캘리포니아주\) "wikilink") 개최되었다.
+**1991년 CONCACAF 골드컵**(1991 CONCACAF Gold Cup)은 [CONCACAF](https://ko.wikipedia.org/wiki/CONCACAF "wikilink")가 개최한 1번째 [CONCACAF 골드컵으로](../Page/CONCACAF_골드컵.md "wikilink"), [1991년](../Page/1991년.md "wikilink") [6월 28일부터](../Page/6월_28일.md "wikilink") [7월 7일까지](../Page/7월_7일.md "wikilink") [미국](../Page/미국.md "wikilink") [캘리포니아주](../Page/캘리포니아주.md "wikilink") [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink")와 [패서디나에서](https://ko.wikipedia.org/wiki/패서디나_\(캘리포니아주\) "wikilink") 개최되었다.
 
-대회의 형식은 8개국이 2개의 조로 나뉘어 각 조의 1, 2위 팀이 4강에 진출하는 방식이었다. 이 대회 결승전에서는 [미국이](https://ko.wikipedia.org/wiki/미국_축구_국가대표팀 "wikilink") [온두라스를](../Page/온두라스_축구_국가대표팀.md "wikilink") 승부차기로 누르고 첫 번째 우승을 차지했다.
+대회의 형식은 8개국이 2개의 조로 나뉘어 각 조의 1, 2위 팀이 4강에 진출하는 방식이었다. 이 대회 결승전에서는 [미국이](../Page/미국_축구_국가대표팀.md "wikilink") [온두라스를](../Page/온두라스_축구_국가대표팀.md "wikilink") 승부차기로 누르고 첫 번째 우승을 차지했다.
 
 ## 예선
 
@@ -224,7 +224,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_the_United_States.svg" title="wikilink">100px</a><br />
-<strong><a href="https://ko.wikipedia.org/wiki/미국_축구_국가대표팀" title="wikilink">미국</a></strong><br />
+<strong><a href="../Page/미국_축구_국가대표팀.md" title="wikilink">미국</a></strong><br />
 <strong>1번째 우승</strong></p></td>
 </tr>
 </tbody>

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [S-](https://ko.wikipedia.org/wiki/S-).
 
 
-**S-토그**() 시스템은 [덴마크](https://ko.wikipedia.org/wiki/덴마크 "wikilink") [코펜하겐](https://ko.wikipedia.org/wiki/코펜하겐 "wikilink") 및 인접 지역을 연결하는 광역 철도이다. [1934년](https://ko.wikipedia.org/wiki/1934년 "wikilink") 첫 노선이 개통하였고, 전체 역의 절반 정도가 코펜하겐 시내에 있다. 일일 이용자 수는 일일 30만 명 이상이다. DSB의 자회사 DSB S-토그 A/S에서 소유 및 운영하고 있다.
+**S-토그**() 시스템은 [덴마크](../Page/덴마크.md "wikilink") [코펜하겐](../Page/코펜하겐.md "wikilink") 및 인접 지역을 연결하는 광역 철도이다. [1934년](../Page/1934년.md "wikilink") 첫 노선이 개통하였고, 전체 역의 절반 정도가 코펜하겐 시내에 있다. 일일 이용자 수는 일일 30만 명 이상이다. DSB의 자회사 DSB S-토그 A/S에서 소유 및 운영하고 있다.
 
 [코펜하겐 메트로](https://ko.wikipedia.org/wiki/코펜하겐_메트로 "wikilink") 및 버스 시스템이 보조해 주고 있다. 대개의 버스 정류장은 S-토그나 도시철도 역 주변에 있다. 운영 회사는 다르지만 동일한 승차권을 사용한다. 2009년 1월 현재 총 노선 170km, 역 수는 85개이다. 대부분 종착역에서는 더 멀리 나가는 L-토그(디젤 구동 지역 열차), Re-토그([셸란 섬](https://ko.wikipedia.org/wiki/셸란_섬 "wikilink") 내부를 운행하는 열차), 외레순-토그(스웨덴으로 가는 열차)로 환승할 수 있다.
 

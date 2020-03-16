@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [   COO](https://ko.wikipedia.org/wiki/___COO).
 
 
-**먼 바다에서 온 COO**(遠い海から来たCOO, とおい うみから きたクー)는 [다미오 카게야마에](https://ko.wikipedia.org/wiki/다미오_카게야마 "wikilink") 의해 쓰여진 [일본](../Page/일본.md "wikilink")의 소설이다. [나오키 산주고 상에서](https://ko.wikipedia.org/wiki/나오키_산주고_상 "wikilink") [1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink") 수상했었다.\[1\] 후에 [애니메이션 영화로도](../Page/애니메이션_영화.md "wikilink") 제작되었고, [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") 개봉되었다.
+**먼 바다에서 온 COO**(遠い海から来たCOO, とおい うみから きたクー)는 [다미오 카게야마에](https://ko.wikipedia.org/wiki/다미오_카게야마 "wikilink") 의해 쓰여진 [일본](../Page/일본.md "wikilink")의 소설이다. [나오키 산주고 상에서](https://ko.wikipedia.org/wiki/나오키_산주고_상 "wikilink") [1988년](../Page/1988년.md "wikilink") 수상했었다.\[1\] 후에 [애니메이션 영화로도](../Page/애니메이션_영화.md "wikilink") 제작되었고, [1993년](../Page/1993년.md "wikilink") 개봉되었다.
 
 ## 등장인물
 

@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [1996 CONCACAF ](https://ko.wikipedia.org/wiki/1996_CONCACAF_).
 
 
-**1996년 CONCACAF 골드컵**(1996 CONCACAF Gold Cup)은 [CONCACAF](https://ko.wikipedia.org/wiki/CONCACAF "wikilink")가 개최한 3번째 [CONCACAF 골드컵으로](../Page/CONCACAF_골드컵.md "wikilink"), [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") [1월 10일부터](https://ko.wikipedia.org/wiki/1월_10일 "wikilink") [1월 21일까지](https://ko.wikipedia.org/wiki/1월_21일 "wikilink") [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [캘리포니아주](https://ko.wikipedia.org/wiki/캘리포니아주 "wikilink") [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink"), [샌디에이고](https://ko.wikipedia.org/wiki/샌디에이고 "wikilink"), [애너하임](../Page/애너하임.md "wikilink")에서 개최되었다.
+**1996년 CONCACAF 골드컵**(1996 CONCACAF Gold Cup)은 [CONCACAF](https://ko.wikipedia.org/wiki/CONCACAF "wikilink")가 개최한 3번째 [CONCACAF 골드컵으로](../Page/CONCACAF_골드컵.md "wikilink"), [1996년](../Page/1996년.md "wikilink") [1월 10일부터](../Page/1월_10일.md "wikilink") [1월 21일까지](../Page/1월_21일.md "wikilink") [미국](../Page/미국.md "wikilink") [캘리포니아주](../Page/캘리포니아주.md "wikilink") [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink"), [샌디에이고](https://ko.wikipedia.org/wiki/샌디에이고 "wikilink"), [애너하임](../Page/애너하임.md "wikilink")에서 개최되었다.
 
-대회의 형식은 9개국이 3개의 조로 나뉘어 각 조의 1위 팀이 4강에 직행하고, 2위 팀 가운데 성적이 가장 높은 팀이 4강에 진출하는 방식이었다. 이 대회 결승전에서는 [멕시코가](https://ko.wikipedia.org/wiki/멕시코_축구_국가대표팀 "wikilink") [브라질을](https://ko.wikipedia.org/wiki/브라질_축구_국가대표팀 "wikilink") 2-0으로 누르고 다섯 번째 우승을 차지했다. 이 대회부터 타 대륙에서 팀을 초청하는 제도가 도입되었다. 이에 따라 [브라질이](https://ko.wikipedia.org/wiki/브라질_축구_국가대표팀 "wikilink") 초청되었다.
+대회의 형식은 9개국이 3개의 조로 나뉘어 각 조의 1위 팀이 4강에 직행하고, 2위 팀 가운데 성적이 가장 높은 팀이 4강에 진출하는 방식이었다. 이 대회 결승전에서는 [멕시코가](../Page/멕시코_축구_국가대표팀.md "wikilink") [브라질을](../Page/브라질_축구_국가대표팀.md "wikilink") 2-0으로 누르고 다섯 번째 우승을 차지했다. 이 대회부터 타 대륙에서 팀을 초청하는 제도가 도입되었다. 이에 따라 [브라질이](../Page/브라질_축구_국가대표팀.md "wikilink") 초청되었다.
 
 ## 예선
 
@@ -321,7 +321,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Mexico.svg" title="wikilink">100px</a><br />
-<strong><a href="https://ko.wikipedia.org/wiki/멕시코_축구_국가대표팀" title="wikilink">멕시코</a></strong><br />
+<strong><a href="../Page/멕시코_축구_국가대표팀.md" title="wikilink">멕시코</a></strong><br />
 <strong>5번째 우승</strong></p></td>
 </tr>
 </tbody>

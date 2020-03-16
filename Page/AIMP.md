@@ -7,7 +7,7 @@
 
 ### 버전 1.5x-1.7x
 
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [8월 8일](https://ko.wikipedia.org/wiki/8월_8일 "wikilink") AIMP Classic이라는 이름으로 최초로 공개됐다.
+  - [2006년](../Page/2006년.md "wikilink") [8월 8일](../Page/8월_8일.md "wikilink") AIMP Classic이라는 이름으로 최초로 공개됐다.
 
 ### 버전 2.0x - 2.1x
 

@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [Am ](https://ko.wikipedia.org/wiki/Am_).
 
 
-**Am 별**(Am star) 또는 **금속선 별**(metallic-line star)은 스펙트럼 띠에서 다양한 금속선이 강하게 나타는 A형 특이별을 일컫는다. 이 기현상은 몇몇 원들이 표면으로 향하는 더 많은 빛을 흡수하는 동안 다른 것들은 [중력](https://ko.wikipedia.org/wiki/중력 "wikilink")으로 인하여 아래로 가라앉기 때문에 일어난다. 이런 현상은 별의 자전속도가 느릴 때만 일어난다.\[1\]
+**Am 별**(Am star) 또는 **금속선 별**(metallic-line star)은 스펙트럼 띠에서 다양한 금속선이 강하게 나타는 A형 특이별을 일컫는다. 이 기현상은 몇몇 원들이 표면으로 향하는 더 많은 빛을 흡수하는 동안 다른 것들은 [중력](../Page/중력.md "wikilink")으로 인하여 아래로 가라앉기 때문에 일어난다. 이런 현상은 별의 자전속도가 느릴 때만 일어난다.\[1\]
 
 일반적으로, A형 별은 빠르게 자전한다. 대부분의 Am 별은 [쌍성계](https://ko.wikipedia.org/wiki/쌍성계 "wikilink")를 이루며 별들의 자전은 [조석 고정](https://ko.wikipedia.org/wiki/조석_고정 "wikilink") 때문에 서서히 느려진다.\[2\]
 
-가장 많이 알려진 금속선 별은 [시리우스](https://ko.wikipedia.org/wiki/시리우스 "wikilink") (큰개자리 α)이다. 아래의 표는 몇몇 금속선 별을 [겉보기 등급이](https://ko.wikipedia.org/wiki/겉보기_등급 "wikilink") 낮은 순서대로 배열해 놓은 것이다.
+가장 많이 알려진 금속선 별은 [시리우스](../Page/시리우스.md "wikilink") (큰개자리 α)이다. 아래의 표는 몇몇 금속선 별을 [겉보기 등급이](https://ko.wikipedia.org/wiki/겉보기_등급 "wikilink") 낮은 순서대로 배열해 놓은 것이다.
 
-| 이름\[3\]     | [명명법](https://ko.wikipedia.org/wiki/바이어_명명법 "wikilink")                  | [겉보기 등급](https://ko.wikipedia.org/wiki/겉보기_등급 "wikilink")\[4\] |
+| 이름\[3\]     | [명명법](../Page/바이어_명명법.md "wikilink")                                     | [겉보기 등급](https://ko.wikipedia.org/wiki/겉보기_등급 "wikilink")\[4\] |
 | ----------- | ------------------------------------------------------------------------ | -------------------------------------------------------------- |
-| 시리우스 A      | [큰개자리 α A](https://ko.wikipedia.org/wiki/시리우스 "wikilink")                | −1.47                                                          |
+| 시리우스 A      | [큰개자리 α A](../Page/시리우스.md "wikilink")                                   | −1.47                                                          |
 | 카스토르 Ba     | [쌍둥이자리 α Ba](../Page/카스토르.md "wikilink")                                 | 2.96                                                           |
 |             | [날치자리 α](https://ko.wikipedia.org/wiki/날치자리_α "wikilink")                | 4.00                                                           |
 | 아쿠벤스 A\[5\] | [게자리 α A](../Page/아쿠벤스.md "wikilink")                                    | 4.26                                                           |

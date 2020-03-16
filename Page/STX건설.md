@@ -5,8 +5,8 @@
 
 ## 사무소
 
-  - 창원사무소: [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink") [창원시](https://ko.wikipedia.org/wiki/창원시 "wikilink") 성산구 중앙대로84길 3, 범한빌딩 9층 (상남동)
-  - 서울사무소: [서울특별시](https://ko.wikipedia.org/wiki/서울특별시 "wikilink") [강남구](https://ko.wikipedia.org/wiki/강남구 "wikilink") 영동대로 96길 34, 대윤빌딩 3층
+  - 창원사무소: [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink") [창원시](../Page/창원시.md "wikilink") 성산구 중앙대로84길 3, 범한빌딩 9층 (상남동)
+  - 서울사무소: [서울특별시](../Page/서울특별시.md "wikilink") [강남구](https://ko.wikipedia.org/wiki/강남구 "wikilink") 영동대로 96길 34, 대윤빌딩 3층
 
 ## 해외사업
 

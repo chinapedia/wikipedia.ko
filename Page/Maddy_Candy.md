@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Maddy Candy](https://ko.wikipedia.org/wiki/Maddy_Candy).
 
 
-***Maddy Candy***는 [DEATH DEVIL의](https://ko.wikipedia.org/wiki/DEATH_DEVIL "wikilink") 싱글로 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [8월 12일에](https://ko.wikipedia.org/wiki/8월_12일 "wikilink") [포니캐년](https://ko.wikipedia.org/wiki/포니캐년 "wikilink")을 통해 발매되었다. [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [3월 14일에](https://ko.wikipedia.org/wiki/3월_14일 "wikilink") [포니캐년 코리아가](https://ko.wikipedia.org/wiki/포니캐년_코리아 "wikilink") 인터넷 상에 음원 형식으로 공개하였다.
+***Maddy Candy***는 [DEATH DEVIL의](https://ko.wikipedia.org/wiki/DEATH_DEVIL "wikilink") 싱글로 [2009년](../Page/2009년.md "wikilink") [8월 12일에](../Page/8월_12일.md "wikilink") [포니캐년](https://ko.wikipedia.org/wiki/포니캐년 "wikilink")을 통해 발매되었다. [대한민국](../Page/대한민국.md "wikilink")에서는 [2011년](../Page/2011년.md "wikilink") [3월 14일에](../Page/3월_14일.md "wikilink") [포니캐년 코리아가](https://ko.wikipedia.org/wiki/포니캐년_코리아 "wikilink") 인터넷 상에 음원 형식으로 공개하였다.
 
 ## 개요
 

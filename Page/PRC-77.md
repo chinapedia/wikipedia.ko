@@ -5,7 +5,7 @@
 
 ## 역사
 
-AN/PRC 77는 [베트남 전쟁](../Page/베트남_전쟁.md "wikilink") 중이던 1968년에 실전배치되었다. 예전에는 [AN/PRC 25를](https://ko.wikipedia.org/wiki/AN/PRC_25 "wikilink") 사용했다. 이전 PRC-25 무전기와의 차이는 [진공관](https://ko.wikipedia.org/wiki/진공관 "wikilink")에서 [트랜지스터](https://ko.wikipedia.org/wiki/트랜지스터 "wikilink")로 바뀌었다는 점이다.
+AN/PRC 77는 [베트남 전쟁](../Page/베트남_전쟁.md "wikilink") 중이던 1968년에 실전배치되었다. 예전에는 [AN/PRC 25를](https://ko.wikipedia.org/wiki/AN/PRC_25 "wikilink") 사용했다. 이전 PRC-25 무전기와의 차이는 [진공관](../Page/진공관.md "wikilink")에서 [트랜지스터](../Page/트랜지스터.md "wikilink")로 바뀌었다는 점이다.
 
 ## 성능
 

@@ -87,7 +87,7 @@
 
 #### 일본
 
-  - [게이오기주쿠 대학](https://ko.wikipedia.org/wiki/게이오기주쿠_대학 "wikilink") (Keio University)
+  - [게이오기주쿠 대학](../Page/게이오기주쿠_대학.md "wikilink") (Keio University)
   - [도호쿠 대학](../Page/도호쿠_대학.md "wikilink") (Tohoku University)
 
 #### 중국

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SPYDER](https://ko.wikipedia.org/wiki/SPYDER).
 
 
-**SPYDER**(**S**urface-to-air **PY**thon and **DER**by)는 이스라엘 [라파엘사](https://ko.wikipedia.org/wiki/라파엘사 "wikilink")가 개발한 지대공 미사일 시스템이다. 체코의 [타트라](https://ko.wikipedia.org/wiki/타트라 "wikilink") 차량에 [파이톤 5 미사일과](https://ko.wikipedia.org/wiki/파이톤_5_미사일 "wikilink") [더비 미사일을](../Page/더비_미사일.md "wikilink") 장착한 것이다.
+**SPYDER**(**S**urface-to-air **PY**thon and **DER**by)는 이스라엘 [라파엘사](https://ko.wikipedia.org/wiki/라파엘사 "wikilink")가 개발한 지대공 미사일 시스템이다. 체코의 [타트라](https://ko.wikipedia.org/wiki/타트라 "wikilink") 차량에 [파이톤 5 미사일과](../Page/파이톤_5_미사일.md "wikilink") [더비 미사일을](../Page/더비_미사일.md "wikilink") 장착한 것이다.
 
 스파이더는 빠른 반응속도를 갖는 중거리 미사일 시스템이다. 비행기, 헬기, UAV, 정밀유도무기 등을 요격할 수 있다. 이 시스템은 고정된 한 지점을 방어하거나, 전투지역에 있는 부대의 일정영역을 방어한다.
 
@@ -15,7 +15,7 @@ SPYDER-SR 시스템은 360도를 방어한다. 미사일은 목표물 확인 즉
 
 ## 수출
 
-[인도](https://ko.wikipedia.org/wiki/인도 "wikilink")는 18개의 스파이더 시스템을 4억 1500만 달러에 구매하려고 하였으나, 부정부패 사건으로 현재 수사중이다.\[1\] 계약은 2002년 8월에 취소되었다.\[2\]
+[인도](../Page/인도.md "wikilink")는 18개의 스파이더 시스템을 4억 1500만 달러에 구매하려고 하였으나, 부정부패 사건으로 현재 수사중이다.\[1\] 계약은 2002년 8월에 취소되었다.\[2\]
 
 ## 더 보기
 

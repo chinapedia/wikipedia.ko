@@ -79,7 +79,7 @@
 
 ## 시리즈 메인 성우
 
-  - 쿠사나기 모토코 : [타나카 아츠코](https://ko.wikipedia.org/wiki/타나카_아츠코 "wikilink")
+  - 쿠사나기 모토코 : [타나카 아츠코](../Page/타나카_아츠코.md "wikilink")
   - 아라마키 다이스케 : 사카 오사무
   - 바트 : 오오츠카 아키오
   - 토그사 : 야마데라 코이치
@@ -100,6 +100,6 @@
 
   - [프로덕션 I.G](http://www.production-ig.co.jp/) - 이 작품의 제작사.
 
-  - [공각기동대 STAND ALONE COMPLEX](https://www.imdb.com/title/tt0346314/) - [인터넷 영화 데이터베이스](https://ko.wikipedia.org/wiki/인터넷_영화_데이터베이스 "wikilink").
+  - [공각기동대 STAND ALONE COMPLEX](https://www.imdb.com/title/tt0346314/) - [인터넷 영화 데이터베이스](../Page/인터넷_영화_데이터베이스.md "wikilink").
 
 [분류:공각기동대](https://ko.wikipedia.org/wiki/분류:공각기동대 "wikilink") [분류:2002년 애니메이션](https://ko.wikipedia.org/wiki/분류:2002년_애니메이션 "wikilink") [분류:일본의 애니메이션](https://ko.wikipedia.org/wiki/분류:일본의_애니메이션 "wikilink") [분류:프로덕션 I.G](https://ko.wikipedia.org/wiki/분류:프로덕션_I.G "wikilink") [분류:로봇 애니메이션](https://ko.wikipedia.org/wiki/분류:로봇_애니메이션 "wikilink")

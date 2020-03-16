@@ -7,7 +7,7 @@
 
 이 앨범은 YUI가 데뷔한 지 5년만에 발매된 앨범이다. 또한 이 앨범은 《[MY SHORT STORIES](https://ko.wikipedia.org/wiki/MY_SHORT_STORIES "wikilink")》 이후 2년 3개월 만에 만들어진 앨범으로, YUI는 스스로 이 앨범을 가리켜 '자신작'이라고 밝혔다.\[1\] 이 앨범은 오리콘 데일리 및 위클리 앨범 차트에서 1위를 차지하였다.
 
-이 정규 음반의 타이틀 곡은 Please Stay With Me이며, 이는 [후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 드라마 《[여름의 사랑은 무지개색으로 빛난다](../Page/여름의_사랑은_무지개색으로_빛난다.md "wikilink")》의 주제가로 타이업되었다.
+이 정규 음반의 타이틀 곡은 Please Stay With Me이며, 이는 [후지 TV](../Page/후지_TV.md "wikilink") 드라마 《[여름의 사랑은 무지개색으로 빛난다](../Page/여름의_사랑은_무지개색으로_빛난다.md "wikilink")》의 주제가로 타이업되었다.
 
 ## 수록곡
 
