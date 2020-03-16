@@ -11,7 +11,7 @@
 
 ## 함께보기
 
-  - [매스월드](https://ko.wikipedia.org/wiki/매스월드 "wikilink")
+  - [매스월드](../Page/매스월드.md "wikilink")
   - [플래닛매스](../Page/플래닛매스.md "wikilink")
   - [arxiv.org](https://ko.wikipedia.org/wiki/arXiv "wikilink")
 

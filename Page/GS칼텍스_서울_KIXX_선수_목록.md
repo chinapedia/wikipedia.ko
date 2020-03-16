@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [GS  KIXX  ](https://ko.wikipedia.org/wiki/GS__KIXX__).
 
 
-다음은 대한민국 [V-리그에](https://ko.wikipedia.org/wiki/V-리그_\(대한민국\) "wikilink") 참가 중인 [GS칼텍스 서울 KIXX에서](https://ko.wikipedia.org/wiki/GS칼텍스_서울_KIXX "wikilink") 활동했거나 활동 중인 선수들의 목록이다.
+다음은 대한민국 [V-리그에](../Page/V-리그_\(대한민국\).md "wikilink") 참가 중인 [GS칼텍스 서울 KIXX에서](../Page/GS칼텍스_서울_KIXX.md "wikilink") 활동했거나 활동 중인 선수들의 목록이다.
 
 ## 목록
 
@@ -28,7 +28,7 @@
 <td><p>레프트</p></td>
 <td><p>2012-현재</p></td>
 <td><p>{{•}} <a href="https://ko.wikipedia.org/wiki/V-리그_(대한민국)#역대_우승팀" title="wikilink">V-리그 챔피언</a> (<a href="../Page/V-리그_2013-14.md" title="wikilink">2014</a>)<br />
-{{•}} <a href="https://ko.wikipedia.org/wiki/V-리그_신인선수상" title="wikilink">V-리그 신인선수상</a> (<a href="https://ko.wikipedia.org/wiki/V-리그_2012-13" title="wikilink">2013</a>)</p></td>
+{{•}} <a href="https://ko.wikipedia.org/wiki/V-리그_신인선수상" title="wikilink">V-리그 신인선수상</a> (<a href="../Page/V-리그_2012-13.md" title="wikilink">2013</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/박민지_(배구_선수)" title="wikilink">박민지</a> * </p></td>
@@ -79,7 +79,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/한수지_(배구_선수)" title="wikilink">한수지</a> *</p></td>
+<td><p><a href="../Page/한수지_(배구_선수).md" title="wikilink">한수지</a> *</p></td>
 <td><p>9</p></td>
 <td></td>
 <td><p>센터</p></td>
@@ -96,7 +96,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/김유리_(배구_선수)" title="wikilink">김유리</a> *</p></td>
+<td><p><a href="../Page/김유리_(배구_선수).md" title="wikilink">김유리</a> *</p></td>
 <td><p>16</p></td>
 <td></td>
 <td><p>센터</p></td>
@@ -112,7 +112,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/장지원" title="wikilink">장지원</a> *</p></td>
+<td><p><a href="../Page/장지원.md" title="wikilink">장지원</a> *</p></td>
 <td><p>20</p></td>
 <td></td>
 <td><p>센터</p></td>
@@ -176,12 +176,12 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/김민지_(배구_선수)" title="wikilink">김민지</a></p></td>
+<td><p><a href="../Page/김민지_(배구_선수).md" title="wikilink">김민지</a></p></td>
 <td><p>1</p></td>
 <td></td>
 <td><p>레프트</p></td>
 <td><p>2003-2012</p></td>
-<td><p>{{•}} <a href="https://ko.wikipedia.org/wiki/V-리그_(대한민국)#역대_우승팀" title="wikilink">V-리그 챔피언</a> (<a href="https://ko.wikipedia.org/wiki/V-리그_포스트시즌_2008" title="wikilink">2008</a>)<br />
+<td><p>{{•}} <a href="https://ko.wikipedia.org/wiki/V-리그_(대한민국)#역대_우승팀" title="wikilink">V-리그 챔피언</a> (<a href="../Page/V-리그_포스트시즌_2008.md" title="wikilink">2008</a>)<br />
 {{•}} <a href="https://ko.wikipedia.org/wiki/V-리그_(대한민국)#수상" title="wikilink">기량발전상</a> (<a href="https://ko.wikipedia.org/wiki/V-리그_2005" title="wikilink">2005</a>)<br />
 {{•}} <a href="https://ko.wikipedia.org/wiki/V-리그_(대한민국)#수상" title="wikilink">V-리그 페어플레이상</a> (<a href="https://ko.wikipedia.org/wiki/V-리그_2005-06" title="wikilink">2006</a>)</p></td>
 </tr>
@@ -219,23 +219,23 @@
 {{•}} 2× <a href="https://ko.wikipedia.org/wiki/V-리그_베스트7" title="wikilink">V-리그 베스트7</a> (<a href="../Page/V-리그_2014-15.md" title="wikilink">2015</a>, <a href="../Page/V-리그_2015-16.md" title="wikilink">2016</a>)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/나혜원" title="wikilink">나혜원</a></p></td>
+<td><p><a href="../Page/나혜원.md" title="wikilink">나혜원</a></p></td>
 <td><p>5</p></td>
 <td></td>
 <td><p>라이트</p></td>
 <td><p>2005-2011</p></td>
-<td><p>{{•}} <a href="https://ko.wikipedia.org/wiki/V-리그_(대한민국)#역대_우승팀" title="wikilink">V-리그 챔피언</a> (<a href="https://ko.wikipedia.org/wiki/V-리그_포스트시즌_2008" title="wikilink">2008</a>)<br />
+<td><p>{{•}} <a href="https://ko.wikipedia.org/wiki/V-리그_(대한민국)#역대_우승팀" title="wikilink">V-리그 챔피언</a> (<a href="../Page/V-리그_포스트시즌_2008.md" title="wikilink">2008</a>)<br />
 </p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/남지연" title="wikilink">남지연</a></p></td>
+<td><p><a href="../Page/남지연.md" title="wikilink">남지연</a></p></td>
 <td><p>8</p></td>
 <td></td>
 <td><p>리베로</p></td>
 <td><p>2001-2012</p></td>
-<td><p>{{•}} <a href="https://ko.wikipedia.org/wiki/V-리그_(대한민국)#역대_우승팀" title="wikilink">V-리그 챔피언</a> (<a href="https://ko.wikipedia.org/wiki/V-리그_포스트시즌_2008" title="wikilink">2008</a>)<br />
-{{•}} 4× <a href="https://ko.wikipedia.org/wiki/V-리그_(대한민국)#수상" title="wikilink">V-리그 수비상</a> (<a href="https://ko.wikipedia.org/wiki/V-리그_2005" title="wikilink">2005</a>, <a href="https://ko.wikipedia.org/wiki/V-리그_2005-06" title="wikilink">2006</a>, <a href="https://ko.wikipedia.org/wiki/V-리그_2006-07" title="wikilink">2007</a>, <a href="https://ko.wikipedia.org/wiki/V-리그_2009-10" title="wikilink">2010</a>)<br />
-{{•}} <a href="https://ko.wikipedia.org/wiki/V-리그_(대한민국)#수상" title="wikilink">V-리그 페어플레이상</a> (<a href="https://ko.wikipedia.org/wiki/V-리그_2010-11" title="wikilink">2011</a>)</p></td>
+<td><p>{{•}} <a href="https://ko.wikipedia.org/wiki/V-리그_(대한민국)#역대_우승팀" title="wikilink">V-리그 챔피언</a> (<a href="../Page/V-리그_포스트시즌_2008.md" title="wikilink">2008</a>)<br />
+{{•}} 4× <a href="https://ko.wikipedia.org/wiki/V-리그_(대한민국)#수상" title="wikilink">V-리그 수비상</a> (<a href="https://ko.wikipedia.org/wiki/V-리그_2005" title="wikilink">2005</a>, <a href="https://ko.wikipedia.org/wiki/V-리그_2005-06" title="wikilink">2006</a>, <a href="https://ko.wikipedia.org/wiki/V-리그_2006-07" title="wikilink">2007</a>, <a href="../Page/V-리그_2009-10.md" title="wikilink">2010</a>)<br />
+{{•}} <a href="https://ko.wikipedia.org/wiki/V-리그_(대한민국)#수상" title="wikilink">V-리그 페어플레이상</a> (<a href="../Page/V-리그_2010-11.md" title="wikilink">2011</a>)</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -246,8 +246,8 @@
 2012-2014</p></td>
 <td><p>{{•}} <a href="https://ko.wikipedia.org/wiki/V-리그_(대한민국)#역대_우승팀" title="wikilink">V-리그 챔피언</a> (<a href="../Page/V-리그_2013-14.md" title="wikilink">2014</a>)<br />
 {{•}} <a href="https://ko.wikipedia.org/wiki/V-리그_(대한민국)#MVP" title="wikilink">V-리그 챔프전 MVP</a> (<a href="../Page/V-리그_2013-14.md" title="wikilink">2014</a>)<br />
-{{•}} <a href="https://ko.wikipedia.org/wiki/V-리그_(대한민국)#MVP" title="wikilink">V-리그 정규리그 MVP</a> (<a href="https://ko.wikipedia.org/wiki/V-리그_2008-09" title="wikilink">2009</a>)<br />
-{{•}} <a href="https://ko.wikipedia.org/wiki/V-리그_(대한민국)#수상" title="wikilink">V-리그 공격상</a> (<a href="https://ko.wikipedia.org/wiki/V-리그_2008-09" title="wikilink">2009</a>)</p></td>
+{{•}} <a href="https://ko.wikipedia.org/wiki/V-리그_(대한민국)#MVP" title="wikilink">V-리그 정규리그 MVP</a> (<a href="../Page/V-리그_2008-09.md" title="wikilink">2009</a>)<br />
+{{•}} <a href="https://ko.wikipedia.org/wiki/V-리그_(대한민국)#수상" title="wikilink">V-리그 공격상</a> (<a href="../Page/V-리그_2008-09.md" title="wikilink">2009</a>)</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -258,13 +258,13 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/배유나" title="wikilink">배유나</a></p></td>
+<td><p><a href="../Page/배유나.md" title="wikilink">배유나</a></p></td>
 <td><p>10</p></td>
 <td></td>
 <td><p>센터</p></td>
 <td><p>2007-2016</p></td>
-<td><p>{{•}} 2× <a href="https://ko.wikipedia.org/wiki/V-리그_(대한민국)#역대_우승팀" title="wikilink">V-리그 챔피언</a> (<a href="https://ko.wikipedia.org/wiki/V-리그_포스트시즌_2008" title="wikilink">2008</a>, <a href="../Page/V-리그_2013-14.md" title="wikilink">2014</a>)<br />
-{{•}} <a href="https://ko.wikipedia.org/wiki/V-리그_신인선수상" title="wikilink">V-리그 신인선수상</a> (<a href="https://ko.wikipedia.org/wiki/V-리그_2007-08" title="wikilink">2008</a>)</p></td>
+<td><p>{{•}} 2× <a href="https://ko.wikipedia.org/wiki/V-리그_(대한민국)#역대_우승팀" title="wikilink">V-리그 챔피언</a> (<a href="../Page/V-리그_포스트시즌_2008.md" title="wikilink">2008</a>, <a href="../Page/V-리그_2013-14.md" title="wikilink">2014</a>)<br />
+{{•}} <a href="https://ko.wikipedia.org/wiki/V-리그_신인선수상" title="wikilink">V-리그 신인선수상</a> (<a href="../Page/V-리그_2007-08.md" title="wikilink">2008</a>)</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -288,11 +288,11 @@
 <td></td>
 <td><p>레프트</p></td>
 <td><p>2007-2008</p></td>
-<td><p>{{•}} <a href="https://ko.wikipedia.org/wiki/V-리그_(대한민국)#역대_우승팀" title="wikilink">V-리그 챔피언</a> (<a href="https://ko.wikipedia.org/wiki/V-리그_포스트시즌_2008" title="wikilink">2008</a>)<br />
-{{•}} <a href="https://ko.wikipedia.org/wiki/V-리그_(대한민국)#수상" title="wikilink">V-리그 서브상</a> (<a href="https://ko.wikipedia.org/wiki/V-리그_2007-08" title="wikilink">2008</a>)</p></td>
+<td><p>{{•}} <a href="https://ko.wikipedia.org/wiki/V-리그_(대한민국)#역대_우승팀" title="wikilink">V-리그 챔피언</a> (<a href="../Page/V-리그_포스트시즌_2008.md" title="wikilink">2008</a>)<br />
+{{•}} <a href="https://ko.wikipedia.org/wiki/V-리그_(대한민국)#수상" title="wikilink">V-리그 서브상</a> (<a href="../Page/V-리그_2007-08.md" title="wikilink">2008</a>)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/시은미" title="wikilink">시은미</a></p></td>
+<td><p><a href="../Page/시은미.md" title="wikilink">시은미</a></p></td>
 <td><p>3</p></td>
 <td></td>
 <td><p>세터</p></td>
@@ -314,10 +314,10 @@
 <td><p>레프트</p></td>
 <td><p>2009-2014</p></td>
 <td><p>{{•}} <a href="https://ko.wikipedia.org/wiki/V-리그_(대한민국)#역대_우승팀" title="wikilink">V-리그 챔피언</a> (<a href="../Page/V-리그_2013-14.md" title="wikilink">2014</a>)<br />
-{{•}} <a href="https://ko.wikipedia.org/wiki/V-리그_신인선수상" title="wikilink">V-리그 신인선수상</a> (<a href="https://ko.wikipedia.org/wiki/V-리그_2009-10" title="wikilink">2010</a>)</p></td>
+{{•}} <a href="https://ko.wikipedia.org/wiki/V-리그_신인선수상" title="wikilink">V-리그 신인선수상</a> (<a href="../Page/V-리그_2009-10.md" title="wikilink">2010</a>)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/에베_메히아" title="wikilink">에베 메히아</a></p></td>
+<td><p><a href="../Page/에베_메히아.md" title="wikilink">에베 메히아</a></p></td>
 <td><p>15</p></td>
 <td></td>
 <td><p>라이트</p></td>
@@ -325,7 +325,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/오현미" title="wikilink">오현미</a></p></td>
+<td><p><a href="../Page/오현미.md" title="wikilink">오현미</a></p></td>
 <td><p>6</p></td>
 <td></td>
 <td><p>레프트</p></td>
@@ -349,7 +349,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/이소라_(배구_선수)" title="wikilink">이소라</a></p></td>
+<td><p><a href="../Page/이소라_(배구_선수).md" title="wikilink">이소라</a></p></td>
 <td><p>3</p></td>
 <td></td>
 <td><p>세터</p></td>
@@ -358,12 +358,12 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/이숙자" title="wikilink">이숙자</a></p></td>
+<td><p><a href="../Page/이숙자.md" title="wikilink">이숙자</a></p></td>
 <td><p>4</p></td>
 <td></td>
 <td><p>세터</p></td>
 <td><p>2007-2014</p></td>
-<td><p>{{•}} 2× <a href="https://ko.wikipedia.org/wiki/V-리그_(대한민국)#역대_우승팀" title="wikilink">V-리그 챔피언</a> (<a href="https://ko.wikipedia.org/wiki/V-리그_포스트시즌_2008" title="wikilink">2008</a>, <a href="../Page/V-리그_2013-14.md" title="wikilink">2014</a>)</p></td>
+<td><p>{{•}} 2× <a href="https://ko.wikipedia.org/wiki/V-리그_(대한민국)#역대_우승팀" title="wikilink">V-리그 챔피언</a> (<a href="../Page/V-리그_포스트시즌_2008.md" title="wikilink">2008</a>, <a href="../Page/V-리그_2013-14.md" title="wikilink">2014</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/이영_(배구_선수)" title="wikilink">이영</a></p></td>
@@ -374,12 +374,12 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/이정옥_(배구인)" title="wikilink">이정옥</a></p></td>
+<td><p><a href="../Page/이정옥_(배구인).md" title="wikilink">이정옥</a></p></td>
 <td><p>9</p></td>
 <td></td>
 <td><p>레프트</p></td>
 <td><p>2001-2009</p></td>
-<td><p>{{•}} <a href="https://ko.wikipedia.org/wiki/V-리그_(대한민국)#역대_우승팀" title="wikilink">V-리그 챔피언</a> (<a href="https://ko.wikipedia.org/wiki/V-리그_포스트시즌_2008" title="wikilink">2008</a>)</p></td>
+<td><p>{{•}} <a href="https://ko.wikipedia.org/wiki/V-리그_(대한민국)#역대_우승팀" title="wikilink">V-리그 챔피언</a> (<a href="../Page/V-리그_포스트시즌_2008.md" title="wikilink">2008</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/장윤희_(배구인).md" title="wikilink">장윤희</a> </p></td>
@@ -398,13 +398,13 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/정대영_(배구_선수)" title="wikilink">정대영</a></p></td>
+<td><p><a href="../Page/정대영_(배구_선수).md" title="wikilink">정대영</a></p></td>
 <td><p>13</p></td>
 <td></td>
 <td><p>센터</p></td>
 <td><p>2007-2014</p></td>
-<td><p>{{•}} 2× <a href="https://ko.wikipedia.org/wiki/V-리그_(대한민국)#역대_우승팀" title="wikilink">V-리그 챔피언</a> (<a href="https://ko.wikipedia.org/wiki/V-리그_포스트시즌_2008" title="wikilink">2008</a>, <a href="../Page/V-리그_2013-14.md" title="wikilink">2014</a>)<br />
-{{•}} <a href="https://ko.wikipedia.org/wiki/V-리그_(대한민국)#MVP" title="wikilink">V-리그 챔프전 MVP</a> (<a href="https://ko.wikipedia.org/wiki/V-리그_2007-08" title="wikilink">2008</a>)</p></td>
+<td><p>{{•}} 2× <a href="https://ko.wikipedia.org/wiki/V-리그_(대한민국)#역대_우승팀" title="wikilink">V-리그 챔피언</a> (<a href="../Page/V-리그_포스트시즌_2008.md" title="wikilink">2008</a>, <a href="../Page/V-리그_2013-14.md" title="wikilink">2014</a>)<br />
+{{•}} <a href="https://ko.wikipedia.org/wiki/V-리그_(대한민국)#MVP" title="wikilink">V-리그 챔프전 MVP</a> (<a href="../Page/V-리그_2007-08.md" title="wikilink">2008</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/정지윤_(배구_선수)" title="wikilink">정지윤</a></p></td>
@@ -416,7 +416,7 @@
 <td><p>{{•}} <a href="https://ko.wikipedia.org/wiki/V-리그_(대한민국)#역대_우승팀" title="wikilink">V-리그 챔피언</a> (<a href="../Page/V-리그_2013-14.md" title="wikilink">2014</a>)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/지정희" title="wikilink">지정희</a></p></td>
+<td><p><a href="../Page/지정희.md" title="wikilink">지정희</a></p></td>
 <td><p>12</p></td>
 <td></td>
 <td><p>센터</p></td>
@@ -448,7 +448,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/한송이_(배구_선수)" title="wikilink">한송이</a></p></td>
+<td><p><a href="../Page/한송이_(배구_선수).md" title="wikilink">한송이</a></p></td>
 <td><p>12</p></td>
 <td></td>
 <td><p>레프트, 센터</p></td>
@@ -456,7 +456,7 @@
 <td><p>{{•}} <a href="https://ko.wikipedia.org/wiki/V-리그_(대한민국)#역대_우승팀" title="wikilink">V-리그 챔피언</a> (<a href="../Page/V-리그_2013-14.md" title="wikilink">2014</a>)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/황민경" title="wikilink">황민경</a></p></td>
+<td><p><a href="../Page/황민경.md" title="wikilink">황민경</a></p></td>
 <td><p>15</p></td>
 <td></td>
 <td><p>레프트</p></td>

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [His Hand in Mine](https://ko.wikipedia.org/wiki/His_Hand_in_Mine).
 
 
-《**His Hand in Mine**》은 미국의 가수 [엘비스 프레슬리의](https://ko.wikipedia.org/wiki/엘비스_프레슬리 "wikilink") 다섯 번째 정규 앨범이다. 1960년 11월 [RCA 빅터에서](https://ko.wikipedia.org/wiki/RCA_빅터 "wikilink") 모노, 스테레오로 발매했다. 엘비스 최초의 복음성가 앨범으로, 엘비스는 이후로 동류 음반을 두 장 더 발매했다. 녹음지는 [RCA 스튜디오 B](../Page/RCA_스튜디오_B.md "wikilink"), 녹음 시일은 1960년 10월 30일, 31일이다. [톱 팝 앨범](https://ko.wikipedia.org/wiki/빌보드_200 "wikilink") 최고 13위였다. [RIAA에서](https://ko.wikipedia.org/wiki/미국_음반_산업_협회 "wikilink") 1969년 4월 9일 골드를, 1992년 3월 27일 플래티넘을 인정받았다.\[1\]
+《**His Hand in Mine**》은 미국의 가수 [엘비스 프레슬리의](../Page/엘비스_프레슬리.md "wikilink") 다섯 번째 정규 앨범이다. 1960년 11월 [RCA 빅터에서](https://ko.wikipedia.org/wiki/RCA_빅터 "wikilink") 모노, 스테레오로 발매했다. 엘비스 최초의 복음성가 앨범으로, 엘비스는 이후로 동류 음반을 두 장 더 발매했다. 녹음지는 [RCA 스튜디오 B](../Page/RCA_스튜디오_B.md "wikilink"), 녹음 시일은 1960년 10월 30일, 31일이다. [톱 팝 앨범](../Page/빌보드_200.md "wikilink") 최고 13위였다. [RIAA에서](../Page/미국_음반_산업_협회.md "wikilink") 1969년 4월 9일 골드를, 1992년 3월 27일 플래티넘을 인정받았다.\[1\]
 
 ## 배경
 

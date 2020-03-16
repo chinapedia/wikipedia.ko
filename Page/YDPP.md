@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [YDPP](https://ko.wikipedia.org/wiki/YDPP).
 
 
-**YDPP**는 대한민국의 보이 그룹이다. 멤버는 [MXM의](../Page/MXM_\(음악_그룹\).md "wikilink") 멤버 [임영민](../Page/임영민.md "wikilink")과 [김동현](../Page/김동현_\(1998년\).md "wikilink"), [정세운](../Page/정세운_\(가수\).md "wikilink"), [이광현으로](https://ko.wikipedia.org/wiki/이광현_\(가수\) "wikilink") 이루어져 있다. 팀명은 Youth, Dream, Passion, Purity라는 뜻이다.\[1\] 멤버 전부 2017년 방송 《[PRODUCE 101 시즌 2](https://ko.wikipedia.org/wiki/PRODUCE_101_시즌_2 "wikilink")》에 참가했던 이력이 있다. 2018년 4월 5일 노래 "LOVE IT LIVE IT"을 발표하였으며, [펩시](https://ko.wikipedia.org/wiki/펩시 "wikilink")의 프로젝트 파트너로 발탁되었다.\[2\]
+**YDPP**는 대한민국의 보이 그룹이다. 멤버는 [MXM의](../Page/MXM_\(음악_그룹\).md "wikilink") 멤버 [임영민](../Page/임영민.md "wikilink")과 [김동현](../Page/김동현_\(1998년\).md "wikilink"), [정세운](../Page/정세운_\(가수\).md "wikilink"), [이광현으로](https://ko.wikipedia.org/wiki/이광현_\(가수\) "wikilink") 이루어져 있다. 팀명은 Youth, Dream, Passion, Purity라는 뜻이다.\[1\] 멤버 전부 2017년 방송 《[PRODUCE 101 시즌 2](https://ko.wikipedia.org/wiki/PRODUCE_101_시즌_2 "wikilink")》에 참가했던 이력이 있다. 2018년 4월 5일 노래 "LOVE IT LIVE IT"을 발표하였으며, [펩시](../Page/펩시.md "wikilink")의 프로젝트 파트너로 발탁되었다.\[2\]
 
 ## 음반 목록
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ H. ](https://ko.wikipedia.org/wiki/_H._).
 
 
-**제임스 H. 콘**(James Hal Cone, [1936년](https://ko.wikipedia.org/wiki/1936년 "wikilink") [8월 5일](https://ko.wikipedia.org/wiki/8월_5일 "wikilink") \~ [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [4월 28일](https://ko.wikipedia.org/wiki/4월_28일 "wikilink"))\[1\] 는 미국의 [신학](https://ko.wikipedia.org/wiki/신학 "wikilink")자이며 [흑인 신학](https://ko.wikipedia.org/wiki/흑인_신학 "wikilink") 과 흑인 [해방 신학의](https://ko.wikipedia.org/wiki/해방_신학 "wikilink") 주창자로 가장 잘 알려져 있다. 1969년 자신의 책 *Black Theology and Black Power* 에서 흑인 교회에서 신학의 구별성을 정의하였다.\[2\]  그는 [유니온 신학교에서](https://ko.wikipedia.org/wiki/유니언_신학교_\(뉴욕시\) "wikilink") 조직신학을 강의하였다 .\[3\]
+**제임스 H. 콘**(James Hal Cone, [1936년](../Page/1936년.md "wikilink") [8월 5일](../Page/8월_5일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [4월 28일](../Page/4월_28일.md "wikilink"))\[1\] 는 미국의 [신학](../Page/신학.md "wikilink")자이며 [흑인 신학](https://ko.wikipedia.org/wiki/흑인_신학 "wikilink") 과 흑인 [해방 신학의](../Page/해방_신학.md "wikilink") 주창자로 가장 잘 알려져 있다. 1969년 자신의 책 *Black Theology and Black Power* 에서 흑인 교회에서 신학의 구별성을 정의하였다.\[2\]  그는 [유니온 신학교에서](https://ko.wikipedia.org/wiki/유니언_신학교_\(뉴욕시\) "wikilink") 조직신학을 강의하였다 .\[3\]
 
 ## 신학방법
 
@@ -9,7 +9,7 @@
 
 ### 신학적 영향
 
-특별히 그가 영향은 받은 사람들 포이에르바하와 [칼 막스이다](https://ko.wikipedia.org/wiki/카를_마르크스 "wikilink"). 지식사회학에 학문적 도움이 많았다. 특별히 흑인 중심의 신학적 주제에 초점을 두었다. 그의 책가운데 <기독교와 흑인 파워>(Christianity and Black Power)를 발표하여 백인 중심의 미국 신학계에 일대 충격을 불러왔고, 이후 <예수와 흑인혁명>(Black Theology and Black Power), <눌린 자의 하느님>( God of the Oppressed), <나의 혼을 돌이키며>(My Soul Looks Back)가 있다.
+특별히 그가 영향은 받은 사람들 포이에르바하와 [칼 막스이다](../Page/카를_마르크스.md "wikilink"). 지식사회학에 학문적 도움이 많았다. 특별히 흑인 중심의 신학적 주제에 초점을 두었다. 그의 책가운데 <기독교와 흑인 파워>(Christianity and Black Power)를 발표하여 백인 중심의 미국 신학계에 일대 충격을 불러왔고, 이후 <예수와 흑인혁명>(Black Theology and Black Power), <눌린 자의 하느님>( God of the Oppressed), <나의 혼을 돌이키며>(My Soul Looks Back)가 있다.
 
 ### 신학방법의 자료
 

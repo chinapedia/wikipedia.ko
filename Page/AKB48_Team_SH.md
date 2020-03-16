@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [AKB48 Team SH](https://ko.wikipedia.org/wiki/AKB48_Team_SH).
 
 
-**AKB48 Team SH**(에이케이비포티에이트 팀에스에이치)는 [중화인민공화국](https://ko.wikipedia.org/wiki/중화인민공화국 "wikilink") [상하이 시를](https://ko.wikipedia.org/wiki/상하이_시 "wikilink") 중심으로 활동하는 [여성](https://ko.wikipedia.org/wiki/여성 "wikilink") [아이돌 그룹이다](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink").
+**AKB48 Team SH**(에이케이비포티에이트 팀에스에이치)는 [중화인민공화국](../Page/중화인민공화국.md "wikilink") [상하이 시를](https://ko.wikipedia.org/wiki/상하이_시 "wikilink") 중심으로 활동하는 [여성](../Page/여성.md "wikilink") [아이돌 그룹이다](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink").
 
 ## 개요
 
-[AKB48](https://ko.wikipedia.org/wiki/AKB48 "wikilink")의 자매 그룹의 하나이다. 종합 프로듀스는 AKB48와 함께 [아키모토 야스시가](https://ko.wikipedia.org/wiki/아키모토_야스시 "wikilink") 맡았다. 그룹명의 유래는 상하이(**SH**anghai). 그룹 배경은  [하얀색](https://ko.wikipedia.org/wiki/하얀색 "wikilink")의 배경에  [분홍색](https://ko.wikipedia.org/wiki/분홍색 "wikilink")의 「AKB48 Team SH」의 문자와 배경의 오른쪽 아래에 분홍 [에지](https://ko.wikipedia.org/wiki/에지 "wikilink")를 배치한 것이 사용되고 있다.
+[AKB48](../Page/AKB48.md "wikilink")의 자매 그룹의 하나이다. 종합 프로듀스는 AKB48와 함께 [아키모토 야스시가](../Page/아키모토_야스시.md "wikilink") 맡았다. 그룹명의 유래는 상하이(**SH**anghai). 그룹 배경은  [하얀색](https://ko.wikipedia.org/wiki/하얀색 "wikilink")의 배경에  [분홍색](https://ko.wikipedia.org/wiki/분홍색 "wikilink")의 「AKB48 Team SH」의 문자와 배경의 오른쪽 아래에 분홍 [에지](https://ko.wikipedia.org/wiki/에지 "wikilink")를 배치한 것이 사용되고 있다.
 
-[2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [10월 26일](https://ko.wikipedia.org/wiki/10월_26일 "wikilink"), [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [6월](https://ko.wikipedia.org/wiki/6월 "wikilink")에 전 그룹이었던 [SNH48](https://ko.wikipedia.org/wiki/SNH48 "wikilink")가 독립한 이후, 새 그룹를 발족하였다\[1\].
+[2017년](../Page/2017년.md "wikilink") [10월 26일](../Page/10월_26일.md "wikilink"), [2016년](../Page/2016년.md "wikilink") [6월](../Page/6월.md "wikilink")에 전 그룹이었던 [SNH48](../Page/SNH48.md "wikilink")가 독립한 이후, 새 그룹를 발족하였다\[1\].
 
-[2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [3월 27일](https://ko.wikipedia.org/wiki/3월_27일 "wikilink"), AKB48 CHINA로서 가입한 멤버 2명이 공개되었다\[2\].
+[2018년](../Page/2018년.md "wikilink") [3월 27일](../Page/3월_27일.md "wikilink"), AKB48 CHINA로서 가입한 멤버 2명이 공개되었다\[2\].
 
-동년 [4월 10일](https://ko.wikipedia.org/wiki/4월_10일 "wikilink"), 그룹명을 「AKB48 Team SH」로 정했으며, 1기생 오디션의 모집을 개최하였다\[3\]. [7월 24일](https://ko.wikipedia.org/wiki/7월_24일 "wikilink"), 오디션 최종 심사를 했으며, [8월 8일](https://ko.wikipedia.org/wiki/8월_8일 "wikilink"), 1기생 23명이 정식으로 공개되었다\[4\].
+동년 [4월 10일](../Page/4월_10일.md "wikilink"), 그룹명을 「AKB48 Team SH」로 정했으며, 1기생 오디션의 모집을 개최하였다\[3\]. [7월 24일](../Page/7월_24일.md "wikilink"), 오디션 최종 심사를 했으며, [8월 8일](../Page/8월_8일.md "wikilink"), 1기생 23명이 정식으로 공개되었다\[4\].
 
 ## 멤버
 
@@ -748,10 +748,10 @@
 
 <!-- end list -->
 
-  - [AKB48](https://ko.wikipedia.org/wiki/AKB48 "wikilink")
-  - [SKE48](https://ko.wikipedia.org/wiki/SKE48 "wikilink")
-  - [NMB48](https://ko.wikipedia.org/wiki/NMB48 "wikilink")
-  - [HKT48](https://ko.wikipedia.org/wiki/HKT48 "wikilink")
+  - [AKB48](../Page/AKB48.md "wikilink")
+  - [SKE48](../Page/SKE48.md "wikilink")
+  - [NMB48](../Page/NMB48.md "wikilink")
+  - [HKT48](../Page/HKT48.md "wikilink")
   - [NGT48](https://ko.wikipedia.org/wiki/NGT48 "wikilink")
   - [STU48](../Page/STU48.md "wikilink")
 
@@ -761,11 +761,11 @@
 
 <!-- end list -->
 
-  - [JKT48](https://ko.wikipedia.org/wiki/JKT48 "wikilink")
+  - [JKT48](../Page/JKT48.md "wikilink")
   - [BNK48](../Page/BNK48.md "wikilink")
   - [MNL48](../Page/MNL48.md "wikilink")
-  - [AKB48 Team TP](https://ko.wikipedia.org/wiki/AKB48_Team_TP "wikilink")
-  - [SGO48](https://ko.wikipedia.org/wiki/SGO48 "wikilink")
+  - [AKB48 Team TP](../Page/AKB48_Team_TP.md "wikilink")
+  - [SGO48](../Page/SGO48.md "wikilink")
   - [CGM48](https://ko.wikipedia.org/wiki/CGM48 "wikilink")
   - [DEL48](https://ko.wikipedia.org/wiki/DEL48 "wikilink")
   - [MUB48](../Page/MUB48.md "wikilink")

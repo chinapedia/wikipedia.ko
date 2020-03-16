@@ -29,7 +29,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/북중미카리브_축구_연맹" title="wikilink">CONCACAF</a></p></td>
+<td><p><a href="../Page/북중미카리브_축구_연맹.md" title="wikilink">CONCACAF</a></p></td>
 <td></td>
 <td><p>조별 리그</p></td>
 <td><p>1</p></td>
@@ -41,7 +41,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/남미_축구_연맹" title="wikilink">CONMEBOL</a></p></td>
+<td><p><a href="../Page/남미_축구_연맹.md" title="wikilink">CONMEBOL</a></p></td>
 <td></td>
 <td><p>조별 리그</p></td>
 <td><p>1</p></td>
@@ -83,7 +83,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/유럽_축구_연맹" title="wikilink">UEFA</a></p></td>
+<td><p><a href="../Page/유럽_축구_연맹.md" title="wikilink">UEFA</a></p></td>
 <td></td>
 <td><p>조별 리그</p></td>
 <td><p>1</p></td>
@@ -122,19 +122,19 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/아프리카_축구_연맹" title="wikilink">CAF</a></p></td>
+<td><p><a href="../Page/아프리카_축구_연맹.md" title="wikilink">CAF</a></p></td>
 <td></td>
 <td><p>조별 리그</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/북중미카리브_축구_연맹" title="wikilink">CONCACAF</a></p></td>
+<td><p><a href="../Page/북중미카리브_축구_연맹.md" title="wikilink">CONCACAF</a></p></td>
 <td></td>
 <td><p>조별 리그</p></td>
 <td><p>2</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/남미_축구_연맹" title="wikilink">CONMEBOL</a></p></td>
+<td><p><a href="../Page/남미_축구_연맹.md" title="wikilink">CONMEBOL</a></p></td>
 <td></td>
 <td><p>조별 리그</p></td>
 <td><p>2</p></td>
@@ -146,7 +146,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/유럽_축구_연맹" title="wikilink">UEFA</a></p></td>
+<td><p><a href="../Page/유럽_축구_연맹.md" title="wikilink">UEFA</a></p></td>
 <td></td>
 <td><p>조별 리그</p></td>
 <td><p>1</p></td>
@@ -233,25 +233,25 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/아시아_축구_연맹" title="wikilink">AFC</a></p></td>
+<td><p><a href="../Page/아시아_축구_연맹.md" title="wikilink">AFC</a></p></td>
 <td><p>[3]</p></td>
 <td><p>조별 리그</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/북중미카리브_축구_연맹" title="wikilink">CONCACAF</a></p></td>
+<td><p><a href="../Page/북중미카리브_축구_연맹.md" title="wikilink">CONCACAF</a></p></td>
 <td></td>
 <td><p>8강</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/남미_축구_연맹" title="wikilink">CONMEBOL</a></p></td>
+<td><p><a href="../Page/남미_축구_연맹.md" title="wikilink">CONMEBOL</a></p></td>
 <td></td>
 <td><p>3위</p></td>
 <td><p>3</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/유럽_축구_연맹" title="wikilink">UEFA</a></p></td>
+<td><p><a href="../Page/유럽_축구_연맹.md" title="wikilink">UEFA</a></p></td>
 <td></td>
 <td><p>조별 리그</p></td>
 <td><p>2</p></td>
@@ -338,7 +338,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/북중미카리브_축구_연맹" title="wikilink">CONCACAF</a></p></td>
+<td><p><a href="../Page/북중미카리브_축구_연맹.md" title="wikilink">CONCACAF</a></p></td>
 <td></td>
 <td><p>조별 리그</p></td>
 <td><p>2</p></td>
@@ -350,7 +350,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/남미_축구_연맹" title="wikilink">CONMEBOL</a></p></td>
+<td><p><a href="../Page/남미_축구_연맹.md" title="wikilink">CONMEBOL</a></p></td>
 <td></td>
 <td><p>조별 리그</p></td>
 <td><p>2</p></td>
@@ -380,7 +380,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/유럽_축구_연맹" title="wikilink">UEFA</a></p></td>
+<td><p><a href="../Page/유럽_축구_연맹.md" title="wikilink">UEFA</a></p></td>
 <td><p>[5]</p></td>
 <td><p>조별 리그</p></td>
 <td><p>2</p></td>
@@ -431,19 +431,19 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/아시아_축구_연맹" title="wikilink">AFC</a></p></td>
+<td><p><a href="../Page/아시아_축구_연맹.md" title="wikilink">AFC</a></p></td>
 <td></td>
 <td><p>조별 리그</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/북중미카리브_축구_연맹" title="wikilink">CONCACAF</a></p></td>
+<td><p><a href="../Page/북중미카리브_축구_연맹.md" title="wikilink">CONCACAF</a></p></td>
 <td></td>
 <td><p>조별 리그</p></td>
 <td><p>3</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/남미_축구_연맹" title="wikilink">CONMEBOL</a></p></td>
+<td><p><a href="../Page/남미_축구_연맹.md" title="wikilink">CONMEBOL</a></p></td>
 <td></td>
 <td><p>8강</p></td>
 <td><p>5</p></td>
@@ -455,7 +455,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/유럽_축구_연맹" title="wikilink">UEFA</a></p></td>
+<td><p><a href="../Page/유럽_축구_연맹.md" title="wikilink">UEFA</a></p></td>
 <td><p><strong></strong>[6]</p></td>
 <td><p>1위</p></td>
 <td><p>3</p></td>
@@ -542,13 +542,13 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/북중미카리브_축구_연맹" title="wikilink">CONCACAF</a></p></td>
+<td><p><a href="../Page/북중미카리브_축구_연맹.md" title="wikilink">CONCACAF</a></p></td>
 <td></td>
 <td><p>조별 리그</p></td>
 <td><p>4</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/남미_축구_연맹" title="wikilink">CONMEBOL</a></p></td>
+<td><p><a href="../Page/남미_축구_연맹.md" title="wikilink">CONMEBOL</a></p></td>
 <td><p><strong></strong></p></td>
 <td><p>1위</p></td>
 <td><p>6</p></td>
@@ -566,7 +566,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/유럽_축구_연맹" title="wikilink">UEFA</a></p></td>
+<td><p><a href="../Page/유럽_축구_연맹.md" title="wikilink">UEFA</a></p></td>
 <td><p>[9]</p></td>
 <td><p>4위</p></td>
 <td><p>4</p></td>
@@ -653,13 +653,13 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/북중미카리브_축구_연맹" title="wikilink">CONCACAF</a></p></td>
+<td><p><a href="../Page/북중미카리브_축구_연맹.md" title="wikilink">CONCACAF</a></p></td>
 <td></td>
 <td><p>조별 리그</p></td>
 <td><p>5</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/남미_축구_연맹" title="wikilink">CONMEBOL</a></p></td>
+<td><p><a href="../Page/남미_축구_연맹.md" title="wikilink">CONMEBOL</a></p></td>
 <td><p><strong></strong></p></td>
 <td><p>1위</p></td>
 <td><p>7</p></td>
@@ -689,7 +689,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/유럽_축구_연맹" title="wikilink">UEFA</a></p></td>
+<td><p><a href="../Page/유럽_축구_연맹.md" title="wikilink">UEFA</a></p></td>
 <td><p>[13]</p></td>
 <td><p>8강</p></td>
 <td><p>5</p></td>
@@ -764,19 +764,19 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/아시아_축구_연맹" title="wikilink">AFC</a></p></td>
+<td><p><a href="../Page/아시아_축구_연맹.md" title="wikilink">AFC</a></p></td>
 <td></td>
 <td><p>8강</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/북중미카리브_축구_연맹" title="wikilink">CONCACAF</a></p></td>
+<td><p><a href="../Page/북중미카리브_축구_연맹.md" title="wikilink">CONCACAF</a></p></td>
 <td></td>
 <td><p>조별 리그</p></td>
 <td><p>6</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/남미_축구_연맹" title="wikilink">CONMEBOL</a></p></td>
+<td><p><a href="../Page/남미_축구_연맹.md" title="wikilink">CONMEBOL</a></p></td>
 <td></td>
 <td><p>조별 리그</p></td>
 <td><p>8</p></td>
@@ -800,7 +800,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/유럽_축구_연맹" title="wikilink">UEFA</a></p></td>
+<td><p><a href="../Page/유럽_축구_연맹.md" title="wikilink">UEFA</a></p></td>
 <td><p>[17]</p></td>
 <td><p>2위</p></td>
 <td><p>6</p></td>
@@ -875,13 +875,13 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/아프리카_축구_연맹" title="wikilink">CAF</a></p></td>
+<td><p><a href="../Page/아프리카_축구_연맹.md" title="wikilink">CAF</a></p></td>
 <td></td>
 <td><p>조별 리그</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/북중미카리브_축구_연맹" title="wikilink">CONCACAF</a></p></td>
+<td><p><a href="../Page/북중미카리브_축구_연맹.md" title="wikilink">CONCACAF</a></p></td>
 <td></td>
 <td><p>8강</p></td>
 <td><p>7</p></td>
@@ -893,7 +893,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/남미_축구_연맹" title="wikilink">CONMEBOL</a></p></td>
+<td><p><a href="../Page/남미_축구_연맹.md" title="wikilink">CONMEBOL</a></p></td>
 <td><p><strong></strong></p></td>
 <td><p>1위</p></td>
 <td><p>9</p></td>
@@ -911,7 +911,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/유럽_축구_연맹" title="wikilink">UEFA</a></p></td>
+<td><p><a href="../Page/유럽_축구_연맹.md" title="wikilink">UEFA</a></p></td>
 <td><p>[19]</p></td>
 <td><p>3위</p></td>
 <td><p>7</p></td>
@@ -986,25 +986,25 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/아시아_축구_연맹" title="wikilink">AFC</a></p></td>
+<td><p><a href="../Page/아시아_축구_연맹.md" title="wikilink">AFC</a></p></td>
 <td><p>[22]</p></td>
 <td><p>조별 리그</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/아프리카_축구_연맹" title="wikilink">CAF</a></p></td>
+<td><p><a href="../Page/아프리카_축구_연맹.md" title="wikilink">CAF</a></p></td>
 <td><p>[23]</p></td>
 <td><p>조별 리그</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/북중미카리브_축구_연맹" title="wikilink">CONCACAF</a></p></td>
+<td><p><a href="../Page/북중미카리브_축구_연맹.md" title="wikilink">CONCACAF</a></p></td>
 <td></td>
 <td><p>조별 리그</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/남미_축구_연맹" title="wikilink">CONMEBOL</a></p></td>
+<td><p><a href="../Page/남미_축구_연맹.md" title="wikilink">CONMEBOL</a></p></td>
 <td></td>
 <td><p>4위</p></td>
 <td><p>10</p></td>
@@ -1028,7 +1028,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/유럽_축구_연맹" title="wikilink">UEFA</a></p></td>
+<td><p><a href="../Page/유럽_축구_연맹.md" title="wikilink">UEFA</a></p></td>
 <td></td>
 <td><p>2위</p></td>
 <td><p>3</p></td>
@@ -1097,25 +1097,25 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/아시아_축구_연맹" title="wikilink">AFC</a></p></td>
+<td><p><a href="../Page/아시아_축구_연맹.md" title="wikilink">AFC</a></p></td>
 <td></td>
 <td><p>조별 리그</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/아프리카_축구_연맹" title="wikilink">CAF</a></p></td>
+<td><p><a href="../Page/아프리카_축구_연맹.md" title="wikilink">CAF</a></p></td>
 <td></td>
 <td><p>조별 리그</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/북중미카리브_축구_연맹" title="wikilink">CONCACAF</a></p></td>
+<td><p><a href="../Page/북중미카리브_축구_연맹.md" title="wikilink">CONCACAF</a></p></td>
 <td></td>
 <td><p>조별 리그</p></td>
 <td><p>8</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/남미_축구_연맹" title="wikilink">CONMEBOL</a></p></td>
+<td><p><a href="../Page/남미_축구_연맹.md" title="wikilink">CONMEBOL</a></p></td>
 <td></td>
 <td><p>3위</p></td>
 <td><p>11</p></td>
@@ -1133,7 +1133,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/유럽_축구_연맹" title="wikilink">UEFA</a></p></td>
+<td><p><a href="../Page/유럽_축구_연맹.md" title="wikilink">UEFA</a></p></td>
 <td></td>
 <td><p>2위</p></td>
 <td><p>4</p></td>
@@ -1208,13 +1208,13 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/아시아_축구_연맹" title="wikilink">AFC</a></p></td>
+<td><p><a href="../Page/아시아_축구_연맹.md" title="wikilink">AFC</a></p></td>
 <td></td>
 <td><p>조별 리그</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/아프리카_축구_연맹" title="wikilink">CAF</a></p></td>
+<td><p><a href="../Page/아프리카_축구_연맹.md" title="wikilink">CAF</a></p></td>
 <td></td>
 <td><p>조별 리그</p></td>
 <td><p>1</p></td>
@@ -1226,7 +1226,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/북중미카리브_축구_연맹" title="wikilink">CONCACAF</a></p></td>
+<td><p><a href="../Page/북중미카리브_축구_연맹.md" title="wikilink">CONCACAF</a></p></td>
 <td></td>
 <td><p>조별 리그</p></td>
 <td><p>2</p></td>
@@ -1238,7 +1238,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/남미_축구_연맹" title="wikilink">CONMEBOL</a></p></td>
+<td><p><a href="../Page/남미_축구_연맹.md" title="wikilink">CONMEBOL</a></p></td>
 <td></td>
 <td><p>2R</p></td>
 <td><p>12</p></td>
@@ -1262,13 +1262,13 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/오세아니아_축구_연맹" title="wikilink">OFC</a></p></td>
+<td><p><a href="../Page/오세아니아_축구_연맹.md" title="wikilink">OFC</a></p></td>
 <td></td>
 <td><p>조별 리그</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/유럽_축구_연맹" title="wikilink">UEFA</a></p></td>
+<td><p><a href="../Page/유럽_축구_연맹.md" title="wikilink">UEFA</a></p></td>
 <td><p>[27]</p></td>
 <td><p>2위</p></td>
 <td><p>10</p></td>
@@ -1367,7 +1367,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/아시아_축구_연맹" title="wikilink">AFC</a></p></td>
+<td><p><a href="../Page/아시아_축구_연맹.md" title="wikilink">AFC</a></p></td>
 <td></td>
 <td><p>조별 리그</p></td>
 <td><p>2</p></td>
@@ -1379,7 +1379,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/아프리카_축구_연맹" title="wikilink">CAF</a></p></td>
+<td><p><a href="../Page/아프리카_축구_연맹.md" title="wikilink">CAF</a></p></td>
 <td></td>
 <td><p>16강</p></td>
 <td><p>2</p></td>
@@ -1391,7 +1391,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/북중미카리브_축구_연맹" title="wikilink">CONCACAF</a></p></td>
+<td><p><a href="../Page/북중미카리브_축구_연맹.md" title="wikilink">CONCACAF</a></p></td>
 <td></td>
 <td><p>8강</p></td>
 <td><p>9</p></td>
@@ -1403,7 +1403,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/남미_축구_연맹" title="wikilink">CONMEBOL</a></p></td>
+<td><p><a href="../Page/남미_축구_연맹.md" title="wikilink">CONMEBOL</a></p></td>
 <td></td>
 <td><p>8강</p></td>
 <td><p>13</p></td>
@@ -1427,7 +1427,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/유럽_축구_연맹" title="wikilink">UEFA</a></p></td>
+<td><p><a href="../Page/유럽_축구_연맹.md" title="wikilink">UEFA</a></p></td>
 <td></td>
 <td><p>16강</p></td>
 <td><p>1</p></td>
@@ -1526,7 +1526,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/아시아_축구_연맹" title="wikilink">AFC</a></p></td>
+<td><p><a href="../Page/아시아_축구_연맹.md" title="wikilink">AFC</a></p></td>
 <td></td>
 <td><p>조별 리그</p></td>
 <td><p>3</p></td>
@@ -1538,7 +1538,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/아프리카_축구_연맹" title="wikilink">CAF</a></p></td>
+<td><p><a href="../Page/아프리카_축구_연맹.md" title="wikilink">CAF</a></p></td>
 <td></td>
 <td><p>조별 리그</p></td>
 <td><p>2</p></td>
@@ -1550,7 +1550,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/북중미카리브_축구_연맹" title="wikilink">CONCACAF</a></p></td>
+<td><p><a href="../Page/북중미카리브_축구_연맹.md" title="wikilink">CONCACAF</a></p></td>
 <td></td>
 <td><p>조별 리그</p></td>
 <td><p>4</p></td>
@@ -1562,7 +1562,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/남미_축구_연맹" title="wikilink">CONMEBOL</a></p></td>
+<td><p><a href="../Page/남미_축구_연맹.md" title="wikilink">CONMEBOL</a></p></td>
 <td></td>
 <td><p>16강</p></td>
 <td><p>14</p></td>
@@ -1586,7 +1586,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/유럽_축구_연맹" title="wikilink">UEFA</a></p></td>
+<td><p><a href="../Page/유럽_축구_연맹.md" title="wikilink">UEFA</a></p></td>
 <td></td>
 <td><p>16강</p></td>
 <td><p>5</p></td>
@@ -1685,7 +1685,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/아시아_축구_연맹" title="wikilink">AFC</a></p></td>
+<td><p><a href="../Page/아시아_축구_연맹.md" title="wikilink">AFC</a></p></td>
 <td></td>
 <td><p>조별 리그</p></td>
 <td><p>4</p></td>
@@ -1697,7 +1697,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/아프리카_축구_연맹" title="wikilink">CAF</a></p></td>
+<td><p><a href="../Page/아프리카_축구_연맹.md" title="wikilink">CAF</a></p></td>
 <td></td>
 <td><p>16강</p></td>
 <td><p>1</p></td>
@@ -1715,7 +1715,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/북중미카리브_축구_연맹" title="wikilink">CONCACAF</a></p></td>
+<td><p><a href="../Page/북중미카리브_축구_연맹.md" title="wikilink">CONCACAF</a></p></td>
 <td></td>
 <td><p>16강</p></td>
 <td><p>10</p></td>
@@ -1727,7 +1727,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/남미_축구_연맹" title="wikilink">CONMEBOL</a></p></td>
+<td><p><a href="../Page/남미_축구_연맹.md" title="wikilink">CONMEBOL</a></p></td>
 <td></td>
 <td><p>조별 리그</p></td>
 <td><p>3</p></td>
@@ -1751,7 +1751,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/유럽_축구_연맹" title="wikilink">UEFA</a></p></td>
+<td><p><a href="../Page/유럽_축구_연맹.md" title="wikilink">UEFA</a></p></td>
 <td></td>
 <td><p>조별 리그</p></td>
 <td><p>1</p></td>
@@ -1844,7 +1844,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/아시아_축구_연맹" title="wikilink">AFC</a></p></td>
+<td><p><a href="../Page/아시아_축구_연맹.md" title="wikilink">AFC</a></p></td>
 <td></td>
 <td><p>조별 리그</p></td>
 <td><p>5</p></td>
@@ -1868,7 +1868,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/아프리카_축구_연맹" title="wikilink">CAF</a></p></td>
+<td><p><a href="../Page/아프리카_축구_연맹.md" title="wikilink">CAF</a></p></td>
 <td></td>
 <td><p>16강</p></td>
 <td><p>2</p></td>
@@ -1898,7 +1898,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/북중미카리브_축구_연맹" title="wikilink">CONCACAF</a></p></td>
+<td><p><a href="../Page/북중미카리브_축구_연맹.md" title="wikilink">CONCACAF</a></p></td>
 <td></td>
 <td><p>16강</p></td>
 <td><p>11</p></td>
@@ -1916,7 +1916,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/남미_축구_연맹" title="wikilink">CONMEBOL</a></p></td>
+<td><p><a href="../Page/남미_축구_연맹.md" title="wikilink">CONMEBOL</a></p></td>
 <td></td>
 <td><p>2위</p></td>
 <td><p>16</p></td>
@@ -1946,7 +1946,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/유럽_축구_연맹" title="wikilink">UEFA</a></p></td>
+<td><p><a href="../Page/유럽_축구_연맹.md" title="wikilink">UEFA</a></p></td>
 <td></td>
 <td><p>4위</p></td>
 <td><p>7</p></td>
@@ -2051,7 +2051,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/아시아_축구_연맹" title="wikilink">AFC</a></p></td>
+<td><p><a href="../Page/아시아_축구_연맹.md" title="wikilink">AFC</a></p></td>
 <td></td>
 <td><p>4위</p></td>
 <td><p>6</p></td>
@@ -2075,7 +2075,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/아프리카_축구_연맹" title="wikilink">CAF</a></p></td>
+<td><p><a href="../Page/아프리카_축구_연맹.md" title="wikilink">CAF</a></p></td>
 <td></td>
 <td><p>조별 리그</p></td>
 <td><p>3</p></td>
@@ -2105,7 +2105,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/북중미카리브_축구_연맹" title="wikilink">CONCACAF</a></p></td>
+<td><p><a href="../Page/북중미카리브_축구_연맹.md" title="wikilink">CONCACAF</a></p></td>
 <td></td>
 <td><p>16강</p></td>
 <td><p>12</p></td>
@@ -2123,7 +2123,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/남미_축구_연맹" title="wikilink">CONMEBOL</a></p></td>
+<td><p><a href="../Page/남미_축구_연맹.md" title="wikilink">CONMEBOL</a></p></td>
 <td><p><strong></strong></p></td>
 <td><p>1위</p></td>
 <td><p>17</p></td>
@@ -2153,7 +2153,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/유럽_축구_연맹" title="wikilink">UEFA</a></p></td>
+<td><p><a href="../Page/유럽_축구_연맹.md" title="wikilink">UEFA</a></p></td>
 <td></td>
 <td><p>16강</p></td>
 <td><p>3</p></td>
@@ -2258,7 +2258,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/아시아_축구_연맹" title="wikilink">AFC</a></p></td>
+<td><p><a href="../Page/아시아_축구_연맹.md" title="wikilink">AFC</a></p></td>
 <td></td>
 <td><p>조별 리그</p></td>
 <td><p>7</p></td>
@@ -2288,7 +2288,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/아프리카_축구_연맹" title="wikilink">CAF</a></p></td>
+<td><p><a href="../Page/아프리카_축구_연맹.md" title="wikilink">CAF</a></p></td>
 <td></td>
 <td><p>16강</p></td>
 <td><p>1</p></td>
@@ -2318,7 +2318,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/북중미카리브_축구_연맹" title="wikilink">CONCACAF</a></p></td>
+<td><p><a href="../Page/북중미카리브_축구_연맹.md" title="wikilink">CONCACAF</a></p></td>
 <td></td>
 <td><p>16강</p></td>
 <td><p>13</p></td>
@@ -2342,7 +2342,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/남미_축구_연맹" title="wikilink">CONMEBOL</a></p></td>
+<td><p><a href="../Page/남미_축구_연맹.md" title="wikilink">CONMEBOL</a></p></td>
 <td></td>
 <td><p>8강</p></td>
 <td><p>18</p></td>
@@ -2366,7 +2366,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/유럽_축구_연맹" title="wikilink">UEFA</a></p></td>
+<td><p><a href="../Page/유럽_축구_연맹.md" title="wikilink">UEFA</a></p></td>
 <td></td>
 <td><p>16강</p></td>
 <td><p>8</p></td>
@@ -2465,7 +2465,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/아시아_축구_연맹" title="wikilink">AFC</a></p></td>
+<td><p><a href="../Page/아시아_축구_연맹.md" title="wikilink">AFC</a></p></td>
 <td></td>
 <td><p>16강</p></td>
 <td><p>8</p></td>
@@ -2489,7 +2489,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/아프리카_축구_연맹" title="wikilink">CAF</a></p></td>
+<td><p><a href="../Page/아프리카_축구_연맹.md" title="wikilink">CAF</a></p></td>
 <td></td>
 <td><p>8강</p></td>
 <td><p>2</p></td>
@@ -2525,7 +2525,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/북중미카리브_축구_연맹" title="wikilink">CONCACAF</a></p></td>
+<td><p><a href="../Page/북중미카리브_축구_연맹.md" title="wikilink">CONCACAF</a></p></td>
 <td></td>
 <td><p>16강</p></td>
 <td><p>14</p></td>
@@ -2543,7 +2543,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/남미_축구_연맹" title="wikilink">CONMEBOL</a></p></td>
+<td><p><a href="../Page/남미_축구_연맹.md" title="wikilink">CONMEBOL</a></p></td>
 <td></td>
 <td><p>8강</p></td>
 <td><p>19</p></td>
@@ -2573,13 +2573,13 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/오세아니아_축구_연맹" title="wikilink">OFC</a></p></td>
+<td><p><a href="../Page/오세아니아_축구_연맹.md" title="wikilink">OFC</a></p></td>
 <td></td>
 <td><p>조별 리그</p></td>
 <td><p>2</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/유럽_축구_연맹" title="wikilink">UEFA</a></p></td>
+<td><p><a href="../Page/유럽_축구_연맹.md" title="wikilink">UEFA</a></p></td>
 <td></td>
 <td><p>조별 리그</p></td>
 <td><p>2</p></td>
@@ -2672,7 +2672,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/아시아_축구_연맹" title="wikilink">AFC</a></p></td>
+<td><p><a href="../Page/아시아_축구_연맹.md" title="wikilink">AFC</a></p></td>
 <td></td>
 <td><p>조별 리그</p></td>
 <td><p>9</p></td>
@@ -2696,7 +2696,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/아프리카_축구_연맹" title="wikilink">CAF</a></p></td>
+<td><p><a href="../Page/아프리카_축구_연맹.md" title="wikilink">CAF</a></p></td>
 <td></td>
 <td><p>조별 리그</p></td>
 <td><p>3</p></td>
@@ -2726,7 +2726,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/북중미카리브_축구_연맹" title="wikilink">CONCACAF</a></p></td>
+<td><p><a href="../Page/북중미카리브_축구_연맹.md" title="wikilink">CONCACAF</a></p></td>
 <td></td>
 <td><p>16강</p></td>
 <td><p>15</p></td>
@@ -2750,7 +2750,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/남미_축구_연맹" title="wikilink">CONMEBOL</a></p></td>
+<td><p><a href="../Page/남미_축구_연맹.md" title="wikilink">CONMEBOL</a></p></td>
 <td></td>
 <td><p>4위</p></td>
 <td><p>20</p></td>
@@ -2786,7 +2786,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/유럽_축구_연맹" title="wikilink">UEFA</a></p></td>
+<td><p><a href="../Page/유럽_축구_연맹.md" title="wikilink">UEFA</a></p></td>
 <td></td>
 <td><p>16강</p></td>
 <td><p>3</p></td>
@@ -2879,7 +2879,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/아시아_축구_연맹" title="wikilink">AFC</a></p></td>
+<td><p><a href="../Page/아시아_축구_연맹.md" title="wikilink">AFC</a></p></td>
 <td></td>
 <td><p>조별 리그</p></td>
 <td><p>10</p></td>
@@ -2909,7 +2909,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/아프리카_축구_연맹" title="wikilink">CAF</a></p></td>
+<td><p><a href="../Page/아프리카_축구_연맹.md" title="wikilink">CAF</a></p></td>
 <td></td>
 <td><p>조별 리그</p></td>
 <td><p>6</p></td>
@@ -2939,7 +2939,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/북중미카리브_축구_연맹" title="wikilink">CONCACAF</a></p></td>
+<td><p><a href="../Page/북중미카리브_축구_연맹.md" title="wikilink">CONCACAF</a></p></td>
 <td></td>
 <td><p>16강</p></td>
 <td><p>16</p></td>
@@ -2957,7 +2957,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/남미_축구_연맹" title="wikilink">CONMEBOL</a></p></td>
+<td><p><a href="../Page/남미_축구_연맹.md" title="wikilink">CONMEBOL</a></p></td>
 <td></td>
 <td><p>8강</p></td>
 <td><p>21</p></td>
@@ -2987,7 +2987,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/유럽_축구_연맹" title="wikilink">UEFA</a></p></td>
+<td><p><a href="../Page/유럽_축구_연맹.md" title="wikilink">UEFA</a></p></td>
 <td></td>
 <td><p>16강</p></td>
 <td><p>5</p></td>
@@ -3075,9 +3075,9 @@
 
 ## 이모저모
 
-  - 개최국이 1라운드에서 탈락을 한 대회는 [제19회 FIFA 월드컵](https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵 "wikilink")(당시 개최지는 [남아프리카 공화국](https://ko.wikipedia.org/wiki/남아프리카_공화국 "wikilink")) 때가 유일하다.
+  - 개최국이 1라운드에서 탈락을 한 대회는 [제19회 FIFA 월드컵](https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵 "wikilink")(당시 개최지는 [남아프리카 공화국](../Page/남아프리카_공화국.md "wikilink")) 때가 유일하다.
 
-  - 역대 월드컵 4강 진출국 중 [유럽 팀](https://ko.wikipedia.org/wiki/유럽_축구_연맹 "wikilink") 또는 [남미 팀이](https://ko.wikipedia.org/wiki/남미_축구_연맹 "wikilink") 아닌 팀 중에서는 ([제1회 FIFA 월드컵](https://ko.wikipedia.org/wiki/1930년_FIFA_월드컵 "wikilink") 당시에 3위)과 ([제17회 FIFA 월드컵](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") 당시에 4위) 밖에 없다.
+  - 역대 월드컵 4강 진출국 중 [유럽 팀](../Page/유럽_축구_연맹.md "wikilink") 또는 [남미 팀이](../Page/남미_축구_연맹.md "wikilink") 아닌 팀 중에서는 ([제1회 FIFA 월드컵](https://ko.wikipedia.org/wiki/1930년_FIFA_월드컵 "wikilink") 당시에 3위)과 ([제17회 FIFA 월드컵](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") 당시에 4위) 밖에 없다.
 
   - 은 불참한 대회([제1회](https://ko.wikipedia.org/wiki/1930년_FIFA_월드컵 "wikilink"), [제4회](https://ko.wikipedia.org/wiki/1950년_FIFA_월드컵 "wikilink"))를 제외한 나머지 대회 중 1라운드에서 탈락했을 때는 두 번([제3회](https://ko.wikipedia.org/wiki/1938년_FIFA_월드컵 "wikilink"), [제21회](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵 "wikilink")) 뿐이다.
 
@@ -3108,9 +3108,9 @@
 19.
 20.
 21.
-22. 당시에는 [OFC](https://ko.wikipedia.org/wiki/오세아니아_축구_연맹 "wikilink") 소속
+22. 당시에는 [OFC](../Page/오세아니아_축구_연맹.md "wikilink") 소속
 23. 당시에는
-24. 당시에는 [서독](https://ko.wikipedia.org/wiki/서독 "wikilink")과 [동독](https://ko.wikipedia.org/wiki/동독 "wikilink")으로 나뉘어졌는데 두 팀이 모두 진출했다. 위의 자료는 의 결과이고, 아래의 자료는 의 결과이다.
+24. 당시에는 [서독](../Page/서독.md "wikilink")과 [동독](../Page/동독.md "wikilink")으로 나뉘어졌는데 두 팀이 모두 진출했다. 위의 자료는 의 결과이고, 아래의 자료는 의 결과이다.
 25.
 26.
 27.

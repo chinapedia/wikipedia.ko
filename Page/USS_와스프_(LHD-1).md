@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [USS  \(LHD-1\)](https://ko.wikipedia.org/wiki/USS__\(LHD-1\)).
 
 
-**USS 와스프 (LHD-1)**는 미국 해군의 다목적 [와스프급 강습상륙함의](https://ko.wikipedia.org/wiki/와스프급_강습상륙함 "wikilink") 1번함이다. 와스프란 이름의 열번째 미국 해군 군함이다.
+**USS 와스프 (LHD-1)**는 미국 해군의 다목적 [와스프급 강습상륙함의](../Page/와스프급_강습상륙함.md "wikilink") 1번함이다. 와스프란 이름의 열번째 미국 해군 군함이다.
 
 ## 역사
 

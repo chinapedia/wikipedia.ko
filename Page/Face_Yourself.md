@@ -7,15 +7,15 @@
 
 ## 차트
 
-| 차트 (2018)                                                        | 최고순위 |
-| ---------------------------------------------------------------- | ---- |
-| [오스트레일리아](https://ko.wikipedia.org/wiki/오스트레일리아 "wikilink")\[1\] | 71   |
-| [프랑스](https://ko.wikipedia.org/wiki/프랑스 "wikilink")\[2\]         | 40   |
-| [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")\[3\]           | 1    |
-| [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")\[4\]           | 1    |
-| [뉴질랜드](https://ko.wikipedia.org/wiki/뉴질랜드 "wikilink")\[5\]       | 7    |
-| [스페인](https://ko.wikipedia.org/wiki/스페인 "wikilink")\[6\]         | 96   |
-|                                                                  |      |
+| 차트 (2018)                                     | 최고순위 |
+| --------------------------------------------- | ---- |
+| [오스트레일리아](../Page/오스트레일리아.md "wikilink")\[1\] | 71   |
+| [프랑스](../Page/프랑스.md "wikilink")\[2\]         | 40   |
+| [일본](../Page/일본.md "wikilink")\[3\]           | 1    |
+| [일본](../Page/일본.md "wikilink")\[4\]           | 1    |
+| [뉴질랜드](../Page/뉴질랜드.md "wikilink")\[5\]       | 7    |
+| [스페인](../Page/스페인.md "wikilink")\[6\]         | 96   |
+|                                               |      |
 
 ## 각주
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ act-age](https://ko.wikipedia.org/wiki/_act-age).
 
 
-《**액터쥬 act-age**》()는 [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [1월 22일부터](https://ko.wikipedia.org/wiki/1월_22일 "wikilink")\[1\] 「[주간 소년 점프](https://ko.wikipedia.org/wiki/주간_소년_점프 "wikilink")」에서 연재되고 있는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 마쯔키 타쯔야() 원작의 우사 자키하라()가 그린 만화로, [메소드](https://ko.wikipedia.org/wiki/메소드 "wikilink") 연기의 천재 여고생 요나기가 스타즈에 들어가면서 겪게 되는 배우로서의 이야기를 그리고 있다.
+《**액터쥬 act-age**》()는 [2018년](../Page/2018년.md "wikilink") [1월 22일부터](../Page/1월_22일.md "wikilink")\[1\] 「[주간 소년 점프](../Page/주간_소년_점프.md "wikilink")」에서 연재되고 있는 [일본](../Page/일본.md "wikilink")의 마쯔키 타쯔야() 원작의 우사 자키하라()가 그린 만화로, [메소드](https://ko.wikipedia.org/wiki/메소드 "wikilink") 연기의 천재 여고생 요나기가 스타즈에 들어가면서 겪게 되는 배우로서의 이야기를 그리고 있다.
 
 ## 소개
 
@@ -13,14 +13,14 @@
 
 ## 단행본
 
-  - 第1巻 [集英社](https://ko.wikipedia.org/wiki/슈에이샤 "wikilink") 2018年5月2日発売
-  - 第2巻 [集英社](https://ko.wikipedia.org/wiki/슈에이샤 "wikilink") 2018年7月4日(水) 発売予定
+  - 第1巻 [集英社](../Page/슈에이샤.md "wikilink") 2018年5月2日発売
+  - 第2巻 [集英社](../Page/슈에이샤.md "wikilink") 2018年7月4日(水) 発売予定
 
 ## 각주
 
 ## 외부 링크
 
-  -  [주간 소년 점프](https://ko.wikipedia.org/wiki/주간_소년_점프 "wikilink")
+  -  [주간 소년 점프](../Page/주간_소년_점프.md "wikilink")
 
 [분류:진행 중인 작품](https://ko.wikipedia.org/wiki/분류:진행_중인_작품 "wikilink") [분류:일본의 만화](https://ko.wikipedia.org/wiki/분류:일본의_만화 "wikilink") [분류:드라마 만화](https://ko.wikipedia.org/wiki/분류:드라마_만화 "wikilink") [분류:주간 소년 점프의 만화](https://ko.wikipedia.org/wiki/분류:주간_소년_점프의_만화 "wikilink") [분류:연예계를 배경으로 한 만화](https://ko.wikipedia.org/wiki/분류:연예계를_배경으로_한_만화 "wikilink")
 

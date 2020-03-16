@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [FIVB   ](https://ko.wikipedia.org/wiki/FIVB___).
 
 
-**FIVB 여자 배구 네이션스리그**는 개최 예정인 배구 국제 대회이다. [국제 배구 연맹](https://ko.wikipedia.org/wiki/국제_배구_연맹 "wikilink")(FIVB) 회원국의 여자 국가대표팀이 대회에 참가한다. 첫번째 대회가 2018년 5월에 시작될 예정이며, 결승전이 2018년 7월 1일 중국 [난징 시에서](https://ko.wikipedia.org/wiki/난징_시 "wikilink") 열릴 예정이다.
+**FIVB 여자 배구 네이션스리그**는 개최 예정인 배구 국제 대회이다. [국제 배구 연맹](../Page/국제_배구_연맹.md "wikilink")(FIVB) 회원국의 여자 국가대표팀이 대회에 참가한다. 첫번째 대회가 2018년 5월에 시작될 예정이며, 결승전이 2018년 7월 1일 중국 [난징 시에서](https://ko.wikipedia.org/wiki/난징_시 "wikilink") 열릴 예정이다.
 
-1993년부터 2017년까지 매년 개최된 여자 배구 국제 대회인 [월드그랑프리를](https://ko.wikipedia.org/wiki/FIVB_배구_월드그랑프리 "wikilink") 잇는 대회이다.
+1993년부터 2017년까지 매년 개최된 여자 배구 국제 대회인 [월드그랑프리를](../Page/FIVB_배구_월드그랑프리.md "wikilink") 잇는 대회이다.
 
 ## 방식
 
@@ -31,7 +31,7 @@
 <tr class="odd">
 <td><p>3</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2018년_FIVB_여자_배구_네이션스리그" title="wikilink">2018년</a>, <a href="https://ko.wikipedia.org/wiki/2019년_FIVB_여자_배구_네이션스리그" title="wikilink">2019년</a>, <a href="https://ko.wikipedia.org/wiki/2020년_FIVB_여자_배구_네이션스리그" title="wikilink">2020년</a></p></td>
+<td><p><a href="../Page/2018년_FIVB_여자_배구_네이션스리그.md" title="wikilink">2018년</a>, <a href="https://ko.wikipedia.org/wiki/2019년_FIVB_여자_배구_네이션스리그" title="wikilink">2019년</a>, <a href="https://ko.wikipedia.org/wiki/2020년_FIVB_여자_배구_네이션스리그" title="wikilink">2020년</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -55,37 +55,37 @@
 <tr class="even">
 <td></td>
 <td><p>2</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2018년_FIVB_여자_배구_네이션스리그" title="wikilink">2018</a></p></td>
+<td><p><a href="../Page/2018년_FIVB_여자_배구_네이션스리그.md" title="wikilink">2018</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>2</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2018년_FIVB_여자_배구_네이션스리그" title="wikilink">2018</a></p></td>
+<td><p><a href="../Page/2018년_FIVB_여자_배구_네이션스리그.md" title="wikilink">2018</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>2</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2018년_FIVB_여자_배구_네이션스리그" title="wikilink">2018</a></p></td>
+<td><p><a href="../Page/2018년_FIVB_여자_배구_네이션스리그.md" title="wikilink">2018</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>2</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2018년_FIVB_여자_배구_네이션스리그" title="wikilink">2018</a></p></td>
+<td><p><a href="../Page/2018년_FIVB_여자_배구_네이션스리그.md" title="wikilink">2018</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>2</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2018년_FIVB_여자_배구_네이션스리그" title="wikilink">2018</a></p></td>
+<td><p><a href="../Page/2018년_FIVB_여자_배구_네이션스리그.md" title="wikilink">2018</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>2</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2018년_FIVB_여자_배구_네이션스리그" title="wikilink">2018</a></p></td>
+<td><p><a href="../Page/2018년_FIVB_여자_배구_네이션스리그.md" title="wikilink">2018</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>2</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2018년_FIVB_여자_배구_네이션스리그" title="wikilink">2018</a></p></td>
+<td><p><a href="../Page/2018년_FIVB_여자_배구_네이션스리그.md" title="wikilink">2018</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -95,47 +95,47 @@
 <tr class="even">
 <td></td>
 <td><p>2</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2018년_FIVB_여자_배구_네이션스리그" title="wikilink">2018</a></p></td>
+<td><p><a href="../Page/2018년_FIVB_여자_배구_네이션스리그.md" title="wikilink">2018</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>2</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2018년_FIVB_여자_배구_네이션스리그" title="wikilink">2018</a></p></td>
+<td><p><a href="../Page/2018년_FIVB_여자_배구_네이션스리그.md" title="wikilink">2018</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>1</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2018년_FIVB_여자_배구_네이션스리그" title="wikilink">2018</a></p></td>
+<td><p><a href="../Page/2018년_FIVB_여자_배구_네이션스리그.md" title="wikilink">2018</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>2</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2018년_FIVB_여자_배구_네이션스리그" title="wikilink">2018</a></p></td>
+<td><p><a href="../Page/2018년_FIVB_여자_배구_네이션스리그.md" title="wikilink">2018</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>2</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2018년_FIVB_여자_배구_네이션스리그" title="wikilink">2018</a></p></td>
+<td><p><a href="../Page/2018년_FIVB_여자_배구_네이션스리그.md" title="wikilink">2018</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>2</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2018년_FIVB_여자_배구_네이션스리그" title="wikilink">2018</a></p></td>
+<td><p><a href="../Page/2018년_FIVB_여자_배구_네이션스리그.md" title="wikilink">2018</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>2</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2018년_FIVB_여자_배구_네이션스리그" title="wikilink">2018</a></p></td>
+<td><p><a href="../Page/2018년_FIVB_여자_배구_네이션스리그.md" title="wikilink">2018</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>2</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2018년_FIVB_여자_배구_네이션스리그" title="wikilink">2018</a></p></td>
+<td><p><a href="../Page/2018년_FIVB_여자_배구_네이션스리그.md" title="wikilink">2018</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>2</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2018년_FIVB_여자_배구_네이션스리그" title="wikilink">2018</a></p></td>
+<td><p><a href="../Page/2018년_FIVB_여자_배구_네이션스리그.md" title="wikilink">2018</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -181,7 +181,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2018년_FIVB_여자_배구_네이션스리그" title="wikilink">2018년</a></p></td>
+<td><p><a href="../Page/2018년_FIVB_여자_배구_네이션스리그.md" title="wikilink">2018년</a></p></td>
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/난징_시" title="wikilink">난징</a></p></td>
 <td><p><br />
@@ -261,7 +261,7 @@
 
 ## 대회별 [MVP](https://ko.wikipedia.org/wiki/최우수_선수 "wikilink")
 
-  - [2018년](https://ko.wikipedia.org/wiki/2018년_FIVB_여자_배구_네이션스리그 "wikilink") –  (Michelle Bartsch-Hackley)
+  - [2018년](../Page/2018년_FIVB_여자_배구_네이션스리그.md "wikilink") –  (Michelle Bartsch-Hackley)
 
 ## 외부 링크
 

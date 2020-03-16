@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ I:   ](https://ko.wikipedia.org/wiki/_I:___).
 
 
-《**이스 I: 에인션트 이스 배니시드**》(, 이스 I: 잃어버린 고대왕국 이스)는 [니혼 팔콤이](https://ko.wikipedia.org/wiki/니혼_팔콤 "wikilink") 제작한 [액션 롤플레잉 게임이다](https://ko.wikipedia.org/wiki/액션_롤플레잉_게임 "wikilink"). 팔콤의 숙련 프로그래머였던 [하시모토 마사야와](https://ko.wikipedia.org/wiki/하시모토_마사야 "wikilink") 시나리오 작가 [미야자키 토모요시가](https://ko.wikipedia.org/wiki/미야자키_토모요시 "wikilink") 협력해 만든 게임으로, [PC-8801](https://ko.wikipedia.org/wiki/PC-8801 "wikilink")용 컴퓨터 소프트웨어로 개발해 1987년 6월 21일 처음 발매되고 [샤프 X1](https://ko.wikipedia.org/wiki/샤프_X1 "wikilink"), [PC-9801](https://ko.wikipedia.org/wiki/PC-9801 "wikilink"), [FM-7](https://ko.wikipedia.org/wiki/FM-7 "wikilink") 및 [MSX2](https://ko.wikipedia.org/wiki/MSX2 "wikilink")같은 일본제 컴퓨터로 이식됐다.
+《**이스 I: 에인션트 이스 배니시드**》(, 이스 I: 잃어버린 고대왕국 이스)는 [니혼 팔콤이](../Page/니혼_팔콤.md "wikilink") 제작한 [액션 롤플레잉 게임이다](https://ko.wikipedia.org/wiki/액션_롤플레잉_게임 "wikilink"). 팔콤의 숙련 프로그래머였던 [하시모토 마사야와](https://ko.wikipedia.org/wiki/하시모토_마사야 "wikilink") 시나리오 작가 [미야자키 토모요시가](https://ko.wikipedia.org/wiki/미야자키_토모요시 "wikilink") 협력해 만든 게임으로, [PC-8801](https://ko.wikipedia.org/wiki/PC-8801 "wikilink")용 컴퓨터 소프트웨어로 개발해 1987년 6월 21일 처음 발매되고 [샤프 X1](https://ko.wikipedia.org/wiki/샤프_X1 "wikilink"), [PC-9801](https://ko.wikipedia.org/wiki/PC-9801 "wikilink"), [FM-7](https://ko.wikipedia.org/wiki/FM-7 "wikilink") 및 [MSX2](https://ko.wikipedia.org/wiki/MSX2 "wikilink")같은 일본제 컴퓨터로 이식됐다.
 
-《이스 I》은 이후 니혼 팔콤의 주력 [이스](https://ko.wikipedia.org/wiki/이스_\(시리즈\) "wikilink") 시리즈의 첫번째 작품으로, 용감한 모험가 아돌 크리스틴이 에스테리아 섬에 드리운 악의 그림자를 내쫓고 먼 옛날 지상에 있다 사라진 이스 왕국의 비밀을 찾기위한 이야기를 다뤘다. 발매 직후 《이스 I》는 선풍적인 인기를 끌었고, 이후 [패밀리 컴퓨터판이](https://ko.wikipedia.org/wiki/패밀리_컴퓨터 "wikilink") 발매되고 1988년에는 바로 뒷이야기를 그린 후속작 《[이스 II](https://ko.wikipedia.org/wiki/이스_II "wikilink")》가 발매됐다. 서양 지역에선 [세가 마스터 시스템](https://ko.wikipedia.org/wiki/세가_마스터_시스템 "wikilink") 이식판과 [MS-DOS](https://ko.wikipedia.org/wiki/MS-DOS "wikilink") 및 [애플 IIGS](https://ko.wikipedia.org/wiki/애플_IIGS "wikilink") 컴퓨터판을 통해 소개됐다. [PC 엔진 CD로](https://ko.wikipedia.org/wiki/PC_엔진_CD "wikilink") 발매된 《[이스 I & II](https://ko.wikipedia.org/wiki/이스_I_&_II "wikilink")》를 필두로 [리메이크도](https://ko.wikipedia.org/wiki/비디오_게임_리메이크 "wikilink") 꾸준히 제작됐다.
+《이스 I》은 이후 니혼 팔콤의 주력 [이스](../Page/이스_\(시리즈\).md "wikilink") 시리즈의 첫번째 작품으로, 용감한 모험가 아돌 크리스틴이 에스테리아 섬에 드리운 악의 그림자를 내쫓고 먼 옛날 지상에 있다 사라진 이스 왕국의 비밀을 찾기위한 이야기를 다뤘다. 발매 직후 《이스 I》는 선풍적인 인기를 끌었고, 이후 [패밀리 컴퓨터판이](../Page/패밀리_컴퓨터.md "wikilink") 발매되고 1988년에는 바로 뒷이야기를 그린 후속작 《[이스 II](https://ko.wikipedia.org/wiki/이스_II "wikilink")》가 발매됐다. 서양 지역에선 [세가 마스터 시스템](../Page/세가_마스터_시스템.md "wikilink") 이식판과 [MS-DOS](../Page/MS-DOS.md "wikilink") 및 [애플 IIGS](../Page/애플_IIGS.md "wikilink") 컴퓨터판을 통해 소개됐다. [PC 엔진 CD로](https://ko.wikipedia.org/wiki/PC_엔진_CD "wikilink") 발매된 《[이스 I & II](../Page/이스_I_&_II.md "wikilink")》를 필두로 [리메이크도](https://ko.wikipedia.org/wiki/비디오_게임_리메이크 "wikilink") 꾸준히 제작됐다.
 
 ## 줄거리
 
@@ -19,13 +19,13 @@
 
 최초 출시판은 1987년 6월 일본제 컴퓨터 [PC-8801](https://ko.wikipedia.org/wiki/PC-8801 "wikilink"), [PC-9801](https://ko.wikipedia.org/wiki/PC-9801 "wikilink"), [샤프 X1](https://ko.wikipedia.org/wiki/샤프_X1 "wikilink") 및 [FM-7](https://ko.wikipedia.org/wiki/FM-7 "wikilink")로 발매됐다. 이후 1987년 12월에 발매된 [MSX2](https://ko.wikipedia.org/wiki/MSX2 "wikilink") 버전에는 기존의 음악를 교체한 새 음악이 추가됐다. 이후 이 버전의 음악은 《이스 이터널》과 《이스 컴플리트》에도 재사용됐다.
 
-1988년 [패밀리 컴퓨터로](https://ko.wikipedia.org/wiki/패밀리_컴퓨터 "wikilink") 발매된 버전은 [빅터 엔터테인먼트가](https://ko.wikipedia.org/wiki/JVC_켄우드_빅터_엔터테인먼트 "wikilink") 배급했다.\[1\] 이 판의 경우 완전히 새롭게 디자인된 마을과 던전을 갖추고 있으며 새로운 최종 보스전이 추가됐다. 같은 해에 원작에 가깝게 재현된 [세가 마스터 시스템판이](https://ko.wikipedia.org/wiki/세가_마스터_시스템 "wikilink") 출시됐다. 세가 마스터 시스템판의 경우 최초로 북미 및 유럽 지역에도 번역돼서 《이스: 더 배니시드 오멘스》()이라는 제목으로 출시됐다.
+1988년 [패밀리 컴퓨터로](../Page/패밀리_컴퓨터.md "wikilink") 발매된 버전은 [빅터 엔터테인먼트가](../Page/JVC_켄우드_빅터_엔터테인먼트.md "wikilink") 배급했다.\[1\] 이 판의 경우 완전히 새롭게 디자인된 마을과 던전을 갖추고 있으며 새로운 최종 보스전이 추가됐다. 같은 해에 원작에 가깝게 재현된 [세가 마스터 시스템판이](../Page/세가_마스터_시스템.md "wikilink") 출시됐다. 세가 마스터 시스템판의 경우 최초로 북미 및 유럽 지역에도 번역돼서 《이스: 더 배니시드 오멘스》()이라는 제목으로 출시됐다.
 
 1991년 [샤프 X68000로](https://ko.wikipedia.org/wiki/샤프_X68000 "wikilink") 리메이크가 발매됐다. 이 버전에선 보스 그래픽이 [3D](https://ko.wikipedia.org/wiki/3D "wikilink") [프리렌더링](https://ko.wikipedia.org/wiki/프리렌더링 "wikilink")으로 그려졌다.\[2\]
 
 ### 이스 I & II
 
-1989년 당시 CD 이미지를 활용한 기술로 돋보였던 콘솔 플랫폼 [PC 엔진 CD으로](https://ko.wikipedia.org/wiki/PC_엔진_CD "wikilink") 새로운 그래픽으로 무장하고 후속작까지 수록한 《이스 I & II》가 발매됐다. 미네아 마을에 도착하는 도입부 등 많은 추가장면이 생겼다. 또한 이 버전에선 《이스 I》를 클리어하자마자 바로 다음 편으로 이어지며, 플레이어 캐릭터의 능력치와 아이템도 그대로 승계된다. 이는 이후 [마이크로소프트 윈도우로](https://ko.wikipedia.org/wiki/마이크로소프트_윈도우 "wikilink") 제작된 리메이크 《이스 이터널》과 《이스 컴플리트》의 기반이 됐다.
+1989년 당시 CD 이미지를 활용한 기술로 돋보였던 콘솔 플랫폼 [PC 엔진 CD으로](https://ko.wikipedia.org/wiki/PC_엔진_CD "wikilink") 새로운 그래픽으로 무장하고 후속작까지 수록한 《이스 I & II》가 발매됐다. 미네아 마을에 도착하는 도입부 등 많은 추가장면이 생겼다. 또한 이 버전에선 《이스 I》를 클리어하자마자 바로 다음 편으로 이어지며, 플레이어 캐릭터의 능력치와 아이템도 그대로 승계된다. 이는 이후 [마이크로소프트 윈도우로](../Page/마이크로소프트_윈도우.md "wikilink") 제작된 리메이크 《이스 이터널》과 《이스 컴플리트》의 기반이 됐다.
 
 ## 음악
 

@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [J. A. ](https://ko.wikipedia.org/wiki/J._A._).
 
 
-**J. A. 시저**(J・A・シーザー, Julious Arnest Seazer, 1948-)는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [작곡가](https://ko.wikipedia.org/wiki/작곡가 "wikilink"), [작사가](https://ko.wikipedia.org/wiki/작사가 "wikilink"), 연출가이다. [미야자키현](https://ko.wikipedia.org/wiki/미야자키현 "wikilink")에서 태어나 [시즈오카현](https://ko.wikipedia.org/wiki/시즈오카현 "wikilink")에서 성장했다. 본명은 테라하라 타카아키(寺原孝明).
+**J. A. 시저**(J・A・シーザー, Julious Arnest Seazer, 1948-)는 [일본](../Page/일본.md "wikilink")의 [작곡가](https://ko.wikipedia.org/wiki/작곡가 "wikilink"), [작사가](https://ko.wikipedia.org/wiki/작사가 "wikilink"), 연출가이다. [미야자키현](../Page/미야자키현.md "wikilink")에서 태어나 [시즈오카현](../Page/시즈오카현.md "wikilink")에서 성장했다. 본명은 테라하라 타카아키(寺原孝明).
 
 ## 개요
 
 69년 도쿄로 올라와 도쿄 디자이너 학원을 중퇴했다. 테라야마 슈지(寺山修司)를 만나 극단 텐죠사지키「演劇実験室・天井桟敷」에 입단하여 음악과 연출을 담당했다. 83년부터 자신의 극단 만유인력 「演劇実験室◎万有引力」을 만들었다.
 
-[2005년 세계 박람회의](https://ko.wikipedia.org/wiki/2005년_세계_박람회 "wikilink") 일본관에서 상연된에서 연극 한톨의 씨앗「群読叙事詩劇・一粒の種」의 연출을 맡았다. 2012년엔 신주쿠 페이스에서 40년만의 공연을 가지기도 했다.
+[2005년 세계 박람회의](../Page/2005년_세계_박람회.md "wikilink") 일본관에서 상연된에서 연극 한톨의 씨앗「群読叙事詩劇・一粒の種」의 연출을 맡았다. 2012년엔 신주쿠 페이스에서 40년만의 공연을 가지기도 했다.
 
 연출도 했지만 음악작업이 유명하며 그의 초기 작품들 다수는 일본 싸이키델릭 록, 프로그레시브 록의 주요 작품에 속한다. 2013년부터 그의 걸작들이 완전판으로 복각되어 출시되었다.
 
@@ -24,7 +24,7 @@
   - 신도쿠마루 身毒丸 (1978)
   - さらば箱舟 (1983)
   - 少女椿 (1992) ※シングルCD、フランス・レザードノア社から発売
-  - [소녀혁명 우테나](https://ko.wikipedia.org/wiki/소녀혁명_우테나 "wikilink") 少女革命ウテナ (1997 년)
+  - [소녀혁명 우테나](../Page/소녀혁명_우테나.md "wikilink") 少女革命ウテナ (1997 년)
   - 狼少年 (2002)
   - 黙示録 (2011)
   - 奴婢訓 (2012) ※1978年の劇中音楽集

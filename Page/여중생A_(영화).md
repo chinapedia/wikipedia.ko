@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [A \(\)](https://ko.wikipedia.org/wiki/A_\(\)).
 
 
-《**여중생A**》는 [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink")에 개봉한 [대한민국의](https://ko.wikipedia.org/wiki/대한민국_영화 "wikilink") 영화이다. [동명의 웹툰이](../Page/여중생A.md "wikilink") 원작이다.
+《**여중생A**》는 [2018년](../Page/2018년.md "wikilink")에 개봉한 [대한민국의](https://ko.wikipedia.org/wiki/대한민국_영화 "wikilink") 영화이다. [동명의 웹툰이](../Page/여중생A.md "wikilink") 원작이다.
 
 ## 캐스팅
 
-  - [김환희](https://ko.wikipedia.org/wiki/김환희 "wikilink") : 미래 / 게임세계 - 다크 역
+  - [김환희](../Page/김환희.md "wikilink") : 미래 / 게임세계 - 다크 역
   - [수호](../Page/수호_\(가수\).md "wikilink") : 재희 역
   - [유재상](../Page/유재상.md "wikilink") : 태양 / 게임세계 - 길마 역
-  - [정다빈](https://ko.wikipedia.org/wiki/정다빈_\(2000년\) "wikilink") : 백합 / 게임세계 - 희나 (아바타) 역
+  - [정다빈](../Page/정다빈_\(2000년\).md "wikilink") : 백합 / 게임세계 - 희나 (아바타) 역
   - 정다은 : 노란 / 게임세계 - 딸기링 역
   - [김현빈](../Page/김현빈.md "wikilink") : 재민 역
-  - [이종혁](https://ko.wikipedia.org/wiki/이종혁_\(배우\) "wikilink") : 선생님 역
+  - [이종혁](../Page/이종혁_\(배우\).md "wikilink") : 선생님 역
   - 연준 : 재희 친구 역
   - 유수아 : 안경 여중생 역
   - 한우진 : 미래 아빠 / 게임세계 - 마커스 역
@@ -70,8 +70,8 @@
   - 박영재 : 진상조사단 역 (성우)
   - 신범식 : 게임세계 - 길마 역 (성우)
   - 박지영 : 게임세계 - 딸기링 / 양이법사 역 (성우)
-  - [전노민](https://ko.wikipedia.org/wiki/전노민 "wikilink") : 백합 아빠 역 (특별출연)
-  - [김정화](https://ko.wikipedia.org/wiki/김정화 "wikilink") : 미래 엄마 역 (특별출연)
+  - [전노민](../Page/전노민.md "wikilink") : 백합 아빠 역 (특별출연)
+  - [김정화](../Page/김정화.md "wikilink") : 미래 엄마 역 (특별출연)
   - [추수현](../Page/추수현.md "wikilink") : 체육 선생 역 (특별출연)
 
 ## 같이 보기

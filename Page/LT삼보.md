@@ -5,14 +5,14 @@
 
 ## 연혁
 
-  - [1976년](https://ko.wikipedia.org/wiki/1976년 "wikilink") [12월 30일](https://ko.wikipedia.org/wiki/12월_30일 "wikilink") '삼보지질(주)' 설립
-  - [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink") 희성그룹 편입
-  - [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") [8월](https://ko.wikipedia.org/wiki/8월 "wikilink") 싱가포르 법인 설립
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink") 두바이 지사 설립
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink") **삼보이엔씨 주식회사**로 상호변경
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [8월](https://ko.wikipedia.org/wiki/8월 "wikilink") 홍콩 지사 설립
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [6월](https://ko.wikipedia.org/wiki/6월 "wikilink") 쿠웨이트 지사 설립
-  - [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [1월](https://ko.wikipedia.org/wiki/1월 "wikilink") **LT삼보 주식회사**로 상호변경.
+  - [1976년](../Page/1976년.md "wikilink") [12월 30일](../Page/12월_30일.md "wikilink") '삼보지질(주)' 설립
+  - [1996년](../Page/1996년.md "wikilink") [4월](../Page/4월.md "wikilink") 희성그룹 편입
+  - [1996년](../Page/1996년.md "wikilink") [8월](../Page/8월.md "wikilink") 싱가포르 법인 설립
+  - [2006년](../Page/2006년.md "wikilink") [2월](../Page/2월.md "wikilink") 두바이 지사 설립
+  - [2008년](../Page/2008년.md "wikilink") [3월](../Page/3월.md "wikilink") **삼보이엔씨 주식회사**로 상호변경
+  - [2009년](../Page/2009년.md "wikilink") [8월](../Page/8월.md "wikilink") 홍콩 지사 설립
+  - [2012년](../Page/2012년.md "wikilink") [6월](../Page/6월.md "wikilink") 쿠웨이트 지사 설립
+  - [2019년](../Page/2019년.md "wikilink") [1월](../Page/1월.md "wikilink") **LT삼보 주식회사**로 상호변경.
 
 ## 사업 분야
 
@@ -27,8 +27,8 @@
 
 ## 같이 보기
 
-  - [대한전문건설협회](https://ko.wikipedia.org/wiki/대한전문건설협회 "wikilink")
-  - [건설워커](https://ko.wikipedia.org/wiki/건설워커 "wikilink")
+  - [대한전문건설협회](../Page/대한전문건설협회.md "wikilink")
+  - [건설워커](../Page/건설워커.md "wikilink")
 
 ## 각주
 

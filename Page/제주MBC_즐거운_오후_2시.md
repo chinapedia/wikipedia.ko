@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MBC   2](https://ko.wikipedia.org/wiki/MBC___2).
 
 
-**제주MBC 즐거운 오후 2시**는 [제주MBC 표준FM](https://ko.wikipedia.org/wiki/제주문화방송 "wikilink")(AM 747㎑, 표준FM 제주시 97.9㎒, 서귀포시 97.1㎒, 제주 서부 106.5㎒)에서 [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [12월 13일부터](https://ko.wikipedia.org/wiki/12월_13일 "wikilink") 현재까지 평일 오후 2시 15분부터 오후 4시까지 방송되는 제주 전 지역의 라디오 프로그램이다.
+**제주MBC 즐거운 오후 2시**는 [제주MBC 표준FM](../Page/제주문화방송.md "wikilink")(AM 747㎑, 표준FM 제주시 97.9㎒, 서귀포시 97.1㎒, 제주 서부 106.5㎒)에서 [2000년](../Page/2000년.md "wikilink") [12월 13일부터](../Page/12월_13일.md "wikilink") 현재까지 평일 오후 2시 15분부터 오후 4시까지 방송되는 제주 전 지역의 라디오 프로그램이다.
 
 ## 기획의도
 
@@ -32,24 +32,24 @@
 
 ### AM방송 (제주MBC 표준FM 포함)
 
-  - [정관용의 지금, 이 사람](https://ko.wikipedia.org/wiki/정관용의_지금,_이_사람 "wikilink") ([KBS제주 제1라디오](https://ko.wikipedia.org/wiki/KBS제주방송총국 "wikilink"))
-  - [라디오 전국일주](https://ko.wikipedia.org/wiki/라디오_전국일주 "wikilink") ([KBS제주 제1라디오](https://ko.wikipedia.org/wiki/KBS제주방송총국 "wikilink"))
-  - [오늘 같은 오후엔 이세준입니다](https://ko.wikipedia.org/wiki/오늘_같은_오후엔 "wikilink") ([KBS제주 해피FM](https://ko.wikipedia.org/wiki/KBS제주방송총국 "wikilink"))
+  - [정관용의 지금, 이 사람](../Page/정관용의_지금,_이_사람.md "wikilink") ([KBS제주 제1라디오](../Page/KBS제주방송총국.md "wikilink"))
+  - [라디오 전국일주](../Page/라디오_전국일주.md "wikilink") ([KBS제주 제1라디오](../Page/KBS제주방송총국.md "wikilink"))
+  - [오늘 같은 오후엔 이세준입니다](../Page/오늘_같은_오후엔.md "wikilink") ([KBS제주 해피FM](../Page/KBS제주방송총국.md "wikilink"))
   - [오후의 향기 김윤주입니다](../Page/오후의_향기_김윤주입니다.md "wikilink") ([제주CBS 표준FM](../Page/기독교제주방송.md "wikilink"))
 
 ### FM방송
 
-  - [두시탈출 컬투쇼](https://ko.wikipedia.org/wiki/두시탈출_컬투쇼 "wikilink") ([JIBS New Power FM](https://ko.wikipedia.org/wiki/제주국제자유도시방송 "wikilink"))
-  - [명연주 명음반](https://ko.wikipedia.org/wiki/명연주_명음반 "wikilink") ([KBS제주 음악FM](https://ko.wikipedia.org/wiki/KBS제주방송총국 "wikilink"))
-  - [두시의 데이트 뮤지, 안영미입니다](https://ko.wikipedia.org/wiki/두시의_데이트 "wikilink") ([제주MBC FM4U](https://ko.wikipedia.org/wiki/제주문화방송 "wikilink"))
+  - [두시탈출 컬투쇼](../Page/두시탈출_컬투쇼.md "wikilink") ([JIBS New Power FM](../Page/제주국제자유도시방송.md "wikilink"))
+  - [명연주 명음반](../Page/명연주_명음반.md "wikilink") ([KBS제주 음악FM](../Page/KBS제주방송총국.md "wikilink"))
+  - [두시의 데이트 뮤지, 안영미입니다](../Page/두시의_데이트.md "wikilink") ([제주MBC FM4U](../Page/제주문화방송.md "wikilink"))
   - 주병선의 추억의 음악다방 ([BBS 제주불교방송](../Page/제주불교방송.md "wikilink"))
   - 지금은 수행시대 ([BBS 제주불교방송](../Page/제주불교방송.md "wikilink"))
   - 박철의 방방곡곡 ([TBN 제주교통방송](https://ko.wikipedia.org/wiki/제주교통방송 "wikilink"))
 
 ## 같이 보기
 
-  - [제주문화방송](https://ko.wikipedia.org/wiki/제주문화방송 "wikilink")
-  - [MBC 표준FM](https://ko.wikipedia.org/wiki/MBC_표준FM "wikilink")
+  - [제주문화방송](../Page/제주문화방송.md "wikilink")
+  - [MBC 표준FM](../Page/MBC_표준FM.md "wikilink")
   - [박준형, 정경미의 2시만세](https://ko.wikipedia.org/wiki/두시만세 "wikilink")
 
 ## 외부 링크

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [AVC   ](https://ko.wikipedia.org/wiki/AVC___).
 
 
-**AVC컵 여자대회**는 [아시아 배구 연맹](https://ko.wikipedia.org/wiki/아시아_배구_연맹 "wikilink") (AVC)에 속한 [아시아](https://ko.wikipedia.org/wiki/아시아 "wikilink")와 [오세아니아](https://ko.wikipedia.org/wiki/오세아니아 "wikilink")의 여자 배구 국가대표팀이 참가하는 국제 대회이다. 2008년 첫 대회가 열렸으며 이후 격년으로 열리고 있다.
+**AVC컵 여자대회**는 [아시아 배구 연맹](../Page/아시아_배구_연맹.md "wikilink") (AVC)에 속한 [아시아](../Page/아시아.md "wikilink")와 [오세아니아](../Page/오세아니아.md "wikilink")의 여자 배구 국가대표팀이 참가하는 국제 대회이다. 2008년 첫 대회가 열렸으며 이후 격년으로 열리고 있다.
 
 2018년까지 6번의 대회가 열렸으며 [중국이](../Page/중국_여자_배구_국가대표팀.md "wikilink") 5회, [태국이](https://ko.wikipedia.org/wiki/태국_여자_배구_국가대표팀 "wikilink") 1회 우승을 차지하였다.
 
@@ -45,7 +45,7 @@
 <td><p>2008년<br />
 </p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/나콘랏차시마" title="wikilink">나콘랏차시마</a></p></td>
+<a href="../Page/나콘랏차시마.md" title="wikilink">나콘랏차시마</a></p></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>3–0</strong></p></td>
 <td></td>
@@ -69,7 +69,7 @@
 <td><p>2012년<br />
 </p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/알마티" title="wikilink">알마티</a></p></td>
+<a href="../Page/알마티.md" title="wikilink">알마티</a></p></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>3–1</strong></p></td>
 <td></td>
@@ -105,7 +105,7 @@
 <td><p>2018년<br />
 </p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/나콘랏차시마" title="wikilink">나콘랏차시마</a></p></td>
+<a href="../Page/나콘랏차시마.md" title="wikilink">나콘랏차시마</a></p></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>3–0</strong></p></td>
 <td></td>

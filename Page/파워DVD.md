@@ -38,29 +38,29 @@
 ### 네이티브 비디오 디코더
 
   - [H.264/MPEG-4 AVC](https://ko.wikipedia.org/wiki/H.264/MPEG-4_AVC "wikilink") (MVC for Blu-ray-3D 포함)
-  - [H.265/MPEG-H HEVC](https://ko.wikipedia.org/wiki/고효율_비디오_코딩 "wikilink") (미디어 파일 타입)
-  - MPEG-4 ASP ([DivX](https://ko.wikipedia.org/wiki/DivX "wikilink"), [Xvid](https://ko.wikipedia.org/wiki/Xvid "wikilink"))
-  - [MPEG-2](https://ko.wikipedia.org/wiki/MPEG-2 "wikilink")/HD
-  - [MPEG-1](https://ko.wikipedia.org/wiki/MPEG-1 "wikilink")
-  - [VC-1](https://ko.wikipedia.org/wiki/VC-1 "wikilink")
+  - [H.265/MPEG-H HEVC](../Page/고효율_비디오_코딩.md "wikilink") (미디어 파일 타입)
+  - MPEG-4 ASP ([DivX](../Page/DivX.md "wikilink"), [Xvid](https://ko.wikipedia.org/wiki/Xvid "wikilink"))
+  - [MPEG-2](../Page/MPEG-2.md "wikilink")/HD
+  - [MPEG-1](../Page/MPEG-1.md "wikilink")
+  - [VC-1](../Page/VC-1.md "wikilink")
   - [WMV HD](https://ko.wikipedia.org/wiki/WMV_HD "wikilink")
 
 ### 네이티브 오디오 디코더
 
   - Dolby [Meridian Lossless Packing](https://ko.wikipedia.org/wiki/Meridian_Lossless_Packing "wikilink") (MLP)
-  - [돌비 트루HD](https://ko.wikipedia.org/wiki/돌비_트루HD "wikilink") (7.1 채널)
+  - [돌비 트루HD](../Page/돌비_트루HD.md "wikilink") (7.1 채널)
   - [Dolby Digital Plus](https://ko.wikipedia.org/wiki/Dolby_Digital_Plus "wikilink") (7.1 채널)
-  - [돌비 디지털](https://ko.wikipedia.org/wiki/돌비_디지털 "wikilink") (7.1 채널)
-  - [돌비 디지털](https://ko.wikipedia.org/wiki/돌비_디지털 "wikilink") (2 & 5.1 채널)
+  - [돌비 디지털](../Page/돌비_디지털.md "wikilink") (7.1 채널)
+  - [돌비 디지털](../Page/돌비_디지털.md "wikilink") (2 & 5.1 채널)
   - [DSD](../Page/다이렉트_스트림_디지털.md "wikilink") (PowerDVD 16)
-  - [DTS-HD 마스터 오디오](https://ko.wikipedia.org/wiki/DTS-HD_마스터_오디오 "wikilink") (7.1 채널)
-  - [DTS (사운드 시스템)](https://ko.wikipedia.org/wiki/DTS_\(사운드_시스템\) "wikilink") (Discrete & Matrix)
-  - [DTS](https://ko.wikipedia.org/wiki/DTS_\(사운드_시스템\) "wikilink") 96/24 디코딩
+  - [DTS-HD 마스터 오디오](../Page/DTS-HD_마스터_오디오.md "wikilink") (7.1 채널)
+  - [DTS (사운드 시스템)](../Page/DTS_\(사운드_시스템\).md "wikilink") (Discrete & Matrix)
+  - [DTS](../Page/DTS_\(사운드_시스템\).md "wikilink") 96/24 디코딩
   - DTS (5.1 채널)
-  - [펄스 부호 변조](https://ko.wikipedia.org/wiki/펄스_부호_변조 "wikilink")
-  - [AAC](https://ko.wikipedia.org/wiki/고급_오디오_부호화 "wikilink")
+  - [펄스 부호 변조](../Page/펄스_부호_변조.md "wikilink")
+  - [AAC](../Page/고급_오디오_부호화.md "wikilink")
   - [MP3 서라운드](https://ko.wikipedia.org/wiki/MP3_서라운드 "wikilink")
-  - [MP2](https://ko.wikipedia.org/wiki/MPEG-1_오디오_레이어_II "wikilink")
+  - [MP2](../Page/MPEG-1_오디오_레이어_II.md "wikilink")
 
 ### 음향 효과
 

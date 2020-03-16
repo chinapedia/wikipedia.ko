@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [K    ](https://ko.wikipedia.org/wiki/K____).
 
 
-K리그 맨 오브 더 매치는 2010년부터 [한국프로축구연맹](https://ko.wikipedia.org/wiki/한국프로축구연맹 "wikilink")이 매 라운드 최우수선수에게 선정하여 시상하는 상이다.\[1\]
+K리그 맨 오브 더 매치는 2010년부터 [한국프로축구연맹](../Page/한국프로축구연맹.md "wikilink")이 매 라운드 최우수선수에게 선정하여 시상하는 상이다.\[1\]
 
 ## [K리그1](https://ko.wikipedia.org/wiki/K리그1 "wikilink") (2010–현재)
 
@@ -466,7 +466,7 @@ K리그 맨 오브 더 매치는 2010년부터 [한국프로축구연맹](https:
 <tr class="even">
 <td><p>12</p></td>
 <td><p><a href="../Page/안데르송_로페스.md" title="wikilink">안델손</a><br />
-(<a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">서울</a> vs <a href="https://ko.wikipedia.org/wiki/수원_삼성_블루윙즈" title="wikilink">수원</a>)</p></td>
+(<a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">서울</a> vs <a href="../Page/수원_삼성_블루윙즈.md" title="wikilink">수원</a>)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -710,7 +710,7 @@ K리그 맨 오브 더 매치는 2010년부터 [한국프로축구연맹](https:
 </tbody>
 </table>
 
-## [K리그2](https://ko.wikipedia.org/wiki/K리그2 "wikilink") (2013–현재)
+## [K리그2](../Page/K리그2.md "wikilink") (2013–현재)
 
 ## 각주
 

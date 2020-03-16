@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [H.E.R.](https://ko.wikipedia.org/wiki/H.E.R.).
 
 
-**헐**(H.E.R., [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [6월 27일](https://ko.wikipedia.org/wiki/6월_27일 "wikilink") \~ )은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")이다. 예명은 "**H**aving **E**verything **R**evealed"의 약어이다.
+**헐**(H.E.R., [1997년](../Page/1997년.md "wikilink") [6월 27일](../Page/6월_27일.md "wikilink") \~ )은 [미국](../Page/미국.md "wikilink")의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")이다. 예명은 "**H**aving **E**verything **R**evealed"의 약어이다.
 
 ## 음반 목록
 
@@ -19,9 +19,9 @@
 
   -
 
-  - [H.E.R.](https://www.youtube.com/channel/UCQT3bmChpmnR5ThhY_ewoOQ) - [유튜브](https://ko.wikipedia.org/wiki/유튜브 "wikilink")
+  - [H.E.R.](https://www.youtube.com/channel/UCQT3bmChpmnR5ThhY_ewoOQ) - [유튜브](../Page/유튜브.md "wikilink")
 
-  - [H.E.R.](https://www.youtube.com/channel/UCFwC3Ryue6CorFm2xCEG0Aw) - [유튜브](https://ko.wikipedia.org/wiki/유튜브 "wikilink")
+  - [H.E.R.](https://www.youtube.com/channel/UCFwC3Ryue6CorFm2xCEG0Aw) - [유튜브](../Page/유튜브.md "wikilink")
 
   -
 

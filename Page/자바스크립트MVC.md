@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MVC](https://ko.wikipedia.org/wiki/MVC).
 
 
-**자바스크립트MVC**(JavaScriptMVC)는 [제이쿼리](https://ko.wikipedia.org/wiki/제이쿼리 "wikilink")와 [OpenAjax](https://ko.wikipedia.org/wiki/OpenAjac_Alliance "wikilink") 기반의 오픈 소스 [리치 인터넷 애플리케이션](https://ko.wikipedia.org/wiki/리치_인터넷_애플리케이션 "wikilink") 프레임워크이다. [모델-뷰-컨트롤러](https://ko.wikipedia.org/wiki/모델-뷰-컨트롤러 "wikilink") 구조를 지원하는 라이브러리와 테스트, 배치를 위한 도구들이 있다. 서버 컴포넌트에 의존하지 않기 때문에 [ASP.NET](https://ko.wikipedia.org/wiki/ASP.NET "wikilink"), [자바](https://ko.wikipedia.org/wiki/자바_\(프로그래밍_언어\) "wikilink"), [펄](https://ko.wikipedia.org/wiki/펄 "wikilink"), [PHP](https://ko.wikipedia.org/wiki/PHP "wikilink"), [파이썬](https://ko.wikipedia.org/wiki/파이썬 "wikilink"), [루비와](https://ko.wikipedia.org/wiki/루비_\(프로그래밍_언어\) "wikilink") 같은 웹 서비스 인터페이스 및 서버 사이드 언어와 결합할 수 있다.
+**자바스크립트MVC**(JavaScriptMVC)는 [제이쿼리](https://ko.wikipedia.org/wiki/제이쿼리 "wikilink")와 [OpenAjax](https://ko.wikipedia.org/wiki/OpenAjac_Alliance "wikilink") 기반의 오픈 소스 [리치 인터넷 애플리케이션](../Page/리치_인터넷_애플리케이션.md "wikilink") 프레임워크이다. [모델-뷰-컨트롤러](../Page/모델-뷰-컨트롤러.md "wikilink") 구조를 지원하는 라이브러리와 테스트, 배치를 위한 도구들이 있다. 서버 컴포넌트에 의존하지 않기 때문에 [ASP.NET](../Page/ASP.NET.md "wikilink"), [자바](../Page/자바_\(프로그래밍_언어\).md "wikilink"), [펄](../Page/펄.md "wikilink"), [PHP](../Page/PHP.md "wikilink"), [파이썬](../Page/파이썬.md "wikilink"), [루비와](../Page/루비_\(프로그래밍_언어\).md "wikilink") 같은 웹 서비스 인터페이스 및 서버 사이드 언어와 결합할 수 있다.
 
 ## 역사
 
@@ -40,7 +40,7 @@
 
 ## 뷰
 
-자바스크립트MVC는 EJS 템플릿을 사용하여 컨트롤러 내에서 HTML 데이터를 렌더링하고 [DOM에](https://ko.wikipedia.org/wiki/문서_객체_모델 "wikilink") 주입시킨다. 문법은 [ERuby](https://ko.wikipedia.org/wiki/ERuby "wikilink")의 영향을 받았으며 PHP나 그 밖의 서버 사이드 템플릿 엔진과 유사하다.
+자바스크립트MVC는 EJS 템플릿을 사용하여 컨트롤러 내에서 HTML 데이터를 렌더링하고 [DOM에](../Page/문서_객체_모델.md "wikilink") 주입시킨다. 문법은 [ERuby](https://ko.wikipedia.org/wiki/ERuby "wikilink")의 영향을 받았으며 PHP나 그 밖의 서버 사이드 템플릿 엔진과 유사하다.
 
 이를테면 파일 "test.ejs" ( data = \[ "Hello", "World" \] )는:
 

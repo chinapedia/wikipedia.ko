@@ -1,12 +1,12 @@
 > This article is converted from Wikipedia: [ J. ](https://ko.wikipedia.org/wiki/_J._).
 
 
-'''스콧 J. 해프먼 '''(Scott J. Hafemann)은 현재 [세인트 앤드루스 대학교의](https://ko.wikipedia.org/wiki/세인트_앤드루스_대학교 "wikilink") 신학부인 메리 대학교의 교수이다.\[1\] [고든 콘웰 신학교에서](../Page/고든_콘웰_신학교.md "wikilink") 메리 록펠러(Mary F. Rockefeller) 신약신학 교수를 하였다. 또한 그는 [휘튼 대학교에서](https://ko.wikipedia.org/wiki/휘튼_대학교 "wikilink") 9년동안 [신약성서](https://ko.wikipedia.org/wiki/신약성서 "wikilink") [헬라어](https://ko.wikipedia.org/wiki/헬라어 "wikilink")와 주석을 가르쳤다. 테일러 대학교에서 조교수를 하였고, [세인트 존스 대학교에서](https://ko.wikipedia.org/wiki/세인트_존스_대학교 "wikilink") 신약신학을 가르쳤다.\[2\] 한국의 제자로는 [횃불트리니티신학대학원대학교](https://ko.wikipedia.org/wiki/횃불트리니티신학대학원대학교 "wikilink")의 김의창 교수가 있다.
+'''스콧 J. 해프먼 '''(Scott J. Hafemann)은 현재 [세인트 앤드루스 대학교의](https://ko.wikipedia.org/wiki/세인트_앤드루스_대학교 "wikilink") 신학부인 메리 대학교의 교수이다.\[1\] [고든 콘웰 신학교에서](../Page/고든_콘웰_신학교.md "wikilink") 메리 록펠러(Mary F. Rockefeller) 신약신학 교수를 하였다. 또한 그는 [휘튼 대학교에서](https://ko.wikipedia.org/wiki/휘튼_대학교 "wikilink") 9년동안 [신약성서](https://ko.wikipedia.org/wiki/신약성서 "wikilink") [헬라어](https://ko.wikipedia.org/wiki/헬라어 "wikilink")와 주석을 가르쳤다. 테일러 대학교에서 조교수를 하였고, [세인트 존스 대학교에서](https://ko.wikipedia.org/wiki/세인트_존스_대학교 "wikilink") 신약신학을 가르쳤다.\[2\] 한국의 제자로는 [횃불트리니티신학대학원대학교](../Page/횃불트리니티신학대학원대학교.md "wikilink")의 김의창 교수가 있다.
 
 ## 교육
 
-  - Dr. theol. 1985: NT Studies. [Eberhard-Karls-Universität Tübingen](https://ko.wikipedia.org/wiki/튀빙겐_대학교 "wikilink")
-  - 1981-1982: 연구, [Hebrew University of Jerusalem](https://ko.wikipedia.org/wiki/예루살렘_히브리_대학교 "wikilink")
+  - Dr. theol. 1985: NT Studies. [Eberhard-Karls-Universität Tübingen](../Page/튀빙겐_대학교.md "wikilink")
+  - 1981-1982: 연구, [Hebrew University of Jerusalem](../Page/예루살렘_히브리_대학교.md "wikilink")
   - M.A. 1978: 역사신학전공, Fuller Theological Seminary
   - B.A. 1976:  Bethel College
 

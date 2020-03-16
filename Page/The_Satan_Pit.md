@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [The Satan Pit](https://ko.wikipedia.org/wiki/The_Satan_Pit).
 
 
-"**The Satan Pit**" (KBS 방영 제목: <악마라는 이름으로>)는 영국의 [SF 드라마](https://ko.wikipedia.org/wiki/SF_드라마 "wikilink") 《[닥터 후](https://ko.wikipedia.org/wiki/닥터_후 "wikilink")》 [시리즈 2의](../Page/닥터_후_\(시리즈_2\).md "wikilink") 아홉 번째 에피소드이다. 2006년 6월 10일 영국에서 처음 방송되었으며, "[The Impossible Planet](../Page/The_Impossible_Planet.md "wikilink")"과 함께 2부작으로 된 에피소드 중 후편에 해당된다.
+"**The Satan Pit**" (KBS 방영 제목: <악마라는 이름으로>)는 영국의 [SF 드라마](https://ko.wikipedia.org/wiki/SF_드라마 "wikilink") 《[닥터 후](../Page/닥터_후.md "wikilink")》 [시리즈 2의](../Page/닥터_후_\(시리즈_2\).md "wikilink") 아홉 번째 에피소드이다. 2006년 6월 10일 영국에서 처음 방송되었으며, "[The Impossible Planet](../Page/The_Impossible_Planet.md "wikilink")"과 함께 2부작으로 된 에피소드 중 후편에 해당된다.
 
-타디스가 온데간데없이 사라진 상황에서 로즈와 나머지 인간 대원들은 기지 내에 갇혀 방의당한 [오드](https://ko.wikipedia.org/wiki/오드 "wikilink")들에게 포위되고, 기지가 있는 행성은 [블랙홀](https://ko.wikipedia.org/wiki/블랙홀 "wikilink")을 향해 힘없이 빨려들어가기 시작한다. 한편 이 불가능한 행성의 심장부에 갇힌 닥터는 더 깊은 곳으로 내려갔다가 드디어 '야수'를 마주하고, 그것이 [악마](https://ko.wikipedia.org/wiki/악마 "wikilink")의 모태가 되었음을 깨닫게 된다. 그리고 그 자리에서 중대한 선택을 해야 할 위기에 놓인다.
+타디스가 온데간데없이 사라진 상황에서 로즈와 나머지 인간 대원들은 기지 내에 갇혀 방의당한 [오드](https://ko.wikipedia.org/wiki/오드 "wikilink")들에게 포위되고, 기지가 있는 행성은 [블랙홀](https://ko.wikipedia.org/wiki/블랙홀 "wikilink")을 향해 힘없이 빨려들어가기 시작한다. 한편 이 불가능한 행성의 심장부에 갇힌 닥터는 더 깊은 곳으로 내려갔다가 드디어 '야수'를 마주하고, 그것이 [악마](../Page/악마.md "wikilink")의 모태가 되었음을 깨닫게 된다. 그리고 그 자리에서 중대한 선택을 해야 할 위기에 놓인다.
 
 ## 줄거리
 

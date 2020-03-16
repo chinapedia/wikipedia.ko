@@ -5,25 +5,25 @@
 
 ## 연혁
 
-  - [1974년](https://ko.wikipedia.org/wiki/1974년 "wikilink") [5월 1일](https://ko.wikipedia.org/wiki/5월_1일 "wikilink") '희성금속공업주식회사' 설립
-  - [1974년](https://ko.wikipedia.org/wiki/1974년 "wikilink") [8월](https://ko.wikipedia.org/wiki/8월 "wikilink") 일본 다나카 귀금속 공업(주) 합작 투자 인가
-  - [1975년](https://ko.wikipedia.org/wiki/1975년 "wikilink") [6월](https://ko.wikipedia.org/wiki/6월 "wikilink") 인천 주안공장 준공
-  - [1975년](https://ko.wikipedia.org/wiki/1975년 "wikilink") [10월](https://ko.wikipedia.org/wiki/10월 "wikilink") 일본 다나카 귀금속 공업(주)로 부터 기술 도입 인가
-  - [1976년](https://ko.wikipedia.org/wiki/1976년 "wikilink") [7월](https://ko.wikipedia.org/wiki/7월 "wikilink") 일본 EEJA(주)와 기술 제휴 (귀금속 도금 재료)
-  - [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") [7월](https://ko.wikipedia.org/wiki/7월 "wikilink") 인천 주안공장 증축
-  - [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") [11월](https://ko.wikipedia.org/wiki/11월 "wikilink") 일본 알미트(주)와 기술 제휴
-  - [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink") [7월](https://ko.wikipedia.org/wiki/7월 "wikilink") LG그룹 계열 분리
-  - [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink") 희성금속 연구소 설립
-  - [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") [8월](https://ko.wikipedia.org/wiki/8월 "wikilink") **희성금속 주식회사**로 상호 변경
-  - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [9월](https://ko.wikipedia.org/wiki/9월 "wikilink") 인천 가좌공장 준공
-  - [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink") 홍콩법인 설립
-  - [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink") 중국 심천공장 설립
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [1월](https://ko.wikipedia.org/wiki/1월 "wikilink") 중국법인 설립
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink") 중국 천진공장 설립
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [6월](https://ko.wikipedia.org/wiki/6월 "wikilink") 가좌공장 신축
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [11월](https://ko.wikipedia.org/wiki/11월 "wikilink") 도화공장 신축
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink") 주안 및 남동공장 증축
-  - [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [1월](https://ko.wikipedia.org/wiki/1월 "wikilink") **LT메탈 주식회사**로 상호 변경.
+  - [1974년](../Page/1974년.md "wikilink") [5월 1일](../Page/5월_1일.md "wikilink") '희성금속공업주식회사' 설립
+  - [1974년](../Page/1974년.md "wikilink") [8월](../Page/8월.md "wikilink") 일본 다나카 귀금속 공업(주) 합작 투자 인가
+  - [1975년](../Page/1975년.md "wikilink") [6월](../Page/6월.md "wikilink") 인천 주안공장 준공
+  - [1975년](../Page/1975년.md "wikilink") [10월](../Page/10월.md "wikilink") 일본 다나카 귀금속 공업(주)로 부터 기술 도입 인가
+  - [1976년](../Page/1976년.md "wikilink") [7월](../Page/7월.md "wikilink") 일본 EEJA(주)와 기술 제휴 (귀금속 도금 재료)
+  - [1984년](../Page/1984년.md "wikilink") [7월](../Page/7월.md "wikilink") 인천 주안공장 증축
+  - [1986년](../Page/1986년.md "wikilink") [11월](../Page/11월.md "wikilink") 일본 알미트(주)와 기술 제휴
+  - [1992년](../Page/1992년.md "wikilink") [7월](../Page/7월.md "wikilink") LG그룹 계열 분리
+  - [1993년](../Page/1993년.md "wikilink") [2월](../Page/2월.md "wikilink") 희성금속 연구소 설립
+  - [1996년](../Page/1996년.md "wikilink") [8월](../Page/8월.md "wikilink") **희성금속 주식회사**로 상호 변경
+  - [2000년](../Page/2000년.md "wikilink") [9월](../Page/9월.md "wikilink") 인천 가좌공장 준공
+  - [2002년](../Page/2002년.md "wikilink") [2월](../Page/2월.md "wikilink") 홍콩법인 설립
+  - [2002년](../Page/2002년.md "wikilink") [4월](../Page/4월.md "wikilink") 중국 심천공장 설립
+  - [2004년](../Page/2004년.md "wikilink") [1월](../Page/1월.md "wikilink") 중국법인 설립
+  - [2004년](../Page/2004년.md "wikilink") [4월](../Page/4월.md "wikilink") 중국 천진공장 설립
+  - [2006년](../Page/2006년.md "wikilink") [6월](../Page/6월.md "wikilink") 가좌공장 신축
+  - [2009년](../Page/2009년.md "wikilink") [11월](../Page/11월.md "wikilink") 도화공장 신축
+  - [2010년](../Page/2010년.md "wikilink") [2월](../Page/2월.md "wikilink") 주안 및 남동공장 증축
+  - [2019년](../Page/2019년.md "wikilink") [1월](../Page/1월.md "wikilink") **LT메탈 주식회사**로 상호 변경.
 
 ## 제품
 

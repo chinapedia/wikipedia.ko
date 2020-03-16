@@ -25,7 +25,7 @@
 <td><p>2018년 6월 1일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/서울" title="wikilink">서울</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/고척스카이돔" title="wikilink">고척스카이돔</a></p></td>
+<td><p><a href="../Page/고척스카이돔.md" title="wikilink">고척스카이돔</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2018년 6월 2일</p></td>
@@ -41,31 +41,31 @@
 </tr>
 <tr class="odd">
 <td><p>2018년 6월 21일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/산호세_(캘리포니아주)" title="wikilink">산호세</a></p></td>
+<td><p><a href="../Page/산호세_(캘리포니아주).md" title="wikilink">산호세</a></p></td>
 <td></td>
 <td><p>EVENT CENTER</p></td>
 </tr>
 <tr class="even">
 <td><p>2018년 6월 26일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/댈러스" title="wikilink">댈러스</a></p></td>
+<td><p><a href="../Page/댈러스.md" title="wikilink">댈러스</a></p></td>
 <td><p>FT.WORTH CC ARENA</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2018년 6월 29일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/시카고" title="wikilink">시카고</a></p></td>
+<td><p><a href="../Page/시카고.md" title="wikilink">시카고</a></p></td>
 <td><p>ALLSTATE ARENA</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2018년 7월 2일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/애틀랜타" title="wikilink">애틀랜타</a></p></td>
+<td><p><a href="../Page/애틀랜타.md" title="wikilink">애틀랜타</a></p></td>
 <td><p>INFINITE ENERGY ARENA</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2018년 7월 10일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/도쿄" title="wikilink">도쿄</a></p></td>
+<td><p><a href="../Page/도쿄.md" title="wikilink">도쿄</a></p></td>
 <td></td>
 <td><p>MAKUHARI MESSE INTERNATIONAL EXHIBITION HALL</p></td>
 </tr>
@@ -77,25 +77,25 @@
 </tr>
 <tr class="odd">
 <td><p>2018년 7월 13일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/싱가포르" title="wikilink">싱가포르</a></p></td>
+<td><p><a href="../Page/싱가포르.md" title="wikilink">싱가포르</a></p></td>
 <td></td>
 <td><p>SINGAPORE INDOOR STADIUM</p></td>
 </tr>
 <tr class="even">
 <td><p>2018년 7월 15일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/자카르타" title="wikilink">자카르타</a></p></td>
+<td><p><a href="../Page/자카르타.md" title="wikilink">자카르타</a></p></td>
 <td></td>
 <td><p>ICE BSD CITY</p></td>
 </tr>
 <tr class="odd">
 <td><p>2018년 7월 21일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/쿠알라룸푸르" title="wikilink">쿠알라룸푸르</a></p></td>
+<td><p><a href="../Page/쿠알라룸푸르.md" title="wikilink">쿠알라룸푸르</a></p></td>
 <td></td>
 <td><p>AXIATA ARENA</p></td>
 </tr>
 <tr class="even">
 <td><p>2018년 7월 28일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/홍콩" title="wikilink">홍콩</a></p></td>
+<td><p><a href="../Page/홍콩.md" title="wikilink">홍콩</a></p></td>
 <td></td>
 <td><p>AWE ARENA</p></td>
 </tr>
@@ -107,7 +107,7 @@
 </tr>
 <tr class="even">
 <td><p>2018년 8월 4일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/방콕" title="wikilink">방콕</a></p></td>
+<td><p><a href="../Page/방콕.md" title="wikilink">방콕</a></p></td>
 <td></td>
 <td><p>IMPACT ARENA</p></td>
 </tr>
@@ -119,7 +119,7 @@
 </tr>
 <tr class="even">
 <td><p>2018년 8월 17일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/멜버른" title="wikilink">멜버른</a></p></td>
+<td><p><a href="../Page/멜버른.md" title="wikilink">멜버른</a></p></td>
 <td></td>
 <td><p>HISENSE ARENA</p></td>
 </tr>
@@ -137,7 +137,7 @@
 </tr>
 <tr class="odd">
 <td><p>2018년 9월 1일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/마닐라" title="wikilink">마닐라</a></p></td>
+<td><p><a href="../Page/마닐라.md" title="wikilink">마닐라</a></p></td>
 <td></td>
 <td><p>MALL OF ASIA</p></td>
 </tr>

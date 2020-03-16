@@ -12,7 +12,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/싱글_(음악)" title="wikilink">Single</a> by <a href="../Page/다이어_스트레이츠.md" title="wikilink">Dire Straits</a></p></td>
+<td><p><a href="../Page/싱글_(음악).md" title="wikilink">Single</a> by <a href="../Page/다이어_스트레이츠.md" title="wikilink">Dire Straits</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>from the album <em>Dire Straits</em></p></td>
@@ -39,13 +39,13 @@
 <td><p>Length</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/레코드_레이블" title="wikilink">Label</a></p></td>
+<td><p><a href="../Page/레코드_레이블.md" title="wikilink">Label</a></p></td>
 </tr>
 <tr class="even">
 <td><p><span class="nowrap"><a href="https://ko.wikipedia.org/wiki/송라이터" title="wikilink">Songwriter(s)</a></span></p></td>
 </tr>
 <tr class="odd">
-<td><p><span class="nowrap"><a href="https://ko.wikipedia.org/wiki/음악_프로듀서" title="wikilink">Producer(s)</a></span></p></td>
+<td><p><span class="nowrap"><a href="../Page/음악_프로듀서.md" title="wikilink">Producer(s)</a></span></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/다이어_스트레이츠.md" title="wikilink">Dire Straits</a> singles chronology</p></td>
@@ -119,7 +119,7 @@
 <td><div class="hlist hlist-separated" id="186" style="font-size: smaller">
 <ul>
 <li>file</li>
-<li><a href="https://ko.wikipedia.org/wiki/위키백과:미디어_도움말" title="wikilink">help</a></li>
+<li><a href="../Page/위키백과:미디어_도움말.md" title="wikilink">help</a></li>
 </ul>
 </div></td>
 </tr>
@@ -129,7 +129,7 @@
 </tbody>
 </table>
 
-**Sultans of Swing(스윙의 술탄)**은 영국의 록밴드 [다이어 스트레이츠의](../Page/다이어_스트레이츠.md "wikilink") 노래이다. [마크 노플러가](https://ko.wikipedia.org/wiki/마크_노플러 "wikilink") 작곡하였다. 1978년 처음으로 발간하였고, 1979년 영국과 미국에서 히트를 하였다. 그들의 첫번째 히트 곡이었다.\[1\] [술탄](https://ko.wikipedia.org/wiki/술탄 "wikilink")이라는 말은 [이슬람](https://ko.wikipedia.org/wiki/이슬람 "wikilink")에서 최고의 권위자를 말하는데 음악적으로 표현한 것이다.
+**Sultans of Swing(스윙의 술탄)**은 영국의 록밴드 [다이어 스트레이츠의](../Page/다이어_스트레이츠.md "wikilink") 노래이다. [마크 노플러가](../Page/마크_노플러.md "wikilink") 작곡하였다. 1978년 처음으로 발간하였고, 1979년 영국과 미국에서 히트를 하였다. 그들의 첫번째 히트 곡이었다.\[1\] [술탄](../Page/술탄.md "wikilink")이라는 말은 [이슬람](https://ko.wikipedia.org/wiki/이슬람 "wikilink")에서 최고의 권위자를 말하는데 음악적으로 표현한 것이다.
 
 ## 각주
 

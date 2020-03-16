@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ vs ](https://ko.wikipedia.org/wiki/_vs_).
 
 
-《**보리 vs 매켄로**》()는 2018년 개봉한 [스웨덴](https://ko.wikipedia.org/wiki/스웨덴 "wikilink"), [덴마크](https://ko.wikipedia.org/wiki/덴마크 "wikilink"), [핀란드](https://ko.wikipedia.org/wiki/핀란드 "wikilink")의 스포츠 드라마 영화이다. [야누스 메츠가](https://ko.wikipedia.org/wiki/야누스_메츠 "wikilink") 감독을 로니 샌달이 각본을 맡았다. 2018년 5월 10일 대한민국에서 개봉되었다.
+《**보리 vs 매켄로**》()는 2018년 개봉한 [스웨덴](../Page/스웨덴.md "wikilink"), [덴마크](../Page/덴마크.md "wikilink"), [핀란드](../Page/핀란드.md "wikilink")의 스포츠 드라마 영화이다. [야누스 메츠가](https://ko.wikipedia.org/wiki/야누스_메츠 "wikilink") 감독을 로니 샌달이 각본을 맡았다. 2018년 5월 10일 대한민국에서 개봉되었다.
 
 ## 출연진
 
@@ -24,6 +24,6 @@
   -
   -
   -
-  - [보리 vs 매켄로](https://movie.naver.com/movie/bi/mi/basic.nhn?code=167048) - [네이버](https://ko.wikipedia.org/wiki/네이버 "wikilink") 영화
+  - [보리 vs 매켄로](https://movie.naver.com/movie/bi/mi/basic.nhn?code=167048) - [네이버](../Page/네이버.md "wikilink") 영화
 
 [분류:2018년 영화](https://ko.wikipedia.org/wiki/분류:2018년_영화 "wikilink") [분류:영어 영화 작품](https://ko.wikipedia.org/wiki/분류:영어_영화_작품 "wikilink") [분류:스웨덴의 전기 영화](https://ko.wikipedia.org/wiki/분류:스웨덴의_전기_영화 "wikilink") [분류:덴마크의 전기 영화](https://ko.wikipedia.org/wiki/분류:덴마크의_전기_영화 "wikilink") [분류:스웨덴의 드라마 영화](https://ko.wikipedia.org/wiki/분류:스웨덴의_드라마_영화 "wikilink") [분류:덴마크의 드라마 영화](https://ko.wikipedia.org/wiki/분류:덴마크의_드라마_영화 "wikilink") [분류:핀란드의 드라마 영화](https://ko.wikipedia.org/wiki/분류:핀란드의_드라마_영화 "wikilink") [분류:전기 영화](https://ko.wikipedia.org/wiki/분류:전기_영화 "wikilink") [분류:스포츠 영화](https://ko.wikipedia.org/wiki/분류:스포츠_영화 "wikilink") [분류:드라마 영화](https://ko.wikipedia.org/wiki/분류:드라마_영화 "wikilink") [분류:NEON 영화](https://ko.wikipedia.org/wiki/분류:NEON_영화 "wikilink")

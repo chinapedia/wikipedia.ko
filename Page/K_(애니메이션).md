@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [K \(\)](https://ko.wikipedia.org/wiki/K_\(\)).
 
 
-**K**(케이)는 [GoHands](https://ko.wikipedia.org/wiki/GoHands "wikilink")가 제작한 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 애니메이션 작품이다. [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [10월](https://ko.wikipedia.org/wiki/10월 "wikilink")부터 [12월](https://ko.wikipedia.org/wiki/12월 "wikilink")까지 [MBS에서](https://ko.wikipedia.org/wiki/마이니치_방송 "wikilink") 방영되었다. [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [7월 12일에](https://ko.wikipedia.org/wiki/7월_12일 "wikilink") 극장판인 **K MISSING KINGS**(케이 미싱 킹즈)가 공개. [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") 10월부터 12월까지 제2기인 **K RETURN OF KINGS**(케이 리턴 오브 킹즈)가 방영되었다. 그리고 [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [7월 7일부터](https://ko.wikipedia.org/wiki/7월_7일 "wikilink") 영화인 **K SEVEN STORIES**(케이 세븐 스토리즈)가 순차별로 공개(총 6장).
+**K**(케이)는 [GoHands](https://ko.wikipedia.org/wiki/GoHands "wikilink")가 제작한 [일본](../Page/일본.md "wikilink")의 애니메이션 작품이다. [2012년](../Page/2012년.md "wikilink") [10월](../Page/10월.md "wikilink")부터 [12월](../Page/12월.md "wikilink")까지 [MBS에서](../Page/마이니치_방송.md "wikilink") 방영되었다. [2014년](../Page/2014년.md "wikilink") [7월 12일에](../Page/7월_12일.md "wikilink") 극장판인 **K MISSING KINGS**(케이 미싱 킹즈)가 공개. [2015년](../Page/2015년.md "wikilink") 10월부터 12월까지 제2기인 **K RETURN OF KINGS**(케이 리턴 오브 킹즈)가 방영되었다. 그리고 [2018년](../Page/2018년.md "wikilink") [7월 7일부터](../Page/7월_7일.md "wikilink") 영화인 **K SEVEN STORIES**(케이 세븐 스토리즈)가 순차별로 공개(총 6장).
 
 ## 외부 링크
 

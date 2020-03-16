@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [ B. ](https://ko.wikipedia.org/wiki/_B._).
 
 
-**존 브레이틀링 콜터**(John Breitling Coulter, [1891년](https://ko.wikipedia.org/wiki/1891년 "wikilink") [4월 27일](https://ko.wikipedia.org/wiki/4월_27일 "wikilink") \~ [1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink") [3월 6일](https://ko.wikipedia.org/wiki/3월_6일 "wikilink"))는 미국의 군인이다. [제1차 세계 대전](https://ko.wikipedia.org/wiki/제1차_세계_대전 "wikilink"), [제2차 세계 대전및](https://ko.wikipedia.org/wiki/제2차_세계_대전 "wikilink") [한국전쟁](https://ko.wikipedia.org/wiki/한국전쟁 "wikilink")에 참전했다. 육군 중장으로 퇴역했다.
+**존 브레이틀링 콜터**(John Breitling Coulter, [1891년](../Page/1891년.md "wikilink") [4월 27일](../Page/4월_27일.md "wikilink") \~ [1983년](../Page/1983년.md "wikilink") [3월 6일](../Page/3월_6일.md "wikilink"))는 미국의 군인이다. [제1차 세계 대전](../Page/제1차_세계_대전.md "wikilink"), [제2차 세계 대전및](../Page/제2차_세계_대전.md "wikilink") [한국전쟁](https://ko.wikipedia.org/wiki/한국전쟁 "wikilink")에 참전했다. 육군 중장으로 퇴역했다.
 
 ## 생애
 
 ### 초기 생애 및 군경력
 
-존 B. 콜터는 1891년 4월 27일 [텍사스주](https://ko.wikipedia.org/wiki/텍사스주 "wikilink") [샌 안토니오에서](https://ko.wikipedia.org/wiki/샌_안토니오 "wikilink") 출생했다. 그는 1911년에 서부 텍사스 군사 학교를 졸업하고 1912년에 기병 부대 소위로 임명을 받았다. 1916년 텍사스의 제14기병연대에서 처음 군무에 종사, [판초 비야](https://ko.wikipedia.org/wiki/판초_비야 "wikilink") 원정(Pancho Villa Expedition)에 참가했다. 제1차 세계 대전 동안 그는 제42보병사단(42nd Infantry Division) 사령관 윌리엄 아브람 만(William Abram Mann) 장군의 부관 으로 프랑스에서 근무했다. 미국에 귀국 후 메릴랜드 주 캠프 미드(Camp George Meade)에서 5개월간 제154여단 부관을 지냈다. 그 후 그는 제2대대 제508전투공병대의 아프리카계 미국인 부대에 지휘관으로 다시 프랑스로 돌아왔다.
+존 B. 콜터는 1891년 4월 27일 [텍사스주](../Page/텍사스주.md "wikilink") [샌 안토니오에서](https://ko.wikipedia.org/wiki/샌_안토니오 "wikilink") 출생했다. 그는 1911년에 서부 텍사스 군사 학교를 졸업하고 1912년에 기병 부대 소위로 임명을 받았다. 1916년 텍사스의 제14기병연대에서 처음 군무에 종사, [판초 비야](../Page/판초_비야.md "wikilink") 원정(Pancho Villa Expedition)에 참가했다. 제1차 세계 대전 동안 그는 제42보병사단(42nd Infantry Division) 사령관 윌리엄 아브람 만(William Abram Mann) 장군의 부관 으로 프랑스에서 근무했다. 미국에 귀국 후 메릴랜드 주 캠프 미드(Camp George Meade)에서 5개월간 제154여단 부관을 지냈다. 그 후 그는 제2대대 제508전투공병대의 아프리카계 미국인 부대에 지휘관으로 다시 프랑스로 돌아왔다.
 
 ### 전간기
 
@@ -19,7 +19,7 @@
 
 ### 제2차 세계대전
 
-1941년 콜터는 준장으로 승진을 받아 애리조나 피닉스에서 제3기병여단의 여단장으로 배치되었다. [진주만 공격](https://ko.wikipedia.org/wiki/진주만_공격 "wikilink") 후 자신의 부하 군인들은 멕시코 국경에 충당, 서부 방위군(Western Defense Command) 남부 국토 국경 지역의 사령관으로 추가 배정을 받았다. 1942년 초 제2기병사단(2nd Cavalry Division)의 사단장에 올랐다.
+1941년 콜터는 준장으로 승진을 받아 애리조나 피닉스에서 제3기병여단의 여단장으로 배치되었다. [진주만 공격](../Page/진주만_공격.md "wikilink") 후 자신의 부하 군인들은 멕시코 국경에 충당, 서부 방위군(Western Defense Command) 남부 국토 국경 지역의 사령관으로 추가 배정을 받았다. 1942년 초 제2기병사단(2nd Cavalry Division)의 사단장에 올랐다.
 
 1943년에 소장으로 승진, 제85보병사단(85th Infantry Division)의 지휘를 맡았다. 미국 본토에서 훈련 후, 그는 사단을 이끌고 북아프리카와 이탈리아에 원정했다. 제 85사단은 구스타프 라인(Gustav Line)에서 고딕 라인(Gothic Line) 사이를 행진과 로마 = 아르노 전투(Rome-Arno Campaign), 북부 아펜 니노 산맥의 전투(North Apennines Campaign), 포 평원의 전투(Po Valley Campaign)에 참가했다. 콜터는 군사 등산이나 산악 전투에서 높은 평가를 받았다.
 
@@ -27,7 +27,7 @@
 
 ### 한국 전쟁
 
-1948 년 그는 미국 [제7보병사단의](https://ko.wikipedia.org/wiki/제7보병사단_\(미국\) "wikilink") 사단장에 취임, 한반도에 원정했다. 1949 년 그는 주한 미군 부대의 부사령관에 임명되었다. 그는 [제1군단을](../Page/제1군단_\(미국\).md "wikilink") 지휘하고 1950년에 미국으로 떠났다. 그 후 일리노이 주 시카고에 본부를 둔 [제5군에](https://ko.wikipedia.org/wiki/제5군_\(미국\) "wikilink") 부사령관으로 부임했다.
+1948 년 그는 미국 [제7보병사단의](../Page/제7보병사단_\(미국\).md "wikilink") 사단장에 취임, 한반도에 원정했다. 1949 년 그는 주한 미군 부대의 부사령관에 임명되었다. 그는 [제1군단을](../Page/제1군단_\(미국\).md "wikilink") 지휘하고 1950년에 미국으로 떠났다. 그 후 일리노이 주 시카고에 본부를 둔 [제5군에](https://ko.wikipedia.org/wiki/제5군_\(미국\) "wikilink") 부사령관으로 부임했다.
 
 1950 년 6월, 한국 전쟁 이 발발하자 콜터는 제1군단 의 지휘를 맡아 8군의 일부로 활동을 재개했다. 그는 한국의 임시 부대 1개와 미국 부대 군에 의해 구성된 태스크 포스 잭슨(Task Force Jackson)에서 사령관을 맡아 북한의 전진을 정지시키는 데 큰 역할을 했다. 1950 년 9월에는 [제9군단의](../Page/제9군단_\(미국\).md "wikilink") 지휘를 맡아 북한에 대해 반격을 할 제1군단의 활동 지원을 위한 부대를 통솔했다.
 
@@ -35,9 +35,9 @@
 
 ### 생애 후반
 
-은퇴 후 워싱턴 DC 에서 [유엔 한국 재건단의](https://ko.wikipedia.org/wiki/유엔_한국_재건단 "wikilink") 대표 대사가되어, 한국 전쟁 후 한국의 재건을 목적으로 한 국제적인 대처를 지시했다. 1953 년 그는 유엔 사무 차장보의 직책에서 [유엔 한국 재건단의](https://ko.wikipedia.org/wiki/유엔_한국_재건단 "wikilink") 사무 총장에 취임했다. 그는 이 임무를 1958년까지 재직했다. 재임 중 그는 한국의 산업, 학교, 병원, 도로, 주택 등의 재건을 위해 2억 달러 이상의 지출에 대한 감독을 했다. 1956년에는 [수에즈 위기당시](https://ko.wikipedia.org/wiki/제2차_중동_전쟁 "wikilink") 유엔 사무 총장 [다그 함마르셸드에게](https://ko.wikipedia.org/wiki/다그_함마르셸드 "wikilink") 평화 유지군 활동에 대한 조언을 했다.
+은퇴 후 워싱턴 DC 에서 [유엔 한국 재건단의](https://ko.wikipedia.org/wiki/유엔_한국_재건단 "wikilink") 대표 대사가되어, 한국 전쟁 후 한국의 재건을 목적으로 한 국제적인 대처를 지시했다. 1953 년 그는 유엔 사무 차장보의 직책에서 [유엔 한국 재건단의](https://ko.wikipedia.org/wiki/유엔_한국_재건단 "wikilink") 사무 총장에 취임했다. 그는 이 임무를 1958년까지 재직했다. 재임 중 그는 한국의 산업, 학교, 병원, 도로, 주택 등의 재건을 위해 2억 달러 이상의 지출에 대한 감독을 했다. 1956년에는 [수에즈 위기당시](../Page/제2차_중동_전쟁.md "wikilink") 유엔 사무 총장 [다그 함마르셸드에게](../Page/다그_함마르셸드.md "wikilink") 평화 유지군 활동에 대한 조언을 했다.
 
-1959년 한국 대통령 이승만은 한국의 재건에 노력했다 콜터를 평가하고 콜터의 동상을 세웠다. 동상은 서울의 이태원에 지어졌다. 그 후 1977년, 동상은 서울 광진구 능동으로 이전되었다. 1983년 3월 6일 [워싱턴 D.C.에서](https://ko.wikipedia.org/wiki/워싱턴_D.C. "wikilink") 사망했으며 [알링턴 국립묘지에](https://ko.wikipedia.org/wiki/알링턴_국립묘지 "wikilink") 안장되었다.
+1959년 한국 대통령 이승만은 한국의 재건에 노력했다 콜터를 평가하고 콜터의 동상을 세웠다. 동상은 서울의 이태원에 지어졌다. 그 후 1977년, 동상은 서울 광진구 능동으로 이전되었다. 1983년 3월 6일 [워싱턴 D.C.에서](../Page/워싱턴_D.C..md "wikilink") 사망했으며 [알링턴 국립묘지에](https://ko.wikipedia.org/wiki/알링턴_국립묘지 "wikilink") 안장되었다.
 
 ## 표창과 훈장
 

@@ -7,24 +7,24 @@
 <th><p>모델</p></th>
 <th><p>소켓<br />
 구성</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/멀티_코어" title="wikilink">코어</a><br />
-<a href="https://ko.wikipedia.org/wiki/스레드_(컴퓨팅)" title="wikilink">(스레드)</a></p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/클럭_속도" title="wikilink">클럭 속도</a> (<a href="https://ko.wikipedia.org/wiki/헤르츠" title="wikilink">GHz</a>)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/CPU_캐시" title="wikilink">캐시</a></p></th>
+<th><p><a href="../Page/멀티_코어.md" title="wikilink">코어</a><br />
+<a href="../Page/스레드_(컴퓨팅).md" title="wikilink">(스레드)</a></p></th>
+<th><p><a href="https://ko.wikipedia.org/wiki/클럭_속도" title="wikilink">클럭 속도</a> (<a href="../Page/헤르츠.md" title="wikilink">GHz</a>)</p></th>
+<th><p><a href="../Page/CPU_캐시.md" title="wikilink">캐시</a></p></th>
 <th><p>메모리 지원</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/열_설계_전력" title="wikilink">TDP</a><br />
-(<a href="https://ko.wikipedia.org/wiki/와트" title="wikilink">W</a>)</p></th>
+<th><p><a href="../Page/열_설계_전력.md" title="wikilink">TDP</a><br />
+(<a href="../Page/와트.md" title="wikilink">W</a>)</p></th>
 <th><p>출시일</p></th>
-<th><p>출시 가격 (<a href="https://ko.wikipedia.org/wiki/미국_달러" title="wikilink">USD</a>)</p></th>
+<th><p>출시 가격 (<a href="../Page/미국_달러.md" title="wikilink">USD</a>)</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>기본</p></td>
 <td><p>부스트</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/CPU_캐시" title="wikilink">L2</a><br />
+<td><p><a href="../Page/CPU_캐시.md" title="wikilink">L2</a><br />
 (kB)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/CPU_캐시" title="wikilink">L3</a><br />
+<td><p><a href="../Page/CPU_캐시.md" title="wikilink">L3</a><br />
 (MB)</p></td>
 <td></td>
 <td></td>

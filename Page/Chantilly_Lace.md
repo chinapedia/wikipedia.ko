@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Chantilly Lace](https://ko.wikipedia.org/wiki/Chantilly_Lace).
 
 
-〈**Chantilly Lace**〉는 [제리 포스터](https://ko.wikipedia.org/wiki/제리_포스터 "wikilink"), [빌 라이스](https://ko.wikipedia.org/wiki/빌_라이스 "wikilink"), [제리스 페리 "빅 바퍼" 리처드슨이](https://ko.wikipedia.org/wiki/빅_바퍼 "wikilink") 작곡한 [로큰롤](https://ko.wikipedia.org/wiki/로큰롤 "wikilink") 가요로서, 1958년 8월 발매된 빅 바퍼의 마지막 싱글이다. [제리 케네디의](https://ko.wikipedia.org/wiki/제리_케네디 "wikilink") 프로듀싱작. 젊은 남성이 여자친구와 전화로 시시덕거리는 정사를 노래하고 있다.
+〈**Chantilly Lace**〉는 [제리 포스터](https://ko.wikipedia.org/wiki/제리_포스터 "wikilink"), [빌 라이스](https://ko.wikipedia.org/wiki/빌_라이스 "wikilink"), [제리스 페리 "빅 바퍼" 리처드슨이](../Page/빅_바퍼.md "wikilink") 작곡한 [로큰롤](../Page/로큰롤.md "wikilink") 가요로서, 1958년 8월 발매된 빅 바퍼의 마지막 싱글이다. [제리 케네디의](https://ko.wikipedia.org/wiki/제리_케네디 "wikilink") 프로듀싱작. 젊은 남성이 여자친구와 전화로 시시덕거리는 정사를 노래하고 있다.
 
-[머큐리 레코드가](../Page/머큐리_레코드.md "wikilink") 매입한 [파파 데일리의](https://ko.wikipedia.org/wiki/파파_데일리 "wikilink") [D 레이블에서](https://ko.wikipedia.org/wiki/D_레이블 "wikilink") 제작된 노래로 1958년 여름 공개되었다. 당시 같은 코드 진행도를 사용한 [척 베리의](https://ko.wikipedia.org/wiki/척_베리 "wikilink") 〈[Sweet Little Sixteen](https://ko.wikipedia.org/wiki/Sweet_Little_Sixteen "wikilink")〉 발매 6개월 일후였다. 팝 차트에서 6위까지 도달, 전국 톱 40에 22주간을 머물렀다. 1958년 세 번째로 가장 많이 재생된 곡이기도 하다.\[1\] [제인 맨스필드가](https://ko.wikipedia.org/wiki/제인_맨스필드 "wikilink") 부른 〈That Makes It〉은 이 곡의 [앤서 송이다](https://ko.wikipedia.org/wiki/앤서_송 "wikilink").
+[머큐리 레코드가](../Page/머큐리_레코드.md "wikilink") 매입한 [파파 데일리의](https://ko.wikipedia.org/wiki/파파_데일리 "wikilink") [D 레이블에서](https://ko.wikipedia.org/wiki/D_레이블 "wikilink") 제작된 노래로 1958년 여름 공개되었다. 당시 같은 코드 진행도를 사용한 [척 베리의](../Page/척_베리.md "wikilink") 〈[Sweet Little Sixteen](https://ko.wikipedia.org/wiki/Sweet_Little_Sixteen "wikilink")〉 발매 6개월 일후였다. 팝 차트에서 6위까지 도달, 전국 톱 40에 22주간을 머물렀다. 1958년 세 번째로 가장 많이 재생된 곡이기도 하다.\[1\] [제인 맨스필드가](../Page/제인_맨스필드.md "wikilink") 부른 〈That Makes It〉은 이 곡의 [앤서 송이다](https://ko.wikipedia.org/wiki/앤서_송 "wikilink").
 
 1972년 [제리 리 루이스](../Page/제리_리_루이스.md "wikilink") 버전이\[2\] 빌보드 핫 컨트리 싱글 차트 1위 비약된 후 삼 주 지속했으며\[3\] 미국 톱 50,\[4\] 영국 톱 40\[5\]의 팝 히트가 되었다.
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Impossible Planet](https://ko.wikipedia.org/wiki/The_Impossible_Planet).
 
 
-"**The Impossible Planet**" (KBS 방영 제목: <블랙홀의 저주>)는 영국의 [SF 드라마](https://ko.wikipedia.org/wiki/SF_드라마 "wikilink") 《[닥터 후](https://ko.wikipedia.org/wiki/닥터_후 "wikilink")》 [시리즈 2의](../Page/닥터_후_\(시리즈_2\).md "wikilink") 여덟 번째 에피소드이다. 2006년 6월 3일 영국에서 처음 방송되었으며, "[The Satan Pit](https://ko.wikipedia.org/wiki/The_Satan_Pit "wikilink")"과 함께 2부작으로 된 에피소드 중 전편에 해당된다. 줄거리는 [타디스](https://ko.wikipedia.org/wiki/타디스 "wikilink")가 우연히 어느 행성 위에 건설된 기지 내부에 착륙하는 것부터 시작된다. 그 행성은 [블랙홀](https://ko.wikipedia.org/wiki/블랙홀 "wikilink") 주변을 공전하고 있었는데, 블랙홀 속으로 빨려들어가지 않는다는 것은 닥터도 어리둥절할 정도로 불가사의한 상황이었다. 그 기지에서는 행성의 공전을 가능케 하는 알수없는 에너지 근원지를 찾아 지하로 파내려가는 작업을 하고 있었는데 인류 제국에 이익이 되지 않을까 싶어서였다. 그러나 그곳에는 먼 옛날의 악마가 살고 있었다는 것이 밝혀지고, 마침내 깨어나고 만다.
+"**The Impossible Planet**" (KBS 방영 제목: <블랙홀의 저주>)는 영국의 [SF 드라마](https://ko.wikipedia.org/wiki/SF_드라마 "wikilink") 《[닥터 후](../Page/닥터_후.md "wikilink")》 [시리즈 2의](../Page/닥터_후_\(시리즈_2\).md "wikilink") 여덟 번째 에피소드이다. 2006년 6월 3일 영국에서 처음 방송되었으며, "[The Satan Pit](../Page/The_Satan_Pit.md "wikilink")"과 함께 2부작으로 된 에피소드 중 전편에 해당된다. 줄거리는 [타디스](https://ko.wikipedia.org/wiki/타디스 "wikilink")가 우연히 어느 행성 위에 건설된 기지 내부에 착륙하는 것부터 시작된다. 그 행성은 [블랙홀](https://ko.wikipedia.org/wiki/블랙홀 "wikilink") 주변을 공전하고 있었는데, 블랙홀 속으로 빨려들어가지 않는다는 것은 닥터도 어리둥절할 정도로 불가사의한 상황이었다. 그 기지에서는 행성의 공전을 가능케 하는 알수없는 에너지 근원지를 찾아 지하로 파내려가는 작업을 하고 있었는데 인류 제국에 이익이 되지 않을까 싶어서였다. 그러나 그곳에는 먼 옛날의 악마가 살고 있었다는 것이 밝혀지고, 마침내 깨어나고 만다.
 
 ## 줄거리
 

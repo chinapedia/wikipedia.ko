@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [   TV](https://ko.wikipedia.org/wiki/___TV).
 
 
-『**헌터 × 헌터 TV애니메이션**』은 [토가시 요시히로의](https://ko.wikipedia.org/wiki/토가시_요시히로 "wikilink") 만화 《[헌터 × 헌터](https://ko.wikipedia.org/wiki/헌터_×_헌터 "wikilink")》를 원작으로 하는 [TV애니메이션](https://ko.wikipedia.org/wiki/TV애니메이션 "wikilink")을 말한다.
+『**헌터 × 헌터 TV애니메이션**』은 [토가시 요시히로의](../Page/토가시_요시히로.md "wikilink") 만화 《[헌터 × 헌터](../Page/헌터_×_헌터.md "wikilink")》를 원작으로 하는 [TV애니메이션](https://ko.wikipedia.org/wiki/TV애니메이션 "wikilink")을 말한다.
 
 ## TVA([1999](https://ko.wikipedia.org/wiki/1999 "wikilink"))
 
@@ -35,7 +35,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/애니메이션" title="wikilink">TVA</a>(<a href="https://ko.wikipedia.org/wiki/1999" title="wikilink">1999</a>)</p></td>
+<td><p><a href="../Page/애니메이션.md" title="wikilink">TVA</a>(<a href="https://ko.wikipedia.org/wiki/1999" title="wikilink">1999</a>)</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -44,7 +44,7 @@
 <li>"太陽は夜も輝く" - WINO (에피소드 49–62)</li>
 </ul></td>
 <td><ul>
-<li>"風のうた" - <a href="https://ko.wikipedia.org/wiki/혼다_미나코" title="wikilink">혼다 미나코</a> (에피소드 1–31)</li>
+<li>"風のうた" - <a href="../Page/혼다_미나코.md" title="wikilink">혼다 미나코</a> (에피소드 1–31)</li>
 <li>"Eじゃん -Do You Feel Like I Feel?" - 나가이 마사토 (에피소드 32–50)</li>
 <li>"蛍" - 나가이 마사토 (에피소드 51–62)</li>
 </ul></td>
@@ -61,7 +61,7 @@
 </ul></td>
 <td><ul>
 <li>"Carry On" - 쿠로사와 켄이치 (Hunter × Hunter OVA)</li>
-<li>"POPCORN" - <a href="https://ko.wikipedia.org/wiki/시모카와_미쿠니" title="wikilink">시모카와 미쿠니</a> (Hunter × Hunter Greed Island)</li>
+<li>"POPCORN" - <a href="../Page/시모카와_미쿠니.md" title="wikilink">시모카와 미쿠니</a> (Hunter × Hunter Greed Island)</li>
 <li>"もしもこの世界で君と僕が出会えなかったら" - Sunflower's Garden (Hunter × Hunter GI Final)</li>
 </ul></td>
 </tr>
@@ -106,7 +106,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/애니메이션" title="wikilink">TVA</a>(<a href="https://ko.wikipedia.org/wiki/2011" title="wikilink">2011</a>)</p></td>
+<td><p><a href="../Page/애니메이션.md" title="wikilink">TVA</a>(<a href="https://ko.wikipedia.org/wiki/2011" title="wikilink">2011</a>)</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -117,7 +117,7 @@
 <td><ul>
 <li>"Just Awake" - <a href="../Page/Fear,_and_Loathing_in_Las_Vegas.md" title="wikilink">Fear, and Loathing in Las Vegas</a> (에피소드 1–26)</li>
 <li>"Hunting for your dream" - <a href="../Page/Galneryus.md" title="wikilink">Galneryus</a> (에피소드 27-58)</li>
-<li>"REASON" - <a href="https://ko.wikipedia.org/wiki/유즈" title="wikilink">유즈</a> (에피소드 59-75, 147)</li>
+<li>"REASON" - <a href="../Page/유즈.md" title="wikilink">유즈</a> (에피소드 59-75, 147)</li>
 <li>"流れ星キラリ（ゆずバージョン）" - 유즈 (에피소드 76-98)</li>
 <li>"表裏一体" - 유즈 (에피소드 99-134, 136-146)</li>
 <li>"departure!" - 오노 마사토시 (에피소드 148)</li>

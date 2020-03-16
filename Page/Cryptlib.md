@@ -1,57 +1,57 @@
 > This article is converted from Wikipedia: [Cryptlib](https://ko.wikipedia.org/wiki/Cryptlib).
 
 
-**cryptlib**은 [오픈 소스](https://ko.wikipedia.org/wiki/오픈_소스_소프트웨어 "wikilink") 크로스 플랫폼 소프트웨어 보안 툴킷 라이브러리이다. 배포되는 라이선스는 [슬리피캣 라이선스이며](https://ko.wikipedia.org/wiki/슬리피캣_라이선스 "wikilink")\[1\] 이는 [GNU GPL과](https://ko.wikipedia.org/wiki/GNU_GPL "wikilink") [호환되는](https://ko.wikipedia.org/wiki/라이선스_호환성 "wikilink") [자유 소프트웨어 사용권이다](https://ko.wikipedia.org/wiki/자유_소프트웨어_사용권 "wikilink").\[2\] 또, **cryptlib**은 상업적으로 이용하려는 사람들을 위해 표준 상용 라이선스로도 이용할 수 있다.\[3\]
+**cryptlib**은 [오픈 소스](../Page/오픈_소스_소프트웨어.md "wikilink") 크로스 플랫폼 소프트웨어 보안 툴킷 라이브러리이다. 배포되는 라이선스는 [슬리피캣 라이선스이며](https://ko.wikipedia.org/wiki/슬리피캣_라이선스 "wikilink")\[1\] 이는 [GNU GPL과](https://ko.wikipedia.org/wiki/GNU_GPL "wikilink") [호환되는](../Page/라이선스_호환성.md "wikilink") [자유 소프트웨어 사용권이다](https://ko.wikipedia.org/wiki/자유_소프트웨어_사용권 "wikilink").\[2\] 또, **cryptlib**은 상업적으로 이용하려는 사람들을 위해 표준 상용 라이선스로도 이용할 수 있다.\[3\]
 
 ## 기능
 
 ### 알고리즘 지원
 
-| 알고리즘                                                                  | 키 크기        | 블록 크기 |
-| --------------------------------------------------------------------- | ----------- | ----- |
-| [AES](https://ko.wikipedia.org/wiki/고급_암호화_표준 "wikilink")             | 128/192/256 | 128   |
-| [블로피시](https://ko.wikipedia.org/wiki/블로피시 "wikilink")                 | 448         | 64    |
-| [CAST-128](https://ko.wikipedia.org/wiki/CAST-128 "wikilink")         | 128         | 64    |
-| [DES](https://ko.wikipedia.org/wiki/데이터_암호화_표준 "wikilink")\[4\]       | 56          | 64    |
-| [트리플 DES](https://ko.wikipedia.org/wiki/트리플_DES "wikilink")           | 112 / 168   | 64    |
-| [IDEA](https://ko.wikipedia.org/wiki/국제_데이터_암호화_알고리즘 "wikilink")\[5\] | 128         | 64    |
-| [RC2](https://ko.wikipedia.org/wiki/RC2 "wikilink")\[6\]              | 1024        | 64    |
-| [RC4](https://ko.wikipedia.org/wiki/RC4 "wikilink")\[7\]              | 2048        | 8     |
-| [RC5](https://ko.wikipedia.org/wiki/RC5 "wikilink")\[8\]              | 832         | 64    |
-| [스킵잭](https://ko.wikipedia.org/wiki/스킵잭 "wikilink")\[9\]              | 80          | 64    |
+| 알고리즘                                                          | 키 크기        | 블록 크기 |
+| ------------------------------------------------------------- | ----------- | ----- |
+| [AES](../Page/고급_암호화_표준.md "wikilink")                        | 128/192/256 | 128   |
+| [블로피시](../Page/블로피시.md "wikilink")                            | 448         | 64    |
+| [CAST-128](https://ko.wikipedia.org/wiki/CAST-128 "wikilink") | 128         | 64    |
+| [DES](../Page/데이터_암호화_표준.md "wikilink")\[4\]                  | 56          | 64    |
+| [트리플 DES](../Page/트리플_DES.md "wikilink")                      | 112 / 168   | 64    |
+| [IDEA](../Page/국제_데이터_암호화_알고리즘.md "wikilink")\[5\]            | 128         | 64    |
+| [RC2](https://ko.wikipedia.org/wiki/RC2 "wikilink")\[6\]      | 1024        | 64    |
+| [RC4](https://ko.wikipedia.org/wiki/RC4 "wikilink")\[7\]      | 2048        | 8     |
+| [RC5](https://ko.wikipedia.org/wiki/RC5 "wikilink")\[8\]      | 832         | 64    |
+| [스킵잭](https://ko.wikipedia.org/wiki/스킵잭 "wikilink")\[9\]      | 80          | 64    |
 
 [암호](https://ko.wikipedia.org/wiki/블록_암호 "wikilink")
 
-| 알고리즘                                                              | 다이제스트 크기 |
-| ----------------------------------------------------------------- | -------- |
-| [MD2](https://ko.wikipedia.org/wiki/MD2 "wikilink")\[10\]\[11\]   | 128      |
-| [MD4](../Page/MD4.md "wikilink")\[12\]\[13\]                      | 128      |
-| [MD5](https://ko.wikipedia.org/wiki/MD5 "wikilink")\[14\]         | 128      |
-| [RIPEMD](https://ko.wikipedia.org/wiki/RIPEMD "wikilink")-160     | 160      |
-| [SHA-1](https://ko.wikipedia.org/wiki/SHA-1 "wikilink")           | 160      |
-| [SHA-2](https://ko.wikipedia.org/wiki/SHA-2 "wikilink") / SHA-256 | 256      |
+| 알고리즘                                                            | 다이제스트 크기 |
+| --------------------------------------------------------------- | -------- |
+| [MD2](https://ko.wikipedia.org/wiki/MD2 "wikilink")\[10\]\[11\] | 128      |
+| [MD4](../Page/MD4.md "wikilink")\[12\]\[13\]                    | 128      |
+| [MD5](../Page/MD5.md "wikilink")\[14\]                          | 128      |
+| [RIPEMD](https://ko.wikipedia.org/wiki/RIPEMD "wikilink")-160   | 160      |
+| [SHA-1](https://ko.wikipedia.org/wiki/SHA-1 "wikilink")         | 160      |
+| [SHA-2](../Page/SHA-2.md "wikilink") / SHA-256                  | 256      |
 
-[해시](https://ko.wikipedia.org/wiki/암호화_해시_함수 "wikilink")
+[해시](../Page/암호화_해시_함수.md "wikilink")
 
 | 알고리즘                                                                                                                | 키 크기 | 다이제스트 크기 |
 | ------------------------------------------------------------------------------------------------------------------- | ---- | -------- |
-| [HMAC](https://ko.wikipedia.org/wiki/HMAC "wikilink")-[MD5](https://ko.wikipedia.org/wiki/MD5 "wikilink")           | 128  | 128      |
+| [HMAC](https://ko.wikipedia.org/wiki/HMAC "wikilink")-[MD5](../Page/MD5.md "wikilink")                              | 128  | 128      |
 | [HMAC](https://ko.wikipedia.org/wiki/HMAC "wikilink")-[RIPEMD](https://ko.wikipedia.org/wiki/RIPEMD "wikilink")-160 | 160  | 160      |
 | [HMAC](https://ko.wikipedia.org/wiki/HMAC "wikilink")-[SHA-1](https://ko.wikipedia.org/wiki/SHA-1 "wikilink")       | 160  | 160      |
-| [HMAC](https://ko.wikipedia.org/wiki/HMAC "wikilink")-[SHA-2](https://ko.wikipedia.org/wiki/SHA-2 "wikilink")       | 256  | 256      |
+| [HMAC](https://ko.wikipedia.org/wiki/HMAC "wikilink")-[SHA-2](../Page/SHA-2.md "wikilink")                          | 256  | 256      |
 
-[MAC](https://ko.wikipedia.org/wiki/메시지_인증_코드 "wikilink")
+[MAC](../Page/메시지_인증_코드.md "wikilink")
 
 | 알고리즘                                                                           | 키 크기 |
 | ------------------------------------------------------------------------------ | ---- |
-| [디피-헬먼](https://ko.wikipedia.org/wiki/디피-헬먼_키_교환 "wikilink")                   | 4096 |
+| [디피-헬먼](../Page/디피-헬먼_키_교환.md "wikilink")                                      | 4096 |
 | [DSA](../Page/디지털_서명_알고리즘.md "wikilink")                                       | 4096 |
 | [ECDSA](https://ko.wikipedia.org/wiki/Elliptic_Curve_DSA "wikilink")           | 521  |
 | [ECDH](https://ko.wikipedia.org/wiki/Elliptic_curve_Diffie–Hellman "wikilink") | 521  |
 | [Elgamal](https://ko.wikipedia.org/wiki/ElGamal_encryption "wikilink")         | 4096 |
-| [RSA](https://ko.wikipedia.org/wiki/RSA_암호 "wikilink")                         | 4096 |
+| [RSA](../Page/RSA_암호.md "wikilink")                                            | 4096 |
 
-[공개 키](https://ko.wikipedia.org/wiki/공개_키_암호_방식 "wikilink")
+[공개 키](../Page/공개_키_암호_방식.md "wikilink")
 
 ## 출시 역사
 
@@ -70,7 +70,7 @@
 
 ## 같이 보기
 
-  - [OpenSSL](https://ko.wikipedia.org/wiki/OpenSSL "wikilink")
+  - [OpenSSL](../Page/OpenSSL.md "wikilink")
   - [GnuTLS](https://ko.wikipedia.org/wiki/GnuTLS "wikilink")
   - [Libgcrypt](https://ko.wikipedia.org/wiki/Libgcrypt "wikilink")
   - [MatrixSSL](https://ko.wikipedia.org/wiki/MatrixSSL "wikilink")

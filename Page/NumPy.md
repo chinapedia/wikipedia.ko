@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [NumPy](https://ko.wikipedia.org/wiki/NumPy).
 
 
-**NumPy**("넘파이"라 읽는다)는 [행렬](https://ko.wikipedia.org/wiki/행렬 "wikilink")이나 일반적으로 대규모 다차원 [배열](https://ko.wikipedia.org/wiki/배열 "wikilink")을 쉽게 처리 할 수 있도록 지원하는 [파이썬](https://ko.wikipedia.org/wiki/파이썬 "wikilink")의 [라이브러리](https://ko.wikipedia.org/wiki/라이브러리 "wikilink")이다. NumPy는 데이터 구조 외에도 수치 계산을 위해 효율적으로 구현된 기능을 제공한다.
+**NumPy**("넘파이"라 읽는다)는 [행렬](../Page/행렬.md "wikilink")이나 일반적으로 대규모 다차원 [배열](../Page/배열.md "wikilink")을 쉽게 처리 할 수 있도록 지원하는 [파이썬](../Page/파이썬.md "wikilink")의 [라이브러리](https://ko.wikipedia.org/wiki/라이브러리 "wikilink")이다. NumPy는 데이터 구조 외에도 수치 계산을 위해 효율적으로 구현된 기능을 제공한다.
 
 ## 예제
 
-  - [배열](https://ko.wikipedia.org/wiki/배열 "wikilink") 생성
+  - [배열](../Page/배열.md "wikilink") 생성
 
 <!-- end list -->
 
@@ -77,7 +77,7 @@ array([[ 53.61964114, 38.8741616 , 71.53462537],
        [ 155.04043289,  104.3499231 ,  195.26228855]])
 ```
 
-  - [OpenCV](https://ko.wikipedia.org/wiki/OpenCV "wikilink")와의 통합
+  - [OpenCV](../Page/OpenCV.md "wikilink")와의 통합
 
 <!-- end list -->
 

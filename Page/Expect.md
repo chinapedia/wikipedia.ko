@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Expect](https://ko.wikipedia.org/wiki/Expect).
 
 
-**Expect**은 [Don Libes가](https://ko.wikipedia.org/wiki/Don_Libes "wikilink") 개발한 [Tcl](https://ko.wikipedia.org/wiki/Tcl "wikilink") 스크립팅 언어의 확장 기능으로서 [터미널](https://ko.wikipedia.org/wiki/단말기 "wikilink") 인터페이스를 노출하는 프로그램과의 상호작용을 자동화하기 위한 프로그램이다. Expect는 원래 1990년 [유닉스](https://ko.wikipedia.org/wiki/유닉스 "wikilink") 시스템을 위해 개발되었으나 그 뒤로 [마이크로소프트 윈도우와](https://ko.wikipedia.org/wiki/마이크로소프트_윈도우 "wikilink") 다른 운영 체제용으로 이용이 가능해졌다.
+**Expect**은 [Don Libes가](https://ko.wikipedia.org/wiki/Don_Libes "wikilink") 개발한 [Tcl](../Page/Tcl.md "wikilink") 스크립팅 언어의 확장 기능으로서 [터미널](../Page/단말기.md "wikilink") 인터페이스를 노출하는 프로그램과의 상호작용을 자동화하기 위한 프로그램이다. Expect는 원래 1990년 [유닉스](../Page/유닉스.md "wikilink") 시스템을 위해 개발되었으나 그 뒤로 [마이크로소프트 윈도우와](../Page/마이크로소프트_윈도우.md "wikilink") 다른 운영 체제용으로 이용이 가능해졌다.
 
 ## 기초
 
-Expect는 [텔넷](https://ko.wikipedia.org/wiki/텔넷 "wikilink"), [파일 전송 프로토콜](https://ko.wikipedia.org/wiki/파일_전송_프로토콜 "wikilink"), [passwd](https://ko.wikipedia.org/wiki/passwd "wikilink"), [fsck](https://ko.wikipedia.org/wiki/fsck "wikilink"), [rlogin](https://ko.wikipedia.org/wiki/rlogin "wikilink"), [tip](https://ko.wikipedia.org/wiki/tip "wikilink"), [SSH와](https://ko.wikipedia.org/wiki/시큐어_셸 "wikilink") 같은 상호작용 [응용 프로그램의](https://ko.wikipedia.org/wiki/응용_소프트웨어 "wikilink") 제어를 자동화하기 위해 사용된다. Expect는 [의사 터미널](https://ko.wikipedia.org/wiki/의사_터미널 "wikilink")(유닉스)을 사용하거나 콘솔을 에뮬레이트(윈도우)하고 대상 프로그램을 시작한 다음 마치 인간 세상에서 하는 것처럼 해당 프로그램과 통신하며 이는 터미널이나 콘솔 인터페이스를 통해 이루어진다. 또다른 Tcl 확장 기능인 [Tk](https://ko.wikipedia.org/wiki/Tk "wikilink")는 [그래픽 사용자 인터페이스를](https://ko.wikipedia.org/wiki/그래픽_사용자_인터페이스 "wikilink") 제공하기 위해 사용할 수 있다.
+Expect는 [텔넷](../Page/텔넷.md "wikilink"), [파일 전송 프로토콜](../Page/파일_전송_프로토콜.md "wikilink"), [passwd](https://ko.wikipedia.org/wiki/passwd "wikilink"), [fsck](https://ko.wikipedia.org/wiki/fsck "wikilink"), [rlogin](https://ko.wikipedia.org/wiki/rlogin "wikilink"), [tip](https://ko.wikipedia.org/wiki/tip "wikilink"), [SSH와](../Page/시큐어_셸.md "wikilink") 같은 상호작용 [응용 프로그램의](../Page/응용_소프트웨어.md "wikilink") 제어를 자동화하기 위해 사용된다. Expect는 [의사 터미널](https://ko.wikipedia.org/wiki/의사_터미널 "wikilink")(유닉스)을 사용하거나 콘솔을 에뮬레이트(윈도우)하고 대상 프로그램을 시작한 다음 마치 인간 세상에서 하는 것처럼 해당 프로그램과 통신하며 이는 터미널이나 콘솔 인터페이스를 통해 이루어진다. 또다른 Tcl 확장 기능인 [Tk](https://ko.wikipedia.org/wiki/Tk "wikilink")는 [그래픽 사용자 인터페이스를](../Page/그래픽_사용자_인터페이스.md "wikilink") 제공하기 위해 사용할 수 있다.
 
-Expect는 [정규 표현식](https://ko.wikipedia.org/wiki/정규_표현식 "wikilink") 패턴 매칭과 일반 프로그램 기능들이 있으므로 단순한 스크립트들이 [프로그래밍 언어](https://ko.wikipedia.org/wiki/프로그래밍_언어 "wikilink"), [매크로](https://ko.wikipedia.org/wiki/매크로_\(컴퓨터_과학\) "wikilink"), 기타 프로그램 매커니즘이 결여된 텔넷, FTP, SSH 등의 프로그램들을 똑똑하게 제어할 수 있게 한다.
+Expect는 [정규 표현식](https://ko.wikipedia.org/wiki/정규_표현식 "wikilink") 패턴 매칭과 일반 프로그램 기능들이 있으므로 단순한 스크립트들이 [프로그래밍 언어](../Page/프로그래밍_언어.md "wikilink"), [매크로](../Page/매크로_\(컴퓨터_과학\).md "wikilink"), 기타 프로그램 매커니즘이 결여된 텔넷, FTP, SSH 등의 프로그램들을 똑똑하게 제어할 수 있게 한다.
 
 ## 사용법
 
@@ -126,7 +126,7 @@ puts "\nError connecting to server: $host, user: $user and password: $passw!\n"
 exit 1
 ```
 
-이 예에서처럼 명령 줄 인수로 비밀번호를 사용하는 것은 커다란 보안 구멍인데, 해당 머신의 다른 사용자가 [ps를](https://ko.wikipedia.org/wiki/Ps_\(유닉스\) "wikilink") 실행함으로써 이 비밀번호를 읽어낼 수 있다. 그러나 인수로 비밀번호를 지정하지 않고 비밀번호를 직접 물어보게 하는 코드를 추가할 수 있다. 이것이 더 안전한 편이다. 아래의 예를 참고할 것.
+이 예에서처럼 명령 줄 인수로 비밀번호를 사용하는 것은 커다란 보안 구멍인데, 해당 머신의 다른 사용자가 [ps를](../Page/Ps_\(유닉스\).md "wikilink") 실행함으로써 이 비밀번호를 읽어낼 수 있다. 그러나 인수로 비밀번호를 지정하지 않고 비밀번호를 직접 물어보게 하는 코드를 추가할 수 있다. 이것이 더 안전한 편이다. 아래의 예를 참고할 것.
 
 ``` tcl
 stty -echo
@@ -184,11 +184,11 @@ C\#, 자바, 스칼라, 그루비, 펄, 파이썬, 루비, 셸, Go와 같은 다
 
 ### 펄
 
-  - [Expect.pm](http://sourceforge.net/projects/expectperl) — [펄](https://ko.wikipedia.org/wiki/펄 "wikilink") module (newest version at [metacpan.org](https://metacpan.org/pod/Expect))
+  - [Expect.pm](http://sourceforge.net/projects/expectperl) — [펄](../Page/펄.md "wikilink") module (newest version at [metacpan.org](https://metacpan.org/pod/Expect))
 
 ### 파이썬
 
-  - [Pexpect](https://github.com/pexpect/pexpect) — [Python](https://ko.wikipedia.org/wiki/파이썬 "wikilink") module for controlling interactive programs in a pseudo-terminal
+  - [Pexpect](https://github.com/pexpect/pexpect) — [Python](../Page/파이썬.md "wikilink") module for controlling interactive programs in a pseudo-terminal
   - [winpexpect](https://pypi.python.org/pypi/winpexpect) — port of pexpect to the Windows platform
 
 ### 루비

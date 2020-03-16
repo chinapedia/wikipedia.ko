@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [ GO ](https://ko.wikipedia.org/wiki/_GO_).
 
 
-**해밀턴 GO 센터** (Hamilton GO Centre) 는 [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink") [온타리오주](https://ko.wikipedia.org/wiki/온타리오주 "wikilink") [해밀턴](https://ko.wikipedia.org/wiki/해밀턴_\(온타리오주\) "wikilink") 시내의 헌터 스트리트와 휴슨 스트리트에 위치해있는 [GO 트랜싯의](https://ko.wikipedia.org/wiki/GO_트랜싯 "wikilink") 통근 열차 정차역 및 버스 터미널이다. 시내버스 노선만 환승이 가능한 다른 GO 역과는 다르게 이 역은 [그레이하운드 캐나다와](https://ko.wikipedia.org/wiki/그레이하운드_캐나다 "wikilink") [코치 캐나다](https://ko.wikipedia.org/wiki/코치_캐나다 "wikilink") 시외버스가 정차하여 시외버스 터미널의 역할도 수행하고 있다.
+**해밀턴 GO 센터** (Hamilton GO Centre) 는 [캐나다](../Page/캐나다.md "wikilink") [온타리오주](https://ko.wikipedia.org/wiki/온타리오주 "wikilink") [해밀턴](../Page/해밀턴_\(온타리오주\).md "wikilink") 시내의 헌터 스트리트와 휴슨 스트리트에 위치해있는 [GO 트랜싯의](../Page/GO_트랜싯.md "wikilink") 통근 열차 정차역 및 버스 터미널이다. 시내버스 노선만 환승이 가능한 다른 GO 역과는 다르게 이 역은 [그레이하운드 캐나다와](https://ko.wikipedia.org/wiki/그레이하운드_캐나다 "wikilink") [코치 캐나다](https://ko.wikipedia.org/wiki/코치_캐나다 "wikilink") 시외버스가 정차하여 시외버스 터미널의 역할도 수행하고 있다.
 
 ## 역사
 
 해밀턴 GO 센터는 뉴욕의 건축 업체인 펠하이머 & 웨그너가 건설한 [아르 데코와](https://ko.wikipedia.org/wiki/아르_데코 "wikilink") [스트림라인 모데른](https://ko.wikipedia.org/wiki/스트림라인_모데른 "wikilink") 형식의 건물로, 기존에는 거대한 단지로 꾸밀 생각이였으나 7층 규모의 오피스 건물로 규모를 축소하였다. 1933년에 토론토, 해밀턴, 버팔로 철도 (TH\&B) 의 본사이자 해밀턴 역으로 개장하였다. TH\&B의 여객 운송은 1981년 4월 26일에 운행을 중단하였으며 TH\&B가 1987년에 [캐나다 퍼시픽 철도로](https://ko.wikipedia.org/wiki/캐나다_퍼시픽_철도 "wikilink") 인수되면서 이 건물은 쓰이지 않게 되었다.
 
-하지만 1990년대부터 [GO 트랜싯이](https://ko.wikipedia.org/wiki/GO_트랜싯 "wikilink") [CN](https://ko.wikipedia.org/wiki/캐나다_내셔널_철도 "wikilink") 그림스비 선을 따라 이 역에서 1.6km가량 북쪽으로 떨어져 있는 해밀턴 CNR 역까지 러시 아워에 통근열차를 운행하였고 버스는 해밀턴 시내의 존 스트리트와 레베카 스트리트까지 운행하였다. GO 버스와 통근 열차가 해밀턴 시내 중심을 운행하고 해밀턴 시내버스 노선과 제대로 연계하기 위해 기존의 TH\&B 역을 해밀턴 GO 센터로 재단장하였다. 새로운 역 시설은 가우드 존스 & 한햄 건축사에서 디자인을 맡게 되었으며 1996년 4월 30일에 재개장하였다.
+하지만 1990년대부터 [GO 트랜싯이](../Page/GO_트랜싯.md "wikilink") [CN](https://ko.wikipedia.org/wiki/캐나다_내셔널_철도 "wikilink") 그림스비 선을 따라 이 역에서 1.6km가량 북쪽으로 떨어져 있는 해밀턴 CNR 역까지 러시 아워에 통근열차를 운행하였고 버스는 해밀턴 시내의 존 스트리트와 레베카 스트리트까지 운행하였다. GO 버스와 통근 열차가 해밀턴 시내 중심을 운행하고 해밀턴 시내버스 노선과 제대로 연계하기 위해 기존의 TH\&B 역을 해밀턴 GO 센터로 재단장하였다. 새로운 역 시설은 가우드 존스 & 한햄 건축사에서 디자인을 맡게 되었으며 1996년 4월 30일에 재개장하였다.
 
 ## 버스 연결편
 
@@ -51,7 +51,7 @@
 </tr>
 <tr class="even">
 <td><p>18E</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/웨스트하버역" title="wikilink">웨스트하버역</a></p></td>
+<td><p><a href="../Page/웨스트하버역.md" title="wikilink">웨스트하버역</a></p></td>
 <td><p><span style="font-size:140%;">←</span></p></td>
 <td><p><a href="../Page/앨더샷역_(온타리오주).md" title="wikilink">앨더샷역</a></p></td>
 </tr>

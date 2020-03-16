@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ F. ](https://ko.wikipedia.org/wiki/_F._).
 
 
-**더글러스 F. 켈리**(Douglas F. Kelly)는 신학자이며 미국 [리폼드 신학교에서](https://ko.wikipedia.org/wiki/리폼드_신학교 "wikilink") [조직신학](https://ko.wikipedia.org/wiki/조직신학 "wikilink")을 가르쳤고 현재 명예교수이다. 그는 [에딘버러 대학교](https://ko.wikipedia.org/wiki/에딘버러_대학교 "wikilink") (University of Edinburgh)의 [데이빗 F. 라이트](https://ko.wikipedia.org/wiki/데이빗_F._라이트 "wikilink") (David Wright)와 함께 [칼빈](https://ko.wikipedia.org/wiki/장_칼뱅 "wikilink") 구약 주석의 개정을 위한 편집장을 하였다. 미국 기독교법학회(Christian Legal Society)의 법학 프로젝트에 참여하였다. 여러권의 저서들이 있다. 켈리 교수는 수많은 도서를 보유하고 있으며 마음이 따뜻하고 경건한 [신학자이다](https://ko.wikipedia.org/wiki/신학자_\(기독교\) "wikilink").
+**더글러스 F. 켈리**(Douglas F. Kelly)는 신학자이며 미국 [리폼드 신학교에서](../Page/리폼드_신학교.md "wikilink") [조직신학](../Page/조직신학.md "wikilink")을 가르쳤고 현재 명예교수이다. 그는 [에딘버러 대학교](https://ko.wikipedia.org/wiki/에딘버러_대학교 "wikilink") (University of Edinburgh)의 [데이빗 F. 라이트](https://ko.wikipedia.org/wiki/데이빗_F._라이트 "wikilink") (David Wright)와 함께 [칼빈](https://ko.wikipedia.org/wiki/장_칼뱅 "wikilink") 구약 주석의 개정을 위한 편집장을 하였다. 미국 기독교법학회(Christian Legal Society)의 법학 프로젝트에 참여하였다. 여러권의 저서들이 있다. 켈리 교수는 수많은 도서를 보유하고 있으며 마음이 따뜻하고 경건한 [신학자이다](https://ko.wikipedia.org/wiki/신학자_\(기독교\) "wikilink").
 
 ## 교육배경
 

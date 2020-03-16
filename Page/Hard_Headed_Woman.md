@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Hard Headed Woman](https://ko.wikipedia.org/wiki/Hard_Headed_Woman).
 
 
-〈**Hard Headed Woman**〉는 [엘비스 프레슬리가](https://ko.wikipedia.org/wiki/엘비스_프레슬리 "wikilink") 녹음하고 [글래디스 뮤직이](https://ko.wikipedia.org/wiki/글래디스_뮤직 "wikilink") 발행한 [로큰롤](https://ko.wikipedia.org/wiki/로큰롤 "wikilink") 가요이다. 미국의 [12마디 블루스로서](https://ko.wikipedia.org/wiki/12마디_블루스 "wikilink") 아프리카계 미국인 작곡가 [클로드 디미트리어스의](../Page/클로드_디미트리어스.md "wikilink") 작곡이다. 1958년 장편영화 《[킹 크리올](../Page/킹_크리올.md "wikilink")》의 사운드트랙에 취입된 로큰롤 노래로서 가장 모모된 음원으로, 동명의 레코드 음반에도 수록되었다. 아울러 78RPM,\[1\] 45RPM 형식의 싱글로 출판돼 1958년 당시 《[빌보드](https://ko.wikipedia.org/wiki/빌보드 "wikilink")》 1위에 입신했고 R\&B 차트에서 2위를 2주간 머물렀다.\[2\] [RIAA가](https://ko.wikipedia.org/wiki/미국_음반_산업_협회 "wikilink") [골드 레코드로](https://ko.wikipedia.org/wiki/골드_레코드 "wikilink") 지정한 최초의 로큰롤 싱글이다.
+〈**Hard Headed Woman**〉는 [엘비스 프레슬리가](../Page/엘비스_프레슬리.md "wikilink") 녹음하고 [글래디스 뮤직이](https://ko.wikipedia.org/wiki/글래디스_뮤직 "wikilink") 발행한 [로큰롤](../Page/로큰롤.md "wikilink") 가요이다. 미국의 [12마디 블루스로서](https://ko.wikipedia.org/wiki/12마디_블루스 "wikilink") 아프리카계 미국인 작곡가 [클로드 디미트리어스의](../Page/클로드_디미트리어스.md "wikilink") 작곡이다. 1958년 장편영화 《[킹 크리올](../Page/킹_크리올.md "wikilink")》의 사운드트랙에 취입된 로큰롤 노래로서 가장 모모된 음원으로, 동명의 레코드 음반에도 수록되었다. 아울러 78RPM,\[1\] 45RPM 형식의 싱글로 출판돼 1958년 당시 《[빌보드](../Page/빌보드.md "wikilink")》 1위에 입신했고 R\&B 차트에서 2위를 2주간 머물렀다.\[2\] [RIAA가](../Page/미국_음반_산업_협회.md "wikilink") [골드 레코드로](https://ko.wikipedia.org/wiki/골드_레코드 "wikilink") 지정한 최초의 로큰롤 싱글이다.
 
-[완다 잭슨](https://ko.wikipedia.org/wiki/완다_잭슨 "wikilink") 등속이 녹음한 노래이기도 하다. [캣 스티븐스는](https://ko.wikipedia.org/wiki/캣_스티븐스 "wikilink") 동명의 상이된 노래를 《[Tea for the Tillerman](https://ko.wikipedia.org/wiki/Tea_for_the_Tillerman "wikilink")》에 수록했다.
+[완다 잭슨](../Page/완다_잭슨.md "wikilink") 등속이 녹음한 노래이기도 하다. [캣 스티븐스는](../Page/캣_스티븐스.md "wikilink") 동명의 상이된 노래를 《[Tea for the Tillerman](https://ko.wikipedia.org/wiki/Tea_for_the_Tillerman "wikilink")》에 수록했다.
 
 ## 차트 성적
 

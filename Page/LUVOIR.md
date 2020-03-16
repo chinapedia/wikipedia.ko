@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [LUVOIR](https://ko.wikipedia.org/wiki/LUVOIR).
 
 
-**LUVOIR**는 [고더드 우주 비행 센터와](https://ko.wikipedia.org/wiki/고더드_우주_비행_센터 "wikilink") [AADS가](https://ko.wikipedia.org/wiki/:en:Astronomy_and_Astrophysics_Decadal_Survey "wikilink") 2016년 1월부터 디자인을 시작한 [우주망원경](https://ko.wikipedia.org/wiki/우주망원경 "wikilink")이다.\[1\]\[2\]\[3\]
+**LUVOIR**는 [고더드 우주 비행 센터와](../Page/고더드_우주_비행_센터.md "wikilink") [AADS가](https://ko.wikipedia.org/wiki/:en:Astronomy_and_Astrophysics_Decadal_Survey "wikilink") 2016년 1월부터 디자인을 시작한 [우주망원경](../Page/우주망원경.md "wikilink")이다.\[1\]\[2\]\[3\]
 
-목적은 외계행성을 직접 사진을 촬영하여 생명체 거주 가능 지역에 있는 행성을 찾아내는 역할을 수행하는 것이 주 임무이며,\[4\]\[5\] 부수적인 임무로는 [천체물리학](https://ko.wikipedia.org/wiki/천체물리학 "wikilink")의 가설들을 증명하고, 우주가 [재전리](https://ko.wikipedia.org/wiki/재전리 "wikilink") 된 타임라인을 연구하며, 행성계의 형성을 연구하는 것이다.
+목적은 외계행성을 직접 사진을 촬영하여 생명체 거주 가능 지역에 있는 행성을 찾아내는 역할을 수행하는 것이 주 임무이며,\[4\]\[5\] 부수적인 임무로는 [천체물리학](../Page/천체물리학.md "wikilink")의 가설들을 증명하고, 우주가 [재전리](https://ko.wikipedia.org/wiki/재전리 "wikilink") 된 타임라인을 연구하며, 행성계의 형성을 연구하는 것이다.
 
-현재 8m의 주경과 18m의 주경을 장착하는 설계도가 복수로 설계되고 있으며,\[6\] [적외선](https://ko.wikipedia.org/wiki/적외선 "wikilink"), [가시광선](https://ko.wikipedia.org/wiki/가시광선 "wikilink"), [자외선](https://ko.wikipedia.org/wiki/자외선 "wikilink")을 관측가능하다.\[7\] 2020년 이후로 개발에 착수할 것으로 전해졌으며, 현재 [플래그쉽 프로그램의](https://ko.wikipedia.org/wiki/플래그쉽_프로그램 "wikilink") 소속이다.\[8\]
+현재 8m의 주경과 18m의 주경을 장착하는 설계도가 복수로 설계되고 있으며,\[6\] [적외선](../Page/적외선.md "wikilink"), [가시광선](../Page/가시광선.md "wikilink"), [자외선](../Page/자외선.md "wikilink")을 관측가능하다.\[7\] 2020년 이후로 개발에 착수할 것으로 전해졌으며, 현재 [플래그쉽 프로그램의](https://ko.wikipedia.org/wiki/플래그쉽_프로그램 "wikilink") 소속이다.\[8\]
 
-여기서 연구팀은 2개의 우주망원경을 설계했는데, 각각 [ATLAST](https://ko.wikipedia.org/wiki/ATLAST "wikilink")와 [HDST다](https://ko.wikipedia.org/wiki/고선명_우주망원경 "wikilink").\[9\] ATLAST는 지름 8m의 큰 거울을 사용한 우주망원경이고, HDST는 지름 15m의 큰 거울을 사용한 우주망원경이다.\[10\] 이 둘을 가르는 건 주경의 크기이며,\[11\] 각각 발사비용 절하와 분해능, 집광력이 더 좋다는 장점을 가지고 있으나,\[12\]\[13\]\[14\] 단점은 그 반대이다.\[15\]\[16\]\[17\]
+여기서 연구팀은 2개의 우주망원경을 설계했는데, 각각 [ATLAST](../Page/ATLAST.md "wikilink")와 [HDST다](../Page/고선명_우주망원경.md "wikilink").\[9\] ATLAST는 지름 8m의 큰 거울을 사용한 우주망원경이고, HDST는 지름 15m의 큰 거울을 사용한 우주망원경이다.\[10\] 이 둘을 가르는 건 주경의 크기이며,\[11\] 각각 발사비용 절하와 분해능, 집광력이 더 좋다는 장점을 가지고 있으나,\[12\]\[13\]\[14\] 단점은 그 반대이다.\[15\]\[16\]\[17\]
 
 ## 역사와 제작 배경
 
-2016년 NASA는 [플래그쉽 프로그램으로](https://ko.wikipedia.org/wiki/플래그쉽_프로그램 "wikilink") [HabEx](https://ko.wikipedia.org/wiki/HabEx "wikilink"), LUVOIR, [리닉스 X선 관측선](https://ko.wikipedia.org/wiki/리닉스_X선_관측선 "wikilink"), [OST를](https://ko.wikipedia.org/wiki/OST_\(우주망원경\) "wikilink") 최종후보로 택했다.\[18\] 2019년, 세부사항이 모두 결의되었으며, 현재 이 우주망원경을 만드는 천체물리학자들의 의견을 반영하면 [라그랑주 점](https://ko.wikipedia.org/wiki/라그랑주_점 "wikilink") 2에 위치할 것이다.\[19\] 특이사항으로 각 설계도에 따라 로켓이 다른데, ATHLAST는 [SLS](https://ko.wikipedia.org/wiki/SLS "wikilink")로 발사하지만, HDST는 [뉴 글렌으로](https://ko.wikipedia.org/wiki/뉴_글렌 "wikilink") 발사한다.\[20\]
+2016년 NASA는 [플래그쉽 프로그램으로](https://ko.wikipedia.org/wiki/플래그쉽_프로그램 "wikilink") [HabEx](../Page/HabEx.md "wikilink"), LUVOIR, [리닉스 X선 관측선](../Page/리닉스_X선_관측선.md "wikilink"), [OST를](../Page/OST_\(우주망원경\).md "wikilink") 최종후보로 택했다.\[18\] 2019년, 세부사항이 모두 결의되었으며, 현재 이 우주망원경을 만드는 천체물리학자들의 의견을 반영하면 [라그랑주 점](../Page/라그랑주_점.md "wikilink") 2에 위치할 것이다.\[19\] 특이사항으로 각 설계도에 따라 로켓이 다른데, ATHLAST는 [SLS](https://ko.wikipedia.org/wiki/SLS "wikilink")로 발사하지만, HDST는 [뉴 글렌으로](https://ko.wikipedia.org/wiki/뉴_글렌 "wikilink") 발사한다.\[20\]
 
 ## 장비
 
@@ -33,19 +33,19 @@
 
 ## 발사
 
-발사는 [케네디 우주 센터에서](https://ko.wikipedia.org/wiki/케네디_우주_센터 "wikilink") 2035년 [델타 IV 헤비로](https://ko.wikipedia.org/wiki/델타_IV_헤비 "wikilink") 할 예정이다.\[27\]\[28\]
+발사는 [케네디 우주 센터에서](../Page/케네디_우주_센터.md "wikilink") 2035년 [델타 IV 헤비로](../Page/델타_IV_헤비.md "wikilink") 할 예정이다.\[27\]\[28\]
 
 ## 지원, 개발, 투자
 
   - [NASA](https://ko.wikipedia.org/wiki/NASA "wikilink")
   - [GSFC](https://ko.wikipedia.org/wiki/GSFC "wikilink")
-  - [KSC](https://ko.wikipedia.org/wiki/케네디_우주_센터 "wikilink")
+  - [KSC](../Page/케네디_우주_센터.md "wikilink")
   - [AADS](https://ko.wikipedia.org/wiki/:en:Astronomy_and_Astrophysics_Decadal_Survey "wikilink")
 
 ## 함께 읽기
 
-  - [HDST](https://ko.wikipedia.org/wiki/고선명_우주망원경 "wikilink")
-  - [ATLAST](https://ko.wikipedia.org/wiki/ATLAST "wikilink")
+  - [HDST](../Page/고선명_우주망원경.md "wikilink")
+  - [ATLAST](../Page/ATLAST.md "wikilink")
 
 ## 각주
 

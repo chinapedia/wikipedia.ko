@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [OOH-AHH](https://ko.wikipedia.org/wiki/OOH-AHH).
 
 
-“**OOH-AHH하게**”는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [걸 그룹](https://ko.wikipedia.org/wiki/걸_그룹 "wikilink") [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink")의 첫 번째 미니 음반 《[THE STORY BEGINS](../Page/THE_STORY_BEGINS.md "wikilink")》의 타이틀곡이다.
+“**OOH-AHH하게**”는 [대한민국](../Page/대한민국.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink")의 첫 번째 미니 음반 《[THE STORY BEGINS](../Page/THE_STORY_BEGINS.md "wikilink")》의 타이틀곡이다.
 
 ## 차트
 
-| 차트 (2015–17)                                               | 최고순위 |
-| ---------------------------------------------------------- | ---- |
-| [필리핀](https://ko.wikipedia.org/wiki/필리핀 "wikilink")\[1\]   | 4    |
-| [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")\[2\] | 16   |
-|                                                            |      |
+| 차트 (2015–17)                            | 최고순위 |
+| --------------------------------------- | ---- |
+| [필리핀](../Page/필리핀.md "wikilink")\[1\]   | 4    |
+| [대한민국](../Page/대한민국.md "wikilink")\[2\] | 16   |
+|                                         |      |
 
 ## 각주
 

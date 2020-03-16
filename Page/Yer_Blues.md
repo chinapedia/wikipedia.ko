@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Yer Blues](https://ko.wikipedia.org/wiki/Yer_Blues).
 
 
-〈**Yer Blues**〉는 [1968년](https://ko.wikipedia.org/wiki/1968년 "wikilink") 발매된 [비틀즈](https://ko.wikipedia.org/wiki/비틀즈 "wikilink")의 앨범 《[The Beatles](https://ko.wikipedia.org/wiki/The_Beatles_\(음반\) "wikilink")》에 수록된 곡이다. 작사 및 작곡은 100% [존 레논이](https://ko.wikipedia.org/wiki/존_레논 "wikilink") 담당했다.
+〈**Yer Blues**〉는 [1968년](../Page/1968년.md "wikilink") 발매된 [비틀즈](../Page/비틀즈.md "wikilink")의 앨범 《[The Beatles](../Page/The_Beatles_\(음반\).md "wikilink")》에 수록된 곡이다. 작사 및 작곡은 100% [존 레논이](../Page/존_레논.md "wikilink") 담당했다.
 
 ## 배경 및 작곡
 
@@ -13,11 +13,11 @@
 
 ### [더티 맥](https://ko.wikipedia.org/wiki/더티_맥 "wikilink")
 
-1968년 [롤링 스톤스가](https://ko.wikipedia.org/wiki/롤링_스톤스 "wikilink") 출연한 TV 쇼 '로큰롤 서커스'에서 [존 레논](https://ko.wikipedia.org/wiki/존_레논 "wikilink") (리듬 기타/보컬)과 [에릭 클랩튼](https://ko.wikipedia.org/wiki/에릭_클랩튼 "wikilink") (기타), [키스 리처즈](https://ko.wikipedia.org/wiki/키스_리처즈 "wikilink") (베이스), [미치 미첼](https://ko.wikipedia.org/wiki/미치_미첼 "wikilink") (드럼)은 [더티 맥이라는](https://ko.wikipedia.org/wiki/더티_맥 "wikilink") 명의로 이 곡을 연주했다.
+1968년 [롤링 스톤스가](../Page/롤링_스톤스.md "wikilink") 출연한 TV 쇼 '로큰롤 서커스'에서 [존 레논](../Page/존_레논.md "wikilink") (리듬 기타/보컬)과 [에릭 클랩튼](../Page/에릭_클랩튼.md "wikilink") (기타), [키스 리처즈](../Page/키스_리처즈.md "wikilink") (베이스), [미치 미첼](../Page/미치_미첼.md "wikilink") (드럼)은 [더티 맥이라는](https://ko.wikipedia.org/wiki/더티_맥 "wikilink") 명의로 이 곡을 연주했다.
 
 ### [플라스틱 오노 밴드](https://ko.wikipedia.org/wiki/플라스틱_오노_밴드 "wikilink")
 
-1969년 9월 13일 캐나다 [온타리오주](https://ko.wikipedia.org/wiki/온타리오주 "wikilink") [토론토](https://ko.wikipedia.org/wiki/토론토 "wikilink")에서 열린 로큰롤 리바이벌 페스티발에서 [존 레논](https://ko.wikipedia.org/wiki/존_레논 "wikilink") (리듬 기타/보컬)과 [요코 오코](https://ko.wikipedia.org/wiki/오노_요코 "wikilink")(보컬)는 클라우스 부어만 (베이스), [앨런 화이트](https://ko.wikipedia.org/wiki/앨런_화이트_\(예스_드러머\) "wikilink") (드럼), [에릭 클랩튼](https://ko.wikipedia.org/wiki/에릭_클랩튼 "wikilink") (드럼)과 함께 [플라스틱 오노 밴드라는](https://ko.wikipedia.org/wiki/플라스틱_오노_밴드 "wikilink") 명의로 이 곡을 연주했다.
+1969년 9월 13일 캐나다 [온타리오주](https://ko.wikipedia.org/wiki/온타리오주 "wikilink") [토론토](../Page/토론토.md "wikilink")에서 열린 로큰롤 리바이벌 페스티발에서 [존 레논](../Page/존_레논.md "wikilink") (리듬 기타/보컬)과 [요코 오코](../Page/오노_요코.md "wikilink")(보컬)는 클라우스 부어만 (베이스), [앨런 화이트](https://ko.wikipedia.org/wiki/앨런_화이트_\(예스_드러머\) "wikilink") (드럼), [에릭 클랩튼](../Page/에릭_클랩튼.md "wikilink") (드럼)과 함께 [플라스틱 오노 밴드라는](https://ko.wikipedia.org/wiki/플라스틱_오노_밴드 "wikilink") 명의로 이 곡을 연주했다.
 
 ### [제프 힐리](https://ko.wikipedia.org/wiki/제프_힐리 "wikilink")
 
@@ -29,10 +29,10 @@
 
 ## 참여 인원
 
-  - [존 레논](https://ko.wikipedia.org/wiki/존_레논 "wikilink") – [리드 보컬](https://ko.wikipedia.org/wiki/리드_보컬 "wikilink"), [코러스](https://ko.wikipedia.org/wiki/코러스_\(대중음악\) "wikilink"), [리드 기타](https://ko.wikipedia.org/wiki/리드_기타 "wikilink")
-  - [폴 매카트니](https://ko.wikipedia.org/wiki/폴_매카트니 "wikilink") – [베이스](https://ko.wikipedia.org/wiki/베이스 "wikilink"), 고함
-  - [조지 해리슨](https://ko.wikipedia.org/wiki/조지_해리슨 "wikilink") – [리드 기타](https://ko.wikipedia.org/wiki/리드_기타 "wikilink")
-  - [링고 스타](https://ko.wikipedia.org/wiki/링고_스타 "wikilink") – [드럼](https://ko.wikipedia.org/wiki/드럼_세트 "wikilink")
+  - [존 레논](../Page/존_레논.md "wikilink") – [리드 보컬](https://ko.wikipedia.org/wiki/리드_보컬 "wikilink"), [코러스](https://ko.wikipedia.org/wiki/코러스_\(대중음악\) "wikilink"), [리드 기타](https://ko.wikipedia.org/wiki/리드_기타 "wikilink")
+  - [폴 매카트니](../Page/폴_매카트니.md "wikilink") – [베이스](https://ko.wikipedia.org/wiki/베이스 "wikilink"), 고함
+  - [조지 해리슨](../Page/조지_해리슨.md "wikilink") – [리드 기타](https://ko.wikipedia.org/wiki/리드_기타 "wikilink")
+  - [링고 스타](../Page/링고_스타.md "wikilink") – [드럼](https://ko.wikipedia.org/wiki/드럼_세트 "wikilink")
 
 ## 외부 링크
 

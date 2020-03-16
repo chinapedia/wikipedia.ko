@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [K  ](https://ko.wikipedia.org/wiki/K__).
 
 
-K리그 라운드 최우수선수는 2011년부터 [한국프로축구연맹](https://ko.wikipedia.org/wiki/한국프로축구연맹 "wikilink")이 매 라운드 최고의 활약을 펼친 선수를 선정하여 시상하는 상이다.\[1\]
+K리그 라운드 최우수선수는 2011년부터 [한국프로축구연맹](../Page/한국프로축구연맹.md "wikilink")이 매 라운드 최고의 활약을 펼친 선수를 선정하여 시상하는 상이다.\[1\]
 
 ## [K리그1](https://ko.wikipedia.org/wiki/K리그1 "wikilink") (2011–현재)
 
@@ -399,7 +399,7 @@ K리그 라운드 최우수선수는 2011년부터 [한국프로축구연맹](ht
 <tr class="even">
 <td><p>12</p></td>
 <td><p><a href="../Page/안데르송_로페스.md" title="wikilink">안델손</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/공격수" title="wikilink">공격수 (FW)</a></p></td>
+<td><p><a href="../Page/공격수.md" title="wikilink">공격수 (FW)</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">FC 서울</a></p></td>
 <td></td>
 </tr>
@@ -588,7 +588,7 @@ K리그 라운드 최우수선수는 2011년부터 [한국프로축구연맹](ht
 </tbody>
 </table>
 
-## [K리그2](https://ko.wikipedia.org/wiki/K리그2 "wikilink")
+## [K리그2](../Page/K리그2.md "wikilink")
 
 ## 각주
 

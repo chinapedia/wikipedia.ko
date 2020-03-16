@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MBC   2](https://ko.wikipedia.org/wiki/MBC___2).
 
 
-**안동MBC 즐거운 오후 2시**는 [안동MBC 표준FM](https://ko.wikipedia.org/wiki/안동문화방송 "wikilink") (AM 1017㎑, 표준FM 100.1㎒)에서 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [11월 15일부터](https://ko.wikipedia.org/wiki/11월_15일 "wikilink") [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [4월 4일까지](https://ko.wikipedia.org/wiki/4월_4일 "wikilink") 월요일 \~ 금요일 오후 2시 15분 \~ 4시까지 방송한 경상북도 북부 지역의 라디오 프로그램이다.
+**안동MBC 즐거운 오후 2시**는 [안동MBC 표준FM](../Page/안동문화방송.md "wikilink") (AM 1017㎑, 표준FM 100.1㎒)에서 [2010년](../Page/2010년.md "wikilink") [11월 15일부터](../Page/11월_15일.md "wikilink") [2014년](../Page/2014년.md "wikilink") [4월 4일까지](../Page/4월_4일.md "wikilink") 월요일 \~ 금요일 오후 2시 15분 \~ 4시까지 방송한 경상북도 북부 지역의 라디오 프로그램이다.
 
 ## 코너소개
 
@@ -44,19 +44,19 @@
 
 ### AM방송 (안동MBC 표준FM 포함)
 
-  - [뉴스 중계탑](https://ko.wikipedia.org/wiki/뉴스_중계탑 "wikilink") (평일) ([KBS안동 제1라디오](https://ko.wikipedia.org/wiki/KBS안동방송국 "wikilink"))
-  - [라디오 전국일주](https://ko.wikipedia.org/wiki/라디오_전국일주 "wikilink") (평일) ([KBS안동 제1라디오](https://ko.wikipedia.org/wiki/KBS안동방송국 "wikilink"))
+  - [뉴스 중계탑](../Page/뉴스_중계탑.md "wikilink") (평일) ([KBS안동 제1라디오](../Page/KBS안동방송국.md "wikilink"))
+  - [라디오 전국일주](../Page/라디오_전국일주.md "wikilink") (평일) ([KBS안동 제1라디오](../Page/KBS안동방송국.md "wikilink"))
   - 김광한의 라디오스타 ([대구CBS 표준FM](../Page/기독교대구방송.md "wikilink"))
 
 ### FM방송
 
-  - [두시의 데이트 박경림입니다](https://ko.wikipedia.org/wiki/두시의_데이트 "wikilink") ([안동MBC FM4U](https://ko.wikipedia.org/wiki/안동문화방송 "wikilink"))
-  - [두시탈출 컬투쇼](https://ko.wikipedia.org/wiki/두시탈출_컬투쇼 "wikilink") ([TBC Dream FM](../Page/TBC_\(대한민국의_방송사\).md "wikilink"))
+  - [두시의 데이트 박경림입니다](../Page/두시의_데이트.md "wikilink") ([안동MBC FM4U](../Page/안동문화방송.md "wikilink"))
+  - [두시탈출 컬투쇼](../Page/두시탈출_컬투쇼.md "wikilink") ([TBC Dream FM](../Page/TBC_\(대한민국의_방송사\).md "wikilink"))
 
 ## 같이 보기
 
-  - [안동문화방송](https://ko.wikipedia.org/wiki/안동문화방송 "wikilink")
-  - [MBC 표준FM](https://ko.wikipedia.org/wiki/MBC_표준FM "wikilink")
+  - [안동문화방송](../Page/안동문화방송.md "wikilink")
+  - [MBC 표준FM](../Page/MBC_표준FM.md "wikilink")
   - [박준형, 정경미의 2시만세](https://ko.wikipedia.org/wiki/두시만세 "wikilink")
 
 ## 외부 링크

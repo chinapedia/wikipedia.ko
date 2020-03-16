@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [! e ](https://ko.wikipedia.org/wiki/!_e_).
 
 
-《**와\! e 멋진세상**》은 [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [5월 19일부터](https://ko.wikipedia.org/wiki/5월_19일 "wikilink") [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [4월 20일까지](https://ko.wikipedia.org/wiki/4월_20일 "wikilink") [MBC에서](https://ko.wikipedia.org/wiki/문화방송 "wikilink") 방송되었던 새롭게 변모하고 있는 세계의 모습을 다양한 방식으로 접근해 우리들에게 필요한 변화의 계기를 함께 생각해보는 프로그램이다.
+《**와\! e 멋진세상**》은 [2000년](../Page/2000년.md "wikilink") [5월 19일부터](../Page/5월_19일.md "wikilink") [2005년](../Page/2005년.md "wikilink") [4월 20일까지](../Page/4월_20일.md "wikilink") [MBC에서](../Page/문화방송.md "wikilink") 방송되었던 새롭게 변모하고 있는 세계의 모습을 다양한 방식으로 접근해 우리들에게 필요한 변화의 계기를 함께 생각해보는 프로그램이다.
 
 ## 프로그램 소개
 
@@ -19,33 +19,33 @@
 
 ## 진행자
 
-  - [신동호](https://ko.wikipedia.org/wiki/신동호_\(아나운서\) "wikilink") 아나운서 (남)
-  - [최은경](https://ko.wikipedia.org/wiki/최은경_\(방송인\) "wikilink") 방송인 (여)
+  - [신동호](../Page/신동호_\(아나운서\).md "wikilink") 아나운서 (남)
+  - [최은경](../Page/최은경_\(방송인\).md "wikilink") 방송인 (여)
 
 ## 방송 시간
 
-| 방송 채널                                                                                                                                                                                                                                  | 방송 기간                                                                                                                                                                                                                                    | 방송 시간                                                                            |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| [MBC TV](https://ko.wikipedia.org/wiki/MBC_TV "wikilink")                                                                                                                                                                              | [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [5월 19일](https://ko.wikipedia.org/wiki/5월_19일 "wikilink") \~ [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [10월 27일](https://ko.wikipedia.org/wiki/10월_27일 "wikilink") | 매주 [금요일](https://ko.wikipedia.org/wiki/금요일 "wikilink") 저녁 7시 30분 \~ 8시 20분 (50분) |
-| [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [11월 1일](https://ko.wikipedia.org/wiki/11월_1일 "wikilink") \~ [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [3월 27일](https://ko.wikipedia.org/wiki/3월_27일 "wikilink") | 매주 [수요일](https://ko.wikipedia.org/wiki/수요일 "wikilink") 저녁 7시 25분 \~ 8시 20분 (55분)                                                                                                                                                         |                                                                                  |
-| [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [4월 3일](https://ko.wikipedia.org/wiki/4월_3일 "wikilink") \~ [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [4월 20일](https://ko.wikipedia.org/wiki/4월_20일 "wikilink")   | 매주 [수요일](https://ko.wikipedia.org/wiki/수요일 "wikilink") 저녁 7시 20분 \~ 8시 20분 (1시간)                                                                                                                                                         |                                                                                  |
+| 방송 채널                                                                                                                                                      | 방송 기간                                                                                                                                                        | 방송 시간                                                         |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------- |
+| [MBC TV](../Page/MBC_TV.md "wikilink")                                                                                                                     | [2000년](../Page/2000년.md "wikilink") [5월 19일](../Page/5월_19일.md "wikilink") \~ [2000년](../Page/2000년.md "wikilink") [10월 27일](../Page/10월_27일.md "wikilink") | 매주 [금요일](../Page/금요일.md "wikilink") 저녁 7시 30분 \~ 8시 20분 (50분) |
+| [2000년](../Page/2000년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") \~ [2002년](../Page/2002년.md "wikilink") [3월 27일](../Page/3월_27일.md "wikilink") | 매주 [수요일](../Page/수요일.md "wikilink") 저녁 7시 25분 \~ 8시 20분 (55분)                                                                                                |                                                               |
+| [2002년](../Page/2002년.md "wikilink") [4월 3일](../Page/4월_3일.md "wikilink") \~ [2005년](../Page/2005년.md "wikilink") [4월 20일](../Page/4월_20일.md "wikilink")   | 매주 [수요일](../Page/수요일.md "wikilink") 저녁 7시 20분 \~ 8시 20분 (1시간)                                                                                                |                                                               |
 
 ## 역대 진행자
 
-  - [손석희](https://ko.wikipedia.org/wiki/손석희 "wikilink")
-  - [김지호](https://ko.wikipedia.org/wiki/김지호_\(배우\) "wikilink")
-  - [정은아](https://ko.wikipedia.org/wiki/정은아 "wikilink")
-  - [이정현](https://ko.wikipedia.org/wiki/이정현_\(1980년\) "wikilink")
-  - [임창정](https://ko.wikipedia.org/wiki/임창정 "wikilink")
-  - [우희진](https://ko.wikipedia.org/wiki/우희진 "wikilink")
-  - [오승현](https://ko.wikipedia.org/wiki/오승현 "wikilink")
+  - [손석희](../Page/손석희.md "wikilink")
+  - [김지호](../Page/김지호_\(배우\).md "wikilink")
+  - [정은아](../Page/정은아.md "wikilink")
+  - [이정현](../Page/이정현_\(1980년\).md "wikilink")
+  - [임창정](../Page/임창정.md "wikilink")
+  - [우희진](../Page/우희진.md "wikilink")
+  - [오승현](../Page/오승현.md "wikilink")
   - [진](https://ko.wikipedia.org/wiki/진_\(1995년\) "wikilink"), [빈](https://ko.wikipedia.org/wiki/빈_\(남자_가수\) "wikilink")
-  - [최윤영](https://ko.wikipedia.org/wiki/최윤영_\(방송인\) "wikilink")
+  - [최윤영](../Page/최윤영_\(방송인\).md "wikilink")
 
 ## 패널
 
-  - [홍록기](https://ko.wikipedia.org/wiki/홍록기 "wikilink")
-  - [김효진](https://ko.wikipedia.org/wiki/김효진_\(희극인\) "wikilink")
+  - [홍록기](../Page/홍록기.md "wikilink")
+  - [김효진](../Page/김효진_\(희극인\).md "wikilink")
 
 ## 외부 링크
 

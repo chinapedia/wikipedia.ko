@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [ J. ](https://ko.wikipedia.org/wiki/_J._).
 
 
-**마이클 J. 크루거**(Michael J. Kruger)는 미국 [샬럿](https://ko.wikipedia.org/wiki/샬럿 "wikilink")에 있는 [리폼드 신학교에서](https://ko.wikipedia.org/wiki/리폼드_신학교 "wikilink") [신약성경](https://ko.wikipedia.org/wiki/신약성경 "wikilink")과 초대교회사 교수이며 총장이다. 그는 [미국 장로교회총회](https://ko.wikipedia.org/wiki/미국_장로교회 "wikilink")(PCA)에서 안수를 받았으며, 샬럿 도시에서 사역 목회를 하고 있다.\[1\]
+**마이클 J. 크루거**(Michael J. Kruger)는 미국 [샬럿](../Page/샬럿.md "wikilink")에 있는 [리폼드 신학교에서](../Page/리폼드_신학교.md "wikilink") [신약성경](../Page/신약성경.md "wikilink")과 초대교회사 교수이며 총장이다. 그는 [미국 장로교회총회](https://ko.wikipedia.org/wiki/미국_장로교회 "wikilink")(PCA)에서 안수를 받았으며, 샬럿 도시에서 사역 목회를 하고 있다.\[1\]
 
 ## 교육
 
-미국 노스캐롤나 대학을 졸업하고 캘리포니아에 있는 [웨스트민스터 신학교와](https://ko.wikipedia.org/wiki/웨스트민스터_신학교 "wikilink") [에든버러 대학교에서](https://ko.wikipedia.org/wiki/에든버러_대학교 "wikilink") 공부를 하였다. .
+미국 노스캐롤나 대학을 졸업하고 캘리포니아에 있는 [웨스트민스터 신학교와](../Page/웨스트민스터_신학교.md "wikilink") [에든버러 대학교에서](../Page/에든버러_대학교.md "wikilink") 공부를 하였다. .
 
 ### 사상
 

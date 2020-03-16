@@ -1,19 +1,19 @@
 > This article is converted from Wikipedia: [EXIT \(\)](https://ko.wikipedia.org/wiki/EXIT_\(\)).
 
 
-《**EXIT**》는 [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [4월 30일](https://ko.wikipedia.org/wiki/4월_30일 "wikilink"), [5월 1일](https://ko.wikipedia.org/wiki/5월_1일 "wikilink") 이틀간 [SBS](https://ko.wikipedia.org/wiki/SBS "wikilink")에서 방송되었던 [SBS 특집 드라마이다](../Page/SBS_특집드라마.md "wikilink").
+《**EXIT**》는 [2018년](../Page/2018년.md "wikilink") [4월 30일](../Page/4월_30일.md "wikilink"), [5월 1일](../Page/5월_1일.md "wikilink") 이틀간 [SBS](../Page/SBS.md "wikilink")에서 방송되었던 [SBS 특집 드라마이다](../Page/SBS_특집드라마.md "wikilink").
 
 ## 등장 인물
 
 ### 강수의 가족
 
-  - [최태준](https://ko.wikipedia.org/wiki/최태준 "wikilink") : 도강수(33세) 역 (아역 이시훈) - 캐피탈 일용직
-  - [우현](https://ko.wikipedia.org/wiki/우현_\(배우\) "wikilink") : 도정만(67세) 역 - 강수의 아버지
+  - [최태준](../Page/최태준.md "wikilink") : 도강수(33세) 역 (아역 이시훈) - 캐피탈 일용직
+  - [우현](../Page/우현_\(배우\).md "wikilink") : 도정만(67세) 역 - 강수의 아버지
   - [남기애](../Page/남기애.md "wikilink") : 이인숙(64세) 역 - 강수의 어머니
 
 ### 신성캐피탈 사람들
 
-  - [박호산](https://ko.wikipedia.org/wiki/박호산 "wikilink") : 황태복(48세) 역 - 사장
+  - [박호산](../Page/박호산.md "wikilink") : 황태복(48세) 역 - 사장
   - [김경남](../Page/김경남_\(1989년\).md "wikilink") : 홍기철(27세) 역 - 황 사장의 심복
   - [전수진](../Page/전수진.md "wikilink") : 지선영(28세) 역 - 배우 지망생
 
@@ -27,7 +27,7 @@
   - 오수
   - 김제열
   - [정현석](../Page/정현석_\(배우\).md "wikilink")
-  - [정강희](https://ko.wikipedia.org/wiki/정강희 "wikilink")
+  - [정강희](../Page/정강희.md "wikilink")
   - 황호진
   - 강준석
   - 이승진
@@ -36,23 +36,23 @@
 ### 특별출연
 
   - [장혁진](../Page/장혁진_\(배우\).md "wikilink")
-  - [조재룡](https://ko.wikipedia.org/wiki/조재룡_\(배우\) "wikilink")
+  - [조재룡](../Page/조재룡_\(배우\).md "wikilink")
 
 ## 시청률
 
-| [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") |
-| ------------------------------------------------------- |
-| 회차                                                      |
-| 대한민국(전국)                                                |
-| 제1회                                                     |
-| 제2회                                                     |
-| 제3회                                                     |
-| 제4회                                                     |
-|                                                         |
+| [2018년](../Page/2018년.md "wikilink") |
+| ------------------------------------ |
+| 회차                                   |
+| 대한민국(전국)                             |
+| 제1회                                  |
+| 제2회                                  |
+| 제3회                                  |
+| 제4회                                  |
+|                                      |
 
 ## 동시간대 드라마
 
-  - **[KBS 월화 미니시리즈](https://ko.wikipedia.org/wiki/한국방송공사_월화드라마 "wikilink")**
+  - **[KBS 월화 미니시리즈](../Page/한국방송공사_월화드라마.md "wikilink")**
 
 <!-- end list -->
 

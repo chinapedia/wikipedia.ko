@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [FIVB   ](https://ko.wikipedia.org/wiki/FIVB___).
 
 
-**FIVB 남자 배구 네이션스리그**는 개최 예정인 배구 국제 대회이다. [국제 배구 연맹](https://ko.wikipedia.org/wiki/국제_배구_연맹 "wikilink") (FIVB) 회원국의 남자 국가대표팀이 참가한다.
+**FIVB 남자 배구 네이션스리그**는 개최 예정인 배구 국제 대회이다. [국제 배구 연맹](../Page/국제_배구_연맹.md "wikilink") (FIVB) 회원국의 남자 국가대표팀이 참가한다.
 
-1990년부터 2017년까지 매년 개최된 남자배구 국제대회인 [월드리그를](https://ko.wikipedia.org/wiki/FIVB_배구_월드리그 "wikilink") 잇는 대회이다.
+1990년부터 2017년까지 매년 개최된 남자배구 국제대회인 [월드리그를](../Page/FIVB_배구_월드리그.md "wikilink") 잇는 대회이다.
 
 ## 개최지
 
@@ -76,7 +76,7 @@
 <td><p>2018년<br />
 <a href="https://ko.wikipedia.org/wiki/2018년_FIVB_남자_배구_네이션스리그" title="wikilink">상세</a></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/릴" title="wikilink">릴</a></p></td>
+<a href="../Page/릴.md" title="wikilink">릴</a></p></td>
 <td><p><strong><br />
 <a href="https://ko.wikipedia.org/wiki/러시아_남자_배구_국가대표팀" title="wikilink">러시아</a></strong></p></td>
 <td><p><strong>3–0</strong></p></td>
@@ -92,7 +92,7 @@
 <td><p>2019년<br />
 <a href="https://ko.wikipedia.org/wiki/2019년_FIVB_남자_배구_네이션스리그" title="wikilink">상세</a></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/시카고" title="wikilink">시카고</a></p></td>
+<a href="../Page/시카고.md" title="wikilink">시카고</a></p></td>
 <td><p><strong><br />
 <a href="https://ko.wikipedia.org/wiki/러시아_남자_배구_국가대표팀" title="wikilink">러시아</a></strong></p></td>
 <td><p><strong>3–1</strong></p></td>
@@ -108,7 +108,7 @@
 <td><p>2020년<br />
 <a href="https://ko.wikipedia.org/wiki/2020년_FIVB_남자_배구_네이션스리그" title="wikilink">상세</a></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/토리노" title="wikilink">토리노</a></p></td>
+<a href="../Page/토리노.md" title="wikilink">토리노</a></p></td>
 <td></td>
 <td></td>
 <td></td>

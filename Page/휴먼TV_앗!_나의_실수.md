@@ -1,29 +1,29 @@
 > This article is converted from Wikipedia: [TV !  ](https://ko.wikipedia.org/wiki/TV_!__).
 
 
-《**휴먼TV 앗\! 나의 실수**》는 [1998년 10월](https://ko.wikipedia.org/wiki/1998년_10월 "wikilink") 25일부터 [1999년 5월](https://ko.wikipedia.org/wiki/1999년_5월 "wikilink") 9일까지 [문화방송에서](https://ko.wikipedia.org/wiki/MBC_TV "wikilink") 방영되었던 시청자들의 황당한 실수 사건을 엿보는 프로그램이다.
+《**휴먼TV 앗\! 나의 실수**》는 [1998년 10월](https://ko.wikipedia.org/wiki/1998년_10월 "wikilink") 25일부터 [1999년 5월](https://ko.wikipedia.org/wiki/1999년_5월 "wikilink") 9일까지 [문화방송에서](../Page/MBC_TV.md "wikilink") 방영되었던 시청자들의 황당한 실수 사건을 엿보는 프로그램이다.
 
 ## 방송 시간
 
-| 방송 채널                                                                                                                                                                                                                                | 방송 기간                                                                                                                                                                                                                                    | 방송 시간                                                                  | 방송 분량 |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ----- |
-| [MBC TV](https://ko.wikipedia.org/wiki/MBC_TV "wikilink")                                                                                                                                                                            | [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") [10월 25일](https://ko.wikipedia.org/wiki/10월_25일 "wikilink") \~ [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [2월 28일](https://ko.wikipedia.org/wiki/2월_28일 "wikilink") | 매주 [일요일](https://ko.wikipedia.org/wiki/일요일 "wikilink") 저녁 6시 \~ 6시 50분 | 50분   |
-| [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [3월 6일](https://ko.wikipedia.org/wiki/3월_6일 "wikilink") \~ [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [3월 28일](https://ko.wikipedia.org/wiki/3월_28일 "wikilink") | 매주 [일요일](https://ko.wikipedia.org/wiki/일요일 "wikilink") 저녁 5시 50분 \~ 6시 40분                                                                                                                                                               |                                                                        |       |
-| [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [4월 4일](https://ko.wikipedia.org/wiki/4월_4일 "wikilink") \~ [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [5월 9일](https://ko.wikipedia.org/wiki/5월_9일 "wikilink")   | 매주 [일요일](https://ko.wikipedia.org/wiki/일요일 "wikilink") 저녁 6시 \~ 6시 50분                                                                                                                                                                   |                                                                        |       |
+| 방송 채널                                                                                                                                                    | 방송 기간                                                                                                                                                        | 방송 시간                                               | 방송 분량 |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------- | ----- |
+| [MBC TV](../Page/MBC_TV.md "wikilink")                                                                                                                   | [1998년](../Page/1998년.md "wikilink") [10월 25일](../Page/10월_25일.md "wikilink") \~ [1999년](../Page/1999년.md "wikilink") [2월 28일](../Page/2월_28일.md "wikilink") | 매주 [일요일](../Page/일요일.md "wikilink") 저녁 6시 \~ 6시 50분 | 50분   |
+| [1999년](../Page/1999년.md "wikilink") [3월 6일](../Page/3월_6일.md "wikilink") \~ [1999년](../Page/1999년.md "wikilink") [3월 28일](../Page/3월_28일.md "wikilink") | 매주 [일요일](../Page/일요일.md "wikilink") 저녁 5시 50분 \~ 6시 40분                                                                                                      |                                                     |       |
+| [1999년](../Page/1999년.md "wikilink") [4월 4일](../Page/4월_4일.md "wikilink") \~ [1999년](../Page/1999년.md "wikilink") [5월 9일](../Page/5월_9일.md "wikilink")   | 매주 [일요일](../Page/일요일.md "wikilink") 저녁 6시 \~ 6시 50분                                                                                                          |                                                     |       |
 
 ## 진행자
 
-  - [서경석](https://ko.wikipedia.org/wiki/서경석_\(희극인\) "wikilink")
-  - [김효진](https://ko.wikipedia.org/wiki/김효진_\(희극인\) "wikilink")
+  - [서경석](../Page/서경석_\(희극인\).md "wikilink")
+  - [김효진](../Page/김효진_\(희극인\).md "wikilink")
 
 ## 패널
 
-  - [신문선](https://ko.wikipedia.org/wiki/신문선 "wikilink")
+  - [신문선](../Page/신문선.md "wikilink")
   - 안문현
   - [이윤철](../Page/이윤철_\(아나운서\).md "wikilink")
-  - [홍석천](https://ko.wikipedia.org/wiki/홍석천 "wikilink")
-  - [김자옥](https://ko.wikipedia.org/wiki/김자옥 "wikilink")
-  - [김완태](https://ko.wikipedia.org/wiki/김완태_\(아나운서\) "wikilink")
+  - [홍석천](../Page/홍석천.md "wikilink")
+  - [김자옥](../Page/김자옥.md "wikilink")
+  - [김완태](../Page/김완태_\(아나운서\).md "wikilink")
 
 ## 같이 보기
 

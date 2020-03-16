@@ -41,19 +41,19 @@
 
 ## 발사
 
-발사는 [케네디 우주 센터에서](https://ko.wikipedia.org/wiki/케네디_우주_센터 "wikilink") 2035년 [델타 IV 헤비로](https://ko.wikipedia.org/wiki/델타_IV_헤비 "wikilink") 할 예정이다.\[7\] 발사할 때 주경이 매우 커서 로켓에 접어서 넣는다.\[8\]\[9\]
+발사는 [케네디 우주 센터에서](../Page/케네디_우주_센터.md "wikilink") 2035년 [델타 IV 헤비로](../Page/델타_IV_헤비.md "wikilink") 할 예정이다.\[7\] 발사할 때 주경이 매우 커서 로켓에 접어서 넣는다.\[8\]\[9\]
 
 ## 지원, 개발, 투자
 
   - [NASA](https://ko.wikipedia.org/wiki/NASA "wikilink")
-  - [케네디 우주 센터](https://ko.wikipedia.org/wiki/케네디_우주_센터 "wikilink")
+  - [케네디 우주 센터](../Page/케네디_우주_센터.md "wikilink")
   - [고다드 우주 비행 센터](https://ko.wikipedia.org/wiki/고다드_우주_비행_센터 "wikilink")
   - [AADS](https://ko.wikipedia.org/wiki/:en:Astronomy_and_Astrophysics_Decadal_Survey "wikilink")
 
 ## 함께 읽기
 
   - [LUVOIR](../Page/LUVOIR.md "wikilink")
-  - [HDST](https://ko.wikipedia.org/wiki/고선명_우주망원경 "wikilink")
+  - [HDST](../Page/고선명_우주망원경.md "wikilink")
 
 ## 각주
 

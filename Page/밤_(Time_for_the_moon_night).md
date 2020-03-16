@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ \(Time for the moon night\)](https://ko.wikipedia.org/wiki/_\(Time_for_the_moon_night\)).
 
 
-〈**밤 (Time for the moon night)**〉(밤 (타임 포 더 문 나이트))은 2018년 4월 30일 발매된 [여자친구](https://ko.wikipedia.org/wiki/여자친구 "wikilink")의 미니 [음반](https://ko.wikipedia.org/wiki/음반 "wikilink") 《[Time for the moon night](../Page/Time_for_the_moon_night.md "wikilink")》의 타이틀 곡이다. 이 곡은 [쏘스뮤직](../Page/쏘스뮤직.md "wikilink")에 소속된 프로듀서 노주환과 도로시컴퍼니(Dorothy Company) 소속 작곡가인 이원종이 만들었는데\[1\]\[2\], 여자친구 최초로 이기용배가 담당하지 않은 타이틀 곡이기도 하다.\[3\] 음반 발매에 앞서 4월 23일, 가사가 미리 공개되었다.\[4\]
+〈**밤 (Time for the moon night)**〉(밤 (타임 포 더 문 나이트))은 2018년 4월 30일 발매된 [여자친구](https://ko.wikipedia.org/wiki/여자친구 "wikilink")의 미니 [음반](../Page/음반.md "wikilink") 《[Time for the moon night](../Page/Time_for_the_moon_night.md "wikilink")》의 타이틀 곡이다. 이 곡은 [쏘스뮤직](../Page/쏘스뮤직.md "wikilink")에 소속된 프로듀서 노주환과 도로시컴퍼니(Dorothy Company) 소속 작곡가인 이원종이 만들었는데\[1\]\[2\], 여자친구 최초로 이기용배가 담당하지 않은 타이틀 곡이기도 하다.\[3\] 음반 발매에 앞서 4월 23일, 가사가 미리 공개되었다.\[4\]
 
 ## 일본어 버전
 
@@ -21,7 +21,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>대한민국 (<a href="https://ko.wikipedia.org/wiki/가온_디지털_차트" title="wikilink">가온 디지털 차트</a>)</p></td>
+<td><p>대한민국 (<a href="../Page/가온_디지털_차트.md" title="wikilink">가온 디지털 차트</a>)</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
