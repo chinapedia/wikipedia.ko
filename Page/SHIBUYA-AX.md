@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SHIBUYA-AX](https://ko.wikipedia.org/wiki/SHIBUYA-AX).
 
 
-**SHIBUYA-AX**는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") [도쿄도](https://ko.wikipedia.org/wiki/도쿄도 "wikilink") [시부야 구에](https://ko.wikipedia.org/wiki/시부야_구 "wikilink") 위치한 [대중음악](../Page/대중음악.md "wikilink") 전문 공연장이다. 스탠딩 기준으로 1,697명\[1\]\[2\], 좌석을 기준으로 757명을 수용할 수 있다.\[3\] [덴츠](https://ko.wikipedia.org/wiki/덴츠 "wikilink"). [니혼 TV 방송망이](https://ko.wikipedia.org/wiki/니혼_TV_방송망 "wikilink") 사업에 참가했다.
+**SHIBUYA-AX**는 [일본](../Page/일본.md "wikilink") [도쿄도](../Page/도쿄도.md "wikilink") [시부야 구에](https://ko.wikipedia.org/wiki/시부야_구 "wikilink") 위치한 [대중음악](../Page/대중음악.md "wikilink") 전문 공연장이다. 스탠딩 기준으로 1,697명\[1\]\[2\], 좌석을 기준으로 757명을 수용할 수 있다.\[3\] [덴츠](https://ko.wikipedia.org/wiki/덴츠 "wikilink"). [니혼 TV 방송망이](https://ko.wikipedia.org/wiki/니혼_TV_방송망 "wikilink") 사업에 참가했다.
 
 ## 각주
 

@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Tcpdump](https://ko.wikipedia.org/wiki/Tcpdump).
 
 
-**tcpdump**는 [명령 줄에서](../Page/명령_줄_인터페이스.md "wikilink") 실행하는 일반적인 [패킷 가로채기](https://ko.wikipedia.org/wiki/패킷_가로채기 "wikilink") 소프트웨어이다. 사용자가 [TCP/IP뿐](https://ko.wikipedia.org/wiki/인터넷_프로토콜_스위트 "wikilink") 아니라, 컴퓨터에 부착된 [네트워크를](https://ko.wikipedia.org/wiki/컴퓨터_네트워크 "wikilink") 통해 송수신되는 기타 패킷을 가로채고 표시할 수 있게 도와 준다. [BSD 허가서를](https://ko.wikipedia.org/wiki/BSD_허가서 "wikilink") 통해 배포되는\[1\] tcpdump는 [자유 소프트웨어이다](https://ko.wikipedia.org/wiki/자유_소프트웨어 "wikilink").
+**tcpdump**는 [명령 줄에서](../Page/명령_줄_인터페이스.md "wikilink") 실행하는 일반적인 [패킷 가로채기](https://ko.wikipedia.org/wiki/패킷_가로채기 "wikilink") 소프트웨어이다. 사용자가 [TCP/IP뿐](../Page/인터넷_프로토콜_스위트.md "wikilink") 아니라, 컴퓨터에 부착된 [네트워크를](../Page/컴퓨터_네트워크.md "wikilink") 통해 송수신되는 기타 패킷을 가로채고 표시할 수 있게 도와 준다. [BSD 허가서를](../Page/BSD_허가서.md "wikilink") 통해 배포되는\[1\] tcpdump는 [자유 소프트웨어이다](../Page/자유_소프트웨어.md "wikilink").
 
-tcpdump는 [리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink"), [솔라리스](https://ko.wikipedia.org/wiki/솔라리스_\(운영_체제\) "wikilink"), [BSD](https://ko.wikipedia.org/wiki/BSD "wikilink"), [맥 OS X](https://ko.wikipedia.org/wiki/맥_OS_X "wikilink"), [HP-UX](../Page/HP-UX.md "wikilink"), [AIX](https://ko.wikipedia.org/wiki/AIX_\(운영_체제\) "wikilink") 따위의 대부분의 [유닉스 계열](../Page/유닉스_계열.md "wikilink") [운영 체제에서](https://ko.wikipedia.org/wiki/운영_체제 "wikilink") 동작하며 여기서 [libpcap](https://ko.wikipedia.org/wiki/libpcap "wikilink") 라이브러리를 사용하여 패킷을 포획한다. [윈도용](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") tcpdump 이식판으로는 WinDump가 있으며, 이는 libpcap의 윈도 이식판인 [WinPcap을](../Page/Pcap.md "wikilink") 이용한다.
+tcpdump는 [리눅스](../Page/리눅스.md "wikilink"), [솔라리스](../Page/솔라리스_\(운영_체제\).md "wikilink"), [BSD](../Page/BSD.md "wikilink"), [맥 OS X](https://ko.wikipedia.org/wiki/맥_OS_X "wikilink"), [HP-UX](../Page/HP-UX.md "wikilink"), [AIX](https://ko.wikipedia.org/wiki/AIX_\(운영_체제\) "wikilink") 따위의 대부분의 [유닉스 계열](../Page/유닉스_계열.md "wikilink") [운영 체제에서](../Page/운영_체제.md "wikilink") 동작하며 여기서 [libpcap](https://ko.wikipedia.org/wiki/libpcap "wikilink") 라이브러리를 사용하여 패킷을 포획한다. [윈도용](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") tcpdump 이식판으로는 WinDump가 있으며, 이는 libpcap의 윈도 이식판인 [WinPcap을](../Page/Pcap.md "wikilink") 이용한다.
 
 ## 매개변수
 

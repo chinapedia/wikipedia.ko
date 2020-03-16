@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WhatsApp](https://ko.wikipedia.org/wiki/WhatsApp).
 
 
-**WhatsApp**(왓츠앱)은 [페이스북](../Page/페이스북.md "wikilink")이 운영하는 [인스턴트 메신저의](https://ko.wikipedia.org/wiki/인스턴트_메신저 "wikilink") 한 종류로, [윈도폰 7](https://ko.wikipedia.org/wiki/윈도폰_7 "wikilink"), [심비안 OS](https://ko.wikipedia.org/wiki/심비안_OS "wikilink"), [블랙베리](https://ko.wikipedia.org/wiki/블랙베리_\(스마트폰\) "wikilink"), [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink"), [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink")에서 지원된다. 2009년 얀 코움(Jan Koum)과 브라이언 액턴(Brian Acton)이 공동 창업했고, 2014년 2월 19일 페이스북에 약 200억 달러에 인수되었다. 2016년 2월 전 세계 사용자 수가 10억명을 돌파했다.
+**WhatsApp**(왓츠앱)은 [페이스북](../Page/페이스북.md "wikilink")이 운영하는 [인스턴트 메신저의](../Page/인스턴트_메신저.md "wikilink") 한 종류로, [윈도폰 7](https://ko.wikipedia.org/wiki/윈도폰_7 "wikilink"), [심비안 OS](../Page/심비안_OS.md "wikilink"), [블랙베리](../Page/블랙베리_\(스마트폰\).md "wikilink"), [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink"), [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink")에서 지원된다. 2009년 얀 코움(Jan Koum)과 브라이언 액턴(Brian Acton)이 공동 창업했고, 2014년 2월 19일 페이스북에 약 200억 달러에 인수되었다. 2016년 2월 전 세계 사용자 수가 10억명을 돌파했다.
 
 ## 외부 링크
 

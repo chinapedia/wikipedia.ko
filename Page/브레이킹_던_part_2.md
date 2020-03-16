@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  part 2](https://ko.wikipedia.org/wiki/__part_2).
 
 
-**브레이킹 던 part 2**(The Twilight Saga part 2)는 2012년 개봉한 영화로, [스테프니 메이어의](https://ko.wikipedia.org/wiki/스테프니_메이어 "wikilink") 소설 [브레이킹 던을](https://ko.wikipedia.org/wiki/브레이킹_던 "wikilink") 바탕으로 만든 영화이다. 《[브레이킹 던 part 1](../Page/브레이킹_던_part_1.md "wikilink")》의 후편이다.
+**브레이킹 던 part 2**(The Twilight Saga part 2)는 2012년 개봉한 영화로, [스테프니 메이어의](../Page/스테프니_메이어.md "wikilink") 소설 [브레이킹 던을](https://ko.wikipedia.org/wiki/브레이킹_던 "wikilink") 바탕으로 만든 영화이다. 《[브레이킹 던 part 1](../Page/브레이킹_던_part_1.md "wikilink")》의 후편이다.
 
 ## 스토리
 
@@ -9,17 +9,17 @@
 
 ### 주연
 
-  - [크리스틴 스튜어트](https://ko.wikipedia.org/wiki/크리스틴_스튜어트 "wikilink")
+  - [크리스틴 스튜어트](../Page/크리스틴_스튜어트.md "wikilink")
   - [로버트 패틴슨](https://ko.wikipedia.org/wiki/로버트_패틴슨 "wikilink")
   - [테일러 로트너](../Page/테일러_로트너.md "wikilink")
-  - [다코타 패닝](https://ko.wikipedia.org/wiki/다코타_패닝 "wikilink")
-  - [애슐리 그린](https://ko.wikipedia.org/wiki/애슐리_그린 "wikilink")
+  - [다코타 패닝](../Page/다코타_패닝.md "wikilink")
+  - [애슐리 그린](../Page/애슐리_그린.md "wikilink")
   - [매기 그레이스](../Page/매기_그레이스.md "wikilink")
 
 ### 조연
 
   - [마이클 쉰](https://ko.wikipedia.org/wiki/마이클_쉰 "wikilink")
-  - [니키 리드](https://ko.wikipedia.org/wiki/니키_리드 "wikilink")
+  - [니키 리드](../Page/니키_리드.md "wikilink")
   - [안나 켄드릭](https://ko.wikipedia.org/wiki/안나_켄드릭 "wikilink")
   - [잭슨 라스본](https://ko.wikipedia.org/wiki/잭슨_라스본 "wikilink")
   - [빌리 버크](https://ko.wikipedia.org/wiki/빌리_버크 "wikilink")
@@ -30,8 +30,8 @@
   - [피터 파시넬리](https://ko.wikipedia.org/wiki/피터_파시넬리 "wikilink")
   - [엘리자베스 리저](https://ko.wikipedia.org/wiki/엘리자베스_리저 "wikilink")
   - [조 앤더슨](https://ko.wikipedia.org/wiki/조_앤더슨 "wikilink")
-  - [매켄지 포이](https://ko.wikipedia.org/wiki/매켄지_포이 "wikilink")
-  - [라미 말렉](https://ko.wikipedia.org/wiki/라미_말렉 "wikilink")
+  - [매켄지 포이](../Page/매켄지_포이.md "wikilink")
+  - [라미 말렉](../Page/라미_말렉.md "wikilink")
   - [미아 마에스트로](https://ko.wikipedia.org/wiki/미아_마에스트로 "wikilink")
   - [캐머런 브라이트](https://ko.wikipedia.org/wiki/캐머런_브라이트 "wikilink")
   - [미안나 버링](https://ko.wikipedia.org/wiki/미안나_버링 "wikilink")

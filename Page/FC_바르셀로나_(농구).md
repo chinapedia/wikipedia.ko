@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FC  \(\)](https://ko.wikipedia.org/wiki/FC__\(\)).
 
 
-**FC 바르셀로나 리갈**(FC Barcelona Regal)은 [스페인](https://ko.wikipedia.org/wiki/스페인 "wikilink") [바르셀로나](https://ko.wikipedia.org/wiki/바르셀로나 "wikilink")를 연고로 하는 프로농구단이다.
+**FC 바르셀로나 리갈**(FC Barcelona Regal)은 [스페인](../Page/스페인.md "wikilink") [바르셀로나](https://ko.wikipedia.org/wiki/바르셀로나 "wikilink")를 연고로 하는 프로농구단이다.
 
 ## 같이 보기
 

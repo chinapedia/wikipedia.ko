@@ -1,21 +1,21 @@
 > This article is converted from Wikipedia: [ATARU](https://ko.wikipedia.org/wiki/ATARU).
 
 
-《**ATARU**》(아타루)는, [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [4월 15일부터](https://ko.wikipedia.org/wiki/4월_15일 "wikilink") [6월 24일까지](https://ko.wikipedia.org/wiki/6월_24일 "wikilink") [TBS](https://ko.wikipedia.org/wiki/도쿄_방송_홀딩스 "wikilink") 계열의 《[일요극장](https://ko.wikipedia.org/wiki/일요극장 "wikilink")》(21:00 \~ 21:54〈[JST](https://ko.wikipedia.org/wiki/일본_표준시 "wikilink")〉)에서 방송된 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink"). [나카이 마사히로](https://ko.wikipedia.org/wiki/나카이_마사히로 "wikilink") 주연. 사쿠라이 타케하루 각본에 의한 오리지널 작품.
+《**ATARU**》(아타루)는, [2012년](../Page/2012년.md "wikilink") [4월 15일부터](../Page/4월_15일.md "wikilink") [6월 24일까지](../Page/6월_24일.md "wikilink") [TBS](../Page/도쿄_방송_홀딩스.md "wikilink") 계열의 《[일요극장](../Page/일요극장.md "wikilink")》(21:00 \~ 21:54〈[JST](../Page/일본_표준시.md "wikilink")〉)에서 방송된 [일본](../Page/일본.md "wikilink")의 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink"). [나카이 마사히로](../Page/나카이_마사히로.md "wikilink") 주연. 사쿠라이 타케하루 각본에 의한 오리지널 작품.
 
-[2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [1월 6일에](https://ko.wikipedia.org/wiki/1월_6일 "wikilink") 속편인 스페셜 드라마 《**ATARU 스페셜\~뉴욕으로부터의 도전장\!\!\~**》이 방송되었고, 2013년 [9월 14일에](https://ko.wikipedia.org/wiki/9월_14일 "wikilink") 영화화 작품 《[극장판 ATARU THE FIRST LOVE & THE LAST KILL](https://ko.wikipedia.org/wiki/극장판_ATARU_THE_FIRST_LOVE_&_THE_LAST_KILL "wikilink")》이 개봉되었다.
+[2013년](../Page/2013년.md "wikilink") [1월 6일에](../Page/1월_6일.md "wikilink") 속편인 스페셜 드라마 《**ATARU 스페셜\~뉴욕으로부터의 도전장\!\!\~**》이 방송되었고, 2013년 [9월 14일에](../Page/9월_14일.md "wikilink") 영화화 작품 《[극장판 ATARU THE FIRST LOVE & THE LAST KILL](https://ko.wikipedia.org/wiki/극장판_ATARU_THE_FIRST_LOVE_&_THE_LAST_KILL "wikilink")》이 개봉되었다.
 
 ## 개요
 
 [서번트 증후군으로](../Page/서번트_증후군.md "wikilink") 특수한 능력을 숨긴 정체 불명의 청년·아타루, 사건 현장에서 경찰이 찾아낼 수 없었던 증거를 눈치채며 사건 해결의 실마리가 되는 키워드를 발표해, 그를 둘러싸는 형사들이 그 말을 힌트로 삼아 사건의 진상을 추궁해 가는 모습을 그린다. 1화 완결의 스토리로, 아타루의 태생도 서서히 밝혀 가는 구성이 된다.
 
-각본은 《파트너》, 《과수연의 여자》를 다루어 온 사쿠라이 타케하루. 주연의 [나카이 마사히로는](https://ko.wikipedia.org/wiki/나카이_마사히로 "wikilink") 2009년 후지 TV 《결혼 활동\!》 이래 3년 만의 연속 드라마 주연이 되어, TBS의 드라마 주연은 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink")의 《[모래그릇](https://ko.wikipedia.org/wiki/모래그릇#드라마 "wikilink")》 이래 8년 만이 된다. 촬영은 3월 상순에 개시.또, 《일요극장》에서의 완전 오리지널 작품의 방송은, [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink")도 동기(2011년 1월 \~ 3월)에 역시 SMAP의 멤버인 [쿠사나기 츠요시가](https://ko.wikipedia.org/wiki/쿠사나기_츠요시 "wikilink") 출연한 《[겨울의 벚꽃](../Page/겨울의_벚꽃.md "wikilink")》 이래 다섯 작품 만이 된다.
+각본은 《파트너》, 《과수연의 여자》를 다루어 온 사쿠라이 타케하루. 주연의 [나카이 마사히로는](../Page/나카이_마사히로.md "wikilink") 2009년 후지 TV 《결혼 활동\!》 이래 3년 만의 연속 드라마 주연이 되어, TBS의 드라마 주연은 [2004년](../Page/2004년.md "wikilink")의 《[모래그릇](https://ko.wikipedia.org/wiki/모래그릇#드라마 "wikilink")》 이래 8년 만이 된다. 촬영은 3월 상순에 개시.또, 《일요극장》에서의 완전 오리지널 작품의 방송은, [2010년](../Page/2010년.md "wikilink")도 동기(2011년 1월 \~ 3월)에 역시 SMAP의 멤버인 [쿠사나기 츠요시가](../Page/쿠사나기_츠요시.md "wikilink") 출연한 《[겨울의 벚꽃](../Page/겨울의_벚꽃.md "wikilink")》 이래 다섯 작품 만이 된다.
 
 ## 등장인물
 
 ### 주요 인물
 
-  - 아타루/쵸코자이 - [나카이 마사히로](https://ko.wikipedia.org/wiki/나카이_마사히로 "wikilink") (유년시절：후지모토 히류)
+  - 아타루/쵸코자이 - [나카이 마사히로](../Page/나카이_마사히로.md "wikilink") (유년시절：후지모토 히류)
     래리와 함께 미국에서 온 [서번트 증후군의](../Page/서번트_증후군.md "wikilink") 청년. 래리에게는 〈아타루〉라고 불리고 있지만, 본인은 〈쵸코자이〉라고 자칭하고 있다.
     현장에 있는 것이나 흔적을 본 것만으로, 그 물건의 생산국 또는 성분을 알아 맞추거나 하는 등 높은 통찰력·흩어지는 사진을 한번 본 것만으로도 기억하는 높은 기억력을 가져, 그것을 전할 때는 힌트인 듯한 키워드로서 발표한다. 또 그 단어와 관련있는 물건을 직접 구입하여 전달 수 있다.
     상대의 가르침이 전해지면 "업데이트 되었습니다"라며 그 상황에 대응할 수 있도록 이해하지만, 그러기 위해서는 상대가 같은 것을 "3회" 반복해야만한다. 싫은 것이 강요되면 뒤로 돌거나 상대를 팔꿈치로 가격 또는 본인이나 상대의 팔을 깨문다. 뭔가를 생각할 때 뺨에 손을 가져다 대는 버릇이있다. 사건의 수사를 시작할 때에는 "mission accepted"라고 중얼 거리고, 해결하면 "mission accomplished"라고 말하고 눈물을 흘린다.
@@ -107,7 +107,7 @@
 
 ### CASE04
 
-  - 키미하라 타쿠로 - [히라오카 유타](https://ko.wikipedia.org/wiki/히라오카_유타 "wikilink")
+  - 키미하라 타쿠로 - [히라오카 유타](../Page/히라오카_유타.md "wikilink")
     〈사고 과학 감정사〉 사고 감정계. 민간의 사고 감정인. 리코의 의뢰로 하시다의 사망 사건의 감정을 담당하지만, 리코의 뜻과 반대로 사건을 사고나 자살이라고 단정한다.
     재판에서 변호측의 감정인으로서 경찰의 판단을 뒤집은 실적이 있어, 경찰을 깔보는 태도를 취해, 마이코를 아마추어라고 일축한다.
   - 스즈하라 리코 - [키무라 후미노](../Page/키무라_후미노.md "wikilink")
@@ -146,7 +146,7 @@
     〈植哲 하이츠〉의 거주자.
   - 이시미네 카츠오 - 카오 오사무
     〈植哲 하이츠〉의 주인.
-  - 히가시 타이치 - [이시다 타쿠야](https://ko.wikipedia.org/wiki/이시다_타쿠야 "wikilink")
+  - 히가시 타이치 - [이시다 타쿠야](../Page/이시다_타쿠야.md "wikilink")
     〈植哲 하이츠〉의 거주자.
   - ROLLY (본인)
     무허가로 노상 라이브를 감행 해 경시청에 보도되었다.
@@ -201,21 +201,21 @@
 
 ### LAST CASE
 
-  - 보석점 주인 - [모리타 카즈요시](https://ko.wikipedia.org/wiki/타모리 "wikilink")
+  - 보석점 주인 - [모리타 카즈요시](../Page/타모리.md "wikilink")
     마리코, 타츠오가 결혼 반지를 산 보석점 〈키무라 귀금속점〉의 주인.
 
 ## 특별편
 
-[2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [1월 6일에](https://ko.wikipedia.org/wiki/1월_6일 "wikilink") 정월기의 SP 드라마로 《**ATARU 스페셜\~뉴욕으로부터의 도전장\!\!\~**》이 오후 7시부터 4시간에 걸쳐 방송되었다.
+[2013년](../Page/2013년.md "wikilink") [1월 6일에](../Page/1월_6일.md "wikilink") 정월기의 SP 드라마로 《**ATARU 스페셜\~뉴욕으로부터의 도전장\!\!\~**》이 오후 7시부터 4시간에 걸쳐 방송되었다.
 
-연속 드라마판의 속편이며, 전작에선 이름만 등장한 쵸코자이의 남동생 타스쿠와 쵸코자이와 함께 훈련을 받아 같은 능력을 가지는 적·마도카가 등장, 마도카를 [호리키타 마키가](https://ko.wikipedia.org/wiki/호리키타_마키 "wikilink"), 타스쿠를 [오카다 마사키가](https://ko.wikipedia.org/wiki/오카다_마사키 "wikilink") 연기한다. 또 [미츠무네 카오루는](../Page/미츠무네_카오루.md "wikilink") 출연하지 않고\[1\], 본편에서는 [시마자키 하루카](../Page/시마자키_하루카.md "wikilink")([AKB48](../Page/AKB48.md "wikilink"))가 같은 감식과 기동 감식계 역으로서 출연한다\[2\]. 테마는 〈가족이나 동료의 정〉.
+연속 드라마판의 속편이며, 전작에선 이름만 등장한 쵸코자이의 남동생 타스쿠와 쵸코자이와 함께 훈련을 받아 같은 능력을 가지는 적·마도카가 등장, 마도카를 [호리키타 마키가](../Page/호리키타_마키.md "wikilink"), 타스쿠를 [오카다 마사키가](../Page/오카다_마사키.md "wikilink") 연기한다. 또 [미츠무네 카오루는](../Page/미츠무네_카오루.md "wikilink") 출연하지 않고\[1\], 본편에서는 [시마자키 하루카](../Page/시마자키_하루카.md "wikilink")([AKB48](../Page/AKB48.md "wikilink"))가 같은 감식과 기동 감식계 역으로서 출연한다\[2\]. 테마는 〈가족이나 동료의 정〉.
 
 이야기는 2시간씩 2부 구성이 되고 있어 오후 7시부터의 제1부는 《버려진 사건 전문 탐정사무소 이야기\~〈아난 코타군 유괴 사건〉에 쵸코자이의 동료들이 도전한다\!\!\~》가, 제2부는 《ATARU 완전 신작 스페셜 〈뉴욕으로부터의 도전장\!\!〉》이 방송되었다.
 
 ### 게스트
 
-  - 알렉산드로 카롤리나 마도카 ([서번트 증후군인](../Page/서번트_증후군.md "wikilink") 여성·전 SPB 훈련생) - [호리키타 마키](https://ko.wikipedia.org/wiki/호리키타_마키 "wikilink")
-  - 이노구치 타스쿠 (쵸코자이의 남동생) - [오카다 마사키](https://ko.wikipedia.org/wiki/오카다_마사키 "wikilink")
+  - 알렉산드로 카롤리나 마도카 ([서번트 증후군인](../Page/서번트_증후군.md "wikilink") 여성·전 SPB 훈련생) - [호리키타 마키](../Page/호리키타_마키.md "wikilink")
+  - 이노구치 타스쿠 (쵸코자이의 남동생) - [오카다 마사키](../Page/오카다_마사키.md "wikilink")
   - 미즈노 루미 (36세, 경시청 감식과·기동 감식계) - [시마자키 하루카](../Page/시마자키_하루카.md "wikilink") ([AKB48](../Page/AKB48.md "wikilink"))
   - 스가와라 다이키치
   - 마츠모토 미노루
@@ -230,13 +230,13 @@
 
 ## 영화
 
-상기의 스페셜 드라마 방송 종료 직후에 영화화가 발표되어 동시에 영화 공식 사이트가 오픈했다. 타이틀은 《**극장판 ATARU THE FIRST LOVE & THE LAST KILL**》로, [토호계로](../Page/도호.md "wikilink") [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [9월 14일에](https://ko.wikipedia.org/wiki/9월_14일 "wikilink") 개봉되었다\[3\]\[4\].
+상기의 스페셜 드라마 방송 종료 직후에 영화화가 발표되어 동시에 영화 공식 사이트가 오픈했다. 타이틀은 《**극장판 ATARU THE FIRST LOVE & THE LAST KILL**》로, [토호계로](../Page/도호.md "wikilink") [2013년](../Page/2013년.md "wikilink") [9월 14일에](../Page/9월_14일.md "wikilink") 개봉되었다\[3\]\[4\].
 
 ## 스태프
 
   - 각본 - 사쿠라이 타케하루
   - 연출 - 키무라 히사시, 요시다 켄, 한철
-  - 주제가 - [시이나 링고](../Page/시이나_링고.md "wikilink") 〈자유로의 길동무〉 ([EMI 뮤직 재팬](https://ko.wikipedia.org/wiki/EMI_뮤직_재팬 "wikilink"))
+  - 주제가 - [시이나 링고](../Page/시이나_링고.md "wikilink") 〈자유로의 길동무〉 ([EMI 뮤직 재팬](../Page/EMI_뮤직_재팬.md "wikilink"))
   - 연출 보조 - 야기 잇카이
   - 프로듀스 - 우에다 히로키, 한철
   - 프로듀스 보조 - 모리 가즈히로
@@ -486,7 +486,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>평균 시청률 15.6% (시청률은 <a href="https://ko.wikipedia.org/wiki/간토_지방" title="wikilink">간토 지방</a>・<a href="../Page/비디오_리서치.md" title="wikilink">비디오 리서치</a> 조사)</p></td>
+<td><p>평균 시청률 15.6% (시청률은 <a href="../Page/간토_지방.md" title="wikilink">간토 지방</a>・<a href="../Page/비디오_리서치.md" title="wikilink">비디오 리서치</a> 조사)</p></td>
 <td></td>
 <td></td>
 <td></td>

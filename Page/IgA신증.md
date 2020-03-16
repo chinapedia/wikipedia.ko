@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [IgA](https://ko.wikipedia.org/wiki/IgA).
 
 
-**IgA 신증**(IgA nephropathy) 또는 **IgA 콩팥병**은 [사구체신염](https://ko.wikipedia.org/wiki/사구체신염 "wikilink")(신장의 [사구체](https://ko.wikipedia.org/wiki/사구체 "wikilink")에 범발성으로 일어나는 [염증](https://ko.wikipedia.org/wiki/염증 "wikilink")성 질환)의 일종이다. IgA 신증은 시간이 지나면서 점점 악화되는 병이며, 첫 진단 20년 안에 후 만성 [신부전증](https://ko.wikipedia.org/wiki/신부전증 "wikilink")까지 진행될 확률이 통계적으로 25\~30%에 달한다. 본인이 잘 모르고 지나가기 쉬운 병이기 때문에, 소변 검사가 체계적으로 이루어지는 국가에서 진단율이 높다. (학생 건강 검진이 의무화된 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink"), [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") 등)
+**IgA 신증**(IgA nephropathy) 또는 **IgA 콩팥병**은 [사구체신염](https://ko.wikipedia.org/wiki/사구체신염 "wikilink")(신장의 [사구체](https://ko.wikipedia.org/wiki/사구체 "wikilink")에 범발성으로 일어나는 [염증](https://ko.wikipedia.org/wiki/염증 "wikilink")성 질환)의 일종이다. IgA 신증은 시간이 지나면서 점점 악화되는 병이며, 첫 진단 20년 안에 후 만성 [신부전증](https://ko.wikipedia.org/wiki/신부전증 "wikilink")까지 진행될 확률이 통계적으로 25\~30%에 달한다. 본인이 잘 모르고 지나가기 쉬운 병이기 때문에, 소변 검사가 체계적으로 이루어지는 국가에서 진단율이 높다. (학생 건강 검진이 의무화된 [대한민국](../Page/대한민국.md "wikilink"), [일본](../Page/일본.md "wikilink") 등)
 
 ## 같은 말
 
@@ -32,11 +32,11 @@ IgA 신증은 발병 초기에 [신장](https://ko.wikipedia.org/wiki/신장 "wi
 
 ### 일반
 
-IgA 신증의 가장 흔한(40\~50%의 경우) 증상은 반복되는 **육안적 [혈뇨](../Page/혈뇨.md "wikilink")**(hematuria)인데, 환자는 일반적으로 [상기도감염](http://health.naver.com/medical/disease/detail.nhn?diseaseSymptomCode=AA000446&diseaseSymptomTypeCode=AA&selectedTab=detail#con) 발병 후 하루 내지 이틀 이내 육안적 혈뇨를 배설한다([사구체](https://ko.wikipedia.org/wiki/사구체 "wikilink")의 [족세포](https://terms.naver.com/entry.nhn?docId=479038) 그물망에 염증이 생겨 [적혈구](https://ko.wikipedia.org/wiki/적혈구 "wikilink")가 배설되는 상황이므로, 사구체에 염증이 생겼다는것을 알 수 있다.)
+IgA 신증의 가장 흔한(40\~50%의 경우) 증상은 반복되는 **육안적 [혈뇨](../Page/혈뇨.md "wikilink")**(hematuria)인데, 환자는 일반적으로 [상기도감염](http://health.naver.com/medical/disease/detail.nhn?diseaseSymptomCode=AA000446&diseaseSymptomTypeCode=AA&selectedTab=detail#con) 발병 후 하루 내지 이틀 이내 육안적 혈뇨를 배설한다([사구체](https://ko.wikipedia.org/wiki/사구체 "wikilink")의 [족세포](https://terms.naver.com/entry.nhn?docId=479038) 그물망에 염증이 생겨 [적혈구](../Page/적혈구.md "wikilink")가 배설되는 상황이므로, 사구체에 염증이 생겼다는것을 알 수 있다.)
 
 발병 후 수주 이후부터 **[단백뇨](https://ko.wikipedia.org/wiki/단백뇨 "wikilink")**가 배설된다. 단백뇨는 소변을 통해 단백질이 배출되는 현상으로, 사구체신염을 점점 악화시키는 원인이기도 하다.
 
-대부분의 환자는 허리 통증을 겪는다. 육안적 혈뇨는 대부분 며칠 안에 회복되지만, [현미경적 혈뇨](https://terms.naver.com/entry.nhn?docId=483677)(microscopic hematuria)는 그 후에도 지속되는 경우가 많다. 증상이 가벼운 환자들은 불규칙적인 주기로 혈뇨를 반복하다가, 서서히 증상이 완화된다. 대부분의 환자들은 신 기능이 정상상태로 유지되지만, [신부전](https://ko.wikipedia.org/wiki/신부전 "wikilink")증 까지 병이 진행되는 환자들도 많다. 시간이 지날수록 점점 병이 악화되기 때문에 젊은 나이에 발병할 경우 신부전증까지 진행되는 사례가 더 많다.\[10\]
+대부분의 환자는 허리 통증을 겪는다. 육안적 혈뇨는 대부분 며칠 안에 회복되지만, [현미경적 혈뇨](https://terms.naver.com/entry.nhn?docId=483677)(microscopic hematuria)는 그 후에도 지속되는 경우가 많다. 증상이 가벼운 환자들은 불규칙적인 주기로 혈뇨를 반복하다가, 서서히 증상이 완화된다. 대부분의 환자들은 신 기능이 정상상태로 유지되지만, [신부전](../Page/신부전.md "wikilink")증 까지 병이 진행되는 환자들도 많다. 시간이 지날수록 점점 병이 악화되기 때문에 젊은 나이에 발병할 경우 신부전증까지 진행되는 사례가 더 많다.\[10\]
 조금 연령층이 높은 20\~30%의 환자들은 [단백뇨](https://ko.wikipedia.org/wiki/단백뇨 "wikilink")를 동반한 현미경적 혈뇨 증상을 나타낸다. (대부분 2[g](https://ko.wikipedia.org/wiki/g "wikilink")ram/day 미만.) 이들은 아무런 **자각증상**을 느끼지 못하는 것이 일반적이며, [소변 검사에서](https://ko.wikipedia.org/wiki/소변_검사 "wikilink") 이상 소견을 받은 뒤 [조직검사](https://ko.wikipedia.org/wiki/조직검사 "wikilink")를 받고 나서야 발견되는 경우가 대부분이다.\[11\]
 
 ### 경과
@@ -64,7 +64,7 @@ IgA 신증을 진단받은 환자가 다른 합병증에 걸릴 경우 대부분
 
 ## 진단
 
-현미경적, 혹은 육안적 혈뇨 증상을 가지거나, 단백뇨 혹은 크레아틴 수치가 높은 성인 환자를 대상으로 신장 [초음파검사](https://ko.wikipedia.org/wiki/초음파검사 "wikilink")를 실시한다. 단순한 [방광염](https://ko.wikipedia.org/wiki/방광염 "wikilink")으로 인한 출혈과 구분하기 위해 [방광내시경](https://ko.wikipedia.org/wiki/방광내시경 "wikilink") 검사를 하는 경우도 있다(요도와 전립선을 다칠 위험이 있으므로 일반적으로 남성은 받지 않는다.) 위 검사들을 통해 [신장결석](https://ko.wikipedia.org/wiki/신장결석 "wikilink") 이나 [방광암](https://ko.wikipedia.org/wiki/방광암 "wikilink")으로 인한 출혈인지, 사구체 신염으로 인한 혈뇨인지를 검사한다.
+현미경적, 혹은 육안적 혈뇨 증상을 가지거나, 단백뇨 혹은 크레아틴 수치가 높은 성인 환자를 대상으로 신장 [초음파검사](https://ko.wikipedia.org/wiki/초음파검사 "wikilink")를 실시한다. 단순한 [방광염](https://ko.wikipedia.org/wiki/방광염 "wikilink")으로 인한 출혈과 구분하기 위해 [방광내시경](https://ko.wikipedia.org/wiki/방광내시경 "wikilink") 검사를 하는 경우도 있다(요도와 전립선을 다칠 위험이 있으므로 일반적으로 남성은 받지 않는다.) 위 검사들을 통해 [신장결석](../Page/신장결석.md "wikilink") 이나 [방광암](https://ko.wikipedia.org/wiki/방광암 "wikilink")으로 인한 출혈인지, 사구체 신염으로 인한 혈뇨인지를 검사한다.
 
 어린이나 젊은 환자의 경우 [급성 상기도감염](https://ko.wikipedia.org/wiki/급성_상기도감염 "wikilink") 병력이 있을 경우 IgA 신증을 의심해 볼 수 있다.\[12\] 하지만 신장 [조직검사](https://ko.wikipedia.org/wiki/조직검사 "wikilink")를 실시하기 전까지는 정확한 진단을 내릴 수 없다.
 

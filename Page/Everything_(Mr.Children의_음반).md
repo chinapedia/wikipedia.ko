@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Everything \(Mr.Children \)](https://ko.wikipedia.org/wiki/Everything_\(Mr.Children_\)).
 
 
-《**Everything**》은 [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink") [5월 10일에](https://ko.wikipedia.org/wiki/5월_10일 "wikilink") 발매된 [Mr.Children](https://ko.wikipedia.org/wiki/Mr.Children "wikilink")의 첫 번째 정규 음반이자 데뷔 음반이다. 1992년 8월 21일에 수록곡 〈기미가 이타 나츠〉가 싱글로 발매됐다.
+《**Everything**》은 [1992년](../Page/1992년.md "wikilink") [5월 10일에](../Page/5월_10일.md "wikilink") 발매된 [Mr.Children](../Page/Mr.Children.md "wikilink")의 첫 번째 정규 음반이자 데뷔 음반이다. 1992년 8월 21일에 수록곡 〈기미가 이타 나츠〉가 싱글로 발매됐다.
 
 ## 수록곡
 

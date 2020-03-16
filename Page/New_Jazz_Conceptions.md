@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [New Jazz Conceptions](https://ko.wikipedia.org/wiki/New_Jazz_Conceptions).
 
 
-《**New Jazz Conceptions**》은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [재즈](https://ko.wikipedia.org/wiki/재즈 "wikilink") 피아니스트 [빌 에번스의](../Page/빌_에번스.md "wikilink") 데뷔 앨범이다. 1957년 [리버사이드 레코드가](https://ko.wikipedia.org/wiki/리버사이드_레코드 "wikilink") 발매하였다.
+《**New Jazz Conceptions**》은 [미국](../Page/미국.md "wikilink")의 [재즈](../Page/재즈.md "wikilink") 피아니스트 [빌 에번스의](../Page/빌_에번스.md "wikilink") 데뷔 앨범이다. 1957년 [리버사이드 레코드가](https://ko.wikipedia.org/wiki/리버사이드_레코드 "wikilink") 발매하였다.
 
 ## 역사
 

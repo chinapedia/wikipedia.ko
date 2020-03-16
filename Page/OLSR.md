@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [OLSR](https://ko.wikipedia.org/wiki/OLSR).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Olsr-overview.pdf "wikilink") **OLSR**(Optimized Link State Routing Protocol)\[1\]은 [모바일 애드혹 네트워크에](https://ko.wikipedia.org/wiki/애드혹_네트워크 "wikilink") 최적화된 [IP](https://ko.wikipedia.org/wiki/인터넷_프로토콜 "wikilink") 라우팅 프로토콜이다. 무선 애드혹 네트워크에서도 사용될 수 있다. OLSR은 실제 데이터 전송 요청이 발생하기 전에 미리 경로를 계산하여 라우팅 테이블을 생성하는 프로액티브 방식의 링크 상태 라우팅 프로토콜(link-state routing protocol)로서, 모바일 애드혹 네트워크상에서 주변 노드들을 발견하고 링크 상태 정보를 전파하기 위해 *헬로*(hello) 및 *토폴로지 컨트롤*(topology control) 메시지를 사용한다. 이를 통해 개별 노드들은 네트워크의 토폴로지 정보를 확보하여 다른 모든 노드들에 대해 데이터를 전달하기 위한 최단경로를 계산한다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Olsr-overview.pdf "wikilink") **OLSR**(Optimized Link State Routing Protocol)\[1\]은 [모바일 애드혹 네트워크에](https://ko.wikipedia.org/wiki/애드혹_네트워크 "wikilink") 최적화된 [IP](../Page/인터넷_프로토콜.md "wikilink") 라우팅 프로토콜이다. 무선 애드혹 네트워크에서도 사용될 수 있다. OLSR은 실제 데이터 전송 요청이 발생하기 전에 미리 경로를 계산하여 라우팅 테이블을 생성하는 프로액티브 방식의 링크 상태 라우팅 프로토콜(link-state routing protocol)로서, 모바일 애드혹 네트워크상에서 주변 노드들을 발견하고 링크 상태 정보를 전파하기 위해 *헬로*(hello) 및 *토폴로지 컨트롤*(topology control) 메시지를 사용한다. 이를 통해 개별 노드들은 네트워크의 토폴로지 정보를 확보하여 다른 모든 노드들에 대해 데이터를 전달하기 위한 최단경로를 계산한다.
 
 ## 특징
 

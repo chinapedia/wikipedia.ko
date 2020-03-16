@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
 
 
-**알와슬 FC**()는 [아랍에미리트](https://ko.wikipedia.org/wiki/아랍에미리트 "wikilink")의 [두바이](https://ko.wikipedia.org/wiki/두바이 "wikilink")를 연고지로 하는 프로 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로 [1960년](https://ko.wikipedia.org/wiki/1960년 "wikilink")에 창단되었다. 종합 스포츠 클럽인 알와슬 스포츠 클럽의 일부이며, 현재 [UAE 1부 리그에](https://ko.wikipedia.org/wiki/UAE_1부_리그 "wikilink") 참가하고 있다.
+**알와슬 FC**()는 [아랍에미리트](../Page/아랍에미리트.md "wikilink")의 [두바이](../Page/두바이.md "wikilink")를 연고지로 하는 프로 [축구](../Page/축구.md "wikilink") 클럽으로 [1960년](../Page/1960년.md "wikilink")에 창단되었다. 종합 스포츠 클럽인 알와슬 스포츠 클럽의 일부이며, 현재 [UAE 1부 리그에](https://ko.wikipedia.org/wiki/UAE_1부_리그 "wikilink") 참가하고 있다.
 
 ## 역대 우승 기록
 

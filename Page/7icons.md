@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [7icons](https://ko.wikipedia.org/wiki/7icons).
 
 
-**7icons**(세븐 아이콘스)는 [인도네시아](https://ko.wikipedia.org/wiki/인도네시아 "wikilink")의 [걸 그룹이다](https://ko.wikipedia.org/wiki/걸_그룹 "wikilink"). [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [10월 28일](https://ko.wikipedia.org/wiki/10월_28일 "wikilink") 데뷔하였다 사람들. 7(세븐) 완벽합니다. Icon(아이콘) 선구자. ICONIA(아이코니아)는 의 팬을위한 이름입니다 세븐 아이콘스.\[1\]\[2\]\[3\]\[4\]
+**7icons**(세븐 아이콘스)는 [인도네시아](../Page/인도네시아.md "wikilink")의 [걸 그룹이다](../Page/걸_그룹.md "wikilink"). [2010년](../Page/2010년.md "wikilink") [10월 28일](../Page/10월_28일.md "wikilink") 데뷔하였다 사람들. 7(세븐) 완벽합니다. Icon(아이콘) 선구자. ICONIA(아이코니아)는 의 팬을위한 이름입니다 세븐 아이콘스.\[1\]\[2\]\[3\]\[4\]
 
 ## 구성원
 
@@ -110,7 +110,7 @@
 <td><p><a href="../Page/수라바야.md" title="wikilink">Surabaya(수라바야)</a></p></td>
 <td></td>
 <td><p>VANILATTE(바니라테)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2010년" title="wikilink">2010년</a> <a href="https://ko.wikipedia.org/wiki/10월" title="wikilink">10월</a> ~ <a href="https://ko.wikipedia.org/wiki/2012년" title="wikilink">2012년</a> <a href="https://ko.wikipedia.org/wiki/12월" title="wikilink">12월</a></p></td>
+<td><p><a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/10월.md" title="wikilink">10월</a> ~ <a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/12월.md" title="wikilink">12월</a></p></td>
 </tr>
 </tbody>
 </table>

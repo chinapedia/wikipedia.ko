@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  EX](https://ko.wikipedia.org/wiki/__EX).
 
 
-《**스트리트 파이터 EX**》(Street Fighter EX)는 [3차원 그래픽스의](https://ko.wikipedia.org/wiki/3차원_그래픽스 "wikilink") [대전 게임으로](https://ko.wikipedia.org/wiki/대전_게임 "wikilink"), 처음에는 [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") 소니 ZN 하드웨어를 대상으로 [동전 구동식 아케이드 게임으로](../Page/아케이드_게임.md "wikilink") 출시되었다.개발은 아리카가 맡았으나, 퍼블리싱은 아리카와 캡콤이 담당했다.
+《**스트리트 파이터 EX**》(Street Fighter EX)는 [3차원 그래픽스의](https://ko.wikipedia.org/wiki/3차원_그래픽스 "wikilink") [대전 게임으로](https://ko.wikipedia.org/wiki/대전_게임 "wikilink"), 처음에는 [1996년](../Page/1996년.md "wikilink") 소니 ZN 하드웨어를 대상으로 [동전 구동식 아케이드 게임으로](../Page/아케이드_게임.md "wikilink") 출시되었다.개발은 아리카가 맡았으나, 퍼블리싱은 아리카와 캡콤이 담당했다.
 
 ## 각주
 

@@ -5,11 +5,11 @@
 | ------------------------------------------------------------------- |
 | "[Soap Disco](https://ko.wikipedia.org/wiki/Soap_Disco "wikilink")" |
 
-***The Fourth World***(《더 포스 월드》\[1\])는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [팝 록](../Page/팝_록.md "wikilink") [밴드](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [마룬 5의](../Page/마룬_5.md "wikilink") 전신인 [얼터너티브 록](../Page/얼터너티브_록.md "wikilink") 밴드 [카라스 플라워스의](https://ko.wikipedia.org/wiki/카라스_플라워스 "wikilink") 두 번째 [정규 음반이자](../Page/정규_음반.md "wikilink") 첫 번째 대형 레이블 데뷔 음반으로, 기본 11곡, 일본반에는 보너스 곡이 추가되어 12곡이 수록되어 있다.
+***The Fourth World***(《더 포스 월드》\[1\])는 [미국](../Page/미국.md "wikilink")의 [팝 록](../Page/팝_록.md "wikilink") [밴드](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [마룬 5의](../Page/마룬_5.md "wikilink") 전신인 [얼터너티브 록](../Page/얼터너티브_록.md "wikilink") 밴드 [카라스 플라워스의](https://ko.wikipedia.org/wiki/카라스_플라워스 "wikilink") 두 번째 [정규 음반이자](../Page/정규_음반.md "wikilink") 첫 번째 대형 레이블 데뷔 음반으로, 기본 11곡, 일본반에는 보너스 곡이 추가되어 12곡이 수록되어 있다.
 
 [리프라이즈 레코드와](https://ko.wikipedia.org/wiki/리프라이즈_레코드 "wikilink") 계약한 그들은 1997년 8월 19일 음반을 발매하고, 2년 뒤 레이블과 다른 길을 걷는다.\[2\]
 
-이 음반은 카라스 플라워스라는 이름 아래에서 발매된 두 번째 정규 음반이자 그들이 레코드 레이블 아래에서 발매한 유일한 정규 음반이다. 후에 그들은 기타리스트 [제임스 밸런타인을](https://ko.wikipedia.org/wiki/제임스_밸런타인 "wikilink") 영입한 후 마룬 5로 이름을 바꾼다.\[3\]
+이 음반은 카라스 플라워스라는 이름 아래에서 발매된 두 번째 정규 음반이자 그들이 레코드 레이블 아래에서 발매한 유일한 정규 음반이다. 후에 그들은 기타리스트 [제임스 밸런타인을](../Page/제임스_밸런타인.md "wikilink") 영입한 후 마룬 5로 이름을 바꾼다.\[3\]
 
 ## 싱글
 
@@ -21,7 +21,7 @@
 
 ## 수록곡
 
-모든 곡들은 [카라스 플라워스의](https://ko.wikipedia.org/wiki/카라스_플라워스 "wikilink") 구성원 [애덤 리바인](../Page/애덤_리바인.md "wikilink"), [제시 카마이클](../Page/제시_카마이클.md "wikilink"), [미키 매든](https://ko.wikipedia.org/wiki/미키_매든 "wikilink"), [라이언 두식에](https://ko.wikipedia.org/wiki/라이언_두식 "wikilink") 의해 작사 및 작곡되었다. 일부 예외의 곡들은 따로 표시해 놓았다.
+모든 곡들은 [카라스 플라워스의](https://ko.wikipedia.org/wiki/카라스_플라워스 "wikilink") 구성원 [애덤 리바인](../Page/애덤_리바인.md "wikilink"), [제시 카마이클](../Page/제시_카마이클.md "wikilink"), [미키 매든](../Page/미키_매든.md "wikilink"), [라이언 두식에](../Page/라이언_두식.md "wikilink") 의해 작사 및 작곡되었다. 일부 예외의 곡들은 따로 표시해 놓았다.
 
 1.  "Soap Disco" – 2:40
 2.  "Future Kid" – 4:44
@@ -42,8 +42,8 @@
 
   - [애덤 리바인](../Page/애덤_리바인.md "wikilink") – 보컬, 기타
   - [제시 카마이클](../Page/제시_카마이클.md "wikilink") – 기타, 보컬
-  - [미키 매든](https://ko.wikipedia.org/wiki/미키_매든 "wikilink") – 베이스 기타
-  - [라이언 두식](https://ko.wikipedia.org/wiki/라이언_두식 "wikilink") – 드럼, 퍼커션
+  - [미키 매든](../Page/미키_매든.md "wikilink") – 베이스 기타
+  - [라이언 두식](../Page/라이언_두식.md "wikilink") – 드럼, 퍼커션
 
 **그 외의 음악가**
 

@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [X: ](https://ko.wikipedia.org/wiki/X:_).
 
 
-《**X³: 리유니온**》(X³: Reunion)은 EGOSOFT사가 개발하고 딥 실버가 발행한 [싱글 플레이](https://ko.wikipedia.org/wiki/싱글_플레이 "wikilink") [우주](https://ko.wikipedia.org/wiki/우주 "wikilink") [무역](https://ko.wikipedia.org/wiki/무역 "wikilink") 및 [우주](https://ko.wikipedia.org/wiki/우주 "wikilink") [전투](../Page/전투.md "wikilink") [시뮬레이션](https://ko.wikipedia.org/wiki/시뮬레이션 "wikilink") [게임](https://ko.wikipedia.org/wiki/게임 "wikilink")이다.
+《**X³: 리유니온**》(X³: Reunion)은 EGOSOFT사가 개발하고 딥 실버가 발행한 [싱글 플레이](https://ko.wikipedia.org/wiki/싱글_플레이 "wikilink") [우주](../Page/우주.md "wikilink") [무역](https://ko.wikipedia.org/wiki/무역 "wikilink") 및 [우주](../Page/우주.md "wikilink") [전투](../Page/전투.md "wikilink") [시뮬레이션](../Page/시뮬레이션.md "wikilink") [게임](../Page/게임.md "wikilink")이다.
 
-X³는 우주 모험 비디오 게임시리즈에서 [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") X: Beyond the Frontier, [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") X²: The Threat에 이은 3번째 작품이다. 리유니온은 북미에서 윈도 버전을 2005년 10월 28일에, 리눅스와 맥 OS X 버전을 11월 4일에 각각 출시했다. X시리즈는 1인칭 우주 무역, 탐사뿐만 아니라 전투면에서도 우수한 작품으로 인정 받고 있다.
+X³는 우주 모험 비디오 게임시리즈에서 [1999년](../Page/1999년.md "wikilink") X: Beyond the Frontier, [2003년](../Page/2003년.md "wikilink") X²: The Threat에 이은 3번째 작품이다. 리유니온은 북미에서 윈도 버전을 2005년 10월 28일에, 리눅스와 맥 OS X 버전을 11월 4일에 각각 출시했다. X시리즈는 1인칭 우주 무역, 탐사뿐만 아니라 전투면에서도 우수한 작품으로 인정 받고 있다.
 
 ## X 우주
 

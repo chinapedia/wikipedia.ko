@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  part 1](https://ko.wikipedia.org/wiki/__part_1).
 
 
-**브레이킹 던 part 1**(The Twilight Saga: Breaking Dawn)는 [스테프니 메이어의](https://ko.wikipedia.org/wiki/스테프니_메이어 "wikilink") 소설 [브레이킹 던을](https://ko.wikipedia.org/wiki/브레이킹_던 "wikilink") 바탕으로 만든 영화이다. 2011년 개봉되었다.
+**브레이킹 던 part 1**(The Twilight Saga: Breaking Dawn)는 [스테프니 메이어의](../Page/스테프니_메이어.md "wikilink") 소설 [브레이킹 던을](https://ko.wikipedia.org/wiki/브레이킹_던 "wikilink") 바탕으로 만든 영화이다. 2011년 개봉되었다.
 
 ## 스토리
 
@@ -9,17 +9,17 @@
 
 ### 주연
 
-  - [크리스틴 스튜어트](https://ko.wikipedia.org/wiki/크리스틴_스튜어트 "wikilink")
+  - [크리스틴 스튜어트](../Page/크리스틴_스튜어트.md "wikilink")
   - [로버트 패틴슨](https://ko.wikipedia.org/wiki/로버트_패틴슨 "wikilink")
 
 ### 조연
 
-  - [다코타 패닝](https://ko.wikipedia.org/wiki/다코타_패닝 "wikilink")
+  - [다코타 패닝](../Page/다코타_패닝.md "wikilink")
   - [테일러 로트너](../Page/테일러_로트너.md "wikilink")
-  - [애슐리 그린](https://ko.wikipedia.org/wiki/애슐리_그린 "wikilink")
+  - [애슐리 그린](../Page/애슐리_그린.md "wikilink")
   - [매기 그레이스](../Page/매기_그레이스.md "wikilink")
   - [마이클 쉰](https://ko.wikipedia.org/wiki/마이클_쉰 "wikilink")
-  - [니키 리드](https://ko.wikipedia.org/wiki/니키_리드 "wikilink")
+  - [니키 리드](../Page/니키_리드.md "wikilink")
   - [안나 켄드릭](https://ko.wikipedia.org/wiki/안나_켄드릭 "wikilink")
   - [잭슨 라스본](https://ko.wikipedia.org/wiki/잭슨_라스본 "wikilink")
   - [빌리 버크](https://ko.wikipedia.org/wiki/빌리_버크 "wikilink")
@@ -31,7 +31,7 @@
   - [엘리자베스 리저](https://ko.wikipedia.org/wiki/엘리자베스_리저 "wikilink")
   - [사라 클라크](https://ko.wikipedia.org/wiki/사라_클라크 "wikilink")
   - [조 앤더슨](https://ko.wikipedia.org/wiki/조_앤더슨 "wikilink")
-  - [라미 말렉](https://ko.wikipedia.org/wiki/라미_말렉 "wikilink")
+  - [라미 말렉](../Page/라미_말렉.md "wikilink")
   - [미아 마에스트로](https://ko.wikipedia.org/wiki/미아_마에스트로 "wikilink")
   - [미안나 버링](https://ko.wikipedia.org/wiki/미안나_버링 "wikilink")
   - [마이클 웰치](https://ko.wikipedia.org/wiki/마이클_웰치 "wikilink")
@@ -39,7 +39,7 @@
   - [부부 스튜어트](https://ko.wikipedia.org/wiki/부부_스튜어트 "wikilink")
   - [길 버밍햄](https://ko.wikipedia.org/wiki/길_버밍햄 "wikilink")
   - [오마 멧월리](https://ko.wikipedia.org/wiki/오마_멧월리 "wikilink")
-  - [저스틴 전](https://ko.wikipedia.org/wiki/저스틴_전 "wikilink")
+  - [저스틴 전](../Page/저스틴_전.md "wikilink")
   - [안젤라 사라피언](https://ko.wikipedia.org/wiki/안젤라_사라피언 "wikilink")
   - [웬델 피어스](https://ko.wikipedia.org/wiki/웬델_피어스 "wikilink")
   - [알렉스 메라즈](https://ko.wikipedia.org/wiki/알렉스_메라즈 "wikilink")
@@ -71,7 +71,7 @@
   - [제이미 캠벨 바우어](https://ko.wikipedia.org/wiki/제이미_캠벨_바우어 "wikilink")
   - [안젤로 리나이](https://ko.wikipedia.org/wiki/안젤로_리나이 "wikilink")
   - [키마니 레이 스미스](https://ko.wikipedia.org/wiki/키마니_레이_스미스 "wikilink")
-  - [매켄지 포이](https://ko.wikipedia.org/wiki/매켄지_포이 "wikilink")
+  - [매켄지 포이](../Page/매켄지_포이.md "wikilink")
   - [찰리 뷰리](https://ko.wikipedia.org/wiki/찰리_뷰리 "wikilink")
   - [다니엘 커드모어](https://ko.wikipedia.org/wiki/다니엘_커드모어 "wikilink")
   - [스테파니 메이어](https://ko.wikipedia.org/wiki/스테파니_메이어 "wikilink")

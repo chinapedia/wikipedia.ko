@@ -1,23 +1,23 @@
 > This article is converted from Wikipedia: [W ](https://ko.wikipedia.org/wiki/W_).
 
 
-《**W의 비극**》 ()은 [1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink")에 출판된 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") [소설가](https://ko.wikipedia.org/wiki/소설가 "wikilink") 나쓰키 시즈코의 [추리 소설이자](https://ko.wikipedia.org/wiki/추리_소설 "wikilink") 이를 원작으로 한 [영화](../Page/영화.md "wikilink"), [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/텔레비전_드라마 "wikilink").
+《**W의 비극**》 ()은 [1982년](../Page/1982년.md "wikilink")에 출판된 [일본](../Page/일본.md "wikilink") [소설가](https://ko.wikipedia.org/wiki/소설가 "wikilink") 나쓰키 시즈코의 [추리 소설이자](https://ko.wikipedia.org/wiki/추리_소설 "wikilink") 이를 원작으로 한 [영화](../Page/영화.md "wikilink"), [텔레비전 드라마이다](../Page/텔레비전_드라마.md "wikilink").
 
 ## 영화
 
-[1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink")에 개봉됐으며 [사와이 신이치로가](https://ko.wikipedia.org/wiki/사와이_신이치로 "wikilink") 감독, [야쿠시마루 히로코가](../Page/야쿠시마루_히로코.md "wikilink") 주연을 맡았다.
+[1984년](../Page/1984년.md "wikilink")에 개봉됐으며 [사와이 신이치로가](https://ko.wikipedia.org/wiki/사와이_신이치로 "wikilink") 감독, [야쿠시마루 히로코가](../Page/야쿠시마루_히로코.md "wikilink") 주연을 맡았다.
 
 ## 텔레비전 드라마
 
-[1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink"), [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink"), [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink"), [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink"), [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink")에 여러 차레 드라마로 제작되어, 방송되었다.
+[1983년](../Page/1983년.md "wikilink"), [1986년](../Page/1986년.md "wikilink"), [2001년](../Page/2001년.md "wikilink"), [2010년](../Page/2010년.md "wikilink"), [2012년](../Page/2012년.md "wikilink")에 여러 차레 드라마로 제작되어, 방송되었다.
 
 ### 2010년
 
-[TBS](https://ko.wikipedia.org/wiki/TBS "wikilink")에서 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [1월 11일](https://ko.wikipedia.org/wiki/1월_11일 "wikilink") "TBS 스페셜 드라마 나츠키 시즈코·작가 40 주년 기념 서스펜스 특별 기획"으로 방송된 [단편 드라마이다](https://ko.wikipedia.org/wiki/텔레비전_드라마 "wikilink"). [오카다 요시카즈](https://ko.wikipedia.org/wiki/오카다_요시카즈 "wikilink") 각본에 의해 현대적으로 각색된 오리지널 전개가 된다. 주연을 맡은 [칸노 미호는](../Page/칸노_미호.md "wikilink") [TBS](https://ko.wikipedia.org/wiki/TBS "wikilink") [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink")로는 첫 주연이다. 시청률 13.3%.
+[TBS](https://ko.wikipedia.org/wiki/TBS "wikilink")에서 [2010년](../Page/2010년.md "wikilink") [1월 11일](../Page/1월_11일.md "wikilink") "TBS 스페셜 드라마 나츠키 시즈코·작가 40 주년 기념 서스펜스 특별 기획"으로 방송된 [단편 드라마이다](../Page/텔레비전_드라마.md "wikilink"). [오카다 요시카즈](https://ko.wikipedia.org/wiki/오카다_요시카즈 "wikilink") 각본에 의해 현대적으로 각색된 오리지널 전개가 된다. 주연을 맡은 [칸노 미호는](../Page/칸노_미호.md "wikilink") [TBS](https://ko.wikipedia.org/wiki/TBS "wikilink") [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink")로는 첫 주연이다. 시청률 13.3%.
 
 ### 2012년
 
-[TV 아사히 목요일 밤 9시 드라마](../Page/TV_아사히_목요일_밤_9시_드라마.md "wikilink") 범위로 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [4월 26일부터](https://ko.wikipedia.org/wiki/4월_26일 "wikilink") [6월 14일까지](https://ko.wikipedia.org/wiki/6월_14일 "wikilink") 방송된 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/텔레비전_드라마 "wikilink").
+[TV 아사히 목요일 밤 9시 드라마](../Page/TV_아사히_목요일_밤_9시_드라마.md "wikilink") 범위로 [2012년](../Page/2012년.md "wikilink") [4월 26일부터](../Page/4월_26일.md "wikilink") [6월 14일까지](../Page/6월_14일.md "wikilink") 방송된 [텔레비전 드라마이다](../Page/텔레비전_드라마.md "wikilink").
 
 주연은 [타케이 에미](../Page/타케이_에미.md "wikilink"). 타케이는 본작이 골든 타임의 연속 드라마 첫 주연. 첫회 15 분 확대(21:00 - 10:09) 방송.
 
@@ -27,7 +27,7 @@
 
   - **와츠지 마코 / 구라사와 사츠키** - [타케이 에미](https://ko.wikipedia.org/wiki/다케이_에미 "wikilink")(1인 2역)
   - **유미사카 게이이치로** - [키리타니 켄타](https://ko.wikipedia.org/wiki/기리타니_겐타 "wikilink")
-  - **다치바나 키라라** - [후쿠다 사키](https://ko.wikipedia.org/wiki/후쿠다_사키 "wikilink")
+  - **다치바나 키라라** - [후쿠다 사키](../Page/후쿠다_사키.md "wikilink")
   - [나카무라 슌스케](../Page/나카무라_슌스케.md "wikilink")
   - **사야카** - [고리키 아야메](../Page/고리키_아야메.md "wikilink")
   - [마츠시타 유키](https://ko.wikipedia.org/wiki/마츠시타_유키 "wikilink")
@@ -125,7 +125,7 @@
 
 ### 2019년
 
-[NHK BS 프리미엄](../Page/NHK_BS_프리미엄.md "wikilink") 리바이벌 드라마 범위로 [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [11월 23일](https://ko.wikipedia.org/wiki/11월_23일 "wikilink") 방송된 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/텔레비전_드라마 "wikilink"). 주연은 [츠치야 타오](../Page/츠치야_타오.md "wikilink").
+[NHK BS 프리미엄](../Page/NHK_BS_프리미엄.md "wikilink") 리바이벌 드라마 범위로 [2019년](../Page/2019년.md "wikilink") [11월 23일](../Page/11월_23일.md "wikilink") 방송된 [텔레비전 드라마이다](../Page/텔레비전_드라마.md "wikilink"). 주연은 [츠치야 타오](../Page/츠치야_타오.md "wikilink").
 
 ## 외부 링크
 

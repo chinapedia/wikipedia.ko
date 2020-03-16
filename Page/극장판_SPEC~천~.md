@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ SPEC\~\~](https://ko.wikipedia.org/wiki/_SPEC\~\~).
 
 
-《**극장판 SPEC\~천\~**》()은 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [4월 7일](https://ko.wikipedia.org/wiki/4월_7일 "wikilink") 개봉한 [일본 영화이다](https://ko.wikipedia.org/wiki/일본의_영화 "wikilink"). [TBS의](https://ko.wikipedia.org/wiki/도쿄_방송_홀딩스 "wikilink") [텔레비전 드라마](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink") 《[SPEC\~경시청 공안부 공안 제5과 미상 사건 특별 대책계 사건부\~](../Page/SPEC~경시청_공안부_공안_제5과_미상_사건_특별_대책계_사건부~.md "wikilink")》의 극장판이며, 텔레비전 시리즈의 속편에 해당하는 작품이기도 하다.
+《**극장판 SPEC\~천\~**》()은 [2012년](../Page/2012년.md "wikilink") [4월 7일](../Page/4월_7일.md "wikilink") 개봉한 [일본 영화이다](../Page/일본의_영화.md "wikilink"). [TBS의](../Page/도쿄_방송_홀딩스.md "wikilink") [텔레비전 드라마](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink") 《[SPEC\~경시청 공안부 공안 제5과 미상 사건 특별 대책계 사건부\~](../Page/SPEC~경시청_공안부_공안_제5과_미상_사건_특별_대책계_사건부~.md "wikilink")》의 극장판이며, 텔레비전 시리즈의 속편에 해당하는 작품이기도 하다.
 
 ## 개요
 
@@ -10,16 +10,16 @@
 ### 레귤러 캐릭터
 
   - 토마 사야 - [토다 에리카](../Page/토다_에리카.md "wikilink")
-  - 세부미 타케루 - [카세 료](https://ko.wikipedia.org/wiki/카세_료 "wikilink")
-  - 시무라 미레이 - [후쿠다 사키](https://ko.wikipedia.org/wiki/후쿠다_사키 "wikilink")
-  - 니노마에 쥬이치 - [카미키 류노스케](https://ko.wikipedia.org/wiki/카미키_류노스케 "wikilink")
+  - 세부미 타케루 - [카세 료](../Page/카세_료.md "wikilink")
+  - 시무라 미레이 - [후쿠다 사키](../Page/후쿠다_사키.md "wikilink")
+  - 니노마에 쥬이치 - [카미키 류노스케](../Page/카미키_류노스케.md "wikilink")
   - 마사키 미야비 - [아리무라 카스미](../Page/아리무라_카스미.md "wikilink")
   - 바바 카오루 - 오카다 코키
   - 이노마다 소지 - 사이네이 류지
   - 사카하마 아유무 - 마츠자와 카즈유키
   - 이치야나기 켄조 - [덴덴](../Page/덴덴.md "wikilink")
-  - 츠다 스케히로 - [시이나 킷페이](https://ko.wikipedia.org/wiki/시이나_킷페이 "wikilink")
-  - 노노무라 코타로 - [류 라이타](https://ko.wikipedia.org/wiki/류_라이타 "wikilink")
+  - 츠다 스케히로 - [시이나 킷페이](../Page/시이나_킷페이.md "wikilink")
+  - 노노무라 코타로 - [류 라이타](../Page/류_라이타.md "wikilink")
 
 ### 게스트 캐릭터
 
@@ -36,7 +36,7 @@
   - 후쿠토미 카오루 - [리쥬 고](https://ko.wikipedia.org/wiki/리쥬_고 "wikilink")
     내각 정보 조사관.
   - 아오이케 준 - 모리야마 이츠키
-    사토코의 외동딸. 어머니가 업무 중일 때는 보모에게 맡겨지고 있다. 처음으로 만난 세부미를 〈파파〉라고 불러, 사토코와 세부미 사이의 아이가 아닐까 생각되었지만, 사토코에 의하면, 세부미와도 사토코 본인과도 DNA도 혈액형도 일치하지 않고, [예수 그리스도와](https://ko.wikipedia.org/wiki/예수 "wikilink") 같이 부친 없이 태어난 아이라고 한다.
+    사토코의 외동딸. 어머니가 업무 중일 때는 보모에게 맡겨지고 있다. 처음으로 만난 세부미를 〈파파〉라고 불러, 사토코와 세부미 사이의 아이가 아닐까 생각되었지만, 사토코에 의하면, 세부미와도 사토코 본인과도 DNA도 혈액형도 일치하지 않고, [예수 그리스도와](../Page/예수.md "wikilink") 같이 부친 없이 태어난 아이라고 한다.
   - 사카이 - 카르셀 마키
     준의 베이비 시터.
   - 사부 - 카와하라 사부
@@ -68,7 +68,7 @@
   - 사운드 디자인 - 이시이 카즈유키
   - 조감독 - 시라이시 타츠야
   - 제작 담당 - 우에마츠 이쿠미
-  - 제작사 - 2012 영화 《SPEC\~천\~》 제작 위원회 ([TBS](https://ko.wikipedia.org/wiki/도쿄_방송_홀딩스 "wikilink"), [토호](../Page/도호.md "wikilink"), 카도카와 서점, 킹 레코드, MBS, CBC, 사무실 크레센도, RKB, TC 엔터테인먼트, HBC)
+  - 제작사 - 2012 영화 《SPEC\~천\~》 제작 위원회 ([TBS](../Page/도쿄_방송_홀딩스.md "wikilink"), [토호](../Page/도호.md "wikilink"), 카도카와 서점, 킹 레코드, MBS, CBC, 사무실 크레센도, RKB, TC 엔터테인먼트, HBC)
   - 프로덕션 - 사무실 크레셴도
   - 배급 - 토호
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Mr.](https://ko.wikipedia.org/wiki/Mr.).
 
 
-**Mr.**는 [한국어](https://ko.wikipedia.org/wiki/한국어 "wikilink")로 **군**(君) 이나 **씨** 정도로 번역할 수 있다. 일반적으로 남성에 대한 경칭으로 사용된다.
+**Mr.**는 [한국어](../Page/한국어.md "wikilink")로 **군**(君) 이나 **씨** 정도로 번역할 수 있다. 일반적으로 남성에 대한 경칭으로 사용된다.
 
 현대적 복수형은 Misters이지만 줄여서 쓰는 표현인 Messrs(.)는 18세기 프랑스어의 호칭 **의 사용에서 비롯된다.\[1\]\[2\]
 

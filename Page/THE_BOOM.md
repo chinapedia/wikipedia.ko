@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [THE BOOM](https://ko.wikipedia.org/wiki/THE_BOOM).
 
 
-**THE BOOM**은 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [록 밴드이다](https://ko.wikipedia.org/wiki/록_밴드 "wikilink"). 미야자와 가즈후미 (보컬), 고바야시 다카시 (기타), 야마카와 히로마사 (베이스), 도치기 다카오 (드럼)로 구성되어 있다.
+**THE BOOM**은 [일본](../Page/일본.md "wikilink")의 [록 밴드이다](https://ko.wikipedia.org/wiki/록_밴드 "wikilink"). 미야자와 가즈후미 (보컬), 고바야시 다카시 (기타), 야마카와 히로마사 (베이스), 도치기 다카오 (드럼)로 구성되어 있다.
 
 1986년에 결성되었으며, 1988년 소니 오디션에 합격해 다음 해인 1989년에 데뷔했다. 대표곡으로 〈호시노 러브레터〉 (1989년), 〈시마우타〉 (1993년), 〈가제니나리타이〉 (1995년) 등이 있다.
 

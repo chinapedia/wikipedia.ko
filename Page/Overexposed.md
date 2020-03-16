@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Overexposed](https://ko.wikipedia.org/wiki/Overexposed).
 
 
-***Overexposed***(《오버익스포즈드\[1\]》)는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [팝 록](../Page/팝_록.md "wikilink") [밴드](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [마룬 5의](../Page/마룬_5.md "wikilink") 네 번째 [정규 음반이다](../Page/정규_음반.md "wikilink"). 이전 음반들에서 주로 리드 보컬리스트 [애덤 리바인과](../Page/애덤_리바인.md "wikilink") 리드 기타리스트 [제임스 밸런타인이](https://ko.wikipedia.org/wiki/제임스_밸런타인 "wikilink") 함께 작사작곡을 했지만, 이 음반에서 제임스 밸런타인은 네 곡밖에 쓰지 않았다. 마룬 5는 이 음반을 [팝](https://ko.wikipedia.org/wiki/팝 "wikilink"), [팝 록](../Page/팝_록.md "wikilink"), [댄스 팝](https://ko.wikipedia.org/wiki/댄스_팝 "wikilink") 그리고 [레게](https://ko.wikipedia.org/wiki/레게 "wikilink")가 합쳐진 그들의 가장 팝적인 음반이라고 표현하였다.
+***Overexposed***(《오버익스포즈드\[1\]》)는 [미국](../Page/미국.md "wikilink")의 [팝 록](../Page/팝_록.md "wikilink") [밴드](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [마룬 5의](../Page/마룬_5.md "wikilink") 네 번째 [정규 음반이다](../Page/정규_음반.md "wikilink"). 이전 음반들에서 주로 리드 보컬리스트 [애덤 리바인과](../Page/애덤_리바인.md "wikilink") 리드 기타리스트 [제임스 밸런타인이](../Page/제임스_밸런타인.md "wikilink") 함께 작사작곡을 했지만, 이 음반에서 제임스 밸런타인은 네 곡밖에 쓰지 않았다. 마룬 5는 이 음반을 [팝](https://ko.wikipedia.org/wiki/팝 "wikilink"), [팝 록](../Page/팝_록.md "wikilink"), [댄스 팝](../Page/댄스_팝.md "wikilink") 그리고 [레게](../Page/레게.md "wikilink")가 합쳐진 그들의 가장 팝적인 음반이라고 표현하였다.
 
 이 음반은 [영국 음반 차트와](https://ko.wikipedia.org/wiki/영국_음반_차트 "wikilink") 미국 [빌보드 200에서](../Page/빌보드_200.md "wikilink") 첫 주에 각각 28,000장과 222,000장의 판매고를 올리며 2위를 기록하였다. 2012년 말 기준으로 전세계적으로 220만장의 음반 판매고를 올리며, 2012년 한 해 열한 번째로 많이 팔린 음반이 되었다.\[2\]
 
@@ -11,13 +11,13 @@
 
 ### 영향
 
-*Overexposed*는 [댄스 팝](https://ko.wikipedia.org/wiki/댄스_팝 "wikilink"), [일렉트로팝](https://ko.wikipedia.org/wiki/일렉트로팝 "wikilink"), [R\&B](https://ko.wikipedia.org/wiki/R&B "wikilink")와 [레게](https://ko.wikipedia.org/wiki/레게 "wikilink")의 영향을 받은 [팝](https://ko.wikipedia.org/wiki/팝_음악 "wikilink")\[3\] 및 [팝 록](../Page/팝_록.md "wikilink")\[4\]\[5\] 음반이다.\[6\] 많은 비평가들이 말하길 "[Moves Like Jagger](https://ko.wikipedia.org/wiki/Moves_Like_Jagger "wikilink")"가 *Overexposed*에 많은 영향을 끼쳤다고 한다.\[7\]\[8\]\[9\]
+*Overexposed*는 [댄스 팝](../Page/댄스_팝.md "wikilink"), [일렉트로팝](https://ko.wikipedia.org/wiki/일렉트로팝 "wikilink"), [R\&B](https://ko.wikipedia.org/wiki/R&B "wikilink")와 [레게](../Page/레게.md "wikilink")의 영향을 받은 [팝](../Page/팝_음악.md "wikilink")\[3\] 및 [팝 록](../Page/팝_록.md "wikilink")\[4\]\[5\] 음반이다.\[6\] 많은 비평가들이 말하길 "[Moves Like Jagger](https://ko.wikipedia.org/wiki/Moves_Like_Jagger "wikilink")"가 *Overexposed*에 많은 영향을 끼쳤다고 한다.\[7\]\[8\]\[9\]
 
 ### 노래와 가사
 
-음반의 첫 번째 곡인 "[One More Night](https://ko.wikipedia.org/wiki/One_More_Night_\(마룬_5의_노래\) "wikilink")"는 유혹적인 섹시 레게 곡\[10\] 으로, [팝과](https://ko.wikipedia.org/wiki/팝_음악 "wikilink") [록의](https://ko.wikipedia.org/wiki/록_음악 "wikilink") 영향을 받았다.\[11\] 가사는 특정한 사랑 관계가 얽힌 것이 풀리는 이야기이다.\[12\] 음반의 두 번째 곡인 "Payphone"은 팝과 R\&B 곡\[13\] 으로 [힙합](https://ko.wikipedia.org/wiki/힙합 "wikilink") 비트와 [피아노](https://ko.wikipedia.org/wiki/피아노 "wikilink") 후크를 포함한다.\[14\] 미국의 래퍼 [위즈 칼리파가](https://ko.wikipedia.org/wiki/위즈_칼리파 "wikilink") 피처링했으며, 이 곡은 과거의 관계에 대한 이야기이다.\[15\] "[Daylight](https://ko.wikipedia.org/wiki/Daylight_\(마룬_5의_노래\) "wikilink")" 는 [소프트 록](https://ko.wikipedia.org/wiki/소프트_록 "wikilink") 곡으로,\[16\] 영국의 밴드 [콜드플레이](https://ko.wikipedia.org/wiki/콜드플레이 "wikilink")의 곡이 떠오른다는 평가를 받았다. "Lucky Strike"는 [훵크](https://ko.wikipedia.org/wiki/훵크 "wikilink") 곡으로\[17\] [덥스텝](https://ko.wikipedia.org/wiki/덥스텝 "wikilink")과 [솔 록의](https://ko.wikipedia.org/wiki/솔_록 "wikilink") 영향을 받았다.\[18\]\[19\] 또한 가사에 약간의 성적인 내용을 담고 있기도 하다.\[20\] 다섯 번째 곡인 "The Man Who Never Lied"는 팝 및 팝 록 곡이며,\[21\] 여섯 번째 곡인 "[Love Somebody](../Page/Love_Somebody_\(마룬_5의_노래\).md "wikilink")" 댄스 팝 곡으로,\[22\] [신디사이저](https://ko.wikipedia.org/wiki/신디사이저 "wikilink") 후크가 어우러진 곡이다.\[23\] 일곱 번째 곡 "Ladykiller"는 곡 중간의 기타 솔로가\[24\] 애덤 리바인의 [블루아이드 소울적인](https://ko.wikipedia.org/wiki/블루아이드_소울 "wikilink") 목소리와 훵크적 그루브와 어우러진다.\[25\] [BBC 뮤직과](https://ko.wikipedia.org/wiki/BBC "wikilink") [버진 미디어에](https://ko.wikipedia.org/wiki/버진_미디어 "wikilink") 따르면 이는 [마이클 잭슨에게](https://ko.wikipedia.org/wiki/마이클_잭슨 "wikilink") 영감을 받았다고 한다.\[26\]\[27\]
+음반의 첫 번째 곡인 "[One More Night](https://ko.wikipedia.org/wiki/One_More_Night_\(마룬_5의_노래\) "wikilink")"는 유혹적인 섹시 레게 곡\[10\] 으로, [팝과](../Page/팝_음악.md "wikilink") [록의](../Page/록_음악.md "wikilink") 영향을 받았다.\[11\] 가사는 특정한 사랑 관계가 얽힌 것이 풀리는 이야기이다.\[12\] 음반의 두 번째 곡인 "Payphone"은 팝과 R\&B 곡\[13\] 으로 [힙합](../Page/힙합.md "wikilink") 비트와 [피아노](../Page/피아노.md "wikilink") 후크를 포함한다.\[14\] 미국의 래퍼 [위즈 칼리파가](../Page/위즈_칼리파.md "wikilink") 피처링했으며, 이 곡은 과거의 관계에 대한 이야기이다.\[15\] "[Daylight](https://ko.wikipedia.org/wiki/Daylight_\(마룬_5의_노래\) "wikilink")" 는 [소프트 록](https://ko.wikipedia.org/wiki/소프트_록 "wikilink") 곡으로,\[16\] 영국의 밴드 [콜드플레이](../Page/콜드플레이.md "wikilink")의 곡이 떠오른다는 평가를 받았다. "Lucky Strike"는 [훵크](https://ko.wikipedia.org/wiki/훵크 "wikilink") 곡으로\[17\] [덥스텝](../Page/덥스텝.md "wikilink")과 [솔 록의](https://ko.wikipedia.org/wiki/솔_록 "wikilink") 영향을 받았다.\[18\]\[19\] 또한 가사에 약간의 성적인 내용을 담고 있기도 하다.\[20\] 다섯 번째 곡인 "The Man Who Never Lied"는 팝 및 팝 록 곡이며,\[21\] 여섯 번째 곡인 "[Love Somebody](../Page/Love_Somebody_\(마룬_5의_노래\).md "wikilink")" 댄스 팝 곡으로,\[22\] [신디사이저](https://ko.wikipedia.org/wiki/신디사이저 "wikilink") 후크가 어우러진 곡이다.\[23\] 일곱 번째 곡 "Ladykiller"는 곡 중간의 기타 솔로가\[24\] 애덤 리바인의 [블루아이드 소울적인](https://ko.wikipedia.org/wiki/블루아이드_소울 "wikilink") 목소리와 훵크적 그루브와 어우러진다.\[25\] [BBC 뮤직과](https://ko.wikipedia.org/wiki/BBC "wikilink") [버진 미디어에](https://ko.wikipedia.org/wiki/버진_미디어 "wikilink") 따르면 이는 [마이클 잭슨에게](https://ko.wikipedia.org/wiki/마이클_잭슨 "wikilink") 영감을 받았다고 한다.\[26\]\[27\]
 
-여덞 번째 곡 "Fortune Teller" 은 팝 피아노 비트가 어우러진 곡으로 여러 감정을 표현하며,\[28\] 다음 곡인 "Sad"는 피아노 발라드 곡이다.\[29\].\[30\] 열 번째 곡 "Tickets"로, 마룬 5의 2010년 싱글 "[Give A Little More](https://ko.wikipedia.org/wiki/Give_A_Little_More "wikilink")"의 영향을 받았다고 전해진다.\[31\] 그 다음 곡은 "Doin' Dirt"이며, 마지막 열 두 번째 곡은 발라드 곡인 "Beautiful Goodbye"이다.\[32\] *Overexposed*의 딜럭스반에는 "Wipe Your Eyes", "Wasted Years"와 [프린스](https://ko.wikipedia.org/wiki/프린스 "wikilink")의 1986년 싱글의 커버 곡인 "Kiss" 등 세 곡의 보너스 트랙이 수록되어있다. Wipe Your Eyes"는 중간 템포의 피아노 발라드 곡으로 [말리](https://ko.wikipedia.org/wiki/말리 "wikilink")의 음악 듀오인 아마두 앤 마리암(Amadou & Mariam)의 "Sabali"를 샘플링하였다.\[33\]
+여덞 번째 곡 "Fortune Teller" 은 팝 피아노 비트가 어우러진 곡으로 여러 감정을 표현하며,\[28\] 다음 곡인 "Sad"는 피아노 발라드 곡이다.\[29\].\[30\] 열 번째 곡 "Tickets"로, 마룬 5의 2010년 싱글 "[Give A Little More](https://ko.wikipedia.org/wiki/Give_A_Little_More "wikilink")"의 영향을 받았다고 전해진다.\[31\] 그 다음 곡은 "Doin' Dirt"이며, 마지막 열 두 번째 곡은 발라드 곡인 "Beautiful Goodbye"이다.\[32\] *Overexposed*의 딜럭스반에는 "Wipe Your Eyes", "Wasted Years"와 [프린스](../Page/프린스.md "wikilink")의 1986년 싱글의 커버 곡인 "Kiss" 등 세 곡의 보너스 트랙이 수록되어있다. Wipe Your Eyes"는 중간 템포의 피아노 발라드 곡으로 [말리](../Page/말리.md "wikilink")의 음악 듀오인 아마두 앤 마리암(Amadou & Mariam)의 "Sabali"를 샘플링하였다.\[33\]
 
 ## 음반 커버
 
@@ -84,7 +84,7 @@
 
 ## 인증
 
-|- \!scope="row"| 대한민국 ([가온 차트](https://ko.wikipedia.org/wiki/가온_차트 "wikilink"))\[45\] | |16,766 |-       |- \!scope="row"| 필리핀 ([PARI](https://ko.wikipedia.org/wiki/PARI "wikilink"))\[46\] |골드 |7,500 |-
+|- \!scope="row"| 대한민국 ([가온 차트](../Page/가온_차트.md "wikilink"))\[45\] | |16,766 |-       |- \!scope="row"| 필리핀 ([PARI](https://ko.wikipedia.org/wiki/PARI "wikilink"))\[46\] |골드 |7,500 |-
 
 ## 제작진
 
@@ -93,10 +93,10 @@
 <!-- end list -->
 
   - [애덤 리바인](../Page/애덤_리바인.md "wikilink") – 리드 및 백 보컬, 기타, 프로듀싱
-  - [미키 매든](https://ko.wikipedia.org/wiki/미키_매든 "wikilink") – 베이스 기타
-  - [제임스 밸런타인](https://ko.wikipedia.org/wiki/제임스_밸런타인 "wikilink") – 기타, 백 보컬, 시타르, 건반, 프로듀싱
+  - [미키 매든](../Page/미키_매든.md "wikilink") – 베이스 기타
+  - [제임스 밸런타인](../Page/제임스_밸런타인.md "wikilink") – 기타, 백 보컬, 시타르, 건반, 프로듀싱
   - [맷 플린](https://ko.wikipedia.org/wiki/맷_플린 "wikilink") – 보컬, 타악기
-  - [PJ 모턴](https://ko.wikipedia.org/wiki/PJ_모턴 "wikilink") – 건반, 백 보컬
+  - [PJ 모턴](../Page/PJ_모턴.md "wikilink") – 건반, 백 보컬
 
 <!-- end list -->
 
@@ -104,14 +104,14 @@
 
 <!-- end list -->
 
-  - [샘 패러](https://ko.wikipedia.org/wiki/샘_패러 "wikilink") - 프로듀싱, 프로그래밍, 백 보컬
-  - [라이언 두식](https://ko.wikipedia.org/wiki/라이언_두식 "wikilink") - 작사작곡
+  - [샘 패러](../Page/샘_패러.md "wikilink") - 프로듀싱, 프로그래밍, 백 보컬
+  - [라이언 두식](../Page/라이언_두식.md "wikilink") - 작사작곡
   - [제시 카마이클](../Page/제시_카마이클.md "wikilink") - 작사작곡
-  - [위즈 칼리파](https://ko.wikipedia.org/wiki/위즈_칼리파 "wikilink") - 작사작곡, 보컬
+  - [위즈 칼리파](../Page/위즈_칼리파.md "wikilink") - 작사작곡, 보컬
   - [Dan Omelio](https://ko.wikipedia.org/wiki/Dan_Omelio "wikilink") - 기타, 건반
   - [베니 블랑코](https://ko.wikipedia.org/wiki/베니_블랑코 "wikilink") - 기타, 건반, 와인 잔
   - [쉘백](https://ko.wikipedia.org/wiki/쉘백 "wikilink") - 프로듀싱, 기타, 건반, 프로그래밍, 드럼, 백 보컬
-  - [맥스 마틴](https://ko.wikipedia.org/wiki/맥스_마틴 "wikilink") - 백 보컬, 건반, 기타
+  - [맥스 마틴](../Page/맥스_마틴.md "wikilink") - 백 보컬, 건반, 기타
   - [아마르 말릭](https://ko.wikipedia.org/wiki/아마르_말릭 "wikilink") - 백 보컬, 기타, 와인 잔
   - Brie Larson - 백 보컬
   - Savannah Buffet - 백 보컬
@@ -119,7 +119,7 @@
   - Z 버그(Z Berg) - 백 보컬
   - Vanessa Long - 백 보컬
   - MdL - 건반
-  - [라이언 테더](https://ko.wikipedia.org/wiki/라이언_테더 "wikilink") - 건반
+  - [라이언 테더](../Page/라이언_테더.md "wikilink") - 건반
   - [노엘 장카넬라](https://ko.wikipedia.org/wiki/노엘_장카넬라 "wikilink") - 건반
   - [노아 패소보이](https://ko.wikipedia.org/wiki/노아_패소보이 "wikilink") - 프로듀싱, 건반
   - David Silberstein - 와인 잔

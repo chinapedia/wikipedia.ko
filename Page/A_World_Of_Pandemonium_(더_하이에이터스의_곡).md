@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [A World Of Pandemonium \(  \)](https://ko.wikipedia.org/wiki/A_World_Of_Pandemonium_\(__\)).
 
 
-『**A World Of Pandemonium**』(어 월드 오브 펜더모니엄)은 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink")[11월 23일에](https://ko.wikipedia.org/wiki/11월_23일 "wikilink") 발매된 [더 하이에이터스의](https://ko.wikipedia.org/wiki/더_하이에이터스 "wikilink") 3번째 [오리지널 앨범이다](https://ko.wikipedia.org/wiki/스튜디오_음반 "wikilink"). 일본 내 시디번호는 FLCF-4406 이며, 2012년 2월 28일 라이센스 음반으로 한국에 발매되었다.
+『**A World Of Pandemonium**』(어 월드 오브 펜더모니엄)은 [2011년](../Page/2011년.md "wikilink")[11월 23일에](../Page/11월_23일.md "wikilink") 발매된 [더 하이에이터스의](https://ko.wikipedia.org/wiki/더_하이에이터스 "wikilink") 3번째 [오리지널 앨범이다](https://ko.wikipedia.org/wiki/스튜디오_음반 "wikilink"). 일본 내 시디번호는 FLCF-4406 이며, 2012년 2월 28일 라이센스 음반으로 한국에 발매되었다.
 
 ## 개요
 

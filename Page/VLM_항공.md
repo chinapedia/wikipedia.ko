@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [VLM ](https://ko.wikipedia.org/wiki/VLM_).
 
 
-**VLM 항공** ()는 에어프랑스의 지분에 등록된 자회사이자 [벨기에](https://ko.wikipedia.org/wiki/벨기에 "wikilink")의 지역 항공사로 [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink")에 설립되어 [런던 시티 공항을](https://ko.wikipedia.org/wiki/런던_시티_공항 "wikilink") [허브 공항을](../Page/허브_공항.md "wikilink") 사용한다. VLM 항공은 주로 [유럽](https://ko.wikipedia.org/wiki/유럽 "wikilink")의 국제선 노선을 취항하고 있다.
+**VLM 항공** ()는 에어프랑스의 지분에 등록된 자회사이자 [벨기에](../Page/벨기에.md "wikilink")의 지역 항공사로 [1992년](../Page/1992년.md "wikilink")에 설립되어 [런던 시티 공항을](../Page/런던_시티_공항.md "wikilink") [허브 공항을](../Page/허브_공항.md "wikilink") 사용한다. VLM 항공은 주로 [유럽](../Page/유럽.md "wikilink")의 국제선 노선을 취항하고 있다.
 
 ## 보유 기종
 
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink") 기준으로 VLM 항공은 다음과 같은 기종을 보유하고 있다.\[1\]
+  - [2012년](../Page/2012년.md "wikilink") [4월](../Page/4월.md "wikilink") 기준으로 VLM 항공은 다음과 같은 기종을 보유하고 있다.\[1\]
 
 | 기종                                   | 대수 | 승객 | 비고                                       |
 | ------------------------------------ | -- | -- | ---------------------------------------- |
@@ -24,7 +24,7 @@
   - [마틴 에어](https://ko.wikipedia.org/wiki/마틴_에어 "wikilink")
   - [KLM](../Page/KLM.md "wikilink")
   - [알리탈리아](../Page/알리탈리아.md "wikilink")
-  - [케냐 항공](https://ko.wikipedia.org/wiki/케냐_항공 "wikilink")
+  - [케냐 항공](../Page/케냐_항공.md "wikilink")
 
 ## 외부 링크
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [First Bridge](https://ko.wikipedia.org/wiki/First_Bridge).
 
 
-《**First Bridge**》는 [소찬휘](https://ko.wikipedia.org/wiki/소찬휘 "wikilink")의 4집 정규 음반이다.
+《**First Bridge**》는 [소찬휘](../Page/소찬휘.md "wikilink")의 4집 정규 음반이다.
 
 ## 수록곡
 

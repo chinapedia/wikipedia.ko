@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ BL](https://ko.wikipedia.org/wiki/_BL).
 
 
-**웨스트 비엘** (WEST BL)은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [힙합](https://ko.wikipedia.org/wiki/힙합 "wikilink") 래퍼이다. 1999년 겨울에 데뷔, [대구](https://ko.wikipedia.org/wiki/대구광역시 "wikilink") 힙합씬을 일군 사람 중 한 명으로 평가받고 있다.\[1\]\[2\]
+**웨스트 비엘** (WEST BL)은 [대한민국](../Page/대한민국.md "wikilink")의 [힙합](../Page/힙합.md "wikilink") 래퍼이다. 1999년 겨울에 데뷔, [대구](../Page/대구광역시.md "wikilink") 힙합씬을 일군 사람 중 한 명으로 평가받고 있다.\[1\]\[2\]
 
 그의 이름 "WEST BL" 의 뜻은 본명 <서준혁> 에서 따왔으며, 그의 성 "서" 를 서쪽으로 풀이하여 "WEST"
 
@@ -19,7 +19,7 @@
 
 Psycho Sound는 대구에서 한정 발매된 힙합 컴필레이션 앨범 "*Tha Beatz"* 에 참여하기도 하였다.\[3\]
 
-한편 West BL은 Psycho Sound 멤버 중에서도, 현재 [Unknown People로](https://ko.wikipedia.org/wiki/언노운_피플 "wikilink") 활동 중인 5attack, Horror G'K와 함께
+한편 West BL은 Psycho Sound 멤버 중에서도, 현재 [Unknown People로](../Page/언노운_피플.md "wikilink") 활동 중인 5attack, Horror G'K와 함께
 
 **낯선사람들**이라는 3인조 팀을 조직하여 활동하기도 하였다.
 

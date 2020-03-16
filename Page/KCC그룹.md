@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KCC](https://ko.wikipedia.org/wiki/KCC).
 
 
-**KCC그룹**은 [주식회사 케이씨씨를](https://ko.wikipedia.org/wiki/KCC_\(기업\) "wikilink") 모기업으로 한, [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 기업집단이다.\[1\] [1958년](https://ko.wikipedia.org/wiki/1958년 "wikilink") [정상영](https://ko.wikipedia.org/wiki/정상영 "wikilink") KCC그룹 명예회장이 [정주영](https://ko.wikipedia.org/wiki/정주영 "wikilink") [현대그룹](https://ko.wikipedia.org/wiki/현대그룹 "wikilink") 명예회장의 유학 지시를 뿌리치고 직원 7명을 모아 [서울특별시](https://ko.wikipedia.org/wiki/서울특별시 "wikilink") [영등포구](https://ko.wikipedia.org/wiki/영등포구 "wikilink")에 설립한 금강스레트공업주식회사가 시초이다.\[2\] 주요 임원으로 현재의 범 현대가 총수였던 [정주영](https://ko.wikipedia.org/wiki/정주영 "wikilink")의 막내동생인 정상영 명예회장, 그 아들인 정몽진 회장과 정몽익 사장이 있다.\[3\] KCC의 일가가 아닌 CEO는 윤희영 대표이사가 유일하다.
+**KCC그룹**은 [주식회사 케이씨씨를](../Page/KCC_\(기업\).md "wikilink") 모기업으로 한, [대한민국](../Page/대한민국.md "wikilink")의 기업집단이다.\[1\] [1958년](../Page/1958년.md "wikilink") [정상영](../Page/정상영.md "wikilink") KCC그룹 명예회장이 [정주영](../Page/정주영.md "wikilink") [현대그룹](../Page/현대그룹.md "wikilink") 명예회장의 유학 지시를 뿌리치고 직원 7명을 모아 [서울특별시](../Page/서울특별시.md "wikilink") [영등포구](../Page/영등포구.md "wikilink")에 설립한 금강스레트공업주식회사가 시초이다.\[2\] 주요 임원으로 현재의 범 현대가 총수였던 [정주영](../Page/정주영.md "wikilink")의 막내동생인 정상영 명예회장, 그 아들인 정몽진 회장과 정몽익 사장이 있다.\[3\] KCC의 일가가 아닌 CEO는 윤희영 대표이사가 유일하다.
 
 ## 계열사
 
@@ -12,17 +12,17 @@
   - KCC글라스
   - [상아탑](https://ko.wikipedia.org/wiki/상아탑_\(기업\) "wikilink")
   - 완주흰여울
-  - [전주 KCC 이지스](https://ko.wikipedia.org/wiki/전주_KCC_이지스 "wikilink")
+  - [전주 KCC 이지스](../Page/전주_KCC_이지스.md "wikilink")
 
 ## 사건·사고 및 논란
 
 ### 편법경영 논란
 
-[KCC자원개발](https://ko.wikipedia.org/wiki/KCC자원개발 "wikilink")은 [강원도](https://ko.wikipedia.org/wiki/강원도_\(남\) "wikilink") [영월군](https://ko.wikipedia.org/wiki/영월군 "wikilink") 북면 소재지 [석회석](https://ko.wikipedia.org/wiki/석회암 "wikilink") 광업권을 [1995년 1월](https://ko.wikipedia.org/wiki/1995년_1월 "wikilink") [한일석회제조](https://ko.wikipedia.org/wiki/한일석회제조 "wikilink")로부터 매입한 뒤, [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [3월 14일](https://ko.wikipedia.org/wiki/3월_14일 "wikilink") 정몽익에게 매각했다. KCC자원개발의 지분 구조는 그룹의 모태이자 핵심인 KCC(60%)를 비롯해 정몽진 KCC 회장(38.6%), 정상영 KCC 명예회장(1.263%), [정몽익](https://ko.wikipedia.org/wiki/정몽익 "wikilink") KCC 사장(1.263%), [정몽열](https://ko.wikipedia.org/wiki/정몽열 "wikilink") KCC건설 사장(0.037%) 등의 순으로 오너 일가가 나머지 40%를 나누어 가지고 있으며 KCC의 지분(41.86%)은 정몽진 회장(17.76%), 정상영 명예회장(10.0%), 정몽익 사장(8.81%), 정몽열 사장(5.29%) 등이 보유하고 있어 KCC자원개발은 사실상 정씨 일가의 지배 하에 있다. [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") KCC자원개발 감사보고서에 따르면 정몽진 회장은 KCC자원개발로부터 당시 광업권을 800여만원에 취득했고 이후 KCC자원개발은 정 회장에게 ‘조광료’ 명목으로 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") 1억8819만9000원의 광업권 사용료를 지급한 것을 시작으로 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 3억2379만7000원, [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") 8억8246만2000원을 지급했다.\[4\]\[5\]
+[KCC자원개발](https://ko.wikipedia.org/wiki/KCC자원개발 "wikilink")은 [강원도](https://ko.wikipedia.org/wiki/강원도_\(남\) "wikilink") [영월군](https://ko.wikipedia.org/wiki/영월군 "wikilink") 북면 소재지 [석회석](https://ko.wikipedia.org/wiki/석회암 "wikilink") 광업권을 [1995년 1월](https://ko.wikipedia.org/wiki/1995년_1월 "wikilink") [한일석회제조](https://ko.wikipedia.org/wiki/한일석회제조 "wikilink")로부터 매입한 뒤, [2000년](../Page/2000년.md "wikilink") [3월 14일](../Page/3월_14일.md "wikilink") 정몽익에게 매각했다. KCC자원개발의 지분 구조는 그룹의 모태이자 핵심인 KCC(60%)를 비롯해 정몽진 KCC 회장(38.6%), 정상영 KCC 명예회장(1.263%), [정몽익](https://ko.wikipedia.org/wiki/정몽익 "wikilink") KCC 사장(1.263%), [정몽열](https://ko.wikipedia.org/wiki/정몽열 "wikilink") KCC건설 사장(0.037%) 등의 순으로 오너 일가가 나머지 40%를 나누어 가지고 있으며 KCC의 지분(41.86%)은 정몽진 회장(17.76%), 정상영 명예회장(10.0%), 정몽익 사장(8.81%), 정몽열 사장(5.29%) 등이 보유하고 있어 KCC자원개발은 사실상 정씨 일가의 지배 하에 있다. [2000년](../Page/2000년.md "wikilink") KCC자원개발 감사보고서에 따르면 정몽진 회장은 KCC자원개발로부터 당시 광업권을 800여만원에 취득했고 이후 KCC자원개발은 정 회장에게 ‘조광료’ 명목으로 [2003년](../Page/2003년.md "wikilink") 1억8819만9000원의 광업권 사용료를 지급한 것을 시작으로 [2004년](../Page/2004년.md "wikilink") 3억2379만7000원, [2005년](../Page/2005년.md "wikilink") 8억8246만2000원을 지급했다.\[4\]\[5\]
 
 ## 같이 보기
 
-  - [현대그룹](https://ko.wikipedia.org/wiki/현대그룹 "wikilink")
+  - [현대그룹](../Page/현대그룹.md "wikilink")
 
 ## 각주
 

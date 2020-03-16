@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Twinkle \(EP\)](https://ko.wikipedia.org/wiki/Twinkle_\(EP\)).
 
 
-《**Twinkle**》은 대한민국의 음악 그룹 [소녀시대-태티서](https://ko.wikipedia.org/wiki/소녀시대-태티서 "wikilink")의 첫 미니 앨범이다. 2012년 4월 30일 [케이엠피홀딩스를](https://ko.wikipedia.org/wiki/KMP_홀딩스 "wikilink") 통해 발매되었다.
+《**Twinkle**》은 대한민국의 음악 그룹 [소녀시대-태티서](../Page/소녀시대-태티서.md "wikilink")의 첫 미니 앨범이다. 2012년 4월 30일 [케이엠피홀딩스를](https://ko.wikipedia.org/wiki/KMP_홀딩스 "wikilink") 통해 발매되었다.
 
 ## 평가
 
@@ -9,7 +9,7 @@
 
 ## 공연
 
-태티서는 2012년 5월 3일 《[엠카운트다운](https://ko.wikipedia.org/wiki/엠카운트다운 "wikilink")》을 시작으로 4일 《[뮤직뱅크](../Page/뮤직뱅크.md "wikilink")》, 5일 《[음악중심](https://ko.wikipedia.org/wiki/음악중심 "wikilink")》, 6일 《[인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink")》에서 타이틀곡 "Twinkle"과 "Baby Steps"을 선보이며 컴백을 했다.\[2\] 이후 6월 3일 《음악중심》에서 마지막 음악프로그램 무대를 했는데, 이날 무대에 앞서 멤버 [효연](https://ko.wikipedia.org/wiki/효연 "wikilink")이 특별출연해 효연의 《[댄싱 위드 더 스타](https://ko.wikipedia.org/wiki/댄싱_위드_더_스타 "wikilink")》 파트너와 스포츠 댄스를 선보였다.\[3\]
+태티서는 2012년 5월 3일 《[엠카운트다운](https://ko.wikipedia.org/wiki/엠카운트다운 "wikilink")》을 시작으로 4일 《[뮤직뱅크](../Page/뮤직뱅크.md "wikilink")》, 5일 《[음악중심](https://ko.wikipedia.org/wiki/음악중심 "wikilink")》, 6일 《[인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink")》에서 타이틀곡 "Twinkle"과 "Baby Steps"을 선보이며 컴백을 했다.\[2\] 이후 6월 3일 《음악중심》에서 마지막 음악프로그램 무대를 했는데, 이날 무대에 앞서 멤버 [효연](../Page/효연.md "wikilink")이 특별출연해 효연의 《[댄싱 위드 더 스타](https://ko.wikipedia.org/wiki/댄싱_위드_더_스타 "wikilink")》 파트너와 스포츠 댄스를 선보였다.\[3\]
 
 ## 수록곡
 
@@ -39,18 +39,18 @@
 
 ### 노래 차트
 
-| 노래                                                      | 최고 순위                                                                   |
-| ------------------------------------------------------- | ----------------------------------------------------------------------- |
-| <small>한국                                               |                                                                         |
-| [가온 차트](https://ko.wikipedia.org/wiki/가온_차트 "wikilink") | <small>[빌보드 K-Pop 핫 100](../Page/코리아_K-Pop_핫_100.md "wikilink")</small> |
-| "Twinkle"                                               | 1\[6\]                                                                  |
-| "Baby Steps"                                            | 15\[7\]                                                                 |
-| "OMG (Oh My God)"                                       | 26\[8\]                                                                 |
-| "처음이었죠 (Love Sick)"                                     | 28\[9\]                                                                 |
-| "안녕 (Good-bye, Hello)"                                  | 32\[10\]                                                                |
-| "Library"                                               | 33\[11\]                                                                |
-| "체크메이트 (Checkmate)"                                     | 44\[12\]                                                                |
-|                                                         |                                                                         |
+| 노래                                   | 최고 순위                                                                   |
+| ------------------------------------ | ----------------------------------------------------------------------- |
+| <small>한국                            |                                                                         |
+| [가온 차트](../Page/가온_차트.md "wikilink") | <small>[빌보드 K-Pop 핫 100](../Page/코리아_K-Pop_핫_100.md "wikilink")</small> |
+| "Twinkle"                            | 1\[6\]                                                                  |
+| "Baby Steps"                         | 15\[7\]                                                                 |
+| "OMG (Oh My God)"                    | 26\[8\]                                                                 |
+| "처음이었죠 (Love Sick)"                  | 28\[9\]                                                                 |
+| "안녕 (Good-bye, Hello)"               | 32\[10\]                                                                |
+| "Library"                            | 33\[11\]                                                                |
+| "체크메이트 (Checkmate)"                  | 44\[12\]                                                                |
+|                                      |                                                                         |
 
 ## 각주
 
@@ -59,7 +59,7 @@
 1.
 2.
 3.
-4.  [가온 앨범 차트 (2012년 5월 둘째주)](http://www.gaonchart.co.kr/main/section/album/list.gaon?nationGbn=T)  《[가온 차트](https://ko.wikipedia.org/wiki/가온_차트 "wikilink")》. 2012년 5월 10일 확인.
+4.  [가온 앨범 차트 (2012년 5월 둘째주)](http://www.gaonchart.co.kr/main/section/album/list.gaon?nationGbn=T)  《[가온 차트](../Page/가온_차트.md "wikilink")》. 2012년 5월 10일 확인.
 5.
 6.  [가온 디지털 종합 차트](http://www.gaonchart.co.kr/main/section/total/list.gaon?nationGbn=T)  5월 둘째주, 2012년 5월 10일 확인.
 7.

@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [CNBC](https://ko.wikipedia.org/wiki/CNBC).
 
 
-**CNBC**()는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [경제](https://ko.wikipedia.org/wiki/경제 "wikilink") 및 [금융](../Page/금융.md "wikilink") 전문 TV 채널이다. [1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink") [4월 17일에](https://ko.wikipedia.org/wiki/4월_17일 "wikilink") [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") 본사가 개국하였고, [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [6월 20일에](https://ko.wikipedia.org/wiki/6월_20일 "wikilink") [아시아](https://ko.wikipedia.org/wiki/아시아 "wikilink") 본부가 개국하였다. [NBC유니버설](../Page/NBC유니버설.md "wikilink")에서 운영하고 있으며, [미국](https://ko.wikipedia.org/wiki/미국 "wikilink"), [아시아](https://ko.wikipedia.org/wiki/아시아 "wikilink") 대륙 외 전 세계 지역에서 송출하고 있다.
+**CNBC**()는 [미국](../Page/미국.md "wikilink")의 [경제](../Page/경제.md "wikilink") 및 [금융](../Page/금융.md "wikilink") 전문 TV 채널이다. [1989년](../Page/1989년.md "wikilink") [4월 17일에](../Page/4월_17일.md "wikilink") [미국](../Page/미국.md "wikilink") 본사가 개국하였고, [1995년](../Page/1995년.md "wikilink") [6월 20일에](../Page/6월_20일.md "wikilink") [아시아](../Page/아시아.md "wikilink") 본부가 개국하였다. [NBC유니버설](../Page/NBC유니버설.md "wikilink")에서 운영하고 있으며, [미국](../Page/미국.md "wikilink"), [아시아](../Page/아시아.md "wikilink") 대륙 외 전 세계 지역에서 송출하고 있다.
 
 ## 채널 목록
 
-  - CNBC 미국 본사(**CNBC**) - 개국일: [1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink") [4월 17일](https://ko.wikipedia.org/wiki/4월_17일 "wikilink")
-  - CNBC 아시아(**CNBC Asia**) - 개국일: [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [6월 20일](https://ko.wikipedia.org/wiki/6월_20일 "wikilink")
+  - CNBC 미국 본사(**CNBC**) - 개국일: [1989년](../Page/1989년.md "wikilink") [4월 17일](../Page/4월_17일.md "wikilink")
+  - CNBC 아시아(**CNBC Asia**) - 개국일: [1995년](../Page/1995년.md "wikilink") [6월 20일](../Page/6월_20일.md "wikilink")
 
 ## 같이 보기
 
   - [NBC](../Page/NBC.md "wikilink")
-  - [SBS CNBC](https://ko.wikipedia.org/wiki/SBS_CNBC "wikilink")
+  - [SBS CNBC](../Page/SBS_CNBC.md "wikilink")
   - [닛케이 CNBC](https://ko.wikipedia.org/wiki/닛케이_CNBC "wikilink")
 
 ## 외부 링크
