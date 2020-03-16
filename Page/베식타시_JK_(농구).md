@@ -1,16 +1,16 @@
 > This article is converted from Wikipedia: [ JK \(\)](https://ko.wikipedia.org/wiki/_JK_\(\)).
 
 
-**베식타시**(Beşiktaş J.K.)는 [터키](https://ko.wikipedia.org/wiki/터키 "wikilink") [이스탄불](https://ko.wikipedia.org/wiki/이스탄불 "wikilink")을 연고로 하는 프로[농구](https://ko.wikipedia.org/wiki/농구 "wikilink")단이다.
+**베식타시**(Beşiktaş J.K.)는 [터키](../Page/터키.md "wikilink") [이스탄불](../Page/이스탄불.md "wikilink")을 연고로 하는 프로[농구](../Page/농구.md "wikilink")단이다.
 
 ## 역대 유명 선수
 
-  - [앨런 아이버슨](https://ko.wikipedia.org/wiki/앨런_아이버슨 "wikilink")
-  - [데런 윌리엄스](https://ko.wikipedia.org/wiki/데런_윌리엄스 "wikilink")
+  - [앨런 아이버슨](../Page/앨런_아이버슨.md "wikilink")
+  - [데런 윌리엄스](../Page/데런_윌리엄스.md "wikilink")
 
 ## 같이 보기
 
-  - [베식타시 JK](https://ko.wikipedia.org/wiki/베식타시_JK "wikilink")
+  - [베식타시 JK](../Page/베식타시_JK.md "wikilink")
 
 ## 외부 링크
 

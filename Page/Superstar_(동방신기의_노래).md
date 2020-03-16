@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Superstar \( \)](https://ko.wikipedia.org/wiki/Superstar_\(_\)).
 
 
-〈**Superstar**〉(슈퍼스타)는 일본에서 발매한 대한민국 음악 그룹 [동방신기](https://ko.wikipedia.org/wiki/동방신기 "wikilink")의 32번째 [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink")이다.
+〈**Superstar**〉(슈퍼스타)는 일본에서 발매한 대한민국 음악 그룹 [동방신기](../Page/동방신기.md "wikilink")의 32번째 [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink")이다.
 
 ## 개요
 
-  - 〈[Why? (Keep Your Head Down)](https://ko.wikipedia.org/wiki/Why?_\(Keep_Your_Head_Down\) "wikilink")〉이후 6개월 만에 발매한 싱글이다.
+  - 〈[Why? (Keep Your Head Down)](../Page/Why?_\(Keep_Your_Head_Down\).md "wikilink")〉이후 6개월 만에 발매한 싱글이다.
   - 정규 5집 〈[TONE](../Page/TONE.md "wikilink")〉의 선행 싱글이다.
-  - 커플링곡 〈I Don't Know〉는 국내 작곡가 [히치하이커의](https://ko.wikipedia.org/wiki/히치하이커_\(음악가\) "wikilink") 곡으로 이후 동방신기의 국내 정규 6집 〈[Catch Me](https://ko.wikipedia.org/wiki/Catch_Me_\(동방신기의_음반\) "wikilink")〉에도 수록되었다.
+  - 커플링곡 〈I Don't Know〉는 국내 작곡가 [히치하이커의](../Page/히치하이커_\(음악가\).md "wikilink") 곡으로 이후 동방신기의 국내 정규 6집 〈[Catch Me](../Page/Catch_Me_\(동방신기의_음반\).md "wikilink")〉에도 수록되었다.
 
 ## 수록곡
 

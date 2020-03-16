@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ \(JTBC\)](https://ko.wikipedia.org/wiki/_\(JTBC\)).
 
 
-**《뉴스콘서트》**은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서 평일 오후 5시 35분에 [텔레비전](https://ko.wikipedia.org/wiki/텔레비전 "wikilink")으로 방송되었던 [JTBC](https://ko.wikipedia.org/wiki/JTBC "wikilink")의 주중 저녁 [뉴스](https://ko.wikipedia.org/wiki/뉴스 "wikilink") 프로그램이다.
+**《뉴스콘서트》**은 [대한민국](../Page/대한민국.md "wikilink")에서 평일 오후 5시 35분에 [텔레비전](../Page/텔레비전.md "wikilink")으로 방송되었던 [JTBC](../Page/JTBC.md "wikilink")의 주중 저녁 [뉴스](../Page/뉴스.md "wikilink") 프로그램이다.
 
 ## 개요
 
@@ -9,15 +9,15 @@
 
 ## 진행자
 
-  - 1대 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [4월 1일](https://ko.wikipedia.org/wiki/4월_1일 "wikilink") \~ [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [9월 13일](https://ko.wikipedia.org/wiki/9월_13일 "wikilink") : [임백천](https://ko.wikipedia.org/wiki/임백천 "wikilink"), [임윤선](../Page/임윤선_\(변호사\).md "wikilink")
-  - 2대 2013년 [9월 16일](https://ko.wikipedia.org/wiki/9월_16일 "wikilink") \~ [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [11월 15일](https://ko.wikipedia.org/wiki/11월_15일 "wikilink") : [박성태](https://ko.wikipedia.org/wiki/박성태 "wikilink")
-  - 3대 2013년 [11월 18일](https://ko.wikipedia.org/wiki/11월_18일 "wikilink") \~ [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [2월 7일](https://ko.wikipedia.org/wiki/2월_7일 "wikilink") : [박성태](https://ko.wikipedia.org/wiki/박성태 "wikilink"), [이지은](https://ko.wikipedia.org/wiki/이지은_\(방송인\) "wikilink")
+  - 1대 [2013년](../Page/2013년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [9월 13일](../Page/9월_13일.md "wikilink") : [임백천](../Page/임백천.md "wikilink"), [임윤선](../Page/임윤선_\(변호사\).md "wikilink")
+  - 2대 2013년 [9월 16일](../Page/9월_16일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [11월 15일](../Page/11월_15일.md "wikilink") : [박성태](../Page/박성태.md "wikilink")
+  - 3대 2013년 [11월 18일](../Page/11월_18일.md "wikilink") \~ [2014년](../Page/2014년.md "wikilink") [2월 7일](../Page/2월_7일.md "wikilink") : [박성태](../Page/박성태.md "wikilink"), [이지은](https://ko.wikipedia.org/wiki/이지은_\(방송인\) "wikilink")
 
 ## 방송 시간
 
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [4월 1일](https://ko.wikipedia.org/wiki/4월_1일 "wikilink") \~ [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [9월 13일](https://ko.wikipedia.org/wiki/9월_13일 "wikilink") : 매주 월\~금요일 오후 4시 30분 (60분)
-  - 2013년 [9월 16일](https://ko.wikipedia.org/wiki/9월_16일 "wikilink") \~ [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [11월 15일](https://ko.wikipedia.org/wiki/11월_15일 "wikilink") : 매주 월\~금요일 오후 4시 25분 (85분)
-  - 2013년 [11월 18일](https://ko.wikipedia.org/wiki/11월_18일 "wikilink") \~ [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [2월 7일](https://ko.wikipedia.org/wiki/2월_7일 "wikilink") : 매주 월\~금요일 오후 5시 35분 (85분)
+  - [2013년](../Page/2013년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [9월 13일](../Page/9월_13일.md "wikilink") : 매주 월\~금요일 오후 4시 30분 (60분)
+  - 2013년 [9월 16일](../Page/9월_16일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [11월 15일](../Page/11월_15일.md "wikilink") : 매주 월\~금요일 오후 4시 25분 (85분)
+  - 2013년 [11월 18일](../Page/11월_18일.md "wikilink") \~ [2014년](../Page/2014년.md "wikilink") [2월 7일](../Page/2월_7일.md "wikilink") : 매주 월\~금요일 오후 5시 35분 (85분)
 
 ## 각주
 
@@ -25,7 +25,7 @@
 
 ## 결방일
 
-  - [1월 16일](https://ko.wikipedia.org/wiki/1월_16일 "wikilink") ; 제28회 골든디스크 시상식
+  - [1월 16일](../Page/1월_16일.md "wikilink") ; 제28회 골든디스크 시상식
 
 ## 외부 링크
 

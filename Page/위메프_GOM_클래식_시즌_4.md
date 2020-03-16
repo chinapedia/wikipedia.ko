@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ GOM   4](https://ko.wikipedia.org/wiki/_GOM___4).
 
 
-**위메프 GOM 클래식 시즌 4 (Wemakeprice GOM Classic Season 4)**는 그래텍의 [스타크래프트](https://ko.wikipedia.org/wiki/스타크래프트 "wikilink") 리그이다.
+**위메프 GOM 클래식 시즌 4 (Wemakeprice GOM Classic Season 4)**는 그래텍의 [스타크래프트](../Page/스타크래프트.md "wikilink") 리그이다.
 
 ## 개요
 
@@ -14,19 +14,19 @@
       - 우승 : 500만원
       - 준우승 : 150만원
   - 중계진
-      - 캐스터 : [박상현](https://ko.wikipedia.org/wiki/박상현_\(1981년\) "wikilink")
-      - 해설 : [박대만](https://ko.wikipedia.org/wiki/박대만 "wikilink"), [이성은](https://ko.wikipedia.org/wiki/이성은 "wikilink")
+      - 캐스터 : [박상현](../Page/박상현_\(1981년\).md "wikilink")
+      - 해설 : [박대만](../Page/박대만.md "wikilink"), [이성은](https://ko.wikipedia.org/wiki/이성은 "wikilink")
 
 ## 참가선수명단
 
-  - [김명운](https://ko.wikipedia.org/wiki/김명운 "wikilink")
+  - [김명운](../Page/김명운.md "wikilink")
   - [박지호](https://ko.wikipedia.org/wiki/박지호 "wikilink")
-  - [홍진호](https://ko.wikipedia.org/wiki/홍진호 "wikilink")
-  - [구성훈](https://ko.wikipedia.org/wiki/구성훈 "wikilink")
+  - [홍진호](../Page/홍진호.md "wikilink")
+  - [구성훈](../Page/구성훈.md "wikilink")
   - [염보성](https://ko.wikipedia.org/wiki/염보성 "wikilink")
-  - [진영화](https://ko.wikipedia.org/wiki/진영화_\(프로게이머\) "wikilink")
-  - [허영무](https://ko.wikipedia.org/wiki/허영무 "wikilink")
-  - [김윤중](https://ko.wikipedia.org/wiki/김윤중 "wikilink")
+  - [진영화](../Page/진영화_\(프로게이머\).md "wikilink")
+  - [허영무](../Page/허영무.md "wikilink")
+  - [김윤중](../Page/김윤중.md "wikilink")
 
 ## 대진표
 

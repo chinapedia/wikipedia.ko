@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TOHOSHINKI LIVE TOUR 2012 \~TONE\~](https://ko.wikipedia.org/wiki/TOHOSHINKI_LIVE_TOUR_2012_\~TONE\~).
 
 
-《**TOHOSHINKI LIVE TOUR 2012 \~TONE\~**》은 그룹 [동방신기](https://ko.wikipedia.org/wiki/동방신기 "wikilink")의 5번째이자 2인 재편 이후의 첫 일본 전국 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").
+《**TOHOSHINKI LIVE TOUR 2012 \~TONE\~**》은 그룹 [동방신기](../Page/동방신기.md "wikilink")의 5번째이자 2인 재편 이후의 첫 일본 전국 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").
 
 ## 개요
 
@@ -9,51 +9,51 @@
 
 ## 투어 일정
 
-| 일정           | 도시                                                      | 장소                                                                          | 관객 수        |
-| ------------ | ------------------------------------------------------- | --------------------------------------------------------------------------- | ----------- |
-| 2012년 1월 18일 | [횡빈](https://ko.wikipedia.org/wiki/횡빈 "wikilink")       | [요코하마 아레나](https://ko.wikipedia.org/wiki/요코하마_아레나 "wikilink")               | 통산 34,000명  |
-| 2012년 1월 19일 |                                                         |                                                                             |             |
-| 2012년 1월 25일 | [나고야 시](https://ko.wikipedia.org/wiki/나고야_시 "wikilink") | 니혼 가이시 홀                                                                    | 통산 30,000명  |
-| 2012년 1월 26일 |                                                         |                                                                             |             |
-| 2012년 1월 27일 |                                                         |                                                                             |             |
-| 2012년 2월 11일 | [복강](https://ko.wikipedia.org/wiki/후쿠오카 "wikilink")     | 마린 멧세 후쿠오카                                                                  | 통산 30,000명  |
-| 2012년 2월 12일 |                                                         |                                                                             |             |
-| 2012년 2월 18일 | [신석](https://ko.wikipedia.org/wiki/니가타 "wikilink")      | 니가타 토키 멧세                                                                   | 통산 18,000명  |
-| 2012년 2월 19일 |                                                         |                                                                             |             |
-| 2012년 2월 23일 | [찰황](https://ko.wikipedia.org/wiki/찰황 "wikilink")       | 홋카이도립 종합 체육 센터                                                              | 통산 16,000명  |
-| 2012년 2월 24일 |                                                         |                                                                             |             |
-| 2012년 3월 3일  | [광도](https://ko.wikipedia.org/wiki/히로시마 "wikilink")     | [그린 아레나](https://ko.wikipedia.org/wiki/히로시마_현립_종합_체육관 "wikilink")           | 통산 20,000명  |
-| 2012년 3월 4일  |                                                         |                                                                             |             |
-| 2012년 3월 9일  | [복정](https://ko.wikipedia.org/wiki/후쿠이 "wikilink")      | 후쿠이 선 돔                                                                     | 통산 20,000명  |
-| 2012년 3월 10일 |                                                         |                                                                             |             |
-| 2012년 3월 13일 | [대판](https://ko.wikipedia.org/wiki/대판 "wikilink")       | [오사카 성 홀](https://ko.wikipedia.org/wiki/오사카_성_홀 "wikilink")                 | 통산 22,000명  |
-| 2012년 3월 14일 |                                                         |                                                                             |             |
-| 2012년 3월 17일 | [기옥](https://ko.wikipedia.org/wiki/사이타마 "wikilink")     | [사이타마 슈퍼 아레나](https://ko.wikipedia.org/wiki/사이타마_슈퍼_아레나 "wikilink") 스타디움 모드 | 통산 105,000명 |
-| 2012년 3월 18일 |                                                         |                                                                             |             |
-| 2012년 3월 19일 |                                                         |                                                                             |             |
-| 2012년 4월 14일 | [동경](https://ko.wikipedia.org/wiki/동경 "wikilink")       | [도쿄 돔](https://ko.wikipedia.org/wiki/도쿄_돔 "wikilink")\[4\]                  | 통산 165,000명 |
-| 2012년 4월 15일 |                                                         |                                                                             |             |
-| 2012년 4월 16일 |                                                         |                                                                             |             |
-| 2012년 4월 21일 | [대판](https://ko.wikipedia.org/wiki/대판 "wikilink")       | [쿄세라 돔 오사카](https://ko.wikipedia.org/wiki/오사카_돔 "wikilink")\[5\]            | 통산 135,000명 |
-| 2012년 4월 22일 |                                                         |                                                                             |             |
-| 2012년 4월 23일 |                                                         |                                                                             |             |
+| 일정           | 도시                                                      | 장소                                                          | 관객 수        |
+| ------------ | ------------------------------------------------------- | ----------------------------------------------------------- | ----------- |
+| 2012년 1월 18일 | [횡빈](https://ko.wikipedia.org/wiki/횡빈 "wikilink")       | [요코하마 아레나](../Page/요코하마_아레나.md "wikilink")                  | 통산 34,000명  |
+| 2012년 1월 19일 |                                                         |                                                             |             |
+| 2012년 1월 25일 | [나고야 시](https://ko.wikipedia.org/wiki/나고야_시 "wikilink") | 니혼 가이시 홀                                                    | 통산 30,000명  |
+| 2012년 1월 26일 |                                                         |                                                             |             |
+| 2012년 1월 27일 |                                                         |                                                             |             |
+| 2012년 2월 11일 | [복강](https://ko.wikipedia.org/wiki/후쿠오카 "wikilink")     | 마린 멧세 후쿠오카                                                  | 통산 30,000명  |
+| 2012년 2월 12일 |                                                         |                                                             |             |
+| 2012년 2월 18일 | [신석](https://ko.wikipedia.org/wiki/니가타 "wikilink")      | 니가타 토키 멧세                                                   | 통산 18,000명  |
+| 2012년 2월 19일 |                                                         |                                                             |             |
+| 2012년 2월 23일 | [찰황](https://ko.wikipedia.org/wiki/찰황 "wikilink")       | 홋카이도립 종합 체육 센터                                              | 통산 16,000명  |
+| 2012년 2월 24일 |                                                         |                                                             |             |
+| 2012년 3월 3일  | [광도](https://ko.wikipedia.org/wiki/히로시마 "wikilink")     | [그린 아레나](../Page/히로시마_현립_종합_체육관.md "wikilink")              | 통산 20,000명  |
+| 2012년 3월 4일  |                                                         |                                                             |             |
+| 2012년 3월 9일  | [복정](https://ko.wikipedia.org/wiki/후쿠이 "wikilink")      | 후쿠이 선 돔                                                     | 통산 20,000명  |
+| 2012년 3월 10일 |                                                         |                                                             |             |
+| 2012년 3월 13일 | [대판](https://ko.wikipedia.org/wiki/대판 "wikilink")       | [오사카 성 홀](https://ko.wikipedia.org/wiki/오사카_성_홀 "wikilink") | 통산 22,000명  |
+| 2012년 3월 14일 |                                                         |                                                             |             |
+| 2012년 3월 17일 | [기옥](https://ko.wikipedia.org/wiki/사이타마 "wikilink")     | [사이타마 슈퍼 아레나](../Page/사이타마_슈퍼_아레나.md "wikilink") 스타디움 모드    | 통산 105,000명 |
+| 2012년 3월 18일 |                                                         |                                                             |             |
+| 2012년 3월 19일 |                                                         |                                                             |             |
+| 2012년 4월 14일 | [동경](https://ko.wikipedia.org/wiki/동경 "wikilink")       | [도쿄 돔](../Page/도쿄_돔.md "wikilink")\[4\]                     | 통산 165,000명 |
+| 2012년 4월 15일 |                                                         |                                                             |             |
+| 2012년 4월 16일 |                                                         |                                                             |             |
+| 2012년 4월 21일 | [대판](https://ko.wikipedia.org/wiki/대판 "wikilink")       | [쿄세라 돔 오사카](../Page/오사카_돔.md "wikilink")\[5\]               | 통산 135,000명 |
+| 2012년 4월 22일 |                                                         |                                                             |             |
+| 2012년 4월 23일 |                                                         |                                                             |             |
 
 ## 세트 리스트
 
 ## 특이사항 및 에피소드
 
-  - 나고야에서의 3일 차였던 2012년 1월 27일, [X JAPAN의](https://ko.wikipedia.org/wiki/X_JAPAN "wikilink") 인사법을 통해 착안한 동방신기의 〈We Are 'T'〉 인사법이 고안되었다.
-  - 후쿠오카에서의 1일 차인 2012년 2월 11일에는 [유노윤호](https://ko.wikipedia.org/wiki/유노윤호 "wikilink")의 27번째, 니가타에서의 1일 차인 2월 18일에는 [최강창민](https://ko.wikipedia.org/wiki/최강창민 "wikilink")의 25번째 깜짝 생일 파티를 앙코르 멘트 중에 열기도 했다.
+  - 나고야에서의 3일 차였던 2012년 1월 27일, [X JAPAN의](../Page/X_JAPAN.md "wikilink") 인사법을 통해 착안한 동방신기의 〈We Are 'T'〉 인사법이 고안되었다.
+  - 후쿠오카에서의 1일 차인 2012년 2월 11일에는 [유노윤호](../Page/유노윤호.md "wikilink")의 27번째, 니가타에서의 1일 차인 2월 18일에는 [최강창민](../Page/최강창민.md "wikilink")의 25번째 깜짝 생일 파티를 앙코르 멘트 중에 열기도 했다.
   - 동일본 대지진 피해자들에게 미소와 힘을 전달해 주고 싶다는 동방신기의 의사에 따라 지진 피해 지역 내 3개 극장에서, 2012년 3월 10일에 열리는 두 번째 후쿠이 공연 실황이 무료로 생중계되었다.\[6\]
-  - 2012년 4월 15일에 열린 두 번째 도쿄 돔 공연은 [최강창민](https://ko.wikipedia.org/wiki/최강창민 "wikilink")의 여동생이 직접 관람하였다.
-  - 2012년 4월 15일에 열린 두 번째 도쿄 돔 공연 때 MAXIMUM 무대 도중 [유노윤호](https://ko.wikipedia.org/wiki/유노윤호 "wikilink")의 우산이 부러지는 사고가 발생했다.
+  - 2012년 4월 15일에 열린 두 번째 도쿄 돔 공연은 [최강창민](../Page/최강창민.md "wikilink")의 여동생이 직접 관람하였다.
+  - 2012년 4월 15일에 열린 두 번째 도쿄 돔 공연 때 MAXIMUM 무대 도중 [유노윤호](../Page/유노윤호.md "wikilink")의 우산이 부러지는 사고가 발생했다.
   - 유노윤호는 도쿄 돔 3일 차 공연에서 〈Weep〉를 부른 후 팬들과의 대화 도중에 울음을 떠뜨렸다.
 
 ## 제작
 
-  - [동방신기](https://ko.wikipedia.org/wiki/동방신기 "wikilink") ([유노윤호](https://ko.wikipedia.org/wiki/유노윤호 "wikilink"), [최강창민](https://ko.wikipedia.org/wiki/최강창민 "wikilink"))
-  - 기획·제작 : [에이벡스 엔터테인먼트](https://ko.wikipedia.org/wiki/에이벡스_엔터테인먼트 "wikilink"), SM 엔터테인먼트 재팬
-  - 협찬 : [DHC](https://ko.wikipedia.org/wiki/DHC_\(기업\) "wikilink"), 세븐넷쇼핑, [세븐일레븐](https://ko.wikipedia.org/wiki/세븐일레븐 "wikilink"), 판급교통사
+  - [동방신기](../Page/동방신기.md "wikilink") ([유노윤호](../Page/유노윤호.md "wikilink"), [최강창민](../Page/최강창민.md "wikilink"))
+  - 기획·제작 : [에이벡스 엔터테인먼트](../Page/에이벡스_엔터테인먼트.md "wikilink"), SM 엔터테인먼트 재팬
+  - 협찬 : [DHC](https://ko.wikipedia.org/wiki/DHC_\(기업\) "wikilink"), 세븐넷쇼핑, [세븐일레븐](../Page/세븐일레븐.md "wikilink"), 판급교통사
   - 총감독 : SAM
 
 ## 각주

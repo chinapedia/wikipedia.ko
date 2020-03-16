@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Run With U](https://ko.wikipedia.org/wiki/Run_With_U).
 
 
-〈**Run With U**〉(런 위쓰 유)는 2014년 2월 19일에 발매 된 [페어리즈](https://ko.wikipedia.org/wiki/페어리즈 "wikilink")의 메이저 데뷔 7번째 싱글이다.
+〈**Run With U**〉(런 위쓰 유)는 2014년 2월 19일에 발매 된 [페어리즈](../Page/페어리즈.md "wikilink")의 메이저 데뷔 7번째 싱글이다.
 
 ## 트랙 리스트
 

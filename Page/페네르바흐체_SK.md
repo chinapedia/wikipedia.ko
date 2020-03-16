@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [ SK](https://ko.wikipedia.org/wiki/_SK).
 
 
-**페네르바흐체 스포르 쿨뤼뷔**(, 페네르바흐체 스포츠 클럽)는 [터키](https://ko.wikipedia.org/wiki/터키 "wikilink") [이스탄불](https://ko.wikipedia.org/wiki/이스탄불 "wikilink")을 연고로 하는 스포츠 클럽이다. 페네르바흐체는 이스탄불의 페네르바흐체 구역에 연고를 두고 있다. 이 구역의 이름과 스포츠 클럽은 그 지역에 위치한 등대에서 그 유래를 찾는다('페네르'는 터키어로 등대를 의미하며, '바흐체'는 정원을 의미). 축구팀이 가장 유명하지만, [농구](https://ko.wikipedia.org/wiki/농구 "wikilink"), [배구](https://ko.wikipedia.org/wiki/배구 "wikilink"), [권투](https://ko.wikipedia.org/wiki/권투 "wikilink"), [수영](https://ko.wikipedia.org/wiki/수영 "wikilink"), [탁구](https://ko.wikipedia.org/wiki/탁구 "wikilink")등에도 팀을 운영한다.
+**페네르바흐체 스포르 쿨뤼뷔**(, 페네르바흐체 스포츠 클럽)는 [터키](../Page/터키.md "wikilink") [이스탄불](../Page/이스탄불.md "wikilink")을 연고로 하는 스포츠 클럽이다. 페네르바흐체는 이스탄불의 페네르바흐체 구역에 연고를 두고 있다. 이 구역의 이름과 스포츠 클럽은 그 지역에 위치한 등대에서 그 유래를 찾는다('페네르'는 터키어로 등대를 의미하며, '바흐체'는 정원을 의미). 축구팀이 가장 유명하지만, [농구](../Page/농구.md "wikilink"), [배구](../Page/배구.md "wikilink"), [권투](../Page/권투.md "wikilink"), [수영](../Page/수영.md "wikilink"), [탁구](../Page/탁구.md "wikilink")등에도 팀을 운영한다.
 
 ## 팀 목록
 
-  - [페네르바흐체 SK (축구)](https://ko.wikipedia.org/wiki/페네르바흐체_SK_\(축구\) "wikilink")
+  - [페네르바흐체 SK (축구)](../Page/페네르바흐체_SK_\(축구\).md "wikilink")
   - [페네르바흐체 (농구)](../Page/페네르바흐체_\(농구\).md "wikilink")
   - [페네르바흐체 (여자 농구)](https://ko.wikipedia.org/wiki/페네르바흐체_\(여자_농구\) "wikilink")
   - [페네르바흐체 (배구)](https://ko.wikipedia.org/wiki/페네르바흐체_\(배구\) "wikilink")
-  - [페네르바흐체 (여자 배구)](https://ko.wikipedia.org/wiki/페네르바흐체_\(여자_배구\) "wikilink")
+  - [페네르바흐체 (여자 배구)](../Page/페네르바흐체_\(여자_배구\).md "wikilink")
   - [페네르바흐체 (탁구)](https://ko.wikipedia.org/wiki/페네르바흐체_\(탁구\) "wikilink")
   - [페네르바흐체 (육상)](https://ko.wikipedia.org/wiki/페네르바흐체_\(육상\) "wikilink")
   - [페네르바흐체 (권투)](https://ko.wikipedia.org/wiki/페네르바흐체_\(권투\) "wikilink")

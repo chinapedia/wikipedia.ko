@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [ BC](https://ko.wikipedia.org/wiki/_BC).
 
 
-**파나티나이코스 BC**(Panathinaikos B.C.)는 [그리스](https://ko.wikipedia.org/wiki/그리스 "wikilink") [아테네](https://ko.wikipedia.org/wiki/아테네 "wikilink")를 연고로 하는 프로[농구](https://ko.wikipedia.org/wiki/농구 "wikilink")단이다.
+**파나티나이코스 BC**(Panathinaikos B.C.)는 [그리스](../Page/그리스.md "wikilink") [아테네](../Page/아테네.md "wikilink")를 연고로 하는 프로[농구](../Page/농구.md "wikilink")단이다.
 
 ## 역대 유명 선수
 
-  - [도미니크 윌킨스](https://ko.wikipedia.org/wiki/도미니크_윌킨스 "wikilink")
+  - [도미니크 윌킨스](../Page/도미니크_윌킨스.md "wikilink")
 
 ## 같이 보기
 

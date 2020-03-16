@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SUPER JUNIOR-K.R.Y. THE 1ST CONCERT](https://ko.wikipedia.org/wiki/SUPER_JUNIOR-K.R.Y._THE_1ST_CONCERT).
 
 
-《**SUPER JUNIOR-K.R.Y. THE 1ST CONCERT**》는 [슈퍼주니어](https://ko.wikipedia.org/wiki/슈퍼주니어 "wikilink")의 유닛 **[슈퍼주니어-K.R.Y](https://ko.wikipedia.org/wiki/슈퍼주니어-K.R.Y "wikilink")**의 아시아 투어로, 슈퍼주니어의 사상 최초 유닛 콘서트 투어이자, 한국 아이돌 가수의 사상 최초 유닛 콘서트 투어이다. 특히 서울 공연에는 [희철](https://ko.wikipedia.org/wiki/김희철_\(가수\) "wikilink"), [성민](https://ko.wikipedia.org/wiki/성민_\(1986년\) "wikilink"), [동해](https://ko.wikipedia.org/wiki/동해_\(가수\) "wikilink"), [샤이니](https://ko.wikipedia.org/wiki/샤이니 "wikilink")의 [Key](https://ko.wikipedia.org/wiki/Key_\(가수\) "wikilink"), [민호](https://ko.wikipedia.org/wiki/민호 "wikilink"), [태민](https://ko.wikipedia.org/wiki/태민 "wikilink"), 그리고 [트랙스](https://ko.wikipedia.org/wiki/트랙스 "wikilink")의 [김정모](../Page/김정모.md "wikilink")가 게스트로 참여해 화제가 되었다.\[1\]
+《**SUPER JUNIOR-K.R.Y. THE 1ST CONCERT**》는 [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")의 유닛 **[슈퍼주니어-K.R.Y](https://ko.wikipedia.org/wiki/슈퍼주니어-K.R.Y "wikilink")**의 아시아 투어로, 슈퍼주니어의 사상 최초 유닛 콘서트 투어이자, 한국 아이돌 가수의 사상 최초 유닛 콘서트 투어이다. 특히 서울 공연에는 [희철](../Page/김희철_\(가수\).md "wikilink"), [성민](../Page/성민_\(1986년\).md "wikilink"), [동해](../Page/동해_\(가수\).md "wikilink"), [샤이니](../Page/샤이니.md "wikilink")의 [Key](https://ko.wikipedia.org/wiki/Key_\(가수\) "wikilink"), [민호](../Page/민호.md "wikilink"), [태민](../Page/태민.md "wikilink"), 그리고 [트랙스](https://ko.wikipedia.org/wiki/트랙스 "wikilink")의 [김정모](../Page/김정모.md "wikilink")가 게스트로 참여해 화제가 되었다.\[1\]
 
 ## 투어 일정
 

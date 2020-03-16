@@ -1,12 +1,12 @@
 > This article is converted from Wikipedia: [ BC](https://ko.wikipedia.org/wiki/_BC).
 
 
-**올림피아코스 BC**(Olympiacos B.C.)는 [그리스](https://ko.wikipedia.org/wiki/그리스 "wikilink") [피레아스](https://ko.wikipedia.org/wiki/피레아스 "wikilink")를 연고로 하는 프로[농구](https://ko.wikipedia.org/wiki/농구 "wikilink")단이다.
+**올림피아코스 BC**(Olympiacos B.C.)는 [그리스](../Page/그리스.md "wikilink") [피레아스](../Page/피레아스.md "wikilink")를 연고로 하는 프로[농구](../Page/농구.md "wikilink")단이다.
 
 ## 같이 보기
 
   - [올림피아코스 CFP](https://ko.wikipedia.org/wiki/올림피아코스_CFP "wikilink")
-  - [올림피아코스 FC](https://ko.wikipedia.org/wiki/올림피아코스_FC "wikilink")
+  - [올림피아코스 FC](../Page/올림피아코스_FC.md "wikilink")
 
 ## 외부 링크
 

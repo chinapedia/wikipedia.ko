@@ -11,11 +11,11 @@ ACT-R의 바탕에 깔린 가정의 대부분은 [인지신경과학](https://ko
 
 ## ACT-R의 기본 개념
 
-다른 유력한 [인지 아키텍처](https://ko.wikipedia.org/wiki/인지_아키텍처 "wikilink") ([Soar](https://ko.wikipedia.org/wiki/Soar "wikilink"), CLARION, EPIC 등)과 같이, ACT-R 이론에는 전용언어를 번역하기 위한 [인터프리터](https://ko.wikipedia.org/wiki/인터프리터 "wikilink") 구현체가 있다. [인터프리터](https://ko.wikipedia.org/wiki/인터프리터 "wikilink") 자체는 [리스프](https://ko.wikipedia.org/wiki/리스프 "wikilink")로 작성되어 있고, 대부분의 [리스프](https://ko.wikipedia.org/wiki/리스프 "wikilink") 배포판에서 실행가능하다.
+다른 유력한 [인지 아키텍처](https://ko.wikipedia.org/wiki/인지_아키텍처 "wikilink") ([Soar](https://ko.wikipedia.org/wiki/Soar "wikilink"), CLARION, EPIC 등)과 같이, ACT-R 이론에는 전용언어를 번역하기 위한 [인터프리터](../Page/인터프리터.md "wikilink") 구현체가 있다. [인터프리터](../Page/인터프리터.md "wikilink") 자체는 [리스프](../Page/리스프.md "wikilink")로 작성되어 있고, 대부분의 [리스프](../Page/리스프.md "wikilink") 배포판에서 실행가능하다.
 
-따라서, 연구자가 ACT-R의 웹사이트에서 코드를 다운로드해서 [리스프](https://ko.wikipedia.org/wiki/리스프 "wikilink") 시스템으로 실행시키면, ACT-R 인터프리터의 형식으로 그 이론을 접할 수 있게 되어 있다.
+따라서, 연구자가 ACT-R의 웹사이트에서 코드를 다운로드해서 [리스프](../Page/리스프.md "wikilink") 시스템으로 실행시키면, ACT-R 인터프리터의 형식으로 그 이론을 접할 수 있게 되어 있다.
 
-또한, 이것에 따라 ACT-R언어의 스크립트라는 형식으로 인간의 인지모델을 지정하는 것도 가능하다. 언어의 기본 요소와 자료형은 인지에 관련된 이론적 가정을 반영하도록 설계되어 있다. 이러한 가정은 [인지심리학](https://ko.wikipedia.org/wiki/인지심리학 "wikilink")의 실험과 뇌영상처리에서 얻어진 많은 지식에 바탕을 두고 있다.
+또한, 이것에 따라 ACT-R언어의 스크립트라는 형식으로 인간의 인지모델을 지정하는 것도 가능하다. 언어의 기본 요소와 자료형은 인지에 관련된 이론적 가정을 반영하도록 설계되어 있다. 이러한 가정은 [인지심리학](../Page/인지심리학.md "wikilink")의 실험과 뇌영상처리에서 얻어진 많은 지식에 바탕을 두고 있다.
 
 ## 외부 링크
 

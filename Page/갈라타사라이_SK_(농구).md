@@ -1,12 +1,12 @@
 > This article is converted from Wikipedia: [ SK \(\)](https://ko.wikipedia.org/wiki/_SK_\(\)).
 
 
-**갈라타사라이 SK**(Galatasaray S.K.)는 [터키](https://ko.wikipedia.org/wiki/터키 "wikilink") [이스탄불](https://ko.wikipedia.org/wiki/이스탄불 "wikilink")을 연고로 하는 프로[농구](https://ko.wikipedia.org/wiki/농구 "wikilink")단이다.
+**갈라타사라이 SK**(Galatasaray S.K.)는 [터키](../Page/터키.md "wikilink") [이스탄불](../Page/이스탄불.md "wikilink")을 연고로 하는 프로[농구](../Page/농구.md "wikilink")단이다.
 
 ## 같이 보기
 
   - [갈라타사라이 SK](https://ko.wikipedia.org/wiki/갈라타사라이_SK "wikilink")
-  - [갈라타사라이 SK (축구)](https://ko.wikipedia.org/wiki/갈라타사라이_SK_\(축구\) "wikilink")
+  - [갈라타사라이 SK (축구)](../Page/갈라타사라이_SK_\(축구\).md "wikilink")
 
 ## 외부 링크
 

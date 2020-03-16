@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [OCEAN \( \)](https://ko.wikipedia.org/wiki/OCEAN_\(_\)).
 
 
-〈**OCEAN**〉은 일본에서 발매한 대한민국 음악 그룹 [동방신기](https://ko.wikipedia.org/wiki/동방신기 "wikilink")의 37번째 [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink")이다.
+〈**OCEAN**〉은 일본에서 발매한 대한민국 음악 그룹 [동방신기](../Page/동방신기.md "wikilink")의 37번째 [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink")이다.
 
 ## 개요
 

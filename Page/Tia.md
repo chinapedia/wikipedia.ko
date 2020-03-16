@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Tia](https://ko.wikipedia.org/wiki/Tia).
 
 
-**Tia**(티아)는, 일본의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") 및 [성우](https://ko.wikipedia.org/wiki/성우 "wikilink")다. [사이타마현](https://ko.wikipedia.org/wiki/사이타마현 "wikilink") 출신. 가수 활동은 [supercell](https://ko.wikipedia.org/wiki/supercell "wikilink")의 ryo에 의해서 프로듀스 되고 있다.
+**Tia**(티아)는, 일본의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") 및 [성우](../Page/성우.md "wikilink")다. [사이타마현](https://ko.wikipedia.org/wiki/사이타마현 "wikilink") 출신. 가수 활동은 [supercell](https://ko.wikipedia.org/wiki/supercell "wikilink")의 ryo에 의해서 프로듀스 되고 있다.
 
 ## 인물
 
@@ -25,11 +25,11 @@
 
 ### 싱글
 
-| 매     | 발매일                                                                                                               | 타이틀                                                      | 규격품번         | 최고위\[6\]   |
-| ----- | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ------------ | ---------- |
-| 초회한정반 | 통상반                                                                                                               |                                                          |              |            |
-| 1st   | 2012년 [12월 19일](https://ko.wikipedia.org/wiki/12월_19일 "wikilink")                                                 | **[러브 미 김미](../Page/러브_미_김미.md "wikilink")**(ラブミーギミー)    | SVWC-7917/8  | SVWC-7919  |
-| 2nd   | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [3월 12일](https://ko.wikipedia.org/wiki/3월_12일 "wikilink") | **[하트 리얼라이즈](../Page/하트_리얼라이즈.md "wikilink")**(ハートリアライズ) | AVCA-74234/B | AVCA-74235 |
+| 매     | 발매일                                                                         | 타이틀                                                      | 규격품번         | 최고위\[6\]   |
+| ----- | --------------------------------------------------------------------------- | -------------------------------------------------------- | ------------ | ---------- |
+| 초회한정반 | 통상반                                                                         |                                                          |              |            |
+| 1st   | 2012년 [12월 19일](../Page/12월_19일.md "wikilink")                              | **[러브 미 김미](../Page/러브_미_김미.md "wikilink")**(ラブミーギミー)    | SVWC-7917/8  | SVWC-7919  |
+| 2nd   | [2014년](../Page/2014년.md "wikilink") [3월 12일](../Page/3월_12일.md "wikilink") | **[하트 리얼라이즈](../Page/하트_리얼라이즈.md "wikilink")**(ハートリアライズ) | AVCA-74234/B | AVCA-74235 |
 
 ### 타이업
 

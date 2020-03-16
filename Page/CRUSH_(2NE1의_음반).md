@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CRUSH \(2NE1 \)](https://ko.wikipedia.org/wiki/CRUSH_\(2NE1_\)).
 
 
-《**CRUSH**》는 대한민국의 음악 그룹 [2NE1](https://ko.wikipedia.org/wiki/2NE1 "wikilink")의 한국과 일본 두 번째 정규 음반이다. 온라인 음원은 2월 27일 자정에 공개되었고, 음반 발매는 3월 7일 (한국)과 6월 25일 (일본)이다. 앨범은 더블타이틀인 "Come Back Home"과 "너 아님 안돼"를 포함해 10개의 트랙으로 구성되어 있다. 이 앨범은 빌보드 월드 앨범 차트 연말 결산 11위의 기록을 세웠고, 빌보드 200에 61위로 데뷔하여 한국 가수 가운데 첫 100위권 내 진입과 동시에 최고 순위가수로 기록되었다.
+《**CRUSH**》는 대한민국의 음악 그룹 [2NE1](../Page/2NE1.md "wikilink")의 한국과 일본 두 번째 정규 음반이다. 온라인 음원은 2월 27일 자정에 공개되었고, 음반 발매는 3월 7일 (한국)과 6월 25일 (일본)이다. 앨범은 더블타이틀인 "Come Back Home"과 "너 아님 안돼"를 포함해 10개의 트랙으로 구성되어 있다. 이 앨범은 빌보드 월드 앨범 차트 연말 결산 11위의 기록을 세웠고, 빌보드 200에 61위로 데뷔하여 한국 가수 가운데 첫 100위권 내 진입과 동시에 최고 순위가수로 기록되었다.
 
 ## 평가
 
@@ -31,19 +31,19 @@
 <td><p>2</p></td>
 </tr>
 <tr class="even">
-<td><p>미국 (<a href="https://ko.wikipedia.org/wiki/빌보드_200" title="wikilink">빌보드 200</a>)[6]</p></td>
+<td><p>미국 (<a href="../Page/빌보드_200.md" title="wikilink">빌보드 200</a>)[6]</p></td>
 <td><p>61</p></td>
 </tr>
 <tr class="odd">
-<td><p>미국 (<a href="https://ko.wikipedia.org/wiki/빌보드" title="wikilink">빌보드 월드 앨범</a>)[7]</p></td>
+<td><p>미국 (<a href="../Page/빌보드.md" title="wikilink">빌보드 월드 앨범</a>)[7]</p></td>
 <td><p>2</p></td>
 </tr>
 <tr class="even">
-<td><p>미국 (<a href="https://ko.wikipedia.org/wiki/빌보드" title="wikilink">빌보드 인디펜던트 앨범</a>)[8]</p></td>
+<td><p>미국 (<a href="../Page/빌보드.md" title="wikilink">빌보드 인디펜던트 앨범</a>)[8]</p></td>
 <td><p>9</p></td>
 </tr>
 <tr class="odd">
-<td><p>일본 (<a href="https://ko.wikipedia.org/wiki/오리콘" title="wikilink">오리콘</a>)[9]</p></td>
+<td><p>일본 (<a href="../Page/오리콘.md" title="wikilink">오리콘</a>)[9]</p></td>
 <td><p>4</p></td>
 </tr>
 <tr class="even">
@@ -69,7 +69,7 @@
 <td><p>33</p></td>
 </tr>
 <tr class="even">
-<td><p>미국 (<a href="https://ko.wikipedia.org/wiki/빌보드" title="wikilink">빌보드 월드 앨범</a>)[11]</p></td>
+<td><p>미국 (<a href="../Page/빌보드.md" title="wikilink">빌보드 월드 앨범</a>)[11]</p></td>
 <td><p>11</p></td>
 </tr>
 <tr class="odd">
@@ -81,11 +81,11 @@
 
 ## 발매일
 
-| 국가   | 날짜           | 포맷                                                     | 에디션                                                   | 레이블                                                     |
-| ---- | ------------ | ------------------------------------------------------ | ----------------------------------------------------- | ------------------------------------------------------- |
-| 대한민국 | 2014년 2월 27일 | [CD](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink") | 한국어반                                                  | [KT 뮤직](https://ko.wikipedia.org/wiki/KT_뮤직 "wikilink") |
-| 일본   | 2014년 6월 25일 | 일본어반                                                   | [YGEX](https://ko.wikipedia.org/wiki/YGEX "wikilink") |                                                         |
-|      |              |                                                        |                                                       |                                                         |
+| 국가   | 날짜           | 포맷                                  | 에디션                                | 레이블                                                     |
+| ---- | ------------ | ----------------------------------- | ---------------------------------- | ------------------------------------------------------- |
+| 대한민국 | 2014년 2월 27일 | [CD](../Page/콤팩트_디스크.md "wikilink") | 한국어반                               | [KT 뮤직](https://ko.wikipedia.org/wiki/KT_뮤직 "wikilink") |
+| 일본   | 2014년 6월 25일 | 일본어반                                | [YGEX](../Page/YGEX.md "wikilink") |                                                         |
+|      |              |                                     |                                    |                                                         |
 
 ## 각주
 

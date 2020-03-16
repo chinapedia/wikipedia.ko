@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [1st LIVE TOUR 2006 \~Heart,Mind and Soul\~](https://ko.wikipedia.org/wiki/1st_LIVE_TOUR_2006_\~Heart,Mind_and_Soul\~).
 
 
-《**1st LIVE TOUR 2006 \~Heart,Mind and Soul\~**》은 그룹 [동방신기](https://ko.wikipedia.org/wiki/동방신기 "wikilink")의 [라이브 하우스](https://ko.wikipedia.org/wiki/라이브_하우스 "wikilink") 투어 위주로 치러진 첫 번째 일본 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").
+《**1st LIVE TOUR 2006 \~Heart,Mind and Soul\~**》은 그룹 [동방신기](../Page/동방신기.md "wikilink")의 [라이브 하우스](https://ko.wikipedia.org/wiki/라이브_하우스 "wikilink") 투어 위주로 치러진 첫 번째 일본 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").
 
 ## 개요
 

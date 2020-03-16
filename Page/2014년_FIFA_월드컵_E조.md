@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [2014 FIFA  E](https://ko.wikipedia.org/wiki/2014_FIFA__E).
 
 
-**[2014년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵 "wikilink") E조**는 [스위스](https://ko.wikipedia.org/wiki/스위스_축구_국가대표팀 "wikilink"), [에콰도르](https://ko.wikipedia.org/wiki/에콰도르_축구_국가대표팀 "wikilink"), [프랑스](https://ko.wikipedia.org/wiki/프랑스_축구_국가대표팀 "wikilink"), 그리고 [온두라스가](https://ko.wikipedia.org/wiki/온두라스_축구_국가대표팀 "wikilink") 들어갔다. E조 첫경기는 2014년 6월 15일에 치러졌고, 마지막 경기는 6월 25일에 치러졌다.
+**[2014년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵 "wikilink") E조**는 [스위스](../Page/스위스_축구_국가대표팀.md "wikilink"), [에콰도르](../Page/에콰도르_축구_국가대표팀.md "wikilink"), [프랑스](https://ko.wikipedia.org/wiki/프랑스_축구_국가대표팀 "wikilink"), 그리고 [온두라스가](../Page/온두라스_축구_국가대표팀.md "wikilink") 들어갔다. E조 첫경기는 2014년 6월 15일에 치러졌고, 마지막 경기는 6월 25일에 치러졌다.
 
 ## 참가국
 
@@ -16,7 +16,7 @@
 <th><p>본선 진출 횟수</p></th>
 <th><p>최근 출전 대회</p></th>
 <th><p>역대 최고 성적</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/FIFA_랭킹" title="wikilink">FIFA 랭킹</a></p></th>
+<th><p><a href="../Page/FIFA_랭킹.md" title="wikilink">FIFA 랭킹</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -34,8 +34,8 @@
 <tr class="even">
 <td><p>E1 <em>(머리)</em></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유럽_축구_연맹" title="wikilink">UEFA</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_유럽_지역_예선" title="wikilink">유럽 예선 E조</a> 1위</p></td>
+<td><p><a href="../Page/유럽_축구_연맹.md" title="wikilink">UEFA</a></p></td>
+<td><p><a href="../Page/2014년_FIFA_월드컵_유럽_지역_예선.md" title="wikilink">유럽 예선 E조</a> 1위</p></td>
 <td><p>2013년 10월 11일</p></td>
 <td><p>data-sort-value="10" | 10회</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵" title="wikilink">2010년</a></p></td>
@@ -56,8 +56,8 @@
 <tr class="even">
 <td><p>E3</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유럽_축구_연맹" title="wikilink">UEFA</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_유럽_지역_예선_플레이오프" title="wikilink">유럽 플레이오프</a> 승리</p></td>
+<td><p><a href="../Page/유럽_축구_연맹.md" title="wikilink">UEFA</a></p></td>
+<td><p><a href="../Page/2014년_FIFA_월드컵_유럽_지역_예선_플레이오프.md" title="wikilink">유럽 플레이오프</a> 승리</p></td>
 <td><p>2013년 11월 19일</p></td>
 <td><p>data-sort-value="6" |14회</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵" title="wikilink">2010년</a></p></td>
@@ -67,7 +67,7 @@
 <tr class="odd">
 <td><p>E4</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/북중미카리브_축구_연맹" title="wikilink">CONCACAF</a></p></td>
+<td><p><a href="../Page/북중미카리브_축구_연맹.md" title="wikilink">CONCACAF</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_북아메리카_지역_최종_예선" title="wikilink">북중미 4차 예선</a> 3위</p></td>
 <td><p>2013년 10월 15일</p></td>
 <td><p>data-sort-value="3" | 3회</p></td>
@@ -90,7 +90,7 @@
 <small> 출처: [FIFA](http://www.fifa.com/worldcup/archive/brazil2014/groups/index.html)
 다음 라운드 진출 규정: [순위 규정](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵#형식 "wikilink") </small>
 
-  - 프랑스는 [16강에서](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_결선_토너먼트#프랑스_vs_나이지리아 "wikilink") [나이지리아](https://ko.wikipedia.org/wiki/나이지리아_축구_국가대표팀 "wikilink") ([F조](../Page/2014년_FIFA_월드컵_F조.md "wikilink") 2위) 를 상대한다.
+  - 프랑스는 [16강에서](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_결선_토너먼트#프랑스_vs_나이지리아 "wikilink") [나이지리아](../Page/나이지리아_축구_국가대표팀.md "wikilink") ([F조](../Page/2014년_FIFA_월드컵_F조.md "wikilink") 2위) 를 상대한다.
   - 스위스는 [16강에서](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_결선_토너먼트#아르헨티나_vs_스위스 "wikilink") [아르헨티나](https://ko.wikipedia.org/wiki/아르헨티나_축구_국가대표팀 "wikilink") ([F조](../Page/2014년_FIFA_월드컵_F조.md "wikilink") 1위) 를 상대한다.
 
 ## 경기
@@ -178,7 +178,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/오트마어_히츠펠트" title="wikilink">오트마어 히츠펠트</a></p></td>
+<td><p><a href="../Page/오트마어_히츠펠트.md" title="wikilink">오트마어 히츠펠트</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -278,7 +278,7 @@
 
 양국은 서로 대결을 펼친 적이 없다.\[5\]
 
-경기는 국가연주를 생략하고 시작되었는데,\[6\] FIFA는 이후에 스피커 시스템 오작동이 요인이었다고 해명했다.\[7\] 프랑스는 전반전이 반쯤 흘렀을 때 [윌슨 팔라시오스는](https://ko.wikipedia.org/wiki/윌슨_팔라시오스 "wikilink") [폴 포그바에](https://ko.wikipedia.org/wiki/폴_포그바 "wikilink") 가한 반칙으로 경고 누적이 적용되어 퇴장당했고, 페널티킥은 [카림 벤제마가](https://ko.wikipedia.org/wiki/카림_벤제마 "wikilink") 성공시켰다.\[8\] 온두라스는 골키퍼 [노엘 바야다레스가](../Page/노엘_바야다레스.md "wikilink") 후반전이 시작된 지 얼마 지나지 않아 자책골을 넣어 프랑스가 두골차로 도망가게 만들었다. 벤제마의 슛은 골대를 맞고, 바야다레스가 걷어내기 위해 안간힘을 썼지만, 들어가버려, [득점선 판독 기술을](https://ko.wikipedia.org/wiki/골라인_판독_기술 "wikilink") 통해 득점선이 넘은 것으로 판정되었고, 프랑스의 득점이 되었다. 프랑스는 [마티외 드뷔시의](https://ko.wikipedia.org/wiki/마티외_드뷔시 "wikilink") 슛이 [파트리스 에브라가](https://ko.wikipedia.org/wiki/파트리스_에브라 "wikilink") 맞고 페널티 구역에 쓰러져 튀어나온 공을 벤제마의 추가로 득점으로 끝내 승부에 쐐기를 받았다.\[9\]
+경기는 국가연주를 생략하고 시작되었는데,\[6\] FIFA는 이후에 스피커 시스템 오작동이 요인이었다고 해명했다.\[7\] 프랑스는 전반전이 반쯤 흘렀을 때 [윌슨 팔라시오스는](../Page/윌슨_팔라시오스.md "wikilink") [폴 포그바에](../Page/폴_포그바.md "wikilink") 가한 반칙으로 경고 누적이 적용되어 퇴장당했고, 페널티킥은 [카림 벤제마가](../Page/카림_벤제마.md "wikilink") 성공시켰다.\[8\] 온두라스는 골키퍼 [노엘 바야다레스가](../Page/노엘_바야다레스.md "wikilink") 후반전이 시작된 지 얼마 지나지 않아 자책골을 넣어 프랑스가 두골차로 도망가게 만들었다. 벤제마의 슛은 골대를 맞고, 바야다레스가 걷어내기 위해 안간힘을 썼지만, 들어가버려, [득점선 판독 기술을](https://ko.wikipedia.org/wiki/골라인_판독_기술 "wikilink") 통해 득점선이 넘은 것으로 판정되었고, 프랑스의 득점이 되었다. 프랑스는 [마티외 드뷔시의](../Page/마티외_드뷔시.md "wikilink") 슛이 [파트리스 에브라가](../Page/파트리스_에브라.md "wikilink") 맞고 페널티 구역에 쓰러져 튀어나온 공을 벤제마의 추가로 득점으로 끝내 승부에 쐐기를 받았다.\[9\]
 
 프랑스의 두번째 골은 FIFA 월드컵 역사상 처음으로 [득점선 판독 기술을](https://ko.wikipedia.org/wiki/골라인_판독_기술 "wikilink") 통해 판독된 골이었다.\[10\] 경기장에 나온 득점 장면 재생 영상은 혼선을 빚기도 했는데, 공이 골대를 맞았을 때 "득점 아님"으로 경기장 스크린에 맞게 나왔고, 이후 바야다레스에 맞고 득점선을 넘어, 스크린에 "골"을 띄웠다. 처음에 "득점 아님"으로 표시되었을때 팬들이 야유했고, 경기장 한편의 감독진과 선수들이 소란을 피우기도 했고,\[11\] 경험 있는 [BBC](https://ko.wikipedia.org/wiki/영국방송협회 "wikilink") 해설 위원인 [조너선 피어스도](https://ko.wikipedia.org/wiki/조너선_피어스 "wikilink") 동업자인 [마틴 키온의](https://ko.wikipedia.org/wiki/마틴_키온 "wikilink") 설명이 필요하기도 했다.\[12\] 발생한 혼선에 대해, FIFA는 향후 같은 상황에서 어떻게 영상을 재생할 지에 대해 검토할 것임을 약속하였다.\[13\]
 
@@ -363,7 +363,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/디디에_데샹" title="wikilink">디디에 데샹</a></p></td>
+<td><p><a href="../Page/디디에_데샹.md" title="wikilink">디디에 데샹</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -449,7 +449,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/카림_벤제마" title="wikilink">카림 벤제마</a> (프랑스)</p>
+<a href="../Page/카림_벤제마.md" title="wikilink">카림 벤제마</a> (프랑스)</p>
 <p><strong>부심:</strong><br />
 마르셀루 반 가시 (<a href="https://ko.wikipedia.org/wiki/브라질_축구_협회" title="wikilink">브라질</a>)<br />
 이메르송 지 카르발류 (<a href="https://ko.wikipedia.org/wiki/브라질_축구_협회" title="wikilink">브라질</a>)<br />
@@ -465,7 +465,7 @@
 
 두 나라는 36번 서로를 상대해 봤고, [2006년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵 "wikilink") 조별 리그에서는 [득점 없이](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵_G조#프랑스_vs_스위스 "wikilink") 비겼다.\[15\]
 
-프랑스는 17분에 [마티외 발뷔에나의](https://ko.wikipedia.org/wiki/마티외_발뷔에나 "wikilink") 코너킥을 [올리비에 지루가](https://ko.wikipedia.org/wiki/올리비에_지루 "wikilink") 머리로 내려찍어 앞서나가기 시작하였다. 경기가 재개된 지 얼마 지나지 않아, [카림 벤제마가](https://ko.wikipedia.org/wiki/카림_벤제마 "wikilink") 스위스 패스를 가로채 [블레즈 마튀이디에게](https://ko.wikipedia.org/wiki/블레즈_마튀이디 "wikilink") 공을 띄워 추가골을 넣게 했다. 이후, 벤제마는 페널티 구역에서 [요안 주루에게](https://ko.wikipedia.org/wiki/요안_주루 "wikilink") 넘어졌는데, 벤제마의 페널티킥은 스위스 골키퍼 [디에고 베날리오가](https://ko.wikipedia.org/wiki/디에고_베날리오 "wikilink") 막았고, 튀어나온 공은 [요안 카바예가](https://ko.wikipedia.org/wiki/요안_카바예 "wikilink") 차 골대를 맞췄다. 프랑스는 재빠른 역습으로 지루의 크로스와 발뷔에나의 3번째 득점으로 연결해 전반전을 3-0으로 앞선 채 끝냈다.\[16\] 프랑스는 후반전에 2골을 추가했는데, 한 골은 [폴 포그바가](https://ko.wikipedia.org/wiki/폴_포그바 "wikilink") 벤제마의 득점으로 연결했고, 다른 1골은 벤제마가 [무사 시소코를](https://ko.wikipedia.org/wiki/무사_시소코 "wikilink") 도운 것이었다. 경기 종료 호각을 울리는 찰나에 [카림 벤제마가](https://ko.wikipedia.org/wiki/카림_벤제마 "wikilink") 6번째 득점을 한 것으로 보였고, 최종 점수가 확정되는 과정에 약간의 혼선이 빚어졌다.\[17\] 스위스는 막판에 2골을 만회하였는데, 교체로 들어간 [블레림 제마일리가](../Page/블레림_제마일리.md "wikilink") 장거리 프리킥으로 1골, [괴칸 인러의](https://ko.wikipedia.org/wiki/괴칸_인러 "wikilink") 패스를 받은 [그라니트 자카의](../Page/그라니트_자카.md "wikilink") 1골을 기록했다.\[18\]
+프랑스는 17분에 [마티외 발뷔에나의](../Page/마티외_발뷔에나.md "wikilink") 코너킥을 [올리비에 지루가](../Page/올리비에_지루.md "wikilink") 머리로 내려찍어 앞서나가기 시작하였다. 경기가 재개된 지 얼마 지나지 않아, [카림 벤제마가](../Page/카림_벤제마.md "wikilink") 스위스 패스를 가로채 [블레즈 마튀이디에게](https://ko.wikipedia.org/wiki/블레즈_마튀이디 "wikilink") 공을 띄워 추가골을 넣게 했다. 이후, 벤제마는 페널티 구역에서 [요안 주루에게](../Page/요안_주루.md "wikilink") 넘어졌는데, 벤제마의 페널티킥은 스위스 골키퍼 [디에고 베날리오가](../Page/디에고_베날리오.md "wikilink") 막았고, 튀어나온 공은 [요안 카바예가](../Page/요안_카바예.md "wikilink") 차 골대를 맞췄다. 프랑스는 재빠른 역습으로 지루의 크로스와 발뷔에나의 3번째 득점으로 연결해 전반전을 3-0으로 앞선 채 끝냈다.\[16\] 프랑스는 후반전에 2골을 추가했는데, 한 골은 [폴 포그바가](../Page/폴_포그바.md "wikilink") 벤제마의 득점으로 연결했고, 다른 1골은 벤제마가 [무사 시소코를](../Page/무사_시소코.md "wikilink") 도운 것이었다. 경기 종료 호각을 울리는 찰나에 [카림 벤제마가](../Page/카림_벤제마.md "wikilink") 6번째 득점을 한 것으로 보였고, 최종 점수가 확정되는 과정에 약간의 혼선이 빚어졌다.\[17\] 스위스는 막판에 2골을 만회하였는데, 교체로 들어간 [블레림 제마일리가](../Page/블레림_제마일리.md "wikilink") 장거리 프리킥으로 1골, [괴칸 인러의](../Page/괴칸_인러.md "wikilink") 패스를 받은 [그라니트 자카의](../Page/그라니트_자카.md "wikilink") 1골을 기록했다.\[18\]
 
 지루의 골은 프랑스의 FIFA 월드컵 100호골로, 프랑스는 (브라질, 독일, 이탈리아, 그리고 아르헨티나에 이어) 100골 이상 득점한 5번째 국가가 되었다.\[19\]
 
@@ -548,7 +548,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/오트마어_히츠펠트" title="wikilink">오트마어 히츠펠트</a></p></td>
+<td><p><a href="../Page/오트마어_히츠펠트.md" title="wikilink">오트마어 히츠펠트</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -621,7 +621,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/디디에_데샹" title="wikilink">디디에 데샹</a></p></td>
+<td><p><a href="../Page/디디에_데샹.md" title="wikilink">디디에 데샹</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -634,7 +634,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/카림_벤제마" title="wikilink">카림 벤제마</a> (프랑스)</p>
+<a href="../Page/카림_벤제마.md" title="wikilink">카림 벤제마</a> (프랑스)</p>
 <p><strong>부심:</strong><br />
 에르빈 제인스트라 (<a href="../Page/네덜란드_왕립_축구_협회.md" title="wikilink">네덜란드</a>)<br />
 산더르 판 뢰켈 (<a href="../Page/네덜란드_왕립_축구_협회.md" title="wikilink">네덜란드</a>)<br />
@@ -648,11 +648,11 @@
 
 ### 온두라스 vs 에콰도르
 
-양국은 친선전에서 서로 13번 상대했으며, 가장 최근에 벌어진 2013년 경기에서는 2-2로 비겼었다.\[20\] 양국은 모두 콜롬비아인인 [루이스 페르난도 수아레스와](../Page/루이스_페르난도_수아레스.md "wikilink") [레이날도 루에다가](../Page/레이날도_루에다.md "wikilink") 각각 지휘봉을 잡았고, 상대국의 지휘봉도 잡은 적이 있었다: 수아레스는 2006년 FIFA 월드컵 당시 에콰도르를 지휘했고, 루에다는 2010년 FIFA 월드컵에서 온두라스 감독이었다.\[21\] 앞서 프랑스전에서 퇴장당한 온두라스의 미드필더 [윌슨 팔라시오스는](https://ko.wikipedia.org/wiki/윌슨_팔라시오스 "wikilink") 징계로 출장하지 못했다.\[22\]
+양국은 친선전에서 서로 13번 상대했으며, 가장 최근에 벌어진 2013년 경기에서는 2-2로 비겼었다.\[20\] 양국은 모두 콜롬비아인인 [루이스 페르난도 수아레스와](../Page/루이스_페르난도_수아레스.md "wikilink") [레이날도 루에다가](../Page/레이날도_루에다.md "wikilink") 각각 지휘봉을 잡았고, 상대국의 지휘봉도 잡은 적이 있었다: 수아레스는 2006년 FIFA 월드컵 당시 에콰도르를 지휘했고, 루에다는 2010년 FIFA 월드컵에서 온두라스 감독이었다.\[21\] 앞서 프랑스전에서 퇴장당한 온두라스의 미드필더 [윌슨 팔라시오스는](../Page/윌슨_팔라시오스.md "wikilink") 징계로 출장하지 못했다.\[22\]
 
 온두라스는 전반전에 [노엘 바야다레스가](../Page/노엘_바야다레스.md "wikilink") 길게 걷어낸 것을 [카를로 코스틀리가](../Page/카를로_코스틀리.md "wikilink") 왼발로 선제골을 넣었다.\[23\] 대회에 남기 위해 승점이 최소 1점은 필요했던 에콰도르는 3분 후에 [후안 카를로스 파레데스의](../Page/후안_카를로스_파레데스.md "wikilink") 굴절된 슛을 [에네르 발렌시아가](../Page/에네르_발렌시아.md "wikilink") 근거리에서 반대쪽으로 차 넣어 승부를 원점으로 되돌렸다. 에네르 발렌시아는 후반전에 [왈테르 아요비의](../Page/왈테르_아요비.md "wikilink") 프리킥을 또다시 골로 연결해 승부의 마침표를 찍었다.\[24\]
 
-온두라스는 코스틀리의 골로 1982년부터 511분간 이어진 FIFA 월드컵 무득점 기록에 종지부를 찍었는데, 이는 1930년에서 1990년 사이에 볼리비아가 기록한 517분 다음으로 긴 기록이었다.\[25\] 에네르 발렌시아는 이 경기에서 터뜨린 2골로 이 대회에서만 3골을 득점을 기록했고, [아구스틴 델가도와](https://ko.wikipedia.org/wiki/아구스틴_델가도 "wikilink") 함께 자국의 FIFA 월드컵 최다 득점자로 어깨를 나란히 했다.\[26\]
+온두라스는 코스틀리의 골로 1982년부터 511분간 이어진 FIFA 월드컵 무득점 기록에 종지부를 찍었는데, 이는 1930년에서 1990년 사이에 볼리비아가 기록한 517분 다음으로 긴 기록이었다.\[25\] 에네르 발렌시아는 이 경기에서 터뜨린 2골로 이 대회에서만 3골을 득점을 기록했고, [아구스틴 델가도와](../Page/아구스틴_델가도.md "wikilink") 함께 자국의 FIFA 월드컵 최다 득점자로 어깨를 나란히 했다.\[26\]
 
 |          |                             |                               |                             |                               |               |                  |               |                   |                 |                |                 |          |                              |                             |                              |               |               |                  |               |                   |                 |                |                 |
 | -------- | --------------------------- | ----------------------------- | --------------------------- | ----------------------------- | ------------- | ---------------- | ------------- | ----------------- | --------------- | -------------- | --------------- | -------- | ---------------------------- | --------------------------- | ---------------------------- | ------------- | ------------- | ---------------- | ------------- | ----------------- | --------------- | -------------- | --------------- |
@@ -815,7 +815,7 @@
 하칸 아나즈 (<a href="https://ko.wikipedia.org/wiki/오스트레일리아_축구_연맹" title="wikilink">오스트레일리아</a>)<br />
 매슈 크림 (<a href="https://ko.wikipedia.org/wiki/오스트레일리아_축구_연맹" title="wikilink">오스트레일리아</a>)<br />
 <strong>대기심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/니시무라_유이치" title="wikilink">니시무라 유이치</a> (<a href="https://ko.wikipedia.org/wiki/일본_축구_협회" title="wikilink">일본</a>)<br />
+<a href="../Page/니시무라_유이치.md" title="wikilink">니시무라 유이치</a> (<a href="https://ko.wikipedia.org/wiki/일본_축구_협회" title="wikilink">일본</a>)<br />
 <strong>후보 대기심:</strong><br />
 사가라 도루 (<a href="https://ko.wikipedia.org/wiki/일본_축구_협회" title="wikilink">일본</a>)</p></td>
 </tr>
@@ -826,7 +826,7 @@
 
 양국은 [2010년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵 "wikilink") 조별 리그에서 딱 한번 만났었고, [무득점으로](https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵_H조#스위스_vs_온두라스 "wikilink") 비겼다.\[27\]
 
-스위스의 3골은 모두 [제르단 샤치리가](https://ko.wikipedia.org/wiki/제르단_샤치리 "wikilink") 기록하였다. 6분에 그는 [슈테판 리히트슈타이너로부터](https://ko.wikipedia.org/wiki/슈테판_리히트슈타이너 "wikilink") 공을 받아 안쪽으로 파고든 뒤 왼발로 골망을 향해 감아찼다. 31분, 스위스의 [요시프 드르미치는](../Page/요시프_드르미치.md "wikilink") 돌파한 뒤 샤치리의 득점으로 연결시켰다. 71분 샤치리는 돌파하는 드르미치로부터 한번 더 공을 받아 해트트릭을 완성하였다.\[28\]
+스위스의 3골은 모두 [제르단 샤치리가](https://ko.wikipedia.org/wiki/제르단_샤치리 "wikilink") 기록하였다. 6분에 그는 [슈테판 리히트슈타이너로부터](../Page/슈테판_리히트슈타이너.md "wikilink") 공을 받아 안쪽으로 파고든 뒤 왼발로 골망을 향해 감아찼다. 31분, 스위스의 [요시프 드르미치는](../Page/요시프_드르미치.md "wikilink") 돌파한 뒤 샤치리의 득점으로 연결시켰다. 71분 샤치리는 돌파하는 드르미치로부터 한번 더 공을 받아 해트트릭을 완성하였다.\[28\]
 
 같은 시간 벌어진 경기에서 에콰도르가 프랑스와 비기면서, 스위스는 조 2위를 차지해 결선 토너먼트에 진출하였고, 사상 첫 결선 토너먼트 진출에 최소한 승리가 필요한 온두라스는 승점을 1점도 수확하지 못하고 탈락했다.\[29\]
 
@@ -974,7 +974,7 @@
 <td><p><strong>감독:</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/오트마어_히츠펠트" title="wikilink">오트마어 히츠펠트</a></p></td>
+<td><p><a href="../Page/오트마어_히츠펠트.md" title="wikilink">오트마어 히츠펠트</a></p></td>
 </tr>
 </tbody>
 </table></td>
@@ -988,8 +988,8 @@
 <td><p><strong>최우수 선수:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/제르단_샤치리" title="wikilink">제르단 샤치리</a> (스위스)</p>
 <p><strong>부심:</strong><br />
-에르난 마이다나 (<a href="https://ko.wikipedia.org/wiki/아르헨티나_축구_협회" title="wikilink">아르헨티나</a>)<br />
-후안 파블로 벨라티 (<a href="https://ko.wikipedia.org/wiki/아르헨티나_축구_협회" title="wikilink">아르헨티나</a>)<br />
+에르난 마이다나 (<a href="../Page/아르헨티나_축구_협회.md" title="wikilink">아르헨티나</a>)<br />
+후안 파블로 벨라티 (<a href="../Page/아르헨티나_축구_협회.md" title="wikilink">아르헨티나</a>)<br />
 <strong>대기심:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/밀로라드_마지치" title="wikilink">밀로라드 마지치</a> (<a href="https://ko.wikipedia.org/wiki/세르비아_축구_협회" title="wikilink">세르비아</a>)<br />
 <strong>후보 대기심:</strong><br />
@@ -1000,9 +1000,9 @@
 
 ### 에콰도르 vs 프랑스
 
-양국은 2008년 친선전에서 한번 맞대결을 벌였고, 프랑스가 이 경기를 2-0으로 이겼었다.\[32\] 프랑스는 [요안 카바예를](https://ko.wikipedia.org/wiki/요안_카바예 "wikilink") 경고 누적으로 배치할 수 없었다.\[33\]
+양국은 2008년 친선전에서 한번 맞대결을 벌였고, 프랑스가 이 경기를 2-0으로 이겼었다.\[32\] 프랑스는 [요안 카바예를](../Page/요안_카바예.md "wikilink") 경고 누적으로 배치할 수 없었다.\[33\]
 
-경기는 득점 없는 무승부로 끝났고, 1점을 추가한 프랑스는 승점을 7점 모았고, 이는 조 1위로 결선 토너먼트에 진출하기 위해 충분한 수치였다. 스위스보다 호성적이 필요했던 에콰도르는 최종전에서 결선 토너먼트 진출을 위한 마지막 기회를 날려버렸고, 설상가상으로 주장 [안토니오 발렌시아가](https://ko.wikipedia.org/wiki/안토니오_발렌시아 "wikilink") 후반에 [뤼카 디뉴에게](../Page/뤼카_디뉴.md "wikilink") 가한 높은 태클로 퇴장당했다.\[34\] 같은 시간에 벌어진 경기에서 스위스가 온두라스를 완파함에 따라 에콰도르는 탈락하였고, CONMEBOL 소속 참가국들 중 유일하게 16강 진출에 실패하였다.\[35\]
+경기는 득점 없는 무승부로 끝났고, 1점을 추가한 프랑스는 승점을 7점 모았고, 이는 조 1위로 결선 토너먼트에 진출하기 위해 충분한 수치였다. 스위스보다 호성적이 필요했던 에콰도르는 최종전에서 결선 토너먼트 진출을 위한 마지막 기회를 날려버렸고, 설상가상으로 주장 [안토니오 발렌시아가](../Page/안토니오_발렌시아.md "wikilink") 후반에 [뤼카 디뉴에게](../Page/뤼카_디뉴.md "wikilink") 가한 높은 태클로 퇴장당했다.\[34\] 같은 시간에 벌어진 경기에서 스위스가 온두라스를 완파함에 따라 에콰도르는 탈락하였고, CONMEBOL 소속 참가국들 중 유일하게 16강 진출에 실패하였다.\[35\]
 
 |          |                              |                             |                              |               |               |                  |               |                   |                 |                |                 |          |                             |                            |                             |                                  |               |                  |               |                   |                 |                |                |
 | -------- | ---------------------------- | --------------------------- | ---------------------------- | ------------- | ------------- | ---------------- | ------------- | ----------------- | --------------- | -------------- | --------------- | -------- | --------------------------- | -------------------------- | --------------------------- | -------------------------------- | ------------- | ---------------- | ------------- | ----------------- | --------------- | -------------- | -------------- |
@@ -1146,7 +1146,7 @@
 <td><p><strong>감독:</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/디디에_데샹" title="wikilink">디디에 데샹</a></p></td>
+<td><p><a href="../Page/디디에_데샹.md" title="wikilink">디디에 데샹</a></p></td>
 </tr>
 </tbody>
 </table></td>

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ D4s](https://ko.wikipedia.org/wiki/_D4s).
 
 
-**니콘 D4s**<small>()</small>는 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") 2월 25일 출시된 [니콘](https://ko.wikipedia.org/wiki/니콘 "wikilink")의 [디지털 SLR](https://ko.wikipedia.org/wiki/디지털_일안_반사식_카메라 "wikilink") [카메라이다](https://ko.wikipedia.org/wiki/사진기 "wikilink").\[1\] US $6,500 에 발매되었다. 니콘 D4s의 후속기종으로, 1,620만 화소의 [CMOS 센서를](https://ko.wikipedia.org/wiki/CMOS_이미지_센서 "wikilink") 장착하였다. 다만 해당 센서는 D4의 CMOS보다 진보된 새로운 것이라고 밝혔다. 신형 센서의 [ISO는](https://ko.wikipedia.org/wiki/감광_속도 "wikilink") 409,600까지 확장이 가능하며, 최고 셔터 속도는 1/8000초이다. 51개의 [자동 초점](https://ko.wikipedia.org/wiki/자동_초점 "wikilink") 포인트을 가지고 있다. 다른 사양에 대해서'D4S'는'[D4](../Page/니콘_D4.md "wikilink")'의 완성도를 높인 개선판이기 때문에 다른 점은 별로 없다.
+**니콘 D4s**<small>()</small>는 [2014년](../Page/2014년.md "wikilink") 2월 25일 출시된 [니콘](../Page/니콘.md "wikilink")의 [디지털 SLR](../Page/디지털_일안_반사식_카메라.md "wikilink") [카메라이다](../Page/사진기.md "wikilink").\[1\] US $6,500 에 발매되었다. 니콘 D4s의 후속기종으로, 1,620만 화소의 [CMOS 센서를](https://ko.wikipedia.org/wiki/CMOS_이미지_센서 "wikilink") 장착하였다. 다만 해당 센서는 D4의 CMOS보다 진보된 새로운 것이라고 밝혔다. 신형 센서의 [ISO는](../Page/감광_속도.md "wikilink") 409,600까지 확장이 가능하며, 최고 셔터 속도는 1/8000초이다. 51개의 [자동 초점](../Page/자동_초점.md "wikilink") 포인트을 가지고 있다. 다른 사양에 대해서'D4S'는'[D4](../Page/니콘_D4.md "wikilink")'의 완성도를 높인 개선판이기 때문에 다른 점은 별로 없다.
 
 ## D4와의 차이점
 
@@ -41,7 +41,7 @@
 
 ## 같이 보기
 
-  - [풀프레임 DSLR](https://ko.wikipedia.org/wiki/풀프레임_DSLR "wikilink")
+  - [풀프레임 DSLR](../Page/풀프레임_DSLR.md "wikilink")
 
 ## 각주
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Dr.  ](https://ko.wikipedia.org/wiki/Dr.__).
 
 
-《**Dr. 슬럼프 아라레쨩**》()은 [1980년](https://ko.wikipedia.org/wiki/1980년 "wikilink")부터 [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink")까지 [주간 소년 점프에](https://ko.wikipedia.org/wiki/주간_소년_점프 "wikilink") 연재되었던 [도리야마 아키라의](https://ko.wikipedia.org/wiki/도리야마_아키라 "wikilink") 만화 「[닥터 슬럼프](https://ko.wikipedia.org/wiki/닥터_슬럼프 "wikilink")」를 원작으로 제작된 애니메이션이다. 원작 만화인 [닥터 슬럼프가](https://ko.wikipedia.org/wiki/닥터_슬럼프 "wikilink") 주간 소년 점프에 첫 연재를 시작한 지 약 1년 3개월 째 되는 날인 [1981년](https://ko.wikipedia.org/wiki/1981년 "wikilink") [4월 8일에](https://ko.wikipedia.org/wiki/4월_8일 "wikilink") [후지 TV에서](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 첫 방영을 시작하여 [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") [2월 19일에](https://ko.wikipedia.org/wiki/2월_19일 "wikilink") 종영되었다. [도에이 애니메이션과](https://ko.wikipedia.org/wiki/도에이_애니메이션 "wikilink") [후지 TV에서](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 제작하였으며, 총 243화로 제작되었다.
+《**Dr. 슬럼프 아라레쨩**》()은 [1980년](../Page/1980년.md "wikilink")부터 [1984년](../Page/1984년.md "wikilink")까지 [주간 소년 점프에](../Page/주간_소년_점프.md "wikilink") 연재되었던 [도리야마 아키라의](../Page/도리야마_아키라.md "wikilink") 만화 「[닥터 슬럼프](../Page/닥터_슬럼프.md "wikilink")」를 원작으로 제작된 애니메이션이다. 원작 만화인 [닥터 슬럼프가](../Page/닥터_슬럼프.md "wikilink") 주간 소년 점프에 첫 연재를 시작한 지 약 1년 3개월 째 되는 날인 [1981년](../Page/1981년.md "wikilink") [4월 8일에](../Page/4월_8일.md "wikilink") [후지 TV에서](../Page/후지_TV.md "wikilink") 첫 방영을 시작하여 [1986년](../Page/1986년.md "wikilink") [2월 19일에](../Page/2월_19일.md "wikilink") 종영되었다. [도에이 애니메이션과](../Page/도에이_애니메이션.md "wikilink") [후지 TV에서](../Page/후지_TV.md "wikilink") 제작하였으며, 총 243화로 제작되었다.
 
 ## 등장인물
 
@@ -45,15 +45,15 @@
 
 #### 일본 현지
 
-첫 방영이 시작된 지 8개월 8일째 되는 [1981년](https://ko.wikipedia.org/wiki/1981년 "wikilink") [12월 16일에는](https://ko.wikipedia.org/wiki/12월_16일 "wikilink") 시청률 36.9%를 기록하여, 39.9%로 1위를 기록한《[치비 마루코짱](https://ko.wikipedia.org/wiki/마루코는_아홉살 "wikilink")》([1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink"))과 39.4%로 2위를 기록한 《[사자에상](https://ko.wikipedia.org/wiki/사자에상 "wikilink")》([1979년](https://ko.wikipedia.org/wiki/1979년 "wikilink")) 다음으로 일본 역대 애니메이션 시청률 순위 3위를 기록할 정도로 당시 일본 애니메이션계에 큰 붐을 일으켰고, 종영된 이후에도 꾸준히 재방송되었다.
+첫 방영이 시작된 지 8개월 8일째 되는 [1981년](../Page/1981년.md "wikilink") [12월 16일에는](../Page/12월_16일.md "wikilink") 시청률 36.9%를 기록하여, 39.9%로 1위를 기록한《[치비 마루코짱](../Page/마루코는_아홉살.md "wikilink")》([1990년](../Page/1990년.md "wikilink"))과 39.4%로 2위를 기록한 《[사자에상](../Page/사자에상.md "wikilink")》([1979년](../Page/1979년.md "wikilink")) 다음으로 일본 역대 애니메이션 시청률 순위 3위를 기록할 정도로 당시 일본 애니메이션계에 큰 붐을 일으켰고, 종영된 이후에도 꾸준히 재방송되었다.
 
 #### 해외
 
-  - [스페인](https://ko.wikipedia.org/wiki/스페인 "wikilink"), [프랑스](https://ko.wikipedia.org/wiki/프랑스 "wikilink"), [이탈리아](https://ko.wikipedia.org/wiki/이탈리아 "wikilink") 등 유럽 국가에서 큰 인기를 끌었으며, [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink"), [중국](https://ko.wikipedia.org/wiki/중국 "wikilink"), [타이](https://ko.wikipedia.org/wiki/타이 "wikilink") 등의 아시아 국가나 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")과 [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink") 등의 북·남미 지역에서도 적잖은 인기를 끌었다.
-  - 1997년에는 [조선중앙TV에서](https://ko.wikipedia.org/wiki/조선중앙방송 "wikilink") Dr. 슬럼프 아라레쨩을 방영하였다. 이것에 대해 일본의 [마이니치 신문에서는](https://ko.wikipedia.org/wiki/마이니치_신문 "wikilink") 사회면에 「북한에서도 『응쨔』」라는 표제의 기사를 실었었다.
+  - [스페인](../Page/스페인.md "wikilink"), [프랑스](../Page/프랑스.md "wikilink"), [이탈리아](../Page/이탈리아.md "wikilink") 등 유럽 국가에서 큰 인기를 끌었으며, [대한민국](../Page/대한민국.md "wikilink"), [중국](../Page/중국.md "wikilink"), [타이](https://ko.wikipedia.org/wiki/타이 "wikilink") 등의 아시아 국가나 [미국](../Page/미국.md "wikilink")과 [캐나다](../Page/캐나다.md "wikilink") 등의 북·남미 지역에서도 적잖은 인기를 끌었다.
+  - 1997년에는 [조선중앙TV에서](../Page/조선중앙방송.md "wikilink") Dr. 슬럼프 아라레쨩을 방영하였다. 이것에 대해 일본의 [마이니치 신문에서는](../Page/마이니치_신문.md "wikilink") 사회면에 「북한에서도 『응쨔』」라는 표제의 기사를 실었었다.
 
 ## 한국어판
 
-[대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink") [대원동화](https://ko.wikipedia.org/wiki/대원동화 "wikilink")에서 '닥터 슬럼프 씨리즈'라는 이름으로 비디오 시리즈가 발매되었으며, 이후 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink")에는 [재능TV](https://ko.wikipedia.org/wiki/JEI_재능TV "wikilink"), [퀴니](https://ko.wikipedia.org/wiki/퀴니 "wikilink")에서 '닥터 슬럼프 아리'라는 이름으로 TV판이 방영되었다.
+[대한민국](../Page/대한민국.md "wikilink")에서는 [1992년](../Page/1992년.md "wikilink") [대원동화](https://ko.wikipedia.org/wiki/대원동화 "wikilink")에서 '닥터 슬럼프 씨리즈'라는 이름으로 비디오 시리즈가 발매되었으며, 이후 [2008년](../Page/2008년.md "wikilink")에는 [재능TV](https://ko.wikipedia.org/wiki/JEI_재능TV "wikilink"), [퀴니](../Page/퀴니.md "wikilink")에서 '닥터 슬럼프 아리'라는 이름으로 TV판이 방영되었다.
 
 [분류:닥터 슬럼프](https://ko.wikipedia.org/wiki/분류:닥터_슬럼프 "wikilink") [분류:일본의 애니메이션](https://ko.wikipedia.org/wiki/분류:일본의_애니메이션 "wikilink") [분류:모험 애니메이션](https://ko.wikipedia.org/wiki/분류:모험_애니메이션 "wikilink") [분류:1981년 애니메이션](https://ko.wikipedia.org/wiki/분류:1981년_애니메이션 "wikilink") [분류:1982년 애니메이션](https://ko.wikipedia.org/wiki/분류:1982년_애니메이션 "wikilink") [분류:1983년 애니메이션](https://ko.wikipedia.org/wiki/분류:1983년_애니메이션 "wikilink") [분류:1984년 애니메이션](https://ko.wikipedia.org/wiki/분류:1984년_애니메이션 "wikilink") [분류:1985년 애니메이션](https://ko.wikipedia.org/wiki/분류:1985년_애니메이션 "wikilink") [분류:1986년 애니메이션](https://ko.wikipedia.org/wiki/분류:1986년_애니메이션 "wikilink") [분류:후지 TV 계열 애니메이션](https://ko.wikipedia.org/wiki/분류:후지_TV_계열_애니메이션 "wikilink") [분류:도에이 애니메이션](https://ko.wikipedia.org/wiki/분류:도에이_애니메이션 "wikilink") [분류:코미디 만화](https://ko.wikipedia.org/wiki/분류:코미디_만화 "wikilink") [분류:재능TV의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:재능TV의_텔레비전_프로그램 "wikilink")

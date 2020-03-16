@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [AC ](https://ko.wikipedia.org/wiki/AC_).
 
 
-**AC 프라토**(Associazione Calcio Prato SpA)는 [이탈리아](https://ko.wikipedia.org/wiki/이탈리아 "wikilink") [토스카나주](https://ko.wikipedia.org/wiki/토스카나주 "wikilink") [프라토](https://ko.wikipedia.org/wiki/프라토 "wikilink")를 연고로 하는 이탈리아의 축구 클럽이다.
+**AC 프라토**(Associazione Calcio Prato SpA)는 [이탈리아](../Page/이탈리아.md "wikilink") [토스카나주](https://ko.wikipedia.org/wiki/토스카나주 "wikilink") [프라토](../Page/프라토.md "wikilink")를 연고로 하는 이탈리아의 축구 클럽이다.
 
-프라토는 1964년에 [세리에 B에](https://ko.wikipedia.org/wiki/세리에_B "wikilink") 있던것이 마지막이며, 최근에는 [세리에 C에](../Page/세리에_C.md "wikilink") 참가중이다.
+프라토는 1964년에 [세리에 B에](../Page/세리에_B.md "wikilink") 있던것이 마지막이며, 최근에는 [세리에 C에](../Page/세리에_C.md "wikilink") 참가중이다.
 
 ## 역사
 
@@ -17,15 +17,15 @@
 
 ## 출신 유명 선수
 
-  - [크리스티안 비에리](https://ko.wikipedia.org/wiki/크리스티안_비에리 "wikilink")
+  - [크리스티안 비에리](../Page/크리스티안_비에리.md "wikilink")
 
   - [알레산드로 디아만티](../Page/알레산드로_디아만티.md "wikilink")
 
   - [마시모 마카로네](../Page/마시모_마카로네.md "wikilink")
 
-  - [마시모 오도](https://ko.wikipedia.org/wiki/마시모_오도 "wikilink")
+  - [마시모 오도](../Page/마시모_오도.md "wikilink")
 
-  - [카를로 쿠디치니](https://ko.wikipedia.org/wiki/카를로_쿠디치니 "wikilink")
+  - [카를로 쿠디치니](../Page/카를로_쿠디치니.md "wikilink")
 
 ## 출신 유명 감독
 

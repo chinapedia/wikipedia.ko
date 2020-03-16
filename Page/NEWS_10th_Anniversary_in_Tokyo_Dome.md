@@ -5,7 +5,7 @@
 
 ## 개요
 
-[2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [9월 7일에](https://ko.wikipedia.org/wiki/9월_7일 "wikilink") [도쿄 돔에서](https://ko.wikipedia.org/wiki/도쿄_돔 "wikilink") 개최된 데뷔 10주년 기념 콘서트의 모습을 수록했다.
+[2013년](../Page/2013년.md "wikilink") [9월 7일에](../Page/9월_7일.md "wikilink") [도쿄 돔에서](../Page/도쿄_돔.md "wikilink") 개최된 데뷔 10주년 기념 콘서트의 모습을 수록했다.
 
 ## 수록 내용
 
@@ -39,13 +39,13 @@
 
 14. Greedier
 
-15. Remedy - [마스다 타카히사](https://ko.wikipedia.org/wiki/마스다_타카히사 "wikilink")
+15. Remedy - [마스다 타카히사](../Page/마스다_타카히사.md "wikilink")
 
 16. SHOCK ME 2013
 
 17. BE FUNKY\!
 
-18. Beautiful Rain - [코야마 케이치로](https://ko.wikipedia.org/wiki/코야마_케이치로 "wikilink")
+18. Beautiful Rain - [코야마 케이치로](../Page/코야마_케이치로.md "wikilink")
 
 19. / <small>1억 3천만 분의 두 사람의 기적</small>
 
@@ -53,9 +53,9 @@
 
 21. / <small>체리시</small>
 
-22. Dreamcatcher - [카토 시게아키](https://ko.wikipedia.org/wiki/카토_시게아키 "wikilink")
+22. Dreamcatcher - [카토 시게아키](../Page/카토_시게아키.md "wikilink")
 
-23. Lovin'U - [테고시 유야](https://ko.wikipedia.org/wiki/테고시_유야 "wikilink")
+23. Lovin'U - [테고시 유야](../Page/테고시_유야.md "wikilink")
 
 24. 2nd Opening
 

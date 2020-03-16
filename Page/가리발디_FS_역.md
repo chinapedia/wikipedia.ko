@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ FS ](https://ko.wikipedia.org/wiki/_FS_).
 
 
-**가리발디 FS 역**()은 [밀라노 지하철의](../Page/밀라노_지하철.md "wikilink") [2호선과](../Page/밀라노_지하철_2호선.md "wikilink") [5호선](../Page/밀라노_지하철_5호선.md "wikilink"), 그리고 [밀라노 파산테 선이](https://ko.wikipedia.org/wiki/밀라노_파산테_선 "wikilink") 만나는 환승역이다. [1971년](https://ko.wikipedia.org/wiki/1971년 "wikilink") [7월 12일에](https://ko.wikipedia.org/wiki/7월_12일 "wikilink") 문을 열었으며, 1978년부터 [카도르나 역까지](../Page/카도르나_역.md "wikilink") 첫 운행하기 전까지는 2호선의 남쪽 종착역이었다. 1997년에는 파산테 역이 문을 열었다. 그리고 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [3월 1일부터](https://ko.wikipedia.org/wiki/3월_1일 "wikilink") 5호선이 2차 구간이 개통되면서 문을 열었고, [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [4월 29일에](https://ko.wikipedia.org/wiki/4월_29일 "wikilink") [산 시로 스타디오 역까지](../Page/산_시로_스타디오_역.md "wikilink") 연장되기 전까지 남쪽 종착역이 되었다.
+**가리발디 FS 역**()은 [밀라노 지하철의](../Page/밀라노_지하철.md "wikilink") [2호선과](../Page/밀라노_지하철_2호선.md "wikilink") [5호선](../Page/밀라노_지하철_5호선.md "wikilink"), 그리고 [밀라노 파산테 선이](https://ko.wikipedia.org/wiki/밀라노_파산테_선 "wikilink") 만나는 환승역이다. [1971년](../Page/1971년.md "wikilink") [7월 12일에](../Page/7월_12일.md "wikilink") 문을 열었으며, 1978년부터 [카도르나 역까지](../Page/카도르나_역.md "wikilink") 첫 운행하기 전까지는 2호선의 남쪽 종착역이었다. 1997년에는 파산테 역이 문을 열었다. 그리고 [2014년](../Page/2014년.md "wikilink") [3월 1일부터](../Page/3월_1일.md "wikilink") 5호선이 2차 구간이 개통되면서 문을 열었고, [2015년](../Page/2015년.md "wikilink") [4월 29일에](../Page/4월_29일.md "wikilink") [산 시로 스타디오 역까지](../Page/산_시로_스타디오_역.md "wikilink") 연장되기 전까지 남쪽 종착역이 되었다.
 
-이 역은 [밀라노](https://ko.wikipedia.org/wiki/밀라노 "wikilink") 코무네 내에 있으며, 시그문드 프레우드 광장 근처의 돈 루이지 스투르초 가 (Don Luigi Sturzo)에 위치해 있다. 지하에 있는 역이며 [밀라노 포르타 가리발디 역](https://ko.wikipedia.org/wiki/밀라노_포르타_가리발디_역 "wikilink") 지하에 위치해 있다.
+이 역은 [밀라노](../Page/밀라노.md "wikilink") 코무네 내에 있으며, 시그문드 프레우드 광장 근처의 돈 루이지 스투르초 가 (Don Luigi Sturzo)에 위치해 있다. 지하에 있는 역이며 [밀라노 포르타 가리발디 역](https://ko.wikipedia.org/wiki/밀라노_포르타_가리발디_역 "wikilink") 지하에 위치해 있다.
 
 가리발디 역은 [카시나 고바 역처럼](../Page/카시나_고바_역.md "wikilink") 선로 4개를 가지고 있는 밀라노에서 유일한 지하 역이기도 하다. 그 중 두 승강장은 지하철 열차와 평범하게 연결되는 용도로 쓰이는 반면 대기 승강장 밖에 있는 나머지 두개는 쓰이지 않으며, 그 중 하나는 부분적으로 철거되고 있는 중이다.
 
@@ -22,8 +22,8 @@
 
 이 역에는 다음과 같은 시설이 있다.
 
-  - [24px](https://ko.wikipedia.org/wiki/파일:Feature_accessible.svg "wikilink") [장애인](https://ko.wikipedia.org/wiki/장애인 "wikilink") 승객을 위한 접근 시설
-  - [24px](https://ko.wikipedia.org/wiki/파일:Feature_escalators.svg "wikilink") [에스컬레이터](https://ko.wikipedia.org/wiki/에스컬레이터 "wikilink")
+  - [24px](https://ko.wikipedia.org/wiki/파일:Feature_accessible.svg "wikilink") [장애인](../Page/장애인.md "wikilink") 승객을 위한 접근 시설
+  - [24px](https://ko.wikipedia.org/wiki/파일:Feature_escalators.svg "wikilink") [에스컬레이터](../Page/에스컬레이터.md "wikilink")
   - [24px](https://ko.wikipedia.org/wiki/파일:Feature_ticket_office.svg "wikilink") 매표기
   - [24px](https://ko.wikipedia.org/wiki/파일:CCTV_surveillance_camera.svg "wikilink") 역 [감시카메라](https://ko.wikipedia.org/wiki/감시카메라 "wikilink")
 

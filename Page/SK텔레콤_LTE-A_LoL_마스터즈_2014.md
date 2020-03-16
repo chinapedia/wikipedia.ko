@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SK LTE-A LoL  2014](https://ko.wikipedia.org/wiki/SK_LTE-A_LoL__2014).
 
 
-**SK텔레콤 LTE-A LoL 마스터즈 2014**(SKT LTE-A LoL Masters 2014)는 [라이엇 게임즈](https://ko.wikipedia.org/wiki/라이엇_게임즈 "wikilink"), [한국e스포츠협회](https://ko.wikipedia.org/wiki/한국e스포츠협회 "wikilink"), [온게임넷](https://ko.wikipedia.org/wiki/온게임넷 "wikilink")이 주최하고 [온게임넷](https://ko.wikipedia.org/wiki/온게임넷 "wikilink")의 주관으로 이루어진 대회이다.
+**SK텔레콤 LTE-A LoL 마스터즈 2014**(SKT LTE-A LoL Masters 2014)는 [라이엇 게임즈](../Page/라이엇_게임즈.md "wikilink"), [한국e스포츠협회](../Page/한국e스포츠협회.md "wikilink"), [온게임넷](https://ko.wikipedia.org/wiki/온게임넷 "wikilink")이 주최하고 [온게임넷](https://ko.wikipedia.org/wiki/온게임넷 "wikilink")의 주관으로 이루어진 대회이다.
 
 ## 대회 개요
 
@@ -16,7 +16,7 @@
 
 ### 대회 일정
 
-  - 본선 풀 리그 : [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [2월 13일](https://ko.wikipedia.org/wiki/2월_13일 "wikilink") \~ [5월 4일](https://ko.wikipedia.org/wiki/5월_4일 "wikilink")
+  - 본선 풀 리그 : [2014년](../Page/2014년.md "wikilink") [2월 13일](../Page/2월_13일.md "wikilink") \~ [5월 4일](../Page/5월_4일.md "wikilink")
 
 ### 경기장
 
@@ -33,7 +33,7 @@
 | 삼성 갤럭시 Ozone                                                       |                   |
 | [인크레더블 미라클](https://ko.wikipedia.org/wiki/인크레더블_미라클 "wikilink")    | 인크레더블 미라클 \#1     |
 | 인크레더블 미라클 \#2                                                      |                   |
-| [진에어 그린윙스](https://ko.wikipedia.org/wiki/진에어_그린윙스 "wikilink")      | 진에어 그린윙스 Stealths |
+| [진에어 그린윙스](../Page/진에어_그린윙스.md "wikilink")                         | 진에어 그린윙스 Stealths |
 | 진에어 그린윙스 Falcons                                                   |                   |
 | [CJ 엔투스](https://ko.wikipedia.org/wiki/CJ_엔투스 "wikilink")          | CJ 엔투스 Frost      |
 | CJ 엔투스 Blaze                                                       |                   |
@@ -46,7 +46,7 @@
 
 ### 1주차
 
-  - [2월 13일](https://ko.wikipedia.org/wiki/2월_13일 "wikilink")
+  - [2월 13일](../Page/2월_13일.md "wikilink")
 
 | 경기  | 진에어 그린윙스          | CJ 엔투스 |
 | --- | ----------------- | ------ |
@@ -63,7 +63,7 @@
 | AD 캐리 | Cpt Jack 강형우 | Emperor 김진현  |
 | 서포터   | XD 이은택       | Lustboy 함장식  |
 
-  - [2월 16일](https://ko.wikipedia.org/wiki/2월_16일 "wikilink")
+  - [2월 16일](../Page/2월_16일.md "wikilink")
 
 | 경기  | SK텔레콤 T1   | 인크레더블 미라클 |
 | --- | ---------- | --------- |
@@ -82,7 +82,7 @@
 
 ### 2주차
 
-  - [2월 20일](https://ko.wikipedia.org/wiki/2월_20일 "wikilink")
+  - [2월 20일](../Page/2월_20일.md "wikilink")
 
 | 경기  | KT 롤스터         | 나진 e-엠파이어 |
 | --- | -------------- | --------- |
@@ -99,7 +99,7 @@
 | AD 캐리 | Arrow 노동현   | PraY 김종인   |
 | 서포터   | Hachani 하승찬 | Cain 장누리   |
 
-  - [2월 23일](https://ko.wikipedia.org/wiki/2월_23일 "wikilink")
+  - [2월 23일](../Page/2월_23일.md "wikilink")
 
 | 경기  | 삼성 갤럭시       | 진에어 그린윙스 |
 | --- | ------------ | -------- |
@@ -118,7 +118,7 @@
 
 ### 3주차
 
-  - [2월 27일](https://ko.wikipedia.org/wiki/2월_27일 "wikilink")
+  - [2월 27일](../Page/2월_27일.md "wikilink")
 
 | 경기  | CJ 엔투스       | SK텔레콤 T1 |
 | --- | ------------ | -------- |
@@ -135,7 +135,7 @@
 | AD 캐리 | Emperor 김진현  | Bang 배준식   |
 | 서포터   | Lustboy 함장식  | Wolf 이재완   |
 
-  - [3월 2일](https://ko.wikipedia.org/wiki/3월_2일 "wikilink")
+  - [3월 2일](../Page/3월_2일.md "wikilink")
 
 | 경기  | 인크레더블 미라클     | KT 롤스터 |
 | --- | ------------- | ------ |
@@ -154,7 +154,7 @@
 
 ### 4주차
 
-  - [3월 6일](https://ko.wikipedia.org/wiki/3월_6일 "wikilink")
+  - [3월 6일](../Page/3월_6일.md "wikilink")
 
 | 경기  | 나진 e-엠파이어       | 삼성 갤럭시 |
 | --- | --------------- | ------ |
@@ -171,7 +171,7 @@
 | AD 캐리 | Zefa 이재민    | Deft 김혁규   |
 | 서포터   | GorillA 강범현 | Heart 이관형  |
 
-  - [3월 9일](https://ko.wikipedia.org/wiki/3월_9일 "wikilink")
+  - [3월 9일](../Page/3월_9일.md "wikilink")
 
 | 경기  | 진에어 그린윙스          | SK텔레콤 T1 |
 | --- | ----------------- | -------- |
@@ -190,7 +190,7 @@
 
 ### 5주차
 
-  - [3월 13일](https://ko.wikipedia.org/wiki/3월_13일 "wikilink")
+  - [3월 13일](../Page/3월_13일.md "wikilink")
 
 | 경기  | CJ 엔투스       | 인크레더블 미라클 |
 | --- | ------------ | --------- |

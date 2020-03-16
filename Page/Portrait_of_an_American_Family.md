@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Portrait of an American Family](https://ko.wikipedia.org/wiki/Portrait_of_an_American_Family).
 
 
-《**Portrait of an American Family**》는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [록 밴드](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [마릴린 맨슨의](../Page/마릴린_맨슨_\(밴드\).md "wikilink") 데뷔 앨범이다. 프로듀서는 [마릴린 맨슨을](https://ko.wikipedia.org/wiki/마릴린_맨슨 "wikilink") 발굴했던 [트렌트 레즈너](../Page/트렌트_레즈너.md "wikilink")([나인 인치 네일스](https://ko.wikipedia.org/wiki/나인_인치_네일스 "wikilink"))가 맡았으며 이 앨범을 발표하기 전에 제작했었던 《The Manson Family Album》이라는 데모 앨범에서 대부분의 수록곡을 가져와 편곡과 수정을 거쳐 수록했다.
+《**Portrait of an American Family**》는 [미국](../Page/미국.md "wikilink")의 [록 밴드](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [마릴린 맨슨의](../Page/마릴린_맨슨_\(밴드\).md "wikilink") 데뷔 앨범이다. 프로듀서는 [마릴린 맨슨을](../Page/마릴린_맨슨.md "wikilink") 발굴했던 [트렌트 레즈너](../Page/트렌트_레즈너.md "wikilink")([나인 인치 네일스](../Page/나인_인치_네일스.md "wikilink"))가 맡았으며 이 앨범을 발표하기 전에 제작했었던 《The Manson Family Album》이라는 데모 앨범에서 대부분의 수록곡을 가져와 편곡과 수정을 거쳐 수록했다.
 
 ## The Manson Family Album
 
@@ -27,17 +27,17 @@
 
 <!-- end list -->
 
-  - [마릴린 맨슨](https://ko.wikipedia.org/wiki/마릴린_맨슨 "wikilink") – [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), [프로듀서](https://ko.wikipedia.org/wiki/프로듀서 "wikilink")
-  - [데이지 버코위츠](https://ko.wikipedia.org/wiki/데이지_버코위츠 "wikilink")(Daisy Berkowitz) – [기타](https://ko.wikipedia.org/wiki/기타 "wikilink")
-  - [마돈나 웨인 게이시](https://ko.wikipedia.org/wiki/마돈나_웨인_게이시 "wikilink")(Madonna Wayne Gacy) – [건반 악기](https://ko.wikipedia.org/wiki/건반_악기 "wikilink"), 루프, [샘플링](https://ko.wikipedia.org/wiki/샘플링_\(음악\) "wikilink")
-  - [기젯 게인](https://ko.wikipedia.org/wiki/기젯_게인 "wikilink")(Gidget Gein) – [베이스 기타](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink")
-  - [사라 리 루카스](https://ko.wikipedia.org/wiki/사라_리_루카스 "wikilink")(Sara Lee Lucas) – [베이스 기타](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink"), 소리 효과
+  - [마릴린 맨슨](../Page/마릴린_맨슨.md "wikilink") – [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), [프로듀서](https://ko.wikipedia.org/wiki/프로듀서 "wikilink")
+  - [데이지 버코위츠](https://ko.wikipedia.org/wiki/데이지_버코위츠 "wikilink")(Daisy Berkowitz) – [기타](../Page/기타.md "wikilink")
+  - [마돈나 웨인 게이시](https://ko.wikipedia.org/wiki/마돈나_웨인_게이시 "wikilink")(Madonna Wayne Gacy) – [건반 악기](https://ko.wikipedia.org/wiki/건반_악기 "wikilink"), 루프, [샘플링](../Page/샘플링_\(음악\).md "wikilink")
+  - [기젯 게인](https://ko.wikipedia.org/wiki/기젯_게인 "wikilink")(Gidget Gein) – [베이스 기타](../Page/베이스_기타.md "wikilink")
+  - [사라 리 루카스](https://ko.wikipedia.org/wiki/사라_리_루카스 "wikilink")(Sara Lee Lucas) – [베이스 기타](../Page/베이스_기타.md "wikilink"), 소리 효과
   - Robert Pierce(어린이) - 보컬(11)
   - Roli Mosimann - 프로듀서
 
 ## 수록곡
 
-  - <small>90년대 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서 라이센스로 발매된 앨범의 경우에는 〈Dope Hat〉이 심의를 통과하지 못하여 아예 삭제된 채 12트랙으로 발매되었다.</small>
+  - <small>90년대 [대한민국](../Page/대한민국.md "wikilink")에서 라이센스로 발매된 앨범의 경우에는 〈Dope Hat〉이 심의를 통과하지 못하여 아예 삭제된 채 12트랙으로 발매되었다.</small>
 
 ## 참여
 
@@ -55,10 +55,10 @@
 
 </dl>
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/마릴린_맨슨" title="wikilink">마릴린 맨슨</a> - <a href="https://ko.wikipedia.org/wiki/프로듀서" title="wikilink">프로듀서</a>, <a href="https://ko.wikipedia.org/wiki/리드_보컬" title="wikilink">리드 보컬</a>, 목소리 조작, <a href="https://ko.wikipedia.org/wiki/랩_(음악)" title="wikilink">랩</a>, 루프, <a href="https://ko.wikipedia.org/wiki/브라스" title="wikilink">브라스</a>, <a href="https://ko.wikipedia.org/wiki/아트워크" title="wikilink">아트워크</a>, 백워드 마스킹, 커버의 가족 인형 제작</li>
+<li><a href="../Page/마릴린_맨슨.md" title="wikilink">마릴린 맨슨</a> - <a href="https://ko.wikipedia.org/wiki/프로듀서" title="wikilink">프로듀서</a>, <a href="https://ko.wikipedia.org/wiki/리드_보컬" title="wikilink">리드 보컬</a>, 목소리 조작, <a href="https://ko.wikipedia.org/wiki/랩_(음악)" title="wikilink">랩</a>, 루프, <a href="https://ko.wikipedia.org/wiki/브라스" title="wikilink">브라스</a>, <a href="https://ko.wikipedia.org/wiki/아트워크" title="wikilink">아트워크</a>, 백워드 마스킹, 커버의 가족 인형 제작</li>
 <li><a href="https://ko.wikipedia.org/wiki/마돈나_웨인_게이시" title="wikilink">마돈나 웨인 게이시</a> - <a href="https://ko.wikipedia.org/wiki/해먼드_오르간" title="wikilink">해먼드 오르간</a></li>
-<li><a href="https://ko.wikipedia.org/wiki/트위기_라미레즈" title="wikilink">트위기 라미레즈</a>(Twiggy Ramirez) - <a href="https://ko.wikipedia.org/wiki/베이스_기타" title="wikilink">베이스 기타</a></li>
-<li><a href="https://ko.wikipedia.org/wiki/데이지_버코위츠" title="wikilink">데이지 버코위츠</a> - <a href="https://ko.wikipedia.org/wiki/기타" title="wikilink">기타</a></li>
+<li><a href="https://ko.wikipedia.org/wiki/트위기_라미레즈" title="wikilink">트위기 라미레즈</a>(Twiggy Ramirez) - <a href="../Page/베이스_기타.md" title="wikilink">베이스 기타</a></li>
+<li><a href="https://ko.wikipedia.org/wiki/데이지_버코위츠" title="wikilink">데이지 버코위츠</a> - <a href="../Page/기타.md" title="wikilink">기타</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/사라_리_루카스" title="wikilink">사라 리 루카스</a> - <a href="https://ko.wikipedia.org/wiki/드럼" title="wikilink">드럼</a>, 사운드 효과</li>
 </ul>
 <dl>
@@ -67,7 +67,7 @@
 </dl>
 <ul>
 <li>Robert Pierce(6세) - 어린이 목소리(3, 12)</li>
-<li>Hope Nichols - 백 보컬/citronella(6), <a href="https://ko.wikipedia.org/wiki/색소폰" title="wikilink">색소폰</a>(7)</li>
+<li>Hope Nichols - 백 보컬/citronella(6), <a href="../Page/색소폰.md" title="wikilink">색소폰</a>(7)</li>
 <li>Mellisa(19세) - violation(8)</li>
 <li>Charlie Clouser - 드럼(10)</li>
 </ul></td>
@@ -84,7 +84,7 @@
 <li>Marc Freegard - 믹싱</li>
 <li>Charlie Clouser - 디지털 에디트, 프로그래밍</li>
 <li>Tom Baker(Future Disc) - <a href="https://ko.wikipedia.org/wiki/마스터링" title="wikilink">마스터링</a></li>
-<li>Robin Perine - 인형 <a href="https://ko.wikipedia.org/wiki/사진" title="wikilink">사진</a></li>
+<li>Robin Perine - 인형 <a href="../Page/사진.md" title="wikilink">사진</a></li>
 <li>Jeffrey Weiss - 사진</li>
 <li>Gary Talpas - 패키지</li>
 <li>Frank Callari, John Tovar - 매니지먼트</li>

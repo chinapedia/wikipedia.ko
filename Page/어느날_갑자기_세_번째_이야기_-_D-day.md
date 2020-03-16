@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [     - D-day](https://ko.wikipedia.org/wiki/_____-_D-day).
 
 
-《**어느날 갑자기 세 번째 이야기 - D-day**》는 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [8월 3일에](https://ko.wikipedia.org/wiki/8월_3일 "wikilink") 개봉된 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [공포 영화다](https://ko.wikipedia.org/wiki/공포_영화 "wikilink").
+《**어느날 갑자기 세 번째 이야기 - D-day**》는 [2006년](../Page/2006년.md "wikilink") [8월 3일에](../Page/8월_3일.md "wikilink") 개봉된 [대한민국](../Page/대한민국.md "wikilink")의 [공포 영화다](../Page/공포_영화.md "wikilink").
 
 ## 줄거리
 
@@ -11,24 +11,24 @@
 
 ### 주요 인물
 
-  - [김리나](https://ko.wikipedia.org/wiki/김리나_\(1985년\) "wikilink") : 강은수 역
-  - [이은성](https://ko.wikipedia.org/wiki/이은성_\(배우\) "wikilink") : 김보람 역
-  - [유호린](https://ko.wikipedia.org/wiki/유호린 "wikilink") : 서유진 역
+  - [김리나](../Page/김리나_\(1985년\).md "wikilink") : 강은수 역
+  - [이은성](../Page/이은성_\(배우\).md "wikilink") : 김보람 역
+  - [유호린](../Page/유호린.md "wikilink") : 서유진 역
   - 허진용 : 이다영 역
 
 ### 그 외 인물
 
   - [윤다경](../Page/윤다경.md "wikilink") : 사감 역
-  - [서혜린](https://ko.wikipedia.org/wiki/서혜린_\(배우\) "wikilink") : 유진 모 역 (우정출연)
-  - [최민금](https://ko.wikipedia.org/wiki/최민금 "wikilink") : 원장 역
+  - [서혜린](../Page/서혜린_\(배우\).md "wikilink") : 유진 모 역 (우정출연)
+  - [최민금](../Page/최민금.md "wikilink") : 원장 역
   - [최보광](https://ko.wikipedia.org/wiki/최정인_\(배우\) "wikilink") : 보조선생 1 역
   - 이유리 : 보조선생 2 역
-  - [신영진](https://ko.wikipedia.org/wiki/신영진 "wikilink") : 양호선생 역
+  - [신영진](../Page/신영진.md "wikilink") : 양호선생 역
   - 전은희 : 선생 역
-  - [김주령](https://ko.wikipedia.org/wiki/김주령 "wikilink") : 선생 역
+  - [김주령](../Page/김주령.md "wikilink") : 선생 역
   - 오일영 : 선생 역
   - 김강희 : 선생 역
-  - [홍재성](https://ko.wikipedia.org/wiki/임정운 "wikilink") : 선생 역
+  - [홍재성](../Page/임정운.md "wikilink") : 선생 역
   - [이영진](https://ko.wikipedia.org/wiki/이영진 "wikilink") : 선생 역
   - 함정이 : 선생 역
   - 차혜정 : 선생 역

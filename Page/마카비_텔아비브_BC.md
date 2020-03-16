@@ -1,12 +1,12 @@
 > This article is converted from Wikipedia: [  BC](https://ko.wikipedia.org/wiki/__BC).
 
 
-**마카비 텔아비브 BC**()는 [이스라엘](https://ko.wikipedia.org/wiki/이스라엘 "wikilink") [텔아비브](https://ko.wikipedia.org/wiki/텔아비브 "wikilink")를 연고로 하는 프로[농구](https://ko.wikipedia.org/wiki/농구 "wikilink")단이다.
+**마카비 텔아비브 BC**()는 [이스라엘](../Page/이스라엘.md "wikilink") [텔아비브](../Page/텔아비브.md "wikilink")를 연고로 하는 프로[농구](../Page/농구.md "wikilink")단이다.
 
 ## 같이 보기
 
   - [마카비 텔아비브](https://ko.wikipedia.org/wiki/마카비_텔아비브 "wikilink")
-  - [마카비 텔아비브 FC](https://ko.wikipedia.org/wiki/마카비_텔아비브_FC "wikilink")
+  - [마카비 텔아비브 FC](../Page/마카비_텔아비브_FC.md "wikilink")
 
 ## 외부 링크
 

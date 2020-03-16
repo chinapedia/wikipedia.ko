@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [FEZ \( \)](https://ko.wikipedia.org/wiki/FEZ_\(_\)).
 
 
-《**페즈**》(Fez)는 폴리트론 코퍼레이션이 개발하고 트랩도어가 발행한 [퍼즐](https://ko.wikipedia.org/wiki/퍼즐_게임 "wikilink") [비디오](https://ko.wikipedia.org/wiki/비디오_게임 "wikilink") [인디 게임이다](https://ko.wikipedia.org/wiki/인디_게임 "wikilink"). [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [4월 13일](https://ko.wikipedia.org/wiki/4월_13일 "wikilink") [엑스박스 360으로](https://ko.wikipedia.org/wiki/엑스박스_360 "wikilink") 첫 출시 하였으며 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [5월 1일에](https://ko.wikipedia.org/wiki/5월_1일 "wikilink") [마이크로소프트 윈도용으로](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 발매되었다. 폴리트론 코퍼레이션 자체 제작 엔진 Trixel 엔진을 사용한다. 출시 6주만에 10만 장 판매의 성과를 내었다.\[1\]
+《**페즈**》(Fez)는 폴리트론 코퍼레이션이 개발하고 트랩도어가 발행한 [퍼즐](https://ko.wikipedia.org/wiki/퍼즐_게임 "wikilink") [비디오](../Page/비디오_게임.md "wikilink") [인디 게임이다](../Page/인디_게임.md "wikilink"). [2012년](../Page/2012년.md "wikilink") [4월 13일](../Page/4월_13일.md "wikilink") [엑스박스 360으로](../Page/엑스박스_360.md "wikilink") 첫 출시 하였으며 [2013년](../Page/2013년.md "wikilink") [5월 1일에](../Page/5월_1일.md "wikilink") [마이크로소프트 윈도용으로](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 발매되었다. 폴리트론 코퍼레이션 자체 제작 엔진 Trixel 엔진을 사용한다. 출시 6주만에 10만 장 판매의 성과를 내었다.\[1\]
 
 ## 게임 플레이
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Fez_\(video_game\)_screenshot_04.png "wikilink") FEZ는 [16비트](https://ko.wikipedia.org/wiki/16비트 "wikilink") 도트 스타일의 [횡 스크롤 게임의](https://ko.wikipedia.org/wiki/:en:Side-scrolling_video_game "wikilink") 탈을 쓰고 있지만 사실은 3D 게임이다.\[2\] 왼쪽, 오른쪽으로 보는 방향을 조절하는 방식으로 플레이하며 한쪽 방향으로만 봤을 때는 보이지 않는 길을 찾아내거나 혹은 원근법을 무시한 채 보이는 방향 그대로가 하나의 길이 되는 방식으로 게임 플레이가 진행된다. 게임의 엔진인 Trixel은 3D를 2D처럼 보이게 하기 위해 [원근법](https://ko.wikipedia.org/wiki/원근법 "wikilink")과 소실점이 존재하지 않게끔 설계되었다. 안내인 역할을 하는 게임의 캐릭터 '도트'가 게임 진행 방법을 알려주거나 힌트를 주기도 한다. 엔딩 후에는 1인칭 시점으로 보는 기능이 추가된다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Fez_\(video_game\)_screenshot_04.png "wikilink") FEZ는 [16비트](../Page/16비트.md "wikilink") 도트 스타일의 [횡 스크롤 게임의](https://ko.wikipedia.org/wiki/:en:Side-scrolling_video_game "wikilink") 탈을 쓰고 있지만 사실은 3D 게임이다.\[2\] 왼쪽, 오른쪽으로 보는 방향을 조절하는 방식으로 플레이하며 한쪽 방향으로만 봤을 때는 보이지 않는 길을 찾아내거나 혹은 원근법을 무시한 채 보이는 방향 그대로가 하나의 길이 되는 방식으로 게임 플레이가 진행된다. 게임의 엔진인 Trixel은 3D를 2D처럼 보이게 하기 위해 [원근법](https://ko.wikipedia.org/wiki/원근법 "wikilink")과 소실점이 존재하지 않게끔 설계되었다. 안내인 역할을 하는 게임의 캐릭터 '도트'가 게임 진행 방법을 알려주거나 힌트를 주기도 한다. 엔딩 후에는 1인칭 시점으로 보는 기능이 추가된다.
 
 ## 스토리
 
@@ -17,7 +17,7 @@
 
 ### 필 피쉬
 
-[230px](https://ko.wikipedia.org/wiki/파일:Phil_Fish_at_GAMMA_3D_2008_\(3069071319\).jpg "wikilink") 폴리트론 코퍼레이션의 창업자인 필 피쉬(Phil Fish)는 FEZ의 디자이너 이다. 2011년에 [인디](https://ko.wikipedia.org/wiki/인디_게임 "wikilink") [게임 개발자들의](https://ko.wikipedia.org/wiki/게임_개발자 "wikilink") 이야기를 그린 'Indie Game: The Movie' 에도 출연하였다.\[3\] 2012년 에는 GDC(Game Developers Conference) 에서 요즘 일본 게임에 대한 생각을 묻는 일본인 프로그래머의 질문에 "구리다"(It’s suck)고 발언하여 논란이 되었다.\[4\]\[5\]
+[230px](https://ko.wikipedia.org/wiki/파일:Phil_Fish_at_GAMMA_3D_2008_\(3069071319\).jpg "wikilink") 폴리트론 코퍼레이션의 창업자인 필 피쉬(Phil Fish)는 FEZ의 디자이너 이다. 2011년에 [인디](../Page/인디_게임.md "wikilink") [게임 개발자들의](https://ko.wikipedia.org/wiki/게임_개발자 "wikilink") 이야기를 그린 'Indie Game: The Movie' 에도 출연하였다.\[3\] 2012년 에는 GDC(Game Developers Conference) 에서 요즘 일본 게임에 대한 생각을 묻는 일본인 프로그래머의 질문에 "구리다"(It’s suck)고 발언하여 논란이 되었다.\[4\]\[5\]
 
 ## 각주
 

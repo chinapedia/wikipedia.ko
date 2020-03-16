@@ -1,14 +1,14 @@
 > This article is converted from Wikipedia: [ Papa is](https://ko.wikipedia.org/wiki/_Papa_is).
 
 
-《**김어준의 파파 이스(Papa is)**》는 [한겨레TV](https://ko.wikipedia.org/wiki/한겨레TV "wikilink")에서 제작하는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 시사 관련 [인터넷 방송으로](https://ko.wikipedia.org/wiki/인터넷_방송 "wikilink"), [딴지일보](https://ko.wikipedia.org/wiki/딴지일보 "wikilink")의 총수 [김어준](https://ko.wikipedia.org/wiki/김어준 "wikilink")이 진행을 맡고 있다.\[1\]\[2\]\[3\]\[4\] 2014년 3월 14일에 첫 방송이 업로드 되었으며, 다목적 카페인 벙커 1에서 공개 녹화 형식으로 진행된다. 포맷은 [유투브](https://ko.wikipedia.org/wiki/유투브 "wikilink")에 업로드 되는 영상 매체와 [팟캐스트](https://ko.wikipedia.org/wiki/팟캐스트 "wikilink")에 업로드 되는 같은 내용의 음원이 있다.
+《**김어준의 파파 이스(Papa is)**》는 [한겨레TV](https://ko.wikipedia.org/wiki/한겨레TV "wikilink")에서 제작하는 [대한민국](../Page/대한민국.md "wikilink")의 시사 관련 [인터넷 방송으로](https://ko.wikipedia.org/wiki/인터넷_방송 "wikilink"), [딴지일보](../Page/딴지일보.md "wikilink")의 총수 [김어준](../Page/김어준.md "wikilink")이 진행을 맡고 있다.\[1\]\[2\]\[3\]\[4\] 2014년 3월 14일에 첫 방송이 업로드 되었으며, 다목적 카페인 벙커 1에서 공개 녹화 형식으로 진행된다. 포맷은 [유투브](https://ko.wikipedia.org/wiki/유투브 "wikilink")에 업로드 되는 영상 매체와 [팟캐스트](../Page/팟캐스트.md "wikilink")에 업로드 되는 같은 내용의 음원이 있다.
 
-2014년 6월 20일 방영된 13회부터는 동일한 이름을 사용하는 패스트푸드 체인인 [KFC](https://ko.wikipedia.org/wiki/KFC "wikilink") 미국 본사의 요청으로 인하여 기존 방송 타이틀이었던 《**김어준의 KFC**》의 사용을 중단하고 《**김어준의 파파 이스(Papa is)**》로 변경하였다.\[5\]
+2014년 6월 20일 방영된 13회부터는 동일한 이름을 사용하는 패스트푸드 체인인 [KFC](../Page/KFC.md "wikilink") 미국 본사의 요청으로 인하여 기존 방송 타이틀이었던 《**김어준의 KFC**》의 사용을 중단하고 《**김어준의 파파 이스(Papa is)**》로 변경하였다.\[5\]
 
 ## 출연진
 
-  - [김어준](https://ko.wikipedia.org/wiki/김어준 "wikilink")([딴지일보](https://ko.wikipedia.org/wiki/딴지일보 "wikilink") 총수) - 진행자
-  - 송채경화([한겨레21](https://ko.wikipedia.org/wiki/한겨레21 "wikilink") 기자) - 고정 패널, 〈KFC 이슈브리핑〉코너 진행(1회 후 코너 폐지)
+  - [김어준](../Page/김어준.md "wikilink")([딴지일보](../Page/딴지일보.md "wikilink") 총수) - 진행자
+  - 송채경화([한겨레21](../Page/한겨레21.md "wikilink") 기자) - 고정 패널, 〈KFC 이슈브리핑〉코너 진행(1회 후 코너 폐지)
 
 <!-- end list -->
 
@@ -16,8 +16,8 @@
 
 <!-- end list -->
 
-  - [김보협](../Page/김보협.md "wikilink")([한겨레21](https://ko.wikipedia.org/wiki/한겨레21 "wikilink") [기자](https://ko.wikipedia.org/wiki/기자 "wikilink")) - 고정 패널 (14회 까지)
-  - [선대인](https://ko.wikipedia.org/wiki/선대인 "wikilink") - 〈선대인의 참죠 경제〉 코너 패널(1, 2회)
+  - [김보협](../Page/김보협.md "wikilink")([한겨레21](../Page/한겨레21.md "wikilink") [기자](https://ko.wikipedia.org/wiki/기자 "wikilink")) - 고정 패널 (14회 까지)
+  - [선대인](../Page/선대인.md "wikilink") - 〈선대인의 참죠 경제〉 코너 패널(1, 2회)
 
 ## 제작진
 
@@ -39,8 +39,8 @@
   - 정주용 - 카메라(번외편(6.5)부터)
   - 장지남 - 카메라(7회)
   - 이영상, 이도성 - 벙커팀(9\~164회)
-  - 김창규(필명 '죽지않는돌고래'), 심우찬, 함현식, 조창제, 길기웅, 주하아린, 김진 - [딴지일보](https://ko.wikipedia.org/wiki/딴지일보 "wikilink") 팀(9, 10회)
-  - [3호선 버터플라이](https://ko.wikipedia.org/wiki/3호선_버터플라이 "wikilink"), 남의집이불속 - 음악
+  - 김창규(필명 '죽지않는돌고래'), 심우찬, 함현식, 조창제, 길기웅, 주하아린, 김진 - [딴지일보](../Page/딴지일보.md "wikilink") 팀(9, 10회)
+  - [3호선 버터플라이](../Page/3호선_버터플라이.md "wikilink"), 남의집이불속 - 음악
       - 방송 여는 곡: TITICACA - 3호선 버터플라이 (시즌1)
         말해요 우리 - 3호선 버터플라이 (시즌2)
       - 방송 닫는 곡: 저녁산책 - 남의집이불속
@@ -65,35 +65,35 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>3월 14일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김어준" title="wikilink">어준의</a> 귀환!</p></td>
-<td><p>〈KFC 이슈브리핑〉 - "<a href="https://ko.wikipedia.org/wiki/구미시" title="wikilink">구미시</a>를 '<a href="https://ko.wikipedia.org/wiki/박정희" title="wikilink">박정희</a>시'로 바꾸자."<br />
+<td><p><a href="../Page/김어준.md" title="wikilink">어준의</a> 귀환!</p></td>
+<td><p>〈KFC 이슈브리핑〉 - "<a href="https://ko.wikipedia.org/wiki/구미시" title="wikilink">구미시</a>를 '<a href="../Page/박정희.md" title="wikilink">박정희</a>시'로 바꾸자."<br />
 〈이슈토크〉 - <a href="https://ko.wikipedia.org/wiki/국정원" title="wikilink">국정원</a>, <a href="https://ko.wikipedia.org/wiki/서울시_공무원_간첩증거조작_사건" title="wikilink">서울시 공무원 간첩 증거조작 사건</a> 5라운드!<br />
-〈<a href="https://ko.wikipedia.org/wiki/선대인" title="wikilink">선대인</a>의 참죠 경제〉 - 월세 과세 정책의 진실?</p></td>
-<td><p>- <a href="../Page/김보협.md" title="wikilink">김보협</a>/송채경화(<a href="https://ko.wikipedia.org/wiki/한겨레21" title="wikilink">한겨레21</a> <a href="https://ko.wikipedia.org/wiki/기자" title="wikilink">기자</a>)<br />
+〈<a href="../Page/선대인.md" title="wikilink">선대인</a>의 참죠 경제〉 - 월세 과세 정책의 진실?</p></td>
+<td><p>- <a href="../Page/김보협.md" title="wikilink">김보협</a>/송채경화(<a href="../Page/한겨레21.md" title="wikilink">한겨레21</a> <a href="https://ko.wikipedia.org/wiki/기자" title="wikilink">기자</a>)<br />
 - 선대인</p></td>
 <td><p>유우성(전 서울특별시 공무원)<br />
-김용민(<a href="https://ko.wikipedia.org/wiki/변호사" title="wikilink">변호사</a>)</p></td>
+김용민(<a href="../Page/변호사.md" title="wikilink">변호사</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
 <td><p>3월 22일</p></td>
 <td><p>국정원과 변호사의 한판 욕배틀!</p></td>
 <td><p>〈KFC 이슈토크 1〉 - 국정원과 변호사의 한판 욕 배틀! - 장경욱 변호사와 국정원 요원과의 공방 공개<br />
-〈KFC 이슈토크 2〉 - <a href="https://ko.wikipedia.org/wiki/정청래" title="wikilink">정청래</a> <a href="https://ko.wikipedia.org/wiki/국회의원" title="wikilink">국회의원</a>의 국정원 출구전략<br />
+〈KFC 이슈토크 2〉 - <a href="../Page/정청래.md" title="wikilink">정청래</a> <a href="../Page/국회의원.md" title="wikilink">국회의원</a>의 국정원 출구전략<br />
 〈선대인의 참죠 경제〉 - 거대한 사기, 집값 바닥론의 덫?</p></td>
 <td><p>장경욱(변호사)<br />
-<a href="https://ko.wikipedia.org/wiki/정청래" title="wikilink">정청래</a>(국회의원)</p></td>
+<a href="../Page/정청래.md" title="wikilink">정청래</a>(국회의원)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
 <td><p>3월 28일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/안철수" title="wikilink">안철수</a>, 어쩔!</p></td>
+<td><p><a href="../Page/안철수.md" title="wikilink">안철수</a>, 어쩔!</p></td>
 <td><p>〈KFC 이슈토크 1〉 - 번호 없는 <a href="https://ko.wikipedia.org/wiki/새정치민주연합" title="wikilink">새정치민주연합</a> 청문회?!<br />
-〈KFC 이슈토크 2〉 - <a href="https://ko.wikipedia.org/wiki/청와대" title="wikilink">청와대</a>, <a href="../Page/채동욱.md" title="wikilink">채동욱</a> <a href="https://ko.wikipedia.org/wiki/검찰총장" title="wikilink">총장</a> 찍어내기 또는 물타기<br />
+〈KFC 이슈토크 2〉 - <a href="../Page/청와대.md" title="wikilink">청와대</a>, <a href="../Page/채동욱.md" title="wikilink">채동욱</a> <a href="https://ko.wikipedia.org/wiki/검찰총장" title="wikilink">총장</a> 찍어내기 또는 물타기<br />
 </p></td>
 <td><p>- 김보협/송채경화</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김현미_(정치인)" title="wikilink">김현미</a>(국회의원)<br />
+<td><p><a href="../Page/김현미_(정치인).md" title="wikilink">김현미</a>(국회의원)<br />
 김진철(한겨레 기자)</p></td>
 </tr>
 <tr class="even">
@@ -103,14 +103,14 @@
 <td><p>〈KFC 이슈토크 1〉 - 무공천 <a href="https://ko.wikipedia.org/wiki/기초자치단체장" title="wikilink">기초단체장</a> 후보에게 들어본다<br />
 〈KFC 이슈토크 2〉 - 무공천 선거 후 새정치연합 미리보기<br />
 </p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김영배_(1967년)" title="wikilink">김영배</a>(성북구청장)<br />
+<td><p><a href="../Page/김영배_(1967년).md" title="wikilink">김영배</a>(성북구청장)<br />
 정청래(국회의원)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
 <td><p>4월 11일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/무인_항공기" title="wikilink">무인기와</a> 장난감</p></td>
+<td><p><a href="../Page/무인_항공기.md" title="wikilink">무인기와</a> 장난감</p></td>
 <td><p>〈여의도 리포트〉 - 1. 송채경화 기자 "계속되는 간첩 증거 조작 사건?" / 2. 정청래 국회의원 "7%차 기초선거 공천지지자 우위 예언!"<br />
 〈KFC 이슈토크〉 - 북한 제작 추정 무인기를 수사한다.</p></td>
 <td><p>정청래(국회의원)<br />
@@ -120,7 +120,7 @@
 <tr class="even">
 <td><p>6</p></td>
 <td><p>4월 25일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/진도군" title="wikilink">진도</a><a href="https://ko.wikipedia.org/wiki/VTS" title="wikilink">VTS</a>와 이종인</p></td>
+<td><p><a href="../Page/진도군.md" title="wikilink">진도</a><a href="https://ko.wikipedia.org/wiki/VTS" title="wikilink">VTS</a>와 이종인</p></td>
 <td><p>〈여의도 리포트〉 - 1. <a href="../Page/세월호_침몰_사고.md" title="wikilink">세월호 침몰 사고에</a> 대한 정부와 정치권 이모저모 / 2. 외국 언론이 바라본 세월호 침몰사고<br />
 〈KFC 이슈토크〉 - 1. 세월호와 진도VTS의 사라진 2시간 / 2. 거부된 희망, <a href="https://ko.wikipedia.org/wiki/다이빙벨" title="wikilink">다이빙벨</a></p></td>
 <td><p>이종인(알파잠수기술공사)</p></td>
@@ -173,7 +173,7 @@
 <td><p>세월호, 언딘의 욕망</p></td>
 <td><p>1. <a href="https://ko.wikipedia.org/wiki/대한민국_제6회_지방_선거" title="wikilink">6.4지방선거</a> 여론 동향?<br />
 2. 세월호, 언딘의 욕망?</p></td>
-<td><p>이택수(<a href="https://ko.wikipedia.org/wiki/리얼미터" title="wikilink">리얼미터</a> 대표)</p></td>
+<td><p>이택수(<a href="../Page/리얼미터.md" title="wikilink">리얼미터</a> 대표)</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -223,7 +223,7 @@
 <td><p>15</p></td>
 <td><p>7월 4일</p></td>
 <td><p>김어준, 퀴즈 내다.</p></td>
-<td><p>1. 월드컵 이모저모? <a href="https://ko.wikipedia.org/wiki/홍명보" title="wikilink">홍명보</a> 감독?<br />
+<td><p>1. 월드컵 이모저모? <a href="../Page/홍명보.md" title="wikilink">홍명보</a> 감독?<br />
 2. 새누리 비리 정당대회?<br />
 3. 세월호, 계속되는 통화삭제!<br />
 4. 한국 개표기? vs 일본 개표기!</p></td>
@@ -259,10 +259,10 @@
 <td><p>1. 이슈브리핑: 엄마부대 해부?<br />
 2. 유병언 타살?<br />
 3. 새누리당, 세월호 특별법 왜 반대하는가?<br />
-4. <a href="https://ko.wikipedia.org/wiki/뉴스타파" title="wikilink">뉴스타파</a>, <a href="https://ko.wikipedia.org/wiki/권은희" title="wikilink">권은희</a> 후보 오보?!<br />
-5. <a href="https://ko.wikipedia.org/wiki/가자_지구" title="wikilink">가자지구의</a> '아이언돔'의 진실 퀴즈?</p></td>
+4. <a href="../Page/뉴스타파.md" title="wikilink">뉴스타파</a>, <a href="https://ko.wikipedia.org/wiki/권은희" title="wikilink">권은희</a> 후보 오보?!<br />
+5. <a href="../Page/가자_지구.md" title="wikilink">가자지구의</a> '아이언돔'의 진실 퀴즈?</p></td>
 <td><p>- 송채경화</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/표창원" title="wikilink">표창원</a>(범죄과학수사연구소 소장) (전화통화)<br />
+<td><p><a href="../Page/표창원.md" title="wikilink">표창원</a>(범죄과학수사연구소 소장) (전화통화)<br />
 김경률(회계사) (전화통화)<br />
 정청래(국회의원)</p></td>
 </tr>
@@ -332,7 +332,7 @@
 <td><p>세월호, 다시 한 번 고의침몰</p></td>
 <td><p>1. 이슈브리핑<br />
 - 박근혜 대통령 국무회의 발언?<br />
-- 배우 <a href="https://ko.wikipedia.org/wiki/김부선" title="wikilink">김부선</a>은 '시민'이다!<br />
+- 배우 <a href="../Page/김부선.md" title="wikilink">김부선</a>은 '시민'이다!<br />
 - 유민아빠 비하 문자메시지 받은 택시기사?<br />
 2. 이슈토크<br />
 - 24일 단식 후 정청래 의원의 눈물과 박영선 의원!<br />
@@ -344,7 +344,7 @@
 <tr class="even">
 <td><p>23</p></td>
 <td><p>9월 26일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/진도군" title="wikilink">Telegram</a> 그리고 "고의 지그재그 3"</p></td>
+<td><p><a href="../Page/진도군.md" title="wikilink">Telegram</a> 그리고 "고의 지그재그 3"</p></td>
 <td><p>1. 이슈브리핑<br />
 - 대학축제 의상의 자기검열 현상을 보며?<br />
 - 검찰 '사이버 허위사실 유포 전담 수사팀'의 의미?<br />
@@ -414,10 +414,10 @@
 <tr class="odd">
 <td><p>28</p></td>
 <td><p>10월 31일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/전시_작전통제권" title="wikilink">전작권과</a> 미친김감독</p></td>
+<td><p><a href="../Page/전시_작전통제권.md" title="wikilink">전작권과</a> 미친김감독</p></td>
 <td><p>1. 이슈브리핑<br />
 - <a href="https://ko.wikipedia.org/wiki/탈북_화교_공무원_간첩_사건" title="wikilink">서울시공무원 간첩조작사건</a> 솜방망이?<br />
-- <a href="https://ko.wikipedia.org/wiki/신해철" title="wikilink">신해철</a> '날아라 병아리'<br />
+- <a href="../Page/신해철.md" title="wikilink">신해철</a> '날아라 병아리'<br />
 2. 이슈토크<br />
 - 전작권의 ABC... 공짜 외교는 없다.<br />
 - 지그재그 의심지역 3곳 모두 누락구간이다.<br />
@@ -452,7 +452,7 @@
 2. 이슈토크 :<br />
 - 성호아빠, 최경덕씨<br />
 - 정부 발표한 세월호 레이더 항적자료! "AIS 조작이었다. 세월호는 지그재그, 급회전, 끝까지 타를 돌리고..."</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/전현희" title="wikilink">전현희</a> (변호사)<br />
+<td><p><a href="../Page/전현희.md" title="wikilink">전현희</a> (변호사)<br />
 정청래 (국회의원)</p></td>
 <td></td>
 </tr>
@@ -461,10 +461,10 @@
 <td><p>11월 21일</p></td>
 <td><p>영국의사와 레이더조작</p></td>
 <td><p>1. 이슈브리핑 :<br />
-- <a href="https://ko.wikipedia.org/wiki/4대강_정비_사업" title="wikilink">4대강</a> 보수로 혈세 낭비!<br />
+- <a href="../Page/4대강_정비_사업.md" title="wikilink">4대강</a> 보수로 혈세 낭비!<br />
 - 서울시 공무원 간첩조작사건의 가짜 증원 고백?<br />
 - 영국 의사와 한국 의사?<br />
-- <a href="https://ko.wikipedia.org/wiki/북한_인권법" title="wikilink">북한 인권법</a> 채택과 한반도?<br />
+- <a href="../Page/북한_인권법.md" title="wikilink">북한 인권법</a> 채택과 한반도?<br />
 1. 이슈토크 :<br />
 - 수빈엄마 "도와주세요"<br />
 - 세월호 레이더 항적자료의 조작!</p></td>
@@ -478,10 +478,10 @@
 
 ## 결방 및 편성 변경
 
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [4월 30일](https://ko.wikipedia.org/wiki/4월_30일 "wikilink") : 세월호 사고 관련 번외편이 방영되었고 이에 따라 5월 2일 정규방송은 휴방하였다.
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [8월 8일](https://ko.wikipedia.org/wiki/8월_8일 "wikilink") : 진행자 김어준 총수가 두바이 취재차 출국하여 결방되었다.\[6\]
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [8월 15일](https://ko.wikipedia.org/wiki/8월_15일 "wikilink") : 20회를 정규편성하는 대신 40분 내외의 간략한 번외편을 방영하였다.
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [9월 12일](https://ko.wikipedia.org/wiki/9월_12일 "wikilink") : 어떠한 설명도 없이 결방되었다.
+  - [2014년](../Page/2014년.md "wikilink") [4월 30일](../Page/4월_30일.md "wikilink") : 세월호 사고 관련 번외편이 방영되었고 이에 따라 5월 2일 정규방송은 휴방하였다.
+  - [2014년](../Page/2014년.md "wikilink") [8월 8일](../Page/8월_8일.md "wikilink") : 진행자 김어준 총수가 두바이 취재차 출국하여 결방되었다.\[6\]
+  - [2014년](../Page/2014년.md "wikilink") [8월 15일](../Page/8월_15일.md "wikilink") : 20회를 정규편성하는 대신 40분 내외의 간략한 번외편을 방영하였다.
+  - [2014년](../Page/2014년.md "wikilink") [9월 12일](../Page/9월_12일.md "wikilink") : 어떠한 설명도 없이 결방되었다.
 
 ## 각주
 

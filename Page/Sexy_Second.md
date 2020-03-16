@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Sexy Second](https://ko.wikipedia.org/wiki/Sexy_Second).
 
 
-《**Sexy Second**》(섹시 세컨드)는, [Sexy Zone의](https://ko.wikipedia.org/wiki/Sexy_Zone "wikilink") 2번째 [정규 음반이다](https://ko.wikipedia.org/wiki/정규_음반 "wikilink").
+《**Sexy Second**》(섹시 세컨드)는, [Sexy Zone의](https://ko.wikipedia.org/wiki/Sexy_Zone "wikilink") 2번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
 
 ## 개요
 
@@ -26,7 +26,7 @@
 5.  **[BAD BOYS](https://ko.wikipedia.org/wiki/Real_Sexy!/BAD_BOYS "wikilink")** \[4:25\]
       -
         (작사: ENA☆ / 작곡: DAICHI, Kinboom / 편곡: 이쿠타 마신)
-          - 4th 싱글. [닛폰 TV](https://ko.wikipedia.org/wiki/닛폰_TV_방송망 "wikilink") 계열 드라마 《[BAD BOYS J](https://ko.wikipedia.org/wiki/BADBOYS#텔레비전_드라마 "wikilink")》 주제가.
+          - 4th 싱글. [닛폰 TV](../Page/닛폰_TV_방송망.md "wikilink") 계열 드라마 《[BAD BOYS J](https://ko.wikipedia.org/wiki/BADBOYS#텔레비전_드라마 "wikilink")》 주제가.
 6.  **Ghost〜君は幻〜** / <small>**Ghost\~넌 환상\~**</small> \[4:22\]
       -
         (작사: 코바야시 코메이 / 작곡: Tommy Clint / 편곡: Tommy Clint)
@@ -36,7 +36,7 @@
 8.  **[バィバィDuバィ〜See you again〜](https://ko.wikipedia.org/wiki/바이바이Du바이~See_you_again~/A_MY_GIRL_FRIEND "wikilink")** / <small>**바이바이Du바이\~See you again\~**</small> \[4:10\]
       -
         (작사: 코바야시 코메이 / 작곡: 니혼진, bansei. / 편곡: 스즈키 “Daichi” 히데유키)
-          - 5th 싱글. [후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 계열 《초잠입\! 리얼 스코프 하이퍼》 테마 송.
+          - 5th 싱글. [후지 TV](../Page/후지_TV.md "wikilink") 계열 《초잠입\! 리얼 스코프 하이퍼》 테마 송.
 9.  **Shout\!\!** \[4:24\]
       -
         (작사: 마츠이 고로 / 작곡: 마카이노 코지 / 편곡: 이쿠타 마신)
@@ -56,7 +56,7 @@
         (작사·작곡: 2ndlifecrew / 편곡: 타테야마 아키유키)
 14. **[A MY GIRL FRIEND](https://ko.wikipedia.org/wiki/바이바이Du바이~See_you_again~/A_MY_GIRL_FRIEND "wikilink")** \[4:41\]
       -
-        (작사: [노지마 신지](https://ko.wikipedia.org/wiki/노지마_신지 "wikilink") / 작곡: 타니구치 나오히사 / 편곡: 이쿠타 마신)
+        (작사: [노지마 신지](../Page/노지마_신지.md "wikilink") / 작곡: 타니구치 나오히사 / 편곡: 이쿠타 마신)
           - 5th 싱글. 닛폰 TV 계열 드라마 《[49](../Page/49_\(드라마\).md "wikilink")》 주제가.
 15. **私のオキテ** / <small>**나의 규칙**</small> \[3:40\] - 치킨바스켓츠 ※초회한정반 A·B만 수록된 보너스 트랙
       -

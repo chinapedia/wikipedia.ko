@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JIN](https://ko.wikipedia.org/wiki/JIN).
 
 
-**JIN**(, 朴明恩\[1\], [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") [6월 12일](https://ko.wikipedia.org/wiki/6월_12일 "wikilink") \~ )은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 가수이다. 걸 그룹 [러블리즈](../Page/러블리즈.md "wikilink")의 메인보컬을 맡고 있다. 2013년 11월 8일 디지털 싱글 〈너만 없다〉으로 데뷔하였다.\[2\]
+**JIN**(, 朴明恩\[1\], [1996년](../Page/1996년.md "wikilink") [6월 12일](../Page/6월_12일.md "wikilink") \~ )은 [대한민국](../Page/대한민국.md "wikilink")의 가수이다. 걸 그룹 [러블리즈](../Page/러블리즈.md "wikilink")의 메인보컬을 맡고 있다. 2013년 11월 8일 디지털 싱글 〈너만 없다〉으로 데뷔하였다.\[2\]
 
 ## 학력
 
@@ -25,7 +25,7 @@
 <td style="text-align: left;"><p><strong>1</strong></p></td>
 <td style="text-align: left;"><p>《<strong>너만 없다</strong>》</p>
 <ul>
-<li>발매일: <a href="https://ko.wikipedia.org/wiki/2013년" title="wikilink">2013년</a> <a href="https://ko.wikipedia.org/wiki/11월_8일" title="wikilink">11월 8일</a></li>
+<li>발매일: <a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/11월_8일.md" title="wikilink">11월 8일</a></li>
 </ul></td>
 <td style="text-align: left;"><p><small></p>
 <ol>
@@ -39,7 +39,7 @@
 
 ### 방송
 
-  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink") [미스터리 음악쇼 복면가왕](../Page/미스터리_음악쇼_복면가왕.md "wikilink") - 님아 그 테이프를 늘이지 마오.. 카세트소녀. <참가자>
+  - [2018년](../Page/2018년.md "wikilink") [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink") [미스터리 음악쇼 복면가왕](../Page/미스터리_음악쇼_복면가왕.md "wikilink") - 님아 그 테이프를 늘이지 마오.. 카세트소녀. <참가자>
 
 ## 각주
 

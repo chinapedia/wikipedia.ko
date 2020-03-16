@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Over The Rainbow \( \)](https://ko.wikipedia.org/wiki/Over_The_Rainbow_\(_\)).
 
 
-《**Over the Rainbow**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [걸 그룹](https://ko.wikipedia.org/wiki/걸_그룹 "wikilink") [레인보우가](https://ko.wikipedia.org/wiki/레인보우_\(음악_그룹\) "wikilink") 일본에서 발표한 정규 음반이다. 이후 2012년 12월12일 리패키지 음반인《*Over the Rainbow Special Edition*》을 추가 발매하였다.
+《**Over the Rainbow**》는 [대한민국](../Page/대한민국.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") [레인보우가](https://ko.wikipedia.org/wiki/레인보우_\(음악_그룹\) "wikilink") 일본에서 발표한 정규 음반이다. 이후 2012년 12월12일 리패키지 음반인《*Over the Rainbow Special Edition*》을 추가 발매하였다.
 
 초회한정판과 일반판으로 나누어 발매하였다. 초회한정판은 수록곡 10트랙 1CD와 시부야 공회당 라이브와 백스테이지 영상,〈マッハ〉의 클로즈업 버전 뮤직비디오가 담긴 DVD를 추가 수록하였다.
 
@@ -45,7 +45,7 @@
 
 ### B버전
 
-[한국방송공사](https://ko.wikipedia.org/wiki/한국방송공사 "wikilink")의 《[뮤직뱅크](https://ko.wikipedia.org/wiki/뮤직뱅크 "wikilink")》라이브 영상이 담긴 DVD를 추가 수록하였다.
+[한국방송공사](../Page/한국방송공사.md "wikilink")의 《[뮤직뱅크](../Page/뮤직뱅크.md "wikilink")》라이브 영상이 담긴 DVD를 추가 수록하였다.
 
 #### DVD: *KBS Music Bank Performance Edition*
 
@@ -58,7 +58,7 @@
 
 ### C버전
 
-한국어 수록곡 8트랙과 보너스 트랙으로 [TV 도쿄의](https://ko.wikipedia.org/wiki/TV_도쿄 "wikilink") 애니메이션 Zoobles\!의 오프닝 곡인 〈CANDY GIRLS\!〉가 수록된 음반이 추가되었다.
+한국어 수록곡 8트랙과 보너스 트랙으로 [TV 도쿄의](../Page/TV_도쿄.md "wikilink") 애니메이션 Zoobles\!의 오프닝 곡인 〈CANDY GIRLS\!〉가 수록된 음반이 추가되었다.
 
 #### Korean Best Album Edition
 

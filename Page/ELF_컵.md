@@ -13,21 +13,21 @@
 
 ### 참가국
 
-**** - [크림 자치 공화국의](https://ko.wikipedia.org/wiki/크림_자치_공화국 "wikilink") 대표.
+**** - [크림 자치 공화국의](../Page/크림_자치_공화국.md "wikilink") 대표.
 
-**** - [몰도바](https://ko.wikipedia.org/wiki/몰도바 "wikilink")의 대표.
+**** - [몰도바](../Page/몰도바.md "wikilink")의 대표.
 
-**** - [그린란드](https://ko.wikipedia.org/wiki/그린란드 "wikilink")의 대표
+**** - [그린란드](../Page/그린란드.md "wikilink")의 대표
 
-**** - [키르기스스탄](https://ko.wikipedia.org/wiki/키르기스스탄 "wikilink")의 대표.
+**** - [키르기스스탄](../Page/키르기스스탄.md "wikilink")의 대표.
 
-**** - [타지키스탄](https://ko.wikipedia.org/wiki/타지키스탄 "wikilink")의 대표.
+**** - [타지키스탄](../Page/타지키스탄.md "wikilink")의 대표.
 
-**** - [티베트](https://ko.wikipedia.org/wiki/티베트 "wikilink")의 대표.
+**** - [티베트](../Page/티베트.md "wikilink")의 대표.
 
-**** - [북키프로스](https://ko.wikipedia.org/wiki/북키프로스 "wikilink")의 대표.
+**** - [북키프로스](../Page/북키프로스.md "wikilink")의 대표.
 
-**** - [잔지바르](https://ko.wikipedia.org/wiki/잔지바르 "wikilink")의 대표
+**** - [잔지바르](../Page/잔지바르.md "wikilink")의 대표
 
 #### Group A
 
@@ -211,7 +211,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_the_Turkish_Republic_of_Northern_Cyprus.svg" title="wikilink">100px</a><br />
-<strong><a href="https://ko.wikipedia.org/wiki/북키프로스_축구_국가대표팀" title="wikilink">북키프로스</a></strong><br />
+<strong><a href="../Page/북키프로스_축구_국가대표팀.md" title="wikilink">북키프로스</a></strong><br />
 <strong>First Title</strong></p></td>
 </tr>
 </tbody>
@@ -363,8 +363,8 @@
 
 ## 같이 보기
 
-  - [NF-보드](https://ko.wikipedia.org/wiki/NF-보드 "wikilink")
-  - [VIVA 월드컵](https://ko.wikipedia.org/wiki/VIVA_월드컵 "wikilink")
+  - [NF-보드](../Page/NF-보드.md "wikilink")
+  - [VIVA 월드컵](../Page/VIVA_월드컵.md "wikilink")
   - [FIFI 와일드컵](https://ko.wikipedia.org/wiki/FIFI_와일드컵 "wikilink")
 
 ## 각주

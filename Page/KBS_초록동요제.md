@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KBS ](https://ko.wikipedia.org/wiki/KBS_).
 
 
-**YMCA 초록동요제**는 [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink")에 시작되어 [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink")에 폐지한 [동요](https://ko.wikipedia.org/wiki/동요 "wikilink")대회이다.
+**YMCA 초록동요제**는 [1984년](../Page/1984년.md "wikilink")에 시작되어 [2016년](../Page/2016년.md "wikilink")에 폐지한 [동요](../Page/동요.md "wikilink")대회이다.
 
 1984년부터 1993년까지는 ‘가족동요 창작 경연 대회’였고, 1995년부터 초록동요제가 시작되었다.\[1\]\[2\] 녹화는 4월 하순에 진행되었고, 방송은 어린이날에 맞춰 [KBS 1TV에서](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방송되었다.
 
@@ -120,7 +120,7 @@
 
   - 1991년 (제 8 회): 총 응모작 1,404편
 
-서울기독교청년회(서울YMCA), [삼성그룹](https://ko.wikipedia.org/wiki/삼성그룹 "wikilink"), KBS가 공동으로 개최하였다. 총 1천 4백여 곡 응모\[8\]
+서울기독교청년회(서울YMCA), [삼성그룹](../Page/삼성그룹.md "wikilink"), KBS가 공동으로 개최하였다. 총 1천 4백여 곡 응모\[8\]
 
   -   - 대상 - 온가족 합동 작사 김민정 작곡, <엉터리 노래 가족>
       - 금상 - 채열원 작사 작곡, 〈무지개〉
@@ -147,7 +147,7 @@
 
   - 1992년 (제 9 회): 총 응모작 961편
 
-서울기독교청년회(서울YMCA), [삼성그룹](https://ko.wikipedia.org/wiki/삼성그룹 "wikilink")과 KBS가 공동으로 개최하였다.
+서울기독교청년회(서울YMCA), [삼성그룹](../Page/삼성그룹.md "wikilink")과 KBS가 공동으로 개최하였다.
 
   -   - 대상 - 류한얼 작사 정금자 작곡, <자전거 가족>
       - 금상 - 전미현 작사 전재홍 작곡, <봄님과 눈꽃>
@@ -172,12 +172,12 @@
 
 ## 가족동요제
 
-KBS와 [삼성그룹](https://ko.wikipedia.org/wiki/삼성그룹 "wikilink")이 공동으로 개최하였다. 제목에 '창작'이 빠졌을 뿐, 기존 대회와 똑같다.
+KBS와 [삼성그룹](../Page/삼성그룹.md "wikilink")이 공동으로 개최하였다. 제목에 '창작'이 빠졌을 뿐, 기존 대회와 똑같다.
 
   - 1993년 (93 KBS 가족동요제): 창작650여 곡 응모.\[9\]\[10\]
       - 대상 - 노아람 가족, 〈사랑을 만들어요〉
 
-가족동요제는 한 번 만 제작하였고, KBS가 1993년에 예산 문제로 [KBS 대학가요축제](../Page/KBS_대학가요축제.md "wikilink") 및 [노래는 내친구를](https://ko.wikipedia.org/wiki/누가누가_잘하나 "wikilink") 폐지한 뒤 [KBS 창작동요대회와](../Page/KBS_창작동요대회.md "wikilink") 마찬가지로 더 이상 제작되지 않았다.
+가족동요제는 한 번 만 제작하였고, KBS가 1993년에 예산 문제로 [KBS 대학가요축제](../Page/KBS_대학가요축제.md "wikilink") 및 [노래는 내친구를](../Page/누가누가_잘하나.md "wikilink") 폐지한 뒤 [KBS 창작동요대회와](../Page/KBS_창작동요대회.md "wikilink") 마찬가지로 더 이상 제작되지 않았다.
 
 ## YMCA 초록 동요제
 
@@ -404,9 +404,9 @@ KBS와 [삼성그룹](https://ko.wikipedia.org/wiki/삼성그룹 "wikilink")이 
 ## 함께 보기
 
   - [KBS 대학가요축제](../Page/KBS_대학가요축제.md "wikilink")
-  - [누가누가 잘하나](https://ko.wikipedia.org/wiki/누가누가_잘하나 "wikilink")
+  - [누가누가 잘하나](../Page/누가누가_잘하나.md "wikilink")
   - [KBS 창작동요대회](../Page/KBS_창작동요대회.md "wikilink")
-  - [MBC 창작동요제](https://ko.wikipedia.org/wiki/MBC_창작동요제 "wikilink")
+  - [MBC 창작동요제](../Page/MBC_창작동요제.md "wikilink")
   - [EBS 고운노래발표회](https://ko.wikipedia.org/wiki/EBS_고운노래발표회 "wikilink")
   - [서덕출 창작동요제](../Page/서덕출_창작동요제.md "wikilink")
   - [고향의 봄 창작동요제](../Page/고향의_봄_창작동요제.md "wikilink")

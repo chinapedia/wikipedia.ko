@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Lady \(\)](https://ko.wikipedia.org/wiki/Lady_\(\)).
 
 
-"**Lady**"는 그룹 [씨엔블루](https://ko.wikipedia.org/wiki/씨엔블루 "wikilink")(CNBLUE)의 6번째 메이저 싱글앨범으로, [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [7월 31일](https://ko.wikipedia.org/wiki/7월_31일 "wikilink") [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서 발매되었다.
+"**Lady**"는 그룹 [씨엔블루](../Page/씨엔블루.md "wikilink")(CNBLUE)의 6번째 메이저 싱글앨범으로, [2013년](../Page/2013년.md "wikilink") [7월 31일](../Page/7월_31일.md "wikilink") [일본](../Page/일본.md "wikilink")에서 발매되었다.
 
 ## 수록곡
 

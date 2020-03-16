@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [S ](https://ko.wikipedia.org/wiki/S_).
 
 
-**S 노벨**은 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 창립된 [소미미디어](https://ko.wikipedia.org/wiki/소미미디어 "wikilink")의 [라이트 노벨](https://ko.wikipedia.org/wiki/라이트_노벨 "wikilink") 레이블이다. 발매일은 1일과 15일이다. 창간작으로는 [던전에서 만남을 추구하면 안 되는 걸까](../Page/던전에서_만남을_추구하면_안_되는_걸까.md "wikilink"), [백은의 구세기](https://ko.wikipedia.org/wiki/백은의_구세기 "wikilink"), [시스터 서큐버스는 참회하지 않아이며](https://ko.wikipedia.org/wiki/시스터_서큐버스는_참회하지_않아 "wikilink") 창간작 세트로도 판매가 되었다.
+**S 노벨**은 [2012년](../Page/2012년.md "wikilink") 창립된 [소미미디어](https://ko.wikipedia.org/wiki/소미미디어 "wikilink")의 [라이트 노벨](../Page/라이트_노벨.md "wikilink") 레이블이다. 발매일은 1일과 15일이다. 창간작으로는 [던전에서 만남을 추구하면 안 되는 걸까](../Page/던전에서_만남을_추구하면_안_되는_걸까.md "wikilink"), [백은의 구세기](https://ko.wikipedia.org/wiki/백은의_구세기 "wikilink"), [시스터 서큐버스는 참회하지 않아이며](https://ko.wikipedia.org/wiki/시스터_서큐버스는_참회하지_않아 "wikilink") 창간작 세트로도 판매가 되었다.
 
 ## 작품 목록
 
@@ -41,7 +41,7 @@
   - [배리어블 액셀](https://ko.wikipedia.org/wiki/배리어블_액셀 "wikilink") / 나나죠 츠요시 / 1권
   - [검은 영웅의 일격무쌍](https://ko.wikipedia.org/wiki/검은_영웅의_일격무쌍 "wikilink") / 노조미 코타 / 5권
   - [친구부터 부탁합니다](https://ko.wikipedia.org/wiki/친구부터_부탁합니다 "wikilink") / 시미즈 마리코 / 1권
-  - [경계선상의 호라이즌](https://ko.wikipedia.org/wiki/경계선상의_호라이즌 "wikilink") / 카와카미 미노루
+  - [경계선상의 호라이즌](../Page/경계선상의_호라이즌.md "wikilink") / 카와카미 미노루
       - 1권 상·하
       - 2권 상·하
       - 3권 상·중·하
@@ -87,7 +87,7 @@
   - [모노노케 미스터리](https://ko.wikipedia.org/wiki/모노노케_미스터리 "wikilink") / 테니오하 / 1권
   - [굿 이터](https://ko.wikipedia.org/wiki/굿_이터 "wikilink") / 아리키 신 / 2권
   - [나는 이세계에서 부여마법과 소환마법을 저울질한다](https://ko.wikipedia.org/wiki/나는_이세계에서_부여마법과_소환마법을_저울질한다 "wikilink") / 요코츠카 츠카사 / 4권
-  - [어서오세요 실력지상주의 교실에](https://ko.wikipedia.org/wiki/어서오세요_실력지상주의_교실에 "wikilink") / 키누가샤 쇼고 / 8권, 4.5권, 7.5권
+  - [어서오세요 실력지상주의 교실에](../Page/어서오세요_실력지상주의_교실에.md "wikilink") / 키누가샤 쇼고 / 8권, 4.5권, 7.5권
   - [돌 마스터](https://ko.wikipedia.org/wiki/돌_마스터 "wikilink") / 사토 츠토무 / 1권
   - [몬스터의 주인님](https://ko.wikipedia.org/wiki/몬스터의_주인님 "wikilink") / 히구레 민토 / 4권
   - [여기는 토벌 퀘스트 알선 창구](https://ko.wikipedia.org/wiki/여기는_토벌_퀘스트_알선_창구 "wikilink") / 미사키 키타루 / 2권
@@ -139,7 +139,7 @@
   - [기계 장치의 블러드하운드](https://ko.wikipedia.org/wiki/기계_장치의_블러드하운드 "wikilink") / 츠이헤이지 리우
   - [생보형님](https://ko.wikipedia.org/wiki/생보형님 "wikilink") / 아사우라
   - [한 바다의 팔라스 아테나](https://ko.wikipedia.org/wiki/한_바다의_팔라스_아테나 "wikilink") / 하토미 스타 / 2권++
-  - [미래일기](https://ko.wikipedia.org/wiki/미래일기 "wikilink") / 타츠카와 미츠히코
+  - [미래일기](../Page/미래일기.md "wikilink") / 타츠카와 미츠히코
   - [용사와 마왕의 배틀은 거실에서](https://ko.wikipedia.org/wiki/용사와_마왕의_배틀은_거실에서 "wikilink") / 히즈키 나기 / 3권
   - [개와 마법의 판타지](https://ko.wikipedia.org/wiki/개와_마법의_판타지 "wikilink") / 다나카 로미오
   - [G랭크 남고생과 더티 페스타](https://ko.wikipedia.org/wiki/G랭크_남고생과_더티_페스타 "wikilink") / 히데아키

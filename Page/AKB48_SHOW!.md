@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [AKB48 SHOW!](https://ko.wikipedia.org/wiki/AKB48_SHOW!).
 
 
-**AKB48 SHOW\!**(에이케이비 포티에이트 쇼\!)는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [NHK BS 프리미엄에서](https://ko.wikipedia.org/wiki/NHK_BS_프리미엄 "wikilink") [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [10월 5일부터](https://ko.wikipedia.org/wiki/10월_5일 "wikilink") 방송되는 버라이어티 프로그램이다.
+**AKB48 SHOW\!**(에이케이비 포티에이트 쇼\!)는 [일본](../Page/일본.md "wikilink")의 [NHK BS 프리미엄에서](../Page/NHK_BS_프리미엄.md "wikilink") [2013년](../Page/2013년.md "wikilink") [10월 5일부터](../Page/10월_5일.md "wikilink") 방송되는 버라이어티 프로그램이다.
 
 ## 개요
 
@@ -9,25 +9,25 @@
   - 스튜디오 라이브에서는 AKB48의 대표 곡을 비롯해 각 자매 그룹 각 파생 유닛의 음악을 드물게 피로하지 않고, 각 싱글의 커플링과 극장 공연 곡 등도 풀 사이즈로 선 보인다.
   - 프로그램 공식 사이트의 "재빨리 MOVIE & 인터뷰"에서는 홈페이지 한정의 인터뷰 동영상이나 다음 방송 예정인 영상의 일부가 조금만 보여지는 동영상이 전송되어 있다.
   - 일본 국내의 48그룹 전 멤버가 정규 선수로 되어 출연하는 NHK의 프로그램은 이것이 최초라고 된다.
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [3월 1일부터](https://ko.wikipedia.org/wiki/3월_1일 "wikilink") 격주 방식으로 AKB48의 공식 라이벌인 [노기자카46](https://ko.wikipedia.org/wiki/노기자카46 "wikilink")에 의한 특별편 「노기자카46 SHOW\!」가 방영됐다.
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [10월 4일부터](https://ko.wikipedia.org/wiki/10월_4일 "wikilink") [NHK](https://ko.wikipedia.org/wiki/NHK "wikilink")의 국제 방송인 [NHK 월드 프리미엄에서도](https://ko.wikipedia.org/wiki/NHK_월드 "wikilink") 방송을 시작하였다.
+  - [2014년](../Page/2014년.md "wikilink") [3월 1일부터](../Page/3월_1일.md "wikilink") 격주 방식으로 AKB48의 공식 라이벌인 [노기자카46](../Page/노기자카46.md "wikilink")에 의한 특별편 「노기자카46 SHOW\!」가 방영됐다.
+  - [2015년](../Page/2015년.md "wikilink") [10월 4일부터](../Page/10월_4일.md "wikilink") [NHK](https://ko.wikipedia.org/wiki/NHK "wikilink")의 국제 방송인 [NHK 월드 프리미엄에서도](../Page/NHK_월드.md "wikilink") 방송을 시작하였다.
 
 ## 출연자
 
-  - [AKB48](https://ko.wikipedia.org/wiki/AKB48 "wikilink")
-  - [SKE48](https://ko.wikipedia.org/wiki/SKE48 "wikilink")
-  - [NMB48](https://ko.wikipedia.org/wiki/NMB48 "wikilink")
-  - [HKT48](https://ko.wikipedia.org/wiki/HKT48 "wikilink")
+  - [AKB48](../Page/AKB48.md "wikilink")
+  - [SKE48](../Page/SKE48.md "wikilink")
+  - [NMB48](../Page/NMB48.md "wikilink")
+  - [HKT48](../Page/HKT48.md "wikilink")
   - [NGT48](https://ko.wikipedia.org/wiki/NGT48 "wikilink")
-  - [STU48](https://ko.wikipedia.org/wiki/STU48 "wikilink")
-  - [JKT48](https://ko.wikipedia.org/wiki/JKT48 "wikilink")
+  - [STU48](../Page/STU48.md "wikilink")
+  - [JKT48](../Page/JKT48.md "wikilink")
   - [BNK48](../Page/BNK48.md "wikilink")
-  - [AKB48 Team TP](https://ko.wikipedia.org/wiki/AKB48_Team_TP "wikilink")
+  - [AKB48 Team TP](../Page/AKB48_Team_TP.md "wikilink")
   - [MNL48](../Page/MNL48.md "wikilink")
-  - [노기자카46](https://ko.wikipedia.org/wiki/노기자카46 "wikilink") (격주식으로 방영되는 별책「노기자카46 SHOW\!」,「46 SHOW\!」)
+  - [노기자카46](../Page/노기자카46.md "wikilink") (격주식으로 방영되는 별책「노기자카46 SHOW\!」,「46 SHOW\!」)
   - [케야키자카46](https://ko.wikipedia.org/wiki/케야키자카46 "wikilink") (격주식으로 방영되는 별책「케야키자카46 SHOW\!」,「46 SHOW\!」)
   - [히라가나 케야키자카46→히나타자카46](https://ko.wikipedia.org/wiki/히나타자카46 "wikilink") (격주식으로 방영되는 별책「케야키자카46 SHOW\!」,「히라가나 케야키자카46 SHOW\!」)
-  - [=LOVE](https://ko.wikipedia.org/wiki/=LOVE "wikilink") (\#163「사시하라 SHOW\!」)
+  - [=LOVE](../Page/=LOVE.md "wikilink") (\#163「사시하라 SHOW\!」)
 
 ## 주요 코너
 

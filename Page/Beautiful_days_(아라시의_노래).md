@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Beautiful days \( \)](https://ko.wikipedia.org/wiki/Beautiful_days_\(_\)).
 
 
-〈**Beautiful days**〉는, [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 남성 아이돌 그룹 [아라시](https://ko.wikipedia.org/wiki/아라시 "wikilink")의 24번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink").
+〈**Beautiful days**〉는, [일본](../Page/일본.md "wikilink")의 남성 아이돌 그룹 [아라시](../Page/아라시.md "wikilink")의 24번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 
 전작 〈[truth/바람의 저편으로](https://ko.wikipedia.org/wiki/truth/바람의_저편으로 "wikilink")〉로부터 약 3개월 만의 싱글이다. 통상반·초회 한정반의 2형태로 발매되었다.
 
-타이틀곡 〈Beautiful days〉는 멤버 [니노미야 카즈나리](https://ko.wikipedia.org/wiki/니노미야_카즈나리 "wikilink") 주연의 [TBS](https://ko.wikipedia.org/wiki/도쿄_방송_홀딩스 "wikilink") 드라마 《[유성의 인연](https://ko.wikipedia.org/wiki/유성의_인연#텔레비전_드라마 "wikilink")》의 주제가이다.
+타이틀곡 〈Beautiful days〉는 멤버 [니노미야 카즈나리](../Page/니노미야_카즈나리.md "wikilink") 주연의 [TBS](../Page/도쿄_방송_홀딩스.md "wikilink") 드라마 《[유성의 인연](https://ko.wikipedia.org/wiki/유성의_인연#텔레비전_드라마 "wikilink")》의 주제가이다.
 
 ## 수록곡
 
@@ -21,12 +21,12 @@
       -
         작사·작곡: Takuya Harada / 편곡: ha-j
     <!-- end list -->
-      - [TBS](https://ko.wikipedia.org/wiki/도쿄_방송_홀딩스 "wikilink") 드라마 《[유성의 인연](https://ko.wikipedia.org/wiki/유성의_인연#텔레비전_드라마 "wikilink")》 주제가
+      - [TBS](../Page/도쿄_방송_홀딩스.md "wikilink") 드라마 《[유성의 인연](https://ko.wikipedia.org/wiki/유성의_인연#텔레비전_드라마 "wikilink")》 주제가
 2.  **僕が僕のすべて** / <small>**내가 나의 전부**</small>
       -
         작사: 100+ / 작곡·편곡: 카토 유스케
     <!-- end list -->
-      - [KDDI](https://ko.wikipedia.org/wiki/KDDI "wikilink")/[오키나와 셀룰러 전화](https://ko.wikipedia.org/wiki/오키나와_셀룰러_전화 "wikilink") ([au by KDDI](https://ko.wikipedia.org/wiki/au_\(휴대전화\) "wikilink")) 《au BOX》 CM 송
+      - [KDDI](../Page/KDDI.md "wikilink")/[오키나와 셀룰러 전화](https://ko.wikipedia.org/wiki/오키나와_셀룰러_전화 "wikilink") ([au by KDDI](https://ko.wikipedia.org/wiki/au_\(휴대전화\) "wikilink")) 《au BOX》 CM 송
 3.  **忘れられない** / <small>**잊을 수 없어**</small>
       -
         작사: Arika / 작곡: HIKARI / 편곡: [사사키 히로후미](https://ko.wikipedia.org/wiki/사사키_히로후미 "wikilink")

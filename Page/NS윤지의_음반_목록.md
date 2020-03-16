@@ -180,7 +180,7 @@
 <li>발매일 : 2012년 11월 1일</li>
 </ul></td>
 <td style="text-align: left;"><ol>
-<li><strong>If You Love Me (Feat. <a href="https://ko.wikipedia.org/wiki/박재범" title="wikilink">박재범</a>)</strong></li>
+<li><strong>If You Love Me (Feat. <a href="../Page/박재범.md" title="wikilink">박재범</a>)</strong></li>
 <li>If You Love Me (Inst.)</li>
 </ol></td>
 </tr>

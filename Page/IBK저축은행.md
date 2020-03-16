@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [IBK](https://ko.wikipedia.org/wiki/IBK).
 
 
-**IBK저축은행**은 2011년 발생한 저축은행들의 부실화로 경은저축은행, 부산저축은행, 토마토2저축은행, 영남저축은행 등을 합병한 예솔저축은행을 [중소기업은행](https://ko.wikipedia.org/wiki/중소기업은행 "wikilink")이 인수하여 설립한 저축은행이다.
+**IBK저축은행**은 2011년 발생한 저축은행들의 부실화로 경은저축은행, 부산저축은행, 토마토2저축은행, 영남저축은행 등을 합병한 예솔저축은행을 [중소기업은행](../Page/중소기업은행.md "wikilink")이 인수하여 설립한 저축은행이다.
 
 ## 연혁
 
@@ -57,7 +57,7 @@
   - [신한저축은행](https://ko.wikipedia.org/wiki/신한저축은행 "wikilink")
   - [NH저축은행](https://ko.wikipedia.org/wiki/NH저축은행 "wikilink")
   - [하나저축은행](https://ko.wikipedia.org/wiki/하나저축은행 "wikilink")
-  - [KB저축은행](https://ko.wikipedia.org/wiki/KB저축은행 "wikilink")
+  - [KB저축은행](../Page/KB저축은행.md "wikilink")
 
 ## 영업점
 

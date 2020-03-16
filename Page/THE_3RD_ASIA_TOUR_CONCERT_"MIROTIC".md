@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [THE 3RD ASIA TOUR CONCERT MIROTIC](https://ko.wikipedia.org/wiki/THE_3RD_ASIA_TOUR_CONCERT_MIROTIC).
 
 
-《**THE 3RD ASIA TOUR CONCERT "MIROTIC"**》은 그룹 [동방신기](https://ko.wikipedia.org/wiki/동방신기 "wikilink")의 4집 발표를 기반으로 개최된 2인 재편 이전의 마지막 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink"). 팬덤 내에서는 **미로틱콘**으로 약칭하기도 한다.
+《**THE 3RD ASIA TOUR CONCERT "MIROTIC"**》은 그룹 [동방신기](../Page/동방신기.md "wikilink")의 4집 발표를 기반으로 개최된 2인 재편 이전의 마지막 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink"). 팬덤 내에서는 **미로틱콘**으로 약칭하기도 한다.
 
 ## 투어 일정
 
@@ -20,7 +20,7 @@
 <td><p>2009년 2월 20일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/서울" title="wikilink">서울</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/올림픽체조경기장" title="wikilink">올림픽체조경기장</a>[1]</p></td>
+<td><p><a href="../Page/올림픽체조경기장.md" title="wikilink">올림픽체조경기장</a>[1]</p></td>
 <td><p>통산 39,000명</p></td>
 </tr>
 <tr class="even">
@@ -46,7 +46,7 @@
 </tr>
 <tr class="odd">
 <td><p>2009년 6월 27일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/방콕" title="wikilink">방콕</a></p></td>
+<td><p><a href="../Page/방콕.md" title="wikilink">방콕</a></p></td>
 <td></td>
 <td><p>임팩트 아레나 무앙 통 타니[3]</p></td>
 <td><p>통산 32,000명</p></td>
@@ -68,7 +68,7 @@
 <tr class="even">
 <td><p>2009년 10월 2일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/상해" title="wikilink">상해</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/훙커우_축구장" title="wikilink">홍구 축구장</a>[5]</p></td>
+<td><p><a href="../Page/훙커우_축구장.md" title="wikilink">홍구 축구장</a>[5]</p></td>
 <td><p>20,000명</p></td>
 <td></td>
 </tr>
@@ -106,7 +106,7 @@
 <td style="text-align: left;"><p>포토북</p></td>
 <td style="text-align: left;"><p>THE 3RD ASIA TOUR CONCERT 《MIROTIC》 CONCERT BOOK</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2009년" title="wikilink">2009년</a> <a href="https://ko.wikipedia.org/wiki/4월_23일" title="wikilink">4월 23일</a></li>
+<li>발매일 : <a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/4월_23일.md" title="wikilink">4월 23일</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -130,7 +130,7 @@
 <td style="text-align: left;"><p>라이브앨범</p></td>
 <td style="text-align: left;"><p>THE 3RD ASIA TOUR CONCERT ALBUM 《MIROTIC》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2009년" title="wikilink">2009년</a> <a href="https://ko.wikipedia.org/wiki/7월_30일" title="wikilink">7월 30일</a></li>
+<li>발매일 : <a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/7월_30일.md" title="wikilink">7월 30일</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -154,7 +154,7 @@
 <td style="text-align: left;"><p>DVD</p></td>
 <td style="text-align: left;"><p>THE 3RD ASIA TOUR CONCERT 《MIROTIC》 DVD</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2009년" title="wikilink">2009년</a> <a href="https://ko.wikipedia.org/wiki/12월_30일" title="wikilink">12월 30일</a></li>
+<li>발매일 : <a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/12월_30일.md" title="wikilink">12월 30일</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -163,7 +163,7 @@
 ## 특이사항 및 에피소드
 
   - 4집 타이틀곡 《주문-MIROTIC》의 가사 'Under My Skin'의 19금 판정으로 인한 가사 수정에도 불구하고 서울 공연 중 관중들의 원 가사로의 열창이 화제가 되었다.
-  - 2009년 9월 12일 개최 예정이었던 상해 공연은 2009년 7월 31일, [김재중](https://ko.wikipedia.org/wiki/김재중 "wikilink"), [박유천](https://ko.wikipedia.org/wiki/박유천 "wikilink"), [김준수가](https://ko.wikipedia.org/wiki/김준수_\(가수\) "wikilink") SM 엔터테인먼트를 상대로 전속계약 효력정지 가처분 신청 소송을 제기하면서 취소되었다가, 동방신기와 SM 엔터테인먼트의 상의 끝에 10월 2일로 연기되었다.
+  - 2009년 9월 12일 개최 예정이었던 상해 공연은 2009년 7월 31일, [김재중](../Page/김재중.md "wikilink"), [박유천](../Page/박유천.md "wikilink"), [김준수가](../Page/김준수_\(가수\).md "wikilink") SM 엔터테인먼트를 상대로 전속계약 효력정지 가처분 신청 소송을 제기하면서 취소되었다가, 동방신기와 SM 엔터테인먼트의 상의 끝에 10월 2일로 연기되었다.
 
 ## 제작
 

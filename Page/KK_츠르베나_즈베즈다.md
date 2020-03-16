@@ -1,12 +1,12 @@
 > This article is converted from Wikipedia: [KK  ](https://ko.wikipedia.org/wiki/KK__).
 
 
-**KK 츠르베나 즈베즈다**()는 [세르비아](https://ko.wikipedia.org/wiki/세르비아 "wikilink") [베오그라드](https://ko.wikipedia.org/wiki/베오그라드 "wikilink")를 연고로 하는 프로[농구](https://ko.wikipedia.org/wiki/농구 "wikilink")단이다.
+**KK 츠르베나 즈베즈다**()는 [세르비아](../Page/세르비아.md "wikilink") [베오그라드](../Page/베오그라드.md "wikilink")를 연고로 하는 프로[농구](../Page/농구.md "wikilink")단이다.
 
 ## 같이 보기
 
   - [SD 츠르베나 즈베즈다](https://ko.wikipedia.org/wiki/SD_츠르베나_즈베즈다 "wikilink")
-  - [FK 츠르베나 즈베즈다](https://ko.wikipedia.org/wiki/FK_츠르베나_즈베즈다 "wikilink")
+  - [FK 츠르베나 즈베즈다](../Page/FK_츠르베나_즈베즈다.md "wikilink")
 
 ## 외부 링크
 

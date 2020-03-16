@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [HTC  M8](https://ko.wikipedia.org/wiki/HTC__M8).
 
 
-**HTC 원 M8**()는 [HTC 코퍼레이션에서](https://ko.wikipedia.org/wiki/HTC_코퍼레이션 "wikilink") [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink")에 출시한 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [FHD](https://ko.wikipedia.org/wiki/1080p "wikilink") 해상도를 표현하는 [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")이다.[HTC 원의](../Page/HTC_원.md "wikilink") 후속 기종이다.
+**HTC 원 M8**()는 [HTC 코퍼레이션에서](https://ko.wikipedia.org/wiki/HTC_코퍼레이션 "wikilink") [2014년](../Page/2014년.md "wikilink") [3월](../Page/3월.md "wikilink")에 출시한 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [FHD](../Page/1080p.md "wikilink") 해상도를 표현하는 [스마트폰](../Page/스마트폰.md "wikilink")이다.[HTC 원의](../Page/HTC_원.md "wikilink") 후속 기종이다.
 
 \[1\]
 
@@ -23,14 +23,14 @@
 
 ## 연혁
 
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [1월](https://ko.wikipedia.org/wiki/1월 "wikilink") : 제품 발표
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink") : **[모바일 월드 콩그레스](https://ko.wikipedia.org/wiki/모바일_월드_콩그레스 "wikilink") 2014** (MWC 2014)에서 공개 ,출시
+  - [2014년](../Page/2014년.md "wikilink") [1월](../Page/1월.md "wikilink") : 제품 발표
+  - [2014년](../Page/2014년.md "wikilink") [3월](../Page/3월.md "wikilink") : **[모바일 월드 콩그레스](../Page/모바일_월드_콩그레스.md "wikilink") 2014** (MWC 2014)에서 공개 ,출시
 
 ## 경쟁 기종
 
   - [소니 엑스페리아 Z2](../Page/소니_엑스페리아_Z2.md "wikilink")
   - [삼성 갤럭시 S5](../Page/삼성_갤럭시_S5.md "wikilink")
-  - [LG G3](https://ko.wikipedia.org/wiki/LG_G3 "wikilink")
+  - [LG G3](../Page/LG_G3.md "wikilink")
   - [아이폰 6](../Page/아이폰_6.md "wikilink")
 
 ## 같이 보기

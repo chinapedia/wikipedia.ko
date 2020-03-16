@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Cytus](https://ko.wikipedia.org/wiki/Cytus).
 
 
-**Cytus\[1\]**는 타이완에서 독립적인 게임을 개발하고 있는 [Rayark Games에서](https://ko.wikipedia.org/wiki/Rayark_Games "wikilink") 개발한 리듬게임이다. 2012년 1월 12일에 [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink")용으로 처음 발매되었다. 2012년 12월 4일에는 [안드로이드버전으로도](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") 출시되었다.
+**Cytus\[1\]**는 타이완에서 독립적인 게임을 개발하고 있는 [Rayark Games에서](https://ko.wikipedia.org/wiki/Rayark_Games "wikilink") 개발한 리듬게임이다. 2012년 1월 12일에 [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink")용으로 처음 발매되었다. 2012년 12월 4일에는 [안드로이드버전으로도](../Page/안드로이드_\(운영_체제\).md "wikilink") 출시되었다.
 
 이 게임은 현재(2015.5.20) 약 180개 가량의 곡을 수록하고 있고, 그 중에서 Prologue, Retro, Time Line 챕터는 IAP를 통해 해금이 가능하다. 이 게임은 "Million Downloads Plan"이라는 프로젝트를 진행하고 있는데,\[2\] 매 100,000다운로드마다 (Android, iOS, PS Vita 종합), 챕터 1개씩 무료로 오픈된다. 2018년 3월 8일에 Cytus 2가 비슷한 게임플레이에 완전히 다른 스토리와 인터페이스, 그래픽으로 출시되었다.
 
@@ -33,7 +33,7 @@
 (9월 18일 업데이트, 현재 IAP로 $4.99에 챕터를 살 수 있다)
 
   - Process / Tsukasa
-  - Endless Journey / Hoskey feat. [Megurine Luka](https://ko.wikipedia.org/wiki/메구리네_루카 "wikilink")
+  - Endless Journey / Hoskey feat. [Megurine Luka](../Page/메구리네_루카.md "wikilink")
   - Shoot Out / Tsukasa
   - LNS OP / Hoskey feat. Megurine Luka
   - Blue Eyes / Persona
@@ -71,7 +71,7 @@
 
   - The Riddle Story / Cranky
   - Libera Me / Cranky
-  - COSMO / HAMO feat. [Hatsune Miku](https://ko.wikipedia.org/wiki/하츠네_미쿠 "wikilink")
+  - COSMO / HAMO feat. [Hatsune Miku](../Page/하츠네_미쿠.md "wikilink")
   - Prismatic Lollipops / DJ mashiro
   - Otome / suzumetune
   - Spectrum / suzumetune
@@ -158,7 +158,7 @@
   - East West Wobble / SHK
   - Warlords of Atlantis / sakuzyo
   - To Further Dream / Shinichi Kobayashi
-  - COMA / ensou feat. [Gumi](https://ko.wikipedia.org/wiki/Megpoid "wikilink")
+  - COMA / ensou feat. [Gumi](../Page/Megpoid.md "wikilink")
   - CODE NAME : ZERO / NeLiME (SNS를 통해 해금할 수 있었지만, 현재는 SNS 해금기능이 사라졌다.)
 
 ### Chapter Ⅹ (The New World)

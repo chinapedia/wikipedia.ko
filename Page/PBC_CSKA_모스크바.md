@@ -1,12 +1,12 @@
 > This article is converted from Wikipedia: [PBC CSKA ](https://ko.wikipedia.org/wiki/PBC_CSKA_).
 
 
-**PBC CSKA 모스크바**(Professional Basketball Club CSKA Moscow)는 [러시아](https://ko.wikipedia.org/wiki/러시아 "wikilink") [모스크바](https://ko.wikipedia.org/wiki/모스크바 "wikilink")를 연고로 하는 프로[농구](https://ko.wikipedia.org/wiki/농구 "wikilink")단이다.
+**PBC CSKA 모스크바**(Professional Basketball Club CSKA Moscow)는 [러시아](../Page/러시아.md "wikilink") [모스크바](../Page/모스크바.md "wikilink")를 연고로 하는 프로[농구](../Page/농구.md "wikilink")단이다.
 
 ## 같이 보기
 
   - [CSKA 모스크바](https://ko.wikipedia.org/wiki/CSKA_모스크바 "wikilink")
-  - [PFC CSKA 모스크바](https://ko.wikipedia.org/wiki/PFC_CSKA_모스크바 "wikilink")
+  - [PFC CSKA 모스크바](../Page/PFC_CSKA_모스크바.md "wikilink")
 
 ## 외부 링크
 

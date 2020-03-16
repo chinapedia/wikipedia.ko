@@ -8,10 +8,10 @@
 ## 앨범 정보
 
   - 발매일: 1996년 7월
-  - 레이블: [YG 엔터테인먼트](https://ko.wikipedia.org/wiki/YG_엔터테인먼트 "wikilink")
+  - 레이블: [YG 엔터테인먼트](../Page/YG_엔터테인먼트.md "wikilink")
   - 배급유통: 반도음반
-  - 제작자: [양현석](https://ko.wikipedia.org/wiki/양현석 "wikilink")
-  - 프로듀서: [양현석](https://ko.wikipedia.org/wiki/양현석 "wikilink"), Q, 조수아 (원상우)
+  - 제작자: [양현석](../Page/양현석.md "wikilink")
+  - 프로듀서: [양현석](../Page/양현석.md "wikilink"), Q, 조수아 (원상우)
   - 노래 감독: 조수아, Q, 이안
   - 전체 프로그래밍 및 편곡: 강규용 aka Q (Except: 웨딩드레스 by 조수아)
   - 레코딩 엔지니어: Q, Kevin Kim, John Anonymous
@@ -21,7 +21,7 @@
   - 레코딩 스튜디오: Street Level, Studio DEE, Track House in L.A, Lead Sound in Seoul
   - 마스터링 스튜디오: Future Disc
   - 마스터링 엔지니어: Tom Baker
-  - 매니지먼트: 김철, 현 기획 ([YG 엔터테인먼트](https://ko.wikipedia.org/wiki/YG_엔터테인먼트 "wikilink"))
+  - 매니지먼트: 김철, 현 기획 ([YG 엔터테인먼트](../Page/YG_엔터테인먼트.md "wikilink"))
   - 매니저: 전경원, 이지운
   - 사진: 안성진
   - 디자인: 김윤정, JAM

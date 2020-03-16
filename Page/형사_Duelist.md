@@ -1,18 +1,18 @@
 > This article is converted from Wikipedia: [ Duelist](https://ko.wikipedia.org/wiki/_Duelist).
 
 
-《**형사 Duelist**》는 [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink")에 개봉한 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 액션 느와르 영화이다.
+《**형사 Duelist**》는 [2005년](../Page/2005년.md "wikilink")에 개봉한 [대한민국](../Page/대한민국.md "wikilink")의 액션 느와르 영화이다.
 
 ## 캐스팅
 
-  - [하지원](https://ko.wikipedia.org/wiki/하지원 "wikilink") : 남순 역
-  - [강동원](https://ko.wikipedia.org/wiki/강동원 "wikilink") : 슬픈 눈 역
-  - [안성기](https://ko.wikipedia.org/wiki/안성기 "wikilink") : 안포교 역
-  - [송영창](https://ko.wikipedia.org/wiki/송영창 "wikilink") : 병판대감 역
-  - [윤주상](https://ko.wikipedia.org/wiki/윤주상 "wikilink") : 봉출 역
-  - [도용구](https://ko.wikipedia.org/wiki/도용구 "wikilink") : 종사관 역
+  - [하지원](../Page/하지원.md "wikilink") : 남순 역
+  - [강동원](../Page/강동원.md "wikilink") : 슬픈 눈 역
+  - [안성기](../Page/안성기.md "wikilink") : 안포교 역
+  - [송영창](../Page/송영창.md "wikilink") : 병판대감 역
+  - [윤주상](../Page/윤주상.md "wikilink") : 봉출 역
+  - [도용구](../Page/도용구.md "wikilink") : 종사관 역
   - 심철종 : 마축지 역
-  - [배중식](https://ko.wikipedia.org/wiki/배중식 "wikilink") : 배 포교 역
+  - [배중식](../Page/배중식.md "wikilink") : 배 포교 역
   - 황의두 : 황 포교 역
   - 장인보 : 장 포교 역
   - 유영욱 : 유 포교 역
@@ -20,11 +20,11 @@
   - 윤가현 : 주모 역
   - 함건수 : 마축지패 1 역
   - 김해용 : 마축지패 2 역
-  - [전문식](https://ko.wikipedia.org/wiki/전문식 "wikilink") : 갓쓴 무리대장 역
+  - [전문식](../Page/전문식.md "wikilink") : 갓쓴 무리대장 역
   - 이상철 : 공안거사 역
-  - [임해림](https://ko.wikipedia.org/wiki/임해림 "wikilink") : 탕촌 노인 역
-  - [나갑성](https://ko.wikipedia.org/wiki/나갑성 "wikilink") : 주막 사람들 역
-  - [김준배](https://ko.wikipedia.org/wiki/김준배_\(1969년\) "wikilink") : 주막 사람들 역
+  - [임해림](../Page/임해림.md "wikilink") : 탕촌 노인 역
+  - [나갑성](../Page/나갑성.md "wikilink") : 주막 사람들 역
+  - [김준배](../Page/김준배_\(1969년\).md "wikilink") : 주막 사람들 역
   - [박수영](../Page/박수영.md "wikilink") : 주막 사람들 역
   - 한동규 : 주막 사람들 역
   - 최용현 : 주막 사람들 역
@@ -32,14 +32,14 @@
   - 임형택 : 주막 사람들 역
   - 김신용 : 주막 사람들 역
   - 김윤식 : 주막 사람들 역
-  - [연준석](https://ko.wikipedia.org/wiki/연준석 "wikilink") : 꼬마 신랑 역
+  - [연준석](../Page/연준석.md "wikilink") : 꼬마 신랑 역
   - 장민영 : 병판 기생 1 역
   - 문은복 : 병판 기생 2 역
   - [이정민](../Page/이정민_\(배우\).md "wikilink") : 신음 여인 역
   - 김병국 : 시장 사내들 역
   - 이응찬 : 시장 사내들 역
-  - [강재은](https://ko.wikipedia.org/wiki/강재은 "wikilink") : 마부 역
-  - [이철민](https://ko.wikipedia.org/wiki/이철민 "wikilink") : 탕촌 사내들 역
+  - [강재은](../Page/강재은.md "wikilink") : 마부 역
+  - [이철민](../Page/이철민.md "wikilink") : 탕촌 사내들 역
   - 최윤석 : 탕촌 사내들 역
   - 박민석 : 탕촌 사내들 역
   - 이응재 : 홍등가 양반 역
@@ -62,27 +62,27 @@
   - 변상윤 : 그림자 부대 역
   - 동춘 서커스단 : 남사당패 역
   - 박승호 : 박 대감 역 (특별출연)
-  - [서동수](https://ko.wikipedia.org/wiki/서동수_\(배우\) "wikilink") : 봉출 패 역 (특별출연)
-  - [김보연](https://ko.wikipedia.org/wiki/김보연 "wikilink") : 장옷 여인 역 (특별출연)
-  - [이한위](https://ko.wikipedia.org/wiki/이한위 "wikilink") : 신음여인 남편 역 (특별출연)
-  - [김정태](https://ko.wikipedia.org/wiki/김정태_\(배우\) "wikilink") : 가도치 역 (특별출연)
+  - [서동수](../Page/서동수_\(배우\).md "wikilink") : 봉출 패 역 (특별출연)
+  - [김보연](../Page/김보연.md "wikilink") : 장옷 여인 역 (특별출연)
+  - [이한위](../Page/이한위.md "wikilink") : 신음여인 남편 역 (특별출연)
+  - [김정태](../Page/김정태_\(배우\).md "wikilink") : 가도치 역 (특별출연)
 
 ## 수상
 
-  - 2005년 제4회 [대한민국 영화대상](https://ko.wikipedia.org/wiki/대한민국_영화대상 "wikilink")
+  - 2005년 제4회 [대한민국 영화대상](../Page/대한민국_영화대상.md "wikilink")
       - 조명상 - 신경만
       - 촬영상 - 황기석
-  - 2005년 제26회 [청룡영화상](https://ko.wikipedia.org/wiki/청룡영화상 "wikilink")
+  - 2005년 제26회 [청룡영화상](../Page/청룡영화상.md "wikilink")
       - 미술상 - 이현주, [조근현](../Page/조근현.md "wikilink")
       - 조명상 - 신경만
-  - 2005년 제25회 [한국영화평론가협회상](https://ko.wikipedia.org/wiki/한국영화평론가협회상 "wikilink")
+  - 2005년 제25회 [한국영화평론가협회상](../Page/한국영화평론가협회상.md "wikilink")
       - 최우수작품상 - [이명세](https://ko.wikipedia.org/wiki/이명세 "wikilink")
       - 감독상 - 이명세
       - 촬영상 - 황기석
       - 10대영화상 - 이명세
-  - 2006년 제42회 [백상예술대상](https://ko.wikipedia.org/wiki/백상예술대상 "wikilink")
+  - 2006년 제42회 [백상예술대상](../Page/백상예술대상.md "wikilink")
       - 영화부문 감독상 - [이명세](https://ko.wikipedia.org/wiki/이명세 "wikilink")
-  - 2006년 제43회 [대종상](https://ko.wikipedia.org/wiki/대종상 "wikilink")
+  - 2006년 제43회 [대종상](../Page/대종상.md "wikilink")
       - 미술상 - 이현주, 조근현
 
 ## 외부 링크

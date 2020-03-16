@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [403 Forbiddena](https://ko.wikipedia.org/wiki/403_Forbiddena).
 
 
-**403 Forbiddena** 또는 **403**()은 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [온라인](https://ko.wikipedia.org/wiki/온라인 "wikilink") 상에서 활동하는 [인디 밴드로](https://ko.wikipedia.org/wiki/인디_밴드 "wikilink")\[1\], 주요 [장르](https://ko.wikipedia.org/wiki/장르 "wikilink")는 [메탈](https://ko.wikipedia.org/wiki/헤비_메탈 "wikilink") 계열이다. 밴드 구성원 중 하나인 403(<small>필명:</small> 관리인 403)과 구분하기 위해 **team-7**이라는 이름으로도 부른다\[2\].
+**403 Forbiddena** 또는 **403**()은 [일본](../Page/일본.md "wikilink")의 [온라인](https://ko.wikipedia.org/wiki/온라인 "wikilink") 상에서 활동하는 [인디 밴드로](https://ko.wikipedia.org/wiki/인디_밴드 "wikilink")\[1\], 주요 [장르](https://ko.wikipedia.org/wiki/장르 "wikilink")는 [메탈](../Page/헤비_메탈.md "wikilink") 계열이다. 밴드 구성원 중 하나인 403(<small>필명:</small> 관리인 403)과 구분하기 위해 **team-7**이라는 이름으로도 부른다\[2\].
 
 ## 어원
 
-**403 Forbiddena**라는 밴드 이름은 인터넷 [통신 프로토콜의](https://ko.wikipedia.org/wiki/통신_프로토콜 "wikilink") 하나인 [HTTP](https://ko.wikipedia.org/wiki/HTTP "wikilink")의 권한 부족 오류의 상태 코드 **[403 Forbidden](https://ko.wikipedia.org/wiki/403_Forbidden "wikilink")**에, 지명을 나타내는 접미사 **-a**를 합성한 말로, 구 공식 [홈페이지](https://ko.wikipedia.org/wiki/홈페이지 "wikilink")의 이름이었던 **研究室403号室 -Forbiddena-**(연구실 403호실 -Forbiddena-)의 약칭이기도 하다\[3\].
+**403 Forbiddena**라는 밴드 이름은 인터넷 [통신 프로토콜의](../Page/통신_프로토콜.md "wikilink") 하나인 [HTTP](../Page/HTTP.md "wikilink")의 권한 부족 오류의 상태 코드 **[403 Forbidden](https://ko.wikipedia.org/wiki/403_Forbidden "wikilink")**에, 지명을 나타내는 접미사 **-a**를 합성한 말로, 구 공식 [홈페이지](../Page/홈페이지.md "wikilink")의 이름이었던 **研究室403号室 -Forbiddena-**(연구실 403호실 -Forbiddena-)의 약칭이기도 하다\[3\].
 
 ## 특징
 
@@ -27,7 +27,7 @@
 
 ## 무료 공개 곡
 
-일본 인터넷 최대의 인디 밴드 음악 사이트인 [muzie](https://ko.wikipedia.org/wiki/muzie "wikilink") 및 [사운드클라우드](https://ko.wikipedia.org/wiki/사운드클라우드 "wikilink")에 무료로 재생/다운로드할 수 있도록 공개한 곡이 2014년 2월 현재 기준으로 19곡이 있다\[6\]. Southern Cross 2011이나 ZERO 같은 앨범 미수록 신곡들도 일부 보인다.
+일본 인터넷 최대의 인디 밴드 음악 사이트인 [muzie](https://ko.wikipedia.org/wiki/muzie "wikilink") 및 [사운드클라우드](../Page/사운드클라우드.md "wikilink")에 무료로 재생/다운로드할 수 있도록 공개한 곡이 2014년 2월 현재 기준으로 19곡이 있다\[6\]. Southern Cross 2011이나 ZERO 같은 앨범 미수록 신곡들도 일부 보인다.
 
   - [ZERO - Heroes of the land of the rising sun -](http://www.muzie.ne.jp/songs/406301/) (2013. 08.)
   - [ZERO - Heroes of the land of the rising sun - (Vocalless)](http://www.muzie.ne.jp/songs/406304/) (2013. 08.)

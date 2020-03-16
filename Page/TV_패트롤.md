@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
 
 
-《**TV 패트롤**》()은 [ABS-CBN](https://ko.wikipedia.org/wiki/ABS-CBN "wikilink")에서 방영중인 메인 뉴스 프로그램이다.
+《**TV 패트롤**》()은 [ABS-CBN](../Page/ABS-CBN.md "wikilink")에서 방영중인 메인 뉴스 프로그램이다.
 
 ## 진행 앵커
 
@@ -18,7 +18,7 @@
 
 ## 같이 보기
 
-  - [ABS-CBN](https://ko.wikipedia.org/wiki/ABS-CBN "wikilink")
+  - [ABS-CBN](../Page/ABS-CBN.md "wikilink")
 
 ## 외부 링크
 

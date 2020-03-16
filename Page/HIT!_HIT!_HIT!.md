@@ -1,19 +1,19 @@
 > This article is converted from Wikipedia: [HIT! HIT! HIT!](https://ko.wikipedia.org/wiki/HIT!_HIT!_HIT!).
 
 
-《**HIT\! HIT\! HIT\!**》는, [Kis-My-Ft2](https://ko.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")의 1번째 [베스트 음반이다](https://ko.wikipedia.org/wiki/베스트_음반 "wikilink").
+《**HIT\! HIT\! HIT\!**》는, [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")의 1번째 [베스트 음반이다](https://ko.wikipedia.org/wiki/베스트_음반 "wikilink").
 
 ## 개요
 
-Kis-My-Ft2의 첫 베스트 앨범으로, 1st 싱글 〈[Everybody Go](https://ko.wikipedia.org/wiki/Everybody_Go "wikilink")〉부터 9th 싱글 〈[SNOW DOME의 약속/Luv Sick](https://ko.wikipedia.org/wiki/SNOW_DOME노야쿠소쿠/Luv_Sick "wikilink")〉까지의 표제곡을 전 곡 수록.
+Kis-My-Ft2의 첫 베스트 앨범으로, 1st 싱글 〈[Everybody Go](../Page/Everybody_Go.md "wikilink")〉부터 9th 싱글 〈[SNOW DOME의 약속/Luv Sick](https://ko.wikipedia.org/wiki/SNOW_DOME노야쿠소쿠/Luv_Sick "wikilink")〉까지의 표제곡을 전 곡 수록.
 
 ## 수록곡
 
 ### CD
 
-1.  **[Everybody Go](https://ko.wikipedia.org/wiki/Everybody_Go "wikilink")**
-2.  **[We never give up\!](https://ko.wikipedia.org/wiki/We_never_give_up! "wikilink")**
-3.  **[SHE\! HER\! HER\!](https://ko.wikipedia.org/wiki/SHE!_HER!_HER! "wikilink")**
+1.  **[Everybody Go](../Page/Everybody_Go.md "wikilink")**
+2.  **[We never give up\!](../Page/We_never_give_up!.md "wikilink")**
+3.  **[SHE\! HER\! HER\!](../Page/SHE!_HER!_HER!.md "wikilink")**
 4.  **[WANNA BEEEE\!\!\!](https://ko.wikipedia.org/wiki/WANNA_BEEEE!!!/Shake_It_Up "wikilink")**
 5.  **[Shake It Up](https://ko.wikipedia.org/wiki/WANNA_BEEEE!!!/Shake_It_Up "wikilink")**
 6.  **[アイノビート -Dance ver.-](https://ko.wikipedia.org/wiki/아이노비트 "wikilink")** / <small>**사랑의 비트 -Dance ver.-**</small>

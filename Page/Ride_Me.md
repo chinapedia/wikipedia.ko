@@ -1,12 +1,12 @@
 > This article is converted from Wikipedia: [Ride Me](https://ko.wikipedia.org/wiki/Ride_Me).
 
 
-| 이 앨범에 수록된 싱글                                                                                                      |
-| ----------------------------------------------------------------------------------------------------------------- |
-| [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [4월 4일](https://ko.wikipedia.org/wiki/4월_4일 "wikilink")   |
-| [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [6월 19일](https://ko.wikipedia.org/wiki/6월_19일 "wikilink") |
+| 이 앨범에 수록된 싱글                                                                |
+| --------------------------------------------------------------------------- |
+| [2012년](../Page/2012년.md "wikilink") [4월 4일](../Page/4월_4일.md "wikilink")   |
+| [2013년](../Page/2013년.md "wikilink") [6월 19일](../Page/6월_19일.md "wikilink") |
 
-《**Ride Me**》는 [슈퍼주니어-D\&E](../Page/슈퍼주니어-D&E.md "wikilink")의 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서 발매된 첫번째 정규 앨범이다. [슈퍼주니어](https://ko.wikipedia.org/wiki/슈퍼주니어 "wikilink") 유닛 최초의 정규 앨범으로 앞서 발매된 〈[Oppa, Oppa](https://ko.wikipedia.org/wiki/Oppa,_Oppa_\(노래\) "wikilink")〉와 〈[I WANNA DANCE](../Page/I_WANNA_DANCE.md "wikilink")〉의 수록곡들을 포함하여 13곡이 수록되었다.
+《**Ride Me**》는 [슈퍼주니어-D\&E](../Page/슈퍼주니어-D&E.md "wikilink")의 [일본](../Page/일본.md "wikilink")에서 발매된 첫번째 정규 앨범이다. [슈퍼주니어](../Page/슈퍼주니어.md "wikilink") 유닛 최초의 정규 앨범으로 앞서 발매된 〈[Oppa, Oppa](https://ko.wikipedia.org/wiki/Oppa,_Oppa_\(노래\) "wikilink")〉와 〈[I WANNA DANCE](../Page/I_WANNA_DANCE.md "wikilink")〉의 수록곡들을 포함하여 13곡이 수록되었다.
 
 ## 수록곡
 
