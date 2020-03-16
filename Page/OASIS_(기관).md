@@ -21,10 +21,10 @@
   - [GeoXACML](https://ko.wikipedia.org/wiki/GeoXACML "wikilink")
   - [KMIP](https://ko.wikipedia.org/wiki/Key_Management_Interoperability_Protocol "wikilink")
   - [Legal XML](https://ko.wikipedia.org/wiki/Legal_XML "wikilink") LegalDocumentML ([Akoma Ntoso](https://ko.wikipedia.org/wiki/Akoma_Ntoso "wikilink")), LegalRuleML, Electronic Court Filing, eNotarization 표준.
-  - [MQTT](https://ko.wikipedia.org/wiki/MQTT "wikilink")
+  - [MQTT](../Page/MQTT.md "wikilink")
   - [oBIX](https://ko.wikipedia.org/wiki/oBIX "wikilink")
   - [오픈 차지 포인트 프로토콜](https://ko.wikipedia.org/wiki/오픈_차지_포인트_프로토콜 "wikilink")(OCPP)
-  - [오픈도큐먼트](https://ko.wikipedia.org/wiki/오픈도큐먼트 "wikilink")
+  - [오픈도큐먼트](../Page/오픈도큐먼트.md "wikilink")
   - [OSLC](https://ko.wikipedia.org/wiki/OSLC "wikilink")
   - [SAML](../Page/SAML.md "wikilink")
   - [SDD](https://ko.wikipedia.org/wiki/Solution_Deployment_Descriptor "wikilink")
@@ -37,7 +37,7 @@
   - [WS-BPEL](https://ko.wikipedia.org/wiki/WS-BPEL "wikilink")
   - [WSDM](https://ko.wikipedia.org/wiki/웹_서비스_분산_관리 "wikilink")
   - [XACML](https://ko.wikipedia.org/wiki/XACML "wikilink")
-  - [XDI](https://ko.wikipedia.org/wiki/XDI "wikilink")
+  - [XDI](../Page/XDI.md "wikilink")
   - [XLIFF](https://ko.wikipedia.org/wiki/XLIFF "wikilink")
   - [XRI](https://ko.wikipedia.org/wiki/XRI "wikilink")
 

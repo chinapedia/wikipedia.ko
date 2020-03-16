@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [RCA  B](https://ko.wikipedia.org/wiki/RCA__B).
 
 
-**RCA 스튜디오 B**(RCA Studio B)는 [테네시 주 내슈빌에](https://ko.wikipedia.org/wiki/내슈빌 "wikilink") 소재한 [녹음 스튜디오로](https://ko.wikipedia.org/wiki/녹음실 "wikilink"), 처음에는 단순히 **RCA 스튜디오**(RCA Studios)로 불렸다. 1960년대에 [내슈빌 사운드의](../Page/내슈빌_사운드.md "wikilink") 한 축으로서 유명해졌다. 2012년 [미국 국립사적지에](https://ko.wikipedia.org/wiki/미국_국립사적지 "wikilink") 등록되었다.\[1\]
+**RCA 스튜디오 B**(RCA Studio B)는 [테네시 주 내슈빌에](../Page/내슈빌.md "wikilink") 소재한 [녹음 스튜디오로](https://ko.wikipedia.org/wiki/녹음실 "wikilink"), 처음에는 단순히 **RCA 스튜디오**(RCA Studios)로 불렸다. 1960년대에 [내슈빌 사운드의](../Page/내슈빌_사운드.md "wikilink") 한 축으로서 유명해졌다. 2012년 [미국 국립사적지에](https://ko.wikipedia.org/wiki/미국_국립사적지 "wikilink") 등록되었다.\[1\]
 
 ## 역사
 
@@ -9,9 +9,9 @@
 
 건설에는 네 달이 걸렸고 37,515달러를 투자해 개업했다. 1층에는 녹음 스튜디오와 사무실이 자리하고 있으며 2층은 [반향실](https://ko.wikipedia.org/wiki/반향실 "wikilink")이 차지하고 있다. 스튜디오 자체의 크기는 13.0 X 8.2 X 4m이다. 1960년과 1961년에 사무 공간, 테이프 마스터링실, 래커 마스터링 시험실을 증축했다. 1964년 더 큰 규모의 스튜디오가 17번가에 건립되었으며, 이것은 스튜디오 A로 불린다. 그때부터 기존의 스튜디오는 스튜디오 B로 칭하게 되었다.
 
-최초의 총괄 엔지니어는 밥 페리스였지만, 앳킨스의 분노를 사서 딴 곳으로 전출되었다. 1959년 3월 말 [빌 포터가](https://ko.wikipedia.org/wiki/빌_포터 "wikilink") 그의 후임으로 들어왔다. 7월 [더 브라운스의](https://ko.wikipedia.org/wiki/더_브라운스 "wikilink") 1위 달성 히트곡 〈[The Three Bells](https://ko.wikipedia.org/wiki/The_Three_Bells "wikilink")〉를 믹싱했다. 포터는 스튜디오의 [공간 공진 모드가](https://ko.wikipedia.org/wiki/공간_공진_모드 "wikilink") 고르지 못한 [주파수 응답을](https://ko.wikipedia.org/wiki/주파수_응답 "wikilink") 창출하여 음향상의 문제를 야기한다고 생각했다. 문제를 해소키 위해 포터는 스튜디오 [소액현금](https://ko.wikipedia.org/wiki/소액_현금 "wikilink") 가운데 50달러로 [섬유유리](https://ko.wikipedia.org/wiki/섬유유리 "wikilink") 천장 패널을 구입한 뒤 삼각형으로 잘라 천장에 다양한 높이로 매달아 놓았다.\[3\] 더불어 포터는 공진 모드가 가장 최소화되는 바닥을 찾아 "X"를 표시, 리드 보컬리스트와 백 보컬리스트와 어쿠스틱 기타리스트를 특기된 곳에 그대로 비치된 마이크로폰과 함께 위치시켰다. 이같은 개선 이후 [돈 깁슨은](../Page/돈_깁슨.md "wikilink") 음반 《Girls, Guitars and Gibson》을 녹음실에서 취입했다. 포터는 인터뷰에서 이렇게 술회한다. "모두가 '맙소사, 소리가 완전히 다르군\!'하고 말했죠."\[4\]
+최초의 총괄 엔지니어는 밥 페리스였지만, 앳킨스의 분노를 사서 딴 곳으로 전출되었다. 1959년 3월 말 [빌 포터가](https://ko.wikipedia.org/wiki/빌_포터 "wikilink") 그의 후임으로 들어왔다. 7월 [더 브라운스의](https://ko.wikipedia.org/wiki/더_브라운스 "wikilink") 1위 달성 히트곡 〈[The Three Bells](https://ko.wikipedia.org/wiki/The_Three_Bells "wikilink")〉를 믹싱했다. 포터는 스튜디오의 [공간 공진 모드가](https://ko.wikipedia.org/wiki/공간_공진_모드 "wikilink") 고르지 못한 [주파수 응답을](../Page/주파수_응답.md "wikilink") 창출하여 음향상의 문제를 야기한다고 생각했다. 문제를 해소키 위해 포터는 스튜디오 [소액현금](https://ko.wikipedia.org/wiki/소액_현금 "wikilink") 가운데 50달러로 [섬유유리](https://ko.wikipedia.org/wiki/섬유유리 "wikilink") 천장 패널을 구입한 뒤 삼각형으로 잘라 천장에 다양한 높이로 매달아 놓았다.\[3\] 더불어 포터는 공진 모드가 가장 최소화되는 바닥을 찾아 "X"를 표시, 리드 보컬리스트와 백 보컬리스트와 어쿠스틱 기타리스트를 특기된 곳에 그대로 비치된 마이크로폰과 함께 위치시켰다. 이같은 개선 이후 [돈 깁슨은](../Page/돈_깁슨.md "wikilink") 음반 《Girls, Guitars and Gibson》을 녹음실에서 취입했다. 포터는 인터뷰에서 이렇게 술회한다. "모두가 '맙소사, 소리가 완전히 다르군\!'하고 말했죠."\[4\]
 
-1994년 회고록 《내 삶과 끝막지 못한 일들》(My Life And Other Unfinished Business)에서 [돌리 파튼은](https://ko.wikipedia.org/wiki/돌리_파튼 "wikilink") 1967년 9월 (당시 RCA 빅터와 계약한 직후였다) 스튜디오 B로 자신의 첫 녹음 세션을 위해 질주한 경험을 이야기했다. 파튼에 의하면 세션 일정에 쫓기다 보니 스튜디오 측벽에 차를 충돌시켰는데, 이 상흔은 건물에 여전히 남아있다고 한다.\[5\]\[6\]
+1994년 회고록 《내 삶과 끝막지 못한 일들》(My Life And Other Unfinished Business)에서 [돌리 파튼은](../Page/돌리_파튼.md "wikilink") 1967년 9월 (당시 RCA 빅터와 계약한 직후였다) 스튜디오 B로 자신의 첫 녹음 세션을 위해 질주한 경험을 이야기했다. 파튼에 의하면 세션 일정에 쫓기다 보니 스튜디오 측벽에 차를 충돌시켰는데, 이 상흔은 건물에 여전히 남아있다고 한다.\[5\]\[6\]
 
 ## 교육 시설
 
@@ -32,7 +32,7 @@
   - [더 브라운스](https://ko.wikipedia.org/wiki/더_브라운스 "wikilink")\[15\]
   - [제리 버드](https://ko.wikipedia.org/wiki/제리_버드 "wikilink")\[16\]
   - [플로이드 크래머](https://ko.wikipedia.org/wiki/플로이드_크래머 "wikilink")\[17\]
-  - [스키터 데이비스](https://ko.wikipedia.org/wiki/스키터_데이비스 "wikilink")\[18\]
+  - [스키터 데이비스](../Page/스키터_데이비스.md "wikilink")\[18\]
   - [도트시](https://ko.wikipedia.org/wiki/도트시 "wikilink")\[19\]
   - [로니 도브](https://ko.wikipedia.org/wiki/로니_도브 "wikilink")
   - [에벌리 브라더스](../Page/에벌리_브라더스.md "wikilink")\[20\]
@@ -48,10 +48,10 @@
   - [알 하트](https://ko.wikipedia.org/wiki/알_하트 "wikilink")\[30\]
   - [호머 앤 제스로](https://ko.wikipedia.org/wiki/호머_앤_제스로 "wikilink")\[31\]
   - [노마 진](https://ko.wikipedia.org/wiki/노마_진 "wikilink")\[32\]
-  - [웨일런 제닝스](https://ko.wikipedia.org/wiki/웨일런_제닝스 "wikilink")\[33\]
+  - [웨일런 제닝스](../Page/웨일런_제닝스.md "wikilink")\[33\]
   - [잭 저지](https://ko.wikipedia.org/wiki/잭_저지 "wikilink")
   - [그랜파 존스](https://ko.wikipedia.org/wiki/그랜파_존스 "wikilink")\[34\]
-  - [조더네이어스](https://ko.wikipedia.org/wiki/조더네이어스 "wikilink")\[35\]
+  - [조더네이어스](../Page/조더네이어스.md "wikilink")\[35\]
   - [아니타 커 싱어스](https://ko.wikipedia.org/wiki/아니타_커_싱어스 "wikilink")\[36\]
   - [행크 록클린](https://ko.wikipedia.org/wiki/행크_록클린 "wikilink")\[37\]
   - [존 D. 루더밀크](https://ko.wikipedia.org/wiki/존_D._루더밀크 "wikilink")\[38\]
@@ -59,22 +59,22 @@
   - [찰리 맥코이](https://ko.wikipedia.org/wiki/찰리_맥코이 "wikilink")\[40\]
   - [로저 밀러](https://ko.wikipedia.org/wiki/로저_밀러 "wikilink")\[41\]
   - [밥 무어](https://ko.wikipedia.org/wiki/밥_무어 "wikilink")\[42\]
-  - [윌리 넬슨](https://ko.wikipedia.org/wiki/윌리_넬슨 "wikilink")\[43\]
+  - [윌리 넬슨](../Page/윌리_넬슨.md "wikilink")\[43\]
   - [노트르담 고등학교](https://ko.wikipedia.org/wiki/노트르담_고등학교 "wikilink")\[44\]
-  - [로이 오비슨](https://ko.wikipedia.org/wiki/로이_오비슨 "wikilink")\[45\]
-  - [파라모어](https://ko.wikipedia.org/wiki/파라모어 "wikilink")\[46\]
-  - [돌리 파튼](https://ko.wikipedia.org/wiki/돌리_파튼 "wikilink")\[47\]
-  - [엘비스 프레슬리](https://ko.wikipedia.org/wiki/엘비스_프레슬리 "wikilink")\[48\]
+  - [로이 오비슨](../Page/로이_오비슨.md "wikilink")\[45\]
+  - [파라모어](../Page/파라모어.md "wikilink")\[46\]
+  - [돌리 파튼](../Page/돌리_파튼.md "wikilink")\[47\]
+  - [엘비스 프레슬리](../Page/엘비스_프레슬리.md "wikilink")\[48\]
   - [찰리 프라이드](https://ko.wikipedia.org/wiki/찰리_프라이드 "wikilink")\[49\]
   - [부츠 루돌프](https://ko.wikipedia.org/wiki/부츠_루돌프 "wikilink")\[50\]
-  - [짐 리브스](https://ko.wikipedia.org/wiki/짐_리브스 "wikilink")\[51\]
+  - [짐 리브스](../Page/짐_리브스.md "wikilink")\[51\]
   - [토미 로](https://ko.wikipedia.org/wiki/토미_로 "wikilink")\[52\]
   - [로니 & 더 데이토나스](https://ko.wikipedia.org/wiki/로니_&_더_데이토나스 "wikilink")\[53\]
   - [새뮤얼슨](https://ko.wikipedia.org/wiki/새뮤얼슨 "wikilink")
   - [코니 스미스](https://ko.wikipedia.org/wiki/코니_스미스 "wikilink")\[54\]
   - [행크 스노](../Page/행크_스노.md "wikilink")\[55\]
   - [게리 스튜어트](https://ko.wikipedia.org/wiki/게리_스튜어트 "wikilink")\[56\]
-  - [스트록스](https://ko.wikipedia.org/wiki/스트록스 "wikilink")\[57\]
+  - [스트록스](../Page/스트록스.md "wikilink")\[57\]
   - [냇 스터키](https://ko.wikipedia.org/wiki/냇_스터키 "wikilink")\[58\]
   - [수 톰슨](https://ko.wikipedia.org/wiki/수_톰슨 "wikilink")\[59\]
   - [조니 틸럿슨](https://ko.wikipedia.org/wiki/조니_틸럿슨 "wikilink")\[60\]

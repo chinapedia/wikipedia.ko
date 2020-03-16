@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [March for Our Lives](https://ko.wikipedia.org/wiki/March_for_Our_Lives).
 
 
-**마치 포 아워 라이브스**(, **MFOL** ; <small>직역</small>: 우리 생명을 위한 행진)는 2018년 3월 24일 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [워싱턴 D.C.를](https://ko.wikipedia.org/wiki/워싱턴_D.C. "wikilink") 중심으로 진행된, [총기](https://ko.wikipedia.org/wiki/총기 "wikilink")범죄를 규탄하고 총기규제를 요구하는 시위이다. [학생](https://ko.wikipedia.org/wiki/학생 "wikilink")들이 주축이 되어 진행되었으며, 워싱턴 제외한 미 전역 845개 시와 세계 여러 곳에서도 자매행사가 이루어졌다.\[1\]\[2\]\[3\]\[4\]
+**마치 포 아워 라이브스**(, **MFOL** ; <small>직역</small>: 우리 생명을 위한 행진)는 2018년 3월 24일 [미국](../Page/미국.md "wikilink") [워싱턴 D.C.를](../Page/워싱턴_D.C..md "wikilink") 중심으로 진행된, [총기](https://ko.wikipedia.org/wiki/총기 "wikilink")범죄를 규탄하고 총기규제를 요구하는 시위이다. [학생](../Page/학생.md "wikilink")들이 주축이 되어 진행되었으며, 워싱턴 제외한 미 전역 845개 시와 세계 여러 곳에서도 자매행사가 이루어졌다.\[1\]\[2\]\[3\]\[4\]
 
 세부적으로 시위자들은 총기 쇼에서의 개인판매(Gun Show Loophole) 금지, [1994년 연방 살상용 무기 금지법](https://ko.wikipedia.org/wiki/연방_살상용_무기_금지법 "wikilink") 부활과 미국 내 대용량 [탄창](https://ko.wikipedia.org/wiki/탄창 "wikilink") 판매 금지를 요구했다.\[5\]
 

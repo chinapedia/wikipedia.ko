@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Reformed Theological Review](https://ko.wikipedia.org/wiki/Reformed_Theological_Review).
 
 
-**Reformed Theological Review**(개혁신학저널)는[오스트레일리아](https://ko.wikipedia.org/wiki/오스트레일리아 "wikilink")에서 가장 오랜된 개신교 신학 학술지이다. 1942년 첫번째 편집자로는 동부 오스트레일리아 [장로교](https://ko.wikipedia.org/wiki/장로교 "wikilink") 교회의 아더 알렌(Arthur Allen)이 시작하였다.\[1\] 이 저널은 [개혁교회](https://ko.wikipedia.org/wiki/칼뱅주의 "wikilink") 전통에서 개혁주의 신앙의 학술적 변호와 증진을 위해 존속하고 있다. 호주정부 연구위원회의 2015년 ERA 저널에 포함되어있다.\[2\]
+**Reformed Theological Review**(개혁신학저널)는[오스트레일리아](../Page/오스트레일리아.md "wikilink")에서 가장 오랜된 개신교 신학 학술지이다. 1942년 첫번째 편집자로는 동부 오스트레일리아 [장로교](../Page/장로교.md "wikilink") 교회의 아더 알렌(Arthur Allen)이 시작하였다.\[1\] 이 저널은 [개혁교회](../Page/칼뱅주의.md "wikilink") 전통에서 개혁주의 신앙의 학술적 변호와 증진을 위해 존속하고 있다. 호주정부 연구위원회의 2015년 ERA 저널에 포함되어있다.\[2\]
 
 ## 각주
 

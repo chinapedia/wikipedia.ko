@@ -5,16 +5,16 @@
 
 ## 차트
 
-| 차트 (2017)                                                | 최고 순위 |
-| -------------------------------------------------------- | ----- |
-| [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")\[1\]   | 2     |
-| [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")\[2\]   | 2     |
-| [필리핀](https://ko.wikipedia.org/wiki/필리핀 "wikilink")\[3\] | 11    |
-| [필리핀](https://ko.wikipedia.org/wiki/필리핀 "wikilink")\[4\] | 1     |
-| [한국](https://ko.wikipedia.org/wiki/한국 "wikilink")\[5\]   | 1     |
-| [한국](https://ko.wikipedia.org/wiki/한국 "wikilink")\[6\]   | 1     |
-| [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")\[7\]   | 1     |
-|                                                          |       |
+| 차트 (2017)                             | 최고 순위 |
+| ------------------------------------- | ----- |
+| [일본](../Page/일본.md "wikilink")\[1\]   | 2     |
+| [일본](../Page/일본.md "wikilink")\[2\]   | 2     |
+| [필리핀](../Page/필리핀.md "wikilink")\[3\] | 11    |
+| [필리핀](../Page/필리핀.md "wikilink")\[4\] | 1     |
+| [한국](../Page/한국.md "wikilink")\[5\]   | 1     |
+| [한국](../Page/한국.md "wikilink")\[6\]   | 1     |
+| [미국](../Page/미국.md "wikilink")\[7\]   | 1     |
+|                                       |       |
 
 ## 각주
 

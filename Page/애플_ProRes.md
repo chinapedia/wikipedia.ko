@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [ ProRes](https://ko.wikipedia.org/wiki/_ProRes).
 
 
-**애플 ProRes**(Apple ProRes)는 최대 8K를 지원하는 [후반 작업에](https://ko.wikipedia.org/wiki/후반_작업 "wikilink") 사용할 목적으로 [애플이](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 개발한 [손실](https://ko.wikipedia.org/wiki/손실_압축 "wikilink") [비디오 압축](https://ko.wikipedia.org/wiki/데이터_압축 "wikilink") 포맷이다. [Apple Intermediate Codec의](https://ko.wikipedia.org/wiki/Apple_Intermediate_Codec "wikilink") 뒤를 이으며 2007년 [파이널 컷 스튜디오](https://ko.wikipedia.org/wiki/파이널_컷_스튜디오 "wikilink") 2와 함께 선보였다.\[1\]
+**애플 ProRes**(Apple ProRes)는 최대 8K를 지원하는 [후반 작업에](https://ko.wikipedia.org/wiki/후반_작업 "wikilink") 사용할 목적으로 [애플이](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 개발한 [손실](../Page/손실_압축.md "wikilink") [비디오 압축](../Page/데이터_압축.md "wikilink") 포맷이다. [Apple Intermediate Codec의](https://ko.wikipedia.org/wiki/Apple_Intermediate_Codec "wikilink") 뒤를 이으며 2007년 [파이널 컷 스튜디오](../Page/파이널_컷_스튜디오.md "wikilink") 2와 함께 선보였다.\[1\]
 
 ## 개요
 
-ProRes는 실질적으로 최종 사용자가 볼 동영상을 위한 것이 아닌, 영상 편집 중에 사용할 목적으로 개발된 중간 코덱 계열이다. 중간 코덱의 이점은 최종 사용자 코덱보다 더 나은 화질을 보유하면서도 비압축 동영상 대비 디스크 시스템을 덜 차지한다는 점이다. 중간 코덱으로서 비슷한 비트레이트를 제공하는 아비드의 [DNxHD 코덱이나](https://ko.wikipedia.org/wiki/아비드_DNxHD "wikilink") [시네폼](https://ko.wikipedia.org/wiki/시네폼 "wikilink")과 비교된다. ProRes 422는 [DCT](https://ko.wikipedia.org/wiki/이산_코사인_변환 "wikilink") 기반\[2\] [프레임 간](https://ko.wikipedia.org/wiki/프레임_간_코딩 "wikilink") 전용 코덱이며 이러한 이유로 [H.264](https://ko.wikipedia.org/wiki/H.264 "wikilink")와 같은 배포 지향 포맷에 비해 디코딩하는 것이 더 단순하다.
+ProRes는 실질적으로 최종 사용자가 볼 동영상을 위한 것이 아닌, 영상 편집 중에 사용할 목적으로 개발된 중간 코덱 계열이다. 중간 코덱의 이점은 최종 사용자 코덱보다 더 나은 화질을 보유하면서도 비압축 동영상 대비 디스크 시스템을 덜 차지한다는 점이다. 중간 코덱으로서 비슷한 비트레이트를 제공하는 아비드의 [DNxHD 코덱이나](https://ko.wikipedia.org/wiki/아비드_DNxHD "wikilink") [시네폼](https://ko.wikipedia.org/wiki/시네폼 "wikilink")과 비교된다. ProRes 422는 [DCT](../Page/이산_코사인_변환.md "wikilink") 기반\[2\] [프레임 간](https://ko.wikipedia.org/wiki/프레임_간_코딩 "wikilink") 전용 코덱이며 이러한 이유로 [H.264](https://ko.wikipedia.org/wiki/H.264 "wikilink")와 같은 배포 지향 포맷에 비해 디코딩하는 것이 더 단순하다.
 
 <table>
 <thead>
 <tr class="header">
 <th><p>해상도</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/프레임_레이트" title="wikilink">fps</a></p></th>
+<th><p><a href="../Page/프레임_레이트.md" title="wikilink">fps</a></p></th>
 <th><p>ProRes 422<br />
 Proxy</p></th>
 <th><p>ProRes 422<br />
@@ -175,29 +175,29 @@ XQ<br />
 
 ### 주요 기능
 
-  - 8K, 5K, [4K](https://ko.wikipedia.org/wiki/4K_해상도 "wikilink"),UHD, 2K, HD (최대 1920×1080), & SD 해상도
+  - 8K, 5K, [4K](../Page/4K_해상도.md "wikilink"),UHD, 2K, HD (최대 1920×1080), & SD 해상도
   - [4:2:2](https://ko.wikipedia.org/wiki/4:2:2#4:2:2 "wikilink") 크로마 서브샘플링
   - 10비트 샘플 깊이
   - [I 프레임](https://ko.wikipedia.org/wiki/I-프레임 "wikilink") 전용 인코딩
-  - 가변 비트레이트 ([VBR](https://ko.wikipedia.org/wiki/가변_비트레이트 "wikilink")) 인코딩
+  - 가변 비트레이트 ([VBR](../Page/가변_비트레이트.md "wikilink")) 인코딩
   - HD 45Mbit/s HD 해상도 60i 기준 147 [Mbit/s](https://ko.wikipedia.org/wiki/Mbit/s "wikilink"), 고품질 220 Mbit/s, ProRes (LT) 100Mbit/s
   - 29.97의 SD 해상도 기준 보통 42 [Mbit/s](https://ko.wikipedia.org/wiki/Mbit/s "wikilink") 및 고품질 63 Mbit/초
   - 빠른 인코딩과 디보킹 (전체 크기 및 절반 크기 둘 다)
 
 ## ProRes 4444, ProRes 4444 XQ
 
-**ProRes 4444**, **ProRes 4444 XQ**는 [후반 작업을](https://ko.wikipedia.org/wiki/후반_작업 "wikilink") 위해 사용되는 [손실](https://ko.wikipedia.org/wiki/손실_압축 "wikilink") [비디오 압축](https://ko.wikipedia.org/wiki/데이터_압축 "wikilink") 포맷이며 알파 채널 지원을 포함한다.
+**ProRes 4444**, **ProRes 4444 XQ**는 [후반 작업을](https://ko.wikipedia.org/wiki/후반_작업 "wikilink") 위해 사용되는 [손실](../Page/손실_압축.md "wikilink") [비디오 압축](../Page/데이터_압축.md "wikilink") 포맷이며 알파 채널 지원을 포함한다.
 
 ProRes 4444는 파이널 컷 스튜디오 (2009년)과 함께 도입되었다.\[3\] 기타, 422, 애플의 ProRes 계열의 코덱들 중 다수의 기능들을 공유하지만 색 상세 면에서 422 HQ보다 더 나은 품질을 제공한다.\[4\] 1920x1080, 29.97 fps에서 4:4:4 소스를 기준으로 약 330 Mbit/초의 데이터 속도를 대상으로 한다.
 
-ProRes 4444 XQ는 2014년 6월 [파이널 컷 프로 X](https://ko.wikipedia.org/wiki/파이널_컷_프로_X "wikilink") 버전 10.1.2과 함께 도입되었다. 1920x1080, 29.97 fps에서 4:4:4 소스를 위해 약 500 Mbit/s의 데이터 속도를 대상으로 하며 OS X v10.8 (마운틴 라이언) 이상이 필요하다.
+ProRes 4444 XQ는 2014년 6월 [파이널 컷 프로 X](../Page/파이널_컷_프로_X.md "wikilink") 버전 10.1.2과 함께 도입되었다. 1920x1080, 29.97 fps에서 4:4:4 소스를 위해 약 500 Mbit/s의 데이터 속도를 대상으로 하며 OS X v10.8 (마운틴 라이언) 이상이 필요하다.
 
 ### 주요 기능
 
   - 8K, 5K, 4K, 2K, HD (최대 1920×1080), & SD 해상도\[5\]
   - 4:4:4 크로마 서브샘플링
   - 비디오를 위한 최대 12비트 샘플 깊이
-  - 가변 비트레이트 ([VBR](https://ko.wikipedia.org/wiki/가변_비트레이트 "wikilink")) 인코딩
+  - 가변 비트레이트 ([VBR](../Page/가변_비트레이트.md "wikilink")) 인코딩
   - 최대 16비트 샘플 깊이를 지원하는 알파 채널
 
 ## 프레임 레이아웃

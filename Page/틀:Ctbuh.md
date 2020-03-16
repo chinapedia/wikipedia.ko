@@ -19,6 +19,6 @@
 `   | {{#invoke:EditAtWikidata|showMessage|pid=P1305|``}}}}}``}|category=CTBUH Skyscraper Center building ID|namespaces=0|nocatsame=1}}`
 `   }}`</includeonly>
 
-| <span class="error">{{[Ctbuh](https://ko.wikipedia.org/wiki/틀:Ctbuh "wikilink")}} 틀에 ID가 없으면서 위키데이터에 존재하지 않습니다.</span>
+| <span class="error">{{[Ctbuh](../Page/틀:Ctbuh.md "wikilink")}} 틀에 ID가 없으면서 위키데이터에 존재하지 않습니다.</span>
 
 }}<noinclude>  </noinclude>

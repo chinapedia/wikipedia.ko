@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [APINK SINGLE COLLECTION](https://ko.wikipedia.org/wiki/APINK_SINGLE_COLLECTION).
 
 
-《**APINK SINGLE COLLECTION**》(에이핑크 싱글 컬렉션)은 [에이핑크](https://ko.wikipedia.org/wiki/에이핑크 "wikilink")의 [컴필레이션 음반이다](https://ko.wikipedia.org/wiki/컴필레이션_음반 "wikilink").
+《**APINK SINGLE COLLECTION**》(에이핑크 싱글 컬렉션)은 [에이핑크](../Page/에이핑크.md "wikilink")의 [컴필레이션 음반이다](https://ko.wikipedia.org/wiki/컴필레이션_음반 "wikilink").
 
 ## 개요
 

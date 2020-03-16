@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [2TV   ](https://ko.wikipedia.org/wiki/2TV___).
 
 
-아래는 [KBS 2TV의](https://ko.wikipedia.org/wiki/KBS_2TV "wikilink") **\<[2TV 생생정보](https://ko.wikipedia.org/wiki/2TV_생생정보 "wikilink")\>**의 방영 목록이다.
+아래는 [KBS 2TV의](../Page/KBS_2TV.md "wikilink") **\<[2TV 생생정보](../Page/2TV_생생정보.md "wikilink")\>**의 방영 목록이다.
 
 ## 방영 목록
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [C   ](https://ko.wikipedia.org/wiki/C___).
 
 
-**C 동적 메모리 할당**은 [동적 메모리 할당을](https://ko.wikipedia.org/wiki/동적_메모리_할당 "wikilink") 위한 [수동 메모리 관리를](https://ko.wikipedia.org/wiki/수동_메모리_관리 "wikilink") 수행하는 것을 말하며 [C에](https://ko.wikipedia.org/wiki/C_\(프로그래밍_언어\) "wikilink") 담긴 , ,  그리고  등의 함수를 말한다.\[1\]\[2\]\[3\]
+**C 동적 메모리 할당**은 [동적 메모리 할당을](../Page/동적_메모리_할당.md "wikilink") 위한 [수동 메모리 관리를](https://ko.wikipedia.org/wiki/수동_메모리_관리 "wikilink") 수행하는 것을 말하며 [C에](../Page/C_\(프로그래밍_언어\).md "wikilink") 담긴 , ,  그리고  등의 함수를 말한다.\[1\]\[2\]\[3\]
 
 [C++](https://ko.wikipedia.org/wiki/C++ "wikilink") 언어에는 C 언어와 호환되는 위의 함수들을 포함되나 기능적으로 유사한 [{{mono](https://ko.wikipedia.org/wiki/new_와_delete "wikilink") 오퍼레이터가 제공되며 이쪽을 사용하는 것이 권장된다.\[4\]
 

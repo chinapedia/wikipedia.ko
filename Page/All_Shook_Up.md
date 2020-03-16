@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [All Shook Up](https://ko.wikipedia.org/wiki/All_Shook_Up).
 
 
-〈**All Shook Up**〉은 [엘비스 프레슬리의](https://ko.wikipedia.org/wiki/엘비스_프레슬리 "wikilink") 노래이며 엘비스 프레슬리 뮤직이 유통하고 [오티스 블랙웰이](https://ko.wikipedia.org/wiki/오티스_블랙웰 "wikilink") 작곡을 맡았다. 싱글은 1957년 4월 13일, 미국 [빌보드 핫 100](https://ko.wikipedia.org/wiki/빌보드_핫_100 "wikilink") 정상에 올라 8주 머물렀다.\[1\] 《빌보드》 [R\&B 차트에서는](https://ko.wikipedia.org/wiki/R&B_차트 "wikilink") 두 번째로 정상에 올라 4주간 머물렀다. 컨트리 차트에서 1위를 차지하기도 했다.\[2\] [RIAA에](https://ko.wikipedia.org/wiki/미국_음반_산업_협회 "wikilink") 의해 이중 플래티넘 인증을 받는다.
+〈**All Shook Up**〉은 [엘비스 프레슬리의](../Page/엘비스_프레슬리.md "wikilink") 노래이며 엘비스 프레슬리 뮤직이 유통하고 [오티스 블랙웰이](../Page/오티스_블랙웰.md "wikilink") 작곡을 맡았다. 싱글은 1957년 4월 13일, 미국 [빌보드 핫 100](../Page/빌보드_핫_100.md "wikilink") 정상에 올라 8주 머물렀다.\[1\] 《빌보드》 [R\&B 차트에서는](https://ko.wikipedia.org/wiki/R&B_차트 "wikilink") 두 번째로 정상에 올라 4주간 머물렀다. 컨트리 차트에서 1위를 차지하기도 했다.\[2\] [RIAA에](../Page/미국_음반_산업_협회.md "wikilink") 의해 이중 플래티넘 인증을 받는다.
 
-《[롤링 스톤](https://ko.wikipedia.org/wiki/롤링_스톤 "wikilink")》 [역대 최고의 노래 500곡에서](https://ko.wikipedia.org/wiki/역대_최고의_노래_500곡 "wikilink") 352위로 간택됐다.
+《[롤링 스톤](../Page/롤링_스톤.md "wikilink")》 [역대 최고의 노래 500곡에서](https://ko.wikipedia.org/wiki/역대_최고의_노래_500곡 "wikilink") 352위로 간택됐다.
 
 ## 역사
 
@@ -11,9 +11,9 @@
 
 데이비드 힐을 예명으로 사용한 [데이비드 헤스는](https://ko.wikipedia.org/wiki/데이비드_헤스 "wikilink") 처음 노래를 녹음한 사람으로 엘비스 전에 〈I'm All Shook Up〉 제목으로 [알라딘 레코드에서](https://ko.wikipedia.org/wiki/알라딘_레코드 "wikilink") 발표했다. 2009년 인터뷰에서 헤스는 곡의 기원을 다음과 같이 설명했다. "'All Shook Up'의 제목은 실화를 바탕으로 떠올린 것인데, 저는 그런 노래를 쓰지 않기로 했지만, 오티스 블랙웰이 써서 알라딘 레코드에서 처음 녹음하게 되었죠. 내가 지은 제목이지만 오티스가 쓴 곡이고, 프레슬리가 음반 취입하려고 작곡 크레디트를 가져갔어요. 그 시절에는 일상같은 일이었죠."\[6\]\[7\]\[8\]
 
-1956년 빌 벨먼과 할 블레인이 작곡, 빅 데이스 앤 히즈 오케스트라가 동원된 [비키 영의](https://ko.wikipedia.org/wiki/비키_영 "wikilink") 노래, 〈(I'm) All Shook Up〉은 제목은 같지만 다른 노래다. [캐피틀 레코드에서](https://ko.wikipedia.org/wiki/캐피틀_레코드 "wikilink") 출시했다.\[9\]
+1956년 빌 벨먼과 할 블레인이 작곡, 빅 데이스 앤 히즈 오케스트라가 동원된 [비키 영의](https://ko.wikipedia.org/wiki/비키_영 "wikilink") 노래, 〈(I'm) All Shook Up〉은 제목은 같지만 다른 노래다. [캐피틀 레코드에서](../Page/캐피틀_레코드.md "wikilink") 출시했다.\[9\]
 
-1957년 1월 12일 프레슬리는 할리우드의 라디오 레코더에서 녹음했다.\[10\] 듀엣 보컬은 [조더네이어스](https://ko.wikipedia.org/wiki/조더네이어스 "wikilink")의 맏테너 고든 스토커가 임했다. 테이크 10이 발매되기로 선정되었고 3월에 빌보드 톱 100 차트 25위로 첫 진입했다.\[11\] 3주 동안 [페리 코모의](https://ko.wikipedia.org/wiki/페리_코모 "wikilink") 〈Round and Round〉을 두들기다 정상을 차지, 8주 머물렀다.\[12\] 프레슬리의 첫 영국 싱글 차트 1위 곡으로 7주 지속했다.\[13\] 2백만 장 넘게 판매됐고\[14\] 빌보드 연말 1위 노래로 지정됐다.
+1957년 1월 12일 프레슬리는 할리우드의 라디오 레코더에서 녹음했다.\[10\] 듀엣 보컬은 [조더네이어스](../Page/조더네이어스.md "wikilink")의 맏테너 고든 스토커가 임했다. 테이크 10이 발매되기로 선정되었고 3월에 빌보드 톱 100 차트 25위로 첫 진입했다.\[11\] 3주 동안 [페리 코모의](https://ko.wikipedia.org/wiki/페리_코모 "wikilink") 〈Round and Round〉을 두들기다 정상을 차지, 8주 머물렀다.\[12\] 프레슬리의 첫 영국 싱글 차트 1위 곡으로 7주 지속했다.\[13\] 2백만 장 넘게 판매됐고\[14\] 빌보드 연말 1위 노래로 지정됐다.
 
 ## 차트 성적
 
@@ -27,23 +27,23 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>미국 《<a href="https://ko.wikipedia.org/wiki/빌보드" title="wikilink">빌보드</a>》 <a href="https://ko.wikipedia.org/wiki/빌보드_핫_100" title="wikilink">더 핫 100</a></p></td>
+<td><p>미국 《<a href="../Page/빌보드.md" title="wikilink">빌보드</a>》 <a href="../Page/빌보드_핫_100.md" title="wikilink">더 핫 100</a></p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p>미국 《<a href="https://ko.wikipedia.org/wiki/빌보드" title="wikilink">빌보드</a>》 《<a href="https://ko.wikipedia.org/wiki/베스트_셀러_인_스토어" title="wikilink">베스트 셀러 인 스토어</a>》</p></td>
+<td><p>미국 《<a href="../Page/빌보드.md" title="wikilink">빌보드</a>》 《<a href="https://ko.wikipedia.org/wiki/베스트_셀러_인_스토어" title="wikilink">베스트 셀러 인 스토어</a>》</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
-<td><p>미국 《<a href="https://ko.wikipedia.org/wiki/빌보드" title="wikilink">빌보드</a>》 《<a href="https://ko.wikipedia.org/wiki/빌보드_핫_100" title="wikilink">자키가 가장 많이 재생한 곡</a>》</p></td>
+<td><p>미국 《<a href="../Page/빌보드.md" title="wikilink">빌보드</a>》 《<a href="../Page/빌보드_핫_100.md" title="wikilink">자키가 가장 많이 재생한 곡</a>》</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p>미국 《<a href="https://ko.wikipedia.org/wiki/빌보드" title="wikilink">빌보드</a>》 《<a href="https://ko.wikipedia.org/wiki/빌보드_핫_100" title="wikilink">주크박스에서 가장 많이 재생된 곡</a>》</p></td>
+<td><p>미국 《<a href="../Page/빌보드.md" title="wikilink">빌보드</a>》 《<a href="../Page/빌보드_핫_100.md" title="wikilink">주크박스에서 가장 많이 재생된 곡</a>》</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
-<td><p>미국 《<a href="https://ko.wikipedia.org/wiki/빌보드" title="wikilink">빌보드</a>》 《<a href="https://ko.wikipedia.org/wiki/빌보드_핫_100" title="wikilink">핫 컨트리 송</a>》</p></td>
+<td><p>미국 《<a href="../Page/빌보드.md" title="wikilink">빌보드</a>》 《<a href="../Page/빌보드_핫_100.md" title="wikilink">핫 컨트리 송</a>》</p></td>
 <td><p>1</p></td>
 </tr>
 </tbody>

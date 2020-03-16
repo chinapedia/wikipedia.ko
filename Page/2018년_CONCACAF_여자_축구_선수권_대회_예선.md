@@ -5,7 +5,7 @@
 
 ## 중앙아메리카 지역 예선
 
-중앙아메리카 지역 예선은 원래 [니카라과](https://ko.wikipedia.org/wiki/니카라과 "wikilink")에서 열릴 예정이었지만 니카라과에서 일어난 반정부 시위의 여파로 인해 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [브레이든턴](../Page/브레이든턴.md "wikilink")에서 대신 열리게 되었다. 1, 2위를 기록한 팀이 본선에 진출한다.
+중앙아메리카 지역 예선은 원래 [니카라과](../Page/니카라과.md "wikilink")에서 열릴 예정이었지만 니카라과에서 일어난 반정부 시위의 여파로 인해 [미국](../Page/미국.md "wikilink") [브레이든턴](../Page/브레이든턴.md "wikilink")에서 대신 열리게 되었다. 1, 2위를 기록한 팀이 본선에 진출한다.
 
 <table>
 <thead>
@@ -85,7 +85,7 @@
 
 ## 카리브 해 지역 예선
 
-카리브 해 지역 예선은 2라운드에 걸쳐 진행된다. 1라운드 A조 경기는 [도미니카 공화국에서](https://ko.wikipedia.org/wiki/도미니카_공화국 "wikilink"), B조 경기는 [아이티](https://ko.wikipedia.org/wiki/아이티 "wikilink")에서, C조 경기는 [트리니다드 토바고에서](https://ko.wikipedia.org/wiki/트리니다드_토바고 "wikilink"), D조 경기는 [앤티가 바부다에서](https://ko.wikipedia.org/wiki/앤티가_바부다 "wikilink"), E조 경기는 [가이아나](https://ko.wikipedia.org/wiki/가이아나 "wikilink")에서 열린다. 1라운드에서 각 조 1위를 차지한 팀은 2라운드로 진출한다. 2라운드 경기는 [자메이카](https://ko.wikipedia.org/wiki/자메이카 "wikilink") [킹스턴](https://ko.wikipedia.org/wiki/킹스턴 "wikilink")에서 열린다. 2라운드에서 1, 2, 3위를 기록한 팀이 본선에 진출한다.
+카리브 해 지역 예선은 2라운드에 걸쳐 진행된다. 1라운드 A조 경기는 [도미니카 공화국에서](../Page/도미니카_공화국.md "wikilink"), B조 경기는 [아이티](../Page/아이티.md "wikilink")에서, C조 경기는 [트리니다드 토바고에서](../Page/트리니다드_토바고.md "wikilink"), D조 경기는 [앤티가 바부다에서](../Page/앤티가_바부다.md "wikilink"), E조 경기는 [가이아나](../Page/가이아나.md "wikilink")에서 열린다. 1라운드에서 각 조 1위를 차지한 팀은 2라운드로 진출한다. 2라운드 경기는 [자메이카](../Page/자메이카.md "wikilink") [킹스턴](../Page/킹스턴.md "wikilink")에서 열린다. 2라운드에서 1, 2, 3위를 기록한 팀이 본선에 진출한다.
 
 ### 1라운드
 

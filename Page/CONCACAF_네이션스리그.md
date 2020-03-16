@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [CONCACAF ](https://ko.wikipedia.org/wiki/CONCACAF_).
 
 
-**CONCACAF 네이션스리그**(CONCACAF Nations League)는 [북중미카리브 축구 연맹](https://ko.wikipedia.org/wiki/북중미카리브_축구_연맹 "wikilink")(CONCACAF) 회원국의 국가대표팀이 참가하는 국가 대항 축구 대회이다.
+**CONCACAF 네이션스리그**(CONCACAF Nations League)는 [북중미카리브 축구 연맹](../Page/북중미카리브_축구_연맹.md "wikilink")(CONCACAF) 회원국의 국가대표팀이 참가하는 국가 대항 축구 대회이다.
 
 ## 시즌
 
-2017년 4월 8일에 [아루바](https://ko.wikipedia.org/wiki/아루바 "wikilink") [오라녜스타트에서](https://ko.wikipedia.org/wiki/오라녜스타트_\(아루바\) "wikilink") 열린 CONCACAF 총회에서 CONCACAF 네이션스리그 신설 계획이 승인되었으며 2017년 11월에 정식으로 신설되었다.
+2017년 4월 8일에 [아루바](../Page/아루바.md "wikilink") [오라녜스타트에서](../Page/오라녜스타트_\(아루바\).md "wikilink") 열린 CONCACAF 총회에서 CONCACAF 네이션스리그 신설 계획이 승인되었으며 2017년 11월에 정식으로 신설되었다.
 
 2019년부터 2020년까지 CONCACAF 네이션스리그의 1번째 시즌이 열렸는데 [2019-20년 CONCACAF 네이션스리그 예선은](https://ko.wikipedia.org/wiki/2019-20년_CONCACAF_네이션스리그_예선 "wikilink") [2019년 CONCACAF 골드컵](../Page/2019년_CONCACAF_골드컵.md "wikilink") 예선과 연계되어 진행되었고 [2019-20년 CONCACAF 네이션스리그](https://ko.wikipedia.org/wiki/2019-20년_CONCACAF_네이션스리그 "wikilink") 본선은 [2021년 CONCACAF 골드컵](../Page/2021년_CONCACAF_골드컵.md "wikilink") 예선과 연계되어 진행되었다.
 
@@ -45,7 +45,7 @@
 
 ## 같이 보기
 
-  - [CONCACAF 골드컵](https://ko.wikipedia.org/wiki/CONCACAF_골드컵 "wikilink")
+  - [CONCACAF 골드컵](../Page/CONCACAF_골드컵.md "wikilink")
 
 ## 외부 링크
 

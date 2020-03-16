@@ -7,7 +7,7 @@
 
 [PD-icon.svg](https://ko.wikipedia.org/wiki/File:PD-icon.svg "fig:PD-icon.svg") 
 
-`               |  `[`Wikisource-logo.svg`](https://ko.wikipedia.org/wiki/File:Wikisource-logo.svg "fig:Wikisource-logo.svg")` }} }} {{#if:``|이 글은 현재 `[`퍼블릭``   ``도메인이`](https://ko.wikipedia.org/wiki/퍼블릭_도메인 "wikilink")`  된 출판물의 내용과 연결: |}}  ``}`
+`               |  `[`Wikisource-logo.svg`](https://ko.wikipedia.org/wiki/File:Wikisource-logo.svg "fig:Wikisource-logo.svg")` }} }} {{#if:``|이 글은 현재 `[`퍼블릭``   ``도메인이`](../Page/퍼블릭_도메인.md "wikilink")`  된 출판물의 내용과 연결: |}}  ``}`
 `| first = `
 `| authorlink = `
 `| editor-first= {{#if: ``| |{{#if: `` | {{#if: `` | Sidney | {{#ifexpr: `` < 26  | Leslie | Sidney  }} }} | }} }}`
@@ -16,7 +16,7 @@
 `| editor2-first= {{#if: ``| |{{#if: ``| | {{#switch:`` | 21 | 22 | 23 | 24 | 25  = Sidney}} }} }}`
 `| editor2-last= {{#if: ``| |{{#if: ``| | {{#switch:`` | 21 | 22 | 23 | 24 | 25  = Lee}} }} }}`
 `| editor2link={{#if: ``| | {{#if: ``| | {{#switch:`` | 21 | 22 | 23 | 24 | 25  = Sidney Lee}} }} }}`
-`| encyclopedia = `[`영국인명사전`](https://ko.wikipedia.org/wiki/영국인명사전 "wikilink")` {{#if: `` | (1차 보완) |}}{{#if: `` | (2차 보완) |}}`
+`| encyclopedia = `[`영국인명사전`](../Page/영국인명사전.md "wikilink")` {{#if: `` | (1차 보완) |}}{{#if: `` | (2차 보완) |}}`
 
 `| title = {{#ifeq: ``| |`
 `                  ``  }}} `

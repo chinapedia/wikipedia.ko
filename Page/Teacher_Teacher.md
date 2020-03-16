@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Teacher Teacher](https://ko.wikipedia.org/wiki/Teacher_Teacher).
 
 
-〈Teacher Teacher〉는 [AKB48](https://ko.wikipedia.org/wiki/AKB48 "wikilink")의 52번째 싱글이다.
+〈Teacher Teacher〉는 [AKB48](../Page/AKB48.md "wikilink")의 52번째 싱글이다.
 
 ## 개요
 
@@ -146,39 +146,39 @@
 
 (센터:오구리 유이)
 
-## [AKB48](https://ko.wikipedia.org/wiki/AKB48 "wikilink")/[NGT48](https://ko.wikipedia.org/wiki/NGT48 "wikilink")/[STU48](../Page/STU48.md "wikilink")
+## [AKB48](../Page/AKB48.md "wikilink")/[NGT48](https://ko.wikipedia.org/wiki/NGT48 "wikilink")/[STU48](../Page/STU48.md "wikilink")
 
-[카토 레나](https://ko.wikipedia.org/wiki/카토_레나 "wikilink"), [무카이치 미온](../Page/무카이치_미온.md "wikilink"), [요코야마 유이](https://ko.wikipedia.org/wiki/요코야마_유이 "wikilink"), [코지마 마코](../Page/코지마_마코.md "wikilink"), [코미야마 하루카](../Page/코미야마_하루카.md "wikilink"), [카시와기 유키](https://ko.wikipedia.org/wiki/카시와기_유키 "wikilink"), 쿠보 사토네, [타카하시 쥬리](https://ko.wikipedia.org/wiki/타카하시_쥬리 "wikilink"), [후쿠오카 세이나](../Page/후쿠오카_세이나.md "wikilink"), [오카다 나나](../Page/오카다_나나.md "wikilink"), [무라야마 유이리](https://ko.wikipedia.org/wiki/무라야마_유이리 "wikilink"), 야마우치 미즈키, [오카베 린](https://ko.wikipedia.org/wiki/오카베_린 "wikilink"), [오구리 유이](../Page/오구리_유이.md "wikilink"), [오기노 유카](../Page/오기노_유카.md "wikilink"), [나카이 리카](https://ko.wikipedia.org/wiki/나카이_리카 "wikilink"), [타키노 유미코](https://ko.wikipedia.org/wiki/타키노_유미코 "wikilink")
+[카토 레나](../Page/카토_레나.md "wikilink"), [무카이치 미온](../Page/무카이치_미온.md "wikilink"), [요코야마 유이](../Page/요코야마_유이.md "wikilink"), [코지마 마코](../Page/코지마_마코.md "wikilink"), [코미야마 하루카](../Page/코미야마_하루카.md "wikilink"), [카시와기 유키](../Page/카시와기_유키.md "wikilink"), 쿠보 사토네, [타카하시 쥬리](https://ko.wikipedia.org/wiki/타카하시_쥬리 "wikilink"), [후쿠오카 세이나](../Page/후쿠오카_세이나.md "wikilink"), [오카다 나나](../Page/오카다_나나.md "wikilink"), [무라야마 유이리](../Page/무라야마_유이리.md "wikilink"), 야마우치 미즈키, [오카베 린](../Page/오카베_린.md "wikilink"), [오구리 유이](../Page/오구리_유이.md "wikilink"), [오기노 유카](../Page/오기노_유카.md "wikilink"), [나카이 리카](https://ko.wikipedia.org/wiki/나카이_리카 "wikilink"), [타키노 유미코](https://ko.wikipedia.org/wiki/타키노_유미코 "wikilink")
 
-## [SKE48](https://ko.wikipedia.org/wiki/SKE48 "wikilink")
+## [SKE48](../Page/SKE48.md "wikilink")
 
-[마츠이 쥬리나](https://ko.wikipedia.org/wiki/마츠이_쥬리나 "wikilink"), 오바타 유나, [스다 아카리](https://ko.wikipedia.org/wiki/스다_아카리 "wikilink")
+[마츠이 쥬리나](../Page/마츠이_쥬리나.md "wikilink"), 오바타 유나, [스다 아카리](../Page/스다_아카리.md "wikilink")
 
-## [NMB48](https://ko.wikipedia.org/wiki/NMB48 "wikilink")
+## [NMB48](../Page/NMB48.md "wikilink")
 
-[야마모토 아야카](https://ko.wikipedia.org/wiki/야마모토_아야카 "wikilink"), [야마모토 사야카](https://ko.wikipedia.org/wiki/야마모토_사야카 "wikilink"), [시로마 미루](https://ko.wikipedia.org/wiki/시로마_미루 "wikilink"), [요시다 아카리](https://ko.wikipedia.org/wiki/요시다_아카리 "wikilink")
+[야마모토 아야카](https://ko.wikipedia.org/wiki/야마모토_아야카 "wikilink"), [야마모토 사야카](https://ko.wikipedia.org/wiki/야마모토_사야카 "wikilink"), [시로마 미루](../Page/시로마_미루.md "wikilink"), [요시다 아카리](https://ko.wikipedia.org/wiki/요시다_아카리 "wikilink")
 
-## [HKT48](https://ko.wikipedia.org/wiki/HKT48 "wikilink")
+## [HKT48](../Page/HKT48.md "wikilink")
 
-[사시하라 리노](https://ko.wikipedia.org/wiki/사시하라_리노 "wikilink"), [마츠오카 하나](../Page/마츠오카_하나.md "wikilink")
+[사시하라 리노](../Page/사시하라_리노.md "wikilink"), [마츠오카 하나](../Page/마츠오카_하나.md "wikilink")
 
-## [아이즈원](https://ko.wikipedia.org/wiki/아이즈원 "wikilink")
+## [아이즈원](../Page/아이즈원.md "wikilink")
 
-[야부키 나코](../Page/야부키_나코.md "wikilink"), [미야와키 사쿠라](https://ko.wikipedia.org/wiki/미야와키_사쿠라 "wikilink")
+[야부키 나코](../Page/야부키_나코.md "wikilink"), [미야와키 사쿠라](../Page/미야와키_사쿠라.md "wikilink")
 
 ### 너는 나의 바람
 
 **AKB48 그룹 센터 시험 선발** (센터:무카이치 미온)
 
-## [AKB48](https://ko.wikipedia.org/wiki/AKB48 "wikilink")/[NGT48](https://ko.wikipedia.org/wiki/NGT48 "wikilink")
+## [AKB48](../Page/AKB48.md "wikilink")/[NGT48](https://ko.wikipedia.org/wiki/NGT48 "wikilink")
 
-[이리야마 안나](https://ko.wikipedia.org/wiki/이리야마_안나 "wikilink"), 무카이치 미온, 요코야마 유이, [이와타테 사호](https://ko.wikipedia.org/wiki/이와타테_사호 "wikilink"), 카시와기 유키, [사사키 유카리](../Page/사사키_유카리.md "wikilink"), 후쿠오카 세이나, [카와모토 사야](../Page/카와모토_사야.md "wikilink"), [오다 에리나](../Page/오다_에리나.md "wikilink"), 쿠사카베 아이나, 무라쿠모 후우카
+[이리야마 안나](../Page/이리야마_안나.md "wikilink"), 무카이치 미온, 요코야마 유이, [이와타테 사호](../Page/이와타테_사호.md "wikilink"), 카시와기 유키, [사사키 유카리](../Page/사사키_유카리.md "wikilink"), 후쿠오카 세이나, [카와모토 사야](../Page/카와모토_사야.md "wikilink"), [오다 에리나](../Page/오다_에리나.md "wikilink"), 쿠사카베 아이나, 무라쿠모 후우카
 
-## [SKE48](https://ko.wikipedia.org/wiki/SKE48 "wikilink")
+## [SKE48](../Page/SKE48.md "wikilink")
 
 츠즈키 리카, 아라이 유키
 
-## [HKT48](https://ko.wikipedia.org/wiki/HKT48 "wikilink")
+## [HKT48](../Page/HKT48.md "wikilink")
 
 사카구치 리코, 사시하라 리노, 후치가미 마이
 
@@ -188,7 +188,7 @@
 
 (센터:오구리 유이)
 
-  - 이리야마 안나, 오카베 린, 오쿠모토 히나노, 오구리 유이, 카토 레나, [고토 모에](https://ko.wikipedia.org/wiki/고토_모에 "wikilink"), [시타오 미우](https://ko.wikipedia.org/wiki/시타오_미우 "wikilink"), 시노자키 아야나, 시모아오키 카린, 스즈키 쿠루미, 타구치 마나카, 타니카와 히지리, 치바 에리이, 쵸 쿠레나, 니시카와 레이, 히토미 코토네, [미야자키 미호](https://ko.wikipedia.org/wiki/미야자키_미호 "wikilink"), 무카이치 미온, 요코야마 유이, 요시다 카렌
+  - 이리야마 안나, 오카베 린, 오쿠모토 히나노, 오구리 유이, 카토 레나, [고토 모에](https://ko.wikipedia.org/wiki/고토_모에 "wikilink"), [시타오 미우](../Page/시타오_미우.md "wikilink"), 시노자키 아야나, 시모아오키 카린, 스즈키 쿠루미, 타구치 마나카, 타니카와 히지리, 치바 에리이, 쵸 쿠레나, 니시카와 레이, 히토미 코토네, [미야자키 미호](../Page/미야자키_미호.md "wikilink"), 무카이치 미온, 요코야마 유이, 요시다 카렌
 
 ### 막차의 밤
 
@@ -196,7 +196,7 @@
 
 (센터:쿠라노오 나루미)
 
-  - 이치카와 마나미, 오다 에리나, [쿠라노오 나루미](../Page/쿠라노오_나루미.md "wikilink"), 코지마 마코, 코미야마 하루카, 시모구치 히나나, 테라다 미사키, [나카노 이쿠미](../Page/나카노_이쿠미.md "wikilink"), 노자와 레나, 하시모토 하루나, 하루모토 유키, 히다리토모 아야카, [후지타 나나](../Page/후지타_나나.md "wikilink"), [미네기시 미나미](https://ko.wikipedia.org/wiki/미네기시_미나미 "wikilink"), 무토 오린, [무토 토무](../Page/무토_토무.md "wikilink"), [모기 시노부](../Page/모기_시노부.md "wikilink"), 야구치 모카, 야스다 카나, 야마다 쿄카, 야마다 나나미, 유모토 아미, 요코야마 유이(8)
+  - 이치카와 마나미, 오다 에리나, [쿠라노오 나루미](../Page/쿠라노오_나루미.md "wikilink"), 코지마 마코, 코미야마 하루카, 시모구치 히나나, 테라다 미사키, [나카노 이쿠미](../Page/나카노_이쿠미.md "wikilink"), 노자와 레나, 하시모토 하루나, 하루모토 유키, 히다리토모 아야카, [후지타 나나](../Page/후지타_나나.md "wikilink"), [미네기시 미나미](../Page/미네기시_미나미.md "wikilink"), 무토 오린, [무토 토무](../Page/무토_토무.md "wikilink"), [모기 시노부](../Page/모기_시노부.md "wikilink"), 야구치 모카, 야스다 카나, 야마다 쿄카, 야마다 나나미, 유모토 아미, 요코야마 유이(8)
 
 ### 새로운 차임
 
@@ -204,7 +204,7 @@
 
 (센터:쿠보 사토네)
 
-  - 이와타테 사호, 오오타 나오, [오오야 시즈카](https://ko.wikipedia.org/wiki/오오야_시즈카 "wikilink"), 오쿠하라 히나코, 카시와기 유키, 카와하라 미사키, 키타자와 사키, 쿠보 사토네, 사사키 유카리, 사토 아카리, 사토 시오리, 시미즈 마리아, 다카하시 쥬리, 타키타 카요코, [타케우치 미유](https://ko.wikipedia.org/wiki/타케우치_미유 "wikilink"), [타니구치 메구](../Page/타니구치_메구.md "wikilink"), [나카니시 치요리](https://ko.wikipedia.org/wiki/나카니시_치요리 "wikilink"), 핫토리 유우나, [히와타시 유이](../Page/히와타시_유이.md "wikilink"), 후쿠오카 세이나, [혼다 히토미](https://ko.wikipedia.org/wiki/혼다_히토미 "wikilink"), 야마베 아유, 야마모토 루카, 요시카와 나나세
+  - 이와타테 사호, 오오타 나오, [오오야 시즈카](https://ko.wikipedia.org/wiki/오오야_시즈카 "wikilink"), 오쿠하라 히나코, 카시와기 유키, 카와하라 미사키, 키타자와 사키, 쿠보 사토네, 사사키 유카리, 사토 아카리, 사토 시오리, 시미즈 마리아, 다카하시 쥬리, 타키타 카요코, [타케우치 미유](../Page/타케우치_미유.md "wikilink"), [타니구치 메구](../Page/타니구치_메구.md "wikilink"), [나카니시 치요리](https://ko.wikipedia.org/wiki/나카니시_치요리 "wikilink"), 핫토리 유우나, [히와타시 유이](../Page/히와타시_유이.md "wikilink"), 후쿠오카 세이나, [혼다 히토미](../Page/혼다_히토미.md "wikilink"), 야마베 아유, 야마모토 루카, 요시카와 나나세
 
 ### 고양이 알레르기
 

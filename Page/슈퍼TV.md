@@ -7,21 +7,21 @@
 
   - [이특](https://ko.wikipedia.org/wiki/이특_\(가수\) "wikilink")
   - [희철](https://ko.wikipedia.org/wiki/희철 "wikilink")
-  - [예성](https://ko.wikipedia.org/wiki/예성 "wikilink")
-  - [신동](https://ko.wikipedia.org/wiki/신동_\(가수\) "wikilink")
-  - [은혁](https://ko.wikipedia.org/wiki/은혁 "wikilink")
-  - [동해](https://ko.wikipedia.org/wiki/동해_\(가수\) "wikilink")
+  - [예성](../Page/예성.md "wikilink")
+  - [신동](../Page/신동_\(가수\).md "wikilink")
+  - [은혁](../Page/은혁.md "wikilink")
+  - [동해](../Page/동해_\(가수\).md "wikilink")
 
 ## 시즌 2 출연자
 
   - [이특](https://ko.wikipedia.org/wiki/이특_\(가수\) "wikilink")
   - [희철](https://ko.wikipedia.org/wiki/희철 "wikilink")
-  - [예성](https://ko.wikipedia.org/wiki/예성 "wikilink")
-  - [신동](https://ko.wikipedia.org/wiki/신동_\(가수\) "wikilink")
-  - [은혁](https://ko.wikipedia.org/wiki/은혁 "wikilink")
-  - [동해](https://ko.wikipedia.org/wiki/동해_\(가수\) "wikilink")
+  - [예성](../Page/예성.md "wikilink")
+  - [신동](../Page/신동_\(가수\).md "wikilink")
+  - [은혁](../Page/은혁.md "wikilink")
+  - [동해](../Page/동해_\(가수\).md "wikilink")
   - [시원](../Page/시원_\(가수\).md "wikilink")
-  - [려욱](https://ko.wikipedia.org/wiki/려욱 "wikilink") (제대 후 11회부터 합류)
+  - [려욱](../Page/려욱.md "wikilink") (제대 후 11회부터 합류)
 
 ## 방영 목록
 

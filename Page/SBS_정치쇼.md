@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SBS ](https://ko.wikipedia.org/wiki/SBS_).
 
 
-《**이재익의 정치쇼**》는 [SBS 러브FM에서](https://ko.wikipedia.org/wiki/SBS_러브FM "wikilink") 방송되는 정치 전문 라디오 프로그램이다.
+《**이재익의 정치쇼**》는 [SBS 러브FM에서](../Page/SBS_러브FM.md "wikilink") 방송되는 정치 전문 라디오 프로그램이다.
 
 ## 청취 가능 지역
 
@@ -24,17 +24,17 @@
 
 ## 역대 진행자
 
-  - 1대 - [정봉주](https://ko.wikipedia.org/wiki/정봉주 "wikilink") : [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [3월 6일](https://ko.wikipedia.org/wiki/3월_6일 "wikilink") \~ [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [3월 2일](https://ko.wikipedia.org/wiki/3월_2일 "wikilink")
-  - 2대 - [김용민](https://ko.wikipedia.org/wiki/김용민_\(1974년\) "wikilink") : [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [3월 5일](https://ko.wikipedia.org/wiki/3월_5일 "wikilink") \~ [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [11월 28일](https://ko.wikipedia.org/wiki/11월_28일 "wikilink")
-  - 임시진행 - [고현준](https://ko.wikipedia.org/wiki/고현준 "wikilink") : [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [11월 29일](https://ko.wikipedia.org/wiki/11월_29일 "wikilink") \~ [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [12월 8일](https://ko.wikipedia.org/wiki/12월_8일 "wikilink")
-  - 3대 - [이재익](https://ko.wikipedia.org/wiki/이재익_\(소설가\) "wikilink") : [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [12월 10일](https://ko.wikipedia.org/wiki/12월_10일 "wikilink") \~ 현재
+  - 1대 - [정봉주](../Page/정봉주.md "wikilink") : [2017년](../Page/2017년.md "wikilink") [3월 6일](../Page/3월_6일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [3월 2일](../Page/3월_2일.md "wikilink")
+  - 2대 - [김용민](../Page/김용민_\(1974년\).md "wikilink") : [2018년](../Page/2018년.md "wikilink") [3월 5일](../Page/3월_5일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [11월 28일](../Page/11월_28일.md "wikilink")
+  - 임시진행 - [고현준](../Page/고현준.md "wikilink") : [2018년](../Page/2018년.md "wikilink") [11월 29일](../Page/11월_29일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [12월 8일](../Page/12월_8일.md "wikilink")
+  - 3대 - [이재익](../Page/이재익_\(소설가\).md "wikilink") : [2018년](../Page/2018년.md "wikilink") [12월 10일](../Page/12월_10일.md "wikilink") \~ 현재
 
 ## 지역 민방 프로그램
 
-| 프로그램                                                         | 지역                                                                                                             | 방송국                                   | 진행자 |
-| ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- | ------------------------------------- | --- |
-| [러브포텐 박민설입니다](https://ko.wikipedia.org/wiki/러브포텐 "wikilink") | [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink"), [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink") | [KNN](../Page/KNN_러브FM.md "wikilink") | 박민설 |
-|                                                              |                                                                                                                |                                       |     |
+| 프로그램                                      | 지역                                                                                                             | 방송국                                   | 진행자 |
+| ----------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------- | --- |
+| [러브포텐 박민설입니다](../Page/러브포텐.md "wikilink") | [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink"), [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink") | [KNN](../Page/KNN_러브FM.md "wikilink") | 박민설 |
+|                                           |                                                                                                                |                                       |     |
 
 ## 외부 링크
 

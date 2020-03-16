@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Polaris \( \)](https://ko.wikipedia.org/wiki/Polaris_\(_\)).
 
 
-***Polaris***는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 가수 [강타](https://ko.wikipedia.org/wiki/강타 "wikilink")의 첫 번째 솔로 정규 음반이다.
+***Polaris***는 [대한민국](../Page/대한민국.md "wikilink")의 가수 [강타](../Page/강타.md "wikilink")의 첫 번째 솔로 정규 음반이다.
 
 ## 수록곡
 

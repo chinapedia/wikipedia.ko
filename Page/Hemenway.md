@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Hemenway](https://ko.wikipedia.org/wiki/Hemenway).
 
 
-**헤멘웨이**()는 일본의 록밴드이다. [버클리 음악 대학의](https://ko.wikipedia.org/wiki/버클리_음악_대학 "wikilink") 졸업생 4명으로 구성됐으며, 2011년에 메이저 데뷔를 했다.
+**헤멘웨이**()는 일본의 록밴드이다. [버클리 음악 대학의](../Page/버클리_음악_대학.md "wikilink") 졸업생 4명으로 구성됐으며, 2011년에 메이저 데뷔를 했다.
 
 ## 멤버
 
@@ -18,8 +18,8 @@
 Isaac</p></td>
 <td style="text-align: center;"><ul>
 <li>생년월일 : 1987년 5월 13일생[1].</li>
-<li>출생지 : <a href="https://ko.wikipedia.org/wiki/대한민국" title="wikilink">대한민국</a> <a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울특별시</a></li>
-<li>학력 : <a href="https://ko.wikipedia.org/wiki/버클리_음악_대학" title="wikilink">버클리 음악 대학</a> 송라이팅 전공[2].</li>
+<li>출생지 : <a href="../Page/대한민국.md" title="wikilink">대한민국</a> <a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></li>
+<li>학력 : <a href="../Page/버클리_음악_대학.md" title="wikilink">버클리 음악 대학</a> 송라이팅 전공[2].</li>
 <li>포지션 : 보컬 &amp; 기타</li>
 <li>12세 때 미국으로 이주한 한국계 미국인.</li>
 </ul></td>
@@ -29,8 +29,8 @@ Isaac</p></td>
 Charm</p></td>
 <td style="text-align: center;"><ul>
 <li>생년월일 : 1987년 4월 21일[3].</li>
-<li>출생지 : <a href="https://ko.wikipedia.org/wiki/대한민국" title="wikilink">대한민국</a> <a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울특별시</a></li>
-<li>학력 : <a href="https://ko.wikipedia.org/wiki/버클리_음악_대학" title="wikilink">버클리 음악 대학</a> 기타 전공[4]</li>
+<li>출생지 : <a href="../Page/대한민국.md" title="wikilink">대한민국</a> <a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></li>
+<li>학력 : <a href="../Page/버클리_음악_대학.md" title="wikilink">버클리 음악 대학</a> 기타 전공[4]</li>
 <li>포지션 : 기타</li>
 <li>8세 때 미국으로 이주한 한국계 미국인.</li>
 </ul></td>
@@ -40,8 +40,8 @@ Charm</p></td>
 Ogaching</p></td>
 <td style="text-align: center;"><ul>
 <li>생년월일 : 1979년 3월 29일[5].</li>
-<li>출생지 : <a href="https://ko.wikipedia.org/wiki/일본" title="wikilink">일본</a> <a href="https://ko.wikipedia.org/wiki/가나가와현" title="wikilink">가나가와현</a>[6].</li>
-<li>학력 : <a href="https://ko.wikipedia.org/wiki/버클리_음악_대학" title="wikilink">버클리 음악 대학</a> 베이스와 재즈컴퍼지션 전공[7].</li>
+<li>출생지 : <a href="../Page/일본.md" title="wikilink">일본</a> <a href="../Page/가나가와현.md" title="wikilink">가나가와현</a>[6].</li>
+<li>학력 : <a href="../Page/버클리_음악_대학.md" title="wikilink">버클리 음악 대학</a> 베이스와 재즈컴퍼지션 전공[7].</li>
 <li>포지션 : 베이스</li>
 </ul></td>
 </tr>
@@ -50,8 +50,8 @@ Ogaching</p></td>
 Toshi</p></td>
 <td style="text-align: center;"><ul>
 <li>생년월일 : 1981년 10월 29일[8].</li>
-<li>출생지 : <a href="https://ko.wikipedia.org/wiki/일본" title="wikilink">일본</a> <a href="https://ko.wikipedia.org/wiki/오사카부" title="wikilink">오사카부</a>[9]</li>
-<li>학력 : <a href="https://ko.wikipedia.org/wiki/버클리_음악_대학" title="wikilink">버클리 음악 대학</a> 드럼 전공[10].</li>
+<li>출생지 : <a href="../Page/일본.md" title="wikilink">일본</a> <a href="../Page/오사카부.md" title="wikilink">오사카부</a>[9]</li>
+<li>학력 : <a href="../Page/버클리_음악_대학.md" title="wikilink">버클리 음악 대학</a> 드럼 전공[10].</li>
 <li>포지션 : 드럼 담당</li>
 </ul></td>
 </tr>
@@ -444,8 +444,8 @@ Toshi</p></td>
 ## 같이 보기
 
   - [THE RiCECOOKERS](https://ko.wikipedia.org/wiki/:ja:THE_RiCECOOKERS "wikilink") - 버클리음악대학 시절부터 친분이 있다\[28\].
-  - [우라사와 나오키](https://ko.wikipedia.org/wiki/우라사와_나오키 "wikilink") - 만화가. 「Japan Expo 2012」에서 합동공연을 했다\[29\].
-  - [신도 하루이치](https://ko.wikipedia.org/wiki/신도_하루이치 "wikilink") - 「半分人間」의 작사를 담당했다.
+  - [우라사와 나오키](../Page/우라사와_나오키.md "wikilink") - 만화가. 「Japan Expo 2012」에서 합동공연을 했다\[29\].
+  - [신도 하루이치](../Page/신도_하루이치.md "wikilink") - 「半分人間」의 작사를 담당했다.
 
 ## 각주
 

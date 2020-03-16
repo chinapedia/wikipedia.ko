@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [ \(SBS FM\)](https://ko.wikipedia.org/wiki/_\(SBS_FM\)).
 
 
-《**고현준의 뉴스브리핑**》은 [SBS 러브FM에서](https://ko.wikipedia.org/wiki/SBS_러브FM "wikilink") 평일 아침 6시 5분부터 아침 7시까지 방송되는 [SBS 러브FM의](https://ko.wikipedia.org/wiki/SBS_러브FM "wikilink") 시사 프로그램이다.
+《**고현준의 뉴스브리핑**》은 [SBS 러브FM에서](../Page/SBS_러브FM.md "wikilink") 평일 아침 6시 5분부터 아침 7시까지 방송되는 [SBS 러브FM의](../Page/SBS_러브FM.md "wikilink") 시사 프로그램이다.
 
 ## 기획 의도 / 개요
 
   - 당일의 시사 현안과 새벽에 발행된 조간신문의 단독 기사를 요약해 전달하는 프로그램이다. 현장 육성을 가미해 입체성을 높이는 것이 특징이다.
   - 이 방송은 [KNN 러브FM을](../Page/KNN_러브FM.md "wikilink") 통해서도 부산, 경남 지역에도 송출되고 있고, 유튜브 라이브, 팟캐스트 "[고현준의 뉴스브리핑](http://www.podbbang.com/ch/15792)"이라는 같은 제목으로 다시 들을 수 있다.
-  - 원래는 [시사전망대](https://ko.wikipedia.org/wiki/시사전망대 "wikilink")의 코너였으나, 반응이 좋아 [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [9월 1일부터](https://ko.wikipedia.org/wiki/9월_1일 "wikilink") 라디오 가을 개편으로 [시사전망대](https://ko.wikipedia.org/wiki/시사전망대 "wikilink")와 분리되어 평일 아침 6시 20분에 신설되어 40분간 방송되었으며, [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [9월 10일부터](https://ko.wikipedia.org/wiki/9월_10일 "wikilink") 평일 아침 6시 5분으로 변경되어 55분으로 연장되었다.
+  - 원래는 [시사전망대](https://ko.wikipedia.org/wiki/시사전망대 "wikilink")의 코너였으나, 반응이 좋아 [2017년](../Page/2017년.md "wikilink") [9월 1일부터](../Page/9월_1일.md "wikilink") 라디오 가을 개편으로 [시사전망대](https://ko.wikipedia.org/wiki/시사전망대 "wikilink")와 분리되어 평일 아침 6시 20분에 신설되어 40분간 방송되었으며, [2018년](../Page/2018년.md "wikilink") [9월 10일부터](../Page/9월_10일.md "wikilink") 평일 아침 6시 5분으로 변경되어 55분으로 연장되었다.
 
 ## 구성
 
@@ -22,8 +22,8 @@
 
 ## 역대 진행자
 
-  - 1대 : [김용민](https://ko.wikipedia.org/wiki/김용민_\(1974년\) "wikilink") 시사평론가 ([2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [9월 1일](https://ko.wikipedia.org/wiki/9월_1일 "wikilink") \~ [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [3월 2일](https://ko.wikipedia.org/wiki/3월_2일 "wikilink"))
-  - 2대 : [고현준](https://ko.wikipedia.org/wiki/고현준 "wikilink") 시사평론가 ([2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [3월 5일](https://ko.wikipedia.org/wiki/3월_5일 "wikilink") \~ **현재**)
+  - 1대 : [김용민](../Page/김용민_\(1974년\).md "wikilink") 시사평론가 ([2017년](../Page/2017년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [3월 2일](../Page/3월_2일.md "wikilink"))
+  - 2대 : [고현준](../Page/고현준.md "wikilink") 시사평론가 ([2018년](../Page/2018년.md "wikilink") [3월 5일](../Page/3월_5일.md "wikilink") \~ **현재**)
 
 ## 외부 링크
 
@@ -32,7 +32,7 @@
 ## 같이 보기
 
   - [오늘아침 1라디오](https://ko.wikipedia.org/wiki/오늘아침_1라디오 "wikilink")
-  - [아침 & 뉴스 류수민입니다](https://ko.wikipedia.org/wiki/아침_&_뉴스 "wikilink")
+  - [아침 & 뉴스 류수민입니다](../Page/아침_&_뉴스.md "wikilink")
   - [굿모닝뉴스 이강민입니다](https://ko.wikipedia.org/wiki/굿모닝뉴스_이강민입니다 "wikilink")
 
 [분류:SBS 러브FM의 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:SBS_러브FM의_라디오_프로그램 "wikilink")

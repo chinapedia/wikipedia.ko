@@ -16,25 +16,25 @@
 ### N1(CTS11499/L735/M2291)
 
   - [응가나산인](https://ko.wikipedia.org/wiki/응가나산인 "wikilink") 92%
-  - [야쿠트인](https://ko.wikipedia.org/wiki/야쿠트인 "wikilink") 75%
-  - [네네츠인](https://ko.wikipedia.org/wiki/네네츠인 "wikilink") 75%
+  - [야쿠트인](../Page/야쿠트인.md "wikilink") 75%
+  - [네네츠인](../Page/네네츠인.md "wikilink") 75%
   - [핀란드인](https://ko.wikipedia.org/wiki/핀란드인 "wikilink") 60%
   - [발트인](https://ko.wikipedia.org/wiki/발트인 "wikilink") 45% (McDonald 2005)
-  - [사미인](https://ko.wikipedia.org/wiki/사미인 "wikilink") 40%
+  - [사미인](../Page/사미인.md "wikilink") 40%
 
 <!-- end list -->
 
-  - [한족](https://ko.wikipedia.org/wiki/한족 "wikilink") 0%\~15% (Hammer 2005, Karafet 2001, Xue 2006)
-  - [하니족](https://ko.wikipedia.org/wiki/하니족 "wikilink") 11.8%
+  - [한족](../Page/한족.md "wikilink") 0%\~15% (Hammer 2005, Karafet 2001, Xue 2006)
+  - [하니족](../Page/하니족.md "wikilink") 11.8%
   - [시버인](https://ko.wikipedia.org/wiki/시버인 "wikilink") 9.8%
   - [만주인](https://ko.wikipedia.org/wiki/만주인 "wikilink") 3.8\~5.7% (Hammer 2005, Xue 2006)
-  - [티베트인](https://ko.wikipedia.org/wiki/티베트인 "wikilink") 2.9\~8.6% (Hammer 2005, Xue 2006)
-  - [한국인](https://ko.wikipedia.org/wiki/한국인 "wikilink") 0.0%\~8% (Rootsi 2006, Xue 2006, Kim 2007)
-  - [일본인](https://ko.wikipedia.org/wiki/일본인 "wikilink") 0%\~7.7% (Hammer 2005)
+  - [티베트인](../Page/티베트인.md "wikilink") 2.9\~8.6% (Hammer 2005, Xue 2006)
+  - [한국인](../Page/한국인.md "wikilink") 0.0%\~8% (Rootsi 2006, Xue 2006, Kim 2007)
+  - [일본인](../Page/일본인.md "wikilink") 0%\~7.7% (Hammer 2005)
 
 요하문명으로 분류되는 여러 유적의 유골에서도 하플로그룹 N이 나타난다.
 
-  - Niuheliang ([훙산 문화](https://ko.wikipedia.org/wiki/훙산_문화 "wikilink"), 6500–5000 BP) 66.7%(=4/6)
+  - Niuheliang ([훙산 문화](../Page/훙산_문화.md "wikilink"), 6500–5000 BP) 66.7%(=4/6)
   - Halahaigou ([샤오허 문화](https://ko.wikipedia.org/wiki/샤오허_문화 "wikilink"), 5000–4200 BP) 100.0%(=12/12)
   - Dadianzi ([샤자뎬 하층문화](https://ko.wikipedia.org/wiki/샤자뎬_하층문화 "wikilink"), 4200–3600 BP) 60.0%(=3/5)
 

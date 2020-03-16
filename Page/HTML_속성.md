@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [HTML ](https://ko.wikipedia.org/wiki/HTML_).
 
 
-**HTML 속성**(HTML attribute)은 [HTML 요소 유형의](https://ko.wikipedia.org/wiki/HTML_요소 "wikilink") 수정자(modifier)이다. (속성은 태그의 동작을 제어하기 위해 "여는 태그" 안에 사용되는 특수 용어이다.) 즉, 속성은 요소 유형의 기본 기능을 수정하거나, 아니면 스스로 기능하지 못하는 특정한 요소 유형에 기능을 제공한다. HTML 문법에서 속성은 [HTML 시작 태그에](https://ko.wikipedia.org/wiki/HTML_요소 "wikilink") 추가된다.
+**HTML 속성**(HTML attribute)은 [HTML 요소 유형의](../Page/HTML_요소.md "wikilink") 수정자(modifier)이다. (속성은 태그의 동작을 제어하기 위해 "여는 태그" 안에 사용되는 특수 용어이다.) 즉, 속성은 요소 유형의 기본 기능을 수정하거나, 아니면 스스로 기능하지 못하는 특정한 요소 유형에 기능을 제공한다. HTML 문법에서 속성은 [HTML 시작 태그에](../Page/HTML_요소.md "wikilink") 추가된다.
 
 ## 개요
 

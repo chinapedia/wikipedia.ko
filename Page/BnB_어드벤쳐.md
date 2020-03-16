@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BnB ](https://ko.wikipedia.org/wiki/BnB_).
 
 
-《**BnB 어드벤쳐**》(BnB Adventure, 비엔비 어드벤쳐)는 넥슨(이후 [넥슨 코리아](https://ko.wikipedia.org/wiki/넥슨_코리아 "wikilink"))과 소프트맥스(이후 [ESA](https://ko.wikipedia.org/wiki/ESA_\(기업\) "wikilink"))에서 개발, [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [9월 4일에](https://ko.wikipedia.org/wiki/9월_4일 "wikilink") 출시한 [PC 게임으로](https://ko.wikipedia.org/wiki/PC_게임 "wikilink"), 《[크레이지 아케이드](https://ko.wikipedia.org/wiki/크레이지_아케이드 "wikilink")》의 캐릭터를 이용한 어드벤처 게임이다.
+《**BnB 어드벤쳐**》(BnB Adventure, 비엔비 어드벤쳐)는 넥슨(이후 [넥슨 코리아](../Page/넥슨_코리아.md "wikilink"))과 소프트맥스(이후 [ESA](../Page/ESA_\(기업\).md "wikilink"))에서 개발, [2002년](../Page/2002년.md "wikilink") [9월 4일에](../Page/9월_4일.md "wikilink") 출시한 [PC 게임으로](../Page/PC_게임.md "wikilink"), 《[크레이지 아케이드](../Page/크레이지_아케이드.md "wikilink")》의 캐릭터를 이용한 어드벤처 게임이다.
 
 ## 개요
 

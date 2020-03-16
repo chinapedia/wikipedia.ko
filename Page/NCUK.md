@@ -14,14 +14,14 @@ NCUK는 아래의 대학들에 의해 설립되었고 현재에도 소속되어 
   - The University of Bradford
   - The University of Huddersfield (이후, Huddersfield Polytechnic)
   - Leeds Beckett University (이후, Leeds Polytechnic)
-  - The [University of Leeds](https://ko.wikipedia.org/wiki/리즈_대학교 "wikilink")
+  - The [University of Leeds](../Page/리즈_대학교.md "wikilink")
   - Liverpool John Moores University (이후, Liverpool Polytechnic)
   - The University of Liverpool (파트너쉽 만료)
   - Manchester Metropolitan University (이후, Manchester Polytechnic)
   - The University of Manchester
   - The University of Salford
   - Sheffield Hallam University (이후, Sheffield Polytechnic)
-  - The [University of Sheffield](https://ko.wikipedia.org/wiki/셰필드_대학교 "wikilink")
+  - The [University of Sheffield](../Page/셰필드_대학교.md "wikilink")
 
 참고: NCUK의 설립 대학의 수는 UMIST와 the Victoria University of Manchester의 합병으로 12개에서 11개로 감소했다.
 
@@ -31,7 +31,7 @@ NCUK와 파트너쉽을 맺은 대학들의 수가 증가하여 새롭게 추가
 
   - Aston University
   - The University of Birmingham
-  - [U](https://ko.wikipedia.org/wiki/브리스틀_대학교 "wikilink")niversity of Bristol
+  - [U](../Page/브리스틀_대학교.md "wikilink")niversity of Bristol
   - Queen Marry University of London
   - University of Kent
   - Kingston University London

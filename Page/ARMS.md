@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ARMS](https://ko.wikipedia.org/wiki/ARMS).
 
 
-《**ARMS**》(암즈)는 [닌텐도 스위치용으로](../Page/닌텐도_스위치.md "wikilink") [닌텐도](https://ko.wikipedia.org/wiki/닌텐도 "wikilink")가 개발, 배급한 [대전 격투 게임으로](https://ko.wikipedia.org/wiki/대전_격투_게임 "wikilink"), 2017년 6월 16일 전 세계에 출시되었다. [대만](https://ko.wikipedia.org/wiki/대만 "wikilink")에서는 런칭과 동시에 12월 1일에 출시하였고, [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 2018년 4월 12일에 출시되었다. 기존 격투 게임과 차별화를 두고 있는데, 최대 4명의 플레이어가 파이터를 선택하고 다양한 확장 가능한 팔(arm)을 사용하여 3차원 아레나에서 적을 무찌른다. 2018년까지 이 게임은 약 1,600,000본이 판매되었다.\[1\]
+《**ARMS**》(암즈)는 [닌텐도 스위치용으로](../Page/닌텐도_스위치.md "wikilink") [닌텐도](../Page/닌텐도.md "wikilink")가 개발, 배급한 [대전 격투 게임으로](https://ko.wikipedia.org/wiki/대전_격투_게임 "wikilink"), 2017년 6월 16일 전 세계에 출시되었다. [대만](https://ko.wikipedia.org/wiki/대만 "wikilink")에서는 런칭과 동시에 12월 1일에 출시하였고, [대한민국](../Page/대한민국.md "wikilink")에서는 2018년 4월 12일에 출시되었다. 기존 격투 게임과 차별화를 두고 있는데, 최대 4명의 플레이어가 파이터를 선택하고 다양한 확장 가능한 팔(arm)을 사용하여 3차원 아레나에서 적을 무찌른다. 2018년까지 이 게임은 약 1,600,000본이 판매되었다.\[1\]
 
 ## 출시
 

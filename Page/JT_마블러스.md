@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [JT ](https://ko.wikipedia.org/wiki/JT_).
 
 
-**JT 마블러스**()는 [일본담배산업](https://ko.wikipedia.org/wiki/일본담배산업 "wikilink")의 여자 배구팀이다. 연고지는 [오사카부](https://ko.wikipedia.org/wiki/오사카부 "wikilink") [오사카 시이며](https://ko.wikipedia.org/wiki/오사카_시 "wikilink"), [V.프리미어리그](https://ko.wikipedia.org/wiki/V.프리미어리그 "wikilink")에 속해있다.
+**JT 마블러스**()는 [일본담배산업](../Page/일본담배산업.md "wikilink")의 여자 배구팀이다. 연고지는 [오사카부](../Page/오사카부.md "wikilink") [오사카 시이며](https://ko.wikipedia.org/wiki/오사카_시 "wikilink"), [V.프리미어리그](../Page/V.프리미어리그.md "wikilink")에 속해있다.
 
 ## 우승 경력
 
 ### 리그
 
-  - **[V.프리미어리그](https://ko.wikipedia.org/wiki/V.프리미어리그 "wikilink")**
+  - **[V.프리미어리그](../Page/V.프리미어리그.md "wikilink")**
       - **우승 (1):** 2010-11
 
 <!-- end list -->
@@ -26,9 +26,9 @@
 
   - [케니 모레노](https://ko.wikipedia.org/wiki/케니_모레노 "wikilink") (2006-2008)
 
-  - [김연경](https://ko.wikipedia.org/wiki/김연경 "wikilink") (2009-2011)
+  - [김연경](../Page/김연경.md "wikilink") (2009-2011)
 
-  - [브란키차 미하일로비치](https://ko.wikipedia.org/wiki/브란키차_미하일로비치 "wikilink") (2017-)
+  - [브란키차 미하일로비치](../Page/브란키차_미하일로비치.md "wikilink") (2017-)
 
 ## 외부 링크
 

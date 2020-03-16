@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CULV](https://ko.wikipedia.org/wiki/CULV).
 
 
-**CULV**(Consumer Ultra-Low Voltage)는 [인텔](https://ko.wikipedia.org/wiki/인텔 "wikilink")이 개발한 [컴퓨팅 플랫폼이다](https://ko.wikipedia.org/wiki/컴퓨팅_플랫폼 "wikilink").\[1\]\[2\]
+**CULV**(Consumer Ultra-Low Voltage)는 [인텔](../Page/인텔.md "wikilink")이 개발한 [컴퓨팅 플랫폼이다](../Page/컴퓨팅_플랫폼.md "wikilink").\[1\]\[2\]
 
 ## 프로세서
 

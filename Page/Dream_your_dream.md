@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Dream your dream](https://ko.wikipedia.org/wiki/Dream_your_dream).
 
 
-《**Dream your dream**》은 [우주소녀](../Page/우주소녀.md "wikilink")의 네 번째 EP이다. 이번 네 번째 미니앨범는 중국인 멤버 3명 [선의](../Page/선의_\(가수\).md "wikilink"),[미기](https://ko.wikipedia.org/wiki/미기_\(가수\) "wikilink"),[성소가](../Page/성소_\(가수\).md "wikilink") 중국 활동을 앞둔 우주소녀 완전체 13인조의 마지막 앨범이다.
+《**Dream your dream**》은 [우주소녀](../Page/우주소녀.md "wikilink")의 네 번째 EP이다. 이번 네 번째 미니앨범는 중국인 멤버 3명 [선의](../Page/선의_\(가수\).md "wikilink"),[미기](../Page/미기_\(가수\).md "wikilink"),[성소가](../Page/성소_\(가수\).md "wikilink") 중국 활동을 앞둔 우주소녀 완전체 13인조의 마지막 앨범이다.
 
 ## 개요
 

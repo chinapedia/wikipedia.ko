@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Robocopy](https://ko.wikipedia.org/wiki/Robocopy).
 
 
-**Robocopy**(로보카피), 또는 "Robust File Copy"(로버스트 파일 카피)는 [명령 줄에서](https://ko.wikipedia.org/wiki/명령_줄_인터페이스 "wikilink") 동작하는 디렉터리 및 파일 복제 [명령어](https://ko.wikipedia.org/wiki/명령어 "wikilink")이다. Robocopy 기능은 여러 옵션과 함께 [Xcopy](https://ko.wikipedia.org/wiki/Xcopy "wikilink")를 대체한다. 윈도우 NT 4.0의 경우 [윈도우 리소스 킷의](https://ko.wikipedia.org/wiki/윈도우_리소스_킷 "wikilink") 일부로서 이용이 가능하였으며 [윈도우 비스타와](https://ko.wikipedia.org/wiki/윈도우_비스타 "wikilink") [윈도우 서버 2008의](https://ko.wikipedia.org/wiki/윈도우_서버_2008 "wikilink") 표준 기능으로 첫 도입되었다. 명령어는 `robocopy`이다.
+**Robocopy**(로보카피), 또는 "Robust File Copy"(로버스트 파일 카피)는 [명령 줄에서](../Page/명령_줄_인터페이스.md "wikilink") 동작하는 디렉터리 및 파일 복제 [명령어](https://ko.wikipedia.org/wiki/명령어 "wikilink")이다. Robocopy 기능은 여러 옵션과 함께 [Xcopy](https://ko.wikipedia.org/wiki/Xcopy "wikilink")를 대체한다. 윈도우 NT 4.0의 경우 [윈도우 리소스 킷의](https://ko.wikipedia.org/wiki/윈도우_리소스_킷 "wikilink") 일부로서 이용이 가능하였으며 [윈도우 비스타와](../Page/윈도우_비스타.md "wikilink") [윈도우 서버 2008의](../Page/윈도우_서버_2008.md "wikilink") 표준 기능으로 첫 도입되었다. 명령어는 `robocopy`이다.
 
 ## 기능
 
@@ -9,8 +9,8 @@ Robocopy는 윈도우에 내장된 [copy](https://ko.wikipedia.org/wiki/copy "wi
 
   - 네트워크 간섭을 견디고 복사를 이어서 할 수 있는 기능. (불완전한 파일들은 1970-01-01 타임 스탬프로 표시해두고 복구 레코드를 포함하므로 Robocopy는 어디에서 계속할지의 여부를 알 수 있다)
   - 무한 루프(`/XJ`)로 인해 복사 실패를 일으킬 수 있는 [NTFS 정션 포인트를](https://ko.wikipedia.org/wiki/NTFS_정션_포인트 "wikilink") 건너뛰는 기능
-  - [명령 줄 스위치를](https://ko.wikipedia.org/wiki/명령_줄_스위치 "wikilink") 사용함으로써 파일 데이터와 특성을 올바르게 복사하고 원래의 타임스탬프, NTFS [ACL](https://ko.wikipedia.org/wiki/접근_제어_목록 "wikilink"), 소유자 정보, 감사 정보를 보존하는 기능. (`/COPYALL` 또는 `/COPY:`) 나중 버전에서는 폴더의 타임스탬프도 복사가 가능하다 (`/DCOPY:T`).
-  - [윈도우 NT](https://ko.wikipedia.org/wiki/윈도우_NT "wikilink") "백업 권한"(backup right)의 [표명](../Page/표명.md "wikilink")(assert) 기능 (`/B`). 관리자는 관리자에게 읽기가 거부된 파일들을 포함하여 디렉터리 전체를 복사할 수 있다.
+  - [명령 줄 스위치를](https://ko.wikipedia.org/wiki/명령_줄_스위치 "wikilink") 사용함으로써 파일 데이터와 특성을 올바르게 복사하고 원래의 타임스탬프, NTFS [ACL](../Page/접근_제어_목록.md "wikilink"), 소유자 정보, 감사 정보를 보존하는 기능. (`/COPYALL` 또는 `/COPY:`) 나중 버전에서는 폴더의 타임스탬프도 복사가 가능하다 (`/DCOPY:T`).
+  - [윈도우 NT](../Page/윈도우_NT.md "wikilink") "백업 권한"(backup right)의 [표명](../Page/표명.md "wikilink")(assert) 기능 (`/B`). 관리자는 관리자에게 읽기가 거부된 파일들을 포함하여 디렉터리 전체를 복사할 수 있다.
   - 퍼시스턴스(persistence)가 기본. 파일을 열 수 없는 경우 자동 재시도 횟수를 프로그래밍할 수 있음.
   - 원본에 더 이상 존재하지 않는, 목적지 밖에서 선택적으로 파일을 삭제함으로써 트리의 동기화를 유지하는 미러(mirror) 모드.
   - 목적 폴더에 이미 등장하는 동일한 크기와 타임스탬프의 파일을 건너뛰는 기능.

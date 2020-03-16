@@ -23,7 +23,7 @@ public class Server extends AbstractVerticle {
 }
 ```
 
-[자바스크립트](https://ko.wikipedia.org/wiki/자바스크립트 "wikilink")로는 다음과 같다:
+[자바스크립트](../Page/자바스크립트.md "wikilink")로는 다음과 같다:
 
 ``` javascript
 vertx.createHttpServer()

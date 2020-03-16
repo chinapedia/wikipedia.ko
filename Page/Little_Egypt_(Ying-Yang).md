@@ -8,8 +8,8 @@
 ## 커버 버전
 
   - [더 다운라이더스 섹트가](https://ko.wikipedia.org/wiki/더_다운라이더스_섹트 "wikilink") 1964년 음반 《The Sect》에 수록.\[4\]
-  - [엘비스 프레슬리가](https://ko.wikipedia.org/wiki/엘비스_프레슬리 "wikilink") 1964년 음반 《[Roustabout](https://ko.wikipedia.org/wiki/Roustabout_\(음반\) "wikilink")》에 수록.\[5\]
-  - [셰어](https://ko.wikipedia.org/wiki/셰어_\(가수\) "wikilink")
+  - [엘비스 프레슬리가](../Page/엘비스_프레슬리.md "wikilink") 1964년 음반 《[Roustabout](https://ko.wikipedia.org/wiki/Roustabout_\(음반\) "wikilink")》에 수록.\[5\]
+  - [셰어](../Page/셰어_\(가수\).md "wikilink")
   - 1992년 [크리스 베일리의](https://ko.wikipedia.org/wiki/크리스_베일리 "wikilink") 조력으로 [내이든 카발레리가](https://ko.wikipedia.org/wiki/내이든_카발레리 "wikilink") 싱글 발매.
 
 ## 각주

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Year Of The WorldCollaboration BEST+DJ KAORI Non Stop MIX](https://ko.wikipedia.org/wiki/Year_Of_The_WorldCollaboration_BEST+DJ_KAORI_Non_Stop_MIX).
 
 
-《**Year Of The World～Collaboration BEST+DJ KAORI Non Stop MIX**》는 한국 출신 가수 [BoA](https://ko.wikipedia.org/wiki/BoA "wikilink")가 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [8월 19일](https://ko.wikipedia.org/wiki/8월_19일 "wikilink") [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서 발매할 예정이었던 콜라보레이션 베스트 음반이다. 사양은 2CD반, 그리고 2CD+1DVD 반이 예정되어 있었다.
+《**Year Of The World～Collaboration BEST+DJ KAORI Non Stop MIX**》는 한국 출신 가수 [BoA](https://ko.wikipedia.org/wiki/BoA "wikilink")가 [2009년](../Page/2009년.md "wikilink") [8월 19일](../Page/8월_19일.md "wikilink") [일본](../Page/일본.md "wikilink")에서 발매할 예정이었던 콜라보레이션 베스트 음반이다. 사양은 2CD반, 그리고 2CD+1DVD 반이 예정되어 있었다.
 
 ## 발매 계획 및 취소
 

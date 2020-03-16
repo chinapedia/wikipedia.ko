@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NBA 2K18](https://ko.wikipedia.org/wiki/NBA_2K18).
 
 
-《**NBA 2K18**》은 [비주얼 콘셉츠가](https://ko.wikipedia.org/wiki/비주얼_콘셉츠 "wikilink") 개발하고 [2K 스포츠가](https://ko.wikipedia.org/wiki/2K_스포츠 "wikilink") 배급한 [농구](https://ko.wikipedia.org/wiki/농구 "wikilink") [시뮬레이션 게임이다](https://ko.wikipedia.org/wiki/시뮬레이션_게임 "wikilink"). [NBA 2K](../Page/NBA_2K.md "wikilink") 시리즈 중 19번째 게임이며 [NBA 2K17의](https://ko.wikipedia.org/wiki/NBA_2K17 "wikilink") 뒤를 잇는다. 2017년 9월 [마이크로소프트 윈도우](https://ko.wikipedia.org/wiki/마이크로소프트_윈도우 "wikilink"), [닌텐도 스위치](../Page/닌텐도_스위치.md "wikilink"), [플레이스테이션 4](https://ko.wikipedia.org/wiki/플레이스테이션_4 "wikilink"), [플레이스테이션 3](https://ko.wikipedia.org/wiki/플레이스테이션_3 "wikilink"), [엑스박스 원](../Page/엑스박스_원.md "wikilink"), [엑스박스 360용으로](https://ko.wikipedia.org/wiki/엑스박스_360 "wikilink") 출시되었다.
+《**NBA 2K18**》은 [비주얼 콘셉츠가](https://ko.wikipedia.org/wiki/비주얼_콘셉츠 "wikilink") 개발하고 [2K 스포츠가](https://ko.wikipedia.org/wiki/2K_스포츠 "wikilink") 배급한 [농구](../Page/농구.md "wikilink") [시뮬레이션 게임이다](https://ko.wikipedia.org/wiki/시뮬레이션_게임 "wikilink"). [NBA 2K](../Page/NBA_2K.md "wikilink") 시리즈 중 19번째 게임이며 [NBA 2K17의](../Page/NBA_2K17.md "wikilink") 뒤를 잇는다. 2017년 9월 [마이크로소프트 윈도우](../Page/마이크로소프트_윈도우.md "wikilink"), [닌텐도 스위치](../Page/닌텐도_스위치.md "wikilink"), [플레이스테이션 4](../Page/플레이스테이션_4.md "wikilink"), [플레이스테이션 3](../Page/플레이스테이션_3.md "wikilink"), [엑스박스 원](../Page/엑스박스_원.md "wikilink"), [엑스박스 360용으로](../Page/엑스박스_360.md "wikilink") 출시되었다.
 
 NBA 2K18은 시리즈의 전작 게임과 마찬가지로 농구에 기반을 두며, 더 구체적으로 말해 [NBA](https://ko.wikipedia.org/wiki/NBA "wikilink")의 경험을 시뮬레이트한다. 팀을 관리하는 MyGM, MyLeague 모드 등 여러 게임 모드가 존재하며 MyCareer 모드를 통해 플레이어는 플레이어의 커리어를 통해 플레이할 수 있다. 이 게임은 49개 곡을 이루는, 라이선스된 사운드트랙이 있다.
 

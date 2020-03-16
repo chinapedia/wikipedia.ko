@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [AVIATR](https://ko.wikipedia.org/wiki/AVIATR).
 
 
-**AVIATR**(Aerial Vehicle for In situ and Airborne Titan Reconnaissance)은 [토성](https://ko.wikipedia.org/wiki/토성 "wikilink")의 [위성](https://ko.wikipedia.org/wiki/위성 "wikilink")인 [타이탄](https://ko.wikipedia.org/wiki/타이탄 "wikilink")을 탐사 하기 위해 제안된 비행기 탐사 개념이다. 이 개념은 [아이다 호 대학의](https://ko.wikipedia.org/wiki/아이다_호_대학 "wikilink") Jason W. Barnes가 이끄는 과학자 팀이 2011년에 구상했다.\[1\]\[2\] 타이탄은 [지구](https://ko.wikipedia.org/wiki/지구 "wikilink")와 비교하여 중력의 약 1/7이지만 대기 밀도의 4배다\[3\]\[4\]. 이러한 조건으로 양력을 이용하기 쉬워져 실현 가능성이 높아졌다.\[5\]
+**AVIATR**(Aerial Vehicle for In situ and Airborne Titan Reconnaissance)은 [토성](../Page/토성.md "wikilink")의 [위성](../Page/위성.md "wikilink")인 [타이탄](https://ko.wikipedia.org/wiki/타이탄 "wikilink")을 탐사 하기 위해 제안된 비행기 탐사 개념이다. 이 개념은 [아이다 호 대학의](https://ko.wikipedia.org/wiki/아이다_호_대학 "wikilink") Jason W. Barnes가 이끄는 과학자 팀이 2011년에 구상했다.\[1\]\[2\] 타이탄은 [지구](../Page/지구.md "wikilink")와 비교하여 중력의 약 1/7이지만 대기 밀도의 4배다\[3\]\[4\]. 이러한 조건으로 양력을 이용하기 쉬워져 실현 가능성이 높아졌다.\[5\]
 
 ## 탐사선 기능 요약
 
@@ -22,7 +22,7 @@
 1.
 2.
 3.  [Proposed AVIATR Project Captures the Scientific Imagination.](http://www.uidaho.edu/sci/physics/news/topfeatures/proposed-aviatr) University of Idaho. 2011.
-4.  타이탄은 [지구](https://ko.wikipedia.org/wiki/지구 "wikilink")보다 [대기압](https://ko.wikipedia.org/wiki/대기압 "wikilink")이 1.7배 세다. [대](https://ko.wikipedia.org/wiki/이오 "wikilink")[기](https://ko.wikipedia.org/wiki/엔셀라두스 "wikilink")[가](https://ko.wikipedia.org/wiki/달 "wikilink") [있](https://ko.wikipedia.org/wiki/트리톤 "wikilink")[는](https://ko.wikipedia.org/wiki/가니메데 "wikilink") 위성은 태양계에 조금 있으나, 대기압이 지구의 1.7배나 되는 천체는 타이탄 밖에 없다.
+4.  타이탄은 [지구](../Page/지구.md "wikilink")보다 [대기압](../Page/대기압.md "wikilink")이 1.7배 세다. [대](https://ko.wikipedia.org/wiki/이오 "wikilink")[기](../Page/엔셀라두스.md "wikilink")[가](../Page/달.md "wikilink") [있](https://ko.wikipedia.org/wiki/트리톤 "wikilink")[는](https://ko.wikipedia.org/wiki/가니메데 "wikilink") 위성은 태양계에 조금 있으나, 대기압이 지구의 1.7배나 되는 천체는 타이탄 밖에 없다.
 5.
 6.  [드론](https://ko.wikipedia.org/wiki/드론 "wikilink")을 생각하면 된다
 7.

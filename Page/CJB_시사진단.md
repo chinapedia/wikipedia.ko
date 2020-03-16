@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CJB ](https://ko.wikipedia.org/wiki/CJB_).
 
 
-**CJB 시사진단**(CJB 時事診斷)은 [CJB TV로](https://ko.wikipedia.org/wiki/CJB_TV "wikilink") 방송되었던 [청주방송](https://ko.wikipedia.org/wiki/청주방송 "wikilink")의 시사 프로그램이다.
+**CJB 시사진단**(CJB 時事診斷)은 [CJB TV로](https://ko.wikipedia.org/wiki/CJB_TV "wikilink") 방송되었던 [청주방송](../Page/청주방송.md "wikilink")의 시사 프로그램이다.
 
 ## 기획 의도
 
@@ -21,7 +21,7 @@
 
 ### 현재 진행자
 
-  - 김영식 [서원대학교](https://ko.wikipedia.org/wiki/서원대학교 "wikilink") 교수
+  - 김영식 [서원대학교](../Page/서원대학교.md "wikilink") 교수
 
 ### 역대 진행자
 
@@ -32,6 +32,6 @@
 
   - [CJB TV](https://ko.wikipedia.org/wiki/CJB_TV "wikilink")
   - [CJB 7 뉴스](https://ko.wikipedia.org/wiki/CJB_7_뉴스 "wikilink")
-  - [CJB 8 뉴스](https://ko.wikipedia.org/wiki/CJB_8_뉴스 "wikilink")
+  - [CJB 8 뉴스](../Page/CJB_8_뉴스.md "wikilink")
 
 [분류:청주방송의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:청주방송의_텔레비전_프로그램 "wikilink")

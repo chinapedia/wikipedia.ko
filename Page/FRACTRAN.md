@@ -1,14 +1,14 @@
 > This article is converted from Wikipedia: [FRACTRAN](https://ko.wikipedia.org/wiki/FRACTRAN).
 
 
-**FRACTRAN**은 수학자 [존 호턴 콘웨이가](https://ko.wikipedia.org/wiki/존_호턴_콘웨이 "wikilink") 고안한 [난해한 프로그래밍 언어이다](https://ko.wikipedia.org/wiki/난해한_프로그래밍_언어 "wikilink"). FRACTRAN 프로그램은 양의 [분수](https://ko.wikipedia.org/wiki/분수 "wikilink")들로 이루어진 하나의 목록의 형태이다. 이 프로그램은 다음의 규칙으로 자연수 입력값 n을 갱신하며 작동한다.
+**FRACTRAN**은 수학자 [존 호턴 콘웨이가](../Page/존_호턴_콘웨이.md "wikilink") 고안한 [난해한 프로그래밍 언어이다](../Page/난해한_프로그래밍_언어.md "wikilink"). FRACTRAN 프로그램은 양의 [분수](https://ko.wikipedia.org/wiki/분수 "wikilink")들로 이루어진 하나의 목록의 형태이다. 이 프로그램은 다음의 규칙으로 자연수 입력값 n을 갱신하며 작동한다.
 
 1.  입력값 *n*과 목록의 분수 *f*에 대해 *nf*가 처음으로 자연수가 되는 수이면,*n*대신 *nf*를 입력한다.
 2.  더 이상 자연수 *nf*가 없을 때까지 이 과정을 반복했다면,프로그램을 정지한다.
 
 ## 간단한 FRACTRAN 프로그래밍 예제
 
-FRACTRAN 프로그램은 [괴델 넘버링을](https://ko.wikipedia.org/wiki/괴델_넘버링 "wikilink") 사용해 입력값과 출력값을 하나의 [소인수분해](https://ko.wikipedia.org/wiki/소인수분해 "wikilink")로 표현한다. 예를 들어 a=2, b=1, c=1 을 입력하면
+FRACTRAN 프로그램은 [괴델 넘버링을](https://ko.wikipedia.org/wiki/괴델_넘버링 "wikilink") 사용해 입력값과 출력값을 하나의 [소인수분해](../Page/소인수분해.md "wikilink")로 표현한다. 예를 들어 a=2, b=1, c=1 을 입력하면
 
   -
     \(2^2 \times 3^1 \times 5^1\)

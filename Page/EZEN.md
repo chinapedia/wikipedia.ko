@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [EZEN](https://ko.wikipedia.org/wiki/EZEN).
 
 
-**EZEN**은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [록 밴드이다](https://ko.wikipedia.org/wiki/록_밴드 "wikilink"). [015B](https://ko.wikipedia.org/wiki/015B "wikilink")의 [장호일](https://ko.wikipedia.org/wiki/장호일 "wikilink")이 주축이 되어 결성한 록 밴드이다. 결성 당시 '이젠 밴드나 해볼까?'라는 이야기에 밴드명이 'EZEN'으로 결정되었다고 하며, 2014년 데뷔 이후 2장의 EP와 5개의 싱글을 발표했다.
+**EZEN**은 [대한민국](../Page/대한민국.md "wikilink")의 [록 밴드이다](https://ko.wikipedia.org/wiki/록_밴드 "wikilink"). [015B](../Page/015B.md "wikilink")의 [장호일](../Page/장호일.md "wikilink")이 주축이 되어 결성한 록 밴드이다. 결성 당시 '이젠 밴드나 해볼까?'라는 이야기에 밴드명이 'EZEN'으로 결정되었다고 하며, 2014년 데뷔 이후 2장의 EP와 5개의 싱글을 발표했다.
 
 ## 역사
 
@@ -23,18 +23,18 @@
 
 ## 구성원
 
-  - [장호일](https://ko.wikipedia.org/wiki/장호일 "wikilink")
-    생년월일 : [1965년](https://ko.wikipedia.org/wiki/1965년 "wikilink") [9월 10일](https://ko.wikipedia.org/wiki/9월_10일 "wikilink")
-    포지션 : [기타](https://ko.wikipedia.org/wiki/기타 "wikilink")
+  - [장호일](../Page/장호일.md "wikilink")
+    생년월일 : [1965년](../Page/1965년.md "wikilink") [9월 10일](../Page/9월_10일.md "wikilink")
+    포지션 : [기타](../Page/기타.md "wikilink")
   - [HEX](https://ko.wikipedia.org/wiki/HEX "wikilink")
-    생년월일 : [1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink") [2월 27일](https://ko.wikipedia.org/wiki/2월_27일 "wikilink")
+    생년월일 : [1982년](../Page/1982년.md "wikilink") [2월 27일](../Page/2월_27일.md "wikilink")
     포지션 : [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink")
   - [홍성호](../Page/홍성호.md "wikilink")
-    생년월일 : [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") [6월 15일](https://ko.wikipedia.org/wiki/6월_15일 "wikilink")
+    생년월일 : [1984년](../Page/1984년.md "wikilink") [6월 15일](../Page/6월_15일.md "wikilink")
     포지션 : [드럼](https://ko.wikipedia.org/wiki/드럼_세트 "wikilink")
   - [김현지](https://ko.wikipedia.org/wiki/김현지 "wikilink")
-    생년월일 : [1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink") [4월 27일](https://ko.wikipedia.org/wiki/4월_27일 "wikilink")
-    포지션 : [베이스](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink")
+    생년월일 : [1989년](../Page/1989년.md "wikilink") [4월 27일](../Page/4월_27일.md "wikilink")
+    포지션 : [베이스](../Page/베이스_기타.md "wikilink")
 
 ## 음반 목록
 

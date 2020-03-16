@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [H.O.T.  ](https://ko.wikipedia.org/wiki/H.O.T.__).
 
 
-다음은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") **[H.O.T.](https://ko.wikipedia.org/wiki/H.O.T. "wikilink")**가 발매하거나 참가했던 **음반 목록**이다.
+다음은 [대한민국](../Page/대한민국.md "wikilink")의 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") **[H.O.T.](../Page/H.O.T..md "wikilink")**가 발매하거나 참가했던 **음반 목록**이다.
 
 ## 정규 음반
 
@@ -20,7 +20,7 @@
 <td><ul>
 <li>발매일: 1996년 9월 7일</li>
 <li>레이블: <a href="https://ko.wikipedia.org/wiki/SM엔터테인먼트" title="wikilink">SM엔터테인먼트</a></li>
-<li>포맷: <a href="https://ko.wikipedia.org/wiki/콤팩트_디스크" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/콤팩트_카세트" title="wikilink">테이프</a></li>
+<li>포맷: <a href="../Page/콤팩트_디스크.md" title="wikilink">CD</a>, <a href="../Page/콤팩트_카세트.md" title="wikilink">테이프</a></li>
 <li>음반판매량: 90만장</li>
 </ul></td>
 </tr>
@@ -30,17 +30,17 @@
 <td><ul>
 <li>발매일: 1997년 7월 5일</li>
 <li>레이블: SM엔터테인먼트</li>
-<li>포맷: <a href="https://ko.wikipedia.org/wiki/콤팩트_디스크" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/콤팩트_카세트" title="wikilink">테이프</a></li>
+<li>포맷: <a href="../Page/콤팩트_디스크.md" title="wikilink">CD</a>, <a href="../Page/콤팩트_카세트.md" title="wikilink">테이프</a></li>
 <li>음반판매량: 160만장 <small> (1997년 판매량 1위)</small></li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p><strong><em>《<a href="https://ko.wikipedia.org/wiki/Resurrection_(H.O.T.의_음반)" title="wikilink">Resurrection</a>》</em></strong></p></td>
+<td><p><strong><em>《<a href="../Page/Resurrection_(H.O.T.의_음반).md" title="wikilink">Resurrection</a>》</em></strong></p></td>
 <td><ul>
 <li>발매일: 1998년 9월 25일</li>
 <li>레이블: SM엔터테인먼트</li>
-<li>포맷: <a href="https://ko.wikipedia.org/wiki/콤팩트_디스크" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/콤팩트_카세트" title="wikilink">테이프</a></li>
+<li>포맷: <a href="../Page/콤팩트_디스크.md" title="wikilink">CD</a>, <a href="../Page/콤팩트_카세트.md" title="wikilink">테이프</a></li>
 <li>음반판매량: 110만장</li>
 </ul></td>
 </tr>
@@ -50,17 +50,17 @@
 <td><ul>
 <li>발매일: 1999년 9월 15일</li>
 <li>레이블: SM엔터테인먼트</li>
-<li>포맷: <a href="https://ko.wikipedia.org/wiki/콤팩트_디스크" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/콤팩트_카세트" title="wikilink">테이프</a></li>
+<li>포맷: <a href="../Page/콤팩트_디스크.md" title="wikilink">CD</a>, <a href="../Page/콤팩트_카세트.md" title="wikilink">테이프</a></li>
 <li>음반판매량: 143만장</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td><p>5th</p></td>
-<td><p>'''''《<a href="https://ko.wikipedia.org/wiki/Outside_Castle" title="wikilink">Outside Castle</a>》</p></td>
+<td><p>'''''《<a href="../Page/Outside_Castle.md" title="wikilink">Outside Castle</a>》</p></td>
 <td><ul>
 <li>발매일: 2000년 10월 2일</li>
 <li>레이블: SM엔터테인먼트</li>
-<li>포맷: <a href="https://ko.wikipedia.org/wiki/콤팩트_디스크" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/콤팩트_카세트" title="wikilink">테이프</a></li>
+<li>포맷: <a href="../Page/콤팩트_디스크.md" title="wikilink">CD</a>, <a href="../Page/콤팩트_카세트.md" title="wikilink">테이프</a></li>
 <li>음반판매량: 88만장</li>
 </ul></td>
 </tr>

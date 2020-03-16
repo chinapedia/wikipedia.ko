@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Colog](https://ko.wikipedia.org/wiki/Colog).
 
 
-밑이 b인 **colog**(cologarithm)\[1\]는 밑이 b인 [로그](https://ko.wikipedia.org/wiki/로그 "wikilink")에 -가 붙은 것이다.
+밑이 b인 **colog**(cologarithm)\[1\]는 밑이 b인 [로그](../Page/로그.md "wikilink")에 -가 붙은 것이다.
 
   -
 

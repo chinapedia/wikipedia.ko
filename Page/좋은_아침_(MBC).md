@@ -15,8 +15,8 @@
 
 ## 동시간대 경쟁 프로그램
 
-  - [김경래의 최강시사](https://ko.wikipedia.org/wiki/최강시사 "wikilink") ([KBS창원 제1라디오](https://ko.wikipedia.org/wiki/KBS창원방송총국 "wikilink"))
-  - [생방송 진주는 지금](https://ko.wikipedia.org/wiki/생방송_진주는_지금 "wikilink") ([KBS진주 제1라디오](https://ko.wikipedia.org/wiki/KBS진주방송국 "wikilink"))
+  - [김경래의 최강시사](../Page/최강시사.md "wikilink") ([KBS창원 제1라디오](../Page/KBS창원방송총국.md "wikilink"))
+  - [생방송 진주는 지금](https://ko.wikipedia.org/wiki/생방송_진주는_지금 "wikilink") ([KBS진주 제1라디오](../Page/KBS진주방송국.md "wikilink"))
 
 ## 외부 링크
 

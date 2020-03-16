@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ICD-10  VII:   ](https://ko.wikipedia.org/wiki/ICD-10__VII:___).
 
 
-**[ICD-10](https://ko.wikipedia.org/wiki/ICD-10 "wikilink")** 목록의 7번째 챕터이다. H00\~H59까지에 해당되며, 눈과 그 부속기의 질병(Diseases of the eye, adnexa)에 관한 것이다.
+**[ICD-10](../Page/ICD-10.md "wikilink")** 목록의 7번째 챕터이다. H00\~H59까지에 해당되며, 눈과 그 부속기의 질병(Diseases of the eye, adnexa)에 관한 것이다.
 
 ## H00–H59 – 눈과 부속기의 질병
 
@@ -37,7 +37,7 @@
 
 ## (H10-H13) 결막의 질환
 
-  - H10 [결막염](https://ko.wikipedia.org/wiki/결막염 "wikilink")
+  - H10 [결막염](../Page/결막염.md "wikilink")
   - H11 [결막](https://ko.wikipedia.org/wiki/결막 "wikilink")의 기타 질환
       - H11.0 익상편
       - H11.3 결막의 출혈
@@ -79,7 +79,7 @@
 
 ## (H40-H42) 녹내장
 
-  - H40 [녹내장](https://ko.wikipedia.org/wiki/녹내장 "wikilink")
+  - H40 [녹내장](../Page/녹내장.md "wikilink")
       - H40.0 녹내장의증
           - 고안압
 
@@ -92,7 +92,7 @@
 
 ## (H49-H52) 안근, 양안의 운동, 조절, 굴절의 질환
 
-  - H49 마비성 [사시](https://ko.wikipedia.org/wiki/사시_\(눈\) "wikilink")
+  - H49 마비성 [사시](../Page/사시_\(눈\).md "wikilink")
   - H50 기타 사시
   - H51 양안운동의 기타 질환
   - H52 양안조절 및 굴절의 기타 질환
@@ -103,6 +103,6 @@
 
 ## 상위 항목
 
-  - [ICD-10](https://ko.wikipedia.org/wiki/ICD-10 "wikilink")
+  - [ICD-10](../Page/ICD-10.md "wikilink")
 
 [분류:국제질병분류](https://ko.wikipedia.org/wiki/분류:국제질병분류 "wikilink")

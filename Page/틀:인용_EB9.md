@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [: EB9](https://ko.wikipedia.org/wiki/:_EB9).
 
 
-{{\#if:||[}}}](https://ko.wikipedia.org/wiki/File:{{#if:{{{wstitle "fig:}}}") }} {{\#if:|이 글은 현재 [퍼블릭 도메인이](https://ko.wikipedia.org/wiki/퍼블릭_도메인 "wikilink") 된 글이 포함되어 있습니다: |}} }}}
+{{\#if:||[}}}](https://ko.wikipedia.org/wiki/File:{{#if:{{{wstitle "fig:}}}") }} {{\#if:|이 글은 현재 [퍼블릭 도메인이](../Page/퍼블릭_도메인.md "wikilink") 된 글이 포함되어 있습니다: |}} }}}
 
 `   |editor-last=``||Baynes|}}}}}`
 

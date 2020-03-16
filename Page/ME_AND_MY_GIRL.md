@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [ME AND MY GIRL](https://ko.wikipedia.org/wiki/ME_AND_MY_GIRL).
 
 
-**ME AND MY GIRL**은 1930년대의 [런던](https://ko.wikipedia.org/wiki/런던 "wikilink")을 배경으로 한 [다카라즈카 가극단의](https://ko.wikipedia.org/wiki/다카라즈카_가극단 "wikilink") 작품이다.
+**ME AND MY GIRL**은 1930년대의 [런던](../Page/런던.md "wikilink")을 배경으로 한 [다카라즈카 가극단의](../Page/다카라즈카_가극단.md "wikilink") 작품이다.
 
-작곡은 [노엘 게이](https://ko.wikipedia.org/wiki/노엘_게이 "wikilink") \[1\] \[2\] \[3\] \[4\] \[5\] \[6\]. 개정은 [스티븐 프라이](https://ko.wikipedia.org/wiki/스티븐_프라이 "wikilink") \[7\]\[8\]\[9\]\[10\]\[11\]\[12\] 와 [마이크 오크렌트가](https://ko.wikipedia.org/wiki/마이크_오크렌트 "wikilink") 담당했다 \[13\]\[14\]\[15\]\[16\]\[17\]\[18\].
+작곡은 [노엘 게이](https://ko.wikipedia.org/wiki/노엘_게이 "wikilink") \[1\] \[2\] \[3\] \[4\] \[5\] \[6\]. 개정은 [스티븐 프라이](../Page/스티븐_프라이.md "wikilink") \[7\]\[8\]\[9\]\[10\]\[11\]\[12\] 와 [마이크 오크렌트가](https://ko.wikipedia.org/wiki/마이크_오크렌트 "wikilink") 담당했다 \[13\]\[14\]\[15\]\[16\]\[17\]\[18\].
 
-[UCC 우에시마 커피가](https://ko.wikipedia.org/wiki/UCC_우에시마_커피 "wikilink") 협찬하고 가극단의 첫 관공연(冠公演)으로써 상연되었다. 상연 전체에 UCC 우에시마 커피가 협찬사로 참가하고 있다.
+[UCC 우에시마 커피가](../Page/UCC_우에시마_커피.md "wikilink") 협찬하고 가극단의 첫 관공연(冠公演)으로써 상연되었다. 상연 전체에 UCC 우에시마 커피가 협찬사로 참가하고 있다.
 
 ## 상연 기록
 
-  - [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink") - [1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink") [츠키구미공연](../Page/쓰키구미.md "wikilink")
+  - [1987년](../Page/1987년.md "wikilink") - [1988년](../Page/1988년.md "wikilink") [츠키구미공연](../Page/쓰키구미.md "wikilink")
 
 :\*1987년 5월 15일 - 6월 23일(신인공연：5월 26일)　[다카라즈카 대극장](../Page/다카라즈카_대극장.md "wikilink")
 
@@ -25,7 +25,7 @@
     다카라즈카 가극의 동일한 조에서의 롱런 기록을 갱신.
     형식명은 「UCC 뮤지컬」. 2장.
     12월의 다카라즈카 대극장 공연때는 빌 역을 [스즈카제 마요](https://ko.wikipedia.org/wiki/스즈카제_마요 "wikilink"), 잭키 역을 [츠루기 미유키가](https://ko.wikipedia.org/wiki/츠루기_미유키 "wikilink") 맡는 역할바꿈 공연도 상연되었다.
-    11월의 신인공연때에는 당시 연1(입단 1년차)이었던 [아마미 유키가](https://ko.wikipedia.org/wiki/아마미_유키 "wikilink") 주연에 발탁되었다.
+    11월의 신인공연때에는 당시 연1(입단 1년차)이었던 [아마미 유키가](../Page/아마미_유키.md "wikilink") 주연에 발탁되었다.
     중일극장의 주요 출연자는 [츠루기 미유키](https://ko.wikipedia.org/wiki/츠루기_미유키 "wikilink"), [고다마 아이](https://ko.wikipedia.org/wiki/고다마_아이 "wikilink"), [스즈카제 마요이다](https://ko.wikipedia.org/wiki/스즈카제_마요 "wikilink").
 
 <!-- end list -->
@@ -40,7 +40,7 @@
 
   -
     형식명은 「UCC 뮤지컬」. 2장.
-    다카라즈카, 도쿄 공연은 톱스타 [아마미 유키와](https://ko.wikipedia.org/wiki/아마미_유키 "wikilink") 톱 여역인 [아사노 카요의](https://ko.wikipedia.org/wiki/아사노_카요 "wikilink") 퇴단공연.
+    다카라즈카, 도쿄 공연은 톱스타 [아마미 유키와](../Page/아마미_유키.md "wikilink") 톱 여역인 [아사노 카요의](https://ko.wikipedia.org/wiki/아사노_카요 "wikilink") 퇴단공연.
     1996년에는 중일극장에서 선발 멤버로 공연. [쿠제 세이카](https://ko.wikipedia.org/wiki/쿠제_세이카 "wikilink"), [카자하나 마이의](https://ko.wikipedia.org/wiki/카자하나_마이 "wikilink") 톱 콤비 프리 피로공연이다.
     윤색, 연출을 담당한 오하라가 전년도에 작고하여 초연 당시 연출조수였던 [미키 아키오가](https://ko.wikipedia.org/wiki/미키_아키오 "wikilink") 윤색, 연출을 담당하였다. 이후는 미키가 계속하여 윤색, 연출을 담당하고 있다.
 
@@ -56,7 +56,7 @@
 
   -
     다카라즈카, 도쿄 공연의 형식명은 「UCC&섀디 뮤지컬\[22\]\[23\]」, 하카타좌에서는 「뮤지컬\[24\]」.
-    대극장 공연은 [94기생의](https://ko.wikipedia.org/wiki/다카라즈카_가극단_94기생 "wikilink") 초무대이며 톱 여역인 [아야노 카나미와](https://ko.wikipedia.org/wiki/아야노_카나미 "wikilink") 츠키구미 조장 [이즈모 아야의](https://ko.wikipedia.org/wiki/이즈모_아야 "wikilink") 퇴단공연.
+    대극장 공연은 [94기생의](../Page/다카라즈카_가극단_94기생.md "wikilink") 초무대이며 톱 여역인 [아야노 카나미와](https://ko.wikipedia.org/wiki/아야노_카나미 "wikilink") 츠키구미 조장 [이즈모 아야의](https://ko.wikipedia.org/wiki/이즈모_아야 "wikilink") 퇴단공연.
     본공연은 잭키 역을 [시로사키 아이와](https://ko.wikipedia.org/wiki/시로사키_아이 "wikilink") [아스미 리오가](../Page/아스미_리오.md "wikilink") 역할바꿈으로 하였다.
     이 공연에서는 UCC 우에시마 커피에 더해 [섀디](https://ko.wikipedia.org/wiki/섀디 "wikilink")도 협찬에 참가했다
     하카타좌 공연에서는 당시 2번수 스타였던 [키리야 히로무가](../Page/키리야_히로무.md "wikilink") 주연, 상대역으로는 [하자쿠라 시즈쿠가](https://ko.wikipedia.org/wiki/하자쿠라_시즈쿠 "wikilink") 발탁되었다
@@ -84,7 +84,7 @@
 
 도쿄 다카라즈카 극장\[26\]역할바꿈(일정별)
 
-  - 2009년 [하나구미](https://ko.wikipedia.org/wiki/하나구미 "wikilink")공연
+  - 2009년 [하나구미](../Page/하나구미.md "wikilink")공연
 
 :\*7월.4일 - 7월 20일　[우메다 예술극장](https://ko.wikipedia.org/wiki/우메다_예술극장 "wikilink") 메인 홀\[27\]
 

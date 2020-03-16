@@ -7,27 +7,27 @@
 
 ### 주간 차트
 
-| 차트                                                                                             | 최고순위 |
-| ---------------------------------------------------------------------------------------------- | ---- |
-| 대한민국 ([가온 디지털 차트](https://ko.wikipedia.org/wiki/가온_디지털_차트 "wikilink"))\[1\]                    | 3    |
-| 대한민국 ([가온 다운로드 차트](https://ko.wikipedia.org/wiki/가온_다운로드_차트 "wikilink"))\[2\]                  | 1    |
-| 대한민국 ([가온 스트리밍 차트](https://ko.wikipedia.org/wiki/가온_스트리밍_차트 "wikilink"))\[3\]                  | 17   |
-| 대한민국 ([가온 BGM 차트](https://ko.wikipedia.org/wiki/가온_BGM_차트 "wikilink"))\[4\]                    | 3    |
-| 대한민국 ([가온 모바일 차트](https://ko.wikipedia.org/wiki/가온_차트 "wikilink")) <small>(벨소리)</small>\[5\]   | 11   |
-| 대한민국 ([가온 모바일 차트](https://ko.wikipedia.org/wiki/가온_차트 "wikilink")) <small>(통화연결음)</small>\[6\] | 29   |
-| 대한민국 ([가온 소셜 차트](https://ko.wikipedia.org/wiki/가온_차트 "wikilink"))\[7\]                         | 2    |
-| 일본 ([빌보드 재팬 핫 100](https://ko.wikipedia.org/wiki/재팬_핫_100 "wikilink"))                         | 78   |
+| 차트                                                                            | 최고순위 |
+| ----------------------------------------------------------------------------- | ---- |
+| 대한민국 ([가온 디지털 차트](../Page/가온_디지털_차트.md "wikilink"))\[1\]                      | 3    |
+| 대한민국 ([가온 다운로드 차트](https://ko.wikipedia.org/wiki/가온_다운로드_차트 "wikilink"))\[2\] | 1    |
+| 대한민국 ([가온 스트리밍 차트](https://ko.wikipedia.org/wiki/가온_스트리밍_차트 "wikilink"))\[3\] | 17   |
+| 대한민국 ([가온 BGM 차트](https://ko.wikipedia.org/wiki/가온_BGM_차트 "wikilink"))\[4\]   | 3    |
+| 대한민국 ([가온 모바일 차트](../Page/가온_차트.md "wikilink")) <small>(벨소리)</small>\[5\]     | 11   |
+| 대한민국 ([가온 모바일 차트](../Page/가온_차트.md "wikilink")) <small>(통화연결음)</small>\[6\]   | 29   |
+| 대한민국 ([가온 소셜 차트](../Page/가온_차트.md "wikilink"))\[7\]                           | 2    |
+| 일본 ([빌보드 재팬 핫 100](../Page/재팬_핫_100.md "wikilink"))                           | 78   |
 
 ### 월간 차트
 
-| 차트                                                                                              | 최고순위 |
-| ----------------------------------------------------------------------------------------------- | ---- |
-| 대한민국 ([가온 디지털 차트](https://ko.wikipedia.org/wiki/가온_디지털_차트 "wikilink"))\[8\]                     | 23   |
-| 대한민국 ([가온 다운로드 차트](https://ko.wikipedia.org/wiki/가온_다운로드_차트 "wikilink"))\[9\]                   | 4    |
-| 대한민국 ([가온 스트리밍 차트](https://ko.wikipedia.org/wiki/가온_스트리밍_차트 "wikilink"))\[10\]                  | 59   |
-| 대한민국 ([가온 BGM 차트](https://ko.wikipedia.org/wiki/가온_BGM_차트 "wikilink"))\[11\]                    | 19   |
-| 대한민국 ([가온 모바일 차트](https://ko.wikipedia.org/wiki/가온_차트 "wikilink")) <small>(벨소리)</small>\[12\]   | 18   |
-| 대한민국 ([가온 모바일 차트](https://ko.wikipedia.org/wiki/가온_차트 "wikilink")) <small>(통화연결음)</small>\[13\] | 47   |
+| 차트                                                                             | 최고순위 |
+| ------------------------------------------------------------------------------ | ---- |
+| 대한민국 ([가온 디지털 차트](../Page/가온_디지털_차트.md "wikilink"))\[8\]                       | 23   |
+| 대한민국 ([가온 다운로드 차트](https://ko.wikipedia.org/wiki/가온_다운로드_차트 "wikilink"))\[9\]  | 4    |
+| 대한민국 ([가온 스트리밍 차트](https://ko.wikipedia.org/wiki/가온_스트리밍_차트 "wikilink"))\[10\] | 59   |
+| 대한민국 ([가온 BGM 차트](https://ko.wikipedia.org/wiki/가온_BGM_차트 "wikilink"))\[11\]   | 19   |
+| 대한민국 ([가온 모바일 차트](../Page/가온_차트.md "wikilink")) <small>(벨소리)</small>\[12\]     | 18   |
+| 대한민국 ([가온 모바일 차트](../Page/가온_차트.md "wikilink")) <small>(통화연결음)</small>\[13\]   | 47   |
 
 ### 가요 프로그램
 
@@ -36,7 +36,7 @@
 | [더 쇼](https://ko.wikipedia.org/wiki/더_쇼 "wikilink")       | 1  |
 | [쇼 챔피언](https://ko.wikipedia.org/wiki/쇼_챔피언 "wikilink")   | 1  |
 | [엠카운트다운](https://ko.wikipedia.org/wiki/엠카운트다운 "wikilink") | 1  |
-| [뮤직뱅크](https://ko.wikipedia.org/wiki/뮤직뱅크 "wikilink")     | 1  |
+| [뮤직뱅크](../Page/뮤직뱅크.md "wikilink")                        | 1  |
 | [쇼 음악중심](https://ko.wikipedia.org/wiki/쇼_음악중심 "wikilink") | 1  |
 | [인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink")     | 2  |
 |                                                           |    |

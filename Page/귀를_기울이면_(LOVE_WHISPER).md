@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  \(LOVE WHISPER\)](https://ko.wikipedia.org/wiki/__\(LOVE_WHISPER\)).
 
 
-〈**귀를 기울이면 (LOVE WHISPER)**〉은 2017년 8월 1일 발매된 [여자친구](https://ko.wikipedia.org/wiki/여자친구 "wikilink")의 미니 [음반](https://ko.wikipedia.org/wiki/음반 "wikilink") 《[PARALLEL](../Page/PARALLEL_\(EP\).md "wikilink")》의 타이틀곡이다.
+〈**귀를 기울이면 (LOVE WHISPER)**〉은 2017년 8월 1일 발매된 [여자친구](https://ko.wikipedia.org/wiki/여자친구 "wikilink")의 미니 [음반](../Page/음반.md "wikilink") 《[PARALLEL](../Page/PARALLEL_\(EP\).md "wikilink")》의 타이틀곡이다.
 
 ## 차트
 
@@ -15,7 +15,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>대한민국 (<a href="https://ko.wikipedia.org/wiki/가온_디지털_차트" title="wikilink">가온 디지털 차트 (주간)</a>)[1]</p></td>
+<td><p>대한민국 (<a href="../Page/가온_디지털_차트.md" title="wikilink">가온 디지털 차트 (주간)</a>)[1]</p></td>
 <td><p>2</p></td>
 </tr>
 <tr class="even">

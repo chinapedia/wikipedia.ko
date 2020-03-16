@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TinkerBell](https://ko.wikipedia.org/wiki/TinkerBell).
 
 
-《**TinkerBell**》()은 [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [4월 25일에](https://ko.wikipedia.org/wiki/4월_25일 "wikilink") 발매된 [에이프릴의](../Page/에이프릴_\(음악_그룹\).md "wikilink") 일본 데뷔 싱글이다.\[1\]
+《**TinkerBell**》()은 [2018년](../Page/2018년.md "wikilink") [4월 25일에](../Page/4월_25일.md "wikilink") 발매된 [에이프릴의](../Page/에이프릴_\(음악_그룹\).md "wikilink") 일본 데뷔 싱글이다.\[1\]
 
 ## 개요
 

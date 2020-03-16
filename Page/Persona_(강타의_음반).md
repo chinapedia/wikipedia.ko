@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Persona \( \)](https://ko.wikipedia.org/wiki/Persona_\(_\)).
 
 
-***Persona***는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 가수 [강타](https://ko.wikipedia.org/wiki/강타 "wikilink")의 세 번째 정규 음반이다.
+***Persona***는 [대한민국](../Page/대한민국.md "wikilink")의 가수 [강타](../Page/강타.md "wikilink")의 세 번째 정규 음반이다.
 
 ## 수록곡
 

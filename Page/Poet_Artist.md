@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Poet Artist](https://ko.wikipedia.org/wiki/Poet_Artist).
 
 
-Artist}}  Artist''' | 가수명 = [종현](https://ko.wikipedia.org/wiki/종현 "wikilink") | 사진 = 종현 - Poet Artist.jpg | 발매년월일 = [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [1월 23일](https://ko.wikipedia.org/wiki/1월_23일 "wikilink") | 포맷 = [CD](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink"), [디지털 다운로드](https://ko.wikipedia.org/wiki/음악_다운로드 "wikilink") | 음반종류 = 정규 음반 | 녹음 = 스튜디오 | 장르 = [R\&B](https://ko.wikipedia.org/wiki/컨템퍼러리_알앤비 "wikilink"), [솔](https://ko.wikipedia.org/wiki/솔_음악 "wikilink"), [일렉트로닉](https://ko.wikipedia.org/wiki/전자_음악 "wikilink") | 길이 = 36:37 | 레이블 = [지니뮤직](../Page/지니뮤직.md "wikilink") | 프로듀서 = [종현](https://ko.wikipedia.org/wiki/종현 "wikilink"), [이수만](https://ko.wikipedia.org/wiki/이수만 "wikilink") | 전앨범 = *[이야기 Op.2](https://ko.wikipedia.org/wiki/이야기_Op.2 "wikilink")*
+Artist}}  Artist''' | 가수명 = [종현](../Page/종현.md "wikilink") | 사진 = 종현 - Poet Artist.jpg | 발매년월일 = [2018년](../Page/2018년.md "wikilink") [1월 23일](../Page/1월_23일.md "wikilink") | 포맷 = [CD](../Page/콤팩트_디스크.md "wikilink"), [디지털 다운로드](https://ko.wikipedia.org/wiki/음악_다운로드 "wikilink") | 음반종류 = 정규 음반 | 녹음 = 스튜디오 | 장르 = [R\&B](../Page/컨템퍼러리_알앤비.md "wikilink"), [솔](https://ko.wikipedia.org/wiki/솔_음악 "wikilink"), [일렉트로닉](../Page/전자_음악.md "wikilink") | 길이 = 36:37 | 레이블 = [지니뮤직](../Page/지니뮤직.md "wikilink") | 프로듀서 = [종현](../Page/종현.md "wikilink"), [이수만](../Page/이수만.md "wikilink") | 전앨범 = *[이야기 Op.2](https://ko.wikipedia.org/wiki/이야기_Op.2 "wikilink")*
 (2017년) | 현앨범 = **Poet {{\!}} Artist**
-(2018년) | 기타 =  }} 《**Poet | Artist**》는 대한민국의 남성 그룹 [샤이니](https://ko.wikipedia.org/wiki/샤이니 "wikilink")의 멤버인 가수 [종현](https://ko.wikipedia.org/wiki/종현 "wikilink")의 유작이 된 마지막 음반이자 정규 2집 음반이다. 종현이 2017년 12월 18일에 사망한 이후 2018년 1월 23일에 발매되었다.
+(2018년) | 기타 =  }} 《**Poet | Artist**》는 대한민국의 남성 그룹 [샤이니](../Page/샤이니.md "wikilink")의 멤버인 가수 [종현](../Page/종현.md "wikilink")의 유작이 된 마지막 음반이자 정규 2집 음반이다. 종현이 2017년 12월 18일에 사망한 이후 2018년 1월 23일에 발매되었다.
 
 음반의 제목은 종현이 뒷목에 새겼던 문신에서 비롯한 것으로, 그는 ‘Poet’과 ‘Artist’를 각각 자신이 하고 싶은 것과 지금 하고 있는 것에 비유하였다고 한다.\[1\]
 

@@ -3,16 +3,16 @@
 
 [섬네일의](https://ko.wikipedia.org/wiki/파일:Chenzihmyon_typefaces.svg "wikilink") 처음 네 글자.\]\] 아래는 저명한 CJK 글꼴 목록이다.
 
-글꼴은 대상 [문자](https://ko.wikipedia.org/wiki/문자 "wikilink")에 따라 나열된다.:\[1\]
+글꼴은 대상 [문자](../Page/문자.md "wikilink")에 따라 나열된다.:\[1\]
 
-  - 중국어: [한자](https://ko.wikipedia.org/wiki/한자 "wikilink").
-  - [일본어](../Page/일본어_표기_체계.md "wikilink"): [일본어의 한자](https://ko.wikipedia.org/wiki/일본어의_한자 "wikilink"), [히라가나](https://ko.wikipedia.org/wiki/히라가나 "wikilink"), [가타카나](https://ko.wikipedia.org/wiki/가타카나 "wikilink").
-  - [한국어](https://ko.wikipedia.org/wiki/한국어 "wikilink"): [한글](https://ko.wikipedia.org/wiki/한글 "wikilink"), [한국어의 한자](https://ko.wikipedia.org/wiki/한국어의_한자 "wikilink") 등.
-  - [베트남어](https://ko.wikipedia.org/wiki/베트남어 "wikilink"): 과거 [쯔놈](https://ko.wikipedia.org/wiki/쯔놈 "wikilink") 사용.
-  - 좡어: [방괴장자](https://ko.wikipedia.org/wiki/방괴장자 "wikilink").
-  - [팬-유니코드](https://ko.wikipedia.org/wiki/유니코드 "wikilink")(Pan-Unicode): [유니코드](https://ko.wikipedia.org/wiki/유니코드 "wikilink") 문자 대부분을 전역 지원하도록 고안됨 (일부 문자 체계에만 한정하지 않음).\[2\]
+  - 중국어: [한자](../Page/한자.md "wikilink").
+  - [일본어](../Page/일본어_표기_체계.md "wikilink"): [일본어의 한자](../Page/일본어의_한자.md "wikilink"), [히라가나](../Page/히라가나.md "wikilink"), [가타카나](../Page/가타카나.md "wikilink").
+  - [한국어](../Page/한국어.md "wikilink"): [한글](https://ko.wikipedia.org/wiki/한글 "wikilink"), [한국어의 한자](../Page/한국어의_한자.md "wikilink") 등.
+  - [베트남어](../Page/베트남어.md "wikilink"): 과거 [쯔놈](../Page/쯔놈.md "wikilink") 사용.
+  - 좡어: [방괴장자](../Page/방괴장자.md "wikilink").
+  - [팬-유니코드](../Page/유니코드.md "wikilink")(Pan-Unicode): [유니코드](../Page/유니코드.md "wikilink") 문자 대부분을 전역 지원하도록 고안됨 (일부 문자 체계에만 한정하지 않음).\[2\]
 
-<span style="background:#90ff90;">\[F\]</span>는 [자유-오픈 소스 소프트웨어](https://ko.wikipedia.org/wiki/자유-오픈_소스_소프트웨어 "wikilink")(FOSS)를 의미한다. <span style="background:#ffef00;"><s>\[F\]</s></span>는 과거에 FOSS로 간주되었으나 법적 논란에 있음을 나타낸다.
+<span style="background:#90ff90;">\[F\]</span>는 [자유-오픈 소스 소프트웨어](../Page/자유-오픈_소스_소프트웨어.md "wikilink")(FOSS)를 의미한다. <span style="background:#ffef00;"><s>\[F\]</s></span>는 과거에 FOSS로 간주되었으나 법적 논란에 있음을 나타낸다.
 
 ## 명조체
 
@@ -80,7 +80,7 @@
   - <span style="background:#90ff90;">\[F\]</span> 백묵 바탕
   - [서울한강체](https://ko.wikipedia.org/wiki/서울한강체 "wikilink")
   - <span style="background:#90ff90;">\[F\]</span> [나눔명조](https://ko.wikipedia.org/wiki/나눔_글꼴 "wikilink")
-  - <span style="background:#90ff90;">\[F\]</span> [함초롬바탕](https://ko.wikipedia.org/wiki/함초롬체 "wikilink")
+  - <span style="background:#90ff90;">\[F\]</span> [함초롬바탕](../Page/함초롬체.md "wikilink")
   - <span style="background:#90ff90;">\[F\]</span> 지읍시다바탕
 
 ### 베트남어
@@ -149,15 +149,15 @@
   - 애플고딕
   - 돋움, 돋움체, 굴림
   - 굴림체
-  - [맑은 고딕](https://ko.wikipedia.org/wiki/맑은_고딕 "wikilink")
-  - [새굴림](https://ko.wikipedia.org/wiki/새굴림 "wikilink")
+  - [맑은 고딕](../Page/맑은_고딕.md "wikilink")
+  - [새굴림](../Page/새굴림.md "wikilink")
   - 애플 SD 산돌고딕 Neo
   - <span style="background:#90ff90;">\[F\]</span> 은돋움
   - <span style="background:#90ff90;">\[F\]</span> 은신문
   - <span style="background:#90ff90;">\[F\]</span> 백묵굴림
   - [서울남산체](https://ko.wikipedia.org/wiki/서울남산체 "wikilink")
   - <span style="background:#90ff90;">\[F\]</span> [나눔고딕](https://ko.wikipedia.org/wiki/나눔_글꼴 "wikilink")
-  - <span style="background:#90ff90;">\[F\]</span> [함초롬체](https://ko.wikipedia.org/wiki/함초롬체 "wikilink")
+  - <span style="background:#90ff90;">\[F\]</span> [함초롬체](../Page/함초롬체.md "wikilink")
   - <span style="background:#90ff90;">\[F\]</span> 지읍시다돋움
 
 ### 베트남어
@@ -238,10 +238,10 @@
 
 ## 같이 보기
 
-  - [캘리그래피](https://ko.wikipedia.org/wiki/캘리그래피 "wikilink")
+  - [캘리그래피](../Page/캘리그래피.md "wikilink")
   - [일본어 입력기](https://ko.wikipedia.org/wiki/일본어_입력기 "wikilink")
   - [한국어와 컴퓨터](https://ko.wikipedia.org/wiki/한국어와_컴퓨터 "wikilink")
-  - [자판 배열](https://ko.wikipedia.org/wiki/자판_배열 "wikilink")
+  - [자판 배열](../Page/자판_배열.md "wikilink")
 
 ## 내용주
 
@@ -276,7 +276,7 @@
 [분류:글꼴](https://ko.wikipedia.org/wiki/분류:글꼴 "wikilink")
 
 1.  A font targeted to a writing system usually still contains [glyph](https://ko.wikipedia.org/wiki/glyph "wikilink")s in the other writing systems.
-2.  A [Unicode font](https://ko.wikipedia.org/wiki/유니코드_글꼴 "wikilink"), which contains a wide range of [Unicode](https://ko.wikipedia.org/wiki/유니코드 "wikilink")'s characters, may not be listed as a "pan-Unicode font", which is intended to globally support a wide range of Unicode's characters, if that Unicode font is targeted to one or a few writing systems.
+2.  A [Unicode font](https://ko.wikipedia.org/wiki/유니코드_글꼴 "wikilink"), which contains a wide range of [Unicode](../Page/유니코드.md "wikilink")'s characters, may not be listed as a "pan-Unicode font", which is intended to globally support a wide range of Unicode's characters, if that Unicode font is targeted to one or a few writing systems.
 3.  <http://fonts.jp/hanazono/>
 4.
 5.  [Author page](http://wiki.fdiary.net/font/?sazanami)  (일본어), [deprecated ttf-sazanami-mincho Debian package](http://packages.debian.org/wheezy/fonts/ttf-sazanami-mincho)

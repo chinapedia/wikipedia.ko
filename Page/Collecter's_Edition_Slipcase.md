@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Collecter\'s Edition Slipcase](https://ko.wikipedia.org/wiki/Collecter\'s_Edition_Slipcase).
 
 
-**''Collecter's Edition Slipcase**''(**Collector's Edition Slipcase**라고도 함)는 [프로그레시브 메탈](https://ko.wikipedia.org/wiki/프로그레시브_메탈 "wikilink") 밴드 [오페스](https://ko.wikipedia.org/wiki/오페스 "wikilink")의 초기 3개 음반과 더블 라이브 음반을 담고 있는 [박스 세트이다](https://ko.wikipedia.org/wiki/박스_세트 "wikilink").
+**''Collecter's Edition Slipcase**''(**Collector's Edition Slipcase**라고도 함)는 [프로그레시브 메탈](../Page/프로그레시브_메탈.md "wikilink") 밴드 [오페스](https://ko.wikipedia.org/wiki/오페스 "wikilink")의 초기 3개 음반과 더블 라이브 음반을 담고 있는 [박스 세트이다](https://ko.wikipedia.org/wiki/박스_세트 "wikilink").
 
 ## 곡 목록
 
@@ -72,16 +72,16 @@
 
 ### 오페스
 
-  - [미카엘 오케르펠트](https://ko.wikipedia.org/wiki/미카엘_오케르펠트 "wikilink") - [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), [기타](https://ko.wikipedia.org/wiki/기타 "wikilink")
+  - [미카엘 오케르펠트](https://ko.wikipedia.org/wiki/미카엘_오케르펠트 "wikilink") - [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), [기타](../Page/기타.md "wikilink")
   - [페테르 린드그렌](https://ko.wikipedia.org/wiki/페테르_린드그렌 "wikilink") - 기타
   - [마르틴 로페스](https://ko.wikipedia.org/wiki/마르틴_로페스 "wikilink") - [드럼](https://ko.wikipedia.org/wiki/드럼_세트 "wikilink")
-  - [마르틴 멘데스](https://ko.wikipedia.org/wiki/마르틴_멘데스 "wikilink") - [베이스 기타](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink")
+  - [마르틴 멘데스](https://ko.wikipedia.org/wiki/마르틴_멘데스 "wikilink") - [베이스 기타](../Page/베이스_기타.md "wikilink")
 
 ### 게스트 참여
 
 #### *Blackwater Park*
 
-  - [스티븐 윌슨](https://ko.wikipedia.org/wiki/스티븐_윌슨 "wikilink") ([포큐파인 트리](https://ko.wikipedia.org/wiki/포큐파인_트리 "wikilink")) - 보컬, 기타, [피아노](https://ko.wikipedia.org/wiki/피아노 "wikilink")
+  - [스티븐 윌슨](https://ko.wikipedia.org/wiki/스티븐_윌슨 "wikilink") ([포큐파인 트리](https://ko.wikipedia.org/wiki/포큐파인_트리 "wikilink")) - 보컬, 기타, [피아노](../Page/피아노.md "wikilink")
   - 마르쿠스 린드버그
 
 #### *Deliverance*

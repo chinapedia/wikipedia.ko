@@ -7,7 +7,7 @@
 
 ## 함께보기
 
-  - [사운드클라우드](https://ko.wikipedia.org/wiki/사운드클라우드 "wikilink")
+  - [사운드클라우드](../Page/사운드클라우드.md "wikilink")
 
 ## 참고
 

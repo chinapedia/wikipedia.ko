@@ -29,7 +29,7 @@
 
 <div style="background-color: #BFFFBF;">
 
-[IUCN](https://ko.wikipedia.org/wiki/IUCN "wikilink") 카테고리 III ([천연기념물](https://ko.wikipedia.org/wiki/천연기념물 "wikilink"))
+[IUCN](https://ko.wikipedia.org/wiki/IUCN "wikilink") 카테고리 III ([천연기념물](../Page/천연기념물.md "wikilink"))
 
 </div>
 

@@ -32,7 +32,7 @@ TextData =
 `  fontsize:10`
 `  textcolor:blue`
 `  pos:(0,13)`
-`  text: `[`Kelvin`](https://ko.wikipedia.org/wiki/켈빈 "wikilink")` K`
+`  text: `[`Kelvin`](../Page/켈빈.md "wikilink")` K`
 
 </timeline>
 <timeline> ImageSize = width:905 height:50 PlotArea = left:80 right:15 bottom:20 top:5 AlignBars = justify Colors =
@@ -66,7 +66,7 @@ TextData =
 `  fontsize:10`
 `  textcolor:blue`
 `  pos:(0,13)`
-`  text: `[`Celcius`](https://ko.wikipedia.org/wiki/섭씨 "wikilink")` °C`
+`  text: `[`Celcius`](../Page/섭씨.md "wikilink")` °C`
 
 </timeline>
 <timeline> ImageSize = width:905 height:50 PlotArea = left:80 right:15 bottom:20 top:5 AlignBars = justify Colors =
@@ -97,7 +97,7 @@ TextData =
 `  fontsize:10`
 `  textcolor:blue`
 `  pos:(0,13)`
-`  text:`[`Fahrenheit`](https://ko.wikipedia.org/wiki/화씨 "wikilink")` °F`
+`  text:`[`Fahrenheit`](../Page/화씨.md "wikilink")` °F`
 
 </timeline>
 <timeline> ImageSize = width:905 height:50 PlotArea = left:80 right:15 bottom:20 top:5 AlignBars = justify Colors =
@@ -128,7 +128,7 @@ TextData =
 `  fontsize:10`
 `  textcolor:blue`
 `  pos:(0,13)`
-`  text:`[`Rankine`](https://ko.wikipedia.org/wiki/란씨 "wikilink")` °R`
+`  text:`[`Rankine`](../Page/란씨.md "wikilink")` °R`
 
 </timeline>
 <timeline> ImageSize = width:905 height:50 PlotArea = left:80 right:15 bottom:20 top:5 AlignBars = justify Colors =

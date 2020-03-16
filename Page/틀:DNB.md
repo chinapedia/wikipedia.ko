@@ -9,7 +9,7 @@
 
 `               |  `[`Wikisource-logo.svg`](https://ko.wikipedia.org/wiki/File:Wikisource-logo.svg "fig:Wikisource-logo.svg")` }} }}`` | | 이 글은`
 `                     | One or more of the preceding sentences`
-`                   }}  `[`퍼블릭``   ``도메인`](https://ko.wikipedia.org/wiki/퍼블릭_도메인 "wikilink")` : }}}  ``}`
+`                   }}  `[`퍼블릭``   ``도메인`](../Page/퍼블릭_도메인.md "wikilink")` : }}}  ``}`
 `| first = `
 `| authorlink = `
 `| coauthors = `
