@@ -23,7 +23,7 @@
 
   - 주시청 시간 : 주중 출/퇴근 시간 (오전 7 \~ 9시, 오후 6 \~ 9시)
   - 주편성 전략 : 종합 뉴스, 예능, 버라이어티, 드라마, 교양, 다큐 등 기존 TV 장르 프로그램과 더불어 이동중 시청이라는 DMB의 모바일 특성에 맞는 Digest 포맷의 특성화 프로그램 제작 및 편성 주력
-  - [QBS 주간 편성표](https://web.archive.org/web/20110518045442/http://www.qbsi.co.kr/schedule/metro/page.html) 2020년부터는 [JTBC](../Page/JTBC.md "wikilink")와의 제휴를 끝내고 [연합뉴스](https://ko.wikipedia.org/wiki/연합뉴스 "wikilink")방송을 대부분 나오게 된다.
+  - [QBS 주간 편성표](https://web.archive.org/web/20110518045442/http://www.qbsi.co.kr/schedule/metro/page.html) 2020년부터는 [JTBC](../Page/JTBC.md "wikilink")와의 제휴를 끝내고 [연합뉴스](../Page/연합뉴스.md "wikilink")방송을 대부분 나오게 된다.
 
 ## 주요 프로그램
 

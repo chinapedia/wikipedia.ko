@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ Live](https://ko.wikipedia.org/wiki/_Live).
 
 
-《**이소라 Live**》는 [이소라의](https://ko.wikipedia.org/wiki/이소라_\(가수\) "wikilink") [4집 앨범](../Page/꽃_\(음반\).md "wikilink") 활동 이후인 [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink")에 발매한 라이브 음반이다.
+《**이소라 Live**》는 [이소라의](../Page/이소라_\(가수\).md "wikilink") [4집 앨범](../Page/꽃_\(음반\).md "wikilink") 활동 이후인 [2001년](../Page/2001년.md "wikilink")에 발매한 라이브 음반이다.
 
 ## 수록곡
 

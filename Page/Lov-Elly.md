@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Lov-Elly](https://ko.wikipedia.org/wiki/Lov-Elly).
 
 
-《**Lov-Elly**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 여자 가수 [서인영](../Page/서인영.md "wikilink")이 2010년 6월 1일에 발표한 [EP](https://ko.wikipedia.org/wiki/EP "wikilink")이다. 타이틀곡은 잘가요 로맨스로 [쥬얼리](https://ko.wikipedia.org/wiki/쥬얼리 "wikilink")를 탈퇴한후 첫 앨범이다.또한 [5월 12일에는](https://ko.wikipedia.org/wiki/5월_12일 "wikilink") 타이틀곡 "잘가요 로맨스"를 디지털 싱글 형식으로 선 공개 하였다.[6월 1일에는](https://ko.wikipedia.org/wiki/6월_1일 "wikilink") 모든 수록곡을 포함해 EP형식으로 발매 하였으며, 각종 차트에서 1위를 휩쓸며 화려하게 컴백을 하였다.
+《**Lov-Elly**》는 [대한민국](../Page/대한민국.md "wikilink")의 여자 가수 [서인영](../Page/서인영.md "wikilink")이 2010년 6월 1일에 발표한 [EP](https://ko.wikipedia.org/wiki/EP "wikilink")이다. 타이틀곡은 잘가요 로맨스로 [쥬얼리](../Page/쥬얼리.md "wikilink")를 탈퇴한후 첫 앨범이다.또한 [5월 12일에는](../Page/5월_12일.md "wikilink") 타이틀곡 "잘가요 로맨스"를 디지털 싱글 형식으로 선 공개 하였다.[6월 1일에는](../Page/6월_1일.md "wikilink") 모든 수록곡을 포함해 EP형식으로 발매 하였으며, 각종 차트에서 1위를 휩쓸며 화려하게 컴백을 하였다.
 
 ## 수록곡
 

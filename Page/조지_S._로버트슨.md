@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [ S. ](https://ko.wikipedia.org/wiki/_S._).
 
 
-**조지 스튜어트 로버트슨** 경(, [1872년](https://ko.wikipedia.org/wiki/1872년 "wikilink") [5월 25일](https://ko.wikipedia.org/wiki/5월_25일 "wikilink") \~ [1967년](https://ko.wikipedia.org/wiki/1967년 "wikilink") [1월 29일](https://ko.wikipedia.org/wiki/1월_29일 "wikilink"))은 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 [육상 선수이자](https://ko.wikipedia.org/wiki/육상 "wikilink") [테니스 선수이며](https://ko.wikipedia.org/wiki/테니스 "wikilink") [고전학자](https://ko.wikipedia.org/wiki/서양고전학 "wikilink"), [변호사](https://ko.wikipedia.org/wiki/변호사 "wikilink")이다. [아테네](https://ko.wikipedia.org/wiki/아테네 "wikilink")에서 열린 [1896년 하계 올림픽에](https://ko.wikipedia.org/wiki/1896년_하계_올림픽 "wikilink") 참가했다.
+**조지 스튜어트 로버트슨** 경(, [1872년](../Page/1872년.md "wikilink") [5월 25일](../Page/5월_25일.md "wikilink") \~ [1967년](../Page/1967년.md "wikilink") [1월 29일](../Page/1월_29일.md "wikilink"))은 [영국](../Page/영국.md "wikilink")의 [육상 선수이자](https://ko.wikipedia.org/wiki/육상 "wikilink") [테니스 선수이며](../Page/테니스.md "wikilink") [고전학자](https://ko.wikipedia.org/wiki/서양고전학 "wikilink"), [변호사](../Page/변호사.md "wikilink")이다. [아테네](../Page/아테네.md "wikilink")에서 열린 [1896년 하계 올림픽에](../Page/1896년_하계_올림픽.md "wikilink") 참가했다.
 
 로버트슨은 [윈체스터 칼리지에서](https://ko.wikipedia.org/wiki/윈체스터_칼리지 "wikilink") 공부하고 [옥스퍼드 대학교 뉴 칼리지에](https://ko.wikipedia.org/wiki/뉴_칼리지_\(옥스퍼드\) "wikilink") 입학한 뒤 해머던지기로 대표선수()에 선출되었고, 1894년에는 그리스어 시로 게이스퍼드 상()을 받기도 했다.
 
-로버트슨은 1896년에 여행 업체의 창가에 붙어 있는 광고를 보고 이렇게 말했다. "고대 그리스는 내가 배우는 학문에 어울려서 나는 올림픽에도 갈 수 있겠네요, 그렇죠?" 로버트슨은 [아테네](https://ko.wikipedia.org/wiki/아테네 "wikilink")에서 열리는 [제1회 근대 올림픽의](https://ko.wikipedia.org/wiki/1896년_하계_올림픽 "wikilink") 개막식에 참석하기 위해 11[파운드를](../Page/파운드_스털링.md "wikilink") 냈다. 아테네에 도착했지만, 로버트슨의 주종목인 해머던지기가 정식 종목에 없었다. 로버트슨은 그 대신 [포환던지기 대회와](../Page/1896년_하계_올림픽_육상_남자_포환던지기.md "wikilink") [원반던지기 대회에](../Page/1896년_하계_올림픽_육상_남자_원반던지기.md "wikilink") 나갔다.\[1\]
+로버트슨은 1896년에 여행 업체의 창가에 붙어 있는 광고를 보고 이렇게 말했다. "고대 그리스는 내가 배우는 학문에 어울려서 나는 올림픽에도 갈 수 있겠네요, 그렇죠?" 로버트슨은 [아테네](../Page/아테네.md "wikilink")에서 열리는 [제1회 근대 올림픽의](../Page/1896년_하계_올림픽.md "wikilink") 개막식에 참석하기 위해 11[파운드를](../Page/파운드_스털링.md "wikilink") 냈다. 아테네에 도착했지만, 로버트슨의 주종목인 해머던지기가 정식 종목에 없었다. 로버트슨은 그 대신 [포환던지기 대회와](../Page/1896년_하계_올림픽_육상_남자_포환던지기.md "wikilink") [원반던지기 대회에](../Page/1896년_하계_올림픽_육상_남자_원반던지기.md "wikilink") 나갔다.\[1\]
 
 원반던지기에서는 25.20m로 4위를 기록했고, 이는 올림픽 원반던지기 역사상 가장 짧은 기록이다.\[2\]
 
-테니스 단식 경기에서는 1라운드에서 [그리스](https://ko.wikipedia.org/wiki/그리스 "wikilink")의 [콘스탄티노스 파스파티스에게](../Page/콘스탄티노스_파스파티스.md "wikilink") 져서 13명의 참가 선수 중 공동 8위를 기록했다. 복식 경기에서는 [오스트레일리아](https://ko.wikipedia.org/wiki/오스트레일리아 "wikilink")의 [에드윈 플랙과](https://ko.wikipedia.org/wiki/에드윈_플랙 "wikilink") 함께 짝을 이뤄서 출전했다. 1라운드는 부전승으로 진출했으며, 준결승전에서는 [이집트](https://ko.wikipedia.org/wiki/이집트 "wikilink")의 [디오니시오스 카스다글리스와](https://ko.wikipedia.org/wiki/디오니시오스_카스다글리스 "wikilink") [그리스](https://ko.wikipedia.org/wiki/그리스 "wikilink")의 [데메트리오스 페트로코키노스에게](https://ko.wikipedia.org/wiki/데메트리오스_페트로코키노스 "wikilink") 져서 3위에 올랐다.\[3\]
+테니스 단식 경기에서는 1라운드에서 [그리스](../Page/그리스.md "wikilink")의 [콘스탄티노스 파스파티스에게](../Page/콘스탄티노스_파스파티스.md "wikilink") 져서 13명의 참가 선수 중 공동 8위를 기록했다. 복식 경기에서는 [오스트레일리아](../Page/오스트레일리아.md "wikilink")의 [에드윈 플랙과](../Page/에드윈_플랙.md "wikilink") 함께 짝을 이뤄서 출전했다. 1라운드는 부전승으로 진출했으며, 준결승전에서는 [이집트](../Page/이집트.md "wikilink")의 [디오니시오스 카스다글리스와](../Page/디오니시오스_카스다글리스.md "wikilink") [그리스](../Page/그리스.md "wikilink")의 [데메트리오스 페트로코키노스에게](https://ko.wikipedia.org/wiki/데메트리오스_페트로코키노스 "wikilink") 져서 3위에 올랐다.\[3\]
 
-로버트슨은 이 대회 폐막식에서 [고대 그리스어로](https://ko.wikipedia.org/wiki/고대_그리스어 "wikilink") 된 [송가](../Page/송가.md "wikilink")(Ode)를 암송한 것으로도 사람들에게 기억된다.\[4\]
+로버트슨은 이 대회 폐막식에서 [고대 그리스어로](../Page/고대_그리스어.md "wikilink") 된 [송가](../Page/송가.md "wikilink")(Ode)를 암송한 것으로도 사람들에게 기억된다.\[4\]
 
 ## 서훈
 

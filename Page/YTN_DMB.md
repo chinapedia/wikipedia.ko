@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [YTN DMB](https://ko.wikipedia.org/wiki/YTN_DMB).
 
 
-**주식회사 YTN DMB**는 [YTN](https://ko.wikipedia.org/wiki/YTN "wikilink")의 자회사로, 수도권과 강원영서 일부, 충남북부를 가시청권으로 하는 [지상파DMB](https://ko.wikipedia.org/wiki/지상파DMB "wikilink")방송국이다. 2005년 12월 1일에 개국하였다.
+**주식회사 YTN DMB**는 [YTN](../Page/YTN.md "wikilink")의 자회사로, 수도권과 강원영서 일부, 충남북부를 가시청권으로 하는 [지상파DMB](https://ko.wikipedia.org/wiki/지상파DMB "wikilink")방송국이다. 2005년 12월 1일에 개국하였다.
 
 ## 채널 구성
 

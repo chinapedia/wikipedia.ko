@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DJMAX Portable 3](https://ko.wikipedia.org/wiki/DJMAX_Portable_3).
 
 
-《**디제이맥스 포터블 3**》(DJMAX Portable 3, DMP3)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 게임 개발사인 [펜타비전](../Page/펜타비전.md "wikilink")에서 개발한 [플레이스테이션 포터블](https://ko.wikipedia.org/wiki/플레이스테이션_포터블 "wikilink") 전용 [리듬게임이다](https://ko.wikipedia.org/wiki/리듬_게임 "wikilink"). 전작인 **디제이맥스 포터블 1**, **디제이맥스 포터블 2**의 넘버링 타이틀을 잇는 후속작이다.
+《**디제이맥스 포터블 3**》(DJMAX Portable 3, DMP3)는 [대한민국](../Page/대한민국.md "wikilink")의 게임 개발사인 [펜타비전](../Page/펜타비전.md "wikilink")에서 개발한 [플레이스테이션 포터블](../Page/플레이스테이션_포터블.md "wikilink") 전용 [리듬게임이다](../Page/리듬_게임.md "wikilink"). 전작인 **디제이맥스 포터블 1**, **디제이맥스 포터블 2**의 넘버링 타이틀을 잇는 후속작이다.
 
 ## 개요
 

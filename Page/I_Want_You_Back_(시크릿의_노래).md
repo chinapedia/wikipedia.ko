@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [I Want You Back \( \)](https://ko.wikipedia.org/wiki/I_Want_You_Back_\(_\)).
 
 
-〈**I Want You Back**〉(아이 원 유 백)은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악 그룹 [시크릿의](../Page/시크릿_\(음악_그룹\).md "wikilink") 데뷔 싱글이자 노래이다.
+〈**I Want You Back**〉(아이 원 유 백)은 [대한민국](../Page/대한민국.md "wikilink")의 음악 그룹 [시크릿의](../Page/시크릿_\(음악_그룹\).md "wikilink") 데뷔 싱글이자 노래이다.
 
 ## 수록곡
 

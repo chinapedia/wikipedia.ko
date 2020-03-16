@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [Kara Special Premium Box for Japan](https://ko.wikipedia.org/wiki/Kara_Special_Premium_Box_for_Japan).
 
 
-《**Special Premium Box for Japan**》은 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [4월 28일](https://ko.wikipedia.org/wiki/4월_28일 "wikilink") [일본](../Page/일본.md "wikilink")에 발매된 [카라의](../Page/카라_\(음악_그룹\).md "wikilink") 스페셜 음반이다.
+《**Special Premium Box for Japan**》은 [2010년](../Page/2010년.md "wikilink") [4월 28일](../Page/4월_28일.md "wikilink") [일본](../Page/일본.md "wikilink")에 발매된 [카라의](../Page/카라_\(음악_그룹\).md "wikilink") 스페셜 음반이다.
 
 ## 배경
 
   - [유니버설 뮤직 재팬과](https://ko.wikipedia.org/wiki/유니버설_뮤직_재팬 "wikilink") 계약을 맺고 낸 음반이다.
   - [일본](../Page/일본.md "wikilink") 진출 후 처음으로 내는 스페셜 음반이다.
-  - 원래는 〈미스터〉도 [일본어](https://ko.wikipedia.org/wiki/일본어 "wikilink") 버전을 추가하려고 했으나 취소되었다.\[1\]
+  - 원래는 〈미스터〉도 [일본어](../Page/일본어.md "wikilink") 버전을 추가하려고 했으나 취소되었다.\[1\]
   - [오리콘 차트](https://ko.wikipedia.org/wiki/오리콘_차트 "wikilink") 7위\[2\]
-  - 발매일은 [4월 21일](https://ko.wikipedia.org/wiki/4월_21일 "wikilink") 이였다가 [4월 28일로](https://ko.wikipedia.org/wiki/4월_28일 "wikilink") 연기 되었다.
+  - 발매일은 [4월 21일](../Page/4월_21일.md "wikilink") 이였다가 [4월 28일로](../Page/4월_28일.md "wikilink") 연기 되었다.
   - [타워레코드](https://ko.wikipedia.org/wiki/타워레코드 "wikilink")와 [HMV](https://ko.wikipedia.org/wiki/HMV "wikilink") 등에서는 다양한 프로모션이 행해지고 있다.\[3\]
-  - 이 음반을 낸 기념으로 [5월 8일에는](https://ko.wikipedia.org/wiki/5월_8일 "wikilink") [일본](../Page/일본.md "wikilink") [도쿄](../Page/도쿄.md "wikilink") [그랜드프린스 호텔에서](https://ko.wikipedia.org/wiki/그랜드프린스_호텔 "wikilink") 팬들과 악수회를 하였고, [5월 9일에는](https://ko.wikipedia.org/wiki/5월_9일 "wikilink") [요코하마](https://ko.wikipedia.org/wiki/요코하마 "wikilink") [미나토미라이 홀에서](https://ko.wikipedia.org/wiki/미나토미라이_홀 "wikilink") 공식 팬클럽 창단식이 이루어졌다.
+  - 이 음반을 낸 기념으로 [5월 8일에는](../Page/5월_8일.md "wikilink") [일본](../Page/일본.md "wikilink") [도쿄](../Page/도쿄.md "wikilink") [그랜드프린스 호텔에서](https://ko.wikipedia.org/wiki/그랜드프린스_호텔 "wikilink") 팬들과 악수회를 하였고, [5월 9일에는](../Page/5월_9일.md "wikilink") [요코하마](https://ko.wikipedia.org/wiki/요코하마 "wikilink") [미나토미라이 홀에서](https://ko.wikipedia.org/wiki/미나토미라이_홀 "wikilink") 공식 팬클럽 창단식이 이루어졌다.
 
 ## 트랙 리스트
 

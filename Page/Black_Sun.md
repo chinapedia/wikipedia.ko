@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Black Sun](https://ko.wikipedia.org/wiki/Black_Sun).
 
 
-《**Black Sun**》은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 힙합 듀오 [리쌍](../Page/리쌍.md "wikilink")이 발매한 정규 4집 앨범이다.
+《**Black Sun**》은 [대한민국](../Page/대한민국.md "wikilink")의 힙합 듀오 [리쌍](../Page/리쌍.md "wikilink")이 발매한 정규 4집 앨범이다.
 
 ## 수록곡
 

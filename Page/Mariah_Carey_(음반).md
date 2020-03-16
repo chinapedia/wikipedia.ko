@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Mariah Carey \(\)](https://ko.wikipedia.org/wiki/Mariah_Carey_\(\)).
 
 
-《**Mariah Carey**》는 1990년 6월 12일에 발매한 [머라이어 캐리의](https://ko.wikipedia.org/wiki/머라이어_캐리 "wikilink") 데뷔 음반이자 첫 번째 정규 음반이다.
+《**Mariah Carey**》는 1990년 6월 12일에 발매한 [머라이어 캐리의](../Page/머라이어_캐리.md "wikilink") 데뷔 음반이자 첫 번째 정규 음반이다.
 
 ## 트랙 리스트
 

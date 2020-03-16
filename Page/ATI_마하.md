@@ -60,7 +60,7 @@ Mach 32 칩셋은 다음 제품에 사용되었다.
       - "Mach64 CT/264CT - RAMDAC과 클럭 칩을 통합한 저가형 Mach64 (2MB DRAM)
       - "Mach64 VT/264VT - AMC 커넥터 (TV 튜너 지원)
       - "Mach64 GT/264GT 3D Rage" - 3D 기능 추가
-      - "Mach64 GT-B/264GT-B 3D Rage II - [SDRAM](https://ko.wikipedia.org/wiki/SDRAM "wikilink") & SGRAM 지원 (8MB)
+      - "Mach64 GT-B/264GT-B 3D Rage II - [SDRAM](../Page/SDRAM.md "wikilink") & SGRAM 지원 (8MB)
       - "Mach64 LT/264LT" - Mach64 GT의 저전력 모바일 버전
 
 Mach 64 칩셋은 다음 제품에 사용되었다.
@@ -71,7 +71,7 @@ Mach 64 칩셋은 다음 제품에 사용되었다.
   - Graphics Pro Turbo (2, 4MB VRAM)
   - WinTurbo (1, 2MB VRAM, 메모리 업그레이드 불가능)
   - Graphics Pro Turbo 1600 (고속 RAMDAC, PCI 버전만 출시)
-  - XCLAIM GA ([매킨토시](https://ko.wikipedia.org/wiki/매킨토시 "wikilink") 버전)
+  - XCLAIM GA ([매킨토시](../Page/매킨토시.md "wikilink") 버전)
 
 **Mach64 CT 시리즈**:
 

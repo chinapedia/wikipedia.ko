@@ -26,13 +26,13 @@
 
 ### 대회 일정
 
-  - **오프라인 예선**: [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [6월 11일](https://ko.wikipedia.org/wiki/6월_11일 "wikilink")
-  - **36강**: [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [6월 16일](https://ko.wikipedia.org/wiki/6월_16일 "wikilink") \~ [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [7월 9일](https://ko.wikipedia.org/wiki/7월_9일 "wikilink")
-  - **조지명식**: [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [7월 21일](https://ko.wikipedia.org/wiki/7월_21일 "wikilink")\[2\]
-  - **16강**: [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [7월 28일](https://ko.wikipedia.org/wiki/7월_28일 "wikilink") \~ [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [8월 13일](https://ko.wikipedia.org/wiki/8월_13일 "wikilink")
-  - **8강**: [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [8월 20일](https://ko.wikipedia.org/wiki/8월_20일 "wikilink") \~ [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [8월 27일](https://ko.wikipedia.org/wiki/8월_27일 "wikilink")
-  - **4강**: [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [9월 1일](https://ko.wikipedia.org/wiki/9월_1일 "wikilink") \~ [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [9월 3일](https://ko.wikipedia.org/wiki/9월_3일 "wikilink")
-  - **결승전**: [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [9월 11일](https://ko.wikipedia.org/wiki/9월_11일 "wikilink")
+  - **오프라인 예선**: [2010년](../Page/2010년.md "wikilink") [6월 11일](../Page/6월_11일.md "wikilink")
+  - **36강**: [2010년](../Page/2010년.md "wikilink") [6월 16일](../Page/6월_16일.md "wikilink") \~ [2010년](../Page/2010년.md "wikilink") [7월 9일](../Page/7월_9일.md "wikilink")
+  - **조지명식**: [2010년](../Page/2010년.md "wikilink") [7월 21일](../Page/7월_21일.md "wikilink")\[2\]
+  - **16강**: [2010년](../Page/2010년.md "wikilink") [7월 28일](../Page/7월_28일.md "wikilink") \~ [2010년](../Page/2010년.md "wikilink") [8월 13일](../Page/8월_13일.md "wikilink")
+  - **8강**: [2010년](../Page/2010년.md "wikilink") [8월 20일](../Page/8월_20일.md "wikilink") \~ [2010년](../Page/2010년.md "wikilink") [8월 27일](../Page/8월_27일.md "wikilink")
+  - **4강**: [2010년](../Page/2010년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink") \~ [2010년](../Page/2010년.md "wikilink") [9월 3일](../Page/9월_3일.md "wikilink")
+  - **결승전**: [2010년](../Page/2010년.md "wikilink") [9월 11일](../Page/9월_11일.md "wikilink")
 
 ### 상금
 
@@ -49,10 +49,10 @@
 
 ### 경기장
 
-  - **예선** - [용산](https://ko.wikipedia.org/wiki/용산역 "wikilink") 이스포츠 보조 경기장
+  - **예선** - [용산](../Page/용산역.md "wikilink") 이스포츠 보조 경기장
   - **본선** - 용산 이스포츠 상설 경기장\[3\]
   - **8강 투어** - 부산 [해운대 해수욕장](https://ko.wikipedia.org/wiki/해운대_해수욕장 "wikilink") 특설 경기장
-  - **결승전** - [중국](https://ko.wikipedia.org/wiki/중국 "wikilink") [상하이 시](https://ko.wikipedia.org/wiki/상하이_시 "wikilink") [동방명주탑](../Page/동방명주탑.md "wikilink")\[4\]
+  - **결승전** - [중국](../Page/중국.md "wikilink") [상하이 시](https://ko.wikipedia.org/wiki/상하이_시 "wikilink") [동방명주탑](../Page/동방명주탑.md "wikilink")\[4\]
 
 ## 맵
 
@@ -240,9 +240,9 @@
   - [eSTRO](../Page/이스트로.md "wikilink"), 약 3년 만에 개인리그 8강 진출성공 ([김성대](../Page/김성대_\(프로게이머\).md "wikilink"))
   - 이영호 제외 16강 시드권자 3명 탈락
   - 스타리그 최초 가상광고 적용 (4강 2회차부터 적용)
-  - 스타리그 사상 첫 해외 결승 ([중국](https://ko.wikipedia.org/wiki/중국 "wikilink") [상해](https://ko.wikipedia.org/wiki/상하이_시 "wikilink") [동방명주탑](../Page/동방명주탑.md "wikilink"))& 스타리그 첫 삼원 생방송 (중국 상해 - 용산 - 영등포 타임스스퀘어 CGV 스타리움관)
+  - 스타리그 사상 첫 해외 결승 ([중국](../Page/중국.md "wikilink") [상해](https://ko.wikipedia.org/wiki/상하이_시 "wikilink") [동방명주탑](../Page/동방명주탑.md "wikilink"))& 스타리그 첫 삼원 생방송 (중국 상해 - 용산 - 영등포 타임스스퀘어 CGV 스타리움관)
   - 8강이 모두 2:0으로 종료
-  - [이영호](https://ko.wikipedia.org/wiki/이영호_\(1992년\) "wikilink"), [임요환](https://ko.wikipedia.org/wiki/임요환 "wikilink")에 이어 9년 만에 3회연속 결승 진출 (역대 2번째)
+  - [이영호](https://ko.wikipedia.org/wiki/이영호_\(1992년\) "wikilink"), [임요환](../Page/임요환.md "wikilink")에 이어 9년 만에 3회연속 결승 진출 (역대 2번째)
   - 스타리그 첫 리쌍전 결승([이제동](https://ko.wikipedia.org/wiki/이제동 "wikilink") 대 [이영호](https://ko.wikipedia.org/wiki/이영호_\(1992년\) "wikilink"))성사 및 3회 연속 결승전 대결(WCG2010 국가대표선발전 결승&[빅파일 MSL 2010](../Page/빅파일_MSL_2010.md "wikilink")& 대한항공 스타리그 2010 시즌2)
   - 스타리그 최초 공식 OST : Issac Squab - Dream Flight
   - [이영호](https://ko.wikipedia.org/wiki/이영호_\(1992년\) "wikilink"), 4번째 [골든마우스](https://ko.wikipedia.org/wiki/골든마우스 "wikilink") 수상(3회 우승 달성)
@@ -250,7 +250,7 @@
   - [이영호](https://ko.wikipedia.org/wiki/이영호_\(1992년\) "wikilink"), [이윤열](../Page/이윤열.md "wikilink") 이후 양대리그 동시 우승 ([빅파일 MSL 2010](../Page/빅파일_MSL_2010.md "wikilink")& 대한항공 스타리그2010 시즌2 우승)
   - 온게임넷 스타리그 결승전에서 테란이 저그상대로 4연패에서 탈출하였다.(신한은행 스타리그 2006 시즌3 이윤열vs마재윤 Daum 스타리그 2007 변형태vs김준영 Batoo 스타리그 2008 정명훈vs이제동 대한항공 스타리그 2010 시즌1 이영호vs김정우) 이 4시즌 중 신한은행 스타리그 시즌3만 3대1로 패 나머지는 2대0으로 테란이 이기고 있다가 2대3으로 역전패를 당한 것이었다.
   - 결승전 오프닝이 세트별로 따로 제작됨.
-  - 스타리그 최초로 중국 전역 동시 생중계<ref>이를 위해 결승전에서는 자막을 [중국어](https://ko.wikipedia.org/wiki/중국어 "wikilink")와 [영어](https://ko.wikipedia.org/wiki/영어 "wikilink"), [한국어](https://ko.wikipedia.org/wiki/한국어 "wikilink")를 병행 사용했으며 경기중 자막의 경우 선수의 이름대신 아이디로 표기하였다.
+  - 스타리그 최초로 중국 전역 동시 생중계<ref>이를 위해 결승전에서는 자막을 [중국어](../Page/중국어.md "wikilink")와 [영어](../Page/영어.md "wikilink"), [한국어](../Page/한국어.md "wikilink")를 병행 사용했으며 경기중 자막의 경우 선수의 이름대신 아이디로 표기하였다.
 
 </ref>
 
@@ -278,4 +278,4 @@
 3.
 4.  [대한항공 스타리그 시즌2 결승, 중국 상하이에서 열린다\!](http://www.fomos.kr/board/board.php?mode=read&keyno=110029&db=issue)
 5.  드림라이너는 보잉사의 최첨단 항공기 보잉 787의 애칭으로 대한항공이 설계 및 제작에 참여하였다. 그리고 2인용으로 온게임넷에서는 최초로 특수사이즈(128X112)가 적용된 맵이며 라이드오브발키리즈나 블루스톰 처럼 3층언덕이 존재하고 있다.
-6.  모든 리그를 통틀어 최초이자 마지막으로 **[브라질](https://ko.wikipedia.org/wiki/브라질 "wikilink") 벤드**의 곡을 사용했다.
+6.  모든 리그를 통틀어 최초이자 마지막으로 **[브라질](../Page/브라질.md "wikilink") 벤드**의 곡을 사용했다.

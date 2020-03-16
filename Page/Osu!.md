@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Osu!](https://ko.wikipedia.org/wiki/Osu!).
 
 
-**osu\!**는 [오스트레일리아](https://ko.wikipedia.org/wiki/오스트레일리아 "wikilink")의 프로그래머인 [딘 허버트](https://ko.wikipedia.org/wiki/딘_허버트 "wikilink")(peppy)가 개발한 [리듬 게임이다](https://ko.wikipedia.org/wiki/리듬_게임 "wikilink"). 주로 [닌텐도](https://ko.wikipedia.org/wiki/닌텐도 "wikilink")의 [응원단 시리즈의](../Page/오쓰!_싸워라!_응원단.md "wikilink") 영감을 받아 그 방식을 본따서 만들어진 게임이다. 주로 온라인 혹은 오프라인으로 플레이가 가능하며, 곡은 설치 시 같이 들어있거나 직접 다운받아서 파일을 폴더에 넣어서 플레이를 할수 있다. [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink")은 'osu\!stream'이름으로 출시 되었고, [macOS](https://ko.wikipedia.org/wiki/macOS "wikilink")은 [와인을](https://ko.wikipedia.org/wiki/와인_\(소프트웨어\) "wikilink") 같이 설치해야 플레이가 가능하다. 다만, macOS은 와인으로는 임시방편이고, 사용에 문제점이 많은데다가 업데이트를 잘 안하기 때문에 문제점이 있다. [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [5월 13일](https://ko.wikipedia.org/wiki/5월_13일 "wikilink") 기준으로 전 세계 플레이어가 1000만명을 돌파하였으며, 동접자는 1만 3천명으로 추산된다.
+**osu\!**는 [오스트레일리아](../Page/오스트레일리아.md "wikilink")의 프로그래머인 [딘 허버트](https://ko.wikipedia.org/wiki/딘_허버트 "wikilink")(peppy)가 개발한 [리듬 게임이다](../Page/리듬_게임.md "wikilink"). 주로 [닌텐도](../Page/닌텐도.md "wikilink")의 [응원단 시리즈의](../Page/오쓰!_싸워라!_응원단.md "wikilink") 영감을 받아 그 방식을 본따서 만들어진 게임이다. 주로 온라인 혹은 오프라인으로 플레이가 가능하며, 곡은 설치 시 같이 들어있거나 직접 다운받아서 파일을 폴더에 넣어서 플레이를 할수 있다. [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink")은 'osu\!stream'이름으로 출시 되었고, [macOS](https://ko.wikipedia.org/wiki/macOS "wikilink")은 [와인을](../Page/와인_\(소프트웨어\).md "wikilink") 같이 설치해야 플레이가 가능하다. 다만, macOS은 와인으로는 임시방편이고, 사용에 문제점이 많은데다가 업데이트를 잘 안하기 때문에 문제점이 있다. [2017년](../Page/2017년.md "wikilink") [5월 13일](../Page/5월_13일.md "wikilink") 기준으로 전 세계 플레이어가 1000만명을 돌파하였으며, 동접자는 1만 3천명으로 추산된다.
 
 비트맵을 유저가 만들어서 업로드 한다는 특성 상, 저작권 적인 문제로 많은 비판을 받고 있다. DMCA 요청을 수용하긴 한다.
 
-주로, 이 게임은 [C\#](https://ko.wikipedia.org/wiki/C샤프 "wikilink"), [.NET Framework로](../Page/닷넷_프레임워크.md "wikilink") 작성하여 만들었다. 그런데 개발자인 [딘 허버트](https://ko.wikipedia.org/wiki/딘_허버트 "wikilink")(peppy)가 [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [8월 28일에](https://ko.wikipedia.org/wiki/8월_28일 "wikilink") [MIT 라이센스를](../Page/MIT_허가서.md "wikilink") 사용하여 [오픈 소스화](https://ko.wikipedia.org/wiki/오픈_소스 "wikilink") 시켰고(단, 게임 일부 자산은 CC BY-NC 4.0 크리에이티브 커먼즈 라이선스 사용), 소스 코드는 [Github](https://github.com/ppy)에서 공개하였다.
+주로, 이 게임은 [C\#](https://ko.wikipedia.org/wiki/C샤프 "wikilink"), [.NET Framework로](../Page/닷넷_프레임워크.md "wikilink") 작성하여 만들었다. 그런데 개발자인 [딘 허버트](https://ko.wikipedia.org/wiki/딘_허버트 "wikilink")(peppy)가 [2016년](../Page/2016년.md "wikilink") [8월 28일에](../Page/8월_28일.md "wikilink") [MIT 라이센스를](../Page/MIT_허가서.md "wikilink") 사용하여 [오픈 소스화](../Page/오픈_소스.md "wikilink") 시켰고(단, 게임 일부 자산은 CC BY-NC 4.0 크리에이티브 커먼즈 라이선스 사용), 소스 코드는 [Github](https://github.com/ppy)에서 공개하였다.
 
 ## 게임 모드 & 방법
 

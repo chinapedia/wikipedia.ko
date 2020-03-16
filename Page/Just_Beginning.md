@@ -1,18 +1,18 @@
 > This article is converted from Wikipedia: [Just Beginning](https://ko.wikipedia.org/wiki/Just_Beginning).
 
 
-| [서인국](https://ko.wikipedia.org/wiki/서인국 "wikilink")의 앨범 정보                  |
-| --------------------------------------------------------------------------- |
-| 《[부른다](../Page/부른다.md "wikilink")》                                          |
-| 《[Just Beginning](https://ko.wikipedia.org/wiki/Just_Beginning "wikilink")》 |
-| 《[애기야](../Page/애기야.md "wikilink")》                                          |
-| *[BROKEN](../Page/BROKEN_\(서인국의_음반\).md "wikilink")*                        |
-| *[Shake It Up](../Page/Shake_It_Up.md "wikilink")*                          |
-| 《[Perfect Fit](../Page/Perfect_Fit.md "wikilink")》                          |
-| 《[웃다 울다](../Page/웃다_울다.md "wikilink")》                                      |
-|                                                                             |
+| [서인국](https://ko.wikipedia.org/wiki/서인국 "wikilink")의 앨범 정보 |
+| ---------------------------------------------------------- |
+| 《[부른다](../Page/부른다.md "wikilink")》                         |
+| 《[Just Beginning](../Page/Just_Beginning.md "wikilink")》   |
+| 《[애기야](../Page/애기야.md "wikilink")》                         |
+| *[BROKEN](../Page/BROKEN_\(서인국의_음반\).md "wikilink")*       |
+| *[Shake It Up](../Page/Shake_It_Up.md "wikilink")*         |
+| 《[Perfect Fit](../Page/Perfect_Fit.md "wikilink")》         |
+| 《[웃다 울다](../Page/웃다_울다.md "wikilink")》                     |
+|                                                            |
 
-***Just Beginning***는 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [5월 6일](https://ko.wikipedia.org/wiki/5월_6일 "wikilink") 발매된 [서인국](https://ko.wikipedia.org/wiki/서인국 "wikilink")의 두 번째 [미니 앨범이다](../Page/익스텐디드_플레이.md "wikilink").
+***Just Beginning***는 [2010년](../Page/2010년.md "wikilink") [5월 6일](../Page/5월_6일.md "wikilink") 발매된 [서인국](https://ko.wikipedia.org/wiki/서인국 "wikilink")의 두 번째 [미니 앨범이다](../Page/익스텐디드_플레이.md "wikilink").
 
 ## 특징
 

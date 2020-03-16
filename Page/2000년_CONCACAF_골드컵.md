@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [2000 CONCACAF ](https://ko.wikipedia.org/wiki/2000_CONCACAF_).
 
 
-**2000년 CONCACAF 골드컵**(2000 CONCACAF Gold Cup)은 [CONCACAF](https://ko.wikipedia.org/wiki/CONCACAF "wikilink")가 개최한 5번째 [CONCACAF 골드컵으로](../Page/CONCACAF_골드컵.md "wikilink"), [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [2월 12일부터](https://ko.wikipedia.org/wiki/2월_12일 "wikilink") [2월 27일까지](https://ko.wikipedia.org/wiki/2월_27일 "wikilink") [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink"), [마이애미](https://ko.wikipedia.org/wiki/마이애미 "wikilink"), [샌디에이고](https://ko.wikipedia.org/wiki/샌디에이고 "wikilink")에서 개최되었다.
+**2000년 CONCACAF 골드컵**(2000 CONCACAF Gold Cup)은 [CONCACAF](https://ko.wikipedia.org/wiki/CONCACAF "wikilink")가 개최한 5번째 [CONCACAF 골드컵으로](../Page/CONCACAF_골드컵.md "wikilink"), [2000년](../Page/2000년.md "wikilink") [2월 12일부터](../Page/2월_12일.md "wikilink") [2월 27일까지](../Page/2월_27일.md "wikilink") [미국](../Page/미국.md "wikilink") [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink"), [마이애미](../Page/마이애미.md "wikilink"), [샌디에이고](https://ko.wikipedia.org/wiki/샌디에이고 "wikilink")에서 개최되었다.
 
 대회의 형식은 12개국이 4개의 조로 나뉘어 각 조의 1, 2위 팀이 8강에 진출하는 방식이었다. 이 대회 결승전에서는 [캐나다가](../Page/캐나다_축구_국가대표팀.md "wikilink") [콜롬비아를](../Page/콜롬비아_축구_국가대표팀.md "wikilink") 2-0으로 누르고 두 번째 우승을 차지했다.
 
@@ -9,7 +9,7 @@
 
   - [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink") - [로스앤젤레스 메모리얼 콜리세움](../Page/로스앤젤레스_메모리얼_콜리세움.md "wikilink")
   - [샌디에이고](https://ko.wikipedia.org/wiki/샌디에이고 "wikilink") - [퀄컴 스타디움](https://ko.wikipedia.org/wiki/퀄컴_스타디움 "wikilink")
-  - [마이애미](https://ko.wikipedia.org/wiki/마이애미 "wikilink") - [마이애미 오렌지 볼](../Page/마이애미_오렌지_볼.md "wikilink")
+  - [마이애미](../Page/마이애미.md "wikilink") - [마이애미 오렌지 볼](../Page/마이애미_오렌지_볼.md "wikilink")
 
 ## 예선
 
@@ -443,7 +443,7 @@
 
   - [코비 존스](../Page/코비_존스.md "wikilink")
 
-  - [파울로 완초페](https://ko.wikipedia.org/wiki/파울로_완초페 "wikilink")
+  - [파울로 완초페](../Page/파울로_완초페.md "wikilink")
 
 **1골**
 
@@ -467,7 +467,7 @@
 
   - [미키 트로트맨](https://ko.wikipedia.org/wiki/미키_트로트맨 "wikilink")
 
-  - [드와이트 요크](https://ko.wikipedia.org/wiki/드와이트_요크 "wikilink")
+  - [드와이트 요크](../Page/드와이트_요크.md "wikilink")
 
   - [호세 델 솔라](https://ko.wikipedia.org/wiki/호세_델_솔라 "wikilink")
 
@@ -529,7 +529,7 @@
 
 <!-- end list -->
 
-  - [슐랜드 데이비드](https://ko.wikipedia.org/wiki/슐랜드_데이비드 "wikilink") ([멕시코](https://ko.wikipedia.org/wiki/멕시코_축구_국가대표팀 "wikilink") 전)
+  - [슐랜드 데이비드](https://ko.wikipedia.org/wiki/슐랜드_데이비드 "wikilink") ([멕시코](../Page/멕시코_축구_국가대표팀.md "wikilink") 전)
 
   - [마셜 살라잘](https://ko.wikipedia.org/wiki/마셜_살라잘 "wikilink") ([콜롬비아](../Page/콜롬비아_축구_국가대표팀.md "wikilink") 전)
 
@@ -545,7 +545,7 @@
   - F -  [아놀드 드와리카](https://ko.wikipedia.org/wiki/아놀드_드와리카 "wikilink")
   - F -  [카를로 코라진](https://ko.wikipedia.org/wiki/카를로_코라진 "wikilink")
   - F -  [카를로스 파본](../Page/카를로스_파본.md "wikilink")
-  - F -  [드와이트 요크](https://ko.wikipedia.org/wiki/드와이트_요크 "wikilink")
+  - F -  [드와이트 요크](../Page/드와이트_요크.md "wikilink")
 
 ## 최종 순위
 

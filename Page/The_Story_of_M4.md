@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Story of M4](https://ko.wikipedia.org/wiki/The_Story_of_M4).
 
 
-《***The Story of M4***》는 2010년 2월에 발표한, [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") M4의 [미니 앨범이다](../Page/익스텐디드_플레이.md "wikilink"). M4는 솔로 가수 [김원준](../Page/김원준.md "wikilink")과 [최재훈](../Page/최재훈_\(1972년\).md "wikilink"), 그리고 각자 소속된 그룹이 있는, [유리상자](../Page/유리상자.md "wikilink")의 [이세준](../Page/이세준.md "wikilink")과 [캔의](../Page/캔_\(음악_그룹\).md "wikilink") [배기성](../Page/배기성.md "wikilink"), 이렇게 네 남자 가수가 모여 만든 프로젝트 보컬 그룹이다.\[1\] 그룹 이름에서 "M"은 [1972년](https://ko.wikipedia.org/wiki/1972년 "wikilink")생 쥐띠의 *Mouse*, *Music*의 "M"을 가리키며, 그룹 테마는 "[우정](https://ko.wikipedia.org/wiki/우정 "wikilink")"과 "유쾌함"이다.\[2\]
+《***The Story of M4***》는 2010년 2월에 발표한, [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") M4의 [미니 앨범이다](../Page/익스텐디드_플레이.md "wikilink"). M4는 솔로 가수 [김원준](../Page/김원준.md "wikilink")과 [최재훈](../Page/최재훈_\(1972년\).md "wikilink"), 그리고 각자 소속된 그룹이 있는, [유리상자](../Page/유리상자.md "wikilink")의 [이세준](../Page/이세준.md "wikilink")과 [캔의](../Page/캔_\(음악_그룹\).md "wikilink") [배기성](../Page/배기성.md "wikilink"), 이렇게 네 남자 가수가 모여 만든 프로젝트 보컬 그룹이다.\[1\] 그룹 이름에서 "M"은 [1972년](../Page/1972년.md "wikilink")생 쥐띠의 *Mouse*, *Music*의 "M"을 가리키며, 그룹 테마는 "[우정](https://ko.wikipedia.org/wiki/우정 "wikilink")"과 "유쾌함"이다.\[2\]
 
 총 6곡이 수록되었으며, 타이틀 곡은 [김원이](https://ko.wikipedia.org/wiki/김원_\(음악가\) "wikilink") [작사](https://ko.wikipedia.org/wiki/작사 "wikilink"), [작곡](https://ko.wikipedia.org/wiki/작곡 "wikilink")한 "널 위한 멜로디"이다.\[3\] 수록된 4개의 곡은 각 멤버별로 다른 멤버의 기존 노래를 새롭게 [리메이크](https://ko.wikipedia.org/wiki/리메이크 "wikilink")한 솔로 곡들이며, 여섯 곡 중 나머지 한 곡은 타이틀 곡 "널 위한 멜로디"의 연주곡 버전이다.\[4\]\[5\] 타이틀 곡 "널 위한 멜로디"는 미디엄 템포의 [팝](../Page/팝_음악.md "wikilink") [발라드이다](https://ko.wikipedia.org/wiki/발라드_\(대중_음악\) "wikilink").\[6\]
 
@@ -18,7 +18,7 @@
 1.  "**널 위한 멜로디**" (노래: M4)
 2.  "모두 잠든 후에" (Feat. [김진표](../Page/김진표_\(가수\).md "wikilink"))
     (노래: [이세준](../Page/이세준.md "wikilink"))
-3.  "순애보" (Narr. [김정은](https://ko.wikipedia.org/wiki/김정은_\(배우\) "wikilink"))
+3.  "순애보" (Narr. [김정은](../Page/김정은_\(배우\).md "wikilink"))
     (노래: [최재훈](../Page/최재훈_\(1972년\).md "wikilink"))
 4.  "가라가라" (Feat. [길미](../Page/길미.md "wikilink"))
     (노래: [김원준](../Page/김원준.md "wikilink"))
@@ -39,10 +39,10 @@ M4는 2010년 4월 9일\~10일, [서울](https://ko.wikipedia.org/wiki/서울 "w
 
 1.  [매니아디비](https://ko.wikipedia.org/wiki/매니아디비 "wikilink") - ["M4 엠포"](http://www.maniadb.com/artist.asp?p=255959)
 2.  SBS LoveFM《[정선희의 러브 FM](https://ko.wikipedia.org/wiki/정선희의_러브_FM "wikilink")》. 2010년 3월 3일 수요일 방송.
-3.  [싸이월드](https://ko.wikipedia.org/wiki/싸이월드 "wikilink") BGM - ["널 위한 멜로디"](http://music.cyworld.com/song.asp?sid=1339857)
-4.  [다음](https://ko.wikipedia.org/wiki/다음 "wikilink") 뮤직 - ["*The Story of M4*"](http://music.daum.net/album/album.do?albumId=494886)
-5.  [네이버](https://ko.wikipedia.org/wiki/네이버 "wikilink") 뮤직 - ["*The Story of M4*"](http://music.naver.com/album.nhn?tubeid=191271)
-6.  [한국일보](https://ko.wikipedia.org/wiki/한국일보 "wikilink") - 2010년 3월, [인터뷰 기사](http://news.hankooki.com/lpage/culture/201003/h20100302063706111780.htm).
+3.  [싸이월드](../Page/싸이월드.md "wikilink") BGM - ["널 위한 멜로디"](http://music.cyworld.com/song.asp?sid=1339857)
+4.  [다음](../Page/다음.md "wikilink") 뮤직 - ["*The Story of M4*"](http://music.daum.net/album/album.do?albumId=494886)
+5.  [네이버](../Page/네이버.md "wikilink") 뮤직 - ["*The Story of M4*"](http://music.naver.com/album.nhn?tubeid=191271)
+6.  [한국일보](../Page/한국일보.md "wikilink") - 2010년 3월, [인터뷰 기사](http://news.hankooki.com/lpage/culture/201003/h20100302063706111780.htm).
 7.
 8.  MBC FM4U《[김범수와 꿈꾸는 라디오](https://ko.wikipedia.org/wiki/김범수와_꿈꾸는_라디오 "wikilink")》. 2010년 2월 25일 목요일 방송.
 9.  SBS PowerFM《[송은이 신봉선의 동고동락](../Page/동고동락.md "wikilink")》. 2010년 3월 3일 수요일 방송.

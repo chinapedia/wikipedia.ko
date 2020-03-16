@@ -5,7 +5,7 @@
 
 ## 개요
 
-보컬 [난조 요시노와](https://ko.wikipedia.org/wiki/난조_요시노 "wikilink") 사운드 프로듀스 담당 [야기누마 사토시](https://ko.wikipedia.org/wiki/야기누마_사토시 "wikilink")(통칭 **sat**)의 두 명으로 구성되는 [트랜스](https://ko.wikipedia.org/wiki/트랜스_\(음악\) "wikilink") 장르를 기조로 한 음악이 특징인 음악 그룹이다. fripSide에는 제 1기와 제 2기가 있는데, 1기는 sat와 [nao](../Page/Nao_\(1985년\).md "wikilink") 두 사람이 [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") 결성했다가 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")에 nao의 탈퇴로 마감했다. 2기는 그 해 [8월](https://ko.wikipedia.org/wiki/8월 "wikilink") 보컬로 [난조 요시노가](https://ko.wikipedia.org/wiki/난조_요시노 "wikilink") 들어오면서 시작해 현재에 이른다.
+보컬 [난조 요시노와](https://ko.wikipedia.org/wiki/난조_요시노 "wikilink") 사운드 프로듀스 담당 [야기누마 사토시](https://ko.wikipedia.org/wiki/야기누마_사토시 "wikilink")(통칭 **sat**)의 두 명으로 구성되는 [트랜스](https://ko.wikipedia.org/wiki/트랜스_\(음악\) "wikilink") 장르를 기조로 한 음악이 특징인 음악 그룹이다. fripSide에는 제 1기와 제 2기가 있는데, 1기는 sat와 [nao](../Page/Nao_\(1985년\).md "wikilink") 두 사람이 [2002년](../Page/2002년.md "wikilink") 결성했다가 [2009년](../Page/2009년.md "wikilink")에 nao의 탈퇴로 마감했다. 2기는 그 해 [8월](../Page/8월.md "wikilink") 보컬로 [난조 요시노가](https://ko.wikipedia.org/wiki/난조_요시노 "wikilink") 들어오면서 시작해 현재에 이른다.
 
 ### 음악성
 
@@ -19,85 +19,85 @@ fripSide라는 단어는 sat이 만든 단어로, [레코드의 B면을](https:/
 
 ### 현 구성원
 
-  - **[난조 요시노](https://ko.wikipedia.org/wiki/난조_요시노 "wikilink")**(, [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") [7월 12일생](https://ko.wikipedia.org/wiki/7월_12일 "wikilink")) (2대 보컬/작사)
+  - **[난조 요시노](https://ko.wikipedia.org/wiki/난조_요시노 "wikilink")**(, [1984년](../Page/1984년.md "wikilink") [7월 12일생](../Page/7월_12일.md "wikilink")) (2대 보컬/작사)
 
 <!-- end list -->
 
   -
-    [시즈오카현](https://ko.wikipedia.org/wiki/시즈오카현 "wikilink") 출신. [office EN-jin](https://ko.wikipedia.org/wiki/office_EN-jin "wikilink") 소속 성우로도 활동 중. 애칭은 난죠르노(), 난짱(), 요시노짱(), 오죠() 등이 있다.
+    [시즈오카현](../Page/시즈오카현.md "wikilink") 출신. [office EN-jin](https://ko.wikipedia.org/wiki/office_EN-jin "wikilink") 소속 성우로도 활동 중. 애칭은 난죠르노(), 난짱(), 요시노짱(), 오죠() 등이 있다.
 
 <!-- end list -->
 
-  - **[야기누마 사토시](https://ko.wikipedia.org/wiki/야기누마_사토시 "wikilink")**(, [1975년](https://ko.wikipedia.org/wiki/1975년 "wikilink") [10월 29일생](https://ko.wikipedia.org/wiki/10월_29일 "wikilink")) (프로듀서/작곡/편곡/작사/프로그래밍/기타 연주)
+  - **[야기누마 사토시](https://ko.wikipedia.org/wiki/야기누마_사토시 "wikilink")**(, [1975년](../Page/1975년.md "wikilink") [10월 29일생](../Page/10월_29일.md "wikilink")) (프로듀서/작곡/편곡/작사/프로그래밍/기타 연주)
 
 <!-- end list -->
 
   -
-    [치바 현](https://ko.wikipedia.org/wiki/지바현 "wikilink") [우라야스 시](https://ko.wikipedia.org/wiki/우라야스_시 "wikilink") 출신. 주식회사 p.m.works 대표. 아티스트 표기는 **sat** 혹은 본명의 로마자 표기법 'Satoshi Yaginuma'를 사용하는 경우가 많다.
+    [치바 현](../Page/지바현.md "wikilink") [우라야스 시](https://ko.wikipedia.org/wiki/우라야스_시 "wikilink") 출신. 주식회사 p.m.works 대표. 아티스트 표기는 **sat** 혹은 본명의 로마자 표기법 'Satoshi Yaginuma'를 사용하는 경우가 많다.
 
 ### 전 구성원
 
-  - [nao](../Page/Nao_\(1985년\).md "wikilink")([1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink") [1월 26일생](https://ko.wikipedia.org/wiki/1월_26일 "wikilink")) (초대 보컬/작사)
+  - [nao](../Page/Nao_\(1985년\).md "wikilink")([1985년](../Page/1985년.md "wikilink") [1월 26일생](../Page/1월_26일.md "wikilink")) (초대 보컬/작사)
 
 <!-- end list -->
 
   -
-    [치바 현](https://ko.wikipedia.org/wiki/지바현 "wikilink") [노다 시](https://ko.wikipedia.org/wiki/노다_시 "wikilink") 출신. 현재는 솔로 및 [Dystopia Ground로](https://ko.wikipedia.org/wiki/Dystopia_Ground "wikilink") 활동 중.
+    [치바 현](../Page/지바현.md "wikilink") [노다 시](https://ko.wikipedia.org/wiki/노다_시 "wikilink") 출신. 현재는 솔로 및 [Dystopia Ground로](https://ko.wikipedia.org/wiki/Dystopia_Ground "wikilink") 활동 중.
 
 ## 활동 경력
 
 ### 제 1기
 
-  - [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink")부터 활동을 시작, 일본 최대의 인디 음악 사이트인 [muzie](https://ko.wikipedia.org/wiki/muzie "wikilink")에서 동인 음악 활동으로 인기를 얻었다.
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")부터 주식회사 [비주얼 아츠와](../Page/비주얼_아츠.md "wikilink") 업무 제휴를 맺어 게임 음악 등을 담당했다.
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [7월 16일](https://ko.wikipedia.org/wiki/7월_16일 "wikilink"), [5pb.](https://ko.wikipedia.org/wiki/5pb. "wikilink")records에서 TV 애니메이션 '[연희†무쌍](https://ko.wikipedia.org/wiki/연희†무쌍 "wikilink")'의 오프닝 곡 'flower of bravery'로 메이저 데뷔했다.
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [3월 15일](https://ko.wikipedia.org/wiki/3월_15일 "wikilink"), 공식 사이트에서 nao의 탈퇴가 발표되었다.
+  - [2002년](../Page/2002년.md "wikilink")부터 활동을 시작, 일본 최대의 인디 음악 사이트인 [muzie](https://ko.wikipedia.org/wiki/muzie "wikilink")에서 동인 음악 활동으로 인기를 얻었다.
+  - [2006년](../Page/2006년.md "wikilink")부터 주식회사 [비주얼 아츠와](../Page/비주얼_아츠.md "wikilink") 업무 제휴를 맺어 게임 음악 등을 담당했다.
+  - [2008년](../Page/2008년.md "wikilink") [7월 16일](../Page/7월_16일.md "wikilink"), [5pb.](https://ko.wikipedia.org/wiki/5pb. "wikilink")records에서 TV 애니메이션 '[연희†무쌍](https://ko.wikipedia.org/wiki/연희†무쌍 "wikilink")'의 오프닝 곡 'flower of bravery'로 메이저 데뷔했다.
+  - [2009년](../Page/2009년.md "wikilink") [3월 15일](../Page/3월_15일.md "wikilink"), 공식 사이트에서 nao의 탈퇴가 발표되었다.
   - [2009년 4월](../Page/2009년_4월.md "wikilink"), nao의 탈퇴 즈음 이미 있었던 요청곡을 완료하기 위해 sat과 [리타](https://ko.wikipedia.org/wiki/리타 "wikilink")의 1곡 한정 공동 유닛 'fripSide featuring Rita' 명의로 'spiral of despair -resurrection-'을 발표했다.
-  - 2009년 [7월 17일](https://ko.wikipedia.org/wiki/7월_17일 "wikilink"), fripSide(제 1기) 공식 종료. 10장분의 기념 앨범 'nao complete anthology 2002-2009 -my graduation-'을 발매했다.
+  - 2009년 [7월 17일](../Page/7월_17일.md "wikilink"), fripSide(제 1기) 공식 종료. 10장분의 기념 앨범 'nao complete anthology 2002-2009 -my graduation-'을 발매했다.
 
 ### fripSide NAO Project\!
 
   - fripSide(제 1기)의 다른 명의, 주로 PC 게임용 곡을 제작했다.
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [3월 30일부터](https://ko.wikipedia.org/wiki/3월_30일 "wikilink") 활동을 시작했다.
-  - 2008년 [8월 20일](https://ko.wikipedia.org/wiki/8월_20일 "wikilink"), 5pb.records에서 TV 애니메이션 '연희†무쌍'의 엔딩 곡 '역시 세상은 나☆레전드()로 메이저 데뷔.
+  - [2007년](../Page/2007년.md "wikilink") [3월 30일부터](../Page/3월_30일.md "wikilink") 활동을 시작했다.
+  - 2008년 [8월 20일](../Page/8월_20일.md "wikilink"), 5pb.records에서 TV 애니메이션 '연희†무쌍'의 엔딩 곡 '역시 세상은 나☆레전드()로 메이저 데뷔.
   - nao의 탈퇴와 함께 활동 종료.
 
 ### 제 2기
 
 **2009년**
 
-  - [7월 29일](https://ko.wikipedia.org/wiki/7월_29일 "wikilink"), fripSide(제 2기)의 활동 시작을 선언했다.
-  - [8월 7일](https://ko.wikipedia.org/wiki/8월_7일 "wikilink"), 공식 사이트에서 2대 보컬 발표, 성우인 [난조 요시노였다](https://ko.wikipedia.org/wiki/난조_요시노 "wikilink").
-  - [10월 3일](https://ko.wikipedia.org/wiki/10월_3일 "wikilink"), 전격 캐릭터 페스티벌 2009에 출연했다.
-  - [11월 4일](https://ko.wikipedia.org/wiki/11월_4일 "wikilink"), 제네온 유니버설 엔터테인먼트 재팬(현 [NBC유니버설 엔터테인먼트 재팬](../Page/NBC유니버설_엔터테인먼트_재팬.md "wikilink"))에서 애니메이션 '[어떤 과학의 초전자포](../Page/어떤_마술의_금서목록.md "wikilink")' 오프닝 곡 'only my railgun'으로 다시 메이저 데뷔, [오리콘](../Page/오리콘.md "wikilink") 종합 차트 3위에 올랐다.
+  - [7월 29일](../Page/7월_29일.md "wikilink"), fripSide(제 2기)의 활동 시작을 선언했다.
+  - [8월 7일](../Page/8월_7일.md "wikilink"), 공식 사이트에서 2대 보컬 발표, 성우인 [난조 요시노였다](https://ko.wikipedia.org/wiki/난조_요시노 "wikilink").
+  - [10월 3일](../Page/10월_3일.md "wikilink"), 전격 캐릭터 페스티벌 2009에 출연했다.
+  - [11월 4일](../Page/11월_4일.md "wikilink"), 제네온 유니버설 엔터테인먼트 재팬(현 [NBC유니버설 엔터테인먼트 재팬](../Page/NBC유니버설_엔터테인먼트_재팬.md "wikilink"))에서 애니메이션 '[어떤 과학의 초전자포](../Page/어떤_마술의_금서목록.md "wikilink")' 오프닝 곡 'only my railgun'으로 다시 메이저 데뷔, [오리콘](../Page/오리콘.md "wikilink") 종합 차트 3위에 올랐다.
 
 **2010년**
 
-  - [2월 17일](https://ko.wikipedia.org/wiki/2월_17일 "wikilink") 2nd 싱글 'LEVEL5-judgelight-'(애니메이션 '어떤 과학의 초전자포' 두 번째 오프닝) 발매. 오리콘 종합 차트 4위에 올랐다.
-  - [4월 9일부터](https://ko.wikipedia.org/wiki/4월_9일 "wikilink") [분카 방송의](../Page/분카_방송.md "wikilink") 초\!A\&G+(超\!A\&G+)에서 라디오 방송 'RADIO RONDO ROBE\~only my radio-gun\~'(매주 금요일 21시 30분\~22시)를 시작했다.
-  - [8월 28일](https://ko.wikipedia.org/wiki/8월_28일 "wikilink")\~[8월 29일에](https://ko.wikipedia.org/wiki/8월_29일 "wikilink") 열리는 [Animelo Summer Live 2010 -evolution-에](https://ko.wikipedia.org/wiki/애니멜로_섬머_라이브 "wikilink") 출연을 결정했다.(출연일은 8월 28일)
-  - [10월 13일에](https://ko.wikipedia.org/wiki/10월_13일 "wikilink") 3rd 싱글 'future gazer'(애니메이션 '어떤 과학의 초전자포 OVA' 오프닝 테마) 발매.
-  - [12월 1일에](https://ko.wikipedia.org/wiki/12월_1일 "wikilink") 첫 앨범 'infinite synthesis' 발매.
+  - [2월 17일](../Page/2월_17일.md "wikilink") 2nd 싱글 'LEVEL5-judgelight-'(애니메이션 '어떤 과학의 초전자포' 두 번째 오프닝) 발매. 오리콘 종합 차트 4위에 올랐다.
+  - [4월 9일부터](../Page/4월_9일.md "wikilink") [분카 방송의](../Page/분카_방송.md "wikilink") 초\!A\&G+(超\!A\&G+)에서 라디오 방송 'RADIO RONDO ROBE\~only my radio-gun\~'(매주 금요일 21시 30분\~22시)를 시작했다.
+  - [8월 28일](../Page/8월_28일.md "wikilink")\~[8월 29일에](../Page/8월_29일.md "wikilink") 열리는 [Animelo Summer Live 2010 -evolution-에](https://ko.wikipedia.org/wiki/애니멜로_섬머_라이브 "wikilink") 출연을 결정했다.(출연일은 8월 28일)
+  - [10월 13일에](../Page/10월_13일.md "wikilink") 3rd 싱글 'future gazer'(애니메이션 '어떤 과학의 초전자포 OVA' 오프닝 테마) 발매.
+  - [12월 1일에](../Page/12월_1일.md "wikilink") 첫 앨범 'infinite synthesis' 발매.
 
 **2011년**
 
-  - [8월 24일에](https://ko.wikipedia.org/wiki/8월_24일 "wikilink") 4th 싱글 'Heaven is a Place on Earth'(극장판 애니메이션 '하야테처럼' OST) 발매.
-  - [12월 14일에](https://ko.wikipedia.org/wiki/12월_14일 "wikilink") 5th 싱글 'way to answer'(PSP게임 '어떤 과학의 초전자포 OST) 발매.
+  - [8월 24일에](../Page/8월_24일.md "wikilink") 4th 싱글 'Heaven is a Place on Earth'(극장판 애니메이션 '하야테처럼' OST) 발매.
+  - [12월 14일에](../Page/12월_14일.md "wikilink") 5th 싱글 'way to answer'(PSP게임 '어떤 과학의 초전자포 OST) 발매.
 
 **2012년**
 
-  - [10월 8일에](https://ko.wikipedia.org/wiki/10월_8일 "wikilink") 'fripSide Premium Live Infinite Synthesis \~ The Eve of Decade'를 카와사키 CLUB CITTA에서 개최.
-  - [12월 5일에](https://ko.wikipedia.org/wiki/12월_5일 "wikilink") 두 번째 앨범 'DECADE' 발매.
-  - [12월 22일에](https://ko.wikipedia.org/wiki/12월_22일 "wikilink") 도쿄 신키바 STUDIO COAST에서 'fripSide 10th Anniversary Live 2012 \~ DECADE Tokyo \~ 개최.
+  - [10월 8일에](../Page/10월_8일.md "wikilink") 'fripSide Premium Live Infinite Synthesis \~ The Eve of Decade'를 카와사키 CLUB CITTA에서 개최.
+  - [12월 5일에](../Page/12월_5일.md "wikilink") 두 번째 앨범 'DECADE' 발매.
+  - [12월 22일에](../Page/12월_22일.md "wikilink") 도쿄 신키바 STUDIO COAST에서 'fripSide 10th Anniversary Live 2012 \~ DECADE Tokyo \~ 개최.
 
 **2013년**
 
-  - [5월 8일에](https://ko.wikipedia.org/wiki/5월_8일 "wikilink") 6th 싱글 'sister's noise'(애니메이션 '어떤 과학의 초전자포S' 오프닝 테마) 발매.
-  - [8월 21일에](https://ko.wikipedia.org/wiki/8월_21일 "wikilink") 7th 싱글 'eternal reality'(애니메이션 '어떤 과학의 초전자포S' 두 번째 오프닝 테마) 발매.
+  - [5월 8일에](../Page/5월_8일.md "wikilink") 6th 싱글 'sister's noise'(애니메이션 '어떤 과학의 초전자포S' 오프닝 테마) 발매.
+  - [8월 21일에](../Page/8월_21일.md "wikilink") 7th 싱글 'eternal reality'(애니메이션 '어떤 과학의 초전자포S' 두 번째 오프닝 테마) 발매.
 
 **2014년**
 
-  - [5월 14일에](https://ko.wikipedia.org/wiki/5월_14일 "wikilink") 8th 싱글 'black bullet'(애니메이션 '블랙 불릿' 오프닝 테마) 발매.
+  - [5월 14일에](../Page/5월_14일.md "wikilink") 8th 싱글 'black bullet'(애니메이션 '블랙 불릿' 오프닝 테마) 발매.
 
 ## 음반
 
@@ -116,7 +116,7 @@ fripSide라는 단어는 sat이 만든 단어로, [레코드의 B면을](https:/
 </tr>
 <tr class="even">
 <td><p>1st</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2008년" title="wikilink">2008년</a> <a href="https://ko.wikipedia.org/wiki/7월_16일" title="wikilink">7월 16일</a></p></td>
+<td><p><a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/7월_16일.md" title="wikilink">7월 16일</a></p></td>
 <td><p><strong>flower of bravery</strong></p></td>
 <td><p>1.flower of bravery (애니메이션『<a href="https://ko.wikipedia.org/wiki/연희†무쌍" title="wikilink">연희†무쌍</a>』오프닝)<br />
 2.sky -version 2008-<br />
@@ -139,7 +139,7 @@ fripSide라는 단어는 sat이 만든 단어로, [레코드의 B면을](https:/
 </tr>
 <tr class="even">
 <td><p>1st</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2003년" title="wikilink">2003년</a> <a href="https://ko.wikipedia.org/wiki/4월_12일" title="wikilink">4월 12일</a></p></td>
+<td><p><a href="../Page/2003년.md" title="wikilink">2003년</a> <a href="../Page/4월_12일.md" title="wikilink">4월 12일</a></p></td>
 <td><p><strong>1st odyssey of fripSide</strong></p></td>
 <td><p>1.introduction<br />
 2.distant moon<br />
@@ -155,7 +155,7 @@ fripSide라는 단어는 sat이 만든 단어로, [레코드의 B면을](https:/
 </tr>
 <tr class="odd">
 <td><p>2nd</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2004년" title="wikilink">2004년</a> <a href="https://ko.wikipedia.org/wiki/3월_28일" title="wikilink">3월 28일</a></p></td>
+<td><p><a href="../Page/2004년.md" title="wikilink">2004년</a> <a href="../Page/3월_28일.md" title="wikilink">3월 28일</a></p></td>
 <td><p><strong>2nd fragment of fripSide</strong></p></td>
 <td><p>1.second fragment<br />
 2.sky<br />
@@ -172,7 +172,7 @@ fripSide라는 단어는 sat이 만든 단어로, [레코드의 B면을](https:/
 </tr>
 <tr class="even">
 <td><p>3rd</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2005년" title="wikilink">2005년</a> <a href="https://ko.wikipedia.org/wiki/6월_23일" title="wikilink">6월 23일</a></p></td>
+<td><p><a href="../Page/2005년.md" title="wikilink">2005년</a> <a href="../Page/6월_23일.md" title="wikilink">6월 23일</a></p></td>
 <td><p><strong>3rd reflection of fripSide</strong></p></td>
 <td><p>1.an evening calm<br />
 2.reminiscense blue<br />
@@ -189,7 +189,7 @@ fripSide라는 단어는 sat이 만든 단어로, [레코드의 B면을](https:/
 </tr>
 <tr class="odd">
 <td><p>4th</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2007년" title="wikilink">2007년</a> <a href="https://ko.wikipedia.org/wiki/8월_24일" title="wikilink">8월 24일</a></p></td>
+<td><p><a href="../Page/2007년.md" title="wikilink">2007년</a> <a href="../Page/8월_24일.md" title="wikilink">8월 24일</a></p></td>
 <td><p><strong>binarydigit</strong></p></td>
 <td><p>1.binary digit<br />
 2.hurting heart (게임『<a href="https://ko.wikipedia.org/wiki/신곡주계_폴리포니카" title="wikilink">신곡주계 폴리포니카 THE BLACK</a>』주제곡)<br />
@@ -202,7 +202,7 @@ fripSide라는 단어는 sat이 만든 단어로, [레코드의 B면을](https:/
 9.transient wind -version 2007-<br />
 10.dream myself! (드라마CD『ケータイ刑事 〜尾瀬道櫻子の事件簿 緑のメガネ殺人事件〜』주제곡)<br />
 11.true eternity -album version-<br />
-12.brave new world (드라마CD『<a href="https://ko.wikipedia.org/wiki/플라네타리안_~자그마한_별의_꿈~" title="wikilink">플라네타리안</a> 제 2장 엘사렘』삽입곡)</p></td>
+12.brave new world (드라마CD『<a href="../Page/플라네타리안_~자그마한_별의_꿈~.md" title="wikilink">플라네타리안</a> 제 2장 엘사렘』삽입곡)</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>bonus disc(초회 한정)</strong><br />
@@ -215,7 +215,7 @@ fripSide라는 단어는 sat이 만든 단어로, [레코드의 B면을](https:/
 <tr class="odd">
 <td><p>5th</p></td>
 <td><p>소프트페어<br />
-<a href="https://ko.wikipedia.org/wiki/2008년" title="wikilink">2008년</a> <a href="https://ko.wikipedia.org/wiki/9월_16일" title="wikilink">9월 16일</a></p></td>
+<a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/9월_16일.md" title="wikilink">9월 16일</a></p></td>
 <td><p><strong>split tears</strong></p></td>
 <td><p>1.before dawn daybreak (게임『Before Dawn Daybreak ~심연의 가희~』주제곡）<br />
 2.split tears (게임『짝사랑의 달』삽입곡）<br />
@@ -231,7 +231,7 @@ fripSide라는 단어는 sat이 만든 단어로, [레코드의 B면을](https:/
 </tr>
 <tr class="even">
 <td><p>메이저<br />
-<a href="https://ko.wikipedia.org/wiki/2008년" title="wikilink">2008년</a> <a href="https://ko.wikipedia.org/wiki/9월_17일" title="wikilink">9월 17일</a></p></td>
+<a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/9월_17일.md" title="wikilink">9월 17일</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -251,7 +251,7 @@ fripSide라는 단어는 sat이 만든 단어로, [레코드의 B면을](https:/
 </tr>
 <tr class="even">
 <td><p>Best</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2006년" title="wikilink">2006년</a> <a href="https://ko.wikipedia.org/wiki/7월_15일" title="wikilink">7월 15일</a></p></td>
+<td><p><a href="../Page/2006년.md" title="wikilink">2006년</a> <a href="../Page/7월_15일.md" title="wikilink">7월 15일</a></p></td>
 <td><p><strong>the very best of fripSide 2002-2006(동인판)</strong></p></td>
 <td><p><strong>Disc1 nao Side</strong><br />
 1.come to mind<br />
@@ -291,7 +291,7 @@ fripSide라는 단어는 sat이 만든 단어로, [레코드의 B면을](https:/
 </tr>
 <tr class="even">
 <td><p>Best</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2006년" title="wikilink">2006년</a> <a href="https://ko.wikipedia.org/wiki/12월_29일" title="wikilink">12월 29일</a></p></td>
+<td><p><a href="../Page/2006년.md" title="wikilink">2006년</a> <a href="../Page/12월_29일.md" title="wikilink">12월 29일</a></p></td>
 <td><p><strong>the very best of fripSide 2002-2006(상업유통판)</strong></p></td>
 <td><p><strong>Disc1 nao Side</strong><br />
 1.Red -reduction division- (게임『그녀들의 유의』오프닝곡）<br />
@@ -331,7 +331,7 @@ fripSide라는 단어는 sat이 만든 단어로, [레코드의 B면을](https:/
 </tr>
 <tr class="even">
 <td><p>Remix</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2008년" title="wikilink">2008년</a> <a href="https://ko.wikipedia.org/wiki/12월_28일" title="wikilink">12월 28일</a></p></td>
+<td><p><a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/12월_28일.md" title="wikilink">12월 28일</a></p></td>
 <td><p><strong>Re:product mixes ver.0.1(<a href="https://ko.wikipedia.org/wiki/코믹_마켓" title="wikilink">코믹 마켓</a> 75안정)</strong></p></td>
 <td><p>1.hurting heart [Jju-Ri-Mix]<br />
 2.Red -reduction division- [sat vs tkm RMX ver.2.1]<br />
@@ -345,14 +345,14 @@ fripSide라는 단어는 sat이 만든 단어로, [레코드의 B면을](https:/
 <td><p>CD-BOX</p></td>
 <td><p>초회판<br />
 2009 세트 안정생산<br />
-<a href="https://ko.wikipedia.org/wiki/2009년" title="wikilink">2009년</a> <a href="https://ko.wikipedia.org/wiki/7월_17일" title="wikilink">7월 17일</a></p></td>
+<a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/7월_17일.md" title="wikilink">7월 17일</a></p></td>
 <td><p><strong>nao complete anthology 2002-2009 -my graduation-</strong></p></td>
 <td><p>* <a href="https://web.archive.org/web/20100131060116/http://fripside.net/cd/complete_anthology/index.htm">105곡</a></p></td>
 </tr>
 <tr class="even">
 <td><p>통상판<br />
 코믹 마켓 77선행 판매<br />
-<a href="https://ko.wikipedia.org/wiki/2009년" title="wikilink">2009년</a> <a href="https://ko.wikipedia.org/wiki/12월_29일" title="wikilink">12월 29일</a></p></td>
+<a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/12월_29일.md" title="wikilink">12월 29일</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -360,7 +360,7 @@ fripSide라는 단어는 sat이 만든 단어로, [레코드의 B면을](https:/
 <tr class="odd">
 <td><p>통상판<br />
 일반 판매<br />
-<a href="https://ko.wikipedia.org/wiki/2010년" title="wikilink">2010년</a> <a href="https://ko.wikipedia.org/wiki/3월_26일" title="wikilink">3월 26일</a></p></td>
+<a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/3월_26일.md" title="wikilink">3월 26일</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -372,10 +372,10 @@ fripSide라는 단어는 sat이 만든 단어로, [레코드의 B면을](https:/
 
 #### 싱글
 
-|     |                                                                                                                   |                 |     |                |
-| --- | ----------------------------------------------------------------------------------------------------------------- | --------------- | --- | -------------- |
-|     | 발매일                                                                                                               | 타이틀             |     |                |
-| 1st | [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [8월 20일](https://ko.wikipedia.org/wiki/8월_20일 "wikilink") | '''역시 세상은 나☆레전드 | ''' | 1.역시 세상은 나☆레전드 |
+|     |                                                                             |                 |     |                |
+| --- | --------------------------------------------------------------------------- | --------------- | --- | -------------- |
+|     | 발매일                                                                         | 타이틀             |     |                |
+| 1st | [2008년](../Page/2008년.md "wikilink") [8월 20일](../Page/8월_20일.md "wikilink") | '''역시 세상은 나☆레전드 | ''' | 1.역시 세상은 나☆레전드 |
 
 #### 오리지널 앨범
 
@@ -389,7 +389,7 @@ fripSide라는 단어는 sat이 만든 단어로, [레코드의 B면을](https:/
 </tr>
 <tr class="even">
 <td><p>1st</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2008년" title="wikilink">2008년</a> <a href="https://ko.wikipedia.org/wiki/1월_25일" title="wikilink">1월 25일</a></p></td>
+<td><p><a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/1월_25일.md" title="wikilink">1월 25일</a></p></td>
 <td><p><em>' Rabbit Syndrome</em>'</p></td>
 <td><p>1.あっせんぶる☆LOVEさんぶる (게임『누나는 에로 만화 편집자』주제곡)<br />
 2.세나★세나@Surprise</p></td>
@@ -412,7 +412,7 @@ fripSide라는 단어는 sat이 만든 단어로, [레코드의 B면을](https:/
 </tr>
 <tr class="even">
 <td><p>1st</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2009년" title="wikilink">2009년</a> <a href="https://ko.wikipedia.org/wiki/11월_4일" title="wikilink">11월 4일</a></p></td>
+<td><p><a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/11월_4일.md" title="wikilink">11월 4일</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/only_my_railgun" title="wikilink">only my railgun</a></strong></p></td>
 <td><p>1.only my railgun (애니메이션『<a href="https://ko.wikipedia.org/wiki/어떤_마술의_금서목록#어떤_과학의_초전자포" title="wikilink">어떤 과학의 초전자포</a>』1쿨 오프닝 테마)<br />
 2.late in autumn<br />
@@ -422,7 +422,7 @@ fripSide라는 단어는 sat이 만든 단어로, [레코드의 B면을](https:/
 </tr>
 <tr class="odd">
 <td><p>2nd</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2010년" title="wikilink">2010년</a> <a href="https://ko.wikipedia.org/wiki/2월_17일" title="wikilink">2월 17일</a></p></td>
+<td><p><a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/2월_17일.md" title="wikilink">2월 17일</a></p></td>
 <td><p><strong><a href="../Page/LEVEL5-judgelight-.md" title="wikilink">LEVEL5-judgelight-</a></strong></p></td>
 <td><p>| 1.LEVEL5-judgelight- (애니메이션『<a href="https://ko.wikipedia.org/wiki/어떤_마술의_금서목록#어떤_과학의_초전자포" title="wikilink">어떤 과학의 초전자포</a>』2쿨 오프닝 테마)<br />
 2.memory of snow<br />
@@ -432,7 +432,7 @@ fripSide라는 단어는 sat이 만든 단어로, [레코드의 B면을](https:/
 </tr>
 <tr class="even">
 <td><p>3rd</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2010년" title="wikilink">2010년</a> <a href="https://ko.wikipedia.org/wiki/10월_13일" title="wikilink">10월 13일</a></p></td>
+<td><p><a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/10월_13일.md" title="wikilink">10월 13일</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/future_gazer" title="wikilink">future gazer</a></strong></p></td>
 <td><p>| 1.future gazer (애니메이션『어떤 과학의 초전자포 OVA』오프닝 테마)<br />
 2.fortissimo -the ultimate crisis- (PC게임『fortissimo // Akkord：Bsusvier』오프닝 테마<br />
@@ -442,7 +442,7 @@ fripSide라는 단어는 sat이 만든 단어로, [레코드의 B면을](https:/
 </tr>
 <tr class="odd">
 <td><p>4th</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2011년" title="wikilink">2011년</a> <a href="https://ko.wikipedia.org/wiki/8월_24일" title="wikilink">8월 24일</a></p></td>
+<td><p><a href="../Page/2011년.md" title="wikilink">2011년</a> <a href="../Page/8월_24일.md" title="wikilink">8월 24일</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/Heaven_is_a_Place_on_Earth" title="wikilink">Heaven is a Place on Earth</a></strong></p></td>
 <td><p>| 1.Heaven is a Place on Earth (극장판 애니메이션『하야테처럼』주제가)<br />
 2.the end of summer<br />
@@ -452,7 +452,7 @@ fripSide라는 단어는 sat이 만든 단어로, [레코드의 B면을](https:/
 </tr>
 <tr class="even">
 <td><p>5th</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2011년" title="wikilink">2011년</a> <a href="https://ko.wikipedia.org/wiki/12월_14일" title="wikilink">12월 14일</a></p></td>
+<td><p><a href="../Page/2011년.md" title="wikilink">2011년</a> <a href="../Page/12월_14일.md" title="wikilink">12월 14일</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/way_to_answer" title="wikilink">way to answer</a></strong></p></td>
 <td><p>| 1.way to answer (PSP게임『어떤 과학의 초전자포』오프닝 테마)<br />
 2.last fortune (PC게임『팅클☆크루세이더스』주제가)<br />
@@ -462,7 +462,7 @@ fripSide라는 단어는 sat이 만든 단어로, [레코드의 B면을](https:/
 </tr>
 <tr class="odd">
 <td><p>6th</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2013년" title="wikilink">2013년</a> <a href="https://ko.wikipedia.org/wiki/5월_8일" title="wikilink">5월 8일</a></p></td>
+<td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/5월_8일.md" title="wikilink">5월 8일</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/sister&#39;s_noise" title="wikilink">sister's noise</a></strong></p></td>
 <td><p>| 1.sister's noise (애니메이션『어떤 과학의 초전자포S』오프닝 테마)<br />
 2.I'm believing you<br />
@@ -472,7 +472,7 @@ fripSide라는 단어는 sat이 만든 단어로, [레코드의 B면을](https:/
 </tr>
 <tr class="even">
 <td><p>7th</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2013년" title="wikilink">2013년</a> <a href="https://ko.wikipedia.org/wiki/8월_21일" title="wikilink">8월 21일</a></p></td>
+<td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/8월_21일.md" title="wikilink">8월 21일</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/eternal_reality" title="wikilink">eternal reality</a></strong></p></td>
 <td><p>| <strong>초회한정반, 통상반</strong><br />
 1.eternal reality (애니메이션『어떤 과학의 초전자포S』오프닝 테마)<br />
@@ -488,7 +488,7 @@ fripSide라는 단어는 sat이 만든 단어로, [레코드의 B면을](https:/
 </tr>
 <tr class="odd">
 <td><p>8th</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2014년" title="wikilink">2014년</a> <a href="https://ko.wikipedia.org/wiki/5월_14일" title="wikilink">5월 14일</a></p></td>
+<td><p><a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/5월_14일.md" title="wikilink">5월 14일</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/black_bullet" title="wikilink">black bullet</a></strong></p></td>
 <td><p>| 1.black bullet (애니메이션『블랙불릿』오프닝 테마)<br />
 2.pico scope-SACLA-(이화학연구소 X선 레이저 'SACLA' PR 무비 '미래광자 하리마 사쿠라' 테마곡)<br />
@@ -519,7 +519,7 @@ fripSide라는 단어는 sat이 만든 단어로, [레코드의 B면을](https:/
 </tr>
 <tr class="even">
 <td><p>1st</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2010년" title="wikilink">2010년</a> <a href="https://ko.wikipedia.org/wiki/12월_1일" title="wikilink">12월 1일</a></p></td>
+<td><p><a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/12월_1일.md" title="wikilink">12월 1일</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/infinite_synthesis" title="wikilink">infinite synthesis</a></strong></p></td>
 <td><p>1.only my railgun (애니메이션『<a href="https://ko.wikipedia.org/wiki/어떤_마술의_금서목록#어떤_과학의_초전자포" title="wikilink">어떤 과학의 초전자포</a>』1기 1쿨 오프닝 테마)<br />
 2.LEVEL5-judgelight- (애니메이션『<a href="https://ko.wikipedia.org/wiki/어떤_마술의_금서목록#어떤_과학의_초전자포" title="wikilink">어떤 과학의 초전자포</a>』1기 2쿨 오프닝 테마)<br />
@@ -538,7 +538,7 @@ fripSide라는 단어는 sat이 만든 단어로, [레코드의 B면을](https:/
 </tr>
 <tr class="odd">
 <td><p>2nd</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2012년" title="wikilink">2012년</a> <a href="https://ko.wikipedia.org/wiki/12월_5일" title="wikilink">12월 5일</a></p></td>
+<td><p><a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/12월_5일.md" title="wikilink">12월 5일</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/Decade" title="wikilink">Decade</a></strong></p></td>
 <td><p>1. Decade [7:10]<br />
 2. Way to Answer (PSP 게임『<a href="https://ko.wikipedia.org/wiki/어떤_마술의_금서목록#어떤_과학의_초전자포" title="wikilink">어떤 과학의 초전자포</a>』 오프닝 테마) [4:45]<br />
@@ -557,7 +557,7 @@ fripSide라는 단어는 sat이 만든 단어로, [레코드의 B면을](https:/
 </tr>
 <tr class="even">
 <td><p>3nd</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2014년" title="wikilink">2014년</a> <a href="https://ko.wikipedia.org/wiki/9월_10일" title="wikilink">9월 10일</a></p></td>
+<td><p><a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/9월_10일.md" title="wikilink">9월 10일</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/infinite_synthesis_2" title="wikilink">infinite synthesis 2</a></strong></p></td>
 <td><p>1. sister's noise (애니메이션『<a href="https://ko.wikipedia.org/wiki/어떤_마술의_금서목록#어떤_과학의_초전자포" title="wikilink">어떤 과학의 초전자포</a>』2기 1쿨 오프닝 테마) [4:23]<br />
 2. infinite synthesis [6:55]<br />

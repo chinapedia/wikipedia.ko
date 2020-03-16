@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Cry Eye](https://ko.wikipedia.org/wiki/Cry_Eye).
 
 
-"**Cry Eye**"는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 여자 가수 [손담비](../Page/손담비.md "wikilink")의 첫 번째 싱글이자 이 음반의 타이틀곡이다.
+"**Cry Eye**"는 [대한민국](../Page/대한민국.md "wikilink")의 여자 가수 [손담비](../Page/손담비.md "wikilink")의 첫 번째 싱글이자 이 음반의 타이틀곡이다.
 
 ## 수록곡
 

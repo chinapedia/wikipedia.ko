@@ -13,11 +13,11 @@ DMOZ는 폐쇄되며, "Curlie"(컬리)라는 이름으로 다시 시작되었다
 
 오픈 디렉터리 프로젝트(ODP)는 1998년 [썬 마이크로시스템즈의](../Page/썬_마이크로시스템즈.md "wikilink") 기술자로 일하고 있던 [리치 스크렌타](https://ko.wikipedia.org/wiki/리치_스크렌타 "wikilink")(Rich Skrenta)와 [밥 트루엘](https://ko.wikipedia.org/wiki/밥_트루엘 "wikilink")(Bob Truel)이 **그누후**(Gnuhoo)라는 이름으로 설립하였다.
 
-그누후 디렉터리는 1998년 6월 5일 활성화되었다. 리처드 스톨만과 [자유 소프트웨어 재단은](https://ko.wikipedia.org/wiki/자유_소프트웨어_재단 "wikilink") 그누(Gnu)라는 이름을 사용할 것을 반대하였기에 그누후라는 이름은 **뉴후**(NewHoo)가 되었다. [야후\!](../Page/야후!.md "wikilink")가 "후"라는 이름을 사용하는 것을 반대하였기에 이름을 다시 바꿀 상황에 처했다. 이름이 **ZURL**로 될 가능성이 있었으나, [넷스케이프](https://ko.wikipedia.org/wiki/넷스케이프 "wikilink")가 1998년 10월 인수하면서 **오픈 디렉터리 프로젝트**라는 이름을 사용하게 되었다.
+그누후 디렉터리는 1998년 6월 5일 활성화되었다. 리처드 스톨만과 [자유 소프트웨어 재단은](../Page/자유_소프트웨어_재단.md "wikilink") 그누(Gnu)라는 이름을 사용할 것을 반대하였기에 그누후라는 이름은 **뉴후**(NewHoo)가 되었다. [야후\!](../Page/야후!.md "wikilink")가 "후"라는 이름을 사용하는 것을 반대하였기에 이름을 다시 바꿀 상황에 처했다. 이름이 **ZURL**로 될 가능성이 있었으나, [넷스케이프](../Page/넷스케이프.md "wikilink")가 1998년 10월 인수하면서 **오픈 디렉터리 프로젝트**라는 이름을 사용하게 되었다.
 
 ## 소프트웨어
 
-  - 서치(Search): ODPSearch 소프트웨어는 [오픈 소스인](https://ko.wikipedia.org/wiki/오픈_소스 "wikilink") [모질라 공용 허가](../Page/모질라_공용_허가서.md "wikilink") 하의 [Isearch](https://ko.wikipedia.org/wiki/Isearch "wikilink")에서 유래한 버전이다.
+  - 서치(Search): ODPSearch 소프트웨어는 [오픈 소스인](../Page/오픈_소스.md "wikilink") [모질라 공용 허가](../Page/모질라_공용_허가서.md "wikilink") 하의 [Isearch](https://ko.wikipedia.org/wiki/Isearch "wikilink")에서 유래한 버전이다.
   - 에디터 포럼(Editor Forums)
   - 버그 트래킹(Bug tracking)
   - 인터페이스(Interface)

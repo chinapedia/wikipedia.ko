@@ -49,9 +49,9 @@
 
 ## 함께 읽기
 
-  - [TOEIC](https://ko.wikipedia.org/wiki/TOEIC "wikilink")
+  - [TOEIC](../Page/TOEIC.md "wikilink")
   - [TOEFL](../Page/TOEFL.md "wikilink")
-  - [TEPS](https://ko.wikipedia.org/wiki/TEPS "wikilink")
+  - [TEPS](../Page/TEPS.md "wikilink")
   - [PELT](../Page/PELT.md "wikilink")
   - [TOSEL](../Page/TOSEL.md "wikilink")
   - [SNULT](../Page/SNULT.md "wikilink")

@@ -7,7 +7,7 @@
 
 ## 외부 링크
 
-  - [35위 듀스 《Force Deux》](http://news.khan.co.kr/kh_news/khan_art_view.html?artid=200712270922141&code=900307&s_code=at031) [경향신문](https://ko.wikipedia.org/wiki/경향신문 "wikilink")</br>
-  - [굴레를 벗어나 힙합의 문을 열다](http://music.naver.com/today.nhn?startdate=20081004) [네이버](https://ko.wikipedia.org/wiki/네이버 "wikilink")
+  - [35위 듀스 《Force Deux》](http://news.khan.co.kr/kh_news/khan_art_view.html?artid=200712270922141&code=900307&s_code=at031) [경향신문](../Page/경향신문.md "wikilink")</br>
+  - [굴레를 벗어나 힙합의 문을 열다](http://music.naver.com/today.nhn?startdate=20081004) [네이버](../Page/네이버.md "wikilink")
 
 [분류:1995년 음반](https://ko.wikipedia.org/wiki/분류:1995년_음반 "wikilink") [분류:듀스의 음반](https://ko.wikipedia.org/wiki/분류:듀스의_음반 "wikilink") [분류:댄스 팝 음반](https://ko.wikipedia.org/wiki/분류:댄스_팝_음반 "wikilink")

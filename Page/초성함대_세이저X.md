@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ X](https://ko.wikipedia.org/wiki/_X).
 
 
-**초성함대 세이저X**는 [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [10월 1일부터](https://ko.wikipedia.org/wiki/10월_1일 "wikilink") [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [6월 24일까지](https://ko.wikipedia.org/wiki/6월_24일 "wikilink") [TV 도쿄에서](../Page/TV_도쿄.md "wikilink") 계열된 [일본](../Page/일본.md "wikilink")의 특촬물 액션이다. [애니원](https://ko.wikipedia.org/wiki/애니원 "wikilink"), [챔프](https://ko.wikipedia.org/wiki/챔프TV "wikilink"), [재능TV](../Page/재능TV.md "wikilink"), [어린이TV](https://ko.wikipedia.org/wiki/어린이TV "wikilink")에서도 방영을 했었다.
+**초성함대 세이저X**는 [2005년](../Page/2005년.md "wikilink") [10월 1일부터](../Page/10월_1일.md "wikilink") [2006년](../Page/2006년.md "wikilink") [6월 24일까지](../Page/6월_24일.md "wikilink") [TV 도쿄에서](../Page/TV_도쿄.md "wikilink") 계열된 [일본](../Page/일본.md "wikilink")의 특촬물 액션이다. [애니원](../Page/애니원.md "wikilink"), [챔프](../Page/챔프TV.md "wikilink"), [재능TV](../Page/재능TV.md "wikilink"), [어린이TV](https://ko.wikipedia.org/wiki/어린이TV "wikilink")에서도 방영을 했었다.
 
 ## 등장 인물
 
@@ -134,7 +134,7 @@
 ### 한국판 성우
 
   - 동욱 : [임경명](../Page/임경명.md "wikilink")
-  - 아더 : [강수진](https://ko.wikipedia.org/wiki/강수진_\(남자_성우\) "wikilink")
+  - 아더 : [강수진](../Page/강수진_\(남자_성우\).md "wikilink")
   - 케인 : [박서진](../Page/박서진.md "wikilink")
   - 레미 : [소연](../Page/소연_\(성우\).md "wikilink")
   - 샤크 : [심정민](../Page/심정민.md "wikilink")

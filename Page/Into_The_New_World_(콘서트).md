@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Into The New World \(\)](https://ko.wikipedia.org/wiki/Into_The_New_World_\(\)).
 
 
-*' Into The New World*'는 [소녀시대](../Page/소녀시대.md "wikilink")의 첫 번째 단독 [콘서트](https://ko.wikipedia.org/wiki/콘서트 "wikilink")이자 [아시아](https://ko.wikipedia.org/wiki/아시아 "wikilink") 순회 투어이다. 이 콘서트는 [SM 엔터테인먼트가](https://ko.wikipedia.org/wiki/SM_엔터테인먼트 "wikilink") [2009년 11월에](../Page/2009년_11월.md "wikilink") 발표하였다. 티켓은 [11월 19일부터](https://ko.wikipedia.org/wiki/11월_19일 "wikilink") 판매하였고 3분 만에 매진되었다.
+*' Into The New World*'는 [소녀시대](../Page/소녀시대.md "wikilink")의 첫 번째 단독 [콘서트](https://ko.wikipedia.org/wiki/콘서트 "wikilink")이자 [아시아](../Page/아시아.md "wikilink") 순회 투어이다. 이 콘서트는 [SM 엔터테인먼트가](../Page/SM_엔터테인먼트.md "wikilink") [2009년 11월에](../Page/2009년_11월.md "wikilink") 발표하였다. 티켓은 [11월 19일부터](../Page/11월_19일.md "wikilink") 판매하였고 3분 만에 매진되었다.
 
 ## 투어 일정
 
@@ -20,7 +20,7 @@
 <td><p>2009년 12월 19일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/서울" title="wikilink">서울</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/SK올림픽핸드볼경기장" title="wikilink">SK올림픽핸드볼경기장</a>[1][2]</p></td>
+<td><p><a href="../Page/SK올림픽핸드볼경기장.md" title="wikilink">SK올림픽핸드볼경기장</a>[1][2]</p></td>
 <td><p>통산 13,000명</p></td>
 </tr>
 <tr class="even">
@@ -32,7 +32,7 @@
 </tr>
 <tr class="odd">
 <td><p>2010년 2월 27일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/SK올림픽핸드볼경기장" title="wikilink">SK올림픽핸드볼경기장</a>[3]<small>(앙코르)</small></p></td>
+<td><p><a href="../Page/SK올림픽핸드볼경기장.md" title="wikilink">SK올림픽핸드볼경기장</a>[3]<small>(앙코르)</small></p></td>
 <td><p>통산 13,000명</p></td>
 <td></td>
 <td></td>
@@ -107,7 +107,7 @@
 <td style="text-align: left;"><p>라이브앨범</p></td>
 <td style="text-align: left;"><p>소녀시대 The 1st ASIA TOUR CONCERT 《Into The New World》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2010년" title="wikilink">2010년</a> <a href="https://ko.wikipedia.org/wiki/12월_30일" title="wikilink">12월 30일</a></li>
+<li>발매일 : <a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/12월_30일.md" title="wikilink">12월 30일</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -131,7 +131,7 @@
 <td style="text-align: left;"><p>DVD</p></td>
 <td style="text-align: left;"><p>소녀시대 The 1st ASIA TOUR CONCERT 《Into The New World》 DVD</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2011년" title="wikilink">2011년</a> <a href="https://ko.wikipedia.org/wiki/8월_17일" title="wikilink">8월 17일</a></li>
+<li>발매일 : <a href="../Page/2011년.md" title="wikilink">2011년</a> <a href="../Page/8월_17일.md" title="wikilink">8월 17일</a></li>
 </ul></td>
 </tr>
 </tbody>

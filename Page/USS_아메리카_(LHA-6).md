@@ -9,7 +9,7 @@
 
 아메리카함은, [이라크의 자유 작전에서의](https://ko.wikipedia.org/wiki/이라크의_자유_작전 "wikilink") LHD가 실제 작전한 바와 같이, 유사시 소형 항공모함으로도 임무수행을 할 수 있다.
 
-미국 해군은 [노스럽 그러먼의](../Page/노스럽_그러먼.md "wikilink") [잉걸스 조선소에](https://ko.wikipedia.org/wiki/잉걸스_조선소 "wikilink") 24억달러로 발주했다. [미시시피주](https://ko.wikipedia.org/wiki/미시시피주 "wikilink") [파스카골라의](https://ko.wikipedia.org/wiki/:en:Pascagoula,_Mississippi "wikilink") [잉걸스 조선소에서](https://ko.wikipedia.org/wiki/잉걸스_조선소 "wikilink") 건조했다.
+미국 해군은 [노스럽 그러먼의](../Page/노스럽_그러먼.md "wikilink") [잉걸스 조선소에](../Page/잉걸스_조선소.md "wikilink") 24억달러로 발주했다. [미시시피주](../Page/미시시피주.md "wikilink") [파스카골라의](https://ko.wikipedia.org/wiki/:en:Pascagoula,_Mississippi "wikilink") [잉걸스 조선소에서](../Page/잉걸스_조선소.md "wikilink") 건조했다.
 
 교체하게 될 타라와급과 같이, 아메리카함도 미해군 [원정타격단](../Page/원정타격단.md "wikilink")(ESG: Expeditionary Strike Group)의 함대 기함이 될 것이다.
 

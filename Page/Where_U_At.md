@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Where U At](https://ko.wikipedia.org/wiki/Where_U_At).
 
 
-**Where U At ()**은 대한민국의 음악 그룹 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") [태양의](../Page/태양_\(가수\).md "wikilink") 첫 번째 디지털 싱글 앨범이다. 2009년 10월 15일 각 온라인 음원 사이트를 통해 [뮤직 비디오와](../Page/뮤직_비디오.md "wikilink") 함께 공개되었다. [태양은](../Page/태양_\(가수\).md "wikilink") 2008년 미니 앨범 《[Hot](../Page/Hot_\(태양의_음반\).md "wikilink")》을 발매한 이후 1년 5개월 만에 발표한 〈Where U At〉의 멜로디를 직접 만들며 프로듀서인 [테디와](https://ko.wikipedia.org/wiki/테디_\(가수\) "wikilink") 함께 공동 작곡가로 처음 이름을 올렸다.\[1\] [YG 엔터테인먼트는](https://ko.wikipedia.org/wiki/YG_엔터테인먼트 "wikilink") 이 곡에 대해 "특별한 홍보활동이나 방송출연 계획이 전혀 없다"\[2\]고 밝혔으나 팬들의 뜨거운 반응으로 2009년 10월 25일 [SBS 인기가요에서](../Page/SBS_인기가요.md "wikilink") 단 한 번의 무대를 가졌다.\[3\]
+**Where U At ()**은 대한민국의 음악 그룹 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") [태양의](../Page/태양_\(가수\).md "wikilink") 첫 번째 디지털 싱글 앨범이다. 2009년 10월 15일 각 온라인 음원 사이트를 통해 [뮤직 비디오와](../Page/뮤직_비디오.md "wikilink") 함께 공개되었다. [태양은](../Page/태양_\(가수\).md "wikilink") 2008년 미니 앨범 《[Hot](../Page/Hot_\(태양의_음반\).md "wikilink")》을 발매한 이후 1년 5개월 만에 발표한 〈Where U At〉의 멜로디를 직접 만들며 프로듀서인 [테디와](https://ko.wikipedia.org/wiki/테디_\(가수\) "wikilink") 함께 공동 작곡가로 처음 이름을 올렸다.\[1\] [YG 엔터테인먼트는](../Page/YG_엔터테인먼트.md "wikilink") 이 곡에 대해 "특별한 홍보활동이나 방송출연 계획이 전혀 없다"\[2\]고 밝혔으나 팬들의 뜨거운 반응으로 2009년 10월 25일 [SBS 인기가요에서](../Page/SBS_인기가요.md "wikilink") 단 한 번의 무대를 가졌다.\[3\]
 
 ## 트랙 리스트
 

@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [YTN](https://ko.wikipedia.org/wiki/YTN).
 
 
-**주식회사 YTN라디오**는 대한민국의 라디오 방송국이자 [YTN](https://ko.wikipedia.org/wiki/YTN "wikilink")의 자회사로, 대한민국 유일의 보도 전문 라디오 채널이다. 별명으로는 **YTN News FM**이라는 명칭을 사용한다.
+**주식회사 YTN라디오**는 대한민국의 라디오 방송국이자 [YTN](../Page/YTN.md "wikilink")의 자회사로, 대한민국 유일의 보도 전문 라디오 채널이다. 별명으로는 **YTN News FM**이라는 명칭을 사용한다.
 
 ## 개요
 
-[2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [4월 30일에](https://ko.wikipedia.org/wiki/4월_30일 "wikilink") 개국하였으며 매 15분마다 뉴스를 보도하는 것이 특징이다.\[1\] [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [3월 24일](https://ko.wikipedia.org/wiki/3월_24일 "wikilink") 송신소를 안양시 삼성산에서 성남시 청계산으로 옮겨 가청권을 확대하였으며, [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [수도권](https://ko.wikipedia.org/wiki/수도권 "wikilink") 지역에서 청취할 수 있다. 24시간 방송이다.
+[2008년](../Page/2008년.md "wikilink") [4월 30일에](../Page/4월_30일.md "wikilink") 개국하였으며 매 15분마다 뉴스를 보도하는 것이 특징이다.\[1\] [2010년](../Page/2010년.md "wikilink") [3월 24일](../Page/3월_24일.md "wikilink") 송신소를 안양시 삼성산에서 성남시 청계산으로 옮겨 가청권을 확대하였으며, [대한민국](../Page/대한민국.md "wikilink")의 [수도권](../Page/수도권.md "wikilink") 지역에서 청취할 수 있다. 24시간 방송이다.
 
 ## 방송 송출 시설망
 
@@ -15,14 +15,14 @@
 
 ## 연혁
 
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [3월 1일](https://ko.wikipedia.org/wiki/3월_1일 "wikilink"): 시험 방송 개시
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [4월 30일](https://ko.wikipedia.org/wiki/4월_30일 "wikilink"): 개국 (삼성산 송신소, 3㎾)
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [10월 5일](https://ko.wikipedia.org/wiki/10월_5일 "wikilink"): 기존에 YTN FM에서 YTN News FM으로 변경
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [3월 24일](https://ko.wikipedia.org/wiki/3월_24일 "wikilink"): 삼성산 송신소에서 청계산 송신소로 이전
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [3월 1일](https://ko.wikipedia.org/wiki/3월_1일 "wikilink"): 대전 YTN News FM 개국(주파수 : 101.1㎒, 출력 : 1㎾)
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [4월 7일](https://ko.wikipedia.org/wiki/4월_7일 "wikilink"): 상암동 YTN 뉴스퀘어 이전
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [1월 3일](https://ko.wikipedia.org/wiki/1월_3일 "wikilink") 청주 YTN News FM 개국(주파수 : 100.5㎒, 출력 : 1㎾)
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink"): 출력 증강 (3㎾ → 5㎾)
+  - [2008년](../Page/2008년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink"): 시험 방송 개시
+  - [2008년](../Page/2008년.md "wikilink") [4월 30일](../Page/4월_30일.md "wikilink"): 개국 (삼성산 송신소, 3㎾)
+  - [2009년](../Page/2009년.md "wikilink") [10월 5일](../Page/10월_5일.md "wikilink"): 기존에 YTN FM에서 YTN News FM으로 변경
+  - [2010년](../Page/2010년.md "wikilink") [3월 24일](../Page/3월_24일.md "wikilink"): 삼성산 송신소에서 청계산 송신소로 이전
+  - [2013년](../Page/2013년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink"): 대전 YTN News FM 개국(주파수 : 101.1㎒, 출력 : 1㎾)
+  - [2014년](../Page/2014년.md "wikilink") [4월 7일](../Page/4월_7일.md "wikilink"): 상암동 YTN 뉴스퀘어 이전
+  - [2015년](../Page/2015년.md "wikilink") [1월 3일](../Page/1월_3일.md "wikilink") 청주 YTN News FM 개국(주파수 : 100.5㎒, 출력 : 1㎾)
+  - [2015년](../Page/2015년.md "wikilink"): 출력 증강 (3㎾ → 5㎾)
 
 ## 방송 프로그램
 
@@ -137,7 +137,7 @@
 
 <!-- end list -->
 
-  - **[변상욱의 뉴스가 있는 저녁](https://ko.wikipedia.org/wiki/뉴스가_있는_저녁 "wikilink")**
+  - **[변상욱의 뉴스가 있는 저녁](../Page/뉴스가_있는_저녁.md "wikilink")**
 
 <!-- end list -->
 
@@ -253,7 +253,7 @@
   -
     프로그램 설명: 귀에 익은 편안한 음악과 함께 즐기는 주말의 여유로움. 뉴스의 홍수 속에 잠깐 쉬어 갈 수 있도록 음악과 함께 쉬어가는 시간.
     방송시간: 09시 \~ 20시, 21시 \~ 23시 (매시 20분부터)
-    진행: [YTN](https://ko.wikipedia.org/wiki/YTN "wikilink") NEWS FM 아나운서
+    진행: [YTN](../Page/YTN.md "wikilink") NEWS FM 아나운서
 
 <!-- end list -->
 
@@ -333,7 +333,7 @@
 ## 라디오 제공 시보
 
   - [현대자동차](https://ko.wikipedia.org/wiki/현대자동차 "wikilink")
-  - [기아자동차](https://ko.wikipedia.org/wiki/기아자동차 "wikilink")
+  - [기아자동차](../Page/기아자동차.md "wikilink")
   - 놀부
   - [SK브로드밴드](../Page/SK브로드밴드.md "wikilink")
   - [메디톡스](../Page/메디톡스.md "wikilink")

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  B](https://ko.wikipedia.org/wiki/__B).
 
 
-《**도망자 플랜 B**》는 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [9월 29일부터](https://ko.wikipedia.org/wiki/9월_29일 "wikilink") [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [12월 8일까지](https://ko.wikipedia.org/wiki/12월_8일 "wikilink") 방영된 [KBS 수목 미니시리즈이다](https://ko.wikipedia.org/wiki/한국방송공사_수목드라마 "wikilink").
+《**도망자 플랜 B**》는 [2010년](../Page/2010년.md "wikilink") [9월 29일부터](../Page/9월_29일.md "wikilink") [2010년](../Page/2010년.md "wikilink") [12월 8일까지](../Page/12월_8일.md "wikilink") 방영된 [KBS 수목 미니시리즈이다](https://ko.wikipedia.org/wiki/한국방송공사_수목드라마 "wikilink").
 
 ## 줄거리
 
@@ -11,7 +11,7 @@
 
 ### 주요 인물
 
-  - [정지훈](https://ko.wikipedia.org/wiki/비_\(가수\) "wikilink") : 지우 역
+  - [정지훈](../Page/비_\(가수\).md "wikilink") : 지우 역
 
 <!-- end list -->
 
@@ -20,7 +20,7 @@
 
 <!-- end list -->
 
-  - [이나영](https://ko.wikipedia.org/wiki/이나영 "wikilink") : 진이 역
+  - [이나영](../Page/이나영.md "wikilink") : 진이 역
 
 <!-- end list -->
 
@@ -29,7 +29,7 @@
 
 <!-- end list -->
 
-  - [다니엘 헤니](https://ko.wikipedia.org/wiki/다니엘_헤니 "wikilink") : 카이 역
+  - [다니엘 헤니](../Page/다니엘_헤니.md "wikilink") : 카이 역
 
 <!-- end list -->
 
@@ -104,7 +104,7 @@
   - [김응수](../Page/김응수_\(배우\).md "wikilink") : 양영준 역
   - [조시 호](https://ko.wikipedia.org/wiki/조시_호_\(배우\) "wikilink") : 화이 역
   - [적룡](../Page/디룽.md "wikilink") : 제너럴 위 역
-  - [윤손하](https://ko.wikipedia.org/wiki/윤손하 "wikilink") : 황미진 역
+  - [윤손하](../Page/윤손하.md "wikilink") : 황미진 역
   - [다케나카 나오토](https://ko.wikipedia.org/wiki/다케나카_나오토 "wikilink") : 히로키 역 (특별출연, 2회)
   - [우에하라 다카코](https://ko.wikipedia.org/wiki/우에하라_다카코 "wikilink") : 키에코 역 (특별출연, 2회)
   - 미상 : 멜기덱 역
@@ -127,38 +127,38 @@
 
   - [이다해](../Page/이다해.md "wikilink") : 혜원 역 (1회)
   - [한정수](../Page/한정수.md "wikilink") : 서울동부경찰서 부정부패 형사 역 (2회)
-  - [이종혁](https://ko.wikipedia.org/wiki/이종혁_\(배우\) "wikilink") : 영사실 통역사 황철호 역 (2회)
+  - [이종혁](../Page/이종혁_\(배우\).md "wikilink") : 영사실 통역사 황철호 역 (2회)
   - [정두홍](../Page/정두홍.md "wikilink") : 괴한 역 (2회)
   - [조상기](../Page/조상기.md "wikilink") : 구안테로 역 (2회)
   - [엠블랙](../Page/엠블랙.md "wikilink")
 
 ## 시청률
 
-| [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") |
-| ------------------------------------------------------- |
-| 회차                                                      |
-| 대한민국(전국)                                                |
-| 제1회                                                     |
-| 제2회                                                     |
-| 제3회                                                     |
-| 제4회                                                     |
-| 제5회                                                     |
-| 제6회                                                     |
-| 제7회                                                     |
-| 제8회                                                     |
-| 제9회                                                     |
-| 제10회                                                    |
-| 제11회                                                    |
-| 제12회                                                    |
-| 제13회                                                    |
-| 제14회                                                    |
-| 제15회                                                    |
-| 제16회                                                    |
-| 제17회                                                    |
-| 제18회                                                    |
-| 제19회                                                    |
-| 제20회                                                    |
-| 평균 시청률                                                  |
+| [2010년](../Page/2010년.md "wikilink") |
+| ------------------------------------ |
+| 회차                                   |
+| 대한민국(전국)                             |
+| 제1회                                  |
+| 제2회                                  |
+| 제3회                                  |
+| 제4회                                  |
+| 제5회                                  |
+| 제6회                                  |
+| 제7회                                  |
+| 제8회                                  |
+| 제9회                                  |
+| 제10회                                 |
+| 제11회                                 |
+| 제12회                                 |
+| 제13회                                 |
+| 제14회                                 |
+| 제15회                                 |
+| 제16회                                 |
+| 제17회                                 |
+| 제18회                                 |
+| 제19회                                 |
+| 제20회                                 |
+| 평균 시청률                               |
 
 ## 사운드 트랙
 
@@ -170,16 +170,16 @@
 
 ## 수상 경력
 
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [KBS 연기대상](../Page/KBS_연기대상.md "wikilink") 남자 조연상 - [성동일](../Page/성동일.md "wikilink")
+  - [2010년](../Page/2010년.md "wikilink") [KBS 연기대상](../Page/KBS_연기대상.md "wikilink") 남자 조연상 - [성동일](../Page/성동일.md "wikilink")
 
 ## 결방 사유
 
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [11월 25일](https://ko.wikipedia.org/wiki/11월_25일 "wikilink") : [광저우 아시안 게임](../Page/2010년_아시안_게임.md "wikilink") 중계로 인해 결방
+  - [2010년](../Page/2010년.md "wikilink") [11월 25일](../Page/11월_25일.md "wikilink") : [광저우 아시안 게임](../Page/2010년_아시안_게임.md "wikilink") 중계로 인해 결방
 
 ## 참고 사항
 
-  - [정지훈과](https://ko.wikipedia.org/wiki/비_\(가수\) "wikilink") [이나영](https://ko.wikipedia.org/wiki/이나영 "wikilink")은 해당 작품의 출연료 일부를 받지 못해 제작사를 상대로 소송을 제기해야 했다.\[1\]
-  - [전지현](https://ko.wikipedia.org/wiki/전지현 "wikilink")이 진이 역으로 물망에 올랐으나 영화 《[설화와 비밀의 부채](../Page/설화와_비밀의_부채.md "wikilink")》의 막바지 촬영과 겹쳐 고사했다.\[2\]
+  - [정지훈과](../Page/비_\(가수\).md "wikilink") [이나영](../Page/이나영.md "wikilink")은 해당 작품의 출연료 일부를 받지 못해 제작사를 상대로 소송을 제기해야 했다.\[1\]
+  - [전지현](../Page/전지현.md "wikilink")이 진이 역으로 물망에 올랐으나 영화 《[설화와 비밀의 부채](../Page/설화와_비밀의_부채.md "wikilink")》의 막바지 촬영과 겹쳐 고사했다.\[2\]
 
 ## 동시간대 드라마
 
@@ -188,7 +188,7 @@
 <!-- end list -->
 
   -
-    《[장난스런 키스](https://ko.wikipedia.org/wiki/장난스런_키스_\(드라마\) "wikilink")》 (2010년 9월 1일 \~ 2010년 10월 21일)
+    《[장난스런 키스](../Page/장난스런_키스_\(드라마\).md "wikilink")》 (2010년 9월 1일 \~ 2010년 10월 21일)
     《[즐거운 나의 집](../Page/즐거운_나의_집_\(드라마\).md "wikilink")》 (2010년 10월 27일 \~ 2010년 12월 23일)
 
 <!-- end list -->

@@ -15,14 +15,14 @@
 
 ## 능력
 
-이글이글 열매를 먹어서 자신의 몸을 [불](https://ko.wikipedia.org/wiki/불 "wikilink")로 만들어 공격하거나 방어할 수 있다. 자연계(로기아) 열매이기 때문에 총이나 칼 같이 일반 무기는 통하지 않는다. 하지만 [마그마](https://ko.wikipedia.org/wiki/마그마 "wikilink")에는 데미지를 입고 타게 되며, 이로 인해 마그마그 열매를 먹은 [아카이누에게](../Page/사카즈키_\(원피스\).md "wikilink") [죽는다.](../Page/죽음.md "wikilink") 그리고 모든 자연계 열매 능력자들과 마찬가지로 무장색의 패기에는 물리적인 공격이 통한다.
+이글이글 열매를 먹어서 자신의 몸을 [불](../Page/불.md "wikilink")로 만들어 공격하거나 방어할 수 있다. 자연계(로기아) 열매이기 때문에 총이나 칼 같이 일반 무기는 통하지 않는다. 하지만 [마그마](../Page/마그마.md "wikilink")에는 데미지를 입고 타게 되며, 이로 인해 마그마그 열매를 먹은 [아카이누에게](../Page/사카즈키_\(원피스\).md "wikilink") [죽는다.](../Page/죽음.md "wikilink") 그리고 모든 자연계 열매 능력자들과 마찬가지로 무장색의 패기에는 물리적인 공격이 통한다.
 
 ## 기술
 
   -   -
   - **화권(火拳 : 불주먹)**
 
-      - 주먹을 [불](https://ko.wikipedia.org/wiki/불 "wikilink")로 변화시켜 날린다. 배 5척을 산산조각 냈던 기술이다. 에이스를 **불주먹 에이스**(히켄노 에이스)로 만들어준 기술이기도 하다.
+      - 주먹을 [불](../Page/불.md "wikilink")로 변화시켜 날린다. 배 5척을 산산조각 냈던 기술이다. 에이스를 **불주먹 에이스**(히켄노 에이스)로 만들어준 기술이기도 하다.
 
   - **불꽃벽**
 
@@ -42,7 +42,7 @@
 
   - **염계(炎戒) 불기둥**
 
-      - 손을 원으로 휘둘러 원모양의 [불](https://ko.wikipedia.org/wiki/불 "wikilink")을 만들고 원모양의 [불](https://ko.wikipedia.org/wiki/불 "wikilink")이 하늘로 치솟아 불기둥이 된다.
+      - 손을 원으로 휘둘러 원모양의 [불](../Page/불.md "wikilink")을 만들고 원모양의 [불](../Page/불.md "wikilink")이 하늘로 치솟아 불기둥이 된다.
 
   - **경화염(鏡火炎)**
 
@@ -50,11 +50,11 @@
 
   - **십자화(十字火)**
 
-      - 손가락으로 열 십(十)자를 만들고 적을 타겟하고, 십자가 모양의 [불](https://ko.wikipedia.org/wiki/불 "wikilink")을 쏜다.
+      - 손가락으로 열 십(十)자를 만들고 적을 타겟하고, 십자가 모양의 [불](../Page/불.md "wikilink")을 쏜다.
 
   - **대염계 염제(大炎戒 炎帝)**
 
-      - 주변에 불길을 만들어서 [태양](https://ko.wikipedia.org/wiki/태양 "wikilink")처럼 보이는 커다란 [불](https://ko.wikipedia.org/wiki/불 "wikilink")을 원으로 압축시키고, 자신의 머리 위에 들어올렸다가 던진다. 필살기
+      - 주변에 불길을 만들어서 [태양](../Page/태양.md "wikilink")처럼 보이는 커다란 [불](../Page/불.md "wikilink")을 원으로 압축시키고, 자신의 머리 위에 들어올렸다가 던진다. 필살기
 
 ## 행적
 
@@ -83,15 +83,15 @@
   - 에드워드 뉴게이트
       - 흰 수염에게 100번 가까이 덤볐으나 이기지 못하고, 결국 부하가 된다.(패배)
   - 스모커
-      - 위험에 처한 [루피를](../Page/몽키_D._루피.md "wikilink") 구하고 스모커와 싸운다. 스모커는 연기이고, 에이스는 [불](https://ko.wikipedia.org/wiki/불 "wikilink")이라서 결판이 나지 않았다. 에이스가 [불꽃](https://ko.wikipedia.org/wiki/불꽃 "wikilink")벽으로 방어를 치고 도망친다.(무승부)
+      - 위험에 처한 [루피를](../Page/몽키_D._루피.md "wikilink") 구하고 스모커와 싸운다. 스모커는 연기이고, 에이스는 [불](../Page/불.md "wikilink")이라서 결판이 나지 않았다. 에이스가 [불꽃](https://ko.wikipedia.org/wiki/불꽃 "wikilink")벽으로 방어를 치고 도망친다.(무승부)
   - [바로크 워크스](../Page/바로크_워크스.md "wikilink") 빌리온즈
       - 에이스를 쫓기 위해 왔지만, 에이스가 불주먹으로 배 5척을 태워버림.(승리)
   - [마샬 D. 티치](https://ko.wikipedia.org/wiki/마샬_D._티치 "wikilink")
       - 자신의 부하였던 티치를 잡으려 했지만, 어둠어둠 열매를 먹은 티치에게 패배해 임펠다운에 유폐되어 공개처형을 선고받는다.(패배)
-  - [아오키지](https://ko.wikipedia.org/wiki/쿠잔 "wikilink")
-      - [루피에게](../Page/몽키_D._루피.md "wikilink") 다가간 [아오키지를](https://ko.wikipedia.org/wiki/쿠잔 "wikilink") 에이스가 상대함. [불](https://ko.wikipedia.org/wiki/불 "wikilink")과 [얼음](https://ko.wikipedia.org/wiki/얼음 "wikilink")의 대결로, 승부가 나지 않았다.(무승부)
+  - [아오키지](../Page/쿠잔.md "wikilink")
+      - [루피에게](../Page/몽키_D._루피.md "wikilink") 다가간 [아오키지를](../Page/쿠잔.md "wikilink") 에이스가 상대함. [불](../Page/불.md "wikilink")과 [얼음](../Page/얼음.md "wikilink")의 대결로, 승부가 나지 않았다.(무승부)
   - [아카이누](../Page/사카즈키_\(원피스\).md "wikilink")
-      - [아카이누는](../Page/사카즈키_\(원피스\).md "wikilink") [마그마](https://ko.wikipedia.org/wiki/마그마 "wikilink")고 에이스는 [불](https://ko.wikipedia.org/wiki/불 "wikilink")이라서 [아카이누가](../Page/사카즈키_\(원피스\).md "wikilink") 에이스를 태워버린다. 에이스에게 공격을 하고 [루피를](../Page/몽키_D._루피.md "wikilink") 죽이려 하지만, 에이스가 [루피](../Page/몽키_D._루피.md "wikilink") 대신 공격을 받고 [죽는다.](../Page/죽음.md "wikilink")(패배)
+      - [아카이누는](../Page/사카즈키_\(원피스\).md "wikilink") [마그마](../Page/마그마.md "wikilink")고 에이스는 [불](../Page/불.md "wikilink")이라서 [아카이누가](../Page/사카즈키_\(원피스\).md "wikilink") 에이스를 태워버린다. 에이스에게 공격을 하고 [루피를](../Page/몽키_D._루피.md "wikilink") 죽이려 하지만, 에이스가 [루피](../Page/몽키_D._루피.md "wikilink") 대신 공격을 받고 [죽는다.](../Page/죽음.md "wikilink")(패배)
 
 ## 각주
 

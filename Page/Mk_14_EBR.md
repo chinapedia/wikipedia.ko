@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Mk 14 EBR](https://ko.wikipedia.org/wiki/Mk_14_EBR).
 
 
-**Mk 14 EBR** 혹은 **M14 EBR**은 [7.62 × 51 mm NATO탄을](../Page/7.62_×_51_mm_NATO.md "wikilink") 사용하는 [전투소총](https://ko.wikipedia.org/wiki/전투소총 "wikilink")이며, [M14 소총에](https://ko.wikipedia.org/wiki/M14_소총 "wikilink") 기반을 두고있다.
+**Mk 14 EBR** 혹은 **M14 EBR**은 [7.62 × 51 mm NATO탄을](../Page/7.62_×_51_mm_NATO.md "wikilink") 사용하는 [전투소총](../Page/전투소총.md "wikilink")이며, [M14 소총에](../Page/M14_소총.md "wikilink") 기반을 두고있다.
 
 ## 역사
 
-베트남전 직전전에 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [제식 소총으로](https://ko.wikipedia.org/wiki/제식_소총 "wikilink") 채용되었던 [M14 소총은](https://ko.wikipedia.org/wiki/M14_소총 "wikilink") 비교적 넓은 개활지에서 사용하기 적합하게 제작해서 [베트남](https://ko.wikipedia.org/wiki/베트남 "wikilink")같이 정글이 우거진 곳에서는 적합하지 못했다. 그래서 [M16A1](https://ko.wikipedia.org/wiki/M16A1 "wikilink")에게 [제식소총](https://ko.wikipedia.org/wiki/제식소총 "wikilink")자리를 물려주었다.
+베트남전 직전전에 [미국](../Page/미국.md "wikilink")의 [제식 소총으로](https://ko.wikipedia.org/wiki/제식_소총 "wikilink") 채용되었던 [M14 소총은](../Page/M14_소총.md "wikilink") 비교적 넓은 개활지에서 사용하기 적합하게 제작해서 [베트남](../Page/베트남.md "wikilink")같이 정글이 우거진 곳에서는 적합하지 못했다. 그래서 [M16A1](https://ko.wikipedia.org/wiki/M16A1 "wikilink")에게 [제식소총](https://ko.wikipedia.org/wiki/제식소총 "wikilink")자리를 물려주었다.
 
-2000년대 [네이비 씰의](https://ko.wikipedia.org/wiki/네이비_씰 "wikilink") 요구로 기존의 [M14 소총을](https://ko.wikipedia.org/wiki/M14_소총 "wikilink") 기반으로 한 소총개발에 착수하고, [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") 개발이 완료되어 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink")부터 사용하기 시작했다. Mk 14 EBR(M14 EBR) 기존의 [M14 소총과](https://ko.wikipedia.org/wiki/M14_소총 "wikilink") 작동방식및 기본구조는 같지만 재질은 기존의 [M14 소총과](https://ko.wikipedia.org/wiki/M14_소총 "wikilink") 달리 스톡재질로로 제작하였다.
+2000년대 [네이비 씰의](https://ko.wikipedia.org/wiki/네이비_씰 "wikilink") 요구로 기존의 [M14 소총을](../Page/M14_소총.md "wikilink") 기반으로 한 소총개발에 착수하고, [2001년](../Page/2001년.md "wikilink") 개발이 완료되어 [2004년](../Page/2004년.md "wikilink")부터 사용하기 시작했다. Mk 14 EBR(M14 EBR) 기존의 [M14 소총과](../Page/M14_소총.md "wikilink") 작동방식및 기본구조는 같지만 재질은 기존의 [M14 소총과](../Page/M14_소총.md "wikilink") 달리 스톡재질로로 제작하였다.
 
 ## 대중 문화
 
@@ -15,8 +15,8 @@
 
 ## 같이 보기
 
-  - [M14 소총](https://ko.wikipedia.org/wiki/M14_소총 "wikilink")
+  - [M14 소총](../Page/M14_소총.md "wikilink")
   - [M39 개량된 전투 소총](https://ko.wikipedia.org/wiki/M39_개량된_전투_소총 "wikilink")
-  - [전투소총](https://ko.wikipedia.org/wiki/전투소총 "wikilink")
+  - [전투소총](../Page/전투소총.md "wikilink")
 
 [분류:미국의 소총](https://ko.wikipedia.org/wiki/분류:미국의_소총 "wikilink")

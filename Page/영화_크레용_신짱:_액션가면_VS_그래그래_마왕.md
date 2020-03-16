@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [  :  VS  ](https://ko.wikipedia.org/wiki/__:__VS__).
 
 
-《**영화 크레용 신짱: 액션가면 VS 그래그래마왕**》(원제 : )은 [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") 제작된 [일본](../Page/일본.md "wikilink")의 [애니메이션 영화이다](../Page/애니메이션_영화.md "wikilink").
+《**영화 크레용 신짱: 액션가면 VS 그래그래마왕**》(원제 : )은 [1993년](../Page/1993년.md "wikilink") 제작된 [일본](../Page/일본.md "wikilink")의 [애니메이션 영화이다](../Page/애니메이션_영화.md "wikilink").
 
-[우스이 요시토의](../Page/우스이_요시토.md "wikilink") 《주간 액션》에 연재된 만화 《[짱구는 못말려](https://ko.wikipedia.org/wiki/짱구는_못말려 "wikilink")》를 원작으로 제작된 TV시리즈 《[짱구는 못말려](../Page/짱구는_못말려_\(애니메이션\).md "wikilink")》의 극장용 [애니메이션 영화](../Page/애니메이션_영화.md "wikilink") 시리즈 제1작이다.
+[우스이 요시토의](../Page/우스이_요시토.md "wikilink") 《주간 액션》에 연재된 만화 《[짱구는 못말려](../Page/짱구는_못말려.md "wikilink")》를 원작으로 제작된 TV시리즈 《[짱구는 못말려](../Page/짱구는_못말려_\(애니메이션\).md "wikilink")》의 극장용 [애니메이션 영화](../Page/애니메이션_영화.md "wikilink") 시리즈 제1작이다.
 
-작품 주요 캐릭터인 하이구레 마왕의 이름은 수영복 하이레그 디자인에서 유래하였으며, 개봉 이후 [슈퍼 패미컴으로](https://ko.wikipedia.org/wiki/슈퍼_패미컴 "wikilink") 비슷한 소재의 게임이 출시되었다.
+작품 주요 캐릭터인 하이구레 마왕의 이름은 수영복 하이레그 디자인에서 유래하였으며, 개봉 이후 [슈퍼 패미컴으로](../Page/슈퍼_패미컴.md "wikilink") 비슷한 소재의 게임이 출시되었다.
 
 PMP 엔터테인먼트에 의해 VCD를 통해 영어 제목으로는 Crayon Shinchan The Movie: Action Kamen VS Demon로 출시되었다.\[1\]
 
 ## 대한민국 수입
 
-[대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 [대우전자㈜가](https://ko.wikipedia.org/wiki/동부대우전자 "wikilink") 작품을 수입, 동우영상㈜를 통해 《**짱구는 못말려 제2탄 액션가면 대 하이구레왕**》이란 제목으로 [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") 연소자관람가 VHS를 처음 출시하였다.\[2\] 출시 당시에는 현지화를 진행한 한국어 더빙으로 공개되었으며, 제작 순서와 달리 "제2탄"으로 소개되었다. 1997년, 게임 제작사 리얼리티위버는 이 작품을 소재로 하여 《**짱구는 못말려 1**》이란 게임을 한국 독자적으로 개발\[3\]\[4\]하였고 이는 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")를 통해 출시되었다. [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink")에는 [SBS](../Page/SBS.md "wikilink")에서 한국어 더빙 버전을 TV 최초로 방영하였다.\[5\] [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink")에 [대원미디어](https://ko.wikipedia.org/wiki/대원미디어 "wikilink")㈜에서 재수입\[6\]하여 다시 더빙 작업을 진행하였고, 《**극장판 짱구는 못말려: 액션가면 대 그래그래마왕**》이라는 제목으로 [챔프](https://ko.wikipedia.org/wiki/챔프 "wikilink"), [애니원](https://ko.wikipedia.org/wiki/애니원 "wikilink"), [애니박스](../Page/애니박스.md "wikilink"), [채널CGV](https://ko.wikipedia.org/wiki/채널CGV "wikilink")에서 방영되었다. 방영 당시 등급은 15세 이상 관람가로 책정되었다. 더빙 제작사 [대원방송](https://ko.wikipedia.org/wiki/대원방송 "wikilink")㈜에서는 현지화를 진행하여 한국어 더빙으로 공개하였으나, 작품 내의 주제가와 오프닝, 엔딩곡 등은 방송사에 따라 원어 자막으로 방영되기도 하였다.
+[대한민국](../Page/대한민국.md "wikilink")에서는 [대우전자㈜가](https://ko.wikipedia.org/wiki/동부대우전자 "wikilink") 작품을 수입, 동우영상㈜를 통해 《**짱구는 못말려 제2탄 액션가면 대 하이구레왕**》이란 제목으로 [1996년](../Page/1996년.md "wikilink") 연소자관람가 VHS를 처음 출시하였다.\[2\] 출시 당시에는 현지화를 진행한 한국어 더빙으로 공개되었으며, 제작 순서와 달리 "제2탄"으로 소개되었다. 1997년, 게임 제작사 리얼리티위버는 이 작품을 소재로 하여 《**짱구는 못말려 1**》이란 게임을 한국 독자적으로 개발\[3\]\[4\]하였고 이는 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")를 통해 출시되었다. [1998년](../Page/1998년.md "wikilink")에는 [SBS](../Page/SBS.md "wikilink")에서 한국어 더빙 버전을 TV 최초로 방영하였다.\[5\] [2008년](../Page/2008년.md "wikilink")에 [대원미디어](../Page/대원미디어.md "wikilink")㈜에서 재수입\[6\]하여 다시 더빙 작업을 진행하였고, 《**극장판 짱구는 못말려: 액션가면 대 그래그래마왕**》이라는 제목으로 [챔프](https://ko.wikipedia.org/wiki/챔프 "wikilink"), [애니원](../Page/애니원.md "wikilink"), [애니박스](../Page/애니박스.md "wikilink"), [채널CGV](https://ko.wikipedia.org/wiki/채널CGV "wikilink")에서 방영되었다. 방영 당시 등급은 15세 이상 관람가로 책정되었다. 더빙 제작사 [대원방송](https://ko.wikipedia.org/wiki/대원방송 "wikilink")㈜에서는 현지화를 진행하여 한국어 더빙으로 공개하였으나, 작품 내의 주제가와 오프닝, 엔딩곡 등은 방송사에 따라 원어 자막으로 방영되기도 하였다.
 
 ## 줄거리
 
@@ -98,8 +98,8 @@ PMP 엔터테인먼트에 의해 VCD를 통해 영어 제목으로는 Crayon Shi
 ## 한국어 더빙
 
   - 짱구 - [박영남](../Page/박영남.md "wikilink")
-  - 짱구 아빠 - [오세홍](https://ko.wikipedia.org/wiki/오세홍 "wikilink")
-  - 짱구 엄마 - [강희선](https://ko.wikipedia.org/wiki/강희선 "wikilink")
+  - 짱구 아빠 - [오세홍](../Page/오세홍.md "wikilink")
+  - 짱구 엄마 - [강희선](../Page/강희선.md "wikilink")
   - 액션가면 - [현경수](../Page/현경수.md "wikilink")
   - 그래그래마왕 - [윤세웅](https://ko.wikipedia.org/wiki/윤세웅 "wikilink")
   - 미미 - [여민정](../Page/여민정_\(성우\).md "wikilink")
@@ -110,7 +110,7 @@ PMP 엔터테인먼트에 의해 VCD를 통해 영어 제목으로는 Crayon Shi
   - 철수 - [여민정](../Page/여민정_\(성우\).md "wikilink")
   - 유리 - [장경희](../Page/장경희_\(성우\).md "wikilink")
   - 훈이 - [정혜옥](../Page/정혜옥_\(성우\).md "wikilink")
-  - 맹구 - [강희선](https://ko.wikipedia.org/wiki/강희선 "wikilink")
+  - 맹구 - [강희선](../Page/강희선.md "wikilink")
   - 원장 - [현경수](../Page/현경수.md "wikilink")
   - 부원장 - [주자영](../Page/주자영.md "wikilink")
   - 채성아 - [하은진](../Page/하은진_\(성우\).md "wikilink")
@@ -170,7 +170,7 @@ PMP 엔터테인먼트에 의해 VCD를 통해 영어 제목으로는 Crayon Shi
 ## VHS·DVD
 
   - [VHS](../Page/VHS.md "wikilink") - 1994년 4월 25일 반다이 비주얼에서 발매
-  - [DVD](https://ko.wikipedia.org/wiki/DVD "wikilink") - 2002년 11월 25일 반다이 비주얼에서 발매
+  - [DVD](../Page/DVD.md "wikilink") - 2002년 11월 25일 반다이 비주얼에서 발매
 
 ## 각주
 

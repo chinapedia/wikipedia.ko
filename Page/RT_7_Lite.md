@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [RT 7 Lite](https://ko.wikipedia.org/wiki/RT_7_Lite).
 
 
-**RT Se7en Lite**()는 “Rockers Team”의 “Benjamin”이 만든 윈도 7의 설치 파일(ISO)를 트윅하는데 사용되는 프로그램으로, [프리웨어](https://ko.wikipedia.org/wiki/프리웨어 "wikilink")이다. 압축이 풀린 ISO 파일에 있는 내용을 마운트하여 편집하는 방식으로 윈도 7을 편집하여 더욱 빠르게 만들어준다.
+**RT Se7en Lite**()는 “Rockers Team”의 “Benjamin”이 만든 윈도 7의 설치 파일(ISO)를 트윅하는데 사용되는 프로그램으로, [프리웨어](../Page/프리웨어.md "wikilink")이다. 압축이 풀린 ISO 파일에 있는 내용을 마운트하여 편집하는 방식으로 윈도 7을 편집하여 더욱 빠르게 만들어준다.
 
 이 프로그램의 대표적인 기능으로는 업데이트/드라이버, 프로그램 통합, 컴포넌트 및 패키지 제거, 구성요소 사용 및 사용 안함 설정, 서비스 설정, 바로가기 설정 및 추가/제거, 꾸미기 기능 등이 있다. 작업을 완료하면 파일을 저장 또는 굽게 되고 그 이미지(ISO) 파일로 윈도를 설치하게 되면 그 설정이 적용되어 나온다.
 

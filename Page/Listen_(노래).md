@@ -32,13 +32,13 @@
 
 ## 작업
 
-1981년, [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [뉴욕](https://ko.wikipedia.org/wiki/뉴욕 "wikilink") [브로드웨이](https://ko.wikipedia.org/wiki/브로드웨이 "wikilink") [뮤지컬](../Page/뮤지컬.md "wikilink")《[드림걸즈](https://ko.wikipedia.org/wiki/드림걸즈_\(뮤지컬\) "wikilink")》(*Dreamgirls*)가 [작곡가](https://ko.wikipedia.org/wiki/작곡가 "wikilink") [헨리 크리거](https://ko.wikipedia.org/wiki/헨리_크리거 "wikilink")(Henry Krieger)와 [극작가](https://ko.wikipedia.org/wiki/희곡 "wikilink") [톰 아이언](https://ko.wikipedia.org/wiki/톰_아이언 "wikilink")(Tom Eyen)에 의해 만들어졌고, 25년 후엔 그 뮤지컬을 원작으로 하여 헐리웃 뮤지컬 영화가 만들어졌다. 원곡을 만들었던 헨리 크리거는 이 영화에서도 음악을 담당하였고, 영화 제작에 맞추어 새로운 노래, 네 곡을 추가하였는데, 그 신곡 중 하나가 바로 "Listen"이다. [비욘세 놀스](https://ko.wikipedia.org/wiki/비욘세_놀스 "wikilink")(Beyoncé Knowles)가 연기한 디나 존스(Deena Jones)가 영화 속에서 이 노래를 불렀으며, 극 후반부인 2막 14번째 노래로 나온다.\[9\]\[10\]
+1981년, [미국](../Page/미국.md "wikilink")의 [뉴욕](../Page/뉴욕.md "wikilink") [브로드웨이](https://ko.wikipedia.org/wiki/브로드웨이 "wikilink") [뮤지컬](../Page/뮤지컬.md "wikilink")《[드림걸즈](https://ko.wikipedia.org/wiki/드림걸즈_\(뮤지컬\) "wikilink")》(*Dreamgirls*)가 [작곡가](https://ko.wikipedia.org/wiki/작곡가 "wikilink") [헨리 크리거](https://ko.wikipedia.org/wiki/헨리_크리거 "wikilink")(Henry Krieger)와 [극작가](https://ko.wikipedia.org/wiki/희곡 "wikilink") [톰 아이언](https://ko.wikipedia.org/wiki/톰_아이언 "wikilink")(Tom Eyen)에 의해 만들어졌고, 25년 후엔 그 뮤지컬을 원작으로 하여 헐리웃 뮤지컬 영화가 만들어졌다. 원곡을 만들었던 헨리 크리거는 이 영화에서도 음악을 담당하였고, 영화 제작에 맞추어 새로운 노래, 네 곡을 추가하였는데, 그 신곡 중 하나가 바로 "Listen"이다. [비욘세 놀스](https://ko.wikipedia.org/wiki/비욘세_놀스 "wikilink")(Beyoncé Knowles)가 연기한 디나 존스(Deena Jones)가 영화 속에서 이 노래를 불렀으며, 극 후반부인 2막 14번째 노래로 나온다.\[9\]\[10\]
 
 ## 음반 출시
 
 [섬네일의](https://ko.wikipedia.org/wiki/파일:Beyonce_sings_Listen.jpg "wikilink") 모습.\]\]
 
-[사운드트랙 음반은](https://ko.wikipedia.org/wiki/드림걸즈_\(사운드트랙\) "wikilink") 2006년 12월 5일 미국에서 출시되었고, 그 음반에 수록되었던 이 노래는 [싱글로서](../Page/싱글_\(음악\).md "wikilink") 별도로 2007년 1월 29일에 출시되었다. 2006년 9월 5일 출시된 비욘세의 두 번째 정규 솔로 앨범《*[B'Day](https://ko.wikipedia.org/wiki/B'Day "wikilink")*》의 해외판에도 보너스 트랙으로 이 노래가 수록되었으며, 2007년 8월 28일 출시된 비욘세의 [EP](../Page/익스텐디드_플레이.md "wikilink")《*[Irreemplazable](https://ko.wikipedia.org/wiki/Irreemplazable "wikilink")*》에도 수록되었다.\[11\]\[12\]\[13\]\[14\]\[15\]
+[사운드트랙 음반은](https://ko.wikipedia.org/wiki/드림걸즈_\(사운드트랙\) "wikilink") 2006년 12월 5일 미국에서 출시되었고, 그 음반에 수록되었던 이 노래는 [싱글로서](../Page/싱글_\(음악\).md "wikilink") 별도로 2007년 1월 29일에 출시되었다. 2006년 9월 5일 출시된 비욘세의 두 번째 정규 솔로 앨범《*[B'Day](../Page/B'Day.md "wikilink")*》의 해외판에도 보너스 트랙으로 이 노래가 수록되었으며, 2007년 8월 28일 출시된 비욘세의 [EP](../Page/익스텐디드_플레이.md "wikilink")《*[Irreemplazable](https://ko.wikipedia.org/wiki/Irreemplazable "wikilink")*》에도 수록되었다.\[11\]\[12\]\[13\]\[14\]\[15\]
 
 ## 차트
 
@@ -76,9 +76,9 @@
 9.
 10.
 11. [매니아디비](https://ko.wikipedia.org/wiki/매니아디비 "wikilink") - ["Beyoncé - Listen (싱글)"](http://www.maniadb.com/album.asp?a=333724)
-12. [다음](https://ko.wikipedia.org/wiki/다음 "wikilink") 뮤직 - ["Beyoncé - Listen (싱글)"](http://music.daum.net/album/album.do?albumId=483490)
-13. [네이버](https://ko.wikipedia.org/wiki/네이버 "wikilink") 뮤직 - ["Beyoncé - Listen (싱글)"](http://music.naver.com/album.nhn?tubeid=180138)
-14. [싸이월드](https://ko.wikipedia.org/wiki/싸이월드 "wikilink") BGM - ["Beyoncé - Listen (영화 Dreamgirls O.S.T.)"](http://music.cyworld.com/song.asp?sid=642073)
+12. [다음](../Page/다음.md "wikilink") 뮤직 - ["Beyoncé - Listen (싱글)"](http://music.daum.net/album/album.do?albumId=483490)
+13. [네이버](../Page/네이버.md "wikilink") 뮤직 - ["Beyoncé - Listen (싱글)"](http://music.naver.com/album.nhn?tubeid=180138)
+14. [싸이월드](../Page/싸이월드.md "wikilink") BGM - ["Beyoncé - Listen (영화 Dreamgirls O.S.T.)"](http://music.cyworld.com/song.asp?sid=642073)
 15. 싸이월드 BGM - ["Beyoncé - Listen (싱글)"](http://music.cyworld.com/album.asp?aid=15064206)
 16. [올뮤직](../Page/올뮤직.md "wikilink") ["Beyoncé's Billboard Singles Chart Performances"](http://www.allmusic.com/artist/p349078)
 17. <http://www.acharts.us/song/11767>

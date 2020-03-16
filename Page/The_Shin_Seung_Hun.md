@@ -5,7 +5,7 @@
 
 ## 음반
 
-절치부심하던 신승훈은 본연으로 회귀를 뜻하며 8집 **을 발표한다. 〈보이지 않는 사랑〉이 생각나는 듯한 〈사랑해도 헤어질 수 있다면….〉과 [영화 엽기적인 그녀 OST로](https://ko.wikipedia.org/wiki/엽기적인_그녀 "wikilink") 한국뿐만 아니라 아시아에서도 크게 히트를 친 "I Believe"등과 〈哀而不悲 (애이불비)〉등이 수록됐다. 앨범을 발표하기 전 Shin Seung Hun SHOWCAFE with his people 로 성공적인 쇼케이스를 치렀으며, 특히 '사랑해도 헤어질 수 있다면'의 뮤직비디오가 독특해 많은 사람들의 사랑을 받았다.\[1\] 또한 이 뮤직비디오로 당시 일본에서 열린 세계 애니메이션 대회에서 '커머셜 부분 대상'을 차지하는 영광을 안기도 했다.\[2\]\[3\]
+절치부심하던 신승훈은 본연으로 회귀를 뜻하며 8집 **을 발표한다. 〈보이지 않는 사랑〉이 생각나는 듯한 〈사랑해도 헤어질 수 있다면….〉과 [영화 엽기적인 그녀 OST로](../Page/엽기적인_그녀.md "wikilink") 한국뿐만 아니라 아시아에서도 크게 히트를 친 "I Believe"등과 〈哀而不悲 (애이불비)〉등이 수록됐다. 앨범을 발표하기 전 Shin Seung Hun SHOWCAFE with his people 로 성공적인 쇼케이스를 치렀으며, 특히 '사랑해도 헤어질 수 있다면'의 뮤직비디오가 독특해 많은 사람들의 사랑을 받았다.\[1\] 또한 이 뮤직비디오로 당시 일본에서 열린 세계 애니메이션 대회에서 '커머셜 부분 대상'을 차지하는 영광을 안기도 했다.\[2\]\[3\]
 
 ## 수록곡
 
@@ -25,7 +25,7 @@
 
 </dl>
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/김형석_(음악가)" title="wikilink">김형석</a> - 어쿠스틱 <a href="https://ko.wikipedia.org/wiki/피아노" title="wikilink">피아노</a>, 현악 편곡(2 • 6)</li>
+<li><a href="../Page/김형석_(음악가).md" title="wikilink">김형석</a> - 어쿠스틱 <a href="../Page/피아노.md" title="wikilink">피아노</a>, 현악 편곡(2 • 6)</li>
 <li>이승환 - 어쿠스틱 피아노, 현악 편곡(1 • 9)</li>
 <li><a href="../Page/황성제.md" title="wikilink">황성제</a> - 어쿠스틱 피아노, 리듬 프로그래밍</li>
 <li>김헌직 - 리듬 프로그래밍</li>
@@ -35,8 +35,8 @@
 <li><a href="../Page/샘_리.md" title="wikilink">Sam Lee</a> - <a href="https://ko.wikipedia.org/wiki/어쿠스틱_기타" title="wikilink">어쿠스틱 기타</a>(3 ~ 5 • 9 • 10),</li>
 <li><a href="../Page/함춘호.md" title="wikilink">함춘호</a> - 어쿠스틱 기타(2 • 6),</li>
 <li>윤형로 - 어쿠스틱 기타(8)</li>
-<li>신현권 - <a href="https://ko.wikipedia.org/wiki/베이스_기타" title="wikilink">베이스 기타</a></li>
-<li>전성식 - <a href="https://ko.wikipedia.org/wiki/콘트라베이스" title="wikilink">콘트라베이스</a></li>
+<li>신현권 - <a href="../Page/베이스_기타.md" title="wikilink">베이스 기타</a></li>
+<li>전성식 - <a href="../Page/콘트라베이스.md" title="wikilink">콘트라베이스</a></li>
 <li>박인영 - 현악 편곡(4)</li>
 <li>The strings, 심상원 외 13명 - 현악</li>
 <li>이유민 - 리믹스</li>

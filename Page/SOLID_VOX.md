@@ -5,7 +5,7 @@
 
 ## 개요
 
-사장은 [레이지의](https://ko.wikipedia.org/wiki/레이지_\(밴드\) "wikilink") 보컬이자 [JAM Project의](../Page/JAM_Project.md "wikilink") 리더인 [카게야마 히로노부이다](https://ko.wikipedia.org/wiki/카게야마_히로노부 "wikilink"). 카게야마 히로노부가 2006년에 세운 회사로 2008년까지만 해도 소속된 가수가 많지 않았으나 2009년과 2010년에 연속해서 새로 이적해 오는 가수가 늘고 있다. 회사의 위치는 [란티스](https://ko.wikipedia.org/wiki/란티스 "wikilink")가 있는 빌딩과 같은 빌딩이다.
+사장은 [레이지의](https://ko.wikipedia.org/wiki/레이지_\(밴드\) "wikilink") 보컬이자 [JAM Project의](../Page/JAM_Project.md "wikilink") 리더인 [카게야마 히로노부이다](https://ko.wikipedia.org/wiki/카게야마_히로노부 "wikilink"). 카게야마 히로노부가 2006년에 세운 회사로 2008년까지만 해도 소속된 가수가 많지 않았으나 2009년과 2010년에 연속해서 새로 이적해 오는 가수가 늘고 있다. 회사의 위치는 [란티스](../Page/란티스.md "wikilink")가 있는 빌딩과 같은 빌딩이다.
 
 ## 소속 멤버
 
@@ -13,7 +13,7 @@
 
 <!-- end list -->
 
-  - [이시다 요코](https://ko.wikipedia.org/wiki/이시다_요코 "wikilink")(2011년 7월 1일 부터)
+  - [이시다 요코](../Page/이시다_요코.md "wikilink")(2011년 7월 1일 부터)
   - [엔도 마사아키](https://ko.wikipedia.org/wiki/엔도_마사아키 "wikilink")
   - [카게야마 히로노부](https://ko.wikipedia.org/wiki/카게야마_히로노부 "wikilink")(대표)
   - [키타 슈헤이](https://ko.wikipedia.org/wiki/키타_슈헤이 "wikilink")(2009년 3월 1일 부터)
@@ -26,7 +26,7 @@
 
 ## 관련 항목
 
-  - [란티스](https://ko.wikipedia.org/wiki/란티스 "wikilink")
+  - [란티스](../Page/란티스.md "wikilink")
   - [JAM Project](../Page/JAM_Project.md "wikilink")
 
 ## 각주

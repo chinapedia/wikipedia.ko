@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [2 Different Tears](https://ko.wikipedia.org/wiki/2_Different_Tears).
 
 
-"**2 Different Tears**"(2DT)는 2010년 5월, [영어](https://ko.wikipedia.org/wiki/영어 "wikilink"), [중국어](https://ko.wikipedia.org/wiki/중국어 "wikilink"), [한국어](https://ko.wikipedia.org/wiki/한국어 "wikilink"), 3개 국어로 동시 발매된 [원더걸스](../Page/원더걸스.md "wikilink")의 스페셜 [싱글이며](../Page/싱글_\(음악\).md "wikilink"), [디스코](https://ko.wikipedia.org/wiki/디스코 "wikilink"), 댄스 팝 장르의 노래이다.\[1\]\[2\] 1980년대 데님 룩의 컨셉으로 "Tell Me", "Nobody"를 이은 [레트로](https://ko.wikipedia.org/wiki/레트로 "wikilink") 3부작으로 알려졌다. [박진영](../Page/박진영.md "wikilink")이 프로듀싱을 하였으며, 이 노래의 [작사](https://ko.wikipedia.org/wiki/작사 "wikilink"), [작곡](https://ko.wikipedia.org/wiki/작곡 "wikilink")도 그가 하였다. 편곡은 이우석과 박진영이 공동으로 하였으며\[3\] 한국 발매판에는 노래 "2 Different Tears" 외에 이전 노래 세 곡, "Tell Me"와 "So Hot", "Nobody"의 영어 버전이 수록되었고, 영어권에 추가로 발매된 [EP의](../Page/익스텐디드_플레이.md "wikilink") 경우 "2 Different Tears"의 각 언어 버전과 리믹스 버전 및 [노래방](../Page/노래방.md "wikilink") 버전, [Instrumental](https://ko.wikipedia.org/wiki/Instrumental "wikilink") 버전까지 더해져 총 11개의 트랙으로 구성되었다.\[4\]\[5\]\[6\] 그 후, 원더걸스는 한국에서의 활동을 마치고 [6월 1일](https://ko.wikipedia.org/wiki/6월_1일 "wikilink") 미국으로 출국하였다.
+"**2 Different Tears**"(2DT)는 2010년 5월, [영어](../Page/영어.md "wikilink"), [중국어](../Page/중국어.md "wikilink"), [한국어](../Page/한국어.md "wikilink"), 3개 국어로 동시 발매된 [원더걸스](../Page/원더걸스.md "wikilink")의 스페셜 [싱글이며](../Page/싱글_\(음악\).md "wikilink"), [디스코](https://ko.wikipedia.org/wiki/디스코 "wikilink"), 댄스 팝 장르의 노래이다.\[1\]\[2\] 1980년대 데님 룩의 컨셉으로 "Tell Me", "Nobody"를 이은 [레트로](https://ko.wikipedia.org/wiki/레트로 "wikilink") 3부작으로 알려졌다. [박진영](../Page/박진영.md "wikilink")이 프로듀싱을 하였으며, 이 노래의 [작사](https://ko.wikipedia.org/wiki/작사 "wikilink"), [작곡](https://ko.wikipedia.org/wiki/작곡 "wikilink")도 그가 하였다. 편곡은 이우석과 박진영이 공동으로 하였으며\[3\] 한국 발매판에는 노래 "2 Different Tears" 외에 이전 노래 세 곡, "Tell Me"와 "So Hot", "Nobody"의 영어 버전이 수록되었고, 영어권에 추가로 발매된 [EP의](../Page/익스텐디드_플레이.md "wikilink") 경우 "2 Different Tears"의 각 언어 버전과 리믹스 버전 및 [노래방](../Page/노래방.md "wikilink") 버전, [Instrumental](https://ko.wikipedia.org/wiki/Instrumental "wikilink") 버전까지 더해져 총 11개의 트랙으로 구성되었다.\[4\]\[5\]\[6\] 그 후, 원더걸스는 한국에서의 활동을 마치고 [6월 1일](../Page/6월_1일.md "wikilink") 미국으로 출국하였다.
 
 ## 발매 과정
 
@@ -11,17 +11,17 @@
 
 ## 뮤직 비디오
 
-[뮤직 비디오는](../Page/뮤직_비디오.md "wikilink") 만들어지는 데에 있어 장재혁이 감독을 하였고, 박진영과 바비 리 (Bobby Lee)가 까메오로 출연하였고,\[7\] [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 고전 TV 시리즈《[미녀 삼총사](../Page/미녀_삼총사.md "wikilink")》(*Charlie's Angels*)를 [패러디](https://ko.wikipedia.org/wiki/패러디 "wikilink")하였다.\[8\]\[9\] 원더걸스는 80년대 복고 레트로풍의 의상과 헤어스타일로 한층 성숙된 모습을 하였으며, 특별출연을 한 박진영은 초반부에 금발색의 가발을 쓰고나와 더욱 재미를 주었다.
+[뮤직 비디오는](../Page/뮤직_비디오.md "wikilink") 만들어지는 데에 있어 장재혁이 감독을 하였고, 박진영과 바비 리 (Bobby Lee)가 까메오로 출연하였고,\[7\] [미국](../Page/미국.md "wikilink")의 고전 TV 시리즈《[미녀 삼총사](../Page/미녀_삼총사.md "wikilink")》(*Charlie's Angels*)를 [패러디](https://ko.wikipedia.org/wiki/패러디 "wikilink")하였다.\[8\]\[9\] 원더걸스는 80년대 복고 레트로풍의 의상과 헤어스타일로 한층 성숙된 모습을 하였으며, 특별출연을 한 박진영은 초반부에 금발색의 가발을 쓰고나와 더욱 재미를 주었다.
 
 ## 순위 및 수상 기록
 
   - [M.net](https://ko.wikipedia.org/wiki/M.net "wikilink") 《[M\! Countdown](https://ko.wikipedia.org/wiki/M!_Countdown "wikilink")》
-      - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [5월 27일](https://ko.wikipedia.org/wiki/5월_27일 "wikilink") 종합차트 1위
+      - [2010년](../Page/2010년.md "wikilink") [5월 27일](../Page/5월_27일.md "wikilink") 종합차트 1위
 
 <!-- end list -->
 
-  - [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [빌보드 차트](https://ko.wikipedia.org/wiki/빌보드_차트 "wikilink")
-      - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [7월](https://ko.wikipedia.org/wiki/7월 "wikilink") [히트시커스 앨범차트](https://ko.wikipedia.org/wiki/히트시커스_앨범차트 "wikilink")(Heatseekers Albums) 21위
+  - [미국](../Page/미국.md "wikilink") [빌보드 차트](https://ko.wikipedia.org/wiki/빌보드_차트 "wikilink")
+      - [2010년](../Page/2010년.md "wikilink") [7월](../Page/7월.md "wikilink") [히트시커스 앨범차트](https://ko.wikipedia.org/wiki/히트시커스_앨범차트 "wikilink")(Heatseekers Albums) 21위
 
 ## 수록곡 목록
 
@@ -81,12 +81,12 @@
 
 ## 판매량
 
-| 기준                                                         | 판매량    | 누적 판매량 |
-| ---------------------------------------------------------- | ------ | ------ |
-| [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") 5월 | 9,001  | 9,001  |
-|                                                            |        |        |
-| [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") 6월 | 1,724  | 10,725 |
-| 누적                                                         | 10,725 |        |
+| 기준                                      | 판매량    | 누적 판매량 |
+| --------------------------------------- | ------ | ------ |
+| [2010년](../Page/2010년.md "wikilink") 5월 | 9,001  | 9,001  |
+|                                         |        |        |
+| [2010년](../Page/2010년.md "wikilink") 6월 | 1,724  | 10,725 |
+| 누적                                      | 10,725 |        |
 
 ## 참조
 

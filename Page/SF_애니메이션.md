@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SF ](https://ko.wikipedia.org/wiki/SF_).
 
 
-**SF 애니메이션**(SF animation)은 [과학](../Page/과학.md "wikilink")적인 상상에 근거한 [애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink")이다. SF 자체의 범위가 정확하지 않기 때문에 어떤 작품이 SF인지 아닌지를 명확하게 판별해내기는 어렵다.
+**SF 애니메이션**(SF animation)은 [과학](../Page/과학.md "wikilink")적인 상상에 근거한 [애니메이션](../Page/애니메이션.md "wikilink")이다. SF 자체의 범위가 정확하지 않기 때문에 어떤 작품이 SF인지 아닌지를 명확하게 판별해내기는 어렵다.
 
 ## SF상 수상 및 후보 작품
 
@@ -21,7 +21,7 @@
   - [엄마는 초등학교 4학년](https://ko.wikipedia.org/wiki/엄마는_초등학교_4학년 "wikilink") 1993년
   - [기동 전함 나데시코 -The prince of darkness-](https://ko.wikipedia.org/wiki/기동_전함_나데시코_-The_prince_of_darkness- "wikilink") 1999년
   - [카우보이비밥](https://ko.wikipedia.org/wiki/카우보이비밥 "wikilink") 2000년
-  - [별의 목소리](https://ko.wikipedia.org/wiki/별의_목소리 "wikilink") 2003년
+  - [별의 목소리](../Page/별의_목소리.md "wikilink") 2003년
   - [플라네테스](https://ko.wikipedia.org/wiki/플라네테스 "wikilink") 2005년
 
 ### 네뷸러상 대본 부문

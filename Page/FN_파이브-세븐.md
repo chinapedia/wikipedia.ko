@@ -33,7 +33,7 @@
   -
 ## 같이 보기
 
-  - [FN P90](https://ko.wikipedia.org/wiki/FN_P90 "wikilink")
+  - [FN P90](../Page/FN_P90.md "wikilink")
   - [5.7 x 28 mm](https://ko.wikipedia.org/wiki/5.7_x_28_mm "wikilink")
 
 ## 외부 링크

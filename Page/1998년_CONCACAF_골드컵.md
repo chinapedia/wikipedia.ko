@@ -1,14 +1,14 @@
 > This article is converted from Wikipedia: [1998 CONCACAF ](https://ko.wikipedia.org/wiki/1998_CONCACAF_).
 
 
-**1998년 CONCACAF 골드컵**(1998 CONCACAF Gold Cup)은 [CONCACAF](https://ko.wikipedia.org/wiki/CONCACAF "wikilink")가 개최한 4번째 [CONCACAF 골드컵으로](../Page/CONCACAF_골드컵.md "wikilink"), [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") [2월 1일부터](https://ko.wikipedia.org/wiki/2월_1일 "wikilink") [2월 15일까지](https://ko.wikipedia.org/wiki/2월_15일 "wikilink") [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink"), [마이애미](https://ko.wikipedia.org/wiki/마이애미 "wikilink"), [오클랜드에서](../Page/오클랜드_\(캘리포니아주\).md "wikilink") 개최되었다.
+**1998년 CONCACAF 골드컵**(1998 CONCACAF Gold Cup)은 [CONCACAF](https://ko.wikipedia.org/wiki/CONCACAF "wikilink")가 개최한 4번째 [CONCACAF 골드컵으로](../Page/CONCACAF_골드컵.md "wikilink"), [1998년](../Page/1998년.md "wikilink") [2월 1일부터](../Page/2월_1일.md "wikilink") [2월 15일까지](../Page/2월_15일.md "wikilink") [미국](../Page/미국.md "wikilink") [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink"), [마이애미](../Page/마이애미.md "wikilink"), [오클랜드에서](../Page/오클랜드_\(캘리포니아주\).md "wikilink") 개최되었다.
 
-대회의 형식은 10개국이 3개의 조로 나뉘어 각 조의 1위 팀이 4강에 직행하고 2위 팀 가운데 성적이 가장 높은 한 팀이 4강에 진출하는 방식이었다. 이 대회 결승전에서는 [멕시코가](https://ko.wikipedia.org/wiki/멕시코_축구_국가대표팀 "wikilink") [미국을](https://ko.wikipedia.org/wiki/미국_축구_국가대표팀 "wikilink") 1-0으로 누르고 통산 여섯 번째 우승을 차지했다.
+대회의 형식은 10개국이 3개의 조로 나뉘어 각 조의 1위 팀이 4강에 직행하고 2위 팀 가운데 성적이 가장 높은 한 팀이 4강에 진출하는 방식이었다. 이 대회 결승전에서는 [멕시코가](../Page/멕시코_축구_국가대표팀.md "wikilink") [미국을](../Page/미국_축구_국가대표팀.md "wikilink") 1-0으로 누르고 통산 여섯 번째 우승을 차지했다.
 
 ## 개최 도시 및 경기장
 
   - [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink") - [로스앤젤레스 메모리얼 콜리세움](../Page/로스앤젤레스_메모리얼_콜리세움.md "wikilink")
-  - [마이애미](https://ko.wikipedia.org/wiki/마이애미 "wikilink") - [마이애미 오렌지 볼](../Page/마이애미_오렌지_볼.md "wikilink")
+  - [마이애미](../Page/마이애미.md "wikilink") - [마이애미 오렌지 볼](../Page/마이애미_오렌지_볼.md "wikilink")
   - [오클랜드](../Page/오클랜드_\(캘리포니아주\).md "wikilink") - [O.co 콜리세움](https://ko.wikipedia.org/wiki/O.co_콜리세움 "wikilink")
 
 ## 예선
@@ -284,7 +284,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Mexico.svg" title="wikilink">100px</a><br />
-<strong><a href="https://ko.wikipedia.org/wiki/멕시코_축구_국가대표팀" title="wikilink">멕시코</a></strong><br />
+<strong><a href="../Page/멕시코_축구_국가대표팀.md" title="wikilink">멕시코</a></strong><br />
 <strong>6번째 우승</strong></p></td>
 </tr>
 </tbody>

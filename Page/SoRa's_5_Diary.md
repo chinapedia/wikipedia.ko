@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SoRa\'s 5 Diary](https://ko.wikipedia.org/wiki/SoRa\'s_5_Diary).
 
 
-《**SoRa's 5 Diary**》은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [이소라의](https://ko.wikipedia.org/wiki/이소라_\(가수\) "wikilink") 정규[음반](../Page/음반.md "wikilink") 5집이며, 타이틀 곡은 "안녕"이다.
+《**SoRa's 5 Diary**》은 [대한민국](../Page/대한민국.md "wikilink")의 [이소라의](../Page/이소라_\(가수\).md "wikilink") 정규[음반](../Page/음반.md "wikilink") 5집이며, 타이틀 곡은 "안녕"이다.
 
 ## 수록곡
 

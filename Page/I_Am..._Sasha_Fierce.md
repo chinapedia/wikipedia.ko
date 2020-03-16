@@ -10,14 +10,14 @@
 | "[Ego](https://ko.wikipedia.org/wiki/Ego_\(비욘세_놀스의_노래\) "wikilink")"                           |
 | "[Sweet Dreams](https://ko.wikipedia.org/wiki/Sweet_Dreams_\(비욘세_놀스의_노래\) "wikilink")"         |
 | "[Broken-Hearted Girl](https://ko.wikipedia.org/wiki/Broken-Hearted_Girl "wikilink")"          |
-| "[Video Phone](https://ko.wikipedia.org/wiki/Video_Phone "wikilink")"                          |
+| "[Video Phone](../Page/Video_Phone.md "wikilink")"                                             |
 | "[Why Don't You Love Me](https://ko.wikipedia.org/wiki/Why_Don't_You_Love_Me "wikilink")"      |
 
 ***I Am... Sasha Fierce***는 미국의 팝 여성 가수 [비욘세](../Page/비욘세.md "wikilink")의 세 번째 정규 음반이다. 이 음반은 [콜롬비아 레코드를](https://ko.wikipedia.org/wiki/콜롬비아_레코드 "wikilink") 통해 2008년 11월 18일 발매되었다. *I Am... Sasha Fierce*는 2 디스크 형식으로 되어있는데, 첫 번째 디스크는 *I Am...*으로 미디엄 템포로 구성된 알앤비곡과 발라드 팝 노래가 주를 이루며, 두 번째 디스크 *Sasha Fierce*는 비욘세 자기 자신의 또다른 모습으로\[1\] [일렉트로팝](https://ko.wikipedia.org/wiki/일렉트로팝 "wikilink")과 유로, 크로스등 빠른 템포의 곡들로 이루어져있다. 앨범의 디럭스 에디테이션은 통상반과 똑같이 2008년 발매 되었다.
 
 이 앨범은 대체로 좋은 평가를 받았다. 앨범은 첫 주 482,000 만장을 팔아치워 [빌보드 200](../Page/빌보드_200.md "wikilink") 차트 1위 데뷔를 한다. 14개의 국가에서 [플래티넘](https://ko.wikipedia.org/wiki/플래티넘 "wikilink") 인증을 받아 앨범의 상업적 성공 입증을 했다. 이 앨범은 많은 기록들을 남겼으며, 2009년 EP 형식의 *I Am... Sasha Fierce - The Bonus Tracks*이 발매된다.
 
-*I Am... Sasha Fierce* 중 두 개의 리드 싱글인 "[If I Were a Boy](../Page/If_I_Were_a_Boy.md "wikilink")"와 "[Single Ladies (Put a Ring on It)](../Page/Single_Ladies_\(Put_a_Ring_on_It\).md "wikilink")"는 모두 세계적인 히트를 쳤다. "If I Were a Boy"는 여덟 개의 국가에서 정상을 차지했으며, "Single Ladies (Put a Ring on It)"는 수 많은 인기를 얻으며 [빌보드 핫 100에서](../Page/빌보드_핫_100.md "wikilink") 1위를 한다. 그 외 싱글 "Diva"와 "Ego", "Halo", "Sweet Dreams" 등 연이어 발표한 싱글들이 모두 히트를 쳤다. 2009년 11월 발표된 여덟 번째 싱글 "[Video Phone](https://ko.wikipedia.org/wiki/Video_Phone "wikilink")"은 미국의 팝 스타 [레이디 가가가](../Page/레이디_가가.md "wikilink") 피처링으로 참여하기도 했다.
+*I Am... Sasha Fierce* 중 두 개의 리드 싱글인 "[If I Were a Boy](../Page/If_I_Were_a_Boy.md "wikilink")"와 "[Single Ladies (Put a Ring on It)](../Page/Single_Ladies_\(Put_a_Ring_on_It\).md "wikilink")"는 모두 세계적인 히트를 쳤다. "If I Were a Boy"는 여덟 개의 국가에서 정상을 차지했으며, "Single Ladies (Put a Ring on It)"는 수 많은 인기를 얻으며 [빌보드 핫 100에서](../Page/빌보드_핫_100.md "wikilink") 1위를 한다. 그 외 싱글 "Diva"와 "Ego", "Halo", "Sweet Dreams" 등 연이어 발표한 싱글들이 모두 히트를 쳤다. 2009년 11월 발표된 여덟 번째 싱글 "[Video Phone](../Page/Video_Phone.md "wikilink")"은 미국의 팝 스타 [레이디 가가가](../Page/레이디_가가.md "wikilink") 피처링으로 참여하기도 했다.
 
 ## 트랙 리스트
 

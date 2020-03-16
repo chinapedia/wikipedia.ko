@@ -39,7 +39,7 @@
 
   - [스티브 마틴](../Page/스티브_마틴.md "wikilink") 시즌2《Gavin Volure》(\#304)편에서 잭의 옛 사업동료이자 조세포탈범인 가빈 역으로 출연한다.
   - [스티브 부세미](../Page/스티브_부세미.md "wikilink") 시즌2《The Collection》(\#203)편에 등장한다. [GE](https://ko.wikipedia.org/wiki/GE "wikilink")의 돈 가이스 회장이 물러날 것이라는 정보를 입수한 잭 도나기는 GE의 고위직 인물 검증절차를 통과하기 위해 미리 사립탐정을 고용하여 자신의 뒷조사를 시킨다. 그 사립탐정 렘 역으로 출연한다.
-  - [앨 고어](https://ko.wikipedia.org/wiki/앨_고어 "wikilink") 미국 전 부통령으로서 시즌 2 《Greenzo》(\#205)편에서 지구환경 보호를 역설하는 고어 전 부통령 역으로 직접 출연한다.
+  - [앨 고어](../Page/앨_고어.md "wikilink") 미국 전 부통령으로서 시즌 2 《Greenzo》(\#205)편에서 지구환경 보호를 역설하는 고어 전 부통령 역으로 직접 출연한다.
   - [오프라 윈프리](../Page/오프라_윈프리.md "wikilink") 시즌3《Believe in the Stars》(\#302)편에서 리즈 레몬의 옆자리 승객으로 출연하여 리즈에게 사업상, 인생상 조언을 해준다.
   - [존 리스고](../Page/존_리스고.md "wikilink") 시즌3《Goodbye, My Friend》(\#313)편에 등장한다. 잭과 프랭크는 존 리스고가 출연하는 영화를 본다. 리즈는 방송국에서 존 리스고와 마주친다.
   - [제니퍼 애니스턴](../Page/제니퍼_애니스턴.md "wikilink") 시즌3《The One with the Cast of Night Court》(\#303)편에서 리즈 레먼의 친구로 나온다. 극중에서 섹스 중독자로 출연하여 잭 도나기를 위험에 빠뜨린다.
@@ -49,6 +49,6 @@
   - [우피 골드버그](../Page/우피_골드버그.md "wikilink")
   - [맷 데이먼](../Page/맷_데이먼.md "wikilink")
   - [잭 웰치](../Page/잭_웰치.md "wikilink")
-  - [본 조비](https://ko.wikipedia.org/wiki/본_조비 "wikilink")
+  - [본 조비](../Page/본_조비.md "wikilink")
 
 [분류:30 ROCK](https://ko.wikipedia.org/wiki/분류:30_ROCK "wikilink") [분류:시트콤 등장인물](https://ko.wikipedia.org/wiki/분류:시트콤_등장인물 "wikilink")

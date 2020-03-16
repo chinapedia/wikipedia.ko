@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [EFS ](https://ko.wikipedia.org/wiki/EFS_).
 
 
-**EFS 엑스마키나**()는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 작가 [백호가](https://ko.wikipedia.org/wiki/백호_\(작가\) "wikilink") 쓰고, [cuteg](https://ko.wikipedia.org/wiki/cuteg "wikilink")와 Dangmill이 삽화를 담당한 [라이트 노벨이다](https://ko.wikipedia.org/wiki/라이트_노벨 "wikilink"). [시드노벨](../Page/시드노벨.md "wikilink")에서 발매 중이다.
+**EFS 엑스마키나**()는 [대한민국](../Page/대한민국.md "wikilink")의 작가 [백호가](https://ko.wikipedia.org/wiki/백호_\(작가\) "wikilink") 쓰고, [cuteg](https://ko.wikipedia.org/wiki/cuteg "wikilink")와 Dangmill이 삽화를 담당한 [라이트 노벨이다](../Page/라이트_노벨.md "wikilink"). [시드노벨](../Page/시드노벨.md "wikilink")에서 발매 중이다.
 
 ## 개요
 
-작가 백호(최병만)이 자신의 [SF](https://ko.wikipedia.org/wiki/공상_과학 "wikilink") 소설 [가니메데 게이트](https://ko.wikipedia.org/wiki/가니메데_게이트 "wikilink")(Ganymede Gate)를 원작으로 하여 바탕 세계관과 주요 설정을 계승해, [라이트 노벨로](https://ko.wikipedia.org/wiki/라이트_노벨 "wikilink") 재창조한 [스페이스 오페라](https://ko.wikipedia.org/wiki/SF의_장르#스페이스_오페라 "wikilink")-러브 코미디 소설이다. 전작과 기초 세계관을 공유하고 있으며 몇몇 인물의 경우 본작에서도 출연하지만, 사실상 양자의 연관성은 거의 없다시피 하다.
+작가 백호(최병만)이 자신의 [SF](https://ko.wikipedia.org/wiki/공상_과학 "wikilink") 소설 [가니메데 게이트](https://ko.wikipedia.org/wiki/가니메데_게이트 "wikilink")(Ganymede Gate)를 원작으로 하여 바탕 세계관과 주요 설정을 계승해, [라이트 노벨로](../Page/라이트_노벨.md "wikilink") 재창조한 [스페이스 오페라](https://ko.wikipedia.org/wiki/SF의_장르#스페이스_오페라 "wikilink")-러브 코미디 소설이다. 전작과 기초 세계관을 공유하고 있으며 몇몇 인물의 경우 본작에서도 출연하지만, 사실상 양자의 연관성은 거의 없다시피 하다.
 
 그림은 시드노벨의 작품 [프린세스 키스의](https://ko.wikipedia.org/wiki/프린세스_키스 "wikilink") 삽화를 담당한 [cuteg](https://ko.wikipedia.org/wiki/cuteg "wikilink")가 담당하였으나, 원작 소설의 공백이 길어지는 틈에 계약이 종료되었고, 2015년 출간된 3권은 Dangmill이 맡았다.
 
@@ -28,8 +28,8 @@
 ※작중 이름 표기에서는 언어에 관계 없이 성과 이름을 띄어쓰고 있으므로, 이 문단에서도 그것을 따른다.
 
   - 강 현준()
-    남·[2119년](https://ko.wikipedia.org/wiki/2119년 "wikilink") [10월 5일](https://ko.wikipedia.org/wiki/10월_5일 "wikilink")·27세·185cm·73kg
-    [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") 국적, (임시)지구연방 우주군 대위 겸 엑스마키나 부함장.
+    남·[2119년](https://ko.wikipedia.org/wiki/2119년 "wikilink") [10월 5일](../Page/10월_5일.md "wikilink")·27세·185cm·73kg
+    [대한민국](../Page/대한민국.md "wikilink") 국적, (임시)지구연방 우주군 대위 겸 엑스마키나 부함장.
     《아아……이 함은 글렀어\!》
     뛰어난 관찰력과 집중력, 경험적 지식을 바탕으로 활동하는 두뇌파, 그러나 자신은 그 지적 능력을 과소평가하고 있다. 엑스마키나에서 유일하게 상식을 가진(다만, 우주전함을 보고서 피그말리온 같은 면을 보인다) 승조원인 이유로 이래저래 골치아픈 신세. 오로지 복권을 위해, 아직도 고생길은 활짝 열려 있다.
     함 내에서 신혜의 집사로 공인되었다.
@@ -46,7 +46,7 @@
 <!-- end list -->
 
   - 후지와라 나기사()
-    여·[2120년](https://ko.wikipedia.org/wiki/2120년 "wikilink") [1월 19일](https://ko.wikipedia.org/wiki/1월_19일 "wikilink")·26세·163cm·53kg
+    여·[2120년](https://ko.wikipedia.org/wiki/2120년 "wikilink") [1월 19일](../Page/1월_19일.md "wikilink")·26세·163cm·53kg
     [일본](../Page/일본.md "wikilink") 국적, 지구연방 공군 중위, 엑스마키나 의무관(겸 조함관).
     《부장, 애정을 갖고…….》
     항상 담담한 표정을 유지해서 도통 속을 알 수 없는 마이페이스의 미인. 희미한 목소리 때문에 의사소통을 위해서는 약간의 숙련 기간이 필요하다.
@@ -55,15 +55,15 @@
 <!-- end list -->
 
   - 리 원()
-    남·[2104년](https://ko.wikipedia.org/wiki/2104년 "wikilink") [6월 6일](https://ko.wikipedia.org/wiki/6월_6일 "wikilink")·42세·194cm·98kg
-    [중화인민공화국](https://ko.wikipedia.org/wiki/중화인민공화국 "wikilink") 국적, 지구연방 해군 대령, 특임전대 나이트메어 전대장.
+    남·[2104년](https://ko.wikipedia.org/wiki/2104년 "wikilink") [6월 6일](../Page/6월_6일.md "wikilink")·42세·194cm·98kg
+    [중화인민공화국](../Page/중화인민공화국.md "wikilink") 국적, 지구연방 해군 대령, 특임전대 나이트메어 전대장.
     《복권되고 싶지? 그럼 꼭 귀관의 임무를 완수하게. 그것이 무엇이든 간에, 반드시.》
     2m에 가까운 장신, 근육으로 뒤덮인 무투파 사나이이면서, 동시에 속에 능구렁이를 너덧 마리 이상 키우고 있는 베테랑 정보담당관. 지구연방군 전체에서 신혜를 통제할 수 있는 유일한 인물이며, 엑스마키나와 관련된 모든 작전을 입안하고 하달한다.
 
 <!-- end list -->
 
   - 윤 지수()
-    여·[2121년](https://ko.wikipedia.org/wiki/2121년 "wikilink") [7월 7일](https://ko.wikipedia.org/wiki/7월_7일 "wikilink")·25세·158cm·44kg
+    여·[2121년](https://ko.wikipedia.org/wiki/2121년 "wikilink") [7월 7일](../Page/7월_7일.md "wikilink")·25세·158cm·44kg
     대한민국 국적, 지구연방 육군 소위, 특임전대 나이트메어 수석부관.
     《죄송합니다. 시정하겠습니다.》
     엄청난 덜렁이에 맹순이, 눈치마저 없는 도저히 비서직 부관으로는 보이지 않는 리 원 대령의 부관. 항상 실수가 잦고 그것을 수습하는 과정에서도 처절한 실수를 반복한다. 그러나 꽤나 자주 냉철한 부관의 자세를 보여준다.
@@ -73,7 +73,7 @@
 
 ### 배경
 
-2111년, 우주개발공사의 지질탐사선 벨 보우(Bell Bow)가 목성의 위성 [가니메데](https://ko.wikipedia.org/wiki/가니메데_\(위성\) "wikilink")(Satelite Ganymede)를 탐사하던 도중 초대형의 천공(穿孔)을 발견한다. '게이트(Gate)'로 정식 명명된 이 웜홀을 통해 2113년 3월 13일 유인탐사선 트리니티(Trinity)가 새로운 항성계와 지구와 흡사한 환경을 가진 행성을 발견한다. 이 행성은 가니메데(Planet Ganymede)로 명명되며, 후에 '원주인'으로 명명된, 지구의 역사로 치면 중세 시대에 해당하는 문명을 가진 지적 생명체가 살고 있었다.
+2111년, 우주개발공사의 지질탐사선 벨 보우(Bell Bow)가 목성의 위성 [가니메데](../Page/가니메데_\(위성\).md "wikilink")(Satelite Ganymede)를 탐사하던 도중 초대형의 천공(穿孔)을 발견한다. '게이트(Gate)'로 정식 명명된 이 웜홀을 통해 2113년 3월 13일 유인탐사선 트리니티(Trinity)가 새로운 항성계와 지구와 흡사한 환경을 가진 행성을 발견한다. 이 행성은 가니메데(Planet Ganymede)로 명명되며, 후에 '원주인'으로 명명된, 지구의 역사로 치면 중세 시대에 해당하는 문명을 가진 지적 생명체가 살고 있었다.
 
 2122년, 가니메데 근처로 접근한, 새로운 외계 문명이 영어를 해석해 교신을 시도하고, 지구연방정부는 '신성 락시아 제국'이라고 자처한 외계 문명을 공식 인정한다. 처음에는 우호 관계를 취하던 양 세력은 2130년 제국의 일방적인 단교 조치에 이어 2132년에 발발한 제1차 우주전쟁으로 적대 관계가 되며, 후에 휴전을 했다가 2144년 제2차 우주전쟁이 발발해 현재(2145년)까지 이어지고 있다.
 
@@ -147,7 +147,7 @@
 <!-- end list -->
 
   -
-    신성 락시아 제국의 언어. 그 성조가 [독일어](https://ko.wikipedia.org/wiki/독일어 "wikilink")와 비슷하게 들려 **제국식 독일어**로 불리고 있지만 정확하지 않은 표현이다. 작중에서는 편의상 제국어 단어를 독일어로 병기하고 있다.\[7\]
+    신성 락시아 제국의 언어. 그 성조가 [독일어](../Page/독일어.md "wikilink")와 비슷하게 들려 **제국식 독일어**로 불리고 있지만 정확하지 않은 표현이다. 작중에서는 편의상 제국어 단어를 독일어로 병기하고 있다.\[7\]
 
 <!-- end list -->
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ OS](https://ko.wikipedia.org/wiki/_OS).
 
 
-**크로미엄 OS**(Chromium OS)는 [구글](https://ko.wikipedia.org/wiki/구글 "wikilink")사의 [구글 크롬 OS의](https://ko.wikipedia.org/wiki/구글_크롬_OS "wikilink") [오픈 소스](https://ko.wikipedia.org/wiki/오픈_소스 "wikilink") 개발 버전이다. 크롬 OS의 [소스 코드는](../Page/소스_코드.md "wikilink") 2009년 11월 19일에 [BSD 라이선스](https://ko.wikipedia.org/wiki/BSD_라이선스 "wikilink") 하에 크로미엄 OS로 공개되었다.\[1\]
+**크로미엄 OS**(Chromium OS)는 [구글](../Page/구글.md "wikilink")사의 [구글 크롬 OS의](https://ko.wikipedia.org/wiki/구글_크롬_OS "wikilink") [오픈 소스](../Page/오픈_소스.md "wikilink") 개발 버전이다. 크롬 OS의 [소스 코드는](../Page/소스_코드.md "wikilink") 2009년 11월 19일에 [BSD 라이선스](https://ko.wikipedia.org/wiki/BSD_라이선스 "wikilink") 하에 크로미엄 OS로 공개되었다.\[1\]
 
 ## 인터페이스
 
@@ -9,7 +9,7 @@
 
 ## 아키텍처
 
-예비 설계 문서에서 구글은 세 가지 아키텍처를 설명하였다.: [펌웨어](https://ko.wikipedia.org/wiki/펌웨어 "wikilink"), [웹 브라우저](https://ko.wikipedia.org/wiki/웹_브라우저 "wikilink"), [창 관리자](https://ko.wikipedia.org/wiki/창_관리자 "wikilink"). 시스템 수준의 소프트웨어와 [유저랜드](https://ko.wikipedia.org/wiki/유저랜드 "wikilink") 서비스도 포함된다.\[2\]
+예비 설계 문서에서 구글은 세 가지 아키텍처를 설명하였다.: [펌웨어](../Page/펌웨어.md "wikilink"), [웹 브라우저](../Page/웹_브라우저.md "wikilink"), [창 관리자](https://ko.wikipedia.org/wiki/창_관리자 "wikilink"). 시스템 수준의 소프트웨어와 [유저랜드](https://ko.wikipedia.org/wiki/유저랜드 "wikilink") 서비스도 포함된다.\[2\]
 
   - 펌웨어는 컴퓨터에 더 이상 일상적이지 않은 [플로피 디스크](https://ko.wikipedia.org/wiki/플로피_디스크 "wikilink") 드라이브와 같은 [하드웨어](https://ko.wikipedia.org/wiki/하드웨어 "wikilink")를 찾지 않고 빠른 시동 시간에 기여한다. (특히 [넷북](../Page/넷북.md "wikilink"))
   - 시스템 수준의 소프트웨어는 시동 성능을 개선하도록 개조된 리눅스 커널을 포함하고 있다. 유저랜드 소프트웨어는 [업스타트](https://ko.wikipedia.org/wiki/업스타트 "wikilink")가 관리하기에 필수적인 것만 포함한다.

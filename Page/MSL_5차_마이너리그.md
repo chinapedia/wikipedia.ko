@@ -5,7 +5,7 @@
 
 ## 리그기간
 
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [9월 20일](https://ko.wikipedia.org/wiki/9월_20일 "wikilink") \~ [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [1월 10일](https://ko.wikipedia.org/wiki/1월_10일 "wikilink")
+  - [2004년](../Page/2004년.md "wikilink") [9월 20일](../Page/9월_20일.md "wikilink") \~ [2005년](../Page/2005년.md "wikilink") [1월 10일](../Page/1월_10일.md "wikilink")
 
 ## 리그방식
 
@@ -15,7 +15,7 @@
 
 ## 본선진출자
 
-  - **예선전 일정** : [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [9월 2일](https://ko.wikipedia.org/wiki/9월_2일 "wikilink")
+  - **예선전 일정** : [2004년](../Page/2004년.md "wikilink") [9월 2일](../Page/9월_2일.md "wikilink")
 
 | 1조  | 2조  | 3조  | 4조  | 5조  | 6조  | 7조  | 8조  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -25,7 +25,7 @@
 
 ## 마이너리그
 
-  - **일정** : [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [9월 20일](https://ko.wikipedia.org/wiki/9월_20일 "wikilink") \~ [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [11월 1일](https://ko.wikipedia.org/wiki/11월_1일 "wikilink") *(재경기 : [11월 8일](https://ko.wikipedia.org/wiki/11월_8일 "wikilink"), [11월 5일](https://ko.wikipedia.org/wiki/11월_5일 "wikilink"))*
+  - **일정** : [2004년](../Page/2004년.md "wikilink") [9월 20일](../Page/9월_20일.md "wikilink") \~ [2004년](../Page/2004년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") *(재경기 : [11월 8일](../Page/11월_8일.md "wikilink"), [11월 5일](../Page/11월_5일.md "wikilink"))*
 
 | A조                                                      | B조    | C조                                                  | D조    |
 | ------------------------------------------------------- | ----- | --------------------------------------------------- | ----- |
@@ -34,11 +34,11 @@
 | [최인규](https://ko.wikipedia.org/wiki/최인규 "wikilink")     | 2패    | [김선기](https://ko.wikipedia.org/wiki/김선기 "wikilink") | 1승 1패 |
 |                                                         |       |                                                     |       |
 
-| E조                                                      | F조    | G조                                                  | H조    |
-| ------------------------------------------------------- | ----- | --------------------------------------------------- | ----- |
-| **[마재윤](../Page/마재윤.md "wikilink")**                    | 2승    | [박정길](https://ko.wikipedia.org/wiki/박정길 "wikilink") | 1승 1패 |
-| **[임요환](https://ko.wikipedia.org/wiki/임요환 "wikilink")** | 1승 1패 | [차재욱](../Page/차재욱.md "wikilink")                    | 1승 1패 |
-| [장진수](https://ko.wikipedia.org/wiki/장진수 "wikilink")     | 2패    | [이재항](https://ko.wikipedia.org/wiki/이재항 "wikilink") | 1승 1패 |
+| E조                                                  | F조    | G조                                                  | H조    |
+| --------------------------------------------------- | ----- | --------------------------------------------------- | ----- |
+| **[마재윤](../Page/마재윤.md "wikilink")**                | 2승    | [박정길](https://ko.wikipedia.org/wiki/박정길 "wikilink") | 1승 1패 |
+| **[임요환](../Page/임요환.md "wikilink")**                | 1승 1패 | [차재욱](../Page/차재욱.md "wikilink")                    | 1승 1패 |
+| [장진수](https://ko.wikipedia.org/wiki/장진수 "wikilink") | 2패    | [이재항](https://ko.wikipedia.org/wiki/이재항 "wikilink") | 1승 1패 |
 
 ### 재경기
 
@@ -50,8 +50,8 @@
 
 ### 조별 2위전, 메이저진출전
 
-  - **조별 2위전** : [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [11월 22일](https://ko.wikipedia.org/wiki/11월_22일 "wikilink"), [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [11월 29일](../Page/11월_29일.md "wikilink")
-  - **메이저진출전** : [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [12월 6일](https://ko.wikipedia.org/wiki/12월_6일 "wikilink"), [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [12월 13일](https://ko.wikipedia.org/wiki/12월_13일 "wikilink")
+  - **조별 2위전** : [2004년](../Page/2004년.md "wikilink") [11월 22일](../Page/11월_22일.md "wikilink"), [2004년](../Page/2004년.md "wikilink") [11월 29일](../Page/11월_29일.md "wikilink")
+  - **메이저진출전** : [2004년](../Page/2004년.md "wikilink") [12월 6일](../Page/12월_6일.md "wikilink"), [2004년](../Page/2004년.md "wikilink") [12월 13일](../Page/12월_13일.md "wikilink")
 
 |        |                                                         |        |
 | ------ | ------------------------------------------------------- | ------ |
@@ -63,8 +63,8 @@
 
 ## 리그결정전
 
-  - **1R** : [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [12월 20일](https://ko.wikipedia.org/wiki/12월_20일 "wikilink"), [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [12월 27일](https://ko.wikipedia.org/wiki/12월_27일 "wikilink")
-  - **2R** : [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [1월 3일](https://ko.wikipedia.org/wiki/1월_3일 "wikilink"), [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [1월 10일](https://ko.wikipedia.org/wiki/1월_10일 "wikilink")
+  - **1R** : [2004년](../Page/2004년.md "wikilink") [12월 20일](../Page/12월_20일.md "wikilink"), [2004년](../Page/2004년.md "wikilink") [12월 27일](../Page/12월_27일.md "wikilink")
+  - **2R** : [2005년](../Page/2005년.md "wikilink") [1월 3일](../Page/1월_3일.md "wikilink"), [2005년](../Page/2005년.md "wikilink") [1월 10일](../Page/1월_10일.md "wikilink")
 
 |    |                                                     |    |
 | -- | --------------------------------------------------- | -- |

@@ -5,8 +5,8 @@
 
 ## 리그기간
 
-  - 녹화: [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [4월 4일](https://ko.wikipedia.org/wiki/4월_4일 "wikilink") \~ [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [5월 16일](https://ko.wikipedia.org/wiki/5월_16일 "wikilink")
-  - 방송날자: [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [4월 7일](https://ko.wikipedia.org/wiki/4월_7일 "wikilink") \~ [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [5월 22일](https://ko.wikipedia.org/wiki/5월_22일 "wikilink")
+  - 녹화: [2010년](../Page/2010년.md "wikilink") [4월 4일](../Page/4월_4일.md "wikilink") \~ [2010년](../Page/2010년.md "wikilink") [5월 16일](../Page/5월_16일.md "wikilink")
+  - 방송날자: [2010년](../Page/2010년.md "wikilink") [4월 7일](../Page/4월_7일.md "wikilink") \~ [2010년](../Page/2010년.md "wikilink") [5월 22일](../Page/5월_22일.md "wikilink")
 
 ## 버전
 

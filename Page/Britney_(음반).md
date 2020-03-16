@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Britney \(\)](https://ko.wikipedia.org/wiki/Britney_\(\)).
 
 
-***Britney***은 [브리트니 스피어스의](../Page/브리트니_스피어스.md "wikilink") 세 번째 정규 앨범이다. 미국에서는 [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [11월 6일](https://ko.wikipedia.org/wiki/11월_6일 "wikilink") 발매되었다.
+***Britney***은 [브리트니 스피어스의](../Page/브리트니_스피어스.md "wikilink") 세 번째 정규 앨범이다. 미국에서는 [2001년](../Page/2001년.md "wikilink") [11월 6일](../Page/11월_6일.md "wikilink") 발매되었다.
 
 ## 곡 목록
 

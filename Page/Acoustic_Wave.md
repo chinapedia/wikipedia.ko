@@ -5,7 +5,7 @@
 
 ## 음반
 
-10집 *[The Romanticist](../Page/The_Romanticist.md "wikilink")* 앨범에 실린 "Lady"의 일본어 버전과 *[Radio Wave](../Page/3_Waves_of_Unexpected_Twist:_Radio_Wave.md "wikilink")*에 수록된 〈나비효과〉의 일본어 버전인 〈もうここに君はいない〉가 실렸으며, 〈나비효과〉와 같은 앨범에 수록됐던 "Hey", "I Do"는 리마스터링이 된 버전으로 *Acoustic Wave - Japan Special Edition* 앨범에 실렸다. [영화 엽기적인 그녀의](https://ko.wikipedia.org/wiki/엽기적인_그녀 "wikilink") 주제곡으로 한국뿐만 아니라 아시아에서 널리 알려진 "I Believe"와 5집에 수록된 〈내 방식대로의 사랑〉의 New Version이 수록되어 있다. 또한, 일본에서 큰 화제를 일으킨 키야마 유사쿠의 곡 "Home"의 korean version을 수록하였다. 특히 "Lady"는 일본에서 CF의 로고송으로 쓰이기도 하였다.\[1\]
+10집 *[The Romanticist](../Page/The_Romanticist.md "wikilink")* 앨범에 실린 "Lady"의 일본어 버전과 *[Radio Wave](../Page/3_Waves_of_Unexpected_Twist:_Radio_Wave.md "wikilink")*에 수록된 〈나비효과〉의 일본어 버전인 〈もうここに君はいない〉가 실렸으며, 〈나비효과〉와 같은 앨범에 수록됐던 "Hey", "I Do"는 리마스터링이 된 버전으로 *Acoustic Wave - Japan Special Edition* 앨범에 실렸다. [영화 엽기적인 그녀의](../Page/엽기적인_그녀.md "wikilink") 주제곡으로 한국뿐만 아니라 아시아에서 널리 알려진 "I Believe"와 5집에 수록된 〈내 방식대로의 사랑〉의 New Version이 수록되어 있다. 또한, 일본에서 큰 화제를 일으킨 키야마 유사쿠의 곡 "Home"의 korean version을 수록하였다. 특히 "Lady"는 일본에서 CF의 로고송으로 쓰이기도 하였다.\[1\]
 
 이는 CD버전인 라이센스 판과 CD+DVD버전인 한정판이 동시에 발매되었다.
 

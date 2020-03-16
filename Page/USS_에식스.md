@@ -3,9 +3,9 @@
 
 **USS 에식스**\[1\](USS Essex)는 미국의 해군 함선 이름이다. 5척의 [미국 해군](../Page/미국_해군.md "wikilink") 함선이 [에식스 카운티의](https://ko.wikipedia.org/wiki/에식스_카운티_\(매사추세츠주\) "wikilink") 이름을 따라서 "USS 에식스"라고 명명되었다.
 
-  - , 1799년 진수, [1812년 전쟁에서](https://ko.wikipedia.org/wiki/1812년_전쟁 "wikilink") 활약한 32문 [프리깃](../Page/프리깃.md "wikilink").
+  - , 1799년 진수, [1812년 전쟁에서](../Page/1812년_전쟁.md "wikilink") 활약한 32문 [프리깃](../Page/프리깃.md "wikilink").
 
-  - , [미국 남북 전쟁에서](https://ko.wikipedia.org/wiki/미국_남북_전쟁 "wikilink") 사용된 [장갑](https://ko.wikipedia.org/wiki/장갑 "wikilink") [증기선](../Page/증기선.md "wikilink").
+  - , [미국 남북 전쟁에서](../Page/미국_남북_전쟁.md "wikilink") 사용된 [장갑](https://ko.wikipedia.org/wiki/장갑 "wikilink") [증기선](../Page/증기선.md "wikilink").
 
   - , 1876년 진수한 목제 증기선, "구식 해군"의 마지막 함선 중 하나.
 

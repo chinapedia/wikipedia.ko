@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [  H](https://ko.wikipedia.org/wiki/__H).
 
 
-**숩테 H선**(La línea H del subte de Buenos Aires)은 [아르헨티나](https://ko.wikipedia.org/wiki/아르헨티나 "wikilink")의 수도 [부에노스아이레스](https://ko.wikipedia.org/wiki/부에노스아이레스 "wikilink")의 "노란색" 노선으로 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [10월 18일](https://ko.wikipedia.org/wiki/10월_18일 "wikilink") 개통되었다.
+**숩테 H선**(La línea H del subte de Buenos Aires)은 [아르헨티나](../Page/아르헨티나.md "wikilink")의 수도 [부에노스아이레스](../Page/부에노스아이레스.md "wikilink")의 "노란색" 노선으로 [2007년](../Page/2007년.md "wikilink") [10월 18일](../Page/10월_18일.md "wikilink") 개통되었다.
 
 ## 개요
 
-숩테 H선은 현재 총길이 2.2km로 연장 공사가 끝나면 11.85km의 길이를 가지게 된다. 현재는 카세로스 역에서 온세 광장 역까지 다섯 구간만 연결한다. 아르헨티나에서 가장 최근에 개통된 여섯 번째 노선이며, [1944년](https://ko.wikipedia.org/wiki/1944년 "wikilink") E선 공사 이후 60년 만에 신규로 추가된 노선이다. A, C, D, E와 동일한 복선 전동 방식을 채택했다.
+숩테 H선은 현재 총길이 2.2km로 연장 공사가 끝나면 11.85km의 길이를 가지게 된다. 현재는 카세로스 역에서 온세 광장 역까지 다섯 구간만 연결한다. 아르헨티나에서 가장 최근에 개통된 여섯 번째 노선이며, [1944년](../Page/1944년.md "wikilink") E선 공사 이후 60년 만에 신규로 추가된 노선이다. A, C, D, E와 동일한 복선 전동 방식을 채택했다.
 
-현재도 공사 중에 있으며, 1 단계 구간이 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [10월 18일](https://ko.wikipedia.org/wiki/10월_18일 "wikilink") 문을 열었다.
+현재도 공사 중에 있으며, 1 단계 구간이 [2007년](../Page/2007년.md "wikilink") [10월 18일](../Page/10월_18일.md "wikilink") 문을 열었다.
 
 ## 지하철 역
 

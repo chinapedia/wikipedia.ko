@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [IBM PC110](https://ko.wikipedia.org/wiki/IBM_PC110).
 
 
-**IBM Palm Top PC110**은 [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") 9월 [일본](../Page/일본.md "wikilink") [IBM](https://ko.wikipedia.org/wiki/IBM "wikilink")에서 출시한 초소형 [PC이다](https://ko.wikipedia.org/wiki/개인용_컴퓨터 "wikilink").
+**IBM Palm Top PC110**은 [1995년](../Page/1995년.md "wikilink") 9월 [일본](../Page/일본.md "wikilink") [IBM](../Page/IBM.md "wikilink")에서 출시한 초소형 [PC이다](../Page/개인용_컴퓨터.md "wikilink").
 
 ## 개요
 
@@ -11,17 +11,17 @@ IBM PC110은 일본 IBM 야마토 연구소에서 개발되었다. [두랄루민
 
 ## 구성
 
-IBM PC110은 IBM PC 호환 기종이지만, 본체에 [HDD가](https://ko.wikipedia.org/wiki/하드_디스크 "wikilink") 내장되어 있지 않고, [운영 체제는](https://ko.wikipedia.org/wiki/운영_체제 "wikilink") 내장 [플래시 메모리](../Page/플래시_메모리.md "wikilink") 드라이브, [PC 카드](../Page/PC_카드.md "wikilink") 형태의 저장 매체 또는 [콤팩트플래시](../Page/콤팩트플래시.md "wikilink") 중 하나를 통해 부팅할 수 있다. 또한 무선이 아니므로 전화선을 연결할 필요는 있으나 본체 자체를 [전화](../Page/전화.md "wikilink")로 사용할 수 있는 통신 기능도 가지고 있는 등, 일반적인 노트북 PC와는 상당히 다른 구성을 갖고 있다.
+IBM PC110은 IBM PC 호환 기종이지만, 본체에 [HDD가](https://ko.wikipedia.org/wiki/하드_디스크 "wikilink") 내장되어 있지 않고, [운영 체제는](../Page/운영_체제.md "wikilink") 내장 [플래시 메모리](../Page/플래시_메모리.md "wikilink") 드라이브, [PC 카드](../Page/PC_카드.md "wikilink") 형태의 저장 매체 또는 [콤팩트플래시](../Page/콤팩트플래시.md "wikilink") 중 하나를 통해 부팅할 수 있다. 또한 무선이 아니므로 전화선을 연결할 필요는 있으나 본체 자체를 [전화](../Page/전화.md "wikilink")로 사용할 수 있는 통신 기능도 가지고 있는 등, 일반적인 노트북 PC와는 상당히 다른 구성을 갖고 있다.
 
-[CPU는](https://ko.wikipedia.org/wiki/중앙_처리_장치 "wikilink") SL Enhanced i486SX - 33 MHZ, [RAM](https://ko.wikipedia.org/wiki/RAM "wikilink")은 모델에 따라 4 MB에서 8 MB를 탑재하고 있다. 디스플레이는 4.7인치 DSTN 컬러 [LCD](https://ko.wikipedia.org/wiki/LCD "wikilink")로, 640×480의 해상도에 256색을 표시할 수 있는 그래픽 카드가 내장되었다. 외부 모니터도 연결하여 쓸 수 있는데, 이 때는 800×600의 해상도에 16색을 표시할 수 있다.
+[CPU는](../Page/중앙_처리_장치.md "wikilink") SL Enhanced i486SX - 33 MHZ, [RAM](https://ko.wikipedia.org/wiki/RAM "wikilink")은 모델에 따라 4 MB에서 8 MB를 탑재하고 있다. 디스플레이는 4.7인치 DSTN 컬러 [LCD](https://ko.wikipedia.org/wiki/LCD "wikilink")로, 640×480의 해상도에 256색을 표시할 수 있는 그래픽 카드가 내장되었다. 외부 모니터도 연결하여 쓸 수 있는데, 이 때는 800×600의 해상도에 16색을 표시할 수 있다.
 
-입력 장치로는 작은 크기를 위해 특이한 구조로 설계된 준표준 배열의 키보드가 장착되었는데, 각 키의 표면에는 단차가 있고 중앙부가 튀어 나와 있어서 여러 개의 키가 동시에 눌리는 것을 방지하도록 설계되어 있다. 또한, 원통형의 버튼으로 조작하는 포인팅 헤드가 키보드의 왼쪽 상단에 장착되었고 터치 버튼은 대각선 위쪽에 배치했다. 재미있는 것은 같은 버튼이 오른쪽에 위아래가 뒤집혀 배열되어 있으며, 이것은 양손으로 좌우를 잡고 작업하는 것을 배려한 것이다. 포인팅 헤드가 빨간색, 왼쪽 버튼이 파란색, 오른쪽 버튼이 녹색이며, 본체가 검은색이여서 눈에 잘 보인다([NES](https://ko.wikipedia.org/wiki/패밀리_컴퓨터 "wikilink") 컨트롤러를 참조). 또한 키보드 위쪽 가운데에는 제공된 PIM 소프트웨어인 퍼스나웨어(Personaware)로만 조작할 수 있는 터치 패드가 있는데, 나중에 [윈도](https://ko.wikipedia.org/wiki/윈도 "wikilink")에서 이를 PS/2 마우스로 사용할 수 있게 해주는 드라이버가 공개되었으며, 또 [앨런 콕스](../Page/앨런_콕스.md "wikilink")([en](https://ko.wikipedia.org/wiki/:en:Alan_Cox "wikilink"))가 초기 PC110에서 [리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink")를 개발했던 탓에 리눅스에서도 PS/2 마우스 호환 포인팅 장치로 사용할 수 있게 되었다.
+입력 장치로는 작은 크기를 위해 특이한 구조로 설계된 준표준 배열의 키보드가 장착되었는데, 각 키의 표면에는 단차가 있고 중앙부가 튀어 나와 있어서 여러 개의 키가 동시에 눌리는 것을 방지하도록 설계되어 있다. 또한, 원통형의 버튼으로 조작하는 포인팅 헤드가 키보드의 왼쪽 상단에 장착되었고 터치 버튼은 대각선 위쪽에 배치했다. 재미있는 것은 같은 버튼이 오른쪽에 위아래가 뒤집혀 배열되어 있으며, 이것은 양손으로 좌우를 잡고 작업하는 것을 배려한 것이다. 포인팅 헤드가 빨간색, 왼쪽 버튼이 파란색, 오른쪽 버튼이 녹색이며, 본체가 검은색이여서 눈에 잘 보인다([NES](../Page/패밀리_컴퓨터.md "wikilink") 컨트롤러를 참조). 또한 키보드 위쪽 가운데에는 제공된 PIM 소프트웨어인 퍼스나웨어(Personaware)로만 조작할 수 있는 터치 패드가 있는데, 나중에 [윈도](https://ko.wikipedia.org/wiki/윈도 "wikilink")에서 이를 PS/2 마우스로 사용할 수 있게 해주는 드라이버가 공개되었으며, 또 [앨런 콕스](../Page/앨런_콕스.md "wikilink")([en](https://ko.wikipedia.org/wiki/:en:Alan_Cox "wikilink"))가 초기 PC110에서 [리눅스](../Page/리눅스.md "wikilink")를 개발했던 탓에 리눅스에서도 PS/2 마우스 호환 포인팅 장치로 사용할 수 있게 되었다.
 
 외부에는, 뒷면에 전용 키보드·마우스 커넥터가 있으며, 윙잭(WingJack)식 전화선 연결 단자, 전화용 헤드셋과 적외선 통신 포트가 나란히 있다. 윙잭은 단자를 열면 날개와 같이 펼쳐져 전화선을 연결할 수 있도록 되어 있는데, 이러한 방식의 단자는 아주 작은 공간만을 차지하기 때문에 PC110을 위해 특별히 개발된 것이다. 오디오 헤드셋 잭이 앞쪽 측면에 있고 그 옆에는 작은 액정 화면이 있는데, 이 액정으로는 배터리의 충전 상태를 표시했다.
 
 왼쪽에는 표준 PCMCIA 카드 삽입구가 있으며 TypeII 2개 혹은 TypeIII 1개를 장착할 수 있다. 오른쪽에는 [콤팩트플래시](../Page/콤팩트플래시.md "wikilink") (당시의 공식 발표명은 스마트 피코 슬롯) 삽입구가 있다. IBM PC110은 [콤팩트플래시](../Page/콤팩트플래시.md "wikilink") 단자를 최초로 내장한 제품이었다.
 
-또한 오른쪽에는 배터리 삽입구가 있고 그 덮개에는 스피커가 부착되어있다. 배터리는 일반적인 캠코더의 리튬 이온 배터리와 동일하며, 비공식적으로 마쓰시타 전기(현 [파나소닉](https://ko.wikipedia.org/wiki/파나소닉 "wikilink"))의 캠코더에 들어가는 배터리를 사용할 수 있었다. 또한 추가적으로 NiMH 배터리가 내장되어 있어 전원을 완전히 끄지 않고 대기 모드에서 배터리 교체가 가능했다.
+또한 오른쪽에는 배터리 삽입구가 있고 그 덮개에는 스피커가 부착되어있다. 배터리는 일반적인 캠코더의 리튬 이온 배터리와 동일하며, 비공식적으로 마쓰시타 전기(현 [파나소닉](../Page/파나소닉.md "wikilink"))의 캠코더에 들어가는 배터리를 사용할 수 있었다. 또한 추가적으로 NiMH 배터리가 내장되어 있어 전원을 완전히 끄지 않고 대기 모드에서 배터리 교체가 가능했다.
 
 그 밖에도 본체 프레임에 직접 고정되는 스트랩 구멍이 플라스틱 덮개로 숨겨져 있다. 이는 IBM의 엄격한 강도 기준(스트랩을 잡고 본체를 휘둘러도 파손되지 않는 강도)을 만족할 수 없어 숨기게 되었다. 이는 기획 단계에서 가능한 한 휴대 가능한 모든 방법에 대해 조사하였다는 점을 알려준다.
 
@@ -33,11 +33,11 @@ IBM PC110은 IBM PC 호환 기종이지만, 본체에 [HDD가](https://ko.wikipe
 
 메인보드의 전용 단자와 전용 모듈을 통해 RAM을 증설할 수 있으며, 일본에서는 개인 자작으로 32 MB까지 증설한 사례가 있다.
 
-그 밖에, 부속 기기는 아니지만, PC110 전용 [디지털 카메라가](https://ko.wikipedia.org/wiki/디지털_카메라 "wikilink") 발매되었다. [캐논](../Page/캐논.md "wikilink")의 디지털 카메라 카드 CE300로, PCMCIA TypeII 카드 외부에 회전식 렌즈 부분이 돌출하며, 카메라 쪽에는 파인더와 액정 화면도 없고, PC110 디스플레이에 이미지가 나오도록 되어 있었다. 화소자 수는 27만 화소. 매크로 촬영도 가능했다.
+그 밖에, 부속 기기는 아니지만, PC110 전용 [디지털 카메라가](../Page/디지털_카메라.md "wikilink") 발매되었다. [캐논](../Page/캐논.md "wikilink")의 디지털 카메라 카드 CE300로, PCMCIA TypeII 카드 외부에 회전식 렌즈 부분이 돌출하며, 카메라 쪽에는 파인더와 액정 화면도 없고, PC110 디스플레이에 이미지가 나오도록 되어 있었다. 화소자 수는 27만 화소. 매크로 촬영도 가능했다.
 
 ## 포함된 소프트웨어와 기능
 
-본체의 내장 메모리는 **PC DOS J7.0/V**의 최소 부분(전부는 플로피 디스크 포함) 및 **퍼스나웨어**(Personaware)라는 소프트웨어가 들어 있어 하드 디스크 카드를 삽입하면 부팅 후 바로 설치되도록 하였다. 이것은 간단한 [PIM](https://ko.wikipedia.org/wiki/PIM "wikilink")과 메뉴의 역할을 다하고 일정이나 메모, 간단한 신호적인 [데이터베이스](https://ko.wikipedia.org/wiki/데이터베이스 "wikilink"), 주소록, 전자 메일 및 팩스 기능 또는 기타 응용 프로그램을 등록하여 부팅하는 기능등이 있었다. 팩스는 PC110에 내장된 팩스 모뎀을 사용하며 전용 편집기로 만든 문서를 보내도록 되어 있었다.
+본체의 내장 메모리는 **PC DOS J7.0/V**의 최소 부분(전부는 플로피 디스크 포함) 및 **퍼스나웨어**(Personaware)라는 소프트웨어가 들어 있어 하드 디스크 카드를 삽입하면 부팅 후 바로 설치되도록 하였다. 이것은 간단한 [PIM](https://ko.wikipedia.org/wiki/PIM "wikilink")과 메뉴의 역할을 다하고 일정이나 메모, 간단한 신호적인 [데이터베이스](../Page/데이터베이스.md "wikilink"), 주소록, 전자 메일 및 팩스 기능 또는 기타 응용 프로그램을 등록하여 부팅하는 기능등이 있었다. 팩스는 PC110에 내장된 팩스 모뎀을 사용하며 전용 편집기로 만든 문서를 보내도록 되어 있었다.
 
 또한 이 장치용 소프트웨어만으로 제품의 특수 기능에 관계된 조작을 할 수 있었다. 예를 들면, 이 장치는 휴대폰으로 사용할 수 있었다. 후면 윙잭에 모듈러를 연결하고 PC110를 부팅한 후 퍼스나웨어 전화를 선택하고 화면의 숫자 버튼을 누르거나 주소록에서 선택하면, 전화를 걸 수 있으며 상대방이 전화를 받을 수 있다. 대화를 하기 위해서는 본 제품의 뒷면과 앞면의 양쪽에 있는 스피커(왼쪽)와 마이크(오른쪽)를 귀와 입에 맞추면 된다. 또한 마이크가 전화의 후크 역할을 하고 있어서 좌우로 슬라이드시켜 전화를 받거나 끊는다. 이 정도면 단순히 전화이지만 그 외에도 호출기에 메시지를 보내는 기능과 음성 사서함 기능도 함께 제공했다.
 
@@ -47,11 +47,11 @@ IBM PC110은 IBM PC 호환 기종이지만, 본체에 [HDD가](https://ko.wikipe
 
 부팅은 내장 플래시 메모리 드라이브 또는 PC 카드에서 이뤄지고, 설정을 바꾸면 스마트 피코 플래시로도 가능했다.
 
-또한 시간이 지난 후이지만, 일본 IBM에서 PC DOS에서 실행되는 [인터넷](../Page/인터넷.md "wikilink") + [이메일 클라이언트인](https://ko.wikipedia.org/wiki/이메일_클라이언트 "wikilink") **[WebBoy](https://ko.wikipedia.org/wiki/WebBoy "wikilink")**가 출시되면서 해당 기종의 사용자에게 보탬이 됐다. 물론, 인터넷에 사용하려면 내장 모뎀은 DATA 2400 bps로 당시로서는 저속이었으며, 외장 모뎀이나 특히 PC 카드 형식의 모뎀을 이용하는 사람이 많았던 것 같다.
+또한 시간이 지난 후이지만, 일본 IBM에서 PC DOS에서 실행되는 [인터넷](../Page/인터넷.md "wikilink") + [이메일 클라이언트인](../Page/이메일_클라이언트.md "wikilink") **[WebBoy](https://ko.wikipedia.org/wiki/WebBoy "wikilink")**가 출시되면서 해당 기종의 사용자에게 보탬이 됐다. 물론, 인터넷에 사용하려면 내장 모뎀은 DATA 2400 bps로 당시로서는 저속이었으며, 외장 모뎀이나 특히 PC 카드 형식의 모뎀을 이용하는 사람이 많았던 것 같다.
 
 ## 등장 배경
 
-이 모델은 IBM의 노트북 시리즈 이름인 [씽크패드](https://ko.wikipedia.org/wiki/씽크패드 "wikilink")를 쓰지 않았다. 이는 위와 같은 여러 가지 특수한 부분들로 인해 여타의 씽크패드와 동등하게 취급하기 적당치 않았기 때문으로 추정된다. 그러나 **110**라는 숫자는 씽크패드 220을 의식한 것이다.
+이 모델은 IBM의 노트북 시리즈 이름인 [씽크패드](../Page/씽크패드.md "wikilink")를 쓰지 않았다. 이는 위와 같은 여러 가지 특수한 부분들로 인해 여타의 씽크패드와 동등하게 취급하기 적당치 않았기 때문으로 추정된다. 그러나 **110**라는 숫자는 씽크패드 220을 의식한 것이다.
 
 씽크패드 220\[1\]은 일본 IBM의 매니악한 개발자들에 의해 "늘 휴대하며 어디서나 쓸 수 있는" 컴퓨터를 목표로 하여 계획된 기종으로, 처음에는 더 작은 크기로 계획되었으나 원안대로 상품화했을 경우 일반 대중에게 받아들여지지 않을 것이라는 지적이 있어 해당 크기로 출시되었다. 이 기종은 그리 많이 팔리지는 못했으나 서브 노트북 PC의 효시라 할 수 있으며, 실제 이를 기점으로 하여 여러 회사에서 비슷한 크기의 모델을 출시하기에 이르렀지만 이들은 IBM 스스로가 내놓은 것들을 포함하여 "220보다 고성능이지만 크기가 큰" 기기들이었고 이것이 일반 대중의 수요였다. 그러나 당초 220을 기획한 사람들 같은 매니악한 계층도 존재했고, 그들은 인원은 적었으나 그들만으로도 목소리가 컸다. 그러한 사람들이 보기에는 이러한 220조차 아직도 컸으며, 보다 작은 것이 아니면 부담 없이 들고 다니기에는 아직 크게 받아들여졌다. 이에 [모노리스](https://ko.wikipedia.org/wiki/모노리스 "wikilink")라고 명명되어 각종 행사에서 전시되었던 220의 시작(試作) 기기를 정식 출시할 것을 요구하는 소비자\[2\]들의 운동이 [PC 통신상에서](https://ko.wikipedia.org/wiki/PC_통신 "wikilink") 일어났고, 이들 중 일부는 [HP의](https://ko.wikipedia.org/wiki/휴렛_패커드 "wikilink") [HP 100LX나](https://ko.wikipedia.org/wiki/HP_100LX "wikilink") [HP 200LX로](../Page/HP_200LX.md "wikilink") 향하기도 했다.
 
@@ -81,7 +81,7 @@ Palm Top PC 110 관련하여 간행한 책은 많다.
 
 캐릭터로 [츠부라야 프로덕션의](https://ko.wikipedia.org/wiki/츠부라야_프로덕션 "wikilink") 울트라맨을 사용했을 뿐만 아니라, 당시 압도적으로 세계에서 가장 작고 가벼웠던 PC110의 선진성이나 금속성 본체 디자인 등의 이유에서인지, 몇몇 엔터테인먼트 작품에 등장하였다.
 
-  - [지오브리더스](https://ko.wikipedia.org/wiki/지오브리더스 "wikilink")([이토 아키히로작](https://ko.wikipedia.org/wiki/이토_아키히로 "wikilink") [만화](https://ko.wikipedia.org/wiki/만화 "wikilink")·[OVA](https://ko.wikipedia.org/wiki/OVA "wikilink")) 2005년 현재까지 작품에서 PC110이 활약하고 있다.
+  - [지오브리더스](https://ko.wikipedia.org/wiki/지오브리더스 "wikilink")([이토 아키히로작](https://ko.wikipedia.org/wiki/이토_아키히로 "wikilink") [만화](../Page/만화.md "wikilink")·[OVA](https://ko.wikipedia.org/wiki/OVA "wikilink")) 2005년 현재까지 작품에서 PC110이 활약하고 있다.
   - [울트라맨 가이아](https://ko.wikipedia.org/wiki/울트라맨_가이아 "wikilink")([특수촬영](https://ko.wikipedia.org/wiki/특촬 "wikilink") TV 방송)
 
 ## 약점
@@ -92,8 +92,8 @@ Palm Top PC 110은 몇 가지 약점이 있었다. 하나는 본체의 확장성
 
 ## 관련 항목
 
-  - [IBM](https://ko.wikipedia.org/wiki/IBM "wikilink")
-  - [씽크패드](https://ko.wikipedia.org/wiki/씽크패드 "wikilink")
+  - [IBM](../Page/IBM.md "wikilink")
+  - [씽크패드](../Page/씽크패드.md "wikilink")
   - [칩카드](https://ko.wikipedia.org/wiki/칩카드 "wikilink")
 
 ## 각주

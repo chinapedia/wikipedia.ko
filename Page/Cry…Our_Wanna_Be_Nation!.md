@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CryOur Wanna Be Nation!](https://ko.wikipedia.org/wiki/CryOur_Wanna_Be_Nation!).
 
 
-《**Cry…Our Wanna Be Nation\!**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [유앤미 블루의](../Page/유앤미_블루.md "wikilink") 두 번째 정규 앨범이다.\[1\] 수록곡 중 〈그대 영혼에〉는 영화 [아름다운 청년 전태일에](https://ko.wikipedia.org/wiki/아름다운_청년_전태일 "wikilink") 삽입되기도 했다. 이 음반을 끝으로 [이승열](../Page/이승열.md "wikilink"), 방준석 두 멤버는 각각 솔로 활동을 시작하게 된다.
+《**Cry…Our Wanna Be Nation\!**》는 [대한민국](../Page/대한민국.md "wikilink")의 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [유앤미 블루의](../Page/유앤미_블루.md "wikilink") 두 번째 정규 앨범이다.\[1\] 수록곡 중 〈그대 영혼에〉는 영화 [아름다운 청년 전태일에](../Page/아름다운_청년_전태일.md "wikilink") 삽입되기도 했다. 이 음반을 끝으로 [이승열](../Page/이승열.md "wikilink"), 방준석 두 멤버는 각각 솔로 활동을 시작하게 된다.
 
 1집과 마찬가지로 2004년에 재발매 되었는데, 부클릿의 디자인이 변경되었다.
 
@@ -29,8 +29,8 @@
 
 </dl>
 <ul>
-<li><a href="../Page/이승열.md" title="wikilink">이승열</a>: <a href="https://ko.wikipedia.org/wiki/보컬" title="wikilink">보컬</a>, <a href="https://ko.wikipedia.org/wiki/어쿠스틱_기타" title="wikilink">어쿠스틱 기타</a>, <a href="https://ko.wikipedia.org/wiki/전기_기타" title="wikilink">전기 기타</a>, <a href="https://ko.wikipedia.org/wiki/베이스_기타" title="wikilink">베이스 기타</a>, 리듬 <a href="https://ko.wikipedia.org/wiki/시퀀스" title="wikilink">시퀀스</a>, <a href="https://ko.wikipedia.org/wiki/피아노" title="wikilink">피아노</a> 시퀀스, <a href="https://ko.wikipedia.org/wiki/코러스_(대중음악)" title="wikilink">코러스</a>, <a href="https://ko.wikipedia.org/wiki/타악기" title="wikilink">타악기</a> 시퀀스, 백 보컬</li>
-<li><a href="../Page/방준석.md" title="wikilink">방준석</a>: 보컬, <a href="https://ko.wikipedia.org/wiki/기타" title="wikilink">기타</a>, 베이스 기타, <a href="https://ko.wikipedia.org/wiki/건반" title="wikilink">건반</a>&amp;리듬 시퀀스, 코러스, 백 보컬, <a href="https://ko.wikipedia.org/wiki/드럼" title="wikilink">드럼</a> 프로그래밍, 음향 효과</li>
+<li><a href="../Page/이승열.md" title="wikilink">이승열</a>: <a href="https://ko.wikipedia.org/wiki/보컬" title="wikilink">보컬</a>, <a href="https://ko.wikipedia.org/wiki/어쿠스틱_기타" title="wikilink">어쿠스틱 기타</a>, <a href="../Page/전기_기타.md" title="wikilink">전기 기타</a>, <a href="../Page/베이스_기타.md" title="wikilink">베이스 기타</a>, 리듬 <a href="https://ko.wikipedia.org/wiki/시퀀스" title="wikilink">시퀀스</a>, <a href="../Page/피아노.md" title="wikilink">피아노</a> 시퀀스, <a href="https://ko.wikipedia.org/wiki/코러스_(대중음악)" title="wikilink">코러스</a>, <a href="https://ko.wikipedia.org/wiki/타악기" title="wikilink">타악기</a> 시퀀스, 백 보컬</li>
+<li><a href="../Page/방준석.md" title="wikilink">방준석</a>: 보컬, <a href="../Page/기타.md" title="wikilink">기타</a>, 베이스 기타, <a href="https://ko.wikipedia.org/wiki/건반" title="wikilink">건반</a>&amp;리듬 시퀀스, 코러스, 백 보컬, <a href="https://ko.wikipedia.org/wiki/드럼" title="wikilink">드럼</a> 프로그래밍, 음향 효과</li>
 </ul>
 <dl>
 <dt>세션 연주자</dt>
@@ -72,8 +72,8 @@
 
 ## 외부 링크
 
-  - [23위 유앤미 블루 《Cry…Our Wanna Be Nation\!\!》](http://news.khan.co.kr/kh_news/khan_art_view.html?artid=200711150944301&code=900307) [경향신문](https://ko.wikipedia.org/wiki/경향신문 "wikilink")
-  - [시대와 만나지 못했던 그들](http://music.naver.com/today.nhn?startdate=20080712) [네이버](https://ko.wikipedia.org/wiki/네이버 "wikilink")
+  - [23위 유앤미 블루 《Cry…Our Wanna Be Nation\!\!》](http://news.khan.co.kr/kh_news/khan_art_view.html?artid=200711150944301&code=900307) [경향신문](../Page/경향신문.md "wikilink")
+  - [시대와 만나지 못했던 그들](http://music.naver.com/today.nhn?startdate=20080712) [네이버](../Page/네이버.md "wikilink")
 
 [분류:유엔미블루의 음반](https://ko.wikipedia.org/wiki/분류:유엔미블루의_음반 "wikilink") [분류:1996년 음반](https://ko.wikipedia.org/wiki/분류:1996년_음반 "wikilink") [분류:모던 록 음반](https://ko.wikipedia.org/wiki/분류:모던_록_음반 "wikilink") [분류:대한민국의 음반](https://ko.wikipedia.org/wiki/분류:대한민국의_음반 "wikilink")
 

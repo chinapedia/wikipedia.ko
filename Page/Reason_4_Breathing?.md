@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Reason 4 Breathing\?](https://ko.wikipedia.org/wiki/Reason_4_Breathing\?).
 
 
-**《Reason 4 Breathing?》**은 [브라운 아이즈의](../Page/브라운_아이즈.md "wikilink") 2집 정규 앨범이다. 발매일은 [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [11월 26일이고](https://ko.wikipedia.org/wiki/11월_26일 "wikilink"), 타이틀 곡은 2번 트랙 〈점점〉, 3번 트랙 〈비오는 압구정〉이다.
+**《Reason 4 Breathing?》**은 [브라운 아이즈의](../Page/브라운_아이즈.md "wikilink") 2집 정규 앨범이다. 발매일은 [2002년](../Page/2002년.md "wikilink") [11월 26일이고](../Page/11월_26일.md "wikilink"), 타이틀 곡은 2번 트랙 〈점점〉, 3번 트랙 〈비오는 압구정〉이다.
 
 ## 트랙
 

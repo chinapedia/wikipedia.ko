@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DSB SA](https://ko.wikipedia.org/wiki/DSB_SA).
 
 
-**DSB SA**는 [덴마크](https://ko.wikipedia.org/wiki/덴마크 "wikilink") [코펜하겐](https://ko.wikipedia.org/wiki/코펜하겐 "wikilink") 지역 [S-토그](https://ko.wikipedia.org/wiki/S-토그 "wikilink")에 사용하기 위해 1996년부터 2007년까지 도입된 차량으로, 총 105편성 반입되었다. 8량 1편성으로 SA-SB-SC-SD-SD-SC-SB-SA 순으로 연결된다. DSB의 4세대 S-토그 차량의 일부이다. 알스톰 LHB와 지멘스가 독일 잘츠기터에서 제작하였다. 다른 S-토그 차량처럼 직류 1.5kV 전압을 지원하며, 최고 속도는 시속 120km이다. 동력차 비율이 높아 가속력이 좋은 편이며, 8량 편성 전체 길이는 83.78m이다.
+**DSB SA**는 [덴마크](../Page/덴마크.md "wikilink") [코펜하겐](../Page/코펜하겐.md "wikilink") 지역 [S-토그](../Page/S-토그.md "wikilink")에 사용하기 위해 1996년부터 2007년까지 도입된 차량으로, 총 105편성 반입되었다. 8량 1편성으로 SA-SB-SC-SD-SD-SC-SB-SA 순으로 연결된다. DSB의 4세대 S-토그 차량의 일부이다. 알스톰 LHB와 지멘스가 독일 잘츠기터에서 제작하였다. 다른 S-토그 차량처럼 직류 1.5kV 전압을 지원하며, 최고 속도는 시속 120km이다. 동력차 비율이 높아 가속력이 좋은 편이며, 8량 편성 전체 길이는 83.78m이다.
 
 편성의 각각 차량은 다음과 같다.
 

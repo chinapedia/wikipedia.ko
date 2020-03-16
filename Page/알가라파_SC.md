@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ SC](https://ko.wikipedia.org/wiki/_SC).
 
 
-**알가라파 스포츠 클럽**()은 [카타르](https://ko.wikipedia.org/wiki/카타르 "wikilink")의 프로 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로 [수도](https://ko.wikipedia.org/wiki/수도 "wikilink")인 [도하](https://ko.wikipedia.org/wiki/도하 "wikilink")를 연고로 하고 있다.
+**알가라파 스포츠 클럽**()은 [카타르](../Page/카타르.md "wikilink")의 프로 [축구](../Page/축구.md "wikilink") 클럽으로 [수도](../Page/수도.md "wikilink")인 [도하](../Page/도하.md "wikilink")를 연고로 하고 있다.
 
-[1979년](https://ko.wikipedia.org/wiki/1979년 "wikilink") **알이티하드 도하**라는 이름으로 창단되었으나 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink")에 지금의 이름으로 바뀌었다.
+[1979년](../Page/1979년.md "wikilink") **알이티하드 도하**라는 이름으로 창단되었으나 [2004년](../Page/2004년.md "wikilink")에 지금의 이름으로 바뀌었다.
 
 ## 역대 우승 기록
 

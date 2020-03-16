@@ -1,19 +1,19 @@
 > This article is converted from Wikipedia: [BTNTV](https://ko.wikipedia.org/wiki/BTNTV).
 
 
-**BTN불교TV**는 [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [3월 1일에](https://ko.wikipedia.org/wiki/3월_1일 "wikilink") 개국한 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 TV 불교 방송국이다.
+**BTN불교TV**는 [1995년](../Page/1995년.md "wikilink") [3월 1일에](../Page/3월_1일.md "wikilink") 개국한 [대한민국](../Page/대한민국.md "wikilink")의 TV 불교 방송국이다.
 
 ## 개요
 
-법인명은 불교텔레비전(주), 영문명은 Buddhist Television Network, 약칭은 BTN, [한국에서는](https://ko.wikipedia.org/wiki/대한민국 "wikilink") "[BBS불교방송](../Page/불교방송.md "wikilink")"과 구분하기 위해 "BTN불교TV"로 통칭
+법인명은 불교텔레비전(주), 영문명은 Buddhist Television Network, 약칭은 BTN, [한국에서는](../Page/대한민국.md "wikilink") "[BBS불교방송](../Page/불교방송.md "wikilink")"과 구분하기 위해 "BTN불교TV"로 통칭
 
 ## 연혁
 
-  - [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") 불교전문 콘텐츠 제공을 목표로 케이블텔레비전 사업자 허가. 법인명 불교텔레비전(주).
-  - [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [3월 1일](https://ko.wikipedia.org/wiki/3월_1일 "wikilink") 개국.
-  - [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [3월 1일](https://ko.wikipedia.org/wiki/3월_1일 "wikilink") 위성방송 송출. ([스카이라이프](../Page/KT스카이라이프.md "wikilink"))
-  - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [4월 20일](https://ko.wikipedia.org/wiki/4월_20일 "wikilink") BTN 불교텔레비전 → BTN불교TV 채널명변경.
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink") 울림라디오 개국.
+  - [1994년](../Page/1994년.md "wikilink") 불교전문 콘텐츠 제공을 목표로 케이블텔레비전 사업자 허가. 법인명 불교텔레비전(주).
+  - [1995년](../Page/1995년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") 개국.
+  - [2002년](../Page/2002년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") 위성방송 송출. ([스카이라이프](../Page/KT스카이라이프.md "wikilink"))
+  - [2003년](../Page/2003년.md "wikilink") [4월 20일](../Page/4월_20일.md "wikilink") BTN 불교텔레비전 → BTN불교TV 채널명변경.
+  - [2015년](../Page/2015년.md "wikilink") [3월](../Page/3월.md "wikilink") 울림라디오 개국.
 
 ## 지사
 

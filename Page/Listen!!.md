@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Listen!!](https://ko.wikipedia.org/wiki/Listen!!).
 
 
-《**Listen\!\!**》은 [방과후 티타임의](https://ko.wikipedia.org/wiki/방과후_티타임 "wikilink") [싱글](../Page/싱글_\(음악\).md "wikilink") 음반이다. [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [4월 28일](https://ko.wikipedia.org/wiki/4월_28일 "wikilink") [포니 캐니언에서](https://ko.wikipedia.org/wiki/포니_캐니언 "wikilink") 발매했다.
+《**Listen\!\!**》은 [방과후 티타임의](https://ko.wikipedia.org/wiki/방과후_티타임 "wikilink") [싱글](../Page/싱글_\(음악\).md "wikilink") 음반이다. [2010년](../Page/2010년.md "wikilink") [4월 28일](../Page/4월_28일.md "wikilink") [포니 캐니언에서](https://ko.wikipedia.org/wiki/포니_캐니언 "wikilink") 발매했다.
 
 ## 개요
 

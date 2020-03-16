@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Without You \( \)](https://ko.wikipedia.org/wiki/Without_You_\(_\)).
 
 
-〈**Without You**〉는 그룹 [배드핑거](https://ko.wikipedia.org/wiki/배드핑거 "wikilink")의 [피터 햄과](https://ko.wikipedia.org/wiki/피터_햄 "wikilink") [톰 에반스가](https://ko.wikipedia.org/wiki/톰_에반스 "wikilink") 만든 노래이다. [ASCAP](https://ko.wikipedia.org/wiki/ASCAP "wikilink")에 따르면 [해리 닐슨](../Page/해리_닐슨.md "wikilink"), [머라이어 캐리와](https://ko.wikipedia.org/wiki/머라이어_캐리 "wikilink") 더불어 현재까지 약 180여 명이 리메이크했다.
+〈**Without You**〉는 그룹 [배드핑거](https://ko.wikipedia.org/wiki/배드핑거 "wikilink")의 [피터 햄과](https://ko.wikipedia.org/wiki/피터_햄 "wikilink") [톰 에반스가](https://ko.wikipedia.org/wiki/톰_에반스 "wikilink") 만든 노래이다. [ASCAP](https://ko.wikipedia.org/wiki/ASCAP "wikilink")에 따르면 [해리 닐슨](../Page/해리_닐슨.md "wikilink"), [머라이어 캐리와](../Page/머라이어_캐리.md "wikilink") 더불어 현재까지 약 180여 명이 리메이크했다.
 
 ## 원곡
 
@@ -9,9 +9,9 @@
 
 ## 해리 닐슨 버전
 
-[Everybody's Talkin](https://ko.wikipedia.org/wiki/Everybody's_Talkin "wikilink") 으로 당시 잘 알려져있던 [해리 닐슨은](../Page/해리_닐슨.md "wikilink") 한 파티에서 [배드핑거](https://ko.wikipedia.org/wiki/배드핑거 "wikilink")의 Without You를 듣고 [비틀즈](https://ko.wikipedia.org/wiki/비틀즈 "wikilink")의 노래로 오해했다가\[2\] 사실을 알고나서 71년 자신의 앨범인 [Nilsson Schmilsson에](https://ko.wikipedia.org/wiki/Nilsson_Schmilsson "wikilink") 리메이크 버전을 발표한다. 이곡은 그 후 미국 팝 차트에서 4주 연속 1위를 했으며 71년 3월 1일부터 5주 연속 [영국 팝차트](https://ko.wikipedia.org/wiki/영국_팝차트 "wikilink") 1위를 기록하며 약 80만장의 판매고를 올렸다.\[3\] 이곡의 제작자인 리차드 페리는 후에 "발라드에 강한 비트가 들어간 그 당시 매우 차별화된 음반이었다. 이 음반이후로 많은 가수들이 비슷한곡을 발표했지만 그 당시엔 누구도 하지않았다"\[4\] 라고 설명했다.
+[Everybody's Talkin](https://ko.wikipedia.org/wiki/Everybody's_Talkin "wikilink") 으로 당시 잘 알려져있던 [해리 닐슨은](../Page/해리_닐슨.md "wikilink") 한 파티에서 [배드핑거](https://ko.wikipedia.org/wiki/배드핑거 "wikilink")의 Without You를 듣고 [비틀즈](../Page/비틀즈.md "wikilink")의 노래로 오해했다가\[2\] 사실을 알고나서 71년 자신의 앨범인 [Nilsson Schmilsson에](https://ko.wikipedia.org/wiki/Nilsson_Schmilsson "wikilink") 리메이크 버전을 발표한다. 이곡은 그 후 미국 팝 차트에서 4주 연속 1위를 했으며 71년 3월 1일부터 5주 연속 [영국 팝차트](https://ko.wikipedia.org/wiki/영국_팝차트 "wikilink") 1위를 기록하며 약 80만장의 판매고를 올렸다.\[3\] 이곡의 제작자인 리차드 페리는 후에 "발라드에 강한 비트가 들어간 그 당시 매우 차별화된 음반이었다. 이 음반이후로 많은 가수들이 비슷한곡을 발표했지만 그 당시엔 누구도 하지않았다"\[4\] 라고 설명했다.
 
-닐슨은 라이브를 자주 하진않았지만 1992년 [링고 스타와](https://ko.wikipedia.org/wiki/링고_스타 "wikilink") 그의 밴드인 올 스타 밴드와 함께 라스베가스의 [시저스 팰리스에서](https://ko.wikipedia.org/wiki/시저스_팰리스 "wikilink") 공연을 하기도 했다.
+닐슨은 라이브를 자주 하진않았지만 1992년 [링고 스타와](../Page/링고_스타.md "wikilink") 그의 밴드인 올 스타 밴드와 함께 라스베가스의 [시저스 팰리스에서](https://ko.wikipedia.org/wiki/시저스_팰리스 "wikilink") 공연을 하기도 했다.
 
 ## 머라이어 캐리 버전
 

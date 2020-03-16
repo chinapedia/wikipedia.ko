@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Yu-3 ](https://ko.wikipedia.org/wiki/Yu-3_).
 
 
-**Yu-3 어뢰**(Yu-3 torpedo, )는 [중화인민공화국](https://ko.wikipedia.org/wiki/중화인민공화국 "wikilink")에서 만든 잠수함용 어뢰이다. 이것은 잠수함에서 표면의 타겟을 향해 발사되도록 설계된 중국제 음향 유도 어뢰이다. [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") 중국 해군에 실전배치되었다. [1965년](https://ko.wikipedia.org/wiki/1965년 "wikilink") 중국-소비에트 분쟁 이후에 만들어진 소비에트 SET-65E과는 외관은 다르지만, 그것의 복사품이라는 설도 있다.\[1\] 중국 내에서 최초로 생산된 어뢰이다.
+**Yu-3 어뢰**(Yu-3 torpedo, )는 [중화인민공화국](../Page/중화인민공화국.md "wikilink")에서 만든 잠수함용 어뢰이다. 이것은 잠수함에서 표면의 타겟을 향해 발사되도록 설계된 중국제 음향 유도 어뢰이다. [1984년](../Page/1984년.md "wikilink") 중국 해군에 실전배치되었다. [1965년](../Page/1965년.md "wikilink") 중국-소비에트 분쟁 이후에 만들어진 소비에트 SET-65E과는 외관은 다르지만, 그것의 복사품이라는 설도 있다.\[1\] 중국 내에서 최초로 생산된 어뢰이다.
 
 ## 개발
 

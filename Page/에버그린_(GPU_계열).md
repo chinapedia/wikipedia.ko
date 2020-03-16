@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ \(GPU \)](https://ko.wikipedia.org/wiki/_\(GPU_\)).
 
 
-**에버그린**(Evergreen)은 [라데온](../Page/라데온.md "wikilink")의 [GPU](https://ko.wikipedia.org/wiki/그래픽_처리_장치 "wikilink") 패밀리이다. 코드명은 **RV870**이고, 상품명은 **라데온 HD 5800 시리즈**이다. 라데온 HD 5970은 코드명 **헴록(Hemrock)**이며 라데온 HD 5870 칩셋 두개로 이루어진 제품이므로 본 문서에 포함되었다.
+**에버그린**(Evergreen)은 [라데온](../Page/라데온.md "wikilink")의 [GPU](../Page/그래픽_처리_장치.md "wikilink") 패밀리이다. 코드명은 **RV870**이고, 상품명은 **라데온 HD 5800 시리즈**이다. 라데온 HD 5970은 코드명 **헴록(Hemrock)**이며 라데온 HD 5870 칩셋 두개로 이루어진 제품이므로 본 문서에 포함되었다.
 
 ## 특징
 
@@ -10,7 +10,7 @@
   - [ATI 아이피니티](https://ko.wikipedia.org/wiki/ATI_아이피니티 "wikilink") 멀티디스플레이 기술을 통한 최대 6개의 디스플레이와 12배의 해상도 지원.
   - [ATI 스트림](https://ko.wikipedia.org/wiki/ATI_스트림 "wikilink") 기술을 통한 다이렉트컴퓨트(DirectCompute) 11 지원
   - 하나의 카드당 최대 2.72 테라플롭스의 연산 능력
-  - [AMD의](https://ko.wikipedia.org/wiki/어드밴스트_마이크로_디바이시스 "wikilink") 6세대 테셀레이션(tessellation) 기술 적용
+  - [AMD의](../Page/어드밴스트_마이크로_디바이시스.md "wikilink") 6세대 테셀레이션(tessellation) 기술 적용
   - [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")의 3세대 GDDR5 지원
   - [TSMC](../Page/TSMC.md "wikilink")의 2세대 40나노 공정 기술 적용
 

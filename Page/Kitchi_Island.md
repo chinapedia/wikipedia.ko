@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Kitchi Island](https://ko.wikipedia.org/wiki/Kitchi_Island).
 
 
-《**Kitchi Island**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악 그룹 [쥬얼리](https://ko.wikipedia.org/wiki/쥬얼리 "wikilink")의 5번째 정규 앨범이다. [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [2월 20일](https://ko.wikipedia.org/wiki/2월_20일 "wikilink") 발매되었다. 발매된뒤 음악 프로그램 [뮤직뱅크](../Page/뮤직뱅크.md "wikilink") 에서 당시 7주 연속 1위라는 대기록을 남겼다\[1\].
+《**Kitchi Island**》는 [대한민국](../Page/대한민국.md "wikilink")의 음악 그룹 [쥬얼리](../Page/쥬얼리.md "wikilink")의 5번째 정규 앨범이다. [2008년](../Page/2008년.md "wikilink") [2월 20일](../Page/2월_20일.md "wikilink") 발매되었다. 발매된뒤 음악 프로그램 [뮤직뱅크](../Page/뮤직뱅크.md "wikilink") 에서 당시 7주 연속 1위라는 대기록을 남겼다\[1\].
 
 ## 특징
 

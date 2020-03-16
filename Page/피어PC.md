@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [PC](https://ko.wikipedia.org/wiki/PC).
 
 
-**피어PC**()는 독립적인 아키텍처인 [파워피씨](https://ko.wikipedia.org/wiki/파워피씨 "wikilink") 에뮬레이터로, 파워피씨 아키텍처에서 가동되는 [OS X](https://ko.wikipedia.org/wiki/OS_X "wikilink"), [다윈](../Page/다윈_\(운영_체제\).md "wikilink"), 리눅스를 파워피씨가 아닌 CPU에서 가동시킬수 있다. 피어PC는 [GPL라이선스에](https://ko.wikipedia.org/wiki/GNU_일반_공중_사용_허가서 "wikilink") 의해 배포되고 있으며, [마이크로소프트 윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink"), [FreeBSD](https://ko.wikipedia.org/wiki/FreeBSD "wikilink"), [리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink")와 [POSIX](https://ko.wikipedia.org/wiki/POSIX "wikilink")-[X11기반의](../Page/X_윈도_시스템.md "wikilink") 운영체제에서 가동시킬수 있다. 피어PC의 공식 배포일자는 2004년 5월 10일이다.
+**피어PC**()는 독립적인 아키텍처인 [파워피씨](https://ko.wikipedia.org/wiki/파워피씨 "wikilink") 에뮬레이터로, 파워피씨 아키텍처에서 가동되는 [OS X](https://ko.wikipedia.org/wiki/OS_X "wikilink"), [다윈](../Page/다윈_\(운영_체제\).md "wikilink"), 리눅스를 파워피씨가 아닌 CPU에서 가동시킬수 있다. 피어PC는 [GPL라이선스에](../Page/GNU_일반_공중_사용_허가서.md "wikilink") 의해 배포되고 있으며, [마이크로소프트 윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink"), [FreeBSD](../Page/FreeBSD.md "wikilink"), [리눅스](../Page/리눅스.md "wikilink")와 [POSIX](../Page/POSIX.md "wikilink")-[X11기반의](../Page/X_윈도_시스템.md "wikilink") 운영체제에서 가동시킬수 있다. 피어PC의 공식 배포일자는 2004년 5월 10일이다.
 
 피어PC는 실시간 프로세서 에뮬레이터로, 실시간으로 X86 프로세서 코드를 파워피씨 프로세서의 코드로 변환시킨다. X86 아키텍처에서만 돌아가는 실시간 에뮬레이터이지만, 이 에뮬레이터는 아키텍처 독립적인 포괄적 프로세서 에뮬레이터보다 10배나 더 빠른 속도로 번역한다. 그러나, 데비안에 포함된 피어PC의 도움말에선 일반 네이티브 코드를 실행시키는 것보다 실시간 번역기가 심지어 40배나 더 느리다고 말하고 있다.
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Magma \(\)](https://ko.wikipedia.org/wiki/Magma_\(\)).
 
 
-《**Magma**》는 1981년 10월 10일에 발매한 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 록 밴드 [마그마의](https://ko.wikipedia.org/wiki/마그마_\(밴드\) "wikilink") 첫 번째 음반이자 마지막 음반이다. 이 음반은 마그마가 왜 1980년대 한국 대중음악의 전설적 밴드로 회자되는지 명쾌하게 보여준다. 단 한 장의 독집을 남기고 사라졌지만 마그마의 실험적이고 파괴적인 사운드는 록의 본고장 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")에서도 찬사를 보냈다.
+《**Magma**》는 1981년 10월 10일에 발매한 [대한민국](../Page/대한민국.md "wikilink")의 록 밴드 [마그마의](https://ko.wikipedia.org/wiki/마그마_\(밴드\) "wikilink") 첫 번째 음반이자 마지막 음반이다. 이 음반은 마그마가 왜 1980년대 한국 대중음악의 전설적 밴드로 회자되는지 명쾌하게 보여준다. 단 한 장의 독집을 남기고 사라졌지만 마그마의 실험적이고 파괴적인 사운드는 록의 본고장 [영국](../Page/영국.md "wikilink")에서도 찬사를 보냈다.
 
 ## 유일한 독집
 
@@ -19,7 +19,7 @@
 
 ## 외부 링크
 
-  - [33위 마그마 《Magma》](http://news.khan.co.kr/kh_news/khan_art_view.html?artid=200712201603161&code=900307&s_code=at031) - [경향신문](https://ko.wikipedia.org/wiki/경향신문 "wikilink")
-  - [한국 헤비메탈의 포문을 열다](http://music.naver.com/today.nhn?startdate=20090221) - [네이버](https://ko.wikipedia.org/wiki/네이버 "wikilink")
+  - [33위 마그마 《Magma》](http://news.khan.co.kr/kh_news/khan_art_view.html?artid=200712201603161&code=900307&s_code=at031) - [경향신문](../Page/경향신문.md "wikilink")
+  - [한국 헤비메탈의 포문을 열다](http://music.naver.com/today.nhn?startdate=20090221) - [네이버](../Page/네이버.md "wikilink")
 
 [분류:1981년 데뷔 음반](https://ko.wikipedia.org/wiki/분류:1981년_데뷔_음반 "wikilink") [분류:마그마의 음반](https://ko.wikipedia.org/wiki/분류:마그마의_음반 "wikilink") [분류:대한민국의 음반](https://ko.wikipedia.org/wiki/분류:대한민국의_음반 "wikilink") [분류:한국어 음반](https://ko.wikipedia.org/wiki/분류:한국어_음반 "wikilink") [분류:하드 록 음반](https://ko.wikipedia.org/wiki/분류:하드_록_음반 "wikilink")

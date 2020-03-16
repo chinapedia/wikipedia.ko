@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ \(BONAMANA\)](https://ko.wikipedia.org/wiki/_\(BONAMANA\)).
 
 
-《**미인아 (BONAMANA)**》는 [슈퍼주니어](https://ko.wikipedia.org/wiki/슈퍼주니어 "wikilink")의 정규 4집 음반이다. [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [5월 13일에](https://ko.wikipedia.org/wiki/5월_13일 "wikilink") A버전을 발매하였다. A, B 버전의 수록곡은 동일하며, 앨범커버와 그리고 앨범속지, 초회발매판에 포함된 포토카드가 다르다.
+《**미인아 (BONAMANA)**》는 [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")의 정규 4집 음반이다. [2010년](../Page/2010년.md "wikilink") [5월 13일에](../Page/5월_13일.md "wikilink") A버전을 발매하였다. A, B 버전의 수록곡은 동일하며, 앨범커버와 그리고 앨범속지, 초회발매판에 포함된 포토카드가 다르다.
 
-[5월 10일](https://ko.wikipedia.org/wiki/5월_10일 "wikilink") 타이틀 곡〈미인아 (BONAMANA)〉가 선공개 되었고, 5월 12일 [뮤직비디오](https://ko.wikipedia.org/wiki/뮤직비디오 "wikilink")가 공개되었다. 전체적인 음악색깔은 미디움 템포, 일렉트로닉 신스, Groove 등의 다양한 장르를 사용하여 3집의 연장선상에 있다.
+[5월 10일](../Page/5월_10일.md "wikilink") 타이틀 곡〈미인아 (BONAMANA)〉가 선공개 되었고, 5월 12일 [뮤직비디오](https://ko.wikipedia.org/wiki/뮤직비디오 "wikilink")가 공개되었다. 전체적인 음악색깔은 미디움 템포, 일렉트로닉 신스, Groove 등의 다양한 장르를 사용하여 3집의 연장선상에 있다.
 
 ## 수록곡
 
@@ -54,39 +54,39 @@
 
 #### 미인아 (BONAMANA)
 
-  - [5월 21일](https://ko.wikipedia.org/wiki/5월_21일 "wikilink") [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 《[뮤직뱅크](../Page/뮤직뱅크.md "wikilink")》 K-Chart 1위(1주)
-  - [5월 28일](https://ko.wikipedia.org/wiki/5월_28일 "wikilink") [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 《[뮤직뱅크](../Page/뮤직뱅크.md "wikilink")》 K-Chart 1위(2주)
-  - [6월 4일](https://ko.wikipedia.org/wiki/6월_4일 "wikilink") [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 《[뮤직뱅크](../Page/뮤직뱅크.md "wikilink")》 K-Chart 1위(3주)\[3\]
-  - [5월 30일](https://ko.wikipedia.org/wiki/5월_30일 "wikilink") [SBS](../Page/SBS.md "wikilink") 《[인기가요](../Page/SBS_인기가요.md "wikilink")》뮤티즌송(1주)
-  - [6월 6일](https://ko.wikipedia.org/wiki/6월_6일 "wikilink") [SBS](../Page/SBS.md "wikilink") 《[인기가요](../Page/SBS_인기가요.md "wikilink")》뮤티즌송(2주)
-  - [6월 13일](https://ko.wikipedia.org/wiki/6월_13일 "wikilink") [SBS](../Page/SBS.md "wikilink") 《[인기가요](../Page/SBS_인기가요.md "wikilink")》뮤티즌송(3주)\[4\]
+  - [5월 21일](../Page/5월_21일.md "wikilink") [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 《[뮤직뱅크](../Page/뮤직뱅크.md "wikilink")》 K-Chart 1위(1주)
+  - [5월 28일](../Page/5월_28일.md "wikilink") [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 《[뮤직뱅크](../Page/뮤직뱅크.md "wikilink")》 K-Chart 1위(2주)
+  - [6월 4일](../Page/6월_4일.md "wikilink") [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 《[뮤직뱅크](../Page/뮤직뱅크.md "wikilink")》 K-Chart 1위(3주)\[3\]
+  - [5월 30일](../Page/5월_30일.md "wikilink") [SBS](../Page/SBS.md "wikilink") 《[인기가요](../Page/SBS_인기가요.md "wikilink")》뮤티즌송(1주)
+  - [6월 6일](../Page/6월_6일.md "wikilink") [SBS](../Page/SBS.md "wikilink") 《[인기가요](../Page/SBS_인기가요.md "wikilink")》뮤티즌송(2주)
+  - [6월 13일](../Page/6월_13일.md "wikilink") [SBS](../Page/SBS.md "wikilink") 《[인기가요](../Page/SBS_인기가요.md "wikilink")》뮤티즌송(3주)\[4\]
 
 #### 너 같은 사람 또 없어 (No Other)
 
-  - [7월 9일](https://ko.wikipedia.org/wiki/7월_9일 "wikilink") [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 《[뮤직뱅크](../Page/뮤직뱅크.md "wikilink")》 K-Chart 1위(1주)\[5\]
-  - [7월 11일](https://ko.wikipedia.org/wiki/7월_11일 "wikilink") [SBS](../Page/SBS.md "wikilink") 《[인기가요](../Page/SBS_인기가요.md "wikilink")》뮤티즌송(1주)
+  - [7월 9일](../Page/7월_9일.md "wikilink") [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 《[뮤직뱅크](../Page/뮤직뱅크.md "wikilink")》 K-Chart 1위(1주)\[5\]
+  - [7월 11일](../Page/7월_11일.md "wikilink") [SBS](../Page/SBS.md "wikilink") 《[인기가요](../Page/SBS_인기가요.md "wikilink")》뮤티즌송(1주)
 
 ## 에피소드
 
 ### 미인아 (BONAMANA)
 
-  - 이번 정규앨범 4집에서는 지난 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") 음주 운전 사고 후 군 입대를 결정한 강인을 제외한 10명이 음반 참여를 했다.
-  - [5월 10일](https://ko.wikipedia.org/wiki/5월_10일 "wikilink"), 타이틀곡 선공개를 시작으로 12일에는 뮤직비디오 공개, 13일에 정식발매되었다.
-  - [5월 14일](https://ko.wikipedia.org/wiki/5월_14일 "wikilink") [KBS](../Page/한국방송공사.md "wikilink")《[뮤직뱅크](../Page/뮤직뱅크.md "wikilink")》를 시작으로 [15일](https://ko.wikipedia.org/wiki/5월_15일 "wikilink") [MBC](https://ko.wikipedia.org/wiki/문화방송 "wikilink") 《[음악중심](https://ko.wikipedia.org/wiki/쇼!_음악중심 "wikilink")》, [16일](https://ko.wikipedia.org/wiki/5월_16일 "wikilink")《[SBS 인기가요](../Page/SBS_인기가요.md "wikilink")》로 컴백했다.
+  - 이번 정규앨범 4집에서는 지난 [2009년](../Page/2009년.md "wikilink") 음주 운전 사고 후 군 입대를 결정한 강인을 제외한 10명이 음반 참여를 했다.
+  - [5월 10일](../Page/5월_10일.md "wikilink"), 타이틀곡 선공개를 시작으로 12일에는 뮤직비디오 공개, 13일에 정식발매되었다.
+  - [5월 14일](../Page/5월_14일.md "wikilink") [KBS](../Page/한국방송공사.md "wikilink")《[뮤직뱅크](../Page/뮤직뱅크.md "wikilink")》를 시작으로 [15일](../Page/5월_15일.md "wikilink") [MBC](../Page/문화방송.md "wikilink") 《[음악중심](https://ko.wikipedia.org/wiki/쇼!_음악중심 "wikilink")》, [16일](../Page/5월_16일.md "wikilink")《[SBS 인기가요](../Page/SBS_인기가요.md "wikilink")》로 컴백했다.
   - 미인아의 포인트 춤은 **스케이팅 댄스** 혹은 **피겨 댄스**다. **볼까말까 볼까말까**하는 부분에서 왼팔을 허리에, 오른손을 위로 아래로 하는 것으로 [김연아](../Page/김연아.md "wikilink")의 피겨스케이팅 장면에서 나온 춤이다.\[6\]
-  - [5월 18일](https://ko.wikipedia.org/wiki/5월_18일 "wikilink"), [시원이](https://ko.wikipedia.org/wiki/시원_\(1986년\) "wikilink") 침샘 염증 제거 수술을 받았다. 음악방송 출연은 꾸준히 했지만 기자간담회에는 불참했다.\[7\]
-  - [6월 3일](https://ko.wikipedia.org/wiki/6월_3일 "wikilink"), [규현](../Page/규현.md "wikilink")이 학창시절부터 앓아오던 [중이염](../Page/중이염.md "wikilink") 수술을 받아 6월 대부분의 음악방송에 출연하지 못했다.\[8\] 규현은《[뮤직뱅크](../Page/뮤직뱅크.md "wikilink")》2010년 상반기 결산특집을 시작으로 활동을 재개했고,\[9\][6월 4일](https://ko.wikipedia.org/wiki/6월_4일 "wikilink") 방송분 및 [인기가요](../Page/SBS_인기가요.md "wikilink") [6월 13일](https://ko.wikipedia.org/wiki/6월_13일 "wikilink") 방송에서 멤버들은 1위 앵콜송을 부르면서 **미인아**를 **규현아**로 개사해서 불렀다.\[10\]\[11\]
-  - [6월 20일](https://ko.wikipedia.org/wiki/6월_20일 "wikilink"), 중이염으로 휴식 중인 [규현](../Page/규현.md "wikilink")을 제외하고 멤버 전원이 [야행성](https://ko.wikipedia.org/wiki/야행성 "wikilink")에 출연했다.\[12\]
-  - [6월 27일](https://ko.wikipedia.org/wiki/6월_27일 "wikilink"), [신동과](../Page/신동_\(가수\).md "wikilink") [성민](../Page/성민_\(1986년\).md "wikilink"), [동해가](../Page/동해_\(가수\).md "wikilink")《[환상의 짝꿍](https://ko.wikipedia.org/wiki/환상의_짝꿍 "wikilink")》에 게스트로 출연했다. 성민이 원피스 잠옷을 입고 잔다는 동해의 발언이 화제가 되었다.\[13\]
+  - [5월 18일](../Page/5월_18일.md "wikilink"), [시원이](https://ko.wikipedia.org/wiki/시원_\(1986년\) "wikilink") 침샘 염증 제거 수술을 받았다. 음악방송 출연은 꾸준히 했지만 기자간담회에는 불참했다.\[7\]
+  - [6월 3일](../Page/6월_3일.md "wikilink"), [규현](../Page/규현.md "wikilink")이 학창시절부터 앓아오던 [중이염](../Page/중이염.md "wikilink") 수술을 받아 6월 대부분의 음악방송에 출연하지 못했다.\[8\] 규현은《[뮤직뱅크](../Page/뮤직뱅크.md "wikilink")》2010년 상반기 결산특집을 시작으로 활동을 재개했고,\[9\][6월 4일](../Page/6월_4일.md "wikilink") 방송분 및 [인기가요](../Page/SBS_인기가요.md "wikilink") [6월 13일](../Page/6월_13일.md "wikilink") 방송에서 멤버들은 1위 앵콜송을 부르면서 **미인아**를 **규현아**로 개사해서 불렀다.\[10\]\[11\]
+  - [6월 20일](../Page/6월_20일.md "wikilink"), 중이염으로 휴식 중인 [규현](../Page/규현.md "wikilink")을 제외하고 멤버 전원이 [야행성](https://ko.wikipedia.org/wiki/야행성 "wikilink")에 출연했다.\[12\]
+  - [6월 27일](../Page/6월_27일.md "wikilink"), [신동과](../Page/신동_\(가수\).md "wikilink") [성민](../Page/성민_\(1986년\).md "wikilink"), [동해가](../Page/동해_\(가수\).md "wikilink")《[환상의 짝꿍](https://ko.wikipedia.org/wiki/환상의_짝꿍 "wikilink")》에 게스트로 출연했다. 성민이 원피스 잠옷을 입고 잔다는 동해의 발언이 화제가 되었다.\[13\]
   - 《[SBS 인기가요](../Page/SBS_인기가요.md "wikilink")》에서 3주 연속 뮤티즌송을 수상했다.\[14\] 6월 마지막 주를 끝으로 **미인아** 활동을 마무리하였다.
 
 ### 너 같은 사람 또 없어 (No Other)
 
   - 후속곡인 **너 같은 사람 또 없어 (No Other)**는 6월 25일 음원 선공개를 시작으로 28일에 전격 발매되었다.
   - 7월 첫째 주《[뮤직뱅크](../Page/뮤직뱅크.md "wikilink")》를 시작으로《[음악중심](https://ko.wikipedia.org/wiki/음악중심 "wikilink")》과《[인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink")》에서 후속곡 무대를 펼쳤다.
-  - [7월 6일과](https://ko.wikipedia.org/wiki/7월_6일 "wikilink") [7월 13일에](https://ko.wikipedia.org/wiki/7월_13일 "wikilink") [시원](../Page/시원_\(가수\).md "wikilink"), [동해](../Page/동해_\(가수\).md "wikilink"), [규현](../Page/규현.md "wikilink")이《[강심장](../Page/강심장.md "wikilink")》([이특](https://ko.wikipedia.org/wiki/이특_\(가수\) "wikilink"), [은혁](../Page/은혁.md "wikilink"), [신동은](../Page/신동_\(가수\).md "wikilink") 고정패널)에 출연했다.\[15\]
-  - [희철과](../Page/김희철_\(가수\).md "wikilink") [시원을](../Page/시원_\(가수\).md "wikilink") 제외한 모든 멤버들이 [7월 18일에](https://ko.wikipedia.org/wiki/7월_18일 "wikilink") 방송된 [유희열의 스케치북에](../Page/유희열의_스케치북.md "wikilink") 출연했다.\[16\]
-  - 그리고 [7월 23일](https://ko.wikipedia.org/wiki/7월_23일 "wikilink"), [24일](https://ko.wikipedia.org/wiki/7월_24일 "wikilink"), [25일](https://ko.wikipedia.org/wiki/7월_25일 "wikilink") 음악방송을 끝으로 공식적인 4집 활동을 마무리 짓고 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [8월](https://ko.wikipedia.org/wiki/8월 "wikilink")에 아시아 투어 [SUPER SHOW 3를](../Page/SUPER_SHOW_3.md "wikilink") 시작하였다.
+  - [7월 6일과](../Page/7월_6일.md "wikilink") [7월 13일에](../Page/7월_13일.md "wikilink") [시원](../Page/시원_\(가수\).md "wikilink"), [동해](../Page/동해_\(가수\).md "wikilink"), [규현](../Page/규현.md "wikilink")이《[강심장](../Page/강심장.md "wikilink")》([이특](https://ko.wikipedia.org/wiki/이특_\(가수\) "wikilink"), [은혁](../Page/은혁.md "wikilink"), [신동은](../Page/신동_\(가수\).md "wikilink") 고정패널)에 출연했다.\[15\]
+  - [희철과](../Page/김희철_\(가수\).md "wikilink") [시원을](../Page/시원_\(가수\).md "wikilink") 제외한 모든 멤버들이 [7월 18일에](../Page/7월_18일.md "wikilink") 방송된 [유희열의 스케치북에](../Page/유희열의_스케치북.md "wikilink") 출연했다.\[16\]
+  - 그리고 [7월 23일](../Page/7월_23일.md "wikilink"), [24일](../Page/7월_24일.md "wikilink"), [25일](../Page/7월_25일.md "wikilink") 음악방송을 끝으로 공식적인 4집 활동을 마무리 짓고 [2010년](../Page/2010년.md "wikilink") [8월](../Page/8월.md "wikilink")에 아시아 투어 [SUPER SHOW 3를](../Page/SUPER_SHOW_3.md "wikilink") 시작하였다.
 
 ## 방송 출연 목록
 
@@ -387,7 +387,7 @@
 </tr>
 <tr class="odd">
 <td><p>2011년 1월 1일</p></td>
-<td><p>2010 <a href="https://ko.wikipedia.org/wiki/MBC_가요대제전" title="wikilink">MBC 가요대제전</a></p></td>
+<td><p>2010 <a href="../Page/MBC_가요대제전.md" title="wikilink">MBC 가요대제전</a></p></td>
 <td><p>U (With <a href="https://ko.wikipedia.org/wiki/f(x)" title="wikilink">f(x)</a>) + <a href="../Page/김희철_(가수).md" title="wikilink">희철</a> <a href="../Page/슈프림팀.md" title="wikilink">슈프림팀</a> 콜라보 무대 + Sorry, Sorry + 미인아 (BONAMANA)</p></td>
 </tr>
 <tr class="even">
@@ -426,5 +426,5 @@
 12.
 13.
 14. 5월 30일에는 [드림콘서트](../Page/드림콘서트.md "wikilink") 녹화분 방송으로, 6월 6일에는 [현충일](../Page/현충일.md "wikilink") 때문에 결방되었다.
-15. 특기가요 때는 세 사람 과거 사진이 공개되었는데 동해는 연습생 시절 사진, 규현은 교복사진(공개되자마자 사진을 광속격파함.), 시원은 문제의 여장사진(별명: 엘프시원)이 공개되어 시청자들을 폭소케 만들었다. 규현은 방송 처음으로 2007년 4월의 교통사고를 언급했고(부제: 두 번 살다) 동해는 눈물의 연대기와 강심장송을 공개해 눈길을 끌었다(부제: 눈물의 제왕). 또한 시원은 [오 마이 레이디](https://ko.wikipedia.org/wiki/오_마이_레이디 "wikilink") 촬영 때 발연기와 [유덕화](https://ko.wikipedia.org/wiki/유덕화 "wikilink")와의 인연을 소개했으며 **시원이한테 이건 좀 힘들다.**라는 말만 나오면 **욱시원**으로 돌변한다는 얘기를 해 눈길을 끌었다. (부제: 오\! 마이 발연기, 건들면 터져\!)
+15. 특기가요 때는 세 사람 과거 사진이 공개되었는데 동해는 연습생 시절 사진, 규현은 교복사진(공개되자마자 사진을 광속격파함.), 시원은 문제의 여장사진(별명: 엘프시원)이 공개되어 시청자들을 폭소케 만들었다. 규현은 방송 처음으로 2007년 4월의 교통사고를 언급했고(부제: 두 번 살다) 동해는 눈물의 연대기와 강심장송을 공개해 눈길을 끌었다(부제: 눈물의 제왕). 또한 시원은 [오 마이 레이디](https://ko.wikipedia.org/wiki/오_마이_레이디 "wikilink") 촬영 때 발연기와 [유덕화](../Page/유덕화.md "wikilink")와의 인연을 소개했으며 **시원이한테 이건 좀 힘들다.**라는 말만 나오면 **욱시원**으로 돌변한다는 얘기를 해 눈길을 끌었다. (부제: 오\! 마이 발연기, 건들면 터져\!)
 16.

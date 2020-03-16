@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Cigarettes \& Alcohol](https://ko.wikipedia.org/wiki/Cigarettes_\&_Alcohol).
 
 
-〈**Cigarettes & Alcohol**〉 은 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 록 밴드 [오아시스의](https://ko.wikipedia.org/wiki/오아시스_\(밴드\) "wikilink") 노래로서, [노엘 갤러거가](../Page/노엘_갤러거.md "wikilink") 작곡하였다. 이 곡은 네 번째로 발매된 싱글이며, 그들의 데뷔 음반인 《[Definitely Maybe](../Page/Definitely_Maybe.md "wikilink")》에 수록되어 있다. 또한 영국 차트에서 두 번째로 10위로 진입하고, 7위까지 올라갔으며(〈[Live Forever](../Page/Live_Forever.md "wikilink")〉보다 세 계단 위이다), 결국에는 차트에서 35주 동안 머물렀고, 75위로 재진입하여 1997년까지 머물렀다.
+〈**Cigarettes & Alcohol**〉 은 [영국](../Page/영국.md "wikilink")의 록 밴드 [오아시스의](../Page/오아시스_\(밴드\).md "wikilink") 노래로서, [노엘 갤러거가](../Page/노엘_갤러거.md "wikilink") 작곡하였다. 이 곡은 네 번째로 발매된 싱글이며, 그들의 데뷔 음반인 《[Definitely Maybe](../Page/Definitely_Maybe.md "wikilink")》에 수록되어 있다. 또한 영국 차트에서 두 번째로 10위로 진입하고, 7위까지 올라갔으며(〈[Live Forever](../Page/Live_Forever.md "wikilink")〉보다 세 계단 위이다), 결국에는 차트에서 35주 동안 머물렀고, 75위로 재진입하여 1997년까지 머물렀다.
 
 ## 배경
 
@@ -52,7 +52,7 @@
 
 <!-- end list -->
 
-  - [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") 6월 [글래스고 캣하우스에서](https://ko.wikipedia.org/wiki/글래스고_캣하우스 "wikilink") 녹음되었다고 주장하는 레코드 자켓 해설문과는 반대로, 〈I Am the Walrus〉는 사실 [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") [2월 6일](https://ko.wikipedia.org/wiki/2월_6일 "wikilink") 소니뮤직 관계자와의 면담의 일부분으로써, [스코틀랜드](https://ko.wikipedia.org/wiki/스코틀랜드 "wikilink")의 글리니글스 호텔 공연의 사운드체크 때 녹음 된 것이다. 원래 레코드 자켓 해설에 이 사실이 언급이 되지 않은 이유는 노엘이 이 곡이 회사와의 계약을 위한 자리에서 녹음되었다는 사실을 언급하는 것이 "XX같이 보인다"고 생각했기 때문이다. 이 트랙의 시작과 끝부분의 관중들의 소음은 노엘이 소장하고 있는 [Faces의](https://ko.wikipedia.org/wiki/Faces_\(band\) "wikilink") 부틀렉에서 따온 것이다.
+  - [1994년](../Page/1994년.md "wikilink") 6월 [글래스고 캣하우스에서](https://ko.wikipedia.org/wiki/글래스고_캣하우스 "wikilink") 녹음되었다고 주장하는 레코드 자켓 해설문과는 반대로, 〈I Am the Walrus〉는 사실 [1994년](../Page/1994년.md "wikilink") [2월 6일](../Page/2월_6일.md "wikilink") 소니뮤직 관계자와의 면담의 일부분으로써, [스코틀랜드](../Page/스코틀랜드.md "wikilink")의 글리니글스 호텔 공연의 사운드체크 때 녹음 된 것이다. 원래 레코드 자켓 해설에 이 사실이 언급이 되지 않은 이유는 노엘이 이 곡이 회사와의 계약을 위한 자리에서 녹음되었다는 사실을 언급하는 것이 "XX같이 보인다"고 생각했기 때문이다. 이 트랙의 시작과 끝부분의 관중들의 소음은 노엘이 소장하고 있는 [Faces의](https://ko.wikipedia.org/wiki/Faces_\(band\) "wikilink") 부틀렉에서 따온 것이다.
 
 <!-- end list -->
 

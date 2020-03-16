@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [HTML5 ](https://ko.wikipedia.org/wiki/HTML5_).
 
 
-**HTML5 비디오**(HTML5 video) 태그는 [HTML5](../Page/HTML5.md "wikilink") 초안 규격에서 소개된 마크업 언어 태그로 HTML 페이지의 동영상을 임베드(embed)하는 것을 지원해 준다. [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") 4월, [어도비 플래시 플레이어는](../Page/어도비_플래시_플레이어.md "wikilink") [유튜브](../Page/유튜브.md "wikilink")와 같은 웹사이트에서 동영상을 포함하는데 널리 사용된다. 이것은 애플의 [아이폰](../Page/아이폰.md "wikilink")이나 [아이패드](../Page/아이패드.md "wikilink")와 같은 특정 브라우저를 제외하고는 대다수의 웹 브라우저에 [어도비 플래시 플레이어가](../Page/어도비_플래시_플레이어.md "wikilink") 설치되어 있기 때문이다. HTML5 동영상은 동영상 온라인을 보여주기 위한 새로운 표준 방식이 될 예정이었지만, 어떤 동영상 포맷이 동영상 태그에서 지원될 것인지 하는 것에 대한 합의 부족으로 방해를 받아왔다.
+**HTML5 비디오**(HTML5 video) 태그는 [HTML5](../Page/HTML5.md "wikilink") 초안 규격에서 소개된 마크업 언어 태그로 HTML 페이지의 동영상을 임베드(embed)하는 것을 지원해 준다. [2010년](../Page/2010년.md "wikilink") 4월, [어도비 플래시 플레이어는](../Page/어도비_플래시_플레이어.md "wikilink") [유튜브](../Page/유튜브.md "wikilink")와 같은 웹사이트에서 동영상을 포함하는데 널리 사용된다. 이것은 애플의 [아이폰](../Page/아이폰.md "wikilink")이나 [아이패드](../Page/아이패드.md "wikilink")와 같은 특정 브라우저를 제외하고는 대다수의 웹 브라우저에 [어도비 플래시 플레이어가](../Page/어도비_플래시_플레이어.md "wikilink") 설치되어 있기 때문이다. HTML5 동영상은 동영상 온라인을 보여주기 위한 새로운 표준 방식이 될 예정이었지만, 어떤 동영상 포맷이 동영상 태그에서 지원될 것인지 하는 것에 대한 합의 부족으로 방해를 받아왔다.
 
 ## 예제
 
@@ -36,7 +36,7 @@
   - 로열티가 없을 것.
   - 그 포맷을 지원하는 소프트웨어 디코더, 하드웨어 동영상 디코더가 존재할 것.
 
-처음에는 Ogg Theora가 HTML5에서 추천하는 표준 동영상 포맷이었다. 특허에 영향을 받지 않았기 때문이었다. 그러나 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [12월 10일](https://ko.wikipedia.org/wiki/12월_10일 "wikilink") HTML5 규격이 업데이트되었을 때, 포맷을 구체화하기 위해 참고사항이 갱신되었다.
+처음에는 Ogg Theora가 HTML5에서 추천하는 표준 동영상 포맷이었다. 특허에 영향을 받지 않았기 때문이었다. 그러나 [2007년](../Page/2007년.md "wikilink") [12월 10일](../Page/12월_10일.md "wikilink") HTML5 규격이 업데이트되었을 때, 포맷을 구체화하기 위해 참고사항이 갱신되었다.
 
 <table>
 <thead>
@@ -53,7 +53,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/VP8" title="wikilink">VP8</a> (<a href="../Page/WebM.md" title="wikilink">WebM</a>)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/인터넷_익스플로러" title="wikilink">인터넷 익스플로러</a></p></td>
+<td><p><a href="../Page/인터넷_익스플로러.md" title="wikilink">인터넷 익스플로러</a></p></td>
 <td></td>
 <td><p>수동 설치</p></td>
 </tr>
@@ -68,12 +68,12 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/사파리_(웹_브라우저)" title="wikilink">사파리</a></p></td>
+<td><p><a href="../Page/사파리_(웹_브라우저).md" title="wikilink">사파리</a></p></td>
 <td></td>
 <td><p>수동 설치</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/오페라_(웹_브라우저)" title="wikilink">오페라</a></p></td>
+<td><p><a href="../Page/오페라_(웹_브라우저).md" title="wikilink">오페라</a></p></td>
 <td></td>
 <td><p>[2]</p></td>
 </tr>

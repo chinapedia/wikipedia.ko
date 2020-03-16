@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Time](https://ko.wikipedia.org/wiki/Time).
 
 
-《**굿Time**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 만화가 [김은정](https://ko.wikipedia.org/wiki/김은정 "wikilink")이 그린 [만화](https://ko.wikipedia.org/wiki/만화 "wikilink")이다. 1999년 5월 1일부터 단행본이 발간되었으며, [대원씨아이](https://ko.wikipedia.org/wiki/대원씨아이 "wikilink")가 출판하고 있다. 2001년 3월 1일 4권을 마지막으로 연재가 중단되었다.
+《**굿Time**》는 [대한민국](../Page/대한민국.md "wikilink")의 만화가 [김은정](https://ko.wikipedia.org/wiki/김은정 "wikilink")이 그린 [만화](../Page/만화.md "wikilink")이다. 1999년 5월 1일부터 단행본이 발간되었으며, [대원씨아이](https://ko.wikipedia.org/wiki/대원씨아이 "wikilink")가 출판하고 있다. 2001년 3월 1일 4권을 마지막으로 연재가 중단되었다.
 
 ## 제목에 대하여
 
@@ -45,7 +45,7 @@
 
 '윤제의 운명의 상대'라는 여학생으로, 신기로 인해 불행한 가정살이를 했으며 현재 신윤제,신현제와 동거중이다. 투신자살을 시도했을때 윤제가 구해줬으며, 윤제의 한마디로 헤어스타일을 바꾸는 걸로보아 윤제에게 호감이 있어보인다. '독사 주둥아리'라는 별칭을 갖고 있으며 욕을 남발한다. 죽은 엄마의 영혼을 하늘로 못가게 잡아놓고, 독심술로 남의 마음을 읽을 수 있다.
 
-  - 당시에는 용어가 없어서 표현을 못했지만 현대의 동인계 용어로 표현하자면 [츤데레](https://ko.wikipedia.org/wiki/츤데레 "wikilink")성향이다.
+  - 당시에는 용어가 없어서 표현을 못했지만 현대의 동인계 용어로 표현하자면 [츤데레](../Page/츤데레.md "wikilink")성향이다.
 
 ## 단행본
 

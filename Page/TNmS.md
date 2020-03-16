@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [TNmS](https://ko.wikipedia.org/wiki/TNmS).
 
 
-**TNmS**는 전국 멀티미디어 통합 조사(Total National Multimedia Statistics)의 약자로, [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [텔레비전 프로그램](../Page/텔레비전_프로그램.md "wikilink") [시청률](https://ko.wikipedia.org/wiki/시청률 "wikilink") 조사 회사이다. 지상파, [케이블 TV](../Page/대한민국의_케이블TV_방송.md "wikilink"), [스카이라이프](https://ko.wikipedia.org/wiki/스카이라이프 "wikilink"), [DMB](../Page/디지털_멀티미디어_방송.md "wikilink") 시청률 조사를 시행한다.
+**TNmS**는 전국 멀티미디어 통합 조사(Total National Multimedia Statistics)의 약자로, [대한민국](../Page/대한민국.md "wikilink")의 [텔레비전 프로그램](../Page/텔레비전_프로그램.md "wikilink") [시청률](https://ko.wikipedia.org/wiki/시청률 "wikilink") 조사 회사이다. 지상파, [케이블 TV](../Page/대한민국의_케이블TV_방송.md "wikilink"), [스카이라이프](https://ko.wikipedia.org/wiki/스카이라이프 "wikilink"), [DMB](../Page/디지털_멀티미디어_방송.md "wikilink") 시청률 조사를 시행한다.
 
 ## 연혁
 
   - [1998년 12월](https://ko.wikipedia.org/wiki/1998년_12월 "wikilink"): **TNS 미디어 코리아** 설립
   - [1999년 10월](https://ko.wikipedia.org/wiki/1999년_10월 "wikilink"): 전국 지상파 및 케이블 TV 시청률 조사 시작
   - [2003년 1월](../Page/2003년_1월.md "wikilink"): 스카이라이프 시청률 조사 시작
-  - [2005년 1월](https://ko.wikipedia.org/wiki/2005년_1월 "wikilink"): 스카이라이프 쌍방향 채널 시청률 조사 시작
-  - [2005년 5월](https://ko.wikipedia.org/wiki/2005년_5월 "wikilink"): 위성 DMB 시청률 조사 시작
+  - [2005년 1월](../Page/2005년_1월.md "wikilink"): 스카이라이프 쌍방향 채널 시청률 조사 시작
+  - [2005년 5월](../Page/2005년_5월.md "wikilink"): 위성 DMB 시청률 조사 시작
   - [2010년 1월](../Page/2010년_1월.md "wikilink"): 사명을 **TNmS**로 변경
 
 ## 시청률 조사
@@ -18,7 +18,7 @@
 
 패널이 될 수 있는 사람은 학력과 소득, 지위의 제한이 없이 남녀노소 누구나 될 수 있으나, 가족 중 방송광고 관련 산업에 종사하는 사람이 있는 경우 등은 조사 대상에서 제외된다.
 
-조사된 결과는 새벽 2시 이후에 본사로 전송되어 통계 처리되며, 매일 [아침](https://ko.wikipedia.org/wiki/아침 "wikilink") 7\~8시에 각 [방송사](https://ko.wikipedia.org/wiki/방송사 "wikilink"), [광고](https://ko.wikipedia.org/wiki/광고 "wikilink") 회사, [신문](https://ko.wikipedia.org/wiki/신문 "wikilink")사 등에 발표된다.
+조사된 결과는 새벽 2시 이후에 본사로 전송되어 통계 처리되며, 매일 [아침](https://ko.wikipedia.org/wiki/아침 "wikilink") 7\~8시에 각 [방송사](https://ko.wikipedia.org/wiki/방송사 "wikilink"), [광고](https://ko.wikipedia.org/wiki/광고 "wikilink") 회사, [신문](../Page/신문.md "wikilink")사 등에 발표된다.
 
 ## 시청률 조작 논란
 

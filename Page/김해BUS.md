@@ -5,7 +5,7 @@
 
 ## 역사
 
-[2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 김해순환버스라는 상호로 설립되었고, [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")에는 현재의 상호로 변경하고 [동부교통](../Page/동부교통.md "wikilink")의 3,4,220번 노선과 [가야IBS](../Page/가야IBS.md "wikilink")의 8번 노선 일부를 양수하였다\[1\]. 그리고 최근에는 [가야IBS](../Page/가야IBS.md "wikilink")로부터 6번, 59-1번 노선을 인계받았다.
+[2008년](../Page/2008년.md "wikilink") 김해순환버스라는 상호로 설립되었고, [2009년](../Page/2009년.md "wikilink")에는 현재의 상호로 변경하고 [동부교통](../Page/동부교통.md "wikilink")의 3,4,220번 노선과 [가야IBS](../Page/가야IBS.md "wikilink")의 8번 노선 일부를 양수하였다\[1\]. 그리고 최근에는 [가야IBS](../Page/가야IBS.md "wikilink")로부터 6번, 59-1번 노선을 인계받았다.
 
 ## 차고지
 
@@ -38,7 +38,7 @@
 
 ### 좌석버스
 
-  - <span style="color:#CC0000;">●</span> 73번: 여차 - 화현 - 매리 - 덕산 - 월촌 - 안막 - [강서구청역](https://ko.wikipedia.org/wiki/강서구청역 "wikilink") - 구포시장 (일부 시간대에 소감마을 경유 노선이 존재한다.)
+  - <span style="color:#CC0000;">●</span> 73번: 여차 - 화현 - 매리 - 덕산 - 월촌 - 안막 - [강서구청역](../Page/강서구청역.md "wikilink") - 구포시장 (일부 시간대에 소감마을 경유 노선이 존재한다.)
   - <span style="color:#CC0000;">●</span> 220번 :풍유동공영차고지 - 김해 골든루트 산업단지 - 장유농협 - 롯데아울렛 - 율하교 - 수가리 - 경마공원 - 강서경찰서 - 을숙도휴게소 - [하단역](https://ko.wikipedia.org/wiki/하단역 "wikilink") (이 노선은 [부산시내버스](https://ko.wikipedia.org/wiki/부산시내버스 "wikilink") 221번과 공동배차한다.\[3\] 2017년 2월 22일 노선조정으로 풍유동공영차고지로 기점변경.)
 
 ### 공영버스

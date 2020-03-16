@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MM!](https://ko.wikipedia.org/wiki/MM!).
 
 
-《**MM\!**》()은 [일본](../Page/일본.md "wikilink")의 작가 [마츠노 아키나리가](https://ko.wikipedia.org/wiki/마츠노_아키나리 "wikilink") 쓴 [라이트 노벨이다](https://ko.wikipedia.org/wiki/라이트_노벨 "wikilink"). [MF문고 J](../Page/MF문고_J.md "wikilink")([미디어 팩토리](https://ko.wikipedia.org/wiki/미디어_팩토리 "wikilink"))에서 발행되고 있으며, [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 [익스트림 노벨](https://ko.wikipedia.org/wiki/익스트림_노벨 "wikilink")([학산문화사](../Page/학산문화사.md "wikilink"))로 발매되고 있다. 또한, 애니메이션으로도 제작되었으며\[1\], 드라마 CD가 발매되었다. [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 [애니플러스](https://ko.wikipedia.org/wiki/애니플러스 "wikilink") 채널을 통해서 한일 동시방영작으로 방송되고 있다. 그러나 원작자가 2011년 4월 18일자로 사망하여 무기한 연중이 되었다.\[2\]
+《**MM\!**》()은 [일본](../Page/일본.md "wikilink")의 작가 [마츠노 아키나리가](https://ko.wikipedia.org/wiki/마츠노_아키나리 "wikilink") 쓴 [라이트 노벨이다](../Page/라이트_노벨.md "wikilink"). [MF문고 J](../Page/MF문고_J.md "wikilink")([미디어 팩토리](https://ko.wikipedia.org/wiki/미디어_팩토리 "wikilink"))에서 발행되고 있으며, [대한민국](../Page/대한민국.md "wikilink")에서는 [익스트림 노벨](../Page/익스트림_노벨.md "wikilink")([학산문화사](../Page/학산문화사.md "wikilink"))로 발매되고 있다. 또한, 애니메이션으로도 제작되었으며\[1\], 드라마 CD가 발매되었다. [대한민국](../Page/대한민국.md "wikilink")에서는 [애니플러스](../Page/애니플러스.md "wikilink") 채널을 통해서 한일 동시방영작으로 방송되고 있다. 그러나 원작자가 2011년 4월 18일자로 사망하여 무기한 연중이 되었다.\[2\]
 
 ## 줄거리
 
@@ -71,7 +71,7 @@
 
   - 도묘지(）
     성우 : [스기타 토모카즈](../Page/스기타_토모카즈.md "wikilink")
-    타로가 알바생으로 있는 편의점 점장. 만화라면 사족을 못 쓸 정도로 지나치게 좋아하는 [오타쿠](https://ko.wikipedia.org/wiki/오타쿠 "wikilink")이며 만화 주인공을 동경하는 인물이기도 하다.
+    타로가 알바생으로 있는 편의점 점장. 만화라면 사족을 못 쓸 정도로 지나치게 좋아하는 [오타쿠](../Page/오타쿠.md "wikilink")이며 만화 주인공을 동경하는 인물이기도 하다.
 
 ## 드라마 CD
 
@@ -79,7 +79,7 @@
 
 ## 애니메이션
 
-애니메이션은 AT-X, 치바텔레비전 외 U국계에서 10월부터 방송 개시하였으며 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 [애니플러스](https://ko.wikipedia.org/wiki/애니플러스 "wikilink") 채널을 통해서 '19세 이상 시청가' 등급하에 한일 동시방영작으로 방송하고 있다.\[3\]
+애니메이션은 AT-X, 치바텔레비전 외 U국계에서 10월부터 방송 개시하였으며 [대한민국](../Page/대한민국.md "wikilink")에서는 [애니플러스](../Page/애니플러스.md "wikilink") 채널을 통해서 '19세 이상 시청가' 등급하에 한일 동시방영작으로 방송하고 있다.\[3\]
 
 ## 각주
 

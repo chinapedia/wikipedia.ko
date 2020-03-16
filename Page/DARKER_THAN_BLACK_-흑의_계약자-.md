@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DARKER THAN BLACK - -](https://ko.wikipedia.org/wiki/DARKER_THAN_BLACK_-_-).
 
 
-《**DARKER THAN BLACK -흑의 계약자-**》()는 [본즈가](https://ko.wikipedia.org/wiki/본즈_\(스튜디오\) "wikilink") 제작한 일본의 애니메이션 작품이다. 일본 MBS·TBS 계열의 10국의 방송국에서 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [4월 5일부터](https://ko.wikipedia.org/wiki/4월_5일 "wikilink") 방영하여 같은해 [9월 27일에](https://ko.wikipedia.org/wiki/9월_27일 "wikilink") 종영되었다. 텔레비전 방송분 25화, 미방영분 1화(DVD수록)를 합쳐 26화의 애니메이션이다. 속편은 《[DARKER THAN BLACK -유성의 쌍둥이-](../Page/DARKER_THAN_BLACK_-유성의_쌍둥이-.md "wikilink")》이다.
+《**DARKER THAN BLACK -흑의 계약자-**》()는 [본즈가](https://ko.wikipedia.org/wiki/본즈_\(스튜디오\) "wikilink") 제작한 일본의 애니메이션 작품이다. 일본 MBS·TBS 계열의 10국의 방송국에서 [2007년](../Page/2007년.md "wikilink") [4월 5일부터](../Page/4월_5일.md "wikilink") 방영하여 같은해 [9월 27일에](../Page/9월_27일.md "wikilink") 종영되었다. 텔레비전 방송분 25화, 미방영분 1화(DVD수록)를 합쳐 26화의 애니메이션이다. 속편은 《[DARKER THAN BLACK -유성의 쌍둥이-](../Page/DARKER_THAN_BLACK_-유성의_쌍둥이-.md "wikilink")》이다.
 
 ## 작품 개요
 
@@ -55,7 +55,7 @@
 <!-- end list -->
 
   - 인()
-    성우 - [후쿠엔 미사토](../Page/후쿠엔_미사토.md "wikilink") / [윤성혜](https://ko.wikipedia.org/wiki/윤성혜_\(성우\) "wikilink") / [브리나 펄렌시아](../Page/브리나_펄렌시아.md "wikilink")
+    성우 - [후쿠엔 미사토](../Page/후쿠엔_미사토.md "wikilink") / [윤성혜](../Page/윤성혜_\(성우\).md "wikilink") / [브리나 펄렌시아](../Page/브리나_펄렌시아.md "wikilink")
     본작의 히로인. 17세의 소녀. 물을 매개체로 사용하여 관측령을 조종하는, 앞을 못 보는 돌(doll).
     헤이와 같은 팀에 속해, 주로 첩보나 탐색을 담당한다. 은발을 가는 리본으로 묶고 앤티크 돌이 생각나는 원피스를 입고 있다. 평상시는 헤이가 사는 우미츠키 장의 근처에 있는 담배가게의 인기 여성. 약시라서 앞을 못 보지만 절대 음감을 가지는 뛰어난 청각으로 주위를 인식해, 혼자서도 행동할 수 있다.
     본명은 〈키르시〉로, 북유럽 태생. 달빛 아래에서 피아노를 연주하는 것을 좋아하는 감정이 풍부한 소녀였다. 아직 어렸던 그녀는 부친을 비행기 사고로, 직후에 어머니인 안니(, 성우 - [타카모리 요시노](https://ko.wikipedia.org/wiki/타카모리_요시노 "wikilink"))도 그녀를 감싸 자동차 사고로, 부모님을 연달아 잃는 비극에 휩쓸린다. 그 후 돌이 되지만 “조직”에 들어갈 때까지의 경위는 불명. 피아노의 스승이었던 에이리스와 재회하지만, 인으로서 헤이와 함께 있기를 선택했다.
@@ -76,7 +76,7 @@
 <!-- end list -->
 
   - 황()
-    성우 - [이케다 마사루](https://ko.wikipedia.org/wiki/이케다_마사루 "wikilink") / [김태훈](https://ko.wikipedia.org/wiki/김태훈_\(성우\) "wikilink") / [존 스웨이지](https://ko.wikipedia.org/wiki/존_스웨이지 "wikilink")
+    성우 - [이케다 마사루](https://ko.wikipedia.org/wiki/이케다_마사루 "wikilink") / [김태훈](../Page/김태훈_\(성우\).md "wikilink") / [존 스웨이지](https://ko.wikipedia.org/wiki/존_스웨이지 "wikilink")
     헤이 일행의 팀의 책임자. 임무에 관한 지시의 전달이나 정보·물품의 수령 등, “조직”과의 연락이나 후방 지원을 담당한다. 언제나 모자를 쓰고 롱 코트를 입는 대머리 중년남성. 황 자신은 계약자가 아니고 그들을 싫어해서 경멸한다. “조직”의 무서움을 아는 그는 임무 우선을 위해서 헤이에게 냉혹한 명령을 주기도 하고, 헤이나 마오와 종종 충돌한다. 사격실력은 상당하다. 임무 시에 운전하고 있는 것은 검은색 스즈키·웨건 R.
     본명은 〈쿠노 키요시()〉. 경시청 공안부의 경관이었지만, 어느날, 연인 기시타 시호코가 동료를 살해하는 현장을 목격, 계약자라고 하는 존재를 눈으로 확인한다. 기억을 삭제당하기 전에 스카우트되어 “조직”의 일원이 되었다. 당초, 같은 팀의 헤이 일행을, 그들이 계약자인 것을 이유로 기계와 같이 취급했지만, 동료의 과거나 자신의 과거를 계기로, 차츰 허물을 없앤다.
     “조직”의 자객에게 총격당해 중상을 입고, 세명과 웨이 즈쥔을 게이트에 보낸 후, 차로 추격자를 유인하고 최후에는 자폭했다.
@@ -222,7 +222,7 @@
 정식명칭, 영국 정보국 비밀 정보부(SIS). 에이전트는 영어의 달(달력) 이름을 코드네임으로 하고 있다. 하보크를 유엔기관 PANDORA에 인도하기 위해서 도쿄를 방문하고 그대로 도쿄에 남는다.
 
   - 노벰버 11()
-    성우 - [이노우에 카즈히코](https://ko.wikipedia.org/wiki/이노우에_카즈히코 "wikilink") / [고성일](https://ko.wikipedia.org/wiki/고성일 "wikilink") / [트로이 베이커](../Page/트로이_베이커.md "wikilink")
+    성우 - [이노우에 카즈히코](https://ko.wikipedia.org/wiki/이노우에_카즈히코 "wikilink") / [고성일](../Page/고성일.md "wikilink") / [트로이 베이커](../Page/트로이_베이커.md "wikilink")
     “MI6 최고의 에이전트”라고 평가받는 계약자로, 금발 푸른 눈의 백인 남성. 스스럼 없고 독특한 행동을 보이는 댄디 가이. 공식상은 영국 외무성의 〈잭·사이몬〉이라고 자칭하고 있다. 애용하는 휴대 전화는 NTT 도코모의 키즈 휴대폰 SA800i(라임 칼라). 마츠다·RX-8을 운전한다.
     메시에 코드는 불명. 능력은 〈접촉한 수분의 동결〉. 빗물이나 커피 등의 수분의 빙결은 물론, 인체에 닿았을 경우는 피부를 통하고 혈액을 얼게 할 수도 있다. 또, 동결시킨 수분을 고드름 모양으로 해서 무기로 사용한다.계약 대가는 〈흡연〉이지만, 본인은 극도의 혐연가. 담배는 DEATH라고 하는 영국제의 상표를 핀다.
     능력을 되찾은 해벅을 경계하여 살해한다. 그때 헤이와 교전해, 그의 능력의 대책으로서 절연을 위한 고무 장화를 준비하는 등 주도함을 보였지만, 결착은 나지 않았다. EPR(이브닝 프림로즈)(후술)에 구속되었을 때에는 참가 요구도 거절한다. 그러나“조직”의 정체와 그 목적을 깨달았기 때문에 제거되게 되어, 디케이드를 길동무로 해 사망한다.
@@ -253,7 +253,7 @@
 
 Physicalquantity Alternation Natural Deconstruction Organized Research Agency
 
-[유엔](https://ko.wikipedia.org/wiki/유엔 "wikilink") 주도의 국제 연구기관. PANDORA법(자세한 것은 작중 용어의 항을 참조)에 근거해, 계약자나 지옥문의 연구를 하고 있다. 지옥문 내에 연구 시설이 존재한다. 본래는 단순한 연구기관에 지나지 않아야 할 조직이지만, 독자적인 무장 부대를 비밀리에 가지고 있어 필요하면 무력행사를 하기도 한다. 게이트나 계약자에 관한 그 연구는, 실은 계약자를 멸하기 위한 것이며, 배후에는 “조직”의 존재가 있다. 이것들은 기밀이며, PANDORA 내부에서도 일부의 인간에게만 알려져 있다.
+[유엔](../Page/유엔.md "wikilink") 주도의 국제 연구기관. PANDORA법(자세한 것은 작중 용어의 항을 참조)에 근거해, 계약자나 지옥문의 연구를 하고 있다. 지옥문 내에 연구 시설이 존재한다. 본래는 단순한 연구기관에 지나지 않아야 할 조직이지만, 독자적인 무장 부대를 비밀리에 가지고 있어 필요하면 무력행사를 하기도 한다. 게이트나 계약자에 관한 그 연구는, 실은 계약자를 멸하기 위한 것이며, 배후에는 “조직”의 존재가 있다. 이것들은 기밀이며, PANDORA 내부에서도 일부의 인간에게만 알려져 있다.
 
   - 에릭 니시지마()
     성우 - [미키 신이치로](../Page/미키_신이치로.md "wikilink") / [최재호 (성우)](../Page/최재호_\(성우\).md "wikilink") / [척 휴버](../Page/척_휴버.md "wikilink")
@@ -268,13 +268,13 @@ Physicalquantity Alternation Natural Deconstruction Organized Research Agency
 <!-- end list -->
 
   - 커크 린지()
-    성 - [사쿠야 슌스케](https://ko.wikipedia.org/wiki/사쿠야_슌스케 "wikilink") / [이원찬 (성우)](https://ko.wikipedia.org/wiki/이원찬_\(성우\) "wikilink")
+    성 - [사쿠야 슌스케](https://ko.wikipedia.org/wiki/사쿠야_슌스케 "wikilink") / [이원찬 (성우)](../Page/이원찬_\(성우\).md "wikilink")
     PANDORA 연구소의 경비대원.유성의 조각을 빼앗으려고 닉에 살해당한다.
 
 <!-- end list -->
 
   - 키쿠치 레이지()
-    성 - [키리이 다이스케](https://ko.wikipedia.org/wiki/키리이_다이스케 "wikilink") / [방성준](https://ko.wikipedia.org/wiki/방성준 "wikilink")
+    성 - [키리이 다이스케](https://ko.wikipedia.org/wiki/키리이_다이스케 "wikilink") / [방성준](../Page/방성준.md "wikilink")
     PANDORA 연구소의 환경 미화원.
 
 #### 청룡당()
@@ -290,7 +290,7 @@ Physicalquantity Alternation Natural Deconstruction Organized Research Agency
 <!-- end list -->
 
   - 앨리스 왕()
-    성우 - [이토 시즈카](../Page/이토_시즈카.md "wikilink") / [박신희](https://ko.wikipedia.org/wiki/박신희 "wikilink")
+    성우 - [이토 시즈카](../Page/이토_시즈카.md "wikilink") / [박신희](../Page/박신희.md "wikilink")
     왕 샤오탕의 외동딸. 자신의 생일에 우연히, 옛친구인 기리하라 미사키와 재회해, 그녀를 생일파티에 초대한다.
     미사키의 고등학교의 동급생. 마피아의 딸인 자신을 두려워하지 않는 그녀에게 호감을 느껴 사이가 좋아졌다. 자신의 가치관을 완전히 바꾸어 버린 그녀에게 정신적으로 의존하고 있었지만, 그녀가 자신과는 정반대의 입장인 경찰관료의 길로 나아간 것으로 자포자기에 빠졌다. 청룡당의 후계인 입장에서 자유롭게 되기를 바라, 웨이 즈쥔과 공모해 조직의 괴멸을 원했지만, 그에게 배신당해 살해당한다.
 
@@ -325,7 +325,7 @@ Physicalquantity Alternation Natural Deconstruction Organized Research Agency
 #### 러시아 연방 보안청(FSB)
 
   - 이츠하크()
-    성우 - [아오야마 유타카](https://ko.wikipedia.org/wiki/아오야마_유타카 "wikilink") / [방성준](https://ko.wikipedia.org/wiki/방성준 "wikilink") / [빅 미뇨나](../Page/빅_미뇨나.md "wikilink")
+    성우 - [아오야마 유타카](https://ko.wikipedia.org/wiki/아오야마_유타카 "wikilink") / [방성준](../Page/방성준.md "wikilink") / [빅 미뇨나](../Page/빅_미뇨나.md "wikilink")
     계약자. 남성. 베르타와 함께 “조직”에 임해서 찾는 임무를 받아 행동하고 있다.
     메시에 코드는 CY-463. 계약 능력은 〈관측령의 소집·포획·조작〉. 관측령을 개입시킨 정보 수집 활동을 방해하는 것과 동시에, 관측령을 조종하고 있던 돌에 정신적 쇼크를 주고, 그때 돌과 링크해서 그 신상을 알 수가 있다. 계약 대가는 간섭한 돌로부터 얻은 정보를 바탕으로 〈시 짓기〉. 대가가 인간적인 것을 봐서, 마음을 완전히 잃지는 않은 것 같다.황에게 저격당해 사망.
 
@@ -431,7 +431,7 @@ Physicalquantity Alternation Natural Deconstruction Organized Research Agency
 <!-- end list -->
 
   - 우키야마 노리오()
-    성우 - [사사키 노조무](https://ko.wikipedia.org/wiki/사사키_노조무 "wikilink") / [최한](https://ko.wikipedia.org/wiki/최한 "wikilink")
+    성우 - [사사키 노조무](https://ko.wikipedia.org/wiki/사사키_노조무 "wikilink") / [최한](../Page/최한.md "wikilink")
     피오레 화장품 주식회사에 침입한 산업 스파이를 쫓는 계약자.
     그의 몸에 머물고 있는 것은 아미다브 카플이라고 하는 다른 계약자의 인격이다. 카플의 계약 능력은 〈인간에게의 빙의〉로, 시야 내의 인간으로 갈아탈 수가 있지만, 그때 자신의 신체는 행동 불능이 된다. 돌아올 때에도 빙의한 인간의 눈으로 자신을 봐야 한다. 카플은 우키야마의 몸에 갈아타고 있는 동안에 자신의 몸을 잃었기 때문에, 계약 대가는 지불할 필요가 없지만, 옛 자신의 양말 냄새를 맡는 것으로 잃어버린 원래 육체(카플)의 체취를 느끼는 습관이 있다.
     기묘한 동체인 우키야마와 카플은, 원래 팀을 짜 북쪽 인도를 중심으로 활동하고 있었다. 그러나 그들 중 카플은 살해당하기 직전에 노리오의 몸으로 갈아탔다. 우키야마 노리오 본인의 계약 능력은 〈중력 조작〉이었다.

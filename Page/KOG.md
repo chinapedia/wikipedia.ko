@@ -1,16 +1,16 @@
 > This article is converted from Wikipedia: [KOG](https://ko.wikipedia.org/wiki/KOG).
 
 
-**KOG**는 [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [5월 1일에](https://ko.wikipedia.org/wiki/5월_1일 "wikilink") 설립된 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [게임 개발사이다](https://ko.wikipedia.org/wiki/게임_개발사 "wikilink").
+**KOG**는 [2000년](../Page/2000년.md "wikilink") [5월 1일에](../Page/5월_1일.md "wikilink") 설립된 [대한민국](../Page/대한민국.md "wikilink")의 [게임 개발사이다](https://ko.wikipedia.org/wiki/게임_개발사 "wikilink").
 
-[그랜드체이스](../Page/그랜드체이스.md "wikilink")([넷마블](../Page/넷마블.md "wikilink")에서 서비스), [엘소드](../Page/엘소드.md "wikilink")([넥슨](https://ko.wikipedia.org/wiki/넥슨 "wikilink")에서 서비스)를 개발하였으며, [파이터스클럽](https://ko.wikipedia.org/wiki/파이터스클럽 "wikilink")를 자체적으로, 그리고 [NHN](../Page/NHN.md "wikilink")의 [한게임](https://ko.wikipedia.org/wiki/한게임 "wikilink")에 채널링을 통해 서비스하고 있다.\[1\]
+[그랜드체이스](../Page/그랜드체이스.md "wikilink")([넷마블](../Page/넷마블.md "wikilink")에서 서비스), [엘소드](../Page/엘소드.md "wikilink")([넥슨](../Page/넥슨.md "wikilink")에서 서비스)를 개발하였으며, [파이터스클럽](https://ko.wikipedia.org/wiki/파이터스클럽 "wikilink")를 자체적으로, 그리고 [NHN](../Page/NHN.md "wikilink")의 [한게임](../Page/한게임.md "wikilink")에 채널링을 통해 서비스하고 있다.\[1\]
 
 ## 현소속게임
 
   - 투어레이싱
   - 범퍼킹재퍼
   - 와일드랠리
-  - [엘소드](../Page/엘소드.md "wikilink") - [넥슨](https://ko.wikipedia.org/wiki/넥슨 "wikilink")
+  - [엘소드](../Page/엘소드.md "wikilink") - [넥슨](../Page/넥슨.md "wikilink")
   - [파이터스 클럽](https://ko.wikipedia.org/wiki/파이터스_클럽 "wikilink") - 자체, [NHN](../Page/NHN.md "wikilink")
   - 아이마 - 자체
 

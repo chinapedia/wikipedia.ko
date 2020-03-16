@@ -5,11 +5,11 @@
 
 ## 세부 모델
 
-| 모델명       | 통신사                                                     | 통신 방식                                                                 |
-| --------- | ------------------------------------------------------- | --------------------------------------------------------------------- |
-| SCH-W930  | [SK텔레콤](https://ko.wikipedia.org/wiki/SK텔레콤 "wikilink") | [HSDPA](https://ko.wikipedia.org/wiki/HSDPA "wikilink")               |
-| SPH-W9300 | [KT](https://ko.wikipedia.org/wiki/KT "wikilink")       | [HSDPA](https://ko.wikipedia.org/wiki/HSDPA "wikilink")               |
-| SPH-W9350 | [LG유플러스](../Page/LG유플러스.md "wikilink")                  | [EV-DO Rev. A](https://ko.wikipedia.org/wiki/EV-DO_Rev._A "wikilink") |
+| 모델명       | 통신사                                    | 통신 방식                                                                 |
+| --------- | -------------------------------------- | --------------------------------------------------------------------- |
+| SCH-W930  | [SK텔레콤](../Page/SK텔레콤.md "wikilink")   | [HSDPA](https://ko.wikipedia.org/wiki/HSDPA "wikilink")               |
+| SPH-W9300 | [KT](../Page/KT.md "wikilink")         | [HSDPA](https://ko.wikipedia.org/wiki/HSDPA "wikilink")               |
+| SPH-W9350 | [LG유플러스](../Page/LG유플러스.md "wikilink") | [EV-DO Rev. A](https://ko.wikipedia.org/wiki/EV-DO_Rev._A "wikilink") |
 
 ## 특징
 
@@ -21,14 +21,14 @@
 
 ## 경쟁 모델
 
-  - [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink") [롤리팝2](../Page/싸이언_롤리팝2.md "wikilink")
+  - [LG전자](../Page/LG전자.md "wikilink") [롤리팝2](../Page/싸이언_롤리팝2.md "wikilink")
   - [KT테크](../Page/KT테크.md "wikilink") [부비부비 F4](../Page/에버_부비부비_F4.md "wikilink")
   - [스카이](../Page/스카이.md "wikilink") [테라피](https://ko.wikipedia.org/wiki/스카이_테라피 "wikilink")
 
 ## 같이 보기
 
   - [애니콜 코비](https://ko.wikipedia.org/wiki/애니콜_코비 "wikilink")
-  - [애니콜 햅틱](https://ko.wikipedia.org/wiki/애니콜_햅틱 "wikilink")
+  - [애니콜 햅틱](../Page/애니콜_햅틱.md "wikilink")
 
 ## 외부 링크
 

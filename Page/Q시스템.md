@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Q](https://ko.wikipedia.org/wiki/Q).
 
 
-**Q-System(Rock Mass Quality System)**은 [1974년](https://ko.wikipedia.org/wiki/1974년 "wikilink")에 NGI(Norwegian Geotechnical Institude)의 Barton, Lien, Lunde에 의해 개발된 암반분류 방법이다.
+**Q-System(Rock Mass Quality System)**은 [1974년](../Page/1974년.md "wikilink")에 NGI(Norwegian Geotechnical Institude)의 Barton, Lien, Lunde에 의해 개발된 암반분류 방법이다.
 
 ## 개요
 

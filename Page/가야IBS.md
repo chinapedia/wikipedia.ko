@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [IBS](https://ko.wikipedia.org/wiki/IBS).
 
 
-**가야IBS**(伽倻-)은 [태영운송그룹](../Page/태영운송그룹.md "wikilink") 계열 [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink") [김해시](https://ko.wikipedia.org/wiki/김해시 "wikilink") 자회사이자 경상남도 김해시 생림대로 95-31 (삼계동)에 본사를, 김해시 골든루트로66번길 143 (풍유동)에 본점을 둔 [버스](https://ko.wikipedia.org/wiki/버스 "wikilink") 운송 업체이다. 주로 [김해시](https://ko.wikipedia.org/wiki/김해시 "wikilink") 지역과 [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink"), [창원시](https://ko.wikipedia.org/wiki/창원시 "wikilink") 지역을 기점으로 하는 노선을 운행한다.
+**가야IBS**(伽倻-)은 [태영운송그룹](../Page/태영운송그룹.md "wikilink") 계열 [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink") [김해시](https://ko.wikipedia.org/wiki/김해시 "wikilink") 자회사이자 경상남도 김해시 생림대로 95-31 (삼계동)에 본사를, 김해시 골든루트로66번길 143 (풍유동)에 본점을 둔 [버스](../Page/버스.md "wikilink") 운송 업체이다. 주로 [김해시](https://ko.wikipedia.org/wiki/김해시 "wikilink") 지역과 [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink"), [창원시](../Page/창원시.md "wikilink") 지역을 기점으로 하는 노선을 운행한다.
 
-방계회사로는 공항버스 업체인 [태영공항리무진](../Page/태영공항리무진.md "wikilink"), 부산시내버스 업체인 [태영버스](../Page/태영버스.md "wikilink"), 부산마을버스 업체인 [녹산교통](https://ko.wikipedia.org/wiki/녹산교통 "wikilink"), [부경버스](https://ko.wikipedia.org/wiki/부경버스 "wikilink"), [성진버스](https://ko.wikipedia.org/wiki/성진버스 "wikilink"), [태영교통](../Page/태영교통_\(부산\).md "wikilink"), 양산마을버스 업체인 [양산BS](https://ko.wikipedia.org/wiki/양산BS "wikilink") 및 김해시 시내버스 업체인 [동부교통](../Page/동부교통.md "wikilink"), [김해BUS](https://ko.wikipedia.org/wiki/김해BUS "wikilink") 등을 두고 있다.
+방계회사로는 공항버스 업체인 [태영공항리무진](../Page/태영공항리무진.md "wikilink"), 부산시내버스 업체인 [태영버스](../Page/태영버스.md "wikilink"), 부산마을버스 업체인 [녹산교통](https://ko.wikipedia.org/wiki/녹산교통 "wikilink"), [부경버스](https://ko.wikipedia.org/wiki/부경버스 "wikilink"), [성진버스](https://ko.wikipedia.org/wiki/성진버스 "wikilink"), [태영교통](../Page/태영교통_\(부산\).md "wikilink"), 양산마을버스 업체인 [양산BS](https://ko.wikipedia.org/wiki/양산BS "wikilink") 및 김해시 시내버스 업체인 [동부교통](../Page/동부교통.md "wikilink"), [김해BUS](../Page/김해BUS.md "wikilink") 등을 두고 있다.
 
 ## 역사
 
-[1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink") [5월 1일](https://ko.wikipedia.org/wiki/5월_1일 "wikilink") 동신버스(현 [김해여객](https://ko.wikipedia.org/wiki/김해여객 "wikilink"))으로 분리 창업하여 초기에는 삼부여객이라는 이름으로 운행했었으나 부도 후 [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [태영운송그룹](../Page/태영운송그룹.md "wikilink")이 인수, 가야여객으로 변경되었으며 그 후 현재의 이름으로 바뀌었다.
+[1988년](../Page/1988년.md "wikilink") [5월 1일](../Page/5월_1일.md "wikilink") 동신버스(현 [김해여객](../Page/김해여객.md "wikilink"))으로 분리 창업하여 초기에는 삼부여객이라는 이름으로 운행했었으나 부도 후 [2001년](../Page/2001년.md "wikilink") [태영운송그룹](../Page/태영운송그룹.md "wikilink")이 인수, 가야여객으로 변경되었으며 그 후 현재의 이름으로 바뀌었다.
 
 ## 차고지
 
@@ -30,7 +30,7 @@
 
   - <span style="color:#008800;">●</span> 1번: 삼계정수장 - 가야대학교 - 금강병원 - 김해시청 - 인제대 - 지내동(경남은행)
   - <span style="color:#008800;">●</span> 1-1번: 삼계정수장 - 삼계초등학교 - 금강병원 - 김해시청 - 인제대 - 안동공단입구
-  - <span style="color:#008800;">●</span> 8번: 삼계정수장 - 가야대학교 - 매정 - 백조A후문 - 김해문화의전당 - 내외동문화의집 - [김해시보건소](https://ko.wikipedia.org/wiki/김해시보건소 "wikilink") - 활천고개 - [인제대학교](https://ko.wikipedia.org/wiki/인제대학교 "wikilink") - [한일여자고등학교](https://ko.wikipedia.org/wiki/한일여자고등학교 "wikilink") - [평강역](https://ko.wikipedia.org/wiki/평강역 "wikilink") - 대저119안전센터 - [강서구청역](https://ko.wikipedia.org/wiki/강서구청역 "wikilink") - [덕천역](https://ko.wikipedia.org/wiki/덕천역 "wikilink") - [만덕2터널](https://ko.wikipedia.org/wiki/만덕2터널 "wikilink") - [동래역](https://ko.wikipedia.org/wiki/동래역_\(도시철도\) "wikilink") - [온천장역](../Page/온천장역.md "wikilink") - [부산대학교](https://ko.wikipedia.org/wiki/부산대학교 "wikilink")([장전동역](https://ko.wikipedia.org/wiki/장전동역 "wikilink"))
+  - <span style="color:#008800;">●</span> 8번: 삼계정수장 - 가야대학교 - 매정 - 백조A후문 - 김해문화의전당 - 내외동문화의집 - [김해시보건소](https://ko.wikipedia.org/wiki/김해시보건소 "wikilink") - 활천고개 - [인제대학교](../Page/인제대학교.md "wikilink") - [한일여자고등학교](https://ko.wikipedia.org/wiki/한일여자고등학교 "wikilink") - [평강역](https://ko.wikipedia.org/wiki/평강역 "wikilink") - 대저119안전센터 - [강서구청역](../Page/강서구청역.md "wikilink") - [덕천역](https://ko.wikipedia.org/wiki/덕천역 "wikilink") - [만덕2터널](https://ko.wikipedia.org/wiki/만덕2터널 "wikilink") - [동래역](../Page/동래역_\(도시철도\).md "wikilink") - [온천장역](../Page/온천장역.md "wikilink") - [부산대학교](https://ko.wikipedia.org/wiki/부산대학교 "wikilink")([장전동역](https://ko.wikipedia.org/wiki/장전동역 "wikilink"))
   - <span style="color:#008800;">●</span> 58번 (좌석) : 삼계정수장 → 연지공원 → 일동한신A → 장유농협 → 장유3동 → 장유도서관 → 창원터널 → 대방동 → 사파동 → 도청 → 창원대학교(종점) → 명곡광장 → 창원터미널 → 창원문성대학교 → 상남시장 → 창원터널 → 장유도서관 → 장유3동 → 일동한신아파트 → [연지공원](https://ko.wikipedia.org/wiki/연지공원 "wikilink") → 삼계정수장 **(입석 금지 노선)**
   - <span style="color:#008800;">●</span> 59번 (좌석) : 삼계정수장 → 연지공원 → 일동한신A → 장유농협 → 장유3동 → 대청계곡 → 창원터널 → 상남시장 → 창원문성대 → 창원터미널 → 명곡광장 → 창원대학교(종점) → 도청 → 사파동 → 대방동 → 창원터널 → 대청계곡 → 장유3동 → 일동한신A → 연지공원 → 삼계정수장 **(입석 금지 노선)**
 
@@ -48,9 +48,9 @@
 
 ### 이전 보유 노선
 
-  - <span style="color:#008800;">●</span> 6번: 외동차고지 - 김해보건소 - 동상동 - 중부경찰서 - 강동 - (이양지) - 화목(죽동) (2018년 2월 22일 [김해BUS](https://ko.wikipedia.org/wiki/김해BUS "wikilink")로 양도)
+  - <span style="color:#008800;">●</span> 6번: 외동차고지 - 김해보건소 - 동상동 - 중부경찰서 - 강동 - (이양지) - 화목(죽동) (2018년 2월 22일 [김해BUS](../Page/김해BUS.md "wikilink")로 양도)
   - <span style="color:#008800;">●</span> 14번: 외동터미널 - 금강병원 - 김해여고 - 구산백조A - 조은금강병원 - 신천 - 명동 - 빙그레 - [진영역](../Page/진영역.md "wikilink") - 진영시외터미널 - 금산초등학교 (2018년 2월 태영고속 140번으로 통폐합 운행)
-  - <span style="color:#008800;">●</span> 59-1번: 외동터미널 - 금강병원 - 매정 - 망천1구 - 안하 - 분절 - 봉림(생림면사무소) (2015년 4월 [김해BUS](https://ko.wikipedia.org/wiki/김해BUS "wikilink")로 양도)
+  - <span style="color:#008800;">●</span> 59-1번: 외동터미널 - 금강병원 - 매정 - 망천1구 - 안하 - 분절 - 봉림(생림면사무소) (2015년 4월 [김해BUS](../Page/김해BUS.md "wikilink")로 양도)
 
 ## 보유차량
 

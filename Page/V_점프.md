@@ -81,7 +81,7 @@
 (ドラゴンクエスト 蒼天のソウラ)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/나카시마_유우키" title="wikilink">나카시마 유우키</a> </p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/호리이_유우지" title="wikilink">호리이 유우지</a> <br />
-<a href="https://ko.wikipedia.org/wiki/스퀘어_에닉스" title="wikilink">스퀘어 에닉스</a> </p></td>
+<a href="../Page/스퀘어_에닉스.md" title="wikilink">스퀘어 에닉스</a> </p></td>
 <td><p>2013년2월호</p></td>
 <td></td>
 </tr>
@@ -146,8 +146,8 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/진_여신전생_IV_DEMONIC_GENE" title="wikilink">진 여신전생 IV DEMONIC GENE</a><br />
 (真・女神転生IV DEMONIC GENE)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/후쿠다_이쿠미" title="wikilink">후쿠다 이쿠미</a> </p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/카네코_카즈마" title="wikilink">카네코 카즈마</a>(<a href="https://ko.wikipedia.org/wiki/ATLUS" title="wikilink">ATLUS</a>) <br />
-<a href="https://ko.wikipedia.org/wiki/야마이_카즈유키" title="wikilink">야마이 카즈유키</a>(<a href="https://ko.wikipedia.org/wiki/ATLUS" title="wikilink">ATLUS</a>) </p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/카네코_카즈마" title="wikilink">카네코 카즈마</a>(<a href="../Page/ATLUS.md" title="wikilink">ATLUS</a>) <br />
+<a href="https://ko.wikipedia.org/wiki/야마이_카즈유키" title="wikilink">야마이 카즈유키</a>(<a href="../Page/ATLUS.md" title="wikilink">ATLUS</a>) </p></td>
 <td><p>2013년6월</p></td>
 <td></td>
 </tr>
@@ -164,8 +164,8 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/진_여신전생_IV_-Prayers-" title="wikilink">진 여신전생 IV -Prayers-</a><br />
 (真・女神転生IV -Prayers-)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/미우라_마사타카" title="wikilink">미우라 마사타카</a> </p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/카네코_카즈마" title="wikilink">카네코 카즈마</a>(<a href="https://ko.wikipedia.org/wiki/ATLUS" title="wikilink">ATLUS</a>) <br />
-<a href="https://ko.wikipedia.org/wiki/야마이_카즈유키" title="wikilink">야마이 카즈유키</a>(<a href="https://ko.wikipedia.org/wiki/ATLUS" title="wikilink">ATLUS</a>) </p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/카네코_카즈마" title="wikilink">카네코 카즈마</a>(<a href="../Page/ATLUS.md" title="wikilink">ATLUS</a>) <br />
+<a href="https://ko.wikipedia.org/wiki/야마이_카즈유키" title="wikilink">야마이 카즈유키</a>(<a href="../Page/ATLUS.md" title="wikilink">ATLUS</a>) </p></td>
 <td><p>2014년3월호</p></td>
 <td></td>
 </tr>

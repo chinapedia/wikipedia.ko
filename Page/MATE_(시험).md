@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [MATE \(\)](https://ko.wikipedia.org/wiki/MATE_\(\)).
 
 
-**MATE**(, )는 [숙명여자대학교](https://ko.wikipedia.org/wiki/숙명여자대학교 "wikilink")가 [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") 개발한 [멀티미디어](../Page/멀티미디어.md "wikilink") 방식의 [영어](https://ko.wikipedia.org/wiki/영어 "wikilink") 말하기 및 쓰기 수행능력을 평가하는 시험이다.
+**MATE**(, )는 [숙명여자대학교](https://ko.wikipedia.org/wiki/숙명여자대학교 "wikilink")가 [1997년](../Page/1997년.md "wikilink") 개발한 [멀티미디어](../Page/멀티미디어.md "wikilink") 방식의 [영어](../Page/영어.md "wikilink") 말하기 및 쓰기 수행능력을 평가하는 시험이다.
 
 ## 개요
 
-MATE는 숙명여자대학교 교양교육원에서 주관·시행하고 있으며 [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [11월](https://ko.wikipedia.org/wiki/11월 "wikilink") 제1차 정기 시험이 시행되었다. [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [2월 10일](https://ko.wikipedia.org/wiki/2월_10일 "wikilink"), MATE Speaking과 Writing이 [민간 자격 국가 공인](https://ko.wikipedia.org/wiki/민간_자격_국가_공인 "wikilink") 시험으로 인정받았다.
+MATE는 숙명여자대학교 교양교육원에서 주관·시행하고 있으며 [1999년](../Page/1999년.md "wikilink") [11월](../Page/11월.md "wikilink") 제1차 정기 시험이 시행되었다. [2006년](../Page/2006년.md "wikilink") [2월 10일](../Page/2월_10일.md "wikilink"), MATE Speaking과 Writing이 [민간 자격 국가 공인](https://ko.wikipedia.org/wiki/민간_자격_국가_공인 "wikilink") 시험으로 인정받았다.
 
 MATE는 수험자가 주어진 컴퓨터에서 소리, 영상, 문자로 제시되는 과제를 헤드셋(말하기의 경우)과 키보드(쓰기의 경우)을 사용하여 답안을 입력하는 방식으로 치춰진다. MATE의 문항은 실생활에서 흔히 접하는 상황으로 제시되며 여기에 적합한 언어기능을 측정할 수 있도록 고안되었다.
 
@@ -24,12 +24,12 @@ MATE Speaking은 미국에서 사용되고 있는 ACTEL(American Council on the 
       - 1차 개발된 테스트 원형을 가지고 SOPI를 개발한 미국의 스탠스필드(Stansfield) 교수의 구체적인 자문을 받음
   - 1999년
       - 숙명 영어 테스트 개발팀이 미국 샌디애고에서 개최된 ACTFL OPI 워크샵 참가
-      - [하와이 대학교의](https://ko.wikipedia.org/wiki/하와이_대학교 "wikilink") 언어 교육 센터 소장이며 ACTFL의 공인 평가자 훈련 자격 소지자인 David Hiple 박사를 초청하여 숙명여대에서 개최한 ACTFL 공식 Workshop에서 평가자 과정 이수
+      - [하와이 대학교의](../Page/하와이_대학교.md "wikilink") 언어 교육 센터 소장이며 ACTFL의 공인 평가자 훈련 자격 소지자인 David Hiple 박사를 초청하여 숙명여대에서 개최한 ACTFL 공식 Workshop에서 평가자 과정 이수
       - CAL에서 폴 발레리(Paul Valery) 박사를 초청, 평가 방식 초청 설명회 개최
   - 2000년
       - 찰스 스탠스필드(Charles Stansfield) 박사 초청
   - 2003년
-      - MATE 관리 위원회 연구진 미국 [필라델피아](https://ko.wikipedia.org/wiki/필라델피아 "wikilink")에서 개최된 ACTFL OPI 워크샵에 참가하여 교육 과정 이수
+      - MATE 관리 위원회 연구진 미국 [필라델피아](../Page/필라델피아.md "wikilink")에서 개최된 ACTFL OPI 워크샵에 참가하여 교육 과정 이수
       - ACTFL OPI 평가 체제에 근거한 워크샵 개최를 통해 숙명여대가 평가 자격을 공인해 주는 방안 연구
   - 2006년2월 10일
       - MATE Speaking, Writing [민간 자격 국가 공인](https://ko.wikipedia.org/wiki/민간_자격_국가_공인 "wikilink") 취득
@@ -68,13 +68,13 @@ G-MATE는 기존의 MATE의 축소 형태이며 숙명여자대학교 내의 필
 
 ## 같이 보기
 
-  - [TOEIC](https://ko.wikipedia.org/wiki/TOEIC "wikilink")
+  - [TOEIC](../Page/TOEIC.md "wikilink")
   - [TOEFL](../Page/TOEFL.md "wikilink")
-  - [TEPS](https://ko.wikipedia.org/wiki/TEPS "wikilink")
+  - [TEPS](../Page/TEPS.md "wikilink")
   - [PELT](../Page/PELT.md "wikilink")
   - [TOSEL](../Page/TOSEL.md "wikilink")
   - [SNULT](../Page/SNULT.md "wikilink")
-  - [ESPT](https://ko.wikipedia.org/wiki/ESPT "wikilink")
+  - [ESPT](../Page/ESPT.md "wikilink")
 
 ## 외부 링크
 

@@ -5,7 +5,7 @@
 
 ## 개요
 
-[1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink")부터 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink")까지 월간 소년 매거진([고단샤](../Page/고단샤.md "wikilink"))에서 연재되어, [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink")에 제26회 [고단샤 만화상](../Page/고단샤_만화상.md "wikilink") 소년 부문 수상했다. [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [10월](https://ko.wikipedia.org/wiki/10월 "wikilink")부터 [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink")까지 [애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink")이 방송되었으며, [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [9월](https://ko.wikipedia.org/wiki/9월 "wikilink")에는 [츠츠미 유키히코](../Page/츠츠미_유키히코.md "wikilink") 감독에 의해 [실사 영화](https://ko.wikipedia.org/wiki/실사_영화 "wikilink") "BECK"이 공개되었다. [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 같은 해 [11월](https://ko.wikipedia.org/wiki/11월 "wikilink") 개봉되었다.
+[1999년](../Page/1999년.md "wikilink")부터 [2008년](../Page/2008년.md "wikilink")까지 월간 소년 매거진([고단샤](../Page/고단샤.md "wikilink"))에서 연재되어, [2002년](../Page/2002년.md "wikilink")에 제26회 [고단샤 만화상](../Page/고단샤_만화상.md "wikilink") 소년 부문 수상했다. [2004년](../Page/2004년.md "wikilink") [10월](../Page/10월.md "wikilink")부터 [2005년](../Page/2005년.md "wikilink") [3월](../Page/3월.md "wikilink")까지 [애니메이션](../Page/애니메이션.md "wikilink")이 방송되었으며, [2010년](../Page/2010년.md "wikilink") [9월](../Page/9월.md "wikilink")에는 [츠츠미 유키히코](../Page/츠츠미_유키히코.md "wikilink") 감독에 의해 [실사 영화](https://ko.wikipedia.org/wiki/실사_영화 "wikilink") "BECK"이 공개되었다. [대한민국](../Page/대한민국.md "wikilink")에서는 같은 해 [11월](../Page/11월.md "wikilink") 개봉되었다.
 
 "고릴라맨", "멍청한 녀석"으로 알려진 [만화가](https://ko.wikipedia.org/wiki/만화가 "wikilink") [해럴드 사쿠이시에](https://ko.wikipedia.org/wiki/해럴드_사쿠이시 "wikilink") 있어서 첫 [소년 만화이다](../Page/소년_만화.md "wikilink"). 전 34권과 가이드 북 4권이 발매되어, [일본](../Page/일본.md "wikilink")에서 누계 발행 부수는 1200만부를 넘는 대 히트작이다. 단행본 한정판에 부속된 코유키의 피겨에 맞는 스케일로 깁슨 등의 기타, 베이스, 드럼 (제3​​탄)의 소형이 2008년 6월 현재 4탄까지 발매되고 있다.
 
@@ -76,11 +76,11 @@
 
 ## 텔레비전 드라마
 
-[일본](../Page/일본.md "wikilink")에서는 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [10월 6일부터](https://ko.wikipedia.org/wiki/10월_6일 "wikilink") [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [3월 30일까지](https://ko.wikipedia.org/wiki/3월_30일 "wikilink") [TV 도쿄 계열](https://ko.wikipedia.org/wiki/TV_도쿄_계열 "wikilink") 6국에서 전 26회가 방송되었고, 원작에서의 제1화부터 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") 원정 편 직전까지를 드라마화 하였다. 감독은 [고바야시 오사무](https://ko.wikipedia.org/wiki/고바야시_오사무 "wikilink"), 주연은 [나미카와 다이스케](../Page/나미카와_다이스케.md "wikilink").
+[일본](../Page/일본.md "wikilink")에서는 [2004년](../Page/2004년.md "wikilink") [10월 6일부터](../Page/10월_6일.md "wikilink") [2005년](../Page/2005년.md "wikilink") [3월 30일까지](../Page/3월_30일.md "wikilink") [TV 도쿄 계열](https://ko.wikipedia.org/wiki/TV_도쿄_계열 "wikilink") 6국에서 전 26회가 방송되었고, 원작에서의 제1화부터 [미국](../Page/미국.md "wikilink") 원정 편 직전까지를 드라마화 하였다. 감독은 [고바야시 오사무](https://ko.wikipedia.org/wiki/고바야시_오사무 "wikilink"), 주연은 [나미카와 다이스케](../Page/나미카와_다이스케.md "wikilink").
 
 ## 함께 보기
 
-  - [Beck (영화)](../Page/Beck_\(영화\).md "wikilink") : [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") 개봉한 실사 영화.
+  - [Beck (영화)](../Page/Beck_\(영화\).md "wikilink") : [2010년](../Page/2010년.md "wikilink") 개봉한 실사 영화.
 
 ## 외부 링크
 

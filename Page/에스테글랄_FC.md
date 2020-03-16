@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
 
 
-**에스테글랄 테헤란 FC** ()은 [이란](https://ko.wikipedia.org/wiki/이란 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로, [수도](https://ko.wikipedia.org/wiki/수도 "wikilink")인 [테헤란](https://ko.wikipedia.org/wiki/테헤란 "wikilink")을 연고로 하고 있다. 옛 이름은 **타지 테헤란 풋볼 클럽** ()이었다. [테헤란](https://ko.wikipedia.org/wiki/테헤란 "wikilink")을 연고로 하고 있는 이 팀은 현재 [이란 프로리그에](https://ko.wikipedia.org/wiki/이란_프로리그 "wikilink") 소속되어 있다. [1945년](https://ko.wikipedia.org/wiki/1945년 "wikilink")에 **두차르케흐 사바란**이라는 이름으로 창단되었으며, [1949년](https://ko.wikipedia.org/wiki/1949년 "wikilink")에 [팔라비 왕조의](https://ko.wikipedia.org/wiki/팔라비_왕조 "wikilink") 왕관을 상징하는 **타지**라는 이름으로 클럽명칭을 변경하였다. [1979년](https://ko.wikipedia.org/wiki/1979년 "wikilink"), [이란 혁명](https://ko.wikipedia.org/wiki/이란_혁명 "wikilink") 이후엔 독립을 뜻하는 **에스테글랄 테헤란 FC**로 다시 클럽명칭을 변경하였다.
+**에스테글랄 테헤란 FC** ()은 [이란](../Page/이란.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, [수도](../Page/수도.md "wikilink")인 [테헤란](../Page/테헤란.md "wikilink")을 연고로 하고 있다. 옛 이름은 **타지 테헤란 풋볼 클럽** ()이었다. [테헤란](../Page/테헤란.md "wikilink")을 연고로 하고 있는 이 팀은 현재 [이란 프로리그에](https://ko.wikipedia.org/wiki/이란_프로리그 "wikilink") 소속되어 있다. [1945년](../Page/1945년.md "wikilink")에 **두차르케흐 사바란**이라는 이름으로 창단되었으며, [1949년](../Page/1949년.md "wikilink")에 [팔라비 왕조의](../Page/팔라비_왕조.md "wikilink") 왕관을 상징하는 **타지**라는 이름으로 클럽명칭을 변경하였다. [1979년](../Page/1979년.md "wikilink"), [이란 혁명](../Page/이란_혁명.md "wikilink") 이후엔 독립을 뜻하는 **에스테글랄 테헤란 FC**로 다시 클럽명칭을 변경하였다.
 
 ## 선수단 및 코칭스태프
 
@@ -39,7 +39,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/포항_스틸러스" title="wikilink">포항 스틸러스</a></p></td>
+<td><p><a href="../Page/포항_스틸러스.md" title="wikilink">포항 스틸러스</a></p></td>
 <td><p><strong>3</strong></p></td>
 <td><p>0</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/아시안_클럽_챔피언십_1996-97" title="wikilink">1996-97</a>, <a href="https://ko.wikipedia.org/wiki/아시안_클럽_챔피언십_1997-98" title="wikilink">1997-98</a>, <a href="https://ko.wikipedia.org/wiki/AFC_챔피언스리그_2009" title="wikilink">2009</a></p></td>

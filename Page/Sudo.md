@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Sudo](https://ko.wikipedia.org/wiki/Sudo).
 
 
-**sudo** 명령어는 [유닉스](https://ko.wikipedia.org/wiki/유닉스 "wikilink") 및 [유닉스 계열](../Page/유닉스_계열.md "wikilink") [운영 체제에서](https://ko.wikipedia.org/wiki/운영_체제 "wikilink"), 다른 사용자의 보안 권한, 보통 [슈퍼유저](https://ko.wikipedia.org/wiki/슈퍼유저 "wikilink")로서 프로그램을 구동할 수 있도록 하는 [프로그램](https://ko.wikipedia.org/wiki/프로그램 "wikilink")이다. 명칭은 본래 슈퍼유저로서의 실행에 사용되던 것에서 “superuser do”에서 유래하였으나, 후에 프로그램의 기능이 확장되며 “substitute user do”(다른 사용자의 권한으로 실행)의 줄임말로 해석되게 되었다. 기본적으로 Sudo는 사용자 비밀번호를 요구하지만 루트 비밀번호(root password)가 필요할 수도 있고, 한 터미널에 한번만 입력하고 그 다음부터는 비밀번호가 필요 없다.\[1\] Sudo는 각 명령줄에 사용할 수 있으며 일부 상황에서는 관리자 권한을 위한 슈퍼유저 로그인(superuser login)을 완벽히 대신하며, 주로 [우분투](https://ko.wikipedia.org/wiki/우분투 "wikilink"), [리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink")와 [애플의](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") [OS X](https://ko.wikipedia.org/wiki/OS_X "wikilink") 에서 볼 수 있다.\[2\]\[3\]
+**sudo** 명령어는 [유닉스](../Page/유닉스.md "wikilink") 및 [유닉스 계열](../Page/유닉스_계열.md "wikilink") [운영 체제에서](../Page/운영_체제.md "wikilink"), 다른 사용자의 보안 권한, 보통 [슈퍼유저](https://ko.wikipedia.org/wiki/슈퍼유저 "wikilink")로서 프로그램을 구동할 수 있도록 하는 [프로그램](https://ko.wikipedia.org/wiki/프로그램 "wikilink")이다. 명칭은 본래 슈퍼유저로서의 실행에 사용되던 것에서 “superuser do”에서 유래하였으나, 후에 프로그램의 기능이 확장되며 “substitute user do”(다른 사용자의 권한으로 실행)의 줄임말로 해석되게 되었다. 기본적으로 Sudo는 사용자 비밀번호를 요구하지만 루트 비밀번호(root password)가 필요할 수도 있고, 한 터미널에 한번만 입력하고 그 다음부터는 비밀번호가 필요 없다.\[1\] Sudo는 각 명령줄에 사용할 수 있으며 일부 상황에서는 관리자 권한을 위한 슈퍼유저 로그인(superuser login)을 완벽히 대신하며, 주로 [우분투](https://ko.wikipedia.org/wiki/우분투 "wikilink"), [리눅스](../Page/리눅스.md "wikilink")와 [애플의](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") [OS X](https://ko.wikipedia.org/wiki/OS_X "wikilink") 에서 볼 수 있다.\[2\]\[3\]
 
 ## 역사
 
-Robert Coggeshall과 Cliff Spencer는 1980년 즈음 [SUNY/버펄로의](../Page/버펄로_대학교.md "wikilink") 컴퓨터 과학부에서 오리지널 하위 시스템을 작성했다.\[4\] Robert Coggeshall은 sudo를 [콜로라도 볼더 대학교로](https://ko.wikipedia.org/wiki/콜로라도_볼더_대학교 "wikilink") 가져왔다. 1986년부터 1993년까지 코드와 기능은 콜로라도 볼더 대학교 컴퓨터 과학부, College of Engineering and Applied Science의 IT 직원들(Todd C. Miller 등)에 의해 실질적으로 수정되었다.\[5\] 현재 버전은 1994년 이후로 [OpenBSD](https://ko.wikipedia.org/wiki/OpenBSD "wikilink")의 개발자 Todd C. Miller가 공개적으로 유지보수하고 있으며,\[6\] 1999년 이후로 [SC-스타일](https://ko.wikipedia.org/wiki/ISC_라이선스 "wikilink") 라이선스로 배포되고 있다.\[7\]
+Robert Coggeshall과 Cliff Spencer는 1980년 즈음 [SUNY/버펄로의](../Page/버펄로_대학교.md "wikilink") 컴퓨터 과학부에서 오리지널 하위 시스템을 작성했다.\[4\] Robert Coggeshall은 sudo를 [콜로라도 볼더 대학교로](https://ko.wikipedia.org/wiki/콜로라도_볼더_대학교 "wikilink") 가져왔다. 1986년부터 1993년까지 코드와 기능은 콜로라도 볼더 대학교 컴퓨터 과학부, College of Engineering and Applied Science의 IT 직원들(Todd C. Miller 등)에 의해 실질적으로 수정되었다.\[5\] 현재 버전은 1994년 이후로 [OpenBSD](../Page/OpenBSD.md "wikilink")의 개발자 Todd C. Miller가 공개적으로 유지보수하고 있으며,\[6\] 1999년 이후로 [SC-스타일](https://ko.wikipedia.org/wiki/ISC_라이선스 "wikilink") 라이선스로 배포되고 있다.\[7\]
 
-2009년에 [MS가](https://ko.wikipedia.org/wiki/마이크로소프트 "wikilink") sudo 명령어를 특허로 등록했다는 것이 밝혀져 큰 파장을 일으켰으나\[8\], 그 청구항들은 sudo의 개념이라기보다는 특정한 [GUI에](https://ko.wikipedia.org/wiki/그래픽_사용자_인터페이스 "wikilink") 대해 좁게 고안된 것이었다\[9\].
+2009년에 [MS가](../Page/마이크로소프트.md "wikilink") sudo 명령어를 특허로 등록했다는 것이 밝혀져 큰 파장을 일으켰으나\[8\], 그 청구항들은 sudo의 개념이라기보다는 특정한 [GUI에](../Page/그래픽_사용자_인터페이스.md "wikilink") 대해 좁게 고안된 것이었다\[9\].
 
 ## 예제
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [New Blood, Rapper Vol.1](https://ko.wikipedia.org/wiki/New_Blood,_Rapper_Vol.1).
 
 
-***New Blood, Rapper Vol.1***은 [이센스](../Page/이센스.md "wikilink")가 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [3월 27일에](https://ko.wikipedia.org/wiki/3월_27일 "wikilink") 발매한 믹스테이프이다.
+***New Blood, Rapper Vol.1***은 [이센스](../Page/이센스.md "wikilink")가 [2008년](../Page/2008년.md "wikilink") [3월 27일에](../Page/3월_27일.md "wikilink") 발매한 믹스테이프이다.
 
 ## 수록곡
 

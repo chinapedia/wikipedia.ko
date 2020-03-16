@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ YH-J50](https://ko.wikipedia.org/wiki/_YH-J50).
 
 
-**옙 YH-J50**()은 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")에서 [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [10월](https://ko.wikipedia.org/wiki/10월 "wikilink")에 출시한 [포터블 미디어 플레이어이다](../Page/포터블_미디어_플레이어.md "wikilink").
+**옙 YH-J50**()은 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")에서 [2005년](../Page/2005년.md "wikilink") [10월](../Page/10월.md "wikilink")에 출시한 [포터블 미디어 플레이어이다](../Page/포터블_미디어_플레이어.md "wikilink").
 
 ## 관련 사건
 

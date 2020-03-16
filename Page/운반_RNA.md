@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ RNA](https://ko.wikipedia.org/wiki/_RNA).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:TRNA_illustration_Korean.png "wikilink") **운반 RNA**는 [유전자 발현을](../Page/유전자_발현.md "wikilink") 통한 [단백질](https://ko.wikipedia.org/wiki/단백질 "wikilink")의 합성에 관여하는 저분자 [RNA](https://ko.wikipedia.org/wiki/RNA "wikilink")이다. 염기서열의 끝에서 [아미노산](https://ko.wikipedia.org/wiki/아미노산 "wikilink")과 결합되며, [뉴클레오타이드](https://ko.wikipedia.org/wiki/뉴클레오타이드 "wikilink")의 염기서열 일부가 [안티코돈](https://ko.wikipedia.org/wiki/안티코돈 "wikilink")을 이룬다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:TRNA_illustration_Korean.png "wikilink") **운반 RNA**는 [유전자 발현을](../Page/유전자_발현.md "wikilink") 통한 [단백질](../Page/단백질.md "wikilink")의 합성에 관여하는 저분자 [RNA](../Page/RNA.md "wikilink")이다. 염기서열의 끝에서 [아미노산](../Page/아미노산.md "wikilink")과 결합되며, [뉴클레오타이드](../Page/뉴클레오타이드.md "wikilink")의 염기서열 일부가 [안티코돈](https://ko.wikipedia.org/wiki/안티코돈 "wikilink")을 이룬다.
 
 ## 구조
 
@@ -12,7 +12,7 @@
 
 ## 안티코돈
 
-운반 RNA의 가운데 고리를 이루는 구간에 [안티코돈](https://ko.wikipedia.org/wiki/안티코돈 "wikilink")을 형성하는 뉴클레오타이드 염기 서열이 놓인다. 이 염기 서열은 [리보솜](https://ko.wikipedia.org/wiki/리보솜 "wikilink")에서 [전령 RNA의](../Page/전령_RNA.md "wikilink") [코돈](https://ko.wikipedia.org/wiki/코돈 "wikilink")과 [상보적으로](https://ko.wikipedia.org/wiki/상보성_\(생물학\) "wikilink") 결합하여 단백질 사슬에 아미노산을 결합시키게 된다.\[2\]
+운반 RNA의 가운데 고리를 이루는 구간에 [안티코돈](https://ko.wikipedia.org/wiki/안티코돈 "wikilink")을 형성하는 뉴클레오타이드 염기 서열이 놓인다. 이 염기 서열은 [리보솜](../Page/리보솜.md "wikilink")에서 [전령 RNA의](../Page/전령_RNA.md "wikilink") [코돈](https://ko.wikipedia.org/wiki/코돈 "wikilink")과 [상보적으로](https://ko.wikipedia.org/wiki/상보성_\(생물학\) "wikilink") 결합하여 단백질 사슬에 아미노산을 결합시키게 된다.\[2\]
 
 ## 아미노산 운반
 
@@ -41,7 +41,7 @@
 <!-- end list -->
 
   -
-    아미노산이 충천된 운반 RNA는 [리보솜](https://ko.wikipedia.org/wiki/리보솜 "wikilink")으로 아미노산을 운반한다.
+    아미노산이 충천된 운반 RNA는 [리보솜](../Page/리보솜.md "wikilink")으로 아미노산을 운반한다.
 
 ## 각주
 
