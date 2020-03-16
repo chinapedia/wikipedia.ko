@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Gillette  2004](https://ko.wikipedia.org/wiki/Gillette__2004).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:P_DSC_1430.jpg "wikilink") **Gillette 스타리그 2004**는 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink")에 진행된 [스타리그](https://ko.wikipedia.org/wiki/스타리그 "wikilink")이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:P_DSC_1430.jpg "wikilink") **Gillette 스타리그 2004**는 [2004년](../Page/2004년.md "wikilink")에 진행된 [스타리그](https://ko.wikipedia.org/wiki/스타리그 "wikilink")이다.
 
 ## 리그기간
 
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [4월 30일](https://ko.wikipedia.org/wiki/4월_30일 "wikilink") \~ [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [8월 1일](https://ko.wikipedia.org/wiki/8월_1일 "wikilink")
+  - [2004년](../Page/2004년.md "wikilink") [4월 30일](../Page/4월_30일.md "wikilink") \~ [2004년](../Page/2004년.md "wikilink") [8월 1일](../Page/8월_1일.md "wikilink")
 
 ## 스폰서 캐치프레이즈
 
@@ -51,7 +51,7 @@
 
 ## 2003 3차 챌린지리그
 
-  - **일정** : [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [12월 9일](https://ko.wikipedia.org/wiki/12월_9일 "wikilink") \~ [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [3월 2일](https://ko.wikipedia.org/wiki/3월_2일 "wikilink")
+  - **일정** : [2003년](../Page/2003년.md "wikilink") [12월 9일](../Page/12월_9일.md "wikilink") \~ [2004년](../Page/2004년.md "wikilink") [3월 2일](../Page/3월_2일.md "wikilink")
 
 |    |                                                                     |                                                                   |                                                         |                                                         |                                                               |
 | -- | ------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------- |
@@ -61,7 +61,7 @@
 | C조 | **[서지훈](https://ko.wikipedia.org/wiki/서지훈 "wikilink")**             | [안기효](https://ko.wikipedia.org/wiki/안기효 "wikilink")               | **[한동욱](../Page/한동욱.md "wikilink")**                    | [이창훈](https://ko.wikipedia.org/wiki/이창훈 "wikilink")     | **[서지훈](https://ko.wikipedia.org/wiki/서지훈 "wikilink")**       |
 | D조 | **[최인규](https://ko.wikipedia.org/wiki/최인규 "wikilink")**             | [김동진](../Page/김동진_\(1983년\).md "wikilink")                        | **[변길섭](../Page/변길섭.md "wikilink")**                    | [차재욱](../Page/차재욱.md "wikilink")                        | **[변길섭](../Page/변길섭.md "wikilink")**                          |
 | E조 | **[전상욱](https://ko.wikipedia.org/wiki/전상욱 "wikilink")**             | [도진광](https://ko.wikipedia.org/wiki/도진광 "wikilink")               | **[김선기](https://ko.wikipedia.org/wiki/김선기 "wikilink")** | [김정민](../Page/김정민_\(1982년\).md "wikilink")              | **[전상욱](https://ko.wikipedia.org/wiki/전상욱 "wikilink")**       |
-| F조 | [박성준](https://ko.wikipedia.org/wiki/박성준 "wikilink")                 | **[박경수](https://ko.wikipedia.org/wiki/박경수_\(프로게이머\) "wikilink")** | **[이재훈](https://ko.wikipedia.org/wiki/이재훈 "wikilink")** | [한웅렬](../Page/한웅렬.md "wikilink")                        | [박경수](https://ko.wikipedia.org/wiki/박경수_\(프로게이머\) "wikilink") |
+| F조 | [박성준](https://ko.wikipedia.org/wiki/박성준 "wikilink")                 | **[박경수](https://ko.wikipedia.org/wiki/박경수_\(프로게이머\) "wikilink")** | **[이재훈](../Page/이재훈.md "wikilink")**                    | [한웅렬](../Page/한웅렬.md "wikilink")                        | [박경수](https://ko.wikipedia.org/wiki/박경수_\(프로게이머\) "wikilink") |
 
 ### 최종 1위 결정전
 
@@ -72,7 +72,7 @@
 | **[서지훈](https://ko.wikipedia.org/wiki/서지훈 "wikilink")** | 3승 2패 |
 | **[변길섭](../Page/변길섭.md "wikilink")**                    | 4승 1패 |
 | [전상욱](https://ko.wikipedia.org/wiki/전상욱 "wikilink")     | 2승 3패 |
-| [이재훈](https://ko.wikipedia.org/wiki/이재훈 "wikilink")     | 2승 3패 |
+| [이재훈](../Page/이재훈.md "wikilink")                        | 2승 3패 |
 
 ### 3차 듀얼토너먼트 진출자
 
@@ -82,17 +82,17 @@
 
 ## 2003 3차 듀얼토너먼트
 
-  - **일정** : [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [3월 23일](https://ko.wikipedia.org/wiki/3월_23일 "wikilink") \~ [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [4월 1일](https://ko.wikipedia.org/wiki/4월_1일 "wikilink")
+  - **일정** : [2004년](../Page/2004년.md "wikilink") [3월 23일](../Page/3월_23일.md "wikilink") \~ [2004년](../Page/2004년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink")
 
 |    |                                                         |                                                     |                                                         |                                                       |                                                         |
 | -- | ------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------- |
 | 조  | Match1                                                  | Match2                                              | 승자전                                                     | 패자전                                                   | 최종전                                                     |
-| A조 | **[김정민](https://ko.wikipedia.org/wiki/김정민 "wikilink")** | [박경락](../Page/박경락.md "wikilink")                    | **[박용욱](../Page/박용욱.md "wikilink")**                    | [변길섭](../Page/변길섭.md "wikilink")                      | **[박용욱](../Page/박용욱.md "wikilink")**                    |
+| A조 | **[김정민](../Page/김정민.md "wikilink")**                    | [박경락](../Page/박경락.md "wikilink")                    | **[박용욱](../Page/박용욱.md "wikilink")**                    | [변길섭](../Page/변길섭.md "wikilink")                      | **[박용욱](../Page/박용욱.md "wikilink")**                    |
 | B조 | **[김성제](https://ko.wikipedia.org/wiki/김성제 "wikilink")** | [나경보](../Page/나경보.md "wikilink")                    | **[최수범](../Page/최수범.md "wikilink")**                    | [조정현](https://ko.wikipedia.org/wiki/조정현 "wikilink")   | **[김성제](https://ko.wikipedia.org/wiki/김성제 "wikilink")** |
 | C조 | **[이윤열](../Page/이윤열.md "wikilink")**                    | [조병호](https://ko.wikipedia.org/wiki/조병호 "wikilink") | **[이병민](https://ko.wikipedia.org/wiki/이병민 "wikilink")** | [베르트랑](https://ko.wikipedia.org/wiki/베르트랑 "wikilink") | **[이병민](https://ko.wikipedia.org/wiki/이병민 "wikilink")** |
-| D조 | **[한동욱](../Page/한동욱.md "wikilink")**                    | [박태민](https://ko.wikipedia.org/wiki/박태민 "wikilink") | **[조용호](https://ko.wikipedia.org/wiki/조용호 "wikilink")** | [이재훈](https://ko.wikipedia.org/wiki/이재훈 "wikilink")   | **[한동욱](../Page/한동욱.md "wikilink")**                    |
+| D조 | **[한동욱](../Page/한동욱.md "wikilink")**                    | [박태민](https://ko.wikipedia.org/wiki/박태민 "wikilink") | **[조용호](https://ko.wikipedia.org/wiki/조용호 "wikilink")** | [이재훈](../Page/이재훈.md "wikilink")                      | **[한동욱](../Page/한동욱.md "wikilink")**                    |
 | E조 | **[변은종](../Page/변은종.md "wikilink")**                    | [최인규](https://ko.wikipedia.org/wiki/최인규 "wikilink") | **[최연성](../Page/최연성.md "wikilink")**                    | [성학승](../Page/성학승.md "wikilink")                      | **[최연성](../Page/최연성.md "wikilink")**                    |
-| F조 | **[박정석](https://ko.wikipedia.org/wiki/박정석 "wikilink")** | [박성준](https://ko.wikipedia.org/wiki/박성준 "wikilink") | **[임요환](https://ko.wikipedia.org/wiki/임요환 "wikilink")** | [전상욱](https://ko.wikipedia.org/wiki/전상욱 "wikilink")   | **[박정석](https://ko.wikipedia.org/wiki/박정석 "wikilink")** |
+| F조 | **[박정석](https://ko.wikipedia.org/wiki/박정석 "wikilink")** | [박성준](https://ko.wikipedia.org/wiki/박성준 "wikilink") | **[임요환](../Page/임요환.md "wikilink")**                    | [전상욱](https://ko.wikipedia.org/wiki/전상욱 "wikilink")   | **[박정석](https://ko.wikipedia.org/wiki/박정석 "wikilink")** |
 
 ## 16강
 
@@ -116,7 +116,7 @@
 | **[박정석](https://ko.wikipedia.org/wiki/박정석 "wikilink")**       | **2승 1패** | [한동욱](../Page/한동욱.md "wikilink")               | 1승 2패     |
 | [이병민](https://ko.wikipedia.org/wiki/이병민_\(1986년\) "wikilink") | 0승 3패     | [최수범](../Page/최수범.md "wikilink")               | 0승 3패     |
 
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [5월 14일](https://ko.wikipedia.org/wiki/5월_14일 "wikilink") 열린 16강 C조 3경기(나도현 vs 박태민) 에서 [나도현](../Page/나도현.md "wikilink") 선수가 경기직전 실신하는 사태가 발생했으며 박태민의 재경기 요청으로 그 후 나도현 vs 박태민의 16강 C조 3경기는 다음 주차로 미뤄져 치뤄졌다.
+  - [2004년](../Page/2004년.md "wikilink") [5월 14일](../Page/5월_14일.md "wikilink") 열린 16강 C조 3경기(나도현 vs 박태민) 에서 [나도현](../Page/나도현.md "wikilink") 선수가 경기직전 실신하는 사태가 발생했으며 박태민의 재경기 요청으로 그 후 나도현 vs 박태민의 16강 C조 3경기는 다음 주차로 미뤄져 치뤄졌다.
 
 ## 8강 \~
 

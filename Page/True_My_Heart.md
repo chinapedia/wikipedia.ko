@@ -11,7 +11,7 @@
 
   - 작사: a.k.a.dRESS / 사쿠라 사오리
   - 작곡・편곡: a.k.a.dRESS
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") 발매된 [어덜트 게임](https://ko.wikipedia.org/wiki/에로게 "wikilink") Nursery Rhyme의 [주제가](https://ko.wikipedia.org/wiki/주제가 "wikilink"). Lovable mix외에 premium, HARD dRESS STYLE, Lovable mix([Karaoke](../Page/가라오케.md "wikilink"))가 함께 실려 있다.
+  - [2005년](../Page/2005년.md "wikilink") 발매된 [어덜트 게임](../Page/에로게.md "wikilink") Nursery Rhyme의 [주제가](https://ko.wikipedia.org/wiki/주제가 "wikilink"). Lovable mix외에 premium, HARD dRESS STYLE, Lovable mix([Karaoke](../Page/가라오케.md "wikilink"))가 함께 실려 있다.
 
 ### kiss my lips
 

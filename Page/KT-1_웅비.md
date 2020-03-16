@@ -5,12 +5,12 @@
 
 ## 역사
 
-  - [1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink") : 개발 결정
-  - [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") : 시험 비행
-  - [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") 하반기 : 양산
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") : 인도네시아에 수출 결정 (12대)
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") : KA-1 배치 완료 (20대)
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") : 터키 수출 결정 (40대)
+  - [1988년](../Page/1988년.md "wikilink") : 개발 결정
+  - [1996년](../Page/1996년.md "wikilink") : 시험 비행
+  - [1999년](../Page/1999년.md "wikilink") 하반기 : 양산
+  - [2001년](../Page/2001년.md "wikilink") : 인도네시아에 수출 결정 (12대)
+  - [2006년](../Page/2006년.md "wikilink") : KA-1 배치 완료 (20대)
+  - [2007년](../Page/2007년.md "wikilink") : 터키 수출 결정 (40대)
 
 ## 엔진
 
@@ -20,17 +20,17 @@ KT-1은 950 마력의 [프랫 앤 휘트니 캐나다 PT6 터보프롭](https://
 
 ## 파생형
 
-  - KT-1: 기본형, [대한민국 공군에서](https://ko.wikipedia.org/wiki/대한민국_공군 "wikilink") 85대 도입
+  - KT-1: 기본형, [대한민국 공군에서](../Page/대한민국_공군.md "wikilink") 85대 도입
   - KT-1C ([XKT-1](https://ko.wikipedia.org/wiki/XKT-1 "wikilink")): 수출용 베이스 기체
   - KT-1B: 인도네시아 수출형, 17대 생산
   - KT-1T: 터키 수출형, 40대 생산\[1\]
-  - [KA-1](https://ko.wikipedia.org/wiki/KA-1 "wikilink"): 경공격기 겸 전술통제기. [대한민국 공군에서](https://ko.wikipedia.org/wiki/대한민국_공군 "wikilink") 20대 도입
+  - [KA-1](https://ko.wikipedia.org/wiki/KA-1 "wikilink"): 경공격기 겸 전술통제기. [대한민국 공군에서](../Page/대한민국_공군.md "wikilink") 20대 도입
 
 ## 수출
 
 ### 터키 (KT-1T)
 
-[2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink"), 미국 레이시온의 [T-6 텍산 II](https://ko.wikipedia.org/wiki/T-6_텍산_II "wikilink"), 브라질 [엠브라에르 EMB 314 슈퍼 투카노를](https://ko.wikipedia.org/wiki/엠브라에르_EMB_314_슈퍼_투카노 "wikilink") 물리치고 훈련 및 정비 장비를 포함해 총 5억 달러에 40대를 주문받았다 [2](https://archive.is/20120701181023/article.joins.com/article/article.asp?total_id=2762562&ctg=1100). 국내생산 및 현지 생산을 통해 수출되며, 수출액 수는 대한민국 항공기 수출 사상 최대 규모이다 [3](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=100&oid=020&aid=0000419025).
+[2007년](../Page/2007년.md "wikilink"), 미국 레이시온의 [T-6 텍산 II](../Page/T-6_텍산_II.md "wikilink"), 브라질 [엠브라에르 EMB 314 슈퍼 투카노를](../Page/엠브라에르_EMB_314_슈퍼_투카노.md "wikilink") 물리치고 훈련 및 정비 장비를 포함해 총 5억 달러에 40대를 주문받았다 [2](https://archive.is/20120701181023/article.joins.com/article/article.asp?total_id=2762562&ctg=1100). 국내생산 및 현지 생산을 통해 수출되며, 수출액 수는 대한민국 항공기 수출 사상 최대 규모이다 [3](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=100&oid=020&aid=0000419025).
 
 ### 페루
 
@@ -38,7 +38,7 @@ KT-1은 950 마력의 [프랫 앤 휘트니 캐나다 PT6 터보프롭](https://
 
 ## 제원 (KT-1)
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:P&W_PT6.jpg "wikilink"), [슈퍼투 투카노](https://ko.wikipedia.org/wiki/엠브라에르_EMB_314_슈퍼_투카노 "wikilink"), [PC-9](https://ko.wikipedia.org/wiki/필라투스_PC-9 "wikilink"), [T-6](https://ko.wikipedia.org/wiki/T-6_텍산_II "wikilink") 등이 모두 PT6엔진의 파생형 모델들을 각각 사용하고 있다.\]\] 총 1,047억원의 예산을 들여 개발하였으며, 국산화율은 품목대비 80.9%, 가격대비 60.4% 이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:P&W_PT6.jpg "wikilink"), [슈퍼투 투카노](../Page/엠브라에르_EMB_314_슈퍼_투카노.md "wikilink"), [PC-9](../Page/필라투스_PC-9.md "wikilink"), [T-6](../Page/T-6_텍산_II.md "wikilink") 등이 모두 PT6엔진의 파생형 모델들을 각각 사용하고 있다.\]\] 총 1,047억원의 예산을 들여 개발하였으며, 국산화율은 품목대비 80.9%, 가격대비 60.4% 이다.
 
 ## 사용국가
 
@@ -59,20 +59,20 @@ KT-1은 950 마력의 [프랫 앤 휘트니 캐나다 PT6 터보프롭](https://
 
 ### 경쟁기종
 
-  - [필라투스 PC-7](https://ko.wikipedia.org/wiki/필라투스_PC-7 "wikilink") - 스위스산
-  - [필라투스 PC-9](https://ko.wikipedia.org/wiki/필라투스_PC-9 "wikilink") - 스위스산
+  - [필라투스 PC-7](../Page/필라투스_PC-7.md "wikilink") - 스위스산
+  - [필라투스 PC-9](../Page/필라투스_PC-9.md "wikilink") - 스위스산
   - [PZL-130 Orlik](https://ko.wikipedia.org/wiki/PZL-130_Orlik "wikilink")
-  - [T-6 텍산 II](https://ko.wikipedia.org/wiki/T-6_텍산_II "wikilink") - 미국산. [필라투스 PC-9을](https://ko.wikipedia.org/wiki/필라투스_PC-9 "wikilink") 개조한 것임
-  - [엠브라에르 EMB 312 투카노](https://ko.wikipedia.org/wiki/엠브라에르_EMB_312_투카노 "wikilink") - 브라질산
-  - [엠브라에르 EMB 314 슈퍼 투카노](https://ko.wikipedia.org/wiki/엠브라에르_EMB_314_슈퍼_투카노 "wikilink") - 브라질산
-  - [쇼트 투카노](https://ko.wikipedia.org/wiki/쇼트_투카노 "wikilink") - 영국산. 투카노를 라이센스 생산한 것임
+  - [T-6 텍산 II](../Page/T-6_텍산_II.md "wikilink") - 미국산. [필라투스 PC-9을](../Page/필라투스_PC-9.md "wikilink") 개조한 것임
+  - [엠브라에르 EMB 312 투카노](../Page/엠브라에르_EMB_312_투카노.md "wikilink") - 브라질산
+  - [엠브라에르 EMB 314 슈퍼 투카노](../Page/엠브라에르_EMB_314_슈퍼_투카노.md "wikilink") - 브라질산
+  - [쇼트 투카노](../Page/쇼트_투카노.md "wikilink") - 영국산. 투카노를 라이센스 생산한 것임
 
 ## 같이 보기
 
   - [KA-1](https://ko.wikipedia.org/wiki/KA-1 "wikilink") - KT-1을 전술통제기로 개조했다.
   - [XKT-1](https://ko.wikipedia.org/wiki/XKT-1 "wikilink") - 수출용 KT-1 개량형.
-  - [T-50 골든이글](https://ko.wikipedia.org/wiki/T-50_골든이글 "wikilink")
-  - [대한민국 공군](https://ko.wikipedia.org/wiki/대한민국_공군 "wikilink")
+  - [T-50 골든이글](../Page/T-50_골든이글.md "wikilink")
+  - [대한민국 공군](../Page/대한민국_공군.md "wikilink")
 
 [분류:대한민국의 훈련기](https://ko.wikipedia.org/wiki/분류:대한민국의_훈련기 "wikilink") [분류:대한민국의 군용기](https://ko.wikipedia.org/wiki/분류:대한민국의_군용기 "wikilink") [분류:대한민국의 항공기](https://ko.wikipedia.org/wiki/분류:대한민국의_항공기 "wikilink") [분류:1991년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1991년_첫_비행한_항공기 "wikilink")
 

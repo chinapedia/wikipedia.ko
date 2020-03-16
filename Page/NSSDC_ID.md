@@ -15,7 +15,7 @@
 
 해당 인공위성의 NSSDC ID를 찾으려면, 구글에서 "NSSDC 영어인공위성이름" 또는 "SPACEWARN Bulletin 영어인공위성이름"을 검색하면 NSSDC에서 게시하는 SPACEWARN Bulletin의 정보가 나온다.
 
-예를 들어서, 대한민국 최초의 인공위성인 [우리별 1호의](../Page/우리별_1호.md "wikilink") NSSDC ID는 1992-052B이다. 이것은 \[[https://web.archive.org/web/20090425022642/http://nssdc.gsfc.nasa.gov/nmc/masterCatalog.do?sc=1992-052B\]에](https://web.archive.org/web/20090425022642/http://nssdc.gsfc.nasa.gov/nmc/masterCatalog.do?sc=1992-052B%5D에) 정보가 있으며, URL 링크의 마지막에 ID 번호를 입력하면 해당 인공위성에 대한 발사일, 발사장소, [발사체](https://ko.wikipedia.org/wiki/발사체 "wikilink"), 경사각, [원지점](https://ko.wikipedia.org/wiki/원지점 "wikilink"), [근지점](https://ko.wikipedia.org/wiki/근지점 "wikilink"), 주기, [이심률](https://ko.wikipedia.org/wiki/이심률 "wikilink") 등의 정보가 나온다.
+예를 들어서, 대한민국 최초의 인공위성인 [우리별 1호의](../Page/우리별_1호.md "wikilink") NSSDC ID는 1992-052B이다. 이것은 \[[https://web.archive.org/web/20090425022642/http://nssdc.gsfc.nasa.gov/nmc/masterCatalog.do?sc=1992-052B\]에](https://web.archive.org/web/20090425022642/http://nssdc.gsfc.nasa.gov/nmc/masterCatalog.do?sc=1992-052B%5D에) 정보가 있으며, URL 링크의 마지막에 ID 번호를 입력하면 해당 인공위성에 대한 발사일, 발사장소, [발사체](../Page/발사체.md "wikilink"), 경사각, [원지점](https://ko.wikipedia.org/wiki/원지점 "wikilink"), [근지점](https://ko.wikipedia.org/wiki/근지점 "wikilink"), 주기, [이심률](https://ko.wikipedia.org/wiki/이심률 "wikilink") 등의 정보가 나온다.
 
 ## 외부 링크
 

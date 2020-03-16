@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [=SmackSoft](https://ko.wikipedia.org/wiki/=SmackSoft).
 
 
-**황보령=SmackSoft**는 [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink")에 [황보령](../Page/황보령.md "wikilink")이 결성한 [음악 그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink").
+**황보령=SmackSoft**는 [2000년](../Page/2000년.md "wikilink")에 [황보령](../Page/황보령.md "wikilink")이 결성한 [음악 그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink").
 
 ## 구성원
 
-  - [황보령](../Page/황보령.md "wikilink") ([보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), [기타](https://ko.wikipedia.org/wiki/기타 "wikilink"))
-  - 양승현([기타](https://ko.wikipedia.org/wiki/기타 "wikilink"))
-  - 신지용 ([베이스](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink"))
+  - [황보령](../Page/황보령.md "wikilink") ([보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), [기타](../Page/기타.md "wikilink"))
+  - 양승현([기타](../Page/기타.md "wikilink"))
+  - 신지용 ([베이스](../Page/베이스_기타.md "wikilink"))
   - 송하람 ([키보드](https://ko.wikipedia.org/wiki/건반_악기 "wikilink"))
   - DeAnthony Nelson Jr. ([드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink"))
 
@@ -19,7 +19,7 @@
 2.  황보령=SmackSoft 5집 [Follow your Heart](https://ko.wikipedia.org/wiki/Follow_your_Heart "wikilink") (2012년 11월)
 3.  황보령=SmackSoft 4집 [Mana Wind](https://ko.wikipedia.org/wiki/MANA_WiND "wikilink") (2010년 12월)
 4.  황보령=SmackSoft 3집 [Shines in the Dark (Collective Edition](https://ko.wikipedia.org/wiki/Shines_in_the_Dark_Collective_Edition "wikilink")) (2009년 12월)
-5.  황보령=SmackSoft 3집 [Shines in the Dark](https://ko.wikipedia.org/wiki/Shines_in_the_Dark "wikilink") (2009년 4월)
+5.  황보령=SmackSoft 3집 [Shines in the Dark](../Page/Shines_in_the_Dark.md "wikilink") (2009년 4월)
 6.  황보령 2집 [태양륜](https://ko.wikipedia.org/wiki/태양륜 "wikilink") (2001년 10월)
 7.  황보령 1집 [귀가 세 개 달린 곤양이](../Page/귀가_세_개_달린_곤양이.md "wikilink") (1998년 7월)
 

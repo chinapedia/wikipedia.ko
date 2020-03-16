@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [A Momentary Lapse of Reason](https://ko.wikipedia.org/wiki/A_Momentary_Lapse_of_Reason).
 
 
-***A Momentary Lapse of Reason***은 [핑크 플로이드의](https://ko.wikipedia.org/wiki/핑크_플로이드 "wikilink") 1987년 음반으로, 로저 워터스의 1985년 밴드 탈퇴 이후에 처음으로 발매한 음반이다. 미국과 영국 차트에서 3위를 기록하였다. 영국과 유럽 지역에서는 [EMI](https://ko.wikipedia.org/wiki/EMI "wikilink"), 다른 지역에서는 [콜럼비아 레코드를](https://ko.wikipedia.org/wiki/콜럼비아_레코드 "wikilink") 통해 발매되었다.
+***A Momentary Lapse of Reason***은 [핑크 플로이드의](../Page/핑크_플로이드.md "wikilink") 1987년 음반으로, 로저 워터스의 1985년 밴드 탈퇴 이후에 처음으로 발매한 음반이다. 미국과 영국 차트에서 3위를 기록하였다. 영국과 유럽 지역에서는 [EMI](../Page/EMI.md "wikilink"), 다른 지역에서는 [콜럼비아 레코드를](https://ko.wikipedia.org/wiki/콜럼비아_레코드 "wikilink") 통해 발매되었다.
 
 ## 곡 목록
 

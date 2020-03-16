@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [HIStory: Past, Present and Future, Book I](https://ko.wikipedia.org/wiki/HIStory:_Past,_Present_and_Future,_Book_I).
 
 
-《***HIStory: Past, Present and Future, Book I***》는 [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [6월 20일에](https://ko.wikipedia.org/wiki/6월_20일 "wikilink") 발매된 미국의 가수 [마이클 잭슨의](https://ko.wikipedia.org/wiki/마이클_잭슨 "wikilink") 9번째 스튜디오 음반이다. 이 음반에는 히트곡 모음 CD 1장과 신곡 CD 1장으로 나뉘어 있으며, 2CD가 한 세트이다. 이 음반은 2000만장 이상이 판매됐다.
+《***HIStory: Past, Present and Future, Book I***》는 [1995년](../Page/1995년.md "wikilink") [6월 20일에](../Page/6월_20일.md "wikilink") 발매된 미국의 가수 [마이클 잭슨의](https://ko.wikipedia.org/wiki/마이클_잭슨 "wikilink") 9번째 스튜디오 음반이다. 이 음반에는 히트곡 모음 CD 1장과 신곡 CD 1장으로 나뉘어 있으며, 2CD가 한 세트이다. 이 음반은 2000만장 이상이 판매됐다.
 
 ## 특징
 
-  - 2CD의 첫곡 Scream은 마이클의 동생인 [자넷 잭슨과](https://ko.wikipedia.org/wiki/자넷_잭슨 "wikilink") 같이 호흡한 곡이다. [뮤직 비디오도](https://ko.wikipedia.org/wiki/뮤직_비디오 "wikilink") 존재하는데, [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") 현재까지도 가장 비싼 제작비(700백만 달러)를 들인 뮤직 비디오이다.\[1\]
+  - 2CD의 첫곡 Scream은 마이클의 동생인 [자넷 잭슨과](../Page/자넷_잭슨.md "wikilink") 같이 호흡한 곡이다. [뮤직 비디오도](../Page/뮤직_비디오.md "wikilink") 존재하는데, [2019년](../Page/2019년.md "wikilink") 현재까지도 가장 비싼 제작비(700백만 달러)를 들인 뮤직 비디오이다.\[1\]
 
 ## 히트곡CD - HIStory Begins 재발매
 
@@ -15,7 +15,7 @@
 
 ### Disc 1 : HIStory Begins
 
-1.  [Billie Jean](https://ko.wikipedia.org/wiki/Billie_Jean "wikilink")
+1.  [Billie Jean](../Page/Billie_Jean.md "wikilink")
 2.  [The Way You Make Me Feel](https://ko.wikipedia.org/wiki/The_Way_You_Make_Me_Feel "wikilink")
 3.  [Black or White](https://ko.wikipedia.org/wiki/Black_or_White "wikilink")
 4.  [Rock with you](https://ko.wikipedia.org/wiki/Rock_with_you "wikilink")

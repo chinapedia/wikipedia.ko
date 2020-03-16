@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [SBS  ](https://ko.wikipedia.org/wiki/SBS__).
 
 
-[썸네일](https://ko.wikipedia.org/wiki/파일:SBS_News_logo.png "wikilink") **[SBS의](https://ko.wikipedia.org/wiki/SBS_\(대한민국의_방송사\) "wikilink") 뉴스 프로그램**은 다음과 같다.
+[썸네일](https://ko.wikipedia.org/wiki/파일:SBS_News_logo.png "wikilink") **[SBS의](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 뉴스 프로그램**은 다음과 같다.
 
 ## 방송 프로그램
 
 ### [SBS TV](../Page/SBS_TV.md "wikilink")
 
-  - SBS TV는 모든 뉴스들은 방송화면의 하단 왼쪽이나 하단 오른쪽에 뉴스 프로그램의 로고를 표시하고 있다. 이 중 [모닝와이드 1, 2부는](../Page/모닝와이드.md "wikilink") 방송화면의 하단 왼쪽에 뉴스 프로그램의 명칭이 적힌 주황색 직사각형 모양의 로고를, [SBS 뉴스 (1010)](../Page/SBS_뉴스_\(1010\).md "wikilink"), [SBS 12 뉴스](https://ko.wikipedia.org/wiki/SBS_12_뉴스 "wikilink"), [SBS 뉴스 (주말)](../Page/SBS_뉴스_\(주말\).md "wikilink"), [SBS 뉴스특보는](../Page/SBS_뉴스특보.md "wikilink") 방송화면의 하단 왼쪽에 <span style="color:#0000ff;">**SBS NEWS**</span>라는 영어 명칭이 적힌 파란색 직사각형 모양의 로고를, [주영진의 뉴스브리핑은](../Page/주영진의_뉴스브리핑.md "wikilink") 뉴스 자막을 띄울 때만 방송화면의 하단 왼쪽에 뉴스 프로그램의 명칭이 적힌 남색 직사각형 모양의 로고를, [SBS 오 뉴스는](https://ko.wikipedia.org/wiki/SBS_오_뉴스 "wikilink") 방송화면의 하단 왼쪽에 뉴스 프로그램의 명칭이 적힌 청록색 마름모 모양의 로고를, [SBS 8 뉴스는](../Page/SBS_8_뉴스.md "wikilink") 방송화면의 하단 왼쪽에 뉴스 프로그램의 명칭이 적힌 파란색 직사각형 모양의 로고를, [SBS 나이트라인은](../Page/SBS_나이트라인.md "wikilink") 방송화면의 하단 왼쪽에 뉴스 프로그램의 명칭이 적힌 남색 직사각형 모양의 로고를 표시하고 있다. 또한, [모닝와이드 1, 2부](../Page/모닝와이드.md "wikilink"), [SBS 뉴스 (1010)](../Page/SBS_뉴스_\(1010\).md "wikilink"), [SBS 12 뉴스](https://ko.wikipedia.org/wiki/SBS_12_뉴스 "wikilink"), [SBS 8 뉴스](../Page/SBS_8_뉴스.md "wikilink"), [SBS 나이트라인](../Page/SBS_나이트라인.md "wikilink"), [SBS 뉴스 (주말)](../Page/SBS_뉴스_\(주말\).md "wikilink"), [SBS 뉴스특보는](../Page/SBS_뉴스특보.md "wikilink") 메인 스튜디오에서 진행을 하고 있고, [주영진의 뉴스브리핑](../Page/주영진의_뉴스브리핑.md "wikilink"), [SBS 오 뉴스는](https://ko.wikipedia.org/wiki/SBS_오_뉴스 "wikilink") [주영진의 뉴스브리핑](../Page/주영진의_뉴스브리핑.md "wikilink") 전용 스튜디오에서 진행을 하고 있으며, [SBS 파워 스포츠](../Page/SBS_파워_스포츠.md "wikilink"), [SBS 스포츠뉴스는](../Page/SBS_스포츠뉴스.md "wikilink") 메인 스튜디오 우측에 있는 제2 스튜디오에서 진행을 하고 있다. 특히 [SBS 뉴스특보는](../Page/SBS_뉴스특보.md "wikilink") [주영진의 뉴스브리핑](../Page/주영진의_뉴스브리핑.md "wikilink") 전용 스튜디오에서도 진행을 하고 있다.\[1\]\[2\]
-  - [SBS의](https://ko.wikipedia.org/wiki/SBS_\(대한민국의_방송사\) "wikilink") [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") 새해 개편으로 인해 [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [1월 2일부터](https://ko.wikipedia.org/wiki/1월_2일 "wikilink") 새로운 메인 스튜디오 공사에 들어감에 따라 같은 해 [1월 29일까지](https://ko.wikipedia.org/wiki/1월_29일 "wikilink") [모닝와이드 1, 2부](../Page/모닝와이드.md "wikilink"), [SBS 뉴스 (1010)](../Page/SBS_뉴스_\(1010\).md "wikilink"), [SBS 12 뉴스](https://ko.wikipedia.org/wiki/SBS_12_뉴스 "wikilink"), [SBS 8 뉴스](../Page/SBS_8_뉴스.md "wikilink"), [SBS 나이트라인](../Page/SBS_나이트라인.md "wikilink"), [SBS 뉴스 (주말)](../Page/SBS_뉴스_\(주말\).md "wikilink"), [SBS 뉴스특보는](../Page/SBS_뉴스특보.md "wikilink") [주영진의 뉴스브리핑과](../Page/주영진의_뉴스브리핑.md "wikilink") [SBS 오 뉴스와](https://ko.wikipedia.org/wiki/SBS_오_뉴스 "wikilink") 함께 [주영진의 뉴스브리핑](../Page/주영진의_뉴스브리핑.md "wikilink") 전용 스튜디오에서 임시로 진행하였다.
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [7월 24일부터](https://ko.wikipedia.org/wiki/7월_24일 "wikilink") [주영진의 뉴스브리핑](../Page/주영진의_뉴스브리핑.md "wikilink") 전용 스튜디오 UHD 장비 설치 공사에 들어감에 따라 같은 해 [9월 29일까지](https://ko.wikipedia.org/wiki/9월_29일 "wikilink") [주영진의 뉴스브리핑은](../Page/주영진의_뉴스브리핑.md "wikilink") [모닝와이드 1, 2부](../Page/모닝와이드.md "wikilink"), [SBS 오 뉴스](https://ko.wikipedia.org/wiki/SBS_오_뉴스 "wikilink"), [SBS 8 뉴스](../Page/SBS_8_뉴스.md "wikilink"), [SBS 나이트라인](../Page/SBS_나이트라인.md "wikilink"), [SBS 뉴스특보와](../Page/SBS_뉴스특보.md "wikilink") 함께 메인 스튜디오에서 임시로 진행하였다.
+  - SBS TV는 모든 뉴스들은 방송화면의 하단 왼쪽이나 하단 오른쪽에 뉴스 프로그램의 로고를 표시하고 있다. 이 중 [모닝와이드 1, 2부는](../Page/모닝와이드.md "wikilink") 방송화면의 하단 왼쪽에 뉴스 프로그램의 명칭이 적힌 주황색 직사각형 모양의 로고를, [SBS 뉴스 (1010)](../Page/SBS_뉴스_\(1010\).md "wikilink"), [SBS 12 뉴스](../Page/SBS_12_뉴스.md "wikilink"), [SBS 뉴스 (주말)](../Page/SBS_뉴스_\(주말\).md "wikilink"), [SBS 뉴스특보는](../Page/SBS_뉴스특보.md "wikilink") 방송화면의 하단 왼쪽에 <span style="color:#0000ff;">**SBS NEWS**</span>라는 영어 명칭이 적힌 파란색 직사각형 모양의 로고를, [주영진의 뉴스브리핑은](../Page/주영진의_뉴스브리핑.md "wikilink") 뉴스 자막을 띄울 때만 방송화면의 하단 왼쪽에 뉴스 프로그램의 명칭이 적힌 남색 직사각형 모양의 로고를, [SBS 오 뉴스는](../Page/SBS_오_뉴스.md "wikilink") 방송화면의 하단 왼쪽에 뉴스 프로그램의 명칭이 적힌 청록색 마름모 모양의 로고를, [SBS 8 뉴스는](../Page/SBS_8_뉴스.md "wikilink") 방송화면의 하단 왼쪽에 뉴스 프로그램의 명칭이 적힌 파란색 직사각형 모양의 로고를, [SBS 나이트라인은](../Page/SBS_나이트라인.md "wikilink") 방송화면의 하단 왼쪽에 뉴스 프로그램의 명칭이 적힌 남색 직사각형 모양의 로고를 표시하고 있다. 또한, [모닝와이드 1, 2부](../Page/모닝와이드.md "wikilink"), [SBS 뉴스 (1010)](../Page/SBS_뉴스_\(1010\).md "wikilink"), [SBS 12 뉴스](../Page/SBS_12_뉴스.md "wikilink"), [SBS 8 뉴스](../Page/SBS_8_뉴스.md "wikilink"), [SBS 나이트라인](../Page/SBS_나이트라인.md "wikilink"), [SBS 뉴스 (주말)](../Page/SBS_뉴스_\(주말\).md "wikilink"), [SBS 뉴스특보는](../Page/SBS_뉴스특보.md "wikilink") 메인 스튜디오에서 진행을 하고 있고, [주영진의 뉴스브리핑](../Page/주영진의_뉴스브리핑.md "wikilink"), [SBS 오 뉴스는](../Page/SBS_오_뉴스.md "wikilink") [주영진의 뉴스브리핑](../Page/주영진의_뉴스브리핑.md "wikilink") 전용 스튜디오에서 진행을 하고 있으며, [SBS 파워 스포츠](../Page/SBS_파워_스포츠.md "wikilink"), [SBS 스포츠뉴스는](../Page/SBS_스포츠뉴스.md "wikilink") 메인 스튜디오 우측에 있는 제2 스튜디오에서 진행을 하고 있다. 특히 [SBS 뉴스특보는](../Page/SBS_뉴스특보.md "wikilink") [주영진의 뉴스브리핑](../Page/주영진의_뉴스브리핑.md "wikilink") 전용 스튜디오에서도 진행을 하고 있다.\[1\]\[2\]
+  - [SBS의](../Page/SBS_\(대한민국의_방송사\).md "wikilink") [2017년](../Page/2017년.md "wikilink") 새해 개편으로 인해 [2017년](../Page/2017년.md "wikilink") [1월 2일부터](../Page/1월_2일.md "wikilink") 새로운 메인 스튜디오 공사에 들어감에 따라 같은 해 [1월 29일까지](../Page/1월_29일.md "wikilink") [모닝와이드 1, 2부](../Page/모닝와이드.md "wikilink"), [SBS 뉴스 (1010)](../Page/SBS_뉴스_\(1010\).md "wikilink"), [SBS 12 뉴스](../Page/SBS_12_뉴스.md "wikilink"), [SBS 8 뉴스](../Page/SBS_8_뉴스.md "wikilink"), [SBS 나이트라인](../Page/SBS_나이트라인.md "wikilink"), [SBS 뉴스 (주말)](../Page/SBS_뉴스_\(주말\).md "wikilink"), [SBS 뉴스특보는](../Page/SBS_뉴스특보.md "wikilink") [주영진의 뉴스브리핑과](../Page/주영진의_뉴스브리핑.md "wikilink") [SBS 오 뉴스와](../Page/SBS_오_뉴스.md "wikilink") 함께 [주영진의 뉴스브리핑](../Page/주영진의_뉴스브리핑.md "wikilink") 전용 스튜디오에서 임시로 진행하였다.
+  - [2017년](../Page/2017년.md "wikilink") [7월 24일부터](../Page/7월_24일.md "wikilink") [주영진의 뉴스브리핑](../Page/주영진의_뉴스브리핑.md "wikilink") 전용 스튜디오 UHD 장비 설치 공사에 들어감에 따라 같은 해 [9월 29일까지](../Page/9월_29일.md "wikilink") [주영진의 뉴스브리핑은](../Page/주영진의_뉴스브리핑.md "wikilink") [모닝와이드 1, 2부](../Page/모닝와이드.md "wikilink"), [SBS 오 뉴스](../Page/SBS_오_뉴스.md "wikilink"), [SBS 8 뉴스](../Page/SBS_8_뉴스.md "wikilink"), [SBS 나이트라인](../Page/SBS_나이트라인.md "wikilink"), [SBS 뉴스특보와](../Page/SBS_뉴스특보.md "wikilink") 함께 메인 스튜디오에서 임시로 진행하였다.
   - 뉴스 프로그램들과 달리 SBS TV의 방송 시간 내내 화면 왼쪽 혹은 오른쪽 상단의 인터넷 다시보기의 SBS 로고를 띄운다.
   - 프로그램 목록은 2020년 4월 27일을 기준으로 한다.
 
@@ -42,14 +42,14 @@
 <td><p><a href="../Page/SBS_뉴스_(1010).md" title="wikilink">SBS 뉴스 (1010)</a></p></td>
 <td><p>평일 20분</p></td>
 <td><p>평일 오전 10시 10분 ~ 10시 30분</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/손범규" title="wikilink">손범규</a>, <a href="../Page/박은경_(아나운서).md" title="wikilink">박은경</a></p></td>
+<td><p><a href="../Page/손범규.md" title="wikilink">손범규</a>, <a href="../Page/박은경_(아나운서).md" title="wikilink">박은경</a></p></td>
 <td><p>X</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/SBS_12_뉴스" title="wikilink">SBS 12 뉴스</a></p></td>
+<td><p><a href="../Page/SBS_12_뉴스.md" title="wikilink">SBS 12 뉴스</a></p></td>
 <td><p>평일 50분</p></td>
 <td><p>평일 낮 12시 ~ 12시 50분</p></td>
-<td><p><a href="../Page/박상도.md" title="wikilink">박상도</a>, <a href="https://ko.wikipedia.org/wiki/김소원_(아나운서)" title="wikilink">김소원</a></p></td>
+<td><p><a href="../Page/박상도.md" title="wikilink">박상도</a>, <a href="../Page/김소원_(아나운서).md" title="wikilink">김소원</a></p></td>
 <td><p>X</p></td>
 </tr>
 <tr class="even">
@@ -60,7 +60,7 @@
 <td><p>UHD-Live</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/SBS_오_뉴스" title="wikilink">SBS 오 뉴스</a></p></td>
+<td><p><a href="../Page/SBS_오_뉴스.md" title="wikilink">SBS 오 뉴스</a></p></td>
 <td><p>평일 1시간</p></td>
 <td><p>평일 오후 5시 ~ 저녁 6시</p></td>
 <td><p>메인 : <a href="../Page/한수진_(1969년).md" title="wikilink">한수진</a><br />
@@ -76,7 +76,7 @@
 <ul>
 <li><strong>편성시간 : <a href="../Page/SBS_스포츠뉴스.md" title="wikilink">SBS 스포츠뉴스</a> - 평일 저녁 8시 45분 ~ 8시 55분, 주말 저녁 8시 35분 ~ 8시 45분</strong></li>
 </ul></td>
-<td><p>평일 : <a href="../Page/김현우_(기자).md" title="wikilink">김현우</a>, <a href="https://ko.wikipedia.org/wiki/최혜림" title="wikilink">최혜림</a><br />
+<td><p>평일 : <a href="../Page/김현우_(기자).md" title="wikilink">김현우</a>, <a href="../Page/최혜림.md" title="wikilink">최혜림</a><br />
 주말 : <a href="https://ko.wikipedia.org/wiki/김범주_(기자)" title="wikilink">김범주</a>, <a href="../Page/김민형_(아나운서).md" title="wikilink">김민형</a><br />
 평일 <a href="../Page/SBS_스포츠뉴스.md" title="wikilink">SBS 스포츠뉴스</a> : <a href="../Page/김윤상.md" title="wikilink">김윤상</a><br />
 주말 <a href="../Page/SBS_스포츠뉴스.md" title="wikilink">SBS 스포츠뉴스</a> : <a href="../Page/주시은.md" title="wikilink">주시은</a></p></td>
@@ -119,11 +119,11 @@
 
 #### 지역 뉴스 편성
 
-[모닝와이드 1, 2부](../Page/모닝와이드.md "wikilink"), [SBS 뉴스 (1010)](../Page/SBS_뉴스_\(1010\).md "wikilink"), [SBS 12 뉴스](https://ko.wikipedia.org/wiki/SBS_12_뉴스 "wikilink"), [SBS 오 뉴스](https://ko.wikipedia.org/wiki/SBS_오_뉴스 "wikilink"), [SBS 8 뉴스에서](../Page/SBS_8_뉴스.md "wikilink") 방영된다.
+[모닝와이드 1, 2부](../Page/모닝와이드.md "wikilink"), [SBS 뉴스 (1010)](../Page/SBS_뉴스_\(1010\).md "wikilink"), [SBS 12 뉴스](../Page/SBS_12_뉴스.md "wikilink"), [SBS 오 뉴스](../Page/SBS_오_뉴스.md "wikilink"), [SBS 8 뉴스에서](../Page/SBS_8_뉴스.md "wikilink") 방영된다.
 
 #### 공휴일 일부 뉴스 편성 제외
 
-[SBS 뉴스 (1010)](../Page/SBS_뉴스_\(1010\).md "wikilink"), [주영진의 뉴스브리핑은](../Page/주영진의_뉴스브리핑.md "wikilink") [공휴일에는](https://ko.wikipedia.org/wiki/대한민국의_공휴일 "wikilink") 편성되지 않고, [SBS 12 뉴스](https://ko.wikipedia.org/wiki/SBS_12_뉴스 "wikilink"), [SBS 오 뉴스는](https://ko.wikipedia.org/wiki/SBS_오_뉴스 "wikilink") 10분간 **SBS 뉴스**로 대체 편성된다.
+[SBS 뉴스 (1010)](../Page/SBS_뉴스_\(1010\).md "wikilink"), [주영진의 뉴스브리핑은](../Page/주영진의_뉴스브리핑.md "wikilink") [공휴일에는](../Page/대한민국의_공휴일.md "wikilink") 편성되지 않고, [SBS 12 뉴스](../Page/SBS_12_뉴스.md "wikilink"), [SBS 오 뉴스는](../Page/SBS_오_뉴스.md "wikilink") 10분간 **SBS 뉴스**로 대체 편성된다.
 
 ### [SBS 러브FM](../Page/SBS_러브FM.md "wikilink")
 
@@ -187,5 +187,5 @@
 
 [\*](https://ko.wikipedia.org/wiki/분류:SBS의_뉴스_텔레비전_프로그램 "wikilink") [\*](https://ko.wikipedia.org/wiki/분류:SBS의_뉴스_라디오_프로그램 "wikilink")
 
-1.  단, [주영진의 뉴스브리핑의](../Page/주영진의_뉴스브리핑.md "wikilink") 앵커인 [주영진](https://ko.wikipedia.org/wiki/주영진 "wikilink") 선임기자나 [SBS 오 뉴스의](https://ko.wikipedia.org/wiki/SBS_오_뉴스 "wikilink") 앵커인 [한수진](https://ko.wikipedia.org/wiki/한수진 "wikilink") 선임기자가 진행할 경우에만 [주영진의 뉴스브리핑](../Page/주영진의_뉴스브리핑.md "wikilink") 전용 스튜디오에서 진행한다.
+1.  단, [주영진의 뉴스브리핑의](../Page/주영진의_뉴스브리핑.md "wikilink") 앵커인 [주영진](https://ko.wikipedia.org/wiki/주영진 "wikilink") 선임기자나 [SBS 오 뉴스의](../Page/SBS_오_뉴스.md "wikilink") 앵커인 [한수진](https://ko.wikipedia.org/wiki/한수진 "wikilink") 선임기자가 진행할 경우에만 [주영진의 뉴스브리핑](../Page/주영진의_뉴스브리핑.md "wikilink") 전용 스튜디오에서 진행한다.
 2.  다만, 최순실 국정조사 7차 청문회 때에는 [모닝와이드](../Page/모닝와이드.md "wikilink") 3부의 전용 스튜디오에서 진행했다.

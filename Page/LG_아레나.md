@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [LG ](https://ko.wikipedia.org/wiki/LG_).
 
 
-**LG 아레나**(, LG KM900)는 [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")가 2009년 3월에 출시한 [휴대 전화기이다](https://ko.wikipedia.org/wiki/휴대_전화기 "wikilink").
+**LG 아레나**(, LG KM900)는 [LG전자](../Page/LG전자.md "wikilink")가 2009년 3월에 출시한 [휴대 전화기이다](https://ko.wikipedia.org/wiki/휴대_전화기 "wikilink").
 
 ## 같이 보기
 
-  - [싸이언 아레나](https://ko.wikipedia.org/wiki/싸이언_아레나 "wikilink")
+  - [싸이언 아레나](../Page/싸이언_아레나.md "wikilink")
 
 ## 각주
 

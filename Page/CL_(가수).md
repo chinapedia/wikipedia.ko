@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [CL \(\)](https://ko.wikipedia.org/wiki/CL_\(\)).
 
 
-**CL**(본명:</small> **이채린**, 李彩麟, [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink") [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") \~ )은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [래퍼](https://ko.wikipedia.org/wiki/래퍼 "wikilink"), [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이다. 걸 그룹 [2NE1](../Page/2NE1.md "wikilink")의 리더였다. 대표곡으로는 "나쁜 기집애", "멘붕", "hello bitches" 등이 있다.
+**CL**(본명:</small> **이채린**, 李彩麟, [1991년](../Page/1991년.md "wikilink") [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") \~ )은 [대한민국](../Page/대한민국.md "wikilink")의 [래퍼](https://ko.wikipedia.org/wiki/래퍼 "wikilink"), [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이다. 걸 그룹 [2NE1](../Page/2NE1.md "wikilink")의 리더였다. 대표곡으로는 "나쁜 기집애", "멘붕", "hello bitches" 등이 있다.
 
 ## 생애
 
 [서울](https://ko.wikipedia.org/wiki/서울 "wikilink")에서 두 자매 중 첫째로 태어나 [물리학자](https://ko.wikipedia.org/wiki/물리학자 "wikilink")인 아버지([서강대학교](https://ko.wikipedia.org/wiki/서강대학교 "wikilink") 물리학과 이기진 교수\[1\])를 따라 2세 때부터 초등학교 2학년까지 [일본](../Page/일본.md "wikilink")에서 7년, [프랑스](../Page/프랑스.md "wikilink")에서 2년 등 여러 나라에서 생활하였다.\[2\] 어릴 때부터 하고 싶은 것을 할 수 있게 하는 자유 분방한 가족 분위기에서 자랐다. 태양열을 연구하는 물리학자였던 할아버지에게 공구 다루는 법을 배우기도 하고 중학교 때는 재즈 댄스도 배웠다고 한다.\[3\]
 
-2006년 데모를 만들어 [YG엔터테인먼트](https://ko.wikipedia.org/wiki/YG엔터테인먼트 "wikilink") 사옥 앞에서 무작정 기다리다가 문을 나서는 [양현석](../Page/양현석.md "wikilink")의 손에 [비욘세](../Page/비욘세.md "wikilink")의 노래를 부르는 영상을 담은 CD를 쥐어주며 "꼭 들어봐야 한다"라고 말했다.\[4\]\[5\]\[6\] 그날 바로 저녁에 합격통보받고 [YG엔터테인먼트](https://ko.wikipedia.org/wiki/YG엔터테인먼트 "wikilink")의 연습생이 되었다. 2007년에는 [YG엔터테인먼트](https://ko.wikipedia.org/wiki/YG엔터테인먼트 "wikilink") 소속 가수들과 함께 《[SBS 가요대전](https://ko.wikipedia.org/wiki/SBS_가요대전 "wikilink")》의 무대에서 자작랩을 불렀고, 이는 최초의 공중파 방송 출연이었다. 그리고 2년 후인 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink"), [2NE1](../Page/2NE1.md "wikilink")의 리더로 데뷔한다.
+2006년 데모를 만들어 [YG엔터테인먼트](https://ko.wikipedia.org/wiki/YG엔터테인먼트 "wikilink") 사옥 앞에서 무작정 기다리다가 문을 나서는 [양현석](../Page/양현석.md "wikilink")의 손에 [비욘세](../Page/비욘세.md "wikilink")의 노래를 부르는 영상을 담은 CD를 쥐어주며 "꼭 들어봐야 한다"라고 말했다.\[4\]\[5\]\[6\] 그날 바로 저녁에 합격통보받고 [YG엔터테인먼트](https://ko.wikipedia.org/wiki/YG엔터테인먼트 "wikilink")의 연습생이 되었다. 2007년에는 [YG엔터테인먼트](https://ko.wikipedia.org/wiki/YG엔터테인먼트 "wikilink") 소속 가수들과 함께 《[SBS 가요대전](../Page/SBS_가요대전.md "wikilink")》의 무대에서 자작랩을 불렀고, 이는 최초의 공중파 방송 출연이었다. 그리고 2년 후인 [2009년](../Page/2009년.md "wikilink"), [2NE1](../Page/2NE1.md "wikilink")의 리더로 데뷔한다.
 
 ## 2NE1 활동
 
@@ -44,14 +44,14 @@
 
 ### 피처링
 
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [YMGA](https://ko.wikipedia.org/wiki/YMGA "wikilink") - 《[What](https://ko.wikipedia.org/wiki/What_\(YMGA_음반\) "wikilink")》 - What
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [엄정화](https://ko.wikipedia.org/wiki/엄정화 "wikilink") - 《[D.I.S.C.O](https://ko.wikipedia.org/wiki/D.I.S.C.O "wikilink")》 - DJ
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [G-Dragon](https://ko.wikipedia.org/wiki/G-Dragon "wikilink") - 《[Heartbreaker](https://ko.wikipedia.org/wiki/Heartbreaker_\(지드래곤의_음반\) "wikilink")》 - The Leaders
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [산다라박](https://ko.wikipedia.org/wiki/산다라박 "wikilink") - 《[Kiss](https://ko.wikipedia.org/wiki/Kiss_\(박산다라의_노래\) "wikilink")》 - Kiss
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [skrillex](../Page/스크릴렉스.md "wikilink") - 《[Recess](https://ko.wikipedia.org/wiki/Recess "wikilink")》 - Dirty Vibe
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [Diplo](../Page/디플로.md "wikilink") - 《[Doctor Pepper](https://ko.wikipedia.org/wiki/Doctor_Pepper "wikilink")》 - Doctor Pepper
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [PSY](https://ko.wikipedia.org/wiki/PSY "wikilink") - 《[칠집싸이다](../Page/칠집싸이다.md "wikilink")》 - Daddy
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [Lil Yachty](https://ko.wikipedia.org/wiki/Lil_Yachty "wikilink") - 《[Teenage Emotions](https://ko.wikipedia.org/wiki/Teenage_Emotions "wikilink")》 - Surrender
+  - [2008년](../Page/2008년.md "wikilink") [YMGA](https://ko.wikipedia.org/wiki/YMGA "wikilink") - 《[What](https://ko.wikipedia.org/wiki/What_\(YMGA_음반\) "wikilink")》 - What
+  - [2008년](../Page/2008년.md "wikilink") [엄정화](../Page/엄정화.md "wikilink") - 《[D.I.S.C.O](../Page/D.I.S.C.O.md "wikilink")》 - DJ
+  - [2009년](../Page/2009년.md "wikilink") [G-Dragon](https://ko.wikipedia.org/wiki/G-Dragon "wikilink") - 《[Heartbreaker](https://ko.wikipedia.org/wiki/Heartbreaker_\(지드래곤의_음반\) "wikilink")》 - The Leaders
+  - [2009년](../Page/2009년.md "wikilink") [산다라박](https://ko.wikipedia.org/wiki/산다라박 "wikilink") - 《[Kiss](../Page/Kiss_\(박산다라의_노래\).md "wikilink")》 - Kiss
+  - [2014년](../Page/2014년.md "wikilink") [skrillex](../Page/스크릴렉스.md "wikilink") - 《[Recess](https://ko.wikipedia.org/wiki/Recess "wikilink")》 - Dirty Vibe
+  - [2015년](../Page/2015년.md "wikilink") [Diplo](../Page/디플로.md "wikilink") - 《[Doctor Pepper](https://ko.wikipedia.org/wiki/Doctor_Pepper "wikilink")》 - Doctor Pepper
+  - [2015년](../Page/2015년.md "wikilink") [PSY](https://ko.wikipedia.org/wiki/PSY "wikilink") - 《[칠집싸이다](../Page/칠집싸이다.md "wikilink")》 - Daddy
+  - [2017년](../Page/2017년.md "wikilink") [Lil Yachty](https://ko.wikipedia.org/wiki/Lil_Yachty "wikilink") - 《[Teenage Emotions](https://ko.wikipedia.org/wiki/Teenage_Emotions "wikilink")》 - Surrender
 
 ### OST
 
@@ -89,7 +89,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2013</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Mnet_20&#39;s_Choice" title="wikilink">Mnet 20's Choice</a></p></td>
+<td><p><a href="../Page/Mnet_20&#39;s_Choice.md" title="wikilink">Mnet 20's Choice</a></p></td>
 <td><p>20's 스타일</p></td>
 <td><p>본인</p></td>
 <td></td>
@@ -124,7 +124,7 @@
 </tr>
 <tr class="even">
 <td><p>2014</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/하이원_서울가요대상" title="wikilink">하이원 서울가요대상</a></p></td>
+<td><p><a href="../Page/하이원_서울가요대상.md" title="wikilink">하이원 서울가요대상</a></p></td>
 <td><p>본상</p></td>
 <td><p>"<a href="https://ko.wikipedia.org/wiki/나쁜_기집애" title="wikilink">나쁜 기집애</a>"</p></td>
 <td></td>
@@ -175,7 +175,7 @@
 <td><ul>
 <li>'''나쁜 기집애 (총 1회)
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/6월_9일" title="wikilink">6월 9일</a> <a href="../Page/SBS.md" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 1위</li>
+<li><a href="../Page/6월_9일.md" title="wikilink">6월 9일</a> <a href="../Page/SBS.md" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 1위</li>
 </ul></li>
 </ul></td>
 </tr>
@@ -191,7 +191,7 @@
 ## 함께 보기
 
   - [2NE1](../Page/2NE1.md "wikilink")
-  - [YG 엔터테인먼트](https://ko.wikipedia.org/wiki/YG_엔터테인먼트 "wikilink")
+  - [YG 엔터테인먼트](../Page/YG_엔터테인먼트.md "wikilink")
 
 ## 각주
 

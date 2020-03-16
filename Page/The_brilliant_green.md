@@ -9,10 +9,10 @@
 
 ## 구성원
 
-  - 가와세 도모코 (, [1975년](https://ko.wikipedia.org/wiki/1975년 "wikilink") [2월 6일](https://ko.wikipedia.org/wiki/2월_6일 "wikilink") - )
+  - 가와세 도모코 (, [1975년](../Page/1975년.md "wikilink") [2월 6일](../Page/2월_6일.md "wikilink") - )
       -
         [노래](https://ko.wikipedia.org/wiki/노래 "wikilink")와 [작사](https://ko.wikipedia.org/wiki/작사 "wikilink")를 담당하고 있으며, 토미 헤븐리<sup>6</sup>, 토미 페브러리<sup>6</sup>(Tommy february6)라는 이름으로 솔로 활동을 하기도 한다.
-  - 오쿠다 순사쿠 (, [1971년](https://ko.wikipedia.org/wiki/1971년 "wikilink") [7월 11일](https://ko.wikipedia.org/wiki/7월_11일 "wikilink") - )
+  - 오쿠다 순사쿠 (, [1971년](../Page/1971년.md "wikilink") [7월 11일](../Page/7월_11일.md "wikilink") - )
       -
         [일렉트릭 베이스와](https://ko.wikipedia.org/wiki/일렉트릭_베이스 "wikilink") [작곡](https://ko.wikipedia.org/wiki/작곡 "wikilink")을 맡고 있다.
 
@@ -20,9 +20,9 @@
 
 ### 이전 구성원
 
-  - 마쓰이 료 (, [1972년](https://ko.wikipedia.org/wiki/1972년 "wikilink") [2월 11일](https://ko.wikipedia.org/wiki/2월_11일 "wikilink") -)
+  - 마쓰이 료 (, [1972년](../Page/1972년.md "wikilink") [2월 11일](../Page/2월_11일.md "wikilink") -)
       -
-        [기타](https://ko.wikipedia.org/wiki/기타 "wikilink")와 작곡을 맡고 있었으나, 2010년 5월 10일 개인적인 사정으로 탈퇴했다. 'meister'라는 이름으로 솔로 활동 중이다.
+        [기타](../Page/기타.md "wikilink")와 작곡을 맡고 있었으나, 2010년 5월 10일 개인적인 사정으로 탈퇴했다. 'meister'라는 이름으로 솔로 활동 중이다.
 
 ## 내력
 

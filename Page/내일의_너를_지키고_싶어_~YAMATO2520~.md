@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [    \~YAMATO2520\~](https://ko.wikipedia.org/wiki/____\~YAMATO2520\~).
 
 
-《**明日の君を守りたい 〜YAMATO2520〜**》는, [TOKIO](https://ko.wikipedia.org/wiki/TOKIO "wikilink")의 두 번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
+《**明日の君を守りたい 〜YAMATO2520〜**》는, [TOKIO](../Page/TOKIO.md "wikilink")의 두 번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 설명
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Halt and Catch Fire](https://ko.wikipedia.org/wiki/Halt_and_Catch_Fire).
 
 
-**Halt and Catch Fire**는 니모닉(mnemonic) HCF라고 불리며 원래는 존재하지 않는 가공의 컴퓨터 [기계어](https://ko.wikipedia.org/wiki/기계어 "wikilink") 명령어였는데 "Execute Operator"같은 명령어들과 함께 [IBM](https://ko.wikipedia.org/wiki/IBM "wikilink")이 [System/360](https://ko.wikipedia.org/wiki/System/360 "wikilink")([IBM 시스템/360](https://ko.wikipedia.org/wiki/IBM_시스템/360 "wikilink"))에서 사용하기 위해 개발한 것으로 알려지고 있다.
+**Halt and Catch Fire**는 니모닉(mnemonic) HCF라고 불리며 원래는 존재하지 않는 가공의 컴퓨터 [기계어](../Page/기계어.md "wikilink") 명령어였는데 "Execute Operator"같은 명령어들과 함께 [IBM](../Page/IBM.md "wikilink")이 [System/360](https://ko.wikipedia.org/wiki/System/360 "wikilink")([IBM 시스템/360](https://ko.wikipedia.org/wiki/IBM_시스템/360 "wikilink"))에서 사용하기 위해 개발한 것으로 알려지고 있다.
 
 실제로 HCF는 이상한 효과를 가지거나 프로세서를 테스트하는 용도의 비공식(undocumented) 기계어를 의미한다. 오래된 "Halt and Catch Fire"와 HCF 니모닉은 사용자들이 의도하지 않은 명령어를 실행하는 방법으로 발견하였는데 이런 방법은 시스템의 실행을 실패하거나 멈추는 경우가 많았으며 이것을 은유적으로 "catch fire"라고 표현하였다.
 
@@ -9,16 +9,16 @@
 
 ## HCF의 발견
 
-[모토로라 6800에서](https://ko.wikipedia.org/wiki/모토로라_6800 "wikilink") HCF 오프코드(opcode)를 최초로 발견한 것으로 널리 알려져 있다. 6800 HCF 오프코드(0xDD 또는 0xD9)는 게리 윌러(Gerry Wheeler 1952–2006)가 발견해 1977년 12월 [바이트 매거진](https://ko.wikipedia.org/wiki/바이트_매거진 "wikilink")(BYTE magazine)에 비공개 오프코드로 기사화되었다.\[1\] 이 명령어는 프로세서가 제조시의 테스트 모드로 전환되어 명령어의 개입없이 끊임없이 메모리 주소를 바꾸어가며 메모리 읽기를 실행한다. 이것은 어드레스 버스를 [타이머](../Page/타이머.md "wikilink")로 작동하게 해서 [CPU의](https://ko.wikipedia.org/wiki/중앙_처리_장치 "wikilink") 모든 어드레스 라인을 재빨리 검사한다. 프로세서가 한번 테스트 모드로 전환되면 [인터럽트](../Page/인터럽트.md "wikilink")에 응답하지 않기 때문에 일반 작업을 실행하려면 리셋을 해야 한다.
+[모토로라 6800에서](https://ko.wikipedia.org/wiki/모토로라_6800 "wikilink") HCF 오프코드(opcode)를 최초로 발견한 것으로 널리 알려져 있다. 6800 HCF 오프코드(0xDD 또는 0xD9)는 게리 윌러(Gerry Wheeler 1952–2006)가 발견해 1977년 12월 [바이트 매거진](https://ko.wikipedia.org/wiki/바이트_매거진 "wikilink")(BYTE magazine)에 비공개 오프코드로 기사화되었다.\[1\] 이 명령어는 프로세서가 제조시의 테스트 모드로 전환되어 명령어의 개입없이 끊임없이 메모리 주소를 바꾸어가며 메모리 읽기를 실행한다. 이것은 어드레스 버스를 [타이머](../Page/타이머.md "wikilink")로 작동하게 해서 [CPU의](../Page/중앙_처리_장치.md "wikilink") 모든 어드레스 라인을 재빨리 검사한다. 프로세서가 한번 테스트 모드로 전환되면 [인터럽트](../Page/인터럽트.md "wikilink")에 응답하지 않기 때문에 일반 작업을 실행하려면 리셋을 해야 한다.
 
 ## HCF 오프코드가 확인된 프로세서
 
-  - [6502와](https://ko.wikipedia.org/wiki/MOS_6502 "wikilink") 일반적인 NMOS 650x, 651x 프로세서 시리즈<ref><http://www.easy68k.com/paulrsm/6502/AAL/AAL8103.TXT>
+  - [6502와](../Page/MOS_6502.md "wikilink") 일반적인 NMOS 650x, 651x 프로세서 시리즈<ref><http://www.easy68k.com/paulrsm/6502/AAL/AAL8103.TXT>
 
 `Apple Assembly Line Volume 1 Issue 6`</ref>
 
   - [6800](https://ko.wikipedia.org/wiki/모토로라_6800 "wikilink")\[2\]
-  - [MIPS-X](https://ko.wikipedia.org/wiki/MIPS-X "wikilink"): 프로그래머 매뉴얼에 NSA 버전 프로세서의 HSC (Halt and Spontaneously Combust) 명령어를 표기\[3\]
+  - [MIPS-X](../Page/MIPS-X.md "wikilink"): 프로그래머 매뉴얼에 NSA 버전 프로세서의 HSC (Halt and Spontaneously Combust) 명령어를 표기\[3\]
 
 ## 참조
 

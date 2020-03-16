@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [OCaml](https://ko.wikipedia.org/wiki/OCaml).
 
 
-**OCaml**(Objective Caml)은 [Caml](https://ko.wikipedia.org/wiki/Caml "wikilink") [프로그래밍 언어의](https://ko.wikipedia.org/wiki/프로그래밍_언어 "wikilink") 주요 구현체로서 [Xavier Leroy](https://ko.wikipedia.org/wiki/Xavier_Leroy "wikilink"), [Jérôme Vouillon](https://ko.wikipedia.org/wiki/Jérôme_Vouillon "wikilink"), [Damien Doligez](https://ko.wikipedia.org/wiki/Damien_Doligez "wikilink"), [Didier Rémy](https://ko.wikipedia.org/wiki/Didier_Rémy "wikilink") 등의 사람들이 1996년에 작성하였다. OCaml은 [INRIA에서](https://ko.wikipedia.org/wiki/Institut_National_de_Recherche_en_Informatique_et_en_Automatique "wikilink") 주도적으로 관리하고 유지하는 [오픈 소스](https://ko.wikipedia.org/wiki/오픈_소스 "wikilink") 프로젝트이다.
+**OCaml**(Objective Caml)은 [Caml](https://ko.wikipedia.org/wiki/Caml "wikilink") [프로그래밍 언어의](../Page/프로그래밍_언어.md "wikilink") 주요 구현체로서 [Xavier Leroy](https://ko.wikipedia.org/wiki/Xavier_Leroy "wikilink"), [Jérôme Vouillon](https://ko.wikipedia.org/wiki/Jérôme_Vouillon "wikilink"), [Damien Doligez](https://ko.wikipedia.org/wiki/Damien_Doligez "wikilink"), [Didier Rémy](https://ko.wikipedia.org/wiki/Didier_Rémy "wikilink") 등의 사람들이 1996년에 작성하였다. OCaml은 [INRIA에서](https://ko.wikipedia.org/wiki/Institut_National_de_Recherche_en_Informatique_et_en_Automatique "wikilink") 주도적으로 관리하고 유지하는 [오픈 소스](../Page/오픈_소스.md "wikilink") 프로젝트이다.
 
 OCaml은 Caml 언어의 핵심 부분에 [객체 지향](https://ko.wikipedia.org/wiki/객체_지향 "wikilink") 구조를 추가한 것이다.
 
 OCaml의 특징은 정적 타입 시스템, 타입 추론, 파라메트릭 폴리모피즘, 패턴 매칭, 펑터, 예외 처리, 쓰레기 수집 등이다.
 
-Ocaml 도구 모음에는 대화식의 톱 레벨(top level) [인터프리터](https://ko.wikipedia.org/wiki/인터프리터 "wikilink"), [바이트코드](../Page/바이트코드.md "wikilink") [컴파일러](https://ko.wikipedia.org/wiki/컴파일러 "wikilink"), 최적화 컴파일러 등이 포함되어 있다. 또한 많은 표준 라이브러리들이 포함되어 있고 탄탄한 모듈 방식 및 대형 소프트웨어에 적용 가능한 객체 지향 프로그래밍 구조 등을 가지고 있어서, [파이썬](https://ko.wikipedia.org/wiki/파이썬 "wikilink")이나 [펄](https://ko.wikipedia.org/wiki/펄 "wikilink")과 같은 언어들로 응용 프로그램을 작성해야 하는 경우에 Ocaml도 충분히 유용하게 사용할 수 있다.
+Ocaml 도구 모음에는 대화식의 톱 레벨(top level) [인터프리터](../Page/인터프리터.md "wikilink"), [바이트코드](../Page/바이트코드.md "wikilink") [컴파일러](../Page/컴파일러.md "wikilink"), 최적화 컴파일러 등이 포함되어 있다. 또한 많은 표준 라이브러리들이 포함되어 있고 탄탄한 모듈 방식 및 대형 소프트웨어에 적용 가능한 객체 지향 프로그래밍 구조 등을 가지고 있어서, [파이썬](../Page/파이썬.md "wikilink")이나 [펄](../Page/펄.md "wikilink")과 같은 언어들로 응용 프로그램을 작성해야 하는 경우에 Ocaml도 충분히 유용하게 사용할 수 있다.
 
 Ocaml은 [Caml Light를](https://ko.wikipedia.org/wiki/Caml_Light "wikilink") 계승하였다. CAML은 *Categorical Abstract Machine Language*의 머리글자이지만, Ocaml은 abstract machine(추상 기계) 기능을 삭제하였다.
 
@@ -58,7 +58,7 @@ let rec qsort = function
   - [OCaml-Java](http://ocamljava.x9c.fr/), OCaml for Java
   - [OCamIL](http://www.pps.jussieu.fr/~montela/ocamil/), [Microsoft .NET를](https://ko.wikipedia.org/wiki/.net "wikilink") 위한 Ocaml 컴파일러
   - [다양한 프로그래밍 언어의 속도 비교](https://web.archive.org/web/20120831065317/http://shootout.alioth.debian.org/) Ocaml의 결과도 있음
-  - [LablGL and LablGTK](http://wwwfun.kurims.kyoto-u.ac.jp/soft/olabl/) [OpenGL](../Page/OpenGL.md "wikilink")+ 바인딩 (LablGL) 및 [GTK+](https://ko.wikipedia.org/wiki/GTK+ "wikilink") 바인딩 (LablGTK)
+  - [LablGL and LablGTK](http://wwwfun.kurims.kyoto-u.ac.jp/soft/olabl/) [OpenGL](../Page/OpenGL.md "wikilink")+ 바인딩 (LablGL) 및 [GTK+](../Page/GTK+.md "wikilink") 바인딩 (LablGTK)
   - [MetaOCaml](https://web.archive.org/web/20130613174907/http://metaocaml.org/) 홈페이지
   - [GODI](http://godi.camlcity.org/godi/index.html) Ocaml을 위한 GODI 패키지 매니저
   - [OCamlcore Planet](http://planet.ocamlcore.org/) Ocaml 메타 블로그

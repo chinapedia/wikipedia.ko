@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [  2006 Season 2](https://ko.wikipedia.org/wiki/__2006_Season_2).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Shinhanseason2.png "wikilink") **신한은행 스타리그 2006 Season 2**은 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")에 진행된 [스타리그](https://ko.wikipedia.org/wiki/스타리그 "wikilink")이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Shinhanseason2.png "wikilink") **신한은행 스타리그 2006 Season 2**은 [2006년](../Page/2006년.md "wikilink")에 진행된 [스타리그](https://ko.wikipedia.org/wiki/스타리그 "wikilink")이다.
 
 ## 리그기간
 
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [8월 18일](https://ko.wikipedia.org/wiki/8월_18일 "wikilink") \~ [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [11월 18일](https://ko.wikipedia.org/wiki/11월_18일 "wikilink")
+  - [2006년](../Page/2006년.md "wikilink") [8월 18일](../Page/8월_18일.md "wikilink") \~ [2006년](../Page/2006년.md "wikilink") [11월 18일](../Page/11월_18일.md "wikilink")
 
 ## 리그컨셉
 
@@ -108,7 +108,7 @@
 | 조  | Match1                                                  | Match2                                                        | 승자전                                                     | 패자전                                                 | 최종전                                                     |
 | A조 | **[박성훈](https://ko.wikipedia.org/wiki/박성훈 "wikilink")** | [최가람](https://ko.wikipedia.org/wiki/최가람 "wikilink")           | **[안상원](https://ko.wikipedia.org/wiki/안상원 "wikilink")** | [김남기](https://ko.wikipedia.org/wiki/김남기 "wikilink") | **[안상원](https://ko.wikipedia.org/wiki/안상원 "wikilink")** |
 | B조 | **[김준영](https://ko.wikipedia.org/wiki/김준영 "wikilink")** | [박명수](../Page/박명수_\(프로게이머\).md "wikilink")                    | **[박지호](https://ko.wikipedia.org/wiki/박지호 "wikilink")** | [고인규](../Page/고인규.md "wikilink")                    | **[김준영](https://ko.wikipedia.org/wiki/김준영 "wikilink")** |
-| C조 | **[이성은](https://ko.wikipedia.org/wiki/이성은 "wikilink")** | [임요환](https://ko.wikipedia.org/wiki/임요환 "wikilink")           | **[김택용](../Page/김택용.md "wikilink")**                    | [박영훈](https://ko.wikipedia.org/wiki/박영훈 "wikilink") | **[이성은](https://ko.wikipedia.org/wiki/이성은 "wikilink")** |
+| C조 | **[이성은](https://ko.wikipedia.org/wiki/이성은 "wikilink")** | [임요환](../Page/임요환.md "wikilink")                              | **[김택용](../Page/김택용.md "wikilink")**                    | [박영훈](https://ko.wikipedia.org/wiki/박영훈 "wikilink") | **[이성은](https://ko.wikipedia.org/wiki/이성은 "wikilink")** |
 | D조 | **[서경종](../Page/서경종.md "wikilink")**                    | [강민](../Page/강민_\(프로게이머\).md "wikilink")                      | **[전상욱](https://ko.wikipedia.org/wiki/전상욱 "wikilink")** | [이윤열](../Page/이윤열.md "wikilink")                    | **[전상욱](https://ko.wikipedia.org/wiki/전상욱 "wikilink")** |
 | E조 | **[염보성](https://ko.wikipedia.org/wiki/염보성 "wikilink")** | [박재혁](https://ko.wikipedia.org/wiki/박재혁 "wikilink")           | **[오영종](../Page/오영종.md "wikilink")**                    | [변길섭](../Page/변길섭.md "wikilink")                    | **[오영종](../Page/오영종.md "wikilink")**                    |
 | F조 | **[이재황](https://ko.wikipedia.org/wiki/이재황 "wikilink")** | [이병민](https://ko.wikipedia.org/wiki/이병민 "wikilink")           | **[이유석](https://ko.wikipedia.org/wiki/이유석 "wikilink")** | [최연성](../Page/최연성.md "wikilink")                    | **[이재황](https://ko.wikipedia.org/wiki/이재황 "wikilink")** |

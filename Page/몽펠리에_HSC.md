@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ HSC](https://ko.wikipedia.org/wiki/_HSC).
 
 
-**몽펠리에 에로 스포르 클뢰브**()는 [프랑스](../Page/프랑스.md "wikilink")의 [몽펠리에](https://ko.wikipedia.org/wiki/몽펠리에 "wikilink")를 연고로 하는 [리그 1의](https://ko.wikipedia.org/wiki/리그_1 "wikilink") 축구 클럽이다. 본래의 클럽은 1919년에 창단되었지만 현재의 모습은 1974년 합병을 통해 세워진 것이다. 구단주는 루이 니콜랭(Louis Nicollin)이며, [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [5월 29일](https://ko.wikipedia.org/wiki/5월_29일 "wikilink") 홈 경기장인 [스타드 드 라 모송](../Page/스타드_드_라_모송.md "wikilink")(Stade de la Mosson)에서 [RC 스트라스부르를](../Page/RC_스트라스부르.md "wikilink") 2-1로 꺾고 [리그 1](https://ko.wikipedia.org/wiki/리그_1 "wikilink") 승격을 확정지었다.
+**몽펠리에 에로 스포르 클뢰브**()는 [프랑스](../Page/프랑스.md "wikilink")의 [몽펠리에](../Page/몽펠리에.md "wikilink")를 연고로 하는 [리그 1의](https://ko.wikipedia.org/wiki/리그_1 "wikilink") 축구 클럽이다. 본래의 클럽은 1919년에 창단되었지만 현재의 모습은 1974년 합병을 통해 세워진 것이다. 구단주는 루이 니콜랭(Louis Nicollin)이며, [2009년](../Page/2009년.md "wikilink") [5월 29일](../Page/5월_29일.md "wikilink") 홈 경기장인 [스타드 드 라 모송](../Page/스타드_드_라_모송.md "wikilink")(Stade de la Mosson)에서 [RC 스트라스부르를](../Page/RC_스트라스부르.md "wikilink") 2-1로 꺾고 [리그 1](https://ko.wikipedia.org/wiki/리그_1 "wikilink") 승격을 확정지었다.
 
-이 팀을 거쳐간 유명 선수로는 [로랑 블랑](../Page/로랑_블랑.md "wikilink"), [에리크 캉토나](https://ko.wikipedia.org/wiki/에리크_캉토나 "wikilink"), [카를로스 발데라마](../Page/카를로스_발데라마.md "wikilink"), [알료사 아사노비치](https://ko.wikipedia.org/wiki/알료사_아사노비치 "wikilink"), [로제 밀라](../Page/로제_밀라.md "wikilink") 등이 있다. [2011-12](../Page/리그_1_2011-12.md "wikilink") 시즌 모두의 예상을 깨고 첫 우승을 달성하며 이변의 주인공이 되었다.
+이 팀을 거쳐간 유명 선수로는 [로랑 블랑](../Page/로랑_블랑.md "wikilink"), [에리크 캉토나](../Page/에리크_캉토나.md "wikilink"), [카를로스 발데라마](../Page/카를로스_발데라마.md "wikilink"), [알료사 아사노비치](https://ko.wikipedia.org/wiki/알료사_아사노비치 "wikilink"), [로제 밀라](../Page/로제_밀라.md "wikilink") 등이 있다. [2011-12](../Page/리그_1_2011-12.md "wikilink") 시즌 모두의 예상을 깨고 첫 우승을 달성하며 이변의 주인공이 되었다.
 
 ## 선수
 

@@ -7,15 +7,15 @@
 
 ## 대한민국
 
-[1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink") [2월 23일](https://ko.wikipedia.org/wiki/2월_23일 "wikilink"), 미국 벤자민 로젠탈 하원의원(민주당, 뉴욕 주)은 하원 청문회에서 한국이 A-10 구매 의사가 있는지를 물었고, 브라운 국방장관은 한국은 [근접항공지원](https://ko.wikipedia.org/wiki/근접항공지원 "wikilink") 공격기 구매를 원하지만, A-10(23톤)인지 A-7(19톤)인지는 모르겠다고 답변했다.\[1\]
+[1978년](../Page/1978년.md "wikilink") [2월 23일](../Page/2월_23일.md "wikilink"), 미국 벤자민 로젠탈 하원의원(민주당, 뉴욕 주)은 하원 청문회에서 한국이 A-10 구매 의사가 있는지를 물었고, 브라운 국방장관은 한국은 [근접항공지원](https://ko.wikipedia.org/wiki/근접항공지원 "wikilink") 공격기 구매를 원하지만, A-10(23톤)인지 A-7(19톤)인지는 모르겠다고 답변했다.\[1\]
 
-1978년에 대한민국은 미국측에 [랜스 미사일과](https://ko.wikipedia.org/wiki/랜스_미사일 "wikilink") A-7E 콜세어 공격기(19톤)를 제공해 달라고 요청했으나, 미국이 거부했다. 1978년 [3월 1일](https://ko.wikipedia.org/wiki/3월_1일 "wikilink") 미국 하원 예산위 국가안보특별소위원회에서, 짐 매톡스 민주당 의원(텍사스)은 "한국이 요청한 [랜스 미사일과](https://ko.wikipedia.org/wiki/랜스_미사일 "wikilink") A-7E 공격기(19톤)를 제공하지 않아 한국의 자주국방계획을 지연시키고 있는 것이 아니냐?"고 질문했고, 브라운 국방장관은 "우리는 한국의 전력증강계획을 지연시키지 않고 있다."고 강조했다.\[2\]
+1978년에 대한민국은 미국측에 [랜스 미사일과](https://ko.wikipedia.org/wiki/랜스_미사일 "wikilink") A-7E 콜세어 공격기(19톤)를 제공해 달라고 요청했으나, 미국이 거부했다. 1978년 [3월 1일](../Page/3월_1일.md "wikilink") 미국 하원 예산위 국가안보특별소위원회에서, 짐 매톡스 민주당 의원(텍사스)은 "한국이 요청한 [랜스 미사일과](https://ko.wikipedia.org/wiki/랜스_미사일 "wikilink") A-7E 공격기(19톤)를 제공하지 않아 한국의 자주국방계획을 지연시키고 있는 것이 아니냐?"고 질문했고, 브라운 국방장관은 "우리는 한국의 전력증강계획을 지연시키지 않고 있다."고 강조했다.\[2\]
 
-[1979년](https://ko.wikipedia.org/wiki/1979년 "wikilink") [8월 4일](https://ko.wikipedia.org/wiki/8월_4일 "wikilink") 한국 공군이 당시 보유 중인 [F-86 세이버](../Page/F-86_세이버.md "wikilink")(8톤) 전투기를 대체하기 위해 [F5E 전폭기](https://ko.wikipedia.org/wiki/노스롭_F-5_프리덤_파이터 "wikilink")(11톤)와 [F5F 훈련기의](https://ko.wikipedia.org/wiki/노스롭_F-5_프리덤_파이터 "wikilink") 라이센스 생산을 카터 정부에 요청할 것이라고 보도되었다. 카터 정부는 [F-16](https://ko.wikipedia.org/wiki/F-16 "wikilink")(19톤)의 라이센스 생산은 거부했으나, F-5(11톤) 이외에 A-7 콜세어 II(19톤)와 A-10 선더볼트 II(23톤)도 검토하고 있다고 보도되었다.\[3\]
+[1979년](../Page/1979년.md "wikilink") [8월 4일](../Page/8월_4일.md "wikilink") 한국 공군이 당시 보유 중인 [F-86 세이버](../Page/F-86_세이버.md "wikilink")(8톤) 전투기를 대체하기 위해 [F5E 전폭기](https://ko.wikipedia.org/wiki/노스롭_F-5_프리덤_파이터 "wikilink")(11톤)와 [F5F 훈련기의](https://ko.wikipedia.org/wiki/노스롭_F-5_프리덤_파이터 "wikilink") 라이센스 생산을 카터 정부에 요청할 것이라고 보도되었다. 카터 정부는 [F-16](https://ko.wikipedia.org/wiki/F-16 "wikilink")(19톤)의 라이센스 생산은 거부했으나, F-5(11톤) 이외에 A-7 콜세어 II(19톤)와 A-10 선더볼트 II(23톤)도 검토하고 있다고 보도되었다.\[3\]
 
-1979년 [8월 6일](https://ko.wikipedia.org/wiki/8월_6일 "wikilink") 동아일보는 사설에서 "북한의 공군력이 초음속 보다는 저속인 [미그 15](https://ko.wikipedia.org/wiki/미그_15 "wikilink")(6톤), [미그 17](https://ko.wikipedia.org/wiki/미그_17 "wikilink")(6톤) 위주이기 때문에, 한국도 초음속인 [F-4](https://ko.wikipedia.org/wiki/맥도넬더글러스_F-4_팬텀 "wikilink")(28톤) 보다는 저속인 [F5](https://ko.wikipedia.org/wiki/노스롭_F-5_프리덤_파이터 "wikilink")(11톤) 정도가 실질적이라고 미국측이 판단하는지는 알 수 없으나"라고 언급했다.\[4\]
+1979년 [8월 6일](../Page/8월_6일.md "wikilink") 동아일보는 사설에서 "북한의 공군력이 초음속 보다는 저속인 [미그 15](https://ko.wikipedia.org/wiki/미그_15 "wikilink")(6톤), [미그 17](https://ko.wikipedia.org/wiki/미그_17 "wikilink")(6톤) 위주이기 때문에, 한국도 초음속인 [F-4](https://ko.wikipedia.org/wiki/맥도넬더글러스_F-4_팬텀 "wikilink")(28톤) 보다는 저속인 [F5](https://ko.wikipedia.org/wiki/노스롭_F-5_프리덤_파이터 "wikilink")(11톤) 정도가 실질적이라고 미국측이 판단하는지는 알 수 없으나"라고 언급했다.\[4\]
 
-[2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") 미국이 노후화에 따른 예산 절감을 이유로 A-10 지상공격기의 퇴역을 추진하면서 북한군의 기갑전력을 억제하는데 공백이 생길 것이라는 우려가 제기됐다.\[5\]
+[2015년](../Page/2015년.md "wikilink") 미국이 노후화에 따른 예산 절감을 이유로 A-10 지상공격기의 퇴역을 추진하면서 북한군의 기갑전력을 억제하는데 공백이 생길 것이라는 우려가 제기됐다.\[5\]
 
 ## 제원
 

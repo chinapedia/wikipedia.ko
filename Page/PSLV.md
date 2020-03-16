@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [PSLV](https://ko.wikipedia.org/wiki/PSLV).
 
 
-**PSLV**(Polar Satellite Launch Vehicle)는 [인도](https://ko.wikipedia.org/wiki/인도 "wikilink")의 [소모성 우주 발사체이다](../Page/소모성_우주_발사체.md "wikilink").
+**PSLV**(Polar Satellite Launch Vehicle)는 [인도](../Page/인도.md "wikilink")의 [소모성 우주 발사체이다](../Page/소모성_우주_발사체.md "wikilink").
 
-[2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 4월 로켓 하나로 10개의 [인공위성](../Page/인공위성.md "wikilink")을 발사했다. 이것은 [러시아](../Page/러시아.md "wikilink")가 갖고 있던 기록을 깬 것이다.\[1\]
+[2008년](../Page/2008년.md "wikilink") 4월 로켓 하나로 10개의 [인공위성](../Page/인공위성.md "wikilink")을 발사했다. 이것은 [러시아](../Page/러시아.md "wikilink")가 갖고 있던 기록을 깬 것이다.\[1\]
 
 PSLV의 발사비는 1700만 달러이다.
 

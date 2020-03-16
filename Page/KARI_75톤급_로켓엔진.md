@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KARI 75 ](https://ko.wikipedia.org/wiki/KARI_75_).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:KARI_735kN_rocket_engine_for_KSLV-2.jpg "wikilink") **KRE-075**는 한국의 [KARI](https://ko.wikipedia.org/wiki/KARI "wikilink")가 개발중인 **[한국형발사체](https://ko.wikipedia.org/wiki/한국형발사체 "wikilink")**중 75톤급 추력의 신형 액체 로켓 엔진(**[KSLV-II](https://ko.wikipedia.org/wiki/KSLV-II "wikilink")**)을 말한다. 2018년 [한국형 시험발사체의](https://ko.wikipedia.org/wiki/한국형_시험발사체 "wikilink") 1단 엔진이다. 또한 2019년 **[KSLV-II](https://ko.wikipedia.org/wiki/KSLV-II "wikilink")**의 1단 및 2단 엔진으로 사용될 예정이며, [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink")까지 엔진 개발을 완료할 계획이다.\[1\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:KARI_735kN_rocket_engine_for_KSLV-2.jpg "wikilink") **KRE-075**는 한국의 [KARI](https://ko.wikipedia.org/wiki/KARI "wikilink")가 개발중인 **[한국형발사체](https://ko.wikipedia.org/wiki/한국형발사체 "wikilink")**중 75톤급 추력의 신형 액체 로켓 엔진(**[KSLV-II](https://ko.wikipedia.org/wiki/KSLV-II "wikilink")**)을 말한다. 2018년 [한국형 시험발사체의](https://ko.wikipedia.org/wiki/한국형_시험발사체 "wikilink") 1단 엔진이다. 또한 2019년 **[KSLV-II](https://ko.wikipedia.org/wiki/KSLV-II "wikilink")**의 1단 및 2단 엔진으로 사용될 예정이며, [2017년](../Page/2017년.md "wikilink")까지 엔진 개발을 완료할 계획이다.\[1\]
 
 ## 역사
 
@@ -23,9 +23,9 @@
 
 ## 타이탄
 
-미국 [LGM-25C 타이탄 II가](../Page/LGM-25C_타이탄_II.md "wikilink") 추력 75톤인 [LR-87](../Page/LR-87.md "wikilink") 액체연료 엔진 4개를 사용한다. 등유/액체산소는 아니고 [사산화질소](https://ko.wikipedia.org/wiki/사산화질소 "wikilink")/[하이드라진](https://ko.wikipedia.org/wiki/하이드라진 "wikilink")을 사용하지만, 두가지 버전을 동시에 개발했다.
+미국 [LGM-25C 타이탄 II가](../Page/LGM-25C_타이탄_II.md "wikilink") 추력 75톤인 [LR-87](../Page/LR-87.md "wikilink") 액체연료 엔진 4개를 사용한다. 등유/액체산소는 아니고 [사산화질소](https://ko.wikipedia.org/wiki/사산화질소 "wikilink")/[하이드라진](../Page/하이드라진.md "wikilink")을 사용하지만, 두가지 버전을 동시에 개발했다.
 
-[LGM-25C 타이탄 II은](../Page/LGM-25C_타이탄_II.md "wikilink") [핵출력](../Page/핵출력.md "wikilink") 9메가톤의 [W53 핵탄두](../Page/B53_핵폭탄.md "wikilink") 1개를 장착했으며, 사거리 15,000 km이다. 54발이 실전배치되었다. 현재의 [미니트맨 미사일이](https://ko.wikipedia.org/wiki/미니트맨_미사일 "wikilink") 배치되기 전까지 미국 핵억지력의 핵심이었다. [미국 국방부는](https://ko.wikipedia.org/wiki/미국_국방부 "wikilink") 당초 타이탄2가 35메가톤 핵탄두를 운반할 수 있을 것이라고 예상했지만, 실전배치되지는 않았다.
+[LGM-25C 타이탄 II은](../Page/LGM-25C_타이탄_II.md "wikilink") [핵출력](../Page/핵출력.md "wikilink") 9메가톤의 [W53 핵탄두](../Page/B53_핵폭탄.md "wikilink") 1개를 장착했으며, 사거리 15,000 km이다. 54발이 실전배치되었다. 현재의 [미니트맨 미사일이](https://ko.wikipedia.org/wiki/미니트맨_미사일 "wikilink") 배치되기 전까지 미국 핵억지력의 핵심이었다. [미국 국방부는](../Page/미국_국방부.md "wikilink") 당초 타이탄2가 35메가톤 핵탄두를 운반할 수 있을 것이라고 예상했지만, 실전배치되지는 않았다.
 
 ## 각주
 

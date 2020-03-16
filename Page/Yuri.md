@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Yuri](https://ko.wikipedia.org/wiki/Yuri).
 
 
-**유리**(yuri, 본명: **마스다 유리**(益田保里, 1977년 2월 22일\~)는 [구마모토현](https://ko.wikipedia.org/wiki/구마모토현 "wikilink") 출신 [음악가](https://ko.wikipedia.org/wiki/음악가 "wikilink")로 [m.o.v.e](https://ko.wikipedia.org/wiki/m.o.v.e "wikilink")의 보컬이다.
+**유리**(yuri, 본명: **마스다 유리**(益田保里, 1977년 2월 22일\~)는 [구마모토현](../Page/구마모토현.md "wikilink") 출신 [음악가](https://ko.wikipedia.org/wiki/음악가 "wikilink")로 [m.o.v.e](https://ko.wikipedia.org/wiki/m.o.v.e "wikilink")의 보컬이다.
 
 ## 약력 및 인물
 
@@ -16,7 +16,7 @@
 
 <!-- end list -->
 
-  - Generation-A: [오미 토모에](https://ko.wikipedia.org/wiki/오미_토모에 "wikilink"), [오쿠이 마사미](https://ko.wikipedia.org/wiki/오쿠이_마사미 "wikilink"), [쿠리바야시 미나미](../Page/쿠리바야시_미나미.md "wikilink"), [사이킥러버](https://ko.wikipedia.org/wiki/사이킥러버 "wikilink"), [Cy-Rim rev.](https://ko.wikipedia.org/wiki/Cy-Rim_rev. "wikilink"), [JAM Project](../Page/JAM_Project.md "wikilink"), [쥬카이](https://ko.wikipedia.org/wiki/쥬카이 "wikilink"), [Suara](../Page/Suara.md "wikilink"), [타카하시 나오즈미](https://ko.wikipedia.org/wiki/타카하시_나오즈미 "wikilink"), [치하라 미노리](../Page/치하라_미노리.md "wikilink"), [미즈키 나나](../Page/미즈키_나나.md "wikilink"), [m.o.v.e](https://ko.wikipedia.org/wiki/m.o.v.e "wikilink") (유리), [ALI PROJECT](https://ko.wikipedia.org/wiki/ALI_PROJECT "wikilink") (타카라노 아리카)
+  - Generation-A: [오미 토모에](../Page/오미_토모에.md "wikilink"), [오쿠이 마사미](../Page/오쿠이_마사미.md "wikilink"), [쿠리바야시 미나미](../Page/쿠리바야시_미나미.md "wikilink"), [사이킥러버](https://ko.wikipedia.org/wiki/사이킥러버 "wikilink"), [Cy-Rim rev.](https://ko.wikipedia.org/wiki/Cy-Rim_rev. "wikilink"), [JAM Project](../Page/JAM_Project.md "wikilink"), [쥬카이](https://ko.wikipedia.org/wiki/쥬카이 "wikilink"), [Suara](../Page/Suara.md "wikilink"), [타카하시 나오즈미](https://ko.wikipedia.org/wiki/타카하시_나오즈미 "wikilink"), [치하라 미노리](../Page/치하라_미노리.md "wikilink"), [미즈키 나나](../Page/미즈키_나나.md "wikilink"), [m.o.v.e](https://ko.wikipedia.org/wiki/m.o.v.e "wikilink") (유리), [ALI PROJECT](https://ko.wikipedia.org/wiki/ALI_PROJECT "wikilink") (타카라노 아리카)
   - Shooting star: Cyber X feat.유리
   - PARADISE: EUROBEAT FLASH Vol.12
 

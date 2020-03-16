@@ -26,8 +26,8 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/일본의_애니메이션" title="wikilink">일본의 애니메이션</a> 《<a href="../Page/포켓몬스터_(1997~2002년_애니메이션).md" title="wikilink">포켓몬스터</a>》 <a href="https://ko.wikipedia.org/wiki/주제가" title="wikilink">오프닝 테마</a><br />
-<a href="https://ko.wikipedia.org/wiki/2001년" title="wikilink">2001년</a> <a href="https://ko.wikipedia.org/wiki/4월_5일" title="wikilink">4월 5일</a>(192화) ~ <a href="https://ko.wikipedia.org/wiki/2002년" title="wikilink">2002년</a> <a href="https://ko.wikipedia.org/wiki/2월_28일" title="wikilink">2월 28일</a>(238화)</p></td>
+<td><p><a href="../Page/일본의_애니메이션.md" title="wikilink">일본의 애니메이션</a> 《<a href="../Page/포켓몬스터_(1997~2002년_애니메이션).md" title="wikilink">포켓몬스터</a>》 <a href="https://ko.wikipedia.org/wiki/주제가" title="wikilink">오프닝 테마</a><br />
+<a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/4월_5일.md" title="wikilink">4월 5일</a>(192화) ~ <a href="../Page/2002년.md" title="wikilink">2002년</a> <a href="../Page/2월_28일.md" title="wikilink">2월 28일</a>(238화)</p></td>
 </tr>
 <tr class="even">
 <td><p>이전 곡:<br />

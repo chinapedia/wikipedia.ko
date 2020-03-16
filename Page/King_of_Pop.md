@@ -22,7 +22,7 @@
 9.  We Are The World (Demo\!)
 10. Jam
 11. Man In The Mirror
-12. The Girl Is Mine (With [Paul Mccartney](https://ko.wikipedia.org/wiki/폴_매카트니 "wikilink"))
+12. The Girl Is Mine (With [Paul Mccartney](../Page/폴_매카트니.md "wikilink"))
 13. Remember The Time
 14. Smooth Criminal
 15. The Way You Make Me Feel
@@ -35,7 +35,7 @@
 3.  Rock With You
 4.  Don'T Stop 'Til You Get Enough
 5.  Come Together
-6.  Scream (Feat. [Janet Jackson](https://ko.wikipedia.org/wiki/자넷_잭슨 "wikilink"))
+6.  Scream (Feat. [Janet Jackson](../Page/자넷_잭슨.md "wikilink"))
 7.  Human Nature
 8.  Earth Song
 9.  Dirty Diana

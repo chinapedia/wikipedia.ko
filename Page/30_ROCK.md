@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [30 ROCK](https://ko.wikipedia.org/wiki/30_ROCK).
 
 
-《**30 ROCK**》(30 록)은 [티나 페이가](https://ko.wikipedia.org/wiki/티나_페이 "wikilink") 제작하여 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [10월 11일부터](https://ko.wikipedia.org/wiki/10월_11일 "wikilink") 2013년 1월 31일 까지 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [NBC](../Page/NBC.md "wikilink")에서 방영한 [텔레비전](https://ko.wikipedia.org/wiki/텔레비전 "wikilink") [시트콤](https://ko.wikipedia.org/wiki/시트콤 "wikilink")이다. [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [10월 11일](https://ko.wikipedia.org/wiki/10월_11일 "wikilink") 파일럿 방송을 시작으로 21개의 에피소드로 시즌 1을 마무리했고, 시즌 2는 22개의 에피소드로 계획되었으나 [2007-2008 미국 작가노조 파업으로](https://ko.wikipedia.org/wiki/2007-2008_미국_작가노조_파업 "wikilink") 인해 15개의 에피소드로 마무리되었다. 시즌 3은 2008\~2009년에 22개의 에피소드가 방송되었고, 시즌 4는 2009\~2010년에 22개의 에피소드가 방송되었다. 2010년 9월부터 시즌5가 방송되고있다. 한국에서는 2009년 2월부터 케이블 채널 폭스라이프(Foxlife)를 통해 《30ROCK: 방송국 뒷담화》라는 제목으로 방영되기도 했다.
+《**30 ROCK**》(30 록)은 [티나 페이가](../Page/티나_페이.md "wikilink") 제작하여 [2006년](../Page/2006년.md "wikilink") [10월 11일부터](../Page/10월_11일.md "wikilink") 2013년 1월 31일 까지 [미국](../Page/미국.md "wikilink") [NBC](../Page/NBC.md "wikilink")에서 방영한 [텔레비전](../Page/텔레비전.md "wikilink") [시트콤](https://ko.wikipedia.org/wiki/시트콤 "wikilink")이다. [2006년](../Page/2006년.md "wikilink") [10월 11일](../Page/10월_11일.md "wikilink") 파일럿 방송을 시작으로 21개의 에피소드로 시즌 1을 마무리했고, 시즌 2는 22개의 에피소드로 계획되었으나 [2007-2008 미국 작가노조 파업으로](https://ko.wikipedia.org/wiki/2007-2008_미국_작가노조_파업 "wikilink") 인해 15개의 에피소드로 마무리되었다. 시즌 3은 2008\~2009년에 22개의 에피소드가 방송되었고, 시즌 4는 2009\~2010년에 22개의 에피소드가 방송되었다. 2010년 9월부터 시즌5가 방송되고있다. 한국에서는 2009년 2월부터 케이블 채널 폭스라이프(Foxlife)를 통해 《30ROCK: 방송국 뒷담화》라는 제목으로 방영되기도 했다.
 
 ## 줄거리
 
-《30 ROCK》의 제작 감독 겸 여주인공 [티나 페이가](https://ko.wikipedia.org/wiki/티나_페이 "wikilink") 스케치 코미디 쇼 《[Saturday Night Live](https://ko.wikipedia.org/wiki/Saturday_Night_Live "wikilink")》에서 2002-2006년 까지 수석 작가로 지내면서 실제로 있었던 일을 각색하여 [NBC](../Page/NBC.md "wikilink") 방송국에서 스케치 쇼를 만드는 배우, 작가, 방송국 간부간에 생기는 다양한 사건을 코믹하게 다루고 있다. 《30 ROCK》은 록펠러 플라자 거리 30번지라는 의미로 [NBC](../Page/NBC.md "wikilink") 스튜디오가 위치한 [GE](../Page/제너럴_일렉트릭.md "wikilink")(제너럴 일렉트로닉) 빌딩의 주소이다.
+《30 ROCK》의 제작 감독 겸 여주인공 [티나 페이가](../Page/티나_페이.md "wikilink") 스케치 코미디 쇼 《[Saturday Night Live](https://ko.wikipedia.org/wiki/Saturday_Night_Live "wikilink")》에서 2002-2006년 까지 수석 작가로 지내면서 실제로 있었던 일을 각색하여 [NBC](../Page/NBC.md "wikilink") 방송국에서 스케치 쇼를 만드는 배우, 작가, 방송국 간부간에 생기는 다양한 사건을 코믹하게 다루고 있다. 《30 ROCK》은 록펠러 플라자 거리 30번지라는 의미로 [NBC](../Page/NBC.md "wikilink") 스튜디오가 위치한 [GE](../Page/제너럴_일렉트릭.md "wikilink")(제너럴 일렉트로닉) 빌딩의 주소이다.
 
 ## 등장인물
 
-  - 리즈 레몬 (Liz Lemon, [티나 페이](https://ko.wikipedia.org/wiki/티나_페이 "wikilink"))
+  - 리즈 레몬 (Liz Lemon, [티나 페이](../Page/티나_페이.md "wikilink"))
   - 잭 도나기 (Jack Donaghy, [앨릭 볼드윈](../Page/앨릭_볼드윈.md "wikilink"))
   - 케네스 파셀 (Kenneth Parcell, [잭 맥브레이어](https://ko.wikipedia.org/wiki/잭_맥브레이어 "wikilink"))
   - 제나 마로니 (Jenna Maroney, [제인 크라코스키](../Page/제인_크라코스키.md "wikilink"))

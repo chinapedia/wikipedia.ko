@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
 
 
-**사우스엔드 유나이티드 FC**(Southend United Football Club)는 [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink") [에식스주](https://ko.wikipedia.org/wiki/에식스주 "wikilink") [사우스엔드온시](../Page/사우스엔드온시.md "wikilink")를 연고로 하는 축구 클럽이다.
+**사우스엔드 유나이티드 FC**(Southend United Football Club)는 [잉글랜드](../Page/잉글랜드.md "wikilink") [에식스주](https://ko.wikipedia.org/wiki/에식스주 "wikilink") [사우스엔드온시](../Page/사우스엔드온시.md "wikilink")를 연고로 하는 축구 클럽이다.
 
 ## 수상 경력
 

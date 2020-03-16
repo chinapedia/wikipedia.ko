@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Melody.](https://ko.wikipedia.org/wiki/Melody.).
 
 
-**melody.**(メロディー, 일본어:이시카와 미유키 (영어:Ishikawa Miyuki)) ([1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink") [2월 24일](https://ko.wikipedia.org/wiki/2월_24일 "wikilink") \~ )는 일본에서 2003년에 데뷔해 2009년 1월 은퇴한 일본의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이다.
+**melody.**(メロディー, 일본어:이시카와 미유키 (영어:Ishikawa Miyuki)) ([1982년](../Page/1982년.md "wikilink") [2월 24일](../Page/2월_24일.md "wikilink") \~ )는 일본에서 2003년에 데뷔해 2009년 1월 은퇴한 일본의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이다.
 
 ## 내력
 

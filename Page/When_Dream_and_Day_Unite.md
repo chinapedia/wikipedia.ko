@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [When Dream and Day Unite](https://ko.wikipedia.org/wiki/When_Dream_and_Day_Unite).
 
 
-**When Dream and Day Unite**는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [프로그레시브 메탈](../Page/프로그레시브_메탈.md "wikilink") 밴드 [드림 시어터의](https://ko.wikipedia.org/wiki/드림_시어터 "wikilink") 데뷔앨범이다. 이 앨범의 곡들은 주로 밴드 초창기의 [마제스티](https://ko.wikipedia.org/wiki/마제스티 "wikilink") 시절 영향을 많이 받았다. 펜실베이니아 Gladwyne에 위치한 Victory Studio에서 1988년 여름에 녹음되었다. [찰리 도미니시가](https://ko.wikipedia.org/wiki/찰리_도미니시 "wikilink") 보컬로 합류한 유일한 정규 앨범이고, 이후 [제임스 라브리에로](../Page/제임스_라브리에.md "wikilink") 보컬이 교체되었다. 이 앨범은 또한 [Falling Into Infinity와](https://ko.wikipedia.org/wiki/Falling_Into_Infinity "wikilink") 함께 밴드의 로고가 앨범커버에 들어가지 않은 유이한 앨범이기도 하다.
+**When Dream and Day Unite**는 [미국](../Page/미국.md "wikilink") [프로그레시브 메탈](../Page/프로그레시브_메탈.md "wikilink") 밴드 [드림 시어터의](https://ko.wikipedia.org/wiki/드림_시어터 "wikilink") 데뷔앨범이다. 이 앨범의 곡들은 주로 밴드 초창기의 [마제스티](https://ko.wikipedia.org/wiki/마제스티 "wikilink") 시절 영향을 많이 받았다. 펜실베이니아 Gladwyne에 위치한 Victory Studio에서 1988년 여름에 녹음되었다. [찰리 도미니시가](https://ko.wikipedia.org/wiki/찰리_도미니시 "wikilink") 보컬로 합류한 유일한 정규 앨범이고, 이후 [제임스 라브리에로](../Page/제임스_라브리에.md "wikilink") 보컬이 교체되었다. 이 앨범은 또한 [Falling Into Infinity와](https://ko.wikipedia.org/wiki/Falling_Into_Infinity "wikilink") 함께 밴드의 로고가 앨범커버에 들어가지 않은 유이한 앨범이기도 하다.
 
 ## 역사
 
-드림시어터는 원래 [마이크 포트노이가](https://ko.wikipedia.org/wiki/마이크_포트노이 "wikilink") 밴드 [러쉬](https://ko.wikipedia.org/wiki/러쉬 "wikilink")의 곡 'Bastille Days'에서 따온 [마제스티](https://ko.wikipedia.org/wiki/마제스티 "wikilink")란 이름으로 [1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink") [존 명](../Page/존_명.md "wikilink"), [존 페트루치와](https://ko.wikipedia.org/wiki/존_페트루치 "wikilink") 함께 결성되었다. 밴드 결성 이후 학교친구였던 키보디스트 [케빈 무어와](https://ko.wikipedia.org/wiki/케빈_무어 "wikilink") 오디션을 통해 선발된 보컬리스트 [크리스 콜린스를](https://ko.wikipedia.org/wiki/크리스_콜린스 "wikilink") 받아들였다. 이 후 뉴욕 등지에서 공연을 돌던 중 콜린스가 탈퇴하고, 새로이 경험많은 보컬 [찰리 도미니시를](https://ko.wikipedia.org/wiki/찰리_도미니시 "wikilink") 영입했다.
+드림시어터는 원래 [마이크 포트노이가](https://ko.wikipedia.org/wiki/마이크_포트노이 "wikilink") 밴드 [러쉬](https://ko.wikipedia.org/wiki/러쉬 "wikilink")의 곡 'Bastille Days'에서 따온 [마제스티](https://ko.wikipedia.org/wiki/마제스티 "wikilink")란 이름으로 [1985년](../Page/1985년.md "wikilink") [존 명](../Page/존_명.md "wikilink"), [존 페트루치와](../Page/존_페트루치.md "wikilink") 함께 결성되었다. 밴드 결성 이후 학교친구였던 키보디스트 [케빈 무어와](https://ko.wikipedia.org/wiki/케빈_무어 "wikilink") 오디션을 통해 선발된 보컬리스트 [크리스 콜린스를](https://ko.wikipedia.org/wiki/크리스_콜린스 "wikilink") 받아들였다. 이 후 뉴욕 등지에서 공연을 돌던 중 콜린스가 탈퇴하고, 새로이 경험많은 보컬 [찰리 도미니시를](https://ko.wikipedia.org/wiki/찰리_도미니시 "wikilink") 영입했다.
 
-이때까지만 해도 밴드명은 마제스티였고, 1985년에서 [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink")사이 [마제스티 데모 앨범을](https://ko.wikipedia.org/wiki/Majesty_Demos_1985-1986 "wikilink") 녹음하던 밴드는 그 직후 동명의 밴드로부터 밴드명에 대한 법적 소송 위협을 받으면서 마제스티라는 이름을 버려야만 했다. 마땅한 밴드명이 떠오르지 않자, 포트노이의 아버지가 근처의 영화관 이름을 따 '[드림 시어터](https://ko.wikipedia.org/wiki/드림_시어터 "wikilink")'로 할 것을 제안했고 이것이 받아들여져 현재까지도 계속 사용되고 있다.
+이때까지만 해도 밴드명은 마제스티였고, 1985년에서 [1986년](../Page/1986년.md "wikilink")사이 [마제스티 데모 앨범을](https://ko.wikipedia.org/wiki/Majesty_Demos_1985-1986 "wikilink") 녹음하던 밴드는 그 직후 동명의 밴드로부터 밴드명에 대한 법적 소송 위협을 받으면서 마제스티라는 이름을 버려야만 했다. 마땅한 밴드명이 떠오르지 않자, 포트노이의 아버지가 근처의 영화관 이름을 따 '[드림 시어터](https://ko.wikipedia.org/wiki/드림_시어터 "wikilink")'로 할 것을 제안했고 이것이 받아들여져 현재까지도 계속 사용되고 있다.
 
 데모 앨범의 열렬한 관심로 인해 밴드는 데뷔 앨범이 많은 인기를 끌 것으로 기대했으나, 실제로는 크게 주목받지 못했다. 또한 밴드가 계속 뉴욕의 작은 클럽들만 전전긍긍하자, Mechanic Records가 밴드와의 계약을 끊어버리는 일까지 일어났다. 도미니시는 맴버들과 음악적 방향성에 대한 충돌로 밴드를 떠났고, 그들은 이 후 몇 년동안 리드 싱어 없이 활동했다.
 
@@ -24,8 +24,8 @@
 ## 구성원
 
   - [찰리 도미니시](https://ko.wikipedia.org/wiki/찰리_도미니시 "wikilink") : [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink")
-  - [존 페트루치](https://ko.wikipedia.org/wiki/존_페트루치 "wikilink") : [기타](https://ko.wikipedia.org/wiki/기타 "wikilink")
-  - [존 명](../Page/존_명.md "wikilink") : [베이스 기타](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink")
+  - [존 페트루치](../Page/존_페트루치.md "wikilink") : [기타](../Page/기타.md "wikilink")
+  - [존 명](../Page/존_명.md "wikilink") : [베이스 기타](../Page/베이스_기타.md "wikilink")
   - [케빈 무어](https://ko.wikipedia.org/wiki/케빈_무어 "wikilink") : [키보드](https://ko.wikipedia.org/wiki/전자_키보드 "wikilink")
   - [마이크 포트노이](https://ko.wikipedia.org/wiki/마이크_포트노이 "wikilink") : [드럼](https://ko.wikipedia.org/wiki/드럼셋 "wikilink")
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LG ](https://ko.wikipedia.org/wiki/LG_).
 
 
-**LG 인사이트**(, LG CT810)는 [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")가 2008년 11월에 출시한 [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")이다.\[1\]
+**LG 인사이트**(, LG CT810)는 [LG전자](../Page/LG전자.md "wikilink")가 2008년 11월에 출시한 [스마트폰](../Page/스마트폰.md "wikilink")이다.\[1\]
 
 ## 제품 상세 소개
 

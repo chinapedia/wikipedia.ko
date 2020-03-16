@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Bends](https://ko.wikipedia.org/wiki/The_Bends).
 
 
-**《The Bends》**는 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 [팔로폰](../Page/팔로폰.md "wikilink")과 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [캐피틀 레코드에](../Page/캐피틀_레코드.md "wikilink") 의해 1995년 3월 13일에 발매된 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 록 밴드 [라디오헤드](https://ko.wikipedia.org/wiki/라디오헤드 "wikilink")의 두 번째 스튜디오 음반이다.
+**《The Bends》**는 [영국](../Page/영국.md "wikilink")의 [팔로폰](../Page/팔로폰.md "wikilink")과 [미국](../Page/미국.md "wikilink")의 [캐피틀 레코드에](../Page/캐피틀_레코드.md "wikilink") 의해 1995년 3월 13일에 발매된 [영국](../Page/영국.md "wikilink")의 록 밴드 [라디오헤드](../Page/라디오헤드.md "wikilink")의 두 번째 스튜디오 음반이다.
 
 ## 곡 목록
 

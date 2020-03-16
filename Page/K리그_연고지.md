@@ -9,19 +9,19 @@
 
   - 한국 프로축구 원년 [1983시즌](https://ko.wikipedia.org/wiki/K리그_1983 "wikilink") 수퍼리그 참가 구단과 연고지 현황\[2\]\[3\]
 
-| 구단                                                             | 연고지                                                                                                                                                    | 마스코트 | 비고        |
-| -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- | --------- |
-| [할렐루야 축구단](../Page/할렐루야_축구단.md "wikilink")                     | [강원](https://ko.wikipedia.org/wiki/강원 "wikilink")+[충남](https://ko.wikipedia.org/wiki/충남 "wikilink")+[충북](https://ko.wikipedia.org/wiki/충북 "wikilink")  | 독수리  | 프로축구단 제1호 |
-| [유공 축구단](https://ko.wikipedia.org/wiki/제주_유나이티드_FC "wikilink") | [서울](https://ko.wikipedia.org/wiki/서울 "wikilink")+[인천](https://ko.wikipedia.org/wiki/인천 "wikilink")+[경기](https://ko.wikipedia.org/wiki/경기도 "wikilink") | 코끼리  | 프로축구단 제2호 |
-| [포항제철 축구단](https://ko.wikipedia.org/wiki/포항_스틸러스 "wikilink")   | [대구](https://ko.wikipedia.org/wiki/대구 "wikilink")+[경북](https://ko.wikipedia.org/wiki/경북 "wikilink")                                                    | 돌고래  |           |
-| [국민은행 축구단](../Page/고양_KB국민은행_축구단.md "wikilink")                | [전남](https://ko.wikipedia.org/wiki/전남 "wikilink")+[전북](https://ko.wikipedia.org/wiki/전북 "wikilink")                                                    | 까치   |           |
-| [대우 축구단](https://ko.wikipedia.org/wiki/부산_아이파크 "wikilink")     | [부산](https://ko.wikipedia.org/wiki/부산 "wikilink")+[경남](https://ko.wikipedia.org/wiki/경남 "wikilink")                                                    | 왕관   |           |
+| 구단                                              | 연고지                                                                                                                                                    | 마스코트 | 비고        |
+| ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- | --------- |
+| [할렐루야 축구단](../Page/할렐루야_축구단.md "wikilink")      | [강원](https://ko.wikipedia.org/wiki/강원 "wikilink")+[충남](https://ko.wikipedia.org/wiki/충남 "wikilink")+[충북](https://ko.wikipedia.org/wiki/충북 "wikilink")  | 독수리  | 프로축구단 제1호 |
+| [유공 축구단](../Page/제주_유나이티드_FC.md "wikilink")     | [서울](https://ko.wikipedia.org/wiki/서울 "wikilink")+[인천](https://ko.wikipedia.org/wiki/인천 "wikilink")+[경기](https://ko.wikipedia.org/wiki/경기도 "wikilink") | 코끼리  | 프로축구단 제2호 |
+| [포항제철 축구단](../Page/포항_스틸러스.md "wikilink")       | [대구](https://ko.wikipedia.org/wiki/대구 "wikilink")+[경북](https://ko.wikipedia.org/wiki/경북 "wikilink")                                                    | 돌고래  |           |
+| [국민은행 축구단](../Page/고양_KB국민은행_축구단.md "wikilink") | [전남](https://ko.wikipedia.org/wiki/전남 "wikilink")+[전북](https://ko.wikipedia.org/wiki/전북 "wikilink")                                                    | 까치   |           |
+| [대우 축구단](../Page/부산_아이파크.md "wikilink")         | [부산](https://ko.wikipedia.org/wiki/부산 "wikilink")+[경남](https://ko.wikipedia.org/wiki/경남 "wikilink")                                                    | 왕관   |           |
 
 위와 같이 형식상 모든 구단들이 연고지를 배정받고 출범을 했지만 자신의 연고지에서 홈경기를 개최하고 상대 구단의 연고지를 방문해서 원정 경기를 치르는 홈 앤드 어웨이 시스템이 아니고 서울, 부산, 대구, 인천, 광주, 마산, 청주, 강릉 등 전국 여러 도시들을 모든 구단들이 방문하여 한 경기장에서 해당 라운드 경기들을 모두 소화하는 리그 경기 운영 시스템이었다. 당시 언론에서는 이렇게 전국을 순회하며 한 도시에서 경기를 치루는 라운드를 해당 도시명에 따라 부산 시리즈, 광주 시리즈 이런식으로 표기했다.
 
-당시 리그 출범 당시부터 지역 연고지 제도 개념을 도입해서 [홈 앤 어웨이](https://ko.wikipedia.org/wiki/홈_앤_어웨이 "wikilink") 방식으로 리그를 운영하려 하였으나, 아마추어 축구단과 프로축구단의 혼합리그로 운영하라는 [대한민국 체육부의](../Page/대한민국_체육부.md "wikilink") 방침에 따라 순회 개최 방식으로 운영했다.\[4\] [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") 축구대제전 위원회는 인기몰이를 위해 1986시즌부터 지역 연고제를 도입하여 [홈 앤 어웨이로](https://ko.wikipedia.org/wiki/홈_앤_어웨이 "wikilink") 경기를 펼친다는 방침을 정하였지만, 당시 프로 스포츠를 감독하던 체육부는 이러한 요청을 받은 후 "지역 감정 유발"의 요인이 될 수 있다는 구실로 지역 연고제에 의한 리그 운영을 허용하지 않았으며, 계속해서 순회 개최 방식으로 리그가 운영되었다.\[5\] 이러한 순회 개최 방식은 수퍼리그 원년인 1983시즌부터 1986시즌까지 4시즌 동안 진행 되었다.
+당시 리그 출범 당시부터 지역 연고지 제도 개념을 도입해서 [홈 앤 어웨이](https://ko.wikipedia.org/wiki/홈_앤_어웨이 "wikilink") 방식으로 리그를 운영하려 하였으나, 아마추어 축구단과 프로축구단의 혼합리그로 운영하라는 [대한민국 체육부의](../Page/대한민국_체육부.md "wikilink") 방침에 따라 순회 개최 방식으로 운영했다.\[4\] [1986년](../Page/1986년.md "wikilink") 축구대제전 위원회는 인기몰이를 위해 1986시즌부터 지역 연고제를 도입하여 [홈 앤 어웨이로](https://ko.wikipedia.org/wiki/홈_앤_어웨이 "wikilink") 경기를 펼친다는 방침을 정하였지만, 당시 프로 스포츠를 감독하던 체육부는 이러한 요청을 받은 후 "지역 감정 유발"의 요인이 될 수 있다는 구실로 지역 연고제에 의한 리그 운영을 허용하지 않았으며, 계속해서 순회 개최 방식으로 리그가 운영되었다.\[5\] 이러한 순회 개최 방식은 수퍼리그 원년인 1983시즌부터 1986시즌까지 4시즌 동안 진행 되었다.
 
-[1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink") [1월](https://ko.wikipedia.org/wiki/1월 "wikilink"), [대한축구협회](https://ko.wikipedia.org/wiki/대한축구협회 "wikilink")는 홈 앤드 어웨이 시스템으로 리그를 운영하는 원칙을 확정하였으며,\[6\] 각 구단 단장들의 협의 하에\[7\] 1987시즌부터 각 구단의 연고지에서 홈 경기를 개최하고 연고지 관중들을 끌어 모으기 위해 노력하였다.\[8\]
+[1987년](../Page/1987년.md "wikilink") [1월](../Page/1월.md "wikilink"), [대한축구협회](../Page/대한축구협회.md "wikilink")는 홈 앤드 어웨이 시스템으로 리그를 운영하는 원칙을 확정하였으며,\[6\] 각 구단 단장들의 협의 하에\[7\] 1987시즌부터 각 구단의 연고지에서 홈 경기를 개최하고 연고지 관중들을 끌어 모으기 위해 노력하였다.\[8\]
 
 1984시즌 수퍼리그에 신생구단 현대와 럭키금성 그리고 실업리그인 1983 코리안리그 우승 팀으로 수퍼리그 진출권을 따낸 한일은행이\[9\] 추가로 리그에 참가하면서\[10\] 기존 연고지 배분에 일부 조정을 하게 된다. 할렐루야의 강원+충남+충북의 연고지를 분할하여 할렐루야는 강원 연고 구단, 럭키금성이 충남+충북 연고 구단이 되었다. 그리고 유공의 서울+인천+경기의 연고지를 분할하여 유공은 서울 연고 구단, 현대는 인천+경기 연고 구단이 되었으며 한일은행의 연고지는 미정이었으며 그 후 연고지가 확정되었는지는 미상이다.\[11\]\[12\]
 
@@ -103,7 +103,7 @@
 
 하지만 막판 기업들의 지분관계 등의 문제로 창단이 연기 되었고 미원그룹이 단독으로 창단한다고 발표했다가 다시 경영진과의 마찰로 창단 번복을 하였다.\[32\] 이 당시 1987년 호남축구팀이 탄생 일보직전에 물거품이 된 것과 관련 호남 축구인들은 두 가지 아쉬움을 가졌는데 호남의 대표기업인 [금호그룹의](../Page/금호아시아나그룹.md "wikilink") 미온적 태도와 이 당시 호남팀 창단을 위해 적극적으로 활동했던 전북축구협회회장이자 한일비계건설 사장인 한수일 회장의 교통사고로 인한 갑작스런 죽음이었다.\[33\]
 
-그 후 호남 연고팀 창단이 1988년에 이르러 호남 연고 기업들이 다시 모여서 지분 조정등 활기를 뛰기도 했지만 당시 창단을 주도하던 실무주역 정치인들이 당시 총선에서 모두 낙선하면서 사실상 실패로 끝났다.\[34\] 그 후 당시 대한축구협회장이었던 [김우중](https://ko.wikipedia.org/wiki/김우중 "wikilink") 회장이 직접 나서 당시 금호그룹 [박성용](https://ko.wikipedia.org/wiki/박성용 "wikilink") 회장으로부터 창단에 관련된 긍정적인 답변을 얻었고 [금호그룹](../Page/금호아시아나그룹.md "wikilink") 역시 [아시아나항공](https://ko.wikipedia.org/wiki/아시아나항공 "wikilink") 설립 이후 기업홍보 차원에서 프로축구단 창단 방침을 세웠지만 역시 무산되었으며\[35\] 당시 신생 구단으로 창단 의사를 밝힌 [일화 천마를](https://ko.wikipedia.org/wiki/성남_FC "wikilink") 호남 연고 구단으로 출범 시키기 위해 축구계와 일화 축구단 모두 호남 출신 선수들을 배정하면서\[36\] 선수단 반을 호남 출신 선수로 채우고 여러모로 노력을 했지만 이번에는 호남 지역에서 통일교라는 이유로 반발이 있어서 또다시 실패하게 되었다.\[37\] 1989년 2월 김우중 대한축구협회장이 재신임되고 호남 연고 프로축구단 창단에 주력하여 한국 축구의 획기적인 발전을 꾀하겠다고 천명하였으며\[38\] 1990년에도 계속해서 [금호그룹에](../Page/금호아시아나그룹.md "wikilink") 프로축구단 창단을 권유했지만 실패했으며\[39\] 호남 연고 구단의 창단에 대한축구협회가 전력을 경주하고 잘 되지않을 경우 당시 [김우중](https://ko.wikipedia.org/wiki/김우중 "wikilink") 회장의 말대로 대우팀을 호남연고로 할 것을 각 구단 구단주들이 요구하기도 하였지만 모두 무산되었다. \[40\]\[41\]
+그 후 호남 연고팀 창단이 1988년에 이르러 호남 연고 기업들이 다시 모여서 지분 조정등 활기를 뛰기도 했지만 당시 창단을 주도하던 실무주역 정치인들이 당시 총선에서 모두 낙선하면서 사실상 실패로 끝났다.\[34\] 그 후 당시 대한축구협회장이었던 [김우중](../Page/김우중.md "wikilink") 회장이 직접 나서 당시 금호그룹 [박성용](../Page/박성용.md "wikilink") 회장으로부터 창단에 관련된 긍정적인 답변을 얻었고 [금호그룹](../Page/금호아시아나그룹.md "wikilink") 역시 [아시아나항공](https://ko.wikipedia.org/wiki/아시아나항공 "wikilink") 설립 이후 기업홍보 차원에서 프로축구단 창단 방침을 세웠지만 역시 무산되었으며\[35\] 당시 신생 구단으로 창단 의사를 밝힌 [일화 천마를](https://ko.wikipedia.org/wiki/성남_FC "wikilink") 호남 연고 구단으로 출범 시키기 위해 축구계와 일화 축구단 모두 호남 출신 선수들을 배정하면서\[36\] 선수단 반을 호남 출신 선수로 채우고 여러모로 노력을 했지만 이번에는 호남 지역에서 통일교라는 이유로 반발이 있어서 또다시 실패하게 되었다.\[37\] 1989년 2월 김우중 대한축구협회장이 재신임되고 호남 연고 프로축구단 창단에 주력하여 한국 축구의 획기적인 발전을 꾀하겠다고 천명하였으며\[38\] 1990년에도 계속해서 [금호그룹에](../Page/금호아시아나그룹.md "wikilink") 프로축구단 창단을 권유했지만 실패했으며\[39\] 호남 연고 구단의 창단에 대한축구협회가 전력을 경주하고 잘 되지않을 경우 당시 [김우중](../Page/김우중.md "wikilink") 회장의 말대로 대우팀을 호남연고로 할 것을 각 구단 구단주들이 요구하기도 하였지만 모두 무산되었다. \[40\]\[41\]
 
 ## 광역 지역 연고제에서 도시 지역 연고제로 전환 완료 (1990–1993시즌)
 
@@ -178,7 +178,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/수도권" title="wikilink">수도권</a></p></td>
+<td><p><a href="../Page/수도권.md" title="wikilink">수도권</a></p></td>
 <td><div style="text-align: center;">
 <p><a href="https://ko.wikipedia.org/wiki/서울" title="wikilink">서울</a></p></td>
 <td><p>일화 천마</p></td>
@@ -238,7 +238,7 @@
 
 ## 완전 지역 연고지 제도 시행 (1996시즌–현재)
 
-[한국프로축구연맹](https://ko.wikipedia.org/wiki/한국프로축구연맹 "wikilink")과 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") 정부는\[57\]\[58\] 2002년 월드컵 유치를 위해 전국적인 프로축구 열기 확산과 서울의 [축구전용구장](https://ko.wikipedia.org/wiki/축구전용구장 "wikilink") 건설을 목표로\[59\][서울 연고 공동화 정책을](https://ko.wikipedia.org/wiki/서울_연고_공동화_정책 "wikilink") 시행하였다. 1995년 말까지 서울 전용구장 건립계획을 수립하는 구단에 대해서만 서울 잔류를 허용한다는 이 정책에 따라 당시 [서울특별시](https://ko.wikipedia.org/wiki/서울특별시 "wikilink")를 연고지로 하고 있었던 [일화 천마](https://ko.wikipedia.org/wiki/성남_일화_천마 "wikilink") (현 [성남 FC](https://ko.wikipedia.org/wiki/성남_FC "wikilink")), [LG 치타스](https://ko.wikipedia.org/wiki/FC_서울 "wikilink") (현 [FC 서울](https://ko.wikipedia.org/wiki/FC_서울 "wikilink")), [유공 코끼리](https://ko.wikipedia.org/wiki/제주_유나이티드_FC "wikilink") (현 [제주 유나이티드](https://ko.wikipedia.org/wiki/제주_유나이티드_FC "wikilink")) 등 3개 프로축구단들은 다른 지역으로 이전하였고 서울 연고지는 공동화(空洞化) 되었다.\[60\]
+[한국프로축구연맹](../Page/한국프로축구연맹.md "wikilink")과 [대한민국](../Page/대한민국.md "wikilink") 정부는\[57\]\[58\] 2002년 월드컵 유치를 위해 전국적인 프로축구 열기 확산과 서울의 [축구전용구장](https://ko.wikipedia.org/wiki/축구전용구장 "wikilink") 건설을 목표로\[59\][서울 연고 공동화 정책을](../Page/서울_연고_공동화_정책.md "wikilink") 시행하였다. 1995년 말까지 서울 전용구장 건립계획을 수립하는 구단에 대해서만 서울 잔류를 허용한다는 이 정책에 따라 당시 [서울특별시](../Page/서울특별시.md "wikilink")를 연고지로 하고 있었던 [일화 천마](https://ko.wikipedia.org/wiki/성남_일화_천마 "wikilink") (현 [성남 FC](https://ko.wikipedia.org/wiki/성남_FC "wikilink")), [LG 치타스](https://ko.wikipedia.org/wiki/FC_서울 "wikilink") (현 [FC 서울](https://ko.wikipedia.org/wiki/FC_서울 "wikilink")), [유공 코끼리](../Page/제주_유나이티드_FC.md "wikilink") (현 [제주 유나이티드](../Page/제주_유나이티드_FC.md "wikilink")) 등 3개 프로축구단들은 다른 지역으로 이전하였고 서울 연고지는 공동화(空洞化) 되었다.\[60\]
 
   - 1996시즌 리그 참가 구단과 연고지 현황
 
@@ -310,11 +310,11 @@
 
 ### 제도의 정착 ([2005시즌](../Page/K리그_2005.md "wikilink")–현재) 및 논란
 
-[1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") [서울 연고 공동화 정책으로](https://ko.wikipedia.org/wiki/서울_연고_공동화_정책 "wikilink") 인해 서울에서 수도권 등지로 연고지 이전했던 3개 구단들이 [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [천안 일화 천마가](https://ko.wikipedia.org/wiki/성남_FC "wikilink") [성남](https://ko.wikipedia.org/wiki/성남 "wikilink"), [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [안양 LG 치타스가](https://ko.wikipedia.org/wiki/FC_서울 "wikilink") [서울](https://ko.wikipedia.org/wiki/서울 "wikilink"), 마지막으로 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [부천 SK가](https://ko.wikipedia.org/wiki/제주_유나이티드_FC "wikilink") [제주](https://ko.wikipedia.org/wiki/제주 "wikilink")를 연고로 하여\[61\] 각각 연고지 이전을 다시 한번 하였다.
+[1996년](../Page/1996년.md "wikilink") [서울 연고 공동화 정책으로](../Page/서울_연고_공동화_정책.md "wikilink") 인해 서울에서 수도권 등지로 연고지 이전했던 3개 구단들이 [2000년](../Page/2000년.md "wikilink") [천안 일화 천마가](https://ko.wikipedia.org/wiki/성남_FC "wikilink") [성남](https://ko.wikipedia.org/wiki/성남 "wikilink"), [2004년](../Page/2004년.md "wikilink") [안양 LG 치타스가](https://ko.wikipedia.org/wiki/FC_서울 "wikilink") [서울](https://ko.wikipedia.org/wiki/서울 "wikilink"), 마지막으로 [2006년](../Page/2006년.md "wikilink") [부천 SK가](../Page/제주_유나이티드_FC.md "wikilink") [제주](https://ko.wikipedia.org/wiki/제주 "wikilink")를 연고로 하여\[61\] 각각 연고지 이전을 다시 한번 하였다.
 
-또한 구단이 존재하지 않던 지역에서 새롭게 구단을 창단하도록 하였고, 이 과정에서 4개 구단이 신규 창단되었다. 또한, 기존에 존재하던 군인 축구단인 [상무 불사조가](../Page/광주_상무_축구단.md "wikilink") 광주를 연고로 하여 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink")부터 참가하기도 하였다. 그러나 [광주 상무의](../Page/광주_상무_축구단.md "wikilink") 경우 [광주광역시](https://ko.wikipedia.org/wiki/광주광역시 "wikilink")가 5년 내에 시민구단이 창단하는 것을 조건으로 한시적으로 참여하는 것이었고, 광주가 2008년 말에 이에 난색을 표명함으로써 논란이 일었다. 이 논란은 일단 광주와 국군체육부대와의 연고 계약을 2년 연장하는 대신 그 기간 동안 광주가 속히 시민구단을 창단하는 조건으로 종결되었다.\[62\]\[63\]\[64\]
+또한 구단이 존재하지 않던 지역에서 새롭게 구단을 창단하도록 하였고, 이 과정에서 4개 구단이 신규 창단되었다. 또한, 기존에 존재하던 군인 축구단인 [상무 불사조가](../Page/광주_상무_축구단.md "wikilink") 광주를 연고로 하여 [2003년](../Page/2003년.md "wikilink")부터 참가하기도 하였다. 그러나 [광주 상무의](../Page/광주_상무_축구단.md "wikilink") 경우 [광주광역시](https://ko.wikipedia.org/wiki/광주광역시 "wikilink")가 5년 내에 시민구단이 창단하는 것을 조건으로 한시적으로 참여하는 것이었고, 광주가 2008년 말에 이에 난색을 표명함으로써 논란이 일었다. 이 논란은 일단 광주와 국군체육부대와의 연고 계약을 2년 연장하는 대신 그 기간 동안 광주가 속히 시민구단을 창단하는 조건으로 종결되었다.\[62\]\[63\]\[64\]
 
-2003 시즌 [안양 LG 치타스가](https://ko.wikipedia.org/wiki/FC_서울 "wikilink") [창원에서](https://ko.wikipedia.org/wiki/창원시 "wikilink") [포항 스틸러스가](https://ko.wikipedia.org/wiki/포항_스틸러스 "wikilink") [상주에서](https://ko.wikipedia.org/wiki/상주시 "wikilink") 홈경기를 개최하고 2004 시즌 [울산 현대 호랑이가](https://ko.wikipedia.org/wiki/울산_현대_축구단 "wikilink") [마산과](https://ko.wikipedia.org/wiki/마산시 "wikilink") [창원에서](https://ko.wikipedia.org/wiki/창원시 "wikilink") 홈경기를 개최하는 것과 같이 자신의 연고지가 아닌 중립 도시에서 경기를 가지는 구태가 여전히 남아 있었지만, 2005 시즌부터 완벽한 프로축구단이 아닌 [광주 상무](https://ko.wikipedia.org/wiki/광주_상무 "wikilink")(연관없는 중립 도시가 아닌 광주 인근 도시인 보성, 영광 등지에서 매년 한 경기 정도의 경기를 개최하였다.)를 제외하고는 도시 연고를 가지는 구단이나 광역 연고를 가지는 구단 모두 자기의 연고지에서만 홈 경기를 하는 홈 앤드 어웨이 시스템이 철저하게 지켜지키 시작했다.
+2003 시즌 [안양 LG 치타스가](https://ko.wikipedia.org/wiki/FC_서울 "wikilink") [창원에서](../Page/창원시.md "wikilink") [포항 스틸러스가](../Page/포항_스틸러스.md "wikilink") [상주에서](../Page/상주시.md "wikilink") 홈경기를 개최하고 2004 시즌 [울산 현대 호랑이가](../Page/울산_현대_축구단.md "wikilink") [마산과](../Page/마산시.md "wikilink") [창원에서](../Page/창원시.md "wikilink") 홈경기를 개최하는 것과 같이 자신의 연고지가 아닌 중립 도시에서 경기를 가지는 구태가 여전히 남아 있었지만, 2005 시즌부터 완벽한 프로축구단이 아닌 [광주 상무](https://ko.wikipedia.org/wiki/광주_상무 "wikilink")(연관없는 중립 도시가 아닌 광주 인근 도시인 보성, 영광 등지에서 매년 한 경기 정도의 경기를 개최하였다.)를 제외하고는 도시 연고를 가지는 구단이나 광역 연고를 가지는 구단 모두 자기의 연고지에서만 홈 경기를 하는 홈 앤드 어웨이 시스템이 철저하게 지켜지키 시작했다.
 
   - 2006 시즌 리그 참가 구단과 연고지 현황
 
@@ -412,7 +412,7 @@
 
 [K리그](../Page/K리그.md "wikilink")에서 공식적인 지역 연고지 제도의 시발점은 광역지역연고제로 리그를 운영한 1987시즌으로 초창기 연고지내에서만 홈경기를 개최하고 중립경기를 최대한 배제하면서 강력하게 시행되었지만 당시 지역별 거점 대도시에서의 흥행 실패로 인해 1990시즌을 기점으로 도시지역연고제로 전환이 시작되어\[65\] 1991시즌 유공 코끼리를 마지막으로 모든 구단들이 도시지역연고제로 전환하였다.
 
-그 후 1996시즌부터 기존의 지역연고제를 보완하여\[66\] 구단 명칭 앞에 연고지역명을 붙이고 이를 언론에 공표함으로써 더욱더 연고의식을 고취시키기 위한 의지를 담은 완전지역연고제가 시행되어 현재에 이르고 있다. 2005시즌부터 한국 프로축구 [K리그](../Page/K리그.md "wikilink")에서 구단의 연고지와 상관 없는 지역에서 개최하던 중립 경기가 드물게 되었지만, 2010년대 이후에도 구단의 연고지가 아닌 곳에서 개최한 경기가 있었는데 [울산 현대의](https://ko.wikipedia.org/wiki/울산_현대_축구단 "wikilink") [서산](https://ko.wikipedia.org/wiki/서산시 "wikilink") 홈경기 (2011년 5월 15일)\[67\], [광주 FC의](https://ko.wikipedia.org/wiki/광주_FC "wikilink") [목포](https://ko.wikipedia.org/wiki/목포시 "wikilink") 홈경기 (2015년 4월 12일, 4월 18일, 4월 26일), [고양 Hi FC의](../Page/고양_자이크로_FC.md "wikilink") [파주](https://ko.wikipedia.org/wiki/파주시 "wikilink") 홈경기 (2015년 11월 1일)가 그렇다.
+그 후 1996시즌부터 기존의 지역연고제를 보완하여\[66\] 구단 명칭 앞에 연고지역명을 붙이고 이를 언론에 공표함으로써 더욱더 연고의식을 고취시키기 위한 의지를 담은 완전지역연고제가 시행되어 현재에 이르고 있다. 2005시즌부터 한국 프로축구 [K리그](../Page/K리그.md "wikilink")에서 구단의 연고지와 상관 없는 지역에서 개최하던 중립 경기가 드물게 되었지만, 2010년대 이후에도 구단의 연고지가 아닌 곳에서 개최한 경기가 있었는데 [울산 현대의](../Page/울산_현대_축구단.md "wikilink") [서산](../Page/서산시.md "wikilink") 홈경기 (2011년 5월 15일)\[67\], [광주 FC의](../Page/광주_FC.md "wikilink") [목포](https://ko.wikipedia.org/wiki/목포시 "wikilink") 홈경기 (2015년 4월 12일, 4월 18일, 4월 26일), [고양 Hi FC의](../Page/고양_자이크로_FC.md "wikilink") [파주](../Page/파주시.md "wikilink") 홈경기 (2015년 11월 1일)가 그렇다.
 
 ### 현재 K리그 구단별 연고지 참가 연도
 
@@ -730,13 +730,13 @@
 </table>
 
 <sup>가</sup> 1990년도부터 전구단이 공식적으로 도시지역연고제를 실시하기로 하였지만 이미 광역지역연고제하에서 포항은 1988년부터\[71\] 부산은 1989년부터 사실상 포항과 부산을 주연고지로 하여 대부분의 홈경기를 개최하였다.
-<sup>나</sup> 1996년 서울에서 부천으로 연고지 이전을 했지만 [부천종합운동장](https://ko.wikipedia.org/wiki/부천종합운동장 "wikilink")이 공사중인 관계로 2000년까지 서울 [목동운동장 주경기장에서](../Page/목동운동장.md "wikilink") 전 홈경기를 개최하였다.
+<sup>나</sup> 1996년 서울에서 부천으로 연고지 이전을 했지만 [부천종합운동장](../Page/부천종합운동장.md "wikilink")이 공사중인 관계로 2000년까지 서울 [목동운동장 주경기장에서](../Page/목동운동장.md "wikilink") 전 홈경기를 개최하였다.
 
 ## 비판
 
-[1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink")에 시행된 [서울 연고 공동화 정책과](https://ko.wikipedia.org/wiki/서울_연고_공동화_정책 "wikilink") [완전 지역 연고제](https://ko.wikipedia.org/wiki/K리그_연고지 "wikilink") 이후 K리그는 안양, 부천, 천안, 수원 등과 같은 중소도시 연고지 위주로 운영이 되었고 이에 대해 1998년에 열린 한국프로축구연맹 주최 공청회에서 김종환 스포츠마케팅 박사는 (2017년 현재 [대한축구협회](https://ko.wikipedia.org/wiki/대한축구협회 "wikilink") 집행부 일반이사\[72\]) 프로축구 마케팅을 위한 틈새 아이디어로 대도시 연고지 구조의 [프로야구와의](https://ko.wikipedia.org/wiki/KBO리그 "wikilink") 경쟁력 강화와 축구저변을 확대를 위한 바람직한 전략이라고 평가하기도 하였다.\[73\]
+[1996년](../Page/1996년.md "wikilink")에 시행된 [서울 연고 공동화 정책과](../Page/서울_연고_공동화_정책.md "wikilink") [완전 지역 연고제](../Page/K리그_연고지.md "wikilink") 이후 K리그는 안양, 부천, 천안, 수원 등과 같은 중소도시 연고지 위주로 운영이 되었고 이에 대해 1998년에 열린 한국프로축구연맹 주최 공청회에서 김종환 스포츠마케팅 박사는 (2017년 현재 [대한축구협회](../Page/대한축구협회.md "wikilink") 집행부 일반이사\[72\]) 프로축구 마케팅을 위한 틈새 아이디어로 대도시 연고지 구조의 [프로야구와의](https://ko.wikipedia.org/wiki/KBO리그 "wikilink") 경쟁력 강화와 축구저변을 확대를 위한 바람직한 전략이라고 평가하기도 하였다.\[73\]
 
-그러나 당시 축구팬들 사이에서는 K리그 저변 확대와 활성화를 위해서 중소도시 위주 연고지 정책에 대해 당시 비어있던 서울, 대구, 광주를 포함한 대도시 위주 연고지 정책을 시행해야 한다는 여론이 제기되기도 하였으며\[74\]\[75\]\[76\]근래들어 언론에서는 과거 [서울 연고 공동화 정책의](https://ko.wikipedia.org/wiki/서울_연고_공동화_정책 "wikilink") 강제시행과 그 후유증으로 지금까지 서울이라는 국내 프로스포츠 최대 빅마켓을 활용하지 못 하는 것과\[77\]\[78\]\[79\]그리고 [프로야구와](https://ko.wikipedia.org/wiki/KBO_리그 "wikilink") 달리 대도시 연고지를 활성화 시키지 못 하고 있는 것에 대해 비판 의견이 존재한다.\[80\]\[81\]\[82\]
+그러나 당시 축구팬들 사이에서는 K리그 저변 확대와 활성화를 위해서 중소도시 위주 연고지 정책에 대해 당시 비어있던 서울, 대구, 광주를 포함한 대도시 위주 연고지 정책을 시행해야 한다는 여론이 제기되기도 하였으며\[74\]\[75\]\[76\]근래들어 언론에서는 과거 [서울 연고 공동화 정책의](../Page/서울_연고_공동화_정책.md "wikilink") 강제시행과 그 후유증으로 지금까지 서울이라는 국내 프로스포츠 최대 빅마켓을 활용하지 못 하는 것과\[77\]\[78\]\[79\]그리고 [프로야구와](https://ko.wikipedia.org/wiki/KBO_리그 "wikilink") 달리 대도시 연고지를 활성화 시키지 못 하고 있는 것에 대해 비판 의견이 존재한다.\[80\]\[81\]\[82\]
 
 ## 관련 항목
 
@@ -746,7 +746,7 @@
   - [K리그 컵대회](https://ko.wikipedia.org/wiki/K리그_컵대회 "wikilink")
   - [FA컵](https://ko.wikipedia.org/wiki/FA컵_\(대한민국\) "wikilink")
   - [슈퍼컵](https://ko.wikipedia.org/wiki/대한민국_슈퍼컵 "wikilink")
-  - [대한축구협회](https://ko.wikipedia.org/wiki/대한축구협회 "wikilink")
+  - [대한축구협회](../Page/대한축구협회.md "wikilink")
 
 ## 각주
 

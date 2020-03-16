@@ -7,7 +7,7 @@
 
 1.  [Don\`T Stop \`Til You Get Enough](https://ko.wikipedia.org/wiki/Don\`T_Stop_\`Til_You_Get_Enough "wikilink")
 2.  [Rock With You](https://ko.wikipedia.org/wiki/Rock_With_You_\(마이클_잭슨\) "wikilink")
-3.  [Billie Jean](https://ko.wikipedia.org/wiki/Billie_Jean "wikilink")
+3.  [Billie Jean](../Page/Billie_Jean.md "wikilink")
 4.  [Beat It](https://ko.wikipedia.org/wiki/Beat_It "wikilink")
 5.  [Thriller](https://ko.wikipedia.org/wiki/Thriller_\(노래\) "wikilink")
 6.  [Human Nature](https://ko.wikipedia.org/wiki/Human_Nature "wikilink")

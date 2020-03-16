@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SMART-P](https://ko.wikipedia.org/wiki/SMART-P).
 
 
-**SMART-P**는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") [스마트 원자로의](https://ko.wikipedia.org/wiki/스마트_원자로 "wikilink") 실증(Pilot) 모델이다. **스마트 실증로**라고도 부른다. 65 MWt의 열출력을 낸다. [러시아](../Page/러시아.md "wikilink")의 핵잠수함 원자로 제조회사인 [OKBM](https://ko.wikipedia.org/wiki/OKBM "wikilink")사에서 기술이전을 받아 독자 설계 개발한 원자로이다. 330 MWt의 스마트 원자로의 가격이 7천억원인데 비해, 65 MWt의 스마트 실증로의 가격은 4300억원이다.[1](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=029&aid=0000107836) 2010년 현재, 한국 정부가 추진중인 스마트 실증로 건설사업은 2016년까지 7000억원의 사업비를 들여 스마트 상용화를 위한 실증로를 건설할 계획으로 울산, 부산, 경북, 전북 등이 유치를 위한 물밑경쟁이 치열하다.[2](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=112&aid=0002113876)
+**SMART-P**는 [대한민국](../Page/대한민국.md "wikilink") [스마트 원자로의](../Page/스마트_원자로.md "wikilink") 실증(Pilot) 모델이다. **스마트 실증로**라고도 부른다. 65 MWt의 열출력을 낸다. [러시아](../Page/러시아.md "wikilink")의 핵잠수함 원자로 제조회사인 [OKBM](https://ko.wikipedia.org/wiki/OKBM "wikilink")사에서 기술이전을 받아 독자 설계 개발한 원자로이다. 330 MWt의 스마트 원자로의 가격이 7천억원인데 비해, 65 MWt의 스마트 실증로의 가격은 4300억원이다.[1](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=029&aid=0000107836) 2010년 현재, 한국 정부가 추진중인 스마트 실증로 건설사업은 2016년까지 7000억원의 사업비를 들여 스마트 상용화를 위한 실증로를 건설할 계획으로 울산, 부산, 경북, 전북 등이 유치를 위한 물밑경쟁이 치열하다.[2](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=112&aid=0002113876)
 
 ## 원자력 잠수함
 
@@ -9,7 +9,7 @@
 
 역사적으로 [미국 해군은](../Page/미국_해군.md "wikilink") 59척의 [SSN](https://ko.wikipedia.org/wiki/SSN "wikilink")(공격원잠), 41척의 [SSBN](https://ko.wikipedia.org/wiki/SSBN "wikilink")(전략원잠) 등 모두 100척의 핵잠수함에 열출력 70MWt [가압경수로](https://ko.wikipedia.org/wiki/가압경수로 "wikilink") 1개를 탑재했다.
 
-세계 최초의 [SSN](https://ko.wikipedia.org/wiki/SSN "wikilink")(공격원잠)인 미국 [USS 노틸러스 (SSN-571)는](../Page/USS_노틸러스_\(SSN-571\).md "wikilink") 열출력 70MWt 경수로 1개를 탑재했는데, 소련 최초의 [SSN](https://ko.wikipedia.org/wiki/SSN "wikilink")(공격원잠)인 [노벰버급 잠수함은](https://ko.wikipedia.org/wiki/노벰버급_잠수함 "wikilink") 열출력 70MWt 경수로 2개를 탑재했다.
+세계 최초의 [SSN](https://ko.wikipedia.org/wiki/SSN "wikilink")(공격원잠)인 미국 [USS 노틸러스 (SSN-571)는](../Page/USS_노틸러스_\(SSN-571\).md "wikilink") 열출력 70MWt 경수로 1개를 탑재했는데, 소련 최초의 [SSN](https://ko.wikipedia.org/wiki/SSN "wikilink")(공격원잠)인 [노벰버급 잠수함은](../Page/노벰버급_잠수함.md "wikilink") 열출력 70MWt 경수로 2개를 탑재했다.
 
 세계 최초의 [SSBN](https://ko.wikipedia.org/wiki/SSBN "wikilink")(전략원잠)인 미국 [USS 조지 워싱턴 (SSBN-598)은](../Page/USS_조지_워싱턴_\(SSBN-598\).md "wikilink") 열출력 70MWt 경수로 1개를 탑재했는데, 소련 최초의 [SSBN](https://ko.wikipedia.org/wiki/SSBN "wikilink")(전략원잠)인 [호텔급 잠수함은](../Page/호텔급_잠수함.md "wikilink") 열출력 70MWt 경수로 2개를 탑재했다.
 
@@ -25,7 +25,7 @@
 
 ### 전략원잠
 
-미국 해군은 세계 최초의 [SSBN](https://ko.wikipedia.org/wiki/SSBN "wikilink")(전략원잠)인 [조지 워싱턴급 잠수함](../Page/조지_워싱턴급_잠수함.md "wikilink") 부터 열출력 70MWt 가압경수로인 [S5W 원자로](https://ko.wikipedia.org/wiki/S5W_원자로 "wikilink") 1개를 사용했다. 1959년 실전배치된 세계 최초의 [SSBN](https://ko.wikipedia.org/wiki/SSBN "wikilink")(전략원잠)인 [조지 워싱턴급 잠수함](../Page/조지_워싱턴급_잠수함.md "wikilink") 5척, [이단 앨런급 잠수함](https://ko.wikipedia.org/wiki/이단_앨런급_잠수함 "wikilink") 5척, [라파예트급 잠수함](https://ko.wikipedia.org/wiki/라파예트급_잠수함 "wikilink") 9척, [제임스 매디슨급 잠수함](https://ko.wikipedia.org/wiki/제임스_매디슨급_잠수함 "wikilink") 10척, [벤저민 프랭클린급 잠수함](../Page/벤저민_프랭클린급_잠수함.md "wikilink") 12척, 모두 41척의 [SSBN](https://ko.wikipedia.org/wiki/SSBN "wikilink")(전략원잠)에 열출력 70MWt 가압경수로인 [S5W 원자로](https://ko.wikipedia.org/wiki/S5W_원자로 "wikilink") 1개를 사용했다. 2016년 현재는 벤저민 프랭클린급 다음인 [오하이오급 잠수함을](https://ko.wikipedia.org/wiki/오하이오급_잠수함 "wikilink") 사용중인데, 이것만 열출력 220MWt 가압경수로인 [S8G 원자로로](https://ko.wikipedia.org/wiki/S8G_원자로 "wikilink") 바뀌었다.
+미국 해군은 세계 최초의 [SSBN](https://ko.wikipedia.org/wiki/SSBN "wikilink")(전략원잠)인 [조지 워싱턴급 잠수함](../Page/조지_워싱턴급_잠수함.md "wikilink") 부터 열출력 70MWt 가압경수로인 [S5W 원자로](https://ko.wikipedia.org/wiki/S5W_원자로 "wikilink") 1개를 사용했다. 1959년 실전배치된 세계 최초의 [SSBN](https://ko.wikipedia.org/wiki/SSBN "wikilink")(전략원잠)인 [조지 워싱턴급 잠수함](../Page/조지_워싱턴급_잠수함.md "wikilink") 5척, [이단 앨런급 잠수함](https://ko.wikipedia.org/wiki/이단_앨런급_잠수함 "wikilink") 5척, [라파예트급 잠수함](https://ko.wikipedia.org/wiki/라파예트급_잠수함 "wikilink") 9척, [제임스 매디슨급 잠수함](https://ko.wikipedia.org/wiki/제임스_매디슨급_잠수함 "wikilink") 10척, [벤저민 프랭클린급 잠수함](../Page/벤저민_프랭클린급_잠수함.md "wikilink") 12척, 모두 41척의 [SSBN](https://ko.wikipedia.org/wiki/SSBN "wikilink")(전략원잠)에 열출력 70MWt 가압경수로인 [S5W 원자로](https://ko.wikipedia.org/wiki/S5W_원자로 "wikilink") 1개를 사용했다. 2016년 현재는 벤저민 프랭클린급 다음인 [오하이오급 잠수함을](../Page/오하이오급_잠수함.md "wikilink") 사용중인데, 이것만 열출력 220MWt 가압경수로인 [S8G 원자로로](https://ko.wikipedia.org/wiki/S8G_원자로 "wikilink") 바뀌었다.
 
 ## 제2원자력연구원
 
@@ -39,14 +39,14 @@
 
   - 2010년 7월 21일 - [이광재](../Page/이광재_\(정치인\).md "wikilink") 강원도지사는 도청 기자실에서 기자간담회를 갖고 현재 정부가 추진 중인 제2원자력연구원 삼척 유치를 위해 [삼척시](https://ko.wikipedia.org/wiki/삼척시 "wikilink")와 공조를 벌여 나갈 계획이라고 밝혔다.
   - 2010년 9월 15일 - [김관용](../Page/김관용.md "wikilink") 경북도지사는 "2010 지역발전주간" 행사 참석차 대구를 찾은 [이명박](https://ko.wikipedia.org/wiki/이명박 "wikilink") 대통령에게 제2원자력연구원과 스마트 원자로를 울진, 경주 등 경북 동해안 지역에 설립해줄 것을 요청했다.
-  - 2011년 - 정부가 제2원자력연구원, [스마트 원자로](https://ko.wikipedia.org/wiki/스마트_원자로 "wikilink") 사업을 지자체에 공모할 예정이다. 제2원자력연구원에는 SMART-P(열출력 65 MWt)가 설치될 예정이다.
+  - 2011년 - 정부가 제2원자력연구원, [스마트 원자로](../Page/스마트_원자로.md "wikilink") 사업을 지자체에 공모할 예정이다. 제2원자력연구원에는 SMART-P(열출력 65 MWt)가 설치될 예정이다.
   - 2016년 - 스마트 실증로(열출력 65 MWt)가 [제2원자력연구원](https://ko.wikipedia.org/wiki/제2원자력연구원 "wikilink")에 준공될 예정이다.
-  - 2017년 - [스마트 원자로](https://ko.wikipedia.org/wiki/스마트_원자로 "wikilink")(열출력 330 MWt) 1호기가 준공될 예정이다.
+  - 2017년 - [스마트 원자로](../Page/스마트_원자로.md "wikilink")(열출력 330 MWt) 1호기가 준공될 예정이다.
   - 2018년 - [KSS-III](https://ko.wikipedia.org/wiki/KSS-III "wikilink") 잠수함 1번함이 진수될 예정이다.
 
 ## 더 보기
 
-  - [스마트 원자로](https://ko.wikipedia.org/wiki/스마트_원자로 "wikilink")
+  - [스마트 원자로](../Page/스마트_원자로.md "wikilink")
   - [KSS-III](https://ko.wikipedia.org/wiki/KSS-III "wikilink")
 
 ## 각주
@@ -55,7 +55,7 @@
 
 [분류:원자로](https://ko.wikipedia.org/wiki/분류:원자로 "wikilink") [분류:대한민국의 과학과 기술](https://ko.wikipedia.org/wiki/분류:대한민국의_과학과_기술 "wikilink") [분류:경수로](https://ko.wikipedia.org/wiki/분류:경수로 "wikilink") [분류:대한민국의 원자력](https://ko.wikipedia.org/wiki/분류:대한민국의_원자력 "wikilink")
 
-1.  반면에, [바라쿠다급 잠수함](https://ko.wikipedia.org/wiki/바라쿠다급_잠수함 "wikilink"), [샤를르드골 항공모함](https://ko.wikipedia.org/wiki/샤를르드골_항공모함 "wikilink"), [트리옹팡급 잠수함에](https://ko.wikipedia.org/wiki/트리옹팡급_잠수함 "wikilink") 사용되는 프랑스의 [K15 원자로는](https://ko.wikipedia.org/wiki/K15_원자로 "wikilink") 열출력이 150MWt이다.
+1.  반면에, [바라쿠다급 잠수함](../Page/바라쿠다급_잠수함.md "wikilink"), [샤를르드골 항공모함](https://ko.wikipedia.org/wiki/샤를르드골_항공모함 "wikilink"), [트리옹팡급 잠수함에](https://ko.wikipedia.org/wiki/트리옹팡급_잠수함 "wikilink") 사용되는 프랑스의 [K15 원자로는](https://ko.wikipedia.org/wiki/K15_원자로 "wikilink") 열출력이 150MWt이다.
 2.  ['일체형 원자로 개발사업' 좌초 위기](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=011&aid=0000202101)《서울경제신문》
 3.  욕조 크기 초소형 원자로?, 동아일보, 2009-02-06
 4.  하이페리온 파워 제너레이션, 소형휴대용 핵'전지' 신제품을 52차국제원자력기구총회서 선보이기로, 뉴시스, 2008-09-10

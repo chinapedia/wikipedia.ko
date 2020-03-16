@@ -22,7 +22,7 @@
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/크리스_에버트" title="wikilink">크리스 에버트</a> (1)</p></td>
+<td><p><a href="../Page/크리스_에버트.md" title="wikilink">크리스 에버트</a> (1)</p></td>
 <td><p>1975년 11월 3일</p></td>
 <td><p>1976년 4월 25일</p></td>
 <td><p>25</p></td>
@@ -30,7 +30,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이본_굴라공" title="wikilink">이본 굴라공 콜리</a> (2)</p></td>
+<td><p><a href="../Page/이본_굴라공.md" title="wikilink">이본 굴라공 콜리</a> (2)</p></td>
 <td><p>1976년 4월 26일</p></td>
 <td><p>1976년 5월 9일</p></td>
 <td><p>2</p></td>
@@ -102,7 +102,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/트레이시_오스틴" title="wikilink">트레이시 오스틴</a> (4)</p></td>
+<td><p><a href="../Page/트레이시_오스틴.md" title="wikilink">트레이시 오스틴</a> (4)</p></td>
 <td><p>1980년 4월 7일</p></td>
 <td><p>1980년 4월 20일</p></td>
 <td><p>2</p></td>
@@ -508,7 +508,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아멜리_모레스모" title="wikilink">아멜리 모레스모</a> (15)</p></td>
+<td><p><a href="../Page/아멜리_모레스모.md" title="wikilink">아멜리 모레스모</a> (15)</p></td>
 <td><p>2004년 9월 13일</p></td>
 <td><p>2004년 10월 17일</p></td>
 <td><p>5</p></td>
@@ -707,7 +707,7 @@
 <tr class="odd">
 <td><p>3.</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/크리스_에버트" title="wikilink">크리스 에버트</a></p></td>
+<td><p><a href="../Page/크리스_에버트.md" title="wikilink">크리스 에버트</a></p></td>
 <td><p>260</p></td>
 </tr>
 <tr class="even">
@@ -743,7 +743,7 @@
 <tr class="odd">
 <td><p>9.</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아멜리_모레스모" title="wikilink">아멜리 모레스모</a></p></td>
+<td><p><a href="../Page/아멜리_모레스모.md" title="wikilink">아멜리 모레스모</a></p></td>
 <td><p>39</p></td>
 </tr>
 <tr class="even">
@@ -755,7 +755,7 @@
 <tr class="odd">
 <td><p>11.</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/트레이시_오스틴" title="wikilink">트레이시 오스틴</a></p></td>
+<td><p><a href="../Page/트레이시_오스틴.md" title="wikilink">트레이시 오스틴</a></p></td>
 <td><p>21</p></td>
 </tr>
 <tr class="even">
@@ -843,7 +843,7 @@
 <tr class="odd">
 <td><p>3</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/크리스_에버트" title="wikilink">크리스 에버트</a></p></td>
+<td><p><a href="../Page/크리스_에버트.md" title="wikilink">크리스 에버트</a></p></td>
 <td><p>113</p></td>
 </tr>
 <tr class="even">
@@ -933,7 +933,7 @@
 <tr class="even">
 <td><p>=</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아멜리_모레스모" title="wikilink">아멜리 모레스모</a></p></td>
+<td><p><a href="../Page/아멜리_모레스모.md" title="wikilink">아멜리 모레스모</a></p></td>
 <td><p>34</p></td>
 </tr>
 <tr class="odd">
@@ -974,12 +974,12 @@
 </tr>
 <tr class="odd">
 <td><p>USA</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/크리스_에버트" title="wikilink">크리스 에버트</a></p></td>
+<td><p><a href="../Page/크리스_에버트.md" title="wikilink">크리스 에버트</a></p></td>
 <td><p>5</p></td>
 </tr>
 <tr class="even">
 <td><p>USA</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/린지_대븐포트" title="wikilink">린지 대븐포트</a></p></td>
+<td><p><a href="../Page/린지_대븐포트.md" title="wikilink">린지 대븐포트</a></p></td>
 <td><p>4</p></td>
 </tr>
 <tr class="odd">
@@ -1027,7 +1027,7 @@
 <tr class="odd">
 <td><p>1975</p></td>
 <td><p>USA</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/크리스_에버트" title="wikilink">크리스 에버트</a> (1)</p></td>
+<td><p><a href="../Page/크리스_에버트.md" title="wikilink">크리스 에버트</a> (1)</p></td>
 </tr>
 <tr class="even">
 <td><p>1976</p></td>
@@ -1041,7 +1041,7 @@
 </tr>
 <tr class="even">
 <td><p>1978</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/체코슬로바키아" title="wikilink">TCH</a></p></td>
+<td><p><a href="../Page/체코슬로바키아.md" title="wikilink">TCH</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/마르티나_나브라틸로바" title="wikilink">마르티나 나브라틸로바</a> (2)</p></td>
 </tr>
 <tr class="odd">
@@ -1106,7 +1106,7 @@
 </tr>
 <tr class="odd">
 <td><p>1991</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유고슬라비아_사회주의_연방공화국" title="wikilink">YUG</a></p></td>
+<td><p><a href="../Page/유고슬라비아_사회주의_연방공화국.md" title="wikilink">YUG</a></p></td>
 <td><p><a href="../Page/모니카_셀레스.md" title="wikilink">모니카 셀레스</a> (4)</p></td>
 </tr>
 <tr class="even">
@@ -1144,7 +1144,7 @@
 <tr class="even">
 <td><p>1998</p></td>
 <td><p>USA</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/린지_대븐포트" title="wikilink">린지 대븐포트</a> (6)</p></td>
+<td><p><a href="../Page/린지_대븐포트.md" title="wikilink">린지 대븐포트</a> (6)</p></td>
 </tr>
 <tr class="odd">
 <td><p>1999</p></td>
@@ -1168,7 +1168,7 @@
 </tr>
 <tr class="odd">
 <td><p>2003</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/벨기에" title="wikilink">BEL</a></p></td>
+<td><p><a href="../Page/벨기에.md" title="wikilink">BEL</a></p></td>
 <td><p><a href="../Page/쥐스틴_에냉.md" title="wikilink">쥐스틴 에냉</a> (8)</p></td>
 </tr>
 <tr class="even">
@@ -1230,7 +1230,7 @@
 <td><p>2005 <a href="../Page/US_오픈_(테니스).md" title="wikilink">US 오픈</a> 단식</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/아멜리_모레스모" title="wikilink">아멜리 모레스모</a></p></td>
+<td><p><a href="../Page/아멜리_모레스모.md" title="wikilink">아멜리 모레스모</a></p></td>
 <td><p>2004년 9월 13일</p></td>
 <td><p>2004 <a href="../Page/호주_오픈.md" title="wikilink">호주 오픈</a> 단식 (1999년 1월)</p></td>
 <td><p>2006 <a href="../Page/호주_오픈.md" title="wikilink">호주 오픈</a> 단식</p></td>
@@ -1292,7 +1292,7 @@
 <td><p>1995년 10월 30일</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/야나_노보트나" title="wikilink">야나 노보트나</a></p></td>
+<td><p><a href="../Page/야나_노보트나.md" title="wikilink">야나 노보트나</a></p></td>
 <td><p>1997년 7월 7일</p></td>
 </tr>
 <tr class="even">
@@ -1300,7 +1300,7 @@
 <td><p>2004년 9월 13일</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/스베틀라나_쿠즈네초바" title="wikilink">스베틀라나 쿠즈네초바</a></p></td>
+<td><p><a href="../Page/스베틀라나_쿠즈네초바.md" title="wikilink">스베틀라나 쿠즈네초바</a></p></td>
 <td><p>2007년 9월 10일</p></td>
 </tr>
 <tr class="even">
@@ -1410,7 +1410,7 @@
 <td><p>1990년 10월 22일</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/다테_기미코" title="wikilink">다테 기미코</a></p></td>
+<td><p><a href="../Page/다테_기미코.md" title="wikilink">다테 기미코</a></p></td>
 <td><p>1995년 5월 13일</p></td>
 </tr>
 <tr class="odd">
@@ -1484,7 +1484,7 @@
 <td><p>2007년 9월 10일</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/서맨사_스토서" title="wikilink">서맨사 스토서</a></p></td>
+<td><p><a href="../Page/서맨사_스토서.md" title="wikilink">서맨사 스토서</a></p></td>
 <td><p>2010년 7월 5일</p></td>
 </tr>
 </tbody>

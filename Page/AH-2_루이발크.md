@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [AH-2 ](https://ko.wikipedia.org/wiki/AH-2_).
 
 
-**데넬 AH-2 루이발크**(AH-2 Rooivalk)는 [남아프리카공화국](https://ko.wikipedia.org/wiki/남아프리카공화국 "wikilink") [데넬사](https://ko.wikipedia.org/wiki/데넬사 "wikilink")에서 만든 [공격 헬리콥터이다](https://ko.wikipedia.org/wiki/공격_헬리콥터 "wikilink"). 루이발크는 [아프리칸스어](https://ko.wikipedia.org/wiki/아프리칸스어 "wikilink")로 "붉은 황조롱이"(Red Kestrel)라는 뜻이다.
+**데넬 AH-2 루이발크**(AH-2 Rooivalk)는 [남아프리카공화국](https://ko.wikipedia.org/wiki/남아프리카공화국 "wikilink") [데넬사](https://ko.wikipedia.org/wiki/데넬사 "wikilink")에서 만든 [공격 헬리콥터이다](../Page/공격_헬리콥터.md "wikilink"). 루이발크는 [아프리칸스어](../Page/아프리칸스어.md "wikilink")로 "붉은 황조롱이"(Red Kestrel)라는 뜻이다.
 
 ## 개발배경
 
@@ -34,7 +34,7 @@
   - 공허중량=5,190 kg (11,441 lb)
   - 최대 이륙 중량=8,750 kg (19,290 lb)
   - 내부 연료=1,469 kg (3,238 lb)
-  - 엔진= 2× [터보메카 마킬라](https://ko.wikipedia.org/wiki/터보메카_마킬라 "wikilink") 1K2 [터보샤프트](https://ko.wikipedia.org/wiki/터보샤프트 "wikilink") 1,492 kW (2,001 shp)
+  - 엔진= 2× [터보메카 마킬라](https://ko.wikipedia.org/wiki/터보메카_마킬라 "wikilink") 1K2 [터보샤프트](../Page/터보샤프트.md "wikilink") 1,492 kW (2,001 shp)
 
 **성능**
 

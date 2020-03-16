@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [2002 Panasonic  ](https://ko.wikipedia.org/wiki/2002_Panasonic__).
 
 
-**2002 Panasonic배 온게임넷 스타리그**은 [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink")부터 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink")에 걸쳐 진행된 [스타리그](https://ko.wikipedia.org/wiki/스타리그 "wikilink")이다.
+**2002 Panasonic배 온게임넷 스타리그**은 [2002년](../Page/2002년.md "wikilink")부터 [2003년](../Page/2003년.md "wikilink")에 걸쳐 진행된 [스타리그](https://ko.wikipedia.org/wiki/스타리그 "wikilink")이다.
 
 ## 리그 정보
 
-  - 개최 기간: [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [11월 15일](https://ko.wikipedia.org/wiki/11월_15일 "wikilink") \~ [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [2월 14일](https://ko.wikipedia.org/wiki/2월_14일 "wikilink")
+  - 개최 기간: [2002년](../Page/2002년.md "wikilink") [11월 15일](../Page/11월_15일.md "wikilink") \~ [2003년](../Page/2003년.md "wikilink") [2월 14일](../Page/2월_14일.md "wikilink")
   - 챌린지리그 1위 첫 시드(4번)배정 (서지훈)
   - 이윤열 4번째 로열로더 등극 (기욤패트리-김동수-임요환-이윤열)
   - 역대 2번째 양대리그 우승자 및 양대리그 우승 테란 탄생 (임요환-이윤열)
@@ -40,7 +40,7 @@
 | C조 | **[손승완](../Page/손승완.md "wikilink")**                    | [박경락](../Page/박경락.md "wikilink")                     | **[박동욱](../Page/박동욱_\(프로게이머\).md "wikilink")**                      | [최수범](../Page/최수범.md "wikilink")                    | **[손승완](../Page/손승완.md "wikilink")**                    |
 | D조 | **[박현준](https://ko.wikipedia.org/wiki/박현준 "wikilink")** | [강민](../Page/강민_\(프로게이머\).md "wikilink")             | **송병석**                                                             | [이윤열](../Page/이윤열.md "wikilink")                    | **[박현준](https://ko.wikipedia.org/wiki/박현준 "wikilink")** |
 | E조 | **[박상익](https://ko.wikipedia.org/wiki/박상익 "wikilink")** | [기욤](https://ko.wikipedia.org/wiki/기욤패트리 "wikilink") | **[서지훈](https://ko.wikipedia.org/wiki/서지훈 "wikilink")**             | [조병호](https://ko.wikipedia.org/wiki/조병호 "wikilink") | **[서지훈](https://ko.wikipedia.org/wiki/서지훈 "wikilink")** |
-| F조 | **[이재훈](https://ko.wikipedia.org/wiki/이재훈 "wikilink")** | [박태민](https://ko.wikipedia.org/wiki/박태민 "wikilink")  | **김완철**                                                             | [박신영](../Page/박신영_\(프로게이머\).md "wikilink")          | **김완철**                                                 |
+| F조 | **[이재훈](../Page/이재훈.md "wikilink")**                    | [박태민](https://ko.wikipedia.org/wiki/박태민 "wikilink")  | **김완철**                                                             | [박신영](../Page/박신영_\(프로게이머\).md "wikilink")          | **김완철**                                                 |
 
 ### 최종 1위 결정전
 
@@ -86,7 +86,7 @@
 
 | A조                                                  | B조    | C조                                                                  | D조        |
 | --------------------------------------------------- | ----- | ------------------------------------------------------------------- | --------- |
-| [박정석](https://ko.wikipedia.org/wiki/박정석 "wikilink") | 0승 3패 | **[임요환](https://ko.wikipedia.org/wiki/임요환 "wikilink")**             | **2승 1패** |
+| [박정석](https://ko.wikipedia.org/wiki/박정석 "wikilink") | 0승 3패 | **[임요환](../Page/임요환.md "wikilink")**                                | **2승 1패** |
 | [베르트랑](../Page/베르트랑_그로스펠리에.md "wikilink")           | 2승 1패 | **[이운재](https://ko.wikipedia.org/wiki/이운재_\(이스포츠_감독\) "wikilink")** | **2승 1패** |
 | [강도경](../Page/강도경.md "wikilink")                    | 2승 1패 | [김동수](https://ko.wikipedia.org/wiki/김동수_\(해설자\) "wikilink")         | 1승 2패     |
 | [이윤열](../Page/이윤열.md "wikilink")                    | 2승 1패 | [장진남](../Page/장진남.md "wikilink")                                    | 1승 2패     |
@@ -107,12 +107,12 @@
 
 8강 조추첨에 따라 결정된 조에 따라서 한 선수가 한 경기씩 총 세 경기를 펼치게 되며, 한 조로 볼 때 총 여섯 경기를 치르게 된다.
 
-| A조                                                  | B조        |
-| --------------------------------------------------- | --------- |
-| [베르트랑](../Page/베르트랑_그로스펠리에.md "wikilink")           | 1승 2패     |
-| [임요환](https://ko.wikipedia.org/wiki/임요환 "wikilink") | 1승 2패     |
-| **[홍진호](../Page/홍진호.md "wikilink")**                | **2승 1패** |
-| **[박경락](../Page/박경락.md "wikilink")**                | **2승 1패** |
+| A조                                        | B조        |
+| ----------------------------------------- | --------- |
+| [베르트랑](../Page/베르트랑_그로스펠리에.md "wikilink") | 1승 2패     |
+| [임요환](../Page/임요환.md "wikilink")          | 1승 2패     |
+| **[홍진호](../Page/홍진호.md "wikilink")**      | **2승 1패** |
+| **[박경락](../Page/박경락.md "wikilink")**      | **2승 1패** |
 
 ## 4강 \~
 

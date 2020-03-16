@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Hail to the Thief](https://ko.wikipedia.org/wiki/Hail_to_the_Thief).
 
 
-《**Hail to the Thief**》는 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 [얼터너티브 록](../Page/얼터너티브_록.md "wikilink") 밴드 [라디오헤드](https://ko.wikipedia.org/wiki/라디오헤드 "wikilink")의 여섯 번째 음반이다. 2003년 6월 9일에 발매되었다. 이 앨범은 영국에서 1위로, 라디오헤드의 앨범들 중 첫째 주에 가장 많은 수의 카피가 팔린 미국에서 3위로 첫 데뷔를 했다. 이 앨범의 싱글들은 〈There There〉, 〈Go to Sleep〉, 그리고 〈2 + 2 = 5〉가 있다.
+《**Hail to the Thief**》는 [영국](../Page/영국.md "wikilink")의 [얼터너티브 록](../Page/얼터너티브_록.md "wikilink") 밴드 [라디오헤드](../Page/라디오헤드.md "wikilink")의 여섯 번째 음반이다. 2003년 6월 9일에 발매되었다. 이 앨범은 영국에서 1위로, 라디오헤드의 앨범들 중 첫째 주에 가장 많은 수의 카피가 팔린 미국에서 3위로 첫 데뷔를 했다. 이 앨범의 싱글들은 〈There There〉, 〈Go to Sleep〉, 그리고 〈2 + 2 = 5〉가 있다.
 
 ## 곡 목록
 

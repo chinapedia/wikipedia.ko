@@ -9,12 +9,12 @@
 
 ## 수록곡
 
-1.  [Blazin' Beat](https://ko.wikipedia.org/wiki/Blazin'_Beat "wikilink")
+1.  [Blazin' Beat](../Page/Blazin'_Beat.md "wikilink")
 2.  [words of the mind 〜brandnew journey〜](https://ko.wikipedia.org/wiki/Words_of_the_mind_-brandnew_journey- "wikilink")
 3.  majestic flight
 4.  time machine
 5.  silent white?
-6.  [singin' 4U](https://ko.wikipedia.org/wiki/Blazin'_Beat "wikilink")
+6.  [singin' 4U](../Page/Blazin'_Beat.md "wikilink")
 7.  flash you back （Electro House mix）
 8.  platinum
 9.  [BREAK IN2 THE NITE](https://ko.wikipedia.org/wiki/BREAK_IN2_THE_NITE "wikilink")

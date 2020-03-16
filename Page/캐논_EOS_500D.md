@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ EOS 500D](https://ko.wikipedia.org/wiki/_EOS_500D).
 
 
-**캐논 EOS 500D**()는 [캐논](../Page/캐논.md "wikilink")이 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") 4월 출시한 보급형[디지털 일안 반사식 카메라이다](../Page/디지털_일안_반사식_카메라.md "wikilink"). [캐논 EOS 450D의](../Page/캐논_EOS_450D.md "wikilink") 후속모델이며, MOV형식의 동영상 촬영이 가능하며 Full HD급(1920 × 1080) 동영상 촬영시 20fps로 촬영이 가능하다.\[1\]\[2\] 일본에서 판매되는 이름은 Canon EOS Kiss X3, 북미에서는 Canon EOS Rebel T1i이다. 경쟁 모델로는 소니의 [A550](https://ko.wikipedia.org/wiki/A550 "wikilink")과, 니콘의 [D5000](https://ko.wikipedia.org/wiki/D5000 "wikilink")등이 있다.
+**캐논 EOS 500D**()는 [캐논](../Page/캐논.md "wikilink")이 [2009년](../Page/2009년.md "wikilink") 4월 출시한 보급형[디지털 일안 반사식 카메라이다](../Page/디지털_일안_반사식_카메라.md "wikilink"). [캐논 EOS 450D의](../Page/캐논_EOS_450D.md "wikilink") 후속모델이며, MOV형식의 동영상 촬영이 가능하며 Full HD급(1920 × 1080) 동영상 촬영시 20fps로 촬영이 가능하다.\[1\]\[2\] 일본에서 판매되는 이름은 Canon EOS Kiss X3, 북미에서는 Canon EOS Rebel T1i이다. 경쟁 모델로는 소니의 [A550](https://ko.wikipedia.org/wiki/A550 "wikilink")과, 니콘의 [D5000](https://ko.wikipedia.org/wiki/D5000 "wikilink")등이 있다.
 
 ## 사진
 

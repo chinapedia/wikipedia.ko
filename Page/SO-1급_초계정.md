@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SO-1 ](https://ko.wikipedia.org/wiki/SO-1_).
 
 
-**SO-1급 초계정**(Project 201 So-I Class)은 [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [하바로프스크](https://ko.wikipedia.org/wiki/하바로프스크 "wikilink")에 위치한 제레노돌스크 조선소와 케르치 조선소에서 최초로 진수된 초계정으로, 1958년 이후 후속함들은 배수량 200톤까지 증가하여, 67년까지 생산되었다.\[1\]
+**SO-1급 초계정**(Project 201 So-I Class)은 [1995년](../Page/1995년.md "wikilink") [하바로프스크](https://ko.wikipedia.org/wiki/하바로프스크 "wikilink")에 위치한 제레노돌스크 조선소와 케르치 조선소에서 최초로 진수된 초계정으로, 1958년 이후 후속함들은 배수량 200톤까지 증가하여, 67년까지 생산되었다.\[1\]
 
 1960년 초반 구 소련에서 도입되어, 북한이 아직도 운용하는 초계정이다. 당 시 6\~8척이 도입되었고, 1968년부터 북한에서 직접 건조하여 단순 초계용으로 운용되는 초계정으로 알려져 있다.
 
@@ -37,7 +37,7 @@
 ## 같이 보기
 
   - [조선민주주의인민공화국 해군의 함정 목록](../Page/조선민주주의인민공화국_해군의_함정_목록.md "wikilink")
-  - [제2연평해전](https://ko.wikipedia.org/wiki/제2연평해전 "wikilink")
+  - [제2연평해전](../Page/제2연평해전.md "wikilink")
 
 ## 각주
 

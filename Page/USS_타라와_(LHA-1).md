@@ -7,7 +7,7 @@
 
 [Tarawa Atoll](https://ko.wikipedia.org/wiki/Tarawa_Atoll "wikilink") 다음으로 타라와 이름을 사용했다. [제2차 세계대전의](https://ko.wikipedia.org/wiki/제2차_세계대전 "wikilink") [타라와 전투에서](../Page/타라와_전투.md "wikilink") 이름을 따왔다. 최초의 타라와함은 [USS 타라와 (CV-40)이다](https://ko.wikipedia.org/wiki/USS_타라와_\(CV-40\) "wikilink").
 
-1973년 진수된 선박이며 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [3월 31일](https://ko.wikipedia.org/wiki/3월_31일 "wikilink") 퇴역했다.\[1\]
+1973년 진수된 선박이며 [2009년](../Page/2009년.md "wikilink") [3월 31일](../Page/3월_31일.md "wikilink") 퇴역했다.\[1\]
 
 ## 참고자료
 

@@ -1,16 +1,16 @@
 > This article is converted from Wikipedia: [2003 Mycube  ](https://ko.wikipedia.org/wiki/2003_Mycube__).
 
 
-**2003 Mycube배 온게임넷 스타리그**은 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink")에 진행된 [스타리그](https://ko.wikipedia.org/wiki/스타리그 "wikilink")이다.
+**2003 Mycube배 온게임넷 스타리그**은 [2003년](../Page/2003년.md "wikilink")에 진행된 [스타리그](https://ko.wikipedia.org/wiki/스타리그 "wikilink")이다.
 
 ## 대회 정보
 
-  - 대회 정보: [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [8월 1일](https://ko.wikipedia.org/wiki/8월_1일 "wikilink") \~ [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [11월 9일](https://ko.wikipedia.org/wiki/11월_9일 "wikilink")
-  - 스폰서 캐치프레이즈: [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")의 시작 마이큐브
+  - 대회 정보: [2003년](../Page/2003년.md "wikilink") [8월 1일](../Page/8월_1일.md "wikilink") \~ [2003년](../Page/2003년.md "wikilink") [11월 9일](../Page/11월_9일.md "wikilink")
+  - 스폰서 캐치프레이즈: [스마트폰](../Page/스마트폰.md "wikilink")의 시작 마이큐브
   - 최초의 야구장 결승전
   - 사상 첫 같은 종족간 결승전 (프로토스 VS 프로토스)
   - 스타리그 최초의 8강 투어 시작
-  - 8강 투어 장소 : [부산](https://ko.wikipedia.org/wiki/부산 "wikilink") [경성대학교](https://ko.wikipedia.org/wiki/경성대학교 "wikilink")
+  - 8강 투어 장소 : [부산](https://ko.wikipedia.org/wiki/부산 "wikilink") [경성대학교](../Page/경성대학교.md "wikilink")
   - 최초로 4강에 프로토스 3명 (박용욱, 강민, 박정석)
   - 박용욱 역대 가을의전설중에 동족잡고 우승한 최초의 프로토스 (악마토스의 시대 개막)
   - 박용욱 3번째 가을의전설 이룸 횟수로는 4번째(2000년김동수-2001년김동수-2002년박정석-2003년박용욱)
@@ -69,7 +69,7 @@
 | A조 | **[박용욱](../Page/박용욱.md "wikilink")**                    | [이운재](https://ko.wikipedia.org/wiki/이운재_\(이스포츠_감독\) "wikilink") | **[전태규](../Page/전태규.md "wikilink")**                    | [정재호](https://ko.wikipedia.org/wiki/정재호 "wikilink") | **[박용욱](../Page/박용욱.md "wikilink")**                    |
 | B조 | **[도진광](https://ko.wikipedia.org/wiki/도진광 "wikilink")** | [강도경](../Page/강도경.md "wikilink")                                | **[나경보](../Page/나경보.md "wikilink")**                    | [김현진](https://ko.wikipedia.org/wiki/김현진 "wikilink") | **[도진광](https://ko.wikipedia.org/wiki/도진광 "wikilink")** |
 | C조 | **[이윤열](../Page/이윤열.md "wikilink")**                    | [이주영](../Page/이주영_\(프로게이머\).md "wikilink")                      | **[강민](../Page/강민_\(프로게이머\).md "wikilink")**            | [장진수](https://ko.wikipedia.org/wiki/장진수 "wikilink") | **[이윤열](../Page/이윤열.md "wikilink")**                    |
-| D조 | **[박상익](https://ko.wikipedia.org/wiki/박상익 "wikilink")** | [장진남](../Page/장진남.md "wikilink")                                | **심성수**                                                 | [이재훈](https://ko.wikipedia.org/wiki/이재훈 "wikilink") | **[박상익](https://ko.wikipedia.org/wiki/박상익 "wikilink")** |
+| D조 | **[박상익](https://ko.wikipedia.org/wiki/박상익 "wikilink")** | [장진남](../Page/장진남.md "wikilink")                                | **심성수**                                                 | [이재훈](../Page/이재훈.md "wikilink")                    | **[박상익](https://ko.wikipedia.org/wiki/박상익 "wikilink")** |
 | E조 | **[조용호](https://ko.wikipedia.org/wiki/조용호 "wikilink")** | [김선기](https://ko.wikipedia.org/wiki/김선기 "wikilink")             | **[박정석](https://ko.wikipedia.org/wiki/박정석 "wikilink")** | [성학승](../Page/성학승.md "wikilink")                    | **[조용호](https://ko.wikipedia.org/wiki/조용호 "wikilink")** |
 | F조 | **[박경락](../Page/박경락.md "wikilink")**                    | [김근백](../Page/김근백.md "wikilink")                                | **[베르트랑](../Page/베르트랑_그로스펠리에.md "wikilink")**           | [손승완](../Page/손승완.md "wikilink")                    | **[박경락](../Page/박경락.md "wikilink")**                    |
 
@@ -99,7 +99,7 @@
 
 상위/하위 3인의 승패가 동률인 경우에는 삼자재경기를 통해 올라갈 선수를 가리게 된다.
 
-  - 재경기는 비방송 경기로 진행되어 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [9월 8일에](https://ko.wikipedia.org/wiki/9월_8일 "wikilink") 진행되었다. ([2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [9월 12일에는](https://ko.wikipedia.org/wiki/9월_12일 "wikilink") 리플레이를 통한 중계로 방송)
+  - 재경기는 비방송 경기로 진행되어 [2003년](../Page/2003년.md "wikilink") [9월 8일에](../Page/9월_8일.md "wikilink") 진행되었다. ([2003년](../Page/2003년.md "wikilink") [9월 12일에는](../Page/9월_12일.md "wikilink") 리플레이를 통한 중계로 방송)
 
 | A조                                                      | B조        | C조                                           |
 | ------------------------------------------------------- | --------- | -------------------------------------------- |
@@ -113,22 +113,22 @@
 
 8강 조추첨에 따라 결정된 조에 따라서 한 선수가 한 경기씩 총 세 경기를 펼치게 되며, 한 조로 볼 때 총 여섯 경기를 치르게 된다.
 
-| A조                                                  | B조        |
-| --------------------------------------------------- | --------- |
-| [전태규](../Page/전태규.md "wikilink")                    | 1승 2패     |
-| [박용욱](../Page/박용욱.md "wikilink")                    | 1승 2패     |
-| **[강민](../Page/강민_\(프로게이머\).md "wikilink")**        | **3승 0패** |
-| [임요환](https://ko.wikipedia.org/wiki/임요환 "wikilink") | 1승 2패     |
+| A조                                           | B조        |
+| -------------------------------------------- | --------- |
+| [전태규](../Page/전태규.md "wikilink")             | 1승 2패     |
+| [박용욱](../Page/박용욱.md "wikilink")             | 1승 2패     |
+| **[강민](../Page/강민_\(프로게이머\).md "wikilink")** | **3승 0패** |
+| [임요환](../Page/임요환.md "wikilink")             | 1승 2패     |
 
 ### 재경기
 
 상위/하위 3인의 승패가 동률인 경우에는 삼자재경기를 통해 올라갈 선수를 가리게 된다.
 
-| A조                                                  |
-| --------------------------------------------------- |
-| [전태규](../Page/전태규.md "wikilink")                    |
-| **[박용욱](../Page/박용욱.md "wikilink")**                |
-| [임요환](https://ko.wikipedia.org/wiki/임요환 "wikilink") |
+| A조                                   |
+| ------------------------------------ |
+| [전태규](../Page/전태규.md "wikilink")     |
+| **[박용욱](../Page/박용욱.md "wikilink")** |
+| [임요환](../Page/임요환.md "wikilink")     |
 
 ## 4강 \~
 

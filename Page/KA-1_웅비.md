@@ -5,7 +5,7 @@
 
 ## 개요
 
-국방과학연구소에서 설계하고 한국항공우주산업(KAI)에서 총조립 제작한 전술통제기이다. [KT-1](https://ko.wikipedia.org/wiki/KT-1 "wikilink") 초등 훈련기의 파생형으로 플랫앤휘트니사의 950마력 엔진을 탑재하고 있다. [대한민국 공군에서](https://ko.wikipedia.org/wiki/대한민국_공군 "wikilink") 20여대를 도입, 보유하고 있다. 본래 명칭은 KO-1이었으나 2007년 10월 1일 KA-1으로 변경되었다. 현재 KO-1이라는 명칭은 사라졌다.
+국방과학연구소에서 설계하고 한국항공우주산업(KAI)에서 총조립 제작한 전술통제기이다. [KT-1](https://ko.wikipedia.org/wiki/KT-1 "wikilink") 초등 훈련기의 파생형으로 플랫앤휘트니사의 950마력 엔진을 탑재하고 있다. [대한민국 공군에서](../Page/대한민국_공군.md "wikilink") 20여대를 도입, 보유하고 있다. 본래 명칭은 KO-1이었으나 2007년 10월 1일 KA-1으로 변경되었다. 현재 KO-1이라는 명칭은 사라졌다.
 
 ## 임무
 
@@ -51,13 +51,13 @@ KA-1 공격기는 원래 근접항공지원([CAS](https://ko.wikipedia.org/wiki/
 
 [사이드와인더](https://ko.wikipedia.org/wiki/사이드와인더 "wikilink")는 무게 90 kg의 능동식 적외선 유도방식의 단거리 공대공 미사일이라서, 레이다가 없는 공격기나 헬기 등에도 장착할 수 있다.
 
-  - [AIM-9 사이드와인더](https://ko.wikipedia.org/wiki/AIM-9_사이드와인더 "wikilink") 사거리 35 km, 무게 85 kg, 적외선 유도, 1억원
+  - [AIM-9 사이드와인더](../Page/AIM-9_사이드와인더.md "wikilink") 사거리 35 km, 무게 85 kg, 적외선 유도, 1억원
 
 ### 암람
 
-보통 프로펠러기에 사거리 100 km가 넘는 [암람](https://ko.wikipedia.org/wiki/암람 "wikilink")급 미사일을 탑재하지는 않지만, 암람급 미사일은 사이드와인더와 같이 전투기 레이다가 필요없다. 조기경보기 등의 [AESA](https://ko.wikipedia.org/wiki/AESA "wikilink") 레이다로 유도가 가능하기 때문에, 장착이 불가능한 것은 아니다. 락온없이 발사하여, 조기경보기 등의 [AESA](https://ko.wikipedia.org/wiki/AESA "wikilink") 레이다가 중간유도를 하며, 종말유도는 암람 내부 레이다를 켜서 목표물을 락온하게 된다. 미국, 러시아, 이스라엘, 중국, 일본 등 다수의 나라들이 이러한 발사후락온이 되는 [액티브 레이다 유도](https://ko.wikipedia.org/wiki/액티브_레이다_유도 "wikilink") 중거리 공대공 미사일을 자체개발해 보유하고 있다. 암람급은 사이더와인더급보다 약 2배 정도의 무게를 갖는다.
+보통 프로펠러기에 사거리 100 km가 넘는 [암람](https://ko.wikipedia.org/wiki/암람 "wikilink")급 미사일을 탑재하지는 않지만, 암람급 미사일은 사이드와인더와 같이 전투기 레이다가 필요없다. 조기경보기 등의 [AESA](../Page/AESA.md "wikilink") 레이다로 유도가 가능하기 때문에, 장착이 불가능한 것은 아니다. 락온없이 발사하여, 조기경보기 등의 [AESA](../Page/AESA.md "wikilink") 레이다가 중간유도를 하며, 종말유도는 암람 내부 레이다를 켜서 목표물을 락온하게 된다. 미국, 러시아, 이스라엘, 중국, 일본 등 다수의 나라들이 이러한 발사후락온이 되는 [액티브 레이다 유도](https://ko.wikipedia.org/wiki/액티브_레이다_유도 "wikilink") 중거리 공대공 미사일을 자체개발해 보유하고 있다. 암람급은 사이더와인더급보다 약 2배 정도의 무게를 갖는다.
 
-  - [AIM-120 암람](https://ko.wikipedia.org/wiki/AIM-120_암람 "wikilink") 사거리 70 km, 무게 150 kg, [액티브 레이다 유도](https://ko.wikipedia.org/wiki/액티브_레이다_유도 "wikilink"), 5억원
+  - [AIM-120 암람](../Page/AIM-120_암람.md "wikilink") 사거리 70 km, 무게 150 kg, [액티브 레이다 유도](https://ko.wikipedia.org/wiki/액티브_레이다_유도 "wikilink"), 5억원
 
 ## 이력
 

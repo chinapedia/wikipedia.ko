@@ -1,23 +1,23 @@
 > This article is converted from Wikipedia: [It\'s Hyorish](https://ko.wikipedia.org/wiki/It\'s_Hyorish).
 
 
-《**It's Hyorish**》는 대한민국의 가수 [이효리](https://ko.wikipedia.org/wiki/이효리 "wikilink")의 세 번째 정규 음반으로, 2008년 7월 16일 발매되었다. 총 13곡의 트랙으로 구성되어 있고, 전체 러닝 타임은 45분 49초다.
+《**It's Hyorish**》는 대한민국의 가수 [이효리](../Page/이효리.md "wikilink")의 세 번째 정규 음반으로, 2008년 7월 16일 발매되었다. 총 13곡의 트랙으로 구성되어 있고, 전체 러닝 타임은 45분 49초다.
 
 ## 설명
 
-  - *[Dark Angel](https://ko.wikipedia.org/wiki/Dark_Angel_\(음반\) "wikilink")*로부터 정규[앨범은](../Page/음반.md "wikilink") 2년 4개월 만에 발매하였다.
-  - 정식 티저 예고 영상을 공개하기 전, [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [6월 22일](https://ko.wikipedia.org/wiki/6월_22일 "wikilink") [다음](https://ko.wikipedia.org/wiki/다음 "wikilink") 동영상으로 통해 완성 전 티저 동영상이 유출되었다.
+  - *[Dark Angel](../Page/Dark_Angel_\(음반\).md "wikilink")*로부터 정규[앨범은](../Page/음반.md "wikilink") 2년 4개월 만에 발매하였다.
+  - 정식 티저 예고 영상을 공개하기 전, [2008년](../Page/2008년.md "wikilink") [6월 22일](../Page/6월_22일.md "wikilink") [다음](../Page/다음.md "wikilink") 동영상으로 통해 완성 전 티저 동영상이 유출되었다.
   - 정식 티저 예고 영상에는 앨범 타이틀곡이자 수록곡인 "[U-Go-Girl](../Page/U-Go-Girl.md "wikilink")" (with [낯선](../Page/낯선.md "wikilink")) 이 30초 사용되었다.
   - 정식 티저 예고 영상은 다음날인 2008년 6월 23일 엠넷을 통해 공개되었다. 동시에 앨범 사진도 공개를 시작하였다.
-  - 앨범 발매일을 하루 앞둔 14일 0시 온라인 음원사이트 [엠넷닷컴](https://ko.wikipedia.org/wiki/엠넷닷컴 "wikilink") 통해 5곡을 선 공개한다고 발표하였으나, 중국에서의 유출로 [7월 12일](https://ko.wikipedia.org/wiki/7월_12일 "wikilink") 공개되었다. 선 공개 곡은 아래와 같다.
+  - 앨범 발매일을 하루 앞둔 14일 0시 온라인 음원사이트 [엠넷닷컴](https://ko.wikipedia.org/wiki/엠넷닷컴 "wikilink") 통해 5곡을 선 공개한다고 발표하였으나, 중국에서의 유출로 [7월 12일](../Page/7월_12일.md "wikilink") 공개되었다. 선 공개 곡은 아래와 같다.
       - 〈천하무적 이효리〉, "Lesson", "U-Go-Girl" (with 낯선), 〈빨간 자동차〉 (with [김건모](../Page/김건모.md "wikilink")), "P.P.P" (트랙 순서 기준)
-  - 뮤직비디오 티저 예고 영상은 2008년 7월 12일 엠넷닷컴과 팬카페를 통해 공개되었다. 정식 공개는 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [7월 16일](https://ko.wikipedia.org/wiki/7월_16일 "wikilink").
+  - 뮤직비디오 티저 예고 영상은 2008년 7월 12일 엠넷닷컴과 팬카페를 통해 공개되었다. 정식 공개는 [2008년](../Page/2008년.md "wikilink") [7월 16일](../Page/7월_16일.md "wikilink").
   - 앨범을 기다려준 사람들을 위해 1만 장 LP버전으로 한정반을 제작하였다.
-  - 앨범 준비 과정 중 일부는 본인의 리얼리티 프로그램 《[오프 더 레코드 - 효리](https://ko.wikipedia.org/wiki/오프_더_레코드_-_효리 "wikilink")》에서 공개 되었다.
+  - 앨범 준비 과정 중 일부는 본인의 리얼리티 프로그램 《[오프 더 레코드 - 효리](../Page/오프_더_레코드_-_효리.md "wikilink")》에서 공개 되었다.
 
 ## 수록곡
 
-1.  천하무적 [이효리](https://ko.wikipedia.org/wiki/이효리 "wikilink")
+1.  천하무적 [이효리](../Page/이효리.md "wikilink")
       - 작사: 김이나 / 작곡: 김도현 / 편곡: 김도현
       - 참여
           - 기타: 고태영 / 코러스: 김다영, 이효리 / 레코딩 엔지니어: 장우영 / 믹싱 엔지니어: 박혁
@@ -74,16 +74,16 @@
 
 ### "U-GO-GIRL" (with 낯선)
 
-  - 뮤직비디오 티저 영상 공개 후, [간호사](https://ko.wikipedia.org/wiki/간호사 "wikilink") 의상이 논란이 되었다.
+  - 뮤직비디오 티저 영상 공개 후, [간호사](../Page/간호사.md "wikilink") 의상이 논란이 되었다.
   - 이후 소속사인 [엠넷](../Page/엠넷.md "wikilink")미디어는 간호사 의상은 완성된 뮤직비디오에는 삽입하지 않는다고 대답하였다.
-  - 정식 공개일은 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [7월 16일이다](https://ko.wikipedia.org/wiki/7월_16일 "wikilink").
+  - 정식 공개일은 [2008년](../Page/2008년.md "wikilink") [7월 16일이다](../Page/7월_16일.md "wikilink").
   - 스태프
       - 감독: [차은택](../Page/차은택.md "wikilink") / 프로듀서: 홍정표 / 조감독: 김철, 오정희 / 촬영감독: 최범수 / 조명감독: 박노섭 / 편집: DO김대원
 
 ### Hey Mr.BiG
 
   - 8월 초 이틀간의 걸쳐서 촬영하였다.
-  - 정식 공개일은 [8월 28일이다](https://ko.wikipedia.org/wiki/8월_28일 "wikilink").
+  - 정식 공개일은 [8월 28일이다](../Page/8월_28일.md "wikilink").
 
 ## 방송 활동
 
@@ -97,7 +97,7 @@
 
 ### 컴백 무대
 
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [7월 18일](https://ko.wikipedia.org/wiki/7월_18일 "wikilink") [금요일](https://ko.wikipedia.org/wiki/금요일 "wikilink"), [KBS](../Page/KBS_2TV.md "wikilink") [뮤직뱅크](../Page/뮤직뱅크.md "wikilink")에서 첫 컴백무대를 열었다.
+  - [2008년](../Page/2008년.md "wikilink") [7월 18일](../Page/7월_18일.md "wikilink") [금요일](../Page/금요일.md "wikilink"), [KBS](../Page/KBS_2TV.md "wikilink") [뮤직뱅크](../Page/뮤직뱅크.md "wikilink")에서 첫 컴백무대를 열었다.
   - KBS 뮤직뱅크, [MBC](../Page/MBC_TV.md "wikilink") [쇼 음악중심에서는](https://ko.wikipedia.org/wiki/쇼_음악중심 "wikilink") 〈천하무적 이효리〉와 "U-GO-GIRL" (with [낯선](../Page/낯선.md "wikilink"))을 선보였다.
   - [SBS 인기가요에서는](../Page/SBS_인기가요.md "wikilink") 밴드와 함께 〈사진첩〉을 선보였다.
   - M.NET/KMTV m\!COUNTDOWN에서는 "Don't Cry"를 선보였다.
@@ -105,10 +105,10 @@
 
 ### U-GO-GIRL with 낯선
 
-  - 낯선과 계속 활동하였다. [핑클](https://ko.wikipedia.org/wiki/핑클 "wikilink") 데뷔 이후로 핑클 멤버 외에 다른 사람과 계속 활동하는 건 처음이다.
+  - 낯선과 계속 활동하였다. [핑클](../Page/핑클.md "wikilink") 데뷔 이후로 핑클 멤버 외에 다른 사람과 계속 활동하는 건 처음이다.
   - 뮤직비디오에서 공개한 리믹스로 방송에서 활동하였다. 리믹스가 들어간 러닝타임은 3분 44초이다.
-  - 방송3사 컴백 이후 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [7월 27일](https://ko.wikipedia.org/wiki/7월_27일 "wikilink") SBS 인기가요에서 뮤티즌상을 수상하여 눈물을 보이기도 했다.
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [7월 31일](https://ko.wikipedia.org/wiki/7월_31일 "wikilink") m\! COUNTDOWN에서는 〈빨간 자동차〉를 [SG워너비](https://ko.wikipedia.org/wiki/SG워너비 "wikilink")의 [김진호와](../Page/김진호_\(가수\).md "wikilink") 함께 선보였다.
+  - 방송3사 컴백 이후 [2008년](../Page/2008년.md "wikilink") [7월 27일](../Page/7월_27일.md "wikilink") SBS 인기가요에서 뮤티즌상을 수상하여 눈물을 보이기도 했다.
+  - [2008년](../Page/2008년.md "wikilink") [7월 31일](../Page/7월_31일.md "wikilink") m\! COUNTDOWN에서는 〈빨간 자동차〉를 [SG워너비](https://ko.wikipedia.org/wiki/SG워너비 "wikilink")의 [김진호와](../Page/김진호_\(가수\).md "wikilink") 함께 선보였다.
 
 ### Hey Mr.BiG
 

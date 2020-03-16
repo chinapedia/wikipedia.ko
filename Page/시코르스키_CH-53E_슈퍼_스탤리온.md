@@ -7,17 +7,17 @@
 
 최대이륙중량 33톤으로서, [F-15](https://ko.wikipedia.org/wiki/F-15 "wikilink") 전투기의 무게에 필적한다. [아파치](https://ko.wikipedia.org/wiki/아파치 "wikilink")(10톤)나 [블랙호크](https://ko.wikipedia.org/wiki/블랙호크 "wikilink")(10톤)의 3배 무게이다. 14.5톤의 외부화물을 옮길 수 있어서, 고장난 [블랙호크](https://ko.wikipedia.org/wiki/블랙호크 "wikilink")를 거뜬히 들어올린다. 블랙호크는 최대이륙중량이 10톤이지, 최소중량은 5톤 밖에 안 된다. [AH-64 아파치가](../Page/AH-64_아파치.md "wikilink") 2천마력 엔진 2개를 사용하나, 슈퍼스탤리온은 4천마력엔진 3개를 사용한다.
 
-헬기 로터의 바람이 엄청나기 때문에 해군 병사들은 "Hurricane Maker"라고 부른다. [미국 해병대를](../Page/미국_해병대.md "wikilink") 위해 [시코르스키 항공에서](https://ko.wikipedia.org/wiki/시코르스키_항공 "wikilink") 제작했다.
+헬기 로터의 바람이 엄청나기 때문에 해군 병사들은 "Hurricane Maker"라고 부른다. [미국 해병대를](../Page/미국_해병대.md "wikilink") 위해 [시코르스키 항공에서](../Page/시코르스키_항공.md "wikilink") 제작했다.
 
 미국 해군은 **MH-53E Sea Dragon**을 장거리 기뢰 수색 또는 공중 기뢰 대책(AMCM: Airborne Mine Countermeasures) 임무와 중량화물 수송에 사용한다.
 
 CH-53E/MH-53E는 시코르스키사의 S-80 헬리콥터를 말한다.
 
-현재 3개의 7,500 마력 (5,590 kW) [터보샤프트](https://ko.wikipedia.org/wiki/터보샤프트 "wikilink") 엔진을 사용하며, 새로운 합금 로터 블레이드와 보다 더 넓어진 화물칸을 갖는 [CH-53K](https://ko.wikipedia.org/wiki/CH-53K "wikilink")가 개발중이다.
+현재 3개의 7,500 마력 (5,590 kW) [터보샤프트](../Page/터보샤프트.md "wikilink") 엔진을 사용하며, 새로운 합금 로터 블레이드와 보다 더 넓어진 화물칸을 갖는 [CH-53K](https://ko.wikipedia.org/wiki/CH-53K "wikilink")가 개발중이다.
 
 ## 대중 문화
 
-CH-53E는 영화 [트랜스포머: 패자의 역습에서](https://ko.wikipedia.org/wiki/트랜스포머:_패자의_역습 "wikilink") [디셉티콘](https://ko.wikipedia.org/wiki/디셉티콘 "wikilink") [블랙아웃](https://ko.wikipedia.org/wiki/블랙아웃 "wikilink")의 변신형이다.\[1\]
+CH-53E는 영화 [트랜스포머: 패자의 역습에서](../Page/트랜스포머:_패자의_역습.md "wikilink") [디셉티콘](https://ko.wikipedia.org/wiki/디셉티콘 "wikilink") [블랙아웃](https://ko.wikipedia.org/wiki/블랙아웃 "wikilink")의 변신형이다.\[1\]
 
 ## 대한민국
 
@@ -44,7 +44,7 @@ CH-53E는 영화 [트랜스포머: 패자의 역습에서](https://ko.wikipedia.
   - **원판면적:** 4,900 ft² (460 m²)
   - **공허중량:** 33,226 lb (15,071 kg)
   - **최대이륙중량:** 73,500 lb (33,300 kg)
-  - **엔진:** 3× [제너럴 일렉트릭 T64-GE-416/416A](https://ko.wikipedia.org/wiki/제너럴_일렉트릭_T64-GE-416/416A "wikilink") [터보샤프트](https://ko.wikipedia.org/wiki/터보샤프트 "wikilink"), 4,380 shp (3,270 kW) 각각
+  - **엔진:** 3× [제너럴 일렉트릭 T64-GE-416/416A](https://ko.wikipedia.org/wiki/제너럴_일렉트릭_T64-GE-416/416A "wikilink") [터보샤프트](../Page/터보샤프트.md "wikilink"), 4,380 shp (3,270 kW) 각각
   - **로터:** 7엽 메인로터, 4엽 테일로터
 
 <!-- end list -->
@@ -68,7 +68,7 @@ CH-53E는 영화 [트랜스포머: 패자의 역습에서](https://ko.wikipedia.
 
   - **기관포:**
       - 2× .50 BMG (12.7 x 99 mm) 좌우측 [XM218 기관총](https://ko.wikipedia.org/wiki/XM218_기관총 "wikilink")
-      - 1× .50 BMG (12.7 x 99 mm) 후미 [GAU-21](https://ko.wikipedia.org/wiki/GAU-21 "wikilink") ([M3M 기관총](https://ko.wikipedia.org/wiki/M2_브라우닝 "wikilink"))
+      - 1× .50 BMG (12.7 x 99 mm) 후미 [GAU-21](https://ko.wikipedia.org/wiki/GAU-21 "wikilink") ([M3M 기관총](../Page/M2_브라우닝.md "wikilink"))
   - **기타:** 채프, 플래어 발사기
 
 ## 같이 보기

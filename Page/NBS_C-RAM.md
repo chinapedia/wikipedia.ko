@@ -19,7 +19,7 @@ NBS C-RAM 시스템은 6개의 35mm 자동 기관포 (분당 1,000 발 발사능
 
   - [LFK NG](https://ko.wikipedia.org/wiki/LFK_NG "wikilink") - 독일 육군의 최신형 대공 미사일
   - [MEADS](../Page/MEADS.md "wikilink") - 미국, 독일, 이탈리아의 패트리어트 대체용 신형 이동식 중거리 대공 미사일 시스템
-  - [Counter-RAM](https://ko.wikipedia.org/wiki/Counter-RAM "wikilink") - C-RAM의 설명과 실전 동영상
+  - [Counter-RAM](../Page/Counter-RAM.md "wikilink") - C-RAM의 설명과 실전 동영상
 
 ## 외부 링크
 

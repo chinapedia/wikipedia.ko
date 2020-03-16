@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [KSR-II](https://ko.wikipedia.org/wiki/KSR-II).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:P_R_KSR-2_05.jpg "wikilink") **KSR-II**는 대한민국이 발사한 2단 고체연료 [관측 로켓이다](https://ko.wikipedia.org/wiki/관측_로켓 "wikilink"). KSR-I이 1993년 3월과 9월 2회 발사된 것 처럼, KSR-II도 로켓 2개를 제작하여, 1997년과 1998년 2회 발사했다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:P_R_KSR-2_05.jpg "wikilink") **KSR-II**는 대한민국이 발사한 2단 고체연료 [관측 로켓이다](../Page/관측_로켓.md "wikilink"). KSR-I이 1993년 3월과 9월 2회 발사된 것 처럼, KSR-II도 로켓 2개를 제작하여, 1997년과 1998년 2회 발사했다.
 
 ## 역사
 
 1993년 6월 3일, [한국항공우주연구소](https://ko.wikipedia.org/wiki/한국항공우주연구소 "wikilink")는 1996년에 2단 로켓인 KSR-2를 발사할 계획이다. 중량 2톤, 길이 10.35 m, 탑재물 150 kg, 비행시간 8분 10초, 고도 258 km, 비행거리 125 km 이다. 추력은 1단 23톤, 2단 10톤이다. KSR-1는 추력 8.7톤이었다.\[1\]
 
-1997년 7월 9일 오전 10시 20분, 서해안 태안반도 [안흥종합시험장](https://ko.wikipedia.org/wiki/안흥종합시험장 "wikilink")에서 KSR-2 과학로켓을 최초발사했다. [한국항공우주연구소](https://ko.wikipedia.org/wiki/한국항공우주연구소 "wikilink")(소장 [장근호](https://ko.wikipedia.org/wiki/장근호 "wikilink"))는 과학로켓이 148 km 까지 도달해 378초 동안 비행한 뒤 서해안의 목표지점에 정확하게 떨어졌다고 발표했다. 총 52억원의 예산이 투입되었다.\[2\]
+1997년 7월 9일 오전 10시 20분, 서해안 태안반도 [안흥종합시험장](../Page/안흥종합시험장.md "wikilink")에서 KSR-2 과학로켓을 최초발사했다. [한국항공우주연구소](https://ko.wikipedia.org/wiki/한국항공우주연구소 "wikilink")(소장 [장근호](https://ko.wikipedia.org/wiki/장근호 "wikilink"))는 과학로켓이 148 km 까지 도달해 378초 동안 비행한 뒤 서해안의 목표지점에 정확하게 떨어졌다고 발표했다. 총 52억원의 예산이 투입되었다.\[2\]
 
 ## 최고고도
 
@@ -15,7 +15,7 @@
 
 KSR-I의 최고고도가 66.7km인데 비해 KSR-II는 258km다. 엔진 추력이 1단 23톤, 2단 10톤으로 KSR-I의 8.7톤 보다 4배 정도 강력하기 때문이다. 대전엑스포에 전시될 예정인 [KARI](https://ko.wikipedia.org/wiki/KARI "wikilink") 마크가 선명한 KSR-II의 사진이 보도되었다.\[4\]
 
-KSR-II는 151.5km까지 상승하여 국내 최초로 우주 X선을 관측했다. KSR-I의 최고고도는 50 km 미만이어서 [성층권](https://ko.wikipedia.org/wiki/성층권 "wikilink")의 [오존](https://ko.wikipedia.org/wiki/오존 "wikilink") 측정만 가능했다. KSR-II는 KSR-I과 달리 페어링을 적용했다. [KARI](https://ko.wikipedia.org/wiki/KARI "wikilink")의 연구책임자 문신행 박사는 KSR-I에 비해 [추력](https://ko.wikipedia.org/wiki/추력 "wikilink")이 2배라고 말했다.\[5\]
+KSR-II는 151.5km까지 상승하여 국내 최초로 우주 X선을 관측했다. KSR-I의 최고고도는 50 km 미만이어서 [성층권](../Page/성층권.md "wikilink")의 [오존](../Page/오존.md "wikilink") 측정만 가능했다. KSR-II는 KSR-I과 달리 페어링을 적용했다. [KARI](https://ko.wikipedia.org/wiki/KARI "wikilink")의 연구책임자 문신행 박사는 KSR-I에 비해 [추력](https://ko.wikipedia.org/wiki/추력 "wikilink")이 2배라고 말했다.\[5\]
 
 1998년 6월 11일 10시에는 [KARI](https://ko.wikipedia.org/wiki/KARI "wikilink")가 주관하여 안흥시험장에서 발사에 성공했다. 79도로 발사되어 발사 10초 후 1단 로켓이 분리되었으며, 고도 137.2km에 도달한 후 123.9km를 비행해 서해에 떨어졌다.\[6\] 1997년 발사 당시엔 발사 20초만에 통신이 두절되었다.
 
@@ -53,7 +53,7 @@ KSR-II는 [추력편향](../Page/추력편향.md "wikilink") 기술, 2단 분리
 
   - [KSLV-I](https://ko.wikipedia.org/wiki/KSLV-I "wikilink")
   - [KSR-I](https://ko.wikipedia.org/wiki/KSR-I "wikilink")
-  - [KSR-III](https://ko.wikipedia.org/wiki/KSR-III "wikilink")
+  - [KSR-III](../Page/KSR-III.md "wikilink")
   - [대한민국의 탄도유도탄 개발사](../Page/대한민국의_탄도유도탄_개발사.md "wikilink")
   - [SS-520 로켓](../Page/SS-520_로켓.md "wikilink") - 일본의 유사한 관측로켓
 

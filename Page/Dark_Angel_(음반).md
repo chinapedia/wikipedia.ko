@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [Dark Angel \(\)](https://ko.wikipedia.org/wiki/Dark_Angel_\(\)).
 
 
-《**Dark Angel**》은 대한민국의 가수 [이효리](https://ko.wikipedia.org/wiki/이효리 "wikilink")의 두 번째 정규 음반으로, 2006년 2월 9일 발매되었다. 총 13곡의 트랙으로 구성되어 있고, 전체 러닝타임은 46분 42초다.
+《**Dark Angel**》은 대한민국의 가수 [이효리](../Page/이효리.md "wikilink")의 두 번째 정규 음반으로, 2006년 2월 9일 발매되었다. 총 13곡의 트랙으로 구성되어 있고, 전체 러닝타임은 46분 42초다.
 
 ## 설명
 
-  - 《[STYLISH...E hyOlee](https://ko.wikipedia.org/wiki/STYLISH...E_hyOlee "wikilink")》로부터 정규[앨범은](../Page/음반.md "wikilink") 2년 6개월 만에 발매하였다.
-  - 타이틀곡 ‘Get Ya'’는 표절 시비에 휩싸였다. 이로 인해 [이효리](https://ko.wikipedia.org/wiki/이효리 "wikilink")는 활동을 임시 중단하였다.
+  - 《[STYLISH...E hyOlee](../Page/STYLISH...E_hyOlee.md "wikilink")》로부터 정규[앨범은](../Page/음반.md "wikilink") 2년 6개월 만에 발매하였다.
+  - 타이틀곡 ‘Get Ya'’는 표절 시비에 휩싸였다. 이로 인해 [이효리](../Page/이효리.md "wikilink")는 활동을 임시 중단하였다.
   - 1만장 홀로그램 한정반을 만들었다. 홀로그램 한정반에는 자켓 앞 뒤가 홀로그램화 되어있다.
   - 발매 전 자켓사진 세 컷이 스타일리스트 미니홈페이지에 잠시 공개된 적이 있다.
-  - 이효리가 [핑클](https://ko.wikipedia.org/wiki/핑클 "wikilink")때부터 함께한 [DSP 엔터테인먼트에서](https://ko.wikipedia.org/wiki/DSP_엔터테인먼트 "wikilink") 발매한 마지막 앨범이다.
+  - 이효리가 [핑클](../Page/핑클.md "wikilink")때부터 함께한 [DSP 엔터테인먼트에서](https://ko.wikipedia.org/wiki/DSP_엔터테인먼트 "wikilink") 발매한 마지막 앨범이다.
   - 이효리의 앨범이 처음으로 유통사가 대영AV가 아닌 CJ미디어에서 유통을 맡았다.
   - 앨범 발매 이후 하루 뒤, 같은 핑클 멤버 [옥주현](../Page/옥주현.md "wikilink")의 회사 ‘EVER’에서 발매기자회견을 열었다.
 
@@ -52,7 +52,7 @@
 
 ### Get Ya'
 
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [2월 15일](https://ko.wikipedia.org/wiki/2월_15일 "wikilink") 공개 되었다.
+  - [2006년](../Page/2006년.md "wikilink") [2월 15일](../Page/2월_15일.md "wikilink") 공개 되었다.
 
 ### Shall We Dance?
 
@@ -69,7 +69,7 @@
 
 ### 컴백무대
 
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [2월 12일](https://ko.wikipedia.org/wiki/2월_12일 "wikilink") [일요일](https://ko.wikipedia.org/wiki/일요일 "wikilink"), [SBS 인기가요에서](../Page/SBS_인기가요.md "wikilink") 첫 컴백무대를 열었다.
+  - [2006년](../Page/2006년.md "wikilink") [2월 12일](../Page/2월_12일.md "wikilink") [일요일](../Page/일요일.md "wikilink"), [SBS 인기가요에서](../Page/SBS_인기가요.md "wikilink") 첫 컴백무대를 열었다.
   - ‘Dark Angel’‘Get Ya'’‘깊이’를 불렀다.
   - ‘깊이’무대에서는 서정환이 랩을 해 주었다.
 

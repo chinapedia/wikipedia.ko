@@ -5,7 +5,7 @@
 
 ## 개요
 
-원래, [윤하](https://ko.wikipedia.org/wiki/윤하 "wikilink")등에 곡을 제공하는 [작곡가](https://ko.wikipedia.org/wiki/작곡가 "wikilink")로 활동하고 있던 시미즈 탓페이에게, 솔로·싱어로서 활동하고 있던 thyme과 우연히 만나 결성되었다. thyme의 가성에, 시미즈 텟페이의 악곡이 서로 공명해 그룹 “THYME”으로서의 곡만들기가 자연스럽게 시작되었다. 그 후, 초기부터 엔지니어로서 함께 온 호시노 타카후미가 작곡에 필수불가결한 존재가 되어 지금의 형태를 이루고있다. 2010년 2월에 소속사를 그만두어 프리랜서가 된다. 같은 해 9월, 밴드 THYME의 활동을 종료하고, 보컬의 thyme가 솔로 활동을 한다고 발표하였다.
+원래, [윤하](../Page/윤하.md "wikilink")등에 곡을 제공하는 [작곡가](https://ko.wikipedia.org/wiki/작곡가 "wikilink")로 활동하고 있던 시미즈 탓페이에게, 솔로·싱어로서 활동하고 있던 thyme과 우연히 만나 결성되었다. thyme의 가성에, 시미즈 텟페이의 악곡이 서로 공명해 그룹 “THYME”으로서의 곡만들기가 자연스럽게 시작되었다. 그 후, 초기부터 엔지니어로서 함께 온 호시노 타카후미가 작곡에 필수불가결한 존재가 되어 지금의 형태를 이루고있다. 2010년 2월에 소속사를 그만두어 프리랜서가 된다. 같은 해 9월, 밴드 THYME의 활동을 종료하고, 보컬의 thyme가 솔로 활동을 한다고 발표하였다.
 
 ## 인물
 
@@ -19,18 +19,18 @@
 
 ## 내력
 
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink")[7월](https://ko.wikipedia.org/wiki/7월 "wikilink"), thyme과 시미즈 텟페이가 알게 되어 그룹결성.
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink")[3월](https://ko.wikipedia.org/wiki/3월 "wikilink"), 도내 라이브 하우스에서 첫라이브.
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink")[10월](https://ko.wikipedia.org/wiki/10월 "wikilink"), 1st 자주 제작 싱글 「晴天／白い花」발매 (현재는 폐반).
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")[3월](https://ko.wikipedia.org/wiki/3월 "wikilink"), 2nd 자주 제작 싱글 「Drive／優しい歌がある場所へ］발매 (현재는 폐반).
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")[7월](https://ko.wikipedia.org/wiki/7월 "wikilink"), 호시노 타마후미가 정식으로 멤버 가입.
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink")[9월 5일](https://ko.wikipedia.org/wiki/9월_5일 "wikilink"), 메이저 데뷔. 1st 싱글 「Hello」을 발매.
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink")[4월 23일](https://ko.wikipedia.org/wiki/4월_23일 "wikilink"), 2nd 싱글 「forever we can make it\!」을 발매.
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink")[8월 6일](https://ko.wikipedia.org/wiki/8월_6일 "wikilink"), 3rd 싱글 「Fly Away」를 발매.
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink")[9월 3일](https://ko.wikipedia.org/wiki/9월_3일 "wikilink"), 1st 앨범 「first 9uality」를 발매.
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink")[12월 3일](https://ko.wikipedia.org/wiki/12월_3일 "wikilink"), 4th 싱글 「愛する人」를 발매.
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink")[2월](https://ko.wikipedia.org/wiki/2월 "wikilink"), 소속사를 그만둔다.
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink")[9월 23일](https://ko.wikipedia.org/wiki/9월_23일 "wikilink") 블로그를 통해 THYME의 활동 종료 및 보컬 thyme의 솔로 활동을 발표
+  - [2004년](../Page/2004년.md "wikilink")[7월](../Page/7월.md "wikilink"), thyme과 시미즈 텟페이가 알게 되어 그룹결성.
+  - [2005년](../Page/2005년.md "wikilink")[3월](../Page/3월.md "wikilink"), 도내 라이브 하우스에서 첫라이브.
+  - [2005년](../Page/2005년.md "wikilink")[10월](../Page/10월.md "wikilink"), 1st 자주 제작 싱글 「晴天／白い花」발매 (현재는 폐반).
+  - [2006년](../Page/2006년.md "wikilink")[3월](../Page/3월.md "wikilink"), 2nd 자주 제작 싱글 「Drive／優しい歌がある場所へ］발매 (현재는 폐반).
+  - [2006년](../Page/2006년.md "wikilink")[7월](../Page/7월.md "wikilink"), 호시노 타마후미가 정식으로 멤버 가입.
+  - [2007년](../Page/2007년.md "wikilink")[9월 5일](../Page/9월_5일.md "wikilink"), 메이저 데뷔. 1st 싱글 「Hello」을 발매.
+  - [2008년](../Page/2008년.md "wikilink")[4월 23일](../Page/4월_23일.md "wikilink"), 2nd 싱글 「forever we can make it\!」을 발매.
+  - [2008년](../Page/2008년.md "wikilink")[8월 6일](../Page/8월_6일.md "wikilink"), 3rd 싱글 「Fly Away」를 발매.
+  - [2008년](../Page/2008년.md "wikilink")[9월 3일](../Page/9월_3일.md "wikilink"), 1st 앨범 「first 9uality」를 발매.
+  - [2008년](../Page/2008년.md "wikilink")[12월 3일](../Page/12월_3일.md "wikilink"), 4th 싱글 「愛する人」를 발매.
+  - [2010년](../Page/2010년.md "wikilink")[2월](../Page/2월.md "wikilink"), 소속사를 그만둔다.
+  - [2010년](../Page/2010년.md "wikilink")[9월 23일](../Page/9월_23일.md "wikilink") 블로그를 통해 THYME의 활동 종료 및 보컬 thyme의 솔로 활동을 발표
 
 ## 수록
 
@@ -40,7 +40,7 @@
 
 ## 라이브
 
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink")[11월 3일](https://ko.wikipedia.org/wiki/11월_3일 "wikilink") OSAKA RUIDO 「MINAMI WHEEL 2008 10th ANNIVERSARY」
+  - [2008년](../Page/2008년.md "wikilink")[11월 3일](../Page/11월_3일.md "wikilink") OSAKA RUIDO 「MINAMI WHEEL 2008 10th ANNIVERSARY」
 
 ## 정규라디오
 

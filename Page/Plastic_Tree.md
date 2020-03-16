@@ -6,13 +6,13 @@
 ## 멤버
 
   - **아리무라 류타로** () - [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink")
-    [3월 6일생](https://ko.wikipedia.org/wiki/3월_6일 "wikilink"), [지바현](https://ko.wikipedia.org/wiki/지바현 "wikilink") 출신, 혈액형 AB형
-  - **하세가와 타다시** () - [베이스](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink"), 리더
-    [11월 16일생](https://ko.wikipedia.org/wiki/11월_16일 "wikilink"), [지바현](https://ko.wikipedia.org/wiki/지바현 "wikilink") 출신, 혈액형 O형
-  - **나카야마 아키라** () - [기타](https://ko.wikipedia.org/wiki/기타 "wikilink")
-    [1월 16일생](https://ko.wikipedia.org/wiki/1월_16일 "wikilink"), [홋카이도](https://ko.wikipedia.org/wiki/홋카이도 "wikilink") [쿠시로 시](https://ko.wikipedia.org/wiki/쿠시로_시 "wikilink") 출신, 혈액형 A형
+    [3월 6일생](../Page/3월_6일.md "wikilink"), [지바현](../Page/지바현.md "wikilink") 출신, 혈액형 AB형
+  - **하세가와 타다시** () - [베이스](../Page/베이스_기타.md "wikilink"), 리더
+    [11월 16일생](../Page/11월_16일.md "wikilink"), [지바현](../Page/지바현.md "wikilink") 출신, 혈액형 O형
+  - **나카야마 아키라** () - [기타](../Page/기타.md "wikilink")
+    [1월 16일생](../Page/1월_16일.md "wikilink"), [홋카이도](../Page/홋카이도.md "wikilink") [쿠시로 시](https://ko.wikipedia.org/wiki/쿠시로_시 "wikilink") 출신, 혈액형 A형
   - **사토 켄켄** () - [드럼](https://ko.wikipedia.org/wiki/드럼셋 "wikilink"), 2009년 정식 가입
-    [1월 8일생](https://ko.wikipedia.org/wiki/1월_8일 "wikilink"), [나가사키현](https://ko.wikipedia.org/wiki/나가사키현 "wikilink") 출신, 혈액형 O형
+    [1월 8일생](../Page/1월_8일.md "wikilink"), [나가사키현](../Page/나가사키현.md "wikilink") 출신, 혈액형 O형
 
 ### 전 멤버
 

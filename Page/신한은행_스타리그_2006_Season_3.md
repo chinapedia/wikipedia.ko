@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [  2006 Season 3](https://ko.wikipedia.org/wiki/__2006_Season_3).
 
 
-**신한은행 스타리그 2006 Season 3**은 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")에 진행된 [스타리그](https://ko.wikipedia.org/wiki/스타리그 "wikilink")이다.
+**신한은행 스타리그 2006 Season 3**은 [2006년](../Page/2006년.md "wikilink")에 진행된 [스타리그](https://ko.wikipedia.org/wiki/스타리그 "wikilink")이다.
 
 ## 리그기간
 
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [12월 13일](https://ko.wikipedia.org/wiki/12월_13일 "wikilink") \~ [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [2월 24일](https://ko.wikipedia.org/wiki/2월_24일 "wikilink")
+  - [2006년](../Page/2006년.md "wikilink") [12월 13일](../Page/12월_13일.md "wikilink") \~ [2007년](../Page/2007년.md "wikilink") [2월 24일](../Page/2월_24일.md "wikilink")
 
 ## 리그컨셉
 
@@ -20,7 +20,7 @@
   - 2006년 시즌의 마지막 온게임넷 스타리그.
   - 3회 MSL 재패로 [MSL 금배지](../Page/MSL_금배지.md "wikilink") 수상과 최강자의 반열에 오른 [마재윤](../Page/마재윤.md "wikilink")의 첫 스타리그 도전으로 화제를 모은 리그.
   - 임진록이후로 당대라이벌 결승매치열림-마재윤VS이윤열
-  - 마재윤 스타리그 7번째 로열로더 등극([기욤패트리](https://ko.wikipedia.org/wiki/기욤패트리 "wikilink")-[김동수](../Page/김동수_\(프로게이머\).md "wikilink")-[임요환](https://ko.wikipedia.org/wiki/임요환 "wikilink")-[이윤열](../Page/이윤열.md "wikilink")-[박성준](../Page/박성준_\(1986년\).md "wikilink")-[오영종](../Page/오영종.md "wikilink")-마재윤)
+  - 마재윤 스타리그 7번째 로열로더 등극([기욤패트리](https://ko.wikipedia.org/wiki/기욤패트리 "wikilink")-[김동수](../Page/김동수_\(프로게이머\).md "wikilink")-[임요환](../Page/임요환.md "wikilink")-[이윤열](../Page/이윤열.md "wikilink")-[박성준](../Page/박성준_\(1986년\).md "wikilink")-[오영종](../Page/오영종.md "wikilink")-마재윤)
   - 역대 스타리그 최초 양대리그 종족 최초 3회우승자들의 최강 결승매치 성사
   - 최초의 스타걸(일명 부스걸) 등장.
   - 기존 로스트 템플(Lost Temple)의 지형을 뒤집고 OMAT이 선보였던 다양한 요소를 접목한 역언덕 맵 등장.(Reverse Temple)
@@ -92,7 +92,7 @@
 | F조 | **[김준영](https://ko.wikipedia.org/wiki/김준영_\(1985년\) "wikilink")** | [송병구](../Page/송병구.md "wikilink")                    | **[한승엽](https://ko.wikipedia.org/wiki/한승엽 "wikilink")** | [홍진호](../Page/홍진호.md "wikilink")                    | **[한승엽](https://ko.wikipedia.org/wiki/한승엽 "wikilink")** |
 | G조 | **[조형근](../Page/조형근.md "wikilink")**                              | [안상원](https://ko.wikipedia.org/wiki/안상원 "wikilink") | **[진영수](../Page/진영수.md "wikilink")**                    | [장육](https://ko.wikipedia.org/wiki/장육 "wikilink")   | **[진영수](../Page/진영수.md "wikilink")**                    |
 | H조 | **[신희승](../Page/신희승.md "wikilink")**                              | [박성훈](https://ko.wikipedia.org/wiki/박성훈 "wikilink") | **[최연성](../Page/최연성.md "wikilink")**                    | [이재황](https://ko.wikipedia.org/wiki/이재황 "wikilink") | **[신희승](../Page/신희승.md "wikilink")**                    |
-| I조 | **[박영민](https://ko.wikipedia.org/wiki/박영민 "wikilink")**           | [이성은](https://ko.wikipedia.org/wiki/이성은 "wikilink") | **[변은종](../Page/변은종.md "wikilink")**                    | [임동혁](https://ko.wikipedia.org/wiki/임동혁 "wikilink") | **[박영민](https://ko.wikipedia.org/wiki/박영민 "wikilink")** |
+| I조 | **[박영민](https://ko.wikipedia.org/wiki/박영민 "wikilink")**           | [이성은](https://ko.wikipedia.org/wiki/이성은 "wikilink") | **[변은종](../Page/변은종.md "wikilink")**                    | [임동혁](../Page/임동혁.md "wikilink")                    | **[박영민](https://ko.wikipedia.org/wiki/박영민 "wikilink")** |
 
 ## 24강
 

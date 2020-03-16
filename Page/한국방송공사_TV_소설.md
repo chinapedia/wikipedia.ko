@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ TV ](https://ko.wikipedia.org/wiki/_TV_).
 
 
-**한국방송공사 TV 소설**은 [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink") [3월 2일부터](https://ko.wikipedia.org/wiki/3월_2일 "wikilink") [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [8월 31일까지](https://ko.wikipedia.org/wiki/8월_31일 "wikilink") 방송했던 [KBS 2TV](../Page/KBS_2TV.md "wikilink") [텔레비전 드라마이다](../Page/텔레비전_드라마.md "wikilink").
+**한국방송공사 TV 소설**은 [1987년](../Page/1987년.md "wikilink") [3월 2일부터](../Page/3월_2일.md "wikilink") [2018년](../Page/2018년.md "wikilink") [8월 31일까지](../Page/8월_31일.md "wikilink") 방송했던 [KBS 2TV](../Page/KBS_2TV.md "wikilink") [텔레비전 드라마이다](../Page/텔레비전_드라마.md "wikilink").
 
 ## 기획 의도
 
@@ -9,20 +9,20 @@
 
 ## 방송 시간
 
-| 방송 채널                                                                  | 방송 기간                                                                                                                                                                              | 방송 시간                                                                                                                          | 방송 분량 |
-| ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ----- |
-| [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink")            | 1987년 3월 2일 \~ 1987년 10월 5일                                                                                                                                                        | [월요일](https://ko.wikipedia.org/wiki/월요일 "wikilink") \~ [금요일](https://ko.wikipedia.org/wiki/금요일 "wikilink") 오후 7시 25분 \~ 8시 10분 | 45분   |
-| 1987년 10월 6일 \~ 1987년 10월 9일                                           | [월요일](https://ko.wikipedia.org/wiki/월요일 "wikilink") \~ [금요일](https://ko.wikipedia.org/wiki/금요일 "wikilink") 오후 7시 10분 \~ 7시 45분                                                     |                                                                                                                                |       |
-| [KBS 2TV](../Page/KBS_2TV.md "wikilink")                               | 1995년 5월 1일 \~ 1996년 3월 2일                                                                                                                                                         | [월요일](https://ko.wikipedia.org/wiki/월요일 "wikilink") \~ [토요일](https://ko.wikipedia.org/wiki/토요일 "wikilink") 오전 8시 40분 \~ 9시     | 20분   |
-| [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink")            | 1996년 3월 4일 \~ 1996년 10월 12일                                                                                                                                                       | [월요일](https://ko.wikipedia.org/wiki/월요일 "wikilink") \~ [토요일](https://ko.wikipedia.org/wiki/토요일 "wikilink") 오전 8시 20분 \~ 8시 40분 | 20분   |
-| 1996년 10월 14일 \~ 1999년 10월 16일                                         | [월요일](https://ko.wikipedia.org/wiki/월요일 "wikilink") \~ [토요일](https://ko.wikipedia.org/wiki/토요일 "wikilink") 오전 8시 10분 \~ 8시 30분                                                     | 20분                                                                                                                            |       |
-| 1999년 10월 18일 \~ 2000년 10월 21일                                         | [월요일](https://ko.wikipedia.org/wiki/월요일 "wikilink") \~ [토요일](https://ko.wikipedia.org/wiki/토요일 "wikilink") 오전 8시 5분 \~ 8시 25분                                                      | 20분                                                                                                                            |       |
-| 2000년 10월 23일 \~ 2000년 11월 18일                                         | [월요일](https://ko.wikipedia.org/wiki/월요일 "wikilink") \~ [목요일](https://ko.wikipedia.org/wiki/목요일 "wikilink"), [토요일](https://ko.wikipedia.org/wiki/토요일 "wikilink") 오전 8시 5분 \~ 8시 25분 | 20분                                                                                                                            |       |
-| [금요일](https://ko.wikipedia.org/wiki/금요일 "wikilink") 오전 8시 5분 \~ 8시 30분 | 25분                                                                                                                                                                                |                                                                                                                                |       |
-| 2000년 11월 20일 \~ 2007년 4월 28일                                          | [월요일](https://ko.wikipedia.org/wiki/월요일 "wikilink") \~ [토요일](https://ko.wikipedia.org/wiki/토요일 "wikilink") 오전 8시 5분 \~ 8시 30분                                                      | 25분                                                                                                                            |       |
-| 2007년 4월 30일 \~ 2009년 4월 17일                                           | [월요일](https://ko.wikipedia.org/wiki/월요일 "wikilink") \~ [금요일](https://ko.wikipedia.org/wiki/금요일 "wikilink") 오전 7시 50분 \~ 8시 25분                                                     | 35분                                                                                                                            |       |
-| [KBS 2TV](../Page/KBS_2TV.md "wikilink")                               | 2011년 11월 7일 \~ 2018년 8월 31일                                                                                                                                                       | [월요일](https://ko.wikipedia.org/wiki/월요일 "wikilink") \~ [금요일](https://ko.wikipedia.org/wiki/금요일 "wikilink") 오전 9시 \~ 9시 40분     | 40분   |
-|                                                                        |                                                                                                                                                                                    |                                                                                                                                |       |
+| 방송 채널                                                       | 방송 기간                                                                                                                     | 방송 시간                                                                                    | 방송 분량 |
+| ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ----- |
+| [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") | 1987년 3월 2일 \~ 1987년 10월 5일                                                                                               | [월요일](../Page/월요일.md "wikilink") \~ [금요일](../Page/금요일.md "wikilink") 오후 7시 25분 \~ 8시 10분 | 45분   |
+| 1987년 10월 6일 \~ 1987년 10월 9일                                | [월요일](../Page/월요일.md "wikilink") \~ [금요일](../Page/금요일.md "wikilink") 오후 7시 10분 \~ 7시 45분                                  |                                                                                          |       |
+| [KBS 2TV](../Page/KBS_2TV.md "wikilink")                    | 1995년 5월 1일 \~ 1996년 3월 2일                                                                                                | [월요일](../Page/월요일.md "wikilink") \~ [토요일](../Page/토요일.md "wikilink") 오전 8시 40분 \~ 9시     | 20분   |
+| [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") | 1996년 3월 4일 \~ 1996년 10월 12일                                                                                              | [월요일](../Page/월요일.md "wikilink") \~ [토요일](../Page/토요일.md "wikilink") 오전 8시 20분 \~ 8시 40분 | 20분   |
+| 1996년 10월 14일 \~ 1999년 10월 16일                              | [월요일](../Page/월요일.md "wikilink") \~ [토요일](../Page/토요일.md "wikilink") 오전 8시 10분 \~ 8시 30분                                  | 20분                                                                                      |       |
+| 1999년 10월 18일 \~ 2000년 10월 21일                              | [월요일](../Page/월요일.md "wikilink") \~ [토요일](../Page/토요일.md "wikilink") 오전 8시 5분 \~ 8시 25분                                   | 20분                                                                                      |       |
+| 2000년 10월 23일 \~ 2000년 11월 18일                              | [월요일](../Page/월요일.md "wikilink") \~ [목요일](../Page/목요일.md "wikilink"), [토요일](../Page/토요일.md "wikilink") 오전 8시 5분 \~ 8시 25분 | 20분                                                                                      |       |
+| [금요일](../Page/금요일.md "wikilink") 오전 8시 5분 \~ 8시 30분         | 25분                                                                                                                       |                                                                                          |       |
+| 2000년 11월 20일 \~ 2007년 4월 28일                               | [월요일](../Page/월요일.md "wikilink") \~ [토요일](../Page/토요일.md "wikilink") 오전 8시 5분 \~ 8시 30분                                   | 25분                                                                                      |       |
+| 2007년 4월 30일 \~ 2009년 4월 17일                                | [월요일](../Page/월요일.md "wikilink") \~ [금요일](../Page/금요일.md "wikilink") 오전 7시 50분 \~ 8시 25분                                  | 35분                                                                                      |       |
+| [KBS 2TV](../Page/KBS_2TV.md "wikilink")                    | 2011년 11월 7일 \~ 2018년 8월 31일                                                                                              | [월요일](../Page/월요일.md "wikilink") \~ [금요일](../Page/금요일.md "wikilink") 오전 9시 \~ 9시 40분     | 40분   |
+|                                                             |                                                                                                                           |                                                                                          |       |
 
 ## 작품 리스트
 
@@ -52,22 +52,22 @@
   - 《[민들레](../Page/민들레_\(드라마\).md "wikilink")》 : 2000년 4월 17일 \~ 2000년 10월 21일
   - 《[약속](../Page/약속_\(2000년_드라마\).md "wikilink")》 : 2000년 10월 23일 \~ 2001년 4월 21일
   - 《[매화연가](../Page/매화연가.md "wikilink")》 : 2001년 4월 23일 \~ 2001년 11월 3일
-  - 《[새엄마](https://ko.wikipedia.org/wiki/새엄마_\(2001년_드라마\) "wikilink")》 : 2001년 11월 5일 \~ 2002년 8월 3일
-  - 《[인생화보](https://ko.wikipedia.org/wiki/인생화보_\(2002년_드라마\) "wikilink")》 : 2002년 8월 5일 \~ 2003년 4월 19일
-  - 《[분이](https://ko.wikipedia.org/wiki/분이 "wikilink")》 : 2003년 4월 21일 \~ 2003년 11월 15일
-  - 《[찔레꽃](https://ko.wikipedia.org/wiki/찔레꽃_\(드라마\) "wikilink")》 : 2003년 11월 17일 \~ 2004년 6월 12일
-  - 《[그대는 별](https://ko.wikipedia.org/wiki/그대는_별 "wikilink")》 : 2004년 6월 14일 \~ 2005년 1월 29일
+  - 《[새엄마](../Page/새엄마_\(2001년_드라마\).md "wikilink")》 : 2001년 11월 5일 \~ 2002년 8월 3일
+  - 《[인생화보](../Page/인생화보_\(2002년_드라마\).md "wikilink")》 : 2002년 8월 5일 \~ 2003년 4월 19일
+  - 《[분이](../Page/분이.md "wikilink")》 : 2003년 4월 21일 \~ 2003년 11월 15일
+  - 《[찔레꽃](../Page/찔레꽃_\(드라마\).md "wikilink")》 : 2003년 11월 17일 \~ 2004년 6월 12일
+  - 《[그대는 별](../Page/그대는_별.md "wikilink")》 : 2004년 6월 14일 \~ 2005년 1월 29일
 
 ### 2000년대 후반
 
   - 《[바람꽃](../Page/바람꽃.md "wikilink")》 : 2005년 1월 31일 \~ 2005년 8월 27일
   - 《[고향역](../Page/고향역.md "wikilink")》 : 2005년 8월 29일 \~ 2006년 3월 18일
   - 《[강이 되어 만나리](../Page/강이_되어_만나리.md "wikilink")》 : 2006년 3월 20일 \~ 2006년 11월 4일
-  - 《[순옥이](https://ko.wikipedia.org/wiki/순옥이 "wikilink")》 : 2006년 11월 6일 \~ 2007년 4월 28일
+  - 《[순옥이](../Page/순옥이.md "wikilink")》 : 2006년 11월 6일 \~ 2007년 4월 28일
   - 《[그대의 풍경](../Page/그대의_풍경.md "wikilink")》 : 2007년 4월 30일 \~ 2007년 11월 9일
-  - 《[아름다운 시절](https://ko.wikipedia.org/wiki/아름다운_시절_\(드라마\) "wikilink")》 : 2007년 11월 12일 \~ 2008년 6월 6일
-  - 《[큰 언니](https://ko.wikipedia.org/wiki/큰_언니_\(2008년_드라마\) "wikilink")》 : 2008년 6월 9일 \~ 2009년 1월 2일
-  - 《[청춘예찬](https://ko.wikipedia.org/wiki/청춘예찬 "wikilink")》 : 2009년 1월 5일 \~ 2009년 4월 17일
+  - 《[아름다운 시절](../Page/아름다운_시절_\(드라마\).md "wikilink")》 : 2007년 11월 12일 \~ 2008년 6월 6일
+  - 《[큰 언니](../Page/큰_언니_\(2008년_드라마\).md "wikilink")》 : 2008년 6월 9일 \~ 2009년 1월 2일
+  - 《[청춘예찬](../Page/청춘예찬.md "wikilink")》 : 2009년 1월 5일 \~ 2009년 4월 17일
 
 ### 2010년대 전반
 

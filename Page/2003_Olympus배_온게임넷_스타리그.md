@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [2003 Olympus  ](https://ko.wikipedia.org/wiki/2003_Olympus__).
 
 
-**2003 Olympus배 온게임넷 스타리그**는 [온게임넷](https://ko.wikipedia.org/wiki/온게임넷 "wikilink")의 10번째 [스타리그](https://ko.wikipedia.org/wiki/스타리그 "wikilink")이다. [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [4월 4일부터](https://ko.wikipedia.org/wiki/4월_4일 "wikilink") [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [7월 13일까지](https://ko.wikipedia.org/wiki/7월_13일 "wikilink") 개최되었다.
+**2003 Olympus배 온게임넷 스타리그**는 [온게임넷](https://ko.wikipedia.org/wiki/온게임넷 "wikilink")의 10번째 [스타리그](https://ko.wikipedia.org/wiki/스타리그 "wikilink")이다. [2003년](../Page/2003년.md "wikilink") [4월 4일부터](../Page/4월_4일.md "wikilink") [2003년](../Page/2003년.md "wikilink") [7월 13일까지](../Page/7월_13일.md "wikilink") 개최되었다.
 
 ## 특이사항
 
@@ -40,7 +40,7 @@
 | A조 | **[최인규](../Page/최인규_\(1981년\).md "wikilink")**          | [박성훈](../Page/박성훈_\(프로게이머\).md "wikilink")                    | **[전태규](../Page/전태규.md "wikilink")**                    | [박신영](https://ko.wikipedia.org/wiki/박신영_\(1984년\) "wikilink") | **[전태규](../Page/전태규.md "wikilink")**                    |
 | B조 | **[나도현](../Page/나도현.md "wikilink")**                    | [문준희](https://ko.wikipedia.org/wiki/문준희_\(프로게이머\) "wikilink") | **[김성제](https://ko.wikipedia.org/wiki/김성제 "wikilink")** | [임균태](../Page/임균태.md "wikilink")                              | **[김성제](https://ko.wikipedia.org/wiki/김성제 "wikilink")** |
 | C조 | **[박용욱](../Page/박용욱.md "wikilink")**                    | [나경보](../Page/나경보.md "wikilink")                              | **[김정민](../Page/김정민_\(1982년\).md "wikilink")**          | [이현승](https://ko.wikipedia.org/wiki/이현승_\(프로게이머\) "wikilink") | **[박용욱](../Page/박용욱.md "wikilink")**                    |
-| D조 | **[장진수](https://ko.wikipedia.org/wiki/장진수 "wikilink")** | [이재훈](https://ko.wikipedia.org/wiki/이재훈 "wikilink")           | **[박동욱](../Page/박동욱_\(프로게이머\).md "wikilink")**          | [최수범](../Page/최수범.md "wikilink")                              | **[장진수](https://ko.wikipedia.org/wiki/장진수 "wikilink")** |
+| D조 | **[장진수](https://ko.wikipedia.org/wiki/장진수 "wikilink")** | [이재훈](../Page/이재훈.md "wikilink")                              | **[박동욱](../Page/박동욱_\(프로게이머\).md "wikilink")**          | [최수범](../Page/최수범.md "wikilink")                              | **[장진수](https://ko.wikipedia.org/wiki/장진수 "wikilink")** |
 | E조 | **[조병호](https://ko.wikipedia.org/wiki/조병호 "wikilink")** | [조정현](https://ko.wikipedia.org/wiki/조정현 "wikilink")           | **[강민](../Page/강민_\(프로게이머\).md "wikilink")**            | [정재호](https://ko.wikipedia.org/wiki/정재호 "wikilink")           | **[강민](../Page/강민_\(프로게이머\).md "wikilink")**            |
 | F조 | **[박상익](https://ko.wikipedia.org/wiki/박상익 "wikilink")** | [임성춘](../Page/임성춘.md "wikilink")                              | **[윤정민](../Page/윤정민.md "wikilink")**                    | [이재항](https://ko.wikipedia.org/wiki/이재항 "wikilink")           | **[박상익](https://ko.wikipedia.org/wiki/박상익 "wikilink")** |
 
@@ -67,7 +67,7 @@
 
   - 테란 : [최인규](../Page/최인규_\(1981년\).md "wikilink"), [김정민](../Page/김정민_\(1982년\).md "wikilink"), [나도현](../Page/나도현.md "wikilink")
   - 저그 : [임균태](../Page/임균태.md "wikilink"), [장진수](https://ko.wikipedia.org/wiki/장진수 "wikilink"), [박상익](https://ko.wikipedia.org/wiki/박상익 "wikilink"), [이재항](https://ko.wikipedia.org/wiki/이재항 "wikilink")
-  - 프로토스 : [박용욱](../Page/박용욱.md "wikilink")(스타리그 자동 진출), [전태규](../Page/전태규.md "wikilink"), [김성제](https://ko.wikipedia.org/wiki/김성제 "wikilink"), [이재훈](https://ko.wikipedia.org/wiki/이재훈 "wikilink"), [강민](../Page/강민_\(프로게이머\).md "wikilink"), [조병호](https://ko.wikipedia.org/wiki/조병호 "wikilink")
+  - 프로토스 : [박용욱](../Page/박용욱.md "wikilink")(스타리그 자동 진출), [전태규](../Page/전태규.md "wikilink"), [김성제](https://ko.wikipedia.org/wiki/김성제 "wikilink"), [이재훈](../Page/이재훈.md "wikilink"), [강민](../Page/강민_\(프로게이머\).md "wikilink"), [조병호](https://ko.wikipedia.org/wiki/조병호 "wikilink")
 
 ## 2002 3차 듀얼토너먼트
 
@@ -78,8 +78,8 @@
 | B조 | **[서지훈](https://ko.wikipedia.org/wiki/서지훈 "wikilink")** | [조병호](https://ko.wikipedia.org/wiki/조병호 "wikilink") | **[박상익](https://ko.wikipedia.org/wiki/박상익 "wikilink")**             | [한웅렬](../Page/한웅렬.md "wikilink")                    | **[서지훈](https://ko.wikipedia.org/wiki/서지훈 "wikilink")**             |
 | C조 | **[김현진](https://ko.wikipedia.org/wiki/김현진 "wikilink")** | [김성제](https://ko.wikipedia.org/wiki/김성제 "wikilink") | **[베르트랑](../Page/베르트랑_그로스펠리에.md "wikilink")**                       | [김정민](../Page/김정민_\(1982년\).md "wikilink")          | **[김현진](https://ko.wikipedia.org/wiki/김현진 "wikilink")**             |
 | D조 | **[장진수](https://ko.wikipedia.org/wiki/장진수 "wikilink")** | [박정석](https://ko.wikipedia.org/wiki/박정석 "wikilink") | **[이운재](https://ko.wikipedia.org/wiki/이운재_\(이스포츠_감독\) "wikilink")** | [이재항](https://ko.wikipedia.org/wiki/이재항 "wikilink") | **[이운재](https://ko.wikipedia.org/wiki/이운재_\(이스포츠_감독\) "wikilink")** |
-| E조 | **[임요환](https://ko.wikipedia.org/wiki/임요환 "wikilink")** | [임균태](../Page/임균태.md "wikilink")                    | **[전태규](../Page/전태규.md "wikilink")**                                | [장진남](../Page/장진남.md "wikilink")                    | **[전태규](../Page/전태규.md "wikilink")**                                |
-| F조 | **[나도현](../Page/나도현.md "wikilink")**                    | [박경락](../Page/박경락.md "wikilink")                    | **[이재훈](https://ko.wikipedia.org/wiki/이재훈 "wikilink")**             | [변길섭](../Page/변길섭.md "wikilink")                    | **[이재훈](https://ko.wikipedia.org/wiki/이재훈 "wikilink")**             |
+| E조 | **[임요환](../Page/임요환.md "wikilink")**                    | [임균태](../Page/임균태.md "wikilink")                    | **[전태규](../Page/전태규.md "wikilink")**                                | [장진남](../Page/장진남.md "wikilink")                    | **[전태규](../Page/전태규.md "wikilink")**                                |
+| F조 | **[나도현](../Page/나도현.md "wikilink")**                    | [박경락](../Page/박경락.md "wikilink")                    | **[이재훈](../Page/이재훈.md "wikilink")**                                | [변길섭](../Page/변길섭.md "wikilink")                    | **[이재훈](../Page/이재훈.md "wikilink")**                                |
 
 ## 16강
 
@@ -96,12 +96,12 @@
 
 16강 조추첨에 따라 결정된 조에 따라서 한 선수가 한 경기씩 총 세 경기를 펼치게 되며, 한 조로 볼 때 총 여섯 경기를 치르게 된다.
 
-| A조                                                      | B조        | C조                                                              | D조        |
-| ------------------------------------------------------- | --------- | --------------------------------------------------------------- | --------- |
-| [이윤열](../Page/이윤열.md "wikilink")                        | 1승 2패     | **[조용호](https://ko.wikipedia.org/wiki/조용호 "wikilink")**         | **2승 1패** |
-| **[임요환](https://ko.wikipedia.org/wiki/임요환 "wikilink")** | **2승 1패** | [이운재](https://ko.wikipedia.org/wiki/이운재_\(이스포츠_감독\) "wikilink") | 0승 3패     |
-| [이재훈](https://ko.wikipedia.org/wiki/이재훈 "wikilink")     | 1승 2패     | [성학승](../Page/성학승.md "wikilink")                                | 1승 2패     |
-| **[박경락](../Page/박경락.md "wikilink")**                    | **2승 1패** | **[서지훈](https://ko.wikipedia.org/wiki/서지훈 "wikilink")**         | **3승 0패** |
+| A조                                   | B조        | C조                                                              | D조        |
+| ------------------------------------ | --------- | --------------------------------------------------------------- | --------- |
+| [이윤열](../Page/이윤열.md "wikilink")     | 1승 2패     | **[조용호](https://ko.wikipedia.org/wiki/조용호 "wikilink")**         | **2승 1패** |
+| **[임요환](../Page/임요환.md "wikilink")** | **2승 1패** | [이운재](https://ko.wikipedia.org/wiki/이운재_\(이스포츠_감독\) "wikilink") | 0승 3패     |
+| [이재훈](../Page/이재훈.md "wikilink")     | 1승 2패     | [성학승](../Page/성학승.md "wikilink")                                | 1승 2패     |
+| **[박경락](../Page/박경락.md "wikilink")** | **2승 1패** | **[서지훈](https://ko.wikipedia.org/wiki/서지훈 "wikilink")**         | **3승 0패** |
 
 ## 8강
 
@@ -109,12 +109,12 @@
 
 8강 조추첨에 따라 결정된 조에 따라서 한 선수가 한 경기씩 총 세 경기를 펼치게 되며, 한 조로 볼 때 총 여섯 경기를 치르게 된다.
 
-| A조                                                      | B조        |
-| ------------------------------------------------------- | --------- |
-| **[임요환](https://ko.wikipedia.org/wiki/임요환 "wikilink")** | **2승 1패** |
-| [조용호](https://ko.wikipedia.org/wiki/조용호 "wikilink")     | 1승 2패     |
-| **[홍진호](../Page/홍진호.md "wikilink")**                    | **2승 1패** |
-| [장진수](https://ko.wikipedia.org/wiki/장진수 "wikilink")     | 1승 2패     |
+| A조                                                  | B조        |
+| --------------------------------------------------- | --------- |
+| **[임요환](../Page/임요환.md "wikilink")**                | **2승 1패** |
+| [조용호](https://ko.wikipedia.org/wiki/조용호 "wikilink") | 1승 2패     |
+| **[홍진호](../Page/홍진호.md "wikilink")**                | **2승 1패** |
+| [장진수](https://ko.wikipedia.org/wiki/장진수 "wikilink") | 1승 2패     |
 
 ## 4강 \~
 
@@ -139,7 +139,7 @@
 
 ## 대회 결과
 
-  - 우승 [서지훈](https://ko.wikipedia.org/wiki/서지훈 "wikilink"), 준우승 [홍진호](../Page/홍진호.md "wikilink"), 3위 [임요환](https://ko.wikipedia.org/wiki/임요환 "wikilink"), 4위 [박경락](../Page/박경락.md "wikilink")
+  - 우승 [서지훈](https://ko.wikipedia.org/wiki/서지훈 "wikilink"), 준우승 [홍진호](../Page/홍진호.md "wikilink"), 3위 [임요환](../Page/임요환.md "wikilink"), 4위 [박경락](../Page/박경락.md "wikilink")
 
 ## 사용 맵 정보
 

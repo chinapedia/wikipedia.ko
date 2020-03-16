@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Pablo Honey](https://ko.wikipedia.org/wiki/Pablo_Honey).
 
 
-《**Pablo Honey**》는 1993년에 발매 된 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 [얼터너티브 록](../Page/얼터너티브_록.md "wikilink") 밴드 [라디오헤드](https://ko.wikipedia.org/wiki/라디오헤드 "wikilink")의 첫 번째 앨범이다. 이 앨범의 커버는 밴드의 가까운 친구인 Tim Coates의 아들이며, 제목은 [Jerky Boys가](https://ko.wikipedia.org/wiki/Jerky_Boys "wikilink") 장난으로 풍자해서 그의 희생자 들에게 "Pablo, honey? Please come to Florida\!"라고 부르는 데서 나온 것이다. 이 앨범은 라디오헤드의 가장 잘 알려져있는 노래이자 주로 라디오에서 히트를 친 '[Creep](../Page/Creep_\(라디오헤드의_노래\).md "wikilink")'이 포함되어 있다. *Pablo Honey*는 [UK 차트에](https://ko.wikipedia.org/wiki/UK_차트 "wikilink") 22위로 뽑혔으며 다른 나라들에서는 100만장 이상이 팔렸다.
+《**Pablo Honey**》는 1993년에 발매 된 [영국](../Page/영국.md "wikilink")의 [얼터너티브 록](../Page/얼터너티브_록.md "wikilink") 밴드 [라디오헤드](../Page/라디오헤드.md "wikilink")의 첫 번째 앨범이다. 이 앨범의 커버는 밴드의 가까운 친구인 Tim Coates의 아들이며, 제목은 [Jerky Boys가](https://ko.wikipedia.org/wiki/Jerky_Boys "wikilink") 장난으로 풍자해서 그의 희생자 들에게 "Pablo, honey? Please come to Florida\!"라고 부르는 데서 나온 것이다. 이 앨범은 라디오헤드의 가장 잘 알려져있는 노래이자 주로 라디오에서 히트를 친 '[Creep](../Page/Creep_\(라디오헤드의_노래\).md "wikilink")'이 포함되어 있다. *Pablo Honey*는 [UK 차트에](https://ko.wikipedia.org/wiki/UK_차트 "wikilink") 22위로 뽑혔으며 다른 나라들에서는 100만장 이상이 팔렸다.
 
 ## 곡 목록
 

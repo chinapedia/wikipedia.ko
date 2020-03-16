@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ATP ](https://ko.wikipedia.org/wiki/ATP_).
 
 
-**ATP 파이널스** ()는 매년 연말 세계 랭킹 8위까지의 탑 랭커들만이 참여하여 경기를 펼치는 남자 [테니스](https://ko.wikipedia.org/wiki/테니스 "wikilink") 대회이다.
+**ATP 파이널스** ()는 매년 연말 세계 랭킹 8위까지의 탑 랭커들만이 참여하여 경기를 펼치는 남자 [테니스](../Page/테니스.md "wikilink") 대회이다.
 
 다른 대부분의 테니스 대회와는 달리 이 대회는 녹아웃 토너먼트가 아닌 [라운드 로빈](https://ko.wikipedia.org/wiki/라운드_로빈 "wikilink") 방식으로 진행된다. 8명의 선수들은 4명씩 두 그룹으로 나뉘어 레드 그룹과 골드 그룹을 구성하게 되며, 이 두 그룹 내에서 각각 라운드 로빈 방식으로 경기를 치러 각 그룹의 1, 2위 선수들을 가린다. 레드 그룹의 1위 선수는 골드 그룹의 2위 선수와, 골드 그룹의 1위 선수는 레드 그룹의 2위 선수와 준결승전을 갖게 되며, 이 두 경기의 승자가 결승전에서 맞붙어 최종 우승자를 가리게 된다.
 
@@ -19,7 +19,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/런던" title="wikilink">런던</a></p></td>
+<td><p><a href="../Page/런던.md" title="wikilink">런던</a></p></td>
 <td><p>2009–2018</p></td>
 <td><p>하드</p></td>
 <td><p><a href="../Page/O2_아레나_(런던).md" title="wikilink">O2 아레나</a></p></td>
@@ -49,21 +49,21 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/시드니" title="wikilink">시드니</a></p></td>
+<td><p><a href="../Page/시드니.md" title="wikilink">시드니</a></p></td>
 <td><p>2001</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:Acer_Arena" title="wikilink">Acer Arena</a></p></td>
 <td><p>17,500</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/리스본" title="wikilink">리스본</a></p></td>
+<td><p><a href="../Page/리스본.md" title="wikilink">리스본</a></p></td>
 <td><p>2000</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:Pavilhão_Atlântico" title="wikilink">Pavilhão Atlântico</a></p></td>
 <td><p>12,000</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/하노버" title="wikilink">하노버</a></p></td>
+<td><p><a href="../Page/하노버.md" title="wikilink">하노버</a></p></td>
 <td><p>1997–1999<br />
 1996</p></td>
 <td><p>하드<br />
@@ -79,7 +79,7 @@
 <td><p>12,000</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴욕" title="wikilink">뉴욕</a></p></td>
+<td><p><a href="../Page/뉴욕.md" title="wikilink">뉴욕</a></p></td>
 <td><p>1977–1989</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/메디슨_스퀘어_가든" title="wikilink">메디슨 스퀘어 가든</a></p></td>
 <td><p>18,000</p></td>
@@ -93,21 +93,21 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/스톡홀름" title="wikilink">스톡홀름</a></p></td>
+<td><p><a href="../Page/스톡홀름.md" title="wikilink">스톡홀름</a></p></td>
 <td><p>1975</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:Kungliga_tennishallen" title="wikilink">:en:Kungliga tennishallen</a></p></td>
 <td><p>6,000</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/멜버른" title="wikilink">멜버른</a></p></td>
+<td><p><a href="../Page/멜버른.md" title="wikilink">멜버른</a></p></td>
 <td><p>1974</p></td>
 <td><p>잔디</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:Kooyong_Stadium" title="wikilink">Kooyong Stadium</a></p></td>
 <td><p>8,500</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/보스턴" title="wikilink">보스턴</a></p></td>
+<td><p><a href="../Page/보스턴.md" title="wikilink">보스턴</a></p></td>
 <td><p>1973</p></td>
 <td><p>카페트</p></td>
 <td><p><a href="../Page/보스턴_가든.md" title="wikilink">보스턴 가든</a></p></td>
@@ -121,7 +121,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/파리_(프랑스)" title="wikilink">파리</a></p></td>
+<td><p><a href="../Page/파리_(프랑스).md" title="wikilink">파리</a></p></td>
 <td><p>1971</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:Stade_Pierre_de_Coubertin" title="wikilink">Stade Pierre de Coubertin</a></p></td>
 <td><p>5,000</p></td>
@@ -211,7 +211,7 @@
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:09_ATP_World_Tour_Finals" title="wikilink">2009</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/니콜라이_다비덴코" title="wikilink">니콜라이 다비덴코</a></strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후안_마르틴_델_포트로" title="wikilink">후안 마르틴 델 포트로</a></p></td>
+<td><p><a href="../Page/후안_마르틴_델_포트로.md" title="wikilink">후안 마르틴 델 포트로</a></p></td>
 <td><p>6–3, 6–4</p></td>
 <td></td>
 </tr>
@@ -245,7 +245,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:05_테니스_마스터스_컵" title="wikilink">2005</a></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/다비드_날반디안" title="wikilink">다비드 날반디안</a></strong></p></td>
+<td><p><strong><a href="../Page/다비드_날반디안.md" title="wikilink">다비드 날반디안</a></strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/로저_페더러" title="wikilink">로저 페더러</a></p></td>
 <td><p>6–7(4), 6–7(11), 6–2, 6–1, 7–6(3)</p></td>
 <td></td>
@@ -268,18 +268,18 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/상하이" title="wikilink">상하이</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:02_테니스_마스터스_컵" title="wikilink">2002</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/레이튼_휴이트" title="wikilink">레이튼 휴이트</a></strong> (2)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후안_카를로스_페레로" title="wikilink">후안 카를로스 페레로</a></p></td>
+<td><p><a href="../Page/후안_카를로스_페레로.md" title="wikilink">후안 카를로스 페레로</a></p></td>
 <td><p>7–5, 7–5, 2–6, 2–6, 6–4</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/시드니" title="wikilink">시드니</a></p></td>
+<td><p><a href="../Page/시드니.md" title="wikilink">시드니</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:01_테니스_마스터스_컵" title="wikilink">2001</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/레이튼_휴이트" title="wikilink">레이튼 휴이트</a></strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/세바스찬_그로장" title="wikilink">세바스찬 그로장</a></p></td>
 <td><p>6–3, 6–3, 6–4</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/리스본" title="wikilink">리스본</a></p></td>
+<td><p><a href="../Page/리스본.md" title="wikilink">리스본</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:00_테니스_마스터스_컵" title="wikilink">2000</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/구스타보_쿠에르텐" title="wikilink">구스타보 쿠에르텐</a></strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/안드레_애거시" title="wikilink">안드레 애거시</a></p></td>
@@ -293,7 +293,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/하노버" title="wikilink">하노버</a></p></td>
+<td><p><a href="../Page/하노버.md" title="wikilink">하노버</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:1999_ATP_Tour_World_Championships" title="wikilink">1999</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/피트_샘프라스" title="wikilink">피트 샘프라스</a></strong> (5)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/안드레_애거시" title="wikilink">안드레 애거시</a></p></td>
@@ -309,7 +309,7 @@
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:1997_ATP_Tour_World_Championships" title="wikilink">1997</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/피트_샘프라스" title="wikilink">피트 샘프라스</a></strong> (4)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/예브게니_카펠니코프" title="wikilink">예브게니 카펠니코프</a></p></td>
+<td><p><a href="../Page/예브게니_카펠니코프.md" title="wikilink">예브게니 카펠니코프</a></p></td>
 <td><p>6–3, 6–2, 6–2</p></td>
 <td></td>
 </tr>
@@ -344,14 +344,14 @@
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:1992_ATP_Tour_World_Championships" title="wikilink">1992</a></p></td>
 <td><p><strong><a href="../Page/보리스_베커.md" title="wikilink">보리스 베커</a></strong> (2)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/짐_쿠리어" title="wikilink">짐 쿠리어</a></p></td>
+<td><p><a href="../Page/짐_쿠리어.md" title="wikilink">짐 쿠리어</a></p></td>
 <td><p>6–4, 6–3, 7–5</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:1991_ATP_Tour_World_Championships" title="wikilink">1991</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/피트_샘프라스" title="wikilink">피트 샘프라스</a></strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/짐_쿠리어" title="wikilink">짐 쿠리어</a></p></td>
+<td><p><a href="../Page/짐_쿠리어.md" title="wikilink">짐 쿠리어</a></p></td>
 <td><p>3–6, 7–6(5), 6–3, 6–4</p></td>
 <td></td>
 </tr>
@@ -468,21 +468,21 @@
 <td><p>5–7, 6–2, 0–6, 7–6(1), 6–1</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/스톡홀름" title="wikilink">스톡홀름</a></p></td>
+<td><p><a href="../Page/스톡홀름.md" title="wikilink">스톡홀름</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:1975_Commercial_Union_Assurance_Masters" title="wikilink">1975</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/일리에_나스타시" title="wikilink">일리에 나스타시</a></strong> (4)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/비외른_보리" title="wikilink">비외른 보리</a></p></td>
 <td><p>6–2, 6–2, 6–1</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/멜버른" title="wikilink">멜버른</a></p></td>
+<td><p><a href="../Page/멜버른.md" title="wikilink">멜버른</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:1974_Commercial_Union_Assurance_Masters" title="wikilink">1974</a></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/기예르모_빌라스" title="wikilink">기예르모 빌라스</a></strong></p></td>
+<td><p><strong><a href="../Page/기예르모_빌라스.md" title="wikilink">기예르모 빌라스</a></strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/일리에_나스타시" title="wikilink">일리에 나스타시</a></p></td>
 <td><p>7–6, 6–2, 3–6, 3–6, 6–4</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/보스턴" title="wikilink">보스턴</a></p></td>
+<td><p><a href="../Page/보스턴.md" title="wikilink">보스턴</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:1973_Commercial_Union_Assurance_Masters" title="wikilink">1973</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/일리에_나스타시" title="wikilink">일리에 나스타시</a></strong> (3)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/톰_오케르" title="wikilink">톰 오케르</a></p></td>
@@ -496,7 +496,7 @@
 <td><p>6–3, 6–2, 3–6, 2–6, 6–3</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/파리_(프랑스)" title="wikilink">파리</a></p></td>
+<td><p><a href="../Page/파리_(프랑스).md" title="wikilink">파리</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:1971_Pepsi-Cola_Masters" title="wikilink">1971</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/일리에_나스타시" title="wikilink">일리에 나스타시</a></strong></p></td>
 <td><p>(라운드 로빈)</p></td>
@@ -543,8 +543,8 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:2009_ATP_World_Tour_Finals" title="wikilink">2009</a></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/밥_브라이언" title="wikilink">밥 브라이언</a></strong><br />
- <strong><a href="https://ko.wikipedia.org/wiki/마이크_브라이언" title="wikilink">마이크 브라이언</a></strong></p></td>
+<td><p><strong><a href="../Page/밥_브라이언.md" title="wikilink">밥 브라이언</a></strong><br />
+ <strong><a href="../Page/마이크_브라이언.md" title="wikilink">마이크 브라이언</a></strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/막스_미르니" title="wikilink">막스 미르니</a><br />
  <a href="https://ko.wikipedia.org/wiki/앤디_램" title="wikilink">앤디 램</a></p></td>
 <td><p>7–6(5), 6–3</p></td>
@@ -562,8 +562,8 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:2008_Tennis_Masters_Cup" title="wikilink">2008</a></p></td>
 <td><p><strong> <a href="https://ko.wikipedia.org/wiki/다니엘_네스터" title="wikilink">다니엘 네스터</a><br />
  <a href="https://ko.wikipedia.org/wiki/네나드_지몬지치" title="wikilink">네나드 지몬지치</a></strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/밥_브라이언" title="wikilink">밥 브라이언</a><br />
- <a href="https://ko.wikipedia.org/wiki/마이크_브라이언" title="wikilink">마이크 브라이언</a></p></td>
+<td><p><a href="../Page/밥_브라이언.md" title="wikilink">밥 브라이언</a><br />
+ <a href="../Page/마이크_브라이언.md" title="wikilink">마이크 브라이언</a></p></td>
 <td><p>7–6(3), 6–2</p></td>
 </tr>
 <tr class="even">
@@ -596,16 +596,16 @@
 <tr class="odd">
 <td><p>휴스턴</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:2004_Tennis_Masters_Cup" title="wikilink">2004</a></p></td>
-<td><p><strong> <a href="https://ko.wikipedia.org/wiki/밥_브라이언" title="wikilink">밥 브라이언</a><br />
- <a href="https://ko.wikipedia.org/wiki/마이크_브라이언" title="wikilink">마이크 브라이언</a></strong></p></td>
+<td><p><strong> <a href="../Page/밥_브라이언.md" title="wikilink">밥 브라이언</a><br />
+ <a href="../Page/마이크_브라이언.md" title="wikilink">마이크 브라이언</a></strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/웨인_블랙" title="wikilink">웨인 블랙</a><br />
  <a href="https://ko.wikipedia.org/wiki/케빈_율리엇" title="wikilink">케빈 율리엇</a></p></td>
 <td><p>4–6, 7–5, 6–4, 6–2</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:2003_Tennis_Masters_Cup" title="wikilink">2003</a></p></td>
-<td><p><strong> <a href="https://ko.wikipedia.org/wiki/밥_브라이언" title="wikilink">밥 브라이언</a><br />
- <a href="https://ko.wikipedia.org/wiki/마이크_브라이언" title="wikilink">마이크 브라이언</a></strong></p></td>
+<td><p><strong> <a href="../Page/밥_브라이언.md" title="wikilink">밥 브라이언</a><br />
+ <a href="../Page/마이크_브라이언.md" title="wikilink">마이크 브라이언</a></strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/미카엘_로드라" title="wikilink">미카엘 로드라</a><br />
  <a href="https://ko.wikipedia.org/wiki/파브리스_산토로" title="wikilink">파브리스 산토로</a></p></td>
 <td><p>6–7(6), 6–3, 3–6, 7–6(3), 6–4</p></td>
@@ -696,7 +696,7 @@
 <td><p>7–6(6), 7–6(6), 3–6, 7–6(2)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/자카르타" title="wikilink">자카르타</a></p></td>
+<td><p><a href="../Page/자카르타.md" title="wikilink">자카르타</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:1994_ATP_Tour_World_Championships" title="wikilink">1994</a></p></td>
 <td><p><strong> <a href="https://ko.wikipedia.org/wiki/Jan_Apell" title="wikilink">Jan Apell</a><br />
  <a href="https://ko.wikipedia.org/wiki/요나스_비요르크만" title="wikilink">요나스 비요르크만</a></strong></p></td>
@@ -874,7 +874,7 @@
 <td><p>6–4, 5–7, 5–7, 6–4, 6–4</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/스톡홀름" title="wikilink">스톡홀름</a></p></td>
+<td><p><a href="../Page/스톡홀름.md" title="wikilink">스톡홀름</a></p></td>
 <td><p>1975</p></td>
 <td><p><strong> <a href="https://ko.wikipedia.org/wiki/Juan_Gisbert,_Sr." title="wikilink">Juan Gisbert</a><br />
  <a href="https://ko.wikipedia.org/wiki/마누엘_오란테스" title="wikilink">마누엘 오란테스</a></strong></p></td>

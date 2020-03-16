@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JFace](https://ko.wikipedia.org/wiki/JFace).
 
 
-**JFace**는 [이클립스에서](https://ko.wikipedia.org/wiki/이클립스_\(소프트웨어\) "wikilink") 사용되는 일반적인 [사용자 인터페이스](https://ko.wikipedia.org/wiki/사용자_인터페이스 "wikilink")(UI)를 구현하기 위해 사용되는 툴킷(toolkit)이다. JFace는 [API](../Page/API.md "wikilink")와 구현에 있어서 윈도 시스템에 독립적이고 하위 [그래픽 사용자 인터페이스](https://ko.wikipedia.org/wiki/그래픽_사용자_인터페이스 "wikilink")(GUI)인 [SWT](https://ko.wikipedia.org/wiki/SWT "wikilink")를 숨기지 않고 같이 사용되도록 구현되어 있다.
+**JFace**는 [이클립스에서](../Page/이클립스_\(소프트웨어\).md "wikilink") 사용되는 일반적인 [사용자 인터페이스](../Page/사용자_인터페이스.md "wikilink")(UI)를 구현하기 위해 사용되는 툴킷(toolkit)이다. JFace는 [API](../Page/API.md "wikilink")와 구현에 있어서 윈도 시스템에 독립적이고 하위 [그래픽 사용자 인터페이스](../Page/그래픽_사용자_인터페이스.md "wikilink")(GUI)인 [SWT](https://ko.wikipedia.org/wiki/SWT "wikilink")를 숨기지 않고 같이 사용되도록 구현되어 있다.
 
 주요 기능은 액션(actions)과 뷰어(viewers)로서 액션은 사용자의 명령이 어떠한 UI에서 발생되었는지를 상관하지 않고 동일하게 처리할 수 있는 추상적인 [매커니즘](https://ko.wikipedia.org/wiki/매커니즘 "wikilink")을 제공하고 뷰어는 특정 모델 기반의 [SWT](https://ko.wikipedia.org/wiki/SWT "wikilink") [위젯](https://ko.wikipedia.org/wiki/위젯 "wikilink")(widget)의 어댑터가 되어 자료를 [목록](https://ko.wikipedia.org/wiki/목록 "wikilink")(lists), [테이블](https://ko.wikipedia.org/wiki/테이블 "wikilink")(tables), [트리](https://ko.wikipedia.org/wiki/트리 "wikilink")(trees) 형태로 표현하는 기능을 간략히 할 수 있도록 제공한다.
 
@@ -20,7 +20,7 @@ JFace는 하위 UI 시스템인 [SWT](https://ko.wikipedia.org/wiki/SWT "wikilin
 
 ### 스윙과의 차이
 
-[스윙](https://ko.wikipedia.org/wiki/스윙 "wikilink")(Swing)은 [자바](https://ko.wikipedia.org/wiki/자바_\(프로그래밍_언어\) "wikilink") 1.1 버전부터 지원하는 그래픽 라이브러리로 기존의 [AWT](https://ko.wikipedia.org/wiki/AWT "wikilink")의 단점을 보완하고자 여러 플랫폼에서 동일한 모양으로 실행될 수 있도록 만들어진 자바 표준 그래픽 [라이브러리](https://ko.wikipedia.org/wiki/라이브러리 "wikilink")이다. 그러나 느린 속도와 복잡한 개발방식, 그리고 윈도 시스템별로 다른 UI를 제공하지 못하는 한계로 인하여 일반 사용자를 대상으로 한 프로그램에서는 대중적으로 사용되지 못하였다.
+[스윙](https://ko.wikipedia.org/wiki/스윙 "wikilink")(Swing)은 [자바](../Page/자바_\(프로그래밍_언어\).md "wikilink") 1.1 버전부터 지원하는 그래픽 라이브러리로 기존의 [AWT](https://ko.wikipedia.org/wiki/AWT "wikilink")의 단점을 보완하고자 여러 플랫폼에서 동일한 모양으로 실행될 수 있도록 만들어진 자바 표준 그래픽 [라이브러리](https://ko.wikipedia.org/wiki/라이브러리 "wikilink")이다. 그러나 느린 속도와 복잡한 개발방식, 그리고 윈도 시스템별로 다른 UI를 제공하지 못하는 한계로 인하여 일반 사용자를 대상으로 한 프로그램에서는 대중적으로 사용되지 못하였다.
 
 그에 반에 SWT/JFace는 해당 윈도 시스템의 화면 구성 컴퍼넌트를 직접 사용하기 때문에 실행하는 윈도 시스템별로 해당 시스템 고유의 그래픽을 보여줄 수 있고 속도 또한 빠르다.
 

@@ -39,9 +39,9 @@
 
   - [Short Tucano](https://ko.wikipedia.org/wiki/Short_Tucano "wikilink")
   - [엠브라에르 EMB 312 투카노](../Page/엠브라에르_EMB_312_투카노.md "wikilink")
-  - [엠브라에르 EMB 314 슈퍼 투카노](https://ko.wikipedia.org/wiki/엠브라에르_EMB_314_슈퍼_투카노 "wikilink")
+  - [엠브라에르 EMB 314 슈퍼 투카노](../Page/엠브라에르_EMB_314_슈퍼_투카노.md "wikilink")
   - [KT-1](https://ko.wikipedia.org/wiki/KT-1 "wikilink")
-  - [필라투스 PC-7](https://ko.wikipedia.org/wiki/필라투스_PC-7 "wikilink")
+  - [필라투스 PC-7](../Page/필라투스_PC-7.md "wikilink")
   - [PZL-130 Orlik](https://ko.wikipedia.org/wiki/PZL-130_Orlik "wikilink")
   - [T-6 텍산 II](../Page/T-6_텍산_II.md "wikilink")
 

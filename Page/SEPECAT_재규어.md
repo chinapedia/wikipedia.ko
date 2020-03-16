@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SEPECAT ](https://ko.wikipedia.org/wiki/SEPECAT_).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Jaguar_DF-SD-05-05511.JPEG "wikilink") **재규어 전투기**는 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")과 [프랑스](../Page/프랑스.md "wikilink")가 공동 개발한 전투기이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Jaguar_DF-SD-05-05511.JPEG "wikilink") **재규어 전투기**는 [영국](../Page/영국.md "wikilink")과 [프랑스](../Page/프랑스.md "wikilink")가 공동 개발한 전투기이다.
 
 영국과 프랑스는 합작으로 고등전술훈련기를 개발하기로 하였다. 그러나 이 계획은 높은 비용으로 인해 틀어져, 영국은 호크를 프랑스는 알파젯을 각각의 훈련기로 개발하는 것으로 바뀌고, 기존의 고등전술훈련기 개발계획은 지상공격기인 재규어로 개발이 이루어지게 된다.
 

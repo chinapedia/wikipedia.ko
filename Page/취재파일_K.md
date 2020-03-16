@@ -25,21 +25,21 @@
 ## 진행자
 
   - 1대 [조재익](../Page/조재익.md "wikilink") : 2013.11.1 \~ 2013.12.27
-  - 2대 [한상권](https://ko.wikipedia.org/wiki/한상권_\(방송인\) "wikilink") : 2014.1.10 \~ 2014.12.26
+  - 2대 [한상권](../Page/한상권_\(방송인\).md "wikilink") : 2014.1.10 \~ 2014.12.26
 
 ## 타이틀 변천사
 
-| 역대 | 타이틀                                                       | 방송 기간                                                                                                                                                                                                                                  |
-| -- | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1기 | [취재파일 4321](../Page/취재파일_4321.md "wikilink")              | [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [10월 22일](https://ko.wikipedia.org/wiki/10월_22일 "wikilink") \~ [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [4월 7일](https://ko.wikipedia.org/wiki/4월_7일 "wikilink") |
-| 2기 | [취재파일 K](https://ko.wikipedia.org/wiki/취재파일_K "wikilink") | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [4월 12일](https://ko.wikipedia.org/wiki/4월_12일 "wikilink") \~ [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [8월 27일](https://ko.wikipedia.org/wiki/8월_27일 "wikilink") |
+| 역대 | 타이틀                                          | 방송 기간                                                                                                                                                      |
+| -- | -------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1기 | [취재파일 4321](../Page/취재파일_4321.md "wikilink") | [1999년](../Page/1999년.md "wikilink") [10월 22일](../Page/10월_22일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [4월 7일](../Page/4월_7일.md "wikilink") |
+| 2기 | [취재파일 K](../Page/취재파일_K.md "wikilink")       | [2013년](../Page/2013년.md "wikilink") [4월 12일](../Page/4월_12일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [8월 27일](../Page/8월_27일.md "wikilink") |
 
 ## 같이 보기
 
   - [시사기획 창](../Page/시사기획_창.md "wikilink")
   - [PD 수첩](https://ko.wikipedia.org/wiki/PD_수첩 "wikilink")
   - [추적 60분](../Page/추적_60분.md "wikilink")
-  - [그것이 알고싶다](https://ko.wikipedia.org/wiki/그것이_알고싶다 "wikilink")
+  - [그것이 알고싶다](../Page/그것이_알고싶다.md "wikilink")
   - [탐사기획 스트레이트](../Page/탐사기획_스트레이트.md "wikilink")
 
 [분류:한국방송공사의 시사교양 프로그램](https://ko.wikipedia.org/wiki/분류:한국방송공사의_시사교양_프로그램 "wikilink")

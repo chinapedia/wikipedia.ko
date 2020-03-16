@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [IMALU](https://ko.wikipedia.org/wiki/IMALU).
 
 
-**IMALU**(, [1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink") [9월 19일](https://ko.wikipedia.org/wiki/9월_19일 "wikilink") -)는 [일본](../Page/일본.md "wikilink")의 [패션 모델이다](https://ko.wikipedia.org/wiki/모델_\(직업\) "wikilink"). 본명을 그대로 예명으로 하고 있으나 [성은](../Page/성씨.md "wikilink") 공개하지 않았다.\[1\]
+**IMALU**(, [1989년](../Page/1989년.md "wikilink") [9월 19일](../Page/9월_19일.md "wikilink") -)는 [일본](../Page/일본.md "wikilink")의 [패션 모델이다](../Page/모델_\(직업\).md "wikilink"). 본명을 그대로 예명으로 하고 있으나 [성은](../Page/성씨.md "wikilink") 공개하지 않았다.\[1\]
 
 ## 인물
 
@@ -9,7 +9,7 @@
 
 <!-- end list -->
 
-  - 중학교를 졸업한 뒤 [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink")의 [빅토리아에](../Page/빅토리아_\(브리티시컬럼비아주\).md "wikilink") 소재한 고등학교로 [조기 유학을](https://ko.wikipedia.org/wiki/유학_\(교육\) "wikilink") 떠났고 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 4월에 졸업했다\[2\].
+  - 중학교를 졸업한 뒤 [캐나다](../Page/캐나다.md "wikilink")의 [빅토리아에](../Page/빅토리아_\(브리티시컬럼비아주\).md "wikilink") 소재한 고등학교로 [조기 유학을](https://ko.wikipedia.org/wiki/유학_\(교육\) "wikilink") 떠났고 [2008년](../Page/2008년.md "wikilink") 4월에 졸업했다\[2\].
 
 <!-- end list -->
 

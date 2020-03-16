@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WASP-14b](https://ko.wikipedia.org/wiki/WASP-14b).
 
 
-**WASP-14b**는 2008년 발견된 [외계 행성이다](https://ko.wikipedia.org/wiki/외계_행성 "wikilink").
+**WASP-14b**는 2008년 발견된 [외계 행성이다](../Page/외계_행성.md "wikilink").
 
 ## 물리적 특성
 

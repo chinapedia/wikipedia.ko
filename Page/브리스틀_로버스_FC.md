@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
 
 
-**브리스톨 로버스 FC**()는 [브리스틀](../Page/브리스틀.md "wikilink")을 연고로 하는 [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다.
+**브리스톨 로버스 FC**()는 [브리스틀](../Page/브리스틀.md "wikilink")을 연고로 하는 [잉글랜드](../Page/잉글랜드.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다.
 
 ## 성적
 

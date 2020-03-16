@@ -9,6 +9,6 @@
 
 ## 리메이크
 
-[라 오레하데 반 고흐에서](https://ko.wikipedia.org/wiki/라_오레하데_반_고흐 "wikilink") 보컬이 [레이레 마르티네스로](../Page/레이레_마르티네스.md "wikilink") 바뀐 이후 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")에 베스트 앨범을 발표했는데 20 de enero는 그 앨범 6번째 곡으로 수록되었다. 초반 부분은 무반주로 레이레 마르티네스와 하비 산 마르틴의 듀엣으로 시작되며 후반에만 반주가 곁들여진다.
+[라 오레하데 반 고흐에서](https://ko.wikipedia.org/wiki/라_오레하데_반_고흐 "wikilink") 보컬이 [레이레 마르티네스로](../Page/레이레_마르티네스.md "wikilink") 바뀐 이후 [2009년](../Page/2009년.md "wikilink")에 베스트 앨범을 발표했는데 20 de enero는 그 앨범 6번째 곡으로 수록되었다. 초반 부분은 무반주로 레이레 마르티네스와 하비 산 마르틴의 듀엣으로 시작되며 후반에만 반주가 곁들여진다.
 
 [분류:2003년 노래](https://ko.wikipedia.org/wiki/분류:2003년_노래 "wikilink") [분류:2003년 싱글](https://ko.wikipedia.org/wiki/분류:2003년_싱글 "wikilink") [분류:스페인의 음악](https://ko.wikipedia.org/wiki/분류:스페인의_음악 "wikilink") [분류:아르헨티나의 음악](https://ko.wikipedia.org/wiki/분류:아르헨티나의_음악 "wikilink") [분류:라 오레하데 반 고흐의 싱글](https://ko.wikipedia.org/wiki/분류:라_오레하데_반_고흐의_싱글 "wikilink")

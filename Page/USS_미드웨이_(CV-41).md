@@ -13,7 +13,7 @@
 
 ## 대한민국
 
-1980년 [5·18 광주 민주화 운동](https://ko.wikipedia.org/wiki/5·18_광주_민주화_운동 "wikilink") 당시, 5월 24일 [USS 미드웨이 (CV-41)와](https://ko.wikipedia.org/wiki/USS_미드웨이_\(CV-41\) "wikilink") [USS 코럴시 (CV-43)가](https://ko.wikipedia.org/wiki/USS_코럴시_\(CV-43\) "wikilink") 한반도에 전개되었다.\[1\] 둘 다 [미드웨이급 항공모함이다](https://ko.wikipedia.org/wiki/미드웨이급_항공모함 "wikilink").
+1980년 [5·18 광주 민주화 운동](../Page/5·18_광주_민주화_운동.md "wikilink") 당시, 5월 24일 [USS 미드웨이 (CV-41)와](../Page/USS_미드웨이_\(CV-41\).md "wikilink") [USS 코럴시 (CV-43)가](https://ko.wikipedia.org/wiki/USS_코럴시_\(CV-43\) "wikilink") 한반도에 전개되었다.\[1\] 둘 다 [미드웨이급 항공모함이다](../Page/미드웨이급_항공모함.md "wikilink").
 
 ## 더 읽기
 

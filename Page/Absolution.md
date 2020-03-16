@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Absolution](https://ko.wikipedia.org/wiki/Absolution).
 
 
-《**Absolution**》은 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 록 밴드 [뮤즈의](https://ko.wikipedia.org/wiki/뮤즈_\(밴드\) "wikilink") 세 번째 스튜디오 음반이다. 2003년 9월 15일 일본에서, 2003년 9월 22일 영국에서 [이스트웨스트 레코드와](https://ko.wikipedia.org/wiki/이스트웨스트_레코드 "wikilink") [테이스트 미디어에](https://ko.wikipedia.org/wiki/테이스트_미디어 "wikilink") 의해, 2004년 3월 23일에 [워너 브라더스 레코드에](https://ko.wikipedia.org/wiki/워너_브라더스_레코드 "wikilink") 의해 발매되었다. 이 음반은 《[Origin of Symmetry](https://ko.wikipedia.org/wiki/Origin_of_Symmetry "wikilink")》의 다양한 음악적 경향과 정교한 사운드에 이어 수록되었고, 또한 전체적으로 보다 집중적이고 일관된 주제와 미적 감각을 지니고 있었다. 《Absolution》은 눈에 띄게 어둡고 무거운 음색을 띠며 [신학](https://ko.wikipedia.org/wiki/신학 "wikilink")적, [종말론적](../Page/말세.md "wikilink") 개념에 서정적인 초점을 맞추고 있다.
+《**Absolution**》은 [영국](../Page/영국.md "wikilink")의 록 밴드 [뮤즈의](../Page/뮤즈_\(밴드\).md "wikilink") 세 번째 스튜디오 음반이다. 2003년 9월 15일 일본에서, 2003년 9월 22일 영국에서 [이스트웨스트 레코드와](https://ko.wikipedia.org/wiki/이스트웨스트_레코드 "wikilink") [테이스트 미디어에](https://ko.wikipedia.org/wiki/테이스트_미디어 "wikilink") 의해, 2004년 3월 23일에 [워너 브라더스 레코드에](https://ko.wikipedia.org/wiki/워너_브라더스_레코드 "wikilink") 의해 발매되었다. 이 음반은 《[Origin of Symmetry](https://ko.wikipedia.org/wiki/Origin_of_Symmetry "wikilink")》의 다양한 음악적 경향과 정교한 사운드에 이어 수록되었고, 또한 전체적으로 보다 집중적이고 일관된 주제와 미적 감각을 지니고 있었다. 《Absolution》은 눈에 띄게 어둡고 무거운 음색을 띠며 [신학](../Page/신학.md "wikilink")적, [종말론적](../Page/말세.md "wikilink") 개념에 서정적인 초점을 맞추고 있다.
 
 이 음반은 [영국 음반 차트에서](https://ko.wikipedia.org/wiki/영국_음반_차트 "wikilink") 1위에 올랐다. 이 음반은 또한 밴드의 첫 번째 싱글 히트곡 10위 안에 들었고, 〈[Time Is Running Out](https://ko.wikipedia.org/wiki/Time_Is_Running_Out "wikilink")〉은 [영국 싱글 차트](https://ko.wikipedia.org/wiki/영국_싱글_차트 "wikilink") 8위에 올랐다. 2009년에는 《[케랑\!](https://ko.wikipedia.org/wiki/케랑! "wikilink")》에 의해 현재까지 21세기 2위 음반으로 선정되었다.\[1\]
 
@@ -11,7 +11,7 @@
 
 ## 곡 목록
 
-모든 곡들은 [뮤즈에](https://ko.wikipedia.org/wiki/뮤즈_\(밴드\) "wikilink") 의해 작사/작곡하였다.
+모든 곡들은 [뮤즈에](../Page/뮤즈_\(밴드\).md "wikilink") 의해 작사/작곡하였다.
 
 ## 각주
 

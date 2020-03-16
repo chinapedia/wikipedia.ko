@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Misono](https://ko.wikipedia.org/wiki/Misono).
 
 
-**미소노**(misono, [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") [10월 13일](https://ko.wikipedia.org/wiki/10월_13일 "wikilink") \~)는 일본의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink"), [배우](../Page/배우.md "wikilink")이다. 본명은 코다 미소노()이고, 언니는 가수 [코다 쿠미이다](../Page/코다_쿠미.md "wikilink").
+**미소노**(misono, [1984년](../Page/1984년.md "wikilink") [10월 13일](../Page/10월_13일.md "wikilink") \~)는 일본의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink"), [배우](../Page/배우.md "wikilink")이다. 본명은 코다 미소노()이고, 언니는 가수 [코다 쿠미이다](../Page/코다_쿠미.md "wikilink").
 
 ## 내력
 
@@ -11,8 +11,8 @@
 
 ### 게스트
 
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [9월 1일](https://ko.wikipedia.org/wiki/9월_1일 "wikilink") 헤이\!헤이\!헤이\! 뮤직 챔프 ([후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink"))
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [6월 12일](https://ko.wikipedia.org/wiki/6월_12일 "wikilink") [뮤직 스테이션](../Page/뮤직_스테이션.md "wikilink") ([TV 아사히](../Page/TV_아사히.md "wikilink"))
+  - [2008년](../Page/2008년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink") 헤이\!헤이\!헤이\! 뮤직 챔프 ([후지 TV](../Page/후지_TV.md "wikilink"))
+  - [2009년](../Page/2009년.md "wikilink") [6월 12일](../Page/6월_12일.md "wikilink") [뮤직 스테이션](../Page/뮤직_스테이션.md "wikilink") ([TV 아사히](../Page/TV_아사히.md "wikilink"))
 
 ### 텔레비전 드라마
 

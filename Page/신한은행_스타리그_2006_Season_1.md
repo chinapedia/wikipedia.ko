@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [  2006 Season 1](https://ko.wikipedia.org/wiki/__2006_Season_1).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Shinhan_season1.png "wikilink") **신한은행 스타리그 2006 Season 1**은 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")에 진행된 [스타리그](https://ko.wikipedia.org/wiki/스타리그 "wikilink")이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Shinhan_season1.png "wikilink") **신한은행 스타리그 2006 Season 1**은 [2006년](../Page/2006년.md "wikilink")에 진행된 [스타리그](https://ko.wikipedia.org/wiki/스타리그 "wikilink")이다.
 
 ## 리그기간
 
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [4월 12일](https://ko.wikipedia.org/wiki/4월_12일 "wikilink") \~ [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [6월 24일](https://ko.wikipedia.org/wiki/6월_24일 "wikilink")
+  - [2006년](../Page/2006년.md "wikilink") [4월 12일](../Page/4월_12일.md "wikilink") \~ [2006년](../Page/2006년.md "wikilink") [6월 24일](../Page/6월_24일.md "wikilink")
 
 ## 리그컨셉
 
@@ -34,7 +34,7 @@
   - 16강이었던 본선대진이 24강으로 확대되며 시드가 3장에서 6장으로 늘어남.
   - 홍진호, 개인통산 100승 달성.
   - 삼성전자 칸, 창단 최초로 개인리그 4강 진출자 탄생(변은종)
-  - 8강 투어 장소 : [청주](https://ko.wikipedia.org/wiki/청주시 "wikilink") [서원대학교](../Page/서원대학교.md "wikilink")
+  - 8강 투어 장소 : [청주](../Page/청주시.md "wikilink") [서원대학교](../Page/서원대학교.md "wikilink")
   - 결승 장소 : 서울 [서울대학교](https://ko.wikipedia.org/wiki/서울대학교 "wikilink") 잔디운동장 (스타리그 최초의 심야 결승전 - 경기시작 시간 : 2006년 6월 23일 밤 11시\[1\])
 
 ## K-SWISS 듀얼토너먼트
@@ -49,12 +49,12 @@
 
 ### 1라운드
 
-  - **일정** : [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [12월 10일](https://ko.wikipedia.org/wiki/12월_10일 "wikilink") \~ [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [2월 1일](https://ko.wikipedia.org/wiki/2월_1일 "wikilink")
+  - **일정** : [2005년](../Page/2005년.md "wikilink") [12월 10일](../Page/12월_10일.md "wikilink") \~ [2006년](../Page/2006년.md "wikilink") [2월 1일](../Page/2월_1일.md "wikilink")
 
 |    |                                                         |                                                     |                                                         |                                                     |                                                         |
 | -- | ------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------- |
 | 조  | Match1                                                  | Match2                                              | 승자전                                                     | 패자전                                                 | 최종전                                                     |
-| A조 | **[박태민](https://ko.wikipedia.org/wiki/박태민 "wikilink")** | [박영민](https://ko.wikipedia.org/wiki/박영민 "wikilink") | **[박영훈](https://ko.wikipedia.org/wiki/박영훈 "wikilink")** | [김정민](https://ko.wikipedia.org/wiki/김정민 "wikilink") | **[박영훈](https://ko.wikipedia.org/wiki/박영훈 "wikilink")** |
+| A조 | **[박태민](https://ko.wikipedia.org/wiki/박태민 "wikilink")** | [박영민](https://ko.wikipedia.org/wiki/박영민 "wikilink") | **[박영훈](https://ko.wikipedia.org/wiki/박영훈 "wikilink")** | [김정민](../Page/김정민.md "wikilink")                    | **[박영훈](https://ko.wikipedia.org/wiki/박영훈 "wikilink")** |
 | B조 | **[변길섭](../Page/변길섭.md "wikilink")**                    | [최수범](../Page/최수범.md "wikilink")                    | **[김남기](https://ko.wikipedia.org/wiki/김남기 "wikilink")** | [윤용태](../Page/윤용태.md "wikilink")                    | **[김남기](https://ko.wikipedia.org/wiki/김남기 "wikilink")** |
 | C조 | **[강민](../Page/강민_\(프로게이머\).md "wikilink")**            | [성학승](../Page/성학승.md "wikilink")                    | **[진영수](../Page/진영수.md "wikilink")**                    | [김성기](https://ko.wikipedia.org/wiki/김성기 "wikilink") | **[강민](../Page/강민_\(프로게이머\).md "wikilink")**            |
 | D조 | **[홍진호](../Page/홍진호.md "wikilink")**                    | [안석열](https://ko.wikipedia.org/wiki/안석열 "wikilink") | **[이학주](https://ko.wikipedia.org/wiki/이학주 "wikilink")** | [전태규](../Page/전태규.md "wikilink")                    | **[홍진호](../Page/홍진호.md "wikilink")**                    |
@@ -85,7 +85,7 @@
 
 ### 2라운드
 
-  - **일정** : [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [2월 4일](https://ko.wikipedia.org/wiki/2월_4일 "wikilink") \~ [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [3월 3일](https://ko.wikipedia.org/wiki/3월_3일 "wikilink")
+  - **일정** : [2006년](../Page/2006년.md "wikilink") [2월 4일](../Page/2월_4일.md "wikilink") \~ [2006년](../Page/2006년.md "wikilink") [3월 3일](../Page/3월_3일.md "wikilink")
 
 |    |                                                         |                                                     |                                                         |                                                     |                                                         |
 | -- | ------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------- |
@@ -94,20 +94,20 @@
 | B조 | **[김성제](https://ko.wikipedia.org/wiki/김성제 "wikilink")** | [조용호](https://ko.wikipedia.org/wiki/조용호 "wikilink") | **[김남기](https://ko.wikipedia.org/wiki/김남기 "wikilink")** | [서지훈](https://ko.wikipedia.org/wiki/서지훈 "wikilink") | **[김성제](https://ko.wikipedia.org/wiki/김성제 "wikilink")** |
 | C조 | **[송병구](../Page/송병구.md "wikilink")**                    | [심소명](../Page/심소명.md "wikilink")                    | **[차재욱](../Page/차재욱.md "wikilink")**                    | [홍진호](../Page/홍진호.md "wikilink")                    | **[송병구](../Page/송병구.md "wikilink")**                    |
 | D조 | **[전상욱](https://ko.wikipedia.org/wiki/전상욱 "wikilink")** | [김준영](https://ko.wikipedia.org/wiki/김준영 "wikilink") | **[이병민](https://ko.wikipedia.org/wiki/이병민 "wikilink")** | [박영훈](https://ko.wikipedia.org/wiki/박영훈 "wikilink") | **[전상욱](https://ko.wikipedia.org/wiki/전상욱 "wikilink")** |
-| E조 | **[임요환](https://ko.wikipedia.org/wiki/임요환 "wikilink")** | [안석열](https://ko.wikipedia.org/wiki/안석열 "wikilink") | **[강민](../Page/강민_\(프로게이머\).md "wikilink")**            | [안기효](https://ko.wikipedia.org/wiki/안기효 "wikilink") | **[강민](../Page/강민_\(프로게이머\).md "wikilink")**            |
+| E조 | **[임요환](../Page/임요환.md "wikilink")**                    | [안석열](https://ko.wikipedia.org/wiki/안석열 "wikilink") | **[강민](../Page/강민_\(프로게이머\).md "wikilink")**            | [안기효](https://ko.wikipedia.org/wiki/안기효 "wikilink") | **[강민](../Page/강민_\(프로게이머\).md "wikilink")**            |
 | F조 | **[한동욱](../Page/한동욱.md "wikilink")**                    | [김성기](https://ko.wikipedia.org/wiki/김성기 "wikilink") | **[변길섭](../Page/변길섭.md "wikilink")**                    | [박성준](../Page/박성준_\(1984년\).md "wikilink")          | **[한동욱](../Page/한동욱.md "wikilink")**                    |
 
 ### 추가선발전
 
-  - **일정** : [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [3월 29일](https://ko.wikipedia.org/wiki/3월_29일 "wikilink") \~ [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [4월 5일](https://ko.wikipedia.org/wiki/4월_5일 "wikilink")
+  - **일정** : [2006년](../Page/2006년.md "wikilink") [3월 29일](../Page/3월_29일.md "wikilink") \~ [2006년](../Page/2006년.md "wikilink") [4월 5일](../Page/4월_5일.md "wikilink")
 
-|    |                                                         |                                                     |                                                         |                                                     |                                                         |
-| -- | ------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------- |
-| 조  | Match1                                                  | Match2                                              | 승자전                                                     | 패자전                                                 | 최종전                                                     |
-| A조 | **[최가람](https://ko.wikipedia.org/wiki/최가람 "wikilink")** | [이재호](https://ko.wikipedia.org/wiki/이재호 "wikilink") | **[차재욱](../Page/차재욱.md "wikilink")**                    | [심소명](../Page/심소명.md "wikilink")                    | **[최가람](https://ko.wikipedia.org/wiki/최가람 "wikilink")** |
-| B조 | **[장육](https://ko.wikipedia.org/wiki/장육 "wikilink")**   | [오영종](../Page/오영종.md "wikilink")                    | **[임요환](https://ko.wikipedia.org/wiki/임요환 "wikilink")** | [변은종](../Page/변은종.md "wikilink")                    | **[임요환](https://ko.wikipedia.org/wiki/임요환 "wikilink")** |
-| C조 | **[이병민](https://ko.wikipedia.org/wiki/이병민 "wikilink")** | [김근백](../Page/김근백.md "wikilink")                    | **[박명수](../Page/박명수_\(프로게이머\).md "wikilink")**          | [서지훈](https://ko.wikipedia.org/wiki/서지훈 "wikilink") | **[이병민](https://ko.wikipedia.org/wiki/이병민 "wikilink")** |
-| D조 | **[김남기](https://ko.wikipedia.org/wiki/김남기 "wikilink")** | [안석열](https://ko.wikipedia.org/wiki/안석열 "wikilink") | **[원종서](../Page/원종서.md "wikilink")**                    | [변길섭](../Page/변길섭.md "wikilink")                    | **[김남기](https://ko.wikipedia.org/wiki/김남기 "wikilink")** |
+|    |                                                         |                                                     |                                                |                                                     |                                                         |
+| -- | ------------------------------------------------------- | --------------------------------------------------- | ---------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------- |
+| 조  | Match1                                                  | Match2                                              | 승자전                                            | 패자전                                                 | 최종전                                                     |
+| A조 | **[최가람](https://ko.wikipedia.org/wiki/최가람 "wikilink")** | [이재호](https://ko.wikipedia.org/wiki/이재호 "wikilink") | **[차재욱](../Page/차재욱.md "wikilink")**           | [심소명](../Page/심소명.md "wikilink")                    | **[최가람](https://ko.wikipedia.org/wiki/최가람 "wikilink")** |
+| B조 | **[장육](https://ko.wikipedia.org/wiki/장육 "wikilink")**   | [오영종](../Page/오영종.md "wikilink")                    | **[임요환](../Page/임요환.md "wikilink")**           | [변은종](../Page/변은종.md "wikilink")                    | **[임요환](../Page/임요환.md "wikilink")**                    |
+| C조 | **[이병민](https://ko.wikipedia.org/wiki/이병민 "wikilink")** | [김근백](../Page/김근백.md "wikilink")                    | **[박명수](../Page/박명수_\(프로게이머\).md "wikilink")** | [서지훈](https://ko.wikipedia.org/wiki/서지훈 "wikilink") | **[이병민](https://ko.wikipedia.org/wiki/이병민 "wikilink")** |
+| D조 | **[김남기](https://ko.wikipedia.org/wiki/김남기 "wikilink")** | [안석열](https://ko.wikipedia.org/wiki/안석열 "wikilink") | **[원종서](../Page/원종서.md "wikilink")**           | [변길섭](../Page/변길섭.md "wikilink")                    | **[김남기](https://ko.wikipedia.org/wiki/김남기 "wikilink")** |
 
 ## 24강
 
@@ -124,12 +124,12 @@
 
 24강 조지명식에 따라 결정된 조에 따라서 한 선수가 한 경기씩 총 세 경기를 펼치게 되며, 한 조로 볼 때 총 여섯 경기를 치르게 된다.
 
-| A조                                                            | B조        | C조                                                                                                 | D조        | E조                                                      | F조        |
-| ------------------------------------------------------------- | --------- | -------------------------------------------------------------------------------------------------- | --------- | ------------------------------------------------------- | --------- |
-| [최연성](../Page/최연성.md "wikilink")                              | 1승 2패     | [박성준](../Page/박성준_\(1986년\).md "wikilink") <small>([MBC](../Page/MBC게임_히어로.md "wikilink"))</small> | 1승 2패     | [박지호](https://ko.wikipedia.org/wiki/박지호 "wikilink")     | 0승 3패     |
-| **[차재욱](../Page/차재욱.md "wikilink")**                          | **2승 1패** | **[박태민](https://ko.wikipedia.org/wiki/박태민 "wikilink")**                                            | **2승 1패** | **[임요환](https://ko.wikipedia.org/wiki/임요환 "wikilink")** | **3승 0패** |
-| **[조용호](https://ko.wikipedia.org/wiki/조용호 "wikilink")**       | **2승 1패** | **[안기효](https://ko.wikipedia.org/wiki/안기효 "wikilink")**                                            | **2승 1패** | [최가람](https://ko.wikipedia.org/wiki/최가람 "wikilink")     | 1승 2패     |
-| [박명수](https://ko.wikipedia.org/wiki/박명수_\(1987년\) "wikilink") | 1승 2패     | [변길섭](../Page/변길섭.md "wikilink")                                                                   | 1승 2패     | **[변은종](../Page/변은종.md "wikilink")**                    | **2승 1패** |
+| A조                                                            | B조        | C조                                                                                                 | D조        | E조                                                  | F조        |
+| ------------------------------------------------------------- | --------- | -------------------------------------------------------------------------------------------------- | --------- | --------------------------------------------------- | --------- |
+| [최연성](../Page/최연성.md "wikilink")                              | 1승 2패     | [박성준](../Page/박성준_\(1986년\).md "wikilink") <small>([MBC](../Page/MBC게임_히어로.md "wikilink"))</small> | 1승 2패     | [박지호](https://ko.wikipedia.org/wiki/박지호 "wikilink") | 0승 3패     |
+| **[차재욱](../Page/차재욱.md "wikilink")**                          | **2승 1패** | **[박태민](https://ko.wikipedia.org/wiki/박태민 "wikilink")**                                            | **2승 1패** | **[임요환](../Page/임요환.md "wikilink")**                | **3승 0패** |
+| **[조용호](https://ko.wikipedia.org/wiki/조용호 "wikilink")**       | **2승 1패** | **[안기효](https://ko.wikipedia.org/wiki/안기효 "wikilink")**                                            | **2승 1패** | [최가람](https://ko.wikipedia.org/wiki/최가람 "wikilink") | 1승 2패     |
+| [박명수](https://ko.wikipedia.org/wiki/박명수_\(1987년\) "wikilink") | 1승 2패     | [변길섭](../Page/변길섭.md "wikilink")                                                                   | 1승 2패     | **[변은종](../Page/변은종.md "wikilink")**                | **2승 1패** |
 
 ### 재경기
 
@@ -208,4 +208,4 @@
 
 [분류:스타리그](https://ko.wikipedia.org/wiki/분류:스타리그 "wikilink") [분류:2006년 이스포츠](https://ko.wikipedia.org/wiki/분류:2006년_이스포츠 "wikilink")
 
-1.  [2006년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵 "wikilink") [스위스와의](https://ko.wikipedia.org/wiki/스위스_축구_국가대표팀 "wikilink") 조별예선 3차전 경기와 겹친 관계로 심야 결승전을 치렀다.
+1.  [2006년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵 "wikilink") [스위스와의](../Page/스위스_축구_국가대표팀.md "wikilink") 조별예선 3차전 경기와 겹친 관계로 심야 결승전을 치렀다.

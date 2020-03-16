@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [OllyDbg](https://ko.wikipedia.org/wiki/OllyDbg).
 
 
-**OllyDbg** (만든이인 Oleh Yuschuk의 이름을 딴)는 바이너리 코드 분석을 위한 [x86](https://ko.wikipedia.org/wiki/x86 "wikilink") [디버거](../Page/디버거.md "wikilink")로서, 소스 코드가 없을 때 유용하게 사용된다. 이것은 [레지스터를](https://ko.wikipedia.org/wiki/프로세서_레지스터 "wikilink") 추적하고, [함수](../Page/함수_\(프로그래밍\).md "wikilink"), [API](../Page/API.md "wikilink") 호출, [Switch 문](https://ko.wikipedia.org/wiki/Switch_문 "wikilink"), [표 (table)](https://ko.wikipedia.org/wiki/표 "wikilink"), [상수](https://ko.wikipedia.org/wiki/상수 "wikilink") 그리고 [문자열](https://ko.wikipedia.org/wiki/문자열 "wikilink")을 인식하며, 오브젝트 파일과 라이브러리에서 루틴들의 위치를 찾아준다. 올리디버거는 사용자 친화적인 인터페이스를 갖고 있고 제 3의 플러그인들을 통해 기능을 확장할 수 있다. 버전 1.10은 1.x 출시작들의 마지막이며, 버전 2.0이 2010년 6월에 출시되었다. 이 버전부터는 처음부터 다시 써졌다고 한다. 가격은 무료이지만 셰어웨어 라이선스는 사용자가 등록을 해야 한다. \[1\] 또한 현재 버전의 올리디버거는 64비트 CPU 용으로 컴파일된 바이너리는 역어셈블할 수 없다. 하지만 64비트 버전의 디버거가 나올 예정이다.\[2\]
+**OllyDbg** (만든이인 Oleh Yuschuk의 이름을 딴)는 바이너리 코드 분석을 위한 [x86](https://ko.wikipedia.org/wiki/x86 "wikilink") [디버거](../Page/디버거.md "wikilink")로서, 소스 코드가 없을 때 유용하게 사용된다. 이것은 [레지스터를](../Page/프로세서_레지스터.md "wikilink") 추적하고, [함수](../Page/함수_\(프로그래밍\).md "wikilink"), [API](../Page/API.md "wikilink") 호출, [Switch 문](../Page/Switch_문.md "wikilink"), [표 (table)](https://ko.wikipedia.org/wiki/표 "wikilink"), [상수](https://ko.wikipedia.org/wiki/상수 "wikilink") 그리고 [문자열](https://ko.wikipedia.org/wiki/문자열 "wikilink")을 인식하며, 오브젝트 파일과 라이브러리에서 루틴들의 위치를 찾아준다. 올리디버거는 사용자 친화적인 인터페이스를 갖고 있고 제 3의 플러그인들을 통해 기능을 확장할 수 있다. 버전 1.10은 1.x 출시작들의 마지막이며, 버전 2.0이 2010년 6월에 출시되었다. 이 버전부터는 처음부터 다시 써졌다고 한다. 가격은 무료이지만 셰어웨어 라이선스는 사용자가 등록을 해야 한다. \[1\] 또한 현재 버전의 올리디버거는 64비트 CPU 용으로 컴파일된 바이너리는 역어셈블할 수 없다. 하지만 64비트 버전의 디버거가 나올 예정이다.\[2\]
 
 ## 리버스 엔지니어링
 

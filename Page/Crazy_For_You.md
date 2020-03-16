@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Crazy For You](https://ko.wikipedia.org/wiki/Crazy_For_You).
 
 
-《**Crazy For You**》는 [이승기](../Page/이승기.md "wikilink")의 두 번째 정규 음반이다. [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [2월 3일에](https://ko.wikipedia.org/wiki/2월_3일 "wikilink") 발매되었다. 김도훈이 프로듀서를 맡았고, [이선희](https://ko.wikipedia.org/wiki/이선희 "wikilink")가 사운드를 감독하며 음반 작업에 참여하였다.\[1\] 총 13곡이 수록되어있다.
+《**Crazy For You**》는 [이승기](../Page/이승기.md "wikilink")의 두 번째 정규 음반이다. [2006년](../Page/2006년.md "wikilink") [2월 3일에](../Page/2월_3일.md "wikilink") 발매되었다. 김도훈이 프로듀서를 맡았고, [이선희](../Page/이선희.md "wikilink")가 사운드를 감독하며 음반 작업에 참여하였다.\[1\] 총 13곡이 수록되어있다.
 
 ## 대표곡
 
@@ -29,7 +29,7 @@
 
 ## 뮤직비디오
 
-타이틀곡〈하기 힘든 말〉뮤직비디오는 [차은택](../Page/차은택.md "wikilink") 감독이 연출을 맡았으며, 드라마타이즈드 형식으로 제작되었다. [이승기](../Page/이승기.md "wikilink")와 [남상미](https://ko.wikipedia.org/wiki/남상미 "wikilink")가 극 중 연인으로 출연하였다.
+타이틀곡〈하기 힘든 말〉뮤직비디오는 [차은택](../Page/차은택.md "wikilink") 감독이 연출을 맡았으며, 드라마타이즈드 형식으로 제작되었다. [이승기](../Page/이승기.md "wikilink")와 [남상미](../Page/남상미.md "wikilink")가 극 중 연인으로 출연하였다.
 
 ## 평가
 

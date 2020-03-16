@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [GMB \(\)](https://ko.wikipedia.org/wiki/GMB_\(\)).
 
 
-**GMB 노동조합**()은 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 산별노조급 [노동조합](https://ko.wikipedia.org/wiki/노동조합 "wikilink")이다. 조합원 수는 60만 명에 달한다. 조합원들은 여러 산업에 걸쳐 분포하고 있는데, 특히, 육체 노동 분야 및 지방 정부, 의료 서비스 부문에 많다. GMB 지부는 영국 내 50 대 기업 중 34 여 개의 기업에 조직되어 있다.
+**GMB 노동조합**()은 [영국](../Page/영국.md "wikilink")의 산별노조급 [노동조합](../Page/노동조합.md "wikilink")이다. 조합원 수는 60만 명에 달한다. 조합원들은 여러 산업에 걸쳐 분포하고 있는데, 특히, 육체 노동 분야 및 지방 정부, 의료 서비스 부문에 많다. GMB 지부는 영국 내 50 대 기업 중 34 여 개의 기업에 조직되어 있다.
 
-노동조합 사무소는 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink") [런던](https://ko.wikipedia.org/wiki/런던 "wikilink")에 있다.
+노동조합 사무소는 [영국](../Page/영국.md "wikilink") [런던](../Page/런던.md "wikilink")에 있다.
 
 ## 역사
 
@@ -15,7 +15,7 @@ GMB는 1924년, , , 이 합병하면서 탄생하였다. 당시 이름은 였다
 
 ## 정치 활동
 
-GMB는 [영국 노동당](https://ko.wikipedia.org/wiki/노동당_\(영국\) "wikilink")(Labour Party)에 가입해 있다. 가입해 있는 산별노조로서는 [UNISON](https://ko.wikipedia.org/wiki/UNISON "wikilink"), [Unite 노동조합에](https://ko.wikipedia.org/wiki/Unite_노동조합 "wikilink") 이어, 세 번째로 큰 규모이다. GMB는 전국 조직으로서나 지역 조직으로서나 영국 노동당에 입장에서는 꽤 중요한 재정적 후원 조직이다.\[1\]
+GMB는 [영국 노동당](../Page/노동당_\(영국\).md "wikilink")(Labour Party)에 가입해 있다. 가입해 있는 산별노조로서는 [UNISON](https://ko.wikipedia.org/wiki/UNISON "wikilink"), [Unite 노동조합에](https://ko.wikipedia.org/wiki/Unite_노동조합 "wikilink") 이어, 세 번째로 큰 규모이다. GMB는 전국 조직으로서나 지역 조직으로서나 영국 노동당에 입장에서는 꽤 중요한 재정적 후원 조직이다.\[1\]
 
 ## 각주
 

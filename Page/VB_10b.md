@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [VB 10b](https://ko.wikipedia.org/wiki/VB_10b).
 
 
-**VB 10b**는 [독수리자리](https://ko.wikipedia.org/wiki/독수리자리 "wikilink") 방향으로 지구로부터 19.85 [광년](https://ko.wikipedia.org/wiki/광년 "wikilink") 떨어진 곳에 있는 항성 [VB 10](https://ko.wikipedia.org/wiki/VB_10 "wikilink") 주위를 도는, [외계 행성이다](https://ko.wikipedia.org/wiki/외계_행성 "wikilink").
+**VB 10b**는 [독수리자리](../Page/독수리자리.md "wikilink") 방향으로 지구로부터 19.85 [광년](../Page/광년.md "wikilink") 떨어진 곳에 있는 항성 [VB 10](../Page/VB_10.md "wikilink") 주위를 도는, [외계 행성이다](../Page/외계_행성.md "wikilink").
 
 ## 발견
 

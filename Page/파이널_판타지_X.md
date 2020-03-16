@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  X](https://ko.wikipedia.org/wiki/__X).
 
 
-《**파이널 판타지 X**》(Final Fantasy X)는 [스퀘어 에닉스가](https://ko.wikipedia.org/wiki/스퀘어_에닉스 "wikilink") 만든 [콘솔용](../Page/비디오_게임_콘솔.md "wikilink") [롤플레잉 게임으로](https://ko.wikipedia.org/wiki/롤플레잉_게임 "wikilink"), 《[파이널 판타지](https://ko.wikipedia.org/wiki/파이널_판타지 "wikilink")》시리즈의 10번째 작품이다. 2001년 출시되었다. [PS2](https://ko.wikipedia.org/wiki/PS2 "wikilink")로 처음 나온 파이널 판타지 시리즈인 만큼 이전 작품들과 비교할 때 영상미와 배경 음악 등에 있어 높은 수준의 향상이 있었다. [성우](https://ko.wikipedia.org/wiki/성우 "wikilink")를 최초로 사용한 시리즈이기도 하다. 한국어판의 주제가는 "얼마나 좋을까"로 [이수영](https://ko.wikipedia.org/wiki/이수영 "wikilink")이 불렀다.
+《**파이널 판타지 X**》(Final Fantasy X)는 [스퀘어 에닉스가](../Page/스퀘어_에닉스.md "wikilink") 만든 [콘솔용](../Page/비디오_게임_콘솔.md "wikilink") [롤플레잉 게임으로](https://ko.wikipedia.org/wiki/롤플레잉_게임 "wikilink"), 《[파이널 판타지](https://ko.wikipedia.org/wiki/파이널_판타지 "wikilink")》시리즈의 10번째 작품이다. 2001년 출시되었다. [PS2](https://ko.wikipedia.org/wiki/PS2 "wikilink")로 처음 나온 파이널 판타지 시리즈인 만큼 이전 작품들과 비교할 때 영상미와 배경 음악 등에 있어 높은 수준의 향상이 있었다. [성우](../Page/성우.md "wikilink")를 최초로 사용한 시리즈이기도 하다. 한국어판의 주제가는 "얼마나 좋을까"로 [이수영](../Page/이수영.md "wikilink")이 불렀다.
 
 ## 개요
 
@@ -159,7 +159,7 @@ Rikki의 素敵だね(스테키다네) 가 사용되었으며 한국판으로는
 ### 파티 멤버
 
   - 티더 (Tidus)
-    [성우](https://ko.wikipedia.org/wiki/성우 "wikilink") - [모리타 마사카즈](../Page/모리타_마사카즈.md "wikilink")、[中村勇斗](https://ko.wikipedia.org/wiki/中村勇斗 "wikilink")(유년시)
+    [성우](../Page/성우.md "wikilink") - [모리타 마사카즈](../Page/모리타_마사카즈.md "wikilink")、[中村勇斗](https://ko.wikipedia.org/wiki/中村勇斗 "wikilink")(유년시)
     [주인공](https://ko.wikipedia.org/wiki/주인공 "wikilink")이자 17세. 자세한 것은 [티더 (파이널 판타지)를](https://ko.wikipedia.org/wiki/티더_\(파이널_판타지\) "wikilink") 참조.
   - 유우나 (Yuna)
     성우 - [아오키 마유코](https://ko.wikipedia.org/wiki/아오키_마유코 "wikilink")
@@ -175,7 +175,7 @@ Rikki의 素敵だね(스테키다네) 가 사용되었으며 한국판으로는
     성우 - [마츠모토 마리카](../Page/마츠모토_마리카.md "wikilink")
     알베드 족 소녀로 15세. 자세한 것은 [륫크 (파이널 판타지)를](https://ko.wikipedia.org/wiki/륫크_\(파이널_판타지\) "wikilink") 참조.
   - 아론 (Auron)
-    성우 - [이시카와 히데오](https://ko.wikipedia.org/wiki/이시카와_히데오 "wikilink")
+    성우 - [이시카와 히데오](../Page/이시카와_히데오.md "wikilink")
 
 ### 중요 인물
 

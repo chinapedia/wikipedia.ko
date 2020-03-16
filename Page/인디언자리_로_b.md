@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  b](https://ko.wikipedia.org/wiki/__b).
 
 
-**인디언자리 로 b**는 항성 [인디언자리 로](https://ko.wikipedia.org/wiki/인디언자리_로 "wikilink") 주위를 돌고 있는 [외계 행성이다](https://ko.wikipedia.org/wiki/외계_행성 "wikilink"). 평균 공전궤도 거리는 2.54 천문단위로, 항성계의 [생명체 거주가능 영역](../Page/생명체_거주가능_영역.md "wikilink") 바로 밖을 돌고 있다. 1회 별을 도는 데에는 3.7년이 걸린다. 밝혀진 최소 질량은 목성의 2배 이상이다.
+**인디언자리 로 b**는 항성 [인디언자리 로](https://ko.wikipedia.org/wiki/인디언자리_로 "wikilink") 주위를 돌고 있는 [외계 행성이다](../Page/외계_행성.md "wikilink"). 평균 공전궤도 거리는 2.54 천문단위로, 항성계의 [생명체 거주가능 영역](../Page/생명체_거주가능_영역.md "wikilink") 바로 밖을 돌고 있다. 1회 별을 도는 데에는 3.7년이 걸린다. 밝혀진 최소 질량은 목성의 2배 이상이다.
 
 ## 참고 문헌
 

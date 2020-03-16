@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Part A: Peace Love \& Ice Cream](https://ko.wikipedia.org/wiki/Part_A:_Peace_Love_\&_Ice_Cream).
 
 
-《**Part. A Peace Love & Ice cream**》은 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [4월 15일](https://ko.wikipedia.org/wiki/4월_15일 "wikilink") 발매된 가수 [윤하](https://ko.wikipedia.org/wiki/윤하 "wikilink")의 [한국](https://ko.wikipedia.org/wiki/한국 "wikilink") 정규 3집 Part.A이다. 3집 앨범은 Part.A와 Part.B로 나뉘어서 발매되었는데 이후 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [12월 11일](https://ko.wikipedia.org/wiki/12월_11일 "wikilink") 3집 앨범의 두 번째 파트인 [Growing Season이](https://ko.wikipedia.org/wiki/Part_B:_Growing_Season "wikilink") 발매되었다.
+《**Part. A Peace Love & Ice cream**》은 [2009년](../Page/2009년.md "wikilink") [4월 15일](../Page/4월_15일.md "wikilink") 발매된 가수 [윤하](../Page/윤하.md "wikilink")의 [한국](../Page/한국.md "wikilink") 정규 3집 Part.A이다. 3집 앨범은 Part.A와 Part.B로 나뉘어서 발매되었는데 이후 [2009년](../Page/2009년.md "wikilink") [12월 11일](../Page/12월_11일.md "wikilink") 3집 앨범의 두 번째 파트인 [Growing Season이](../Page/Part_B:_Growing_Season.md "wikilink") 발매되었다.
 
 ## 트랙리스트
 
 ## 차트 성적
 
-### [가온 차트](https://ko.wikipedia.org/wiki/가온_차트 "wikilink")
+### [가온 차트](../Page/가온_차트.md "wikilink")
 
 
 \* 앨범 차트 : *Part.A Peace Love & Icecream* - 18위

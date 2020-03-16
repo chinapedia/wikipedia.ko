@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [BATOO  08\~09](https://ko.wikipedia.org/wiki/BATOO__08\~09).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Ongamenet_2009_BATOO_Starleague_Grand_final.JPG "wikilink") **BATOO 스타리그 08\~09**는 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 부터 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")까지 진행된 [온게임넷](https://ko.wikipedia.org/wiki/온게임넷 "wikilink")의 스타리그이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Ongamenet_2009_BATOO_Starleague_Grand_final.JPG "wikilink") **BATOO 스타리그 08\~09**는 [2008년](../Page/2008년.md "wikilink") 부터 [2009년](../Page/2009년.md "wikilink")까지 진행된 [온게임넷](https://ko.wikipedia.org/wiki/온게임넷 "wikilink")의 스타리그이다.
 
 ## 리그기간
 
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [12월 17일](https://ko.wikipedia.org/wiki/12월_17일 "wikilink") \~ [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [4월 4일](https://ko.wikipedia.org/wiki/4월_4일 "wikilink")
+  - [2008년](../Page/2008년.md "wikilink") [12월 17일](../Page/12월_17일.md "wikilink") \~ [2009년](../Page/2009년.md "wikilink") [4월 4일](../Page/4월_4일.md "wikilink")
 
 ## 대회 개요
 
@@ -14,7 +14,7 @@
 
 ### 후원
 
-이번 대회는 [온미디어](https://ko.wikipedia.org/wiki/온미디어 "wikilink")의 자회사 이플레이온의 [게임](https://ko.wikipedia.org/wiki/게임 "wikilink")인 [바투가](../Page/바투_\(비디오_게임\).md "wikilink") 후원했다. 스타리그를 후원하게 된 이플레이온 본부장 황형준은 “두뇌전략게임 바투의 공개서비스(OBT) 시점에 맞춰, 게임 유저에게 가장 강력한 마케팅 수단이라고 판단해 스타리그 후원을 결정했다”고 밝혔다. 또 “e스포츠 리그중 가장 성공한 스타리그 후원을 통해 동종의 전략게임인 바투의 인지도 상승 및 바투 인구의 저변이 확대되길 바란다”고 덧붙였다.\[1\]
+이번 대회는 [온미디어](../Page/온미디어.md "wikilink")의 자회사 이플레이온의 [게임](../Page/게임.md "wikilink")인 [바투가](../Page/바투_\(비디오_게임\).md "wikilink") 후원했다. 스타리그를 후원하게 된 이플레이온 본부장 황형준은 “두뇌전략게임 바투의 공개서비스(OBT) 시점에 맞춰, 게임 유저에게 가장 강력한 마케팅 수단이라고 판단해 스타리그 후원을 결정했다”고 밝혔다. 또 “e스포츠 리그중 가장 성공한 스타리그 후원을 통해 동종의 전략게임인 바투의 인지도 상승 및 바투 인구의 저변이 확대되길 바란다”고 덧붙였다.\[1\]
 
 ### 대회 방식
 
@@ -34,14 +34,14 @@
 
 ### 대회 일정
 
-  - **오프라인 예선**: [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [12월 12일](https://ko.wikipedia.org/wiki/12월_12일 "wikilink")
-  - **36강**: [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [12월 17일](https://ko.wikipedia.org/wiki/12월_17일 "wikilink") \~ [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [1월 23일](https://ko.wikipedia.org/wiki/1월_23일 "wikilink") 매주 수요일, 금요일
-  - **16강 와일드 카드전**\[2\]: [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [1월 28일](https://ko.wikipedia.org/wiki/1월_28일 "wikilink")
-  - **16강 조지명식**: [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [1월 30일](https://ko.wikipedia.org/wiki/1월_30일 "wikilink")
-  - **16강**: [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [2월 4일](https://ko.wikipedia.org/wiki/2월_4일 "wikilink") \~ [2월 27일](https://ko.wikipedia.org/wiki/2월_27일 "wikilink") 매주 수요일, 금요일
-  - **8강**: [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [3월 6일](https://ko.wikipedia.org/wiki/3월_6일 "wikilink"), [3월 13일](https://ko.wikipedia.org/wiki/3월_13일 "wikilink")
-  - **4강**: [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [3월 20일](https://ko.wikipedia.org/wiki/3월_20일 "wikilink"), [3월 27일](https://ko.wikipedia.org/wiki/3월_27일 "wikilink")
-  - **결승**: [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [4월 4일](https://ko.wikipedia.org/wiki/4월_4일 "wikilink")
+  - **오프라인 예선**: [2008년](../Page/2008년.md "wikilink") [12월 12일](../Page/12월_12일.md "wikilink")
+  - **36강**: [2008년](../Page/2008년.md "wikilink") [12월 17일](../Page/12월_17일.md "wikilink") \~ [2009년](../Page/2009년.md "wikilink") [1월 23일](../Page/1월_23일.md "wikilink") 매주 수요일, 금요일
+  - **16강 와일드 카드전**\[2\]: [2009년](../Page/2009년.md "wikilink") [1월 28일](../Page/1월_28일.md "wikilink")
+  - **16강 조지명식**: [2009년](../Page/2009년.md "wikilink") [1월 30일](../Page/1월_30일.md "wikilink")
+  - **16강**: [2009년](../Page/2009년.md "wikilink") [2월 4일](../Page/2월_4일.md "wikilink") \~ [2월 27일](../Page/2월_27일.md "wikilink") 매주 수요일, 금요일
+  - **8강**: [2009년](../Page/2009년.md "wikilink") [3월 6일](../Page/3월_6일.md "wikilink"), [3월 13일](../Page/3월_13일.md "wikilink")
+  - **4강**: [2009년](../Page/2009년.md "wikilink") [3월 20일](../Page/3월_20일.md "wikilink"), [3월 27일](../Page/3월_27일.md "wikilink")
+  - **결승**: [2009년](../Page/2009년.md "wikilink") [4월 4일](../Page/4월_4일.md "wikilink")
 
 ### 방송 시간
 
@@ -62,7 +62,7 @@
 
   - **예선** - 용산 이스포츠 보조 경기장
   - **본선** - 용산 이스포츠 상설 경기장
-  - **결승** - [부산](https://ko.wikipedia.org/wiki/부산 "wikilink") [사직실내체육관](https://ko.wikipedia.org/wiki/사직실내체육관 "wikilink") (프로농구 [부산 KT 소닉붐의](https://ko.wikipedia.org/wiki/부산_KT_소닉붐 "wikilink") 홈 경기장)
+  - **결승** - [부산](https://ko.wikipedia.org/wiki/부산 "wikilink") [사직실내체육관](../Page/사직실내체육관.md "wikilink") (프로농구 [부산 KT 소닉붐의](https://ko.wikipedia.org/wiki/부산_KT_소닉붐 "wikilink") 홈 경기장)
 
 ## 맵
 
@@ -168,21 +168,21 @@
 
 36강의 조 편성은 팀 배분을 우선하여 종족별 배분 등 여러 사항을 고려하여 추첨이 되었다. 예선을 진출한 선수들 두 선수끼리 매치 1에서 3전 2선승제로 대결한 후 승리한 선수가 지난 시즌 16강 리거와 매치 2의 경기를 붙어 이기는 선수가 16강에 진출한다. 탈락자는 예선으로 떨어진다
 
-|    |                                                                   |       |
-| -- | ----------------------------------------------------------------- | ----- |
-| 조  | 매치 1                                                              | 매치 2  |
-| A조 | **[신상문](../Page/신상문.md "wikilink")**                              | **2** |
-| B조 | **[김구현](../Page/김구현_\(프로게이머\).md "wikilink")**                    | **2** |
-| C조 | [김창희](../Page/김창희_\(프로게이머\).md "wikilink")                        | 1     |
-| D조 | **[신희승](../Page/신희승.md "wikilink")**                              | **2** |
-| E조 | **[서기수](../Page/서기수.md "wikilink")**                              | **2** |
-| F조 | **[박문기](../Page/박문기_\(프로게이머\).md "wikilink")**                    | **2** |
-| G조 | **[진영수](../Page/진영수.md "wikilink")**                              | **2** |
-| H조 | [민찬기](../Page/민찬기.md "wikilink")                                  | 1     |
-| I조 | **[박명수](../Page/박명수_\(프로게이머\).md "wikilink")**                    | **2** |
-| J조 | [구성훈](../Page/구성훈.md "wikilink")                                  | 0     |
-| K조 | **[박대경](https://ko.wikipedia.org/wiki/박대경_\(1986년\) "wikilink")** | **2** |
-| L조 | **[이제동](https://ko.wikipedia.org/wiki/이제동 "wikilink")**           | **2** |
+|    |                                                         |       |
+| -- | ------------------------------------------------------- | ----- |
+| 조  | 매치 1                                                    | 매치 2  |
+| A조 | **[신상문](../Page/신상문.md "wikilink")**                    | **2** |
+| B조 | **[김구현](../Page/김구현_\(프로게이머\).md "wikilink")**          | **2** |
+| C조 | [김창희](../Page/김창희_\(프로게이머\).md "wikilink")              | 1     |
+| D조 | **[신희승](../Page/신희승.md "wikilink")**                    | **2** |
+| E조 | **[서기수](../Page/서기수.md "wikilink")**                    | **2** |
+| F조 | **[박문기](../Page/박문기_\(프로게이머\).md "wikilink")**          | **2** |
+| G조 | **[진영수](../Page/진영수.md "wikilink")**                    | **2** |
+| H조 | [민찬기](../Page/민찬기.md "wikilink")                        | 1     |
+| I조 | **[박명수](../Page/박명수_\(프로게이머\).md "wikilink")**          | **2** |
+| J조 | [구성훈](../Page/구성훈.md "wikilink")                        | 0     |
+| K조 | **[박대경](../Page/박대경_\(1986년\).md "wikilink")**          | **2** |
+| L조 | **[이제동](https://ko.wikipedia.org/wiki/이제동 "wikilink")** | **2** |
 
 ## 와일드카드전
 

@@ -169,7 +169,7 @@ EISC 프로세서의 종류는 [ISA](https://ko.wikipedia.org/wiki/ISA "wikilink
 
 ## 개발 환경
 
-[마이크로소프트 윈도우](https://ko.wikipedia.org/wiki/마이크로소프트_윈도우 "wikilink") 운영 체제에 한해 EISC-Studio라는 [오픈 소스](https://ko.wikipedia.org/wiki/오픈_소스 "wikilink") 기반 [통합 개발 환경을](https://ko.wikipedia.org/wiki/통합_개발_환경 "wikilink") 지원한다. [리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink")나 [유닉스](https://ko.wikipedia.org/wiki/유닉스 "wikilink")는 [KDE](../Page/KDE.md "wikilink")나 [이클립스](https://ko.wikipedia.org/wiki/이클립스 "wikilink")를 이용할 수 있다.
+[마이크로소프트 윈도우](../Page/마이크로소프트_윈도우.md "wikilink") 운영 체제에 한해 EISC-Studio라는 [오픈 소스](../Page/오픈_소스.md "wikilink") 기반 [통합 개발 환경을](../Page/통합_개발_환경.md "wikilink") 지원한다. [리눅스](../Page/리눅스.md "wikilink")나 [유닉스](../Page/유닉스.md "wikilink")는 [KDE](../Page/KDE.md "wikilink")나 [이클립스](https://ko.wikipedia.org/wiki/이클립스 "wikilink")를 이용할 수 있다.
 
 ## 관련 문헌
 

@@ -13,15 +13,15 @@
 
 ### 싱글
 
-1.  アナタボシ (2008년 [4월 30일](https://ko.wikipedia.org/wiki/4월_30일 "wikilink"), 한정반：EPCE-5556／통상반：EPCE-5557)
+1.  アナタボシ (2008년 [4월 30일](../Page/4월_30일.md "wikilink"), 한정반：EPCE-5556／통상반：EPCE-5557)
       - 커플링 : サンサンGOGO
-2.  タンタンターン！ (2008년 [10월 29일](https://ko.wikipedia.org/wiki/10월_29일 "wikilink"), 한정반：EPCE-5580／통상반：EPCE-5581)
+2.  タンタンターン！ (2008년 [10월 29일](../Page/10월_29일.md "wikilink"), 한정반：EPCE-5580／통상반：EPCE-5581)
       - 커플링 : ガムシャララ
 
 ### 싱글V
 
-1.  アナタボシ (2008년 [5월 8일](https://ko.wikipedia.org/wiki/5월_8일 "wikilink"), EPBE-5288)
-2.  タンタンターン！ (2008년 [11월 5일](https://ko.wikipedia.org/wiki/11월_5일 "wikilink"), EPBE-5307)
+1.  アナタボシ (2008년 [5월 8일](../Page/5월_8일.md "wikilink"), EPBE-5288)
+2.  タンタンターン！ (2008년 [11월 5일](../Page/11월_5일.md "wikilink"), EPBE-5307)
 
 ## 외부 링크
 

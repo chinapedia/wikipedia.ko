@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ V  ](https://ko.wikipedia.org/wiki/_V__).
 
 
-《**영웅전설 V 바다의 함가**》(英雄傳說 V 바다의 檻歌, , The Legend of Heroes V - A Cagesong of the Ocean)는 [니혼 팔콤이](../Page/니혼_팔콤.md "wikilink") 만든 [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") 출시한 [롤플레잉 게임이다](https://ko.wikipedia.org/wiki/롤플레잉_게임 "wikilink"). 이 게임은 [영웅전설](https://ko.wikipedia.org/wiki/영웅전설 "wikilink") 가가브 트릴로지 시리즈(영웅전설 "**[III](../Page/영웅전설_III_하얀마녀.md "wikilink")**", "**[IV](../Page/영웅전설_IV_주홍물방울.md "wikilink")**", "**[V](https://ko.wikipedia.org/wiki/영웅전설_V_바다의_함가 "wikilink")**")의 세 번째 게임이다.
+《**영웅전설 V 바다의 함가**》(英雄傳說 V 바다의 檻歌, , The Legend of Heroes V - A Cagesong of the Ocean)는 [니혼 팔콤이](../Page/니혼_팔콤.md "wikilink") 만든 [1999년](../Page/1999년.md "wikilink") 출시한 [롤플레잉 게임이다](https://ko.wikipedia.org/wiki/롤플레잉_게임 "wikilink"). 이 게임은 [영웅전설](https://ko.wikipedia.org/wiki/영웅전설 "wikilink") 가가브 트릴로지 시리즈(영웅전설 "**[III](../Page/영웅전설_III_하얀마녀.md "wikilink")**", "**[IV](../Page/영웅전설_IV_주홍물방울.md "wikilink")**", "**[V](../Page/영웅전설_V_바다의_함가.md "wikilink")**")의 세 번째 게임이다.
 
 ## 줄거리
 
@@ -9,7 +9,7 @@
 
 <!-- end list -->
 
-  - 가가브 트릴로지(영웅전설 "**[III](../Page/영웅전설_III_하얀마녀.md "wikilink")**", "**[IV](../Page/영웅전설_IV_주홍물방울.md "wikilink")**", "**[V](https://ko.wikipedia.org/wiki/영웅전설_V_바다의_함가 "wikilink")**"의 배경)는 **하나의 연결된 스토리**로, 영웅전설 5편은 4편이 끝난 후 이야기를 다루고 있다. 참고로 3편이 가장 마지막 이야기이다.
+  - 가가브 트릴로지(영웅전설 "**[III](../Page/영웅전설_III_하얀마녀.md "wikilink")**", "**[IV](../Page/영웅전설_IV_주홍물방울.md "wikilink")**", "**[V](../Page/영웅전설_V_바다의_함가.md "wikilink")**"의 배경)는 **하나의 연결된 스토리**로, 영웅전설 5편은 4편이 끝난 후 이야기를 다루고 있다. 참고로 3편이 가장 마지막 이야기이다.
 
 ## 등장인물
 
@@ -39,24 +39,24 @@
   - [정화](https://ko.wikipedia.org/wiki/정화_\(의식\) "wikilink")
   - [심안](https://ko.wikipedia.org/wiki/심안 "wikilink")
   - [물](https://ko.wikipedia.org/wiki/물 "wikilink")
-  - [생명](https://ko.wikipedia.org/wiki/생명 "wikilink")
+  - [생명](../Page/생명.md "wikilink")
   - [대지](https://ko.wikipedia.org/wiki/대지_\(지형\) "wikilink")
 
 <!-- end list -->
 
   - [자장가](https://ko.wikipedia.org/wiki/수면 "wikilink")
   - [인내](https://ko.wikipedia.org/wiki/인내 "wikilink")
-  - [기술](https://ko.wikipedia.org/wiki/기술 "wikilink")
+  - [기술](../Page/기술.md "wikilink")
   - [속박](https://ko.wikipedia.org/wiki/속박 "wikilink")
   - [표적](https://ko.wikipedia.org/wiki/양궁#표적_경기 "wikilink")
 
 <!-- end list -->
 
-  - [빛](https://ko.wikipedia.org/wiki/빛 "wikilink")
+  - [빛](../Page/빛.md "wikilink")
   - [행진](https://ko.wikipedia.org/wiki/행진 "wikilink")
   - 힘
   - [바람](../Page/바람.md "wikilink")
-  - [불](https://ko.wikipedia.org/wiki/불 "wikilink")
+  - [불](../Page/불.md "wikilink")
 
 <!-- end list -->
 

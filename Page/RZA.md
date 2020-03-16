@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [RZA](https://ko.wikipedia.org/wiki/RZA).
 
 
-**RZA**(**르자**; , [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink") [7월 6일](https://ko.wikipedia.org/wiki/7월_6일 "wikilink") \~ )는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 음반 프로듀서이자 래퍼, 배우, 감독이다. 또한 힙합 그룹인 [우 탱 클랜의](../Page/우_탱_클랜.md "wikilink") 리더이다. 2009년 범죄 영화《*Life Is Hot in Cracktown*》을 제작, 감독했다. 또 힙합 프로젝트 그룹인 'Gravediggaz'의 프로듀서이자 맴버였다.
+**RZA**(**르자**; , [1969년](../Page/1969년.md "wikilink") [7월 6일](../Page/7월_6일.md "wikilink") \~ )는 [미국](../Page/미국.md "wikilink")의 음반 프로듀서이자 래퍼, 배우, 감독이다. 또한 힙합 그룹인 [우 탱 클랜의](../Page/우_탱_클랜.md "wikilink") 리더이다. 2009년 범죄 영화《*Life Is Hot in Cracktown*》을 제작, 감독했다. 또 힙합 프로젝트 그룹인 'Gravediggaz'의 프로듀서이자 맴버였다.
 
 ## 앨범
 

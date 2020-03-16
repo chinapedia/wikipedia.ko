@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [IDAS](https://ko.wikipedia.org/wiki/IDAS).
 
 
-[thumb](https://ko.wikipedia.org/wiki/파일:BGT_IDAS.jpg "wikilink") **IDAS**는 독일이 현재 개발중인 단거리 잠대공 미사일이다. [독일 해군의](../Page/독일_해군.md "wikilink") [212형 잠수함의](https://ko.wikipedia.org/wiki/212형_잠수함 "wikilink") 533mm 어뢰관에서 발사된다.
+[thumb](https://ko.wikipedia.org/wiki/파일:BGT_IDAS.jpg "wikilink") **IDAS**는 독일이 현재 개발중인 단거리 잠대공 미사일이다. [독일 해군의](../Page/독일_해군.md "wikilink") [212형 잠수함의](../Page/212형_잠수함.md "wikilink") 533mm 어뢰관에서 발사된다.
 
-[IRIS-T](https://ko.wikipedia.org/wiki/IRIS-T "wikilink") 공대공 미사일을 기본으로 해서 개발되고 있으며, 주로 대잠전 헬기 등 공중의 위협에 대응하기 위한 미사일이다. 그러나 소형이나 중형의 수상함 또는 해안의 지상 목표물도 공격할 수 있다. [Diehl BGT Defence](https://ko.wikipedia.org/wiki/Diehl_BGT_Defence "wikilink"), [HDW](https://ko.wikipedia.org/wiki/HDW "wikilink")에서 개발하고 있다. 사거리는 20 km 정도이며, 광섬유로 유선유도된다. 어뢰관 하나에 4발의 IDAS 미사일을 탄창식으로 장착한다.
+[IRIS-T](../Page/IRIS-T.md "wikilink") 공대공 미사일을 기본으로 해서 개발되고 있으며, 주로 대잠전 헬기 등 공중의 위협에 대응하기 위한 미사일이다. 그러나 소형이나 중형의 수상함 또는 해안의 지상 목표물도 공격할 수 있다. [Diehl BGT Defence](https://ko.wikipedia.org/wiki/Diehl_BGT_Defence "wikilink"), [HDW](https://ko.wikipedia.org/wiki/HDW "wikilink")에서 개발하고 있다. 사거리는 20 km 정도이며, 광섬유로 유선유도된다. 어뢰관 하나에 4발의 IDAS 미사일을 탄창식으로 장착한다.
 
 2009년 독일 해군에 최초로 인도되었고 2014년까지 실전배치를 한다는 계획이다.\[1\]
 

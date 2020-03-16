@@ -20,6 +20,6 @@
 9.  time machine / remixed by LES RYTHMES DIGITALES（Stuart Price） - 5:30
 10. [BREAK IN2 THE NITE](https://ko.wikipedia.org/wiki/BREAK_IN2_THE_NITE "wikilink") / [t-kimura](https://ko.wikipedia.org/wiki/t-kimura "wikilink") broken beat mix remixed by t-kimura - 5:18
 11. cafe ROZA ～for Johnny\&Mary～ / remixed by MAD PROFESSOR - 4:52
-12. [Blazin' Beat](https://ko.wikipedia.org/wiki/Blazin'_Beat "wikilink") -Timewarp NRG mix- / remixed by PETE HAMMOND - 7:10
+12. [Blazin' Beat](../Page/Blazin'_Beat.md "wikilink") -Timewarp NRG mix- / remixed by PETE HAMMOND - 7:10
 
 [분류:일본의 음반](https://ko.wikipedia.org/wiki/분류:일본의_음반 "wikilink") [분류:M.o.v.e](https://ko.wikipedia.org/wiki/분류:M.o.v.e "wikilink") [분류:리믹스 음반](https://ko.wikipedia.org/wiki/분류:리믹스_음반 "wikilink")

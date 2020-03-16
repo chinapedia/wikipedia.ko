@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FC-1](https://ko.wikipedia.org/wiki/FC-1).
 
 
-**FC-1 샤오룽**(중국 명칭, **F**ighter **C**hina), 또는 **JF-17 썬더**(파키스탄 명칭, **J**oint **F**ighter)은 [중국](https://ko.wikipedia.org/wiki/중국 "wikilink")과 [파키스탄](https://ko.wikipedia.org/wiki/파키스탄 "wikilink")에서 사용하는 [다목적 전투기다](https://ko.wikipedia.org/wiki/다목적_전투기 "wikilink").
+**FC-1 샤오룽**(중국 명칭, **F**ighter **C**hina), 또는 **JF-17 썬더**(파키스탄 명칭, **J**oint **F**ighter)은 [중국](../Page/중국.md "wikilink")과 [파키스탄](../Page/파키스탄.md "wikilink")에서 사용하는 [다목적 전투기다](https://ko.wikipedia.org/wiki/다목적_전투기 "wikilink").
 
 중국의 [청두비궤공사](https://ko.wikipedia.org/wiki/청두비궤공사 "wikilink")에서 설계하였고, 청두비궤공사와 파키스탄의 [파키스탄 항공 단지에서](https://ko.wikipedia.org/wiki/파키스탄_항공_단지 "wikilink") 생산하였다. [미그 21의](https://ko.wikipedia.org/wiki/미코얀구레비치_MiG-21 "wikilink") 중국판인 [J-7](https://ko.wikipedia.org/wiki/J-7 "wikilink")을 개조하여 만들었다.
 
@@ -28,9 +28,9 @@
 {{aircontent |related= |similar aircraft=
 
   - FC-1 - 최대이륙중량 12.7톤
-  - [HAL 테자스](https://ko.wikipedia.org/wiki/HAL_테자스 "wikilink") - 최대이륙중량 13톤, 중국 파키스탄과 대립중인 인도산.
+  - [HAL 테자스](../Page/HAL_테자스.md "wikilink") - 최대이륙중량 13톤, 중국 파키스탄과 대립중인 인도산.
   - [F-5](https://ko.wikipedia.org/wiki/F-5 "wikilink") - 최대이륙중량 11톤
-  - [T-50 골든이글](https://ko.wikipedia.org/wiki/T-50_골든이글 "wikilink") - 최대이륙중량 13.5톤
+  - [T-50 골든이글](../Page/T-50_골든이글.md "wikilink") - 최대이륙중량 13.5톤
   - [미코얀구레비치 MiG-21](https://ko.wikipedia.org/wiki/미코얀구레비치_MiG-21 "wikilink") - 최대이륙중량 8톤, F-5와 대치하던 러시아산.
   - [KLJ-7](https://ko.wikipedia.org/wiki/KLJ-7 "wikilink") - JF-17 전투기에 탑재된 레이다다.
 

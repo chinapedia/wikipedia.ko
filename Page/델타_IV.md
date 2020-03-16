@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [ IV](https://ko.wikipedia.org/wiki/_IV).
 
 
-**델타 IV**는 미국의 우주로켓이다. [미국 국방부의](https://ko.wikipedia.org/wiki/미국_국방부 "wikilink") [EELV](https://ko.wikipedia.org/wiki/EELV "wikilink") 계획의 하나로 보잉에서 개발되었다. 민간용과 군용 겸용이다.
+**델타 IV**는 미국의 우주로켓이다. [미국 국방부의](../Page/미국_국방부.md "wikilink") [EELV](https://ko.wikipedia.org/wiki/EELV "wikilink") 계획의 하나로 보잉에서 개발되었다. 민간용과 군용 겸용이다.
 
 최종적으로 발사장에서 [ULA](../Page/ULA.md "wikilink")에 의해 조립된다.\[1\]
 
-보잉의 델타 IV는 경쟁자인 록히드 마틴의 [아틀라스 V와](https://ko.wikipedia.org/wiki/아틀라스_V "wikilink") 같이, [반덴버그 공군 기지](https://ko.wikipedia.org/wiki/반덴버그_공군_기지 "wikilink") 또는 [케이프커내버럴 공군 기지에서](https://ko.wikipedia.org/wiki/케이프커내버럴_공군_기지 "wikilink") 발사된다. 아틀라스 V가 13톤 운반능력인데 비해, 델타 IV는 22톤으로, 20톤인 우주정거장 모듈을 올릴 수 있다. 고비용 비판으로 퇴역한 [우주왕복선](https://ko.wikipedia.org/wiki/우주왕복선 "wikilink")은 24톤 운반능력이었다.
+보잉의 델타 IV는 경쟁자인 록히드 마틴의 [아틀라스 V와](https://ko.wikipedia.org/wiki/아틀라스_V "wikilink") 같이, [반덴버그 공군 기지](https://ko.wikipedia.org/wiki/반덴버그_공군_기지 "wikilink") 또는 [케이프커내버럴 공군 기지에서](https://ko.wikipedia.org/wiki/케이프커내버럴_공군_기지 "wikilink") 발사된다. 아틀라스 V가 13톤 운반능력인데 비해, 델타 IV는 22톤으로, 20톤인 우주정거장 모듈을 올릴 수 있다. 고비용 비판으로 퇴역한 [우주왕복선](../Page/우주왕복선.md "wikilink")은 24톤 운반능력이었다.
 
 ## 같이 보기
 

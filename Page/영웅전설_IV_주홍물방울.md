@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ IV ](https://ko.wikipedia.org/wiki/_IV_).
 
 
-《**영웅전설 IV 주홍물방울**》(英雄傳說 IV 朱紅물방울, , The Legend of Heroes IV - A Tear of Vermillion)는 [니혼 팔콤이](../Page/니혼_팔콤.md "wikilink") 만든 [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") 출시한 [롤플레잉 게임이다](https://ko.wikipedia.org/wiki/롤플레잉_게임 "wikilink"). 이 게임은 [영웅전설](https://ko.wikipedia.org/wiki/영웅전설 "wikilink") 가가브 트릴로지 시리즈의 두 번째 게임이다.
+《**영웅전설 IV 주홍물방울**》(英雄傳說 IV 朱紅물방울, , The Legend of Heroes IV - A Tear of Vermillion)는 [니혼 팔콤이](../Page/니혼_팔콤.md "wikilink") 만든 [1996년](../Page/1996년.md "wikilink") 출시한 [롤플레잉 게임이다](https://ko.wikipedia.org/wiki/롤플레잉_게임 "wikilink"). 이 게임은 [영웅전설](https://ko.wikipedia.org/wiki/영웅전설 "wikilink") 가가브 트릴로지 시리즈의 두 번째 게임이다.
 
 ## 줄거리
 

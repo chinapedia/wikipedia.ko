@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Btrfs](https://ko.wikipedia.org/wiki/Btrfs).
 
 
-**Btrfs**(B-tree file system 또는 Butter file system\[1\], Better F S\[2\])는 [파일 시스템](https://ko.wikipedia.org/wiki/파일_시스템 "wikilink") 가운데 하나로 현재 [페이스북](../Page/페이스북.md "wikilink")의 [크리스 메이슨이](https://ko.wikipedia.org/wiki/크리스_메이슨 "wikilink") 개발을 지휘하고 있다. 꽤 안정화되어 시험적으로 사용하는곳들이 생기고 있다.
+**Btrfs**(B-tree file system 또는 Butter file system\[1\], Better F S\[2\])는 [파일 시스템](../Page/파일_시스템.md "wikilink") 가운데 하나로 현재 [페이스북](../Page/페이스북.md "wikilink")의 [크리스 메이슨이](https://ko.wikipedia.org/wiki/크리스_메이슨 "wikilink") 개발을 지휘하고 있다. 꽤 안정화되어 시험적으로 사용하는곳들이 생기고 있다.
 
-[GNU 일반 공중 사용 허가서를](https://ko.wikipedia.org/wiki/GNU_일반_공중_사용_허가서 "wikilink") 따르고 있으며 2014년 2월 5일 현재 최신판은 **3.13**([리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink") 커널 2.6.32 이후 릴리즈된 커널에 기본으로 포함)이다.
+[GNU 일반 공중 사용 허가서를](../Page/GNU_일반_공중_사용_허가서.md "wikilink") 따르고 있으며 2014년 2월 5일 현재 최신판은 **3.13**([리눅스](../Page/리눅스.md "wikilink") 커널 2.6.32 이후 릴리즈된 커널에 기본으로 포함)이다.
 
 ## 역사
 
-Btrfs의 핵심 데이터 구조인 카피온라이트 [B 트리](https://ko.wikipedia.org/wiki/B_트리 "wikilink")(copy-on-write B-tree)는 본래 IBM의 연구원 Ohad Rodeh이 [USENIX](https://ko.wikipedia.org/wiki/USENIX "wikilink") 2007의 발표에서 제안하였다.\[3\]
+Btrfs의 핵심 데이터 구조인 카피온라이트 [B 트리](../Page/B_트리.md "wikilink")(copy-on-write B-tree)는 본래 IBM의 연구원 Ohad Rodeh이 [USENIX](../Page/USENIX.md "wikilink") 2007의 발표에서 제안하였다.\[3\]
 
 ## 기능
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LG GD910](https://ko.wikipedia.org/wiki/LG_GD910).
 
 
-**LG GD910**은 [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")가 2009년에 출시한 [휴대 전화기이다](https://ko.wikipedia.org/wiki/휴대_전화기 "wikilink").\[1\]
+**LG GD910**은 [LG전자](../Page/LG전자.md "wikilink")가 2009년에 출시한 [휴대 전화기이다](https://ko.wikipedia.org/wiki/휴대_전화기 "wikilink").\[1\]
 
 ## 각주
 

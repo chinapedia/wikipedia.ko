@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [  AFC](https://ko.wikipedia.org/wiki/__AFC).
 
 
-**스완지 시티 AFC**(, )는 [웨일스](https://ko.wikipedia.org/wiki/웨일스 "wikilink") [스완지](../Page/스완지.md "wikilink")를 연고로하는 축구 클럽이다.
+**스완지 시티 AFC**(, )는 [웨일스](../Page/웨일스.md "wikilink") [스완지](../Page/스완지.md "wikilink")를 연고로하는 축구 클럽이다.
 
 스완지는 1912년에 설립되어 1920년에 [풋볼 리그에](https://ko.wikipedia.org/wiki/풋볼_리그 "wikilink") 가입하였으며 웨일스의 축구 클럽이지만 잉글랜드 리그 소속으로 활약하고 있다.
 
-2010-11 시즌 [풋볼 리그 챔피언십](https://ko.wikipedia.org/wiki/풋볼_리그_챔피언십 "wikilink") 플레이오프에서 우승을 차지하며 승격에 성공해 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink")에 참가하는 최초의 [웨일스](https://ko.wikipedia.org/wiki/웨일스 "wikilink") 클럽이 되었다. 또한 2013년 [리그컵에서](../Page/EFL컵.md "wikilink") [브래드퍼드 시티를](../Page/브래드퍼드_시티_AFC.md "wikilink") 5:0으로 대파하고 창단 101년 만에 첫 메이저 트로피를 들어올렸다.
+2010-11 시즌 [풋볼 리그 챔피언십](https://ko.wikipedia.org/wiki/풋볼_리그_챔피언십 "wikilink") 플레이오프에서 우승을 차지하며 승격에 성공해 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink")에 참가하는 최초의 [웨일스](../Page/웨일스.md "wikilink") 클럽이 되었다. 또한 2013년 [리그컵에서](../Page/EFL컵.md "wikilink") [브래드퍼드 시티를](../Page/브래드퍼드_시티_AFC.md "wikilink") 5:0으로 대파하고 창단 101년 만에 첫 메이저 트로피를 들어올렸다.
 
 ## 역대 성적
 
@@ -79,7 +79,7 @@
 </dl>
 <ul>
 <li><a href="../Page/파비오_보리니.md" title="wikilink">파비오 보리니</a> (2012)</li>
-<li><a href="https://ko.wikipedia.org/wiki/알베르토_팔로스키" title="wikilink">알베르토 팔로스키</a> (2016)</li>
+<li><a href="../Page/알베르토_팔로스키.md" title="wikilink">알베르토 팔로스키</a> (2016)</li>
 </ul>
 <dl>
 <dt> 아이슬란드</dt>
@@ -158,7 +158,7 @@
 <td><p>2012</p></td>
 <td><p><a href="../Page/미셸_보름.md" title="wikilink">미셸 보름</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/골키퍼" title="wikilink">GK</a></p></td>
+<td><p><a href="../Page/골키퍼.md" title="wikilink">GK</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2013</p></td>
@@ -170,7 +170,7 @@
 <td><p>2014</p></td>
 <td><p><a href="../Page/윌프리드_보니.md" title="wikilink">윌프리드 보니</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/공격수" title="wikilink">FW</a></p></td>
+<td><p><a href="../Page/공격수.md" title="wikilink">FW</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2015</p></td>
@@ -194,7 +194,7 @@
 <td><p>2018</p></td>
 <td><p><a href="../Page/우카시_파비안스키.md" title="wikilink">우카시 파비안스키</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/골키퍼" title="wikilink">GK</a></p></td>
+<td><p><a href="../Page/골키퍼.md" title="wikilink">GK</a></p></td>
 </tr>
 </tbody>
 </table>

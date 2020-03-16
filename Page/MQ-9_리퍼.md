@@ -3,7 +3,7 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:MQ-1_Predator_controls_2007-08-07.jpg "wikilink")
 
-**MQ-9 리퍼**()는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [UAV](https://ko.wikipedia.org/wiki/UAV "wikilink")이다. 원래는 **프레데터 B**()라고 불렸다. [미국 공군](../Page/미국_공군.md "wikilink"), [미국 해군](../Page/미국_해군.md "wikilink"), [영국 공군을](https://ko.wikipedia.org/wiki/영국_공군 "wikilink") 위해 개발되었다.
+**MQ-9 리퍼**()는 [미국](../Page/미국.md "wikilink")의 [UAV](https://ko.wikipedia.org/wiki/UAV "wikilink")이다. 원래는 **프레데터 B**()라고 불렸다. [미국 공군](../Page/미국_공군.md "wikilink"), [미국 해군](../Page/미국_해군.md "wikilink"), [영국 공군을](https://ko.wikipedia.org/wiki/영국_공군 "wikilink") 위해 개발되었다.
 
 MQ-9은 장시간, 고고도 체공을 하는 최초의 [hunter-killer](https://ko.wikipedia.org/wiki/hunter-killer "wikilink") UAV 이다.\[1\]
 
@@ -15,7 +15,7 @@ MQ-1 프레데터의 지상 시스템을 사용할 수 있다. MQ-9 리퍼는 95
 
 ### 네덜란드
 
-2013년 11월 21일, [네덜란드 국방부는](https://ko.wikipedia.org/wiki/네덜란드_국방부 "wikilink") 새로운 MALE UAV로 MQ-9 리퍼를 선택했다고 발표했다. 지상국 1대, 4대의 리퍼를 수입할 것이며, 2대는 [합성개구레이다](https://ko.wikipedia.org/wiki/합성개구레이다 "wikilink")(SAR), 2대는 광학카메라를 장착했다.
+2013년 11월 21일, [네덜란드 국방부는](https://ko.wikipedia.org/wiki/네덜란드_국방부 "wikilink") 새로운 MALE UAV로 MQ-9 리퍼를 선택했다고 발표했다. 지상국 1대, 4대의 리퍼를 수입할 것이며, 2대는 [합성개구레이다](../Page/합성개구레이다.md "wikilink")(SAR), 2대는 광학카메라를 장착했다.
 
 ### 프랑스
 
@@ -50,8 +50,8 @@ MQ-1 프레데터의 지상 시스템을 사용할 수 있다. MQ-9 리퍼는 95
 
 ## 사고기록
 
-  - 2011년 12월 13일, 아프리카 동부 인도양의 [세이셸](https://ko.wikipedia.org/wiki/세이셸 "wikilink")의 미군 드론 기지에서 MQ-9 리퍼가 착륙에 실패했다.
-  - 2012년 4월 5일 [세이셸](https://ko.wikipedia.org/wiki/세이셸 "wikilink")의 미군 드론 기지에서 MQ-9 리퍼가 착륙에 실패했다.
+  - 2011년 12월 13일, 아프리카 동부 인도양의 [세이셸](../Page/세이셸.md "wikilink")의 미군 드론 기지에서 MQ-9 리퍼가 착륙에 실패했다.
+  - 2012년 4월 5일 [세이셸](../Page/세이셸.md "wikilink")의 미군 드론 기지에서 MQ-9 리퍼가 착륙에 실패했다.
   - 2015년 11월 24일, 아프가니스탄 [바그람 공군 비행장](https://ko.wikipedia.org/wiki/바그람_공군_비행장 "wikilink") 근처에서 MQ-9 리퍼가 추락했다.
   - 2016년 2월 21일, 아프가니스탄 [칸다하르 공군 비행장에서](https://ko.wikipedia.org/wiki/칸다하르_공군_비행장 "wikilink") MQ-9 리퍼가 추락했다.
 
@@ -112,7 +112,7 @@ MQ-1 프레데터의 지상 시스템을 사용할 수 있다. MQ-9 리퍼는 95
   - [AGM-114 헬파이어](../Page/AGM-114_헬파이어.md "wikilink") 공대지 미사일 14발 또는
   - [AGM-114 헬파이어](../Page/AGM-114_헬파이어.md "wikilink") 공대지 미사일 4발과  [GBU-12 페이브웨이 II](https://ko.wikipedia.org/wiki/GBU-12_페이브웨이_II "wikilink") 레이저유도 폭탄 2발
   - 페이브웨이 대신 500 lb (230 kg) GBU-38 [JDAM](https://ko.wikipedia.org/wiki/JDAM "wikilink") 가능
-  - [AIM-92 스팅어](https://ko.wikipedia.org/wiki/AIM-92_스팅어 "wikilink") 공대공 미사일
+  - [AIM-92 스팅어](../Page/AIM-92_스팅어.md "wikilink") 공대공 미사일
 
 ## 더 보기
 

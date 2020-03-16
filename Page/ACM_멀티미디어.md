@@ -5,9 +5,9 @@
 
 ## 콘퍼런스 웹사이트 및 개최장소
 
-  - [2009년](https://web.archive.org/web/20090302190049/http://www.acmmm09.org/default.aspx) 10월 19일 - 24일. [중국](https://ko.wikipedia.org/wiki/중국 "wikilink") [베이징](https://ko.wikipedia.org/wiki/베이징 "wikilink") [베이징 호텔](https://ko.wikipedia.org/wiki/베이징_호텔 "wikilink").
-  - [2008년](https://web.archive.org/web/20071111204154/http://www.mcrlab.uottawa.ca/acmmm2008/) 10월 27일 - 11월 1일. [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink") 브리티시컬럼비아 주, 밴쿠버, [팬 패시픽 호텔](https://ko.wikipedia.org/wiki/팬_패시픽_호텔 "wikilink").
-  - [2007년](https://web.archive.org/web/20071011155036/http://mmc36.informatik.uni-augsburg.de/acmmm2007/) 9월 24일 - 29일. [독일](https://ko.wikipedia.org/wiki/독일 "wikilink") 옥스부르그 대학.
+  - [2009년](https://web.archive.org/web/20090302190049/http://www.acmmm09.org/default.aspx) 10월 19일 - 24일. [중국](../Page/중국.md "wikilink") [베이징](https://ko.wikipedia.org/wiki/베이징 "wikilink") [베이징 호텔](https://ko.wikipedia.org/wiki/베이징_호텔 "wikilink").
+  - [2008년](https://web.archive.org/web/20071111204154/http://www.mcrlab.uottawa.ca/acmmm2008/) 10월 27일 - 11월 1일. [캐나다](../Page/캐나다.md "wikilink") 브리티시컬럼비아 주, 밴쿠버, [팬 패시픽 호텔](https://ko.wikipedia.org/wiki/팬_패시픽_호텔 "wikilink").
+  - [2007년](https://web.archive.org/web/20071011155036/http://mmc36.informatik.uni-augsburg.de/acmmm2007/) 9월 24일 - 29일. [독일](../Page/독일.md "wikilink") 옥스부르그 대학.
   - [2006년](https://web.archive.org/web/20071012024948/http://mmdb.ece.ucsb.edu/acmmm06/) 10월 23일 - 27일. 미국, [샌타바버라](../Page/샌타바버라_\(캘리포니아주\).md "wikilink"), Fess Parker's DoubleTree Resort Hotel.
   - [2005년](https://web.archive.org/web/20110728183123/http://acmmm05.comp.nus.edu.sg/) 11월 6일 - 11일. 싱가포르. 힐튼 호텔.
   - [2004년](http://www.mm2004.org) 10월 10일 - 16일. 뉴욕.
@@ -16,7 +16,7 @@
   - 2001년 9월 30일 - 10월 5일, 캐나다 오타와.
   - 2000년 10월 30 - 11월 3일, 미국 로스앤젤레스 [마리나 델 레이](https://ko.wikipedia.org/wiki/마리나_델_레이 "wikilink"). Proceedings: ; Workshops:
   - 1999년 10월 30 - 11월 5일, 미국 플로리다 올랜도. Proceedings. Part 1: ; Proceedings. Part 2:
-  - [1998년](http://www.acm.org/sigmm/MM98/electronic_proceedings). 9월 12일 - 16일 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink") [브리스톨 대학교](https://ko.wikipedia.org/wiki/브리스톨_대학교 "wikilink")\[3\]
+  - [1998년](http://www.acm.org/sigmm/MM98/electronic_proceedings). 9월 12일 - 16일 [영국](../Page/영국.md "wikilink") [브리스톨 대학교](https://ko.wikipedia.org/wiki/브리스톨_대학교 "wikilink")\[3\]
   - 1997년 11월 9일 - 13일. 미국 워싱턴 주 시애틀.
   - [1996년](https://web.archive.org/web/20090220072746/http://www.uni-mannheim.de/acm96/). 11월 18일 - 22일. 매사추세츠 주 보스톤. 하인즈 컨벤션 센터.
   - 1995년 11월 5일 - 9일. 미국 캘리포니아 샌 프란시스코.
@@ -47,7 +47,7 @@
 
 ## 관련 주제의 다른 콘퍼런스
 
-  - [ACM SIGGRAPH](https://ko.wikipedia.org/wiki/SIGGRAPH "wikilink")
+  - [ACM SIGGRAPH](../Page/SIGGRAPH.md "wikilink")
   - [NIME](https://ko.wikipedia.org/wiki/NIME "wikilink")
   - [International Computer Music Conference](https://ko.wikipedia.org/wiki/International_Computer_Music_Conference "wikilink") (ICMC)
   - [WIAMIS](https://ko.wikipedia.org/wiki/WIAMIS "wikilink")

@@ -1,22 +1,22 @@
 > This article is converted from Wikipedia: [STYLISH...E hyOlee](https://ko.wikipedia.org/wiki/STYLISH...E_hyOlee).
 
 
-《**STYLISH...E hyOlee**》는 대한민국의 가수 [핑클](https://ko.wikipedia.org/wiki/핑클 "wikilink") 멤버 [이효리](https://ko.wikipedia.org/wiki/이효리 "wikilink")의 첫 번째 정규 음반이다. 2003년 8월 13일 발매되었다. 총 14곡의 트랙으로 구성되어 있고, 전체 러닝타임은 54분 51초다.
+《**STYLISH...E hyOlee**》는 대한민국의 가수 [핑클](../Page/핑클.md "wikilink") 멤버 [이효리](../Page/이효리.md "wikilink")의 첫 번째 정규 음반이다. 2003년 8월 13일 발매되었다. 총 14곡의 트랙으로 구성되어 있고, 전체 러닝타임은 54분 51초다.
 
 ## 설명 및 특이사항
 
-  - 이효리가 [핑클](https://ko.wikipedia.org/wiki/핑클 "wikilink") 4집 *[I'll be loving you forever](https://ko.wikipedia.org/wiki/I'll_be_loving_you_forever "wikilink")*의 활동을 종료한 후, 1년 2개월만의 음반 활동이다.
+  - 이효리가 [핑클](../Page/핑클.md "wikilink") 4집 *[I'll be loving you forever](https://ko.wikipedia.org/wiki/I'll_be_loving_you_forever "wikilink")*의 활동을 종료한 후, 1년 2개월만의 음반 활동이다.
   - 본래 후속곡은 "이브, 낙원에 잠들다"였지만 이후 "Hey Girl"로 바뀌었다.
   - 라이브 활동 여부 논란에 휩싸인 적이 있다.
   - 초판 앨범에서 Special Thanks To의 오타가 지적 된 적이 있다.
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 겨울, 절판되었지만 대영 A/V에서 소량 재생산되었다.
-  - 앨범 작업 후반부에 참여한 타이틀 곡 "10 MINUTES"를 작곡한 [김도현은](https://ko.wikipedia.org/wiki/김도현_\(작곡가\) "wikilink") 이 음반으로 메이저에 이름을 알렸고, 이후 이효리의 음반에 프로듀서를 맡는 등 이효리와 함께 작업을 하게 되었다.
+  - [2008년](../Page/2008년.md "wikilink") 겨울, 절판되었지만 대영 A/V에서 소량 재생산되었다.
+  - 앨범 작업 후반부에 참여한 타이틀 곡 "10 MINUTES"를 작곡한 [김도현은](../Page/김도현_\(작곡가\).md "wikilink") 이 음반으로 메이저에 이름을 알렸고, 이후 이효리의 음반에 프로듀서를 맡는 등 이효리와 함께 작업을 하게 되었다.
   - 타이틀 곡 "10 MINUTES"는 애초 [피플 크루가](../Page/피플_크루.md "wikilink") 부를 예정이었다\[1\].
 
 ## 수록곡
 
 1.  Prologue (Drum\&Bass)
-      - 작사 : [이효리](https://ko.wikipedia.org/wiki/이효리 "wikilink") / 작곡 : 이효리 / 편곡 : [김도현](https://ko.wikipedia.org/wiki/김도현_\(작곡가\) "wikilink")
+      - 작사 : [이효리](../Page/이효리.md "wikilink") / 작곡 : 이효리 / 편곡 : [김도현](../Page/김도현_\(작곡가\).md "wikilink")
 2.  One two three N' four
       - 작사 : 김영아 / 작곡 : 김도현 / 편곡 : 김도현
 3.  바보처럼 (Sadness)
@@ -32,7 +32,7 @@
 8.  오늘따라
       - 작사 : [조규만](../Page/조규만.md "wikilink") / 작곡 : 조규만 / 편곡 : 조규만
 9.  Do Me
-      - 작사 : [이현도](https://ko.wikipedia.org/wiki/이현도 "wikilink") / 작곡 : 이현도 / 편곡 : 이현도
+      - 작사 : [이현도](../Page/이현도.md "wikilink") / 작곡 : 이현도 / 편곡 : 이현도
 10. Hey Girl
       - 작사 : 이효리 / 작곡 : 김도현 / 작곡 : 김도현
 11. 지워버려
@@ -66,7 +66,7 @@
 
 ### 컴백무대
 
-  - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [8월 17일](https://ko.wikipedia.org/wiki/8월_17일 "wikilink") [일요일](https://ko.wikipedia.org/wiki/일요일 "wikilink"), [SBS 인기가요에서](../Page/SBS_인기가요.md "wikilink") 첫 컴백무대를 열었다.
+  - [2003년](../Page/2003년.md "wikilink") [8월 17일](../Page/8월_17일.md "wikilink") [일요일](../Page/일요일.md "wikilink"), [SBS 인기가요에서](../Page/SBS_인기가요.md "wikilink") 첫 컴백무대를 열었다.
   - "Prologue (Drum\&Bass)"’, "One two three N' four", "10 MINUTES"를 불렀다.
   - 안무가 트위티가 특별히 같이 무대에 섰다.
 
@@ -84,7 +84,7 @@
 
 이 목록은 해당 앨범의 부클릿 〈staff〉목록에서 발췌하였다.\[2\]
 
-  - [이효리](https://ko.wikipedia.org/wiki/이효리 "wikilink") - [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), [코러스](https://ko.wikipedia.org/wiki/코러스_\(대중음악\) "wikilink")
+  - [이효리](../Page/이효리.md "wikilink") - [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), [코러스](https://ko.wikipedia.org/wiki/코러스_\(대중음악\) "wikilink")
 
 <table style="width:10%;">
 <colgroup>
@@ -98,18 +98,18 @@
 
 </dl>
 <ul>
-<li><a href="../Page/윤일상.md" title="wikilink">윤일상</a> - 어쿠스틱/전자 <a href="https://ko.wikipedia.org/wiki/피아노" title="wikilink">피아노</a>, 코러스</li>
+<li><a href="../Page/윤일상.md" title="wikilink">윤일상</a> - 어쿠스틱/전자 <a href="../Page/피아노.md" title="wikilink">피아노</a>, 코러스</li>
 <li>조규만 - 어쿠스틱/전자 피아노, 코러스</li>
 <li>John+K, <a href="https://ko.wikipedia.org/wiki/매드_소울_차일드" title="wikilink">Mad SoulChild</a>, 김지웅 - 어쿠스틱/전자 피아노</li>
-<li>이근형, 홍준호, 류형섭 - <a href="https://ko.wikipedia.org/wiki/어쿠스틱_기타" title="wikilink">어쿠스틱 기타</a>, <a href="https://ko.wikipedia.org/wiki/전기_기타" title="wikilink">전기 기타</a></li>
+<li>이근형, 홍준호, 류형섭 - <a href="https://ko.wikipedia.org/wiki/어쿠스틱_기타" title="wikilink">어쿠스틱 기타</a>, <a href="../Page/전기_기타.md" title="wikilink">전기 기타</a></li>
 <li><a href="../Page/안정훈_(작곡가).md" title="wikilink">안정훈</a> - 어쿠스틱 기타, 전기 기타, <a href="../Page/하모니카.md" title="wikilink">하모니카</a></li>
-<li>허재혁 - <a href="https://ko.wikipedia.org/wiki/베이스_기타" title="wikilink">베이스 기타</a></li>
-<li>이선아, 강선주, 박미현, 이정현, 김인선, 김지숙, 이지연, 조현 - 1st <a href="https://ko.wikipedia.org/wiki/바이올린" title="wikilink">바이올린</a></li>
+<li>허재혁 - <a href="../Page/베이스_기타.md" title="wikilink">베이스 기타</a></li>
+<li>이선아, 강선주, 박미현, 이정현, 김인선, 김지숙, 이지연, 조현 - 1st <a href="../Page/바이올린.md" title="wikilink">바이올린</a></li>
 <li>이장우, 손태희, 선우현, 김민정, 윤현지, 차현아, 이현영, 김혜진 - 2nd 바이올린</li>
-<li>안지우, 김혜선, 박근숙, 오혜민, 하지현 - <a href="https://ko.wikipedia.org/wiki/비올라" title="wikilink">비올라</a></li>
-<li>홍미정, 엄정희, 고현정 - <a href="https://ko.wikipedia.org/wiki/첼로" title="wikilink">첼로</a></li>
+<li>안지우, 김혜선, 박근숙, 오혜민, 하지현 - <a href="../Page/비올라.md" title="wikilink">비올라</a></li>
+<li>홍미정, 엄정희, 고현정 - <a href="../Page/첼로.md" title="wikilink">첼로</a></li>
 <li>김다영, 김현아, 이지은, soul-trip, 김효수 - 코러스</li>
-<li>최재화(<a href="../Page/DJ_렉스.md" title="wikilink">DJ 렉스</a>) - <a href="https://ko.wikipedia.org/wiki/턴테이블리즘" title="wikilink">스크래치</a></li>
+<li>최재화(<a href="../Page/DJ_렉스.md" title="wikilink">DJ 렉스</a>) - <a href="../Page/턴테이블리즘.md" title="wikilink">스크래치</a></li>
 </ul></td>
 <td><dl>
 <dt>스탭</dt>
@@ -117,7 +117,7 @@
 </dl>
 <ul>
 <li>안정훈, 이효리 - <a href="../Page/음악_프로듀서.md" title="wikilink">프로듀서</a></li>
-<li><a href="https://ko.wikipedia.org/wiki/김도현_(작곡가)" title="wikilink">김도현</a>, 윤일상, 이창의, 김지웅, <a href="https://ko.wikipedia.org/wiki/이현도" title="wikilink">이현도</a>, Mad SoulChild, 조규만, 배영준, 김석찬 - 컴퓨터 프로그래밍</li>
+<li><a href="../Page/김도현_(작곡가).md" title="wikilink">김도현</a>, 윤일상, 이창의, 김지웅, <a href="../Page/이현도.md" title="wikilink">이현도</a>, Mad SoulChild, 조규만, 배영준, 김석찬 - 컴퓨터 프로그래밍</li>
 <li>박인영, 김지웅 - 현악 편곡</li>
 <li>정무경, 하정수, 김영식, 김동희, 최재영, 김해구, 김균중, 최영의, 한재응, 김문혜 - 녹음</li>
 <li>임창덕, 고승욱, 박병준, 한종진, 조준성, 정두석 - 믹싱</li>
@@ -127,7 +127,7 @@
 <li>정보윤, 장효진, 박미라 - 스타일리스트</li>
 <li>명진아트 - 인쇄</li>
 <li>길종화, 심병철, 윤우택, 최성필, 윤홍관 - 매니지먼트</li>
-<li><a href="https://ko.wikipedia.org/wiki/이호연" title="wikilink">이호연</a>(<a href="../Page/DSP_미디어.md" title="wikilink">D.S.P 엔터테인먼트</a>) - <a href="https://ko.wikipedia.org/wiki/이그제큐티브_프로듀서" title="wikilink">이그제큐티브 프로듀서</a></li>
+<li><a href="../Page/이호연.md" title="wikilink">이호연</a>(<a href="../Page/DSP_미디어.md" title="wikilink">D.S.P 엔터테인먼트</a>) - <a href="https://ko.wikipedia.org/wiki/이그제큐티브_프로듀서" title="wikilink">이그제큐티브 프로듀서</a></li>
 </ul></td>
 </tr>
 </tbody>

@@ -1,12 +1,12 @@
 > This article is converted from Wikipedia: [LOVE YOU ONLY](https://ko.wikipedia.org/wiki/LOVE_YOU_ONLY).
 
 
-《**LOVE YOU ONLY**》는 [TOKIO](https://ko.wikipedia.org/wiki/TOKIO "wikilink")의 데뷔 [싱글로](../Page/싱글_\(음악\).md "wikilink"), 이 음반으로 정식으로 데뷔하였다.
+《**LOVE YOU ONLY**》는 [TOKIO](../Page/TOKIO.md "wikilink")의 데뷔 [싱글로](../Page/싱글_\(음악\).md "wikilink"), 이 음반으로 정식으로 데뷔하였다.
 
 ## 설명
 
   - TOKIO의 데뷔 싱글이며, TOKIO의 싱글 가운데 최고 매상을 기록했다.
-  - 이 악곡으로 [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") 제45회 [NHK 홍백가합전에](../Page/NHK_홍백가합전.md "wikilink") 출장하였다. 데뷔 이후 3개월 10일 만에 발생한 이 일은, 당시의 최단 기록 출장 기록이었다 (그 후, [WaT](https://ko.wikipedia.org/wiki/WaT "wikilink")가 기록가 다시 기록을 세웠다). TOKIO는 첫 출장한 [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") 이후로, [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink")까지 15년 연속으로 출장하고 있다.
+  - 이 악곡으로 [1994년](../Page/1994년.md "wikilink") 제45회 [NHK 홍백가합전에](../Page/NHK_홍백가합전.md "wikilink") 출장하였다. 데뷔 이후 3개월 10일 만에 발생한 이 일은, 당시의 최단 기록 출장 기록이었다 (그 후, [WaT](../Page/WaT.md "wikilink")가 기록가 다시 기록을 세웠다). TOKIO는 첫 출장한 [1994년](../Page/1994년.md "wikilink") 이후로, [2008년](../Page/2008년.md "wikilink")까지 15년 연속으로 출장하고 있다.
   - 또, [L'Arc en Ciel이](https://ko.wikipedia.org/wiki/라르크_앙_시엘 "wikilink") TOKIO를 따라하여 밴드 ‘KIOTO’를 이벤트 성으로 만들어 〈LOVE YOU ONLY〉를 부르기도 하였다.
 
 ## 수록곡

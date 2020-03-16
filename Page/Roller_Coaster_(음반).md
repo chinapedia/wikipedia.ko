@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Roller Coaster \(\)](https://ko.wikipedia.org/wiki/Roller_Coaster_\(\)).
 
 
-《**Roller Coaster**》\[1\] 는 [롤러코스터가](https://ko.wikipedia.org/wiki/롤러코스터_\(음악_그룹\) "wikilink") 1999년 7월 발매한 첫 앨범이다. 홈 레코딩으로 제작되었다. T-엔터테인먼트에서 발매했으며, 절판과 재발매를 거듭했다.
+《**Roller Coaster**》\[1\] 는 [롤러코스터가](../Page/롤러코스터_\(음악_그룹\).md "wikilink") 1999년 7월 발매한 첫 앨범이다. 홈 레코딩으로 제작되었다. T-엔터테인먼트에서 발매했으며, 절판과 재발매를 거듭했다.
 
 수록곡 중 **습관**은 많은 팬들과 평론가들 사이에서 찬사를 받은 곡이다.
 

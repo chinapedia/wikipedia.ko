@@ -5,7 +5,7 @@
 
 ## 성능
 
-[A-10 썬더볼트 II](https://ko.wikipedia.org/wiki/A-10_썬더볼트_II "wikilink") 공격기에서 사용하는 30 mm 구경의 [GAU-8 어벤저](../Page/GAU-8_어벤저.md "wikilink") [개틀링포](https://ko.wikipedia.org/wiki/개틀링포 "wikilink")를 채택했다. 미국 [레이시온](../Page/레이시온.md "wikilink")사의 [팰렁스 CIWS는](https://ko.wikipedia.org/wiki/팰렁스_CIWS "wikilink") 20 mm 구경의 [M61 Vulcan](https://ko.wikipedia.org/wiki/발칸포 "wikilink") 기관포를 사용하는데, 이보다 탄환이 크다.
+[A-10 썬더볼트 II](https://ko.wikipedia.org/wiki/A-10_썬더볼트_II "wikilink") 공격기에서 사용하는 30 mm 구경의 [GAU-8 어벤저](../Page/GAU-8_어벤저.md "wikilink") [개틀링포](https://ko.wikipedia.org/wiki/개틀링포 "wikilink")를 채택했다. 미국 [레이시온](../Page/레이시온.md "wikilink")사의 [팰렁스 CIWS는](../Page/팰렁스_CIWS.md "wikilink") 20 mm 구경의 [M61 Vulcan](https://ko.wikipedia.org/wiki/발칸포 "wikilink") 기관포를 사용하는데, 이보다 탄환이 크다.
 
 마하 2의 속도를 갖는 [SS-N-22 선번](https://ko.wikipedia.org/wiki/SS-N-22_선번 "wikilink") 초음속 대함 미사일을 자동으로 탐지하여 요격할 수 있다. 탐지에서 자동요격까지 5.5초의 시간이 걸리며, 1500 m 거리에서 탐지하여 500 m 거리에서 요격할 수 있다.
 

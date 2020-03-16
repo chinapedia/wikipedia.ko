@@ -32,7 +32,7 @@
       - [하오마루](https://ko.wikipedia.org/wiki/하오마루 "wikilink"), [나코루루](https://ko.wikipedia.org/wiki/나코루루 "wikilink")(캡콤)
       - [기바가미 겐쥬로](https://ko.wikipedia.org/wiki/기바가미_겐쥬로 "wikilink"), [어스퀘이커](https://ko.wikipedia.org/wiki/어스퀘이커 "wikilink"), [시키](https://ko.wikipedia.org/wiki/시키 "wikilink")(SNK)
   - 아랑전설 막판보스
-      - [기스 하워드](https://ko.wikipedia.org/wiki/기스_하워드 "wikilink")(공통)
+      - [기스 하워드](../Page/기스_하워드.md "wikilink")(공통)
   - 오로치일족
       - [야마자키 류지](../Page/야마자키_류지.md "wikilink"), [바이스](https://ko.wikipedia.org/wiki/바이스_\(KOF\) "wikilink")(캡콤)
       - [레오폴드 게닛츠](https://ko.wikipedia.org/wiki/레오폴드_게닛츠 "wikilink")(SNK)

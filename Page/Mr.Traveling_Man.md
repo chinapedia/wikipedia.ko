@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Mr.Traveling Man](https://ko.wikipedia.org/wiki/Mr.Traveling_Man).
 
 
-《**Mr. Traveling Man**》는 [TOKIO](https://ko.wikipedia.org/wiki/TOKIO "wikilink")의 33번째 싱글이다.
+《**Mr. Traveling Man**》는 [TOKIO](../Page/TOKIO.md "wikilink")의 33번째 싱글이다.
 
 ## 설명
 

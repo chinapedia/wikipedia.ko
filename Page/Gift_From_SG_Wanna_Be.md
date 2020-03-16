@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Gift From SG Wanna Be](https://ko.wikipedia.org/wiki/Gift_From_SG_Wanna_Be).
 
 
-《**Gift From SG Wanna Be**》는 [SG워너비](https://ko.wikipedia.org/wiki/SG워너비 "wikilink")의 6집 앨범이다. [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [4월 23일에](https://ko.wikipedia.org/wiki/4월_23일 "wikilink") 발매되었다.
+《**Gift From SG Wanna Be**》는 [SG워너비](https://ko.wikipedia.org/wiki/SG워너비 "wikilink")의 6집 앨범이다. [2009년](../Page/2009년.md "wikilink") [4월 23일에](../Page/4월_23일.md "wikilink") 발매되었다.
 
 ## 뮤직비디오
 
@@ -11,11 +11,11 @@
 
 ### 사랑해
 
-[SG 워너비](https://ko.wikipedia.org/wiki/SG_워너비 "wikilink") 6집의 타이틀 곡이다. 사이먼 앤 가펑클(Simon & Garfunkel)을 닮고 싶었던 초심으로 돌아간 앨범컨셉으로 가장 sg워너비라는 이름에 걸맞은 곡이다. 그룹 '유리상자'의 박승화 가 코러스에 참여하였다.
+[SG 워너비](../Page/SG_워너비.md "wikilink") 6집의 타이틀 곡이다. 사이먼 앤 가펑클(Simon & Garfunkel)을 닮고 싶었던 초심으로 돌아간 앨범컨셉으로 가장 sg워너비라는 이름에 걸맞은 곡이다. 그룹 '유리상자'의 박승화 가 코러스에 참여하였다.
 
 ### 내 사랑 울보
 
-[SG 워너비](https://ko.wikipedia.org/wiki/SG_워너비 "wikilink") 6집의 후속곡이다. 특이하게 '사랑해'의 활동이 끝난 다음이 아닌, '사랑해' 활동 시기에 문화방송 [쇼\! 음악중심](https://ko.wikipedia.org/wiki/쇼!_음악중심 "wikilink") 에서만 활동하고 있다. J-팝과 록적인 느낌이 강한 SG워너비스러운 곡이다.
+[SG 워너비](../Page/SG_워너비.md "wikilink") 6집의 후속곡이다. 특이하게 '사랑해'의 활동이 끝난 다음이 아닌, '사랑해' 활동 시기에 문화방송 [쇼\! 음악중심](https://ko.wikipedia.org/wiki/쇼!_음악중심 "wikilink") 에서만 활동하고 있다. J-팝과 록적인 느낌이 강한 SG워너비스러운 곡이다.
 
 ## 트랙리스트
 

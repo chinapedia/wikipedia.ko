@@ -3,7 +3,7 @@
 
 [thumb](https://ko.wikipedia.org/wiki/파일:DJ_Felli_Fel_Beverly_Hills.jpg "wikilink")
 
-**디제이 펠리 펠**(, 본명: )는 미국의 힙합프로듀서이자 디제이이다.현재[캘리포니아주](https://ko.wikipedia.org/wiki/캘리포니아주 "wikilink")에 있는 클럽에 디제이이다. 현재 [소 소 데프 레코드](https://ko.wikipedia.org/wiki/소_소_데프_레코드 "wikilink") 소속이다.
+**디제이 펠리 펠**(, 본명: )는 미국의 힙합프로듀서이자 디제이이다.현재[캘리포니아주](../Page/캘리포니아주.md "wikilink")에 있는 클럽에 디제이이다. 현재 [소 소 데프 레코드](https://ko.wikipedia.org/wiki/소_소_데프_레코드 "wikilink") 소속이다.
 
 ## 앨범
 

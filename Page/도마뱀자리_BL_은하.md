@@ -5,7 +5,7 @@
 
 도마뱀자리 BL 은하처럼 전파 폭발 현상(블라이자)을 일으키는 천체를 "[도마뱀자리 BL 천체](../Page/도마뱀자리_BL_천체.md "wikilink")"라고 한다. 이것은 퀘이사와 비슷하나 퀘이사보다 스펙트럼 선이 약한 경향이 강하다. 반면 퀘이사는 적색 편이가 매우 커서 스펙트럼 선이 적색 부분에 강한 경향이 있다.
 
-도마뱀자리 BL 은하의 겉보기 등급은 +14 \~ +17 로 추정된다. 역기점 J2000 기준으로 적경과 적위는 [적경](https://ko.wikipedia.org/wiki/적경 "wikilink") , [적위](../Page/적위.md "wikilink") 이다. [Flyer from 1983 Carnegie Hall Performance](http://geology.heroy.smu.edu/dpa-www/music/carnegie_hall.jpg)
+도마뱀자리 BL 은하의 겉보기 등급은 +14 \~ +17 로 추정된다. 역기점 J2000 기준으로 적경과 적위는 [적경](../Page/적경.md "wikilink") , [적위](../Page/적위.md "wikilink") 이다. [Flyer from 1983 Carnegie Hall Performance](http://geology.heroy.smu.edu/dpa-www/music/carnegie_hall.jpg)
 
 ## 각주
 

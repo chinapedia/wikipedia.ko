@@ -7,7 +7,7 @@
 
 ### 현재
 
-  - 우치무라 유미(内村 友美) - 보컬, [기타](https://ko.wikipedia.org/wiki/기타 "wikilink"), 작사 담당
+  - 우치무라 유미(内村 友美) - 보컬, [기타](../Page/기타.md "wikilink"), 작사 담당
   - 하스오 마사유키(蓮尾 理之) - 키보드 담당
   - 야마사키 히데아키(山崎 英明) - 코러스, 베이스 담당. 2009년 3월 15일 부상으로 인해 활동을 쉬고 있다.
   - 히다이 오사무(比田井 修) - 드럼 담당
@@ -22,7 +22,7 @@
 ### CD 싱글
 
   - futuristic imagination - 2009년 5월 27일에 나옴
-      - '[동쪽의 에덴](https://ko.wikipedia.org/wiki/동쪽의_에덴 "wikilink")' 닫는 노래 'futuristic imagination' 수록
+      - '[동쪽의 에덴](../Page/동쪽의_에덴.md "wikilink")' 닫는 노래 'futuristic imagination' 수록
       - 초회 한정판에 DVD 포함
 
 동쪽의 에덴 두 번째 극장판 주제가 'Future Nova' 앨범명 Future Nova / After Laughter 3/10 발매. DVD한정판/ 통상판

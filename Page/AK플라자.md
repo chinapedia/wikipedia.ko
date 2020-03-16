@@ -1,25 +1,25 @@
 > This article is converted from Wikipedia: [AK](https://ko.wikipedia.org/wiki/AK).
 
 
-**AK플라자**(AK PLAZA)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [백화점](https://ko.wikipedia.org/wiki/백화점 "wikilink")이며, [애경그룹](https://ko.wikipedia.org/wiki/애경그룹 "wikilink")의 주요 계열사 중 하나이다. [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") 현재 4개의 지점과 3개의 쇼핑몰을 운영하며, 지점위치는 원주점, AK& 홍대점, 세종점 을 제외한 나머지 지점과 쇼핑몰은 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink")에 위치하고, 원주점을 제외한 나머지 지점은 [지하철](https://ko.wikipedia.org/wiki/지하철 "wikilink"), [철도와](https://ko.wikipedia.org/wiki/기차 "wikilink") 바로 연결되는 민자역사이다.
+**AK플라자**(AK PLAZA)는 [대한민국](../Page/대한민국.md "wikilink")의 [백화점](../Page/백화점.md "wikilink")이며, [애경그룹](../Page/애경그룹.md "wikilink")의 주요 계열사 중 하나이다. [2019년](../Page/2019년.md "wikilink") 현재 4개의 지점과 3개의 쇼핑몰을 운영하며, 지점위치는 원주점, AK& 홍대점, 세종점 을 제외한 나머지 지점과 쇼핑몰은 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink")에 위치하고, 원주점을 제외한 나머지 지점은 [지하철](../Page/지하철.md "wikilink"), [철도와](https://ko.wikipedia.org/wiki/기차 "wikilink") 바로 연결되는 민자역사이다.
 
 ## 연혁
 
-  - [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") [9월 10일](https://ko.wikipedia.org/wiki/9월_10일 "wikilink"): 애경백화점 구로본점 개점
-  - [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [5월](https://ko.wikipedia.org/wiki/5월 "wikilink"): 수원민자역사 설립
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [8월](https://ko.wikipedia.org/wiki/8월 "wikilink"): 평택민자역사 설립
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [11월](https://ko.wikipedia.org/wiki/11월 "wikilink"): 애경백화점 분당점 개점
-  - [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [8월](https://ko.wikipedia.org/wiki/8월 "wikilink"): 수원민자역사 착공
-  - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink"): 애경백화점 수원점 개점
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [5월](https://ko.wikipedia.org/wiki/5월 "wikilink"): 평택민자역사 착공
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink"): 분당 [삼성플라자](https://ko.wikipedia.org/wiki/삼성플라자 "wikilink")를 인수하면서 상호명을 "애경백화점"에서 "AK플라자"로 변경
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [4월 24일](https://ko.wikipedia.org/wiki/4월_24일 "wikilink"): AK플라자 평택점 개점
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [3월 6일](https://ko.wikipedia.org/wiki/3월_6일 "wikilink"): AK플라자 원주점 개점
-  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [8월 31일](https://ko.wikipedia.org/wiki/8월_31일 "wikilink"): AK& 홍대점 개점 및 본사이전
-  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [12월 14일](https://ko.wikipedia.org/wiki/12월_14일 "wikilink"): AK&기흥점 개점
-  - [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [4월 20일](https://ko.wikipedia.org/wiki/4월_20일 "wikilink"): AK& 세종점 개점
-  - [2021년](https://ko.wikipedia.org/wiki/2021년 "wikilink") 8월 AK& 광명점 개점 예정
-  - [2022년](https://ko.wikipedia.org/wiki/2022년 "wikilink") 하반기 AK& 안산점 개점 예정
+  - [1993년](../Page/1993년.md "wikilink") [9월 10일](../Page/9월_10일.md "wikilink"): 애경백화점 구로본점 개점
+  - [1995년](../Page/1995년.md "wikilink") [5월](../Page/5월.md "wikilink"): 수원민자역사 설립
+  - [1997년](../Page/1997년.md "wikilink") [8월](../Page/8월.md "wikilink"): 평택민자역사 설립
+  - [1997년](../Page/1997년.md "wikilink") [11월](../Page/11월.md "wikilink"): 애경백화점 분당점 개점
+  - [1999년](../Page/1999년.md "wikilink") [8월](../Page/8월.md "wikilink"): 수원민자역사 착공
+  - [2003년](../Page/2003년.md "wikilink") [2월](../Page/2월.md "wikilink"): 애경백화점 수원점 개점
+  - [2006년](../Page/2006년.md "wikilink") [5월](../Page/5월.md "wikilink"): 평택민자역사 착공
+  - [2009년](../Page/2009년.md "wikilink") [2월](../Page/2월.md "wikilink"): 분당 [삼성플라자](../Page/삼성플라자.md "wikilink")를 인수하면서 상호명을 "애경백화점"에서 "AK플라자"로 변경
+  - [2009년](../Page/2009년.md "wikilink") [4월 24일](../Page/4월_24일.md "wikilink"): AK플라자 평택점 개점
+  - [2012년](../Page/2012년.md "wikilink") [3월 6일](../Page/3월_6일.md "wikilink"): AK플라자 원주점 개점
+  - [2018년](../Page/2018년.md "wikilink") [8월 31일](../Page/8월_31일.md "wikilink"): AK& 홍대점 개점 및 본사이전
+  - [2018년](../Page/2018년.md "wikilink") [12월 14일](../Page/12월_14일.md "wikilink"): AK&기흥점 개점
+  - [2019년](../Page/2019년.md "wikilink") [4월 20일](../Page/4월_20일.md "wikilink"): AK& 세종점 개점
+  - [2021년](../Page/2021년.md "wikilink") 8월 AK& 광명점 개점 예정
+  - [2022년](../Page/2022년.md "wikilink") 하반기 AK& 안산점 개점 예정
 
 ## 매장 현황
 
@@ -27,7 +27,7 @@
 
 ### 수도권 지역
 
-  - [AK플라자 수원AK타운점](https://ko.wikipedia.org/wiki/수원역 "wikilink") ([경부선](https://ko.wikipedia.org/wiki/경부선 "wikilink")·[1호선](https://ko.wikipedia.org/wiki/수도권_전철_1호선 "wikilink")·[분당선](https://ko.wikipedia.org/wiki/분당선 "wikilink")) - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") 12월 백화점 옆에 [AK&](https://ko.wikipedia.org/wiki/AK& "wikilink")란 쇼핑몰을 개점하였다. [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [수원시](https://ko.wikipedia.org/wiki/수원시 "wikilink") [팔달구](https://ko.wikipedia.org/wiki/팔달구 "wikilink") 덕영대로 924
+  - [AK플라자 수원AK타운점](https://ko.wikipedia.org/wiki/수원역 "wikilink") ([경부선](../Page/경부선.md "wikilink")·[1호선](https://ko.wikipedia.org/wiki/수도권_전철_1호선 "wikilink")·[분당선](../Page/분당선.md "wikilink")) - [2014년](../Page/2014년.md "wikilink") 12월 백화점 옆에 [AK&](https://ko.wikipedia.org/wiki/AK& "wikilink")란 쇼핑몰을 개점하였다. [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [수원시](https://ko.wikipedia.org/wiki/수원시 "wikilink") [팔달구](https://ko.wikipedia.org/wiki/팔달구 "wikilink") 덕영대로 924
 
 <!-- end list -->
 
@@ -36,7 +36,7 @@
 
 <!-- end list -->
 
-  - [AK플라자 분당점](https://ko.wikipedia.org/wiki/서현역 "wikilink") ([분당선](https://ko.wikipedia.org/wiki/분당선 "wikilink"), 기존 [삼성플라자](https://ko.wikipedia.org/wiki/삼성플라자 "wikilink") 인수) - [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [성남시](https://ko.wikipedia.org/wiki/성남시 "wikilink") [분당구](https://ko.wikipedia.org/wiki/분당구 "wikilink") 황새울로360번길 42
+  - [AK플라자 분당점](../Page/서현역.md "wikilink") ([분당선](../Page/분당선.md "wikilink"), 기존 [삼성플라자](../Page/삼성플라자.md "wikilink") 인수) - [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [성남시](../Page/성남시.md "wikilink") [분당구](../Page/분당구.md "wikilink") 황새울로360번길 42
 
 <!-- end list -->
 
@@ -45,7 +45,7 @@
 
 <!-- end list -->
 
-  - [AK플라자 평택점](https://ko.wikipedia.org/wiki/평택역 "wikilink") ([경부선](https://ko.wikipedia.org/wiki/경부선 "wikilink")·[1호선](https://ko.wikipedia.org/wiki/수도권_전철_1호선 "wikilink")) - [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [평택시](https://ko.wikipedia.org/wiki/평택시 "wikilink") 평택로 51
+  - [AK플라자 평택점](../Page/평택역.md "wikilink") ([경부선](../Page/경부선.md "wikilink")·[1호선](https://ko.wikipedia.org/wiki/수도권_전철_1호선 "wikilink")) - [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [평택시](../Page/평택시.md "wikilink") 평택로 51
 
 <!-- end list -->
 
@@ -54,7 +54,7 @@
 
 ### 지방지역
 
-  - AK플라자 원주점 - [강원도](https://ko.wikipedia.org/wiki/강원도 "wikilink") [원주시](https://ko.wikipedia.org/wiki/원주시 "wikilink") 봉화로 1
+  - AK플라자 원주점 - [강원도](../Page/강원도.md "wikilink") [원주시](../Page/원주시.md "wikilink") 봉화로 1
 
 <!-- end list -->
 
@@ -63,7 +63,7 @@
 
 ## 쇼핑몰
 
-  - [AK앤 홍대점](https://ko.wikipedia.org/wiki/홍대입구역 "wikilink") [서울특별시](https://ko.wikipedia.org/wiki/서울특별시 "wikilink") [마포구](https://ko.wikipedia.org/wiki/마포구 "wikilink") 양화로 188
+  - [AK앤 홍대점](../Page/홍대입구역.md "wikilink") [서울특별시](../Page/서울특별시.md "wikilink") [마포구](../Page/마포구.md "wikilink") 양화로 188
 
 <!-- end list -->
 
@@ -97,7 +97,7 @@
 
 <!-- end list -->
 
-  - [AK플라자 구로본점](https://ko.wikipedia.org/wiki/구로역 "wikilink") ([경부선](https://ko.wikipedia.org/wiki/경부선 "wikilink")·[경인선](https://ko.wikipedia.org/wiki/경인선 "wikilink")·[1호선](https://ko.wikipedia.org/wiki/수도권_전철_1호선 "wikilink") [구로역](https://ko.wikipedia.org/wiki/구로역 "wikilink") 인근)\[1\] - [서울특별시](https://ko.wikipedia.org/wiki/서울특별시 "wikilink") [구로구](https://ko.wikipedia.org/wiki/구로구 "wikilink") 구로중앙로 152
+  - [AK플라자 구로본점](../Page/구로역.md "wikilink") ([경부선](../Page/경부선.md "wikilink")·[경인선](../Page/경인선.md "wikilink")·[1호선](https://ko.wikipedia.org/wiki/수도권_전철_1호선 "wikilink") [구로역](../Page/구로역.md "wikilink") 인근)\[1\] - [서울특별시](../Page/서울특별시.md "wikilink") [구로구](https://ko.wikipedia.org/wiki/구로구 "wikilink") 구로중앙로 152
 
 <!-- end list -->
 

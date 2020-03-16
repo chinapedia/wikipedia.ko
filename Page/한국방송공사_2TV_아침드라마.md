@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ 2TV ](https://ko.wikipedia.org/wiki/_2TV_).
 
 
-**한국방송공사 아침드라마**는 [1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink") [9월 5일부터](https://ko.wikipedia.org/wiki/9월_5일 "wikilink") [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [1월 18일까지](https://ko.wikipedia.org/wiki/1월_18일 "wikilink") 방영된 [KBS 2TV](../Page/KBS_2TV.md "wikilink") [텔레비전 드라마이다](../Page/텔레비전_드라마.md "wikilink"). 폐지 이후, [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [1월 21일부터](https://ko.wikipedia.org/wiki/1월_21일 "wikilink") 현재 아침드라마 시간대에는 [KBS 1TV 저녁일일극](https://ko.wikipedia.org/wiki/한국방송공사_1TV_일일연속극 "wikilink") 전일 방영분 위주로 재방송 중이다.
+**한국방송공사 아침드라마**는 [1983년](../Page/1983년.md "wikilink") [9월 5일부터](../Page/9월_5일.md "wikilink") [2019년](../Page/2019년.md "wikilink") [1월 18일까지](../Page/1월_18일.md "wikilink") 방영된 [KBS 2TV](../Page/KBS_2TV.md "wikilink") [텔레비전 드라마이다](../Page/텔레비전_드라마.md "wikilink"). 폐지 이후, [2019년](../Page/2019년.md "wikilink") [1월 21일부터](../Page/1월_21일.md "wikilink") 현재 아침드라마 시간대에는 [KBS 1TV 저녁일일극](../Page/한국방송공사_1TV_일일연속극.md "wikilink") 전일 방영분 위주로 재방송 중이다.
 
 ## 방송 시간
 
@@ -52,43 +52,43 @@
 
 ### 2000년대 전반
 
-  - 《[송화](https://ko.wikipedia.org/wiki/송화_\(드라마\) "wikilink")》 : 2000년 4월 10일 \~ 2000년 9월 30일
+  - 《[송화](../Page/송화_\(드라마\).md "wikilink")》 : 2000년 4월 10일 \~ 2000년 9월 30일
   - 《[내일은 맑음](../Page/내일은_맑음_\(2000년_드라마\).md "wikilink")》 : 2000년 10월 2일 \~ 2001년 2월 17일
-  - 《[꽃밭에서](https://ko.wikipedia.org/wiki/꽃밭에서 "wikilink")》 : 2001년 2월 19일 \~ 2001년 8월 25일
+  - 《[꽃밭에서](../Page/꽃밭에서.md "wikilink")》 : 2001년 2월 19일 \~ 2001년 8월 25일
   - 《[동서는 좋겠네](../Page/동서는_좋겠네.md "wikilink")》 : 2001년 8월 27일 \~ 2002년 1월 12일
   - 《[골목 안 사람들](../Page/골목_안_사람들.md "wikilink")》 : 2002년 1월 14일 \~ 2002년 6월 1일
   - 《[색소폰과 찹쌀떡](../Page/색소폰과_찹쌀떡.md "wikilink")》 : 2002년 6월 3일 \~ 2002년 12월 7일
   - 《[여고 동창생](../Page/여고_동창생_\(2002년_드라마\).md "wikilink")》 : 2002년 12월 9일 \~ 2003년 5월 31일
-  - 《[장미 울타리](https://ko.wikipedia.org/wiki/장미_울타리 "wikilink")》 : 2003년 6월 2일 \~ 2003년 10월 11일
-  - 《[나는 이혼하지 않는다](https://ko.wikipedia.org/wiki/나는_이혼하지_않는다 "wikilink")》 : 2003년 10월 13일 \~ 2004년 4월 17일
-  - 《[아름다운 유혹](https://ko.wikipedia.org/wiki/아름다운_유혹_\(드라마\) "wikilink")》 : 2004년 4월 19일 \~ 2004년 10월 30일
-  - 《[용서](https://ko.wikipedia.org/wiki/용서_\(2004년_드라마\) "wikilink")》 : 2004년 11월 1일 \~ 2005년 5월 7일
+  - 《[장미 울타리](../Page/장미_울타리.md "wikilink")》 : 2003년 6월 2일 \~ 2003년 10월 11일
+  - 《[나는 이혼하지 않는다](../Page/나는_이혼하지_않는다.md "wikilink")》 : 2003년 10월 13일 \~ 2004년 4월 17일
+  - 《[아름다운 유혹](../Page/아름다운_유혹_\(드라마\).md "wikilink")》 : 2004년 4월 19일 \~ 2004년 10월 30일
+  - 《[용서](../Page/용서_\(2004년_드라마\).md "wikilink")》 : 2004년 11월 1일 \~ 2005년 5월 7일
 
 ### 2000년대 후반
 
-  - 《[위험한 사랑](https://ko.wikipedia.org/wiki/위험한_사랑_\(2005년_드라마\) "wikilink")》 : 2005년 5월 9일 \~ 2005년 10월 29일
-  - 《[걱정하지마](https://ko.wikipedia.org/wiki/걱정하지마 "wikilink")》 : 2005년 10월 31일 \~ 2006년 4월 29일
-  - 《[그 여자의 선택](https://ko.wikipedia.org/wiki/그_여자의_선택 "wikilink")》 : 2006년 5월 1일 \~ 2006년 11월 11일
-  - 《[아줌마가 간다](https://ko.wikipedia.org/wiki/아줌마가_간다 "wikilink")》 : 2006년 11월 13일 \~ 2007년 5월 19일
-  - 《[사랑해도 괜찮아](https://ko.wikipedia.org/wiki/사랑해도_괜찮아 "wikilink")》 : 2007년 5월 21일 \~ 2007년 9월 29일
+  - 《[위험한 사랑](../Page/위험한_사랑_\(2005년_드라마\).md "wikilink")》 : 2005년 5월 9일 \~ 2005년 10월 29일
+  - 《[걱정하지마](../Page/걱정하지마.md "wikilink")》 : 2005년 10월 31일 \~ 2006년 4월 29일
+  - 《[그 여자의 선택](../Page/그_여자의_선택.md "wikilink")》 : 2006년 5월 1일 \~ 2006년 11월 11일
+  - 《[아줌마가 간다](../Page/아줌마가_간다.md "wikilink")》 : 2006년 11월 13일 \~ 2007년 5월 19일
+  - 《[사랑해도 괜찮아](../Page/사랑해도_괜찮아.md "wikilink")》 : 2007년 5월 21일 \~ 2007년 9월 29일
   - 《[착한여자 백일홍](../Page/착한여자_백일홍.md "wikilink")》 : 2007년 10월 1일 \~ 2008년 4월 19일
-  - 《[난 네게 반했어](https://ko.wikipedia.org/wiki/난_네게_반했어 "wikilink")》 : 2008년 4월 21일 \~ 2008년 10월 18일
-  - 《[아내와 여자](https://ko.wikipedia.org/wiki/아내와_여자 "wikilink")》 : 2008년 10월 20일 \~ 2009년 4월 18일
-  - 《[장화, 홍련](https://ko.wikipedia.org/wiki/장화,_홍련_\(드라마\) "wikilink")》 : 2009년 4월 20일 \~ 2009년 10월 10일
-  - 《[다 줄거야](https://ko.wikipedia.org/wiki/다_줄거야_\(드라마\) "wikilink")》 : 2009년 10월 12일 \~ 2010년 4월 3일
+  - 《[난 네게 반했어](../Page/난_네게_반했어.md "wikilink")》 : 2008년 4월 21일 \~ 2008년 10월 18일
+  - 《[아내와 여자](../Page/아내와_여자.md "wikilink")》 : 2008년 10월 20일 \~ 2009년 4월 18일
+  - 《[장화, 홍련](../Page/장화,_홍련_\(드라마\).md "wikilink")》 : 2009년 4월 20일 \~ 2009년 10월 10일
+  - 《[다 줄거야](../Page/다_줄거야_\(드라마\).md "wikilink")》 : 2009년 10월 12일 \~ 2010년 4월 3일
 
 ### 2010년대 전반
 
-  - 《[엄마도 예쁘다](https://ko.wikipedia.org/wiki/엄마도_예쁘다 "wikilink")》 : 2010년 4월 5일 \~ 2010년 10월 23일
+  - 《[엄마도 예쁘다](../Page/엄마도_예쁘다.md "wikilink")》 : 2010년 4월 5일 \~ 2010년 10월 23일
   - 《[사랑하길 잘했어](../Page/사랑하길_잘했어.md "wikilink")》 : 2010년 10월 25일 \~ 2011년 4월 30일
   - 《[두근두근 달콤](../Page/두근두근_달콤.md "wikilink")》 : 2011년 5월 2일 \~ 2011년 11월 4일
 
 ### 2010년대 후반
 
-  - 《[차달래 부인의 사랑](../Page/차달래_부인의_사랑.md "wikilink")》 : 2018년 9월 3일 \~ 2019년 1월 18일 (해당 작품을 끝으로 폐지되면서 이후 [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [1월 21일부터](https://ko.wikipedia.org/wiki/1월_21일 "wikilink") 현재 [KBS 1TV 저녁일일극](https://ko.wikipedia.org/wiki/한국방송공사_1TV_일일연속극 "wikilink") 재방송중)
+  - 《[차달래 부인의 사랑](../Page/차달래_부인의_사랑.md "wikilink")》 : 2018년 9월 3일 \~ 2019년 1월 18일 (해당 작품을 끝으로 폐지되면서 이후 [2019년](../Page/2019년.md "wikilink") [1월 21일부터](../Page/1월_21일.md "wikilink") 현재 [KBS 1TV 저녁일일극](../Page/한국방송공사_1TV_일일연속극.md "wikilink") 재방송중)
 
 ## 같이 보기
 
-  - [한국방송공사 TV 소설](https://ko.wikipedia.org/wiki/한국방송공사_TV_소설 "wikilink")
+  - [한국방송공사 TV 소설](../Page/한국방송공사_TV_소설.md "wikilink")
 
 [분류:한국방송공사의 텔레비전 드라마](https://ko.wikipedia.org/wiki/분류:한국방송공사의_텔레비전_드라마 "wikilink") [\*](https://ko.wikipedia.org/wiki/분류:한국방송공사_2TV_아침드라마 "wikilink")

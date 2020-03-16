@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [F\&B](https://ko.wikipedia.org/wiki/F\&B).
 
 
-**가야F\&B**는 과채음료인 **가야 농장**을 생산/판매하는 기업이었으며 2015년 10월에 [웅진식품](https://ko.wikipedia.org/wiki/웅진식품 "wikilink")에 합병되었다.
+**가야F\&B**는 과채음료인 **가야 농장**을 생산/판매하는 기업이었으며 2015년 10월에 [웅진식품](../Page/웅진식품.md "wikilink")에 합병되었다.
 
 ## 연혁
 
@@ -103,6 +103,6 @@
 
   - [홈페이지](https://web.archive.org/web/20150427005947/http://www.gaya.co.kr/Main/Main.aspx)
 
-[웅진식품](https://ko.wikipedia.org/wiki/웅진식품 "wikilink")
+[웅진식품](../Page/웅진식품.md "wikilink")
 
 [건영식품](https://ko.wikipedia.org/wiki/분류:1991년_설립 "wikilink") [건영식품](https://ko.wikipedia.org/wiki/분류:2011년_폐지 "wikilink") [가야 (기업)](https://ko.wikipedia.org/wiki/분류:2011년_설립 "wikilink") [가야 (기업)](https://ko.wikipedia.org/wiki/분류:2012년_폐지 "wikilink") [동부팜가야](https://ko.wikipedia.org/wiki/분류:2012년_설립 "wikilink") [동부팜가야](https://ko.wikipedia.org/wiki/분류:2015년_폐지 "wikilink") [분류:2015년 설립](https://ko.wikipedia.org/wiki/분류:2015년_설립 "wikilink") [분류:2015년 폐지](https://ko.wikipedia.org/wiki/분류:2015년_폐지 "wikilink") [분류:대한민국의 없어진 음료회사](https://ko.wikipedia.org/wiki/분류:대한민국의_없어진_음료회사 "wikilink")

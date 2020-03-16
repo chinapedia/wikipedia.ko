@@ -9,9 +9,9 @@
 
   - \- [Rheinmetall](https://ko.wikipedia.org/wiki/Rheinmetall "wikilink") [Millennium 35 mm Naval Revolver Gun System](https://web.archive.org/web/20080923222023/http://www.rheinmetall-defence.com/index.php?lang=3) [1](https://web.archive.org/web/20070927222418/http://www.rheinmetall-detec.de/index.php?fid=1570&lang=3&pdb=1)
 
-  - [레이시온](../Page/레이시온.md "wikilink") [팰렁스 CIWS](https://ko.wikipedia.org/wiki/팰렁스_CIWS "wikilink")
+  - [레이시온](../Page/레이시온.md "wikilink") [팰렁스 CIWS](../Page/팰렁스_CIWS.md "wikilink")
 
-  - [골키퍼 CIWS](https://ko.wikipedia.org/wiki/골키퍼_CIWS "wikilink")
+  - [골키퍼 CIWS](../Page/골키퍼_CIWS.md "wikilink")
 
   - [Sea Zenith](https://ko.wikipedia.org/wiki/Sea_Zenith "wikilink")
 

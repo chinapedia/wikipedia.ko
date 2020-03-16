@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [M \(\)](https://ko.wikipedia.org/wiki/M_\(\)).
 
 
-《**M**》는 [문화방송](https://ko.wikipedia.org/wiki/문화방송 "wikilink")에서 [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") [8월 1일부터](https://ko.wikipedia.org/wiki/8월_1일 "wikilink") [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") [8월 30일까지](https://ko.wikipedia.org/wiki/8월_30일 "wikilink") 제작·방영한 [납량특집](../Page/공포.md "wikilink") 미니시리즈 드라마다. [낙태](../Page/낙태.md "wikilink")의 윤리성에 대한 고발이 주된 내용이며 특수효과를 동원한 본격적인 공포물에라는 점에서 당시에 커다란 사회적 반항과 화제를 일으키며 압도적인 시청률을 기록하였다. 한편, MBC 드라마본부는 해당 작품에 앞서 조폭들의 세계를 다루는 폭력물을 내보낼 예정이었지만, 파격적인 소재를 위해 납량특집 미니시리즈로 편성이 확정했으며\[1\] 당초 8부작으로 기획되었으나 1회분 [심은하](../Page/심은하.md "wikilink")(박마리 역)의 파란 눈동자를 그려 넣는데만 꼬박 3\~4일이 걸렸던 탓인지\[2\] 2편 늘린 10회로 간신히 막을 내렸다. 2020년엔 M시즌2 방영확정되었다.
+《**M**》는 [문화방송](../Page/문화방송.md "wikilink")에서 [1994년](../Page/1994년.md "wikilink") [8월 1일부터](../Page/8월_1일.md "wikilink") [1994년](../Page/1994년.md "wikilink") [8월 30일까지](../Page/8월_30일.md "wikilink") 제작·방영한 [납량특집](../Page/공포.md "wikilink") 미니시리즈 드라마다. [낙태](../Page/낙태.md "wikilink")의 윤리성에 대한 고발이 주된 내용이며 특수효과를 동원한 본격적인 공포물에라는 점에서 당시에 커다란 사회적 반항과 화제를 일으키며 압도적인 시청률을 기록하였다. 한편, MBC 드라마본부는 해당 작품에 앞서 조폭들의 세계를 다루는 폭력물을 내보낼 예정이었지만, 파격적인 소재를 위해 납량특집 미니시리즈로 편성이 확정했으며\[1\] 당초 8부작으로 기획되었으나 1회분 [심은하](../Page/심은하.md "wikilink")(박마리 역)의 파란 눈동자를 그려 넣는데만 꼬박 3\~4일이 걸렸던 탓인지\[2\] 2편 늘린 10회로 간신히 막을 내렸다. 2020년엔 M시즌2 방영확정되었다.
 
 ## 등장 인물
 
@@ -15,13 +15,13 @@
 
 ### 그외
 
-  - [이영후](https://ko.wikipedia.org/wiki/이영후 "wikilink") : 최재민 박사 역 - 신경정신과 전문의 뇌행동 연구 권위자
+  - [이영후](../Page/이영후.md "wikilink") : 최재민 박사 역 - 신경정신과 전문의 뇌행동 연구 권위자
   - [박영태](../Page/박영태_\(배우\).md "wikilink") : 박상철 역 - 박마리의 아버지
   - [김창숙](https://ko.wikipedia.org/wiki/김창숙_\(배우\) "wikilink") : 성자 역 - 박마리의 새어머니
   - [김은숙](https://ko.wikipedia.org/wiki/김은숙 "wikilink") : 박수경 역 - 박마리의 언니
   - [이동신](../Page/이동신.md "wikilink") : 박운철 역 - 산부인과 전문의
   - [신귀식](../Page/신귀식.md "wikilink") : 홍현우 역 - M의 생부, 외과 전문의
-  - 故 [박용식](https://ko.wikipedia.org/wiki/박용식 "wikilink") : 강 원장 역 - 마리가 근무하는 병원의 원장
+  - 故 [박용식](../Page/박용식.md "wikilink") : 강 원장 역 - 마리가 근무하는 병원의 원장
   - 故 [남윤정](../Page/남윤정.md "wikilink"):M의생모역(2012년8월1일날의자택에서유서남기고스스로목숨을끓음)2019년8월초인1일날보층.
   - [최은숙](../Page/최은숙_\(배우\).md "wikilink") : 김은희의 어머니 역
   - [문회원](../Page/문회원.md "wikilink") : 박일수 역 - 외과전문의, 원장, 박운철의 부친
@@ -59,15 +59,15 @@
 ## 참고 사항
 
   - 1994년 여름에 최고 시청률 52.2%, 평균 시청률 38.6%이며 이는 역대 공포 드라마 중 가장 압도적인 수치이다.\[3\]
-  - 2005년 복제인간을 소재로 한 M2를 제작하려고 했으나\[4\] 같은 해 2월 [최문순](../Page/최문순_\(1956년\).md "wikilink") 대표이사 사장이 취임한 직후 백지화됐다. [하지원](https://ko.wikipedia.org/wiki/하지원 "wikilink")이 여주인공 물망에 올랐었다.
+  - 2005년 복제인간을 소재로 한 M2를 제작하려고 했으나\[4\] 같은 해 2월 [최문순](../Page/최문순_\(1956년\).md "wikilink") 대표이사 사장이 취임한 직후 백지화됐다. [하지원](../Page/하지원.md "wikilink")이 여주인공 물망에 올랐었다.
   - 2020년 시즌2격인 M2020으로 리메이크 예정이다.
 
 ## 동일 소재 드라마
 
   - [전설의 고향](https://ko.wikipedia.org/wiki/전설의_고향_\(드라마\) "wikilink") (KBS)
-  - [RNA](https://ko.wikipedia.org/wiki/RNA_\(드라마\) "wikilink") (KBS)
-  - [거미](https://ko.wikipedia.org/wiki/거미_\(1995년_드라마\) "wikilink") (MBC)
-  - [혼](https://ko.wikipedia.org/wiki/혼_\(드라마\) "wikilink") (MBC)
+  - [RNA](../Page/RNA_\(드라마\).md "wikilink") (KBS)
+  - [거미](../Page/거미_\(1995년_드라마\).md "wikilink") (MBC)
+  - [혼](../Page/혼_\(드라마\).md "wikilink") (MBC)
 
 ## 각주
 

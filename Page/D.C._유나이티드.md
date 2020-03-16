@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [D.C. ](https://ko.wikipedia.org/wiki/D.C._).
 
 
-**D.C. 유나이티드**(D.C. United)는 [메이저 리그 사커에](https://ko.wikipedia.org/wiki/메이저_리그_사커 "wikilink") 소속된 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 프로축구단이다. [워싱턴 D.C.를](https://ko.wikipedia.org/wiki/워싱턴_D.C. "wikilink") 연고지로 하고 있으며 [RFK 스타디움을](../Page/로버트_F._케네디_메모리얼_스타디움.md "wikilink") 경기장으로 사용하고 있다.
+**D.C. 유나이티드**(D.C. United)는 [메이저 리그 사커에](../Page/메이저_리그_사커.md "wikilink") 소속된 [미국](../Page/미국.md "wikilink")의 프로축구단이다. [워싱턴 D.C.를](../Page/워싱턴_D.C..md "wikilink") 연고지로 하고 있으며 [RFK 스타디움을](../Page/로버트_F._케네디_메모리얼_스타디움.md "wikilink") 경기장으로 사용하고 있다.
 
 ## 역사
 
@@ -27,13 +27,13 @@
 
 ### 유명 선수
 
-  - [보비 컨베이](https://ko.wikipedia.org/wiki/보비_컨베이 "wikilink")
+  - [보비 컨베이](../Page/보비_컨베이.md "wikilink")
 
   - [프레디 아두](../Page/프레디_아두.md "wikilink")
 
   - [라이언 넬슨](../Page/라이언_넬슨.md "wikilink")
 
-  - [흐리스토 스토이치코프](https://ko.wikipedia.org/wiki/흐리스토_스토이치코프 "wikilink")
+  - [흐리스토 스토이치코프](../Page/흐리스토_스토이치코프.md "wikilink")
 
   - [웨인 루니](../Page/웨인_루니.md "wikilink")
 
@@ -53,7 +53,7 @@
 <tr class="odd">
 <td><p><a href="../Page/로버트_F._케네디_메모리얼_스타디움.md" title="wikilink">RFK 스타디움</a></p></td>
 <td><p>1996년~2017년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/워싱턴_D.C." title="wikilink">워싱턴 D.C.</a></p></td>
+<td><p><a href="../Page/워싱턴_D.C..md" title="wikilink">워싱턴 D.C.</a></p></td>
 <td><p>D.C. 유나이티드</p></td>
 <td></td>
 </tr>

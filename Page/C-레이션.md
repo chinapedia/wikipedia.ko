@@ -13,13 +13,13 @@
 
 해방 이후엔 C-레이션이 상자당 쌀 1되 값에 시장에서 팔렸다.\[1\]
 
-[한국전쟁](https://ko.wikipedia.org/wiki/한국전쟁 "wikilink") 당시, 대대장의 이름을 딴 [스미스 부대는](https://ko.wikipedia.org/wiki/스미스_부대 "wikilink") [1950년](https://ko.wikipedia.org/wiki/1950년 "wikilink") [6월 30일](https://ko.wikipedia.org/wiki/6월_30일 "wikilink") 오후 3시 부산 수영비행장으로 공수되었다. 2개 중대 406명. 장병 1명이 [M1 카빈](../Page/M1_카빈.md "wikilink") 실탄 120발과 C-레이션 이틀분을 갖고 있었다.\[2\]
+[한국전쟁](https://ko.wikipedia.org/wiki/한국전쟁 "wikilink") 당시, 대대장의 이름을 딴 [스미스 부대는](https://ko.wikipedia.org/wiki/스미스_부대 "wikilink") [1950년](../Page/1950년.md "wikilink") [6월 30일](../Page/6월_30일.md "wikilink") 오후 3시 부산 수영비행장으로 공수되었다. 2개 중대 406명. 장병 1명이 [M1 카빈](../Page/M1_카빈.md "wikilink") 실탄 120발과 C-레이션 이틀분을 갖고 있었다.\[2\]
 
-[광복](https://ko.wikipedia.org/wiki/광복 "wikilink")과 [한국전쟁](https://ko.wikipedia.org/wiki/한국전쟁 "wikilink")을 거친 뒤에는 [껌](../Page/껌.md "wikilink"), 과자, [땅콩](../Page/땅콩.md "wikilink"), [베이컨](../Page/베이컨.md "wikilink") 등의 식품과 [비누](../Page/비누.md "wikilink"), [수건](https://ko.wikipedia.org/wiki/수건 "wikilink")이 담긴 [주한 미군의](https://ko.wikipedia.org/wiki/주한_미군 "wikilink") C-레이션이 미군 부대에서 불법적으로 흘러나와 암시장에서 인기리에 팔렸다.\[3\]
+[광복](https://ko.wikipedia.org/wiki/광복 "wikilink")과 [한국전쟁](https://ko.wikipedia.org/wiki/한국전쟁 "wikilink")을 거친 뒤에는 [껌](../Page/껌.md "wikilink"), 과자, [땅콩](../Page/땅콩.md "wikilink"), [베이컨](../Page/베이컨.md "wikilink") 등의 식품과 [비누](../Page/비누.md "wikilink"), [수건](https://ko.wikipedia.org/wiki/수건 "wikilink")이 담긴 [주한 미군의](../Page/주한_미군.md "wikilink") C-레이션이 미군 부대에서 불법적으로 흘러나와 암시장에서 인기리에 팔렸다.\[3\]
 
-[커피](https://ko.wikipedia.org/wiki/커피 "wikilink")는 해방 뒤 미군의 C-레이션을 통해 "설탕 탄 비싼 물"이 일반 대중에게 퍼져나갔다. [회충약](https://ko.wikipedia.org/wiki/회충약 "wikilink")으로 오인되기도 하고, 배곯는 전쟁 중에는 [각성제](../Page/각성제.md "wikilink")로도 인기였다.\[4\]
+[커피](../Page/커피.md "wikilink")는 해방 뒤 미군의 C-레이션을 통해 "설탕 탄 비싼 물"이 일반 대중에게 퍼져나갔다. [회충약](https://ko.wikipedia.org/wiki/회충약 "wikilink")으로 오인되기도 하고, 배곯는 전쟁 중에는 [각성제](../Page/각성제.md "wikilink")로도 인기였다.\[4\]
 
-[한국전쟁](https://ko.wikipedia.org/wiki/한국전쟁 "wikilink")이 발발하고 미군이 진주하면서 1회용 인스턴트 커피가 등장했고, 이것이 유출되면서 [커피](https://ko.wikipedia.org/wiki/커피 "wikilink")가 대한민국에서 일반화 되었다. 미군 전투식량(MRE)에는 인스턴트 [커피](https://ko.wikipedia.org/wiki/커피 "wikilink")가 들어 있었다. 당시 미군으로부터 유출된 인스턴트 커피는 [카페인](https://ko.wikipedia.org/wiki/카페인 "wikilink")이 너무 많이 들어있어, 과음하면 [불면증](../Page/불면증.md "wikilink")에 걸린다는 말이 있었다.\[5\]
+[한국전쟁](https://ko.wikipedia.org/wiki/한국전쟁 "wikilink")이 발발하고 미군이 진주하면서 1회용 인스턴트 커피가 등장했고, 이것이 유출되면서 [커피](../Page/커피.md "wikilink")가 대한민국에서 일반화 되었다. 미군 전투식량(MRE)에는 인스턴트 [커피](../Page/커피.md "wikilink")가 들어 있었다. 당시 미군으로부터 유출된 인스턴트 커피는 [카페인](../Page/카페인.md "wikilink")이 너무 많이 들어있어, 과음하면 [불면증](../Page/불면증.md "wikilink")에 걸린다는 말이 있었다.\[5\]
 
 ## 더 보기
 

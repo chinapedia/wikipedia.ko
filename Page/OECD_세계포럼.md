@@ -62,15 +62,15 @@
 
 :\* 참석대상 및 규모 : OECD, UN, World Bank 등 국제기구, 각국 정상급 인사, 노벨상 수상자, 시민단체, 기업 등 100여 개국에서 1,500여명 참석
 
-:\* 주최 및 주관 : [대한민국 통계청](https://ko.wikipedia.org/wiki/대한민국_통계청 "wikilink"), [OECD](https://ko.wikipedia.org/wiki/OECD "wikilink")
+:\* 주최 및 주관 : [대한민국 통계청](../Page/대한민국_통계청.md "wikilink"), [OECD](https://ko.wikipedia.org/wiki/OECD "wikilink")
 
 :\* 주요 참석예정 연사 :
 
 · [앙헬 구리아](https://ko.wikipedia.org/wiki/앙헬_구리아 "wikilink")(Angel Gurría), [OECD](https://ko.wikipedia.org/wiki/OECD "wikilink") 사무총장
-· [조지프 스티글리츠](../Page/조지프_스티글리츠.md "wikilink")(Joseph Stiglitz), [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [컬럼비아 대학교](https://ko.wikipedia.org/wiki/컬럼비아_대학교 "wikilink") 경제학과 교수, 2001년 [노벨경제학상](https://ko.wikipedia.org/wiki/노벨경제학상 "wikilink") 수상
+· [조지프 스티글리츠](../Page/조지프_스티글리츠.md "wikilink")(Joseph Stiglitz), [미국](../Page/미국.md "wikilink") [컬럼비아 대학교](../Page/컬럼비아_대학교.md "wikilink") 경제학과 교수, 2001년 [노벨경제학상](https://ko.wikipedia.org/wiki/노벨경제학상 "wikilink") 수상
 · [니콜라스 스턴](https://ko.wikipedia.org/wiki/니콜라스_스턴 "wikilink")(Lord Nicholas Stern), [런던 정치경제대학교](../Page/런던_정치경제대학교.md "wikilink") 교수
-· [제프리 삭스](https://ko.wikipedia.org/wiki/제프리_삭스 "wikilink")(Jeffrey D. Sachs), [컬럼비아 대학교](https://ko.wikipedia.org/wiki/컬럼비아_대학교 "wikilink") 경제학 교수
-· [반기문](https://ko.wikipedia.org/wiki/반기문 "wikilink")(Ban Ki-Moon), 전 [UN](https://ko.wikipedia.org/wiki/UN "wikilink") 사무총장
+· [제프리 삭스](https://ko.wikipedia.org/wiki/제프리_삭스 "wikilink")(Jeffrey D. Sachs), [컬럼비아 대학교](../Page/컬럼비아_대학교.md "wikilink") 경제학 교수
+· [반기문](../Page/반기문.md "wikilink")(Ban Ki-Moon), 전 [UN](https://ko.wikipedia.org/wiki/UN "wikilink") 사무총장
 
 :\* 포럼 주제
 

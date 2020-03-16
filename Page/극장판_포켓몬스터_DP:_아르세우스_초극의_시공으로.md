@@ -17,7 +17,7 @@
 
 ### 예매권·배포 포켓몬
 
-본작의 극장판의 예매권과 바꿀 수 있는 포켓몬은 [피츄](https://ko.wikipedia.org/wiki/피츄 "wikilink")이다. 이 피츄는 다른 형태로 진화 후의 모습인 [피카츄](https://ko.wikipedia.org/wiki/피카츄 "wikilink")에 가깝다. 이런은 〈실마리 고담〉(본작으로 [기자미미 피츄를](https://ko.wikipedia.org/wiki/기자미미_피츄 "wikilink") 연기하는[나카가와 쇼코의](https://ko.wikipedia.org/wiki/나카가와_쇼코 "wikilink") 애칭보다 빼앗기고 있다). 일본에서는 극장에서 닌텐도 DS [포켓몬스터Pt 기라티나로](../Page/포켓몬스터Pt_기라티나.md "wikilink") [7월 18일에서](https://ko.wikipedia.org/wiki/7월_18일 "wikilink") [9월 30일까지](https://ko.wikipedia.org/wiki/9월_30일 "wikilink") 무선 통신으로 아르세우스를 배포를 했었다. 한국에서는 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [12월 24일](https://ko.wikipedia.org/wiki/12월_24일 "wikilink") (개봉일)부터 배포를 했었다. 그리고 전국 롯데시네마에서 [아르세우스](../Page/아르세우스.md "wikilink") 라는 환상의 포켓몬을 배포한다. 아르세우스의 필살기, 심판의 뭉치와 디아루가의 필살기, 시간의 포효, 펄기아의 필살기, 공간절단, 기라티나의 필살기, 섀도다이브를 지니고 있고 평범한 게임스토리로는 얻을 수 없는 프레셔볼로 잡혀져 있다.
+본작의 극장판의 예매권과 바꿀 수 있는 포켓몬은 [피츄](https://ko.wikipedia.org/wiki/피츄 "wikilink")이다. 이 피츄는 다른 형태로 진화 후의 모습인 [피카츄](../Page/피카츄.md "wikilink")에 가깝다. 이런은 〈실마리 고담〉(본작으로 [기자미미 피츄를](https://ko.wikipedia.org/wiki/기자미미_피츄 "wikilink") 연기하는[나카가와 쇼코의](../Page/나카가와_쇼코.md "wikilink") 애칭보다 빼앗기고 있다). 일본에서는 극장에서 닌텐도 DS [포켓몬스터Pt 기라티나로](../Page/포켓몬스터Pt_기라티나.md "wikilink") [7월 18일에서](../Page/7월_18일.md "wikilink") [9월 30일까지](../Page/9월_30일.md "wikilink") 무선 통신으로 아르세우스를 배포를 했었다. 한국에서는 [2009년](../Page/2009년.md "wikilink") [12월 24일](../Page/12월_24일.md "wikilink") (개봉일)부터 배포를 했었다. 그리고 전국 롯데시네마에서 [아르세우스](../Page/아르세우스.md "wikilink") 라는 환상의 포켓몬을 배포한다. 아르세우스의 필살기, 심판의 뭉치와 디아루가의 필살기, 시간의 포효, 펄기아의 필살기, 공간절단, 기라티나의 필살기, 섀도다이브를 지니고 있고 평범한 게임스토리로는 얻을 수 없는 프레셔볼로 잡혀져 있다.
 
 ## 주제가
 
@@ -26,7 +26,7 @@
         작사: 토다 쇼고 / 작곡·편곡: 다나카 히로카즈 / 노래: 지우([마츠모토 리카](../Page/마츠모토_리카.md "wikilink"))&빛나([토요구치 메구미](../Page/토요구치_메구미.md "wikilink"))
   - 닫는곡: 〈코코로노 안테나〉 () 한국어 : 시공을 달리다.
       -
-        작사: [마츠모토 타카시](https://ko.wikipedia.org/wiki/마츠모토_타카시 "wikilink") / 작곡: 호소노 하루오미 / 편곡: [시마다 아키노리](https://ko.wikipedia.org/wiki/시마다_아키노리 "wikilink") / 노래: [나카가와 쇼코](https://ko.wikipedia.org/wiki/나카가와_쇼코 "wikilink")
+        작사: [마츠모토 타카시](https://ko.wikipedia.org/wiki/마츠모토_타카시 "wikilink") / 작곡: 호소노 하루오미 / 편곡: [시마다 아키노리](https://ko.wikipedia.org/wiki/시마다_아키노리 "wikilink") / 노래: [나카가와 쇼코](../Page/나카가와_쇼코.md "wikilink")
 
 ## 스토리
 
@@ -37,7 +37,7 @@
 
 ## 관련 항목
 
-  - [포켓몬스터](https://ko.wikipedia.org/wiki/포켓몬스터 "wikilink")
+  - [포켓몬스터](../Page/포켓몬스터.md "wikilink")
   - [포켓몬스터 다이아몬드&펄](../Page/포켓몬스터_DP_\(애니메이션\).md "wikilink")
 
 ## 성우(일본판)
@@ -45,7 +45,7 @@
 자세한 것은 [포켓몬스터의 등장인물을](https://ko.wikipedia.org/wiki/포켓몬스터의_등장인물 "wikilink") 참조.
 
   - [지우](https://ko.wikipedia.org/wiki/지우 "wikilink") ：[마츠모토 리카](../Page/마츠모토_리카.md "wikilink")
-  - [피카츄](https://ko.wikipedia.org/wiki/피카츄 "wikilink"): [오타니 이쿠에](../Page/오타니_이쿠에.md "wikilink")
+  - [피카츄](../Page/피카츄.md "wikilink"): [오타니 이쿠에](../Page/오타니_이쿠에.md "wikilink")
   - [웅](https://ko.wikipedia.org/wiki/웅 "wikilink") : [우에다 유지](../Page/우에다_유지.md "wikilink")
   - [빛나](https://ko.wikipedia.org/wiki/빛나 "wikilink") ：[토요구치 메구미](../Page/토요구치_메구미.md "wikilink")
   - [팽도리](../Page/팽도리.md "wikilink")：[고자쿠라 에쓰코](https://ko.wikipedia.org/wiki/고자쿠라_에쓰코 "wikilink")
@@ -57,14 +57,14 @@
 ### 특별
 
   - [시나](https://ko.wikipedia.org/wiki/시나 "wikilink")：[기타노 기이](https://ko.wikipedia.org/wiki/기타노_기이 "wikilink")(특별 출연)
-  - [케빈](https://ko.wikipedia.org/wiki/케빈 "wikilink"):[기시 유지](https://ko.wikipedia.org/wiki/기시_유지 "wikilink")
+  - [케빈](../Page/케빈.md "wikilink"):[기시 유지](https://ko.wikipedia.org/wiki/기시_유지 "wikilink")
   - [다모스](https://ko.wikipedia.org/wiki/다모스 "wikilink")：[다카시마 마사히로](https://ko.wikipedia.org/wiki/다카시마_마사히로 "wikilink")(특별 출연)
   - [기신](https://ko.wikipedia.org/wiki/기신 "wikilink")：[야마데라 고이치](https://ko.wikipedia.org/wiki/야마데라_고이치 "wikilink")(특별 출연)
 
 ## 등장인물
 
   - 시나
-    성우 - [키타노 키이](https://ko.wikipedia.org/wiki/키타노_키이 "wikilink") / [문남숙](https://ko.wikipedia.org/wiki/문남숙 "wikilink")
+    성우 - [키타노 키이](../Page/키타노_키이.md "wikilink") / [문남숙](../Page/문남숙.md "wikilink")
     미케네 마을의 유적을 지키는 신비의 소녀. **초극하라, 시공의 운명**이라는 신비한 주문을 통해 포켓몬의 마음을 알아볼 수 있지만, 유감스럽게도 포켓몬의 분노가 극에 달하면 시나의 힘이 미치지 못한다고 한다. [디아루가](../Page/디아루가.md "wikilink")의 도움을 받고 있다. 고대 전설에 대해 해박하다.
 
 <!-- end list -->
@@ -82,8 +82,8 @@
 <!-- end list -->
 
   - 삐죽귀 피츄
-    성우 - [나카가와 쇼코](https://ko.wikipedia.org/wiki/나카가와_쇼코 "wikilink") / [유상우](https://ko.wikipedia.org/wiki/유상우_\(성우\) "wikilink")
-    다모스의 파트너. [피카츄](https://ko.wikipedia.org/wiki/피카츄 "wikilink")와 [팽도리](../Page/팽도리.md "wikilink")와 함께 다모스를 구하고자 나선다.
+    성우 - [나카가와 쇼코](../Page/나카가와_쇼코.md "wikilink") / [유상우](../Page/유상우_\(성우\).md "wikilink")
+    다모스의 파트너. [피카츄](../Page/피카츄.md "wikilink")와 [팽도리](../Page/팽도리.md "wikilink")와 함께 다모스를 구하고자 나선다.
 
 <!-- end list -->
 
@@ -122,4 +122,4 @@
 
 [분류:2009년 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:2009년_애니메이션_영화 "wikilink") [분류:포켓몬스터 극장판](https://ko.wikipedia.org/wiki/분류:포켓몬스터_극장판 "wikilink") [분류:일본어 영화 작품](https://ko.wikipedia.org/wiki/분류:일본어_영화_작품 "wikilink") [분류:시간 여행 영화](https://ko.wikipedia.org/wiki/분류:시간_여행_영화 "wikilink") [분류:롯데 엔터테인먼트 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:롯데_엔터테인먼트_애니메이션_영화 "wikilink")
 
-1.  개최지인 [로카르노](../Page/로카르노.md "wikilink")에서는 [8월 10일](https://ko.wikipedia.org/wiki/8월_10일 "wikilink")(현지시간 [8월 9일](https://ko.wikipedia.org/wiki/8월_9일 "wikilink"))에 상영되어 초대된 유야마 쿠니히코나 나카가와 쇼코등이 인사를 했다.[나카가와 쇼코：로카르노 영화제에서 출현. 극장판 〈포켓몬스터〉마이니치 신문](http://mainichi.jp/enta/mantan/graph/anime/20090815/)
+1.  개최지인 [로카르노](../Page/로카르노.md "wikilink")에서는 [8월 10일](../Page/8월_10일.md "wikilink")(현지시간 [8월 9일](../Page/8월_9일.md "wikilink"))에 상영되어 초대된 유야마 쿠니히코나 나카가와 쇼코등이 인사를 했다.[나카가와 쇼코：로카르노 영화제에서 출현. 극장판 〈포켓몬스터〉마이니치 신문](http://mainichi.jp/enta/mantan/graph/anime/20090815/)

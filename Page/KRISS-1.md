@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KRISS-1](https://ko.wikipedia.org/wiki/KRISS-1).
 
 
-**크리스-1**(KRISS-1 Atomic Beam Frequency Standard)은 [한국표준과학연구원](https://ko.wikipedia.org/wiki/한국표준과학연구원 "wikilink")에서 독자적으로 개발한 [세슘](https://ko.wikipedia.org/wiki/세슘 "wikilink") [원자 시계이다](https://ko.wikipedia.org/wiki/원자_시계 "wikilink").
+**크리스-1**(KRISS-1 Atomic Beam Frequency Standard)은 [한국표준과학연구원](../Page/한국표준과학연구원.md "wikilink")에서 독자적으로 개발한 [세슘](../Page/세슘.md "wikilink") [원자 시계이다](https://ko.wikipedia.org/wiki/원자_시계 "wikilink").
 
 ## 정확성
 

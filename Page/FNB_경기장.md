@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [FNB ](https://ko.wikipedia.org/wiki/FNB_).
 
 
-**FNB 경기장**(FNB Stadium)는 [남아프리카 공화국의](https://ko.wikipedia.org/wiki/남아프리카_공화국 "wikilink") [요하네스버그](../Page/요하네스버그.md "wikilink")에 위치한 축구 전용경기장이다.
+**FNB 경기장**(FNB Stadium)는 [남아프리카 공화국의](../Page/남아프리카_공화국.md "wikilink") [요하네스버그](../Page/요하네스버그.md "wikilink")에 위치한 축구 전용경기장이다.
 
-1989년 [남아프리카 공화국의](https://ko.wikipedia.org/wiki/남아프리카_공화국 "wikilink") [요하네스버그](../Page/요하네스버그.md "wikilink")에서 개장한 경기장으로 원래 8만 명을 수용했으나 월드컵을 위해 보수 및 증축하여 현재 94,700명을 수용할 수 있다. 사커 시티는 남아프리카공화국 월드컵 경기장 중 가장 많은 인원을 수용할 수 있는 경기장이다. [2010년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵 "wikilink") 대회의 개막전과 결승전이 열렸던 곳이다. 또한, [2013년 아프리카 네이션스컵의](https://ko.wikipedia.org/wiki/2013년_아프리카_네이션스컵 "wikilink") 개막전과 결승전이 이 경기장에서 열렸으며 [넬슨 만델라의](https://ko.wikipedia.org/wiki/넬슨_만델라 "wikilink") 영결식 또한 이곳에서 열렸다.
+1989년 [남아프리카 공화국의](../Page/남아프리카_공화국.md "wikilink") [요하네스버그](../Page/요하네스버그.md "wikilink")에서 개장한 경기장으로 원래 8만 명을 수용했으나 월드컵을 위해 보수 및 증축하여 현재 94,700명을 수용할 수 있다. 사커 시티는 남아프리카공화국 월드컵 경기장 중 가장 많은 인원을 수용할 수 있는 경기장이다. [2010년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵 "wikilink") 대회의 개막전과 결승전이 열렸던 곳이다. 또한, [2013년 아프리카 네이션스컵의](https://ko.wikipedia.org/wiki/2013년_아프리카_네이션스컵 "wikilink") 개막전과 결승전이 이 경기장에서 열렸으며 [넬슨 만델라의](../Page/넬슨_만델라.md "wikilink") 영결식 또한 이곳에서 열렸다.
 
 ## 개요
 
@@ -45,7 +45,7 @@
 <td></td>
 <td><p>1-1</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵_A조" title="wikilink">A조</a> (개막전)</p></td>
+<td><p><a href="../Page/2010년_FIFA_월드컵_A조.md" title="wikilink">A조</a> (개막전)</p></td>
 <td><p>84,490</p></td>
 </tr>
 <tr class="even">
@@ -54,7 +54,7 @@
 <td></td>
 <td><p>2-0</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵_E조" title="wikilink">E조</a></p></td>
+<td><p><a href="../Page/2010년_FIFA_월드컵_E조.md" title="wikilink">E조</a></p></td>
 <td><p>83,465</p></td>
 </tr>
 <tr class="odd">
@@ -63,7 +63,7 @@
 <td></td>
 <td><p>4-1</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵_B조" title="wikilink">B조</a></p></td>
+<td><p><a href="../Page/2010년_FIFA_월드컵_B조.md" title="wikilink">B조</a></p></td>
 <td><p>82,174</p></td>
 </tr>
 <tr class="even">
@@ -72,7 +72,7 @@
 <td></td>
 <td><p>3-1</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵_G조" title="wikilink">G조</a></p></td>
+<td><p><a href="../Page/2010년_FIFA_월드컵_G조.md" title="wikilink">G조</a></p></td>
 <td><p>84,455</p></td>
 </tr>
 <tr class="odd">
@@ -81,7 +81,7 @@
 <td></td>
 <td><p>0-1</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵_D조" title="wikilink">D조</a></p></td>
+<td><p><a href="../Page/2010년_FIFA_월드컵_D조.md" title="wikilink">D조</a></p></td>
 <td><p>83,391</p></td>
 </tr>
 <tr class="even">
@@ -90,7 +90,7 @@
 <td></td>
 <td><p>3-1</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵_결선_토너먼트" title="wikilink">16강전</a></p></td>
+<td><p><a href="../Page/2010년_FIFA_월드컵_결선_토너먼트.md" title="wikilink">16강전</a></p></td>
 <td><p>84,377</p></td>
 </tr>
 <tr class="odd">
@@ -99,7 +99,7 @@
 <td></td>
 <td><p>1-1 (4-2 <a href="../Page/승부차기.md" title="wikilink">PK</a>)</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵_결선_토너먼트" title="wikilink">8강전</a></p></td>
+<td><p><a href="../Page/2010년_FIFA_월드컵_결선_토너먼트.md" title="wikilink">8강전</a></p></td>
 <td><p>84,017</p></td>
 </tr>
 <tr class="even">
@@ -108,7 +108,7 @@
 <td></td>
 <td><p>0-1 (<a href="../Page/연장전.md" title="wikilink">연장</a>)</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵_결승전" title="wikilink">결승전</a></p></td>
+<td><p><a href="../Page/2010년_FIFA_월드컵_결승전.md" title="wikilink">결승전</a></p></td>
 <td><p>84,490</p></td>
 </tr>
 </tbody>

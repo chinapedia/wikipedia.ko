@@ -3,11 +3,11 @@
 
 **타이탄 IV**는 [미국 공군의](../Page/미국_공군.md "wikilink") 우주발사체이다.\[1\]
 
-[미국 공군의](../Page/미국_공군.md "wikilink") 타이탄 IV 로켓은 [플로리다주](https://ko.wikipedia.org/wiki/플로리다주 "wikilink")의 [케이프커내버럴 공군 기지와](https://ko.wikipedia.org/wiki/케이프커내버럴_공군_기지 "wikilink") [캘리포니아주](https://ko.wikipedia.org/wiki/캘리포니아주 "wikilink")의 [반덴버그 공군 기지에서](https://ko.wikipedia.org/wiki/반덴버그_공군_기지 "wikilink") 발사된다.\[2\]\[3\]
+[미국 공군의](../Page/미국_공군.md "wikilink") 타이탄 IV 로켓은 [플로리다주](../Page/플로리다주.md "wikilink")의 [케이프커내버럴 공군 기지와](https://ko.wikipedia.org/wiki/케이프커내버럴_공군_기지 "wikilink") [캘리포니아주](../Page/캘리포니아주.md "wikilink")의 [반덴버그 공군 기지에서](https://ko.wikipedia.org/wiki/반덴버그_공군_기지 "wikilink") 발사된다.\[2\]\[3\]
 
 2005년에 퇴역했다. 마지막 발사는 Titan IVB-30 로켓이며 2005년 4월 25일 [케이프커내버럴 공군 기지에서](https://ko.wikipedia.org/wiki/케이프커내버럴_공군_기지 "wikilink") 발사되었다. [반덴버그 공군 기지에서](https://ko.wikipedia.org/wiki/반덴버그_공군_기지 "wikilink") 마지막으로 발사된 것은 2005년 10월 19일이었다.\[4\]
 
-2005년 이후 부터는 [록히드 마틴의](https://ko.wikipedia.org/wiki/록히드_마틴 "wikilink") [아틀라스 V](https://ko.wikipedia.org/wiki/아틀라스_V "wikilink") 로켓과 [보잉](https://ko.wikipedia.org/wiki/보잉 "wikilink")의 [델타 IV](https://ko.wikipedia.org/wiki/델타_IV "wikilink") 로켓이 발사되고 있다.
+2005년 이후 부터는 [록히드 마틴의](../Page/록히드_마틴.md "wikilink") [아틀라스 V](https://ko.wikipedia.org/wiki/아틀라스_V "wikilink") 로켓과 [보잉](../Page/보잉.md "wikilink")의 [델타 IV](../Page/델타_IV.md "wikilink") 로켓이 발사되고 있다.
 
 ## 기능
 

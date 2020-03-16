@@ -11,7 +11,7 @@
 
 ## 발자취
 
-1998년 자주 제작의 싱글 《Jealous》, 《-I'll-》이 [오리콘](../Page/오리콘.md "wikilink") 음악차트의 10위 권 안에 진입하며 주류 음악계의 주목을 받고, 이후로 꾸준히 활동하고 있다. 한편, 2001년 [한국](https://ko.wikipedia.org/wiki/한국 "wikilink"), [중국](https://ko.wikipedia.org/wiki/중국 "wikilink"), [대만을](https://ko.wikipedia.org/wiki/중화민국 "wikilink") 도는 첫 해외투어를 가진 것을 시작으로, 2005년부터는 [유럽](https://ko.wikipedia.org/wiki/유럽 "wikilink")과 [북미에서의](https://ko.wikipedia.org/wiki/북아메리카 "wikilink") 해외활동도 활발하다. 발매된 앨범이 해당 국가의 차트에서 호조를 기록하고 (앨범 《Withering to death.》는 [핀란드](https://ko.wikipedia.org/wiki/핀란드 "wikilink"), [독일](https://ko.wikipedia.org/wiki/독일 "wikilink")에서 각각 10위, 7위, 2006년 5월 24일자 미국 [빌보드](https://ko.wikipedia.org/wiki/빌보드 "wikilink") 주간 인디펜던트 차트에서 42위를 기록), [록 암 링과](../Page/록_암_링.md "wikilink") 록 임 파크를 비롯한 대형 록 페스티벌에 참가, 그 외 단독 투어를 갖는 등 긍정적인 성과를 거두고 있다.
+1998년 자주 제작의 싱글 《Jealous》, 《-I'll-》이 [오리콘](../Page/오리콘.md "wikilink") 음악차트의 10위 권 안에 진입하며 주류 음악계의 주목을 받고, 이후로 꾸준히 활동하고 있다. 한편, 2001년 [한국](../Page/한국.md "wikilink"), [중국](../Page/중국.md "wikilink"), [대만을](../Page/중화민국.md "wikilink") 도는 첫 해외투어를 가진 것을 시작으로, 2005년부터는 [유럽](../Page/유럽.md "wikilink")과 [북미에서의](../Page/북아메리카.md "wikilink") 해외활동도 활발하다. 발매된 앨범이 해당 국가의 차트에서 호조를 기록하고 (앨범 《Withering to death.》는 [핀란드](../Page/핀란드.md "wikilink"), [독일](../Page/독일.md "wikilink")에서 각각 10위, 7위, 2006년 5월 24일자 미국 [빌보드](../Page/빌보드.md "wikilink") 주간 인디펜던트 차트에서 42위를 기록), [록 암 링과](../Page/록_암_링.md "wikilink") 록 임 파크를 비롯한 대형 록 페스티벌에 참가, 그 외 단독 투어를 갖는 등 긍정적인 성과를 거두고 있다.
 
 ## 특징
 
@@ -23,23 +23,23 @@
 
   - **쿄** (京) 보컬
 
-1976년 2월 16일, [교토부](https://ko.wikipedia.org/wiki/교토부 "wikilink") 출신
+1976년 2월 16일, [교토부](../Page/교토부.md "wikilink") 출신
 
   - **카오루** (薫) 기타
 
-1974년 2월 17일, [효고현](https://ko.wikipedia.org/wiki/효고현 "wikilink") 출신, 그룹의 리더
+1974년 2월 17일, [효고현](../Page/효고현.md "wikilink") 출신, 그룹의 리더
 
   - **다이** (Die) 기타
 
-1974년 12월 20일 [미에현](https://ko.wikipedia.org/wiki/미에현 "wikilink") 나바리 시 출신
+1974년 12월 20일 [미에현](../Page/미에현.md "wikilink") 나바리 시 출신
 
   - **토시야** (Toshiya) 베이스
 
-1977년 3월 31일 [나가노현](https://ko.wikipedia.org/wiki/나가노현 "wikilink") 치쿠마 시 출신
+1977년 3월 31일 [나가노현](../Page/나가노현.md "wikilink") 치쿠마 시 출신
 
   - **신야** (Shinya) 드럼
 
-1978년 2월 24일 [오사카부](https://ko.wikipedia.org/wiki/오사카부 "wikilink") [히라카타 시](https://ko.wikipedia.org/wiki/히라카타_시 "wikilink") 출신
+1978년 2월 24일 [오사카부](../Page/오사카부.md "wikilink") [히라카타 시](https://ko.wikipedia.org/wiki/히라카타_시 "wikilink") 출신
 
 ## 음반목록
 

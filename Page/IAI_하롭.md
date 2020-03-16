@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [IAI ](https://ko.wikipedia.org/wiki/IAI_).
 
 
-**IAI 하롭**(IAI Harop) 또는 **하피2**(IAI Harpy 2)라고 불리는 [무인전투기](https://ko.wikipedia.org/wiki/무인전투기 "wikilink")(UCAV)로 [이스라엘](https://ko.wikipedia.org/wiki/이스라엘 "wikilink") 항공국 산하의 말랏(UAV)에 의해 개발되었다. 분리된 고폭탄두를 가지고 있으며, 무인 비행기 자체가 폭탄이다. 이 헌터 킬러는 체공비행을 하다가 목표에 자폭하도록 설계되어 있다. IAI는 항공 방어에 적을 제압할 목적으로 개발하였으며, 주로 레이다 등이 목표가 된다.
+**IAI 하롭**(IAI Harop) 또는 **하피2**(IAI Harpy 2)라고 불리는 [무인전투기](https://ko.wikipedia.org/wiki/무인전투기 "wikilink")(UCAV)로 [이스라엘](../Page/이스라엘.md "wikilink") 항공국 산하의 말랏(UAV)에 의해 개발되었다. 분리된 고폭탄두를 가지고 있으며, 무인 비행기 자체가 폭탄이다. 이 헌터 킬러는 체공비행을 하다가 목표에 자폭하도록 설계되어 있다. IAI는 항공 방어에 적을 제압할 목적으로 개발하였으며, 주로 레이다 등이 목표가 된다.
 
 ## 개요
 

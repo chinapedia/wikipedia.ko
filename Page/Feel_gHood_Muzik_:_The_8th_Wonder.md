@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Feel gHood Muzik : The 8th Wonder](https://ko.wikipedia.org/wiki/Feel_gHood_Muzik_:_The_8th_Wonder).
 
 
-《**Feel gHood Muzik : The 8th Wonder**》는 2009년 6월 29일에 발매된 [드렁큰 타이거의](https://ko.wikipedia.org/wiki/드렁큰_타이거 "wikilink") 정규 8집 앨범이다.
+《**Feel gHood Muzik : The 8th Wonder**》는 2009년 6월 29일에 발매된 [드렁큰 타이거의](../Page/드렁큰_타이거.md "wikilink") 정규 8집 앨범이다.
 
 ## 수록곡
 
@@ -32,11 +32,11 @@
 1.  **Monster (Korean Ver.)**
 2.  죽기 전에 죽지 않아 (What U want) (<small>Featuring [Bizzy](../Page/비지_\(가수\).md "wikilink"), [Paloalto](../Page/팔로알토_\(가수\).md "wikilink")</small>)
 3.  Rebel Music
-4.  내 눈을 쳐다봐 (<small>Featuring [Bizzy](../Page/비지_\(가수\).md "wikilink"), [YDG](https://ko.wikipedia.org/wiki/양동근 "wikilink"), [정인](../Page/정인_\(가수\).md "wikilink")</small>)
+4.  내 눈을 쳐다봐 (<small>Featuring [Bizzy](../Page/비지_\(가수\).md "wikilink"), [YDG](../Page/양동근.md "wikilink"), [정인](../Page/정인_\(가수\).md "wikilink")</small>)
 5.  주파수 (<small>Featuring [화나](../Page/화나.md "wikilink")</small>)
 6.  Freaky Deaky Superstar (<small>Featuring Jungsshin, Sun</small>)
 7.  비벼대 (<small>Featuring 1kyne, [Bizzy](../Page/비지_\(가수\).md "wikilink"), [Paloalto](../Page/팔로알토_\(가수\).md "wikilink"), YangGang, Sama-D</small>)
-8.  Die Legend 2 (<small>Featuring [다이나믹 듀오](https://ko.wikipedia.org/wiki/다이나믹_듀오 "wikilink"), [Dok2](https://ko.wikipedia.org/wiki/Dok2 "wikilink") a.k.a Gonzo Tha Notorious Kid</small>)
+8.  Die Legend 2 (<small>Featuring [다이나믹 듀오](../Page/다이나믹_듀오.md "wikilink"), [Dok2](https://ko.wikipedia.org/wiki/Dok2 "wikilink") a.k.a Gonzo Tha Notorious Kid</small>)
 9.  Jet Pack (English Ver.) (<small>Featuring Sef Cobane, Zeebra</small>)
 10. Rest In Peace (Question) (<small>Featuring Ann</small>)
 11. Three Kingz (<small>Featuring Stylistic Jones</small>)

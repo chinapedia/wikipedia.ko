@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [US  ](https://ko.wikipedia.org/wiki/US__).
 
 
-**US 오픈 시리즈**(US Open Series)는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [뉴욕](https://ko.wikipedia.org/wiki/뉴욕 "wikilink")에서 열리는 [그랜드 슬램](../Page/그랜드_슬램_\(테니스\).md "wikilink") 대회인 [US 오픈이](../Page/US_오픈_\(테니스\).md "wikilink") 열리기 전 6주간에 걸쳐 10개의 [ATP 투어](../Page/프로_테니스_협회.md "wikilink") 대회와 [소니 에릭슨 WTA 투어](../Page/여자_테니스_협회.md "wikilink") 대회가 연속으로 열리는 [테니스](https://ko.wikipedia.org/wiki/테니스 "wikilink") 시즌을 가리킨다. **U.S. 또는 북미 하드 코트 시즌**이라고 불리기도 한다.
+**US 오픈 시리즈**(US Open Series)는 [미국](../Page/미국.md "wikilink") [뉴욕](../Page/뉴욕.md "wikilink")에서 열리는 [그랜드 슬램](../Page/그랜드_슬램_\(테니스\).md "wikilink") 대회인 [US 오픈이](../Page/US_오픈_\(테니스\).md "wikilink") 열리기 전 6주간에 걸쳐 10개의 [ATP 투어](../Page/프로_테니스_협회.md "wikilink") 대회와 [소니 에릭슨 WTA 투어](../Page/여자_테니스_협회.md "wikilink") 대회가 연속으로 열리는 [테니스](../Page/테니스.md "wikilink") 시즌을 가리킨다. **U.S. 또는 북미 하드 코트 시즌**이라고 불리기도 한다.
 
 US 오픈 시리즈는 미국 테니스 대회들의 미국내 TV 방송 중계 빈도를 높여 테니스 대회에 대한 관심도와 인기도를 제고하기 위한 목적에서 [2004](https://ko.wikipedia.org/wiki/2004 "wikilink")년 구성되었다. [캐나다 마스터즈와](https://ko.wikipedia.org/wiki/캐나다_마스터즈 "wikilink") [신시내티 마스터즈와](https://ko.wikipedia.org/wiki/신시내티_마스터즈 "wikilink") 같이 매우 유명한 [ATP 마스터스 시리즈](https://ko.wikipedia.org/wiki/ATP_마스터스_시리즈 "wikilink") 대회를 제외하면, 2004년까지 북미지역에서 여름에 열리는 대부분의 대회들은 TV를 통해 중계되지 않고 있었다.
 
@@ -32,7 +32,7 @@ New Haven</p></th>
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/2004_ATP_투어" title="wikilink">04</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/토미_하스" title="wikilink">하스</a> <small>(1/2)</p></td>
+<td><p><a href="../Page/토미_하스.md" title="wikilink">하스</a> <small>(1/2)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/앤디_로딕" title="wikilink">로딕</a> <small>(1/4)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/레이튼_휴이트" title="wikilink">휴이트</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/로저_페더러" title="wikilink">페더러</a> <small>(1/4)</p></td>
@@ -111,7 +111,7 @@ New Haven</p></th>
 <td><p><a href="https://ko.wikipedia.org/wiki/린제이_데이븐포트" title="wikilink">데이븐포트</a> <small>(1/4)</p></td>
 <td><p>데이븐포트 <small>(2/4)</p></td>
 <td><p>데이븐포트 <small>(3/4)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아멜리_모레스모" title="wikilink">모레스모</a></p></td>
+<td><p><a href="../Page/아멜리_모레스모.md" title="wikilink">모레스모</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/엘레나_보비나" title="wikilink">보비나</a></p></td>
 </tr>
 <tr class="even">

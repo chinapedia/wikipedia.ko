@@ -8,7 +8,7 @@
   - **MGR-1A** 사거리 48 km, 추력 400 [kN](https://ko.wikipedia.org/wiki/kN "wikilink"), 중량 2,720 kg, 직경 580 mm, 길이 8.32 m.
   - **MGR-1B** 사거리 37 km, 추력 382 [kN](https://ko.wikipedia.org/wiki/kN "wikilink"), 중량 2,040 kg, 직경 760 mm, 길이 7.56 m.
 
-총 7000개 이상의 생산을 마치고, 어네스트존 개량형의 생산은 [1965년](https://ko.wikipedia.org/wiki/1965년 "wikilink")에 중단되어 [1973년](https://ko.wikipedia.org/wiki/1973년 "wikilink") [랜스 미사일로](https://ko.wikipedia.org/wiki/랜스_미사일 "wikilink") 교체되었다. 그러나 [나토](https://ko.wikipedia.org/wiki/나토 "wikilink")와 유럽과 미국 주방위군에는 [1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink")까지 사용되었다.
+총 7000개 이상의 생산을 마치고, 어네스트존 개량형의 생산은 [1965년](../Page/1965년.md "wikilink")에 중단되어 [1973년](../Page/1973년.md "wikilink") [랜스 미사일로](https://ko.wikipedia.org/wiki/랜스_미사일 "wikilink") 교체되었다. 그러나 [나토](https://ko.wikipedia.org/wiki/나토 "wikilink")와 유럽과 미국 주방위군에는 [1982년](../Page/1982년.md "wikilink")까지 사용되었다.
 
 ## 북한과 비교
 

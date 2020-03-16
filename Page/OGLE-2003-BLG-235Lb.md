@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [OGLE-2003-BLG-235Lb](https://ko.wikipedia.org/wiki/OGLE-2003-BLG-235Lb).
 
 
-**OGLE-2003-BLG-235Lb**는 2004년 4월 OGLE과 MOA의 공동 연구를 통해 발견된 [외계 행성이다](https://ko.wikipedia.org/wiki/외계_행성 "wikilink"). 질량은 [목성](../Page/목성.md "wikilink")의 2.6배 정도로, 목성과 겉모습이 비슷한 [가스 행성일](https://ko.wikipedia.org/wiki/가스_행성 "wikilink") 것으로 추측된다. 어머니 항성으로부터 약 4.3천문단위 떨어진 곳을 돌고 있는데, 이는 우리 태양계에 대입할 경우 화성과 목성 사이 거리에 해당된다.\[1\]
+**OGLE-2003-BLG-235Lb**는 2004년 4월 OGLE과 MOA의 공동 연구를 통해 발견된 [외계 행성이다](../Page/외계_행성.md "wikilink"). 질량은 [목성](../Page/목성.md "wikilink")의 2.6배 정도로, 목성과 겉모습이 비슷한 [가스 행성일](https://ko.wikipedia.org/wiki/가스_행성 "wikilink") 것으로 추측된다. 어머니 항성으로부터 약 4.3천문단위 떨어진 곳을 돌고 있는데, 이는 우리 태양계에 대입할 경우 화성과 목성 사이 거리에 해당된다.\[1\]
 
 ## 참고 문헌
 

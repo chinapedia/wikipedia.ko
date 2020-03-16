@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Missing \(\)](https://ko.wikipedia.org/wiki/Missing_\(\)).
 
 
-《**Missing**》(미씽)은 [일본](../Page/일본.md "wikilink")의 작가 [코다 가쿠토가](https://ko.wikipedia.org/wiki/코다_가쿠토 "wikilink") 쓰고, [미도리카와 신이](https://ko.wikipedia.org/wiki/미도리카와_신 "wikilink") 일러스트를 담당한 [라이트 노벨이다](https://ko.wikipedia.org/wiki/라이트_노벨 "wikilink"). [전격 문고](https://ko.wikipedia.org/wiki/전격_문고 "wikilink")([아스키 미디어 웍스](https://ko.wikipedia.org/wiki/아스키_미디어_웍스 "wikilink"))에서 [2001년 7월부터](https://ko.wikipedia.org/wiki/2001년_7월 "wikilink") [2005년 6월까지](https://ko.wikipedia.org/wiki/2005년_6월 "wikilink") 전 13권이 발행되었다. [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 [L 노벨](../Page/L_노벨.md "wikilink")([디앤씨미디어](https://ko.wikipedia.org/wiki/디앤씨미디어 "wikilink"))이 미도리카와 신이 계약을 거부하여 [pecorin](https://ko.wikipedia.org/wiki/pecorin "wikilink")이 그린 일러스트를 수록하여 출판되고 있다.
+《**Missing**》(미씽)은 [일본](../Page/일본.md "wikilink")의 작가 [코다 가쿠토가](https://ko.wikipedia.org/wiki/코다_가쿠토 "wikilink") 쓰고, [미도리카와 신이](https://ko.wikipedia.org/wiki/미도리카와_신 "wikilink") 일러스트를 담당한 [라이트 노벨이다](../Page/라이트_노벨.md "wikilink"). [전격 문고](https://ko.wikipedia.org/wiki/전격_문고 "wikilink")([아스키 미디어 웍스](https://ko.wikipedia.org/wiki/아스키_미디어_웍스 "wikilink"))에서 [2001년 7월부터](https://ko.wikipedia.org/wiki/2001년_7월 "wikilink") [2005년 6월까지](../Page/2005년_6월.md "wikilink") 전 13권이 발행되었다. [대한민국](../Page/대한민국.md "wikilink")에서는 [L 노벨](../Page/L_노벨.md "wikilink")([디앤씨미디어](https://ko.wikipedia.org/wiki/디앤씨미디어 "wikilink"))이 미도리카와 신이 계약을 거부하여 [pecorin](https://ko.wikipedia.org/wiki/pecorin "wikilink")이 그린 일러스트를 수록하여 출판되고 있다.
 
 일본에서는 《야마(夜魔)》라는 소설 번외편과 《카미카쿠시 이야기》라는 만화책이 출간되었고, 라디오방송 《전격대상》에서 방송된 라디오 드라마의 CD도 발매되고 있다.
 
@@ -239,11 +239,11 @@
     콘도 타케미：[호시 소이치로](../Page/호시_소이치로.md "wikilink")
     우츠메 쿄이치：[미도리카와 히카루](../Page/미도리카와_히카루.md "wikilink")
     아야메：[미즈시로 레나](https://ko.wikipedia.org/wiki/미즈시로_레나 "wikilink")
-    무라카미 토시야：[노지마 켄지](https://ko.wikipedia.org/wiki/노지마_켄지_\(성우\) "wikilink")
+    무라카미 토시야：[노지마 켄지](../Page/노지마_켄지_\(성우\).md "wikilink")
     키도노 아키：[타무라 유카리](../Page/타무라_유카리.md "wikilink")
     쿠사카베 료코：[카와카미 토모코](../Page/카와카미_토모코.md "wikilink")
     토가노 요미코：[오오모토 마키코](https://ko.wikipedia.org/wiki/오오모토_마키코 "wikilink")
-    진노 카게유키：[이나다 테츠](https://ko.wikipedia.org/wiki/이나다_테츠 "wikilink")
+    진노 카게유키：[이나다 테츠](../Page/이나다_테츠.md "wikilink")
     하가 미키히코：[타나카 히데유키](https://ko.wikipedia.org/wiki/타나카_히데유키 "wikilink")
 
 [분류:전격 문고](https://ko.wikipedia.org/wiki/분류:전격_문고 "wikilink") [분류:L 노벨](https://ko.wikipedia.org/wiki/분류:L_노벨 "wikilink")

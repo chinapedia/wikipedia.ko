@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Ciel \~The Last Autumn Story\~](https://ko.wikipedia.org/wiki/Ciel_\~The_Last_Autumn_Story\~).
 
 
-《**Ciel \~The Last Autumn Story\~**》(이하 《Ciel》)은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [만화가](https://ko.wikipedia.org/wiki/만화가 "wikilink") [임주연](../Page/임주연.md "wikilink")의 장편만화이다. 월간 만화잡지 《issue》(이슈)에서 연재했으며 《issue》2013년 9월호, 단행본으로는 23권을 마지막으로 완결되었다.
+《**Ciel \~The Last Autumn Story\~**》(이하 《Ciel》)은 [대한민국](../Page/대한민국.md "wikilink")의 [만화가](https://ko.wikipedia.org/wiki/만화가 "wikilink") [임주연](../Page/임주연.md "wikilink")의 장편만화이다. 월간 만화잡지 《issue》(이슈)에서 연재했으며 《issue》2013년 9월호, 단행본으로는 23권을 마지막으로 완결되었다.
 
 《Ciel》의 프리퀄(prequel)로 단편집《어느 비리공무원의 고백》에 게재된 단편들이 있다. 위 작품들은 같은 세계관을 공유하고 일부 등장인물이 겹친다.
 

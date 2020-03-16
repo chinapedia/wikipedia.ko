@@ -5,7 +5,7 @@
 
 ## 설명
 
-  - [TBS의](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink") [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [FIFA 월드컵](https://ko.wikipedia.org/wiki/FIFA_월드컵 "wikilink") 중계 방송의 주제곡으로 타이업 되었다. 멤버 [고쿠분 타이치나](../Page/고쿠분_타이치.md "wikilink") [마츠오카 마사히로는](https://ko.wikipedia.org/wiki/마츠오카_마사히로 "wikilink") “모두 어깨동무하고, 함께 합창하는 하기에 기분 좋은 곡”이라고 설명하였다.
+  - [TBS의](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink") [2006년](../Page/2006년.md "wikilink") [FIFA 월드컵](https://ko.wikipedia.org/wiki/FIFA_월드컵 "wikilink") 중계 방송의 주제곡으로 타이업 되었다. 멤버 [고쿠분 타이치나](../Page/고쿠분_타이치.md "wikilink") [마츠오카 마사히로는](https://ko.wikipedia.org/wiki/마츠오카_마사히로 "wikilink") “모두 어깨동무하고, 함께 합창하는 하기에 기분 좋은 곡”이라고 설명하였다.
   - 본래는 통상반·첫회반A·B형식로 3가지 타입으로 발매 계획이었으나, 갑작스럽게 첫회반 C 발매를 결정하여 총 4개의 타입으로 발매되었다.
   - TOKIO의 라이브하우스 (live house) 투어 제목의 서브타이틀로 사용되었다. 「TOKIO Special GIGs 2006∼Get Your Dream∼」
 

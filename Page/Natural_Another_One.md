@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Natural Another One](https://ko.wikipedia.org/wiki/Natural_Another_One).
 
 
-《**Natural Another One**》(내츄럴 어나더 원)은 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [9월 26일에](https://ko.wikipedia.org/wiki/9월_26일 "wikilink") F\&C FC03으로부터 발매된 18금 연애 어드벤처 게임이다. **NAO**라고 줄여서 부르는 경우도 있다.
+《**Natural Another One**》(내츄럴 어나더 원)은 [2003년](../Page/2003년.md "wikilink") [9월 26일에](../Page/9월_26일.md "wikilink") F\&C FC03으로부터 발매된 18금 연애 어드벤처 게임이다. **NAO**라고 줄여서 부르는 경우도 있다.
 
-본 항목에선 [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [10월 28일에](https://ko.wikipedia.org/wiki/10월_28일 "wikilink") DreamSoft로부터 발매된 속편《**Natural Another One 2nd -Belladonna-**》에 대해서도 설명한다.
+본 항목에선 [2005년](../Page/2005년.md "wikilink") [10월 28일에](../Page/10월_28일.md "wikilink") DreamSoft로부터 발매된 속편《**Natural Another One 2nd -Belladonna-**》에 대해서도 설명한다.
 
 ## Natural Another One
 
@@ -14,7 +14,7 @@
   - 카자하야 카오루()
     본작의 주인공이면서 플레이어의 분신.
   - 코가와 미사오()
-    [성우](https://ko.wikipedia.org/wiki/성우 "wikilink") - [나루세 미아](https://ko.wikipedia.org/wiki/나루세_미아 "wikilink")
+    [성우](../Page/성우.md "wikilink") - [나루세 미아](https://ko.wikipedia.org/wiki/나루세_미아 "wikilink")
     주인공이 맡고 있는 예비교의 학생. 주인공을 좋아하는 나머지 스스로 노예가 된 소녀.
   - 마키세 하루카()
     성우 - 혼마 유카리
@@ -46,43 +46,43 @@
 ### 등장인물
 
   - 카자하야 소우헤이()
-    [2월 3일생](https://ko.wikipedia.org/wiki/2월_3일 "wikilink"). 주인공. 대학생이지만 그렇게 얼굴을 내밀지 않는다. 여성편력이 많지만 이츠키에 대하여는 헤어진 후 특별한 감정을 가지고 있다.
+    [2월 3일생](../Page/2월_3일.md "wikilink"). 주인공. 대학생이지만 그렇게 얼굴을 내밀지 않는다. 여성편력이 많지만 이츠키에 대하여는 헤어진 후 특별한 감정을 가지고 있다.
 
 <!-- end list -->
 
   - 야치구사 이츠키()
     성우 - [카와시마 리노](../Page/미즈사와_케이.md "wikilink")
-    [12월 3일생](https://ko.wikipedia.org/wiki/12월_3일 "wikilink"). 소우헤이와는 예전에 알고 지낸 사이였지만, 집의 사정때문에 류조우의 아내가 되었다. 그런 까닭에 유산상속순위가 제일 높게되어 있다.
+    [12월 3일생](../Page/12월_3일.md "wikilink"). 소우헤이와는 예전에 알고 지낸 사이였지만, 집의 사정때문에 류조우의 아내가 되었다. 그런 까닭에 유산상속순위가 제일 높게되어 있다.
 
 <!-- end list -->
 
   - 스즈리 아오바()
     성우 - [카자네](../Page/사쿠라이_하루미.md "wikilink")
-    [7월 19일생](https://ko.wikipedia.org/wiki/7월_19일 "wikilink"). 야치구사가의 메이드.
+    [7월 19일생](../Page/7월_19일.md "wikilink"). 야치구사가의 메이드.
 
 <!-- end list -->
 
   - 야치구사 쿄우카()
     성우 - 나카야 시호
-    [3월 24일생](https://ko.wikipedia.org/wiki/3월_24일 "wikilink"). 류조우의 딸로 쌍둥이중 언니. 어릴 적 사고의 영향으로 말을 하지 못한다. 소우헤이는 표면적으로는 그녀의 가정교사라는 입장.
+    [3월 24일생](../Page/3월_24일.md "wikilink"). 류조우의 딸로 쌍둥이중 언니. 어릴 적 사고의 영향으로 말을 하지 못한다. 소우헤이는 표면적으로는 그녀의 가정교사라는 입장.
 
 <!-- end list -->
 
   - 야치구사 미츠네()
     성우 - 나카야 시호
-    [3월 24일생](https://ko.wikipedia.org/wiki/3월_24일 "wikilink"). 류조우의 딸로 쌍둥이중 동생. 어릴 적 사고의 영향으로 밝은 곳에선 눈이 보이지 않는다.
+    [3월 24일생](../Page/3월_24일.md "wikilink"). 류조우의 딸로 쌍둥이중 동생. 어릴 적 사고의 영향으로 밝은 곳에선 눈이 보이지 않는다.
 
 <!-- end list -->
 
   - 츠키하라 미소노()
     성우 - 요시카와 카나
-    [10월 23일생](https://ko.wikipedia.org/wiki/10월_23일 "wikilink"). 대학 선배.
+    [10월 23일생](../Page/10월_23일.md "wikilink"). 대학 선배.
 
 <!-- end list -->
 
   - 야치구사 테츠오()
     성우 - 아라키 유키오
-    [10월 20일생](https://ko.wikipedia.org/wiki/10월_20일 "wikilink"). 소우헤이가 다니는 대학의 이사. 류조우의 장남인 까닭에 본래대로 라면 유산 상속순위가 높겠지만 실제론 다른 듯 하다.
+    [10월 20일생](../Page/10월_20일.md "wikilink"). 소우헤이가 다니는 대학의 이사. 류조우의 장남인 까닭에 본래대로 라면 유산 상속순위가 높겠지만 실제론 다른 듯 하다.
 
 <!-- end list -->
 

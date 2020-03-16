@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Shines in the Dark](https://ko.wikipedia.org/wiki/Shines_in_the_Dark).
 
 
-《**Shines in the Dark**》는 [황보령](../Page/황보령.md "wikilink")이 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")에 발매한 세 번째 정규 앨범이다.
+《**Shines in the Dark**》는 [황보령](../Page/황보령.md "wikilink")이 [2009년](../Page/2009년.md "wikilink")에 발매한 세 번째 정규 앨범이다.
 
 ## 수록곡
 
