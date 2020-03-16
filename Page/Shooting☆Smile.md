@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [ShootingSmile](https://ko.wikipedia.org/wiki/ShootingSmile).
 
 
-〈**Shooting☆Smile**〉는 [유이카오리](../Page/유이카오리.md "wikilink")의 네 번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink"). [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [4월 6일에](https://ko.wikipedia.org/wiki/4월_6일 "wikilink") [킹레코드에서](https://ko.wikipedia.org/wiki/킹레코드_\(일본\) "wikilink") 발매됐다.
+〈**Shooting☆Smile**〉는 [유이카오리](../Page/유이카오리.md "wikilink")의 네 번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). [2011년](../Page/2011년.md "wikilink") [4월 6일에](../Page/4월_6일.md "wikilink") [킹레코드에서](../Page/킹레코드_\(일본\).md "wikilink") 발매됐다.
 
 ## 개요
 
-초회한정반과 통상반의 2형태로 발매됐고, 전자에는 〈Shooting☆Smile〉의 [PV를](https://ko.wikipedia.org/wiki/뮤직_비디오 "wikilink") 수록한 DVD가 동봉되어있다. 또, [온라인 게임](https://ko.wikipedia.org/wiki/온라인_게임 "wikilink") “H.A.V.E 온라인”의 게임 내 아이템 티켓 1장이 봉입되어있다. 표제곡 〈Shooting☆Smile〉은 온라인 게임 “[H.A.V.E 온라인](https://ko.wikipedia.org/wiki/H.A.V.E_온라인 "wikilink")” [오프닝 테마로](https://ko.wikipedia.org/wiki/주제가 "wikilink") 커플링곡 〈CUE the Future (“Q”의 테마)〉는 유이카오리 주연의 무대 《Q: 당신은 누구?》의 [엔딩 테마로](https://ko.wikipedia.org/wiki/주제가 "wikilink") 사용됐다. PV촬영은 [사이타마 스타디움 2002에서](https://ko.wikipedia.org/wiki/사이타마_스타디움_2002 "wikilink") 행해졌다.
+초회한정반과 통상반의 2형태로 발매됐고, 전자에는 〈Shooting☆Smile〉의 [PV를](../Page/뮤직_비디오.md "wikilink") 수록한 DVD가 동봉되어있다. 또, [온라인 게임](../Page/온라인_게임.md "wikilink") “H.A.V.E 온라인”의 게임 내 아이템 티켓 1장이 봉입되어있다. 표제곡 〈Shooting☆Smile〉은 온라인 게임 “[H.A.V.E 온라인](../Page/H.A.V.E_온라인.md "wikilink")” [오프닝 테마로](https://ko.wikipedia.org/wiki/주제가 "wikilink") 커플링곡 〈CUE the Future (“Q”의 테마)〉는 유이카오리 주연의 무대 《Q: 당신은 누구?》의 [엔딩 테마로](https://ko.wikipedia.org/wiki/주제가 "wikilink") 사용됐다. PV촬영은 [사이타마 스타디움 2002에서](../Page/사이타마_스타디움_2002.md "wikilink") 행해졌다.
 
 ## 차트 성적
 
@@ -21,7 +21,7 @@
       - 작곡: 슌류, 편곡: Sizuk
     <!-- end list -->
       -
-        온라인 게임 “[H.A.V.E 온라인](https://ko.wikipedia.org/wiki/H.A.V.E_온라인 "wikilink")” 오프닝 테마
+        온라인 게임 “[H.A.V.E 온라인](../Page/H.A.V.E_온라인.md "wikilink")” 오프닝 테마
 2.  **CUE the Future \~“Q”의 테마\~** () \[3:31\]
       - 작곡 · 편곡: 마에야마다 켄이치
 3.  '''Shooting☆Smile (off vocal ver.)
@@ -33,13 +33,13 @@
 
 <!-- end list -->
 
-1.  Shooting☆Smile ([MUSIC CLIP](https://ko.wikipedia.org/wiki/뮤직_비디오 "wikilink"))
+1.  Shooting☆Smile ([MUSIC CLIP](../Page/뮤직_비디오.md "wikilink"))
 
 ## 수록 음반
 
-| 곡명             | 수록 음반                                                    | 발매일                                                                                                               |
-| -------------- | -------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| Shooting☆Smile | 《**[Puppy](../Page/Puppy_\(유이카오리의_음반\).md "wikilink")**》 | [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [9월 21일](https://ko.wikipedia.org/wiki/9월_21일 "wikilink") |
+| 곡명             | 수록 음반                                                    | 발매일                                                                         |
+| -------------- | -------------------------------------------------------- | --------------------------------------------------------------------------- |
+| Shooting☆Smile | 《**[Puppy](../Page/Puppy_\(유이카오리의_음반\).md "wikilink")**》 | [2011년](../Page/2011년.md "wikilink") [9월 21일](../Page/9월_21일.md "wikilink") |
 
 ## 외부 링크
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ YELL](https://ko.wikipedia.org/wiki/_YELL).
 
 
-〈**그대의 YELL**〉()는 [유이카오리](../Page/유이카오리.md "wikilink")의 다섯 번째 [싱글로](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink") [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [3월 14일에](https://ko.wikipedia.org/wiki/3월_14일 "wikilink") [킹레코드에서](https://ko.wikipedia.org/wiki/킹레코드_\(일본\) "wikilink") 발매됐다.
+〈**그대의 YELL**〉()는 [유이카오리](../Page/유이카오리.md "wikilink")의 다섯 번째 [싱글로](../Page/싱글_\(음악\).md "wikilink") [2012년](../Page/2012년.md "wikilink") [3월 14일에](../Page/3월_14일.md "wikilink") [킹레코드에서](../Page/킹레코드_\(일본\).md "wikilink") 발매됐다.
 
 ## 개요
 
@@ -11,9 +11,9 @@
 
 [PV는](https://ko.wikipedia.org/wiki/뮤직비디오 "wikilink") 수험생역의 이시하사라 오구라가 맡은 카페에 공부를 하러 오는 내용이 되어있다\[2\].
 
-싱글은 초회한정반(KICM-91385)과 통상반(KICM-1385)의 2종류의 발매로, 초회한정반에서는 〈그대의 YELL〉의 뮤직비디오를 수록한 DVD가 동봉되어있다. 또, [온라인 게임](https://ko.wikipedia.org/wiki/온라인_게임 "wikilink") 《[H.A.V.E 온라인](https://ko.wikipedia.org/wiki/H.A.V.E_온라인 "wikilink")》의 게임 속 아이템 티켓 1장이 봉입되어있다.
+싱글은 초회한정반(KICM-91385)과 통상반(KICM-1385)의 2종류의 발매로, 초회한정반에서는 〈그대의 YELL〉의 뮤직비디오를 수록한 DVD가 동봉되어있다. 또, [온라인 게임](../Page/온라인_게임.md "wikilink") 《[H.A.V.E 온라인](../Page/H.A.V.E_온라인.md "wikilink")》의 게임 속 아이템 티켓 1장이 봉입되어있다.
 
-싱글의 커플링곡인 〈압도적인 GO\!\!〉는 [PS3용](https://ko.wikipedia.org/wiki/플레이스테이션_3 "wikilink") 소프트웨어 《[압도적유희 무겐소울즈](https://ko.wikipedia.org/wiki/압도적유희_무겐소울즈 "wikilink")》의 주제가에 기용된 곡으로, 자신의 욕구를 아무것도 생각하지 않고 가고 싶다는 의도가 담겨있다. 이시하라에 의하면 “MAX에 가까운 텐션”으로, 녹음도 아침부터의 스케줄이였기 때문에 오구라와 둘이서 의논했다고 한다\[3\]. 곡조는 오구라가 “라이브에서 높아질듯한 곡”이라고 말하고 있다\[4\].
+싱글의 커플링곡인 〈압도적인 GO\!\!〉는 [PS3용](../Page/플레이스테이션_3.md "wikilink") 소프트웨어 《[압도적유희 무겐소울즈](https://ko.wikipedia.org/wiki/압도적유희_무겐소울즈 "wikilink")》의 주제가에 기용된 곡으로, 자신의 욕구를 아무것도 생각하지 않고 가고 싶다는 의도가 담겨있다. 이시하라에 의하면 “MAX에 가까운 텐션”으로, 녹음도 아침부터의 스케줄이였기 때문에 오구라와 둘이서 의논했다고 한다\[3\]. 곡조는 오구라가 “라이브에서 높아질듯한 곡”이라고 말하고 있다\[4\].
 
 ## 수록곡
 

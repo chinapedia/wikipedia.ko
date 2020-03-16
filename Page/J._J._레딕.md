@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [J. J. ](https://ko.wikipedia.org/wiki/J._J._).
 
 
-**조나단 클레이 "J. J." 레딕**(Jonathan Clay "J. J." Redick, [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") [6월 24일](https://ko.wikipedia.org/wiki/6월_24일 "wikilink") \~ )은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [농구](https://ko.wikipedia.org/wiki/농구 "wikilink") 선수이자, [NBA](https://ko.wikipedia.org/wiki/NBA "wikilink") [필라델피아 세븐티식서스의](https://ko.wikipedia.org/wiki/필라델피아_세븐티식서스 "wikilink") 선수이다.
+**조나단 클레이 "J. J." 레딕**(Jonathan Clay "J. J." Redick, [1984년](../Page/1984년.md "wikilink") [6월 24일](../Page/6월_24일.md "wikilink") \~ )은 [미국](../Page/미국.md "wikilink")의 [농구](../Page/농구.md "wikilink") 선수이자, [NBA](https://ko.wikipedia.org/wiki/NBA "wikilink") [필라델피아 세븐티식서스의](../Page/필라델피아_세븐티식서스.md "wikilink") 선수이다.
 
 ## 경력 통계
 

@@ -34,7 +34,7 @@
 <td><p>2015년 3월 21일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/서울" title="wikilink">서울</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/올림픽체조경기장" title="wikilink">올림픽체조경기장</a>[4]</p></td>
+<td><p><a href="../Page/올림픽체조경기장.md" title="wikilink">올림픽체조경기장</a>[4]</p></td>
 <td><p>통산 22,000명</p></td>
 </tr>
 <tr class="even">
@@ -123,7 +123,7 @@
 <td style="text-align: left;"><p>DVD</p></td>
 <td style="text-align: left;"><p>2015 SHINHWA 17th ANNIVERSARY CONCERT 《WE》 DVD</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2015년" title="wikilink">2015년</a> <a href="https://ko.wikipedia.org/wiki/11월_25일" title="wikilink">11월 25일</a></li>
+<li>발매일 : <a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/11월_25일.md" title="wikilink">11월 25일</a></li>
 <li>수록 : 서울 올림픽체조경기장 (2015년 3월 21일 ~ 3월 22일)</li>
 </ul></td>
 </tr>
@@ -146,7 +146,7 @@
 <td style="text-align: left;"><p>DVD</p></td>
 <td style="text-align: left;"><p>2015 SHINHWA 17TH ANNIVERSARY FINALE CONCERT 《WE_SHINHWA》 DVD</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2016년" title="wikilink">2016년</a> <a href="https://ko.wikipedia.org/wiki/3월_24일" title="wikilink">3월 24일</a></li>
+<li>발매일 : <a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/3월_24일.md" title="wikilink">3월 24일</a></li>
 <li>수록 : 서울 올림픽체조경기장 (2015년 8월 22일 ~ 8월 23일)</li>
 </ul></td>
 </tr>

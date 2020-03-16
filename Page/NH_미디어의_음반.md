@@ -5,13 +5,13 @@
 
 ## 1990년대
 
-  - 1992년 1월 30일 [김종서](https://ko.wikipedia.org/wiki/김종서_\(가수\) "wikilink") - **Rethona**
+  - 1992년 1월 30일 [김종서](../Page/김종서_\(가수\).md "wikilink") - **Rethona**
   - 1993년 1월 ?일 김종서 - **92\`김종서 In 카리스마**
   - 1993년 1월 ?일 김종서 - **The First Legend (Live) Part.1**
   - 1993년 4월 ?일 김종서 - **[PETSDN2](../Page/PETSDN2.md "wikilink") (2nd St)**
   - 1993년 7월 1일 김종서 - **The First Legend (Live) Part.2**
   - 1994년 8월 ?일 김종서 - **세상의 눈물 마를따까지**
-  - 1995년 4월 ?일 [임창정](https://ko.wikipedia.org/wiki/임창정 "wikilink") - **Rock & Razor Techno Music (이미 나에게로)**
+  - 1995년 4월 ?일 [임창정](../Page/임창정.md "wikilink") - **Rock & Razor Techno Music (이미 나에게로)**
   - 1995년 10월 ?일 김종서 - **Thermal Island (열섬)**
   - 1995년 12월 24일 김종서 - **김종서 세종문화회관 라이브**
   - 1996년 ?월 ?일 김종서 - **[Fallen Angel Forever](../Page/Fallen_Angel_Forever.md "wikilink")**
@@ -40,11 +40,11 @@
   - 2003년 2월 12일 김종서 - **열창 김종서**
   - 2003년 6월 5일 임창정 - **Bye**
   - 2003년 8월 21일 UN - **Sweet & Strong**
-  - 2004년 3월 25일 [강성훈](https://ko.wikipedia.org/wiki/강성훈 "wikilink") - **Everlasting**
+  - 2004년 3월 25일 [강성훈](../Page/강성훈.md "wikilink") - **Everlasting**
   - 2004년 6월 29일 UN - **Reunion**
   - 2005년 5월 13일 UN - **그녀에게**
   - 2005년 7월 26일 김종서 - **No.9**
-  - 2005년 9월 6일 [파란](https://ko.wikipedia.org/wiki/파란_\(음악_그룹\) "wikilink") - **Paran The First**
+  - 2005년 9월 6일 [파란](../Page/파란_\(음악_그룹\).md "wikilink") - **Paran The First**
   - 2006년 ?월 ?일 김종서 - **The Musician Series**\[1\]
   - 2006년 1월 26일 UN - **Good bye & Best**
   - 2006년 6월 7일 파란 - **\[Digital Single\] 배틀짱 OST (투니버스 애니메이션)**\[2\]
@@ -53,11 +53,11 @@
   - 2006년 12월 12일 파란 - **이레자이온 O.S.T**
   - 2007년 4월 17일 김종서 - **김종서 20th Anniversary Greatest Hits 명행**
   - 2007년 5월 15일 파란 - **The First (더 퍼스트)**
-  - 2007년 10월 22일 [양동근](https://ko.wikipedia.org/wiki/양동근 "wikilink") - **But I 드려**\[3\]
+  - 2007년 10월 22일 [양동근](../Page/양동근.md "wikilink") - **But I 드려**\[3\]
   - 2007년 12월 5일 파란 - **\[Digital Single\] Merry Christmas (메리 크리스마스)**
   - 2008년 4월 11일 파란 - **U.R.M.S (YOU ARE MY SONG)**
   - 2008년 7월 7일 김종서 - **\[Digital Single\] 아버지**
-  - 2008년 9월 3일 [유키스](https://ko.wikipedia.org/wiki/유키스 "wikilink") - **[New Generation](https://ko.wikipedia.org/wiki/New_Generation "wikilink")**
+  - 2008년 9월 3일 [유키스](../Page/유키스.md "wikilink") - **[New Generation](https://ko.wikipedia.org/wiki/New_Generation "wikilink")**
   - 2008년 10월 14일 김종서 - **아버지**
   - 2009년 2월 3일 유키스 - **[Bring It Back2 Old School](https://ko.wikipedia.org/wiki/Bring_It_Back2_Old_School "wikilink")**
   - 2009년 3월 10일 임창정 - **Return To My World**
@@ -94,8 +94,8 @@
   - 2012년 11월 16일 더레이 - **\[Digital Single\] 로켓탄 콜라보 Vol.1**\[6\]
   - 2012년 12월 28일 유키스 - **\[Digital Single\] Gangsta Boy**
   - 2013년 3월 7일 유키스 - **[COLLAGE](https://ko.wikipedia.org/wiki/COLLAGE "wikilink")**
-  - 2013년 4월 22일 [유비트](https://ko.wikipedia.org/wiki/유키스 "wikilink") - **있을 때 잘해 줄 걸**
-  - 2013년 8월 8일 [빅스타](https://ko.wikipedia.org/wiki/빅스타_\(대한민국의_음악_그룹\) "wikilink") - **Hang Out**
+  - 2013년 4월 22일 [유비트](../Page/유키스.md "wikilink") - **있을 때 잘해 줄 걸**
+  - 2013년 8월 8일 [빅스타](../Page/빅스타_\(대한민국의_음악_그룹\).md "wikilink") - **Hang Out**
   - 2013년 9월 24일 임창정 - **나란놈이란**
   - 2013년 10월 24일 유키스 - **\[Digital Single\] Mysterious Lady**
   - 2013년 10월 31일 유키스 - **[MOMENTS](https://ko.wikipedia.org/wiki/MOMENTS "wikilink")**
@@ -130,7 +130,7 @@
   - 2016년 4월 6일 라붐 - **\[Digital Single\] [Fresh Adventure](https://ko.wikipedia.org/wiki/Fresh_Adventure "wikilink")**
   - 2016년 4월 17일 임창정 - **\[Digital Single\] 판타스틱 듀오 Part.1**\[11\]
   - 2016년 4월 24일 임창정 - **\[Digital Single\] 판타스틱 듀오 Part.2**\[12\]
-  - 2016년 5월 18일 [유미](https://ko.wikipedia.org/wiki/유미 "wikilink") - **\[Digital Single\] 이 노래 좀 들어주라**
+  - 2016년 5월 18일 [유미](../Page/유미.md "wikilink") - **\[Digital Single\] 이 노래 좀 들어주라**
   - 2016년 6월 11일 유키스 - **[STALKER](https://ko.wikipedia.org/wiki/Stalker\(스토커\) "wikilink")**
   - 2016년 8월 3일 소연 - **\[Digital Single\] 아이돌보컬리그 - 걸스피릿 EPISODE 03**\[13\]
   - 2016년 8월 23일 라붐 - **Love Sign**
@@ -151,7 +151,7 @@
   - 2017년 10월 13일 [준](https://ko.wikipedia.org/wiki/준_\(1997년\) "wikilink"),[유정](../Page/유정_\(1992년\).md "wikilink"),[지엔](../Page/지엔_\(가수\).md "wikilink"),[해인](../Page/라붐_\(음악_그룹\).md "wikilink") - **\[Digital Single\] THE UNI+ 마이턴 (My Turn)**\[16\]
   - 2017년 10월 20일 준,유정,지엔,해인 - **\[Digital Single\] THE UNI+ 빛 (Last One)**\[17\]
   - 2017년 10월 24일 임창정 - **그 사람을 아나요**
-  - 2017년 10월 29일 [김동현](https://ko.wikipedia.org/wiki/믹스나인 "wikilink"),[조한국](https://ko.wikipedia.org/wiki/믹스나인 "wikilink") - **\[Digital Single\] 믹스나인 Part.1**
+  - 2017년 10월 29일 [김동현](../Page/믹스나인.md "wikilink"),[조한국](../Page/믹스나인.md "wikilink") - **\[Digital Single\] 믹스나인 Part.1**
   - 2017년 11월 19일 김동현,조한국 - **\[Digital Single\] 믹스나인 Part.3**
   - 2017년 12월 5일 소연 - **저글러스 OST Part.1**
   - 2017년 12월 7일 소울라티도 - **\[Digital Single\] 우선순위**
@@ -189,25 +189,25 @@
 
 [분류:대한민국 음반사의 음반 목록](https://ko.wikipedia.org/wiki/분류:대한민국_음반사의_음반_목록 "wikilink")
 
-1.  [홍서범](https://ko.wikipedia.org/wiki/홍서범 "wikilink"),[이치현](https://ko.wikipedia.org/wiki/이치현 "wikilink")도 앨범 참여.
+1.  [홍서범](../Page/홍서범.md "wikilink"),[이치현](../Page/이치현.md "wikilink")도 앨범 참여.
 2.  최초의 OST 앨범.
 3.  최초의 19금 앨범.
-4.  [핑클](https://ko.wikipedia.org/wiki/핑클 "wikilink")의 멤버 [옥주현](https://ko.wikipedia.org/wiki/옥주현 "wikilink")도 앨범 참여.
-5.  [김태희](https://ko.wikipedia.org/wiki/김태희 "wikilink")도 앨범 참여.
+4.  [핑클](../Page/핑클.md "wikilink")의 멤버 [옥주현](../Page/옥주현.md "wikilink")도 앨범 참여.
+5.  [김태희](../Page/김태희.md "wikilink")도 앨범 참여.
 6.  [써니사이드의](https://ko.wikipedia.org/wiki/써니사이드_\(음악_그룹\) "wikilink") 멤버 [MJ도](https://ko.wikipedia.org/wiki/MJ_\(가수\) "wikilink") 앨범 참여.
-7.  [신화의](https://ko.wikipedia.org/wiki/신화_\(음악_그룹\) "wikilink") 멤버 [신혜성](https://ko.wikipedia.org/wiki/신혜성 "wikilink")도 앨범 참여.
+7.  [신화의](https://ko.wikipedia.org/wiki/신화_\(음악_그룹\) "wikilink") 멤버 [신혜성](../Page/신혜성.md "wikilink")도 앨범 참여.
 8.  임창정 미니 1집 선공개곡.
 9.  임창정의 데뷔 20주년 앨범.
 10. [전소미](../Page/PRODUCE_101_참가자_목록.md "wikilink"), [김세정](../Page/PRODUCE_101_참가자_목록.md "wikilink"), [최유정](../Page/PRODUCE_101_참가자_목록.md "wikilink"),[허찬미](../Page/허찬미.md "wikilink"), [강미나](../Page/PRODUCE_101_참가자_목록.md "wikilink") 외 92명도 앨범 참여.
 11. 설민지,이예지,주설옥도 앨범 참여.
-12. [김범수](https://ko.wikipedia.org/wiki/김범수_\(가수\) "wikilink"),주설욱,김다미,김예진,[이선희](https://ko.wikipedia.org/wiki/이선희 "wikilink")도 앨범 참여.
-13. [베스티](../Page/베스티.md "wikilink")의 멤버 [유지](../Page/유지_\(가수\).md "wikilink"),[스피카의](https://ko.wikipedia.org/wiki/스피카_\(음악_그룹\) "wikilink") 멤버 [김보형](../Page/김보형.md "wikilink")도 앨범 참여.
-14. [브라운아이드걸스](https://ko.wikipedia.org/wiki/브라운아이드걸스 "wikilink")의 멤버 [제아](https://ko.wikipedia.org/wiki/제아 "wikilink"),[피에스타의](https://ko.wikipedia.org/wiki/피에스타_\(음악_그룹\) "wikilink") 멤버 [혜미도](https://ko.wikipedia.org/wiki/혜미_\(1990년\) "wikilink") 앨범 참여.
-15. [스피카의](https://ko.wikipedia.org/wiki/스피카_\(음악_그룹\) "wikilink") 멤버 [김보형](../Page/김보형.md "wikilink"),[베스티](../Page/베스티.md "wikilink")의 멤버 [유지도](../Page/유지_\(가수\).md "wikilink") 앨범 참여.
-16. [JOO](https://ko.wikipedia.org/wiki/주_\(가수\) "wikilink"),[임팩트](../Page/임팩트_\(음악_그룹\).md "wikilink"),[마이네임](https://ko.wikipedia.org/wiki/마이네임 "wikilink"),[굿데이](https://ko.wikipedia.org/wiki/굿데이_\(음악_그룹\) "wikilink"),[트로이의](https://ko.wikipedia.org/wiki/트로이_\(음악_그룹\) "wikilink") 멤버 [칸토](https://ko.wikipedia.org/wiki/칸토 "wikilink") 외 104명도 앨범 참여.
-17. [임팩트](../Page/임팩트_\(음악_그룹\).md "wikilink"),[마이네임](https://ko.wikipedia.org/wiki/마이네임 "wikilink"),[트로이의](https://ko.wikipedia.org/wiki/트로이_\(음악_그룹\) "wikilink") 멤버 [칸토](https://ko.wikipedia.org/wiki/칸토 "wikilink") 외 52명도 앨범 참여.
-18. [JYJ](https://ko.wikipedia.org/wiki/JYJ "wikilink")의 멤버 [김준수도](https://ko.wikipedia.org/wiki/김준수_\(가수\) "wikilink") 앨범 참여.
+12. [김범수](../Page/김범수_\(가수\).md "wikilink"),주설욱,김다미,김예진,[이선희](../Page/이선희.md "wikilink")도 앨범 참여.
+13. [베스티](../Page/베스티.md "wikilink")의 멤버 [유지](../Page/유지_\(가수\).md "wikilink"),[스피카의](../Page/스피카_\(음악_그룹\).md "wikilink") 멤버 [김보형](../Page/김보형.md "wikilink")도 앨범 참여.
+14. [브라운아이드걸스](https://ko.wikipedia.org/wiki/브라운아이드걸스 "wikilink")의 멤버 [제아](../Page/제아.md "wikilink"),[피에스타의](../Page/피에스타_\(음악_그룹\).md "wikilink") 멤버 [혜미도](https://ko.wikipedia.org/wiki/혜미_\(1990년\) "wikilink") 앨범 참여.
+15. [스피카의](../Page/스피카_\(음악_그룹\).md "wikilink") 멤버 [김보형](../Page/김보형.md "wikilink"),[베스티](../Page/베스티.md "wikilink")의 멤버 [유지도](../Page/유지_\(가수\).md "wikilink") 앨범 참여.
+16. [JOO](https://ko.wikipedia.org/wiki/주_\(가수\) "wikilink"),[임팩트](../Page/임팩트_\(음악_그룹\).md "wikilink"),[마이네임](../Page/마이네임.md "wikilink"),[굿데이](../Page/굿데이_\(음악_그룹\).md "wikilink"),[트로이의](../Page/트로이_\(음악_그룹\).md "wikilink") 멤버 [칸토](https://ko.wikipedia.org/wiki/칸토 "wikilink") 외 104명도 앨범 참여.
+17. [임팩트](../Page/임팩트_\(음악_그룹\).md "wikilink"),[마이네임](../Page/마이네임.md "wikilink"),[트로이의](../Page/트로이_\(음악_그룹\).md "wikilink") 멤버 [칸토](https://ko.wikipedia.org/wiki/칸토 "wikilink") 외 52명도 앨범 참여.
+18. [JYJ](../Page/JYJ.md "wikilink")의 멤버 [김준수도](../Page/김준수_\(가수\).md "wikilink") 앨범 참여.
 19. [박재정](https://ko.wikipedia.org/wiki/박재정 "wikilink")도 앨범 참여.
-20. [허니핑거식스](../Page/허니핑거식스.md "wikilink")의 멤버 [황예린](https://ko.wikipedia.org/wiki/황예린 "wikilink"),[지민혁](https://ko.wikipedia.org/wiki/지민혁 "wikilink")도 앨범 참여.
+20. [허니핑거식스](../Page/허니핑거식스.md "wikilink")의 멤버 [황예린](https://ko.wikipedia.org/wiki/황예린 "wikilink"),[지민혁](../Page/지민혁.md "wikilink")도 앨범 참여.
 21. [딘딘](../Page/딘딘.md "wikilink")도 앨범 참여.
 22. [Chris Brown](https://ko.wikipedia.org/wiki/Chris_Brown "wikilink"),[Ana Baby](https://ko.wikipedia.org/wiki/Ana_Baby "wikilink"),[B.Taylor](https://ko.wikipedia.org/wiki/B.Taylor "wikilink")도 앨범 참여.

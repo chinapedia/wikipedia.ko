@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Madah Berhelah](https://ko.wikipedia.org/wiki/Madah_Berhelah).
 
 
-**Madah Berhelah**는 [말레이시아](https://ko.wikipedia.org/wiki/말레이시아 "wikilink")의 팝 가수 지아나 제인의 데뷔 앨범이자, 첫 번째 정규 앨범이다. 1991년 12월 27일 베르텔스만 뮤직 그룹을 통해 발매되었으며 4만 장의 판매량을 기록했다.\[1\]\[2\]
+**Madah Berhelah**는 [말레이시아](../Page/말레이시아.md "wikilink")의 팝 가수 지아나 제인의 데뷔 앨범이자, 첫 번째 정규 앨범이다. 1991년 12월 27일 베르텔스만 뮤직 그룹을 통해 발매되었으며 4만 장의 판매량을 기록했다.\[1\]\[2\]
 
 ## 개요
 

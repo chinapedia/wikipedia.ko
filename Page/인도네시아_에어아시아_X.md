@@ -1,21 +1,21 @@
 > This article is converted from Wikipedia: [  X](https://ko.wikipedia.org/wiki/__X).
 
 
-**인도네시아 에어아시아 X**()는 [인도네시아](https://ko.wikipedia.org/wiki/인도네시아 "wikilink")의 [저가 항공사로](https://ko.wikipedia.org/wiki/저가_항공사 "wikilink") [말레이시아](https://ko.wikipedia.org/wiki/말레이시아 "wikilink")의 [에어아시아](https://ko.wikipedia.org/wiki/에어아시아 "wikilink")의 자회사에 해당된다. 본사는 [인도네시아](https://ko.wikipedia.org/wiki/인도네시아 "wikilink") [발리에](https://ko.wikipedia.org/wiki/발리섬 "wikilink") 위치해 있으며 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink")에 설립했다. 또한 사용하고 있는 [허브 공항으로](https://ko.wikipedia.org/wiki/허브_공항 "wikilink") [응우라라이 공항이](https://ko.wikipedia.org/wiki/응우라라이_공항 "wikilink") 있다.\[1\]\[2\]\[3\] [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink")에 [타이페이](https://ko.wikipedia.org/wiki/타이페이 "wikilink")에 취항할 계획이다.\[4\]
+**인도네시아 에어아시아 X**()는 [인도네시아](../Page/인도네시아.md "wikilink")의 [저가 항공사로](https://ko.wikipedia.org/wiki/저가_항공사 "wikilink") [말레이시아](../Page/말레이시아.md "wikilink")의 [에어아시아](../Page/에어아시아.md "wikilink")의 자회사에 해당된다. 본사는 [인도네시아](../Page/인도네시아.md "wikilink") [발리에](../Page/발리섬.md "wikilink") 위치해 있으며 [2014년](../Page/2014년.md "wikilink")에 설립했다. 또한 사용하고 있는 [허브 공항으로](../Page/허브_공항.md "wikilink") [응우라라이 공항이](https://ko.wikipedia.org/wiki/응우라라이_공항 "wikilink") 있다.\[1\]\[2\]\[3\] [2015년](../Page/2015년.md "wikilink")에 [타이페이](https://ko.wikipedia.org/wiki/타이페이 "wikilink")에 취항할 계획이다.\[4\]
 
 ## 운항 노선
 
-  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [1월](https://ko.wikipedia.org/wiki/1월 "wikilink") 기준으로 에어아시아 그룹은 다음과 같은 노선을 운항하고 있다.
+  - [2018년](../Page/2018년.md "wikilink") [1월](../Page/1월.md "wikilink") 기준으로 에어아시아 그룹은 다음과 같은 노선을 운항하고 있다.
 
 ## 보유 기종
 
-  - [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [8월](https://ko.wikipedia.org/wiki/8월 "wikilink") 기준으로 인도네시아 에어아시아 X는 다음과 같은 기종을 보유하고 있다.
+  - [2019년](../Page/2019년.md "wikilink") [8월](../Page/8월.md "wikilink") 기준으로 인도네시아 에어아시아 X는 다음과 같은 기종을 보유하고 있다.
 
-| <span style="color:white;">기종</span>                                | <span style="color:white;">대수</span>                            | <span style="color:white;">주문</span> | <span style="color:white;">승객</span> | <span style="color:white;">비고</span> |
-| ------------------------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------ | ------------------------------------ | ------------------------------------ |
-| <abbr title="Premium class"><span style="color:white;">P</abbr>     | <abbr title="Economy class"><span style="color:white;">Y</abbr> | <span style="color:white;">합계        |                                      |                                      |
-| [에어버스 A330-300](https://ko.wikipedia.org/wiki/에어버스_A330 "wikilink") | 2                                                               | 0                                    | 12                                   | 365                                  |
-| 합계                                                                  | 2                                                               | 0                                    |                                      |                                      |
+| <span style="color:white;">기종</span>                            | <span style="color:white;">대수</span>                            | <span style="color:white;">주문</span> | <span style="color:white;">승객</span> | <span style="color:white;">비고</span> |
+| --------------------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------ | ------------------------------------ | ------------------------------------ |
+| <abbr title="Premium class"><span style="color:white;">P</abbr> | <abbr title="Economy class"><span style="color:white;">Y</abbr> | <span style="color:white;">합계        |                                      |                                      |
+| [에어버스 A330-300](../Page/에어버스_A330.md "wikilink")                | 2                                                               | 0                                    | 12                                   | 365                                  |
+| 합계                                                              | 2                                                               | 0                                    |                                      |                                      |
 
 **인도네시아 에어아시아 X의 보유 기종**
 

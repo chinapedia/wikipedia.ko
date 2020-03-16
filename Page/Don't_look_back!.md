@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Don\'t look back!](https://ko.wikipedia.org/wiki/Don\'t_look_back!).
 
 
-〈**Don't look back\!**〉은, [NMB48](https://ko.wikipedia.org/wiki/NMB48 "wikilink")의 11번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink").
+〈**Don't look back\!**〉은, [NMB48](../Page/NMB48.md "wikilink")의 11번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 
@@ -18,7 +18,7 @@
 1.  **Don't look back\!**
 
       -
-        (작사: [아키모토 야스시](https://ko.wikipedia.org/wiki/아키모토_야스시 "wikilink") / 작곡: Carlos K. / 편곡: 무토 세이지)
+        (작사: [아키모토 야스시](../Page/아키모토_야스시.md "wikilink") / 작곡: Carlos K. / 편곡: 무토 세이지)
 
 2.  **** / <small>**졸업 여행**</small>
 
@@ -212,11 +212,11 @@
 
 (센터:야마다 나나)
 
-  - [이치카와 미오리](https://ko.wikipedia.org/wiki/이치카와_미오리 "wikilink"), [우메다 아야카](https://ko.wikipedia.org/wiki/우메다_아야카 "wikilink"), [오오타 유리](https://ko.wikipedia.org/wiki/오오타_유리 "wikilink"), [카시와기 유키](https://ko.wikipedia.org/wiki/카시와기_유키 "wikilink"), [카토 유카](https://ko.wikipedia.org/wiki/카토_유카 "wikilink"), [카도와키 카나코](https://ko.wikipedia.org/wiki/카도와키_카나코 "wikilink"), [쿠사카 코노미](https://ko.wikipedia.org/wiki/쿠사카_코노미 "wikilink"), [쿠시로 리나](https://ko.wikipedia.org/wiki/쿠시로_리나 "wikilink"), [코타니 리호](https://ko.wikipedia.org/wiki/코타니_리호 "wikilink"), [시부야 나기사](https://ko.wikipedia.org/wiki/시부야_나기사 "wikilink"), [죠니시 케이](https://ko.wikipedia.org/wiki/죠니시_케이 "wikilink"), [스토 리리카](../Page/스토_리리카.md "wikilink"), [시로마 미루](https://ko.wikipedia.org/wiki/시로마_미루 "wikilink"), [타니가와 아이리](https://ko.wikipedia.org/wiki/타니가와_아이리 "wikilink"), [니시무라 아이카](https://ko.wikipedia.org/wiki/니시무라_아이카 "wikilink"), [후지에 레이나](https://ko.wikipedia.org/wiki/후지에_레이나 "wikilink"), [무라세 사에](https://ko.wikipedia.org/wiki/무라세_사에 "wikilink"), [야구라 후코](https://ko.wikipedia.org/wiki/야구라_후코 "wikilink"), [야부시타 슈](../Page/야부시타_슈.md "wikilink"), [야마다 나나](https://ko.wikipedia.org/wiki/야마다_나나 "wikilink"), [야마모토 사야카](https://ko.wikipedia.org/wiki/야마모토_사야카_\(NMB48\) "wikilink"), [요시다 아카리](https://ko.wikipedia.org/wiki/요시다_아카리 "wikilink"), [와타나베 미유키](https://ko.wikipedia.org/wiki/와타나베_미유키 "wikilink")
+  - [이치카와 미오리](../Page/이치카와_미오리.md "wikilink"), [우메다 아야카](../Page/우메다_아야카.md "wikilink"), [오오타 유리](https://ko.wikipedia.org/wiki/오오타_유리 "wikilink"), [카시와기 유키](../Page/카시와기_유키.md "wikilink"), [카토 유카](https://ko.wikipedia.org/wiki/카토_유카 "wikilink"), [카도와키 카나코](https://ko.wikipedia.org/wiki/카도와키_카나코 "wikilink"), [쿠사카 코노미](https://ko.wikipedia.org/wiki/쿠사카_코노미 "wikilink"), [쿠시로 리나](https://ko.wikipedia.org/wiki/쿠시로_리나 "wikilink"), [코타니 리호](https://ko.wikipedia.org/wiki/코타니_리호 "wikilink"), [시부야 나기사](https://ko.wikipedia.org/wiki/시부야_나기사 "wikilink"), [죠니시 케이](../Page/죠니시_케이.md "wikilink"), [스토 리리카](../Page/스토_리리카.md "wikilink"), [시로마 미루](../Page/시로마_미루.md "wikilink"), [타니가와 아이리](https://ko.wikipedia.org/wiki/타니가와_아이리 "wikilink"), [니시무라 아이카](https://ko.wikipedia.org/wiki/니시무라_아이카 "wikilink"), [후지에 레이나](../Page/후지에_레이나.md "wikilink"), [무라세 사에](https://ko.wikipedia.org/wiki/무라세_사에 "wikilink"), [야구라 후코](../Page/야구라_후코.md "wikilink"), [야부시타 슈](../Page/야부시타_슈.md "wikilink"), [야마다 나나](../Page/야마다_나나.md "wikilink"), [야마모토 사야카](https://ko.wikipedia.org/wiki/야마모토_사야카_\(NMB48\) "wikilink"), [요시다 아카리](https://ko.wikipedia.org/wiki/요시다_아카리 "wikilink"), [와타나베 미유키](../Page/와타나베_미유키.md "wikilink")
 
 ### 졸업 여행
 
-  - [오키타 아야카](https://ko.wikipedia.org/wiki/오키타_아야카 "wikilink"), 카도와키 카나코, [카와카미 레나](https://ko.wikipedia.org/wiki/카와카미_레나 "wikilink"), [키시노 리카](https://ko.wikipedia.org/wiki/키시노_리카 "wikilink"), [키노시타 하루나](https://ko.wikipedia.org/wiki/키노시타_하루나 "wikilink"), [키노시타 모모카](https://ko.wikipedia.org/wiki/키노시타_모모카 "wikilink"), 코타니 리호, [콘도 리나](https://ko.wikipedia.org/wiki/콘도_리나 "wikilink"), 죠니시 케이, 시로마 미루, [야마기시 나츠미](https://ko.wikipedia.org/wiki/야마기시_나츠미 "wikilink"), [야마구치 유키](https://ko.wikipedia.org/wiki/야마구치_유키 "wikilink"), 야마다 나나, 야마모토 사야카, 요시다 아카리, 와타나베 미유키
+  - [오키타 아야카](https://ko.wikipedia.org/wiki/오키타_아야카 "wikilink"), 카도와키 카나코, [카와카미 레나](https://ko.wikipedia.org/wiki/카와카미_레나 "wikilink"), [키시노 리카](../Page/키시노_리카.md "wikilink"), [키노시타 하루나](../Page/키노시타_하루나.md "wikilink"), [키노시타 모모카](https://ko.wikipedia.org/wiki/키노시타_모모카 "wikilink"), 코타니 리호, [콘도 리나](https://ko.wikipedia.org/wiki/콘도_리나 "wikilink"), 죠니시 케이, 시로마 미루, [야마기시 나츠미](https://ko.wikipedia.org/wiki/야마기시_나츠미 "wikilink"), [야마구치 유키](https://ko.wikipedia.org/wiki/야마구치_유키 "wikilink"), 야마다 나나, 야마모토 사야카, 요시다 아카리, 와타나베 미유키
 
 ### 니체 선배
 
@@ -232,7 +232,7 @@
 
 (센터:야마모토 사야카)
 
-  - 아카시 나츠코, [이시다 유미](https://ko.wikipedia.org/wiki/이시다_유미 "wikilink"), 오오타 유리, 카시와기 유키, 카토 유카, 키시노 리카, [코노 사키](https://ko.wikipedia.org/wiki/코노_사키 "wikilink"), [코가 나루미](https://ko.wikipedia.org/wiki/코가_나루미 "wikilink"), 코타니 리호, 죠 에리코, 죠니시 케이, 스토 리리카, [니시자와 루리나](https://ko.wikipedia.org/wiki/니시자와_루리나 "wikilink"), 니시무라 아이카, [무라시게 안나](https://ko.wikipedia.org/wiki/무라시게_안나 "wikilink"), [무로 카나코](https://ko.wikipedia.org/wiki/무로_카나코 "wikilink"), 야마오 리나, 야마기시 나츠미, 야마구치 유키, 야마모토 사야카, 요시다 아카리
+  - 아카시 나츠코, [이시다 유미](https://ko.wikipedia.org/wiki/이시다_유미 "wikilink"), 오오타 유리, 카시와기 유키, 카토 유카, 키시노 리카, [코노 사키](https://ko.wikipedia.org/wiki/코노_사키 "wikilink"), [코가 나루미](https://ko.wikipedia.org/wiki/코가_나루미 "wikilink"), 코타니 리호, 죠 에리코, 죠니시 케이, 스토 리리카, [니시자와 루리나](https://ko.wikipedia.org/wiki/니시자와_루리나 "wikilink"), 니시무라 아이카, [무라시게 안나](../Page/무라시게_안나.md "wikilink"), [무로 카나코](https://ko.wikipedia.org/wiki/무로_카나코 "wikilink"), 야마오 리나, 야마기시 나츠미, 야마구치 유키, 야마모토 사야카, 요시다 아카리
 
 ### 하트, 외치다.
 

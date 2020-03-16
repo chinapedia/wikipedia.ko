@@ -3,18 +3,18 @@
 
 {{싱글 정보 | 곡명 = Ready Go\! | 음악가 = [타무라 나오미](https://ko.wikipedia.org/wiki/타무라_나오미 "wikilink") | 음반 = | A 사이드 = | B 사이드 = 포켓타리 몬스타리
 새로운 맹세 (acoustic ver.)
-새로운 맹세 | 발매일= [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [3월 29일](https://ko.wikipedia.org/wiki/3월_29일 "wikilink") | 포맷 = [맥시 싱글](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink") | 녹음 = 2002년
+새로운 맹세 | 발매일= [2002년](../Page/2002년.md "wikilink") [3월 29일](../Page/3월_29일.md "wikilink") | 포맷 = [맥시 싱글](../Page/싱글_\(음악\).md "wikilink") | 녹음 = 2002년
  | 장르 = [J-POP](https://ko.wikipedia.org/wiki/J-POP "wikilink"), [애니메이션 음악](https://ko.wikipedia.org/wiki/애니메이션_음악 "wikilink") | 길이 = 24분 38초 | 레이블 = [피카츄 레코드](https://ko.wikipedia.org/wiki/피카츄_레코드 "wikilink") | 작사 = 타무라 나오미(\#1)
 카와무라 쿠니미(\#1)
 [토다 아키히토](https://ko.wikipedia.org/wiki/토다_아키히토 "wikilink")(\#2,3,4) | 작곡 = [타나카 히로카즈](https://ko.wikipedia.org/wiki/타나카_히로카즈 "wikilink") | 프로듀서 = 타무라 나오미 | 이전싱글 = Realize
-([2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink")) | 이번싱글= **Ready Go\!**
-(2002년) | 다음싱글 = \[\[유라구코토나이아이| 〈**Ready Go\!**〉는 [타무라 나오미의](https://ko.wikipedia.org/wiki/타무라_나오미 "wikilink") 22번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink"). [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [3월 29일에](https://ko.wikipedia.org/wiki/3월_29일 "wikilink") [피카츄 레코드에서](https://ko.wikipedia.org/wiki/피카츄_레코드 "wikilink") 발매됐다.
+([2001년](../Page/2001년.md "wikilink")) | 이번싱글= **Ready Go\!**
+(2002년) | 다음싱글 = \[\[유라구코토나이아이| 〈**Ready Go\!**〉는 [타무라 나오미의](https://ko.wikipedia.org/wiki/타무라_나오미 "wikilink") 22번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). [2002년](../Page/2002년.md "wikilink") [3월 29일에](../Page/3월_29일.md "wikilink") [피카츄 레코드에서](https://ko.wikipedia.org/wiki/피카츄_레코드 "wikilink") 발매됐다.
 
 ## 개요
 
-  - 타이틀곡 〈Ready Go！〉은 [TV 애니메이션](https://ko.wikipedia.org/wiki/일본의_애니메이션 "wikilink") 《[포켓몬스터](https://ko.wikipedia.org/wiki/포켓몬스터_\(1997~2002년_애니메이션\) "wikilink")》의 5번째 [오프닝 테마](https://ko.wikipedia.org/wiki/주제가 "wikilink"), 커플링곡인 〈새로운 맹세 (acoustic ver.)〉〈새로운 맹세 〉는 각각 TV 애니메이션 《포켓몬스터 크리스탈 라이코 번개의 전설》의 오프닝 테마, 엔딩 테마로 사용됐다. 타무라는 그 후에도 다음 시리즈 《포켓몬스터 AG》 4번째 엔딩 테마곡인 〈가득한 서머\!\!〉를 해바라기 합창단과의 듀엣으로 부르고 있다.
+  - 타이틀곡 〈Ready Go！〉은 [TV 애니메이션](../Page/일본의_애니메이션.md "wikilink") 《[포켓몬스터](../Page/포켓몬스터_\(1997~2002년_애니메이션\).md "wikilink")》의 5번째 [오프닝 테마](https://ko.wikipedia.org/wiki/주제가 "wikilink"), 커플링곡인 〈새로운 맹세 (acoustic ver.)〉〈새로운 맹세 〉는 각각 TV 애니메이션 《포켓몬스터 크리스탈 라이코 번개의 전설》의 오프닝 테마, 엔딩 테마로 사용됐다. 타무라는 그 후에도 다음 시리즈 《포켓몬스터 AG》 4번째 엔딩 테마곡인 〈가득한 서머\!\!〉를 해바라기 합창단과의 듀엣으로 부르고 있다.
   - 커플링곡인 〈포켓타리 몬스타리〉는 [카나가](https://ko.wikipedia.org/wiki/오타_에미 "wikilink") 노래를 담당하고, 영화 《반짝반짝 별하늘 캠프》 및 《포켓몬스터》의 13번째 엔딩 테마로 사용됐다.
-  - [CD 자켓에서는](https://ko.wikipedia.org/wiki/디스크_자켓 "wikilink") [사토시](https://ko.wikipedia.org/wiki/한지우_\(포켓몬스터\) "wikilink")(한국명은 한지우), [피카츄](https://ko.wikipedia.org/wiki/피카츄 "wikilink"), [베이리프](https://ko.wikipedia.org/wiki/2세대_포켓몬_목록 "wikilink"), [리아코](https://ko.wikipedia.org/wiki/리아코 "wikilink"), [브케인](https://ko.wikipedia.org/wiki/브케인 "wikilink"), [요루노즈쿠](https://ko.wikipedia.org/wiki/2세대_포켓몬_목록 "wikilink")(한국명은 야부엉), [고마조](https://ko.wikipedia.org/wiki/포켓몬_목록_\(221-251\)#코코리 "wikilink")(한국명은 코코리)가 그려져있다.
+  - [CD 자켓에서는](https://ko.wikipedia.org/wiki/디스크_자켓 "wikilink") [사토시](../Page/한지우_\(포켓몬스터\).md "wikilink")(한국명은 한지우), [피카츄](../Page/피카츄.md "wikilink"), [베이리프](../Page/2세대_포켓몬_목록.md "wikilink"), [리아코](../Page/리아코.md "wikilink"), [브케인](../Page/브케인.md "wikilink"), [요루노즈쿠](../Page/2세대_포켓몬_목록.md "wikilink")(한국명은 야부엉), [고마조](https://ko.wikipedia.org/wiki/포켓몬_목록_\(221-251\)#코코리 "wikilink")(한국명은 코코리)가 그려져있다.
 
 ## 수록곡
 
@@ -49,7 +49,7 @@
 <tbody>
 <tr class="odd">
 <td><p>Ready Go!</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/일본의_애니메이션" title="wikilink">TV 애니메이션</a> 《<a href="https://ko.wikipedia.org/wiki/포켓몬스터_(1997~2002년_애니메이션)" title="wikilink">포켓몬스터</a>》 5번째 <a href="https://ko.wikipedia.org/wiki/주제가" title="wikilink">오프닝 테마</a></p></td>
+<td><p><a href="../Page/일본의_애니메이션.md" title="wikilink">TV 애니메이션</a> 《<a href="../Page/포켓몬스터_(1997~2002년_애니메이션).md" title="wikilink">포켓몬스터</a>》 5번째 <a href="https://ko.wikipedia.org/wiki/주제가" title="wikilink">오프닝 테마</a></p></td>
 </tr>
 <tr class="even">
 <td><p>포켓타리 몬스타리</p></td>
@@ -70,13 +70,13 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/일본의_애니메이션" title="wikilink">TV 애니메이션</a> 《<a href="https://ko.wikipedia.org/wiki/포켓몬스터_(1997~2002년_애니메이션)" title="wikilink">포켓몬스터</a>》 <a href="https://ko.wikipedia.org/wiki/주제가" title="wikilink">오프닝 테마</a><br />
-<a href="https://ko.wikipedia.org/wiki/2002년" title="wikilink">2002년</a> <a href="https://ko.wikipedia.org/wiki/3월_7일" title="wikilink">3월 7일</a>(239화) ~ 2002년 <a href="https://ko.wikipedia.org/wiki/11월_14일" title="wikilink">11월 14일</a>(274화)</p></td>
+<td><p><a href="../Page/일본의_애니메이션.md" title="wikilink">TV 애니메이션</a> 《<a href="../Page/포켓몬스터_(1997~2002년_애니메이션).md" title="wikilink">포켓몬스터</a>》 <a href="https://ko.wikipedia.org/wiki/주제가" title="wikilink">오프닝 테마</a><br />
+<a href="../Page/2002년.md" title="wikilink">2002년</a> <a href="../Page/3월_7일.md" title="wikilink">3월 7일</a>(239화) ~ 2002년 <a href="../Page/11월_14일.md" title="wikilink">11월 14일</a>(274화)</p></td>
 </tr>
 <tr class="even">
 <td><p>이전 곡:<br />
-<a href="https://ko.wikipedia.org/wiki/Whiteberry" title="wikilink">Whiteberry</a><br />
-〈<a href="https://ko.wikipedia.org/wiki/카쿠렌보_(Whiteberry의_노래)" title="wikilink">노려라 포켓몬 마스터</a>〉</p></td>
+<a href="../Page/Whiteberry.md" title="wikilink">Whiteberry</a><br />
+〈<a href="../Page/카쿠렌보_(Whiteberry의_노래).md" title="wikilink">노려라 포켓몬 마스터</a>〉</p></td>
 </tr>
 <tr class="odd">
 <td><p>TV 애니메이션 《포켓몬스터》 <a href="https://ko.wikipedia.org/wiki/주제가" title="wikilink">엔딩 테마</a><br />

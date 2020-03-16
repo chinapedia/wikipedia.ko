@@ -1,18 +1,18 @@
 > This article is converted from Wikipedia: [MAGIC \(  \)](https://ko.wikipedia.org/wiki/MAGIC_\(__\)).
 
 
-〈**MAGIC**〉은 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [10월 21일에](https://ko.wikipedia.org/wiki/10월_21일 "wikilink") 발매된 [아이우치 리나의](https://ko.wikipedia.org/wiki/아이우치_리나 "wikilink") 31번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink").
+〈**MAGIC**〉은 [2009년](../Page/2009년.md "wikilink") [10월 21일에](../Page/10월_21일.md "wikilink") 발매된 [아이우치 리나의](../Page/아이우치_리나.md "wikilink") 31번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 
-마지막이 되는 《[명탐정 코난](https://ko.wikipedia.org/wiki/명탐정_코난_\(애니메이션\) "wikilink")》의 타이업이다.
+마지막이 되는 《[명탐정 코난](../Page/명탐정_코난_\(애니메이션\).md "wikilink")》의 타이업이다.
 
 ## 수록곡
 
 1.  **MAGIC**
       - 작사: 아이우치 리나, 작곡: [오노 아이카](https://ko.wikipedia.org/wiki/오노_아이카 "wikilink"), 편곡: [하야마 타케시](https://ko.wikipedia.org/wiki/하야마_타케시 "wikilink")
 2.  **hands**
-      - 작사: 아이우치 리나, 작곡: 오타 토시아키, 편곡: [후루이 히로히토](https://ko.wikipedia.org/wiki/후루이_히로히토 "wikilink")
+      - 작사: 아이우치 리나, 작곡: 오타 토시아키, 편곡: [후루이 히로히토](../Page/후루이_히로히토.md "wikilink")
 3.  **MAGIC (instrumental)**
 4.  **hands (instrumental)**
 
@@ -23,12 +23,12 @@
 
 ## 타이업
 
-  - [요미우리 TV](https://ko.wikipedia.org/wiki/요미우리_TV_방송 "wikilink") 애니메이션 《[명탐정 코난](https://ko.wikipedia.org/wiki/명탐정_코난_\(애니메이션\) "wikilink")》 여는 곡 (\#1)
+  - [요미우리 TV](../Page/요미우리_TV_방송.md "wikilink") 애니메이션 《[명탐정 코난](../Page/명탐정_코난_\(애니메이션\).md "wikilink")》 여는 곡 (\#1)
 
 <table>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/일본의_애니메이션" title="wikilink"><span style="color:#fff">TV 애니메이션</span></a> 《<a href="https://ko.wikipedia.org/wiki/명탐정_코난_(애니메이션)" title="wikilink"><span style="color:#fff"><strong>명탐정 코난</strong></span></a>》 여는 곡<br />
+<td><p><a href="../Page/일본의_애니메이션.md" title="wikilink"><span style="color:#fff">TV 애니메이션</span></a> 《<a href="../Page/명탐정_코난_(애니메이션).md" title="wikilink"><span style="color:#fff"><strong>명탐정 코난</strong></span></a>》 여는 곡<br />
 <small>2009년 9월 19일 (547화) ~ 2010년 1월 30일 (564화)</small></p></td>
 </tr>
 <tr class="even">

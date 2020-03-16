@@ -65,7 +65,7 @@
         작사·작곡·편곡: NBSI (토리네)
 14. You're stars shine on me
       -
-        노래: 아나스타샤 ([우에사카 스미레](https://ko.wikipedia.org/wiki/우에사카_스미레 "wikilink"))
+        노래: 아나스타샤 ([우에사카 스미레](../Page/우에사카_스미레.md "wikilink"))
         작사: 카이다 유리코, 작곡·편곡: NBSI (코바야시 케이키)
 15. 전진하라☆소녀여 \~jewel parade\~
       -
@@ -88,7 +88,7 @@
         작사: 모리 유리코, 작곡·편곡: 타나카 히데카즈 (MONACA)
 2.  부탁해\! 신데렐라
       -
-        가: 타카가키 카에데 ([하야미 사오리](https://ko.wikipedia.org/wiki/하야미_사오리 "wikilink")), 죠가사키 미카 ([요시무라 하루카](https://ko.wikipedia.org/wiki/요시무라_하루카 "wikilink")), 코히나타 미호 ([츠다 미나미](https://ko.wikipedia.org/wiki/츠다_미나미 "wikilink")), 토토키 아이리 ([하라다 히토미](https://ko.wikipedia.org/wiki/하라다_히토미 "wikilink")), 카와시마 미즈키 ([토야마 나오](https://ko.wikipedia.org/wiki/토야마_나오_\(성우\) "wikilink")), 히노 아카네 ([아카사키 치나츠](https://ko.wikipedia.org/wiki/아카사키_치나츠 "wikilink")), 코시미즈 사치코 ([타케타츠 아야나](https://ko.wikipedia.org/wiki/타케타츠_아야나 "wikilink")), 사쿠마 마유 ([마키노 유이](https://ko.wikipedia.org/wiki/마키노_유이 "wikilink")), 시라사카 코우메 ([오우사키 치요](https://ko.wikipedia.org/wiki/오우사키_치요 "wikilink"))
+        가: 타카가키 카에데 ([하야미 사오리](../Page/하야미_사오리.md "wikilink")), 죠가사키 미카 ([요시무라 하루카](https://ko.wikipedia.org/wiki/요시무라_하루카 "wikilink")), 코히나타 미호 ([츠다 미나미](../Page/츠다_미나미.md "wikilink")), 토토키 아이리 ([하라다 히토미](../Page/하라다_히토미.md "wikilink")), 카와시마 미즈키 ([토야마 나오](../Page/토야마_나오_\(성우\).md "wikilink")), 히노 아카네 ([아카사키 치나츠](https://ko.wikipedia.org/wiki/아카사키_치나츠 "wikilink")), 코시미즈 사치코 ([타케타츠 아야나](../Page/타케타츠_아야나.md "wikilink")), 사쿠마 마유 ([마키노 유이](../Page/마키노_유이.md "wikilink")), 시라사카 코우메 ([오우사키 치요](https://ko.wikipedia.org/wiki/오우사키_치요 "wikilink"))
         작사: marhy, 작곡·편곡: BNSI (우치다 테츠야)
 3.  메시지
       -

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ tRNA ](https://ko.wikipedia.org/wiki/_tRNA_).
 
 
-**아미노아실 tRNA 합성효소**(aminoacyl tRNA synthetase, aaRS)는 [아미노산](https://ko.wikipedia.org/wiki/아미노산 "wikilink")을 활성화시켜 [tRNA](https://ko.wikipedia.org/wiki/tRNA "wikilink")와 연결 시켜주는 효소이다. 아미노산의 개수와 같이 20개가 있어야 하나 글루탐산을 활성화 시키는 ERS와 프롤린을 활성화 시키는 PRS가 합쳐져 EPRS로 존재하기 때문에 19개로 존재한다. [미토콘드리아](https://ko.wikipedia.org/wiki/미토콘드리아 "wikilink")에서는 따로 존재하여 20개가 존재한다.
+**아미노아실 tRNA 합성효소**(aminoacyl tRNA synthetase, aaRS)는 [아미노산](../Page/아미노산.md "wikilink")을 활성화시켜 [tRNA](https://ko.wikipedia.org/wiki/tRNA "wikilink")와 연결 시켜주는 효소이다. 아미노산의 개수와 같이 20개가 있어야 하나 글루탐산을 활성화 시키는 ERS와 프롤린을 활성화 시키는 PRS가 합쳐져 EPRS로 존재하기 때문에 19개로 존재한다. [미토콘드리아](../Page/미토콘드리아.md "wikilink")에서는 따로 존재하여 20개가 존재한다.
 
 ## 작용원리
 
@@ -23,11 +23,11 @@
 
 ### Class I 아미노산 계열
 
-[아르기닌](https://ko.wikipedia.org/wiki/아르기닌 "wikilink"), [시스테인](https://ko.wikipedia.org/wiki/시스테인 "wikilink"), [글루탐산](https://ko.wikipedia.org/wiki/글루탐산 "wikilink"), [글루타민](https://ko.wikipedia.org/wiki/글루타민 "wikilink"), [이소류신](https://ko.wikipedia.org/wiki/이소류신 "wikilink"), [류신](https://ko.wikipedia.org/wiki/류신 "wikilink"), [메티오닌](https://ko.wikipedia.org/wiki/메티오닌 "wikilink"), [트립토판](https://ko.wikipedia.org/wiki/트립토판 "wikilink"), [발린](https://ko.wikipedia.org/wiki/발린 "wikilink"), [티로신](https://ko.wikipedia.org/wiki/티로신 "wikilink")
+[아르기닌](../Page/아르기닌.md "wikilink"), [시스테인](../Page/시스테인.md "wikilink"), [글루탐산](https://ko.wikipedia.org/wiki/글루탐산 "wikilink"), [글루타민](https://ko.wikipedia.org/wiki/글루타민 "wikilink"), [이소류신](https://ko.wikipedia.org/wiki/이소류신 "wikilink"), [류신](../Page/류신.md "wikilink"), [메티오닌](https://ko.wikipedia.org/wiki/메티오닌 "wikilink"), [트립토판](../Page/트립토판.md "wikilink"), [발린](https://ko.wikipedia.org/wiki/발린 "wikilink"), [티로신](https://ko.wikipedia.org/wiki/티로신 "wikilink")
 
 ### Class II 아미노산 계열
 
-[알라닌](https://ko.wikipedia.org/wiki/알라닌 "wikilink"), [아스파르트산](https://ko.wikipedia.org/wiki/아스파르트산 "wikilink"), [아스파라긴](https://ko.wikipedia.org/wiki/아스파라긴 "wikilink"), [글리신](https://ko.wikipedia.org/wiki/글리신 "wikilink"), [히스티딘](https://ko.wikipedia.org/wiki/히스티딘 "wikilink"), [리신](https://ko.wikipedia.org/wiki/리신 "wikilink"), [페닐알라닌](https://ko.wikipedia.org/wiki/페닐알라닌 "wikilink"), [프롤린](https://ko.wikipedia.org/wiki/프롤린 "wikilink"), [트레오닌](https://ko.wikipedia.org/wiki/트레오닌 "wikilink"), [세린](https://ko.wikipedia.org/wiki/세린 "wikilink")
+[알라닌](../Page/알라닌.md "wikilink"), [아스파르트산](https://ko.wikipedia.org/wiki/아스파르트산 "wikilink"), [아스파라긴](https://ko.wikipedia.org/wiki/아스파라긴 "wikilink"), [글리신](https://ko.wikipedia.org/wiki/글리신 "wikilink"), [히스티딘](https://ko.wikipedia.org/wiki/히스티딘 "wikilink"), [리신](https://ko.wikipedia.org/wiki/리신 "wikilink"), [페닐알라닌](https://ko.wikipedia.org/wiki/페닐알라닌 "wikilink"), [프롤린](https://ko.wikipedia.org/wiki/프롤린 "wikilink"), [트레오닌](https://ko.wikipedia.org/wiki/트레오닌 "wikilink"), [세린](../Page/세린.md "wikilink")
 
 ## 아미노아실 tRNA 합성효소 다량체 MSC(MULTI-AMINOACYL-TRNA SYNTHETASE COMPLEXES)의 존재
 

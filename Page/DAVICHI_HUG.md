@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DAVICHI HUG](https://ko.wikipedia.org/wiki/DAVICHI_HUG).
 
 
-**'DAVICH HUG**'는 대한민국 2인조 여성그룹 [다비치](https://ko.wikipedia.org/wiki/다비치 "wikilink")의 5번째 미니앨범이다. 소속사를 CJ E\&M으로 옮긴 후 처음으로 발매한 앨범이다.
+**'DAVICH HUG**'는 대한민국 2인조 여성그룹 [다비치](../Page/다비치.md "wikilink")의 5번째 미니앨범이다. 소속사를 CJ E\&M으로 옮긴 후 처음으로 발매한 앨범이다.
 
 ## 앨범 수록곡
 
@@ -258,34 +258,34 @@
 
 ## 음악방송 활동
 
-  - 2015.01.22　[MNET](https://ko.wikipedia.org/wiki/엠넷 "wikilink") [엠 카운트다운](https://ko.wikipedia.org/wiki/엠_카운트다운 "wikilink")
-  - 2015.01.23　[KBS2](https://ko.wikipedia.org/wiki/KBS_2TV "wikilink") [뮤직뱅크](https://ko.wikipedia.org/wiki/뮤직뱅크 "wikilink")
+  - 2015.01.22　[MNET](../Page/엠넷.md "wikilink") [엠 카운트다운](https://ko.wikipedia.org/wiki/엠_카운트다운 "wikilink")
+  - 2015.01.23　[KBS2](../Page/KBS_2TV.md "wikilink") [뮤직뱅크](../Page/뮤직뱅크.md "wikilink")
   - 2015.01.24　[MBC](https://ko.wikipedia.org/wiki/MBC "wikilink") [쇼\! 음악중심](https://ko.wikipedia.org/wiki/쇼!_음악중심 "wikilink")
-  - 2015.01.25　[SBS](https://ko.wikipedia.org/wiki/SBS "wikilink") [인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink")
-  - 2015.01.27　[SBS MTV](https://ko.wikipedia.org/wiki/SBS_MTV "wikilink") [더 쇼](https://ko.wikipedia.org/wiki/더_쇼 "wikilink")
-  - 2015.01.29　[MNET](https://ko.wikipedia.org/wiki/엠넷 "wikilink") [엠 카운트다운](https://ko.wikipedia.org/wiki/엠_카운트다운 "wikilink")
-  - 2015.01.30　[KBS2](https://ko.wikipedia.org/wiki/KBS_2TV "wikilink") [뮤직뱅크](https://ko.wikipedia.org/wiki/뮤직뱅크 "wikilink")
+  - 2015.01.25　[SBS](../Page/SBS.md "wikilink") [인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink")
+  - 2015.01.27　[SBS MTV](../Page/SBS_MTV.md "wikilink") [더 쇼](https://ko.wikipedia.org/wiki/더_쇼 "wikilink")
+  - 2015.01.29　[MNET](../Page/엠넷.md "wikilink") [엠 카운트다운](https://ko.wikipedia.org/wiki/엠_카운트다운 "wikilink")
+  - 2015.01.30　[KBS2](../Page/KBS_2TV.md "wikilink") [뮤직뱅크](../Page/뮤직뱅크.md "wikilink")
   - 2015.01.31　[MBC](https://ko.wikipedia.org/wiki/MBC "wikilink") [쇼\! 음악중심](https://ko.wikipedia.org/wiki/쇼!_음악중심 "wikilink")
 
 <!-- end list -->
 
-  - 2015.02.01　[SBS](https://ko.wikipedia.org/wiki/SBS "wikilink") [인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink")
-  - 2015.02.03　[SBS MTV](https://ko.wikipedia.org/wiki/SBS_MTV "wikilink") [더 쇼](https://ko.wikipedia.org/wiki/더_쇼 "wikilink")
+  - 2015.02.01　[SBS](../Page/SBS.md "wikilink") [인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink")
+  - 2015.02.03　[SBS MTV](../Page/SBS_MTV.md "wikilink") [더 쇼](https://ko.wikipedia.org/wiki/더_쇼 "wikilink")
   - 2015.02.04　[MBC MUSIC](https://ko.wikipedia.org/wiki/MBC_MUSIC "wikilink") [쇼\! 챔피언](https://ko.wikipedia.org/wiki/쇼!_챔피언 "wikilink")
-  - 2015.02.05　[MNET](https://ko.wikipedia.org/wiki/엠넷 "wikilink") [엠 카운트다운](https://ko.wikipedia.org/wiki/엠_카운트다운 "wikilink")
-  - 2015.02.06　[KBS2](https://ko.wikipedia.org/wiki/KBS_2TV "wikilink") [뮤직뱅크](https://ko.wikipedia.org/wiki/뮤직뱅크 "wikilink")
-  - 2015.02.07　[KBS2](https://ko.wikipedia.org/wiki/KBS_2TV "wikilink") [유희열의 스케치북](https://ko.wikipedia.org/wiki/유희열의_스케치북 "wikilink")
+  - 2015.02.05　[MNET](../Page/엠넷.md "wikilink") [엠 카운트다운](https://ko.wikipedia.org/wiki/엠_카운트다운 "wikilink")
+  - 2015.02.06　[KBS2](../Page/KBS_2TV.md "wikilink") [뮤직뱅크](../Page/뮤직뱅크.md "wikilink")
+  - 2015.02.07　[KBS2](../Page/KBS_2TV.md "wikilink") [유희열의 스케치북](../Page/유희열의_스케치북.md "wikilink")
   - 2015.02.07　[MBC](https://ko.wikipedia.org/wiki/MBC "wikilink") [쇼\! 음악중심](https://ko.wikipedia.org/wiki/쇼!_음악중심 "wikilink")
-  - 2015.02.08　[SBS](https://ko.wikipedia.org/wiki/SBS "wikilink") [인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink")
+  - 2015.02.08　[SBS](../Page/SBS.md "wikilink") [인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink")
   - 2015.02.13　[Arirang TV](https://ko.wikipedia.org/wiki/Arirang_TV "wikilink") [Simply K-Pop](../Page/Simply_K-Pop.md "wikilink")
 
 ## 수상 내역
 
   - 2015.01.31　[쇼\! 음악중심](https://ko.wikipedia.org/wiki/쇼!_음악중심 "wikilink") 1위 - 또 운다 또
   - 2015.02.05　[엠 카운트다운](https://ko.wikipedia.org/wiki/엠_카운트다운 "wikilink") 1위 - 또 운다 또
-  - 2015.02.06　[뮤직뱅크](https://ko.wikipedia.org/wiki/뮤직뱅크 "wikilink") 1위 - 또 운다 또
+  - 2015.02.06　[뮤직뱅크](../Page/뮤직뱅크.md "wikilink") 1위 - 또 운다 또
 
-  - 2015년 1월 5주차 [가온 디지털 차트](https://ko.wikipedia.org/wiki/가온_디지털_차트 "wikilink") 1위 - 또 운다 또
+  - 2015년 1월 5주차 [가온 디지털 차트](../Page/가온_디지털_차트.md "wikilink") 1위 - 또 운다 또
 
 ## 외부 링크
 

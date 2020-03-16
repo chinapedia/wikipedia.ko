@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [  FK](https://ko.wikipedia.org/wiki/__FK).
 
 
-**이스탄불 바샥셰히르 푸트볼 쿨뤼뷔** () 는 [터키](https://ko.wikipedia.org/wiki/터키 "wikilink") [이스탄불](https://ko.wikipedia.org/wiki/이스탄불 "wikilink")시의 [바샥셰히르](https://ko.wikipedia.org/wiki/바샥셰히르 "wikilink")지구를 연고로 하는 프로 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 현재 터키 최상위 리그인 [쉬페르리그](https://ko.wikipedia.org/wiki/쉬페르리그 "wikilink")에 소속되어 있다. [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink") 설립되었다.
+**이스탄불 바샥셰히르 푸트볼 쿨뤼뷔** () 는 [터키](../Page/터키.md "wikilink") [이스탄불](../Page/이스탄불.md "wikilink")시의 [바샥셰히르](https://ko.wikipedia.org/wiki/바샥셰히르 "wikilink")지구를 연고로 하는 프로 [축구](../Page/축구.md "wikilink") 클럽이다. 현재 터키 최상위 리그인 [쉬페르리그](../Page/쉬페르리그.md "wikilink")에 소속되어 있다. [1990년](../Page/1990년.md "wikilink") 설립되었다.
 
 ## 역대 성적
 
 ### 국내 리그
 
-  - **[쉬페르리그](https://ko.wikipedia.org/wiki/쉬페르리그 "wikilink")**
+  - **[쉬페르리그](../Page/쉬페르리그.md "wikilink")**
       - 준우승: [2016–17](https://ko.wikipedia.org/wiki/쉬페르리그_2016–17 "wikilink")
-  - **[1. Lig](https://ko.wikipedia.org/wiki/TTF_1._리그 "wikilink")**
+  - **[1. Lig](../Page/TTF_1._리그.md "wikilink")**
       - 우승: 2013–14
   - **[2. Lig](https://ko.wikipedia.org/wiki/TTF_2._리그 "wikilink")**
       - 우승: 1992–93, 1996–97

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Break It Down](https://ko.wikipedia.org/wiki/Break_It_Down).
 
 
-《**SpeXial**》은 [중화민국](https://ko.wikipedia.org/wiki/중화민국 "wikilink")의 음악 그룹 [SpeXial](../Page/SpeXial.md "wikilink")의 두 번째 정규 앨범이다.
+《**SpeXial**》은 [중화민국](../Page/중화민국.md "wikilink")의 음악 그룹 [SpeXial](../Page/SpeXial.md "wikilink")의 두 번째 정규 앨범이다.
 
 ## 트랙 리스트
 

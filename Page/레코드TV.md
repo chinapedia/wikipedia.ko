@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TV](https://ko.wikipedia.org/wiki/TV).
 
 
-**레코드TV**()는 [브라질](https://ko.wikipedia.org/wiki/브라질 "wikilink")의 텔레비전 네트워크다.
+**레코드TV**()는 [브라질](../Page/브라질.md "wikilink")의 텔레비전 네트워크다.
 
 ## 주요 프로그램
 

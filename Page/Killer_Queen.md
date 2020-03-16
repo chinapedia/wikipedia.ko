@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [Killer Queen](https://ko.wikipedia.org/wiki/Killer_Queen).
 
 
-〈**Killer Queen**〉은 영국의 록 밴드 [퀸이](https://ko.wikipedia.org/wiki/퀸_\(밴드\) "wikilink") 1974년 발표한 싱글이다. 영국에서 2위를 차지한 것을 비롯해 전 세계적으로 히트쳤으며, 미국에서는 퀸의 첫 히트곡이 되었다.\[1\] 리드 싱어인 [프레디 머큐리가](https://ko.wikipedia.org/wiki/프레디_머큐리 "wikilink") 작사, 작곡했다. 퀸의 세 번째 음반 《[Sheer Heart Attack](https://ko.wikipedia.org/wiki/Sheer_Heart_Attack "wikilink")》과 첫 컴필레이션 음반 《Greatest Hits》에 수록되어 있다.\[2\] 1986년 발매된 싱글에서는 B 사이드로 〈[Who Wants to Live Forever](https://ko.wikipedia.org/wiki/Who_Wants_to_Live_Forever "wikilink")〉가 수록되어 있다.
+〈**Killer Queen**〉은 영국의 록 밴드 [퀸이](../Page/퀸_\(밴드\).md "wikilink") 1974년 발표한 싱글이다. 영국에서 2위를 차지한 것을 비롯해 전 세계적으로 히트쳤으며, 미국에서는 퀸의 첫 히트곡이 되었다.\[1\] 리드 싱어인 [프레디 머큐리가](../Page/프레디_머큐리.md "wikilink") 작사, 작곡했다. 퀸의 세 번째 음반 《[Sheer Heart Attack](../Page/Sheer_Heart_Attack.md "wikilink")》과 첫 컴필레이션 음반 《Greatest Hits》에 수록되어 있다.\[2\] 1986년 발매된 싱글에서는 B 사이드로 〈[Who Wants to Live Forever](../Page/Who_Wants_to_Live_Forever.md "wikilink")〉가 수록되어 있다.
 
-노래는 고급 매춘부에 대한 이야기를 그리며,\[3\] 가사 중 [마리 앙투아네트가](https://ko.wikipedia.org/wiki/마리_앙투아네트 "wikilink") 말한 것으로 잘못 알려진 "빵이 없으면 케이크를 먹으라고 하세요"가 인용되어 있다.
+노래는 고급 매춘부에 대한 이야기를 그리며,\[3\] 가사 중 [마리 앙투아네트가](../Page/마리_앙투아네트.md "wikilink") 말한 것으로 잘못 알려진 "빵이 없으면 케이크를 먹으라고 하세요"가 인용되어 있다.
 
 ## 영향
 
-미국의 팝 가수인 [케이티 페리는](https://ko.wikipedia.org/wiki/케이티_페리 "wikilink") 〈Killer Queen〉이 자신에게 큰 영향을 주었다고 밝혔다. 그녀는 "〈Killer Queen〉은 내게 음악을 발견할 수 있게 했고, 내 자신을 도울 수 있게 했습니다. 프레디 머큐리는 가사로 절 자신있는 여성으로 만들어 줬어요"라고 말했다.\[4\]
+미국의 팝 가수인 [케이티 페리는](../Page/케이티_페리.md "wikilink") 〈Killer Queen〉이 자신에게 큰 영향을 주었다고 밝혔다. 그녀는 "〈Killer Queen〉은 내게 음악을 발견할 수 있게 했고, 내 자신을 도울 수 있게 했습니다. 프레디 머큐리는 가사로 절 자신있는 여성으로 만들어 줬어요"라고 말했다.\[4\]
 
-만화 및 애니메이션 시리즈인 《[죠죠의 기묘한 모험](https://ko.wikipedia.org/wiki/죠죠의_기묘한_모험 "wikilink")》에 등장하는 스탠드 이름 중 하나는 여기에서 가져왔다.
+만화 및 애니메이션 시리즈인 《[죠죠의 기묘한 모험](../Page/죠죠의_기묘한_모험.md "wikilink")》에 등장하는 스탠드 이름 중 하나는 여기에서 가져왔다.
 
 ## 차트 성적
 
@@ -65,7 +65,7 @@
 <td><p>2</p></td>
 </tr>
 <tr class="odd">
-<td><p>미국 <a href="https://ko.wikipedia.org/wiki/빌보드_핫_100" title="wikilink">빌보드 핫 100</a>[13]</p></td>
+<td><p>미국 <a href="../Page/빌보드_핫_100.md" title="wikilink">빌보드 핫 100</a>[13]</p></td>
 <td><p>12</p></td>
 </tr>
 <tr class="even">

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NH-Amundi](https://ko.wikipedia.org/wiki/NH-Amundi).
 
 
-**NH-Amundi자산운용**(엔에이치아문디자산운용)은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 자산운용사로 [농협금융지주](https://ko.wikipedia.org/wiki/농협금융지주 "wikilink")와 [프랑스](https://ko.wikipedia.org/wiki/프랑스 "wikilink") Amundi의 합작 자산운용사이다.
+**NH-Amundi자산운용**(엔에이치아문디자산운용)은 [대한민국](../Page/대한민국.md "wikilink")의 자산운용사로 [농협금융지주](https://ko.wikipedia.org/wiki/농협금융지주 "wikilink")와 [프랑스](../Page/프랑스.md "wikilink") Amundi의 합작 자산운용사이다.
 
 ## 연혁
 

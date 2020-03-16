@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [    FSC](https://ko.wikipedia.org/wiki/____FSC).
 
 
-**탬 이란 코드로 테헤란 FSC**는 2009년 해체된 이란의 [풋살](https://ko.wikipedia.org/wiki/풋살 "wikilink") 선수단이다.
+**탬 이란 코드로 테헤란 FSC**는 2009년 해체된 이란의 [풋살](../Page/풋살.md "wikilink") 선수단이다.
 
 ## 우승 기록
 

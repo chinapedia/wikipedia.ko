@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [FS  ](https://ko.wikipedia.org/wiki/FS__).
 
 
-**FS 서울 레이디스**()은 [서울특별시](https://ko.wikipedia.org/wiki/서울특별시 "wikilink")를 연고로 하는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [풋살](https://ko.wikipedia.org/wiki/풋살 "wikilink") 선수단이다.
+**FS 서울 레이디스**()은 [서울특별시](../Page/서울특별시.md "wikilink")를 연고로 하는 [대한민국](../Page/대한민국.md "wikilink")의 [풋살](../Page/풋살.md "wikilink") 선수단이다.
 
 ## 우승 기록
 
-  - [FK리그](https://ko.wikipedia.org/wiki/FK리그 "wikilink")
+  - [FK리그](../Page/FK리그.md "wikilink")
       - 우승(1): [2014-15](https://ko.wikipedia.org/wiki/FK리그_2014-15 "wikilink")
 
 ## 개인 기록
@@ -16,7 +16,7 @@
 ## 같이 보기
 
   - [FS 서울](https://ko.wikipedia.org/wiki/FS_서울 "wikilink")
-  - [서울특별시 도시철도공사](https://ko.wikipedia.org/wiki/서울특별시_도시철도공사 "wikilink")
+  - [서울특별시 도시철도공사](../Page/서울특별시_도시철도공사.md "wikilink")
 
 ## 외부 링크
 

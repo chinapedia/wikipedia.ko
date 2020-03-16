@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [ \(BREAKERZ \)](https://ko.wikipedia.org/wiki/_\(BREAKERZ_\)).
 
 
-{{싱글 정보 | 곡명 = 빛 | 음악가 = [브레이커즈](https://ko.wikipedia.org/wiki/브레이커즈 "wikilink") | 음반 = [FIGHTERZ](https://ko.wikipedia.org/wiki/FIGHTERZ "wikilink") | A 사이드 = | B 사이드 = | 발매일 =  | 포맷 = [맥시 싱글](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink") | 녹음 = | 장르 = [J-POP](https://ko.wikipedia.org/wiki/J-POP "wikilink")
-[록](https://ko.wikipedia.org/wiki/록_음악 "wikilink") | 길이 = | 레이블 = [제인 레코드](https://ko.wikipedia.org/wiki/제인_레코드 "wikilink") | 작사·작곡 = | 프로듀서= 브레이커즈
+{{싱글 정보 | 곡명 = 빛 | 음악가 = [브레이커즈](https://ko.wikipedia.org/wiki/브레이커즈 "wikilink") | 음반 = [FIGHTERZ](https://ko.wikipedia.org/wiki/FIGHTERZ "wikilink") | A 사이드 = | B 사이드 = | 발매일 =  | 포맷 = [맥시 싱글](../Page/싱글_\(음악\).md "wikilink") | 녹음 = | 장르 = [J-POP](https://ko.wikipedia.org/wiki/J-POP "wikilink")
+[록](../Page/록_음악.md "wikilink") | 길이 = | 레이블 = [제인 레코드](https://ko.wikipedia.org/wiki/제인_레코드 "wikilink") | 작사·작곡 = | 프로듀서= 브레이커즈
 제인 프로덕트 | 이전싱글 = [{{nobr](https://ko.wikipedia.org/wiki/Everlasting_Luv/BAMBINO_~밤비노~ "wikilink")
-([2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")) | 이번싱글 = **빛**
+([2009년](../Page/2009년.md "wikilink")) | 이번싱글 = **빛**
 (2009년) | 다음싱글 = \[\[LOVE_FIGHTER_\~사랑의_배틀\~|
 
-〈**빛**〉()는 [브레이커즈](https://ko.wikipedia.org/wiki/브레이커즈 "wikilink")의 여섯 번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink") [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [7월 15일에](https://ko.wikipedia.org/wiki/7월_15일 "wikilink") [제인 레코드에서](https://ko.wikipedia.org/wiki/제인_레코드 "wikilink") 발매됐다. 한국어 버전은 〈[빛](https://ko.wikipedia.org/wiki/빛_\(메이트의_노래\) "wikilink")〉이라는 제목으로 [메이트가](https://ko.wikipedia.org/wiki/메이트_\(음악_그룹\) "wikilink") 불렀다.
+〈**빛**〉()는 [브레이커즈](https://ko.wikipedia.org/wiki/브레이커즈 "wikilink")의 여섯 번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink") [2009년](../Page/2009년.md "wikilink") [7월 15일에](../Page/7월_15일.md "wikilink") [제인 레코드에서](https://ko.wikipedia.org/wiki/제인_레코드 "wikilink") 발매됐다. 한국어 버전은 〈[빛](https://ko.wikipedia.org/wiki/빛_\(메이트의_노래\) "wikilink")〉이라는 제목으로 [메이트가](../Page/메이트_\(음악_그룹\).md "wikilink") 불렀다.
 
 ## 개요
 
@@ -66,7 +66,7 @@
 
 ## 타이업
 
-  - [요미우리 TV](https://ko.wikipedia.org/wiki/요미우리_TV_방송 "wikilink") 제작 [닛폰 TV계](https://ko.wikipedia.org/wiki/닛폰_TV_방송망 "wikilink") 애니메이션 《[명탐정 코난](https://ko.wikipedia.org/wiki/명탐정_코난_\(애니메이션\) "wikilink")》 닫는 곡 (\#1)
+  - [요미우리 TV](../Page/요미우리_TV_방송.md "wikilink") 제작 [닛폰 TV계](../Page/닛폰_TV_방송망.md "wikilink") 애니메이션 《[명탐정 코난](../Page/명탐정_코난_\(애니메이션\).md "wikilink")》 닫는 곡 (\#1)
 
 ## 참가 음악가
 
@@ -76,21 +76,21 @@
 
 ## 메이트 버전
 
-〈**빛**〉은 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [5월 31일에](https://ko.wikipedia.org/wiki/5월_31일 "wikilink") 발매된 [메이트의](https://ko.wikipedia.org/wiki/메이트_\(음악_그룹\) "wikilink") 싱글이며, [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [5월 26일부터](https://ko.wikipedia.org/wiki/5월_26일 "wikilink") 2010년 [8월 19일까지](https://ko.wikipedia.org/wiki/8월_19일 "wikilink") [투니버스](https://ko.wikipedia.org/wiki/투니버스 "wikilink")에서 방영된 《[명탐정 코난](https://ko.wikipedia.org/wiki/명탐정_코난_\(애니메이션\) "wikilink") 8기》의 주제가로 쓰였다.
+〈**빛**〉은 [2010년](../Page/2010년.md "wikilink") [5월 31일에](../Page/5월_31일.md "wikilink") 발매된 [메이트의](../Page/메이트_\(음악_그룹\).md "wikilink") 싱글이며, [2010년](../Page/2010년.md "wikilink") [5월 26일부터](../Page/5월_26일.md "wikilink") 2010년 [8월 19일까지](../Page/8월_19일.md "wikilink") [투니버스](../Page/투니버스.md "wikilink")에서 방영된 《[명탐정 코난](../Page/명탐정_코난_\(애니메이션\).md "wikilink") 8기》의 주제가로 쓰였다.
 
 <table>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/일본의_애니메이션" title="wikilink"><span style="color:#fff">TV 애니메이션</span></a> 《<a href="https://ko.wikipedia.org/wiki/명탐정_코난_(애니메이션)" title="wikilink"><span style="color:#fff"><strong>명탐정 코난</strong></span></a>》 닫는 곡<br />
+<td><p><a href="../Page/일본의_애니메이션.md" title="wikilink"><span style="color:#fff">TV 애니메이션</span></a> 《<a href="../Page/명탐정_코난_(애니메이션).md" title="wikilink"><span style="color:#fff"><strong>명탐정 코난</strong></span></a>》 닫는 곡<br />
 <small>2009년 7월 11일 (540화) ~ 2009년 12월 26일 (561화)</small></p></td>
 </tr>
 <tr class="even">
 <td><p>이전 곡:<br />
 <a href="https://ko.wikipedia.org/wiki/가넷_크로우" title="wikilink">가넷 크로우</a><br />
-〈<a href="https://ko.wikipedia.org/wiki/Doing_all_right" title="wikilink">Doing all right</a>〉</p></td>
+〈<a href="../Page/Doing_all_right.md" title="wikilink">Doing all right</a>〉</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/일본의_애니메이션" title="wikilink"><span style="color:#fff">TV 애니메이션</span></a> 《<a href="https://ko.wikipedia.org/wiki/명탐정_코난_(애니메이션)" title="wikilink"><span style="color:#fff"><strong>명탐정 코난</strong></span></a>》 더빙판 주제가<br />
+<td><p><a href="../Page/일본의_애니메이션.md" title="wikilink"><span style="color:#fff">TV 애니메이션</span></a> 《<a href="../Page/명탐정_코난_(애니메이션).md" title="wikilink"><span style="color:#fff"><strong>명탐정 코난</strong></span></a>》 더빙판 주제가<br />
 <small>2010년 5월 26일 (389화) ~ 2010년 8월 19일 (440화)</small></p></td>
 </tr>
 <tr class="even">

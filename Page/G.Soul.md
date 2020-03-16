@@ -1,35 +1,35 @@
 > This article is converted from Wikipedia: [G.Soul](https://ko.wikipedia.org/wiki/G.Soul).
 
 
-**G.Soul**(지소울, , [1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink") [6월 16일](https://ko.wikipedia.org/wiki/6월_16일 "wikilink") \~ )은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 싱어송라이터이며, [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") 미니 앨범 **Coming Home**으로 정식 데뷔하였다.
+**G.Soul**(지소울, , [1988년](../Page/1988년.md "wikilink") [6월 16일](../Page/6월_16일.md "wikilink") \~ )은 [대한민국](../Page/대한민국.md "wikilink")의 싱어송라이터이며, [2015년](../Page/2015년.md "wikilink") 미니 앨범 **Coming Home**으로 정식 데뷔하였다.
 
-[JYP엔터테인먼트](https://ko.wikipedia.org/wiki/JYP엔터테인먼트 "wikilink")에서 15년에 육박하는 오랜 연습생 생활을 거쳐 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink")에 데뷔한 그는 [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") 6월에 JYP와 계약이 만료된 후, [박재범](https://ko.wikipedia.org/wiki/박재범 "wikilink")이 세운 힙합 레이블인 [하이어뮤직으로](https://ko.wikipedia.org/wiki/H1GHR_MUSIC "wikilink") 곧바로 이적했다.\[1\]
+[JYP엔터테인먼트](https://ko.wikipedia.org/wiki/JYP엔터테인먼트 "wikilink")에서 15년에 육박하는 오랜 연습생 생활을 거쳐 [2015년](../Page/2015년.md "wikilink")에 데뷔한 그는 [2017년](../Page/2017년.md "wikilink") 6월에 JYP와 계약이 만료된 후, [박재범](../Page/박재범.md "wikilink")이 세운 힙합 레이블인 [하이어뮤직으로](../Page/H1GHR_MUSIC.md "wikilink") 곧바로 이적했다.\[1\]
 
-[2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [12월 25일에](https://ko.wikipedia.org/wiki/12월_25일 "wikilink") 현역 입대를 앞두고 새 싱글 **I'll Be There**을 발매하였으며, [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [12월 26일에](https://ko.wikipedia.org/wiki/12월_26일 "wikilink") 입대하여 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [포천시](https://ko.wikipedia.org/wiki/포천시 "wikilink")에서 현역으로 군 복무를 마치고 [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [9월 4일에](https://ko.wikipedia.org/wiki/9월_4일 "wikilink") 제대했다.\[2\]
+[2017년](../Page/2017년.md "wikilink") [12월 25일에](../Page/12월_25일.md "wikilink") 현역 입대를 앞두고 새 싱글 **I'll Be There**을 발매하였으며, [2017년](../Page/2017년.md "wikilink") [12월 26일에](../Page/12월_26일.md "wikilink") 입대하여 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [포천시](../Page/포천시.md "wikilink")에서 현역으로 군 복무를 마치고 [2019년](../Page/2019년.md "wikilink") [9월 4일에](../Page/9월_4일.md "wikilink") 제대했다.\[2\]
 
 ## 음반
 
 ### [G.Soul](../Page/G.Soul.md "wikilink")
 
-#### [EP](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink") 앨범
+#### [EP](../Page/익스텐디드_플레이.md "wikilink") 앨범
 
-| 날짜         | 앨범            | 가수명         | 소속사                                                                 |
-| ---------- | ------------- | ----------- | ------------------------------------------------------------------- |
-| 2015.01.19 | 《Coming Home》 | G.Soul(지소울) | [JYP 엔터테인먼트](https://ko.wikipedia.org/wiki/JYP_엔터테인먼트 "wikilink")   |
-| 2015.09.10 | 《Dirty》       | G.Soul(지소울) | [JYP 엔터테인먼트](https://ko.wikipedia.org/wiki/JYP_엔터테인먼트 "wikilink")   |
-| 2017.09.07 | 《Circles》     | G.Soul(지소울) | [H1GHR MUSIC](https://ko.wikipedia.org/wiki/H1GHR_MUSIC "wikilink") |
+| 날짜         | 앨범            | 가수명         | 소속사                                              |
+| ---------- | ------------- | ----------- | ------------------------------------------------ |
+| 2015.01.19 | 《Coming Home》 | G.Soul(지소울) | [JYP 엔터테인먼트](../Page/JYP_엔터테인먼트.md "wikilink")   |
+| 2015.09.10 | 《Dirty》       | G.Soul(지소울) | [JYP 엔터테인먼트](../Page/JYP_엔터테인먼트.md "wikilink")   |
+| 2017.09.07 | 《Circles》     | G.Soul(지소울) | [H1GHR MUSIC](../Page/H1GHR_MUSIC.md "wikilink") |
 
 #### [싱글 앨범](https://ko.wikipedia.org/wiki/싱글_앨범 "wikilink")
 
-| 날짜         | 앨범                    | 가수명         | 소속사                                                                 |
-| ---------- | --------------------- | ----------- | ------------------------------------------------------------------- |
-| 2015.01.26 | 《You (Acoustic Ver.)》 | G.Soul(지소울) | [JYP 엔터테인먼트](https://ko.wikipedia.org/wiki/JYP_엔터테인먼트 "wikilink")   |
-| 2015.06.29 | 《Love Me Again》       | G.Soul(지소울) | [JYP 엔터테인먼트](https://ko.wikipedia.org/wiki/JYP_엔터테인먼트 "wikilink")   |
-| 2016.02.16 | 《Smooth Operator》     | G.Soul(지소울) | [JYP 엔터테인먼트](https://ko.wikipedia.org/wiki/JYP_엔터테인먼트 "wikilink")   |
-| 2016.05.12 | 《멀리멀리》                | G.Soul(지소울) | [JYP 엔터테인먼트](https://ko.wikipedia.org/wiki/JYP_엔터테인먼트 "wikilink")   |
-| 2017.06.27 | 《Tequila》             | G.Soul(지소울) | [H1GHR MUSIC](https://ko.wikipedia.org/wiki/H1GHR_MUSIC "wikilink") |
-| 2017.07.05 | 《술버릇 (Bad Habits)》    | G.Soul(지소울) | [H1GHR MUSIC](https://ko.wikipedia.org/wiki/H1GHR_MUSIC "wikilink") |
-| 2017.12.25 | 《I'll Be There》       | G.Soul(지소울) | [H1GHR MUSIC](https://ko.wikipedia.org/wiki/H1GHR_MUSIC "wikilink") |
+| 날짜         | 앨범                    | 가수명         | 소속사                                              |
+| ---------- | --------------------- | ----------- | ------------------------------------------------ |
+| 2015.01.26 | 《You (Acoustic Ver.)》 | G.Soul(지소울) | [JYP 엔터테인먼트](../Page/JYP_엔터테인먼트.md "wikilink")   |
+| 2015.06.29 | 《Love Me Again》       | G.Soul(지소울) | [JYP 엔터테인먼트](../Page/JYP_엔터테인먼트.md "wikilink")   |
+| 2016.02.16 | 《Smooth Operator》     | G.Soul(지소울) | [JYP 엔터테인먼트](../Page/JYP_엔터테인먼트.md "wikilink")   |
+| 2016.05.12 | 《멀리멀리》                | G.Soul(지소울) | [JYP 엔터테인먼트](../Page/JYP_엔터테인먼트.md "wikilink")   |
+| 2017.06.27 | 《Tequila》             | G.Soul(지소울) | [H1GHR MUSIC](../Page/H1GHR_MUSIC.md "wikilink") |
+| 2017.07.05 | 《술버릇 (Bad Habits)》    | G.Soul(지소울) | [H1GHR MUSIC](../Page/H1GHR_MUSIC.md "wikilink") |
+| 2017.12.25 | 《I'll Be There》       | G.Soul(지소울) | [H1GHR MUSIC](../Page/H1GHR_MUSIC.md "wikilink") |
 
 ### 참여 앨범
 
@@ -90,7 +90,7 @@
 <td><p>2016.02.23</p></td>
 <td><p>〈오늘까지만 (Until Today)〉</p></td>
 <td><p>《Press It - The 1st Album》</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/태민" title="wikilink">태민</a></p></td>
+<td><p><a href="../Page/태민.md" title="wikilink">태민</a></p></td>
 <td><p>작사 작곡</p></td>
 <td><p>작사 : G.Soul<br />
 작곡 : G.Soul, MZMC, CHAMMAS JAMIL GEORGE, JUSTIN LUCAS</p></td>
@@ -162,7 +162,7 @@
 
 ## 방송
 
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink") [미스터리 음악쇼 복면가왕](../Page/미스터리_음악쇼_복면가왕.md "wikilink") 원조 콧수염 미남 찰리채플린 (참가자)
+  - [2017년](../Page/2017년.md "wikilink") [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink") [미스터리 음악쇼 복면가왕](../Page/미스터리_음악쇼_복면가왕.md "wikilink") 원조 콧수염 미남 찰리채플린 (참가자)
 
 ## 각주
 

@@ -45,7 +45,7 @@ function p.main(frame)
 `   if args[1] and args[1]:find('%S') then`
 `       userboxes = frame:preprocess('``')`
 `   else`
-`       userboxes = args.noboxestext or "어떠한 언어도 추가하지 않았습니다. `[`위키백과:바벨`](https://ko.wikipedia.org/wiki/위키백과:바벨 "wikilink")을` 참고해서 추가하세요."`
+`       userboxes = args.noboxestext or "어떠한 언어도 추가하지 않았습니다. `[`위키백과:바벨`](../Page/위키백과:바벨.md "wikilink")을` 참고해서 추가하세요."`
 `   end`
 
 `   body_cells:wikitext(userboxes)`
@@ -75,7 +75,7 @@ function p.main(frame)
 `           :css({ ['background-color'] = color,`
 `                   ['text-align'] = 'center' })`
 `           :attr('colspan',col_span)`
-`           :wikitext( args.header or '`[`위키백과:바벨`](https://ko.wikipedia.org/wiki/위키백과:바벨 "wikilink")`' )`
+`           :wikitext( args.header or '`[`위키백과:바벨`](../Page/위키백과:바벨.md "wikilink")`' )`
 `           :done()`
 
 `   row3:tag('td')`

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [It\'s for you](https://ko.wikipedia.org/wiki/It\'s_for_you).
 
 
-《**It's for you**》는 [사에구사 유카 인 데시벨의](https://ko.wikipedia.org/wiki/사에구사_유카_인_데시벨 "wikilink") 2번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink").
+《**It's for you**》는 [사에구사 유카 인 데시벨의](https://ko.wikipedia.org/wiki/사에구사_유카_인_데시벨 "wikilink") 2번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 수록곡
 

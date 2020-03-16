@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NCCK ](https://ko.wikipedia.org/wiki/NCCK_).
 
 
-**NCCK 인권상**은 1987년부터 세계인권선언일(12월 10일)에 즈음해 인권주간 공동예배를 하고 인권에 기여한 개인이나 단체에 대하여 [한국기독교교회협의회](https://ko.wikipedia.org/wiki/한국기독교교회협의회 "wikilink")가 시상하는 상이다. 한국기독교교회협의회가 공식 약칭을 바꾸기 전에는 **KNCC 인권상**으로도 불렸다\[1\].
+**NCCK 인권상**은 1987년부터 세계인권선언일(12월 10일)에 즈음해 인권주간 공동예배를 하고 인권에 기여한 개인이나 단체에 대하여 [한국기독교교회협의회](../Page/한국기독교교회협의회.md "wikilink")가 시상하는 상이다. 한국기독교교회협의회가 공식 약칭을 바꾸기 전에는 **KNCC 인권상**으로도 불렸다\[1\].
 
 ## 역대 수상자
 
@@ -31,13 +31,13 @@
 <tr class="odd">
 <td><p>1990년<br />
 <small>(4회)</small></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/윤석양" title="wikilink">윤석양</a>[5]</p></td>
+<td><p><a href="../Page/윤석양.md" title="wikilink">윤석양</a>[5]</p></td>
 <td><p>보안사 민간인 사찰 폭로</p></td>
 </tr>
 <tr class="even">
 <td><p>1991년<br />
 <small>(5회)</small></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/강경대" title="wikilink">강경대</a> 유가족[6]</p></td>
+<td><p><a href="../Page/강경대.md" title="wikilink">강경대</a> 유가족[6]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -103,20 +103,20 @@
 <tr class="odd">
 <td><p>2002년<br />
 <small>(16회)</small></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미군_장갑차에_의한_중학생_압사_사건" title="wikilink">미군장갑차여중생살인사건</a> 범국민대책위원회</p></td>
+<td><p><a href="../Page/미군_장갑차에_의한_중학생_압사_사건.md" title="wikilink">미군장갑차여중생살인사건</a> 범국민대책위원회</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2004년<br />
 <small>(18회)</small></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/삼청교육대" title="wikilink">삼청교육대</a>인권운동연합[18]</p></td>
+<td><p><a href="../Page/삼청교육대.md" title="wikilink">삼청교육대</a>인권운동연합[18]</p></td>
 <td><p>삼청교육대 피해자의 인권을 위해 투쟁하고, <a href="https://ko.wikipedia.org/wiki/:s:ko:삼청교육피해자의_명예회복_및_보상에_관한_법률" title="wikilink">삼청교육피해자의 명예회복 및 보상에 관한 법률</a> 제정에 공헌</p></td>
 </tr>
 <tr class="odd">
 <td><p>2005년<br />
 <small>(19회)</small></p></td>
 <td><p>우토로국제대책회의</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/우토로" title="wikilink">우토로</a> 지역 주민들을 위한 모금 및 활동 진행</p></td>
+<td><p><a href="../Page/우토로.md" title="wikilink">우토로</a> 지역 주민들을 위한 모금 및 활동 진행</p></td>
 </tr>
 <tr class="even">
 <td><p>2006년<br />
@@ -142,7 +142,7 @@
 <td><p>2007년<br />
 <small>(21회)</small></p></td>
 <td><p>고난받는 이들과 함께하는 모임 (고난함께)[20]<br />
-<strong>특별상</strong> : 버마행동·<a href="https://ko.wikipedia.org/wiki/국민민주연맹" title="wikilink">국민민주연맹</a>(NLD)[21]</p></td>
+<strong>특별상</strong> : 버마행동·<a href="../Page/국민민주연맹.md" title="wikilink">국민민주연맹</a>(NLD)[21]</p></td>
 <td><p>20년 가까이 인권 소외지대에 놓인 비전향 장기수와 양심수를 꾸준히 섬겨옴<br />
 특별상: 2007년 버마민중항쟁이 한국교회의 주요 이슈이자 사업이므로</p></td>
 </tr>
@@ -179,7 +179,7 @@
 <tr class="odd">
 <td><p>2013년<br />
 <small>(27회)</small></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/표창원" title="wikilink">표창원</a></strong>(전 경찰대 교수)</p></td>
+<td><p><strong><a href="../Page/표창원.md" title="wikilink">표창원</a></strong>(전 경찰대 교수)</p></td>
 <td><p>민주주의의 소중한 가치인 국민 참정권 회복을 위해 국정원 선거개입 의혹을 제기했고 이 과정에서 권력의 전방위적 압박에도 불구하고 경찰대 교수를 사임하면서까지 이를 널리 알리는 데 노력했기에 수상자로 선정[22]</p></td>
 </tr>
 <tr class="even">
@@ -191,13 +191,13 @@
 <tr class="odd">
 <td><p>2016년<br />
 <small>(30회)</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/최승호_(언론인)" title="wikilink">최승호</a></strong> (당시 <a href="https://ko.wikipedia.org/wiki/뉴스타파" title="wikilink">뉴스타파</a> PD, 감독)</small>[23]</p></td>
+<td><p><strong><a href="../Page/최승호_(언론인).md" title="wikilink">최승호</a></strong> (당시 <a href="../Page/뉴스타파.md" title="wikilink">뉴스타파</a> PD, 감독)</small>[23]</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/자백_(영화)" title="wikilink">자백 (영화)</a> 제작</p></td>
 </tr>
 <tr class="even">
 <td><p>2017년<br />
 <small>(31회)</small></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/민주노총" title="wikilink">민주노총</a> 강원영동지역 삼표지부</strong> (<a href="https://ko.wikipedia.org/wiki/삼표시멘트" title="wikilink">삼표시멘트</a> 노동조합)[24][25]</p></td>
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/민주노총" title="wikilink">민주노총</a> 강원영동지역 삼표지부</strong> (<a href="../Page/삼표시멘트.md" title="wikilink">삼표시멘트</a> 노동조합)[24][25]</p></td>
 <td><p>구 <a href="https://ko.wikipedia.org/wiki/동양시멘트" title="wikilink">동양시멘트</a> 투쟁 승리로 비정규직 노동자 38명이 모두 정규직으로 복직해 모든 비정규직 노동자에게 희망이 되었기 때문</p></td>
 </tr>
 </tbody>
@@ -209,7 +209,7 @@
 
 ## 같이 보기
 
-  - [한국기독교교회협의회](https://ko.wikipedia.org/wiki/한국기독교교회협의회 "wikilink")
+  - [한국기독교교회협의회](../Page/한국기독교교회협의회.md "wikilink")
 
 ## 각주
 

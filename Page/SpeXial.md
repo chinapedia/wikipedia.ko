@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SpeXial](https://ko.wikipedia.org/wiki/SpeXial).
 
 
-**SpeXial**은 [가미제작](https://ko.wikipedia.org/wiki/가미제작 "wikilink") 소속의 [중화민국](https://ko.wikipedia.org/wiki/중화민국 "wikilink") 12인조 남성 음악 그룹이다.
+**SpeXial**은 [가미제작](https://ko.wikipedia.org/wiki/가미제작 "wikilink") 소속의 [중화민국](../Page/중화민국.md "wikilink") 12인조 남성 음악 그룹이다.
 
 ## 구성원
 
@@ -57,21 +57,21 @@
 <td><ul>
 <li>'''애저종리보감각
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/8월_16일" title="wikilink">8월 16일</a> <a href="../Page/TVBS.md" title="wikilink">TVBS</a> 《<a href="https://ko.wikipedia.org/wiki/전구중문음악방상방" title="wikilink">전구중문음악방상방</a>》 1위</li>
-<li><a href="https://ko.wikipedia.org/wiki/8월_23일" title="wikilink">8월 23일</a> <a href="../Page/TVBS.md" title="wikilink">TVBS</a> 《<a href="https://ko.wikipedia.org/wiki/전구중문음악방상방" title="wikilink">전구중문음악방상방</a>》 1위</li>
-<li><a href="https://ko.wikipedia.org/wiki/8월_30일" title="wikilink">8월 30일</a> <a href="../Page/TVBS.md" title="wikilink">TVBS</a> 《<a href="https://ko.wikipedia.org/wiki/전구중문음악방상방" title="wikilink">전구중문음악방상방</a>》 1위</li>
+<li><a href="../Page/8월_16일.md" title="wikilink">8월 16일</a> <a href="../Page/TVBS.md" title="wikilink">TVBS</a> 《<a href="https://ko.wikipedia.org/wiki/전구중문음악방상방" title="wikilink">전구중문음악방상방</a>》 1위</li>
+<li><a href="../Page/8월_23일.md" title="wikilink">8월 23일</a> <a href="../Page/TVBS.md" title="wikilink">TVBS</a> 《<a href="https://ko.wikipedia.org/wiki/전구중문음악방상방" title="wikilink">전구중문음악방상방</a>》 1위</li>
+<li><a href="../Page/8월_30일.md" title="wikilink">8월 30일</a> <a href="../Page/TVBS.md" title="wikilink">TVBS</a> 《<a href="https://ko.wikipedia.org/wiki/전구중문음악방상방" title="wikilink">전구중문음악방상방</a>》 1위</li>
 </ul></li>
 <li>'''애불재호흡
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/9월_6일" title="wikilink">9월 6일</a> <a href="../Page/TVBS.md" title="wikilink">TVBS</a> 《<a href="https://ko.wikipedia.org/wiki/전구중문음악방상방" title="wikilink">전구중문음악방상방</a>》 1위</li>
+<li><a href="../Page/9월_6일.md" title="wikilink">9월 6일</a> <a href="../Page/TVBS.md" title="wikilink">TVBS</a> 《<a href="https://ko.wikipedia.org/wiki/전구중문음악방상방" title="wikilink">전구중문음악방상방</a>》 1위</li>
 </ul></li>
 <li>'''Break It Down
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/9월_20일" title="wikilink">9월 20일</a> <a href="../Page/TVBS.md" title="wikilink">TVBS</a> 《<a href="https://ko.wikipedia.org/wiki/전구중문음악방상방" title="wikilink">전구중문음악방상방</a>》 1위</li>
+<li><a href="../Page/9월_20일.md" title="wikilink">9월 20일</a> <a href="../Page/TVBS.md" title="wikilink">TVBS</a> 《<a href="https://ko.wikipedia.org/wiki/전구중문음악방상방" title="wikilink">전구중문음악방상방</a>》 1위</li>
 </ul></li>
 <li>'''병첩기억
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/10월_25일" title="wikilink">10월 25일</a> <a href="../Page/TVBS.md" title="wikilink">TVBS</a> 《<a href="https://ko.wikipedia.org/wiki/전구중문음악방상방" title="wikilink">전구중문음악방상방</a>》 1위</li>
+<li><a href="../Page/10월_25일.md" title="wikilink">10월 25일</a> <a href="../Page/TVBS.md" title="wikilink">TVBS</a> 《<a href="https://ko.wikipedia.org/wiki/전구중문음악방상방" title="wikilink">전구중문음악방상방</a>》 1위</li>
 </ul></li>
 </ul></td>
 </tr>
@@ -80,13 +80,13 @@
 <td><ul>
 <li>'''Love Killah
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/2월_7일" title="wikilink">2월 7일</a> <a href="../Page/TVBS.md" title="wikilink">TVBS</a> 《<a href="https://ko.wikipedia.org/wiki/전구중문음악방상방" title="wikilink">전구중문음악방상방</a>》 1위</li>
-<li><a href="https://ko.wikipedia.org/wiki/2월_14일" title="wikilink">2월 14일</a> <a href="../Page/TVBS.md" title="wikilink">TVBS</a> 《<a href="https://ko.wikipedia.org/wiki/전구중문음악방상방" title="wikilink">전구중문음악방상방</a>》 1위</li>
+<li><a href="../Page/2월_7일.md" title="wikilink">2월 7일</a> <a href="../Page/TVBS.md" title="wikilink">TVBS</a> 《<a href="https://ko.wikipedia.org/wiki/전구중문음악방상방" title="wikilink">전구중문음악방상방</a>》 1위</li>
+<li><a href="../Page/2월_14일.md" title="wikilink">2월 14일</a> <a href="../Page/TVBS.md" title="wikilink">TVBS</a> 《<a href="https://ko.wikipedia.org/wiki/전구중문음악방상방" title="wikilink">전구중문음악방상방</a>》 1위</li>
 </ul></li>
 <li>'''미실 in U
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/3월_7일" title="wikilink">3월 7일</a> <a href="../Page/TVBS.md" title="wikilink">TVBS</a> 《<a href="https://ko.wikipedia.org/wiki/전구중문음악방상방" title="wikilink">전구중문음악방상방</a>》 1위</li>
-<li><a href="https://ko.wikipedia.org/wiki/3월_14일" title="wikilink">3월 14일</a> <a href="../Page/TVBS.md" title="wikilink">TVBS</a> 《<a href="https://ko.wikipedia.org/wiki/전구중문음악방상방" title="wikilink">전구중문음악방상방</a>》 1위</li>
+<li><a href="../Page/3월_7일.md" title="wikilink">3월 7일</a> <a href="../Page/TVBS.md" title="wikilink">TVBS</a> 《<a href="https://ko.wikipedia.org/wiki/전구중문음악방상방" title="wikilink">전구중문음악방상방</a>》 1위</li>
+<li><a href="../Page/3월_14일.md" title="wikilink">3월 14일</a> <a href="../Page/TVBS.md" title="wikilink">TVBS</a> 《<a href="https://ko.wikipedia.org/wiki/전구중문음악방상방" title="wikilink">전구중문음악방상방</a>》 1위</li>
 </ul></li>
 </ul></td>
 </tr>

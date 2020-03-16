@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Summer Memories](https://ko.wikipedia.org/wiki/Summer_Memories).
 
 
-〈**Summer Memories**〉(서머 메모리즈, )는 [카미키 아야의](https://ko.wikipedia.org/wiki/카미키_아야 "wikilink") 아홉 번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink").
+〈**Summer Memories**〉(서머 메모리즈, )는 [카미키 아야의](../Page/카미키_아야.md "wikilink") 아홉 번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 
@@ -10,20 +10,20 @@
 ## 수록곡
 
 1.  **Summer Memories**
-      - 작사: 카미키 아야, 작곡: [오노 아이카](https://ko.wikipedia.org/wiki/오노_아이카 "wikilink"), 편곡: [오카모토 히토시](https://ko.wikipedia.org/wiki/오카모토_히토시 "wikilink")
+      - 작사: 카미키 아야, 작곡: [오노 아이카](https://ko.wikipedia.org/wiki/오노_아이카 "wikilink"), 편곡: [오카모토 히토시](../Page/오카모토_히토시.md "wikilink")
 2.  **I'm your side**
       - 작사: 카미키 아야, 작곡 · 편곡: 오카모토 히토시
 3.  **Summer Memories (Instrumental)**
 
 ## 타이업
 
-  - [닛폰 TV계](https://ko.wikipedia.org/wiki/닛폰_TV_방송망 "wikilink") 애니메이션 《[명탐정 코난](https://ko.wikipedia.org/wiki/명탐정_코난_\(애니메이션\) "wikilink")》 닫는 곡 (\#1)
-  - [TV 도쿄계](https://ko.wikipedia.org/wiki/TV_도쿄 "wikilink") 《[PVTV](https://ko.wikipedia.org/wiki/PVTV "wikilink")》 8월 닫는 곡 (\#2)
+  - [닛폰 TV계](../Page/닛폰_TV_방송망.md "wikilink") 애니메이션 《[명탐정 코난](../Page/명탐정_코난_\(애니메이션\).md "wikilink")》 닫는 곡 (\#1)
+  - [TV 도쿄계](../Page/TV_도쿄.md "wikilink") 《[PVTV](https://ko.wikipedia.org/wiki/PVTV "wikilink")》 8월 닫는 곡 (\#2)
 
 <table>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/일본의_애니메이션" title="wikilink"><span style="color:#fff">TV 애니메이션</span></a> 《<a href="https://ko.wikipedia.org/wiki/명탐정_코난_(애니메이션)" title="wikilink"><span style="color:#fff"><strong>명탐정 코난</strong></span></a>》 닫는 곡<br />
+<td><p><a href="../Page/일본의_애니메이션.md" title="wikilink"><span style="color:#fff">TV 애니메이션</span></a> 《<a href="../Page/명탐정_코난_(애니메이션).md" title="wikilink"><span style="color:#fff"><strong>명탐정 코난</strong></span></a>》 닫는 곡<br />
 <small>2008년 6월 16일 (505화) ~ 2008년 9월 8일 (514화)</small></p></td>
 </tr>
 <tr class="even">

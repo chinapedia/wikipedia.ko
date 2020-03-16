@@ -5,11 +5,11 @@
 
 ## 같이 보기
 
-  - [RFC](https://ko.wikipedia.org/wiki/RFC "wikilink")
-  - [인터넷 표준](https://ko.wikipedia.org/wiki/인터넷_표준 "wikilink")
-  - [국제 인터넷 표준화 기구](https://ko.wikipedia.org/wiki/국제_인터넷_표준화_기구 "wikilink")
-  - [웹 표준](https://ko.wikipedia.org/wiki/웹_표준 "wikilink")
-  - [표준화](https://ko.wikipedia.org/wiki/표준화 "wikilink")
+  - [RFC](../Page/RFC.md "wikilink")
+  - [인터넷 표준](../Page/인터넷_표준.md "wikilink")
+  - [국제 인터넷 표준화 기구](../Page/국제_인터넷_표준화_기구.md "wikilink")
+  - [웹 표준](../Page/웹_표준.md "wikilink")
+  - [표준화](../Page/표준화.md "wikilink")
 
 ## 외부 링크
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TECH M](https://ko.wikipedia.org/wiki/TECH_M).
 
 
-**TECH M**(테크엠)은 대한민국에서 발행되는 산업·과학기술 [잡지](https://ko.wikipedia.org/wiki/잡지 "wikilink")(월간지)이다.
+**TECH M**(테크엠)은 대한민국에서 발행되는 산업·과학기술 [잡지](../Page/잡지.md "wikilink")(월간지)이다.
 
 2013년 4월 25일 TECH\&beyond(테크앤비욘드)라는 이름으로 창간됐다.\[1\] 창간 당시에는 미디어그룹 머니투데이가 발행했으나, 2016년 2월호부터 미디어그룹 머니투데이방송에서 발행되기 시작했다.\[2\] 2015년 3월호부터 매거진 제호를 TECH M으로 바꾸면서 판형 또한 230X290판에서 205X275판으로 변경했다.\[3\]
 

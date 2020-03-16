@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Tear drops](https://ko.wikipedia.org/wiki/Tear_drops).
 
 
-〈**tear drops**〉는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [Caos Caos Caos의](https://ko.wikipedia.org/wiki/시로이시_리노#Caos_Caos_Caos "wikilink") [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink"). [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [2월 23일에](https://ko.wikipedia.org/wiki/2월_23일 "wikilink") [기자 스튜디오에서](https://ko.wikipedia.org/wiki/기자_스튜디오 "wikilink") 발매됐다.
+〈**tear drops**〉는 [일본](../Page/일본.md "wikilink")의 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [Caos Caos Caos의](https://ko.wikipedia.org/wiki/시로이시_리노#Caos_Caos_Caos "wikilink") [싱글이다](../Page/싱글_\(음악\).md "wikilink"). [2011년](../Page/2011년.md "wikilink") [2월 23일에](../Page/2월_23일.md "wikilink") [기자 스튜디오에서](https://ko.wikipedia.org/wiki/기자_스튜디오 "wikilink") 발매됐다.
 
 ## 해설
 
-시라이시 노리를 중심으로 결성된 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") Caos Caos Caos의 데뷔 싱글이다. 표제곡 〈tear drops〉는 [ytv계](https://ko.wikipedia.org/wiki/요미우리_TV_방송 "wikilink") [TV 애니메이션](https://ko.wikipedia.org/wiki/일본의_애니메이션 "wikilink") 《[명탐정 코난](https://ko.wikipedia.org/wiki/명탐정_코난_\(애니메이션\) "wikilink")》의 [여는 곡이](https://ko.wikipedia.org/wiki/주제가 "wikilink") 되었으며, [오프닝 애니메이션에서는](https://ko.wikipedia.org/wiki/오프닝_애니메이션 "wikilink") 애니메이션화된 시라이시 노리가 댄스를 보이고 있다. 커플링 곡인 〈Good-bye Memories〉는 [신도 후유키](https://ko.wikipedia.org/wiki/신도_후유키 "wikilink") 원작 영화 《불륜순애》의 주제가로 채용됐다.
+시라이시 노리를 중심으로 결성된 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") Caos Caos Caos의 데뷔 싱글이다. 표제곡 〈tear drops〉는 [ytv계](../Page/요미우리_TV_방송.md "wikilink") [TV 애니메이션](../Page/일본의_애니메이션.md "wikilink") 《[명탐정 코난](../Page/명탐정_코난_\(애니메이션\).md "wikilink")》의 [여는 곡이](https://ko.wikipedia.org/wiki/주제가 "wikilink") 되었으며, [오프닝 애니메이션에서는](https://ko.wikipedia.org/wiki/오프닝_애니메이션 "wikilink") 애니메이션화된 시라이시 노리가 댄스를 보이고 있다. 커플링 곡인 〈Good-bye Memories〉는 [신도 후유키](https://ko.wikipedia.org/wiki/신도_후유키 "wikilink") 원작 영화 《불륜순애》의 주제가로 채용됐다.
 
 ## 수록곡
 
@@ -60,12 +60,12 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/일본의_애니메이션" title="wikilink"><span style="color:#fff">TV 애니메이션</span></a> 《<a href="https://ko.wikipedia.org/wiki/명탐정_코난_(애니메이션)" title="wikilink"><span style="color:#fff"><strong>명탐정 코난</strong></span></a>》 여는 곡<br />
+<td><p><a href="../Page/일본의_애니메이션.md" title="wikilink"><span style="color:#fff">TV 애니메이션</span></a> 《<a href="../Page/명탐정_코난_(애니메이션).md" title="wikilink"><span style="color:#fff"><strong>명탐정 코난</strong></span></a>》 여는 곡<br />
 <small>2011년 1월 8일 (602화) ~ 2011년 4월 23일 (612화)</small></p></td>
 </tr>
 <tr class="even">
 <td><p>이전 곡:<br />
-<a href="https://ko.wikipedia.org/wiki/쿠라키_마이" title="wikilink">쿠라키 마이</a><br />
+<a href="../Page/쿠라키_마이.md" title="wikilink">쿠라키 마이</a><br />
 〈<a href="../Page/SUMMER_TIME_GONE.md" title="wikilink">SUMMER TIME GONE</a>〉</p></td>
 </tr>
 </tbody>

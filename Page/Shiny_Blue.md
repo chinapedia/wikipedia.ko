@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Shiny Blue](https://ko.wikipedia.org/wiki/Shiny_Blue).
 
 
-〈**Shiny Blue**〉는 [유이카오리](../Page/유이카오리.md "wikilink")의 일곱 번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink"). [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [3월 13일에](https://ko.wikipedia.org/wiki/3월_13일 "wikilink") [킹레코드에서](https://ko.wikipedia.org/wiki/킹레코드_\(일본\) "wikilink") 발매됐다.
+〈**Shiny Blue**〉는 [유이카오리](../Page/유이카오리.md "wikilink")의 일곱 번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). [2013년](../Page/2013년.md "wikilink") [3월 13일에](../Page/3월_13일.md "wikilink") [킹레코드에서](../Page/킹레코드_\(일본\).md "wikilink") 발매됐다.
 
 ## 개요
 

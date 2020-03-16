@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Hi\~](https://ko.wikipedia.org/wiki/Hi\~).
 
 
-《**Hi\~**》는 [걸 그룹](https://ko.wikipedia.org/wiki/걸_그룹 "wikilink") [러블리즈](../Page/러블리즈.md "wikilink")의 첫 번째 리패키지 음반이다.
+《**Hi\~**》는 [걸 그룹](../Page/걸_그룹.md "wikilink") [러블리즈](../Page/러블리즈.md "wikilink")의 첫 번째 리패키지 음반이다.
 
 ## 수록곡
 

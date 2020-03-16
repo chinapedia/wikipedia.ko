@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Don\'t Stop Me Now](https://ko.wikipedia.org/wiki/Don\'t_Stop_Me_Now).
 
 
-"**Don't Stop Me Now**"는 1979년 영국의 밴드 [퀸이](https://ko.wikipedia.org/wiki/퀸_\(밴드\) "wikilink") 발표한 싱글이다. 앨범 [Jazz에](https://ko.wikipedia.org/wiki/Jazz_\(음반\) "wikilink") 수록되어 있다. 작곡 및 작사자인 [프레디 머큐리의](https://ko.wikipedia.org/wiki/프레디_머큐리 "wikilink") 성향이 담긴 곡으로, [1979년](https://ko.wikipedia.org/wiki/1979년 "wikilink") [1월 5일](https://ko.wikipedia.org/wiki/1월_5일 "wikilink") 싱글 발매 당시 영국 차트 9위에 오르는 등 선전하였다.
+"**Don't Stop Me Now**"는 1979년 영국의 밴드 [퀸이](../Page/퀸_\(밴드\).md "wikilink") 발표한 싱글이다. 앨범 [Jazz에](../Page/Jazz_\(음반\).md "wikilink") 수록되어 있다. 작곡 및 작사자인 [프레디 머큐리의](../Page/프레디_머큐리.md "wikilink") 성향이 담긴 곡으로, [1979년](../Page/1979년.md "wikilink") [1월 5일](../Page/1월_5일.md "wikilink") 싱글 발매 당시 영국 차트 9위에 오르는 등 선전하였다.
 
 ## 대중 문화
 
   - 2005년, 영국 [BBC](https://ko.wikipedia.org/wiki/BBC "wikilink")의 방송 프로그램 [탑기어](https://ko.wikipedia.org/wiki/탑기어 "wikilink")에서 조사한 "드라이브 하면서 가장 듣기 좋은 곡"부문 에서 시청자 1위에 뽑혔다.\[1\]
   - 닥터 후 시즌 8의 에피소드 8 오리엔트 특급 열차의 미라에서 영국의 싱어송라이터 폭시스가 카메오로 출연하며 이 노래를 재즈 풍으로 리메이크한 적이 있다.
-  - 2011년, [프레디 머큐리의](https://ko.wikipedia.org/wiki/프레디_머큐리 "wikilink") 65번째 생일을 맞이한 [구글 두들의](../Page/구글_두들.md "wikilink") 노래로 사용되었다.
+  - 2011년, [프레디 머큐리의](../Page/프레디_머큐리.md "wikilink") 65번째 생일을 맞이한 [구글 두들의](../Page/구글_두들.md "wikilink") 노래로 사용되었다.
 
 ## 각주
 

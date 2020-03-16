@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
 
 
-**FC 올렉산드리야**()는 [키로보흐라드주](https://ko.wikipedia.org/wiki/키로보흐라드주 "wikilink") [올렉산드리야](https://ko.wikipedia.org/wiki/올렉산드리야 "wikilink")를 연고로 하는 [우크라이나](https://ko.wikipedia.org/wiki/우크라이나 "wikilink")의 축구 클럽이다. 현재는 [우크라이나 1부 리그에](https://ko.wikipedia.org/wiki/우크라이나_1부_리그 "wikilink") 참가하고 있다.
+**FC 올렉산드리야**()는 [키로보흐라드주](https://ko.wikipedia.org/wiki/키로보흐라드주 "wikilink") [올렉산드리야](https://ko.wikipedia.org/wiki/올렉산드리야 "wikilink")를 연고로 하는 [우크라이나](../Page/우크라이나.md "wikilink")의 축구 클럽이다. 현재는 [우크라이나 1부 리그에](https://ko.wikipedia.org/wiki/우크라이나_1부_리그 "wikilink") 참가하고 있다.
 
 ## 성적
 

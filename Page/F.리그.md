@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [F.](https://ko.wikipedia.org/wiki/F.).
 
 
-**F.리그**는 일본의 [풋살](https://ko.wikipedia.org/wiki/풋살 "wikilink") 리그이다.
+**F.리그**는 일본의 [풋살](../Page/풋살.md "wikilink") 리그이다.
 
 ## 클럽
 

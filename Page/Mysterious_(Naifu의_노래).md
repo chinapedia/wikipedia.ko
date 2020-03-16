@@ -16,22 +16,22 @@
 
 ## 녹음 참가
 
-  - [우토쿠 케이코](https://ko.wikipedia.org/wiki/우토쿠_게이코 "wikilink") - 코러스
+  - [우토쿠 케이코](../Page/우토쿠_게이코.md "wikilink") - 코러스
 
 ## 타이업
 
-  - [요미우리 TV계](https://ko.wikipedia.org/wiki/요미우리_TV_방송 "wikilink") TV 애니메이션 《[명탐정 코난](https://ko.wikipedia.org/wiki/명탐정_코난_\(애니메이션\) "wikilink")》 여는 곡 (\#1)
+  - [요미우리 TV계](../Page/요미우리_TV_방송.md "wikilink") TV 애니메이션 《[명탐정 코난](../Page/명탐정_코난_\(애니메이션\).md "wikilink")》 여는 곡 (\#1)
   - DOME TV 광고 음악 (\#2)
 
 <table>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/일본의_애니메이션" title="wikilink"><span style="color:#fff">TV 애니메이션</span></a> 《<a href="https://ko.wikipedia.org/wiki/명탐정_코난_(애니메이션)" title="wikilink"><span style="color:#fff"><strong>명탐정 코난</strong></span></a>》 여는 곡<br />
+<td><p><a href="../Page/일본의_애니메이션.md" title="wikilink"><span style="color:#fff">TV 애니메이션</span></a> 《<a href="../Page/명탐정_코난_(애니메이션).md" title="wikilink"><span style="color:#fff"><strong>명탐정 코난</strong></span></a>》 여는 곡<br />
 <small>2008년 10월 20일 (515화) ~ 2008년 12월 22일 (520화)</small></p></td>
 </tr>
 <tr class="even">
 <td><p>이전 곡:<br />
-<a href="https://ko.wikipedia.org/wiki/쿠라키_마이" title="wikilink">쿠라키 마이</a><br />
+<a href="../Page/쿠라키_마이.md" title="wikilink">쿠라키 마이</a><br />
 〈<a href="../Page/1초마다_Love_for_you.md" title="wikilink">1초마다 Love for you</a>〉</p></td>
 </tr>
 </tbody>

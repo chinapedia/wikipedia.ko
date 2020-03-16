@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [AFC   ](https://ko.wikipedia.org/wiki/AFC___).
 
 
-**AFC 풋살 선수권 대회**(AFC Futsal Championship)은 [아시아 축구 연맹](https://ko.wikipedia.org/wiki/아시아_축구_연맹 "wikilink")(AFC)이 주관하는 국가 대항 [풋살](https://ko.wikipedia.org/wiki/풋살 "wikilink") 대회이다.
+**AFC 풋살 선수권 대회**(AFC Futsal Championship)은 [아시아 축구 연맹](../Page/아시아_축구_연맹.md "wikilink")(AFC)이 주관하는 국가 대항 [풋살](../Page/풋살.md "wikilink") 대회이다.
 
 ## 역대 대회 결과
 
@@ -117,7 +117,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Japan.svg" title="wikilink">border</a><br />
 <strong><a href="../Page/일본_풋살_국가대표팀.md" title="wikilink">일본</a></strong></p></td>
 <td><p><strong>2-2</strong><br />
-3-0 (<a href="https://ko.wikipedia.org/wiki/승부차기" title="wikilink">pen</a>)</p></td>
+3-0 (<a href="../Page/승부차기.md" title="wikilink">pen</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2016년_AFC_풋살_선수권_대회.md" title="wikilink">2016년</a></p></td>
@@ -192,7 +192,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong>5</strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/대한민국_풋살_국가대표팀" title="wikilink">대한민국</a></p></td>
+<td><p><a href="../Page/대한민국_풋살_국가대표팀.md" title="wikilink">대한민국</a></p></td>
 <td></td>
 <td><p>1 (1999)</p></td>
 <td><p>1 (2001)</p></td>
@@ -311,7 +311,7 @@
 <td><p><strong>2</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/대한민국_풋살_국가대표팀" title="wikilink">대한민국</a></p></td>
+<td><p><a href="../Page/대한민국_풋살_국가대표팀.md" title="wikilink">대한민국</a></p></td>
 <td><p>2</p></td>
 <td><p>1R</p></td>
 <td><p>3</p></td>

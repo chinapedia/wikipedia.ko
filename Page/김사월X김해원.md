@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [X](https://ko.wikipedia.org/wiki/X).
 
 
-**김사월X김해원**은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 2인조 포크 듀오이다. 싱어송라이터 [김사월](https://ko.wikipedia.org/wiki/김사월 "wikilink")과 김해원으로 구성되었다.
+**김사월X김해원**은 [대한민국](../Page/대한민국.md "wikilink")의 2인조 포크 듀오이다. 싱어송라이터 [김사월](https://ko.wikipedia.org/wiki/김사월 "wikilink")과 김해원으로 구성되었다.
 
 ## 발자취
 
-[홍대](https://ko.wikipedia.org/wiki/홍대 "wikilink")를 중심으로 각기 따로 싱어송라이터로서 활동해오던 김사월과 김해원은 2013년 10월 김해원의 제의로 듀오를 결성하였다.\[1\] 2014년 EP 비밀을 발매하였고, 2015년 [한국대중음악상](https://ko.wikipedia.org/wiki/한국대중음악상 "wikilink") 5개 부문의 후보로 선정되었다.\[2\] 2015년 2월 26일에 열린 한국대중음악상 시상식에서 '올해의 신인'과 '최우수 포크 음반' 2개 분야에서 수상하였다.\[3\]
+[홍대](https://ko.wikipedia.org/wiki/홍대 "wikilink")를 중심으로 각기 따로 싱어송라이터로서 활동해오던 김사월과 김해원은 2013년 10월 김해원의 제의로 듀오를 결성하였다.\[1\] 2014년 EP 비밀을 발매하였고, 2015년 [한국대중음악상](../Page/한국대중음악상.md "wikilink") 5개 부문의 후보로 선정되었다.\[2\] 2015년 2월 26일에 열린 한국대중음악상 시상식에서 '올해의 신인'과 '최우수 포크 음반' 2개 분야에서 수상하였다.\[3\]
 
 ## 구성원
 
@@ -34,7 +34,7 @@
 
 ## 외부 링크
 
-  - [](https://www.youtube.com/channel/UCY1PTVmlICtOG51aWAnwVTg) - [유튜브](https://ko.wikipedia.org/wiki/유튜브 "wikilink")
+  - [](https://www.youtube.com/channel/UCY1PTVmlICtOG51aWAnwVTg) - [유튜브](../Page/유튜브.md "wikilink")
 
   -
   -

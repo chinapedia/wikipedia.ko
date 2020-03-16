@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FA   ](https://ko.wikipedia.org/wiki/FA___).
 
 
-**FA 내셔널 풋살 리그**는 [잉글랜드 축구 협회에서](https://ko.wikipedia.org/wiki/잉글랜드_축구_협회 "wikilink") 주관하는 잉글랜드의 [풋살](https://ko.wikipedia.org/wiki/풋살 "wikilink") 리그이다.
+**FA 내셔널 풋살 리그**는 [잉글랜드 축구 협회에서](https://ko.wikipedia.org/wiki/잉글랜드_축구_협회 "wikilink") 주관하는 잉글랜드의 [풋살](../Page/풋살.md "wikilink") 리그이다.
 
 ## 역대 우승팀
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CONCACAF   ](https://ko.wikipedia.org/wiki/CONCACAF___).
 
 
-**CONCACAF 풋살 선수권 대회**(CONCACAF Futsal Championship)는 [북중미카리브 축구 연맹](https://ko.wikipedia.org/wiki/북중미카리브_축구_연맹 "wikilink")(CONCACAF)이 주관하는 국가 대항 [풋살](https://ko.wikipedia.org/wiki/풋살 "wikilink") 대회이다.
+**CONCACAF 풋살 선수권 대회**(CONCACAF Futsal Championship)는 [북중미카리브 축구 연맹](../Page/북중미카리브_축구_연맹.md "wikilink")(CONCACAF)이 주관하는 국가 대항 [풋살](../Page/풋살.md "wikilink") 대회이다.
 
 ## 역대 대회 결과
 
@@ -54,7 +54,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Guatemala.svg" title="wikilink">30px</a><br />
 <strong><a href="https://ko.wikipedia.org/wiki/과테말라_풋살_국가대표팀" title="wikilink">과테말라</a></strong></p></td>
 <td><p><strong>3 : 3</strong><br />
-(5 : 3 <a href="https://ko.wikipedia.org/wiki/승부차기" title="wikilink">p</a>)</p></td>
+(5 : 3 <a href="../Page/승부차기.md" title="wikilink">p</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/2012년_CONCACAF_풋살_선수권_대회" title="wikilink">2012년</a></p></td>

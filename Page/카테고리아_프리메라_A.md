@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  A](https://ko.wikipedia.org/wiki/__A).
 
 
-**카테고리아 프리메라 A**()는 [콜롬비아](https://ko.wikipedia.org/wiki/콜롬비아 "wikilink")의 최상위 프로 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 리그이다. 현재 20개 팀이 참여하고 있다.
+**카테고리아 프리메라 A**()는 [콜롬비아](../Page/콜롬비아.md "wikilink")의 최상위 프로 [축구](../Page/축구.md "wikilink") 리그이다. 현재 20개 팀이 참여하고 있다.
 
 ## 개요
 
@@ -15,7 +15,7 @@
 
 ### 결승전
 
-결승전에서는 [플레이오프의](https://ko.wikipedia.org/wiki/카테고리아_프리메라_A_플레이오프 "wikilink") 각 그룹에서 최상위를 기록한 두 팀이 [홈 앤 어웨이](https://ko.wikipedia.org/wiki/홈_앤_어웨이 "wikilink") 방식으로 맞붙는다. 이 때 정규 리그에서 더 높은 승점을 기록한 팀이 두번째 경기에서 홈 경기를 치룬다. 결승전은 무승부 시 연장전 없이 바로 [승부차기](https://ko.wikipedia.org/wiki/승부차기 "wikilink")로 연결되며, [원정 다득점](https://ko.wikipedia.org/wiki/원정_다득점 "wikilink") 규칙은 적용되지 않는다.
+결승전에서는 [플레이오프의](https://ko.wikipedia.org/wiki/카테고리아_프리메라_A_플레이오프 "wikilink") 각 그룹에서 최상위를 기록한 두 팀이 [홈 앤 어웨이](https://ko.wikipedia.org/wiki/홈_앤_어웨이 "wikilink") 방식으로 맞붙는다. 이 때 정규 리그에서 더 높은 승점을 기록한 팀이 두번째 경기에서 홈 경기를 치룬다. 결승전은 무승부 시 연장전 없이 바로 [승부차기](../Page/승부차기.md "wikilink")로 연결되며, [원정 다득점](../Page/원정_다득점.md "wikilink") 규칙은 적용되지 않는다.
 
 ### 강등
 
@@ -27,7 +27,7 @@
 
 ## 현재 시즌 참가팀
 
-[2017](https://ko.wikipedia.org/wiki/카테고리아_프리메라_A_2017 "wikilink") 시즌 참가팀 ([2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [1월 4일](https://ko.wikipedia.org/wiki/1월_4일 "wikilink") 기준)
+[2017](https://ko.wikipedia.org/wiki/카테고리아_프리메라_A_2017 "wikilink") 시즌 참가팀 ([2017년](../Page/2017년.md "wikilink") [1월 4일](../Page/1월_4일.md "wikilink") 기준)
 
 <table>
 <thead>
@@ -51,7 +51,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/아메리카_데_칼리.md" title="wikilink">아메리카 데 칼리</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/칼리_(콜롬비아)" title="wikilink">칼리</a></p></td>
+<td><p><a href="../Page/칼리_(콜롬비아).md" title="wikilink">칼리</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/에스타디오_올림피코_파스쿠알_게레로" title="wikilink">파스쿠알 게레로</a></p></td>
 <td><p>33,130</p></td>
 <td><p>에르난 토레스</p></td>
@@ -75,8 +75,8 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/아틀레티코_나시오날.md" title="wikilink">아틀레티코 나시오날</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/메데인" title="wikilink">메데인</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/에스타디오_아타나시오_히라르도트" title="wikilink">아타나시오 히라르도트</a></p></td>
+<td><p><a href="../Page/메데인.md" title="wikilink">메데인</a></p></td>
+<td><p><a href="../Page/에스타디오_아타나시오_히라르도트.md" title="wikilink">아타나시오 히라르도트</a></p></td>
 <td><p>40,043</p></td>
 <td><p>헤이날도 루에다</p></td>
 <td><p>1948</p></td>
@@ -99,7 +99,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/데포르티보_칼리.md" title="wikilink">데포르티보 칼리</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/칼리_(콜롬비아)" title="wikilink">칼리</a></p></td>
+<td><p><a href="../Page/칼리_(콜롬비아).md" title="wikilink">칼리</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/에스타디오_데포르티보_칼리" title="wikilink">에스타디오 데포르티보 칼리</a></p></td>
 <td><p>52,000</p></td>
 <td><p><a href="../Page/마리오_예페스.md" title="wikilink">마리오 예페스</a></p></td>
@@ -123,8 +123,8 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/인데펜디엔테_메데인.md" title="wikilink">인데펜디엔테 메데인</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/메데인" title="wikilink">메데인</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/에스타디오_아타나시오_히라르도트" title="wikilink">아타나시오 히라르도트</a></p></td>
+<td><p><a href="../Page/메데인.md" title="wikilink">메데인</a></p></td>
+<td><p><a href="../Page/에스타디오_아타나시오_히라르도트.md" title="wikilink">아타나시오 히라르도트</a></p></td>
 <td><p>40,043</p></td>
 <td><p>루이스 수벨디아</p></td>
 <td><p>1948</p></td>
@@ -139,15 +139,15 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/후니오르_FC.md" title="wikilink">후니오르</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/바랑키야" title="wikilink">바랑키야</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/에스타디오_메트로폴리타노_로베르토_멜렌데스" title="wikilink">메트로폴리타노 로베르토 멜렌데스</a></p></td>
+<td><p><a href="../Page/바랑키야.md" title="wikilink">바랑키야</a></p></td>
+<td><p><a href="../Page/에스타디오_메트로폴리타노_로베르토_멜렌데스.md" title="wikilink">메트로폴리타노 로베르토 멜렌데스</a></p></td>
 <td><p>46,692</p></td>
 <td><p>알베르토 가메로</p></td>
 <td><p>1948</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/라_에키다드" title="wikilink">라 에키다드</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/보고타" title="wikilink">보고타</a></p></td>
+<td><p><a href="../Page/보고타.md" title="wikilink">보고타</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/에스타디오_메트로폴리타노_데_테초" title="wikilink">메트로폴리타노 데 테초</a></p></td>
 <td><p>8,000</p></td>
 <td><p>아르투로 보야카</p></td>
@@ -155,15 +155,15 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/미요나리오스_FC.md" title="wikilink">미요나리오스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/보고타" title="wikilink">보고타</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/에스타디오_엘_캄핀" title="wikilink">엘 캄핀</a></p></td>
+<td><p><a href="../Page/보고타.md" title="wikilink">보고타</a></p></td>
+<td><p><a href="../Page/에스타디오_엘_캄핀.md" title="wikilink">엘 캄핀</a></p></td>
 <td><p>36,343</p></td>
 <td><p>미겔 앙헬 루소</p></td>
 <td><p>1948</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/온세_칼다스.md" title="wikilink">온세 칼다스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/보고타" title="wikilink">보고타</a></p></td>
+<td><p><a href="../Page/보고타.md" title="wikilink">보고타</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/에스타디오_팔로그란데" title="wikilink">에스타디오 팔로그란데</a></p></td>
 <td><p>32,000</p></td>
 <td><p>에르난 리시</p></td>
@@ -171,7 +171,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/파트리오타스_FC" title="wikilink">파트리오타스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/퉁하" title="wikilink">퉁하</a></p></td>
+<td><p><a href="../Page/퉁하.md" title="wikilink">퉁하</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/에스타디오_라_인데펜덴시아" title="wikilink">에스타디오 라 인데펜덴시아</a></p></td>
 <td><p>20,630</p></td>
 <td><p>디에고 코레도르</p></td>
@@ -179,8 +179,8 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/인데펜디엔테_산타페.md" title="wikilink">산타페</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/보고타" title="wikilink">보고타</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/에스타디오_엘_캄핀" title="wikilink">엘 캄핀</a></p></td>
+<td><p><a href="../Page/보고타.md" title="wikilink">보고타</a></p></td>
+<td><p><a href="../Page/에스타디오_엘_캄핀.md" title="wikilink">엘 캄핀</a></p></td>
 <td><p>36,343</p></td>
 <td><p>구스타보 코스타스</p></td>
 <td><p>1948</p></td>
@@ -195,7 +195,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/티그레스_FC" title="wikilink">티그레스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/보고타" title="wikilink">보고타</a></p></td>
+<td><p><a href="../Page/보고타.md" title="wikilink">보고타</a></p></td>
 <td><p>미정</p></td>
 <td></td>
 <td><p>존 하이로 보드메</p></td>
@@ -214,7 +214,7 @@
 
 ## 클럽 별 시즌 참가 횟수
 
-[카테고리아 프리메라 A가](../Page/카테고리아_프리메라_A.md "wikilink") 창설된 [1948년](https://ko.wikipedia.org/wiki/1948년 "wikilink")부터 리그에 참가한 시즌 횟수를 결산한 것이다. 현재 시즌 [카테고리아 프리메라 A 2017에](https://ko.wikipedia.org/wiki/카테고리아_프리메라_A_2017 "wikilink") 참가하고 있는 팀은 굵은 글씨로 표기되었다.
+[카테고리아 프리메라 A가](../Page/카테고리아_프리메라_A.md "wikilink") 창설된 [1948년](../Page/1948년.md "wikilink")부터 리그에 참가한 시즌 횟수를 결산한 것이다. 현재 시즌 [카테고리아 프리메라 A 2017에](https://ko.wikipedia.org/wiki/카테고리아_프리메라_A_2017 "wikilink") 참가하고 있는 팀은 굵은 글씨로 표기되었다.
 
   - 70 시즌 : **[산타페](../Page/인데펜디엔테_산타페.md "wikilink")**
   - 70 시즌 : **[미요나리오스](../Page/미요나리오스_FC.md "wikilink")**
@@ -261,7 +261,7 @@
 
 ### 최다 출장자
 
-[2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [3월 13일](https://ko.wikipedia.org/wiki/3월_13일 "wikilink") 기준
+[2016년](../Page/2016년.md "wikilink") [3월 13일](../Page/3월_13일.md "wikilink") 기준
 
 <table>
 <thead>
@@ -314,7 +314,7 @@
 
 ### 최다 득점자
 
-[2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [3월 13일](https://ko.wikipedia.org/wiki/3월_13일 "wikilink") 기준
+[2016년](../Page/2016년.md "wikilink") [3월 13일](../Page/3월_13일.md "wikilink") 기준
 
 <table>
 <thead>
@@ -397,7 +397,7 @@
 
 ## 시즌 별 우승 팀
 
-[1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink")에는 [카테고리아 프리메라 A](../Page/카테고리아_프리메라_A.md "wikilink") 우승팀이 없는 유일한 해다. 당해 [10월 1일](https://ko.wikipedia.org/wiki/10월_1일 "wikilink") 심판 [알바로 오르테가가](https://ko.wikipedia.org/wiki/알바로_오르테가 "wikilink") [메데인](https://ko.wikipedia.org/wiki/메데인 "wikilink")에서 살해당한 이후로, 잔여 경기가 모두 취소되면서 벌어진 일이다.
+[1989년](../Page/1989년.md "wikilink")에는 [카테고리아 프리메라 A](../Page/카테고리아_프리메라_A.md "wikilink") 우승팀이 없는 유일한 해다. 당해 [10월 1일](../Page/10월_1일.md "wikilink") 심판 [알바로 오르테가가](https://ko.wikipedia.org/wiki/알바로_오르테가 "wikilink") [메데인](../Page/메데인.md "wikilink")에서 살해당한 이후로, 잔여 경기가 모두 취소되면서 벌어진 일이다.
 
 <table>
 <thead>
@@ -431,13 +431,13 @@
 <td><p>1951</p></td>
 <td><p><a href="../Page/미요나리오스_FC.md" title="wikilink">미요나리오스</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/보카_주니어스_(콜롬비아)" title="wikilink">보카 주니어스 데 칼리</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/알프레도_디_스테파노" title="wikilink">알프레도 디 스테파노</a></p></td>
+<td><p><a href="../Page/알프레도_디_스테파노.md" title="wikilink">알프레도 디 스테파노</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1952</p></td>
 <td><p><a href="../Page/미요나리오스_FC.md" title="wikilink">미요나리오스</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/보카_주니어스_(콜롬비아)" title="wikilink">보카 주니어스 데 칼리</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/알프레도_디_스테파노" title="wikilink">알프레도 디 스테파노</a></p></td>
+<td><p><a href="../Page/알프레도_디_스테파노.md" title="wikilink">알프레도 디 스테파노</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1953</p></td>
@@ -788,7 +788,7 @@
 <td><p><a href="../Page/데포르티보_칼리.md" title="wikilink">데포르티보 칼리</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/레알_카르타헤나" title="wikilink">레알 카르타헤나</a></p></td>
 <td><p>하메르손 렌테리아<br />
- <a href="https://ko.wikipedia.org/wiki/우고_로다예가" title="wikilink">우고 로다예가</a></p></td>
+ <a href="../Page/우고_로다예가.md" title="wikilink">우고 로다예가</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2006</p></td>
@@ -875,7 +875,7 @@
 <td><p><a href="../Page/미요나리오스_FC.md" title="wikilink">미요나리오스</a></p></td>
 <td><p><a href="../Page/인데펜디엔테_메데인.md" title="wikilink">인데펜디엔테 메데인</a></p></td>
 <td><p>헨리 에르난데스<br />
- <a href="https://ko.wikipedia.org/wiki/카르멜로_발렌시아" title="wikilink">카르멜로 발렌시아</a><br />
+ <a href="../Page/카르멜로_발렌시아.md" title="wikilink">카르멜로 발렌시아</a><br />
  <a href="https://ko.wikipedia.org/wiki/헤르만_카노" title="wikilink">헤르만 카노</a></p></td>
 </tr>
 <tr class="odd">

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [A.E.I.O.U.](https://ko.wikipedia.org/wiki/A.E.I.O.U.).
 
 
-[썸네일](https://ko.wikipedia.org/wiki/파일:AEIOU_Buchmalerei_in_der_Handregistratur_König_Friedrichs_IV_1446.jpg "wikilink"). 1446년작.\]\] **A.E.I.O.U.**는 [합스부르크가](https://ko.wikipedia.org/wiki/합스부르크가 "wikilink")의 모토로, 합스부르크 가문 출신 신성로마제국 황제였던 [프리드리히 3세가](https://ko.wikipedia.org/wiki/프리드리히_3세_\(신성_로마_제국\) "wikilink") 서명으로서 고안했다.
+[썸네일](https://ko.wikipedia.org/wiki/파일:AEIOU_Buchmalerei_in_der_Handregistratur_König_Friedrichs_IV_1446.jpg "wikilink"). 1446년작.\]\] **A.E.I.O.U.**는 [합스부르크가](../Page/합스부르크가.md "wikilink")의 모토로, 합스부르크 가문 출신 신성로마제국 황제였던 [프리드리히 3세가](https://ko.wikipedia.org/wiki/프리드리히_3세_\(신성_로마_제국\) "wikilink") 서명으로서 고안했다.
 
 ## 해석
 

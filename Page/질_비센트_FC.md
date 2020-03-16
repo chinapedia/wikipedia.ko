@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
 
 
-**질 비센트 푸테볼 클루브** (, Gil Vicente F.C.), 는 [포르투갈](https://ko.wikipedia.org/wiki/포르투갈 "wikilink") [바르셀루스](https://ko.wikipedia.org/wiki/바르셀루스 "wikilink")를 연고지로 하는 프로 축구 클럽이다. 현재 포르투갈 2부 리그인 [세군다리가](https://ko.wikipedia.org/wiki/세군다리가 "wikilink")에 소속되어 있다.
+**질 비센트 푸테볼 클루브** (, Gil Vicente F.C.), 는 [포르투갈](../Page/포르투갈.md "wikilink") [바르셀루스](https://ko.wikipedia.org/wiki/바르셀루스 "wikilink")를 연고지로 하는 프로 축구 클럽이다. 현재 포르투갈 2부 리그인 [세군다리가](https://ko.wikipedia.org/wiki/세군다리가 "wikilink")에 소속되어 있다.
 
 ## 성적
 

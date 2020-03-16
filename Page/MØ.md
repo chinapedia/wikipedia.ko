@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [M](https://ko.wikipedia.org/wiki/M).
 
 
-**MØ**(1988년 8월 13일 \~ )은 [덴마크](https://ko.wikipedia.org/wiki/덴마크 "wikilink")의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")이다. MØ는 한국어로 "뫼"로 발음하면 된다.\[1\] 본래 ''Mø '' 는 덴마크어로 "처녀"를 뜻한다.
+**MØ**(1988년 8월 13일 \~ )은 [덴마크](../Page/덴마크.md "wikilink")의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")이다. MØ는 한국어로 "뫼"로 발음하면 된다.\[1\] 본래 ''Mø '' 는 덴마크어로 "처녀"를 뜻한다.
 
 ## 음반 목록
 

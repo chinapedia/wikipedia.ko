@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Uptown Funk](https://ko.wikipedia.org/wiki/Uptown_Funk).
 
 
-**"Uptown Funk"**는 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 뮤지션 [마크 론슨의](https://ko.wikipedia.org/wiki/마크_론슨 "wikilink") 노래이다. 피쳐링엔 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink") [브루노 마스가](https://ko.wikipedia.org/wiki/브루노_마스 "wikilink") 참여했으며 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [11월 10일에](https://ko.wikipedia.org/wiki/11월_10일 "wikilink") 발매되었다. [빌보드 핫 100차트에서도](https://ko.wikipedia.org/wiki/빌보드_핫_100 "wikilink") 1위를 차지했다.\[1\]\[2\]
+**"Uptown Funk"**는 [영국](../Page/영국.md "wikilink")의 뮤지션 [마크 론슨의](../Page/마크_론슨.md "wikilink") 노래이다. 피쳐링엔 [미국](../Page/미국.md "wikilink")의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink") [브루노 마스가](../Page/브루노_마스.md "wikilink") 참여했으며 [2014년](../Page/2014년.md "wikilink") [11월 10일에](../Page/11월_10일.md "wikilink") 발매되었다. [빌보드 핫 100차트에서도](../Page/빌보드_핫_100.md "wikilink") 1위를 차지했다.\[1\]\[2\]
 
 ## 각주
 

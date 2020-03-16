@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FK](https://ko.wikipedia.org/wiki/FK).
 
 
-**FK컵**은 한국풋살연맹에서 주관하는 전국 [풋살](https://ko.wikipedia.org/wiki/풋살 "wikilink") 클럽 대항전이다.
+**FK컵**은 한국풋살연맹에서 주관하는 전국 [풋살](../Page/풋살.md "wikilink") 클럽 대항전이다.
 
 ## 역대 우승팀
 
@@ -74,7 +74,7 @@
 
 ## 같이 보기
 
-  - [FK리그](https://ko.wikipedia.org/wiki/FK리그 "wikilink")
+  - [FK리그](../Page/FK리그.md "wikilink")
   - [여자 FK컵](https://ko.wikipedia.org/wiki/여자_FK컵 "wikilink")
 
 ## 각주
