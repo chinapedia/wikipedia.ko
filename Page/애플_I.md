@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ I](https://ko.wikipedia.org/wiki/_I).
 
 
-**애플 I**(Apple I) 또는 **애플-1**(Apple-1)은 1976년에 애플 컴퓨터 컴퍼니(지금의 [애플](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink"))가 출시한 개인용 컴퓨터이다. 본래 **애플 컴퓨터**(Apple Computer)라는 이름을 사용하였으며 [스티브 워즈니악이](https://ko.wikipedia.org/wiki/스티브_워즈니악 "wikilink") 설계하고 [수공으로](https://ko.wikipedia.org/wiki/수공업 "wikilink") 만든 컴퓨터이다.\[1\]\[2\] 애플 I은 [애플](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 최초의 제품이다. 1976년 4월에 캘리포니아 주 팔로알토의 [홈브루 컴퓨터 클럽에서](https://ko.wikipedia.org/wiki/홈브루_컴퓨터_클럽 "wikilink") 시연하였다.
+**애플 I**(Apple I) 또는 **애플-1**(Apple-1)은 1976년에 애플 컴퓨터 컴퍼니(지금의 [애플](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink"))가 출시한 개인용 컴퓨터이다. 본래 **애플 컴퓨터**(Apple Computer)라는 이름을 사용하였으며 [스티브 워즈니악이](../Page/스티브_워즈니악.md "wikilink") 설계하고 [수공으로](https://ko.wikipedia.org/wiki/수공업 "wikilink") 만든 컴퓨터이다.\[1\]\[2\] 애플 I은 [애플](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 최초의 제품이다. 1976년 4월에 캘리포니아 주 팔로알토의 [홈브루 컴퓨터 클럽에서](../Page/홈브루_컴퓨터_클럽.md "wikilink") 시연하였다.
 
 ## 에뮬레이터, 복제품, 유사품
 
@@ -11,7 +11,7 @@
 
 ## 같이 보기
 
-  - [애플 II](https://ko.wikipedia.org/wiki/애플_II "wikilink")
+  - [애플 II](../Page/애플_II.md "wikilink")
 
 ## 각주
 

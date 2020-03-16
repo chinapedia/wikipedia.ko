@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [AS FOR ONE DAY](https://ko.wikipedia.org/wiki/AS_FOR_ONE_DAY).
 
 
-**AS FOR ONE DAY**(애즈 포 원 데이)는 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [4월 23일에](https://ko.wikipedia.org/wiki/4월_23일 "wikilink") 발매 된 [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink")의 열여덟 번째 싱글이다.
+**AS FOR ONE DAY**(애즈 포 원 데이)는 [2003년](../Page/2003년.md "wikilink") [4월 23일에](../Page/4월_23일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 열여덟 번째 싱글이다.
 
 ## 개요
 
-  - [야스다 케이가](../Page/야스다_케이.md "wikilink") 참가한 마지막 싱글이다. 《[하로모니](https://ko.wikipedia.org/wiki/하로!_모닝구。 "wikilink")》(2003년 5월 11일 방송분) 신곡 무대에서는 [야스다 케이](../Page/야스다_케이.md "wikilink") 졸업 기획의 일환으로써, 카메라가 [야스다 케이만](../Page/야스다_케이.md "wikilink") 찍는 버전이 방송되었다.
+  - [야스다 케이가](../Page/야스다_케이.md "wikilink") 참가한 마지막 싱글이다. 《[하로모니](../Page/하로!_모닝구。.md "wikilink")》(2003년 5월 11일 방송분) 신곡 무대에서는 [야스다 케이](../Page/야스다_케이.md "wikilink") 졸업 기획의 일환으로써, 카메라가 [야스다 케이만](../Page/야스다_케이.md "wikilink") 찍는 버전이 방송되었다.
 
 <!-- end list -->
 
@@ -13,7 +13,7 @@
 
 <!-- end list -->
 
-  - 다음 싱글 [シャボン玉와](https://ko.wikipedia.org/wiki/샤본다마 "wikilink") 함께 [태양의 서커스가](https://ko.wikipedia.org/wiki/태양의_서커스 "wikilink") 연기한 《퀴담 2003》의 이미지송으로 선정되었다.
+  - 다음 싱글 [シャボン玉와](../Page/샤본다마.md "wikilink") 함께 [태양의 서커스가](https://ko.wikipedia.org/wiki/태양의_서커스 "wikilink") 연기한 《퀴담 2003》의 이미지송으로 선정되었다.
 
 <!-- end list -->
 

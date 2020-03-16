@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Wee](https://ko.wikipedia.org/wiki/Wee).
 
 
-**Wee**는 We + education 또는 We + emotion 의 합성어로써, 대한민국의 [학교](https://ko.wikipedia.org/wiki/학교 "wikilink"), [교육청](https://ko.wikipedia.org/wiki/교육청 "wikilink"), 지역사회가 연계하여 학생들의 건강하고 즐거운 학교생활을 지원하는 3단계의 다중 통합지원 서비스망이다. 2008년부터 학교에는 **Wee클래스**, 지역 교육지원청에는 **Wee센터**, 시·도 교육청에는 **Wee스쿨**이 존재한다.
+**Wee**는 We + education 또는 We + emotion 의 합성어로써, 대한민국의 [학교](../Page/학교.md "wikilink"), [교육청](https://ko.wikipedia.org/wiki/교육청 "wikilink"), 지역사회가 연계하여 학생들의 건강하고 즐거운 학교생활을 지원하는 3단계의 다중 통합지원 서비스망이다. 2008년부터 학교에는 **Wee클래스**, 지역 교육지원청에는 **Wee센터**, 시·도 교육청에는 **Wee스쿨**이 존재한다.
 
 ## 방법
 
-학생들의 학교 적응을 위한 서비스를 실시한다. [게임 중독](https://ko.wikipedia.org/wiki/게임_중독 "wikilink") , [진로](https://ko.wikipedia.org/wiki/진로 "wikilink"), 개인 [성격](../Page/성격.md "wikilink") 탐구, [학교 폭력문제를](https://ko.wikipedia.org/wiki/학교_폭력 "wikilink") 다룬다.\[1\]
+학생들의 학교 적응을 위한 서비스를 실시한다. [게임 중독](https://ko.wikipedia.org/wiki/게임_중독 "wikilink") , [진로](https://ko.wikipedia.org/wiki/진로 "wikilink"), 개인 [성격](../Page/성격.md "wikilink") 탐구, [학교 폭력문제를](../Page/학교_폭력.md "wikilink") 다룬다.\[1\]
 
 ## 세부 활동
 
@@ -13,7 +13,7 @@
 
 #### 찾아가는 길거리 상담
 
-학교를 직접 찾아가 Wee센터와 Wee클래스의 홍보와 더불어 학생과 학부모에게 정보를 전달하고 내담자를 위한 [심리 검사를](https://ko.wikipedia.org/wiki/심리_검사 "wikilink") 진행함\[2\]
+학교를 직접 찾아가 Wee센터와 Wee클래스의 홍보와 더불어 학생과 학부모에게 정보를 전달하고 내담자를 위한 [심리 검사를](../Page/심리_검사.md "wikilink") 진행함\[2\]
 
 ## 기록
 
@@ -46,7 +46,7 @@
   -
 [가정불화](../Page/가정불화.md "wikilink")
 
-  - .7 [자살](https://ko.wikipedia.org/wiki/자살 "wikilink")
+  - .7 [자살](../Page/자살.md "wikilink")
       - [대한민국의 자살](../Page/대한민국의_자살.md "wikilink")
 
 ## 외부 링크

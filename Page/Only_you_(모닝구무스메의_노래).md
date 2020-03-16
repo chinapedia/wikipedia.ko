@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Only you \( \)](https://ko.wikipedia.org/wiki/Only_you_\(_\)).
 
 
-**Only you**(온리 유)는 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [6월 15일에](https://ko.wikipedia.org/wiki/6월_15일 "wikilink") 발매 된 [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink")의 마흔여섯 번째 싱글이다.
+**Only you**(온리 유)는 [2011년](../Page/2011년.md "wikilink") [6월 15일에](../Page/6월_15일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 마흔여섯 번째 싱글이다.
 
 ## 개요
 
@@ -13,7 +13,7 @@
 
 <!-- end list -->
 
-  - 메인 보컬은 [다카하시 아이](https://ko.wikipedia.org/wiki/다카하시_아이 "wikilink"), [다나카 레이나이다](https://ko.wikipedia.org/wiki/다나카_레이나 "wikilink").
+  - 메인 보컬은 [다카하시 아이](https://ko.wikipedia.org/wiki/다카하시_아이 "wikilink"), [다나카 레이나이다](../Page/다나카_레이나.md "wikilink").
 
 ## 수록곡
 

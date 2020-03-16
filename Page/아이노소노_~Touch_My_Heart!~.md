@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ \~Touch My Heart!\~](https://ko.wikipedia.org/wiki/_\~Touch_My_Heart!\~).
 
 
-**아이노소노 \~Touch My Heart\!\~**()는 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [9월 18일에](https://ko.wikipedia.org/wiki/9월_18일 "wikilink") 발매 된 [모닝구무스메 오토메구미의](../Page/모닝구무스메_오토메구미.md "wikilink") 첫 번째 싱글이다.
+**아이노소노 \~Touch My Heart\!\~**()는 [2003년](../Page/2003년.md "wikilink") [9월 18일에](../Page/9월_18일.md "wikilink") 발매 된 [모닝구무스메 오토메구미의](../Page/모닝구무스메_오토메구미.md "wikilink") 첫 번째 싱글이다.
 
 ## 개요
 
@@ -9,11 +9,11 @@
 
 <!-- end list -->
 
-  - 멤버는 [이이다 카오리](https://ko.wikipedia.org/wiki/이이다_가오리 "wikilink"), [이시카와 리카](../Page/이시카와_리카.md "wikilink"), [쓰지 노조미](https://ko.wikipedia.org/wiki/쓰지_노조미 "wikilink"), [오가와 마코토](../Page/오가와_마코토.md "wikilink"), [후지모토 미키](https://ko.wikipedia.org/wiki/후지모토_미키 "wikilink"), [미치시게 사유미](https://ko.wikipedia.org/wiki/미치시게_사유미 "wikilink"), [다나카 레이나](https://ko.wikipedia.org/wiki/다나카_레이나 "wikilink") 등 7명이다.
+  - 멤버는 [이이다 카오리](https://ko.wikipedia.org/wiki/이이다_가오리 "wikilink"), [이시카와 리카](../Page/이시카와_리카.md "wikilink"), [쓰지 노조미](https://ko.wikipedia.org/wiki/쓰지_노조미 "wikilink"), [오가와 마코토](../Page/오가와_마코토.md "wikilink"), [후지모토 미키](../Page/후지모토_미키.md "wikilink"), [미치시게 사유미](../Page/미치시게_사유미.md "wikilink"), [다나카 레이나](../Page/다나카_레이나.md "wikilink") 등 7명이다.
 
 <!-- end list -->
 
-  - 무대 의상은 [파랑](../Page/파랑.md "wikilink")(이이다), [노랑](../Page/노랑.md "wikilink")(이시카와), [하늘](../Page/하늘색.md "wikilink")(쓰지), [초록](../Page/초록.md "wikilink")(오가와), [빨강](../Page/빨강.md "wikilink")(후지모토), [보라](../Page/보라.md "wikilink")(미치시게), [주황](../Page/주황.md "wikilink")(다나카) 등 [무지개](https://ko.wikipedia.org/wiki/무지개 "wikilink")색으로 표현하였다.
+  - 무대 의상은 [파랑](../Page/파랑.md "wikilink")(이이다), [노랑](../Page/노랑.md "wikilink")(이시카와), [하늘](../Page/하늘색.md "wikilink")(쓰지), [초록](../Page/초록.md "wikilink")(오가와), [빨강](../Page/빨강.md "wikilink")(후지모토), [보라](../Page/보라.md "wikilink")(미치시게), [주황](../Page/주황.md "wikilink")(다나카) 등 [무지개](../Page/무지개.md "wikilink")색으로 표현하였다.
 
 ## 수록곡
 

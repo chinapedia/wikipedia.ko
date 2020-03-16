@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [10 MY ME](https://ko.wikipedia.org/wiki/10_MY_ME).
 
 
-**⑩ MY ME**(주 마이 미)는 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [3월 17일에](https://ko.wikipedia.org/wiki/3월_17일 "wikilink") 발매 된 [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink")의 열 번째 정규 앨범이다.
+**⑩ MY ME**(주 마이 미)는 [2010년](../Page/2010년.md "wikilink") [3월 17일에](../Page/3월_17일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 열 번째 정규 앨범이다.
 
 ## 개요
 
@@ -40,7 +40,7 @@
 5.  **[女が目立って なぜイケナイ](https://ko.wikipedia.org/wiki/온나가메닷테_나제이케나이 "wikilink")**
       -
         작사, 작곡 : 층쿠 / 편곡 : 스즈키Daichi히데유키
-6.  **** (노래 : [카메이 에리](../Page/카메이_에리.md "wikilink"), [미치시게 사유미](https://ko.wikipedia.org/wiki/미치시게_사유미 "wikilink"), [다나카 레이나](https://ko.wikipedia.org/wiki/다나카_레이나 "wikilink"))
+6.  **** (노래 : [카메이 에리](../Page/카메이_에리.md "wikilink"), [미치시게 사유미](../Page/미치시게_사유미.md "wikilink"), [다나카 레이나](../Page/다나카_레이나.md "wikilink"))
       -
         작사, 작곡 : 층쿠 / 편곡 : 히라타 쇼이치로
 7.  **** (노래 : [다카하시 아이](https://ko.wikipedia.org/wiki/다카하시_아이 "wikilink"), [니이가키 리사](../Page/니이가키_리사.md "wikilink"))

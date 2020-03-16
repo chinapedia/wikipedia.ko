@@ -1,34 +1,34 @@
 > This article is converted from Wikipedia: [TV](https://ko.wikipedia.org/wiki/TV).
 
 
-**연합뉴스TV**는 국가 기간 뉴스통신사인 [연합뉴스](https://ko.wikipedia.org/wiki/연합뉴스 "wikilink")가 대주주로 자회사 형태로 설립한 보도전문채널이다. [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [12월 1일](https://ko.wikipedia.org/wiki/12월_1일 "wikilink") 개국하여 케이블 채널 23번을 통하여 방송하고 있다.
+**연합뉴스TV**는 국가 기간 뉴스통신사인 [연합뉴스](../Page/연합뉴스.md "wikilink")가 대주주로 자회사 형태로 설립한 보도전문채널이다. [2011년](../Page/2011년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") 개국하여 케이블 채널 23번을 통하여 방송하고 있다.
 
-연합뉴스TV는 연합뉴스, [연합인포맥스](https://ko.wikipedia.org/wiki/연합인포맥스 "wikilink") 연계를 통하여 통신과 방송의 융합을 실현하는 크로스미디어를 지향하고 있다. 케이블TV 채널 23번을 통하여 HD 화질로 방송된다.\[1\] IPTV는 채널 25번으로 방송된다.\[2\] 또한 인터넷 콘텐츠 플랫폼 포털 사이트인 [푹](https://ko.wikipedia.org/wiki/푹 "wikilink")(pooq)에서도 시청이 가능하다.
+연합뉴스TV는 연합뉴스, [연합인포맥스](../Page/연합인포맥스.md "wikilink") 연계를 통하여 통신과 방송의 융합을 실현하는 크로스미디어를 지향하고 있다. 케이블TV 채널 23번을 통하여 HD 화질로 방송된다.\[1\] IPTV는 채널 25번으로 방송된다.\[2\] 또한 인터넷 콘텐츠 플랫폼 포털 사이트인 [푹](../Page/푹.md "wikilink")(pooq)에서도 시청이 가능하다.
 
 ## 역사
 
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [12월 31일](https://ko.wikipedia.org/wiki/12월_31일 "wikilink") :[방송통신위원회](https://ko.wikipedia.org/wiki/방송통신위원회 "wikilink"), (주)연합뉴스TV 컨소시엄을 보도전문채널사용사업자로 단독 선정
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [3월 15일](https://ko.wikipedia.org/wiki/3월_15일 "wikilink") : (주)연합뉴스TV, 창립 주주총회 개최
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [3월 31일](https://ko.wikipedia.org/wiki/3월_31일 "wikilink") : 방송통신위원회, (주)연합뉴스TV 방송채널사용사업 승인
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [10월 17일](https://ko.wikipedia.org/wiki/10월_17일 "wikilink") : 채널명(구)뉴스Y BI(Brand Identity) 공개
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [6월 3일](https://ko.wikipedia.org/wiki/6월_3일 "wikilink") : (재)한국문화산업교류재단과 MOU 체결
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [6월 9일](https://ko.wikipedia.org/wiki/6월_9일 "wikilink") : 아랍권 보도 채널인 [알자지라](https://ko.wikipedia.org/wiki/알자지라 "wikilink")와 영상 협약 체결
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [8월 10일](https://ko.wikipedia.org/wiki/8월_10일 "wikilink") : 러시아 보도 채널인 [러시아 투데이와](https://ko.wikipedia.org/wiki/러시아_투데이 "wikilink") 협력 협정
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [9월 5일](https://ko.wikipedia.org/wiki/9월_5일 "wikilink") : 하와이 한인 방송국 [KBFD-TV](https://ko.wikipedia.org/wiki/KBFD-TV "wikilink")와 방송 협약 체결
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [9월 26일](https://ko.wikipedia.org/wiki/9월_26일 "wikilink") : 대만 뉴스전문채널인 [TVBS](../Page/TVBS.md "wikilink")와 교류협력 MOU 체결
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [12월 1일](https://ko.wikipedia.org/wiki/12월_1일 "wikilink") : (구)뉴스Y 개국\[3\]
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [1월 16일](https://ko.wikipedia.org/wiki/1월_16일 "wikilink") : 청각 장애인을 위한 자막방송 하루 3시간(오후 5\~8시), 청각 장애인을 위한 수화방송 오전,낮 수시 실시
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [3월 7일](https://ko.wikipedia.org/wiki/3월_7일 "wikilink") : 대한공공의학회 업무협약 체결
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [10월 19일](https://ko.wikipedia.org/wiki/10월_19일 "wikilink") : 사옥 이전(중구 수하동 을지로2가 미래에셋 센터원 빌딩→종로구 수송동 연합뉴스 신사옥)
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [1월 6일](https://ko.wikipedia.org/wiki/1월_6일 "wikilink") : 뉴스와이 프로그램 개편
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [1월 5일](https://ko.wikipedia.org/wiki/1월_5일 "wikilink") : 채널명을 **(구)뉴스Y**에서 **연합뉴스TV**로 변경
-  - [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [4월 8일](https://ko.wikipedia.org/wiki/4월_8일 "wikilink") : 딩동댕 신설
+  - [2010년](../Page/2010년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink") :[방송통신위원회](https://ko.wikipedia.org/wiki/방송통신위원회 "wikilink"), (주)연합뉴스TV 컨소시엄을 보도전문채널사용사업자로 단독 선정
+  - [2011년](../Page/2011년.md "wikilink") [3월 15일](../Page/3월_15일.md "wikilink") : (주)연합뉴스TV, 창립 주주총회 개최
+  - [2011년](../Page/2011년.md "wikilink") [3월 31일](../Page/3월_31일.md "wikilink") : 방송통신위원회, (주)연합뉴스TV 방송채널사용사업 승인
+  - [2011년](../Page/2011년.md "wikilink") [10월 17일](../Page/10월_17일.md "wikilink") : 채널명(구)뉴스Y BI(Brand Identity) 공개
+  - [2011년](../Page/2011년.md "wikilink") [6월 3일](../Page/6월_3일.md "wikilink") : (재)한국문화산업교류재단과 MOU 체결
+  - [2011년](../Page/2011년.md "wikilink") [6월 9일](../Page/6월_9일.md "wikilink") : 아랍권 보도 채널인 [알자지라](../Page/알자지라.md "wikilink")와 영상 협약 체결
+  - [2011년](../Page/2011년.md "wikilink") [8월 10일](../Page/8월_10일.md "wikilink") : 러시아 보도 채널인 [러시아 투데이와](https://ko.wikipedia.org/wiki/러시아_투데이 "wikilink") 협력 협정
+  - [2011년](../Page/2011년.md "wikilink") [9월 5일](../Page/9월_5일.md "wikilink") : 하와이 한인 방송국 [KBFD-TV](https://ko.wikipedia.org/wiki/KBFD-TV "wikilink")와 방송 협약 체결
+  - [2011년](../Page/2011년.md "wikilink") [9월 26일](../Page/9월_26일.md "wikilink") : 대만 뉴스전문채널인 [TVBS](../Page/TVBS.md "wikilink")와 교류협력 MOU 체결
+  - [2011년](../Page/2011년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") : (구)뉴스Y 개국\[3\]
+  - [2012년](../Page/2012년.md "wikilink") [1월 16일](../Page/1월_16일.md "wikilink") : 청각 장애인을 위한 자막방송 하루 3시간(오후 5\~8시), 청각 장애인을 위한 수화방송 오전,낮 수시 실시
+  - [2012년](../Page/2012년.md "wikilink") [3월 7일](../Page/3월_7일.md "wikilink") : 대한공공의학회 업무협약 체결
+  - [2013년](../Page/2013년.md "wikilink") [10월 19일](../Page/10월_19일.md "wikilink") : 사옥 이전(중구 수하동 을지로2가 미래에셋 센터원 빌딩→종로구 수송동 연합뉴스 신사옥)
+  - [2014년](../Page/2014년.md "wikilink") [1월 6일](../Page/1월_6일.md "wikilink") : 뉴스와이 프로그램 개편
+  - [2015년](../Page/2015년.md "wikilink") [1월 5일](../Page/1월_5일.md "wikilink") : 채널명을 **(구)뉴스Y**에서 **연합뉴스TV**로 변경
+  - [2019년](../Page/2019년.md "wikilink") [4월 8일](../Page/4월_8일.md "wikilink") : 딩동댕 신설
 
 ## 아나운서
 
   - 1기(2011년 입사)
       - 남자 : [이승준](https://ko.wikipedia.org/wiki/이승준 "wikilink"), [김승재](https://ko.wikipedia.org/wiki/김승재_\(아나운서\) "wikilink")
-      - 여자 : [조영빈](https://ko.wikipedia.org/wiki/조영빈 "wikilink")
+      - 여자 : [조영빈](../Page/조영빈.md "wikilink")
 
 <!-- end list -->
 
@@ -96,7 +96,7 @@
 
 ### 전직 아나운서
 
-  - 남자 : [한규영](https://ko.wikipedia.org/wiki/한규영 "wikilink"), [윤길환](https://ko.wikipedia.org/wiki/윤길환 "wikilink") (현 MBN 기자), [김선근](../Page/김선근.md "wikilink") (현 KBS 아나운서), [박창현](../Page/박창현_\(아나운서\).md "wikilink") (현 MBC 아나운서), [박준수](https://ko.wikipedia.org/wiki/박준수 "wikilink"), [이재훈](https://ko.wikipedia.org/wiki/이재훈 "wikilink") (현 JRB 대표) [이태연](https://ko.wikipedia.org/wiki/이태연 "wikilink"), [이정섭](https://ko.wikipedia.org/wiki/이정섭 "wikilink") (현 KBC 광주방송 아나운서), [이민재](https://ko.wikipedia.org/wiki/이민재 "wikilink"), [박현식](https://ko.wikipedia.org/wiki/박현식 "wikilink"), [김도헌](https://ko.wikipedia.org/wiki/김도헌 "wikilink") (현 전주MBC 아나운서), [최창은](https://ko.wikipedia.org/wiki/최창은 "wikilink")
+  - 남자 : [한규영](https://ko.wikipedia.org/wiki/한규영 "wikilink"), [윤길환](https://ko.wikipedia.org/wiki/윤길환 "wikilink") (현 MBN 기자), [김선근](../Page/김선근.md "wikilink") (현 KBS 아나운서), [박창현](../Page/박창현_\(아나운서\).md "wikilink") (현 MBC 아나운서), [박준수](https://ko.wikipedia.org/wiki/박준수 "wikilink"), [이재훈](../Page/이재훈.md "wikilink") (현 JRB 대표) [이태연](https://ko.wikipedia.org/wiki/이태연 "wikilink"), [이정섭](../Page/이정섭.md "wikilink") (현 KBC 광주방송 아나운서), [이민재](https://ko.wikipedia.org/wiki/이민재 "wikilink"), [박현식](../Page/박현식.md "wikilink"), [김도헌](https://ko.wikipedia.org/wiki/김도헌 "wikilink") (현 전주MBC 아나운서), [최창은](https://ko.wikipedia.org/wiki/최창은 "wikilink")
   - 여자 :[김수민](https://ko.wikipedia.org/wiki/김수민 "wikilink"), [박연경](../Page/박연경.md "wikilink") (현 MBC 아나운서), [조승연](https://ko.wikipedia.org/wiki/조승연 "wikilink") (현 TV조선 앵커), [배경은](https://ko.wikipedia.org/wiki/배경은 "wikilink"), [서쥬리](https://ko.wikipedia.org/wiki/서쥬리 "wikilink") (현 KTV 한국정책방송 앵커), [신수민](../Page/신수민.md "wikilink"), [은예솔](https://ko.wikipedia.org/wiki/은예솔 "wikilink")(전 국회방송 아나운서), [김정](https://ko.wikipedia.org/wiki/김정_\(아나운서\) "wikilink"), [옥자영](https://ko.wikipedia.org/wiki/옥자영 "wikilink"), [허승하](https://ko.wikipedia.org/wiki/허승하 "wikilink"), [박지민](https://ko.wikipedia.org/wiki/박지민 "wikilink") (전 MBC 아나운서), [이윤정](https://ko.wikipedia.org/wiki/이윤정 "wikilink"), [박송이](https://ko.wikipedia.org/wiki/박송이 "wikilink"), [변정연](https://ko.wikipedia.org/wiki/변정연 "wikilink") (현 원주MBC 아나운서), [정보윤](https://ko.wikipedia.org/wiki/정보윤 "wikilink"), [김민형](https://ko.wikipedia.org/wiki/김민형 "wikilink") (현 SBS 아나운서), [박인애](https://ko.wikipedia.org/wiki/박인애 "wikilink"), [송서미](https://ko.wikipedia.org/wiki/송서미 "wikilink") (현 KBS24뉴스 아나운서), [김난영](https://ko.wikipedia.org/wiki/김난영 "wikilink"), [이경희](https://ko.wikipedia.org/wiki/이경희 "wikilink"), 강설이
 
 ## 취재 기자
@@ -156,7 +156,7 @@
 
   -
     시간 : 매일 새벽 4시 25분 \~ 아침 6시 30분
-    진행 : [황인성](https://ko.wikipedia.org/wiki/황인성 "wikilink"), [박서현](https://ko.wikipedia.org/wiki/박서현 "wikilink")
+    진행 : [황인성](../Page/황인성.md "wikilink"), [박서현](https://ko.wikipedia.org/wiki/박서현 "wikilink")
 
 <!-- end list -->
 
@@ -176,7 +176,7 @@
 
   -
     시간 : 평일 아침 7시 50분 \~ 8시 45분
-    진행 : [윤도현](../Page/윤도현.md "wikilink"), [이윤지](https://ko.wikipedia.org/wiki/이윤지 "wikilink")
+    진행 : [윤도현](../Page/윤도현.md "wikilink"), [이윤지](../Page/이윤지.md "wikilink")
 
 <!-- end list -->
 
@@ -206,7 +206,7 @@
 
   -
     시간 : 평일 오전 11시 40분 \~ 낮 12시 40분
-    진행 : [윤도현](../Page/윤도현.md "wikilink"), [이윤지](https://ko.wikipedia.org/wiki/이윤지 "wikilink")
+    진행 : [윤도현](../Page/윤도현.md "wikilink"), [이윤지](../Page/이윤지.md "wikilink")
 
 <!-- end list -->
 
@@ -266,7 +266,7 @@
 
   -
     시간 : 평일 저녁 7시 35분 \~ 8시 40분, 주말 저녁 8시 \~ 9시
-    진행 : [이남규](https://ko.wikipedia.org/wiki/이남규 "wikilink"), [조영빈](https://ko.wikipedia.org/wiki/조영빈 "wikilink")
+    진행 : [이남규](https://ko.wikipedia.org/wiki/이남규 "wikilink"), [조영빈](../Page/조영빈.md "wikilink")
 
 <!-- end list -->
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LOVE](https://ko.wikipedia.org/wiki/LOVE).
 
 
-**LOVE머신**(, Love Machine)은 [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [9월 9일에](https://ko.wikipedia.org/wiki/9월_9일 "wikilink") 발매 된 [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink")의 일곱 번째 싱글이다.
+**LOVE머신**(, Love Machine)은 [1999년](../Page/1999년.md "wikilink") [9월 9일에](../Page/9월_9일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 일곱 번째 싱글이다.
 
 ## 개요
 
@@ -13,7 +13,7 @@
 
 <!-- end list -->
 
-  - 다른 버전의 음원을 추가한 12cm반이 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [12월 15일에](https://ko.wikipedia.org/wiki/12월_15일 "wikilink") 발매 된 [모닝구무스메 EARLY SINGLE BOX에](https://ko.wikipedia.org/wiki/모닝구무스메_EARLY_SINGLE_BOX "wikilink") 수록되었으며, [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [3월 2일에는](https://ko.wikipedia.org/wiki/3월_2일 "wikilink") 이 작품이 싱글로 발매 되었다.
+  - 다른 버전의 음원을 추가한 12cm반이 [2004년](../Page/2004년.md "wikilink") [12월 15일에](../Page/12월_15일.md "wikilink") 발매 된 [모닝구무스메 EARLY SINGLE BOX에](../Page/모닝구무스메_EARLY_SINGLE_BOX.md "wikilink") 수록되었으며, [2005년](../Page/2005년.md "wikilink") [3월 2일에는](../Page/3월_2일.md "wikilink") 이 작품이 싱글로 발매 되었다.
 
 ## 수록곡
 
@@ -90,15 +90,15 @@
 
 ## 수상
 
-  - 1999년 12월 31일 [제41회 일본레코드대상](https://ko.wikipedia.org/wiki/일본_레코드_대상 "wikilink") 최우수 작품상, 작곡상
+  - 1999년 12월 31일 [제41회 일본레코드대상](../Page/일본_레코드_대상.md "wikilink") 최우수 작품상, 작곡상
   - 2000년 3월 15일 제14회 일본골든디스크대상 Song of the ear
 
 ## 커버
 
   - 2008년, ALLiSTER (앨범 *Guilty Pleasures 3*에 수록)
-  - 2009년, [애프터스쿨](https://ko.wikipedia.org/wiki/애프터스쿨 "wikilink") (한국어 번안 《[對 동경소녀 (사운드트랙)](https://ko.wikipedia.org/wiki/對_동경소녀_\(사운드트랙\) "wikilink")》)
+  - 2009년, [애프터스쿨](../Page/애프터스쿨.md "wikilink") (한국어 번안 《[對 동경소녀 (사운드트랙)](../Page/對_동경소녀_\(사운드트랙\).md "wikilink")》)
   - 2009년, 다케우치 리키의 쌍둥이 동생이라는 설정의 "RIKI" (앨범 *전국제패*에 수록, 가사를 바꾸어 커버. LOVE 머신\~RIKI 버전\~)
-  - 2010년, [히카사 요코](https://ko.wikipedia.org/wiki/히카사_요코 "wikilink") (7월에 방송 된 애니메이션 《세기말 오컬트 학원》 제2화 예고편에서 사용. 화면 표기는 **가미요 마야 (CV 히가사 요코)**)
+  - 2010년, [히카사 요코](../Page/히카사_요코.md "wikilink") (7월에 방송 된 애니메이션 《세기말 오컬트 학원》 제2화 예고편에서 사용. 화면 표기는 **가미요 마야 (CV 히가사 요코)**)
 
 ## 차트
 
@@ -109,12 +109,12 @@
 
 ## 드라마화
 
-《**"청색시대" 명곡 드라마 시리즈 "모닝구무스메〈LOVE 머신〉"**》은 [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [3월 25일](https://ko.wikipedia.org/wiki/3월_25일 "wikilink") 22:00 - 23:00에 [NHK BS 프리미엄에서](../Page/NHK_BS_프리미엄.md "wikilink") 방송 된 일본의 [텔레비전 드라마](https://ko.wikipedia.org/wiki/텔레비전_드라마 "wikilink")\[1\]. 모닝구무스메의 〈LOVE 머신〉을 모티브로 1999년의 일본을 배경으로한다\[2\].
+《**"청색시대" 명곡 드라마 시리즈 "모닝구무스메〈LOVE 머신〉"**》은 [2017년](../Page/2017년.md "wikilink") [3월 25일](../Page/3월_25일.md "wikilink") 22:00 - 23:00에 [NHK BS 프리미엄에서](../Page/NHK_BS_프리미엄.md "wikilink") 방송 된 일본의 [텔레비전 드라마](../Page/텔레비전_드라마.md "wikilink")\[1\]. 모닝구무스메의 〈LOVE 머신〉을 모티브로 1999년의 일본을 배경으로한다\[2\].
 
 ### 캐스트
 
   - 미츠시마 류헤이 : [와카바 타츠야](https://ko.wikipedia.org/wiki/와카바_타츠야 "wikilink")
-  - 아이자와 치에 : [토모사카 리에](https://ko.wikipedia.org/wiki/토모사카_리에 "wikilink")
+  - 아이자와 치에 : [토모사카 리에](../Page/토모사카_리에.md "wikilink")
   - 공원 : [야구치 마리](../Page/야구치_마리.md "wikilink")([모닝구무스메。OG](https://ko.wikipedia.org/wiki/M-라인_클럽 "wikilink"))
   - 공원 : [야스다 케이](../Page/야스다_케이.md "wikilink")(모닝구무스메。OG)
   - 니시키노 코타로 : [츠루미 신고](https://ko.wikipedia.org/wiki/츠루미_신고 "wikilink")

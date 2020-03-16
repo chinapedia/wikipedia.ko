@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Memory  ](https://ko.wikipedia.org/wiki/Memory__).
 
 
-**Memory 청춘의 빛**()은 [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [2월 10일에](https://ko.wikipedia.org/wiki/2월_10일 "wikilink") 발매 된 [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink")의 네 번째 싱글이다.
+**Memory 청춘의 빛**()은 [1999년](../Page/1999년.md "wikilink") [2월 10일에](../Page/2월_10일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 네 번째 싱글이다.
 
 ## 개요
 
@@ -11,27 +11,27 @@
 
   - 모닝구무스메의 싱글 중 2011년 현재까지 유일하게 커플링이 2곡 수록된 싱글이다. 그 중 "Never Forget"은, 후쿠다 아스카가 메인 보컬(실질적으로 솔로)을 맡은 졸업송이기도 하다.
       - 음악 프로그램 《[뮤직 스테이션](../Page/뮤직_스테이션.md "wikilink")》에 2주 연속 출연하였으며, 2주 째 무대에서는 후쿠다가 팬들에게 메시지를 낭독하고, [타모리에게서](https://ko.wikipedia.org/wiki/모리타_가즈요시 "wikilink") 2개의 꽃다발을 받았다.
-      - [세컨드 모닝](../Page/세컨드_모닝.md "wikilink"), [베스트\! 모닝구무스메 1에도](https://ko.wikipedia.org/wiki/베스트!_모닝구무스메_1 "wikilink") 수록(세컨드 모닝은 Large Vocal Mix)된 것 외에도, 후쿠다 졸업 후 그녀의 파트를 이어 받은 [야스다 케이가](https://ko.wikipedia.org/wiki/야스다_게이 "wikilink") 솔로로 부르는 버전(Rock Ver)이 야스다의 졸업 싱글 "[AS FOR ONE DAY](https://ko.wikipedia.org/wiki/AS_FOR_ONE_DAY "wikilink")"의 커플링곡으로 수록되었다. 또한 야스다도 《뮤직 스테이션》에서 숏버전을 선보였다.
+      - [세컨드 모닝](../Page/세컨드_모닝.md "wikilink"), [베스트\! 모닝구무스메 1에도](../Page/베스트!_모닝구무스메_1.md "wikilink") 수록(세컨드 모닝은 Large Vocal Mix)된 것 외에도, 후쿠다 졸업 후 그녀의 파트를 이어 받은 [야스다 케이가](https://ko.wikipedia.org/wiki/야스다_게이 "wikilink") 솔로로 부르는 버전(Rock Ver)이 야스다의 졸업 싱글 "[AS FOR ONE DAY](../Page/AS_FOR_ONE_DAY.md "wikilink")"의 커플링곡으로 수록되었다. 또한 야스다도 《뮤직 스테이션》에서 숏버전을 선보였다.
 
 <!-- end list -->
 
-  - [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink") 사상 처음으로 초회한정반, 통상반 등 여러 종류로 발매한 싱글이다.
+  - [모닝구무스메](../Page/모닝구무스메.md "wikilink") 사상 처음으로 초회한정반, 통상반 등 여러 종류로 발매한 싱글이다.
 
 <!-- end list -->
 
-  - 자켓 사진 및 [뮤직 비디오는](https://ko.wikipedia.org/wiki/뮤직_비디오 "wikilink") [뉴욕](https://ko.wikipedia.org/wiki/뉴욕 "wikilink")에서 촬영되었다.
+  - 자켓 사진 및 [뮤직 비디오는](../Page/뮤직_비디오.md "wikilink") [뉴욕](../Page/뉴욕.md "wikilink")에서 촬영되었다.
 
 <!-- end list -->
 
-  - [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink") & [헤이케 미치요](../Page/헤이케_미치요.md "wikilink") 여동생 모집 요항이 봉입되었다.
+  - [모닝구무스메](../Page/모닝구무스메.md "wikilink") & [헤이케 미치요](../Page/헤이케_미치요.md "wikilink") 여동생 모집 요항이 봉입되었다.
 
 <!-- end list -->
 
-  - 다른 버전의 음원을 추가한 12cm반이 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [12월 15일에](https://ko.wikipedia.org/wiki/12월_15일 "wikilink") 발매 된 [모닝구무스메 EARLY SINGLE BOX에](https://ko.wikipedia.org/wiki/모닝구무스메_EARLY_SINGLE_BOX "wikilink") 수록되었으며, [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [3월 2일에는](https://ko.wikipedia.org/wiki/3월_2일 "wikilink") 이 작품이 싱글로 발매 되었다. 자켓은 통상반과 같다.
+  - 다른 버전의 음원을 추가한 12cm반이 [2004년](../Page/2004년.md "wikilink") [12월 15일에](../Page/12월_15일.md "wikilink") 발매 된 [모닝구무스메 EARLY SINGLE BOX에](../Page/모닝구무스메_EARLY_SINGLE_BOX.md "wikilink") 수록되었으며, [2005년](../Page/2005년.md "wikilink") [3월 2일에는](../Page/3월_2일.md "wikilink") 이 작품이 싱글로 발매 되었다. 자켓은 통상반과 같다.
 
 <!-- end list -->
 
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [9월 26일에](https://ko.wikipedia.org/wiki/9월_26일 "wikilink") 발매 된 컴필레이션 음반 [층쿠♂ 베스트 작품집 (상) 샤란Q\~모닝구무스메\~ 층쿠♂ 연예계 생활 15주년 기념 앨범\~에](https://ko.wikipedia.org/wiki/:ja:つんく♂ベスト作品集\(上\)「シャ乱Q〜モーニング娘。」〜つんく♂芸能生活15周年記念アルバム〜 "wikilink") 수록되었으며, 부록 북클릿에는 이 곡의 파트별 가사가 게재되었다.
+  - [2007년](../Page/2007년.md "wikilink") [9월 26일에](../Page/9월_26일.md "wikilink") 발매 된 컴필레이션 음반 [층쿠♂ 베스트 작품집 (상) 샤란Q\~모닝구무스메\~ 층쿠♂ 연예계 생활 15주년 기념 앨범\~에](https://ko.wikipedia.org/wiki/:ja:つんく♂ベスト作品集\(上\)「シャ乱Q〜モーニング娘。」〜つんく♂芸能生活15周年記念アルバム〜 "wikilink") 수록되었으며, 부록 북클릿에는 이 곡의 파트별 가사가 게재되었다.
 
 ## 수록곡
 

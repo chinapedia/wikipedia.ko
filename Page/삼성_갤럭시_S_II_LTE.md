@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [  S II LTE](https://ko.wikipedia.org/wiki/__S_II_LTE).
 
 
-**삼성 갤럭시 S II LTE**(Samsung GALAXY S II LTE)는 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")에서 제조/판매하는 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")이다.
+**삼성 갤럭시 S II LTE**(Samsung GALAXY S II LTE)는 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")에서 제조/판매하는 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.
 
 2011년 8월 28일에 출시했으며, 출시 이전에는 **갤럭시 셀록스**라고 명명하였나 **갤럭시 S II LTE**로 명칭을 바꿨다.
 
-[LTE를](https://ko.wikipedia.org/wiki/롱_텀_에볼루션 "wikilink") 지원하는 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")의 첫 [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")이며, 이로 인해 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink") 자체 [AP인](https://ko.wikipedia.org/wiki/애플리케이션_프로세서 "wikilink") [엑시노스](https://ko.wikipedia.org/wiki/엑시노스 "wikilink") 대신 [퀄컴](../Page/퀄컴.md "wikilink")의 [스냅드래곤](../Page/스냅드래곤.md "wikilink") [AP가](https://ko.wikipedia.org/wiki/애플리케이션_프로세서 "wikilink") 장착되었다.
+[LTE를](https://ko.wikipedia.org/wiki/롱_텀_에볼루션 "wikilink") 지원하는 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")의 첫 [스마트폰](../Page/스마트폰.md "wikilink")이며, 이로 인해 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink") 자체 [AP인](https://ko.wikipedia.org/wiki/애플리케이션_프로세서 "wikilink") [엑시노스](https://ko.wikipedia.org/wiki/엑시노스 "wikilink") 대신 [퀄컴](../Page/퀄컴.md "wikilink")의 [스냅드래곤](../Page/스냅드래곤.md "wikilink") [AP가](https://ko.wikipedia.org/wiki/애플리케이션_프로세서 "wikilink") 장착되었다.
 
 ## 색상
 
@@ -23,15 +23,15 @@
 
 ### 안드로이드 4.0.3/4 아이스크림 샌드위치
 
-추후에 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") 4.0.3/4 [아이스크림 샌드위치로](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업데이트가 되면서 일부 기능이 추가되거나 개선되었다.
+추후에 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") 4.0.3/4 [아이스크림 샌드위치로](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업데이트가 되면서 일부 기능이 추가되거나 개선되었다.
 
 ### 안드로이드 4.1.2 젤리빈
 
-[2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [2월 14일](https://ko.wikipedia.org/wiki/2월_14일 "wikilink") [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서 SHV-E110S 모델과 SHV-E120S/K/L 모델 (갤럭시 S II HD LTE) 모델을 시작으로 [4.1.2 젤리빈으로의](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드가 시작되었다.\[1\]
+[2013년](../Page/2013년.md "wikilink") [2월 14일](../Page/2월_14일.md "wikilink") [대한민국](../Page/대한민국.md "wikilink")에서 SHV-E110S 모델과 SHV-E120S/K/L 모델 (갤럭시 S II HD LTE) 모델을 시작으로 [4.1.2 젤리빈으로의](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드가 시작되었다.\[1\]
 
 ### 안드로이드 4.3 젤리빈
 
-또한 [2013년 7월](https://ko.wikipedia.org/wiki/2013년_7월 "wikilink") [스웨덴](https://ko.wikipedia.org/wiki/스웨덴 "wikilink")에서 I9210 모델의 [4.3 젤리빈으로의](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드가 시작되었다.
+또한 [2013년 7월](../Page/2013년_7월.md "wikilink") [스웨덴](../Page/스웨덴.md "wikilink")에서 I9210 모델의 [4.3 젤리빈으로의](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드가 시작되었다.
 
 다음사항도 같이 적용되었다.
 
@@ -70,13 +70,13 @@
 
 #### 갤럭시 S II HD LTE (SHV-E120S/K/L)
 
-[SK텔레콤](https://ko.wikipedia.org/wiki/SK텔레콤 "wikilink"), [KT](https://ko.wikipedia.org/wiki/KT "wikilink"), [LG유플러스](https://ko.wikipedia.org/wiki/LG유플러스 "wikilink")를 통해 출시된 제품으로, 외형과 크기가 변하고 디스플레이는 4.65[''의](https://ko.wikipedia.org/wiki/인치 "wikilink") [HD 슈퍼 AMOLED를](https://ko.wikipedia.org/wiki/HD_슈퍼_AMOLED "wikilink") 탑재하여 해상도가 [720p](https://ko.wikipedia.org/wiki/720p "wikilink") [HD](../Page/고선명_비디오.md "wikilink") (720 x 1,280)로 높아졌다.
+[SK텔레콤](../Page/SK텔레콤.md "wikilink"), [KT](../Page/KT.md "wikilink"), [LG유플러스](../Page/LG유플러스.md "wikilink")를 통해 출시된 제품으로, 외형과 크기가 변하고 디스플레이는 4.65[''의](https://ko.wikipedia.org/wiki/인치 "wikilink") [HD 슈퍼 AMOLED를](https://ko.wikipedia.org/wiki/HD_슈퍼_AMOLED "wikilink") 탑재하여 해상도가 [720p](https://ko.wikipedia.org/wiki/720p "wikilink") [HD](../Page/고선명_비디오.md "wikilink") (720 x 1,280)로 높아졌다.
 
 ###
 
 #### 갤럭시 S II 스카이로켓 (SGH-I727)
 
-[AT\&T](https://ko.wikipedia.org/wiki/AT&T "wikilink")를 통해 출시된 제품으로, [HD 슈퍼 AMOLED를](https://ko.wikipedia.org/wiki/HD_슈퍼_AMOLED "wikilink") 채용하여 해상도가 [720p](https://ko.wikipedia.org/wiki/720p "wikilink") [HD](../Page/고선명_비디오.md "wikilink") (720 x 1,280)로 높아졌다.
+[AT\&T](../Page/AT&T.md "wikilink")를 통해 출시된 제품으로, [HD 슈퍼 AMOLED를](https://ko.wikipedia.org/wiki/HD_슈퍼_AMOLED "wikilink") 채용하여 해상도가 [720p](https://ko.wikipedia.org/wiki/720p "wikilink") [HD](../Page/고선명_비디오.md "wikilink") (720 x 1,280)로 높아졌다.
 
 ###
 

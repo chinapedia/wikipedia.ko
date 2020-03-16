@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  KC](https://ko.wikipedia.org/wiki/__KC).
 
 
-**무크티조다 상사드 KC**(, )는 [방글라데시](../Page/방글라데시.md "wikilink")의 수도 [다카](https://ko.wikipedia.org/wiki/다카 "wikilink")를 연고로 하는 축구 클럽이다. 현재는 [방글라데시 프리미어리그에](https://ko.wikipedia.org/wiki/방글라데시_프리미어리그 "wikilink") 참가하고 있다.
+**무크티조다 상사드 KC**(, )는 [방글라데시](../Page/방글라데시.md "wikilink")의 수도 [다카](../Page/다카.md "wikilink")를 연고로 하는 축구 클럽이다. 현재는 [방글라데시 프리미어리그에](https://ko.wikipedia.org/wiki/방글라데시_프리미어리그 "wikilink") 참가하고 있다.
 
 ## 성적
 

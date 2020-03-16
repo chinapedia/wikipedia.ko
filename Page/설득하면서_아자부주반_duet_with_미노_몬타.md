@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  duet with  ](https://ko.wikipedia.org/wiki/__duet_with__).
 
 
-〈**설득하면서 아자부쥬반 duet with 미노 몬타**〉()는 [SDN48](https://ko.wikipedia.org/wiki/SDN48 "wikilink")의 4번째 [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink")이다. 2011년 12월 28일, [유니버설 뮤직을](../Page/유니버설_뮤직_그룹.md "wikilink") 통해 발매되었다.
+〈**설득하면서 아자부쥬반 duet with 미노 몬타**〉()는 [SDN48](../Page/SDN48.md "wikilink")의 4번째 [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink")이다. 2011년 12월 28일, [유니버설 뮤직을](../Page/유니버설_뮤직_그룹.md "wikilink") 통해 발매되었다.
 
 ## 개요
 
@@ -11,7 +11,7 @@
 
 ### 설득하면서 아자부쥬반 duet with 미노 몬타
 
-  - 1기생 : [아키타 카즈에](https://ko.wikipedia.org/wiki/아키타_카즈에 "wikilink"), [우라노 카즈미](https://ko.wikipedia.org/wiki/우라노_카즈미 "wikilink"), [오오호리 메구미](https://ko.wikipedia.org/wiki/오오호리_메구미 "wikilink"), [코하라 하루카](https://ko.wikipedia.org/wiki/코하라_하루카 "wikilink"), [사토 유카리](https://ko.wikipedia.org/wiki/사토_유카리_\(가수\) "wikilink"), [세리나](https://ko.wikipedia.org/wiki/세리나_\(1985년\) "wikilink"), [노로 카요](https://ko.wikipedia.org/wiki/노로_카요 "wikilink")
+  - 1기생 : [아키타 카즈에](https://ko.wikipedia.org/wiki/아키타_카즈에 "wikilink"), [우라노 카즈미](https://ko.wikipedia.org/wiki/우라노_카즈미 "wikilink"), [오오호리 메구미](https://ko.wikipedia.org/wiki/오오호리_메구미 "wikilink"), [코하라 하루카](https://ko.wikipedia.org/wiki/코하라_하루카 "wikilink"), [사토 유카리](../Page/사토_유카리_\(가수\).md "wikilink"), [세리나](https://ko.wikipedia.org/wiki/세리나_\(1985년\) "wikilink"), [노로 카요](../Page/노로_카요.md "wikilink")
   - 2기생 : [KONAN](https://ko.wikipedia.org/wiki/코난_\(가수\) "wikilink")
 
 ### 하고 싶어하는 사람
@@ -43,7 +43,7 @@
 ### Type A
 
 1.  **설득하면서 아자부쥬반 duet with 미노 몬타**(口説きながら麻布十番 duet with みの もんた)
-    (작사：[아키모토 야스시](https://ko.wikipedia.org/wiki/아키모토_야스시 "wikilink"), 작곡：코니시 타카오, 편곡：노나카“야”유이치)
+    (작사：[아키모토 야스시](../Page/아키모토_야스시.md "wikilink"), 작곡：코니시 타카오, 편곡：노나카“야”유이치)
 2.  **하고 싶어하는 사람**(やりたがり屋さん)
     (작사：아키모토 야스시, 작곡·편곡：RED APPLE·RED COOL)
 3.  **감자탕 모정**(カムジャタン慕情)

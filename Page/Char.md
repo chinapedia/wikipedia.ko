@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Char](https://ko.wikipedia.org/wiki/Char).
 
 
-[C](https://ko.wikipedia.org/wiki/C_언어 "wikilink") 및 [C++](https://ko.wikipedia.org/wiki/C++ "wikilink") 프로그래밍 언어에서의 **char**는 8비트 정수형 처리 변수로 **character**(문자)의 약자이다. C언어 정수형의 처리에서 부호가 있는 sign형과 부호가 없는 unsigned형으로 선언하여 사용할 수 있다. 부호가 있는 변수는 char 만으로 선언된 변수이고, 부호가 없는 경우는 unsigned과 결합하여 선언 한다. 부호가 있는 정수형은 2의 보수 체계를 사용하여 +와 -로 나누어 숫자를 표현할 수 있다. char는 8비트 변수 이므로 부호형 변수는 -128\~127까지의 숫자를 취급할 수 있다. [CPU가](https://ko.wikipedia.org/wiki/중앙_처리_장치 "wikilink") 해당변수를 처리할 때는 해당 변수의 메모리 위치의 숫자를 CPU의 레지스터로 가져와 [ALU를](../Page/산술_논리_장치.md "wikilink") 통해 계산할 수도 있다. 계산 결과는 레지스터로 저장되고 다음 프로그램 코드에 따라 사용 된다. 모든 CPU는 8비트 단위의 처리가 가능하므로 CPU의 레지스터 및 ALU을 통해 한번의 계산에 의해 이루어진다. 계산의 종류는 4칙연산 뿐아니라 [논리연산](https://ko.wikipedia.org/wiki/논리연산 "wikilink"), 비트 쉬프트 등 다양한 연산을 ALU을 통해 이루어진다. 원래 char는 문자형 값을 처리하기 위한 변수 인데, character의 약자이다. 글자에서의 의미로 보면 [아스키](https://ko.wikipedia.org/wiki/아스키 "wikilink")([ASCII](https://ko.wikipedia.org/wiki/ASCII "wikilink"))의 문자형을 취급하여 계산하거나 처리 한다. 아스키 코드 값은 기본적으로 8비트 이므로 이것은 8비트 정수형의 부분집합일 뿐이다. 따라서 문자 만이 아니라 8비트 정수형 연산도 가능하다. 예를 들어 'A'를 'a'로 바꾸려면 정수형 연산으로 가능하다. 이때 역시 ALU을 통한 정수형 연산이 기계어 코드에 의해 계산 된다. 그러나 한글의 경우 보통 16비트([KS X 1001](https://ko.wikipedia.org/wiki/KS_X_1001 "wikilink") 또는 [유니코드](https://ko.wikipedia.org/wiki/유니코드 "wikilink")) 이므로 char의 배열형이 필요하다. 따라서 한글은 char 변수만으로는 불가능하고 char 배열형으로 선언해야 한다. 또한 char 변수는 문자 뿐만 아니라 8비트의 정수형 변수의 연산이 가능하므로 문자 뿐만 아니라 일반적인 데이터를 처리 할 수 있다. 예를 들어 온도를 저장하기 위한 변수를 생각할 때, -128도 부터 127도 까지 처리 한다면 char 변수를 사용할 수 있다.
+[C](https://ko.wikipedia.org/wiki/C_언어 "wikilink") 및 [C++](https://ko.wikipedia.org/wiki/C++ "wikilink") 프로그래밍 언어에서의 **char**는 8비트 정수형 처리 변수로 **character**(문자)의 약자이다. C언어 정수형의 처리에서 부호가 있는 sign형과 부호가 없는 unsigned형으로 선언하여 사용할 수 있다. 부호가 있는 변수는 char 만으로 선언된 변수이고, 부호가 없는 경우는 unsigned과 결합하여 선언 한다. 부호가 있는 정수형은 2의 보수 체계를 사용하여 +와 -로 나누어 숫자를 표현할 수 있다. char는 8비트 변수 이므로 부호형 변수는 -128\~127까지의 숫자를 취급할 수 있다. [CPU가](../Page/중앙_처리_장치.md "wikilink") 해당변수를 처리할 때는 해당 변수의 메모리 위치의 숫자를 CPU의 레지스터로 가져와 [ALU를](../Page/산술_논리_장치.md "wikilink") 통해 계산할 수도 있다. 계산 결과는 레지스터로 저장되고 다음 프로그램 코드에 따라 사용 된다. 모든 CPU는 8비트 단위의 처리가 가능하므로 CPU의 레지스터 및 ALU을 통해 한번의 계산에 의해 이루어진다. 계산의 종류는 4칙연산 뿐아니라 [논리연산](https://ko.wikipedia.org/wiki/논리연산 "wikilink"), 비트 쉬프트 등 다양한 연산을 ALU을 통해 이루어진다. 원래 char는 문자형 값을 처리하기 위한 변수 인데, character의 약자이다. 글자에서의 의미로 보면 [아스키](https://ko.wikipedia.org/wiki/아스키 "wikilink")([ASCII](https://ko.wikipedia.org/wiki/ASCII "wikilink"))의 문자형을 취급하여 계산하거나 처리 한다. 아스키 코드 값은 기본적으로 8비트 이므로 이것은 8비트 정수형의 부분집합일 뿐이다. 따라서 문자 만이 아니라 8비트 정수형 연산도 가능하다. 예를 들어 'A'를 'a'로 바꾸려면 정수형 연산으로 가능하다. 이때 역시 ALU을 통한 정수형 연산이 기계어 코드에 의해 계산 된다. 그러나 한글의 경우 보통 16비트([KS X 1001](../Page/KS_X_1001.md "wikilink") 또는 [유니코드](../Page/유니코드.md "wikilink")) 이므로 char의 배열형이 필요하다. 따라서 한글은 char 변수만으로는 불가능하고 char 배열형으로 선언해야 한다. 또한 char 변수는 문자 뿐만 아니라 8비트의 정수형 변수의 연산이 가능하므로 문자 뿐만 아니라 일반적인 데이터를 처리 할 수 있다. 예를 들어 온도를 저장하기 위한 변수를 생각할 때, -128도 부터 127도 까지 처리 한다면 char 변수를 사용할 수 있다.
 
 ## 선언
 
@@ -14,7 +14,7 @@
    char ch = 'A';
 ```
 
-한글의 처리에서 [KS X 1001](https://ko.wikipedia.org/wiki/KS_X_1001 "wikilink")(구 [KS C 5601](https://ko.wikipedia.org/wiki/KS_C_5601 "wikilink"))와 [유니코드](https://ko.wikipedia.org/wiki/유니코드 "wikilink") 등의 코드는 16비트 이므로 char 변수에는 값을 치환할 수 없다.
+한글의 처리에서 [KS X 1001](../Page/KS_X_1001.md "wikilink")(구 [KS C 5601](https://ko.wikipedia.org/wiki/KS_C_5601 "wikilink"))와 [유니코드](../Page/유니코드.md "wikilink") 등의 코드는 16비트 이므로 char 변수에는 값을 치환할 수 없다.
 
 ``` c
    char name = '홍'; // compile error
@@ -140,7 +140,7 @@ char 변수는 정수형인데 8비트의 숫자 범위에서 처리 된다.
   char cnum;
 ```
 
-와 같이 선언된 변수는 +와 -을 처리하기 위한 8비트 [2의 보수](https://ko.wikipedia.org/wiki/2의_보수 "wikilink") 체계를 사용한다. 따라서 다음과 같이 [이진수](https://ko.wikipedia.org/wiki/이진수 "wikilink")로 나타낼 수 있다.
+와 같이 선언된 변수는 +와 -을 처리하기 위한 8비트 [2의 보수](../Page/2의_보수.md "wikilink") 체계를 사용한다. 따라서 다음과 같이 [이진수](https://ko.wikipedia.org/wiki/이진수 "wikilink")로 나타낼 수 있다.
 
 | [10진수](https://ko.wikipedia.org/wiki/10진수 "wikilink") | [2진수](https://ko.wikipedia.org/wiki/2진수 "wikilink") |
 | ----------------------------------------------------- | --------------------------------------------------- |

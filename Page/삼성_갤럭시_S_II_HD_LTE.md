@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  S II HD LTE](https://ko.wikipedia.org/wiki/__S_II_HD_LTE).
 
 
-**삼성 갤럭시 S II HD LTE**는 삼성전자에서 2011년 10월 27일에 출시한 안드로이드 스마트폰이다. LTE를 지원하는 삼성전자의 두번째 스마트폰이며, 기존의 갤럭시 S II LTE와 동일한 하드웨어에 디스플레이가 바뀌었고, 그로 인하여 해상도가 480 x 800 (WVGA)에서 720 x 1280 (720p HD)로 높아졌다. 대한민국 외의 국가에서는 캐나다에서 발매되었다. [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [2월 14일](https://ko.wikipedia.org/wiki/2월_14일 "wikilink") [갤럭시 S2 LTE와](../Page/삼성_갤럭시_S_II_LTE.md "wikilink") 함께 안드로이드 4.1.2 젤리빈으로 업데이트 되었다.
+**삼성 갤럭시 S II HD LTE**는 삼성전자에서 2011년 10월 27일에 출시한 안드로이드 스마트폰이다. LTE를 지원하는 삼성전자의 두번째 스마트폰이며, 기존의 갤럭시 S II LTE와 동일한 하드웨어에 디스플레이가 바뀌었고, 그로 인하여 해상도가 480 x 800 (WVGA)에서 720 x 1280 (720p HD)로 높아졌다. 대한민국 외의 국가에서는 캐나다에서 발매되었다. [2013년](../Page/2013년.md "wikilink") [2월 14일](../Page/2월_14일.md "wikilink") [갤럭시 S2 LTE와](../Page/삼성_갤럭시_S_II_LTE.md "wikilink") 함께 안드로이드 4.1.2 젤리빈으로 업데이트 되었다.
 
 ## 운영체제
 

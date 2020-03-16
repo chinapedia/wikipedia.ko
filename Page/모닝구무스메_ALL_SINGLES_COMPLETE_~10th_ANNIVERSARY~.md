@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ ALL SINGLES COMPLETE \~10th ANNIVERSARY\~](https://ko.wikipedia.org/wiki/_ALL_SINGLES_COMPLETE_\~10th_ANNIVERSARY\~).
 
 
-**[모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink") ALL SINGLES COMPLETE \~10th ANNIVERSARY\~**()는, [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [10월 24일에](https://ko.wikipedia.org/wiki/10월_24일 "wikilink") 발매 된 [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink")의 세 번째 베스트 앨범이다.
+**[모닝구무스메](../Page/모닝구무스메.md "wikilink") ALL SINGLES COMPLETE \~10th ANNIVERSARY\~**()는, [2007년](../Page/2007년.md "wikilink") [10월 24일에](../Page/10월_24일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 세 번째 베스트 앨범이다.
 
 ## 수록곡
 
@@ -120,29 +120,29 @@
 
 1.  I WISH
       -
-        [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink") CONCERT TOUR 2001 라이브 레볼루션21 봄 \~[오사카 성 홀](https://ko.wikipedia.org/wiki/오사카_성_홀 "wikilink") 최종일\~ - [나카자와 유코](https://ko.wikipedia.org/wiki/나카자와_유코 "wikilink")
+        [모닝구무스메](../Page/모닝구무스메.md "wikilink") CONCERT TOUR 2001 라이브 레볼루션21 봄 \~[오사카 성 홀](https://ko.wikipedia.org/wiki/오사카_성_홀 "wikilink") 최종일\~ - [나카자와 유코](../Page/나카자와_유코.md "wikilink")
 2.  Do it\! Now
       -
-        [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink") CONCERT TOUR 2004 봄 The BEST of Japan - [이이다 카오리](../Page/이이다_카오리.md "wikilink")
+        [모닝구무스메](../Page/모닝구무스메.md "wikilink") CONCERT TOUR 2004 봄 The BEST of Japan - [이이다 카오리](../Page/이이다_카오리.md "wikilink")
 3.  ここにいるぜぇ\!
       -
-        [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink") CONCERT TOUR 2003 봄 \~NON STOP\!\~ - [아베 나츠미](../Page/아베_나츠미.md "wikilink")
+        [모닝구무스메](../Page/모닝구무스메.md "wikilink") CONCERT TOUR 2003 봄 \~NON STOP\!\~ - [아베 나츠미](../Page/아베_나츠미.md "wikilink")
 4.  AS FOR ONE DAY
       -
-        [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink") CONCERT TOUR 2003 봄 \~NON STOP\!\~ - \[\[야스다 케이
+        [모닝구무스메](../Page/모닝구무스메.md "wikilink") CONCERT TOUR 2003 봄 \~NON STOP\!\~ - \[\[야스다 케이
 5.  Do it\! Now
       -
-        [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink") CONCERT TOUR 2002 여름 "LOVE IS ALIVE\!" [요코하마 아레나](https://ko.wikipedia.org/wiki/요코하마_아레나 "wikilink") - [고토 마키](../Page/고토_마키.md "wikilink")
+        [모닝구무스메](../Page/모닝구무스메.md "wikilink") CONCERT TOUR 2002 여름 "LOVE IS ALIVE\!" [요코하마 아레나](../Page/요코하마_아레나.md "wikilink") - [고토 마키](../Page/고토_마키.md "wikilink")
 6.  ザ☆ピ\~ス\!
       -
-        [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink") CONCERT TOUR 2002 여름 "LOVE IS ALIVE\!" 요코하마 아레나 - [이시카와 리카](../Page/이시카와_리카.md "wikilink")
+        [모닝구무스메](../Page/모닝구무스메.md "wikilink") CONCERT TOUR 2002 여름 "LOVE IS ALIVE\!" 요코하마 아레나 - [이시카와 리카](../Page/이시카와_리카.md "wikilink")
 7.  そうだ\! We're ALIVE
       -
-        [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink") CONCERT TOUR 2002 봄 "LOVE IS ALIVE\!" [사이타마 슈퍼 아레나](https://ko.wikipedia.org/wiki/사이타마_슈퍼_아레나 "wikilink") - [요시자와 히토미](../Page/요시자와_히토미.md "wikilink")
+        [모닝구무스메](../Page/모닝구무스메.md "wikilink") CONCERT TOUR 2002 봄 "LOVE IS ALIVE\!" [사이타마 슈퍼 아레나](../Page/사이타마_슈퍼_아레나.md "wikilink") - [요시자와 히토미](../Page/요시자와_히토미.md "wikilink")
 
 Do it\! Now
 
-\#: [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink") CONCERT TOUR 2002 여름 "LOVE IS ALIVE\!" 요코하마 아레나 - [다카하시 아이](https://ko.wikipedia.org/wiki/다카하시_아이 "wikilink")
+\#: [모닝구무스메](../Page/모닝구무스메.md "wikilink") CONCERT TOUR 2002 여름 "LOVE IS ALIVE\!" 요코하마 아레나 - [다카하시 아이](https://ko.wikipedia.org/wiki/다카하시_아이 "wikilink")
 
 1.  Ambitious\! 野心的でいいじゃん
       -
@@ -154,22 +154,22 @@ Mr. Moonlight \~愛のビッグバンド\~
 
 1.  Do it\! Now
       -
-        [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink") CONCERT TOUR 2003 봄 \~NON STOP\!\~ - [카메이 에리](../Page/카메이_에리.md "wikilink")
+        [모닝구무스메](../Page/모닝구무스메.md "wikilink") CONCERT TOUR 2003 봄 \~NON STOP\!\~ - [카메이 에리](../Page/카메이_에리.md "wikilink")
 2.  歩いてる
       -
-        [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink") 콘서트 투어 2006 가을 \~춤춰라\! 모닝 카레\~ - [미치시게 사유미](https://ko.wikipedia.org/wiki/미치시게_사유미 "wikilink")
+        [모닝구무스메](../Page/모닝구무스메.md "wikilink") 콘서트 투어 2006 가을 \~춤춰라\! 모닝 카레\~ - [미치시게 사유미](../Page/미치시게_사유미.md "wikilink")
 3.  シャボン玉
       -
-        [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink") 콘서트 투어 「The BEST of Japan 여름\~가을'04」 - [다나카 레이나](https://ko.wikipedia.org/wiki/다나카_레이나 "wikilink")
+        [모닝구무스메](../Page/모닝구무스메.md "wikilink") 콘서트 투어 「The BEST of Japan 여름\~가을'04」 - [다나카 레이나](../Page/다나카_레이나.md "wikilink")
 4.  色っぽい じれったい
       -
-        [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink") 콘서트 투어 2005 여름가을 『바리바리교실 \~코하루짱 어서와\!\~』 - [쿠스미 코하루](../Page/쿠스미_코하루.md "wikilink")
+        [모닝구무스메](../Page/모닝구무스메.md "wikilink") 콘서트 투어 2005 여름가을 『바리바리교실 \~코하루짱 어서와\!\~』 - [쿠스미 코하루](../Page/쿠스미_코하루.md "wikilink")
 5.  シャボン玉
       -
-        [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink") 콘서트 투어 2006 가을 \~춤춰라\! 모닝 카레\~ - [미츠이 아이카](../Page/미츠이_아이카.md "wikilink")
+        [모닝구무스메](../Page/모닝구무스메.md "wikilink") 콘서트 투어 2006 가을 \~춤춰라\! 모닝 카레\~ - [미츠이 아이카](../Page/미츠이_아이카.md "wikilink")
 6.  笑顔YESヌード
       -
-        [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink") 콘서트 투어 2007 봄 \~SEXY 8 비트\~ - [쥰쥰](https://ko.wikipedia.org/wiki/쥰쥰 "wikilink")
+        [모닝구무스메](../Page/모닝구무스메.md "wikilink") 콘서트 투어 2007 봄 \~SEXY 8 비트\~ - [쥰쥰](https://ko.wikipedia.org/wiki/쥰쥰 "wikilink")
 7.  女に 幸あれ
       -
         Hello\! Project 2007 Summer 10th 애니버서리대감사제 \~하로☆프로 여름축제\~ - [링링](https://ko.wikipedia.org/wiki/링링 "wikilink")
@@ -178,7 +178,7 @@ Mr. Moonlight \~愛のビッグバンド\~
 
 ※괄호는 트랙 번호
 
-  - [나카자와 유코](https://ko.wikipedia.org/wiki/나카자와_유코 "wikilink") (DISC1 : 1 \~ 11)
+  - [나카자와 유코](../Page/나카자와_유코.md "wikilink") (DISC1 : 1 \~ 11)
   - [이시구로 아야](../Page/이시구로_아야.md "wikilink") (DISC1 : 1 \~ 7)
   - [이이다 카오리](https://ko.wikipedia.org/wiki/이이다_가오리 "wikilink") (DISC1 : 1 \~ 17, DISC2 : 1 \~ 8)
   - [아베 나츠미](https://ko.wikipedia.org/wiki/아베_나쓰미 "wikilink") (DISC1 : 1 \~ 17, DISC2 : 1 \~ 4)
@@ -195,10 +195,10 @@ Mr. Moonlight \~愛のビッグバンド\~
   - [콘노 아사미](https://ko.wikipedia.org/wiki/곤노_아사미 "wikilink") (DISC1 : 13 \~ 17, DISC2 : 1 \~ 13)
   - [오가와 마코토](../Page/오가와_마코토.md "wikilink") (DISC1 : 13 \~ 17, DISC2 : 1 \~ 13)
   - [니이가키 리사](../Page/니이가키_리사.md "wikilink") (DISC1 : 13 \~ 17, DISC2 : 1 \~ 18)
-  - [후지모토 미키](https://ko.wikipedia.org/wiki/후지모토_미키 "wikilink") (DISC2 : 2 \~ 16)
+  - [후지모토 미키](../Page/후지모토_미키.md "wikilink") (DISC2 : 2 \~ 16)
   - [카메이 에리](../Page/카메이_에리.md "wikilink") (DISC2 : 2 \~ 18)
-  - [미치시게 사유미](https://ko.wikipedia.org/wiki/미치시게_사유미 "wikilink") (DISC2 : 2 \~ 18)
-  - [다나카 레이나](https://ko.wikipedia.org/wiki/다나카_레이나 "wikilink") (DISC2 : 2 \~ 18)
+  - [미치시게 사유미](../Page/미치시게_사유미.md "wikilink") (DISC2 : 2 \~ 18)
+  - [다나카 레이나](../Page/다나카_레이나.md "wikilink") (DISC2 : 2 \~ 18)
   - [쿠스미 코하루](../Page/쿠스미_코하루.md "wikilink") (DISC2 : 10 \~ 18)
   - [미츠이 아이카](https://ko.wikipedia.org/wiki/미쓰이_아이카 "wikilink") (DISC2 : 15 \~ 18)
   - [쥰쥰](https://ko.wikipedia.org/wiki/리쥰 "wikilink") (DISC2 : 17 \~ 18)

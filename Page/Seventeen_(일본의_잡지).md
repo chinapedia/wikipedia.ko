@@ -1,23 +1,23 @@
 > This article is converted from Wikipedia: [Seventeen \( \)](https://ko.wikipedia.org/wiki/Seventeen_\(_\)).
 
 
-**Seventeen**(세븐틴)은 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [슈에이샤](../Page/슈에이샤.md "wikilink")가 매월 1일 발행하는 10대 여성 타깃의 [패션](https://ko.wikipedia.org/wiki/패션 "wikilink") [잡지](https://ko.wikipedia.org/wiki/잡지 "wikilink"), 정보지이다. 약칭은 **ST**.
+**Seventeen**(세븐틴)은 [일본](../Page/일본.md "wikilink")의 [슈에이샤](../Page/슈에이샤.md "wikilink")가 매월 1일 발행하는 10대 여성 타깃의 [패션](../Page/패션.md "wikilink") [잡지](../Page/잡지.md "wikilink"), 정보지이다. 약칭은 **ST**.
 
 ## 개요
 
-1968년에, 종합 소녀 주간 잡지 《마가렛》의 언니 잡지 《**주간 세븐틴**》으로써 창간, [미국에서](https://ko.wikipedia.org/wiki/미합중국 "wikilink") 1944년에 창간된《Seventeen》의 일본판으로써 출간했다. 게재 내용은 [패션](https://ko.wikipedia.org/wiki/패션 "wikilink"), [순정만화](../Page/순정만화.md "wikilink"), [연예](https://ko.wikipedia.org/wiki/연예 "wikilink") 등.
+1968년에, 종합 소녀 주간 잡지 《마가렛》의 언니 잡지 《**주간 세븐틴**》으로써 창간, [미국에서](https://ko.wikipedia.org/wiki/미합중국 "wikilink") 1944년에 창간된《Seventeen》의 일본판으로써 출간했다. 게재 내용은 [패션](../Page/패션.md "wikilink"), [순정만화](../Page/순정만화.md "wikilink"), [연예](https://ko.wikipedia.org/wiki/연예 "wikilink") 등.
 
-1987년에 잡지 이름 표기를 알파벳 **SEVENTEEN**으로 바꾸면서 판형도 리뉴얼되었다. 통권 1000호되는 1988년 1월호부터, 패션잡지로 방향을 전환함에 따라 월 2회 발행 (매월 1일·15일)으로 바뀐다. [만화](https://ko.wikipedia.org/wiki/만화 "wikilink") [잡지](https://ko.wikipedia.org/wiki/잡지 "wikilink")였던 부분은 《월간 티아라》로서 새롭게 창간되었다. 그 후에, 경쟁사인 [소학관의](../Page/쇼가쿠칸.md "wikilink") 《쁘띠 세븐》의 폐간 후, 급속하게 매출을 늘리고 (공칭 35만 부\[1\]), ‘틴 No.1 잡지’이라고 불리고 있다. 2008년, 창간 40주년을 기념하여 월간화하고, 잡지 표기를 **Seventeen**으로 바꾸었다.
+1987년에 잡지 이름 표기를 알파벳 **SEVENTEEN**으로 바꾸면서 판형도 리뉴얼되었다. 통권 1000호되는 1988년 1월호부터, 패션잡지로 방향을 전환함에 따라 월 2회 발행 (매월 1일·15일)으로 바뀐다. [만화](../Page/만화.md "wikilink") [잡지](../Page/잡지.md "wikilink")였던 부분은 《월간 티아라》로서 새롭게 창간되었다. 그 후에, 경쟁사인 [소학관의](../Page/쇼가쿠칸.md "wikilink") 《쁘띠 세븐》의 폐간 후, 급속하게 매출을 늘리고 (공칭 35만 부\[1\]), ‘틴 No.1 잡지’이라고 불리고 있다. 2008년, 창간 40주년을 기념하여 월간화하고, 잡지 표기를 **Seventeen**으로 바꾸었다.
 
 ## 연혁
 
-  - [1968년](https://ko.wikipedia.org/wiki/1968년 "wikilink"), [청소년](../Page/청소년.md "wikilink")을 위한 종합 [주간지](https://ko.wikipedia.org/wiki/주간지 "wikilink")로, 《**주간 세븐틴**》창간.
-  - [1968년](https://ko.wikipedia.org/wiki/1968년 "wikilink"), 《**별책 세븐틴**》 창간.
-  - [1973년](https://ko.wikipedia.org/wiki/1973년 "wikilink"), 《별책 세븐틴》이 《**월간 세븐틴**》으로 신창간.
-  - [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink"), 《월간 세븐틴》 폐간. 동시에 《영유》가 월간화.
-  - [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink"), 《주간 세븐틴》 리뉴얼. 표기를 알파벳 대문자 (**SEVENTEEN**)로 변경.
-  - [1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink"), 주간에서 월2회 발간으로. 내용도 패션 잡지가 되었다. 만화잡지 부분은 《월간 티아라》로써 신창간.
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink"), 10월 호부터 월 2회 발간에서 월간으로. 표기를 **Seventeen**으로 변경.
+  - [1968년](../Page/1968년.md "wikilink"), [청소년](../Page/청소년.md "wikilink")을 위한 종합 [주간지](https://ko.wikipedia.org/wiki/주간지 "wikilink")로, 《**주간 세븐틴**》창간.
+  - [1968년](../Page/1968년.md "wikilink"), 《**별책 세븐틴**》 창간.
+  - [1973년](../Page/1973년.md "wikilink"), 《별책 세븐틴》이 《**월간 세븐틴**》으로 신창간.
+  - [1986년](../Page/1986년.md "wikilink"), 《월간 세븐틴》 폐간. 동시에 《영유》가 월간화.
+  - [1987년](../Page/1987년.md "wikilink"), 《주간 세븐틴》 리뉴얼. 표기를 알파벳 대문자 (**SEVENTEEN**)로 변경.
+  - [1988년](../Page/1988년.md "wikilink"), 주간에서 월2회 발간으로. 내용도 패션 잡지가 되었다. 만화잡지 부분은 《월간 티아라》로써 신창간.
+  - [2008년](../Page/2008년.md "wikilink"), 10월 호부터 월 2회 발간에서 월간으로. 표기를 **Seventeen**으로 변경.
 
 ## 전속 모델
 
@@ -47,7 +47,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/고리키_아야메" title="wikilink">고리키 아야메</a></p></td>
+<td><p><a href="../Page/고리키_아야메.md" title="wikilink">고리키 아야메</a></p></td>
 <td><p>2008년 -</p></td>
 <td><p>1</p></td>
 <td></td>
@@ -59,19 +59,19 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/오카모토_안리" title="wikilink">오카모토 안리</a></p></td>
+<td><p><a href="../Page/오카모토_안리.md" title="wikilink">오카모토 안리</a></p></td>
 <td><p>－</p></td>
 <td><p>《<a href="https://ko.wikipedia.org/wiki/러브베리" title="wikilink">러브베리</a>》(전속)에서 이적</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/히로세_아리스" title="wikilink">히로세 아리스</a></p></td>
+<td><p><a href="../Page/히로세_아리스.md" title="wikilink">히로세 아리스</a></p></td>
 <td><p>2009년 10월 호 -</p></td>
 <td><p>－</p></td>
 <td><p>미스 ST 2009</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/하시모토_아이_(1996년)" title="wikilink">하시모토 아이</a></p></td>
+<td><p><a href="../Page/하시모토_아이_(1996년).md" title="wikilink">하시모토 아이</a></p></td>
 <td><p>－</p></td>
 <td></td>
 <td></td>
@@ -95,7 +95,7 @@
 <td><p>《<a href="https://ko.wikipedia.org/wiki/니콜라_(잡지)" title="wikilink">nicola</a>》(전속)에서 이적.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/사카타_리카코" title="wikilink">사카타 리카코</a></p></td>
+<td><p><a href="../Page/사카타_리카코.md" title="wikilink">사카타 리카코</a></p></td>
 <td><p>1</p></td>
 <td><p>《<a href="https://ko.wikipedia.org/wiki/러브베리" title="wikilink">러브베리</a>》(전속) 에서 이적.</p></td>
 <td></td>
@@ -113,7 +113,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/모리카와_아오이" title="wikilink">모리카와 아오이</a></p></td>
+<td><p><a href="../Page/모리카와_아오이.md" title="wikilink">모리카와 아오이</a></p></td>
 <td><p>－</p></td>
 <td></td>
 <td></td>
@@ -126,7 +126,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/미요시_아야카" title="wikilink">미요시 아야카</a></p></td>
+<td><p><a href="../Page/미요시_아야카.md" title="wikilink">미요시 아야카</a></p></td>
 <td><p>－</p></td>
 <td></td>
 <td></td>
@@ -138,7 +138,7 @@
 <td><p>《nicola》(전속)에서 이적</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/신카와_유아" title="wikilink">신카와 유아</a></p></td>
+<td><p><a href="../Page/신카와_유아.md" title="wikilink">신카와 유아</a></p></td>
 <td><p>2011년 10월 호 -</p></td>
 <td><p>－</p></td>
 <td><p>미스 ST 2011</p></td>
@@ -205,7 +205,7 @@
   - 코이즈미 에미코
   - 콘노 유리 (졸업 후에 Ray 전속.)
   - [샐리 토마스](https://ko.wikipedia.org/wiki/토마스_레나 "wikilink") (미스 세븐틴 1999)
-  - [스즈키 에미](https://ko.wikipedia.org/wiki/스즈키_에미 "wikilink") (미스 세븐틴 1999, 졸업과 동시에 [PINKY](../Page/PINKY.md "wikilink")(폐간)에 이적) (표지 30회)
+  - [스즈키 에미](../Page/스즈키_에미.md "wikilink") (미스 세븐틴 1999, 졸업과 동시에 [PINKY](../Page/PINKY.md "wikilink")(폐간)에 이적) (표지 30회)
   - 세키 아야노 (미스 세븐틴 2001)
   - [다나카 미호](https://ko.wikipedia.org/wiki/다나카_미호 "wikilink") (표지 10회)
   - [츠키모토 에리](https://ko.wikipedia.org/wiki/쓰키모토_에리 "wikilink") (미스 세븐틴 2000)
@@ -222,7 +222,7 @@
   - 혼다 츠바사 ([러브베리](https://ko.wikipedia.org/wiki/러브베리 "wikilink")를 거쳐, non-no 전속)
   - 마노 키리나
   - [미즈하라 키코](https://ko.wikipedia.org/wiki/미즈하라_기코 "wikilink") (미스 세븐틴 2003, 졸업 후에 ViVi 전속) (표지 3회)
-  - 미야자와 리에 ([1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink")의 지면 리뉴얼 후에 레귤러 표지 모델을 맡았다.)
+  - 미야자와 리에 ([1987년](../Page/1987년.md "wikilink")의 지면 리뉴얼 후에 레귤러 표지 모델을 맡았다.)
   - 미유
   - 야마시타 사에
   - 요시가와 히나노
@@ -267,7 +267,7 @@
 
   - [아라키 나나키](https://ko.wikipedia.org/wiki/나나키 "wikilink") (미스세븐틴 2004, 졸업 후에 non-no 전속) (표지 1회)
   - 우에하라 나미 (Hana\* chu→으로 이적)
-  - [에이쿠라 나나](https://ko.wikipedia.org/wiki/에이쿠라_나나 "wikilink") (표지 46회)
+  - [에이쿠라 나나](../Page/에이쿠라_나나.md "wikilink") (표지 46회)
   - 오오이시 미즈키 (미스 세븐틴 2004, 졸업 후에 [ViVi](https://ko.wikipedia.org/wiki/ViVi "wikilink") 전속) (표지 12회）
   - 난죠 유카 (미스 세븐틴 2005, 졸업 후에 CanCam 전속)
   - [마츠자와 아카네](https://ko.wikipedia.org/wiki/다카하시_가렌 "wikilink")
@@ -293,7 +293,7 @@
 
 <div class="NavContent" style="text-align: left;">
 
-  - [미즈사와 에레나](https://ko.wikipedia.org/wiki/미즈사와_에레나 "wikilink") (CANDy(전속)에서 이적, 졸업과 동시에 non-no 전속) (표지 4회)
+  - [미즈사와 에레나](../Page/미즈사와_에레나.md "wikilink") (CANDy(전속)에서 이적, 졸업과 동시에 non-no 전속) (표지 4회)
   - 이시바지 안나
   - 타키자와 카렌 (미스 세븐틴 2008 졸업 후에 JJ에 전속)
   - 타카다 아리사 (미스 세븐틴 2009)
@@ -323,4 +323,4 @@
 
 1.  IMG JAPAN [NEWS RELEASE Licensing News 2008.10.27](https://www.imgjapan.com/news/news_b/16.html)
 2.  일반 공모이지만 이미 예능 사무소 소속되어 있는 사람도 많다.
-3.  과거에는 [타니구치 사야카를](https://ko.wikipedia.org/wiki/다니구치_사야카 "wikilink") 비롯한 [에이쿠라 나나](https://ko.wikipedia.org/wiki/에이쿠라_나나 "wikilink"), [사토 아리사](https://ko.wikipedia.org/wiki/사토_아리사 "wikilink") 등이 21세까지 재적하고 있었다. 현재 최고령은 [키리타니 미레이](https://ko.wikipedia.org/wiki/기리타니_미레이 "wikilink")(1989년생).
+3.  과거에는 [타니구치 사야카를](https://ko.wikipedia.org/wiki/다니구치_사야카 "wikilink") 비롯한 [에이쿠라 나나](../Page/에이쿠라_나나.md "wikilink"), [사토 아리사](https://ko.wikipedia.org/wiki/사토_아리사 "wikilink") 등이 21세까지 재적하고 있었다. 현재 최고령은 [키리타니 미레이](https://ko.wikipedia.org/wiki/기리타니_미레이 "wikilink")(1989년생).

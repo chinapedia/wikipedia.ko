@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [ \~Gyu Gyu !\~](https://ko.wikipedia.org/wiki/_\~Gyu_Gyu_!\~).
 
 
-**멋진 일요일\~Gyu Gyu 굿데이\!\~**()는, [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [10월 26일에](https://ko.wikipedia.org/wiki/10월_26일 "wikilink") 발매 된 [아시다 마나의](../Page/아시다_마나.md "wikilink") 첫 번째 솔로 싱글 음반이다.
+**멋진 일요일\~Gyu Gyu 굿데이\!\~**()는, [2011년](../Page/2011년.md "wikilink") [10월 26일에](../Page/10월_26일.md "wikilink") 발매 된 [아시다 마나의](../Page/아시다_마나.md "wikilink") 첫 번째 솔로 싱글 음반이다.
 
 ## 개요
 
-  - [CM](https://ko.wikipedia.org/wiki/광고 "wikilink"), [드라마](https://ko.wikipedia.org/wiki/텔레비전_드라마 "wikilink"), [버라이어티](../Page/버라이어티_쇼.md "wikilink") 등에서 활약을 펼치고 있는 아시다 마나의 솔로 데뷔 싱글은, 마나의 사랑스러움이 "Gyu Gyu"하게 담긴 노래\! 커플링 **ピカピカウサギのマーチ / 반짝반짝 토끼의 행진**은 어른, 아이 할 것 없이 마음이 따뜻해지는 노래이다.\[1\]
+  - [CM](https://ko.wikipedia.org/wiki/광고 "wikilink"), [드라마](../Page/텔레비전_드라마.md "wikilink"), [버라이어티](../Page/버라이어티_쇼.md "wikilink") 등에서 활약을 펼치고 있는 아시다 마나의 솔로 데뷔 싱글은, 마나의 사랑스러움이 "Gyu Gyu"하게 담긴 노래\! 커플링 **ピカピカウサギのマーチ / 반짝반짝 토끼의 행진**은 어른, 아이 할 것 없이 마음이 따뜻해지는 노래이다.\[1\]
 
 <!-- end list -->
 
-  - 2011년 [9월 23일부터](https://ko.wikipedia.org/wiki/9월_23일 "wikilink") 예약 개시.
+  - 2011년 [9월 23일부터](../Page/9월_23일.md "wikilink") 예약 개시.
 
 ## 수록곡
 

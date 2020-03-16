@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ HOLD ON ME!](https://ko.wikipedia.org/wiki/_HOLD_ON_ME!).
 
 
-**안아줘 HOLD ON ME\!**()는 [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") [9월 9일에](https://ko.wikipedia.org/wiki/9월_9일 "wikilink") 발매 된 [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink")의 세 번째 싱글이다.
+**안아줘 HOLD ON ME\!**()는 [1998년](../Page/1998년.md "wikilink") [9월 9일에](../Page/9월_9일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 세 번째 싱글이다.
 
 ## 개요
 
@@ -9,7 +9,7 @@
 
 <!-- end list -->
 
-  - 이벤트 영화 《모닝구 형사. 안아줘HOLD ON ME\!》의 엔딩 테마(실제로는 '안아줘 HOLD ON ME\! (모닝구 형사 Version)'이며, [미니 앨범](../Page/익스텐디드_플레이.md "wikilink") [모닝구 형사 다이테 HOLD ON ME\!에](https://ko.wikipedia.org/wiki/모닝구_형사_다이테_HOLD_ON_ME! "wikilink") Sexy Long Version이 수록되었다.
+  - 이벤트 영화 《모닝구 형사. 안아줘HOLD ON ME\!》의 엔딩 테마(실제로는 '안아줘 HOLD ON ME\! (모닝구 형사 Version)'이며, [미니 앨범](../Page/익스텐디드_플레이.md "wikilink") [모닝구 형사 다이테 HOLD ON ME\!에](../Page/모닝구_형사_다이테_HOLD_ON_ME!.md "wikilink") Sexy Long Version이 수록되었다.
 
 <!-- end list -->
 
@@ -17,7 +17,7 @@
 
 <!-- end list -->
 
-  - 다른 버전의 음원을 추가한 12cm반이 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [12월 15일에](https://ko.wikipedia.org/wiki/12월_15일 "wikilink") 발매 된 [모닝구무스메 EARLY SINGLE BOX에](https://ko.wikipedia.org/wiki/모닝구무스메_EARLY_SINGLE_BOX "wikilink") 수록되었으며, [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [3월 2일에는](https://ko.wikipedia.org/wiki/3월_2일 "wikilink") 이 작품이 싱글로 발매 되었다.
+  - 다른 버전의 음원을 추가한 12cm반이 [2004년](../Page/2004년.md "wikilink") [12월 15일에](../Page/12월_15일.md "wikilink") 발매 된 [모닝구무스메 EARLY SINGLE BOX에](../Page/모닝구무스메_EARLY_SINGLE_BOX.md "wikilink") 수록되었으며, [2005년](../Page/2005년.md "wikilink") [3월 2일에는](../Page/3월_2일.md "wikilink") 이 작품이 싱글로 발매 되었다.
 
 ## 수록곡
 

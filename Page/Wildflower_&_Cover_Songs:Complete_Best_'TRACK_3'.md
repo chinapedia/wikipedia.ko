@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Wildflower \& Cover Songs:Complete Best \'TRACK 3\'](https://ko.wikipedia.org/wiki/Wildflower_\&_Cover_Songs:Complete_Best_\'TRACK_3\').
 
 
-《**Wildflower & Cover Songs:Complete Best 'TRACK 3**'》는 [슈퍼플라이](https://ko.wikipedia.org/wiki/슈퍼플라이 "wikilink")가 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [9월 1일에](https://ko.wikipedia.org/wiki/9월_1일 "wikilink") 발매한 CD 싱글이다.
+《**Wildflower & Cover Songs:Complete Best 'TRACK 3**'》는 [슈퍼플라이](https://ko.wikipedia.org/wiki/슈퍼플라이 "wikilink")가 [2010년](../Page/2010년.md "wikilink") [9월 1일에](../Page/9월_1일.md "wikilink") 발매한 CD 싱글이다.
 
 ## 곡 목록
 
@@ -12,7 +12,7 @@
 <!-- end list -->
 
 1.  "Wildflower" - 4:26
-2.  "[타마시이 레볼루션](https://ko.wikipedia.org/wiki/타마시이_레볼루션 "wikilink")" - 3:46
+2.  "[타마시이 레볼루션](../Page/타마시이_레볼루션.md "wikilink")" - 3:46
 3.  "Free Planet" - 3:23
 4.  "Roll Over The Rainbow" - 4:53
 
@@ -49,7 +49,7 @@
 ## 관련 항목
 
   - [Dancing On The Fire](https://ko.wikipedia.org/wiki/Dancing_On_The_Fire "wikilink")
-  - [Dancing at Budokan\!\!](https://ko.wikipedia.org/wiki/Dancing_at_Budokan!! "wikilink")
+  - [Dancing at Budokan\!\!](../Page/Dancing_at_Budokan!!.md "wikilink")
 
 ## 외부 링크
 

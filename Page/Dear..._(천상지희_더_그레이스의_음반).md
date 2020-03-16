@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Dear... \(   \)](https://ko.wikipedia.org/wiki/Dear..._\(___\)).
 
 
-| 이 앨범에 수록된 싱글                                                                                                     |
-| ---------------------------------------------------------------------------------------------------------------- |
-| [2008](https://ko.wikipedia.org/wiki/2008년 "wikilink").[7.23](https://ko.wikipedia.org/wiki/7월_23일 "wikilink")   |
-| [2008](https://ko.wikipedia.org/wiki/2008년 "wikilink").[10.22](https://ko.wikipedia.org/wiki/10월_22일 "wikilink") |
-|                                                                                                                  |
+| 이 앨범에 수록된 싱글                                                               |
+| -------------------------------------------------------------------------- |
+| [2008](../Page/2008년.md "wikilink").[7.23](../Page/7월_23일.md "wikilink")   |
+| [2008](../Page/2008년.md "wikilink").[10.22](../Page/10월_22일.md "wikilink") |
+|                                                                            |
 
-**Dear...**는 대한민국 가수 [천상지희 더 그레이스의](https://ko.wikipedia.org/wiki/천상지희_더_그레이스 "wikilink") 두 번째 일본 정규 앨범이다. 2009년에 발매되었다. 타이틀곡은 《少しでいいから》이다. 한국에서는 미발매 되었다.
+**Dear...**는 대한민국 가수 [천상지희 더 그레이스의](../Page/천상지희_더_그레이스.md "wikilink") 두 번째 일본 정규 앨범이다. 2009년에 발매되었다. 타이틀곡은 《少しでいいから》이다. 한국에서는 미발매 되었다.
 
 ## 수록곡
 

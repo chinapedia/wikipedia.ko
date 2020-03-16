@@ -5,26 +5,26 @@
 
 ## 달라진 점
 
-  - 후원사가 [신한은행 프로리그 2007부터](https://ko.wikipedia.org/wiki/신한은행_프로리그_2007 "wikilink") 후원하기 시작한 [신한은행](https://ko.wikipedia.org/wiki/신한은행 "wikilink")에서 약 4년 만에 [SK 플래닛으로](https://ko.wikipedia.org/wiki/SK_플래닛 "wikilink") 변경되었다.
+  - 후원사가 [신한은행 프로리그 2007부터](https://ko.wikipedia.org/wiki/신한은행_프로리그_2007 "wikilink") 후원하기 시작한 [신한은행](../Page/신한은행.md "wikilink")에서 약 4년 만에 [SK 플래닛으로](https://ko.wikipedia.org/wiki/SK_플래닛 "wikilink") 변경되었다.
   - [위메이드 폭스](../Page/위메이드_폭스.md "wikilink"), [화승 OZ](../Page/화승_OZ.md "wikilink"), [MBC게임 히어로가](../Page/MBC게임_히어로.md "wikilink") 전 시즌을 마지막으로 해체되었으므로, 해체한 3팀을 대신하여 [제8프로게임단](https://ko.wikipedia.org/wiki/제8프로게임단 "wikilink")이 새로 창단되면서 이번 [프로리그부터](../Page/스타크래프트_프로리그.md "wikilink") 새로 출전하였다. 그로 인해 이번 [프로리그부터는](../Page/스타크래프트_프로리그.md "wikilink") 참가게임단이 10팀에서 8팀으로 축소되었다.
   - [MBC게임](https://ko.wikipedia.org/wiki/MBC게임 "wikilink") 해설자인 [유대현](../Page/유대현.md "wikilink"), [이승원](https://ko.wikipedia.org/wiki/이승원 "wikilink")이 프로리그 개막하기 며칠 전에 [온게임넷](https://ko.wikipedia.org/wiki/온게임넷 "wikilink")으로 이적하였다.
   - [MBC게임](https://ko.wikipedia.org/wiki/MBC게임 "wikilink")이 [음악채널로](https://ko.wikipedia.org/wiki/MBC뮤직 "wikilink") 전환됨에 따라 프로리그 중계를 포기하게 되면서 이번 프로리그부터 [온게임넷](https://ko.wikipedia.org/wiki/온게임넷 "wikilink")에서 독점중계하게 되었다.
   - 이번 [프로리그부터는](../Page/스타크래프트_프로리그.md "wikilink") 모든 경기가 5판 3선승제로 치러졌고, 마지막 경기에서는 논란이 있었던 에이스결정전이 폐지되었다.\[1\]
     (단, 포스트시즌과 결승전에서는 7판 4선승제로 치러지며, 에이스결정전이 적용되었다.)
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [12월 17일부터](https://ko.wikipedia.org/wiki/12월_17일 "wikilink") 기존의 선수 선정bgm이 선수 소개곡으로 등장하였다.
+  - [2011년](../Page/2011년.md "wikilink") [12월 17일부터](../Page/12월_17일.md "wikilink") 기존의 선수 선정bgm이 선수 소개곡으로 등장하였다.
 
 ## 리그개요
 
 ### 리그 일정
 
-  - 전체 일정 : [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [11월 26일](https://ko.wikipedia.org/wiki/11월_26일 "wikilink") \~ [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [4월 8일](https://ko.wikipedia.org/wiki/4월_8일 "wikilink")
+  - 전체 일정 : [2011년](../Page/2011년.md "wikilink") [11월 26일](../Page/11월_26일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [4월 8일](../Page/4월_8일.md "wikilink")
 
 <!-- end list -->
 
   -
-    1라운드(T스토어 라운드) 일정 : [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [11월 26일](https://ko.wikipedia.org/wiki/11월_26일 "wikilink") \~ [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [1월 1일](https://ko.wikipedia.org/wiki/1월_1일 "wikilink")
-    2라운드(11번가 라운드) 일정 : [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [1월 3일](https://ko.wikipedia.org/wiki/1월_3일 "wikilink") \~ [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [2월 11일](https://ko.wikipedia.org/wiki/2월_11일 "wikilink")
-    3라운드(호핀 라운드) 일정 : [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [2월 12일](https://ko.wikipedia.org/wiki/2월_12일 "wikilink") \~ [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [3월 14일](https://ko.wikipedia.org/wiki/3월_14일 "wikilink")
+    1라운드(T스토어 라운드) 일정 : [2011년](../Page/2011년.md "wikilink") [11월 26일](../Page/11월_26일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink")
+    2라운드(11번가 라운드) 일정 : [2012년](../Page/2012년.md "wikilink") [1월 3일](../Page/1월_3일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [2월 11일](../Page/2월_11일.md "wikilink")
+    3라운드(호핀 라운드) 일정 : [2012년](../Page/2012년.md "wikilink") [2월 12일](../Page/2월_12일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [3월 14일](../Page/3월_14일.md "wikilink")
 
 <!-- end list -->
 
@@ -33,18 +33,18 @@
 <!-- end list -->
 
   -
-    준플레이오프 : [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [3월 17일](https://ko.wikipedia.org/wiki/3월_17일 "wikilink") \~ [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [3월 20일](https://ko.wikipedia.org/wiki/3월_20일 "wikilink")
-    플레이오프 : [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [3월 24일](https://ko.wikipedia.org/wiki/3월_24일 "wikilink") \~ [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [3월 27일](https://ko.wikipedia.org/wiki/3월_27일 "wikilink")
-    결승전 : [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [4월 8일](https://ko.wikipedia.org/wiki/4월_8일 "wikilink")
+    준플레이오프 : [2012년](../Page/2012년.md "wikilink") [3월 17일](../Page/3월_17일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [3월 20일](../Page/3월_20일.md "wikilink")
+    플레이오프 : [2012년](../Page/2012년.md "wikilink") [3월 24일](../Page/3월_24일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [3월 27일](../Page/3월_27일.md "wikilink")
+    결승전 : [2012년](../Page/2012년.md "wikilink") [4월 8일](../Page/4월_8일.md "wikilink")
 
 ### 리그중계진
 
   - 토요일 1경기 : [전용준](../Page/전용준.md "wikilink"), [김정민](https://ko.wikipedia.org/wiki/김정민_\(프로게이머\) "wikilink"), [이승원](https://ko.wikipedia.org/wiki/이승원 "wikilink")
-  - 토요일 2경기 : [성승헌](https://ko.wikipedia.org/wiki/성승헌 "wikilink"), [김정민](https://ko.wikipedia.org/wiki/김정민_\(프로게이머\) "wikilink"), [유대현](../Page/유대현.md "wikilink")
+  - 토요일 2경기 : [성승헌](../Page/성승헌.md "wikilink"), [김정민](https://ko.wikipedia.org/wiki/김정민_\(프로게이머\) "wikilink"), [유대현](../Page/유대현.md "wikilink")
   - 일요일 1경기 : [전용준](../Page/전용준.md "wikilink"), [김정민](https://ko.wikipedia.org/wiki/김정민_\(프로게이머\) "wikilink"), [박태민](../Page/박태민_\(프로게이머\).md "wikilink")
-  - 일요일 2경기 : [정소림](https://ko.wikipedia.org/wiki/정소림 "wikilink"), [김정민](https://ko.wikipedia.org/wiki/김정민_\(프로게이머\) "wikilink"), [이승원](https://ko.wikipedia.org/wiki/이승원 "wikilink")
+  - 일요일 2경기 : [정소림](../Page/정소림.md "wikilink"), [김정민](https://ko.wikipedia.org/wiki/김정민_\(프로게이머\) "wikilink"), [이승원](https://ko.wikipedia.org/wiki/이승원 "wikilink")
   - 화요일 : [전용준](../Page/전용준.md "wikilink"), [박태민](../Page/박태민_\(프로게이머\).md "wikilink"), [이승원](https://ko.wikipedia.org/wiki/이승원 "wikilink")
-  - 수요일 : [성승헌](https://ko.wikipedia.org/wiki/성승헌 "wikilink"), [유대현](../Page/유대현.md "wikilink"), [김정민](https://ko.wikipedia.org/wiki/김정민_\(프로게이머\) "wikilink")
+  - 수요일 : [성승헌](../Page/성승헌.md "wikilink"), [유대현](../Page/유대현.md "wikilink"), [김정민](https://ko.wikipedia.org/wiki/김정민_\(프로게이머\) "wikilink")
 
 ## 시즌화제
 

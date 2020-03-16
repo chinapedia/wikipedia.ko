@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Lights go on again](https://ko.wikipedia.org/wiki/Lights_go_on_again).
 
 
-**Lights go on again**은 [비스트의](https://ko.wikipedia.org/wiki/비스트_\(음악_그룹\) "wikilink") 네 번째 EP 앨범이다.
+**Lights go on again**은 [비스트의](../Page/비스트_\(음악_그룹\).md "wikilink") 네 번째 EP 앨범이다.
 
 ## 활동 사항
 
-예약판매 실시 및 라디오 티저 공개로 새 음반 발매를 알린 비스트는 [11월 8일](https://ko.wikipedia.org/wiki/11월_8일 "wikilink") 티저영상을 공개하였다.\[1\] [11월 9일](https://ko.wikipedia.org/wiki/11월_9일 "wikilink") 음반 발매와 동시에 음원을 공개하였는데 수록곡 전곡이 각종 음원차트에서 상위권에 진입하였고, 음반은 판매량 순위 1위를 하며 컴백 전부터 인기를 얻었다.\[2\] [11월 14일](https://ko.wikipedia.org/wiki/11월_14일 "wikilink") [농심 사랑 나눔 콘서트에서](https://ko.wikipedia.org/wiki/농심_사랑_나눔_콘서트 "wikilink") 타이틀곡 "Beautiful"을 첫 공개 하였다. 비스트는 [12월 5일](https://ko.wikipedia.org/wiki/12월_5일 "wikilink") 컴백 3주만에 [SBS](../Page/SBS.md "wikilink") 《[인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink")》에서 "Beautiful"로 처음으로 뮤티즌송을 수상했다.
+예약판매 실시 및 라디오 티저 공개로 새 음반 발매를 알린 비스트는 [11월 8일](../Page/11월_8일.md "wikilink") 티저영상을 공개하였다.\[1\] [11월 9일](../Page/11월_9일.md "wikilink") 음반 발매와 동시에 음원을 공개하였는데 수록곡 전곡이 각종 음원차트에서 상위권에 진입하였고, 음반은 판매량 순위 1위를 하며 컴백 전부터 인기를 얻었다.\[2\] [11월 14일](../Page/11월_14일.md "wikilink") [농심 사랑 나눔 콘서트에서](https://ko.wikipedia.org/wiki/농심_사랑_나눔_콘서트 "wikilink") 타이틀곡 "Beautiful"을 첫 공개 하였다. 비스트는 [12월 5일](../Page/12월_5일.md "wikilink") 컴백 3주만에 [SBS](../Page/SBS.md "wikilink") 《[인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink")》에서 "Beautiful"로 처음으로 뮤티즌송을 수상했다.
 
 ## 수록곡
 

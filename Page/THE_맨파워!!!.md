@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [THE !!!](https://ko.wikipedia.org/wiki/THE_!!!).
 
 
-**THE 맨파워\!\!\!**(, The Manpower\!\!\!)는 [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [1월 19일에](https://ko.wikipedia.org/wiki/1월_19일 "wikilink") 발매 된 [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink")의 스물다섯 번째 싱글이다.
+**THE 맨파워\!\!\!**(, The Manpower\!\!\!)는 [2005년](../Page/2005년.md "wikilink") [1월 19일에](../Page/1월_19일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 스물다섯 번째 싱글이다.
 
 ## 개요
 
-  - 2004년 [12월 20일](https://ko.wikipedia.org/wiki/12월_20일 "wikilink"), 당시 창단한 [일본 프로 야구](../Page/일본_프로_야구.md "wikilink") [라쿠텐 골든이글스의](../Page/도호쿠_라쿠텐_골든이글스.md "wikilink") 공식 응원가로 발표되었지만, 야구에 대한 가사가 없어 야구를 연상케하는 가사를 추가해 2005년 1월 19일에 발매되었다.\[1\]\[2\]
+  - 2004년 [12월 20일](../Page/12월_20일.md "wikilink"), 당시 창단한 [일본 프로 야구](../Page/일본_프로_야구.md "wikilink") [라쿠텐 골든이글스의](../Page/도호쿠_라쿠텐_골든이글스.md "wikilink") 공식 응원가로 발표되었지만, 야구에 대한 가사가 없어 야구를 연상케하는 가사를 추가해 2005년 1월 19일에 발매되었다.\[1\]\[2\]
 
 <!-- end list -->
 
@@ -13,11 +13,11 @@
 
 <!-- end list -->
 
-  - [도호쿠 지방을](https://ko.wikipedia.org/wiki/도호쿠_지방 "wikilink") 연고지로하는 구단의 응원가이나, 가사 중 [간사이 사투리가](../Page/긴키_방언.md "wikilink") 쓰인다.(예 :  =  = 훌륭하다)\[3\]
+  - [도호쿠 지방을](../Page/도호쿠_지방.md "wikilink") 연고지로하는 구단의 응원가이나, 가사 중 [간사이 사투리가](../Page/긴키_방언.md "wikilink") 쓰인다.(예 :  =  = 훌륭하다)\[3\]
 
 <!-- end list -->
 
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [9월 26일에](https://ko.wikipedia.org/wiki/9월_26일 "wikilink") 발매 된 컴필레이션 음반 [층쿠♂ 베스트 작품집 (상) 샤란Q\~모닝구무스메\~ 층쿠♂ 연예계 생활 15주년 기념 앨범\~에](https://ko.wikipedia.org/wiki/:ja:つんく♂ベスト作品集\(上\)「シャ乱Q〜モーニング娘。」〜つんく♂芸能生活15周年記念アルバム〜 "wikilink") 수록되었으며, 부록인 북클릿에는 이 곡의 파트가 게재되었다.
+  - [2007년](../Page/2007년.md "wikilink") [9월 26일에](../Page/9월_26일.md "wikilink") 발매 된 컴필레이션 음반 [층쿠♂ 베스트 작품집 (상) 샤란Q\~모닝구무스메\~ 층쿠♂ 연예계 생활 15주년 기념 앨범\~에](https://ko.wikipedia.org/wiki/:ja:つんく♂ベスト作品集\(上\)「シャ乱Q〜モーニング娘。」〜つんく♂芸能生活15周年記念アルバム〜 "wikilink") 수록되었으며, 부록인 북클릿에는 이 곡의 파트가 게재되었다.
 
 ## 수록곡
 

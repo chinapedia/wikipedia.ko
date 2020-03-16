@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [No.5 \( \)](https://ko.wikipedia.org/wiki/No.5_\(_\)).
 
 
-**No.5**(넘버 파이브)는 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [3월 26일에](https://ko.wikipedia.org/wiki/3월_26일 "wikilink") 발매 된 [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink")의 다섯 번째 정규 앨범이다.
+**No.5**(넘버 파이브)는 [2003년](../Page/2003년.md "wikilink") [3월 26일에](../Page/3월_26일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 다섯 번째 정규 앨범이다.
 
 ## 개요
 
-  - "[Do it\! Now](https://ko.wikipedia.org/wiki/Do_it!_Now "wikilink")"는, [고토 마키가](../Page/고토_마키.md "wikilink") 재적 중일 때의 작품이지만, ""는 모닝구무스메·[헬로\! 프로젝트 키즈](https://ko.wikipedia.org/wiki/헬로!_프로젝트_키즈 "wikilink")·고토 마키(졸업 후)의 공연작이다.
+  - "[Do it\! Now](../Page/Do_it!_Now.md "wikilink")"는, [고토 마키가](../Page/고토_마키.md "wikilink") 재적 중일 때의 작품이지만, ""는 모닝구무스메·[헬로\! 프로젝트 키즈](https://ko.wikipedia.org/wiki/헬로!_프로젝트_키즈 "wikilink")·고토 마키(졸업 후)의 공연작이다.
   - ""는 당시 모닝구무스메 졸업을 발표한 [야스다 케이를](https://ko.wikipedia.org/wiki/야스다_게이 "wikilink") 위해 만들어진 곡이다. 가사의 원안은 야스다의 졸업을 축하하기 위해 [야구치 마리](../Page/야구치_마리.md "wikilink"), [이시카와 리카](../Page/이시카와_리카.md "wikilink") 등 3명이 떠난 온천 여행이다.
 
 ## 수록곡
@@ -13,7 +13,7 @@
 1.  **intro**
       -
         작곡 : 층쿠
-2.  **[Do it\! Now](https://ko.wikipedia.org/wiki/Do_it!_Now "wikilink")**
+2.  **[Do it\! Now](../Page/Do_it!_Now.md "wikilink")**
       -
         작사, 작곡 : 층쿠 / 편곡 : 스즈키Daichi히데유키
 3.  **TOP\!**

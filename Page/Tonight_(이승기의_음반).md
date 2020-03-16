@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Tonight \( \)](https://ko.wikipedia.org/wiki/Tonight_\(_\)).
 
 
-**Tonight**(투나잇)은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 가수 [이승기](../Page/이승기.md "wikilink")의 다섯 번째 [정규 음반이다](../Page/음반.md "wikilink"). [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [10월 26일에](https://ko.wikipedia.org/wiki/10월_26일 "wikilink") 발매되었으며, 타이틀곡 〈친구잖아〉를 포함한 총 10곡이 음반에 수록돼 있다. 타이틀 곡 '친구잖아' 뮤직비디오에는 모델 [진아름](https://ko.wikipedia.org/wiki/진아름 "wikilink")이 출연하였다.
+**Tonight**(투나잇)은 [대한민국](../Page/대한민국.md "wikilink")의 가수 [이승기](../Page/이승기.md "wikilink")의 다섯 번째 [정규 음반이다](../Page/음반.md "wikilink"). [2011년](../Page/2011년.md "wikilink") [10월 26일에](../Page/10월_26일.md "wikilink") 발매되었으며, 타이틀곡 〈친구잖아〉를 포함한 총 10곡이 음반에 수록돼 있다. 타이틀 곡 '친구잖아' 뮤직비디오에는 모델 [진아름](../Page/진아름.md "wikilink")이 출연하였다.
 
 ## 곡 정보
 

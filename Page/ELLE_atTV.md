@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ELLE atTV](https://ko.wikipedia.org/wiki/ELLE_atTV).
 
 
-**ELLE atTV**(엘르엣TV, 앨르앳 티브이)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 엘르티브이코리아가 운영한 [유료방송](../Page/대한민국의_케이블TV_방송.md "wikilink") 채널이다. [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")에 개국하였으나, 누적된 재정난을 겪으면서 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [5월 10일을](https://ko.wikipedia.org/wiki/5월_10일 "wikilink") 기해 폐국되었다.
+**ELLE atTV**(엘르엣TV, 앨르앳 티브이)는 [대한민국](../Page/대한민국.md "wikilink")의 엘르티브이코리아가 운영한 [유료방송](../Page/대한민국의_케이블TV_방송.md "wikilink") 채널이다. [2009년](../Page/2009년.md "wikilink")에 개국하였으나, 누적된 재정난을 겪으면서 [2012년](../Page/2012년.md "wikilink") [5월 10일을](../Page/5월_10일.md "wikilink") 기해 폐국되었다.
 
 ## 프로그램
 

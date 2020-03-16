@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Yo and I](https://ko.wikipedia.org/wiki/Yo_and_I).
 
 
-"**Yoü and I**"는 미국의 가수 [레이디 가가의](https://ko.wikipedia.org/wiki/레이디_가가 "wikilink") 노래이다. 가가의 번째 정규 음반 *[Born This Way](https://ko.wikipedia.org/wiki/Born_This_Way "wikilink")*의 두 네번째 싱글로 발매되었다.
+"**Yoü and I**"는 미국의 가수 [레이디 가가의](../Page/레이디_가가.md "wikilink") 노래이다. 가가의 번째 정규 음반 *[Born This Way](https://ko.wikipedia.org/wiki/Born_This_Way "wikilink")*의 두 네번째 싱글로 발매되었다.
 
 ## 트랙 리스트
 

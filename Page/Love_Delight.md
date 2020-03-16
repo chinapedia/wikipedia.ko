@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Love Delight](https://ko.wikipedia.org/wiki/Love_Delight).
 
 
-***Love Delight***는 대한민국의 음악 그룹 [다비치](../Page/다비치.md "wikilink")의 세 번째 미니 앨범이다. 2011년 8월 29일 [엠넷미디어](../Page/엠넷미디어.md "wikilink")를 통해 발매되었다. 타이틀 곡은 전해성 작곡가의〈안녕이라고 말하지 마〉이며, 이 노래는 음원 공개 후 각종 음원 차트에서 1위를 차지 했으며, 2009년 8282의 1위 이후 다비치에게 2년만에 [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") [뮤직뱅크](../Page/뮤직뱅크.md "wikilink") 2주 연속 1위와 [SBS](../Page/SBS.md "wikilink") [인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink") 통산 2주 뮤티즌 송을 안겨주었다. 후속 활동곡은 곡 발매 당시 안녕이라고 말하지마와 더불어 높은 인기를 이끌어 냈던 강지원, 김기범 작곡가의〈사랑 사랑아〉였다. 5번 트랙 〈비밀〉은 [강민경](https://ko.wikipedia.org/wiki/강민경 "wikilink")의 자작곡으로서, 한 프로그램에 출연하여 친구의 경험담을 곡으로 만들어 낸 것이라고 고백했다.
+***Love Delight***는 대한민국의 음악 그룹 [다비치](../Page/다비치.md "wikilink")의 세 번째 미니 앨범이다. 2011년 8월 29일 [엠넷미디어](../Page/엠넷미디어.md "wikilink")를 통해 발매되었다. 타이틀 곡은 전해성 작곡가의〈안녕이라고 말하지 마〉이며, 이 노래는 음원 공개 후 각종 음원 차트에서 1위를 차지 했으며, 2009년 8282의 1위 이후 다비치에게 2년만에 [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") [뮤직뱅크](../Page/뮤직뱅크.md "wikilink") 2주 연속 1위와 [SBS](../Page/SBS.md "wikilink") [인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink") 통산 2주 뮤티즌 송을 안겨주었다. 후속 활동곡은 곡 발매 당시 안녕이라고 말하지마와 더불어 높은 인기를 이끌어 냈던 강지원, 김기범 작곡가의〈사랑 사랑아〉였다. 5번 트랙 〈비밀〉은 [강민경](../Page/강민경.md "wikilink")의 자작곡으로서, 한 프로그램에 출연하여 친구의 경험담을 곡으로 만들어 낸 것이라고 고백했다.
 
 ## 트랙리스트
 

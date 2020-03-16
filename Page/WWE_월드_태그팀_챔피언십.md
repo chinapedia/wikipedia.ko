@@ -3,13 +3,13 @@
 
 **WWE 월드 태그팀 챔피언십**(WWE World Tag Team Championship)은 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")에 속해있던 태그팀 챔피언십이었다.
 
-1971년 부터 2002년까지 단일 태그팀 타이틀을 속해 있다가 브랜드 확장 이후 2002년부터 [WWE 태그팀 챔피언십이](https://ko.wikipedia.org/wiki/WWE_태그팀_챔피언십 "wikilink") 탄생하면서 두 분야의 태그팀 타이틀이 소지하고 있었다. 그러나 2009년 [레슬매니아](https://ko.wikipedia.org/wiki/레슬매니아 "wikilink")로 통합하다가 2010년 새로운 벨트가 바뀌게 되면서 [WWE 태그팀 챔피언십만](https://ko.wikipedia.org/wiki/WWE_태그팀_챔피언십 "wikilink") 남게 되었고 이 타이틀은 40년 만에 역사속으로 폐지 되었다.
+1971년 부터 2002년까지 단일 태그팀 타이틀을 속해 있다가 브랜드 확장 이후 2002년부터 [WWE 태그팀 챔피언십이](https://ko.wikipedia.org/wiki/WWE_태그팀_챔피언십 "wikilink") 탄생하면서 두 분야의 태그팀 타이틀이 소지하고 있었다. 그러나 2009년 [레슬매니아](../Page/레슬매니아.md "wikilink")로 통합하다가 2010년 새로운 벨트가 바뀌게 되면서 [WWE 태그팀 챔피언십만](https://ko.wikipedia.org/wiki/WWE_태그팀_챔피언십 "wikilink") 남게 되었고 이 타이틀은 40년 만에 역사속으로 폐지 되었다.
 
 ## 역사
 
 본 태그팀 타이틀의 역사는 1971년부터 시작된다. 1971년 **WWWF 월드 태그팀 챔피언십**이란 이름으로 '루크 그레이엄'과 '타잔 테일러'가 초대 챔피언으로써 시작된다. 또한 1979년에는 WWWF가 WWF(현재 WWE)로 변경한 동시에 **WWF 월드 태그팀 챔피언십**혹은 **WWF 태그팀 챔피언십**이라 불렸다.
 
-2001년 WWE가 [WCW](https://ko.wikipedia.org/wiki/WCW "wikilink")와 [ECW](https://ko.wikipedia.org/wiki/ECW "wikilink")를 흡수할때 WCW에 있었던 타이틀이 전부 WWE로 옮기게 되면서 [WCW 월드 태그팀 챔피언십과](https://ko.wikipedia.org/wiki/WCW_월드_태그팀_챔피언십 "wikilink") 통합 한적이 있었다. 2001년 [서바이버 시리즈에서](https://ko.wikipedia.org/wiki/서바이버_시리즈 "wikilink") [더들리 보이즈가](https://ko.wikipedia.org/wiki/더들리_보이즈 "wikilink") [하디 보이즈를](../Page/하디_보이즈.md "wikilink") 이기면서 WCW와 WWE 타이틀이 통합하여 WCW 월드 태그팀 챔피언십의 마지막 주인공이 되었다.
+2001년 WWE가 [WCW](https://ko.wikipedia.org/wiki/WCW "wikilink")와 [ECW](https://ko.wikipedia.org/wiki/ECW "wikilink")를 흡수할때 WCW에 있었던 타이틀이 전부 WWE로 옮기게 되면서 [WCW 월드 태그팀 챔피언십과](../Page/WCW_월드_태그팀_챔피언십.md "wikilink") 통합 한적이 있었다. 2001년 [서바이버 시리즈에서](https://ko.wikipedia.org/wiki/서바이버_시리즈 "wikilink") [더들리 보이즈가](https://ko.wikipedia.org/wiki/더들리_보이즈 "wikilink") [하디 보이즈를](../Page/하디_보이즈.md "wikilink") 이기면서 WCW와 WWE 타이틀이 통합하여 WCW 월드 태그팀 챔피언십의 마지막 주인공이 되었다.
 
 2002년 브랜드 확장때, 본 타이틀은 RAW 브랜드로 이동하면서 스맥다운 단장이었던 스테파니 맥맨이 스맥다운에서 [WWE 태그팀 챔피언십을](https://ko.wikipedia.org/wiki/WWE_태그팀_챔피언십 "wikilink") 만들어서 양 브랜드 간에 태그팀 챔피언십을 소지하게 되었다. 따라서 본 타이틀은 이름과 혼동하지 않게 위해서 **WWE 월드 태그팀 챔피언십**이란 이름으로 변경되었다.
 
@@ -160,11 +160,11 @@
   - [그랜드 슬램 챔피언십](../Page/그랜드_슬램_챔피언십.md "wikilink")
   - [WWE RAW 태그팀 챔피언십](https://ko.wikipedia.org/wiki/WWE_RAW_태그팀_챔피언십 "wikilink")
   - [WWE 스맥다운 태그팀 챔피언십](../Page/WWE_스맥다운_태그팀_챔피언십.md "wikilink")
-  - [WWE NXT 태그팀 챔피언십](https://ko.wikipedia.org/wiki/WWE_NXT_태그팀_챔피언십 "wikilink")
-  - [WCW 월드 태그팀 챔피언십](https://ko.wikipedia.org/wiki/WCW_월드_태그팀_챔피언십 "wikilink")
-  - [ECW 월드 태그팀 챔피언십](https://ko.wikipedia.org/wiki/ECW_월드_태그팀_챔피언십 "wikilink")
+  - [WWE NXT 태그팀 챔피언십](../Page/WWE_NXT_태그팀_챔피언십.md "wikilink")
+  - [WCW 월드 태그팀 챔피언십](../Page/WCW_월드_태그팀_챔피언십.md "wikilink")
+  - [ECW 월드 태그팀 챔피언십](../Page/ECW_월드_태그팀_챔피언십.md "wikilink")
   - [TNA 월드 태그팀 챔피언십](https://ko.wikipedia.org/wiki/TNA_월드_태그팀_챔피언십 "wikilink")
-  - [RoH 월드 태그팀 챔피언십](https://ko.wikipedia.org/wiki/RoH_월드_태그팀_챔피언십 "wikilink")
+  - [RoH 월드 태그팀 챔피언십](../Page/RoH_월드_태그팀_챔피언십.md "wikilink")
   - [GFW 월드 태그팀 챔피언십](https://ko.wikipedia.org/wiki/GFW_월드_태그팀_챔피언십 "wikilink")
   - [AEW 월드 태그팀 챔피언십](https://ko.wikipedia.org/wiki/AEW_월드_태그팀_챔피언십 "wikilink")
 

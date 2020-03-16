@@ -1,22 +1,22 @@
 > This article is converted from Wikipedia: [J-](https://ko.wikipedia.org/wiki/J-).
 
 
-**J-에어**(, )는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") [오사카부](https://ko.wikipedia.org/wiki/오사카부 "wikilink") [이케다 시에](https://ko.wikipedia.org/wiki/이케다_시 "wikilink") 본사를 둔 지역 항공사로 [오사카 국제공항을](https://ko.wikipedia.org/wiki/오사카_국제공항 "wikilink") [허브 공항으로](../Page/허브_공항.md "wikilink") 해서 국내선 노선을 운항하고 있다.
+**J-에어**(, )는 [일본](../Page/일본.md "wikilink") [오사카부](../Page/오사카부.md "wikilink") [이케다 시에](https://ko.wikipedia.org/wiki/이케다_시 "wikilink") 본사를 둔 지역 항공사로 [오사카 국제공항을](../Page/오사카_국제공항.md "wikilink") [허브 공항으로](../Page/허브_공항.md "wikilink") 해서 국내선 노선을 운항하고 있다.
 
 ## 연혁
 
-  - [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink") : 경영난이던 니시세토에어링크()의 사업을 이어받는 형태로 [일본항공](../Page/일본항공.md "wikilink")의 JAL 비행아카데미(현, 에어플라이트재팬)의 일부로 발족.
-  - [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") [8월](https://ko.wikipedia.org/wiki/8월 "wikilink") : 노선 유지를 위한 자치단체의 보조금을 받는 관계로 JAL 비행 아카데미에서 분할 독립.
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink") : [주부 국제공항의](https://ko.wikipedia.org/wiki/주부_국제공항 "wikilink") 개항을 계기로 본사를 [나고야 비행장으로](../Page/나고야_비행장.md "wikilink") 변경.
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [4월 1일](https://ko.wikipedia.org/wiki/4월_1일 "wikilink") : 국제 항공 연합인 [원월드](https://ko.wikipedia.org/wiki/원월드 "wikilink")에 가맹.
+  - [1991년](../Page/1991년.md "wikilink") [4월](../Page/4월.md "wikilink") : 경영난이던 니시세토에어링크()의 사업을 이어받는 형태로 [일본항공](../Page/일본항공.md "wikilink")의 JAL 비행아카데미(현, 에어플라이트재팬)의 일부로 발족.
+  - [1996년](../Page/1996년.md "wikilink") [8월](../Page/8월.md "wikilink") : 노선 유지를 위한 자치단체의 보조금을 받는 관계로 JAL 비행 아카데미에서 분할 독립.
+  - [2005년](../Page/2005년.md "wikilink") [2월](../Page/2월.md "wikilink") : [주부 국제공항의](https://ko.wikipedia.org/wiki/주부_국제공항 "wikilink") 개항을 계기로 본사를 [나고야 비행장으로](../Page/나고야_비행장.md "wikilink") 변경.
+  - [2007년](../Page/2007년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") : 국제 항공 연합인 [원월드](../Page/원월드.md "wikilink")에 가맹.
   - [2007년 7월](../Page/2007년_7월.md "wikilink") : [주니치 드래곤즈가](https://ko.wikipedia.org/wiki/주니치_드래곤즈 "wikilink") 고치에서 경기를 위해 최초로 프로 야구 선수단 전세기를 운항.
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [11월 1일](https://ko.wikipedia.org/wiki/11월_1일 "wikilink") : 화물 탑재를 시작하면서 삿포로 출발을 중심으로 6개 노선으로 확대 계획.
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [10월 1일](https://ko.wikipedia.org/wiki/10월_1일 "wikilink") : [오사카 국제공항](https://ko.wikipedia.org/wiki/오사카_국제공항 "wikilink") 취항.
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [3월 26일](https://ko.wikipedia.org/wiki/3월_26일 "wikilink") : [나고야 비행장](../Page/나고야_비행장.md "wikilink") 철수.
+  - [2009년](../Page/2009년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") : 화물 탑재를 시작하면서 삿포로 출발을 중심으로 6개 노선으로 확대 계획.
+  - [2010년](../Page/2010년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") : [오사카 국제공항](../Page/오사카_국제공항.md "wikilink") 취항.
+  - [2011년](../Page/2011년.md "wikilink") [3월 26일](../Page/3월_26일.md "wikilink") : [나고야 비행장](../Page/나고야_비행장.md "wikilink") 철수.
 
 ## 보유 기종
 
-  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [12월](https://ko.wikipedia.org/wiki/12월 "wikilink") 기준으로 J-에어는 다음의 기종을 보유하고 있다.\[1\]\[2\]
+  - [2016년](../Page/2016년.md "wikilink") [12월](../Page/12월.md "wikilink") 기준으로 J-에어는 다음의 기종을 보유하고 있다.\[1\]\[2\]
 
 <table>
 <caption><strong>J-에어의 보유 기종</strong></caption>
@@ -39,25 +39,25 @@
 <td><p><a href="../Page/에어포항.md" title="wikilink">에어포항</a>으로 2기 송출</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/엠브라에르_E-Jets" title="wikilink">엠브라에르 170</a></p></td>
+<td><p><a href="../Page/엠브라에르_E-Jets.md" title="wikilink">엠브라에르 170</a></p></td>
 <td><p>17</p></td>
 <td><p>3</p></td>
 <td><p>76</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2015년" title="wikilink">2015년</a>부터 순차별로 도입[3]</p></td>
+<td><p><a href="../Page/2015년.md" title="wikilink">2015년</a>부터 순차별로 도입[3]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/엠브라에르_E-Jets" title="wikilink">엠브라에르 190</a></p></td>
+<td><p><a href="../Page/엠브라에르_E-Jets.md" title="wikilink">엠브라에르 190</a></p></td>
 <td><p>3</p></td>
 <td><p>17</p></td>
 <td><p>95</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2016년" title="wikilink">2016년</a>부터 순차별로 도입[4]</p></td>
+<td><p><a href="../Page/2016년.md" title="wikilink">2016년</a>부터 순차별로 도입[4]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/미쓰비시_MRJ" title="wikilink">미쓰비시 MRJ-90</a></p></td>
 <td><p>0</p></td>
 <td><p>35</p></td>
 <td><p>TBA</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2021년" title="wikilink">2021년</a>부터 순차별로 도입 예정[5]</p></td>
+<td><p><a href="../Page/2021년.md" title="wikilink">2021년</a>부터 순차별로 도입 예정[5]</p></td>
 </tr>
 <tr class="odd">
 <td><p>합계</p></td>
@@ -105,7 +105,7 @@ JAL 항공편으로 운항되지만 일부 기내 서비스는 항공 기준과 
 
 ## JAL 그룹 항공 사업자
 
-  - JAL 그룹은 국제 항공 연합인 [원월드](https://ko.wikipedia.org/wiki/원월드 "wikilink")에 가맹하고 있으나 ※로 표시된 항공사는 [원월드](https://ko.wikipedia.org/wiki/원월드 "wikilink")에 가​​맹하지 않았다.
+  - JAL 그룹은 국제 항공 연합인 [원월드](../Page/원월드.md "wikilink")에 가맹하고 있으나 ※로 표시된 항공사는 [원월드](../Page/원월드.md "wikilink")에 가​​맹하지 않았다.
 
 <!-- end list -->
 
@@ -113,7 +113,7 @@ JAL 항공편으로 운항되지만 일부 기내 서비스는 항공 기준과 
   - [일본 트랜스오션 항공](../Page/일본_트랜스오션_항공.md "wikilink") (JTA)
   - [JAL 익스프레스](../Page/JAL_익스프레스.md "wikilink") (JEX)
   - [일본 에어 커뮤터](../Page/일본_에어_커뮤터.md "wikilink") (JAC) ※
-  - [류큐 에어 커뮤터](https://ko.wikipedia.org/wiki/류큐_에어_커뮤터 "wikilink") (RAC) ※
+  - [류큐 에어 커뮤터](../Page/류큐_에어_커뮤터.md "wikilink") (RAC) ※
 
 ## 각주
 

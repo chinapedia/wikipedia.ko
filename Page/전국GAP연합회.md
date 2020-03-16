@@ -1,12 +1,12 @@
 > This article is converted from Wikipedia: [GAP](https://ko.wikipedia.org/wiki/GAP).
 
 
-**전국GAP연합회**는 [GAP제도](https://ko.wikipedia.org/wiki/농산물우수관리제도 "wikilink") 및 GAP인증농산물의 생산․소비 확대를 위한 연구와 정보교류 및 협력 도모, GAP인증농산물의 생산․소비 확대를 통한 식품의 안전성 확보에 기여할 목적으로 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [11월 16일](https://ko.wikipedia.org/wiki/11월_16일 "wikilink") 설립 허가된 [대한민국 농림수산식품부](https://ko.wikipedia.org/wiki/대한민국_농림수산식품부 "wikilink") 소관의 [사단법인](../Page/사단법인.md "wikilink")이다.\[1\] 사무실은 [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink") [진주시](https://ko.wikipedia.org/wiki/진주시 "wikilink") 진주대로 501, [경상대학교](https://ko.wikipedia.org/wiki/경상대학교 "wikilink") 식품공학과 식품위생학실 내에 있다.
+**전국GAP연합회**는 [GAP제도](https://ko.wikipedia.org/wiki/농산물우수관리제도 "wikilink") 및 GAP인증농산물의 생산․소비 확대를 위한 연구와 정보교류 및 협력 도모, GAP인증농산물의 생산․소비 확대를 통한 식품의 안전성 확보에 기여할 목적으로 [2011년](../Page/2011년.md "wikilink") [11월 16일](../Page/11월_16일.md "wikilink") 설립 허가된 [대한민국 농림수산식품부](../Page/대한민국_농림수산식품부.md "wikilink") 소관의 [사단법인](../Page/사단법인.md "wikilink")이다.\[1\] 사무실은 [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink") [진주시](https://ko.wikipedia.org/wiki/진주시 "wikilink") 진주대로 501, [경상대학교](https://ko.wikipedia.org/wiki/경상대학교 "wikilink") 식품공학과 식품위생학실 내에 있다.
 
 ## 연혁
 
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [8월 5일](https://ko.wikipedia.org/wiki/8월_5일 "wikilink") : 창립총회 및 창립 기념 심포지엄 개최\[2\]
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [11월 16일](https://ko.wikipedia.org/wiki/11월_16일 "wikilink") : 사단법인 설립 허가
+  - [2011년](../Page/2011년.md "wikilink") [8월 5일](../Page/8월_5일.md "wikilink") : 창립총회 및 창립 기념 심포지엄 개최\[2\]
+  - [2011년](../Page/2011년.md "wikilink") [11월 16일](../Page/11월_16일.md "wikilink") : 사단법인 설립 허가
 
 ## 임원
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TvN ](https://ko.wikipedia.org/wiki/TvN_).
 
 
-**tvN 월화드라마**는 [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")에서 매주 [월요일](https://ko.wikipedia.org/wiki/월요일 "wikilink")과 [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink") 밤 9시 30분에 방송하는 [텔레비전 드라마다](https://ko.wikipedia.org/wiki/텔레비전_드라마 "wikilink").
+**tvN 월화드라마**는 [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")에서 매주 [월요일](../Page/월요일.md "wikilink")과 [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink") 밤 9시 30분에 방송하는 [텔레비전 드라마다](../Page/텔레비전_드라마.md "wikilink").
 
 ## 방송 시간
 
@@ -19,20 +19,20 @@
 
 #### 2011년
 
-  - 《[로맨스가 필요해](https://ko.wikipedia.org/wiki/로맨스가_필요해 "wikilink")》 : 2011년 6월 13일 \~ 2011년 8월 2일
+  - 《[로맨스가 필요해](../Page/로맨스가_필요해.md "wikilink")》 : 2011년 6월 13일 \~ 2011년 8월 2일
   - 《[버디버디](../Page/버디버디_\(드라마\).md "wikilink")》 : 2011년 8월 8일 \~ 2011년 10월 25일
-  - 《[꽃미남 라면가게](https://ko.wikipedia.org/wiki/꽃미남_라면가게 "wikilink")》 : 2011년 10월 31일 \~ 2011년 12월 20일
+  - 《[꽃미남 라면가게](../Page/꽃미남_라면가게.md "wikilink")》 : 2011년 10월 31일 \~ 2011년 12월 20일
 
 #### 2012년
 
-  - 《[닥치고 꽃미남 밴드](https://ko.wikipedia.org/wiki/닥치고_꽃미남_밴드 "wikilink")》 : 2012년 1월 30일 \~ 2012년 3월 20일
-  - 《[결혼의 꼼수](https://ko.wikipedia.org/wiki/결혼의_꼼수 "wikilink")》 : 2012년 4월 2일 \~ 2012년 5월 22일
-  - 《[아이 러브 이태리](https://ko.wikipedia.org/wiki/아이_러브_이태리 "wikilink")》 : 2012년 5월 28일 \~ 2012년 7월 17일
-  - 《[응답하라 1997](https://ko.wikipedia.org/wiki/응답하라_1997 "wikilink")》 : 2012년 7월 24일 \~ 2012년 9월 18일 (매주 화요일 주 1회 방송)
+  - 《[닥치고 꽃미남 밴드](../Page/닥치고_꽃미남_밴드.md "wikilink")》 : 2012년 1월 30일 \~ 2012년 3월 20일
+  - 《[결혼의 꼼수](../Page/결혼의_꼼수.md "wikilink")》 : 2012년 4월 2일 \~ 2012년 5월 22일
+  - 《[아이 러브 이태리](../Page/아이_러브_이태리.md "wikilink")》 : 2012년 5월 28일 \~ 2012년 7월 17일
+  - 《[응답하라 1997](../Page/응답하라_1997.md "wikilink")》 : 2012년 7월 24일 \~ 2012년 9월 18일 (매주 화요일 주 1회 방송)
 
 #### 2013년
 
-  - 《[이웃집 꽃미남](https://ko.wikipedia.org/wiki/이웃집_꽃미남 "wikilink")》 : 2013년 1월 7일 \~ 2013년 2월 26일
+  - 《[이웃집 꽃미남](../Page/이웃집_꽃미남.md "wikilink")》 : 2013년 1월 7일 \~ 2013년 2월 26일
   - 《[나인: 아홉 번의 시간여행](../Page/나인:_아홉_번의_시간여행.md "wikilink")》 : 2013년 3월 11일 \~ 2013년 5월 14일
   - 《[연애조작단; 시라노](../Page/연애조작단;_시라노.md "wikilink")》 : 2013년 5월 27일 \~ 2013년 7월 16일
   - 《[후아유](../Page/후아유_\(드라마\).md "wikilink")》 : 2013년 7월 29일 \~ 2013년 9월 17일
@@ -87,11 +87,11 @@
 #### 2019년
 
   - 《[왕이 된 남자](../Page/왕이_된_남자.md "wikilink")》 : 2019년 1월 7일 \~ 2019년 3월 4일
-  - 《[사이코메트리 그녀석](https://ko.wikipedia.org/wiki/사이코메트리_그녀석 "wikilink")》 : 2019년 3월 11일 \~ 2019년 4월 30일
+  - 《[사이코메트리 그녀석](../Page/사이코메트리_그녀석.md "wikilink")》 : 2019년 3월 11일 \~ 2019년 4월 30일
   - 《[어비스](../Page/어비스_\(드라마\).md "wikilink")》 : 2019년 5월 6일 \~ 2019년 6월 25일
-  - 《[60일, 지정생존자](https://ko.wikipedia.org/wiki/60일,_지정생존자 "wikilink")》 : 2019년 7월 1일 \~ 2019년 8월 20일
+  - 《[60일, 지정생존자](../Page/60일,_지정생존자.md "wikilink")》 : 2019년 7월 1일 \~ 2019년 8월 20일
   - 《[위대한 쇼](https://ko.wikipedia.org/wiki/위대한_쇼 "wikilink")》 : 2019년 8월 26일 \~ 2019년 10월 15일
-  - 《[유령을 잡아라](https://ko.wikipedia.org/wiki/유령을_잡아라 "wikilink")》: 2019년 10월 21일 \~ 2019년 12월 10일
+  - 《[유령을 잡아라](../Page/유령을_잡아라.md "wikilink")》: 2019년 10월 21일 \~ 2019년 12월 10일
   - 《[블랙독](https://ko.wikipedia.org/wiki/블랙독_\(드라마\) "wikilink")》: 2019년 12월 16일 \~ 2020년 2월 4일
 
 ### 2020년대
@@ -106,13 +106,13 @@
   - [tvN 수목드라마](https://ko.wikipedia.org/wiki/tvN_수목드라마 "wikilink")
   - [tvN 금토드라마](https://ko.wikipedia.org/wiki/tvN_금토드라마 "wikilink")
   - [tvN 토일드라마](https://ko.wikipedia.org/wiki/tvN_토일드라마 "wikilink")
-  - [한국방송공사 월화드라마](https://ko.wikipedia.org/wiki/한국방송공사_월화드라마 "wikilink")
+  - [한국방송공사 월화드라마](../Page/한국방송공사_월화드라마.md "wikilink")
   - [문화방송 월화드라마](https://ko.wikipedia.org/wiki/문화방송_월화드라마 "wikilink")
 
 <!-- end list -->
 
-  - [SBS 월화드라마](https://ko.wikipedia.org/wiki/SBS_월화드라마 "wikilink")
-  - [JTBC 월화드라마](https://ko.wikipedia.org/wiki/JTBC_월화드라마 "wikilink")
+  - [SBS 월화드라마](../Page/SBS_월화드라마.md "wikilink")
+  - [JTBC 월화드라마](../Page/JTBC_월화드라마.md "wikilink")
   - [TV조선 월화드라마](https://ko.wikipedia.org/wiki/TV조선_월화드라마 "wikilink")
   - [채널A 월화드라마](https://ko.wikipedia.org/wiki/채널A_월화드라마 "wikilink")
 

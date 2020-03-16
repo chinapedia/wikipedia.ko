@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Mihimalight](https://ko.wikipedia.org/wiki/Mihimalight).
 
 
-**mihimalight**(미히마라이트)는 [mihimaru GT의](https://ko.wikipedia.org/wiki/미히마루_지티 "wikilink") 6번째 정규 음반이다. [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [9월 7일](https://ko.wikipedia.org/wiki/9월_7일 "wikilink") [유니버설 J를](../Page/유니버설_뮤직_그룹.md "wikilink") 통해 발매되었다.
+**mihimalight**(미히마라이트)는 [mihimaru GT의](https://ko.wikipedia.org/wiki/미히마루_지티 "wikilink") 6번째 정규 음반이다. [2011년](../Page/2011년.md "wikilink") [9월 7일](../Page/9월_7일.md "wikilink") [유니버설 J를](../Page/유니버설_뮤직_그룹.md "wikilink") 통해 발매되었다.
 
 ## 개요
 
-[2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink"), [mihimalogy](https://ko.wikipedia.org/wiki/mihimalogy "wikilink") 발매 이후 1년 7개월만의 정규 음반이다.
+[2010년](../Page/2010년.md "wikilink") [2월](../Page/2월.md "wikilink"), [mihimalogy](https://ko.wikipedia.org/wiki/mihimalogy "wikilink") 발매 이후 1년 7개월만의 정규 음반이다.
 
 이번 앨범에는 각 싱글의 커플링곡이 수록되어 있지 않다.
 
@@ -19,7 +19,7 @@
 2.  **** \[3:15\]
       -
         작사 : hiroko, mitsuyuki miyake / 편곡 : mitsuyuki miyake, HIKARI
-        26번째 싱글. [TV 도쿄](../Page/TV_도쿄.md "wikilink") 《[용사 요시히코와 마왕의 성](https://ko.wikipedia.org/wiki/용사_요시히코와_마왕의_성 "wikilink")》 주제가.
+        26번째 싱글. [TV 도쿄](../Page/TV_도쿄.md "wikilink") 《[용사 요시히코와 마왕의 성](../Page/용사_요시히코와_마왕의_성.md "wikilink")》 주제가.
 3.  **Thank U 4 Today** \[4:14\]
       -
         작사 : hiroko, mitsuyuki miyake, HIKARI, BEN FINDON, MIKE MYERS, BOB PUZEY / 편곡 : HIKARI
@@ -39,7 +39,7 @@
 8.  **** \[3:58\]
       -
         작사 : hiroko, mitsuyuki miyake, Maki Nagayama / 작곡 : mitsuyuki miyake, HIKARI, hiroto suzuki
-        25번째 싱글. TV 도쿄 [애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink") 《유☆희☆왕☆ 제알》 여는 곡.
+        25번째 싱글. TV 도쿄 [애니메이션](../Page/애니메이션.md "wikilink") 《유☆희☆왕☆ 제알》 여는 곡.
 9.  **880\~EiEiO\!\!\!\!\!\!\!\!\~ feat.** \[4:26\]
       -
         작사 : hiroko, mitsuyuki miyake, 고사카 대마왕 / 작곡 : 古坂大魔王, hiroko, mitsuyuki miyake

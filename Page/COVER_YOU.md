@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [COVER YOU](https://ko.wikipedia.org/wiki/COVER_YOU).
 
 
-**COVER YOU**(커버 유)는, [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [11월 25일에](https://ko.wikipedia.org/wiki/11월_25일 "wikilink") 발매 된 [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink")의 첫 번째 커버 음반이다.
+**COVER YOU**(커버 유)는, [2008년](../Page/2008년.md "wikilink") [11월 25일에](../Page/11월_25일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 첫 번째 커버 음반이다.
 
 ## 수록곡
 
@@ -40,7 +40,7 @@
         작사 : 아쿠 유 / 작곡 : 고바야시 아세이 / 편곡 : army slick / 원곡 : 스기나미 아동합창단, 가나모리 세이
 12. ****
       -
-        작사 : 아쿠 유 / 작곡 : 나카무라 다이지 / 편곡 : 오쿠보 가오루 / 원곡 : [사쿠라다 준코](https://ko.wikipedia.org/wiki/사쿠라다_준코 "wikilink")
+        작사 : 아쿠 유 / 작곡 : 나카무라 다이지 / 편곡 : 오쿠보 가오루 / 원곡 : [사쿠라다 준코](../Page/사쿠라다_준코.md "wikilink")
 13. ****
       -
         작사 : 아쿠 유 / 작곡 : 도쿠라 슌이치 / 편곡 : 가와바타 요시마사 / 원곡 : Pedro & Capricious
@@ -64,7 +64,7 @@
   - 코러스 부분 트랙9:[다카하시 아이](https://ko.wikipedia.org/wiki/다카하시_아이 "wikilink"), [니이가키 리사](../Page/니이가키_리사.md "wikilink")
   - 코러스 부분 트랙11:[쿠스미 코하루](../Page/쿠스미_코하루.md "wikilink"), [미츠이 아이카](../Page/미츠이_아이카.md "wikilink")
   - 코러스 부분 트랙12:[카메이 에리](../Page/카메이_에리.md "wikilink")
-  - 코러스 부분 트랙13:[니이가키 리사](../Page/니이가키_리사.md "wikilink"), [다나카 레이나](https://ko.wikipedia.org/wiki/다나카_레이나 "wikilink")
+  - 코러스 부분 트랙13:[니이가키 리사](../Page/니이가키_리사.md "wikilink"), [다나카 레이나](../Page/다나카_레이나.md "wikilink")
   - 코러스 부분 트랙14:[다카하시 아이](https://ko.wikipedia.org/wiki/다카하시_아이 "wikilink")
 
 ### 외

@@ -43,7 +43,7 @@
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><a href="https://ko.wikipedia.org/wiki/부동소수점" title="wikilink">float</a>{{·}}<a href="https://ko.wikipedia.org/wiki/부동소수점" title="wikilink">double</a>{{·}}<a href="https://ko.wikipedia.org/wiki/부동소수점" title="wikilink">long double</a></li>
+<li><a href="../Page/부동소수점.md" title="wikilink">float</a>{{·}}<a href="../Page/부동소수점.md" title="wikilink">double</a>{{·}}<a href="../Page/부동소수점.md" title="wikilink">long double</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -67,14 +67,14 @@
 <table>
 <thead>
 <tr class="header">
-<th><p><a href="https://ko.wikipedia.org/wiki/기타" title="wikilink">기타</a></p></th>
+<th><p><a href="../Page/기타.md" title="wikilink">기타</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><a href="https://ko.wikipedia.org/wiki/auto" title="wikilink">auto</a>{{·}}<a href="https://ko.wikipedia.org/wiki/void" title="wikilink">void</a>{{·}}<a href="https://ko.wikipedia.org/wiki/const" title="wikilink">const</a>{{·}}<a href="https://ko.wikipedia.org/wiki/포인터_(프로그래밍)" title="wikilink">포인터</a></li>
-<li><a href="https://ko.wikipedia.org/wiki/배열" title="wikilink">배열</a>{{·}}<a href="https://ko.wikipedia.org/wiki/struct" title="wikilink">struct</a>{{·}}complex</li>
+<li><a href="https://ko.wikipedia.org/wiki/auto" title="wikilink">auto</a>{{·}}<a href="https://ko.wikipedia.org/wiki/void" title="wikilink">void</a>{{·}}<a href="https://ko.wikipedia.org/wiki/const" title="wikilink">const</a>{{·}}<a href="../Page/포인터_(프로그래밍).md" title="wikilink">포인터</a></li>
+<li><a href="../Page/배열.md" title="wikilink">배열</a>{{·}}<a href="https://ko.wikipedia.org/wiki/struct" title="wikilink">struct</a>{{·}}complex</li>
 <li><a href="https://ko.wikipedia.org/wiki/typedef" title="wikilink">typedef</a>{{·}}<a href="https://ko.wikipedia.org/wiki/enum" title="wikilink">enum</a>{{·}}<a href="https://ko.wikipedia.org/wiki/extern" title="wikilink">extern</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/volatile" title="wikilink">volatile</a>{{·}}<a href="https://ko.wikipedia.org/wiki/형변환" title="wikilink">형변환</a></li>
 </ul></td>

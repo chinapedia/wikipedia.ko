@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [MBC ](https://ko.wikipedia.org/wiki/MBC_).
 
 
-**MBC 뮤직**()은 [MBC 플러스 미디어에서](https://ko.wikipedia.org/wiki/MBC_플러스_미디어 "wikilink") 운영하는 대한민국의 예능 케이블 채널이다. 2011년 12월 29일 [방송통신위원회로부터](../Page/대한민국_방송통신위원회.md "wikilink") [방송 채널 사용 사업에](https://ko.wikipedia.org/wiki/대한민국_방송법 "wikilink") 대한 변경 등록을 승인받아\[1\] 2012년 2월 1일 개국하였지만, 로고가 3번 바뀌었다가 [2020년](https://ko.wikipedia.org/wiki/2020년 "wikilink") [2월 18일부로](https://ko.wikipedia.org/wiki/2월_18일 "wikilink") **[MBC M](https://ko.wikipedia.org/wiki/MBC_M "wikilink")**으로 채널명이 변경되었다.
+**MBC 뮤직**()은 [MBC 플러스 미디어에서](https://ko.wikipedia.org/wiki/MBC_플러스_미디어 "wikilink") 운영하는 대한민국의 예능 케이블 채널이다. 2011년 12월 29일 [방송통신위원회로부터](../Page/대한민국_방송통신위원회.md "wikilink") [방송 채널 사용 사업에](https://ko.wikipedia.org/wiki/대한민국_방송법 "wikilink") 대한 변경 등록을 승인받아\[1\] 2012년 2월 1일 개국하였지만, 로고가 3번 바뀌었다가 [2020년](../Page/2020년.md "wikilink") [2월 18일부로](../Page/2월_18일.md "wikilink") **[MBC M](https://ko.wikipedia.org/wiki/MBC_M "wikilink")**으로 채널명이 변경되었다.
 
 ## 프로그램
 
-### [MBC와](https://ko.wikipedia.org/wiki/MBC_TV "wikilink") [MBC 플러스 미디어의](https://ko.wikipedia.org/wiki/MBC_플러스_미디어 "wikilink") 프로그램
+### [MBC와](../Page/MBC_TV.md "wikilink") [MBC 플러스 미디어의](https://ko.wikipedia.org/wiki/MBC_플러스_미디어 "wikilink") 프로그램
 
 <table>
 <thead>
@@ -21,7 +21,7 @@
 <td><p><strong>공연</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/쇼!_음악중심" title="wikilink">쇼! 음악중심</a> </p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/MBC_TV" title="wikilink">MBC</a></p></td>
+<td><p><a href="../Page/MBC_TV.md" title="wikilink">MBC</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -31,7 +31,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong>예능</strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/주간_아이돌" title="wikilink">주간 아이돌</a> </p></td>
+<td><p><a href="../Page/주간_아이돌.md" title="wikilink">주간 아이돌</a> </p></td>
 <td></td>
 <td><p><a href="../Page/MBC_에브리원.md" title="wikilink">MBC every1</a></p></td>
 </tr>
@@ -81,7 +81,7 @@
 <td><p><strong>예능</strong></p></td>
 <td><p><a href="../Page/전지적_참견_시점.md" title="wikilink">전지적 참견 시점</a> </p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/MBC_TV" title="wikilink">MBC</a></p></td>
+<td><p><a href="../Page/MBC_TV.md" title="wikilink">MBC</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -93,7 +93,7 @@
 <td><p><strong>예능</strong></p></td>
 <td><p><a href="../Page/진짜_사나이_300.md" title="wikilink">진짜 사나이 300</a> </p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/MBC_TV" title="wikilink">MBC</a></p></td>
+<td><p><a href="../Page/MBC_TV.md" title="wikilink">MBC</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -103,9 +103,9 @@
 </tr>
 <tr class="odd">
 <td><p><strong>예능</strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/황금어장_라디오스타" title="wikilink">황금어장 라디오스타</a> </p></td>
+<td><p><a href="../Page/황금어장_라디오스타.md" title="wikilink">황금어장 라디오스타</a> </p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/MBC_TV" title="wikilink">MBC</a></p></td>
+<td><p><a href="../Page/MBC_TV.md" title="wikilink">MBC</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -117,7 +117,7 @@
 <td><p><strong>예능</strong></p></td>
 <td><p><a href="../Page/나_혼자_산다.md" title="wikilink">나 혼자 산다</a> </p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/MBC_TV" title="wikilink">MBC</a></p></td>
+<td><p><a href="../Page/MBC_TV.md" title="wikilink">MBC</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -232,7 +232,7 @@
   - 헬로우 투제로(Hello TwoZero)
   - 어메이징 f(x)
   - 손담비의 BEAUTFUL DAYS
-  - [뮤직톡톡 마블링](https://ko.wikipedia.org/wiki/뮤직톡톡_마블링 "wikilink")
+  - [뮤직톡톡 마블링](../Page/뮤직톡톡_마블링.md "wikilink")
   - 순위의 재구성
   - 쇼챔 트루백쇼
   - 샤이니의 어느 멋진 날
@@ -275,7 +275,7 @@
   - 하이브리드 차트쇼 All the KPOP
   - 리모콘
   - [하하의 19TV 하극상](https://ko.wikipedia.org/wiki/하하의_19TV_하극상 "wikilink")
-  - [MelOn Music Awards](https://ko.wikipedia.org/wiki/멜론_뮤직_어워드 "wikilink")  (이전에 [Y-STAR](https://ko.wikipedia.org/wiki/Y-STAR "wikilink")에서 방송, [MBC every1과](../Page/MBC_에브리원.md "wikilink") 동시 생방송)
+  - [MelOn Music Awards](../Page/멜론_뮤직_어워드.md "wikilink")  (이전에 [Y-STAR](https://ko.wikipedia.org/wiki/Y-STAR "wikilink")에서 방송, [MBC every1과](../Page/MBC_에브리원.md "wikilink") 동시 생방송)
   - [MBC Plus X Genie Music Awards](https://ko.wikipedia.org/wiki/지니_뮤직_어워드 "wikilink")  ([MBC every1](../Page/MBC_에브리원.md "wikilink"), [MBC 드라마넷과](../Page/MBC_드라마넷.md "wikilink") 동시 생방송)
   - Memory-M
   - [멘탈사수](../Page/멘탈사수.md "wikilink")
@@ -314,7 +314,7 @@
 
 ## 논란
 
-  - 2011년 10월 당시 [MBC 플러스 미디어가](https://ko.wikipedia.org/wiki/MBC_플러스_미디어 "wikilink") [MBC 게임](../Page/MBC_게임.md "wikilink")(구)을 폐국하고 [MBC 뮤직](https://ko.wikipedia.org/wiki/MBC_뮤직 "wikilink")(구)을 개국하는 정책을 세우자, [MBC 게임](../Page/MBC_게임.md "wikilink")(구) 팬들이 거세게 항의하고 반발했었다. 그러나 MBC 플러스 미디어는 이를 무시하고 2012년 2월 1일 익일 0시\~5시에 [MBC 게임](../Page/MBC_게임.md "wikilink")(구)을 폐국하고 [MBC 뮤직](https://ko.wikipedia.org/wiki/MBC_뮤직 "wikilink")(구)의 개국을 강행함으로써, MBC 게임(구) 팬들의 바람은 끝내 이루어지지 않았다.
+  - 2011년 10월 당시 [MBC 플러스 미디어가](https://ko.wikipedia.org/wiki/MBC_플러스_미디어 "wikilink") [MBC 게임](../Page/MBC_게임.md "wikilink")(구)을 폐국하고 [MBC 뮤직](../Page/MBC_뮤직.md "wikilink")(구)을 개국하는 정책을 세우자, [MBC 게임](../Page/MBC_게임.md "wikilink")(구) 팬들이 거세게 항의하고 반발했었다. 그러나 MBC 플러스 미디어는 이를 무시하고 2012년 2월 1일 익일 0시\~5시에 [MBC 게임](../Page/MBC_게임.md "wikilink")(구)을 폐국하고 [MBC 뮤직](../Page/MBC_뮤직.md "wikilink")(구)의 개국을 강행함으로써, MBC 게임(구) 팬들의 바람은 끝내 이루어지지 않았다.
 
 ## 같이 보기
 

@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [AT\&T ](https://ko.wikipedia.org/wiki/AT\&T_).
 
 
-**AT\&T 스타디움**(AT\&T Stadium)는 [텍사스주](https://ko.wikipedia.org/wiki/텍사스주 "wikilink") [알링턴에](../Page/알링턴_\(텍사스주\).md "wikilink") 위치한 경기장이다. 8만 명을 수용할 수 있으며 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")에서 세 번째로 큰 [미식축구](../Page/미식축구.md "wikilink") 경기장이다. 최대 수용량은 11만 명이다. 세계에서 제일 큰 돔구장이다.
+**AT\&T 스타디움**(AT\&T Stadium)는 [텍사스주](../Page/텍사스주.md "wikilink") [알링턴에](../Page/알링턴_\(텍사스주\).md "wikilink") 위치한 경기장이다. 8만 명을 수용할 수 있으며 [미국](../Page/미국.md "wikilink")에서 세 번째로 큰 [미식축구](../Page/미식축구.md "wikilink") 경기장이다. 최대 수용량은 11만 명이다. 세계에서 제일 큰 돔구장이다.
 
-주로 [미식축구](../Page/미식축구.md "wikilink") 경기장으로 쓰지만 콘서트, [농구](https://ko.wikipedia.org/wiki/농구 "wikilink"), [권투](../Page/권투.md "wikilink"), [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 경기 등에도 이용할 수 있는 시설을 갖추었다. 중앙에 *제리 트론(Jerry-Tron)*이라고 불리는 세계에서 제일 큰 고화질 TV 스크린이 걸려 있다.
+주로 [미식축구](../Page/미식축구.md "wikilink") 경기장으로 쓰지만 콘서트, [농구](../Page/농구.md "wikilink"), [권투](../Page/권투.md "wikilink"), [축구](../Page/축구.md "wikilink") 경기 등에도 이용할 수 있는 시설을 갖추었다. 중앙에 *제리 트론(Jerry-Tron)*이라고 불리는 세계에서 제일 큰 고화질 TV 스크린이 걸려 있다.
 
-2013년에 [AT\&T](https://ko.wikipedia.org/wiki/AT&T "wikilink")와 20년동안 명명권 계약을 맺었다.
+2013년에 [AT\&T](../Page/AT&T.md "wikilink")와 20년동안 명명권 계약을 맺었다.
 
 2016년 4월 3일에 [WWE 레슬매니아](https://ko.wikipedia.org/wiki/WWE_레슬매니아 "wikilink") 최다관중수 기록도 이 경기장에서 세워졌다.
 

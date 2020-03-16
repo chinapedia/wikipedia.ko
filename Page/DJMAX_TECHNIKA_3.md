@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [DJMAX TECHNIKA 3](https://ko.wikipedia.org/wiki/DJMAX_TECHNIKA_3).
 
 
-《**디제이맥스 테크니카 3 크루 챌린지**》(DJMAX TECHNIKA 3 Crew Challenge, DMT3)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 게임 개발사인 [펜타비전](../Page/펜타비전.md "wikilink")에서 개발한 [음악 게임이다](https://ko.wikipedia.org/wiki/음악_게임 "wikilink"). 전작인 [디제이맥스 테크니카 2의](https://ko.wikipedia.org/wiki/디제이맥스_테크니카_2 "wikilink") 후속작이다. 크루챌린지라는 신 모드가 생겼고, 150곡 이상의 곡이 수록되어 있다.
+《**디제이맥스 테크니카 3 크루 챌린지**》(DJMAX TECHNIKA 3 Crew Challenge, DMT3)는 [대한민국](../Page/대한민국.md "wikilink")의 게임 개발사인 [펜타비전](../Page/펜타비전.md "wikilink")에서 개발한 [음악 게임이다](https://ko.wikipedia.org/wiki/음악_게임 "wikilink"). 전작인 [디제이맥스 테크니카 2의](https://ko.wikipedia.org/wiki/디제이맥스_테크니카_2 "wikilink") 후속작이다. 크루챌린지라는 신 모드가 생겼고, 150곡 이상의 곡이 수록되어 있다.
 
 ## 발표
 
-개발 공개는 2011년 9월 7일에 [펜타비전](../Page/펜타비전.md "wikilink")에 의해 발표되었다. Newfield 및 TANUKI 같은 새로운 작곡가 이외에 같은 Croove, NDLee 및 Tsukasa로 이전 DJMAX 게임의 작곡가들의 노래가 수록될것이라고 밝혔다. 한국 여자 밴드로 [카라](https://ko.wikipedia.org/wiki/카라 "wikilink")의 노래 또한 게임내에 포함시킬것이라 밝혔다.\[1\]\[2\]\[3\]
+개발 공개는 2011년 9월 7일에 [펜타비전](../Page/펜타비전.md "wikilink")에 의해 발표되었다. Newfield 및 TANUKI 같은 새로운 작곡가 이외에 같은 Croove, NDLee 및 Tsukasa로 이전 DJMAX 게임의 작곡가들의 노래가 수록될것이라고 밝혔다. 한국 여자 밴드로 [카라](../Page/카라.md "wikilink")의 노래 또한 게임내에 포함시킬것이라 밝혔다.\[1\]\[2\]\[3\]
 
 [펜타비전](../Page/펜타비전.md "wikilink")의 공식 보도 자료에 의하면, "새롭게 업그레이드된 기능이 있으며, 열렬한 팬들과 스타일리쉬한 디자인에 매료된 새로운유저들에게 사랑받을것이다. 로케 테스트 스케줄과 지원정보는 곧 공개될 예정이다." 라고 밝혔다.
 

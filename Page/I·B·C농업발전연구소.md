@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [IBC](https://ko.wikipedia.org/wiki/IBC).
 
 
-**I·B·C농업발전연구소**는 농업의 6차 산업화를 위해 교육·연구용역, 경영컨설팅 및 친환경인증 등을 보급함으로써 농업의 경쟁력을 키우고 나아가 미래 한국농업발전에 기여할 목적으로 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [9월 15일](https://ko.wikipedia.org/wiki/9월_15일 "wikilink") 설립·허가된 [대한민국 농림축산식품부](https://ko.wikipedia.org/wiki/대한민국_농림축산식품부 "wikilink") 소관의 [사단법인](../Page/사단법인.md "wikilink")이다. 사무실은 [전라남도](https://ko.wikipedia.org/wiki/전라남도 "wikilink") [화순군](https://ko.wikipedia.org/wiki/화순군 "wikilink") [능주면](../Page/능주면.md "wikilink") [원지리](https://ko.wikipedia.org/wiki/원지리 "wikilink") 371-11번지에 있다.\[1\]
+**I·B·C농업발전연구소**는 농업의 6차 산업화를 위해 교육·연구용역, 경영컨설팅 및 친환경인증 등을 보급함으로써 농업의 경쟁력을 키우고 나아가 미래 한국농업발전에 기여할 목적으로 [2011년](../Page/2011년.md "wikilink") [9월 15일](../Page/9월_15일.md "wikilink") 설립·허가된 [대한민국 농림축산식품부](../Page/대한민국_농림축산식품부.md "wikilink") 소관의 [사단법인](../Page/사단법인.md "wikilink")이다. 사무실은 [전라남도](https://ko.wikipedia.org/wiki/전라남도 "wikilink") [화순군](../Page/화순군.md "wikilink") [능주면](../Page/능주면.md "wikilink") [원지리](https://ko.wikipedia.org/wiki/원지리 "wikilink") 371-11번지에 있다.\[1\]
 
 ## 주요 사업
 

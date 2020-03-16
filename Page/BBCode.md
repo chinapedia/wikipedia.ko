@@ -1,19 +1,19 @@
 > This article is converted from Wikipedia: [BBCode](https://ko.wikipedia.org/wiki/BBCode).
 
 
-**BBCode** 또는 **불리틴 보드 코드**(Bulletin Board Code, [전자 게시판](https://ko.wikipedia.org/wiki/전자_게시판 "wikilink") 부호)는 [전자 게시판에](https://ko.wikipedia.org/wiki/전자_게시판 "wikilink") 글을 작성하는데 쓰이는 [가벼운 마크업 언어이다](https://ko.wikipedia.org/wiki/가벼운_마크업_언어 "wikilink"). BBCode는 [HTML](https://ko.wikipedia.org/wiki/HTML "wikilink")과 거의 같은 역할을 하며 이들의 문법도 유사하다. 다만, BBCode는 [대괄호](https://ko.wikipedia.org/wiki/대괄호 "wikilink")를 사용하여 태그를 나타낸다.
+**BBCode** 또는 **불리틴 보드 코드**(Bulletin Board Code, [전자 게시판](../Page/전자_게시판.md "wikilink") 부호)는 [전자 게시판에](../Page/전자_게시판.md "wikilink") 글을 작성하는데 쓰이는 [가벼운 마크업 언어이다](https://ko.wikipedia.org/wiki/가벼운_마크업_언어 "wikilink"). BBCode는 [HTML](../Page/HTML.md "wikilink")과 거의 같은 역할을 하며 이들의 문법도 유사하다. 다만, BBCode는 [대괄호](https://ko.wikipedia.org/wiki/대괄호 "wikilink")를 사용하여 태그를 나타낸다.
 
 ## 역사
 
-BBCode는 1998년 Ultimate Bulletin Board(UBB)라는 [전자 게시판](https://ko.wikipedia.org/wiki/전자_게시판 "wikilink") 프로그램에 처음 도입되었다. 그래서 BBCode를 UBBCode라고 부르기도 한다.
+BBCode는 1998년 Ultimate Bulletin Board(UBB)라는 [전자 게시판](../Page/전자_게시판.md "wikilink") 프로그램에 처음 도입되었다. 그래서 BBCode를 UBBCode라고 부르기도 한다.
 
 ## 목적
 
-많은 [전자 게시판](https://ko.wikipedia.org/wiki/전자_게시판 "wikilink") 프로그램이 사용자에게 [HTML](https://ko.wikipedia.org/wiki/HTML "wikilink")로 글을 작성하게 하고 있다. 이는 [HTML](https://ko.wikipedia.org/wiki/HTML "wikilink")의 특성상의 한계로 인해 [XSS](https://ko.wikipedia.org/wiki/XSS "wikilink") 등의 보안 문제가 생기게 한다. 또 [HTML](https://ko.wikipedia.org/wiki/HTML "wikilink")의 문법이 난해하기 때문에 [HTML](https://ko.wikipedia.org/wiki/HTML "wikilink")을 처리하는 프로그램을 만들기 쉽지 않다. 이에 [HTML](https://ko.wikipedia.org/wiki/HTML "wikilink")과 유사하지만 [HTML](https://ko.wikipedia.org/wiki/HTML "wikilink")의 단점을 해결한 BBCode를 도입하여 [HTML](https://ko.wikipedia.org/wiki/HTML "wikilink")을 대체함으로써 이 문제를 해결하였다.
+많은 [전자 게시판](../Page/전자_게시판.md "wikilink") 프로그램이 사용자에게 [HTML](../Page/HTML.md "wikilink")로 글을 작성하게 하고 있다. 이는 [HTML](../Page/HTML.md "wikilink")의 특성상의 한계로 인해 [XSS](https://ko.wikipedia.org/wiki/XSS "wikilink") 등의 보안 문제가 생기게 한다. 또 [HTML](../Page/HTML.md "wikilink")의 문법이 난해하기 때문에 [HTML](../Page/HTML.md "wikilink")을 처리하는 프로그램을 만들기 쉽지 않다. 이에 [HTML](../Page/HTML.md "wikilink")과 유사하지만 [HTML](../Page/HTML.md "wikilink")의 단점을 해결한 BBCode를 도입하여 [HTML](../Page/HTML.md "wikilink")을 대체함으로써 이 문제를 해결하였다.
 
 ## BBCode 태그
 
-다음은 기본적으로 사용되는 BBCode 태그들의 목록이다. 이 태그들은 [전자 게시판마다](https://ko.wikipedia.org/wiki/전자_게시판 "wikilink") 조금씩 다를 수 있다.
+다음은 기본적으로 사용되는 BBCode 태그들의 목록이다. 이 태그들은 [전자 게시판마다](../Page/전자_게시판.md "wikilink") 조금씩 다를 수 있다.
 
 <table>
 <tbody>
@@ -109,16 +109,16 @@ BBCode는 1998년 Ultimate Bulletin Board(UBB)라는 [전자 게시판](https://
 </tbody>
 </table>
 
-어떤 [전자 게시판은](https://ko.wikipedia.org/wiki/전자_게시판 "wikilink") 추가적인 태그들을 지원하기도 한다.
+어떤 [전자 게시판은](../Page/전자_게시판.md "wikilink") 추가적인 태그들을 지원하기도 한다.
 
-대부분의 [전자 게시판은](https://ko.wikipedia.org/wiki/전자_게시판 "wikilink") BBCode 사용법에 관한 도움말을 사용자에게 보여준다. 또한 BBCode 태그를 직접 만들어 사용할 수 있는 기능을 제공하기도 한다.
+대부분의 [전자 게시판은](../Page/전자_게시판.md "wikilink") BBCode 사용법에 관한 도움말을 사용자에게 보여준다. 또한 BBCode 태그를 직접 만들어 사용할 수 있는 기능을 제공하기도 한다.
 
 ## 같이 보기
 
-  - [전자 게시판](https://ko.wikipedia.org/wiki/전자_게시판 "wikilink")
-  - [마크업 언어](https://ko.wikipedia.org/wiki/마크업_언어 "wikilink")
+  - [전자 게시판](../Page/전자_게시판.md "wikilink")
+  - [마크업 언어](../Page/마크업_언어.md "wikilink")
   - [가벼운 마크업 언어](https://ko.wikipedia.org/wiki/가벼운_마크업_언어 "wikilink")
-  - [HTML](https://ko.wikipedia.org/wiki/HTML "wikilink")
+  - [HTML](../Page/HTML.md "wikilink")
   - [Markdown](https://ko.wikipedia.org/wiki/Markdown "wikilink")
   - [XSS](https://ko.wikipedia.org/wiki/XSS "wikilink")
   - [CSRF](https://ko.wikipedia.org/wiki/CSRF "wikilink")

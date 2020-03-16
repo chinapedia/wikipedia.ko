@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [I WISH \( \)](https://ko.wikipedia.org/wiki/I_WISH_\(_\)).
 
 
-**I WISH**(아이 위시)는 [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [9월 6일에](https://ko.wikipedia.org/wiki/9월_6일 "wikilink") 발매 된 [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink")의 열 번째 싱글이다.
+**I WISH**(아이 위시)는 [2000년](../Page/2000년.md "wikilink") [9월 6일에](../Page/9월_6일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 열 번째 싱글이다.
 
 ## 개요
 
@@ -13,11 +13,11 @@
 
 <!-- end list -->
 
-  - [TBS](https://ko.wikipedia.org/wiki/도쿄_방송_홀딩스 "wikilink") [시드니 올림픽](https://ko.wikipedia.org/wiki/2000년_하계_올림픽 "wikilink") 주제가이며, [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink")가 리포터로서 참가한 프로그램에서 사용되었다.
+  - [TBS](../Page/도쿄_방송_홀딩스.md "wikilink") [시드니 올림픽](https://ko.wikipedia.org/wiki/2000년_하계_올림픽 "wikilink") 주제가이며, [모닝구무스메](../Page/모닝구무스메.md "wikilink")가 리포터로서 참가한 프로그램에서 사용되었다.
 
 <!-- end list -->
 
-  - [쯔지 노조미와](https://ko.wikipedia.org/wiki/쯔지_노조미 "wikilink") [카고 아이의](../Page/카고_아이.md "wikilink") 졸업 테마곡(4기가 처음 보컬을 담당한 곡이며, I=카고 **아이**, WISH=바람=쯔지 **노조미**의 의미를 담아)으로써 불렸다. 같은 4기 멤버인 [이시카와 리카](../Page/이시카와_리카.md "wikilink"), [요시자와 히토미도](../Page/요시자와_히토미.md "wikilink") [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink") 졸업 콘서트에서 솔로로 노래하였다.
+  - [쯔지 노조미와](https://ko.wikipedia.org/wiki/쯔지_노조미 "wikilink") [카고 아이의](../Page/카고_아이.md "wikilink") 졸업 테마곡(4기가 처음 보컬을 담당한 곡이며, I=카고 **아이**, WISH=바람=쯔지 **노조미**의 의미를 담아)으로써 불렸다. 같은 4기 멤버인 [이시카와 리카](../Page/이시카와_리카.md "wikilink"), [요시자와 히토미도](../Page/요시자와_히토미.md "wikilink") [모닝구무스메](../Page/모닝구무스메.md "wikilink") 졸업 콘서트에서 솔로로 노래하였다.
 
 ## 수록곡
 

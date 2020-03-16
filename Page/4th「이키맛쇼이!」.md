@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [4th!](https://ko.wikipedia.org/wiki/4th!).
 
 
-**4th「이키맛쇼이\!」** (, Fourth \~ )는 [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [3월 27일에](https://ko.wikipedia.org/wiki/3월_27일 "wikilink") 발매 된 [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink")의 네 번째 정규 앨범이다.
+**4th「이키맛쇼이\!」** (, Fourth \~ )는 [2002년](../Page/2002년.md "wikilink") [3월 27일에](../Page/3월_27일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 네 번째 정규 앨범이다.
 
 ## 개요
 
@@ -10,7 +10,7 @@
 
 ## 수록곡
 
-1.  '''[ザ☆ピ\~ス\!](https://ko.wikipedia.org/wiki/더☆피스! "wikilink") (Complete Version)
+1.  '''[ザ☆ピ\~ス\!](../Page/더☆피스!.md "wikilink") (Complete Version)
       -
         작사, 작곡 : 층쿠 / 편곡 : [댄스☆맨](https://ko.wikipedia.org/wiki/댄스☆맨 "wikilink") / 혼 어렌지 : 가와마쓰 히사요시\[1\]
 2.  ****
@@ -28,7 +28,7 @@
 6.  **[そうだ\! We're ALIVE](https://ko.wikipedia.org/wiki/소다!_We're_ALIVE "wikilink")**
       -
         작사, 작곡 : 층쿠 / 편곡 : 댄스☆맨
-7.  **[でっかい宇宙に愛がある](https://ko.wikipedia.org/wiki/더☆피스! "wikilink") (Album Version)**
+7.  **[でっかい宇宙に愛がある](../Page/더☆피스!.md "wikilink") (Album Version)**
       -
         작사, 작곡 : 층쿠 / 편곡 : 스즈키 슌스케
 8.  **\!**

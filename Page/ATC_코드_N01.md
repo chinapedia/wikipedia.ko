@@ -104,15 +104,15 @@
 ### N01BC 벤조산의 에스테르 계열
 
   -
-    N01BC01 [코카인](https://ko.wikipedia.org/wiki/코카인 "wikilink") (Cocaine)
+    N01BC01 [코카인](../Page/코카인.md "wikilink") (Cocaine)
 
 ### N01BX 기타 국소 마취제
 
   -
     N01BX01 [염화 에틸렌](https://ko.wikipedia.org/wiki/염화_에틸렌 "wikilink") (Ethyl chloride)
     N01BX02 [Dyclonine](https://ko.wikipedia.org/wiki/Dyclonine "wikilink")
-    N01BX03 [페놀](https://ko.wikipedia.org/wiki/페놀 "wikilink") (Phenol)
-    N01BX04 [캡사이신](https://ko.wikipedia.org/wiki/캡사이신 "wikilink") (Capsaicin)
+    N01BX03 [페놀](../Page/페놀.md "wikilink") (Phenol)
+    N01BX04 [캡사이신](../Page/캡사이신.md "wikilink") (Capsaicin)
 
 ## 각주
 

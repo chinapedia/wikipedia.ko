@@ -49,7 +49,7 @@
 
   - [페르소나 \~트리니티 소울\~](https://ko.wikipedia.org/wiki/페르소나_~트리니티_소울~ "wikilink")
   - [철완 버디 DECODE](https://ko.wikipedia.org/wiki/철완_버디_DECODE "wikilink")
-  - [흑집사](https://ko.wikipedia.org/wiki/흑집사 "wikilink")
+  - [흑집사](../Page/흑집사.md "wikilink")
   - [칸나기](../Page/칸나기.md "wikilink") ([ordet](https://ko.wikipedia.org/wiki/ordet "wikilink") 과 공동제작)
   - [절대 할 수 있는 그리스 신화](https://ko.wikipedia.org/wiki/절대_할_수_있는_그리스_신화 "wikilink") (노사이드와 공동 제작)
 
@@ -59,8 +59,8 @@
 
 <!-- end list -->
 
-  - [전장의 발큐리아](https://ko.wikipedia.org/wiki/전장의_발큐리아 "wikilink")
-  - [페어리 테일](https://ko.wikipedia.org/wiki/페어리_테일 "wikilink") ([사테라이트](https://ko.wikipedia.org/wiki/사테라이트 "wikilink")와 공동 제작)
+  - [전장의 발큐리아](../Page/전장의_발큐리아.md "wikilink")
+  - [페어리 테일](../Page/페어리_테일.md "wikilink") ([사테라이트](https://ko.wikipedia.org/wiki/사테라이트 "wikilink")와 공동 제작)
 
 <!-- end list -->
 
@@ -74,7 +74,7 @@
   - [크게 휘두르며 \~여름의 대회편\~](https://ko.wikipedia.org/wiki/크게_휘두르며_~여름의_대회편~ "wikilink")
   - [세기말 오컬트 학원](https://ko.wikipedia.org/wiki/세기말_오컬트_학원 "wikilink")
   - [흑집사 2](https://ko.wikipedia.org/wiki/흑집사_2 "wikilink")
-  - [토가이누의 피](https://ko.wikipedia.org/wiki/토가이누의_피 "wikilink")
+  - [토가이누의 피](../Page/토가이누의_피.md "wikilink")
 
 <!-- end list -->
 
@@ -82,11 +82,11 @@
 
 <!-- end list -->
 
-  - [프랙탈](https://ko.wikipedia.org/wiki/프랙탈 "wikilink")
+  - [프랙탈](../Page/프랙탈.md "wikilink")
   - [그날 본 꽃의 이름을 우리는 아직 모른다](../Page/그날_본_꽃의_이름을_우리는_아직_모른다.md "wikilink") ([아노하나](https://ko.wikipedia.org/wiki/아노하나 "wikilink"))
   - [청의 엑소시스트](../Page/청의_엑소시스트.md "wikilink")
   - [THE IDOLM@STER](../Page/THE_IDOLM@STER.md "wikilink")
-  - [노래의☆왕자님♪ LOVE 1000%](https://ko.wikipedia.org/wiki/노래의☆왕자님♪ "wikilink")진심
+  - [노래의☆왕자님♪ LOVE 1000%](../Page/노래의☆왕자님♪.md "wikilink")진심
   - [WORKING'\!\!](https://ko.wikipedia.org/wiki/WORKING'!! "wikilink")
 
 <!-- end list -->
@@ -95,9 +95,9 @@
 
 <!-- end list -->
 
-  - [마기](https://ko.wikipedia.org/wiki/마기 "wikilink")
+  - [마기](../Page/마기.md "wikilink")
   - [소드 아트 온라인](../Page/소드_아트_온라인.md "wikilink")
-  - [우주형제](https://ko.wikipedia.org/wiki/우주형제 "wikilink")
+  - [우주형제](../Page/우주형제.md "wikilink")
   - [신세계에서](https://ko.wikipedia.org/wiki/신세계에서 "wikilink")
 
 <!-- end list -->
@@ -106,10 +106,10 @@
 
 <!-- end list -->
 
-  - [내 여자친구와 소꿉친구가 완전 수라장](https://ko.wikipedia.org/wiki/내_여자친구와_소꿉친구가_완전_수라장 "wikilink")
+  - [내 여자친구와 소꿉친구가 완전 수라장](../Page/내_여자친구와_소꿉친구가_완전_수라장.md "wikilink")
   - [비비드 레드 오퍼레이션](https://ko.wikipedia.org/wiki/비비드_레드_오퍼레이션 "wikilink")
   - [내 여동생이 이렇게 귀여울 리가 없어 2기](https://ko.wikipedia.org/wiki/내_여동생이_이렇게_귀여울_리가_없어_2기 "wikilink")
-  - [노래의☆왕자님♪ LOVE 2000%](https://ko.wikipedia.org/wiki/노래의☆왕자님♪ "wikilink")진심
+  - [노래의☆왕자님♪ LOVE 2000%](../Page/노래의☆왕자님♪.md "wikilink")진심
   - [은수저](https://ko.wikipedia.org/wiki/은수저 "wikilink")
   - [서번트×서비스](https://ko.wikipedia.org/wiki/서번트×서비스 "wikilink")
   - [갈릴레이 돈나](https://ko.wikipedia.org/wiki/갈릴레이_돈나 "wikilink")
@@ -165,7 +165,7 @@
 
 ### OVA
 
-  - [전장의 발큐리아](https://ko.wikipedia.org/wiki/전장의_발큐리아 "wikilink") 3 (2011년)
+  - [전장의 발큐리아](../Page/전장의_발큐리아.md "wikilink") 3 (2011년)
 
 ### 그 외
 
@@ -191,8 +191,8 @@
 <!-- end list -->
 
   - [이웃의 801짱R](https://ko.wikipedia.org/wiki/이웃의_801짱R "wikilink")
-  - [블랙★록 슈터](https://ko.wikipedia.org/wiki/블랙★록_슈터 "wikilink")-PILOT Edition-PV ([ordet](https://ko.wikipedia.org/wiki/ordet "wikilink")과 공동제작)
-  - [블랙★록 슈터](https://ko.wikipedia.org/wiki/블랙★록_슈터 "wikilink") OVA ([ordet](https://ko.wikipedia.org/wiki/ordet "wikilink")과 공동제작)
+  - [블랙★록 슈터](../Page/블랙★록_슈터.md "wikilink")-PILOT Edition-PV ([ordet](https://ko.wikipedia.org/wiki/ordet "wikilink")과 공동제작)
+  - [블랙★록 슈터](../Page/블랙★록_슈터.md "wikilink") OVA ([ordet](https://ko.wikipedia.org/wiki/ordet "wikilink")과 공동제작)
 
 **2016년**
 

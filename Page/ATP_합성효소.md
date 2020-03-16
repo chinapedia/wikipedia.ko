@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ATP ](https://ko.wikipedia.org/wiki/ATP_).
 
 
-**ATP 합성효소** 또는 **ATP 생성효소**(<small>[영어](https://ko.wikipedia.org/wiki/영어 "wikilink")</small>: ATP synthase)는 모든 세포 활동의 에너지원인 [아데노신 삼인산을](https://ko.wikipedia.org/wiki/아데노신_삼인산 "wikilink") 생성하는 효소이다. 이 효소는 [미토콘드리아](https://ko.wikipedia.org/wiki/미토콘드리아 "wikilink")의 표면적이 넓은 내막에 위치를 하고 있다. 이 단백질은 [세포 호흡의](../Page/세포_호흡.md "wikilink") 하위 과정인 전자전달에 의해 생기는 수소 이온의 이동으로 인한 pH차이와 전압 차이를 이용하여 [아데노신 이인산을](../Page/아데노신_이인산.md "wikilink") 인산화하여 아데노신 삼인산을 생성한다. 이를 설명한 [Paul D. Boyer와](https://ko.wikipedia.org/wiki/Paul_D._Boyer "wikilink") [John E. Walker는](https://ko.wikipedia.org/wiki/John_E._Walker "wikilink") 1997년에 노벨 화학상을 받았다.
+**ATP 합성효소** 또는 **ATP 생성효소**(<small>[영어](../Page/영어.md "wikilink")</small>: ATP synthase)는 모든 세포 활동의 에너지원인 [아데노신 삼인산을](../Page/아데노신_삼인산.md "wikilink") 생성하는 효소이다. 이 효소는 [미토콘드리아](../Page/미토콘드리아.md "wikilink")의 표면적이 넓은 내막에 위치를 하고 있다. 이 단백질은 [세포 호흡의](../Page/세포_호흡.md "wikilink") 하위 과정인 전자전달에 의해 생기는 수소 이온의 이동으로 인한 pH차이와 전압 차이를 이용하여 [아데노신 이인산을](../Page/아데노신_이인산.md "wikilink") 인산화하여 아데노신 삼인산을 생성한다. 이를 설명한 [Paul D. Boyer와](https://ko.wikipedia.org/wiki/Paul_D._Boyer "wikilink") [John E. Walker는](https://ko.wikipedia.org/wiki/John_E._Walker "wikilink") 1997년에 노벨 화학상을 받았다.
 
 [오른쪽](https://ko.wikipedia.org/wiki/파일:Atp_synthase.PNG "wikilink")
 
@@ -9,7 +9,7 @@
 
 1960년대에 [메사추세츠 종합병원에](https://ko.wikipedia.org/wiki/메사추세츠_종합병원 "wikilink") 근무하던 의학자 [Humberto Fernandez-Moran이](https://ko.wikipedia.org/wiki/Humberto_Fernandez-Moran "wikilink") 음성염색을 이용해 세포의 미토콘드리아를 연구하던 도중 미토콘드리아의 내막에 둥그런 물질이 덕지덕지 붙어있는 것을 처음 발견했다. 몇년뒤에 미국 코넬대학교에서 Efraim Racker가 이 물질을 세포막으로부터 분리하는 데 성공하고 F1이란 이름을 붙였다. 화학적 특성을 분석해본 결과 이 F1이란 단백질은 아데노신 삼인산을 가수분해하는 효소라는 것이 밝혀졌다. 이후로 생물학자들이 아데노신 삼인산을 생성하는 기관인 미토콘드리아가 왜 그것을 소모하는 효소를 가지고 있는지에 관한 의문을 제기하였다.
 
-이 질문에 대한 답은 비슷한 시기에 연구된 Na+/K+-ATPase에 관한 연구를 통해 밝혀졌다. [세포막](https://ko.wikipedia.org/wiki/세포막 "wikilink")에 붙어있는 이 효소는 생리학적인 조건에서 아데노신 삼인산 분자 하나를 소모하여 Na+이온 3개를 세포 밖으로 내보내는 동시에 K+이온 2개를 세포 안으로 들여온다. 연구자들이 인위적으로 세포 바깥의 Na+ 농도를 증가시키고 세포 안의 K+ 농도를 증가시켰더니 오히려 아데노신 삼인산이 만들어지는 것을 발견했다. 즉, 세포가 처한 조건에 의해서 주어진 효소가 촉매하는 반응의 방향이 바뀔 수 있다는 것이다. 이를 바탕으로 Efraim Racker는 전자전달의 의해 생기는 수소 이온의 농도 차이가 F1이 아데노신 삼인산을 생성하게 만든다는 오늘날의 이론을 정립하였다.
+이 질문에 대한 답은 비슷한 시기에 연구된 Na+/K+-ATPase에 관한 연구를 통해 밝혀졌다. [세포막](../Page/세포막.md "wikilink")에 붙어있는 이 효소는 생리학적인 조건에서 아데노신 삼인산 분자 하나를 소모하여 Na+이온 3개를 세포 밖으로 내보내는 동시에 K+이온 2개를 세포 안으로 들여온다. 연구자들이 인위적으로 세포 바깥의 Na+ 농도를 증가시키고 세포 안의 K+ 농도를 증가시켰더니 오히려 아데노신 삼인산이 만들어지는 것을 발견했다. 즉, 세포가 처한 조건에 의해서 주어진 효소가 촉매하는 반응의 방향이 바뀔 수 있다는 것이다. 이를 바탕으로 Efraim Racker는 전자전달의 의해 생기는 수소 이온의 농도 차이가 F1이 아데노신 삼인산을 생성하게 만든다는 오늘날의 이론을 정립하였다.
 
 ## 구조
 

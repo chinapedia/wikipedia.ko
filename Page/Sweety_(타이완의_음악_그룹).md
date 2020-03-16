@@ -1,27 +1,27 @@
 > This article is converted from Wikipedia: [Sweety \(  \)](https://ko.wikipedia.org/wiki/Sweety_\(__\)).
 
 
-**Sweety**(스위티)는 [중화민국](https://ko.wikipedia.org/wiki/중화민국 "wikilink")의 여성 2인조 그룹이다.
+**Sweety**(스위티)는 [중화민국](../Page/중화민국.md "wikilink")의 여성 2인조 그룹이다.
 
 ## 멤버
 
-  - [유품언](https://ko.wikipedia.org/wiki/유품언 "wikilink") (, , Esther, [1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink") [8월 8일](https://ko.wikipedia.org/wiki/8월_8일 "wikilink") – )
-  - [증지교](https://ko.wikipedia.org/wiki/증지교 "wikilink") (, , Joanne, [1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink") [11월 17일](https://ko.wikipedia.org/wiki/11월_17일 "wikilink") – )
+  - [유품언](https://ko.wikipedia.org/wiki/유품언 "wikilink") (, , Esther, [1988년](../Page/1988년.md "wikilink") [8월 8일](../Page/8월_8일.md "wikilink") – )
+  - [증지교](https://ko.wikipedia.org/wiki/증지교 "wikilink") (, , Joanne, [1988년](../Page/1988년.md "wikilink") [11월 17일](../Page/11월_17일.md "wikilink") – )
 
 ## 출연
 
-|                                                                                                                                                |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| *Hi\! Sweety* (안녕 스위티\!) [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [7월 8일](https://ko.wikipedia.org/wiki/7월_8일 "wikilink")       |
-| *17 Years Old, Not Delicate* [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [7월 17일](https://ko.wikipedia.org/wiki/7월_17일 "wikilink") |
-| *Sweet Talk Vol. 3* [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [6월 23일](https://ko.wikipedia.org/wiki/6월_23일 "wikilink")          |
+|                                                                                                          |
+| -------------------------------------------------------------------------------------------------------- |
+| *Hi\! Sweety* (안녕 스위티\!) [2003년](../Page/2003년.md "wikilink") [7월 8일](../Page/7월_8일.md "wikilink")       |
+| *17 Years Old, Not Delicate* [2005년](../Page/2005년.md "wikilink") [7월 17일](../Page/7월_17일.md "wikilink") |
+| *Sweet Talk Vol. 3* [2006년](../Page/2006년.md "wikilink") [6월 23일](../Page/6월_23일.md "wikilink")          |
 
 ### OST
 
-|                                                                                                                                           |
-| ----------------------------------------------------------------------------------------------------------------------------------------- |
-| *We'll Go on the Stage* [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [2월 14일](https://ko.wikipedia.org/wiki/2월_14일 "wikilink") |
-| *Green Forest, My Home* [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [9월 25일](https://ko.wikipedia.org/wiki/9월_25일 "wikilink") |
+|                                                                                                     |
+| --------------------------------------------------------------------------------------------------- |
+| *We'll Go on the Stage* [2003년](../Page/2003년.md "wikilink") [2월 14일](../Page/2월_14일.md "wikilink") |
+| *Green Forest, My Home* [2005년](../Page/2005년.md "wikilink") [9월 25일](../Page/9월_25일.md "wikilink") |
 
 ### TV 프로그램
 

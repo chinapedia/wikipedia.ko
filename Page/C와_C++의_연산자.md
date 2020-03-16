@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [C C++ ](https://ko.wikipedia.org/wiki/C_C++_).
 
 
-이것은 [C와](https://ko.wikipedia.org/wiki/C_\(프로그래밍_언어\) "wikilink") [C++](https://ko.wikipedia.org/wiki/C++ "wikilink") [프로그래밍 언어의](https://ko.wikipedia.org/wiki/프로그래밍_언어 "wikilink") [연산자의](https://ko.wikipedia.org/wiki/연산자_\(프로그래밍\) "wikilink") 목록이다. 나열된 모든 연산자는 C++에 존재한다. 네번째 열("C에 포함됨")은 해당 연산자가 C에 존재하는지를 표시한다. C는 연산자 오버로딩을 지원하지 않는다.
+이것은 [C와](../Page/C_\(프로그래밍_언어\).md "wikilink") [C++](https://ko.wikipedia.org/wiki/C++ "wikilink") [프로그래밍 언어의](../Page/프로그래밍_언어.md "wikilink") [연산자의](https://ko.wikipedia.org/wiki/연산자_\(프로그래밍\) "wikilink") 목록이다. 나열된 모든 연산자는 C++에 존재한다. 네번째 열("C에 포함됨")은 해당 연산자가 C에 존재하는지를 표시한다. C는 연산자 오버로딩을 지원하지 않는다.
 
 연산자가 오버로드되지 않았다면, `&&`, `||`, `,`([쉼표 연산자](https://ko.wikipedia.org/wiki/쉼표_연산자 "wikilink")) 연산자는 첫 번째 피연산자(operand)가 평가된 시점이 [시퀀스 포인트이다](https://ko.wikipedia.org/wiki/시퀀스_포인트 "wikilink").
 
 C++는 [형 변환](https://ko.wikipedia.org/wiki/형_변환 "wikilink") 연산자인 `const_cast`, `static_cast`, `dynamic_cast`, `reinterpret_cast`를 포함한다. 이들 연산자의 서식은 우선순위 단계가 중요하지 않다는 것을 의미한다.
 
-C와 C++에서 사용 가능한 연산자 중 대부분은 [C\#](https://ko.wikipedia.org/wiki/C_샤프 "wikilink"), [자바](https://ko.wikipedia.org/wiki/자바_\(프로그래밍_언어\) "wikilink"), [펄](https://ko.wikipedia.org/wiki/펄 "wikilink"), 그리고 [PHP](https://ko.wikipedia.org/wiki/PHP "wikilink")와 같은 다른 언어에서도 동일한 우선순위, 결합법칙, 의미론으로 사용가능하다.
+C와 C++에서 사용 가능한 연산자 중 대부분은 [C\#](../Page/C_샤프.md "wikilink"), [자바](../Page/자바_\(프로그래밍_언어\).md "wikilink"), [펄](../Page/펄.md "wikilink"), 그리고 [PHP](../Page/PHP.md "wikilink")와 같은 다른 언어에서도 동일한 우선순위, 결합법칙, 의미론으로 사용가능하다.
 
 ## 연산자 표
 
@@ -21,7 +21,7 @@ C와 C++에서 사용 가능한 연산자 중 대부분은 [C\#](https://ko.wiki
 <th><p>연산자 이름</p></th>
 <th><p>구문</p></th>
 <th><p>오버로드 <wbr/>가능<wbr/>[1]</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/C_(프로그래밍_언어)" title="wikilink">C에</a> 포함됨[2]</p></th>
+<th><p><a href="../Page/C_(프로그래밍_언어).md" title="wikilink">C에</a> 포함됨[2]</p></th>
 </tr>
 </thead>
 <tbody>
@@ -44,7 +44,7 @@ C와 C++에서 사용 가능한 연산자 중 대부분은 [C\#](https://ko.wiki
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/뺄셈" title="wikilink">뺄셈</a></p></td>
+<td><p><a href="../Page/뺄셈.md" title="wikilink">뺄셈</a></p></td>
 <td><p><code>a </code><strong><code>-</code></strong><code> b</code></p></td>
 <td></td>
 <td></td>
@@ -64,13 +64,13 @@ C와 C++에서 사용 가능한 연산자 중 대부분은 [C\#](https://ko.wiki
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/곱셈" title="wikilink">곱셈</a></p></td>
+<td><p><a href="../Page/곱셈.md" title="wikilink">곱셈</a></p></td>
 <td><p><code>a </code><strong><code>*</code></strong><code> b</code></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/나눗셈" title="wikilink">나눗셈</a></p></td>
+<td><p><a href="../Page/나눗셈.md" title="wikilink">나눗셈</a></p></td>
 <td><p><code>a </code><strong><code>/</code></strong><code> b</code></p></td>
 <td></td>
 <td></td>
@@ -117,7 +117,7 @@ C와 C++에서 사용 가능한 연산자 중 대부분은 [C\#](https://ko.wiki
 <th><p>구문</p></th>
 <th><p>오버로드<br />
 가능[3]</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/C_(프로그래밍_언어)" title="wikilink">C에서</a><br />
+<th><p><a href="../Page/C_(프로그래밍_언어).md" title="wikilink">C에서</a><br />
 포함됨[4]</p></th>
 <th><p>프로토타입 예제[5]</p></th>
 </tr>
@@ -194,7 +194,7 @@ C와 C++에서 사용 가능한 연산자 중 대부분은 [C\#](https://ko.wiki
 <th><p>구문</p></th>
 <th><p>오버로드<br />
 가능[6]</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/C_(프로그래밍_언어)" title="wikilink">C에서</a><br />
+<th><p><a href="../Page/C_(프로그래밍_언어).md" title="wikilink">C에서</a><br />
 포함됨[7]</p></th>
 <th><p>프로토타입 예제[8]</p></th>
 </tr>
@@ -245,7 +245,7 @@ OR</a></p></td>
 이름</p></th>
 <th><p>구문</p></th>
 <th><p>오버로드 <wbr/>가능<wbr/>[10]</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/C_(프로그래밍_언어)" title="wikilink">C에서</a> 포함됨[11]</p></th>
+<th><p><a href="../Page/C_(프로그래밍_언어).md" title="wikilink">C에서</a> 포함됨[11]</p></th>
 <th><p>프로토타입 예제[12]</p></th>
 </tr>
 </thead>
@@ -317,7 +317,7 @@ XOR</a></p></td>
 <th><p>연산자 이름</p></th>
 <th><p>구문</p></th>
 <th><p>오버로드 <wbr/>가능<wbr/>[15]</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/C_(프로그래밍_언어)" title="wikilink">C에서</a> 포함됨[16]</p></th>
+<th><p><a href="../Page/C_(프로그래밍_언어).md" title="wikilink">C에서</a> 포함됨[16]</p></th>
 <th><p>프로토타입 예제[17]</p></th>
 </tr>
 </thead>
@@ -410,7 +410,7 @@ XOR</a></p></td>
 <th><p>연산자 이름</p></th>
 <th><p>구문</p></th>
 <th><p>오버로드 <wbr/>가능<wbr/>[18]</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/C_(프로그래밍_언어)" title="wikilink">C에서</a> 포함됨[19]</p></th>
+<th><p><a href="../Page/C_(프로그래밍_언어).md" title="wikilink">C에서</a> 포함됨[19]</p></th>
 <th><p>프로토타입 예제[20]</p></th>
 </tr>
 </thead>
@@ -423,7 +423,7 @@ XOR</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>포인터 <a href="https://ko.wikipedia.org/wiki/배열" title="wikilink">배열</a></p></td>
+<td><p>포인터 <a href="../Page/배열.md" title="wikilink">배열</a></p></td>
 <td><p><code>a</code><strong><code>[</code></strong><code>b</code><strong><code>]</code></strong></p></td>
 <td></td>
 <td></td>
@@ -487,7 +487,7 @@ XOR</a></p></td>
 <th><p>구문</p></th>
 <th><p>오버로드<br />
 가능[25]</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/C_(프로그래밍_언어)" title="wikilink">C에서</a><br />
+<th><p><a href="../Page/C_(프로그래밍_언어).md" title="wikilink">C에서</a><br />
 포함됨[26]</p></th>
 <th><p>프로토타입 예제[27]</p></th>
 </tr>
@@ -595,7 +595,7 @@ XOR</a></p></td>
 
 ## 연산자 우선순위
 
-다음은 [C와](https://ko.wikipedia.org/wiki/C_\(프로그래밍_언어\) "wikilink") [C++](https://ko.wikipedia.org/wiki/C++ "wikilink") 언어에서 모든 연산자의 [우선순위와](../Page/연산의_우선순위.md "wikilink") [결합법칙을](https://ko.wikipedia.org/wiki/연산자_결합법칙 "wikilink") 나열하는 표이다\[32\]. 연산자는 내림차순 우선순위에서, 위에서 아래로 나열된다. 우선순위 내림차순은 연산자와 피연산자를 묶는 행위의 우선순서를 나타낸다. 표현식을 고려해서, 어떤 행 위에 나열된 연산자는 그것의 더 아래쪽 행 위에 나열된 모든 연산자의 이전에 피연산자와 묶인다. 같은 셀에 있는 연산자\[33\]는 주어진 결합법칙의 방향대로 피연산자와 묶인다. 연산자의 우선순위는 오버로딩에 의해 영향받지않는다. 연산자의 피연산자들이 모두 평가된 후에 그 연산자로 결과값이 계산되는 순서로 평가된다.
+다음은 [C와](../Page/C_\(프로그래밍_언어\).md "wikilink") [C++](https://ko.wikipedia.org/wiki/C++ "wikilink") 언어에서 모든 연산자의 [우선순위와](../Page/연산의_우선순위.md "wikilink") [결합법칙을](https://ko.wikipedia.org/wiki/연산자_결합법칙 "wikilink") 나열하는 표이다\[32\]. 연산자는 내림차순 우선순위에서, 위에서 아래로 나열된다. 우선순위 내림차순은 연산자와 피연산자를 묶는 행위의 우선순서를 나타낸다. 표현식을 고려해서, 어떤 행 위에 나열된 연산자는 그것의 더 아래쪽 행 위에 나열된 모든 연산자의 이전에 피연산자와 묶인다. 같은 셀에 있는 연산자\[33\]는 주어진 결합법칙의 방향대로 피연산자와 묶인다. 연산자의 우선순위는 오버로딩에 의해 영향받지않는다. 연산자의 피연산자들이 모두 평가된 후에 그 연산자로 결과값이 계산되는 순서로 평가된다.
 
 C와 C++에서 표현식의 구문은 [문맥 자유 문법에](https://ko.wikipedia.org/wiki/문맥_자유_문법 "wikilink") 의해 지정된다. 여기에 주어진 표는 문법으로부터 추론되었다. ISO C 1999년 표준에 대해, 항목 6.5.6 주 71은 C 연산자의 우선순위를 정의하는 사양에 의해 제공되는 C 문법을 정하고, 또한 사양의 항목 순서를 밀접하게 따라가는 문법으로 인한 연산자 우선순위를 정한다:
 
@@ -746,7 +746,7 @@ ANSI C 사양은 헤더 파일 [`iso646.h`](https://ko.wikipedia.org/wiki/iso646
 29. Overload may accept zero or more arguments.
 30.
 31. 사용자 정의 변환에 대해, 반환 자료형은 절대적 및 필연적으로 연산자 이름과 일치한다.
-32. 연산자는 또한 [자바](https://ko.wikipedia.org/wiki/자바_\(프로그래밍_언어\) "wikilink"), [펄](https://ko.wikipedia.org/wiki/펄 "wikilink"), [PHP](https://ko.wikipedia.org/wiki/PHP "wikilink") 및 많은 다른 최근 언어가 존재할 때, 우선순위는 그 주어진 것과 동일하다.
+32. 연산자는 또한 [자바](../Page/자바_\(프로그래밍_언어\).md "wikilink"), [펄](../Page/펄.md "wikilink"), [PHP](../Page/PHP.md "wikilink") 및 많은 다른 최근 언어가 존재할 때, 우선순위는 그 주어진 것과 동일하다.
 33. 여기는 셀에 나열된 연산자의 여러 행이 될 수 있다
 34. 이것들을 `3+( . ), 2*( . ), ( . )++, ( . )[ i ]`이라고 부른다.
 35. ( . )++ 연산자는 오직 `y[i]`이 표현식에서 평가된 후에 영향을 끼친다.

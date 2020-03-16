@@ -222,7 +222,7 @@
 
 ## 같이 보기
 
-  - Class II 항부정맥제 ATC 그룹 내 베타차단제 [C07](https://ko.wikipedia.org/wiki/ATC_코드_C07 "wikilink").
+  - Class II 항부정맥제 ATC 그룹 내 베타차단제 [C07](../Page/ATC_코드_C07.md "wikilink").
   - Class IV 항부정맥제 ATC 그룹 내 심장 칼슘 이온 차단제 [C08D](https://ko.wikipedia.org/wiki/ATC_코드_C08#C08D "wikilink").
 
 ## 각주

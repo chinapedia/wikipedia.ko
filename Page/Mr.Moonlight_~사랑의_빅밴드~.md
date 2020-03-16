@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Mr.Moonlight \~ \~](https://ko.wikipedia.org/wiki/Mr.Moonlight_\~_\~).
 
 
-**Mr.Moonlight \~아이노 빅밴드\~**()는 [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [10월 31일에](https://ko.wikipedia.org/wiki/10월_31일 "wikilink") 발매 된 [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink")의 열세 번째 싱글이다.
+**Mr.Moonlight \~아이노 빅밴드\~**()는 [2001년](../Page/2001년.md "wikilink") [10월 31일에](../Page/10월_31일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 열세 번째 싱글이다.
 
 ## 개요
 
@@ -21,15 +21,15 @@
 
 <!-- end list -->
 
-  - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [4월 19일자](https://ko.wikipedia.org/wiki/4월_19일 "wikilink") 《오락의 신》([NTV](../Page/닛폰_TV_방송망.md "wikilink"))에서 모닝구무스메와 [다카라즈카 가극단의](../Page/다카라즈카_가극단.md "wikilink") 콜라보레이션으로 이 곡을 불렀다.
+  - [2003년](../Page/2003년.md "wikilink") [4월 19일자](../Page/4월_19일.md "wikilink") 《오락의 신》([NTV](../Page/닛폰_TV_방송망.md "wikilink"))에서 모닝구무스메와 [다카라즈카 가극단의](../Page/다카라즈카_가극단.md "wikilink") 콜라보레이션으로 이 곡을 불렀다.
 
 <!-- end list -->
 
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink"), [층쿠♂가](https://ko.wikipedia.org/wiki/쓴쿠 "wikilink") 앨범 TAKE1에서 셀프 커버하였다.
+  - [2004년](../Page/2004년.md "wikilink"), [층쿠♂가](https://ko.wikipedia.org/wiki/쓴쿠 "wikilink") 앨범 TAKE1에서 셀프 커버하였다.
 
 <!-- end list -->
 
-  - 커플링곡 "팝콘 러브\!" ()는, [2000년 12월에](https://ko.wikipedia.org/wiki/2000년_12월 "wikilink") 시작한 프로그램 《MUSIX\!》([TV 도쿄](../Page/TV_도쿄.md "wikilink"))의 테마곡으로써 만들어진 곡이며, 프로그램의 MC였던 [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink")(당시 10명)와 [캬인의](https://ko.wikipedia.org/wiki/:ja:キャイ〜ン "wikilink") 안무도 있었다.
+  - 커플링곡 "팝콘 러브\!" ()는, [2000년 12월에](https://ko.wikipedia.org/wiki/2000년_12월 "wikilink") 시작한 프로그램 《MUSIX\!》([TV 도쿄](../Page/TV_도쿄.md "wikilink"))의 테마곡으로써 만들어진 곡이며, 프로그램의 MC였던 [모닝구무스메](../Page/모닝구무스메.md "wikilink")(당시 10명)와 [캬인의](https://ko.wikipedia.org/wiki/:ja:キャイ〜ン "wikilink") 안무도 있었다.
 
 ## 수록곡
 

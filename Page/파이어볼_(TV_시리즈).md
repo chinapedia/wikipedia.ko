@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ \(TV \)](https://ko.wikipedia.org/wiki/_\(TV_\)).
 
 
-**파이어 볼**은 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink")부터 방송된, [월트 디즈니 재팬이](https://ko.wikipedia.org/wiki/월트_디즈니_재팬 "wikilink") 제작한 [3D CG](https://ko.wikipedia.org/wiki/3차원_컴퓨터_그래픽스 "wikilink") 애니메이션 작품이다. 이 항목에서는 '제2기 파이어 볼 차밍'에 대해서도 기술한다. (이하의 기술에 있어서 따로 쓰지 않는 경우는 기본적으로 제1기에 관한 것이다.)
+**파이어 볼**은 [2008년](../Page/2008년.md "wikilink") [4월](../Page/4월.md "wikilink")부터 방송된, [월트 디즈니 재팬이](https://ko.wikipedia.org/wiki/월트_디즈니_재팬 "wikilink") 제작한 [3D CG](../Page/3차원_컴퓨터_그래픽스.md "wikilink") 애니메이션 작품이다. 이 항목에서는 '제2기 파이어 볼 차밍'에 대해서도 기술한다. (이하의 기술에 있어서 따로 쓰지 않는 경우는 기본적으로 제1기에 관한 것이다.)
 
 ## 개요
 
@@ -9,11 +9,11 @@
 
 ### 제1기
 
-[디즈니](https://ko.wikipedia.org/wiki/디즈니 "wikilink")에서 처음으로, [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") 국내에서 일본인 스탭에 의해 제작된 텔레비전 애니메이션 작품. 텔레비전 방송 이외에도 공식 사이트나 [유튜브](../Page/유튜브.md "wikilink") (You Tube) 등을 이용해 인터넷에서 무료 전송된, 디즈니로서는 전례가 없는 실험적인 작품이다.
+[디즈니](https://ko.wikipedia.org/wiki/디즈니 "wikilink")에서 처음으로, [일본](../Page/일본.md "wikilink") 국내에서 일본인 스탭에 의해 제작된 텔레비전 애니메이션 작품. 텔레비전 방송 이외에도 공식 사이트나 [유튜브](../Page/유튜브.md "wikilink") (You Tube) 등을 이용해 인터넷에서 무료 전송된, 디즈니로서는 전례가 없는 실험적인 작품이다.
 
 풀3D 애니메이션이며, 1화가 약 2분의 단편이다. 2006년 봄 단계에서 성우의 에프터 레코딩이 이미 행하여져, 같은 해 가을에는 방송할 수 있는 상태로 완성되어 있었다.
 
-작중에는 폭넓은 장르로부터의 패러디가 많이 보여진다. [성서](https://ko.wikipedia.org/wiki/성서 "wikilink")나 [장자](https://ko.wikipedia.org/wiki/장자 "wikilink"), [은하수를 여행하는 히치하이커를 위한 안내서](https://ko.wikipedia.org/wiki/은하수를_여행하는_히치하이커를_위한_안내서 "wikilink"), [철인 28호](../Page/철인_28호.md "wikilink"), [오즈의 마법사](../Page/오즈의_마법사.md "wikilink"), [클라리넷을 망가트렸다](https://ko.wikipedia.org/wiki/클라리넷#동요 "wikilink"), [경마](../Page/경마.md "wikilink"), [야마구치씨네 츠토무군](https://ko.wikipedia.org/wiki/야마구치씨네_츠토무군 "wikilink"), [더 플라이](https://ko.wikipedia.org/wiki/더_플라이 "wikilink"), [스파이더맨](../Page/스파이더맨.md "wikilink"), [스타 워즈](https://ko.wikipedia.org/wiki/스타_워즈 "wikilink"), [마이클 잭슨](https://ko.wikipedia.org/wiki/마이클_잭슨 "wikilink") 등, [고전](https://ko.wikipedia.org/wiki/고전 "wikilink")에서 [SF](https://ko.wikipedia.org/wiki/SF "wikilink")까지 그 출전원은 여러 갈래에 걸친다. 패러디 요소를 두사람의 대화 속에 많이 짜 넣으면서, 무표정인 두 명의 로봇이 펼치는, 어딘지 어긋난 대화에 3D CG의 매끄러운 움직임이 중심인 작품이다. 한 화가 짧은데다가, 몇 안되는 등장 인물인 드롯셀와 게대흐트니스는 얼굴에 눈 이외의 부품이 존재럽지 않고 표정이 없다는 것 등도 있어, 다른 디즈니 작품 대부분에 보여지는 과장된 표정이나 몸짓으로 감정을 표현한다는 연출은 없다. 무대는 저택의 큰방에 한정되어 있어서, OP과 ED에서 '폭풍우의 탑'의 외관이 비치는 이외는 다른 장소가 화면에 드러나는 것은 거의 없다. 따라서 시청자는 등장하는 두 명의 대화로 밖의 세계를 상상하는 수 밖에 없다. 그것은 저택에서 밖으로 나간 적이 없는 주인공 드롯셀의 시점이기도 한다. 최종회는 디즈니 채널에서는 TOKYO MX보다 긴 감독 편집판이 방송되고 있다.
+작중에는 폭넓은 장르로부터의 패러디가 많이 보여진다. [성서](https://ko.wikipedia.org/wiki/성서 "wikilink")나 [장자](../Page/장자.md "wikilink"), [은하수를 여행하는 히치하이커를 위한 안내서](../Page/은하수를_여행하는_히치하이커를_위한_안내서.md "wikilink"), [철인 28호](../Page/철인_28호.md "wikilink"), [오즈의 마법사](../Page/오즈의_마법사.md "wikilink"), [클라리넷을 망가트렸다](https://ko.wikipedia.org/wiki/클라리넷#동요 "wikilink"), [경마](../Page/경마.md "wikilink"), [야마구치씨네 츠토무군](https://ko.wikipedia.org/wiki/야마구치씨네_츠토무군 "wikilink"), [더 플라이](https://ko.wikipedia.org/wiki/더_플라이 "wikilink"), [스파이더맨](../Page/스파이더맨.md "wikilink"), [스타 워즈](https://ko.wikipedia.org/wiki/스타_워즈 "wikilink"), [마이클 잭슨](https://ko.wikipedia.org/wiki/마이클_잭슨 "wikilink") 등, [고전](https://ko.wikipedia.org/wiki/고전 "wikilink")에서 [SF](https://ko.wikipedia.org/wiki/SF "wikilink")까지 그 출전원은 여러 갈래에 걸친다. 패러디 요소를 두사람의 대화 속에 많이 짜 넣으면서, 무표정인 두 명의 로봇이 펼치는, 어딘지 어긋난 대화에 3D CG의 매끄러운 움직임이 중심인 작품이다. 한 화가 짧은데다가, 몇 안되는 등장 인물인 드롯셀와 게대흐트니스는 얼굴에 눈 이외의 부품이 존재럽지 않고 표정이 없다는 것 등도 있어, 다른 디즈니 작품 대부분에 보여지는 과장된 표정이나 몸짓으로 감정을 표현한다는 연출은 없다. 무대는 저택의 큰방에 한정되어 있어서, OP과 ED에서 '폭풍우의 탑'의 외관이 비치는 이외는 다른 장소가 화면에 드러나는 것은 거의 없다. 따라서 시청자는 등장하는 두 명의 대화로 밖의 세계를 상상하는 수 밖에 없다. 그것은 저택에서 밖으로 나간 적이 없는 주인공 드롯셀의 시점이기도 한다. 최종회는 디즈니 채널에서는 TOKYO MX보다 긴 감독 편집판이 방송되고 있다.
 
 드롯셀은 [피그마](https://ko.wikipedia.org/wiki/피그마 "wikilink"), [넨도로이드](https://ko.wikipedia.org/wiki/넨도로이드 "wikilink"), [SR](https://ko.wikipedia.org/wiki/타카라토미_아츠 "wikilink"), [초합금](https://ko.wikipedia.org/wiki/초합금_\(완구\) "wikilink") 시리즈로 상품화되었다.
 
@@ -21,13 +21,13 @@
 
 ### 제2기
 
-[2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [8월 10일에](https://ko.wikipedia.org/wiki/8월_10일 "wikilink") 공식 블로그에서 새 시리즈의 제작과 [2011에](https://ko.wikipedia.org/wiki/2011에 "wikilink")에 방송할 예정이라는 정보가 공개. 같은 해 12월에 타이틀 "파이어 볼 차밍"과 풀 [HD](https://ko.wikipedia.org/wiki/HD "wikilink") 제작이라는 정보가 공개. 감독·각본은 전 시리즈에 이어서 아라카와 고가 속투할 예정으로 되어 있다.
+[2010년](../Page/2010년.md "wikilink") [8월 10일에](../Page/8월_10일.md "wikilink") 공식 블로그에서 새 시리즈의 제작과 [2011에](https://ko.wikipedia.org/wiki/2011에 "wikilink")에 방송할 예정이라는 정보가 공개. 같은 해 12월에 타이틀 "파이어 볼 차밍"과 풀 [HD](https://ko.wikipedia.org/wiki/HD "wikilink") 제작이라는 정보가 공개. 감독·각본은 전 시리즈에 이어서 아라카와 고가 속투할 예정으로 되어 있다.
 
 아라카와 고 감독에 의하면, 제1기의 직접적인 속편이 아니지만, 일부가 연결되는 시나리오가 된다. 이것은, '(직접적인) 속편은 첫편을 넘을 수 없다' 라는 징크스가 있었기 때문으로, 어디까지나 '새시리즈'로서 기획을 진척시켰다고 한다. 이것은 캐릭터 디자인이 변경된 이유의 하나이기도 한다 (또 하나의 이유는, HD제작에 맞춰서 화면의 정보량을 늘리기 위해서).
 
 ## 줄거리
 
-[메루쿨](https://ko.wikipedia.org/wiki/메르쿠리우스 "wikilink") 력 48650년. [지구](../Page/지구.md "wikilink")인지 아닌지도 명언되지 않는 행성에서, 4만8000년 이상 전에 [돌고래](https://ko.wikipedia.org/wiki/돌고래 "wikilink")나 [원숭이](https://ko.wikipedia.org/wiki/원숭이 "wikilink"), [새](https://ko.wikipedia.org/wiki/새 "wikilink") 같은 [야생동물](https://ko.wikipedia.org/wiki/야생동물 "wikilink")과 그것을 포함하는 [자연환경](https://ko.wikipedia.org/wiki/자연환경 "wikilink")은 괴멸하고, 인류는 자신의 [통치](https://ko.wikipedia.org/wiki/통치 "wikilink")를 [로봇](https://ko.wikipedia.org/wiki/로봇 "wikilink")에게 맡기고 있었다. 그러나 로봇은 마침내 [귀족](https://ko.wikipedia.org/wiki/귀족 "wikilink")화해 인류는 거기에 저항을 보이기 시작하고, 인류의 [군대](../Page/군대.md "wikilink")와 로봇 귀족과의 전쟁은 이미 2만 년 가까이 계속되고 있었다.
+[메루쿨](../Page/메르쿠리우스.md "wikilink") 력 48650년. [지구](../Page/지구.md "wikilink")인지 아닌지도 명언되지 않는 행성에서, 4만8000년 이상 전에 [돌고래](../Page/돌고래.md "wikilink")나 [원숭이](../Page/원숭이.md "wikilink"), [새](../Page/새.md "wikilink") 같은 [야생동물](https://ko.wikipedia.org/wiki/야생동물 "wikilink")과 그것을 포함하는 [자연환경](https://ko.wikipedia.org/wiki/자연환경 "wikilink")은 괴멸하고, 인류는 자신의 [통치](https://ko.wikipedia.org/wiki/통치 "wikilink")를 [로봇](../Page/로봇.md "wikilink")에게 맡기고 있었다. 그러나 로봇은 마침내 [귀족](https://ko.wikipedia.org/wiki/귀족 "wikilink")화해 인류는 거기에 저항을 보이기 시작하고, 인류의 [군대](../Page/군대.md "wikilink")와 로봇 귀족과의 전쟁은 이미 2만 년 가까이 계속되고 있었다.
 
 드롯셀의 아버지인 고 플뤼겔 [공작은](../Page/공작_\(작위\).md "wikilink") 인류와의 공존을 바라지만 미처 이루지 못하고 죽는다. 남겨진 외동딸 드롯셀은 저택의 데이터 베이스와 집사 게대흐트니스로부터 인류란, 생명이란,그리고 귀족으로서의 긍지와 사명이란 무엇인가를 배우고 있다. 그러나 저택의 밖으로 한 발짝도 나간 적이 없는 드롯셀은 그 어느 것에도 확실한 대답을 찾을 수 없다.
 
@@ -43,9 +43,9 @@
       - 중량 : [사과](../Page/사과.md "wikilink") 179개 분 (사과는 한 개 평균 300g정도)
       - 흥미 있는 것 : 귀엽다 라는 개념, 호신술 ([카라테](../Page/공수도.md "wikilink") (空手)라고 믿고 있는, [까뽀에라](https://ko.wikipedia.org/wiki/카포에이라 "wikilink") 같은 격투기)
       - 갖고 싶은 것 : 애완동물 (말하는 고양이), 요술 지팡이
-    본작의 주인공. 드롯셀이라는 이름은, [독일어](https://ko.wikipedia.org/wiki/독일어 "wikilink")로 '[개똥지빠귀](../Page/개똥지빠귀.md "wikilink")'를 나타낸다 (플뤼겔은 '[날개](../Page/날개.md "wikilink")'란 뜻).
+    본작의 주인공. 드롯셀이라는 이름은, [독일어](../Page/독일어.md "wikilink")로 '[개똥지빠귀](../Page/개똥지빠귀.md "wikilink")'를 나타낸다 (플뤼겔은 '[날개](../Page/날개.md "wikilink")'란 뜻).
     본명은 드롯셀 주노 피어첸테스 하이츠레기스타 퓌르스틴 폰 플뤼겔 (플뤼겔 여[공작](../Page/공작_\(작위\).md "wikilink") 하이츠레기스타 사 제 [주노](https://ko.wikipedia.org/wiki/유노 "wikilink") 14형이라는 뜻). [가이노이드](https://ko.wikipedia.org/wiki/가이노이드 "wikilink")이며, 인간으로 치면 14세로 설계되어 있다 (실제 연령은 불명).
-    [우라노스](../Page/우라노스.md "wikilink")국 펨페스트령을 통치하는 19대째 당주인 [하이페리온](https://ko.wikipedia.org/wiki/히페리온 "wikilink") (귀족)이지만, 저택에서 나간 적은 없다. 그 때문에, 바깥 세계의 지식은 저택에 보관되고 있는 서적이나 게대흐트니스로부터의 구전에 의존하는 것이라, 틀리거나 편향된 경우가 많다.
+    [우라노스](../Page/우라노스.md "wikilink")국 펨페스트령을 통치하는 19대째 당주인 [하이페리온](../Page/히페리온.md "wikilink") (귀족)이지만, 저택에서 나간 적은 없다. 그 때문에, 바깥 세계의 지식은 저택에 보관되고 있는 서적이나 게대흐트니스로부터의 구전에 의존하는 것이라, 틀리거나 편향된 경우가 많다.
 
 <!-- end list -->
 
@@ -74,7 +74,7 @@
 ### 캐릭터 (제1기)
 
   - 유미르테미르 (Ymir-Themir Suttungr)
-    드롯셀의 펜팔 상대. 빈트슈틸레와 같이 화면에 그 모습은 나타나지 않고, 이름만 등장하고 있다. 드롯셀에 의하면 '이웃'이지만, 템페스트에서는 인류의 [군대](../Page/군대.md "wikilink")가 주류하는 [사막](https://ko.wikipedia.org/wiki/사막 "wikilink")을 사이에 둔 장소에 있어, 편지 1통을 전하는 것 뿐이라도 통신 부서에서 희생자가 나오고 있다.
+    드롯셀의 펜팔 상대. 빈트슈틸레와 같이 화면에 그 모습은 나타나지 않고, 이름만 등장하고 있다. 드롯셀에 의하면 '이웃'이지만, 템페스트에서는 인류의 [군대](../Page/군대.md "wikilink")가 주류하는 [사막](../Page/사막.md "wikilink")을 사이에 둔 장소에 있어, 편지 1통을 전하는 것 뿐이라도 통신 부서에서 희생자가 나오고 있다.
   - 원숭이 (Die Schadenfreude)
     저택 안에 살고 있는 원숭이형 로봇. '[샤덴프로이데](../Page/샤덴프로이데.md "wikilink")'라고 드롯셀은 부르고 있다 (독일어로 '남의 불행은 꿀맛'이란 뜻). 선대의 말 (목소리-[鄕里大輔](https://ko.wikipedia.org/wiki/鄕里大輔 "wikilink")이 입력되어 있어, 비상시에 메신저의 역할을 행한다.
   - [메이드](https://ko.wikipedia.org/wiki/메이드 "wikilink")
@@ -102,11 +102,11 @@
 
 :; 템페스트의 탑
 
-:: 드롯셀네가 사는 저택. [브뤼헐의](https://ko.wikipedia.org/wiki/대_피터르_브뤼헐 "wikilink") [바벨탑](https://ko.wikipedia.org/wiki/바벨탑 "wikilink")을 연상시키는 외관. 412군데에 걸친 감시 카메라와 139군데에 달하는 무엇인가에 의해 철벽의 방위 시스템을 자랑한다.
+:: 드롯셀네가 사는 저택. [브뤼헐의](../Page/대_피터르_브뤼헐.md "wikilink") [바벨탑](../Page/바벨탑.md "wikilink")을 연상시키는 외관. 412군데에 걸친 감시 카메라와 139군데에 달하는 무엇인가에 의해 철벽의 방위 시스템을 자랑한다.
 
 :; 프로스페로
 
-:: 작고한 빈트슈틸레경이 남긴 서적형 기억장치. 플뤼겔 가의 가훈 (그 9할이 테이블 매너로 추측된다)이나, 백성을 결속하기 위한 지역 전승, 인간의 생태나 비상시의 대처법, 등 여러가지 것에 대해서 기술되고 있지만, 일부에 편향성이 보인다. 프로스페로는 'PROgrammed Sequence of Primary Education for RObot'의 머리 문자를 채용한 약칭. 또 [세익스피어](https://ko.wikipedia.org/wiki/세익스피어 "wikilink")의 희곡 '[템페스트](https://ko.wikipedia.org/wiki/템페스트 "wikilink")'에 등장하는 복수에 눈이 먼 마술사의 이름. 최후에는 적을 놓아주고, 융화의 중요함을 설득한다.
+:: 작고한 빈트슈틸레경이 남긴 서적형 기억장치. 플뤼겔 가의 가훈 (그 9할이 테이블 매너로 추측된다)이나, 백성을 결속하기 위한 지역 전승, 인간의 생태나 비상시의 대처법, 등 여러가지 것에 대해서 기술되고 있지만, 일부에 편향성이 보인다. 프로스페로는 'PROgrammed Sequence of Primary Education for RObot'의 머리 문자를 채용한 약칭. 또 [세익스피어](https://ko.wikipedia.org/wiki/세익스피어 "wikilink")의 희곡 '[템페스트](../Page/템페스트.md "wikilink")'에 등장하는 복수에 눈이 먼 마술사의 이름. 최후에는 적을 놓아주고, 융화의 중요함을 설득한다.
 
 :; 비행 유닛 오브루체프(Obruchev)
 
@@ -142,15 +142,15 @@
 
 :; 메르쿨 력
 
-:: 각 회의 첫머리, 자막에 나타나는 역법. 이야기의 시간축을 나타낸다. 제1화가 메르쿨 력 48650년. 최종회인 제13화의 시점에 그때로부터 144년후인 48794년이다. 그럼에도 불구하고 드롯셀 일동은 십 몇 년 전의 사건을 어제의 일처럼 이야기한다. 메르쿨은 [머큐리](https://ko.wikipedia.org/wiki/머큐리 "wikilink")에게 해당하는 독일어. 로마 신화의 [메르쿠리우스](https://ko.wikipedia.org/wiki/메르쿠리우스 "wikilink"). [수은](https://ko.wikipedia.org/wiki/수은 "wikilink"), [수성](https://ko.wikipedia.org/wiki/수성 "wikilink")의 상징.
+:: 각 회의 첫머리, 자막에 나타나는 역법. 이야기의 시간축을 나타낸다. 제1화가 메르쿨 력 48650년. 최종회인 제13화의 시점에 그때로부터 144년후인 48794년이다. 그럼에도 불구하고 드롯셀 일동은 십 몇 년 전의 사건을 어제의 일처럼 이야기한다. 메르쿨은 [머큐리](https://ko.wikipedia.org/wiki/머큐리 "wikilink")에게 해당하는 독일어. 로마 신화의 [메르쿠리우스](../Page/메르쿠리우스.md "wikilink"). [수은](../Page/수은.md "wikilink"), [수성](../Page/수성.md "wikilink")의 상징.
 
-:; [돌고래](https://ko.wikipedia.org/wiki/돌고래 "wikilink")
+:; [돌고래](../Page/돌고래.md "wikilink")
 
-:: 저택의 데이터베이스에 의하면 약 4만 8000년 전까지 서식하고 있었던, 지상에서 2번째로 지능이 높은 생물. 검색하던 게대흐트니스가 '호오, 이거 귀엽네'라고 감탄성을 지르고 있다. 덧붙이자면 인류는 3번째 ([은하수를 여행하는 히치하이커를 위한 안내서의](https://ko.wikipedia.org/wiki/은하수를_여행하는_히치하이커를_위한_안내서 "wikilink") 패러디). 돌고래가 멸종하고부터의 시간과 메르쿨 력이 겹치는 것에서, 이야기의 배경을 읽어낼 수 있다. 드롯셀 말로는 '귀여워 좋고, 먹어서 좋고'.
+:: 저택의 데이터베이스에 의하면 약 4만 8000년 전까지 서식하고 있었던, 지상에서 2번째로 지능이 높은 생물. 검색하던 게대흐트니스가 '호오, 이거 귀엽네'라고 감탄성을 지르고 있다. 덧붙이자면 인류는 3번째 ([은하수를 여행하는 히치하이커를 위한 안내서의](../Page/은하수를_여행하는_히치하이커를_위한_안내서.md "wikilink") 패러디). 돌고래가 멸종하고부터의 시간과 메르쿨 력이 겹치는 것에서, 이야기의 배경을 읽어낼 수 있다. 드롯셀 말로는 '귀여워 좋고, 먹어서 좋고'.
 
-:; [새](https://ko.wikipedia.org/wiki/새 "wikilink")
+:; [새](../Page/새.md "wikilink")
 
-:: 애완동물을 갖고 싶다고 떼를 쓰는 드롯셀을 위해, 게대흐트니스는 다수의 생생한 [모르포 나비를](https://ko.wikipedia.org/wiki/나비 "wikilink") 준비한다. 그 푸른 날개로 난무하는 모습에 감동하는 드롯셀이지만, 정보 부족으로 나비를 '새'라고 단언한다. 드롯셀은 게대흐트니스에게, 인류나 새 (나비)가 진짜인 것에 비해서 자기들 기계는 그 레플리카가 아닌가라는 의문을 말한다. 그에 대한 게대흐트니스의 대답이 명답.
+:: 애완동물을 갖고 싶다고 떼를 쓰는 드롯셀을 위해, 게대흐트니스는 다수의 생생한 [모르포 나비를](../Page/나비.md "wikilink") 준비한다. 그 푸른 날개로 난무하는 모습에 감동하는 드롯셀이지만, 정보 부족으로 나비를 '새'라고 단언한다. 드롯셀은 게대흐트니스에게, 인류나 새 (나비)가 진짜인 것에 비해서 자기들 기계는 그 레플리카가 아닌가라는 의문을 말한다. 그에 대한 게대흐트니스의 대답이 명답.
 
 :; 발타자르 Balthazar
 
@@ -234,7 +234,7 @@
   - 작곡 - 薄井由行
   - 사운드 디자인 - 鍬原保愉貴
   - 애니메이션 제작 - 지니즈 애니메이션 스튜디오 (ジーニーズアニメーションスタジオ)
-  - 제작- [월트 디즈니 텔레비전 인터내셔널 재팬](https://ko.wikipedia.org/wiki/월트_디즈니 "wikilink")
+  - 제작- [월트 디즈니 텔레비전 인터내셔널 재팬](../Page/월트_디즈니.md "wikilink")
 
 ## 에피소드
 
@@ -292,7 +292,7 @@
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/토쿄도" title="wikilink">토쿄도</a>(東京都)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/토쿄_메트로폴리탄_텔레비전" title="wikilink">TOKYO MX</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2008년" title="wikilink">2008년</a> <a href="https://ko.wikipedia.org/wiki/4월_7일" title="wikilink">4월 7일</a> - <a href="https://ko.wikipedia.org/wiki/6월_30일" title="wikilink">6월 30일</a></p></td>
+<td><p><a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/4월_7일.md" title="wikilink">4월 7일</a> - <a href="../Page/6월_30일.md" title="wikilink">6월 30일</a></p></td>
 <td><p>월요일 18시 25분- 18시 30분</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/독립UHF국" title="wikilink">독립UHF국</a></p></td>
 <td></td>
@@ -300,7 +300,7 @@
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/전국_방송" title="wikilink">일본 전역</a></p></td>
 <td><p><a href="../Page/디즈니_채널.md" title="wikilink">디즈니 채널</a></p></td>
-<td><p>2008년 <a href="https://ko.wikipedia.org/wiki/4월_11일" title="wikilink">4월 11일</a> - <a href="https://ko.wikipedia.org/wiki/7월_4일" title="wikilink">7월 4일</a></p></td>
+<td><p>2008년 <a href="../Page/4월_11일.md" title="wikilink">4월 11일</a> - <a href="../Page/7월_4일.md" title="wikilink">7월 4일</a></p></td>
 <td><p>금요일 17시 25분 - 18시 30분<br />
 금요일 22시 25분 - 22시 30분 등</p></td>
 <td><p>CS방송</p></td>
@@ -325,13 +325,13 @@
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/토쿄도" title="wikilink">토쿄도</a></p></td>
 <td><p>TOKYO MX</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2011년" title="wikilink">2011년</a> <a href="https://ko.wikipedia.org/wiki/4월_4일" title="wikilink">4월 4일</a> - <a href="https://ko.wikipedia.org/wiki/4월_25일" title="wikilink">4월 25일</a></p></td>
+<td><p><a href="../Page/2011년.md" title="wikilink">2011년</a> <a href="../Page/4월_4일.md" title="wikilink">4월 4일</a> - <a href="../Page/4월_25일.md" title="wikilink">4월 25일</a></p></td>
 <td><p>월요일 19시 28분 - 19시 30분</p></td>
 <td><p>독립UHF국</p></td>
 <td><p>방송 시간 변경</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2011년" title="wikilink">2011년</a> <a href="https://ko.wikipedia.org/wiki/5월_2일" title="wikilink">5월 2일</a> - <a href="https://ko.wikipedia.org/wiki/6월_27일" title="wikilink">6월 27일</a></p></td>
+<td><p><a href="../Page/2011년.md" title="wikilink">2011년</a> <a href="../Page/5월_2일.md" title="wikilink">5월 2일</a> - <a href="../Page/6월_27일.md" title="wikilink">6월 27일</a></p></td>
 <td><p>월요일 22시 55분 - 22시 58분</p></td>
 <td></td>
 <td></td>
@@ -339,7 +339,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2011년 <a href="https://ko.wikipedia.org/wiki/7월_4일" title="wikilink">7월 4일</a> -</p></td>
+<td><p>2011년 <a href="../Page/7월_4일.md" title="wikilink">7월 4일</a> -</p></td>
 <td><p>재방송</p></td>
 <td></td>
 <td></td>
@@ -349,14 +349,14 @@
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/兵庫縣" title="wikilink">兵庫縣</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/산_텔레비전" title="wikilink">산 텔레비</a></p></td>
-<td><p>2011년 <a href="https://ko.wikipedia.org/wiki/4월_6일" title="wikilink">4월 6일</a> - <a href="https://ko.wikipedia.org/wiki/6월_29일" title="wikilink">6월 29일</a></p></td>
+<td><p>2011년 <a href="../Page/4월_6일.md" title="wikilink">4월 6일</a> - <a href="../Page/6월_29일.md" title="wikilink">6월 29일</a></p></td>
 <td><p>수요일 15시 55분 -</p></td>
 <td></td>
 <td><p>|-|rowspan="3"|<a href="https://ko.wikipedia.org/wiki/전국_방송" title="wikilink">일본 전역</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>디즈니 채널</p></td>
-<td><p>2011년 <a href="https://ko.wikipedia.org/wiki/4월_8일" title="wikilink">4월 8일</a> - <a href="https://ko.wikipedia.org/wiki/7월_1일" title="wikilink">7월 1일</a></p></td>
+<td><p>2011년 <a href="../Page/4월_8일.md" title="wikilink">4월 8일</a> - <a href="../Page/7월_1일.md" title="wikilink">7월 1일</a></p></td>
 <td><p>금요일 18시 25분 -<br />
 금요일 23시 25분 - 등</p></td>
 <td><p>CS방송</p></td>
@@ -364,7 +364,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2011년 <a href="https://ko.wikipedia.org/wiki/7월_11일" title="wikilink">7월 11일</a> -</p></td>
+<td><p>2011년 <a href="../Page/7월_11일.md" title="wikilink">7월 11일</a> -</p></td>
 <td><p>재방송</p></td>
 <td></td>
 <td></td>
@@ -386,9 +386,9 @@
 ## 관련 항목
 
   - [UHF애니메이션 목록](https://ko.wikipedia.org/wiki/UHF애니메이션_목록 "wikilink")
-  - [은하수를 여행하는 히치하이커를 위한 안내서](https://ko.wikipedia.org/wiki/은하수를_여행하는_히치하이커를_위한_안내서 "wikilink")
+  - [은하수를 여행하는 히치하이커를 위한 안내서](../Page/은하수를_여행하는_히치하이커를_위한_안내서.md "wikilink")
   - [성서](https://ko.wikipedia.org/wiki/성서 "wikilink")
-  - [템페스트](https://ko.wikipedia.org/wiki/템페스트 "wikilink")
+  - [템페스트](../Page/템페스트.md "wikilink")
   - [오즈의 마법사](../Page/오즈의_마법사.md "wikilink")
   - [모르그 가의 살인 사건](https://ko.wikipedia.org/wiki/모르그_가의_살인_사건 "wikilink")
 

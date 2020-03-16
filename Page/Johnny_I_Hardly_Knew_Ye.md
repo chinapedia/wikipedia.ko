@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Johnny I Hardly Knew Ye](https://ko.wikipedia.org/wiki/Johnny_I_Hardly_Knew_Ye).
 
 
-**Johnny I Hardly Knew Ye**는 [아일랜드](https://ko.wikipedia.org/wiki/아일랜드 "wikilink")의 고전 포크송이다. [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 **빙빙 돌아라**라는 번안 가사로 알려져 있다. 이 곡은 19세기 초반에 나왔고, 반전(反戰) 가요이다. 당시에 [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink")에서 [아일랜드](https://ko.wikipedia.org/wiki/아일랜드 "wikilink")인들을 [동인도 회사](https://ko.wikipedia.org/wiki/동인도_회사 "wikilink") 군대로 차출해 가는 경우가 많았는데, 여기에 반대하는 내용을 다루고 있다. 청자인 조니는 동인도 회사 군대로 차출되어 갔다가 눈, 팔 하나, 다리 하나, 그리고 고환까지 잃고 돌아왔다. 화자가 제목에 나와 있듯이 청자를 거의 알아보지 못했다고 말하는 이유는 이 때문이다. 전쟁의 비참함과 비인간성을 고발하고, 아일랜드인을 동인도 회사 군대로 차출하는 것을 반대하는 내용이다.
+**Johnny I Hardly Knew Ye**는 [아일랜드](../Page/아일랜드.md "wikilink")의 고전 포크송이다. [대한민국](../Page/대한민국.md "wikilink")에서는 **빙빙 돌아라**라는 번안 가사로 알려져 있다. 이 곡은 19세기 초반에 나왔고, 반전(反戰) 가요이다. 당시에 [잉글랜드](../Page/잉글랜드.md "wikilink")에서 [아일랜드](../Page/아일랜드.md "wikilink")인들을 [동인도 회사](https://ko.wikipedia.org/wiki/동인도_회사 "wikilink") 군대로 차출해 가는 경우가 많았는데, 여기에 반대하는 내용을 다루고 있다. 청자인 조니는 동인도 회사 군대로 차출되어 갔다가 눈, 팔 하나, 다리 하나, 그리고 고환까지 잃고 돌아왔다. 화자가 제목에 나와 있듯이 청자를 거의 알아보지 못했다고 말하는 이유는 이 때문이다. 전쟁의 비참함과 비인간성을 고발하고, 아일랜드인을 동인도 회사 군대로 차출하는 것을 반대하는 내용이다.
 
 ## 가사
 

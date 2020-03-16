@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [! We\'re ALIVE](https://ko.wikipedia.org/wiki/!_We\'re_ALIVE).
 
 
-**소다\! We're ALIVE**()는 [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [2월 20일에](https://ko.wikipedia.org/wiki/2월_20일 "wikilink") 발매 된 [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink")의 열네 번째 싱글이다.
+**소다\! We're ALIVE**()는 [2002년](../Page/2002년.md "wikilink") [2월 20일에](../Page/2월_20일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 열네 번째 싱글이다.
 
 ## 개요
 
@@ -9,7 +9,7 @@
 
 <!-- end list -->
 
-  - [TBS](https://ko.wikipedia.org/wiki/도쿄_방송_홀딩스 "wikilink") 《[솔트레이크시티 올림픽](https://ko.wikipedia.org/wiki/2002년_동계_올림픽 "wikilink")》 주제가이며, [아베 나츠미는](https://ko.wikipedia.org/wiki/아베_나쓰미 "wikilink") [이즈미 모토야와](https://ko.wikipedia.org/wiki/이즈미_모토야 "wikilink") 함께 올림픽 프로그램 캐스터를 맡았다.
+  - [TBS](../Page/도쿄_방송_홀딩스.md "wikilink") 《[솔트레이크시티 올림픽](../Page/2002년_동계_올림픽.md "wikilink")》 주제가이며, [아베 나츠미는](https://ko.wikipedia.org/wiki/아베_나쓰미 "wikilink") [이즈미 모토야와](https://ko.wikipedia.org/wiki/이즈미_모토야 "wikilink") 함께 올림픽 프로그램 캐스터를 맡았다.
 
 <!-- end list -->
 

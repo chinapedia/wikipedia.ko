@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  YES ](https://ko.wikipedia.org/wiki/__YES_).
 
 
-**에가오YES누드**()는 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [2월 14일에](https://ko.wikipedia.org/wiki/2월_14일 "wikilink") 발매 된 [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink")의 서른두 번째 싱글이다.
+**에가오YES누드**()는 [2007년](../Page/2007년.md "wikilink") [2월 14일에](../Page/2월_14일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 서른두 번째 싱글이다.
 
 ## 개요
 
@@ -9,11 +9,11 @@
 
 <!-- end list -->
 
-  - 2007년 [1월 27일](https://ko.wikipedia.org/wiki/1월_27일 "wikilink"), 콘서트 《Hello\! Project 2007 Winter \~집결\! 10th Anniversary\~》에서 첫선을 보였다.
+  - 2007년 [1월 27일](../Page/1월_27일.md "wikilink"), 콘서트 《Hello\! Project 2007 Winter \~집결\! 10th Anniversary\~》에서 첫선을 보였다.
 
 <!-- end list -->
 
-  - 음악 프로그램은 2007년 [2월 8일에](https://ko.wikipedia.org/wiki/2월_8일 "wikilink") 방송된 《[우타방](../Page/우타방.md "wikilink")》에서 처음으로 공개하였다.
+  - 음악 프로그램은 2007년 [2월 8일에](../Page/2월_8일.md "wikilink") 방송된 《[우타방](../Page/우타방.md "wikilink")》에서 처음으로 공개하였다.
 
 <!-- end list -->
 

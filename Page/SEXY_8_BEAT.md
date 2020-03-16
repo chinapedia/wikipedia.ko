@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SEXY 8 BEAT](https://ko.wikipedia.org/wiki/SEXY_8_BEAT).
 
 
-**SEXY 8 BEAT**(SEXY Eight BEAT, 섹시 에이트 비트)는 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [3월 21일에](https://ko.wikipedia.org/wiki/3월_21일 "wikilink") 발매 된 [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink")의 여덟 번째 정규 앨범이다.
+**SEXY 8 BEAT**(SEXY Eight BEAT, 섹시 에이트 비트)는 [2007년](../Page/2007년.md "wikilink") [3월 21일에](../Page/3월_21일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 여덟 번째 정규 앨범이다.
 
 ## 개요
 
@@ -9,7 +9,7 @@
 
 <!-- end list -->
 
-  - [SEXY BOY \~산들바람에 기대\~와](https://ko.wikipedia.org/wiki/SEXY_BOY_~소요카제니_요리솟테~ "wikilink") [Ambitious\! 야심적이고 좋잖아는](https://ko.wikipedia.org/wiki/Ambitious!_야신테키데이이장 "wikilink") [콘노 아사미](https://ko.wikipedia.org/wiki/곤노_아사미 "wikilink"), [오가와 마코토가](../Page/오가와_마코토.md "wikilink") 재적해 있을 때의 싱글 곡이다.
+  - [SEXY BOY \~산들바람에 기대\~와](../Page/SEXY_BOY_~소요카제니_요리솟테~.md "wikilink") [Ambitious\! 야심적이고 좋잖아는](https://ko.wikipedia.org/wiki/Ambitious!_야신테키데이이장 "wikilink") [콘노 아사미](https://ko.wikipedia.org/wiki/곤노_아사미 "wikilink"), [오가와 마코토가](../Page/오가와_마코토.md "wikilink") 재적해 있을 때의 싱글 곡이다.
 
 <!-- end list -->
 
@@ -20,11 +20,11 @@
   - 초회한정반 DVD에는 4:3 비율의 3곡(약 9분)이 수록되어 있다.
       - [에가오YES누드](https://ko.wikipedia.org/wiki/에가오YES누드 "wikilink") (Close-up Ver.)
       - Ambitious\! 야심적이고 좋잖아 (《Hello\! Project 2007 Winter \~원더풀 하츠 소녀Gokoro\~》 특전)
-      - [Do it\! Now](https://ko.wikipedia.org/wiki/Do_it!_Now "wikilink") (상동)
+      - [Do it\! Now](../Page/Do_it!_Now.md "wikilink") (상동)
 
 <!-- end list -->
 
-  - 발매 6일 전인 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [3월 15일에](https://ko.wikipedia.org/wiki/3월_15일 "wikilink") 8기 유학생 [쥰쥰과](https://ko.wikipedia.org/wiki/리쥰 "wikilink") [링링이](../Page/첸링.md "wikilink") 가입했기 때문에, 두 사람은 이 앨범에 참여하지 않았다.
+  - 발매 6일 전인 [2007년](../Page/2007년.md "wikilink") [3월 15일에](../Page/3월_15일.md "wikilink") 8기 유학생 [쥰쥰과](https://ko.wikipedia.org/wiki/리쥰 "wikilink") [링링이](../Page/첸링.md "wikilink") 가입했기 때문에, 두 사람은 이 앨범에 참여하지 않았다.
 
 ## 수록곡
 
@@ -43,7 +43,7 @@
 5.  **** (노래 : [카메이](../Page/카메이_에리.md "wikilink"), [미츠이](https://ko.wikipedia.org/wiki/미쓰이_아이카 "wikilink"))
       -
         작사, 작곡 : 층쿠 / 편곡 : 다카하시 유이치
-6.  **[SEXY BOY \~そよ風に寄り添って\~](https://ko.wikipedia.org/wiki/SEXY_BOY_~소요카제니_요리솟테~ "wikilink")**
+6.  **[SEXY BOY \~そよ風に寄り添って\~](../Page/SEXY_BOY_~소요카제니_요리솟테~.md "wikilink")**
       -
         작사, 작곡 : 층쿠 / 편곡 : 다카하시 유이치
 7.  **[Ambitious\! 野心的でいいじゃん](https://ko.wikipedia.org/wiki/Ambitious!_야신테키데이이장 "wikilink")**
@@ -52,7 +52,7 @@
 8.  **** (노래 : 모닝구무스메 Featuring [요시자와](../Page/요시자와_히토미.md "wikilink"))
       -
         작사, 작곡 : 층쿠 / 편곡 : AKIRA
-9.  **** (노래 : [다카하시](https://ko.wikipedia.org/wiki/다카하시_아이 "wikilink"), [니이가키](../Page/니이가키_리사.md "wikilink"), [후지모토](https://ko.wikipedia.org/wiki/후지모토_미키 "wikilink"), [다나카](https://ko.wikipedia.org/wiki/다나카_레이나 "wikilink"))
+9.  **** (노래 : [다카하시](https://ko.wikipedia.org/wiki/다카하시_아이 "wikilink"), [니이가키](../Page/니이가키_리사.md "wikilink"), [후지모토](../Page/후지모토_미키.md "wikilink"), [다나카](../Page/다나카_레이나.md "wikilink"))
       -
         작사, 작곡 : 층쿠 / 편곡 : 모리오 다카시
 10. **** (노래 : [시게 핑크, 코하 핑크](https://ko.wikipedia.org/wiki/시게_핑크,_코하_핑크 "wikilink"))

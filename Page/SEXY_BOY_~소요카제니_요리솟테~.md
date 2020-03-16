@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [SEXY BOY \~ \~](https://ko.wikipedia.org/wiki/SEXY_BOY_\~_\~).
 
 
-**SEXY BOY \~소요카제니 요리솟테\~**()는 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [3월 15일에](https://ko.wikipedia.org/wiki/3월_15일 "wikilink") 발매 된 [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink")의 스물아홉 번째 싱글이다.
+**SEXY BOY \~소요카제니 요리솟테\~**()는 [2006년](../Page/2006년.md "wikilink") [3월 15일에](../Page/3월_15일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 스물아홉 번째 싱글이다.
 
 ## 개요
 
-  - 봉입된 〈SEXY BOY \~산들바람에 기대\~ 댄스대 해부\!\!〉의 안무 해설은 [다나카 레이나를](https://ko.wikipedia.org/wiki/다나카_레이나 "wikilink") 모델로한 [일러스트](https://ko.wikipedia.org/wiki/일러스트 "wikilink")이다.
+  - 봉입된 〈SEXY BOY \~산들바람에 기대\~ 댄스대 해부\!\!〉의 안무 해설은 [다나카 레이나를](../Page/다나카_레이나.md "wikilink") 모델로한 [일러스트](https://ko.wikipedia.org/wiki/일러스트 "wikilink")이다.
 
 <!-- end list -->
 

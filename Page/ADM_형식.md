@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ADM ](https://ko.wikipedia.org/wiki/ADM_).
 
 
-**아노윗-데세르-미스너 수식 체계**(Arnowitt-Deser-Misner數式體系, , 약자 **ADM 수식 체계**)는 [일반 상대성 이론을](https://ko.wikipedia.org/wiki/일반_상대성_이론 "wikilink") [해밀턴 역학으로](../Page/해밀턴_역학.md "wikilink") 표현하는 방법이다.\[1\]\[2\]\[3\]\[4\]\[5\]\[6\] [시공간](https://ko.wikipedia.org/wiki/시공간 "wikilink")에 공간적 [엽층](../Page/엽층.md "wikilink")을 준 뒤, 엽층의 각 잎의 (시공의 부분 [다양체](https://ko.wikipedia.org/wiki/다양체 "wikilink")로서) 유도된 [계량 텐서에](https://ko.wikipedia.org/wiki/계량_텐서 "wikilink") 대하여 [일반화 운동량을](../Page/일반화_운동량.md "wikilink") 정의한다. 잎의 계량 텐서 및 그 운동량에 포함되지 않는 ([질량 껍질](https://ko.wikipedia.org/wiki/질량_껍질 "wikilink") 밖) 자유도는 [라그랑주 승수](https://ko.wikipedia.org/wiki/라그랑주_승수 "wikilink") 꼴로 나타나, 이론에 [제약](../Page/제약.md "wikilink")을 준다.
+**아노윗-데세르-미스너 수식 체계**(Arnowitt-Deser-Misner數式體系, , 약자 **ADM 수식 체계**)는 [일반 상대성 이론을](https://ko.wikipedia.org/wiki/일반_상대성_이론 "wikilink") [해밀턴 역학으로](../Page/해밀턴_역학.md "wikilink") 표현하는 방법이다.\[1\]\[2\]\[3\]\[4\]\[5\]\[6\] [시공간](https://ko.wikipedia.org/wiki/시공간 "wikilink")에 공간적 [엽층](../Page/엽층.md "wikilink")을 준 뒤, 엽층의 각 잎의 (시공의 부분 [다양체](../Page/다양체.md "wikilink")로서) 유도된 [계량 텐서에](https://ko.wikipedia.org/wiki/계량_텐서 "wikilink") 대하여 [일반화 운동량을](../Page/일반화_운동량.md "wikilink") 정의한다. 잎의 계량 텐서 및 그 운동량에 포함되지 않는 ([질량 껍질](https://ko.wikipedia.org/wiki/질량_껍질 "wikilink") 밖) 자유도는 [라그랑주 승수](https://ko.wikipedia.org/wiki/라그랑주_승수 "wikilink") 꼴로 나타나, 이론에 [제약](../Page/제약.md "wikilink")을 준다.
 
 ## 전개
 
@@ -21,13 +21,13 @@ N_i&g_{ij}
 \[g_{(D+1)}^{\mu\nu}=\begin{pmatrix}
 -1/N^2&g^{ij}N_jN^2\\
 g^{ij}N_j/N^2&g^{ij}-g^{im}g^{jn}N_mN_n/N^2
-\end{pmatrix}\] 여기서 [보조장](https://ko.wikipedia.org/wiki/보조장 "wikilink") \(N\)과 \((N_i)_{i=1,\dots,D}\)는 각각 **경과장**(經過場, ) 및 **이동장**(移動場, )이라고 불린다. \((g^{ij})_{i,j=1,\dots,D})\)는 \((g_{ij})_{i,j=1,\dots,D}\)의 [역행렬](https://ko.wikipedia.org/wiki/역행렬 "wikilink")이다(특히, \((g^{(D+1)}_{\mu\nu})_{\mu,\nu=0,\dots,D})\)의 역행렬의 성분이 아니다). \(g_{(D+1)}^{0,0}\)는 \((g^{(D+1)}_{\mu\nu})_{\mu,\nu=0,\dots,D}\)의 역행렬의 한 성분이다.
+\end{pmatrix}\] 여기서 [보조장](../Page/보조장.md "wikilink") \(N\)과 \((N_i)_{i=1,\dots,D}\)는 각각 **경과장**(經過場, ) 및 **이동장**(移動場, )이라고 불린다. \((g^{ij})_{i,j=1,\dots,D})\)는 \((g_{ij})_{i,j=1,\dots,D}\)의 [역행렬](https://ko.wikipedia.org/wiki/역행렬 "wikilink")이다(특히, \((g^{(D+1)}_{\mu\nu})_{\mu,\nu=0,\dots,D})\)의 역행렬의 성분이 아니다). \(g_{(D+1)}^{0,0}\)는 \((g^{(D+1)}_{\mu\nu})_{\mu,\nu=0,\dots,D}\)의 역행렬의 한 성분이다.
 
-이 경우, \(D+1\)차원 계량 텐서의 [행렬식](https://ko.wikipedia.org/wiki/행렬식 "wikilink")은 다음과 같다.\[8\]
+이 경우, \(D+1\)차원 계량 텐서의 [행렬식](../Page/행렬식.md "wikilink")은 다음과 같다.\[8\]
 
 \[-\det(g_{\mu\nu})=N^2\det(g_{ij})\] 즉, 경과장 \(N\)은 \(D+1\)차원 계량으로 측정한 \(D+1\)차원 초부피 원소([야코비 행렬식](https://ko.wikipedia.org/wiki/야코비_행렬식 "wikilink"))와 \(D\)차원 계량으로 측정한 \(D\)차원 부피 원소(야코비 행렬식)의 비이다.
 
-이러한 분해는 [전자기 퍼텐셜](https://ko.wikipedia.org/wiki/전자기_퍼텐셜 "wikilink") \(A_\mu=(A_0,A_i)\)의 분해와 마찬가지다. 전자기학에서 \(A_0\)가 게이지 변환에 의하여 [라그랑주 승수](https://ko.wikipedia.org/wiki/라그랑주_승수 "wikilink") [보조장](https://ko.wikipedia.org/wiki/보조장 "wikilink")이 되는 것처럼, \(N\)과 \(N_i\) 역시 마찬가지 역할을 한다.
+이러한 분해는 [전자기 퍼텐셜](https://ko.wikipedia.org/wiki/전자기_퍼텐셜 "wikilink") \(A_\mu=(A_0,A_i)\)의 분해와 마찬가지다. 전자기학에서 \(A_0\)가 게이지 변환에 의하여 [라그랑주 승수](https://ko.wikipedia.org/wiki/라그랑주_승수 "wikilink") [보조장](../Page/보조장.md "wikilink")이 되는 것처럼, \(N\)과 \(N_i\) 역시 마찬가지 역할을 한다.
 
 ### 운동량과 작용
 
@@ -49,7 +49,7 @@ g^{ij}N_j/N^2&g^{ij}-g^{im}g^{jn}N_mN_n/N^2
 
 ### 운동 방정식
 
-\(g_{ij}\) 및 \(\pi^{ij}\)에 대한 [오일러-라그랑주 방정식은](https://ko.wikipedia.org/wiki/오일러-라그랑주_방정식 "wikilink") 다음과 같다.
+\(g_{ij}\) 및 \(\pi^{ij}\)에 대한 [오일러-라그랑주 방정식은](../Page/오일러-라그랑주_방정식.md "wikilink") 다음과 같다.
 
 \[\dot g_{ij} = 2Ng^{-1/2} \left( \pi_{ij} - \frac12 \pi g_{ij} \right) + 2\nabla_{(i;j)}\]
 
@@ -57,7 +57,7 @@ g^{ij}N_j/N^2&g^{ij}-g^{im}g^{jn}N_mN_n/N^2
 
 \[-\sqrt{\det(g_{ij})}(\nabla^{i}\nabla^{j}N -g^{ij}\nabla^2N) + \nabla_{n}( \pi^{ij}N^{n} ) -2\pi^{n(i}\nabla_nN^{j)}\]
 
-[보조장](https://ko.wikipedia.org/wiki/보조장 "wikilink")들에 대한 운동 방정식은 다음과 같다.
+[보조장](../Page/보조장.md "wikilink")들에 대한 운동 방정식은 다음과 같다.
 
 \[H=0\]
 

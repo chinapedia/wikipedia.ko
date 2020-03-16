@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [NYC \( \)](https://ko.wikipedia.org/wiki/NYC_\(_\)).
 
 
-**NYC**는, [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 3인조 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") 그룹이다. 소속 사무소는 [쟈니즈 사무소](https://ko.wikipedia.org/wiki/자니스_사무소 "wikilink"). 레코드 레이블은 [쟈니즈 엔터테인먼트](../Page/자니스_엔터테인먼트.md "wikilink").
+**NYC**는, [일본](../Page/일본.md "wikilink")의 3인조 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") 그룹이다. 소속 사무소는 [쟈니즈 사무소](../Page/자니스_사무소.md "wikilink"). 레코드 레이블은 [쟈니즈 엔터테인먼트](../Page/자니스_엔터테인먼트.md "wikilink").
 
 ## 멤버
 
-  - **N** [나카야마 유마](https://ko.wikipedia.org/wiki/나카야마_유마 "wikilink") ([1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") [1월 13일](https://ko.wikipedia.org/wiki/1월_13일 "wikilink") \~ , [오사카부](https://ko.wikipedia.org/wiki/오사카부 "wikilink") 출신) - [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")
-  - **Y** [야마다 료스케](https://ko.wikipedia.org/wiki/야마다_료스케 "wikilink") ([1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") [5월 9일](https://ko.wikipedia.org/wiki/5월_9일 "wikilink") \~ , [도쿄도](https://ko.wikipedia.org/wiki/도쿄도 "wikilink") 출신) - [Hey\! Say\! JUMP](https://ko.wikipedia.org/wiki/헤이!_세이!_점프 "wikilink") 멤버
-  - **C** [치넨 유리](https://ko.wikipedia.org/wiki/치넨_유리 "wikilink") ([1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") [11월 30일](https://ko.wikipedia.org/wiki/11월_30일 "wikilink") \~ , [시즈오카현](https://ko.wikipedia.org/wiki/시즈오카현 "wikilink") 출신) - [Hey\! Say\! JUMP](https://ko.wikipedia.org/wiki/헤이!_세이!_점프 "wikilink") 멤버
+  - **N** [나카야마 유마](../Page/나카야마_유마.md "wikilink") ([1994년](../Page/1994년.md "wikilink") [1월 13일](../Page/1월_13일.md "wikilink") \~ , [오사카부](../Page/오사카부.md "wikilink") 출신) - [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")
+  - **Y** [야마다 료스케](../Page/야마다_료스케.md "wikilink") ([1993년](../Page/1993년.md "wikilink") [5월 9일](../Page/5월_9일.md "wikilink") \~ , [도쿄도](../Page/도쿄도.md "wikilink") 출신) - [Hey\! Say\! JUMP](https://ko.wikipedia.org/wiki/헤이!_세이!_점프 "wikilink") 멤버
+  - **C** [치넨 유리](../Page/치넨_유리.md "wikilink") ([1993년](../Page/1993년.md "wikilink") [11월 30일](../Page/11월_30일.md "wikilink") \~ , [시즈오카현](../Page/시즈오카현.md "wikilink") 출신) - [Hey\! Say\! JUMP](https://ko.wikipedia.org/wiki/헤이!_세이!_점프 "wikilink") 멤버
 
 ## 개요
 
-[2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [3월 2일](https://ko.wikipedia.org/wiki/3월_2일 "wikilink"), 2009년 여름부터 활동하고 있던 기간 한정 유닛 NYCboys의 멤버에서, 야마다 료스케·치넨 유리·나카야마 유마의 3명이 〈NYC〉로서 정식 데뷔하는 것이 발표된다\[1\]. 유닛명은 쟈니즈 사무소 사장인 [쟈니 키타가와가](https://ko.wikipedia.org/wiki/자니_키타가와 "wikilink") 붙인 것으로, 멤버인 야마다·치넨·나카야마의 이니셜을 각각 붙인 것과 함께, 뉴욕 시티(**N**ew **Y**ork **C**ity)에도 관련되어 있다\[2\].
+[2010년](../Page/2010년.md "wikilink") [3월 2일](../Page/3월_2일.md "wikilink"), 2009년 여름부터 활동하고 있던 기간 한정 유닛 NYCboys의 멤버에서, 야마다 료스케·치넨 유리·나카야마 유마의 3명이 〈NYC〉로서 정식 데뷔하는 것이 발표된다\[1\]. 유닛명은 쟈니즈 사무소 사장인 [쟈니 키타가와가](../Page/자니_키타가와.md "wikilink") 붙인 것으로, 멤버인 야마다·치넨·나카야마의 이니셜을 각각 붙인 것과 함께, 뉴욕 시티(**N**ew **Y**ork **C**ity)에도 관련되어 있다\[2\].
 
 이후, [Hey\! Say\! JUMP로서](https://ko.wikipedia.org/wiki/헤이!_세이!_점프 "wikilink") 이미 데뷔했던 야마다·치넨은, 두 그룹을 겸해 활동하고 있다.
 

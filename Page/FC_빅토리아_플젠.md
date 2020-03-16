@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
 
 
-**FC 빅토리아 플젠**()은 [플젠](https://ko.wikipedia.org/wiki/플젠 "wikilink")을 연고로 하는 [체코](https://ko.wikipedia.org/wiki/체코 "wikilink")의 축구 클럽이다. 이 팀은 [1911년](https://ko.wikipedia.org/wiki/1911년 "wikilink")에 창단되었으며, 현재 [감브리누스리가](https://ko.wikipedia.org/wiki/감브리누스리가 "wikilink")에 출전하고 있다.
+**FC 빅토리아 플젠**()은 [플젠](../Page/플젠.md "wikilink")을 연고로 하는 [체코](../Page/체코.md "wikilink")의 축구 클럽이다. 이 팀은 [1911년](../Page/1911년.md "wikilink")에 창단되었으며, 현재 [감브리누스리가](https://ko.wikipedia.org/wiki/감브리누스리가 "wikilink")에 출전하고 있다.
 
 1970-71 [체코슬로바키아 컵에서](https://ko.wikipedia.org/wiki/체코슬로바키아_컵 "wikilink") 준우승을 차지하면서 다음 시즌에 열린 [UEFA 컵 위너스컵에](https://ko.wikipedia.org/wiki/UEFA_컵_위너스컵 "wikilink") 출전했다. 한편 우승 팀인 [FC 스파르타크 트르나바는](../Page/FC_스파르타크_트르나바.md "wikilink") [유러피언컵에](../Page/UEFA_챔피언스리그.md "wikilink") 출전했다.
 

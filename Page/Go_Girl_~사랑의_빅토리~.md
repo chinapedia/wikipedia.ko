@@ -1,19 +1,19 @@
 > This article is converted from Wikipedia: [Go Girl \~ \~](https://ko.wikipedia.org/wiki/Go_Girl_\~_\~).
 
 
-**Go Girl \~사랑의 빅토리\~**()는 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [11월 6일에](https://ko.wikipedia.org/wiki/11월_6일 "wikilink") 발매 된 [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink")의 스물 번째 싱글이다.
+**Go Girl \~사랑의 빅토리\~**()는 [2003년](../Page/2003년.md "wikilink") [11월 6일에](../Page/11월_6일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 스물 번째 싱글이다.
 
 ## 개요
 
-  - 2003년 [11월 22일](https://ko.wikipedia.org/wiki/11월_22일 "wikilink") [후지 TV에서](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 방송 된 [드라마](https://ko.wikipedia.org/wiki/텔레비전_드라마 "wikilink") 《[VICTORY\!〜풋걸즈의 청춘〜](https://ko.wikipedia.org/wiki/VICTORY!〜풋걸즈의_청춘〜 "wikilink")》 주제가이다. 때문에 [헬로\! 프로젝트](https://ko.wikipedia.org/wiki/하로프로젝트 "wikilink") 여자 연예인 [풋살](https://ko.wikipedia.org/wiki/풋살 "wikilink")팀 [갓타스 브릴리언티스 H.P.의](../Page/갓타스_브릴리언티스_H.P..md "wikilink") 주제곡으로써, 풋살 시합장에서 응원가로 기용되거나, 풋살 관련 프로그램에서 사용되었다. 음악 프로그램에서 선보일 때는 갓타스 브릴리언티스 H.P.의 유니폼과 비슷한 의상을 입기도 하였다.
+  - 2003년 [11월 22일](../Page/11월_22일.md "wikilink") [후지 TV에서](../Page/후지_TV.md "wikilink") 방송 된 [드라마](../Page/텔레비전_드라마.md "wikilink") 《[VICTORY\!〜풋걸즈의 청춘〜](https://ko.wikipedia.org/wiki/VICTORY!〜풋걸즈의_청춘〜 "wikilink")》 주제가이다. 때문에 [헬로\! 프로젝트](https://ko.wikipedia.org/wiki/하로프로젝트 "wikilink") 여자 연예인 [풋살](../Page/풋살.md "wikilink")팀 [갓타스 브릴리언티스 H.P.의](../Page/갓타스_브릴리언티스_H.P..md "wikilink") 주제곡으로써, 풋살 시합장에서 응원가로 기용되거나, 풋살 관련 프로그램에서 사용되었다. 음악 프로그램에서 선보일 때는 갓타스 브릴리언티스 H.P.의 유니폼과 비슷한 의상을 입기도 하였다.
 
 <!-- end list -->
 
-  - [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink") 싱글 중 유일하게 솔로 파트가 없는 곡이다.
+  - [모닝구무스메](../Page/모닝구무스메.md "wikilink") 싱글 중 유일하게 솔로 파트가 없는 곡이다.
 
 <!-- end list -->
 
-  - [뮤직 비디오에서는](https://ko.wikipedia.org/wiki/뮤직_비디오 "wikilink") 멤버 한 명씩 카메라에 대고 "좋아해"라고 속삭이는 장면이 수록되었다.
+  - [뮤직 비디오에서는](../Page/뮤직_비디오.md "wikilink") 멤버 한 명씩 카메라에 대고 "좋아해"라고 속삭이는 장면이 수록되었다.
 
 <!-- end list -->
 
@@ -21,7 +21,7 @@
 
 <!-- end list -->
 
-  - [하로프로대만](https://ko.wikipedia.org/wiki/하로프로대만 "wikilink")의 그룹 [아이스크림무스메](https://ko.wikipedia.org/wiki/아이스크림무스메 "wikilink")의 첫 번째 [미니 앨범](../Page/익스텐디드_플레이.md "wikilink") **1st 최고\!**에 이 곡의 [중국어](https://ko.wikipedia.org/wiki/중국어 "wikilink") 커버 버전이 수록되었다.
+  - [하로프로대만](https://ko.wikipedia.org/wiki/하로프로대만 "wikilink")의 그룹 [아이스크림무스메](../Page/아이스크림무스메.md "wikilink")의 첫 번째 [미니 앨범](../Page/익스텐디드_플레이.md "wikilink") **1st 최고\!**에 이 곡의 [중국어](../Page/중국어.md "wikilink") 커버 버전이 수록되었다.
 
 <!-- end list -->
 

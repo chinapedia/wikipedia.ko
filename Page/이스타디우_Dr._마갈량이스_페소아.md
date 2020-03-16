@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ Dr.  ](https://ko.wikipedia.org/wiki/_Dr.__).
 
 
-**이스타디우 Dr. 마갈량이스 페소아**()는 [포르투갈](https://ko.wikipedia.org/wiki/포르투갈 "wikilink") [레이리아](https://ko.wikipedia.org/wiki/레이리아 "wikilink")에 위치한 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 경기장으로, [UD 레이리아의](../Page/UD_레이리아.md "wikilink") 홈구장으로 사용되고 있으며 30,000명을 수용할 수 있다. [UEFA 유로 2004](https://ko.wikipedia.org/wiki/UEFA_유로_2004 "wikilink") 경기장으로 선정되었다.
+**이스타디우 Dr. 마갈량이스 페소아**()는 [포르투갈](../Page/포르투갈.md "wikilink") [레이리아](https://ko.wikipedia.org/wiki/레이리아 "wikilink")에 위치한 [축구](../Page/축구.md "wikilink") 경기장으로, [UD 레이리아의](../Page/UD_레이리아.md "wikilink") 홈구장으로 사용되고 있으며 30,000명을 수용할 수 있다. [UEFA 유로 2004](https://ko.wikipedia.org/wiki/UEFA_유로_2004 "wikilink") 경기장으로 선정되었다.
 
 ## 외부 링크
 

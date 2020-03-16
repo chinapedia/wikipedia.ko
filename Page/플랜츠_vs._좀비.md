@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ vs. ](https://ko.wikipedia.org/wiki/_vs._).
 
 
-《**플랜츠 vs. 좀비**》(Plants vs. Zombies)는 [팝캡 게임즈에서](https://ko.wikipedia.org/wiki/팝캡_게임즈 "wikilink") 개발한 디펜스류 게임이다. 기본적으로 [마이크로소프트 윈도용과](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") [맥 OS X용의](https://ko.wikipedia.org/wiki/맥_OS_X "wikilink") 이진 버전과 웹 플래시 버전이 온라인 상으로 제공된다. 웹 플래시 버전과 달리 이진 버전의 경우 HD 화질을 만끽할 수 있다. 2010년 9월 8일에 [엑스박스 라이브](https://ko.wikipedia.org/wiki/엑스박스_라이브 "wikilink") 아케이드 버전이 출시되었다. 2011년 1월 18일에 [닌텐도 DS](https://ko.wikipedia.org/wiki/닌텐도_DS "wikilink") 플랫폼용으로 출시되었고 2011년 2월에 [플레이스테이션 3](https://ko.wikipedia.org/wiki/플레이스테이션_3 "wikilink") 버전이 출시되었다. 안드로이드 버전은 2011년 5월 31일에 출시되었다.
+《**플랜츠 vs. 좀비**》(Plants vs. Zombies)는 [팝캡 게임즈에서](https://ko.wikipedia.org/wiki/팝캡_게임즈 "wikilink") 개발한 디펜스류 게임이다. 기본적으로 [마이크로소프트 윈도용과](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") [맥 OS X용의](https://ko.wikipedia.org/wiki/맥_OS_X "wikilink") 이진 버전과 웹 플래시 버전이 온라인 상으로 제공된다. 웹 플래시 버전과 달리 이진 버전의 경우 HD 화질을 만끽할 수 있다. 2010년 9월 8일에 [엑스박스 라이브](https://ko.wikipedia.org/wiki/엑스박스_라이브 "wikilink") 아케이드 버전이 출시되었다. 2011년 1월 18일에 [닌텐도 DS](../Page/닌텐도_DS.md "wikilink") 플랫폼용으로 출시되었고 2011년 2월에 [플레이스테이션 3](../Page/플레이스테이션_3.md "wikilink") 버전이 출시되었다. 안드로이드 버전은 2011년 5월 31일에 출시되었다.
 
 ## 각주
 

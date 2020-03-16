@@ -15,7 +15,7 @@
 
   - [오라클 BPEL 프로세스 매니저](https://ko.wikipedia.org/wiki/오라클_BPEL_프로세스_매니저 "wikilink")
 
-  - [오라클 웹 서비스 매니저](https://ko.wikipedia.org/wiki/오라클_웹_서비스_매니저 "wikilink") - [웹 서비스를](https://ko.wikipedia.org/wiki/웹_서비스 "wikilink") 위한 보안 및 모니터링 제품<ref>
+  - [오라클 웹 서비스 매니저](https://ko.wikipedia.org/wiki/오라클_웹_서비스_매니저 "wikilink") - [웹 서비스를](../Page/웹_서비스.md "wikilink") 위한 보안 및 모니터링 제품<ref>
 
   -
 </ref>

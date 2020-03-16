@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [GS](https://ko.wikipedia.org/wiki/GS).
 
 
-**GS건설**(지에스建設)은 1969년 설립되어 대한민국에 본사를 둔, GS그룹에 소속된 건설 회사이다. 종합건설회사로 플랜트, 토목, 주택 등의 다양한 건설 사업을 하고 있으며, 전 세계 시장을 사업영역으로 하고 있다. 본사는 [서울특별시](https://ko.wikipedia.org/wiki/서울특별시 "wikilink") [종로구](https://ko.wikipedia.org/wiki/종로구 "wikilink") 종로 33 그랑서울 빌딩에 있다.
+**GS건설**(지에스建設)은 1969년 설립되어 대한민국에 본사를 둔, GS그룹에 소속된 건설 회사이다. 종합건설회사로 플랜트, 토목, 주택 등의 다양한 건설 사업을 하고 있으며, 전 세계 시장을 사업영역으로 하고 있다. 본사는 [서울특별시](../Page/서울특별시.md "wikilink") [종로구](../Page/종로구.md "wikilink") 종로 33 그랑서울 빌딩에 있다.
 
 2018년 기준 7조 9259억 원의 실적으로 시공능력평가 5위이다. 2017년보다 1계단 상승했다.\[1\]
 
@@ -23,14 +23,14 @@
   - 2000년 동양 최대의 서해대교 건설공사를 완공하여 2000년 대통령 표창을 받았다.
   - 2002년 7월 증권거래소 선정 기업지배구조 경영투명성관련 우수기업으로 선정.
   - 2004년 11월 제6회 한경 IR대상 ‘사이버 IR상’을 수상, 같은 해 대표적인 브랜드 ‘자이’가 소비자웰빙지수 1위 브랜드로 선정.
-  - 2005년 1월 [LG그룹](../Page/LG그룹.md "wikilink")이 LG그룹과 [GS그룹](https://ko.wikipedia.org/wiki/GS그룹 "wikilink")으로 분리.
+  - 2005년 1월 [LG그룹](../Page/LG그룹.md "wikilink")이 LG그룹과 [GS그룹](../Page/GS그룹.md "wikilink")으로 분리.
   - 2005년 3월 현재의 상호인 GS건설로 변경.
   - 2008년 3월 신·재생에너지 전문업, 토양정화업, 지하수정화업, 부동산 개발업을 사업목적에 추가하였다.
-  - 2014년 1월 사옥을 중구 남대문로 5가 537번지 GS역전타워에서 [서울특별시](https://ko.wikipedia.org/wiki/서울특별시 "wikilink") [종로구](https://ko.wikipedia.org/wiki/종로구 "wikilink") 종로 33 그랑서울로 이전
+  - 2014년 1월 사옥을 중구 남대문로 5가 537번지 GS역전타워에서 [서울특별시](../Page/서울특별시.md "wikilink") [종로구](../Page/종로구.md "wikilink") 종로 33 그랑서울로 이전
 
 ## 브랜드
 
-**[자이(XI)](../Page/자이_\(아파트\).md "wikilink")**는 eXtra Intelligent(특별한 지성)의 약자이므로, [인천도시공사](https://ko.wikipedia.org/wiki/인천도시공사 "wikilink")의 송도웰카운티 1단지의 경우, 도급업체인 GS건설에서 시공하였다.
+**[자이(XI)](../Page/자이_\(아파트\).md "wikilink")**는 eXtra Intelligent(특별한 지성)의 약자이므로, [인천도시공사](../Page/인천도시공사.md "wikilink")의 송도웰카운티 1단지의 경우, 도급업체인 GS건설에서 시공하였다.
 
 ## 각주
 
@@ -42,7 +42,7 @@
   - [대한건설협회](../Page/대한건설협회.md "wikilink")
   - [해외건설협회](../Page/해외건설협회.md "wikilink")
   - [국토교통부](https://ko.wikipedia.org/wiki/국토교통부 "wikilink")
-  - [건설워커](https://ko.wikipedia.org/wiki/건설워커 "wikilink")
+  - [건설워커](../Page/건설워커.md "wikilink")
   - [한국건설기술인협회](https://ko.wikipedia.org/wiki/한국건설기술인협회 "wikilink")
   - [한국건설기술연구원](../Page/한국건설기술연구원.md "wikilink")
 

@@ -5,7 +5,7 @@
 
 ## 개요
 
-표제곡 〈Sexy Zone〉은, 《[배구 월드컵 2011](https://ko.wikipedia.org/wiki/배구_월드컵 "wikilink")》의 [후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 계열 프로그램 이미지 송으로 기용되었다\[1\]\[2\]\[3\]\[4\]\[5\].
+표제곡 〈Sexy Zone〉은, 《[배구 월드컵 2011](https://ko.wikipedia.org/wiki/배구_월드컵 "wikilink")》의 [후지 TV](../Page/후지_TV.md "wikilink") 계열 프로그램 이미지 송으로 기용되었다\[1\]\[2\]\[3\]\[4\]\[5\].
 
 ## 수록곡
 

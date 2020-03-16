@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ IT\'S ALL RIGHT](https://ko.wikipedia.org/wiki/_IT\'S_ALL_RIGHT).
 
 
-**아이아라바 IT'S ALL RIGHT**()는 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [1월 21일에](https://ko.wikipedia.org/wiki/1월_21일 "wikilink") 발매 된 [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink")의 스물한 번째 싱글이다.
+**아이아라바 IT'S ALL RIGHT**()는 [2004년](../Page/2004년.md "wikilink") [1월 21일에](../Page/1월_21일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 스물한 번째 싱글이다.
 
 ## 개요
 
@@ -13,7 +13,7 @@
 
 <!-- end list -->
 
-  - [뮤직 비디오와](https://ko.wikipedia.org/wiki/뮤직_비디오 "wikilink") 음악 프로그램 출연 의상은 [베레](../Page/베레.md "wikilink")모와 재킷, 체크 [치마](https://ko.wikipedia.org/wiki/치마 "wikilink")이다. 베레모와 재킷은 [분홍](../Page/분홍.md "wikilink")색과 [하늘색](../Page/하늘색.md "wikilink").
+  - [뮤직 비디오와](../Page/뮤직_비디오.md "wikilink") 음악 프로그램 출연 의상은 [베레](../Page/베레.md "wikilink")모와 재킷, 체크 [치마](../Page/치마.md "wikilink")이다. 베레모와 재킷은 [분홍](../Page/분홍.md "wikilink")색과 [하늘색](../Page/하늘색.md "wikilink").
 
 ## 수록곡
 

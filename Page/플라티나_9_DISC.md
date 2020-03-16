@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ 9 DISC](https://ko.wikipedia.org/wiki/_9_DISC).
 
 
-**플라티나 9 DISC**(, PLATINA 9 DISC : PLATINUM 9 DISC)는 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [3월 18일에](https://ko.wikipedia.org/wiki/3월_18일 "wikilink") 발매 된 [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink")의 아홉 번째 정규 앨범이다.
+**플라티나 9 DISC**(, PLATINA 9 DISC : PLATINUM 9 DISC)는 [2009년](../Page/2009년.md "wikilink") [3월 18일에](../Page/3월_18일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 아홉 번째 정규 앨범이다.
 
 ## 개요
 
@@ -9,7 +9,7 @@
 
 <!-- end list -->
 
-  - [슬픔의 트와일라잇은](https://ko.wikipedia.org/wiki/가나시미_트와일라잇 "wikilink"), [요시자와 히토미](../Page/요시자와_히토미.md "wikilink"), [후지모토 미키가](https://ko.wikipedia.org/wiki/후지모토_미키 "wikilink") 재적해 있을 때의 노래이다.
+  - [슬픔의 트와일라잇은](https://ko.wikipedia.org/wiki/가나시미_트와일라잇 "wikilink"), [요시자와 히토미](../Page/요시자와_히토미.md "wikilink"), [후지모토 미키가](../Page/후지모토_미키.md "wikilink") 재적해 있을 때의 노래이다.
 
 <!-- end list -->
 
@@ -31,13 +31,13 @@
 1.  **SONGS**
       -
         작사, 작곡 : 층쿠 / 편곡 : 다나카 나오
-2.  **[リゾナント ブルー](https://ko.wikipedia.org/wiki/리조난트_블루 "wikilink")**
+2.  **[リゾナント ブルー](../Page/리조난트_블루.md "wikilink")**
       -
         작사, 작곡 : 층쿠 / 편곡 : 스즈키Daichi히데유키
 3.  ****
       -
         작사 : 층쿠, 정소인 (중국어) / 작곡 : 층쿠 / 편곡 : 유아사 고이치
-4.  **Take off is now\!** (노래 : [다카하시 아이](https://ko.wikipedia.org/wiki/다카하시_아이 "wikilink"), [니이가키 리사](../Page/니이가키_리사.md "wikilink"), [다나카 레이나](https://ko.wikipedia.org/wiki/다나카_레이나 "wikilink"))
+4.  **Take off is now\!** (노래 : [다카하시 아이](https://ko.wikipedia.org/wiki/다카하시_아이 "wikilink"), [니이가키 리사](../Page/니이가키_리사.md "wikilink"), [다나카 레이나](../Page/다나카_레이나.md "wikilink"))
       -
         작사, 작곡 : 층쿠 / 편곡 : 다나카 나오
 5.  **[泣いちゃうかも](https://ko.wikipedia.org/wiki/나이차우카모 "wikilink")**
@@ -49,13 +49,13 @@
 7.  **JUMP** (노래 : [쿠스미 코하루](../Page/쿠스미_코하루.md "wikilink"), [쥰쥰](https://ko.wikipedia.org/wiki/리쥰 "wikilink"), [링링](../Page/첸링.md "wikilink"))
       -
         작사, 작곡 : 층쿠 / 편곡 : 오쿠보 카오루
-8.  **[みかん](https://ko.wikipedia.org/wiki/미캉 "wikilink")**
+8.  **[みかん](../Page/미캉.md "wikilink")**
       -
         작사, 작곡 : 층쿠 / 편곡 : 스즈키Daichi히데유키
 9.  **** (노래 : 다카하시 아이, 니이가키 리사, 다나카 레이나)
       -
         작사, 작곡 : 층쿠 / 편곡 : 스즈키Daichi히데유키
-10. **It's You** (노래 : [미치시게 사유미](https://ko.wikipedia.org/wiki/미치시게_사유미 "wikilink"))
+10. **It's You** (노래 : [미치시게 사유미](../Page/미치시게_사유미.md "wikilink"))
       -
         작사, 작곡 : 층쿠 / 편곡 : 다나카 나오
 11. **[女に 幸あれ](https://ko.wikipedia.org/wiki/온나니_사치아레 "wikilink")**

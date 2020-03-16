@@ -1,21 +1,21 @@
 > This article is converted from Wikipedia: [HKT48](https://ko.wikipedia.org/wiki/HKT48).
 
 
-**HKT48**(에이치케이티포티에이트)는 [아키모토 야스시의](https://ko.wikipedia.org/wiki/아키모토_야스시 "wikilink") 완전 프로듀스에 의해 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink")에 탄생한 [규슈 지방을](https://ko.wikipedia.org/wiki/규슈_지방 "wikilink") 중심으로 활동하는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [여성](../Page/여성.md "wikilink") [아이돌 그룹이다](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink").
+**HKT48**(에이치케이티포티에이트)는 [아키모토 야스시의](../Page/아키모토_야스시.md "wikilink") 완전 프로듀스에 의해 [2011년](../Page/2011년.md "wikilink")에 탄생한 [규슈 지방을](https://ko.wikipedia.org/wiki/규슈_지방 "wikilink") 중심으로 활동하는 [일본](../Page/일본.md "wikilink")의 [여성](../Page/여성.md "wikilink") [아이돌 그룹이다](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink").
 
 ## 개요
 
-  - [도쿄도](https://ko.wikipedia.org/wiki/도쿄도 "wikilink") [치요다구](https://ko.wikipedia.org/wiki/치요다구 "wikilink")의 아키하바라를 거점으로 하는 [AKB48](../Page/AKB48.md "wikilink"), [아이치현](https://ko.wikipedia.org/wiki/아이치현 "wikilink") [나고야시](https://ko.wikipedia.org/wiki/나고야시 "wikilink")의 영을 거점으로 하는 [SKE48](https://ko.wikipedia.org/wiki/SKE48 "wikilink"), [오사카부](https://ko.wikipedia.org/wiki/오사카부 "wikilink") [오사카시](https://ko.wikipedia.org/wiki/오사카시 "wikilink")의 나니와를 거점으로 하는 [NMB48](../Page/NMB48.md "wikilink")에 계속되는 전국 전개 제4탄으로서 [후쿠오카현](https://ko.wikipedia.org/wiki/후쿠오카현 "wikilink") [후쿠오카시](https://ko.wikipedia.org/wiki/후쿠오카시 "wikilink")가 선택되었다.
-  - 「HKT」라는 이름은 [후쿠오카시](https://ko.wikipedia.org/wiki/후쿠오카시 "wikilink")의 대표 지역의 하카타(**H**A**K**A**T**A)에 유래한다. 하지만, 전용 극장의 예정지는 하카타는 아니다.
+  - [도쿄도](../Page/도쿄도.md "wikilink") [치요다구](https://ko.wikipedia.org/wiki/치요다구 "wikilink")의 아키하바라를 거점으로 하는 [AKB48](../Page/AKB48.md "wikilink"), [아이치현](../Page/아이치현.md "wikilink") [나고야시](../Page/나고야시.md "wikilink")의 영을 거점으로 하는 [SKE48](../Page/SKE48.md "wikilink"), [오사카부](../Page/오사카부.md "wikilink") [오사카시](../Page/오사카시.md "wikilink")의 나니와를 거점으로 하는 [NMB48](../Page/NMB48.md "wikilink")에 계속되는 전국 전개 제4탄으로서 [후쿠오카현](../Page/후쿠오카현.md "wikilink") [후쿠오카시](../Page/후쿠오카시.md "wikilink")가 선택되었다.
+  - 「HKT」라는 이름은 [후쿠오카시](../Page/후쿠오카시.md "wikilink")의 대표 지역의 하카타(**H**A**K**A**T**A)에 유래한다. 하지만, 전용 극장의 예정지는 하카타는 아니다.
   - 최종 멤버 전형 오디션에 심사원의 한 명으로 참가한 [AKB48 극장](../Page/AKB48_극장.md "wikilink") 지배인 [토가사키 토모노부는](https://ko.wikipedia.org/wiki/토가사키_토모노부 "wikilink") 합격자에게 대해서, AKB48 팀A의 오디션을 인용해 「전혀 춤출 수 없었다」, 라고 말하였다.
 
 ### HKT48 극장
 
-  - 후쿠오카 시 [주오구](https://ko.wikipedia.org/wiki/주오구 "wikilink") 호크스 타운 몰에 2011년 [10월](https://ko.wikipedia.org/wiki/10월 "wikilink")에 개업을 시작했다.
-  - 수용 인원수는 300명과 AKB48 그룹의 극장으로서는 최다 인원수를 자랑한다. 중 260석이 일반 추첨범위가 되어, 그 외 [후쿠오카](https://ko.wikipedia.org/wiki/후쿠오카현 "wikilink") · [사가](https://ko.wikipedia.org/wiki/사가현 "wikilink") · [구마모토](https://ko.wikipedia.org/wiki/구마모토현 "wikilink") 3현 이외의 도도부현 거주자에 대해 「먼 곳으로부터 행차의 고객」범위로서 20석, 「패밀리 커플로 행차의 고객」범위로서 10석, 「여성 · 초·중학생의 고객」범위로서 10석이 각각 할당해진다. 티켓의 응모 접수는 해당 극장 공연일의 3일(「먼 곳」범위만 5일) 전의 0시부터 20시의 사이, HKT48 티켓 센터 경유로 행해져 극장 흘리기가 되는 2011년 11월 26일 공연의 시점에서의 티켓 요금은 전석 1000엔.
+  - 후쿠오카 시 [주오구](https://ko.wikipedia.org/wiki/주오구 "wikilink") 호크스 타운 몰에 2011년 [10월](../Page/10월.md "wikilink")에 개업을 시작했다.
+  - 수용 인원수는 300명과 AKB48 그룹의 극장으로서는 최다 인원수를 자랑한다. 중 260석이 일반 추첨범위가 되어, 그 외 [후쿠오카](../Page/후쿠오카현.md "wikilink") · [사가](../Page/사가현.md "wikilink") · [구마모토](../Page/구마모토현.md "wikilink") 3현 이외의 도도부현 거주자에 대해 「먼 곳으로부터 행차의 고객」범위로서 20석, 「패밀리 커플로 행차의 고객」범위로서 10석, 「여성 · 초·중학생의 고객」범위로서 10석이 각각 할당해진다. 티켓의 응모 접수는 해당 극장 공연일의 3일(「먼 곳」범위만 5일) 전의 0시부터 20시의 사이, HKT48 티켓 센터 경유로 행해져 극장 흘리기가 되는 2011년 11월 26일 공연의 시점에서의 티켓 요금은 전석 1000엔.
   - 스테이지에는 하나미치가 스테이지 중앙부로부터 관객석으로 향해 설치되어 하나미치 첨단부에는 내다 붙여 무대가 있다.
-  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink")부터 후쿠오카 시 주오 구 텐진의 솔라리아 스테이지 6층의「니시테츠 홀」을 본고지 극장으로 개장.
-  - [2020년](https://ko.wikipedia.org/wiki/2020년 "wikilink") [봄](https://ko.wikipedia.org/wiki/봄 "wikilink")부터 HKT48 극장 (신극장) 개업 예정.
+  - [2016년](../Page/2016년.md "wikilink") [4월](../Page/4월.md "wikilink")부터 후쿠오카 시 주오 구 텐진의 솔라리아 스테이지 6층의「니시테츠 홀」을 본고지 극장으로 개장.
+  - [2020년](../Page/2020년.md "wikilink") [봄](../Page/봄.md "wikilink")부터 HKT48 극장 (신극장) 개업 예정.
 
 ### AKB48나 다른 자매 그룹와의 비교
 
@@ -138,7 +138,7 @@
 <td><p>79</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/마츠오카_나츠미" title="wikilink">마츠오카 나츠미</a></strong></p></td>
+<td><p><strong><a href="../Page/마츠오카_나츠미.md" title="wikilink">마츠오카 나츠미</a></strong></p></td>
 <td><p><strong>松岡菜摘</strong></p></td>
 <td><p><strong>まつおか なつみ</strong></p></td>
 <td><p><strong></strong></p></td>
@@ -281,7 +281,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/무라시게_안나" title="wikilink">무라시게 안나</a></p></td>
+<td><p><a href="../Page/무라시게_안나.md" title="wikilink">무라시게 안나</a></p></td>
 <td><p>村重杏奈</p></td>
 <td><p>むらしげ あんな</p></td>
 <td></td>
@@ -744,7 +744,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/미야와키_사쿠라" title="wikilink">미야와키 사쿠라</a></p></td>
+<td><p><a href="../Page/미야와키_사쿠라.md" title="wikilink">미야와키 사쿠라</a></p></td>
 <td><p>宮脇咲良</p></td>
 <td><p>みやわき さくら</p></td>
 <td></td>
@@ -845,7 +845,7 @@
 <td><p>-</p></td>
 <td><p>와타나베 엔터테인먼트</p></td>
 <td><p>팀KIV 내정<br />
-<a href="https://ko.wikipedia.org/wiki/SKE48" title="wikilink">SKE48</a> 팀E 이적</p></td>
+<a href="../Page/SKE48.md" title="wikilink">SKE48</a> 팀E 이적</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -881,7 +881,7 @@
 <td><p>2015년 5월 25일</p></td>
 <td><p>-</p></td>
 <td><p>겸임해제<br />
-재적시는 <a href="https://ko.wikipedia.org/wiki/SKE48" title="wikilink">SKE48</a> 팀E 겸임</p></td>
+재적시는 <a href="../Page/SKE48.md" title="wikilink">SKE48</a> 팀E 겸임</p></td>
 <td><p>31위</p></td>
 <td></td>
 </tr>
@@ -958,7 +958,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/오오타_아이카" title="wikilink">오오타 아이카</a></p></td>
+<td><p><a href="../Page/오오타_아이카.md" title="wikilink">오오타 아이카</a></p></td>
 <td><p>多田愛佳</p></td>
 <td><p>おおた あいか</p></td>
 <td></td>
@@ -1083,7 +1083,7 @@
 <td><p>38위</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/사시하라_리노" title="wikilink">사시하라 리노</a></p></td>
+<td><p><a href="../Page/사시하라_리노.md" title="wikilink">사시하라 리노</a></p></td>
 <td><p>指原莉乃</p></td>
 <td><p>さしはら りの</p></td>
 <td></td>
@@ -1094,7 +1094,7 @@
 <td><p>전 HKT48 극장 지배인<br />
 전 AKB48 팀B→A<br />
 전 STU48 극장 지배인 겸임<br />
-<a href="../Page/=LOVE.md" title="wikilink">=LOVE</a>, <a href="https://ko.wikipedia.org/wiki/≠ME" title="wikilink">≠ME</a>의 프로듀서</p></td>
+<a href="../Page/=LOVE.md" title="wikilink">=LOVE</a>, <a href="../Page/≠ME.md" title="wikilink">≠ME</a>의 프로듀서</p></td>
 <td><p>1위</p></td>
 </tr>
 <tr class="odd">
@@ -1525,7 +1525,7 @@
 <td><p>팀H 1st Stage</p></td>
 <td></td>
 <td><p>손을 잡으면서</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2013년" title="wikilink">2013년</a> <a href="https://ko.wikipedia.org/wiki/7월_6일" title="wikilink">7월 6일</a></p></td>
+<td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/7월_6일.md" title="wikilink">7월 6일</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -1557,35 +1557,35 @@
 <td><p>팀H 1st Stage</p></td>
 <td></td>
 <td><p>손을 잡으면서</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2013년" title="wikilink">2013년</a> <a href="https://ko.wikipedia.org/wiki/7월_6일" title="wikilink">7월 6일</a></p></td>
+<td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/7월_6일.md" title="wikilink">7월 6일</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
 <td><p>팀H</p></td>
 <td></td>
 <td><p>하카타 레전드</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2014년" title="wikilink">2014년</a> <a href="https://ko.wikipedia.org/wiki/1월_9일" title="wikilink">1월 9일</a></p></td>
+<td><p><a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/1월_9일.md" title="wikilink">1월 9일</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
 <td><p>-</p></td>
 <td></td>
 <td><p>HKT48 3주년 3days+HKT48 극장 3주년 기념 특별 공연</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2015년" title="wikilink">2015년</a> <a href="https://ko.wikipedia.org/wiki/6월_16일" title="wikilink">6월 16일</a></p></td>
+<td><p><a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/6월_16일.md" title="wikilink">6월 16일</a></p></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
 <td><p>-</p></td>
 <td></td>
 <td><p>HKT48 극장 4주년 기념 특별 공연</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2016년" title="wikilink">2016년</a> <a href="https://ko.wikipedia.org/wiki/3월_29일" title="wikilink">3월 29일</a></p></td>
+<td><p><a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/3월_29일.md" title="wikilink">3월 29일</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
 <td><p>-</p></td>
 <td></td>
 <td><p>HKT48 5th ANNIVERSARY ~39시간 꼬박 축제! 모두 "땡큐야!"~</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2017년" title="wikilink">2017년</a> <a href="https://ko.wikipedia.org/wiki/봄" title="wikilink">봄</a></p></td>
+<td><p><a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/봄.md" title="wikilink">봄</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -1599,31 +1599,31 @@
 
 #### 콘서트
 
-| 순서 | 타이틀                                            | 의미                                                   | 발매일                                                                                                               |
-| -- | ---------------------------------------------- | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| 1  | HKT48 九州7県ツアー 〜可愛い子には旅をさせよ〜                    | HKT48 큐슈 7현 투어 \~귀여운 자식은 여행을 보내자\~                   | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [7월 25일](https://ko.wikipedia.org/wiki/7월_25일 "wikilink") |
-| 2  | HKT48アリーナツアー 〜可愛い子にはもっと旅をさせよ〜 海の中道海浜公園         | HKT48 아레나 투어 \~귀여운 자식은 여행을 보내자\~ 우미노 나카미치 해변공원       | 2014년 [11월 22일](https://ko.wikipedia.org/wiki/11월_22일 "wikilink")                                                 |
-| 3  | HKT48 全国ツアー 〜全国統一終わっとらんけん〜 番外編 in 台北＆香港        | HKT48 전국 투어 \~전국 통일 끝나지 않았고\~ 외국편 in 대만&홍콩           | [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [4월 14일](https://ko.wikipedia.org/wiki/4월_14일 "wikilink") |
-| 4  | HKT48全国ツアー 〜全国統一終わっとらんけん〜 FINAL in 横浜アリーナ      | HKT48 전국 투어 \~전국 통일 끝나지 않았고\~ FINAL in 요코하마 아레나      | 2015년 [10월 14일](https://ko.wikipedia.org/wiki/10월_14일 "wikilink")                                                 |
-| 5  | HKT48 春のライブツアー 〜サシコ・ド・ソレイユ2016〜                | HKT48 봄의 라이브 투어 \~샤시코 도 소레이유 2016\~                  | [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [6월 29일](https://ko.wikipedia.org/wiki/6월_29일 "wikilink") |
-| 6  | HKT48夏のホールツアー2016 〜HKTがAKB48グループを離脱?国民投票コンサート〜 | HKT48 여름의 홀 투어 2016 \~HKT가 AKB48 그룹을 이탈? 국민 투표 콘서트\~ | 2016년 [12월 28일](https://ko.wikipedia.org/wiki/12월_28일 "wikilink")                                                 |
-|    |                                                |                                                      |                                                                                                                   |
+| 순서 | 타이틀                                            | 의미                                                   | 발매일                                                                         |
+| -- | ---------------------------------------------- | ---------------------------------------------------- | --------------------------------------------------------------------------- |
+| 1  | HKT48 九州7県ツアー 〜可愛い子には旅をさせよ〜                    | HKT48 큐슈 7현 투어 \~귀여운 자식은 여행을 보내자\~                   | [2014년](../Page/2014년.md "wikilink") [7월 25일](../Page/7월_25일.md "wikilink") |
+| 2  | HKT48アリーナツアー 〜可愛い子にはもっと旅をさせよ〜 海の中道海浜公園         | HKT48 아레나 투어 \~귀여운 자식은 여행을 보내자\~ 우미노 나카미치 해변공원       | 2014년 [11월 22일](../Page/11월_22일.md "wikilink")                              |
+| 3  | HKT48 全国ツアー 〜全国統一終わっとらんけん〜 番外編 in 台北＆香港        | HKT48 전국 투어 \~전국 통일 끝나지 않았고\~ 외국편 in 대만&홍콩           | [2015년](../Page/2015년.md "wikilink") [4월 14일](../Page/4월_14일.md "wikilink") |
+| 4  | HKT48全国ツアー 〜全国統一終わっとらんけん〜 FINAL in 横浜アリーナ      | HKT48 전국 투어 \~전국 통일 끝나지 않았고\~ FINAL in 요코하마 아레나      | 2015년 [10월 14일](../Page/10월_14일.md "wikilink")                              |
+| 5  | HKT48 春のライブツアー 〜サシコ・ド・ソレイユ2016〜                | HKT48 봄의 라이브 투어 \~샤시코 도 소레이유 2016\~                  | [2016년](../Page/2016년.md "wikilink") [6월 29일](../Page/6월_29일.md "wikilink") |
+| 6  | HKT48夏のホールツアー2016 〜HKTがAKB48グループを離脱?国民投票コンサート〜 | HKT48 여름의 홀 투어 2016 \~HKT가 AKB48 그룹을 이탈? 국민 투표 콘서트\~ | 2016년 [12월 28일](../Page/12월_28일.md "wikilink")                              |
+|    |                                                |                                                      |                                                                             |
 
 #### 하카타 백화점
 
-| 순서 | 타이틀          | 의미          | 발매일                                                                                                               |
-| -- | ------------ | ----------- | ----------------------------------------------------------------------------------------------------------------- |
-| 1  | HaKaTa百貨店    | 하카타 백화점     | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [4월 19일](https://ko.wikipedia.org/wiki/4월_19일 "wikilink") |
-| 2  | HaKaTa百貨店2号館 | 하카타 백화점 2호점 | 2013년 [9월 18일](https://ko.wikipedia.org/wiki/9월_18일 "wikilink")                                                   |
-| 3  | HaKaTa百貨店3号館 | 하카타 백화점 3호점 | [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [9월 25일](https://ko.wikipedia.org/wiki/9월_25일 "wikilink") |
-|    |              |             |                                                                                                                   |
+| 순서 | 타이틀          | 의미          | 발매일                                                                         |
+| -- | ------------ | ----------- | --------------------------------------------------------------------------- |
+| 1  | HaKaTa百貨店    | 하카타 백화점     | [2013년](../Page/2013년.md "wikilink") [4월 19일](../Page/4월_19일.md "wikilink") |
+| 2  | HaKaTa百貨店2号館 | 하카타 백화점 2호점 | 2013년 [9월 18일](../Page/9월_18일.md "wikilink")                                |
+| 3  | HaKaTa百貨店3号館 | 하카타 백화점 3호점 | [2015년](../Page/2015년.md "wikilink") [9월 25일](../Page/9월_25일.md "wikilink") |
+|    |              |             |                                                                             |
 
 #### HKT48 돈코츠 마법소녀 학원
 
-| 순서 | 타이틀              | 의미                | 발매일                                                                                                               |
-| -- | ---------------- | ----------------- | ----------------------------------------------------------------------------------------------------------------- |
-| 1  | HKT48 トンコツ魔法少女学院 | HKT48 돈코츠 마법소녀 학원 | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [6월 20일](https://ko.wikipedia.org/wiki/6월_20일 "wikilink") |
-|    |                  |                   |                                                                                                                   |
+| 순서 | 타이틀              | 의미                | 발매일                                                                         |
+| -- | ---------------- | ----------------- | --------------------------------------------------------------------------- |
+| 1  | HKT48 トンコツ魔法少女学院 | HKT48 돈코츠 마법소녀 학원 | [2014년](../Page/2014년.md "wikilink") [6월 20일](../Page/6월_20일.md "wikilink") |
+|    |                  |                   |                                                                             |
 
 ## 공연
 
@@ -1725,7 +1725,7 @@
 
 <!-- end list -->
 
-  - [SKE48](https://ko.wikipedia.org/wiki/SKE48 "wikilink") 극장에서의 공연
+  - [SKE48](../Page/SKE48.md "wikilink") 극장에서의 공연
 
 <!-- end list -->
 
@@ -1748,7 +1748,7 @@
 <!-- end list -->
 
   - [AKB48](../Page/AKB48.md "wikilink")
-  - [SKE48](https://ko.wikipedia.org/wiki/SKE48 "wikilink")
+  - [SKE48](../Page/SKE48.md "wikilink")
   - [NMB48](../Page/NMB48.md "wikilink")
   - [NGT48](https://ko.wikipedia.org/wiki/NGT48 "wikilink")
   - [STU48](../Page/STU48.md "wikilink")
@@ -1759,7 +1759,7 @@
 
 <!-- end list -->
 
-  - [JKT48](https://ko.wikipedia.org/wiki/JKT48 "wikilink")
+  - [JKT48](../Page/JKT48.md "wikilink")
   - [BNK48](../Page/BNK48.md "wikilink")
   - [MNL48](../Page/MNL48.md "wikilink")
   - [AKB48 Team SH](../Page/AKB48_Team_SH.md "wikilink")

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Ambitious!  ](https://ko.wikipedia.org/wiki/Ambitious!__).
 
 
-**Ambitious\! 야심적이고 좋잖아**()은 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [6월 21일에](https://ko.wikipedia.org/wiki/6월_21일 "wikilink") 발매 된 [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink")의 서른 번째 싱글이다.
+**Ambitious\! 야심적이고 좋잖아**()은 [2006년](../Page/2006년.md "wikilink") [6월 21일에](../Page/6월_21일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 서른 번째 싱글이다.
 
 ## 개요
 
@@ -11,7 +11,7 @@
 
   - 초회한정반과 통상반 등 두 종류가 있으며, 초회한정반 특전은 다음과 같다.
       - 멤버 한명한명이 클로즈업 된 자켓.
-      - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [5월 6일](https://ko.wikipedia.org/wiki/5월_6일 "wikilink"), [사이타마 슈퍼 아레나의](https://ko.wikipedia.org/wiki/사이타마_슈퍼_아레나 "wikilink") 낮 공연 라이브 영상이나, 멤버 인터뷰 등을 수록한 스페셜 [DVD](https://ko.wikipedia.org/wiki/DVD "wikilink").
+      - [2006년](../Page/2006년.md "wikilink") [5월 6일](../Page/5월_6일.md "wikilink"), [사이타마 슈퍼 아레나의](../Page/사이타마_슈퍼_아레나.md "wikilink") 낮 공연 라이브 영상이나, 멤버 인터뷰 등을 수록한 스페셜 [DVD](../Page/DVD.md "wikilink").
         1.  [SEXY BOY \~산들바람에 기대\~](../Page/SEXY_BOY_~소요카제니_요리솟테~.md "wikilink")
 
         2.
@@ -19,7 +19,7 @@
 
 <!-- end list -->
 
-  - [다나카 레이나가](https://ko.wikipedia.org/wiki/다나카_레이나 "wikilink") 처음으로 센터 포지션을 맡은 작품이며, 초회한정반 자켓에 다나카의 얼굴이 클로즈업 되어 있다.
+  - [다나카 레이나가](../Page/다나카_레이나.md "wikilink") 처음으로 센터 포지션을 맡은 작품이며, 초회한정반 자켓에 다나카의 얼굴이 클로즈업 되어 있다.
 
 <!-- end list -->
 

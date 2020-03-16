@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WWE  ](https://ko.wikipedia.org/wiki/WWE__).
 
 
-**WWE 하드코어 챔피언십**(WWE Hardcore Championship)은 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")의 챔피언 타이틀이였으며, WWE에서의 하드코어 레슬링을 위한 챔피언십이었다. 1998년 11월 2일에서 [맨 카인드로부터](https://ko.wikipedia.org/wiki/믹_폴리 "wikilink") 시작하여 2002년 8월 26일 [랍 밴 댐이](https://ko.wikipedia.org/wiki/랍_밴_댐 "wikilink") [인터콘티넨탈 챔피언십과](https://ko.wikipedia.org/wiki/WWE_인터콘티넨탈_챔피언십 "wikilink") 통합하여 폐지된 챔피언십이다. 또한 이 챔피언십은 그랜드 슬램 챔피언십의 달성을 위한 기타급 챔피언십 중 하나이기도 하다. 'WWE 하드코어 챔피언십'인 만큼 '하드코어 룰'로 정해져 있어서 '노 DQ','폴스 카운트 애니웨어', 그리고 24/7룰에 기초하여 언제 어디서든지 심판을 대동하여 경기를 시작할 수 있게 되었다. 이 때문에 하루에 한 명씩 한 명씩 바꿔가는 것이 WWE 하드코어 챔피언십의 특징이다. 덕분에 여성 챔피언도 여러 명 있는데, 갓파더즈 호(갓파더의 여자들 중 하나), [마이티 몰리](https://ko.wikipedia.org/wiki/몰리_홀리 "wikilink"), [트리시 스트레터스](https://ko.wikipedia.org/wiki/트리시_스트레터스 "wikilink"), 테리 러넬스 등이 있다.
+**WWE 하드코어 챔피언십**(WWE Hardcore Championship)은 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")의 챔피언 타이틀이였으며, WWE에서의 하드코어 레슬링을 위한 챔피언십이었다. 1998년 11월 2일에서 [맨 카인드로부터](../Page/믹_폴리.md "wikilink") 시작하여 2002년 8월 26일 [랍 밴 댐이](../Page/랍_밴_댐.md "wikilink") [인터콘티넨탈 챔피언십과](https://ko.wikipedia.org/wiki/WWE_인터콘티넨탈_챔피언십 "wikilink") 통합하여 폐지된 챔피언십이다. 또한 이 챔피언십은 그랜드 슬램 챔피언십의 달성을 위한 기타급 챔피언십 중 하나이기도 하다. 'WWE 하드코어 챔피언십'인 만큼 '하드코어 룰'로 정해져 있어서 '노 DQ','폴스 카운트 애니웨어', 그리고 24/7룰에 기초하여 언제 어디서든지 심판을 대동하여 경기를 시작할 수 있게 되었다. 이 때문에 하루에 한 명씩 한 명씩 바꿔가는 것이 WWE 하드코어 챔피언십의 특징이다. 덕분에 여성 챔피언도 여러 명 있는데, 갓파더즈 호(갓파더의 여자들 중 하나), [마이티 몰리](https://ko.wikipedia.org/wiki/몰리_홀리 "wikilink"), [트리시 스트레터스](https://ko.wikipedia.org/wiki/트리시_스트레터스 "wikilink"), 테리 러넬스 등이 있다.
 
 ## 기록들
 
@@ -74,11 +74,11 @@
 ## 같이 보기
 
   - [WWE 인터콘티넨탈 챔피언십](https://ko.wikipedia.org/wiki/WWE_인터콘티넨탈_챔피언십 "wikilink")
-  - [WWE 유나이티드 스테이츠 챔피언십](https://ko.wikipedia.org/wiki/WWE_유나이티드_스테이츠_챔피언십 "wikilink")
-  - [WWE 유러피언 챔피언십](https://ko.wikipedia.org/wiki/WWE_유러피언_챔피언십 "wikilink")
+  - [WWE 유나이티드 스테이츠 챔피언십](../Page/WWE_유나이티드_스테이츠_챔피언십.md "wikilink")
+  - [WWE 유러피언 챔피언십](../Page/WWE_유러피언_챔피언십.md "wikilink")
   - [WWE 24/7 챔피언십](https://ko.wikipedia.org/wiki/WWE_24/7_챔피언십 "wikilink")
-  - [WCW 월드 텔레비전 챔피언십](https://ko.wikipedia.org/wiki/WCW_월드_텔레비전_챔피언십 "wikilink")
-  - [TNA 킹 오브 더 마운틴 챔피언십](https://ko.wikipedia.org/wiki/TNA_킹_오브_더_마운틴_챔피언십 "wikilink")
+  - [WCW 월드 텔레비전 챔피언십](../Page/WCW_월드_텔레비전_챔피언십.md "wikilink")
+  - [TNA 킹 오브 더 마운틴 챔피언십](../Page/TNA_킹_오브_더_마운틴_챔피언십.md "wikilink")
   - [그랜드 슬램 챔피언십](../Page/그랜드_슬램_챔피언십.md "wikilink")
 
 [분류:WWE 챔피언십](https://ko.wikipedia.org/wiki/분류:WWE_챔피언십 "wikilink") [분류:하드코어 프로레슬링 챔피언십](https://ko.wikipedia.org/wiki/분류:하드코어_프로레슬링_챔피언십 "wikilink") [분류:폐지된 프로레슬링 챔피언십](https://ko.wikipedia.org/wiki/분류:폐지된_프로레슬링_챔피언십 "wikilink")

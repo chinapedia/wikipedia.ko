@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Happy Smile!](https://ko.wikipedia.org/wiki/Happy_Smile!).
 
 
-**Happy Smile\!**(해피 스마일\!)은 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [11월 23일에](https://ko.wikipedia.org/wiki/11월_23일 "wikilink") 발매 된 [아시다 마나의](../Page/아시다_마나.md "wikilink") 첫 번째 정규 음반이다.
+**Happy Smile\!**(해피 스마일\!)은 [2011년](../Page/2011년.md "wikilink") [11월 23일에](../Page/11월_23일.md "wikilink") 발매 된 [아시다 마나의](../Page/아시다_마나.md "wikilink") 첫 번째 정규 음반이다.
 
 ## 개요
 

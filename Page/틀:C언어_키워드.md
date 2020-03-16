@@ -24,7 +24,7 @@
 <table>
 <thead>
 <tr class="header">
-<th><p><a href="https://ko.wikipedia.org/wiki/함수" title="wikilink">함수</a></p></th>
+<th><p><a href="../Page/함수.md" title="wikilink">함수</a></p></th>
 </tr>
 </thead>
 <tbody>

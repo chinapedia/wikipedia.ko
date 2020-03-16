@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Do it! Now](https://ko.wikipedia.org/wiki/Do_it!_Now).
 
 
-**Do it\! Now**(두 잇\! 나우)는 [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [7월 24일에](https://ko.wikipedia.org/wiki/7월_24일 "wikilink") 발매 된 [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink")의 열다섯 번째 싱글이다.
+**Do it\! Now**(두 잇\! 나우)는 [2002년](../Page/2002년.md "wikilink") [7월 24일에](../Page/7월_24일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 열다섯 번째 싱글이다.
 
 ## 개요
 
@@ -21,7 +21,7 @@
 
 <!-- end list -->
 
-  - 고토 졸업 후 그의 파트는, 6기 가입 전까지는 [카고 아이가](../Page/카고_아이.md "wikilink"), 6기 가입 후부터는 [다나카 레이나가](https://ko.wikipedia.org/wiki/다나카_레이나 "wikilink") 담당하였다.
+  - 고토 졸업 후 그의 파트는, 6기 가입 전까지는 [카고 아이가](../Page/카고_아이.md "wikilink"), 6기 가입 후부터는 [다나카 레이나가](../Page/다나카_레이나.md "wikilink") 담당하였다.
 
 <!-- end list -->
 
