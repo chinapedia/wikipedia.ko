@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ :   EVOLUTION](https://ko.wikipedia.org/wiki/_:___EVOLUTION).
 
 
-《**극장판 포켓몬스터: 뮤츠의 역습 EVOLUTION**》()는 [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [7월 12일](https://ko.wikipedia.org/wiki/7월_12일 "wikilink") 개봉하는 [극장판 포켓몬스터의](https://ko.wikipedia.org/wiki/극장판_포켓몬스터 "wikilink") 제22기 영화이다.
+《**극장판 포켓몬스터: 뮤츠의 역습 EVOLUTION**》()는 [2019년](../Page/2019년.md "wikilink") [7월 12일](../Page/7월_12일.md "wikilink") 개봉하는 [극장판 포켓몬스터의](https://ko.wikipedia.org/wiki/극장판_포켓몬스터 "wikilink") 제22기 영화이다.
 
 ## 개요
 
@@ -9,12 +9,12 @@
 
 ## 등장인물
 
-  - [한지우](https://ko.wikipedia.org/wiki/한지우_\(포켓몬스터\) "wikilink")
-  - [최이슬](https://ko.wikipedia.org/wiki/최이슬_\(포켓몬스터\) "wikilink")
-  - [웅](https://ko.wikipedia.org/wiki/웅_\(포켓몬스터\) "wikilink")
-  - [로사](https://ko.wikipedia.org/wiki/로사_\(포켓몬스터\) "wikilink")
-  - [로이](https://ko.wikipedia.org/wiki/로이_\(포켓몬스터\) "wikilink")
-  - [나옹](https://ko.wikipedia.org/wiki/나옹_\(로켓단\) "wikilink")
+  - [한지우](../Page/한지우_\(포켓몬스터\).md "wikilink")
+  - [최이슬](../Page/최이슬_\(포켓몬스터\).md "wikilink")
+  - [웅](../Page/웅_\(포켓몬스터\).md "wikilink")
+  - [로사](../Page/로사_\(포켓몬스터\).md "wikilink")
+  - [로이](../Page/로이_\(포켓몬스터\).md "wikilink")
+  - [나옹](../Page/나옹_\(로켓단\).md "wikilink")
   - [간호순](https://ko.wikipedia.org/wiki/간호순 "wikilink")
   - 비주기
   - [후지박사](https://ko.wikipedia.org/wiki/후지박사 "wikilink")
@@ -22,18 +22,18 @@
 
 ### 활약 포켓몬
 
-  - [피카츄](https://ko.wikipedia.org/wiki/피카츄 "wikilink")
+  - [피카츄](../Page/피카츄.md "wikilink")
 
 ### 게스트 등장인물
 
 ### 게스트 포켓몬
 
-  - [뮤츠](https://ko.wikipedia.org/wiki/뮤츠 "wikilink")
+  - [뮤츠](../Page/뮤츠.md "wikilink")
   - [뮤](https://ko.wikipedia.org/wiki/뮤 "wikilink")
 
 ### 나레이션
 
-  - 故 [이시즈카 운쇼](https://ko.wikipedia.org/wiki/이시즈카_운쇼 "wikilink")
+  - 故 [이시즈카 운쇼](../Page/이시즈카_운쇼.md "wikilink")
 
 ## 주제가
 
@@ -51,7 +51,7 @@
 
 ## 같이 보기
 
-  - [포켓몬스터](https://ko.wikipedia.org/wiki/포켓몬스터 "wikilink")
+  - [포켓몬스터](../Page/포켓몬스터.md "wikilink")
 
 ## 각주
 

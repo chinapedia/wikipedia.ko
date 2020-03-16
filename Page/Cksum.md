@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Cksum](https://ko.wikipedia.org/wiki/Cksum).
 
 
-**cksum**은 [유닉스 계열](https://ko.wikipedia.org/wiki/유닉스_계열 "wikilink") 운영 체제의 [명령어](https://ko.wikipedia.org/wiki/명령어 "wikilink")의 하나로, 파일이나 데이터 스트림의 [체크섬](https://ko.wikipedia.org/wiki/체크섬 "wikilink") 값을 만들어준다. cksum 명령어는 변수에 지정된 각 파일을 읽으며 변수가 지정되지 않으면 [표준 입력을](https://ko.wikipedia.org/wiki/표준_스트림 "wikilink") 읽는데, 출력은 파일의 [CRC](https://ko.wikipedia.org/wiki/순환_중복_검사 "wikilink") 체크섬과 [바이트](https://ko.wikipedia.org/wiki/바이트 "wikilink") 카운트로 표시된다.
+**cksum**은 [유닉스 계열](../Page/유닉스_계열.md "wikilink") 운영 체제의 [명령어](https://ko.wikipedia.org/wiki/명령어 "wikilink")의 하나로, 파일이나 데이터 스트림의 [체크섬](../Page/체크섬.md "wikilink") 값을 만들어준다. cksum 명령어는 변수에 지정된 각 파일을 읽으며 변수가 지정되지 않으면 [표준 입력을](../Page/표준_스트림.md "wikilink") 읽는데, 출력은 파일의 [CRC](https://ko.wikipedia.org/wiki/순환_중복_검사 "wikilink") 체크섬과 [바이트](../Page/바이트.md "wikilink") 카운트로 표시된다.
 
-`cksum` 명령어는 파일을 그대로 두었는지 신뢰할 수 없는 수단에 의해 변경되었는지 확인하는데 사용할 수 있다.\[1\] 그러나 cksum 명령어가 계산한 CRC 체크섬은 [암호학적으로 안전한](https://ko.wikipedia.org/wiki/암호화_해시_함수 "wikilink") 것은 아니다. 즉, "우연한" 손상에 대해 보호를 하지만(손상된 데이터가 의도된 데이터와 동일한 체크섬을 가질 가능성은 거의 없음) 공격자가 체크섬의 변동이 없는 방식으로 "의도적으로" 파일을 손상시키는 것은 어렵지 않다. 유닉스 계열 운영 체제는 일반적으로 [sha256sum](https://ko.wikipedia.org/wiki/sha256sum "wikilink")과 같은 암호학적으로 안전한 체크섬을 위한 기타 명령어들을 포함하고 있다.
+`cksum` 명령어는 파일을 그대로 두었는지 신뢰할 수 없는 수단에 의해 변경되었는지 확인하는데 사용할 수 있다.\[1\] 그러나 cksum 명령어가 계산한 CRC 체크섬은 [암호학적으로 안전한](../Page/암호화_해시_함수.md "wikilink") 것은 아니다. 즉, "우연한" 손상에 대해 보호를 하지만(손상된 데이터가 의도된 데이터와 동일한 체크섬을 가질 가능성은 거의 없음) 공격자가 체크섬의 변동이 없는 방식으로 "의도적으로" 파일을 손상시키는 것은 어렵지 않다. 유닉스 계열 운영 체제는 일반적으로 [sha256sum](https://ko.wikipedia.org/wiki/sha256sum "wikilink")과 같은 암호학적으로 안전한 체크섬을 위한 기타 명령어들을 포함하고 있다.
 
 ## 알고리즘
 

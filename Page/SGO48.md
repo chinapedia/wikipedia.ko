@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [SGO48](https://ko.wikipedia.org/wiki/SGO48).
 
 
-**SGO48**(에스지오포티에이트)는 [베트남](https://ko.wikipedia.org/wiki/베트남 "wikilink")의 [호찌민 시를](https://ko.wikipedia.org/wiki/호찌민_시 "wikilink") 중심으로 활동하는 [여성](https://ko.wikipedia.org/wiki/여성 "wikilink") [아이돌 그룹이다](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink")\[1\].
+**SGO48**(에스지오포티에이트)는 [베트남](../Page/베트남.md "wikilink")의 [호찌민 시를](https://ko.wikipedia.org/wiki/호찌민_시 "wikilink") 중심으로 활동하는 [여성](../Page/여성.md "wikilink") [아이돌 그룹이다](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink")\[1\].
 
 ## 개요
 
-[AKB48](https://ko.wikipedia.org/wiki/AKB48 "wikilink")의 자매 그룹의 하나이다. 종합 프로듀스는 AKB48와 함께 [아키모토 야스시가](https://ko.wikipedia.org/wiki/아키모토_야스시 "wikilink") 맡았다. 그룹명의 유래는 사이공(**S**ai**GO**n). 그룹 색상은 연꽃색\[2\].
+[AKB48](../Page/AKB48.md "wikilink")의 자매 그룹의 하나이다. 종합 프로듀스는 AKB48와 함께 [아키모토 야스시가](../Page/아키모토_야스시.md "wikilink") 맡았다. 그룹명의 유래는 사이공(**S**ai**GO**n). 그룹 색상은 연꽃색\[2\].
 
-[2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [8월 10일부터](https://ko.wikipedia.org/wiki/8월_10일 "wikilink") [9월 9일까지](https://ko.wikipedia.org/wiki/9월_9일 "wikilink") 1기생 오디션 모집해\[3\], [11월 11일](https://ko.wikipedia.org/wiki/11월_11일 "wikilink"), 최종 심사에 행해젔고, [11월 17일에](https://ko.wikipedia.org/wiki/11월_17일 "wikilink") 호치민 시의 뉴월드 사이공 호텔에서 기자회견을 개최해, 1기생 29명이 피로연하였다\[4\]\[5\]\[6\].
+[2018년](../Page/2018년.md "wikilink") [8월 10일부터](../Page/8월_10일.md "wikilink") [9월 9일까지](../Page/9월_9일.md "wikilink") 1기생 오디션 모집해\[3\], [11월 11일](../Page/11월_11일.md "wikilink"), 최종 심사에 행해젔고, [11월 17일에](../Page/11월_17일.md "wikilink") 호치민 시의 뉴월드 사이공 호텔에서 기자회견을 개최해, 1기생 29명이 피로연하였다\[4\]\[5\]\[6\].
 
 ## 멤버
 
@@ -98,10 +98,10 @@
 
 <!-- end list -->
 
-  - [AKB48](https://ko.wikipedia.org/wiki/AKB48 "wikilink")
-  - [SKE48](https://ko.wikipedia.org/wiki/SKE48 "wikilink")
-  - [NMB48](https://ko.wikipedia.org/wiki/NMB48 "wikilink")
-  - [HKT48](https://ko.wikipedia.org/wiki/HKT48 "wikilink")
+  - [AKB48](../Page/AKB48.md "wikilink")
+  - [SKE48](../Page/SKE48.md "wikilink")
+  - [NMB48](../Page/NMB48.md "wikilink")
+  - [HKT48](../Page/HKT48.md "wikilink")
   - [NGT48](https://ko.wikipedia.org/wiki/NGT48 "wikilink")
   - [STU48](../Page/STU48.md "wikilink")
 
@@ -111,11 +111,11 @@
 
 <!-- end list -->
 
-  - [JKT48](https://ko.wikipedia.org/wiki/JKT48 "wikilink")
+  - [JKT48](../Page/JKT48.md "wikilink")
   - [BNK48](../Page/BNK48.md "wikilink")
   - [MNL48](../Page/MNL48.md "wikilink")
   - [AKB48 Team SH](../Page/AKB48_Team_SH.md "wikilink")
-  - [AKB48 Team TP](https://ko.wikipedia.org/wiki/AKB48_Team_TP "wikilink")
+  - [AKB48 Team TP](../Page/AKB48_Team_TP.md "wikilink")
   - [CGM48](https://ko.wikipedia.org/wiki/CGM48 "wikilink")
   - [DEL48](https://ko.wikipedia.org/wiki/DEL48 "wikilink")
   - [MUB48](../Page/MUB48.md "wikilink")

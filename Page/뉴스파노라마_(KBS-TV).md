@@ -9,21 +9,21 @@
 
 ## 방송 시간
 
-| 방송 채널                                                                                                                                                                                                                                    | 방송 기간                                                                                                                                                                                                                                  | 방송 시간                                                                   |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| [KBS-TV](https://ko.wikipedia.org/wiki/KBS-TV "wikilink")                                                                                                                                                                                | [1970년](https://ko.wikipedia.org/wiki/1970년 "wikilink") [4월 13일](https://ko.wikipedia.org/wiki/4월_13일 "wikilink") \~ [1971년](https://ko.wikipedia.org/wiki/1971년 "wikilink") [8월 27일](https://ko.wikipedia.org/wiki/8월_27일 "wikilink") | [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 아침 7시 \~ 7시 40분 (40분) |
-| [1971년](https://ko.wikipedia.org/wiki/1971년 "wikilink") [8월 30일](https://ko.wikipedia.org/wiki/8월_30일 "wikilink") \~ [1972년](https://ko.wikipedia.org/wiki/1972년 "wikilink") [10월 27일](https://ko.wikipedia.org/wiki/10월_27일 "wikilink") | [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 아침 7시 \~ 8시 (1시간)                                                                                                                                                                    |                                                                         |
+| 방송 채널                                                                                                                                                        | 방송 기간                                                                                                                                                      | 방송 시간                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| [KBS-TV](https://ko.wikipedia.org/wiki/KBS-TV "wikilink")                                                                                                    | [1970년](../Page/1970년.md "wikilink") [4월 13일](../Page/4월_13일.md "wikilink") \~ [1971년](../Page/1971년.md "wikilink") [8월 27일](../Page/8월_27일.md "wikilink") | [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 아침 7시 \~ 7시 40분 (40분) |
+| [1971년](../Page/1971년.md "wikilink") [8월 30일](../Page/8월_30일.md "wikilink") \~ [1972년](../Page/1972년.md "wikilink") [10월 27일](../Page/10월_27일.md "wikilink") | [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 아침 7시 \~ 8시 (1시간)                                                                                        |                                                                         |
 
 ## 타이틀 변천사
 
-| 기수 | 타이틀    | 방송 기간                                                                                                                                                                                                                                    |
-| -- | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1기 | 뉴스와 화제 | [1970년](https://ko.wikipedia.org/wiki/1970년 "wikilink") [4월 13일](https://ko.wikipedia.org/wiki/4월_13일 "wikilink") \~ [1970년](https://ko.wikipedia.org/wiki/1970년 "wikilink") [6월 26일](https://ko.wikipedia.org/wiki/6월_26일 "wikilink")   |
-| 2기 | 오늘의 화제 | [1970년](https://ko.wikipedia.org/wiki/1970년 "wikilink") [6월 29일](https://ko.wikipedia.org/wiki/6월_29일 "wikilink") \~ [1971년](https://ko.wikipedia.org/wiki/1971년 "wikilink") [8월 27일](https://ko.wikipedia.org/wiki/8월_27일 "wikilink")   |
-| 3기 | 뉴스파노라마 | [1971년](https://ko.wikipedia.org/wiki/1971년 "wikilink") [8월 30일](https://ko.wikipedia.org/wiki/8월_30일 "wikilink") \~ [1972년](https://ko.wikipedia.org/wiki/1972년 "wikilink") [10월 27일](https://ko.wikipedia.org/wiki/10월_27일 "wikilink") |
+| 기수 | 타이틀    | 방송 기간                                                                                                                                                        |
+| -- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1기 | 뉴스와 화제 | [1970년](../Page/1970년.md "wikilink") [4월 13일](../Page/4월_13일.md "wikilink") \~ [1970년](../Page/1970년.md "wikilink") [6월 26일](../Page/6월_26일.md "wikilink")   |
+| 2기 | 오늘의 화제 | [1970년](../Page/1970년.md "wikilink") [6월 29일](../Page/6월_29일.md "wikilink") \~ [1971년](../Page/1971년.md "wikilink") [8월 27일](../Page/8월_27일.md "wikilink")   |
+| 3기 | 뉴스파노라마 | [1971년](../Page/1971년.md "wikilink") [8월 30일](../Page/8월_30일.md "wikilink") \~ [1972년](../Page/1972년.md "wikilink") [10월 27일](../Page/10월_27일.md "wikilink") |
 
 ## 관련 항목
 
-  - [KBS 뉴스광장](https://ko.wikipedia.org/wiki/KBS_뉴스광장 "wikilink")
+  - [KBS 뉴스광장](../Page/KBS_뉴스광장.md "wikilink")
 
 [분류:대한민국의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_뉴스_텔레비전_프로그램 "wikilink")

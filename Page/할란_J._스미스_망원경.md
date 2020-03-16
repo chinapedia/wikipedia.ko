@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ J.  ](https://ko.wikipedia.org/wiki/_J.__).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:107-inch_at_dusk.JPG "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Lunar_Laser_McDonald_Observatory.jpg "wikilink") <span> </span>**할란 J. 스미스 망원경**은 미국 텍사스주 맥도날드 천문대에 있는  망원경이다. 이 망원경은 웨스트 텍사스 다비스 산맥의 로크 산에 위치한 [텍사스대학교 오스틴의](https://ko.wikipedia.org/wiki/텍사스_대학교_오스틴 "wikilink") 천문대의 몇 개의 망원경 중 하나이다. 1968년 나사의 상당한 지원으로 완성되었으며 맥도날드 천문대의 텍사스 대학 출신의 첫 책임자였던 할란 제임스 스미스의 이름을 따서 지었다. 할란 제임스 스미스는 26년간 맥도날드 천문대를 관리하였다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:107-inch_at_dusk.JPG "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Lunar_Laser_McDonald_Observatory.jpg "wikilink") <span> </span>**할란 J. 스미스 망원경**은 미국 텍사스주 맥도날드 천문대에 있는  망원경이다. 이 망원경은 웨스트 텍사스 다비스 산맥의 로크 산에 위치한 [텍사스대학교 오스틴의](../Page/텍사스_대학교_오스틴.md "wikilink") 천문대의 몇 개의 망원경 중 하나이다. 1968년 나사의 상당한 지원으로 완성되었으며 맥도날드 천문대의 텍사스 대학 출신의 첫 책임자였던 할란 제임스 스미스의 이름을 따서 지었다. 할란 제임스 스미스는 26년간 맥도날드 천문대를 관리하였다.
 
 ## 반달리즘 피해
 
@@ -9,7 +9,7 @@
 
 ## 관찰
 
- 망원경은 지금까지 많은 것을 관찰하는데 사용되었다. 그 중에는 별 BD+17°3248 및 [XO-1를](https://ko.wikipedia.org/wiki/XO-1_\(항성\) "wikilink") 포함한다.
+ 망원경은 지금까지 많은 것을 관찰하는데 사용되었다. 그 중에는 별 BD+17°3248 및 [XO-1를](../Page/XO-1_\(항성\).md "wikilink") 포함한다.
 
  호주 국립대학교의 조지 멜렌데즈(Jorge Melendez)와 텍사스 대학의 이반 라미레즈(Ivan Ramirez)는 2007년에 할란 J. 스미스 망원경을 이용하여 별 HIP 56948을 발견하였다.\[2\]
 
@@ -35,7 +35,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>헤일 망원경 <br />
-<a href="https://ko.wikipedia.org/wiki/팔로마_천문대" title="wikilink">팔로마 천문대</a></p></td>
+<a href="../Page/팔로마_천문대.md" title="wikilink">팔로마 천문대</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:P200_Dome_Open.jpg" title="wikilink">50x50픽셀</a></p></td>
 <td><p>200 인치 <br />
 508 cm</p></td>
@@ -43,12 +43,12 @@
 (5620 ft)</p></td>
 <td><p>1949년</p></td>
 <td><p>에드윈 허블<br />
-(<a href="https://ko.wikipedia.org/wiki/에드윈_허블" title="wikilink">Edwin Hubble)</a></p></td>
+(<a href="../Page/에드윈_허블.md" title="wikilink">Edwin Hubble)</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
 <td><p>C. 도널드 셰인 망원경<br />
-<a href="https://ko.wikipedia.org/wiki/릭_천문대" title="wikilink">릭 천문대</a></p></td>
+<a href="../Page/릭_천문대.md" title="wikilink">릭 천문대</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Shane_dome.JPG" title="wikilink">40x40픽셀</a></p></td>
 <td><p>120 인치<br />
 305 cm</p></td>

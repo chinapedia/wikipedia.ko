@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TBS ](https://ko.wikipedia.org/wiki/TBS_).
 
 
-**수요극장**()은 [TBS 텔레비전](../Page/TBS_텔레비전.md "wikilink") [계열에서](https://ko.wikipedia.org/wiki/도쿄_방송_홀딩스 "wikilink") 매주 수요일의 [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink")이다.
+**수요극장**()은 [TBS 텔레비전](../Page/TBS_텔레비전.md "wikilink") [계열에서](../Page/도쿄_방송_홀딩스.md "wikilink") 매주 수요일의 [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink")이다.
 
 ## 개요
 
@@ -73,6 +73,6 @@
   - 《[하시다 수하자 드라마 이웃집 잔디](https://ko.wikipedia.org/wiki/하시다_수하자_드라마_이웃집_잔디 "wikilink")》
   - 《[아사미 미츠히코\~최종장\~](https://ko.wikipedia.org/wiki/아사미_미츠히코~최종장~ "wikilink")》
   - 《[붉은 순무 검사 교토편](https://ko.wikipedia.org/wiki/붉은_순무_검사_분전기 "wikilink")》
-  - 《[아이리스](https://ko.wikipedia.org/wiki/아이리스_\(드라마\) "wikilink")》
+  - 《[아이리스](../Page/아이리스_\(드라마\).md "wikilink")》
 
 [TBS의_텔레비전_드라마](https://ko.wikipedia.org/wiki/분류:TBS의_텔레비전_드라마 "wikilink")

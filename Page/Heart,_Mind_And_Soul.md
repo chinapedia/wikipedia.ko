@@ -1,16 +1,16 @@
 > This article is converted from Wikipedia: [Heart, Mind And Soul](https://ko.wikipedia.org/wiki/Heart,_Mind_And_Soul).
 
 
-| 이 앨범에 수록된 싱글                                                                                                      |
-| ----------------------------------------------------------------------------------------------------------------- |
-| [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [4월 27일](https://ko.wikipedia.org/wiki/4월_27일 "wikilink") |
-| [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [7월 13일](https://ko.wikipedia.org/wiki/7월_13일 "wikilink") |
-| [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [11월 2일](https://ko.wikipedia.org/wiki/11월_2일 "wikilink") |
-| [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [3월 8일](https://ko.wikipedia.org/wiki/3월_8일 "wikilink")   |
-| [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [4월 19일](https://ko.wikipedia.org/wiki/4월_19일 "wikilink") |
-|                                                                                                                   |
+| 이 앨범에 수록된 싱글                                                                |
+| --------------------------------------------------------------------------- |
+| [2005년](../Page/2005년.md "wikilink") [4월 27일](../Page/4월_27일.md "wikilink") |
+| [2005년](../Page/2005년.md "wikilink") [7월 13일](../Page/7월_13일.md "wikilink") |
+| [2005년](../Page/2005년.md "wikilink") [11월 2일](../Page/11월_2일.md "wikilink") |
+| [2006년](../Page/2006년.md "wikilink") [3월 8일](../Page/3월_8일.md "wikilink")   |
+| [2006년](../Page/2006년.md "wikilink") [4월 19일](../Page/4월_19일.md "wikilink") |
+|                                                                             |
 
-《**Heart, Mind and Soul**》은 대한민국의 음악 그룹 [동방신기](https://ko.wikipedia.org/wiki/동방신기 "wikilink")의 첫번째 일본 정규 앨범이다. 동방신기의 일본 정식 데뷔로부터의 1년 간의 활동을 총망라한 정규 음반으로 일본 정식 데뷔에 앞서 발매된 방문기념 싱글 〈Hug (International Ver.)〉는 일본어로 번안되어 수록되었다.
+《**Heart, Mind and Soul**》은 대한민국의 음악 그룹 [동방신기](../Page/동방신기.md "wikilink")의 첫번째 일본 정규 앨범이다. 동방신기의 일본 정식 데뷔로부터의 1년 간의 활동을 총망라한 정규 음반으로 일본 정식 데뷔에 앞서 발매된 방문기념 싱글 〈Hug (International Ver.)〉는 일본어로 번안되어 수록되었다.
 
 ## 수록곡
 
@@ -51,8 +51,8 @@
 </tr>
 <tr class="even">
 <td><p>HUG</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/주쿄_TV_방송" title="wikilink">주쿄 TV 방송</a>·<a href="https://ko.wikipedia.org/wiki/닛폰_TV_방송망" title="wikilink">NTV</a> '사르지에' 엔딩 테마<br />
-<a href="https://ko.wikipedia.org/wiki/주쿄_TV_방송" title="wikilink">주쿄 TV 방송</a>·<a href="https://ko.wikipedia.org/wiki/닛폰_TV_방송망" title="wikilink">NTV</a> '소년챔프' 엔딩 테마</p></td>
+<td><p><a href="../Page/주쿄_TV_방송.md" title="wikilink">주쿄 TV 방송</a>·<a href="../Page/닛폰_TV_방송망.md" title="wikilink">NTV</a> '사르지에' 엔딩 테마<br />
+<a href="../Page/주쿄_TV_방송.md" title="wikilink">주쿄 TV 방송</a>·<a href="../Page/닛폰_TV_방송망.md" title="wikilink">NTV</a> '소년챔프' 엔딩 테마</p></td>
 </tr>
 <tr class="odd">
 <td><p>Stay With Me Tonight</p></td>

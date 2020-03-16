@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SMARA](https://ko.wikipedia.org/wiki/SMARA).
 
 
-**SMARA**는 다중 목성 탐사선으로, 2030년대에 발사되어 1kg 미만의 여러 대의 탐사선이 [목성의 대기에](https://ko.wikipedia.org/wiki/목성의_대기 "wikilink") 돌입해 데이터를 보내는 목성 탐사선이다.\[1\]\[2\] 목적은 [거대 가스 행성의](https://ko.wikipedia.org/wiki/거대_가스_행성 "wikilink") 대기의 구성을 탐사하는 것이며,\[3\] 각 탐사선 당 20[MB의](https://ko.wikipedia.org/wiki/메가바이트 "wikilink") 데이터를 보내는 것을 목표로 하고 있다.\[4\]
+**SMARA**는 다중 목성 탐사선으로, 2030년대에 발사되어 1kg 미만의 여러 대의 탐사선이 [목성의 대기에](../Page/목성의_대기.md "wikilink") 돌입해 데이터를 보내는 목성 탐사선이다.\[1\]\[2\] 목적은 [거대 가스 행성의](https://ko.wikipedia.org/wiki/거대_가스_행성 "wikilink") 대기의 구성을 탐사하는 것이며,\[3\] 각 탐사선 당 20[MB의](../Page/메가바이트.md "wikilink") 데이터를 보내는 것을 목표로 하고 있다.\[4\]
 
 ## 개념
 
@@ -15,9 +15,9 @@
   - [MSFC](https://ko.wikipedia.org/wiki/MSFC "wikilink")
   - [말린 우주 센터](../Page/말린_우주_센터.md "wikilink")
   - [칼텍](https://ko.wikipedia.org/wiki/칼텍 "wikilink")
-  - [예일 대학교](https://ko.wikipedia.org/wiki/예일_대학교 "wikilink")\[5\]
-  - [하버드 대학교](https://ko.wikipedia.org/wiki/하버드_대학교 "wikilink")
-  - [프린스턴 대학교](https://ko.wikipedia.org/wiki/프린스턴_대학교 "wikilink")
+  - [예일 대학교](../Page/예일_대학교.md "wikilink")\[5\]
+  - [하버드 대학교](../Page/하버드_대학교.md "wikilink")
+  - [프린스턴 대학교](../Page/프린스턴_대학교.md "wikilink")
   - [SwRI](https://ko.wikipedia.org/wiki/SwRI "wikilink")
   - [ULA](../Page/ULA.md "wikilink")
 

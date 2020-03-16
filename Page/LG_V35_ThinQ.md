@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [LG V35 ThinQ](https://ko.wikipedia.org/wiki/LG_V35_ThinQ).
 
 
-**LG V35 ThinQ**는 [LG V30 ThinQ의](https://ko.wikipedia.org/wiki/LG_V30 "wikilink") 업그레이드 파생 모델이다. [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") 통신 3사와 자급제용으로 [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [7월 5일](https://ko.wikipedia.org/wiki/7월_5일 "wikilink") 출시\[1\]되었다. 기존의 [LG V30 ThinQ와](https://ko.wikipedia.org/wiki/LG_V30 "wikilink") 달리 [퀄컴](https://ko.wikipedia.org/wiki/퀄컴 "wikilink") 스냅드래곤 845로 AP가 업그레이드 되어 성능이 향상되었고 [LG V30S ThinQ와](../Page/LG_V30S_ThinQ.md "wikilink") 마찬가지로 [RAM](https://ko.wikipedia.org/wiki/RAM "wikilink")이 6[GB로](https://ko.wikipedia.org/wiki/기가바이트 "wikilink") 증가하였으나 [뱅 앤 올룹슨과의](https://ko.wikipedia.org/wiki/뱅_앤_올룹슨 "wikilink") 제휴가 끝나 뱅 앤 올룹슨의 음질 향상 기술이 적용되지 않았고 B\&O 플레이 번들 이어폰 또한 제공되지 않았다.
+**LG V35 ThinQ**는 [LG V30 ThinQ의](https://ko.wikipedia.org/wiki/LG_V30 "wikilink") 업그레이드 파생 모델이다. [대한민국](../Page/대한민국.md "wikilink") 통신 3사와 자급제용으로 [2018년](../Page/2018년.md "wikilink") [7월 5일](../Page/7월_5일.md "wikilink") 출시\[1\]되었다. 기존의 [LG V30 ThinQ와](https://ko.wikipedia.org/wiki/LG_V30 "wikilink") 달리 [퀄컴](../Page/퀄컴.md "wikilink") 스냅드래곤 845로 AP가 업그레이드 되어 성능이 향상되었고 [LG V30S ThinQ와](../Page/LG_V30S_ThinQ.md "wikilink") 마찬가지로 [RAM](https://ko.wikipedia.org/wiki/RAM "wikilink")이 6[GB로](https://ko.wikipedia.org/wiki/기가바이트 "wikilink") 증가하였으나 [뱅 앤 올룹슨과의](../Page/뱅_앤_올룹슨.md "wikilink") 제휴가 끝나 뱅 앤 올룹슨의 음질 향상 기술이 적용되지 않았고 B\&O 플레이 번들 이어폰 또한 제공되지 않았다.
 
 ## 운영 체제 / 소프트웨어
 
 ### 안드로이드 8.0 오레오
 
-LG V35 ThinQ는 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [8.0.0 오레오를](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 기본 탑재하여 출시되었다.
+LG V35 ThinQ는 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [8.0.0 오레오를](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 기본 탑재하여 출시되었다.
 
 ## 특수 기능
 
@@ -27,11 +27,11 @@ AI 카메라는 실행 시 AI가 피사체를 인식한 후 알아서 그에 맞
 
 ##### Q렌즈
 
-Q렌즈는 원하는 피사물을 촬영한 후, 그에 관한 정보검색, QR 코드 등을 검색할 수 있는 기능이다. [네이버와](https://ko.wikipedia.org/wiki/네이버_\(기업\) "wikilink") [아마존과](https://ko.wikipedia.org/wiki/아마존닷컴 "wikilink") 협력해 제공하는 쇼핑 정보도 검색할 수 있다. [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")의 [빅스비](../Page/빅스비_\(가상_비서\).md "wikilink") 비전과 유사한 기능이다.
+Q렌즈는 원하는 피사물을 촬영한 후, 그에 관한 정보검색, QR 코드 등을 검색할 수 있는 기능이다. [네이버와](../Page/네이버_\(기업\).md "wikilink") [아마존과](https://ko.wikipedia.org/wiki/아마존닷컴 "wikilink") 협력해 제공하는 쇼핑 정보도 검색할 수 있다. [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")의 [빅스비](../Page/빅스비_\(가상_비서\).md "wikilink") 비전과 유사한 기능이다.
 
 ##### Q보이스
 
-[LG 옵티머스 G에서](https://ko.wikipedia.org/wiki/LG_옵티머스_G "wikilink") 처음 선보이고 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [LG V10까지](../Page/LG_V10.md "wikilink") 지원되었던 [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")의 인공지능 비서이다. [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink"), [LG V30S ThinQ의](../Page/LG_V30S_ThinQ.md "wikilink") 출시와 함께 새로운 UI를 가지고 다시 부활했다. 기존의 전화 걸기, 메시지 보내기, 앱 실행, 음악 재생, 검색 등의 기능을 지원한다. 기존의 기능 이외에도, [LG V30에서](https://ko.wikipedia.org/wiki/LG_V30 "wikilink") 선보인 [구글 어시스턴트](../Page/구글_어시스턴트.md "wikilink") 연동 독자 명령어를 지원하며, [구글 어시스턴트가](../Page/구글_어시스턴트.md "wikilink") 할 수 없는 문자 읽어주기와 32개의 독점 명령어를 인식할 수 있다.\[2\] 명령어는 **"하이 엘지"(Hi, LG.)**이다.
+[LG 옵티머스 G에서](../Page/LG_옵티머스_G.md "wikilink") 처음 선보이고 [2015년](../Page/2015년.md "wikilink") [LG V10까지](../Page/LG_V10.md "wikilink") 지원되었던 [LG전자](../Page/LG전자.md "wikilink")의 인공지능 비서이다. [2018년](../Page/2018년.md "wikilink") [2월](../Page/2월.md "wikilink"), [LG V30S ThinQ의](../Page/LG_V30S_ThinQ.md "wikilink") 출시와 함께 새로운 UI를 가지고 다시 부활했다. 기존의 전화 걸기, 메시지 보내기, 앱 실행, 음악 재생, 검색 등의 기능을 지원한다. 기존의 기능 이외에도, [LG V30에서](https://ko.wikipedia.org/wiki/LG_V30 "wikilink") 선보인 [구글 어시스턴트](../Page/구글_어시스턴트.md "wikilink") 연동 독자 명령어를 지원하며, [구글 어시스턴트가](../Page/구글_어시스턴트.md "wikilink") 할 수 없는 문자 읽어주기와 32개의 독점 명령어를 인식할 수 있다.\[2\] 명령어는 **"하이 엘지"(Hi, LG.)**이다.
 
 ## 색상
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [-D](https://ko.wikipedia.org/wiki/-D).
 
 
-**베네라-D**는 러시아가 2026년 [프로톤 로켓이나](../Page/프로톤_로켓.md "wikilink") [안가라 로켓으로](https://ko.wikipedia.org/wiki/안가라_로켓 "wikilink") 발사 예정인 금성 탐사선이다.\[1\]\[2\]\[3\]\[4\]\[5\] 목적은 금성에 착륙할 최적의 장소를 찾고 [베네라 15와](https://ko.wikipedia.org/wiki/베네라_15 "wikilink") [16보다](https://ko.wikipedia.org/wiki/베네라_16 "wikilink") 근접해 정확한 [금성](https://ko.wikipedia.org/wiki/금성 "wikilink") 탐사가 목표다. 특이사항으로 랜더가 들어 있으며, 금성의 주변 환경에 따라 24시간 정도 탐사하는 것을 목표로 잡고 있다.\[6\]
+**베네라-D**는 러시아가 2026년 [프로톤 로켓이나](../Page/프로톤_로켓.md "wikilink") [안가라 로켓으로](https://ko.wikipedia.org/wiki/안가라_로켓 "wikilink") 발사 예정인 금성 탐사선이다.\[1\]\[2\]\[3\]\[4\]\[5\] 목적은 금성에 착륙할 최적의 장소를 찾고 [베네라 15와](https://ko.wikipedia.org/wiki/베네라_15 "wikilink") [16보다](https://ko.wikipedia.org/wiki/베네라_16 "wikilink") 근접해 정확한 [금성](../Page/금성.md "wikilink") 탐사가 목표다. 특이사항으로 랜더가 들어 있으며, 금성의 주변 환경에 따라 24시간 정도 탐사하는 것을 목표로 잡고 있다.\[6\]
 
 ## 역사와 제작 배경
 
@@ -9,16 +9,16 @@
 
 ## 발사
 
-2026년 초 [프로톤 로켓이나](../Page/프로톤_로켓.md "wikilink") [안가라 로켓로](https://ko.wikipedia.org/wiki/안가라_로켓 "wikilink") 발사된다. 발사장소는 아직 미정이다. 다만 [바이코누르 발사 기지에서](https://ko.wikipedia.org/wiki/바이코누르 "wikilink") 발사될 가능성이 가장 크다.
+2026년 초 [프로톤 로켓이나](../Page/프로톤_로켓.md "wikilink") [안가라 로켓로](https://ko.wikipedia.org/wiki/안가라_로켓 "wikilink") 발사된다. 발사장소는 아직 미정이다. 다만 [바이코누르 발사 기지에서](../Page/바이코누르.md "wikilink") 발사될 가능성이 가장 크다.
 
 ## 지원, 개발, 투자
 
   - [NASA](https://ko.wikipedia.org/wiki/NASA "wikilink")
   - [JPL](https://ko.wikipedia.org/wiki/JPL "wikilink")
   - [GSFC](https://ko.wikipedia.org/wiki/GSFC "wikilink")
-  - [KSC](https://ko.wikipedia.org/wiki/케네디_우주_센터 "wikilink")
+  - [KSC](../Page/케네디_우주_센터.md "wikilink")
   - [ESA](https://ko.wikipedia.org/wiki/ESA "wikilink")
-  - [러시아 연방 우주국](https://ko.wikipedia.org/wiki/러시아_연방_우주국 "wikilink")
+  - [러시아 연방 우주국](../Page/러시아_연방_우주국.md "wikilink")
 
 ## 각주
 

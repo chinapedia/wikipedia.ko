@@ -9,13 +9,13 @@
   - 1991년 9월 15일 [김태욱](https://ko.wikipedia.org/wiki/김태욱_\(가수\) "wikilink") - **개꿈/다시 태어난다해도**
   - 1992년 11월 ?일 [빛과 소금](https://ko.wikipedia.org/wiki/빛과_소금_\(밴드\) "wikilink") - **빛과 소금 3**
   - 1992년 12월 1일 김태욱 - **다시 태어난다 해도/생각속으로**
-  - 1993년 1월 1일 [최백호](https://ko.wikipedia.org/wiki/최백호 "wikilink") - **최백호의 열다섯 번째 이야기**
+  - 1993년 1월 1일 [최백호](../Page/최백호.md "wikilink") - **최백호의 열다섯 번째 이야기**
   - 1993년 5월 27일 김태욱 - **나를 믿는다면**
   - 1993년 10월 1일 11월 - **자꾸 말하지마/요즘 사람들**
   - 1995년 3월 ?일 [최수민](https://ko.wikipedia.org/wiki/최수민_\(가수\) "wikilink") - **Farewell Without Repentance**
   - 1995년 10월 1일 [최진경](https://ko.wikipedia.org/wiki/최진경 "wikilink") - **Remember Me**
   - 1996년 7월 ?일 최진경 - **Our From The Deep**
-  - 1997년 1월 1일 [베이비복스](https://ko.wikipedia.org/wiki/베이비복스 "wikilink") - **Voice Of Xpression**
+  - 1997년 1월 1일 [베이비복스](../Page/베이비복스.md "wikilink") - **Voice Of Xpression**
   - 1998년 10월 15일 베이비복스 - **야야야**
   - 1999년 5월 6일 [A4](https://ko.wikipedia.org/wiki/A4_\(음악_그룹\) "wikilink") - **Princess Of The Wind**
   - 1999년 8월 ?일 베이비복스 - **Come Come Baby**
@@ -39,7 +39,7 @@
   - 2003년 11월 18일 애즈원 - **Forever As One**
   - 2004년 4월 16일 베이비복스 - **Ride West**
   - 2004년 11월 17일 애즈원 - **Restoration**
-  - 2007년 1월 25일 [베이비복스 Re.V](https://ko.wikipedia.org/wiki/베이비복스_리브 "wikilink") - **오(五).가(歌).무(舞).세(世).경(炅)**\[1\]
+  - 2007년 1월 25일 [베이비복스 Re.V](../Page/베이비복스_리브.md "wikilink") - **오(五).가(歌).무(舞).세(世).경(炅)**\[1\]
   - 2008년 7월 15일 베이비복스 Re.V - **I Believe**
 
 ## 2010년대

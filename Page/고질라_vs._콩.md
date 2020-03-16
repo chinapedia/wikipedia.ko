@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ vs. ](https://ko.wikipedia.org/wiki/_vs._).
 
 
-《**고질라 vs. 콩**》()은 2020년 개봉 예정인 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [괴물 영화이다](https://ko.wikipedia.org/wiki/괴물_영화 "wikilink"). [애덤 윈가드가](../Page/애덤_윈가드.md "wikilink") 감독을, [테리 로시오가](https://ko.wikipedia.org/wiki/테리_로시오 "wikilink") 각본을 맡았다. [몬스터버스](../Page/몬스터버스.md "wikilink")의 네 번째 영화이자 첫 번째 [크로스오버 작품이다](https://ko.wikipedia.org/wiki/크로스오버_작품 "wikilink").
+《**고질라 vs. 콩**》()은 2020년 개봉 예정인 [미국](../Page/미국.md "wikilink")의 [괴물 영화이다](https://ko.wikipedia.org/wiki/괴물_영화 "wikilink"). [애덤 윈가드가](../Page/애덤_윈가드.md "wikilink") 감독을, [테리 로시오가](https://ko.wikipedia.org/wiki/테리_로시오 "wikilink") 각본을 맡았다. [몬스터버스](../Page/몬스터버스.md "wikilink")의 네 번째 영화이자 첫 번째 [크로스오버 작품이다](https://ko.wikipedia.org/wiki/크로스오버_작품 "wikilink").
 
 ## 외부 링크
 

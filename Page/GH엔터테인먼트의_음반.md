@@ -22,7 +22,7 @@
   - 2017년 7월 7일 B.I.G - **\[Digital Single\] 기억할게요**
   - 2017년 8월 1일 [애플비](../Page/애플비_\(음악_그룹\).md "wikilink") - **\[Digital Single\] 우쭈쭈**
   - 2017년 11월 13일 희도,[건민](https://ko.wikipedia.org/wiki/B.I.G "wikilink") - **\[Digital Single\] Fly Day**\[4\]
-  - 2018년 1월 31일 [소야](https://ko.wikipedia.org/wiki/소야 "wikilink") - **\[Digital Single\] SOYA Color Project Vol.1 \`SHOW\`**
+  - 2018년 1월 31일 [소야](../Page/소야.md "wikilink") - **\[Digital Single\] SOYA Color Project Vol.1 \`SHOW\`**
   - 2018년 4월 10일 [건민 X 희도](https://ko.wikipedia.org/wiki/B.I.G "wikilink") - **\[Digital Single\] Don't Worry**
   - 2018년 4월 11일 소야 - **스위치 - 세상을 바꿔라 OST Part.2**
   - 2018년 4월 18일 소야 - **\[Digital Single\] SOYA Color Project Vol.2 \`OASIS\`**
@@ -49,6 +49,6 @@
 [분류:대한민국 음반사의 음반 목록](https://ko.wikipedia.org/wiki/분류:대한민국_음반사의_음반_목록 "wikilink")
 
 1.  [혜정도](https://ko.wikipedia.org/wiki/혜정_\(가수\) "wikilink") 앨범 참여.
-2.  [테이크](https://ko.wikipedia.org/wiki/테이크_\(음악_그룹\) "wikilink"),[하니](https://ko.wikipedia.org/wiki/하니 "wikilink"),[빅스도](https://ko.wikipedia.org/wiki/빅스_\(음악_그룹\) "wikilink") 앨범 참여.
+2.  [테이크](https://ko.wikipedia.org/wiki/테이크_\(음악_그룹\) "wikilink"),[하니](https://ko.wikipedia.org/wiki/하니 "wikilink"),[빅스도](../Page/빅스_\(음악_그룹\).md "wikilink") 앨범 참여.
 3.  [혜이니](../Page/혜이니.md "wikilink")도 앨범 참여.
-4.  [백지영](https://ko.wikipedia.org/wiki/백지영 "wikilink"),[원더걸스](https://ko.wikipedia.org/wiki/원더걸스 "wikilink")의 멤버 [선미](https://ko.wikipedia.org/wiki/선미 "wikilink"),[다비치](https://ko.wikipedia.org/wiki/다비치 "wikilink"),[진세연](https://ko.wikipedia.org/wiki/진세연 "wikilink"),[NRG](https://ko.wikipedia.org/wiki/NRG_\(음악_그룹\) "wikilink"),[더 원](https://ko.wikipedia.org/wiki/더_원_\(가수\) "wikilink"),[솔리드의](https://ko.wikipedia.org/wiki/솔리드_\(음악_그룹\) "wikilink") 멤버 [김조한](https://ko.wikipedia.org/wiki/김조한 "wikilink"),[슈퍼주니어](https://ko.wikipedia.org/wiki/슈퍼주니어 "wikilink")의 멤버 [은혁](https://ko.wikipedia.org/wiki/은혁 "wikilink"),[B.A.P](https://ko.wikipedia.org/wiki/B.A.P "wikilink")의 두 멤버 [영재](../Page/영재_\(1994년\).md "wikilink"),[종업](https://ko.wikipedia.org/wiki/종업 "wikilink"),[아스트로의](../Page/아스트로_\(음악_그룹\).md "wikilink") 두 멤버 [MJ](https://ko.wikipedia.org/wiki/MJ_\(가수\) "wikilink"),[문빈](../Page/문빈.md "wikilink"),[헤일로의](../Page/헤일로_\(음악_그룹\).md "wikilink") 세 멤버 [오운](../Page/헤일로_\(음악_그룹\).md "wikilink"),[재용](../Page/헤일로_\(음악_그룹\).md "wikilink"),[희천도](../Page/헤일로_\(음악_그룹\).md "wikilink") 앨범 참여.
+4.  [백지영](../Page/백지영.md "wikilink"),[원더걸스](../Page/원더걸스.md "wikilink")의 멤버 [선미](../Page/선미.md "wikilink"),[다비치](../Page/다비치.md "wikilink"),[진세연](../Page/진세연.md "wikilink"),[NRG](https://ko.wikipedia.org/wiki/NRG_\(음악_그룹\) "wikilink"),[더 원](https://ko.wikipedia.org/wiki/더_원_\(가수\) "wikilink"),[솔리드의](../Page/솔리드_\(음악_그룹\).md "wikilink") 멤버 [김조한](../Page/김조한.md "wikilink"),[슈퍼주니어](../Page/슈퍼주니어.md "wikilink")의 멤버 [은혁](../Page/은혁.md "wikilink"),[B.A.P](../Page/B.A.P.md "wikilink")의 두 멤버 [영재](../Page/영재_\(1994년\).md "wikilink"),[종업](../Page/종업.md "wikilink"),[아스트로의](../Page/아스트로_\(음악_그룹\).md "wikilink") 두 멤버 [MJ](https://ko.wikipedia.org/wiki/MJ_\(가수\) "wikilink"),[문빈](../Page/문빈.md "wikilink"),[헤일로의](../Page/헤일로_\(음악_그룹\).md "wikilink") 세 멤버 [오운](../Page/헤일로_\(음악_그룹\).md "wikilink"),[재용](../Page/헤일로_\(음악_그룹\).md "wikilink"),[희천도](../Page/헤일로_\(음악_그룹\).md "wikilink") 앨범 참여.

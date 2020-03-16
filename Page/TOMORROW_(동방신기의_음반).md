@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [TOMORROW \( \)](https://ko.wikipedia.org/wiki/TOMORROW_\(_\)).
 
 
-| 이 앨범에 수록된 싱글                                                                                                        |
-| ------------------------------------------------------------------------------------------------------------------- |
-| [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [12월 20일](https://ko.wikipedia.org/wiki/12월_20일 "wikilink") |
-| [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [7월 25일](https://ko.wikipedia.org/wiki/7월_25일 "wikilink")   |
-|                                                                                                                     |
+| 이 앨범에 수록된 싱글                                                                  |
+| ----------------------------------------------------------------------------- |
+| [2017년](../Page/2017년.md "wikilink") [12월 20일](../Page/12월_20일.md "wikilink") |
+| [2018년](../Page/2018년.md "wikilink") [7월 25일](../Page/7월_25일.md "wikilink")   |
+|                                                                               |
 
-《**TOMORROW**》는 대한민국 음악 그룹 [동방신기](https://ko.wikipedia.org/wiki/동방신기 "wikilink")의 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서 발매된 9번째 정규 앨범이다. 2017년 8월 재시동 이후의 첫번째 정규 앨범이자 2014년 12월 발표된 정규 8집 〈[WITH](../Page/WITH_\(동방신기의_음반\).md "wikilink")〉 이후 3년 9개월 만에 발표된 정규 앨범으로 동방신기의 머릿글자인 T를 앨범명에 삽입하는 관습을 그대로 계승하였다.
+《**TOMORROW**》는 대한민국 음악 그룹 [동방신기](../Page/동방신기.md "wikilink")의 [일본](../Page/일본.md "wikilink")에서 발매된 9번째 정규 앨범이다. 2017년 8월 재시동 이후의 첫번째 정규 앨범이자 2014년 12월 발표된 정규 8집 〈[WITH](../Page/WITH_\(동방신기의_음반\).md "wikilink")〉 이후 3년 9개월 만에 발표된 정규 앨범으로 동방신기의 머릿글자인 T를 앨범명에 삽입하는 관습을 그대로 계승하였다.
 
-또한 〈TOMORROW〉라는 앨범명과 컨셉에 부합하고자 동방신기의 5인 체제 시절 발표곡인 싱글 4집 〈[明日は来るから](https://ko.wikipedia.org/wiki/아스와쿠루카라 "wikilink")〉의 리메이크 버전인 TOMORROW 버전을 타이틀곡으로 채택하였다.
+또한 〈TOMORROW〉라는 앨범명과 컨셉에 부합하고자 동방신기의 5인 체제 시절 발표곡인 싱글 4집 〈[明日は来るから](../Page/아스와쿠루카라.md "wikilink")〉의 리메이크 버전인 TOMORROW 버전을 타이틀곡으로 채택하였다.
 
 ## 수록곡
 

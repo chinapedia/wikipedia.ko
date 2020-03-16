@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ II:    -   ](https://ko.wikipedia.org/wiki/_II:____-___).
 
 
-《**이스 II: 에인션트 이스 배니시드 - 더 파이널 챕터**》(, 이스 II: 잃어버린 고대왕국 이스 최종장)는 [니혼 팔콤이](https://ko.wikipedia.org/wiki/니혼_팔콤 "wikilink") 제작한 [액션 롤플레잉 게임이다](https://ko.wikipedia.org/wiki/액션_롤플레잉_게임 "wikilink"). 《[이스 I: 에인션트 이스 배니시드](../Page/이스_I:_에인션트_이스_배니시드.md "wikilink")》의 바로 뒷이야기를 그린 후속작으로, 1988년 6월 24일 [PC-8801](https://ko.wikipedia.org/wiki/PC-8801 "wikilink") 및 [PC-9801](https://ko.wikipedia.org/wiki/PC-9801 "wikilink")로 발매됐다. 1994년에 대한민국의 만트라가 [MS-DOS](https://ko.wikipedia.org/wiki/MS-DOS "wikilink")로 《**이스 II 스페셜**》()이라는 제목의 확장판을 발매했다.\[1\]\[2\]
+《**이스 II: 에인션트 이스 배니시드 - 더 파이널 챕터**》(, 이스 II: 잃어버린 고대왕국 이스 최종장)는 [니혼 팔콤이](../Page/니혼_팔콤.md "wikilink") 제작한 [액션 롤플레잉 게임이다](https://ko.wikipedia.org/wiki/액션_롤플레잉_게임 "wikilink"). 《[이스 I: 에인션트 이스 배니시드](../Page/이스_I:_에인션트_이스_배니시드.md "wikilink")》의 바로 뒷이야기를 그린 후속작으로, 1988년 6월 24일 [PC-8801](https://ko.wikipedia.org/wiki/PC-8801 "wikilink") 및 [PC-9801](https://ko.wikipedia.org/wiki/PC-9801 "wikilink")로 발매됐다. 1994년에 대한민국의 만트라가 [MS-DOS](../Page/MS-DOS.md "wikilink")로 《**이스 II 스페셜**》()이라는 제목의 확장판을 발매했다.\[1\]\[2\]
 
-1989년 [PC 엔진 CD로](https://ko.wikipedia.org/wiki/PC_엔진_CD "wikilink") 개발된 《[이스 I & II](https://ko.wikipedia.org/wiki/이스_I_&_II "wikilink")》를 시작으로 전작과 묶인 합본으로 발매됐다.\[3\] 1992년에 이 게임을 바탕으로 한 [이스 애니메이션이](https://ko.wikipedia.org/wiki/이스_\(애니메이션\) "wikilink") 제작됐다.
+1989년 [PC 엔진 CD로](https://ko.wikipedia.org/wiki/PC_엔진_CD "wikilink") 개발된 《[이스 I & II](../Page/이스_I_&_II.md "wikilink")》를 시작으로 전작과 묶인 합본으로 발매됐다.\[3\] 1992년에 이 게임을 바탕으로 한 [이스 애니메이션이](https://ko.wikipedia.org/wiki/이스_\(애니메이션\) "wikilink") 제작됐다.
 
 ## 줄거리
 

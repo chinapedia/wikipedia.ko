@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
 
 
-**FC 리퍼링**(FC Liefering)은 [잘츠부르크주](https://ko.wikipedia.org/wiki/잘츠부르크주 "wikilink") [그뢰디히](https://ko.wikipedia.org/wiki/그뢰디히 "wikilink")를 연고로 하는 [오스트리아](https://ko.wikipedia.org/wiki/오스트리아 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. [현재 에르스테 리가에](https://ko.wikipedia.org/wiki/현재_에르스테_리가 "wikilink") 참가하고 있다. 2012년부터 [FC 레드불 잘츠부르크의](https://ko.wikipedia.org/wiki/FC_레드불_잘츠부르크 "wikilink") [팜팀](https://ko.wikipedia.org/wiki/팜팀 "wikilink") 역할을 하고 있으며, [FC 레드불 잘츠부르크](https://ko.wikipedia.org/wiki/FC_레드불_잘츠부르크 "wikilink") 소속 선수 중 경험이 필요한 선수들은 FC 리퍼링으로 임대를 보내고 있다.
+**FC 리퍼링**(FC Liefering)은 [잘츠부르크주](https://ko.wikipedia.org/wiki/잘츠부르크주 "wikilink") [그뢰디히](https://ko.wikipedia.org/wiki/그뢰디히 "wikilink")를 연고로 하는 [오스트리아](../Page/오스트리아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. [현재 에르스테 리가에](https://ko.wikipedia.org/wiki/현재_에르스테_리가 "wikilink") 참가하고 있다. 2012년부터 [FC 레드불 잘츠부르크의](../Page/FC_레드불_잘츠부르크.md "wikilink") [팜팀](https://ko.wikipedia.org/wiki/팜팀 "wikilink") 역할을 하고 있으며, [FC 레드불 잘츠부르크](../Page/FC_레드불_잘츠부르크.md "wikilink") 소속 선수 중 경험이 필요한 선수들은 FC 리퍼링으로 임대를 보내고 있다.
 
 ## 관련 문서
 
-  - [FC 레드불 잘츠부르크](https://ko.wikipedia.org/wiki/FC_레드불_잘츠부르크 "wikilink")
+  - [FC 레드불 잘츠부르크](../Page/FC_레드불_잘츠부르크.md "wikilink")
 
 ## 외부 링크
 

@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [LED](https://ko.wikipedia.org/wiki/LED).
 
 
-**마이크로LED**(MicroLED, micro-LED, mLED, µLED)는 새로 출현하는 [평판 디스플레이](https://ko.wikipedia.org/wiki/평판_디스플레이 "wikilink") 기술이다. 이름에서 알 수 있듯이 마이크로LED 디스플레이는 개개의 화소 요소를 이루는 마이크로 픽셀의 [LED](https://ko.wikipedia.org/wiki/발광_다이오드 "wikilink") 배열로 구성되어 있다. 보편화된 [LCD](https://ko.wikipedia.org/wiki/액정_디스플레이 "wikilink") 기술과 비교할 때 마이크로LED 디스플레이는 더 나은 [대비](https://ko.wikipedia.org/wiki/콘트라스트 "wikilink"), [응답 시간](https://ko.wikipedia.org/wiki/응답_시간 "wikilink"), [에너지 효율성을](https://ko.wikipedia.org/wiki/효율적_에너지_사용 "wikilink") 제공한다.
+**마이크로LED**(MicroLED, micro-LED, mLED, µLED)는 새로 출현하는 [평판 디스플레이](https://ko.wikipedia.org/wiki/평판_디스플레이 "wikilink") 기술이다. 이름에서 알 수 있듯이 마이크로LED 디스플레이는 개개의 화소 요소를 이루는 마이크로 픽셀의 [LED](../Page/발광_다이오드.md "wikilink") 배열로 구성되어 있다. 보편화된 [LCD](../Page/액정_디스플레이.md "wikilink") 기술과 비교할 때 마이크로LED 디스플레이는 더 나은 [대비](https://ko.wikipedia.org/wiki/콘트라스트 "wikilink"), [응답 시간](https://ko.wikipedia.org/wiki/응답_시간 "wikilink"), [에너지 효율성을](https://ko.wikipedia.org/wiki/효율적_에너지_사용 "wikilink") 제공한다.
 
-[OLED와](https://ko.wikipedia.org/wiki/유기_발광_다이오드 "wikilink") 함께 마이크로LED는 [스마트워치](../Page/스마트워치.md "wikilink"), [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")과 같이 크기가 작고 에너지가 적은 장치에 주 목적을 둔다. OLED와 마이크로LED는 전통적인 LCD 시스템에 비해 에너지 요구량이 상당히 더 적은 편이다. OLED와 달리 마이크로LED는 전통적인 [GaN](https://ko.wikipedia.org/wiki/질화_갈륨 "wikilink") LED 기술에 기반을 두고 있어서 [OLED](https://ko.wikipedia.org/wiki/OLED "wikilink")가 내는 총 광량 대비 30배 이상 더 밝은 밝기를 제공할뿐 아니라 lux/W 면에서도 효율성이 더 좋다. 또, OLED의 짧은 수명으로 인한 문제가 없다.
+[OLED와](../Page/유기_발광_다이오드.md "wikilink") 함께 마이크로LED는 [스마트워치](../Page/스마트워치.md "wikilink"), [스마트폰](../Page/스마트폰.md "wikilink")과 같이 크기가 작고 에너지가 적은 장치에 주 목적을 둔다. OLED와 마이크로LED는 전통적인 LCD 시스템에 비해 에너지 요구량이 상당히 더 적은 편이다. OLED와 달리 마이크로LED는 전통적인 [GaN](https://ko.wikipedia.org/wiki/질화_갈륨 "wikilink") LED 기술에 기반을 두고 있어서 [OLED](https://ko.wikipedia.org/wiki/OLED "wikilink")가 내는 총 광량 대비 30배 이상 더 밝은 밝기를 제공할뿐 아니라 lux/W 면에서도 효율성이 더 좋다. 또, OLED의 짧은 수명으로 인한 문제가 없다.
 
-2018년 기준으로, 마이크로LED 디스플레이는 대량 생산되거나 상용화되지는 않았으나 삼성은 [CES에서](https://ko.wikipedia.org/wiki/소비자_가전_전시회 "wikilink") 프로토타입을 선보였으며 [애플은](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 직접 마이크로LED 화면의 자체 개발을 시작했다.\[1\]\[2\]
+2018년 기준으로, 마이크로LED 디스플레이는 대량 생산되거나 상용화되지는 않았으나 삼성은 [CES에서](../Page/소비자_가전_전시회.md "wikilink") 프로토타입을 선보였으며 [애플은](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 직접 마이크로LED 화면의 자체 개발을 시작했다.\[1\]\[2\]
 
 ## 연구
 
@@ -13,7 +13,7 @@
 
 마이크로LED 배열은 [광유전학](../Page/광유전학.md "wikilink")용 광원으로서\[7\] 또 [가시광 통신용으로도](https://ko.wikipedia.org/wiki/가시광_통신 "wikilink") 탐구되었다.\[8\]
 
-초기 InGaN 기반 마이크로LED 배열과 마이크로디스플레이들은 주로 패시브 구동 방식(passively driven)이었다. 낮은 전압을 요구했던 VGA 형태의 최초의 액티브 구동 방식의 비디오 지원 자체 발광 InGaN 마이크로LED 마이크로디스플레이(640 x 480 화소, 각 12마이크론 크기에 이들 사이에는 15마이크론)는 하이브리드 [CMOS](https://ko.wikipedia.org/wiki/CMOS "wikilink")와 집적회로(IC) 하이브리드 어셈블리를 통해 실현되었다.\[9\]
+초기 InGaN 기반 마이크로LED 배열과 마이크로디스플레이들은 주로 패시브 구동 방식(passively driven)이었다. 낮은 전압을 요구했던 VGA 형태의 최초의 액티브 구동 방식의 비디오 지원 자체 발광 InGaN 마이크로LED 마이크로디스플레이(640 x 480 화소, 각 12마이크론 크기에 이들 사이에는 15마이크론)는 하이브리드 [CMOS](../Page/CMOS.md "wikilink")와 집적회로(IC) 하이브리드 어셈블리를 통해 실현되었다.\[9\]
 
 ## 각주
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [UEFA   ](https://ko.wikipedia.org/wiki/UEFA___).
 
 
-**UEFA 올해의 여자 선수**()는 매년 유럽의 축구 클럽에서 뛰고 있는 여자 축구 선수들 중에서 가장 훌륭한 활약을 보여준 선수에게 수여하는 [유럽 축구 연맹](https://ko.wikipedia.org/wiki/유럽_축구_연맹 "wikilink")(UEFA)의 상이다. [UEFA 올해의 남자 선수와](https://ko.wikipedia.org/wiki/UEFA_올해의_선수 "wikilink") 같이 발표한다.
+**UEFA 올해의 여자 선수**()는 매년 유럽의 축구 클럽에서 뛰고 있는 여자 축구 선수들 중에서 가장 훌륭한 활약을 보여준 선수에게 수여하는 [유럽 축구 연맹](../Page/유럽_축구_연맹.md "wikilink")(UEFA)의 상이다. [UEFA 올해의 남자 선수와](../Page/UEFA_올해의_선수.md "wikilink") 같이 발표한다.
 
 ## 수상자
 
@@ -166,7 +166,7 @@
 </tr>
 <tr class="odd">
 <td><p>7위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/마르타_비에이라_다_시우바" title="wikilink">마르타</a></p></td>
+<td><p><a href="../Page/마르타_비에이라_다_시우바.md" title="wikilink">마르타</a></p></td>
 <td><p>3</p></td>
 <td><p>-</p></td>
 <td></td>
@@ -433,7 +433,7 @@
 </tr>
 <tr class="even">
 <td><p>2위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/페르닐레_하르데르" title="wikilink">페르닐레 하르데르</a></p></td>
+<td><p><a href="../Page/페르닐레_하르데르.md" title="wikilink">페르닐레 하르데르</a></p></td>
 <td><p>-</p></td>
 <td><p>81</p></td>
 <td></td>
@@ -522,7 +522,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>1위</strong></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/페르닐레_하르데르" title="wikilink">페르닐레 하르데르</a></strong></p></td>
+<td><p><strong><a href="../Page/페르닐레_하르데르.md" title="wikilink">페르닐레 하르데르</a></strong></p></td>
 <td><p>-</p></td>
 <td><p><strong>106</strong></p></td>
 <td><p><strong></strong></p></td>
@@ -651,7 +651,7 @@
 </tr>
 <tr class="odd">
 <td><p>6위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/페르닐레_하르데르" title="wikilink">페르닐레 하르데르</a></p></td>
+<td><p><a href="../Page/페르닐레_하르데르.md" title="wikilink">페르닐레 하르데르</a></p></td>
 <td><p>21</p></td>
 <td><p>-</p></td>
 <td></td>

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ T. ](https://ko.wikipedia.org/wiki/_T._).
 
 
-**새뮤얼 T. 로건**(Samuel T. Logan, Jr. 1943년 10월 26일 - )은\[1\] [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [웨스트민스터 신학교](https://ko.wikipedia.org/wiki/웨스트민스터_신학교 "wikilink") 의 교회사교수이며 총장을 역임하였다. 그는 1991년부터 2005년까지 총장을 하였다. 그는 [정통장로교회](../Page/정통장로교회.md "wikilink") 소속 목사이다.\[2\] 2005년에 이사회에 의해 갑자기 사임되었다\[3\]
+**새뮤얼 T. 로건**(Samuel T. Logan, Jr. 1943년 10월 26일 - )은\[1\] [미국](../Page/미국.md "wikilink") [웨스트민스터 신학교](../Page/웨스트민스터_신학교.md "wikilink") 의 교회사교수이며 총장을 역임하였다. 그는 1991년부터 2005년까지 총장을 하였다. 그는 [정통장로교회](../Page/정통장로교회.md "wikilink") 소속 목사이다.\[2\] 2005년에 이사회에 의해 갑자기 사임되었다\[3\]
 
 ## 작품
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KBS   ](https://ko.wikipedia.org/wiki/KBS___).
 
 
-아래는 [KBS 1TV의](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 다큐멘터리 프로그램 《**[KBS 스페셜](https://ko.wikipedia.org/wiki/KBS_스페셜 "wikilink")**》의 **에피소드 목록**이다.
+아래는 [KBS 1TV의](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 다큐멘터리 프로그램 《**[KBS 스페셜](../Page/KBS_스페셜.md "wikilink")**》의 **에피소드 목록**이다.
 
 ## 방영 목록
 
@@ -12,18 +12,18 @@
 #### 1994년
 
   - 1994년 10월 23일 해양생태보고 "제주 본섬" (첫방송)
-  - 1994년 10월 30일 [대한해협](https://ko.wikipedia.org/wiki/대한해협 "wikilink") 횡단 "풍선의 여행"
-  - 1994년 11월 6일 [토지](https://ko.wikipedia.org/wiki/토지 "wikilink") 25년의 대장경 - [박경리](https://ko.wikipedia.org/wiki/박경리 "wikilink")
+  - 1994년 10월 30일 [대한해협](../Page/대한해협.md "wikilink") 횡단 "풍선의 여행"
+  - 1994년 11월 6일 [토지](https://ko.wikipedia.org/wiki/토지 "wikilink") 25년의 대장경 - [박경리](../Page/박경리.md "wikilink")
   - 1994년 11월 13일 \`94 파라온 랠리
   - 1994년 11월 20일 잃어버린 세계를 찾아서 - [마야 잉카](https://ko.wikipedia.org/wiki/마야_잉카 "wikilink")
   - 1994년 11월 27일 아프리카의 고뇌
   - 1994년 12월 4일 아버지와 아들
   - 1994년 12월 11일 사상의학
-  - 1994년 12월 18일 [신재효](https://ko.wikipedia.org/wiki/신재효 "wikilink")의 변강쇠가
+  - 1994년 12월 18일 [신재효](../Page/신재효.md "wikilink")의 변강쇠가
 
 #### 1995년
 
-  - 1995년 1월 1일 [북한산](https://ko.wikipedia.org/wiki/북한산 "wikilink") 사계
+  - 1995년 1월 1일 [북한산](../Page/북한산.md "wikilink") 사계
   - 1995년 1월 8일 [김일성](https://ko.wikipedia.org/wiki/김일성 "wikilink") 사후 - 북한을 가다
   - 1995년 1월 15일 체첸 - 그들은 왜 싸우는가?
   - 1995년 1월 22일 긴급리포트 - 현장에서 본 [지진](https://ko.wikipedia.org/wiki/지진 "wikilink")
@@ -31,7 +31,7 @@
   - 1995년 2월 5일 세계 기상이변 왜 오는가?
   - 1995년 2월 12일 [동소평](https://ko.wikipedia.org/wiki/동소평 "wikilink") 사후 5가지 의문
   - 1995년 2월 19일 남극, 그 영원한 신비
-  - 1995년 2월 26일 추적\! [한국](https://ko.wikipedia.org/wiki/한국 "wikilink") [호랑이](https://ko.wikipedia.org/wiki/호랑이 "wikilink")
+  - 1995년 2월 26일 추적\! [한국](../Page/한국.md "wikilink") [호랑이](../Page/호랑이.md "wikilink")
   - 1995년 3월 5일 위기, 동네병원이 사라진다
   - 1995년 3월 12일 하늘과 바람과 별과 시 - 윤동주, 일본 통치하의 청춘과 죽음
   - 1995년 3월 19일 사라예보에 평화는 오는가?
@@ -53,25 +53,25 @@
   - 1995년 7월 9일 해양탐사 제주난류의 원점, 팔라우
   - 1995년 7월 16일 해양 국부론 - 황금알을 낳는 항만
   - 1995년 7월 23일 극한도전 - 걸어서 북극해를 건너다
-  - 1995년 7월 30일 [조수미](https://ko.wikipedia.org/wiki/조수미 "wikilink")의 세계도전
+  - 1995년 7월 30일 [조수미](../Page/조수미.md "wikilink")의 세계도전
   - 1995년 8월 20일 패전 50년, 거꾸로 가는 일본유익
   - 1995년 8월 27일 모기의 역습
   - 1995년 9월 3일 르완다 - 새로운 비극의 시작
   - 1995년 9월 10일 빅토르 최(2)
-  - 1995년 9월 17일 [생명](https://ko.wikipedia.org/wiki/생명 "wikilink")의 신비
+  - 1995년 9월 17일 [생명](../Page/생명.md "wikilink")의 신비
   - 1995년 9월 24일 월남왕손 이승칸의 귀향
   - 1995년 10월 1일 구 소련 항모 민스크호 긴급명령 95호 - 대한민국의 항진하라
   - 1995년 10월 8일 일촉즉발 전운의 대만해협
   - 1995년 10월 15일 세계가 주목한 OJ 심슨재관
-  - 1995년 10월 22일 40대 [돌연사](https://ko.wikipedia.org/wiki/돌연사 "wikilink") 진단 - [간](https://ko.wikipedia.org/wiki/간 "wikilink")
-  - 1995년 10월 29일 40대 [돌연사](https://ko.wikipedia.org/wiki/돌연사 "wikilink") 진단 - [심장](https://ko.wikipedia.org/wiki/심장 "wikilink")
+  - 1995년 10월 22일 40대 [돌연사](../Page/돌연사.md "wikilink") 진단 - [간](../Page/간.md "wikilink")
+  - 1995년 10월 29일 40대 [돌연사](../Page/돌연사.md "wikilink") 진단 - [심장](../Page/심장.md "wikilink")
   - 1995년 11월 5일 어둠의 파도에서 - 북한발 대남공작
   - 1995년 11월 12일 라빈 사후, 중동은?
   - 1995년 11월 19일 오직 천재만을 위하여 - 줄리아드
   - 1995년 11월 26일 충격보고 - UFO
   - 1995년 12월 3일 청산해야 할 역사 - 군사 쿠테타
   - 1995년 12월 10일 공자전
-  - 1995년 12월 17일 [무령왕릉](https://ko.wikipedia.org/wiki/무령왕릉 "wikilink") - 일곱가지 비밀
+  - 1995년 12월 17일 [무령왕릉](../Page/무령왕릉.md "wikilink") - 일곱가지 비밀
   - 1995년 12월 24일 [DMZ](https://ko.wikipedia.org/wiki/DMZ "wikilink")
 
 #### 1996년
@@ -82,7 +82,7 @@
   - 1996년 1월 28일 [성덕 바우만](https://ko.wikipedia.org/wiki/성덕_바우만 "wikilink"), 누가 이 아이를 살릴 것인가
   - 1996년 2월 4일 홍콩 갱조직삼합회의 변신
   - 1996년 2월 11일 입체분석 - 북한의 식량난
-  - 1996년 2월 18일 영원한 동백아가씨, [이미자](https://ko.wikipedia.org/wiki/이미자 "wikilink")
+  - 1996년 2월 18일 영원한 동백아가씨, [이미자](../Page/이미자.md "wikilink")
   - 1996년 2월 25일 제국의 이름으로
   - 1996년 3월 3일 두루미, 그 생존의 조건
   - 1996년 3월 10일 충격보고 - 한국 여권이 의심받고 있다
@@ -104,24 +104,24 @@
   - 1996년 6월 30일 국제 위폐범이 된 어느 적군파
   - 1996년 7월 7일 명산시리즈 - 록키, 영원한 프론티어의 꿈
   - 1996년 7월 14일 추적 - 서해 식인상어
-  - 1996년 7월 21일 올림픽 1백주년 기념 - 다시보는 故 [손기정](https://ko.wikipedia.org/wiki/손기정 "wikilink")
-  - 1996년 7월 28일 올림픽 3연패에 도전한다 - [여자핸드볼](https://ko.wikipedia.org/wiki/핸드볼 "wikilink")
+  - 1996년 7월 21일 올림픽 1백주년 기념 - 다시보는 故 [손기정](../Page/손기정.md "wikilink")
+  - 1996년 7월 28일 올림픽 3연패에 도전한다 - [여자핸드볼](../Page/핸드볼.md "wikilink")
   - 1996년 8월 11일 귀국선 [우키시마](https://ko.wikipedia.org/wiki/우키시마 "wikilink"), 부산항으로 향하지 않는다
   - 1996년 8월 18일 오사카 스토리
   - 1996년 8월 25일 중세조선의 비밀, 하멜표류기 - 남만인을 억류하라
   - 1996년 9월 1일 중세조선의 비밀, 하멜표류기 - 조선항로를 봉쇄하라
-  - 1996년 9월 8일 대륙을 흔드는 조선족, [최건](https://ko.wikipedia.org/wiki/최건 "wikilink")
-  - 1996년 9월 15일 속 [무령왕릉](https://ko.wikipedia.org/wiki/무령왕릉 "wikilink") - 백제 22담로의 비밀
+  - 1996년 9월 8일 대륙을 흔드는 조선족, [최건](../Page/최건.md "wikilink")
+  - 1996년 9월 15일 속 [무령왕릉](../Page/무령왕릉.md "wikilink") - 백제 22담로의 비밀
   - 1996년 9월 22일 사하라 도보 횡단 대서양에서 흥해까지
   - 1996년 9월 29일 전월선 2년 반의 기록, 고려산천을...
   - 1996년 10월 6일 아시아의 화약고 남사군도
-  - 1996년 10월 13일 [느티나무](https://ko.wikipedia.org/wiki/느티나무 "wikilink") 둥지 100일의 기록
+  - 1996년 10월 13일 [느티나무](../Page/느티나무.md "wikilink") 둥지 100일의 기록
   - 1996년 10월 27일 25시의 아메리안들
   - 1996년 11월 3일 이것이 첨단 전투기다
   - 1996년 11월 10일 잊혀진 대역사 - 메구로 가조엔의 조선칠 이야기
   - 1996년 11월 17일 물류 동맥경화, 규제가 문제다
   - 1996년 11월 24일 모두다 23과목 선택할 수 없는 아이들
-  - 1996년 12월 [생로병사의 비밀](https://ko.wikipedia.org/wiki/생로병사의_비밀 "wikilink") - 1편 : 잿빛 노화
+  - 1996년 12월 [생로병사의 비밀](../Page/생로병사의_비밀.md "wikilink") - 1편 : 잿빛 노화
   - 1996년 12월 생로병사의 비밀 - 2편 : 고개숙인 성
   - 1996년 12월 생로병사의 비밀 - 3편 : 검은빛 죽음
   - 1996년 12월 생로병사의 비밀 - 4편 : 120세에 도전
@@ -130,7 +130,7 @@
 
 #### 1997년
 
-  - 1997년 1월 5일 원형탐구 [석굴암](https://ko.wikipedia.org/wiki/석굴암 "wikilink")
+  - 1997년 1월 5일 원형탐구 [석굴암](../Page/석굴암.md "wikilink")
   - 1997년 1월 12일 도시의 부활
   - 1997년 1월 19일 인터넷 새로운 세계가 열린다
   - 1997년 1월 26일 신중현과 아름다운 강산
@@ -149,23 +149,23 @@
   - 1997년 4월 27일 영원한 제국 [바티칸](https://ko.wikipedia.org/wiki/바티칸 "wikilink")
   - 1997년 5월 4일 여우야 여우야 뭐하니
   - 1997년 5월 11일 잊혀진 누나들의 이야기 - 독일로 간 간호사
-  - 1997년 5월 18일 [731부대](https://ko.wikipedia.org/wiki/731부대 "wikilink")는 살아있다 - 1부 미완의 심판
+  - 1997년 5월 18일 [731부대](../Page/731부대.md "wikilink")는 살아있다 - 1부 미완의 심판
   - 1997년 5월 25일 731부대는 살아있다 - 2부 되살아난 망령
   - 1997년 6월 1일 식물의 신비 그 베일을 벗긴다
   - 1997년 6월 8일 빅 3의 반격 미 자동차 산업
   - 1997년 6월 15일 아이디어를 연결하라 미 벤처산업
   - 1997년 6월 22일 입체분석 - 지금 북한 무슨 일이 일어나고 있나
-  - 1997년 6월 29일 다시 뜨는 태양 - [선동열](https://ko.wikipedia.org/wiki/선동열 "wikilink")
+  - 1997년 6월 29일 다시 뜨는 태양 - [선동열](../Page/선동열.md "wikilink")
   - 1997년 7월 6일 아직도 그대 이름은 찰리
   - 1997년 7월 13일 홍콩반환 10일 중국을 다시 본다
   - 1997년 7월 20일 황소개구리 대역습
   - 1997년 7월 27일 경제위기 세계는 어떻게 대응했나 - 제3편 멕시코의 해법 정치논리에서 경제논리로
-  - 1997년 8월 3일 [박찬호](https://ko.wikipedia.org/wiki/박찬호 "wikilink") 누가 그를 메이저리그로 만들었나
+  - 1997년 8월 3일 [박찬호](../Page/박찬호.md "wikilink") 누가 그를 메이저리그로 만들었나
   - 1997년 8월 17일 [한일어업분쟁](https://ko.wikipedia.org/wiki/한일어업분쟁 "wikilink"), 일본은 무엇을 노리나
   - 1997년 8월 24일 생물자원시대 종이 유출되고 있다
   - 1997년 8월 31일 쉐리순 디벨라 16년만의 귀향
   - 1997년 9월 7일 비운의 왕세자비 [다이애나](https://ko.wikipedia.org/wiki/다이애나 "wikilink")
-  - 1997년 9월 14일 최초공개 - 북한에서 본 [백두산](https://ko.wikipedia.org/wiki/백두산 "wikilink")
+  - 1997년 9월 14일 최초공개 - 북한에서 본 [백두산](../Page/백두산.md "wikilink")
   - 1997년 9월 21일 사례분석 세계일류기업 무엇이 이들을 최고로 만들었나 - 제1편 인간존중으로 만든 신화
   - 1997년 9월 28일 사례분석 세계일류기업 무엇이 이들을 최고로 만들었나 - 제2편 속도전의 승부사들
   - 1997년 10월 5일 상경열차의 추억
@@ -192,8 +192,8 @@
   - 1998년 4월 26일 숨겨진 정부 산하기관 지금 혈세가 새고 있다
   - 1998년 5월 3일 티베트 불교의 메카, 다람살라를 가다\!
   - 1998년 5월 10일 특집, 국민과의 대화
-  - 1998년 5월 17일 나의 음악, 나의 조국 - [윤이상](https://ko.wikipedia.org/wiki/윤이상 "wikilink")
-  - 1998년 5월 24일 자연다큐멘터리 - [수달](https://ko.wikipedia.org/wiki/수달 "wikilink")
+  - 1998년 5월 17일 나의 음악, 나의 조국 - [윤이상](../Page/윤이상.md "wikilink")
+  - 1998년 5월 24일 자연다큐멘터리 - [수달](../Page/수달.md "wikilink")
   - 1998년 5월 31일 교실안의 작은 혁명 제주대기고는 왜 주목받고 있나
   - 1998년 6월 7일 비상 환경호르몬 성(性)이 위협받고 있다
   - 1998년 6월 14일 한국인 어머니 김영희대 흑인아들 [하인즈 워드](https://ko.wikipedia.org/wiki/하인즈_워드 "wikilink")
@@ -208,7 +208,7 @@
   - 1998년 8월 16일 사상최대의 범람 양쯔강 홍수 사태가 미칠 파장은
   - 1998년 8월 23일 세계 최강 키티호크 항모를 가다
   - 1998년 8월 30일 혜성충돌 지구의 종말은 올 것인가
-  - 1998년 9월 6일 민족시인 [고은](https://ko.wikipedia.org/wiki/고은 "wikilink"), 금강산에 가다
+  - 1998년 9월 6일 민족시인 [고은](../Page/고은.md "wikilink"), 금강산에 가다
   - 1998년 9월 13일 가슴으로 만난 북녘땅, 북녘 사람들
   - 1998년 9월 20일 북 위성발사 - 무엇을 노렸나
   - 1998년 9월 27일 국군의 날 특집 - 참군인 한신 이종찬
@@ -242,7 +242,7 @@
   - 1999년 4월 18일 오체불만족-오토다케의 즐거운 인생
   - 1999년 4월 25일 희망의조건 제2편 식탁의 위기는 오는가-유전자 변형식품
   - 1999년 5월 2일 환경탐사 보고 - 황사(黃砂)
-  - 1999년 5월 9일 가발공장에서 하버드까지, [서진규](https://ko.wikipedia.org/wiki/서진규 "wikilink") 모녀(母女) 이야기
+  - 1999년 5월 9일 가발공장에서 하버드까지, [서진규](../Page/서진규.md "wikilink") 모녀(母女) 이야기
   - 1999년 5월 16일 추적\! 동남아 해적, [텐유호](https://ko.wikipedia.org/wiki/텐유호 "wikilink") 실종 사건의 배후를 쫓는다
   - 1999년 5월 23일 21세기기획 희망의조건 10부작 제 3 편 가족의 미래 여성은 어디로 가는가
   - 1999년 5월 30일 김종훈 박사, 한국 젊은이에게 말한다. 21세기 정보통신 혁명 - 한국이 앞 설 수 있다.
@@ -264,16 +264,16 @@
   - 1999년 10월 10일 "꽃의 전쟁" 제1편 해외로 나간 우리의 들꽃
   - 1999년 10월 13일 美 금융계를 이끄는 한국인, 손 성원
   - 1999년 10월 17일 "꽃의 전쟁" 제2편 떠오르는 미래자원, 약용식물 유전자
-  - 1999년 10월 24일 [안중근](https://ko.wikipedia.org/wiki/안중근 "wikilink") 의사 의거 90주년 기획 - 발굴, 일 외무성 秘 파일, 일본은 왜 [안중근](https://ko.wikipedia.org/wiki/안중근 "wikilink")을 죽였나?
+  - 1999년 10월 24일 [안중근](../Page/안중근.md "wikilink") 의사 의거 90주년 기획 - 발굴, 일 외무성 秘 파일, 일본은 왜 [안중근](../Page/안중근.md "wikilink")을 죽였나?
   - 1999년 10월 31일 영혼의 여행, 티벳·라체에서의 1년
   - 1999년 11월 7일 21세기 기획 희망의 조건 10부작 - 제 7 편 문명은 질병을 키우는가 - 바이러스와의 전쟁
-  - 1999년 11월 14일 [곤고구미](https://ko.wikipedia.org/wiki/곤고구미 "wikilink")(金剛組), 1400년의 약속 어떻게 지켰나?
+  - 1999년 11월 14일 [곤고구미](../Page/곤고구미.md "wikilink")(金剛組), 1400년의 약속 어떻게 지켰나?
   - 1999년 11월 21일 세계에서 가장 경이로운 스물 두 살 <대니 서>
   - 1999년 11월 28일 민들레 - 한많은 어버이의 삶
   - 1999년 12월 5일 대학혁명-21세기 엘리트는 어떻게 만들어지는가
   - 1999년 12월 12일 특검제의 충격, 무엇을 남겼나?
   - 1999년 12월 19일 히말라야 캉첸중가 원정의 도전과 실패
-  - 1999년 12월 25일 [신영복](https://ko.wikipedia.org/wiki/신영복 "wikilink") 교수의 20세기 지구 마지막 여행 제1부
+  - 1999년 12월 25일 [신영복](../Page/신영복.md "wikilink") 교수의 20세기 지구 마지막 여행 제1부
   - 1999년 12월 26일 신영복 교수의 20세기 지구 마지막 여행 제2부
 
 #### 2000년
@@ -560,62 +560,62 @@
 <tbody>
 <tr class="odd">
 <td><p>1회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/11월_6일" title="wikilink">11월 6일</a></p></td>
+<td><p><a href="../Page/11월_6일.md" title="wikilink">11월 6일</a></p></td>
 <td><p>부시 2기<br />
 북핵 그리고 한반도</p></td>
 </tr>
 <tr class="even">
 <td><p>2회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/11월_7일" title="wikilink">11월 7일</a></p></td>
+<td><p><a href="../Page/11월_7일.md" title="wikilink">11월 7일</a></p></td>
 <td><p>도자기(1)<br />
 흙으로부터</p></td>
 </tr>
 <tr class="odd">
 <td><p>3회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/11월_13일" title="wikilink">11월 13일</a></p></td>
+<td><p><a href="../Page/11월_13일.md" title="wikilink">11월 13일</a></p></td>
 <td><p>긴급 리포트<br />
 아라파트 사후<br />
 팔레스타인의 미래는</p></td>
 </tr>
 <tr class="even">
 <td><p>4회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/11월_14일" title="wikilink">11월 14일</a></p></td>
+<td><p><a href="../Page/11월_14일.md" title="wikilink">11월 14일</a></p></td>
 <td><p>도자기 (2)<br />
 신비의 자기</p></td>
 </tr>
 <tr class="odd">
 <td><p>5회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/11월_20일" title="wikilink">11월 20일</a></p></td>
+<td><p><a href="../Page/11월_20일.md" title="wikilink">11월 20일</a></p></td>
 <td><p>밀착취재 3년<br />
 국군포로 3인의 선택</p></td>
 </tr>
 <tr class="even">
 <td><p>6회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/11월_21일" title="wikilink">11월 21일</a></p></td>
+<td><p><a href="../Page/11월_21일.md" title="wikilink">11월 21일</a></p></td>
 <td><p>도자기 (3)<br />
 이슬람의 유산</p></td>
 </tr>
 <tr class="odd">
 <td><p>7회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/11월_28일" title="wikilink">11월 28일</a></p></td>
+<td><p><a href="../Page/11월_28일.md" title="wikilink">11월 28일</a></p></td>
 <td><p>도자기 (4)<br />
 청화의 제국</p></td>
 </tr>
 <tr class="even">
 <td><p>8회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/12월_5일" title="wikilink">12월 5일</a></p></td>
+<td><p><a href="../Page/12월_5일.md" title="wikilink">12월 5일</a></p></td>
 <td><p>도자기 (5)<br />
 도전의 세기</p></td>
 </tr>
 <tr class="odd">
 <td><p>9회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/12월_12일" title="wikilink">12월 12일</a></p></td>
+<td><p><a href="../Page/12월_12일.md" title="wikilink">12월 12일</a></p></td>
 <td><p>도자기 (6)<br />
 문명을 넘어</p></td>
 </tr>
 <tr class="even">
 <td><p>10회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/12월_28일" title="wikilink">12월 28일</a></p></td>
+<td><p><a href="../Page/12월_28일.md" title="wikilink">12월 28일</a></p></td>
 <td><p>바이오 혁명(3)<br />
 황금알을 낳는 동물들</p></td>
 </tr>
@@ -635,83 +635,83 @@
 <tbody>
 <tr class="odd">
 <td><p>11회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1월_8일" title="wikilink">1월 8일</a></p></td>
+<td><p><a href="../Page/1월_8일.md" title="wikilink">1월 8일</a></p></td>
 <td><p>대한민국 혁신 프로젝트(1)<br />
 투명한 사회 - 부패한 선진국은 없다</p></td>
 </tr>
 <tr class="even">
 <td><p>12회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1월_9일" title="wikilink">1월 9일</a></p></td>
+<td><p><a href="../Page/1월_9일.md" title="wikilink">1월 9일</a></p></td>
 <td><p>대한민국 혁신 프로젝트(2)<br />
 현명한 정부 - IQ를 높여라</p></td>
 </tr>
 <tr class="odd">
 <td><p>13회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1월_15일" title="wikilink">1월 15일</a></p></td>
+<td><p><a href="../Page/1월_15일.md" title="wikilink">1월 15일</a></p></td>
 <td><p>조화로운 삶 - 니어링 부부의 후예들</p></td>
 </tr>
 <tr class="even">
 <td><p>14회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1월_16일" title="wikilink">1월 16일</a></p></td>
+<td><p><a href="../Page/1월_16일.md" title="wikilink">1월 16일</a></p></td>
 <td><p>2005 한국 석유 보고서(1)<br />
 코리언 오일 로드</p></td>
 </tr>
 <tr class="odd">
 <td><p>15회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1월_22일" title="wikilink">1월 22일</a></p></td>
+<td><p><a href="../Page/1월_22일.md" title="wikilink">1월 22일</a></p></td>
 <td><p>티베트 소금 계곡의 마지막 마방</p></td>
 </tr>
 <tr class="even">
 <td><p>16회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1월_23일" title="wikilink">1월 23일</a></p></td>
+<td><p><a href="../Page/1월_23일.md" title="wikilink">1월 23일</a></p></td>
 <td><p>2005 한국 석유 보고서(2)<br />
 누가 남은 광구를 차지할 것인가</p></td>
 </tr>
 <tr class="odd">
 <td><p>17회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1월_29일" title="wikilink">1월 29일</a></p></td>
+<td><p><a href="../Page/1월_29일.md" title="wikilink">1월 29일</a></p></td>
 <td><p>21세기 농업의 미래(1)<br />
 친환경 · 유기농 시장을 선점하라</p></td>
 </tr>
 <tr class="even">
 <td><p>18회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1월_30일" title="wikilink">1월 30일</a></p></td>
+<td><p><a href="../Page/1월_30일.md" title="wikilink">1월 30일</a></p></td>
 <td><p>21세기 농업의 미래(2)<br />
 세계는 왜 친환경농업을 선택했나</p></td>
 </tr>
 <tr class="odd">
 <td><p>19회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2월_5일" title="wikilink">2월 5일</a></p></td>
+<td><p><a href="../Page/2월_5일.md" title="wikilink">2월 5일</a></p></td>
 <td><p>설기획 인류 오디세이(1)<br />
 머나먼 여정</p></td>
 </tr>
 <tr class="even">
 <td><p>20회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2월_6일" title="wikilink">2월 6일</a></p></td>
+<td><p><a href="../Page/2월_6일.md" title="wikilink">2월 6일</a></p></td>
 <td><p>설기획 인류 오디세이(2)<br />
 호모 사피엔스</p></td>
 </tr>
 <tr class="odd">
 <td><p>21회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2월_12일" title="wikilink">2월 12일</a></p></td>
+<td><p><a href="../Page/2월_12일.md" title="wikilink">2월 12일</a></p></td>
 <td><p>슈퍼파워 미국 대 중국(1)<br />
 협력인가 대결인가?</p></td>
 </tr>
 <tr class="even">
 <td><p>22회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2월_13일" title="wikilink">2월 13일</a></p></td>
+<td><p><a href="../Page/2월_13일.md" title="wikilink">2월 13일</a></p></td>
 <td><p>슈퍼파워 미국 대 중국(2)<br />
 한반도의 선택은?</p></td>
 </tr>
 <tr class="odd">
 <td><p>23회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2월_19일" title="wikilink">2월 19일</a></p></td>
+<td><p><a href="../Page/2월_19일.md" title="wikilink">2월 19일</a></p></td>
 <td><p>공존의 조건(1)<br />
 방치된 빈곤 - 400만의 겨울</p></td>
 </tr>
 <tr class="even">
 <td><p>24회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2월_20일" title="wikilink">2월 20일</a></p></td>
+<td><p><a href="../Page/2월_20일.md" title="wikilink">2월 20일</a></p></td>
 <td><p>공존의 조건(2)<br />
 자본 유출 200억 달러<br />
 부는 왜 해외로 나가는가?</p></td>
@@ -723,491 +723,491 @@
 </tr>
 <tr class="even">
 <td><p>26회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2월_27일" title="wikilink">2월 27일</a></p></td>
+<td><p><a href="../Page/2월_27일.md" title="wikilink">2월 27일</a></p></td>
 <td><p>독도</p></td>
 </tr>
 <tr class="odd">
 <td><p>27회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/3월_5일" title="wikilink">3월 5일</a></p></td>
+<td><p><a href="../Page/3월_5일.md" title="wikilink">3월 5일</a></p></td>
 <td><p>한국경제 희망로드맵(1)<br />
 양극화의 함정</p></td>
 </tr>
 <tr class="even">
 <td><p>28회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/3월_6일" title="wikilink">3월 6일</a></p></td>
+<td><p><a href="../Page/3월_6일.md" title="wikilink">3월 6일</a></p></td>
 <td><p>한국경제 희망로드맵(2)<br />
 투자 - 돈을 조직하라</p></td>
 </tr>
 <tr class="odd">
 <td><p>29회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/3월_12일" title="wikilink">3월 12일</a></p></td>
+<td><p><a href="../Page/3월_12일.md" title="wikilink">3월 12일</a></p></td>
 <td><p>한국경제 희망로드맵(3)<br />
 일자리가 최우선이다</p></td>
 </tr>
 <tr class="even">
 <td><p>30회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/3월_13일" title="wikilink">3월 13일</a></p></td>
+<td><p><a href="../Page/3월_13일.md" title="wikilink">3월 13일</a></p></td>
 <td><p>한국경제 희망로드맵(4)<br />
 상생의 모델은 무엇인가</p></td>
 </tr>
 <tr class="odd">
 <td><p>31회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/3월_19일" title="wikilink">3월 19일</a></p></td>
+<td><p><a href="../Page/3월_19일.md" title="wikilink">3월 19일</a></p></td>
 <td><p>마지막 샹그리라 - 아이라오산의 다랑논</p></td>
 </tr>
 <tr class="even">
 <td><p>32회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/3월_20일" title="wikilink">3월 20일</a></p></td>
+<td><p><a href="../Page/3월_20일.md" title="wikilink">3월 20일</a></p></td>
 <td><p>|밀착 취재 RFA - 보이지 않는 전쟁</p></td>
 </tr>
 <tr class="odd">
 <td><p>33회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/3월_26일" title="wikilink">3월 26일</a></p></td>
+<td><p><a href="../Page/3월_26일.md" title="wikilink">3월 26일</a></p></td>
 <td><p>디카와 싸이질 - 호모 이미지쿠스</p></td>
 </tr>
 <tr class="even">
 <td><p>34회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/3월_27일" title="wikilink">3월 27일</a></p></td>
+<td><p><a href="../Page/3월_27일.md" title="wikilink">3월 27일</a></p></td>
 <td><p>독도 도발 - 일본은 무엇을 노리나</p></td>
 </tr>
 <tr class="odd">
 <td><p>35회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/4월_2일" title="wikilink">4월 2일</a></p></td>
+<td><p><a href="../Page/4월_2일.md" title="wikilink">4월 2일</a></p></td>
 <td><p>교황 요한 바오로 2세</p></td>
 </tr>
 <tr class="even">
 <td><p>36회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/4월_3일" title="wikilink">4월 3일</a></p></td>
+<td><p><a href="../Page/4월_3일.md" title="wikilink">4월 3일</a></p></td>
 <td><p>김윤아의 제주도</p></td>
 </tr>
 <tr class="odd">
 <td><p>37회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/4월_9일" title="wikilink">4월 9일</a></p></td>
+<td><p><a href="../Page/4월_9일.md" title="wikilink">4월 9일</a></p></td>
 <td><p>한국 교육 - 세계 1위?</p></td>
 </tr>
 <tr class="even">
 <td><p>38회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/4월_10일" title="wikilink">4월 10일</a></p></td>
+<td><p><a href="../Page/4월_10일.md" title="wikilink">4월 10일</a></p></td>
 <td><p>악의 가면 - 사이코패스</p></td>
 </tr>
 <tr class="odd">
 <td><p>39회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/4월_16일" title="wikilink">4월 16일</a></p></td>
+<td><p><a href="../Page/4월_16일.md" title="wikilink">4월 16일</a></p></td>
 <td><p>아인슈타인</p></td>
 </tr>
 <tr class="even">
 <td><p>40회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/4월_17일" title="wikilink">4월 17일</a></p></td>
+<td><p><a href="../Page/4월_17일.md" title="wikilink">4월 17일</a></p></td>
 <td><p>교황 - 세기의 선출</p></td>
 </tr>
 <tr class="odd">
 <td><p>41회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/4월_23일" title="wikilink">4월 23일</a></p></td>
+<td><p><a href="../Page/4월_23일.md" title="wikilink">4월 23일</a></p></td>
 <td><p>EU 확대통합 1주년 기획(1)<br />
 미국에 맞서는 슈퍼파워</p></td>
 </tr>
 <tr class="even">
 <td><p>42회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/4월_24일" title="wikilink">4월 24일</a></p></td>
+<td><p><a href="../Page/4월_24일.md" title="wikilink">4월 24일</a></p></td>
 <td><p>EU 확대통합 1주년 기획(2)<br />
 신가입국의 불안한 희망</p></td>
 </tr>
 <tr class="odd">
 <td><p>43회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/4월_30일" title="wikilink">4월 30일</a></p></td>
+<td><p><a href="../Page/4월_30일.md" title="wikilink">4월 30일</a></p></td>
 <td><p>호찌민 루트(1)<br />
 대지의 꽃</p></td>
 </tr>
 <tr class="even">
 <td><p>44회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/5월_1일" title="wikilink">5월 1일</a></p></td>
+<td><p><a href="../Page/5월_1일.md" title="wikilink">5월 1일</a></p></td>
 <td><p>호찌민 루트(2)<br />
 풍요를 향한 도전</p></td>
 </tr>
 <tr class="odd">
 <td><p>45회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/5월_7일" title="wikilink">5월 7일</a></p></td>
+<td><p><a href="../Page/5월_7일.md" title="wikilink">5월 7일</a></p></td>
 <td><p>새 놀이터 프로젝트<br />
 아이들을 유혹하라</p></td>
 </tr>
 <tr class="even">
 <td><p>46회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/5월_8일" title="wikilink">5월 8일</a></p></td>
+<td><p><a href="../Page/5월_8일.md" title="wikilink">5월 8일</a></p></td>
 <td><p>2005 긴장속의 동북아<br />
 중국대 일본 그리고 한국</p></td>
 </tr>
 <tr class="odd">
 <td><p>47회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/5월_14일" title="wikilink">5월 14일</a></p></td>
+<td><p><a href="../Page/5월_14일.md" title="wikilink">5월 14일</a></p></td>
 <td><p>9인 실록<br />
 우리가 유신을 몰아냈다</p></td>
 </tr>
 <tr class="even">
 <td><p>48회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/5월_15일" title="wikilink">5월 15일</a></p></td>
+<td><p><a href="../Page/5월_15일.md" title="wikilink">5월 15일</a></p></td>
 <td><p>봉정암</p></td>
 </tr>
 <tr class="odd">
 <td><p>49회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/5월_21일" title="wikilink">5월 21일</a></p></td>
+<td><p><a href="../Page/5월_21일.md" title="wikilink">5월 21일</a></p></td>
 <td><p>마흔 남자 이야기</p></td>
 </tr>
 <tr class="even">
 <td><p>50회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/5월_22일" title="wikilink">5월 22일</a></p></td>
+<td><p><a href="../Page/5월_22일.md" title="wikilink">5월 22일</a></p></td>
 <td><p>대한민국 검찰 - 기로에 서다</p></td>
 </tr>
 <tr class="odd">
 <td><p>51회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/5월_28일" title="wikilink">5월 28일</a></p></td>
+<td><p><a href="../Page/5월_28일.md" title="wikilink">5월 28일</a></p></td>
 <td><p>지방자치 10년 기획<br />
 나는 왕이로소이다</p></td>
 </tr>
 <tr class="even">
 <td><p>52회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/5월_29일" title="wikilink">5월 29일</a></p></td>
+<td><p><a href="../Page/5월_29일.md" title="wikilink">5월 29일</a></p></td>
 <td><p>17대 국회 1년<br />
 그들은 왜 51점을 받았나</p></td>
 </tr>
 <tr class="odd">
 <td><p>53회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/6월_4일" title="wikilink">6월 4일</a></p></td>
+<td><p><a href="../Page/6월_4일.md" title="wikilink">6월 4일</a></p></td>
 <td><p>중정부장 김형욱은 왜 죽었나</p></td>
 </tr>
 <tr class="even">
 <td><p>54회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/6월_5일" title="wikilink">6월 5일</a></p></td>
+<td><p><a href="../Page/6월_5일.md" title="wikilink">6월 5일</a></p></td>
 <td><p>입체분석 - 축구천재 박주영</p></td>
 </tr>
 <tr class="odd">
 <td><p>55회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/6월_11일" title="wikilink">6월 11일</a></p></td>
+<td><p><a href="../Page/6월_11일.md" title="wikilink">6월 11일</a></p></td>
 <td><p>꿈의 여행 - 크루즈를 잡아라</p></td>
 </tr>
 <tr class="even">
 <td><p>56회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/6월_12일" title="wikilink">6월 12일</a></p></td>
+<td><p><a href="../Page/6월_12일.md" title="wikilink">6월 12일</a></p></td>
 <td><p>우즈벡 유혈사태 - 그 진실은?</p></td>
 </tr>
 <tr class="odd">
 <td><p>57회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/6월_18일" title="wikilink">6월 18일</a></p></td>
+<td><p><a href="../Page/6월_18일.md" title="wikilink">6월 18일</a></p></td>
 <td><p>한국 - 디자인을 말한다</p></td>
 </tr>
 <tr class="even">
 <td><p>58회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/6월_19일" title="wikilink">6월 19일</a></p></td>
+<td><p><a href="../Page/6월_19일.md" title="wikilink">6월 19일</a></p></td>
 <td><p>독일의 반성<br />
 100년의 증오를 넘다</p></td>
 </tr>
 <tr class="odd">
 <td><p>59회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/6월_25일" title="wikilink">6월 25일</a></p></td>
+<td><p><a href="../Page/6월_25일.md" title="wikilink">6월 25일</a></p></td>
 <td><p>한국전쟁 영상기록<br />
 전쟁과 인간</p></td>
 </tr>
 <tr class="even">
 <td><p>60회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/6월_26일" title="wikilink">6월 26일</a></p></td>
+<td><p><a href="../Page/6월_26일.md" title="wikilink">6월 26일</a></p></td>
 <td><p>한국의 노동조합<br />
 위기는 어디서 오는가?</p></td>
 </tr>
 <tr class="odd">
 <td><p>61회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/7월_2일" title="wikilink">7월 2일</a></p></td>
+<td><p><a href="../Page/7월_2일.md" title="wikilink">7월 2일</a></p></td>
 <td><p>지진 - 한반도는 안전한가</p></td>
 </tr>
 <tr class="even">
 <td><p>62회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/7월_3일" title="wikilink">7월 3일</a></p></td>
+<td><p><a href="../Page/7월_3일.md" title="wikilink">7월 3일</a></p></td>
 <td><p>북핵 위기 - 오프 더 레코드의 기록</p></td>
 </tr>
 <tr class="odd">
 <td><p>63회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/7월_9일" title="wikilink">7월 9일</a></p></td>
+<td><p><a href="../Page/7월_9일.md" title="wikilink">7월 9일</a></p></td>
 <td><p>징기스칸 - 위대한 리더십</p></td>
 </tr>
 <tr class="even">
 <td><p>64회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/7월_10일" title="wikilink">7월 10일</a></p></td>
+<td><p><a href="../Page/7월_10일.md" title="wikilink">7월 10일</a></p></td>
 <td><p>세계 최대의 파산<br />
 김우중은 왜 몰락했나</p></td>
 </tr>
 <tr class="odd">
 <td><p>65회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/7월_16일" title="wikilink">7월 16일</a></p></td>
+<td><p><a href="../Page/7월_16일.md" title="wikilink">7월 16일</a></p></td>
 <td><p>철갑상어의 꿈</p></td>
 </tr>
 <tr class="even">
 <td><p>66회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/7월_17일" title="wikilink">7월 17일</a></p></td>
+<td><p><a href="../Page/7월_17일.md" title="wikilink">7월 17일</a></p></td>
 <td><p>런던 참사 - 테러는 계속 되는가</p></td>
 </tr>
 <tr class="odd">
 <td><p>67회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/7월_23일" title="wikilink">7월 23일</a></p></td>
+<td><p><a href="../Page/7월_23일.md" title="wikilink">7월 23일</a></p></td>
 <td><p>불타는 얼음<br />
 메탄 하이드레이트를 찾아라</p></td>
 </tr>
 <tr class="even">
 <td><p>68회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/7월_24일" title="wikilink">7월 24일</a></p></td>
+<td><p><a href="../Page/7월_24일.md" title="wikilink">7월 24일</a></p></td>
 <td><p>최초공개 - 누가 일제의 훈장을 받았나</p></td>
 </tr>
 <tr class="odd">
 <td><p>69회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/7월_30일" title="wikilink">7월 30일</a></p></td>
+<td><p><a href="../Page/7월_30일.md" title="wikilink">7월 30일</a></p></td>
 <td><p>나를 사로잡은 조선인 - 혁명가 김산</p></td>
 </tr>
 <tr class="even">
 <td><p>70회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/7월_31일" title="wikilink">7월 31일</a></p></td>
+<td><p><a href="../Page/7월_31일.md" title="wikilink">7월 31일</a></p></td>
 <td><p>집값 전쟁(1)<br />
 세계 집값 폭등 - 거품의 경고</p></td>
 </tr>
 <tr class="odd">
 <td><p>71회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_6일" title="wikilink">8월 6일</a></p></td>
+<td><p><a href="../Page/8월_6일.md" title="wikilink">8월 6일</a></p></td>
 <td><p>긴급 보고 - 사우디 왕가</p></td>
 </tr>
 <tr class="even">
 <td><p>72회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_7일" title="wikilink">8월 7일</a></p></td>
+<td><p><a href="../Page/8월_7일.md" title="wikilink">8월 7일</a></p></td>
 <td><p>집값 전쟁(2)<br />
 아파트 거품 200조 - 어떻게 빼야하나</p></td>
 </tr>
 <tr class="odd">
 <td><p>73회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_20일" title="wikilink">8월 20일</a></p></td>
+<td><p><a href="../Page/8월_20일.md" title="wikilink">8월 20일</a></p></td>
 <td><p>해병대 1000, 무적의 혼을 잇는다.</p></td>
 </tr>
 <tr class="even">
 <td><p>74회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_21일" title="wikilink">8월 21일</a></p></td>
+<td><p><a href="../Page/8월_21일.md" title="wikilink">8월 21일</a></p></td>
 <td><p>장벽</p></td>
 </tr>
 <tr class="odd">
 <td><p>75회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_27일" title="wikilink">8월 27일</a></p></td>
+<td><p><a href="../Page/8월_27일.md" title="wikilink">8월 27일</a></p></td>
 <td><p>발굴보고 731부대 한국인 희생자들</p></td>
 </tr>
 <tr class="even">
 <td><p>76회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_28일" title="wikilink">8월 28일</a></p></td>
+<td><p><a href="../Page/8월_28일.md" title="wikilink">8월 28일</a></p></td>
 <td><p>사할린 25시 - 어떤 망각과 체념에 대한 보고서</p></td>
 </tr>
 <tr class="odd">
 <td><p>77회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/9월_3일" title="wikilink">9월 3일</a></p></td>
+<td><p><a href="../Page/9월_3일.md" title="wikilink">9월 3일</a></p></td>
 <td><p>디스플레이 전쟁</p></td>
 </tr>
 <tr class="even">
 <td><p>78회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/9월_4일" title="wikilink">9월 4일</a></p></td>
+<td><p><a href="../Page/9월_4일.md" title="wikilink">9월 4일</a></p></td>
 <td><p>가자 철수 샤론의 도박</p></td>
 </tr>
 <tr class="odd">
 <td><p>79회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/9월_10일" title="wikilink">9월 10일</a></p></td>
+<td><p><a href="../Page/9월_10일.md" title="wikilink">9월 10일</a></p></td>
 <td><p>한국 축구 - 감독의 조건</p></td>
 </tr>
 <tr class="even">
 <td><p>80회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/9월_11일" title="wikilink">9월 11일</a></p></td>
+<td><p><a href="../Page/9월_11일.md" title="wikilink">9월 11일</a></p></td>
 <td><p>한국 재벌의 딜레마 - 세습</p></td>
 </tr>
 <tr class="odd">
 <td><p>81회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/9월_17일" title="wikilink">9월 17일</a></p></td>
+<td><p><a href="../Page/9월_17일.md" title="wikilink">9월 17일</a></p></td>
 <td><p>서번트 신드롬 - 경이로운 천재들</p></td>
 </tr>
 <tr class="even">
 <td><p>82회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/9월_18일" title="wikilink">9월 18일</a></p></td>
+<td><p><a href="../Page/9월_18일.md" title="wikilink">9월 18일</a></p></td>
 <td><p>영상 포엠 - 간이역</p></td>
 </tr>
 <tr class="odd">
 <td><p>83회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/9월_24일" title="wikilink">9월 24일</a></p></td>
+<td><p><a href="../Page/9월_24일.md" title="wikilink">9월 24일</a></p></td>
 <td><p>을사늑약 100년 - 그때 일본이 탄생했다(1)<br />
 러일전쟁</p></td>
 </tr>
 <tr class="even">
 <td><p>84회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/9월_25일" title="wikilink">9월 25일</a></p></td>
+<td><p><a href="../Page/9월_25일.md" title="wikilink">9월 25일</a></p></td>
 <td><p>을사늑약 100년 - 그때 일본이 탄생했다(2)<br />
 메이지의 유산</p></td>
 </tr>
 <tr class="odd">
 <td><p>85회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/10월_1일" title="wikilink">10월 1일</a></p></td>
+<td><p><a href="../Page/10월_1일.md" title="wikilink">10월 1일</a></p></td>
 <td><p>명품 의료 시대 - 당신의 생명은 얼마입니까?</p></td>
 </tr>
 <tr class="even">
 <td><p>86회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/10월_2일" title="wikilink">10월 2일</a></p></td>
+<td><p><a href="../Page/10월_2일.md" title="wikilink">10월 2일</a></p></td>
 <td><p>통일 독일의 딜레마 오씨와 베씨</p></td>
 </tr>
 <tr class="odd">
 <td><p>87회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/10월_8일" title="wikilink">10월 8일</a></p></td>
+<td><p><a href="../Page/10월_8일.md" title="wikilink">10월 8일</a></p></td>
 <td><p>세계를 움직이는 용 - 화상</p></td>
 </tr>
 <tr class="even">
 <td><p>88회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/10월_9일" title="wikilink">10월 9일</a></p></td>
+<td><p><a href="../Page/10월_9일.md" title="wikilink">10월 9일</a></p></td>
 <td><p>무한질주 - 그랑프리를 가다</p></td>
 </tr>
 <tr class="odd">
 <td><p>89회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/10월_15일" title="wikilink">10월 15일</a></p></td>
+<td><p><a href="../Page/10월_15일.md" title="wikilink">10월 15일</a></p></td>
 <td><p>고위 공직자 - 그들의 재산을 검증한다</p></td>
 </tr>
 <tr class="even">
 <td><p>90회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/10월_16일" title="wikilink">10월 16일</a></p></td>
+<td><p><a href="../Page/10월_16일.md" title="wikilink">10월 16일</a></p></td>
 <td><p>한국야구 백 년<br />
 사상 최대의 프로젝트<br />
 백 년 드림 팀 평가전</p></td>
 </tr>
 <tr class="odd">
 <td><p>91회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/10월_22일" title="wikilink">10월 22일</a></p></td>
+<td><p><a href="../Page/10월_22일.md" title="wikilink">10월 22일</a></p></td>
 <td><p>미리보는 국립중앙박물관</p></td>
 </tr>
 <tr class="even">
 <td><p>92회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/10월_23일" title="wikilink">10월 23일</a></p></td>
+<td><p><a href="../Page/10월_23일.md" title="wikilink">10월 23일</a></p></td>
 <td><p>황우석 - 세계는 왜 그를 주목하는가?</p></td>
 </tr>
 <tr class="odd">
 <td><p>93회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/10월_29일" title="wikilink">10월 29일</a></p></td>
+<td><p><a href="../Page/10월_29일.md" title="wikilink">10월 29일</a></p></td>
 <td><p>국제결혼 보고서 - 나는 한국인으로 살고 싶다</p></td>
 </tr>
 <tr class="even">
 <td><p>94회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/10월_30일" title="wikilink">10월 30일</a></p></td>
+<td><p><a href="../Page/10월_30일.md" title="wikilink">10월 30일</a></p></td>
 <td><p>비 - 아시아를 넘어서</p></td>
 </tr>
 <tr class="odd">
 <td><p>95회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/11월_5일" title="wikilink">11월 5일</a></p></td>
+<td><p><a href="../Page/11월_5일.md" title="wikilink">11월 5일</a></p></td>
 <td><p>사하라 250km - 암흑속의 레이스</p></td>
 </tr>
 <tr class="even">
 <td><p>96회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/11월_6일" title="wikilink">11월 6일</a></p></td>
+<td><p><a href="../Page/11월_6일.md" title="wikilink">11월 6일</a></p></td>
 <td><p>해양투기 17년 - 바다는 경고한다</p></td>
 </tr>
 <tr class="odd">
 <td><p>97회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/11월_12일" title="wikilink">11월 12일</a></p></td>
+<td><p><a href="../Page/11월_12일.md" title="wikilink">11월 12일</a></p></td>
 <td><p>사이언스 21(1)<br />
 생명의 불꽃 - 세포</p></td>
 </tr>
 <tr class="even">
 <td><p>98회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/11월_13일" title="wikilink">11월 13일</a></p></td>
+<td><p><a href="../Page/11월_13일.md" title="wikilink">11월 13일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/추성훈" title="wikilink">추성훈</a> 혹은 아키야마 이야기</p></td>
 </tr>
 <tr class="odd">
 <td><p>99회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/11월_19일" title="wikilink">11월 19일</a></p></td>
+<td><p><a href="../Page/11월_19일.md" title="wikilink">11월 19일</a></p></td>
 <td><p>사이언스 21(2)<br />
 진화의 선택 - 여자</p></td>
 </tr>
 <tr class="even">
 <td><p>100회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/11월_20일" title="wikilink">11월 20일</a></p></td>
+<td><p><a href="../Page/11월_20일.md" title="wikilink">11월 20일</a></p></td>
 <td><p>유럽의 이슬람 이민자들<br />
 시한폭탄이 될것인가</p></td>
 </tr>
 <tr class="odd">
 <td><p>101회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/11월_26일" title="wikilink">11월 26일</a></p></td>
+<td><p><a href="../Page/11월_26일.md" title="wikilink">11월 26일</a></p></td>
 <td><p>사이언스 21(3)<br />
 치매와의 전쟁 - 뇌</p></td>
 </tr>
 <tr class="even">
 <td><p>102회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/11월_27일" title="wikilink">11월 27일</a></p></td>
+<td><p><a href="../Page/11월_27일.md" title="wikilink">11월 27일</a></p></td>
 <td><p>저질 중국농산물은<br />
 왜 한국으로 향하나</p></td>
 </tr>
 <tr class="odd">
 <td><p>103회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/12월_3일" title="wikilink">12월 3일</a></p></td>
+<td><p><a href="../Page/12월_3일.md" title="wikilink">12월 3일</a></p></td>
 <td><p>사이언스 21(4)<br />
 장수의 열쇠 - 100세인</p></td>
 </tr>
 <tr class="even">
 <td><p>104회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/12월_4일" title="wikilink">12월 4일</a></p></td>
+<td><p><a href="../Page/12월_4일.md" title="wikilink">12월 4일</a></p></td>
 <td><p>함주명 - 그는 어떻게 간첩이 되었나?</p></td>
 </tr>
 <tr class="odd">
 <td><p>105회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/12월_6일" title="wikilink">12월 6일</a></p></td>
+<td><p><a href="../Page/12월_6일.md" title="wikilink">12월 6일</a></p></td>
 <td><p>양극화 사회 - 희망의 로드맵(1)<br />
 신 빈곤층 실태보고 - 추락하는 사람들</p></td>
 </tr>
 <tr class="even">
 <td><p>106회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/12월_7일" title="wikilink">12월 7일</a></p></td>
+<td><p><a href="../Page/12월_7일.md" title="wikilink">12월 7일</a></p></td>
 <td><p>양극화 사회 - 희망의 로드맵(2)<br />
 그늘 속의 아이들 - 가난이 대물림된다</p></td>
 </tr>
 <tr class="odd">
 <td><p>107회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/12월_8일" title="wikilink">12월 8일</a></p></td>
+<td><p><a href="../Page/12월_8일.md" title="wikilink">12월 8일</a></p></td>
 <td><p>양극화 사회 - 희망의 로드맵(3)<br />
 대기업과 중소기업 - 동반 성장의 조건</p></td>
 </tr>
 <tr class="even">
 <td><p>108회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/12월_9일" title="wikilink">12월 9일</a></p></td>
+<td><p><a href="../Page/12월_9일.md" title="wikilink">12월 9일</a></p></td>
 <td><p>양극화 사회 - 희망의 로드맵(4)<br />
 56%의 눈물 - 비정규직 노동자</p></td>
 </tr>
 <tr class="odd">
 <td><p>109회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/12월_10일" title="wikilink">12월 10일</a></p></td>
+<td><p><a href="../Page/12월_10일.md" title="wikilink">12월 10일</a></p></td>
 <td><p>대한민국 87%의 힘(1)<br />
 명품을 만든 사람들</p></td>
 </tr>
 <tr class="even">
 <td><p>110회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/12월_11일" title="wikilink">12월 11일</a></p></td>
+<td><p><a href="../Page/12월_11일.md" title="wikilink">12월 11일</a></p></td>
 <td><p>대한민국 87%의 힘(2)<br />
 희망을 만드는 네트워크</p></td>
 </tr>
 <tr class="odd">
 <td><p>111회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/12월_17일" title="wikilink">12월 17일</a></p></td>
+<td><p><a href="../Page/12월_17일.md" title="wikilink">12월 17일</a></p></td>
 <td><p>다빈치 프로젝트<br />
 새로운 예술교육(1)</p></td>
 </tr>
 <tr class="even">
 <td><p>112회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/12월_18일" title="wikilink">12월 18일</a></p></td>
+<td><p><a href="../Page/12월_18일.md" title="wikilink">12월 18일</a></p></td>
 <td><p>범죄자와의 대화<br />
 낙인 - 그 후</p></td>
 </tr>
 <tr class="odd">
 <td><p>113회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/12월_24일" title="wikilink">12월 24일</a></p></td>
+<td><p><a href="../Page/12월_24일.md" title="wikilink">12월 24일</a></p></td>
 <td><p>영원과 하루 - 150년만의 공개<br />
 가톨릭 신학교</p></td>
 </tr>
 <tr class="even">
 <td><p>114회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/12월_25일" title="wikilink">12월 25일</a></p></td>
+<td><p><a href="../Page/12월_25일.md" title="wikilink">12월 25일</a></p></td>
 <td><p>다빈치 프로젝트 - 새로운 예술교육(2)</p></td>
 </tr>
 <tr class="odd">
 <td><p>115회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/12월_31일" title="wikilink">12월 31일</a></p></td>
+<td><p><a href="../Page/12월_31일.md" title="wikilink">12월 31일</a></p></td>
 <td><p>생명 에세이<br />
 원효 - 섬진강에 오다</p></td>
 </tr>
@@ -1222,117 +1222,117 @@
 
 #### 2006년
 
-| 회차   | 방송 일자                                                       | 부제                                                 |
-| ---- | ----------------------------------------------------------- | -------------------------------------------------- |
-| 117회 | [1월 1일](https://ko.wikipedia.org/wiki/1월_1일 "wikilink")     | 신년기획 - 금강산                                         |
-| 118회 | [1월 3일](https://ko.wikipedia.org/wiki/1월_3일 "wikilink")     | KBS 아시아 大기획 - 제1편, 장강(長江)의 역류 - 중국                 |
-| 119회 | [1월 4일](https://ko.wikipedia.org/wiki/1월_4일 "wikilink")     | KBS 아시아 大기획 - 제2편, 인도차이나의 별 - 베트남                  |
-| 120회 | [1월 5일](https://ko.wikipedia.org/wiki/1월_5일 "wikilink")     | KBS 아시아 大기획 - 제3편, 황금나라의 부활-캄보디아, 태국               |
-| 121회 | [1월 6일](https://ko.wikipedia.org/wiki/1월_6일 "wikilink")     | KBS 아시아 大기획 - 제4편, 동방의 길 - 말레이시아, 싱가포르             |
-| 122회 | [1월 7일](https://ko.wikipedia.org/wiki/1월_7일 "wikilink")     | KBS 아시아 大기획 - 제5편, 깨어나는 거인 - 인도 Ⅰ                  |
-| 123회 | [1월 8일](https://ko.wikipedia.org/wiki/1월_8일 "wikilink")     | KBS 아시아 大기획 - 제6편, 11억인의 민주주의 - 인도 Ⅱ               |
-| 124회 | [1월 14일](https://ko.wikipedia.org/wiki/1월_14일 "wikilink")   | 최초 공개\! 공동 경비 구역, JSA                              |
-| 125회 | [1월 15일](https://ko.wikipedia.org/wiki/1월_15일 "wikilink")   | 특별기획 다큐멘터리 '마음' (1편) - 마음, 몸을 지배하다                 |
-| 126회 | [1월 21일](https://ko.wikipedia.org/wiki/1월_21일 "wikilink")   | 단독입수 CIA 비밀 보고서, 코리안 엔드게임                          |
-| 127회 | [1월 22일](https://ko.wikipedia.org/wiki/1월_22일 "wikilink")   | 다큐멘터리 마음, 제2편 - 생각하는대로 이루어진다                       |
-| 128회 | [1월 28일](https://ko.wikipedia.org/wiki/1월_28일 "wikilink")   | \<판소리 400년의 완성\> 심청, 바다를 건너 돌아오다                   |
-| 129회 | [1월 29일](https://ko.wikipedia.org/wiki/1월_29일 "wikilink")   | 다큐멘터리 마음, 제3편, '무의식에 새겨진 마음을 깨우다'                  |
-| 130회 | [2월 4일](https://ko.wikipedia.org/wiki/2월_4일 "wikilink")     | 마지막 불의 전설                                          |
-| 131회 | [2월 5일](https://ko.wikipedia.org/wiki/2월_5일 "wikilink")     | 다큐멘터리 마음, 제4편 '기억을 버려라'                            |
-| 132회 | [2월 11일](https://ko.wikipedia.org/wiki/2월_11일 "wikilink")   | 슈퍼볼을 점령하다 하인스 워드와 한국인 어머니                          |
-| 133회 | [2월 12일](https://ko.wikipedia.org/wiki/2월_12일 "wikilink")   | 다큐멘터리 마음, 제5편 편안한 마음이 좋습니다                         |
-| 134회 | [2월 18일](https://ko.wikipedia.org/wiki/2월_18일 "wikilink")   | 신자유주의를 넘어 - 차베스의 도전                                |
-| 135회 | [2월 19일](https://ko.wikipedia.org/wiki/2월_19일 "wikilink")   | 다큐멘터리 마음, 제6편 당신을 용서합니다                            |
-| 136회 | [2월 25일](https://ko.wikipedia.org/wiki/2월_25일 "wikilink")   | 일본군 위안부 세계가 껴안다 - 1년간의 기록                          |
-| 137회 | [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink")   | 대한민국 자본시장, 빅뱅이 다가온다.                               |
-| 138회 | [3월 4일](https://ko.wikipedia.org/wiki/3월_4일 "wikilink")     | 전쟁을 생산한다 - 민간군사기업, 1편-민간전투병                        |
-| 139회 | [3월 5일](https://ko.wikipedia.org/wiki/3월_5일 "wikilink")     | 전쟁을 생산한다 - 민간군사기업, 2편-전쟁비즈니스의 시대                   |
-| 140회 | [3월 11일](https://ko.wikipedia.org/wiki/3월_11일 "wikilink")   | 2006 KBS한국방송 대기획『문화의 질주』제1편 도시, 문화를 꿈꾸다            |
-| 141회 | [3월 12일](https://ko.wikipedia.org/wiki/3월_12일 "wikilink")   | 2006 KBS한국방송 대기획『문화의 질주』제2편 비틀즈에서 해리포터까지           |
-| 142회 | [3월 18일](https://ko.wikipedia.org/wiki/3월_18일 "wikilink")   | 옴니버스 테마 다큐 <나무 이야기> 시리즈 1편, 고목과 가로수                |
-| 143회 | [3월 19일](https://ko.wikipedia.org/wiki/3월_19일 "wikilink")   | 심층보고, 외환은행 매각의 비밀                                  |
-| 144회 | [3월 25일](https://ko.wikipedia.org/wiki/3월_25일 "wikilink")   | 옴니버스 테마 다큐 <나무 이야기> 시리즈 2편, 사과나무와 느티나무             |
-| 145회 | [3월 26일](https://ko.wikipedia.org/wiki/3월_26일 "wikilink")   | \<이해충돌, 일자리의 위기\> 제1편: 자본은 왜 파업하는가?                |
-| 146회 | [4월 1일](https://ko.wikipedia.org/wiki/4월_1일 "wikilink")     | 종교가 된 스포츠, 아프리카 축구                                 |
-| 147회 | [4월 2일](https://ko.wikipedia.org/wiki/4월_2일 "wikilink")     | \<이해충돌, 일자리의 위기\> 2편: 노동은 왜 양극화 되는가?               |
-| 148회 | [4월 8일](https://ko.wikipedia.org/wiki/4월_8일 "wikilink")     | \[KBS 지방선거 대기획 '주민이 주인이다' - 참여 혁명\]                |
-| 149회 | [4월 9일](https://ko.wikipedia.org/wiki/4월_9일 "wikilink")     | \[KBS 지방선거 대기획 '주민이 주인이다' - 유권자 혁명\]               |
-| 150회 | [4월 15일](https://ko.wikipedia.org/wiki/4월_15일 "wikilink")   | 4월의 기억, 다시 그 길에 서다                                 |
-| 151회 | [4월 16일](https://ko.wikipedia.org/wiki/4월_16일 "wikilink")   | \<현지 르포 2006 북한 - 중국 자본에 종속되는가\>                   |
-| 152회 | [4월 22일](https://ko.wikipedia.org/wiki/4월_22일 "wikilink")   | 목수, 삶의 예술을 찾아서                                     |
-| 153회 | [4월 23일](https://ko.wikipedia.org/wiki/4월_23일 "wikilink")   | 전향                                                 |
-| 154회 | [4월 29일](https://ko.wikipedia.org/wiki/4월_29일 "wikilink")   | \<문화의 질주 - 제3편 트렌드 읽기 / 웰컴투 판타지\>                  |
-| 155회 | [4월 30일](https://ko.wikipedia.org/wiki/4월_30일 "wikilink")   | \<문화의 질주 - 제4편 트렌드 읽기 / 에코투어, 오감을 깨워라\>            |
-| 156회 | [5월 6일](https://ko.wikipedia.org/wiki/5월_6일 "wikilink")     | \<'禪 이야기' 1부 - 선의 지혜 "꽃은 말하지 않는다"\>                |
-| 157회 | [5월 7일](https://ko.wikipedia.org/wiki/5월_7일 "wikilink")     | \<2006, 식탁안전 프로젝트 1편 - 수입식품, 위험은 왜 반복되나?\>         |
-| 158회 | [5월 13일](https://ko.wikipedia.org/wiki/5월_13일 "wikilink")   | \<'禪 이야기' 2부 - 선 수행의 길 '길은 내안에 있다'\>               |
-| 159회 | [5월 14일](https://ko.wikipedia.org/wiki/5월_14일 "wikilink")   | KBS스페셜 5.18 기획 팩션 드라마 - 오월의 두 초상                   |
-| 160회 | [5월 20일](https://ko.wikipedia.org/wiki/5월_20일 "wikilink")   | \<'禪 이야기' 3부 - 선과 생활 '비워야 채울 수 있다'\>               |
-| 161회 | [5월 21일](https://ko.wikipedia.org/wiki/5월_21일 "wikilink")   | \<특파원 리포트 - 새로운 노인시대 제 1편 '올드 보이'의 부활\>            |
-| 162회 | [5월 27일](https://ko.wikipedia.org/wiki/5월_27일 "wikilink")   | \<꿈의 시작 - 취리히, 1954년 6월\>                          |
-| 163회 | [5월 28일](https://ko.wikipedia.org/wiki/5월_28일 "wikilink")   | \<특파원 리포트 - 새로운 노인시대 제 2편 뉴 라이프, 아름다운 인생\>         |
-| 164회 | [6월 3일](https://ko.wikipedia.org/wiki/6월_3일 "wikilink")     | 세상의 모든 라면박스                                        |
-| 165회 | [6월 4일](https://ko.wikipedia.org/wiki/6월_4일 "wikilink")     | FTA 12년, 멕시코의 명과 암                                 |
-| 166회 | [6월 10일](https://ko.wikipedia.org/wiki/6월_10일 "wikilink")   | 아드보카트號 253일간의 기록, 포백은 성공할 것인가?                     |
-| 167회 | [6월 11일](https://ko.wikipedia.org/wiki/6월_11일 "wikilink")   | 운명의 첫 게임, 토고                                       |
-| 168회 | [6월 17일](https://ko.wikipedia.org/wiki/6월_17일 "wikilink")   | 북녘음식기행 - '고난의 행군' 그 후                              |
-| 169회 | [6월 18일](https://ko.wikipedia.org/wiki/6월_18일 "wikilink")   | 가난한 환자들, 삶은 계속될 수 있나                               |
-| 170회 | [6월 24일](https://ko.wikipedia.org/wiki/6월_24일 "wikilink")   | 김대중, 고르바초프 특별대담 "한반도 평화의 조건"                       |
-| 171회 | [6월 25일](https://ko.wikipedia.org/wiki/6월_25일 "wikilink")   | 긴급보고 북한 미사일, 김정일의 선택은                              |
-| 172회 | [7월 1일](https://ko.wikipedia.org/wiki/7월_1일 "wikilink")     | 가객 김광석, 10년 만의 초대                                  |
-| 173회 | [7월 2일](https://ko.wikipedia.org/wiki/7월_2일 "wikilink")     | '2006 식탁안전 프로젝트' - 2편 농장으로부터의 경고                   |
-| 174회 | [7월 8일](https://ko.wikipedia.org/wiki/7월_8일 "wikilink")     | 나를 찾아 떠난 여행 - 인수 라스테이크                             |
-| 175회 | [7월 9일](https://ko.wikipedia.org/wiki/7월_9일 "wikilink")     | 한미 FTA 위기인가 기회인가                                   |
-| 176회 | [7월 15일](https://ko.wikipedia.org/wiki/7월_15일 "wikilink")   | 아담의 언어 - 마임                                        |
-| 177회 | [7월 17일](https://ko.wikipedia.org/wiki/7월_17일 "wikilink")   | 제헌절 기획 KBS스페셜, '법은 평등한가?'                          |
-| 178회 | [7월 22일](https://ko.wikipedia.org/wiki/7월_22일 "wikilink")   | 이해충돌, 국민연금 (1) 다가오는 시한폭탄                           |
-| 179회 | [7월 23일](https://ko.wikipedia.org/wiki/7월_23일 "wikilink")   | 이해충돌, 국민연금 (2) 대타협의 3가지 조건                         |
-| 180회 | [7월 29일](https://ko.wikipedia.org/wiki/7월_29일 "wikilink")   | <긴급취재> 인도네시아를 다시 덮친 쓰나미                            |
-| 181회 | [7월 30일](https://ko.wikipedia.org/wiki/7월_30일 "wikilink")   | 2006식탁안전 프로젝트 제3편 제주의 실험 - 학교급식혁명                  |
-| 182회 | [8월 5일](https://ko.wikipedia.org/wiki/8월_5일 "wikilink")     | 뮤지컬 다큐 - 캐비닛 속의 도시이야기                              |
-| 183회 | [8월 6일](https://ko.wikipedia.org/wiki/8월_6일 "wikilink")     | 현지 르포 '피의 현장, 레바논을 가다'                             |
-| 184회 | [8월 12일](https://ko.wikipedia.org/wiki/8월_12일 "wikilink")   | 815기획 "해방되지 못한 영혼 - 조선인 BC급 전범"                    |
-| 185회 | [8월 13일](https://ko.wikipedia.org/wiki/8월_13일 "wikilink")   | 815기획 야스쿠니와의 전쟁 제1편 - 야스쿠니와 세 여자                   |
-| 186회 | [8월 19일](https://ko.wikipedia.org/wiki/8월_19일 "wikilink")   | 2006식탁안전 프로젝트 제4편 생애 첫 음식, 분유에 관한 보고서              |
-| 187회 | [8월 20일](https://ko.wikipedia.org/wiki/8월_20일 "wikilink")   | 815기획 야스쿠니와의 전쟁 제2편 - 국제공동투쟁의 기록                   |
-| 188회 | [8월 26일](https://ko.wikipedia.org/wiki/8월_26일 "wikilink")   | 광복절 기획 팩션 드라마 2부작 가네코 후미코                          |
-| 189회 | [8월 27일](https://ko.wikipedia.org/wiki/8월_27일 "wikilink")   |                                                    |
-| 190회 | [9월 2일](https://ko.wikipedia.org/wiki/9월_2일 "wikilink")     | 사흘만 볼 수 있다면 - 테레사 챈 이야기                            |
-| 191회 | [9월 3일](https://ko.wikipedia.org/wiki/9월_3일 "wikilink")     | 디지털 TV 혁명, 시청자는 주인인가?                              |
-| 192회 | [9월 9일](https://ko.wikipedia.org/wiki/9월_9일 "wikilink")     | 후세인과 샬림의 캘커타 스토리                                   |
-| 193회 | [9월 10일](https://ko.wikipedia.org/wiki/9월_10일 "wikilink")   | 1억대의 질주 - 한국을 위협하는 중국자동차                           |
-| 194회 | [9월 16일](https://ko.wikipedia.org/wiki/9월_16일 "wikilink")   | KBS 스페셜 긴급진단 - 동북공정, 중국은 무엇을 노리나                   |
-| 195회 | [9월 17일](https://ko.wikipedia.org/wiki/9월_17일 "wikilink")   | 2006 식탁안전 프로젝트 제5편, 바이러스 학교급식을 덮치다                 |
-| 196회 | [9월 23일](https://ko.wikipedia.org/wiki/9월_23일 "wikilink")   | 검은 황금의 땅, 중앙아시아 1편 - 오일달러의 기적, 카자흐스탄               |
-| 197회 | [9월 24일](https://ko.wikipedia.org/wiki/9월_24일 "wikilink")   | 검은 황금의 땅, 중앙아시아 2편 - 부활을 꿈꾸는 불의 제국 -우즈베키스탄, 아제르바이잔 |
-| 198회 | [9월 30일](https://ko.wikipedia.org/wiki/9월_30일 "wikilink")   | 일본의 선택, 왜 아베인가                                     |
-| 199회 | [10월 1일](https://ko.wikipedia.org/wiki/10월_1일 "wikilink")   | 전시작전통제권 환수, 한반도 평화의 조건                             |
-| 200회 | [10월 7일](https://ko.wikipedia.org/wiki/10월_7일 "wikilink")   | 추석기획 - 어떤 고향 이야기, 당신은 한계령을 넘었나요                    |
-| 201회 | [10월 8일](https://ko.wikipedia.org/wiki/10월_8일 "wikilink")   | 한글날 기획 바람의 말, 제주어                                  |
-| 202회 | [10월 14일](https://ko.wikipedia.org/wiki/10월_14일 "wikilink") | 유엔은 왜 반기문을 선택했나                                    |
-| 203회 | [10월 15일](https://ko.wikipedia.org/wiki/10월_15일 "wikilink") | 북한 핵실험, 한반도 평화는 어디로                                |
-| 204회 | [10월 21일](https://ko.wikipedia.org/wiki/10월_21일 "wikilink") | ID:희망승일                                            |
-| 205회 | [10월 22일](https://ko.wikipedia.org/wiki/10월_22일 "wikilink") | 19번째 쿠데타                                           |
-| 206회 | [10월 28일](https://ko.wikipedia.org/wiki/10월_28일 "wikilink") | 특파원 리포트 - 중국의 붉은 10년, 文化大革命                        |
-| 207회 | [10월 29일](https://ko.wikipedia.org/wiki/10월_29일 "wikilink") | 얼굴 없는 공포, 광우병 - 미국 쇠고기 보고서                         |
-| 208회 | [11월 4일](https://ko.wikipedia.org/wiki/11월_4일 "wikilink")   | 이라크와 자이툰 제 1편 - 머나먼 평화의 길                          |
-| 209회 | [11월 5일](https://ko.wikipedia.org/wiki/11월_5일 "wikilink")   | 이라크와 자이툰 제 2편 - 파병 2년, 평화재건의 딜레마                   |
-| 210회 | [11월 11일](https://ko.wikipedia.org/wiki/11월_11일 "wikilink") | 어머니의 노래, - 자장가를 찾아서 -                              |
-| 211회 | [11월 12일](https://ko.wikipedia.org/wiki/11월_12일 "wikilink") | 핵 실험 한 달, 北 · 中 간에 무슨 일이 있었나                       |
-| 212회 | [11월 18일](https://ko.wikipedia.org/wiki/11월_18일 "wikilink") | 화염산과의 동거 (2부작) 동남아 火山 지대의 사람들 - 제 1 편, 불의 고리 속에서   |
-| 213회 | [11월 19일](https://ko.wikipedia.org/wiki/11월_19일 "wikilink") | 총성없는 전쟁 - 대외원조 경쟁                                  |
-| 214회 | [11월 25일](https://ko.wikipedia.org/wiki/11월_25일 "wikilink") | 화염산과의 동거 (2부작) 동남아 火山 지대의 사람들 - 제 2 편, 유황의 제단      |
-| 215회 | [11월 26일](https://ko.wikipedia.org/wiki/11월_26일 "wikilink") | 당신들의 슈퍼우먼                                          |
-| 216회 | [12월 2일](https://ko.wikipedia.org/wiki/12월_2일 "wikilink")   | \<해양기획 3부작\>2006 한반도 어류 대이동 - 1편. 멸치               |
-| 217회 | [12월 3일](https://ko.wikipedia.org/wiki/12월_3일 "wikilink")   | 중국 현지보고 백두산 공정                                     |
-| 218회 | [12월 9일](https://ko.wikipedia.org/wiki/12월_9일 "wikilink")   | \<해양기획 3부작\>2006 한반도 어류 대이동 - 2편. 조기               |
-| 219회 | [12월 10일](https://ko.wikipedia.org/wiki/12월_10일 "wikilink") | 언론의 숨은 얼굴, 기사 제목                                   |
-| 220회 | [12월 16일](https://ko.wikipedia.org/wiki/12월_16일 "wikilink") | \<해양기획 3부작\>2006 한반도 어류 대이동 - 3편. 오징어              |
-| 221회 | [12월 17일](https://ko.wikipedia.org/wiki/12월_17일 "wikilink") | 연못 속의 고래 ‘국민연금 1700조’                              |
-| 222회 | [12월 23일](https://ko.wikipedia.org/wiki/12월_23일 "wikilink") | 송년특집, “선물”                                         |
-| 223회 | [12월 24일](https://ko.wikipedia.org/wiki/12월_24일 "wikilink") | 시인과 집배원                                            |
-| 224회 | [12월 30일](https://ko.wikipedia.org/wiki/12월_30일 "wikilink") | 영상실록 2006 - 뒤돌아 본 지구촌                              |
-| 225회 | [12월 31일](https://ko.wikipedia.org/wiki/12월_31일 "wikilink") | 영상실록 2006 - 뒤돌아본 대한민국                              |
+| 회차   | 방송 일자                                                     | 부제                                                 |
+| ---- | --------------------------------------------------------- | -------------------------------------------------- |
+| 117회 | [1월 1일](../Page/1월_1일.md "wikilink")                      | 신년기획 - 금강산                                         |
+| 118회 | [1월 3일](../Page/1월_3일.md "wikilink")                      | KBS 아시아 大기획 - 제1편, 장강(長江)의 역류 - 중국                 |
+| 119회 | [1월 4일](../Page/1월_4일.md "wikilink")                      | KBS 아시아 大기획 - 제2편, 인도차이나의 별 - 베트남                  |
+| 120회 | [1월 5일](../Page/1월_5일.md "wikilink")                      | KBS 아시아 大기획 - 제3편, 황금나라의 부활-캄보디아, 태국               |
+| 121회 | [1월 6일](../Page/1월_6일.md "wikilink")                      | KBS 아시아 大기획 - 제4편, 동방의 길 - 말레이시아, 싱가포르             |
+| 122회 | [1월 7일](../Page/1월_7일.md "wikilink")                      | KBS 아시아 大기획 - 제5편, 깨어나는 거인 - 인도 Ⅰ                  |
+| 123회 | [1월 8일](../Page/1월_8일.md "wikilink")                      | KBS 아시아 大기획 - 제6편, 11억인의 민주주의 - 인도 Ⅱ               |
+| 124회 | [1월 14일](../Page/1월_14일.md "wikilink")                    | 최초 공개\! 공동 경비 구역, JSA                              |
+| 125회 | [1월 15일](../Page/1월_15일.md "wikilink")                    | 특별기획 다큐멘터리 '마음' (1편) - 마음, 몸을 지배하다                 |
+| 126회 | [1월 21일](../Page/1월_21일.md "wikilink")                    | 단독입수 CIA 비밀 보고서, 코리안 엔드게임                          |
+| 127회 | [1월 22일](../Page/1월_22일.md "wikilink")                    | 다큐멘터리 마음, 제2편 - 생각하는대로 이루어진다                       |
+| 128회 | [1월 28일](../Page/1월_28일.md "wikilink")                    | \<판소리 400년의 완성\> 심청, 바다를 건너 돌아오다                   |
+| 129회 | [1월 29일](../Page/1월_29일.md "wikilink")                    | 다큐멘터리 마음, 제3편, '무의식에 새겨진 마음을 깨우다'                  |
+| 130회 | [2월 4일](../Page/2월_4일.md "wikilink")                      | 마지막 불의 전설                                          |
+| 131회 | [2월 5일](../Page/2월_5일.md "wikilink")                      | 다큐멘터리 마음, 제4편 '기억을 버려라'                            |
+| 132회 | [2월 11일](../Page/2월_11일.md "wikilink")                    | 슈퍼볼을 점령하다 하인스 워드와 한국인 어머니                          |
+| 133회 | [2월 12일](../Page/2월_12일.md "wikilink")                    | 다큐멘터리 마음, 제5편 편안한 마음이 좋습니다                         |
+| 134회 | [2월 18일](../Page/2월_18일.md "wikilink")                    | 신자유주의를 넘어 - 차베스의 도전                                |
+| 135회 | [2월 19일](../Page/2월_19일.md "wikilink")                    | 다큐멘터리 마음, 제6편 당신을 용서합니다                            |
+| 136회 | [2월 25일](../Page/2월_25일.md "wikilink")                    | 일본군 위안부 세계가 껴안다 - 1년간의 기록                          |
+| 137회 | [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") | 대한민국 자본시장, 빅뱅이 다가온다.                               |
+| 138회 | [3월 4일](../Page/3월_4일.md "wikilink")                      | 전쟁을 생산한다 - 민간군사기업, 1편-민간전투병                        |
+| 139회 | [3월 5일](../Page/3월_5일.md "wikilink")                      | 전쟁을 생산한다 - 민간군사기업, 2편-전쟁비즈니스의 시대                   |
+| 140회 | [3월 11일](../Page/3월_11일.md "wikilink")                    | 2006 KBS한국방송 대기획『문화의 질주』제1편 도시, 문화를 꿈꾸다            |
+| 141회 | [3월 12일](../Page/3월_12일.md "wikilink")                    | 2006 KBS한국방송 대기획『문화의 질주』제2편 비틀즈에서 해리포터까지           |
+| 142회 | [3월 18일](../Page/3월_18일.md "wikilink")                    | 옴니버스 테마 다큐 <나무 이야기> 시리즈 1편, 고목과 가로수                |
+| 143회 | [3월 19일](../Page/3월_19일.md "wikilink")                    | 심층보고, 외환은행 매각의 비밀                                  |
+| 144회 | [3월 25일](../Page/3월_25일.md "wikilink")                    | 옴니버스 테마 다큐 <나무 이야기> 시리즈 2편, 사과나무와 느티나무             |
+| 145회 | [3월 26일](../Page/3월_26일.md "wikilink")                    | \<이해충돌, 일자리의 위기\> 제1편: 자본은 왜 파업하는가?                |
+| 146회 | [4월 1일](../Page/4월_1일.md "wikilink")                      | 종교가 된 스포츠, 아프리카 축구                                 |
+| 147회 | [4월 2일](../Page/4월_2일.md "wikilink")                      | \<이해충돌, 일자리의 위기\> 2편: 노동은 왜 양극화 되는가?               |
+| 148회 | [4월 8일](../Page/4월_8일.md "wikilink")                      | \[KBS 지방선거 대기획 '주민이 주인이다' - 참여 혁명\]                |
+| 149회 | [4월 9일](../Page/4월_9일.md "wikilink")                      | \[KBS 지방선거 대기획 '주민이 주인이다' - 유권자 혁명\]               |
+| 150회 | [4월 15일](../Page/4월_15일.md "wikilink")                    | 4월의 기억, 다시 그 길에 서다                                 |
+| 151회 | [4월 16일](../Page/4월_16일.md "wikilink")                    | \<현지 르포 2006 북한 - 중국 자본에 종속되는가\>                   |
+| 152회 | [4월 22일](../Page/4월_22일.md "wikilink")                    | 목수, 삶의 예술을 찾아서                                     |
+| 153회 | [4월 23일](../Page/4월_23일.md "wikilink")                    | 전향                                                 |
+| 154회 | [4월 29일](../Page/4월_29일.md "wikilink")                    | \<문화의 질주 - 제3편 트렌드 읽기 / 웰컴투 판타지\>                  |
+| 155회 | [4월 30일](../Page/4월_30일.md "wikilink")                    | \<문화의 질주 - 제4편 트렌드 읽기 / 에코투어, 오감을 깨워라\>            |
+| 156회 | [5월 6일](../Page/5월_6일.md "wikilink")                      | \<'禪 이야기' 1부 - 선의 지혜 "꽃은 말하지 않는다"\>                |
+| 157회 | [5월 7일](../Page/5월_7일.md "wikilink")                      | \<2006, 식탁안전 프로젝트 1편 - 수입식품, 위험은 왜 반복되나?\>         |
+| 158회 | [5월 13일](../Page/5월_13일.md "wikilink")                    | \<'禪 이야기' 2부 - 선 수행의 길 '길은 내안에 있다'\>               |
+| 159회 | [5월 14일](../Page/5월_14일.md "wikilink")                    | KBS스페셜 5.18 기획 팩션 드라마 - 오월의 두 초상                   |
+| 160회 | [5월 20일](../Page/5월_20일.md "wikilink")                    | \<'禪 이야기' 3부 - 선과 생활 '비워야 채울 수 있다'\>               |
+| 161회 | [5월 21일](../Page/5월_21일.md "wikilink")                    | \<특파원 리포트 - 새로운 노인시대 제 1편 '올드 보이'의 부활\>            |
+| 162회 | [5월 27일](../Page/5월_27일.md "wikilink")                    | \<꿈의 시작 - 취리히, 1954년 6월\>                          |
+| 163회 | [5월 28일](../Page/5월_28일.md "wikilink")                    | \<특파원 리포트 - 새로운 노인시대 제 2편 뉴 라이프, 아름다운 인생\>         |
+| 164회 | [6월 3일](../Page/6월_3일.md "wikilink")                      | 세상의 모든 라면박스                                        |
+| 165회 | [6월 4일](../Page/6월_4일.md "wikilink")                      | FTA 12년, 멕시코의 명과 암                                 |
+| 166회 | [6월 10일](../Page/6월_10일.md "wikilink")                    | 아드보카트號 253일간의 기록, 포백은 성공할 것인가?                     |
+| 167회 | [6월 11일](../Page/6월_11일.md "wikilink")                    | 운명의 첫 게임, 토고                                       |
+| 168회 | [6월 17일](../Page/6월_17일.md "wikilink")                    | 북녘음식기행 - '고난의 행군' 그 후                              |
+| 169회 | [6월 18일](../Page/6월_18일.md "wikilink")                    | 가난한 환자들, 삶은 계속될 수 있나                               |
+| 170회 | [6월 24일](../Page/6월_24일.md "wikilink")                    | 김대중, 고르바초프 특별대담 "한반도 평화의 조건"                       |
+| 171회 | [6월 25일](../Page/6월_25일.md "wikilink")                    | 긴급보고 북한 미사일, 김정일의 선택은                              |
+| 172회 | [7월 1일](../Page/7월_1일.md "wikilink")                      | 가객 김광석, 10년 만의 초대                                  |
+| 173회 | [7월 2일](../Page/7월_2일.md "wikilink")                      | '2006 식탁안전 프로젝트' - 2편 농장으로부터의 경고                   |
+| 174회 | [7월 8일](../Page/7월_8일.md "wikilink")                      | 나를 찾아 떠난 여행 - 인수 라스테이크                             |
+| 175회 | [7월 9일](../Page/7월_9일.md "wikilink")                      | 한미 FTA 위기인가 기회인가                                   |
+| 176회 | [7월 15일](../Page/7월_15일.md "wikilink")                    | 아담의 언어 - 마임                                        |
+| 177회 | [7월 17일](../Page/7월_17일.md "wikilink")                    | 제헌절 기획 KBS스페셜, '법은 평등한가?'                          |
+| 178회 | [7월 22일](../Page/7월_22일.md "wikilink")                    | 이해충돌, 국민연금 (1) 다가오는 시한폭탄                           |
+| 179회 | [7월 23일](../Page/7월_23일.md "wikilink")                    | 이해충돌, 국민연금 (2) 대타협의 3가지 조건                         |
+| 180회 | [7월 29일](../Page/7월_29일.md "wikilink")                    | <긴급취재> 인도네시아를 다시 덮친 쓰나미                            |
+| 181회 | [7월 30일](../Page/7월_30일.md "wikilink")                    | 2006식탁안전 프로젝트 제3편 제주의 실험 - 학교급식혁명                  |
+| 182회 | [8월 5일](../Page/8월_5일.md "wikilink")                      | 뮤지컬 다큐 - 캐비닛 속의 도시이야기                              |
+| 183회 | [8월 6일](../Page/8월_6일.md "wikilink")                      | 현지 르포 '피의 현장, 레바논을 가다'                             |
+| 184회 | [8월 12일](../Page/8월_12일.md "wikilink")                    | 815기획 "해방되지 못한 영혼 - 조선인 BC급 전범"                    |
+| 185회 | [8월 13일](../Page/8월_13일.md "wikilink")                    | 815기획 야스쿠니와의 전쟁 제1편 - 야스쿠니와 세 여자                   |
+| 186회 | [8월 19일](../Page/8월_19일.md "wikilink")                    | 2006식탁안전 프로젝트 제4편 생애 첫 음식, 분유에 관한 보고서              |
+| 187회 | [8월 20일](../Page/8월_20일.md "wikilink")                    | 815기획 야스쿠니와의 전쟁 제2편 - 국제공동투쟁의 기록                   |
+| 188회 | [8월 26일](../Page/8월_26일.md "wikilink")                    | 광복절 기획 팩션 드라마 2부작 가네코 후미코                          |
+| 189회 | [8월 27일](../Page/8월_27일.md "wikilink")                    |                                                    |
+| 190회 | [9월 2일](../Page/9월_2일.md "wikilink")                      | 사흘만 볼 수 있다면 - 테레사 챈 이야기                            |
+| 191회 | [9월 3일](../Page/9월_3일.md "wikilink")                      | 디지털 TV 혁명, 시청자는 주인인가?                              |
+| 192회 | [9월 9일](../Page/9월_9일.md "wikilink")                      | 후세인과 샬림의 캘커타 스토리                                   |
+| 193회 | [9월 10일](../Page/9월_10일.md "wikilink")                    | 1억대의 질주 - 한국을 위협하는 중국자동차                           |
+| 194회 | [9월 16일](../Page/9월_16일.md "wikilink")                    | KBS 스페셜 긴급진단 - 동북공정, 중국은 무엇을 노리나                   |
+| 195회 | [9월 17일](../Page/9월_17일.md "wikilink")                    | 2006 식탁안전 프로젝트 제5편, 바이러스 학교급식을 덮치다                 |
+| 196회 | [9월 23일](../Page/9월_23일.md "wikilink")                    | 검은 황금의 땅, 중앙아시아 1편 - 오일달러의 기적, 카자흐스탄               |
+| 197회 | [9월 24일](../Page/9월_24일.md "wikilink")                    | 검은 황금의 땅, 중앙아시아 2편 - 부활을 꿈꾸는 불의 제국 -우즈베키스탄, 아제르바이잔 |
+| 198회 | [9월 30일](../Page/9월_30일.md "wikilink")                    | 일본의 선택, 왜 아베인가                                     |
+| 199회 | [10월 1일](../Page/10월_1일.md "wikilink")                    | 전시작전통제권 환수, 한반도 평화의 조건                             |
+| 200회 | [10월 7일](../Page/10월_7일.md "wikilink")                    | 추석기획 - 어떤 고향 이야기, 당신은 한계령을 넘었나요                    |
+| 201회 | [10월 8일](../Page/10월_8일.md "wikilink")                    | 한글날 기획 바람의 말, 제주어                                  |
+| 202회 | [10월 14일](../Page/10월_14일.md "wikilink")                  | 유엔은 왜 반기문을 선택했나                                    |
+| 203회 | [10월 15일](../Page/10월_15일.md "wikilink")                  | 북한 핵실험, 한반도 평화는 어디로                                |
+| 204회 | [10월 21일](../Page/10월_21일.md "wikilink")                  | ID:희망승일                                            |
+| 205회 | [10월 22일](../Page/10월_22일.md "wikilink")                  | 19번째 쿠데타                                           |
+| 206회 | [10월 28일](../Page/10월_28일.md "wikilink")                  | 특파원 리포트 - 중국의 붉은 10년, 文化大革命                        |
+| 207회 | [10월 29일](../Page/10월_29일.md "wikilink")                  | 얼굴 없는 공포, 광우병 - 미국 쇠고기 보고서                         |
+| 208회 | [11월 4일](../Page/11월_4일.md "wikilink")                    | 이라크와 자이툰 제 1편 - 머나먼 평화의 길                          |
+| 209회 | [11월 5일](../Page/11월_5일.md "wikilink")                    | 이라크와 자이툰 제 2편 - 파병 2년, 평화재건의 딜레마                   |
+| 210회 | [11월 11일](../Page/11월_11일.md "wikilink")                  | 어머니의 노래, - 자장가를 찾아서 -                              |
+| 211회 | [11월 12일](../Page/11월_12일.md "wikilink")                  | 핵 실험 한 달, 北 · 中 간에 무슨 일이 있었나                       |
+| 212회 | [11월 18일](../Page/11월_18일.md "wikilink")                  | 화염산과의 동거 (2부작) 동남아 火山 지대의 사람들 - 제 1 편, 불의 고리 속에서   |
+| 213회 | [11월 19일](../Page/11월_19일.md "wikilink")                  | 총성없는 전쟁 - 대외원조 경쟁                                  |
+| 214회 | [11월 25일](../Page/11월_25일.md "wikilink")                  | 화염산과의 동거 (2부작) 동남아 火山 지대의 사람들 - 제 2 편, 유황의 제단      |
+| 215회 | [11월 26일](../Page/11월_26일.md "wikilink")                  | 당신들의 슈퍼우먼                                          |
+| 216회 | [12월 2일](../Page/12월_2일.md "wikilink")                    | \<해양기획 3부작\>2006 한반도 어류 대이동 - 1편. 멸치               |
+| 217회 | [12월 3일](../Page/12월_3일.md "wikilink")                    | 중국 현지보고 백두산 공정                                     |
+| 218회 | [12월 9일](../Page/12월_9일.md "wikilink")                    | \<해양기획 3부작\>2006 한반도 어류 대이동 - 2편. 조기               |
+| 219회 | [12월 10일](../Page/12월_10일.md "wikilink")                  | 언론의 숨은 얼굴, 기사 제목                                   |
+| 220회 | [12월 16일](../Page/12월_16일.md "wikilink")                  | \<해양기획 3부작\>2006 한반도 어류 대이동 - 3편. 오징어              |
+| 221회 | [12월 17일](../Page/12월_17일.md "wikilink")                  | 연못 속의 고래 ‘국민연금 1700조’                              |
+| 222회 | [12월 23일](../Page/12월_23일.md "wikilink")                  | 송년특집, “선물”                                         |
+| 223회 | [12월 24일](../Page/12월_24일.md "wikilink")                  | 시인과 집배원                                            |
+| 224회 | [12월 30일](../Page/12월_30일.md "wikilink")                  | 영상실록 2006 - 뒤돌아 본 지구촌                              |
+| 225회 | [12월 31일](../Page/12월_31일.md "wikilink")                  | 영상실록 2006 - 뒤돌아본 대한민국                              |
 
 #### 2007년
 
@@ -1509,180 +1509,180 @@
 
 #### 2010년
 
-| 회차   | 방송 일자                                                       | 부제                                                          |
-| ---- | ----------------------------------------------------------- | ----------------------------------------------------------- |
-| 787회 | [1월 2일](https://ko.wikipedia.org/wiki/1월_2일 "wikilink")     | KBS 스페셜 신년 경제 기획 부(富)의 지도 - 1편 <승자와 패자>                     |
-| 788회 | [1월 3일](https://ko.wikipedia.org/wiki/1월_3일 "wikilink")     | KBS 스페셜 신년 경제 기획 부(富)의 지도 - 2편 <초일류의 선택>                    |
-| 789회 | [1월 17일](https://ko.wikipedia.org/wiki/1월_17일 "wikilink")   | 0.1%의 재발견 한국인의 성공 DNA                                       |
-| 790회 | [1월 24일](https://ko.wikipedia.org/wiki/1월_24일 "wikilink")   | KBS 스페셜 긴급 르포 4人의 PD들이 본 아이티 대지진                            |
-| 791회 | [1월 31일](https://ko.wikipedia.org/wiki/1월_31일 "wikilink")   | 800조 블루오션 세계신약전쟁                                            |
-| 792회 | [2월 7일](https://ko.wikipedia.org/wiki/2월_7일 "wikilink")     | 도시의 탄생                                                      |
-| 793회 | [2월 21일](https://ko.wikipedia.org/wiki/2월_21일 "wikilink")   | 노르베르트 베버 신부의 고요한 아침의 나라에서                                   |
-| 794회 | [2월 28일](https://ko.wikipedia.org/wiki/2월_28일 "wikilink")   | 한국 최초의 의사 7인, 독립투사가 되다.                                     |
-| 795회 | [3월 21일](https://ko.wikipedia.org/wiki/3월_21일 "wikilink")   | 도요타 신화는 무너지는가                                               |
-| 796회 | [3월 28일](https://ko.wikipedia.org/wiki/3월_28일 "wikilink")   | 정권교체 6개월, 일본 아시아로 돌아오는가                                     |
-| 797회 | [4월 4일](https://ko.wikipedia.org/wiki/4월_4일 "wikilink")     | 천안함 침몰, 9일의 기록                                              |
-| 798회 | [4월 11일](https://ko.wikipedia.org/wiki/4월_11일 "wikilink")   | 수단의 슈바이처 故 이태석 신부 - 울지마, 톤즈                                 |
-| 799회 | [4월 17일](https://ko.wikipedia.org/wiki/4월_17일 "wikilink")   | 4.19혁명 50주년 특별기획 2부작 - 제1부 광장에서 핀 장미                        |
-| 800회 | [4월 18일](https://ko.wikipedia.org/wiki/4월_18일 "wikilink")   | 4.19혁명 50주년 특별기획 2부작 - 제2부 아버지의 길                           |
-| 801회 | [4월 24일](https://ko.wikipedia.org/wiki/4월_24일 "wikilink")   | 야생의 운명 - 오카방고의 기적                                           |
-| 802회 | [4월 25일](https://ko.wikipedia.org/wiki/4월_25일 "wikilink")   | 야생의 운명 - 세렝게티 대이동                                           |
-| 803회 | [5월 2일](https://ko.wikipedia.org/wiki/5월_2일 "wikilink")     | 세계 최초\! HD 생중계, 어떻게 이뤄졌나                                    |
-| 804회 | [5월 9일](https://ko.wikipedia.org/wiki/5월_9일 "wikilink")     | 화장품 회사가 알려 주지 않는 진실                                         |
-| 805회 | [5월 16일](https://ko.wikipedia.org/wiki/5월_16일 "wikilink")   | 2010년 5월, 북한에 무슨 일이 일어나고 있나                                 |
-| 806회 | [5월 20일](https://ko.wikipedia.org/wiki/5월_20일 "wikilink")   | 부처님 오신 날 특별기획 3부작 - 미소의 길: 제1부 불상의 탄생                       |
-| 807회 | [5월 21일](https://ko.wikipedia.org/wiki/5월_21일 "wikilink")   | 부처님 오신 날 특별기획 3부작 - 미소의 길: 제2부 대륙의 불상                       |
-| 808회 | [5월 22일](https://ko.wikipedia.org/wiki/5월_22일 "wikilink")   | 부처님 오신 날 특별기획 3부작 - 미소의 길: 제3부 동방의 미소                       |
-| 809회 | [5월 23일](https://ko.wikipedia.org/wiki/5월_23일 "wikilink")   | 긴장의 서해 NLL을 생각한다                                            |
-| 810회 | [5월 29일](https://ko.wikipedia.org/wiki/5월_29일 "wikilink")   | \[저출산 고령화 특별 기획 2부작\] 1부 초고령국가, 미리 가 본 2050년                |
-| 811회 | [5월 30일](https://ko.wikipedia.org/wiki/5월_30일 "wikilink")   | \[저출산 고령화 특별 기획 2부작\] 2부 모성보고서, 나는 낳고 싶다                    |
-| 812회 | [7월 4일](https://ko.wikipedia.org/wiki/7월_4일 "wikilink")     | 대한민국 성장의 힘 경부고속도로 40년                                       |
-| 813회 | [7월 11일](https://ko.wikipedia.org/wiki/7월_11일 "wikilink")   | 지용과 민제의 수상한 클래식                                             |
-| 814회 | [7월 18일](https://ko.wikipedia.org/wiki/7월_18일 "wikilink")   | \[발굴추적\] 114년 전, 한국인의 목소리                                   |
-| 815회 | [7월 25일](https://ko.wikipedia.org/wiki/7월_25일 "wikilink")   | BBC 대작 자연 다큐멘터리 - Life, 생명의 대여정                             |
-| 816회 | [8월 1일](https://ko.wikipedia.org/wiki/8월_1일 "wikilink")     | BBC 대작 자연 다큐멘터리 - Life, 생명의 대여정 제 2부 태고의 후예들                |
-| 817회 | [8월 8일](https://ko.wikipedia.org/wiki/8월_8일 "wikilink")     | BBC 대작 자연 다큐멘터리 - Life, 생명의 대여정 제 3부 지구의 절대 강자              |
-| 818회 | [8월 15일](https://ko.wikipedia.org/wiki/8월_15일 "wikilink")   | \[광복절 기획\] 광화문, 100년 만의 초대                                  |
-| 819회 | [9월 5일](https://ko.wikipedia.org/wiki/9월_5일 "wikilink")     | 세계대탐구 브라질 - 제1편 신이낸린 땅                                      |
-| 820회 | [9월 12일](https://ko.wikipedia.org/wiki/9월_12일 "wikilink")   | 세계대탐구 브라질 - 제2편 인간이 만든 나라                                   |
-| 821회 | [9월 19일](https://ko.wikipedia.org/wiki/9월_19일 "wikilink")   | 백령도 백상아리의 미스터리                                              |
-| 822회 | [10월 2일](https://ko.wikipedia.org/wiki/10월_2일 "wikilink")   | 최초공개\! 한국형 첨단무기                                             |
-| 823회 | [10월 3일](https://ko.wikipedia.org/wiki/10월_3일 "wikilink")   | 북한 3대권력세습 김정은                                               |
-| 824회 | [10월 10일](https://ko.wikipedia.org/wiki/10월_10일 "wikilink") | 스티브 잡스의 애플 혁신을 말하다                                          |
-| 825회 | [10월 17일](https://ko.wikipedia.org/wiki/10월_17일 "wikilink") | 연쇄살인범 J와의 인터뷰 - 누가 희생자가 되는가                                 |
-| 826회 | [10월 24일](https://ko.wikipedia.org/wiki/10월_24일 "wikilink") | 미국 농부 조엘의 혁명                                                |
-| 827회 | [10월 31일](https://ko.wikipedia.org/wiki/10월_31일 "wikilink") | 글로벌 환율 전쟁                                                   |
-| 828회 | [11월 6일](https://ko.wikipedia.org/wiki/11월_6일 "wikilink")   | G20 정상회의 기획 글로벌 경제 신질서를 말하다 1편 새로운 부의 법칙                    |
-| 829회 | [11월 7일](https://ko.wikipedia.org/wiki/11월_7일 "wikilink")   | G20 정상회의 기획 글로벌 경제 신질서를 말하다 2편 위기 그리고 대전환                   |
-| 830회 | [11월 14일](https://ko.wikipedia.org/wiki/11월_14일 "wikilink") | 세계탐구기획 2부작 <핀란드> 핀란드의 숨겨진 성공비결 - 1편: 사람만이 희망이다              |
-| 831회 | [11월 28일](https://ko.wikipedia.org/wiki/11월_28일 "wikilink") | 긴급리포트 북한 연평도 왜 공격했나                                         |
-| 832회 | [12월 5일](https://ko.wikipedia.org/wiki/12월_5일 "wikilink")   | 세계탐구기획 2부작 <핀란드> 핀란드의 숨겨진 성공비결 - 2편: 생존의 DNA, 나를 버려야 우리가 산다 |
-| 833회 | [12월 12일](https://ko.wikipedia.org/wiki/12월_12일 "wikilink") | 무료 디지털 다채널 방송 코리아뷰 KoreaView                                |
-| 834회 | [12월 19일](https://ko.wikipedia.org/wiki/12월_19일 "wikilink") | 동아시아 생명대탐사 아무르 - 프롤로그 깨어나는 신화                               |
-| 835회 | [12월 26일](https://ko.wikipedia.org/wiki/12월_26일 "wikilink") | 아버지의 집                                                      |
+| 회차   | 방송 일자                                    | 부제                                                          |
+| ---- | ---------------------------------------- | ----------------------------------------------------------- |
+| 787회 | [1월 2일](../Page/1월_2일.md "wikilink")     | KBS 스페셜 신년 경제 기획 부(富)의 지도 - 1편 <승자와 패자>                     |
+| 788회 | [1월 3일](../Page/1월_3일.md "wikilink")     | KBS 스페셜 신년 경제 기획 부(富)의 지도 - 2편 <초일류의 선택>                    |
+| 789회 | [1월 17일](../Page/1월_17일.md "wikilink")   | 0.1%의 재발견 한국인의 성공 DNA                                       |
+| 790회 | [1월 24일](../Page/1월_24일.md "wikilink")   | KBS 스페셜 긴급 르포 4人의 PD들이 본 아이티 대지진                            |
+| 791회 | [1월 31일](../Page/1월_31일.md "wikilink")   | 800조 블루오션 세계신약전쟁                                            |
+| 792회 | [2월 7일](../Page/2월_7일.md "wikilink")     | 도시의 탄생                                                      |
+| 793회 | [2월 21일](../Page/2월_21일.md "wikilink")   | 노르베르트 베버 신부의 고요한 아침의 나라에서                                   |
+| 794회 | [2월 28일](../Page/2월_28일.md "wikilink")   | 한국 최초의 의사 7인, 독립투사가 되다.                                     |
+| 795회 | [3월 21일](../Page/3월_21일.md "wikilink")   | 도요타 신화는 무너지는가                                               |
+| 796회 | [3월 28일](../Page/3월_28일.md "wikilink")   | 정권교체 6개월, 일본 아시아로 돌아오는가                                     |
+| 797회 | [4월 4일](../Page/4월_4일.md "wikilink")     | 천안함 침몰, 9일의 기록                                              |
+| 798회 | [4월 11일](../Page/4월_11일.md "wikilink")   | 수단의 슈바이처 故 이태석 신부 - 울지마, 톤즈                                 |
+| 799회 | [4월 17일](../Page/4월_17일.md "wikilink")   | 4.19혁명 50주년 특별기획 2부작 - 제1부 광장에서 핀 장미                        |
+| 800회 | [4월 18일](../Page/4월_18일.md "wikilink")   | 4.19혁명 50주년 특별기획 2부작 - 제2부 아버지의 길                           |
+| 801회 | [4월 24일](../Page/4월_24일.md "wikilink")   | 야생의 운명 - 오카방고의 기적                                           |
+| 802회 | [4월 25일](../Page/4월_25일.md "wikilink")   | 야생의 운명 - 세렝게티 대이동                                           |
+| 803회 | [5월 2일](../Page/5월_2일.md "wikilink")     | 세계 최초\! HD 생중계, 어떻게 이뤄졌나                                    |
+| 804회 | [5월 9일](../Page/5월_9일.md "wikilink")     | 화장품 회사가 알려 주지 않는 진실                                         |
+| 805회 | [5월 16일](../Page/5월_16일.md "wikilink")   | 2010년 5월, 북한에 무슨 일이 일어나고 있나                                 |
+| 806회 | [5월 20일](../Page/5월_20일.md "wikilink")   | 부처님 오신 날 특별기획 3부작 - 미소의 길: 제1부 불상의 탄생                       |
+| 807회 | [5월 21일](../Page/5월_21일.md "wikilink")   | 부처님 오신 날 특별기획 3부작 - 미소의 길: 제2부 대륙의 불상                       |
+| 808회 | [5월 22일](../Page/5월_22일.md "wikilink")   | 부처님 오신 날 특별기획 3부작 - 미소의 길: 제3부 동방의 미소                       |
+| 809회 | [5월 23일](../Page/5월_23일.md "wikilink")   | 긴장의 서해 NLL을 생각한다                                            |
+| 810회 | [5월 29일](../Page/5월_29일.md "wikilink")   | \[저출산 고령화 특별 기획 2부작\] 1부 초고령국가, 미리 가 본 2050년                |
+| 811회 | [5월 30일](../Page/5월_30일.md "wikilink")   | \[저출산 고령화 특별 기획 2부작\] 2부 모성보고서, 나는 낳고 싶다                    |
+| 812회 | [7월 4일](../Page/7월_4일.md "wikilink")     | 대한민국 성장의 힘 경부고속도로 40년                                       |
+| 813회 | [7월 11일](../Page/7월_11일.md "wikilink")   | 지용과 민제의 수상한 클래식                                             |
+| 814회 | [7월 18일](../Page/7월_18일.md "wikilink")   | \[발굴추적\] 114년 전, 한국인의 목소리                                   |
+| 815회 | [7월 25일](../Page/7월_25일.md "wikilink")   | BBC 대작 자연 다큐멘터리 - Life, 생명의 대여정                             |
+| 816회 | [8월 1일](../Page/8월_1일.md "wikilink")     | BBC 대작 자연 다큐멘터리 - Life, 생명의 대여정 제 2부 태고의 후예들                |
+| 817회 | [8월 8일](../Page/8월_8일.md "wikilink")     | BBC 대작 자연 다큐멘터리 - Life, 생명의 대여정 제 3부 지구의 절대 강자              |
+| 818회 | [8월 15일](../Page/8월_15일.md "wikilink")   | \[광복절 기획\] 광화문, 100년 만의 초대                                  |
+| 819회 | [9월 5일](../Page/9월_5일.md "wikilink")     | 세계대탐구 브라질 - 제1편 신이낸린 땅                                      |
+| 820회 | [9월 12일](../Page/9월_12일.md "wikilink")   | 세계대탐구 브라질 - 제2편 인간이 만든 나라                                   |
+| 821회 | [9월 19일](../Page/9월_19일.md "wikilink")   | 백령도 백상아리의 미스터리                                              |
+| 822회 | [10월 2일](../Page/10월_2일.md "wikilink")   | 최초공개\! 한국형 첨단무기                                             |
+| 823회 | [10월 3일](../Page/10월_3일.md "wikilink")   | 북한 3대권력세습 김정은                                               |
+| 824회 | [10월 10일](../Page/10월_10일.md "wikilink") | 스티브 잡스의 애플 혁신을 말하다                                          |
+| 825회 | [10월 17일](../Page/10월_17일.md "wikilink") | 연쇄살인범 J와의 인터뷰 - 누가 희생자가 되는가                                 |
+| 826회 | [10월 24일](../Page/10월_24일.md "wikilink") | 미국 농부 조엘의 혁명                                                |
+| 827회 | [10월 31일](../Page/10월_31일.md "wikilink") | 글로벌 환율 전쟁                                                   |
+| 828회 | [11월 6일](../Page/11월_6일.md "wikilink")   | G20 정상회의 기획 글로벌 경제 신질서를 말하다 1편 새로운 부의 법칙                    |
+| 829회 | [11월 7일](../Page/11월_7일.md "wikilink")   | G20 정상회의 기획 글로벌 경제 신질서를 말하다 2편 위기 그리고 대전환                   |
+| 830회 | [11월 14일](../Page/11월_14일.md "wikilink") | 세계탐구기획 2부작 <핀란드> 핀란드의 숨겨진 성공비결 - 1편: 사람만이 희망이다              |
+| 831회 | [11월 28일](../Page/11월_28일.md "wikilink") | 긴급리포트 북한 연평도 왜 공격했나                                         |
+| 832회 | [12월 5일](../Page/12월_5일.md "wikilink")   | 세계탐구기획 2부작 <핀란드> 핀란드의 숨겨진 성공비결 - 2편: 생존의 DNA, 나를 버려야 우리가 산다 |
+| 833회 | [12월 12일](../Page/12월_12일.md "wikilink") | 무료 디지털 다채널 방송 코리아뷰 KoreaView                                |
+| 834회 | [12월 19일](../Page/12월_19일.md "wikilink") | 동아시아 생명대탐사 아무르 - 프롤로그 깨어나는 신화                               |
+| 835회 | [12월 26일](../Page/12월_26일.md "wikilink") | 아버지의 집                                                      |
 
 #### 2011년
 
-| 회차   | 방송 일자                                                       | 부제                                      |
-| ---- | ----------------------------------------------------------- | --------------------------------------- |
-| 836회 | [1월 2일](https://ko.wikipedia.org/wiki/1월_2일 "wikilink")     | 블루 이코노미 세상을 바꾼다 - 1편. 미래 경제, 자연에서 찾다    |
-| 837회 | [1월 9일](https://ko.wikipedia.org/wiki/1월_9일 "wikilink")     | 블루 이코노미 세상을 바꾼다 - 2편. 미래 건축, 자연을 닮다     |
-| 838회 | [1월 16일](https://ko.wikipedia.org/wiki/1월_16일 "wikilink")   | 행복해지는 법 - 1편 대한민국은 행복한가?                |
-| 839회 | [1월 23일](https://ko.wikipedia.org/wiki/1월_23일 "wikilink")   | 긴급입체분석, 아덴만 여명 소말리아 인질 구출작전             |
-| 840회 | [1월 30일](https://ko.wikipedia.org/wiki/1월_30일 "wikilink")   | 행복해지는 법 - 2편 행복의 비밀코드                   |
-| 841회 | [2월 6일](https://ko.wikipedia.org/wiki/2월_6일 "wikilink")     | 일해줘서 고마워                                |
-| 842회 | [2월 13일](https://ko.wikipedia.org/wiki/2월_13일 "wikilink")   | 이집트 시민혁명, 카이로의 봄은 오는가?                  |
-| 843회 | [2월 20일](https://ko.wikipedia.org/wiki/2월_20일 "wikilink")   | 황금, 세계경제를 비추다                           |
-| 844회 | [2월 27일](https://ko.wikipedia.org/wiki/2월_27일 "wikilink")   | 종자, 세계를 지배하다                            |
-| 845회 | [3월 6일](https://ko.wikipedia.org/wiki/3월_6일 "wikilink")     | 미국을 떠받치는 힘 자원봉사 Volunteer               |
-| 846회 | [3월 20일](https://ko.wikipedia.org/wiki/3월_20일 "wikilink")   | 대 지진, 위기의 일본                            |
-| 847회 | [3월 27일](https://ko.wikipedia.org/wiki/3월_27일 "wikilink")   | 스페인 몬드라곤의 기적                            |
-| 848회 | [4월 3일](https://ko.wikipedia.org/wiki/4월_3일 "wikilink")     | 카다피의 제국 리비아의 운명은?                       |
-| 849회 | [4월 10일](https://ko.wikipedia.org/wiki/4월_10일 "wikilink")   | 대한민국 비정규직 리포트                           |
-| 850회 | [4월 17일](https://ko.wikipedia.org/wiki/4월_17일 "wikilink")   | 프랑스의 선택, 부르카를 벗기다                       |
-| 851회 | [4월 24일](https://ko.wikipedia.org/wiki/4월_24일 "wikilink")   | 국물 전쟁 백년사                               |
-| 852회 | [5월 8일](https://ko.wikipedia.org/wiki/5월_8일 "wikilink")     | 엄마, 사랑해                                 |
-| 853회 | [5월 15일](https://ko.wikipedia.org/wiki/5월_15일 "wikilink")   | 소릿길 95년 ‘배뱅이굿’ 이은관                      |
-| 854회 | [5월 22일](https://ko.wikipedia.org/wiki/5월_22일 "wikilink")   | 바다의 경고 - 해조류 종자 전쟁                      |
-| 855회 | [5월 28일](https://ko.wikipedia.org/wiki/5월_28일 "wikilink")   | 인간, 나이 듦 그리고 행복 - 1편. 대한민국 베이비부머        |
-| 856회 | [5월 29일](https://ko.wikipedia.org/wiki/5월_29일 "wikilink")   | 인간, 나이 듦 그리고 행복 - 2편. 노년, 제3의 인생        |
-| 857회 | [6월 5일](https://ko.wikipedia.org/wiki/6월_5일 "wikilink")     | 최초탐사 남태평양 심해를 가다                        |
-| 858회 | [6월 12일](https://ko.wikipedia.org/wiki/6월_12일 "wikilink")   | 스마트 혁명, 세상을 바꾸다                         |
-| 859회 | [6월 19일](https://ko.wikipedia.org/wiki/6월_19일 "wikilink")   | 대지진 100일 - 흔들리는 일본                      |
-| 860회 | [6월 26일](https://ko.wikipedia.org/wiki/6월_26일 "wikilink")   | K-POP, 세계를 춤추게 하다                       |
-| 861회 | [7월 3일](https://ko.wikipedia.org/wiki/7월_3일 "wikilink")     | 어느 인민군 병사의 수첩                           |
-| 862회 | [7월 10일](https://ko.wikipedia.org/wiki/7월_10일 "wikilink")   | 친구 - 죽은 자와 산 자의 대화                      |
-| 863회 | [7월 17일](https://ko.wikipedia.org/wiki/7월_17일 "wikilink")   | 도시를 브랜드하라, I♡NY 이야기                     |
-| 864회 | [7월 31일](https://ko.wikipedia.org/wiki/7월_31일 "wikilink")   | <울지마 톤즈> 그 후 - 선 물                      |
-| 865회 | [8월 7일](https://ko.wikipedia.org/wiki/8월_7일 "wikilink")     | 변기야 지구를 부탁해                             |
-| 866회 | [8월 14일](https://ko.wikipedia.org/wiki/8월_14일 "wikilink")   | \[8.15 광복 특집\] 기억의 재구성 - 1945.8.15      |
-| 867회 | [8월 21일](https://ko.wikipedia.org/wiki/8월_21일 "wikilink")   | 심리치유 8주의 기록 함께 살자                       |
-| 868회 | [8월 27일](https://ko.wikipedia.org/wiki/8월_27일 "wikilink")   | 질주본능                                    |
-| 869회 | [9월 11일](https://ko.wikipedia.org/wiki/9월_11일 "wikilink")   | 기장씨네 뒷 산, 섬이 되다                         |
-| 870회 | [9월 18일](https://ko.wikipedia.org/wiki/9월_18일 "wikilink")   | 차이메리카의 자원전쟁 - 1부. 에너지 패권, 미국의 독주는 계속되나? |
-| 871회 | [9월 25일](https://ko.wikipedia.org/wiki/9월_25일 "wikilink")   | 무쇠팔 최동원 인생을 던지다                         |
-| 872회 | [10월 2일](https://ko.wikipedia.org/wiki/10월_2일 "wikilink")   | 차이메리카의 자원전쟁 - 2부. 중국의 반격, 희토류           |
-| 873회 | [10월 9일](https://ko.wikipedia.org/wiki/10월_9일 "wikilink")   | iSad "다르게 생각하라" 스티브 잡스의 유산              |
-| 874회 | [10월 30일](https://ko.wikipedia.org/wiki/10월_30일 "wikilink") | 전격공개 중국 최초 항공모함, 바랴그 號                  |
-| 875회 | [11월 6일](https://ko.wikipedia.org/wiki/11월_6일 "wikilink")   | 미래 자원전쟁, 대한민국 생존의 조건                    |
-| 876회 | [11월 13일](https://ko.wikipedia.org/wiki/11월_13일 "wikilink") | 박영석 대장, 안나푸르나 마지막 10일의 기록               |
-| 877회 | [11월 20일](https://ko.wikipedia.org/wiki/11월_20일 "wikilink") | 흔들리는 유럽, 광기와 폭력의 그림자                    |
-| 878회 | [11월 27일](https://ko.wikipedia.org/wiki/11월_27일 "wikilink") | We Are 99% 월가 분노가 점령하다                  |
-| 879회 | [12월 3일](https://ko.wikipedia.org/wiki/12월_3일 "wikilink")   | 통일 대기획 - 제1편 북한 주민 통일을 말하다              |
-| 880회 | [12월 4일](https://ko.wikipedia.org/wiki/12월_4일 "wikilink")   | 통일 대기획 - 제2편 북한을 보는 두 개의 시선             |
-| 881회 | [12월 11일](https://ko.wikipedia.org/wiki/12월_11일 "wikilink") | 2011 겨울, 블랙아웃의 경고                       |
-| 882회 | [12월 17일](https://ko.wikipedia.org/wiki/12월_17일 "wikilink") | <핵안보 정상회의 D-100 기획> 핵 테러, 세계는 안전한가?     |
-| 883회 | [12월 18일](https://ko.wikipedia.org/wiki/12월_18일 "wikilink") | 당신이 영어를 못하는 진짜, 이유                      |
-| 884회 | [12월 25일](https://ko.wikipedia.org/wiki/12월_25일 "wikilink") | 김정은 체제, 북한은 어디로 가는가                     |
+| 회차   | 방송 일자                                    | 부제                                      |
+| ---- | ---------------------------------------- | --------------------------------------- |
+| 836회 | [1월 2일](../Page/1월_2일.md "wikilink")     | 블루 이코노미 세상을 바꾼다 - 1편. 미래 경제, 자연에서 찾다    |
+| 837회 | [1월 9일](../Page/1월_9일.md "wikilink")     | 블루 이코노미 세상을 바꾼다 - 2편. 미래 건축, 자연을 닮다     |
+| 838회 | [1월 16일](../Page/1월_16일.md "wikilink")   | 행복해지는 법 - 1편 대한민국은 행복한가?                |
+| 839회 | [1월 23일](../Page/1월_23일.md "wikilink")   | 긴급입체분석, 아덴만 여명 소말리아 인질 구출작전             |
+| 840회 | [1월 30일](../Page/1월_30일.md "wikilink")   | 행복해지는 법 - 2편 행복의 비밀코드                   |
+| 841회 | [2월 6일](../Page/2월_6일.md "wikilink")     | 일해줘서 고마워                                |
+| 842회 | [2월 13일](../Page/2월_13일.md "wikilink")   | 이집트 시민혁명, 카이로의 봄은 오는가?                  |
+| 843회 | [2월 20일](../Page/2월_20일.md "wikilink")   | 황금, 세계경제를 비추다                           |
+| 844회 | [2월 27일](../Page/2월_27일.md "wikilink")   | 종자, 세계를 지배하다                            |
+| 845회 | [3월 6일](../Page/3월_6일.md "wikilink")     | 미국을 떠받치는 힘 자원봉사 Volunteer               |
+| 846회 | [3월 20일](../Page/3월_20일.md "wikilink")   | 대 지진, 위기의 일본                            |
+| 847회 | [3월 27일](../Page/3월_27일.md "wikilink")   | 스페인 몬드라곤의 기적                            |
+| 848회 | [4월 3일](../Page/4월_3일.md "wikilink")     | 카다피의 제국 리비아의 운명은?                       |
+| 849회 | [4월 10일](../Page/4월_10일.md "wikilink")   | 대한민국 비정규직 리포트                           |
+| 850회 | [4월 17일](../Page/4월_17일.md "wikilink")   | 프랑스의 선택, 부르카를 벗기다                       |
+| 851회 | [4월 24일](../Page/4월_24일.md "wikilink")   | 국물 전쟁 백년사                               |
+| 852회 | [5월 8일](../Page/5월_8일.md "wikilink")     | 엄마, 사랑해                                 |
+| 853회 | [5월 15일](../Page/5월_15일.md "wikilink")   | 소릿길 95년 ‘배뱅이굿’ 이은관                      |
+| 854회 | [5월 22일](../Page/5월_22일.md "wikilink")   | 바다의 경고 - 해조류 종자 전쟁                      |
+| 855회 | [5월 28일](../Page/5월_28일.md "wikilink")   | 인간, 나이 듦 그리고 행복 - 1편. 대한민국 베이비부머        |
+| 856회 | [5월 29일](../Page/5월_29일.md "wikilink")   | 인간, 나이 듦 그리고 행복 - 2편. 노년, 제3의 인생        |
+| 857회 | [6월 5일](../Page/6월_5일.md "wikilink")     | 최초탐사 남태평양 심해를 가다                        |
+| 858회 | [6월 12일](../Page/6월_12일.md "wikilink")   | 스마트 혁명, 세상을 바꾸다                         |
+| 859회 | [6월 19일](../Page/6월_19일.md "wikilink")   | 대지진 100일 - 흔들리는 일본                      |
+| 860회 | [6월 26일](../Page/6월_26일.md "wikilink")   | K-POP, 세계를 춤추게 하다                       |
+| 861회 | [7월 3일](../Page/7월_3일.md "wikilink")     | 어느 인민군 병사의 수첩                           |
+| 862회 | [7월 10일](../Page/7월_10일.md "wikilink")   | 친구 - 죽은 자와 산 자의 대화                      |
+| 863회 | [7월 17일](../Page/7월_17일.md "wikilink")   | 도시를 브랜드하라, I♡NY 이야기                     |
+| 864회 | [7월 31일](../Page/7월_31일.md "wikilink")   | <울지마 톤즈> 그 후 - 선 물                      |
+| 865회 | [8월 7일](../Page/8월_7일.md "wikilink")     | 변기야 지구를 부탁해                             |
+| 866회 | [8월 14일](../Page/8월_14일.md "wikilink")   | \[8.15 광복 특집\] 기억의 재구성 - 1945.8.15      |
+| 867회 | [8월 21일](../Page/8월_21일.md "wikilink")   | 심리치유 8주의 기록 함께 살자                       |
+| 868회 | [8월 27일](../Page/8월_27일.md "wikilink")   | 질주본능                                    |
+| 869회 | [9월 11일](../Page/9월_11일.md "wikilink")   | 기장씨네 뒷 산, 섬이 되다                         |
+| 870회 | [9월 18일](../Page/9월_18일.md "wikilink")   | 차이메리카의 자원전쟁 - 1부. 에너지 패권, 미국의 독주는 계속되나? |
+| 871회 | [9월 25일](../Page/9월_25일.md "wikilink")   | 무쇠팔 최동원 인생을 던지다                         |
+| 872회 | [10월 2일](../Page/10월_2일.md "wikilink")   | 차이메리카의 자원전쟁 - 2부. 중국의 반격, 희토류           |
+| 873회 | [10월 9일](../Page/10월_9일.md "wikilink")   | iSad "다르게 생각하라" 스티브 잡스의 유산              |
+| 874회 | [10월 30일](../Page/10월_30일.md "wikilink") | 전격공개 중국 최초 항공모함, 바랴그 號                  |
+| 875회 | [11월 6일](../Page/11월_6일.md "wikilink")   | 미래 자원전쟁, 대한민국 생존의 조건                    |
+| 876회 | [11월 13일](../Page/11월_13일.md "wikilink") | 박영석 대장, 안나푸르나 마지막 10일의 기록               |
+| 877회 | [11월 20일](../Page/11월_20일.md "wikilink") | 흔들리는 유럽, 광기와 폭력의 그림자                    |
+| 878회 | [11월 27일](../Page/11월_27일.md "wikilink") | We Are 99% 월가 분노가 점령하다                  |
+| 879회 | [12월 3일](../Page/12월_3일.md "wikilink")   | 통일 대기획 - 제1편 북한 주민 통일을 말하다              |
+| 880회 | [12월 4일](../Page/12월_4일.md "wikilink")   | 통일 대기획 - 제2편 북한을 보는 두 개의 시선             |
+| 881회 | [12월 11일](../Page/12월_11일.md "wikilink") | 2011 겨울, 블랙아웃의 경고                       |
+| 882회 | [12월 17일](../Page/12월_17일.md "wikilink") | <핵안보 정상회의 D-100 기획> 핵 테러, 세계는 안전한가?     |
+| 883회 | [12월 18일](../Page/12월_18일.md "wikilink") | 당신이 영어를 못하는 진짜, 이유                      |
+| 884회 | [12월 25일](../Page/12월_25일.md "wikilink") | 김정은 체제, 북한은 어디로 가는가                     |
 
 #### 2012년
 
-| 회차   | 방송 일자                                                       | 부제                                                  |
-| ---- | ----------------------------------------------------------- | --------------------------------------------------- |
-| 885회 | [1월 1일](https://ko.wikipedia.org/wiki/1월_1일 "wikilink")     | 행복의 리더십 - 1부 리더, 나와 통하다-소통과 공감                      |
-| 886회 | [1월 8일](https://ko.wikipedia.org/wiki/1월_8일 "wikilink")     | 행복의 리더십 - 2부 리더, 나를 바꾸다-정의, 책임 그리고 혁신               |
-| 887회 | [1월 15일](https://ko.wikipedia.org/wiki/1월_15일 "wikilink")   | 13억 대륙을 흔들다, 음악가 정율성                                |
-| 888회 | [1월 22일](https://ko.wikipedia.org/wiki/1월_22일 "wikilink")   | 우리 이웃의 작은 영웅들                                       |
-| 889회 | [1월 29일](https://ko.wikipedia.org/wiki/1월_29일 "wikilink")   | 잘 늙는 법 - 제1편 아흔살 청춘의 비밀                             |
-| 890회 | [2월 5일](https://ko.wikipedia.org/wiki/2월_5일 "wikilink")     | 잘 늙는 법 - 제2편 당신은 행복하게 늙는가                           |
-| 891회 | [2월 12일](https://ko.wikipedia.org/wiki/2월_12일 "wikilink")   | 아덴만을 가다 밀착취재 청해부대                                   |
-| 892회 | [2월 19일](https://ko.wikipedia.org/wiki/2월_19일 "wikilink")   | 괜찮아 서른                                              |
-| 893회 | [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink")   | 일본대지진 1년, 후쿠시마의 겨울                                  |
-| 894회 | [3월 18일](https://ko.wikipedia.org/wiki/3월_18일 "wikilink")   | 교실 속 ‘거짓말 같은 이야기’                                   |
-| 895회 | [3월 25일](https://ko.wikipedia.org/wiki/3월_25일 "wikilink")   | 미로에 빠진 유로                                           |
-| 896회 | [4월 1일](https://ko.wikipedia.org/wiki/4월_1일 "wikilink")     | 셰프의 탄생 - 500일의 레시피                                  |
-| 897회 | [4월 8일](https://ko.wikipedia.org/wiki/4월_8일 "wikilink")     | 탈북 그 후, 어떤 코리안                                      |
-| 898회 | [4월 15일](https://ko.wikipedia.org/wiki/4월_15일 "wikilink")   | 다문화 아이들(1부) - 16살 앤드류 넬슨의 꿈                         |
-| 899회 | [4월 22일](https://ko.wikipedia.org/wiki/4월_22일 "wikilink")   | 밀착 취재\! 아웅산 수치, 미얀마에 봄은 오는가                         |
-| 900회 | [4월 29일](https://ko.wikipedia.org/wiki/4월_29일 "wikilink")   | LA폭동 20주년 기획 - LA폭동 20주년 기획                         |
-| 901회 | [5월 6일](https://ko.wikipedia.org/wiki/5월_6일 "wikilink")     | 다문화 아이들(2부) - 아버지의 마지막 선택                           |
-| 902회 | [5월 20일](https://ko.wikipedia.org/wiki/5월_20일 "wikilink")   | 김정은 체제 5개월, 북한은?                                    |
-| 903회 | [5월 27일](https://ko.wikipedia.org/wiki/5월_27일 "wikilink")   | 산은 산이요 물은 물이로다’ 나의 스승, 성철                           |
-| 904회 | [6월 3일](https://ko.wikipedia.org/wiki/6월_3일 "wikilink")     | 스마일 톤즈                                              |
-| 905회 | [6월 10일](https://ko.wikipedia.org/wiki/6월_10일 "wikilink")   | 위기의 베이비부머, 퇴직쇼크                                     |
-| 906회 | [6월 17일](https://ko.wikipedia.org/wiki/6월_17일 "wikilink")   | 암의 종말                                               |
-| 907회 | [6월 24일](https://ko.wikipedia.org/wiki/6월_24일 "wikilink")   | \[6.25 기획\]61년만의 해후 - 허시 형제 이야기                     |
-| 908회 | [7월 1일](https://ko.wikipedia.org/wiki/7월_1일 "wikilink")     |                                                     |
-| 909회 | [7월 8일](https://ko.wikipedia.org/wiki/7월_8일 "wikilink")     | 기적의 오케스트라 세상을 연주하다                                  |
-| 910회 | [7월 15일](https://ko.wikipedia.org/wiki/7월_15일 "wikilink")   | 여성범죄와 밤길에 대한 보고서                                    |
-| 911회 | [7월 22일](https://ko.wikipedia.org/wiki/7월_22일 "wikilink")   | 런던, 재탄생\!                                           |
-| 912회 | [8월 19일](https://ko.wikipedia.org/wiki/8월_19일 "wikilink")   | 독점 발굴\! 독도의 증언                                      |
-| 913회 | [9월 2일](https://ko.wikipedia.org/wiki/9월_2일 "wikilink")     | 12,000km, 길에서 만난 희망                                 |
-| 914회 | [9월 9일](https://ko.wikipedia.org/wiki/9월_9일 "wikilink")     | 어떤 인생 - 미래저축은행 김찬경                                  |
-| 915회 | [9월 16일](https://ko.wikipedia.org/wiki/9월_16일 "wikilink")   | 황해(黃海), 바람의 횡단                                      |
-| 916회 | [9월 23일](https://ko.wikipedia.org/wiki/9월_23일 "wikilink")   | 세상을 바꾸는 18분의 기적 - TED                               |
-| 917회 | [9월 30일](https://ko.wikipedia.org/wiki/9월_30일 "wikilink")   | 블랙 이글, 세계를 날다                                       |
-| 918회 | [10월 7일](https://ko.wikipedia.org/wiki/10월_7일 "wikilink")   | \[KBS스페셜 2부작 한.중.일 역사 분쟁\] 제1편 동북공정, 역사의 창작 10년     |
-| 919회 | [10월 14일](https://ko.wikipedia.org/wiki/10월_14일 "wikilink") | \[KBS스페셜 2부작 한.중.일 역사 분쟁\] 제2편 발굴 추적\! 일본은 독도를 포기했다 |
-| 920회 | [10월 21일](https://ko.wikipedia.org/wiki/10월_21일 "wikilink") | 2012대선, 유권자가 말한다.                                   |
-| 921회 | [10월 28일](https://ko.wikipedia.org/wiki/10월_28일 "wikilink") | 달콤한 향기의 위험한 비밀                                      |
-| 922회 | [11월 4일](https://ko.wikipedia.org/wiki/11월_4일 "wikilink")   | 오사카의 거인 이대호                                         |
-| 923회 | [11월 11일](https://ko.wikipedia.org/wiki/11월_11일 "wikilink") | G2의 리더십, 오바마와 시진핑                                   |
-| 924회 | [11월 18일](https://ko.wikipedia.org/wiki/11월_18일 "wikilink") | 가객(歌客), 배호의 귀환                                      |
-| 925회 | [11월 25일](https://ko.wikipedia.org/wiki/11월_25일 "wikilink") | 21세기 골드러쉬, 셰일가스                                     |
-| 926회 | [12월 2일](https://ko.wikipedia.org/wiki/12월_2일 "wikilink")   | 마야, 제왕의 시간                                          |
-| 927회 | [12월 9일](https://ko.wikipedia.org/wiki/12월_9일 "wikilink")   | 유네스코 인류무형유산 "아리랑, 세계를 품다"                           |
-| 928회 | [12월 23일](https://ko.wikipedia.org/wiki/12월_23일 "wikilink") | 성공하는 대통령, 당선 후 67일                                  |
-| 929회 | [12월 30일](https://ko.wikipedia.org/wiki/12월_30일 "wikilink") | <송년특집> 우리는 2012년을 살았다                               |
+| 회차   | 방송 일자                                                     | 부제                                                  |
+| ---- | --------------------------------------------------------- | --------------------------------------------------- |
+| 885회 | [1월 1일](../Page/1월_1일.md "wikilink")                      | 행복의 리더십 - 1부 리더, 나와 통하다-소통과 공감                      |
+| 886회 | [1월 8일](../Page/1월_8일.md "wikilink")                      | 행복의 리더십 - 2부 리더, 나를 바꾸다-정의, 책임 그리고 혁신               |
+| 887회 | [1월 15일](../Page/1월_15일.md "wikilink")                    | 13억 대륙을 흔들다, 음악가 정율성                                |
+| 888회 | [1월 22일](../Page/1월_22일.md "wikilink")                    | 우리 이웃의 작은 영웅들                                       |
+| 889회 | [1월 29일](../Page/1월_29일.md "wikilink")                    | 잘 늙는 법 - 제1편 아흔살 청춘의 비밀                             |
+| 890회 | [2월 5일](../Page/2월_5일.md "wikilink")                      | 잘 늙는 법 - 제2편 당신은 행복하게 늙는가                           |
+| 891회 | [2월 12일](../Page/2월_12일.md "wikilink")                    | 아덴만을 가다 밀착취재 청해부대                                   |
+| 892회 | [2월 19일](../Page/2월_19일.md "wikilink")                    | 괜찮아 서른                                              |
+| 893회 | [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") | 일본대지진 1년, 후쿠시마의 겨울                                  |
+| 894회 | [3월 18일](../Page/3월_18일.md "wikilink")                    | 교실 속 ‘거짓말 같은 이야기’                                   |
+| 895회 | [3월 25일](../Page/3월_25일.md "wikilink")                    | 미로에 빠진 유로                                           |
+| 896회 | [4월 1일](../Page/4월_1일.md "wikilink")                      | 셰프의 탄생 - 500일의 레시피                                  |
+| 897회 | [4월 8일](../Page/4월_8일.md "wikilink")                      | 탈북 그 후, 어떤 코리안                                      |
+| 898회 | [4월 15일](../Page/4월_15일.md "wikilink")                    | 다문화 아이들(1부) - 16살 앤드류 넬슨의 꿈                         |
+| 899회 | [4월 22일](../Page/4월_22일.md "wikilink")                    | 밀착 취재\! 아웅산 수치, 미얀마에 봄은 오는가                         |
+| 900회 | [4월 29일](../Page/4월_29일.md "wikilink")                    | LA폭동 20주년 기획 - LA폭동 20주년 기획                         |
+| 901회 | [5월 6일](../Page/5월_6일.md "wikilink")                      | 다문화 아이들(2부) - 아버지의 마지막 선택                           |
+| 902회 | [5월 20일](../Page/5월_20일.md "wikilink")                    | 김정은 체제 5개월, 북한은?                                    |
+| 903회 | [5월 27일](../Page/5월_27일.md "wikilink")                    | 산은 산이요 물은 물이로다’ 나의 스승, 성철                           |
+| 904회 | [6월 3일](../Page/6월_3일.md "wikilink")                      | 스마일 톤즈                                              |
+| 905회 | [6월 10일](../Page/6월_10일.md "wikilink")                    | 위기의 베이비부머, 퇴직쇼크                                     |
+| 906회 | [6월 17일](../Page/6월_17일.md "wikilink")                    | 암의 종말                                               |
+| 907회 | [6월 24일](../Page/6월_24일.md "wikilink")                    | \[6.25 기획\]61년만의 해후 - 허시 형제 이야기                     |
+| 908회 | [7월 1일](../Page/7월_1일.md "wikilink")                      |                                                     |
+| 909회 | [7월 8일](../Page/7월_8일.md "wikilink")                      | 기적의 오케스트라 세상을 연주하다                                  |
+| 910회 | [7월 15일](../Page/7월_15일.md "wikilink")                    | 여성범죄와 밤길에 대한 보고서                                    |
+| 911회 | [7월 22일](../Page/7월_22일.md "wikilink")                    | 런던, 재탄생\!                                           |
+| 912회 | [8월 19일](../Page/8월_19일.md "wikilink")                    | 독점 발굴\! 독도의 증언                                      |
+| 913회 | [9월 2일](../Page/9월_2일.md "wikilink")                      | 12,000km, 길에서 만난 희망                                 |
+| 914회 | [9월 9일](../Page/9월_9일.md "wikilink")                      | 어떤 인생 - 미래저축은행 김찬경                                  |
+| 915회 | [9월 16일](../Page/9월_16일.md "wikilink")                    | 황해(黃海), 바람의 횡단                                      |
+| 916회 | [9월 23일](../Page/9월_23일.md "wikilink")                    | 세상을 바꾸는 18분의 기적 - TED                               |
+| 917회 | [9월 30일](../Page/9월_30일.md "wikilink")                    | 블랙 이글, 세계를 날다                                       |
+| 918회 | [10월 7일](../Page/10월_7일.md "wikilink")                    | \[KBS스페셜 2부작 한.중.일 역사 분쟁\] 제1편 동북공정, 역사의 창작 10년     |
+| 919회 | [10월 14일](../Page/10월_14일.md "wikilink")                  | \[KBS스페셜 2부작 한.중.일 역사 분쟁\] 제2편 발굴 추적\! 일본은 독도를 포기했다 |
+| 920회 | [10월 21일](../Page/10월_21일.md "wikilink")                  | 2012대선, 유권자가 말한다.                                   |
+| 921회 | [10월 28일](../Page/10월_28일.md "wikilink")                  | 달콤한 향기의 위험한 비밀                                      |
+| 922회 | [11월 4일](../Page/11월_4일.md "wikilink")                    | 오사카의 거인 이대호                                         |
+| 923회 | [11월 11일](../Page/11월_11일.md "wikilink")                  | G2의 리더십, 오바마와 시진핑                                   |
+| 924회 | [11월 18일](../Page/11월_18일.md "wikilink")                  | 가객(歌客), 배호의 귀환                                      |
+| 925회 | [11월 25일](../Page/11월_25일.md "wikilink")                  | 21세기 골드러쉬, 셰일가스                                     |
+| 926회 | [12월 2일](../Page/12월_2일.md "wikilink")                    | 마야, 제왕의 시간                                          |
+| 927회 | [12월 9일](../Page/12월_9일.md "wikilink")                    | 유네스코 인류무형유산 "아리랑, 세계를 품다"                           |
+| 928회 | [12월 23일](../Page/12월_23일.md "wikilink")                  | 성공하는 대통령, 당선 후 67일                                  |
+| 929회 | [12월 30일](../Page/12월_30일.md "wikilink")                  | <송년특집> 우리는 2012년을 살았다                               |
 
 #### 2013년
 
-| 회차   | 방송 일자                                                     | 부제                                         |
-| ---- | --------------------------------------------------------- | ------------------------------------------ |
-| 930회 | [1월 6일](https://ko.wikipedia.org/wiki/1월_6일 "wikilink")   | \<2013 KBS스페셜 신년특집 2부작\> 동아시아 평화프로젝트       |
-| 931회 | [1월 13일](https://ko.wikipedia.org/wiki/1월_13일 "wikilink") |                                            |
-| 932회 | [1월 20일](https://ko.wikipedia.org/wiki/1월_20일 "wikilink") | \[KBS스페셜 신년기획 3부작\] 제1편: 혁신으로 이룬 복지, 스웨덴   |
-| 933회 | [1월 27일](https://ko.wikipedia.org/wiki/1월_27일 "wikilink") | \[KBS스페셜 신년기획 3부작\] 제2편: 중소기업의 나라, 독일      |
-| 934회 | [2월 3일](https://ko.wikipedia.org/wiki/2월_3일 "wikilink")   | 검찰, 개혁 앞에 서다                               |
-| 935회 | [2월 10일](https://ko.wikipedia.org/wiki/2월_10일 "wikilink") | \[KBS스페셜 설기획\] 지리산 와운골, 아버지의 산             |
-| 936회 | [2월 17일](https://ko.wikipedia.org/wiki/2월_17일 "wikilink") | \[KBS스페셜 신년기획 3부작\] 제3편: 중산층이 미래다          |
-| 937회 | [2월 24일](https://ko.wikipedia.org/wiki/2월_24일 "wikilink") | 민주주의와 리더십 대통령이란 무엇인가                       |
-| 938회 | [3월 3일](https://ko.wikipedia.org/wiki/3월_3일 "wikilink")   | \[KBS스페셜 3.1절 기획\] 발굴추적, 3.1운동의 숨겨진 대부 김규흥 |
-| 939회 | [3월 10일](https://ko.wikipedia.org/wiki/3월_10일 "wikilink") | 암의 천적, 킬러 바이러스                             |
-| 940회 | [3월 17일](https://ko.wikipedia.org/wiki/3월_17일 "wikilink") | 밀착취재 도망자의 천국, 필리핀                          |
-| 941회 | [3월 24일](https://ko.wikipedia.org/wiki/3월_24일 "wikilink") | 아파트의 역습                                    |
-| 942회 | [3월 31일](https://ko.wikipedia.org/wiki/3월_31일 "wikilink") | 의궤, 잃어버린 역사를 찾다 박병선 박사                     |
-| 943회 | [4월 7일](https://ko.wikipedia.org/wiki/4월_7일 "wikilink")   | 해협의 아리아, 전월선 30년의 기록                       |
+| 회차   | 방송 일자                                  | 부제                                         |
+| ---- | -------------------------------------- | ------------------------------------------ |
+| 930회 | [1월 6일](../Page/1월_6일.md "wikilink")   | \<2013 KBS스페셜 신년특집 2부작\> 동아시아 평화프로젝트       |
+| 931회 | [1월 13일](../Page/1월_13일.md "wikilink") |                                            |
+| 932회 | [1월 20일](../Page/1월_20일.md "wikilink") | \[KBS스페셜 신년기획 3부작\] 제1편: 혁신으로 이룬 복지, 스웨덴   |
+| 933회 | [1월 27일](../Page/1월_27일.md "wikilink") | \[KBS스페셜 신년기획 3부작\] 제2편: 중소기업의 나라, 독일      |
+| 934회 | [2월 3일](../Page/2월_3일.md "wikilink")   | 검찰, 개혁 앞에 서다                               |
+| 935회 | [2월 10일](../Page/2월_10일.md "wikilink") | \[KBS스페셜 설기획\] 지리산 와운골, 아버지의 산             |
+| 936회 | [2월 17일](../Page/2월_17일.md "wikilink") | \[KBS스페셜 신년기획 3부작\] 제3편: 중산층이 미래다          |
+| 937회 | [2월 24일](../Page/2월_24일.md "wikilink") | 민주주의와 리더십 대통령이란 무엇인가                       |
+| 938회 | [3월 3일](../Page/3월_3일.md "wikilink")   | \[KBS스페셜 3.1절 기획\] 발굴추적, 3.1운동의 숨겨진 대부 김규흥 |
+| 939회 | [3월 10일](../Page/3월_10일.md "wikilink") | 암의 천적, 킬러 바이러스                             |
+| 940회 | [3월 17일](../Page/3월_17일.md "wikilink") | 밀착취재 도망자의 천국, 필리핀                          |
+| 941회 | [3월 24일](../Page/3월_24일.md "wikilink") | 아파트의 역습                                    |
+| 942회 | [3월 31일](../Page/3월_31일.md "wikilink") | 의궤, 잃어버린 역사를 찾다 박병선 박사                     |
+| 943회 | [4월 7일](../Page/4월_7일.md "wikilink")   | 해협의 아리아, 전월선 30년의 기록                       |
 
 ### (신) 스페셜
 
@@ -1699,442 +1699,442 @@
 <tbody>
 <tr class="odd">
 <td><p>1회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2월_18일" title="wikilink">2월 18일</a></p></td>
+<td><p><a href="../Page/2월_18일.md" title="wikilink">2월 18일</a></p></td>
 <td><p>한국 봅슬레이 - 금메달의 기록</p></td>
 </tr>
 <tr class="even">
 <td><p>2회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2월_25일" title="wikilink">2월 25일</a></p></td>
+<td><p><a href="../Page/2월_25일.md" title="wikilink">2월 25일</a></p></td>
 <td><p>슬픔 금지 - 참치 사냥꾼 40일의 기록</p></td>
 </tr>
 <tr class="odd">
 <td><p>3회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/3월_3일" title="wikilink">3월 3일</a></p></td>
+<td><p><a href="../Page/3월_3일.md" title="wikilink">3월 3일</a></p></td>
 <td><p>한국인 - 마음의 무늬(1)<br />
 나무 - 마음을 담다</p></td>
 </tr>
 <tr class="even">
 <td><p>4회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/3월_4일" title="wikilink">3월 4일</a></p></td>
+<td><p><a href="../Page/3월_4일.md" title="wikilink">3월 4일</a></p></td>
 <td><p>한국인 - 마음의 무늬(2)<br />
 걸작 - 마음을 빚다</p></td>
 </tr>
 <tr class="odd">
 <td><p>5회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/3월_11일" title="wikilink">3월 11일</a></p></td>
+<td><p><a href="../Page/3월_11일.md" title="wikilink">3월 11일</a></p></td>
 <td><p>인공지능 - 인간을 이기다<br />
 이세돌대 알파고</p></td>
 </tr>
 <tr class="even">
 <td><p>6회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/3월_12일" title="wikilink">3월 12일</a></p></td>
+<td><p><a href="../Page/3월_12일.md" title="wikilink">3월 12일</a></p></td>
 <td><p>트럼프 돌풍 - 워싱턴을 흔들다</p></td>
 </tr>
 <tr class="odd">
 <td><p>7회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/3월_17일" title="wikilink">3월 17일</a></p></td>
+<td><p><a href="../Page/3월_17일.md" title="wikilink">3월 17일</a></p></td>
 <td><p>지리산 벌꾼과 담비</p></td>
 </tr>
 <tr class="even">
 <td><p>8회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/3월_24일" title="wikilink">3월 24일</a></p></td>
+<td><p><a href="../Page/3월_24일.md" title="wikilink">3월 24일</a></p></td>
 <td><p>한 · 중 · 일 벤처 삼국지</p></td>
 </tr>
 <tr class="odd">
 <td><p>9회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/3월_25일" title="wikilink">3월 25일</a></p></td>
+<td><p><a href="../Page/3월_25일.md" title="wikilink">3월 25일</a></p></td>
 <td><p>저성장의 덫</p></td>
 </tr>
 <tr class="even">
 <td><p>10회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/3월_31일" title="wikilink">3월 31일</a></p></td>
+<td><p><a href="../Page/3월_31일.md" title="wikilink">3월 31일</a></p></td>
 <td><p>저유가의 패러독스</p></td>
 </tr>
 <tr class="odd">
 <td><p>11회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/4월_7일" title="wikilink">4월 7일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/조선" title="wikilink">조선</a> <a href="https://ko.wikipedia.org/wiki/호랑이" title="wikilink">호랑이</a> 왕국 - 왜 사라졌는가?</p></td>
+<td><p><a href="../Page/4월_7일.md" title="wikilink">4월 7일</a></p></td>
+<td><p><a href="../Page/조선.md" title="wikilink">조선</a> <a href="../Page/호랑이.md" title="wikilink">호랑이</a> 왕국 - 왜 사라졌는가?</p></td>
 </tr>
 <tr class="even">
 <td><p>12회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/4월_16일" title="wikilink">4월 16일</a></p></td>
-<td><p>지하 <a href="https://ko.wikipedia.org/wiki/옥탑방" title="wikilink">옥탑</a> <a href="https://ko.wikipedia.org/wiki/고시원" title="wikilink">고시원</a> - 청년의 방</p></td>
+<td><p><a href="../Page/4월_16일.md" title="wikilink">4월 16일</a></p></td>
+<td><p>지하 <a href="https://ko.wikipedia.org/wiki/옥탑방" title="wikilink">옥탑</a> <a href="../Page/고시원.md" title="wikilink">고시원</a> - 청년의 방</p></td>
 </tr>
 <tr class="odd">
 <td><p>13회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/4월_21일" title="wikilink">4월 21일</a></p></td>
+<td><p><a href="../Page/4월_21일.md" title="wikilink">4월 21일</a></p></td>
 <td><p>빅 아이디어(1)<br />
-대전환 - <a href="https://ko.wikipedia.org/wiki/2046년" title="wikilink">2046 시나리오</a></p></td>
+대전환 - <a href="../Page/2046년.md" title="wikilink">2046 시나리오</a></p></td>
 </tr>
 <tr class="even">
 <td><p>14회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/4월_22일" title="wikilink">4월 22일</a></p></td>
+<td><p><a href="../Page/4월_22일.md" title="wikilink">4월 22일</a></p></td>
 <td><p><a href="../Page/2016년_구마모토_지진.md" title="wikilink">연쇄</a> <a href="https://ko.wikipedia.org/wiki/2016년_에콰도르_지진" title="wikilink">대지진</a><br />
 <a href="https://ko.wikipedia.org/wiki/환태평양_조산대" title="wikilink">불의 고리</a> - 공포는 계속된다</p></td>
 </tr>
 <tr class="odd">
 <td><p>15회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/4월_28일" title="wikilink">4월 28일</a></p></td>
+<td><p><a href="../Page/4월_28일.md" title="wikilink">4월 28일</a></p></td>
 <td><p>빅 아이디어(2)<br />
-<a href="https://ko.wikipedia.org/wiki/산업" title="wikilink">산업</a>의 심장</p></td>
+<a href="../Page/산업.md" title="wikilink">산업</a>의 심장</p></td>
 </tr>
 <tr class="even">
 <td><p>16회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/4월_29일" title="wikilink">4월 29일</a></p></td>
+<td><p><a href="../Page/4월_29일.md" title="wikilink">4월 29일</a></p></td>
 <td><p>빅 아이디어(3)<br />
 밥상 위의 혁명</p></td>
 </tr>
 <tr class="odd">
 <td><p>17회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/5월_5일" title="wikilink">5월 5일</a></p></td>
+<td><p><a href="../Page/5월_5일.md" title="wikilink">5월 5일</a></p></td>
 <td><p>빅 아이디어(4)<br />
-아버지의 <a href="https://ko.wikipedia.org/wiki/라디오" title="wikilink">라디오</a></p></td>
+아버지의 <a href="../Page/라디오.md" title="wikilink">라디오</a></p></td>
 </tr>
 <tr class="even">
 <td><p>18회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/5월_12일" title="wikilink">5월 12일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/국경" title="wikilink">국경</a>을 넘어 귀향</p></td>
+<td><p><a href="../Page/5월_12일.md" title="wikilink">5월 12일</a></p></td>
+<td><p><a href="../Page/국경.md" title="wikilink">국경</a>을 넘어 귀향</p></td>
 </tr>
 <tr class="odd">
 <td><p>19회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/5월_13일" title="wikilink">5월 13일</a></p></td>
+<td><p><a href="../Page/5월_13일.md" title="wikilink">5월 13일</a></p></td>
 <td><p>하늘에서 본 암자</p></td>
 </tr>
 <tr class="even">
 <td><p>20회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/5월_19일" title="wikilink">5월 19일</a></p></td>
+<td><p><a href="../Page/5월_19일.md" title="wikilink">5월 19일</a></p></td>
 <td><p>누가 <a href="https://ko.wikipedia.org/wiki/혁신" title="wikilink">혁신</a>을 주도하는가?</p></td>
 </tr>
 <tr class="odd">
 <td><p>21회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/5월_20일" title="wikilink">5월 20일</a></p></td>
+<td><p><a href="../Page/5월_20일.md" title="wikilink">5월 20일</a></p></td>
 <td><p>미래를 바꿀 승부수</p></td>
 </tr>
 <tr class="even">
 <td><p>22회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/5월_26일" title="wikilink">5월 26일</a></p></td>
+<td><p><a href="../Page/5월_26일.md" title="wikilink">5월 26일</a></p></td>
 <td><p>노후 파산 - 당신의 노후는?</p></td>
 </tr>
 <tr class="odd">
 <td><p>23회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/6월_2일" title="wikilink">6월 2일</a></p></td>
+<td><p><a href="../Page/6월_2일.md" title="wikilink">6월 2일</a></p></td>
 <td><p>남자여 늙은 남자여(1)<br />
 울고 있나요?</p></td>
 </tr>
 <tr class="even">
 <td><p>24회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/6월_3일" title="wikilink">6월 3일</a></p></td>
+<td><p><a href="../Page/6월_3일.md" title="wikilink">6월 3일</a></p></td>
 <td><p>남자여 늙은 남자여(2)<br />
 울음을 멈추는 법</p></td>
 </tr>
 <tr class="odd">
 <td><p>25회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/6월_9일" title="wikilink">6월 9일</a></p></td>
-<td><p>행복의 나라 <a href="https://ko.wikipedia.org/wiki/덴마크" title="wikilink">덴마크</a> <a href="https://ko.wikipedia.org/wiki/덴마크의_정치" title="wikilink">정치를</a> 만나다</p></td>
+<td><p><a href="../Page/6월_9일.md" title="wikilink">6월 9일</a></p></td>
+<td><p>행복의 나라 <a href="../Page/덴마크.md" title="wikilink">덴마크</a> <a href="../Page/덴마크의_정치.md" title="wikilink">정치를</a> 만나다</p></td>
 </tr>
 <tr class="even">
 <td><p>26회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/6월_16일" title="wikilink">6월 16일</a></p></td>
+<td><p><a href="../Page/6월_16일.md" title="wikilink">6월 16일</a></p></td>
 <td><p>최고의 <a href="https://ko.wikipedia.org/wiki/기업" title="wikilink">기업</a>의 성공전략<br />
-<a href="https://ko.wikipedia.org/wiki/사람" title="wikilink">사람</a>에 집중하라</p></td>
+<a href="../Page/사람.md" title="wikilink">사람</a>에 집중하라</p></td>
 </tr>
 <tr class="odd">
 <td><p>27회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/6월_23일" title="wikilink">6월 23일</a></p></td>
+<td><p><a href="../Page/6월_23일.md" title="wikilink">6월 23일</a></p></td>
 <td><p>오래된 비밀 - 나는 살인자입니다</p></td>
 </tr>
 <tr class="even">
 <td><p>28회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/6월_26일" title="wikilink">6월 26일</a></p></td>
-<td><p>장군과 아들 - <a href="https://ko.wikipedia.org/wiki/한국_전쟁" title="wikilink">한국 전쟁의</a> 기억</p></td>
+<td><p><a href="../Page/6월_26일.md" title="wikilink">6월 26일</a></p></td>
+<td><p>장군과 아들 - <a href="../Page/한국_전쟁.md" title="wikilink">한국 전쟁의</a> 기억</p></td>
 </tr>
 <tr class="odd">
 <td><p>29회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/6월_30일" title="wikilink">6월 30일</a></p></td>
+<td><p><a href="../Page/6월_30일.md" title="wikilink">6월 30일</a></p></td>
 <td><p>요리인류 - 도시의 맛</p></td>
 </tr>
 <tr class="even">
 <td><p>특집</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/7월_1일" title="wikilink">7월 1일</a></p></td>
+<td><p><a href="../Page/7월_1일.md" title="wikilink">7월 1일</a></p></td>
 <td><p>음식에 맛을 더하다<br />
-<a href="https://ko.wikipedia.org/wiki/우유" title="wikilink">우유</a>의 유혹</p></td>
+<a href="../Page/우유.md" title="wikilink">우유</a>의 유혹</p></td>
 </tr>
 <tr class="odd">
 <td><p>30회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/7월_7일" title="wikilink">7월 7일</a></p></td>
+<td><p><a href="../Page/7월_7일.md" title="wikilink">7월 7일</a></p></td>
 <td><p>21세기 한국의 생존전략<br />
-100년 일등 기업 <a href="https://ko.wikipedia.org/wiki/제너럴_일렉트릭" title="wikilink">GE의</a> 혁신</p></td>
+100년 일등 기업 <a href="../Page/제너럴_일렉트릭.md" title="wikilink">GE의</a> 혁신</p></td>
 </tr>
 <tr class="even">
 <td><p>31회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/7월_14일" title="wikilink">7월 14일</a></p></td>
-<td><p>버려지는 아이들 <a href="https://ko.wikipedia.org/wiki/베이비박스" title="wikilink">베이비박스</a><br />
+<td><p><a href="../Page/7월_14일.md" title="wikilink">7월 14일</a></p></td>
+<td><p>버려지는 아이들 <a href="../Page/베이비박스.md" title="wikilink">베이비박스</a><br />
 60일의 기록</p></td>
 </tr>
 <tr class="odd">
 <td><p>32회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/7월_21일" title="wikilink">7월 21일</a></p></td>
+<td><p><a href="../Page/7월_21일.md" title="wikilink">7월 21일</a></p></td>
 <td><p>한국의 과학과 문명<br />
-위대한 유산(1) - <a href="https://ko.wikipedia.org/wiki/조선의_과학과_기술" title="wikilink">수학 조선</a></p></td>
+위대한 유산(1) - <a href="../Page/조선의_과학과_기술.md" title="wikilink">수학 조선</a></p></td>
 </tr>
 <tr class="even">
 <td><p>33회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/7월_22일" title="wikilink">7월 22일</a></p></td>
+<td><p><a href="../Page/7월_22일.md" title="wikilink">7월 22일</a></p></td>
 <td><p>한국의 과학과 문명<br />
 위대한 유산(2)<br />
 세계가 탐낸 조선의 의학<br />
-<a href="https://ko.wikipedia.org/wiki/동의보감" title="wikilink">동의보감</a></p></td>
+<a href="../Page/동의보감.md" title="wikilink">동의보감</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>34회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/7월_28일" title="wikilink">7월 28일</a></p></td>
+<td><p><a href="../Page/7월_28일.md" title="wikilink">7월 28일</a></p></td>
 <td><p>한국의 과학과 문명<br />
 위대한 유산(3)<br />
-조선 천문학 - <a href="https://ko.wikipedia.org/wiki/천상열차분야지도" title="wikilink">하늘을 개작하라</a></p></td>
+조선 천문학 - <a href="../Page/천상열차분야지도.md" title="wikilink">하늘을 개작하라</a></p></td>
 </tr>
 <tr class="even">
 <td><p>35회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/7월_29일" title="wikilink">7월 29일</a></p></td>
+<td><p><a href="../Page/7월_29일.md" title="wikilink">7월 29일</a></p></td>
 <td><p>한국의 과학과 문명<br />
 위대한 유산(4)<br />
-<a href="https://ko.wikipedia.org/wiki/혼천시계" title="wikilink">혼천시계</a> - <a href="https://ko.wikipedia.org/wiki/한국_표준시" title="wikilink">조선의 시간을</a> 잡아라</p></td>
+<a href="../Page/혼천시계.md" title="wikilink">혼천시계</a> - <a href="../Page/한국_표준시.md" title="wikilink">조선의 시간을</a> 잡아라</p></td>
 </tr>
 <tr class="odd">
 <td><p>특집</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_2일" title="wikilink">8월 2일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/감독판" title="wikilink">디렉티스 컷</a> - 피쉬 플래닛(1)<br />
-<a href="https://ko.wikipedia.org/wiki/쌀" title="wikilink">쌀</a>과 <a href="https://ko.wikipedia.org/wiki/물고기" title="wikilink">물고기</a></p></td>
+<td><p><a href="../Page/8월_2일.md" title="wikilink">8월 2일</a></p></td>
+<td><p><a href="../Page/감독판.md" title="wikilink">디렉티스 컷</a> - 피쉬 플래닛(1)<br />
+<a href="https://ko.wikipedia.org/wiki/쌀" title="wikilink">쌀</a>과 <a href="../Page/물고기.md" title="wikilink">물고기</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_3일" title="wikilink">8월 3일</a></p></td>
+<td><p><a href="../Page/8월_3일.md" title="wikilink">8월 3일</a></p></td>
 <td><p>디렉티스 컷 - 피쉬 플래닛(2)<br />
-사냥의 시작 - <a href="https://ko.wikipedia.org/wiki/아프리카" title="wikilink">아프리카</a></p></td>
+사냥의 시작 - <a href="../Page/아프리카.md" title="wikilink">아프리카</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_4일" title="wikilink">8월 4일</a></p></td>
+<td><p><a href="../Page/8월_4일.md" title="wikilink">8월 4일</a></p></td>
 <td><p>디렉티스 컷 - 피쉬 플래닛(3)<br />
-<a href="https://ko.wikipedia.org/wiki/유럽" title="wikilink">유럽</a>을 바꾼 물고기</p></td>
+<a href="../Page/유럽.md" title="wikilink">유럽</a>을 바꾼 물고기</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_5일" title="wikilink">8월 5일</a></p></td>
+<td><p><a href="../Page/8월_5일.md" title="wikilink">8월 5일</a></p></td>
 <td><p>디렉티스 컷 - 피쉬 플래닛(4)<br />
 전통에서 첨단으로</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>36회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_6일" title="wikilink">8월 6일</a></p></td>
+<td><p><a href="../Page/8월_6일.md" title="wikilink">8월 6일</a></p></td>
 <td><p>세상에서 가장 아름다운 도전<br />
 <a href="https://ko.wikipedia.org/wiki/대한민국_여자_핸드볼_국가대표팀" title="wikilink">국가대표 여자 핸드볼</a></p></td>
 </tr>
 <tr class="even">
 <td><p>37회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_13일" title="wikilink">8월 13일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/브라질" title="wikilink">브라질</a> 빈민촌 <a href="https://ko.wikipedia.org/wiki/파벨라" title="wikilink">파벨라</a>의 눈물</p></td>
+<td><p><a href="../Page/8월_13일.md" title="wikilink">8월 13일</a></p></td>
+<td><p><a href="../Page/브라질.md" title="wikilink">브라질</a> 빈민촌 <a href="https://ko.wikipedia.org/wiki/파벨라" title="wikilink">파벨라</a>의 눈물</p></td>
 </tr>
 <tr class="odd">
 <td><p>38회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_15일" title="wikilink">8월 15일</a></p></td>
+<td><p><a href="../Page/8월_15일.md" title="wikilink">8월 15일</a></p></td>
 <td><p>빼앗긴 날들의 기억<br />
 <a href="https://ko.wikipedia.org/wiki/가와사키_시" title="wikilink">가와사키</a> 도라지회</p></td>
 </tr>
 <tr class="even">
 <td><p>39회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_25일" title="wikilink">8월 25일</a></p></td>
+<td><p><a href="../Page/8월_25일.md" title="wikilink">8월 25일</a></p></td>
 <td><p>청년 탈출 - 꿈을 찾아서</p></td>
 </tr>
 <tr class="odd">
 <td><p>40회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/9월_1일" title="wikilink">9월 1일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이종욱_(의료인)" title="wikilink">운명처럼</a> - <a href="https://ko.wikipedia.org/wiki/세계보건기구" title="wikilink">생명의 전선에서</a></p></td>
+<td><p><a href="../Page/9월_1일.md" title="wikilink">9월 1일</a></p></td>
+<td><p><a href="../Page/이종욱_(의료인).md" title="wikilink">운명처럼</a> - <a href="../Page/세계보건기구.md" title="wikilink">생명의 전선에서</a></p></td>
 </tr>
 <tr class="even">
 <td><p>41회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/9월_2일" title="wikilink">9월 2일</a></p></td>
+<td><p><a href="../Page/9월_2일.md" title="wikilink">9월 2일</a></p></td>
 <td><p>지구 동물 대이동길</p></td>
 </tr>
 <tr class="odd">
 <td><p>42회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/9월_3일" title="wikilink">9월 3일</a></p></td>
+<td><p><a href="../Page/9월_3일.md" title="wikilink">9월 3일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/임진왜란_1592" title="wikilink">임진왜란 1592</a>(1 · 2)<br />
 조선의 바다에는 그가 있었다</p></td>
 </tr>
 <tr class="even">
 <td><p>46회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/9월_16일" title="wikilink">9월 16일</a></p></td>
+<td><p><a href="../Page/9월_16일.md" title="wikilink">9월 16일</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>43회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/9월_8일" title="wikilink">9월 8일</a></p></td>
+<td><p><a href="../Page/9월_8일.md" title="wikilink">9월 8일</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>47회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/9월_17일" title="wikilink">9월 17일</a></p></td>
+<td><p><a href="../Page/9월_17일.md" title="wikilink">9월 17일</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>44회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/9월_9일" title="wikilink">9월 9일</a></p></td>
+<td><p><a href="../Page/9월_9일.md" title="wikilink">9월 9일</a></p></td>
 <td><p>임진왜란 1592(3)<br />
-침략자의 탄생 - <a href="https://ko.wikipedia.org/wiki/도요토미_히데요시" title="wikilink">도요토미 히데요시</a></p></td>
+침략자의 탄생 - <a href="../Page/도요토미_히데요시.md" title="wikilink">도요토미 히데요시</a></p></td>
 </tr>
 <tr class="even">
 <td><p>45회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/9월_15일" title="wikilink">9월 15일</a></p></td>
+<td><p><a href="../Page/9월_15일.md" title="wikilink">9월 15일</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>48회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/9월_22일" title="wikilink">9월 22일</a></p></td>
+<td><p><a href="../Page/9월_22일.md" title="wikilink">9월 22일</a></p></td>
 <td><p>임진왜란 1592(4)<br />
 <a href="https://ko.wikipedia.org/wiki/평양성" title="wikilink">평양성</a> - 삼국대전</p></td>
 </tr>
 <tr class="even">
 <td><p>49회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/9월_23일" title="wikilink">9월 23일</a></p></td>
+<td><p><a href="../Page/9월_23일.md" title="wikilink">9월 23일</a></p></td>
 <td><p>임진왜란 1592(5)<br />
 암흑의 종말 - <a href="https://ko.wikipedia.org/wiki/노량해전" title="wikilink">노량해전</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>50회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/9월_29일" title="wikilink">9월 29일</a></p></td>
+<td><p><a href="../Page/9월_29일.md" title="wikilink">9월 29일</a></p></td>
 <td><p>임진왜란 1592(6)<br />
 숨겨진 이야기들</p></td>
 </tr>
 <tr class="even">
 <td><p>51회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/10월_6일" title="wikilink">10월 6일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/일본" title="wikilink">일본</a> 여고생</p></td>
+<td><p><a href="../Page/10월_6일.md" title="wikilink">10월 6일</a></p></td>
+<td><p><a href="../Page/일본.md" title="wikilink">일본</a> 여고생</p></td>
 </tr>
 <tr class="odd">
 <td><p>52회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/10월_13일" title="wikilink">10월 13일</a></p></td>
+<td><p><a href="../Page/10월_13일.md" title="wikilink">10월 13일</a></p></td>
 <td><p>지상 최대의 축제<br />
-<a href="https://ko.wikipedia.org/wiki/조선_정조" title="wikilink">정조대왕</a> 능행차</p></td>
+<a href="../Page/조선_정조.md" title="wikilink">정조대왕</a> 능행차</p></td>
 </tr>
 <tr class="even">
 <td><p>53회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/10월_18일" title="wikilink">10월 18일</a></p></td>
+<td><p><a href="../Page/10월_18일.md" title="wikilink">10월 18일</a></p></td>
 <td><p>슈퍼 아시아(1)<br />
 역동의 땅</p></td>
 </tr>
 <tr class="odd">
 <td><p>54회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/10월_19일" title="wikilink">10월 19일</a></p></td>
+<td><p><a href="../Page/10월_19일.md" title="wikilink">10월 19일</a></p></td>
 <td><p>슈퍼 아시아(2)<br />
 젊은 대륙</p></td>
 </tr>
 <tr class="even">
 <td><p>55회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/10월_20일" title="wikilink">10월 20일</a></p></td>
+<td><p><a href="../Page/10월_20일.md" title="wikilink">10월 20일</a></p></td>
 <td><p>슈퍼 아시아(3)<br />
-12억의 혁신 - <a href="https://ko.wikipedia.org/wiki/인도" title="wikilink">인도</a></p></td>
+12억의 혁신 - <a href="../Page/인도.md" title="wikilink">인도</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>56회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/10월_21일" title="wikilink">10월 21일</a></p></td>
+<td><p><a href="../Page/10월_21일.md" title="wikilink">10월 21일</a></p></td>
 <td><p>슈퍼 아시아(4)<br />
-<a href="https://ko.wikipedia.org/wiki/중국" title="wikilink">대륙의</a> 꿈</p></td>
+<a href="../Page/중국.md" title="wikilink">대륙의</a> 꿈</p></td>
 </tr>
 <tr class="even">
 <td><p>57회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/10월_27일" title="wikilink">10월 27일</a></p></td>
+<td><p><a href="../Page/10월_27일.md" title="wikilink">10월 27일</a></p></td>
 <td><p>슈퍼 아시아(5)<br />
 넥스트 차이나</p></td>
 </tr>
 <tr class="odd">
 <td><p>58회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/10월_28일" title="wikilink">10월 28일</a></p></td>
+<td><p><a href="../Page/10월_28일.md" title="wikilink">10월 28일</a></p></td>
 <td><p>슈퍼 아시아(6)<br />
 부의 길 - 아시안 로드</p></td>
 </tr>
 <tr class="even">
 <td><p>59회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/11월_3일" title="wikilink">11월 3일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/로봇" title="wikilink">로봇</a>은 우리의<br />
+<td><p><a href="../Page/11월_3일.md" title="wikilink">11월 3일</a></p></td>
+<td><p><a href="../Page/로봇.md" title="wikilink">로봇</a>은 우리의<br />
 친구가 될 수 있을까?</p></td>
 </tr>
 <tr class="odd">
 <td><p>60회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/11월_10일" title="wikilink">11월 10일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2016년_미국_대통령_선거" title="wikilink">2016 미국 대선</a><br />
-<a href="https://ko.wikipedia.org/wiki/도널드_트럼프" title="wikilink">아웃사이더 트럼프의</a> 반란</p></td>
+<td><p><a href="../Page/11월_10일.md" title="wikilink">11월 10일</a></p></td>
+<td><p><a href="../Page/2016년_미국_대통령_선거.md" title="wikilink">2016 미국 대선</a><br />
+<a href="../Page/도널드_트럼프.md" title="wikilink">아웃사이더 트럼프의</a> 반란</p></td>
 </tr>
 <tr class="even">
 <td><p>61회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/11월_17일" title="wikilink">11월 17일</a></p></td>
+<td><p><a href="../Page/11월_17일.md" title="wikilink">11월 17일</a></p></td>
 <td><p>자연의 타임캡슐(1)<br />
 프롤로그</p></td>
 </tr>
 <tr class="odd">
 <td><p>62회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/11월_24일" title="wikilink">11월 24일</a></p></td>
+<td><p><a href="../Page/11월_24일.md" title="wikilink">11월 24일</a></p></td>
 <td><p><a href="../Page/박근혜-최순실_게이트.md" title="wikilink">탄핵정국 - 백만 촛불이 국회에 묻는다</a></p></td>
 </tr>
 <tr class="even">
 <td><p>63회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/11월_25일" title="wikilink">11월 25일</a></p></td>
+<td><p><a href="../Page/11월_25일.md" title="wikilink">11월 25일</a></p></td>
 <td><p>21세기 한국의 생존전략<br />
-미래 산업으로 떠오르는 <a href="https://ko.wikipedia.org/wiki/농업" title="wikilink">농업</a></p></td>
+미래 산업으로 떠오르는 <a href="../Page/농업.md" title="wikilink">농업</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>64회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/12월_1일" title="wikilink">12월 1일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/장애인" title="wikilink">장애인</a> <a href="https://ko.wikipedia.org/wiki/마라톤" title="wikilink">마라톤</a> - 가장 긴 도전</p></td>
+<td><p><a href="../Page/12월_1일.md" title="wikilink">12월 1일</a></p></td>
+<td><p><a href="../Page/장애인.md" title="wikilink">장애인</a> <a href="../Page/마라톤.md" title="wikilink">마라톤</a> - 가장 긴 도전</p></td>
 </tr>
 <tr class="even">
 <td><p>65회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/12월_3일" title="wikilink">12월 3일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유엔_교육_과학_문화_기구" title="wikilink">유네스코</a> <a href="https://ko.wikipedia.org/wiki/인류무형문화유산" title="wikilink">인류무형유산</a> 등재 - <a href="https://ko.wikipedia.org/wiki/해녀" title="wikilink">해녀</a></p></td>
+<td><p><a href="../Page/12월_3일.md" title="wikilink">12월 3일</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/유엔_교육_과학_문화_기구" title="wikilink">유네스코</a> <a href="https://ko.wikipedia.org/wiki/인류무형문화유산" title="wikilink">인류무형유산</a> 등재 - <a href="../Page/해녀.md" title="wikilink">해녀</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>66회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/12월_8일" title="wikilink">12월 8일</a></p></td>
+<td><p><a href="../Page/12월_8일.md" title="wikilink">12월 8일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/박근혜_대통령_탄핵_소추" title="wikilink">탄핵</a></p></td>
 </tr>
 <tr class="even">
 <td><p>67회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/12월_10일" title="wikilink">12월 10일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/연평도" title="wikilink">연평 바다</a>(1) - <a href="https://ko.wikipedia.org/wiki/꽃게" title="wikilink">꽃게</a> 전쟁</p></td>
+<td><p><a href="../Page/12월_10일.md" title="wikilink">12월 10일</a></p></td>
+<td><p><a href="../Page/연평도.md" title="wikilink">연평 바다</a>(1) - <a href="../Page/꽃게.md" title="wikilink">꽃게</a> 전쟁</p></td>
 </tr>
 <tr class="odd">
 <td><p>68회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/12월_15일" title="wikilink">12월 15일</a></p></td>
-<td><p>연평 바다(2) - <a href="https://ko.wikipedia.org/wiki/조기어류" title="wikilink">조기의</a> 전설</p></td>
+<td><p><a href="../Page/12월_15일.md" title="wikilink">12월 15일</a></p></td>
+<td><p>연평 바다(2) - <a href="../Page/조기어류.md" title="wikilink">조기의</a> 전설</p></td>
 </tr>
 <tr class="even">
 <td><p>69회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/12월_22일" title="wikilink">12월 22일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/암" title="wikilink">앎</a>(1) - 엄마의 자리</p></td>
+<td><p><a href="../Page/12월_22일.md" title="wikilink">12월 22일</a></p></td>
+<td><p><a href="../Page/암.md" title="wikilink">앎</a>(1) - 엄마의 자리</p></td>
 </tr>
 <tr class="odd">
 <td><p>70회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/12월_23일" title="wikilink">12월 23일</a></p></td>
+<td><p><a href="../Page/12월_23일.md" title="wikilink">12월 23일</a></p></td>
 <td><p>앎(2) - 서진아 엄마는</p></td>
 </tr>
 <tr class="even">
 <td><p>71회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/12월_24일" title="wikilink">12월 24일</a></p></td>
+<td><p><a href="../Page/12월_24일.md" title="wikilink">12월 24일</a></p></td>
 <td><p>밥 딜런 - 시대를 노래하다</p></td>
 </tr>
 <tr class="odd">
 <td><p>72회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/12월_25일" title="wikilink">12월 25일</a></p></td>
+<td><p><a href="../Page/12월_25일.md" title="wikilink">12월 25일</a></p></td>
 <td><p>앎(3) - 에디냐와 함께 한 4년</p></td>
 </tr>
 <tr class="even">
 <td><p>73회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/12월_28일" title="wikilink">12월 28일</a></p></td>
+<td><p><a href="../Page/12월_28일.md" title="wikilink">12월 28일</a></p></td>
 <td><p><a href="../Page/감성과학_프로젝트_환생.md" title="wikilink">감성과학 프로젝트 - 환생</a>(1)<br />
-2016 <a href="https://ko.wikipedia.org/wiki/김광석" title="wikilink">김광석</a> - 시대의 눈물을 노래하다</p></td>
+2016 <a href="../Page/김광석.md" title="wikilink">김광석</a> - 시대의 눈물을 노래하다</p></td>
 </tr>
 <tr class="odd">
 <td><p>74회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/12월_29일" title="wikilink">12월 29일</a></p></td>
+<td><p><a href="../Page/12월_29일.md" title="wikilink">12월 29일</a></p></td>
 <td><p>감성과학 프로젝트 - 환생(2)<br />
 가객 김광석 - 다시 무대에 서다</p></td>
 </tr>
@@ -2154,474 +2154,474 @@
 <tbody>
 <tr class="odd">
 <td><p>75회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1월_12일" title="wikilink">1월 12일</a></p></td>
+<td><p><a href="../Page/1월_12일.md" title="wikilink">1월 12일</a></p></td>
 <td><p>행복한 국가를 만든 리더십(1)<br />
-<a href="https://ko.wikipedia.org/wiki/앙겔라_메르켈" title="wikilink">메르켈 리더십</a> - 국민의 마음을 얻다</p></td>
+<a href="../Page/앙겔라_메르켈.md" title="wikilink">메르켈 리더십</a> - 국민의 마음을 얻다</p></td>
 </tr>
 <tr class="even">
 <td><p>76회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2월_9일" title="wikilink">2월 9일</a></p></td>
+<td><p><a href="../Page/2월_9일.md" title="wikilink">2월 9일</a></p></td>
 <td><p>행복한 국가를 만든 리더십(2)<br />
-<a href="https://ko.wikipedia.org/wiki/스웨덴" title="wikilink">스웨덴</a>을 구한 섬김의 리더십</p></td>
+<a href="../Page/스웨덴.md" title="wikilink">스웨덴</a>을 구한 섬김의 리더십</p></td>
 </tr>
 <tr class="odd">
 <td><p>77회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2월_10일" title="wikilink">2월 10일</a></p></td>
+<td><p><a href="../Page/2월_10일.md" title="wikilink">2월 10일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/블랙리스트" title="wikilink">블랙리스트</a></p></td>
 </tr>
 <tr class="even">
 <td><p>78회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2월_14일" title="wikilink">2월 14일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/조선민주주의인민공화국의_대량살상무기" title="wikilink">북핵 위기</a> - 기로에 선 한반도</p></td>
+<td><p><a href="../Page/2월_14일.md" title="wikilink">2월 14일</a></p></td>
+<td><p><a href="../Page/조선민주주의인민공화국의_대량살상무기.md" title="wikilink">북핵 위기</a> - 기로에 선 한반도</p></td>
 </tr>
 <tr class="odd">
 <td><p>79회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2월_16일" title="wikilink">2월 16일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/세계유산" title="wikilink">유네스코 세계유산</a> - 자연의 타임캡슐(1)<br />
-왕의 거처 - <a href="https://ko.wikipedia.org/wiki/창덕궁" title="wikilink">창덕궁</a></p></td>
+<td><p><a href="../Page/2월_16일.md" title="wikilink">2월 16일</a></p></td>
+<td><p><a href="../Page/세계유산.md" title="wikilink">유네스코 세계유산</a> - 자연의 타임캡슐(1)<br />
+왕의 거처 - <a href="../Page/창덕궁.md" title="wikilink">창덕궁</a></p></td>
 </tr>
 <tr class="even">
 <td><p>80회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2월_23일" title="wikilink">2월 23일</a></p></td>
+<td><p><a href="../Page/2월_23일.md" title="wikilink">2월 23일</a></p></td>
 <td><p>유네스코 세계유산 - 자연의 타임캡슐(2)<br />
-비밀의 정원 - <a href="https://ko.wikipedia.org/wiki/창덕궁_후원" title="wikilink">창덕궁 후원</a></p></td>
+비밀의 정원 - <a href="../Page/창덕궁_후원.md" title="wikilink">창덕궁 후원</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>81회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/3월_2일" title="wikilink">3월 2일</a></p></td>
+<td><p><a href="../Page/3월_2일.md" title="wikilink">3월 2일</a></p></td>
 <td><p>유네스코 세계유산 - 자연의 타임캡슐(3)<br />
 화산섬의 비밀 - <a href="https://ko.wikipedia.org/wiki/백록담" title="wikilink">백록담</a>과 용암동굴</p></td>
 </tr>
 <tr class="even">
 <td><p>82회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/3월_3일" title="wikilink">3월 3일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/신라" title="wikilink">황금기사의 성</a>(1) - <a href="https://ko.wikipedia.org/wiki/경주_월성" title="wikilink">달의 도시</a></p></td>
+<td><p><a href="../Page/3월_3일.md" title="wikilink">3월 3일</a></p></td>
+<td><p><a href="../Page/신라.md" title="wikilink">황금기사의 성</a>(1) - <a href="../Page/경주_월성.md" title="wikilink">달의 도시</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>83회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/3월_4일" title="wikilink">3월 4일</a></p></td>
+<td><p><a href="../Page/3월_4일.md" title="wikilink">3월 4일</a></p></td>
 <td><p>뉴 메이드 인 코리아 - 축적의 시간(1)<br />
 착각의 시간</p></td>
 </tr>
 <tr class="even">
 <td><p>84회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/3월_5일" title="wikilink">3월 5일</a></p></td>
+<td><p><a href="../Page/3월_5일.md" title="wikilink">3월 5일</a></p></td>
 <td><p>뉴 메이드 인 코리아 - 축적의 시간(2)<br />
 축적에서 길을 찾다</p></td>
 </tr>
 <tr class="odd">
 <td><p>85회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/3월_9일" title="wikilink">3월 9일</a></p></td>
+<td><p><a href="../Page/3월_9일.md" title="wikilink">3월 9일</a></p></td>
 <td><p>유네스코 세계유산 - 자연의 타임캡슐(4)<br />
 <a href="../Page/경주_남산_용장사지_마애여래좌상.md" title="wikilink">돌부처의</a> 숲 - <a href="https://ko.wikipedia.org/wiki/남산_(경주)" title="wikilink">경주 남산</a></p></td>
 </tr>
 <tr class="even">
 <td><p>86회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/3월_11일" title="wikilink">3월 11일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/대한민국의_대통령" title="wikilink">제18대 대통령 탄핵</a></p></td>
+<td><p><a href="../Page/3월_11일.md" title="wikilink">3월 11일</a></p></td>
+<td><p><a href="../Page/대한민국의_대통령.md" title="wikilink">제18대 대통령 탄핵</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>87회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/3월_16일" title="wikilink">3월 16일</a></p></td>
+<td><p><a href="../Page/3월_16일.md" title="wikilink">3월 16일</a></p></td>
 <td><p>유네스코 세계유산 - 자연의 타임캡슐(5)<br />
-하늘과 땅의 동행 - <a href="https://ko.wikipedia.org/wiki/매" title="wikilink">매</a>사냥</p></td>
+하늘과 땅의 동행 - <a href="../Page/매.md" title="wikilink">매</a>사냥</p></td>
 </tr>
 <tr class="even">
 <td><p>88회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/3월_17일" title="wikilink">3월 17일</a></p></td>
+<td><p><a href="../Page/3월_17일.md" title="wikilink">3월 17일</a></p></td>
 <td><p>황금기사의 성(2) - 여왕의 술잔</p></td>
 </tr>
 <tr class="odd">
 <td><p>89회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/3월_23일" title="wikilink">3월 23일</a></p></td>
+<td><p><a href="../Page/3월_23일.md" title="wikilink">3월 23일</a></p></td>
 <td><p>유네스코 세계유산 - 자연의 타임캡슐(6)<br />
 용궁에 살다 - 다려도</p></td>
 </tr>
 <tr class="even">
 <td><p>90회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/3월_30일" title="wikilink">3월 30일</a></p></td>
+<td><p><a href="../Page/3월_30일.md" title="wikilink">3월 30일</a></p></td>
 <td><p>유네스코 세계유산 - 자연의 타임캡슐(7)<br />
-선비의 물길 - <a href="https://ko.wikipedia.org/wiki/하회마을" title="wikilink">하회마을</a></p></td>
+선비의 물길 - <a href="../Page/하회마을.md" title="wikilink">하회마을</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>91회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/4월_6일" title="wikilink">4월 6일</a></p></td>
+<td><p><a href="../Page/4월_6일.md" title="wikilink">4월 6일</a></p></td>
 <td><p>유네스코 세계유산 - 자연의 타임캡슐(8)<br />
-<a href="https://ko.wikipedia.org/wiki/조선_세조" title="wikilink">왕을</a> 위한 경배 - <a href="https://ko.wikipedia.org/wiki/국립수목원" title="wikilink">광릉숲</a></p></td>
+<a href="../Page/조선_세조.md" title="wikilink">왕을</a> 위한 경배 - <a href="../Page/국립수목원.md" title="wikilink">광릉숲</a></p></td>
 </tr>
 <tr class="even">
 <td><p>92회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/4월_13일" title="wikilink">4월 13일</a></p></td>
+<td><p><a href="../Page/4월_13일.md" title="wikilink">4월 13일</a></p></td>
 <td><p><a href="../Page/땐뽀걸즈.md" title="wikilink">땐뽀 걸즈</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>93회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/4월_20일" title="wikilink">4월 20일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아프리카" title="wikilink">아프리카</a>로 간 <a href="https://ko.wikipedia.org/wiki/교사" title="wikilink">선생님들</a><br />
+<td><p><a href="../Page/4월_20일.md" title="wikilink">4월 20일</a></p></td>
+<td><p><a href="../Page/아프리카.md" title="wikilink">아프리카</a>로 간 <a href="../Page/교사.md" title="wikilink">선생님들</a><br />
 호이 - 10년간의 기록</p></td>
 </tr>
 <tr class="even">
 <td><p>94회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/4월_27일" title="wikilink">4월 27일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/발명" title="wikilink">발명</a>합시다(1)<br />
+<td><p><a href="../Page/4월_27일.md" title="wikilink">4월 27일</a></p></td>
+<td><p><a href="../Page/발명.md" title="wikilink">발명</a>합시다(1)<br />
 <a href="https://ko.wikipedia.org/wiki/발명가" title="wikilink">세상을 바꾸는 사람들</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>95회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/5월_4일" title="wikilink">5월 4일</a></p></td>
+<td><p><a href="../Page/5월_4일.md" title="wikilink">5월 4일</a></p></td>
 <td><p>발명합시다(2)<br />
 <a href="https://ko.wikipedia.org/wiki/혁신" title="wikilink">혁신</a>의 시작</p></td>
 </tr>
 <tr class="even">
 <td><p>96회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/5월_5일" title="wikilink">5월 5일</a></p></td>
+<td><p><a href="../Page/5월_5일.md" title="wikilink">5월 5일</a></p></td>
 <td><p>돌고돌아 봄 - <a href="https://ko.wikipedia.org/wiki/불영사_(경북_울진군)" title="wikilink">불영사에서</a> 나누다</p></td>
 </tr>
 <tr class="odd">
 <td><p>97회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/5월_11일" title="wikilink">5월 11일</a></p></td>
+<td><p><a href="../Page/5월_11일.md" title="wikilink">5월 11일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/문재인_정부" title="wikilink">새로운 대한민국의 조건</a></p></td>
 </tr>
 <tr class="even">
 <td><p>98회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/5월_12일" title="wikilink">5월 12일</a></p></td>
+<td><p><a href="../Page/5월_12일.md" title="wikilink">5월 12일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:분류:2017년_대한민국" title="wikilink">2017 대한민국</a> 민심 보고서</p></td>
 </tr>
 <tr class="odd">
 <td><p>99회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/5월_18일" title="wikilink">5월 18일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/생명" title="wikilink">삶의</a> 기술 - <a href="https://ko.wikipedia.org/wiki/노화" title="wikilink">나이듦에</a> 대하여</p></td>
+<td><p><a href="../Page/5월_18일.md" title="wikilink">5월 18일</a></p></td>
+<td><p><a href="../Page/생명.md" title="wikilink">삶의</a> 기술 - <a href="../Page/노화.md" title="wikilink">나이듦에</a> 대하여</p></td>
 </tr>
 <tr class="even">
 <td><p>100회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/5월_25일" title="wikilink">5월 25일</a></p></td>
+<td><p><a href="../Page/5월_25일.md" title="wikilink">5월 25일</a></p></td>
 <td><p>무병장수 - 골든 타임</p></td>
 </tr>
 <tr class="odd">
 <td><p>특집</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/6월_1일" title="wikilink">6월 1일</a></p></td>
+<td><p><a href="../Page/6월_1일.md" title="wikilink">6월 1일</a></p></td>
 <td><p>디렉터스 컷 - 임진왜란 1592(1)<br />
 침략자의 탄생 - 도요토미 히데요시</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/6월_2일" title="wikilink">6월 2일</a></p></td>
+<td><p><a href="../Page/6월_2일.md" title="wikilink">6월 2일</a></p></td>
 <td><p>디렉터스 컷 - 임진왜란 1592(2 · 3)<br />
 조선의 바다에는 그가 있었다</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/6월_3일" title="wikilink">6월 3일</a></p></td>
+<td><p><a href="../Page/6월_3일.md" title="wikilink">6월 3일</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>101회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/6월_8일" title="wikilink">6월 8일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/6월_항쟁" title="wikilink">시민의 탄생</a>(1) - <a href="https://ko.wikipedia.org/wiki/대한민국_제13대_대통령_선거" title="wikilink">1987년</a></p></td>
+<td><p><a href="../Page/6월_8일.md" title="wikilink">6월 8일</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/6월_항쟁" title="wikilink">시민의 탄생</a>(1) - <a href="../Page/대한민국_제13대_대통령_선거.md" title="wikilink">1987년</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>102회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/6월_9일" title="wikilink">6월 9일</a></p></td>
+<td><p><a href="../Page/6월_9일.md" title="wikilink">6월 9일</a></p></td>
 <td><p>시민의 탄생(2) - <a href="../Page/박근혜정권_퇴진_비상국민행동.md" title="wikilink">광장의 기억</a></p></td>
 </tr>
 <tr class="even">
 <td><p>특집</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/6월_11일" title="wikilink">6월 11일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/도널드_트럼프" title="wikilink">트럼프</a> 시대 - 어제와 다른 <a href="https://ko.wikipedia.org/wiki/미국" title="wikilink">미국</a>(1)<br />
+<td><p><a href="../Page/6월_11일.md" title="wikilink">6월 11일</a></p></td>
+<td><p><a href="../Page/도널드_트럼프.md" title="wikilink">트럼프</a> 시대 - 어제와 다른 <a href="../Page/미국.md" title="wikilink">미국</a>(1)<br />
 트럼프의 미국 - 분열</p></td>
 </tr>
 <tr class="odd">
 <td><p>103회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/6월_15일" title="wikilink">6월 15일</a></p></td>
-<td><p>오래된 기억 - <a href="https://ko.wikipedia.org/wiki/6·15_남북_공동선언" title="wikilink">6 · 15</a> <a href="https://ko.wikipedia.org/wiki/2000년_남북정상회담" title="wikilink">남북정상회담</a></p></td>
+<td><p><a href="../Page/6월_15일.md" title="wikilink">6월 15일</a></p></td>
+<td><p>오래된 기억 - <a href="../Page/6·15_남북_공동선언.md" title="wikilink">6 · 15</a> <a href="../Page/2000년_남북정상회담.md" title="wikilink">남북정상회담</a></p></td>
 </tr>
 <tr class="even">
 <td><p>특집</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/6월_18일" title="wikilink">6월 18일</a></p></td>
+<td><p><a href="../Page/6월_18일.md" title="wikilink">6월 18일</a></p></td>
 <td><p>트럼프 시대 - 어제와 다른 미국(2)<br />
-트럼프와 <a href="https://ko.wikipedia.org/wiki/한반도" title="wikilink">한반도</a></p></td>
+트럼프와 <a href="../Page/한반도.md" title="wikilink">한반도</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>104회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/6월_22일" title="wikilink">6월 22일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/꾸란" title="wikilink">코란</a> - 1400년의 전쟁(1)<br />
-알라 후 아크바르 - <a href="https://ko.wikipedia.org/wiki/알라" title="wikilink">알라</a>가 <a href="https://ko.wikipedia.org/wiki/테러" title="wikilink">테러</a>를 원했는가</p></td>
+<td><p><a href="../Page/6월_22일.md" title="wikilink">6월 22일</a></p></td>
+<td><p><a href="../Page/꾸란.md" title="wikilink">코란</a> - 1400년의 전쟁(1)<br />
+알라 후 아크바르 - <a href="../Page/알라.md" title="wikilink">알라</a>가 <a href="../Page/테러.md" title="wikilink">테러</a>를 원했는가</p></td>
 </tr>
 <tr class="even">
 <td><p>105회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/6월_29일" title="wikilink">6월 29일</a></p></td>
+<td><p><a href="../Page/6월_29일.md" title="wikilink">6월 29일</a></p></td>
 <td><p>코란 - 1400년의 전쟁(2)<br />
-<a href="https://ko.wikipedia.org/wiki/히잡" title="wikilink">히잡</a> - 진실</p></td>
+<a href="../Page/히잡.md" title="wikilink">히잡</a> - 진실</p></td>
 </tr>
 <tr class="odd">
 <td><p>106회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/7월_6일" title="wikilink">7월 6일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/덴마크의_정치" title="wikilink">덴마크 정치 축제</a> 5일간의 기록<br />
+<td><p><a href="../Page/7월_6일.md" title="wikilink">7월 6일</a></p></td>
+<td><p><a href="../Page/덴마크의_정치.md" title="wikilink">덴마크 정치 축제</a> 5일간의 기록<br />
 협치를 말하다</p></td>
 </tr>
 <tr class="even">
 <td><p>107회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/7월_13일" title="wikilink">7월 13일</a></p></td>
+<td><p><a href="../Page/7월_13일.md" title="wikilink">7월 13일</a></p></td>
 <td><p>불안한 미래 - <a href="https://ko.wikipedia.org/wiki/주거" title="wikilink">빈집 쇼크</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>108회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/7월_20일" title="wikilink">7월 20일</a></p></td>
-<td><p>축적의 시간 II(1) - <a href="https://ko.wikipedia.org/wiki/천재" title="wikilink">천재</a>는 잊어라</p></td>
+<td><p><a href="../Page/7월_20일.md" title="wikilink">7월 20일</a></p></td>
+<td><p>축적의 시간 II(1) - <a href="../Page/천재.md" title="wikilink">천재</a>는 잊어라</p></td>
 </tr>
 <tr class="even">
 <td><p>109회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/7월_21일" title="wikilink">7월 21일</a></p></td>
+<td><p><a href="../Page/7월_21일.md" title="wikilink">7월 21일</a></p></td>
 <td><p>축적의 시간 II(2) - <a href="https://ko.wikipedia.org/wiki/유령" title="wikilink">유령</a>이 된 리더들</p></td>
 </tr>
 <tr class="odd">
 <td><p>특집</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/7월_27일" title="wikilink">7월 27일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/일본" title="wikilink">일본</a>을 다시 본다(1) - <a href="https://ko.wikipedia.org/wiki/도도부현" title="wikilink">지방의</a> 역습</p></td>
+<td><p><a href="../Page/7월_27일.md" title="wikilink">7월 27일</a></p></td>
+<td><p><a href="../Page/일본.md" title="wikilink">일본</a>을 다시 본다(1) - <a href="../Page/도도부현.md" title="wikilink">지방의</a> 역습</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/7월_28일" title="wikilink">7월 28일</a></p></td>
+<td><p><a href="../Page/7월_28일.md" title="wikilink">7월 28일</a></p></td>
 <td><p>일본을 다시 본다(2)<br />
 메이드 인 재팬의 재무장</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_1일" title="wikilink">8월 1일</a></p></td>
+<td><p><a href="../Page/8월_1일.md" title="wikilink">8월 1일</a></p></td>
 <td><p>디렉터스 컷 - <a href="https://ko.wikipedia.org/wiki/한국사기" title="wikilink">한국사기</a>(1)<br />
-인간의 조건 - <a href="https://ko.wikipedia.org/wiki/구석기_시대" title="wikilink">구석기 시대</a></p></td>
+인간의 조건 - <a href="../Page/구석기_시대.md" title="wikilink">구석기 시대</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_2일" title="wikilink">8월 2일</a></p></td>
+<td><p><a href="../Page/8월_2일.md" title="wikilink">8월 2일</a></p></td>
 <td><p>디렉터스 컷 - 한국사기(2)<br />
-숙명의 맞수 - <a href="https://ko.wikipedia.org/wiki/백제" title="wikilink">백제</a>와 고구려</p></td>
+숙명의 맞수 - <a href="../Page/백제.md" title="wikilink">백제</a>와 고구려</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_3일" title="wikilink">8월 3일</a></p></td>
+<td><p><a href="../Page/8월_3일.md" title="wikilink">8월 3일</a></p></td>
 <td><p>디렉터스 컷 - 한국사기(3)<br />
-<a href="https://ko.wikipedia.org/wiki/고구려" title="wikilink">고구려</a> - <a href="https://ko.wikipedia.org/wiki/중국" title="wikilink">대륙에</a> 맞서다</p></td>
+<a href="../Page/고구려.md" title="wikilink">고구려</a> - <a href="../Page/중국.md" title="wikilink">대륙에</a> 맞서다</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_4일" title="wikilink">8월 4일</a></p></td>
+<td><p><a href="../Page/8월_4일.md" title="wikilink">8월 4일</a></p></td>
 <td><p>디렉터스 컷 - 한국사기(4)<br />
-<a href="https://ko.wikipedia.org/wiki/신라" title="wikilink">신라</a> - <a href="https://ko.wikipedia.org/wiki/삼한" title="wikilink">삼한</a>을 하나로</p></td>
+<a href="../Page/신라.md" title="wikilink">신라</a> - <a href="../Page/삼한.md" title="wikilink">삼한</a>을 하나로</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>110회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_10일" title="wikilink">8월 10일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/제2차_세계_대전" title="wikilink">전쟁과</a> <a href="https://ko.wikipedia.org/wiki/위안부" title="wikilink">여성</a>(1) - 그녀의 목소리</p></td>
+<td><p><a href="../Page/8월_10일.md" title="wikilink">8월 10일</a></p></td>
+<td><p><a href="../Page/제2차_세계_대전.md" title="wikilink">전쟁과</a> <a href="https://ko.wikipedia.org/wiki/위안부" title="wikilink">여성</a>(1) - 그녀의 목소리</p></td>
 </tr>
 <tr class="even">
 <td><p>111회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_17일" title="wikilink">8월 17일</a></p></td>
+<td><p><a href="../Page/8월_17일.md" title="wikilink">8월 17일</a></p></td>
 <td><p>전쟁과 여성(2) - 그녀의 전쟁</p></td>
 </tr>
 <tr class="odd">
 <td><p>특집</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_19일" title="wikilink">8월 19일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/5·18_광주_민주화_운동" title="wikilink">80년 5월</a> - <a href="https://ko.wikipedia.org/wiki/위르겐_힌츠페터" title="wikilink">푸른 눈의 목격자</a>(재)</p></td>
+<td><p><a href="../Page/8월_19일.md" title="wikilink">8월 19일</a></p></td>
+<td><p><a href="../Page/5·18_광주_민주화_운동.md" title="wikilink">80년 5월</a> - <a href="../Page/위르겐_힌츠페터.md" title="wikilink">푸른 눈의 목격자</a>(재)</p></td>
 </tr>
 <tr class="even">
 <td><p>112회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_24일" title="wikilink">8월 24일</a></p></td>
+<td><p><a href="../Page/8월_24일.md" title="wikilink">8월 24일</a></p></td>
 <td><p>전쟁과 여성(3) - 그녀의 꿈</p></td>
 </tr>
 <tr class="odd">
 <td><p>113회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_25일" title="wikilink">8월 25일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아시아" title="wikilink">아시아</a>는 <a href="https://ko.wikipedia.org/wiki/모델_(직업)" title="wikilink">스무 살</a></p></td>
+<td><p><a href="../Page/8월_25일.md" title="wikilink">8월 25일</a></p></td>
+<td><p><a href="../Page/아시아.md" title="wikilink">아시아</a>는 <a href="../Page/모델_(직업).md" title="wikilink">스무 살</a></p></td>
 </tr>
 <tr class="even">
 <td><p>114회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_31일" title="wikilink">8월 31일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/물" title="wikilink">물</a>의 여행(1) - 왕피천 그해 <a href="https://ko.wikipedia.org/wiki/여름" title="wikilink">여름</a></p></td>
+<td><p><a href="../Page/8월_31일.md" title="wikilink">8월 31일</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/물" title="wikilink">물</a>의 여행(1) - 왕피천 그해 <a href="../Page/여름.md" title="wikilink">여름</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>115회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/9월_1일" title="wikilink">9월 1일</a></p></td>
-<td><p>물의 여행(2) - <a href="https://ko.wikipedia.org/wiki/폭포" title="wikilink">폭포</a> 생명의 시작</p></td>
+<td><p><a href="../Page/9월_1일.md" title="wikilink">9월 1일</a></p></td>
+<td><p>물의 여행(2) - <a href="../Page/폭포.md" title="wikilink">폭포</a> 생명의 시작</p></td>
 </tr>
 <tr class="even">
 <td><p>116회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/9월_7일" title="wikilink">9월 7일</a></p></td>
+<td><p><a href="../Page/9월_7일.md" title="wikilink">9월 7일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/순례" title="wikilink">순례</a>(1)<br />
-안녕 - 나의 <a href="https://ko.wikipedia.org/wiki/소녀" title="wikilink">소녀</a> 시절이여</p></td>
+안녕 - 나의 <a href="../Page/소녀.md" title="wikilink">소녀</a> 시절이여</p></td>
 </tr>
 <tr class="odd">
 <td><p>122회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/10월_10일" title="wikilink">10월 10일</a></p></td>
+<td><p><a href="../Page/10월_10일.md" title="wikilink">10월 10일</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>117회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/9월_8일" title="wikilink">9월 8일</a></p></td>
-<td><p>순례(2) - <a href="https://ko.wikipedia.org/wiki/잉카_제국" title="wikilink">신의</a> 눈물</p></td>
+<td><p><a href="../Page/9월_8일.md" title="wikilink">9월 8일</a></p></td>
+<td><p>순례(2) - <a href="../Page/잉카_제국.md" title="wikilink">신의</a> 눈물</p></td>
 </tr>
 <tr class="odd">
 <td><p>123회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/10월_11일" title="wikilink">10월 11일</a></p></td>
+<td><p><a href="../Page/10월_11일.md" title="wikilink">10월 11일</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>118회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/9월_14일" title="wikilink">9월 14일</a></p></td>
+<td><p><a href="../Page/9월_14일.md" title="wikilink">9월 14일</a></p></td>
 <td><p>순례(3) - 집으로 가는 길</p></td>
 </tr>
 <tr class="odd">
 <td><p>124회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/10월_12일" title="wikilink">10월 12일</a></p></td>
+<td><p><a href="../Page/10월_12일.md" title="wikilink">10월 12일</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>119회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/9월_15일" title="wikilink">9월 15일</a></p></td>
+<td><p><a href="../Page/9월_15일.md" title="wikilink">9월 15일</a></p></td>
 <td><p>순례(4)<br />
 4,300km - 한 걸음 나에게로</p></td>
 </tr>
 <tr class="odd">
 <td><p>125회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/10월_13일" title="wikilink">10월 13일</a></p></td>
+<td><p><a href="../Page/10월_13일.md" title="wikilink">10월 13일</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>특집</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/9월_21일" title="wikilink">9월 21일</a></p></td>
+<td><p><a href="../Page/9월_21일.md" title="wikilink">9월 21일</a></p></td>
 <td><p>나무야 나무야(1)<br />
-300년을 함께 살다 - <a href="https://ko.wikipedia.org/wiki/포항시" title="wikilink">포항</a> <a href="https://ko.wikipedia.org/wiki/기북면" title="wikilink">덕동</a> 소나무숲</p></td>
+300년을 함께 살다 - <a href="https://ko.wikipedia.org/wiki/포항시" title="wikilink">포항</a> <a href="../Page/기북면.md" title="wikilink">덕동</a> 소나무숲</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/9월_22일" title="wikilink">9월 22일</a></p></td>
+<td><p><a href="../Page/9월_22일.md" title="wikilink">9월 22일</a></p></td>
 <td><p>나무야 나무야(2)<br />
-시간이 멈춘 숲 - <a href="https://ko.wikipedia.org/wiki/횡성군" title="wikilink">횡성</a> <a href="https://ko.wikipedia.org/wiki/자작나무" title="wikilink">자작나무</a>숲</p></td>
+시간이 멈춘 숲 - <a href="../Page/횡성군.md" title="wikilink">횡성</a> <a href="../Page/자작나무.md" title="wikilink">자작나무</a>숲</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>120회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/9월_28일" title="wikilink">9월 28일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김정은" title="wikilink">김정은</a>의 두 얼굴</p></td>
+<td><p><a href="../Page/9월_28일.md" title="wikilink">9월 28일</a></p></td>
+<td><p><a href="../Page/김정은.md" title="wikilink">김정은</a>의 두 얼굴</p></td>
 </tr>
 <tr class="odd">
 <td><p>121회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/9월_29일" title="wikilink">9월 29일</a></p></td>
+<td><p><a href="../Page/9월_29일.md" title="wikilink">9월 29일</a></p></td>
 <td><p>아버지의 집</p></td>
 </tr>
 <tr class="even">
 <td><p>126회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/10월_14일" title="wikilink">10월 14일</a></p></td>
+<td><p><a href="../Page/10월_14일.md" title="wikilink">10월 14일</a></p></td>
 <td><p>운명처럼 - 세계의 전선에서(재)</p></td>
 </tr>
 <tr class="odd">
 <td><p>127회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/11월_2일" title="wikilink">11월 2일</a></p></td>
+<td><p><a href="../Page/11월_2일.md" title="wikilink">11월 2일</a></p></td>
 <td><p>삶의 기술 - 나이듦에 대하여(재)</p></td>
 </tr>
 <tr class="even">
 <td><p>128회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/11월_3일" title="wikilink">11월 3일</a></p></td>
+<td><p><a href="../Page/11월_3일.md" title="wikilink">11월 3일</a></p></td>
 <td><p>무병장수 - 골든 타임(재)</p></td>
 </tr>
 <tr class="odd">
 <td><p>129회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/11월_9일" title="wikilink">11월 9일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/시화호" title="wikilink">물의 제국</a>(1) - <a href="https://ko.wikipedia.org/wiki/수달" title="wikilink">수달</a>을 품다</p></td>
+<td><p><a href="../Page/11월_9일.md" title="wikilink">11월 9일</a></p></td>
+<td><p><a href="../Page/시화호.md" title="wikilink">물의 제국</a>(1) - <a href="../Page/수달.md" title="wikilink">수달</a>을 품다</p></td>
 </tr>
 <tr class="even">
 <td><p>130회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/11월_10일" title="wikilink">11월 10일</a></p></td>
+<td><p><a href="../Page/11월_10일.md" title="wikilink">11월 10일</a></p></td>
 <td><p>물의 제국(2) - 위대한 야생의 낙원</p></td>
 </tr>
 <tr class="odd">
 <td><p>131회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/11월_16일" title="wikilink">11월 16일</a></p></td>
+<td><p><a href="../Page/11월_16일.md" title="wikilink">11월 16일</a></p></td>
 <td><p>연쇄 대지진<br />
 불의 고리 - 공포는 계속된다(재)</p></td>
 </tr>
 <tr class="even">
 <td><p>132회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/11월_18일" title="wikilink">11월 18일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/인사이트_아시아_-_차마고도" title="wikilink">차마고도</a>(1) - 마지막 마방(재)</p></td>
+<td><p><a href="../Page/11월_18일.md" title="wikilink">11월 18일</a></p></td>
+<td><p><a href="../Page/인사이트_아시아_-_차마고도.md" title="wikilink">차마고도</a>(1) - 마지막 마방(재)</p></td>
 </tr>
 <tr class="odd">
 <td><p>133회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/11월_19일" title="wikilink">11월 19일</a></p></td>
+<td><p><a href="../Page/11월_19일.md" title="wikilink">11월 19일</a></p></td>
 <td><p>차마고도(2) - 순례의 길(재)</p></td>
 </tr>
 <tr class="even">
 <td><p>134회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/11월_23일" title="wikilink">11월 23일</a></p></td>
+<td><p><a href="../Page/11월_23일.md" title="wikilink">11월 23일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/제주도" title="wikilink">화산섬</a> 오름꽃(1)<br />
 오름에 꽃이 피면</p></td>
 </tr>
 <tr class="odd">
 <td><p>135회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/11월_24일" title="wikilink">11월 24일</a></p></td>
+<td><p><a href="../Page/11월_24일.md" title="wikilink">11월 24일</a></p></td>
 <td><p>화산섬 오름꽃(2)<br />
 그 섬에 내가 있었네</p></td>
 </tr>
 <tr class="even">
 <td><p>136회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/11월_25일" title="wikilink">11월 25일</a></p></td>
+<td><p><a href="../Page/11월_25일.md" title="wikilink">11월 25일</a></p></td>
 <td><p>차마고도(3) - 생명의 차(재)</p></td>
 </tr>
 <tr class="odd">
 <td><p>137회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/11월_26일" title="wikilink">11월 26일</a></p></td>
+<td><p><a href="../Page/11월_26일.md" title="wikilink">11월 26일</a></p></td>
 <td><p>차마고도(4) - 천 년 염정(재)</p></td>
 </tr>
 <tr class="even">
 <td><p>138회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/11월_30일" title="wikilink">11월 30일</a></p></td>
-<td><p>스팀 교육 - 미래 <a href="https://ko.wikipedia.org/wiki/학생" title="wikilink">인재를</a> 말하다</p></td>
+<td><p><a href="../Page/11월_30일.md" title="wikilink">11월 30일</a></p></td>
+<td><p>스팀 교육 - 미래 <a href="../Page/학생.md" title="wikilink">인재를</a> 말하다</p></td>
 </tr>
 <tr class="odd">
 <td><p>139회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/12월_1일" title="wikilink">12월 1일</a></p></td>
+<td><p><a href="../Page/12월_1일.md" title="wikilink">12월 1일</a></p></td>
 <td><p>21세기 한국의 생존전략<br />
 스마트 제조업(1)<br />
 누가 혁신을 주도하는가?(재)</p></td>
 </tr>
 <tr class="even">
 <td><p>140회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/12월_2일" title="wikilink">12월 2일</a></p></td>
+<td><p><a href="../Page/12월_2일.md" title="wikilink">12월 2일</a></p></td>
 <td><p>차마고도(5) - <a href="https://ko.wikipedia.org/wiki/히말라야_산맥" title="wikilink">히말라야</a> 카라반(재)</p></td>
 </tr>
 <tr class="odd">
 <td><p>141회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/12월_3일" title="wikilink">12월 3일</a></p></td>
-<td><p>차마고도(6) - 신비의 <a href="https://ko.wikipedia.org/wiki/구게_왕국" title="wikilink">구게 왕국</a>(재)</p></td>
+<td><p><a href="../Page/12월_3일.md" title="wikilink">12월 3일</a></p></td>
+<td><p>차마고도(6) - 신비의 <a href="../Page/구게_왕국.md" title="wikilink">구게 왕국</a>(재)</p></td>
 </tr>
 <tr class="even">
 <td><p>142회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/12월_8일" title="wikilink">12월 8일</a></p></td>
+<td><p><a href="../Page/12월_8일.md" title="wikilink">12월 8일</a></p></td>
 <td><p>21세기 한국의 생존전략<br />
 스마트 제조업(2)<br />
 미래를 바꿀 승부수(재)</p></td>
 </tr>
 <tr class="odd">
 <td><p>143회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/12월_15일" title="wikilink">12월 15일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/고려인" title="wikilink">사샤의</a> <a href="https://ko.wikipedia.org/wiki/아리랑" title="wikilink">아리랑</a></p></td>
+<td><p><a href="../Page/12월_15일.md" title="wikilink">12월 15일</a></p></td>
+<td><p><a href="../Page/고려인.md" title="wikilink">사샤의</a> <a href="../Page/아리랑.md" title="wikilink">아리랑</a></p></td>
 </tr>
 <tr class="even">
 <td><p>144회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/12월_21일" title="wikilink">12월 21일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/암" title="wikilink">앎</a>(1) - 두 <a href="https://ko.wikipedia.org/wiki/어머니" title="wikilink">엄마</a></p></td>
+<td><p><a href="../Page/12월_21일.md" title="wikilink">12월 21일</a></p></td>
+<td><p><a href="../Page/암.md" title="wikilink">앎</a>(1) - 두 <a href="../Page/어머니.md" title="wikilink">엄마</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>145회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/12월_22일" title="wikilink">12월 22일</a></p></td>
-<td><p>앎(2) - <a href="https://ko.wikipedia.org/wiki/교회" title="wikilink">교회</a> 오빠</p></td>
+<td><p><a href="../Page/12월_22일.md" title="wikilink">12월 22일</a></p></td>
+<td><p>앎(2) - <a href="../Page/교회.md" title="wikilink">교회</a> 오빠</p></td>
 </tr>
 <tr class="even">
 <td><p>특집</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/12월_28일" title="wikilink">12월 28일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/제1차_진주성_전투" title="wikilink">진주대첩</a>(1) - 승전의 조건</p></td>
+<td><p><a href="../Page/12월_28일.md" title="wikilink">12월 28일</a></p></td>
+<td><p><a href="../Page/제1차_진주성_전투.md" title="wikilink">진주대첩</a>(1) - 승전의 조건</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/12월_29일" title="wikilink">12월 29일</a></p></td>
+<td><p><a href="../Page/12월_29일.md" title="wikilink">12월 29일</a></p></td>
 <td><p>진주대첩(2) - 패전의 원인</p></td>
 <td></td>
 </tr>
@@ -2641,299 +2641,299 @@
 <tbody>
 <tr class="odd">
 <td><p>146회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2월_16일" title="wikilink">2월 16일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1937년" title="wikilink">강제 이주 40년</a> - <a href="https://ko.wikipedia.org/wiki/고려인" title="wikilink">4대의</a> 유랑</p></td>
+<td><p><a href="../Page/2월_16일.md" title="wikilink">2월 16일</a></p></td>
+<td><p><a href="../Page/1937년.md" title="wikilink">강제 이주 40년</a> - <a href="../Page/고려인.md" title="wikilink">4대의</a> 유랑</p></td>
 </tr>
 <tr class="even">
 <td><p>147회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2월_23일" title="wikilink">2월 23일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/태권도" title="wikilink">태권도</a> - <a href="https://ko.wikipedia.org/wiki/태권도#단체" title="wikilink">하나를 위한 도전</a></p></td>
+<td><p><a href="../Page/2월_23일.md" title="wikilink">2월 23일</a></p></td>
+<td><p><a href="../Page/태권도.md" title="wikilink">태권도</a> - <a href="https://ko.wikipedia.org/wiki/태권도#단체" title="wikilink">하나를 위한 도전</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>148회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/3월_1일" title="wikilink">3월 1일</a></p></td>
-<td><p>인간과 <a href="https://ko.wikipedia.org/wiki/습지" title="wikilink">습지</a>(1)<br />
-초록의 영토 - <a href="https://ko.wikipedia.org/wiki/우포늪" title="wikilink">우포늪</a></p></td>
+<td><p><a href="../Page/3월_1일.md" title="wikilink">3월 1일</a></p></td>
+<td><p>인간과 <a href="../Page/습지.md" title="wikilink">습지</a>(1)<br />
+초록의 영토 - <a href="../Page/우포늪.md" title="wikilink">우포늪</a></p></td>
 </tr>
 <tr class="even">
 <td><p>149회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/3월_8일" title="wikilink">3월 8일</a></p></td>
+<td><p><a href="../Page/3월_8일.md" title="wikilink">3월 8일</a></p></td>
 <td><p>인간과 습지(2)<br />
-공존의 땅 - <a href="https://ko.wikipedia.org/wiki/낙동강" title="wikilink">낙동강</a> 하구</p></td>
+공존의 땅 - <a href="../Page/낙동강.md" title="wikilink">낙동강</a> 하구</p></td>
 </tr>
 <tr class="odd">
 <td><p>150회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/3월_12일" title="wikilink">3월 12일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/가야" title="wikilink">가야</a>(1) - 강철 <a href="https://ko.wikipedia.org/wiki/남해" title="wikilink">바다</a></p></td>
+<td><p><a href="../Page/3월_12일.md" title="wikilink">3월 12일</a></p></td>
+<td><p><a href="../Page/가야.md" title="wikilink">가야</a>(1) - 강철 <a href="../Page/남해.md" title="wikilink">바다</a></p></td>
 </tr>
 <tr class="even">
 <td><p>151회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/3월_13일" title="wikilink">3월 13일</a></p></td>
+<td><p><a href="../Page/3월_13일.md" title="wikilink">3월 13일</a></p></td>
 <td><p>가야(2) - 신화에서 역사로</p></td>
 </tr>
 <tr class="odd">
 <td><p>152회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/3월_15일" title="wikilink">3월 15일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/한반도" title="wikilink">한반도</a> <a href="https://ko.wikipedia.org/wiki/문재인_정부" title="wikilink">피스 메이커</a> - <a href="https://ko.wikipedia.org/wiki/2018년_4월_남북정상회담" title="wikilink">대전환의 한 달</a></p></td>
+<td><p><a href="../Page/3월_15일.md" title="wikilink">3월 15일</a></p></td>
+<td><p><a href="../Page/한반도.md" title="wikilink">한반도</a> <a href="https://ko.wikipedia.org/wiki/문재인_정부" title="wikilink">피스 메이커</a> - <a href="https://ko.wikipedia.org/wiki/2018년_4월_남북정상회담" title="wikilink">대전환의 한 달</a></p></td>
 </tr>
 <tr class="even">
 <td><p>특집</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/3월_20일" title="wikilink">3월 20일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/우즈베키스탄" title="wikilink">실크로드의 후예</a> - 코리안 드림을 꿈꾸다</p></td>
+<td><p><a href="../Page/3월_20일.md" title="wikilink">3월 20일</a></p></td>
+<td><p><a href="../Page/우즈베키스탄.md" title="wikilink">실크로드의 후예</a> - 코리안 드림을 꿈꾸다</p></td>
 </tr>
 <tr class="odd">
 <td><p>153회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/3월_22일" title="wikilink">3월 22일</a></p></td>
-<td><p>소리 없는 공포 - <a href="https://ko.wikipedia.org/wiki/중국" title="wikilink">중국</a> <a href="https://ko.wikipedia.org/wiki/미세먼지" title="wikilink">초미세먼지와의</a> 전쟁</p></td>
+<td><p><a href="../Page/3월_22일.md" title="wikilink">3월 22일</a></p></td>
+<td><p>소리 없는 공포 - <a href="../Page/중국.md" title="wikilink">중국</a> <a href="../Page/미세먼지.md" title="wikilink">초미세먼지와의</a> 전쟁</p></td>
 </tr>
 <tr class="even">
 <td><p>154회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/3월_29일" title="wikilink">3월 29일</a></p></td>
-<td><p>누가 <a href="https://ko.wikipedia.org/wiki/조선민주주의인민공화국" title="wikilink">북한을</a> 움직이는가(1)<br />
+<td><p><a href="../Page/3월_29일.md" title="wikilink">3월 29일</a></p></td>
+<td><p>누가 <a href="../Page/조선민주주의인민공화국.md" title="wikilink">북한을</a> 움직이는가(1)<br />
 <a href="https://ko.wikipedia.org/wiki/평양직할시" title="wikilink">평양의</a> 파워 엘리트</p></td>
 </tr>
 <tr class="odd">
 <td><p>155회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/3월_30일" title="wikilink">3월 30일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/적도" title="wikilink">적도</a>의 마지막 <a href="https://ko.wikipedia.org/wiki/얼음" title="wikilink">얼음</a> 장수</p></td>
+<td><p><a href="../Page/3월_30일.md" title="wikilink">3월 30일</a></p></td>
+<td><p><a href="../Page/적도.md" title="wikilink">적도</a>의 마지막 <a href="../Page/얼음.md" title="wikilink">얼음</a> 장수</p></td>
 </tr>
 <tr class="even">
 <td><p>156회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/4월_12일" title="wikilink">4월 12일</a></p></td>
-<td><p>어느 최저 임금 <a href="https://ko.wikipedia.org/wiki/노동자" title="wikilink">노동자</a>의 눈물</p></td>
+<td><p><a href="../Page/4월_12일.md" title="wikilink">4월 12일</a></p></td>
+<td><p>어느 최저 임금 <a href="../Page/노동자.md" title="wikilink">노동자</a>의 눈물</p></td>
 </tr>
 <tr class="odd">
 <td><p>157회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/4월_19일" title="wikilink">4월 19일</a></p></td>
+<td><p><a href="../Page/4월_19일.md" title="wikilink">4월 19일</a></p></td>
 <td><p><a href="../Page/세월호_침몰_사고.md" title="wikilink">세월호 엄마들의</a> 이웃에 살고 이웃에 죽고</p></td>
 </tr>
 <tr class="even">
 <td><p>158회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/4월_28일" title="wikilink">4월 28일</a></p></td>
+<td><p><a href="../Page/4월_28일.md" title="wikilink">4월 28일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/한국휴전협정" title="wikilink">종전</a> - <a href="https://ko.wikipedia.org/wiki/2018년_4월_남북정상회담" title="wikilink">한반도 평화의 문을 열다</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>159회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/5월_3일" title="wikilink">5월 3일</a></p></td>
-<td><p>미래 혁명 스마트 팜(1) - <a href="https://ko.wikipedia.org/wiki/로봇" title="wikilink">로봇</a> <a href="https://ko.wikipedia.org/wiki/농민" title="wikilink">농부</a></p></td>
+<td><p><a href="../Page/5월_3일.md" title="wikilink">5월 3일</a></p></td>
+<td><p>미래 혁명 스마트 팜(1) - <a href="../Page/로봇.md" title="wikilink">로봇</a> <a href="https://ko.wikipedia.org/wiki/농민" title="wikilink">농부</a></p></td>
 </tr>
 <tr class="even">
 <td><p>160회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/5월_4일" title="wikilink">5월 4일</a></p></td>
-<td><p>미래 혁명 스마트 팜(2) - <a href="https://ko.wikipedia.org/wiki/식물" title="wikilink">식물</a> 공장</p></td>
+<td><p><a href="../Page/5월_4일.md" title="wikilink">5월 4일</a></p></td>
+<td><p>미래 혁명 스마트 팜(2) - <a href="../Page/식물.md" title="wikilink">식물</a> 공장</p></td>
 </tr>
 <tr class="odd">
 <td><p>161회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/5월_10일" title="wikilink">5월 10일</a></p></td>
+<td><p><a href="../Page/5월_10일.md" title="wikilink">5월 10일</a></p></td>
 <td><p>순례(1)<br />
 안녕 - 나의 소녀 시절이여(재)</p></td>
 </tr>
 <tr class="even">
 <td><p>162회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/5월_11일" title="wikilink">5월 11일</a></p></td>
+<td><p><a href="../Page/5월_11일.md" title="wikilink">5월 11일</a></p></td>
 <td><p>순례(2) - 신의 눈물(재)</p></td>
 </tr>
 <tr class="odd">
 <td><p>163회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/5월_17일" title="wikilink">5월 17일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴욕" title="wikilink">길위의 뉴요커</a></p></td>
+<td><p><a href="../Page/5월_17일.md" title="wikilink">5월 17일</a></p></td>
+<td><p><a href="../Page/뉴욕.md" title="wikilink">길위의 뉴요커</a></p></td>
 </tr>
 <tr class="even">
 <td><p>164회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/5월_18일" title="wikilink">5월 18일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/5·18_광주_민주화_운동" title="wikilink">오월 - 그녀</a></p></td>
+<td><p><a href="../Page/5월_18일.md" title="wikilink">5월 18일</a></p></td>
+<td><p><a href="../Page/5·18_광주_민주화_운동.md" title="wikilink">오월 - 그녀</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>165회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/5월_24일" title="wikilink">5월 24일</a></p></td>
+<td><p><a href="../Page/5월_24일.md" title="wikilink">5월 24일</a></p></td>
 <td><p>우리반 15등 김유진<br />
 <a href="https://ko.wikipedia.org/wiki/지방거점국립대학교" title="wikilink">지방 대학생</a> 이야기</p></td>
 </tr>
 <tr class="even">
 <td><p>166회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/5월_31일" title="wikilink">5월 31일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/구이저우성" title="wikilink">마지막 신화의 땅</a>(1)<br />
-<a href="https://ko.wikipedia.org/wiki/치우" title="wikilink">치우</a>의 후예들</p></td>
+<td><p><a href="../Page/5월_31일.md" title="wikilink">5월 31일</a></p></td>
+<td><p><a href="../Page/구이저우성.md" title="wikilink">마지막 신화의 땅</a>(1)<br />
+<a href="../Page/치우.md" title="wikilink">치우</a>의 후예들</p></td>
 </tr>
 <tr class="odd">
 <td><p>167회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/6월_1일" title="wikilink">6월 1일</a></p></td>
+<td><p><a href="../Page/6월_1일.md" title="wikilink">6월 1일</a></p></td>
 <td><p>마지막 신화의 땅(2)<br />
 신의 이름으로</p></td>
 </tr>
 <tr class="even">
 <td><p>168회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/6월_7일" title="wikilink">6월 7일</a></p></td>
+<td><p><a href="../Page/6월_7일.md" title="wikilink">6월 7일</a></p></td>
 <td><p>순례 <a href="https://ko.wikipedia.org/wiki/프리퀄" title="wikilink">프리퀄</a> - 고난의 길</p></td>
 </tr>
 <tr class="odd">
 <td><p>169회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/6월_8일" title="wikilink">6월 8일</a></p></td>
+<td><p><a href="../Page/6월_8일.md" title="wikilink">6월 8일</a></p></td>
 <td><p><a href="../Page/2018년_북미정상회담.md" title="wikilink">세기의 담판 D-4<br />
 한반도 평화의 문은 열리나</a></p></td>
 </tr>
 <tr class="even">
 <td><p>170회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/6월_15일" title="wikilink">6월 15일</a></p></td>
+<td><p><a href="../Page/6월_15일.md" title="wikilink">6월 15일</a></p></td>
 <td><p>북미정상회담 - 평화를 향한 첫 걸음</p></td>
 </tr>
 <tr class="odd">
 <td><p>171회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/6월_21일" title="wikilink">6월 21일</a></p></td>
-<td><p>삼대 - <a href="https://ko.wikipedia.org/wiki/옌볜_조선족_자치주" title="wikilink">연변 처녀</a> <a href="https://ko.wikipedia.org/wiki/도쿄도" title="wikilink">도쿄 정착기</a></p></td>
+<td><p><a href="../Page/6월_21일.md" title="wikilink">6월 21일</a></p></td>
+<td><p>삼대 - <a href="../Page/옌볜_조선족_자치주.md" title="wikilink">연변 처녀</a> <a href="../Page/도쿄도.md" title="wikilink">도쿄 정착기</a></p></td>
 </tr>
 <tr class="even">
 <td><p>172회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/6월_28일" title="wikilink">6월 28일</a></p></td>
-<td><p>지상 최대의 습지 <a href="https://ko.wikipedia.org/wiki/판타나우" title="wikilink">판타날</a>(1)<br />
+<td><p><a href="../Page/6월_28일.md" title="wikilink">6월 28일</a></p></td>
+<td><p>지상 최대의 습지 <a href="../Page/판타나우.md" title="wikilink">판타날</a>(1)<br />
 죽느냐 사느냐</p></td>
 </tr>
 <tr class="odd">
 <td><p>173회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/6월_29일" title="wikilink">6월 29일</a></p></td>
+<td><p><a href="../Page/6월_29일.md" title="wikilink">6월 29일</a></p></td>
 <td><p>지상 최대의 습지 판타날(2)<br />
 물의 드라마</p></td>
 </tr>
 <tr class="even">
 <td><p>174회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/7월_5일" title="wikilink">7월 5일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/플라스틱" title="wikilink">플라스틱</a> <a href="https://ko.wikipedia.org/wiki/지구" title="wikilink">지구</a>(1) - 플라스틱의 역습</p></td>
+<td><p><a href="../Page/7월_5일.md" title="wikilink">7월 5일</a></p></td>
+<td><p><a href="../Page/플라스틱.md" title="wikilink">플라스틱</a> <a href="../Page/지구.md" title="wikilink">지구</a>(1) - 플라스틱의 역습</p></td>
 </tr>
 <tr class="odd">
 <td><p>175회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/7월_6일" title="wikilink">7월 6일</a></p></td>
+<td><p><a href="../Page/7월_6일.md" title="wikilink">7월 6일</a></p></td>
 <td><p>플라스틱 지구(2) - 굿바이 플라스틱</p></td>
 </tr>
 <tr class="even">
 <td><p>176회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/7월_12일" title="wikilink">7월 12일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/신라" title="wikilink">신라</a> 금관 - 8000㎞의 여정</p></td>
+<td><p><a href="../Page/7월_12일.md" title="wikilink">7월 12일</a></p></td>
+<td><p><a href="../Page/신라.md" title="wikilink">신라</a> 금관 - 8000㎞의 여정</p></td>
 </tr>
 <tr class="odd">
 <td><p>177회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/7월_19일" title="wikilink">7월 19일</a></p></td>
-<td><p>라이징 <a href="https://ko.wikipedia.org/wiki/인도" title="wikilink">인디아</a>(1)<br />
+<td><p><a href="../Page/7월_19일.md" title="wikilink">7월 19일</a></p></td>
+<td><p>라이징 <a href="../Page/인도.md" title="wikilink">인디아</a>(1)<br />
 6억 5천만 여성이 일어서다</p></td>
 </tr>
 <tr class="even">
 <td><p>178회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/7월_26일" title="wikilink">7월 26일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/한반도_군사_분계선" title="wikilink">경계에서</a></p></td>
+<td><p><a href="../Page/7월_26일.md" title="wikilink">7월 26일</a></p></td>
+<td><p><a href="../Page/한반도_군사_분계선.md" title="wikilink">경계에서</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>179회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_2일" title="wikilink">8월 2일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/노회찬" title="wikilink">노회찬</a>이 남긴 질문</p></td>
+<td><p><a href="../Page/8월_2일.md" title="wikilink">8월 2일</a></p></td>
+<td><p><a href="../Page/노회찬.md" title="wikilink">노회찬</a>이 남긴 질문</p></td>
 </tr>
 <tr class="even">
 <td><p>180회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_9일" title="wikilink">8월 9일</a></p></td>
-<td><p>주문을 잊은 <a href="https://ko.wikipedia.org/wiki/음식점" title="wikilink">음식점</a>(1)<br />
-<a href="https://ko.wikipedia.org/wiki/치매" title="wikilink">치매</a>는 처음이라</p></td>
+<td><p><a href="../Page/8월_9일.md" title="wikilink">8월 9일</a></p></td>
+<td><p>주문을 잊은 <a href="../Page/음식점.md" title="wikilink">음식점</a>(1)<br />
+<a href="../Page/치매.md" title="wikilink">치매</a>는 처음이라</p></td>
 </tr>
 <tr class="odd">
 <td><p>181회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_16일" title="wikilink">8월 16일</a></p></td>
+<td><p><a href="../Page/8월_16일.md" title="wikilink">8월 16일</a></p></td>
 <td><p>주문을 잊은 음식점(2)<br />
 잘 부탁합니다</p></td>
 </tr>
 <tr class="even">
 <td><p>182회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_24일" title="wikilink">8월 24일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이산가족" title="wikilink">이산</a> - 우리의 이야기</p></td>
+<td><p><a href="../Page/8월_24일.md" title="wikilink">8월 24일</a></p></td>
+<td><p><a href="../Page/이산가족.md" title="wikilink">이산</a> - 우리의 이야기</p></td>
 </tr>
 <tr class="odd">
 <td><p>183회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_30일" title="wikilink">8월 30일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/남북통일" title="wikilink">원 코리아</a>(1)<br />
-남북 공동 프로젝트 10년 - <a href="https://ko.wikipedia.org/wiki/개성특급시" title="wikilink">개성</a> <a href="https://ko.wikipedia.org/wiki/만월대" title="wikilink">만월대</a></p></td>
+<td><p><a href="../Page/8월_30일.md" title="wikilink">8월 30일</a></p></td>
+<td><p><a href="../Page/남북통일.md" title="wikilink">원 코리아</a>(1)<br />
+남북 공동 프로젝트 10년 - <a href="https://ko.wikipedia.org/wiki/개성특급시" title="wikilink">개성</a> <a href="../Page/만월대.md" title="wikilink">만월대</a></p></td>
 </tr>
 <tr class="even">
 <td><p>184회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/9월_1일" title="wikilink">9월 1일</a></p></td>
+<td><p><a href="../Page/9월_1일.md" title="wikilink">9월 1일</a></p></td>
 <td><p>원 코리아(2)<br />
-코리아 - <a href="https://ko.wikipedia.org/wiki/고려" title="wikilink">고려</a>를 만나다</p></td>
+코리아 - <a href="../Page/고려.md" title="wikilink">고려</a>를 만나다</p></td>
 </tr>
 <tr class="odd">
 <td><p>185회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/9월_6일" title="wikilink">9월 6일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/도널드_트럼프" title="wikilink">두</a> <a href="https://ko.wikipedia.org/wiki/시진핑" title="wikilink">거인의</a> 혈투 - <a href="https://ko.wikipedia.org/wiki/미국" title="wikilink">미</a> · <a href="https://ko.wikipedia.org/wiki/중국" title="wikilink">중</a> 무역 전쟁의 끝은?</p></td>
+<td><p><a href="../Page/9월_6일.md" title="wikilink">9월 6일</a></p></td>
+<td><p><a href="../Page/도널드_트럼프.md" title="wikilink">두</a> <a href="../Page/시진핑.md" title="wikilink">거인의</a> 혈투 - <a href="../Page/미국.md" title="wikilink">미</a> · <a href="../Page/중국.md" title="wikilink">중</a> 무역 전쟁의 끝은?</p></td>
 </tr>
 <tr class="even">
 <td><p>186회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/9월_13일" title="wikilink">9월 13일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/한반도" title="wikilink">남북은</a> <a href="https://ko.wikipedia.org/wiki/절멸" title="wikilink">없다</a> - <a href="https://ko.wikipedia.org/wiki/여우" title="wikilink">여우</a>와 <a href="https://ko.wikipedia.org/wiki/두루미" title="wikilink">두루미</a></p></td>
+<td><p><a href="../Page/9월_13일.md" title="wikilink">9월 13일</a></p></td>
+<td><p><a href="../Page/한반도.md" title="wikilink">남북은</a> <a href="https://ko.wikipedia.org/wiki/절멸" title="wikilink">없다</a> - <a href="../Page/여우.md" title="wikilink">여우</a>와 <a href="../Page/두루미.md" title="wikilink">두루미</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>187회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/9월_20일" title="wikilink">9월 20일</a></p></td>
+<td><p><a href="../Page/9월_20일.md" title="wikilink">9월 20일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/평양직할시" title="wikilink">평양</a> 2박 3일 - <a href="https://ko.wikipedia.org/wiki/2018년_3차_남북정상회담" title="wikilink">남북정상회담</a> 동행기</p></td>
 </tr>
 <tr class="even">
 <td><p>188회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/10월_4일" title="wikilink">10월 4일</a></p></td>
-<td><p>마이크로 <a href="https://ko.wikipedia.org/wiki/사파리" title="wikilink">사파리</a><a href="https://ko.wikipedia.org/wiki/식물" title="wikilink">집</a></p></td>
+<td><p><a href="../Page/10월_4일.md" title="wikilink">10월 4일</a></p></td>
+<td><p>마이크로 <a href="https://ko.wikipedia.org/wiki/사파리" title="wikilink">사파리</a><a href="../Page/식물.md" title="wikilink">집</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>189회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/10월_11일" title="wikilink">10월 11일</a></p></td>
+<td><p><a href="../Page/10월_11일.md" title="wikilink">10월 11일</a></p></td>
 <td><p>라이징 인디아(2) - 13억이 온다</p></td>
 </tr>
 <tr class="even">
 <td><p>190회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/10월_18일" title="wikilink">10월 18일</a></p></td>
+<td><p><a href="../Page/10월_18일.md" title="wikilink">10월 18일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/여자" title="wikilink">여성</a> - <a href="https://ko.wikipedia.org/wiki/미투_운동#대한민국" title="wikilink">거리에서 외치다</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>191회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/10월_25일" title="wikilink">10월 25일</a></p></td>
+<td><p><a href="../Page/10월_25일.md" title="wikilink">10월 25일</a></p></td>
 <td><p>안동호 <a href="https://ko.wikipedia.org/wiki/쇠제비갈매기" title="wikilink">쇠제비갈매기</a>의 비밀</p></td>
 </tr>
 <tr class="even">
 <td><p>192회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/11월_1일" title="wikilink">11월 1일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/우주" title="wikilink">우주</a> 탐사 60년 - 신비로운 <a href="https://ko.wikipedia.org/wiki/태양계" title="wikilink">태양계</a></p></td>
+<td><p><a href="../Page/11월_1일.md" title="wikilink">11월 1일</a></p></td>
+<td><p><a href="../Page/우주.md" title="wikilink">우주</a> 탐사 60년 - 신비로운 <a href="../Page/태양계.md" title="wikilink">태양계</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>193회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/11월_8일" title="wikilink">11월 8일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/죽음" title="wikilink">죽음</a>이 <a href="https://ko.wikipedia.org/wiki/생명" title="wikilink">삶에</a> 답하다</p></td>
+<td><p><a href="../Page/11월_8일.md" title="wikilink">11월 8일</a></p></td>
+<td><p><a href="../Page/죽음.md" title="wikilink">죽음</a>이 <a href="../Page/생명.md" title="wikilink">삶에</a> 답하다</p></td>
 </tr>
 <tr class="even">
 <td><p>194회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/11월_15일" title="wikilink">11월 15일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/기계" title="wikilink">기계</a>와의 <a href="https://ko.wikipedia.org/wiki/컴퓨터_프로그래밍" title="wikilink">대화</a></p></td>
+<td><p><a href="../Page/11월_15일.md" title="wikilink">11월 15일</a></p></td>
+<td><p><a href="../Page/기계.md" title="wikilink">기계</a>와의 <a href="../Page/컴퓨터_프로그래밍.md" title="wikilink">대화</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>195회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/11월_22일" title="wikilink">11월 22일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/어머니" title="wikilink">마마</a> <a href="https://ko.wikipedia.org/wiki/배구" title="wikilink">배구</a></p></td>
+<td><p><a href="../Page/11월_22일.md" title="wikilink">11월 22일</a></p></td>
+<td><p><a href="../Page/어머니.md" title="wikilink">마마</a> <a href="../Page/배구.md" title="wikilink">배구</a></p></td>
 </tr>
 <tr class="even">
 <td><p>196회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/11월_29일" title="wikilink">11월 29일</a></p></td>
-<td><p>시그널 - 사라져가는 <a href="https://ko.wikipedia.org/wiki/소리" title="wikilink">소리</a></p></td>
+<td><p><a href="../Page/11월_29일.md" title="wikilink">11월 29일</a></p></td>
+<td><p>시그널 - 사라져가는 <a href="../Page/소리.md" title="wikilink">소리</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>197회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/12월_6일" title="wikilink">12월 6일</a></p></td>
+<td><p><a href="../Page/12월_6일.md" title="wikilink">12월 6일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/한국_수어" title="wikilink">너의 손이 빛나고 있어</a>[1]</p></td>
 </tr>
 <tr class="even">
 <td><p>198회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/12월_13일" title="wikilink">12월 13일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아파트" title="wikilink">아파트</a> - 과연 불패인가?</p></td>
+<td><p><a href="../Page/12월_13일.md" title="wikilink">12월 13일</a></p></td>
+<td><p><a href="../Page/아파트.md" title="wikilink">아파트</a> - 과연 불패인가?</p></td>
 </tr>
 <tr class="odd">
 <td><p>199회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/12월_20일" title="wikilink">12월 20일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/암" title="wikilink">앎</a> - <a href="https://ko.wikipedia.org/wiki/여자" title="wikilink">여자</a>의 인생</p></td>
+<td><p><a href="../Page/12월_20일.md" title="wikilink">12월 20일</a></p></td>
+<td><p><a href="../Page/암.md" title="wikilink">앎</a> - <a href="https://ko.wikipedia.org/wiki/여자" title="wikilink">여자</a>의 인생</p></td>
 </tr>
 <tr class="even">
 <td><p>특집</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/12월_27일" title="wikilink">12월 27일</a></p></td>
-<td><p>세상은 얼마나 <a href="https://ko.wikipedia.org/wiki/온도" title="wikilink">뜨겁고</a><br />
-<a href="https://ko.wikipedia.org/wiki/전압" title="wikilink">짜릿하고</a> <a href="https://ko.wikipedia.org/wiki/무게" title="wikilink">무겁고</a> <a href="https://ko.wikipedia.org/wiki/질량" title="wikilink">많은가?</a></p></td>
+<td><p><a href="../Page/12월_27일.md" title="wikilink">12월 27일</a></p></td>
+<td><p>세상은 얼마나 <a href="../Page/온도.md" title="wikilink">뜨겁고</a><br />
+<a href="../Page/전압.md" title="wikilink">짜릿하고</a> <a href="https://ko.wikipedia.org/wiki/무게" title="wikilink">무겁고</a> <a href="https://ko.wikipedia.org/wiki/질량" title="wikilink">많은가?</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -2951,246 +2951,246 @@
 <tbody>
 <tr class="odd">
 <td><p>200회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1월_3일" title="wikilink">1월 3일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/성인_(어른)" title="wikilink">어른들은</a> 모르는 Z세대의 삶</p></td>
+<td><p><a href="../Page/1월_3일.md" title="wikilink">1월 3일</a></p></td>
+<td><p><a href="../Page/성인_(어른).md" title="wikilink">어른들은</a> 모르는 Z세대의 삶</p></td>
 </tr>
 <tr class="even">
 <td><p>201회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1월_10일" title="wikilink">1월 10일</a></p></td>
-<td><p>단의 <a href="https://ko.wikipedia.org/wiki/대한민국" title="wikilink">한국</a> 이야기</p></td>
+<td><p><a href="../Page/1월_10일.md" title="wikilink">1월 10일</a></p></td>
+<td><p>단의 <a href="../Page/대한민국.md" title="wikilink">한국</a> 이야기</p></td>
 </tr>
 <tr class="odd">
 <td><p>202회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1월_17일" title="wikilink">1월 17일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2019년" title="wikilink">신년</a> <a href="https://ko.wikipedia.org/wiki/경제" title="wikilink">경제</a> 수다<br />
-<a href="https://ko.wikipedia.org/wiki/대한민국의_경제" title="wikilink">한국 경제</a> 왜 그럴까?</p></td>
+<td><p><a href="../Page/1월_17일.md" title="wikilink">1월 17일</a></p></td>
+<td><p><a href="../Page/2019년.md" title="wikilink">신년</a> <a href="../Page/경제.md" title="wikilink">경제</a> 수다<br />
+<a href="../Page/대한민국의_경제.md" title="wikilink">한국 경제</a> 왜 그럴까?</p></td>
 </tr>
 <tr class="even">
 <td><p>203회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1월_24일" title="wikilink">1월 24일</a></p></td>
+<td><p><a href="../Page/1월_24일.md" title="wikilink">1월 24일</a></p></td>
 <td><p><a href="../Page/브렉시트.md" title="wikilink">브렉시트</a>와 노란 조끼<br />
-혼돈의 <a href="https://ko.wikipedia.org/wiki/유럽_연합" title="wikilink">유럽은</a> 어디로?</p></td>
+혼돈의 <a href="../Page/유럽_연합.md" title="wikilink">유럽은</a> 어디로?</p></td>
 </tr>
 <tr class="odd">
 <td><p>204회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1월_31일" title="wikilink">1월 31일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/소나무" title="wikilink">금강송</a> 숲의 동맹</p></td>
+<td><p><a href="../Page/1월_31일.md" title="wikilink">1월 31일</a></p></td>
+<td><p><a href="../Page/소나무.md" title="wikilink">금강송</a> 숲의 동맹</p></td>
 </tr>
 <tr class="even">
 <td><p>205회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2월_7일" title="wikilink">2월 7일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2019년" title="wikilink">2019</a> <a href="https://ko.wikipedia.org/wiki/한국의_설날" title="wikilink">설</a> - <a href="https://ko.wikipedia.org/wiki/평양직할시" title="wikilink">평양</a> 이야기</p></td>
+<td><p><a href="../Page/2월_7일.md" title="wikilink">2월 7일</a></p></td>
+<td><p><a href="../Page/2019년.md" title="wikilink">2019</a> <a href="https://ko.wikipedia.org/wiki/한국의_설날" title="wikilink">설</a> - <a href="https://ko.wikipedia.org/wiki/평양직할시" title="wikilink">평양</a> 이야기</p></td>
 </tr>
 <tr class="odd">
 <td><p>206회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2월_14일" title="wikilink">2월 14일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/함경도" title="wikilink">함경도</a>식 <a href="https://ko.wikipedia.org/wiki/홈스테이" title="wikilink">홈스테이</a><br />
+<td><p><a href="../Page/2월_14일.md" title="wikilink">2월 14일</a></p></td>
+<td><p><a href="../Page/함경도.md" title="wikilink">함경도</a>식 <a href="https://ko.wikipedia.org/wiki/홈스테이" title="wikilink">홈스테이</a><br />
 같이 살래요?</p></td>
 </tr>
 <tr class="even">
 <td><p>207회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2월_21일" title="wikilink">2월 21일</a></p></td>
+<td><p><a href="../Page/2월_21일.md" title="wikilink">2월 21일</a></p></td>
 <td><p>개혁 개방 40년<br />
-<a href="https://ko.wikipedia.org/wiki/중국" title="wikilink">중국</a> - 기로에 서다</p></td>
+<a href="../Page/중국.md" title="wikilink">중국</a> - 기로에 서다</p></td>
 </tr>
 <tr class="odd">
 <td><p>208회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/3월_14일" title="wikilink">3월 14일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/대한민국의_역사" title="wikilink">대한민국 100년을 살아보니</a></p></td>
+<td><p><a href="../Page/3월_14일.md" title="wikilink">3월 14일</a></p></td>
+<td><p><a href="../Page/대한민국의_역사.md" title="wikilink">대한민국 100년을 살아보니</a></p></td>
 </tr>
 <tr class="even">
 <td><p>209회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/3월_21일" title="wikilink">3월 21일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/한반도" title="wikilink">한반도</a> 평화의 조건(1)<br />
+<td><p><a href="../Page/3월_21일.md" title="wikilink">3월 21일</a></p></td>
+<td><p><a href="../Page/한반도.md" title="wikilink">한반도</a> 평화의 조건(1)<br />
 <a href="https://ko.wikipedia.org/wiki/2019년_북미정상회담" title="wikilink">하노이 이후 북·미 화해의 조건</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>210회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/3월_28일" title="wikilink">3월 28일</a></p></td>
+<td><p><a href="../Page/3월_28일.md" title="wikilink">3월 28일</a></p></td>
 <td><p>차이나 쇼크<br />
-<a href="https://ko.wikipedia.org/wiki/집" title="wikilink">빈집</a> 6천 500만 채의 비밀</p></td>
+<a href="../Page/집.md" title="wikilink">빈집</a> 6천 500만 채의 비밀</p></td>
 </tr>
 <tr class="even">
 <td><p>특집</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/4월_4일" title="wikilink">4월 4일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/시민" title="wikilink">시민</a>의 탄생(1)<br />
-<a href="https://ko.wikipedia.org/wiki/탄핵" title="wikilink">왕을 끌어내리다</a></p></td>
+<td><p><a href="../Page/4월_4일.md" title="wikilink">4월 4일</a></p></td>
+<td><p><a href="../Page/시민.md" title="wikilink">시민</a>의 탄생(1)<br />
+<a href="../Page/탄핵.md" title="wikilink">왕을 끌어내리다</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/4월_5일" title="wikilink">4월 5일</a></p></td>
+<td><p><a href="../Page/4월_5일.md" title="wikilink">4월 5일</a></p></td>
 <td><p>시민의 탄생(2)<br />
-<a href="https://ko.wikipedia.org/wiki/공화제" title="wikilink">공화의</a> 시대</p></td>
+<a href="../Page/공화제.md" title="wikilink">공화의</a> 시대</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>211회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/4월_18일" title="wikilink">4월 18일</a></p></td>
+<td><p><a href="../Page/4월_18일.md" title="wikilink">4월 18일</a></p></td>
 <td><p>뜨고 지는 <a href="https://ko.wikipedia.org/wiki/길" title="wikilink">길</a><br />
 그 몰락과 부활</p></td>
 </tr>
 <tr class="odd">
 <td><p>특집</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/4월_25일" title="wikilink">4월 25일</a></p></td>
+<td><p><a href="../Page/4월_25일.md" title="wikilink">4월 25일</a></p></td>
 <td><p>안동호 <a href="https://ko.wikipedia.org/wiki/쇠제비갈매기" title="wikilink">쇠제비갈매기</a>의 비밀(재)</p></td>
 </tr>
 <tr class="even">
 <td><p>212회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/5월_2일" title="wikilink">5월 2일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/대한민국" title="wikilink">어느</a> <a href="https://ko.wikipedia.org/wiki/조선민주주의인민공화국" title="wikilink">편이냐</a> 묻는 당신에게</p></td>
+<td><p><a href="../Page/5월_2일.md" title="wikilink">5월 2일</a></p></td>
+<td><p><a href="../Page/대한민국.md" title="wikilink">어느</a> <a href="../Page/조선민주주의인민공화국.md" title="wikilink">편이냐</a> 묻는 당신에게</p></td>
 </tr>
 <tr class="odd">
 <td><p>213회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/5월_9일" title="wikilink">5월 9일</a></p></td>
+<td><p><a href="../Page/5월_9일.md" title="wikilink">5월 9일</a></p></td>
 <td><p>한일 수산물 분쟁<br />
-<a href="https://ko.wikipedia.org/wiki/후쿠시마현" title="wikilink">후쿠시마를</a> 가다</p></td>
+<a href="../Page/후쿠시마현.md" title="wikilink">후쿠시마를</a> 가다</p></td>
 </tr>
 <tr class="even">
 <td><p>특집</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/5월_15일" title="wikilink">5월 15일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/플라스틱" title="wikilink">플라스틱</a> <a href="https://ko.wikipedia.org/wiki/지구" title="wikilink">지구</a>(1)<br />
+<td><p><a href="../Page/5월_15일.md" title="wikilink">5월 15일</a></p></td>
+<td><p><a href="../Page/플라스틱.md" title="wikilink">플라스틱</a> <a href="../Page/지구.md" title="wikilink">지구</a>(1)<br />
 플라스틱의 역습(재)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/5월_16일" title="wikilink">5월 16일</a></p></td>
+<td><p><a href="../Page/5월_16일.md" title="wikilink">5월 16일</a></p></td>
 <td><p>플라스틱 지구(2)<br />
 굿바이 플라스틱(재)</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/5월_20일" title="wikilink">5월 20일</a></p></td>
-<td><p>주문을 잊은 <a href="https://ko.wikipedia.org/wiki/음식점" title="wikilink">음식점</a>(1)<br />
-<a href="https://ko.wikipedia.org/wiki/치매" title="wikilink">치매</a>는 처음이라(재)</p></td>
+<td><p><a href="../Page/5월_20일.md" title="wikilink">5월 20일</a></p></td>
+<td><p>주문을 잊은 <a href="../Page/음식점.md" title="wikilink">음식점</a>(1)<br />
+<a href="../Page/치매.md" title="wikilink">치매</a>는 처음이라(재)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/5월_21일" title="wikilink">5월 21일</a></p></td>
+<td><p><a href="../Page/5월_21일.md" title="wikilink">5월 21일</a></p></td>
 <td><p>주문을 잊은 음식점(2)<br />
 잘 부탁합니다(재)</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/5월_23일" title="wikilink">5월 23일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/봉하마을" title="wikilink">봉하마을</a>에서 온 편지</p></td>
+<td><p><a href="../Page/5월_23일.md" title="wikilink">5월 23일</a></p></td>
+<td><p><a href="../Page/봉하마을.md" title="wikilink">봉하마을</a>에서 온 편지</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>214회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/6월_6일" title="wikilink">6월 6일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/한국_전쟁" title="wikilink">6·25</a> 전사자 유해 발굴<br />
+<td><p><a href="../Page/6월_6일.md" title="wikilink">6월 6일</a></p></td>
+<td><p><a href="../Page/한국_전쟁.md" title="wikilink">6·25</a> 전사자 유해 발굴<br />
 집으로 가는 길</p></td>
 </tr>
 <tr class="even">
 <td><p>215회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/6월_13일" title="wikilink">6월 13일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울</a> <a href="https://ko.wikipedia.org/wiki/나무" title="wikilink">나무</a> <a href="https://ko.wikipedia.org/wiki/파리_(프랑스)" title="wikilink">파리</a> 나무</p></td>
+<td><p><a href="../Page/6월_13일.md" title="wikilink">6월 13일</a></p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울</a> <a href="../Page/나무.md" title="wikilink">나무</a> <a href="../Page/파리_(프랑스).md" title="wikilink">파리</a> 나무</p></td>
 </tr>
 <tr class="odd">
 <td><p>216회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/6월_20일" title="wikilink">6월 20일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/대한민국_U-20_축구_국가대표팀" title="wikilink">대한민국 슛돌이들</a><br />
+<td><p><a href="../Page/6월_20일.md" title="wikilink">6월 20일</a></p></td>
+<td><p><a href="../Page/대한민국_U-20_축구_국가대표팀.md" title="wikilink">대한민국 슛돌이들</a><br />
 <a href="https://ko.wikipedia.org/wiki/2019년_FIFA_U-20_월드컵" title="wikilink">세계로 비상하다</a></p></td>
 </tr>
 <tr class="even">
 <td><p>217회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/6월_27일" title="wikilink">6월 27일</a></p></td>
+<td><p><a href="../Page/6월_27일.md" title="wikilink">6월 27일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/가우룽반도" title="wikilink">구룡반도</a><a href="https://ko.wikipedia.org/wiki/2019년_홍콩_범죄인_인도법_반대_시위" title="wikilink">에 울려 퍼진</a><br />
-<a href="https://ko.wikipedia.org/wiki/임을_위한_행진곡" title="wikilink">임을 위한 행진곡</a></p></td>
+<a href="../Page/임을_위한_행진곡.md" title="wikilink">임을 위한 행진곡</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>218회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/7월_4일" title="wikilink">7월 4일</a></p></td>
-<td><p>길위의 <a href="https://ko.wikipedia.org/wiki/개" title="wikilink">반려견들</a></p></td>
+<td><p><a href="../Page/7월_4일.md" title="wikilink">7월 4일</a></p></td>
+<td><p>길위의 <a href="../Page/개.md" title="wikilink">반려견들</a></p></td>
 </tr>
 <tr class="even">
 <td><p>219회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/7월_11일" title="wikilink">7월 11일</a></p></td>
+<td><p><a href="../Page/7월_11일.md" title="wikilink">7월 11일</a></p></td>
 <td><p>플라스틱 대한민국(3)<br />
-불타는 <a href="https://ko.wikipedia.org/wiki/쓰레기" title="wikilink">쓰레기</a>산</p></td>
+불타는 <a href="../Page/쓰레기.md" title="wikilink">쓰레기</a>산</p></td>
 </tr>
 <tr class="odd">
 <td><p>220회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/7월_18일" title="wikilink">7월 18일</a></p></td>
-<td><p>다시 <a href="https://ko.wikipedia.org/wiki/비무장_지대" title="wikilink">경계에서</a></p></td>
+<td><p><a href="../Page/7월_18일.md" title="wikilink">7월 18일</a></p></td>
+<td><p>다시 <a href="../Page/비무장_지대.md" title="wikilink">경계에서</a></p></td>
 </tr>
 <tr class="even">
 <td><p>특집</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/7월_23일" title="wikilink">7월 23일</a></p></td>
+<td><p><a href="../Page/7월_23일.md" title="wikilink">7월 23일</a></p></td>
 <td><p>마이크로 사파리집(재)</p></td>
 </tr>
 <tr class="odd">
 <td><p>221회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/7월_25일" title="wikilink">7월 25일</a></p></td>
+<td><p><a href="../Page/7월_25일.md" title="wikilink">7월 25일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/2019년_한일_무역_분쟁" title="wikilink">격화되는 한일 갈등</a><br />
-<a href="https://ko.wikipedia.org/wiki/아베_신조" title="wikilink">아베의</a> 시나리오는?</p></td>
+<a href="../Page/아베_신조.md" title="wikilink">아베의</a> 시나리오는?</p></td>
 </tr>
 <tr class="even">
 <td><p>특집</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_1일" title="wikilink">8월 1일</a></p></td>
+<td><p><a href="../Page/8월_1일.md" title="wikilink">8월 1일</a></p></td>
 <td><p>시그널 - 사라져가는 소리(재)</p></td>
 </tr>
 <tr class="odd">
 <td><p>222회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_8일" title="wikilink">8월 8일</a></p></td>
+<td><p><a href="../Page/8월_8일.md" title="wikilink">8월 8일</a></p></td>
 <td><p>은퇴 공포 - 집을 믿어도 될까?</p></td>
 </tr>
 <tr class="even">
 <td><p>223회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_15일" title="wikilink">8월 15일</a></p></td>
+<td><p><a href="../Page/8월_15일.md" title="wikilink">8월 15일</a></p></td>
 <td><p>헤로니모를 찾아서</p></td>
 </tr>
 <tr class="odd">
 <td><p>224회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_22일" title="wikilink">8월 22일</a></p></td>
+<td><p><a href="../Page/8월_22일.md" title="wikilink">8월 22일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/아마존" title="wikilink">아마존</a>의 맛</p></td>
 </tr>
 <tr class="even">
 <td><p>225회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_29일" title="wikilink">8월 29일</a></p></td>
+<td><p><a href="../Page/8월_29일.md" title="wikilink">8월 29일</a></p></td>
 <td><p>10년 후 <a href="https://ko.wikipedia.org/wiki/동문" title="wikilink">동창생</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>226회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/9월_5일" title="wikilink">9월 5일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/독" title="wikilink">독</a>과 <a href="https://ko.wikipedia.org/wiki/약" title="wikilink">약</a></p></td>
+<td><p><a href="../Page/9월_5일.md" title="wikilink">9월 5일</a></p></td>
+<td><p><a href="../Page/독.md" title="wikilink">독</a>과 <a href="../Page/약.md" title="wikilink">약</a></p></td>
 </tr>
 <tr class="even">
 <td><p>227회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/9월_12일" title="wikilink">9월 12일</a></p></td>
-<td><p>세계 문화유산 <a href="https://ko.wikipedia.org/wiki/대흥사" title="wikilink">대흥사</a><br />
+<td><p><a href="../Page/9월_12일.md" title="wikilink">9월 12일</a></p></td>
+<td><p>세계 문화유산 <a href="../Page/대흥사.md" title="wikilink">대흥사</a><br />
 인드라망의 숲에서</p></td>
 </tr>
 <tr class="odd">
 <td><p>특집</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/9월_16일" title="wikilink">9월 16일</a></p></td>
+<td><p><a href="../Page/9월_16일.md" title="wikilink">9월 16일</a></p></td>
 <td><p>플라스틱 지구(1)<br />
 플라스틱의 역습(삼)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/9월_17일" title="wikilink">9월 17일</a></p></td>
+<td><p><a href="../Page/9월_17일.md" title="wikilink">9월 17일</a></p></td>
 <td><p>플라스틱 지구(2)<br />
 굿바이 플라스틱(삼)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/9월_18일" title="wikilink">9월 18일</a></p></td>
+<td><p><a href="../Page/9월_18일.md" title="wikilink">9월 18일</a></p></td>
 <td><p>주문을 잊은 음식점(1)<br />
 치매는 처음이라(삼)</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/9월_19일" title="wikilink">9월 19일</a></p></td>
+<td><p><a href="../Page/9월_19일.md" title="wikilink">9월 19일</a></p></td>
 <td><p>주문을 잊은 음식점(2)<br />
 잘 부탁합니다(삼)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>228회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/태평양" title="wikilink">북태평양</a> <a href="https://ko.wikipedia.org/wiki/쓰레기" title="wikilink">쓰레기</a> 지대를 가다</p></td>
+<td><p><a href="../Page/태평양.md" title="wikilink">북태평양</a> <a href="../Page/쓰레기.md" title="wikilink">쓰레기</a> 지대를 가다</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>229회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/9월_26일" title="wikilink">9월 26일</a></p></td>
+<td><p><a href="../Page/9월_26일.md" title="wikilink">9월 26일</a></p></td>
 <td><p>3.6%가 말하는 것<br />
 사표 쓰지 않는 <a href="https://ko.wikipedia.org/wiki/여자" title="wikilink">여자</a>들</p></td>
 </tr>
@@ -3200,7 +3200,7 @@
 ## 같이 보기
 
   - [MBC 스페셜 에피소드 목록](https://ko.wikipedia.org/wiki/MBC_스페셜_에피소드_목록 "wikilink")
-  - [SBS 스페셜의 에피소드 목록](https://ko.wikipedia.org/wiki/SBS_스페셜의_에피소드_목록 "wikilink")
+  - [SBS 스페셜의 에피소드 목록](../Page/SBS_스페셜의_에피소드_목록.md "wikilink")
   - [EBS 다큐프라임의 에피소드 목록](../Page/EBS_다큐프라임의_에피소드_목록.md "wikilink")
 
 ## 각주

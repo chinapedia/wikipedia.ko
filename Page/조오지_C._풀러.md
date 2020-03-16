@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ C. ](https://ko.wikipedia.org/wiki/_C._).
 
 
-**조오지 C. 풀러**(George C. Fuller)는 미국의 [웨스트민스터 신학교](https://ko.wikipedia.org/wiki/웨스트민스터_신학교 "wikilink") 의 [실천신학](https://ko.wikipedia.org/wiki/실천신학 "wikilink") 교수와 총장을 하였다.\[1\] 1984년부터 1991년까지 총장을 역임하였다.\[2\] 풀러는 [미국 장로교회](https://ko.wikipedia.org/wiki/미국_장로교회 "wikilink")(PCA)이다.\[3\]
+**조오지 C. 풀러**(George C. Fuller)는 미국의 [웨스트민스터 신학교](../Page/웨스트민스터_신학교.md "wikilink") 의 [실천신학](https://ko.wikipedia.org/wiki/실천신학 "wikilink") 교수와 총장을 하였다.\[1\] 1984년부터 1991년까지 총장을 역임하였다.\[2\] 풀러는 [미국 장로교회](https://ko.wikipedia.org/wiki/미국_장로교회 "wikilink")(PCA)이다.\[3\]
 
-풀러는 [하버포드 대학교](https://ko.wikipedia.org/wiki/하버포드_대학교 "wikilink"), [프린스턴 신학교](https://ko.wikipedia.org/wiki/프린스턴_신학교 "wikilink"), [웨스트민스터 신학교](https://ko.wikipedia.org/wiki/웨스트민스터_신학교 "wikilink") 및 [밥슨 대학교에서](https://ko.wikipedia.org/wiki/밥슨_대학교 "wikilink") 공부하였다. 그는 [웨스트민스터 신학교에](https://ko.wikipedia.org/wiki/웨스트민스터_신학교 "wikilink") 오기전에 [노쓰웨스턴 칼러지와](https://ko.wikipedia.org/wiki/노쓰웨스턴_칼러지 "wikilink") [리폼드 신학교에서](https://ko.wikipedia.org/wiki/리폼드_신학교 "wikilink") 가르쳤다.
+풀러는 [하버포드 대학교](https://ko.wikipedia.org/wiki/하버포드_대학교 "wikilink"), [프린스턴 신학교](../Page/프린스턴_신학교.md "wikilink"), [웨스트민스터 신학교](../Page/웨스트민스터_신학교.md "wikilink") 및 [밥슨 대학교에서](https://ko.wikipedia.org/wiki/밥슨_대학교 "wikilink") 공부하였다. 그는 [웨스트민스터 신학교에](../Page/웨스트민스터_신학교.md "wikilink") 오기전에 [노쓰웨스턴 칼러지와](https://ko.wikipedia.org/wiki/노쓰웨스턴_칼러지 "wikilink") [리폼드 신학교에서](../Page/리폼드_신학교.md "wikilink") 가르쳤다.
 
 ## 각주
 

@@ -7,7 +7,7 @@
 
 ## 차트 성적
 
-음반 부문에서는 [가온 앨범 차트](https://ko.wikipedia.org/wiki/가온_앨범_차트 "wikilink") 주간 6위를 기록하였다.<ref>[가온 앨범 차트](https://ko.wikipedia.org/wiki/가온_앨범_차트 "wikilink") (주간). [가온 차트](https://ko.wikipedia.org/wiki/가온_차트 "wikilink"). 2018-07-20 확인. (각각의 순위에 대해서는 여기를 참고하세요)
+음반 부문에서는 [가온 앨범 차트](https://ko.wikipedia.org/wiki/가온_앨범_차트 "wikilink") 주간 6위를 기록하였다.<ref>[가온 앨범 차트](https://ko.wikipedia.org/wiki/가온_앨범_차트 "wikilink") (주간). [가온 차트](../Page/가온_차트.md "wikilink"). 2018-07-20 확인. (각각의 순위에 대해서는 여기를 참고하세요)
 
   -
 </ref>

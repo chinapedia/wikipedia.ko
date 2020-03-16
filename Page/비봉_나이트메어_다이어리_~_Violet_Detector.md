@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [   \~ Violet Detector](https://ko.wikipedia.org/wiki/___\~_Violet_Detector).
 
 
-《**비봉 나이트메어 다이어리 \~ Violet Detector**》()는 [동방 프로젝트의](https://ko.wikipedia.org/wiki/동방_프로젝트 "wikilink") 다섯번째 외전 작품이다. [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [7월 19일에](https://ko.wikipedia.org/wiki/7월_19일 "wikilink") 제작자 [ZUN의](https://ko.wikipedia.org/wiki/오타_준야 "wikilink") [블로그](https://ko.wikipedia.org/wiki/블로그 "wikilink")에서 발매 예정 및 일부 정보가 발표되었으며, 2018년 [8월 10일](https://ko.wikipedia.org/wiki/8월_10일 "wikilink") [C94에서](https://ko.wikipedia.org/wiki/코믹마켓 "wikilink") 배포되었다.
+《**비봉 나이트메어 다이어리 \~ Violet Detector**》()는 [동방 프로젝트의](../Page/동방_프로젝트.md "wikilink") 다섯번째 외전 작품이다. [2018년](../Page/2018년.md "wikilink") [7월 19일에](../Page/7월_19일.md "wikilink") 제작자 [ZUN의](https://ko.wikipedia.org/wiki/오타_준야 "wikilink") [블로그](../Page/블로그.md "wikilink")에서 발매 예정 및 일부 정보가 발표되었으며, 2018년 [8월 10일](../Page/8월_10일.md "wikilink") [C94에서](https://ko.wikipedia.org/wiki/코믹마켓 "wikilink") 배포되었다.
 
 [동방문화첩과](https://ko.wikipedia.org/wiki/동방문화첩_~_Shoot_the_Bullet "wikilink") 같은 감각의 시스템이 예고되어 있다\[1\].
 
@@ -93,7 +93,7 @@
 ## 관련 항목
 
   - [동방문화첩 \~ Shoot the Bullet](https://ko.wikipedia.org/wiki/동방문화첩_~_Shoot_the_Bullet "wikilink") - 《문화첩(게임)》의 제1탄.
-  - [더블 스포일러 \~ 동방문화첩](https://ko.wikipedia.org/wiki/더블_스포일러_~_동방문화첩 "wikilink") - 《문화첩(게임)》의 제2탄.
+  - [더블 스포일러 \~ 동방문화첩](../Page/더블_스포일러_~_동방문화첩.md "wikilink") - 《문화첩(게임)》의 제2탄.
 
 ## 외부 링크
 

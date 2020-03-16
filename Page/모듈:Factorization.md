@@ -48,7 +48,7 @@ function p.factor(frame)
 `   end`
 
 `   if currentNumber == number and primeLink then`
-`       return '`[`소수`](https://ko.wikipedia.org/wiki/소수_\(수론\) "wikilink")`'`
+`       return '`[`소수`](../Page/소수_\(수론\).md "wikilink")`'`
 `   end`
 
 `   result = string.sub(result,1,-4)`

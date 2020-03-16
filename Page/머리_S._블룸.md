@@ -5,15 +5,15 @@
 
 ## 생애
 
-블룸은 1929년에 [필라델피아](https://ko.wikipedia.org/wiki/필라델피아 "wikilink")에서 태어났으며 [시카고](https://ko.wikipedia.org/wiki/시카고 "wikilink")에서 자랐다. 그는[일리노이 대학교 어배너-섐페인에서](https://ko.wikipedia.org/wiki/일리노이_대학교_어배너-섐페인 "wikilink") 생물학 이학사와 [곤충학](https://ko.wikipedia.org/wiki/곤충학 "wikilink") 박사를 취득하였다. 그는 [한국전쟁](https://ko.wikipedia.org/wiki/한국전쟁 "wikilink") 기간 동안 [미군](https://ko.wikipedia.org/wiki/미군 "wikilink")으로 복무한 이후에 [루이지애나 주립 대학교의](https://ko.wikipedia.org/wiki/루이지애나_주립_대학교 "wikilink") 교수가 되었다. 그는 1960년대에 [조지아 주립 대학교로](../Page/조지아_주립_대학교.md "wikilink") 옮겼고, 은퇴하기 전까지 연구교수로서 30년을 일했다.
+블룸은 1929년에 [필라델피아](../Page/필라델피아.md "wikilink")에서 태어났으며 [시카고](../Page/시카고.md "wikilink")에서 자랐다. 그는[일리노이 대학교 어배너-섐페인에서](../Page/일리노이_대학교_어배너-섐페인.md "wikilink") 생물학 이학사와 [곤충학](https://ko.wikipedia.org/wiki/곤충학 "wikilink") 박사를 취득하였다. 그는 [한국전쟁](https://ko.wikipedia.org/wiki/한국전쟁 "wikilink") 기간 동안 [미군](../Page/미군.md "wikilink")으로 복무한 이후에 [루이지애나 주립 대학교의](https://ko.wikipedia.org/wiki/루이지애나_주립_대학교 "wikilink") 교수가 되었다. 그는 1960년대에 [조지아 주립 대학교로](../Page/조지아_주립_대학교.md "wikilink") 옮겼고, 은퇴하기 전까지 연구교수로서 30년을 일했다.
 
 ## 개인사
 
-블룸은 [포이즈너 핸드북을](https://ko.wikipedia.org/wiki/포이즈너_핸드북 "wikilink") 집필했으며 [퓰리처상](https://ko.wikipedia.org/wiki/퓰리처상 "wikilink")을 수상한 기자, 작가, 과학저널리즘의 전문가인 [데보라 블룸의](https://ko.wikipedia.org/wiki/데보라_블룸 "wikilink") 부친이다.
+블룸은 [포이즈너 핸드북을](https://ko.wikipedia.org/wiki/포이즈너_핸드북 "wikilink") 집필했으며 [퓰리처상](../Page/퓰리처상.md "wikilink")을 수상한 기자, 작가, 과학저널리즘의 전문가인 [데보라 블룸의](https://ko.wikipedia.org/wiki/데보라_블룸 "wikilink") 부친이다.
 
 ## 연구
 
-블룸은 [화학생태학](https://ko.wikipedia.org/wiki/화학생태학 "wikilink")에 대부분의 연구 시간을 쏟았고, [페로몬](https://ko.wikipedia.org/wiki/페로몬 "wikilink") 전문가로 잘 알려져 있다. 그는 [동부얼간이메뚜기](https://ko.wikipedia.org/wiki/동부얼간이메뚜기 "wikilink")에도 흥미가 있었고 [붉은불개미](https://ko.wikipedia.org/wiki/붉은불개미 "wikilink")가 미국 남부 전역에 퍼짐에 따라 불개미를 수입했다. 블룸의 곤충학계의 동료와 친한 친구 중에는 유명한 양봉학자 [스티븐 테이버 3세가](https://ko.wikipedia.org/wiki/스티븐_테이버_3세 "wikilink") 있었다.\[1\]
+블룸은 [화학생태학](https://ko.wikipedia.org/wiki/화학생태학 "wikilink")에 대부분의 연구 시간을 쏟았고, [페로몬](https://ko.wikipedia.org/wiki/페로몬 "wikilink") 전문가로 잘 알려져 있다. 그는 [동부얼간이메뚜기](https://ko.wikipedia.org/wiki/동부얼간이메뚜기 "wikilink")에도 흥미가 있었고 [붉은불개미](../Page/붉은불개미.md "wikilink")가 미국 남부 전역에 퍼짐에 따라 불개미를 수입했다. 블룸의 곤충학계의 동료와 친한 친구 중에는 유명한 양봉학자 [스티븐 테이버 3세가](https://ko.wikipedia.org/wiki/스티븐_테이버_3세 "wikilink") 있었다.\[1\]
 
 ## 집필
 

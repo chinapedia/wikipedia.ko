@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [Copy \(\)](https://ko.wikipedia.org/wiki/Copy_\(\)).
 
 
-[컴퓨팅](https://ko.wikipedia.org/wiki/컴퓨팅 "wikilink")에서 **`copy`**는 [RT-11](https://ko.wikipedia.org/wiki/RT-11 "wikilink"), [RSX-11](https://ko.wikipedia.org/wiki/RSX-11 "wikilink"), [TOPS-20](https://ko.wikipedia.org/wiki/TOPS-20 "wikilink")\[1\], [오픈VMS](https://ko.wikipedia.org/wiki/오픈VMS "wikilink"), [DOS](https://ko.wikipedia.org/wiki/DOS "wikilink"), [OS/2](https://ko.wikipedia.org/wiki/OS/2 "wikilink"), [마이크로소프트 윈도우](https://ko.wikipedia.org/wiki/마이크로소프트_윈도우 "wikilink") [운영 체제의](https://ko.wikipedia.org/wiki/운영_체제 "wikilink") 명령어이다. 이 명령은 한 [디렉터리](https://ko.wikipedia.org/wiki/디렉터리 "wikilink")에서 다른 곳으로 [컴퓨터 파일을 복사한다](https://ko.wikipedia.org/wiki/파일_복사 "wikilink").\[2\]\[3\] 기본 목적지는 현재 [작업 디렉터리이다](https://ko.wikipedia.org/wiki/작업_디렉터리 "wikilink"). 하나 이상의 원본 파일이 지정될 경우 목적지는 반드시 디렉터리여야 한다. 이와 동일한 [유닉스](https://ko.wikipedia.org/wiki/유닉스 "wikilink") 명령어는 [`cp`](https://ko.wikipedia.org/wiki/Cp_\(유닉스\) "wikilink")이다. 더 진보화된 복사 명령어의 이름은 [`xcopy`](https://ko.wikipedia.org/wiki/xcopy "wikilink")이다. 이 명령어는 [OpenVOS의](https://ko.wikipedia.org/wiki/Stratus_VOS "wikilink") `copy_file` 명령어와 유사하다.\[4\]
+[컴퓨팅](../Page/컴퓨팅.md "wikilink")에서 **`copy`**는 [RT-11](https://ko.wikipedia.org/wiki/RT-11 "wikilink"), [RSX-11](https://ko.wikipedia.org/wiki/RSX-11 "wikilink"), [TOPS-20](https://ko.wikipedia.org/wiki/TOPS-20 "wikilink")\[1\], [오픈VMS](https://ko.wikipedia.org/wiki/오픈VMS "wikilink"), [DOS](https://ko.wikipedia.org/wiki/DOS "wikilink"), [OS/2](https://ko.wikipedia.org/wiki/OS/2 "wikilink"), [마이크로소프트 윈도우](../Page/마이크로소프트_윈도우.md "wikilink") [운영 체제의](../Page/운영_체제.md "wikilink") 명령어이다. 이 명령은 한 [디렉터리](https://ko.wikipedia.org/wiki/디렉터리 "wikilink")에서 다른 곳으로 [컴퓨터 파일을 복사한다](https://ko.wikipedia.org/wiki/파일_복사 "wikilink").\[2\]\[3\] 기본 목적지는 현재 [작업 디렉터리이다](https://ko.wikipedia.org/wiki/작업_디렉터리 "wikilink"). 하나 이상의 원본 파일이 지정될 경우 목적지는 반드시 디렉터리여야 한다. 이와 동일한 [유닉스](../Page/유닉스.md "wikilink") 명령어는 [`cp`](../Page/Cp_\(유닉스\).md "wikilink")이다. 더 진보화된 복사 명령어의 이름은 [`xcopy`](https://ko.wikipedia.org/wiki/xcopy "wikilink")이다. 이 명령어는 [OpenVOS의](https://ko.wikipedia.org/wiki/Stratus_VOS "wikilink") `copy_file` 명령어와 유사하다.\[4\]
 
 ## 도스용의 예시
 
 `copy `*`letter.txt`*` [`*`목적지`*`]`
 
-파일은 [장치 파일로](https://ko.wikipedia.org/wiki/장치_파일 "wikilink") 복사할 수 있다. (예를 들어 `copy letter.txt lpt1`는 파일을 lpt1의 [프린터로](https://ko.wikipedia.org/wiki/컴퓨터_프린터 "wikilink") 보낸다. `copy letter.txt con`는 [`type`](../Page/TYPE_\(도스_명령어\).md "wikilink")과 같이 [stdout](https://ko.wikipedia.org/wiki/stdout "wikilink")으로 출력을 보낸다. `copy page1.txt+page2.txt book.txt`는 파일의 뒤에 내용을 [연결시키고](https://ko.wikipedia.org/wiki/문자열_연결 "wikilink") 이를 `book.txt`로 출력한다. 마치 [`cat`](https://ko.wikipedia.org/wiki/cat_\(유닉스\) "wikilink") 명령어가 하는 바와 비슷하다).
+파일은 [장치 파일로](../Page/장치_파일.md "wikilink") 복사할 수 있다. (예를 들어 `copy letter.txt lpt1`는 파일을 lpt1의 [프린터로](https://ko.wikipedia.org/wiki/컴퓨터_프린터 "wikilink") 보낸다. `copy letter.txt con`는 [`type`](../Page/TYPE_\(도스_명령어\).md "wikilink")과 같이 [stdout](https://ko.wikipedia.org/wiki/stdout "wikilink")으로 출력을 보낸다. `copy page1.txt+page2.txt book.txt`는 파일의 뒤에 내용을 [연결시키고](../Page/문자열_연결.md "wikilink") 이를 `book.txt`로 출력한다. 마치 [`cat`](https://ko.wikipedia.org/wiki/cat_\(유닉스\) "wikilink") 명령어가 하는 바와 비슷하다).
 
 다른 디스크 드라이브 간에 파일을 복사할 수도 있다.
 
-파일 연결 시 동작을 수정하기 위한 2개의 [명령 줄 스위치가](https://ko.wikipedia.org/wiki/명령_줄_인터페이스 "wikilink") 있다:
+파일 연결 시 동작을 수정하기 위한 2개의 [명령 줄 스위치가](../Page/명령_줄_인터페이스.md "wikilink") 있다:
 
   - 텍스트 모드 - 파일의 텍스트 내용을 복사하고 [EOF](https://ko.wikipedia.org/wiki/파일_끝 "wikilink") 문자가 오면 중단한다.
 

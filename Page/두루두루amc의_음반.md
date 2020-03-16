@@ -5,19 +5,19 @@
 
 ## 2000년대
 
-  - 2008년 10월 13일 [장기하와 얼굴들](https://ko.wikipedia.org/wiki/장기하와_얼굴들 "wikilink") - **\[Digital Single\] 싸구려 커피**
+  - 2008년 10월 13일 [장기하와 얼굴들](../Page/장기하와_얼굴들.md "wikilink") - **\[Digital Single\] 싸구려 커피**
   - 2009년 2월 27일 장기하와 얼굴들 - **별일 없이 산다**
 
 ## 2010년대
 
-  - 2011년 4월 28일 [강산에](https://ko.wikipedia.org/wiki/강산에 "wikilink") - **Kiss**
+  - 2011년 4월 28일 [강산에](../Page/강산에.md "wikilink") - **Kiss**
   - 2011년 6월 9일 장기하와 얼굴들 - **장기하와 얼굴들**
   - 2012년 1월 13일 장기하와 얼굴들 - **범죄와의 전쟁: 나쁜놈들 전성시대 OST**\[1\]
   - 2014년 9월 18일 [혁오](../Page/혁오.md "wikilink") - **20**
   - 2014년 10월 15일 장기하와 얼굴들 - **사람의 마음**
   - 2014년 12월 8일 강산에 - **일리 있는 사랑 OST Part.1**
   - 2015년 1월 21일 혁오 - **\[Digital Single\] Panda Bear**
-  - 2015년 1월 22일 [장기하](https://ko.wikipedia.org/wiki/장기하 "wikilink") - **\[Digital Single\] 강승원 1집 만들기 프로젝트Part.3:Digital World**
+  - 2015년 1월 22일 [장기하](../Page/장기하.md "wikilink") - **\[Digital Single\] 강승원 1집 만들기 프로젝트Part.3:Digital World**
   - 2015년 2월 11일 장기하와 얼굴들 - **\[Digital Single\] 새해 복**
   - 2015년 3월 24일 [오혁](../Page/오혁.md "wikilink") - **\[Digital Single\] Lucky You\!**\[2\]
   - 2015년 4월 8일 [태히언](https://ko.wikipedia.org/wiki/태히언 "wikilink") - **행후감**
@@ -64,7 +64,7 @@
   - 2020년 1월 30일 혁오 - **사랑으로**
   - 2020년 2월 1일 카더가든 - **\[Digital Single\] \[Vol.46\] 유희열의 스케치북 : 스물다섯 번째 목소리 \`유스케 X 카더가든\`**
   - 2020년 2월 15일 카더가든 - **\[Digital Single\] \[Vol.47\] 유희열의 스케치북 : 스물다섯 번째 목소리 \`유스케 X 카더가든\`**
-  - 2020년 ?월 ?일 [이디오테잎](https://ko.wikipedia.org/wiki/이디오테잎 "wikilink") - **미정**
+  - 2020년 ?월 ?일 [이디오테잎](../Page/이디오테잎.md "wikilink") - **미정**
 
 ## 각주
 
@@ -72,11 +72,11 @@
 
 1.  최초의 OST 앨범.
 2.  [프라이머리](https://ko.wikipedia.org/wiki/프라이머리 "wikilink")도 앨범 참여.
-3.  [015B](https://ko.wikipedia.org/wiki/015B "wikilink")도 앨범 참여.
+3.  [015B](../Page/015B.md "wikilink")도 앨범 참여.
 4.  [CIFIKA](https://ko.wikipedia.org/wiki/CIFIKA "wikilink")도 앨범 참여.
-5.  [god](https://ko.wikipedia.org/wiki/god "wikilink")의 멤버 [박준형도](https://ko.wikipedia.org/wiki/박준형_\(가수\) "wikilink") 앨범 참여.
+5.  [god](https://ko.wikipedia.org/wiki/god "wikilink")의 멤버 [박준형도](../Page/박준형_\(가수\).md "wikilink") 앨범 참여.
 6.  [용주](https://ko.wikipedia.org/wiki/용주 "wikilink")도 앨범 참여.
 7.  [Superorganism](https://ko.wikipedia.org/wiki/Superorganism "wikilink")도 앨범 참여.
-8.  [유라](https://ko.wikipedia.org/wiki/유라 "wikilink")도 앨범 참여.
+8.  [유라](../Page/유라.md "wikilink")도 앨범 참여.
 9.  [용주](https://ko.wikipedia.org/wiki/용주 "wikilink"),[twlv](https://ko.wikipedia.org/wiki/twlv "wikilink")도 앨범 참여.
-10. [BiBi](https://ko.wikipedia.org/wiki/BiBi "wikilink"),[윤미래](https://ko.wikipedia.org/wiki/윤미래 "wikilink")도 앨범 참여.
+10. [BiBi](https://ko.wikipedia.org/wiki/BiBi "wikilink"),[윤미래](../Page/윤미래.md "wikilink")도 앨범 참여.

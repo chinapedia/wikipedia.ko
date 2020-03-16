@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KAI ](https://ko.wikipedia.org/wiki/KAI_).
 
 
-**KAI 마린온**(MARINEON)은 [KAI 수리온](https://ko.wikipedia.org/wiki/KAI_수리온 "wikilink") 육군 수송헬기를 해병대 수송헬기로 개조한 것이다.
+**KAI 마린온**(MARINEON)은 [KAI 수리온](../Page/KAI_수리온.md "wikilink") 육군 수송헬기를 해병대 수송헬기로 개조한 것이다.
 
 ## 역사
 
@@ -19,15 +19,15 @@
 
 ## 특징
 
-육군형 [KAI 수리온은](https://ko.wikipedia.org/wiki/KAI_수리온 "wikilink") 메인로터가 접히지 않는데, 마린온은 [독도함](https://ko.wikipedia.org/wiki/독도함 "wikilink")의 격납고에 넣기 쉽게 메인로터가 접힌다.
+육군형 [KAI 수리온은](../Page/KAI_수리온.md "wikilink") 메인로터가 접히지 않는데, 마린온은 [독도함](https://ko.wikipedia.org/wiki/독도함 "wikilink")의 격납고에 넣기 쉽게 메인로터가 접힌다.
 
 수리온이 마린온으로 개조되기 위해서는 해풍의 염분에 기체가 부식되는 것을 막는 기체 방염처리, 야간 및 악천후시 자동 방향·거리 지시장치([TACAN](https://ko.wikipedia.org/wiki/TACAN "wikilink")) 개발, 헬기가 바다에 추락해도 일정시간 물위에 뜨게 하는 비상부주장비 개발이라는 3개의 난제를 극복해야만 한다.
 
 ## 기어박스
 
-수리온은 대한민국 대통령 전용헬기였던 [유로콥터 AS332](https://ko.wikipedia.org/wiki/유로콥터_AS332 "wikilink") 슈퍼퓨마를 국산화 한 것이다.
+수리온은 대한민국 대통령 전용헬기였던 [유로콥터 AS332](../Page/유로콥터_AS332.md "wikilink") 슈퍼퓨마를 국산화 한 것이다.
 
-프랑스제 베스트셀러 헬기인 9.1톤 슈퍼퓨마는 프랑스제 1,600 마력 [터보메카 마킬라](https://ko.wikipedia.org/wiki/터보메카_마킬라 "wikilink") 엔진 2기를 사용한다. 그러나, 한국은 [UH-60 블랙 호크](https://ko.wikipedia.org/wiki/UH-60_블랙_호크 "wikilink"), [AH-64 아파치](https://ko.wikipedia.org/wiki/AH-64_아파치 "wikilink"), [CN-235](https://ko.wikipedia.org/wiki/CN-235 "wikilink") 수송기 등에 사용중인 미제 [제너럴 일렉트릭 T700](../Page/제너럴_일렉트릭_T700.md "wikilink") 엔진을 사용한다. 그래서 정비의 편의성 등을 감안해 슈퍼퓨마에 미제 [제너럴 일렉트릭 T700](../Page/제너럴_일렉트릭_T700.md "wikilink") 엔진을 장착했다. 그래서 새로운 엔진에 맞는 기어박스를 새로 설계해야 했다. 기어박스의 설계상 문제로 동력상실이 생겨 8.7톤 수리온이 탄생했다.
+프랑스제 베스트셀러 헬기인 9.1톤 슈퍼퓨마는 프랑스제 1,600 마력 [터보메카 마킬라](https://ko.wikipedia.org/wiki/터보메카_마킬라 "wikilink") 엔진 2기를 사용한다. 그러나, 한국은 [UH-60 블랙 호크](../Page/UH-60_블랙_호크.md "wikilink"), [AH-64 아파치](../Page/AH-64_아파치.md "wikilink"), [CN-235](../Page/CN-235.md "wikilink") 수송기 등에 사용중인 미제 [제너럴 일렉트릭 T700](../Page/제너럴_일렉트릭_T700.md "wikilink") 엔진을 사용한다. 그래서 정비의 편의성 등을 감안해 슈퍼퓨마에 미제 [제너럴 일렉트릭 T700](../Page/제너럴_일렉트릭_T700.md "wikilink") 엔진을 장착했다. 그래서 새로운 엔진에 맞는 기어박스를 새로 설계해야 했다. 기어박스의 설계상 문제로 동력상실이 생겨 8.7톤 수리온이 탄생했다.
 
 문제점은, 새로 설계한 기어박스라서, 안전성, 신뢰성을 오랜 기간동안 전세계 각국에서 검증받은 베스트셀러 슈퍼퓨마의 그 기어박스가 아니라는 점이다. 동력 손실율이 20%에 이르며, 진동문제가 심각하다는 전문가의 폭로가 보도되었다.\[2\]
 
@@ -35,8 +35,8 @@
 
 ## 사고기록
 
-  - 1997년 9월 8일, 노르웨이의 [유로콥터 AS332 L1](https://ko.wikipedia.org/wiki/유로콥터_AS332 "wikilink") 슈퍼퓨마 헬기가 추락해 12명 전원 사망. 심각한 메인 기어박스의 고장. 유로콥터는 [노르웨이 항공사고조사위원회](https://ko.wikipedia.org/wiki/노르웨이_항공사고조사위원회 "wikilink")(AIBN)의 권고들 중 일부만 수용했다. [:en:Helikopter Service Flight 451](https://ko.wikipedia.org/wiki/:en:Helikopter_Service_Flight_451 "wikilink") 참조
-  - 2009년 4월 1일, 스코틀랜드의 [유로콥터 AS332 L2](https://ko.wikipedia.org/wiki/유로콥터_AS332 "wikilink") 슈퍼퓨마 헬기가 추락해 16명 전원 사망. 비행 중 메인 로터가 동체에서 분리되었다. [영국 항공사고조사위원회](https://ko.wikipedia.org/wiki/영국_항공사고조사위원회 "wikilink")(AAIB)는 심각한 메인 기어박스의 고장 때문이라고 발표했다. [:en:Bond Offshore Helicopters Flight 85N](https://ko.wikipedia.org/wiki/:en:Bond_Offshore_Helicopters_Flight_85N "wikilink") 참조
+  - 1997년 9월 8일, 노르웨이의 [유로콥터 AS332 L1](../Page/유로콥터_AS332.md "wikilink") 슈퍼퓨마 헬기가 추락해 12명 전원 사망. 심각한 메인 기어박스의 고장. 유로콥터는 [노르웨이 항공사고조사위원회](https://ko.wikipedia.org/wiki/노르웨이_항공사고조사위원회 "wikilink")(AIBN)의 권고들 중 일부만 수용했다. [:en:Helikopter Service Flight 451](https://ko.wikipedia.org/wiki/:en:Helikopter_Service_Flight_451 "wikilink") 참조
+  - 2009년 4월 1일, 스코틀랜드의 [유로콥터 AS332 L2](../Page/유로콥터_AS332.md "wikilink") 슈퍼퓨마 헬기가 추락해 16명 전원 사망. 비행 중 메인 로터가 동체에서 분리되었다. [영국 항공사고조사위원회](../Page/영국_항공사고조사위원회.md "wikilink")(AAIB)는 심각한 메인 기어박스의 고장 때문이라고 발표했다. [:en:Bond Offshore Helicopters Flight 85N](https://ko.wikipedia.org/wiki/:en:Bond_Offshore_Helicopters_Flight_85N "wikilink") 참조
   - 2016년 4월 29일, 노르웨이의 [유로콥터 EC225](../Page/유로콥터_EC225.md "wikilink") 슈퍼퓨마 헬기가 추락해 13명 전원 사망. 2,000 ft(600 m) 상공을 비행 중 메인 로터가 동체에서 분리되었다.
   - 2016년 5월, 수리온 엔진과 메인 회전로터 시스템을 연결하는 기어박스에 균열이 생겨 운항을 중단하고, 기어박스 교환
   - 2016년 7월 7일, 노르웨이 슈퍼퓨마 조사결과, 엔진과 (날개 회전을 담당하는) 로터 시스템을 연결하는 주기어박스의 감속기어모듈 내부 '2단계 위성기어'가 불량으로 확인되었다. 수리온도 동일부품을 사용하기 때문에 운항정지 및 부품교체를 했다. 수리온 헬기 50여대 중 30여대가 동일부품을 사용중이었다.
@@ -58,7 +58,7 @@
   - **연료량**: 1,159 kg (2,556 lb)
   - **유효하중:** 3,572 kg (7,975 lb)
   - **최대이륙중량:** 8,709 kg (19,200 lb)
-  - **엔진:** 2 × 한화테크윈 T700/701K (T700-GE-701C 개량형) [터보샤프트](https://ko.wikipedia.org/wiki/터보샤프트 "wikilink"), 1,915 shp 최대
+  - **엔진:** 2 × 한화테크윈 T700/701K (T700-GE-701C 개량형) [터보샤프트](../Page/터보샤프트.md "wikilink"), 1,915 shp 최대
 
 <!-- end list -->
 
@@ -91,8 +91,8 @@
 ## 더 보기
 
   - [에어로스페시알 SA 330 퓨마](https://ko.wikipedia.org/wiki/에어로스페시알_SA_330_퓨마 "wikilink"), 최대이륙중량 7톤
-  - [유로콥터 AS332](https://ko.wikipedia.org/wiki/유로콥터_AS332 "wikilink") 슈퍼퓨마1, 최대이륙중량 9톤
-  - [KAI 수리온](https://ko.wikipedia.org/wiki/KAI_수리온 "wikilink"), 최대이륙중량 8.7톤, 슈퍼퓨마1의 국산화
+  - [유로콥터 AS332](../Page/유로콥터_AS332.md "wikilink") 슈퍼퓨마1, 최대이륙중량 9톤
+  - [KAI 수리온](../Page/KAI_수리온.md "wikilink"), 최대이륙중량 8.7톤, 슈퍼퓨마1의 국산화
   - [유로콥터 EC225](../Page/유로콥터_EC225.md "wikilink") 슈퍼퓨마2, 최대이륙중량 11톤
 
 ## 각주

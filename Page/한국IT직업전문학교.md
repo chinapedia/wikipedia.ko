@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [IT](https://ko.wikipedia.org/wiki/IT).
 
 
-**한국IT직업전문학교**(韓國IT職業專門學校, )는 1998년 설립된 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 직업전문학교이다. [서울특별시](https://ko.wikipedia.org/wiki/서울특별시 "wikilink") [서초구](https://ko.wikipedia.org/wiki/서초구 "wikilink")에 소재한다.
+**한국IT직업전문학교**(韓國IT職業專門學校, )는 1998년 설립된 [대한민국](../Page/대한민국.md "wikilink")의 직업전문학교이다. [서울특별시](../Page/서울특별시.md "wikilink") [서초구](../Page/서초구.md "wikilink")에 소재한다.
 
 ## 연혁
 

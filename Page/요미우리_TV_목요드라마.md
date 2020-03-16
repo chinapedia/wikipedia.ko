@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ TV ](https://ko.wikipedia.org/wiki/_TV_).
 
 
-**목요드라마**는 [닛폰 TV 방송망](https://ko.wikipedia.org/wiki/닛폰_TV_방송망 "wikilink"), [주쿄 TV 방송](https://ko.wikipedia.org/wiki/주쿄_TV_방송 "wikilink"), [요미우리 TV 방송](https://ko.wikipedia.org/wiki/요미우리_TV_방송 "wikilink"), [히로시마 TV 방송](https://ko.wikipedia.org/wiki/히로시마_TV_방송 "wikilink") 및 [닛폰TV 네트워크 협의회](https://ko.wikipedia.org/wiki/닛폰TV_네트워크_협의회 "wikilink") 계열국이 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink")부터 편성하고 있는 연속 TV 드라마이다.
+**목요드라마**는 [닛폰 TV 방송망](../Page/닛폰_TV_방송망.md "wikilink"), [주쿄 TV 방송](../Page/주쿄_TV_방송.md "wikilink"), [요미우리 TV 방송](../Page/요미우리_TV_방송.md "wikilink"), [히로시마 TV 방송](../Page/히로시마_TV_방송.md "wikilink") 및 [닛폰TV 네트워크 협의회](https://ko.wikipedia.org/wiki/닛폰TV_네트워크_협의회 "wikilink") 계열국이 [2013년](../Page/2013년.md "wikilink")부터 편성하고 있는 연속 TV 드라마이다.
 
 ## 방송 작품
 

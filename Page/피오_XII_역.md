@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [ XII ](https://ko.wikipedia.org/wiki/_XII_).
 
 
-**피오 XII 역** ()은 [마드리드 지하철](https://ko.wikipedia.org/wiki/마드리드_지하철 "wikilink") [9호선의](../Page/마드리드_지하철_9호선.md "wikilink") 역이다. [마드리드](https://ko.wikipedia.org/wiki/마드리드 "wikilink") [차마르틴](https://ko.wikipedia.org/wiki/차마르틴 "wikilink") 구의 피오 12세([교황 비오 12세](https://ko.wikipedia.org/wiki/교황_비오_12세 "wikilink")) 대로에 위치해 있다. 요금구역 상으로는 A구역에 속한다.\[1\]
+**피오 XII 역** ()은 [마드리드 지하철](../Page/마드리드_지하철.md "wikilink") [9호선의](../Page/마드리드_지하철_9호선.md "wikilink") 역이다. [마드리드](../Page/마드리드.md "wikilink") [차마르틴](https://ko.wikipedia.org/wiki/차마르틴 "wikilink") 구의 피오 12세([교황 비오 12세](../Page/교황_비오_12세.md "wikilink")) 대로에 위치해 있다. 요금구역 상으로는 A구역에 속한다.\[1\]
 
 ## 역사
 
-[1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink") [12월 30일](https://ko.wikipedia.org/wiki/12월_30일 "wikilink") 9호선의 북쪽 지선 ([아베니다 데 아메리카](../Page/아베니다_데_아메리카_역.md "wikilink")-[플라사 데 카스티야](../Page/플라사_데_카스티야_역.md "wikilink") 구간 개통과 함께 문을 열었다. 지선 구간에 속했기 때문에 '9b호선'이라 불렸지만 1986년 2월 24일부터 9호선 본선에 속하게 되었다.
+[1983년](../Page/1983년.md "wikilink") [12월 30일](../Page/12월_30일.md "wikilink") 9호선의 북쪽 지선 ([아베니다 데 아메리카](../Page/아베니다_데_아메리카_역.md "wikilink")-[플라사 데 카스티야](../Page/플라사_데_카스티야_역.md "wikilink") 구간 개통과 함께 문을 열었다. 지선 구간에 속했기 때문에 '9b호선'이라 불렸지만 1986년 2월 24일부터 9호선 본선에 속하게 되었다.
 
 ## 환승 정보
 

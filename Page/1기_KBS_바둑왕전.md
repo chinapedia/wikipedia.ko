@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [1 KBS ](https://ko.wikipedia.org/wiki/1_KBS_).
 
 
-**1기 KBS 바둑왕전**은 TV 속기전이 참가한 국내 바둑 기전이다. 결승에서는 [조훈현](https://ko.wikipedia.org/wiki/조훈현 "wikilink") 八단이 [노영하](https://ko.wikipedia.org/wiki/노영하 "wikilink") 七단을 2대 0로 꺾고 신설기전의 TV속기전의 첫 타이틀의 우승을 차지했다.
+**1기 KBS 바둑왕전**은 TV 속기전이 참가한 국내 바둑 기전이다. 결승에서는 [조훈현](../Page/조훈현.md "wikilink") 八단이 [노영하](../Page/노영하.md "wikilink") 七단을 2대 0로 꺾고 신설기전의 TV속기전의 첫 타이틀의 우승을 차지했다.
 
 ## 출전 기사 명단
 
@@ -61,7 +61,7 @@
 <tr class="odd">
 <td><p>예선</p></td>
 <td><p>1월 29일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김수영" title="wikilink">김수영</a> 五단</p></td>
+<td><p><a href="../Page/김수영.md" title="wikilink">김수영</a> 五단</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/정동식" title="wikilink">정동식</a> 四단</p></td>
 <td><p>250수 백 5집반승</p></td>
 <td></td>
@@ -79,15 +79,15 @@
 <tr class="odd">
 <td></td>
 <td><p>7월 22일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/조훈현" title="wikilink">조훈현</a> 八단</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/강철민" title="wikilink">강철민</a> 六단</p></td>
+<td><p><a href="../Page/조훈현.md" title="wikilink">조훈현</a> 八단</p></td>
+<td><p><a href="../Page/강철민.md" title="wikilink">강철민</a> 六단</p></td>
 <td><p>198수 흑 불계승</p></td>
 <td><p>|- align="center</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>9월 9일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/노영하" title="wikilink">노영하</a> 七단</p></td>
+<td><p><a href="../Page/노영하.md" title="wikilink">노영하</a> 七단</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/유건재" title="wikilink">유건재</a> 六단</p></td>
 <td><p>221수 흑 불계승</p></td>
 <td></td>
@@ -96,7 +96,7 @@
 </tr>
 <tr class="odd">
 <td><p>9월 16일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서봉수" title="wikilink">서봉수</a> 六단</p></td>
+<td><p><a href="../Page/서봉수.md" title="wikilink">서봉수</a> 六단</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/김인_(바둑_기사)" title="wikilink">김인</a> 八단</p></td>
 <td><p>183수 흑 불계승</p></td>
 <td></td>
@@ -105,7 +105,7 @@
 </tr>
 <tr class="even">
 <td><p>9월 30일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/조훈현" title="wikilink">조훈현</a> 八단</p></td>
+<td><p><a href="../Page/조훈현.md" title="wikilink">조훈현</a> 八단</p></td>
 <td><p>김희중 六단</p></td>
 <td><p>160수 백 불계승</p></td>
 <td></td>
@@ -163,7 +163,7 @@
 
 ## 특이 사항
 
-  - 조훈현 九단 [KBS 바둑왕전](https://ko.wikipedia.org/wiki/KBS_바둑왕전 "wikilink") 신설기전 우승
-  - 노영하 七단 [KBS 바둑왕전](https://ko.wikipedia.org/wiki/KBS_바둑왕전 "wikilink") 신설기전 준우승으로 2년 후 해설위원이었다.
+  - 조훈현 九단 [KBS 바둑왕전](../Page/KBS_바둑왕전.md "wikilink") 신설기전 우승
+  - 노영하 七단 [KBS 바둑왕전](../Page/KBS_바둑왕전.md "wikilink") 신설기전 준우승으로 2년 후 해설위원이었다.
 
 [01](https://ko.wikipedia.org/wiki/분류:KBS_바둑왕전 "wikilink") [분류:1980년 바둑](https://ko.wikipedia.org/wiki/분류:1980년_바둑 "wikilink")

@@ -1,19 +1,19 @@
 > This article is converted from Wikipedia: [Show Me The Money 777](https://ko.wikipedia.org/wiki/Show_Me_The_Money_777).
 
 
-《**Show Me The Money 777**》(쇼미더머니 777)은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 케이블 방송국 [Mnet에서](https://ko.wikipedia.org/wiki/엠넷 "wikilink") 방송된 힙합 가수 공개 오디션 프로그램이다. 《[Show Me The Money](../Page/Show_Me_The_Money.md "wikilink")》 시리즈의 7번째 시즌이다. MC는 [김진표가](https://ko.wikipedia.org/wiki/김진표_\(가수\) "wikilink") 맡았다.
+《**Show Me The Money 777**》(쇼미더머니 777)은 [대한민국](../Page/대한민국.md "wikilink")의 케이블 방송국 [Mnet에서](../Page/엠넷.md "wikilink") 방송된 힙합 가수 공개 오디션 프로그램이다. 《[Show Me The Money](../Page/Show_Me_The_Money.md "wikilink")》 시리즈의 7번째 시즌이다. MC는 [김진표가](../Page/김진표_\(가수\).md "wikilink") 맡았다.
 
 ## 우승 혜택
 
   - 우승상금 2억원
-  - [쉐보레 트랙스](https://ko.wikipedia.org/wiki/쉐보레_트랙스 "wikilink")
+  - [쉐보레 트랙스](../Page/쉐보레_트랙스.md "wikilink")
 
 ## 팀 구성
 
-| 소속   | Just Music                                                                              | Vismajor (VMC)                                                                        | Ambition Musik                                                                        | 팔로알토 & 코드 쿤스트                                                                                        |
-| ---- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| 프로듀서 | [스윙스](https://ko.wikipedia.org/wiki/스윙스 "wikilink"), [기리보이](../Page/기리보이.md "wikilink") | [딥플로우](https://ko.wikipedia.org/wiki/딥플로우 "wikilink"), [넉살](../Page/넉살.md "wikilink") | [더콰이엇](https://ko.wikipedia.org/wiki/더콰이엇 "wikilink"), [창모](../Page/창모.md "wikilink") | [팔로알토](https://ko.wikipedia.org/wiki/팔로알토_\(가수\) "wikilink"), [코드 쿤스트](../Page/코드_쿤스트.md "wikilink") |
-| 참가자  | 나플라 (우승), [ODEE](https://ko.wikipedia.org/wiki/ODEE "wikilink"), 오르내림                   | 김효은,EK,[차붐](https://ko.wikipedia.org/wiki/차붐_\(래퍼\) "wikilink")                       | 수퍼비, 쿠기, 디아크                                                                          | kid milli (3위), 루피 (준우승), pH-1                                                                       |
+| 소속   | Just Music                                                            | Vismajor (VMC)                                                     | Ambition Musik                                                                        | 팔로알토 & 코드 쿤스트                                                                     |
+| ---- | --------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| 프로듀서 | [스윙스](../Page/스윙스.md "wikilink"), [기리보이](../Page/기리보이.md "wikilink")  | [딥플로우](../Page/딥플로우.md "wikilink"), [넉살](../Page/넉살.md "wikilink") | [더콰이엇](https://ko.wikipedia.org/wiki/더콰이엇 "wikilink"), [창모](../Page/창모.md "wikilink") | [팔로알토](../Page/팔로알토_\(가수\).md "wikilink"), [코드 쿤스트](../Page/코드_쿤스트.md "wikilink") |
+| 참가자  | 나플라 (우승), [ODEE](https://ko.wikipedia.org/wiki/ODEE "wikilink"), 오르내림 | 김효은,EK,[차붐](https://ko.wikipedia.org/wiki/차붐_\(래퍼\) "wikilink")    | 수퍼비, 쿠기, 디아크                                                                          | kid milli (3위), 루피 (준우승), pH-1                                                    |
 
 ## 참가자
 
@@ -47,7 +47,7 @@
   - 박단 : 랩 파이트머니 쟁탈전 탈락
   - [심바자와디](https://ko.wikipedia.org/wiki/심바자와디 "wikilink") : 랩 파이트머니 쟁탈전 탈락
   - [차붐](https://ko.wikipedia.org/wiki/차붐 "wikilink") : 랩 파이트머니 쟁탈전 탈락 / 패자부활전으로 통하여 부활 / 1차 경연 탈락
-  - [나플라](https://ko.wikipedia.org/wiki/나플라 "wikilink") : 우승
+  - [나플라](../Page/나플라.md "wikilink") : 우승
   - 마미손 : 래퍼 평가전 탈락
   - [NO:EL](https://ko.wikipedia.org/wiki/NO:EL "wikilink") : 랩 파이트머니 쟁탈전 탈락
   - [Kid Milli](../Page/키드밀리.md "wikilink") : 3위
@@ -65,7 +65,7 @@
   - KOR KASH : 래퍼 선발전 탈락
   - 아토 : 래퍼 선발전 탈락
   - 석민 : 래퍼 선발전 탈락
-  - [JJK](https://ko.wikipedia.org/wiki/JJK "wikilink") : 랩 파이트머니 쟁탈전 탈락
+  - [JJK](../Page/JJK.md "wikilink") : 랩 파이트머니 쟁탈전 탈락
   - 콸라 : 음원 미션 탈락
   - 차진혁 : 래퍼 선발전 탈락
   - 스내키챈 : 랩 파이트머니 쟁탈전 탈락

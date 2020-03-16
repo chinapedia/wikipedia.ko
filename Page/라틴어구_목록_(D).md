@@ -15,7 +15,7 @@
 <tr class="odd">
 <td><p><strong>da Deus fortunae</strong></p></td>
 <td><p>신은 행운을 주신다.</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/체코" title="wikilink">체코</a> 양조자들의 전통적인 문안</p></td>
+<td><p><a href="../Page/체코.md" title="wikilink">체코</a> 양조자들의 전통적인 문안</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>da mihi factum, dabo tibi ius</strong></p></td>
@@ -25,7 +25,7 @@
 <tr class="odd">
 <td><p><strong>damnant quod non intellegunt</strong></p></td>
 <td><p>그들은 이해하지 못하는 것들을 정죄한다.</p></td>
-<td><p><em>De Institutione Oratoria</em>의 10권, 1장, 26에 나오는 <a href="https://ko.wikipedia.org/wiki/마르쿠스_파비우스_퀸틸리아누스" title="wikilink">퀸틸리아누스의</a> 주해.</p>
+<td><p><em>De Institutione Oratoria</em>의 10권, 1장, 26에 나오는 <a href="../Page/마르쿠스_파비우스_퀸틸리아누스.md" title="wikilink">퀸틸리아누스의</a> 주해.</p>
 <ul>
 <li>그러나 많은 사건의 경우에서 처럼 학생들은 선례의 장점에 근거하여 주저하며 판결한다.<em>' (John Selby Watson 목사의 번역)</em>'</li>
 </ul></td>
@@ -69,7 +69,7 @@
 <tr class="odd">
 <td><p><strong>de bonis asportatis</strong></p></td>
 <td><p>물건을 가져가 버리다</p></td>
-<td><p>법률에서 de bonis asportatis는 <a href="https://ko.wikipedia.org/wiki/절도죄" title="wikilink">절도죄</a>, 즉 불법으로 <a href="https://ko.wikipedia.org/wiki/동산_(재산)" title="wikilink">동산</a> (움직일 수 있는 물건)을 훔치는 행위에 해당하는 전통적 명칭이다.</p></td>
+<td><p>법률에서 de bonis asportatis는 <a href="../Page/절도죄.md" title="wikilink">절도죄</a>, 즉 불법으로 <a href="https://ko.wikipedia.org/wiki/동산_(재산)" title="wikilink">동산</a> (움직일 수 있는 물건)을 훔치는 행위에 해당하는 전통적 명칭이다.</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>decessit sine prole</strong></p></td>
@@ -109,7 +109,7 @@
 <tr class="odd">
 <td><p><strong>decus et tutamen</strong></p></td>
 <td><p>장식과 보호</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/베르길리우스" title="wikilink">베르길리우스</a>의 <a href="https://ko.wikipedia.org/wiki/아이네이스" title="wikilink">아이네이스</a>에 나오는 구절. <a href="https://ko.wikipedia.org/wiki/1파운드_(영국_동전)" title="wikilink">영국의 1파운드 동전의</a> 비문. 17세기 당시에 새겨진 것으로, 동전의 금속이 훼손되는 것을 막기 위해, 동전의 바깥 부분에 새겼다.</p></td>
+<td><p><a href="../Page/베르길리우스.md" title="wikilink">베르길리우스</a>의 <a href="../Page/아이네이스.md" title="wikilink">아이네이스</a>에 나오는 구절. <a href="https://ko.wikipedia.org/wiki/1파운드_(영국_동전)" title="wikilink">영국의 1파운드 동전의</a> 비문. 17세기 당시에 새겨진 것으로, 동전의 금속이 훼손되는 것을 막기 위해, 동전의 바깥 부분에 새겼다.</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>de dato</strong></p></td>
@@ -219,7 +219,7 @@
 <tr class="odd">
 <td><p><strong>de oppresso liber</strong></p></td>
 <td><p>억압으로의 해방</p></td>
-<td><p>가벼운 해석으로는 "억압된 것으로부터 해방". <a href="https://ko.wikipedia.org/wiki/미국_육군_특전부대" title="wikilink">미국 육군 특전부대의</a> 모토이다. [2]</p></td>
+<td><p>가벼운 해석으로는 "억압된 것으로부터 해방". <a href="../Page/미국_육군_특전부대.md" title="wikilink">미국 육군 특전부대의</a> 모토이다. [2]</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>de profundis</strong></p></td>
@@ -239,12 +239,12 @@
 <tr class="odd">
 <td><p><strong>Dei gratia</strong></p></td>
 <td><p>신의 은총으로</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/왕권신수설" title="wikilink">신성한 권리에</a> 의해 통치하는 것을 역사적으로 인정하는 1521년 이후 잉글랜드와 영국 군주들의 표현</p></td>
+<td><p><a href="../Page/왕권신수설.md" title="wikilink">신성한 권리에</a> 의해 통치하는 것을 역사적으로 인정하는 1521년 이후 잉글랜드와 영국 군주들의 표현</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Dei sub numine viget</strong></p></td>
 <td><p>신의 전능 아래, 번영한다</p></td>
-<td><p>미국 <a href="https://ko.wikipedia.org/wiki/뉴저지주" title="wikilink">뉴저지주</a> <a href="https://ko.wikipedia.org/wiki/프린스턴" title="wikilink">프린스턴</a> <a href="https://ko.wikipedia.org/wiki/프린스턴_대학교" title="wikilink">프린스턴 대학교</a> 모토.</p></td>
+<td><p>미국 <a href="../Page/뉴저지주.md" title="wikilink">뉴저지주</a> <a href="https://ko.wikipedia.org/wiki/프린스턴" title="wikilink">프린스턴</a> <a href="../Page/프린스턴_대학교.md" title="wikilink">프린스턴 대학교</a> 모토.</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>delectatio morosa</strong></p></td>
@@ -259,7 +259,7 @@
 <tr class="odd">
 <td><p><strong>delirant isti Romani</strong></p></td>
 <td><p>이들은 미쳤다, 이 로마인들[!]</p></td>
-<td><p>프랑스어 <em></em>이나 이탈리아어 <em></em>를 <a href="https://ko.wikipedia.org/wiki/르네_고시니" title="wikilink">르네 고시니가</a> 라틴어 구절로 번역한 것. 《<a href="https://ko.wikipedia.org/wiki/아스테릭스" title="wikilink">아스테릭스</a>》에서 오벨릭스가 자주 사용한다</p></td>
+<td><p>프랑스어 <em></em>이나 이탈리아어 <em></em>를 <a href="../Page/르네_고시니.md" title="wikilink">르네 고시니가</a> 라틴어 구절로 번역한 것. 《<a href="../Page/아스테릭스.md" title="wikilink">아스테릭스</a>》에서 오벨릭스가 자주 사용한다</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Deo ac veritati</strong></p></td>
@@ -279,12 +279,12 @@
 <tr class="odd">
 <td><p><strong>Deo et patriae</strong></p></td>
 <td><p>신과 조국을 위해</p></td>
-<td><p>미국 <a href="https://ko.wikipedia.org/wiki/뉴욕주" title="wikilink">뉴욕주</a> <a href="https://ko.wikipedia.org/wiki/뉴욕시" title="wikilink">뉴욕시</a> 리지스 고등학교 모토.</p></td>
+<td><p>미국 <a href="../Page/뉴욕주.md" title="wikilink">뉴욕주</a> <a href="https://ko.wikipedia.org/wiki/뉴욕시" title="wikilink">뉴욕시</a> 리지스 고등학교 모토.</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Deo gratias</strong></p></td>
 <td><p>신에게 감사합니다</p></td>
-<td><p>로마 가톨릭교회 전례에서 자주 사용하는 구절이며, 암송을 하고난 후에 <a href="https://ko.wikipedia.org/wiki/미사" title="wikilink">미사</a>의 [[최종_복음]이나_<a href="https://ko.wikipedia.org/wiki/Ite_Missa_Est" title="wikilink">나는 그대를 보냅니다</a> / <a href="https://ko.wikipedia.org/wiki/Benedicamus_Domino" title="wikilink">주님을 찬미합니다에</a> 대한 대답으로 사용한다.</p></td>
+<td><p>로마 가톨릭교회 전례에서 자주 사용하는 구절이며, 암송을 하고난 후에 <a href="../Page/미사.md" title="wikilink">미사</a>의 [[최종_복음]이나_<a href="https://ko.wikipedia.org/wiki/Ite_Missa_Est" title="wikilink">나는 그대를 보냅니다</a> / <a href="https://ko.wikipedia.org/wiki/Benedicamus_Domino" title="wikilink">주님을 찬미합니다에</a> 대한 대답으로 사용한다.</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Deo juvante</strong></p></td>
@@ -324,7 +324,7 @@
 <tr class="even">
 <td><p><strong>Deus Caritas Est</strong></p></td>
 <td><p>신은 사랑이다</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/교황_베네딕토_16세" title="wikilink">교황 베네딕토 16세의</a> 첫 회칙에서의 제목이자 말이다. 다른 의미로는 <a href="https://ko.wikipedia.org/wiki/Deus_caritas_est_(동음이의어)" title="wikilink">Deus caritas est (동음이의어)</a> 보기.</p></td>
+<td><p><a href="../Page/교황_베네딕토_16세.md" title="wikilink">교황 베네딕토 16세의</a> 첫 회칙에서의 제목이자 말이다. 다른 의미로는 <a href="https://ko.wikipedia.org/wiki/Deus_caritas_est_(동음이의어)" title="wikilink">Deus caritas est (동음이의어)</a> 보기.</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/데우스_엑스_마키나" title="wikilink">deus ex machina</a></strong></p></td>
@@ -384,7 +384,7 @@
 <tr class="even">
 <td><p><strong>diem perdidi</strong></p></td>
 <td><p>나는 하루를 낭비했다</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/로마_황제" title="wikilink">로마 황제</a> <a href="https://ko.wikipedia.org/wiki/티투스" title="wikilink">티투스</a>가 한 말. <em><a href="https://ko.wikipedia.org/wiki/열두_명의_카이사르" title="wikilink">열두 명의 카이사르</a></em>에서 <a href="https://ko.wikipedia.org/wiki/수에토니우스" title="wikilink">수에토니우스</a>가 쓴 티투스의 전기에 기록됨.</p></td>
+<td><p><a href="../Page/로마_황제.md" title="wikilink">로마 황제</a> <a href="../Page/티투스.md" title="wikilink">티투스</a>가 한 말. <em><a href="https://ko.wikipedia.org/wiki/열두_명의_카이사르" title="wikilink">열두 명의 카이사르</a></em>에서 <a href="../Page/수에토니우스.md" title="wikilink">수에토니우스</a>가 쓴 티투스의 전기에 기록됨.</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Dies irae</strong></p></td>
@@ -399,12 +399,12 @@
 <tr class="odd">
 <td><p><strong>dirigo</strong></p></td>
 <td><p>나는 지도한다</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/고전_라틴어" title="wikilink">고전 라틴어에서는</a> "나는 처리한다". <a href="https://ko.wikipedia.org/wiki/폴라리스" title="wikilink">폴라리스</a> 행성에 비유한 것을 기반으로 하는 미국 <a href="https://ko.wikipedia.org/wiki/메인주" title="wikilink">메인주</a>의 모토.</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/고전_라틴어" title="wikilink">고전 라틴어에서는</a> "나는 처리한다". <a href="../Page/폴라리스.md" title="wikilink">폴라리스</a> 행성에 비유한 것을 기반으로 하는 미국 <a href="../Page/메인주.md" title="wikilink">메인주</a>의 모토.</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>dis aliter visum</strong></p></td>
 <td><p>신에게 그렇게 보이지 않는다</p></td>
-<td><p>다시 말하자면, 신은 필멸자들과는 다른 생각을 갖고 있으므로, 일이 사람들이 바라던대로 항상 이뤄지지 않는다. <a href="https://ko.wikipedia.org/wiki/베르길리우스" title="wikilink">베르길리우스</a>가 <em><a href="https://ko.wikipedia.org/wiki/아이네이스" title="wikilink">아이네이스</a></em>, 2: 428에서 언급. "인간이 계획하고, 신이 바꾼다."라고도 말해진다.</p></td>
+<td><p>다시 말하자면, 신은 필멸자들과는 다른 생각을 갖고 있으므로, 일이 사람들이 바라던대로 항상 이뤄지지 않는다. <a href="../Page/베르길리우스.md" title="wikilink">베르길리우스</a>가 <em><a href="../Page/아이네이스.md" title="wikilink">아이네이스</a></em>, 2: 428에서 언급. "인간이 계획하고, 신이 바꾼다."라고도 말해진다.</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>dis manibus sacrum <small>(D.M.S.</small><small>)</small></strong></p></td>
@@ -439,12 +439,12 @@
 <tr class="odd">
 <td><p><strong>ditat Deus</strong></p></td>
 <td><p>신이 풍요롭게 한다</p></td>
-<td><p>1911년에 채택된, 미국 애리조나주의 모토. <a href="https://ko.wikipedia.org/wiki/불가타" title="wikilink">불가타</a> 성경의 <a href="https://ko.wikipedia.org/wiki/창세기" title="wikilink">창세기</a> 14: 23에서 유래한 것으로 추정.</p></td>
+<td><p>1911년에 채택된, 미국 애리조나주의 모토. <a href="../Page/불가타.md" title="wikilink">불가타</a> 성경의 <a href="../Page/창세기.md" title="wikilink">창세기</a> 14: 23에서 유래한 것으로 추정.</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>divide et impera</strong></p></td>
 <td><p>나누고 지배하라 / "나누고 정복하라"</p></td>
-<td><p>로마의 집정관 <a href="https://ko.wikipedia.org/wiki/율리우스_카이사르" title="wikilink">율리우스 카이사르</a>, 프랑스의 왕 <a href="https://ko.wikipedia.org/wiki/루이_11세" title="wikilink">루이 11세</a>, 이탈리아 정치작가 <a href="https://ko.wikipedia.org/wiki/니콜로_마키아벨리" title="wikilink">니콜로 마키아벨리가</a> 채택한 로마의 격언.</p></td>
+<td><p>로마의 집정관 <a href="../Page/율리우스_카이사르.md" title="wikilink">율리우스 카이사르</a>, 프랑스의 왕 <a href="../Page/루이_11세.md" title="wikilink">루이 11세</a>, 이탈리아 정치작가 <a href="../Page/니콜로_마키아벨리.md" title="wikilink">니콜로 마키아벨리가</a> 채택한 로마의 격언.</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>dixi</strong></p></td>
@@ -499,7 +499,7 @@
 <tr class="odd">
 <td><p><strong>Dominus illuminatio mea</strong></p></td>
 <td><p>주는 나의 빛이요</p></td>
-<td><p>잉글랜드 <a href="https://ko.wikipedia.org/wiki/옥스퍼드_대학교" title="wikilink">옥스퍼드 대학교의</a> 모토.</p></td>
+<td><p>잉글랜드 <a href="../Page/옥스퍼드_대학교.md" title="wikilink">옥스퍼드 대학교의</a> 모토.</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Dominus fortitudo nostra</strong></p></td>
@@ -509,7 +509,7 @@
 <tr class="odd">
 <td><p><strong>Dominus pastor</strong></p></td>
 <td><p>주는 [우리의] 목자</p></td>
-<td><p>짐바브웨 <a href="https://ko.wikipedia.org/wiki/하라레" title="wikilink">하라레</a>에 있는 <a href="https://ko.wikipedia.org/wiki/세인트존스_대학교_(하라레)" title="wikilink">세인트존스 대학교와</a> <a href="https://ko.wikipedia.org/wiki/세인트존스_예비학교" title="wikilink">세인트존스 예비학교의</a> 모토.</p></td>
+<td><p>짐바브웨 <a href="../Page/하라레.md" title="wikilink">하라레</a>에 있는 <a href="https://ko.wikipedia.org/wiki/세인트존스_대학교_(하라레)" title="wikilink">세인트존스 대학교와</a> <a href="https://ko.wikipedia.org/wiki/세인트존스_예비학교" title="wikilink">세인트존스 예비학교의</a> 모토.</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Dominus vobiscum</strong></p></td>
@@ -554,7 +554,7 @@
 <tr class="even">
 <td><p><strong>ducunt volentem fata, nolentem trahunt</strong></p></td>
 <td><p>운명은 의지가 있는 자들을 이끌어가고, 의지가 없는 자들은 끌고 간다</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/루키우스_안나이우스_세네카" title="wikilink">루키우스 안나이우스 세네카가</a> 한 말 (<em>Sen. Ep. 107.11</em>).</p></td>
+<td><p><a href="../Page/루키우스_안나이우스_세네카.md" title="wikilink">루키우스 안나이우스 세네카가</a> 한 말 (<em>Sen. Ep. 107.11</em>).</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>ductus exemplo</strong></p></td>
@@ -598,13 +598,13 @@
 </tr>
 <tr class="odd">
 <td><p><strong>dum Roma deliberat Saguntum perit</strong></p></td>
-<td><p>로마가 논쟁하는 동안, <a href="https://ko.wikipedia.org/wiki/사군토" title="wikilink">사군툼은</a> 위험에 처한다</p></td>
+<td><p>로마가 논쟁하는 동안, <a href="../Page/사군토.md" title="wikilink">사군툼은</a> 위험에 처한다</p></td>
 <td><p>누군가가 긴급한 도움을 청했지만, 즉각적인 행동을 취할 수 없을 때 사용한다. 유사한 표현으로 <em>Hannibal ante portas</em>이 있지만, 덜 사적인 위험을 나타낸다.</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>dum spiro spero</strong></p></td>
 <td><p>숨 쉬는 한 나는 희망한다</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/키케로" title="wikilink">키케로</a>. <a href="https://ko.wikipedia.org/wiki/사우스캐롤라이나주" title="wikilink">사우스캐롤라이나주</a>의 모토. 맥레넌 씨족의 모토.</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/키케로" title="wikilink">키케로</a>. <a href="../Page/사우스캐롤라이나주.md" title="wikilink">사우스캐롤라이나주</a>의 모토. 맥레넌 씨족의 모토.</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>dum vita est, spes est</strong></p></td>

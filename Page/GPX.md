@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [GPX](https://ko.wikipedia.org/wiki/GPX).
 
 
-**GPX**(GPS Exchange Format)는 응용 소프트웨어의 공통 GPS 데이터 형식으로 설계된 XML 스키마이다. 구체적인 표현이나 개별적인 용도를 위해 웨이포인트(waypoint), 트랙(track) 및 루트(경로,route)를 기술하는 데 사용된다. 형식은 공개되어 있으며 라이센스 비용을 지불할 필요없이 사용할 수 있다. 위치 데이터 (및 선택적으로 고도, 시간 및 기타 정보)는 태그에 저장되며 [GPS](https://ko.wikipedia.org/wiki/GPS "wikilink") 장치와 소프트웨어간에 상호 교환될 수 있다. 데이터에 대한 일반적인 응용 소프트웨어에는 다양한 지도 소스에 투영된 트랙보기,지도 주석 달기, 현위치에서 찍은 시간을 기준으로 사진의 위치 정보 태그 지정등이 포함된다.
+**GPX**(GPS Exchange Format)는 응용 소프트웨어의 공통 GPS 데이터 형식으로 설계된 XML 스키마이다. 구체적인 표현이나 개별적인 용도를 위해 웨이포인트(waypoint), 트랙(track) 및 루트(경로,route)를 기술하는 데 사용된다. 형식은 공개되어 있으며 라이센스 비용을 지불할 필요없이 사용할 수 있다. 위치 데이터 (및 선택적으로 고도, 시간 및 기타 정보)는 태그에 저장되며 [GPS](../Page/GPS.md "wikilink") 장치와 소프트웨어간에 상호 교환될 수 있다. 데이터에 대한 일반적인 응용 소프트웨어에는 다양한 지도 소스에 투영된 트랙보기,지도 주석 달기, 현위치에서 찍은 시간을 기준으로 사진의 위치 정보 태그 지정등이 포함된다.
 
 ## 데이타 형식
 
@@ -19,7 +19,7 @@
 
 ## 단위
 
-[위도](https://ko.wikipedia.org/wiki/위도 "wikilink")와 [경도](https://ko.wikipedia.org/wiki/경도 "wikilink")는 모두 [WGS 84 데이터를](https://ko.wikipedia.org/wiki/세계_지구_좌표_시스템 "wikilink") 사용하여 [십진도](https://ko.wikipedia.org/wiki/십진도 "wikilink")(Decimal degrees,DD) 및 고도 (미터)로 표시된다. 날짜와 시간은 현지 시간이 아니며 대신 [ISO 8601](https://ko.wikipedia.org/wiki/ISO_8601 "wikilink") 형식을 사용하는 협정 세계시 ([UTC](https://ko.wikipedia.org/wiki/UTC "wikilink"))이다.\[2\]
+[위도](../Page/위도.md "wikilink")와 [경도](https://ko.wikipedia.org/wiki/경도 "wikilink")는 모두 [WGS 84 데이터를](https://ko.wikipedia.org/wiki/세계_지구_좌표_시스템 "wikilink") 사용하여 [십진도](https://ko.wikipedia.org/wiki/십진도 "wikilink")(Decimal degrees,DD) 및 고도 (미터)로 표시된다. 날짜와 시간은 현지 시간이 아니며 대신 [ISO 8601](../Page/ISO_8601.md "wikilink") 형식을 사용하는 협정 세계시 ([UTC](https://ko.wikipedia.org/wiki/UTC "wikilink"))이다.\[2\]
 
 ## 사용 예
 

@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [PRODUCE 48 - 30 Girls 6 Concepts](https://ko.wikipedia.org/wiki/PRODUCE_48_-_30_Girls_6_Concepts).
 
 
-《**PRODUCE 48 - 30 Girls 6 Concepts**》는 [엠넷](https://ko.wikipedia.org/wiki/엠넷 "wikilink")의 서바이벌 리얼리티 프로그램 《[PRODUCE 48](https://ko.wikipedia.org/wiki/PRODUCE_48 "wikilink")》의 [참가자들의](../Page/PRODUCE_48_참가자_목록.md "wikilink") 미니 앨범이다. [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [8월 18일](https://ko.wikipedia.org/wiki/8월_18일 "wikilink") 스톤뮤직 엔터테인먼트를 통해 공개되었다.
+《**PRODUCE 48 - 30 Girls 6 Concepts**》는 [엠넷](../Page/엠넷.md "wikilink")의 서바이벌 리얼리티 프로그램 《[PRODUCE 48](https://ko.wikipedia.org/wiki/PRODUCE_48 "wikilink")》의 [참가자들의](../Page/PRODUCE_48_참가자_목록.md "wikilink") 미니 앨범이다. [2018년](../Page/2018년.md "wikilink") [8월 18일](../Page/8월_18일.md "wikilink") 스톤뮤직 엔터테인먼트를 통해 공개되었다.
 
 ## 차트 성적
 
-대한민국의 차트 [멜론 차트에서는](https://ko.wikipedia.org/wiki/멜론_\(온라인_음악_서비스\) "wikilink") 수록곡인 〈Rumor〉가 12위, 〈다시 만나 (See you again)〉가 32위였다\[1\].
+대한민국의 차트 [멜론 차트에서는](../Page/멜론_\(온라인_음악_서비스\).md "wikilink") 수록곡인 〈Rumor〉가 12위, 〈다시 만나 (See you again)〉가 32위였다\[1\].
 
-일본에서는 2018년 8월 19일자 일본 [아이튠즈](https://ko.wikipedia.org/wiki/아이튠즈 "wikilink")의 종합 앨범 다운로드 차트에서 3위이다\[2\]. 또, [아이튠즈](https://ko.wikipedia.org/wiki/아이튠즈 "wikilink")의 종합 앨범 다운로드의 각국의 차트에서는 [대만](https://ko.wikipedia.org/wiki/대만 "wikilink")과 [태국](https://ko.wikipedia.org/wiki/태국 "wikilink"), [싱가포르](https://ko.wikipedia.org/wiki/싱가포르 "wikilink"), [인도네시아](https://ko.wikipedia.org/wiki/인도네시아 "wikilink")에서는 2018년 8월 19일자 차트에서 1위\[3\]\[4\]\[5\], [홍콩](https://ko.wikipedia.org/wiki/홍콩 "wikilink"), [말레이시아](https://ko.wikipedia.org/wiki/말레이시아 "wikilink")에서는 2018년 8월 20자 차트에서 1위를 했다\[6\]\[7\].
+일본에서는 2018년 8월 19일자 일본 [아이튠즈](../Page/아이튠즈.md "wikilink")의 종합 앨범 다운로드 차트에서 3위이다\[2\]. 또, [아이튠즈](../Page/아이튠즈.md "wikilink")의 종합 앨범 다운로드의 각국의 차트에서는 [대만](https://ko.wikipedia.org/wiki/대만 "wikilink")과 [태국](../Page/태국.md "wikilink"), [싱가포르](../Page/싱가포르.md "wikilink"), [인도네시아](../Page/인도네시아.md "wikilink")에서는 2018년 8월 19일자 차트에서 1위\[3\]\[4\]\[5\], [홍콩](../Page/홍콩.md "wikilink"), [말레이시아](../Page/말레이시아.md "wikilink")에서는 2018년 8월 20자 차트에서 1위를 했다\[6\]\[7\].
 
 아시아 이외의 지역에서는 미국에서 2018년 8월 19일자 아이튠즈 앨범 차트에서 91위를 했으며\[8\], (전미 팝송 부준 아이튠즈 앨범 차트에서는 18위\[9\]), 2018년 8월 19일자 동명의 차트에서 캐나다에서 95위, 멕시코에서 68위를 각각 차지했다.
 
@@ -27,7 +27,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/일본" title="wikilink">일본</a> (아이튠즈 앨범 종합)[10]</p></td>
+<td><p><a href="../Page/일본.md" title="wikilink">일본</a> (아이튠즈 앨범 종합)[10]</p></td>
 <td><p>3</p></td>
 </tr>
 <tr class="even">
@@ -35,47 +35,47 @@
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/타이완" title="wikilink">대만</a> (아이튠즈 종합)[12]</p></td>
+<td><p><a href="../Page/타이완.md" title="wikilink">대만</a> (아이튠즈 종합)[12]</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/홍콩" title="wikilink">홍콩</a> (아이튠즈 종합)[13]</p></td>
+<td><p><a href="../Page/홍콩.md" title="wikilink">홍콩</a> (아이튠즈 종합)[13]</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/태국" title="wikilink">태국</a> (아이튠즈 종합)[14]</p></td>
+<td><p><a href="../Page/태국.md" title="wikilink">태국</a> (아이튠즈 종합)[14]</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/싱가포르" title="wikilink">싱가포르</a> (아이튠즈 종합)[15]</p></td>
+<td><p><a href="../Page/싱가포르.md" title="wikilink">싱가포르</a> (아이튠즈 종합)[15]</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/인도네시아" title="wikilink">인도네시아</a> (아이튠즈 종합)[16]</p></td>
+<td><p><a href="../Page/인도네시아.md" title="wikilink">인도네시아</a> (아이튠즈 종합)[16]</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/말레이시아" title="wikilink">말레이시아</a> (아이튠즈 종합)[17]</p></td>
+<td><p><a href="../Page/말레이시아.md" title="wikilink">말레이시아</a> (아이튠즈 종합)[17]</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/베트남" title="wikilink">베트남</a> (아이튠즈 종합)[18]</p></td>
+<td><p><a href="../Page/베트남.md" title="wikilink">베트남</a> (아이튠즈 종합)[18]</p></td>
 <td><p>2</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/아랍에미리트" title="wikilink">아랍에미리트</a> (아이튠즈 종합)[19]</p></td>
+<td><p><a href="../Page/아랍에미리트.md" title="wikilink">아랍에미리트</a> (아이튠즈 종합)[19]</p></td>
 <td><p>6</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/미국" title="wikilink">전미</a> (아이튠즈 종합)[20]</p></td>
+<td><p><a href="../Page/미국.md" title="wikilink">전미</a> (아이튠즈 종합)[20]</p></td>
 <td><p>91</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/캐나다" title="wikilink">캐나다</a> (아이튠즈 종합)[21]</p></td>
+<td><p><a href="../Page/캐나다.md" title="wikilink">캐나다</a> (아이튠즈 종합)[21]</p></td>
 <td><p>95</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/멕시코" title="wikilink">멕시코</a> (아이튠즈 종합)[22]</p></td>
+<td><p><a href="../Page/멕시코.md" title="wikilink">멕시코</a> (아이튠즈 종합)[22]</p></td>
 <td><p>68</p></td>
 </tr>
 <tr class="even">

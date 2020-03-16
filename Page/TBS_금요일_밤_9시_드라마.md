@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TBS   9 ](https://ko.wikipedia.org/wiki/TBS___9_).
 
 
-**TBS 금요일 밤 9시 드라마**()는 [TBS 텔레비전](../Page/TBS_텔레비전.md "wikilink") [계열에서](https://ko.wikipedia.org/wiki/도쿄_방송_홀딩스 "wikilink") 매주 금요일의 [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink")이다.
+**TBS 금요일 밤 9시 드라마**()는 [TBS 텔레비전](../Page/TBS_텔레비전.md "wikilink") [계열에서](../Page/도쿄_방송_홀딩스.md "wikilink") 매주 금요일의 [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink")이다.
 
 ## 개요
 
@@ -48,13 +48,13 @@
   - 《[통쾌\! 로큰롤 거리](https://ko.wikipedia.org/wiki/통쾌!_로큰롤_거리 "wikilink")》
   - 《[파파는 연중 고생하는](https://ko.wikipedia.org/wiki/파파는_연중_고생하는 "wikilink")》
   - 《[젊은 부인은 팔을\!](https://ko.wikipedia.org/wiki/젊은_부인은_팔을! "wikilink")》
-  - 《[잠자리](https://ko.wikipedia.org/wiki/잠자리 "wikilink")》
+  - 《[잠자리](../Page/잠자리.md "wikilink")》
   - 《[스탠 바이 미 II\~변덕 천사\~](https://ko.wikipedia.org/wiki/스탠_바이_미_II~변덕_천사~ "wikilink")》
   - 《[하이스쿨 낙서](https://ko.wikipedia.org/wiki/하이스쿨_낙서 "wikilink")》
   - 《[아이 러브 유에서 시작하자](https://ko.wikipedia.org/wiki/아이_러브_유에서_시작하자 "wikilink")》
   - 《[여기 시바우라 탐정사](https://ko.wikipedia.org/wiki/여기_시바우라_탐정사 "wikilink")》
   - 《[우리들의 시대](https://ko.wikipedia.org/wiki/우리들의_시대 "wikilink")》
-  - 《[졸업](https://ko.wikipedia.org/wiki/졸업 "wikilink")》
+  - 《[졸업](../Page/졸업.md "wikilink")》
   - 《[예비교 부기](https://ko.wikipedia.org/wiki/예비교_부기 "wikilink")》
   - 《[하이스쿨 낙서](https://ko.wikipedia.org/wiki/하이스쿨_낙서 "wikilink")》2
   - 《[크리스마스 이브](https://ko.wikipedia.org/wiki/크리스마스_이브 "wikilink")》
@@ -68,7 +68,7 @@
   - 《[홈 워크](https://ko.wikipedia.org/wiki/홈_워크 "wikilink")》
   - 《[사랑한다는 것](https://ko.wikipedia.org/wiki/사랑한다는_것 "wikilink")》
   - 《[더블 키친](https://ko.wikipedia.org/wiki/더블_키친 "wikilink")》
-  - 《[옐로카드](https://ko.wikipedia.org/wiki/옐로카드 "wikilink")》
+  - 《[옐로카드](../Page/옐로카드.md "wikilink")》
   - 《[RUN](https://ko.wikipedia.org/wiki/RUN "wikilink")》
   - 《[만약 소원이 이루어진다면](https://ko.wikipedia.org/wiki/만약_소원이_이루어진다면 "wikilink")》
   - 《[개미야 안녕](https://ko.wikipedia.org/wiki/개미야_안녕 "wikilink")》
@@ -95,7 +95,7 @@
   - 《[to Heart\~사랑하고 죽고 싶다\~](https://ko.wikipedia.org/wiki/to_Heart~사랑하고_죽고_싶다~ "wikilink")》
   - 《[치프 러브](https://ko.wikipedia.org/wiki/치프_러브 "wikilink")》
   - 《[사랑의 하나님](https://ko.wikipedia.org/wiki/사랑의_하나님 "wikilink")》
-  - 《[이케부쿠로 웨스트 게이트 파크](https://ko.wikipedia.org/wiki/이케부쿠로_웨스트_게이트_파크 "wikilink")》
+  - 《[이케부쿠로 웨스트 게이트 파크](../Page/이케부쿠로_웨스트_게이트_파크.md "wikilink")》
   - 《[Summer Snow](https://ko.wikipedia.org/wiki/Summer_Snow "wikilink")》
   - 《[교습소 이야기](https://ko.wikipedia.org/wiki/교습소_이야기 "wikilink")》
   - 《[빅윙](https://ko.wikipedia.org/wiki/빅윙 "wikilink")》

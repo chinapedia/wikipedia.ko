@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BDZ](https://ko.wikipedia.org/wiki/BDZ).
 
 
-《**BDZ**》는 대한민국의 걸 그룹 [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink")의 일본에서의 첫 번째 [정규 음반이다](https://ko.wikipedia.org/wiki/정규_음반 "wikilink"). ‘BDZ’는 불도저의 준말이다. 눈앞의 큰 벽도 불도저처럼 부수며 앞으로 나아가자는 의미를 담았다.\[1\]
+《**BDZ**》는 대한민국의 걸 그룹 [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink")의 일본에서의 첫 번째 [정규 음반이다](../Page/정규_음반.md "wikilink"). ‘BDZ’는 불도저의 준말이다. 눈앞의 큰 벽도 불도저처럼 부수며 앞으로 나아가자는 의미를 담았다.\[1\]
 
 ## 개요
 
@@ -39,8 +39,8 @@
 <tr class="odd">
 <td></td>
 <td><p>2018년 9월 12일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/콤팩트_디스크" title="wikilink">CD</a>+<a href="https://ko.wikipedia.org/wiki/DVD" title="wikilink">DVD</a>, CD, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 음원</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/워너_뮤직_재팬" title="wikilink">워너 뮤직 재팬</a></p></td>
+<td><p><a href="../Page/콤팩트_디스크.md" title="wikilink">CD</a>+<a href="../Page/DVD.md" title="wikilink">DVD</a>, CD, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 음원</a></p></td>
+<td><p><a href="../Page/워너_뮤직_재팬.md" title="wikilink">워너 뮤직 재팬</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -54,14 +54,14 @@
 <td></td>
 <td><p>2018년 12월 26일</p></td>
 <td><p>CD+DVD, CD, 디지털 음원</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/워너_뮤직_재팬" title="wikilink">워너 뮤직 재팬</a></p></td>
+<td><p><a href="../Page/워너_뮤직_재팬.md" title="wikilink">워너 뮤직 재팬</a></p></td>
 <td><p>리패키지</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>2019년 1월 2일</p></td>
 <td><p>디지털 음원</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아이리버" title="wikilink">아이리버</a></p></td>
+<td><p><a href="../Page/아이리버.md" title="wikilink">아이리버</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

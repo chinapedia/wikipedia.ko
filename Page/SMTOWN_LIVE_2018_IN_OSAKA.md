@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SMTOWN LIVE 2018 IN OSAKA](https://ko.wikipedia.org/wiki/SMTOWN_LIVE_2018_IN_OSAKA).
 
 
-《**SMTOWN LIVE 2018 IN OSAKA**》는 [SM 엔터테인먼트](https://ko.wikipedia.org/wiki/SM_엔터테인먼트 "wikilink") 소속 가수들의 일본 오사카에서 개최된 7번째 합동 콘서트 투어이다.\[1\]
+《**SMTOWN LIVE 2018 IN OSAKA**》는 [SM 엔터테인먼트](../Page/SM_엔터테인먼트.md "wikilink") 소속 가수들의 일본 오사카에서 개최된 7번째 합동 콘서트 투어이다.\[1\]
 
 ## 라인업
 

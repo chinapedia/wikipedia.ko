@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [R.  ](https://ko.wikipedia.org/wiki/R.__).
 
 
-**R. 켄트 휴그스** (R. Kent Hughes, 1942년 3월 1일 - )\[1\] 는 [일리노이주](https://ko.wikipedia.org/wiki/일리노이주 "wikilink") [휘튼](https://ko.wikipedia.org/wiki/휘튼 "wikilink")에 있는 칼리지 교회의 은퇴목사였다. 휴그스는 수많은 책들의 저자이다.\[2\] 또한 여러 책들의 편집인과 기고를 하였다.\[3\] 휘티에르 대학교에서 B.A.를 [탈봇 신학교에서](https://ko.wikipedia.org/wiki/탈봇_신학교 "wikilink") M.Div.를 [트리니티 신학교에서](../Page/트리니티_신학교.md "wikilink") D.Min. 를 바욜라 대학교에서 명예학 박사(D.D.)를 받고 현재 [웨스트민스터 신학교에서](https://ko.wikipedia.org/wiki/웨스트민스터_신학교 "wikilink") 강의하고 있다.\[4\]
+**R. 켄트 휴그스** (R. Kent Hughes, 1942년 3월 1일 - )\[1\] 는 [일리노이주](../Page/일리노이주.md "wikilink") [휘튼](https://ko.wikipedia.org/wiki/휘튼 "wikilink")에 있는 칼리지 교회의 은퇴목사였다. 휴그스는 수많은 책들의 저자이다.\[2\] 또한 여러 책들의 편집인과 기고를 하였다.\[3\] 휘티에르 대학교에서 B.A.를 [탈봇 신학교에서](https://ko.wikipedia.org/wiki/탈봇_신학교 "wikilink") M.Div.를 [트리니티 신학교에서](../Page/트리니티_신학교.md "wikilink") D.Min. 를 바욜라 대학교에서 명예학 박사(D.D.)를 받고 현재 [웨스트민스터 신학교에서](../Page/웨스트민스터_신학교.md "wikilink") 강의하고 있다.\[4\]
 
 ## 경력\[5\]
 

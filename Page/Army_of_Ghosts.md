@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Army of Ghosts](https://ko.wikipedia.org/wiki/Army_of_Ghosts).
 
 
-"**Army of Ghost**" (KBS 방영 제목: 〈유령의 두 얼굴〉)는 영국의 SF 드라마 《[닥터 후](https://ko.wikipedia.org/wiki/닥터_후 "wikilink")》 [시즌 2의](../Page/닥터_후_\(시리즈_2\).md "wikilink") 열두 번째 에피소드로, 2006년 7월 1일에 처음 방영되었다. 다음 에피소드인 "[Doomsday](https://ko.wikipedia.org/wiki/Doomsday "wikilink")"와 최종화 2부작을 이루며 그 중 1부에 해당되는 에피소드다. 작가는 드라마 프로듀서인 [러셀 T 데이비스가](../Page/러셀_T_데이비스.md "wikilink") 맡았고, 감독은 [그레이엄 하퍼가](https://ko.wikipedia.org/wiki/그레이엄_하퍼 "wikilink") 맡았다.
+"**Army of Ghost**" (KBS 방영 제목: 〈유령의 두 얼굴〉)는 영국의 SF 드라마 《[닥터 후](../Page/닥터_후.md "wikilink")》 [시즌 2의](../Page/닥터_후_\(시리즈_2\).md "wikilink") 열두 번째 에피소드로, 2006년 7월 1일에 처음 방영되었다. 다음 에피소드인 "[Doomsday](../Page/Doomsday.md "wikilink")"와 최종화 2부작을 이루며 그 중 1부에 해당되는 에피소드다. 작가는 드라마 프로듀서인 [러셀 T 데이비스가](../Page/러셀_T_데이비스.md "wikilink") 맡았고, 감독은 [그레이엄 하퍼가](https://ko.wikipedia.org/wiki/그레이엄_하퍼 "wikilink") 맡았다.
 
 이 에피소드는 영국 런던을 배경으로 하며, 시점은 "[Love & Monsters](../Page/Love_&_Monsters.md "wikilink")"에서의 사건이 벌어지고 난 이후이다. [토치우드 기관이라는](../Page/토치우드_기관.md "wikilink") 비밀 단체가 차원의 틈을 열어 그것을 에너지원으로 활용하려는 실험을 진행 중이었는데, 그 과정에서 나타난 '유령'들이 알고보니 평행세계에서 건너온 사이버맨들로 밝혀지게 됐다는 이야기이다. 그리고 사이버맨들과 똑같이 차원의 틈을 타고 건너온 구형 비행선 속의 정체도 드러나게 된다.
 
@@ -17,7 +17,7 @@
 
 한편 로즈는 타디스를 빠져나와 연구복 차림으로 직원 행세를 하며 토치우드 내부를 돌아보기 시작한다. 이후 구형체가 있는 방까지 도달하는데, 그곳 담당자였던 싱 박사가 다가가 신분을 확인하려 하자 로즈는 닥터의 사이킥 페이퍼로 속이려 한다. 그러나 미리 정신교육 훈련을 받았었던 싱 박사는 로즈가 가짜 직원 행세를 하고 있음을 알아차리고 이본에게 이를 알린다. 그런 뒤 싱 박사는 동료 새뮤얼에게 대문을 봉쇄하라고 시키는데, 이 새뮤얼이 알고보니 평행세계에 남기로 했던 [미키 스미스였다](../Page/미키_스미스.md "wikilink"). 한편 이본 하트맨은 닥터를 추궁하고 결국 닥터는 그 방에 있는 여자가 진짜 로즈이며 지금 곁에 있는 여자는 로즈의 엄마 재키라고 밝힌다. 그런데 관제센터에 있던 직원 세 명이 갑자기 계획에 없던 고스트 시프트를 개시하고 차원의 틈새를 최고 강도로 열어젖힌다. 고스트 시프트와 함께 수백만의 유령이 전세계 곳곳에 다시 나타나고 이내 본모습을 드러내는데, 다름아닌 [사이버맨](../Page/사이버맨.md "wikilink")이었다. 사이버맨의 등장과 동시에 보이드선도 갑자기 가동되더니 겉표면이 열리기 시작한다. 사이버맨들은 토치우드를 접수하고, 전 인류에게 무조건 항복하여 사이버맨으로 변환될 것을 명령한다. 그 사이 닥터는 사이버맨의 우두머리인 '사이버 리더'에게, 대체 어떻게 보이드선 같은 고도의 기술을 일궈낼 수 있었느냐고 묻는다. 그러나 사이버 리더는 보이드선이 자신들의 것이 아니라고 답한다. 그 구형체가 어디서 튀어나온 건지는 사이버맨들도 몰랐고, 그저 그것을 따라서 틈새를 통과해 건너왔던 모양이었다.
 
-구형체가 있는 방에서 미키는 로즈에게 평행세계에서의 전투 이후 갑자기 사이버맨들이 한순간에 사라져버렸다고 밝힌다. 그리고 사이버맨들이 틈새를 건너간 것을 우연히 포착하고는 그것들을 저지하기 위해 원래 세계로 되돌아왔다고 말한다. 미키 역시 구형체를 제어하는 것은 바로 사이버맨이라고 믿고 있었다. 그 순간 갑자기 구형체의 뚜껑이 열리기 시작하고, 미키는 그 안에서 나오는 무언가를 향해 총을 겨눈다. 그런데 거기서 나온 것은 네 명의 [달렉](https://ko.wikipedia.org/wiki/달렉 "wikilink")이었다. 자신들이 도착한 이곳이 지구임을 확인한 달렉들은 곧 이런 말을 하며 에피소드가 끝난다. "말살하라\! 말살하라\!"
+구형체가 있는 방에서 미키는 로즈에게 평행세계에서의 전투 이후 갑자기 사이버맨들이 한순간에 사라져버렸다고 밝힌다. 그리고 사이버맨들이 틈새를 건너간 것을 우연히 포착하고는 그것들을 저지하기 위해 원래 세계로 되돌아왔다고 말한다. 미키 역시 구형체를 제어하는 것은 바로 사이버맨이라고 믿고 있었다. 그 순간 갑자기 구형체의 뚜껑이 열리기 시작하고, 미키는 그 안에서 나오는 무언가를 향해 총을 겨눈다. 그런데 거기서 나온 것은 네 명의 [달렉](../Page/달렉.md "wikilink")이었다. 자신들이 도착한 이곳이 지구임을 확인한 달렉들은 곧 이런 말을 하며 에피소드가 끝난다. "말살하라\! 말살하라\!"
 
 ### 다른 에피소드와의 연관성
 
@@ -25,7 +25,7 @@
 
 에피소드에서 등장하는 사이버맨은 평행우주에서 건너온 사이버맨들로서, 이전 에피소드인 "[The Age of Steel](../Page/The_Age_of_Steel.md "wikilink")"와 "[Rise of the Cybermen](../Page/Rise_of_the_Cybermen.md "wikilink")"에서 다뤄졌다.\[3\]\[4\]\[5\] 사이버맨이 어느 가정집에 들어갈 때 문짝을 박살내고 들어가는데, 이는 사이버맨 특유의 연출로서 〈[The Tomb of the Cybermen](https://ko.wikipedia.org/wiki/The_Tomb_of_the_Cybermen "wikilink")〉, 〈[The Invasion](https://ko.wikipedia.org/wiki/The_Invasion "wikilink")〉, 〈[Earthshock](https://ko.wikipedia.org/wiki/Earthshock "wikilink")〉 등의 올닥 시절 에피소드에서도 나타난다.\[6\]\[7\]\[8\]\[9\] 또 작중 미키가 언급하는 '사이버킹'은 나중에 "[The Next Doctor](https://ko.wikipedia.org/wiki/The_Next_Doctor "wikilink")"에서 등장하게 된다.
 
-또 시즌 3에서 닥터의 새 동행자 [마사 존스로](https://ko.wikipedia.org/wiki/마사_존스 "wikilink") 활약하는 [프리마 아제만이](https://ko.wikipedia.org/wiki/프리마_아제만 "wikilink") 처음 출연하는 에피소드이기도 하다. 다만 여기서도 마사 존스로 나오는 것은 아니고, 아돌라 (Adeola)라는 이름의 토치우드 산하 직원으로 출연한다. 이에 대해 시즌 3에서 마사 존스가 "카나리 워프에서 일하던 사촌"이라 언급하고 지나간다. 프리마 아제만이 빌리 파이퍼의 후임 [동행자](https://ko.wikipedia.org/wiki/동행자_\(닥터_후\) "wikilink") 배역으로 나서게 된 계기는 이 에피소드에서 보여준 연기에 러셀 T 데이비스가 감탄했기 때문이라고 한다.
+또 시즌 3에서 닥터의 새 동행자 [마사 존스로](https://ko.wikipedia.org/wiki/마사_존스 "wikilink") 활약하는 [프리마 아제만이](https://ko.wikipedia.org/wiki/프리마_아제만 "wikilink") 처음 출연하는 에피소드이기도 하다. 다만 여기서도 마사 존스로 나오는 것은 아니고, 아돌라 (Adeola)라는 이름의 토치우드 산하 직원으로 출연한다. 이에 대해 시즌 3에서 마사 존스가 "카나리 워프에서 일하던 사촌"이라 언급하고 지나간다. 프리마 아제만이 빌리 파이퍼의 후임 [동행자](../Page/동행자_\(닥터_후\).md "wikilink") 배역으로 나서게 된 계기는 이 에피소드에서 보여준 연기에 러셀 T 데이비스가 감탄했기 때문이라고 한다.
 
 사이버맨과 달렉이 한 에피소드에 동시에 등장한 사례는 올닥 시절의 〈[The Wheel in Space](https://ko.wikipedia.org/wiki/The_Wheel_in_Space "wikilink")〉, 〈[The War Games](https://ko.wikipedia.org/wiki/The_War_Games "wikilink")〉, 〈[The Mind of Evil](https://ko.wikipedia.org/wiki/The_Mind_of_Evil "wikilink")〉, 〈[Logopolis](https://ko.wikipedia.org/wiki/Logopolis "wikilink")〉, 〈[The Five Doctors](https://ko.wikipedia.org/wiki/The_Five_Doctors "wikilink")〉 에피소드와 시즌1의 "[Dalek](../Page/Dalek.md "wikilink")"이 있었지만, 사이버맨과 달렉이 동시에 주연급으로 나와 대결하는 것은 이번 2부작이 처음이었다.
 

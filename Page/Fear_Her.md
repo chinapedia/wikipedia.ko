@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Fear Her](https://ko.wikipedia.org/wiki/Fear_Her).
 
 
-"**Fear Her**" (KBS 방영 제목: 〈그림 습격사건〉)는 영국의 SF 드라마 《[닥터 후](https://ko.wikipedia.org/wiki/닥터_후 "wikilink")》 [시즌 2의](../Page/닥터_후_\(시리즈_2\).md "wikilink") 열한 번째 에피소드로, 2006년 6월 24일에 처음 방영되었다. [매튜 그레이엄이](https://ko.wikipedia.org/wiki/매튜_그레이엄 "wikilink") 각본을 맡았으며 [유로스 린이](https://ko.wikipedia.org/wiki/유로스_린 "wikilink") 감독했다.
+"**Fear Her**" (KBS 방영 제목: 〈그림 습격사건〉)는 영국의 SF 드라마 《[닥터 후](../Page/닥터_후.md "wikilink")》 [시즌 2의](../Page/닥터_후_\(시리즈_2\).md "wikilink") 열한 번째 에피소드로, 2006년 6월 24일에 처음 방영되었다. [매튜 그레이엄이](https://ko.wikipedia.org/wiki/매튜_그레이엄 "wikilink") 각본을 맡았으며 [유로스 린이](https://ko.wikipedia.org/wiki/유로스_린 "wikilink") 감독했다.
 
-이 에피소드는 [2012년 런던 하계 올림픽의](https://ko.wikipedia.org/wiki/2012년_하계_올림픽 "wikilink") 개막식 날을 무대로 한다. 런던 교외의 어느 동네에서 이웃 사람들이 하나둘씩 사라지는 이상한 일이 벌어지고, 시간여행자 [닥터](https://ko.wikipedia.org/wiki/닥터_\(닥터_후\) "wikilink") ([데이비드 테넌트](https://ko.wikipedia.org/wiki/데이비드_테넌트 "wikilink"))와 [동행자인](https://ko.wikipedia.org/wiki/동행자_\(닥터_후\) "wikilink") [로즈 타일러](../Page/로즈_타일러.md "wikilink") ([빌리 파이퍼](https://ko.wikipedia.org/wiki/빌리_파이퍼 "wikilink"))는 외롭고 수상한 소녀 클로이 웨버 (아비솔라 아그바제)를 만나 그 내막을 밝히게 된다.
+이 에피소드는 [2012년 런던 하계 올림픽의](https://ko.wikipedia.org/wiki/2012년_하계_올림픽 "wikilink") 개막식 날을 무대로 한다. 런던 교외의 어느 동네에서 이웃 사람들이 하나둘씩 사라지는 이상한 일이 벌어지고, 시간여행자 [닥터](../Page/닥터_\(닥터_후\).md "wikilink") ([데이비드 테넌트](../Page/데이비드_테넌트.md "wikilink"))와 [동행자인](../Page/동행자_\(닥터_후\).md "wikilink") [로즈 타일러](../Page/로즈_타일러.md "wikilink") ([빌리 파이퍼](https://ko.wikipedia.org/wiki/빌리_파이퍼 "wikilink"))는 외롭고 수상한 소녀 클로이 웨버 (아비솔라 아그바제)를 만나 그 내막을 밝히게 된다.
 
-원래 계획대로라면 [스티븐 프라이가](https://ko.wikipedia.org/wiki/스티븐_프라이 "wikilink") 쓴 에피소드가 들어갈 자리였으나 취소되는 바람에 대신 투입된 저예산 에피소드다. 이 에피소드 직후에 방영될 최종화가 다소 어두운 분위기였기 때문에 작가 그레이엄은 아이들을 위한 가벼운 에피소드를 써 달라는 요청을 받았다고 한다. 작중 배경과는 달리 실제 쵤영은 [카디프](https://ko.wikipedia.org/wiki/카디프 "wikilink")의 [트레모파](https://ko.wikipedia.org/wiki/트레모파 "wikilink") 주택가에서 이뤄졌다. 영국 첫 방영시 714만 명이 시청하였으며, AI지수로 집계된 시청률은 83%에 달했다. 방영 이후 작가 그레이엄은 아이들로부터 재밌었다는 편지를 받기도 하였으나, 성인 팬과 평론가들 사이에서는 그다지 좋은 평가를 받지 못했다.
+원래 계획대로라면 [스티븐 프라이가](../Page/스티븐_프라이.md "wikilink") 쓴 에피소드가 들어갈 자리였으나 취소되는 바람에 대신 투입된 저예산 에피소드다. 이 에피소드 직후에 방영될 최종화가 다소 어두운 분위기였기 때문에 작가 그레이엄은 아이들을 위한 가벼운 에피소드를 써 달라는 요청을 받았다고 한다. 작중 배경과는 달리 실제 쵤영은 [카디프](../Page/카디프.md "wikilink")의 [트레모파](https://ko.wikipedia.org/wiki/트레모파 "wikilink") 주택가에서 이뤄졌다. 영국 첫 방영시 714만 명이 시청하였으며, AI지수로 집계된 시청률은 83%에 달했다. 방영 이후 작가 그레이엄은 아이들로부터 재밌었다는 편지를 받기도 하였으나, 성인 팬과 평론가들 사이에서는 그다지 좋은 평가를 받지 못했다.
 
 ## 줄거리
 

@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [SBS   ](https://ko.wikipedia.org/wiki/SBS___).
 
 
-아래는 [SBS TV의](https://ko.wikipedia.org/wiki/SBS_TV "wikilink") 다큐멘터리 프로그램 《**[SBS 스페셜](https://ko.wikipedia.org/wiki/SBS_스페셜 "wikilink")**》의 **에피소드 목록**이다.
+아래는 [SBS TV의](../Page/SBS_TV.md "wikilink") 다큐멘터리 프로그램 《**[SBS 스페셜](../Page/SBS_스페셜.md "wikilink")**》의 **에피소드 목록**이다.
 
 ## 방영 리스트
 
   - SBS 스페셜의 방영 리스트는 가독성을 높이기 위해, **방송 년도별**로 표시하였다.
 
-### [<span style="color:black">2005년</span>](https://ko.wikipedia.org/wiki/2005년 "wikilink")
+### [<span style="color:black">2005년</span>](../Page/2005년.md "wikilink")
 
 | 회차  | 방송 일자      | 부제 (서브 타이틀)                    |
 | --- | ---------- | ------------------------------ |
@@ -36,7 +36,7 @@
 | 023 | 2005/12/25 | 크리스의 기적                        |
 |     |            |                                |
 
-### [<span style="color:black">2006년</span>](https://ko.wikipedia.org/wiki/2006년 "wikilink")
+### [<span style="color:black">2006년</span>](../Page/2006년.md "wikilink")
 
 | 회차  | 방송 일자      | 부제 (서브 타이틀)                     |
 | --- | ---------- | ------------------------------- |
@@ -86,7 +86,7 @@
 | 067 | 2006/12/17 | 백 마디 말보다 소중한 단 한 번의 포옹          |
 |     |            |                                 |
 
-### [<span style="color:black">2007년</span>](https://ko.wikipedia.org/wiki/2007년 "wikilink")
+### [<span style="color:black">2007년</span>](../Page/2007년.md "wikilink")
 
 | 회차  | 방송 일자      | 부제 (서브 타이틀)                      |
 | --- | ---------- | -------------------------------- |
@@ -132,7 +132,7 @@
 | 107 | 2007/12/23 | 용서, 그 먼 길 끝에 당신이 있습니까?           |
 |     |            |                                  |
 
-### [<span style="color:black">2008년</span>](https://ko.wikipedia.org/wiki/2008년 "wikilink")
+### [<span style="color:black">2008년</span>](../Page/2008년.md "wikilink")
 
 | 회차  | 방송 일자      | 부제 (서브 타이틀)                      |
 | --- | ---------- | -------------------------------- |
@@ -177,7 +177,7 @@
 | 147 | 2008/12/21 | 인재 전쟁 (2)                        |
 |     |            |                                  |
 
-### [<span style="color:black">2009년</span>](https://ko.wikipedia.org/wiki/2009년 "wikilink")
+### [<span style="color:black">2009년</span>](../Page/2009년.md "wikilink")
 
 | 회차  | 방송 일자      | 부제 (서브 타이틀)                     |
 | --- | ---------- | ------------------------------- |
@@ -229,7 +229,7 @@
 | 193 | 2009/12/27 | 승일 스토리 - 나는 산다                  |
 |     |            |                                 |
 
-### [<span style="color:black">2010년</span>](https://ko.wikipedia.org/wiki/2010년 "wikilink")
+### [<span style="color:black">2010년</span>](../Page/2010년.md "wikilink")
 
 | 회차  | 방송 일자      | 부제 (서브 타이틀)           |
 | --- | ---------- | --------------------- |
@@ -273,7 +273,7 @@
 | 231 | 2010/12/26 | 동수씨, 다시 일어서다          |
 |     |            |                       |
 
-### [<span style="color:black">2011년</span>](https://ko.wikipedia.org/wiki/2011년 "wikilink")
+### [<span style="color:black">2011년</span>](../Page/2011년.md "wikilink")
 
 | 회차  | 방송 일자      | 부제 (서브 타이틀)               |
 | --- | ---------- | ------------------------- |
@@ -320,7 +320,7 @@
 | 272 | 2011/12/25 | 기적의 하모니 (2)               |
 |     |            |                           |
 
-### [<span style="color:black">2012년</span>](https://ko.wikipedia.org/wiki/2012년 "wikilink")
+### [<span style="color:black">2012년</span>](../Page/2012년.md "wikilink")
 
 | 회차  | 방송 일자      | 부제 (서브 타이틀)                   |
 | --- | ---------- | ----------------------------- |
@@ -365,7 +365,7 @@
 | 311 | 2012/11/11 | 새로운 시작, 하얀 방                  |
 |     |            |                               |
 
-### [<span style="color:black">2013년</span>](https://ko.wikipedia.org/wiki/2013년 "wikilink")
+### [<span style="color:black">2013년</span>](../Page/2013년.md "wikilink")
 
 | 회차  | 방송 일자      | 부제 (서브 타이틀)                |
 | --- | ---------- | -------------------------- |
@@ -408,7 +408,7 @@
 | 348 | 2013/12/22 | 기적을 만든 아이들 - 꿈의 오케스트라      |
 |     |            |                            |
 
-### [<span style="color:black">2014년</span>](https://ko.wikipedia.org/wiki/2014년 "wikilink")
+### [<span style="color:black">2014년</span>](../Page/2014년.md "wikilink")
 
 | 회차  | 방송 일자      | 부제 (서브 타이틀)              |
 | --- | ---------- | ------------------------ |
@@ -449,7 +449,7 @@
 | 383 | 2014/12/28 | 나는 산다. 이선희, 대한민국을 위로하다   |
 |     |            |                          |
 
-### [<span style="color:black">2015년</span>](https://ko.wikipedia.org/wiki/2015년 "wikilink")
+### [<span style="color:black">2015년</span>](../Page/2015년.md "wikilink")
 
 | 회차  | 방송 일자      | 부제 (서브 타이틀)                  | 비고 |
 | --- | ---------- | ---------------------------- | -- |
@@ -493,7 +493,7 @@
 | 421 | 2015/12/20 | 발칙한 그녀들                      |    |
 |     |            |                              |    |
 
-### [<span style="color:black">2016년</span>](https://ko.wikipedia.org/wiki/2016년 "wikilink")
+### [<span style="color:black">2016년</span>](../Page/2016년.md "wikilink")
 
 | 회차  | 방송 일자      | 부제 (서브 타이틀)                               | 비고                                                                              |
 | --- | ---------- | ----------------------------------------- | ------------------------------------------------------------------------------- |
@@ -536,7 +536,7 @@
 | 458 | 2016/12/18 | 지금까지 없던 세상, IoT(사물형 인터넷)                  |                                                                                 |
 |     |            |                                           |                                                                                 |
 
-### [<span style="color:black">2017년</span>](https://ko.wikipedia.org/wiki/2017년 "wikilink")
+### [<span style="color:black">2017년</span>](../Page/2017년.md "wikilink")
 
 | 회차  | 방송 일자      | 부제 (서브 타이틀)             | 비고                                                                                                                          |
 | --- | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------- |
@@ -579,7 +579,7 @@
 | 495 | 2017/12/17 | 스타로부터 한 발자국             |                                                                                                                             |
 |     |            |                         |                                                                                                                             |
 
-### [<span style="color:black">2018년</span>](https://ko.wikipedia.org/wiki/2018년 "wikilink")
+### [<span style="color:black">2018년</span>](../Page/2018년.md "wikilink")
 
 | 회차  | 방송 일자      | 부제 (서브 타이틀)                  | 비고 |
 | --- | ---------- | ---------------------------- | -- |
@@ -625,7 +625,7 @@
 | 535 | 2018/12/30 | 2018 고스트 머니                  |    |
 |     |            |                              |    |
 
-### [<span style="color:black">2019년</span>](https://ko.wikipedia.org/wiki/2019년 "wikilink")
+### [<span style="color:black">2019년</span>](../Page/2019년.md "wikilink")
 
 <table>
 <thead>
@@ -667,7 +667,7 @@
 <tr class="odd">
 <td><p>541</p></td>
 <td><p>2월 24일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/입시" title="wikilink">입시</a> 코디 <a href="https://ko.wikipedia.org/wiki/SKY_캐슬" title="wikilink">김주형을 찾아서</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/입시" title="wikilink">입시</a> 코디 <a href="../Page/SKY_캐슬.md" title="wikilink">김주형을 찾아서</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -721,7 +721,7 @@
 <tr class="even">
 <td><p>550</p></td>
 <td><p>4월 28일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미세먼지" title="wikilink">미세먼지</a>에 관한 불편한 진실</p></td>
+<td><p><a href="../Page/미세먼지.md" title="wikilink">미세먼지</a>에 관한 불편한 진실</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -813,7 +813,7 @@
 <tr class="odd">
 <td><p>566</p></td>
 <td><p>9월 1일</p></td>
-<td><p>오늘도 나는 싸운다 무술감독 <a href="https://ko.wikipedia.org/wiki/정두홍" title="wikilink">정두홍</a></p></td>
+<td><p>오늘도 나는 싸운다 무술감독 <a href="../Page/정두홍.md" title="wikilink">정두홍</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -875,7 +875,7 @@
 </tbody>
 </table>
 
-### [<span style="color:black">2020년</span>](https://ko.wikipedia.org/wiki/2020년 "wikilink")
+### [<span style="color:black">2020년</span>](../Page/2020년.md "wikilink")
 
 | 회차  | 방송 일자  | 부제 (서브 타이틀)       | 비고 |
 | --- | ------ | ----------------- | -- |
@@ -901,5 +901,5 @@
 
 1.  12월 22일과 12월 29일은 다하지 못한 말로 나온다. 2012년 9월 20일 세상에 이런일이 709회 출연자 그후 모습이기도 하다.
 2.  <http://wizard2.sbs.co.kr/resource/template/contents/07_review_detail.jsp?vProgId=1000083&vVodId=V0000010099&vMenuId=1001391&rpage=4&cpage=9&vVodCnt1=00709&vVodCnt2=00&vSection=V5&vCompressCode=>
-3.  참고로 [SBS](https://ko.wikipedia.org/wiki/SBS "wikilink") 공채 탤런트는 [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink") 1기부터 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") 11기까지이며, 총 배출자는 200여명이다.
+3.  참고로 [SBS](../Page/SBS.md "wikilink") 공채 탤런트는 [1991년](../Page/1991년.md "wikilink") 1기부터 [2009년](../Page/2009년.md "wikilink") 11기까지이며, 총 배출자는 200여명이다.
 4.  SBS 11기 공채 탤런트에 관한 이야기를 다루었다.

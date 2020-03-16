@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [OKEANOS](https://ko.wikipedia.org/wiki/OKEANOS).
 
 
-**태양계 외부 탐사와 천문학을 위한 대형 키트크래프트**(Outsized Kite-craft for Exploration and Astronautics in the Outer Solar System), 약칭 **OKEANOS**는 [목성 트로이군을](https://ko.wikipedia.org/wiki/목성_트로이군 "wikilink") 탐사하는 [JAXA](https://ko.wikipedia.org/wiki/JAXA "wikilink")의 탐사선이다.\[1\]\[2\]\[3\]\[4\]\[5\] [우주범선](https://ko.wikipedia.org/wiki/우주범선 "wikilink") 기술을 사용해 추진하며, 목적은 [목성 트로이군의](https://ko.wikipedia.org/wiki/목성_트로이군 "wikilink") 사진을 촬영하고 구성 성분을 분석한 뒤 [지구로 샘플을 보내는 것이다](https://ko.wikipedia.org/wiki/샘플_리턴_미션 "wikilink").\[6\]\[7\]\[8\]\[9\]\[10\]\[11\]\[12\]\[13\] 특이사항으로는 장기 프로젝트로, 2026년 발사되어\[14\]\[15\] 2050년대 귀환한다.\[16\]\[17\]
+**태양계 외부 탐사와 천문학을 위한 대형 키트크래프트**(Outsized Kite-craft for Exploration and Astronautics in the Outer Solar System), 약칭 **OKEANOS**는 [목성 트로이군을](../Page/목성_트로이군.md "wikilink") 탐사하는 [JAXA](https://ko.wikipedia.org/wiki/JAXA "wikilink")의 탐사선이다.\[1\]\[2\]\[3\]\[4\]\[5\] [우주범선](https://ko.wikipedia.org/wiki/우주범선 "wikilink") 기술을 사용해 추진하며, 목적은 [목성 트로이군의](../Page/목성_트로이군.md "wikilink") 사진을 촬영하고 구성 성분을 분석한 뒤 [지구로 샘플을 보내는 것이다](https://ko.wikipedia.org/wiki/샘플_리턴_미션 "wikilink").\[6\]\[7\]\[8\]\[9\]\[10\]\[11\]\[12\]\[13\] 특이사항으로는 장기 프로젝트로, 2026년 발사되어\[14\]\[15\] 2050년대 귀환한다.\[16\]\[17\]
 
 ## 역사와 제작배경
 
-2010년에 들어가자, 여러 소행성 탐사선이 계획되고, 세계 여러 나라가 [소행성 탐사에](https://ko.wikipedia.org/wiki/소행성_탐사 "wikilink") 열을 올렸다.\[18\] 이에 일본도 [하야부사와](https://ko.wikipedia.org/wiki/하야부사_\(우주선\) "wikilink") [2호를](https://ko.wikipedia.org/wiki/하야부사_2호 "wikilink") 발사하였다. 그리고 하야부사 1, 2호 이후의 차기작으로 OKEANOS가 설계되었다.\[19\]
+2010년에 들어가자, 여러 소행성 탐사선이 계획되고, 세계 여러 나라가 [소행성 탐사에](https://ko.wikipedia.org/wiki/소행성_탐사 "wikilink") 열을 올렸다.\[18\] 이에 일본도 [하야부사와](../Page/하야부사_\(우주선\).md "wikilink") [2호를](../Page/하야부사_2호.md "wikilink") 발사하였다. 그리고 하야부사 1, 2호 이후의 차기작으로 OKEANOS가 설계되었다.\[19\]
 
 ## 과학장비
 

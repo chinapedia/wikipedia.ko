@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [Cymbals](https://ko.wikipedia.org/wiki/Cymbals).
 
 
-**Cymbals** ()는 [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink")에 결성되어 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink")까지 활동한 일본의 [팝](https://ko.wikipedia.org/wiki/팝 "wikilink") 밴드이다. 장르는 포스트 [시부야케이](https://ko.wikipedia.org/wiki/시부야케이 "wikilink")로 분류되며, 결성 당시 내세운 컨셉은 "귀엽고 장난스런 밴드면서도 [펑크](https://ko.wikipedia.org/wiki/펑크 "wikilink")"였다.
+**Cymbals** ()는 [1997년](../Page/1997년.md "wikilink")에 결성되어 [2003년](../Page/2003년.md "wikilink")까지 활동한 일본의 [팝](https://ko.wikipedia.org/wiki/팝 "wikilink") 밴드이다. 장르는 포스트 [시부야케이](https://ko.wikipedia.org/wiki/시부야케이 "wikilink")로 분류되며, 결성 당시 내세운 컨셉은 "귀엽고 장난스런 밴드면서도 [펑크](../Page/펑크.md "wikilink")"였다.
 
 ## 역사
 
-[1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") 결성하였다. 그 당시 일본 인디밴드계에서 유행했던 1960년대 영국 팝과 록에서 상당한 영향을 받았다. 이듬해 [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink")에는 LD\&K 레코드에서 첫 싱글인 〈I'm a Believer〉를 카세트로 출시하였고, 이어서 데뷔 미니 앨범인 《NEAT, OR CYMBAL\!》과 두번째 미니앨범 《Missile & Chocotale》를 발표하였다.
+[1997년](../Page/1997년.md "wikilink") 결성하였다. 그 당시 일본 인디밴드계에서 유행했던 1960년대 영국 팝과 록에서 상당한 영향을 받았다. 이듬해 [1998년](../Page/1998년.md "wikilink")에는 LD\&K 레코드에서 첫 싱글인 〈I'm a Believer〉를 카세트로 출시하였고, 이어서 데뷔 미니 앨범인 《NEAT, OR CYMBAL\!》과 두번째 미니앨범 《Missile & Chocotale》를 발표하였다.
 
-[1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") 싱글 〈오전 8시 탈출 계획〉 (午前8時の脱走計画)으로 [빅터 엔터테인먼트에](https://ko.wikipedia.org/wiki/빅터_엔터테인먼트 "wikilink") 합류해 메이저로 데뷔하였으며, [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink")에는 첫 정규앨범인 《That 's Entertainment》를 발표하였다.
+[1999년](../Page/1999년.md "wikilink") 싱글 〈오전 8시 탈출 계획〉 (午前8時の脱走計画)으로 [빅터 엔터테인먼트에](https://ko.wikipedia.org/wiki/빅터_엔터테인먼트 "wikilink") 합류해 메이저로 데뷔하였으며, [2000년](../Page/2000년.md "wikilink")에는 첫 정규앨범인 《That 's Entertainment》를 발표하였다.
 
-이후로도 정규앨범을 4집까지 내는 등 활동을 이어가다 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [12월 8일](https://ko.wikipedia.org/wiki/12월_8일 "wikilink") 공식 사이트를 통해 밴드 해산을 발표했다. 같은 달에는 베스트 앨범인 《anthology》를 발매하였다. 그리고 2004년 1월 20일 [시부야](https://ko.wikipedia.org/wiki/시부야 "wikilink")의 O-East 공연장에서 마지막 라이브 공연인 "encore"를 마치고 활동을 종료했다.
+이후로도 정규앨범을 4집까지 내는 등 활동을 이어가다 [2003년](../Page/2003년.md "wikilink") [12월 8일](../Page/12월_8일.md "wikilink") 공식 사이트를 통해 밴드 해산을 발표했다. 같은 달에는 베스트 앨범인 《anthology》를 발매하였다. 그리고 2004년 1월 20일 [시부야](../Page/시부야.md "wikilink")의 O-East 공연장에서 마지막 라이브 공연인 "encore"를 마치고 활동을 종료했다.
 
 해산 후 각 멤버들은 솔로 활동을 이어가고 있다. 도키 아사코는 솔로 아티스트가 되었고, 오키이는 프로듀서, 야노는 드러머와 프로듀서 활동을 하고 있다.
 
