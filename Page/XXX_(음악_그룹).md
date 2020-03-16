@@ -3,11 +3,11 @@
 
 **XXX**는 래퍼 [김심야](https://ko.wikipedia.org/wiki/김심야 "wikilink") (Kim Ximya)와 DJ 겸 프로듀서 FRNK (프랭크)가 결성한 대한민국의 듀엣 가수이자 힙합 그룹이다.
 
-[이센스](https://ko.wikipedia.org/wiki/이센스 "wikilink")와 함께 소속된 [Beasts And Natives Alike](https://ko.wikipedia.org/wiki/비스츠앤네이티브스 "wikilink") (BANA)의 소속 아티스트이다.
+[이센스](../Page/이센스.md "wikilink")와 함께 소속된 [Beasts And Natives Alike](https://ko.wikipedia.org/wiki/비스츠앤네이티브스 "wikilink") (BANA)의 소속 아티스트이다.
 
-[2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [7월 9일](https://ko.wikipedia.org/wiki/7월_9일 "wikilink"), EP **KYOMI**를 발표하여 데뷔했다.
+[2016년](../Page/2016년.md "wikilink") [7월 9일](../Page/7월_9일.md "wikilink"), EP **KYOMI**를 발표하여 데뷔했다.
 
-여러 인터뷰에서 밝힌 바로는 팀 명칭은 두 사람 모두 'X'라는 글자를 좋아해서 'X' 3개를 팀명에 넣었다는 것과 [포르노에서](https://ko.wikipedia.org/wiki/포르노그래피 "wikilink") 'XXX'라고 쓰는 것에서 착안해서 팀명을 지었다는 이야기가 있다.
+여러 인터뷰에서 밝힌 바로는 팀 명칭은 두 사람 모두 'X'라는 글자를 좋아해서 'X' 3개를 팀명에 넣었다는 것과 [포르노에서](../Page/포르노그래피.md "wikilink") 'XXX'라고 쓰는 것에서 착안해서 팀명을 지었다는 이야기가 있다.
 
 팀 이름을 부를 때에는 "엑스엑스엑스"라고 부르는 것이 맞다.
 
@@ -34,8 +34,8 @@
 
 ## 같이 보기
 
-  - [피노다인](https://ko.wikipedia.org/wiki/피노다인 "wikilink")
-  - [재지팩트](https://ko.wikipedia.org/wiki/재지팩트 "wikilink")
+  - [피노다인](../Page/피노다인.md "wikilink")
+  - [재지팩트](../Page/재지팩트.md "wikilink")
 
 ## 내용 주
 

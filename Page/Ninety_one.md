@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Ninety one](https://ko.wikipedia.org/wiki/Ninety_one).
 
 
-**Ninety one**은 [카자흐스탄](https://ko.wikipedia.org/wiki/카자흐스탄 "wikilink") 아이돌 그룹이다.
+**Ninety one**은 [카자흐스탄](../Page/카자흐스탄.md "wikilink") 아이돌 그룹이다.
 
 카자흐스탄의 2015년 9월 1일에 데뷔한 5인조 보이즈 밴드, JUZ Entertainment의 소속이다. A.Z. ALEM, ACE, ZAQ, BALA로 구성된 아이돌 그룹이다. 밴드의 프로듀서는 카자흐스탄 아이돌 그룹 <ORDA>의 멤버 - Erbolat Bedelhan이다. 또는 NINETY ONE은 새로운 음악 장르의 창시자 Q-pop (영어 Qazaq-pop). (Kazakhstan-Pop)
 

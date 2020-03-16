@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Pink Stories](https://ko.wikipedia.org/wiki/Pink_Stories).
 
 
-《**Pink Stories**》(핑크 스토리즈, )는 대한민국의 걸 그룹 [에이핑크](https://ko.wikipedia.org/wiki/에이핑크 "wikilink")의 일본에서의 세 번째 정규 음반이다. [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [12월 27일에](https://ko.wikipedia.org/wiki/12월_27일 "wikilink") [유니버설 뮤직 재팬에서](https://ko.wikipedia.org/wiki/유니버설_뮤직_\(일본\) "wikilink") 발매됐다. 모든 수록곡이 일본 오리지널 곡으로 구성되어 있다.
+《**Pink Stories**》(핑크 스토리즈, )는 대한민국의 걸 그룹 [에이핑크](../Page/에이핑크.md "wikilink")의 일본에서의 세 번째 정규 음반이다. [2017년](../Page/2017년.md "wikilink") [12월 27일에](../Page/12월_27일.md "wikilink") [유니버설 뮤직 재팬에서](https://ko.wikipedia.org/wiki/유니버설_뮤직_\(일본\) "wikilink") 발매됐다. 모든 수록곡이 일본 오리지널 곡으로 구성되어 있다.
 
 ## 개요
 

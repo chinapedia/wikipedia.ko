@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BTS ](https://ko.wikipedia.org/wiki/BTS_).
 
 
-**BTS 카운트다운**()는 [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink")에서 [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [10월 12일](https://ko.wikipedia.org/wiki/10월_12일 "wikilink") 방송된 [음악](https://ko.wikipedia.org/wiki/음악 "wikilink") [프로그램](https://ko.wikipedia.org/wiki/프로그램 "wikilink")이다.
+**BTS 카운트다운**()는 [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink")에서 [2017년](../Page/2017년.md "wikilink") [10월 12일](../Page/10월_12일.md "wikilink") 방송된 [음악](../Page/음악.md "wikilink") [프로그램](https://ko.wikipedia.org/wiki/프로그램 "wikilink")이다.
 
 ## 개요
 
@@ -24,7 +24,7 @@
       - [제이홉](../Page/제이홉.md "wikilink")
       - [지민](../Page/지민_\(남자_가수\).md "wikilink")
       - [뷔](../Page/뷔.md "wikilink")
-      - [정국](https://ko.wikipedia.org/wiki/정국 "wikilink")
+      - [정국](../Page/정국.md "wikilink")
 
 ## 제작진
 
@@ -60,7 +60,7 @@
 
 ## 같이 보기
 
-  - [COMEBACK SHOW - BTS DNA](https://ko.wikipedia.org/wiki/COMEBACK_SHOW_-_BTS_DNA "wikilink")
+  - [COMEBACK SHOW - BTS DNA](../Page/COMEBACK_SHOW_-_BTS_DNA.md "wikilink")
   - [엠카운트다운](https://ko.wikipedia.org/wiki/엠카운트다운 "wikilink")
   - [방탄소년단](../Page/방탄소년단.md "wikilink")
 

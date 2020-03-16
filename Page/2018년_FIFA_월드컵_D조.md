@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [2018 FIFA  D](https://ko.wikipedia.org/wiki/2018_FIFA__D).
 
 
-**[2018년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵 "wikilink") D조**는 2018년 6월 16일부터 2018년 6월 26일까지 일정이 진행되었다. D조는 [아르헨티나](https://ko.wikipedia.org/wiki/아르헨티나_축구_국가대표팀 "wikilink"), [아이슬란드](https://ko.wikipedia.org/wiki/아이슬란드_축구_국가대표팀 "wikilink"), [크로아티아](https://ko.wikipedia.org/wiki/크로아티아_축구_국가대표팀 "wikilink"), [나이지리아로](https://ko.wikipedia.org/wiki/나이지리아_축구_국가대표팀 "wikilink") 구성되었다. 4개의 팀들 중 상위 2개의 팀이 16강전에 진출한다.
+**[2018년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵 "wikilink") D조**는 2018년 6월 16일부터 2018년 6월 26일까지 일정이 진행되었다. D조는 [아르헨티나](https://ko.wikipedia.org/wiki/아르헨티나_축구_국가대표팀 "wikilink"), [아이슬란드](../Page/아이슬란드_축구_국가대표팀.md "wikilink"), [크로아티아](../Page/크로아티아_축구_국가대표팀.md "wikilink"), [나이지리아로](../Page/나이지리아_축구_국가대표팀.md "wikilink") 구성되었다. 4개의 팀들 중 상위 2개의 팀이 16강전에 진출한다.
 
 ## 팀
 
@@ -16,7 +16,7 @@
 <th><p>rowspan=2 data-sort-type="number"| 출전 횟수</p></th>
 <th><p>마지막 출전</p></th>
 <th><p>최고 순위</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/FIFA_랭킹" title="wikilink">FIFA 랭킹</a></p></th>
+<th><p><a href="../Page/FIFA_랭킹.md" title="wikilink">FIFA 랭킹</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -34,7 +34,7 @@
 <tr class="even">
 <td><p>D1</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/남미_축구_연맹" title="wikilink">CONMEBOL</a></p></td>
+<td><p><a href="../Page/남미_축구_연맹.md" title="wikilink">CONMEBOL</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵_남아메리카_지역_예선" title="wikilink">남미 지역 예선</a> 3위</p></td>
 <td><p>2017년 10월 10일</p></td>
 <td><p>17회</p></td>
@@ -45,7 +45,7 @@
 <tr class="odd">
 <td><p>D2</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유럽_축구_연맹" title="wikilink">UEFA</a></p></td>
+<td><p><a href="../Page/유럽_축구_연맹.md" title="wikilink">UEFA</a></p></td>
 <td><p><a href="../Page/2018년_FIFA_월드컵_유럽_지역_예선.md" title="wikilink">유럽 예선 I조</a> 1위</p></td>
 <td><p>2017년 10월 9일</p></td>
 <td><p>1회</p></td>
@@ -56,7 +56,7 @@
 <tr class="even">
 <td><p>D3</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유럽_축구_연맹" title="wikilink">UEFA</a></p></td>
+<td><p><a href="../Page/유럽_축구_연맹.md" title="wikilink">UEFA</a></p></td>
 <td><p><a href="../Page/2018년_FIFA_월드컵_유럽_지역_예선_플레이오프.md" title="wikilink">유럽 플레이오프</a> 승자</p></td>
 <td><p>2017년 11월 12일</p></td>
 <td><p>5회</p></td>
@@ -67,7 +67,7 @@
 <tr class="odd">
 <td><p>D4</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아프리카_축구_연맹" title="wikilink">CAF</a></p></td>
+<td><p><a href="../Page/아프리카_축구_연맹.md" title="wikilink">CAF</a></p></td>
 <td><p><a href="../Page/2018년_FIFA_월드컵_아프리카_지역_3차_예선.md" title="wikilink">아프리카 3차 예선 B조</a> 1위</p></td>
 <td><p>2017년 10월 7일</p></td>
 <td><p>6회</p></td>
@@ -352,7 +352,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/즐라트코_달리치" title="wikilink">즐라트코 달리치</a></p></td>
+<td><p><a href="../Page/즐라트코_달리치.md" title="wikilink">즐라트코 달리치</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -610,7 +610,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/즐라트코_달리치" title="wikilink">즐라트코 달리치</a></p></td>
+<td><p><a href="../Page/즐라트코_달리치.md" title="wikilink">즐라트코 달리치</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -993,7 +993,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/리오넬_메시" title="wikilink">리오넬 메시</a> (아르헨티나)</p>
+<a href="../Page/리오넬_메시.md" title="wikilink">리오넬 메시</a> (아르헨티나)</p>
 <p><strong><a href="https://ko.wikipedia.org/wiki/부심" title="wikilink">부심</a>:</strong><br />
 바하틴 두란 (<a href="https://ko.wikipedia.org/wiki/터키_축구_협회" title="wikilink">터키</a>)<br />
 타르크 옹군 (<a href="https://ko.wikipedia.org/wiki/터키_축구_협회" title="wikilink">터키</a>)<br />
@@ -1165,7 +1165,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/즐라트코_달리치" title="wikilink">즐라트코 달리치</a></p></td>
+<td><p><a href="../Page/즐라트코_달리치.md" title="wikilink">즐라트코 달리치</a></p></td>
 <td></td>
 </tr>
 </tbody>

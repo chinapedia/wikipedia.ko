@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Getting Over It with Bennett Foddy](https://ko.wikipedia.org/wiki/Getting_Over_It_with_Bennett_Foddy).
 
 
-《**Getting Over It with Bennett Foddy**》는 [QWOP](../Page/QWOP.md "wikilink")의 제작자인 Bennett Foddy가 개발한 비디오 게임이다. [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 일명 **'항아리 게임**'으로 잘 알려져 있다.\[1\] 이 게임은 2017년 10월, Humble Monthly의 일부로 2017년 10월 6일에 발매되었다. Steam 버전의 게임은 2017년 12월 7일에 출시되었다.\[2\]\[3\]
+《**Getting Over It with Bennett Foddy**》는 [QWOP](../Page/QWOP.md "wikilink")의 제작자인 Bennett Foddy가 개발한 비디오 게임이다. [대한민국](../Page/대한민국.md "wikilink")에서는 일명 **'항아리 게임**'으로 잘 알려져 있다.\[1\] 이 게임은 2017년 10월, Humble Monthly의 일부로 2017년 10월 6일에 발매되었다. Steam 버전의 게임은 2017년 12월 7일에 출시되었다.\[2\]\[3\]
 
 ## 게임 플레이
 

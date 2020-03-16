@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [2018 FIFA  H](https://ko.wikipedia.org/wiki/2018_FIFA__H).
 
 
-**[2018년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵 "wikilink") H조**는 2018년 6월 16일부터 2018년 6월 26일까지 일정이 진행되었다. H조는 [폴란드](https://ko.wikipedia.org/wiki/폴란드_축구_국가대표팀 "wikilink"), [세네갈](https://ko.wikipedia.org/wiki/세네갈_축구_국가대표팀 "wikilink"), [콜롬비아](https://ko.wikipedia.org/wiki/콜롬비아_축구_국가대표팀 "wikilink"), [일본으로](https://ko.wikipedia.org/wiki/일본_축구_국가대표팀 "wikilink") 구성되었다. 4개의 팀들 중 상위 2개의 팀이 16강전에 진출한다.
+**[2018년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵 "wikilink") H조**는 2018년 6월 16일부터 2018년 6월 26일까지 일정이 진행되었다. H조는 [폴란드](../Page/폴란드_축구_국가대표팀.md "wikilink"), [세네갈](../Page/세네갈_축구_국가대표팀.md "wikilink"), [콜롬비아](../Page/콜롬비아_축구_국가대표팀.md "wikilink"), [일본으로](https://ko.wikipedia.org/wiki/일본_축구_국가대표팀 "wikilink") 구성되었다. 4개의 팀들 중 상위 2개의 팀이 16강전에 진출한다.
 
 ## 팀
 
@@ -16,7 +16,7 @@
 <th><p>rowspan=2 data-sort-type="number"| 출전 횟수</p></th>
 <th><p>마지막 출전</p></th>
 <th><p>최고 순위</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/FIFA_랭킹" title="wikilink">FIFA 랭킹</a></p></th>
+<th><p><a href="../Page/FIFA_랭킹.md" title="wikilink">FIFA 랭킹</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -34,7 +34,7 @@
 <tr class="even">
 <td><p>H1</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유럽_축구_연맹" title="wikilink">UEFA</a></p></td>
+<td><p><a href="../Page/유럽_축구_연맹.md" title="wikilink">UEFA</a></p></td>
 <td><p><a href="../Page/2018년_FIFA_월드컵_유럽_지역_예선.md" title="wikilink">유럽 예선 E조</a> 1위</p></td>
 <td><p>2017년 10월 8일</p></td>
 <td><p>8회</p></td>
@@ -45,7 +45,7 @@
 <tr class="odd">
 <td><p>H2</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아프리카_축구_연맹" title="wikilink">CAF</a></p></td>
+<td><p><a href="../Page/아프리카_축구_연맹.md" title="wikilink">CAF</a></p></td>
 <td><p><a href="../Page/2018년_FIFA_월드컵_아프리카_지역_3차_예선.md" title="wikilink">아프리카 3차 예선 D조</a> 1위</p></td>
 <td><p>2017년 11월 10일</p></td>
 <td><p>2회</p></td>
@@ -56,7 +56,7 @@
 <tr class="even">
 <td><p>H3</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/남미_축구_연맹" title="wikilink">CONMEBOL</a></p></td>
+<td><p><a href="../Page/남미_축구_연맹.md" title="wikilink">CONMEBOL</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵_남아메리카_지역_예선" title="wikilink">남미 지역 예선</a> 4위</p></td>
 <td><p>2017년 10월 10일</p></td>
 <td><p>6회</p></td>
@@ -67,7 +67,7 @@
 <tr class="odd">
 <td><p>H4</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아시아_축구_연맹" title="wikilink">AFC</a></p></td>
+<td><p><a href="../Page/아시아_축구_연맹.md" title="wikilink">AFC</a></p></td>
 <td><p><a href="../Page/2018년_FIFA_월드컵_아시아_지역_3차_예선.md" title="wikilink">아시아 3차 예선 B조</a> 1위</p></td>
 <td><p>2017년 8월 31일</p></td>
 <td><p>6회</p></td>
@@ -169,7 +169,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/호세_페케르만" title="wikilink">호세 페케르만</a></p></td>
+<td><p><a href="../Page/호세_페케르만.md" title="wikilink">호세 페케르만</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -427,7 +427,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/알리우_시세" title="wikilink">알리우 시세</a></p></td>
+<td><p><a href="../Page/알리우_시세.md" title="wikilink">알리우 시세</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -452,7 +452,7 @@
 <a href="https://ko.wikipedia.org/wiki/다니_마켈리" title="wikilink">다니 마켈리</a> (<a href="https://ko.wikipedia.org/wiki/포르투갈_축구_연맹" title="wikilink">포르투갈</a>)<br />
 <strong>보조 비디오 판독심:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/티아구_마르팅스" title="wikilink">티아구 마르팅스</a> (<a href="https://ko.wikipedia.org/wiki/포르투갈_축구_연맹" title="wikilink">포르투갈</a>)<br />
-에르난 마이다나 (<a href="https://ko.wikipedia.org/wiki/아르헨티나_축구_협회" title="wikilink">아르헨티나</a>)<br />
+에르난 마이다나 (<a href="../Page/아르헨티나_축구_협회.md" title="wikilink">아르헨티나</a>)<br />
 <a href="https://ko.wikipedia.org/wiki/위우통_삼파이우" title="wikilink">위우통 삼파이우</a> (<a href="https://ko.wikipedia.org/wiki/브라질_축구_협회" title="wikilink">브라질</a>)</p></td>
 </tr>
 </tbody>
@@ -612,7 +612,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/알리우_시세" title="wikilink">알리우 시세</a></p></td>
+<td><p><a href="../Page/알리우_시세.md" title="wikilink">알리우 시세</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -637,7 +637,7 @@
 <a href="https://ko.wikipedia.org/wiki/마시밀리아노_이라티" title="wikilink">마시밀리아노 이라티</a> (<a href="https://ko.wikipedia.org/wiki/이탈리아_축구_협회" title="wikilink">이탈리아</a>)<br />
 <strong>보조 비디오 판독심:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/티아구_마르팅스" title="wikilink">티아구 마르팅스</a> (<a href="https://ko.wikipedia.org/wiki/포르투갈_축구_연맹" title="wikilink">포르투갈</a>)<br />
-에르난 마이다나 (<a href="https://ko.wikipedia.org/wiki/아르헨티나_축구_협회" title="wikilink">아르헨티나</a>)<br />
+에르난 마이다나 (<a href="../Page/아르헨티나_축구_협회.md" title="wikilink">아르헨티나</a>)<br />
 <a href="https://ko.wikipedia.org/wiki/파올로_발레리" title="wikilink">파올로 발레리</a> (<a href="https://ko.wikipedia.org/wiki/이탈리아_축구_협회" title="wikilink">이탈리아</a>)</p></td>
 </tr>
 </tbody>
@@ -797,7 +797,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/호세_페케르만" title="wikilink">호세 페케르만</a></p></td>
+<td><p><a href="../Page/호세_페케르만.md" title="wikilink">호세 페케르만</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -819,7 +819,7 @@
 <strong>후보 대기심:</strong><br />
 크리스티안 시에만 (<a href="https://ko.wikipedia.org/wiki/칠레_축구_연맹" title="wikilink">칠레</a>)<br />
 <strong>비디오 판독심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/마우로_비글리아노" title="wikilink">마우로 비글리아노</a> (<a href="https://ko.wikipedia.org/wiki/아르헨티나_축구_협회" title="wikilink">아르헨티나</a>)<br />
+<a href="https://ko.wikipedia.org/wiki/마우로_비글리아노" title="wikilink">마우로 비글리아노</a> (<a href="../Page/아르헨티나_축구_협회.md" title="wikilink">아르헨티나</a>)<br />
 <strong>보조 비디오 판독심:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/헤리_바르가스" title="wikilink">헤리 바르가스</a> (<a href="https://ko.wikipedia.org/wiki/볼리비아_축구_연맹" title="wikilink">볼리비아</a>)<br />
 로베르토 디아스 페레스 (<a href="https://ko.wikipedia.org/wiki/스페인_왕립_축구_협회" title="wikilink">스페인</a>)<br />
@@ -991,7 +991,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/얀_베드나레크" title="wikilink">얀 베드나레크</a> (폴란드)</p>
+<a href="../Page/얀_베드나레크.md" title="wikilink">얀 베드나레크</a> (폴란드)</p>
 <p><strong><a href="https://ko.wikipedia.org/wiki/부심" title="wikilink">부심</a>:</strong><br />
 제르송 두스 산투스 (<a href="https://ko.wikipedia.org/wiki/앙골라_축구_연맹" title="wikilink">앙골라</a>)<br />
 자켈레 시웰라 (<a href="https://ko.wikipedia.org/wiki/남아프리카_공화국_축구_협회" title="wikilink">남아프리카 공화국</a>)<br />
@@ -1090,7 +1090,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/알리우_시세" title="wikilink">알리우 시세</a></p></td>
+<td><p><a href="../Page/알리우_시세.md" title="wikilink">알리우 시세</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1163,7 +1163,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/호세_페케르만" title="wikilink">호세 페케르만</a></p></td>
+<td><p><a href="../Page/호세_페케르만.md" title="wikilink">호세 페케르만</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1187,7 +1187,7 @@
 <strong>비디오 판독심:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/다니_마켈리" title="wikilink">다니 마켈리</a> (<a href="../Page/네덜란드_왕립_축구_협회.md" title="wikilink">네덜란드</a>)<br />
 <strong>보조 비디오 판독심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/바스티안_당케르트" title="wikilink">바스티안 당케르트</a> (<a href="https://ko.wikipedia.org/wiki/독일_축구_연맹" title="wikilink">독일</a>)<br />
+<a href="https://ko.wikipedia.org/wiki/바스티안_당케르트" title="wikilink">바스티안 당케르트</a> (<a href="../Page/독일_축구_연맹.md" title="wikilink">독일</a>)<br />
 엘레니토 디 리베라토레 (<a href="https://ko.wikipedia.org/wiki/이탈리아_축구_협회" title="wikilink">이탈리아</a>)<br />
 <a href="https://ko.wikipedia.org/wiki/잔루카_로키" title="wikilink">잔루카 로키</a> (<a href="https://ko.wikipedia.org/wiki/이탈리아_축구_협회" title="wikilink">이탈리아</a>)</p></td>
 </tr>

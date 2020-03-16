@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ FC ](https://ko.wikipedia.org/wiki/_FC_).
 
 
-**로드 FC 어워즈**는 대한민국의 [종합격투기](https://ko.wikipedia.org/wiki/종합격투기 "wikilink") 단체 [로드 FC가](https://ko.wikipedia.org/wiki/로드_FC "wikilink") 매년 12월 개최하는 시상식이다.
+**로드 FC 어워즈**는 대한민국의 [종합격투기](../Page/종합격투기.md "wikilink") 단체 [로드 FC가](https://ko.wikipedia.org/wiki/로드_FC "wikilink") 매년 12월 개최하는 시상식이다.
 
 ## 개요
 
@@ -46,7 +46,7 @@
   - 개최장소 : 서울특별시 홍은동 그랜드힐튼서울 컨벤션센터 그랜드볼룸
   - 개최일 : 2017년 12월 23일
   - 사회 : [김수환](https://ko.wikipedia.org/wiki/김수환_\(아나운서\) "wikilink"), 엄윤주, [윤형빈](https://ko.wikipedia.org/wiki/윤형빈 "wikilink")(보조)
-  - 방송채널 : [MBC스포츠플러스](https://ko.wikipedia.org/wiki/MBC_스포츠플러스 "wikilink")
+  - 방송채널 : [MBC스포츠플러스](../Page/MBC_스포츠플러스.md "wikilink")
 
 ### 부문별 수상자
 
@@ -60,7 +60,7 @@
 <tbody>
 <tr class="odd">
 <td><p>올해의 최고 선수</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김수철_(종합격투기_선수)" title="wikilink">김수철</a></p></td>
+<td><p><a href="../Page/김수철_(종합격투기_선수).md" title="wikilink">김수철</a></p></td>
 </tr>
 <tr class="even">
 <td><p>올해의 KO</p></td>
@@ -93,7 +93,7 @@
 <td><p>1호 - 정문홍 (로드 FC 창립자)</p></td>
 </tr>
 <tr class="odd">
-<td><p>2호 - 홍경호 (<a href="https://ko.wikipedia.org/wiki/지앤푸드" title="wikilink">굽네치킨</a> 회장)</p></td>
+<td><p>2호 - 홍경호 (<a href="../Page/지앤푸드.md" title="wikilink">굽네치킨</a> 회장)</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -119,11 +119,11 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>올해의 최고 선수</strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/권아솔" title="wikilink">권아솔</a> (<a href="https://ko.wikipedia.org/wiki/지앤푸드" title="wikilink">굽네치킨</a> 상)</p></td>
+<td><p><a href="../Page/권아솔.md" title="wikilink">권아솔</a> (<a href="../Page/지앤푸드.md" title="wikilink">굽네치킨</a> 상)</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>기자단 선정 최우수 선수</strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/권아솔" title="wikilink">권아솔</a></p></td>
+<td><p><a href="../Page/권아솔.md" title="wikilink">권아솔</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>올해의 경기</strong></p></td>
@@ -135,7 +135,7 @@
 <td><p>난딘에르덴 (vs. 박원식) (동화세상에듀코 상)</p></td>
 </tr>
 <tr class="odd">
-<td><p>브루노 미란다 (vs. 김승연) (<a href="https://ko.wikipedia.org/wiki/지앤푸드" title="wikilink">굽네치킨</a> 상)</p></td>
+<td><p>브루노 미란다 (vs. 김승연) (<a href="../Page/지앤푸드.md" title="wikilink">굽네치킨</a> 상)</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -169,11 +169,11 @@
 
 ### 부문별 수상자
 
-| 부문         | 수상자                                                                                                  |
-| ---------- | ---------------------------------------------------------------------------------------------------- |
-| **올해의 경기** | [권아솔](https://ko.wikipedia.org/wiki/권아솔 "wikilink") VS [이광희](../Page/이광희_\(종합격투기_선수\).md "wikilink") |
-| **올해의 KO** | 카를로스 도요타 (vs. [최홍만](https://ko.wikipedia.org/wiki/최홍만 "wikilink"))                                   |
-| **올해의 신인** | [이예지](../Page/이예지.md "wikilink")                                                                     |
+| 부문         | 수상자                                                                               |
+| ---------- | --------------------------------------------------------------------------------- |
+| **올해의 경기** | [권아솔](../Page/권아솔.md "wikilink") VS [이광희](../Page/이광희_\(종합격투기_선수\).md "wikilink") |
+| **올해의 KO** | 카를로스 도요타 (vs. [최홍만](https://ko.wikipedia.org/wiki/최홍만 "wikilink"))                |
+| **올해의 신인** | [이예지](../Page/이예지.md "wikilink")                                                  |
 
 ## 2014 로드 FC 어워즈
 
@@ -183,14 +183,14 @@
 
 ### 부문별 수상자
 
-| 부문           | 수상자                                                                                                                                           |
-| ------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| **올해의 경기**   | 박정교 (정병원 상) VS 김대성 (홍익육개장 상)                                                                                                                  |
-| **올해의 헤드코치** | 양성훈 ([굽네치킨](https://ko.wikipedia.org/wiki/지앤푸드 "wikilink") 상)                                                                                 |
-| **올해의 KO**   | [윤형빈](https://ko.wikipedia.org/wiki/윤형빈 "wikilink") (vs. 츠쿠다 다카야) (UFK 상)                                                                     |
-| **올해의 서브미션** | [김수철](https://ko.wikipedia.org/wiki/김수철_\(종합격투기_선수\) "wikilink") (vs. 다무라 이세이) ([박상민](https://ko.wikipedia.org/wiki/박상민_\(가수\) "wikilink") 상) |
-| **올해의 신인**   | [송가연](../Page/송가연.md "wikilink") (외가천리사업단 상)                                                                                                  |
-| **올해의 팀**    | 싸비MMA (대창ENC 상)                                                                                                                               |
+| 부문           | 수상자                                                                                                     |
+| ------------ | ------------------------------------------------------------------------------------------------------- |
+| **올해의 경기**   | 박정교 (정병원 상) VS 김대성 (홍익육개장 상)                                                                            |
+| **올해의 헤드코치** | 양성훈 ([굽네치킨](../Page/지앤푸드.md "wikilink") 상)                                                              |
+| **올해의 KO**   | [윤형빈](https://ko.wikipedia.org/wiki/윤형빈 "wikilink") (vs. 츠쿠다 다카야) (UFK 상)                               |
+| **올해의 서브미션** | [김수철](../Page/김수철_\(종합격투기_선수\).md "wikilink") (vs. 다무라 이세이) ([박상민](../Page/박상민_\(가수\).md "wikilink") 상) |
+| **올해의 신인**   | [송가연](../Page/송가연.md "wikilink") (외가천리사업단 상)                                                            |
+| **올해의 팀**    | 싸비MMA (대창ENC 상)                                                                                         |
 
 ## 2013 로드 FC 어워즈
 
@@ -216,20 +216,20 @@
 
 ### 부문별 수상자
 
-| 부문                                                                   | 수상자                                                                                                                         |
-| -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| 올해의 경기                                                               | 1\. [김수철](https://ko.wikipedia.org/wiki/김수철_\(종합격투기_선수\) "wikilink") VS [문제훈](https://ko.wikipedia.org/wiki/문제훈 "wikilink") |
-| 2\. 뷰실 콜로사 VS [남의철](../Page/남의철.md "wikilink")                       |                                                                                                                             |
-| 3\. 김재영 VS [멜빈 맨호프](https://ko.wikipedia.org/wiki/멜빈_마누프 "wikilink") |                                                                                                                             |
-| 올해의 KO                                                               | 김종대 (vs. [이둘희](https://ko.wikipedia.org/wiki/이둘희 "wikilink"))                                                               |
-| 올해의 서브미션                                                             | 구메 다카스케 (vs. 김창현)                                                                                                           |
+| 부문                                                                   | 수상자                                                                                                      |
+| -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| 올해의 경기                                                               | 1\. [김수철](../Page/김수철_\(종합격투기_선수\).md "wikilink") VS [문제훈](https://ko.wikipedia.org/wiki/문제훈 "wikilink") |
+| 2\. 뷰실 콜로사 VS [남의철](../Page/남의철.md "wikilink")                       |                                                                                                          |
+| 3\. 김재영 VS [멜빈 맨호프](https://ko.wikipedia.org/wiki/멜빈_마누프 "wikilink") |                                                                                                          |
+| 올해의 KO                                                               | 김종대 (vs. [이둘희](https://ko.wikipedia.org/wiki/이둘희 "wikilink"))                                            |
+| 올해의 서브미션                                                             | 구메 다카스케 (vs. 김창현)                                                                                        |
 
 ## 관련 문서
 
   - [로드 FC 챔피언 목록](https://ko.wikipedia.org/wiki/로드_FC_챔피언_목록 "wikilink")
-  - [현 로드 FC 선수 목록](https://ko.wikipedia.org/wiki/현_로드_FC_선수_목록 "wikilink")
-  - [로드 FC 대회 목록](https://ko.wikipedia.org/wiki/로드_FC_대회_목록 "wikilink")
-  - [로드 FC 기록 목록](https://ko.wikipedia.org/wiki/로드_FC_기록_목록 "wikilink")
+  - [현 로드 FC 선수 목록](../Page/현_로드_FC_선수_목록.md "wikilink")
+  - [로드 FC 대회 목록](../Page/로드_FC_대회_목록.md "wikilink")
+  - [로드 FC 기록 목록](../Page/로드_FC_기록_목록.md "wikilink")
 
 ## 각주
 

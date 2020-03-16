@@ -3,7 +3,7 @@
 
 [right](https://ko.wikipedia.org/wiki/파일:Seung_Yeon_Kim_vs._Alexander_Merezhk,_Road_FC_043.jpg "wikilink")
 
-**로드 FC 대회 목록**은 대한민국의 [종합격투기](https://ko.wikipedia.org/wiki/종합격투기 "wikilink") 단체 [로드 FC가](https://ko.wikipedia.org/wiki/로드_FC "wikilink") 현재까지 개최한 모든 대회의 이력을 나타낸 목록이다. 2010년 10월 23일 서울 섬유센터 이벤트 홀에서 첫 대회 [로드 FC 001이](https://ko.wikipedia.org/wiki/Road_FC_001 "wikilink") 개최되었다.
+**로드 FC 대회 목록**은 대한민국의 [종합격투기](../Page/종합격투기.md "wikilink") 단체 [로드 FC가](https://ko.wikipedia.org/wiki/로드_FC "wikilink") 현재까지 개최한 모든 대회의 이력을 나타낸 목록이다. 2010년 10월 23일 서울 섬유센터 이벤트 홀에서 첫 대회 [로드 FC 001이](https://ko.wikipedia.org/wiki/Road_FC_001 "wikilink") 개최되었다.
 
 ## 개요
 
@@ -32,7 +32,7 @@
 <td><p>라인재 vs. 양해준</p></td>
 <td><p>2019년 06월 15일</p></td>
 <td><p><a href="../Page/원주종합체육관.md" title="wikilink">원주종합체육관</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/강원도_(남)" title="wikilink">강원도</a> <a href="https://ko.wikipedia.org/wiki/원주시" title="wikilink">원주시</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/강원도_(남)" title="wikilink">강원도</a> <a href="../Page/원주시.md" title="wikilink">원주시</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/Road_FC_053" title="wikilink">Road FC 053</a></p></td>
@@ -63,8 +63,8 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/Road_FC_052" title="wikilink">Road FC 052</a></p></td>
 <td><p>샤밀 자브로프 vs. 만수르 바르나위</p></td>
 <td><p>2019년 2월 23일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/장충체육관" title="wikilink">장충체육관</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울특별시</a></p></td>
+<td><p><a href="../Page/장충체육관.md" title="wikilink">장충체육관</a></p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></p></td>
 </tr>
 <tr class="even">
 <td><p>54</p></td>
@@ -72,14 +72,14 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/함서희" title="wikilink">함서희</a> vs. <a href="../Page/박정은_(종합격투기_선수).md" title="wikilink">박정은</a></p></td>
 <td><p>2018년 12월 15일</p></td>
 <td><p>그랜드힐튼서울 컨벤션센터</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울특별시</a></p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>53</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Road_FC_050" title="wikilink">Road FC 050</a></p></td>
 <td><p><a href="../Page/최무겸.md" title="wikilink">최무겸</a> vs. 이정영</p></td>
 <td><p>2018년 11월 03일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/충무체육관" title="wikilink">충무체육관</a></p></td>
+<td><p><a href="../Page/충무체육관.md" title="wikilink">충무체육관</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/대전광역시" title="wikilink">대전광역시</a></p></td>
 </tr>
 <tr class="even">
@@ -88,7 +88,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/이은수_(종합격투기_선수)" title="wikilink">이은수</a> vs. 미즈노 타츠야</p></td>
 <td><p>2018년 08월 18일</p></td>
 <td><p>그랜드워커힐서울</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울특별시</a></p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>51</p></td>
@@ -96,7 +96,7 @@
 <td><p>최영 vs. 라인재</p></td>
 <td><p>2018년 07월 28일</p></td>
 <td><p><a href="../Page/원주종합체육관.md" title="wikilink">원주종합체육관</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/강원도" title="wikilink">강원도</a> <a href="https://ko.wikipedia.org/wiki/원주시" title="wikilink">원주시</a></p></td>
+<td><p><a href="../Page/강원도.md" title="wikilink">강원도</a> <a href="../Page/원주시.md" title="wikilink">원주시</a></p></td>
 </tr>
 <tr class="even">
 <td><p>50</p></td>
@@ -111,8 +111,8 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/Road_FC_046" title="wikilink">Road FC 046</a></p></td>
 <td><p>이정영 vs. 김세영</p></td>
 <td><p>2018년 3월 10일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/장충체육관" title="wikilink">장충체육관</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울특별시</a></p></td>
+<td><p><a href="../Page/장충체육관.md" title="wikilink">장충체육관</a></p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></p></td>
 </tr>
 <tr class="even">
 <td><p>48</p></td>
@@ -120,7 +120,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/함서희" title="wikilink">함서희</a> vs. <a href="../Page/진_유_프레이.md" title="wikilink">진 유 프레이</a></p></td>
 <td><p>2017년 12월 23일</p></td>
 <td><p>그랜드힐튼서울 컨벤션센터</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울특별시</a></p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>47</p></td>
@@ -135,8 +135,8 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/Road_FC_043" title="wikilink">Road FC 043</a></p></td>
 <td><p>최영 vs. <a href="../Page/김훈_(종합격투기_선수).md" title="wikilink">김훈</a></p></td>
 <td><p>2017년 10월 28일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/장충체육관" title="wikilink">장충체육관</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울특별시</a></p></td>
+<td><p><a href="../Page/장충체육관.md" title="wikilink">장충체육관</a></p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>45</p></td>
@@ -152,31 +152,31 @@
 <td><p>명현만 vs. 크리스 바넷</p></td>
 <td><p>2017년 08월 12일</p></td>
 <td><p><a href="../Page/원주종합체육관.md" title="wikilink">원주종합체육관</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/강원도_(남)" title="wikilink">강원도</a> <a href="https://ko.wikipedia.org/wiki/원주시" title="wikilink">원주시</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/강원도_(남)" title="wikilink">강원도</a> <a href="../Page/원주시.md" title="wikilink">원주시</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>43</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Road_FC_040" title="wikilink">Road FC 040</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/마이티_모" title="wikilink">마이티 모</a> vs. 강동국</p></td>
 <td><p>2017년 07월 15일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/장충체육관" title="wikilink">장충체육관</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울특별시</a></p></td>
+<td><p><a href="../Page/장충체육관.md" title="wikilink">장충체육관</a></p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></p></td>
 </tr>
 <tr class="even">
 <td><p>42</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Road_FC_039" title="wikilink">Road FC 039</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/함서희" title="wikilink">함서희</a> vs. 구로베 미나</p></td>
 <td><p>2017년 06월 10일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/장충체육관" title="wikilink">장충체육관</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울특별시</a></p></td>
+<td><p><a href="../Page/장충체육관.md" title="wikilink">장충체육관</a></p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>41</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Road_FC_038" title="wikilink">Road FC 038</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/김수철_(격투기_선수)" title="wikilink">김수철</a> vs. 김민우</p></td>
 <td><p>2017년 04월 15일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/장충체육관" title="wikilink">장충체육관</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울특별시</a></p></td>
+<td><p><a href="../Page/장충체육관.md" title="wikilink">장충체육관</a></p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></p></td>
 </tr>
 <tr class="even">
 <td><p>40</p></td>
@@ -184,23 +184,23 @@
 <td><p>강진희 vs. 라이카 에미코</p></td>
 <td><p>2017년 03월 11일</p></td>
 <td><p>그랜드힐튼서울 컨벤션센터</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울특별시</a></p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>39</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Road_FC_036" title="wikilink">Road FC 036</a></p></td>
 <td><p><a href="../Page/후쿠다_리키.md" title="wikilink">후쿠다 리키</a> vs. 김내철</p></td>
 <td><p>2017년 02월 11일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/장충체육관" title="wikilink">장충체육관</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울특별시</a></p></td>
+<td><p><a href="../Page/장충체육관.md" title="wikilink">장충체육관</a></p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></p></td>
 </tr>
 <tr class="even">
 <td><p>38</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Road_FC_035" title="wikilink">Road FC 035</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/권아솔" title="wikilink">권아솔</a> vs. 사사키 신지</p></td>
+<td><p><a href="../Page/권아솔.md" title="wikilink">권아솔</a> vs. 사사키 신지</p></td>
 <td><p>2016년 12월 10일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/장충체육관" title="wikilink">장충체육관</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울특별시</a></p></td>
+<td><p><a href="../Page/장충체육관.md" title="wikilink">장충체육관</a></p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>37</p></td>
@@ -215,8 +215,8 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/Road_FC_033" title="wikilink">Road FC 033</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/최홍만" title="wikilink">최홍만</a> vs. <a href="https://ko.wikipedia.org/wiki/마이티_모" title="wikilink">마이티 모</a></p></td>
 <td><p>2016년 09월 24일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/장충체육관" title="wikilink">장충체육관</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울특별시</a></p></td>
+<td><p><a href="../Page/장충체육관.md" title="wikilink">장충체육관</a></p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>35</p></td>
@@ -231,8 +231,8 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/Road_FC_031" title="wikilink">Road FC 031</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/이윤준" title="wikilink">이윤준</a> vs. 조지 루프</p></td>
 <td><p>2016년 05월 14일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/장충체육관" title="wikilink">장충체육관</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울특별시</a></p></td>
+<td><p><a href="../Page/장충체육관.md" title="wikilink">장충체육관</a></p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>33</p></td>
@@ -248,15 +248,15 @@
 <td><p><a href="../Page/최무겸.md" title="wikilink">최무겸</a> vs. <a href="../Page/말론_산드로.md" title="wikilink">말론 산드로</a></p></td>
 <td><p>2016년 03월 12일</p></td>
 <td><p><a href="../Page/원주치악체육관.md" title="wikilink">원주치악체육관</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/강원도_(남)" title="wikilink">강원도</a> <a href="https://ko.wikipedia.org/wiki/원주시" title="wikilink">원주시</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/강원도_(남)" title="wikilink">강원도</a> <a href="../Page/원주시.md" title="wikilink">원주시</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>31</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Road_FC_028" title="wikilink">Road FC 028</a></p></td>
 <td><p><a href="../Page/후쿠다_리키.md" title="wikilink">후쿠다 리키</a> vs. <a href="https://ko.wikipedia.org/wiki/차정환" title="wikilink">차정환</a></p></td>
 <td><p>2016년 01월 31일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/장충체육관" title="wikilink">장충체육관</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울특별시</a></p></td>
+<td><p><a href="../Page/장충체육관.md" title="wikilink">장충체육관</a></p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></p></td>
 </tr>
 <tr class="even">
 <td><p>30</p></td>
@@ -271,8 +271,8 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/Road_FC_026" title="wikilink">Road FC 026</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/조남진_(종합격투기_선수)" title="wikilink">조남진</a> vs. <a href="https://ko.wikipedia.org/wiki/송민종" title="wikilink">송민종</a></p></td>
 <td><p>2015년 10월 09일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/장충체육관" title="wikilink">장충체육관</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울특별시</a></p></td>
+<td><p><a href="../Page/장충체육관.md" title="wikilink">장충체육관</a></p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></p></td>
 </tr>
 <tr class="even">
 <td><p>28</p></td>
@@ -280,7 +280,7 @@
 <td><p><a href="../Page/최무겸.md" title="wikilink">최무겸</a> vs. <a href="https://ko.wikipedia.org/wiki/이윤준" title="wikilink">이윤준</a></p></td>
 <td><p>2015년 08월 22일</p></td>
 <td><p><a href="../Page/원주치악체육관.md" title="wikilink">원주치악체육관</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/강원도_(남)" title="wikilink">강원도</a> <a href="https://ko.wikipedia.org/wiki/원주시" title="wikilink">원주시</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/강원도_(남)" title="wikilink">강원도</a> <a href="../Page/원주시.md" title="wikilink">원주시</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>27</p></td>
@@ -288,31 +288,31 @@
 <td><p><a href="../Page/후쿠다_리키.md" title="wikilink">후쿠다 리키</a> vs. 전어진</p></td>
 <td><p>2015년 07월 25일</p></td>
 <td><p>아리아케 콜리세움</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/도쿄" title="wikilink">도쿄</a></p></td>
+<td><p><a href="../Page/도쿄.md" title="wikilink">도쿄</a></p></td>
 </tr>
 <tr class="even">
 <td><p>26</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Road_FC_023" title="wikilink">Road FC 023</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/이윤준" title="wikilink">이윤준</a> vs. <a href="https://ko.wikipedia.org/wiki/문제훈" title="wikilink">문제훈</a></p></td>
 <td><p>2015년 05월 02일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/장충체육관" title="wikilink">장충체육관</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울특별시</a></p></td>
+<td><p><a href="../Page/장충체육관.md" title="wikilink">장충체육관</a></p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>25</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Road_FC_022" title="wikilink">Road FC 022</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/권아솔" title="wikilink">권아솔</a> vs. <a href="../Page/이광희_(종합격투기_선수).md" title="wikilink">이광희</a></p></td>
+<td><p><a href="../Page/권아솔.md" title="wikilink">권아솔</a> vs. <a href="../Page/이광희_(종합격투기_선수).md" title="wikilink">이광희</a></p></td>
 <td><p>2015년 03월 21일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/장충체육관" title="wikilink">장충체육관</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울특별시</a></p></td>
+<td><p><a href="../Page/장충체육관.md" title="wikilink">장충체육관</a></p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></p></td>
 </tr>
 <tr class="even">
 <td><p>24</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Road_FC_021" title="wikilink">Road FC 021: Champions Day</a></p></td>
 <td><p><a href="../Page/최무겸.md" title="wikilink">최무겸</a> vs. <a href="https://ko.wikipedia.org/wiki/서두원" title="wikilink">서두원</a></p></td>
 <td><p>2015년 02월 01일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/장충체육관" title="wikilink">장충체육관</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울특별시</a></p></td>
+<td><p><a href="../Page/장충체육관.md" title="wikilink">장충체육관</a></p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>23</p></td>
@@ -320,7 +320,7 @@
 <td><p>이길우 vs. <a href="https://ko.wikipedia.org/wiki/이윤준" title="wikilink">이윤준</a></p></td>
 <td><p>2014년 12월 14일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/올림픽_공원_(서울)" title="wikilink">올림픽공원</a> 올림픽홀</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울특별시</a></p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></p></td>
 </tr>
 <tr class="even">
 <td><p>22</p></td>
@@ -328,7 +328,7 @@
 <td><p><a href="../Page/후쿠다_리키.md" title="wikilink">후쿠다 리키</a> vs. <a href="https://ko.wikipedia.org/wiki/이둘희" title="wikilink">이둘희</a></p></td>
 <td><p>2014년 11월 09일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/올림픽_공원_(서울)" title="wikilink">올림픽공원</a> 올림픽홀</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울특별시</a></p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>21</p></td>
@@ -336,15 +336,15 @@
 <td><p><a href="../Page/김훈_(종합격투기_선수).md" title="wikilink">김훈</a> vs. 루이스 라모스</p></td>
 <td><p>2014년 08월 30일</p></td>
 <td><p>그랜드힐튼서울 컨벤션센터</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울특별시</a></p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></p></td>
 </tr>
 <tr class="even">
 <td><p>20</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Road_FC_017" title="wikilink">Road FC 017</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/권아솔" title="wikilink">권아솔</a> vs. 구메 다카스케</p></td>
+<td><p><a href="../Page/권아솔.md" title="wikilink">권아솔</a> vs. 구메 다카스케</p></td>
 <td><p>2014년 08월 17일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/올림픽_공원_(서울)" title="wikilink">올림픽공원</a> 올림픽홀</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울특별시</a></p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>19</p></td>
@@ -360,15 +360,15 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/서두원" title="wikilink">서두원</a> vs. 요아킴 한센</p></td>
 <td><p>2014년 05월 31일</p></td>
 <td><p><a href="../Page/원주치악체육관.md" title="wikilink">원주치악체육관</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/강원도" title="wikilink">강원도</a> <a href="https://ko.wikipedia.org/wiki/원주시" title="wikilink">원주시</a></p></td>
+<td><p><a href="../Page/강원도.md" title="wikilink">강원도</a> <a href="../Page/원주시.md" title="wikilink">원주시</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>17</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Road_FC_Korea_003" title="wikilink">Road FC Korea 003: Korea vs. Brazil</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/권아솔" title="wikilink">권아솔</a> vs. 지오바니 디니즈</p></td>
+<td><p><a href="../Page/권아솔.md" title="wikilink">권아솔</a> vs. 지오바니 디니즈</p></td>
 <td><p>2014년 04월 06일</p></td>
 <td><p>더케이호텔서울 그랜드볼륨홀</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울특별시</a></p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></p></td>
 </tr>
 <tr class="even">
 <td><p>16</p></td>
@@ -376,7 +376,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/이윤준" title="wikilink">이윤준</a> vs. 데라시마 고스케</p></td>
 <td><p>2014년 03월 09일</p></td>
 <td><p>그랜드힐튼서울 컨벤션센터</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울특별시</a></p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>15</p></td>
@@ -384,7 +384,7 @@
 <td><p><a href="../Page/최무겸.md" title="wikilink">최무겸</a> vs. 권배용</p></td>
 <td><p>2014년 02월 09일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/올림픽_공원_(서울)" title="wikilink">올림픽공원</a> 올림픽홀</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울특별시</a></p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></p></td>
 </tr>
 <tr class="even">
 <td><p>14</p></td>
@@ -392,7 +392,7 @@
 <td><p><a href="../Page/후쿠다_리키.md" title="wikilink">후쿠다 리키</a> vs. 김희승</p></td>
 <td><p>2014년 01월 18일</p></td>
 <td><p>그랜드힐튼서울 컨벤션센터</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울특별시</a></p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>13</p></td>
@@ -408,7 +408,7 @@
 <td><p>이길우 vs. <a href="https://ko.wikipedia.org/wiki/송민종" title="wikilink">송민종</a></p></td>
 <td><p>2013년 06월 22일</p></td>
 <td><p><a href="../Page/원주치악체육관.md" title="wikilink">원주치악체육관</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/강원도_(남)" title="wikilink">강원도</a> <a href="https://ko.wikipedia.org/wiki/원주시" title="wikilink">원주시</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/강원도_(남)" title="wikilink">강원도</a> <a href="../Page/원주시.md" title="wikilink">원주시</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>11</p></td>
@@ -416,14 +416,14 @@
 <td><p><a href="../Page/남의철.md" title="wikilink">남의철</a> vs. 구메 다카스케</p></td>
 <td><p>2013년 04월 13일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/올림픽_공원_(서울)" title="wikilink">올림픽공원</a> 올림픽홀</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울특별시</a></p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></p></td>
 </tr>
 <tr class="even">
 <td><p>10</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Road_FC_010" title="wikilink">Road FC 010: In Busan</a></p></td>
 <td><p><a href="../Page/오야마_슌고.md" title="wikilink">오야마 슌고</a> vs. 이은수</p></td>
 <td><p>2012년 11월 24일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/벡스코" title="wikilink">벡스코</a> 오디토리움</p></td>
+<td><p><a href="../Page/벡스코.md" title="wikilink">벡스코</a> 오디토리움</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/부산광역시" title="wikilink">부산광역시</a></p></td>
 </tr>
 <tr class="odd">
@@ -432,39 +432,39 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/멜빈_맨호프" title="wikilink">멜빈 맨호프</a> vs. 김재영</p></td>
 <td><p>2012년 09월 15일</p></td>
 <td><p><a href="../Page/원주치악체육관.md" title="wikilink">원주치악체육관</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/강원도_(남)" title="wikilink">강원도</a> <a href="https://ko.wikipedia.org/wiki/원주시" title="wikilink">원주시</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/강원도_(남)" title="wikilink">강원도</a> <a href="../Page/원주시.md" title="wikilink">원주시</a></p></td>
 </tr>
 <tr class="even">
 <td><p>8</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Road_FC_008" title="wikilink">Road FC 008: Final 4 Bitter Rivals</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/강경호_(격투기_선수)" title="wikilink">강경호</a> vs. 앤드류 레온</p></td>
+<td><p><a href="../Page/강경호_(격투기_선수).md" title="wikilink">강경호</a> vs. 앤드류 레온</p></td>
 <td><p>2012년 06월 16일</p></td>
 <td><p><a href="../Page/원주치악체육관.md" title="wikilink">원주치악체육관</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/강원도_(남)" title="wikilink">강원도</a> <a href="https://ko.wikipedia.org/wiki/원주시" title="wikilink">원주시</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/강원도_(남)" title="wikilink">강원도</a> <a href="../Page/원주시.md" title="wikilink">원주시</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Road_FC_007" title="wikilink">Road FC 007: Recharged</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/강경호_(격투기_선수)" title="wikilink">강경호</a> vs. 사토 쇼코</p></td>
+<td><p><a href="../Page/강경호_(격투기_선수).md" title="wikilink">강경호</a> vs. 사토 쇼코</p></td>
 <td><p>2012년 03월 24일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/장충체육관" title="wikilink">장충체육관</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울특별시</a></p></td>
+<td><p><a href="../Page/장충체육관.md" title="wikilink">장충체육관</a></p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></p></td>
 </tr>
 <tr class="even">
 <td><p>6</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Road_FC_006" title="wikilink">Road FC 006: Final 4</a></p></td>
 <td><p><a href="../Page/오야마_슌고.md" title="wikilink">오야마 슌고</a> vs. 손혜석</p></td>
 <td><p>2012년 02월 05일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/장충체육관" title="wikilink">장충체육관</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울특별시</a></p></td>
+<td><p><a href="../Page/장충체육관.md" title="wikilink">장충체육관</a></p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Road_FC_005" title="wikilink">Road FC 005: Night of Champions</a></p></td>
-<td><p><a href="../Page/오야마_슌고.md" title="wikilink">오야마 슌고</a> vs. <a href="https://ko.wikipedia.org/wiki/데니스_강" title="wikilink">데니스 강</a></p></td>
+<td><p><a href="../Page/오야마_슌고.md" title="wikilink">오야마 슌고</a> vs. <a href="../Page/데니스_강.md" title="wikilink">데니스 강</a></p></td>
 <td><p>2011년 12월 03일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/장충체육관" title="wikilink">장충체육관</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울특별시</a></p></td>
+<td><p><a href="../Page/장충체육관.md" title="wikilink">장충체육관</a></p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></p></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
@@ -472,23 +472,23 @@
 <td><p>김재영 vs. 이은수</p></td>
 <td><p>2011년 10월 03일</p></td>
 <td><p>그랜드힐튼서울 컨벤션센터</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울특별시</a></p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Road_FC_003" title="wikilink">Road FC 003: Explosion</a></p></td>
-<td><p>위승배 vs. <a href="https://ko.wikipedia.org/wiki/데니스_강" title="wikilink">데니스 강</a></p></td>
+<td><p>위승배 vs. <a href="../Page/데니스_강.md" title="wikilink">데니스 강</a></p></td>
 <td><p>2011년 07월 24일</p></td>
 <td><p>그랜드힐튼서울 컨벤션센터</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울특별시</a></p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Road_FC_002" title="wikilink">Road FC 002: Alive</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/데니스_강" title="wikilink">데니스 강</a> vs. 이은수</p></td>
+<td><p><a href="../Page/데니스_강.md" title="wikilink">데니스 강</a> vs. 이은수</p></td>
 <td><p>2011년 04월 16일</p></td>
 <td><p>그랜드힐튼서울 컨벤션센터</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울특별시</a></p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1</p></td>
@@ -496,7 +496,7 @@
 <td><p><a href="../Page/남의철.md" title="wikilink">남의철</a> vs. 오카자와 코우타</p></td>
 <td><p>2010년 10월 23일</p></td>
 <td><p>섬유센터 이벤트홀</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울특별시</a></p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -509,12 +509,12 @@
 
 최근 개최한 [로드 FC 045](https://ko.wikipedia.org/wiki/Road_FC_045 "wikilink") 대회를 기준으로 대한민국을 포함, 총 3개의 나라에서 총 48개의 대회를 개최했다:
 
-**[대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") (total: 42)**
+**[대한민국](../Page/대한민국.md "wikilink") (total: 42)**
 
-  - [서울특별시](https://ko.wikipedia.org/wiki/서울특별시 "wikilink") (31)
-      - [장충체육관](https://ko.wikipedia.org/wiki/장충체육관 "wikilink") (16)
+  - [서울특별시](../Page/서울특별시.md "wikilink") (31)
+      - [장충체육관](../Page/장충체육관.md "wikilink") (16)
       - 그랜드힐튼서울 컨벤션센터 컨벤션홀 (8)
-      - [올림픽 공원](https://ko.wikipedia.org/wiki/올림픽공원_\(서울\) "wikilink") 올림픽홀 (5)
+      - [올림픽 공원](../Page/올림픽공원_\(서울\).md "wikilink") 올림픽홀 (5)
       - 섬유센터 이벤트홀 (1)
       - 더케이호텔서울 그랜드볼륨홀 (1)
   - [강원도](https://ko.wikipedia.org/wiki/강원도_\(남\) "wikilink") 원주시 (7)
@@ -523,31 +523,31 @@
   - [경상북도](https://ko.wikipedia.org/wiki/경상북도 "wikilink") [구미시](https://ko.wikipedia.org/wiki/구미시 "wikilink") (2)
       - [구미실내체육관](../Page/박정희체육관.md "wikilink") (2)
   - [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink") (1)
-      - [벡스코](https://ko.wikipedia.org/wiki/벡스코 "wikilink") 오디토리움 (1)
+      - [벡스코](../Page/벡스코.md "wikilink") 오디토리움 (1)
   - [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") [충주시](https://ko.wikipedia.org/wiki/충주시 "wikilink") (1)
       - [충주세계무술공원](../Page/충주세계무술공원.md "wikilink") (1)
 
-**[중국](https://ko.wikipedia.org/wiki/중국 "wikilink") (total: 5)**
+**[중국](../Page/중국.md "wikilink") (total: 5)**
 
   - [스자좡](https://ko.wikipedia.org/wiki/스자좡 "wikilink") (2)
       - 허베이 체육관 (2)
   - [상하이](https://ko.wikipedia.org/wiki/상하이 "wikilink") (1)
       - [상하이 오리엔탈 스포츠 센터](https://ko.wikipedia.org/wiki/상하이_오리엔탈_스포츠_센터 "wikilink") (1)
   - [베이징](https://ko.wikipedia.org/wiki/베이징 "wikilink") (1)
-      - [베이징 공인체육관](https://ko.wikipedia.org/wiki/베이징_노동자_스포츠_센터 "wikilink") (1)
+      - [베이징 공인체육관](../Page/베이징_노동자_스포츠_센터.md "wikilink") (1)
   - [창사](https://ko.wikipedia.org/wiki/창사 "wikilink") (1)
       - 후난 국제 전시센터 (1)
 
-**[일본](https://ko.wikipedia.org/wiki/일본 "wikilink") (total: 1)**
+**[일본](../Page/일본.md "wikilink") (total: 1)**
 
-  - [도쿄](https://ko.wikipedia.org/wiki/도쿄 "wikilink") (1)
+  - [도쿄](../Page/도쿄.md "wikilink") (1)
       - 아리아케 콜리세움 (1)
 
 ## 관련 문서
 
   - [로드 FC 챔피언 목록](https://ko.wikipedia.org/wiki/로드_FC_챔피언_목록 "wikilink")
   - [현 로드 FC 선수 목록](../Page/현_로드_FC_선수_목록.md "wikilink")
-  - [로드 FC 기록 목록](https://ko.wikipedia.org/wiki/로드_FC_기록_목록 "wikilink")
+  - [로드 FC 기록 목록](../Page/로드_FC_기록_목록.md "wikilink")
   - [로드 FC 어워즈](../Page/로드_FC_어워즈.md "wikilink")
 
 ## 외부 링크

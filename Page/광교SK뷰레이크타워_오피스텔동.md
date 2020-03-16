@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SK ](https://ko.wikipedia.org/wiki/SK_).
 
 
-**광교SK뷰레이크타워 오피스텔동**()은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [수원시](https://ko.wikipedia.org/wiki/수원시 "wikilink") [영통구](https://ko.wikipedia.org/wiki/영통구 "wikilink") [광교동](https://ko.wikipedia.org/wiki/광교동 "wikilink")에 지어지고 있고 높이는 140.4m, 지상 41층짜리의 마천루이다. [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink")에 착공하였고 [2019년 10월에](https://ko.wikipedia.org/wiki/2019년_10월 "wikilink") 완공되었다.
+**광교SK뷰레이크타워 오피스텔동**()은 [대한민국](../Page/대한민국.md "wikilink") [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [수원시](https://ko.wikipedia.org/wiki/수원시 "wikilink") [영통구](../Page/영통구.md "wikilink") [광교동](../Page/광교동.md "wikilink")에 지어지고 있고 높이는 140.4m, 지상 41층짜리의 마천루이다. [2016년](../Page/2016년.md "wikilink")에 착공하였고 [2019년 10월에](https://ko.wikipedia.org/wiki/2019년_10월 "wikilink") 완공되었다.
 
 ## 내부 시설
 
@@ -14,7 +14,7 @@
 
 ## 사건 및 사고
 
-[2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [12월 25일](https://ko.wikipedia.org/wiki/12월_25일 "wikilink") 오후 2시 46분께 화재가 발생했다. 큰불이 나서 1명이 숨졌고 14명이 부상당했다.\[1\]
+[2017년](../Page/2017년.md "wikilink") [12월 25일](../Page/12월_25일.md "wikilink") 오후 2시 46분께 화재가 발생했다. 큰불이 나서 1명이 숨졌고 14명이 부상당했다.\[1\]
 
 ## 더 보기
 

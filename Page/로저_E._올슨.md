@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ E. ](https://ko.wikipedia.org/wiki/_E._).
 
 
-**로저 E. 올슨** (1952년 -)년 미국 텍사스 와코에 있는 바욜라 대학교의 신학 교수이다.\[1\]\[2\] 그는 [아이오와주](https://ko.wikipedia.org/wiki/아이오와주 "wikilink") [디모인](https://ko.wikipedia.org/wiki/디모인 "wikilink")에 태어나 오픈 성경대학교,  북미 침례신학교와  [라이스 대학교에서](https://ko.wikipedia.org/wiki/라이스_대학교 "wikilink") 공부하였다.
+**로저 E. 올슨** (1952년 -)년 미국 텍사스 와코에 있는 바욜라 대학교의 신학 교수이다.\[1\]\[2\] 그는 [아이오와주](../Page/아이오와주.md "wikilink") [디모인](../Page/디모인.md "wikilink")에 태어나 오픈 성경대학교,  북미 침례신학교와  [라이스 대학교에서](../Page/라이스_대학교.md "wikilink") 공부하였다.
 
 ## 참고문헌
 

@@ -50,9 +50,9 @@
 5.  [헤일로도](../Page/헤일로_\(음악_그룹\).md "wikilink") 앨범 참여.그리고 최초의 OST 앨범.
 6.  [허정은](../Page/허정은.md "wikilink"),[황지아](https://ko.wikipedia.org/wiki/황지아 "wikilink"),[오운](https://ko.wikipedia.org/wiki/오운 "wikilink") 도 앨범 참여.
 7.  김청하 미니 1집의 선공개곡.
-8.  [애프터스쿨](https://ko.wikipedia.org/wiki/애프터스쿨 "wikilink")의 멤버 [이가은](https://ko.wikipedia.org/wiki/가은_\(1994년\) "wikilink"),[고유빈](https://ko.wikipedia.org/wiki/프로듀스_48 "wikilink"),[김초연](https://ko.wikipedia.org/wiki/프로듀스_48 "wikilink"),[강혜원](https://ko.wikipedia.org/wiki/프로듀스_48 "wikilink") 외 91명도 앨범 참여.
-9.  [레드벨벳의](../Page/레드벨벳_\(음악_그룹\).md "wikilink") 멤버 [슬기](../Page/슬기.md "wikilink"),[(여자)아이들](https://ko.wikipedia.org/wiki/\(여자\)아이들 "wikilink")의 멤버 [전소연](https://ko.wikipedia.org/wiki/전소연 "wikilink"),[여자친구의](../Page/여자친구_\(음악_그룹\).md "wikilink") 멤버 [신비도](../Page/신비_\(1998년\).md "wikilink") 앨범 참여. 'STATION X O'(스테이션 영)의 네 번째 주인공.
-10. [슈퍼주니어](https://ko.wikipedia.org/wiki/슈퍼주니어 "wikilink")의 멤버 [예성](https://ko.wikipedia.org/wiki/예성 "wikilink")도 앨범 참여.
+8.  [애프터스쿨](../Page/애프터스쿨.md "wikilink")의 멤버 [이가은](https://ko.wikipedia.org/wiki/가은_\(1994년\) "wikilink"),[고유빈](https://ko.wikipedia.org/wiki/프로듀스_48 "wikilink"),[김초연](https://ko.wikipedia.org/wiki/프로듀스_48 "wikilink"),[강혜원](https://ko.wikipedia.org/wiki/프로듀스_48 "wikilink") 외 91명도 앨범 참여.
+9.  [레드벨벳의](../Page/레드벨벳_\(음악_그룹\).md "wikilink") 멤버 [슬기](../Page/슬기.md "wikilink"),[(여자)아이들](../Page/\(여자\)아이들.md "wikilink")의 멤버 [전소연](https://ko.wikipedia.org/wiki/전소연 "wikilink"),[여자친구의](../Page/여자친구_\(음악_그룹\).md "wikilink") 멤버 [신비도](../Page/신비_\(1998년\).md "wikilink") 앨범 참여. 'STATION X O'(스테이션 영)의 네 번째 주인공.
+10. [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")의 멤버 [예성](../Page/예성.md "wikilink")도 앨범 참여.
 11. [그리즐리도](https://ko.wikipedia.org/wiki/그리즐리_\(가수\) "wikilink") 앨범 참여.
-12. [마미손](https://ko.wikipedia.org/wiki/마미손 "wikilink")도 앨범 참여.
+12. [마미손](../Page/마미손.md "wikilink")도 앨범 참여.
 13. [폴킴](https://ko.wikipedia.org/wiki/폴킴 "wikilink")도 앨범 참여.

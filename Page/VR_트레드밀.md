@@ -17,8 +17,8 @@ VR 트레드은 많은 분야에서 융합되어 사용 가능한데 국방, 게
 
 ## 같이 보기
 
-  - [가상현실](https://ko.wikipedia.org/wiki/가상현실 "wikilink")
-  - [증강현실](https://ko.wikipedia.org/wiki/증강현실 "wikilink")(AR)
+  - [가상현실](../Page/가상현실.md "wikilink")
+  - [증강현실](../Page/증강현실.md "wikilink")(AR)
 
 ## 참고 문헌
 

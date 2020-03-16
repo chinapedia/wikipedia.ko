@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DFD ](https://ko.wikipedia.org/wiki/DFD_).
 
 
-**DFD 그룹**은 수제화 사업을 전개하는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [기업](https://ko.wikipedia.org/wiki/기업 "wikilink")으로 [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") 'DFD LIFE. CULTURE'로 사명을 바꾸고 카페, 힐링파크로 사업영역을 넓혔다. 의(衣), 식(食), 주(住), 휴(休), 미(美), 락(樂)의 조화로운 삶을 위해 라이프 스타일과 문화를 제안하는 기업체를 표방하고 있다.\[1\]구두 브랜드로는 SODA, SHOESPA, MANAS, THE FLEXX, DAKS SHOES 등이 있고, 의류 브랜드로서는 BOGNER, CUTTER & BUCK, BOB 등이 있다. 라이프 스타일 사업으로는 복합 문화 공간인 9 BLOCK, 레져 사업으로는 THE STAY AND HEALING PARK와 THE STAR HUE가 있다.
+**DFD 그룹**은 수제화 사업을 전개하는 [대한민국](../Page/대한민국.md "wikilink")의 [기업](https://ko.wikipedia.org/wiki/기업 "wikilink")으로 [2017년](../Page/2017년.md "wikilink") 'DFD LIFE. CULTURE'로 사명을 바꾸고 카페, 힐링파크로 사업영역을 넓혔다. 의(衣), 식(食), 주(住), 휴(休), 미(美), 락(樂)의 조화로운 삶을 위해 라이프 스타일과 문화를 제안하는 기업체를 표방하고 있다.\[1\]구두 브랜드로는 SODA, SHOESPA, MANAS, THE FLEXX, DAKS SHOES 등이 있고, 의류 브랜드로서는 BOGNER, CUTTER & BUCK, BOB 등이 있다. 라이프 스타일 사업으로는 복합 문화 공간인 9 BLOCK, 레져 사업으로는 THE STAY AND HEALING PARK와 THE STAR HUE가 있다.
 
 ## FASHION 브랜드
 

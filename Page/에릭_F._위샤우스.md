@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ F. ](https://ko.wikipedia.org/wiki/_F._).
 
 
-**에릭 프랜시스 위샤우스**(, [1947년](https://ko.wikipedia.org/wiki/1947년 "wikilink") [6월 8일](https://ko.wikipedia.org/wiki/6월_8일 "wikilink") \~ )는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [진화발생생물학](https://ko.wikipedia.org/wiki/진화발생생물학 "wikilink")자이다. 1995년에 초기 배아 분화를 조절하는 유전자 무리인 [호메오박스](https://ko.wikipedia.org/wiki/호메오박스 "wikilink")를 발견한 공로로 [에드워드 B. 루이스](../Page/에드워드_B._루이스.md "wikilink"), [크리스티아네 뉘슬라인폴하르트와](../Page/크리스티아네_뉘슬라인폴하르트.md "wikilink") 함께 [노벨 생리학·의학상을](https://ko.wikipedia.org/wiki/노벨_생리학·의학상 "wikilink") 수상했다.
+**에릭 프랜시스 위샤우스**(, [1947년](../Page/1947년.md "wikilink") [6월 8일](../Page/6월_8일.md "wikilink") \~ )는 [미국](../Page/미국.md "wikilink")의 [진화발생생물학](../Page/진화발생생물학.md "wikilink")자이다. 1995년에 초기 배아 분화를 조절하는 유전자 무리인 [호메오박스](https://ko.wikipedia.org/wiki/호메오박스 "wikilink")를 발견한 공로로 [에드워드 B. 루이스](../Page/에드워드_B._루이스.md "wikilink"), [크리스티아네 뉘슬라인폴하르트와](../Page/크리스티아네_뉘슬라인폴하르트.md "wikilink") 함께 [노벨 생리학·의학상을](../Page/노벨_생리학·의학상.md "wikilink") 수상했다.
 
 ## 수상 경력
 

@@ -5,7 +5,7 @@
 
 ## 개요
 
-  - [박진영](https://ko.wikipedia.org/wiki/박진영 "wikilink")이 작사한 [캐럴](https://ko.wikipedia.org/wiki/캐럴 "wikilink")인 'Merry & Happy'가 추가되었다.\<\!--
+  - [박진영](../Page/박진영.md "wikilink")이 작사한 [캐럴](https://ko.wikipedia.org/wiki/캐럴 "wikilink")인 'Merry & Happy'가 추가되었다.\<\!--
 
 \--\>\[1\] \[2\]
 
@@ -27,7 +27,7 @@
 <td></td>
 <td><p>2017년 12월 11일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 음원</a>[3]</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/JYP_엔터테인먼트" title="wikilink">JYP 엔터테인먼트</a>, <a href="../Page/지니뮤직.md" title="wikilink">지니뮤직</a></p></td>
+<td><p><a href="../Page/JYP_엔터테인먼트.md" title="wikilink">JYP 엔터테인먼트</a>, <a href="../Page/지니뮤직.md" title="wikilink">지니뮤직</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>

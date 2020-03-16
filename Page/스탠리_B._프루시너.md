@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ B. ](https://ko.wikipedia.org/wiki/_B._).
 
 
-**스탠리 벤저민 프루시너**(, [1942년](https://ko.wikipedia.org/wiki/1942년 "wikilink") [5월 28일](https://ko.wikipedia.org/wiki/5월_28일 "wikilink") \~ )는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [신경학](../Page/신경학.md "wikilink")자, [생화학](https://ko.wikipedia.org/wiki/생화학 "wikilink")자이다. 1997년에 감염을 일으키는 [단백질](https://ko.wikipedia.org/wiki/단백질 "wikilink") 분자인 [프리온](https://ko.wikipedia.org/wiki/프리온 "wikilink")을 발견한 공로로 [노벨 생리학·의학상을](https://ko.wikipedia.org/wiki/노벨_생리학·의학상 "wikilink") 수상했다.\[1\]\[2\]
+**스탠리 벤저민 프루시너**(, [1942년](../Page/1942년.md "wikilink") [5월 28일](../Page/5월_28일.md "wikilink") \~ )는 [미국](../Page/미국.md "wikilink")의 [신경학](../Page/신경학.md "wikilink")자, [생화학](https://ko.wikipedia.org/wiki/생화학 "wikilink")자이다. 1997년에 감염을 일으키는 [단백질](../Page/단백질.md "wikilink") 분자인 [프리온](../Page/프리온.md "wikilink")을 발견한 공로로 [노벨 생리학·의학상을](../Page/노벨_생리학·의학상.md "wikilink") 수상했다.\[1\]\[2\]
 
 ## 수상 경력
 
@@ -13,7 +13,7 @@
 
 ## 회원
 
-  - 1997년 : [왕립학회](https://ko.wikipedia.org/wiki/왕립학회 "wikilink") 외국인 회원\[4\]\[5\]
+  - 1997년 : [왕립학회](../Page/왕립학회.md "wikilink") 외국인 회원\[4\]\[5\]
 
 ## 각주
 

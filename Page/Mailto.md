@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Mailto](https://ko.wikipedia.org/wiki/Mailto).
 
 
-**mailto**는 [이메일 주소를](../Page/전자_우편_주소.md "wikilink") 위한 [통합 자원 식별자(URI)](https://ko.wikipedia.org/wiki/통합_자원_식별자 "wikilink") 스킴이다. [이메일 클라이언트로의](https://ko.wikipedia.org/wiki/이메일_클라이언트 "wikilink") 복사 및 입력 과정 없이 사용자들이 특정한 주소로 [전자 우편을](https://ko.wikipedia.org/wiki/전자_우편 "wikilink") 보낼 수 있도록 [웹사이트](https://ko.wikipedia.org/wiki/웹사이트 "wikilink")의 [하이퍼링크](https://ko.wikipedia.org/wiki/하이퍼링크 "wikilink")를 만들기 위해 사용된다. [RFC](https://ko.wikipedia.org/wiki/RFC "wikilink") 2368에 처음 정의되어 1998년 7월에 출판되었고,\[1\] RFC 6068에 사소한 개선이 추가되어 2010년 10월 출판되었다.\[2\]
+**mailto**는 [이메일 주소를](../Page/전자_우편_주소.md "wikilink") 위한 [통합 자원 식별자(URI)](../Page/통합_자원_식별자.md "wikilink") 스킴이다. [이메일 클라이언트로의](../Page/이메일_클라이언트.md "wikilink") 복사 및 입력 과정 없이 사용자들이 특정한 주소로 [전자 우편을](https://ko.wikipedia.org/wiki/전자_우편 "wikilink") 보낼 수 있도록 [웹사이트](../Page/웹사이트.md "wikilink")의 [하이퍼링크](../Page/하이퍼링크.md "wikilink")를 만들기 위해 사용된다. [RFC](../Page/RFC.md "wikilink") 2368에 처음 정의되어 1998년 7월에 출판되었고,\[1\] RFC 6068에 사소한 개선이 추가되어 2010년 10월 출판되었다.\[2\]
 
 ## 예
 
-[HTML](https://ko.wikipedia.org/wiki/HTML "wikilink") 문서에 "mailto"을 사용하면 이메일을 보내기 위한 링크를 생성한다:
+[HTML](../Page/HTML.md "wikilink") 문서에 "mailto"을 사용하면 이메일을 보내기 위한 링크를 생성한다:
 
 ``` html4strict
 <a href="mailto:someone@example.com">Send email</a>

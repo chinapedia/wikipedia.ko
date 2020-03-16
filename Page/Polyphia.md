@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Polyphia](https://ko.wikipedia.org/wiki/Polyphia).
 
 
-**Polyphia**는 2011년 [텍사스주](https://ko.wikipedia.org/wiki/텍사스주 "wikilink") [달라스](https://ko.wikipedia.org/wiki/달라스 "wikilink"), [플라노](https://ko.wikipedia.org/wiki/플라노 "wikilink")에서 결성된 미국의 밴드이다. 지향 장르는 [프로그레시브 메탈이나](https://ko.wikipedia.org/wiki/프로그레시브_메탈 "wikilink"), 한 장르에만 극한되려 하지 않고 [Modern Rock](https://ko.wikipedia.org/wiki/모던_록 "wikilink"), [Art-Rock](https://ko.wikipedia.org/wiki/아트_록 "wikilink"), [Electronica](https://ko.wikipedia.org/wiki/일렉트로니카 "wikilink") 등 여러 장르에 도전하고 서로 접목하기도 하는 등, 다양한 음악성을 보여주고 있다.
+**Polyphia**는 2011년 [텍사스주](../Page/텍사스주.md "wikilink") [달라스](https://ko.wikipedia.org/wiki/달라스 "wikilink"), [플라노](https://ko.wikipedia.org/wiki/플라노 "wikilink")에서 결성된 미국의 밴드이다. 지향 장르는 [프로그레시브 메탈이나](../Page/프로그레시브_메탈.md "wikilink"), 한 장르에만 극한되려 하지 않고 [Modern Rock](../Page/모던_록.md "wikilink"), [Art-Rock](https://ko.wikipedia.org/wiki/아트_록 "wikilink"), [Electronica](https://ko.wikipedia.org/wiki/일렉트로니카 "wikilink") 등 여러 장르에 도전하고 서로 접목하기도 하는 등, 다양한 음악성을 보여주고 있다.
 
 ## 멤버
 
@@ -47,12 +47,12 @@ PlotData =
 `bar:BB from:01/01/2015 till:01/01/2016 color:D`
 `bar:CA from:01/01/2016 till:end color:D}}`
 
-| 이름                                                                                                                                     | 파트                                                     | 활동시기     |
-| -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | -------- |
-| Timothy Henson[1](https://web.archive.org/web/20171203013809/http://www.ibanez.com/artist/u_artist_detail.php?cat_id=1&artist_id=1172) | [리드 기타](https://ko.wikipedia.org/wiki/기타 "wikilink")   | 2010년-현재 |
-| Scott LePage[2](https://web.archive.org/web/20171203013751/http://www.ibanez.com/artist/u_artist_detail.php?cat_id=1&artist_id=1171)   | [리듬 기타](https://ko.wikipedia.org/wiki/기타 "wikilink")   | 2010년-현재 |
-| Clay Gober                                                                                                                             | [베이스](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink") | 2012년-현재 |
-| Clay Aeschliman                                                                                                                        | [드럼](https://ko.wikipedia.org/wiki/드럼_세트 "wikilink")   | 2016년-현재 |
+| 이름                                                                                                                                     | 파트                                                   | 활동시기     |
+| -------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | -------- |
+| Timothy Henson[1](https://web.archive.org/web/20171203013809/http://www.ibanez.com/artist/u_artist_detail.php?cat_id=1&artist_id=1172) | [리드 기타](../Page/기타.md "wikilink")                    | 2010년-현재 |
+| Scott LePage[2](https://web.archive.org/web/20171203013751/http://www.ibanez.com/artist/u_artist_detail.php?cat_id=1&artist_id=1171)   | [리듬 기타](../Page/기타.md "wikilink")                    | 2010년-현재 |
+| Clay Gober                                                                                                                             | [베이스](../Page/베이스_기타.md "wikilink")                  | 2012년-현재 |
+| Clay Aeschliman                                                                                                                        | [드럼](https://ko.wikipedia.org/wiki/드럼_세트 "wikilink") | 2016년-현재 |
 
 현 멤버
 

@@ -5,8 +5,8 @@
 
 ## 캐스팅
 
-  - [하정우](https://ko.wikipedia.org/wiki/하정우 "wikilink") : 에이헵 역
-  - [이선균](https://ko.wikipedia.org/wiki/이선균 "wikilink") : 윤지의 역
+  - [하정우](../Page/하정우.md "wikilink") : 에이헵 역
+  - [이선균](../Page/이선균.md "wikilink") : 윤지의 역
   - [제니퍼 일리](https://ko.wikipedia.org/wiki/제니퍼_일리 "wikilink") : 맥켄지 역
   - [케빈 듀랜드](https://ko.wikipedia.org/wiki/케빈_듀랜드 "wikilink") : 마쿠스 역
   - 마릭 요바 : 제럴드 역
@@ -26,7 +26,7 @@
   - 이상원 : 보좌관 1 역
   - [민무제](../Page/민무제.md "wikilink") : 보좌관 2 역
   - 김길영 : 주치의 역
-  - [양지수](https://ko.wikipedia.org/wiki/양지수 "wikilink") : 유동희 / 에이헵 스탠드인 역
+  - [양지수](../Page/양지수.md "wikilink") : 유동희 / 에이헵 스탠드인 역
   - 마이클 폴 : 퍼스트서비스 팀장 역
   - 최상재 : 보건실 퍼스트서비스 대원 역
   - 배건하 : 퍼스트서비스 대원 1 역
@@ -49,7 +49,7 @@
   - 최상재 : 마쿠스 스탠드인 역
   - 홍성우 : 제럴드 스탠드인 역
   - 정우탁 : 로건 스탠드인 역
-  - [신현빈](https://ko.wikipedia.org/wiki/신현빈 "wikilink") : 이지수 역 (특별출연)
+  - [신현빈](../Page/신현빈.md "wikilink") : 이지수 역 (특별출연)
 
 ## 같이 보기
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [On and On \( \)](https://ko.wikipedia.org/wiki/On_and_On_\(_\)).
 
 
-《**On and On**》은 그룹 [슈퍼주니어](https://ko.wikipedia.org/wiki/슈퍼주니어 "wikilink")의 일본에서 발매된 8번째 싱글이다.
+《**On and On**》은 그룹 [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")의 일본에서 발매된 8번째 싱글이다.
 
 ## 개요
 

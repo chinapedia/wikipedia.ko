@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [IFC \(\)](https://ko.wikipedia.org/wiki/IFC_\(\)).
 
 
-**IFC몰**()은 [서울시](https://ko.wikipedia.org/wiki/서울특별시 "wikilink") [영등포구](https://ko.wikipedia.org/wiki/영등포구 "wikilink") 국제금융로 10번지([여의도동](https://ko.wikipedia.org/wiki/여의도동 "wikilink"))에 있는 [서울국제금융센터](https://ko.wikipedia.org/wiki/서울국제금융센터 "wikilink") 지하에 위치한 [쇼핑몰](https://ko.wikipedia.org/wiki/쇼핑몰 "wikilink")이다.
+**IFC몰**()은 [서울시](../Page/서울특별시.md "wikilink") [영등포구](../Page/영등포구.md "wikilink") 국제금융로 10번지([여의도동](https://ko.wikipedia.org/wiki/여의도동 "wikilink"))에 있는 [서울국제금융센터](https://ko.wikipedia.org/wiki/서울국제금융센터 "wikilink") 지하에 위치한 [쇼핑몰](https://ko.wikipedia.org/wiki/쇼핑몰 "wikilink")이다.
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Yeouido_Skyscrapers.jpg "wikilink")
 
@@ -11,15 +11,15 @@
 
 총 112개의 매장이 입점해있다. 지하 1\~2층은 패션 위주, 지하 3층은 식당가 위주로 구성되어 있다. 영업은 오전 10시부터 오후 10시까지이나 매장별로 다르게 운영될 수 있다.
 
-| 층수 | 구성                                                         |
-| -- | ---------------------------------------------------------- |
-| L1 | 패션                                                         |
-| L2 | 패션 / [영풍문고](https://ko.wikipedia.org/wiki/영풍문고 "wikilink") |
-| L3 | 식당가 / [CGV](https://ko.wikipedia.org/wiki/CGV "wikilink")  |
+| 층수 | 구성                                                        |
+| -- | --------------------------------------------------------- |
+| L1 | 패션                                                        |
+| L2 | 패션 / [영풍문고](../Page/영풍문고.md "wikilink")                   |
+| L3 | 식당가 / [CGV](https://ko.wikipedia.org/wiki/CGV "wikilink") |
 
 ## 사건 및 사고
 
-[2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [12월 31일](https://ko.wikipedia.org/wiki/12월_31일 "wikilink") 지하에서 화재경보가 울렸다. 타는 냄새가 났다.\[1\]\[2\]
+[2017년](../Page/2017년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink") 지하에서 화재경보가 울렸다. 타는 냄새가 났다.\[1\]\[2\]
 
 ## 교통
 

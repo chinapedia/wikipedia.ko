@@ -23,7 +23,7 @@ OPM3은 세 가지 상호 연관된(인터 로킹) 요소로 조직 프로젝트
 
 ## 같이 보기
 
-  - [프로젝트 관리 전문가](https://ko.wikipedia.org/wiki/프로젝트_관리_전문가 "wikilink")
+  - [프로젝트 관리 전문가](../Page/프로젝트_관리_전문가.md "wikilink")
   - [프로젝트 매니저](https://ko.wikipedia.org/wiki/프로젝트_매니저 "wikilink")
   - [프로젝트 관리 연구소](../Page/프로젝트_관리_연구소.md "wikilink")
   - [프로젝트 관리 지식 체계](../Page/프로젝트_관리_지식_체계.md "wikilink")

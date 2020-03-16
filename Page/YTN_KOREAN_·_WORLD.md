@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [YTN KOREAN  WORLD](https://ko.wikipedia.org/wiki/YTN_KOREAN__WORLD).
 
 
-**YTN KOREAN** (YTN 코리안)은 [YTN](https://ko.wikipedia.org/wiki/YTN "wikilink")의 전세계 대상 [한국어](https://ko.wikipedia.org/wiki/한국어 "wikilink") 방송이다. [재외동포와](https://ko.wikipedia.org/wiki/한국계_교민 "wikilink") [다문화 가족](https://ko.wikipedia.org/wiki/다문화_가족 "wikilink"), [한류](https://ko.wikipedia.org/wiki/한류 "wikilink") 팬을 대상으로 하는 정보 교양 웹채널이다. 실시간 한국어 뉴스 채널 YTN World, 재외동포들의 관심 뉴스와 한민족 K-DIASPORA 관련 정보, 비지니스와 기술 정보, 한국어 배우기, K-POP을 포함한 한류 소식 등 한국 문화 정보를 전한다.
+**YTN KOREAN** (YTN 코리안)은 [YTN](../Page/YTN.md "wikilink")의 전세계 대상 [한국어](../Page/한국어.md "wikilink") 방송이다. [재외동포와](https://ko.wikipedia.org/wiki/한국계_교민 "wikilink") [다문화 가족](https://ko.wikipedia.org/wiki/다문화_가족 "wikilink"), [한류](https://ko.wikipedia.org/wiki/한류 "wikilink") 팬을 대상으로 하는 정보 교양 웹채널이다. 실시간 한국어 뉴스 채널 YTN World, 재외동포들의 관심 뉴스와 한민족 K-DIASPORA 관련 정보, 비지니스와 기술 정보, 한국어 배우기, K-POP을 포함한 한류 소식 등 한국 문화 정보를 전한다.
 
 ## 연혁
 

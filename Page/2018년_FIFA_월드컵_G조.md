@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [2018 FIFA  G](https://ko.wikipedia.org/wiki/2018_FIFA__G).
 
 
-**[2018년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵 "wikilink") G조**는 2018년 6월 18일부터 2018년 6월 28일까지 일정이 진행되었다. G조는 [벨기에](https://ko.wikipedia.org/wiki/벨기에_축구_국가대표팀 "wikilink"), [파나마](https://ko.wikipedia.org/wiki/파나마_축구_국가대표팀 "wikilink"), [튀니지](https://ko.wikipedia.org/wiki/튀니지_축구_국가대표팀 "wikilink"), [잉글랜드로](https://ko.wikipedia.org/wiki/잉글랜드_축구_국가대표팀 "wikilink") 구성되었다. 4개의 팀들 중 상위 2개의 팀이 16강전에 진출한다.
+**[2018년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵 "wikilink") G조**는 2018년 6월 18일부터 2018년 6월 28일까지 일정이 진행되었다. G조는 [벨기에](https://ko.wikipedia.org/wiki/벨기에_축구_국가대표팀 "wikilink"), [파나마](../Page/파나마_축구_국가대표팀.md "wikilink"), [튀니지](../Page/튀니지_축구_국가대표팀.md "wikilink"), [잉글랜드로](../Page/잉글랜드_축구_국가대표팀.md "wikilink") 구성되었다. 4개의 팀들 중 상위 2개의 팀이 16강전에 진출한다.
 
 ## 팀
 
@@ -16,7 +16,7 @@
 <th><p>rowspan=2 data-sort-type="number"| 출전 횟수</p></th>
 <th><p>마지막 출전</p></th>
 <th><p>최고 순위</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/FIFA_랭킹" title="wikilink">FIFA 랭킹</a></p></th>
+<th><p><a href="../Page/FIFA_랭킹.md" title="wikilink">FIFA 랭킹</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -34,7 +34,7 @@
 <tr class="even">
 <td><p>G1</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유럽_축구_연맹" title="wikilink">UEFA</a></p></td>
+<td><p><a href="../Page/유럽_축구_연맹.md" title="wikilink">UEFA</a></p></td>
 <td><p><a href="../Page/2018년_FIFA_월드컵_유럽_지역_예선.md" title="wikilink">유럽 예선 H조</a> 1위</p></td>
 <td><p>2017년 9월 3일</p></td>
 <td><p>13회</p></td>
@@ -45,7 +45,7 @@
 <tr class="odd">
 <td><p>G2</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/북중미카리브_축구_연맹" title="wikilink">CONCACAF</a></p></td>
+<td><p><a href="../Page/북중미카리브_축구_연맹.md" title="wikilink">CONCACAF</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵_북아메리카_지역_5차_예선" title="wikilink">북중미 5차 예선</a> 3위</p></td>
 <td><p>2017년 10월 10일</p></td>
 <td><p>1회</p></td>
@@ -56,7 +56,7 @@
 <tr class="even">
 <td><p>G3</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아프리카_축구_연맹" title="wikilink">CAF</a></p></td>
+<td><p><a href="../Page/아프리카_축구_연맹.md" title="wikilink">CAF</a></p></td>
 <td><p><a href="../Page/2018년_FIFA_월드컵_아프리카_지역_3차_예선.md" title="wikilink">아프리카 3차 예선 A조</a> 1위</p></td>
 <td><p>2017년 11월 11일</p></td>
 <td><p>5회</p></td>
@@ -67,7 +67,7 @@
 <tr class="odd">
 <td><p>G4</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유럽_축구_연맹" title="wikilink">UEFA</a></p></td>
+<td><p><a href="../Page/유럽_축구_연맹.md" title="wikilink">UEFA</a></p></td>
 <td><p><a href="../Page/2018년_FIFA_월드컵_유럽_지역_예선.md" title="wikilink">유럽 예선 F조</a> 1위</p></td>
 <td><p>2017년 10월 5일</p></td>
 <td><p>15회</p></td>
@@ -167,7 +167,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/로베르토_마르티네스" title="wikilink">로베르토 마르티네스</a></p></td>
+<td><p><a href="../Page/로베르토_마르티네스.md" title="wikilink">로베르토 마르티네스</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -425,7 +425,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/개러스_사우스게이트" title="wikilink">개러스 사우스게이트</a></p></td>
+<td><p><a href="../Page/개러스_사우스게이트.md" title="wikilink">개러스 사우스게이트</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -438,7 +438,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/해리_케인" title="wikilink">해리 케인</a> (잉글랜드)</p>
+<a href="../Page/해리_케인.md" title="wikilink">해리 케인</a> (잉글랜드)</p>
 <p><strong><a href="https://ko.wikipedia.org/wiki/부심" title="wikilink">부심</a>:</strong><br />
 알렉산데르 구스만 (<a href="https://ko.wikipedia.org/wiki/콜롬비아_축구_연맹" title="wikilink">콜롬비아</a>)<br />
 크리스티안 델라크루스 (<a href="https://ko.wikipedia.org/wiki/콜롬비아_축구_연맹" title="wikilink">콜롬비아</a>)<br />
@@ -537,7 +537,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/로베르토_마르티네스" title="wikilink">로베르토 마르티네스</a></p></td>
+<td><p><a href="../Page/로베르토_마르티네스.md" title="wikilink">로베르토 마르티네스</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -722,7 +722,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/개러스_사우스게이트" title="wikilink">개러스 사우스게이트</a></p></td>
+<td><p><a href="../Page/개러스_사우스게이트.md" title="wikilink">개러스 사우스게이트</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -808,7 +808,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/해리_케인" title="wikilink">해리 케인</a> (잉글랜드)</p>
+<a href="../Page/해리_케인.md" title="wikilink">해리 케인</a> (잉글랜드)</p>
 <p><strong><a href="https://ko.wikipedia.org/wiki/부심" title="wikilink">부심</a>:</strong><br />
 레두안 아시크 (<a href="https://ko.wikipedia.org/wiki/모로코_축구_연맹" title="wikilink">모로코</a>)<br />
 왈리드 아메드 (<a href="https://ko.wikipedia.org/wiki/수단_축구_협회" title="wikilink">수단</a>)<br />
@@ -903,7 +903,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/개러스_사우스게이트" title="wikilink">개러스 사우스게이트</a></p></td>
+<td><p><a href="../Page/개러스_사우스게이트.md" title="wikilink">개러스 사우스게이트</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -972,7 +972,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/로베르토_마르티네스" title="wikilink">로베르토 마르티네스</a></p></td>
+<td><p><a href="../Page/로베르토_마르티네스.md" title="wikilink">로베르토 마르티네스</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -998,7 +998,7 @@
 <strong>보조 비디오 판독심:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/파베우_길" title="wikilink">파베우 길</a> (<a href="https://ko.wikipedia.org/wiki/폴란드_축구_협회" title="wikilink">폴란드</a>)<br />
 로베르토 디아스 페레스 (<a href="https://ko.wikipedia.org/wiki/스페인_왕립_축구_협회" title="wikilink">스페인</a>)<br />
-<a href="https://ko.wikipedia.org/wiki/마우로_비글리아노" title="wikilink">마우로 비글리아노</a> (<a href="https://ko.wikipedia.org/wiki/아르헨티나_축구_협회" title="wikilink">아르헨티나</a>)</p></td>
+<a href="https://ko.wikipedia.org/wiki/마우로_비글리아노" title="wikilink">마우로 비글리아노</a> (<a href="../Page/아르헨티나_축구_협회.md" title="wikilink">아르헨티나</a>)</p></td>
 </tr>
 </tbody>
 </table>

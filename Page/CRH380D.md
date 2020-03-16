@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [CRH380D](https://ko.wikipedia.org/wiki/CRH380D).
 
 
-**CRH380D형 전철**()은 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink")에 영업 시작을 하고 있으며, 최고 영업 속도 380km/h를 목표로 하고 있는 고속철도 차량이다. 8량 편성의 경우 CRH380D 모델로 기본이 되는 [봄바디어](https://ko.wikipedia.org/wiki/봄바디어 "wikilink") 운송 회사의 제피로 380 실물 모형은 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") 9월 독일 베를린에서 열린 이노트랜스 2010(InnoTrans)에 전시되었으며, [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink")에 첫번째 양산차가 완성되었다.\[1\]\[2\]
+**CRH380D형 전철**()은 [2014년](../Page/2014년.md "wikilink")에 영업 시작을 하고 있으며, 최고 영업 속도 380km/h를 목표로 하고 있는 고속철도 차량이다. 8량 편성의 경우 CRH380D 모델로 기본이 되는 [봄바디어](https://ko.wikipedia.org/wiki/봄바디어 "wikilink") 운송 회사의 제피로 380 실물 모형은 [2010년](../Page/2010년.md "wikilink") 9월 독일 베를린에서 열린 이노트랜스 2010(InnoTrans)에 전시되었으며, [2012년](../Page/2012년.md "wikilink")에 첫번째 양산차가 완성되었다.\[1\]\[2\]
 
 ## 개요
 
-[2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [9월](https://ko.wikipedia.org/wiki/9월 "wikilink") [봄바디어 트랜스포테이션은](https://ko.wikipedia.org/wiki/봄바디어_트랜스포테이션 "wikilink") CRH380D 모델을 제작하기 위해 [봄바디어 트랜스포테이션의](https://ko.wikipedia.org/wiki/봄바디어_트랜스포테이션 "wikilink") 합작 회사인 [CRRC 칭다오 시팡을](https://ko.wikipedia.org/wiki/CRRC_칭다오_시팡 "wikilink") 설립했다. 8편성 16량으로 구성되었고 40억 [달러](https://ko.wikipedia.org/wiki/달러 "wikilink")에 계약을 체결했다.\[3\]\[4\]
+[2009년](../Page/2009년.md "wikilink") [9월](../Page/9월.md "wikilink") [봄바디어 트랜스포테이션은](https://ko.wikipedia.org/wiki/봄바디어_트랜스포테이션 "wikilink") CRH380D 모델을 제작하기 위해 [봄바디어 트랜스포테이션의](https://ko.wikipedia.org/wiki/봄바디어_트랜스포테이션 "wikilink") 합작 회사인 [CRRC 칭다오 시팡을](https://ko.wikipedia.org/wiki/CRRC_칭다오_시팡 "wikilink") 설립했다. 8편성 16량으로 구성되었고 40억 [달러](../Page/달러.md "wikilink")에 계약을 체결했다.\[3\]\[4\]
 
-현재 [중화인민공화국 철도부에서](https://ko.wikipedia.org/wiki/중화인민공화국_철도부 "wikilink") [중국고속철도 CRH1](https://ko.wikipedia.org/wiki/중국고속철도_CRH1 "wikilink") 모델을 별도로 운행하고 있다.\[5\] [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [12월](https://ko.wikipedia.org/wiki/12월 "wikilink")에 열차 모델이부여되면서 [CRH380C](https://ko.wikipedia.org/wiki/CRH380C "wikilink")에서 [CRH380C](https://ko.wikipedia.org/wiki/CRH380C "wikilink")L 모델로 개정되었고 그와 동시에 8량 편성은 CRH380D로 주문했고 16량 편성의 경우 CRH380DL로 주문했다.\[6\]
+현재 [중화인민공화국 철도부에서](../Page/중화인민공화국_철도부.md "wikilink") [중국고속철도 CRH1](../Page/중국고속철도_CRH1.md "wikilink") 모델을 별도로 운행하고 있다.\[5\] [2010년](../Page/2010년.md "wikilink") [12월](../Page/12월.md "wikilink")에 열차 모델이부여되면서 [CRH380C](../Page/CRH380C.md "wikilink")에서 [CRH380C](../Page/CRH380C.md "wikilink")L 모델로 개정되었고 그와 동시에 8량 편성은 CRH380D로 주문했고 16량 편성의 경우 CRH380DL로 주문했다.\[6\]
 
-그러나 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink")에 16량 편성으로 발주된 CRH380DL 모델이 CRH380D로 변경되면서 주문을 취소했다.\[7\]
+그러나 [2011년](../Page/2011년.md "wikilink")에 16량 편성으로 발주된 CRH380DL 모델이 CRH380D로 변경되면서 주문을 취소했다.\[7\]
 
 최초로 3편성이 순차별로 도입을 시작했고,\[8\]\[9\]\[10\] 이후 시범 운행에 들어갔다.
 
@@ -70,10 +70,10 @@
 
 ## 관련 항목
 
-  - [CRH380A](https://ko.wikipedia.org/wiki/CRH380A "wikilink")
+  - [CRH380A](../Page/CRH380A.md "wikilink")
   - [MTR CRH380A](../Page/MTR_CRH380A.md "wikilink")
-  - [CRH380B](https://ko.wikipedia.org/wiki/CRH380B "wikilink")
-  - [CRH380C](https://ko.wikipedia.org/wiki/CRH380C "wikilink")
+  - [CRH380B](../Page/CRH380B.md "wikilink")
+  - [CRH380C](../Page/CRH380C.md "wikilink")
 
 ## 외부 링크
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ M. ](https://ko.wikipedia.org/wiki/_M._).
 
 
-**롤프 마르틴 칭커나겔**(, [AC](https://ko.wikipedia.org/wiki/오스트레일리아_훈장 "wikilink") [FAA](https://ko.wikipedia.org/wiki/:en:List_of_Fellows_of_the_Australian_Academy_of_Science "wikilink"), [1944년](https://ko.wikipedia.org/wiki/1944년 "wikilink") [1월 6일](https://ko.wikipedia.org/wiki/1월_6일 "wikilink") \~ )은 [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink")의 [면역학](https://ko.wikipedia.org/wiki/면역학 "wikilink")자이다. 1996년에 신체 조직의 면역체계 인식과 파괴 메커니즘을 규명한 공로로 [피터 C. 도허티와](../Page/피터_C._도허티.md "wikilink") 함께 [노벨 생리학·의학상을](https://ko.wikipedia.org/wiki/노벨_생리학·의학상 "wikilink") 수상했다.\[1\]\[2\]
+**롤프 마르틴 칭커나겔**(, [AC](../Page/오스트레일리아_훈장.md "wikilink") [FAA](https://ko.wikipedia.org/wiki/:en:List_of_Fellows_of_the_Australian_Academy_of_Science "wikilink"), [1944년](../Page/1944년.md "wikilink") [1월 6일](../Page/1월_6일.md "wikilink") \~ )은 [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink")의 [면역학](../Page/면역학.md "wikilink")자이다. 1996년에 신체 조직의 면역체계 인식과 파괴 메커니즘을 규명한 공로로 [피터 C. 도허티와](../Page/피터_C._도허티.md "wikilink") 함께 [노벨 생리학·의학상을](../Page/노벨_생리학·의학상.md "wikilink") 수상했다.\[1\]\[2\]
 
 ## 수상 경력
 
@@ -11,7 +11,7 @@
 
 ## 회원
 
-  - 1998년 : [왕립학회](https://ko.wikipedia.org/wiki/왕립학회 "wikilink") 외국인 회원\[3\]
+  - 1998년 : [왕립학회](../Page/왕립학회.md "wikilink") 외국인 회원\[3\]
 
 ## 각주
 

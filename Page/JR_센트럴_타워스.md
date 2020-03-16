@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JR  ](https://ko.wikipedia.org/wiki/JR__).
 
 
-**JR 센트럴 타워스**()는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") [아이치현](https://ko.wikipedia.org/wiki/아이치현 "wikilink") [나고야 시](https://ko.wikipedia.org/wiki/나고야_시 "wikilink") [나카무라 구의](https://ko.wikipedia.org/wiki/나카무라_구 "wikilink") JR 나고야 역에 위치한 복합 시설이다.
+**JR 센트럴 타워스**()는 [일본](../Page/일본.md "wikilink") [아이치현](../Page/아이치현.md "wikilink") [나고야 시](https://ko.wikipedia.org/wiki/나고야_시 "wikilink") [나카무라 구의](https://ko.wikipedia.org/wiki/나카무라_구 "wikilink") JR 나고야 역에 위치한 복합 시설이다.
 
 ## 갤러리
 

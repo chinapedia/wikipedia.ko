@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [CRH380C](https://ko.wikipedia.org/wiki/CRH380C).
 
 
-**CRH380C형 전철**()은 [중국고속철도 CRH3과](https://ko.wikipedia.org/wiki/중국고속철도_CRH3 "wikilink") [CRH380B](https://ko.wikipedia.org/wiki/CRH380B "wikilink")를 기반으로 시속 최고 영업 속도 380km를 목표로 만들어진 [고속철도](https://ko.wikipedia.org/wiki/고속철도 "wikilink") 차량으로 **허셰호**()로 불린다.
+**CRH380C형 전철**()은 [중국고속철도 CRH3과](../Page/중국고속철도_CRH3.md "wikilink") [CRH380B](../Page/CRH380B.md "wikilink")를 기반으로 시속 최고 영업 속도 380km를 목표로 만들어진 [고속철도](../Page/고속철도.md "wikilink") 차량으로 **허셰호**()로 불린다.
 
 ## 개요
 
-당초 CRH380D로 지정했으나 [봄바디어 제피로](../Page/봄바디어_제피로.md "wikilink") 차량이 CRH380D로 지정되면서 현재의 명칭으로 변경했다. 또한 이 차량은 [히타치 제작소에서](https://ko.wikipedia.org/wiki/히타치_제작소 "wikilink") 전기 장비를 제작해 장착했다. 16량 편성으로 CRH380CL로 구분된다. 생산은 [베이차창춘이](https://ko.wikipedia.org/wiki/창춘_궤도객차 "wikilink") 담당하여 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink")에 최초로 제작에 들어갔고\[1\] [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink")에 영업 운전을 시작하였다.\[2\] 이전에 주문한 CRH380BL 25편성을 대체하기 위해 25편성 16량을 차종 변경과 동시에 발주했다.
+당초 CRH380D로 지정했으나 [봄바디어 제피로](../Page/봄바디어_제피로.md "wikilink") 차량이 CRH380D로 지정되면서 현재의 명칭으로 변경했다. 또한 이 차량은 [히타치 제작소에서](../Page/히타치_제작소.md "wikilink") 전기 장비를 제작해 장착했다. 16량 편성으로 CRH380CL로 구분된다. 생산은 [베이차창춘이](https://ko.wikipedia.org/wiki/창춘_궤도객차 "wikilink") 담당하여 [2011년](../Page/2011년.md "wikilink")에 최초로 제작에 들어갔고\[1\] [2013년](../Page/2013년.md "wikilink")에 영업 운전을 시작하였다.\[2\] 이전에 주문한 CRH380BL 25편성을 대체하기 위해 25편성 16량을 차종 변경과 동시에 발주했다.
 
 ## 세부 모델
 
 ### CRH380CL
 
-**CRH380CL형 전철**()은 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink")부터 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink")까지 순차별로 도입된 [고속철도](https://ko.wikipedia.org/wiki/고속철도 "wikilink") 열차로 총 25편성으로 구성되었다. 전 차량 [CRRC 창춘이](https://ko.wikipedia.org/wiki/CRRC_창춘 "wikilink") 제작되었고 견인 시스템의 경우 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") [히타치 제작소에서](https://ko.wikipedia.org/wiki/히타치_제작소 "wikilink") 제작되었다. 당초 6300번대로 열차 번호가 부여되었고 CRH380C 명칭으로 불렀지만 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [7월 1일에](https://ko.wikipedia.org/wiki/7월_1일 "wikilink") CRH380CL 명칭 변경 및 5600번대로 변경되면서 현재에 이르고 있다.
+**CRH380CL형 전철**()은 [2011년](../Page/2011년.md "wikilink")부터 [2013년](../Page/2013년.md "wikilink")까지 순차별로 도입된 [고속철도](../Page/고속철도.md "wikilink") 열차로 총 25편성으로 구성되었다. 전 차량 [CRRC 창춘이](https://ko.wikipedia.org/wiki/CRRC_창춘 "wikilink") 제작되었고 견인 시스템의 경우 [일본](../Page/일본.md "wikilink") [히타치 제작소에서](../Page/히타치_제작소.md "wikilink") 제작되었다. 당초 6300번대로 열차 번호가 부여되었고 CRH380C 명칭으로 불렀지만 [2014년](../Page/2014년.md "wikilink") [7월 1일에](../Page/7월_1일.md "wikilink") CRH380CL 명칭 변경 및 5600번대로 변경되면서 현재에 이르고 있다.
 
 파일:CRH380CL and CRH380BL in Beijingnan Railway Station.JPG 파일:CRH380CL-5606@BJN_(20160527090117).jpg 파일:CRH380CL-5618@BJN (20160408104425).jpg
 
@@ -76,10 +76,10 @@
 
 ## 관련 항목
 
-  - [중국고속철도 CRH3](https://ko.wikipedia.org/wiki/중국고속철도_CRH3 "wikilink")
-  - [CRH380A](https://ko.wikipedia.org/wiki/CRH380A "wikilink")
+  - [중국고속철도 CRH3](../Page/중국고속철도_CRH3.md "wikilink")
+  - [CRH380A](../Page/CRH380A.md "wikilink")
   - [MTR CRH380A](../Page/MTR_CRH380A.md "wikilink")
-  - [CRH380B](https://ko.wikipedia.org/wiki/CRH380B "wikilink")
+  - [CRH380B](../Page/CRH380B.md "wikilink")
   - [CRH380D](../Page/CRH380D.md "wikilink")
 
 ## 외부 링크

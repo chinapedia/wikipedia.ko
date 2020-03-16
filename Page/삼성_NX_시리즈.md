@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [ NX ](https://ko.wikipedia.org/wiki/_NX_).
 
 
-**삼성 NX 시리즈**(Samsung NX series)는 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")의 [삼성 NX](https://ko.wikipedia.org/wiki/삼성_NX_마운트 "wikilink") [렌즈 마운트를](https://ko.wikipedia.org/wiki/렌즈_마운트 "wikilink") 장착한 [APS-C](https://ko.wikipedia.org/wiki/APS-C "wikilink") [미러리스 렌즈 교환식 카메라](https://ko.wikipedia.org/wiki/미러리스_렌즈_교환식_카메라 "wikilink") 시리즈의 하나로, 2010년 도입되었다.
+**삼성 NX 시리즈**(Samsung NX series)는 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")의 [삼성 NX](https://ko.wikipedia.org/wiki/삼성_NX_마운트 "wikilink") [렌즈 마운트를](../Page/렌즈_마운트.md "wikilink") 장착한 [APS-C](https://ko.wikipedia.org/wiki/APS-C "wikilink") [미러리스 렌즈 교환식 카메라](../Page/미러리스_렌즈_교환식_카메라.md "wikilink") 시리즈의 하나로, 2010년 도입되었다.
 
-APS-C [이미지 센서는](https://ko.wikipedia.org/wiki/이미지_센서 "wikilink") 1.54× [크롭 팩터를](https://ko.wikipedia.org/wiki/크롭_팩터 "wikilink") 지원한다. [광학 이미지 안정화가](https://ko.wikipedia.org/wiki/영상_흔들림_방지 "wikilink") 렌즈 중 일부에 포함되며, 이 때 "OIS"로 표기된다. NX 렌즈의 자동 포커스는 렌즈에 내장된 전용 전자 모터에 의해 처리된다.
+APS-C [이미지 센서는](https://ko.wikipedia.org/wiki/이미지_센서 "wikilink") 1.54× [크롭 팩터를](../Page/크롭_팩터.md "wikilink") 지원한다. [광학 이미지 안정화가](../Page/영상_흔들림_방지.md "wikilink") 렌즈 중 일부에 포함되며, 이 때 "OIS"로 표기된다. NX 렌즈의 자동 포커스는 렌즈에 내장된 전용 전자 모터에 의해 처리된다.
 
 ## 카메라
 
-  - [삼성 NX10](https://ko.wikipedia.org/wiki/삼성_NX10 "wikilink") (출시일: 2010년 1월, 전 세계)
+  - [삼성 NX10](../Page/삼성_NX10.md "wikilink") (출시일: 2010년 1월, 전 세계)
   - [삼성 NX5](https://ko.wikipedia.org/wiki/삼성_NX5 "wikilink") (출시일: 2010년 6월, 영국, 노르딕, 대한민국 시장에서만)
   - [삼성 NX100](../Page/삼성_NX100.md "wikilink") (출시일: 2010년 9월, 전 세계)
   - [삼성 NX11](https://ko.wikipedia.org/wiki/삼성_NX11 "wikilink") (출시일: 2010년 12월, 전 세계)
@@ -18,12 +18,12 @@ APS-C [이미지 센서는](https://ko.wikipedia.org/wiki/이미지_센서 "wiki
   - [삼성 NX300](../Page/삼성_NX300.md "wikilink") (출시일: 2013년 1월)\[2\]
   - [삼성 NX1100](https://ko.wikipedia.org/wiki/삼성_NX1100 "wikilink") (출시일: 2013년 4월)\[3\]
   - [삼성 NX2000](https://ko.wikipedia.org/wiki/삼성_NX2000 "wikilink") (출시일: 2013년 5월)\[4\]
-  - [삼성 갤럭시 NX](../Page/삼성_갤럭시_NX.md "wikilink") (출시일: 2013년 6월, [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") 인터페이스 포함)
+  - [삼성 갤럭시 NX](../Page/삼성_갤럭시_NX.md "wikilink") (출시일: 2013년 6월, [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") 인터페이스 포함)
   - [삼성 NX300M](https://ko.wikipedia.org/wiki/삼성_NX300M "wikilink") (출시일: 2013년 10월)
   - [삼성 NX30](https://ko.wikipedia.org/wiki/삼성_NX30 "wikilink") (출시일: 2014년 1월)\[5\]
-  - [삼성 NX 미니](https://ko.wikipedia.org/wiki/삼성_NX_미니 "wikilink") (출시일: 2014년 4월)
+  - [삼성 NX 미니](../Page/삼성_NX_미니.md "wikilink") (출시일: 2014년 4월)
   - [삼성 NX3000](https://ko.wikipedia.org/wiki/삼성_NX3000 "wikilink") (출시일: 2014년 6월): 삼성 NX 미니와 더 큰 삼성 NX300의 타협점\[6\]
-  - [삼성 NX1](https://ko.wikipedia.org/wiki/삼성_NX1 "wikilink") (출시일: 2014년 11월)\[7\]
+  - [삼성 NX1](../Page/삼성_NX1.md "wikilink") (출시일: 2014년 11월)\[7\]
   - [삼성 NX500](../Page/삼성_NX500.md "wikilink") (발표일: 2015년 2월)
   - [삼성 NX3300](https://ko.wikipedia.org/wiki/삼성_NX3300 "wikilink") (발표일: 2015년 2월)
 
@@ -31,7 +31,7 @@ APS-C [이미지 센서는](https://ko.wikipedia.org/wiki/이미지_센서 "wiki
 
 ## NX 마운트 렌즈
 
-2015년 2월 기준으로, 15가지 삼성 렌즈를 구매할 수 있다.\[8\] 2015년 2월 기준으로 NX 마운트는 적어도 하나의 추가 제조업체에 의해 지원된다: [자동 초점](https://ko.wikipedia.org/wiki/자동_초점 "wikilink") / [영상 흔들림 방지](https://ko.wikipedia.org/wiki/영상_흔들림_방지 "wikilink") 없는 렌즈만 조달하는 [삼양옵틱스](https://ko.wikipedia.org/wiki/삼양옵틱스 "wikilink").
+2015년 2월 기준으로, 15가지 삼성 렌즈를 구매할 수 있다.\[8\] 2015년 2월 기준으로 NX 마운트는 적어도 하나의 추가 제조업체에 의해 지원된다: [자동 초점](../Page/자동_초점.md "wikilink") / [영상 흔들림 방지](../Page/영상_흔들림_방지.md "wikilink") 없는 렌즈만 조달하는 [삼양옵틱스](../Page/삼양옵틱스.md "wikilink").
 
 ## NX 시리즈의 현 상태
 

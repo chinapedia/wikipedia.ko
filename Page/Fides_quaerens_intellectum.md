@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Fides quaerens intellectum](https://ko.wikipedia.org/wiki/Fides_quaerens_intellectum).
 
 
-**Fides quaerens intellectum**(fides seeking understanding, 믿음은 이해를 추구함)이란 지성을 추구하는 [믿음](https://ko.wikipedia.org/wiki/믿음 "wikilink")을 의미한다. 지성에 앞서 믿음을 강조하는 것이다. [이해를 추구하는 신앙](https://ko.wikipedia.org/wiki/이해를_추구하는_신앙 "wikilink")(Credo ut intelligam)과 같은 의미이다. [어거스틴](https://ko.wikipedia.org/wiki/아우구스티누스 "wikilink") (354-430)(crede, ut intelligas, "믿는다 그래서 이해할수 있다."; Tract. Ev. Jo., 29.6)과 [안젤름의 캔터베리](https://ko.wikipedia.org/wiki/캔터베리의_안셀모 "wikilink") (c. 1033-1109)에 의해 강조된 신학적 방법으로 사람은 믿음에서 시작하고 믿음에 근거하여 [기독교](https://ko.wikipedia.org/wiki/기독교 "wikilink") 진리를 좀더 잘 이해하게 된다는 것이다.\[1\] 안셈은 자신의 [프로스로기온](https://ko.wikipedia.org/wiki/프로스로기온 "wikilink")(Proslogion, II-IV)에서 이 표현을 처음으로 사용하였다. 이것은 믿음과 인간의 [이성](https://ko.wikipedia.org/wiki/이성 "wikilink")의 밀접한 관계를 설명한다. 그리고 이것은 안셈의 신학사상과 철학적 사고의 중요한 핵심이다. 그는 모든 것을 믿음 안에서 이해하기를 원하였다. 그것은 우리가 이미 믿은 것을 지적으로 이해하는 것을 의미한다. 하나님을 믿는 것은 논리적으로 시간적으로 인간의 이성적 작용보다 앞선다.
+**Fides quaerens intellectum**(fides seeking understanding, 믿음은 이해를 추구함)이란 지성을 추구하는 [믿음](../Page/믿음.md "wikilink")을 의미한다. 지성에 앞서 믿음을 강조하는 것이다. [이해를 추구하는 신앙](https://ko.wikipedia.org/wiki/이해를_추구하는_신앙 "wikilink")(Credo ut intelligam)과 같은 의미이다. [어거스틴](../Page/아우구스티누스.md "wikilink") (354-430)(crede, ut intelligas, "믿는다 그래서 이해할수 있다."; Tract. Ev. Jo., 29.6)과 [안젤름의 캔터베리](https://ko.wikipedia.org/wiki/캔터베리의_안셀모 "wikilink") (c. 1033-1109)에 의해 강조된 신학적 방법으로 사람은 믿음에서 시작하고 믿음에 근거하여 [기독교](../Page/기독교.md "wikilink") 진리를 좀더 잘 이해하게 된다는 것이다.\[1\] 안셈은 자신의 [프로스로기온](../Page/프로스로기온.md "wikilink")(Proslogion, II-IV)에서 이 표현을 처음으로 사용하였다. 이것은 믿음과 인간의 [이성](https://ko.wikipedia.org/wiki/이성 "wikilink")의 밀접한 관계를 설명한다. 그리고 이것은 안셈의 신학사상과 철학적 사고의 중요한 핵심이다. 그는 모든 것을 믿음 안에서 이해하기를 원하였다. 그것은 우리가 이미 믿은 것을 지적으로 이해하는 것을 의미한다. 하나님을 믿는 것은 논리적으로 시간적으로 인간의 이성적 작용보다 앞선다.
 
 ## 각주
 
@@ -11,11 +11,11 @@
 
 <!-- end list -->
 
-  - [캔터베리의 안셈](https://ko.wikipedia.org/wiki/캔터베리의_안셈 "wikilink")
+  - [캔터베리의 안셈](../Page/캔터베리의_안셈.md "wikilink")
 
 <!-- end list -->
 
-  - [어거스틴](https://ko.wikipedia.org/wiki/아우구스티누스 "wikilink")
+  - [어거스틴](../Page/아우구스티누스.md "wikilink")
 
 ## 참고문헌
 

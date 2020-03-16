@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [2018 FIFA  E](https://ko.wikipedia.org/wiki/2018_FIFA__E).
 
 
-**[2018년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵 "wikilink") E조**는 2018년 6월 17일부터 2018년 6월 27일까지 일정이 진행되었다. E조는 [브라질](https://ko.wikipedia.org/wiki/브라질_축구_국가대표팀 "wikilink"), [스위스](https://ko.wikipedia.org/wiki/스위스_축구_국가대표팀 "wikilink"), [코스타리카](https://ko.wikipedia.org/wiki/코스타리카_축구_국가대표팀 "wikilink"), [세르비아로](https://ko.wikipedia.org/wiki/세르비아_축구_국가대표팀 "wikilink") 구성되었다. 4개의 팀들 중 상위 2개의 팀이 16강전에 진출한다.
+**[2018년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵 "wikilink") E조**는 2018년 6월 17일부터 2018년 6월 27일까지 일정이 진행되었다. E조는 [브라질](../Page/브라질_축구_국가대표팀.md "wikilink"), [스위스](../Page/스위스_축구_국가대표팀.md "wikilink"), [코스타리카](../Page/코스타리카_축구_국가대표팀.md "wikilink"), [세르비아로](../Page/세르비아_축구_국가대표팀.md "wikilink") 구성되었다. 4개의 팀들 중 상위 2개의 팀이 16강전에 진출한다.
 
 ## 팀
 
@@ -16,7 +16,7 @@
 <th><p>rowspan=2 data-sort-type="number"| 출전 횟수</p></th>
 <th><p>마지막 출전</p></th>
 <th><p>최고 순위</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/FIFA_랭킹" title="wikilink">FIFA 랭킹</a></p></th>
+<th><p><a href="../Page/FIFA_랭킹.md" title="wikilink">FIFA 랭킹</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -34,7 +34,7 @@
 <tr class="even">
 <td><p>E1</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/남미_축구_연맹" title="wikilink">CONMEBOL</a></p></td>
+<td><p><a href="../Page/남미_축구_연맹.md" title="wikilink">CONMEBOL</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵_남아메리카_지역_예선" title="wikilink">남미 지역 예선</a> 1위</p></td>
 <td><p>2017년 3월 28일</p></td>
 <td><p>21회</p></td>
@@ -45,7 +45,7 @@
 <tr class="odd">
 <td><p>E2</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유럽_축구_연맹" title="wikilink">UEFA</a></p></td>
+<td><p><a href="../Page/유럽_축구_연맹.md" title="wikilink">UEFA</a></p></td>
 <td><p><a href="../Page/2018년_FIFA_월드컵_유럽_지역_예선_플레이오프.md" title="wikilink">유럽 플레이오프</a> 승리</p></td>
 <td><p>2017년 11월 12일</p></td>
 <td><p>11회</p></td>
@@ -56,7 +56,7 @@
 <tr class="even">
 <td><p>E3</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/북중미카리브_축구_연맹" title="wikilink">CONCACAF</a></p></td>
+<td><p><a href="../Page/북중미카리브_축구_연맹.md" title="wikilink">CONCACAF</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵_북아메리카_지역_5차_예선" title="wikilink">북중미 5차 예선</a> 2위</p></td>
 <td><p>2017년 10월 7일</p></td>
 <td><p>5회</p></td>
@@ -67,7 +67,7 @@
 <tr class="odd">
 <td><p>E4</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유럽_축구_연맹" title="wikilink">UEFA</a></p></td>
+<td><p><a href="../Page/유럽_축구_연맹.md" title="wikilink">UEFA</a></p></td>
 <td><p><a href="../Page/2018년_FIFA_월드컵_유럽_지역_예선.md" title="wikilink">유럽 예선 D조</a> 1위</p></td>
 <td><p>2017년 10월 9일</p></td>
 <td><p>12회</p></td>
@@ -246,7 +246,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/믈라덴_크르스타이치" title="wikilink">믈라덴 크르스타이치</a></p></td>
+<td><p><a href="../Page/믈라덴_크르스타이치.md" title="wikilink">믈라덴 크르스타이치</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -259,7 +259,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/알렉산다르_콜라로브" title="wikilink">알렉산다르 콜라로브</a> (세르비아)</p>
+<a href="../Page/알렉산다르_콜라로브.md" title="wikilink">알렉산다르 콜라로브</a> (세르비아)</p>
 <p><strong><a href="https://ko.wikipedia.org/wiki/부심" title="wikilink">부심</a>:</strong><br />
 지브릴 카마라 (<a href="https://ko.wikipedia.org/wiki/세네갈_축구_연맹" title="wikilink">세네갈</a>)<br />
 엘하지 말리크 삼바 (<a href="https://ko.wikipedia.org/wiki/세네갈_축구_연맹" title="wikilink">세네갈</a>)<br />
@@ -450,7 +450,7 @@ Paulinho의 근거리에서의 노력으로 YannSommer는 저축을 했다. 첫 
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/필리피_코치뉴" title="wikilink">필리피 코치뉴</a> (브라질)</p>
+<a href="../Page/필리피_코치뉴.md" title="wikilink">필리피 코치뉴</a> (브라질)</p>
 <p><strong><a href="https://ko.wikipedia.org/wiki/부심" title="wikilink">부심</a>:</strong><br />
 마르빈 토렌테라 (<a href="https://ko.wikipedia.org/wiki/멕시코_축구_연맹" title="wikilink">멕시코</a>)<br />
 미겔 에르난데스 (<a href="https://ko.wikipedia.org/wiki/멕시코_축구_연맹" title="wikilink">멕시코</a>)<br />
@@ -461,7 +461,7 @@ Paulinho의 근거리에서의 노력으로 YannSommer는 저축을 했다. 첫 
 <strong>비디오 판독심:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/파올로_발레리" title="wikilink">파올로 발레리</a> (<a href="../Page/이탈리아_축구_연맹.md" title="wikilink">이탈리아</a>)<br />
 <strong>보조 비디오 판독심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/마우로_비글리아노" title="wikilink">마우로 비글리아노</a> (<a href="https://ko.wikipedia.org/wiki/아르헨티나_축구_협회" title="wikilink">아르헨티나</a>)<br />
+<a href="https://ko.wikipedia.org/wiki/마우로_비글리아노" title="wikilink">마우로 비글리아노</a> (<a href="../Page/아르헨티나_축구_협회.md" title="wikilink">아르헨티나</a>)<br />
 엘레니토 디 리베라토레 (<a href="../Page/이탈리아_축구_연맹.md" title="wikilink">이탈리아</a>)<br />
 <a href="https://ko.wikipedia.org/wiki/잔루카_로키" title="wikilink">잔루카 로키</a> (<a href="../Page/이탈리아_축구_연맹.md" title="wikilink">이탈리아</a>)</p></td>
 </tr>
@@ -641,7 +641,7 @@ Paulinho의 근거리에서의 노력으로 YannSommer는 저축을 했다. 첫 
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/필리피_코치뉴" title="wikilink">필리피 코치뉴</a> (브라질)</p>
+<a href="../Page/필리피_코치뉴.md" title="wikilink">필리피 코치뉴</a> (브라질)</p>
 <p><strong><a href="https://ko.wikipedia.org/wiki/부심" title="wikilink">부심</a>:</strong><br />
 산더르 판 루컬 (<a href="../Page/네덜란드_왕립_축구_협회.md" title="wikilink">네덜란드</a>)<br />
 에르빈 제인스트라 (<a href="../Page/네덜란드_왕립_축구_협회.md" title="wikilink">네덜란드</a>)<br />
@@ -742,7 +742,7 @@ Paulinho의 근거리에서의 노력으로 YannSommer는 저축을 했다. 첫 
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/믈라덴_크르스타이치" title="wikilink">믈라덴 크르스타이치</a></p></td>
+<td><p><a href="../Page/믈라덴_크르스타이치.md" title="wikilink">믈라덴 크르스타이치</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -933,7 +933,7 @@ Paulinho의 근거리에서의 노력으로 YannSommer는 저축을 했다. 첫 
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/믈라덴_크르스타이치" title="wikilink">믈라덴 크르스타이치</a></p></td>
+<td><p><a href="../Page/믈라덴_크르스타이치.md" title="wikilink">믈라덴 크르스타이치</a></p></td>
 <td></td>
 </tr>
 </tbody>

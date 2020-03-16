@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ J. ](https://ko.wikipedia.org/wiki/_J._).
 
 
-**리처드 존 로버츠** 경(, [FRS](https://ko.wikipedia.org/wiki/왕립학회_회원 "wikilink")\[1\], [1943년](https://ko.wikipedia.org/wiki/1943년 "wikilink") [9월 6일](https://ko.wikipedia.org/wiki/9월_6일 "wikilink") \~ )은 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 [생화학](https://ko.wikipedia.org/wiki/생화학 "wikilink")자, [분자생물학](https://ko.wikipedia.org/wiki/분자생물학 "wikilink")자이다. 1993년에 분단 구조를 가진 [유전자](https://ko.wikipedia.org/wiki/유전자 "wikilink")를 발견한 공로로 [필립 앨런 샤프와](https://ko.wikipedia.org/wiki/필립_앨런_샤프 "wikilink") 함께 [노벨 생리학·의학상을](https://ko.wikipedia.org/wiki/노벨_생리학·의학상 "wikilink") 수상했다.
+**리처드 존 로버츠** 경(, [FRS](https://ko.wikipedia.org/wiki/왕립학회_회원 "wikilink")\[1\], [1943년](../Page/1943년.md "wikilink") [9월 6일](../Page/9월_6일.md "wikilink") \~ )은 [영국](../Page/영국.md "wikilink")의 [생화학](https://ko.wikipedia.org/wiki/생화학 "wikilink")자, [분자생물학](../Page/분자생물학.md "wikilink")자이다. 1993년에 분단 구조를 가진 [유전자](../Page/유전자.md "wikilink")를 발견한 공로로 [필립 앨런 샤프와](../Page/필립_앨런_샤프.md "wikilink") 함께 [노벨 생리학·의학상을](../Page/노벨_생리학·의학상.md "wikilink") 수상했다.
 
 ## 수상 경력
 
@@ -9,11 +9,11 @@
 
 ## 서훈
 
-  - 2008년 : 기사 작위([Knight Bachelor](https://ko.wikipedia.org/wiki/최하위_훈작사 "wikilink")) 서임\[2\]
+  - 2008년 : 기사 작위([Knight Bachelor](../Page/최하위_훈작사.md "wikilink")) 서임\[2\]
 
 ## 회원
 
-  - 1995년 : [왕립학회](https://ko.wikipedia.org/wiki/왕립학회 "wikilink") 회원\[3\]
+  - 1995년 : [왕립학회](../Page/왕립학회.md "wikilink") 회원\[3\]
 
 ## 각주
 

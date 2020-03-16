@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CONMEBOL U-15   ](https://ko.wikipedia.org/wiki/CONMEBOL_U-15___).
 
 
-**남미 U-15 축구 선수권 대회**는 [CONMEBOL](https://ko.wikipedia.org/wiki/CONMEBOL "wikilink")에서 주관하는 15세 이하 선수들이 참가하는 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 대회이다.
+**남미 U-15 축구 선수권 대회**는 [CONMEBOL](https://ko.wikipedia.org/wiki/CONMEBOL "wikilink")에서 주관하는 15세 이하 선수들이 참가하는 [축구](../Page/축구.md "wikilink") 대회이다.
 
 ## 대회 결과
 
@@ -33,7 +33,7 @@
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>0 - 0</strong><br />
-(5 - 3 <a href="https://ko.wikipedia.org/wiki/승부차기" title="wikilink">PSO</a>)</p></td>
+(5 - 3 <a href="../Page/승부차기.md" title="wikilink">PSO</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p>2005년<br />
@@ -76,7 +76,7 @@
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>0 - 0</strong><br />
-(5 - 4 <a href="https://ko.wikipedia.org/wiki/승부차기" title="wikilink">PSO</a>)</p></td>
+(5 - 4 <a href="../Page/승부차기.md" title="wikilink">PSO</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p>2017년<br />
@@ -91,7 +91,7 @@
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>1 - 1</strong><br />
-(5 - 3 <a href="https://ko.wikipedia.org/wiki/승부차기" title="wikilink">PSO</a>)</p></td>
+(5 - 3 <a href="../Page/승부차기.md" title="wikilink">PSO</a>)</p></td>
 </tr>
 </tbody>
 </table>

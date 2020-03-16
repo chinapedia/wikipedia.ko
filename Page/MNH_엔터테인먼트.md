@@ -3,7 +3,7 @@
 
 **MNH 엔터테인먼트**(MNH Entertainment)는 대한민국의 연예 기획사이다.
 
-[JYP 엔터테인먼트에서](https://ko.wikipedia.org/wiki/JYP_엔터테인먼트 "wikilink") 매니저로 재직했던 이주섭 씨가 2014년 11월에 설립했다.
+[JYP 엔터테인먼트에서](../Page/JYP_엔터테인먼트.md "wikilink") 매니저로 재직했던 이주섭 씨가 2014년 11월에 설립했다.
 
 ## 소속 연예인
 
@@ -12,13 +12,13 @@
 
 ## 소속 연습생
 
-  - [이하은](https://ko.wikipedia.org/wiki/PRODUCE_48_참가자_목록 "wikilink")
-  - [황소연](https://ko.wikipedia.org/wiki/PRODUCE_48_참가자_목록 "wikilink")
+  - [이하은](../Page/PRODUCE_48_참가자_목록.md "wikilink")
+  - [황소연](../Page/PRODUCE_48_참가자_목록.md "wikilink")
 
 ## 이전 소속 연습생
 
-  - [김초연](https://ko.wikipedia.org/wiki/PRODUCE_48_참가자_목록 "wikilink")
-  - [강혜원](https://ko.wikipedia.org/wiki/강혜원 "wikilink")
+  - [김초연](../Page/PRODUCE_48_참가자_목록.md "wikilink")
+  - [강혜원](../Page/강혜원.md "wikilink")
   - [오서정](../Page/PRODUCE_101_참가자_목록.md "wikilink")
   - 박해린
 

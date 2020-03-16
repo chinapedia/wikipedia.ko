@@ -14,7 +14,7 @@
 <tr class="header">
 <th><p>구분</p></th>
 <th><p>날짜</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/ISO_3166-1_alpha-3" title="wikilink">ISO</a></p></th>
+<th><p><a href="../Page/ISO_3166-1_alpha-3.md" title="wikilink">ISO</a></p></th>
 <th><p>이름</p></th>
 <th><p>닉네임</p></th>
 <th><p>체급</p></th>
@@ -36,7 +36,7 @@
 <tr class="even">
 <td><p>2017년 12월</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김수철_(종합격투기_선수)" title="wikilink">김수철</a></p></td>
+<td><p><a href="../Page/김수철_(종합격투기_선수).md" title="wikilink">김수철</a></p></td>
 <td><p>원주아들</p></td>
 <td><p>밴텀급</p></td>
 <td><p>원주 로드짐</p></td>
@@ -49,7 +49,7 @@
 <td></td>
 <td><p>김명호</p></td>
 <td><p>금광산</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/무제한급" title="wikilink">무제한급</a></p></td>
+<td><p><a href="../Page/무제한급.md" title="wikilink">무제한급</a></p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
@@ -58,7 +58,7 @@
 <td></td>
 <td><p>베로니카 푸티나</p></td>
 <td><p>-</p></td>
-<td><p>여성부 <a href="https://ko.wikipedia.org/wiki/무제한급" title="wikilink">무제한급</a></p></td>
+<td><p>여성부 <a href="../Page/무제한급.md" title="wikilink">무제한급</a></p></td>
 <td><p>새턴 프로피</p></td>
 <td><p><a href="https://www.tapology.com/fightcenter/fighters/184984-veronika-futina">태팔러지 참조</a></p></td>
 <td></td>
@@ -68,7 +68,7 @@
 <td></td>
 <td><p>양해준</p></td>
 <td><p>헝그리</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미들급_(종합격투기)" title="wikilink">미들급</a></p></td>
+<td><p><a href="../Page/미들급_(종합격투기).md" title="wikilink">미들급</a></p></td>
 <td><p>팀파시 강남</p></td>
 <td><p><a href="https://www.tapology.com/fightcenter/fighters/hae-joon-yang-hungry">태팔러지 참조</a></p></td>
 <td></td>
@@ -78,7 +78,7 @@
 <td></td>
 <td><p>티라윳 카오랏</p></td>
 <td><p>탑 삭수린</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/라이트급_(종합격투기)" title="wikilink">라이트급</a></p></td>
+<td><p><a href="../Page/라이트급_(종합격투기).md" title="wikilink">라이트급</a></p></td>
 <td><p>타이거 무에타이</p></td>
 <td><p><a href="https://www.tapology.com/fightcenter/fighters/110894-teerayut-kawrat-top">태팔러지 참조</a></p></td>
 <td></td>
@@ -155,7 +155,7 @@
 <table>
 <thead>
 <tr class="header">
-<th><p><a href="https://ko.wikipedia.org/wiki/ISO_3166-1_alpha-3" title="wikilink">ISO</a></p></th>
+<th><p><a href="../Page/ISO_3166-1_alpha-3.md" title="wikilink">ISO</a></p></th>
 <th><p>이름</p></th>
 <th><p>나이<br />
 (만)</p></th>
@@ -340,7 +340,7 @@
 <table>
 <thead>
 <tr class="header">
-<th><p><a href="https://ko.wikipedia.org/wiki/ISO_3166-1_alpha-3" title="wikilink">ISO</a></p></th>
+<th><p><a href="../Page/ISO_3166-1_alpha-3.md" title="wikilink">ISO</a></p></th>
 <th><p>이름</p></th>
 <th><p>나이<br />
 (만)</p></th>
@@ -605,7 +605,7 @@
 <table>
 <thead>
 <tr class="header">
-<th><p><a href="https://ko.wikipedia.org/wiki/ISO_3166-1_alpha-3" title="wikilink">ISO</a></p></th>
+<th><p><a href="../Page/ISO_3166-1_alpha-3.md" title="wikilink">ISO</a></p></th>
 <th><p>이름</p></th>
 <th><p>나이<br />
 (만)</p></th>
@@ -780,7 +780,7 @@
 <td><p><a href="https://www.tapology.com/fightcenter/fighters/99526-jong-chan-choi">태팔러지 참조</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/권아솔" title="wikilink">권아솔</a></p></td>
+<td><p><a href="../Page/권아솔.md" title="wikilink">권아솔</a></p></td>
 <td></td>
 <td><p>177</p></td>
 <td><p>권선정</p></td>
@@ -960,7 +960,7 @@
 <table>
 <thead>
 <tr class="header">
-<th><p><a href="https://ko.wikipedia.org/wiki/ISO_3166-1_alpha-3" title="wikilink">ISO</a></p></th>
+<th><p><a href="../Page/ISO_3166-1_alpha-3.md" title="wikilink">ISO</a></p></th>
 <th><p>이름</p></th>
 <th><p>나이<br />
 (만)</p></th>
@@ -1185,7 +1185,7 @@
 <table>
 <thead>
 <tr class="header">
-<th><p><a href="https://ko.wikipedia.org/wiki/ISO_3166-1_alpha-3" title="wikilink">ISO</a></p></th>
+<th><p><a href="../Page/ISO_3166-1_alpha-3.md" title="wikilink">ISO</a></p></th>
 <th><p>이름</p></th>
 <th><p>나이<br />
 (만)</p></th>
@@ -1421,7 +1421,7 @@
 <table>
 <thead>
 <tr class="header">
-<th><p><a href="https://ko.wikipedia.org/wiki/ISO_3166-1_alpha-3" title="wikilink">ISO</a></p></th>
+<th><p><a href="../Page/ISO_3166-1_alpha-3.md" title="wikilink">ISO</a></p></th>
 <th><p>이름</p></th>
 <th><p>나이<br />
 (만)</p></th>
@@ -1636,7 +1636,7 @@
 <table>
 <thead>
 <tr class="header">
-<th><p><a href="https://ko.wikipedia.org/wiki/ISO_3166-1_alpha-3" title="wikilink">ISO</a></p></th>
+<th><p><a href="../Page/ISO_3166-1_alpha-3.md" title="wikilink">ISO</a></p></th>
 <th><p>이름</p></th>
 <th><p>나이<br />
 (만)</p></th>
@@ -1781,7 +1781,7 @@
 <table>
 <thead>
 <tr class="header">
-<th><p><a href="https://ko.wikipedia.org/wiki/ISO_3166-1_alpha-3" title="wikilink">ISO</a></p></th>
+<th><p><a href="../Page/ISO_3166-1_alpha-3.md" title="wikilink">ISO</a></p></th>
 <th><p>이름</p></th>
 <th><p>나이<br />
 (만)</p></th>
@@ -2015,7 +2015,7 @@
 <table>
 <thead>
 <tr class="header">
-<th><p><a href="https://ko.wikipedia.org/wiki/ISO_3166-1_alpha-3" title="wikilink">ISO</a></p></th>
+<th><p><a href="../Page/ISO_3166-1_alpha-3.md" title="wikilink">ISO</a></p></th>
 <th><p>이름</p></th>
 <th><p>나이<br />
 (만)</p></th>
@@ -2284,8 +2284,8 @@
 ## 관련 문서
 
   - [로드 FC 챔피언 목록](https://ko.wikipedia.org/wiki/로드_FC_챔피언_목록 "wikilink")
-  - [로드 FC 대회 목록](https://ko.wikipedia.org/wiki/로드_FC_대회_목록 "wikilink")
-  - [로드 FC 기록 목록](https://ko.wikipedia.org/wiki/로드_FC_기록_목록 "wikilink")
+  - [로드 FC 대회 목록](../Page/로드_FC_대회_목록.md "wikilink")
+  - [로드 FC 기록 목록](../Page/로드_FC_기록_목록.md "wikilink")
   - [로드 FC 어워즈](../Page/로드_FC_어워즈.md "wikilink")
 
 ## 각주

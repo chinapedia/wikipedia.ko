@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [7SENSES](https://ko.wikipedia.org/wiki/7SENSES).
 
 
-**7SENSES**(세븐 센스)는 중국 여성 아이돌 그룹 [SNH48](https://ko.wikipedia.org/wiki/SNH48 "wikilink")의 7인조 파생 그룹이다.
+**7SENSES**(세븐 센스)는 중국 여성 아이돌 그룹 [SNH48](../Page/SNH48.md "wikilink")의 7인조 파생 그룹이다.
 
 ## 멤버
 
@@ -36,7 +36,7 @@
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/다이멍" title="wikilink">다이멍</a></strong><br />
 </p></td>
 <td><p>Diamond</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/SNH48" title="wikilink">SNH48</a> 팀SII</p></td>
+<td><p><a href="../Page/SNH48.md" title="wikilink">SNH48</a> 팀SII</p></td>
 <td><p>, 부캡틴</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/상하이_시" title="wikilink">상하이 시</a></p></td>
 </tr>

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ B. ](https://ko.wikipedia.org/wiki/_B._).
 
 
-**에드워드 버트 루이스**(, [1918년](https://ko.wikipedia.org/wiki/1918년 "wikilink") [5월 20일](https://ko.wikipedia.org/wiki/5월_20일 "wikilink") \~ [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [7월 21일](https://ko.wikipedia.org/wiki/7월_21일 "wikilink"))는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [유전학](https://ko.wikipedia.org/wiki/유전학 "wikilink")자이다. 1995년에 초기 배아 분화를 조절하는 유전자 무리인 [호메오박스](https://ko.wikipedia.org/wiki/호메오박스 "wikilink")를 발견한 공로로 [크리스티아네 뉘슬라인폴하르트](https://ko.wikipedia.org/wiki/크리스티아네_뉘슬라인폴하르트 "wikilink"), [에릭 F. 위샤우스와](https://ko.wikipedia.org/wiki/에릭_F._위샤우스 "wikilink") 함께 [노벨 생리학·의학상을](https://ko.wikipedia.org/wiki/노벨_생리학·의학상 "wikilink") 수상했다.\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]
+**에드워드 버트 루이스**(, [1918년](../Page/1918년.md "wikilink") [5월 20일](../Page/5월_20일.md "wikilink") \~ [2004년](../Page/2004년.md "wikilink") [7월 21일](../Page/7월_21일.md "wikilink"))는 [미국](../Page/미국.md "wikilink")의 [유전학](../Page/유전학.md "wikilink")자이다. 1995년에 초기 배아 분화를 조절하는 유전자 무리인 [호메오박스](https://ko.wikipedia.org/wiki/호메오박스 "wikilink")를 발견한 공로로 [크리스티아네 뉘슬라인폴하르트](../Page/크리스티아네_뉘슬라인폴하르트.md "wikilink"), [에릭 F. 위샤우스와](../Page/에릭_F._위샤우스.md "wikilink") 함께 [노벨 생리학·의학상을](../Page/노벨_생리학·의학상.md "wikilink") 수상했다.\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]
 
 ## 수상 경력
 
@@ -14,7 +14,7 @@
 
 ## 회원
 
-  - 1989년 : [왕립학회](https://ko.wikipedia.org/wiki/왕립학회 "wikilink") 외국인 회원\[7\]\[8\]
+  - 1989년 : [왕립학회](../Page/왕립학회.md "wikilink") 외국인 회원\[7\]\[8\]
 
 ## 각주
 

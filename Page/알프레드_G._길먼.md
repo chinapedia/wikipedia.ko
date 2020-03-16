@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ G. ](https://ko.wikipedia.org/wiki/_G._).
 
 
-**알프레드 굿맨 길먼**(, [1941년](https://ko.wikipedia.org/wiki/1941년 "wikilink") [7월 1일](https://ko.wikipedia.org/wiki/7월_1일 "wikilink") \~ [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [12월 23일](https://ko.wikipedia.org/wiki/12월_23일 "wikilink"))은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [생화학](https://ko.wikipedia.org/wiki/생화학 "wikilink")자, [약리학](https://ko.wikipedia.org/wiki/약리학 "wikilink")자\[1\]이다. 1994년에 세포막에 존재하는 [G단백질](https://ko.wikipedia.org/wiki/G단백질 "wikilink")을 발견한 공로로 [마틴 로드벨과](https://ko.wikipedia.org/wiki/마틴_로드벨 "wikilink") 함께 [노벨 생리학·의학상을](https://ko.wikipedia.org/wiki/노벨_생리학·의학상 "wikilink") 수상했다.\[2\]
+**알프레드 굿맨 길먼**(, [1941년](../Page/1941년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [12월 23일](../Page/12월_23일.md "wikilink"))은 [미국](../Page/미국.md "wikilink")의 [생화학](https://ko.wikipedia.org/wiki/생화학 "wikilink")자, [약리학](../Page/약리학.md "wikilink")자\[1\]이다. 1994년에 세포막에 존재하는 [G단백질](../Page/G단백질.md "wikilink")을 발견한 공로로 [마틴 로드벨과](../Page/마틴_로드벨.md "wikilink") 함께 [노벨 생리학·의학상을](../Page/노벨_생리학·의학상.md "wikilink") 수상했다.\[2\]
 
 ## 수상 경력
 

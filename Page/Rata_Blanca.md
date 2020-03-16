@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Rata Blanca](https://ko.wikipedia.org/wiki/Rata_Blanca).
 
 
-**Rata Blanca**는 1986년에 결성된 [아르헨티나](https://ko.wikipedia.org/wiki/아르헨티나 "wikilink")의 헤비메탈 밴드이다. 아르헨티나에서 가장 유명한 메탈밴드로 알려져 있으며 [남아프리카 공화국에서는](https://ko.wikipedia.org/wiki/남아프리카_공화국 "wikilink") 그 장르의 가장 중요한 밴드 중 하나로 여겨지고 있다. 영어로는 **White Rat**라고 표기한다.
+**Rata Blanca**는 1986년에 결성된 [아르헨티나](../Page/아르헨티나.md "wikilink")의 헤비메탈 밴드이다. 아르헨티나에서 가장 유명한 메탈밴드로 알려져 있으며 [남아프리카 공화국에서는](../Page/남아프리카_공화국.md "wikilink") 그 장르의 가장 중요한 밴드 중 하나로 여겨지고 있다. 영어로는 **White Rat**라고 표기한다.
 
 ## 역사
 

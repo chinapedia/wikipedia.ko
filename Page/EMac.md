@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [EMac](https://ko.wikipedia.org/wiki/EMac).
 
 
-**eMac**은** **2002년 [애플에서](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 교육시장을 목표로 출시한 [매킨토시](https://ko.wikipedia.org/wiki/매킨토시 "wikilink") 데스크톱 컴퓨터이다[.](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") eMac은 2005년 10월 12일 부터 소매점에서 판매되었다. 2006년 7월 5일에 단종되었으며 저렴한 교육용 iMac으로 대체되었다.
+**eMac**은** **2002년 [애플에서](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 교육시장을 목표로 출시한 [매킨토시](../Page/매킨토시.md "wikilink") 데스크톱 컴퓨터이다[.](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") eMac은 2005년 10월 12일 부터 소매점에서 판매되었다. 2006년 7월 5일에 단종되었으며 저렴한 교육용 iMac으로 대체되었다.
 
-eMac의 디자인은 1세대 [iMac과](https://ko.wikipedia.org/wiki/아이맥 "wikilink") 비슷하다. 첫 번째 iMac과 비교하여 eMac은 이전 세대 G3 프로세서보다 훨씬 빠른 PowerPC G4 프로세서와 비싼 LCD 화면 대신 교육 시장을 겨냥한 17 인치 평면 CRT 디스플레이를 특징으로한다. 그러나 iMac G3와는 달리 eMac은 무게가 23kg이고 운반 손잡이가 없어 휴대가 용이하지 않다.\[1\]
+eMac의 디자인은 1세대 [iMac과](../Page/아이맥.md "wikilink") 비슷하다. 첫 번째 iMac과 비교하여 eMac은 이전 세대 G3 프로세서보다 훨씬 빠른 PowerPC G4 프로세서와 비싼 LCD 화면 대신 교육 시장을 겨냥한 17 인치 평면 CRT 디스플레이를 특징으로한다. 그러나 iMac G3와는 달리 eMac은 무게가 23kg이고 운반 손잡이가 없어 휴대가 용이하지 않다.\[1\]
 
 ## 개요
 
@@ -70,21 +70,21 @@ eMac은 기본적으로 Mac OS 9.2.2 및 Mac OS X을 OS X 10.1.4로 부팅한다
 교육용 전용 1.25 GHz</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/CPU_캐시" title="wikilink">CPU 캐시</a></p></td>
+<td><p><a href="../Page/CPU_캐시.md" title="wikilink">CPU 캐시</a></p></td>
 <td><p>64 KB L1, 256 KB L2 (1:1)</p></td>
 <td><p>64 KB L1, 512 KB L2 온칩 (1:1)</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/프론트_사이드_버스" title="wikilink">프론트 사이드 버스</a></p></td>
+<td><p><a href="../Page/프론트_사이드_버스.md" title="wikilink">프론트 사이드 버스</a></p></td>
 <td><p>100 MHz</p></td>
 <td><p>133 MHz</p></td>
 <td><p>167 MHz</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/랜덤_액세스_메모리" title="wikilink">메모리</a></p></td>
+<td><p><a href="../Page/랜덤_액세스_메모리.md" title="wikilink">메모리</a></p></td>
 <td><p>128 MB PC133 SDRAM (1GHz SuperDrive 모델의 경우 256MB)<br />
 1GB로 확장 가능</p></td>
 <td><p>256 MB 333 MHz PC2700 DDR SDRAM (1.42 GHz SuperDrive 모델의 경우 512MB)<br />
@@ -93,21 +93,21 @@ eMac은 기본적으로 Mac OS 9.2.2 및 Mac OS X을 OS X 10.1.4로 부팅한다
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/컴퓨터_그래픽스" title="wikilink">그래픽</a></p></td>
+<td><p><a href="../Page/컴퓨터_그래픽스.md" title="wikilink">그래픽</a></p></td>
 <td><p>NVIDIA GeForce 2 MX 32MB DDR SDRAM</p></td>
 <td><p>ATI Radeon 7500 32 MB DDR SDRAM</p></td>
 <td><p>ATI Radeon 9200 32 MB DDR SDRAM</p></td>
 <td><p>ATI Radeon 9600 64 MB DDR SDRAM (교육용 전용 32 MB DDR SDRAM)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/가속_그래픽_포트" title="wikilink">AGP</a> 2x</p></td>
+<td><p><a href="../Page/가속_그래픽_포트.md" title="wikilink">AGP</a> 2x</p></td>
 <td><p>AGP 4x</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/하드_디스크_드라이브" title="wikilink">하드드라이브</a></p></td>
+<td><p><a href="../Page/하드_디스크_드라이브.md" title="wikilink">하드드라이브</a></p></td>
 <td><p>40 GB</p></td>
 <td><p>40 GB, 60 GB, 80 GB</p></td>
 <td><p>40 GB, 80 GB</p></td>
@@ -121,9 +121,9 @@ eMac은 기본적으로 Mac OS 9.2.2 및 Mac OS X을 OS X 10.1.4로 부팅한다
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/광학_디스크_드라이브" title="wikilink">광학 디스크 드라이브</a></p></td>
+<td><p><a href="../Page/광학_디스크_드라이브.md" title="wikilink">광학 디스크 드라이브</a></p></td>
 <td><p>Combo Drive (CD-RW/DVD-ROM)<br />
-<a href="https://ko.wikipedia.org/wiki/슈퍼드라이브" title="wikilink">SuperDrive</a> (DVD-RW) (선택 가능)<br />
+<a href="../Page/슈퍼드라이브.md" title="wikilink">SuperDrive</a> (DVD-RW) (선택 가능)<br />
 초기 700MHz 모델의 경우 기본적으로 CD-RW,<br />
 기본적으로 800MHz 교육용 전용 1.25GHz 모델의 경우 기본적으로 CD-ROM,<br />
  초기 800MHz 모델의 경우 기본적으로</p></td>
@@ -134,7 +134,7 @@ eMac은 기본적으로 Mac OS 9.2.2 및 Mac OS X을 OS X 10.1.4로 부팅한다
 <tr class="even">
 <td><p>연결</p></td>
 <td><p>선택 가능한 <a href="https://ko.wikipedia.org/wiki/에어포트_(애플)" title="wikilink">AirPort</a> 802.11b<br />
-10/100 BASE-T <a href="https://ko.wikipedia.org/wiki/이더넷" title="wikilink">이더넷</a><br />
+10/100 BASE-T <a href="../Page/이더넷.md" title="wikilink">이더넷</a><br />
 56k V.90 모뎀</p></td>
 <td><p>선택 가능한 AirPort Extreme 802.11b/g<br />
 10/100 BASE-T 이더넷<br />
@@ -142,19 +142,19 @@ eMac은 기본적으로 Mac OS 9.2.2 및 Mac OS X을 OS X 10.1.4로 부팅한다
 <td><p>선택 가능한 AirPort Extreme 802.11b/g<br />
 10/100 BASE-T 이더넷<br />
 56k V.92 모뎀 (교육용 1.25GHz 모델의 경우 선택 사양)<br />
-선택 가능한 <a href="https://ko.wikipedia.org/wiki/블루투스" title="wikilink">Bluetooth</a> 1.1</p></td>
+선택 가능한 <a href="../Page/블루투스.md" title="wikilink">Bluetooth</a> 1.1</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>주변장치</p></td>
-<td><p>3x <a href="https://ko.wikipedia.org/wiki/USB" title="wikilink">USB</a> 1.1<br />
-2x <a href="https://ko.wikipedia.org/wiki/IEEE_1394" title="wikilink">Firewire</a> 400<br />
+<td><p>3x <a href="../Page/USB.md" title="wikilink">USB</a> 1.1<br />
+2x <a href="../Page/IEEE_1394.md" title="wikilink">Firewire</a> 400<br />
 내장 18와트 스태레오 스피커</p></td>
-<td><p>3x <a href="https://ko.wikipedia.org/wiki/USB" title="wikilink">USB</a> 2.0<br />
-2x <a href="https://ko.wikipedia.org/wiki/IEEE_1394" title="wikilink">Firewire</a> 400<br />
+<td><p>3x <a href="../Page/USB.md" title="wikilink">USB</a> 2.0<br />
+2x <a href="../Page/IEEE_1394.md" title="wikilink">Firewire</a> 400<br />
 내장 16와트 스태레오 스피커</p></td>
-<td><p>3x <a href="https://ko.wikipedia.org/wiki/USB" title="wikilink">USB</a> 2.0<br />
-2x <a href="https://ko.wikipedia.org/wiki/IEEE_1394" title="wikilink">Firewire</a> 400<br />
+<td><p>3x <a href="../Page/USB.md" title="wikilink">USB</a> 2.0<br />
+2x <a href="../Page/IEEE_1394.md" title="wikilink">Firewire</a> 400<br />
 내장 18와트 스태레오 스피커</p></td>
 <td></td>
 </tr>
@@ -168,12 +168,12 @@ eMac은 기본적으로 Mac OS 9.2.2 및 Mac OS X을 OS X 10.1.4로 부팅한다
 </tr>
 <tr class="odd">
 <td><p>기본 운영체제</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/맥_OS_X_10.1" title="wikilink">Mac OS X 10.1.4</a> “Puma”<br />
+<td><p><a href="../Page/맥_OS_X_10.1.md" title="wikilink">Mac OS X 10.1.4</a> “Puma”<br />
 Mac OS 9.2.2</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/맥_OS_X_10.2" title="wikilink">Mac OS X 10.2.6</a> “Jaguar”<br />
+<td><p><a href="../Page/맥_OS_X_10.2.md" title="wikilink">Mac OS X 10.2.6</a> “Jaguar”<br />
 선택가능한 Mac OS 9.2.2</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/맥_OS_X_팬더" title="wikilink">Mac OS X 10.3.3</a> “Panther"</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/맥_OS_X_타이거" title="wikilink">Mac OS X 10.4</a> "Tiger"</p></td>
+<td><p><a href="../Page/맥_OS_X_팬더.md" title="wikilink">Mac OS X 10.3.3</a> “Panther"</p></td>
+<td><p><a href="../Page/맥_OS_X_타이거.md" title="wikilink">Mac OS X 10.4</a> "Tiger"</p></td>
 </tr>
 <tr class="even">
 <td><p>최신 운영체제</p></td>

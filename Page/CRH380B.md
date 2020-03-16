@@ -1,23 +1,23 @@
 > This article is converted from Wikipedia: [CRH380B](https://ko.wikipedia.org/wiki/CRH380B).
 
 
-**CRH380B형 전철**()은 [중국고속철도 CRH3](https://ko.wikipedia.org/wiki/중국고속철도_CRH3 "wikilink") 차량을 기반으로 개발된 [중화인민공화국](https://ko.wikipedia.org/wiki/중화인민공화국 "wikilink")의 [고속철도](https://ko.wikipedia.org/wiki/고속철도 "wikilink") 차량으로 **허셰호**()로 불린다. [CRH380](https://ko.wikipedia.org/wiki/CRH380 "wikilink") 모델 중에서 가장 많이 생산되었다.
+**CRH380B형 전철**()은 [중국고속철도 CRH3](../Page/중국고속철도_CRH3.md "wikilink") 차량을 기반으로 개발된 [중화인민공화국](../Page/중화인민공화국.md "wikilink")의 [고속철도](../Page/고속철도.md "wikilink") 차량으로 **허셰호**()로 불린다. [CRH380](https://ko.wikipedia.org/wiki/CRH380 "wikilink") 모델 중에서 가장 많이 생산되었다.
 
 ## 개요
 
-[2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink")에 [중화인민공화국 철도부는](https://ko.wikipedia.org/wiki/중화인민공화국_철도부 "wikilink") [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink")부터 도입 예정인 차량을 계약을 체결했고\[1\] 같은 해 [10월](https://ko.wikipedia.org/wiki/10월 "wikilink")에 8량 40편성과 16량 40편성을 추가로 주문했다.\[2\] CRH3을 기반으로 시속 최고 영업 속도 380km를 목표로 만들어진 고속철도 차량이다. 8량 편성 것은 CRH380B 특등칸(상무차)을 포함하고, 16량 편성 것은 CRH380BL로 구분된다. 생산은 베이차탕산 및 [베이차창춘이](https://ko.wikipedia.org/wiki/창춘_궤도객차 "wikilink") 담당하여 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [1월](https://ko.wikipedia.org/wiki/1월 "wikilink")에 [후항 고속철도](https://ko.wikipedia.org/wiki/후항_고속철도 "wikilink"), [후난 고속철도](https://ko.wikipedia.org/wiki/후난_고속철도 "wikilink") 구간에 영업 운전을 시작했으나 잦은 결함으로 인해 같은 해 [12월](https://ko.wikipedia.org/wiki/12월 "wikilink")에 전량 리콜 조치가 내려진 이후에 재운행에 들어갔다.\[3\]\[4\] 또한 최고 영업 속도 380km/h로 최고 영업 속도를 더 높이는 것이 가능하다.\[5\]
+[2009년](../Page/2009년.md "wikilink") [3월](../Page/3월.md "wikilink")에 [중화인민공화국 철도부는](../Page/중화인민공화국_철도부.md "wikilink") [2010년](../Page/2010년.md "wikilink")부터 도입 예정인 차량을 계약을 체결했고\[1\] 같은 해 [10월](../Page/10월.md "wikilink")에 8량 40편성과 16량 40편성을 추가로 주문했다.\[2\] CRH3을 기반으로 시속 최고 영업 속도 380km를 목표로 만들어진 고속철도 차량이다. 8량 편성 것은 CRH380B 특등칸(상무차)을 포함하고, 16량 편성 것은 CRH380BL로 구분된다. 생산은 베이차탕산 및 [베이차창춘이](https://ko.wikipedia.org/wiki/창춘_궤도객차 "wikilink") 담당하여 [2011년](../Page/2011년.md "wikilink") [1월](../Page/1월.md "wikilink")에 [후항 고속철도](https://ko.wikipedia.org/wiki/후항_고속철도 "wikilink"), [후난 고속철도](https://ko.wikipedia.org/wiki/후난_고속철도 "wikilink") 구간에 영업 운전을 시작했으나 잦은 결함으로 인해 같은 해 [12월](../Page/12월.md "wikilink")에 전량 리콜 조치가 내려진 이후에 재운행에 들어갔다.\[3\]\[4\] 또한 최고 영업 속도 380km/h로 최고 영업 속도를 더 높이는 것이 가능하다.\[5\]
 
 ## 세부 모델
 
 ### CRH380B
 
-**CRH380B형 전철**()은 [징하 고속철도](../Page/징하_고속철도.md "wikilink"), [징광 고속철도에](https://ko.wikipedia.org/wiki/징광_고속철도 "wikilink") 투입한 [고속열차](https://ko.wikipedia.org/wiki/고속열차 "wikilink")로 전 편성 [CRRC 탕산](https://ko.wikipedia.org/wiki/CRRC_탕산 "wikilink"), [CRRC 창춘에서](https://ko.wikipedia.org/wiki/CRRC_창춘 "wikilink") 제작되었다.
+**CRH380B형 전철**()은 [징하 고속철도](../Page/징하_고속철도.md "wikilink"), [징광 고속철도에](../Page/징광_고속철도.md "wikilink") 투입한 [고속열차](https://ko.wikipedia.org/wiki/고속열차 "wikilink")로 전 편성 [CRRC 탕산](https://ko.wikipedia.org/wiki/CRRC_탕산 "wikilink"), [CRRC 창춘에서](https://ko.wikipedia.org/wiki/CRRC_창춘 "wikilink") 제작되었다.
 
 파일:CRH380B-6401L.jpg 파일:CRH380B-3632@BJX_(20150118144654).JPG
 
 ### CRH380BL
 
-**CRH380BL형 전철**()은 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [9월](https://ko.wikipedia.org/wiki/9월 "wikilink")에 시제차가 생산 되었고 같은 해 [12월](https://ko.wikipedia.org/wiki/12월 "wikilink")에 최고 영업 속도 457km/h를 기록했고\[6\] [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [1월](https://ko.wikipedia.org/wiki/1월 "wikilink")에 최고 영업 속도 487.3km/h를 기록했다.\[7\]
+**CRH380BL형 전철**()은 [2010년](../Page/2010년.md "wikilink") [9월](../Page/9월.md "wikilink")에 시제차가 생산 되었고 같은 해 [12월](../Page/12월.md "wikilink")에 최고 영업 속도 457km/h를 기록했고\[6\] [2011년](../Page/2011년.md "wikilink") [1월](../Page/1월.md "wikilink")에 최고 영업 속도 487.3km/h를 기록했다.\[7\]
 
 파일:CRH3-CRH380BL.JPG 파일:CRH380BL-3541@BJN_(20170921141132).jpg
 
@@ -376,7 +376,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/중화인민공화국_철도부" title="wikilink">중화인민공화국 철도부</a></p></td>
+<td><p><a href="../Page/중화인민공화국_철도부.md" title="wikilink">중화인민공화국 철도부</a></p></td>
 <td><p>2</p></td>
 <td><p>0301, A-0504</p></td>
 <td></td>
@@ -387,8 +387,8 @@
 
 ## 관련 항목
 
-  - [중국고속철도 CRH3](https://ko.wikipedia.org/wiki/중국고속철도_CRH3 "wikilink")
-  - [CRH380A](https://ko.wikipedia.org/wiki/CRH380A "wikilink")
+  - [중국고속철도 CRH3](../Page/중국고속철도_CRH3.md "wikilink")
+  - [CRH380A](../Page/CRH380A.md "wikilink")
   - [CRH380C](../Page/CRH380C.md "wikilink")
   - [CRH380D](../Page/CRH380D.md "wikilink")
 
