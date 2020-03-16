@@ -1,18 +1,18 @@
 > This article is converted from Wikipedia: [TV   ](https://ko.wikipedia.org/wiki/TV___).
 
 
-《**TV 주치의 닥터 지바고**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [종합편성채널](https://ko.wikipedia.org/wiki/종합편성채널 "wikilink")인 [채널A](https://ko.wikipedia.org/wiki/채널A "wikilink")에서 매주 [토요일](https://ko.wikipedia.org/wiki/토요일 "wikilink") 오전 11시 10분 부터 12시 10분까지 방송하는 [텔레비전](https://ko.wikipedia.org/wiki/텔레비전 "wikilink") 프로그램이다.
+《**TV 주치의 닥터 지바고**》는 [대한민국](../Page/대한민국.md "wikilink")의 [종합편성채널](https://ko.wikipedia.org/wiki/종합편성채널 "wikilink")인 [채널A](../Page/채널A.md "wikilink")에서 매주 [토요일](../Page/토요일.md "wikilink") 오전 11시 10분 부터 12시 10분까지 방송하는 [텔레비전](../Page/텔레비전.md "wikilink") 프로그램이다.
 
 ## 방송시간
 
-  - 매주 [월요일](https://ko.wikipedia.org/wiki/월요일 "wikilink") 밤 8시 20분 \~ 9시 50분 ([2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [8월 31일](https://ko.wikipedia.org/wiki/8월_31일 "wikilink") \~ [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [9월 16일](https://ko.wikipedia.org/wiki/9월_16일 "wikilink"))
-  - 매주 [토요일](https://ko.wikipedia.org/wiki/토요일 "wikilink") 오전 11시 10분 \~ 12시 10분 ([2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [9월 28일](https://ko.wikipedia.org/wiki/9월_28일 "wikilink") \~ 현재)
+  - 매주 [월요일](../Page/월요일.md "wikilink") 밤 8시 20분 \~ 9시 50분 ([2014년](../Page/2014년.md "wikilink") [8월 31일](../Page/8월_31일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [9월 16일](../Page/9월_16일.md "wikilink"))
+  - 매주 [토요일](../Page/토요일.md "wikilink") 오전 11시 10분 \~ 12시 10분 ([2019년](../Page/2019년.md "wikilink") [9월 28일](../Page/9월_28일.md "wikilink") \~ 현재)
 
 ## 출연작
 
 ### MC
 
-  - [한석준](https://ko.wikipedia.org/wiki/한석준 "wikilink")
+  - [한석준](../Page/한석준.md "wikilink")
   - [박신영](../Page/박신영_\(아나운서\).md "wikilink")
 
 ### 이전 MC

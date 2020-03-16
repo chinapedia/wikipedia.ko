@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [ API \(\)](https://ko.wikipedia.org/wiki/_API_\(\)).
 
 
-**크립토 API**(Crypto API)는 [리눅스 커널에서](https://ko.wikipedia.org/wiki/리눅스_커널 "wikilink") 사용하는 암호 프레임워크이며, [IPsec](https://ko.wikipedia.org/wiki/IPsec "wikilink")과 dm-crypt와 같은 암호화된 데이터를 다루는 부분에서 사용한다. 리눅스 커널 버전 2.5.45에서 최초로 도입되었으며\[1\] 자주 사용되는 [블록 암호와](https://ko.wikipedia.org/wiki/블록_암호 "wikilink") [해시 함수를](https://ko.wikipedia.org/wiki/해시_함수 "wikilink") 포함하기 위해 확장되고 있다.
+**크립토 API**(Crypto API)는 [리눅스 커널에서](../Page/리눅스_커널.md "wikilink") 사용하는 암호 프레임워크이며, [IPsec](https://ko.wikipedia.org/wiki/IPsec "wikilink")과 dm-crypt와 같은 암호화된 데이터를 다루는 부분에서 사용한다. 리눅스 커널 버전 2.5.45에서 최초로 도입되었으며\[1\] 자주 사용되는 [블록 암호와](https://ko.wikipedia.org/wiki/블록_암호 "wikilink") [해시 함수를](../Page/해시_함수.md "wikilink") 포함하기 위해 확장되고 있다.
 
 ## 사용자 공간 인터페이스
 
-암호화 함수 및 해시 함수를 제공하는 플랫폼은 크게 두 가지 방식으로 나눌 수 있다. [명령어 집합 구조](https://ko.wikipedia.org/wiki/명령어_집합_구조 "wikilink") 자체에 암호화 및 해시 함수를 포함시켜서 [커널 공간이나](https://ko.wikipedia.org/wiki/커널_공간 "wikilink") [사용자 공간에](https://ko.wikipedia.org/wiki/사용자_공간 "wikilink") 있는 모든 프로그램에서 사용할 수 있도록 한 방식과, 프로세서 내부의 장치를 통해서 접근하며 OpenSSL, GnuTLS 등 사용자 공간에서는 커널 드라이버를 통해 접근해야 하는 방식이다. 명령어 집합 자체에 암호화 및 해시 함수가 포함되어 있는 프로세서는 인텔과 AMD의 [AES-NI](https://ko.wikipedia.org/wiki/AES-NI "wikilink")이며, 커널 드라이버를 사용하는 프로세서는 마벨 Kirkwood 및 [AMD 지오드](https://ko.wikipedia.org/wiki/지오드 "wikilink") 프로세서이다.
+암호화 함수 및 해시 함수를 제공하는 플랫폼은 크게 두 가지 방식으로 나눌 수 있다. [명령어 집합 구조](https://ko.wikipedia.org/wiki/명령어_집합_구조 "wikilink") 자체에 암호화 및 해시 함수를 포함시켜서 [커널 공간이나](https://ko.wikipedia.org/wiki/커널_공간 "wikilink") [사용자 공간에](../Page/사용자_공간.md "wikilink") 있는 모든 프로그램에서 사용할 수 있도록 한 방식과, 프로세서 내부의 장치를 통해서 접근하며 OpenSSL, GnuTLS 등 사용자 공간에서는 커널 드라이버를 통해 접근해야 하는 방식이다. 명령어 집합 자체에 암호화 및 해시 함수가 포함되어 있는 프로세서는 인텔과 AMD의 [AES-NI](../Page/AES-NI.md "wikilink")이며, 커널 드라이버를 사용하는 프로세서는 마벨 Kirkwood 및 [AMD 지오드](../Page/지오드.md "wikilink") 프로세서이다.
 
 크립토 API에서 제공하는 사용자 공간 인터페이스는 다음과 같다.
 

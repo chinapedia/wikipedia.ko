@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Be More](https://ko.wikipedia.org/wiki/Be_More).
 
 
-〈**Be More**〉는 [카툰 네트워크의](https://ko.wikipedia.org/wiki/카툰_네트워크 "wikilink") 애니메이션 시리즈 《[핀과 제이크의 어드벤처 타임](https://ko.wikipedia.org/wiki/핀과_제이크의_어드벤처_타임 "wikilink")》의 [다섯 번째 시즌](../Page/핀과_제이크의_어드벤처_타임_\(시즌_5\).md "wikilink") 스물여덟 번째 에피소드이다. [대한민국](https://ko.wikipedia.org/wiki/카툰_네트워크_\(대한민국\) "wikilink") 방영 명칭은 〈비모의 고향〉이다. [톰 허피치](../Page/톰_허피치.md "wikilink"), [스티브 울프하드가](../Page/스티브_울프하드.md "wikilink") 스토리보드 아티스트 및 작가로 참여했으며, 패트릭 맥헤일, [켄트 오즈본](../Page/켄트_오즈본.md "wikilink"), [펜들턴 워드](../Page/펜들턴_워드.md "wikilink"), 톰 허피치, 스티브 울프하드, [리베카 슈거가](../Page/리베카_슈거.md "wikilink") 각본을 담당했다. 2013년 7월 22일 첫 방영 되었다.
+〈**Be More**〉는 [카툰 네트워크의](../Page/카툰_네트워크.md "wikilink") 애니메이션 시리즈 《[핀과 제이크의 어드벤처 타임](../Page/핀과_제이크의_어드벤처_타임.md "wikilink")》의 [다섯 번째 시즌](../Page/핀과_제이크의_어드벤처_타임_\(시즌_5\).md "wikilink") 스물여덟 번째 에피소드이다. [대한민국](../Page/카툰_네트워크_\(대한민국\).md "wikilink") 방영 명칭은 〈비모의 고향〉이다. [톰 허피치](../Page/톰_허피치.md "wikilink"), [스티브 울프하드가](../Page/스티브_울프하드.md "wikilink") 스토리보드 아티스트 및 작가로 참여했으며, 패트릭 맥헤일, [켄트 오즈본](../Page/켄트_오즈본.md "wikilink"), [펜들턴 워드](../Page/펜들턴_워드.md "wikilink"), 톰 허피치, 스티브 울프하드, [리베카 슈거가](../Page/리베카_슈거.md "wikilink") 각본을 담당했다. 2013년 7월 22일 첫 방영 되었다.
 
 ## 줄거리
 
@@ -13,11 +13,11 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Aziz_Ansari_2012.jpg "wikilink").\]\] 〈Be More〉는 [톰 허피치와](../Page/톰_허피치.md "wikilink") [스티브 울프하드가](../Page/스티브_울프하드.md "wikilink") 스토리보드를 맡았으며, [켄트 오즈본](../Page/켄트_오즈본.md "wikilink"), [펜들턴 워드](../Page/펜들턴_워드.md "wikilink"), 패트릭 맥헤일(Patrick McHale), [리베카 슈거](../Page/리베카_슈거.md "wikilink"), 허피치, 울프하드가 각본을 담당했다. 예술 감독은 닉 제닝스(Nick Jennings), 슈퍼바이징 감독은 네이트 캐시(Nate Cash)이다.\[1\] 원래 이 에피소드는 [세 번째 시즌에](../Page/핀과_제이크의_어드벤처_타임_\(시즌_3\).md "wikilink") 제작될 예정이었지만 뒤로 미뤄졌다. 각각 〈[Simon & Marcy](../Page/Simon_&_Marcy.md "wikilink")〉와 〈The Suitor〉 이후 《어드벤처 타임》을 떠난 리베카 슈거와 패트릭 맥헤일은 세 번째 시즌 당시 제작에 참여했기에 이름이 올라갔다.\[2\]\[3\]\[4\]
 
-울프하드는 배우 [제이미 파의](https://ko.wikipedia.org/wiki/제이미_파 "wikilink") 모습을 본따 모(Moe)를 디자인했다. 원래 결말은 모가 화장실에 가야하니 핀, 제이크, 비모에게 떠나라고 말하는 것이었다. 울프하드는 허피치와 무토 덕분에 이 부분이 수정되었다고 밝혔다.\[5\] 디모 역할을 맡은 코미디언 [아지즈 안사리는](https://ko.wikipedia.org/wiki/아지즈_안사리 "wikilink") 2011년, 워드에게 [트위터](https://ko.wikipedia.org/wiki/트위터 "wikilink")를 통해서 작품에 출연 해달라는 제의를 받은 적이 있었다.\[6\] [폴 F. 톰킨스는](https://ko.wikipedia.org/wiki/폴_F._톰킨스 "wikilink") 에스모 역할을, [척 맥컨은](https://ko.wikipedia.org/wiki/척_맥컨 "wikilink") 모(Moe) 역할을 맡았다.\[7\]
+울프하드는 배우 [제이미 파의](https://ko.wikipedia.org/wiki/제이미_파 "wikilink") 모습을 본따 모(Moe)를 디자인했다. 원래 결말은 모가 화장실에 가야하니 핀, 제이크, 비모에게 떠나라고 말하는 것이었다. 울프하드는 허피치와 무토 덕분에 이 부분이 수정되었다고 밝혔다.\[5\] 디모 역할을 맡은 코미디언 [아지즈 안사리는](https://ko.wikipedia.org/wiki/아지즈_안사리 "wikilink") 2011년, 워드에게 [트위터](../Page/트위터.md "wikilink")를 통해서 작품에 출연 해달라는 제의를 받은 적이 있었다.\[6\] [폴 F. 톰킨스는](https://ko.wikipedia.org/wiki/폴_F._톰킨스 "wikilink") 에스모 역할을, [척 맥컨은](https://ko.wikipedia.org/wiki/척_맥컨 "wikilink") 모(Moe) 역할을 맡았다.\[7\]
 
 ## 반응
 
-〈Be More〉는 2013년 7월 22일 [카툰 네트워크를](https://ko.wikipedia.org/wiki/카툰_네트워크 "wikilink") 통해 첫 방영되었다. [닐슨 시청률에](https://ko.wikipedia.org/wiki/AGB_닐슨 "wikilink") 따르면 267만 명의 시청자 수를 기록했으며, 18세부터 49세 연령층 중 0.7%가 시청하였다.\[8\] 2014년에는 DVD 《The Suitor》를 통해 첫 실물 발매되었다.\[9\]
+〈Be More〉는 2013년 7월 22일 [카툰 네트워크를](../Page/카툰_네트워크.md "wikilink") 통해 첫 방영되었다. [닐슨 시청률에](https://ko.wikipedia.org/wiki/AGB_닐슨 "wikilink") 따르면 267만 명의 시청자 수를 기록했으며, 18세부터 49세 연령층 중 0.7%가 시청하였다.\[8\] 2014년에는 DVD 《The Suitor》를 통해 첫 실물 발매되었다.\[9\]
 
 《[디 A.V. 클럽](../Page/디_A.V._클럽.md "wikilink")》의 올리버 사바(Oliver Sava)는 ‘B+’ 등급을 주었다. 사바는 비모의 탐험을 다룬 점과 모(Moe)라는 등장인물을 통해 새로운 이야기를 만들었다는 점에서 좋았다고 말했다. 또한 안사리와 톰킨스의 목소리 연기에 대해서는 “이 작품에 등장하는 성우들은 뚜렷한 목소리를 가지고 있으며, 그런 자연스러운 연기가 인물을 더욱 구체적으로 만들고 기억하기 쉽도록 만든다.”라고 언급했다.\[10\]
 

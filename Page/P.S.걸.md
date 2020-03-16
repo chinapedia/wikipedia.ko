@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [P.S.](https://ko.wikipedia.org/wiki/P.S.).
 
 
-《**P.S.걸**》은 [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink")에 개봉한 [대한민국의](https://ko.wikipedia.org/wiki/대한민국_영화 "wikilink") 영화이다.
+《**P.S.걸**》은 [2016년](../Page/2016년.md "wikilink")에 개봉한 [대한민국의](https://ko.wikipedia.org/wiki/대한민국_영화 "wikilink") 영화이다.
 
 ## 캐스팅
 

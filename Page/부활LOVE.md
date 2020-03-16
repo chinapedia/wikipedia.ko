@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LOVE](https://ko.wikipedia.org/wiki/LOVE).
 
 
-〈**부활LOVE**〉()는, [아라시](https://ko.wikipedia.org/wiki/아라시 "wikilink")의 48번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink").
+〈**부활LOVE**〉()는, [아라시](../Page/아라시.md "wikilink")의 48번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 
@@ -17,7 +17,7 @@
 
 1.  **LOVE** / <small>**부활LOVE**</small>
       -
-        작사: [타케우치 마리야](https://ko.wikipedia.org/wiki/타케우치_마리야 "wikilink") / 작곡·편곡: [야마시타 타츠로](https://ko.wikipedia.org/wiki/야마시타_타츠로 "wikilink")
+        작사: [타케우치 마리야](../Page/타케우치_마리야.md "wikilink") / 작곡·편곡: [야마시타 타츠로](../Page/야마시타_타츠로.md "wikilink")
 2.  **affection**
       -
         작사·작곡: nobby / 편곡: [사사키 히로후미](https://ko.wikipedia.org/wiki/사사키_히로후미 "wikilink")

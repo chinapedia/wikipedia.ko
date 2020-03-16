@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [  \(ECHL\)](https://ko.wikipedia.org/wiki/__\(ECHL\)).
 
 
-**온타리오 레인**(Ontario Reign)는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [캘리포니아주](https://ko.wikipedia.org/wiki/캘리포니아주 "wikilink") [온타리오을](https://ko.wikipedia.org/wiki/온타리오_\(캘리포니아주\) "wikilink") 연고지로 하는 2008년부터 2015년까지 [ECHL](../Page/ECHL.md "wikilink") 소속되었던 아이스 하키팀이다.
+**온타리오 레인**(Ontario Reign)는 [미국](../Page/미국.md "wikilink") [캘리포니아주](../Page/캘리포니아주.md "wikilink") [온타리오을](../Page/온타리오_\(캘리포니아주\).md "wikilink") 연고지로 하는 2008년부터 2015년까지 [ECHL](../Page/ECHL.md "wikilink") 소속되었던 아이스 하키팀이다.
 
-2015년 연고지를 [뉴햄프셔주](https://ko.wikipedia.org/wiki/뉴햄프셔주 "wikilink") [맨체스터](https://ko.wikipedia.org/wiki/맨체스터_\(뉴햄프셔주\) "wikilink") ([맨체스터 모나크스](../Page/맨체스터_모나크스_\(ECHL\).md "wikilink"))로 이전했다.
+2015년 연고지를 [뉴햄프셔주](../Page/뉴햄프셔주.md "wikilink") [맨체스터](../Page/맨체스터_\(뉴햄프셔주\).md "wikilink") ([맨체스터 모나크스](../Page/맨체스터_모나크스_\(ECHL\).md "wikilink"))로 이전했다.
 
 ## 역대 홈경기장
 
@@ -29,7 +29,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/시티즌스_비즈니스_뱅크_아레나" title="wikilink">시티즌스 비즈니스 뱅크 아레나</a></p></td>
 <td><p>2008년~2015년</p></td>
 <td><p>9,736명</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/캘리포니아주" title="wikilink">캘리포니아주</a> <a href="https://ko.wikipedia.org/wiki/온타리오_(캘리포니아주)" title="wikilink">온타리오</a></p></td>
+<td><p><a href="../Page/캘리포니아주.md" title="wikilink">캘리포니아주</a> <a href="../Page/온타리오_(캘리포니아주).md" title="wikilink">온타리오</a></p></td>
 <td></td>
 </tr>
 </tbody>

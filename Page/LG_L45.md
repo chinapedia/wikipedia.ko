@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LG L45](https://ko.wikipedia.org/wiki/LG_L45).
 
 
-''' LG L45 '''는 [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")가 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") 중에 출시한 보급형 스마트폰이다. 정확한 출시일은 알려지지 않았으며, [인도에만](https://ko.wikipedia.org/wiki/나라_이름 "wikilink") 출시되었다.
+''' LG L45 '''는 [LG전자](../Page/LG전자.md "wikilink")가 [2014년](../Page/2014년.md "wikilink") 중에 출시한 보급형 스마트폰이다. 정확한 출시일은 알려지지 않았으며, [인도에만](https://ko.wikipedia.org/wiki/나라_이름 "wikilink") 출시되었다.
 
 ## 운영체제/소프트웨어
 
@@ -22,7 +22,7 @@ LG L45는 [4.4.2 킷캣을](https://ko.wikipedia.org/wiki/안드로이드_버전
 ## 색상
 
   - [블랙](https://ko.wikipedia.org/wiki/검정 "wikilink")
-  - [화이트](https://ko.wikipedia.org/wiki/하양 "wikilink")
+  - [화이트](../Page/하양.md "wikilink")
 
 ## 외부 링크
 

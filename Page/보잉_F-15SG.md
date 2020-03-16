@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ F-15SG](https://ko.wikipedia.org/wiki/_F-15SG).
 
 
-**보잉 F-15SG**는 미국이 제작한 전투기이다. 싱가포르가 주문했으며 기존 F-15E 에서 개조한 F-15E 계열의 전투기이다. 동남아시아 최강의 전투기로 평가받는다. [AESA](https://ko.wikipedia.org/wiki/AESA "wikilink") 레이다를 장착하고 드넓은 작전반경을 자랑하는 강력한 작전수행능력을 갖추고 있다. 싱가포르 공군이 가진 전투기 중 최강으로 평가받는다. [썸네일](https://ko.wikipedia.org/wiki/파일:F-15SG_Cope_Tiger_2012.jpg "wikilink")
+**보잉 F-15SG**는 미국이 제작한 전투기이다. 싱가포르가 주문했으며 기존 F-15E 에서 개조한 F-15E 계열의 전투기이다. 동남아시아 최강의 전투기로 평가받는다. [AESA](../Page/AESA.md "wikilink") 레이다를 장착하고 드넓은 작전반경을 자랑하는 강력한 작전수행능력을 갖추고 있다. 싱가포르 공군이 가진 전투기 중 최강으로 평가받는다. [썸네일](https://ko.wikipedia.org/wiki/파일:F-15SG_Cope_Tiger_2012.jpg "wikilink")
 
 ## 역사
 

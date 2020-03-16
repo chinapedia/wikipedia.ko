@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  \(ECHL\)](https://ko.wikipedia.org/wiki/__\(ECHL\)).
 
 
-**샬럿 체커스**(Charlotte Checkers)는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [노스캐롤라이나주](https://ko.wikipedia.org/wiki/노스캐롤라이나주 "wikilink") [샬럿](https://ko.wikipedia.org/wiki/샬럿 "wikilink")을 연고지로 하는 1993년부터 2010년까지 [ECHL](../Page/ECHL.md "wikilink") 소속되었던 아이스 하키팀이다.
+**샬럿 체커스**(Charlotte Checkers)는 [미국](../Page/미국.md "wikilink") [노스캐롤라이나주](../Page/노스캐롤라이나주.md "wikilink") [샬럿](../Page/샬럿.md "wikilink")을 연고지로 하는 1993년부터 2010년까지 [ECHL](../Page/ECHL.md "wikilink") 소속되었던 아이스 하키팀이다.
 
 ## 역대 홈경기장
 
@@ -27,7 +27,7 @@
 <td><p><a href="../Page/보쟁글스_콜리시엄.md" title="wikilink">크리켓 아레나</a></p></td>
 <td><p>1993년~2005년</p></td>
 <td><p>8,600명</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/노스캐롤라이나주" title="wikilink">노스캐롤라이나주</a> <a href="https://ko.wikipedia.org/wiki/샬럿" title="wikilink">샬럿</a></p></td>
+<td><p><a href="../Page/노스캐롤라이나주.md" title="wikilink">노스캐롤라이나주</a> <a href="../Page/샬럿.md" title="wikilink">샬럿</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

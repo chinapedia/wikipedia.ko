@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [Cron](https://ko.wikipedia.org/wiki/Cron).
 
 
-소프트웨어 유틸리티 **cron**은 [유닉스 계열](https://ko.wikipedia.org/wiki/유닉스_계열 "wikilink") 컴퓨터 [운영 체제의](https://ko.wikipedia.org/wiki/운영_체제 "wikilink") 시간 기반 [잡 스케줄러이다](https://ko.wikipedia.org/wiki/잡_스케줄러 "wikilink"). 소프트웨어 환경을 설정하고 관리하는 사람들은 작업을 고정된 시간, 날짜, 간격에 주기적으로 실행할 수 있도록 스케줄링하기 위해 cron을 사용한다.
+소프트웨어 유틸리티 **cron**은 [유닉스 계열](../Page/유닉스_계열.md "wikilink") 컴퓨터 [운영 체제의](../Page/운영_체제.md "wikilink") 시간 기반 [잡 스케줄러이다](https://ko.wikipedia.org/wiki/잡_스케줄러 "wikilink"). 소프트웨어 환경을 설정하고 관리하는 사람들은 작업을 고정된 시간, 날짜, 간격에 주기적으로 실행할 수 있도록 스케줄링하기 위해 cron을 사용한다.
 
 ## 개요
 
-cron은 셸 명령어들이 주어진 일정에 주기적으로 실행하도록 규정해놓은 crontab (cron table) 파일에 의해 구동된다. crontab 파일들은 잡 목록 및 cron [데몬에](https://ko.wikipedia.org/wiki/데몬_\(컴퓨팅\) "wikilink") 대한 다른 명령들이 보관된 위치에 저장되어 있다. 사용자들은 자신들만의 개개의 crontab 파일들을 가질 수 있으며, 가끔은 /etc 또는 /etc의 하위 디렉터리에 시스템 관리자들만이 편집할 수 있는, 시스템 전반에 영향을 미치는 crontab 파일이 존재하는 경우도 있다.
+cron은 셸 명령어들이 주어진 일정에 주기적으로 실행하도록 규정해놓은 crontab (cron table) 파일에 의해 구동된다. crontab 파일들은 잡 목록 및 cron [데몬에](../Page/데몬_\(컴퓨팅\).md "wikilink") 대한 다른 명령들이 보관된 위치에 저장되어 있다. 사용자들은 자신들만의 개개의 crontab 파일들을 가질 수 있으며, 가끔은 /etc 또는 /etc의 하위 디렉터리에 시스템 관리자들만이 편집할 수 있는, 시스템 전반에 영향을 미치는 crontab 파일이 존재하는 경우도 있다.
 
 ### 예
 
-다음은 cron 사용자의 기본 셸이 [본 셸](https://ko.wikipedia.org/wiki/본_셸 "wikilink") 호환이라는 가정 하에 매일 자정 이후 1분 째에 아파치 오류 로그를 삭제한다.
+다음은 cron 사용자의 기본 셸이 [본 셸](../Page/본_셸.md "wikilink") 호환이라는 가정 하에 매일 자정 이후 1분 째에 아파치 오류 로그를 삭제한다.
 
 ``` bash
 1 0 * * *  printf > /var/log/apache/error_log
@@ -41,7 +41,7 @@ cron은 셸 명령어들이 주어진 일정에 주기적으로 실행하도록 
 ## 같이 보기
 
   - [at (유닉스)](https://ko.wikipedia.org/wiki/at_\(유닉스\) "wikilink")
-  - [스케줄링 (컴퓨팅)](https://ko.wikipedia.org/wiki/스케줄링_\(컴퓨팅\) "wikilink")
+  - [스케줄링 (컴퓨팅)](../Page/스케줄링_\(컴퓨팅\).md "wikilink")
   - [유닉스 명령어 목록](../Page/유닉스_명령어_목록.md "wikilink")
 
 ## 외부 링크

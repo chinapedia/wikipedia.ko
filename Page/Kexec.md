@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Kexec](https://ko.wikipedia.org/wiki/Kexec).
 
 
-**kexec**은 현재 돌아가는 커널에 새로운 커널을 부팅하게 하는 [리눅스 커널의](https://ko.wikipedia.org/wiki/리눅스_커널 "wikilink") 메커니즘이다. 근본적으로 kexec는 [부트로더](https://ko.wikipedia.org/wiki/부트로더 "wikilink") 단계와 하드웨어 초기화 단계를 건너뛰며 직접적으로 새로운 커널을 메인 메모리에 로드하고 즉시 실행한다. 이것은 전체 리부팅과 관련된 긴 시간을 피하고 [다운타임](https://ko.wikipedia.org/wiki/다운타임 "wikilink")을 최소화 시킴으로써 시스템이 높은 가용성을 충족하게 한다.\[1\]\[2\]
+**kexec**은 현재 돌아가는 커널에 새로운 커널을 부팅하게 하는 [리눅스 커널의](../Page/리눅스_커널.md "wikilink") 메커니즘이다. 근본적으로 kexec는 [부트로더](https://ko.wikipedia.org/wiki/부트로더 "wikilink") 단계와 하드웨어 초기화 단계를 건너뛰며 직접적으로 새로운 커널을 메인 메모리에 로드하고 즉시 실행한다. 이것은 전체 리부팅과 관련된 긴 시간을 피하고 [다운타임](https://ko.wikipedia.org/wiki/다운타임 "wikilink")을 최소화 시킴으로써 시스템이 높은 가용성을 충족하게 한다.\[1\]\[2\]
 
 실현 가능케하기 위해 kexec는 다음의 두 가지 메커니즘을 구현해야 한다.
 

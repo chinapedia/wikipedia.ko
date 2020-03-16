@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ AC](https://ko.wikipedia.org/wiki/_AC).
 
 
-**히베르 아틀레치쿠 클루비**(Ríver Atlético Clube)는 [브라질](https://ko.wikipedia.org/wiki/브라질 "wikilink")의 축구단으로 [피아우이주](https://ko.wikipedia.org/wiki/피아우이주 "wikilink")의 [테레지나](https://ko.wikipedia.org/wiki/테레지나 "wikilink")를 연고로 한다.
+**히베르 아틀레치쿠 클루비**(Ríver Atlético Clube)는 [브라질](../Page/브라질.md "wikilink")의 축구단으로 [피아우이주](https://ko.wikipedia.org/wiki/피아우이주 "wikilink")의 [테레지나](https://ko.wikipedia.org/wiki/테레지나 "wikilink")를 연고로 한다.
 
 ## 우승
 

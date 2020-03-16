@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Melting](https://ko.wikipedia.org/wiki/Melting).
 
 
-《**Melting**》은 대한민국의 여성 음악 그룹 [마마무](../Page/마마무.md "wikilink")의 정규 1집 음반이다. [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [2월 26일에](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") 발매되었으며, 발매 전날 홍대 예스24 무브홀에서 쇼케이스를, [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink") [뮤직뱅크](https://ko.wikipedia.org/wiki/뮤직뱅크 "wikilink")에서 타이틀 곡 〈넌 is 뭔들〉과 선공개 싱글 〈I Miss You〉로 첫방송을 가졌다.
+《**Melting**》은 대한민국의 여성 음악 그룹 [마마무](../Page/마마무.md "wikilink")의 정규 1집 음반이다. [2016년](../Page/2016년.md "wikilink") [2월 26일에](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") 발매되었으며, 발매 전날 홍대 예스24 무브홀에서 쇼케이스를, [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink") [뮤직뱅크](../Page/뮤직뱅크.md "wikilink")에서 타이틀 곡 〈넌 is 뭔들〉과 선공개 싱글 〈I Miss You〉로 첫방송을 가졌다.
 
 ## 개요
 

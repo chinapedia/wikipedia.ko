@@ -5,7 +5,7 @@
 
 ## 2010년대
 
-  - 2015년 9월 15일 [타입비](https://ko.wikipedia.org/wiki/타입비 "wikilink") - **Feeling Down**
+  - 2015년 9월 15일 [타입비](../Page/타입비.md "wikilink") - **Feeling Down**
   - 2015년 11월 2일 [VAV](../Page/VAV.md "wikilink") - **Under the moonlight**
   - 2016년 5월 10일 VAV - **Brotherhood**
   - 2016년 7월 1일 VAV - **No Doubt**
@@ -35,4 +35,4 @@
 
 1.  [이시몬](https://ko.wikipedia.org/wiki/이시몬 "wikilink"),[김기태](https://ko.wikipedia.org/wiki/김기태 "wikilink"),[지하트](https://ko.wikipedia.org/wiki/지하트 "wikilink")도 앨범 참여.
 2.  [Feel Good도](https://ko.wikipedia.org/wiki/Feel_Good "wikilink") 앨범 참여.
-3.  [애프터스쿨](https://ko.wikipedia.org/wiki/애프터스쿨 "wikilink")의 멤버 [이가은](https://ko.wikipedia.org/wiki/가은_\(1994년\) "wikilink"),[김현아](https://ko.wikipedia.org/wiki/프로듀스_48 "wikilink"),[신수현](https://ko.wikipedia.org/wiki/프로듀스_48 "wikilink"),[고유진](https://ko.wikipedia.org/wiki/프로듀스_48 "wikilink") 외 91명도 앨범 참여.
+3.  [애프터스쿨](../Page/애프터스쿨.md "wikilink")의 멤버 [이가은](https://ko.wikipedia.org/wiki/가은_\(1994년\) "wikilink"),[김현아](https://ko.wikipedia.org/wiki/프로듀스_48 "wikilink"),[신수현](https://ko.wikipedia.org/wiki/프로듀스_48 "wikilink"),[고유진](https://ko.wikipedia.org/wiki/프로듀스_48 "wikilink") 외 91명도 앨범 참여.

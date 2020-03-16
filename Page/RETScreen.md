@@ -53,7 +53,7 @@ RETScreen과 RETScreen 팀은 Ernst & Young/Euromoney 글로벌 재생 에너지
 
 ## 참고자료
 
-  - [재생 가능 에너지](https://ko.wikipedia.org/wiki/재생_가능_에너지 "wikilink")
+  - [재생 가능 에너지](../Page/재생_가능_에너지.md "wikilink")
 
 ## 각주
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MYST3RY](https://ko.wikipedia.org/wiki/MYST3RY).
 
 
-〈**MYST3RY**〉는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [걸 그룹](https://ko.wikipedia.org/wiki/걸_그룹 "wikilink") [레이디스 코드의](../Page/레이디스_코드.md "wikilink") 세 번째 [싱글 앨범이다](https://ko.wikipedia.org/wiki/싱글_앨범 "wikilink"). 2016년 2월 24일에 발매되었다.
+〈**MYST3RY**〉는 [대한민국](../Page/대한민국.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") [레이디스 코드의](../Page/레이디스_코드.md "wikilink") 세 번째 [싱글 앨범이다](https://ko.wikipedia.org/wiki/싱글_앨범 "wikilink"). 2016년 2월 24일에 발매되었다.
 
 ## 곡 목록
 

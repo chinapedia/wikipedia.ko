@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Sleep \(\)](https://ko.wikipedia.org/wiki/Sleep_\(\)).
 
 
-**sleep**은 지정된 시간 동안 프로그램 실행을 [유예시키는](https://ko.wikipedia.org/wiki/sleep_\(시스템_호출\) "wikilink") [유닉스](https://ko.wikipedia.org/wiki/유닉스 "wikilink") [명령 줄](https://ko.wikipedia.org/wiki/명령_줄 "wikilink") 프로그램이다. 이 sleep 명령은 적어도 지정된 초 (기본값), 분, 시간, 날 동안 호출 중인 프로세스를 유예한다.
+**sleep**은 지정된 시간 동안 프로그램 실행을 [유예시키는](https://ko.wikipedia.org/wiki/sleep_\(시스템_호출\) "wikilink") [유닉스](../Page/유닉스.md "wikilink") [명령 줄](https://ko.wikipedia.org/wiki/명령_줄 "wikilink") 프로그램이다. 이 sleep 명령은 적어도 지정된 초 (기본값), 분, 시간, 날 동안 호출 중인 프로세스를 유예한다.
 
 ## 사용법
 
@@ -9,7 +9,7 @@
  sleep 숫자
 ```
 
-숫자가 정수인 곳은 초 단위로 인지한다. 일부 구현체는 [부동소수점](https://ko.wikipedia.org/wiki/부동소수점 "wikilink") 숫자도 지원할 수 있다. 그 밖의 특별한 옵션은 없다.
+숫자가 정수인 곳은 초 단위로 인지한다. 일부 구현체는 [부동소수점](../Page/부동소수점.md "wikilink") 숫자도 지원할 수 있다. 그 밖의 특별한 옵션은 없다.
 
 ## 예
 
@@ -41,7 +41,7 @@
 
 위 명령은 5시간 sleep하고, 약 30분 간 sleep한다.
 
-[GNU 프로젝트의](https://ko.wikipedia.org/wiki/GNU_프로젝트 "wikilink") sleep 구현체([coreutils](https://ko.wikipedia.org/wiki/coreutils "wikilink")의 일부)는 사용자가 여러 개의 변수를 받을 수 있게 하므로 sleep 5h 30m(시간과 분 사이 공백 필수)와 같은 명령은 [리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink")를 포함한 GNU sleep을 사용하는 어떠한 시스템에서도 동작한다.
+[GNU 프로젝트의](../Page/GNU_프로젝트.md "wikilink") sleep 구현체([coreutils](https://ko.wikipedia.org/wiki/coreutils "wikilink")의 일부)는 사용자가 여러 개의 변수를 받을 수 있게 하므로 sleep 5h 30m(시간과 분 사이 공백 필수)와 같은 명령은 [리눅스](../Page/리눅스.md "wikilink")를 포함한 GNU sleep을 사용하는 어떠한 시스템에서도 동작한다.
 
 sleep의 용도로는 작업 스케줄링, 특정 프로세스 실행 지연, 공유 네트워크 연결 전 대기 등이 포함된다.
 

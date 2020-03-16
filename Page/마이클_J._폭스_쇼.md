@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ J.  ](https://ko.wikipedia.org/wiki/_J.__).
 
 
-《**마이클 J. 폭스 쇼**》()는 2013년 9월 26일부터 2014년 1월 23일까지 [NBC](https://ko.wikipedia.org/wiki/NBC "wikilink")에서 방영된 [마이클 J. 폭스](https://ko.wikipedia.org/wiki/마이클_J._폭스 "wikilink") 주연의 미국 시트콤이다.
+《**마이클 J. 폭스 쇼**》()는 2013년 9월 26일부터 2014년 1월 23일까지 [NBC](../Page/NBC.md "wikilink")에서 방영된 [마이클 J. 폭스](https://ko.wikipedia.org/wiki/마이클_J._폭스 "wikilink") 주연의 미국 시트콤이다.
 
 폭스에게는 [ABC의](https://ko.wikipedia.org/wiki/미국_방송_회사 "wikilink") 《[스핀 시티](https://ko.wikipedia.org/wiki/스핀_시티 "wikilink")》 이후 처음으로 텔레비전 드라마의 레귤러 출연작이다. 또한 NBC 시리즈에 고정 출연하는 것은 《[패밀리 타이즈](../Page/패밀리_타이즈.md "wikilink")》 (1982년-1989년) 이후 두 번째이다.
 

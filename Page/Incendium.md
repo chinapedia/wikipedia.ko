@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Incendium](https://ko.wikipedia.org/wiki/Incendium).
 
 
-〈**Incendium**〉은 [카툰 네트워크의](https://ko.wikipedia.org/wiki/카툰_네트워크 "wikilink") 애니메이션 시리즈 《[핀과 제이크의 어드벤처 타임](https://ko.wikipedia.org/wiki/핀과_제이크의_어드벤처_타임 "wikilink")》의 [세 번째 시즌](../Page/핀과_제이크의_어드벤처_타임_\(시즌_3\).md "wikilink") 스물여섯 번째 에피소드이다. [대한민국](https://ko.wikipedia.org/wiki/카툰_네트워크_\(대한민국\) "wikilink") 방영 명칭은 〈불꽃같은 사랑〉이다. [애덤 무토](https://ko.wikipedia.org/wiki/애덤_무토 "wikilink"), [리베카 슈거가](../Page/리베카_슈거.md "wikilink") 스토리보드 아티스트 및 작가로 참여했으며, 패트릭 맥헤일, [켄트 오즈본](../Page/켄트_오즈본.md "wikilink"), [펜들턴 워드](../Page/펜들턴_워드.md "wikilink"), 마크 뱅커가 각본을 담당했다. 2012년 2월 13일 첫 방영 되었으며, [네 번째 시즌](../Page/핀과_제이크의_어드벤처_타임_\(시즌_4\).md "wikilink") 첫 에피소드인 〈[Hot to the Touch](../Page/Hot_to_the_Touch.md "wikilink")〉로 이야기가 이어진다.
+〈**Incendium**〉은 [카툰 네트워크의](../Page/카툰_네트워크.md "wikilink") 애니메이션 시리즈 《[핀과 제이크의 어드벤처 타임](../Page/핀과_제이크의_어드벤처_타임.md "wikilink")》의 [세 번째 시즌](../Page/핀과_제이크의_어드벤처_타임_\(시즌_3\).md "wikilink") 스물여섯 번째 에피소드이다. [대한민국](../Page/카툰_네트워크_\(대한민국\).md "wikilink") 방영 명칭은 〈불꽃같은 사랑〉이다. [애덤 무토](https://ko.wikipedia.org/wiki/애덤_무토 "wikilink"), [리베카 슈거가](../Page/리베카_슈거.md "wikilink") 스토리보드 아티스트 및 작가로 참여했으며, 패트릭 맥헤일, [켄트 오즈본](../Page/켄트_오즈본.md "wikilink"), [펜들턴 워드](../Page/펜들턴_워드.md "wikilink"), 마크 뱅커가 각본을 담당했다. 2012년 2월 13일 첫 방영 되었으며, [네 번째 시즌](../Page/핀과_제이크의_어드벤처_타임_\(시즌_4\).md "wikilink") 첫 에피소드인 〈[Hot to the Touch](../Page/Hot_to_the_Touch.md "wikilink")〉로 이야기가 이어진다.
 
 ## 줄거리
 
@@ -21,7 +21,7 @@
 
 ## 반응
 
-〈Incendium〉은 2012년 2월 13일 [카툰 네트워크에서](https://ko.wikipedia.org/wiki/카툰_네트워크 "wikilink") 처음으로 방영되었다. 2013년에는 DVD 《Fionna and Cake》로 첫 실물 출시되었다.\[11\] 2014년 2월 25일에는 세 번째 시즌의 전체 에피소드를 담은 DVD의 일부로 다시 출시되었다.\[12\]
+〈Incendium〉은 2012년 2월 13일 [카툰 네트워크에서](../Page/카툰_네트워크.md "wikilink") 처음으로 방영되었다. 2013년에는 DVD 《Fionna and Cake》로 첫 실물 출시되었다.\[11\] 2014년 2월 25일에는 세 번째 시즌의 전체 에피소드를 담은 DVD의 일부로 다시 출시되었다.\[12\]
 
 《TV 긱 아미》(TV Geek Army)의 딘 칠더스(Dean Childers)는 전반적으로 긍정적인 평가를 내렸다. 스토리에 대해서는 ‘특별히 좋다.’(particularly well done)라고 밝혔으며, 불꽃 공주가 사실은 사악했다는 유머는 뜬금없기는 했지만 재밌었다고 말했다. 또한 결말 부분이 더 높은 기대를 할 수 있게끔 만들었다고 느꼈다고 밝혔다. 목소리 연기에 대해서는 키스 데이비드의 목소리가 역할에 잘 어울렸으며, 제시카 디치코 역시 부족한 점이 없었다고 말했다.\[13\]
 
@@ -35,8 +35,8 @@
 4.
 5.
 6.
-7.  [Muto, Adam](https://ko.wikipedia.org/wiki/애덤_무토 "wikilink"). 2014. 〈Incendium〉 \[코멘터리 트랙\], Adventure Time Season Three \[DVD\], 로스앤젤레스: [카툰 네트워크](https://ko.wikipedia.org/wiki/카툰_네트워크 "wikilink").
-8.  [Sugar, Rebecca](../Page/리베카_슈거.md "wikilink"). 2014. 〈Incendium〉 \[코멘터리 트랙\], Adventure Time Season Three \[DVD\], 로스앤젤레스: [카툰 네트워크](https://ko.wikipedia.org/wiki/카툰_네트워크 "wikilink").
+7.  [Muto, Adam](https://ko.wikipedia.org/wiki/애덤_무토 "wikilink"). 2014. 〈Incendium〉 \[코멘터리 트랙\], Adventure Time Season Three \[DVD\], 로스앤젤레스: [카툰 네트워크](../Page/카툰_네트워크.md "wikilink").
+8.  [Sugar, Rebecca](../Page/리베카_슈거.md "wikilink"). 2014. 〈Incendium〉 \[코멘터리 트랙\], Adventure Time Season Three \[DVD\], 로스앤젤레스: [카툰 네트워크](../Page/카툰_네트워크.md "wikilink").
 9.
 10.
 11.

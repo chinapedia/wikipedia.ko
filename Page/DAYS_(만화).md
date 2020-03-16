@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [DAYS \(\)](https://ko.wikipedia.org/wiki/DAYS_\(\)).
 
 
-《**DAYS**》(데이즈)는 [야스다 츠나요시의](https://ko.wikipedia.org/wiki/야스다_츠나요시 "wikilink") [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [만화](https://ko.wikipedia.org/wiki/만화 "wikilink")이며, [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") 21 · 22 합병호부터 [코단샤](https://ko.wikipedia.org/wiki/코단샤 "wikilink") 발행의 소년 만화잡지 「[주간 소년 매거진](https://ko.wikipedia.org/wiki/주간_소년_매거진 "wikilink")」에서 연재중이다.
+《**DAYS**》(데이즈)는 [야스다 츠나요시의](https://ko.wikipedia.org/wiki/야스다_츠나요시 "wikilink") [일본](../Page/일본.md "wikilink")의 [만화](../Page/만화.md "wikilink")이며, [2013년](../Page/2013년.md "wikilink") 21 · 22 합병호부터 [코단샤](https://ko.wikipedia.org/wiki/코단샤 "wikilink") 발행의 소년 만화잡지 「[주간 소년 매거진](../Page/주간_소년_매거진.md "wikilink")」에서 연재중이다.
 
 ## 개요
 
-[자전거 로드 레이스와](https://ko.wikipedia.org/wiki/도로_자전거_경기 "wikilink") [육상 경기를](https://ko.wikipedia.org/wiki/육상_경기 "wikilink") 다룬 연재 본 야스다 츠나요시의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 만화. 축구 명문 학교에 들어간 초심자가 거기서 얻은 동료에 동료로 인정 받으며 함께 성장하는 모습이 담겼다.
+[자전거 로드 레이스와](../Page/도로_자전거_경기.md "wikilink") [육상 경기를](../Page/육상_경기.md "wikilink") 다룬 연재 본 야스다 츠나요시의 [축구](../Page/축구.md "wikilink") 만화. 축구 명문 학교에 들어간 초심자가 거기서 얻은 동료에 동료로 인정 받으며 함께 성장하는 모습이 담겼다.
 
-단행본의 대에는 1권에서는 야구 만화 「[다이아몬드 A](https://ko.wikipedia.org/wiki/다이아몬드_A "wikilink")」의 작자인 [테라시마 유우지](https://ko.wikipedia.org/wiki/테라시마_유우지 "wikilink"), 2권에서는 농구 만화 「[소라의 날개](https://ko.wikipedia.org/wiki/소라의_날개 "wikilink")」의 작자인 [히나타 타케시의](https://ko.wikipedia.org/wiki/히나타_타케시 "wikilink") 추천문이 전해졌다.
+단행본의 대에는 1권에서는 야구 만화 「[다이아몬드 A](../Page/다이아몬드_A.md "wikilink")」의 작자인 [테라시마 유우지](https://ko.wikipedia.org/wiki/테라시마_유우지 "wikilink"), 2권에서는 농구 만화 「[소라의 날개](../Page/소라의_날개.md "wikilink")」의 작자인 [히나타 타케시의](https://ko.wikipedia.org/wiki/히나타_타케시 "wikilink") 추천문이 전해졌다.
 
 2015년 제39회 고단샤 만화상 소년 부문에 진출했다.
 
@@ -17,7 +17,7 @@
 
 ## 줄거리
 
-중학교에서는 왕따였던 **츠카모토 츠쿠시**는 고교 입학 전에 동갑의 축구 천재 **카자마 진**과 우연히 알게 되어, [풋살](https://ko.wikipedia.org/wiki/풋살 "wikilink")의 권유를 받는다. 풋살 경기에 나왔던 츠카모토는 잘못대로 필사적으로 달리고 골을 허용. 그 후 카자마도 츠카모토와 같은 성적 고교학생이었음을 알 수 있다. 축구 초보 츠카모토가 축구 명문 고등학교에서 동료들과 함께 성장한다.
+중학교에서는 왕따였던 **츠카모토 츠쿠시**는 고교 입학 전에 동갑의 축구 천재 **카자마 진**과 우연히 알게 되어, [풋살](../Page/풋살.md "wikilink")의 권유를 받는다. 풋살 경기에 나왔던 츠카모토는 잘못대로 필사적으로 달리고 골을 허용. 그 후 카자마도 츠카모토와 같은 성적 고교학생이었음을 알 수 있다. 축구 초보 츠카모토가 축구 명문 고등학교에서 동료들과 함께 성장한다.
 
 ## 등장인물
 
@@ -34,42 +34,42 @@
 ### 세이세키 고교
 
   - 타치바나 사유리 ()
-    성우 : [사쿠라 아야네](https://ko.wikipedia.org/wiki/사쿠라_아야네 "wikilink")
+    성우 : [사쿠라 아야네](../Page/사쿠라_아야네.md "wikilink")
 
 <!-- end list -->
 
   - 미즈키 히사히토 ()
-    성우 : [나미카와 다이스케](https://ko.wikipedia.org/wiki/나미카와_다이스케 "wikilink")
+    성우 : [나미카와 다이스케](../Page/나미카와_다이스케.md "wikilink")
 
 <!-- end list -->
 
   - 우스이 유우타 ()
-    성우 : [사쿠라이 타카히로](https://ko.wikipedia.org/wiki/사쿠라이_타카히로 "wikilink")
+    성우 : [사쿠라이 타카히로](../Page/사쿠라이_타카히로.md "wikilink")
 
 <!-- end list -->
 
   - 키미시타 아츠시 ()
-    성우 : [오노 다이스케](https://ko.wikipedia.org/wiki/오노_다이스케 "wikilink")
+    성우 : [오노 다이스케](../Page/오노_다이스케.md "wikilink")
 
 <!-- end list -->
 
   - 오오시바 키이치 ()
-    성우 : [미야노 마모루](https://ko.wikipedia.org/wiki/미야노_마모루 "wikilink")
+    성우 : [미야노 마모루](../Page/미야노_마모루.md "wikilink")
 
 <!-- end list -->
 
   - 하이바라 지로 ()
-    성우 : [시모노 히로](https://ko.wikipedia.org/wiki/시모노_히로 "wikilink")
+    성우 : [시모노 히로](../Page/시모노_히로.md "wikilink")
 
 <!-- end list -->
 
   - 이노하라 스스무 ()
-    성우 : [야스모토 히로키](https://ko.wikipedia.org/wiki/야스모토_히로키 "wikilink")
+    성우 : [야스모토 히로키](../Page/야스모토_히로키.md "wikilink")
 
 <!-- end list -->
 
   - 쿠루스 히로유키 ()
-    성우 : [요시노 히로유키](https://ko.wikipedia.org/wiki/요시노_히로유키 "wikilink")
+    성우 : [요시노 히로유키](../Page/요시노_히로유키.md "wikilink")
 
 <!-- end list -->
 
@@ -84,7 +84,7 @@
 <!-- end list -->
 
   - 나키진 쇼 ()
-    성우 : [토요나가 토시유키](https://ko.wikipedia.org/wiki/토요나가_토시유키 "wikilink")
+    성우 : [토요나가 토시유키](../Page/토요나가_토시유키.md "wikilink")
 
 <!-- end list -->
 
@@ -114,7 +114,7 @@
 <!-- end list -->
 
   - 우부키타 치카코 ()
-    성우 : [이세 마리야](https://ko.wikipedia.org/wiki/이세_마리야 "wikilink")
+    성우 : [이세 마리야](../Page/이세_마리야.md "wikilink")
 
 <!-- end list -->
 
@@ -124,7 +124,7 @@
 ### 사쿠라키 고교
 
   - 인도 카오루 ()
-    성우 : [세키 토모카즈](https://ko.wikipedia.org/wiki/세키_토모카즈 "wikilink")
+    성우 : [세키 토모카즈](../Page/세키_토모카즈.md "wikilink")
 
 <!-- end list -->
 
@@ -149,7 +149,7 @@
 <!-- end list -->
 
   - 히무라 마유미 ()
-    성우 : [KENN](https://ko.wikipedia.org/wiki/KENN "wikilink")
+    성우 : [KENN](../Page/KENN.md "wikilink")
 
 <!-- end list -->
 

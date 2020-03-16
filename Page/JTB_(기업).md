@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [JTB \(\)](https://ko.wikipedia.org/wiki/JTB_\(\)).
 
 
-**주식회사 제이티비**(, JTB Corporation)은 일본 여행사에서 제이티비 그룹을 총괄하는 지주 회사이다. 본사는 [도쿄도](https://ko.wikipedia.org/wiki/도쿄도 "wikilink") [시나가와 구에](https://ko.wikipedia.org/wiki/시나가와_구 "wikilink") 있다.
+**주식회사 제이티비**(, JTB Corporation)은 일본 여행사에서 제이티비 그룹을 총괄하는 지주 회사이다. 본사는 [도쿄도](../Page/도쿄도.md "wikilink") [시나가와 구에](https://ko.wikipedia.org/wiki/시나가와_구 "wikilink") 있다.
 
 ## 개요
 
-1963년 [재단법인](https://ko.wikipedia.org/wiki/재단법인 "wikilink") 일본교통공사의 상업 부문을 분할·민영화하여 주식회사 일본교통공사로 창업했다. 현 회사명인 제이티비는 Japan Tourist Bureau의 머리 글자이다. 여행 업계에서는 일본 최대, 세계 유수의 사업 규모를 가진 기업이다. 한국은 2007년 [롯데](https://ko.wikipedia.org/wiki/롯데 "wikilink")그룹에 의해 들어왔다.
+1963년 [재단법인](../Page/재단법인.md "wikilink") 일본교통공사의 상업 부문을 분할·민영화하여 주식회사 일본교통공사로 창업했다. 현 회사명인 제이티비는 Japan Tourist Bureau의 머리 글자이다. 여행 업계에서는 일본 최대, 세계 유수의 사업 규모를 가진 기업이다. 한국은 2007년 [롯데](https://ko.wikipedia.org/wiki/롯데 "wikilink")그룹에 의해 들어왔다.
 
 ## 주주
 
@@ -22,7 +22,7 @@
   - [큐슈 여객철도](https://ko.wikipedia.org/wiki/큐슈_여객철도 "wikilink")
   - [서일본 여객철도](https://ko.wikipedia.org/wiki/서일본_여객철도 "wikilink")
   - [홋카이도 여객철도](https://ko.wikipedia.org/wiki/홋카이도_여객철도 "wikilink")
-  - [전일본공수](https://ko.wikipedia.org/wiki/전일본공수 "wikilink")
+  - [전일본공수](../Page/전일본공수.md "wikilink")
   - [상선 미쓰이](https://ko.wikipedia.org/wiki/상선_미쓰이 "wikilink")
   - [시코쿠 여객철도](https://ko.wikipedia.org/wiki/시코쿠_여객철도 "wikilink")
   - JTB 임원 지주회사

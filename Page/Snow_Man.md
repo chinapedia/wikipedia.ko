@@ -16,7 +16,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/후카자와_타츠야.md" title="wikilink">후카자와 타츠야</a> ()</p></td>
-<td><p>, <a href="https://ko.wikipedia.org/wiki/도쿄도" title="wikilink">도쿄도</a> 출신, B형</p></td>
+<td><p>, <a href="../Page/도쿄도.md" title="wikilink">도쿄도</a> 출신, B형</p></td>
 <td><p>퍼플</p></td>
 </tr>
 <tr class="even">
@@ -45,7 +45,7 @@
 <td><p>그린</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/무카이_코지" title="wikilink">무카이 코지</a> ()</p></td>
+<td><p><a href="../Page/무카이_코지.md" title="wikilink">무카이 코지</a> ()</p></td>
 <td><p>, <a href="https://ko.wikipedia.org/wiki/오사카_부" title="wikilink">오사카 부</a> 출신, A형</p></td>
 <td><p>오렌지</p></td>
 </tr>
@@ -64,9 +64,9 @@
 
 ## 개요
 
-  - 전신은 [Mis Snow Man](https://ko.wikipedia.org/wiki/Mis_Snow_Man "wikilink")
-  - 2012년 타키자와 가부키에서 《Snow Man》이라는 유닛명을 받는다, 참고로 이름을 지어 준 것은 [타키자와 히데아키](https://ko.wikipedia.org/wiki/타키자와_히데아키 "wikilink").\[1\]
-  - 2019년 칸사이 자니스 Jr.의 무카이 코지, 우주Six메구로 렌, 그리고 [타키자와 히데아키가](https://ko.wikipedia.org/wiki/타키자와_히데아키 "wikilink") 이전부터 그 빛에 주목하고 있으며 Snow Man멤버도 마찬가지로 느끼고 있었다는 무라카미 마이토 라울의 3명이 새롭게 멤버로 가입해, 3월 24일의 요쿄하마 아레나 공연에서 선보일 예정이다.
+  - 전신은 [Mis Snow Man](../Page/Mis_Snow_Man.md "wikilink")
+  - 2012년 타키자와 가부키에서 《Snow Man》이라는 유닛명을 받는다, 참고로 이름을 지어 준 것은 [타키자와 히데아키](../Page/타키자와_히데아키.md "wikilink").\[1\]
+  - 2019년 칸사이 자니스 Jr.의 무카이 코지, 우주Six메구로 렌, 그리고 [타키자와 히데아키가](../Page/타키자와_히데아키.md "wikilink") 이전부터 그 빛에 주목하고 있으며 Snow Man멤버도 마찬가지로 느끼고 있었다는 무라카미 마이토 라울의 3명이 새롭게 멤버로 가입해, 3월 24일의 요쿄하마 아레나 공연에서 선보일 예정이다.
 
 ## 오리지널 곡
 
@@ -84,7 +84,7 @@
 
 ### 음악방송
 
-  - [더 소년구락부](https://ko.wikipedia.org/wiki/소년구락부 "wikilink") (2004년 \~ 현재, [NHK BS 프리미엄](https://ko.wikipedia.org/wiki/NHK_BS_프리미엄 "wikilink"))
+  - [더 소년구락부](../Page/소년구락부.md "wikilink") (2004년 \~ 현재, [NHK BS 프리미엄](../Page/NHK_BS_프리미엄.md "wikilink"))
 
 ### 무대
 
@@ -332,8 +332,8 @@ You의 앞에는 Me가 있어!</p></td>
 ### PV
 
   - [타키 앤 츠바사](https://ko.wikipedia.org/wiki/타키_앤_츠바사 "wikilink") 「愛はタカラモノ」 (2010년)
-  - [A.B.C-Z](https://ko.wikipedia.org/wiki/A.B.C-Z "wikilink") 「Twinkle Twinkle A.B.C-Z」 (2013년)
-  - [A.B.C-Z](https://ko.wikipedia.org/wiki/A.B.C-Z "wikilink") 「Shower Gate」 (2015년)
+  - [A.B.C-Z](../Page/A.B.C-Z.md "wikilink") 「Twinkle Twinkle A.B.C-Z」 (2013년)
+  - [A.B.C-Z](../Page/A.B.C-Z.md "wikilink") 「Shower Gate」 (2015년)
 
 ### 서적
 
@@ -345,9 +345,9 @@ You의 앞에는 Me가 있어!</p></td>
 
 ## 관련 항목
 
-  - [쟈니즈 사무소](https://ko.wikipedia.org/wiki/자니스_사무소 "wikilink")
-  - [쟈니즈 Jr.](https://ko.wikipedia.org/wiki/자니스_주니어 "wikilink")
-  - [Mis Snow Man](https://ko.wikipedia.org/wiki/Mis_Snow_Man "wikilink")
+  - [쟈니즈 사무소](../Page/자니스_사무소.md "wikilink")
+  - [쟈니즈 Jr.](../Page/자니스_주니어.md "wikilink")
+  - [Mis Snow Man](../Page/Mis_Snow_Man.md "wikilink")
 
 [분류:자니즈 주니어](https://ko.wikipedia.org/wiki/분류:자니즈_주니어 "wikilink") [분류:일본의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_팝_음악_그룹 "wikilink") [분류:일본의 댄스 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_댄스_음악_그룹 "wikilink") [분류:일본의 보이 밴드](https://ko.wikipedia.org/wiki/분류:일본의_보이_밴드 "wikilink") [분류:일본의 아이돌 그룹](https://ko.wikipedia.org/wiki/분류:일본의_아이돌_그룹 "wikilink") [분류:자니즈](https://ko.wikipedia.org/wiki/분류:자니즈 "wikilink") [분류:6인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:6인조_음악_그룹 "wikilink") [분류:일본어 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본어_음악_그룹 "wikilink") [분류:일본의 보이 밴드](https://ko.wikipedia.org/wiki/분류:일본의_보이_밴드 "wikilink") [분류:2012년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2012년_결성된_음악_그룹 "wikilink")
 

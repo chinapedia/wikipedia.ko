@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  \(ECHL\)](https://ko.wikipedia.org/wiki/__\(ECHL\)).
 
 
-**리치먼드 레니게이즈**(Richmond Renegades)는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [버지니아주](https://ko.wikipedia.org/wiki/버지니아주 "wikilink") [리치먼드를](https://ko.wikipedia.org/wiki/리치먼드_\(버지니아주\) "wikilink") 연고지로 하는 1990년부터 2003년까지 [ECHL](../Page/ECHL.md "wikilink") 소속되었던 아이스 하키팀이다.
+**리치먼드 레니게이즈**(Richmond Renegades)는 [미국](../Page/미국.md "wikilink") [버지니아주](../Page/버지니아주.md "wikilink") [리치먼드를](../Page/리치먼드_\(버지니아주\).md "wikilink") 연고지로 하는 1990년부터 2003년까지 [ECHL](../Page/ECHL.md "wikilink") 소속되었던 아이스 하키팀이다.
 
 ## 역대 홈경기장
 
@@ -27,7 +27,7 @@
 <td><p><a href="../Page/리치먼드_콜리시엄.md" title="wikilink">리치먼드 콜리시엄</a></p></td>
 <td><p>1990년~2003년</p></td>
 <td><p>11,088명</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/버지니아주" title="wikilink">버지니아주</a> <a href="https://ko.wikipedia.org/wiki/리치먼드_(버지니아주)" title="wikilink">리치먼드</a></p></td>
+<td><p><a href="../Page/버지니아주.md" title="wikilink">버지니아주</a> <a href="../Page/리치먼드_(버지니아주).md" title="wikilink">리치먼드</a></p></td>
 <td></td>
 </tr>
 </tbody>

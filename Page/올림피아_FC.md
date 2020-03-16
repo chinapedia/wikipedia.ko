@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
 
 
-**올림피아 푸치보우 클루비**(Olímpia Futebol Clube)는 [브라질](https://ko.wikipedia.org/wiki/브라질 "wikilink")의 축구단으로 [상파울루주](https://ko.wikipedia.org/wiki/상파울루주 "wikilink")의 [올림피아를](https://ko.wikipedia.org/wiki/올림피아_\(브라질\) "wikilink") 연고로 한다.
+**올림피아 푸치보우 클루비**(Olímpia Futebol Clube)는 [브라질](../Page/브라질.md "wikilink")의 축구단으로 [상파울루주](../Page/상파울루주.md "wikilink")의 [올림피아를](https://ko.wikipedia.org/wiki/올림피아_\(브라질\) "wikilink") 연고로 한다.
 
 ## 우승 기록
 

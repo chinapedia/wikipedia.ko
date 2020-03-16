@@ -37,13 +37,13 @@
 |  |
 |  |
 
-**[B.A.P](https://ko.wikipedia.org/wiki/B.A.P "wikilink")의 수상 목록**
+**[B.A.P](../Page/B.A.P.md "wikilink")의 수상 목록**
 
-다음은 대한민국의 남성 음악 그룹 **[B.A.P](https://ko.wikipedia.org/wiki/B.A.P "wikilink")**의 **수상 내역** 목록이다.
+다음은 대한민국의 남성 음악 그룹 **[B.A.P](../Page/B.A.P.md "wikilink")**의 **수상 내역** 목록이다.
 
 ## 시상식
 
-### [멜론 뮤직 어워드](https://ko.wikipedia.org/wiki/멜론_뮤직_어워드 "wikilink")
+### [멜론 뮤직 어워드](../Page/멜론_뮤직_어워드.md "wikilink")
 
 <table>
 <thead>
@@ -57,7 +57,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2012년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/B.A.P" title="wikilink">B.A.P</a></p></td>
+<td><p><a href="../Page/B.A.P.md" title="wikilink">B.A.P</a></p></td>
 <td><p>신인상</p></td>
 <td></td>
 </tr>
@@ -78,7 +78,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2012년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/B.A.P" title="wikilink">B.A.P</a></p></td>
+<td><p><a href="../Page/B.A.P.md" title="wikilink">B.A.P</a></p></td>
 <td><p>올해의 가수상</p></td>
 <td></td>
 </tr>
@@ -97,7 +97,7 @@
 </tbody>
 </table>
 
-### [골든 디스크](https://ko.wikipedia.org/wiki/골든_디스크 "wikilink")
+### [골든 디스크](../Page/골든_디스크.md "wikilink")
 
 <table>
 <thead>
@@ -111,7 +111,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2012년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/B.A.P" title="wikilink">B.A.P</a></p></td>
+<td><p><a href="../Page/B.A.P.md" title="wikilink">B.A.P</a></p></td>
 <td><p>음반 본상</p></td>
 <td></td>
 </tr>
@@ -134,7 +134,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/B.A.P" title="wikilink">B.A.P</a></p></td>
+<td><p><a href="../Page/B.A.P.md" title="wikilink">B.A.P</a></p></td>
 <td><p>인기상</p></td>
 <td></td>
 <td></td>
@@ -142,7 +142,7 @@
 </tbody>
 </table>
 
-### [하이원 서울가요대상](https://ko.wikipedia.org/wiki/하이원_서울가요대상 "wikilink")
+### [하이원 서울가요대상](../Page/하이원_서울가요대상.md "wikilink")
 
 <table>
 <thead>
@@ -156,7 +156,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2012년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/B.A.P" title="wikilink">B.A.P</a></p></td>
+<td><p><a href="../Page/B.A.P.md" title="wikilink">B.A.P</a></p></td>
 <td><p>신인상</p></td>
 <td></td>
 </tr>
@@ -189,7 +189,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2013년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/B.A.P" title="wikilink">B.A.P</a></p></td>
+<td><p><a href="../Page/B.A.P.md" title="wikilink">B.A.P</a></p></td>
 <td><p>올해의 신인상 그룹</p></td>
 <td></td>
 </tr>
@@ -222,14 +222,14 @@
 <tbody>
 <tr class="odd">
 <td><p>2013년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/B.A.P" title="wikilink">B.A.P</a></p></td>
+<td><p><a href="../Page/B.A.P.md" title="wikilink">B.A.P</a></p></td>
 <td><p>문화 콘텐츠 산업 분야 엔터테인먼트상</p></td>
 <td></td>
 </tr>
 </tbody>
 </table>
 
-### [MTV 유럽 뮤직 어워드](https://ko.wikipedia.org/wiki/MTV_유럽_뮤직_어워드 "wikilink")
+### [MTV 유럽 뮤직 어워드](../Page/MTV_유럽_뮤직_어워드.md "wikilink")
 
 <table>
 <thead>
@@ -243,7 +243,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2013년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/B.A.P" title="wikilink">B.A.P</a></p></td>
+<td><p><a href="../Page/B.A.P.md" title="wikilink">B.A.P</a></p></td>
 <td><p>Best Korean Act</p></td>
 <td></td>
 </tr>
@@ -282,7 +282,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2014년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/B.A.P" title="wikilink">B.A.P</a></p></td>
+<td><p><a href="../Page/B.A.P.md" title="wikilink">B.A.P</a></p></td>
 <td><p>Best New Artist</p></td>
 <td></td>
 </tr>
@@ -336,7 +336,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2014년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/B.A.P" title="wikilink">B.A.P</a></p></td>
+<td><p><a href="../Page/B.A.P.md" title="wikilink">B.A.P</a></p></td>
 <td><p>Artist of the Year</p></td>
 <td></td>
 </tr>
@@ -365,7 +365,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/B.A.P" title="wikilink">B.A.P</a></p></td>
+<td><p><a href="../Page/B.A.P.md" title="wikilink">B.A.P</a></p></td>
 <td><p>Best Fandom</p></td>
 <td></td>
 <td></td>
@@ -393,7 +393,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2012년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/B.A.P" title="wikilink">B.A.P</a></p></td>
+<td><p><a href="../Page/B.A.P.md" title="wikilink">B.A.P</a></p></td>
 <td><p>New Artist/Band of 2012</p></td>
 <td></td>
 </tr>
@@ -420,7 +420,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2013년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/B.A.P" title="wikilink">B.A.P</a></p></td>
+<td><p><a href="../Page/B.A.P.md" title="wikilink">B.A.P</a></p></td>
 <td><p>Best New Artist</p></td>
 <td></td>
 </tr>
@@ -441,7 +441,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2012년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/B.A.P" title="wikilink">B.A.P</a></p></td>
+<td><p><a href="../Page/B.A.P.md" title="wikilink">B.A.P</a></p></td>
 <td><p>Song Of The Year</p></td>
 <td></td>
 </tr>
@@ -468,7 +468,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2012년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/B.A.P" title="wikilink">B.A.P</a></p></td>
+<td><p><a href="../Page/B.A.P.md" title="wikilink">B.A.P</a></p></td>
 <td><p>Best New Artist</p></td>
 <td></td>
 </tr>
@@ -489,7 +489,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2012년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/B.A.P" title="wikilink">B.A.P</a></p></td>
+<td><p><a href="../Page/B.A.P.md" title="wikilink">B.A.P</a></p></td>
 <td><p>Best New Artist</p></td>
 <td></td>
 </tr>
@@ -522,7 +522,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2012년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/B.A.P" title="wikilink">B.A.P</a></p></td>
+<td><p><a href="../Page/B.A.P.md" title="wikilink">B.A.P</a></p></td>
 <td><p>Best Male group</p></td>
 <td></td>
 </tr>
@@ -541,7 +541,7 @@
 </tbody>
 </table>
 
-### [SBS MTV 베스트 오브 베스트 어워드](https://ko.wikipedia.org/wiki/SBS_MTV "wikilink")
+### [SBS MTV 베스트 오브 베스트 어워드](../Page/SBS_MTV.md "wikilink")
 
 <table>
 <thead>
@@ -555,7 +555,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2012년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/B.A.P" title="wikilink">B.A.P</a></p></td>
+<td><p><a href="../Page/B.A.P.md" title="wikilink">B.A.P</a></p></td>
 <td><p>Best New Artist</p></td>
 <td></td>
 </tr>
@@ -567,7 +567,7 @@
 </tr>
 <tr class="odd">
 <td><p>2013년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/B.A.P" title="wikilink">B.A.P</a></p></td>
+<td><p><a href="../Page/B.A.P.md" title="wikilink">B.A.P</a></p></td>
 <td><p>Best Male Group</p></td>
 <td></td>
 </tr>
@@ -588,7 +588,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2012년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/B.A.P" title="wikilink">B.A.P</a></p></td>
+<td><p><a href="../Page/B.A.P.md" title="wikilink">B.A.P</a></p></td>
 <td><p>Best New Male Artist</p></td>
 <td></td>
 </tr>
@@ -627,14 +627,14 @@
 <tbody>
 <tr class="odd">
 <td><p>2012년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/B.A.P" title="wikilink">B.A.P</a></p></td>
+<td><p><a href="../Page/B.A.P.md" title="wikilink">B.A.P</a></p></td>
 <td><p>2012 Super Rookie Idol</p></td>
 <td></td>
 </tr>
 </tbody>
 </table>
 
-### [심심타파 어워드](https://ko.wikipedia.org/wiki/심심타파 "wikilink")
+### [심심타파 어워드](../Page/심심타파.md "wikilink")
 
 <table>
 <thead>
@@ -648,7 +648,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2012년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/B.A.P" title="wikilink">B.A.P</a></p></td>
+<td><p><a href="../Page/B.A.P.md" title="wikilink">B.A.P</a></p></td>
 <td><p>Best Condition</p></td>
 <td></td>
 </tr>
@@ -681,7 +681,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2016년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/B.A.P" title="wikilink">B.A.P</a></p></td>
+<td><p><a href="../Page/B.A.P.md" title="wikilink">B.A.P</a></p></td>
 <td><p>한류 가수상</p></td>
 <td></td>
 </tr>
@@ -710,7 +710,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2014년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/방용국" title="wikilink">방용국</a></p></td>
+<td><p><a href="../Page/방용국.md" title="wikilink">방용국</a></p></td>
 <td><p>Social Media’s Best Charity</p></td>
 <td></td>
 </tr>
@@ -731,7 +731,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2014년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/방용국" title="wikilink">방용국</a></p></td>
+<td><p><a href="../Page/방용국.md" title="wikilink">방용국</a></p></td>
 <td><p>Idol of the Year</p></td>
 <td></td>
 </tr>
@@ -766,26 +766,26 @@
 <td><p>2014년 (총 3회)</p></td>
 <td><ul>
 <li><strong>1004</strong> (총 3회)</li>
-<li><a href="https://ko.wikipedia.org/wiki/2월_12일" title="wikilink">2월 12일</a> <a href="https://ko.wikipedia.org/wiki/MBC_MUSIC" title="wikilink">MBC MUSIC</a> 《<a href="https://ko.wikipedia.org/wiki/쇼_챔피언" title="wikilink">쇼 챔피언</a>》 챔피언송 1위</li>
-<li><a href="https://ko.wikipedia.org/wiki/2월_14일" title="wikilink">2월 14일</a> <a href="https://ko.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a> 《<a href="https://ko.wikipedia.org/wiki/뮤직뱅크" title="wikilink">뮤직뱅크</a>》 K-Chart 1위</li>
-<li><a href="https://ko.wikipedia.org/wiki/2월_16일" title="wikilink">2월 16일</a> <a href="https://ko.wikipedia.org/wiki/SBS" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 1위</li>
+<li><a href="../Page/2월_12일.md" title="wikilink">2월 12일</a> <a href="https://ko.wikipedia.org/wiki/MBC_MUSIC" title="wikilink">MBC MUSIC</a> 《<a href="https://ko.wikipedia.org/wiki/쇼_챔피언" title="wikilink">쇼 챔피언</a>》 챔피언송 1위</li>
+<li><a href="../Page/2월_14일.md" title="wikilink">2월 14일</a> <a href="https://ko.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a> 《<a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a>》 K-Chart 1위</li>
+<li><a href="../Page/2월_16일.md" title="wikilink">2월 16일</a> <a href="../Page/SBS.md" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 1위</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td><p>2015년 (총 2회)</p></td>
 <td><ul>
 <li><strong>Young, Wild &amp; Free</strong> (총 2회)</li>
-<li><a href="https://ko.wikipedia.org/wiki/11월_27일" title="wikilink">11월 27일</a> <a href="https://ko.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a> 《<a href="https://ko.wikipedia.org/wiki/뮤직뱅크" title="wikilink">뮤직뱅크</a>》 K-Chart 1위</li>
-<li><a href="https://ko.wikipedia.org/wiki/12월_1일" title="wikilink">12월 1일</a> <a href="https://ko.wikipedia.org/wiki/SBS_MTV" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/THE_SHOW:_All_About_K-POP" title="wikilink">THE SHOW: All About K-POP</a> 시즌 4》 더 쇼 초이스 1위</li>
+<li><a href="../Page/11월_27일.md" title="wikilink">11월 27일</a> <a href="https://ko.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a> 《<a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a>》 K-Chart 1위</li>
+<li><a href="../Page/12월_1일.md" title="wikilink">12월 1일</a> <a href="../Page/SBS_MTV.md" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/THE_SHOW:_All_About_K-POP" title="wikilink">THE SHOW: All About K-POP</a> 시즌 4》 더 쇼 초이스 1위</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td><p>2016년 (총 2회)</p></td>
 <td><ul>
 <li><strong>Feel So Good</strong> (총 1회)</li>
-<li><a href="https://ko.wikipedia.org/wiki/3월_8일" title="wikilink">3월 8일</a> <a href="https://ko.wikipedia.org/wiki/SBS_MTV" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/THE_SHOW:_All_About_K-POP" title="wikilink">THE SHOW: All About K-POP</a> 시즌 5》 더 쇼 초이스 1위</li>
+<li><a href="../Page/3월_8일.md" title="wikilink">3월 8일</a> <a href="../Page/SBS_MTV.md" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/THE_SHOW:_All_About_K-POP" title="wikilink">THE SHOW: All About K-POP</a> 시즌 5》 더 쇼 초이스 1위</li>
 <li><strong>Skydive</strong> (총 1회)</li>
-<li><a href="https://ko.wikipedia.org/wiki/11월_22일" title="wikilink">11월 22일</a> <a href="https://ko.wikipedia.org/wiki/SBS_MTV" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/THE_SHOW:_All_About_K-POP" title="wikilink">THE SHOW: All About K-POP</a> 시즌 5》 더 쇼 초이스 1위</li>
+<li><a href="../Page/11월_22일.md" title="wikilink">11월 22일</a> <a href="../Page/SBS_MTV.md" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/THE_SHOW:_All_About_K-POP" title="wikilink">THE SHOW: All About K-POP</a> 시즌 5》 더 쇼 초이스 1위</li>
 </ul></td>
 </tr>
 </tbody>

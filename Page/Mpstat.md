@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Mpstat](https://ko.wikipedia.org/wiki/Mpstat).
 
 
-**mpstat**는 [유닉스](https://ko.wikipedia.org/wiki/유닉스 "wikilink") 방식의 [운영 체제에](https://ko.wikipedia.org/wiki/운영_체제 "wikilink") 쓰이는 [컴퓨터](https://ko.wikipedia.org/wiki/컴퓨터 "wikilink") 명령 줄 [소프트웨어](https://ko.wikipedia.org/wiki/소프트웨어 "wikilink")의 하나로, [프로세서](https://ko.wikipedia.org/wiki/중앙_처리_장치 "wikilink") 관련 통계를 화면에 보고한다. [CPU](https://ko.wikipedia.org/wiki/중앙_처리_장치 "wikilink") [사용률에](https://ko.wikipedia.org/wiki/CPU_타임 "wikilink") 대한 통계를 작성하거나 문제를 진단할 목적으로 컴퓨터 감시에 사용된다.
+**mpstat**는 [유닉스](../Page/유닉스.md "wikilink") 방식의 [운영 체제에](../Page/운영_체제.md "wikilink") 쓰이는 [컴퓨터](../Page/컴퓨터.md "wikilink") 명령 줄 [소프트웨어](../Page/소프트웨어.md "wikilink")의 하나로, [프로세서](../Page/중앙_처리_장치.md "wikilink") 관련 통계를 화면에 보고한다. [CPU](../Page/중앙_처리_장치.md "wikilink") [사용률에](../Page/CPU_타임.md "wikilink") 대한 통계를 작성하거나 문제를 진단할 목적으로 컴퓨터 감시에 사용된다.
 
 ## 설명
 
-**mpstat** 명령어는 이용 가능한 각각의 [프로세서에](https://ko.wikipedia.org/wiki/중앙_처리_장치 "wikilink") 대한 활동을 표준 출력에 기록한다.
+**mpstat** 명령어는 이용 가능한 각각의 [프로세서에](../Page/중앙_처리_장치.md "wikilink") 대한 활동을 표준 출력에 기록한다.
 
 mpstat는 [SMP](https://ko.wikipedia.org/wiki/대칭형_다중_처리 "wikilink") 및 UP 머신에 둘 다 사용할 수 있으나 후자의 경우 전역 평균 활동만 출력된다.
 

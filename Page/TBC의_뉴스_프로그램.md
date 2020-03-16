@@ -35,13 +35,13 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/김선희_(TBC)" title="wikilink">김선희</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/민방_네트워크_뉴스" title="wikilink"><span style="color:white;">민방 네트워크 뉴스</span></a></p></td>
+<td><p><a href="../Page/민방_네트워크_뉴스.md" title="wikilink"><span style="color:white;">민방 네트워크 뉴스</span></a></p></td>
 <td><p>평일 25분</p></td>
 <td><p>12:25 ~ 12:50</p></td>
 <td><p><a href="../Page/김도휘.md" title="wikilink">김도휘</a>, 김태준, 김다은</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/TBC_대경뉴스광장" title="wikilink"><span style="color:white;">TBC 대경뉴스광장</span></a></p></td>
+<td><p><a href="../Page/TBC_대경뉴스광장.md" title="wikilink"><span style="color:white;">TBC 대경뉴스광장</span></a></p></td>
 <td><p>평일 20분</p></td>
 <td><p>17:40 ~ 18:00</p></td>
 <td><p>김다은</p></td>
@@ -73,13 +73,13 @@
 
 ## 관련 보기
 
-  - [SBS의 뉴스 프로그램](https://ko.wikipedia.org/wiki/SBS의_뉴스_프로그램 "wikilink")
-  - [KBS대구방송총국 뉴스 프로그램](https://ko.wikipedia.org/wiki/KBS대구방송총국 "wikilink")의
-  - [KBS안동방송국 뉴스 프로그램](https://ko.wikipedia.org/wiki/KBS안동방송국 "wikilink")의
-  - [KBS포항방송국 뉴스 프로그램](https://ko.wikipedia.org/wiki/KBS포항방송국 "wikilink")의
-  - [대구MBC의 뉴스 프로그램](https://ko.wikipedia.org/wiki/대구문화방송 "wikilink")
-  - [안동MBC의 뉴스 프로그램](https://ko.wikipedia.org/wiki/안동문화방송 "wikilink")
-  - [포항MBC의 뉴스 프로그램](https://ko.wikipedia.org/wiki/포항문화방송 "wikilink")
+  - [SBS의 뉴스 프로그램](../Page/SBS의_뉴스_프로그램.md "wikilink")
+  - [KBS대구방송총국 뉴스 프로그램](../Page/KBS대구방송총국.md "wikilink")의
+  - [KBS안동방송국 뉴스 프로그램](../Page/KBS안동방송국.md "wikilink")의
+  - [KBS포항방송국 뉴스 프로그램](../Page/KBS포항방송국.md "wikilink")의
+  - [대구MBC의 뉴스 프로그램](../Page/대구문화방송.md "wikilink")
+  - [안동MBC의 뉴스 프로그램](../Page/안동문화방송.md "wikilink")
+  - [포항MBC의 뉴스 프로그램](../Page/포항문화방송.md "wikilink")
 
 ## 외부 링크
 

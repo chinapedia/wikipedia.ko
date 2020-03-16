@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Gradle](https://ko.wikipedia.org/wiki/Gradle).
 
 
-**Gradle**은 Groovy를 이용한 [빌드 자동화](https://ko.wikipedia.org/wiki/빌드_자동화 "wikilink") 시스템이다. Groovy와 유사한 도메인 언어를 채용하였으며, 현재 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") 앱을 만드는데 필요한 안드로이드 스튜디오의 공식 빌드 시스템이기도 하다. Java, [C](https://ko.wikipedia.org/wiki/C_\(프로그래밍_언어\) "wikilink")/[C++](https://ko.wikipedia.org/wiki/C++ "wikilink"), [파이썬](https://ko.wikipedia.org/wiki/파이썬 "wikilink") 등과 같은 여러 가지 언어를 지원한다.
+**Gradle**은 Groovy를 이용한 [빌드 자동화](https://ko.wikipedia.org/wiki/빌드_자동화 "wikilink") 시스템이다. Groovy와 유사한 도메인 언어를 채용하였으며, 현재 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") 앱을 만드는데 필요한 안드로이드 스튜디오의 공식 빌드 시스템이기도 하다. Java, [C](../Page/C_\(프로그래밍_언어\).md "wikilink")/[C++](https://ko.wikipedia.org/wiki/C++ "wikilink"), [파이썬](../Page/파이썬.md "wikilink") 등과 같은 여러 가지 언어를 지원한다.
 
 ## 자바 프로젝트의 예
 

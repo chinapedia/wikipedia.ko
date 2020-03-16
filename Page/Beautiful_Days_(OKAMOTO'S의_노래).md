@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Beautiful Days \(OKAMOTO\'S \)](https://ko.wikipedia.org/wiki/Beautiful_Days_\(OKAMOTO\'S_\)).
 
 
-「**Beautiful Days**」는 [OKAMOTO'S](https://ko.wikipedia.org/wiki/OKAMOTO'S "wikilink")의 8번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink"). [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [11월 25일에](https://ko.wikipedia.org/wiki/11월_25일 "wikilink") [Ariola Japan](https://ko.wikipedia.org/wiki/아리오라_재팬 "wikilink")([Sony Music Labels](https://ko.wikipedia.org/wiki/소니_뮤직_엔터테인먼트_\(일본\) "wikilink"))에서 발매되었다. 기간생산한정판은 애니메이션 「[은혼°](https://ko.wikipedia.org/wiki/은혼° "wikilink")」 신작 7inch 사양의 자켓이 부속되어 있다. 또, 특전 DVD에는 「Dance With Me」「Dance With You」의 뮤직비디오와 6th 앨범 「OPERA」의 [티저 무비도](https://ko.wikipedia.org/wiki/티저_광고 "wikilink") 수록되어 있다.
+「**Beautiful Days**」는 [OKAMOTO'S](https://ko.wikipedia.org/wiki/OKAMOTO'S "wikilink")의 8번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). [2015년](../Page/2015년.md "wikilink") [11월 25일에](../Page/11월_25일.md "wikilink") [Ariola Japan](https://ko.wikipedia.org/wiki/아리오라_재팬 "wikilink")([Sony Music Labels](https://ko.wikipedia.org/wiki/소니_뮤직_엔터테인먼트_\(일본\) "wikilink"))에서 발매되었다. 기간생산한정판은 애니메이션 「[은혼°](https://ko.wikipedia.org/wiki/은혼° "wikilink")」 신작 7inch 사양의 자켓이 부속되어 있다. 또, 특전 DVD에는 「Dance With Me」「Dance With You」의 뮤직비디오와 6th 앨범 「OPERA」의 [티저 무비도](../Page/티저_광고.md "wikilink") 수록되어 있다.
 
 ## 개요
 
@@ -14,16 +14,16 @@
 1.  **Beautiful Days** \[3:52\]
       -
         (작사: 오카모토 쇼 / 작곡: 오카모토 쇼, 오카모토 코우키 / 편곡: OKAMOTO'S / Strings & Additional Arrangement: [사하시 요시유키](https://ko.wikipedia.org/wiki/사하시_요시유키 "wikilink"))
-          - [TV 애니메이션](https://ko.wikipedia.org/wiki/TV_도쿄 "wikilink") 계열 애니메이션 「은혼°」 오프닝 테마.
+          - [TV 애니메이션](../Page/TV_도쿄.md "wikilink") 계열 애니메이션 「은혼°」 오프닝 테마.
 2.  **야바코우키(ヤバコウキ)** \[1:56\]
       -
         Produced by 오카모토 코우키
         (작사・작곡・편곡: 오카모토 코우키)
-          - 멤버가 매월 방송하고 있는 [유튜브](https://ko.wikipedia.org/wiki/유튜브 "wikilink") 채널 「오카모토―――크\!」의 엔딩 테마로서, 오카모토 코우키가 작사・작곡・편곡・연주・가창을 했다\[2\]
+          - 멤버가 매월 방송하고 있는 [유튜브](../Page/유튜브.md "wikilink") 채널 「오카모토―――크\!」의 엔딩 테마로서, 오카모토 코우키가 작사・작곡・편곡・연주・가창을 했다\[2\]
 3.  **Shall We Dance** \[3:20\]
       -
         (작사・작곡: 오카모토 쇼)
-          - [VISA](https://ko.wikipedia.org/wiki/비자카드 "wikilink") 「직불카드」 WEB CM 송. CM에는 오카모토 쇼와 하마・오카모토가 출연하고 있다.
+          - [VISA](../Page/비자카드.md "wikilink") 「직불카드」 WEB CM 송. CM에는 오카모토 쇼와 하마・오카모토가 출연하고 있다.
 
 ### 기간생산한정판
 
@@ -46,7 +46,7 @@
 
 :\* 오카모토 쇼: [Vox](https://ko.wikipedia.org/wiki/보컬 "wikilink"), Percussion
 
-:\* 오카모토 코우키: [E.Guitars](https://ko.wikipedia.org/wiki/전기_기타 "wikilink"), [A.Guitar](https://ko.wikipedia.org/wiki/통기타 "wikilink")
+:\* 오카모토 코우키: [E.Guitars](../Page/전기_기타.md "wikilink"), [A.Guitar](../Page/통기타.md "wikilink")
 
 :\* 하마・오카모토: Bass
 
@@ -76,7 +76,7 @@
 
 :\* 오카모토 쇼: Vox
 
-:\* 오카모토 코우키: E.Guitar, [Piano](https://ko.wikipedia.org/wiki/피아노 "wikilink")
+:\* 오카모토 코우키: E.Guitar, [Piano](../Page/피아노.md "wikilink")
 
 :\* 하마・오카모토: Bass
 

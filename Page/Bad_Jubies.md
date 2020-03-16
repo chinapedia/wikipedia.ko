@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Bad Jubies](https://ko.wikipedia.org/wiki/Bad_Jubies).
 
 
-〈**Bad Jubies**〉는 [카툰 네트워크의](https://ko.wikipedia.org/wiki/카툰_네트워크 "wikilink") 애니메이션 시리즈 《[핀과 제이크의 어드벤처 타임](https://ko.wikipedia.org/wiki/핀과_제이크의_어드벤처_타임 "wikilink")》의 [일곱 번째 시즌](../Page/핀과_제이크의_어드벤처_타임_\(시즌_7\).md "wikilink") 스무 번째 에피소드이다. [대한민국](https://ko.wikipedia.org/wiki/카툰_네트워크_\(대한민국\) "wikilink") 방영 명칭은 〈먹구름 스타일〉이다. [스톱모션](https://ko.wikipedia.org/wiki/스톱모션 "wikilink") 기법을 활용한 이 에피소드는 [커스틴 레포어가](https://ko.wikipedia.org/wiki/커스틴_레포어 "wikilink") 1년여간에 걸쳐 제작하였다. 2016년 1월 14일 첫 방영되었다.
+〈**Bad Jubies**〉는 [카툰 네트워크의](../Page/카툰_네트워크.md "wikilink") 애니메이션 시리즈 《[핀과 제이크의 어드벤처 타임](../Page/핀과_제이크의_어드벤처_타임.md "wikilink")》의 [일곱 번째 시즌](../Page/핀과_제이크의_어드벤처_타임_\(시즌_7\).md "wikilink") 스무 번째 에피소드이다. [대한민국](../Page/카툰_네트워크_\(대한민국\).md "wikilink") 방영 명칭은 〈먹구름 스타일〉이다. [스톱모션](https://ko.wikipedia.org/wiki/스톱모션 "wikilink") 기법을 활용한 이 에피소드는 [커스틴 레포어가](https://ko.wikipedia.org/wiki/커스틴_레포어 "wikilink") 1년여간에 걸쳐 제작하였다. 2016년 1월 14일 첫 방영되었다.
 
 ## 줄거리
 
@@ -9,7 +9,7 @@
 
 ## 제작
 
-〈Bad Jubies〉는 [다섯 번째 시즌의](../Page/핀과_제이크의_어드벤처_타임_\(시즌_5\).md "wikilink") 〈A Glitch is a Glitch〉, [여섯 번째 시즌](../Page/핀과_제이크의_어드벤처_타임_\(시즌_6\).md "wikilink") 〈Food Chain〉과 〈Water Parks Prank〉에 이어서 외부 게스트가 제작한 네 번째 에피소드이다.\[1\]\[2\]\[3\] 2014년 [샌디에이고 코믹콘에서](https://ko.wikipedia.org/wiki/샌디에이고_코믹콘 "wikilink") [켄트 오즈본은](../Page/켄트_오즈본.md "wikilink") 《어드벤처 타임》에서 [스톱모션](https://ko.wikipedia.org/wiki/스톱모션 "wikilink") 에피소드를 제작하고 있다는 사실을 처음으로 밝혔다.\[4\] 2014년 10월 24일에는 [메릴랜드 인스티튜트 칼리지 오브 아트와](https://ko.wikipedia.org/wiki/메릴랜드_인스티튜트_칼리지_오브_아트 "wikilink") [캘아츠의](../Page/캘리포니아_인스티튜트_오브_디_아츠.md "wikilink") 동문인\[5\]\[6\] [커스틴 레포어가](https://ko.wikipedia.org/wiki/커스틴_레포어 "wikilink") 자신의 [트위터](https://ko.wikipedia.org/wiki/트위터 "wikilink")를 통해 《어드벤처 타임》의 스토리보드 사진과 함께 ‘새 프로젝트’를 작업 중이라고 글을 남겼다.\[7\]
+〈Bad Jubies〉는 [다섯 번째 시즌의](../Page/핀과_제이크의_어드벤처_타임_\(시즌_5\).md "wikilink") 〈A Glitch is a Glitch〉, [여섯 번째 시즌](../Page/핀과_제이크의_어드벤처_타임_\(시즌_6\).md "wikilink") 〈Food Chain〉과 〈Water Parks Prank〉에 이어서 외부 게스트가 제작한 네 번째 에피소드이다.\[1\]\[2\]\[3\] 2014년 [샌디에이고 코믹콘에서](https://ko.wikipedia.org/wiki/샌디에이고_코믹콘 "wikilink") [켄트 오즈본은](../Page/켄트_오즈본.md "wikilink") 《어드벤처 타임》에서 [스톱모션](https://ko.wikipedia.org/wiki/스톱모션 "wikilink") 에피소드를 제작하고 있다는 사실을 처음으로 밝혔다.\[4\] 2014년 10월 24일에는 [메릴랜드 인스티튜트 칼리지 오브 아트와](https://ko.wikipedia.org/wiki/메릴랜드_인스티튜트_칼리지_오브_아트 "wikilink") [캘아츠의](../Page/캘리포니아_인스티튜트_오브_디_아츠.md "wikilink") 동문인\[5\]\[6\] [커스틴 레포어가](https://ko.wikipedia.org/wiki/커스틴_레포어 "wikilink") 자신의 [트위터](../Page/트위터.md "wikilink")를 통해 《어드벤처 타임》의 스토리보드 사진과 함께 ‘새 프로젝트’를 작업 중이라고 글을 남겼다.\[7\]
 
 2014년 3월, 레포어는 캘아츠의 미술 석사(Master of Fine Arts) 학위 작품으로 《Move Mountain》을 제작하여 공개하였다. 《어드벤처 타임》의 [쇼러너](https://ko.wikipedia.org/wiki/쇼러너 "wikilink")인 [애덤 무토는](https://ko.wikipedia.org/wiki/애덤_무토 "wikilink") 우연히 이 단편 영화를 보게 되었고, 레포어에게 《어드벤처 타임》 제작에 참여할 의향이 있는지를 이메일로 물었다. 무토는 레포어의 작품 속에 《어드벤처 타임》을 연상케하는 정신이 들어있었다고 밝혔다. 레포어와의 이메일에서 무토는 “제작진들은 오래 전부터 스톱모션 에피소드를 제작하고 싶었지만, 적절한 시간을 위해 기다리고 있었다.”라고 말했다.\[8\] 레포어는 《[디 A.V. 클럽](../Page/디_A.V._클럽.md "wikilink")》과의 인터뷰에서 “정말로 좋은 기회이자 영광이라고 생각했다. (중략) 이 프로젝트에 참여할 수 있게 되어 정말로 신났다.”라고 말했다.\[9\] 덧붙여서 레포어는 사실 이전에 《어드벤처 타임》을 시청한 적이 단 한 번도 없었으며, 제작에 참여하기 앞서 작품에 대해 자세히 알기 위해 에피소드를 보기 시작했다고 밝혔다.\[10\]
 

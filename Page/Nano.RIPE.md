@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Nano.RIPE](https://ko.wikipedia.org/wiki/Nano.RIPE).
 
 
-**nano.RIPE**(나노 라이프, ナノライプ)는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 4인조 [락 밴드이다](https://ko.wikipedia.org/wiki/악단 "wikilink"). 소속사무소는 아이윌, 소속 레코드 회사는 [Lantis이다](https://ko.wikipedia.org/wiki/란티스 "wikilink").
+**nano.RIPE**(나노 라이프, ナノライプ)는 [일본](../Page/일본.md "wikilink")의 4인조 [락 밴드이다](https://ko.wikipedia.org/wiki/악단 "wikilink"). 소속사무소는 아이윌, 소속 레코드 회사는 [Lantis이다](../Page/란티스.md "wikilink").
 
 ## 현 멤버
 
@@ -10,7 +10,7 @@
 <!-- end list -->
 
   -
-    [이바라키현](https://ko.wikipedia.org/wiki/이바라키현 "wikilink") [히타치 시](https://ko.wikipedia.org/wiki/히타치_시 "wikilink") 출신. 본명은 키미코(季美子). 보컬, 작곡, 모든 곡의 작사를 담당.
+    [이바라키현](../Page/이바라키현.md "wikilink") [히타치 시](https://ko.wikipedia.org/wiki/히타치_시 "wikilink") 출신. 본명은 키미코(季美子). 보컬, 작곡, 모든 곡의 작사를 담당.
     주로 [펜더 재규어를](https://ko.wikipedia.org/wiki/펜더_재규어 "wikilink") 애용하고 있다.
 
 <!-- end list -->
@@ -20,7 +20,7 @@
 <!-- end list -->
 
   -
-    [아키타현](https://ko.wikipedia.org/wiki/아키타현 "wikilink") 유자와 시 출신. nano.RIPE 리더. 작곡을 담당. 주로 사용하는 기타는 [깁슨 ES-335](https://ko.wikipedia.org/wiki/깁슨_ES-335 "wikilink"), [깁슨 레스폴](https://ko.wikipedia.org/wiki/깁슨_레스폴 "wikilink"), [펜더 스트라토 캐스터](https://ko.wikipedia.org/wiki/펜더_스트라토_캐스터 "wikilink").
+    [아키타현](../Page/아키타현.md "wikilink") 유자와 시 출신. nano.RIPE 리더. 작곡을 담당. 주로 사용하는 기타는 [깁슨 ES-335](https://ko.wikipedia.org/wiki/깁슨_ES-335 "wikilink"), [깁슨 레스폴](../Page/깁슨_레스폴.md "wikilink"), [펜더 스트라토 캐스터](https://ko.wikipedia.org/wiki/펜더_스트라토_캐스터 "wikilink").
 
 <!-- end list -->
 
@@ -29,7 +29,7 @@
 <!-- end list -->
 
   -
-    [니가타현](https://ko.wikipedia.org/wiki/니가타현 "wikilink") [시바타 시](https://ko.wikipedia.org/wiki/시바타_시 "wikilink") 출신.
+    [니가타현](../Page/니가타현.md "wikilink") [시바타 시](https://ko.wikipedia.org/wiki/시바타_시 "wikilink") 출신.
     [Musicians Institute Japan](https://ko.wikipedia.org/wiki/Musicians_Institute_Japan "wikilink") 졸업.
 
 <!-- end list -->
@@ -39,7 +39,7 @@
 <!-- end list -->
 
   -
-    [도쿄도](https://ko.wikipedia.org/wiki/도쿄도 "wikilink") 출신. 아버지는 [아오야마 준](https://ko.wikipedia.org/wiki/아오야마_준 "wikilink"), 형은 [아오야마 히데키](https://ko.wikipedia.org/wiki/아오야마_히데키 "wikilink").
+    [도쿄도](../Page/도쿄도.md "wikilink") 출신. 아버지는 [아오야마 준](https://ko.wikipedia.org/wiki/아오야마_준 "wikilink"), 형은 [아오야마 히데키](https://ko.wikipedia.org/wiki/아오야마_히데키 "wikilink").
 
 ## 음반 목록
 
@@ -55,36 +55,36 @@
 
 #### 메이저
 
-| 매      | 발매일                                                                                                                       | 타이틀           | 규격품번       | 최고 순위      |
-| ------ | ------------------------------------------------------------------------------------------------------------------------- | ------------- | ---------- | ---------- |
-| CD+DVD | CD                                                                                                                        |               |            |            |
-| 1st    | [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [9월 22일](https://ko.wikipedia.org/wiki/9월_22일 "wikilink")         | **パトリシア**     | LACM-4740  |            |
-| 2nd    | 2010년 [12월 22일](https://ko.wikipedia.org/wiki/12월_22일 "wikilink")                                                         | **フラッシュキーパー** | LACM-4765  |            |
-| 3rd    | [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [4월 20일](https://ko.wikipedia.org/wiki/4월_20일 "wikilink")         | **ハナノイロ**     | LACM-4796  |            |
-| 4th    | 2011년 [6월 29일](https://ko.wikipedia.org/wiki/6월_29일 "wikilink")                                                           | **細胞キオク**     | LACM-4820  |            |
-| 5th    | 2011년 [8월 3일](https://ko.wikipedia.org/wiki/8월_3일 "wikilink")                                                             | **面影ワープ**     | LACM-4831  |            |
-| 6th    | [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [1월 31일](https://ko.wikipedia.org/wiki/1월_31일 "wikilink") (한정 판매) | **ゆきのせい**     | LZM-2063   |            |
-| 7th    | 2012년 [4월 25일](https://ko.wikipedia.org/wiki/4월_25일 "wikilink")                                                           | **絵空事**       | LACM-34918 | LACM-4918  |
-| 8th    | 2012년 [7월 25일](https://ko.wikipedia.org/wiki/7월_25일 "wikilink")                                                           | **リアルワールド**   | LACM-34953 | LACM-4953  |
-| 9th    | 2012년 [10월 31일](https://ko.wikipedia.org/wiki/10월_31일 "wikilink")                                                         | **もしもの話**     | LACM-34017 | LACM-14017 |
-| 10th   | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [3월 6일](https://ko.wikipedia.org/wiki/3월_6일 "wikilink")           | **影踏み**       | LACM-34065 | LACM-14065 |
-| 11th   | 2013년 [5월 22일](https://ko.wikipedia.org/wiki/5월_22일 "wikilink")                                                           | **サンカクep**    | LACM-14088 |            |
-| 12th   | 2013년 [10월 30일](https://ko.wikipedia.org/wiki/10월_30일 "wikilink")                                                         | **なないろびより**   | LACM-34146 | LACM-14146 |
-| 13th   | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [7월 23일](https://ko.wikipedia.org/wiki/7월_23일 "wikilink")         | **透明な世界**     | LACM-34238 | LACM-14238 |
-| 14th   | [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [7월 22일](https://ko.wikipedia.org/wiki/7월_22일 "wikilink")         | **こだまことだま**   | LACM-14372 | LACM-14373 |
-| 15th   | [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [2월 24일](https://ko.wikipedia.org/wiki/2월_24일 "wikilink")         | **ライムツリー**    | LACM-34457 | LACM-14457 |
-| 16th   | 2016년 8월 3일                                                                                                               | **スノードロップ**   | LACM-34517 | LACM-14517 |
+| 매      | 발매일                                                                                 | 타이틀           | 규격품번       | 최고 순위      |
+| ------ | ----------------------------------------------------------------------------------- | ------------- | ---------- | ---------- |
+| CD+DVD | CD                                                                                  |               |            |            |
+| 1st    | [2010년](../Page/2010년.md "wikilink") [9월 22일](../Page/9월_22일.md "wikilink")         | **パトリシア**     | LACM-4740  |            |
+| 2nd    | 2010년 [12월 22일](../Page/12월_22일.md "wikilink")                                      | **フラッシュキーパー** | LACM-4765  |            |
+| 3rd    | [2011년](../Page/2011년.md "wikilink") [4월 20일](../Page/4월_20일.md "wikilink")         | **ハナノイロ**     | LACM-4796  |            |
+| 4th    | 2011년 [6월 29일](../Page/6월_29일.md "wikilink")                                        | **細胞キオク**     | LACM-4820  |            |
+| 5th    | 2011년 [8월 3일](../Page/8월_3일.md "wikilink")                                          | **面影ワープ**     | LACM-4831  |            |
+| 6th    | [2012년](../Page/2012년.md "wikilink") [1월 31일](../Page/1월_31일.md "wikilink") (한정 판매) | **ゆきのせい**     | LZM-2063   |            |
+| 7th    | 2012년 [4월 25일](../Page/4월_25일.md "wikilink")                                        | **絵空事**       | LACM-34918 | LACM-4918  |
+| 8th    | 2012년 [7월 25일](../Page/7월_25일.md "wikilink")                                        | **リアルワールド**   | LACM-34953 | LACM-4953  |
+| 9th    | 2012년 [10월 31일](../Page/10월_31일.md "wikilink")                                      | **もしもの話**     | LACM-34017 | LACM-14017 |
+| 10th   | [2013년](../Page/2013년.md "wikilink") [3월 6일](../Page/3월_6일.md "wikilink")           | **影踏み**       | LACM-34065 | LACM-14065 |
+| 11th   | 2013년 [5월 22일](../Page/5월_22일.md "wikilink")                                        | **サンカクep**    | LACM-14088 |            |
+| 12th   | 2013년 [10월 30일](../Page/10월_30일.md "wikilink")                                      | **なないろびより**   | LACM-34146 | LACM-14146 |
+| 13th   | [2014년](../Page/2014년.md "wikilink") [7월 23일](../Page/7월_23일.md "wikilink")         | **透明な世界**     | LACM-34238 | LACM-14238 |
+| 14th   | [2015년](../Page/2015년.md "wikilink") [7월 22일](../Page/7월_22일.md "wikilink")         | **こだまことだま**   | LACM-14372 | LACM-14373 |
+| 15th   | [2016년](../Page/2016년.md "wikilink") [2월 24일](../Page/2월_24일.md "wikilink")         | **ライムツリー**    | LACM-34457 | LACM-14457 |
+| 16th   | 2016년 8월 3일                                                                         | **スノードロップ**   | LACM-34517 | LACM-14517 |
 
 ### 앨범
 
 #### 미니 앨범
 
-| 매   | 발매일                                                             | 타이틀        | 발매원                                                                               |
-| --- | --------------------------------------------------------------- | ---------- | --------------------------------------------------------------------------------- |
-| 1st | 2007년 3월 12일                                                    | **青色パウチ**  | 자주 제작                                                                             |
-| 2nd | 2008년 [3월 7일](https://ko.wikipedia.org/wiki/3월_7일 "wikilink")   | **88**     |                                                                                   |
-| 3rd | 2008년 [9월 10일](https://ko.wikipedia.org/wiki/9월_10일 "wikilink") | **空飛ぶクツ**  | BEe Project/White Dream  ([빙](https://ko.wikipedia.org/wiki/빙_\(기업\) "wikilink")) |
-| 4th | 2009년 [5월 13일](https://ko.wikipedia.org/wiki/5월_13일 "wikilink") | **時空フラスコ** |                                                                                   |
+| 매   | 발매일                                          | 타이틀        | 발매원                                                            |
+| --- | -------------------------------------------- | ---------- | -------------------------------------------------------------- |
+| 1st | 2007년 3월 12일                                 | **青色パウチ**  | 자주 제작                                                          |
+| 2nd | 2008년 [3월 7일](../Page/3월_7일.md "wikilink")   | **88**     |                                                                |
+| 3rd | 2008년 [9월 10일](../Page/9월_10일.md "wikilink") | **空飛ぶクツ**  | BEe Project/White Dream  ([빙](../Page/빙_\(기업\).md "wikilink")) |
+| 4th | 2009년 [5월 13일](../Page/5월_13일.md "wikilink") | **時空フラスコ** |                                                                |
 
 #### 풀 앨범
 
@@ -108,21 +108,21 @@
 </tr>
 <tr class="even">
 <td><p>1st</p></td>
-<td><p>2011년 <a href="https://ko.wikipedia.org/wiki/10월_19일" title="wikilink">10월 19일</a></p></td>
+<td><p>2011년 <a href="../Page/10월_19일.md" title="wikilink">10월 19일</a></p></td>
 <td><p><strong>星の夜の脈の音の</strong></p></td>
 <td><p>LACA-35150</p></td>
 <td><p>LACA-15150</p></td>
 </tr>
 <tr class="odd">
 <td><p>2nd</p></td>
-<td><p>2012년 <a href="https://ko.wikipedia.org/wiki/10월_3일" title="wikilink">10월 3일</a>[1]</p></td>
+<td><p>2012년 <a href="../Page/10월_3일.md" title="wikilink">10월 3일</a>[1]</p></td>
 <td><p><strong>プラスとマイナスのしくみ</strong>[2]</p></td>
 <td><p>LACA-35237[3]</p></td>
 <td><p>LACA-15237[4]</p></td>
 </tr>
 <tr class="even">
 <td><p>3rd</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2014년" title="wikilink">2014년</a> <a href="https://ko.wikipedia.org/wiki/1월_8일" title="wikilink">1월 8일</a></p></td>
+<td><p><a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/1월_8일.md" title="wikilink">1월 8일</a></p></td>
 <td><p><strong>涙の落ちる速度</strong></p></td>
 <td><p>LACA-35369 (A)<br />
 LACA-35370 (B)<br />
@@ -131,14 +131,14 @@ LACA-35370 (B)<br />
 </tr>
 <tr class="odd">
 <td><p>4th</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2015년" title="wikilink">2015년</a> <a href="https://ko.wikipedia.org/wiki/4월_8일" title="wikilink">4월 8일</a></p></td>
+<td><p><a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/4월_8일.md" title="wikilink">4월 8일</a></p></td>
 <td><p><strong>七色眼鏡のヒミツ[5]</strong></p></td>
 <td><p>LACA-35481</p></td>
 <td><p>LACA-15481</p></td>
 </tr>
 <tr class="even">
 <td><p>베스트</p></td>
-<td><p>2015년 <a href="https://ko.wikipedia.org/wiki/9월_23일" title="wikilink">9월 23일</a></p></td>
+<td><p>2015년 <a href="../Page/9월_23일.md" title="wikilink">9월 23일</a></p></td>
 <td><p><strong>シアワセのクツ</strong></p></td>
 <td><p>LACA-35514</p></td>
 <td><p>LACA-15514</p></td>
@@ -161,31 +161,31 @@ LACA-35370 (B)<br />
 
 ### 타이업
 
-| 음악                                                                                          | 제휴                                                                                                 |
-| ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| **絵空事**                                                                                     | 텔레비전 애니메이션 『[산카레아](https://ko.wikipedia.org/wiki/산카레아 "wikilink")』오프닝                              |
-| **パトリシア**                                                                                   | 텔레비전 애니메이션 『[꽃이 피는 첫걸음](https://ko.wikipedia.org/wiki/꽃이_피는_첫걸음 "wikilink")』 프로모션 비디오 이미지 송        |
-| **夢路**                                                                                      | 텔레비전 애니메이션 『[꽃이 피는 첫걸음](https://ko.wikipedia.org/wiki/꽃이_피는_첫걸음 "wikilink")』 프로모션 비디오 이미지 송        |
-| 텔레비전 애니메이션 『[꽃이 피는 첫걸음](https://ko.wikipedia.org/wiki/꽃이_피는_첫걸음 "wikilink")』 제 8화・최종화 엔딩 테마 |                                                                                                    |
-| **ハナノイロ**                                                                                   | 텔레비전 애니메이션 『[꽃이 피는 첫걸음](https://ko.wikipedia.org/wiki/꽃이_피는_첫걸음 "wikilink")』 전기 오프닝 테마             |
-| **細胞キオク**                                                                                   | 텔레비전 애니메이션 『[꽃이 피는 첫걸음](https://ko.wikipedia.org/wiki/꽃이_피는_첫걸음 "wikilink")』 삽입곡                   |
-| **月影とブランコ**                                                                                 |                                                                                                    |
-| **リップシンク**                                                                                  |                                                                                                    |
-| **面影ワープ**                                                                                   | 텔레비전 애니메이션 『[꽃이 피는 첫걸음](https://ko.wikipedia.org/wiki/꽃이_피는_첫걸음 "wikilink")』 후기 오프닝 테마             |
-| **ハイリープ**                                                                                   | 텔레비전 애니메이션 『[꽃이 피는 첫걸음](https://ko.wikipedia.org/wiki/꽃이_피는_첫걸음 "wikilink")』 제 22화 엔딩 테마           |
-| **絵空事**                                                                                     | 텔레비전 애니메이션 『さんかれあ』 오프닝 테마                                                                          |
-| **リアルワールド**                                                                                 | 텔레비전 애니메이션 『[인류는 쇠퇴했습니다](../Page/인류는_쇠퇴했습니다.md "wikilink")』 오프닝 테마                                 |
-| **もしもの話**                                                                                   | 텔레비전 애니메이션 『[바쿠만](https://ko.wikipedia.org/wiki/바쿠만 "wikilink")』 제 3 시리즈 전기 오프닝 테마・최종화 엔딩 테마       |
-| **影踏み**                                                                                     | 애니메이션 영화 『[극장판 꽃이 피는 첫걸음 HOME SWEET HOME](https://ko.wikipedia.org/wiki/꽃이_피는_첫걸음 "wikilink")』 주제가 |
-| **月花**                                                                                      | 텔레비전 애니메이션 『[알바 뛰는 마왕님\!](../Page/알바_뛰는_마왕님!.md "wikilink")』 엔딩 테마                                 |
-| **スターチャート**                                                                                 | 텔레비전 애니메이션 『[알바 뛰는 마왕님\!](../Page/알바_뛰는_마왕님!.md "wikilink")』 제 5화 스페셜 엔딩 테마                        |
-| **ツマビクヒトリ**                                                                                 | 텔레비전 애니메이션 『[알바 뛰는 마왕님\!](../Page/알바_뛰는_마왕님!.md "wikilink")』 최종화 스페셜 엔딩 테마                         |
-| **なないろびより**                                                                                 | 텔레비전 애니메이션 『[논논비요리](../Page/논논비요리.md "wikilink")』 오프닝 테마                                           |
-| **透明な世界**                                                                                   | 텔레비전 애니메이션 『[글라스립](../Page/글라스립.md "wikilink")』 엔딩 테마                                              |
-| **こたえあわせ**\[9\]                                                                             | 정보 와이드・버라이어티 프로그램 『임금님의 브랜치』 엔딩 테마 2015년 4월 ―5월                                                    |
-| **こだまことだま**\[10\]\[11\]                                                                     | 텔레비전 애니메이션 『[논논비요리 리피-트](../Page/논논비요리.md "wikilink")』 오프닝 테마                                      |
-| **ライムツリー**                                                                                  | 텔레비전 애니메이션 『[최약무패의 신장기룡](../Page/최약무패의_신장기룡.md "wikilink")』 엔딩 테마                                  |
-| **スノードロップ**                                                                                 | 텔레비전 애니메이션 『[식극의 소마 두 번째 접시](../Page/식극의_소마.md "wikilink")』 엔딩 테마                                  |
+| 음악                                                                       | 제휴                                                                              |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------------------------- |
+| **絵空事**                                                                  | 텔레비전 애니메이션 『[산카레아](https://ko.wikipedia.org/wiki/산카레아 "wikilink")』오프닝           |
+| **パトリシア**                                                                | 텔레비전 애니메이션 『[꽃이 피는 첫걸음](../Page/꽃이_피는_첫걸음.md "wikilink")』 프로모션 비디오 이미지 송        |
+| **夢路**                                                                   | 텔레비전 애니메이션 『[꽃이 피는 첫걸음](../Page/꽃이_피는_첫걸음.md "wikilink")』 프로모션 비디오 이미지 송        |
+| 텔레비전 애니메이션 『[꽃이 피는 첫걸음](../Page/꽃이_피는_첫걸음.md "wikilink")』 제 8화・최종화 엔딩 테마 |                                                                                 |
+| **ハナノイロ**                                                                | 텔레비전 애니메이션 『[꽃이 피는 첫걸음](../Page/꽃이_피는_첫걸음.md "wikilink")』 전기 오프닝 테마             |
+| **細胞キオク**                                                                | 텔레비전 애니메이션 『[꽃이 피는 첫걸음](../Page/꽃이_피는_첫걸음.md "wikilink")』 삽입곡                   |
+| **月影とブランコ**                                                              |                                                                                 |
+| **リップシンク**                                                               |                                                                                 |
+| **面影ワープ**                                                                | 텔레비전 애니메이션 『[꽃이 피는 첫걸음](../Page/꽃이_피는_첫걸음.md "wikilink")』 후기 오프닝 테마             |
+| **ハイリープ**                                                                | 텔레비전 애니메이션 『[꽃이 피는 첫걸음](../Page/꽃이_피는_첫걸음.md "wikilink")』 제 22화 엔딩 테마           |
+| **絵空事**                                                                  | 텔레비전 애니메이션 『さんかれあ』 오프닝 테마                                                       |
+| **リアルワールド**                                                              | 텔레비전 애니메이션 『[인류는 쇠퇴했습니다](../Page/인류는_쇠퇴했습니다.md "wikilink")』 오프닝 테마              |
+| **もしもの話**                                                                | 텔레비전 애니메이션 『[바쿠만](../Page/바쿠만.md "wikilink")』 제 3 시리즈 전기 오프닝 테마・최종화 엔딩 테마       |
+| **影踏み**                                                                  | 애니메이션 영화 『[극장판 꽃이 피는 첫걸음 HOME SWEET HOME](../Page/꽃이_피는_첫걸음.md "wikilink")』 주제가 |
+| **月花**                                                                   | 텔레비전 애니메이션 『[알바 뛰는 마왕님\!](../Page/알바_뛰는_마왕님!.md "wikilink")』 엔딩 테마              |
+| **スターチャート**                                                              | 텔레비전 애니메이션 『[알바 뛰는 마왕님\!](../Page/알바_뛰는_마왕님!.md "wikilink")』 제 5화 스페셜 엔딩 테마     |
+| **ツマビクヒトリ**                                                              | 텔레비전 애니메이션 『[알바 뛰는 마왕님\!](../Page/알바_뛰는_마왕님!.md "wikilink")』 최종화 스페셜 엔딩 테마      |
+| **なないろびより**                                                              | 텔레비전 애니메이션 『[논논비요리](../Page/논논비요리.md "wikilink")』 오프닝 테마                        |
+| **透明な世界**                                                                | 텔레비전 애니메이션 『[글라스립](../Page/글라스립.md "wikilink")』 엔딩 테마                           |
+| **こたえあわせ**\[9\]                                                          | 정보 와이드・버라이어티 프로그램 『임금님의 브랜치』 엔딩 테마 2015년 4월 ―5월                                 |
+| **こだまことだま**\[10\]\[11\]                                                  | 텔레비전 애니메이션 『[논논비요리 리피-트](../Page/논논비요리.md "wikilink")』 오프닝 테마                   |
+| **ライムツリー**                                                               | 텔레비전 애니메이션 『[최약무패의 신장기룡](../Page/최약무패의_신장기룡.md "wikilink")』 엔딩 테마               |
+| **スノードロップ**                                                              | 텔레비전 애니메이션 『[식극의 소마 두 번째 접시](../Page/식극의_소마.md "wikilink")』 엔딩 테마               |
 
 ### 뮤직 비디오
 
@@ -207,12 +207,12 @@ LACA-35370 (B)<br />
 
 ### 목소리 출연
 
-  - 키미코 - [꽃이 피는 첫걸음](https://ko.wikipedia.org/wiki/꽃이_피는_첫걸음 "wikilink") (타카코의 친구 역)
+  - 키미코 - [꽃이 피는 첫걸음](../Page/꽃이_피는_첫걸음.md "wikilink") (타카코의 친구 역)
 
 ### 라디오
 
   - [코토바노 타마고\!](https://ko.wikipedia.org/wiki/코토바노_타마고! "wikilink") ([NACK5](https://ko.wikipedia.org/wiki/FM_넥파이브 "wikilink"): 2011年년10月5日 - 2014年3月26日) ※『The Nutty Radio Show おに魂』 수요일 아티스트 코너
-  - nano.RIPE 달의 리듬 ([TOKYO FM](https://ko.wikipedia.org/wiki/FM_도쿄 "wikilink"): 2014년 4월 5일 - 2015년 3월 28일)\[12\]
+  - nano.RIPE 달의 리듬 ([TOKYO FM](../Page/FM_도쿄.md "wikilink"): 2014년 4월 5일 - 2015년 3월 28일)\[12\]
 
 ### CM
 

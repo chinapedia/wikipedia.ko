@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ Eyes](https://ko.wikipedia.org/wiki/_Eyes).
 
 
-〈**컬러풀 Eyes**〉()는 [Sexy Zone의](https://ko.wikipedia.org/wiki/Sexy_Zone "wikilink") 10번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink"). [포니 캐년에서](https://ko.wikipedia.org/wiki/포니_캐년 "wikilink") [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [12월 16일에](https://ko.wikipedia.org/wiki/12월_16일 "wikilink") 발매됐다.
+〈**컬러풀 Eyes**〉()는 [Sexy Zone의](https://ko.wikipedia.org/wiki/Sexy_Zone "wikilink") 10번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). [포니 캐년에서](../Page/포니_캐년.md "wikilink") [2015년](../Page/2015년.md "wikilink") [12월 16일에](../Page/12월_16일.md "wikilink") 발매됐다.
 
 ## 개요
 
@@ -28,7 +28,7 @@
     <!-- end list -->
       -
         영화 《[쿠로사키군의 말대로는 되지 않아](../Page/쿠로사키군의_말대로는_되지_않아.md "wikilink")》 주제가
-3.  **Everyday love you** - [사토 쇼리](https://ko.wikipedia.org/wiki/사토_쇼리 "wikilink") \[3:37\]
+3.  **Everyday love you** - [사토 쇼리](../Page/사토_쇼리.md "wikilink") \[3:37\]
       - 작사: 사토 쇼리 / 작곡: Takuya Harada, Joakim Bjornberg, Christofer Erixon / 편곡:스즈키 Daichi 히데유키\[2\]\[3\]
 
 **DVD**
@@ -42,7 +42,7 @@
 
 1.  **컬러풀 Eyes**
 2.  **Make my day**
-3.  **Forever L** - [나카지마 켄토](https://ko.wikipedia.org/wiki/나카지마_켄토 "wikilink") \[3:48\]
+3.  **Forever L** - [나카지마 켄토](../Page/나카지마_켄토.md "wikilink") \[3:48\]
       - 작사: 나카지마 켄토 / 작곡: MiNE, Atsushi Shimada / 편곡: GRP
 
 **DVD**
@@ -56,7 +56,7 @@
 
 1.  **컬러풀 Eyes**
 2.  **Make my day**
-3.  **Hello** - [키쿠치 후마](https://ko.wikipedia.org/wiki/키쿠치_후마 "wikilink") \[4:15\]
+3.  **Hello** - [키쿠치 후마](../Page/키쿠치_후마.md "wikilink") \[4:15\]
       - 작사: 키쿠치 후마 / 작곡: E.ONE, 정창욱 / 편곡: [요시오카 타쿠](https://ko.wikipedia.org/wiki/요시오카_타쿠 "wikilink")
 
 **DVD**
@@ -70,7 +70,7 @@
 3.  **로맨틱하게 승리를 잡아라**() \[4:57\]
       - 작사:쿠보타 히로시 / 작곡: 마카 이노코 오지 / 편곡:스즈키 Daichi 히데유키
 4.  **사랑하는 에브리데이**() \[4:35\]
-      - 작사: [이와사토 유호](https://ko.wikipedia.org/wiki/이와사토_유호 "wikilink") / 작곡: Andreas Stone Johansson, [오카지마 카나타](https://ko.wikipedia.org/wiki/오카지마_카나타 "wikilink"), Yuki Ohnishi / 편곡: 이쿠타 마신
+      - 작사: [이와사토 유호](../Page/이와사토_유호.md "wikilink") / 작곡: Andreas Stone Johansson, [오카지마 카나타](https://ko.wikipedia.org/wiki/오카지마_카나타 "wikilink"), Yuki Ohnishi / 편곡: 이쿠타 마신
 5.  컬러풀 Eyes (Inst.)
 6.  Make my day (Inst.)
 7.  로맨틱하게 승리를 잡아라 (Inst.)

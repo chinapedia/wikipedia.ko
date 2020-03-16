@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [: MI5](https://ko.wikipedia.org/wiki/:_MI5).
 
 
-《**스푹스: MI5**》()는 2002년부터 2011년까지 [BBC One에서](https://ko.wikipedia.org/wiki/BBC_One "wikilink") 방영된 첩보 드라마 《[스푹스](https://ko.wikipedia.org/wiki/스푹스 "wikilink")》의 극장판으로, 2015년 공개되었다. 2015년 5월 8일 공개되었다.\[1\]
+《**스푹스: MI5**》()는 2002년부터 2011년까지 [BBC One에서](../Page/BBC_One.md "wikilink") 방영된 첩보 드라마 《[스푹스](../Page/스푹스.md "wikilink")》의 극장판으로, 2015년 공개되었다. 2015년 5월 8일 공개되었다.\[1\]
 
 ## 출연
 

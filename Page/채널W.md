@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [W](https://ko.wikipedia.org/wiki/W).
 
 
-**채널W**는 2014년에 설립된 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [케이블](https://ko.wikipedia.org/wiki/케이블 "wikilink") [방송국](https://ko.wikipedia.org/wiki/방송국 "wikilink")이다. 일본의 텔레비전 프로그램을 방영하거나 일본 관련 프로그램을 제작한다. 2004년에 중국무협채널 [ABO](https://ko.wikipedia.org/wiki/ABO "wikilink")로 개국 하였지만 2011년월에 [차이나원](https://ko.wikipedia.org/wiki/차이나원 "wikilink")으로 변경하다가 2014년 10월 20일에 현재 이름으로 변경하여, [KT](https://ko.wikipedia.org/wiki/KT "wikilink")를 비롯한 [SK브로드밴드](https://ko.wikipedia.org/wiki/SK브로드밴드 "wikilink"), [LG유플러스](https://ko.wikipedia.org/wiki/LG유플러스 "wikilink") 등 통신 3사 [IPTV](https://ko.wikipedia.org/wiki/IPTV "wikilink") 채널로 시청이 가능하다.
+**채널W**는 2014년에 설립된 [대한민국](../Page/대한민국.md "wikilink")의 [케이블](../Page/케이블.md "wikilink") [방송국](https://ko.wikipedia.org/wiki/방송국 "wikilink")이다. 일본의 텔레비전 프로그램을 방영하거나 일본 관련 프로그램을 제작한다. 2004년에 중국무협채널 [ABO](https://ko.wikipedia.org/wiki/ABO "wikilink")로 개국 하였지만 2011년월에 [차이나원](https://ko.wikipedia.org/wiki/차이나원 "wikilink")으로 변경하다가 2014년 10월 20일에 현재 이름으로 변경하여, [KT](../Page/KT.md "wikilink")를 비롯한 [SK브로드밴드](../Page/SK브로드밴드.md "wikilink"), [LG유플러스](../Page/LG유플러스.md "wikilink") 등 통신 3사 [IPTV](../Page/IPTV.md "wikilink") 채널로 시청이 가능하다.
 
 ## 방영 또는 종영 프로그램
 
@@ -37,7 +37,7 @@
 <td></td>
 <td><p>2019년 9월 2일</p></td>
 <td><p>월,화 22:00 ~ 23:00</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/TV_아사히" title="wikilink">TV 아사히</a></p></td>
+<td><p><a href="../Page/TV_아사히.md" title="wikilink">TV 아사히</a></p></td>
 </tr>
 <tr class="even">
 <td><p>노사이드 게임</p></td>
@@ -82,7 +82,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/고독한_미식가" title="wikilink">고독한 미식가 시즌 6</a></p></td>
+<td><p><a href="../Page/고독한_미식가.md" title="wikilink">고독한 미식가 시즌 6</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -277,7 +277,7 @@
 
 ### ㄱ
 
-  - [가정부 미타](https://ko.wikipedia.org/wiki/가정부_미타 "wikilink")  (니혼 TV, 2018년 5월 31일 \~ 2018년 7월 5일)
+  - [가정부 미타](../Page/가정부_미타.md "wikilink")  (니혼 TV, 2018년 5월 31일 \~ 2018년 7월 5일)
 
   - 가족의 형태  (TBS, 2016년 1월 22일 \~ 2016년 3월 25일)
 
@@ -285,19 +285,19 @@
 
   - [갑각부동전기 로보상](http://www.chw.co.kr/#menu/drama.program.44)  (TV 도쿄, 2014년 11월 3일 \~ 2015년 1월 12일)
 
-  - [고독한 미식가 시즌1](https://ko.wikipedia.org/wiki/고독한_미식가 "wikilink")  (TV 도쿄, 2015년 9월 9일 \~ 2015년 11월 25일)
+  - [고독한 미식가 시즌1](../Page/고독한_미식가.md "wikilink")  (TV 도쿄, 2015년 9월 9일 \~ 2015년 11월 25일)
 
-  - [고독한 미식가 시즌5](https://ko.wikipedia.org/wiki/고독한_미식가 "wikilink")  (TV 도쿄, 2015년 10월 3일 \~ 2015년 12월 18일)
+  - [고독한 미식가 시즌5](../Page/고독한_미식가.md "wikilink")  (TV 도쿄, 2015년 10월 3일 \~ 2015년 12월 18일)
 
-  - [고독한 미식가 시즌6](https://ko.wikipedia.org/wiki/고독한_미식가 "wikilink")  (TV 도쿄, 2017년 4월 8일 \~ 2017년 7월 1일)
+  - [고독한 미식가 시즌6](../Page/고독한_미식가.md "wikilink")  (TV 도쿄, 2017년 4월 8일 \~ 2017년 7월 1일)
 
-  - [고잉 마이 홈](https://ko.wikipedia.org/wiki/고잉_마이_홈 "wikilink") (후지 TV, 2018년 12월 5일 \~ )
+  - [고잉 마이 홈](../Page/고잉_마이_홈.md "wikilink") (후지 TV, 2018년 12월 5일 \~ )
 
   - 과보호의 카호코  (니혼 TV, 2017년 7월 19일 \~ 2017년 9월 20일)
 
   - 괴담 신미미부쿠로  (TBS, 2004년 8월 6일 \~ 2010년 9월)
 
-  - [굿 닥터](https://ko.wikipedia.org/wiki/굿_닥터_\(2018년_드라마\) "wikilink")  (후지 TV, 2018년 9월 13일 \~ 2018년 11월 15일)
+  - [굿 닥터](../Page/굿_닥터_\(2018년_드라마\).md "wikilink")  (후지 TV, 2018년 9월 13일 \~ 2018년 11월 15일)
 
   - [굿 파트너 무적의 변호사](../Page/굿_파트너_무적의_변호사.md "wikilink")  (TV 아사히, 2018년 11월 5일 \~ )
 
@@ -325,9 +325,9 @@
 
 ### ㄷ
 
-  - [닥터 X 시즌 3](https://ko.wikipedia.org/wiki/닥터-X~외과의·다이몬_미치코~ "wikilink")  (TV 아사히, 2014년 10월 31일 \~ 2015년 1월 9일)
+  - [닥터 X 시즌 3](../Page/닥터-X~외과의·다이몬_미치코~.md "wikilink")  (TV 아사히, 2014년 10월 31일 \~ 2015년 1월 9일)
 
-  - [닥터 X 시즌 4](https://ko.wikipedia.org/wiki/닥터-X~외과의·다이몬_미치코~ "wikilink")  (TV 아사히, 2016년 10월 24일 \~ 2017년 1월 2일)
+  - [닥터 X 시즌 4](../Page/닥터-X~외과의·다이몬_미치코~.md "wikilink")  (TV 아사히, 2016년 10월 24일 \~ 2017년 1월 2일)
 
   - [닥터스 3: 최강의 명의](http://www.chw.co.kr/#menu/drama.program.55)  (TV 아사히, 2015년 1월 23일 \~ 2015년 3월 20일)
 
@@ -351,7 +351,7 @@
 
   - [러브송](../Page/러브송_\(드라마\).md "wikilink")  (후지 TV, 2016년 4월 18일 \~ 2016년 6월 20일)
 
-  - [런던하츠](https://ko.wikipedia.org/wiki/런던하츠 "wikilink")  (TV 아사히 )
+  - [런던하츠](../Page/런던하츠.md "wikilink")  (TV 아사히 )
 
   - 러브호텔 우에노 씨 (후지 TV, 2019년 5월 31일 \~ )
 
@@ -385,7 +385,7 @@
 
   - [별 볼 일 없는 나를 사랑해주세요](http://www.chw.co.kr/#menu/drama.program.82)  (TBS, 2016년 1월 19일 \~ 2016년 3월 22일)
 
-  - [부인은, 취급주의](https://ko.wikipedia.org/wiki/부인은,_취급주의 "wikilink")  (니혼 TV, 2017년 10월 13일 \~ 2017년 12월 15일)
+  - [부인은, 취급주의](../Page/부인은,_취급주의.md "wikilink")  (니혼 TV, 2017년 10월 13일 \~ 2017년 12월 15일)
 
   - [뻔하지 않은 이시짱의 우라기리 구루메](http://www.chw.co.kr/#menu/variety.program.80)  (TV 아사히, 2015년 10월 23일 \~ 2016년 2월 9일)
 
@@ -397,11 +397,11 @@
 
   - 사랑하는 사이  (후지 TV, 2015년 7월 27일 \~ 2015년 9월 21일)
 
-  - [사채꾼 우시지마 시즌 1](https://ko.wikipedia.org/wiki/사채꾼_우시지마_\(드라마\) "wikilink")  (MBS, 2018년 8월 23일 \~ 2018년 9월 21일)
+  - [사채꾼 우시지마 시즌 1](../Page/사채꾼_우시지마_\(드라마\).md "wikilink")  (MBS, 2018년 8월 23일 \~ 2018년 9월 21일)
 
-  - [사채꾼 우시지마 시즌 2](https://ko.wikipedia.org/wiki/사채꾼_우시지마_\(드라마\) "wikilink")  (MBS, 2018년 10월 25일 \~ )
+  - [사채꾼 우시지마 시즌 2](../Page/사채꾼_우시지마_\(드라마\).md "wikilink")  (MBS, 2018년 10월 25일 \~ )
 
-  - [사채꾼 우시지마 시즌 3](https://ko.wikipedia.org/wiki/사채꾼_우시지마_\(드라마\) "wikilink")  (MBS, 2018년 11월 29일 \~ )
+  - [사채꾼 우시지마 시즌 3](../Page/사채꾼_우시지마_\(드라마\).md "wikilink")  (MBS, 2018년 11월 29일 \~ )
 
   - [사쿠라 신쥬](https://ko.wikipedia.org/wiki/사쿠라_신쥬 "wikilink")  (후지 TV, 2018년 12월 15일)
 
@@ -421,19 +421,19 @@
 
   - [스미카 스미레: 45세 젊어진 여자](https://ko.wikipedia.org/wiki/스미카_스미레#드라마 "wikilink")  (TV 아사히, 2016년 2월 17일 \~ 2016년 4월 6일)
 
-  - [스펙: 경시청 공안부 공안 제5과 미상 사건 특별 대책계 사건부](https://ko.wikipedia.org/wiki/SPEC~경시청_공안부_공안_제5과_미상_사건_특별_대책계_사건부~ "wikilink")  (TBS, 2014년 12월 8일 \~ 2015년 2월 16일)
+  - [스펙: 경시청 공안부 공안 제5과 미상 사건 특별 대책계 사건부](../Page/SPEC~경시청_공안부_공안_제5과_미상_사건_특별_대책계_사건부~.md "wikilink")  (TBS, 2014년 12월 8일 \~ 2015년 2월 16일)
 
   - 시모키타자와 다이하드  (TV 도쿄, 2017년 7월 25일 \~ 2017년 10월 4일)
 
   - [신의 혀를 가진 남자](http://www.chw.co.kr/#menu/drama.program.90)  (TBS, 2016년 7월 15일 \~ 2016년 9월 23일)
 
-  - [심야식당 시즌 1](https://ko.wikipedia.org/wiki/심야식당_\(일본의_드라마\) "wikilink")  (MBS, 2014년 10월 20일 \~ 2014년 12월 22일)
+  - [심야식당 시즌 1](../Page/심야식당_\(일본의_드라마\).md "wikilink")  (MBS, 2014년 10월 20일 \~ 2014년 12월 22일)
 
-  - [심야식당 시즌 2](https://ko.wikipedia.org/wiki/심야식당_\(일본의_드라마\) "wikilink")  (MBS, 2014년 10월 22일 \~ 2014년 12월 24일)
+  - [심야식당 시즌 2](../Page/심야식당_\(일본의_드라마\).md "wikilink")  (MBS, 2014년 10월 22일 \~ 2014년 12월 24일)
 
-  - [심야식당 시즌 3](https://ko.wikipedia.org/wiki/심야식당_\(일본의_드라마\) "wikilink")  (MBS, 2014년 10월 20일 \~ 2014년 12월 22일)
+  - [심야식당 시즌 3](../Page/심야식당_\(일본의_드라마\).md "wikilink")  (MBS, 2014년 10월 20일 \~ 2014년 12월 22일)
 
-  - [심야식당 더빙판](https://ko.wikipedia.org/wiki/심야식당_\(일본의_드라마\) "wikilink")(2015년 11월 11일 \~ )
+  - [심야식당 더빙판](../Page/심야식당_\(일본의_드라마\).md "wikilink")(2015년 11월 11일 \~ )
 
   - [심해어](https://ko.wikipedia.org/wiki/심해어_\(드라마\) "wikilink")  (TBS, 2019년 7월 9일 \~)
 
@@ -465,11 +465,11 @@
 
   - [요리 삼대째](https://ko.wikipedia.org/wiki/요리_삼대째 "wikilink")  (TV 도쿄, 2019년 1월 31일 \~ )
 
-  - [용사 요시히코와 마왕의 성](https://ko.wikipedia.org/wiki/용사_요시히코와_마왕의_성 "wikilink")  (TV 도쿄, 2011년 7월 8일 \~ 2011년 9월 23일)
+  - [용사 요시히코와 마왕의 성](../Page/용사_요시히코와_마왕의_성.md "wikilink")  (TV 도쿄, 2011년 7월 8일 \~ 2011년 9월 23일)
 
   - [용사 요시히코와 악령의 열쇠](../Page/용사_요시히코와_악령의_열쇠.md "wikilink")  (TV 도쿄, 2012년 10월 12일 \~ 2012년 12월 21일)
 
-  - [용사 요시히코와 인도하는 7인](https://ko.wikipedia.org/wiki/용사_요시히코와_인도하는_7인 "wikilink")  (TV 도쿄, 2016년 10월 14일 \~ 2016년 12월 30일)
+  - [용사 요시히코와 인도하는 7인](../Page/용사_요시히코와_인도하는_7인.md "wikilink")  (TV 도쿄, 2016년 10월 14일 \~ 2016년 12월 30일)
 
   - [유산쟁족](http://www.chw.co.kr/#menu/drama.program.81)  (TV 아사히, 2015년 11월 5일 \~ 2015년 12월 31일)
 
@@ -549,7 +549,7 @@
 
   - 호텔 컨시어지 (TBS, 2019년 4월 26일 \~ )
 
-  - [히모맨 \~빈대 남친 갱생기\~](https://ko.wikipedia.org/wiki/히모맨_~빈대_남친_갱생기~ "wikilink")  (TV 아사히, 2018년 10월 2일 \~ 2018년 11월 13일)
+  - [히모맨 \~빈대 남친 갱생기\~](../Page/히모맨_~빈대_남친_갱생기~.md "wikilink")  (TV 아사히, 2018년 10월 2일 \~ 2018년 11월 13일)
 
 ### 숫자 또는 영문
 
@@ -604,7 +604,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2019년" title="wikilink">2019년</a><br />
+<td><p><a href="../Page/2019년.md" title="wikilink">2019년</a><br />
 6월 15일</p></td>
 <td><p>데스 게임 파크</p></td>
 </tr>

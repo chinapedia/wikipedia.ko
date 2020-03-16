@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [IBM   ](https://ko.wikipedia.org/wiki/IBM___).
 
 
-**IBM 메인프레임 유틸리티 프로그램**은 [MVS](../Page/MVS.md "wikilink")와 같은 [IBM](https://ko.wikipedia.org/wiki/IBM "wikilink") [메인프레임](https://ko.wikipedia.org/wiki/메인프레임 "wikilink") [운영 체제에](https://ko.wikipedia.org/wiki/운영_체제 "wikilink") 공급되는 [유틸리티 소프트웨어로서](https://ko.wikipedia.org/wiki/유틸리티_소프트웨어 "wikilink"), [데이터셋](https://ko.wikipedia.org/wiki/데이터셋 "wikilink") 등에 관련한 다양한 작업을 수행한다.
+**IBM 메인프레임 유틸리티 프로그램**은 [MVS](../Page/MVS.md "wikilink")와 같은 [IBM](../Page/IBM.md "wikilink") [메인프레임](../Page/메인프레임.md "wikilink") [운영 체제에](../Page/운영_체제.md "wikilink") 공급되는 [유틸리티 소프트웨어로서](https://ko.wikipedia.org/wiki/유틸리티_소프트웨어 "wikilink"), [데이터셋](https://ko.wikipedia.org/wiki/데이터셋 "wikilink") 등에 관련한 다양한 작업을 수행한다.
 
 다음의 목록은 [OS/360](https://ko.wikipedia.org/wiki/OS/360 "wikilink") 이후 세대에 배포된 유틸리티를 기술한다. [VSE나](../Page/VSE_\(운영_체제\).md "wikilink") [VM](https://ko.wikipedia.org/wiki/VM_\(운영_체제\) "wikilink") 유틸리티는 포함되지 않는다.
 
@@ -9,7 +9,7 @@
 
 유틸리티들 다수가 IBM 사용자들에 의해 설계되었다.
 
-이 유틸리티들은 [작업 제어 언어](https://ko.wikipedia.org/wiki/작업_제어_언어 "wikilink")(JCL)를 통해 호출되는 것이 보통이다. 이들은 데이터셋을 위해 공통 JCL DD 식별자를 사용하는 경향이 있다.
+이 유틸리티들은 [작업 제어 언어](../Page/작업_제어_언어.md "wikilink")(JCL)를 통해 호출되는 것이 보통이다. 이들은 데이터셋을 위해 공통 JCL DD 식별자를 사용하는 경향이 있다.
 
 | DDNAME   | 기능                                              |
 | -------- | ----------------------------------------------- |
@@ -278,7 +278,7 @@ IEUPDTE에 쓰이는 작업 제어는 다음과 같다:
 
 ### IEFBR14
 
-[IEFBR14](https://ko.wikipedia.org/wiki/IEFBR14 "wikilink")는 데이터셋의 할당이나 삭제만 취할 경우 JCL에 흔히 추가하는 더미 프로그램이다.
+[IEFBR14](../Page/IEFBR14.md "wikilink")는 데이터셋의 할당이나 삭제만 취할 경우 JCL에 흔히 추가하는 더미 프로그램이다.
 
 IEFBR14의 스텝의 예는 다음과 같다:
 
@@ -343,7 +343,7 @@ IEHDASDR는 MVS/XA에서 제거되었다.[1]</p></td>
 </tr>
 <tr class="even">
 <td><p>컴파일러/링커</p></td>
-<td><p>컴퓨터 가게에 쓰이는 각 <a href="https://ko.wikipedia.org/wiki/프로그래밍_언어" title="wikilink">프로그래밍 언어는</a> 원시 프로그램을 기계어 오브젝트 모듈로 변환하는 관련 <a href="https://ko.wikipedia.org/wiki/컴파일러" title="wikilink">컴파일러</a>를 갖추고 있을 수 있다.<br />
+<td><p>컴퓨터 가게에 쓰이는 각 <a href="../Page/프로그래밍_언어.md" title="wikilink">프로그래밍 언어는</a> 원시 프로그램을 기계어 오브젝트 모듈로 변환하는 관련 <a href="../Page/컴파일러.md" title="wikilink">컴파일러</a>를 갖추고 있을 수 있다.<br />
 컴파일러로부터 가져온 오브젝트 모듈은 실행 가능한 로드 모듈을 만들기 위해 IEWL이라는 링키지 에디터를 통해 처리되어야 한다.</p></td>
 </tr>
 <tr class="odd">

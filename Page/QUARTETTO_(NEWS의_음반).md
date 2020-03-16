@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [QUARTETTO \(NEWS \)](https://ko.wikipedia.org/wiki/QUARTETTO_\(NEWS_\)).
 
 
-《**QUARTETTO**》(콰르테토)는, [NEWS](https://ko.wikipedia.org/wiki/NEWS "wikilink")의 7번째 [정규 음반이다](https://ko.wikipedia.org/wiki/정규_음반 "wikilink").
+《**QUARTETTO**》(콰르테토)는, [NEWS](https://ko.wikipedia.org/wiki/NEWS "wikilink")의 7번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
 
 ## 개요
 
@@ -33,13 +33,13 @@
         작사·작곡: Ryohei Yamamoto / 편곡: 스즈키 마사야
 7.  **** / <small>**사총사**</small>
       -
-        작사: Satomi / 작곡: [S 라흐마니노프](https://ko.wikipedia.org/wiki/세르게이_라흐마니노프 "wikilink"), 니시모토 토모미 / 편곡: 니시모토 토모미, 쿠라우치 타츠야 / 지휘: 니시모토 토모미 / 연주: IlluminArt 필하모니 오케스트라
+        작사: Satomi / 작곡: [S 라흐마니노프](../Page/세르게이_라흐마니노프.md "wikilink"), 니시모토 토모미 / 편곡: 니시모토 토모미, 쿠라우치 타츠야 / 지휘: 니시모토 토모미 / 연주: IlluminArt 필하모니 오케스트라
 8.  **Wonder**
       -
         작사: AKIRA / 작곡: take4, AKIRA / 편곡: 나카니시 료스케
 9.  **** / <small>**라이프**</small>
       -
-        작사·작곡: 타케우치 카츠히코 / 편곡: [카메다 세이지](https://ko.wikipedia.org/wiki/카메다_세이지 "wikilink")
+        작사·작곡: 타케우치 카츠히코 / 편곡: [카메다 세이지](../Page/카메다_세이지.md "wikilink")
 10. **** / <small>**츄무츄무**</small>
       -
         작사: MOZZA / 작곡: TAKA3 / 편곡: CHOKKAKU
@@ -70,16 +70,16 @@
 10. **** / <small>**츄무츄무**</small>
 11. **Departure**
 12. **** / <small>**빛의 물방울**</small>
-13. **LIS'N** \[Vocal:[마스다 타카히사](https://ko.wikipedia.org/wiki/마스다_타카히사 "wikilink")\]
+13. **LIS'N** \[Vocal:[마스다 타카히사](../Page/마스다_타카히사.md "wikilink")\]
       -
         작사·작곡: Ryohei Yamamoto / 편곡: TRAKSTA
-14. **** / <small>**사랑의 엘레지**</small> \[Vocal:[코야마 케이치로](https://ko.wikipedia.org/wiki/코야마_케이치로 "wikilink")\]
+14. **** / <small>**사랑의 엘레지**</small> \[Vocal:[코야마 케이치로](../Page/코야마_케이치로.md "wikilink")\]
       -
         작사: zopp / 작곡: BANSE1. / 편곡: 타카하시 료
-15. **** / <small>**어린 왕자**</small> \[Vocal:[카토 시게아키](https://ko.wikipedia.org/wiki/카토_시게아키 "wikilink")\]
+15. **** / <small>**어린 왕자**</small> \[Vocal:[카토 시게아키](../Page/카토_시게아키.md "wikilink")\]
       -
         작사·작곡: 카토 시게아키 / 편곡: 나카니시 료스케
-16. **Encore** \[Vocal:[테고시 유야](https://ko.wikipedia.org/wiki/테고시_유야 "wikilink")\]
+16. **Encore** \[Vocal:[테고시 유야](../Page/테고시_유야.md "wikilink")\]
       -
         작사: KE1 / 작곡: TAKA3, SHIROSE from WHITE JAM / 편곡: TAKA3, 치바 준지
 

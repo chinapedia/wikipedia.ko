@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Dd \(\)](https://ko.wikipedia.org/wiki/Dd_\(\)).
 
 
-**dd**는 파일을 변환하고 복사하는 것이 주 목적인 [유닉스](https://ko.wikipedia.org/wiki/유닉스 "wikilink") 및 [유닉스 계열](https://ko.wikipedia.org/wiki/유닉스_계열 "wikilink") [운영 체제용](https://ko.wikipedia.org/wiki/운영_체제 "wikilink") 명령 줄 유틸리티이다.\[1\]
+**dd**는 파일을 변환하고 복사하는 것이 주 목적인 [유닉스](../Page/유닉스.md "wikilink") 및 [유닉스 계열](../Page/유닉스_계열.md "wikilink") [운영 체제용](../Page/운영_체제.md "wikilink") 명령 줄 유틸리티이다.\[1\]
 
-유닉스에서 하드웨어와 특수 [장치 파일용](https://ko.wikipedia.org/wiki/장치_파일 "wikilink") 장치 드라이버는 파일 시스템에서 마치 일반 파일처럼 나타난다. dd는 기능이 개별 드라이버에서 구현되어 있는 경우 이러한 파일들을 읽거나 기록하는 것이 가능하다. 그러므로 dd는 하드 드라이브의 [부팅 섹터를](https://ko.wikipedia.org/wiki/부팅_섹터 "wikilink") 백업하는 등의 일과 고정된 크기의 랜덤 데이터를 취득하기 위해 사용할 수 있다. dd 프로그램은 복사 시 데이터에 변환을 수행할 수도 있는데, 여기에는 [바이트 순서](https://ko.wikipedia.org/wiki/엔디언 "wikilink") 스와핑, [ASCII](https://ko.wikipedia.org/wiki/ASCII "wikilink")↔[EBCDIC](https://ko.wikipedia.org/wiki/EBCDIC "wikilink") 텍스트 인코딩 변환을 포함할 수 있다.\[2\]
+유닉스에서 하드웨어와 특수 [장치 파일용](../Page/장치_파일.md "wikilink") 장치 드라이버는 파일 시스템에서 마치 일반 파일처럼 나타난다. dd는 기능이 개별 드라이버에서 구현되어 있는 경우 이러한 파일들을 읽거나 기록하는 것이 가능하다. 그러므로 dd는 하드 드라이브의 [부팅 섹터를](https://ko.wikipedia.org/wiki/부팅_섹터 "wikilink") 백업하는 등의 일과 고정된 크기의 랜덤 데이터를 취득하기 위해 사용할 수 있다. dd 프로그램은 복사 시 데이터에 변환을 수행할 수도 있는데, 여기에는 [바이트 순서](../Page/엔디언.md "wikilink") 스와핑, [ASCII](https://ko.wikipedia.org/wiki/ASCII "wikilink")↔[EBCDIC](https://ko.wikipedia.org/wiki/EBCDIC "wikilink") 텍스트 인코딩 변환을 포함할 수 있다.\[2\]
 
-dd라는 이름은 [IBM](https://ko.wikipedia.org/wiki/IBM "wikilink")의 [작업 제어 언어](https://ko.wikipedia.org/wiki/작업_제어_언어 "wikilink")(JCL)에서 발견되는 [DD 문과](https://ko.wikipedia.org/wiki/작업_제어_언어#인스트림_입력 "wikilink") 관련되며\[3\]\[4\] 여기에서 DD는 "Data Description"을 가리킨다.\[5\] 이 명령의 문법은 다른 유닉스 명령보다 JCL 문과 유사하다.\[6\]
+dd라는 이름은 [IBM](../Page/IBM.md "wikilink")의 [작업 제어 언어](../Page/작업_제어_언어.md "wikilink")(JCL)에서 발견되는 [DD 문과](https://ko.wikipedia.org/wiki/작업_제어_언어#인스트림_입력 "wikilink") 관련되며\[3\]\[4\] 여기에서 DD는 "Data Description"을 가리킨다.\[5\] 이 명령의 문법은 다른 유닉스 명령보다 JCL 문과 유사하다.\[6\]
 
-원래 [ASCII](https://ko.wikipedia.org/wiki/ASCII "wikilink")와 [EBCDIC](https://ko.wikipedia.org/wiki/EBCDIC "wikilink") 간의 변환을 위해 고안된 dd는 [버전 5 유닉스에](https://ko.wikipedia.org/wiki/버전_5_유닉스 "wikilink") 처음 등장하였다.\[7\] dd 명령어는 [SUS의](https://ko.wikipedia.org/wiki/단일_유닉스_규격 "wikilink") 일부인 [IEEE](https://ko.wikipedia.org/wiki/IEEE "wikilink") 표준 1003.1-2008에 규정되어 있다.
+원래 [ASCII](https://ko.wikipedia.org/wiki/ASCII "wikilink")와 [EBCDIC](https://ko.wikipedia.org/wiki/EBCDIC "wikilink") 간의 변환을 위해 고안된 dd는 [버전 5 유닉스에](https://ko.wikipedia.org/wiki/버전_5_유닉스 "wikilink") 처음 등장하였다.\[7\] dd 명령어는 [SUS의](../Page/단일_유닉스_규격.md "wikilink") 일부인 [IEEE](https://ko.wikipedia.org/wiki/IEEE "wikilink") 표준 1003.1-2008에 규정되어 있다.
 
 ## 용도
 
@@ -20,7 +20,7 @@ dd 명령은 다양한 목적을 위해 쓰일 수 있다.
 <tbody>
 <tr class="odd">
 <td><div class="sourceCode" id="cb1"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb1-1"><a href="#cb1-1"></a><span class="fu">dd</span> if=/dev/sr0 of=myCD.iso bs=2048 conv=noerror,sync</span></code></pre></div></td>
-<td><p>CD-ROM으로부터 <a href="https://ko.wikipedia.org/wiki/ISO_이미지" title="wikilink">ISO</a> <a href="https://ko.wikipedia.org/wiki/디스크_이미지" title="wikilink">디스크 이미지를</a> 생성한다. 일부의 경우 작성된 ISO 이미지는 CD-ROM 기록에 사용되는 것과 동일하지 않을 수도 있다.<ref>{{서적 인용</p></td>
+<td><p>CD-ROM으로부터 <a href="../Page/ISO_이미지.md" title="wikilink">ISO</a> <a href="../Page/디스크_이미지.md" title="wikilink">디스크 이미지를</a> 생성한다. 일부의 경우 작성된 ISO 이미지는 CD-ROM 기록에 사용되는 것과 동일하지 않을 수도 있다.<ref>{{서적 인용</p></td>
 <td><p>url = <a href="http://books.google.com/books?id=ZBKsMYz1Q4kC&amp;pg=PA174&amp;lpg=PA174&amp;dq=iso+image+2048+block&amp;source=bl&amp;ots=fKnHYFhTYV&amp;sig=yxcSn_WWaIm7uYrXyPaL4bW01Js&amp;hl=en&amp;sa=X&amp;ei=zXD5U7O_CcbdaMbWgegE&amp;redir_esc=y#v=onepage&amp;q&amp;f=false">http://books.google.com/books?id=ZBKsMYz1Q4kC&amp;pg=PA174&amp;lpg=PA174&amp;dq=iso+image+2048+block&amp;source=bl&amp;ots=fKnHYFhTYV&amp;sig=yxcSn_WWaIm7uYrXyPaL4bW01Js&amp;hl=en&amp;sa=X&amp;ei=zXD5U7O_CcbdaMbWgegE&amp;redir_esc=y#v=onepage&amp;q&amp;f=false</a></p></td>
 <td><p>제목 = The Linux Command Line, A Complete Introduction</p></td>
 <td><p>chapter = 15. Storage Media</p></td>
@@ -71,13 +71,13 @@ dd 명령은 다양한 목적을 위해 쓰일 수 있다.
 dd if=/dev/fd0 of=MBRboot.img bs=512 count=2
 ```
 
-완전한 x86 [마스터 부트 레코드의](https://ko.wikipedia.org/wiki/마스터_부트_레코드 "wikilink") 이미지 만들기 (MS-DOS [파티션](https://ko.wikipedia.org/wiki/파티션 "wikilink"), MBR 매직 바이트 포함):
+완전한 x86 [마스터 부트 레코드의](../Page/마스터_부트_레코드.md "wikilink") 이미지 만들기 (MS-DOS [파티션](https://ko.wikipedia.org/wiki/파티션 "wikilink"), MBR 매직 바이트 포함):
 
 ``` bash
 dd if=/dev/sda of=MBR.img bs=512 count=1
 ```
 
-[마스터 부트 레코드의](https://ko.wikipedia.org/wiki/마스터_부트_레코드 "wikilink") 부트 코드만의 이미지 만들기 ([파티션 테이블](https://ko.wikipedia.org/wiki/파티션_테이블 "wikilink") 없이, 또 부팅 시 필요한 매직 바이트 없이):
+[마스터 부트 레코드의](../Page/마스터_부트_레코드.md "wikilink") 부트 코드만의 이미지 만들기 ([파티션 테이블](https://ko.wikipedia.org/wiki/파티션_테이블 "wikilink") 없이, 또 부팅 시 필요한 매직 바이트 없이):
 
 ``` bash
 dd if=/dev/sda of=MBR_boot.img bs=446 count=1
@@ -117,9 +117,9 @@ dd if=/dev/urandom of=/dev/sda bs=4k
 
 ### 데이터 복구
 
-파일, 드라이브, 파티션의 [데이터 복구](https://ko.wikipedia.org/wiki/데이터_복구 "wikilink") 및 복원에 대한 [오픈 소스 소프트웨어의](https://ko.wikipedia.org/wiki/오픈_소스_소프트웨어 "wikilink") 초기 역사에는 GNU dd가 포함되어 있으며, 저작권 고지는 1985년에 시작된다.\[8\] dd 프로세스 당 하나의 블록 크기를 가지며 특정한 형태의 dd를 실행 중인 사용자의 상호작용 세션까지만 한정하여 복구 알고리즘을 제공하였다. 그 뒤 dd_rescue\[9\]라는 C 프로그램이 1999년 10월에 작성되어 해당 알고리즘 안에 두 개의 블록 크기를 가질 수 있었다. 그러나 2003년 dd_rescue의 데이터 복구 알고리즘을 강화한 셸 스크립트 dd_rhelp의 저자는 2004년에 처음 출시된 dd와는 무관한 데이터 복구 프로그램인 GNU [ddrescue](https://ko.wikipedia.org/wiki/ddrescue "wikilink")\[10\]\[11\]의 사용을 권장하였다.
+파일, 드라이브, 파티션의 [데이터 복구](https://ko.wikipedia.org/wiki/데이터_복구 "wikilink") 및 복원에 대한 [오픈 소스 소프트웨어의](../Page/오픈_소스_소프트웨어.md "wikilink") 초기 역사에는 GNU dd가 포함되어 있으며, 저작권 고지는 1985년에 시작된다.\[8\] dd 프로세스 당 하나의 블록 크기를 가지며 특정한 형태의 dd를 실행 중인 사용자의 상호작용 세션까지만 한정하여 복구 알고리즘을 제공하였다. 그 뒤 dd_rescue\[9\]라는 C 프로그램이 1999년 10월에 작성되어 해당 알고리즘 안에 두 개의 블록 크기를 가질 수 있었다. 그러나 2003년 dd_rescue의 데이터 복구 알고리즘을 강화한 셸 스크립트 dd_rhelp의 저자는 2004년에 처음 출시된 dd와는 무관한 데이터 복구 프로그램인 GNU [ddrescue](https://ko.wikipedia.org/wiki/ddrescue "wikilink")\[10\]\[11\]의 사용을 권장하였다.
 
-더 새로운 GNU 프로그램을 더 오래된 스크립트와 구별하기 위해 GNU의 ddrescue와는 다른 이름이 쓰이기도 하는데 여기에는 addrescue (freecode.com, freshmeat.net에서의 이름), gddrescue ([데비안](https://ko.wikipedia.org/wiki/데비안 "wikilink") 패키지 이름), gnu_ddrescue([오픈수세](https://ko.wikipedia.org/wiki/오픈수세 "wikilink") 패키지 이름)가 포함된다. savehd7이라는 다른 오픈 소스 프로그램은 복잡한 알고리즘을 사용하지만 사용을 위해 자체 프로그래밍 언어 인터프리터의 설치가 필요하다.
+더 새로운 GNU 프로그램을 더 오래된 스크립트와 구별하기 위해 GNU의 ddrescue와는 다른 이름이 쓰이기도 하는데 여기에는 addrescue (freecode.com, freshmeat.net에서의 이름), gddrescue ([데비안](../Page/데비안.md "wikilink") 패키지 이름), gnu_ddrescue([오픈수세](../Page/오픈수세.md "wikilink") 패키지 이름)가 포함된다. savehd7이라는 다른 오픈 소스 프로그램은 복잡한 알고리즘을 사용하지만 사용을 위해 자체 프로그래밍 언어 인터프리터의 설치가 필요하다.
 
 ### 드라이브 성능 벤치마크
 
@@ -148,7 +148,7 @@ dd if=filename of=filename1 conv=ucase
 
 ## 같이 보기
 
-  - [백업](https://ko.wikipedia.org/wiki/백업 "wikilink")
+  - [백업](../Page/백업.md "wikilink")
   - [디스크 복제](https://ko.wikipedia.org/wiki/디스크_복제 "wikilink")
   - [유닉스 명령어 목록](../Page/유닉스_명령어_목록.md "wikilink")
 

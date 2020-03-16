@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
 
 
-**히우브랑쿠 푸치보우 클루브**는 **히우브랑쿠**로 잘 알려진 [브라질](https://ko.wikipedia.org/wiki/브라질 "wikilink")의 축구단으로 [아크리주](https://ko.wikipedia.org/wiki/아크리주 "wikilink")의 [히우브랑쿠](https://ko.wikipedia.org/wiki/히우브랑쿠 "wikilink")를 연고로 한다.
+**히우브랑쿠 푸치보우 클루브**는 **히우브랑쿠**로 잘 알려진 [브라질](../Page/브라질.md "wikilink")의 축구단으로 [아크리주](../Page/아크리주.md "wikilink")의 [히우브랑쿠](../Page/히우브랑쿠.md "wikilink")를 연고로 한다.
 
 ## 우승
 

@@ -1,40 +1,40 @@
 > This article is converted from Wikipedia: [S\&T](https://ko.wikipedia.org/wiki/S\&T).
 
 
-**S\&T그룹** (<small>[국문](https://ko.wikipedia.org/wiki/국문 "wikilink"):</small> 에스앤티그룹, )은, [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 기업집단이며 [대기업](../Page/대기업.md "wikilink")([대규모 기업집단](https://ko.wikipedia.org/wiki/대규모_기업집단 "wikilink"))군에 속하는 그룹이다.
+**S\&T그룹** (<small>[국문](https://ko.wikipedia.org/wiki/국문 "wikilink"):</small> 에스앤티그룹, )은, [대한민국](../Page/대한민국.md "wikilink")의 기업집단이며 [대기업](../Page/대기업.md "wikilink")([대규모 기업집단](https://ko.wikipedia.org/wiki/대규모_기업집단 "wikilink"))군에 속하는 그룹이다.
 
 ## 그룹 연혁
 
 ### 1970년대
 
-  - [1979년](https://ko.wikipedia.org/wiki/1979년 "wikilink") [8월](https://ko.wikipedia.org/wiki/8월 "wikilink") 삼영기계공업사 설립
+  - [1979년](../Page/1979년.md "wikilink") [8월](../Page/8월.md "wikilink") 삼영기계공업사 설립
 
 ### 1980년대
 
-  - [1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink") [9월](https://ko.wikipedia.org/wiki/9월 "wikilink") 삼영열기공업주식회사로 [법인](https://ko.wikipedia.org/wiki/법인 "wikilink") 전환
+  - [1982년](../Page/1982년.md "wikilink") [9월](../Page/9월.md "wikilink") 삼영열기공업주식회사로 [법인](../Page/법인.md "wikilink") 전환
 
 ### 1990년대
 
-  - [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [9월](https://ko.wikipedia.org/wiki/9월 "wikilink") 삼영열기주식회사로 사명 변경
+  - [1999년](../Page/1999년.md "wikilink") [9월](../Page/9월.md "wikilink") 삼영열기주식회사로 사명 변경
 
 ### 2000년대
 
-  - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink") [코스닥시장](https://ko.wikipedia.org/wiki/코스닥시장 "wikilink")(KOSDAQ) 등록([상장](https://ko.wikipedia.org/wiki/상장_\(금융\) "wikilink"))
-  - [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink") 주식회사 삼영으로 사명 변경
-  - [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [10월](https://ko.wikipedia.org/wiki/10월 "wikilink") [유가증권시장](https://ko.wikipedia.org/wiki/코스피 "wikilink")(KOSPI)으로 이전, [상장](https://ko.wikipedia.org/wiki/상장_\(금융\) "wikilink")
-  - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink") [S\&T중공업](https://ko.wikipedia.org/wiki/S&T중공업 "wikilink") [M\&A](https://ko.wikipedia.org/wiki/M&A "wikilink") (舊 [통일중공업](https://ko.wikipedia.org/wiki/통일중공업 "wikilink"))
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [7월](https://ko.wikipedia.org/wiki/7월 "wikilink") [S\&TC](https://ko.wikipedia.org/wiki/S&TC "wikilink")로 사명 변경
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [6월](https://ko.wikipedia.org/wiki/6월 "wikilink") [S\&T모티브](https://ko.wikipedia.org/wiki/S&T모티브 "wikilink") [M\&A](https://ko.wikipedia.org/wiki/M&A "wikilink") (舊 [대우정밀](https://ko.wikipedia.org/wiki/대우정밀 "wikilink"))
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [9월](https://ko.wikipedia.org/wiki/9월 "wikilink") S\&T그룹 출범
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink") 인적분할(존속법인: S\&T홀딩스, 신설법인: [S\&TC](https://ko.wikipedia.org/wiki/S&TC "wikilink"))
+  - [2000년](../Page/2000년.md "wikilink") [3월](../Page/3월.md "wikilink") [코스닥시장](https://ko.wikipedia.org/wiki/코스닥시장 "wikilink")(KOSDAQ) 등록([상장](https://ko.wikipedia.org/wiki/상장_\(금융\) "wikilink"))
+  - [2002년](../Page/2002년.md "wikilink") [2월](../Page/2월.md "wikilink") 주식회사 삼영으로 사명 변경
+  - [2002년](../Page/2002년.md "wikilink") [10월](../Page/10월.md "wikilink") [유가증권시장](https://ko.wikipedia.org/wiki/코스피 "wikilink")(KOSPI)으로 이전, [상장](https://ko.wikipedia.org/wiki/상장_\(금융\) "wikilink")
+  - [2003년](../Page/2003년.md "wikilink") [2월](../Page/2월.md "wikilink") [S\&T중공업](../Page/S&T중공업.md "wikilink") [M\&A](https://ko.wikipedia.org/wiki/M&A "wikilink") (舊 [통일중공업](https://ko.wikipedia.org/wiki/통일중공업 "wikilink"))
+  - [2005년](../Page/2005년.md "wikilink") [7월](../Page/7월.md "wikilink") [S\&TC](https://ko.wikipedia.org/wiki/S&TC "wikilink")로 사명 변경
+  - [2006년](../Page/2006년.md "wikilink") [6월](../Page/6월.md "wikilink") [S\&T모티브](../Page/S&T모티브.md "wikilink") [M\&A](https://ko.wikipedia.org/wiki/M&A "wikilink") (舊 [대우정밀](https://ko.wikipedia.org/wiki/대우정밀 "wikilink"))
+  - [2006년](../Page/2006년.md "wikilink") [9월](../Page/9월.md "wikilink") S\&T그룹 출범
+  - [2008년](../Page/2008년.md "wikilink") [2월](../Page/2월.md "wikilink") 인적분할(존속법인: S\&T홀딩스, 신설법인: [S\&TC](https://ko.wikipedia.org/wiki/S&TC "wikilink"))
 
 ### 2010년대
 
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [6월](https://ko.wikipedia.org/wiki/6월 "wikilink") S\&T장학재단 설립
+  - [2013년](../Page/2013년.md "wikilink") [6월](../Page/6월.md "wikilink") S\&T장학재단 설립
 
 ## 그룹 계열사
 
-[독점규제 및 공정거래에 관한 법률상](https://ko.wikipedia.org/wiki/독점규제_및_공정거래에_관한_법률 "wikilink") S\&T 기업집단이다.
+[독점규제 및 공정거래에 관한 법률상](../Page/독점규제_및_공정거래에_관한_법률.md "wikilink") S\&T 기업집단이다.
 기업집단의 명칭: S\&T
 동일인: 최 평 규
 
@@ -42,8 +42,8 @@
 
   - S\&T홀딩스([지주회사](https://ko.wikipedia.org/wiki/지주회사 "wikilink"), [유가증권시장](https://ko.wikipedia.org/wiki/코스피 "wikilink")) (S\&T Holdings Co., Ltd.)
   - [S\&TC](https://ko.wikipedia.org/wiki/S&TC "wikilink")([유가증권시장](https://ko.wikipedia.org/wiki/코스피 "wikilink")) (S\&T Corporation)
-  - [S\&T모티브](https://ko.wikipedia.org/wiki/S&T모티브 "wikilink")([유가증권시장](https://ko.wikipedia.org/wiki/코스피 "wikilink")) (S\&T Motiv Co., Ltd.)
-  - [S\&T중공업](https://ko.wikipedia.org/wiki/S&T중공업 "wikilink")([유가증권시장](https://ko.wikipedia.org/wiki/코스피 "wikilink")) (S\&T Dynamics Co.,Ltd.)
+  - [S\&T모티브](../Page/S&T모티브.md "wikilink")([유가증권시장](https://ko.wikipedia.org/wiki/코스피 "wikilink")) (S\&T Motiv Co., Ltd.)
+  - [S\&T중공업](../Page/S&T중공업.md "wikilink")([유가증권시장](https://ko.wikipedia.org/wiki/코스피 "wikilink")) (S\&T Dynamics Co.,Ltd.)
 
 ### 비상장사
 
@@ -58,9 +58,9 @@
   - 청도S\&T중공유한공사 ( [청도시](https://ko.wikipedia.org/wiki/청도시 "wikilink") 경제기술 개발구)
   - 강소S\&T기차배건유한공사 ( [강소성](https://ko.wikipedia.org/wiki/강소성 "wikilink") 장가항시)
   - 광주S\&T중공유한공사 ( [광동성](https://ko.wikipedia.org/wiki/광동성 "wikilink") [광주](https://ko.wikipedia.org/wiki/광저우_시 "wikilink"))
-  - S\&T Polska Sp. z o.o ( [카토비체](https://ko.wikipedia.org/wiki/카토비체 "wikilink"))
+  - S\&T Polska Sp. z o.o ( [카토비체](../Page/카토비체.md "wikilink"))
   - S\&T Daewoo India Private Ltd ( [푸네](https://ko.wikipedia.org/wiki/푸네 "wikilink"))
-  - S\&T America ( [디트로이트](https://ko.wikipedia.org/wiki/디트로이트 "wikilink"))
+  - S\&T America ( [디트로이트](../Page/디트로이트.md "wikilink"))
   - S\&T Gulf ( 담만산업단지)
   - S\&T Motiv America ( [델라웨어](https://ko.wikipedia.org/wiki/델라웨어 "wikilink"))
   - S\&T Automotive America, LLC ( [델라웨어](https://ko.wikipedia.org/wiki/델라웨어 "wikilink"))
@@ -74,14 +74,14 @@
 
 ## 관련된 타 기업집단(그룹)
 
-  - [현대그룹](https://ko.wikipedia.org/wiki/현대그룹 "wikilink")
-  - [현대중공업그룹](https://ko.wikipedia.org/wiki/현대중공업그룹 "wikilink")
-  - [대우그룹](https://ko.wikipedia.org/wiki/대우그룹 "wikilink")(해체)
+  - [현대그룹](../Page/현대그룹.md "wikilink")
+  - [현대중공업그룹](../Page/현대중공업그룹.md "wikilink")
+  - [대우그룹](../Page/대우그룹.md "wikilink")(해체)
 
 ## 같이 보기
 
-  - [중공업](https://ko.wikipedia.org/wiki/중공업 "wikilink")
-  - [자동차](https://ko.wikipedia.org/wiki/자동차 "wikilink") [부품](https://ko.wikipedia.org/wiki/부품 "wikilink")
+  - [중공업](../Page/중공업.md "wikilink")
+  - [자동차](../Page/자동차.md "wikilink") [부품](https://ko.wikipedia.org/wiki/부품 "wikilink")
   - [대규모 기업집단](https://ko.wikipedia.org/wiki/대규모_기업집단 "wikilink")
 
 ## 각주

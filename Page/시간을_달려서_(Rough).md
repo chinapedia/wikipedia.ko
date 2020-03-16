@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  \(Rough\)](https://ko.wikipedia.org/wiki/__\(Rough\)).
 
 
-〈**시간을 달려서 (Rough)**〉는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") 걸그룹 [여자친구의](../Page/여자친구_\(음악_그룹\).md "wikilink") 노래이다.
+〈**시간을 달려서 (Rough)**〉는 [대한민국](../Page/대한민국.md "wikilink") 걸그룹 [여자친구의](../Page/여자친구_\(음악_그룹\).md "wikilink") 노래이다.
 
 ## 성과
 
@@ -9,7 +9,7 @@
 
 ## 커버
 
-《K팝스타 시즌5》에서 [박민지](https://ko.wikipedia.org/wiki/박민지 "wikilink")에 의해, 《보컬전쟁 - 신의 목소리》에서 [거미에](https://ko.wikipedia.org/wiki/거미_\(가수\) "wikilink") 의해 커버되기도 하였다.
+《K팝스타 시즌5》에서 [박민지](../Page/박민지.md "wikilink")에 의해, 《보컬전쟁 - 신의 목소리》에서 [거미에](../Page/거미_\(가수\).md "wikilink") 의해 커버되기도 하였다.
 
 ## 차트
 
@@ -30,7 +30,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>대한민국 (<a href="https://ko.wikipedia.org/wiki/가온_디지털_차트" title="wikilink">가온 디지털 차트</a>)</p></td>
+<td><p>대한민국 (<a href="../Page/가온_디지털_차트.md" title="wikilink">가온 디지털 차트</a>)</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
@@ -62,7 +62,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>대한민국 (<a href="https://ko.wikipedia.org/wiki/가온_디지털_차트" title="wikilink">가온 디지털 차트</a>)</p></td>
+<td><p>대한민국 (<a href="../Page/가온_디지털_차트.md" title="wikilink">가온 디지털 차트</a>)</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">

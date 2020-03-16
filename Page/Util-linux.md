@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Util-linux](https://ko.wikipedia.org/wiki/Util-linux).
 
 
-**util-linux**는 [리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink") [운영 체제의](https://ko.wikipedia.org/wiki/운영_체제 "wikilink") 표준 패키지이다. 차세대를 뜻하는 ng라는 용어가 포함된 util-linux-ng라는 [포크는](../Page/포크_\(소프트웨어_개발\).md "wikilink") 개발이 중단되었을 때 만들어졌으나\[1\] 2011년 1월에 util-linux로 이름이 바뀌었고 현재는 패키지의 공식 버전이다.\[2\]
+**util-linux**는 [리눅스](../Page/리눅스.md "wikilink") [운영 체제의](../Page/운영_체제.md "wikilink") 표준 패키지이다. 차세대를 뜻하는 ng라는 용어가 포함된 util-linux-ng라는 [포크는](../Page/포크_\(소프트웨어_개발\).md "wikilink") 개발이 중단되었을 때 만들어졌으나\[1\] 2011년 1월에 util-linux로 이름이 바뀌었고 현재는 패키지의 공식 버전이다.\[2\]
 
 ## 내용물
 

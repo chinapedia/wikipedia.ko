@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Chroot](https://ko.wikipedia.org/wiki/Chroot).
 
 
-[유닉스](https://ko.wikipedia.org/wiki/유닉스 "wikilink") [운영 체제에서](https://ko.wikipedia.org/wiki/운영_체제 "wikilink") **chroot**는 현재 실행 중인 프로세스와 [차일드 프로세스](https://ko.wikipedia.org/wiki/차일드_프로세스 "wikilink") 그룹에서 [루트 디렉터리를](https://ko.wikipedia.org/wiki/루트_디렉터리 "wikilink") 변경하는 작업이다.
+[유닉스](../Page/유닉스.md "wikilink") [운영 체제에서](../Page/운영_체제.md "wikilink") **chroot**는 현재 실행 중인 프로세스와 [차일드 프로세스](https://ko.wikipedia.org/wiki/차일드_프로세스 "wikilink") 그룹에서 [루트 디렉터리를](https://ko.wikipedia.org/wiki/루트_디렉터리 "wikilink") 변경하는 작업이다.
 
-이렇게 수정된 환경에서 실행되는 프로그램은 지정된 디렉터리 트리 밖의 파일들의 이름을 지정할 수 없으므로(즉, 일반적으로는 접근이 불가능하므로) chroot 감옥으로 부른다. chroot는 chroot(2) [시스템 호출이나](https://ko.wikipedia.org/wiki/시스템_호출 "wikilink") chroot(8) 래퍼 프로그램을 가리킬 수 있다.
+이렇게 수정된 환경에서 실행되는 프로그램은 지정된 디렉터리 트리 밖의 파일들의 이름을 지정할 수 없으므로(즉, 일반적으로는 접근이 불가능하므로) chroot 감옥으로 부른다. chroot는 chroot(2) [시스템 호출이나](../Page/시스템_호출.md "wikilink") chroot(8) 래퍼 프로그램을 가리킬 수 있다.
 
 ## 역사
 
-chroot 시스템 호출은 1979년 버전 7 유닉스의 개발 중에 도입되었으며, 1982년 3월 18일 [빌 조이가](https://ko.wikipedia.org/wiki/빌_조이 "wikilink") BSD에 추가하였다.
+chroot 시스템 호출은 1979년 버전 7 유닉스의 개발 중에 도입되었으며, 1982년 3월 18일 [빌 조이가](../Page/빌_조이.md "wikilink") BSD에 추가하였다.
 
 ## 이용 목적
 
@@ -49,7 +49,7 @@ chroot $TARGETDIR ln -s /proc/mounts /etc/mtab
 
   - [xhost](https://ko.wikipedia.org/wiki/xhost "wikilink")
   - [Xnest](https://ko.wikipedia.org/wiki/Xnest "wikilink") 또는 더 현대적인 [Xephyr](https://ko.wikipedia.org/wiki/Xephyr "wikilink")
-  - X11 포워드 (ssh-X) 기능을 이용하여 chroot [SSH](https://ko.wikipedia.org/wiki/시큐어_셸 "wikilink") 접근
+  - X11 포워드 (ssh-X) 기능을 이용하여 chroot [SSH](../Page/시큐어_셸.md "wikilink") 접근
   - [xchroot](http://www.elstel.org/xchroot/)
   - X11 [VNC](https://ko.wikipedia.org/wiki/VNC "wikilink") 서버 및 환경 외 VNC 클라이언트 접속
 

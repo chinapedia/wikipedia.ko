@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [   FC](https://ko.wikipedia.org/wiki/___FC).
 
 
-**아기아 지 마라바 푸치보우 클루비**는 [브라질](https://ko.wikipedia.org/wiki/브라질 "wikilink")의 축구단으로 [파라 주의](https://ko.wikipedia.org/wiki/파라_주_\(브라질\) "wikilink") [마라바](https://ko.wikipedia.org/wiki/마라바 "wikilink")를 연고로 한다. 현재 [캄페오나투 브라질레이루 세리에 D에](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리에_D "wikilink") 참가하고 있다.
+**아기아 지 마라바 푸치보우 클루비**는 [브라질](../Page/브라질.md "wikilink")의 축구단으로 [파라 주의](https://ko.wikipedia.org/wiki/파라_주_\(브라질\) "wikilink") [마라바](https://ko.wikipedia.org/wiki/마라바 "wikilink")를 연고로 한다. 현재 [캄페오나투 브라질레이루 세리에 D에](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리에_D "wikilink") 참가하고 있다.
 
 ## 외부 링크
 

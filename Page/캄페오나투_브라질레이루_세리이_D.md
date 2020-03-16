@@ -45,7 +45,7 @@
 <a href="https://ko.wikipedia.org/wiki/구아라니_SC" title="wikilink">구아라니 지 소브라우</a> (<a href="https://ko.wikipedia.org/wiki/세아라_주" title="wikilink">CE</a>)</p></td>
 <td></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/마두레이라_EC" title="wikilink">마두레이라</a> (<a href="https://ko.wikipedia.org/wiki/리우데자네이루_주" title="wikilink">RJ</a>)</p></td>
+<a href="../Page/마두레이라_EC.md" title="wikilink">마두레이라</a> (<a href="https://ko.wikipedia.org/wiki/리우데자네이루_주" title="wikilink">RJ</a>)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/아메리카_FC_(아마조나스주)" title="wikilink">아메리카-AM은</a> <a href="https://ko.wikipedia.org/wiki/조인빌리_EC" title="wikilink">조인빌리 EC와의</a> 8강전에서 출전불가능한 선수를 출전시키며, 결승전 진출 자격을 박탈당하였다.</p></td>
 </tr>
 <tr class="odd">
@@ -86,7 +86,7 @@
 <strong>0–0</strong></p></td>
 <td><p><br />
 <a href="../Page/GE_브라지우.md" title="wikilink">브라지우 지 펠로타스</a> (<a href="https://ko.wikipedia.org/wiki/히우그란지두술_주" title="wikilink">RS</a>)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/승부차기" title="wikilink">승부차기</a>에서 톰벤시가 4-2로 승리했다.</p></td>
+<td><p><a href="../Page/승부차기.md" title="wikilink">승부차기</a>에서 톰벤시가 4-2로 승리했다.</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/캄페오나투_브라질레이루_세리이_D_2015.md" title="wikilink">2015</a></p></td>
@@ -105,17 +105,17 @@
 <td><p>0–0<br />
 <strong>4–0</strong></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/센트루_스포르치부_알라고아누" title="wikilink">CSA</a> (<a href="https://ko.wikipedia.org/wiki/알라고아스_주" title="wikilink">AL</a>)</p></td>
+<a href="../Page/센트루_스포르치부_알라고아누.md" title="wikilink">CSA</a> (<a href="https://ko.wikipedia.org/wiki/알라고아스_주" title="wikilink">AL</a>)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_D_2017" title="wikilink">2017</a></p></td>
+<td><p><a href="../Page/캄페오나투_브라질레이루_세리이_D_2017.md" title="wikilink">2017</a></p></td>
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/오페라리우_페호비아리우_EC" title="wikilink">오페라리우</a> (<a href="https://ko.wikipedia.org/wiki/파라나_주" title="wikilink">PR</a>)</p></td>
 <td><p>5–0<br />
 <strong>0–1</strong></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/글로부_FC" title="wikilink">글로부</a> (<a href="https://ko.wikipedia.org/wiki/히우그란지두노르치_주" title="wikilink">RN</a>)</p></td>
+<a href="../Page/글로부_FC.md" title="wikilink">글로부</a> (<a href="https://ko.wikipedia.org/wiki/히우그란지두노르치_주" title="wikilink">RN</a>)</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -153,12 +153,12 @@
 <tr class="even">
 <td><p><br />
 </p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/노바이구아수_FC" title="wikilink">노바이구아수</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/노바이구아수" title="wikilink">노바이구아수</a></p></td>
+<td><p><a href="../Page/노바이구아수_FC.md" title="wikilink">노바이구아수</a></p></td>
+<td><p><a href="../Page/노바이구아수.md" title="wikilink">노바이구아수</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/마두레이라_EC" title="wikilink">마두레이라</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/리우데자네이루" title="wikilink">리우데자네이루</a></p></td>
+<td><p><a href="../Page/마두레이라_EC.md" title="wikilink">마두레이라</a></p></td>
+<td><p><a href="../Page/리우데자네이루.md" title="wikilink">리우데자네이루</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -174,8 +174,8 @@
 <tr class="even">
 <td><p><br />
 </p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/모투_클루브" title="wikilink">모투 클루브</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/상루이스" title="wikilink">상루이스</a></p></td>
+<td><p><a href="../Page/모투_클루브.md" title="wikilink">모투 클루브</a></p></td>
+<td><p><a href="../Page/상루이스.md" title="wikilink">상루이스</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/소시에다지_임페라트리즈_지_데스포르투스" title="wikilink">임페라트리즈</a></p></td>
@@ -191,18 +191,18 @@
 <td><p><br />
 </p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/CE_동보스쿠" title="wikilink">동보스쿠</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/쿠이아바" title="wikilink">쿠이아바</a></p></td>
+<td><p><a href="../Page/쿠이아바.md" title="wikilink">쿠이아바</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/시노프_FC" title="wikilink">시노프</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/시노프" title="wikilink">시노프</a></p></td>
+<td><p><a href="../Page/시노프.md" title="wikilink">시노프</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><br />
 </p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/노보페라리우_FC" title="wikilink">노보페라리우</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/캄푸그란지" title="wikilink">캄푸그란지</a></p></td>
+<td><p><a href="../Page/캄푸그란지.md" title="wikilink">캄푸그란지</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/코룸바엔시_FC" title="wikilink">코룸바엔시</a></p></td>
@@ -221,7 +221,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/우니앙_헤크레아치바_두스_트라발랴도리스" title="wikilink">URT</a></p></td>
+<td><p><a href="../Page/우니앙_헤크레아치바_두스_트라발랴도리스.md" title="wikilink">URT</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파투스지미나스" title="wikilink">파투스지미나스</a></p></td>
 <td></td>
 </tr>
@@ -244,7 +244,7 @@
 <tr class="odd">
 <td><p><br />
 </p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/브루스키_FC" title="wikilink">브루스키</a></p></td>
+<td><p><a href="../Page/브루스키_FC.md" title="wikilink">브루스키</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/브루스키" title="wikilink">브루스키</a></p></td>
 </tr>
 <tr class="even">
@@ -260,11 +260,11 @@
 <tr class="even">
 <td><p><br />
 </p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/그레미우_노보리존치누" title="wikilink">노보리존치누</a></p></td>
+<td><p><a href="../Page/그레미우_노보리존치누.md" title="wikilink">노보리존치누</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/노부오리존치" title="wikilink">노부오리존치</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/CA_리넨시" title="wikilink">리넨시</a></p></td>
+<td><p><a href="../Page/CA_리넨시.md" title="wikilink">리넨시</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/링스_(브라질)" title="wikilink">링스</a></p></td>
 <td></td>
 </tr>
@@ -274,12 +274,12 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/미라소우_FC" title="wikilink">미라소우</a></p></td>
+<td><p><a href="../Page/미라소우_FC.md" title="wikilink">미라소우</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/미라소우" title="wikilink">미라소우</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/아소시아상_페호비아리아_지_이스포르치스" title="wikilink">페호비아리아</a></p></td>
+<td><p><a href="../Page/아소시아상_페호비아리아_지_이스포르치스.md" title="wikilink">페호비아리아</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/아라라쿠아라" title="wikilink">아라라쿠아라</a></p></td>
 <td></td>
 </tr>
@@ -297,34 +297,34 @@
 <tr class="odd">
 <td><p><br />
 </p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/구아라니_EC_(세아라주)" title="wikilink">구아라니 지 주아제이루</a></p></td>
+<td><p><a href="../Page/구아라니_EC_(세아라주).md" title="wikilink">구아라니 지 주아제이루</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/주아제이루두노르치" title="wikilink">주아제이루두노르치</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/페호비아리우_AC_(세아라주)" title="wikilink">페호비아리우</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/포르탈레자" title="wikilink">포르탈레자</a></p></td>
+<td><p><a href="../Page/페호비아리우_AC_(세아라주).md" title="wikilink">페호비아리우</a></p></td>
+<td><p><a href="../Page/포르탈레자.md" title="wikilink">포르탈레자</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><br />
 </p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/나시오나우_FC" title="wikilink">나시오나우</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/마나우스" title="wikilink">마나우스</a></p></td>
+<td><p><a href="../Page/나시오나우_FC.md" title="wikilink">나시오나우</a></p></td>
+<td><p><a href="../Page/마나우스.md" title="wikilink">마나우스</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/마나우스_FC" title="wikilink">마나우스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/마나우스" title="wikilink">마나우스</a></p></td>
+<td><p><a href="../Page/마나우스.md" title="wikilink">마나우스</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><br />
 </p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/EC_마카파" title="wikilink">마카파</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/마카파" title="wikilink">마카파</a></p></td>
+<td><p><a href="../Page/마카파.md" title="wikilink">마카파</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/산투스_FC_(아마파주)" title="wikilink">산투스-AP</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/마카파" title="wikilink">마카파</a></p></td>
+<td><p><a href="../Page/산투스_FC_(아마파주).md" title="wikilink">산투스-AP</a></p></td>
+<td><p><a href="../Page/마카파.md" title="wikilink">마카파</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -335,13 +335,13 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/히우브랑쿠_FC.md" title="wikilink">히우브랑쿠</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/히우브랑쿠" title="wikilink">히우브랑쿠</a></p></td>
+<td><p><a href="../Page/히우브랑쿠.md" title="wikilink">히우브랑쿠</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><br />
 </p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/무리시_FC" title="wikilink">무리시</a></p></td>
+<td><p><a href="../Page/무리시_FC.md" title="wikilink">무리시</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/무리시" title="wikilink">무리시</a></p></td>
 </tr>
 <tr class="even">
@@ -361,7 +361,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/타구아칭가" title="wikilink">타구아칭가</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/세일란지아_EC" title="wikilink">세일란지아</a></p></td>
+<td><p><a href="../Page/세일란지아_EC.md" title="wikilink">세일란지아</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/세일란지아" title="wikilink">세일란지아</a></p></td>
 <td></td>
 </tr>
@@ -383,7 +383,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/아라구아이나" title="wikilink">아라구아이나</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/인테르포르투_FC" title="wikilink">인테르포르투</a></p></td>
+<td><p><a href="../Page/인테르포르투_FC.md" title="wikilink">인테르포르투</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/포르투나시오나우" title="wikilink">포르투나시오나우</a></p></td>
 <td></td>
 </tr>
@@ -402,10 +402,10 @@
 <td><p><br />
 </p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/마링가_FC" title="wikilink">마링가</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/마링가" title="wikilink">마링가</a></p></td>
+<td><p><a href="../Page/마링가.md" title="wikilink">마링가</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/시아노르치_FC" title="wikilink">시아노르치</a></p></td>
+<td><p><a href="../Page/시아노르치_FC.md" title="wikilink">시아노르치</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/시아노르치" title="wikilink">시아노르치</a></p></td>
 <td></td>
 </tr>
@@ -417,11 +417,11 @@
 <tr class="odd">
 <td><p><br />
 </p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/캄피넨시_클루비" title="wikilink">캄피넨시</a></p></td>
+<td><p><a href="../Page/캄피넨시_클루비.md" title="wikilink">캄피넨시</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/캄피나그란지" title="wikilink">캄피나그란지</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/트레지_FC" title="wikilink">트레지</a></p></td>
+<td><p><a href="../Page/트레지_FC.md" title="wikilink">트레지</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/캄피나그란지" title="wikilink">캄피나그란지</a></p></td>
 <td></td>
 </tr>
@@ -432,7 +432,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/벨루자르딩" title="wikilink">벨루자르딩</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/센트라우_SC" title="wikilink">센트라우</a></p></td>
+<td><p><a href="../Page/센트라우_SC.md" title="wikilink">센트라우</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/카루아루" title="wikilink">카루아루</a></p></td>
 <td></td>
 </tr>
@@ -445,10 +445,10 @@
 <td><p><br />
 </p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/4_지_줄류_EC" title="wikilink">4 지 줄류</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/피리피리" title="wikilink">피리피리</a></p></td>
+<td><p><a href="../Page/피리피리.md" title="wikilink">피리피리</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/AA_아우투스" title="wikilink">아우투스</a></p></td>
+<td><p><a href="../Page/AA_아우투스.md" title="wikilink">아우투스</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/아우투스" title="wikilink">아우투스</a></p></td>
 <td></td>
 </tr>
@@ -459,7 +459,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/보아비스타_(호라이마주)" title="wikilink">보아비스타</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/상하이문두_EC_(호라이마주)" title="wikilink">상하이문두-RR</a></p></td>
+<td><p><a href="../Page/상하이문두_EC_(호라이마주).md" title="wikilink">상하이문두-RR</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/보아비스타_(호라이마주)" title="wikilink">보아비스타</a></p></td>
 <td></td>
 </tr>
@@ -478,7 +478,7 @@
 <td><p><br />
 </p></td>
 <td><p><a href="../Page/아메리카_FC_(히우그란지두노르치주).md" title="wikilink">아메리카 지 나타우</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/나타우" title="wikilink">나타우</a></p></td>
+<td><p><a href="../Page/나타우.md" title="wikilink">나타우</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/아소시아상_스포르치바_소시에다지_우니다" title="wikilink">ASSU</a></p></td>
@@ -488,17 +488,17 @@
 <tr class="even">
 <td><p><br />
 </p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/EC_노부암부르구" title="wikilink">노부암부르구</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/노부암부르구" title="wikilink">노부암부르구</a></p></td>
+<td><p><a href="../Page/EC_노부암부르구.md" title="wikilink">노부암부르구</a></p></td>
+<td><p><a href="../Page/노부암부르구.md" title="wikilink">노부암부르구</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/EC_상조제" title="wikilink">상조제</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/포르투알레그리" title="wikilink">포르투알레그리</a></p></td>
+<td><p><a href="../Page/EC_상조제.md" title="wikilink">상조제</a></p></td>
+<td><p><a href="../Page/포르투알레그리.md" title="wikilink">포르투알레그리</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/SER_카시아스두술" title="wikilink">카시아스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/카시아스두술" title="wikilink">카시아스두술</a></p></td>
+<td><p><a href="../Page/카시아스두술.md" title="wikilink">카시아스두술</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -511,9 +511,9 @@
 
 ## 같이 보기
 
-  - [브라질 축구 리그 시스템](https://ko.wikipedia.org/wiki/브라질_축구_리그_시스템 "wikilink")
+  - [브라질 축구 리그 시스템](../Page/브라질_축구_리그_시스템.md "wikilink")
   - [캄페오나투 브라질레이루 세리이 A](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A "wikilink")
-  - [캄페오나투 브라질레이루 세리이 B](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_B "wikilink")
+  - [캄페오나투 브라질레이루 세리이 B](../Page/캄페오나투_브라질레이루_세리이_B.md "wikilink")
   - [캄페오나투 브라질레이루 세리이 C](../Page/캄페오나투_브라질레이루_세리이_C.md "wikilink")
 
 ## 각주

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Modprobe](https://ko.wikipedia.org/wiki/Modprobe).
 
 
-**`modprobe`** 는 [리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink") 프로그램으로서 [적재 가능 커널 모듈](../Page/적재_가능_커널_모듈.md "wikilink")(LKM)을 [리눅스 커널에](https://ko.wikipedia.org/wiki/리눅스_커널 "wikilink") 추가하거나 커널로부터 제거하는데 사용된다. 이것은 일반적으로 간접적으로 사용된다: udev는 자동적으로 탐지된 하드웨어를 위한 드라이버를 로드하기 위해 modprobe에 의존한다.
+**`modprobe`** 는 [리눅스](../Page/리눅스.md "wikilink") 프로그램으로서 [적재 가능 커널 모듈](../Page/적재_가능_커널_모듈.md "wikilink")(LKM)을 [리눅스 커널에](../Page/리눅스_커널.md "wikilink") 추가하거나 커널로부터 제거하는데 사용된다. 이것은 일반적으로 간접적으로 사용된다: udev는 자동적으로 탐지된 하드웨어를 위한 드라이버를 로드하기 위해 modprobe에 의존한다.
 
 2014년 부터 modprobe는 소프트웨어 패키지 "kmod"의 한 부분으로 배포된다.\[1\] 이것은 이전에 다음과 같이 개발되었다:
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TBC \( \)](https://ko.wikipedia.org/wiki/TBC_\(_\)).
 
 
-**TBC**는 [대구](https://ko.wikipedia.org/wiki/대구광역시 "wikilink")·[경북](https://ko.wikipedia.org/wiki/경상북도 "wikilink") 전 지역을 가시청권으로 하는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") [SBS의](https://ko.wikipedia.org/wiki/SBS_\(대한민국의_방송사\) "wikilink") [민영 방송국이다](https://ko.wikipedia.org/wiki/민영_방송 "wikilink"). 개국 당시에는 **대구방송**(大邱放送, 약칭 **TBC**)으로 개국하였다.
+**TBC**는 [대구](../Page/대구광역시.md "wikilink")·[경북](https://ko.wikipedia.org/wiki/경상북도 "wikilink") 전 지역을 가시청권으로 하는 [대한민국](../Page/대한민국.md "wikilink") [SBS의](../Page/SBS_\(대한민국의_방송사\).md "wikilink") [민영 방송국이다](../Page/민영_방송.md "wikilink"). 개국 당시에는 **대구방송**(大邱放送, 약칭 **TBC**)으로 개국하였다.
 
 ## 슬로건
 
@@ -10,11 +10,11 @@
 
 ## 개요
 
-[1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [5월 14일에](https://ko.wikipedia.org/wiki/5월_14일 "wikilink") PSB 부산방송 (현 [KNN](https://ko.wikipedia.org/wiki/KNN "wikilink")), TJB [대전방송](https://ko.wikipedia.org/wiki/대전방송 "wikilink"), kbc [광주방송](https://ko.wikipedia.org/wiki/광주방송 "wikilink")과 함께 대구·경북권 지역 [민영방송](https://ko.wikipedia.org/wiki/민영방송 "wikilink")사 **대구방송**(大邱放送, <small>약칭</small> **TBC**)으로 개국하였다. TBC는 SBS와 제휴하여 네트워크 프로그램 (SBS 제작)을 69%를 편성하고, 자체적으로 31%를 제작방송하고 있다. SBS와는 법인간 소유 관계는 전혀 없으며 프로그램의 제휴만 관계가 있지만, [1980년](https://ko.wikipedia.org/wiki/1980년 "wikilink") 11월 초, 언론 통폐합으로 인해 [KBS에](https://ko.wikipedia.org/wiki/한국방송공사 "wikilink") 인수 합병된, 수도권 및 동남권 (부산·경남권) 지역의 지상파 민영 방송이었던 TBC [동양방송](https://ko.wikipedia.org/wiki/동양방송 "wikilink")과는 전혀 관련이 없다.
+[1995년](../Page/1995년.md "wikilink") [5월 14일에](../Page/5월_14일.md "wikilink") PSB 부산방송 (현 [KNN](../Page/KNN.md "wikilink")), TJB [대전방송](../Page/대전방송.md "wikilink"), kbc [광주방송](../Page/광주방송.md "wikilink")과 함께 대구·경북권 지역 [민영방송](https://ko.wikipedia.org/wiki/민영방송 "wikilink")사 **대구방송**(大邱放送, <small>약칭</small> **TBC**)으로 개국하였다. TBC는 SBS와 제휴하여 네트워크 프로그램 (SBS 제작)을 69%를 편성하고, 자체적으로 31%를 제작방송하고 있다. SBS와는 법인간 소유 관계는 전혀 없으며 프로그램의 제휴만 관계가 있지만, [1980년](../Page/1980년.md "wikilink") 11월 초, 언론 통폐합으로 인해 [KBS에](../Page/한국방송공사.md "wikilink") 인수 합병된, 수도권 및 동남권 (부산·경남권) 지역의 지상파 민영 방송이었던 TBC [동양방송](../Page/동양방송.md "wikilink")과는 전혀 관련이 없다.
 
-대구.경북권 지역민방인 TBC 대구방송은 1차 허가 지역민방인 PSB 부산방송 (현 [KNN](https://ko.wikipedia.org/wiki/KNN "wikilink")), TJB 대전방송, kbc 광주방송과 2차 지역민방인 ubc 울산방송, JTV 전주방송, CJB 청주방송 그리고 3차 지역민방인 GTB 강원민방 (현 [G1](https://ko.wikipedia.org/wiki/G1 "wikilink")), JIBS 제주국제자유도시방송과 더불어 SBS와 함께 전국 10개 민영방송사와 공동편성, 협력 관계를 유지하고 있다. 이들 지역 민방들 간에는 배타적인 방송허가구역 획정으로 시장에서의 경쟁관계는 없으며 단지 협력적 모델을 수립하여 상호 협조하고 있다. TBC는 [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") 12월 시청 권역 광역화를 완성하여 [대구광역시](https://ko.wikipedia.org/wiki/대구광역시 "wikilink")와 [경상북도](https://ko.wikipedia.org/wiki/경상북도 "wikilink") 전체를 아우르는 가시청권역을 확보하였다.
+대구.경북권 지역민방인 TBC 대구방송은 1차 허가 지역민방인 PSB 부산방송 (현 [KNN](../Page/KNN.md "wikilink")), TJB 대전방송, kbc 광주방송과 2차 지역민방인 ubc 울산방송, JTV 전주방송, CJB 청주방송 그리고 3차 지역민방인 GTB 강원민방 (현 [G1](../Page/G1.md "wikilink")), JIBS 제주국제자유도시방송과 더불어 SBS와 함께 전국 10개 민영방송사와 공동편성, 협력 관계를 유지하고 있다. 이들 지역 민방들 간에는 배타적인 방송허가구역 획정으로 시장에서의 경쟁관계는 없으며 단지 협력적 모델을 수립하여 상호 협조하고 있다. TBC는 [2000년](../Page/2000년.md "wikilink") 12월 시청 권역 광역화를 완성하여 [대구광역시](../Page/대구광역시.md "wikilink")와 [경상북도](https://ko.wikipedia.org/wiki/경상북도 "wikilink") 전체를 아우르는 가시청권역을 확보하였다.
 
-[2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [11월 29일](https://ko.wikipedia.org/wiki/11월_29일 "wikilink") [코스닥](https://ko.wikipedia.org/wiki/코스닥 "wikilink")에 상장되었으며, [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink")에 창사 16주년을 맞아 [HD급](https://ko.wikipedia.org/wiki/고선명_텔레비전 "wikilink") 화질로 프로그램을 제작, 방송을 시작하였다. 2015년에 창사 20주년을 맞이했다.\[1\] [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [5월 14일에](https://ko.wikipedia.org/wiki/5월_14일 "wikilink") 사명을 **TBC**로 변경하였다.\[2\]
+[2010년](../Page/2010년.md "wikilink") [11월 29일](../Page/11월_29일.md "wikilink") [코스닥](../Page/코스닥.md "wikilink")에 상장되었으며, [2011년](../Page/2011년.md "wikilink")에 창사 16주년을 맞아 [HD급](../Page/고선명_텔레비전.md "wikilink") 화질로 프로그램을 제작, 방송을 시작하였다. 2015년에 창사 20주년을 맞이했다.\[1\] [2015년](../Page/2015년.md "wikilink") [5월 14일에](../Page/5월_14일.md "wikilink") 사명을 **TBC**로 변경하였다.\[2\]
 
 ### 본사·지사 소재지
 
@@ -22,7 +22,7 @@
 
 <!-- end list -->
 
-  - [대구광역시](https://ko.wikipedia.org/wiki/대구광역시 "wikilink") [수성구](https://ko.wikipedia.org/wiki/수성구 "wikilink") [동대구로](https://ko.wikipedia.org/wiki/동대구로 "wikilink") 23
+  - [대구광역시](../Page/대구광역시.md "wikilink") [수성구](../Page/수성구.md "wikilink") [동대구로](../Page/동대구로.md "wikilink") 23
 
 <!-- end list -->
 
@@ -30,7 +30,7 @@
 
 <!-- end list -->
 
-  - [서울특별시](https://ko.wikipedia.org/wiki/서울특별시 "wikilink") [강서구](https://ko.wikipedia.org/wiki/강서구_\(서울특별시\) "wikilink") 공항대로 396 ㈜귀뚜라미빌딩 TBC서울방송센터
+  - [서울특별시](../Page/서울특별시.md "wikilink") [강서구](https://ko.wikipedia.org/wiki/강서구_\(서울특별시\) "wikilink") 공항대로 396 ㈜귀뚜라미빌딩 TBC서울방송센터
 
 <!-- end list -->
 
@@ -38,7 +38,7 @@
 
 <!-- end list -->
 
-  - [경상북도](https://ko.wikipedia.org/wiki/경상북도 "wikilink") [포항시](https://ko.wikipedia.org/wiki/포항시 "wikilink") [남구](https://ko.wikipedia.org/wiki/남구_\(포항시\) "wikilink") 포스코대로 329 [대구은행](https://ko.wikipedia.org/wiki/대구은행 "wikilink") TBC동부방송센터
+  - [경상북도](https://ko.wikipedia.org/wiki/경상북도 "wikilink") [포항시](https://ko.wikipedia.org/wiki/포항시 "wikilink") [남구](../Page/남구_\(포항시\).md "wikilink") 포스코대로 329 [대구은행](../Page/대구은행.md "wikilink") TBC동부방송센터
 
 <!-- end list -->
 
@@ -51,7 +51,7 @@
 ### 매출과 손익
 
   - 2006년도 기준 TBC의 매출액은 395억원, 매출원가는 230억, 판매비와 일반관리비가 110억이었다. 이에 영업이익은 54억원의 흑자가 발생하였으며, 경상이익은 126억원이 발생하였고, 법인세등을 제외한 당기순이익은 89억의 흑자를 기록하였다.
-  - TBC의 매출액 규모는 395억원으로 지역민방 매출액의 16%정도를 점하고 있어, [KNN](https://ko.wikipedia.org/wiki/KNN "wikilink") (구 PSB 부산방송)에 이어 두 번째로 높은 수치이며, 영업이익은 [KNN](https://ko.wikipedia.org/wiki/KNN "wikilink") (구 PSB 부산방송), TJB [대전방송](https://ko.wikipedia.org/wiki/대전방송 "wikilink"), kbc [광주방송](https://ko.wikipedia.org/wiki/광주방송 "wikilink")에 이어 세 번째로 많다. 당기순이익은 89억원으로 지역민방 전체의 23%를 차지하며, 최근 7년간 15.2%의 증가 추세를 보이고 있다.\[3\]
+  - TBC의 매출액 규모는 395억원으로 지역민방 매출액의 16%정도를 점하고 있어, [KNN](../Page/KNN.md "wikilink") (구 PSB 부산방송)에 이어 두 번째로 높은 수치이며, 영업이익은 [KNN](../Page/KNN.md "wikilink") (구 PSB 부산방송), TJB [대전방송](../Page/대전방송.md "wikilink"), kbc [광주방송](../Page/광주방송.md "wikilink")에 이어 세 번째로 많다. 당기순이익은 89억원으로 지역민방 전체의 23%를 차지하며, 최근 7년간 15.2%의 증가 추세를 보이고 있다.\[3\]
 
 #### 부문별 매출비율
 
@@ -68,10 +68,10 @@
 ### 해외 방송국 제휴 현황
 
   - 미국 - [KCOP-TV](https://ko.wikipedia.org/wiki/KCOP-TV "wikilink")
-  - 일본 - [히로시마 홈 TV](https://ko.wikipedia.org/wiki/히로시마_홈_TV "wikilink") ()
+  - 일본 - [히로시마 홈 TV](../Page/히로시마_홈_TV.md "wikilink") ()
   - 중국 - [션양방송](https://ko.wikipedia.org/wiki/션양방송 "wikilink") ()
 
-※ 일본의 [TV 아사히와](https://ko.wikipedia.org/wiki/TV_아사히 "wikilink") 제휴한 적이 있으나 히로시마 홈 TV와의 제휴로 인해 파기 되었다.
+※ 일본의 [TV 아사히와](../Page/TV_아사히.md "wikilink") 제휴한 적이 있으나 히로시마 홈 TV와의 제휴로 인해 파기 되었다.
 
 ### 로고송 변천 과정
 
@@ -106,61 +106,61 @@
 
 ### 1990년대
 
-  - [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") [8월 10일](https://ko.wikipedia.org/wiki/8월_10일 "wikilink") 대구·경북 지역 민영방송 사업자로 (주)대구방송 선정, 운영주체 (주)청구 로 확정됨, 청구대구사옥 자리를 대구방송이 방송국사옥으로 사용하기로 확정됨, 회장에 장수홍 청구그룹 회장 겸직 하여 취임함, (주)청구가 지배주주로 있고 장수홍 회장을 필두로 운영진 및 임원 결성.
-  - [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") [9월 9일](https://ko.wikipedia.org/wiki/9월_9일 "wikilink") 창립 총회 개최 (43개 주주사)
-  - [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") [10월 7일](https://ko.wikipedia.org/wiki/10월_7일 "wikilink") TBC 대구방송 창립
-  - [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") [10월 21일](https://ko.wikipedia.org/wiki/10월_21일 "wikilink") TBC 두산동 사옥 완공 (지하 1층, 지상 8층, 연건평 3,600평)
-  - [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") [12월 19일](https://ko.wikipedia.org/wiki/12월_19일 "wikilink") 정보통신부로부터 가허가 취득 (채널: UHF 19, 출력: 30㎾, 호출부호: HLDE-TV)
-  - [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [3월 26일](https://ko.wikipedia.org/wiki/3월_26일 "wikilink") [팔공산](https://ko.wikipedia.org/wiki/팔공산 "wikilink") 송신소 완공
-  - [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [3월 27일](https://ko.wikipedia.org/wiki/3월_27일 "wikilink") 시험 방송 실시
-  - [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [3월 31일](https://ko.wikipedia.org/wiki/3월_31일 "wikilink") 일본 TV 아사히와 제휴 협정 체결
-  - [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [4월 4일](https://ko.wikipedia.org/wiki/4월_4일 "wikilink") [SBS와](https://ko.wikipedia.org/wiki/SBS_\(대한민국의_방송사\) "wikilink") 기본 협정 체결하여 방송 네트워크 체결, 2년 간 SBS 프로그램 공급료 면제 하기로 결정함. 4대 민방 (부산, 대구, 대전, 광주) 공동으로 편성하는 프로그램은 2년 간 무료로 공급하게 되었다.
-  - [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [5월 10일](https://ko.wikipedia.org/wiki/5월_10일 "wikilink") [SBS와](https://ko.wikipedia.org/wiki/SBS_\(대한민국의_방송사\) "wikilink") 세부 협정 매듭하여 세부 협정 마무리로 개국하기 전에 최종적을 SBS와 프로그램 제휴 협정 마무리 하여 방송 네트워크 체결\[4\]
-  - [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [5월 12일](https://ko.wikipedia.org/wiki/5월_12일 "wikilink") 미국 LA K-COP 방송국과 제휴 협정 체결
-  - [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [5월 12일](https://ko.wikipedia.org/wiki/5월_12일 "wikilink") 4개지역 간이 중계소 설치 허가 (앞산·파동·구지·구미)
-  - [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [5월 12일](https://ko.wikipedia.org/wiki/5월_12일 "wikilink") 앞산·파동·구지 중계소(TVR) 개소
-  - [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [5월 14일](https://ko.wikipedia.org/wiki/5월_14일 "wikilink") 텔레비전 방송 개국
-  - [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [5월 30일](https://ko.wikipedia.org/wiki/5월_30일 "wikilink") TBC 서울지사 개소
-  - [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") <한국 민영 TV방송 협의회> 창립
-  - [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") [9월 12일](https://ko.wikipedia.org/wiki/9월_12일 "wikilink") 중부취재본부 개소(구미)
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [5월 2일](https://ko.wikipedia.org/wiki/5월_2일 "wikilink") 일본 TV 아사히 계열 방송국 [히로시마 홈TV와](https://ko.wikipedia.org/wiki/히로시마_홈TV "wikilink") 제휴 협정 체결
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [12월 1일](https://ko.wikipedia.org/wiki/12월_1일 "wikilink") TBC 드림 FM 개국 (주파수: 99.3㎒)
-  - [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [12월 1일](https://ko.wikipedia.org/wiki/12월_1일 "wikilink") 1차 TV 방송 권역 광역화 (안동·포항·경주·울진 중계소 개소)
+  - [1994년](../Page/1994년.md "wikilink") [8월 10일](../Page/8월_10일.md "wikilink") 대구·경북 지역 민영방송 사업자로 (주)대구방송 선정, 운영주체 (주)청구 로 확정됨, 청구대구사옥 자리를 대구방송이 방송국사옥으로 사용하기로 확정됨, 회장에 장수홍 청구그룹 회장 겸직 하여 취임함, (주)청구가 지배주주로 있고 장수홍 회장을 필두로 운영진 및 임원 결성.
+  - [1994년](../Page/1994년.md "wikilink") [9월 9일](../Page/9월_9일.md "wikilink") 창립 총회 개최 (43개 주주사)
+  - [1994년](../Page/1994년.md "wikilink") [10월 7일](../Page/10월_7일.md "wikilink") TBC 대구방송 창립
+  - [1994년](../Page/1994년.md "wikilink") [10월 21일](../Page/10월_21일.md "wikilink") TBC 두산동 사옥 완공 (지하 1층, 지상 8층, 연건평 3,600평)
+  - [1994년](../Page/1994년.md "wikilink") [12월 19일](../Page/12월_19일.md "wikilink") 정보통신부로부터 가허가 취득 (채널: UHF 19, 출력: 30㎾, 호출부호: HLDE-TV)
+  - [1995년](../Page/1995년.md "wikilink") [3월 26일](../Page/3월_26일.md "wikilink") [팔공산](../Page/팔공산.md "wikilink") 송신소 완공
+  - [1995년](../Page/1995년.md "wikilink") [3월 27일](../Page/3월_27일.md "wikilink") 시험 방송 실시
+  - [1995년](../Page/1995년.md "wikilink") [3월 31일](../Page/3월_31일.md "wikilink") 일본 TV 아사히와 제휴 협정 체결
+  - [1995년](../Page/1995년.md "wikilink") [4월 4일](../Page/4월_4일.md "wikilink") [SBS와](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 기본 협정 체결하여 방송 네트워크 체결, 2년 간 SBS 프로그램 공급료 면제 하기로 결정함. 4대 민방 (부산, 대구, 대전, 광주) 공동으로 편성하는 프로그램은 2년 간 무료로 공급하게 되었다.
+  - [1995년](../Page/1995년.md "wikilink") [5월 10일](../Page/5월_10일.md "wikilink") [SBS와](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 세부 협정 매듭하여 세부 협정 마무리로 개국하기 전에 최종적을 SBS와 프로그램 제휴 협정 마무리 하여 방송 네트워크 체결\[4\]
+  - [1995년](../Page/1995년.md "wikilink") [5월 12일](../Page/5월_12일.md "wikilink") 미국 LA K-COP 방송국과 제휴 협정 체결
+  - [1995년](../Page/1995년.md "wikilink") [5월 12일](../Page/5월_12일.md "wikilink") 4개지역 간이 중계소 설치 허가 (앞산·파동·구지·구미)
+  - [1995년](../Page/1995년.md "wikilink") [5월 12일](../Page/5월_12일.md "wikilink") 앞산·파동·구지 중계소(TVR) 개소
+  - [1995년](../Page/1995년.md "wikilink") [5월 14일](../Page/5월_14일.md "wikilink") 텔레비전 방송 개국
+  - [1995년](../Page/1995년.md "wikilink") [5월 30일](../Page/5월_30일.md "wikilink") TBC 서울지사 개소
+  - [1996년](../Page/1996년.md "wikilink") [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") <한국 민영 TV방송 협의회> 창립
+  - [1996년](../Page/1996년.md "wikilink") [9월 12일](../Page/9월_12일.md "wikilink") 중부취재본부 개소(구미)
+  - [1997년](../Page/1997년.md "wikilink") [5월 2일](../Page/5월_2일.md "wikilink") 일본 TV 아사히 계열 방송국 [히로시마 홈TV와](https://ko.wikipedia.org/wiki/히로시마_홈TV "wikilink") 제휴 협정 체결
+  - [1997년](../Page/1997년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") TBC 드림 FM 개국 (주파수: 99.3㎒)
+  - [1999년](../Page/1999년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") 1차 TV 방송 권역 광역화 (안동·포항·경주·울진 중계소 개소)
 
 ### 2000년대
 
-  - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [12월 1일](https://ko.wikipedia.org/wiki/12월_1일 "wikilink") 2차 TV 방송 권역 광역화 (상주·영양 중계소 개소) → TV 광역화 완성
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [3월 1일](https://ko.wikipedia.org/wiki/3월_1일 "wikilink") 포항 FM 중계소 개소 (주파수: 99.7㎒)
-  - [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [6월 14일](https://ko.wikipedia.org/wiki/6월_14일 "wikilink") 일본 TV 아사히 계열 방송국 [히로시마 홈TV와](https://ko.wikipedia.org/wiki/히로시마_홈TV "wikilink") 업무 협정 체결
-  - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [5월 21일](https://ko.wikipedia.org/wiki/5월_21일 "wikilink") 중부 취재 본부 (구미) 개소
-  - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [8월 21일](https://ko.wikipedia.org/wiki/8월_21일 "wikilink") TBC 디지털 방송 개국
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [10월 27일](https://ko.wikipedia.org/wiki/10월_27일 "wikilink") 포항 조항산 D-TV 중계소 신축 준공식
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [12월 22일](https://ko.wikipedia.org/wiki/12월_22일 "wikilink") TBC 학가산 디지털 TV 중계소 개국, 대구·경북 전역에 디지털 방송 시작
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [12월 27일](https://ko.wikipedia.org/wiki/12월_27일 "wikilink") TBC 대구 경북 권역 DMB (지상파 이동 멀티미디어 방송) 사업자로 선정
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [9월 28일](https://ko.wikipedia.org/wiki/9월_28일 "wikilink") TBC 지상파 [DMB](https://ko.wikipedia.org/wiki/디지털_멀티미디어_방송 "wikilink") 시험 방송 실시
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [6월 30일](https://ko.wikipedia.org/wiki/6월_30일 "wikilink") TBC DMB 본방송 실시
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [12월 1일](https://ko.wikipedia.org/wiki/12월_1일 "wikilink") 안동 FM 중계소 개소(주파수: 106.5㎒)
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [1월 1일](https://ko.wikipedia.org/wiki/1월_1일 "wikilink") TBC CI 변경([2008년 12월 31일 까지의 로고는 영문판 참고](http://i.imgur.com/vCXRaSG.png))
+  - [2000년](../Page/2000년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") 2차 TV 방송 권역 광역화 (상주·영양 중계소 개소) → TV 광역화 완성
+  - [2001년](../Page/2001년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") 포항 FM 중계소 개소 (주파수: 99.7㎒)
+  - [2002년](../Page/2002년.md "wikilink") [6월 14일](../Page/6월_14일.md "wikilink") 일본 TV 아사히 계열 방송국 [히로시마 홈TV와](https://ko.wikipedia.org/wiki/히로시마_홈TV "wikilink") 업무 협정 체결
+  - [2003년](../Page/2003년.md "wikilink") [5월 21일](../Page/5월_21일.md "wikilink") 중부 취재 본부 (구미) 개소
+  - [2003년](../Page/2003년.md "wikilink") [8월 21일](../Page/8월_21일.md "wikilink") TBC 디지털 방송 개국
+  - [2005년](../Page/2005년.md "wikilink") [10월 27일](../Page/10월_27일.md "wikilink") 포항 조항산 D-TV 중계소 신축 준공식
+  - [2005년](../Page/2005년.md "wikilink") [12월 22일](../Page/12월_22일.md "wikilink") TBC 학가산 디지털 TV 중계소 개국, 대구·경북 전역에 디지털 방송 시작
+  - [2006년](../Page/2006년.md "wikilink") [12월 27일](../Page/12월_27일.md "wikilink") TBC 대구 경북 권역 DMB (지상파 이동 멀티미디어 방송) 사업자로 선정
+  - [2007년](../Page/2007년.md "wikilink") [9월 28일](../Page/9월_28일.md "wikilink") TBC 지상파 [DMB](../Page/디지털_멀티미디어_방송.md "wikilink") 시험 방송 실시
+  - [2008년](../Page/2008년.md "wikilink") [6월 30일](../Page/6월_30일.md "wikilink") TBC DMB 본방송 실시
+  - [2008년](../Page/2008년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") 안동 FM 중계소 개소(주파수: 106.5㎒)
+  - [2009년](../Page/2009년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") TBC CI 변경([2008년 12월 31일 까지의 로고는 영문판 참고](http://i.imgur.com/vCXRaSG.png))
 
 ### 2010년대
 
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [9월 1일](https://ko.wikipedia.org/wiki/9월_1일 "wikilink") [울진군](https://ko.wikipedia.org/wiki/울진군 "wikilink") 지상파 아날로그 TV 방송 종료
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [1월 1일](https://ko.wikipedia.org/wiki/1월_1일 "wikilink") (주)티비시엔비 출범 및 신사업 개시
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [11월 29일](https://ko.wikipedia.org/wiki/11월_29일 "wikilink") [코스닥](https://ko.wikipedia.org/wiki/코스닥 "wikilink") 상장
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [5월 16일](https://ko.wikipedia.org/wiki/5월_16일 "wikilink") [HD](https://ko.wikipedia.org/wiki/HD "wikilink") 방송 시작. 디지털 부조정실 완공.
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [10월 17일](https://ko.wikipedia.org/wiki/10월_17일 "wikilink") 디지털 종합 편집실 완공
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [10월 17일](https://ko.wikipedia.org/wiki/10월_17일 "wikilink") 디지털 방송 송신 시설 구축 완료
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [11월 6일](https://ko.wikipedia.org/wiki/11월_6일 "wikilink") 지상파 아날로그 TV 방송 종료
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [2월 25일](https://ko.wikipedia.org/wiki/2월_25일 "wikilink") 서울방송센터 개소
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [3월 17일](https://ko.wikipedia.org/wiki/3월_17일 "wikilink") [최진민](https://ko.wikipedia.org/wiki/최진민 "wikilink") 대표이사 사장 퇴임
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [3월 18일](https://ko.wikipedia.org/wiki/3월_18일 "wikilink") [김정길](https://ko.wikipedia.org/wiki/김정길 "wikilink") 대표이사 사장 취임
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [7월 17일](https://ko.wikipedia.org/wiki/7월_17일 "wikilink") 대구·경북지역 디지털 주파수 재배치 완료
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [11월 4일](https://ko.wikipedia.org/wiki/11월_4일 "wikilink") TBC 동부방송센터([포항시](https://ko.wikipedia.org/wiki/포항시 "wikilink"), [영덕군](https://ko.wikipedia.org/wiki/영덕군 "wikilink"), [울진군](https://ko.wikipedia.org/wiki/울진군 "wikilink"), [울릉군](https://ko.wikipedia.org/wiki/울릉군 "wikilink")) 개소
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [5월 10일](https://ko.wikipedia.org/wiki/5월_10일 "wikilink") 성서 FM 중계소 개소(주파수: 106.5㎒)
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [5월 14일](https://ko.wikipedia.org/wiki/5월_14일 "wikilink") 사명을 TBC 대구방송에서 (주)TBC(티비씨)로 사명 변경.
-  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [1월 4일](https://ko.wikipedia.org/wiki/1월_4일 "wikilink") 경북본부 개소
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [12월 29일](https://ko.wikipedia.org/wiki/12월_29일 "wikilink") TBC UHD 방송 개국.
-  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [6월 27일](https://ko.wikipedia.org/wiki/6월_27일 "wikilink") 고령군 TBC UHD 방송 개시 및 달성군 TBC UHD 방송 개시.
+  - [2010년](../Page/2010년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink") [울진군](../Page/울진군.md "wikilink") 지상파 아날로그 TV 방송 종료
+  - [2010년](../Page/2010년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") (주)티비시엔비 출범 및 신사업 개시
+  - [2010년](../Page/2010년.md "wikilink") [11월 29일](../Page/11월_29일.md "wikilink") [코스닥](../Page/코스닥.md "wikilink") 상장
+  - [2011년](../Page/2011년.md "wikilink") [5월 16일](../Page/5월_16일.md "wikilink") [HD](https://ko.wikipedia.org/wiki/HD "wikilink") 방송 시작. 디지털 부조정실 완공.
+  - [2011년](../Page/2011년.md "wikilink") [10월 17일](../Page/10월_17일.md "wikilink") 디지털 종합 편집실 완공
+  - [2012년](../Page/2012년.md "wikilink") [10월 17일](../Page/10월_17일.md "wikilink") 디지털 방송 송신 시설 구축 완료
+  - [2012년](../Page/2012년.md "wikilink") [11월 6일](../Page/11월_6일.md "wikilink") 지상파 아날로그 TV 방송 종료
+  - [2013년](../Page/2013년.md "wikilink") [2월 25일](../Page/2월_25일.md "wikilink") 서울방송센터 개소
+  - [2013년](../Page/2013년.md "wikilink") [3월 17일](../Page/3월_17일.md "wikilink") [최진민](https://ko.wikipedia.org/wiki/최진민 "wikilink") 대표이사 사장 퇴임
+  - [2013년](../Page/2013년.md "wikilink") [3월 18일](../Page/3월_18일.md "wikilink") [김정길](../Page/김정길.md "wikilink") 대표이사 사장 취임
+  - [2013년](../Page/2013년.md "wikilink") [7월 17일](../Page/7월_17일.md "wikilink") 대구·경북지역 디지털 주파수 재배치 완료
+  - [2013년](../Page/2013년.md "wikilink") [11월 4일](../Page/11월_4일.md "wikilink") TBC 동부방송센터([포항시](https://ko.wikipedia.org/wiki/포항시 "wikilink"), [영덕군](../Page/영덕군.md "wikilink"), [울진군](../Page/울진군.md "wikilink"), [울릉군](../Page/울릉군.md "wikilink")) 개소
+  - [2015년](../Page/2015년.md "wikilink") [5월 10일](../Page/5월_10일.md "wikilink") 성서 FM 중계소 개소(주파수: 106.5㎒)
+  - [2015년](../Page/2015년.md "wikilink") [5월 14일](../Page/5월_14일.md "wikilink") 사명을 TBC 대구방송에서 (주)TBC(티비씨)로 사명 변경.
+  - [2016년](../Page/2016년.md "wikilink") [1월 4일](../Page/1월_4일.md "wikilink") 경북본부 개소
+  - [2017년](../Page/2017년.md "wikilink") [12월 29일](../Page/12월_29일.md "wikilink") TBC UHD 방송 개국.
+  - [2018년](../Page/2018년.md "wikilink") [6월 27일](../Page/6월_27일.md "wikilink") 고령군 TBC UHD 방송 개시 및 달성군 TBC UHD 방송 개시.
 
 ## TV 방송
 
@@ -226,15 +226,15 @@
 #### 문화생활
 
   - [고택음악회 시즌5 <울림>](http://www.tbc.co.kr/tbc_tv/goconcert/tv_goconcert.html)
-  - [네트워크 현장\! 고향이 보인다](https://ko.wikipedia.org/wiki/네트워크_현장!_고향이_보인다 "wikilink")([SBS](https://ko.wikipedia.org/wiki/SBS_TV "wikilink"))(김도휘, 장진영 아나운서)
-  - 네모세모 ([TJB](https://ko.wikipedia.org/wiki/대전방송 "wikilink"))
-  - 화첩기행 ([TJB](https://ko.wikipedia.org/wiki/대전방송 "wikilink"))
-  - 토크콘서트 화통 ([kbc](https://ko.wikipedia.org/wiki/광주방송 "wikilink"))
+  - [네트워크 현장\! 고향이 보인다](../Page/네트워크_현장!_고향이_보인다.md "wikilink")([SBS](../Page/SBS_TV.md "wikilink"))(김도휘, 장진영 아나운서)
+  - 네모세모 ([TJB](../Page/대전방송.md "wikilink"))
+  - 화첩기행 ([TJB](../Page/대전방송.md "wikilink"))
+  - 토크콘서트 화통 ([kbc](../Page/광주방송.md "wikilink"))
   - 최강 1교시 ([KNN TV](https://ko.wikipedia.org/wiki/KNN_TV "wikilink"))
 
 #### 연예오락
 
-  - [전국 톱 10 가요 쇼](https://ko.wikipedia.org/wiki/전국_톱_10_가요_쇼 "wikilink") ([전주방송](https://ko.wikipedia.org/wiki/전주방송 "wikilink"))
+  - [전국 톱 10 가요 쇼](../Page/전국_톱_10_가요_쇼.md "wikilink") ([전주방송](../Page/전주방송.md "wikilink"))
   - K트롯 서바이벌 골든마이크 ([KNN TV](https://ko.wikipedia.org/wiki/KNN_TV "wikilink"))
   - [손자랑 손녀랑 랑랑콘서트](http://www.tbc.co.kr/tbc_tv/rangrang/tv_rang15.html)
   - [청춘버스킹](http://www.tbc.co.kr/tbc_tv/theme/tv_busking.html)
@@ -298,24 +298,24 @@
 
 ## 라디오 방송
 
-[SBS와](https://ko.wikipedia.org/wiki/SBS_\(대한민국의_방송사\) "wikilink") 라디오방송에 관한 업무제휴 협정을 맺고 [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [12월 1일](https://ko.wikipedia.org/wiki/12월_1일 "wikilink") **TBC Dream FM**을 개국하였다. 이후 조항산(2001년), 학가산(2008년), 와룡산(2015년)에 중계시설을 설치함에 따라 대구경북 대부분 지역을 방송권역으로 삼게 되었다. FM라디오 1채널을 운영중이며 대구·경북 전 지역을 가청권역으로 하고 있다. 현재 약 66%는 SBS 파워FM 프로그램이, 나머지 34% 정도는 드림FM 자체 제작 프로그램을 방송한다.
+[SBS와](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 라디오방송에 관한 업무제휴 협정을 맺고 [1997년](../Page/1997년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") **TBC Dream FM**을 개국하였다. 이후 조항산(2001년), 학가산(2008년), 와룡산(2015년)에 중계시설을 설치함에 따라 대구경북 대부분 지역을 방송권역으로 삼게 되었다. FM라디오 1채널을 운영중이며 대구·경북 전 지역을 가청권역으로 하고 있다. 현재 약 66%는 SBS 파워FM 프로그램이, 나머지 34% 정도는 드림FM 자체 제작 프로그램을 방송한다.
 
-개국 당시에는 몇달 만 일부 프로그램에서 SBS 파워 FM 전파를 릴레이 받고 1998년 봄개편 부터 [SBS 파워FM](https://ko.wikipedia.org/wiki/SBS_파워FM "wikilink") 방송을 송출하지 않고 100% 전체 방송 시간을 모두 TBC 에서 자체 제작한 프로그램을 방송하기로 하였으나 IMF 외환위기로 인하여 경제적 어려움과 당시 TBC 운영 주체인 (주)청구그룹이 법원에 화의 신청을 하였으며 이후 법원의 권유에 따라서 법정관리 신청을 하여 (주)청구그룹이 부도위기에 직면하자 방송국 운영에 어려운 점이 있는것을 감안하여 1998년 봄 개편 이후에는 SBS와 기본협정을 끊고 라디오는 모든 프로를 TBC 자체 프로로 채운다는 100% 자체편성은 무산되었다. TBC 드림 FM 개국 당시에는 밤 늦은시간과 이른시간 일부를 제외하고 모두 TBC 자체 프로그램만 대부분 방송 되었다. 당시에는 전체 방송시간 중 70% 는 TBC 자체 프로그램이 방송되었고 나머지 30% 는 SBS에게 전파를 받아 SBS 파워 FM 프로그램이 그대로 방송되었다.
+개국 당시에는 몇달 만 일부 프로그램에서 SBS 파워 FM 전파를 릴레이 받고 1998년 봄개편 부터 [SBS 파워FM](../Page/SBS_파워FM.md "wikilink") 방송을 송출하지 않고 100% 전체 방송 시간을 모두 TBC 에서 자체 제작한 프로그램을 방송하기로 하였으나 IMF 외환위기로 인하여 경제적 어려움과 당시 TBC 운영 주체인 (주)청구그룹이 법원에 화의 신청을 하였으며 이후 법원의 권유에 따라서 법정관리 신청을 하여 (주)청구그룹이 부도위기에 직면하자 방송국 운영에 어려운 점이 있는것을 감안하여 1998년 봄 개편 이후에는 SBS와 기본협정을 끊고 라디오는 모든 프로를 TBC 자체 프로로 채운다는 100% 자체편성은 무산되었다. TBC 드림 FM 개국 당시에는 밤 늦은시간과 이른시간 일부를 제외하고 모두 TBC 자체 프로그램만 대부분 방송 되었다. 당시에는 전체 방송시간 중 70% 는 TBC 자체 프로그램이 방송되었고 나머지 30% 는 SBS에게 전파를 받아 SBS 파워 FM 프로그램이 그대로 방송되었다.
 
 ### 프로그램
 
-| 프로그램명                                                                   | 방송 시간                  | 진행자                                                          | KBS 수신 안내  |
-| ----------------------------------------------------------------------- | ---------------------- | ------------------------------------------------------------ | ---------- |
-| [드림FM 가요퍼레이드](https://ko.wikipedia.org/wiki/드림FM_가요퍼레이드 "wikilink")     | 월\~금 오전 5시\~ 6시        | 신상윤 아나운서                                                     | <TV:동시> 송출 |
-| [오늘도 써니데이](https://ko.wikipedia.org/wiki/오늘도_써니데이 "wikilink")           | 월\~금 오전 6시\~ 7시        | 김선희 아나운서                                                     | <TV:동시> 송출 |
-| [모닝클래식](https://ko.wikipedia.org/wiki/모닝클래식 "wikilink")                 | 토\~일 오전 5시\~ 6시 50분    | 조현진(성악가)                                                     | <TV:동시> 송출 |
-| 내 마음의 쉼터                                                                | 토\~일 오전 6시 50분 \~ 7시   |                                                              | <TV:동시> 송출 |
-| [뮤직갤러리](../Page/뮤직갤러리_\(TBC_드림FM\).md "wikilink")                       | 매일 오전 11시 \~ 11시 50분   | [장진영](https://ko.wikipedia.org/wiki/장진영_\(아나운서\) "wikilink") | <TV:동시> 송출 |
-| [TBC 낮 종합뉴스](https://ko.wikipedia.org/wiki/TBC_낮_종합뉴스 "wikilink")       | 매일 오전 11시 50분 \~ 낮 12시 | 이향원 앵커 (주말 무작위)                                              | <TV:동시> 송출 |
-| [달콤한 오후 이수정입니다](https://ko.wikipedia.org/wiki/달콤한_오후_이수정입니다 "wikilink") | 매일 오후 4시\~ 6시          | DJ 이수정                                                       | <TV:동시> 송출 |
-| [TBC 저녁종합뉴스](https://ko.wikipedia.org/wiki/TBC_저녁종합뉴스 "wikilink")       | 월\~금 저녁 5시 50분 \~ 6시   | 김명미 앵커                                                       | <TV:동시> 송출 |
-| [그대 창가에서](https://ko.wikipedia.org/wiki/그대_창가에서 "wikilink")             | 매일 깊은 밤 2시\~3시         | 김대진 아나운서                                                     | <TV:동시> 송출 |
-| [매직? 뮤직\!](https://ko.wikipedia.org/wiki/매직?_뮤직! "wikilink")            | 매일 밤 8시\~10시           | 아나운서                                                         | <TV:동시> 송출 |
+| 프로그램명                                                             | 방송 시간                  | 진행자                                                          | KBS 수신 안내  |
+| ----------------------------------------------------------------- | ---------------------- | ------------------------------------------------------------ | ---------- |
+| [드림FM 가요퍼레이드](../Page/드림FM_가요퍼레이드.md "wikilink")                  | 월\~금 오전 5시\~ 6시        | 신상윤 아나운서                                                     | <TV:동시> 송출 |
+| [오늘도 써니데이](https://ko.wikipedia.org/wiki/오늘도_써니데이 "wikilink")     | 월\~금 오전 6시\~ 7시        | 김선희 아나운서                                                     | <TV:동시> 송출 |
+| [모닝클래식](../Page/모닝클래식.md "wikilink")                              | 토\~일 오전 5시\~ 6시 50분    | 조현진(성악가)                                                     | <TV:동시> 송출 |
+| 내 마음의 쉼터                                                          | 토\~일 오전 6시 50분 \~ 7시   |                                                              | <TV:동시> 송출 |
+| [뮤직갤러리](../Page/뮤직갤러리_\(TBC_드림FM\).md "wikilink")                 | 매일 오전 11시 \~ 11시 50분   | [장진영](https://ko.wikipedia.org/wiki/장진영_\(아나운서\) "wikilink") | <TV:동시> 송출 |
+| [TBC 낮 종합뉴스](https://ko.wikipedia.org/wiki/TBC_낮_종합뉴스 "wikilink") | 매일 오전 11시 50분 \~ 낮 12시 | 이향원 앵커 (주말 무작위)                                              | <TV:동시> 송출 |
+| [달콤한 오후 이수정입니다](../Page/달콤한_오후_이수정입니다.md "wikilink")              | 매일 오후 4시\~ 6시          | DJ 이수정                                                       | <TV:동시> 송출 |
+| [TBC 저녁종합뉴스](https://ko.wikipedia.org/wiki/TBC_저녁종합뉴스 "wikilink") | 월\~금 저녁 5시 50분 \~ 6시   | 김명미 앵커                                                       | <TV:동시> 송출 |
+| [그대 창가에서](https://ko.wikipedia.org/wiki/그대_창가에서 "wikilink")       | 매일 깊은 밤 2시\~3시         | 김대진 아나운서                                                     | <TV:동시> 송출 |
+| [매직? 뮤직\!](https://ko.wikipedia.org/wiki/매직?_뮤직! "wikilink")      | 매일 밤 8시\~10시           | 아나운서                                                         | <TV:동시> 송출 |
 
 ### 방송 송출 시설망
 
@@ -347,15 +347,15 @@
 #### 정각 시보
 
   - 서한 이다음
-  - [스파밸리](https://ko.wikipedia.org/wiki/스파밸리 "wikilink")
+  - [스파밸리](../Page/스파밸리.md "wikilink")
   - [오렌지라이프](../Page/오렌지라이프.md "wikilink")
-  - [호산대학교](https://ko.wikipedia.org/wiki/호산대학교 "wikilink")
+  - [호산대학교](../Page/호산대학교.md "wikilink")
   - [영진사이버대학교](https://ko.wikipedia.org/wiki/영진사이버대학교 "wikilink")
-  - [계명문화대학교](https://ko.wikipedia.org/wiki/계명문화대학교 "wikilink")
-  - [영남이공대학교](https://ko.wikipedia.org/wiki/영남이공대학교 "wikilink")
+  - [계명문화대학교](../Page/계명문화대학교.md "wikilink")
+  - [영남이공대학교](../Page/영남이공대학교.md "wikilink")
   - [영진전문대학](https://ko.wikipedia.org/wiki/영진전문대학 "wikilink")
-  - [한국폴리텍대학](https://ko.wikipedia.org/wiki/한국폴리텍대학 "wikilink") 대구캠퍼스
-  - [대구미래대학교](https://ko.wikipedia.org/wiki/대구미래대학교 "wikilink")
+  - [한국폴리텍대학](../Page/한국폴리텍대학.md "wikilink") 대구캠퍼스
+  - [대구미래대학교](../Page/대구미래대학교.md "wikilink")
   - [대구예술대학교](https://ko.wikipedia.org/wiki/대구예술대학교 "wikilink")
   - 켈란썬팅
   - 무극안경
@@ -415,21 +415,21 @@
 
 ## 같이 보기
 
-  - [KBS대구방송총국](https://ko.wikipedia.org/wiki/KBS대구방송총국 "wikilink")
-  - [KBS안동방송국](https://ko.wikipedia.org/wiki/KBS안동방송국 "wikilink")
-  - [KBS포항방송국](https://ko.wikipedia.org/wiki/KBS포항방송국 "wikilink")
-  - [대구MBC](https://ko.wikipedia.org/wiki/대구문화방송 "wikilink")
-  - [안동MBC](https://ko.wikipedia.org/wiki/안동문화방송 "wikilink")
-  - [포항MBC](https://ko.wikipedia.org/wiki/포항문화방송 "wikilink")
-  - [TBN 대구교통방송](https://ko.wikipedia.org/wiki/대구교통방송 "wikilink")
+  - [KBS대구방송총국](../Page/KBS대구방송총국.md "wikilink")
+  - [KBS안동방송국](../Page/KBS안동방송국.md "wikilink")
+  - [KBS포항방송국](../Page/KBS포항방송국.md "wikilink")
+  - [대구MBC](../Page/대구문화방송.md "wikilink")
+  - [안동MBC](../Page/안동문화방송.md "wikilink")
+  - [포항MBC](../Page/포항문화방송.md "wikilink")
+  - [TBN 대구교통방송](../Page/대구교통방송.md "wikilink")
   - [TBN 경북교통방송](https://ko.wikipedia.org/wiki/경북교통방송 "wikilink")
-  - [대구국악방송](https://ko.wikipedia.org/wiki/국악방송 "wikilink")
-  - [경주국악방송](https://ko.wikipedia.org/wiki/국악방송 "wikilink")
-  - [BBS 대구불교방송](https://ko.wikipedia.org/wiki/대구불교방송 "wikilink")
-  - [WBS 대구원음방송](https://ko.wikipedia.org/wiki/대구원음방송 "wikilink")
-  - [cpbc 대구가톨릭평화방송](https://ko.wikipedia.org/wiki/대구가톨릭평화방송 "wikilink")
-  - [대구CBS](https://ko.wikipedia.org/wiki/기독교대구방송 "wikilink")
-  - [포항CBS](https://ko.wikipedia.org/wiki/기독교포항방송 "wikilink")
+  - [대구국악방송](../Page/국악방송.md "wikilink")
+  - [경주국악방송](../Page/국악방송.md "wikilink")
+  - [BBS 대구불교방송](../Page/대구불교방송.md "wikilink")
+  - [WBS 대구원음방송](../Page/대구원음방송.md "wikilink")
+  - [cpbc 대구가톨릭평화방송](../Page/대구가톨릭평화방송.md "wikilink")
+  - [대구CBS](../Page/기독교대구방송.md "wikilink")
+  - [포항CBS](../Page/기독교포항방송.md "wikilink")
   - [성서공동체FM](https://ko.wikipedia.org/wiki/성서공동체FM "wikilink")
   - [영주FM](https://ko.wikipedia.org/wiki/영주FM "wikilink")
 
@@ -443,5 +443,5 @@
 1.  [HD 디지털 방송 시작 - 메인뉴스 자료](http://www.tbc.co.kr/tbc_news/n08_today.html?number=79309)
 2.  ['대구방송, 창사 20주년 맞아 TBC로 사명 변경' - 연합뉴스 2015.5.14.](http://www.yonhapnews.co.kr/bulletin/2015/05/14/0200000000AKR20150514052500053.HTML)
 3.  TBC 경영보고서
-4.  **1. 보도부문**: 밤 8시에 편성하는 SBS8뉴스는 당초 SBS의 원안은 전체방송시간 45분 모두 전국에 그대로 방영하려고 계획하였고 별도로 수도권뉴스 프로그램 신설로 그 시간대에 지역뉴스를 편성하려고 계획 하였다. SBS 8 뉴스를 45분 모두 전국에 본방을 내보내려 하자 지역민방의 반발이 심해졌고 SBS 측에서는 원안을 고수하며 SBS 8 뉴스는 메인뉴스 이기 때문에 전국에 모두 방영되어야 한다고 주장하며 세부협정을 맺어 보도부문을 확정하려고 시도하였다. 그러나 지역민방과 뉴스 시간문제로 기본협정 체결후 계속 줄다리기가 이어지다가 결국 지역민방의 요구를 수용하였다. 지역민방의 요구대로 SBS 8 뉴스는 4대지역민방 모두 SBS 8 뉴스 전체방송시간 45분중 30분간은 SBS 8 뉴스를 그대로 편성하고 밤 08시 30분부터 08시 45분까지는 지역민방 각자의 뉴스를 편성하기로 합의, 뉴스끝에는 기존 [KBS 뉴스 9](https://ko.wikipedia.org/wiki/KBS_뉴스_9 "wikilink"), [MBC 뉴스데스크처럼](https://ko.wikipedia.org/wiki/MBC_뉴스데스크 "wikilink") 지역뉴스가 끝나고 날씨와 클로징 멘트를 전국에 보여주는 형태와는 달리 뉴스 끝부분은 각자 지역민방이 수주한 광고로 편성하고 날씨와 클로징 멘트 모두 지역민방의 방송으로 채우고 SBS 8 뉴스의 엔딩영상 또한 SBS에서 각자 지역민방에 미리 공급한 영상으로 밤 08시 30분이 되면 지역민방에서 공급받은 SBS 8 뉴스 엔딩영상을 송출한뒤 뉴스를 끝내고 지역민방 뉴스 편성을 한다. 그리고 뉴스 SBS 8 뉴스 끝부분은 보여주지 않고 지역민방뉴스로 마친뒤 SBS 프로그램을 편성한다, SBS 8 뉴스의 지방시간대는 지역민방의 요구대로 하기 위하여 독자적인 뉴스 이름을 넣기로 하였다. 당초에 계획한 SBS측의 설명에 의하면 예를들어 대구방송에서 8시 지역뉴스 시간에 SBS 8 뉴스 TBC대구방송 이라는 형태로 뉴스이름을 설정하기로 하였으나 지역민방의 거센반발로 SBS측에서 요구한 사항이 무산되고 [PSB 부산방송은](https://ko.wikipedia.org/wiki/KNN "wikilink") 뉴스이름이 PSB 뉴스아이,[TBC 대구방송은](https://ko.wikipedia.org/wiki/대구방송 "wikilink") TBC 뉴스채널, [TJB 대전방송은](https://ko.wikipedia.org/wiki/대전방송 "wikilink") TJB 종합뉴스, [KBC 광주방송은](https://ko.wikipedia.org/wiki/광주방송 "wikilink") KBC 뉴스 2000 이라는 이름으로 SBS 8 뉴스 뒷편인 지방시간대에 각각 다른 이름으로 편성하기로 하였다. 이로써 8시메인뉴스중 지역민방 시간대는 SBS에 종속되지 않고 어느정도 독자적인 조건이 보장되었다. 뉴스편성에서의 독립이 이루어 졌다. 밤 08시부터 30분 까지는 무조건 SBS 8 뉴스를 송출하여야 한다. 뉴스나 스포츠등 SBS로고가 표시된 방송 송출시 각 지역민방은 SBS로고를 편집하지 않고 서울SBS화면을 그대로 받아서 송출한다, 그리고 SBS의 하단스크롤 자막도 편집없이 그대로 송출한다, 아침시간대의 시간도 SBS프로그램 편성시 편집없이 SBS시간표시 그대로 송출한다.
+4.  **1. 보도부문**: 밤 8시에 편성하는 SBS8뉴스는 당초 SBS의 원안은 전체방송시간 45분 모두 전국에 그대로 방영하려고 계획하였고 별도로 수도권뉴스 프로그램 신설로 그 시간대에 지역뉴스를 편성하려고 계획 하였다. SBS 8 뉴스를 45분 모두 전국에 본방을 내보내려 하자 지역민방의 반발이 심해졌고 SBS 측에서는 원안을 고수하며 SBS 8 뉴스는 메인뉴스 이기 때문에 전국에 모두 방영되어야 한다고 주장하며 세부협정을 맺어 보도부문을 확정하려고 시도하였다. 그러나 지역민방과 뉴스 시간문제로 기본협정 체결후 계속 줄다리기가 이어지다가 결국 지역민방의 요구를 수용하였다. 지역민방의 요구대로 SBS 8 뉴스는 4대지역민방 모두 SBS 8 뉴스 전체방송시간 45분중 30분간은 SBS 8 뉴스를 그대로 편성하고 밤 08시 30분부터 08시 45분까지는 지역민방 각자의 뉴스를 편성하기로 합의, 뉴스끝에는 기존 [KBS 뉴스 9](../Page/KBS_뉴스_9.md "wikilink"), [MBC 뉴스데스크처럼](../Page/MBC_뉴스데스크.md "wikilink") 지역뉴스가 끝나고 날씨와 클로징 멘트를 전국에 보여주는 형태와는 달리 뉴스 끝부분은 각자 지역민방이 수주한 광고로 편성하고 날씨와 클로징 멘트 모두 지역민방의 방송으로 채우고 SBS 8 뉴스의 엔딩영상 또한 SBS에서 각자 지역민방에 미리 공급한 영상으로 밤 08시 30분이 되면 지역민방에서 공급받은 SBS 8 뉴스 엔딩영상을 송출한뒤 뉴스를 끝내고 지역민방 뉴스 편성을 한다. 그리고 뉴스 SBS 8 뉴스 끝부분은 보여주지 않고 지역민방뉴스로 마친뒤 SBS 프로그램을 편성한다, SBS 8 뉴스의 지방시간대는 지역민방의 요구대로 하기 위하여 독자적인 뉴스 이름을 넣기로 하였다. 당초에 계획한 SBS측의 설명에 의하면 예를들어 대구방송에서 8시 지역뉴스 시간에 SBS 8 뉴스 TBC대구방송 이라는 형태로 뉴스이름을 설정하기로 하였으나 지역민방의 거센반발로 SBS측에서 요구한 사항이 무산되고 [PSB 부산방송은](../Page/KNN.md "wikilink") 뉴스이름이 PSB 뉴스아이,[TBC 대구방송은](https://ko.wikipedia.org/wiki/대구방송 "wikilink") TBC 뉴스채널, [TJB 대전방송은](../Page/대전방송.md "wikilink") TJB 종합뉴스, [KBC 광주방송은](../Page/광주방송.md "wikilink") KBC 뉴스 2000 이라는 이름으로 SBS 8 뉴스 뒷편인 지방시간대에 각각 다른 이름으로 편성하기로 하였다. 이로써 8시메인뉴스중 지역민방 시간대는 SBS에 종속되지 않고 어느정도 독자적인 조건이 보장되었다. 뉴스편성에서의 독립이 이루어 졌다. 밤 08시부터 30분 까지는 무조건 SBS 8 뉴스를 송출하여야 한다. 뉴스나 스포츠등 SBS로고가 표시된 방송 송출시 각 지역민방은 SBS로고를 편집하지 않고 서울SBS화면을 그대로 받아서 송출한다, 그리고 SBS의 하단스크롤 자막도 편집없이 그대로 송출한다, 아침시간대의 시간도 SBS프로그램 편성시 편집없이 SBS시간표시 그대로 송출한다.
     **2. SBS프로그램 공급 및 네트워크 시간대 편성비율**: 지역민방의 SBS프로그램 네트워크시간대는 기존에 42.6%(전체 방송시간중 2천 3백 40분)를 SBS측에서 공급하기로 하고 비율을 설정하였으나 각4대지역민방이 프로그램 제작능력이 없고 제작여건이 열악하고 프로그램 제작환경이 전반적으로 안 좋으며 제작하기에 미비되는 조건이 상당히 많아서 지역민방4곳 모두에서 SBS프로그램 공급을 대부분 하겠다고 하여 네트워크 프로그램을 많이 늘려줄 것을 요구하여 65%(전체 방송시간중 3천 6백분)를 SBS프로그램으로 네트워크 시간대를 늘이기로 했다.네트워크 시간대의 프로그램 규정도 4개 지역민방에서 동시에 방송되는 프로그램만이 아니라 SBS가 개별 지역민방과 별도로 협정을 맺은 프로그램에 까지 적용해 공급권료를 2년간 면제해주기로 하였다. 이와함께 SBS에서 제작하는 프로그램에 지역민방이 참여한 경우의 제작비 지급문제도 3개월뒤 상황에 따라 실제작비를 지급한다고 명문화 하였다.1995년 개국 당시 4개 지역민방의 편성표를 보면 보도 및 스포츠 등과 몇몇 지역프로그램을 제외하면 쇼, 오락, 드라마등 SBS의 거의 모든 프로그램이 지역민방 프로그램에 편성되었다. 지역민방에서 공동제작 프로그램인 네트워크 스페셜과 주말 2시대의 스포츠 및 지역프로를 제외하면 지역민방 자체편성비율이 1995년 당시 공보처에서 의무편성비율로 제시한 15%를 겨우 넘는 수준이었다.

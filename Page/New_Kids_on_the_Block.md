@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [New Kids on the Block](https://ko.wikipedia.org/wiki/New_Kids_on_the_Block).
 
 
-***New Kids on the Block***은 미국의 보이 밴드 [뉴 키즈 온 더 블록의](https://ko.wikipedia.org/wiki/뉴_키즈_온_더_블록 "wikilink") 데뷔 음반으로, 1986년 발매되었다.
+***New Kids on the Block***은 미국의 보이 밴드 [뉴 키즈 온 더 블록의](../Page/뉴_키즈_온_더_블록.md "wikilink") 데뷔 음반으로, 1986년 발매되었다.
 
 ## 트랙리스트
 

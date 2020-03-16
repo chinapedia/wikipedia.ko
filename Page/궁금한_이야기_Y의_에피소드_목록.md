@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  Y  ](https://ko.wikipedia.org/wiki/__Y__).
 
 
-아래는 [SBS TV에서](https://ko.wikipedia.org/wiki/SBS_TV "wikilink") 시사교양 프로그램 《[궁금한 이야기 Y](https://ko.wikipedia.org/wiki/궁금한_이야기_Y "wikilink")》의 **에피소드 목록**이다.
+아래는 [SBS TV에서](../Page/SBS_TV.md "wikilink") 시사교양 프로그램 《[궁금한 이야기 Y](../Page/궁금한_이야기_Y.md "wikilink")》의 **에피소드 목록**이다.
 
 ## 에피소드 목록
 
@@ -38,7 +38,7 @@
 <tr class="even">
 <td><p>55</p></td>
 <td><p>1월 14일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/맥도날드" title="wikilink">맥도날드</a> <a href="https://ko.wikipedia.org/wiki/할머니" title="wikilink">할머니</a>, 누구를 기다리고 있나?</p></td>
+<td><p><a href="../Page/맥도날드.md" title="wikilink">맥도날드</a> <a href="https://ko.wikipedia.org/wiki/할머니" title="wikilink">할머니</a>, 누구를 기다리고 있나?</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -56,7 +56,7 @@
 <tr class="odd">
 <td><p>56</p></td>
 <td><p>1월 21일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/엄마" title="wikilink">엄마</a>는 왜 <a href="https://ko.wikipedia.org/wiki/아기" title="wikilink">갓난아기를</a> 버려야 했나?</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/엄마" title="wikilink">엄마</a>는 왜 <a href="../Page/아기.md" title="wikilink">갓난아기를</a> 버려야 했나?</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -72,7 +72,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/불" title="wikilink">불</a>에 탄 내 차, 어디서 되찾아야 하나</p></td>
+<td><p><a href="../Page/불.md" title="wikilink">불</a>에 탄 내 차, 어디서 되찾아야 하나</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -80,7 +80,7 @@
 <tr class="odd">
 <td><p>58</p></td>
 <td><p>2월 4일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/돈" title="wikilink">돈</a>은 대체 '무엇'일까</p></td>
+<td><p><a href="../Page/돈.md" title="wikilink">돈</a>은 대체 '무엇'일까</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -90,7 +90,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>4억 빚과의 전쟁, 왜 <a href="https://ko.wikipedia.org/wiki/아르바이트" title="wikilink">아르바이트</a>에 뛰어들었나?</p></td>
+<td><p>4억 빚과의 전쟁, 왜 <a href="../Page/아르바이트.md" title="wikilink">아르바이트</a>에 뛰어들었나?</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -102,7 +102,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/혼자" title="wikilink">나홀로</a> <a href="https://ko.wikipedia.org/wiki/파업" title="wikilink">파업</a>?! <a href="https://ko.wikipedia.org/wiki/남자" title="wikilink">남자</a>는 왜 집안에 갇혔나?</p></td>
+<td><p><a href="../Page/혼자.md" title="wikilink">나홀로</a> <a href="https://ko.wikipedia.org/wiki/파업" title="wikilink">파업</a>?! <a href="https://ko.wikipedia.org/wiki/남자" title="wikilink">남자</a>는 왜 집안에 갇혔나?</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -116,7 +116,7 @@
 <tr class="odd">
 <td><p>60</p></td>
 <td><p>2월 18일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/심야" title="wikilink">심야</a>의 <a href="https://ko.wikipedia.org/wiki/미스터리" title="wikilink">미스터리</a>, <a href="https://ko.wikipedia.org/wiki/남양주시" title="wikilink">남양주</a> 폭음의 정체는 무엇인가?</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/심야" title="wikilink">심야</a>의 <a href="https://ko.wikipedia.org/wiki/미스터리" title="wikilink">미스터리</a>, <a href="../Page/남양주시.md" title="wikilink">남양주</a> 폭음의 정체는 무엇인가?</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -138,7 +138,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>물난리 난 <a href="https://ko.wikipedia.org/wiki/아파트" title="wikilink">아파트</a>, 그들은 왜 소방밸브를 잠궜나?</p></td>
+<td><p>물난리 난 <a href="../Page/아파트.md" title="wikilink">아파트</a>, 그들은 왜 소방밸브를 잠궜나?</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -152,11 +152,11 @@
 <tr class="odd">
 <td><p>63</p></td>
 <td><p>3월 11일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/기억" title="wikilink">기억</a>을 잃은 아내. 어떻게 내 사랑을 전하나?</p></td>
+<td><p><a href="../Page/기억.md" title="wikilink">기억</a>을 잃은 아내. 어떻게 내 사랑을 전하나?</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/박대성_(1978년)" title="wikilink">미네르바? 미네르박?</a> 나를 어떻게 증명해야 하나</p></td>
+<td><p><a href="../Page/박대성_(1978년).md" title="wikilink">미네르바? 미네르박?</a> 나를 어떻게 증명해야 하나</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -174,7 +174,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2010년" title="wikilink">2010년</a> 3월 12일, 그녀에게 무슨 일이?</p></td>
+<td><p><a href="../Page/2010년.md" title="wikilink">2010년</a> 3월 12일, 그녀에게 무슨 일이?</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -182,7 +182,7 @@
 <tr class="even">
 <td><p>65</p></td>
 <td><p>3월 25일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/쓰레기" title="wikilink">쓰레기</a> 집에 사는 이상한 부부, 그들에게 <a href="https://ko.wikipedia.org/wiki/부부" title="wikilink">부부</a>란 무엇인가.</p></td>
+<td><p><a href="../Page/쓰레기.md" title="wikilink">쓰레기</a> 집에 사는 이상한 부부, 그들에게 <a href="../Page/부부.md" title="wikilink">부부</a>란 무엇인가.</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -192,7 +192,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>1등 <a href="https://ko.wikipedia.org/wiki/엄친아" title="wikilink">엄친아</a>, 왜 <a href="https://ko.wikipedia.org/wiki/분신" title="wikilink">분신</a>을 시도했나?</p></td>
+<td><p>1등 <a href="../Page/엄친아.md" title="wikilink">엄친아</a>, 왜 <a href="https://ko.wikipedia.org/wiki/분신" title="wikilink">분신</a>을 시도했나?</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -200,7 +200,7 @@
 <tr class="odd">
 <td><p>66</p></td>
 <td><p>4월 1일</p></td>
-<td><p>밝혀진 <a href="https://ko.wikipedia.org/wiki/울산" title="wikilink">울산</a> 봉대산 불다람쥐의 정체, 그는 왜 <a href="https://ko.wikipedia.org/wiki/불" title="wikilink">불</a>을 지르기 시작했나</p></td>
+<td><p>밝혀진 <a href="https://ko.wikipedia.org/wiki/울산" title="wikilink">울산</a> 봉대산 불다람쥐의 정체, 그는 왜 <a href="../Page/불.md" title="wikilink">불</a>을 지르기 시작했나</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -230,7 +230,7 @@
 <tr class="even">
 <td><p>68</p></td>
 <td><p>4월 15일</p></td>
-<td><p>17억, 27억, 110억... <a href="https://ko.wikipedia.org/wiki/마늘" title="wikilink">마늘</a>밭엔 얼마가 묻혔나?</p></td>
+<td><p>17억, 27억, 110억... <a href="../Page/마늘.md" title="wikilink">마늘</a>밭엔 얼마가 묻혔나?</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -270,7 +270,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>열여덟 살 상균이, 왜 <a href="https://ko.wikipedia.org/wiki/대학" title="wikilink">대학</a>을 포기했나?</p></td>
+<td><p>열여덟 살 상균이, 왜 <a href="../Page/대학.md" title="wikilink">대학</a>을 포기했나?</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -278,11 +278,11 @@
 <tr class="even">
 <td><p>71</p></td>
 <td><p>5월 13일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/십자가" title="wikilink">십자가</a> 시신 미스터리, 그는 무엇을 찾고자 했나</p></td>
+<td><p><a href="../Page/십자가.md" title="wikilink">십자가</a> 시신 미스터리, 그는 무엇을 찾고자 했나</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/트럭" title="wikilink">덤프트럭</a> 돌진! 무엇이 그를 헐크로 만들었나</p></td>
+<td><p><a href="../Page/트럭.md" title="wikilink">덤프트럭</a> 돌진! 무엇이 그를 헐크로 만들었나</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -318,13 +318,13 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>그녀는 왜 제 집에 <a href="https://ko.wikipedia.org/wiki/불" title="wikilink">불</a>을 질렀나</p></td>
+<td><p>그녀는 왜 제 집에 <a href="../Page/불.md" title="wikilink">불</a>을 질렀나</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/동거남" title="wikilink">동거남</a>이 아내를 죽였다? <a href="https://ko.wikipedia.org/wiki/아내" title="wikilink">아내</a>의 진실은 무엇인가</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/동거남" title="wikilink">동거남</a>이 아내를 죽였다? <a href="../Page/아내.md" title="wikilink">아내</a>의 진실은 무엇인가</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -336,7 +336,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/바다" title="wikilink">바다</a>에서 사라진 내 <a href="https://ko.wikipedia.org/wiki/아들" title="wikilink">아들</a>, 어디에 있을까?</p></td>
+<td><p><a href="../Page/바다.md" title="wikilink">바다</a>에서 사라진 내 <a href="https://ko.wikipedia.org/wiki/아들" title="wikilink">아들</a>, 어디에 있을까?</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -344,11 +344,11 @@
 <tr class="odd">
 <td><p>75</p></td>
 <td><p>6월 10일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/시한부" title="wikilink">시한부</a> <a href="https://ko.wikipedia.org/wiki/암" title="wikilink">암</a>환자, 그는 왜 57억 <a href="https://ko.wikipedia.org/wiki/사기" title="wikilink">사기</a>꾼이 됐나</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/시한부" title="wikilink">시한부</a> <a href="../Page/암.md" title="wikilink">암</a>환자, 그는 왜 57억 <a href="https://ko.wikipedia.org/wiki/사기" title="wikilink">사기</a>꾼이 됐나</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>나는 <a href="https://ko.wikipedia.org/wiki/예수" title="wikilink">예수</a>다! 그녀는 왜 재림예수라 믿게 되었나?</p></td>
+<td><p>나는 <a href="../Page/예수.md" title="wikilink">예수</a>다! 그녀는 왜 재림예수라 믿게 되었나?</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -360,7 +360,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>40년간의 짝사랑? 그는 왜 <a href="https://ko.wikipedia.org/wiki/사랑" title="wikilink">첫사랑</a> 그녀에게 집착하나</p></td>
+<td><p>40년간의 짝사랑? 그는 왜 <a href="../Page/사랑.md" title="wikilink">첫사랑</a> 그녀에게 집착하나</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -372,13 +372,13 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>110억 <a href="https://ko.wikipedia.org/wiki/마늘" title="wikilink">마늘</a>밭 사건 그 후, 남자는 왜 도망자가 되었나?</p></td>
+<td><p>110억 <a href="../Page/마늘.md" title="wikilink">마늘</a>밭 사건 그 후, 남자는 왜 도망자가 되었나?</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>나홀로 <a href="https://ko.wikipedia.org/wiki/섬" title="wikilink">섬</a>생활, <a href="https://ko.wikipedia.org/wiki/할아버지" title="wikilink">할아버지</a>는 왜 <a href="https://ko.wikipedia.org/wiki/무인도" title="wikilink">무인도</a>를 지키나?</p></td>
+<td><p>나홀로 <a href="../Page/섬.md" title="wikilink">섬</a>생활, <a href="https://ko.wikipedia.org/wiki/할아버지" title="wikilink">할아버지</a>는 왜 <a href="https://ko.wikipedia.org/wiki/무인도" title="wikilink">무인도</a>를 지키나?</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -408,7 +408,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/무당" title="wikilink">무당</a>이 된 <a href="https://ko.wikipedia.org/wiki/꽃미남" title="wikilink">꽃미남</a> <a href="https://ko.wikipedia.org/wiki/배우" title="wikilink">배우</a>, <a href="https://ko.wikipedia.org/wiki/부모님" title="wikilink">부모님</a>께 어떻게 고백하나</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/무당" title="wikilink">무당</a>이 된 <a href="https://ko.wikipedia.org/wiki/꽃미남" title="wikilink">꽃미남</a> <a href="../Page/배우.md" title="wikilink">배우</a>, <a href="https://ko.wikipedia.org/wiki/부모님" title="wikilink">부모님</a>께 어떻게 고백하나</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -601,7 +601,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>나는 <a href="https://ko.wikipedia.org/wiki/허영만" title="wikilink">허영만</a>이다. 만화가 사칭사기, 그들은 왜 속았나?</p></td>
+<td><p>나는 <a href="../Page/허영만.md" title="wikilink">허영만</a>이다. 만화가 사칭사기, 그들은 왜 속았나?</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1569,6 +1569,6 @@
 [분류:대한민국의 텔레비전 에피소드 목록](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_에피소드_목록 "wikilink")
 
 1.  [허수경](https://ko.wikipedia.org/wiki/허수경 "wikilink") 마지막 MC
-2.  [박선영](https://ko.wikipedia.org/wiki/박선영_\(아나운서\) "wikilink") 아나운서 새 MC
+2.  [박선영](../Page/박선영_\(아나운서\).md "wikilink") 아나운서 새 MC
 3.  10월 6일 방송분은, 2017년 추석특집 방송 관계로 결방
 4.  400회 특집 방송을 하지 않았음

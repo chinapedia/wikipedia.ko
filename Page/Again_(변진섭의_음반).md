@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Again \( \)](https://ko.wikipedia.org/wiki/Again_\(_\)).
 
 
-《**Again**》은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 가수 [변진섭](https://ko.wikipedia.org/wiki/변진섭 "wikilink")의 일곱 번째 정규 음반이다.
+《**Again**》은 [대한민국](../Page/대한민국.md "wikilink")의 가수 [변진섭](../Page/변진섭.md "wikilink")의 일곱 번째 정규 음반이다.
 
 ## 수록곡
 

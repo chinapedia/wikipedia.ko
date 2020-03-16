@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [BS ](https://ko.wikipedia.org/wiki/BS_).
 
 
-**BS 시대극**은 [NHK BS 프리미엄의](https://ko.wikipedia.org/wiki/NHK_BS_프리미엄 "wikilink") 시대극.
+**BS 시대극**은 [NHK BS 프리미엄의](../Page/NHK_BS_프리미엄.md "wikilink") 시대극.
 
 ## 방송 작품
 
-※는 나중에 지상파에서 방송. 작은 앙코르 방송. 특기없는 것은 [NHK 방송 센터](https://ko.wikipedia.org/wiki/NHK_방송_센터 "wikilink") 자체 제작.
+※는 나중에 지상파에서 방송. 작은 앙코르 방송. 특기없는 것은 [NHK 방송 센터](../Page/NHK_방송_센터.md "wikilink") 자체 제작.
 
   - 2011년
 

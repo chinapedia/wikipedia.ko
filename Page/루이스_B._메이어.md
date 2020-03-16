@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ B. ](https://ko.wikipedia.org/wiki/_B._).
 
 
-**루이스 버트 메이어**(, [1884년](https://ko.wikipedia.org/wiki/1884년 "wikilink") [7월 12일](https://ko.wikipedia.org/wiki/7월_12일 "wikilink") \~ [1957년](https://ko.wikipedia.org/wiki/1957년 "wikilink") [10월 29일](https://ko.wikipedia.org/wiki/10월_29일 "wikilink"))는 20세기 [민스크](https://ko.wikipedia.org/wiki/민스크 "wikilink") 출신의 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") 영화 제작자로, [메트로 골드윈 메이어의](https://ko.wikipedia.org/wiki/메트로_골드윈_메이어 "wikilink") 설립자이다.
+**루이스 버트 메이어**(, [1884년](../Page/1884년.md "wikilink") [7월 12일](../Page/7월_12일.md "wikilink") \~ [1957년](../Page/1957년.md "wikilink") [10월 29일](../Page/10월_29일.md "wikilink"))는 20세기 [민스크](../Page/민스크.md "wikilink") 출신의 [미국](../Page/미국.md "wikilink") 영화 제작자로, [메트로 골드윈 메이어의](../Page/메트로_골드윈_메이어.md "wikilink") 설립자이다.
 
-메이어는 구 [러시아 제국](https://ko.wikipedia.org/wiki/러시아_제국 "wikilink"), 현 [벨라루스](https://ko.wikipedia.org/wiki/벨라루스 "wikilink") 영토인 [민스크](https://ko.wikipedia.org/wiki/민스크 "wikilink")의 [유대인](https://ko.wikipedia.org/wiki/유대인 "wikilink") 가정에서 태어났으며, 본명은 **라자리 메이르**(Лазарь Меир)이다.
+메이어는 구 [러시아 제국](../Page/러시아_제국.md "wikilink"), 현 [벨라루스](../Page/벨라루스.md "wikilink") 영토인 [민스크](../Page/민스크.md "wikilink")의 [유대인](../Page/유대인.md "wikilink") 가정에서 태어났으며, 본명은 **라자리 메이르**(Лазарь Меир)이다.
 
 ## 외부 링크
 

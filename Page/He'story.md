@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [He\'story](https://ko.wikipedia.org/wiki/He\'story).
 
 
-《**He'story**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 가수 [변진섭](https://ko.wikipedia.org/wiki/변진섭 "wikilink")의 열 번째 정규 음반이다.
+《**He'story**》는 [대한민국](../Page/대한민국.md "wikilink")의 가수 [변진섭](../Page/변진섭.md "wikilink")의 열 번째 정규 음반이다.
 
 ## 수록곡
 
@@ -11,7 +11,7 @@
   - 컴퓨터 프로그래밍 : 하광훈, 강린
   - 기타 : 유태준
   - 피아노 : 하광훈, 강린
-  - 트럼펫 : [이주한](../Page/이주한_\(음악가\).md "wikilink") of [윈터플레이](https://ko.wikipedia.org/wiki/윈터플레이 "wikilink")
+  - 트럼펫 : [이주한](../Page/이주한_\(음악가\).md "wikilink") of [윈터플레이](../Page/윈터플레이.md "wikilink")
   - 아코디언 : 심성락
   - 백그라운드 보컬 : 변진섭, 하광훈
   - 레코딩 엔지니어 : 홍성호

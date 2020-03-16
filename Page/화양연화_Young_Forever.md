@@ -3,7 +3,7 @@
 
 《**화양연화 Young Forever**》는 대한민국의 남성 그룹 [방탄소년단](../Page/방탄소년단.md "wikilink")의 두 번째 한국 리패키지 음반이다.\[1\] 2016년 5월 2일 [빅히트 엔터테인먼트를](../Page/빅히트_엔터테인먼트.md "wikilink") 통해 발매되었다.
 
-〈Save Me〉의 뮤직 비디오 일부는 [새만금에서](https://ko.wikipedia.org/wiki/새만금_방조제 "wikilink"), 〈Epilogue : Young Forever〉의 뮤직 비디오 일부는 [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") [제천시](https://ko.wikipedia.org/wiki/제천시 "wikilink") [제천비행장](https://ko.wikipedia.org/wiki/제천비행장 "wikilink")에서 촬영되었다.\[2\]
+〈Save Me〉의 뮤직 비디오 일부는 [새만금에서](../Page/새만금_방조제.md "wikilink"), 〈Epilogue : Young Forever〉의 뮤직 비디오 일부는 [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") [제천시](../Page/제천시.md "wikilink") [제천비행장](../Page/제천비행장.md "wikilink")에서 촬영되었다.\[2\]
 
 ## 수록곡
 
@@ -18,11 +18,11 @@
 | 차트                                                                           | 최고순위 |
 | ---------------------------------------------------------------------------- | ---- |
 | 대한민국 ([가온 앨범 차트](https://ko.wikipedia.org/wiki/가온_앨범_차트 "wikilink"))\[3\]    | 1    |
-| 미국 ([빌보드 200 차트](https://ko.wikipedia.org/wiki/빌보드_200 "wikilink"))\[4\]     | 107  |
+| 미국 ([빌보드 200 차트](../Page/빌보드_200.md "wikilink"))\[4\]                        | 107  |
 | 미국 ([빌보드 월드 앨범 차트](https://ko.wikipedia.org/wiki/빌보드_차트 "wikilink"))\[5\]    | 2    |
 | 미국 ([빌보드 탑 히트시커스 차트](https://ko.wikipedia.org/wiki/빌보드_차트 "wikilink"))\[6\]  | 10   |
 | 미국 ([빌보드 인디펜던트 앨범 차트](https://ko.wikipedia.org/wiki/빌보드_차트 "wikilink"))\[7\] | 42   |
-| 일본 ([오리콘 앨범 차트](https://ko.wikipedia.org/wiki/오리콘 "wikilink"))\[8\]          | 7    |
+| 일본 ([오리콘 앨범 차트](../Page/오리콘.md "wikilink"))\[8\]                             | 7    |
 |                                                                              |      |
 
 ## 판매량
@@ -30,16 +30,16 @@
 | 차트                                                                   | 판매량      |
 | -------------------------------------------------------------------- | -------- |
 | 대한민국 ([가온 앨범 차트](https://ko.wikipedia.org/wiki/가온_앨범_차트 "wikilink")) | 400,000+ |
-| 일본 ([오리콘 앨범 차트](https://ko.wikipedia.org/wiki/오리콘 "wikilink"))       | 6,486+   |
+| 일본 ([오리콘 앨범 차트](../Page/오리콘.md "wikilink"))                          | 6,486+   |
 | 미국 ([빌보드 차트](https://ko.wikipedia.org/wiki/빌보드_차트 "wikilink"))       | 6,000+   |
 | 중국 (QQ 차트)                                                           | 89,500+  |
 
 ## 발매일
 
-| 국가                                                    | 날짜          | 포맷                                                                                                               | 레이블                                                             |
-| ----------------------------------------------------- | ----------- | ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") | 2016년 5월 2일 | [CD](https://ko.wikipedia.org/wiki/CD "wikilink"), [디지털 다운로드](https://ko.wikipedia.org/wiki/디지털_다운로드 "wikilink") | [로엔 엔터테인먼트](https://ko.wikipedia.org/wiki/로엔_엔터테인먼트 "wikilink") |
-| [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")     | 2015년 5월 8일 |                                                                                                                  |                                                                 |
+| 국가                                 | 날짜          | 포맷                                                                                                               | 레이블                                                             |
+| ---------------------------------- | ----------- | ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| [대한민국](../Page/대한민국.md "wikilink") | 2016년 5월 2일 | [CD](https://ko.wikipedia.org/wiki/CD "wikilink"), [디지털 다운로드](https://ko.wikipedia.org/wiki/디지털_다운로드 "wikilink") | [로엔 엔터테인먼트](https://ko.wikipedia.org/wiki/로엔_엔터테인먼트 "wikilink") |
+| [일본](../Page/일본.md "wikilink")     | 2015년 5월 8일 |                                                                                                                  |                                                                 |
 
 ## 각주
 

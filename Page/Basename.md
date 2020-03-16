@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Basename](https://ko.wikipedia.org/wiki/Basename).
 
 
-**basename**(베이스네임)은 표준 [유닉스](https://ko.wikipedia.org/wiki/유닉스 "wikilink") [컴퓨터 프로그램이다](https://ko.wikipedia.org/wiki/컴퓨터_프로그램 "wikilink"). basename에 [경로 이름을](https://ko.wikipedia.org/wiki/경로 "wikilink") 지정하면 마지막 슬래시(`'/'`) 전까지의 앞 글자들을 지우고 결과를 반환한다. basename은 [SUS에](https://ko.wikipedia.org/wiki/단일_유닉스_규격 "wikilink") 기술되어 있으며 주로 [셸 스크립트에](https://ko.wikipedia.org/wiki/셸_스크립트 "wikilink") 쓰인다.
+**basename**(베이스네임)은 표준 [유닉스](../Page/유닉스.md "wikilink") [컴퓨터 프로그램이다](../Page/컴퓨터_프로그램.md "wikilink"). basename에 [경로 이름을](../Page/경로.md "wikilink") 지정하면 마지막 슬래시(`'/'`) 전까지의 앞 글자들을 지우고 결과를 반환한다. basename은 [SUS에](../Page/단일_유닉스_규격.md "wikilink") 기술되어 있으며 주로 [셸 스크립트에](../Page/셸_스크립트.md "wikilink") 쓰인다.
 
 ## 사용법
 
-basename에 대한 [SUS의](https://ko.wikipedia.org/wiki/단일_유닉스_규격 "wikilink") 용법은 다음과 같다.
+basename에 대한 [SUS의](../Page/단일_유닉스_규격.md "wikilink") 용법은 다음과 같다.
 
     basename 문자열 [접미사]
 
@@ -49,7 +49,7 @@ base.wiki
 
   - [유닉스 명령어 목록](../Page/유닉스_명령어_목록.md "wikilink")
   - [dirname](https://ko.wikipedia.org/wiki/dirname "wikilink")
-  - [경로](https://ko.wikipedia.org/wiki/경로 "wikilink")
+  - [경로](../Page/경로.md "wikilink")
 
 ## 외부 링크
 

@@ -25,7 +25,7 @@
 <td><p>2016년 5월 7일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/서울" title="wikilink">서울</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/올림픽체조경기장" title="wikilink">올림픽 공원 체조경기장</a></p></td>
+<td><p><a href="../Page/올림픽체조경기장.md" title="wikilink">올림픽 공원 체조경기장</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2016년 5월 8일</p></td>
@@ -77,21 +77,21 @@
 </tr>
 <tr class="odd">
 <td><p>2016년 7월 30일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/마닐라" title="wikilink">마닐라</a></p></td>
+<td><p><a href="../Page/마닐라.md" title="wikilink">마닐라</a></p></td>
 <td></td>
 <td><p>몰 오브 아시아 아레나</p></td>
 </tr>
 <tr class="even">
 <td><p>2016년 8월 6일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/방콕" title="wikilink">방콕</a></p></td>
+<td><p><a href="../Page/방콕.md" title="wikilink">방콕</a></p></td>
 <td></td>
 <td><p>후아막 스타디움</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016년 8월 13일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/도쿄" title="wikilink">도쿄</a></p></td>
+<td><p><a href="../Page/도쿄.md" title="wikilink">도쿄</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/국립_요요기_경기장" title="wikilink">국립 요요기 경기장</a></p></td>
+<td><p><a href="../Page/국립_요요기_경기장.md" title="wikilink">국립 요요기 경기장</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2016년 8월 14일</p></td>

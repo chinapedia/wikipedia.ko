@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [  \(AHL\)](https://ko.wikipedia.org/wiki/__\(AHL\)).
 
 
-**노퍽 애드미럴스**(Norfolk Admirals)는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [버지니아주](https://ko.wikipedia.org/wiki/버지니아주 "wikilink") [노퍽을](https://ko.wikipedia.org/wiki/노퍽_\(버지니아주\) "wikilink") 연고지로 하는 2000년부터 2015년까지 [AHL](../Page/아메리칸_하키_리그.md "wikilink") 소속되었던 아이스 하키팀이다.
+**노퍽 애드미럴스**(Norfolk Admirals)는 [미국](../Page/미국.md "wikilink") [버지니아주](../Page/버지니아주.md "wikilink") [노퍽을](../Page/노퍽_\(버지니아주\).md "wikilink") 연고지로 하는 2000년부터 2015년까지 [AHL](../Page/아메리칸_하키_리그.md "wikilink") 소속되었던 아이스 하키팀이다.
 
-2015년 연고지를 [캘리포니아주](https://ko.wikipedia.org/wiki/캘리포니아주 "wikilink") [샌디에이고](https://ko.wikipedia.org/wiki/샌디에이고 "wikilink") ([샌디에이고 걸스](../Page/샌디에이고_걸스.md "wikilink"))로 이전했다.
+2015년 연고지를 [캘리포니아주](../Page/캘리포니아주.md "wikilink") [샌디에이고](https://ko.wikipedia.org/wiki/샌디에이고 "wikilink") ([샌디에이고 걸스](../Page/샌디에이고_걸스.md "wikilink"))로 이전했다.
 
 ## 역대 홈경기장
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [   VOL. 2](https://ko.wikipedia.org/wiki/___VOL._2).
 
 
-《**가디언즈 오브 갤럭시 VOL. 2**》()는 2017년 공개된 [미국의](https://ko.wikipedia.org/wiki/미국_영화 "wikilink") [슈퍼히어로 영화이다](../Page/슈퍼히어로_영화.md "wikilink"). [마블 코믹스의](https://ko.wikipedia.org/wiki/마블_코믹스 "wikilink") [동명 슈퍼히어로 팀을](https://ko.wikipedia.org/wiki/가디언스_오브_더_갤럭시_\(2008년_팀\) "wikilink") 기반으로 한 영화로, [마블 스튜디오가](https://ko.wikipedia.org/wiki/마블_스튜디오 "wikilink") 제작하고 [월트 디즈니 스튜디오 모션 픽처스가](https://ko.wikipedia.org/wiki/월트_디즈니_스튜디오_모션_픽처스 "wikilink") 배급하였다. 2014년 영화 《[가디언즈 오브 갤럭시](../Page/가디언즈_오브_갤럭시_\(영화\).md "wikilink")》의 속편으로 [마블 시네마틱 유니버스](https://ko.wikipedia.org/wiki/마블_시네마틱_유니버스 "wikilink")(MCU)의 15번째 영화이다. [제임스 건이](../Page/제임스_건_\(영화_감독\).md "wikilink") 감독하고 각본을 썼으며, 이 영화의 [앙상블 캐스트로는](https://ko.wikipedia.org/wiki/앙상블_캐스트 "wikilink") [크리스 프랫](https://ko.wikipedia.org/wiki/크리스_프랫 "wikilink"), [조이 샐다나](https://ko.wikipedia.org/wiki/조이_샐다나 "wikilink"), [데이브 바티스타](https://ko.wikipedia.org/wiki/데이브_바티스타 "wikilink"), [빈 디젤](https://ko.wikipedia.org/wiki/빈_디젤 "wikilink"), [브래들리 쿠퍼](https://ko.wikipedia.org/wiki/브래들리_쿠퍼 "wikilink"), [마이클 루커](https://ko.wikipedia.org/wiki/마이클_루커 "wikilink"), [캐런 길런](https://ko.wikipedia.org/wiki/캐런_길런 "wikilink"), [폼 클레멘티프](https://ko.wikipedia.org/wiki/폼_클레멘티프 "wikilink"), [엘리자베스 데비키](../Page/엘리자베스_데비키.md "wikilink"), [크리스 설리번](https://ko.wikipedia.org/wiki/크리스_설리번 "wikilink"), [숀 건](https://ko.wikipedia.org/wiki/숀_건 "wikilink"), [실베스터 스탤론과](https://ko.wikipedia.org/wiki/실베스터_스탤론 "wikilink") [커트 러셀이](https://ko.wikipedia.org/wiki/커트_러셀 "wikilink") 출연한다.\[1\] 이 영화는 2014년 6월 샌디에이고 코믹콘 인터내셔널에서 첫 번째 영화의 극장판 발매와 함께 첫 번째 영화에 이어 재합류한 건의 뒤를 이어 2015년 6월에 후속작 제목이 공식 발표 되었다. 본 촬영은 2016년 2월, 조지아 주 파예 카운티의 파인우드 애틀랜타 스튜디오에서 시작되었다. 배우들의 다른 일정으로 인해 첫 번째 영화에서 많은 변경 작업이 있었으며, 촬영은 2016년 6월에 종료됐다.
+《**가디언즈 오브 갤럭시 VOL. 2**》()는 2017년 공개된 [미국의](https://ko.wikipedia.org/wiki/미국_영화 "wikilink") [슈퍼히어로 영화이다](../Page/슈퍼히어로_영화.md "wikilink"). [마블 코믹스의](../Page/마블_코믹스.md "wikilink") [동명 슈퍼히어로 팀을](https://ko.wikipedia.org/wiki/가디언스_오브_더_갤럭시_\(2008년_팀\) "wikilink") 기반으로 한 영화로, [마블 스튜디오가](../Page/마블_스튜디오.md "wikilink") 제작하고 [월트 디즈니 스튜디오 모션 픽처스가](https://ko.wikipedia.org/wiki/월트_디즈니_스튜디오_모션_픽처스 "wikilink") 배급하였다. 2014년 영화 《[가디언즈 오브 갤럭시](../Page/가디언즈_오브_갤럭시_\(영화\).md "wikilink")》의 속편으로 [마블 시네마틱 유니버스](../Page/마블_시네마틱_유니버스.md "wikilink")(MCU)의 15번째 영화이다. [제임스 건이](../Page/제임스_건_\(영화_감독\).md "wikilink") 감독하고 각본을 썼으며, 이 영화의 [앙상블 캐스트로는](../Page/앙상블_캐스트.md "wikilink") [크리스 프랫](../Page/크리스_프랫.md "wikilink"), [조이 샐다나](https://ko.wikipedia.org/wiki/조이_샐다나 "wikilink"), [데이브 바티스타](../Page/데이브_바티스타.md "wikilink"), [빈 디젤](../Page/빈_디젤.md "wikilink"), [브래들리 쿠퍼](https://ko.wikipedia.org/wiki/브래들리_쿠퍼 "wikilink"), [마이클 루커](https://ko.wikipedia.org/wiki/마이클_루커 "wikilink"), [캐런 길런](../Page/캐런_길런.md "wikilink"), [폼 클레멘티프](https://ko.wikipedia.org/wiki/폼_클레멘티프 "wikilink"), [엘리자베스 데비키](../Page/엘리자베스_데비키.md "wikilink"), [크리스 설리번](../Page/크리스_설리번.md "wikilink"), [숀 건](https://ko.wikipedia.org/wiki/숀_건 "wikilink"), [실베스터 스탤론과](../Page/실베스터_스탤론.md "wikilink") [커트 러셀이](../Page/커트_러셀.md "wikilink") 출연한다.\[1\] 이 영화는 2014년 6월 샌디에이고 코믹콘 인터내셔널에서 첫 번째 영화의 극장판 발매와 함께 첫 번째 영화에 이어 재합류한 건의 뒤를 이어 2015년 6월에 후속작 제목이 공식 발표 되었다. 본 촬영은 2016년 2월, 조지아 주 파예 카운티의 파인우드 애틀랜타 스튜디오에서 시작되었다. 배우들의 다른 일정으로 인해 첫 번째 영화에서 많은 변경 작업이 있었으며, 촬영은 2016년 6월에 종료됐다.
 
 이 영화는 2017년 4월 10일 도쿄에서 초연되었으며, 5월 5일 미국에서 3D 및 IMAX 3D로 개봉 되었다. 전 세계적으로 8억 6,300만 달러를 벌어들여 2017년에 8번째로 높은 수익을 올린 영화가 되었으며, 전작과 비교해서도 더 높은 성과를 거뒀다. 비평가들은 원작에 비해서는 "신선하지 않은" 것으로 간주했지만 영화는 비주얼, 사운드 트랙 및 캐스트에 대한 찬사를 받았다. 또한 제90회 [미국 아카데미상에서](https://ko.wikipedia.org/wiki/미국_아카데미상 "wikilink") 최우수 시각효과상에 후보 지명되었다. 속편의, 가디언즈 오브 갤럭시 VOL. 3는 건이 감독과 각본을 다시 맡을 예정으로 개발 중에 있으며, 2022년에 개봉 될 예정이다.
 
@@ -15,24 +15,24 @@
 
 `왼쪽부터 루커, 프랫, 샐다나, 길런, 클레멘티프, 바티스타, 데비키, 러셀]]`
 
-  - [크리스 프랫](https://ko.wikipedia.org/wiki/크리스_프랫 "wikilink") - [피터 퀼 / 스타로드](../Page/스타로드.md "wikilink") 역
+  - [크리스 프랫](../Page/크리스_프랫.md "wikilink") - [피터 퀼 / 스타로드](../Page/스타로드.md "wikilink") 역
   - [조이 샐다나](https://ko.wikipedia.org/wiki/조이_샐다나 "wikilink") - [가모라](../Page/가모라.md "wikilink") 역
-  - [데이브 바티스타](https://ko.wikipedia.org/wiki/데이브_바티스타 "wikilink") - [드랙스](../Page/드랙스_더_디스트로이어.md "wikilink") 역
-  - [빈 디젤](https://ko.wikipedia.org/wiki/빈_디젤 "wikilink") - [그루트](../Page/그루트.md "wikilink") 역
+  - [데이브 바티스타](../Page/데이브_바티스타.md "wikilink") - [드랙스](../Page/드랙스_더_디스트로이어.md "wikilink") 역
+  - [빈 디젤](../Page/빈_디젤.md "wikilink") - [그루트](../Page/그루트.md "wikilink") 역
   - [브래들리 쿠퍼](https://ko.wikipedia.org/wiki/브래들리_쿠퍼 "wikilink") - [로켓](../Page/로켓_라쿤.md "wikilink") 역
   - [마이클 루커](https://ko.wikipedia.org/wiki/마이클_루커 "wikilink") - [욘두 우돈타](../Page/욘두.md "wikilink") 역
-  - [캐런 길런](https://ko.wikipedia.org/wiki/캐런_길런 "wikilink") - [네뷸러](../Page/네뷸러_\(마블_코믹스\).md "wikilink") 역
-  - [폼 클레멘티프](https://ko.wikipedia.org/wiki/폼_클레멘티프 "wikilink") - [맨티스](https://ko.wikipedia.org/wiki/맨티스 "wikilink") 역
+  - [캐런 길런](../Page/캐런_길런.md "wikilink") - [네뷸러](../Page/네뷸러_\(마블_코믹스\).md "wikilink") 역
+  - [폼 클레멘티프](https://ko.wikipedia.org/wiki/폼_클레멘티프 "wikilink") - [맨티스](../Page/맨티스.md "wikilink") 역
   - [엘리자베스 데비키](../Page/엘리자베스_데비키.md "wikilink") - [아이샤](https://ko.wikipedia.org/wiki/키스메트_\(마블_코믹스\) "wikilink") 역
-  - [크리스 설리번](https://ko.wikipedia.org/wiki/크리스_설리번 "wikilink") - [테이저페이스](https://ko.wikipedia.org/wiki/테이저페이스 "wikilink") 역
+  - [크리스 설리번](../Page/크리스_설리번.md "wikilink") - [테이저페이스](https://ko.wikipedia.org/wiki/테이저페이스 "wikilink") 역
   - [숀 건](https://ko.wikipedia.org/wiki/숀_건 "wikilink") - [크래글린](https://ko.wikipedia.org/wiki/크래글린 "wikilink") 역
-  - [실베스터 스탤론](https://ko.wikipedia.org/wiki/실베스터_스탤론 "wikilink") - [스타카르 오고르드](https://ko.wikipedia.org/wiki/스타호크_\(마블_코믹스\) "wikilink") 역
-  - [커트 러셀](https://ko.wikipedia.org/wiki/커트_러셀 "wikilink") - [에고](https://ko.wikipedia.org/wiki/살아있는_행성_이고 "wikilink") 역
+  - [실베스터 스탤론](../Page/실베스터_스탤론.md "wikilink") - [스타카르 오고르드](https://ko.wikipedia.org/wiki/스타호크_\(마블_코믹스\) "wikilink") 역
+  - [커트 러셀](../Page/커트_러셀.md "wikilink") - [에고](../Page/살아있는_행성_이고.md "wikilink") 역
 
 ## 제공
 
   - 수입/배급 : 월트디즈니컴퍼니코리아 유한책임회사
-  - 제작 : [마블 스튜디오](https://ko.wikipedia.org/wiki/마블_스튜디오 "wikilink")
+  - 제작 : [마블 스튜디오](../Page/마블_스튜디오.md "wikilink")
 
 ## 각주
 

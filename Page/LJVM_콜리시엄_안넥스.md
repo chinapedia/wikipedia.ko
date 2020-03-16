@@ -1,6 +1,6 @@
 > This article is converted from Wikipedia: [LJVM  ](https://ko.wikipedia.org/wiki/LJVM__).
 
 
-**LJVM 콜리시엄 안넥스**(LJVM Coliseum Annex)는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [노스캐롤라이나주](https://ko.wikipedia.org/wiki/노스캐롤라이나주 "wikilink") [윈스턴-세일럼에](https://ko.wikipedia.org/wiki/윈스턴세일럼 "wikilink") 위치한 실내 경기장이다. 과거 [SPHL](../Page/서던_프로페셔널_하키_리그.md "wikilink") [트윈 시티 사이클론즈의](https://ko.wikipedia.org/wiki/트윈_시티_사이클론즈 "wikilink") 홈경기장으로 사용했으면, 2017년부터 [FHL](../Page/페더럴_하키_리그.md "wikilink") [캐롤라이나 선더버즈의](https://ko.wikipedia.org/wiki/캐롤라이나_선더버즈 "wikilink") 홈경기장으로 사용할 예정이다.
+**LJVM 콜리시엄 안넥스**(LJVM Coliseum Annex)는 [미국](../Page/미국.md "wikilink") [노스캐롤라이나주](../Page/노스캐롤라이나주.md "wikilink") [윈스턴-세일럼에](../Page/윈스턴세일럼.md "wikilink") 위치한 실내 경기장이다. 과거 [SPHL](../Page/서던_프로페셔널_하키_리그.md "wikilink") [트윈 시티 사이클론즈의](https://ko.wikipedia.org/wiki/트윈_시티_사이클론즈 "wikilink") 홈경기장으로 사용했으면, 2017년부터 [FHL](../Page/페더럴_하키_리그.md "wikilink") [캐롤라이나 선더버즈의](https://ko.wikipedia.org/wiki/캐롤라이나_선더버즈 "wikilink") 홈경기장으로 사용할 예정이다.
 
 [분류:1989년 설립](https://ko.wikipedia.org/wiki/분류:1989년_설립 "wikilink") [분류:미국의 농구 경기장](https://ko.wikipedia.org/wiki/분류:미국의_농구_경기장 "wikilink") [분류:미국의 아이스하키 경기장](https://ko.wikipedia.org/wiki/분류:미국의_아이스하키_경기장 "wikilink") [분류:미국의 실내 경기장](https://ko.wikipedia.org/wiki/분류:미국의_실내_경기장 "wikilink") [분류:센트럴 하키 리그](https://ko.wikipedia.org/wiki/분류:센트럴_하키_리그 "wikilink") [분류:페더럴 하키 리그](https://ko.wikipedia.org/wiki/분류:페더럴_하키_리그 "wikilink") [분류:1989년 완공된 스포츠 시설](https://ko.wikipedia.org/wiki/분류:1989년_완공된_스포츠_시설 "wikilink")

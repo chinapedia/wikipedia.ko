@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [  \(AHL\)](https://ko.wikipedia.org/wiki/__\(AHL\)).
 
 
-**피오리아 리버멘**(Peoria Rivermen)는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [일리노이주](https://ko.wikipedia.org/wiki/일리노이주 "wikilink") [피오리아를](https://ko.wikipedia.org/wiki/피오리아_\(일리노이주\) "wikilink") 연고지로 하는 2005년부터 2013년까지 [AHL](../Page/아메리칸_하키_리그.md "wikilink") 소속되었던 아이스 하키팀이다.
+**피오리아 리버멘**(Peoria Rivermen)는 [미국](../Page/미국.md "wikilink") [일리노이주](../Page/일리노이주.md "wikilink") [피오리아를](../Page/피오리아_\(일리노이주\).md "wikilink") 연고지로 하는 2005년부터 2013년까지 [AHL](../Page/아메리칸_하키_리그.md "wikilink") 소속되었던 아이스 하키팀이다.
 
-2013년 연고지를 [뉴욕주](https://ko.wikipedia.org/wiki/뉴욕주 "wikilink") [유티카](https://ko.wikipedia.org/wiki/유티카 "wikilink") ([유티카 코메츠](../Page/유티카_코메츠.md "wikilink"))로 이전했다.
+2013년 연고지를 [뉴욕주](../Page/뉴욕주.md "wikilink") [유티카](https://ko.wikipedia.org/wiki/유티카 "wikilink") ([유티카 코메츠](../Page/유티카_코메츠.md "wikilink"))로 이전했다.
 
 ## 역대 홈경기장
 
