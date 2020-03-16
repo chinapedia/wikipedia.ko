@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Don\'t Stop \'Til You Get Enough](https://ko.wikipedia.org/wiki/Don\'t_Stop_\'Til_You_Get_Enough).
 
 
-〈**Don't Stop 'Til You Get Enough**〉는 [마이클 잭슨의](https://ko.wikipedia.org/wiki/마이클_잭슨 "wikilink") 음반 《[Off the Wall](https://ko.wikipedia.org/wiki/Off_the_Wall "wikilink")》에 실린 노래이다. 1979년 7월 28일 [에픽 레코즈를](https://ko.wikipedia.org/wiki/에픽_레코즈 "wikilink") 통해 발매된 이 노래는 잭슨의 5번째 스튜디오 음반 [Off the Wall](https://ko.wikipedia.org/wiki/Off_the_Wall "wikilink")(1979년)의 5번째 곡이다. 잭슨의 최초의 솔로 녹음곡이다.
+〈**Don't Stop 'Til You Get Enough**〉는 [마이클 잭슨의](https://ko.wikipedia.org/wiki/마이클_잭슨 "wikilink") 음반 《[Off the Wall](../Page/Off_the_Wall.md "wikilink")》에 실린 노래이다. 1979년 7월 28일 [에픽 레코즈를](https://ko.wikipedia.org/wiki/에픽_레코즈 "wikilink") 통해 발매된 이 노래는 잭슨의 5번째 스튜디오 음반 [Off the Wall](../Page/Off_the_Wall.md "wikilink")(1979년)의 5번째 곡이다. 잭슨의 최초의 솔로 녹음곡이다.
 
 ## 뮤직비디오
 

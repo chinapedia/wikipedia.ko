@@ -7,7 +7,7 @@
 
 1972년 [콜린 몰딩과](https://ko.wikipedia.org/wiki/콜린_몰딩 "wikilink") [앤디 파트리지를](https://ko.wikipedia.org/wiki/앤디_파트리지 "wikilink") 중심으로 스윈던에서 결성되었다. 헬륨 키즈나 스타 파크로 활동하면서 [NME](https://ko.wikipedia.org/wiki/NME "wikilink")에서 '주목할만한 지방 밴드'에 실리는 성과를 얻다가 1976년 키보디스트를 영입해 XTC로 확정하고 정식으로 발족했다. 초창기에는 [뉴욕 돌즈](https://ko.wikipedia.org/wiki/뉴욕_돌즈 "wikilink") 같은 글램 록을 했다. 1977년 [버진 레코드와](https://ko.wikipedia.org/wiki/버진_레코드 "wikilink") 계약을 체결한 그들은 때마침 일어난 펑크 록과 포스트 펑크 붐에 힘입어 데뷔 앨범인 [White Music을](https://ko.wikipedia.org/wiki/White_Music "wikilink") 발매한다.
 
-세번째 앨범 [Drums and Wires에서](https://ko.wikipedia.org/wiki/Drums_and_Wires "wikilink") 데이브 그레고리가 합류하면서 1960년대 풍 기타 사운드를 내세운 이들은 후에 [U2](https://ko.wikipedia.org/wiki/U2 "wikilink") 프로듀서로 유명해지는 [스티브 릴리화이트를](https://ko.wikipedia.org/wiki/스티브_릴리화이트 "wikilink") 기용하고 송라이팅에서도 발전을 이뤄내면서 호평을 듣게 된다.
+세번째 앨범 [Drums and Wires에서](https://ko.wikipedia.org/wiki/Drums_and_Wires "wikilink") 데이브 그레고리가 합류하면서 1960년대 풍 기타 사운드를 내세운 이들은 후에 [U2](../Page/U2.md "wikilink") 프로듀서로 유명해지는 [스티브 릴리화이트를](https://ko.wikipedia.org/wiki/스티브_릴리화이트 "wikilink") 기용하고 송라이팅에서도 발전을 이뤄내면서 호평을 듣게 된다.
 
 다음으로 내놓은 [Black Sea와](https://ko.wikipedia.org/wiki/Black_Sea "wikilink") [English Settlement도](https://ko.wikipedia.org/wiki/English_Settlement "wikilink") 좋은 평가를 받았지만 1982년 [앤디 파트리지가](https://ko.wikipedia.org/wiki/앤디_파트리지 "wikilink") 약물 중독으로 발생한 정신적으로 문제가 생겨서 공연을 안 하겠다고 선언한다.
 

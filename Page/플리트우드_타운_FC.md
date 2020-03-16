@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
 
 
-**플리트우드 타운 FC**(Fleetwood Town Football Club)는 [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink") [랭커셔주](https://ko.wikipedia.org/wiki/랭커셔주 "wikilink") 플리트우드를 연고로 하는 축구 클럽이다.
+**플리트우드 타운 FC**(Fleetwood Town Football Club)는 [잉글랜드](../Page/잉글랜드.md "wikilink") [랭커셔주](https://ko.wikipedia.org/wiki/랭커셔주 "wikilink") 플리트우드를 연고로 하는 축구 클럽이다.
 
 ## 성적
 

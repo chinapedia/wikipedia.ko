@@ -1,80 +1,80 @@
 > This article is converted from Wikipedia: [Juice=Juice](https://ko.wikipedia.org/wiki/Juice=Juice).
 
 
-**Juice=Juice**(쥬스=쥬스)는 [헬로\! 프로젝트에](https://ko.wikipedia.org/wiki/헬로!_프로젝트 "wikilink") 소속된 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [여성](https://ko.wikipedia.org/wiki/여성 "wikilink") 8인조 [아이돌](https://ko.wikipedia.org/wiki/아이돌_가수 "wikilink") [그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink").
+**Juice=Juice**(쥬스=쥬스)는 [헬로\! 프로젝트에](../Page/헬로!_프로젝트.md "wikilink") 소속된 [일본](../Page/일본.md "wikilink")의 [여성](../Page/여성.md "wikilink") 8인조 [아이돌](https://ko.wikipedia.org/wiki/아이돌_가수 "wikilink") [그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink").
 
 ## 개요
 
   - 결성 이전
 
-[미야자키 유카](../Page/미야자키_유카.md "wikilink") 이외의 멤버는 헬로\! 프로젝트의 연수생인「[하로프로 연수생](https://ko.wikipedia.org/wiki/하로프로_연수생 "wikilink")」조이다. [미야모토 카린](../Page/미야모토_카린.md "wikilink"), [타카기 사유키는](../Page/타카기_사유키.md "wikilink") 하로프로 연수생의 전신인 [하로프로에그](https://ko.wikipedia.org/wiki/하로프로에그 "wikilink") 시대에서 재적하고 있으며, 미야모토는 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [11월](https://ko.wikipedia.org/wiki/11월 "wikilink"), 타카기는 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") 11월에 가입되어 있다. 미야모토는 자신이 [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink")。와 [스마이레지](https://ko.wikipedia.org/wiki/스마이레지 "wikilink")의 추가 멤버 오디션에 합격할 수 없는 가운데, 하로프로에그 · 하로프로 연수생의 후배가 먼저 데뷔하는 것을 보고 "길을 잃어 버린 느낌"이 되었다고 나중에 밝혀, 다카키도 같은 상황에서 "그만두는 게 좋을까 망설였습니다"라고 말하고 있다.
+[미야자키 유카](../Page/미야자키_유카.md "wikilink") 이외의 멤버는 헬로\! 프로젝트의 연수생인「[하로프로 연수생](../Page/하로프로_연수생.md "wikilink")」조이다. [미야모토 카린](../Page/미야모토_카린.md "wikilink"), [타카기 사유키는](../Page/타카기_사유키.md "wikilink") 하로프로 연수생의 전신인 [하로프로에그](https://ko.wikipedia.org/wiki/하로프로에그 "wikilink") 시대에서 재적하고 있으며, 미야모토는 [2008년](../Page/2008년.md "wikilink") [11월](../Page/11월.md "wikilink"), 타카기는 [2009년](../Page/2009년.md "wikilink") 11월에 가입되어 있다. 미야모토는 자신이 [모닝구무스메](../Page/모닝구무스메.md "wikilink")。와 [스마이레지](https://ko.wikipedia.org/wiki/스마이레지 "wikilink")의 추가 멤버 오디션에 합격할 수 없는 가운데, 하로프로에그 · 하로프로 연수생의 후배가 먼저 데뷔하는 것을 보고 "길을 잃어 버린 느낌"이 되었다고 나중에 밝혀, 다카키도 같은 상황에서 "그만두는 게 좋을까 망설였습니다"라고 말하고 있다.
 
-[우에무라 아카리와](../Page/우에무라_아카리.md "wikilink") [오오츠카 아이나는](https://ko.wikipedia.org/wiki/오오츠카_아이나 "wikilink") [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink")에 모닝구무스메。9기 멤버 오디션을 받아 낙선했지만 하로프로 연수생이 되었다. [카나자와 토모코는](../Page/카나자와_토모코.md "wikilink") [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 11월에 하로프로 연수생이 된 것으로 밝혀져 그로부터 약 3개월 만에 Juice=Juice의 멤버가 되었다. 미야자키 유카는 2012년에「SATOYAMA movement」의 유닛 "[GREEN FIELDS](https://ko.wikipedia.org/wiki/GREEN_FIELDS "wikilink")"의 멤버가 되어, 이 유닛으로서 헬로\! 프로젝트 콘서트에 참석했다가 Juice=Juice 가입이 결정되었다.
+[우에무라 아카리와](../Page/우에무라_아카리.md "wikilink") [오오츠카 아이나는](../Page/오오츠카_아이나.md "wikilink") [2010년](../Page/2010년.md "wikilink")에 모닝구무스메。9기 멤버 오디션을 받아 낙선했지만 하로프로 연수생이 되었다. [카나자와 토모코는](../Page/카나자와_토모코.md "wikilink") [2012년](../Page/2012년.md "wikilink") 11월에 하로프로 연수생이 된 것으로 밝혀져 그로부터 약 3개월 만에 Juice=Juice의 멤버가 되었다. 미야자키 유카는 2012년에「SATOYAMA movement」의 유닛 "[GREEN FIELDS](https://ko.wikipedia.org/wiki/GREEN_FIELDS "wikilink")"의 멤버가 되어, 이 유닛으로서 헬로\! 프로젝트 콘서트에 참석했다가 Juice=Juice 가입이 결정되었다.
 
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink")
-
-<!-- end list -->
-
-  - [2월 3일](https://ko.wikipedia.org/wiki/2월_3일 "wikilink"), 후쿠오카 국제회의장 메인 홀에서 행해진 헬로\! 프로젝트의 콘서트에서 하로프로 연수생의 카나자와 토모코, 타카기 사유키, 오오츠카 아이나, 미야모토 카린, 우에무라 아카리의 5명과 미야자키 유카의 합계 6명에 의해 신유닛이 결성되는 것이 발표되었다\[1\].
-  - [2월 25일](https://ko.wikipedia.org/wiki/2월_25일 "wikilink"), 그룹명이「Juice=Juice」이며, 당면 인디즈 활동을 해 나간다고 할 방침이며, [3월 2일에](https://ko.wikipedia.org/wiki/3월_2일 "wikilink") 행해지는「Hello\! Project 봄의 대감사 히나마츠리 페스티벌 2013 \~전야제\~」에서 그룹의 첫 피로를 하는 것이 발표되었다\[2\]. 프로듀서 [층쿠♂는](https://ko.wikipedia.org/wiki/쓴쿠 "wikilink") 그룹명에 대해「얻은 지 얼마 안되는」,「목이 타게」,「신선」,「천연」,「100%」로「짜 세워」라고 하듯이 언제까지나 신선하고 개성이 찬 유닛이 되었으면 한다고 정하였다\[3\].
-  - [3월 2일](https://ko.wikipedia.org/wiki/3월_2일 "wikilink"), 상술한 대로「Hello\! Project 봄의 대감사제 히나마츠리 페스티벌 2013 \~전야제\~」에 출연. 인디즈 데뷔곡「私が言う前に抱きしめなきゃね」를 첫 피로.
-  - [6월 13일](https://ko.wikipedia.org/wiki/6월_13일 "wikilink"), 첫 오픈 스페이스(이케부쿠로 선샤인 시티 알피 분수 광장)이벤트를 개최해, 7월에「ロマンスの途中」에 메이저 데뷔, 리더 미야자키 유카와 서브리더 카네자와 토모코의 취임을 발표했다\[4\].
-  - [7월 5일](https://ko.wikipedia.org/wiki/7월_5일 "wikilink"), 오오츠카 아이나가 Juice=Juice와 하로프로 연수생에서 탈퇴하는 것을 발표하였다\[5\].
-  - [9월 11일](https://ko.wikipedia.org/wiki/9월_11일 "wikilink"), 트리플 A면 싱글「ロマンスの途中／私が言う前に抱きしめなきゃね (MEMORIAL EDIT)／五月雨美女がさ乱れる (MEMORIAL EDIT)」로 메이저 데뷔.
-  - 11월, 제55회 [일본 레코드 대상](https://ko.wikipedia.org/wiki/일본_레코드_대상 "wikilink") 신인상을 수상하였다.
+  - [2013년](../Page/2013년.md "wikilink")
 
 <!-- end list -->
 
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink")
+  - [2월 3일](../Page/2월_3일.md "wikilink"), 후쿠오카 국제회의장 메인 홀에서 행해진 헬로\! 프로젝트의 콘서트에서 하로프로 연수생의 카나자와 토모코, 타카기 사유키, 오오츠카 아이나, 미야모토 카린, 우에무라 아카리의 5명과 미야자키 유카의 합계 6명에 의해 신유닛이 결성되는 것이 발표되었다\[1\].
+  - [2월 25일](../Page/2월_25일.md "wikilink"), 그룹명이「Juice=Juice」이며, 당면 인디즈 활동을 해 나간다고 할 방침이며, [3월 2일에](../Page/3월_2일.md "wikilink") 행해지는「Hello\! Project 봄의 대감사 히나마츠리 페스티벌 2013 \~전야제\~」에서 그룹의 첫 피로를 하는 것이 발표되었다\[2\]. 프로듀서 [층쿠♂는](https://ko.wikipedia.org/wiki/쓴쿠 "wikilink") 그룹명에 대해「얻은 지 얼마 안되는」,「목이 타게」,「신선」,「천연」,「100%」로「짜 세워」라고 하듯이 언제까지나 신선하고 개성이 찬 유닛이 되었으면 한다고 정하였다\[3\].
+  - [3월 2일](../Page/3월_2일.md "wikilink"), 상술한 대로「Hello\! Project 봄의 대감사제 히나마츠리 페스티벌 2013 \~전야제\~」에 출연. 인디즈 데뷔곡「私が言う前に抱きしめなきゃね」를 첫 피로.
+  - [6월 13일](../Page/6월_13일.md "wikilink"), 첫 오픈 스페이스(이케부쿠로 선샤인 시티 알피 분수 광장)이벤트를 개최해, 7월에「ロマンスの途中」에 메이저 데뷔, 리더 미야자키 유카와 서브리더 카네자와 토모코의 취임을 발표했다\[4\].
+  - [7월 5일](../Page/7월_5일.md "wikilink"), 오오츠카 아이나가 Juice=Juice와 하로프로 연수생에서 탈퇴하는 것을 발표하였다\[5\].
+  - [9월 11일](../Page/9월_11일.md "wikilink"), 트리플 A면 싱글「ロマンスの途中／私が言う前に抱きしめなきゃね (MEMORIAL EDIT)／五月雨美女がさ乱れる (MEMORIAL EDIT)」로 메이저 데뷔.
+  - 11월, 제55회 [일본 레코드 대상](../Page/일본_레코드_대상.md "wikilink") 신인상을 수상하였다.
 
 <!-- end list -->
 
-  - [3월 21일](https://ko.wikipedia.org/wiki/3월_21일 "wikilink"), 이케부쿠로 선샤인시티에서 행해진「裸の裸の裸のKISS／アレコレしたい\!」발매기념 이벤트에서 단독 라이브 개최가 발표되었다.
+  - [2014년](../Page/2014년.md "wikilink")
 
 <!-- end list -->
 
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink")
+  - [3월 21일](../Page/3월_21일.md "wikilink"), 이케부쿠로 선샤인시티에서 행해진「裸の裸の裸のKISS／アレコレしたい\!」발매기념 이벤트에서 단독 라이브 개최가 발표되었다.
 
 <!-- end list -->
 
-  - [4월 14일](https://ko.wikipedia.org/wiki/4월_14일 "wikilink"), 6th 싱글「Wonderful World／Ça va ? Ça va ?」([4월 8일](https://ko.wikipedia.org/wiki/4월_8일 "wikilink") 발매)가 [오리콘](https://ko.wikipedia.org/wiki/오리콘 "wikilink") 주간 싱글 차트에서 첫 1위를 획득했다.
+  - [2015년](../Page/2015년.md "wikilink")
 
 <!-- end list -->
 
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink")
+  - [4월 14일](../Page/4월_14일.md "wikilink"), 6th 싱글「Wonderful World／Ça va ? Ça va ?」([4월 8일](../Page/4월_8일.md "wikilink") 발매)가 [오리콘](../Page/오리콘.md "wikilink") 주간 싱글 차트에서 첫 1위를 획득했다.
 
 <!-- end list -->
 
-  - [6월 26일](https://ko.wikipedia.org/wiki/6월_26일 "wikilink"), 하로프로 연수생의 [단바라 루루가](https://ko.wikipedia.org/wiki/단바라_루루 "wikilink") 신멤버로 가입, [컨트리걸즈](../Page/컨트리걸즈.md "wikilink")의 [야나가와 나나미가](https://ko.wikipedia.org/wiki/야나가와_나나미 "wikilink") 컨트리걸즈 겸임\[6\].
+  - [2017년](../Page/2017년.md "wikilink")
 
 <!-- end list -->
 
-  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink")
+  - [6월 26일](../Page/6월_26일.md "wikilink"), 하로프로 연수생의 [단바라 루루가](../Page/단바라_루루.md "wikilink") 신멤버로 가입, [컨트리걸즈](../Page/컨트리걸즈.md "wikilink")의 [야나가와 나나미가](../Page/야나가와_나나미.md "wikilink") 컨트리걸즈 겸임\[6\].
 
 <!-- end list -->
 
-  - [6월 13일](https://ko.wikipedia.org/wiki/6월_13일 "wikilink"), [이나바 마나카가](../Page/이나바_마나카.md "wikilink") 신멤버로 가입\[7\].
-  - [11월 2일](https://ko.wikipedia.org/wiki/11월_2일 "wikilink"), 야나가와 나나미가 Juice=Juice와 컨트리걸즈, 헬로\! 프로젝트를 졸업을 발표하였다\[8\].
-  - [12월 21일](https://ko.wikipedia.org/wiki/12월_21일 "wikilink"), 미야자키 유카가 [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") 봄 라이브 투어 최종일을 기해 Juice=Juice와 헬로\! 프로젝트를 졸업을 발표하였다\[9\]. 졸업 후에도 연예 활동을 계속하게 된다.
+  - [2018년](../Page/2018년.md "wikilink")
 
 <!-- end list -->
 
-  - [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink")
+  - [6월 13일](../Page/6월_13일.md "wikilink"), [이나바 마나카가](../Page/이나바_마나카.md "wikilink") 신멤버로 가입\[7\].
+  - [11월 2일](../Page/11월_2일.md "wikilink"), 야나가와 나나미가 Juice=Juice와 컨트리걸즈, 헬로\! 프로젝트를 졸업을 발표하였다\[8\].
+  - [12월 21일](../Page/12월_21일.md "wikilink"), 미야자키 유카가 [2019년](../Page/2019년.md "wikilink") 봄 라이브 투어 최종일을 기해 Juice=Juice와 헬로\! 프로젝트를 졸업을 발표하였다\[9\]. 졸업 후에도 연예 활동을 계속하게 된다.
 
 <!-- end list -->
 
-  - [3월 11일](https://ko.wikipedia.org/wiki/3월_11일 "wikilink"), 야나가와 나나미가 [Zepp Tokyo에서](https://ko.wikipedia.org/wiki/Zepp_Tokyo "wikilink") 행해진「Juice=Juice & 컨트리걸즈 LIVE \~야나가와 나나미 졸업 스페셜\~」을 기해 Juice=Juice와 컨트리걸즈, 헬로\! 프로젝트를 졸업하였다.
-  - [6월 12일](https://ko.wikipedia.org/wiki/6월_12일 "wikilink"), 동년 [6월 18일부터](https://ko.wikipedia.org/wiki/6월_18일 "wikilink") 카나자와 토모코가 2대 리더, 타카키 사유키가 2대 서브리더에 취임하는 것이 발표.
-  - [6월 14일](https://ko.wikipedia.org/wiki/6월_14일 "wikilink"), 하로프로 연수생 홋카이도의 쿠도 유메와 하로프로 연수생의 마츠나가 리아이가 신멤버로 가입\[10\].
-  - [6월 17일](https://ko.wikipedia.org/wiki/6월_17일 "wikilink"), 리더인 미야자키 유카가 [일본 무도관에서](https://ko.wikipedia.org/wiki/일본_무도관 "wikilink") 행해진「하로프로 프리미엄 Juice=Juice CONCERT TOUR 2019 \~JuiceFull\!\!\!\!\!\!\!\~ FINAL 미야자키 유카 졸업 스페셜」을 기해 Juice=Juice와 헬로\! 프로젝트를 졸업.
+  - [2019년](../Page/2019년.md "wikilink")
 
 <!-- end list -->
 
-  - [2020년](https://ko.wikipedia.org/wiki/2020년 "wikilink")
+  - [3월 11일](../Page/3월_11일.md "wikilink"), 야나가와 나나미가 [Zepp Tokyo에서](https://ko.wikipedia.org/wiki/Zepp_Tokyo "wikilink") 행해진「Juice=Juice & 컨트리걸즈 LIVE \~야나가와 나나미 졸업 스페셜\~」을 기해 Juice=Juice와 컨트리걸즈, 헬로\! 프로젝트를 졸업하였다.
+  - [6월 12일](../Page/6월_12일.md "wikilink"), 동년 [6월 18일부터](../Page/6월_18일.md "wikilink") 카나자와 토모코가 2대 리더, 타카키 사유키가 2대 서브리더에 취임하는 것이 발표.
+  - [6월 14일](../Page/6월_14일.md "wikilink"), 하로프로 연수생 홋카이도의 쿠도 유메와 하로프로 연수생의 마츠나가 리아이가 신멤버로 가입\[10\].
+  - [6월 17일](../Page/6월_17일.md "wikilink"), 리더인 미야자키 유카가 [일본 무도관에서](https://ko.wikipedia.org/wiki/일본_무도관 "wikilink") 행해진「하로프로 프리미엄 Juice=Juice CONCERT TOUR 2019 \~JuiceFull\!\!\!\!\!\!\!\~ FINAL 미야자키 유카 졸업 스페셜」을 기해 Juice=Juice와 헬로\! 프로젝트를 졸업.
 
 <!-- end list -->
 
-  - [2월 10일](https://ko.wikipedia.org/wiki/2월_10일 "wikilink"), 미야모토 카린이 [6월](https://ko.wikipedia.org/wiki/6월 "wikilink")을 기해 Juice=Juice와 헬로\! 프로젝트를 졸업을 발표하였다\[11\]. 졸업 후에도 연예 활동을 계속하게 된다.
+  - [2020년](../Page/2020년.md "wikilink")
+
+<!-- end list -->
+
+  - [2월 10일](../Page/2월_10일.md "wikilink"), 미야모토 카린이 [6월](../Page/6월.md "wikilink")을 기해 Juice=Juice와 헬로\! 프로젝트를 졸업을 발표하였다\[11\]. 졸업 후에도 연예 활동을 계속하게 된다.
 
 ## 구성원
 
@@ -113,8 +113,8 @@
 
 <!-- end list -->
 
-1.  私が言う前に抱きしめなきゃね ([2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [3월 31일](https://ko.wikipedia.org/wiki/3월_31일 "wikilink") 선행 판매 / [4월 3일](https://ko.wikipedia.org/wiki/4월_3일 "wikilink") 일반 발매)
-2.  五月雨美女がさ乱れる (2013년 [5월 5일](https://ko.wikipedia.org/wiki/5월_5일 "wikilink") 선행 판매 / [5월 8일](https://ko.wikipedia.org/wiki/5월_8일 "wikilink") 한정 판매 / [6월 12일](https://ko.wikipedia.org/wiki/6월_12일 "wikilink") 일반 발매)
+1.  私が言う前に抱きしめなきゃね ([2013년](../Page/2013년.md "wikilink") [3월 31일](../Page/3월_31일.md "wikilink") 선행 판매 / [4월 3일](../Page/4월_3일.md "wikilink") 일반 발매)
+2.  五月雨美女がさ乱れる (2013년 [5월 5일](../Page/5월_5일.md "wikilink") 선행 판매 / [5월 8일](../Page/5월_8일.md "wikilink") 한정 판매 / [6월 12일](../Page/6월_12일.md "wikilink") 일반 발매)
 3.  天まで登れ\! (2013년 6월 12일 e-LineUP\! 한정 발매) - 하로프로 연수생 feat. Juice=Juice 명의
       - 오오츠카 아이나 마지막 참가 싱글
 
@@ -124,36 +124,36 @@
 
 <!-- end list -->
 
-1.  ロマンスの途中／私が言う前に抱きしめなきゃね (MEMORIAL EDIT)／五月雨美女がさ乱れる (MEMORIAL EDIT) (2013년 [9월 11일](https://ko.wikipedia.org/wiki/9월_11일 "wikilink"))
+1.  ロマンスの途中／私が言う前に抱きしめなきゃね (MEMORIAL EDIT)／五月雨美女がさ乱れる (MEMORIAL EDIT) (2013년 [9월 11일](../Page/9월_11일.md "wikilink"))
       - 트리플 A 사이드 (A면) 싱글. 커플링 곡은 없음.
-2.  イジワルしないで 抱きしめてよ／初めてを経験中 (2013년 [12월 4일](https://ko.wikipedia.org/wiki/12월_4일 "wikilink"))
+2.  イジワルしないで 抱きしめてよ／初めてを経験中 (2013년 [12월 4일](../Page/12월_4일.md "wikilink"))
       - 양 A면 싱글. 커플링 곡은 없음.
-3.  裸の裸の裸のKISS／アレコレしたい\! ([2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [3월 19일](https://ko.wikipedia.org/wiki/3월_19일 "wikilink"))
+3.  裸の裸の裸のKISS／アレコレしたい\! ([2014년](../Page/2014년.md "wikilink") [3월 19일](../Page/3월_19일.md "wikilink"))
       - 양 A면 싱글. 커플링 곡은 없음.
-4.  ブラックバタフライ／風に吹かれて (2014년 [7월 30일](https://ko.wikipedia.org/wiki/7월_30일 "wikilink"))
+4.  ブラックバタフライ／風に吹かれて (2014년 [7월 30일](../Page/7월_30일.md "wikilink"))
       - 양 A면 싱글. 커플링 곡은 없음.
-5.  背伸び／伊達じゃないよ うちの人生は (2014년 [10월 1일](https://ko.wikipedia.org/wiki/10월_1일 "wikilink"))
+5.  背伸び／伊達じゃないよ うちの人生は (2014년 [10월 1일](../Page/10월_1일.md "wikilink"))
       - 양 A면 싱글. 커플링 곡은 없음.
-6.  Wonderful World／Ça va ? Ça va ? ([2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [4월 8일](https://ko.wikipedia.org/wiki/4월_8일 "wikilink"))
+6.  Wonderful World／Ça va ? Ça va ? ([2015년](../Page/2015년.md "wikilink") [4월 8일](../Page/4월_8일.md "wikilink"))
       - 양 A면 싱글. 커플링 곡은 없음.
-7.  Next is you\!／カラダだけが大人になったんじゃない ([2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [2월 3일](https://ko.wikipedia.org/wiki/2월_3일 "wikilink"))
+7.  Next is you\!／カラダだけが大人になったんじゃない ([2016년](../Page/2016년.md "wikilink") [2월 3일](../Page/2월_3일.md "wikilink"))
       - 양 A면 싱글. 커플링 곡은 없음.
           - Next is you\!는 "NEXT YOU" 명의로 수록된다.
-8.  Dream Road～心が躍り出してる～／KEEP ON 上昇志向\!\!／明日やろうはバカやろう (2016년 [10월 26일](https://ko.wikipedia.org/wiki/10월_26일 "wikilink"))
+8.  Dream Road～心が躍り出してる～／KEEP ON 上昇志向\!\!／明日やろうはバカやろう (2016년 [10월 26일](../Page/10월_26일.md "wikilink"))
       - 트리플 A 사이드 (A면) 싱글. 커플링 곡은 없음.
-9.  地団駄ダンス／Feel\! 感じるよ ([2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [4월 26일](https://ko.wikipedia.org/wiki/4월_26일 "wikilink"))
+9.  地団駄ダンス／Feel\! 感じるよ ([2017년](../Page/2017년.md "wikilink") [4월 26일](../Page/4월_26일.md "wikilink"))
       - 양 A면 싱글. 커플링 곡은 없음.
-10. SEXY SEXY／泣いていいよ／Vivid Midnight ([2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [4월 18일](https://ko.wikipedia.org/wiki/4월_18일 "wikilink"))
+10. SEXY SEXY／泣いていいよ／Vivid Midnight ([2018년](../Page/2018년.md "wikilink") [4월 18일](../Page/4월_18일.md "wikilink"))
       - 트리플 A 사이드 (A면) 싱글. 커플링 곡은 없음.
-11. 微炭酸／ポツリと／Good bye & Good luck\! ([2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [2월 13일](https://ko.wikipedia.org/wiki/2월_13일 "wikilink"))
+11. 微炭酸／ポツリと／Good bye & Good luck\! ([2019년](../Page/2019년.md "wikilink") [2월 13일](../Page/2월_13일.md "wikilink"))
       - 트리플 A 사이드 (A면) 싱글. 커플링 곡은 없음.
           - 이나바 마나카 첫 참가 싱글
           - 야나가와 나나미 마지막 참가 싱글
-12. 「ひとりで生きられそう」って それってねぇ、褒めているの?／25歳永遠説 (2019년 [6월 5일](https://ko.wikipedia.org/wiki/6월_5일 "wikilink"))
+12. 「ひとりで生きられそう」って それってねぇ、褒めているの?／25歳永遠説 (2019년 [6월 5일](../Page/6월_5일.md "wikilink"))
       - 양 A면 싱글. 커플링 곡은 없음.
           - 미야자키 유카 마지막 참가 싱글
-          - 2019년 [10월 23일](https://ko.wikipedia.org/wiki/10월_23일 "wikilink") 발매의 통상반 C에 쿠도 유메 · 마츠나가 리아이가 레코딩에 참가해, 새로 가창한 「ひとりで生きられそう」って それってねぇ、褒めているの? (New Vocal Ver.)이 수록.
-13. ポップミュージック／好きって言ってよ ([2020년](https://ko.wikipedia.org/wiki/2020년 "wikilink") [4월 1일](https://ko.wikipedia.org/wiki/4월_1일 "wikilink"))
+          - 2019년 [10월 23일](../Page/10월_23일.md "wikilink") 발매의 통상반 C에 쿠도 유메 · 마츠나가 리아이가 레코딩에 참가해, 새로 가창한 「ひとりで生きられそう」って それってねぇ、褒めているの? (New Vocal Ver.)이 수록.
+13. ポップミュージック／好きって言ってよ ([2020년](../Page/2020년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink"))
       - 양 A면 / 커플링 : 続いていくSTORY (Symphonic Version feat. Karin) / Borderline (통상반 A만) / Va-Va-Voom (통상반 B만)
           - 미야모토 카린 마지막 참가 싱글
 
@@ -167,60 +167,60 @@
 
 <!-- end list -->
 
-1.  [YEAH YEAH YEAH／憧れのStress-free／花、闌の時](https://ko.wikipedia.org/wiki/YEAH_YEAH_YEAH/동경의_Stress-free/꽃,_한창_때 "wikilink") (2018년 [9월 26일](https://ko.wikipedia.org/wiki/9월_26일 "wikilink"))
+1.  [YEAH YEAH YEAH／憧れのStress-free／花、闌の時](https://ko.wikipedia.org/wiki/YEAH_YEAH_YEAH/동경의_Stress-free/꽃,_한창_때 "wikilink") (2018년 [9월 26일](../Page/9월_26일.md "wikilink"))
       - 트리플 A 사이드 (A면) / 커플링 : ハロー\!ヒストリー
 
 ### 착신 싱글
 
-1.  Fiesta\! Fiesta\! (2017년 [8월 23일](https://ko.wikipedia.org/wiki/8월_23일 "wikilink"))
+1.  Fiesta\! Fiesta\! (2017년 [8월 23일](../Page/8월_23일.md "wikilink"))
       - 커플링 : Wonderful World (English Ver.)
           - 야나가와 나나미 · 단바라 루루 첫 참가 싱글
 
 ### 착신 한정
 
-1.  大人の事情 (2016년 [3월 2일](https://ko.wikipedia.org/wiki/3월_2일 "wikilink")) - NEXT YOU 명의
-2.  Goal～明日はあっちだよ～ (2017년 [5월 19일](https://ko.wikipedia.org/wiki/5월_19일 "wikilink"))
-3.  如雨露 (2017년 [6월 16일](https://ko.wikipedia.org/wiki/6월_16일 "wikilink"))
+1.  大人の事情 (2016년 [3월 2일](../Page/3월_2일.md "wikilink")) - NEXT YOU 명의
+2.  Goal～明日はあっちだよ～ (2017년 [5월 19일](../Page/5월_19일.md "wikilink"))
+3.  如雨露 (2017년 [6월 16일](../Page/6월_16일.md "wikilink"))
 
 ### 앨범
 
-1.  First Squeeze\! (2015년 [7월 15일](https://ko.wikipedia.org/wiki/7월_15일 "wikilink"))
-2.  Juice=Juice\#2 -¡Una más\!- (2018년 [8월 1일](https://ko.wikipedia.org/wiki/8월_1일 "wikilink"))
+1.  First Squeeze\! (2015년 [7월 15일](../Page/7월_15일.md "wikilink"))
+2.  Juice=Juice\#2 -¡Una más\!- (2018년 [8월 1일](../Page/8월_1일.md "wikilink"))
 
 ### 기타 미니 앨범
 
-1.  演劇女子部「ミュージカル 恋するハローキティ」オリジナルサウンドトラック (2014년 [11월 19일](https://ko.wikipedia.org/wiki/11월_19일 "wikilink") 선행 판매 / [12월 24일](https://ko.wikipedia.org/wiki/12월_24일 "wikilink") 일반 발매)
+1.  演劇女子部「ミュージカル 恋するハローキティ」オリジナルサウンドトラック (2014년 [11월 19일](../Page/11월_19일.md "wikilink") 선행 판매 / [12월 24일](../Page/12월_24일.md "wikilink") 일반 발매)
 
 ### DVD/Blu-ray
 
 #### 콘서트
 
-1.  ナルチカ2013秋 Berryz工房×Juice=Juice (2014년 [4월 16일](https://ko.wikipedia.org/wiki/4월_16일 "wikilink") DVD / Blu-ray)
-2.  10月10日はJuice=Juiceの日～1st Season～ (2015년 [3월 18일](https://ko.wikipedia.org/wiki/3월_18일 "wikilink"))
-3.  Juice=Juice ファーストライブツアー2015 ～Special Juice～ (2015년 [8월 5일](https://ko.wikipedia.org/wiki/8월_5일 "wikilink") DVD / Blu-ray)
-4.  Juice=Juice LIVE MISSION 220 in Taipei & Hong Kong (2016년 [3월 2일](https://ko.wikipedia.org/wiki/3월_2일 "wikilink"))
-5.  Juice=Juice LIVE MISSION 220 ～Code3 Special→Growing Up\!～ (2016년 [8월 17일](https://ko.wikipedia.org/wiki/8월_17일 "wikilink") DVD / Blu-ray)
-6.  Juice=Juice LIVE MISSION FINAL at 日本武道館 (2017년 [2월 22일](https://ko.wikipedia.org/wiki/2월_22일 "wikilink") DVD / Blu-ray)
-7.  Juice=Juice LIVE AROUND 2017 ～NEXT ONE SPECIAL～ (2017년 [8월 9일](https://ko.wikipedia.org/wiki/8월_9일 "wikilink") DVD / Blu-ray)
-8.  Juice=Juice LIVE AROUND 2017 FINAL at 日本武道館 ～Seven Squeeze\!～ (2018년 [3월 7일](https://ko.wikipedia.org/wiki/3월_7일 "wikilink") DVD / Blu-ray)
-9.  Juice=Juice LIVE AROUND 2017 ～World Tour～ (2018년 [4월 25일](https://ko.wikipedia.org/wiki/4월_25일 "wikilink"))
-10. Juice=Juice LIVE GEAR 2018 ～Go ahead SPECIAL～ (2018년 [9월 12일](https://ko.wikipedia.org/wiki/9월_12일 "wikilink") DVD / Blu-ray)
-11. OTODAMA SEA STUDIO 2018 ～J=J Summer Special～ (2018년 [12월 5일](https://ko.wikipedia.org/wiki/12월_5일 "wikilink"))
-12. Juice=Juice LIVE 2018 at NIPPON BUDOKAN TRIANGROOOVE (2019년 [2월 6일](https://ko.wikipedia.org/wiki/2월_6일 "wikilink") DVD / Blu-ray)
-13. Juice=Juice＆カントリー・ガールズ LIVE ～梁川奈々美 卒業スペシャル～ (2019년 [7월 10일](https://ko.wikipedia.org/wiki/7월_10일 "wikilink") DVD / Blu-ray)
-14. ハロプロ プレミアム Juice=Juice CONCERT TOUR 2019 ～JuiceFull\!\!\!\!\!\!\!～ FINAL 宮崎由加卒業スペシャル (2019년 [10월 16일](https://ko.wikipedia.org/wiki/10월_16일 "wikilink") DVD / Blu-ray)
-15. OTODAMA SEA STUDIO 2019 supported by POCARI SWEAT J=J Summer Special (2019년 [12월 11일](https://ko.wikipedia.org/wiki/12월_11일 "wikilink"))
-16. Juice=Juice Concert 2019 ～octopic\!～ (2020년 [4월 15일](https://ko.wikipedia.org/wiki/4월_15일 "wikilink") DVD / Blu-ray)
+1.  ナルチカ2013秋 Berryz工房×Juice=Juice (2014년 [4월 16일](../Page/4월_16일.md "wikilink") DVD / Blu-ray)
+2.  10月10日はJuice=Juiceの日～1st Season～ (2015년 [3월 18일](../Page/3월_18일.md "wikilink"))
+3.  Juice=Juice ファーストライブツアー2015 ～Special Juice～ (2015년 [8월 5일](../Page/8월_5일.md "wikilink") DVD / Blu-ray)
+4.  Juice=Juice LIVE MISSION 220 in Taipei & Hong Kong (2016년 [3월 2일](../Page/3월_2일.md "wikilink"))
+5.  Juice=Juice LIVE MISSION 220 ～Code3 Special→Growing Up\!～ (2016년 [8월 17일](../Page/8월_17일.md "wikilink") DVD / Blu-ray)
+6.  Juice=Juice LIVE MISSION FINAL at 日本武道館 (2017년 [2월 22일](../Page/2월_22일.md "wikilink") DVD / Blu-ray)
+7.  Juice=Juice LIVE AROUND 2017 ～NEXT ONE SPECIAL～ (2017년 [8월 9일](../Page/8월_9일.md "wikilink") DVD / Blu-ray)
+8.  Juice=Juice LIVE AROUND 2017 FINAL at 日本武道館 ～Seven Squeeze\!～ (2018년 [3월 7일](../Page/3월_7일.md "wikilink") DVD / Blu-ray)
+9.  Juice=Juice LIVE AROUND 2017 ～World Tour～ (2018년 [4월 25일](../Page/4월_25일.md "wikilink"))
+10. Juice=Juice LIVE GEAR 2018 ～Go ahead SPECIAL～ (2018년 [9월 12일](../Page/9월_12일.md "wikilink") DVD / Blu-ray)
+11. OTODAMA SEA STUDIO 2018 ～J=J Summer Special～ (2018년 [12월 5일](../Page/12월_5일.md "wikilink"))
+12. Juice=Juice LIVE 2018 at NIPPON BUDOKAN TRIANGROOOVE (2019년 [2월 6일](../Page/2월_6일.md "wikilink") DVD / Blu-ray)
+13. Juice=Juice＆カントリー・ガールズ LIVE ～梁川奈々美 卒業スペシャル～ (2019년 [7월 10일](../Page/7월_10일.md "wikilink") DVD / Blu-ray)
+14. ハロプロ プレミアム Juice=Juice CONCERT TOUR 2019 ～JuiceFull\!\!\!\!\!\!\!～ FINAL 宮崎由加卒業スペシャル (2019년 [10월 16일](../Page/10월_16일.md "wikilink") DVD / Blu-ray)
+15. OTODAMA SEA STUDIO 2019 supported by POCARI SWEAT J=J Summer Special (2019년 [12월 11일](../Page/12월_11일.md "wikilink"))
+16. Juice=Juice Concert 2019 ～octopic\!～ (2020년 [4월 15일](../Page/4월_15일.md "wikilink") DVD / Blu-ray)
 
 #### 솔로 DVD/Blu-ray
 
-1.  KArin 宮本佳林DVD (2014년 [7월 16일](https://ko.wikipedia.org/wiki/7월_16일 "wikilink"))
-2.  かりんは16歳 宮本佳林Blu-ray (2015년 [7월 22일](https://ko.wikipedia.org/wiki/7월_22일 "wikilink"))
-3.  あかり 植村あかりBlu-ray (2015년 [12월 16일](https://ko.wikipedia.org/wiki/12월_16일 "wikilink"))
-4.  Take It Early 植村あかりBlu-ray (2016년 [8월 17일](https://ko.wikipedia.org/wiki/8월_17일 "wikilink"))
-5.  bluest 宮本佳林Blu-ray (2016년 [11월 23일](https://ko.wikipedia.org/wiki/11월_23일 "wikilink"))
-6.  佳林=KARIN 宮本佳林Blu-ray (2018년 [12월 26일](https://ko.wikipedia.org/wiki/12월_26일 "wikilink"))
-7.  わたしのあしおと 梁川奈々美Blu-ray (2019년 [2월 27일](https://ko.wikipedia.org/wiki/2월_27일 "wikilink"))
+1.  KArin 宮本佳林DVD (2014년 [7월 16일](../Page/7월_16일.md "wikilink"))
+2.  かりんは16歳 宮本佳林Blu-ray (2015년 [7월 22일](../Page/7월_22일.md "wikilink"))
+3.  あかり 植村あかりBlu-ray (2015년 [12월 16일](../Page/12월_16일.md "wikilink"))
+4.  Take It Early 植村あかりBlu-ray (2016년 [8월 17일](../Page/8월_17일.md "wikilink"))
+5.  bluest 宮本佳林Blu-ray (2016년 [11월 23일](../Page/11월_23일.md "wikilink"))
+6.  佳林=KARIN 宮本佳林Blu-ray (2018년 [12월 26일](../Page/12월_26일.md "wikilink"))
+7.  わたしのあしおと 梁川奈々美Blu-ray (2019년 [2월 27일](../Page/2월_27일.md "wikilink"))
 
 <!-- end list -->
 
@@ -228,34 +228,34 @@
 
 <!-- end list -->
 
-1.  Greeting～宮本佳林～ 宮本佳林DVD (2014년 [3월 3일](https://ko.wikipedia.org/wiki/3월_3일 "wikilink"))
-2.  Greeting～宮崎由加～ 宮崎由加DVD (2014년 [4월 19일](https://ko.wikipedia.org/wiki/4월_19일 "wikilink"))
-3.  Greeting～金澤朋子～ 金澤朋子DVD (2014년 [6월 26일](https://ko.wikipedia.org/wiki/6월_26일 "wikilink"))
-4.  Greeting～植村あかり～ 植村あかりDVD (2014년 [7월 19일](https://ko.wikipedia.org/wiki/7월_19일 "wikilink"))
-5.  Greeting～高木紗友希～ 高木紗友希Blu-ray (2015년 [12월 19일](https://ko.wikipedia.org/wiki/12월_19일 "wikilink"))
+1.  Greeting～宮本佳林～ 宮本佳林DVD (2014년 [3월 3일](../Page/3월_3일.md "wikilink"))
+2.  Greeting～宮崎由加～ 宮崎由加DVD (2014년 [4월 19일](../Page/4월_19일.md "wikilink"))
+3.  Greeting～金澤朋子～ 金澤朋子DVD (2014년 [6월 26일](../Page/6월_26일.md "wikilink"))
+4.  Greeting～植村あかり～ 植村あかりDVD (2014년 [7월 19일](../Page/7월_19일.md "wikilink"))
+5.  Greeting～高木紗友希～ 高木紗友希Blu-ray (2015년 [12월 19일](../Page/12월_19일.md "wikilink"))
 
 #### 이벤트V (이벤트 회장 한정판)
 
-1.  이벤트V「ロマンスの途中」(2013년 [9월 23일](https://ko.wikipedia.org/wiki/9월_23일 "wikilink"))
-2.  이벤트V「イジワルしないで 抱きしめてよ」(2014년 [1월 11일](https://ko.wikipedia.org/wiki/1월_11일 "wikilink"))
-3.  이벤트V「初めてを経験中」(2014년 [1월 11일](https://ko.wikipedia.org/wiki/1월_11일 "wikilink"))
-4.  이벤트V「裸の裸の裸のKISS」(2014년 [4월 12일](https://ko.wikipedia.org/wiki/4월_12일 "wikilink"))
-5.  이벤트V「アレコレしたい\!」(2014년 [4월 12일](https://ko.wikipedia.org/wiki/4월_12일 "wikilink"))
-6.  이벤트V「ブラックバタフライ」(2014년 [9월 14일](https://ko.wikipedia.org/wiki/9월_14일 "wikilink"))
-7.  이벤트V「風に吹かれて」(2014년 [9월 14일](https://ko.wikipedia.org/wiki/9월_14일 "wikilink"))
-8.  이벤트V「背伸び」(2014년 [11월 2일](https://ko.wikipedia.org/wiki/11월_2일 "wikilink"))
-9.  이벤트V「伊達じゃないよ うちの人生は」(2014년 [11월 2일](https://ko.wikipedia.org/wiki/11월_2일 "wikilink"))
-10. 이벤트V「Wonderful World」(2015년 [5월 5일](https://ko.wikipedia.org/wiki/5월_5일 "wikilink"))
-11. 이벤트V「Ca va ? Ca va ?」(2015년 [5월 5일](https://ko.wikipedia.org/wiki/5월_5일 "wikilink"))
-12. 이벤트V「Next is you\!」(2016년 [2월 28일](https://ko.wikipedia.org/wiki/2월_28일 "wikilink")) - NEXT YOU 명의
-13. 이벤트V「カラダだけが大人になったんじゃない」(2016년 [2월 28일](https://ko.wikipedia.org/wiki/2월_28일 "wikilink"))
-14. 이벤트V「Dream Road～心が躍り出してる～」(2016년 [12월 2일](https://ko.wikipedia.org/wiki/12월_2일 "wikilink"))
-15. 이벤트V「KEEP ON 上昇志向\!\!」(2016년 [12월 2일](https://ko.wikipedia.org/wiki/12월_2일 "wikilink"))
-16. 이벤트V「明日やろうはバカやろう」(2016년 [12월 2일](https://ko.wikipedia.org/wiki/12월_2일 "wikilink"))
-17. 이벤트V「地団駄ダンス／Feel\! 感じるよ」(2017년 [5월 20일](https://ko.wikipedia.org/wiki/5월_20일 "wikilink"))
-18. 이벤트V「SEXY SEXY／泣いていいよ」(2018년 [5월 13일](https://ko.wikipedia.org/wiki/5월_13일 "wikilink"))
-19. 이벤트V「微炭酸／ポツリと／Good bye & Good luck\!」(2019년 [3월 9일](https://ko.wikipedia.org/wiki/3월_9일 "wikilink"))
-20. 이벤트V「「ひとりで生きられそう」って それってねぇ、褒めているの?／25歳永遠説」(2019년 [8월 10일](https://ko.wikipedia.org/wiki/8월_10일 "wikilink"))
+1.  이벤트V「ロマンスの途中」(2013년 [9월 23일](../Page/9월_23일.md "wikilink"))
+2.  이벤트V「イジワルしないで 抱きしめてよ」(2014년 [1월 11일](../Page/1월_11일.md "wikilink"))
+3.  이벤트V「初めてを経験中」(2014년 [1월 11일](../Page/1월_11일.md "wikilink"))
+4.  이벤트V「裸の裸の裸のKISS」(2014년 [4월 12일](../Page/4월_12일.md "wikilink"))
+5.  이벤트V「アレコレしたい\!」(2014년 [4월 12일](../Page/4월_12일.md "wikilink"))
+6.  이벤트V「ブラックバタフライ」(2014년 [9월 14일](../Page/9월_14일.md "wikilink"))
+7.  이벤트V「風に吹かれて」(2014년 [9월 14일](../Page/9월_14일.md "wikilink"))
+8.  이벤트V「背伸び」(2014년 [11월 2일](../Page/11월_2일.md "wikilink"))
+9.  이벤트V「伊達じゃないよ うちの人生は」(2014년 [11월 2일](../Page/11월_2일.md "wikilink"))
+10. 이벤트V「Wonderful World」(2015년 [5월 5일](../Page/5월_5일.md "wikilink"))
+11. 이벤트V「Ca va ? Ca va ?」(2015년 [5월 5일](../Page/5월_5일.md "wikilink"))
+12. 이벤트V「Next is you\!」(2016년 [2월 28일](../Page/2월_28일.md "wikilink")) - NEXT YOU 명의
+13. 이벤트V「カラダだけが大人になったんじゃない」(2016년 [2월 28일](../Page/2월_28일.md "wikilink"))
+14. 이벤트V「Dream Road～心が躍り出してる～」(2016년 [12월 2일](../Page/12월_2일.md "wikilink"))
+15. 이벤트V「KEEP ON 上昇志向\!\!」(2016년 [12월 2일](../Page/12월_2일.md "wikilink"))
+16. 이벤트V「明日やろうはバカやろう」(2016년 [12월 2일](../Page/12월_2일.md "wikilink"))
+17. 이벤트V「地団駄ダンス／Feel\! 感じるよ」(2017년 [5월 20일](../Page/5월_20일.md "wikilink"))
+18. 이벤트V「SEXY SEXY／泣いていいよ」(2018년 [5월 13일](../Page/5월_13일.md "wikilink"))
+19. 이벤트V「微炭酸／ポツリと／Good bye & Good luck\!」(2019년 [3월 9일](../Page/3월_9일.md "wikilink"))
+20. 이벤트V「「ひとりで生きられそう」って それってねぇ、褒めているの?／25歳永遠説」(2019년 [8월 10일](../Page/8월_10일.md "wikilink"))
 
 <!-- end list -->
 
@@ -267,34 +267,34 @@
 
 <!-- end list -->
 
-1.  이벤트V「YEAH YEAH YEAH／花、闌の時」(2018년 [10월 20일](https://ko.wikipedia.org/wiki/10월_20일 "wikilink"))
+1.  이벤트V「YEAH YEAH YEAH／花、闌の時」(2018년 [10월 20일](../Page/10월_20일.md "wikilink"))
 
 #### 그 외
 
-1.  Juice=Juiceプロフィールムービー完全版 (2014년 [1월 9일](https://ko.wikipedia.org/wiki/1월_9일 "wikilink"))
-2.  演劇女子部 「ミュージカル 恋するハローキティ」(2015년 [3월 4일](https://ko.wikipedia.org/wiki/3월_4일 "wikilink"))
-3.  ドラマ 武道館 (2016년 [7월 6일](https://ko.wikipedia.org/wiki/7월_6일 "wikilink"))
-4.  演劇女子部「タイムリピート～永遠に君を想う～」(2019년 [1월 16일](https://ko.wikipedia.org/wiki/1월_16일 "wikilink"))
+1.  Juice=Juiceプロフィールムービー完全版 (2014년 [1월 9일](../Page/1월_9일.md "wikilink"))
+2.  演劇女子部 「ミュージカル 恋するハローキティ」(2015년 [3월 4일](../Page/3월_4일.md "wikilink"))
+3.  ドラマ 武道館 (2016년 [7월 6일](../Page/7월_6일.md "wikilink"))
+4.  演劇女子部「タイムリピート～永遠に君を想う～」(2019년 [1월 16일](../Page/1월_16일.md "wikilink"))
 
 ## 출연
 
 ### 텔레비전
 
-  - [The Girls Live](../Page/The_Girls_Live.md "wikilink") ([2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [1월 9일](https://ko.wikipedia.org/wiki/1월_9일 "wikilink") \~ [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [3월 25일](https://ko.wikipedia.org/wiki/3월_25일 "wikilink"), [테레비도쿄](https://ko.wikipedia.org/wiki/테레비도쿄 "wikilink"))
-  - [AI・DOL 프로젝트](https://ko.wikipedia.org/wiki/AI・DOL_프로젝트 "wikilink") ([2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [4월 1일](https://ko.wikipedia.org/wiki/4월_1일 "wikilink") \~ , 테레비도쿄)
+  - [The Girls Live](../Page/The_Girls_Live.md "wikilink") ([2014년](../Page/2014년.md "wikilink") [1월 9일](../Page/1월_9일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [3월 25일](../Page/3월_25일.md "wikilink"), [테레비도쿄](https://ko.wikipedia.org/wiki/테레비도쿄 "wikilink"))
+  - [AI・DOL 프로젝트](https://ko.wikipedia.org/wiki/AI・DOL_프로젝트 "wikilink") ([2019년](../Page/2019년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") \~ , 테레비도쿄)
 
 ### 라디오
 
-  - We are Juice=Juice ([2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [10월 3일](https://ko.wikipedia.org/wiki/10월_3일 "wikilink") \~ , [bayfm](https://ko.wikipedia.org/wiki/베이FM "wikilink"))
-  - 폭야\~BAKUNAI ([2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [4월 3일](https://ko.wikipedia.org/wiki/4월_3일 "wikilink") \~ , [RF라디오닛폰](https://ko.wikipedia.org/wiki/RF라디오닛폰 "wikilink") 사회 : 카나자와 토모코)
-  - HELLO\! DRIVE\! -하로드라- ([2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [10월 3일](https://ko.wikipedia.org/wiki/10월_3일 "wikilink") \~ , [라디오 네오](https://ko.wikipedia.org/wiki/라디오_네오 "wikilink") 사회 : 미야모토 카린)
-  - IMAREAL「Juice=Juice 이나바 마나카의 manakan Palette Box」([2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [4월 4일](https://ko.wikipedia.org/wiki/4월_4일 "wikilink") \~ , FM 홋카이도 사회 : 이나바 마나카)
-  - 아키나의 주간 영 프라이데이 (2019년 10월 4일 \~ , [MBS 라디오](https://ko.wikipedia.org/wiki/마이니치_방송 "wikilink") 사회 : 우에무라 아카리)
+  - We are Juice=Juice ([2013년](../Page/2013년.md "wikilink") [10월 3일](../Page/10월_3일.md "wikilink") \~ , [bayfm](https://ko.wikipedia.org/wiki/베이FM "wikilink"))
+  - 폭야\~BAKUNAI ([2015년](../Page/2015년.md "wikilink") [4월 3일](../Page/4월_3일.md "wikilink") \~ , [RF라디오닛폰](../Page/RF라디오닛폰.md "wikilink") 사회 : 카나자와 토모코)
+  - HELLO\! DRIVE\! -하로드라- ([2016년](../Page/2016년.md "wikilink") [10월 3일](../Page/10월_3일.md "wikilink") \~ , [라디오 네오](https://ko.wikipedia.org/wiki/라디오_네오 "wikilink") 사회 : 미야모토 카린)
+  - IMAREAL「Juice=Juice 이나바 마나카의 manakan Palette Box」([2019년](../Page/2019년.md "wikilink") [4월 4일](../Page/4월_4일.md "wikilink") \~ , FM 홋카이도 사회 : 이나바 마나카)
+  - 아키나의 주간 영 프라이데이 (2019년 10월 4일 \~ , [MBS 라디오](../Page/마이니치_방송.md "wikilink") 사회 : 우에무라 아카리)
   - 카나자와 토모코의 Vivid Midnight (2019년 10월 5일 \~ , [NACK5](https://ko.wikipedia.org/wiki/FM_넥파이브 "wikilink") 사회 : 카나자와 토모코)
 
 ### 예전 라디오
 
-  - IMAREAL「Juice=Juice 이나바 마나카의 마나리아루」\[12\]([2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [6월 21일](https://ko.wikipedia.org/wiki/6월_21일 "wikilink") \~ [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [3월 26일](https://ko.wikipedia.org/wiki/3월_26일 "wikilink"), [FM 홋카이도](https://ko.wikipedia.org/wiki/FM_홋카이도 "wikilink") 사회 : 이나바 마나카)
+  - IMAREAL「Juice=Juice 이나바 마나카의 마나리아루」\[12\]([2018년](../Page/2018년.md "wikilink") [6월 21일](../Page/6월_21일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [3월 26일](../Page/3월_26일.md "wikilink"), [FM 홋카이도](../Page/FM_홋카이도.md "wikilink") 사회 : 이나바 마나카)
 
 ### 라이브 · 콘서트
 
@@ -326,7 +326,7 @@
   - OTODAMA SEA STUDIO 2019 supported by POCARI SWEAT J=J Summer Special (2019년 7월 30일, OTODAMA SEA STUDIO)
   - Juice=Juice LIVE TOUR 2019 \~Con Amor\~ (2019년 9월 8일 \~ 11월 30일, 20개 도시 41회 공연)
   - Juice=Juice LIVE TOUR 2019 \~Con Amor J=J DAY SPECIAL\~ (2019년 10월 10일, 마이나비 BLITZ 아카사카)
-  - Juice=Juice Concert 2019 \~octopic\!\~ (2019년 12월 4일, [국립 요요기 제일 체육관](https://ko.wikipedia.org/wiki/국립_요요기_경기장 "wikilink"))
+  - Juice=Juice Concert 2019 \~octopic\!\~ (2019년 12월 4일, [국립 요요기 제일 체육관](../Page/국립_요요기_경기장.md "wikilink"))
       - 국내 23곳의 극장에서 라이브 뷰잉을 실시
   - Juice=Juice LIVE TOUR 2020 \~NEW SENSATION\~ (2020년 2월 3일 \~ 5월 10일, 7개 도시 19회 공연)\[13\]\[14\]
   - Juice=Juice CONCERT TOUR 2020 봄(가타이틀) (2020년 4월 25일 \~ 5월 31일, 6개 도시 14회 공연)
@@ -336,7 +336,7 @@
   - 하로프로연수생 발표회 2013 \~봄의 공개 실력 진단 테스트\~ (2013년 5월 5일, 나카노 선플라자)
   - 하로프로연수생 발표회 2013 \~6월의 생계란 Show\!\~ (2013년 6월 8일, 메르바르크 도쿄 · 15일, 오사카 미도회관)
   - 하로프로연수생 발표회 2013 \~9월의 생계란 Show\!\~ (2013년 9월 15일, [요코하마 BLITZ](https://ko.wikipedia.org/wiki/요코하마_BLITZ "wikilink") · 21일, 히가시 베츠잉 홀)
-  - 나루치카 2013 가을 [Berryz코보](https://ko.wikipedia.org/wiki/Berryz코보 "wikilink")×Juice=Juice (2013년 10월 12일 \~ 11월 17일)
+  - 나루치카 2013 가을 [Berryz코보](../Page/Berryz코보.md "wikilink")×Juice=Juice (2013년 10월 12일 \~ 11월 17일)
   - 하로프로연수생 발표회 2013 \~12월의 생계란 Show\!\~ (2013년 12월 7일, 히가시 베츠잉 홀 · 8일, 난바 Hatch · 21일, 디파 아리아케)
   - 하로프로연수생 발표회 2014 \~2월 · 3월의 생계란 Show\!\~ (2014년 2월 23일, [Zepp Tokyo](https://ko.wikipedia.org/wiki/Zepp_Tokyo "wikilink") · 3월 2일, [Zepp Nagoya](https://ko.wikipedia.org/wiki/Zepp_Nagoya "wikilink") · 9일, 난바 Hatch)
   - 하로프로연수생 발표회 2014 \~6월의 생계란 Show\!\~ (2014년 6월 1일, Zepp Nagoya · 7일, 디파 아리아케 · 14일, [Zepp Namba](https://ko.wikipedia.org/wiki/Zepp_Namba "wikilink"))
@@ -347,18 +347,18 @@
 ### 해외 공연
 
   - Juice=Juice LIVE MISSION 220 in Taipei (2015년 10월 3일, [대만](https://ko.wikipedia.org/wiki/대만 "wikilink") 리버 사이드 라이브 하우스 서문홍루 전연관)
-  - Juice=Juice LIVE MISSION 220 in Hong Kong (2015년 10월 4일, [홍콩](https://ko.wikipedia.org/wiki/홍콩 "wikilink") Music Zone @ Emax)
-  - Juice=Juice LIVE AROUND 2017 \~in the World\~ [멕시코](https://ko.wikipedia.org/wiki/멕시코 "wikilink") 공연 (2017년 9월 8일, 멕시코 닌시 홀)
-  - Juice=Juice LIVE AROUND 2017 \~in the World\~ [영국](https://ko.wikipedia.org/wiki/영국 "wikilink") 공연 (2017년 9월 14일, 영국 229 THE VENUE)
-  - Juice=Juice LIVE AROUND 2017 \~in the World\~ [프랑스](https://ko.wikipedia.org/wiki/프랑스 "wikilink") 공연 (2017년 9월 16일, 프랑스 [파리](https://ko.wikipedia.org/wiki/파리 "wikilink") La Boule Noire)
-  - Juice=Juice LIVE AROUND 2017 \~in the World\~ [독일](https://ko.wikipedia.org/wiki/독일 "wikilink") 공연 (2017년 9월 17일, 독일 FZW)
-  - Juice=Juice LIVE AROUND 2017 \~in the World\~ [말레이시아](https://ko.wikipedia.org/wiki/말레이시아 "wikilink") 공연 (2017년 9월 23일, 말레이시아 Sunway Lagoon Surf Beach)
-  - Juice=Juice LIVE AROUND 2017 \~in the World\~ [인도네시아](https://ko.wikipedia.org/wiki/인도네시아 "wikilink") 공연 (2017년 9월 24일, 인도네시아 PIK AVENUE)
+  - Juice=Juice LIVE MISSION 220 in Hong Kong (2015년 10월 4일, [홍콩](../Page/홍콩.md "wikilink") Music Zone @ Emax)
+  - Juice=Juice LIVE AROUND 2017 \~in the World\~ [멕시코](../Page/멕시코.md "wikilink") 공연 (2017년 9월 8일, 멕시코 닌시 홀)
+  - Juice=Juice LIVE AROUND 2017 \~in the World\~ [영국](../Page/영국.md "wikilink") 공연 (2017년 9월 14일, 영국 229 THE VENUE)
+  - Juice=Juice LIVE AROUND 2017 \~in the World\~ [프랑스](../Page/프랑스.md "wikilink") 공연 (2017년 9월 16일, 프랑스 [파리](https://ko.wikipedia.org/wiki/파리 "wikilink") La Boule Noire)
+  - Juice=Juice LIVE AROUND 2017 \~in the World\~ [독일](../Page/독일.md "wikilink") 공연 (2017년 9월 17일, 독일 FZW)
+  - Juice=Juice LIVE AROUND 2017 \~in the World\~ [말레이시아](../Page/말레이시아.md "wikilink") 공연 (2017년 9월 23일, 말레이시아 Sunway Lagoon Surf Beach)
+  - Juice=Juice LIVE AROUND 2017 \~in the World\~ [인도네시아](../Page/인도네시아.md "wikilink") 공연 (2017년 9월 24일, 인도네시아 PIK AVENUE)
   - Juice=Juice LIVE AROUND 2017 \~in the World\~ 대만 공연 (2017년 10월 1일, 대만 Riverside Live House)
-  - Juice=Juice LIVE AROUND 2017 \~World Tour\~ [페루](https://ko.wikipedia.org/wiki/페루 "wikilink") 공연 (2017년 12월 12일, 페루 [리마](https://ko.wikipedia.org/wiki/리마 "wikilink") Auditorio Angélica Gallegos Escobedo – UTP)
-  - Juice=Juice LIVE AROUND 2017 \~World Tour\~ [칠레](https://ko.wikipedia.org/wiki/칠레 "wikilink") 공연 (2017년 12월 14일, 칠레 [산티아고](https://ko.wikipedia.org/wiki/산티아고 "wikilink") Teatro Novedades)
-  - Juice=Juice LIVE AROUND 2017 \~World Tour\~ [브라질](https://ko.wikipedia.org/wiki/브라질 "wikilink") [상파울루](https://ko.wikipedia.org/wiki/상파울루 "wikilink") 공연 (2017년 12월 15일, 브라질 상파울루 Associação Okinawa do Brasil)
-  - Juice=Juice LIVE AROUND 2017 \~World Tour\~ 브라질 [포르탈레자](https://ko.wikipedia.org/wiki/포르탈레자 "wikilink") 공연 (2017년 12월 17일, 브라질 포르탈레자 Av. Washington Soares, 999 - Edson Queiroz 60811-341 Fortaleza)
+  - Juice=Juice LIVE AROUND 2017 \~World Tour\~ [페루](../Page/페루.md "wikilink") 공연 (2017년 12월 12일, 페루 [리마](../Page/리마.md "wikilink") Auditorio Angélica Gallegos Escobedo – UTP)
+  - Juice=Juice LIVE AROUND 2017 \~World Tour\~ [칠레](../Page/칠레.md "wikilink") 공연 (2017년 12월 14일, 칠레 [산티아고](../Page/산티아고.md "wikilink") Teatro Novedades)
+  - Juice=Juice LIVE AROUND 2017 \~World Tour\~ [브라질](../Page/브라질.md "wikilink") [상파울루](../Page/상파울루.md "wikilink") 공연 (2017년 12월 15일, 브라질 상파울루 Associação Okinawa do Brasil)
+  - Juice=Juice LIVE AROUND 2017 \~World Tour\~ 브라질 [포르탈레자](../Page/포르탈레자.md "wikilink") 공연 (2017년 12월 17일, 브라질 포르탈레자 Av. Washington Soares, 999 - Edson Queiroz 60811-341 Fortaleza)
   - Juice=Juice의 크리스마스회 (2018년 12월 16일, 대만 다푸메가몰 C 에리어 구루메샵 내)
 
 ### 뮤지컬 · 무대
@@ -370,28 +370,28 @@
 
 ### 사진집
 
-  - Juice=Juice 1st 오피셜 포토북 (2014년 [2월 27일](https://ko.wikipedia.org/wiki/2월_27일 "wikilink"), 와니북스)
-  - Juice=Juice LIVE MISSION 220 IN TAIPEI & HONG KONG 2015 (2016년 [11월 1일](https://ko.wikipedia.org/wiki/11월_1일 "wikilink"), 오딧세이 출판)
+  - Juice=Juice 1st 오피셜 포토북 (2014년 [2월 27일](../Page/2월_27일.md "wikilink"), 와니북스)
+  - Juice=Juice LIVE MISSION 220 IN TAIPEI & HONG KONG 2015 (2016년 [11월 1일](../Page/11월_1일.md "wikilink"), 오딧세이 출판)
 
 ### 솔로 사진집
 
-  - 미야모토 카린 1st 솔로 사진집「佳林」(2014년 [6월 12일](https://ko.wikipedia.org/wiki/6월_12일 "wikilink"), 와니북스)
-  - 미야모토 카린 2nd 솔로 사진집「Karin sixteen」(2015년 [5월 27일](https://ko.wikipedia.org/wiki/5월_27일 "wikilink"), 와니북스)
-  - 우에무라 아카리 1st 솔로 사진집「AKARI」(2015년 [10월 29일](https://ko.wikipedia.org/wiki/10월_29일 "wikilink"), 와니북스)
-  - 미야자키 유카 미니 사진집「Greeting-Photobook-」(2016년 [4월 2일](https://ko.wikipedia.org/wiki/4월_2일 "wikilink"), 오딧세이 출판)
-  - 우에무라 아카리 2nd 솔로 사진집「AKARIⅡ」(2016년 [7월 25일](https://ko.wikipedia.org/wiki/7월_25일 "wikilink"), 와니북스)
-  - 카나자와 토모코 미니 사진집「Greeting-Photobook-」(2016년 [7월 1일](https://ko.wikipedia.org/wiki/7월_1일 "wikilink"), 오딧세이 출판)
-  - 미야자키 유카 1st 솔로 사진집「宮崎由加(Juice=Juice)ファースト写真集」(2016년 [9월 24일](https://ko.wikipedia.org/wiki/9월_24일 "wikilink"), 오딧세이 출판)
-  - 미야모토 카린 3rd 솔로 사진집「Sun Flower」(2016년 [10월 21일](https://ko.wikipedia.org/wiki/10월_21일 "wikilink"), 와니북스)
-  - 야나가와 나나미 1st 솔로 사진집「Yanaming」(2018년 [6월 9일](https://ko.wikipedia.org/wiki/6월_9일 "wikilink"), 오딧세이 출판)
-  - 카나자와 토모코 비쥬얼 포토북「tomorrow」(2018년 [7월 2일](https://ko.wikipedia.org/wiki/7월_2일 "wikilink"), 오딧세이 출판)
-  - 이나바 마나카 1st 솔로 사진집「愛香」(2018년 [11월 17일](https://ko.wikipedia.org/wiki/11월_17일 "wikilink"), 오딧세이 출판)
-  - 미야모토 카린 스무살기념 사진집「覚醒 -KAKUSEI-」(2018년 [12월 1일](https://ko.wikipedia.org/wiki/12월_1일 "wikilink"), 와니북스)
-  - 우에무라 아카리 3rd 솔로 사진집「AKARIⅢ」(2019년 [1월 9일](https://ko.wikipedia.org/wiki/1월_9일 "wikilink"), 와니북스)
-  - 야나가와 나나미 2nd 솔로 사진집「unbalance」(2019년 [2월 22일](https://ko.wikipedia.org/wiki/2월_22일 "wikilink"), 오딧세이 출판)
-  - 미야자키 유카 2nd 솔로 사진집「繋」(2019년 [5월 22일](https://ko.wikipedia.org/wiki/5월_22일 "wikilink"), 오딧세이 출판)
-  - 타카기 사유키 1st 솔로 사진집「紗友希」(2019년 [8월 9일](https://ko.wikipedia.org/wiki/8월_9일 "wikilink"), 오딧세이 출판)
-  - 카나자와 토모코 포토북「\#いいね三芳町」(2019년 [10월 22일](https://ko.wikipedia.org/wiki/10월_22일 "wikilink"), 오딧세이 출판) ISBN 978-4-909643-42-2
+  - 미야모토 카린 1st 솔로 사진집「佳林」(2014년 [6월 12일](../Page/6월_12일.md "wikilink"), 와니북스)
+  - 미야모토 카린 2nd 솔로 사진집「Karin sixteen」(2015년 [5월 27일](../Page/5월_27일.md "wikilink"), 와니북스)
+  - 우에무라 아카리 1st 솔로 사진집「AKARI」(2015년 [10월 29일](../Page/10월_29일.md "wikilink"), 와니북스)
+  - 미야자키 유카 미니 사진집「Greeting-Photobook-」(2016년 [4월 2일](../Page/4월_2일.md "wikilink"), 오딧세이 출판)
+  - 우에무라 아카리 2nd 솔로 사진집「AKARIⅡ」(2016년 [7월 25일](../Page/7월_25일.md "wikilink"), 와니북스)
+  - 카나자와 토모코 미니 사진집「Greeting-Photobook-」(2016년 [7월 1일](../Page/7월_1일.md "wikilink"), 오딧세이 출판)
+  - 미야자키 유카 1st 솔로 사진집「宮崎由加(Juice=Juice)ファースト写真集」(2016년 [9월 24일](../Page/9월_24일.md "wikilink"), 오딧세이 출판)
+  - 미야모토 카린 3rd 솔로 사진집「Sun Flower」(2016년 [10월 21일](../Page/10월_21일.md "wikilink"), 와니북스)
+  - 야나가와 나나미 1st 솔로 사진집「Yanaming」(2018년 [6월 9일](../Page/6월_9일.md "wikilink"), 오딧세이 출판)
+  - 카나자와 토모코 비쥬얼 포토북「tomorrow」(2018년 [7월 2일](../Page/7월_2일.md "wikilink"), 오딧세이 출판)
+  - 이나바 마나카 1st 솔로 사진집「愛香」(2018년 [11월 17일](../Page/11월_17일.md "wikilink"), 오딧세이 출판)
+  - 미야모토 카린 스무살기념 사진집「覚醒 -KAKUSEI-」(2018년 [12월 1일](../Page/12월_1일.md "wikilink"), 와니북스)
+  - 우에무라 아카리 3rd 솔로 사진집「AKARIⅢ」(2019년 [1월 9일](../Page/1월_9일.md "wikilink"), 와니북스)
+  - 야나가와 나나미 2nd 솔로 사진집「unbalance」(2019년 [2월 22일](../Page/2월_22일.md "wikilink"), 오딧세이 출판)
+  - 미야자키 유카 2nd 솔로 사진집「繋」(2019년 [5월 22일](../Page/5월_22일.md "wikilink"), 오딧세이 출판)
+  - 타카기 사유키 1st 솔로 사진집「紗友希」(2019년 [8월 9일](../Page/8월_9일.md "wikilink"), 오딧세이 출판)
+  - 카나자와 토모코 포토북「\#いいね三芳町」(2019년 [10월 22일](../Page/10월_22일.md "wikilink"), 오딧세이 출판) ISBN 978-4-909643-42-2
 
 ## 각주
 

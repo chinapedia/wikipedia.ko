@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  Z](https://ko.wikipedia.org/wiki/__Z).
 
 
-**소니 엑스페리아 Z**(Sony Xperia Z)는 [소니 모바일 커뮤니케이션스에서](https://ko.wikipedia.org/wiki/소니_모바일_커뮤니케이션스 "wikilink") [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [1월 7일](https://ko.wikipedia.org/wiki/1월_7일 "wikilink") **[소비자 가전 전시회](https://ko.wikipedia.org/wiki/소비자_가전_전시회 "wikilink") 2013** (CES 2013)에서 공개하여,\[1\] [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [2월 9일에](https://ko.wikipedia.org/wiki/2월_9일 "wikilink") 출시한 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")이다.
+**소니 엑스페리아 Z**(Sony Xperia Z)는 [소니 모바일 커뮤니케이션스에서](../Page/소니_모바일_커뮤니케이션스.md "wikilink") [2013년](../Page/2013년.md "wikilink") [1월 7일](../Page/1월_7일.md "wikilink") **[소비자 가전 전시회](../Page/소비자_가전_전시회.md "wikilink") 2013** (CES 2013)에서 공개하여,\[1\] [2013년](../Page/2013년.md "wikilink") [2월 9일에](../Page/2월_9일.md "wikilink") 출시한 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.
 
 ## 소니 엑스페리아 ZL
 
@@ -9,11 +9,11 @@
 
 ## 연혁
 
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [1월 8일](https://ko.wikipedia.org/wiki/1월_8일 "wikilink") : **[소비자 가전 전시회](https://ko.wikipedia.org/wiki/소비자_가전_전시회 "wikilink") 2013**에서 제품 공개\[3\]
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [2월 9일](https://ko.wikipedia.org/wiki/2월_9일 "wikilink") : [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서 **SO-02E** 모델 출시
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [2월 25일](https://ko.wikipedia.org/wiki/2월_25일 "wikilink") : **[모바일 월드 콩그레스](https://ko.wikipedia.org/wiki/모바일_월드_콩그레스 "wikilink") 2013**에서 제품 공개\[4\]
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink") : **C6602**, **C6603** 모델 출시
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink") : 판매량 460만대 돌파\[5\]
+  - [2013년](../Page/2013년.md "wikilink") [1월 8일](../Page/1월_8일.md "wikilink") : **[소비자 가전 전시회](../Page/소비자_가전_전시회.md "wikilink") 2013**에서 제품 공개\[3\]
+  - [2013년](../Page/2013년.md "wikilink") [2월 9일](../Page/2월_9일.md "wikilink") : [일본](../Page/일본.md "wikilink")에서 **SO-02E** 모델 출시
+  - [2013년](../Page/2013년.md "wikilink") [2월 25일](../Page/2월_25일.md "wikilink") : **[모바일 월드 콩그레스](../Page/모바일_월드_콩그레스.md "wikilink") 2013**에서 제품 공개\[4\]
+  - [2013년](../Page/2013년.md "wikilink") [3월](../Page/3월.md "wikilink") : **C6602**, **C6603** 모델 출시
+  - [2013년](../Page/2013년.md "wikilink") [4월](../Page/4월.md "wikilink") : 판매량 460만대 돌파\[5\]
 
 ## 디자인
 
@@ -45,13 +45,13 @@
 
 엑스페리아 Z는 [3G](https://ko.wikipedia.org/wiki/3G "wikilink") 혹은 [4G](https://ko.wikipedia.org/wiki/4G "wikilink") 네트워크 지원을 위해 다양한 변종모델을 가진다.
 
-| 모델명    | FCC id     | UMTS bands    | LTE bands              | 이동통신사/지역                                                     |
-| ------ | ---------- | ------------- | ---------------------- | ------------------------------------------------------------ |
-| C6602  | PY7PM-0280 | 1, 2, 4, 5, 8 | None\[7\]              | Worldwide                                                    |
-| C6603  | PY7PM-0270 | 1, 5, 8       | 1, 3, 5, 7, 8, 20\[8\] | Worldwide                                                    |
-| C6606  | PY7PM-0520 | 1, 2, 4, 5, 8 | 4                      | [T-모바일](https://ko.wikipedia.org/wiki/T-모바일 "wikilink")      |
-| C6616  | PY7PM-0520 | 1, 2, 4, 5, 8 | 4                      | [벨 캐나다](https://ko.wikipedia.org/wiki/벨_캐나다 "wikilink")\[9\] |
-| SO-02E | PY7PM-0220 | 1, 5, 6, 19   | 1, 19, 21              | [NTT 도코모](https://ko.wikipedia.org/wiki/NTT_도코모 "wikilink")  |
+| 모델명    | FCC id     | UMTS bands    | LTE bands              | 이동통신사/지역                                  |
+| ------ | ---------- | ------------- | ---------------------- | ----------------------------------------- |
+| C6602  | PY7PM-0280 | 1, 2, 4, 5, 8 | None\[7\]              | Worldwide                                 |
+| C6603  | PY7PM-0270 | 1, 5, 8       | 1, 3, 5, 7, 8, 20\[8\] | Worldwide                                 |
+| C6606  | PY7PM-0520 | 1, 2, 4, 5, 8 | 4                      | [T-모바일](../Page/T-모바일.md "wikilink")      |
+| C6616  | PY7PM-0520 | 1, 2, 4, 5, 8 | 4                      | [벨 캐나다](../Page/벨_캐나다.md "wikilink")\[9\] |
+| SO-02E | PY7PM-0220 | 1, 5, 6, 19   | 1, 19, 21              | [NTT 도코모](../Page/NTT_도코모.md "wikilink")  |
 
 위의 모든 모델은 2G GSM bands 850/900/1800/1900 4개의 밴드를 지원한다.
 
@@ -61,10 +61,10 @@
 
 ## 경쟁 기종
 
-  - [HTC J 버터플라이](https://ko.wikipedia.org/wiki/HTC_J_버터플라이 "wikilink")
+  - [HTC J 버터플라이](../Page/HTC_J_버터플라이.md "wikilink")
   - [HTC 원](../Page/HTC_원.md "wikilink")
   - [삼성 갤럭시 S4](../Page/삼성_갤럭시_S4.md "wikilink")
-  - [LG 옵티머스 G 프로](https://ko.wikipedia.org/wiki/LG_옵티머스_G_프로 "wikilink")
+  - [LG 옵티머스 G 프로](../Page/LG_옵티머스_G_프로.md "wikilink")
   - [화웨이 어센드 P6](../Page/화웨이_어센드_P6.md "wikilink")
   - [샤프 아쿠오스 206SH](../Page/샤프_아쿠오스_206SH.md "wikilink")
   - [샤프 아쿠오스 Sh930w](../Page/샤프_아쿠오스_Sh930w.md "wikilink")

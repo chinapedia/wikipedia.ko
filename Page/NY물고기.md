@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NY](https://ko.wikipedia.org/wiki/NY).
 
 
-**NY물고기**(**N**oter **Y** Mulgoki, )는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")이다. NY물고기의 NY는 Noter Y\[1\] 를 의미한다.
+**NY물고기**(**N**oter **Y** Mulgoki, )는 [대한민국](../Page/대한민국.md "wikilink")의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")이다. NY물고기의 NY는 Noter Y\[1\] 를 의미한다.
 
 ## 경력
 
@@ -21,7 +21,7 @@
 
 ### 트리뷰트 앨범
 
-  - [REBORN 산울림](https://ko.wikipedia.org/wiki/REBORN_산울림 "wikilink") - 2. 독백 (2012년 3월 27일)
+  - [REBORN 산울림](../Page/REBORN_산울림.md "wikilink") - 2. 독백 (2012년 3월 27일)
 
 ## 각주
 

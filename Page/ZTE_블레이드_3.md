@@ -1,18 +1,18 @@
 > This article is converted from Wikipedia: [ZTE  3](https://ko.wikipedia.org/wiki/ZTE__3).
 
 
-**ZTE V889F**()는 [ZTE](https://ko.wikipedia.org/wiki/ZTE "wikilink")에서 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink")에 출시한 보급형 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")이다.
+**ZTE V889F**()는 [ZTE](../Page/ZTE.md "wikilink")에서 [2012년](../Page/2012년.md "wikilink")에 출시한 보급형 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.
 
-[대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 **제트폰** (Z Phone)이라는 이름으로 출시했다.\[1\]
+[대한민국](../Page/대한민국.md "wikilink")에서는 **제트폰** (Z Phone)이라는 이름으로 출시했다.\[1\]
 
 ## 경쟁 기종
 
-  - [LG 옵티머스 L3](https://ko.wikipedia.org/wiki/LG_옵티머스_L3 "wikilink")
-  - [LG 옵티머스 L5](https://ko.wikipedia.org/wiki/LG_옵티머스_L5 "wikilink")
-  - [LG 옵티머스 L7](https://ko.wikipedia.org/wiki/LG_옵티머스_L7 "wikilink")
-  - [LG 옵티머스 L9](https://ko.wikipedia.org/wiki/LG_옵티머스_L9 "wikilink")
-  - [삼성 갤럭시 그랜드](https://ko.wikipedia.org/wiki/삼성_갤럭시_그랜드 "wikilink")
-  - [삼성 갤럭시 R](https://ko.wikipedia.org/wiki/삼성_갤럭시_R "wikilink")
+  - [LG 옵티머스 L3](../Page/LG_옵티머스_L3.md "wikilink")
+  - [LG 옵티머스 L5](../Page/LG_옵티머스_L5.md "wikilink")
+  - [LG 옵티머스 L7](../Page/LG_옵티머스_L7.md "wikilink")
+  - [LG 옵티머스 L9](../Page/LG_옵티머스_L9.md "wikilink")
+  - [삼성 갤럭시 그랜드](../Page/삼성_갤럭시_그랜드.md "wikilink")
+  - [삼성 갤럭시 R](../Page/삼성_갤럭시_R.md "wikilink")
 
 ## 각주
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Good !](https://ko.wikipedia.org/wiki/Good_!).
 
 
-《**Good 가자\!**》()는, [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") [아이돌 그룹](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink"), [Kis-My-Ft2](https://ko.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")의 2번째 정규 음반이다.
+《**Good 가자\!**》()는, [일본](../Page/일본.md "wikilink") [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") [아이돌 그룹](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink"), [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")의 2번째 정규 음반이다.
 
 ## 개요
 
@@ -29,7 +29,7 @@
 6.  **xLunaSx** ([FUJIGAYA TAISUKE](https://ko.wikipedia.org/wiki/후지가야_다이스케 "wikilink"))
       -
         작사: T.Fxxx / 작곡: Steven Lee, The Goldfingerz, Drew Ryan Scott / 편곡: 스즈키 마사야
-7.  **Forza！** ([TAMAMORI YUTA](https://ko.wikipedia.org/wiki/다마모리_유타 "wikilink")/[YOKOO WATARU](https://ko.wikipedia.org/wiki/요코오_와타루 "wikilink")/[MIYATA TOSHIYA](https://ko.wikipedia.org/wiki/미야타_도시야 "wikilink")/[NIKAIDO TAKASHI](https://ko.wikipedia.org/wiki/니카이도_다카시 "wikilink")/[SENGA KENTO](https://ko.wikipedia.org/wiki/센가_겐토 "wikilink"))
+7.  **Forza！** ([TAMAMORI YUTA](https://ko.wikipedia.org/wiki/다마모리_유타 "wikilink")/[YOKOO WATARU](../Page/요코오_와타루.md "wikilink")/[MIYATA TOSHIYA](https://ko.wikipedia.org/wiki/미야타_도시야 "wikilink")/[NIKAIDO TAKASHI](https://ko.wikipedia.org/wiki/니카이도_다카시 "wikilink")/[SENGA KENTO](https://ko.wikipedia.org/wiki/센가_겐토 "wikilink"))
       -
         작사: HIKARI / 작곡: HIKARI, Stephan Elfgren / 편곡: Stephan Elfgren
 8.  **[Shake It Up](https://ko.wikipedia.org/wiki/WANNA_BEEEE!!!/Shake_It_Up "wikilink")**

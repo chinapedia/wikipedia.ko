@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Happiness in Magazines](https://ko.wikipedia.org/wiki/Happiness_in_Magazines).
 
 
-***Happiness in Magazines***은 [그레이엄 콕슨의](https://ko.wikipedia.org/wiki/그레이엄_콕슨 "wikilink") 5번째 솔로앨범이다. [블러](https://ko.wikipedia.org/wiki/블러 "wikilink")의 2,3,4집 앨범을 제작한 스티번 스트리트가 프로듀서를 맡았고 그레이엄 콕슨의 가장 상업적인 성공을 거둔 앨범이기도 한다. *Happiness in Magazines*은 UK 앨범 차트에서 19위를 기록했고 실버 부문에 오르기도 했다.
+***Happiness in Magazines***은 [그레이엄 콕슨의](../Page/그레이엄_콕슨.md "wikilink") 5번째 솔로앨범이다. [블러](https://ko.wikipedia.org/wiki/블러 "wikilink")의 2,3,4집 앨범을 제작한 스티번 스트리트가 프로듀서를 맡았고 그레이엄 콕슨의 가장 상업적인 성공을 거둔 앨범이기도 한다. *Happiness in Magazines*은 UK 앨범 차트에서 19위를 기록했고 실버 부문에 오르기도 했다.
 
 ## 트랙 리스트
 
@@ -26,8 +26,8 @@
 
 <!-- end list -->
 
-  - "Life It Sucks" ([일본](https://ko.wikipedia.org/wiki/일본 "wikilink"))
-  - "Right to Pop\!" ([미국](https://ko.wikipedia.org/wiki/미국 "wikilink"))
+  - "Life It Sucks" ([일본](../Page/일본.md "wikilink"))
+  - "Right to Pop\!" ([미국](../Page/미국.md "wikilink"))
 
 ## 싱글
 
@@ -38,14 +38,14 @@
 
 ## 발매 상세 날짜
 
-|                                                   |              |                                                                                                                      |                                                   |            |
-| :-----------------------------------------------: | :----------: | :------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------: | :--------: |
-|                        국가                         |      날짜      |                                                         레이블                                                          |                       구성 방식                       |    카탈로그    |
-| [호주](https://ko.wikipedia.org/wiki/호주 "wikilink") | 2004년 5월 7일  |                             [캐피털 레코드](https://ko.wikipedia.org/wiki/캐피털_레코드 "wikilink")                              | [CD](https://ko.wikipedia.org/wiki/CD "wikilink") |  5777472   |
-| [영국](https://ko.wikipedia.org/wiki/영국 "wikilink") | 2004년 5월 17일 | [트랜스코픽 레코드](https://ko.wikipedia.org/wiki/트랜스코픽_레코드 "wikilink"), [팔로폰](https://ko.wikipedia.org/wiki/팔로폰 "wikilink") | [LP](https://ko.wikipedia.org/wiki/LP "wikilink") |  5775191   |
-|                                                   |              |                                                                                                                      |                        CD                         |  5775192   |
-| [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") | 2004년 5월 26일 |                             [토시바-EMI](https://ko.wikipedia.org/wiki/토시바-EMI "wikilink")                              |                        CD                         | TOCP 66292 |
-| [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") | 2005년 1월 25일 |                         [Astralwerks](https://ko.wikipedia.org/wiki/Astralwerks "wikilink")                          |                        CD                         | ASW 60387  |
+|                                                   |              |                                                                                                   |                                                   |            |
+| :-----------------------------------------------: | :----------: | :-----------------------------------------------------------------------------------------------: | :-----------------------------------------------: | :--------: |
+|                        국가                         |      날짜      |                                                레이블                                                |                       구성 방식                       |    카탈로그    |
+| [호주](https://ko.wikipedia.org/wiki/호주 "wikilink") | 2004년 5월 7일  |                    [캐피털 레코드](https://ko.wikipedia.org/wiki/캐피털_레코드 "wikilink")                    | [CD](https://ko.wikipedia.org/wiki/CD "wikilink") |  5777472   |
+|          [영국](../Page/영국.md "wikilink")           | 2004년 5월 17일 | [트랜스코픽 레코드](https://ko.wikipedia.org/wiki/트랜스코픽_레코드 "wikilink"), [팔로폰](../Page/팔로폰.md "wikilink") | [LP](https://ko.wikipedia.org/wiki/LP "wikilink") |  5775191   |
+|                                                   |              |                                                                                                   |                        CD                         |  5775192   |
+|          [일본](../Page/일본.md "wikilink")           | 2004년 5월 26일 |                    [토시바-EMI](https://ko.wikipedia.org/wiki/토시바-EMI "wikilink")                    |                        CD                         | TOCP 66292 |
+|          [미국](../Page/미국.md "wikilink")           | 2005년 1월 25일 |                [Astralwerks](https://ko.wikipedia.org/wiki/Astralwerks "wikilink")                |                        CD                         | ASW 60387  |
 
 ## 각주
 

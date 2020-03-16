@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [EIGRP](https://ko.wikipedia.org/wiki/EIGRP).
 
 
-**EIGRP**(강화 내부 경로 제어 통신 규약, )는 [시스코](https://ko.wikipedia.org/wiki/시스코 "wikilink")사가 만든 원래의 [IGRP](https://ko.wikipedia.org/wiki/IGRP "wikilink")를 기반으로 한 개방형 [라우팅 프로토콜이다](../Page/라우팅_프로토콜.md "wikilink"). EIGRP는 라우터 내 대역폭 및 처리 능력의 이용뿐 아니라, 토폴로지(망 구성 방식)가 변경된 뒤에 일어나는 불안정한 [라우팅](https://ko.wikipedia.org/wiki/라우팅 "wikilink")을 최소화하는데 최적화된 고급 [거리 벡터 라우팅 프로토콜이다](https://ko.wikipedia.org/wiki/거리_벡터_라우팅_프로토콜 "wikilink"). EIGRP는 지원하는 라우터들은 32비트 EIGRP 메트릭을 24비트 IGRP 메트릭으로 변환함으로써 IGRP의 이웃 장비들에게 경로 정보를 자동으로 재분배한다. 라우팅 최적화 대부분이 [SRI사의](https://ko.wikipedia.org/wiki/SRI_인터내셔널 "wikilink") [확산 업데이트 알고리즘](https://ko.wikipedia.org/wiki/확산_업데이트_알고리즘 "wikilink")(DUAL, Diffusing update algorithm)의 처리에 기반을 두므로, 빠른 수렴(convergence)을 위한 매커니즘을 제공하고 [루프 문제에서](https://ko.wikipedia.org/wiki/라우팅_루프_문제 "wikilink") 자유롭다.
+**EIGRP**(강화 내부 경로 제어 통신 규약, )는 [시스코](https://ko.wikipedia.org/wiki/시스코 "wikilink")사가 만든 원래의 [IGRP](https://ko.wikipedia.org/wiki/IGRP "wikilink")를 기반으로 한 개방형 [라우팅 프로토콜이다](../Page/라우팅_프로토콜.md "wikilink"). EIGRP는 라우터 내 대역폭 및 처리 능력의 이용뿐 아니라, 토폴로지(망 구성 방식)가 변경된 뒤에 일어나는 불안정한 [라우팅](../Page/라우팅.md "wikilink")을 최소화하는데 최적화된 고급 [거리 벡터 라우팅 프로토콜이다](https://ko.wikipedia.org/wiki/거리_벡터_라우팅_프로토콜 "wikilink"). EIGRP는 지원하는 라우터들은 32비트 EIGRP 메트릭을 24비트 IGRP 메트릭으로 변환함으로써 IGRP의 이웃 장비들에게 경로 정보를 자동으로 재분배한다. 라우팅 최적화 대부분이 [SRI사의](https://ko.wikipedia.org/wiki/SRI_인터내셔널 "wikilink") [확산 업데이트 알고리즘](https://ko.wikipedia.org/wiki/확산_업데이트_알고리즘 "wikilink")(DUAL, Diffusing update algorithm)의 처리에 기반을 두므로, 빠른 수렴(convergence)을 위한 매커니즘을 제공하고 [루프 문제에서](https://ko.wikipedia.org/wiki/라우팅_루프_문제 "wikilink") 자유롭다.
 
 ## 기본 동작
 
@@ -9,7 +9,7 @@ EIGRP는 데이터를 세 개의 테이블에 저장한다:
 
   - 이웃 테이블(Neighbor Table): 이웃 라우터들에 대한 데이터를 저장한다. (직접 연결된 인터페이스를 통해 직접 접근할 수 있는 데이터)
   - [토폴로지 테이블](https://ko.wikipedia.org/wiki/토폴로지_테이블 "wikilink"): 이름과는 다르게 완전한 네트워크 토폴로지의 개요를 저장하지는 않는다. 이 테이블에는 개별 매트릭과 더불어 EIGRP 라우티드 네트워크의 목적지 네트워크의 목록을 포함한다. 또, 모든 목적지에 대해 [석세서와](https://ko.wikipedia.org/wiki/#석세서 "wikilink") [피저블 석세서가](https://ko.wikipedia.org/wiki/#피저블_석세서 "wikilink") 식별되며 이들이 존재하면 테이블에 저장된다. 토폴로지 테이블 내의 모든 목적지는 "Passive"(라우팅이 안정적이고 라우터는 목적지에 대한 경로를 알고 있음) 또는 "Active"(토폴로지가 변경되어 라우터가 목적지에 대한 경로를 업데이트하는 과정에 있음)로 표시된다.
-  - [라우팅 테이블](https://ko.wikipedia.org/wiki/라우팅_테이블 "wikilink"): 모든 목적지에 대한 실제 경로를 저장한다.
+  - [라우팅 테이블](../Page/라우팅_테이블.md "wikilink"): 모든 목적지에 대한 실제 경로를 저장한다.
 
 ## EIGRP 컴포지트, 벡터 메트릭
 

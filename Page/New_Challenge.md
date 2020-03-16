@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [New Challenge](https://ko.wikipedia.org/wiki/New_Challenge).
 
 
-***New Challenge***는 대한민국의 음악 그룹 [인피니트](https://ko.wikipedia.org/wiki/인피니트 "wikilink")의 네 번째 [EP](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink") 음반이다. 타이틀곡은 "Man In Love (남자가 사랑할때)"로 2013년 3월 21일에 발매되었다.\[1\]
+***New Challenge***는 대한민국의 음악 그룹 [인피니트](../Page/인피니트.md "wikilink")의 네 번째 [EP](../Page/익스텐디드_플레이.md "wikilink") 음반이다. 타이틀곡은 "Man In Love (남자가 사랑할때)"로 2013년 3월 21일에 발매되었다.\[1\]
 
 ## 트랙 리스트
 

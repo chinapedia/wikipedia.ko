@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [IEEE 802.11b-1999](https://ko.wikipedia.org/wiki/IEEE_802.11b-1999).
 
 
-**IEEE 802.11b-1999** 또는 **IEEE 802.11b**는 동일한 2.4 GHz 대역을 사용하면서 스루풋(throughput, 처리량)을 11 Mbit/s까지 확장하는 [IEEE 802.11](https://ko.wikipedia.org/wiki/IEEE_802.11 "wikilink") [무선 네트워킹](https://ko.wikipedia.org/wiki/무선_네트워크 "wikilink") 사양의 수정판이다. 이 사양은 [Wi-Fi](https://ko.wikipedia.org/wiki/Wi-Fi "wikilink")라는 이름으로 이용되고 있으며 전 세계적으로 사용되고 있다.
+**IEEE 802.11b-1999** 또는 **IEEE 802.11b**는 동일한 2.4 GHz 대역을 사용하면서 스루풋(throughput, 처리량)을 11 Mbit/s까지 확장하는 [IEEE 802.11](../Page/IEEE_802.11.md "wikilink") [무선 네트워킹](https://ko.wikipedia.org/wiki/무선_네트워크 "wikilink") 사양의 수정판이다. 이 사양은 [Wi-Fi](https://ko.wikipedia.org/wiki/Wi-Fi "wikilink")라는 이름으로 이용되고 있으며 전 세계적으로 사용되고 있다.
 
-[802.11은](https://ko.wikipedia.org/wiki/IEEE_802.11 "wikilink") 무선 네트워크 전송 방식들을 관할하는 [IEEE](https://ko.wikipedia.org/wiki/IEEE "wikilink") 표준의 집합이다. 각각의 방식들은 보통 오늘날 가정, 사무실, 상업 시설 등에서 무선 연결을 제공하기 위해 [802.11a](https://ko.wikipedia.org/wiki/802.11a "wikilink"), 802.11b, [802.11g](https://ko.wikipedia.org/wiki/802.11g "wikilink"), [802.11n](https://ko.wikipedia.org/wiki/802.11n "wikilink") 버전에 사용된다.
+[802.11은](../Page/IEEE_802.11.md "wikilink") 무선 네트워크 전송 방식들을 관할하는 [IEEE](https://ko.wikipedia.org/wiki/IEEE "wikilink") 표준의 집합이다. 각각의 방식들은 보통 오늘날 가정, 사무실, 상업 시설 등에서 무선 연결을 제공하기 위해 [802.11a](https://ko.wikipedia.org/wiki/802.11a "wikilink"), 802.11b, [802.11g](https://ko.wikipedia.org/wiki/802.11g "wikilink"), [802.11n](https://ko.wikipedia.org/wiki/802.11n "wikilink") 버전에 사용된다.
 
 ## 같이 보기
 
-  - [IEEE 802.11](https://ko.wikipedia.org/wiki/IEEE_802.11 "wikilink")
+  - [IEEE 802.11](../Page/IEEE_802.11.md "wikilink")
   - [IEEE 802.11g-2003](https://ko.wikipedia.org/wiki/IEEE_802.11g-2003 "wikilink")
   - [Wi-Fi](https://ko.wikipedia.org/wiki/Wi-Fi "wikilink")
 
@@ -32,7 +32,7 @@
 | 13 | 2.472 GHz | 5 MHz  | 2.461–2.483 GHz | 9-12, 14   |
 | 14 | 2.484 GHz | 12 MHz | 2.473–2.495 GHz | 12-13      |
 
-[802.11b](https://ko.wikipedia.org/wiki/IEEE_802.11 "wikilink") 채널, 주파수 도표\[1\]
+[802.11b](../Page/IEEE_802.11.md "wikilink") 채널, 주파수 도표\[1\]
 
   -
     **참고: 채널 14는 일본에서만 사용 가능하며 채널 12와 13은 미국(채널 1부터 11까지만이 합법적으로 사용가능함.)을 제외한 대부분의 국가에서 사용할 수 있다**

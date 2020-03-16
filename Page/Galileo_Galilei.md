@@ -1,12 +1,12 @@
 > This article is converted from Wikipedia: [Galileo Galilei](https://ko.wikipedia.org/wiki/Galileo_Galilei).
 
 
-**갈릴레오 갈릴레이**(, )는 [홋카이도](https://ko.wikipedia.org/wiki/홋카이도 "wikilink") 출신의 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") 밴드이다. 레이블은 [SME 레코드이다](https://ko.wikipedia.org/wiki/소니_뮤직_엔터테인먼트 "wikilink").
+**갈릴레오 갈릴레이**(, )는 [홋카이도](../Page/홋카이도.md "wikilink") 출신의 [일본](../Page/일본.md "wikilink") 밴드이다. 레이블은 [SME 레코드이다](../Page/소니_뮤직_엔터테인먼트.md "wikilink").
 
 ## 구성원
 
-  - 유키 오자키(尾崎雄貴) - [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), [기타](https://ko.wikipedia.org/wiki/기타 "wikilink")
-  - 히토시 사코 (佐孝仁司) - [베이스](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink")
+  - 유키 오자키(尾崎雄貴) - [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), [기타](../Page/기타.md "wikilink")
+  - 히토시 사코 (佐孝仁司) - [베이스](../Page/베이스_기타.md "wikilink")
   - 카즈키 오자키 (尾崎和樹) - [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink"), 배킹 보컬
 
 <!-- end list -->

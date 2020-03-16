@@ -15,11 +15,11 @@
 
 ### Pulp
 
-  - [자비스 코커](https://ko.wikipedia.org/wiki/자비스_코커 "wikilink") – 보컬, Vox Marauder Guitar, Ovation 12 String Guitar, Sigma Acoustic Guitar, Roland Vocoder Plus VP-330, Roland SH-09, Mellotron, Micromoog, Synare
+  - [자비스 코커](../Page/자비스_코커.md "wikilink") – 보컬, Vox Marauder Guitar, Ovation 12 String Guitar, Sigma Acoustic Guitar, Roland Vocoder Plus VP-330, Roland SH-09, Mellotron, Micromoog, Synare
   - [러셀 시니어](https://ko.wikipedia.org/wiki/:en:Russell_Senior "wikilink") – Fender Jazzmaster Guitar, 바이올린
   - [캔디다 도일](https://ko.wikipedia.org/wiki/:en:Candida_Doyle "wikilink") – Farfisa Compact Professional II Organ, Ensoniq ASR 10, Korg Trident II, Minimoog, Fender Rhodes Piano, Roland Juno 6, Roland SH-09
   - [스티브 맥키](https://ko.wikipedia.org/wiki/:en:Steve_Mackey "wikilink") – 뮤직맨 Sabre Bass
-  - [마크 웨버](https://ko.wikipedia.org/wiki/:en:Mark_Webber "wikilink") – [깁슨 ES-345 기타](https://ko.wikipedia.org/wiki/깁슨_ES-345 "wikilink"), [깁슨 Les Paul 기타](https://ko.wikipedia.org/wiki/깁슨_레스폴 "wikilink"), 깁슨 Firebird 기타, Sigma Acoustic Guitar, Casio Tonebank CT-470, Fender Rhodes Piano, Roland Juno 6
+  - [마크 웨버](https://ko.wikipedia.org/wiki/:en:Mark_Webber "wikilink") – [깁슨 ES-345 기타](https://ko.wikipedia.org/wiki/깁슨_ES-345 "wikilink"), [깁슨 Les Paul 기타](../Page/깁슨_레스폴.md "wikilink"), 깁슨 Firebird 기타, Sigma Acoustic Guitar, Casio Tonebank CT-470, Fender Rhodes Piano, Roland Juno 6
   - [닉 뱅크스](https://ko.wikipedia.org/wiki/:en:Nick_Banks "wikilink") – Yamaha Drums, Zildjian Cymbals, Percussion
 
 ### Additional Musicians

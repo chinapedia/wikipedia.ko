@@ -1,18 +1,18 @@
 > This article is converted from Wikipedia: [  TV,  ](https://ko.wikipedia.org/wiki/__TV,__).
 
 
-《**당신을 구하는 TV, 우리는 형사다**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [JTBC](https://ko.wikipedia.org/wiki/JTBC "wikilink")의 프로그램이다. 형사 토크 버라이어티쇼로, 형사들이 출연해 범죄에 대한 경각심을 일깨우고 예방책을 제시하는 프로그램이다.\[1\]
+《**당신을 구하는 TV, 우리는 형사다**》는 [대한민국](../Page/대한민국.md "wikilink")의 [JTBC](../Page/JTBC.md "wikilink")의 프로그램이다. 형사 토크 버라이어티쇼로, 형사들이 출연해 범죄에 대한 경각심을 일깨우고 예방책을 제시하는 프로그램이다.\[1\]
 
 ## 방송 시간
 
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [12월 6일](https://ko.wikipedia.org/wiki/12월_6일 "wikilink") \~ [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [1월 24일](https://ko.wikipedia.org/wiki/1월_24일 "wikilink") : 매주 목요일 오후 11시
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [1월 31일](https://ko.wikipedia.org/wiki/1월_31일 "wikilink") \~ [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [4월 11일](https://ko.wikipedia.org/wiki/4월_11일 "wikilink") : 매주 목요일 오후 9시 50분
+  - [2012년](../Page/2012년.md "wikilink") [12월 6일](../Page/12월_6일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [1월 24일](../Page/1월_24일.md "wikilink") : 매주 목요일 오후 11시
+  - [2013년](../Page/2013년.md "wikilink") [1월 31일](../Page/1월_31일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [4월 11일](../Page/4월_11일.md "wikilink") : 매주 목요일 오후 9시 50분
 
 ## 출연자
 
 **MC**
 
-  - [이휘재](https://ko.wikipedia.org/wiki/이휘재 "wikilink")
+  - [이휘재](../Page/이휘재.md "wikilink")
 
 **8인의 형사**
 
@@ -25,7 +25,7 @@
 
   - [김창렬](https://ko.wikipedia.org/wiki/김창렬 "wikilink")
   - [허준](https://ko.wikipedia.org/wiki/허준_\(1977년\) "wikilink")
-  - [솔비](https://ko.wikipedia.org/wiki/솔비 "wikilink")
+  - [솔비](../Page/솔비.md "wikilink")
   - [주영훈](https://ko.wikipedia.org/wiki/주영훈 "wikilink")
 
 ## 각주

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Wreckorder](https://ko.wikipedia.org/wiki/Wreckorder).
 
 
-***Wreckorder***은 [프랜시스 힐리의](../Page/프랜시스_힐리.md "wikilink") 첫 솔로앨범이다. 이 앨범은 2010년 [10월 4일](https://ko.wikipedia.org/wiki/10월_4일 "wikilink")\[1\] 그의 개인 레이블 "Wreckord Label"에서 발매되었다.\[2\] 2009년 말부터 [베를린](https://ko.wikipedia.org/wiki/베를린 "wikilink")과 [뉴욕](https://ko.wikipedia.org/wiki/뉴욕 "wikilink")에서 녹음하였으며 2010년 초에 [버몬트주](https://ko.wikipedia.org/wiki/버몬트주 "wikilink")에서 녹음을 마쳤다. 이머리 도빈스에 의해 제작되었으며 [폴 매카트니](https://ko.wikipedia.org/wiki/폴_매카트니 "wikilink"), [네코 케이스](https://ko.wikipedia.org/wiki/네코_케이스 "wikilink"), [노아 앤 더 웨일의](https://ko.wikipedia.org/wiki/노아_앤_더_웨일 "wikilink") 톰 홉든이 녹음에 참가했다. 이 앨범은 스탠더드 형식과 디럭스 형식으로 발매되었으며 처음 발매했을때 UK 앨범 차트 76위에 올랐다.
+***Wreckorder***은 [프랜시스 힐리의](../Page/프랜시스_힐리.md "wikilink") 첫 솔로앨범이다. 이 앨범은 2010년 [10월 4일](../Page/10월_4일.md "wikilink")\[1\] 그의 개인 레이블 "Wreckord Label"에서 발매되었다.\[2\] 2009년 말부터 [베를린](../Page/베를린.md "wikilink")과 [뉴욕](../Page/뉴욕.md "wikilink")에서 녹음하였으며 2010년 초에 [버몬트주](../Page/버몬트주.md "wikilink")에서 녹음을 마쳤다. 이머리 도빈스에 의해 제작되었으며 [폴 매카트니](../Page/폴_매카트니.md "wikilink"), [네코 케이스](https://ko.wikipedia.org/wiki/네코_케이스 "wikilink"), [노아 앤 더 웨일의](https://ko.wikipedia.org/wiki/노아_앤_더_웨일 "wikilink") 톰 홉든이 녹음에 참가했다. 이 앨범은 스탠더드 형식과 디럭스 형식으로 발매되었으며 처음 발매했을때 UK 앨범 차트 76위에 올랐다.
 
 ## 트랙 리스트
 

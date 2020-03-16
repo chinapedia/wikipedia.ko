@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TOHOSHINKI LIVE TOUR 2013 \~TIME\~](https://ko.wikipedia.org/wiki/TOHOSHINKI_LIVE_TOUR_2013_\~TIME\~).
 
 
-《**TOHOSHINKI LIVE TOUR 2013 \~TIME\~**》은 그룹 [동방신기](https://ko.wikipedia.org/wiki/동방신기 "wikilink")의 5대 돔 투어 위주로 치러진 6번째 일본 전국 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").
+《**TOHOSHINKI LIVE TOUR 2013 \~TIME\~**》은 그룹 [동방신기](../Page/동방신기.md "wikilink")의 5대 돔 투어 위주로 치러진 6번째 일본 전국 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").
 
 ## 개요
 
@@ -17,27 +17,27 @@
 
 ## 투어 일정
 
-| 일정           | 도시                                                      | 장소                                                                                           | 관객 수        |
-| ------------ | ------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ----------- |
-| 2013년 4월 27일 | [사이타마](https://ko.wikipedia.org/wiki/사이타마 "wikilink")   | [사이타마 슈퍼 아레나](https://ko.wikipedia.org/wiki/사이타마_슈퍼_아레나 "wikilink") 스타디움 모드                  | 통산 105,000명 |
-| 2013년 4월 28일 |                                                         |                                                                                              |             |
-| 2013년 4월 29일 |                                                         |                                                                                              |             |
-| 2013년 5월 5일  | [삿포로](https://ko.wikipedia.org/wiki/삿포로 "wikilink")     | [삿포로 돔](https://ko.wikipedia.org/wiki/삿포로_돔 "wikilink")                                      | 40,000명     |
-| 2013년 5월 10일 | [나고야 시](https://ko.wikipedia.org/wiki/나고야_시 "wikilink") | [나고야 돔](https://ko.wikipedia.org/wiki/나고야_돔 "wikilink")                                      | 통산 132,000명 |
-| 2013년 5월 11일 |                                                         |                                                                                              |             |
-| 2013년 5월 12일 |                                                         |                                                                                              |             |
-| 2013년 5월 25일 | [후쿠오카](https://ko.wikipedia.org/wiki/후쿠오카 "wikilink")   | [후쿠오카 야후오쿠\! 돔](https://ko.wikipedia.org/wiki/후쿠오카_돔 "wikilink")                             | 통산 88,000명  |
-| 2013년 5월 26일 |                                                         |                                                                                              |             |
-| 2013년 6월 5일  | [오사카](https://ko.wikipedia.org/wiki/오사카 "wikilink")     | [쿄세라 돔 오사카](https://ko.wikipedia.org/wiki/오사카_돔 "wikilink")                                  | 통산 180,000명 |
-| 2013년 6월 6일  |                                                         |                                                                                              |             |
-| 2013년 6월 8일  |                                                         |                                                                                              |             |
-| 2013년 6월 9일  |                                                         |                                                                                              |             |
-| 2013년 6월 15일 | [도쿄](https://ko.wikipedia.org/wiki/도쿄 "wikilink")       | [도쿄 돔](https://ko.wikipedia.org/wiki/도쿄_돔 "wikilink")\[2\]                                   | 통산 165,000명 |
-| 2013년 6월 16일 |                                                         |                                                                                              |             |
-| 2013년 6월 17일 |                                                         |                                                                                              |             |
-| 2013년 8월 17일 | [요코하마](https://ko.wikipedia.org/wiki/요코하마 "wikilink")   | [닛산 스타디움](https://ko.wikipedia.org/wiki/요코하마_국제_종합경기장 "wikilink")\[3\]<small>(FINAL)</small> | 통산 144,000명 |
-| 2013년 8월 18일 |                                                         |                                                                                              |             |
-|              |                                                         |                                                                                              |             |
+| 일정           | 도시                                                      | 장소                                                                        | 관객 수        |
+| ------------ | ------------------------------------------------------- | ------------------------------------------------------------------------- | ----------- |
+| 2013년 4월 27일 | [사이타마](https://ko.wikipedia.org/wiki/사이타마 "wikilink")   | [사이타마 슈퍼 아레나](../Page/사이타마_슈퍼_아레나.md "wikilink") 스타디움 모드                  | 통산 105,000명 |
+| 2013년 4월 28일 |                                                         |                                                                           |             |
+| 2013년 4월 29일 |                                                         |                                                                           |             |
+| 2013년 5월 5일  | [삿포로](https://ko.wikipedia.org/wiki/삿포로 "wikilink")     | [삿포로 돔](../Page/삿포로_돔.md "wikilink")                                      | 40,000명     |
+| 2013년 5월 10일 | [나고야 시](https://ko.wikipedia.org/wiki/나고야_시 "wikilink") | [나고야 돔](../Page/나고야_돔.md "wikilink")                                      | 통산 132,000명 |
+| 2013년 5월 11일 |                                                         |                                                                           |             |
+| 2013년 5월 12일 |                                                         |                                                                           |             |
+| 2013년 5월 25일 | [후쿠오카](https://ko.wikipedia.org/wiki/후쿠오카 "wikilink")   | [후쿠오카 야후오쿠\! 돔](../Page/후쿠오카_돔.md "wikilink")                             | 통산 88,000명  |
+| 2013년 5월 26일 |                                                         |                                                                           |             |
+| 2013년 6월 5일  | [오사카](https://ko.wikipedia.org/wiki/오사카 "wikilink")     | [쿄세라 돔 오사카](../Page/오사카_돔.md "wikilink")                                  | 통산 180,000명 |
+| 2013년 6월 6일  |                                                         |                                                                           |             |
+| 2013년 6월 8일  |                                                         |                                                                           |             |
+| 2013년 6월 9일  |                                                         |                                                                           |             |
+| 2013년 6월 15일 | [도쿄](../Page/도쿄.md "wikilink")                          | [도쿄 돔](../Page/도쿄_돔.md "wikilink")\[2\]                                   | 통산 165,000명 |
+| 2013년 6월 16일 |                                                         |                                                                           |             |
+| 2013년 6월 17일 |                                                         |                                                                           |             |
+| 2013년 8월 17일 | [요코하마](https://ko.wikipedia.org/wiki/요코하마 "wikilink")   | [닛산 스타디움](../Page/요코하마_국제_종합경기장.md "wikilink")\[3\]<small>(FINAL)</small> | 통산 144,000명 |
+| 2013년 8월 18일 |                                                         |                                                                           |             |
+|              |                                                         |                                                                           |             |
 
 ## 세트 리스트
 
@@ -47,9 +47,9 @@
 
 ## 제작
 
-  - [동방신기](https://ko.wikipedia.org/wiki/동방신기 "wikilink") ([유노윤호](https://ko.wikipedia.org/wiki/유노윤호 "wikilink"), [최강창민](https://ko.wikipedia.org/wiki/최강창민 "wikilink"))
-  - 기획·제작 : [에이벡스 엔터테인먼트](https://ko.wikipedia.org/wiki/에이벡스_엔터테인먼트 "wikilink"), SM 엔터테인먼트 재팬
-  - 협찬 : Joysound, 세븐넷쇼핑, [세븐일레븐](https://ko.wikipedia.org/wiki/세븐일레븐 "wikilink"), Glica
+  - [동방신기](../Page/동방신기.md "wikilink") ([유노윤호](../Page/유노윤호.md "wikilink"), [최강창민](../Page/최강창민.md "wikilink"))
+  - 기획·제작 : [에이벡스 엔터테인먼트](../Page/에이벡스_엔터테인먼트.md "wikilink"), SM 엔터테인먼트 재팬
+  - 협찬 : Joysound, 세븐넷쇼핑, [세븐일레븐](../Page/세븐일레븐.md "wikilink"), Glica
   - 총감독 : SAM
 
 ## 각주

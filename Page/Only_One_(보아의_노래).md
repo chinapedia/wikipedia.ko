@@ -5,9 +5,9 @@
 
 ## 설명
 
-  - 2011년 발매된 보아의 첫 번째 DVD싱글 [Milestone](https://ko.wikipedia.org/wiki/Milestone_\(보아의_노래\) "wikilink") 이후 2년 여만에 처음 발매되는 보아의 일본 싱글이다.
+  - 2011년 발매된 보아의 첫 번째 DVD싱글 [Milestone](../Page/Milestone_\(보아의_노래\).md "wikilink") 이후 2년 여만에 처음 발매되는 보아의 일본 싱글이다.
   - 타이틀곡인 'Only One'은 보아 스스로 작사·작곡한 곡이며, 수록곡인 'The Shadow'도 작사에 참여하였다.
-  - 타이틀곡인 'Only One'과 수록곡인 'The Shadow' 모두 2012년 발매된 한국 정규 7집 앨범 '[Only One](https://ko.wikipedia.org/wiki/Only_One_\(보아의_음반\) "wikilink")'에 수록되었던 곡으로 그 곡들을 일본어로 번안하여 수록한 싱글앨범이다.
+  - 타이틀곡인 'Only One'과 수록곡인 'The Shadow' 모두 2012년 발매된 한국 정규 7집 앨범 '[Only One](../Page/Only_One_\(보아의_음반\).md "wikilink")'에 수록되었던 곡으로 그 곡들을 일본어로 번안하여 수록한 싱글앨범이다.
   - 'The Shadow'의 뮤직비디오는 보아의 친오빠인 권순욱 씨가 감독한 작품이다.
 
 ## 수록곡

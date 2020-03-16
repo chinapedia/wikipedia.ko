@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [UDig](https://ko.wikipedia.org/wiki/UDig).
 
 
-**uDig**은 [자바로](https://ko.wikipedia.org/wiki/자바_\(프로그래밍_언어\) "wikilink") 만들어진 [이클립스 플랫폼](https://ko.wikipedia.org/wiki/이클립스_\(소프트웨어\) "wikilink") 기반의 오픈 소스([EPL](https://ko.wikipedia.org/wiki/EPL "wikilink"), [BSD](https://ko.wikipedia.org/wiki/BSD "wikilink")) 데스크톱 [GIS](https://ko.wikipedia.org/wiki/GIS "wikilink") 프로그램으로 2004년 [Refractions Research에](https://ko.wikipedia.org/wiki/Refractions_Research "wikilink") 의해 시작되었다.
+**uDig**은 [자바로](../Page/자바_\(프로그래밍_언어\).md "wikilink") 만들어진 [이클립스 플랫폼](../Page/이클립스_\(소프트웨어\).md "wikilink") 기반의 오픈 소스([EPL](https://ko.wikipedia.org/wiki/EPL "wikilink"), [BSD](../Page/BSD.md "wikilink")) 데스크톱 [GIS](https://ko.wikipedia.org/wiki/GIS "wikilink") 프로그램으로 2004년 [Refractions Research에](https://ko.wikipedia.org/wiki/Refractions_Research "wikilink") 의해 시작되었다.
 
 uDig은 Desktop 환경에서 데이터 접근, 편집, 시각화를 위한 완전한 Java 솔루션을 제공한다.
 

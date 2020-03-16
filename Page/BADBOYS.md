@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [BADBOYS](https://ko.wikipedia.org/wiki/BADBOYS).
 
 
-《**BADBOYS**》(배드 보이즈)는, 타나카 히로시의 [만화](https://ko.wikipedia.org/wiki/만화 "wikilink") 작품이다.
+《**BADBOYS**》(배드 보이즈)는, 타나카 히로시의 [만화](../Page/만화.md "wikilink") 작품이다.
 
 ## 개요
 
-재산이 넉넉한 집의 아들로 도련님으로 자란 주인공, 키리키 츠카사는 과잉보호인 육아 방법으로 압박해오는 가정에 불만을 느끼면서도 반발할 수 없는 생활을 보내고 있었다. 그런 가운데, 가정교사인 미치에 씨의 한마디를 계기로 불량이 되는 것을 결의. 우여곡절 끝에 [폭주족](https://ko.wikipedia.org/wiki/폭주족 "wikilink") **고쿠라쿠쵸**의 8대 두목이 되어, 폭주족으로서 청춘의 날들을 보내게 된다.
+재산이 넉넉한 집의 아들로 도련님으로 자란 주인공, 키리키 츠카사는 과잉보호인 육아 방법으로 압박해오는 가정에 불만을 느끼면서도 반발할 수 없는 생활을 보내고 있었다. 그런 가운데, 가정교사인 미치에 씨의 한마디를 계기로 불량이 되는 것을 결의. 우여곡절 끝에 [폭주족](../Page/폭주족.md "wikilink") **고쿠라쿠쵸**의 8대 두목이 되어, 폭주족으로서 청춘의 날들을 보내게 된다.
 
 ## 등장인물
 
@@ -36,17 +36,17 @@
 
 ## 실사 영화 (2011년)
 
-《**BADBOYS**》는, 쿠보타 타카시 감독의 [영화이다](https://ko.wikipedia.org/wiki/일본의_영화 "wikilink").
+《**BADBOYS**》는, 쿠보타 타카시 감독의 [영화이다](../Page/일본의_영화.md "wikilink").
 
 ### 캐스트
 
-  - 노무라 유타카 - [미우라 타카히로](https://ko.wikipedia.org/wiki/미우라_타카히로 "wikilink")
+  - 노무라 유타카 - [미우라 타카히로](../Page/미우라_타카히로.md "wikilink")
 
 외
 
 ## 텔레비전 드라마
 
-《**BAD BOYS J**》의 타이틀로 텔레비전 드라마화. [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [4월 6일부터](https://ko.wikipedia.org/wiki/4월_6일 "wikilink") [6월 22일까지](https://ko.wikipedia.org/wiki/6월_22일 "wikilink") [닛폰 TV에서](https://ko.wikipedia.org/wiki/닛폰_TV_방송망 "wikilink") 매주 [토요일](https://ko.wikipedia.org/wiki/토요일 "wikilink") 24:50 \~ 25:20([JST](https://ko.wikipedia.org/wiki/일본_표준시 "wikilink"))에 방송되었다. 주연은 [나카지마 켄토](https://ko.wikipedia.org/wiki/나카지마_켄토 "wikilink").
+《**BAD BOYS J**》의 타이틀로 텔레비전 드라마화. [2013년](../Page/2013년.md "wikilink") [4월 6일부터](../Page/4월_6일.md "wikilink") [6월 22일까지](../Page/6월_22일.md "wikilink") [닛폰 TV에서](../Page/닛폰_TV_방송망.md "wikilink") 매주 [토요일](../Page/토요일.md "wikilink") 24:50 \~ 25:20([JST](../Page/일본_표준시.md "wikilink"))에 방송되었다. 주연은 [나카지마 켄토](../Page/나카지마_켄토.md "wikilink").
 
 ### 캐스트
 
@@ -54,12 +54,12 @@
 
 <!-- end list -->
 
-  - **키리키 츠카사** (8대째 리더) - [나카지마 켄토](https://ko.wikipedia.org/wiki/나카지마_켄토 "wikilink") ([Sexy Zone](https://ko.wikipedia.org/wiki/Sexy_Zone "wikilink"))
-  - **카와나카 요지** - 이와모토 히카루 ([Snow Man](https://ko.wikipedia.org/wiki/Mis_Snow_Man "wikilink"))
+  - **키리키 츠카사** (8대째 리더) - [나카지마 켄토](../Page/나카지마_켄토.md "wikilink") ([Sexy Zone](https://ko.wikipedia.org/wiki/Sexy_Zone "wikilink"))
+  - **카와나카 요지** - 이와모토 히카루 ([Snow Man](../Page/Mis_Snow_Man.md "wikilink"))
   - **이와미 에이지** - 후카사와 타츠야 (Snow Man)
   - **나카무라 히사오** - 와타나베 쇼타 (Snow Man)
   - **요시모토 슌** (7대째 리더) - 야마네 카즈마
-  - **요시모토 쿠미** (슌의 여동생) - [하시모토 나나미](../Page/하시모토_나나미.md "wikilink") ([노기자카46](https://ko.wikipedia.org/wiki/노기자카46 "wikilink"))
+  - **요시모토 쿠미** (슌의 여동생) - [하시모토 나나미](../Page/하시모토_나나미.md "wikilink") ([노기자카46](../Page/노기자카46.md "wikilink"))
   - **스즈하라 신이치** (츠카사의 소꿉친구) - 마츠시마 쇼타
   - **타카나시 아오이** (츠카사의 소꿉친구) - [타케토미 세이카](../Page/타케토미_세이카.md "wikilink")
   - **나카무라 미치아케** (히사오의 아버지) - 하세가와 키미히코
@@ -70,12 +70,12 @@
 
 <!-- end list -->
 
-  - **단노 히데노리** - [니카이도 타카시](https://ko.wikipedia.org/wiki/니카이도_타카시 "wikilink") ([Kis-My-Ft2](https://ko.wikipedia.org/wiki/Kis-My-Ft2 "wikilink"))
+  - **단노 히데노리** - [니카이도 타카시](../Page/니카이도_타카시.md "wikilink") ([Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink"))
   - **타카마 카즈토시** - 모리타 뮤토 (쟈니즈 Jr.)
   - **하라다 카즈나리** - 모로호시 쇼키 (쟈니즈 Jr.)
   - **사쿠라기 유스케** - 야가미 렌
   - **오기** (원 BEAST) - 소마 케이스케
-  - **나카이 카오리** - [이타노 토모미](https://ko.wikipedia.org/wiki/이타노_토모미 "wikilink") ([AKB48](https://ko.wikipedia.org/wiki/AKB48 "wikilink"))
+  - **나카이 카오리** - [이타노 토모미](../Page/이타노_토모미.md "wikilink") ([AKB48](../Page/AKB48.md "wikilink"))
   - **미야시타 마리야** - 사쿠라이 레이카 (노기자카46)
   - **모모세 하루카** - 타카야마 카즈미 (노기자카46)
   - **닛타 미오** - 와카츠키 유미 (노기자카46)
@@ -87,8 +87,8 @@
 
 <!-- end list -->
 
-  - **히로** - [하시모토 료스케](https://ko.wikipedia.org/wiki/하시모토_료스케 "wikilink") ([A.B.C-Z](https://ko.wikipedia.org/wiki/A.B.C-Z "wikilink"))
-  - **나카가와 켄지로** - [야스이 켄타로](https://ko.wikipedia.org/wiki/야스이_켄타로 "wikilink") (쟈니즈 Jr.)
+  - **히로** - [하시모토 료스케](../Page/하시모토_료스케.md "wikilink") ([A.B.C-Z](../Page/A.B.C-Z.md "wikilink"))
+  - **나카가와 켄지로** - [야스이 켄타로](../Page/야스이_켄타로.md "wikilink") (쟈니즈 Jr.)
   - **후나모토 준** - 하기야 케이고 (쟈니즈 Jr.)
   - **켄죠 쥬리** (원 Nights) - 시메카케 류야 (쟈니즈 Jr.)
   - **사토 에리카** (히로의 여자친구) - [트린들 레이나](../Page/트린들_레이나.md "wikilink")
@@ -123,7 +123,7 @@
   - 감독 - 쿠보타 타카시, 타키모토 켄고
   - 각본 - 와타나베 케이, 쿠와무라 사야카, 네모토 논지, 미타 쿠토
   - 프로듀서 - 우에노 히로유키 (NTV), 와타나베 코지 (AXON)
-  - 기획 협력 - [쟈니즈 사무소](https://ko.wikipedia.org/wiki/자니스_사무소 "wikilink")
+  - 기획 협력 - [쟈니즈 사무소](../Page/자니스_사무소.md "wikilink")
   - 제작 협력 - 수퍼비전
   - 제작 프로덕션 - 닛테레 악스온
   - 제작 저작 - 〈BAD BOYS J〉 제작 위원회, D.N.드림 파트너즈, vap
@@ -136,7 +136,7 @@
 
 #### 삽입곡
 
-  - [노기자카46](https://ko.wikipedia.org/wiki/노기자카46 "wikilink") 〈[세상에서 가장 고독한 Lover](../Page/걸즈_룰.md "wikilink")〉 ([Sony Music Records](https://ko.wikipedia.org/wiki/소니_뮤직_레코드 "wikilink"))
+  - [노기자카46](../Page/노기자카46.md "wikilink") 〈[세상에서 가장 고독한 Lover](../Page/걸즈_룰.md "wikilink")〉 ([Sony Music Records](https://ko.wikipedia.org/wiki/소니_뮤직_레코드 "wikilink"))
 
 ### 방송일
 
@@ -286,7 +286,7 @@
 
 ## 극장판 BAD BOYS J -최후에 지킬 것-
 
-《**극장판 BAD BOYS J -최후에 지킬 것-**》()는, [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [11월 9일에](https://ko.wikipedia.org/wiki/11월_9일 "wikilink") 개봉한 [영화이다](https://ko.wikipedia.org/wiki/일본의_영화 "wikilink").
+《**극장판 BAD BOYS J -최후에 지킬 것-**》()는, [일본](../Page/일본.md "wikilink")에서 [2013년](../Page/2013년.md "wikilink") [11월 9일에](../Page/11월_9일.md "wikilink") 개봉한 [영화이다](../Page/일본의_영화.md "wikilink").
 
 캐치프레이즈는, 〈**누군가를 지키려고 했을 때, 사람은 처음으로 강해진다―　강하고, 멋있게, Sweet한 놈들이 보내는, 감동의 청춘 엔터테인먼트\!**〉.
 
@@ -294,27 +294,27 @@
 
 #### 고쿠라쿠쵸
 
-  - **키리키 츠카사** (8대째 리더) - [나카지마 켄토](https://ko.wikipedia.org/wiki/나카지마_켄토 "wikilink") ([Sexy Zone](https://ko.wikipedia.org/wiki/Sexy_Zone "wikilink"))
-  - **카와나카 요지** - 이와모토 히카루 ([Snow Man](https://ko.wikipedia.org/wiki/Mis_Snow_Man "wikilink"))
+  - **키리키 츠카사** (8대째 리더) - [나카지마 켄토](../Page/나카지마_켄토.md "wikilink") ([Sexy Zone](https://ko.wikipedia.org/wiki/Sexy_Zone "wikilink"))
+  - **카와나카 요지** - 이와모토 히카루 ([Snow Man](../Page/Mis_Snow_Man.md "wikilink"))
   - **이와미 에이지** - 후카사와 타츠야 (Snow Man)
   - **나카무라 히사오** - 와타나베 쇼타 (Snow Man)
-  - **요시모토 쿠미** (츠카사의 여자친구) - [하시모토 나나미](../Page/하시모토_나나미.md "wikilink") ([노기자카46](https://ko.wikipedia.org/wiki/노기자카46 "wikilink"))
+  - **요시모토 쿠미** (츠카사의 여자친구) - [하시모토 나나미](../Page/하시모토_나나미.md "wikilink") ([노기자카46](../Page/노기자카46.md "wikilink"))
   - **키노시타 아이리** (요지의 연모하고 있는 사람) - [이코마 리나](../Page/이코마_리나.md "wikilink") (노기자카46)
 
 #### BEAST
 
-  - **단노 히데노리** - [니카이도 타카시](https://ko.wikipedia.org/wiki/니카이도_타카시 "wikilink") ([Kis-My-Ft2](https://ko.wikipedia.org/wiki/Kis-My-Ft2 "wikilink"))
+  - **단노 히데노리** - [니카이도 타카시](../Page/니카이도_타카시.md "wikilink") ([Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink"))
   - **타카마 카즈토시** - 모리타 뮤토 (쟈니즈 Jr.)
   - **하라다 카즈나리** - 모로호시 쇼키 (쟈니즈 Jr.)
-  - **나카이 카오리** (단노의 여자친구) - [이타노 토모미](https://ko.wikipedia.org/wiki/이타노_토모미 "wikilink")
+  - **나카이 카오리** (단노의 여자친구) - [이타노 토모미](../Page/이타노_토모미.md "wikilink")
   - **미야시타 마리야** - 사쿠라이 레이카 (노기자카46)
   - **아라타 미오** - 와카츠키 유미 (노기자카46)
   - **카라츠 리나** - 노죠 아미 (노기자카46)
 
 #### Nights
 
-  - **히로** - [하시모토 료스케](https://ko.wikipedia.org/wiki/하시모토_료스케 "wikilink") ([A.B.C-Z](https://ko.wikipedia.org/wiki/A.B.C-Z "wikilink"))
-  - **나카가와 켄지로** - [야스이 켄타로](https://ko.wikipedia.org/wiki/야스이_켄타로 "wikilink") (쟈니즈 Jr.)
+  - **히로** - [하시모토 료스케](../Page/하시모토_료스케.md "wikilink") ([A.B.C-Z](../Page/A.B.C-Z.md "wikilink"))
+  - **나카가와 켄지로** - [야스이 켄타로](../Page/야스이_켄타로.md "wikilink") (쟈니즈 Jr.)
   - **후나모토 준** - 하기야 케이고 (쟈니즈 Jr.)
   - **사토 에리카** (히로의 여자친구) - [트린들 레이나](../Page/트린들_레이나.md "wikilink")
   - **후지이 미카** (에이지의 여자친구) - [마츠무라 사유리](../Page/마츠무라_사유리.md "wikilink") (노기자카46)
@@ -326,8 +326,8 @@
 
   - **사카키 키요토** (리더) - 카키자와 하야토
   - **켄죠 이츠키** (원 Nights) - 시메카케 류야 (쟈니즈 Jr.)
-  - **오노자와 케이타** (원 고쿠라쿠쵸) - [시게오카 다이키](https://ko.wikipedia.org/wiki/시게오카_다이키 "wikilink") (칸사이 쟈니즈 Jr.)
-  - **마사키 나오** (케이타의 연인) - [시라이시 마이](https://ko.wikipedia.org/wiki/시라이시_마이 "wikilink") (노기자카46)
+  - **오노자와 케이타** (원 고쿠라쿠쵸) - [시게오카 다이키](../Page/시게오카_다이키.md "wikilink") (칸사이 쟈니즈 Jr.)
+  - **마사키 나오** (케이타의 연인) - [시라이시 마이](../Page/시라이시_마이.md "wikilink") (노기자카46)
   - **오오타케 유야** - 아베 료헤이
 
 #### 그 외

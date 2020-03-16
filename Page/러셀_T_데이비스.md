@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ T ](https://ko.wikipedia.org/wiki/_T_).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Russelltdavies.jpg "wikilink") **러셀 T 데이비스**(, [1963년](https://ko.wikipedia.org/wiki/1963년 "wikilink") [4월 27일](https://ko.wikipedia.org/wiki/4월_27일 "wikilink") \~ )는 [웨일스](https://ko.wikipedia.org/wiki/웨일스 "wikilink")의 [각본가](https://ko.wikipedia.org/wiki/각본가 "wikilink")이자 [텔레비전 프로듀서이다](https://ko.wikipedia.org/wiki/텔레비전_프로듀서 "wikilink").
+[섬네일](https://ko.wikipedia.org/wiki/파일:Russelltdavies.jpg "wikilink") **러셀 T 데이비스**(, [1963년](../Page/1963년.md "wikilink") [4월 27일](../Page/4월_27일.md "wikilink") \~ )는 [웨일스](../Page/웨일스.md "wikilink")의 [각본가](https://ko.wikipedia.org/wiki/각본가 "wikilink")이자 [텔레비전 프로듀서이다](https://ko.wikipedia.org/wiki/텔레비전_프로듀서 "wikilink").
 
 ## 주요 작품
 
@@ -9,14 +9,14 @@
   - [퀴어 애즈 포크](https://ko.wikipedia.org/wiki/퀴어_애즈_포크_\(1999년_드라마\) "wikilink")
   - 밥 & 로즈
   - 카사노바
-  - [닥터 후](https://ko.wikipedia.org/wiki/닥터_후 "wikilink")
-  - [토치우드](https://ko.wikipedia.org/wiki/토치우드 "wikilink")
-  - [사라 제인 어드벤처](https://ko.wikipedia.org/wiki/사라_제인_어드벤처 "wikilink")
+  - [닥터 후](../Page/닥터_후.md "wikilink")
+  - [토치우드](../Page/토치우드.md "wikilink")
+  - [사라 제인 어드벤처](../Page/사라_제인_어드벤처.md "wikilink")
   - [한여름 밤의 꿈](../Page/한여름_밤의_꿈_\(영국의_드라마\).md "wikilink")
 
 ## 서훈
 
-  - 2008년 [대영 제국 훈장 4등급](https://ko.wikipedia.org/wiki/대영_제국_훈장 "wikilink")(OBE) 수훈\[1\]
+  - 2008년 [대영 제국 훈장 4등급](../Page/대영_제국_훈장.md "wikilink")(OBE) 수훈\[1\]
 
 ## 주해
 

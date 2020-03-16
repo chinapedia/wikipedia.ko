@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Intro  The Gift Recordings](https://ko.wikipedia.org/wiki/Intro__The_Gift_Recordings).
 
 
-***Intro – The Gift Recordings***는 [펄프의](https://ko.wikipedia.org/wiki/펄프_\(밴드\) "wikilink") 컴필레이션 음반이다.
+***Intro – The Gift Recordings***는 [펄프의](../Page/펄프_\(밴드\).md "wikilink") 컴필레이션 음반이다.
 
 ## 트랙 리스트
 
@@ -9,7 +9,7 @@
 
 ## Personnel
 
-  - [자비스 코커](https://ko.wikipedia.org/wiki/자비스_코커 "wikilink") - 보컬, 기타
+  - [자비스 코커](../Page/자비스_코커.md "wikilink") - 보컬, 기타
   - [러셀 시니어](https://ko.wikipedia.org/wiki/:en:Russell_Senior "wikilink") - 기타, 바이올린
   - [캔디다 도일](https://ko.wikipedia.org/wiki/:en:Candida_Doyle "wikilink") - 오르간, 신시사이저, 스타일로폰
   - [스티브 맥키](https://ko.wikipedia.org/wiki/:en:Steve_Mackey "wikilink") - 베이스

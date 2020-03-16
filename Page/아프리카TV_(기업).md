@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TV \(\)](https://ko.wikipedia.org/wiki/TV_\(\)).
 
 
-**아프리카TV**는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 IT 기업이다. 대표이사는 정찬용이다. 1994년에 창립되어 PC통신 [나우누리](https://ko.wikipedia.org/wiki/나우누리 "wikilink")를 운영하였으며, 현재 인터넷 방송국 [아프리카TV](https://ko.wikipedia.org/wiki/아프리카TV "wikilink")를 운영하고 있다.
+**아프리카TV**는 [대한민국](../Page/대한민국.md "wikilink")의 IT 기업이다. 대표이사는 정찬용이다. 1994년에 창립되어 PC통신 [나우누리](https://ko.wikipedia.org/wiki/나우누리 "wikilink")를 운영하였으며, 현재 인터넷 방송국 [아프리카TV](../Page/아프리카TV.md "wikilink")를 운영하고 있다.
 
 2008년 1월, 보안서비스 업체인 (주)윈스테크넷에 합병되었고, 사명은 나우콤을 그대로 유지하기로 하였다.
 
@@ -13,7 +13,7 @@
 
 ### 인터넷 사업
 
-  - [아프리카TV](https://ko.wikipedia.org/wiki/아프리카TV "wikilink")
+  - [아프리카TV](../Page/아프리카TV.md "wikilink")
 
 ## 외부 링크
 

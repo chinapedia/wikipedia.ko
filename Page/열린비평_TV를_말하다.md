@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ TV ](https://ko.wikipedia.org/wiki/_TV_).
 
 
-《**열린비평 TV를 말하다**》은 [TV조선](https://ko.wikipedia.org/wiki/TV조선 "wikilink")의 프로그램에 대해 방송하는 프로그램이다.
+《**열린비평 TV를 말하다**》은 [TV조선](../Page/TV조선.md "wikilink")의 프로그램에 대해 방송하는 프로그램이다.
 
 ## 기획 의도
 
@@ -9,13 +9,13 @@
 
 ## 방송 시간
 
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [12월 9일](https://ko.wikipedia.org/wiki/12월_9일 "wikilink") \~ 현재 : 토요일 오전 8시 00분
+  - [2011년](../Page/2011년.md "wikilink") [12월 9일](../Page/12월_9일.md "wikilink") \~ 현재 : 토요일 오전 8시 00분
 
 ## 함께 보기
 
-  - [탐나는 TV](https://ko.wikipedia.org/wiki/탐나는_TV "wikilink") (MBC)
-  - [열린 TV 시청자 세상](https://ko.wikipedia.org/wiki/열린_TV_시청자_세상 "wikilink") (SBS)
-  - [TV비평 시청자데스크](https://ko.wikipedia.org/wiki/TV비평_시청자데스크 "wikilink") (KBS)
+  - [탐나는 TV](../Page/탐나는_TV.md "wikilink") (MBC)
+  - [열린 TV 시청자 세상](../Page/열린_TV_시청자_세상.md "wikilink") (SBS)
+  - [TV비평 시청자데스크](../Page/TV비평_시청자데스크.md "wikilink") (KBS)
   - [채널A 시청자 마당](../Page/채널A_시청자_마당.md "wikilink") (채널A)
   - [열린TV 열린세상](../Page/열린TV_열린세상.md "wikilink") (MBN)
   - [시청자 의회](../Page/시청자_의회.md "wikilink") (JTBC)
@@ -23,8 +23,8 @@
   - [미디어 공감 좋은TV](https://ko.wikipedia.org/wiki/미디어_공감_좋은TV "wikilink") (OBS경인TV)
   - [바로보는TV 옴부즈맨](https://ko.wikipedia.org/wiki/바로보는TV_옴부즈맨 "wikilink") (연합뉴스TV)
   - [클릭 KNN 시청자 세상](https://ko.wikipedia.org/wiki/클릭_KNN_시청자_세상 "wikilink") (KNN)
-  - [열린TBC](https://ko.wikipedia.org/wiki/열린TBC "wikilink") (TBC 대구방송)
-  - [kbc 열린 TV 시청자세상](https://ko.wikipedia.org/wiki/열린_TV_시청자세상_\(텔레비전_프로그램\) "wikilink") (kbc 광주방송)
+  - [열린TBC](../Page/열린TBC.md "wikilink") (TBC 대구방송)
+  - [kbc 열린 TV 시청자세상](../Page/열린_TV_시청자세상_\(텔레비전_프로그램\).md "wikilink") (kbc 광주방송)
 
 ## 외부 링크
 

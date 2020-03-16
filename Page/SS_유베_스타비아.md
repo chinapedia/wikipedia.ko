@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SS  ](https://ko.wikipedia.org/wiki/SS__).
 
 
-**SS 유베 스타비아**는 [이탈리아](https://ko.wikipedia.org/wiki/이탈리아 "wikilink") [캄파니아](https://ko.wikipedia.org/wiki/캄파니아 "wikilink") 지역의 카스텔람마레 디 스타비아를 연고로 하는 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 팀이다. 최근에도 1951-52 시즌 때부터 *AC 스타비아* 라는 이름으로 뛰었던 [세리에 B에](https://ko.wikipedia.org/wiki/세리에_B "wikilink") 속해 있다.
+**SS 유베 스타비아**는 [이탈리아](../Page/이탈리아.md "wikilink") [캄파니아](https://ko.wikipedia.org/wiki/캄파니아 "wikilink") 지역의 카스텔람마레 디 스타비아를 연고로 하는 [축구](../Page/축구.md "wikilink") 팀이다. 최근에도 1951-52 시즌 때부터 *AC 스타비아* 라는 이름으로 뛰었던 [세리에 B에](../Page/세리에_B.md "wikilink") 속해 있다.
 
 ## 선수 명단
 

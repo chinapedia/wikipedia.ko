@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [LG  F5](https://ko.wikipedia.org/wiki/LG__F5).
 
 
-**LG 옵티머스 F5**(LG Optimus F5)는 [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")가 [모바일 월드 콩그레스](https://ko.wikipedia.org/wiki/모바일_월드_콩그레스 "wikilink") 2013에서 최초로 공개하여\[1\], [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink")에 출시한 보급형 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")이다.
+**LG 옵티머스 F5**(LG Optimus F5)는 [LG전자](../Page/LG전자.md "wikilink")가 [모바일 월드 콩그레스](../Page/모바일_월드_콩그레스.md "wikilink") 2013에서 최초로 공개하여\[1\], [2013년](../Page/2013년.md "wikilink")에 출시한 보급형 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.
 
-[LG 옵티머스 시리즈의](https://ko.wikipedia.org/wiki/LG_옵티머스_\(제품군\) "wikilink") G/뷰/L/F 라인 중 F라인으로 보급형 [LTE](https://ko.wikipedia.org/wiki/롱_텀_에볼루션 "wikilink") 모델이며, 그중 하위급 모델이다.
+[LG 옵티머스 시리즈의](../Page/LG_옵티머스_\(제품군\).md "wikilink") G/뷰/L/F 라인 중 F라인으로 보급형 [LTE](https://ko.wikipedia.org/wiki/롱_텀_에볼루션 "wikilink") 모델이며, 그중 하위급 모델이다.
 
 ## 연혁
 
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [2월 25일](https://ko.wikipedia.org/wiki/2월_25일 "wikilink") : [모바일 월드 콩그레스](https://ko.wikipedia.org/wiki/모바일_월드_콩그레스 "wikilink") 2013에서 공개\[2\]
+  - [2013년](../Page/2013년.md "wikilink") [2월 25일](../Page/2월_25일.md "wikilink") : [모바일 월드 콩그레스](../Page/모바일_월드_콩그레스.md "wikilink") 2013에서 공개\[2\]
 
 ## 디자인
 
@@ -26,14 +26,14 @@
 
   - [ZTE ME](../Page/ZTE_ME.md "wikilink")
   - [삼성 갤럭시 S4 미니](../Page/삼성_갤럭시_S4_미니.md "wikilink")
-  - [삼성 갤럭시 R 스타일](https://ko.wikipedia.org/wiki/삼성_갤럭시_R_스타일 "wikilink")
+  - [삼성 갤럭시 R 스타일](../Page/삼성_갤럭시_R_스타일.md "wikilink")
 
 ## 같이 보기
 
   - [LG 옵티머스 F7](../Page/LG_옵티머스_F7.md "wikilink")
   - [LG 옵티머스 L3 II](../Page/LG_옵티머스_L3_II.md "wikilink")
   - [LG 옵티머스 L5 II](../Page/LG_옵티머스_L5_II.md "wikilink")
-  - [LG 옵티머스 L7 II](https://ko.wikipedia.org/wiki/LG_옵티머스_L7_II "wikilink")
+  - [LG 옵티머스 L7 II](../Page/LG_옵티머스_L7_II.md "wikilink")
 
 ## 외부 링크
 

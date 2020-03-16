@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Live from Le Cabaret](https://ko.wikipedia.org/wiki/Live_from_Le_Cabaret).
 
 
-***Live from Le Cabaret***은 [마룬 5의](https://ko.wikipedia.org/wiki/마룬_5 "wikilink") 세 번째 [라이브 음반이다](https://ko.wikipedia.org/wiki/라이브_음반 "wikilink"). 2008년 7월 8일에 발매되었으며, 2007년 6월 13일 [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink") [퀘벡주](https://ko.wikipedia.org/wiki/퀘벡주 "wikilink") [몬트리올](https://ko.wikipedia.org/wiki/몬트리올 "wikilink")에서 녹음되었다. 밴드의 두 번째 [정규 음반인](https://ko.wikipedia.org/wiki/정규_음반 "wikilink") *[It Won't Be Soon Before Long](https://ko.wikipedia.org/wiki/It_Won't_Be_Soon_Before_Long "wikilink")*의 재발매반에 수록되었다.
+***Live from Le Cabaret***은 [마룬 5의](../Page/마룬_5.md "wikilink") 세 번째 [라이브 음반이다](https://ko.wikipedia.org/wiki/라이브_음반 "wikilink"). 2008년 7월 8일에 발매되었으며, 2007년 6월 13일 [캐나다](../Page/캐나다.md "wikilink") [퀘벡주](../Page/퀘벡주.md "wikilink") [몬트리올](../Page/몬트리올.md "wikilink")에서 녹음되었다. 밴드의 두 번째 [정규 음반인](../Page/정규_음반.md "wikilink") *[It Won't Be Soon Before Long](../Page/It_Won't_Be_Soon_Before_Long.md "wikilink")*의 재발매반에 수록되었다.
 
 ## 수록곡
 
@@ -11,7 +11,7 @@
 4.  "The Sun" – 8:21
 5.  "Secret" – 5:38
 6.  "Shiver" – 5:28
-7.  "[Won't Go Home Without You](https://ko.wikipedia.org/wiki/Won't_Go_Home_Without_You "wikilink")" – 3:40
+7.  "[Won't Go Home Without You](../Page/Won't_Go_Home_Without_You.md "wikilink")" – 3:40
 8.  "[Sunday Morning](https://ko.wikipedia.org/wiki/Sunday_Morning "wikilink")" – 5:47
 9.  "Little Of Your Time" – 3:42
 10. "Sweetest Goodbye" – 11:27

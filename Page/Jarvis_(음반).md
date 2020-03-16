@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Jarvis \(\)](https://ko.wikipedia.org/wiki/Jarvis_\(\)).
 
 
-《**Jarvis**》는 [펄프의](https://ko.wikipedia.org/wiki/펄프_\(밴드\) "wikilink") 보컬인 [자비스 코커의](https://ko.wikipedia.org/wiki/자비스_코커 "wikilink") 첫 데뷔 솔로 앨범이다.
+《**Jarvis**》는 [펄프의](../Page/펄프_\(밴드\).md "wikilink") 보컬인 [자비스 코커의](../Page/자비스_코커.md "wikilink") 첫 데뷔 솔로 앨범이다.
 
 ## 제작
 
-펄프의 멤버인 [스티브 맥키](https://ko.wikipedia.org/wiki/스티브_맥키 "wikilink") 와 [마크 웨버가](https://ko.wikipedia.org/wiki/마크_웨버_\(기타리스트\) "wikilink") 녹음에 참여하였다. 전 펄프 멤버인 [안토니 젠과](https://ko.wikipedia.org/wiki/안토니_젠 "wikilink") 투어 멤버인 [리처드 홀리역시](https://ko.wikipedia.org/wiki/리처드_홀리 "wikilink") 녹음에 참여하였다. [캔디다 도일은](https://ko.wikipedia.org/wiki/캔디다_도일 "wikilink") 라이브 공연시에 다양한 곡들을 연주하였다. 마지막 트랙인 "Cunts are Still Running the World" 은 영화 *[차일드 오브 맨](https://ko.wikipedia.org/wiki/차일드_오브_맨 "wikilink")*의 [엔딩 크레디트](https://ko.wikipedia.org/wiki/엔딩_크레디트 "wikilink") 동안에 사용되었다.
+펄프의 멤버인 [스티브 맥키](https://ko.wikipedia.org/wiki/스티브_맥키 "wikilink") 와 [마크 웨버가](https://ko.wikipedia.org/wiki/마크_웨버_\(기타리스트\) "wikilink") 녹음에 참여하였다. 전 펄프 멤버인 [안토니 젠과](https://ko.wikipedia.org/wiki/안토니_젠 "wikilink") 투어 멤버인 [리처드 홀리역시](https://ko.wikipedia.org/wiki/리처드_홀리 "wikilink") 녹음에 참여하였다. [캔디다 도일은](https://ko.wikipedia.org/wiki/캔디다_도일 "wikilink") 라이브 공연시에 다양한 곡들을 연주하였다. 마지막 트랙인 "Cunts are Still Running the World" 은 영화 *[차일드 오브 맨](https://ko.wikipedia.org/wiki/차일드_오브_맨 "wikilink")*의 [엔딩 크레디트](../Page/엔딩_크레디트.md "wikilink") 동안에 사용되었다.
 
 ## 트랙 리스트
 

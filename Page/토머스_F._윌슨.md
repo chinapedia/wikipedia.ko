@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [ F. ](https://ko.wikipedia.org/wiki/_F._).
 
 
-**토머스 F. 윌슨**(Thomas F. Wilson, [1959년](https://ko.wikipedia.org/wiki/1959년 "wikilink") [4월 15일](https://ko.wikipedia.org/wiki/4월_15일 "wikilink") \~ )은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [배우](https://ko.wikipedia.org/wiki/배우 "wikilink")이다.
+**토머스 F. 윌슨**(Thomas F. Wilson, [1959년](../Page/1959년.md "wikilink") [4월 15일](../Page/4월_15일.md "wikilink") \~ )은 [미국](../Page/미국.md "wikilink")의 [배우](../Page/배우.md "wikilink")이다.
 
 ## 출연 작품
 
-  - [백 투 더 퓨처](https://ko.wikipedia.org/wiki/백_투_더_퓨처 "wikilink")
+  - [백 투 더 퓨처](../Page/백_투_더_퓨처.md "wikilink")
 
 ## 외부 링크
 

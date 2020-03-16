@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [UNLIMITED \( \)](https://ko.wikipedia.org/wiki/UNLIMITED_\(_\)).
 
 
-《***UNLIMITED***》는 [김현중](https://ko.wikipedia.org/wiki/김현중 "wikilink")의 첫 번째 일본 정규 음반이다.
+《***UNLIMITED***》는 [김현중](../Page/김현중.md "wikilink")의 첫 번째 일본 정규 음반이다.
 
 ## 트랙 리스트
 

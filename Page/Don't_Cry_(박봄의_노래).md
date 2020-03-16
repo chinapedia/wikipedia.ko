@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Don\'t Cry \( \)](https://ko.wikipedia.org/wiki/Don\'t_Cry_\(_\)).
 
 
-〈**Don't Cry**〉는 대한민국의 걸 그룹 [2NE1](https://ko.wikipedia.org/wiki/2NE1 "wikilink")의 멤버인 [박봄](https://ko.wikipedia.org/wiki/박봄 "wikilink")의 디지털 싱글이다. 2011년 4월 21일 자정 음원 공개와 동시에 대표 음원차트 1위를 했고\[1\] [가온 디지털 종합차트에서](https://ko.wikipedia.org/wiki/가온_디지털_차트 "wikilink") 4위로 데뷔해 발매 1주 만에 가온지수 6,000만을 기록하며 1위에 올랐고 2주 연속 가온 디지털 종합차트에서도 1위에 올랐다.\[2\]
+〈**Don't Cry**〉는 대한민국의 걸 그룹 [2NE1](../Page/2NE1.md "wikilink")의 멤버인 [박봄](../Page/박봄.md "wikilink")의 디지털 싱글이다. 2011년 4월 21일 자정 음원 공개와 동시에 대표 음원차트 1위를 했고\[1\] [가온 디지털 종합차트에서](../Page/가온_디지털_차트.md "wikilink") 4위로 데뷔해 발매 1주 만에 가온지수 6,000만을 기록하며 1위에 올랐고 2주 연속 가온 디지털 종합차트에서도 1위에 올랐다.\[2\]
 
 ## 트랙 리스트
 

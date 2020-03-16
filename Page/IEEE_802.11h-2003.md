@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [IEEE 802.11h-2003](https://ko.wikipedia.org/wiki/IEEE_802.11h-2003).
 
 
-**IEEE 802.11h-2003** 또는 **IEEE 802.11h**는 [IEEE 802.11](https://ko.wikipedia.org/wiki/IEEE_802.11 "wikilink") 표준의 스펙트럼과 전송 전원 관리 확장에 관한 추가 개정판이다. 802.11h는 인공위성 또는 동일한 5 GHz 주파수 영역을 사용하는 레이다 장비와의 간섭 문제를 해결한다. 본래는 유럽의 규제에 맞추기 위해 기획되었으나 현재는 미국, 일본 등 다른 나라에서도 널리 사용되고 있다. 이 표준은 [802.11a의](https://ko.wikipedia.org/wiki/IEEE_802.11a "wikilink") 매체 접근 제어 계층(MAC Layer)에 [동적 주파수 선택](https://ko.wikipedia.org/wiki/동적_주파수_선택 "wikilink")(DFS)과 [전송 전원 제어](https://ko.wikipedia.org/wiki/전송_전원_제어 "wikilink")(TPC) 기술을 적용하였다. 현재는 [IEEE 802.11-2007](https://ko.wikipedia.org/wiki/IEEE_802.11-2007#802.11-2007 "wikilink") 표준에 통합되었다.
+**IEEE 802.11h-2003** 또는 **IEEE 802.11h**는 [IEEE 802.11](../Page/IEEE_802.11.md "wikilink") 표준의 스펙트럼과 전송 전원 관리 확장에 관한 추가 개정판이다. 802.11h는 인공위성 또는 동일한 5 GHz 주파수 영역을 사용하는 레이다 장비와의 간섭 문제를 해결한다. 본래는 유럽의 규제에 맞추기 위해 기획되었으나 현재는 미국, 일본 등 다른 나라에서도 널리 사용되고 있다. 이 표준은 [802.11a의](https://ko.wikipedia.org/wiki/IEEE_802.11a "wikilink") 매체 접근 제어 계층(MAC Layer)에 [동적 주파수 선택](https://ko.wikipedia.org/wiki/동적_주파수_선택 "wikilink")(DFS)과 [전송 전원 제어](https://ko.wikipedia.org/wiki/전송_전원_제어 "wikilink")(TPC) 기술을 적용하였다. 현재는 [IEEE 802.11-2007](https://ko.wikipedia.org/wiki/IEEE_802.11-2007#802.11-2007 "wikilink") 표준에 통합되었다.
 
 ## 스펙트럼과 전송 파워 관리 확장
 

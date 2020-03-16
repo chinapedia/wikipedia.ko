@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Love Travels at Illegal Speeds](https://ko.wikipedia.org/wiki/Love_Travels_at_Illegal_Speeds).
 
 
-***Love Travels at Illegal Speeds***은 [그레이엄 콕슨의](https://ko.wikipedia.org/wiki/그레이엄_콕슨 "wikilink") 6번째 솔로앨범이다. 2006년 3월 13일에 영국에서 발매되었다. 그 발매일의 다음날은 콕슨의 37번째 생일이기도 하다. 전에 발매한 [Happiness in Magazines을](../Page/Happiness_in_Magazines.md "wikilink") 제작한 프로듀서 스티번 스트리트와 함께했다.
+***Love Travels at Illegal Speeds***은 [그레이엄 콕슨의](../Page/그레이엄_콕슨.md "wikilink") 6번째 솔로앨범이다. 2006년 3월 13일에 영국에서 발매되었다. 그 발매일의 다음날은 콕슨의 37번째 생일이기도 하다. 전에 발매한 [Happiness in Magazines을](../Page/Happiness_in_Magazines.md "wikilink") 제작한 프로듀서 스티번 스트리트와 함께했다.
 
 ## 트랙 리스트
 

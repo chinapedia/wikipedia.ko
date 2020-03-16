@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [YOSHIO -new member-](https://ko.wikipedia.org/wiki/YOSHIO_-new_member-).
 
 
-《**YOSHIO -new member-**》는, [Kis-My-Ft2](https://ko.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")의 5번째 [DVD](https://ko.wikipedia.org/wiki/DVD "wikilink")이다.
+《**YOSHIO -new member-**》는, [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")의 5번째 [DVD](../Page/DVD.md "wikilink")이다.
 
 ## 개요
 

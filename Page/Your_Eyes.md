@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Your Eyes](https://ko.wikipedia.org/wiki/Your_Eyes).
 
 
-〈**Your Eyes**〉는, [아라시](https://ko.wikipedia.org/wiki/아라시 "wikilink")의 39번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink").
+〈**Your Eyes**〉는, [아라시](../Page/아라시.md "wikilink")의 39번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 
@@ -9,7 +9,7 @@
 
 초회 한정반, 통상반의 2형태로의 발매. 초회 한정반에는, 표제곡 〈Your Eyes〉의 뮤직 비디오가 들어간 DVD와 16페이지의 가사 소책자가 봉입되어 있다. DVD에 뮤직 비디오의 메이킹 영상은 수록되어 있지 않다.
 
-타이틀 넘버는, 멤버 [아이바 마사키](https://ko.wikipedia.org/wiki/아이바_마사키 "wikilink") 주연의 [닛폰 TV](https://ko.wikipedia.org/wiki/닛폰_TV_방송망 "wikilink") 계열 [텔레비전 드라마](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink") 《[삼색털 고양이 홈즈의 추리](https://ko.wikipedia.org/wiki/삼색털_고양이_홈즈의_추리 "wikilink")》의 주제가.
+타이틀 넘버는, 멤버 [아이바 마사키](../Page/아이바_마사키.md "wikilink") 주연의 [닛폰 TV](../Page/닛폰_TV_방송망.md "wikilink") 계열 [텔레비전 드라마](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink") 《[삼색털 고양이 홈즈의 추리](https://ko.wikipedia.org/wiki/삼색털_고양이_홈즈의_추리 "wikilink")》의 주제가.
 
 ### 차트 성적
 
@@ -23,7 +23,7 @@
       -
         작사: hs / 작곡: Chris Janey, Max Grant / 편곡: Tomoki Ishizuka
     <!-- end list -->
-      - [아이바 마사키](https://ko.wikipedia.org/wiki/아이바_마사키 "wikilink") 주연 [닛폰 TV](https://ko.wikipedia.org/wiki/닛폰_TV_방송망 "wikilink") 계열 드라마 《삼색털 고양이 홈즈의 추리》 주제가
+      - [아이바 마사키](../Page/아이바_마사키.md "wikilink") 주연 [닛폰 TV](../Page/닛폰_TV_방송망.md "wikilink") 계열 드라마 《삼색털 고양이 홈즈의 추리》 주제가
 2.  **花火** / <small>**불꽃**</small>
       -
         작사·작곡: Tatsuro Mashiko / 편곡: Sachiko Miyano, Tatsuro Mashiko

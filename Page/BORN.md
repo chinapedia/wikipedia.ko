@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BORN](https://ko.wikipedia.org/wiki/BORN).
 
 
-**BORN(본)**은 일본의 [비주얼계](https://ko.wikipedia.org/wiki/비주얼계 "wikilink") 록 밴드이다.
+**BORN(본)**은 일본의 [비주얼계](../Page/비주얼계.md "wikilink") 록 밴드이다.
 
 ## 개요
 

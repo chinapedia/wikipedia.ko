@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [When I Was Your Man](https://ko.wikipedia.org/wiki/When_I_Was_Your_Man).
 
 
-**When I Was Your Man**은 미국의 가수 [브루노 마스의](https://ko.wikipedia.org/wiki/브루노_마스 "wikilink") [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") 앨범 [Unorthodox Jukebox에](https://ko.wikipedia.org/wiki/Unorthodox_Jukebox "wikilink") 수록되어 있는 노래이다. [Locked Out of Heaven과](https://ko.wikipedia.org/wiki/Locked_Out_of_Heaven "wikilink") 함께 [Unorthodox Jukebox의](https://ko.wikipedia.org/wiki/Unorthodox_Jukebox "wikilink") 대표 곡으로 손꼽히며, [가온 차트](https://ko.wikipedia.org/wiki/가온_차트 "wikilink") 팝 부분 9위 를 거두며 한국에서도 좋은 성적을 거두었고, [4월 20일](https://ko.wikipedia.org/wiki/4월_20일 "wikilink") [빌보드 핫 100](https://ko.wikipedia.org/wiki/빌보드_핫_100 "wikilink") 차트에서 [맥클모어 앤 라이언 루이스의](https://ko.wikipedia.org/wiki/맥클모어_앤_라이언_루이스 "wikilink") 노래인 [Thrift Shop을](https://ko.wikipedia.org/wiki/Thrift_Shop "wikilink") 제치며 1위를 한 곡이기도 하다.
+**When I Was Your Man**은 미국의 가수 [브루노 마스의](../Page/브루노_마스.md "wikilink") [2013년](../Page/2013년.md "wikilink") 앨범 [Unorthodox Jukebox에](https://ko.wikipedia.org/wiki/Unorthodox_Jukebox "wikilink") 수록되어 있는 노래이다. [Locked Out of Heaven과](../Page/Locked_Out_of_Heaven.md "wikilink") 함께 [Unorthodox Jukebox의](https://ko.wikipedia.org/wiki/Unorthodox_Jukebox "wikilink") 대표 곡으로 손꼽히며, [가온 차트](../Page/가온_차트.md "wikilink") 팝 부분 9위 를 거두며 한국에서도 좋은 성적을 거두었고, [4월 20일](../Page/4월_20일.md "wikilink") [빌보드 핫 100](../Page/빌보드_핫_100.md "wikilink") 차트에서 [맥클모어 앤 라이언 루이스의](https://ko.wikipedia.org/wiki/맥클모어_앤_라이언_루이스 "wikilink") 노래인 [Thrift Shop을](https://ko.wikipedia.org/wiki/Thrift_Shop "wikilink") 제치며 1위를 한 곡이기도 하다.
 
 ## 외부 링크
 
