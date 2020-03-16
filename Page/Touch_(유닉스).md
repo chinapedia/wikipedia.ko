@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Touch \(\)](https://ko.wikipedia.org/wiki/Touch_\(\)).
 
 
-**touch**는 [파일의](https://ko.wikipedia.org/wiki/컴퓨터_파일 "wikilink") 접근이나 [타임스탬프의](https://ko.wikipedia.org/wiki/시스템_타임 "wikilink") 형식을 변경하는 데 사용되는 표준 [유닉스](https://ko.wikipedia.org/wiki/유닉스 "wikilink") [프로그램이다](https://ko.wikipedia.org/wiki/컴퓨터_프로그램 "wikilink"). 또한 이것은 새로운 빈 파일을 만드는 데 사용된다.
+**touch**는 [파일의](../Page/컴퓨터_파일.md "wikilink") 접근이나 [타임스탬프의](https://ko.wikipedia.org/wiki/시스템_타임 "wikilink") 형식을 변경하는 데 사용되는 표준 [유닉스](../Page/유닉스.md "wikilink") [프로그램이다](../Page/컴퓨터_프로그램.md "wikilink"). 또한 이것은 새로운 빈 파일을 만드는 데 사용된다.
 
 ## 역사
 
-터치 유틸리티는 AT\&T 유닉스 버전7에서 처음 선보였다. [GNU](https://ko.wikipedia.org/wiki/GNU "wikilink") [coreutils](https://ko.wikipedia.org/wiki/coreutils "wikilink")에 포함된 `touch`의 버전은 [Paul Rubin](https://ko.wikipedia.org/wiki/Paul_Rubin "wikilink"), [Arnold Robbins](https://ko.wikipedia.org/wiki/Arnold_Robbins "wikilink"), [Jim Kingdon](https://ko.wikipedia.org/wiki/Jim_Kingdon "wikilink"), [데이비드 맥켄지](https://ko.wikipedia.org/wiki/데이비드_맥켄지_\(프로그래머\) "wikilink") 그리고 [Sunil Sharma가](https://ko.wikipedia.org/wiki/Sunil_Sharma "wikilink") 사용하였다.
+터치 유틸리티는 AT\&T 유닉스 버전7에서 처음 선보였다. [GNU](../Page/GNU.md "wikilink") [coreutils](https://ko.wikipedia.org/wiki/coreutils "wikilink")에 포함된 `touch`의 버전은 [Paul Rubin](https://ko.wikipedia.org/wiki/Paul_Rubin "wikilink"), [Arnold Robbins](https://ko.wikipedia.org/wiki/Arnold_Robbins "wikilink"), [Jim Kingdon](https://ko.wikipedia.org/wiki/Jim_Kingdon "wikilink"), [데이비드 맥켄지](https://ko.wikipedia.org/wiki/데이비드_맥켄지_\(프로그래머\) "wikilink") 그리고 [Sunil Sharma가](https://ko.wikipedia.org/wiki/Sunil_Sharma "wikilink") 사용하였다.
 
 ## 명세
 
@@ -76,7 +76,7 @@ touch는 myfile.txt의 내용을 수정하지 않는다; 이것은 단지 파일
 
 ## 다른 운영체제
 
-유닉스의 `touch` 와 같은 기능을 수행하는 프로그램들은 [마이크로소프트 윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink"), [맥 OS와](https://ko.wikipedia.org/wiki/맥_OS "wikilink") 같은 다른 운영 체제에도 존재한다.
+유닉스의 `touch` 와 같은 기능을 수행하는 프로그램들은 [마이크로소프트 윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink"), [맥 OS와](../Page/맥_OS.md "wikilink") 같은 다른 운영 체제에도 존재한다.
 
 ## 함께 보기
 
@@ -99,7 +99,7 @@ touch는 myfile.txt의 내용을 수정하지 않는다; 이것은 단지 파일
 
   -
 
-  - [touch](http://www.gnu.org/software/coreutils/manual/html_node/touch-invocation.html) — [GNU](https://ko.wikipedia.org/wiki/GNU "wikilink") [coreutils](https://ko.wikipedia.org/wiki/coreutils "wikilink")의 매뉴얼 페이지
+  - [touch](http://www.gnu.org/software/coreutils/manual/html_node/touch-invocation.html) — [GNU](../Page/GNU.md "wikilink") [coreutils](https://ko.wikipedia.org/wiki/coreutils "wikilink")의 매뉴얼 페이지
 
   -
 

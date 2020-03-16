@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Bigbang 03](https://ko.wikipedia.org/wiki/Bigbang_03).
 
 
-***BIGBANG 03***은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") 세 번째 싱글 음반이다. [BIGBANG Is V.I.P에](https://ko.wikipedia.org/wiki/BigBang_Is_V.I.P "wikilink") 이어 2달여만에 [YG 엔터테인먼트에](https://ko.wikipedia.org/wiki/YG_엔터테인먼트 "wikilink") 의해 발매되었다.
+***BIGBANG 03***은 [대한민국](../Page/대한민국.md "wikilink")의 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") 세 번째 싱글 음반이다. [BIGBANG Is V.I.P에](../Page/BigBang_Is_V.I.P.md "wikilink") 이어 2달여만에 [YG 엔터테인먼트에](../Page/YG_엔터테인먼트.md "wikilink") 의해 발매되었다.
 
 ## 트랙 리스트
 

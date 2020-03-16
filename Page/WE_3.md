@@ -6,7 +6,7 @@
 ## 수록곡
 
 1.  활주
-      - [나루토](https://ko.wikipedia.org/wiki/나루토 "wikilink") 여는 노래
+      - [나루토](../Page/나루토.md "wikilink") 여는 노래
       - 노래 : 민경훈([Buzz](https://ko.wikipedia.org/wiki/버즈_\(대한민국의_밴드\) "wikilink"))
       - 작사 : 장동준
       - 작곡, 편곡 : 이세형
@@ -42,7 +42,7 @@
       - 믹싱 : 박찬민
       - 녹음실 : M\&F Studio
 5.  나의 마음을 담아
-      - [달빛천사](https://ko.wikipedia.org/wiki/달빛천사 "wikilink") 여는 노래
+      - [달빛천사](../Page/달빛천사.md "wikilink") 여는 노래
       - 노래 : [이용신](../Page/이용신.md "wikilink")
       - 작사 : 신동식
       - 작곡, 편곡 : 이창희
@@ -94,7 +94,7 @@
       - 녹음실 : Z.Z TOP
       - 엔지니어 : 이필호
 11. 너는 내게...
-      - [나루토](https://ko.wikipedia.org/wiki/나루토 "wikilink") 닫는 노래
+      - [나루토](../Page/나루토.md "wikilink") 닫는 노래
       - 노래 : Tori
       - 작사 : 신동식
       - 작곡, 편곡 : 이창희
@@ -103,7 +103,7 @@
       - 녹음실 : M\&F Studio
 12. 모여라
       - [Go Go 다섯 쌍둥이 2](https://ko.wikipedia.org/wiki/Go_Go_다섯_쌍둥이_2 "wikilink") 주제가
-      - 노래 : [양정화](https://ko.wikipedia.org/wiki/양정화 "wikilink"), [이자명](../Page/이자명.md "wikilink"), [이계윤](https://ko.wikipedia.org/wiki/이계윤 "wikilink"), [김선혜](https://ko.wikipedia.org/wiki/김선혜 "wikilink"), [여민정](../Page/여민정_\(성우\).md "wikilink")
+      - 노래 : [양정화](https://ko.wikipedia.org/wiki/양정화 "wikilink"), [이자명](../Page/이자명.md "wikilink"), [이계윤](../Page/이계윤.md "wikilink"), [김선혜](https://ko.wikipedia.org/wiki/김선혜 "wikilink"), [여민정](../Page/여민정_\(성우\).md "wikilink")
       - 작사 : 신동식
       - 작곡, 편곡 : 이창희
 13. 수호자
@@ -111,7 +111,7 @@
       - 노래 : Lake Park (송봉조)
       -
 14. 천사와 고공비행
-      - [피타텐](https://ko.wikipedia.org/wiki/피타텐 "wikilink") 여는 노래
+      - [피타텐](../Page/피타텐.md "wikilink") 여는 노래
       - 노래 : [이용신](../Page/이용신.md "wikilink")
       - 작사 : 신동식
       - 작곡, 편곡 : 이창희

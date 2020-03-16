@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [UNICORN](https://ko.wikipedia.org/wiki/UNICORN).
 
 
-**유니콘**(, )은 일본의 [록 밴드이다](https://ko.wikipedia.org/wiki/록_밴드 "wikilink"). [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") 결성해서 [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") 해산, [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")에 재결성했다.
+**유니콘**(, )은 일본의 [록 밴드이다](https://ko.wikipedia.org/wiki/록_밴드 "wikilink"). [1986년](../Page/1986년.md "wikilink") 결성해서 [1993년](../Page/1993년.md "wikilink") 해산, [2009년](../Page/2009년.md "wikilink")에 재결성했다.
 
 ## 멤버
 
@@ -22,7 +22,7 @@
 <!-- end list -->
 
   -
-    해산 후 [기시단](https://ko.wikipedia.org/wiki/기시단 "wikilink")을 프로듀스 한 적도 있다.
+    해산 후 [기시단](../Page/기시단.md "wikilink")을 프로듀스 한 적도 있다.
 
 ## 개요
 
@@ -30,7 +30,7 @@
 
 1993년 해산하고 멤버들은 솔로 활동이나 다른 밴드, 프로듀서로 활동했다.
 
-해산 후 15년 후인 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [신정](https://ko.wikipedia.org/wiki/신정 "wikilink"), 특설 사이트에 오쿠다, 아베, 테시마, 호리우치, 가와니시 5명의 신년인사가 공개되었다. 5일 후에는 새 음반 발매, 라이브 투어 실시를 발표했다.
+해산 후 15년 후인 [2009년](../Page/2009년.md "wikilink") [신정](https://ko.wikipedia.org/wiki/신정 "wikilink"), 특설 사이트에 오쿠다, 아베, 테시마, 호리우치, 가와니시 5명의 신년인사가 공개되었다. 5일 후에는 새 음반 발매, 라이브 투어 실시를 발표했다.
 
 ## 음반 목록
 
@@ -61,7 +61,7 @@
 
 ## 에피소드
 
-리더인 가와니시가 재결성도 했고 밴드명을 바꾸면 어떨까 제안했지만 바로 멤버들에게 거부당했다. 후보는 [페가소스](https://ko.wikipedia.org/wiki/페가소스 "wikilink"), [시리우스](https://ko.wikipedia.org/wiki/시리우스 "wikilink"), UNICoooooRN([GReeeeN](../Page/GReeeeN.md "wikilink")을 패러디)였다고 한다.\[1\]
+리더인 가와니시가 재결성도 했고 밴드명을 바꾸면 어떨까 제안했지만 바로 멤버들에게 거부당했다. 후보는 [페가소스](https://ko.wikipedia.org/wiki/페가소스 "wikilink"), [시리우스](../Page/시리우스.md "wikilink"), UNICoooooRN([GReeeeN](../Page/GReeeeN.md "wikilink")을 패러디)였다고 한다.\[1\]
 
 ## 각주
 

@@ -25,7 +25,7 @@
 
 ## 내력
 
-2009년 1월 17일에 noodles, monokuro와 함께 첫 내한공연인 《DELICIOUS BUMP SHOW IN KOREA》를 홍대 V Hall에서 열었다. 게스트로는 [갤럭시 익스프레스와](https://ko.wikipedia.org/wiki/갤럭시_익스프레스 "wikilink") [고고스타](https://ko.wikipedia.org/wiki/고고스타 "wikilink")가 참가했다.
+2009년 1월 17일에 noodles, monokuro와 함께 첫 내한공연인 《DELICIOUS BUMP SHOW IN KOREA》를 홍대 V Hall에서 열었다. 게스트로는 [갤럭시 익스프레스와](https://ko.wikipedia.org/wiki/갤럭시_익스프레스 "wikilink") [고고스타](../Page/고고스타.md "wikilink")가 참가했다.
 
 ## 음반 목록
 
@@ -89,7 +89,7 @@
 
 ### 헌정 음반
 
-  - [Synchronized Rockers](https://ko.wikipedia.org/wiki/Synchronized_Rockers "wikilink") (2004년 9월 16일)
+  - [Synchronized Rockers](../Page/Synchronized_Rockers.md "wikilink") (2004년 9월 16일)
       -
         결성 15주년을 기념하여 친분 있는 음악가들에게 의뢰하여 만든 음반이다.
 

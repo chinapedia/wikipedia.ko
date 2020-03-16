@@ -11,7 +11,7 @@
 
 ### ET2L
 
-안락한 좌석이 달려 있는 교외형 전동차이다. 1999년 1편성(ET2L-027)만 생산되었고 6량 1편성이다. [옥탸브리스카야 선의](https://ko.wikipedia.org/wiki/옥탸브리스카야_선 "wikilink") [상트페테르부르크](../Page/상트페테르부르크.md "wikilink")-[노브고로드](https://ko.wikipedia.org/wiki/노브고로드 "wikilink") 사이에서 운행되었다.
+안락한 좌석이 달려 있는 교외형 전동차이다. 1999년 1편성(ET2L-027)만 생산되었고 6량 1편성이다. [옥탸브리스카야 선의](../Page/옥탸브리스카야_선.md "wikilink") [상트페테르부르크](../Page/상트페테르부르크.md "wikilink")-[노브고로드](https://ko.wikipedia.org/wiki/노브고로드 "wikilink") 사이에서 운행되었다.
 
 ### ET2M
 
@@ -24,7 +24,7 @@
   - ET2ML-063: 유즈노우랄스카야 선, 6량
   - ET2ML-065, 066: 유즈노우랄스카야 선, 8량
   - ET2ML-075: 옥탸브리스카야 선, 8량. [상트페테르부르크](../Page/상트페테르부르크.md "wikilink")-[바바예보](https://ko.wikipedia.org/wiki/바바예보 "wikilink") 간을 운행한다.
-  - ET2ML-077: 옥타브리스카야 선, 8량. [상트페테르부르크](../Page/상트페테르부르크.md "wikilink")-[루가](https://ko.wikipedia.org/wiki/루가 "wikilink") 간을 운행한다.
+  - ET2ML-077: 옥타브리스카야 선, 8량. [상트페테르부르크](../Page/상트페테르부르크.md "wikilink")-[루가](../Page/루가.md "wikilink") 간을 운행한다.
   - ET2ML-078: 옥타브리스카야 선, 8량. [상트페테르부르크](../Page/상트페테르부르크.md "wikilink")-[쿠즈네츠노예](https://ko.wikipedia.org/wiki/쿠즈네츠노예 "wikilink") 간을 운행한다.
 
 ### ET2MRL

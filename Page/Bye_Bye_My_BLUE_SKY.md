@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Bye Bye My BLUE SKY](https://ko.wikipedia.org/wiki/Bye_Bye_My_BLUE_SKY).
 
 
-〈**Bye Bye My BLUE SKY**〉는 [우에하라 아즈미의](../Page/우에하라_아즈미.md "wikilink") 세 번째 싱글이다. [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [2월 20일](https://ko.wikipedia.org/wiki/2월_20일 "wikilink") GIZA Studio에서 발매하였다.
+〈**Bye Bye My BLUE SKY**〉는 [우에하라 아즈미의](../Page/우에하라_아즈미.md "wikilink") 세 번째 싱글이다. [2002년](../Page/2002년.md "wikilink") [2월 20일](../Page/2월_20일.md "wikilink") GIZA Studio에서 발매하였다.
 
 ## 개요
 

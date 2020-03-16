@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Undisputed LP](https://ko.wikipedia.org/wiki/Undisputed_LP).
 
 
-***Undisputed LP***는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [힙합](../Page/힙합.md "wikilink") 래퍼 [Dead' P가](../Page/데드피.md "wikilink") [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [6월 15일](https://ko.wikipedia.org/wiki/6월_15일 "wikilink") 발표한 정규 앨범이다.
+***Undisputed LP***는 [대한민국](../Page/대한민국.md "wikilink")의 [힙합](../Page/힙합.md "wikilink") 래퍼 [Dead' P가](../Page/데드피.md "wikilink") [2004년](../Page/2004년.md "wikilink") [6월 15일](../Page/6월_15일.md "wikilink") 발표한 정규 앨범이다.
 
 ## 트랙
 

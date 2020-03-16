@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BigBang Is V.I.P](https://ko.wikipedia.org/wiki/BigBang_Is_V.I.P).
 
 
-***BIGBANG Is V.I.P***는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") 두 번째 싱글 음반이다. [YG 엔터테인먼트에](https://ko.wikipedia.org/wiki/YG_엔터테인먼트 "wikilink") 의해 발매되었다. 총 4곡이 수록 된 이 음반은 [Perry가](../Page/페리_\(가수\).md "wikilink") 프로듀서를 맡고, [G-Dragon이](https://ko.wikipedia.org/wiki/지드래곤 "wikilink") 가사를 썼다. 타이틀 곡 "La La La"는 빅뱅의 멤버들이 모두 가사에 참여했다. 스타일은 [R\&B](https://ko.wikipedia.org/wiki/R&B "wikilink"), [Hip-hop과](https://ko.wikipedia.org/wiki/힙합_음악 "wikilink") [Pop이](https://ko.wikipedia.org/wiki/팝_음악 "wikilink") 믹스 된 음악이 담겨 있다. 빅뱅의 첫 싱글과 마찬가지로 셀프 촬영 영상과 뮤직 비디오가 수록 된 VCD가 함께 담겨져 있다. 이 음반 발매를 앞두고 빅뱅은 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [9월 23일](https://ko.wikipedia.org/wiki/9월_23일 "wikilink") 음악 프로그램 《쇼\! 음악중심》에서 "La La La"로 전격 데뷔하였다.
+***BIGBANG Is V.I.P***는 [대한민국](../Page/대한민국.md "wikilink")의 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") 두 번째 싱글 음반이다. [YG 엔터테인먼트에](../Page/YG_엔터테인먼트.md "wikilink") 의해 발매되었다. 총 4곡이 수록 된 이 음반은 [Perry가](../Page/페리_\(가수\).md "wikilink") 프로듀서를 맡고, [G-Dragon이](../Page/지드래곤.md "wikilink") 가사를 썼다. 타이틀 곡 "La La La"는 빅뱅의 멤버들이 모두 가사에 참여했다. 스타일은 [R\&B](https://ko.wikipedia.org/wiki/R&B "wikilink"), [Hip-hop과](../Page/힙합_음악.md "wikilink") [Pop이](../Page/팝_음악.md "wikilink") 믹스 된 음악이 담겨 있다. 빅뱅의 첫 싱글과 마찬가지로 셀프 촬영 영상과 뮤직 비디오가 수록 된 VCD가 함께 담겨져 있다. 이 음반 발매를 앞두고 빅뱅은 [2006년](../Page/2006년.md "wikilink") [9월 23일](../Page/9월_23일.md "wikilink") 음악 프로그램 《쇼\! 음악중심》에서 "La La La"로 전격 데뷔하였다.
 
 ## 트랙 리스트
 

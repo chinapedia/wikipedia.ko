@@ -1,488 +1,488 @@
 > This article is converted from Wikipedia: [LG ](https://ko.wikipedia.org/wiki/LG_).
 
 
-다음은 **[LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")**의 역사에 관한 연대표이다.
+다음은 **[LG전자](../Page/LG전자.md "wikilink")**의 역사에 관한 연대표이다.
 
 ## 금성사
 
 ### 1950년대
 
-  - [1958년](https://ko.wikipedia.org/wiki/1958년 "wikilink") [금성사](../Page/금성사.md "wikilink")(현 LG전자), 설립.
-  - [1959년](https://ko.wikipedia.org/wiki/1959년 "wikilink") 주식회사 [금성사](../Page/금성사.md "wikilink")(현 LG전자), 설립등기(제2916호) (사장 구인회, 부사장 구정회, 상무 허준구, 취체역(비상임) 허학구 . 구자경, 감사 김주홍, 자본금 1억 환)
-  - [1959년](https://ko.wikipedia.org/wiki/1959년 "wikilink") [금성사](../Page/금성사.md "wikilink"), 금성(GOLDSTAR) 상표등록 - 전기기계 기구 및 요소수지
-  - [1959년](https://ko.wikipedia.org/wiki/1959년 "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자), 라디오 생산 개시.
+  - [1958년](../Page/1958년.md "wikilink") [금성사](../Page/금성사.md "wikilink")(현 LG전자), 설립.
+  - [1959년](../Page/1959년.md "wikilink") 주식회사 [금성사](../Page/금성사.md "wikilink")(현 LG전자), 설립등기(제2916호) (사장 구인회, 부사장 구정회, 상무 허준구, 취체역(비상임) 허학구 . 구자경, 감사 김주홍, 자본금 1억 환)
+  - [1959년](../Page/1959년.md "wikilink") [금성사](../Page/금성사.md "wikilink"), 금성(GOLDSTAR) 상표등록 - 전기기계 기구 및 요소수지
+  - [1959년](../Page/1959년.md "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자), 라디오 생산 개시.
 
 ### 1960년대
 
-  - [1960년](https://ko.wikipedia.org/wiki/1960년 "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자), 대한민국 최초 트랜지스터 6석 라디오 생산.
-  - [1960년](https://ko.wikipedia.org/wiki/1960년 "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자), 금성사, 진공관 4구 라디오 생산.
-  - [1961년](https://ko.wikipedia.org/wiki/1961년 "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자), 상표를 건전지 신문광고를 게재.
-  - [1962년](https://ko.wikipedia.org/wiki/1962년 "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자), 대한민국최초로 서독 후어마이스터사와
-  - [1962년](https://ko.wikipedia.org/wiki/1962년 "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자), 취업규칙 제정.
-  - [1962년](https://ko.wikipedia.org/wiki/1962년 "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자) 온천동공장 기공.
-  - [1962년](https://ko.wikipedia.org/wiki/1962년 "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자) 미국과 홍콩에 라디오 수출.
-  - [1963년](https://ko.wikipedia.org/wiki/1963년 "wikilink") 금성사(현 LG전자), 전국금속노조 경남지부 금성사분회 결성, 분회장에
-  - [1963년](https://ko.wikipedia.org/wiki/1963년 "wikilink") 금성사(현 LG전자), 온천동공장 가동 , 금성사(현 LG전자), 대한민국
-  - [1963년](https://ko.wikipedia.org/wiki/1963년 "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자) 온천동공장 준공.
-  - [1964년](https://ko.wikipedia.org/wiki/1964년 "wikilink") 금성사, 온천동 종합전자전기공장 완공(11동, 연건평 1만 173평,
-  - [1964년](https://ko.wikipedia.org/wiki/1964년 "wikilink") 금성사(현 LG전자), 독일 지멘스와 기술제휴.
-  - [1965년](https://ko.wikipedia.org/wiki/1965년 "wikilink") 금성사(현 LG전자), 상표를 라디오 신문광고를 게재.
-  - [1965년](https://ko.wikipedia.org/wiki/1965년 "wikilink") 금성사(현 LG전자), 일본 히타치와 기술제휴.
-  - [1965년](https://ko.wikipedia.org/wiki/1965년 "wikilink") 금성사(현 LG전자), 문교부지정 실업기술원양성소 설립.
-  - [1966년](https://ko.wikipedia.org/wiki/1966년 "wikilink") 금성사(현 LG전자), 사시 제정.
-  - [1966년](https://ko.wikipedia.org/wiki/1966년 "wikilink") 한국케이블공업 [금성사](../Page/금성사.md "wikilink")에 합병.
-  - [1966년](https://ko.wikipedia.org/wiki/1966년 "wikilink") 금성사(현 LG전자), 교환기 생산 400만명 돌파.
-  - [1967년](https://ko.wikipedia.org/wiki/1967년 "wikilink") 금성사(현 LG전자), <금성사보> 창간호 발간(월간, 타블로이드 8면).
-  - [1967년](https://ko.wikipedia.org/wiki/1967년 "wikilink") 금성사(현 LG전자), 본사를 서울로 이전(서울 중구 을지로 3가 116번지
-  - [1967년](https://ko.wikipedia.org/wiki/1967년 "wikilink") 금성사(현 LG전자), 사업부제 조직 채택(가전ㆍ통신ㆍ전선 등 3 사업부
-  - [1967년](https://ko.wikipedia.org/wiki/1967년 "wikilink") 금성사(현 LG전자), 대한민국 최초의 FM/AM 라디오 생산
-  - [1967년](https://ko.wikipedia.org/wiki/1967년 "wikilink") 금성사(현 LG전자), 전선사업부, 히타치전선과 \<전력 및 통신케이블
-  - [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink") 금성사(현 LG전자), 반도체 생산회사인 금성전자㈜ 설립.
-  - [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink") 금성사(현 LG전자), 대한민국 최초로 펌프 개발 생산.
-  - [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink") 금성사(현 LG전자), 금성사, 대한민국 최초 웰만텔케이블 개발.
-  - [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink") 금성사(현 LG전자), 대한민국최초 가스레인지 개발.
-  - [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink") 금성통신 설립 (금성사 통신기기 제조 판매사업을 분리).
-  - [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink") 금성전선(현 LS전선), 금성사로부터 분리, 설립등기(10.25)
-  - [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink") 금성통신 (현 LG전자) 설립.
+  - [1960년](../Page/1960년.md "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자), 대한민국 최초 트랜지스터 6석 라디오 생산.
+  - [1960년](../Page/1960년.md "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자), 금성사, 진공관 4구 라디오 생산.
+  - [1961년](../Page/1961년.md "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자), 상표를 건전지 신문광고를 게재.
+  - [1962년](../Page/1962년.md "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자), 대한민국최초로 서독 후어마이스터사와
+  - [1962년](../Page/1962년.md "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자), 취업규칙 제정.
+  - [1962년](../Page/1962년.md "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자) 온천동공장 기공.
+  - [1962년](../Page/1962년.md "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자) 미국과 홍콩에 라디오 수출.
+  - [1963년](../Page/1963년.md "wikilink") 금성사(현 LG전자), 전국금속노조 경남지부 금성사분회 결성, 분회장에
+  - [1963년](../Page/1963년.md "wikilink") 금성사(현 LG전자), 온천동공장 가동 , 금성사(현 LG전자), 대한민국
+  - [1963년](../Page/1963년.md "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자) 온천동공장 준공.
+  - [1964년](../Page/1964년.md "wikilink") 금성사, 온천동 종합전자전기공장 완공(11동, 연건평 1만 173평,
+  - [1964년](../Page/1964년.md "wikilink") 금성사(현 LG전자), 독일 지멘스와 기술제휴.
+  - [1965년](../Page/1965년.md "wikilink") 금성사(현 LG전자), 상표를 라디오 신문광고를 게재.
+  - [1965년](../Page/1965년.md "wikilink") 금성사(현 LG전자), 일본 히타치와 기술제휴.
+  - [1965년](../Page/1965년.md "wikilink") 금성사(현 LG전자), 문교부지정 실업기술원양성소 설립.
+  - [1966년](../Page/1966년.md "wikilink") 금성사(현 LG전자), 사시 제정.
+  - [1966년](../Page/1966년.md "wikilink") 한국케이블공업 [금성사](../Page/금성사.md "wikilink")에 합병.
+  - [1966년](../Page/1966년.md "wikilink") 금성사(현 LG전자), 교환기 생산 400만명 돌파.
+  - [1967년](../Page/1967년.md "wikilink") 금성사(현 LG전자), <금성사보> 창간호 발간(월간, 타블로이드 8면).
+  - [1967년](../Page/1967년.md "wikilink") 금성사(현 LG전자), 본사를 서울로 이전(서울 중구 을지로 3가 116번지
+  - [1967년](../Page/1967년.md "wikilink") 금성사(현 LG전자), 사업부제 조직 채택(가전ㆍ통신ㆍ전선 등 3 사업부
+  - [1967년](../Page/1967년.md "wikilink") 금성사(현 LG전자), 대한민국 최초의 FM/AM 라디오 생산
+  - [1967년](../Page/1967년.md "wikilink") 금성사(현 LG전자), 전선사업부, 히타치전선과 \<전력 및 통신케이블
+  - [1969년](../Page/1969년.md "wikilink") 금성사(현 LG전자), 반도체 생산회사인 금성전자㈜ 설립.
+  - [1969년](../Page/1969년.md "wikilink") 금성사(현 LG전자), 대한민국 최초로 펌프 개발 생산.
+  - [1969년](../Page/1969년.md "wikilink") 금성사(현 LG전자), 금성사, 대한민국 최초 웰만텔케이블 개발.
+  - [1969년](../Page/1969년.md "wikilink") 금성사(현 LG전자), 대한민국최초 가스레인지 개발.
+  - [1969년](../Page/1969년.md "wikilink") 금성통신 설립 (금성사 통신기기 제조 판매사업을 분리).
+  - [1969년](../Page/1969년.md "wikilink") 금성전선(현 LS전선), 금성사로부터 분리, 설립등기(10.25)
+  - [1969년](../Page/1969년.md "wikilink") 금성통신 (현 LG전자) 설립.
 
 ### 1970년대
 
-  - [1970년](https://ko.wikipedia.org/wiki/1970년 "wikilink") 금성사(현LG전자), 3대 사장에 허준구 사장 취임.
-  - [1970년](https://ko.wikipedia.org/wiki/1970년 "wikilink") 금성통신, 제2대 대표이사 사장 윤욱현 취임.
-  - [1970년](https://ko.wikipedia.org/wiki/1970년 "wikilink") 금성사(현 LG전자), 대한민국 최초로 공냉식 에어컨디셔너 개발 생산
-  - [1970년](https://ko.wikipedia.org/wiki/1970년 "wikilink") 금성사(현 LG전자), 대한민국 전자업계 최초로 기업공개, 제1차
-  - [1970년](https://ko.wikipedia.org/wiki/1970년 "wikilink") 금성통신, 금성사(현 LG전자)로부터 적산전력량계사업을 이관받음.
-  - [1970년](https://ko.wikipedia.org/wiki/1970년 "wikilink") 금성사(현LG전자), 전자업계 최초로 기업공개.
-  - [1970년](https://ko.wikipedia.org/wiki/1970년 "wikilink") 금성통신의 전기부문 사업을 분리하여 금성전기㈜ 설립(사장 구정회).
-  - [1971년](https://ko.wikipedia.org/wiki/1971년 "wikilink") 금성통신, 전국금속노조 금성통신지부 결성.
-  - [1971년](https://ko.wikipedia.org/wiki/1971년 "wikilink") 금성통신, 부산 온천동공장 시설 안양으로 이전 완공.
-  - [1971년](https://ko.wikipedia.org/wiki/1971년 "wikilink") 금성통신, 안양공장 C동(400평) 신축공사 일부 준공/ EMD교환기 생산
-  - [1971년](https://ko.wikipedia.org/wiki/1971년 "wikilink") 금성통신이 공급한 서울-부산간 EMD 장거리 자동전화(DDD) 교환시스템
-  - [1971년](https://ko.wikipedia.org/wiki/1971년 "wikilink") 금성사(현 LG전자), 본사를 부산으로 이전, 서울사무소를 중구 도동
-  - [1971년](https://ko.wikipedia.org/wiki/1971년 "wikilink") 금성통신, 상호를 금성통신전기주식회사(영문 : Gold Star
-  - [1971년](https://ko.wikipedia.org/wiki/1971년 "wikilink") 금성통신, 지멘스, 후지전기합작회사로 재발족. 공동대표이사 사장
-  - [1972년](https://ko.wikipedia.org/wiki/1972년 "wikilink") 금성사(현 LG전자), <정밀공업 진흥의 탑> 수상.
-  - [1972년](https://ko.wikipedia.org/wiki/1972년 "wikilink") 금성사(현 LG전자), 제3회 정밀도 경진대회에서 <정밀공업진흥의 탑>
-  - [1972년](https://ko.wikipedia.org/wiki/1972년 "wikilink") 금성사(현 LG전자) 디자인통합작업(CIP)으로 시행.
-  - [1973년](https://ko.wikipedia.org/wiki/1973년 "wikilink") 금성통신, 대한민국 최초로 기계식 키폰(Relay식 GK-206R) 개발 생산.
-  - [1973년](https://ko.wikipedia.org/wiki/1973년 "wikilink") 금성통신, 한도공업 주식 60% 인수.
-  - [1973년](https://ko.wikipedia.org/wiki/1973년 "wikilink") 금성사(현 LG전자), 카세트 녹음기를 개발.
-  - [1973년](https://ko.wikipedia.org/wiki/1973년 "wikilink") 금성사(현 LG전자), 박승찬 사장, 제10회 수출의 날에 철탑산업훈장
-  - [1974년](https://ko.wikipedia.org/wiki/1974년 "wikilink") 금성통신, 장거리 자동전화(DDD)용 전화기 생산 개시.
-  - [1974년](https://ko.wikipedia.org/wiki/1974년 "wikilink") 금성통신, 외국인 합작투자기업으로서는 대한민국 최초로 기업을 공개.
-  - [1974년](https://ko.wikipedia.org/wiki/1974년 "wikilink") 금성통신, 통신공사사업을 분리, 금성통신공사㈜ 설립.
-  - [1974년](https://ko.wikipedia.org/wiki/1974년 "wikilink") 금성통신, 서울과 부산을 증권시장 제2부 종목으로 상장.
-  - [1974년](https://ko.wikipedia.org/wiki/1974년 "wikilink") 금성통신, 금성계전 분리설립에 따라 종업원 360명과 자산 2억3800만
-  - [1974년](https://ko.wikipedia.org/wiki/1974년 "wikilink") 금성통신, '금성통신전기주식회사' 상호를 '금성통신주식회사'로 환원.
-  - [1974년](https://ko.wikipedia.org/wiki/1974년 "wikilink") 금성사(현 LG전자), 자동세탁기를 생산.
-  - [1974년](https://ko.wikipedia.org/wiki/1974년 "wikilink") 금성사(현 LG전자), 구미공장 착공.
-  - [1974년](https://ko.wikipedia.org/wiki/1974년 "wikilink") 금성통신, 금성계전 분리설립에 따라 종업원 360명과 자산 2억3800만
-  - [1974년](https://ko.wikipedia.org/wiki/1974년 "wikilink") 금성통신, '금성통신전기주식회사' 상호를 '금성통신주식회사'로 환원.
-  - [1974년](https://ko.wikipedia.org/wiki/1974년 "wikilink") 금성통신 기업공개.
-  - [1975년](https://ko.wikipedia.org/wiki/1975년 "wikilink") 금성사(현 LG전자), <금성사가> 제정(작사 이은상, 작곡 김희조).
-  - [1975년](https://ko.wikipedia.org/wiki/1975년 "wikilink") 금성사(현 LG전자), 본사를 서울로 이전.
-  - [1975년](https://ko.wikipedia.org/wiki/1975년 "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자) TV생산 구미공장 준공.
-  - [1975년](https://ko.wikipedia.org/wiki/1975년 "wikilink") 금성사(현 LG전자), 창원1공장 기공식.
-  - [1975년](https://ko.wikipedia.org/wiki/1975년 "wikilink") 금성사(현 LG전자), 한국생산성본부 제정 '75 한국의 기업상 수상.
-  - [1975년](https://ko.wikipedia.org/wiki/1975년 "wikilink") 금성통신, 대한민국 최초로 전자식 키폰(GK-1040E, 국선 10, 내선
-  - [1975년](https://ko.wikipedia.org/wiki/1975년 "wikilink") 금성사(현 LG전자), 민간기업 최초로 중앙연구소 설립.
-  - [1976년](https://ko.wikipedia.org/wiki/1976년 "wikilink") 금성사(현 LG전자), 창원2공장 준공식.
-  - [1976년](https://ko.wikipedia.org/wiki/1976년 "wikilink") 금성사(현 LG전자), TV생산 100만 대 돌파.
-  - [1976년](https://ko.wikipedia.org/wiki/1976년 "wikilink") 금성전기(현 LG전자에 합병), 기업공개
-  - [1976년](https://ko.wikipedia.org/wiki/1976년 "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자) 기술연구소 개소.
-  - [1976년](https://ko.wikipedia.org/wiki/1976년 "wikilink") 금성사(현 LG전자), 판촉지 <금성가족> 창간호 발행(격월간, 4x6배판).
-  - [1977년](https://ko.wikipedia.org/wiki/1977년 "wikilink") 금성통신, 한도공업㈜ 주식을 100% 인수하여 자회사화.
-  - [1977년](https://ko.wikipedia.org/wiki/1977년 "wikilink") 금성사(현 LG전자), 대한민국 최초로 전자식 금전등록기 생산.
-  - [1977년](https://ko.wikipedia.org/wiki/1977년 "wikilink") 금성사(현 LG전자), 사업부제의 부활, 본부장제 신설.
-  - [1977년](https://ko.wikipedia.org/wiki/1977년 "wikilink") 금성사(현 LG전자), 사상공단내의 동국중공업 인수.
-  - [1977년](https://ko.wikipedia.org/wiki/1977년 "wikilink") 금성통신, 제23대 공동대표이사 사장 구두회 취임.
-  - [1977년](https://ko.wikipedia.org/wiki/1977년 "wikilink") 금성사(현 LG전자), 매출 1천억 돌파. 금성통신, 대한민국 최초 전자식 사설교환기 PABX-100A 개발.
-  - [1977년](https://ko.wikipedia.org/wiki/1977년 "wikilink") 금성통신, 대한민국 최초 통신 플랜트 수출.
-  - [1977년](https://ko.wikipedia.org/wiki/1977년 "wikilink") 금성사(현 LG전자), 대한민국 최초 19인치 컬러TV 양산 개시.
-  - [1977년](https://ko.wikipedia.org/wiki/1977년 "wikilink") 금성사(현 LG전자), 기술연구소 설립.
-  - [1977년](https://ko.wikipedia.org/wiki/1977년 "wikilink") 럭키개발 선전사업부를 ㈜금성사 선전사업부로 이관.
-  - [1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink") 금성사(현 LG전자), 서통전기(신영전기 전신), 서통전자, 서통정밀의
-  - [1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink") 회성산업㈜(현 GS리테일), 광고대행사 체제 구축(금성사 선전사업부
-  - [1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자), 구로공장 준공.
-  - [1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink") 금성사(현 LG전자), 컴퓨터사업부 신설 .
-  - [1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink") 금성사(현 LG전자), 대한민국최초로 청소기를 개발.
-  - [1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink") 금성사(현 LG전자), 수출 1억달러 돌파.
-  - [1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink") 금성사(현 LG전자), 진공 청소기를 개발.
-  - [1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink") 희성산업(현 GS리테일), 금성사로부터 홍보 및 광고대행업무 인수
-  - [1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink") 금성통신, 대한민국 최초로 MFC식(전자교환기용) 전화기 개발.
-  - [1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink") 금성사(현 LG전자), 문래동 공장 현판식.
-  - [1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자), 미국에 판매법인(GSEI) 설립.
-  - [1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink") 금성사(현 LG전자), 대한민국 전자업계 최초로 \<수출 1억 달러\> 달성.
-  - [1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink") 금성사(현 LG전자), 대한민국전자업계 최초로 <수출1억불> 돌파.
-  - [1979년](https://ko.wikipedia.org/wiki/1979년 "wikilink") 금성사(현 LG전자), 문래동 공장 준공.
-  - [1979년](https://ko.wikipedia.org/wiki/1979년 "wikilink") 금성통신, 전화기 생산 200만대 돌파.
-  - [1979년](https://ko.wikipedia.org/wiki/1979년 "wikilink") 금성사(현 LG전자), 스테리오 카세트를 시판.
-  - [1979년](https://ko.wikipedia.org/wiki/1979년 "wikilink") 금성사(현 LG전자), 허신구 사장 취임.
-  - [1979년](https://ko.wikipedia.org/wiki/1979년 "wikilink") 금성사(현 LG전자), 가정용 진공청소기를 시판.
-  - [1979년](https://ko.wikipedia.org/wiki/1979년 "wikilink") 금성사(현 LG전자), 박승찬 사장 별세.
-  - [1979년](https://ko.wikipedia.org/wiki/1979년 "wikilink") 금성사(현 LG전자), 임시주주총회 개최/5대 사장에 허신구 럭키 사장을
-  - [1979년](https://ko.wikipedia.org/wiki/1979년 "wikilink") 금성사(현 LG전자), 한국 최초 기계식 VCR 원형시작품 개발.
-  - [1979년](https://ko.wikipedia.org/wiki/1979년 "wikilink") 3사(금성사ㆍ금성통신ㆍ금성전기) 공동으로 대한반도체㈜ 인수.
-  - [1979년](https://ko.wikipedia.org/wiki/1979년 "wikilink") 금성사(현 LG전자), 대한민국최초로 VTR를 개발.
-  - [1979년](https://ko.wikipedia.org/wiki/1979년 "wikilink") 금성사(현 LG전자), 구미TV공장을 준공.
-  - [1979년](https://ko.wikipedia.org/wiki/1979년 "wikilink") 금성사(현 LG전자), 제25회 국제기능올림픽대회에서 금5ㆍ은2 수상.
-  - [1979년](https://ko.wikipedia.org/wiki/1979년 "wikilink") 금성통신, 한국 최초로 전자식 디지털 교환기 <스타렉스-2000> 개발.
-  - [1979년](https://ko.wikipedia.org/wiki/1979년 "wikilink") 금성사(현 LG전자), 김해 모터공장 준공
-  - [1979년](https://ko.wikipedia.org/wiki/1979년 "wikilink") 금성사(현 LG전자), 대한민국 최초로 컴퓨터 컬러TV를 시판 개시.
+  - [1970년](../Page/1970년.md "wikilink") 금성사(현LG전자), 3대 사장에 허준구 사장 취임.
+  - [1970년](../Page/1970년.md "wikilink") 금성통신, 제2대 대표이사 사장 윤욱현 취임.
+  - [1970년](../Page/1970년.md "wikilink") 금성사(현 LG전자), 대한민국 최초로 공냉식 에어컨디셔너 개발 생산
+  - [1970년](../Page/1970년.md "wikilink") 금성사(현 LG전자), 대한민국 전자업계 최초로 기업공개, 제1차
+  - [1970년](../Page/1970년.md "wikilink") 금성통신, 금성사(현 LG전자)로부터 적산전력량계사업을 이관받음.
+  - [1970년](../Page/1970년.md "wikilink") 금성사(현LG전자), 전자업계 최초로 기업공개.
+  - [1970년](../Page/1970년.md "wikilink") 금성통신의 전기부문 사업을 분리하여 금성전기㈜ 설립(사장 구정회).
+  - [1971년](../Page/1971년.md "wikilink") 금성통신, 전국금속노조 금성통신지부 결성.
+  - [1971년](../Page/1971년.md "wikilink") 금성통신, 부산 온천동공장 시설 안양으로 이전 완공.
+  - [1971년](../Page/1971년.md "wikilink") 금성통신, 안양공장 C동(400평) 신축공사 일부 준공/ EMD교환기 생산
+  - [1971년](../Page/1971년.md "wikilink") 금성통신이 공급한 서울-부산간 EMD 장거리 자동전화(DDD) 교환시스템
+  - [1971년](../Page/1971년.md "wikilink") 금성사(현 LG전자), 본사를 부산으로 이전, 서울사무소를 중구 도동
+  - [1971년](../Page/1971년.md "wikilink") 금성통신, 상호를 금성통신전기주식회사(영문 : Gold Star
+  - [1971년](../Page/1971년.md "wikilink") 금성통신, 지멘스, 후지전기합작회사로 재발족. 공동대표이사 사장
+  - [1972년](../Page/1972년.md "wikilink") 금성사(현 LG전자), <정밀공업 진흥의 탑> 수상.
+  - [1972년](../Page/1972년.md "wikilink") 금성사(현 LG전자), 제3회 정밀도 경진대회에서 <정밀공업진흥의 탑>
+  - [1972년](../Page/1972년.md "wikilink") 금성사(현 LG전자) 디자인통합작업(CIP)으로 시행.
+  - [1973년](../Page/1973년.md "wikilink") 금성통신, 대한민국 최초로 기계식 키폰(Relay식 GK-206R) 개발 생산.
+  - [1973년](../Page/1973년.md "wikilink") 금성통신, 한도공업 주식 60% 인수.
+  - [1973년](../Page/1973년.md "wikilink") 금성사(현 LG전자), 카세트 녹음기를 개발.
+  - [1973년](../Page/1973년.md "wikilink") 금성사(현 LG전자), 박승찬 사장, 제10회 수출의 날에 철탑산업훈장
+  - [1974년](../Page/1974년.md "wikilink") 금성통신, 장거리 자동전화(DDD)용 전화기 생산 개시.
+  - [1974년](../Page/1974년.md "wikilink") 금성통신, 외국인 합작투자기업으로서는 대한민국 최초로 기업을 공개.
+  - [1974년](../Page/1974년.md "wikilink") 금성통신, 통신공사사업을 분리, 금성통신공사㈜ 설립.
+  - [1974년](../Page/1974년.md "wikilink") 금성통신, 서울과 부산을 증권시장 제2부 종목으로 상장.
+  - [1974년](../Page/1974년.md "wikilink") 금성통신, 금성계전 분리설립에 따라 종업원 360명과 자산 2억3800만
+  - [1974년](../Page/1974년.md "wikilink") 금성통신, '금성통신전기주식회사' 상호를 '금성통신주식회사'로 환원.
+  - [1974년](../Page/1974년.md "wikilink") 금성사(현 LG전자), 자동세탁기를 생산.
+  - [1974년](../Page/1974년.md "wikilink") 금성사(현 LG전자), 구미공장 착공.
+  - [1974년](../Page/1974년.md "wikilink") 금성통신, 금성계전 분리설립에 따라 종업원 360명과 자산 2억3800만
+  - [1974년](../Page/1974년.md "wikilink") 금성통신, '금성통신전기주식회사' 상호를 '금성통신주식회사'로 환원.
+  - [1974년](../Page/1974년.md "wikilink") 금성통신 기업공개.
+  - [1975년](../Page/1975년.md "wikilink") 금성사(현 LG전자), <금성사가> 제정(작사 이은상, 작곡 김희조).
+  - [1975년](../Page/1975년.md "wikilink") 금성사(현 LG전자), 본사를 서울로 이전.
+  - [1975년](../Page/1975년.md "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자) TV생산 구미공장 준공.
+  - [1975년](../Page/1975년.md "wikilink") 금성사(현 LG전자), 창원1공장 기공식.
+  - [1975년](../Page/1975년.md "wikilink") 금성사(현 LG전자), 한국생산성본부 제정 '75 한국의 기업상 수상.
+  - [1975년](../Page/1975년.md "wikilink") 금성통신, 대한민국 최초로 전자식 키폰(GK-1040E, 국선 10, 내선
+  - [1975년](../Page/1975년.md "wikilink") 금성사(현 LG전자), 민간기업 최초로 중앙연구소 설립.
+  - [1976년](../Page/1976년.md "wikilink") 금성사(현 LG전자), 창원2공장 준공식.
+  - [1976년](../Page/1976년.md "wikilink") 금성사(현 LG전자), TV생산 100만 대 돌파.
+  - [1976년](../Page/1976년.md "wikilink") 금성전기(현 LG전자에 합병), 기업공개
+  - [1976년](../Page/1976년.md "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자) 기술연구소 개소.
+  - [1976년](../Page/1976년.md "wikilink") 금성사(현 LG전자), 판촉지 <금성가족> 창간호 발행(격월간, 4x6배판).
+  - [1977년](../Page/1977년.md "wikilink") 금성통신, 한도공업㈜ 주식을 100% 인수하여 자회사화.
+  - [1977년](../Page/1977년.md "wikilink") 금성사(현 LG전자), 대한민국 최초로 전자식 금전등록기 생산.
+  - [1977년](../Page/1977년.md "wikilink") 금성사(현 LG전자), 사업부제의 부활, 본부장제 신설.
+  - [1977년](../Page/1977년.md "wikilink") 금성사(현 LG전자), 사상공단내의 동국중공업 인수.
+  - [1977년](../Page/1977년.md "wikilink") 금성통신, 제23대 공동대표이사 사장 구두회 취임.
+  - [1977년](../Page/1977년.md "wikilink") 금성사(현 LG전자), 매출 1천억 돌파. 금성통신, 대한민국 최초 전자식 사설교환기 PABX-100A 개발.
+  - [1977년](../Page/1977년.md "wikilink") 금성통신, 대한민국 최초 통신 플랜트 수출.
+  - [1977년](../Page/1977년.md "wikilink") 금성사(현 LG전자), 대한민국 최초 19인치 컬러TV 양산 개시.
+  - [1977년](../Page/1977년.md "wikilink") 금성사(현 LG전자), 기술연구소 설립.
+  - [1977년](../Page/1977년.md "wikilink") 럭키개발 선전사업부를 ㈜금성사 선전사업부로 이관.
+  - [1978년](../Page/1978년.md "wikilink") 금성사(현 LG전자), 서통전기(신영전기 전신), 서통전자, 서통정밀의
+  - [1978년](../Page/1978년.md "wikilink") 회성산업㈜(현 GS리테일), 광고대행사 체제 구축(금성사 선전사업부
+  - [1978년](../Page/1978년.md "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자), 구로공장 준공.
+  - [1978년](../Page/1978년.md "wikilink") 금성사(현 LG전자), 컴퓨터사업부 신설 .
+  - [1978년](../Page/1978년.md "wikilink") 금성사(현 LG전자), 대한민국최초로 청소기를 개발.
+  - [1978년](../Page/1978년.md "wikilink") 금성사(현 LG전자), 수출 1억달러 돌파.
+  - [1978년](../Page/1978년.md "wikilink") 금성사(현 LG전자), 진공 청소기를 개발.
+  - [1978년](../Page/1978년.md "wikilink") 희성산업(현 GS리테일), 금성사로부터 홍보 및 광고대행업무 인수
+  - [1978년](../Page/1978년.md "wikilink") 금성통신, 대한민국 최초로 MFC식(전자교환기용) 전화기 개발.
+  - [1978년](../Page/1978년.md "wikilink") 금성사(현 LG전자), 문래동 공장 현판식.
+  - [1978년](../Page/1978년.md "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자), 미국에 판매법인(GSEI) 설립.
+  - [1978년](../Page/1978년.md "wikilink") 금성사(현 LG전자), 대한민국 전자업계 최초로 \<수출 1억 달러\> 달성.
+  - [1978년](../Page/1978년.md "wikilink") 금성사(현 LG전자), 대한민국전자업계 최초로 <수출1억불> 돌파.
+  - [1979년](../Page/1979년.md "wikilink") 금성사(현 LG전자), 문래동 공장 준공.
+  - [1979년](../Page/1979년.md "wikilink") 금성통신, 전화기 생산 200만대 돌파.
+  - [1979년](../Page/1979년.md "wikilink") 금성사(현 LG전자), 스테리오 카세트를 시판.
+  - [1979년](../Page/1979년.md "wikilink") 금성사(현 LG전자), 허신구 사장 취임.
+  - [1979년](../Page/1979년.md "wikilink") 금성사(현 LG전자), 가정용 진공청소기를 시판.
+  - [1979년](../Page/1979년.md "wikilink") 금성사(현 LG전자), 박승찬 사장 별세.
+  - [1979년](../Page/1979년.md "wikilink") 금성사(현 LG전자), 임시주주총회 개최/5대 사장에 허신구 럭키 사장을
+  - [1979년](../Page/1979년.md "wikilink") 금성사(현 LG전자), 한국 최초 기계식 VCR 원형시작품 개발.
+  - [1979년](../Page/1979년.md "wikilink") 3사(금성사ㆍ금성통신ㆍ금성전기) 공동으로 대한반도체㈜ 인수.
+  - [1979년](../Page/1979년.md "wikilink") 금성사(현 LG전자), 대한민국최초로 VTR를 개발.
+  - [1979년](../Page/1979년.md "wikilink") 금성사(현 LG전자), 구미TV공장을 준공.
+  - [1979년](../Page/1979년.md "wikilink") 금성사(현 LG전자), 제25회 국제기능올림픽대회에서 금5ㆍ은2 수상.
+  - [1979년](../Page/1979년.md "wikilink") 금성통신, 한국 최초로 전자식 디지털 교환기 <스타렉스-2000> 개발.
+  - [1979년](../Page/1979년.md "wikilink") 금성사(현 LG전자), 김해 모터공장 준공
+  - [1979년](../Page/1979년.md "wikilink") 금성사(현 LG전자), 대한민국 최초로 컴퓨터 컬러TV를 시판 개시.
 
 ### 1980년대
 
-  - [1980년](https://ko.wikipedia.org/wiki/1980년 "wikilink") 금성통신, 구미 전화기공장 준공(금성통신 제2공장).
-  - [1980년](https://ko.wikipedia.org/wiki/1980년 "wikilink") 금성사(현 LG전자), 구미 CPT공장 준공식.
-  - [1980년](https://ko.wikipedia.org/wiki/1980년 "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자), 컬러TV 시판 개시.
-  - [1980년](https://ko.wikipedia.org/wiki/1980년 "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자) 유럽판매법인 설립.
-  - [1980년](https://ko.wikipedia.org/wiki/1980년 "wikilink") 금성사(현 LG전자), 컬러TV 100만 돌파.
-  - [1980년](https://ko.wikipedia.org/wiki/1980년 "wikilink") 금성통신, 한국 최초로 슬림 와이어 키폰(Slim-Wire Keyphone) 개발
-  - [1980년](https://ko.wikipedia.org/wiki/1980년 "wikilink") 금성사(현 LG전자), 한국 최초 한글ㆍ영문 겸용 전자식 메모리 타자기
-  - [1980년](https://ko.wikipedia.org/wiki/1980년 "wikilink") 금성사(현 LG전자), 한국 최초로 태국 콘솔리데이티드사와
-  - [1981년](https://ko.wikipedia.org/wiki/1981년 "wikilink") 금성통신, 도트매트릭스프린터(M-100) 출시를 계기로 프린터사업
-  - [1981년](https://ko.wikipedia.org/wiki/1981년 "wikilink") 금성사(현 LG전자), 컬러 VTR를 생산.
-  - [1981년](https://ko.wikipedia.org/wiki/1981년 "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자) 프로젝션 텔레비전을 개시.
-  - [1981년](https://ko.wikipedia.org/wiki/1981년 "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자), 3도어 냉장고 시판 개시.
-  - [1981년](https://ko.wikipedia.org/wiki/1981년 "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자), 전자식 VTR 시판 개시.
-  - [1981년](https://ko.wikipedia.org/wiki/1981년 "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자,) 3도어 냉장고 시판 개시.
-  - [1981년](https://ko.wikipedia.org/wiki/1981년 "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자), 헤드폰 스테리오 카세트를 시판 개시.
-  - [1981년](https://ko.wikipedia.org/wiki/1981년 "wikilink") 금성사(현 LG전자), 미국 헌츠빌 컬러TV공장 건설 착공
-  - [1981년](https://ko.wikipedia.org/wiki/1981년 "wikilink") 금성통신, 전화기 생산 300만 대 돌파(한국 점유율 : 총 대수의 75%)
-  - [1981년](https://ko.wikipedia.org/wiki/1981년 "wikilink") 희성산업(현 GS리테일), 한국방송광고대상 대상 수상(TV부문:금성사
-  - [1981년](https://ko.wikipedia.org/wiki/1981년 "wikilink") 금성통신 안양연구소, 전전자식 사설교환기 STAREX-2000개발
-  - [1981년](https://ko.wikipedia.org/wiki/1981년 "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자,) 3도어 냉장고 시판 개시.
-  - [1981년](https://ko.wikipedia.org/wiki/1981년 "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자), 헤드폰 스테리오 카세트를 시판 개시.
-  - [1981년](https://ko.wikipedia.org/wiki/1981년 "wikilink") 금성사(현 LG전자), 대한민국최초로 전자레인지 생산.
-  - [1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink") 금성통신, 제4대 공동대표이사 사장 이재연 선임.
-  - [1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink") 금성사(현 LG전자), 한국기업 최초로 품질시험소 설치.
-  - [1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink") 금성반도체 이사회, 하니웰사 기술제휴 관련, 컴퓨터 사업을 금성사에
-  - [1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink") 금성사(현 LG전자), 제17회 발명의 날에 우수특허관리업체 대상 및
-  - [1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink") 금성사(현 LG전자), 한국 최초 컬러 비디오 카메라 개발.
-  - [1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink") 금성통신, KAIST 조장희 박사와 공동으로 한국 최초의 '자기공명
-  - [1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자) 대한민국 최초로 컴퓨터를 (GS leveI-6)
-  - [1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink") [금성사](../Page/금성사.md "wikilink")(현 LG전자), 구미공장 브라운관 생산 100만톤 돌파.
-  - [1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink") [금성사](../Page/금성사.md "wikilink")(현 LG전자), 대한민국 최초로 벽면TV를 생산.
-  - [1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink") [금성사](../Page/금성사.md "wikilink")(현 LG전자), 대한민국 최초로 비디오 카메라를 개발.
-  - [1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자), 한국 최초로 가스차단 안전 가스레인지를 개발.
-  - [1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink") 금성사(현 LG전자), 평택공장 기공식.
-  - [1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자), 콤펙트 디스크 폴레이어를 개발.
-  - [1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자), 메트릭스 프린터를 개발.
-  - [1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자), 슬림형 에어컨을 개발.
-  - [1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자), FDD를 전개.
-  - [1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자), 디자인연구소과 시험연구소를 설립.
-  - [1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink") 금성사(현 LG전자), 25주년을 맞아 CI를 심볼마크, 로고타이프 수정.
-  - [1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자), 팩토링 부문은 금성투자금융에 이관.
-  - [1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink") 금성사(현 LG전자), 안양중앙연구소를 설립.
-  - [1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자), 제1회 산업디자인전 개최.
-  - [1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자), 창립25주년 기념식에서 전국 특약점 전진대회
-  - [1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자), 순회서비스 발대식.
-  - [1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자), 전자교환시절 1만회선 개통.
-  - [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") 금성사(현 LG전자), 대한민국 최초로 16피트 컴퓨터를 생산.
-  - [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") [금성사](../Page/금성사.md "wikilink")(현 LG전자), 84 금성의 소비자해 선포식.
-  - [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") 금성사(현 LG전자), 중앙연구소를 기공식.
-  - [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") 금성사(현 LG전자), 대한민국 최초로 모니터를 생산.
-  - [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") 금성사(현 LG전자), 김해공장을 준공.
-  - [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") 금성사(현 LG전자), 미국 연구소를 산호세로 이전.
-  - [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") 금성사(현 LG전자), TV연구소를 설립.
-  - [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자), 매출 2천억 돌파.
-  - [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") 금성사(현 LG전자), 컬러TV 생산능력 150만명 돌파.
-  - [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") 금성사(현 LG전자), 미국 실리콘 벨리에 UMI를 설립.
-  - [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") 금성사(현 LG전자), 평택공장 준공식.
-  - [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") 금성사(현 LG전자), 창원공장내 연구소를 설립.
-  - [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") 금성사(현 LG전자), 창원 3공장 기공.
-  - [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자), 창원2공장 준공.
-  - [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") 금성사(현 LG전자), 매출 1조원을 돌파.
-  - [1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink") 금성사(현 LG전자), CPT 증설 400만 돌파.
-  - [1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink") 금성사(현 LG전자), 대한민국 최초로 기계식 컴퓨터를 생산.
-  - [1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink") 금성통신, 제3 교환기(NBX-4000)를 개발.
-  - [1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink") 금성사(현 LG전자), 영등포구 문래동에 제품시험연구소를 설립.
-  - [1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink") 금성사(현 LG전자), 대한민국 최초로 전자식 교환기를 생산.
-  - [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") 금성사(현 LG전자), 시력보호TV를 생산개시.
-  - [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") 금성사(현 LG전자), 독일현지법인 프랑크푸르트 근교 보름스 시에
-  - [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") 금성사(현 LG전자), 사시 제정.
-  - [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink") 금성사(현 LG전자), 우면동에 중앙연구소를 설립.
-  - [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink") 금성사(현 LG전자), 1차 노사분규 시행.
-  - [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink") 금성사(현 LG전자), 양재동에 물류센터 준공식.
-  - [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink") 금성사(현 LG전자), 아하카세트 생산 개시.
-  - [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink") 금성사(현 LG전자), 중앙연구소에서 TFT-LCD 개발이 시작.
-  - [1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink") 금성사(현 LG전자), EU 지역의 생산 기반확충을 생산법인 영국에
-  - [1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink") 금성사(현 LG전자), 홍콩 현지법인(LGEHK)을 설립.
-  - [1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink") 금성사(현 LG전자) 88올림픽 세계자동차일주 행사.
-  - [1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink") 금성사(현 LG전자) F-88 프로젝트로 전개.
-  - [1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink") 금성사(현 LG전자) 이현조 사장 취임.
-  - [1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink") 금성사(현 LG전자), TPC 운동 시행.
-  - [1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink") 금성사(현 LG전자) 금성 미라클 출시.
-  - [1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink") 금성사(현LG전자), 태국판매법인 설립.
-  - [1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink") 금성사(현 LG전자), 캠코더를 첫 수출 기념.
-  - [1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink") 금성사(현 LG전자), 구미2 공장 착공.
-  - [1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink") 금성사(현 LG전자), 2차 노사분규 시행.
-  - [1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink") 금성사(현LG전자), 인재개발제도 도입.
-  - [1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink") 금성사(현LG전자), 냉장고 생산 1000만대 돌파.
-  - [1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink") 금성사(현 LG전자), 생상기술연구소로 개칭.
+  - [1980년](../Page/1980년.md "wikilink") 금성통신, 구미 전화기공장 준공(금성통신 제2공장).
+  - [1980년](../Page/1980년.md "wikilink") 금성사(현 LG전자), 구미 CPT공장 준공식.
+  - [1980년](../Page/1980년.md "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자), 컬러TV 시판 개시.
+  - [1980년](../Page/1980년.md "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자) 유럽판매법인 설립.
+  - [1980년](../Page/1980년.md "wikilink") 금성사(현 LG전자), 컬러TV 100만 돌파.
+  - [1980년](../Page/1980년.md "wikilink") 금성통신, 한국 최초로 슬림 와이어 키폰(Slim-Wire Keyphone) 개발
+  - [1980년](../Page/1980년.md "wikilink") 금성사(현 LG전자), 한국 최초 한글ㆍ영문 겸용 전자식 메모리 타자기
+  - [1980년](../Page/1980년.md "wikilink") 금성사(현 LG전자), 한국 최초로 태국 콘솔리데이티드사와
+  - [1981년](../Page/1981년.md "wikilink") 금성통신, 도트매트릭스프린터(M-100) 출시를 계기로 프린터사업
+  - [1981년](../Page/1981년.md "wikilink") 금성사(현 LG전자), 컬러 VTR를 생산.
+  - [1981년](../Page/1981년.md "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자) 프로젝션 텔레비전을 개시.
+  - [1981년](../Page/1981년.md "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자), 3도어 냉장고 시판 개시.
+  - [1981년](../Page/1981년.md "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자), 전자식 VTR 시판 개시.
+  - [1981년](../Page/1981년.md "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자,) 3도어 냉장고 시판 개시.
+  - [1981년](../Page/1981년.md "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자), 헤드폰 스테리오 카세트를 시판 개시.
+  - [1981년](../Page/1981년.md "wikilink") 금성사(현 LG전자), 미국 헌츠빌 컬러TV공장 건설 착공
+  - [1981년](../Page/1981년.md "wikilink") 금성통신, 전화기 생산 300만 대 돌파(한국 점유율 : 총 대수의 75%)
+  - [1981년](../Page/1981년.md "wikilink") 희성산업(현 GS리테일), 한국방송광고대상 대상 수상(TV부문:금성사
+  - [1981년](../Page/1981년.md "wikilink") 금성통신 안양연구소, 전전자식 사설교환기 STAREX-2000개발
+  - [1981년](../Page/1981년.md "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자,) 3도어 냉장고 시판 개시.
+  - [1981년](../Page/1981년.md "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자), 헤드폰 스테리오 카세트를 시판 개시.
+  - [1981년](../Page/1981년.md "wikilink") 금성사(현 LG전자), 대한민국최초로 전자레인지 생산.
+  - [1982년](../Page/1982년.md "wikilink") 금성통신, 제4대 공동대표이사 사장 이재연 선임.
+  - [1982년](../Page/1982년.md "wikilink") 금성사(현 LG전자), 한국기업 최초로 품질시험소 설치.
+  - [1982년](../Page/1982년.md "wikilink") 금성반도체 이사회, 하니웰사 기술제휴 관련, 컴퓨터 사업을 금성사에
+  - [1982년](../Page/1982년.md "wikilink") 금성사(현 LG전자), 제17회 발명의 날에 우수특허관리업체 대상 및
+  - [1982년](../Page/1982년.md "wikilink") 금성사(현 LG전자), 한국 최초 컬러 비디오 카메라 개발.
+  - [1982년](../Page/1982년.md "wikilink") 금성통신, KAIST 조장희 박사와 공동으로 한국 최초의 '자기공명
+  - [1982년](../Page/1982년.md "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자) 대한민국 최초로 컴퓨터를 (GS leveI-6)
+  - [1982년](../Page/1982년.md "wikilink") [금성사](../Page/금성사.md "wikilink")(현 LG전자), 구미공장 브라운관 생산 100만톤 돌파.
+  - [1982년](../Page/1982년.md "wikilink") [금성사](../Page/금성사.md "wikilink")(현 LG전자), 대한민국 최초로 벽면TV를 생산.
+  - [1982년](../Page/1982년.md "wikilink") [금성사](../Page/금성사.md "wikilink")(현 LG전자), 대한민국 최초로 비디오 카메라를 개발.
+  - [1982년](../Page/1982년.md "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자), 한국 최초로 가스차단 안전 가스레인지를 개발.
+  - [1983년](../Page/1983년.md "wikilink") 금성사(현 LG전자), 평택공장 기공식.
+  - [1983년](../Page/1983년.md "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자), 콤펙트 디스크 폴레이어를 개발.
+  - [1983년](../Page/1983년.md "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자), 메트릭스 프린터를 개발.
+  - [1983년](../Page/1983년.md "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자), 슬림형 에어컨을 개발.
+  - [1983년](../Page/1983년.md "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자), FDD를 전개.
+  - [1983년](../Page/1983년.md "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자), 디자인연구소과 시험연구소를 설립.
+  - [1983년](../Page/1983년.md "wikilink") 금성사(현 LG전자), 25주년을 맞아 CI를 심볼마크, 로고타이프 수정.
+  - [1983년](../Page/1983년.md "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자), 팩토링 부문은 금성투자금융에 이관.
+  - [1983년](../Page/1983년.md "wikilink") 금성사(현 LG전자), 안양중앙연구소를 설립.
+  - [1983년](../Page/1983년.md "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자), 제1회 산업디자인전 개최.
+  - [1983년](../Page/1983년.md "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자), 창립25주년 기념식에서 전국 특약점 전진대회
+  - [1983년](../Page/1983년.md "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자), 순회서비스 발대식.
+  - [1983년](../Page/1983년.md "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자), 전자교환시절 1만회선 개통.
+  - [1984년](../Page/1984년.md "wikilink") 금성사(현 LG전자), 대한민국 최초로 16피트 컴퓨터를 생산.
+  - [1984년](../Page/1984년.md "wikilink") [금성사](../Page/금성사.md "wikilink")(현 LG전자), 84 금성의 소비자해 선포식.
+  - [1984년](../Page/1984년.md "wikilink") 금성사(현 LG전자), 중앙연구소를 기공식.
+  - [1984년](../Page/1984년.md "wikilink") 금성사(현 LG전자), 대한민국 최초로 모니터를 생산.
+  - [1984년](../Page/1984년.md "wikilink") 금성사(현 LG전자), 김해공장을 준공.
+  - [1984년](../Page/1984년.md "wikilink") 금성사(현 LG전자), 미국 연구소를 산호세로 이전.
+  - [1984년](../Page/1984년.md "wikilink") 금성사(현 LG전자), TV연구소를 설립.
+  - [1984년](../Page/1984년.md "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자), 매출 2천억 돌파.
+  - [1984년](../Page/1984년.md "wikilink") 금성사(현 LG전자), 컬러TV 생산능력 150만명 돌파.
+  - [1984년](../Page/1984년.md "wikilink") 금성사(현 LG전자), 미국 실리콘 벨리에 UMI를 설립.
+  - [1984년](../Page/1984년.md "wikilink") 금성사(현 LG전자), 평택공장 준공식.
+  - [1984년](../Page/1984년.md "wikilink") 금성사(현 LG전자), 창원공장내 연구소를 설립.
+  - [1984년](../Page/1984년.md "wikilink") 금성사(현 LG전자), 창원 3공장 기공.
+  - [1984년](../Page/1984년.md "wikilink") [금성사](../Page/금성사.md "wikilink")(현LG전자), 창원2공장 준공.
+  - [1984년](../Page/1984년.md "wikilink") 금성사(현 LG전자), 매출 1조원을 돌파.
+  - [1985년](../Page/1985년.md "wikilink") 금성사(현 LG전자), CPT 증설 400만 돌파.
+  - [1985년](../Page/1985년.md "wikilink") 금성사(현 LG전자), 대한민국 최초로 기계식 컴퓨터를 생산.
+  - [1985년](../Page/1985년.md "wikilink") 금성통신, 제3 교환기(NBX-4000)를 개발.
+  - [1985년](../Page/1985년.md "wikilink") 금성사(현 LG전자), 영등포구 문래동에 제품시험연구소를 설립.
+  - [1985년](../Page/1985년.md "wikilink") 금성사(현 LG전자), 대한민국 최초로 전자식 교환기를 생산.
+  - [1986년](../Page/1986년.md "wikilink") 금성사(현 LG전자), 시력보호TV를 생산개시.
+  - [1986년](../Page/1986년.md "wikilink") 금성사(현 LG전자), 독일현지법인 프랑크푸르트 근교 보름스 시에
+  - [1986년](../Page/1986년.md "wikilink") 금성사(현 LG전자), 사시 제정.
+  - [1987년](../Page/1987년.md "wikilink") 금성사(현 LG전자), 우면동에 중앙연구소를 설립.
+  - [1987년](../Page/1987년.md "wikilink") 금성사(현 LG전자), 1차 노사분규 시행.
+  - [1987년](../Page/1987년.md "wikilink") 금성사(현 LG전자), 양재동에 물류센터 준공식.
+  - [1987년](../Page/1987년.md "wikilink") 금성사(현 LG전자), 아하카세트 생산 개시.
+  - [1987년](../Page/1987년.md "wikilink") 금성사(현 LG전자), 중앙연구소에서 TFT-LCD 개발이 시작.
+  - [1988년](../Page/1988년.md "wikilink") 금성사(현 LG전자), EU 지역의 생산 기반확충을 생산법인 영국에
+  - [1988년](../Page/1988년.md "wikilink") 금성사(현 LG전자), 홍콩 현지법인(LGEHK)을 설립.
+  - [1988년](../Page/1988년.md "wikilink") 금성사(현 LG전자) 88올림픽 세계자동차일주 행사.
+  - [1988년](../Page/1988년.md "wikilink") 금성사(현 LG전자) F-88 프로젝트로 전개.
+  - [1989년](../Page/1989년.md "wikilink") 금성사(현 LG전자) 이현조 사장 취임.
+  - [1989년](../Page/1989년.md "wikilink") 금성사(현 LG전자), TPC 운동 시행.
+  - [1989년](../Page/1989년.md "wikilink") 금성사(현 LG전자) 금성 미라클 출시.
+  - [1989년](../Page/1989년.md "wikilink") 금성사(현LG전자), 태국판매법인 설립.
+  - [1989년](../Page/1989년.md "wikilink") 금성사(현 LG전자), 캠코더를 첫 수출 기념.
+  - [1989년](../Page/1989년.md "wikilink") 금성사(현 LG전자), 구미2 공장 착공.
+  - [1989년](../Page/1989년.md "wikilink") 금성사(현 LG전자), 2차 노사분규 시행.
+  - [1989년](../Page/1989년.md "wikilink") 금성사(현LG전자), 인재개발제도 도입.
+  - [1989년](../Page/1989년.md "wikilink") 금성사(현LG전자), 냉장고 생산 1000만대 돌파.
+  - [1989년](../Page/1989년.md "wikilink") 금성사(현 LG전자), 생상기술연구소로 개칭.
 
 ### 1990년대
 
-  - [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink") 금성사(현LG전자), 냉장고 생산 1000만대 달성.
-  - [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink") 금성사(현 LG전자) 아일랜드 현지법인을 설립.
-  - [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink") 금성사(현 LG전자), 중부지방 홍수 수해복구.
-  - [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink") 금성사(현 LG전자), 모스크바 지사 개설.
-  - [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink") 금성사(현 LG전자), 노동 생산성 증가.
-  - [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink") 금성사(현 LG전자) 마스터폴랜 전개.
-  - [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink") 금성사(현 LG전자), 아일랜드에 디자인 연구소 설립.
-  - [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink") 금성사(현 LG전자), 미국 제니스와 자본 제휴.
-  - [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink") 금성사(현 LG전자), 한국형 김치 냉장고를 생산.
-  - [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink") 금성사(현 LG전자), 중아지역 서비스 법인(LGEME)를 설립.
-  - [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink") 금성사(현 LG전자), 독일 보름스시에 연구소 설립.
-  - [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink") 금성사(현 LG전자), 한국형 뚝배기 밥솥을 출시.
-  - [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink") 금성사(현LG전자), 구미 2공장 준공.
-  - [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink") 금성사(현 LG전자), 한국형 냉장고를 출시.
-  - [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink") 금성사(현 LG전자), 한국형 식기세척기를 출시.
-  - [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink") 금성사(현 LG전자), 한국형 G-VTR를 출시.
-  - [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink") 금성사(현 LG전자), 슈퍼 미라클을 출시.
-  - [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink") 금성사(현 LG전자), 금성부품과 합병.
-  - [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink") 금성사(현 LG전자), 동글이 청소기를 출시.
-  - [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink") 금성사(현 LG전자), 2형 세탁기를 생산.
-  - [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink") 금성사(현 LG전자), 독일 보름스에 보름스기술정보센터를 설립.
-  - [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink") 금성사(현LG전자), 구미 대형 컬러브라운관공장 준공.
-  - [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink") 금성사(현LG전자), 금성창녕유한공사(GSCN)를 설립.
-  - [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink") 금성사(현 LG전자), 김장독을 출시.
-  - [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") 금성사(현 LG전자), 중국 TV 공장을 준공.
-  - [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") 금성사(현 LG전자), 구미공장을 기공식.
-  - [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") 금성사(현 LG전자), 한국형 바람개비 선풍기를 출시.
-  - [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") 금성사(현 LG전자), 한국형 식기세척기를 출시.
-  - [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") 금성사(현 LG전자)가 디자인연구소를 설립.
-  - [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") 금성사(현 LG전자), 한국형 숯불구이 전자레인지를 출시.
-  - [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") 금성사(현 LG전자), 한국형 보온밥솥을 출시.
-  - [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") 금성사(현 LG전자), LCD 사업부를 설립.
-  - [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") 금성사(현 LG전자), 하이미디어 비전 선포식.
-  - [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") 금성사(현 LG전자), 미국 뉴욕에 설명회를 개최.
-  - [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") 금성사(현 LG전자), 프랑스 파리에 설명회를 개최.
-  - [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") 금성사(현 LG전자)가 헝가리의 시장 진출.
-  - [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") 금성사(현 LG전자), 그린헬스를 출시.
-  - [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") 금성사(현 LG전자), 싱싱 냉장고를 두 배로 생산.
-  - [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") 금성사(현 LG전자)가 중국현지법인 중국 광뚱성 후이저우에 LG전자
-  - [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") 금성사(현 LG전자), 베트남 컬러TV 합작희양서를 체결.
-  - [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") 금성사(현 LG전자), 중국진출전략회의 발표식.
-  - [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") 금성사(현 LG전자), 발표식 청국장 출시.
-  - [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") 금성사(현 LG전자), 매출 5조원 돌파.
-  - [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") 금성사(현 LG전자), 산업평화의탑 급탑 수상.
-  - [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") 금성사(현 LG전자), 심포니 PC 출시.
-  - [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") 금성사(현 LG전자), 중국선양에 LG선양유한공사를 설립.
-  - [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") 금성사(현 LG전자), 중국 상하이에
-  - [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") 금성사(현 LG전자), 금성농구단 창단발표.
-  - [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") 금성사(현 LG전자)가 금성통신과 합병.
+  - [1990년](../Page/1990년.md "wikilink") 금성사(현LG전자), 냉장고 생산 1000만대 달성.
+  - [1990년](../Page/1990년.md "wikilink") 금성사(현 LG전자) 아일랜드 현지법인을 설립.
+  - [1990년](../Page/1990년.md "wikilink") 금성사(현 LG전자), 중부지방 홍수 수해복구.
+  - [1990년](../Page/1990년.md "wikilink") 금성사(현 LG전자), 모스크바 지사 개설.
+  - [1990년](../Page/1990년.md "wikilink") 금성사(현 LG전자), 노동 생산성 증가.
+  - [1990년](../Page/1990년.md "wikilink") 금성사(현 LG전자) 마스터폴랜 전개.
+  - [1991년](../Page/1991년.md "wikilink") 금성사(현 LG전자), 아일랜드에 디자인 연구소 설립.
+  - [1991년](../Page/1991년.md "wikilink") 금성사(현 LG전자), 미국 제니스와 자본 제휴.
+  - [1991년](../Page/1991년.md "wikilink") 금성사(현 LG전자), 한국형 김치 냉장고를 생산.
+  - [1991년](../Page/1991년.md "wikilink") 금성사(현 LG전자), 중아지역 서비스 법인(LGEME)를 설립.
+  - [1991년](../Page/1991년.md "wikilink") 금성사(현 LG전자), 독일 보름스시에 연구소 설립.
+  - [1991년](../Page/1991년.md "wikilink") 금성사(현 LG전자), 한국형 뚝배기 밥솥을 출시.
+  - [1992년](../Page/1992년.md "wikilink") 금성사(현LG전자), 구미 2공장 준공.
+  - [1992년](../Page/1992년.md "wikilink") 금성사(현 LG전자), 한국형 냉장고를 출시.
+  - [1992년](../Page/1992년.md "wikilink") 금성사(현 LG전자), 한국형 식기세척기를 출시.
+  - [1992년](../Page/1992년.md "wikilink") 금성사(현 LG전자), 한국형 G-VTR를 출시.
+  - [1992년](../Page/1992년.md "wikilink") 금성사(현 LG전자), 슈퍼 미라클을 출시.
+  - [1992년](../Page/1992년.md "wikilink") 금성사(현 LG전자), 금성부품과 합병.
+  - [1992년](../Page/1992년.md "wikilink") 금성사(현 LG전자), 동글이 청소기를 출시.
+  - [1992년](../Page/1992년.md "wikilink") 금성사(현 LG전자), 2형 세탁기를 생산.
+  - [1992년](../Page/1992년.md "wikilink") 금성사(현 LG전자), 독일 보름스에 보름스기술정보센터를 설립.
+  - [1992년](../Page/1992년.md "wikilink") 금성사(현LG전자), 구미 대형 컬러브라운관공장 준공.
+  - [1992년](../Page/1992년.md "wikilink") 금성사(현LG전자), 금성창녕유한공사(GSCN)를 설립.
+  - [1992년](../Page/1992년.md "wikilink") 금성사(현 LG전자), 김장독을 출시.
+  - [1993년](../Page/1993년.md "wikilink") 금성사(현 LG전자), 중국 TV 공장을 준공.
+  - [1993년](../Page/1993년.md "wikilink") 금성사(현 LG전자), 구미공장을 기공식.
+  - [1993년](../Page/1993년.md "wikilink") 금성사(현 LG전자), 한국형 바람개비 선풍기를 출시.
+  - [1993년](../Page/1993년.md "wikilink") 금성사(현 LG전자), 한국형 식기세척기를 출시.
+  - [1993년](../Page/1993년.md "wikilink") 금성사(현 LG전자)가 디자인연구소를 설립.
+  - [1993년](../Page/1993년.md "wikilink") 금성사(현 LG전자), 한국형 숯불구이 전자레인지를 출시.
+  - [1993년](../Page/1993년.md "wikilink") 금성사(현 LG전자), 한국형 보온밥솥을 출시.
+  - [1993년](../Page/1993년.md "wikilink") 금성사(현 LG전자), LCD 사업부를 설립.
+  - [1993년](../Page/1993년.md "wikilink") 금성사(현 LG전자), 하이미디어 비전 선포식.
+  - [1993년](../Page/1993년.md "wikilink") 금성사(현 LG전자), 미국 뉴욕에 설명회를 개최.
+  - [1993년](../Page/1993년.md "wikilink") 금성사(현 LG전자), 프랑스 파리에 설명회를 개최.
+  - [1993년](../Page/1993년.md "wikilink") 금성사(현 LG전자)가 헝가리의 시장 진출.
+  - [1993년](../Page/1993년.md "wikilink") 금성사(현 LG전자), 그린헬스를 출시.
+  - [1993년](../Page/1993년.md "wikilink") 금성사(현 LG전자), 싱싱 냉장고를 두 배로 생산.
+  - [1993년](../Page/1993년.md "wikilink") 금성사(현 LG전자)가 중국현지법인 중국 광뚱성 후이저우에 LG전자
+  - [1994년](../Page/1994년.md "wikilink") 금성사(현 LG전자), 베트남 컬러TV 합작희양서를 체결.
+  - [1994년](../Page/1994년.md "wikilink") 금성사(현 LG전자), 중국진출전략회의 발표식.
+  - [1994년](../Page/1994년.md "wikilink") 금성사(현 LG전자), 발표식 청국장 출시.
+  - [1994년](../Page/1994년.md "wikilink") 금성사(현 LG전자), 매출 5조원 돌파.
+  - [1994년](../Page/1994년.md "wikilink") 금성사(현 LG전자), 산업평화의탑 급탑 수상.
+  - [1994년](../Page/1994년.md "wikilink") 금성사(현 LG전자), 심포니 PC 출시.
+  - [1994년](../Page/1994년.md "wikilink") 금성사(현 LG전자), 중국선양에 LG선양유한공사를 설립.
+  - [1994년](../Page/1994년.md "wikilink") 금성사(현 LG전자), 중국 상하이에
+  - [1994년](../Page/1994년.md "wikilink") 금성사(현 LG전자), 금성농구단 창단발표.
+  - [1995년](../Page/1995년.md "wikilink") 금성사(현 LG전자)가 금성통신과 합병.
 
 ## LG전자
 
 ### 1990년대
 
-  - [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [금성사](../Page/금성사.md "wikilink")에서 LG전자로 상호변경.
-  - [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") 심포니2를 출시.
-  - [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") 중국 창사에 공장 건설.
-  - [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") LG전자중국지주회사(LGECH)를 설립.
-  - [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") 초고속 CD-ROM을 출시.
-  - [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") 중국에 유한공사를 설립.
-  - [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") 하이프라자 1호점 개점.
-  - [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") 미국 생산법인 LG인포컴을 설립.
-  - [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") 구미공장 내 TFT-LCD 공장을 준공식.
-  - [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") 인도에 LG소프트센터를 설립.
-  - [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") 96 고객감동서비스 실천결의대회를 개최.
-  - [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") 중국 장사(長沙)에 진출 전략 발표.
-  - [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") 인도에 현지법인을 설립.
-  - [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") 심포니 멀티 PC를 출시.
-  - [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") 영국에 종합가전공장 기공식.
-  - [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") TV 생산법인을 설립.
-  - [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") 통돌이 세탁기 출시.
-  - [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") 화통 출시.
-  - [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") 브라질에 현지법인을 설립.
-  - [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") 브라질 2개 법인(LGEAZ, LGESP)을 설립.
-  - [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") 인도네시아에 대규모 공장 준공.
-  - [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") 크린캡 에어컨을 출시.
-  - [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") 14.1인치 TFT-LCD를 개발 성공.
-  - [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") LG ESA를 설립.
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") 웨일즈전자복합단지 준공.
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") LG전자부품, [일본](../Page/일본.md "wikilink")의 알프스전기에 합작법인을 청산.
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") 프리웨이 출시.
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") 브라질에 마나우스공장을 설립.
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") 하이프라자 14호점 개점.
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") 가스오븐레인지 쁘레오를 출시.
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") 브라질에 마나우스공장을 설립.
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") 디지털카메라를 출시.
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") 102cm(40inch) PDP TV 독자개발.
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") 인도에 공장을 준공.
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") 대한민국 최초로 24배속 CD-ROM을 개발.
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") 영국에 공장을 설립.
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") 태국에 판매법인(LGETH)을 설립.
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") 카자흐스탄에 컬러TV공장을 준공식.
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") 카자흐스탄 수도 알마티에 컬러TV 생산공장(LGEAK)을 설립.
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") 경상북도 구미에 PDP 공장을 설립.
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") 중국 창사에 TV공장을 준공.
-  - [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") 제니스 멕시코 컬러TV공장을 인수.
-  - [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") LG소프트 합병.
-  - [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") 디지털카메라를 청산.
-  - [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") 중국 난징모니터공장(LGENT) 생산개시.
-  - [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") 세계 최초 152cm(60inch) PDP TV 개발.
-  - [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") 초고속 광스토리지를 개발.
-  - [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") 카자흐스탄에 현지법인이 설립.
-  - [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") LG소프트인디아에 변경.
-  - [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") LG포스터를 흡수 합병.
-  - [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") 중국 난징모니터공장(LGENT) 생산개시.
-  - [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") 대한민국 최초로 32배속 CD-ROM을 개발.
-  - [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") ADL 평가 시행.
-  - [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") 디지털카메라 부문을 청산.
-  - [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") LG전자서비스를 설립.
-  - [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") 대한민국 최초로 40배속 CD-ROM을 개발.
-  - [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") 비디오사업부문 새한그룹에 매각.
-  - [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") TV 생산공장(LGETN)을 건설.
-  - [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") 대한민국최초로 광스토리지를 개발.
-  - [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") LG-EDS 시스템, LG전자 소프트사업을 인수.
-  - [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") LGEMA를 출범.
-  - [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") 디지털LG를 새로운 슬로건을 선포식.
-  - [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") 미국 제니스와 자회사를 출범.
-  - [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") 폴란드 생산법인으로 출범.
-  - [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") 6시그마 전사 확대.
-  - [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") 소프트웨어 사업부문을 LG-EDS에 이관.
+  - [1995년](../Page/1995년.md "wikilink") [금성사](../Page/금성사.md "wikilink")에서 LG전자로 상호변경.
+  - [1995년](../Page/1995년.md "wikilink") 심포니2를 출시.
+  - [1995년](../Page/1995년.md "wikilink") 중국 창사에 공장 건설.
+  - [1995년](../Page/1995년.md "wikilink") LG전자중국지주회사(LGECH)를 설립.
+  - [1995년](../Page/1995년.md "wikilink") 초고속 CD-ROM을 출시.
+  - [1995년](../Page/1995년.md "wikilink") 중국에 유한공사를 설립.
+  - [1995년](../Page/1995년.md "wikilink") 하이프라자 1호점 개점.
+  - [1995년](../Page/1995년.md "wikilink") 미국 생산법인 LG인포컴을 설립.
+  - [1995년](../Page/1995년.md "wikilink") 구미공장 내 TFT-LCD 공장을 준공식.
+  - [1996년](../Page/1996년.md "wikilink") 인도에 LG소프트센터를 설립.
+  - [1996년](../Page/1996년.md "wikilink") 96 고객감동서비스 실천결의대회를 개최.
+  - [1996년](../Page/1996년.md "wikilink") 중국 장사(長沙)에 진출 전략 발표.
+  - [1996년](../Page/1996년.md "wikilink") 인도에 현지법인을 설립.
+  - [1996년](../Page/1996년.md "wikilink") 심포니 멀티 PC를 출시.
+  - [1996년](../Page/1996년.md "wikilink") 영국에 종합가전공장 기공식.
+  - [1996년](../Page/1996년.md "wikilink") TV 생산법인을 설립.
+  - [1996년](../Page/1996년.md "wikilink") 통돌이 세탁기 출시.
+  - [1996년](../Page/1996년.md "wikilink") 화통 출시.
+  - [1996년](../Page/1996년.md "wikilink") 브라질에 현지법인을 설립.
+  - [1996년](../Page/1996년.md "wikilink") 브라질 2개 법인(LGEAZ, LGESP)을 설립.
+  - [1996년](../Page/1996년.md "wikilink") 인도네시아에 대규모 공장 준공.
+  - [1996년](../Page/1996년.md "wikilink") 크린캡 에어컨을 출시.
+  - [1996년](../Page/1996년.md "wikilink") 14.1인치 TFT-LCD를 개발 성공.
+  - [1996년](../Page/1996년.md "wikilink") LG ESA를 설립.
+  - [1997년](../Page/1997년.md "wikilink") 웨일즈전자복합단지 준공.
+  - [1997년](../Page/1997년.md "wikilink") LG전자부품, [일본](../Page/일본.md "wikilink")의 알프스전기에 합작법인을 청산.
+  - [1997년](../Page/1997년.md "wikilink") 프리웨이 출시.
+  - [1997년](../Page/1997년.md "wikilink") 브라질에 마나우스공장을 설립.
+  - [1997년](../Page/1997년.md "wikilink") 하이프라자 14호점 개점.
+  - [1997년](../Page/1997년.md "wikilink") 가스오븐레인지 쁘레오를 출시.
+  - [1997년](../Page/1997년.md "wikilink") 브라질에 마나우스공장을 설립.
+  - [1997년](../Page/1997년.md "wikilink") 디지털카메라를 출시.
+  - [1997년](../Page/1997년.md "wikilink") 102cm(40inch) PDP TV 독자개발.
+  - [1997년](../Page/1997년.md "wikilink") 인도에 공장을 준공.
+  - [1997년](../Page/1997년.md "wikilink") 대한민국 최초로 24배속 CD-ROM을 개발.
+  - [1997년](../Page/1997년.md "wikilink") 영국에 공장을 설립.
+  - [1997년](../Page/1997년.md "wikilink") 태국에 판매법인(LGETH)을 설립.
+  - [1997년](../Page/1997년.md "wikilink") 카자흐스탄에 컬러TV공장을 준공식.
+  - [1997년](../Page/1997년.md "wikilink") 카자흐스탄 수도 알마티에 컬러TV 생산공장(LGEAK)을 설립.
+  - [1997년](../Page/1997년.md "wikilink") 경상북도 구미에 PDP 공장을 설립.
+  - [1997년](../Page/1997년.md "wikilink") 중국 창사에 TV공장을 준공.
+  - [1998년](../Page/1998년.md "wikilink") 제니스 멕시코 컬러TV공장을 인수.
+  - [1998년](../Page/1998년.md "wikilink") LG소프트 합병.
+  - [1998년](../Page/1998년.md "wikilink") 디지털카메라를 청산.
+  - [1998년](../Page/1998년.md "wikilink") 중국 난징모니터공장(LGENT) 생산개시.
+  - [1998년](../Page/1998년.md "wikilink") 세계 최초 152cm(60inch) PDP TV 개발.
+  - [1998년](../Page/1998년.md "wikilink") 초고속 광스토리지를 개발.
+  - [1998년](../Page/1998년.md "wikilink") 카자흐스탄에 현지법인이 설립.
+  - [1998년](../Page/1998년.md "wikilink") LG소프트인디아에 변경.
+  - [1998년](../Page/1998년.md "wikilink") LG포스터를 흡수 합병.
+  - [1998년](../Page/1998년.md "wikilink") 중국 난징모니터공장(LGENT) 생산개시.
+  - [1998년](../Page/1998년.md "wikilink") 대한민국 최초로 32배속 CD-ROM을 개발.
+  - [1998년](../Page/1998년.md "wikilink") ADL 평가 시행.
+  - [1998년](../Page/1998년.md "wikilink") 디지털카메라 부문을 청산.
+  - [1999년](../Page/1999년.md "wikilink") LG전자서비스를 설립.
+  - [1999년](../Page/1999년.md "wikilink") 대한민국 최초로 40배속 CD-ROM을 개발.
+  - [1999년](../Page/1999년.md "wikilink") 비디오사업부문 새한그룹에 매각.
+  - [1999년](../Page/1999년.md "wikilink") TV 생산공장(LGETN)을 건설.
+  - [1999년](../Page/1999년.md "wikilink") 대한민국최초로 광스토리지를 개발.
+  - [1999년](../Page/1999년.md "wikilink") LG-EDS 시스템, LG전자 소프트사업을 인수.
+  - [1999년](../Page/1999년.md "wikilink") LGEMA를 출범.
+  - [1999년](../Page/1999년.md "wikilink") 디지털LG를 새로운 슬로건을 선포식.
+  - [1999년](../Page/1999년.md "wikilink") 미국 제니스와 자회사를 출범.
+  - [1999년](../Page/1999년.md "wikilink") 폴란드 생산법인으로 출범.
+  - [1999년](../Page/1999년.md "wikilink") 6시그마 전사 확대.
+  - [1999년](../Page/1999년.md "wikilink") 소프트웨어 사업부문을 LG-EDS에 이관.
 
 ### 2000년대
 
-  - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") 대형 TV 엑스켄버스 시판.
-  - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") 디오스 냉장고 시판.
-  - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") 대한민국 최초로 48배속 CD-RDM를 개발.
-  - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") 미국 제니스의 자회사와 통합.
-  - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") 휘센 에어컨을 시판.
-  - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") LG전자부품, LG이노텍으로 상호변경.
-  - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") 터키에 현지법인이 설립.
-  - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") 에어컨 세계1위로 달성.
-  - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") LG정보통신과 합병.
-  - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") 장사 TV 공장을 준공식.
-  - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") 제니스사의 서비스 부문 미국 총콸법인(LGEAI)를 통합.
-  - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") ifLG StoX 서비스 개시.
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") 경상북도 구미에 초대형 LCD 공장을 설립.
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") 산둥성 CDMA가공공장 준공.
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") 중국지주회사 노용악 대표회장을 취임.
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") 비동기 IMT-2000 시스템 상용화 공급.
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") 7.8Cm 두개인치 LCD TV를 시판.
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") 중국 친황따오법인(LGEQH)를 설립.
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") '싸이킹' 론칭.
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") 브라질에 에어컨센터를 설립.
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") 인터넷 세탁기, 인터넷 에어컨, 인터넷 전자레인지 세계 첫
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") 헌츠빌 법인(LGEAI) 설립 20주년.
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") 멕시코 생산법인(LGEMM) 몬테레이시 공장에 설립.
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") 대한민국최초로 8배속 슬림형 CD-RW를 개발.
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") 대한민국최초로 두계의 40인치 PDP TV를 개발.
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") 기업 분할 설명회.
-  - [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") '트롬(TROMM)세탁기' 론칭.
-  - [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") 'XTONE' 론칭.
-  - [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") 창사공장과 상하이 법인(LGESH)를 설립.
-  - [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") LG EI, LG전자 분할.
-  - [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") DVD 드라이브 생산.
-  - [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") 대한민국최초로 48배속 슬림형 CD-RW를 개발.
-  - [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") 김쌍수 대표사장을 취임.
-  - [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") 태국 라용(Rayong) 현지법인이 설립.
-  - [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") 홈 네트워크 시스템 세계 최초 상용화.
-  - [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [중국](https://ko.wikipedia.org/wiki/중국 "wikilink") [장쑤성](https://ko.wikipedia.org/wiki/장쑤성 "wikilink")에 공장을 기공식.
-  - [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") 중국 베이징 생산공장 TV 생산을 중단.
-  - [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") LG홈넷 출범.
-  - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") 세계 최초로 동기 비동기 겸용 IMT-2000폰 개발.
-  - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") LG전자중국지주회사, 중국진출 10주년.
-  - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") 중국에 타이저우LG전자냉기유한공사(LGETR)를 설립.
-  - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") 중국에 R\&D센터를 설립.
-  - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") 인도의 제2의 도시인 뭄바이 인근에 푸네에 제2공장 건설에
-  - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") 중국에 난징법인 설립.
-  - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") 로보킹 청소기를 시판.
-  - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") 세계 최초 동기.비동기 겸용 IMT-2000휴대폰 개발.
-  - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") 세계 최초 193cm(76inch) PDP TV 개발.
-  - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") 세계최초로 48배속 슬림형 CD-RW를 개발.
-  - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") 폴란드에 푸와바 공장을 설립.
-  - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") 구미공장에 PDP 2기라인 공장을 준공.
-  - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") 구미공장 LCD TV를 준공.
-  - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") 김쌍수 부사장 취임.
-  - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") 미국 CDMA 휴대폰 시장 점유율 1위 달성.
-  - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") 중국 난징에 TFT-LCD 공장을 준공.
-  - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") CMNA 단말기 시판.
-  - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") 76인치 LCD TV를 시판.
-  - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") 영국 런던에 디자인 연구소를 설립.
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 'Global Top 3' 달성.
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 차세대 DTV 전송기술 EVSB, 미국 ATSC 표준 규격 채택. b.
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 인도의 제2의 도시인 뭄바이 인근에 푸네에 제2공장 준공.
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 차세대 DTV 전송기술 EVSB, 미국 ATSC 표준 규격 채택.
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 세계 최대 일체형 140cm(55inch) LCD TV출시.
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 인도의 제2의 도시인 뭄바이 인근에 푸네에 제2공장 준공.
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 중국 닝보에 SBL 생산법인을 설립.
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 차세대 DTV 전송기술 EVSB, 미국 ATSC 표준 규격 채택.
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 중국 산둥성 공장을 설립.
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 비즈니스위크 선정 '세계 최고 IT기업'.
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 허치슨 3G폰 출하 기념식 개최.
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 시각 장애인이 위한 휴대폰을 출시.
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 세계 최대 일체형 140cm(55inch) LCD TV출시.
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 세계 최대 180cm(71inch) PDP TV 최초 상용화.
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 중국 닝보에 SBL 생산법인을 설립.
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 중국 산둥성 공장을 설립.
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 중국 난징에 LG CN를 준공.
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 중국 광주에 ABS 공장을 준공.
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 중국 베이징에 전지법인이 LG CB를 준공.
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 76인치 LCD TV를 시판.
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 시각 장애인이 위한 휴대폰을 출시.
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 세계 최대 180cm(71inch) PDP TV 최초 상용화.
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 5개 사업부를 재편.
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 중국 난징에 LG CN를 준공.
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 중국 광주에 ABS 공장을 준공.
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 중국 베이징에 전지법인이 LG CB를 준공.
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 76인치 LCD TV를 시판.
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") 세계최초로 DMB폰 시판.
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") LG IBM-PC를 흡수합병.
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") 프랑스 파리에 바르벵크에 유럽 휴대폰 개발 연구센터를 설립.
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") 러시아 모스크바에 서쪽에 루자군 공장을 설립.
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") 세계 최초 DMB노트북 출시.
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") 세계 최초로 선보인 타임머신 PDP TV를 출시.
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") 스페인 바르셀로나에 LG 유럽 통합콜센터(CIC)를 설립.
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") 폴란드에 푸와바 제2 공장을 설립.
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") 싸이언 위성 DMB폰을 출시.
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") 미국의 퓨렛펙커트로 생산제휴.
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") 노트북 브랜드를 출시.
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") 평택 디지털 파크에 21세기 비전을 선포식.
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") '싸이언' 서울 대회 발대식.
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") 한국전자전에 '55인치형 LCD TV'를 시판.
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") 전 세계 CDMA시장 점유율 1위.
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") 가산동, 구로사업장을 평택사업장에 통합.
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") 지상파 노트북을 출시.
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") 세계 최초로 초콜릿폰을 출시.
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") 불랙폰 시판.
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") 지상파 DMB를 시판.
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") 대한민국 최초 독일 Reddot 디자인 선정 ‘올해의 디자인팀‘
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") LCD TV와 PDP TV를 생산능보 확보.
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") 타임머신 TV를 독일월드컵으로 우승.
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") 세계 첫 152cm(60inch) Single Scan PDP 개발.
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") '싸이언' 영국 런던에 대회 발대식.
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") PDP TV 300만대 돌파.
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") '21인치 울트라 슬림 완정평면TV'를 시판.
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") 레드닷 올해의 디자인팀 수상.
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") 세계 최초로 PDA DMB를 시판.
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") 타임머신 TV를 시판.
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") 친환경 제품을 출시.
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") 디자인 경영 선포식.
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") 초콜릿폰2과 슬림폰을 출시.
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") 러시아 디지털 가전 공장(LGERA) 준공.
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") 테스크톱 PC를 출시.
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") 레드닥디자인협회로 노트북 TI시리즈 및 세계최초로 벽걸이
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") 폴란드에 생산공장 준공.
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") 싸인폰 출시.
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") 남용 부회장을 취임.
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") 자회사 픽스딕스를 설립.
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") 차세대 듀얼포맷 플레이어(SMB)세계 첫 출시.
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") 싸인폰 영국 상륙.
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") 슈퍼 멀티 플레이어를 출시.
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") 사보 400호 발간.
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") 3GSM World Congress 2007에서 3G LTE 상용 기술 세계 최초
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") 세계 최초 HSDPA TDD기술 개발.
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") 가산 R\&D 캠퍼스 준공.
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") '베스트샵' 론칭.
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") 전 세계 자동로밍 ‘월드폰’프로젝트 단독 공급업체 선정.
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 창립 40주년 기념식.
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 40년사 발간.
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 우면동 통합 연구소 준공.
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 비키니폰 시판.
+  - [2000년](../Page/2000년.md "wikilink") 대형 TV 엑스켄버스 시판.
+  - [2000년](../Page/2000년.md "wikilink") 디오스 냉장고 시판.
+  - [2000년](../Page/2000년.md "wikilink") 대한민국 최초로 48배속 CD-RDM를 개발.
+  - [2000년](../Page/2000년.md "wikilink") 미국 제니스의 자회사와 통합.
+  - [2000년](../Page/2000년.md "wikilink") 휘센 에어컨을 시판.
+  - [2000년](../Page/2000년.md "wikilink") LG전자부품, LG이노텍으로 상호변경.
+  - [2000년](../Page/2000년.md "wikilink") 터키에 현지법인이 설립.
+  - [2000년](../Page/2000년.md "wikilink") 에어컨 세계1위로 달성.
+  - [2000년](../Page/2000년.md "wikilink") LG정보통신과 합병.
+  - [2000년](../Page/2000년.md "wikilink") 장사 TV 공장을 준공식.
+  - [2000년](../Page/2000년.md "wikilink") 제니스사의 서비스 부문 미국 총콸법인(LGEAI)를 통합.
+  - [2000년](../Page/2000년.md "wikilink") ifLG StoX 서비스 개시.
+  - [2001년](../Page/2001년.md "wikilink") 경상북도 구미에 초대형 LCD 공장을 설립.
+  - [2001년](../Page/2001년.md "wikilink") 산둥성 CDMA가공공장 준공.
+  - [2001년](../Page/2001년.md "wikilink") 중국지주회사 노용악 대표회장을 취임.
+  - [2001년](../Page/2001년.md "wikilink") 비동기 IMT-2000 시스템 상용화 공급.
+  - [2001년](../Page/2001년.md "wikilink") 7.8Cm 두개인치 LCD TV를 시판.
+  - [2001년](../Page/2001년.md "wikilink") 중국 친황따오법인(LGEQH)를 설립.
+  - [2001년](../Page/2001년.md "wikilink") '싸이킹' 론칭.
+  - [2001년](../Page/2001년.md "wikilink") 브라질에 에어컨센터를 설립.
+  - [2001년](../Page/2001년.md "wikilink") 인터넷 세탁기, 인터넷 에어컨, 인터넷 전자레인지 세계 첫
+  - [2001년](../Page/2001년.md "wikilink") 헌츠빌 법인(LGEAI) 설립 20주년.
+  - [2001년](../Page/2001년.md "wikilink") 멕시코 생산법인(LGEMM) 몬테레이시 공장에 설립.
+  - [2001년](../Page/2001년.md "wikilink") 대한민국최초로 8배속 슬림형 CD-RW를 개발.
+  - [2001년](../Page/2001년.md "wikilink") 대한민국최초로 두계의 40인치 PDP TV를 개발.
+  - [2001년](../Page/2001년.md "wikilink") 기업 분할 설명회.
+  - [2002년](../Page/2002년.md "wikilink") '트롬(TROMM)세탁기' 론칭.
+  - [2002년](../Page/2002년.md "wikilink") 'XTONE' 론칭.
+  - [2002년](../Page/2002년.md "wikilink") 창사공장과 상하이 법인(LGESH)를 설립.
+  - [2002년](../Page/2002년.md "wikilink") LG EI, LG전자 분할.
+  - [2002년](../Page/2002년.md "wikilink") DVD 드라이브 생산.
+  - [2002년](../Page/2002년.md "wikilink") 대한민국최초로 48배속 슬림형 CD-RW를 개발.
+  - [2002년](../Page/2002년.md "wikilink") 김쌍수 대표사장을 취임.
+  - [2002년](../Page/2002년.md "wikilink") 태국 라용(Rayong) 현지법인이 설립.
+  - [2002년](../Page/2002년.md "wikilink") 홈 네트워크 시스템 세계 최초 상용화.
+  - [2002년](../Page/2002년.md "wikilink") [중국](../Page/중국.md "wikilink") [장쑤성](../Page/장쑤성.md "wikilink")에 공장을 기공식.
+  - [2002년](../Page/2002년.md "wikilink") 중국 베이징 생산공장 TV 생산을 중단.
+  - [2002년](../Page/2002년.md "wikilink") LG홈넷 출범.
+  - [2003년](../Page/2003년.md "wikilink") 세계 최초로 동기 비동기 겸용 IMT-2000폰 개발.
+  - [2003년](../Page/2003년.md "wikilink") LG전자중국지주회사, 중국진출 10주년.
+  - [2003년](../Page/2003년.md "wikilink") 중국에 타이저우LG전자냉기유한공사(LGETR)를 설립.
+  - [2003년](../Page/2003년.md "wikilink") 중국에 R\&D센터를 설립.
+  - [2003년](../Page/2003년.md "wikilink") 인도의 제2의 도시인 뭄바이 인근에 푸네에 제2공장 건설에
+  - [2003년](../Page/2003년.md "wikilink") 중국에 난징법인 설립.
+  - [2003년](../Page/2003년.md "wikilink") 로보킹 청소기를 시판.
+  - [2003년](../Page/2003년.md "wikilink") 세계 최초 동기.비동기 겸용 IMT-2000휴대폰 개발.
+  - [2003년](../Page/2003년.md "wikilink") 세계 최초 193cm(76inch) PDP TV 개발.
+  - [2003년](../Page/2003년.md "wikilink") 세계최초로 48배속 슬림형 CD-RW를 개발.
+  - [2003년](../Page/2003년.md "wikilink") 폴란드에 푸와바 공장을 설립.
+  - [2003년](../Page/2003년.md "wikilink") 구미공장에 PDP 2기라인 공장을 준공.
+  - [2003년](../Page/2003년.md "wikilink") 구미공장 LCD TV를 준공.
+  - [2003년](../Page/2003년.md "wikilink") 김쌍수 부사장 취임.
+  - [2003년](../Page/2003년.md "wikilink") 미국 CDMA 휴대폰 시장 점유율 1위 달성.
+  - [2003년](../Page/2003년.md "wikilink") 중국 난징에 TFT-LCD 공장을 준공.
+  - [2003년](../Page/2003년.md "wikilink") CMNA 단말기 시판.
+  - [2003년](../Page/2003년.md "wikilink") 76인치 LCD TV를 시판.
+  - [2003년](../Page/2003년.md "wikilink") 영국 런던에 디자인 연구소를 설립.
+  - [2004년](../Page/2004년.md "wikilink") 'Global Top 3' 달성.
+  - [2004년](../Page/2004년.md "wikilink") 차세대 DTV 전송기술 EVSB, 미국 ATSC 표준 규격 채택. b.
+  - [2004년](../Page/2004년.md "wikilink") 인도의 제2의 도시인 뭄바이 인근에 푸네에 제2공장 준공.
+  - [2004년](../Page/2004년.md "wikilink") 차세대 DTV 전송기술 EVSB, 미국 ATSC 표준 규격 채택.
+  - [2004년](../Page/2004년.md "wikilink") 세계 최대 일체형 140cm(55inch) LCD TV출시.
+  - [2004년](../Page/2004년.md "wikilink") 인도의 제2의 도시인 뭄바이 인근에 푸네에 제2공장 준공.
+  - [2004년](../Page/2004년.md "wikilink") 중국 닝보에 SBL 생산법인을 설립.
+  - [2004년](../Page/2004년.md "wikilink") 차세대 DTV 전송기술 EVSB, 미국 ATSC 표준 규격 채택.
+  - [2004년](../Page/2004년.md "wikilink") 중국 산둥성 공장을 설립.
+  - [2004년](../Page/2004년.md "wikilink") 비즈니스위크 선정 '세계 최고 IT기업'.
+  - [2004년](../Page/2004년.md "wikilink") 허치슨 3G폰 출하 기념식 개최.
+  - [2004년](../Page/2004년.md "wikilink") 시각 장애인이 위한 휴대폰을 출시.
+  - [2004년](../Page/2004년.md "wikilink") 세계 최대 일체형 140cm(55inch) LCD TV출시.
+  - [2004년](../Page/2004년.md "wikilink") 세계 최대 180cm(71inch) PDP TV 최초 상용화.
+  - [2004년](../Page/2004년.md "wikilink") 중국 닝보에 SBL 생산법인을 설립.
+  - [2004년](../Page/2004년.md "wikilink") 중국 산둥성 공장을 설립.
+  - [2004년](../Page/2004년.md "wikilink") 중국 난징에 LG CN를 준공.
+  - [2004년](../Page/2004년.md "wikilink") 중국 광주에 ABS 공장을 준공.
+  - [2004년](../Page/2004년.md "wikilink") 중국 베이징에 전지법인이 LG CB를 준공.
+  - [2004년](../Page/2004년.md "wikilink") 76인치 LCD TV를 시판.
+  - [2004년](../Page/2004년.md "wikilink") 시각 장애인이 위한 휴대폰을 출시.
+  - [2004년](../Page/2004년.md "wikilink") 세계 최대 180cm(71inch) PDP TV 최초 상용화.
+  - [2004년](../Page/2004년.md "wikilink") 5개 사업부를 재편.
+  - [2004년](../Page/2004년.md "wikilink") 중국 난징에 LG CN를 준공.
+  - [2004년](../Page/2004년.md "wikilink") 중국 광주에 ABS 공장을 준공.
+  - [2004년](../Page/2004년.md "wikilink") 중국 베이징에 전지법인이 LG CB를 준공.
+  - [2004년](../Page/2004년.md "wikilink") 76인치 LCD TV를 시판.
+  - [2005년](../Page/2005년.md "wikilink") 세계최초로 DMB폰 시판.
+  - [2005년](../Page/2005년.md "wikilink") LG IBM-PC를 흡수합병.
+  - [2005년](../Page/2005년.md "wikilink") 프랑스 파리에 바르벵크에 유럽 휴대폰 개발 연구센터를 설립.
+  - [2005년](../Page/2005년.md "wikilink") 러시아 모스크바에 서쪽에 루자군 공장을 설립.
+  - [2005년](../Page/2005년.md "wikilink") 세계 최초 DMB노트북 출시.
+  - [2005년](../Page/2005년.md "wikilink") 세계 최초로 선보인 타임머신 PDP TV를 출시.
+  - [2005년](../Page/2005년.md "wikilink") 스페인 바르셀로나에 LG 유럽 통합콜센터(CIC)를 설립.
+  - [2005년](../Page/2005년.md "wikilink") 폴란드에 푸와바 제2 공장을 설립.
+  - [2005년](../Page/2005년.md "wikilink") 싸이언 위성 DMB폰을 출시.
+  - [2005년](../Page/2005년.md "wikilink") 미국의 퓨렛펙커트로 생산제휴.
+  - [2005년](../Page/2005년.md "wikilink") 노트북 브랜드를 출시.
+  - [2005년](../Page/2005년.md "wikilink") 평택 디지털 파크에 21세기 비전을 선포식.
+  - [2005년](../Page/2005년.md "wikilink") '싸이언' 서울 대회 발대식.
+  - [2005년](../Page/2005년.md "wikilink") 한국전자전에 '55인치형 LCD TV'를 시판.
+  - [2005년](../Page/2005년.md "wikilink") 전 세계 CDMA시장 점유율 1위.
+  - [2005년](../Page/2005년.md "wikilink") 가산동, 구로사업장을 평택사업장에 통합.
+  - [2005년](../Page/2005년.md "wikilink") 지상파 노트북을 출시.
+  - [2005년](../Page/2005년.md "wikilink") 세계 최초로 초콜릿폰을 출시.
+  - [2005년](../Page/2005년.md "wikilink") 불랙폰 시판.
+  - [2005년](../Page/2005년.md "wikilink") 지상파 DMB를 시판.
+  - [2006년](../Page/2006년.md "wikilink") 대한민국 최초 독일 Reddot 디자인 선정 ‘올해의 디자인팀‘
+  - [2006년](../Page/2006년.md "wikilink") LCD TV와 PDP TV를 생산능보 확보.
+  - [2006년](../Page/2006년.md "wikilink") 타임머신 TV를 독일월드컵으로 우승.
+  - [2006년](../Page/2006년.md "wikilink") 세계 첫 152cm(60inch) Single Scan PDP 개발.
+  - [2006년](../Page/2006년.md "wikilink") '싸이언' 영국 런던에 대회 발대식.
+  - [2006년](../Page/2006년.md "wikilink") PDP TV 300만대 돌파.
+  - [2006년](../Page/2006년.md "wikilink") '21인치 울트라 슬림 완정평면TV'를 시판.
+  - [2006년](../Page/2006년.md "wikilink") 레드닷 올해의 디자인팀 수상.
+  - [2006년](../Page/2006년.md "wikilink") 세계 최초로 PDA DMB를 시판.
+  - [2006년](../Page/2006년.md "wikilink") 타임머신 TV를 시판.
+  - [2006년](../Page/2006년.md "wikilink") 친환경 제품을 출시.
+  - [2006년](../Page/2006년.md "wikilink") 디자인 경영 선포식.
+  - [2006년](../Page/2006년.md "wikilink") 초콜릿폰2과 슬림폰을 출시.
+  - [2006년](../Page/2006년.md "wikilink") 러시아 디지털 가전 공장(LGERA) 준공.
+  - [2006년](../Page/2006년.md "wikilink") 테스크톱 PC를 출시.
+  - [2006년](../Page/2006년.md "wikilink") 레드닥디자인협회로 노트북 TI시리즈 및 세계최초로 벽걸이
+  - [2006년](../Page/2006년.md "wikilink") 폴란드에 생산공장 준공.
+  - [2006년](../Page/2006년.md "wikilink") 싸인폰 출시.
+  - [2007년](../Page/2007년.md "wikilink") 남용 부회장을 취임.
+  - [2007년](../Page/2007년.md "wikilink") 자회사 픽스딕스를 설립.
+  - [2007년](../Page/2007년.md "wikilink") 차세대 듀얼포맷 플레이어(SMB)세계 첫 출시.
+  - [2007년](../Page/2007년.md "wikilink") 싸인폰 영국 상륙.
+  - [2007년](../Page/2007년.md "wikilink") 슈퍼 멀티 플레이어를 출시.
+  - [2007년](../Page/2007년.md "wikilink") 사보 400호 발간.
+  - [2007년](../Page/2007년.md "wikilink") 3GSM World Congress 2007에서 3G LTE 상용 기술 세계 최초
+  - [2007년](../Page/2007년.md "wikilink") 세계 최초 HSDPA TDD기술 개발.
+  - [2007년](../Page/2007년.md "wikilink") 가산 R\&D 캠퍼스 준공.
+  - [2007년](../Page/2007년.md "wikilink") '베스트샵' 론칭.
+  - [2007년](../Page/2007년.md "wikilink") 전 세계 자동로밍 ‘월드폰’프로젝트 단독 공급업체 선정.
+  - [2008년](../Page/2008년.md "wikilink") 창립 40주년 기념식.
+  - [2008년](../Page/2008년.md "wikilink") 40년사 발간.
+  - [2008년](../Page/2008년.md "wikilink") 우면동 통합 연구소 준공.
+  - [2008년](../Page/2008년.md "wikilink") 비키니폰 시판.
 
 ## 함께 보기
 

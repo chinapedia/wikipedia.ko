@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Death Magnetic](https://ko.wikipedia.org/wiki/Death_Magnetic).
 
 
-《**Death Magnetic**》은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [헤비메탈](https://ko.wikipedia.org/wiki/헤비메탈 "wikilink") 밴드인 [메탈리카](../Page/메탈리카.md "wikilink")의 아홉 번째 정규앨범이다. 미국내에서 170만장 이상. 전 세계적으로 500만장이 판매되었다. 전작까지 작업을 해온 프로듀서 [밥 락을](https://ko.wikipedia.org/wiki/밥_락 "wikilink") 대신한 [릭 루빈이](https://ko.wikipedia.org/wiki/릭_루빈 "wikilink") 새로운 프로듀서로서 참여했고, 베이시스트 [로버트 트루히요도](https://ko.wikipedia.org/wiki/로버트_트루히요 "wikilink") 밴드에 가입한 후 처음으로 정규 앨범 작업에 참여한 작품이다. 밴드의 로고는 90년대 초반까지 사용하던 원래의 로고에서 'A'자를 대칭형으로 바꾸고 'C'자의 글씨체를 약간 바꾼 채 다시 사용하게 되었으며, 기타솔로의 부활, 80년대에 보여주었던 [스래쉬 메탈과](https://ko.wikipedia.org/wiki/스래쉬_메탈 "wikilink") [헤비 메탈형태의](../Page/헤비_메탈.md "wikilink") 곡 들이 포진해있어서 밴드가 과거로의 회귀하는 듯한 성향을 보여준다.
+《**Death Magnetic**》은 [미국](../Page/미국.md "wikilink") [헤비메탈](https://ko.wikipedia.org/wiki/헤비메탈 "wikilink") 밴드인 [메탈리카](../Page/메탈리카.md "wikilink")의 아홉 번째 정규앨범이다. 미국내에서 170만장 이상. 전 세계적으로 500만장이 판매되었다. 전작까지 작업을 해온 프로듀서 [밥 락을](https://ko.wikipedia.org/wiki/밥_락 "wikilink") 대신한 [릭 루빈이](https://ko.wikipedia.org/wiki/릭_루빈 "wikilink") 새로운 프로듀서로서 참여했고, 베이시스트 [로버트 트루히요도](../Page/로버트_트루히요.md "wikilink") 밴드에 가입한 후 처음으로 정규 앨범 작업에 참여한 작품이다. 밴드의 로고는 90년대 초반까지 사용하던 원래의 로고에서 'A'자를 대칭형으로 바꾸고 'C'자의 글씨체를 약간 바꾼 채 다시 사용하게 되었으며, 기타솔로의 부활, 80년대에 보여주었던 [스래쉬 메탈과](https://ko.wikipedia.org/wiki/스래쉬_메탈 "wikilink") [헤비 메탈형태의](../Page/헤비_메탈.md "wikilink") 곡 들이 포진해있어서 밴드가 과거로의 회귀하는 듯한 성향을 보여준다.
 
-[빌보드](https://ko.wikipedia.org/wiki/빌보드 "wikilink") 차트에서 1위로 데뷔를 하였고, 2009 [그래미 시상식에서는](https://ko.wikipedia.org/wiki/그래미_상 "wikilink") 〈베스트 레코딩 패키지상〉, 〈최우수 메탈 연주상(My Apocalypse)〉 을 수상하였고 프로듀서 [릭 루빈은](https://ko.wikipedia.org/wiki/릭_루빈 "wikilink") 〈올해의 프로듀서상〉을 거머쥐었다.
+[빌보드](../Page/빌보드.md "wikilink") 차트에서 1위로 데뷔를 하였고, 2009 [그래미 시상식에서는](https://ko.wikipedia.org/wiki/그래미_상 "wikilink") 〈베스트 레코딩 패키지상〉, 〈최우수 메탈 연주상(My Apocalypse)〉 을 수상하였고 프로듀서 [릭 루빈은](https://ko.wikipedia.org/wiki/릭_루빈 "wikilink") 〈올해의 프로듀서상〉을 거머쥐었다.
 
 ## 비판
 
@@ -42,7 +42,7 @@
 <ul>
 <li><a href="../Page/제임스_헷필드.md" title="wikilink">제임스 헷필드</a>– <a href="https://ko.wikipedia.org/wiki/보컬" title="wikilink">보컬</a>, <a href="https://ko.wikipedia.org/wiki/리듬_기타" title="wikilink">리듬 기타</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/커크_해밋" title="wikilink">커크 해밋</a> - 리드 기타</li>
-<li><a href="https://ko.wikipedia.org/wiki/로버트_트루히요" title="wikilink">로버트 트루히요</a> - <a href="https://ko.wikipedia.org/wiki/베이스_기타" title="wikilink">베이스 기타</a></li>
+<li><a href="../Page/로버트_트루히요.md" title="wikilink">로버트 트루히요</a> - <a href="../Page/베이스_기타.md" title="wikilink">베이스 기타</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/라스_울리히" title="wikilink">라스 울리히</a> - <a href="https://ko.wikipedia.org/wiki/드럼" title="wikilink">드럼</a></li>
 </ul>
 <dl>
@@ -67,7 +67,7 @@
 <li>Dan Monti, Dana Nielsen, Kent Matcke, DD Erlich – 디지털 에디트</li>
 <li>Sara Lyn Killion, Joshua Smith, Adam Fuller, Jason Gossman, Jason Mott - 보조</li>
 <li>Lindsay Chase - 앨범 프로덕션 코디네이터</li>
-<li>Turner Duckworth - 앨범 <a href="https://ko.wikipedia.org/wiki/디자인" title="wikilink">디자인</a></li>
+<li>Turner Duckworth - 앨범 <a href="../Page/디자인.md" title="wikilink">디자인</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/안톤_코르베인" title="wikilink">안톤 코르베인</a> - <a href="../Page/사진.md" title="wikilink">사진</a></li>
 <li>Andy Grimshaw - 커버 사진</li>
 <li>Britt Hull, Gavin Hurrell, Craig Snelgrove, David Turner, Harper Reed, 게티 이미지</li>

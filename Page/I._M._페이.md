@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [I. M. ](https://ko.wikipedia.org/wiki/I._M._).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:I.M._Pei.JPG "wikilink") **이오 밍 페이**(Ieoh Ming Pei, , [1917년](https://ko.wikipedia.org/wiki/1917년 "wikilink") [4월 26일](https://ko.wikipedia.org/wiki/4월_26일 "wikilink") - [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [5월 15일](https://ko.wikipedia.org/wiki/5월_15일 "wikilink"))은 이름의 이니셜인 **I. M. Pei**로 잘 알려져 있는 [중국](https://ko.wikipedia.org/wiki/중국 "wikilink")계 미국인 건축가로, [모더니즘 건축의](https://ko.wikipedia.org/wiki/모더니즘_건축 "wikilink") 마지막 건축가로 알려져 있다. 그는 돌, 콘크리트, 유리, 강철등을 이용해 추상적인 형태를 즐겨 만들어낸다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:I.M._Pei.JPG "wikilink") **이오 밍 페이**(Ieoh Ming Pei, , [1917년](../Page/1917년.md "wikilink") [4월 26일](../Page/4월_26일.md "wikilink") - [2019년](../Page/2019년.md "wikilink") [5월 15일](../Page/5월_15일.md "wikilink"))은 이름의 이니셜인 **I. M. Pei**로 잘 알려져 있는 [중국](../Page/중국.md "wikilink")계 미국인 건축가로, [모더니즘 건축의](https://ko.wikipedia.org/wiki/모더니즘_건축 "wikilink") 마지막 건축가로 알려져 있다. 그는 돌, 콘크리트, 유리, 강철등을 이용해 추상적인 형태를 즐겨 만들어낸다.
 
 ## 약력
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Louvre_2007_02_24_c.jpg "wikilink"), 프랑스 파리.\]\] 페이는 1917년 4월 26일 [중국](https://ko.wikipedia.org/wiki/중국 "wikilink") [광저우](https://ko.wikipedia.org/wiki/광저우 "wikilink")에서 유복한 가정에서 태어났다. 그의 아버지는 은행가로, 이후 [중국은행](../Page/중국은행.md "wikilink") 은행장과 중국중앙은행 총재를 역임했다. 그의 가족은 이후 [상하이](https://ko.wikipedia.org/wiki/상하이 "wikilink") 인근에 있는 [쑤저우](https://ko.wikipedia.org/wiki/쑤저우 "wikilink")로 이주했다. 그는 [홍콩](https://ko.wikipedia.org/wiki/홍콩 "wikilink")의 세인트 폴스 칼리지(St. Paul's College)와 상하이의 세인트 존스 대학에 진학했다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Louvre_2007_02_24_c.jpg "wikilink"), 프랑스 파리.\]\] 페이는 1917년 4월 26일 [중국](../Page/중국.md "wikilink") [광저우](https://ko.wikipedia.org/wiki/광저우 "wikilink")에서 유복한 가정에서 태어났다. 그의 아버지는 은행가로, 이후 [중국은행](../Page/중국은행.md "wikilink") 은행장과 중국중앙은행 총재를 역임했다. 그의 가족은 이후 [상하이](https://ko.wikipedia.org/wiki/상하이 "wikilink") 인근에 있는 [쑤저우](https://ko.wikipedia.org/wiki/쑤저우 "wikilink")로 이주했다. 그는 [홍콩](../Page/홍콩.md "wikilink")의 세인트 폴스 칼리지(St. Paul's College)와 상하이의 세인트 존스 대학에 진학했다.
 
-이후 18세에 미국으로 이주하여 [펜실베이니아 대학교에서](https://ko.wikipedia.org/wiki/펜실베이니아_대학교 "wikilink") 건축을 공부하였고, 1940년 [매사추세츠 공과 대학교에서](https://ko.wikipedia.org/wiki/매사추세츠_공과_대학교 "wikilink") 건축학사 학위를 받았다. 그는 이후 [하버드 대학교](https://ko.wikipedia.org/wiki/하버드_대학교 "wikilink") 디자인 대학원에 진학하여 잠시 공부한 뒤에, [프리스턴에](https://ko.wikipedia.org/wiki/프린스턴_\(뉴저지_주\) "wikilink") 있는 국방 연구 위원회에 들어갔다. 1944년 그는 하버드로 돌아와서 한때 [바우하우스](../Page/바우하우스.md "wikilink")에서 교편을 잡았던 [발터 그로피우스](../Page/발터_그로피우스.md "wikilink") 아래에서 수학하여, 1946년 건축학석사 학위를 받았다. 이후 하버드 대학교의 조교수를 역임하였다. 그는 1951년 휠라이트 여행장학금을 받았고, 1954년 미국 국적을 취득하였다.
+이후 18세에 미국으로 이주하여 [펜실베이니아 대학교에서](../Page/펜실베이니아_대학교.md "wikilink") 건축을 공부하였고, 1940년 [매사추세츠 공과 대학교에서](https://ko.wikipedia.org/wiki/매사추세츠_공과_대학교 "wikilink") 건축학사 학위를 받았다. 그는 이후 [하버드 대학교](../Page/하버드_대학교.md "wikilink") 디자인 대학원에 진학하여 잠시 공부한 뒤에, [프리스턴에](https://ko.wikipedia.org/wiki/프린스턴_\(뉴저지_주\) "wikilink") 있는 국방 연구 위원회에 들어갔다. 1944년 그는 하버드로 돌아와서 한때 [바우하우스](../Page/바우하우스.md "wikilink")에서 교편을 잡았던 [발터 그로피우스](../Page/발터_그로피우스.md "wikilink") 아래에서 수학하여, 1946년 건축학석사 학위를 받았다. 이후 하버드 대학교의 조교수를 역임하였다. 그는 1951년 휠라이트 여행장학금을 받았고, 1954년 미국 국적을 취득하였다.
 
 1948년 부동산 개발업자인 [윌리엄 제켄도프에게](../Page/윌리엄_제켄도프.md "wikilink") 고용되어 Webb and Knapp에서 근무하였다. 이 회사에서 페이는 많은 대규모의 건축설계과 도시계획을 담당하였고, [루트비히 미스 반 데어 로에의](https://ko.wikipedia.org/wiki/루트비히_미스_반_데어_로에 "wikilink") 양식에 따라 건물을 설계하였다. 페이는 1955년 자신의 설계 사무소인 I. M. Pei & Partners를 개업하였다. 1989년 제임스 잉고 프리드와 헨리 콥의 이름을 따와 사무소의 이름을 Pei Cobb Freed & Partners로 바꾸었다. 1983년 [프리츠커 상을](https://ko.wikipedia.org/wiki/프리츠커_상 "wikilink") 수상하였다.
 
@@ -21,7 +21,7 @@
 
 ## 선행
 
-[프리츠커상](../Page/프리츠커상.md "wikilink")과 함께받은 10만 [달러](https://ko.wikipedia.org/wiki/달러 "wikilink")의 [상금](https://ko.wikipedia.org/wiki/상금 "wikilink")을 [중국](https://ko.wikipedia.org/wiki/중국 "wikilink") 건축학도들의 미국 [유학](https://ko.wikipedia.org/wiki/유학 "wikilink")을 돕기위한 프로그램에 사용하였다.
+[프리츠커상](../Page/프리츠커상.md "wikilink")과 함께받은 10만 [달러](../Page/달러.md "wikilink")의 [상금](https://ko.wikipedia.org/wiki/상금 "wikilink")을 [중국](../Page/중국.md "wikilink") 건축학도들의 미국 [유학](https://ko.wikipedia.org/wiki/유학 "wikilink")을 돕기위한 프로그램에 사용하였다.
 
 ## 수상
 

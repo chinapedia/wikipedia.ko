@@ -5,7 +5,7 @@
 
 2002년 7월 feel sound를 결성해 애니메이션이나 게임의 주제가, BGM 등을 제작하다가 2004년 6월 활동 중단을 선언했다. 그 뒤 Elements Garden 이라는 이름으로 다시 활동을 시작했다.
 
-특이한 점은 다른 음악 제작 그룹과는 달리 작곡가들로만 이루어져 있고, [I've Sound처럼](https://ko.wikipedia.org/wiki/I've_Sound "wikilink") 소속 가수는 없다. 참여 가수 중에 [란티스](https://ko.wikipedia.org/wiki/란티스 "wikilink") 소속 가수들이 많은 편이다.
+특이한 점은 다른 음악 제작 그룹과는 달리 작곡가들로만 이루어져 있고, [I've Sound처럼](https://ko.wikipedia.org/wiki/I've_Sound "wikilink") 소속 가수는 없다. 참여 가수 중에 [란티스](../Page/란티스.md "wikilink") 소속 가수들이 많은 편이다.
 
 ## 스탭
 
@@ -22,7 +22,7 @@
 ## 참여 가수
 
   - [미즈키 나나](../Page/미즈키_나나.md "wikilink")
-  - [사토 히로미](https://ko.wikipedia.org/wiki/사토_히로미 "wikilink")
+  - [사토 히로미](../Page/사토_히로미.md "wikilink")
   - YURIA
   - NANA
   - KIRIKO
@@ -36,7 +36,7 @@
   - Suara
   - 야다 미코
   - 카타키리 렛카
-  - [하시모토 미유키](https://ko.wikipedia.org/wiki/하시모토_미유키 "wikilink")
+  - [하시모토 미유키](../Page/하시모토_미유키.md "wikilink")
   - 토미타 마호
   - 치하라 미노리
   - 모쿠렌

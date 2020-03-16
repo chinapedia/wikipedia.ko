@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Second Episode](https://ko.wikipedia.org/wiki/Second_Episode).
 
 
-《**Second Episode**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 그룹 [015B](../Page/015B.md "wikilink")의 2번째 정규 [앨범이다](../Page/음반.md "wikilink"). [정석원](../Page/정석원_\(음악가\).md "wikilink"), [장호일](../Page/장호일.md "wikilink"), [윤종신](../Page/윤종신.md "wikilink") 등이 참여했다.
+《**Second Episode**》는 [대한민국](../Page/대한민국.md "wikilink")의 그룹 [015B](../Page/015B.md "wikilink")의 2번째 정규 [앨범이다](../Page/음반.md "wikilink"). [정석원](../Page/정석원_\(음악가\).md "wikilink"), [장호일](../Page/장호일.md "wikilink"), [윤종신](../Page/윤종신.md "wikilink") 등이 참여했다.
 
   - LP,Tape엔 없던 두 곡 '사랑은 그대곁에' '동부 이촌동 새벽 1:40' 이 팬 서비스 차원으로 CD엔 있다.
   - 1집에 있던 노래인 '이층의 작은 방'에서 전주를 따온 '이젠 안녕'은, 원래 이 앨범이 015B의 마지막 앨범이 될 수도 있다고 생각하고 수록한 노래이다. 그리고 클라이맥스인 '안녕은 영원한 헤어짐은 아니겠지요' 부분 덕분에 이별, 작별, 졸업식 축가곡으로 많이 쓰이고 있다.

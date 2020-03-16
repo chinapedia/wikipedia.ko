@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Lovely Sweet Heart](https://ko.wikipedia.org/wiki/Lovely_Sweet_Heart).
 
 
-《**Lovely Sweet Heart**》는 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [5월 25일](https://ko.wikipedia.org/wiki/5월_25일 "wikilink") 발매된 [씨야](https://ko.wikipedia.org/wiki/씨야 "wikilink")의 2집 정규 음반이다.
+《**Lovely Sweet Heart**》는 [2007년](../Page/2007년.md "wikilink") [5월 25일](../Page/5월_25일.md "wikilink") 발매된 [씨야](https://ko.wikipedia.org/wiki/씨야 "wikilink")의 2집 정규 음반이다.
 
 ## 특징
 
@@ -18,28 +18,28 @@
 ## 순위 및 수상 기록
 
   - [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") 《[M\! Countdown](https://ko.wikipedia.org/wiki/M!_Countdown "wikilink")》
-      - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [7월 5일](https://ko.wikipedia.org/wiki/7월_5일 "wikilink") 1위 - 《사랑의 인사》
-      - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [8월 30일](https://ko.wikipedia.org/wiki/8월_30일 "wikilink") 1위 - 《결혼할까요》
+      - [2007년](../Page/2007년.md "wikilink") [7월 5일](../Page/7월_5일.md "wikilink") 1위 - 《사랑의 인사》
+      - [2007년](../Page/2007년.md "wikilink") [8월 30일](../Page/8월_30일.md "wikilink") 1위 - 《결혼할까요》
 
 <!-- end list -->
 
   - [SBS](../Page/SBS.md "wikilink") 《[인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink")》 "뮤티즌 송"
-      - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [7월 15일](https://ko.wikipedia.org/wiki/7월_15일 "wikilink") 수상 - 《사랑의 인사》
+      - [2007년](../Page/2007년.md "wikilink") [7월 15일](../Page/7월_15일.md "wikilink") 수상 - 《사랑의 인사》
 
 ## 판매량
 
-| 기준                                                         | 판매량    | 누적 판매량 | 순위      |
-| ---------------------------------------------------------- | ------ | ------ | ------- |
-| [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") 5월 | 21,519 | 21,519 | **3**   |
-| 6월                                                         | 17,911 | 39,430 | 4       |
-| 7월                                                         | 9,239  | 48,669 | 7       |
-| 8월                                                         | 3,394  | 52,063 | 14      |
-| 9월                                                         | 1,125  | 53,586 | 32      |
-| 10월                                                        | 27,807 | 81,393 | 4       |
-| 11월                                                        | 330    | 81,723 | 50위 권 밖 |
-| 누적                                                         | 81,723 | 5      |         |
+| 기준                                      | 판매량    | 누적 판매량 | 순위      |
+| --------------------------------------- | ------ | ------ | ------- |
+| [2007년](../Page/2007년.md "wikilink") 5월 | 21,519 | 21,519 | **3**   |
+| 6월                                      | 17,911 | 39,430 | 4       |
+| 7월                                      | 9,239  | 48,669 | 7       |
+| 8월                                      | 3,394  | 52,063 | 14      |
+| 9월                                      | 1,125  | 53,586 | 32      |
+| 10월                                     | 27,807 | 81,393 | 4       |
+| 11월                                     | 330    | 81,723 | 50위 권 밖 |
+| 누적                                      | 81,723 | 5      |         |
 
-[한국음악산업협회](https://ko.wikipedia.org/wiki/한국음악산업협회 "wikilink") 기준 판매량 집계\[1\]
+[한국음악산업협회](../Page/한국음악산업협회.md "wikilink") 기준 판매량 집계\[1\]
 
 ## 곡 목록
 

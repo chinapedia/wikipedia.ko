@@ -5,7 +5,7 @@
 
 ## 개요
 
-  - [1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink") [1월](https://ko.wikipedia.org/wiki/1월 "wikilink")부터 [1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink") [10월](https://ko.wikipedia.org/wiki/10월 "wikilink")까지 방송되었던 음악 프로그램 [더 베스트 텐을](https://ko.wikipedia.org/wiki/더_베스트_텐 "wikilink") 계승하는 의미에서 만든 프로그램인 [돌연 버라이어티 속보\!\! 카운트다운100이](https://ko.wikipedia.org/wiki/돌연_버라이어티_속보!!_카운트다운100 "wikilink") 시청률 저하로 폐지된 이후 이 프로그램의 후속 프로그램으로 만들어졌으며 처음 방송할 당시 순위는 40위까지만 발표\[1\]되었다.
+  - [1978년](../Page/1978년.md "wikilink") [1월](../Page/1월.md "wikilink")부터 [1989년](../Page/1989년.md "wikilink") [10월](../Page/10월.md "wikilink")까지 방송되었던 음악 프로그램 [더 베스트 텐을](https://ko.wikipedia.org/wiki/더_베스트_텐 "wikilink") 계승하는 의미에서 만든 프로그램인 [돌연 버라이어티 속보\!\! 카운트다운100이](https://ko.wikipedia.org/wiki/돌연_버라이어티_속보!!_카운트다운100 "wikilink") 시청률 저하로 폐지된 이후 이 프로그램의 후속 프로그램으로 만들어졌으며 처음 방송할 당시 순위는 40위까지만 발표\[1\]되었다.
   - 대부분의 JNN계열국에서 방송을 하고 있지만 본방송시간이 심야인 관계로 일부 지역은 방송시간이 다르다.
   - 매주 [제이 팝](https://ko.wikipedia.org/wiki/제이_팝 "wikilink") 최신 히트차트를 50위부터 1위까지 발표하며 순위에 들어간 가수 중 1\~3팀이 게스트로 출연해 노래를 부른다.
   - 엔카나 애니메이션 계열 노래(유명 아티스트가 부른것은 제외)는 랭킹 상위에 있어도 소개 시간이 짧아지는 경향이 있었다.\[2\]
@@ -48,7 +48,7 @@
 
 [분류:일본의 음악 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:일본의_음악_텔레비전_프로그램 "wikilink") [분류:일본의 음악 순위 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:일본의_음악_순위_텔레비전_프로그램 "wikilink")
 
-1.  [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") [10월 6일부터](https://ko.wikipedia.org/wiki/10월_6일 "wikilink") 50위까지 발표하게 되었다.
-2.  하지만, 애니메이션 계열 노래의 경우 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")부터 소개 시간이 다른 아티스트와 같이 길어졌다.
-3.  자사제작 버라이어티 프로그램 **노부나가**를 방송하기 때문에 시간차로 방송하며 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [10월](https://ko.wikipedia.org/wiki/10월 "wikilink") 이전에는 [도쿄 방송](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink") 에서 방송한 지 4일 후인 수요일 심야시간대에 방송을 했다.
-4.  2006년부터 무렵부터 TBS와 동시에 방송했으나 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink")부터 [니혼TV](https://ko.wikipedia.org/wiki/니혼TV "wikilink")의 버라이어티 프로그램 [엔타의 신을](https://ko.wikipedia.org/wiki/엔타의_신 "wikilink") 방송하기 시작하면서 다시 지연방송 형식으로 방송하기 시작했다.
+1.  [1996년](../Page/1996년.md "wikilink") [10월 6일부터](../Page/10월_6일.md "wikilink") 50위까지 발표하게 되었다.
+2.  하지만, 애니메이션 계열 노래의 경우 [2006년](../Page/2006년.md "wikilink")부터 소개 시간이 다른 아티스트와 같이 길어졌다.
+3.  자사제작 버라이어티 프로그램 **노부나가**를 방송하기 때문에 시간차로 방송하며 [2008년](../Page/2008년.md "wikilink") [10월](../Page/10월.md "wikilink") 이전에는 [도쿄 방송](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink") 에서 방송한 지 4일 후인 수요일 심야시간대에 방송을 했다.
+4.  2006년부터 무렵부터 TBS와 동시에 방송했으나 [2008년](../Page/2008년.md "wikilink") [4월](../Page/4월.md "wikilink")부터 [니혼TV](https://ko.wikipedia.org/wiki/니혼TV "wikilink")의 버라이어티 프로그램 [엔타의 신을](https://ko.wikipedia.org/wiki/엔타의_신 "wikilink") 방송하기 시작하면서 다시 지연방송 형식으로 방송하기 시작했다.

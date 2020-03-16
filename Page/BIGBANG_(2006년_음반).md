@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BIGBANG \(2006 \)](https://ko.wikipedia.org/wiki/BIGBANG_\(2006_\)).
 
 
-***Bigbang***은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악 그룹인 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") 첫 번째 싱글 음반이다. [YG 엔터테인먼트에](https://ko.wikipedia.org/wiki/YG_엔터테인먼트 "wikilink") 의해 발매되었다. 이 음반은 CD와 추가의 다큐멘터리 영상이 수록 된 DVD로 구성 되었다. 이 그룹의 멤버는 [G-Dragon](https://ko.wikipedia.org/wiki/지드래곤 "wikilink"), [T.O.P](../Page/T.O.P.md "wikilink"), [태양](../Page/태양_\(가수\).md "wikilink"), [대성과](https://ko.wikipedia.org/wiki/대성_\(가수\) "wikilink") [승리로](../Page/승리_\(가수\).md "wikilink") 구성되어 있으며, 타이틀 곡인 "We Belong Together"은 그룹의 리더 G-Dragon이 작곡을 하고 T.O.P과 함께 가사를 썼다. G-Dragon의 솔로 곡 *This Love*은 [마룬 5의](../Page/마룬_5.md "wikilink") [동명의 곡을](https://ko.wikipedia.org/wiki/This_Love_\(마룬_5의_노래\) "wikilink") 샘플링해 수록하였다.\[1\]
+***Bigbang***은 [대한민국](../Page/대한민국.md "wikilink")의 음악 그룹인 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") 첫 번째 싱글 음반이다. [YG 엔터테인먼트에](../Page/YG_엔터테인먼트.md "wikilink") 의해 발매되었다. 이 음반은 CD와 추가의 다큐멘터리 영상이 수록 된 DVD로 구성 되었다. 이 그룹의 멤버는 [G-Dragon](../Page/지드래곤.md "wikilink"), [T.O.P](../Page/T.O.P.md "wikilink"), [태양](../Page/태양_\(가수\).md "wikilink"), [대성과](../Page/대성_\(가수\).md "wikilink") [승리로](../Page/승리_\(가수\).md "wikilink") 구성되어 있으며, 타이틀 곡인 "We Belong Together"은 그룹의 리더 G-Dragon이 작곡을 하고 T.O.P과 함께 가사를 썼다. G-Dragon의 솔로 곡 *This Love*은 [마룬 5의](../Page/마룬_5.md "wikilink") [동명의 곡을](https://ko.wikipedia.org/wiki/This_Love_\(마룬_5의_노래\) "wikilink") 샘플링해 수록하였다.\[1\]
 
 ## 트랙 리스트
 
@@ -18,7 +18,7 @@
 ## 같이 보기
 
   - [빅뱅](../Page/빅뱅_\(음악_그룹\).md "wikilink")
-  - [YG 엔터테인먼트](https://ko.wikipedia.org/wiki/YG_엔터테인먼트 "wikilink")
+  - [YG 엔터테인먼트](../Page/YG_엔터테인먼트.md "wikilink")
 
 ## 외부 링크
 

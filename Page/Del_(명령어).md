@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Del \(\)](https://ko.wikipedia.org/wiki/Del_\(\)).
 
 
-마이크로소프트를 비롯한 여러 회사의 [도스](https://ko.wikipedia.org/wiki/도스 "wikilink"), [OS/2](https://ko.wikipedia.org/wiki/OS/2 "wikilink") 및 [윈도우의](https://ko.wikipedia.org/wiki/마이크로소프트_윈도우 "wikilink") [명령 줄 인터페이스](../Page/명령_줄_인터페이스.md "wikilink")([셸](https://ko.wikipedia.org/wiki/셸 "wikilink")), [윈도우 파워셸](https://ko.wikipedia.org/wiki/윈도우_파워셸 "wikilink") 등에서, **`del`** (또는 **`erase`**)는 하나 이상의 [파일이나](https://ko.wikipedia.org/wiki/컴퓨터_파일 "wikilink") [디렉터리](https://ko.wikipedia.org/wiki/디렉터리 "wikilink")를 [파일 시스템에서](https://ko.wikipedia.org/wiki/파일_시스템 "wikilink") 삭제하는 용도로 제공되어 있다. [유닉스 계열의](../Page/유닉스_계열.md "wikilink") 운영 체제에서 제공하는 [`rm`](https://ko.wikipedia.org/wiki/rm_\(유닉스\) "wikilink")과 역할 면에서 비슷하다.
+마이크로소프트를 비롯한 여러 회사의 [도스](../Page/도스.md "wikilink"), [OS/2](https://ko.wikipedia.org/wiki/OS/2 "wikilink") 및 [윈도우의](../Page/마이크로소프트_윈도우.md "wikilink") [명령 줄 인터페이스](../Page/명령_줄_인터페이스.md "wikilink")([셸](../Page/셸.md "wikilink")), [윈도우 파워셸](https://ko.wikipedia.org/wiki/윈도우_파워셸 "wikilink") 등에서, **`del`** (또는 **`erase`**)는 하나 이상의 [파일이나](../Page/컴퓨터_파일.md "wikilink") [디렉터리](https://ko.wikipedia.org/wiki/디렉터리 "wikilink")를 [파일 시스템에서](../Page/파일_시스템.md "wikilink") 삭제하는 용도로 제공되어 있다. [유닉스 계열의](../Page/유닉스_계열.md "wikilink") 운영 체제에서 제공하는 [`rm`](https://ko.wikipedia.org/wiki/rm_\(유닉스\) "wikilink")과 역할 면에서 비슷하다.
 
 [윈도 파워셸에서는](https://ko.wikipedia.org/wiki/윈도_파워셸 "wikilink") **del** 과 **erase**가 `Remove-Item` 커맨드릿의 [앨리어스](https://ko.wikipedia.org/wiki/앨리어스 "wikilink")로 설정되어 있으나, 역할은 같다.
 

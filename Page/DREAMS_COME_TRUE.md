@@ -6,16 +6,16 @@
 ## 구성원
 
   - 요시다 미와 () - [보컬](https://ko.wikipedia.org/wiki/가수 "wikilink")
-  - 나카무라 마사토 () - [베이스](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink") (리더)
+  - 나카무라 마사토 () - [베이스](../Page/베이스_기타.md "wikilink") (리더)
 
 ### 이전 구성원
 
-  - 니시카와 다카히로 () - [키보드](https://ko.wikipedia.org/wiki/건반_악기 "wikilink"), [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [3월 21일부로](https://ko.wikipedia.org/wiki/3월_21일 "wikilink") 독립.
+  - 니시카와 다카히로 () - [키보드](https://ko.wikipedia.org/wiki/건반_악기 "wikilink"), [2002년](../Page/2002년.md "wikilink") [3월 21일부로](../Page/3월_21일.md "wikilink") 독립.
 
 ## 내력
 
   - 1988년 1월, 그룹을 결성.
-  - [1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink") [3월 21일](https://ko.wikipedia.org/wiki/3월_21일 "wikilink"), 싱글 《아나타니아이타쿠테》, 앨범 《DREAMS COME TRUE》로 데뷔했다.
+  - [1989년](../Page/1989년.md "wikilink") [3월 21일](../Page/3월_21일.md "wikilink"), 싱글 《아나타니아이타쿠테》, 앨범 《DREAMS COME TRUE》로 데뷔했다.
 
 <!-- end list -->
 
@@ -23,7 +23,7 @@
 
 <!-- end list -->
 
-  - [2월 25일](https://ko.wikipedia.org/wiki/2월_25일 "wikilink"), 싱글 《[GOOD BYE MY SCHOOL DAYS](https://ko.wikipedia.org/wiki/GOOD_BYE_MY_SCHOOL_DAYS "wikilink")》를 발매했다.
+  - [2월 25일](../Page/2월_25일.md "wikilink"), 싱글 《[GOOD BYE MY SCHOOL DAYS](https://ko.wikipedia.org/wiki/GOOD_BYE_MY_SCHOOL_DAYS "wikilink")》를 발매했다.
 
 ## 음반
 
@@ -101,7 +101,7 @@
 22. **AND I LOVE YOU** (2007)
 23. **DREAMS COME TRUE MUSIC BOX Vol.1 - WINTER FANTASIA -** (2008)
 24. **DREAMS COME TRUE MUSIC BOX Vol.2 - SPRING RAIN -** (2009)
-25. **[DO YOU DREAMS COME TRUE?](https://ko.wikipedia.org/wiki/DO_YOU_DREAMS_COME_TRUE? "wikilink")** (2009)
+25. **[DO YOU DREAMS COME TRUE?](../Page/DO_YOU_DREAMS_COME_TRUE?.md "wikilink")** (2009)
 
 ### 노래 제공
 

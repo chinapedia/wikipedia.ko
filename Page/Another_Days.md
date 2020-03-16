@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Another Days](https://ko.wikipedia.org/wiki/Another_Days).
 
 
-〈**Another Days**〉(어나더 데이즈)는 [w-inds.](https://ko.wikipedia.org/wiki/w-inds. "wikilink")의 다섯 번째 싱글이다. [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [5월 22일](https://ko.wikipedia.org/wiki/5월_22일 "wikilink") FLIGHT MASTER에서 발매하였다.
+〈**Another Days**〉(어나더 데이즈)는 [w-inds.](https://ko.wikipedia.org/wiki/w-inds. "wikilink")의 다섯 번째 싱글이다. [2002년](../Page/2002년.md "wikilink") [5월 22일](../Page/5월_22일.md "wikilink") FLIGHT MASTER에서 발매하였다.
 
 [일본](../Page/일본.md "wikilink")《Family Mart M/F/C》 CF곡으로 사용되었으며, 싱글로서는 처음으로 [오리콘](../Page/오리콘.md "wikilink") 차트 1위를 기록하였다.
 
@@ -19,7 +19,7 @@
 <!-- end list -->
 
   -
-    작사, 작곡, 편곡 : [하야마 히로아키](https://ko.wikipedia.org/wiki/하야마_히로아키 "wikilink")
+    작사, 작곡, 편곡 : [하야마 히로아키](../Page/하야마_히로아키.md "wikilink")
     리믹스 : planetcube (\#3)
 
 ## 차트 성적

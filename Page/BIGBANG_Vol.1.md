@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BIGBANG Vol.1](https://ko.wikipedia.org/wiki/BIGBANG_Vol.1).
 
 
-《**BIGBANG Vol.1**》은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악 그룹 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") 첫 번째 정규 음반이다. 이 음반의 수록 된 대부분의 곡들은 그룹의 멤버 [G-Dragon이](https://ko.wikipedia.org/wiki/지드래곤 "wikilink") 작사, 작곡에 참여하였다. 이 음반에는 이전에 발매한 세 장의 싱글 음반의 곡들이 수록 되었다.
+《**BIGBANG Vol.1**》은 [대한민국](../Page/대한민국.md "wikilink")의 음악 그룹 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") 첫 번째 정규 음반이다. 이 음반의 수록 된 대부분의 곡들은 그룹의 멤버 [G-Dragon이](../Page/지드래곤.md "wikilink") 작사, 작곡에 참여하였다. 이 음반에는 이전에 발매한 세 장의 싱글 음반의 곡들이 수록 되었다.
 
 ## 수록곡
 

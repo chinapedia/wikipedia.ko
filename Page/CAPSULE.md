@@ -5,14 +5,14 @@
 
 ## 구성원
 
-두 사람 모두 [이시카와현](https://ko.wikipedia.org/wiki/이시카와현 "wikilink") [가나자와 시](https://ko.wikipedia.org/wiki/가나자와_시 "wikilink") 출신이다.
+두 사람 모두 [이시카와현](../Page/이시카와현.md "wikilink") [가나자와 시](https://ko.wikipedia.org/wiki/가나자와_시 "wikilink") 출신이다.
 
-  - [나카타 야스타카](https://ko.wikipedia.org/wiki/나카타_야스타카 "wikilink"): 작사, 작곡, 편곡, 프로듀스
+  - [나카타 야스타카](../Page/나카타_야스타카.md "wikilink"): 작사, 작곡, 편곡, 프로듀스
   - [고시지마 도시코](../Page/고시지마_도시코.md "wikilink"): 보컬
 
 ## 개요
 
-본래 고등학교 시절의 동창이었던 [나카타 야스타카와](https://ko.wikipedia.org/wiki/나카타_야스타카 "wikilink") [고시지마 도시코는](../Page/고시지마_도시코.md "wikilink") [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink")에 capsule을 결성하였고, 그들이 성인이 된 이후인 [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink")에 정식으로 데뷔했다. [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")과 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") 사이에 capsule의 음악적 성향은 크게 변하여, 기존의 복고적인 색채를 띤 [프렌치 팝](https://ko.wikipedia.org/wiki/프렌치_팝 "wikilink") 스타일에서 [하우스로](https://ko.wikipedia.org/wiki/하우스_음악 "wikilink") 바뀌었고, 이에 따라 공연이나, 뮤직비디오 및 음반의 표지 사진을 촬영할 때 입는 의상에도 상당한 변화가 있었다. [나카타 야스타카는](https://ko.wikipedia.org/wiki/나카타_야스타카 "wikilink") [MEG](https://ko.wikipedia.org/wiki/MEG "wikilink"), [SMAP](https://ko.wikipedia.org/wiki/SMAP "wikilink"), [m-flo](https://ko.wikipedia.org/wiki/m-flo "wikilink"), [아오야마 테루마](https://ko.wikipedia.org/wiki/아오야마_테루마 "wikilink"), [스즈키 아미](https://ko.wikipedia.org/wiki/스즈키_아미 "wikilink"), [리아 디존등](../Page/리아_디존.md "wikilink") 여러 아티스트에게 노래를 제공하거나 리믹서로 참가하고있다. 또, 프로듀스 하고 있는 아이돌 그룹인 [퍼퓸이](https://ko.wikipedia.org/wiki/퍼퓸_\(음악_그룹\) "wikilink") 앨범 《GAME》이나 싱글 《love the world》로 [오리콘 차트](https://ko.wikipedia.org/wiki/오리콘_차트 "wikilink") 1위를 차지하여 주목을 받고있다.
+본래 고등학교 시절의 동창이었던 [나카타 야스타카와](../Page/나카타_야스타카.md "wikilink") [고시지마 도시코는](../Page/고시지마_도시코.md "wikilink") [1997년](../Page/1997년.md "wikilink")에 capsule을 결성하였고, 그들이 성인이 된 이후인 [2001년](../Page/2001년.md "wikilink")에 정식으로 데뷔했다. [2006년](../Page/2006년.md "wikilink")과 [2007년](../Page/2007년.md "wikilink") 사이에 capsule의 음악적 성향은 크게 변하여, 기존의 복고적인 색채를 띤 [프렌치 팝](https://ko.wikipedia.org/wiki/프렌치_팝 "wikilink") 스타일에서 [하우스로](../Page/하우스_음악.md "wikilink") 바뀌었고, 이에 따라 공연이나, 뮤직비디오 및 음반의 표지 사진을 촬영할 때 입는 의상에도 상당한 변화가 있었다. [나카타 야스타카는](../Page/나카타_야스타카.md "wikilink") [MEG](https://ko.wikipedia.org/wiki/MEG "wikilink"), [SMAP](../Page/SMAP.md "wikilink"), [m-flo](https://ko.wikipedia.org/wiki/m-flo "wikilink"), [아오야마 테루마](https://ko.wikipedia.org/wiki/아오야마_테루마 "wikilink"), [스즈키 아미](../Page/스즈키_아미.md "wikilink"), [리아 디존등](../Page/리아_디존.md "wikilink") 여러 아티스트에게 노래를 제공하거나 리믹서로 참가하고있다. 또, 프로듀스 하고 있는 아이돌 그룹인 [퍼퓸이](https://ko.wikipedia.org/wiki/퍼퓸_\(음악_그룹\) "wikilink") 앨범 《GAME》이나 싱글 《love the world》로 [오리콘 차트](https://ko.wikipedia.org/wiki/오리콘_차트 "wikilink") 1위를 차지하여 주목을 받고있다.
 
 ## 음반 목록
 
@@ -74,7 +74,7 @@
 
 ## 내한 공연
 
-[2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [3월 1일에는](https://ko.wikipedia.org/wiki/3월_1일 "wikilink") [나카타 야스타카가](https://ko.wikipedia.org/wiki/나카타_야스타카 "wikilink") [클래지콰이 프로젝트의](../Page/클래지콰이_프로젝트.md "wikilink") ROBOTICA 파티 공연에 게스트로 참가했으며\[1\], [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [3월 14일에는](https://ko.wikipedia.org/wiki/3월_14 "wikilink") [홍익대학교](https://ko.wikipedia.org/wiki/홍익대학교 "wikilink") 근교의 [클럽인](../Page/클럽_\(공연\).md "wikilink") [벨벳바나나](https://ko.wikipedia.org/wiki/벨벳바나나 "wikilink")에서 첫 내한 공연을 펼쳤다\[2\].
+[2008년](../Page/2008년.md "wikilink") [3월 1일에는](../Page/3월_1일.md "wikilink") [나카타 야스타카가](../Page/나카타_야스타카.md "wikilink") [클래지콰이 프로젝트의](../Page/클래지콰이_프로젝트.md "wikilink") ROBOTICA 파티 공연에 게스트로 참가했으며\[1\], [2009년](../Page/2009년.md "wikilink") [3월 14일에는](https://ko.wikipedia.org/wiki/3월_14 "wikilink") [홍익대학교](https://ko.wikipedia.org/wiki/홍익대학교 "wikilink") 근교의 [클럽인](../Page/클럽_\(공연\).md "wikilink") [벨벳바나나](https://ko.wikipedia.org/wiki/벨벳바나나 "wikilink")에서 첫 내한 공연을 펼쳤다\[2\].
 
 2012년 UMF KOREA에서 capsule이 게스트로 확정돼 내한 공연을 펼친 바 있다.
 

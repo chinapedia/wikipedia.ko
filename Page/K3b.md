@@ -3,7 +3,7 @@
 
 **K3B**(**K**DE **B**urn **B**aby **B**urn = KBBB = K3B)는 디스크 편집 소프트웨어로 Sebastian Trüg과 Christian Kvasny가 만들었다.
 
-[C++](https://ko.wikipedia.org/wiki/C++ "wikilink")와 [Qt로](https://ko.wikipedia.org/wiki/Qt_\(툴킷\) "wikilink") 만들어진 [GUI](https://ko.wikipedia.org/wiki/GUI "wikilink")형 소프트웨어로 [GNU 일반 공중 사용 허가서를](https://ko.wikipedia.org/wiki/GNU_일반_공중_사용_허가서 "wikilink") 따른다. 2009년 1월 24일 현재 최신판은 **1.0.5**.
+[C++](https://ko.wikipedia.org/wiki/C++ "wikilink")와 [Qt로](https://ko.wikipedia.org/wiki/Qt_\(툴킷\) "wikilink") 만들어진 [GUI](https://ko.wikipedia.org/wiki/GUI "wikilink")형 소프트웨어로 [GNU 일반 공중 사용 허가서를](../Page/GNU_일반_공중_사용_허가서.md "wikilink") 따른다. 2009년 1월 24일 현재 최신판은 **1.0.5**.
 
 ## 할 수 있는 것
 

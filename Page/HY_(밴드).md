@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [HY \(\)](https://ko.wikipedia.org/wiki/HY_\(\)).
 
 
-**HY** (에이치와이)는, 일본의 혼성 5인조 [록 밴드이다](https://ko.wikipedia.org/wiki/록_밴드 "wikilink"). 구성원 모두 [오키나와현](https://ko.wikipedia.org/wiki/오키나와현 "wikilink") [우루마 시출신이다](https://ko.wikipedia.org/wiki/우루마_시 "wikilink").
+**HY** (에이치와이)는, 일본의 혼성 5인조 [록 밴드이다](https://ko.wikipedia.org/wiki/록_밴드 "wikilink"). 구성원 모두 [오키나와현](../Page/오키나와현.md "wikilink") [우루마 시출신이다](https://ko.wikipedia.org/wiki/우루마_시 "wikilink").
 
 2000년 결성이래, 인디즈로 활동하고 있다. 레이블은 개인 레이블인 ‘히가시야케나건설’()이고, (레이블명이며 실제 건설회사는 아니다).
 
@@ -9,15 +9,15 @@
 
 ## 구성원
 
-  - 신자토 히데유키 (新里 英之) ([보컬](https://ko.wikipedia.org/wiki/가수 "wikilink"), [기타](https://ko.wikipedia.org/wiki/기타 "wikilink"), [랩](https://ko.wikipedia.org/wiki/랩_\(음악\) "wikilink"))
+  - 신자토 히데유키 (新里 英之) ([보컬](https://ko.wikipedia.org/wiki/가수 "wikilink"), [기타](../Page/기타.md "wikilink"), [랩](https://ko.wikipedia.org/wiki/랩_\(음악\) "wikilink"))
   - 나카 슌 (名嘉 俊) ([드럼](https://ko.wikipedia.org/wiki/드럼셋 "wikilink"), 랩)
-  - 교다 신스케 (許田 信介) ([베이스](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink"))
+  - 교다 신스케 (許田 信介) ([베이스](../Page/베이스_기타.md "wikilink"))
   - 나카소네 이즈미 (仲宗根 泉) ([건반 악기](https://ko.wikipedia.org/wiki/건반_악기 "wikilink"), 보컬)
   - 미야자토 유헤이 (宮里 悠平) (기타)
 
 ## 내력
 
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [4월 16일에](https://ko.wikipedia.org/wiki/4월_16일 "wikilink") 5번째 정규 음반 《HeartY》를 발매했다. 이 음반에 수록된 〈366日〉는 [후지 TV의](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 드라마·영화 《[붉은 실](https://ko.wikipedia.org/wiki/붉은_실_\(드라마\) "wikilink")》의 주제가로 쓰였다.
+  - [2008년](../Page/2008년.md "wikilink") [4월 16일에](../Page/4월_16일.md "wikilink") 5번째 정규 음반 《HeartY》를 발매했다. 이 음반에 수록된 〈366日〉는 [후지 TV의](../Page/후지_TV.md "wikilink") 드라마·영화 《[붉은 실](../Page/붉은_실_\(드라마\).md "wikilink")》의 주제가로 쓰였다.
 
 ## 음반
 

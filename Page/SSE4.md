@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SSE4](https://ko.wikipedia.org/wiki/SSE4).
 
 
-**SSE4**(Streaming SIMD Extensions 4)는 [인텔 코어 마이크로아키텍처와](https://ko.wikipedia.org/wiki/인텔_코어_마이크로아키텍처 "wikilink") [AMD K10](../Page/AMD_K10.md "wikilink")(K8L)에서 지원되는 [명령어 집합이다](../Page/명령어_집합.md "wikilink"). [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") 9월 27일에 2006 추계 [인텔 개발자 포럼에서](../Page/인텔_개발자_포럼.md "wikilink") 약간 모호한 백서와 함께 발표되었다.\[1\] 이후 2007년 봄 북경에서 개최된 인텔 개발자 포럼에서 47개의 자세한 명령어가 소개되었다.\[2\] SSE4 프로그래밍 참조서가 [1](https://web.archive.org/web/20081031084014/http://softwarecommunity.intel.com/isn/Downloads/Intel%20SSE4%20Programming%20Reference.pdf) 인텔로부터 제공된다.
+**SSE4**(Streaming SIMD Extensions 4)는 [인텔 코어 마이크로아키텍처와](https://ko.wikipedia.org/wiki/인텔_코어_마이크로아키텍처 "wikilink") [AMD K10](../Page/AMD_K10.md "wikilink")(K8L)에서 지원되는 [명령어 집합이다](../Page/명령어_집합.md "wikilink"). [2006년](../Page/2006년.md "wikilink") 9월 27일에 2006 추계 [인텔 개발자 포럼에서](../Page/인텔_개발자_포럼.md "wikilink") 약간 모호한 백서와 함께 발표되었다.\[1\] 이후 2007년 봄 북경에서 개최된 인텔 개발자 포럼에서 47개의 자세한 명령어가 소개되었다.\[2\] SSE4 프로그래밍 참조서가 [1](https://web.archive.org/web/20081031084014/http://softwarecommunity.intel.com/isn/Downloads/Intel%20SSE4%20Programming%20Reference.pdf) 인텔로부터 제공된다.
 
 ## SSE4 부분집합
 
@@ -33,12 +33,12 @@
 
 ## 지원 CPU
 
-  - [인텔](https://ko.wikipedia.org/wiki/인텔 "wikilink")
+  - [인텔](../Page/인텔.md "wikilink")
       - Intel 펜린 프로세서 (SSE4.1 지원)
       - Intel [네할렘](https://ko.wikipedia.org/wiki/네할렘_마이크로아키텍처 "wikilink") 프로세서 (SSE4.1, SSE4.2 ,POPCNT 명령어 지원)
       - Intel [실버몬트](https://ko.wikipedia.org/wiki/실버몬트_마이크로아키텍처 "wikilink") 프로세서 (SSE4.1, SSE4.2, POPCNT 명령어 지원)
       - Intel [하스웰](https://ko.wikipedia.org/wiki/해스웰_\(마이크로아키텍처\) "wikilink") 프로세서 (SSE4.1, SSE4.2, POPCNT ,LZCNT 명령어 지원)
-  - [AMD](https://ko.wikipedia.org/wiki/어드밴스트_마이크로_디바이시스 "wikilink")
+  - [AMD](../Page/어드밴스트_마이크로_디바이시스.md "wikilink")
       - AMD [바르셀로나](../Page/AMD_K10.md "wikilink")-기반 프로세서 (SSE4a, POPCNT ,LZCNT 명령어 지원)
       - AMD [불도저](../Page/불도저_\(마이크로아키텍처\).md "wikilink") 기반 프로세서 (SSE4a, SSE4.1, SSE4.2, POPCNT ,LZCNT 명령어 지원)
       - AMD [밥캣](../Page/밥캣_\(마이크로아키텍처\).md "wikilink") 기반 프로세서 (SSE4a, POPCNT ,LZCNT 명령어 지원)
@@ -60,7 +60,7 @@
 <li><a href="../Page/SSE3.md" title="wikilink">SSE3</a></li>
 <li><a href="../Page/SSSE3.md" title="wikilink">SSSE3</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/SIMD" title="wikilink">SIMD</a></li>
-<li><a href="https://ko.wikipedia.org/wiki/고급_벡터_확장" title="wikilink">AVX</a></li>
+<li><a href="../Page/고급_벡터_확장.md" title="wikilink">AVX</a></li>
 </ul></td>
 <td><ul>
 <li><a href="https://ko.wikipedia.org/wiki/넷버스트_마이크로아키텍처" title="wikilink">넷버스트 마이크로아키텍처</a></li>

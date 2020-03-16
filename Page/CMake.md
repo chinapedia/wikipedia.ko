@@ -6,7 +6,7 @@
 ## 기능
 
   - 소프트웨어 빌드에 특화된 언어로 독자적 설정 스크립트를 사용한다.
-  - [C](https://ko.wikipedia.org/wiki/C_\(프로그래밍_언어\) "wikilink"), [C++](https://ko.wikipedia.org/wiki/C++ "wikilink"), [자바](https://ko.wikipedia.org/wiki/자바_\(프로그래밍_언어\) "wikilink"), [포트란](https://ko.wikipedia.org/wiki/포트란 "wikilink")에 대해서는 자체적으로 의존 관계를 분석할 수 있다.
+  - [C](../Page/C_\(프로그래밍_언어\).md "wikilink"), [C++](https://ko.wikipedia.org/wiki/C++ "wikilink"), [자바](../Page/자바_\(프로그래밍_언어\).md "wikilink"), [포트란](../Page/포트란.md "wikilink")에 대해서는 자체적으로 의존 관계를 분석할 수 있다.
   - [스위그](https://ko.wikipedia.org/wiki/스위그 "wikilink"), [Qt](https://ko.wikipedia.org/wiki/Qt_\(툴킷\) "wikilink") 지원에 특화되어 있다.
   - [마이크로소프트 비주얼 스튜디오를](https://ko.wikipedia.org/wiki/비주얼_스튜디오 "wikilink") 자체적으로 지원한다(6, 7, 7.1, 8.0, 9.0 등).
   - [이클립스](https://ko.wikipedia.org/wiki/이클립스 "wikilink")용 빌드 파일을 생성할 수 있다.
@@ -14,7 +14,7 @@
   - [평행 빌드를](https://ko.wikipedia.org/wiki/평행_빌드 "wikilink") 할 수 있다.
   - [크로스 컴파일을](https://ko.wikipedia.org/wiki/크로스_컴파일 "wikilink") 할 수 있다.
   - 다양한 플랫폼을 지원한다.
-      - [유닉스 계열](../Page/유닉스_계열.md "wikilink") 운영 체제([리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink"), [BSD계](https://ko.wikipedia.org/wiki/BSD/OS "wikilink") 운영 체제 등)
+      - [유닉스 계열](../Page/유닉스_계열.md "wikilink") 운영 체제([리눅스](../Page/리눅스.md "wikilink"), [BSD계](https://ko.wikipedia.org/wiki/BSD/OS "wikilink") 운영 체제 등)
       - [OS X](https://ko.wikipedia.org/wiki/OS_X "wikilink")
       - [윈도 95](https://ko.wikipedia.org/wiki/윈도_95 "wikilink")/[98](https://ko.wikipedia.org/wiki/윈도_98 "wikilink")/[NT](https://ko.wikipedia.org/wiki/윈도_NT "wikilink")/[2000](https://ko.wikipedia.org/wiki/윈도_2000 "wikilink")/[XP](https://ko.wikipedia.org/wiki/윈도_XP "wikilink") 와 [MinGW](../Page/MinGW.md "wikilink")/MSYS
   - 내부 모듈인 CTest로 [유닛 테스트를](../Page/유닛_테스트.md "wikilink") 수행할 수 있다.
@@ -75,7 +75,7 @@ endif()
 
   - [KDE](../Page/KDE.md "wikilink")(4판부터)
   - [LMMS](../Page/LMMS.md "wikilink")
-  - [MySQL](https://ko.wikipedia.org/wiki/MySQL "wikilink")([마이크로소프트 윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink"), [리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink"))
+  - [MySQL](../Page/MySQL.md "wikilink")([마이크로소프트 윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink"), [리눅스](../Page/리눅스.md "wikilink"))
   - [OpenLieroX](https://ko.wikipedia.org/wiki/OpenLieroX "wikilink")
   - [OpenSceneGraph](https://ko.wikipedia.org/wiki/OpenSceneGraph "wikilink")
   - [OpenSourceComputerVision](https://ko.wikipedia.org/wiki/OpenSourceComputerVision "wikilink")
@@ -91,7 +91,7 @@ endif()
 
 ## 같이 보기
 
-  - [Autoconf](https://ko.wikipedia.org/wiki/Autoconf "wikilink")
+  - [Autoconf](../Page/Autoconf.md "wikilink")
 
 ## 참조
 

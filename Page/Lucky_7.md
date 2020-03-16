@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Lucky 7](https://ko.wikipedia.org/wiki/Lucky_7).
 
 
-《**Lucky 7**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 그룹 [015B](../Page/015B.md "wikilink")의 7번째 정규 [앨범이다](../Page/음반.md "wikilink"). [정석원](../Page/정석원_\(음악가\).md "wikilink"), [장호일](../Page/장호일.md "wikilink"), [박정현](https://ko.wikipedia.org/wiki/박정현 "wikilink") 등이 참여했다.
+《**Lucky 7**》는 [대한민국](../Page/대한민국.md "wikilink")의 그룹 [015B](../Page/015B.md "wikilink")의 7번째 정규 [앨범이다](../Page/음반.md "wikilink"). [정석원](../Page/정석원_\(음악가\).md "wikilink"), [장호일](../Page/장호일.md "wikilink"), [박정현](../Page/박정현.md "wikilink") 등이 참여했다.
 
 ## 곡 목록
 
@@ -10,8 +10,8 @@
 3.  **"그녀에게 전화 오게 하는 방법"** (feat. [버벌진트](../Page/버벌진트.md "wikilink")) – 4:00
 4.  "잠시 길을 잃다" (feat. [신보경](../Page/보니_\(가수\).md "wikilink"))– 4:25
 5.  "성냥팔이 소녀" (feat. [호란](../Page/호란.md "wikilink"))– 4:02
-6.  "우린 같은 꿈을 꾼 거야" (feat. [고유진](https://ko.wikipedia.org/wiki/고유진 "wikilink")) – 4:14
-7.  "너 말이야" (feat. [다이나믹 듀오](https://ko.wikipedia.org/wiki/다이나믹_듀오 "wikilink"), [박정현](https://ko.wikipedia.org/wiki/박정현 "wikilink")) – 3:19
+6.  "우린 같은 꿈을 꾼 거야" (feat. [고유진](../Page/고유진.md "wikilink")) – 4:14
+7.  "너 말이야" (feat. [다이나믹 듀오](../Page/다이나믹_듀오.md "wikilink"), [박정현](../Page/박정현.md "wikilink")) – 3:19
 8.  "모르는 게 많았어요 (feat. [유희열](https://ko.wikipedia.org/wiki/유희열 "wikilink")) " – 4:02
 9.  "간장드레싱 레시피 - Instrumental" (feat. [K Jun](https://ko.wikipedia.org/wiki/케이_준 "wikilink")) – 3:54
 10. "No Way" – 3:41

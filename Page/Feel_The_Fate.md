@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Feel The Fate](https://ko.wikipedia.org/wiki/Feel_The_Fate).
 
 
-〈**Feel The Fate**〉(필 더 페이트)는 [w-inds.](https://ko.wikipedia.org/wiki/w-inds. "wikilink")의 두 번째 싱글이다. [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [7월 4일](https://ko.wikipedia.org/wiki/7월_4일 "wikilink") FLIGHT MASTER에서 발매하였다.
+〈**Feel The Fate**〉(필 더 페이트)는 [w-inds.](https://ko.wikipedia.org/wiki/w-inds. "wikilink")의 두 번째 싱글이다. [2001년](../Page/2001년.md "wikilink") [7월 4일](../Page/7월_4일.md "wikilink") FLIGHT MASTER에서 발매하였다.
 
 ## 개요
 
@@ -29,7 +29,7 @@
 <!-- end list -->
 
   -
-    작사, 작곡, 편곡 : [하야마 히로아키](https://ko.wikipedia.org/wiki/하야마_히로아키 "wikilink")
+    작사, 작곡, 편곡 : [하야마 히로아키](../Page/하야마_히로아키.md "wikilink")
     리믹스 : Banana Ice (\#3)
 
 ## 차트 성적

@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [YMCK](https://ko.wikipedia.org/wiki/YMCK).
 
 
-**YMCK**는 일본의 [칩튠](../Page/칩튠.md "wikilink") 밴드이다. [스윙](https://ko.wikipedia.org/wiki/스윙 "wikilink")이나 [재즈](https://ko.wikipedia.org/wiki/재즈 "wikilink")의 느낌이 나는 [테크노](https://ko.wikipedia.org/wiki/테크노 "wikilink") 사운드를 쓰며 [패미컴](https://ko.wikipedia.org/wiki/패미컴 "wikilink")의 [게임 음악과](https://ko.wikipedia.org/wiki/게임_음악 "wikilink") 같은 8bit 음원과 보컬의 달콤한 목소리가 특징이다. 앨범 CD의 재킷에도 패미컴의 게임 캐릭터와 같은 도트 그림을 사용한다.
+**YMCK**는 일본의 [칩튠](../Page/칩튠.md "wikilink") 밴드이다. [스윙](https://ko.wikipedia.org/wiki/스윙 "wikilink")이나 [재즈](../Page/재즈.md "wikilink")의 느낌이 나는 [테크노](https://ko.wikipedia.org/wiki/테크노 "wikilink") 사운드를 쓰며 [패미컴](https://ko.wikipedia.org/wiki/패미컴 "wikilink")의 [게임 음악과](https://ko.wikipedia.org/wiki/게임_음악 "wikilink") 같은 8bit 음원과 보컬의 달콤한 목소리가 특징이다. 앨범 CD의 재킷에도 패미컴의 게임 캐릭터와 같은 도트 그림을 사용한다.
 
-[2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") 5월에 [CD-R](../Page/CD-R.md "wikilink")로 직접 만든 앨범 《패밀리 뮤직》()으로 데뷔하고 이 앨범이 히트를 하여 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 11월에 우사기짱레코드()에서 첫 번째 앨범인 《패밀리 뮤직》()\[1\] 을 발매한다. [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") 12월에 두 번째 앨범인 《패밀리 레이싱》()을 발매한다. [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") 6월에는 한국의 [파스텔 뮤직에서](https://ko.wikipedia.org/wiki/파스텔_뮤직 "wikilink") 《패밀리 뮤직》과 《패밀리 레이싱》을 정식 발매하였고 같은 달 정식 발매 기념 라이브 콘서트를 한국에서 개최했다. [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 1월에는 [avex trax에서](https://ko.wikipedia.org/wiki/avex_trax "wikilink") 세 번째 앨범인 《패밀리 제네시스》()를 발매하여 메이저 데뷔를 하였다.
+[2003년](../Page/2003년.md "wikilink") 5월에 [CD-R](../Page/CD-R.md "wikilink")로 직접 만든 앨범 《패밀리 뮤직》()으로 데뷔하고 이 앨범이 히트를 하여 [2004년](../Page/2004년.md "wikilink") 11월에 우사기짱레코드()에서 첫 번째 앨범인 《패밀리 뮤직》()\[1\] 을 발매한다. [2005년](../Page/2005년.md "wikilink") 12월에 두 번째 앨범인 《패밀리 레이싱》()을 발매한다. [2006년](../Page/2006년.md "wikilink") 6월에는 한국의 [파스텔 뮤직에서](https://ko.wikipedia.org/wiki/파스텔_뮤직 "wikilink") 《패밀리 뮤직》과 《패밀리 레이싱》을 정식 발매하였고 같은 달 정식 발매 기념 라이브 콘서트를 한국에서 개최했다. [2008년](../Page/2008년.md "wikilink") 1월에는 [avex trax에서](https://ko.wikipedia.org/wiki/avex_trax "wikilink") 세 번째 앨범인 《패밀리 제네시스》()를 발매하여 메이저 데뷔를 하였다.
 
 ## 멤버
 
@@ -52,4 +52,4 @@
   -
 [분류:일본의 록 밴드](https://ko.wikipedia.org/wiki/분류:일본의_록_밴드 "wikilink") [분류:2003년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2003년_결성된_음악_그룹 "wikilink")
 
-1.  이 앨범은 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink")에 만든 앨범과 제목이 같지만 내용은 다르다.
+1.  이 앨범은 [2003년](../Page/2003년.md "wikilink")에 만든 앨범과 제목이 같지만 내용은 다르다.

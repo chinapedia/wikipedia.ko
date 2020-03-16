@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  Wii](https://ko.wikipedia.org/wiki/__Wii).
 
 
-《**마리오 카트 Wii**》()는 [닌텐도](https://ko.wikipedia.org/wiki/닌텐도 "wikilink")가 개발한 [Wii](https://ko.wikipedia.org/wiki/Wii "wikilink")용 게임 소프트웨어이다. [일본](../Page/일본.md "wikilink")에서 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [4월 10일](https://ko.wikipedia.org/wiki/4월_10일 "wikilink") 먼저 발매했으며, [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [4월 30일에](https://ko.wikipedia.org/wiki/4월_30일 "wikilink") 발매되었다. 마리오 카트 시리즈의 여섯 번째 작품이다. [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 [김범](../Page/김범.md "wikilink"), [김창완](../Page/김창완.md "wikilink"), [박미선](../Page/박미선.md "wikilink")이 광고모델을 하였다. 처음에는 경량급, 중량급, 무제한급 모두 4가지씩 12명의 캐릭터만 선택할 수 있으나 게임을 진행해 가면서 나머지 12명이 추가되어 경량급, 중량급, 무제한급 모두 8가지씩 24명의 캐릭터를 선택할 수 있게 된다. 레이싱 코스는 마리오 카트 Wii에서 처음 소개된 니트로 코스 16개와 이전의 시리즈에서 등장하였던 레트로 코스 16개, 모두 32개로 구성되어 있다.
+《**마리오 카트 Wii**》()는 [닌텐도](../Page/닌텐도.md "wikilink")가 개발한 [Wii](../Page/Wii.md "wikilink")용 게임 소프트웨어이다. [일본](../Page/일본.md "wikilink")에서 [2008년](../Page/2008년.md "wikilink") [4월 10일](../Page/4월_10일.md "wikilink") 먼저 발매했으며, [대한민국](../Page/대한민국.md "wikilink")에서는 [2009년](../Page/2009년.md "wikilink") [4월 30일에](../Page/4월_30일.md "wikilink") 발매되었다. 마리오 카트 시리즈의 여섯 번째 작품이다. [대한민국](../Page/대한민국.md "wikilink")에서는 [김범](../Page/김범.md "wikilink"), [김창완](../Page/김창완.md "wikilink"), [박미선](../Page/박미선.md "wikilink")이 광고모델을 하였다. 처음에는 경량급, 중량급, 무제한급 모두 4가지씩 12명의 캐릭터만 선택할 수 있으나 게임을 진행해 가면서 나머지 12명이 추가되어 경량급, 중량급, 무제한급 모두 8가지씩 24명의 캐릭터를 선택할 수 있게 된다. 레이싱 코스는 마리오 카트 Wii에서 처음 소개된 니트로 코스 16개와 이전의 시리즈에서 등장하였던 레트로 코스 16개, 모두 32개로 구성되어 있다.
 
 ## 지원 컨트롤러
 

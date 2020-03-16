@@ -9,7 +9,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Noia_64_apps_karm.svg" title="wikilink">43px</a></p></td>
-<td><p>이 사용자는 <strong><a href="https://ko.wikipedia.org/wiki/한국어_위키백과" title="wikilink">위키백과</a></strong>에 가입한 지 ''' / 1000000) round 0)) /100 round 0) - (((({{#time: YmdHis}} / 1000000) round 0)) /10000 round 0)*100 &gt; </p></td>
+<td><p>이 사용자는 <strong><a href="../Page/한국어_위키백과.md" title="wikilink">위키백과</a></strong>에 가입한 지 ''' / 1000000) round 0)) /100 round 0) - (((({{#time: YmdHis}} / 1000000) round 0)) /10000 round 0)*100 &gt; </p></td>
 <td><p>{{ #expr: {{ #expr: ((({{#time: YmdHis}} / 1000000) round 0)) /10000 round 0}} -  }}</p></td>
 <td><p>{{ #ifexpr: (((({{#time: YmdHis}} / 1000000) round 0)) /100 round 0) - (((({{#time: YmdHis}} / 1000000) round 0)) /10000 round 0)*100 &lt; </p></td>
 <td><p>{{ #expr: {{ #expr: ((({{#time: YmdHis}} / 1000000) round 0)) /10000 round 0}} -  - 1 }}</p></td>

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Death, We Will Face](https://ko.wikipedia.org/wiki/The_Death,_We_Will_Face).
 
 
-《**The Death, We Will Face**》는 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [3월 31일에](https://ko.wikipedia.org/wiki/3월_31일 "wikilink") [GMC 레코드](../Page/GMC_레코드.md "wikilink")(GMC Records)에서 발매된 [나인씬](../Page/나인씬.md "wikilink")(Ninesin)의 첫 플렝쓰 앨범이다. 본 앨범은 타이틀곡인 《Punishment》의 뮤직비디오가 수록된 [Enhanced CD로](https://ko.wikipedia.org/wiki/Enhanced_CD "wikilink") 구성되어 있다. 전반적인 스타일은 [하드코어](https://ko.wikipedia.org/wiki/하드코어 "wikilink")에 [메틀](https://ko.wikipedia.org/wiki/메틀 "wikilink")적인 사운드를 섞은 즉, 메탈릭한 리프와 멜로디컬한 파트들의 유기적인 결합이 잘 나타나는 [뉴스쿨](https://ko.wikipedia.org/wiki/뉴스쿨 "wikilink") [하드코어를](../Page/하드코어_펑크.md "wikilink") 표방하고 있다.
+《**The Death, We Will Face**》는 [2009년](../Page/2009년.md "wikilink") [3월 31일에](../Page/3월_31일.md "wikilink") [GMC 레코드](../Page/GMC_레코드.md "wikilink")(GMC Records)에서 발매된 [나인씬](../Page/나인씬.md "wikilink")(Ninesin)의 첫 플렝쓰 앨범이다. 본 앨범은 타이틀곡인 《Punishment》의 뮤직비디오가 수록된 [Enhanced CD로](https://ko.wikipedia.org/wiki/Enhanced_CD "wikilink") 구성되어 있다. 전반적인 스타일은 [하드코어](https://ko.wikipedia.org/wiki/하드코어 "wikilink")에 [메틀](https://ko.wikipedia.org/wiki/메틀 "wikilink")적인 사운드를 섞은 즉, 메탈릭한 리프와 멜로디컬한 파트들의 유기적인 결합이 잘 나타나는 [뉴스쿨](https://ko.wikipedia.org/wiki/뉴스쿨 "wikilink") [하드코어를](../Page/하드코어_펑크.md "wikilink") 표방하고 있다.
 
 ## 수록곡
 
@@ -34,7 +34,7 @@
 ## 앨범에 참여한 사람
 
   - 모든 트렉은 [나인씬](../Page/나인씬.md "wikilink")이 연주했다.
-  - 1번트렉을 제외한 모든 노래는 [나인씬](../Page/나인씬.md "wikilink")이 작사, 작곡했다. 1번 트렉 《Beyond The Horizon》은 [갓오브엠티니스](https://ko.wikipedia.org/wiki/갓오브엠티니스 "wikilink")의 조상현이 작곡했고, [에이팝](https://ko.wikipedia.org/wiki/에이팝 "wikilink")의 지미가 미디를 도와주었다.
+  - 1번트렉을 제외한 모든 노래는 [나인씬](../Page/나인씬.md "wikilink")이 작사, 작곡했다. 1번 트렉 《Beyond The Horizon》은 [갓오브엠티니스](https://ko.wikipedia.org/wiki/갓오브엠티니스 "wikilink")의 조상현이 작곡했고, [에이팝](../Page/에이팝.md "wikilink")의 지미가 미디를 도와주었다.
   - 《Punishment》, 《The Martyerd》에서는 [갓오브엠티니스](https://ko.wikipedia.org/wiki/갓오브엠티니스 "wikilink")의 조상현이 [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink")을 도와주었고, 《In The Battle》은 [바세린](../Page/바세린.md "wikilink")의 이기호가 [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink")을 도와주었고, 《Voice of Violence》에서는 [마제](https://ko.wikipedia.org/wiki/마제 "wikilink")의 김형군이 [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink")을 도와주었고, 《The Martyerd》에서 권준경이 나레이션을 도와주었다. 그리고 코러스는 [바세린](../Page/바세린.md "wikilink")의 조민영, 이기호, [마제](https://ko.wikipedia.org/wiki/마제 "wikilink")의 김형군이 도와주었다.
   - 앨범 자켓 및 속지에 관한 모든 아크워크는 [바세린](../Page/바세린.md "wikilink")의 이기호가 도와주었다.
   - 《Punishment》의 뮤직비디오는 [럭스의](../Page/럭스_\(밴드\).md "wikilink") 원종희가 감독했다.

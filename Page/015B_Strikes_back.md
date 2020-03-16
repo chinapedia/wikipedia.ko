@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [015B Strikes back](https://ko.wikipedia.org/wiki/015B_Strikes_back).
 
 
-《**015B Strikes Back**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 그룹 [015B](../Page/015B.md "wikilink")의 3번째 라이브 실황 [앨범이다](../Page/음반.md "wikilink"). [정석원](../Page/정석원_\(음악가\).md "wikilink"), [장호일](../Page/장호일.md "wikilink"), [김태우](../Page/김태우_\(1970년\).md "wikilink") 등이 참여했다. 이 음반은 네 가지의 포맷으로 발매되었는데, 여기에서 추가/삭제된 곡이 있다.
+《**015B Strikes Back**》는 [대한민국](../Page/대한민국.md "wikilink")의 그룹 [015B](../Page/015B.md "wikilink")의 3번째 라이브 실황 [앨범이다](../Page/음반.md "wikilink"). [정석원](../Page/정석원_\(음악가\).md "wikilink"), [장호일](../Page/장호일.md "wikilink"), [김태우](../Page/김태우_\(1970년\).md "wikilink") 등이 참여했다. 이 음반은 네 가지의 포맷으로 발매되었는데, 여기에서 추가/삭제된 곡이 있다.
 
 ## 곡 목록
 

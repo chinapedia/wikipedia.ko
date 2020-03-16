@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Never free](https://ko.wikipedia.org/wiki/Never_free).
 
 
-〈**Never free**〉는 [우에하라 아즈미의](../Page/우에하라_아즈미.md "wikilink") 일곱 번째 싱글이다. [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [4월 19일](https://ko.wikipedia.org/wiki/4월_19일 "wikilink") GIZA Studio에서 발매하였다.
+〈**Never free**〉는 [우에하라 아즈미의](../Page/우에하라_아즈미.md "wikilink") 일곱 번째 싱글이다. [2006년](../Page/2006년.md "wikilink") [4월 19일](../Page/4월_19일.md "wikilink") GIZA Studio에서 발매하였다.
 
 ## 개요
 

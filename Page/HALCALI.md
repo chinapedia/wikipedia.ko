@@ -1,12 +1,12 @@
 > This article is converted from Wikipedia: [HALCALI](https://ko.wikipedia.org/wiki/HALCALI).
 
 
-**HALCALI**는 일본의 여성 2인조 [힙합](../Page/힙합.md "wikilink") [음악 그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). 소속사는 다나베 에이전시, [레이블은](https://ko.wikipedia.org/wiki/레코드_레이블 "wikilink") [에픽 레코드 재팬](../Page/에픽_레코드_재팬.md "wikilink")(2005년에 포 라이프 뮤직 엔터테인먼트에서 이적)이다.
+**HALCALI**는 일본의 여성 2인조 [힙합](../Page/힙합.md "wikilink") [음악 그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). 소속사는 다나베 에이전시, [레이블은](../Page/레코드_레이블.md "wikilink") [에픽 레코드 재팬](../Page/에픽_레코드_재팬.md "wikilink")(2005년에 포 라이프 뮤직 엔터테인먼트에서 이적)이다.
 
 ## 구성원
 
-  - 하루카(HALCA, [1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink") [4월 21일](https://ko.wikipedia.org/wiki/4월_21일 "wikilink") \~) [도쿄도](https://ko.wikipedia.org/wiki/도쿄도 "wikilink") [메구로 구](https://ko.wikipedia.org/wiki/메구로_구 "wikilink") 출신
-  - 유카리(YUCALI, [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink") [7월 18일](https://ko.wikipedia.org/wiki/7월_18일 "wikilink") \~) 도쿄 도 메구로 구 출신
+  - 하루카(HALCA, [1988년](../Page/1988년.md "wikilink") [4월 21일](../Page/4월_21일.md "wikilink") \~) [도쿄도](../Page/도쿄도.md "wikilink") [메구로 구](https://ko.wikipedia.org/wiki/메구로_구 "wikilink") 출신
+  - 유카리(YUCALI, [1987년](../Page/1987년.md "wikilink") [7월 18일](../Page/7월_18일.md "wikilink") \~) 도쿄 도 메구로 구 출신
 
 각 구성원의 자세한 정보는 비공개이다.
 

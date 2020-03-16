@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ O.S.T](https://ko.wikipedia.org/wiki/_O.S.T).
 
 
-《**戀人**》은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 그룹 [015B](../Page/015B.md "wikilink") [정석원의](../Page/정석원_\(음악가\).md "wikilink") 드라마 OST [앨범이다](../Page/음반.md "wikilink"). [장호일](../Page/장호일.md "wikilink") 등이 참여했는데, 이 앨범 후에 명성을 떨치게 되는 [김돈규](https://ko.wikipedia.org/wiki/김돈규 "wikilink"), [조성민](../Page/조성민_\(가수\).md "wikilink") 등이 참여했다.
+《**戀人**》은 [대한민국](../Page/대한민국.md "wikilink")의 그룹 [015B](../Page/015B.md "wikilink") [정석원의](../Page/정석원_\(음악가\).md "wikilink") 드라마 OST [앨범이다](../Page/음반.md "wikilink"). [장호일](../Page/장호일.md "wikilink") 등이 참여했는데, 이 앨범 후에 명성을 떨치게 되는 [김돈규](https://ko.wikipedia.org/wiki/김돈규 "wikilink"), [조성민](../Page/조성민_\(가수\).md "wikilink") 등이 참여했다.
 
 [정석원의](../Page/정석원_\(음악가\).md "wikilink") 개인앨범일 수도 있는 이 음반엔 타이틀곡인 〈戀人〉이 4개의 버전으로 수록되었다.
 

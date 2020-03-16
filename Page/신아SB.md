@@ -14,19 +14,19 @@
 
 ## 연혁
 
-  - [1946년](https://ko.wikipedia.org/wiki/1946년 "wikilink") - 최기호조선소 설립
-  - [1976년](https://ko.wikipedia.org/wiki/1976년 "wikilink") - 신아조선공업(주)으로 상호 변경
-  - [1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink") - 신아조선공업(주)의 주식 10만주를 대우실업이 50%, 대우중공업이 50% 인수.\[1\] [대우조선공업에](../Page/대우조선해양.md "wikilink") 합병되어 법인 소멸
-  - [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink") - 전 사원들이 2백만원에서 1천만원까지 염출(자본금의 53.6%)하고 충무 지역 유지들의 출자를 받아 새 법인으로 출발
-  - [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink") - 출자액에 관계없이 직원 모두가 똑같이 성과급 분배받음
-  - [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") - (주)신아로 상호 변경
-  - [2006년 4월](https://ko.wikipedia.org/wiki/2006년_4월 "wikilink") - 신아조선(주)로 상호 변경
-  - [2006년 8월](https://ko.wikipedia.org/wiki/2006년_8월 "wikilink") - 우리사주조합이 보유한 지분 25.8%를 SLS중공업에 매각하면서 SLS그룹에 편입. SLS조선(주)로 상호 변경
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") - 11월 말 기준 SLS조선 수주잔량 세계 16위 기록\[2\]
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") - [워크아웃](https://ko.wikipedia.org/wiki/워크아웃 "wikilink") 신청
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") - 채권단 동의로 채무 상환 유예기간을 2012년 12월 31일까지로 연장하는 내용의 채무조정안을 결정, 경영정상화계획 이행약정 체결에 따른 출자전환으로 [한국무역보험공사](../Page/한국무역보험공사.md "wikilink")가 최대주주가 됨
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") - (주)신아에스비로 상호 변경
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") - 파산 선고
+  - [1946년](../Page/1946년.md "wikilink") - 최기호조선소 설립
+  - [1976년](../Page/1976년.md "wikilink") - 신아조선공업(주)으로 상호 변경
+  - [1978년](../Page/1978년.md "wikilink") - 신아조선공업(주)의 주식 10만주를 대우실업이 50%, 대우중공업이 50% 인수.\[1\] [대우조선공업에](../Page/대우조선해양.md "wikilink") 합병되어 법인 소멸
+  - [1991년](../Page/1991년.md "wikilink") - 전 사원들이 2백만원에서 1천만원까지 염출(자본금의 53.6%)하고 충무 지역 유지들의 출자를 받아 새 법인으로 출발
+  - [1992년](../Page/1992년.md "wikilink") - 출자액에 관계없이 직원 모두가 똑같이 성과급 분배받음
+  - [1998년](../Page/1998년.md "wikilink") - (주)신아로 상호 변경
+  - [2006년 4월](../Page/2006년_4월.md "wikilink") - 신아조선(주)로 상호 변경
+  - [2006년 8월](../Page/2006년_8월.md "wikilink") - 우리사주조합이 보유한 지분 25.8%를 SLS중공업에 매각하면서 SLS그룹에 편입. SLS조선(주)로 상호 변경
+  - [2008년](../Page/2008년.md "wikilink") - 11월 말 기준 SLS조선 수주잔량 세계 16위 기록\[2\]
+  - [2009년](../Page/2009년.md "wikilink") - [워크아웃](https://ko.wikipedia.org/wiki/워크아웃 "wikilink") 신청
+  - [2010년](../Page/2010년.md "wikilink") - 채권단 동의로 채무 상환 유예기간을 2012년 12월 31일까지로 연장하는 내용의 채무조정안을 결정, 경영정상화계획 이행약정 체결에 따른 출자전환으로 [한국무역보험공사](../Page/한국무역보험공사.md "wikilink")가 최대주주가 됨
+  - [2011년](../Page/2011년.md "wikilink") - (주)신아에스비로 상호 변경
+  - [2017년](../Page/2017년.md "wikilink") - 파산 선고
 
 ## SLS조선 횡령 사건
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FM](https://ko.wikipedia.org/wiki/FM).
 
 
-**국방FM**(國防FM)은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") [국방부에서](https://ko.wikipedia.org/wiki/대한민국_국방부 "wikilink") 관할하고 있는 [라디오](https://ko.wikipedia.org/wiki/라디오 "wikilink") 방송국이다.
+**국방FM**(國防FM)은 [대한민국](../Page/대한민국.md "wikilink") [국방부에서](../Page/대한민국_국방부.md "wikilink") 관할하고 있는 [라디오](../Page/라디오.md "wikilink") 방송국이다.
 
 ## 방송 현황
 

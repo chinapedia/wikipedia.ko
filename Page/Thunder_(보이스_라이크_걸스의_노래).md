@@ -5,12 +5,12 @@
 
 ## 순위
 
-| 순위 <small>([2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink"))</small> | 최고 순위 |
-| --------------------------------------------------------------------------- | ----- |
-| U.S. [빌보드 핫 100](../Page/빌보드_핫_100.md "wikilink")                           | 76    |
-| U.S. [빌보드 팝 100](https://ko.wikipedia.org/wiki/빌보드_팝_100 "wikilink")        | 32    |
-| U.S. [빌보드 톱 40](https://ko.wikipedia.org/wiki/빌보드_톱_40 "wikilink")          | 22    |
-|                                                                             |       |
+| 순위 <small>([2008년](../Page/2008년.md "wikilink"))</small>             | 최고 순위 |
+| -------------------------------------------------------------------- | ----- |
+| U.S. [빌보드 핫 100](../Page/빌보드_핫_100.md "wikilink")                    | 76    |
+| U.S. [빌보드 팝 100](https://ko.wikipedia.org/wiki/빌보드_팝_100 "wikilink") | 32    |
+| U.S. [빌보드 톱 40](https://ko.wikipedia.org/wiki/빌보드_톱_40 "wikilink")   | 22    |
+|                                                                      |       |
 
 ## 외부 링크
 

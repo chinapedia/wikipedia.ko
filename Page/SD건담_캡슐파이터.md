@@ -9,9 +9,9 @@
 
 ### 원작
 
-**기동전사 건담 시리즈**(, Mobile Suits GUNDAM series), 또는 **건담 시리즈**는 [일본](../Page/일본.md "wikilink")의 [로봇 애니메이션](https://ko.wikipedia.org/wiki/로봇_애니메이션 "wikilink") 작품인 《[기동전사 건담](https://ko.wikipedia.org/wiki/기동전사_건담_\(1979년\) "wikilink")》()을 그 시초로 하고 있는 속편 및 외전, 동시에 **건담**(, GUNDAM)이라는 이름을 가진 [로봇](https://ko.wikipedia.org/wiki/로봇 "wikilink")('모빌 슈츠')가 등장하는 작품군을 가리킨다.
+**기동전사 건담 시리즈**(, Mobile Suits GUNDAM series), 또는 **건담 시리즈**는 [일본](../Page/일본.md "wikilink")의 [로봇 애니메이션](https://ko.wikipedia.org/wiki/로봇_애니메이션 "wikilink") 작품인 《[기동전사 건담](https://ko.wikipedia.org/wiki/기동전사_건담_\(1979년\) "wikilink")》()을 그 시초로 하고 있는 속편 및 외전, 동시에 **건담**(, GUNDAM)이라는 이름을 가진 [로봇](../Page/로봇.md "wikilink")('모빌 슈츠')가 등장하는 작품군을 가리킨다.
 
-이 작품군은, 일본 및 세계의 애니메이션 및 [서브 컬처계에](https://ko.wikipedia.org/wiki/서브_컬처 "wikilink") 커다란 영향을 끼쳤다. 작품의 전개 양상도 TV판 [애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink")을 넘어서서, [영화](../Page/영화.md "wikilink"), [OVA](https://ko.wikipedia.org/wiki/OVA "wikilink"), [만화](https://ko.wikipedia.org/wiki/만화 "wikilink"), [소설](https://ko.wikipedia.org/wiki/소설 "wikilink"), [게임](https://ko.wikipedia.org/wiki/게임 "wikilink"), [특촬](https://ko.wikipedia.org/wiki/특촬 "wikilink"), [프라모델](../Page/프라모델.md "wikilink") 등 건담 시리즈를 주제로 하는 수많은 작품들이 제작 발표되었다.
+이 작품군은, 일본 및 세계의 애니메이션 및 [서브 컬처계에](https://ko.wikipedia.org/wiki/서브_컬처 "wikilink") 커다란 영향을 끼쳤다. 작품의 전개 양상도 TV판 [애니메이션](../Page/애니메이션.md "wikilink")을 넘어서서, [영화](../Page/영화.md "wikilink"), [OVA](https://ko.wikipedia.org/wiki/OVA "wikilink"), [만화](../Page/만화.md "wikilink"), [소설](../Page/소설.md "wikilink"), [게임](../Page/게임.md "wikilink"), [특촬](https://ko.wikipedia.org/wiki/특촬 "wikilink"), [프라모델](../Page/프라모델.md "wikilink") 등 건담 시리즈를 주제로 하는 수많은 작품들이 제작 발표되었다.
 
 '기동전사 건담'은, 그 주제로는 로봇 애니메이션에 해당하면서도, 종래의 악의 조직 또는 우주인과, 정의의 편인 주인공이 싸우는 식의 이른바 '히어로틱한 묘사'를 탈피하여, 자체적으로 확립한 고유의 세계관 안에서 국가, 전쟁, 인물상 등을 묘사하며, '[모빌 슈츠](https://ko.wikipedia.org/wiki/모빌_슈츠 "wikilink")'라 불리는 인간형 로봇 병기는 어디까지나 [병기의](https://ko.wikipedia.org/wiki/병기_\(군사\) "wikilink") 하나로, 소도구 형태로 취급하였다. SF세계임에도 불구하고, 이러한 로봇의 상(像)은 이후에 **[리얼 로봇](https://ko.wikipedia.org/wiki/리얼_로봇 "wikilink")**으로 불리게 되며, 이후의 로봇 애니메이션을 [SF](https://ko.wikipedia.org/wiki/과학_소설 "wikilink") 차원으로의 발전으로 이어가게 된다.
 
@@ -60,15 +60,15 @@
   - [기동전사 건담 0083](https://ko.wikipedia.org/wiki/기동전사_건담_0083 "wikilink")
   - [기동전사 Z 건담](https://ko.wikipedia.org/wiki/기동전사_Z_건담 "wikilink")
   - [기동전사 ZZ 건담](https://ko.wikipedia.org/wiki/기동전사_ZZ_건담 "wikilink")
-  - [기동전사 건담 역습의 샤아](https://ko.wikipedia.org/wiki/기동전사_건담_역습의_샤아 "wikilink")
+  - [기동전사 건담 역습의 샤아](../Page/기동전사_건담_역습의_샤아.md "wikilink")
   - [기동전사 건담 UC](../Page/기동전사_건담_UC.md "wikilink")
   - [기동전사 건담 F91](https://ko.wikipedia.org/wiki/기동전사_건담_F91 "wikilink")
   - [기동무투전 G 건담](../Page/기동무투전_G_건담.md "wikilink")
   - [신기동전기 건담W](https://ko.wikipedia.org/wiki/신기동전기_건담W "wikilink")
   - [신기동전기 건담 W - Endless Waltz -](https://ko.wikipedia.org/wiki/신기동전기_건담_W_-_Endless_Waltz_- "wikilink")
   - [기동신세기 건담 X](https://ko.wikipedia.org/wiki/기동신세기_건담_X "wikilink")
-  - [기동전사 건담 SEED](https://ko.wikipedia.org/wiki/기동전사_건담_SEED "wikilink")
-  - [기동전사 건담 SEED DESTINY](https://ko.wikipedia.org/wiki/기동전사_건담_SEED_DESTINY "wikilink")
+  - [기동전사 건담 SEED](../Page/기동전사_건담_SEED.md "wikilink")
+  - [기동전사 건담 SEED DESTINY](../Page/기동전사_건담_SEED_DESTINY.md "wikilink")
   - [기동전사 건담 00](https://ko.wikipedia.org/wiki/기동전사_건담_00 "wikilink")
   - [SD 건담 삼국전](https://ko.wikipedia.org/wiki/SD_건담_삼국전 "wikilink")
   - [턴에이 건담](https://ko.wikipedia.org/wiki/턴에이_건담 "wikilink")

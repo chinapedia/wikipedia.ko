@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Hey! Say! JUMP](https://ko.wikipedia.org/wiki/Hey!_Say!_JUMP).
 
 
-**Hey\! Say\! JUMP**(헤이\! 세이\! 점프, 약칭 **HSJ**&**Hey\! Say\! Johnny's Ultra Music Power**)는, [일본](../Page/일본.md "wikilink")의 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") 그룹이다. 소속 사무소는 [쟈니즈 사무소](https://ko.wikipedia.org/wiki/자니스_사무소 "wikilink"), 소속 레이블은 [제이 스톰](https://ko.wikipedia.org/wiki/제이스톰 "wikilink"). [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [9월 24일](https://ko.wikipedia.org/wiki/9월_24일 "wikilink") 결성\[1\]\[2\]. 리더가 없는 그룹이다.
+**Hey\! Say\! JUMP**(헤이\! 세이\! 점프, 약칭 **HSJ**&**Hey\! Say\! Johnny's Ultra Music Power**)는, [일본](../Page/일본.md "wikilink")의 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") 그룹이다. 소속 사무소는 [쟈니즈 사무소](../Page/자니스_사무소.md "wikilink"), 소속 레이블은 [제이 스톰](https://ko.wikipedia.org/wiki/제이스톰 "wikilink"). [2007년](../Page/2007년.md "wikilink") [9월 24일](../Page/9월_24일.md "wikilink") 결성\[1\]\[2\]. 리더가 없는 그룹이다.
 
 ## 멤버
 
-  - A.Y.T:[타카키 유야](https://ko.wikipedia.org/wiki/타카키_유야 "wikilink")(최연장자/Hey\!Say\!BEST), [아리오카 다이키](https://ko.wikipedia.org/wiki/아리오카_다이키 "wikilink")(최연장자/Hey\!Say\!BEST), [야오토메 히카루](https://ko.wikipedia.org/wiki/야오토메_히카루 "wikilink")(최연장자/Hey\!Say\!BEST)
-  - Hey\!Say\!BEST:[타카키 유야](https://ko.wikipedia.org/wiki/타카키_유야 "wikilink")(최연장자/A.Y.T), [아리오카 다이키](https://ko.wikipedia.org/wiki/아리오카_다이키 "wikilink")(최연장자/A.Y.T), [이노오 케이](../Page/이노오_케이.md "wikilink")(최연장자), [야오토메 히카루](https://ko.wikipedia.org/wiki/야오토메_히카루 "wikilink")(최연장자/A.Y.T), [야부 코타](https://ko.wikipedia.org/wiki/야부_코타 "wikilink")(최연장자)
-  - Hey\!Say\!7:[야마다 료스케](https://ko.wikipedia.org/wiki/야마다_료스케 "wikilink")(최연소), [치넨 유리](../Page/치넨_유리.md "wikilink")(최연소),[나카지마 유토](https://ko.wikipedia.org/wiki/나카지마_유토 "wikilink")(최연소), [오카모토 케이토](https://ko.wikipedia.org/wiki/오카모토_케이토 "wikilink")(최연소, [9월](https://ko.wikipedia.org/wiki/9월 "wikilink")\~현재:[미국](https://ko.wikipedia.org/wiki/미국 "wikilink")[뉴욕](https://ko.wikipedia.org/wiki/뉴욕 "wikilink")[아메리칸아카데미오브드라마틱아트](https://ko.wikipedia.org/wiki/아메리칸아카데미오브드라마틱아트 "wikilink")([연기](https://ko.wikipedia.org/wiki/연기 "wikilink")와[노래](https://ko.wikipedia.org/wiki/노래 "wikilink")를배울것)
+  - A.Y.T:[타카키 유야](../Page/타카키_유야.md "wikilink")(최연장자/Hey\!Say\!BEST), [아리오카 다이키](../Page/아리오카_다이키.md "wikilink")(최연장자/Hey\!Say\!BEST), [야오토메 히카루](../Page/야오토메_히카루.md "wikilink")(최연장자/Hey\!Say\!BEST)
+  - Hey\!Say\!BEST:[타카키 유야](../Page/타카키_유야.md "wikilink")(최연장자/A.Y.T), [아리오카 다이키](../Page/아리오카_다이키.md "wikilink")(최연장자/A.Y.T), [이노오 케이](../Page/이노오_케이.md "wikilink")(최연장자), [야오토메 히카루](../Page/야오토메_히카루.md "wikilink")(최연장자/A.Y.T), [야부 코타](../Page/야부_코타.md "wikilink")(최연장자)
+  - Hey\!Say\!7:[야마다 료스케](../Page/야마다_료스케.md "wikilink")(최연소), [치넨 유리](../Page/치넨_유리.md "wikilink")(최연소),[나카지마 유토](../Page/나카지마_유토.md "wikilink")(최연소), [오카모토 케이토](../Page/오카모토_케이토.md "wikilink")(최연소, [9월](../Page/9월.md "wikilink")\~현재:[미국](../Page/미국.md "wikilink")[뉴욕](../Page/뉴욕.md "wikilink")[아메리칸아카데미오브드라마틱아트](https://ko.wikipedia.org/wiki/아메리칸아카데미오브드라마틱아트 "wikilink")([연기](https://ko.wikipedia.org/wiki/연기 "wikilink")와[노래](https://ko.wikipedia.org/wiki/노래 "wikilink")를배울것)
 
 ## 개요
 
@@ -288,13 +288,13 @@
 ### 버라이어티 프로그램
 
   - 폭소 100분 TV\! 헤이세이 패밀리즈 (2007년 10월 7일 \~ 2008년 3월 30일, [닛폰 TV](../Page/닛폰_TV_방송망.md "wikilink")) - 나카지마, 야마다, 모리모토
-  - 힘내라 닛폰\! W배 배구로 JUMP - 백식 과외 수업 - (2007년 10월 22일 \~ 25일·29일 \~ 11월 1일, [후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink"))
+  - 힘내라 닛폰\! W배 배구로 JUMP - 백식 과외 수업 - (2007년 10월 22일 \~ 25일·29일 \~ 11월 1일, [후지 TV](../Page/후지_TV.md "wikilink"))
   - Hi\! Hey\! Say\! (2007년 11월 3일 \~ 2009년 9월 26일, [TV 도쿄](../Page/TV_도쿄.md "wikilink")) - 야부, 야오토메
   - 시공간☆세대 배틀 쇼와×헤이세이 (2008년 4월 6일 \~ 2009년 3월 29일, 닛폰 TV) - 나카지마, 야마다, 모리모토
   - 힘내라 닛폰\! 베이징에 JUMP·백식왕 특별 집중 수업 (2008년 5월 12일 \~ 15일, 후지 TV)
   - 스쿨 혁명\! (2009년 4월 5일 \~ , 닛폰 TV) - 야마다, 치넨, 야오토메
   - 주말 YY JUMPing (2009년 10월 10일 \~ 2011년 3월 26일, TV 도쿄) - 야부, 야오토메
-  - [더 소년구락부](../Page/소년구락부.md "wikilink") (2010년 4월 2일 \~ 2014년 3월 26일, [NHK](https://ko.wikipedia.org/wiki/일본방송협회 "wikilink")) - 2011년 4월 이전까지 프로그램 서포터, 이후부터 사회
+  - [더 소년구락부](../Page/소년구락부.md "wikilink") (2010년 4월 2일 \~ 2014년 3월 26일, [NHK](../Page/일본방송협회.md "wikilink")) - 2011년 4월 이전까지 프로그램 서포터, 이후부터 사회
   - 양양 JUMP (2011년 4월 16일 \~ 2013년 6월 30일, TV 도쿄)
   - [리틀 도쿄 라이브](https://ko.wikipedia.org/wiki/리틀_도쿄_라이브 "wikilink") (2014년 10월 8일 \~ 2019 9월 26일 , TV 도쿄)
   - 이타다키하이점프 (2015년 6월 10일 \~ , 후지 TV)

@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [HMS   \(R07\)](https://ko.wikipedia.org/wiki/HMS___\(R07\)).
 
 
-**HMS 아크 로얄**(HMS Ark Royal)은 [인빈시블급 항공모함의](../Page/인빈시블급_항공모함.md "wikilink") 마지막 함이다. [스페인 무적함대를](https://ko.wikipedia.org/wiki/스페인_무적함대 "wikilink") 격파한 영국 함대 기함의 이름을 딴 5번째 함이다. [HMS 인빈시블의](https://ko.wikipedia.org/wiki/HMS_인빈시블 "wikilink") 7도 경사 스키 점프대 대신 12도 스키 점프대를 설치하면서, 아크 로얄은 동급인 인빈시블과 [HMS 일러스트리어스](https://ko.wikipedia.org/wiki/HMS_일러스트리어스 "wikilink") 보다 크게 제작되었다. 이것은 [VSTOL](https://ko.wikipedia.org/wiki/VSTOL "wikilink")기의 이륙을 보다 좋게 해주었다. 현재 영국 함대 기함이다. 영국 해군은 현재 HMS 아크 로얄과 [HMS 일러스트리어스](https://ko.wikipedia.org/wiki/HMS_일러스트리어스 "wikilink") 2대의 [항공모함](https://ko.wikipedia.org/wiki/항공모함 "wikilink")을 운용중이다.
+**HMS 아크 로얄**(HMS Ark Royal)은 [인빈시블급 항공모함의](../Page/인빈시블급_항공모함.md "wikilink") 마지막 함이다. [스페인 무적함대를](https://ko.wikipedia.org/wiki/스페인_무적함대 "wikilink") 격파한 영국 함대 기함의 이름을 딴 5번째 함이다. [HMS 인빈시블의](https://ko.wikipedia.org/wiki/HMS_인빈시블 "wikilink") 7도 경사 스키 점프대 대신 12도 스키 점프대를 설치하면서, 아크 로얄은 동급인 인빈시블과 [HMS 일러스트리어스](https://ko.wikipedia.org/wiki/HMS_일러스트리어스 "wikilink") 보다 크게 제작되었다. 이것은 [VSTOL](https://ko.wikipedia.org/wiki/VSTOL "wikilink")기의 이륙을 보다 좋게 해주었다. 현재 영국 함대 기함이다. 영국 해군은 현재 HMS 아크 로얄과 [HMS 일러스트리어스](https://ko.wikipedia.org/wiki/HMS_일러스트리어스 "wikilink") 2대의 [항공모함](../Page/항공모함.md "wikilink")을 운용중이다.
 
 ## 중국에 판매
 
-2011년 영국 정부는 재정위기로 인해, 아크 로얄을 350만파운드에 판매한다고 발표했다. [중국](https://ko.wikipedia.org/wiki/중국 "wikilink")이 구매하려고 한다. 원래 아크로얄은 2015년 퇴역예정이었다. 영국은 1척의 인빈시블급을 운영중인데, 2척의 [퀸 엘리자베스급 항공모함을](https://ko.wikipedia.org/wiki/퀸_엘리자베스급_항공모함 "wikilink") 건조중이다.
+2011년 영국 정부는 재정위기로 인해, 아크 로얄을 350만파운드에 판매한다고 발표했다. [중국](../Page/중국.md "wikilink")이 구매하려고 한다. 원래 아크로얄은 2015년 퇴역예정이었다. 영국은 1척의 인빈시블급을 운영중인데, 2척의 [퀸 엘리자베스급 항공모함을](../Page/퀸_엘리자베스급_항공모함.md "wikilink") 건조중이다.
 
 ## 무기와 비행기
 

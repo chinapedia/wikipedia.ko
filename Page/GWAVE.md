@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [GWAVE](https://ko.wikipedia.org/wiki/GWAVE).
 
 
-**GWAVE**는 [미소녀 게임의](https://ko.wikipedia.org/wiki/미소녀_게임 "wikilink") 주제가를 하나씩 정리해 만든 [컴필레이션 앨범을](https://ko.wikipedia.org/wiki/컴필레이션_앨범 "wikilink") 말한다.
+**GWAVE**는 [미소녀 게임의](../Page/미소녀_게임.md "wikilink") 주제가를 하나씩 정리해 만든 [컴필레이션 앨범을](https://ko.wikipedia.org/wiki/컴필레이션_앨범 "wikilink") 말한다.
 
 ## 개요
 
 주식회사 IMA엔터테인먼트가 발매하고 있는 GWAVE는, 미소녀 게임의 주제가를 1개로 정리한 컴필레이션 앨범이며, 프로듀서 카토 요시하루에 의해서 기획 입안되었다. 기획의 동기는 평소 미소녀 게임의 음악을 좋아했기 때문이라고 게임 잡지와의 인터뷰에서 카토가 털어 놓았다.\[1\] 또, 다른 곳의 인터뷰에서도 같은 발언을 하고 있었다.\[2\]
 
-[GWAVE 시리즈는](https://ko.wikipedia.org/wiki/GWAVE_시리즈 "wikilink"), 2003년 12월의 1매 발매 이후, 현재에 이르기까지 장기 시리즈로 발매 되고 있다. 또, 그 사이에 [GWAVE SuperFeature's 시리즈를](https://ko.wikipedia.org/wiki/GWAVE_SuperFeature's_시리즈 "wikilink") 새롭게 발매하거나 미소녀 게임 브랜드〈WAVESTAR〉를 GWAVE의 부문으로서 설립하거나 하는 등, 미소녀 게임 음악을 중심으로 여러가지를 기획하고 있다.
+[GWAVE 시리즈는](https://ko.wikipedia.org/wiki/GWAVE_시리즈 "wikilink"), 2003년 12월의 1매 발매 이후, 현재에 이르기까지 장기 시리즈로 발매 되고 있다. 또, 그 사이에 [GWAVE SuperFeature's 시리즈를](../Page/GWAVE_SuperFeature's_시리즈.md "wikilink") 새롭게 발매하거나 미소녀 게임 브랜드〈WAVESTAR〉를 GWAVE의 부문으로서 설립하거나 하는 등, 미소녀 게임 음악을 중심으로 여러가지를 기획하고 있다.
 
 대부분의 앨범의 한정판에는 [전화카드](https://ko.wikipedia.org/wiki/전화카드 "wikilink")가 끼워져 판매되기도 한다. 전화카드의 일러스트는 발매 CD의 표지 일러스트를 맡은 작가가 그린다.
 
@@ -15,13 +15,13 @@
 
 1년을 상반기(1\~6월)와 하반기(7\~12월)로 나누어 그 기간에 발매된 미소녀 게임의 주제가를 수록하고있고 쟈켓 일러스트는 2명의 소녀를 미소녀 게임의 원화가가 그리는 것이 통례가 되고 있다. 미소녀 게임의 베스트 앨범의 성격을 띠고 있다.
 
-  - [GWAVE SuperFeature's 시리즈](https://ko.wikipedia.org/wiki/GWAVE_SuperFeature's_시리즈 "wikilink")
+  - [GWAVE SuperFeature's 시리즈](../Page/GWAVE_SuperFeature's_시리즈.md "wikilink")
 
 미소녀 게임의 발매 시기에 연연하지 않는 대신 미소녀 게임의 주제가를 부른 가수의 앨범 형식으로 발매하고 있다. 통상 음반의 제작 지원은 해당 주제가의 게임사가 지원한다. GWAVE 시리즈와 달리 베스트 앨범이 아닌 가수의 앨범 형식을 취하고 있다.
 
   - 전자상가 기념품 시리즈
 
-“[오타쿠](https://ko.wikipedia.org/wiki/오타쿠 "wikilink") 전자상가에만 있을 것 같은 내용”과“새로운 만남의 있는 음악 CD”\[3\]를 테마로 한 새로운 앨범 시리즈로 다른 시리즈와 달리 거의 모든 수록곡이 오리지널 작품이다. 테크노 어레인지한 소위 전파 송이 중심이 되어, 전체적으로 어퍼 템포인 작품으로 완성하고 있다. 전자상가 기념품 시리즈의 작품은 기본적으로 GWAVE SuperFeature's 시리즈로서 넘버링 되고 있다.
+“[오타쿠](../Page/오타쿠.md "wikilink") 전자상가에만 있을 것 같은 내용”과“새로운 만남의 있는 음악 CD”\[3\]를 테마로 한 새로운 앨범 시리즈로 다른 시리즈와 달리 거의 모든 수록곡이 오리지널 작품이다. 테크노 어레인지한 소위 전파 송이 중심이 되어, 전체적으로 어퍼 템포인 작품으로 완성하고 있다. 전자상가 기념품 시리즈의 작품은 기본적으로 GWAVE SuperFeature's 시리즈로서 넘버링 되고 있다.
 
 ## 발매 예정
 

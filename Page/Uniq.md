@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Uniq](https://ko.wikipedia.org/wiki/Uniq).
 
 
-**`uniq`**(유니크)는 텍스트 파일 내에 중복된 내용의 행이 연속으로 있으면 중복 없이 하나의 행으로 만들어 주는 [유닉스](https://ko.wikipedia.org/wiki/유닉스 "wikilink") 유틸리티이다. **`uniq`**는 일종의 [필터 프로그램](https://ko.wikipedia.org/wiki/필터_프로그램 "wikilink")(filter program)으로 보통 [`sort`](https://ko.wikipedia.org/wiki/sort "wikilink")뒤에 덧붙여 사용된다. 또한 `-d`옵션을 적용하여 중복되는 행만을 볼 수 있거나, `-c`옵션을 적용하여 중복행의 중복횟수를 출력할 수 있다.
+**`uniq`**(유니크)는 텍스트 파일 내에 중복된 내용의 행이 연속으로 있으면 중복 없이 하나의 행으로 만들어 주는 [유닉스](../Page/유닉스.md "wikilink") 유틸리티이다. **`uniq`**는 일종의 [필터 프로그램](https://ko.wikipedia.org/wiki/필터_프로그램 "wikilink")(filter program)으로 보통 [`sort`](https://ko.wikipedia.org/wiki/sort "wikilink")뒤에 덧붙여 사용된다. 또한 `-d`옵션을 적용하여 중복되는 행만을 볼 수 있거나, `-c`옵션을 적용하여 중복행의 중복횟수를 출력할 수 있다.
 
 ## 예시
 
@@ -61,7 +61,7 @@
 
 ## 외부 링크
 
-  - [uniq's](http://www.linuxmanpages.com/man1/uniq.1.php) [리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink") [맨페이지](https://ko.wikipedia.org/wiki/man_page "wikilink")(man page)
+  - [uniq's](http://www.linuxmanpages.com/man1/uniq.1.php) [리눅스](../Page/리눅스.md "wikilink") [맨페이지](https://ko.wikipedia.org/wiki/man_page "wikilink")(man page)
   - [SourceForge UnxUtils – Port of the most important GNU utilities to Windows](http://sourceforge.net/projects/unxutils/)
 
 [분류:유닉스 텍스트 처리 유틸리티](https://ko.wikipedia.org/wiki/분류:유닉스_텍스트_처리_유틸리티 "wikilink") [분류:유닉스 SUS2008 유틸리티](https://ko.wikipedia.org/wiki/분류:유닉스_SUS2008_유틸리티 "wikilink")

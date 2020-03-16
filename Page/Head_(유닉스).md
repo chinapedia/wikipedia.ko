@@ -33,7 +33,7 @@ head 명령어는 아무 옵션 없이 사용될 경우, 입력된 데이터의 
 
 ## 외부 링크
 
-  - [head](http://www.gnu.org/software/coreutils/manual/html_node/head-invocation.html) manual page from [GNU](https://ko.wikipedia.org/wiki/GNU "wikilink") [coreutils](https://ko.wikipedia.org/wiki/coreutils "wikilink").
+  - [head](http://www.gnu.org/software/coreutils/manual/html_node/head-invocation.html) manual page from [GNU](../Page/GNU.md "wikilink") [coreutils](https://ko.wikipedia.org/wiki/coreutils "wikilink").
   - [FreeBSD documentation for head](http://www.freebsd.org/cgi/man.cgi?query=head&apropos=0&sektion=0&manpath=FreeBSD+5.3-RELEASE+and+Ports&format=html)
 
 [분류:유닉스 텍스트 처리 유틸리티](https://ko.wikipedia.org/wiki/분류:유닉스_텍스트_처리_유틸리티 "wikilink") [분류:유닉스 SUS2008 유틸리티](https://ko.wikipedia.org/wiki/분류:유닉스_SUS2008_유틸리티 "wikilink")

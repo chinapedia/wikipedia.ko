@@ -1,14 +1,14 @@
 > This article is converted from Wikipedia: [SPEED \(  \)](https://ko.wikipedia.org/wiki/SPEED_\(__\)).
 
 
-**SPEED**는 [일본](../Page/일본.md "wikilink")의 여성 4인조 보컬 [댄스](https://ko.wikipedia.org/wiki/댄스 "wikilink") [음악 그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). [1990년대](https://ko.wikipedia.org/wiki/1990년대 "wikilink")를 대표하는 그룹이었지만, [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink")에 해체하였다. 그 후 2번 기간 한정으로 재결성했다가, [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink")에 완전히 재결성하였다.
+**SPEED**는 [일본](../Page/일본.md "wikilink")의 여성 4인조 보컬 [댄스](https://ko.wikipedia.org/wiki/댄스 "wikilink") [음악 그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). [1990년대](../Page/1990년대.md "wikilink")를 대표하는 그룹이었지만, [2000년](../Page/2000년.md "wikilink")에 해체하였다. 그 후 2번 기간 한정으로 재결성했다가, [2008년](../Page/2008년.md "wikilink")에 완전히 재결성하였다.
 
 ## 멤버 구성원
 
-  - [히토에](https://ko.wikipedia.org/wiki/아라가키_히토에 "wikilink") (보컬 댄스) - [1981년](https://ko.wikipedia.org/wiki/1981년 "wikilink") [4월 7일](https://ko.wikipedia.org/wiki/4월_7일 "wikilink")
-  - [우에하라 다카코](https://ko.wikipedia.org/wiki/우에하라_다카코 "wikilink") (보컬, 댄스) - [1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink") [1월 14일](https://ko.wikipedia.org/wiki/1월_14일 "wikilink")
-  - [이마이 에리코](https://ko.wikipedia.org/wiki/이마이_에리코 "wikilink") (메인 보컬) - [1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink") [9월 22일](https://ko.wikipedia.org/wiki/9월_22일 "wikilink")
-  - [히로](https://ko.wikipedia.org/wiki/시마부쿠로_히로코 "wikilink") (메인 보컬) - [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") [4월 7일](https://ko.wikipedia.org/wiki/4월_7일 "wikilink")
+  - [히토에](https://ko.wikipedia.org/wiki/아라가키_히토에 "wikilink") (보컬 댄스) - [1981년](../Page/1981년.md "wikilink") [4월 7일](../Page/4월_7일.md "wikilink")
+  - [우에하라 다카코](https://ko.wikipedia.org/wiki/우에하라_다카코 "wikilink") (보컬, 댄스) - [1983년](../Page/1983년.md "wikilink") [1월 14일](../Page/1월_14일.md "wikilink")
+  - [이마이 에리코](https://ko.wikipedia.org/wiki/이마이_에리코 "wikilink") (메인 보컬) - [1983년](../Page/1983년.md "wikilink") [9월 22일](../Page/9월_22일.md "wikilink")
+  - [히로](https://ko.wikipedia.org/wiki/시마부쿠로_히로코 "wikilink") (메인 보컬) - [1984년](../Page/1984년.md "wikilink") [4월 7일](../Page/4월_7일.md "wikilink")
 
 ## 음반 목록
 

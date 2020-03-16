@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KB](https://ko.wikipedia.org/wiki/KB).
 
 
-**KB금융그룹**(KB Financial Group Inc.)은 [신한금융그룹](https://ko.wikipedia.org/wiki/신한금융그룹 "wikilink"), [우리금융그룹](../Page/우리금융그룹.md "wikilink"), [하나금융그룹](../Page/하나금융그룹.md "wikilink"), [NH농협금융그룹](https://ko.wikipedia.org/wiki/NH농협금융그룹 "wikilink")과 함께 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 5대 금융그룹을 형성한다.
+**KB금융그룹**(KB Financial Group Inc.)은 [신한금융그룹](https://ko.wikipedia.org/wiki/신한금융그룹 "wikilink"), [우리금융그룹](../Page/우리금융그룹.md "wikilink"), [하나금융그룹](../Page/하나금융그룹.md "wikilink"), [NH농협금융그룹](https://ko.wikipedia.org/wiki/NH농협금융그룹 "wikilink")과 함께 [대한민국](../Page/대한민국.md "wikilink")의 5대 금융그룹을 형성한다.
 
 ## 연혁
 
@@ -47,9 +47,9 @@
 ### 자회사 구성
 
   - [KB국민은행](https://ko.wikipedia.org/wiki/KB국민은행 "wikilink") ([KB국민은행 홈페이지](http://www.kbstar.co.kr))
-  - [KB증권](https://ko.wikipedia.org/wiki/KB증권 "wikilink") ([KB증권 홈페이지](https://web.archive.org/web/20161220160552/https://www.hdable.co.kr/go.able))
-  - [KB손해보험](https://ko.wikipedia.org/wiki/KB손해보험 "wikilink") ([KB손해보험 홈페이지](http://www.kbinsure.co.kr))
-  - [KB국민카드](https://ko.wikipedia.org/wiki/KB국민카드 "wikilink") ([KB국민카드 홈페이지](http://www.kbcard.com))
+  - [KB증권](../Page/KB증권.md "wikilink") ([KB증권 홈페이지](https://web.archive.org/web/20161220160552/https://www.hdable.co.kr/go.able))
+  - [KB손해보험](../Page/KB손해보험.md "wikilink") ([KB손해보험 홈페이지](http://www.kbinsure.co.kr))
+  - [KB국민카드](../Page/KB국민카드.md "wikilink") ([KB국민카드 홈페이지](http://www.kbcard.com))
   - [KB생명보험](../Page/KB생명보험.md "wikilink") ([KB생명보험 홈페이지](http://www.kbli.co.kr))
   - [KB자산운용](https://ko.wikipedia.org/wiki/KB자산운용 "wikilink") ([KB자산운용 홈페이지](http://www.kbam.co.kr))
   - [KB캐피탈](https://ko.wikipedia.org/wiki/KB캐피탈 "wikilink") ([KB캐피탈 홈페이지](http://www.kbcapital.co.kr))

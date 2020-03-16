@@ -8,17 +8,17 @@
 ### CD 1
 
 1.  Dream \~ 내일로의 시작
-      - [더 파이팅](https://ko.wikipedia.org/wiki/더_파이팅 "wikilink") 여는 노래
+      - [더 파이팅](../Page/더_파이팅.md "wikilink") 여는 노래
       - 작곡, 편곡, 기타, 베이스, 프로그램 : 김정배
-      - 작사 : [신동식](https://ko.wikipedia.org/wiki/신동식 "wikilink"), 김정배
+      - 작사 : [신동식](../Page/신동식.md "wikilink"), 김정배
       - 노래 : 이영준
       - 드럼 : 김민철
       - 엔지니어 : 최경섭, Kenzie
       - 녹음실 : Non Stop Media
 2.  그게 바로 너란 걸
-      - [더 파이팅](https://ko.wikipedia.org/wiki/더_파이팅 "wikilink") 닫는 노래
+      - [더 파이팅](../Page/더_파이팅.md "wikilink") 닫는 노래
       - 작곡, 편곡, 프로그래밍 : [이창희](https://ko.wikipedia.org/wiki/이창희 "wikilink")
-      - 작사 : [신동식](https://ko.wikipedia.org/wiki/신동식 "wikilink")
+      - 작사 : [신동식](../Page/신동식.md "wikilink")
       - 노래 : 안젤로
       - 베이스 : 윤종부
       - 피아노 : 신병준
@@ -27,7 +27,7 @@
 3.  with you…
       - [신기동전기 건담 W](../Page/신기동전기_건담_W.md "wikilink") 닫는 노래
       - 작곡, 편곡, 코러스, 프로그래밍 : [이창희](https://ko.wikipedia.org/wiki/이창희 "wikilink")
-      - 작사 : [신동식](https://ko.wikipedia.org/wiki/신동식 "wikilink")
+      - 작사 : [신동식](../Page/신동식.md "wikilink")
       - 노래 : 이혜주 (올드패션 크림파이 보컬)
       - 기타, 베이스 : 올드패션 크림파이
       - 드럼 : 강수호
@@ -36,7 +36,7 @@
 4.  출사표(出師表)
       - [행복한 세상의 족제비](https://ko.wikipedia.org/wiki/행복한_세상의_족제비 "wikilink") 닫는 노래
       - 작곡, 편곡, 프로그래밍 : [박정식](https://ko.wikipedia.org/wiki/박정식 "wikilink")
-      - 작사 : [신동식](https://ko.wikipedia.org/wiki/신동식 "wikilink")
+      - 작사 : [신동식](../Page/신동식.md "wikilink")
       - 노래 : 유정석
       - 기타 : 서민영
       - 베이스 : 박한진
@@ -56,7 +56,7 @@
 6.  세월의 동화
       - [우당탕탕 닥터 지](https://ko.wikipedia.org/wiki/우당탕탕_닥터_지 "wikilink") 여는 노래
       - 작곡, 편곡, 노래, 프로그래밍 : [이창희](https://ko.wikipedia.org/wiki/이창희 "wikilink")
-      - 작사 : [신동식](https://ko.wikipedia.org/wiki/신동식 "wikilink")
+      - 작사 : [신동식](../Page/신동식.md "wikilink")
       - 기타 : 이종교
       - 베이스 : 윤종부
       - 피아노 : 신병준
@@ -74,7 +74,7 @@
       - 엔지니어 : 이필호
       - 녹음실 : ARSNOVA Studio
 8.  Memory
-      - [신비한 바다의 나디아](https://ko.wikipedia.org/wiki/신비한_바다의_나디아 "wikilink") 닫는 노래 (Remake)
+      - [신비한 바다의 나디아](../Page/신비한_바다의_나디아.md "wikilink") 닫는 노래 (Remake)
       - 작곡, 편곡, 프로그래밍 : [이창희](https://ko.wikipedia.org/wiki/이창희 "wikilink")
       - 작사 : [이창희](https://ko.wikipedia.org/wiki/이창희 "wikilink"), 우동훈
       - 노래 : 우동훈
@@ -85,7 +85,7 @@
       - 엔지니어 : 하정수
       - 녹음실 : KOCCA Studio, WSM Studio
 9.  소녀의 로망
-      - [아즈망가 대왕](https://ko.wikipedia.org/wiki/아즈망가_대왕 "wikilink") 닫는 노래
+      - [아즈망가 대왕](../Page/아즈망가_대왕.md "wikilink") 닫는 노래
       - 작사, 작곡 : http 404 errors
       - 편곡 : 박상원, http 404 errors
       - 노래 : 김예니
@@ -99,7 +99,7 @@
 10. 나의 너를 위해
       - [작은 눈의 요정 슈가](../Page/작은_눈의_요정_슈가.md "wikilink") 여는 노래
       - 작곡, 편곡, 프로그래밍 : [이창희](https://ko.wikipedia.org/wiki/이창희 "wikilink")
-      - 작사 : [신동식](https://ko.wikipedia.org/wiki/신동식 "wikilink")
+      - 작사 : [신동식](../Page/신동식.md "wikilink")
       - 노래 : 방진의
       - 기타 : 함춘호
       - 베이스 : 윤종부
@@ -111,7 +111,7 @@
 11. 너에게만
       - [미소의 세상](https://ko.wikipedia.org/wiki/미소의_세상 "wikilink") 여는 노래
       - 작곡, 편곡, 프로그래밍 : [이창희](https://ko.wikipedia.org/wiki/이창희 "wikilink")
-      - 작사 : [신동식](https://ko.wikipedia.org/wiki/신동식 "wikilink")
+      - 작사 : [신동식](../Page/신동식.md "wikilink")
       - 영어 코러스 작사 : 손유진
       - 노래 : 윤공주
       - 기타 : 이종교
@@ -120,7 +120,7 @@
       - 엔지니어 : 하정수
       - 녹음실 : WSM Studio
 12. 구원의 서(書)
-      - [소년탐정 김전일 2](https://ko.wikipedia.org/wiki/소년탐정_김전일 "wikilink") 여는 노래
+      - [소년탐정 김전일 2](../Page/소년탐정_김전일.md "wikilink") 여는 노래
       - 작곡, 편곡, 기타, 프로그래밍 : [박정식](https://ko.wikipedia.org/wiki/박정식 "wikilink")
       - 작사 : 장동준
       - 노래 : 김상윤
@@ -136,13 +136,13 @@
 14. 항상 마지막처럼
       - [엔젤릭 레이어](https://ko.wikipedia.org/wiki/엔젤릭_레이어 "wikilink") 여는 노래
       - 작곡, 편곡, 코러스, 프로그래밍 : [이창희](https://ko.wikipedia.org/wiki/이창희 "wikilink")
-      - 작사 : [신동식](https://ko.wikipedia.org/wiki/신동식 "wikilink")
+      - 작사 : [신동식](../Page/신동식.md "wikilink")
       - 노래 : [양정화](https://ko.wikipedia.org/wiki/양정화 "wikilink")
       - 기타 : 이종교
       - 엔지니어 : 권명기
       - 녹음실 : Groove Studio
 15. 작은 소망
-      - [오\! 나의 여신님](https://ko.wikipedia.org/wiki/오!_나의_여신님 "wikilink") 닫는 노래 (Remake)
+      - [오\! 나의 여신님](../Page/오!_나의_여신님.md "wikilink") 닫는 노래 (Remake)
       - 작곡, 편곡, 프로그래밍 : [이창희](https://ko.wikipedia.org/wiki/이창희 "wikilink")
       - 작사 : 송재원
       - 노래 : 김현아
@@ -160,7 +160,7 @@ WE 2를 만든 사람들
 ### CD 1 제작
 
   - 기획 : 김성수, 장진원
-  - 제작 프로듀서 : [신동식](https://ko.wikipedia.org/wiki/신동식 "wikilink"), 김이경
+  - 제작 프로듀서 : [신동식](../Page/신동식.md "wikilink"), 김이경
   - 음악 프로듀서 : [이창희](https://ko.wikipedia.org/wiki/이창희 "wikilink"), 송봉조 (lake park), [박정식](https://ko.wikipedia.org/wiki/박정식 "wikilink"), 김정배, 조명민, http 404 errors
   - 마스터링 엔지니어 : 하정수
   - 앨범 디자인 : 이재현 of "have A nice day"
@@ -174,11 +174,11 @@ WE 2를 만든 사람들
 
 ### CD 2 제작
 
-  - 6 mm 촬영 : 이우창, [신동식](https://ko.wikipedia.org/wiki/신동식 "wikilink")
+  - 6 mm 촬영 : 이우창, [신동식](../Page/신동식.md "wikilink")
   - 종합편집 : 이지혜
   - 사운드 디자인, 믹싱 : 이창휘
-  - 구성, 편집, 연출 : [신동식](https://ko.wikipedia.org/wiki/신동식 "wikilink")
-  - 제작 : [투니버스](https://ko.wikipedia.org/wiki/투니버스 "wikilink")
+  - 구성, 편집, 연출 : [신동식](../Page/신동식.md "wikilink")
+  - 제작 : [투니버스](../Page/투니버스.md "wikilink")
 
 ## 앨범에 관하여
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KAT-TUN](https://ko.wikipedia.org/wiki/KAT-TUN).
 
 
-**KAT-TUN**(캇툰)은, [일본](../Page/일본.md "wikilink")의 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") 그룹이다. 소속 사무소는 [쟈니즈 사무소](https://ko.wikipedia.org/wiki/자니스_사무소 "wikilink"). 소속 레코드 회사는 [J-One Records이다](https://ko.wikipedia.org/wiki/제이_스톰 "wikilink").
+**KAT-TUN**(캇툰)은, [일본](../Page/일본.md "wikilink")의 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") 그룹이다. 소속 사무소는 [쟈니즈 사무소](../Page/자니스_사무소.md "wikilink"). 소속 레코드 회사는 [J-One Records이다](../Page/제이_스톰.md "wikilink").
 
 ## 개요
 
@@ -29,7 +29,7 @@
 <td><p>아카니시 재적 당시는 《<strong>K</strong>》로, 탈퇴 후에 《<strong>KA</strong>》로 변경.</p></td>
 </tr>
 <tr class="even">
-<td><p>T-TU <a href="https://ko.wikipedia.org/wiki/우에다_타츠야" title="wikilink">우에다 타츠야</a><br />
+<td><p>T-TU <a href="../Page/우에다_타츠야.md" title="wikilink">우에다 타츠야</a><br />
 <small>()</small></p></td>
 <td><p>, B형</p></td>
 <td><p><span style="color:blue;">파랑</span></p></td>
@@ -53,7 +53,7 @@
 
 <!-- end list -->
 
-  - 3월 16일, 음악 프로그램 《팝 잼》 ([NHK](https://ko.wikipedia.org/wiki/일본방송협회 "wikilink"))의 사회를 맡고 있던 [KinKi Kids의](https://ko.wikipedia.org/wiki/킨키_키즈 "wikilink") [도모토 코이치의](https://ko.wikipedia.org/wiki/도모토_코이치 "wikilink") 전속 백 댄서로서, [쟈니 키타가와의](https://ko.wikipedia.org/wiki/자니_기타가와 "wikilink") 결정적 한마디로 결성.
+  - 3월 16일, 음악 프로그램 《팝 잼》 ([NHK](../Page/일본방송협회.md "wikilink"))의 사회를 맡고 있던 [KinKi Kids의](https://ko.wikipedia.org/wiki/킨키_키즈 "wikilink") [도모토 코이치의](../Page/도모토_코이치.md "wikilink") 전속 백 댄서로서, [쟈니 키타가와의](https://ko.wikipedia.org/wiki/자니_기타가와 "wikilink") 결정적 한마디로 결성.
   - 3월 30일, [뮤직 스테이션](../Page/뮤직_스테이션.md "wikilink") SP로 TV 첫 등장.
 
 <!-- end list -->
@@ -87,7 +87,7 @@
 
 <!-- end list -->
 
-  - 1월, 카메나시와 아카니시가 출연한 텔레비전 드라마 《[고쿠센](https://ko.wikipedia.org/wiki/고쿠센 "wikilink")》 제2시리즈가 평균 시청률 25%를 넘는 대히트가 되어, 그에 따라 그룹의 지명도를 높였다.
+  - 1월, 카메나시와 아카니시가 출연한 텔레비전 드라마 《[고쿠센](../Page/고쿠센.md "wikilink")》 제2시리즈가 평균 시청률 25%를 넘는 대히트가 되어, 그에 따라 그룹의 지명도를 높였다.
   - 3월 25일 \~ 6월 26일, 《Looking 05 KAT-TUN》을 5도시에서 공연. 8월 26일 \~ 28일에는 재추가 공연을 실시했다.
   - 11월, 《2005년 일본 배구 월드 그랜드 챔피온즈 컵》의 응원 프로듀서로 취임.
 
@@ -97,13 +97,13 @@
 
 <!-- end list -->
 
-  - 3월 17일, [도쿄 돔에서](https://ko.wikipedia.org/wiki/도쿄_돔 "wikilink") 콘서트 《KAT-TUN SPECIAL TOKYO DOME CONCERT Debut "Real Face"》를 공연. CD 데뷔 전의 아티스트에 의한 단독 라이브는, 동 회장 사상 최초이다.
-  - 3월 22일, 싱글 〈[Real Face](../Page/Real_Face.md "wikilink")〉, 앨범 《Best of KAT-TUN》, DVD 《[Real Face Film](https://ko.wikipedia.org/wiki/Real_Face#Real_Face_Film "wikilink")》로 트리플 데뷔. KAT-TUN을 위해 쟈니즈 계열 음반사 [J Storm에서](https://ko.wikipedia.org/wiki/제이스톰 "wikilink") 새로 만든 레이블인 〈J-One Records〉에서 발매했다. 세 작품 모두 오리콘 차트에서 1위를 차지\[1\], 거기에 유선 리퀘스트, 차쿠우타 다운로드에서도 1위를 획득해, 5관왕을 달성했다. 또, 4월에는 싱글이 밀리언셀러를 달성해 그 해 연간차트에서 1위를 차지했다\[2\]. 〈Real Face〉의 작곡은 [B'z](../Page/B'z.md "wikilink")의 마츠모토 타카히로, 작사는 [스가 시카오](https://ko.wikipedia.org/wiki/스가_시카오 "wikilink").
+  - 3월 17일, [도쿄 돔에서](../Page/도쿄_돔.md "wikilink") 콘서트 《KAT-TUN SPECIAL TOKYO DOME CONCERT Debut "Real Face"》를 공연. CD 데뷔 전의 아티스트에 의한 단독 라이브는, 동 회장 사상 최초이다.
+  - 3월 22일, 싱글 〈[Real Face](../Page/Real_Face.md "wikilink")〉, 앨범 《Best of KAT-TUN》, DVD 《[Real Face Film](https://ko.wikipedia.org/wiki/Real_Face#Real_Face_Film "wikilink")》로 트리플 데뷔. KAT-TUN을 위해 쟈니즈 계열 음반사 [J Storm에서](https://ko.wikipedia.org/wiki/제이스톰 "wikilink") 새로 만든 레이블인 〈J-One Records〉에서 발매했다. 세 작품 모두 오리콘 차트에서 1위를 차지\[1\], 거기에 유선 리퀘스트, 차쿠우타 다운로드에서도 1위를 획득해, 5관왕을 달성했다. 또, 4월에는 싱글이 밀리언셀러를 달성해 그 해 연간차트에서 1위를 차지했다\[2\]. 〈Real Face〉의 작곡은 [B'z](../Page/B'z.md "wikilink")의 마츠모토 타카히로, 작사는 [스가 시카오](../Page/스가_시카오.md "wikilink").
   - 3월 28일 \~ 5월 14일, 메이저 데뷔 후 첫 콘서트 투어 《Spring Tour'06 Live of KAT-TUN“Real Face”》를 9도시에서 공연.
-  - 4월 3일, [NEWS](https://ko.wikipedia.org/wiki/NEWS "wikilink")·[칸쟈니∞](https://ko.wikipedia.org/wiki/칸쟈니∞ "wikilink")와의 세 그룹 합동 팬클럽 〈YOU\&J〉가 발족된다.
+  - 4월 3일, [NEWS](https://ko.wikipedia.org/wiki/NEWS "wikilink")·[칸쟈니∞](../Page/칸쟈니∞.md "wikilink")와의 세 그룹 합동 팬클럽 〈YOU\&J〉가 발족된다.
   - 7월 19일, 2번째 싱글 〈[SIGNAL](../Page/SIGNAL_\(KAT-TUN의_노래\).md "wikilink")〉을 발매. 오리콘 싱글 차트 첫 등장 1위를 획득.
   - 10월 12일, 아카니시가 로스앤젤레스에 어학 유학을 위해 무기한으로 예능 활동을 휴지한다고 발표했다. 긴급 기자 회견을 열어, 〈탈퇴는 머릿속에 없지만, 돌아올까는 상황 나름〉이라고 표명했다.
-  - 12월 7일, 3번째의 싱글이 되는 〈[우리의 거리에서](../Page/우리의_거리에서.md "wikilink")〉를 발매. 오리콘 싱글 차트 첫등장 1위를 획득. 작사·작곡은 [오다 카즈마사](https://ko.wikipedia.org/wiki/오다_카즈마사 "wikilink").
+  - 12월 7일, 3번째의 싱글이 되는 〈[우리의 거리에서](../Page/우리의_거리에서.md "wikilink")〉를 발매. 오리콘 싱글 차트 첫등장 1위를 획득. 작사·작곡은 [오다 카즈마사](../Page/오다_카즈마사.md "wikilink").
 
 <!-- end list -->
 
@@ -128,7 +128,7 @@
   - 2월 6일, 6번째 싱글이 되는 〈LIPS〉를 발매. 오리콘 싱글 차트 첫 등장 1위를 획득.
   - 6월 4일, 3번째 앨범이 되는 《KAT-TUN III -QUEEN OF PIRATES-》를 발매. 오리콘 앨범 차트 첫 등장 1위를 획득.
   - 6월 21일 \~ 5일, 3번째 도쿄 돔 공연을 포함한 《KAT-TUN LIVE TOUR 2008 QUEEN OF PIRATES》를 8도시에서 공연. 4일 연속 공연은 일본인 뮤지션으로서 사상 최초. [X JAPAN이](../Page/X_JAPAN.md "wikilink") 가지고 있던 연속 공연 기록을 약 16년 7개월만에 갈아치웠다.
-  - 12월 3일, 8번째 싱글이 되는 〈[White X'mas](https://ko.wikipedia.org/wiki/White_X'mas "wikilink")〉를 발매. 오리콘 싱글 차트 첫 등장 1위를 획득.
+  - 12월 3일, 8번째 싱글이 되는 〈[White X'mas](../Page/White_X'mas.md "wikilink")〉를 발매. 오리콘 싱글 차트 첫 등장 1위를 획득.
 
 <!-- end list -->
 
@@ -136,8 +136,8 @@
 
 <!-- end list -->
 
-  - 2월 11일, 9번째 싱글이 되는 〈[ONE DROP](https://ko.wikipedia.org/wiki/ONE_DROP "wikilink")〉을 발매. 오리콘 싱글 차트 첫 등장 1위를 획득.
-  - 3월 11일, 10번째 싱글이 되는 〈[RESCUE](https://ko.wikipedia.org/wiki/RESCUE "wikilink")〉를 발매. 2개월 연속 발매가 된다. 오리콘 싱글 차트 첫 등장 1위를 획득.
+  - 2월 11일, 9번째 싱글이 되는 〈[ONE DROP](../Page/ONE_DROP.md "wikilink")〉을 발매. 오리콘 싱글 차트 첫 등장 1위를 획득.
+  - 3월 11일, 10번째 싱글이 되는 〈[RESCUE](../Page/RESCUE.md "wikilink")〉를 발매. 2개월 연속 발매가 된다. 오리콘 싱글 차트 첫 등장 1위를 획득.
   - 4월 29일, 4번째 앨범이 되는 《Break the Records -by you & for you-》를 발매. 오리콘 앨범 차트 첫 등장 1위를 획득.
   - 5월 15일 \~ 21일, 《KAT-TUN LIVE Break the Records》를 공연. 7일간 연속 도쿄 돔 공연을 실시해, 연속 공연 신기록을 만들 예정이었지만, 당초 38만 5천명의 정원에 대해 배 이상의 84만 8344명의 신청이 쇄도해, 급거 추가 공연이 결정되었다. 7일간 연속이 1 공연 추가로 8일간 연속으로 변경되어 더욱 기록을 늘리는 일이 되었다. 예정에 없었던 오사카에서도 쿄세라 돔에서 5월 29일 \~ 31일에 3일간, 6월 14·15일에 도쿄 돔에서 더욱 2공연 추가가 있어, 합계 13공연으로 68만 5000명을 동원하는 것이 결정되었다.
   - 7월 22일 \~ 8월 23일, 《KAT-TUN SUMMER'09 Break the Records Tour》를 6도시에서 공연.
@@ -283,19 +283,19 @@
 <tr class="even">
 <td><p>8</p></td>
 <td><p>2008년 12월 3일</p></td>
-<td><p>''' <a href="https://ko.wikipedia.org/wiki/White_X&#39;mas" title="wikilink">White X'mas</a> '''</p></td>
+<td><p>''' <a href="../Page/White_X&#39;mas.md" title="wikilink">White X'mas</a> '''</p></td>
 <td><p>1위</p></td>
 </tr>
 <tr class="odd">
 <td><p>9</p></td>
 <td><p>2009년 2월 11일</p></td>
-<td><p>''' <a href="https://ko.wikipedia.org/wiki/ONE_DROP" title="wikilink">ONE DROP</a> '''</p></td>
+<td><p>''' <a href="../Page/ONE_DROP.md" title="wikilink">ONE DROP</a> '''</p></td>
 <td><p>1위</p></td>
 </tr>
 <tr class="even">
 <td><p>10</p></td>
 <td><p>2009년 3월 11일</p></td>
-<td><p>''' <a href="https://ko.wikipedia.org/wiki/RESCUE" title="wikilink">RESCUE</a> '''</p></td>
+<td><p>''' <a href="../Page/RESCUE.md" title="wikilink">RESCUE</a> '''</p></td>
 <td><p>1위</p></td>
 </tr>
 <tr class="odd">
@@ -548,7 +548,7 @@
   - music-enta (2001년 4월 19일 \~ 2002년 3월 14일, TV 아사히)
   - 뮤직 점프 (1997년 4월 \~ 2000년 3월, [NHK BS2](../Page/NHK_위성_제2텔레비전.md "wikilink"))
   - [더 소년구락부](../Page/소년구락부.md "wikilink") (2000년 4월 \~ , NHK BS2)
-  - 팝 잼 (2001년 4월 \~ 2002년 3월, [NHK](https://ko.wikipedia.org/wiki/일본방송협회 "wikilink"))
+  - 팝 잼 (2001년 4월 \~ 2002년 3월, [NHK](../Page/일본방송협회.md "wikilink"))
   - 알몸의 소년 (2001년 4월 \~ 2003년 3월, TV 아사히) - 레귤러
   - THE 밤도 힛 퍼레 (2002년, [닛폰 TV](../Page/닛폰_TV_방송망.md "wikilink")) - 준레귤러
   - 모두의 TV (2005년 4월 \~ 9월, 닛폰 TV)
@@ -583,7 +583,7 @@
   - [로토 제약](../Page/로토제약.md "wikilink")
       - 모기타테 과실 (2005년 7월 \~ )
       - ROTO C 큐브 (2005년 10월)
-  - [롯데](https://ko.wikipedia.org/wiki/롯데그룹 "wikilink")
+  - [롯데](../Page/롯데그룹.md "wikilink")
       - 크런키
           - CM이 수수해? 편 (2002년 9월)
           - 버릇이야♪ 편
@@ -629,7 +629,7 @@
   - KAT-TUN Break the Records TOKYO DOME 10days·KYOSERA DOME OSAKA 3days (2009년 5월 15일 \~ 22일·6월 14일 \~ 15일, 10공연/5월 29일 \~ 31일, 3공연)
   - KAT-TUN SUMMER '09 Break the Records Tour (2009년 7월 22일 \~ 8월 23일, 6도시 28공연)
   - KAT-TUN LIVE TOUR 2010 PART1:ARENA TOUR (2010년 5월 2일 \~ 6월 27일)
-  - KAT-TUN LIVE TOUR 2010 PART2:WORLD BIG TOUR (2010년 7월 16일 \~ 8월 28일, [한국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")·[타이완](https://ko.wikipedia.org/wiki/타이완 "wikilink"))
+  - KAT-TUN LIVE TOUR 2010 PART2:WORLD BIG TOUR (2010년 7월 16일 \~ 8월 28일, [한국](../Page/대한민국.md "wikilink")·[타이완](../Page/타이완.md "wikilink"))
   - KAT-TUN LIVE TOUR 2012 CHAIN (2012년 2월 11일 \~ 4월 28일)
   - COUNTDOWN LIVE 2013 KAT-TUN (2013년 12월 30일 \~ 31일, 쿄세라 돔 오사카)
   - KAT-TUN LIVE TOUR 2014 come Here (2014년 7월 7일 \~ 12월 31일, 10도시 23공연)
@@ -834,7 +834,7 @@
 <td><p>제42회</p></td>
 <td><p>오리콘 랭킹</p></td>
 <td><p>제7위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/RESCUE" title="wikilink">RESCUE</a></p></td>
+<td><p><a href="../Page/RESCUE.md" title="wikilink">RESCUE</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -842,7 +842,7 @@
 <td><p>제42회</p></td>
 <td><p>오리콘 랭킹</p></td>
 <td><p>제9위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/ONE_DROP" title="wikilink">ONE DROP</a></p></td>
+<td><p><a href="../Page/ONE_DROP.md" title="wikilink">ONE DROP</a></p></td>
 <td></td>
 <td></td>
 </tr>

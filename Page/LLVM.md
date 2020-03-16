@@ -1,23 +1,23 @@
 > This article is converted from Wikipedia: [LLVM](https://ko.wikipedia.org/wiki/LLVM).
 
 
-**LLVM**(이전 이름: Low Level Virtual Machine)은 [컴파일러](https://ko.wikipedia.org/wiki/컴파일러 "wikilink")의 기반구조이다. 프로그램을 컴파일 타임, 링크 타임, [런타임](../Page/런타임.md "wikilink") 상황에서 프로그램의 작성 언어에 상관없이 최적화를 쉽게 구현할 수 있도록 구성되어 있다.\[1\]
+**LLVM**(이전 이름: Low Level Virtual Machine)은 [컴파일러](../Page/컴파일러.md "wikilink")의 기반구조이다. 프로그램을 컴파일 타임, 링크 타임, [런타임](../Page/런타임.md "wikilink") 상황에서 프로그램의 작성 언어에 상관없이 최적화를 쉽게 구현할 수 있도록 구성되어 있다.\[1\]
 
 LLVM은 원래는 저급 [가상 기계](https://ko.wikipedia.org/wiki/가상_기계 "wikilink")(low-level virtual machine)의 약자를 가리켰지만, LLVM이 성장하고 다양한 목적을 가지게 되면서 현재는 그 이름을 약자로서 사용하는 것이 아니라 그냥 프로젝트의 이름으로서 사용하고 있다.\[2\]
 
-LLVM의 핵심 코드는 'LLVM 라이선스'로 배포되며, 이것은 [BSD 라이선스와](https://ko.wikipedia.org/wiki/BSD_라이선스 "wikilink") 비슷한 속성을 가진다.\[3\] 즉, LLVM을 사용한 프로그램을 배포하였을 때 해당 소스 코드를 공개/배포해야 하는 의무가 없다. 단 LLVM의 프론트엔드를 [GNU 컴파일러 모음](https://ko.wikipedia.org/wiki/GNU_컴파일러_모음 "wikilink")(GCC) 기반으로 사용할 경우 프론트엔드는 [GPL로](https://ko.wikipedia.org/wiki/GNU_일반_공중_사용_허가서 "wikilink") 배포한다. LLVM 프로젝트에서는 LLVM 라이선스를 가지는 프론트엔드를 위해, [Clang](https://ko.wikipedia.org/wiki/Clang "wikilink")이라는 프로젝트를 진행하고 있다.
+LLVM의 핵심 코드는 'LLVM 라이선스'로 배포되며, 이것은 [BSD 라이선스와](https://ko.wikipedia.org/wiki/BSD_라이선스 "wikilink") 비슷한 속성을 가진다.\[3\] 즉, LLVM을 사용한 프로그램을 배포하였을 때 해당 소스 코드를 공개/배포해야 하는 의무가 없다. 단 LLVM의 프론트엔드를 [GNU 컴파일러 모음](../Page/GNU_컴파일러_모음.md "wikilink")(GCC) 기반으로 사용할 경우 프론트엔드는 [GPL로](../Page/GNU_일반_공중_사용_허가서.md "wikilink") 배포한다. LLVM 프로젝트에서는 LLVM 라이선스를 가지는 프론트엔드를 위해, [Clang](https://ko.wikipedia.org/wiki/Clang "wikilink")이라는 프로젝트를 진행하고 있다.
 
 ## 역사
 
-LLVM 프로젝트는 2000년에 [일리노이 대학교 어배너-섐페인에서](https://ko.wikipedia.org/wiki/일리노이_대학교_어배너-섐페인 "wikilink") [Vikram Adve와](https://ko.wikipedia.org/wiki/Vikram_Adve "wikilink") [크리스 라트너의](../Page/크리스_라트너.md "wikilink") 감독 아래에 시작되었다.
+LLVM 프로젝트는 2000년에 [일리노이 대학교 어배너-섐페인에서](../Page/일리노이_대학교_어배너-섐페인.md "wikilink") [Vikram Adve와](https://ko.wikipedia.org/wiki/Vikram_Adve "wikilink") [크리스 라트너의](../Page/크리스_라트너.md "wikilink") 감독 아래에 시작되었다.
 
 ## 개요
 
-LLVM으로 언어에 가상 기계를 생성, 가상 기계가 언어에 독립적인 최적화를 실행한다. LLVM은 언어와 구조로부터 독립적이며, 언어 모듈과 시스템을 위한 코드 생성 부의 사이에 위치한다. LLVM은 컴파일 과정 동안 최적화와 함께 [JIT을](https://ko.wikipedia.org/wiki/JIT_컴파일 "wikilink") 정적 컴파일러로 사용, 개발의 각종 단계에서 사용할 수 있는 많은 부분을 가지고 있다.\[4\] LLVM은 전통적인 GCC 시스템에서 그랬듯이 코드를 정적으로 컴파일할 수도 있고, [Java처럼](https://ko.wikipedia.org/wiki/자바_\(프로그래밍_언어\) "wikilink") [JIT를](https://ko.wikipedia.org/wiki/JIT_컴파일 "wikilink") 이용하여 [기계어](https://ko.wikipedia.org/wiki/기계어 "wikilink")(machine code)로 한 번 더 컴파일되는 중간 형식으로 코드를 컴파일할 수도 있다. 이말은 자바처럼 플랫폼에 독립적이란 뜻은 아니다.
+LLVM으로 언어에 가상 기계를 생성, 가상 기계가 언어에 독립적인 최적화를 실행한다. LLVM은 언어와 구조로부터 독립적이며, 언어 모듈과 시스템을 위한 코드 생성 부의 사이에 위치한다. LLVM은 컴파일 과정 동안 최적화와 함께 [JIT을](../Page/JIT_컴파일.md "wikilink") 정적 컴파일러로 사용, 개발의 각종 단계에서 사용할 수 있는 많은 부분을 가지고 있다.\[4\] LLVM은 전통적인 GCC 시스템에서 그랬듯이 코드를 정적으로 컴파일할 수도 있고, [Java처럼](../Page/자바_\(프로그래밍_언어\).md "wikilink") [JIT를](../Page/JIT_컴파일.md "wikilink") 이용하여 [기계어](../Page/기계어.md "wikilink")(machine code)로 한 번 더 컴파일되는 중간 형식으로 코드를 컴파일할 수도 있다. 이말은 자바처럼 플랫폼에 독립적이란 뜻은 아니다.
 
 JIT 컴파일러의 경우 런타임에 불필요한 정적 분기를 최적화하는 기능이 있는데, 이 기능은 다양한 런타임 옵션을 제공하면서 특정 환경에서는 사용되지 않는 옵션을 쉽게 식별할 수 있는 프로그램의 경우에 부분 평가([partial evaluation](https://ko.wikipedia.org/wiki/partial_evaluation "wikilink"))를 하는데 유용하다. [Mac OS X v10.5에서는](https://ko.wikipedia.org/wiki/맥_오에스_텐_v10.5 "wikilink") 이를 사용하여 하드웨어에서 지원하지 않는 [OpenGL](../Page/OpenGL.md "wikilink") 파이프라인을 제공하고 있다.\[5\]
 
-현재 [GNU 컴파일러 모음](https://ko.wikipedia.org/wiki/GNU_컴파일러_모음 "wikilink")(GCC) 3.4와 4.0.1에서 빼낸 프런트 엔드를 사용하는 C 언어와 C++ 컴파일러를 지원하고 있다.
+현재 [GNU 컴파일러 모음](../Page/GNU_컴파일러_모음.md "wikilink")(GCC) 3.4와 4.0.1에서 빼낸 프런트 엔드를 사용하는 C 언어와 C++ 컴파일러를 지원하고 있다.
 
 ## 코드 표현
 
@@ -31,7 +31,7 @@ LLVM은 여러 구성 요소를 포함하는 산하 프로젝트가 되었다.
 
 ### 프론트엔드: 프로그래밍 언어 지원
 
-LLVM은 원래 GCC 스택의 기존 [코드 발생기를](https://ko.wikipedia.org/wiki/코드_발생 "wikilink") 대체할 목적으로 작성되었으며\[6\], GCC 프론트엔드 중 다수가 이것과 함께 동작하도록 수정되어왔다. LLVM은 현재 다양한 [프론트엔드](https://ko.wikipedia.org/wiki/프론트엔드 "wikilink")를 사용하여 [에이다](https://ko.wikipedia.org/wiki/에이다 "wikilink"), [C](https://ko.wikipedia.org/wiki/C_\(프로그래밍_언어\) "wikilink"), [C++](https://ko.wikipedia.org/wiki/C++ "wikilink"), [D](https://ko.wikipedia.org/wiki/D_\(프로그래밍_언어\) "wikilink"), [델파이](https://ko.wikipedia.org/wiki/델파이 "wikilink"), [포트란](https://ko.wikipedia.org/wiki/포트란 "wikilink"), [하스켈](https://ko.wikipedia.org/wiki/하스켈 "wikilink"), [오브젝티브-C](https://ko.wikipedia.org/wiki/오브젝티브-C "wikilink"), [스위프트](https://ko.wikipedia.org/wiki/스위프트 "wikilink")의 컴파일을 지원하고 있으며, 일부는 [GNU 컴파일러 모음](https://ko.wikipedia.org/wiki/GNU_컴파일러_모음 "wikilink")(GCC)의 4.0.1 및 4.2에서 가져온 것이다.
+LLVM은 원래 GCC 스택의 기존 [코드 발생기를](https://ko.wikipedia.org/wiki/코드_발생 "wikilink") 대체할 목적으로 작성되었으며\[6\], GCC 프론트엔드 중 다수가 이것과 함께 동작하도록 수정되어왔다. LLVM은 현재 다양한 [프론트엔드](https://ko.wikipedia.org/wiki/프론트엔드 "wikilink")를 사용하여 [에이다](https://ko.wikipedia.org/wiki/에이다 "wikilink"), [C](../Page/C_\(프로그래밍_언어\).md "wikilink"), [C++](https://ko.wikipedia.org/wiki/C++ "wikilink"), [D](../Page/D_\(프로그래밍_언어\).md "wikilink"), [델파이](../Page/델파이.md "wikilink"), [포트란](../Page/포트란.md "wikilink"), [하스켈](../Page/하스켈.md "wikilink"), [오브젝티브-C](../Page/오브젝티브-C.md "wikilink"), [스위프트](https://ko.wikipedia.org/wiki/스위프트 "wikilink")의 컴파일을 지원하고 있으며, 일부는 [GNU 컴파일러 모음](../Page/GNU_컴파일러_모음.md "wikilink")(GCC)의 4.0.1 및 4.2에서 가져온 것이다.
 
 #### 표준 라이브러리 지원
 
@@ -58,7 +58,7 @@ entry:
 
 ### 백엔드: 명령어 집합 및 마이크로아키텍처 지원
 
-버전 3.4를 기준으로, LLVM은 [ARM](https://ko.wikipedia.org/wiki/ARM "wikilink"), [퀄컴 헥사곤](https://ko.wikipedia.org/wiki/퀄컴_헥사곤 "wikilink"), [MIPS](https://ko.wikipedia.org/wiki/MIPS "wikilink"), [엔비디아](https://ko.wikipedia.org/wiki/엔비디아 "wikilink") [병렬 스레드 실행](https://ko.wikipedia.org/wiki/병렬_스레드_실행 "wikilink")(PTX), [파워PC](../Page/파워PC.md "wikilink"), [AMD 테라스케일](https://ko.wikipedia.org/wiki/AMD_테라스케일 "wikilink")\[9\], AMD [그래픽스 코어 넥스트](../Page/그래픽스_코어_넥스트.md "wikilink")(GCN), [SPARC](https://ko.wikipedia.org/wiki/SPARC "wikilink"), [z/아키텍처](https://ko.wikipedia.org/wiki/z/아키텍처 "wikilink"), [x86](https://ko.wikipedia.org/wiki/x86 "wikilink")/[x86-64](https://ko.wikipedia.org/wiki/x86-64 "wikilink"), [XCore](https://ko.wikipedia.org/wiki/XCore "wikilink")를 포함하여 수많은 [명령어 집합을](../Page/명령어_집합.md "wikilink") 지원한다. 일부 기능들은 일부 플랫폼에서 사용하지 못한다. 대부분의 기능들이 x86/x86-64, z/아키텍처, ARM, 파워PC에 존재한다.\[10\]
+버전 3.4를 기준으로, LLVM은 [ARM](https://ko.wikipedia.org/wiki/ARM "wikilink"), [퀄컴 헥사곤](https://ko.wikipedia.org/wiki/퀄컴_헥사곤 "wikilink"), [MIPS](https://ko.wikipedia.org/wiki/MIPS "wikilink"), [엔비디아](../Page/엔비디아.md "wikilink") [병렬 스레드 실행](https://ko.wikipedia.org/wiki/병렬_스레드_실행 "wikilink")(PTX), [파워PC](../Page/파워PC.md "wikilink"), [AMD 테라스케일](https://ko.wikipedia.org/wiki/AMD_테라스케일 "wikilink")\[9\], AMD [그래픽스 코어 넥스트](../Page/그래픽스_코어_넥스트.md "wikilink")(GCN), [SPARC](../Page/SPARC.md "wikilink"), [z/아키텍처](https://ko.wikipedia.org/wiki/z/아키텍처 "wikilink"), [x86](https://ko.wikipedia.org/wiki/x86 "wikilink")/[x86-64](https://ko.wikipedia.org/wiki/x86-64 "wikilink"), [XCore](https://ko.wikipedia.org/wiki/XCore "wikilink")를 포함하여 수많은 [명령어 집합을](../Page/명령어_집합.md "wikilink") 지원한다. 일부 기능들은 일부 플랫폼에서 사용하지 못한다. 대부분의 기능들이 x86/x86-64, z/아키텍처, ARM, 파워PC에 존재한다.\[10\]
 
 ## 버전 역사
 

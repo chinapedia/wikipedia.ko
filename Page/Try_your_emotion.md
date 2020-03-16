@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Try your emotion](https://ko.wikipedia.org/wiki/Try_your_emotion).
 
 
-〈**try your emotion**〉(트라이 유어 이모션)은 [w-inds.](https://ko.wikipedia.org/wiki/w-inds. "wikilink")의 네 번째 싱글이다. [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [2월 20일](https://ko.wikipedia.org/wiki/2월_20일 "wikilink") FLIGHT MASTER(포니 캐년)에서 발매하였다.
+〈**try your emotion**〉(트라이 유어 이모션)은 [w-inds.](https://ko.wikipedia.org/wiki/w-inds. "wikilink")의 네 번째 싱글이다. [2002년](../Page/2002년.md "wikilink") [2월 20일](../Page/2월_20일.md "wikilink") FLIGHT MASTER(포니 캐년)에서 발매하였다.
 
 ## 개요
 
@@ -9,7 +9,7 @@
 
 뮤직 비디오에서는 첫 연기를 공개하였고, 감독은 SEP소속의 미야사카 마유미가 처음으로 담당하였다.
 
-[2월 10일에는](https://ko.wikipedia.org/wiki/2월_10일 "wikilink") SHIBUYA-AX에서 추첨으로 당첨된 1700명을 초대하여 싱글 발매 이벤트를 개최하였다.
+[2월 10일에는](../Page/2월_10일.md "wikilink") SHIBUYA-AX에서 추첨으로 당첨된 1700명을 초대하여 싱글 발매 이벤트를 개최하였다.
 
 니혼TV 《[솔트레이크 동계올림픽](https://ko.wikipedia.org/wiki/솔트레이크_동계올림픽 "wikilink")》 이미지 곡으로 사용되었으며, 또한 같은 방송국의 프로그램 《스포츠 우룩스》,《SPORT MAX》의 테마곡으로도 사용되었다.
 
@@ -33,7 +33,7 @@
 <!-- end list -->
 
   -
-    작사, 작곡, 편곡 : [하야마 히로아키](https://ko.wikipedia.org/wiki/하야마_히로아키 "wikilink")
+    작사, 작곡, 편곡 : [하야마 히로아키](../Page/하야마_히로아키.md "wikilink")
     리믹스 : MoFO☆NARUSE (\#3)
 
 ## 차트 성적

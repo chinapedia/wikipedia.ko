@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [SG ](https://ko.wikipedia.org/wiki/SG_).
 
 
-**에스지신성건설** 주식회사는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [건설](https://ko.wikipedia.org/wiki/건설 "wikilink") 회사로서, 모태인 신성전기기업사로 [1952년](https://ko.wikipedia.org/wiki/1952년 "wikilink")에 설립되었다. 대한민국 시공능력평가 기준으로 41위이다. [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [11월 12일](https://ko.wikipedia.org/wiki/11월_12일 "wikilink") 법정관리에 신청된 후 약 5년 동안의 회생절차를 걸쳐 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") 7월에 연합자산관리(UAMCO)에 인수되었다가 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [SG세계물산](../Page/SG세계물산.md "wikilink")의 모태인 [SG그룹](https://ko.wikipedia.org/wiki/SG그룹 "wikilink")에 인수되어 [6월 24일에](https://ko.wikipedia.org/wiki/6월_24일 "wikilink") 현재의 명칭으로 변경되었다.\[1\]
+**에스지신성건설** 주식회사는 [대한민국](../Page/대한민국.md "wikilink")의 [건설](https://ko.wikipedia.org/wiki/건설 "wikilink") 회사로서, 모태인 신성전기기업사로 [1952년](../Page/1952년.md "wikilink")에 설립되었다. 대한민국 시공능력평가 기준으로 41위이다. [2008년](../Page/2008년.md "wikilink") [11월 12일](../Page/11월_12일.md "wikilink") 법정관리에 신청된 후 약 5년 동안의 회생절차를 걸쳐 [2013년](../Page/2013년.md "wikilink") 7월에 연합자산관리(UAMCO)에 인수되었다가 [2014년](../Page/2014년.md "wikilink") [SG세계물산](../Page/SG세계물산.md "wikilink")의 모태인 [SG그룹](https://ko.wikipedia.org/wiki/SG그룹 "wikilink")에 인수되어 [6월 24일에](../Page/6월_24일.md "wikilink") 현재의 명칭으로 변경되었다.\[1\]
 
 ## 연혁
 
-  - [1952년](https://ko.wikipedia.org/wiki/1952년 "wikilink") 8월 15일: 신성전기기업사 설립
+  - [1952년](../Page/1952년.md "wikilink") 8월 15일: 신성전기기업사 설립
   - 1957년 3월 16일: 신성공업주식회사 법인전환
   - 1968년 3월 27일: 건설업 면허 취득
   - 1968년 6월 22일: 신성상가 주식회사 설립 (신성개발의 모태)
@@ -46,11 +46,11 @@
 
 ## 해외 지점
 
-  - [중국](https://ko.wikipedia.org/wiki/중화인민공화국 "wikilink"): 베이징 지점
+  - [중국](../Page/중화인민공화국.md "wikilink"): 베이징 지점
   - [필리핀](../Page/필리핀.md "wikilink"): 마닐라 지점
-  - [아랍에미리트](https://ko.wikipedia.org/wiki/아랍에미리트 "wikilink"): 두바이 지점
+  - [아랍에미리트](../Page/아랍에미리트.md "wikilink"): 두바이 지점
   - [사우디아라비아](../Page/사우디아라비아.md "wikilink"): 리야드 지점
-  - [가나](https://ko.wikipedia.org/wiki/가나 "wikilink")\[2\]
+  - [가나](../Page/가나.md "wikilink")\[2\]
 
 ## 관계 회사
 
@@ -68,7 +68,7 @@
 
 ## 법정관리
 
-중견 건설업체인 신성건설이 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [11월 12일](https://ko.wikipedia.org/wiki/11월_12일 "wikilink"), 법정관리에 신청되어 건설업체들의 줄도산이 우려될 것으로 보이고 있다. [서울지방법원](https://ko.wikipedia.org/wiki/서울지방법원 "wikilink")에 따르면, 기업 회생절차에 수순을 밟기로 결정되었다. 대한민국에서 건설시공능력 평가기준으로 50위권 안에 든 건설회사가 부도 위기에 몰려 두 손을 들기는 외환위기 이후 처음이다. 이후 약 5년 동안의 노력 끝에 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [10월 4일](https://ko.wikipedia.org/wiki/10월_4일 "wikilink"), 회생절차가 종결되었다.
+중견 건설업체인 신성건설이 [2008년](../Page/2008년.md "wikilink") [11월 12일](../Page/11월_12일.md "wikilink"), 법정관리에 신청되어 건설업체들의 줄도산이 우려될 것으로 보이고 있다. [서울지방법원](https://ko.wikipedia.org/wiki/서울지방법원 "wikilink")에 따르면, 기업 회생절차에 수순을 밟기로 결정되었다. 대한민국에서 건설시공능력 평가기준으로 50위권 안에 든 건설회사가 부도 위기에 몰려 두 손을 들기는 외환위기 이후 처음이다. 이후 약 5년 동안의 노력 끝에 [2013년](../Page/2013년.md "wikilink") [10월 4일](../Page/10월_4일.md "wikilink"), 회생절차가 종결되었다.
 
 <references/>
 

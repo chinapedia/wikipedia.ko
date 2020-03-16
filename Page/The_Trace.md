@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Trace](https://ko.wikipedia.org/wiki/The_Trace).
 
 
-《**The Trace**》는 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [11월 27일에](https://ko.wikipedia.org/wiki/11월_27일 "wikilink") 발매된 [넬의](https://ko.wikipedia.org/wiki/넬_\(음악_그룹\) "wikilink") 미니 앨범을 포함한 콘서트 실황 [DVD](https://ko.wikipedia.org/wiki/DVD "wikilink")이다. [2008년 7월](../Page/2008년_7월.md "wikilink") [19일](https://ko.wikipedia.org/wiki/7월_19일 "wikilink"), 올림픽홀에서 열렸던 [넬의](https://ko.wikipedia.org/wiki/넬_\(음악_그룹\) "wikilink") "Stay" 공연실황 및 스페셜 피쳐(공연연습, Backstage, 인터뷰 등 기타 부가 영상)가 담긴 DVD 2장, 새로운 신곡들이 담긴 미니앨범 CD, 사진첩, 다이어리, 기억을 걷는 시간 MV 필름으로 구성되어 있다. 총 6,999장으로 한정 제작 되었다. 〈**Part 2**〉가 타이틀곡이다. 이 앨범을 마지막으로 [넬은](https://ko.wikipedia.org/wiki/넬_\(음악_그룹\) "wikilink") 멤버들의 군입대를 이유로 활동을 중단했다.
+《**The Trace**》는 [2008년](../Page/2008년.md "wikilink") [11월 27일에](../Page/11월_27일.md "wikilink") 발매된 [넬의](https://ko.wikipedia.org/wiki/넬_\(음악_그룹\) "wikilink") 미니 앨범을 포함한 콘서트 실황 [DVD](../Page/DVD.md "wikilink")이다. [2008년 7월](../Page/2008년_7월.md "wikilink") [19일](../Page/7월_19일.md "wikilink"), 올림픽홀에서 열렸던 [넬의](https://ko.wikipedia.org/wiki/넬_\(음악_그룹\) "wikilink") "Stay" 공연실황 및 스페셜 피쳐(공연연습, Backstage, 인터뷰 등 기타 부가 영상)가 담긴 DVD 2장, 새로운 신곡들이 담긴 미니앨범 CD, 사진첩, 다이어리, 기억을 걷는 시간 MV 필름으로 구성되어 있다. 총 6,999장으로 한정 제작 되었다. 〈**Part 2**〉가 타이틀곡이다. 이 앨범을 마지막으로 [넬은](https://ko.wikipedia.org/wiki/넬_\(음악_그룹\) "wikilink") 멤버들의 군입대를 이유로 활동을 중단했다.
 
 ## 트랙 리스트
 

@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [  PGA  09](https://ko.wikipedia.org/wiki/__PGA__09).
 
 
-**타이거우즈 PGA 투어 2009**(Tiger Woods PGA Tour 09)은 [일렉트로닉 아츠가](https://ko.wikipedia.org/wiki/일렉트로닉_아츠 "wikilink") 개발한 [Wii](https://ko.wikipedia.org/wiki/Wii "wikilink")용 게임 소프트웨어이다.
+**타이거우즈 PGA 투어 2009**(Tiger Woods PGA Tour 09)은 [일렉트로닉 아츠가](../Page/일렉트로닉_아츠.md "wikilink") 개발한 [Wii](../Page/Wii.md "wikilink")용 게임 소프트웨어이다.
 
 타이거 모드로 타이거우즈에 도전할 수 있으며 pga투어 fedex컵 등으로 프로에 도전할 수 있다.
 
-한국에서는 [1월 23일에](https://ko.wikipedia.org/wiki/1월_23일 "wikilink") 발매되었으며, 가격은 45,000원이다.
+한국에서는 [1월 23일에](../Page/1월_23일.md "wikilink") 발매되었으며, 가격은 45,000원이다.
 
 ## 각주
 

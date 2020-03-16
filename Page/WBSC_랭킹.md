@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WBSC ](https://ko.wikipedia.org/wiki/WBSC_).
 
 
-**[WBSC](../Page/세계_야구_소프트볼_연맹.md "wikilink") 랭킹**()은 세계 각국의 [야구](https://ko.wikipedia.org/wiki/야구 "wikilink") 수준을 점수화하여 순위를 비교한 것으로, [IBAF](https://ko.wikipedia.org/wiki/IBAF "wikilink")가 존재하던 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [1월](https://ko.wikipedia.org/wiki/1월 "wikilink")에 IBAF 랭킹이라는 이름으로 공식적으로 발표되기 시작하였고, IBAF와 ISF가 합병하여 WBSC가 탄생한 2013년에 현재의 명칭으로 변경되었다. WBSC는 앞으로 연맹에서 주최하는 대회가 종료될때마다 새로운 국제 랭킹을 발표할 계획이다. 여성 야구 대표팀, 소프트볼 대표팀의 랭킹도 따로 존재한다.
+**[WBSC](../Page/세계_야구_소프트볼_연맹.md "wikilink") 랭킹**()은 세계 각국의 [야구](../Page/야구.md "wikilink") 수준을 점수화하여 순위를 비교한 것으로, [IBAF](https://ko.wikipedia.org/wiki/IBAF "wikilink")가 존재하던 [2009년](../Page/2009년.md "wikilink") [1월](../Page/1월.md "wikilink")에 IBAF 랭킹이라는 이름으로 공식적으로 발표되기 시작하였고, IBAF와 ISF가 합병하여 WBSC가 탄생한 2013년에 현재의 명칭으로 변경되었다. WBSC는 앞으로 연맹에서 주최하는 대회가 종료될때마다 새로운 국제 랭킹을 발표할 계획이다. 여성 야구 대표팀, 소프트볼 대표팀의 랭킹도 따로 존재한다.
 
 ## 점수 산정 방식
 
@@ -9,7 +9,7 @@
 
 최근 4년동안 세계 야구 소프트볼 연맹(WBSC)이 주최하는 대회의 성적을 바탕으로 한다. 각 대회 1위에게는 50점, 2위는 40점, 3위 30점, 4위 15점 등으로 기본 포인트를 부여하고, 대회의 규모나 중요성에 따라 받은 점수에 배수를 하는 방식이다.
 
-예를 들면, [올림픽이나](https://ko.wikipedia.org/wiki/올림픽_야구 "wikilink") [월드 베이스볼 클래식같이](https://ko.wikipedia.org/wiki/월드_베이스볼_클래식 "wikilink") 세계적 주요 대회의 경우 받은 점수에 X4를 적용하고, 세계 랭킹 상위권 소속의 국가가 거의 참가하지 않는 등 규모가 작거나 중요도가 낮은 대회의 경우에는 X0.5, X0.25등의 배수를 적용, 감산을 하게 된다. 그 결과 얻어진 점수를 모두 합하여 점수가 높은 순서대로 순위를 매기게 된다.
+예를 들면, [올림픽이나](../Page/올림픽_야구.md "wikilink") [월드 베이스볼 클래식같이](https://ko.wikipedia.org/wiki/월드_베이스볼_클래식 "wikilink") 세계적 주요 대회의 경우 받은 점수에 X4를 적용하고, 세계 랭킹 상위권 소속의 국가가 거의 참가하지 않는 등 규모가 작거나 중요도가 낮은 대회의 경우에는 X0.5, X0.25등의 배수를 적용, 감산을 하게 된다. 그 결과 얻어진 점수를 모두 합하여 점수가 높은 순서대로 순위를 매기게 된다.
 
 ### 신계산법 기준
 
@@ -64,8 +64,8 @@
 <td><p><a href="../Page/쿠바_야구_국가대표팀.md" title="wikilink">쿠바</a>(766.02)</p></td>
 <td><p><a href="../Page/미국_야구_국가대표팀.md" title="wikilink">미국</a>(733.25)</p></td>
 <td><p><a href="../Page/일본_야구_국가대표팀.md" title="wikilink">일본</a>(664.42)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/대한민국_야구_국가대표팀" title="wikilink">대한민국</a> (518.20)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/중화_타이베이_야구_국가대표팀" title="wikilink">중화 타이베이</a>(499.79)</p></td>
+<td><p><a href="../Page/대한민국_야구_국가대표팀.md" title="wikilink">대한민국</a> (518.20)</p></td>
+<td><p><a href="../Page/중화_타이베이_야구_국가대표팀.md" title="wikilink">중화 타이베이</a>(499.79)</p></td>
 <td><p>2012년 12월 12일</p></td>
 </tr>
 <tr class="odd">

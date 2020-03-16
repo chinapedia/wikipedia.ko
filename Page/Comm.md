@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Comm](https://ko.wikipedia.org/wiki/Comm).
 
 
-[유닉스](https://ko.wikipedia.org/wiki/유닉스 "wikilink")에서 **`comm`** 명령어는 일반적이고 뚜렷한 문자열들을 위해서 두 개의 [파일들을](https://ko.wikipedia.org/wiki/컴퓨터_파일 "wikilink") 비교하기 위해서 사용되는 유틸리티이다. `Comm`은 [POSIX](https://ko.wikipedia.org/wiki/POSIX "wikilink") 표준 안에서 지정된다. 이는 1980년 중반부터 후반까지 [유닉스 계통](https://ko.wikipedia.org/wiki/유닉스_계통 "wikilink") 시스템에서 폭넓게 사용되고 있다..
+[유닉스](../Page/유닉스.md "wikilink")에서 **`comm`** 명령어는 일반적이고 뚜렷한 문자열들을 위해서 두 개의 [파일들을](../Page/컴퓨터_파일.md "wikilink") 비교하기 위해서 사용되는 유틸리티이다. `Comm`은 [POSIX](../Page/POSIX.md "wikilink") 표준 안에서 지정된다. 이는 1980년 중반부터 후반까지 [유닉스 계통](https://ko.wikipedia.org/wiki/유닉스_계통 "wikilink") 시스템에서 폭넓게 사용되고 있다..
 
 ## 사용법
 
@@ -69,7 +69,7 @@ In general terms, `diff` is a more powerful utility than `comm`. The simpler `co
 
 어떤 실행들은 만약 시스템 메모리가 충분하다면 문자열 길이에 제약을 가하지 않는 `readlinebuffer()` 기능으로 문자열을 읽는다.
 
-다른 실행들은 [`fgets`](https://ko.wikipedia.org/wiki/fgets "wikilink")() 기능으로 문자열들을 읽는다. 이 기능은 고정된 버퍼를 필요로 한다. 이러한 실행들에 있어서, 버퍼는 종종 [POSIX](https://ko.wikipedia.org/wiki/POSIX "wikilink") macro `LINE_MAX`에 따라서 크기가 주어진다.
+다른 실행들은 [`fgets`](https://ko.wikipedia.org/wiki/fgets "wikilink")() 기능으로 문자열들을 읽는다. 이 기능은 고정된 버퍼를 필요로 한다. 이러한 실행들에 있어서, 버퍼는 종종 [POSIX](../Page/POSIX.md "wikilink") macro `LINE_MAX`에 따라서 크기가 주어진다.
 
 ## 함께 보기
 

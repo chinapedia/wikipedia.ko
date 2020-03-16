@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Special Holynight](https://ko.wikipedia.org/wiki/Special_Holynight).
 
 
-《**Special Holynight**》는 [우에하라 아즈미의](../Page/우에하라_아즈미.md "wikilink") 두 번째 싱글이다. [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [12월 5일](https://ko.wikipedia.org/wiki/12월_5일 "wikilink") GIZA Studio에서 발매하였다.
+《**Special Holynight**》는 [우에하라 아즈미의](../Page/우에하라_아즈미.md "wikilink") 두 번째 싱글이다. [2001년](../Page/2001년.md "wikilink") [12월 5일](../Page/12월_5일.md "wikilink") GIZA Studio에서 발매하였다.
 
 ## 개요
 

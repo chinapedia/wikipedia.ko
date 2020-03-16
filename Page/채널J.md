@@ -17,7 +17,7 @@
 ### 일본 드라마
 
   - [란포 R](https://ko.wikipedia.org/wiki/란포_R "wikilink")
-  - [태양의 노래](https://ko.wikipedia.org/wiki/태양의_노래 "wikilink")
+  - [태양의 노래](../Page/태양의_노래.md "wikilink")
   - [지금 만나러 갑니다](https://ko.wikipedia.org/wiki/지금_만나러_갑니다_\(드라마\) "wikilink")
   - [세상의 중심에서 사랑을 외치다](https://ko.wikipedia.org/wiki/세상의_중심에서_사랑을_외치다_\(드라마\) "wikilink")
   - [1리터의 눈물](../Page/1리터의_눈물.md "wikilink")
@@ -28,11 +28,11 @@
   - [자토이치](../Page/자토이치.md "wikilink")시리즈 (1\~4)
   - [희망없는 자](https://ko.wikipedia.org/wiki/희망없는_자 "wikilink")
   - [체포하겠어\!](https://ko.wikipedia.org/wiki/체포하겠어! "wikilink")
-  - [마이 리틀 쉐프](https://ko.wikipedia.org/wiki/마이_리틀_쉐프 "wikilink")
+  - [마이 리틀 쉐프](../Page/마이_리틀_쉐프.md "wikilink")
   - [밤의 여왕](../Page/밤의_여왕.md "wikilink")
   - [조시데카: 여자형사](https://ko.wikipedia.org/wiki/조시데카:_여자형사 "wikilink")
   - [도쿄 프렌즈](https://ko.wikipedia.org/wiki/도쿄_프렌즈 "wikilink")
-  - [아내는 요술쟁이](https://ko.wikipedia.org/wiki/아내는_요술쟁이_\(일본의_드라마\) "wikilink")
+  - [아내는 요술쟁이](../Page/아내는_요술쟁이_\(일본의_드라마\).md "wikilink")
   - [순정](https://ko.wikipedia.org/wiki/순정_\(2007년_드라마\) "wikilink")
   - [부부도](https://ko.wikipedia.org/wiki/부부도 "wikilink")
   - [러브 셔플](../Page/러브_셔플.md "wikilink")
@@ -67,8 +67,8 @@
   - [공명의 갈림길](https://ko.wikipedia.org/wiki/공명의_갈림길 "wikilink")
   - [풍림화산](../Page/풍림화산_\(드라마\).md "wikilink")
   - [아츠히메](https://ko.wikipedia.org/wiki/아츠히메 "wikilink")
-  - [천지인](https://ko.wikipedia.org/wiki/천지인_\(드라마\) "wikilink")
-  - [료마전](https://ko.wikipedia.org/wiki/료마전 "wikilink")
+  - [천지인](../Page/천지인_\(드라마\).md "wikilink")
+  - [료마전](../Page/료마전.md "wikilink")
   - [고우\~공주들의 전국\~](../Page/고우~공주들의_전국~.md "wikilink")
   - [타이라노 키요모리](https://ko.wikipedia.org/wiki/다이라노_기요모리_\(드라마\) "wikilink")
   - [야에의 벚꽃](../Page/야에의_벚꽃.md "wikilink")
@@ -84,12 +84,12 @@
 
 ### 다큐멘터리
 
-  - 역사다큐 [신선조](https://ko.wikipedia.org/wiki/신선조 "wikilink")
+  - 역사다큐 [신선조](../Page/신선조.md "wikilink")
   - 바다와 싸우는 남자들
   - [욘사마](https://ko.wikipedia.org/wiki/욘사마 "wikilink") 코드
   - [니시무라 쿄타로의 철도 미스터리](https://ko.wikipedia.org/wiki/니시무라_쿄타로의_철도_미스터리 "wikilink")
   - [일본기차여행](https://ko.wikipedia.org/wiki/일본기차여행 "wikilink")
-  - [도쿄 디즈니랜드](https://ko.wikipedia.org/wiki/도쿄_디즈니랜드 "wikilink")
+  - [도쿄 디즈니랜드](../Page/도쿄_디즈니랜드.md "wikilink")
   - [The 세계유산](https://ko.wikipedia.org/wiki/The_세계유산 "wikilink")
 
 ### 기타

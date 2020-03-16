@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [St. Anger](https://ko.wikipedia.org/wiki/St._Anger).
 
 
-《**St. Anger**》는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [헤비메탈](https://ko.wikipedia.org/wiki/헤비메탈 "wikilink") 밴드인 [메탈리카](../Page/메탈리카.md "wikilink")의 여덟 번째 정규앨범이다. 원래 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [6월 10일](https://ko.wikipedia.org/wiki/6월_10일 "wikilink") 발매예정이었지만 불법 파일 공유와 음원유출을 우려해 2003년 6월 5일에 발매되었다. '[빌보드](https://ko.wikipedia.org/wiki/빌보드 "wikilink") 200'차트에서는 1위를 더불어 첫주에 30여개국에서 1위를 차지하였고 2004 [그래미 시상식에서는](https://ko.wikipedia.org/wiki/그래미상 "wikilink") 〈베스트 록/메탈 퍼포먼스〉상을 수상하였다.
+《**St. Anger**》는 [미국](../Page/미국.md "wikilink") [헤비메탈](https://ko.wikipedia.org/wiki/헤비메탈 "wikilink") 밴드인 [메탈리카](../Page/메탈리카.md "wikilink")의 여덟 번째 정규앨범이다. 원래 [2003년](../Page/2003년.md "wikilink") [6월 10일](../Page/6월_10일.md "wikilink") 발매예정이었지만 불법 파일 공유와 음원유출을 우려해 2003년 6월 5일에 발매되었다. '[빌보드](../Page/빌보드.md "wikilink") 200'차트에서는 1위를 더불어 첫주에 30여개국에서 1위를 차지하였고 2004 [그래미 시상식에서는](https://ko.wikipedia.org/wiki/그래미상 "wikilink") 〈베스트 록/메탈 퍼포먼스〉상을 수상하였다.
 
 이 앨범에서 밴드 [로고가](https://ko.wikipedia.org/wiki/로고타이프 "wikilink") 또 한번 바뀌게 되었고, 2008년 차기작에서 새로운 프로듀서를 고용함으로써 《St. Anger》는 《[Metallica](https://ko.wikipedia.org/wiki/Metallica "wikilink")》앨범부터 함께 작업해오던 [밥 락이](https://ko.wikipedia.org/wiki/밥_락 "wikilink") 마지막으로 프로듀스한 메탈리카의 앨범이 되었다.
 
 ## 앨범 제작 뒷 이야기
 
-1986년 부터 밴드의 멤버로 활동해오던 [제이슨 뉴스테드가](https://ko.wikipedia.org/wiki/제이슨_뉴스테드 "wikilink") 2001년에 탈퇴하고, 이후 [제임스 헷필드는](../Page/제임스_헷필드.md "wikilink") 알콜중독 치료를 위해 재활시설에 들어가는 등 어수선한 상황에서 작업한 앨범이다. 작업할 당시에는 프로듀서인 [밥 록이](https://ko.wikipedia.org/wiki/밥_록 "wikilink") 작곡 참여와 베이스를 연주했다.
+1986년 부터 밴드의 멤버로 활동해오던 [제이슨 뉴스테드가](../Page/제이슨_뉴스테드.md "wikilink") 2001년에 탈퇴하고, 이후 [제임스 헷필드는](../Page/제임스_헷필드.md "wikilink") 알콜중독 치료를 위해 재활시설에 들어가는 등 어수선한 상황에서 작업한 앨범이다. 작업할 당시에는 프로듀서인 [밥 록이](https://ko.wikipedia.org/wiki/밥_록 "wikilink") 작곡 참여와 베이스를 연주했다.
 
-앨범 작업이 끝나고 오디션을 통하여 새로운 베이시스트 멤버를 찾고있었고, 결국 2003년 2월에 [오지 오스본의](https://ko.wikipedia.org/wiki/오지_오스본 "wikilink") 밴드 멤버로 있던 [로버트 트루히요가](https://ko.wikipedia.org/wiki/로버트_트루히요 "wikilink") 최종발탁되어 메탈리카의 정식 멤버가 되었다. 이렇게 밴드에 닥쳤던 위기, 새 앨범 작업과정과 베이시스트 오디션 과정, [라스 울리히가](https://ko.wikipedia.org/wiki/라스_울리히 "wikilink") 메탈리카의 전 멤버였던 [데이브 머스테인을](https://ko.wikipedia.org/wiki/데이브_머스테인 "wikilink") 만나는 장면 등등은 다큐멘터리 형식으로 제작된 영화 [Some Kind of Monster에](https://ko.wikipedia.org/wiki/Some_Kind_of_Monster_\(다큐멘터리\) "wikilink") 모두 수록되었다.
+앨범 작업이 끝나고 오디션을 통하여 새로운 베이시스트 멤버를 찾고있었고, 결국 2003년 2월에 [오지 오스본의](https://ko.wikipedia.org/wiki/오지_오스본 "wikilink") 밴드 멤버로 있던 [로버트 트루히요가](../Page/로버트_트루히요.md "wikilink") 최종발탁되어 메탈리카의 정식 멤버가 되었다. 이렇게 밴드에 닥쳤던 위기, 새 앨범 작업과정과 베이시스트 오디션 과정, [라스 울리히가](https://ko.wikipedia.org/wiki/라스_울리히 "wikilink") 메탈리카의 전 멤버였던 [데이브 머스테인을](https://ko.wikipedia.org/wiki/데이브_머스테인 "wikilink") 만나는 장면 등등은 다큐멘터리 형식으로 제작된 영화 [Some Kind of Monster에](https://ko.wikipedia.org/wiki/Some_Kind_of_Monster_\(다큐멘터리\) "wikilink") 모두 수록되었다.
 
 ## 사운드 논란
 
@@ -32,7 +32,7 @@
 
 <!-- end list -->
 
-  - [로버트 트루히요](https://ko.wikipedia.org/wiki/로버트_트루히요 "wikilink") 가입 이후 스튜디오 내에서 진행된 앨범 전곡의 리허설 라이브 영상을 담았다. 곡 순서는 앨범의 순서와 동일하다.
+  - [로버트 트루히요](../Page/로버트_트루히요.md "wikilink") 가입 이후 스튜디오 내에서 진행된 앨범 전곡의 리허설 라이브 영상을 담았다. 곡 순서는 앨범의 순서와 동일하다.
 
 ## 참여
 
@@ -59,8 +59,8 @@
 
 </dl>
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/밥_록" title="wikilink">밥 록</a> - <a href="https://ko.wikipedia.org/wiki/베이스_기타" title="wikilink">베이스 기타</a></li>
-<li><a href="https://ko.wikipedia.org/wiki/로버트_트루히요" title="wikilink">로버트 트루히요</a> – 베이스, 백 보컬 (앨범 녹음 시에는 메탈리카 멤버가 아니었고, 오디션에서 통과한 뒤 부터 St. Anger 리허설 DVD와 각종 뮤직비디오에 같이 출연.)</li>
+<li><a href="https://ko.wikipedia.org/wiki/밥_록" title="wikilink">밥 록</a> - <a href="../Page/베이스_기타.md" title="wikilink">베이스 기타</a></li>
+<li><a href="../Page/로버트_트루히요.md" title="wikilink">로버트 트루히요</a> – 베이스, 백 보컬 (앨범 녹음 시에는 메탈리카 멤버가 아니었고, 오디션에서 통과한 뒤 부터 St. Anger 리허설 DVD와 각종 뮤직비디오에 같이 출연.)</li>
 </ul>
 <dl>
 <dt>스탭</dt>
@@ -74,7 +74,7 @@
 </ul></li>
 <li>Mike Gillies - 디지털 기술</li>
 <li>Vlado Meller(Sony 스튜디오) - <a href="https://ko.wikipedia.org/wiki/마스터링" title="wikilink">마스터링</a></li>
-<li>메탈리카 - 앨범 <a href="https://ko.wikipedia.org/wiki/디자인" title="wikilink">디자인</a></li>
+<li>메탈리카 - 앨범 <a href="../Page/디자인.md" title="wikilink">디자인</a></li>
 <li>Pushead - 커버 <a href="https://ko.wikipedia.org/wiki/일러스트레이터" title="wikilink">일러스트레이터</a></li>
 <li>Anton Corbijn - <a href="../Page/사진.md" title="wikilink">사진</a></li>
 <li>Production design by Brad Klausen</li>

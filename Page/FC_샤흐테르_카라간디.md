@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
 
 
-**FC 샤흐테르**()는 [카자흐스탄](https://ko.wikipedia.org/wiki/카자흐스탄 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로 현재 [카자흐스탄 프리미어리그에서](../Page/카자흐스탄_프리미어리그.md "wikilink") 활동하고 있다. 샤흐테르는 [1962년](https://ko.wikipedia.org/wiki/1962년 "wikilink")에 [카자흐스탄](https://ko.wikipedia.org/wiki/카자흐스탄 "wikilink") 중앙에 위치한 [카라간디](https://ko.wikipedia.org/wiki/카라간디 "wikilink")를 연고지로 하여 창단되었다. [카자흐스탄](https://ko.wikipedia.org/wiki/카자흐스탄 "wikilink") 독립 이전에는 [소비에트 연방에서](https://ko.wikipedia.org/wiki/소비에트_연방 "wikilink") 리그에 참가하였다. 독립 이후의 최고 성적은 1995시즌과 2007시즌의 3위이다.
+**FC 샤흐테르**()는 [카자흐스탄](../Page/카자흐스탄.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 현재 [카자흐스탄 프리미어리그에서](../Page/카자흐스탄_프리미어리그.md "wikilink") 활동하고 있다. 샤흐테르는 [1962년](../Page/1962년.md "wikilink")에 [카자흐스탄](../Page/카자흐스탄.md "wikilink") 중앙에 위치한 [카라간디](https://ko.wikipedia.org/wiki/카라간디 "wikilink")를 연고지로 하여 창단되었다. [카자흐스탄](../Page/카자흐스탄.md "wikilink") 독립 이전에는 [소비에트 연방에서](https://ko.wikipedia.org/wiki/소비에트_연방 "wikilink") 리그에 참가하였다. 독립 이후의 최고 성적은 1995시즌과 2007시즌의 3위이다.
 
-[2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [9월 19일](https://ko.wikipedia.org/wiki/9월_19일 "wikilink"), 샤흐테르와 [보스토크는](https://ko.wikipedia.org/wiki/FC_보스토크 "wikilink") 승부조작으로 [카자흐스탄 프리미어리그에서](../Page/카자흐스탄_프리미어리그.md "wikilink") 퇴출되었고, 감독과 코치진은 60개월간 자격 중지를 받았다. [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [10월 2일](https://ko.wikipedia.org/wiki/10월_2일 "wikilink"), [카자흐스탄 축구 협회는](https://ko.wikipedia.org/wiki/카자흐스탄_축구_협회 "wikilink") 결정을 재고하여, 샤흐테르는 승점 9점 차감되고, 보스토크는 강등되었다. 보스토크의 남은 경기는 모두 0-3으로 처리되었다.
+[2008년](../Page/2008년.md "wikilink") [9월 19일](../Page/9월_19일.md "wikilink"), 샤흐테르와 [보스토크는](https://ko.wikipedia.org/wiki/FC_보스토크 "wikilink") 승부조작으로 [카자흐스탄 프리미어리그에서](../Page/카자흐스탄_프리미어리그.md "wikilink") 퇴출되었고, 감독과 코치진은 60개월간 자격 중지를 받았다. [2008년](../Page/2008년.md "wikilink") [10월 2일](../Page/10월_2일.md "wikilink"), [카자흐스탄 축구 협회는](https://ko.wikipedia.org/wiki/카자흐스탄_축구_협회 "wikilink") 결정을 재고하여, 샤흐테르는 승점 9점 차감되고, 보스토크는 강등되었다. 보스토크의 남은 경기는 모두 0-3으로 처리되었다.
 
 ## 역대 우승 기록
 

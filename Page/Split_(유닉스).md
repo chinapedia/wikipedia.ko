@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Split \(\)](https://ko.wikipedia.org/wiki/Split_\(\)).
 
 
-**`split`**(스플릿)은 하나의 파일을 두 개 이상의 작은 파일들로 분할하는데 주로 사용되는 [유닉스](https://ko.wikipedia.org/wiki/유닉스 "wikilink") 유틸리티이다.
+**`split`**(스플릿)은 하나의 파일을 두 개 이상의 작은 파일들로 분할하는데 주로 사용되는 [유닉스](../Page/유닉스.md "wikilink") 유틸리티이다.
 
 ## 사용
 

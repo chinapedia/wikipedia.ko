@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [AFC U-16   ](https://ko.wikipedia.org/wiki/AFC_U-16___).
 
 
-**AFC U-16 축구 선수권 대회**는 [아시아 축구 연맹](https://ko.wikipedia.org/wiki/아시아_축구_연맹 "wikilink")(AFC)에서 주관하는 축구 대회이다. 첫 대회는 [1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink")에 시작되어 2년마다 개최되어 현재에 이르고 있다. 현재는 AFC의 다른 축구 대회처럼 두 단계로 나뉘어 진행된다. 예선전은 AFC의 전체 회원국에게 열려 있고, 본선전은 16개 팀이 참가한다. 대회 준결승 진출팀은 다음해에 열리는 [FIFA U-17 월드컵에](../Page/FIFA_U-17_월드컵.md "wikilink") 본선 진출 자격이 주어진다.
+**AFC U-16 축구 선수권 대회**는 [아시아 축구 연맹](../Page/아시아_축구_연맹.md "wikilink")(AFC)에서 주관하는 축구 대회이다. 첫 대회는 [1985년](../Page/1985년.md "wikilink")에 시작되어 2년마다 개최되어 현재에 이르고 있다. 현재는 AFC의 다른 축구 대회처럼 두 단계로 나뉘어 진행된다. 예선전은 AFC의 전체 회원국에게 열려 있고, 본선전은 16개 팀이 참가한다. 대회 준결승 진출팀은 다음해에 열리는 [FIFA U-17 월드컵에](../Page/FIFA_U-17_월드컵.md "wikilink") 본선 진출 자격이 주어진다.
 
 {{-}}
 
@@ -39,7 +39,7 @@
 <td><p><a href="../Page/1985년_AFC_U-17_축구_선수권_대회.md" title="wikilink">1985</a></p></td>
 <td></td>
 <td><p><strong><br />
-<a href="https://ko.wikipedia.org/wiki/사우디아라비아_축구_국가대표팀" title="wikilink">사우디아라비아</a></strong></p></td>
+<a href="../Page/사우디아라비아_축구_국가대표팀.md" title="wikilink">사우디아라비아</a></strong></p></td>
 <td><p><strong>4 : 3</strong></p></td>
 <td><p><br />
 <a href="../Page/카타르_축구_국가대표팀.md" title="wikilink">카타르</a></p></td>
@@ -50,19 +50,19 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/1986년_AFC_U-17_축구_선수권_대회" title="wikilink">1986</a></p></td>
 <td></td>
 <td><p><strong><br />
-<a href="https://ko.wikipedia.org/wiki/대한민국_축구_국가대표팀" title="wikilink">대한민국</a></strong></p></td>
+<a href="../Page/대한민국_축구_국가대표팀.md" title="wikilink">대한민국</a></strong></p></td>
 <td><p><strong>0 : 0</strong><br />
 <strong>5 : 4</strong> (<a href="../Page/승부차기.md" title="wikilink">승부차기</a>)</p></td>
 <td><p><br />
 <a href="../Page/카타르_축구_국가대표팀.md" title="wikilink">카타르</a></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/사우디아라비아_축구_국가대표팀" title="wikilink">사우디아라비아</a></p></td>
+<a href="../Page/사우디아라비아_축구_국가대표팀.md" title="wikilink">사우디아라비아</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1988년_AFC_U-17_축구_선수권_대회.md" title="wikilink">1988</a></p></td>
 <td></td>
 <td><p><strong><br />
-<a href="https://ko.wikipedia.org/wiki/사우디아라비아_축구_국가대표팀" title="wikilink">사우디아라비아</a></strong></p></td>
+<a href="../Page/사우디아라비아_축구_국가대표팀.md" title="wikilink">사우디아라비아</a></strong></p></td>
 <td><p><strong>2 : 0</strong></p></td>
 <td><p><br />
 <a href="../Page/바레인_축구_국가대표팀.md" title="wikilink">바레인</a></p></td>
@@ -90,7 +90,7 @@
 <td><p><br />
 <a href="../Page/카타르_축구_국가대표팀.md" title="wikilink">카타르</a></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/사우디아라비아_축구_국가대표팀" title="wikilink">사우디아라비아</a></p></td>
+<a href="../Page/사우디아라비아_축구_국가대표팀.md" title="wikilink">사우디아라비아</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/1994년_AFC_U-17_축구_선수권_대회" title="wikilink">1994</a></p></td>
@@ -134,7 +134,7 @@
 <a href="../Page/오만_축구_국가대표팀.md" title="wikilink">오만</a></strong></p></td>
 <td><p><strong>1 : 0</strong></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/이란_축구_국가대표팀" title="wikilink">이란</a></p></td>
+<a href="../Page/이란_축구_국가대표팀.md" title="wikilink">이란</a></p></td>
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/일본_축구_국가대표팀" title="wikilink">일본</a></p></td>
 </tr>
@@ -142,7 +142,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/2002년_AFC_U-17_축구_선수권_대회" title="wikilink">2002</a></p></td>
 <td></td>
 <td><p><strong><br />
-<a href="https://ko.wikipedia.org/wiki/대한민국_축구_국가대표팀" title="wikilink">대한민국</a></strong></p></td>
+<a href="../Page/대한민국_축구_국가대표팀.md" title="wikilink">대한민국</a></strong></p></td>
 <td><p><strong>1 : 1</strong><br />
 <strong>5 : 3</strong> (<a href="../Page/승부차기.md" title="wikilink">승부차기</a>)</p></td>
 <td><p><br />
@@ -174,13 +174,13 @@
 <a href="../Page/타지키스탄_축구_국가대표팀.md" title="wikilink">타지키스탄</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2008년_AFC_U-16_축구_선수권_대회" title="wikilink">2008</a></p></td>
+<td><p><a href="../Page/2008년_AFC_U-16_축구_선수권_대회.md" title="wikilink">2008</a></p></td>
 <td></td>
 <td><p><strong><br />
-<a href="https://ko.wikipedia.org/wiki/이란_축구_국가대표팀" title="wikilink">이란</a></strong></p></td>
+<a href="../Page/이란_축구_국가대표팀.md" title="wikilink">이란</a></strong></p></td>
 <td><p><strong>2 : 1</strong></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/대한민국_축구_국가대표팀" title="wikilink">대한민국</a></p></td>
+<a href="../Page/대한민국_축구_국가대표팀.md" title="wikilink">대한민국</a></p></td>
 <td><p><br />
 <a href="../Page/아랍에미리트_축구_국가대표팀.md" title="wikilink">아랍에미리트</a></p></td>
 </tr>
@@ -193,7 +193,7 @@
 <td><p><br />
 <a href="../Page/우즈베키스탄_축구_국가대표팀.md" title="wikilink">우즈베키스탄</a></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/오스트레일리아_축구_국가대표팀" title="wikilink">오스트레일리아</a></p></td>
+<a href="../Page/오스트레일리아_축구_국가대표팀.md" title="wikilink">오스트레일리아</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2012년_AFC_U-16_축구_선수권_대회.md" title="wikilink">2012</a></p></td>
@@ -205,7 +205,7 @@
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/일본_축구_국가대표팀" title="wikilink">일본</a></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/이란_축구_국가대표팀" title="wikilink">이란</a></p></td>
+<a href="../Page/이란_축구_국가대표팀.md" title="wikilink">이란</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2014년_AFC_U-16_축구_선수권_대회.md" title="wikilink">2014</a></p></td>
@@ -214,9 +214,9 @@
 <a href="../Page/조선민주주의인민공화국_축구_국가대표팀.md" title="wikilink">조선민주주의인민공화국</a></strong></p></td>
 <td><p><strong>2 : 1</strong></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/대한민국_축구_국가대표팀" title="wikilink">대한민국</a></p></td>
+<a href="../Page/대한민국_축구_국가대표팀.md" title="wikilink">대한민국</a></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/오스트레일리아_축구_국가대표팀" title="wikilink">오스트레일리아</a></p></td>
+<a href="../Page/오스트레일리아_축구_국가대표팀.md" title="wikilink">오스트레일리아</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2016년_AFC_U-16_축구_선수권_대회.md" title="wikilink">2016</a></p></td>
@@ -226,7 +226,7 @@
 <td><p><strong>0 : 0</strong><br />
 <strong>4 : 3</strong> (<a href="../Page/승부차기.md" title="wikilink">승부차기</a>)</p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/이란_축구_국가대표팀" title="wikilink">이란</a></p></td>
+<a href="../Page/이란_축구_국가대표팀.md" title="wikilink">이란</a></p></td>
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/일본_축구_국가대표팀" title="wikilink">일본</a></p></td>
 </tr>
@@ -239,7 +239,7 @@
 <td><p><br />
 <a href="../Page/타지키스탄_축구_국가대표팀.md" title="wikilink">타지키스탄</a></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/대한민국_축구_국가대표팀" title="wikilink">대한민국</a></p></td>
+<a href="../Page/대한민국_축구_국가대표팀.md" title="wikilink">대한민국</a></p></td>
 </tr>
 </tbody>
 </table>

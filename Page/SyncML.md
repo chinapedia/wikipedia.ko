@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SyncML](https://ko.wikipedia.org/wiki/SyncML).
 
 
-**SyncML** (**Synchronization Markup Language**)은 플랫폼 독립적인 데이터 동기화 표준이다. 즉, MS 윈도우를 사용하는 PC, 리눅스를 사용하는 PC, Palm PDA, 휴대전화, 아이팟, 아이폰 등의 어떤 기기와도 자유롭게 데이터를 동기화할 수 있다. **SyncML**은 [XML](https://ko.wikipedia.org/wiki/XML "wikilink")을 기반으로 한다.
+**SyncML** (**Synchronization Markup Language**)은 플랫폼 독립적인 데이터 동기화 표준이다. 즉, MS 윈도우를 사용하는 PC, 리눅스를 사용하는 PC, Palm PDA, 휴대전화, 아이팟, 아이폰 등의 어떤 기기와도 자유롭게 데이터를 동기화할 수 있다. **SyncML**은 [XML](../Page/XML.md "wikilink")을 기반으로 한다.
 
 ## 내부 동작
 

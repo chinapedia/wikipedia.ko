@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Paradox \(w-inds. \)](https://ko.wikipedia.org/wiki/Paradox_\(w-inds._\)).
 
 
-〈**Paradox**〉(파라독스)는 [w-inds.](https://ko.wikipedia.org/wiki/w-inds. "wikilink")의 세 번째 싱글이다. [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [10월 17일](https://ko.wikipedia.org/wiki/10월_17일 "wikilink") FLIGHT MASTER에서 발매하였다.
+〈**Paradox**〉(파라독스)는 [w-inds.](https://ko.wikipedia.org/wiki/w-inds. "wikilink")의 세 번째 싱글이다. [2001년](../Page/2001년.md "wikilink") [10월 17일](../Page/10월_17일.md "wikilink") FLIGHT MASTER에서 발매하였다.
 
 ## 개요
 
-[w-inds.](https://ko.wikipedia.org/wiki/w-inds. "wikilink")의 곡들 중에서 최대의 히트곡으로 [일본 레코드 대상에서](https://ko.wikipedia.org/wiki/일본_레코드_대상 "wikilink") 최우수 신인상, 일본 골든 디스크 대상에서 신인상을 수상하였다.
+[w-inds.](https://ko.wikipedia.org/wiki/w-inds. "wikilink")의 곡들 중에서 최대의 히트곡으로 [일본 레코드 대상에서](../Page/일본_레코드_대상.md "wikilink") 최우수 신인상, 일본 골든 디스크 대상에서 신인상을 수상하였다.
 
 Paradox 발매 이벤트는 CD구입자를 대상으로한 추첨으로 당첨자만이 참가할 수 있는 추첨제로 하였으며, 일본 5개 도시에서 개최하였다.
 
@@ -29,7 +29,7 @@ w-inds.가 첫출연한 [영화](../Page/영화.md "wikilink") 《**Star Light**
 <!-- end list -->
 
   -
-    작사, 작곡, 편곡 : [하야마 히로아키](https://ko.wikipedia.org/wiki/하야마_히로아키 "wikilink")
+    작사, 작곡, 편곡 : [하야마 히로아키](../Page/하야마_히로아키.md "wikilink")
     리믹스 : Banana Ice (\#3)
 
 ## 차트 성적

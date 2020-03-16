@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SSE3](https://ko.wikipedia.org/wiki/SSE3).
 
 
-[인텔](https://ko.wikipedia.org/wiki/인텔 "wikilink") 코드이름 **[프레스캇](https://ko.wikipedia.org/wiki/프레스캇 "wikilink") 신규 명령어(Prescott New Instructions)**로 알려진 **SSE3**는 [IA-32](https://ko.wikipedia.org/wiki/IA-32 "wikilink")용 3번째 [SSE명령어](../Page/스트리밍_SIMD_확장.md "wikilink") 집합이다. 인텔은 SSE3를 [펜티엄 4](../Page/펜티엄_4.md "wikilink") CPU인 [프레스캇](https://ko.wikipedia.org/wiki/프레스캇 "wikilink")과 함께 2004년 초에 발표를 하였다. 2005년 4월에 AMD는 애슬론 64 CPU의 버전 E(베니스와 샌 디에고)에서 SSE3의 일부를 발표하였다. [x86](https://ko.wikipedia.org/wiki/x86 "wikilink")플랫폼에서의 이전 [SIMD](https://ko.wikipedia.org/wiki/SIMD "wikilink")명령어 집합은 시간순으로 [MMX](../Page/MMX.md "wikilink"), [3DNow\!](https://ko.wikipedia.org/wiki/3DNow! "wikilink") (AMD에 의해 개발), [SSE](../Page/스트리밍_SIMD_확장.md "wikilink") 그리고 [SSE2](../Page/SSE2.md "wikilink")이다.
+[인텔](../Page/인텔.md "wikilink") 코드이름 **[프레스캇](https://ko.wikipedia.org/wiki/프레스캇 "wikilink") 신규 명령어(Prescott New Instructions)**로 알려진 **SSE3**는 [IA-32](../Page/IA-32.md "wikilink")용 3번째 [SSE명령어](../Page/스트리밍_SIMD_확장.md "wikilink") 집합이다. 인텔은 SSE3를 [펜티엄 4](../Page/펜티엄_4.md "wikilink") CPU인 [프레스캇](https://ko.wikipedia.org/wiki/프레스캇 "wikilink")과 함께 2004년 초에 발표를 하였다. 2005년 4월에 AMD는 애슬론 64 CPU의 버전 E(베니스와 샌 디에고)에서 SSE3의 일부를 발표하였다. [x86](https://ko.wikipedia.org/wiki/x86 "wikilink")플랫폼에서의 이전 [SIMD](https://ko.wikipedia.org/wiki/SIMD "wikilink")명령어 집합은 시간순으로 [MMX](../Page/MMX.md "wikilink"), [3DNow\!](https://ko.wikipedia.org/wiki/3DNow! "wikilink") (AMD에 의해 개발), [SSE](../Page/스트리밍_SIMD_확장.md "wikilink") 그리고 [SSE2](../Page/SSE2.md "wikilink")이다.
 
 SSE3는 [SSE2](../Page/SSE2.md "wikilink")대비 13개의 새로운 명령어가 포함되어 있다.
 
@@ -18,12 +18,12 @@ SSE3는 [SSE2](../Page/SSE2.md "wikilink")대비 13개의 새로운 명령어가
       - [옵테론](../Page/옵테론.md "wikilink") (스테핑 E4 이후)
       - [셈프론](../Page/셈프론.md "wikilink") (Palermo 스테핑 E3 이후)
       - [페넘](https://ko.wikipedia.org/wiki/페넘 "wikilink")
-      - [페넘 II](https://ko.wikipedia.org/wiki/페넘_II "wikilink")
+      - [페넘 II](../Page/페넘_II.md "wikilink")
       - [튜리온 64](https://ko.wikipedia.org/wiki/튜리온_64 "wikilink")
       - [튜리온 64 X2](../Page/튜리온_64_X2.md "wikilink")
-  - [인텔](https://ko.wikipedia.org/wiki/인텔 "wikilink"):
+  - [인텔](../Page/인텔.md "wikilink"):
       - [셀러론 D](https://ko.wikipedia.org/wiki/셀러론_D "wikilink")
-      - [셀러론](https://ko.wikipedia.org/wiki/셀러론 "wikilink") 420, 430, 440
+      - [셀러론](../Page/셀러론.md "wikilink") 420, 430, 440
       - [펜티엄 4](../Page/펜티엄_4.md "wikilink") (프레스캇 이후)
       - [펜티엄 D](../Page/펜티엄_D.md "wikilink")
       - [펜티엄 듀얼 코어](../Page/펜티엄_듀얼_코어.md "wikilink")
@@ -80,8 +80,8 @@ SSE3는 [SSE2](../Page/SSE2.md "wikilink")대비 13개의 새로운 명령어가
 
   - [스트리밍 SIMD 확장](../Page/스트리밍_SIMD_확장.md "wikilink") (SSE)
   - [SSE2](../Page/SSE2.md "wikilink")
-  - [SSSE3](https://ko.wikipedia.org/wiki/SSSE3 "wikilink")
-  - [SSE4](https://ko.wikipedia.org/wiki/SSE4 "wikilink")
+  - [SSSE3](../Page/SSSE3.md "wikilink")
+  - [SSE4](../Page/SSE4.md "wikilink")
   - [SIMD](https://ko.wikipedia.org/wiki/SIMD "wikilink")
   - [넷버스트 마이크로아키텍처](https://ko.wikipedia.org/wiki/넷버스트_마이크로아키텍처 "wikilink")
   - [네할렘 마이크로아키텍처](https://ko.wikipedia.org/wiki/네할렘_마이크로아키텍처 "wikilink")

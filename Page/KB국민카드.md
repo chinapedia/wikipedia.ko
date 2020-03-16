@@ -5,13 +5,13 @@
 
 ## 역사
 
-  - [1980년](https://ko.wikipedia.org/wiki/1980년 "wikilink"): [국민은행](https://ko.wikipedia.org/wiki/국민은행 "wikilink")에서 국민카드 업무 시작
-  - [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink"): 국민신용카드 설립
-  - [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [1월 1일](https://ko.wikipedia.org/wiki/1월_1일 "wikilink"): 장기신용카드를 흡수합병
-  - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [9월 30일](https://ko.wikipedia.org/wiki/9월_30일 "wikilink"): [국민은행](https://ko.wikipedia.org/wiki/국민은행 "wikilink")으로 흡수합병\[1\]
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink"): 슬로건 재정 (앞서거나 새롭거나)
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink"): 슬로건 변경 (국민생활의 힘)
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [3월 2일](https://ko.wikipedia.org/wiki/3월_2일 "wikilink"): [국민은행](https://ko.wikipedia.org/wiki/국민은행 "wikilink")에서 분사하여 "KB국민카드" 출범\[2\]
+  - [1980년](../Page/1980년.md "wikilink"): [국민은행](../Page/국민은행.md "wikilink")에서 국민카드 업무 시작
+  - [1987년](../Page/1987년.md "wikilink"): 국민신용카드 설립
+  - [1999년](../Page/1999년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink"): 장기신용카드를 흡수합병
+  - [2003년](../Page/2003년.md "wikilink") [9월 30일](../Page/9월_30일.md "wikilink"): [국민은행](../Page/국민은행.md "wikilink")으로 흡수합병\[1\]
+  - [2010년](../Page/2010년.md "wikilink"): 슬로건 재정 (앞서거나 새롭거나)
+  - [2011년](../Page/2011년.md "wikilink"): 슬로건 변경 (국민생활의 힘)
+  - [2011년](../Page/2011년.md "wikilink") [3월 2일](../Page/3월_2일.md "wikilink"): [국민은행](../Page/국민은행.md "wikilink")에서 분사하여 "KB국민카드" 출범\[2\]
 
 ## 취급 브랜드
 
@@ -19,7 +19,7 @@
 
 <!-- end list -->
 
-  - [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") 전용 / [비자카드](../Page/비자카드.md "wikilink") / [마스타카드](https://ko.wikipedia.org/wiki/마스타카드 "wikilink") / [은련카드](../Page/중국은련.md "wikilink")\[3\] / [아메리칸엑스프레스카드](../Page/아메리칸_엑스프레스.md "wikilink") / [JCB](https://ko.wikipedia.org/wiki/JCB "wikilink")
+  - [대한민국](../Page/대한민국.md "wikilink") 전용 / [비자카드](../Page/비자카드.md "wikilink") / [마스타카드](https://ko.wikipedia.org/wiki/마스타카드 "wikilink") / [은련카드](../Page/중국은련.md "wikilink")\[3\] / [아메리칸엑스프레스카드](../Page/아메리칸_엑스프레스.md "wikilink") / [JCB](https://ko.wikipedia.org/wiki/JCB "wikilink")
 
 <!-- end list -->
 
@@ -35,13 +35,13 @@
 
 <!-- end list -->
 
-  - [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") 전용 / [비자카드](../Page/비자카드.md "wikilink") / [마스타카드](https://ko.wikipedia.org/wiki/마스타카드 "wikilink") / [은련카드](../Page/중국은련.md "wikilink") / [JCB](https://ko.wikipedia.org/wiki/JCB "wikilink")
+  - [대한민국](../Page/대한민국.md "wikilink") 전용 / [비자카드](../Page/비자카드.md "wikilink") / [마스타카드](https://ko.wikipedia.org/wiki/마스타카드 "wikilink") / [은련카드](../Page/중국은련.md "wikilink") / [JCB](https://ko.wikipedia.org/wiki/JCB "wikilink")
 
 ## 발급 기관 및 전산 시스템
 
-자사 영업점을 제외한 발급 기관에서는 자사 카드에 한하여 특정한 상품만 취급한다. 그리고 은행권과 증권사의 카드들은 [NH농협은행](../Page/NH농협은행.md "wikilink")과 제휴한 금융기관의 [현금카드](../Page/현금인출카드.md "wikilink") 및 [신용카드](https://ko.wikipedia.org/wiki/신용카드 "wikilink") 탑재가 가능하다. [체크카드](../Page/체크카드.md "wikilink")의 해외결제인 경우에는 일부국내용카드(골든라이프,[방탄소년단](../Page/방탄소년단.md "wikilink"),[나라사랑카드](../Page/나라사랑카드.md "wikilink"),리브메이트) 외에는 무조건 100% [국민은행](https://ko.wikipedia.org/wiki/국민은행 "wikilink") 전용으로 연동할 수 있으며, [NH농협은행](../Page/NH농협은행.md "wikilink")과 [신한은행](https://ko.wikipedia.org/wiki/신한은행 "wikilink") 제휴형은 국내전용으로만 나온다.
+자사 영업점을 제외한 발급 기관에서는 자사 카드에 한하여 특정한 상품만 취급한다. 그리고 은행권과 증권사의 카드들은 [NH농협은행](../Page/NH농협은행.md "wikilink")과 제휴한 금융기관의 [현금카드](../Page/현금인출카드.md "wikilink") 및 [신용카드](../Page/신용카드.md "wikilink") 탑재가 가능하다. [체크카드](../Page/체크카드.md "wikilink")의 해외결제인 경우에는 일부국내용카드(골든라이프,[방탄소년단](../Page/방탄소년단.md "wikilink"),[나라사랑카드](../Page/나라사랑카드.md "wikilink"),리브메이트) 외에는 무조건 100% [국민은행](../Page/국민은행.md "wikilink") 전용으로 연동할 수 있으며, [NH농협은행](../Page/NH농협은행.md "wikilink")과 [신한은행](../Page/신한은행.md "wikilink") 제휴형은 국내전용으로만 나온다.
 
-  - [국민은행](https://ko.wikipedia.org/wiki/국민은행 "wikilink") / [우체국](../Page/우정사업본부.md "wikilink") (에버리치 KB국민 Wise 홈 카드)
+  - [국민은행](../Page/국민은행.md "wikilink") / [우체국](../Page/우정사업본부.md "wikilink") (에버리치 KB국민 Wise 홈 카드)
 
 <!-- end list -->
 
@@ -49,7 +49,7 @@
 
 <!-- end list -->
 
-  - [삼성증권](https://ko.wikipedia.org/wiki/삼성증권 "wikilink")
+  - [삼성증권](../Page/삼성증권.md "wikilink")
 
 <!-- end list -->
 
@@ -59,7 +59,7 @@
 
   - [NH농협카드](../Page/NH농협카드.md "wikilink") (채움 브랜드)\[4\]
   - [카카오뱅크](../Page/카카오뱅크.md "wikilink") (프렌즈 체크카드)
-  - [KB증권](https://ko.wikipedia.org/wiki/KB증권 "wikilink")
+  - [KB증권](../Page/KB증권.md "wikilink")
 
 ## 후불교통카드
 
@@ -102,7 +102,7 @@
   -
 [분류:대한민국의 카드사](https://ko.wikipedia.org/wiki/분류:대한민국의_카드사 "wikilink") [카드](https://ko.wikipedia.org/wiki/분류:KB금융그룹의_자회사 "wikilink") [분류:1987년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1987년_설립된_기업 "wikilink") [분류:2003년 폐지](https://ko.wikipedia.org/wiki/분류:2003년_폐지 "wikilink") [분류:2011년 설립된 기업](https://ko.wikipedia.org/wiki/분류:2011년_설립된_기업 "wikilink")
 
-1.  **KB카드** 브랜드로 카드 발급을 하였으며, 구 [주택은행](https://ko.wikipedia.org/wiki/주택은행 "wikilink") 시절부터 발급하던 [비씨카드](../Page/비씨카드.md "wikilink")는 [국민은행](https://ko.wikipedia.org/wiki/국민은행 "wikilink")에 승계되어 **KB[비씨카드](../Page/비씨카드.md "wikilink")**라는 브랜드로 계속 발급 중인 상태였다.
+1.  **KB카드** 브랜드로 카드 발급을 하였으며, 구 [주택은행](https://ko.wikipedia.org/wiki/주택은행 "wikilink") 시절부터 발급하던 [비씨카드](../Page/비씨카드.md "wikilink")는 [국민은행](../Page/국민은행.md "wikilink")에 승계되어 **KB[비씨카드](../Page/비씨카드.md "wikilink")**라는 브랜드로 계속 발급 중인 상태였다.
 2.  [국민은행→KB카드로 출범](http://www.fntimes.com/sub/list_view.asp?num=0220110207005)
 3.  <http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=021&aid=0002128056>
 4.  KB국민카드의 가맹점을 공유하는 자사 브랜드(채움 브랜드)에 해당되므로, 전표 매입회사명으로 KB국민카드가 따로 찍히며, 일부 가맹점의 경우, NH농협카드 대신 KB국민카드로 영수증에 찍히는 경우가 있다(농협 [BC카드](https://ko.wikipedia.org/wiki/BC카드 "wikilink") 제외).

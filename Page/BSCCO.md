@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BSCCO](https://ko.wikipedia.org/wiki/BSCCO).
 
 
-**BSCCO**(Bismuth Strontium Calcium Copper Oxide)의 분자식은 [Bi](https://ko.wikipedia.org/wiki/비스무트 "wikilink")<sub>2</sub>[Sr](https://ko.wikipedia.org/wiki/스트론튬 "wikilink")<sub>2</sub>[Ca](https://ko.wikipedia.org/wiki/칼슘 "wikilink")[Cu](https://ko.wikipedia.org/wiki/구리 "wikilink")<sub>2</sub>[O](https://ko.wikipedia.org/wiki/산소 "wikilink")<sub>8+δ</sub>이다. BSCCO는 간단히 **비스코** 혹은 **Bi-2212**라고 불린다. Bi는 [비스무트](https://ko.wikipedia.org/wiki/비스무트 "wikilink")의 약자이며, 2212는 금속성 원소의 개수를 뜻한다. 이 물질은 1988년 일본의 Tsukuba Laboratories에 의해 발견되었다. 세라믹 물질의 Bi-Sr-Ca-Cu-O의 구조에서 기존의 초전도체보다 높은 임계온도를 가진다는 것을 최초로 보고했다.\[1\]
+**BSCCO**(Bismuth Strontium Calcium Copper Oxide)의 분자식은 [Bi](../Page/비스무트.md "wikilink")<sub>2</sub>[Sr](https://ko.wikipedia.org/wiki/스트론튬 "wikilink")<sub>2</sub>[Ca](https://ko.wikipedia.org/wiki/칼슘 "wikilink")[Cu](../Page/구리.md "wikilink")<sub>2</sub>[O](../Page/산소.md "wikilink")<sub>8+δ</sub>이다. BSCCO는 간단히 **비스코** 혹은 **Bi-2212**라고 불린다. Bi는 [비스무트](../Page/비스무트.md "wikilink")의 약자이며, 2212는 금속성 원소의 개수를 뜻한다. 이 물질은 1988년 일본의 Tsukuba Laboratories에 의해 발견되었다. 세라믹 물질의 Bi-Sr-Ca-Cu-O의 구조에서 기존의 초전도체보다 높은 임계온도를 가진다는 것을 최초로 보고했다.\[1\]
 
 ## 실험
 

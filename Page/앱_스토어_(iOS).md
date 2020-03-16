@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [  \(iOS\)](https://ko.wikipedia.org/wiki/__\(iOS\)).
 
 
-**앱 스토어**()는 [애플이](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 운영하고 있는 [아이폰](../Page/아이폰.md "wikilink"), [아이패드](https://ko.wikipedia.org/wiki/아이패드 "wikilink") 및 [아이팟 터치용](../Page/아이팟_터치.md "wikilink") [응용 소프트웨어](https://ko.wikipedia.org/wiki/응용_소프트웨어 "wikilink") [다운로드](../Page/다운로드.md "wikilink") 서비스이다. [아이폰 3G가](../Page/아이폰_3G.md "wikilink") 발표될 즈음인 2008년 7월 10일부터 [아이튠즈](https://ko.wikipedia.org/wiki/아이튠즈 "wikilink")의 업데이트 형태로 서비스가 시작되었다.
+**앱 스토어**()는 [애플이](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 운영하고 있는 [아이폰](../Page/아이폰.md "wikilink"), [아이패드](../Page/아이패드.md "wikilink") 및 [아이팟 터치용](../Page/아이팟_터치.md "wikilink") [응용 소프트웨어](../Page/응용_소프트웨어.md "wikilink") [다운로드](../Page/다운로드.md "wikilink") 서비스이다. [아이폰 3G가](../Page/아이폰_3G.md "wikilink") 발표될 즈음인 2008년 7월 10일부터 [아이튠즈](../Page/아이튠즈.md "wikilink")의 업데이트 형태로 서비스가 시작되었다.
 
 "앱 스토어"란 이름은 "애플의 응용 소프트웨어 가게 (Apple Application Software Store)"란 의미를 담고 있다.
 
-[개인용 컴퓨터에서](https://ko.wikipedia.org/wiki/개인용_컴퓨터 "wikilink") [아이튠즈](https://ko.wikipedia.org/wiki/아이튠즈 "wikilink")를 이용하거나, 아이폰 및 아이팟 터치의 메뉴에서 직접 [3G 네트워크](https://ko.wikipedia.org/wiki/3세대_이동통신 "wikilink") 혹은 [Wi-Fi](https://ko.wikipedia.org/wiki/Wi-Fi "wikilink")를 경유하여(아이팟 터치의 경우는 Wi-Fi만 지원) 소프트웨어를 다운로드할 수 있다. 다운로드할 수 있는 소프트웨어는 유료 및 무료가 있으며, 무료 소프트웨어를 다운로드할 때도 [아이튠즈 스토어의](https://ko.wikipedia.org/wiki/아이튠즈_스토어 "wikilink") 계정이 필요하다.
+[개인용 컴퓨터에서](../Page/개인용_컴퓨터.md "wikilink") [아이튠즈](../Page/아이튠즈.md "wikilink")를 이용하거나, 아이폰 및 아이팟 터치의 메뉴에서 직접 [3G 네트워크](https://ko.wikipedia.org/wiki/3세대_이동통신 "wikilink") 혹은 [Wi-Fi](https://ko.wikipedia.org/wiki/Wi-Fi "wikilink")를 경유하여(아이팟 터치의 경우는 Wi-Fi만 지원) 소프트웨어를 다운로드할 수 있다. 다운로드할 수 있는 소프트웨어는 유료 및 무료가 있으며, 무료 소프트웨어를 다운로드할 때도 [아이튠즈 스토어의](https://ko.wikipedia.org/wiki/아이튠즈_스토어 "wikilink") 계정이 필요하다.
 
-일반 이용자는 자신이 개발한 응용 소프트웨어를 앱 스토어를 통해 등록할 수 있다. 이를 위해서는 애플과 개발자 계약을 한 후, [인텔](https://ko.wikipedia.org/wiki/인텔 "wikilink")의 CPU가 탑재된 [매킨토시](https://ko.wikipedia.org/wiki/매킨토시 "wikilink")의 [Mac OS X 10.5](https://ko.wikipedia.org/wiki/Mac_OS_X "wikilink") 이상의 운영 체제에서 [Xcode](https://ko.wikipedia.org/wiki/Xcode "wikilink"), 아이폰 SDK 등의 개발 도구를 이용하여 작성한 다음 앱 스토어를 통해 전 세계를 대상으로 판매할 수 있다. 이를 위해 개발자로서 등록하는 데에는 연간 99 달러의 비용이 든다. 유료 소프트웨어의 판매 가격은, 개발자가 자유롭게 매길 수 있으며, 판매 수익의 30%를 애플이 수수료 및 호스팅 비용으로 받는 형태이다.
+일반 이용자는 자신이 개발한 응용 소프트웨어를 앱 스토어를 통해 등록할 수 있다. 이를 위해서는 애플과 개발자 계약을 한 후, [인텔](../Page/인텔.md "wikilink")의 CPU가 탑재된 [매킨토시](../Page/매킨토시.md "wikilink")의 [Mac OS X 10.5](https://ko.wikipedia.org/wiki/Mac_OS_X "wikilink") 이상의 운영 체제에서 [Xcode](https://ko.wikipedia.org/wiki/Xcode "wikilink"), 아이폰 SDK 등의 개발 도구를 이용하여 작성한 다음 앱 스토어를 통해 전 세계를 대상으로 판매할 수 있다. 이를 위해 개발자로서 등록하는 데에는 연간 99 달러의 비용이 든다. 유료 소프트웨어의 판매 가격은, 개발자가 자유롭게 매길 수 있으며, 판매 수익의 30%를 애플이 수수료 및 호스팅 비용으로 받는 형태이다.
 
 앱 스토어는 아이폰 및 아이팟 터치의 운영 체제 버전이 2.0 이상이어야 이용할 수 있으며, 컴퓨터에서 이용하는 경우 아이튠즈 7.7 이상부터 이용할 수 있다. 다만 [아이폰 OS](https://ko.wikipedia.org/wiki/아이폰_OS "wikilink") 3.0 출시 이후 등록된 응용 프로그램은 운영 체제 버전 2.0 에서는 설치할 수 없는 것들이 대부분이다.
 

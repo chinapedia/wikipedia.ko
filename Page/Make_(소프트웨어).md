@@ -11,10 +11,10 @@
 
   - SunPro make
   - dmake(Distributed Make)
-  - [BSD](https://ko.wikipedia.org/wiki/BSD "wikilink") make(pmake\[1\], bmake, fmake)
-  - [GNU](https://ko.wikipedia.org/wiki/GNU "wikilink") make(gmake)
+  - [BSD](../Page/BSD.md "wikilink") make(pmake\[1\], bmake, fmake)
+  - [GNU](../Page/GNU.md "wikilink") make(gmake)
   - Glenn Fowler의 nmake\[2\]
-  - [마이크로소프트](https://ko.wikipedia.org/wiki/마이크로소프트 "wikilink") nmake
+  - [마이크로소프트](../Page/마이크로소프트.md "wikilink") nmake
   - [리서치 유닉스의](https://ko.wikipedia.org/wiki/리서치_유닉스 "wikilink") Mk
 
 ## Makefile

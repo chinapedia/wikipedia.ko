@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [OFC ](https://ko.wikipedia.org/wiki/OFC_).
 
 
-**OFC 챔피언스리그**(OFC Champions League)는 [오세아니아 축구 연맹에](../Page/오세아니아_축구_연맹.md "wikilink") 소속된 국가의 축구 리그 우승 팀이 참가하는 [오세아니아](https://ko.wikipedia.org/wiki/오세아니아 "wikilink")의 클럽 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 대회이다. OFC 챔피언스리그는 2007년에 이전의 **오세아니아 클럽 챔피언십**(Oceania Club Championship)을 대신하여 첫 시즌이 시작되었다.
+**OFC 챔피언스리그**(OFC Champions League)는 [오세아니아 축구 연맹에](../Page/오세아니아_축구_연맹.md "wikilink") 소속된 국가의 축구 리그 우승 팀이 참가하는 [오세아니아](../Page/오세아니아.md "wikilink")의 클럽 [축구](../Page/축구.md "wikilink") 대회이다. OFC 챔피언스리그는 2007년에 이전의 **오세아니아 클럽 챔피언십**(Oceania Club Championship)을 대신하여 첫 시즌이 시작되었다.
 
 ## 오세아니아 클럽 챔피언십
 
 오세아니아 클럽 챔피언십은 1999년부터 [오세아니아 축구 연맹에](../Page/오세아니아_축구_연맹.md "wikilink") 의해 조직되고, 이 대회의 우승 팀은 오세아니아를 대표하여 [FIFA 클럽 월드컵에](../Page/FIFA_클럽_월드컵.md "wikilink") 진출할 수 있는 자격을 얻게 된다. 하지만 2001년 대회의 우승 팀인 [울런공 울브스 FC는](https://ko.wikipedia.org/wiki/울런공_울브스_FC "wikilink") 대회가 취소되면서 참가하지 못했다.
 
-2006년 대회는 [뉴질랜드](https://ko.wikipedia.org/wiki/뉴질랜드 "wikilink")에서 열렸고, [오클랜드 시티가](../Page/오클랜드_시티_FC.md "wikilink") 우승하였다. 이 대회의 예선전에는 하위 순위의 리그 우승 팀이 참가하여 [피지](https://ko.wikipedia.org/wiki/피지 "wikilink")에서 진행되었다.
+2006년 대회는 [뉴질랜드](../Page/뉴질랜드.md "wikilink")에서 열렸고, [오클랜드 시티가](../Page/오클랜드_시티_FC.md "wikilink") 우승하였다. 이 대회의 예선전에는 하위 순위의 리그 우승 팀이 참가하여 [피지](../Page/피지.md "wikilink")에서 진행되었다.
 
-전통적으로 오세아니아 우승 팀은 본선에 바로 참가하지 못하고 개최국의 우승 팀과의 예선전을 통과해야 본선에 참가할 수 있다. [2007년 FIFA 클럽 월드컵의](../Page/2007년_FIFA_클럽_월드컵.md "wikilink") 본선에 바로 참가하지 못하고 개최국이 일본의 [J리그](../Page/J리그.md "wikilink") 우승 팀이었던 [우라와 레즈가](https://ko.wikipedia.org/wiki/우라와_레즈 "wikilink") [AFC 챔피언스리그를](../Page/AFC_챔피언스리그.md "wikilink") 우승했기 때문에 AFC 챔피언스리그 준우승 팀이었던 이란의 [세파한이](https://ko.wikipedia.org/wiki/세파한_이스파한_FC "wikilink") 주최국 자리를 받아서 오클랜드 시티와의 예선전을 치렀다. 같은 방식으로 [2008년 FIFA 클럽 월드컵 2008에서도](https://ko.wikipedia.org/wiki/2008년_FIFA_클럽_월드컵_2008 "wikilink") OFC 챔피언스리그의 우승 팀은 개최국인 일본의 [J리그](../Page/J리그.md "wikilink") 우승 팀이었던 [감바 오사카가](../Page/감바_오사카.md "wikilink") [AFC 챔피언스리그를](../Page/AFC_챔피언스리그.md "wikilink") 우승했기 때문에 AFC 챔피언스리그에서 감바 오사카 다음으로 좋은 성적을 거둔 [애들레이드 유나이티드와](https://ko.wikipedia.org/wiki/애들레이드_유나이티드 "wikilink") 예선 플레이오프를 치러야 했다. 이는 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")과 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink")에도 적용되어서 개최국 [아랍에미리트](https://ko.wikipedia.org/wiki/아랍에미리트 "wikilink")의 우승 팀과 경기를 하였다.
+전통적으로 오세아니아 우승 팀은 본선에 바로 참가하지 못하고 개최국의 우승 팀과의 예선전을 통과해야 본선에 참가할 수 있다. [2007년 FIFA 클럽 월드컵의](../Page/2007년_FIFA_클럽_월드컵.md "wikilink") 본선에 바로 참가하지 못하고 개최국이 일본의 [J리그](../Page/J리그.md "wikilink") 우승 팀이었던 [우라와 레즈가](https://ko.wikipedia.org/wiki/우라와_레즈 "wikilink") [AFC 챔피언스리그를](../Page/AFC_챔피언스리그.md "wikilink") 우승했기 때문에 AFC 챔피언스리그 준우승 팀이었던 이란의 [세파한이](https://ko.wikipedia.org/wiki/세파한_이스파한_FC "wikilink") 주최국 자리를 받아서 오클랜드 시티와의 예선전을 치렀다. 같은 방식으로 [2008년 FIFA 클럽 월드컵 2008에서도](https://ko.wikipedia.org/wiki/2008년_FIFA_클럽_월드컵_2008 "wikilink") OFC 챔피언스리그의 우승 팀은 개최국인 일본의 [J리그](../Page/J리그.md "wikilink") 우승 팀이었던 [감바 오사카가](../Page/감바_오사카.md "wikilink") [AFC 챔피언스리그를](../Page/AFC_챔피언스리그.md "wikilink") 우승했기 때문에 AFC 챔피언스리그에서 감바 오사카 다음으로 좋은 성적을 거둔 [애들레이드 유나이티드와](https://ko.wikipedia.org/wiki/애들레이드_유나이티드 "wikilink") 예선 플레이오프를 치러야 했다. 이는 [2009년](../Page/2009년.md "wikilink")과 [2010년](../Page/2010년.md "wikilink")에도 적용되어서 개최국 [아랍에미리트](../Page/아랍에미리트.md "wikilink")의 우승 팀과 경기를 하였다.
 
-2009-10 시즌에서는 [파푸아뉴기니](https://ko.wikipedia.org/wiki/파푸아뉴기니 "wikilink")의 [PRK 헤카리 유나이티드가](../Page/PRK_헤카리_유나이티드.md "wikilink") 우승하였다. 2010-11 시즌부터 2017 시즌까지 [뉴질랜드](https://ko.wikipedia.org/wiki/뉴질랜드 "wikilink")의 [오클랜드 시티가](../Page/오클랜드_시티_FC.md "wikilink") 대회 7연패를 기록하고 있다.
+2009-10 시즌에서는 [파푸아뉴기니](../Page/파푸아뉴기니.md "wikilink")의 [PRK 헤카리 유나이티드가](../Page/PRK_헤카리_유나이티드.md "wikilink") 우승하였다. 2010-11 시즌부터 2017 시즌까지 [뉴질랜드](../Page/뉴질랜드.md "wikilink")의 [오클랜드 시티가](../Page/오클랜드_시티_FC.md "wikilink") 대회 7연패를 기록하고 있다.
 
 ## 구성
 
@@ -19,7 +19,7 @@
 
 오세아니아 클럽 챔피언십은 한 지역에서 토너먼트 형식으로 이루어진다. 참가 클럽은 네 팀씩 두 개의 조로 나뉘어 경기를 하여 각 조의 상위 두 팀만이 준결승전에 올라가 우승 팀을 가리게 된다.
 
-### 현재의 구성 ([OFC 챔피언스리그](https://ko.wikipedia.org/wiki/OFC_챔피언스리그 "wikilink"))
+### 현재의 구성 ([OFC 챔피언스리그](../Page/OFC_챔피언스리그.md "wikilink"))
 
 OFC 챔피언스리그에서는 각 축구 협회에서 1\~2팀씩 참가한다. 결승에서 승리한 팀은 [FIFA 클럽 월드컵에](../Page/FIFA_클럽_월드컵.md "wikilink") 참가할 자격을 얻게 된다.
 
@@ -93,75 +93,75 @@ OFC 챔피언스리그에서는 각 축구 협회에서 1\~2팀씩 참가한다.
 <tbody>
 <tr class="odd">
 <td><p>1987<br />
-<small><em><a href="https://ko.wikipedia.org/wiki/1987년_오세아니아_클럽_챔피언십" title="wikilink">상세정보</a></em></small></p></td>
+<small><em><a href="../Page/1987년_오세아니아_클럽_챔피언십.md" title="wikilink">상세정보</a></em></small></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/애들레이드_시티" title="wikilink">애들레이드 시티</a></strong><br />
 <br />
-<small>(<a href="https://ko.wikipedia.org/wiki/오스트레일리아" title="wikilink">오스트레일리아</a>)</small></p></td>
+<small>(<a href="../Page/오스트레일리아.md" title="wikilink">오스트레일리아</a>)</small></p></td>
 <td><p><strong>1 - 1</strong><br />
 (<a href="../Page/연장전.md" title="wikilink">연장전</a>)<br />
 <small>4 - 1 (<a href="../Page/승부차기.md" title="wikilink">p</a>)</small></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/유니버시티-마운트_웰링턴" title="wikilink">마운트 웰링턴</a><br />
 <br />
-<small>(<a href="https://ko.wikipedia.org/wiki/뉴질랜드" title="wikilink">뉴질랜드</a>)</small></p></td>
+<small>(<a href="../Page/뉴질랜드.md" title="wikilink">뉴질랜드</a>)</small></p></td>
 <td><p><a href="../Page/애들레이드.md" title="wikilink">애들레이드</a><br />
 <br />
-<small>(<a href="https://ko.wikipedia.org/wiki/오스트레일리아" title="wikilink">오스트레일리아</a>)</small></p></td>
+<small>(<a href="../Page/오스트레일리아.md" title="wikilink">오스트레일리아</a>)</small></p></td>
 </tr>
 <tr class="even">
 <td><p>1999<br />
-<small><em><a href="https://ko.wikipedia.org/wiki/1999년_오세아니아_클럽_챔피언십" title="wikilink">상세정보</a></em></small></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/사우스_멜버른_FC" title="wikilink">사우스 멜버른 FC</a></strong><br />
+<small><em><a href="../Page/1999년_오세아니아_클럽_챔피언십.md" title="wikilink">상세정보</a></em></small></p></td>
+<td><p><strong><a href="../Page/사우스_멜버른_FC.md" title="wikilink">사우스 멜버른 FC</a></strong><br />
 <br />
-<small>(<a href="https://ko.wikipedia.org/wiki/오스트레일리아" title="wikilink">오스트레일리아</a>)</small></p></td>
+<small>(<a href="../Page/오스트레일리아.md" title="wikilink">오스트레일리아</a>)</small></p></td>
 <td><p><strong>5 - 1</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/난디_FC" title="wikilink">난디 FC</a><br />
 <br />
-<small>(<a href="https://ko.wikipedia.org/wiki/피지" title="wikilink">피지</a>)</small></p></td>
+<small>(<a href="../Page/피지.md" title="wikilink">피지</a>)</small></p></td>
 <td><p><a href="../Page/난디.md" title="wikilink">난디</a>/<a href="https://ko.wikipedia.org/wiki/라우토카" title="wikilink">라우토카</a><br />
 <br />
-<small>(<a href="https://ko.wikipedia.org/wiki/피지" title="wikilink">피지</a>)</small></p></td>
+<small>(<a href="../Page/피지.md" title="wikilink">피지</a>)</small></p></td>
 </tr>
 <tr class="odd">
 <td><p>2001<br />
-<small><em><a href="https://ko.wikipedia.org/wiki/2001년_오세아니아_클럽_챔피언십" title="wikilink">상세정보</a></em></small></p></td>
+<small><em><a href="../Page/2001년_오세아니아_클럽_챔피언십.md" title="wikilink">상세정보</a></em></small></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/울런공_FC" title="wikilink">울런공 울브스</a></strong><br />
 <br />
-<small>(<a href="https://ko.wikipedia.org/wiki/오스트레일리아" title="wikilink">오스트레일리아</a>)</small></p></td>
+<small>(<a href="../Page/오스트레일리아.md" title="wikilink">오스트레일리아</a>)</small></p></td>
 <td><p><strong>1 - 0</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/타페아_FC" title="wikilink">타페아 FC</a><br />
 <br />
-<small>(<a href="https://ko.wikipedia.org/wiki/바누아투" title="wikilink">바누아투</a>)</small></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/포트모르즈비" title="wikilink">포트모르즈비</a><br />
+<small>(<a href="../Page/바누아투.md" title="wikilink">바누아투</a>)</small></p></td>
+<td><p><a href="../Page/포트모르즈비.md" title="wikilink">포트모르즈비</a><br />
 <br />
-<small>(<a href="https://ko.wikipedia.org/wiki/파푸아뉴기니" title="wikilink">파푸아뉴기니</a>)</small></p></td>
+<small>(<a href="../Page/파푸아뉴기니.md" title="wikilink">파푸아뉴기니</a>)</small></p></td>
 </tr>
 <tr class="even">
 <td><p>2005<br />
-<small><em><a href="https://ko.wikipedia.org/wiki/2005년_오세아니아_클럽_챔피언십" title="wikilink">상세정보</a></em></small></p></td>
+<small><em><a href="../Page/2005년_오세아니아_클럽_챔피언십.md" title="wikilink">상세정보</a></em></small></p></td>
 <td><p><strong><a href="../Page/시드니_FC.md" title="wikilink">시드니 FC</a></strong><br />
 <br />
-<small>(<a href="https://ko.wikipedia.org/wiki/오스트레일리아" title="wikilink">오스트레일리아</a>)</small></p></td>
+<small>(<a href="../Page/오스트레일리아.md" title="wikilink">오스트레일리아</a>)</small></p></td>
 <td><p><strong>2 - 0</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/AS_마장타" title="wikilink">AS 마장타</a><br />
 <br />
-<small>(<a href="https://ko.wikipedia.org/wiki/누벨칼레도니" title="wikilink">누벨칼레도니</a>)</small></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/파페에테" title="wikilink">파페에테</a><br />
+<small>(<a href="../Page/누벨칼레도니.md" title="wikilink">누벨칼레도니</a>)</small></p></td>
+<td><p><a href="../Page/파페에테.md" title="wikilink">파페에테</a><br />
 <br />
-<small>(<a href="https://ko.wikipedia.org/wiki/프랑스령_폴리네시아" title="wikilink">프랑스령 폴리네시아</a>)</small></p></td>
+<small>(<a href="../Page/프랑스령_폴리네시아.md" title="wikilink">프랑스령 폴리네시아</a>)</small></p></td>
 </tr>
 <tr class="odd">
 <td><p>2006<br />
-<small><em><a href="https://ko.wikipedia.org/wiki/2006년_오세아니아_클럽_챔피언십" title="wikilink">상세정보</a></em></small></p></td>
+<small><em><a href="../Page/2006년_오세아니아_클럽_챔피언십.md" title="wikilink">상세정보</a></em></small></p></td>
 <td><p><strong><a href="../Page/오클랜드_시티_FC.md" title="wikilink">오클랜드 시티</a></strong><br />
 <br />
-<small>(<a href="https://ko.wikipedia.org/wiki/뉴질랜드" title="wikilink">뉴질랜드</a>)</small></p></td>
+<small>(<a href="../Page/뉴질랜드.md" title="wikilink">뉴질랜드</a>)</small></p></td>
 <td><p><strong>3 - 1</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/AS_피라에" title="wikilink">AS 피라에</a><br />
 <br />
-<small>(<a href="https://ko.wikipedia.org/wiki/프랑스령_폴리네시아" title="wikilink">프랑스령 폴리네시아</a>)</small></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오클랜드_(뉴질랜드)" title="wikilink">오클랜드</a><br />
+<small>(<a href="../Page/프랑스령_폴리네시아.md" title="wikilink">프랑스령 폴리네시아</a>)</small></p></td>
+<td><p><a href="../Page/오클랜드_(뉴질랜드).md" title="wikilink">오클랜드</a><br />
 <br />
-<small>(<a href="https://ko.wikipedia.org/wiki/뉴질랜드" title="wikilink">뉴질랜드</a>)</small></p></td>
+<small>(<a href="../Page/뉴질랜드.md" title="wikilink">뉴질랜드</a>)</small></p></td>
 </tr>
 </tbody>
 </table>
@@ -192,130 +192,130 @@ OFC 챔피언스리그에서는 각 축구 협회에서 1\~2팀씩 참가한다.
 <tbody>
 <tr class="odd">
 <td><p>2007<br />
-<small><a href="https://ko.wikipedia.org/wiki/2007년_OFC_챔피언스리그" title="wikilink">상세정보</a></small></p></td>
+<small><a href="../Page/2007년_OFC_챔피언스리그.md" title="wikilink">상세정보</a></small></p></td>
 <td><p><strong><a href="../Page/와이타케레_유나이티드.md" title="wikilink">와이타케레 유나이티드</a></strong><br />
 <br />
-<small><a href="https://ko.wikipedia.org/wiki/뉴질랜드" title="wikilink">뉴질랜드</a></small></p></td>
+<small><a href="../Page/뉴질랜드.md" title="wikilink">뉴질랜드</a></small></p></td>
 <td><p><strong>2 - 2</strong><br />
 <small> <a href="../Page/원정_다득점.md" title="wikilink">a</a> </small></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/바_FC" title="wikilink">4R 일렉트로니컬 바</a><br />
 <br />
-<small><a href="https://ko.wikipedia.org/wiki/피지" title="wikilink">피지</a></small></p></td>
+<small><a href="../Page/피지.md" title="wikilink">피지</a></small></p></td>
 <td><p>1 - 2<br />
-<a href="https://ko.wikipedia.org/wiki/고빈드_파크" title="wikilink">고빈드 파크</a>, <a href="https://ko.wikipedia.org/wiki/바_(피지)" title="wikilink">바</a>, <a href="https://ko.wikipedia.org/wiki/피지" title="wikilink">피지</a></p></td>
+<a href="https://ko.wikipedia.org/wiki/고빈드_파크" title="wikilink">고빈드 파크</a>, <a href="https://ko.wikipedia.org/wiki/바_(피지)" title="wikilink">바</a>, <a href="../Page/피지.md" title="wikilink">피지</a></p></td>
 <td><p>1 - 0<br />
-<a href="https://ko.wikipedia.org/wiki/마운트_스마트_스타디움" title="wikilink">마운트 스마트 스타디움</a>, <a href="https://ko.wikipedia.org/wiki/오클랜드_(뉴질랜드)" title="wikilink">오클랜드</a>, <a href="https://ko.wikipedia.org/wiki/뉴질랜드" title="wikilink">뉴질랜드</a></small></p></td>
+<a href="https://ko.wikipedia.org/wiki/마운트_스마트_스타디움" title="wikilink">마운트 스마트 스타디움</a>, <a href="../Page/오클랜드_(뉴질랜드).md" title="wikilink">오클랜드</a>, <a href="../Page/뉴질랜드.md" title="wikilink">뉴질랜드</a></small></p></td>
 <td><p>6</p></td>
 </tr>
 <tr class="even">
 <td><p>2007-08<br />
-<small><a href="https://ko.wikipedia.org/wiki/2007-08년_OFC_챔피언스리그" title="wikilink">상세정보</a></small></p></td>
+<small><a href="../Page/2007-08년_OFC_챔피언스리그.md" title="wikilink">상세정보</a></small></p></td>
 <td><p><strong><a href="../Page/와이타케레_유나이티드.md" title="wikilink">와이타케레 유나이티드</a></strong><br />
 <br />
-<small><a href="https://ko.wikipedia.org/wiki/뉴질랜드" title="wikilink">뉴질랜드</a></small></p></td>
+<small><a href="../Page/뉴질랜드.md" title="wikilink">뉴질랜드</a></small></p></td>
 <td><p><strong>6 - 3</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/코사_FC" title="wikilink">코사 FC</a><br />
 <br />
-<small><a href="https://ko.wikipedia.org/wiki/솔로몬_제도" title="wikilink">솔로몬 제도</a></small></p></td>
+<small><a href="../Page/솔로몬_제도.md" title="wikilink">솔로몬 제도</a></small></p></td>
 <td><p>1 – 3<br />
-<a href="https://ko.wikipedia.org/wiki/로손_타마_스타디움" title="wikilink">로손 타마 스타디움</a>, <a href="https://ko.wikipedia.org/wiki/호니아라" title="wikilink">호니아라</a>, <a href="https://ko.wikipedia.org/wiki/솔로몬_제도" title="wikilink">솔로몬 제도</a></p></td>
+<a href="https://ko.wikipedia.org/wiki/로손_타마_스타디움" title="wikilink">로손 타마 스타디움</a>, <a href="../Page/호니아라.md" title="wikilink">호니아라</a>, <a href="../Page/솔로몬_제도.md" title="wikilink">솔로몬 제도</a></p></td>
 <td><p>5 – 0<br />
-<a href="https://ko.wikipedia.org/wiki/트러스츠_스타디움" title="wikilink">트러스츠 스타디움</a>, <a href="https://ko.wikipedia.org/wiki/와이타케레" title="wikilink">와이타케레 시</a>, <a href="https://ko.wikipedia.org/wiki/뉴질랜드" title="wikilink">뉴질랜드</a></p></td>
+<a href="https://ko.wikipedia.org/wiki/트러스츠_스타디움" title="wikilink">트러스츠 스타디움</a>, <a href="../Page/와이타케레.md" title="wikilink">와이타케레 시</a>, <a href="../Page/뉴질랜드.md" title="wikilink">뉴질랜드</a></p></td>
 <td><p>9</p></td>
 </tr>
 <tr class="odd">
 <td><p>2008-09<br />
-<small><a href="https://ko.wikipedia.org/wiki/2008-09년_OFC_챔피언스리그" title="wikilink">상세정보</a></small></p></td>
+<small><a href="../Page/2008-09년_OFC_챔피언스리그.md" title="wikilink">상세정보</a></small></p></td>
 <td><p><strong><a href="../Page/오클랜드_시티_FC.md" title="wikilink">오클랜드 시티</a></strong><br />
 <br />
-<small><a href="https://ko.wikipedia.org/wiki/뉴질랜드" title="wikilink">뉴질랜드</a></small></p></td>
+<small><a href="../Page/뉴질랜드.md" title="wikilink">뉴질랜드</a></small></p></td>
 <td><p><strong>9 - 4</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/콜로알레_FC_호니아라" title="wikilink">콜로알레 FC 호니아라</a><br />
 <br />
-<small><a href="https://ko.wikipedia.org/wiki/솔로몬_제도" title="wikilink">솔로몬 제도</a></small></p></td>
+<small><a href="../Page/솔로몬_제도.md" title="wikilink">솔로몬 제도</a></small></p></td>
 <td><p>7 – 2<br />
-<a href="https://ko.wikipedia.org/wiki/로손_타마_스타디움" title="wikilink">로손 타마 스타디움</a>, <a href="https://ko.wikipedia.org/wiki/호니아라" title="wikilink">호니아라</a>, <a href="https://ko.wikipedia.org/wiki/솔로몬_제도" title="wikilink">솔로몬 제도</a></p></td>
+<a href="https://ko.wikipedia.org/wiki/로손_타마_스타디움" title="wikilink">로손 타마 스타디움</a>, <a href="../Page/호니아라.md" title="wikilink">호니아라</a>, <a href="../Page/솔로몬_제도.md" title="wikilink">솔로몬 제도</a></p></td>
 <td><p>2 – 2<br />
-<a href="https://ko.wikipedia.org/wiki/키위티_스트리트" title="wikilink">키위티 스트리트</a>, <a href="https://ko.wikipedia.org/wiki/오클랜드_(뉴질랜드)" title="wikilink">오클랜드</a>, <a href="https://ko.wikipedia.org/wiki/뉴질랜드" title="wikilink">뉴질랜드</a></p></td>
+<a href="https://ko.wikipedia.org/wiki/키위티_스트리트" title="wikilink">키위티 스트리트</a>, <a href="../Page/오클랜드_(뉴질랜드).md" title="wikilink">오클랜드</a>, <a href="../Page/뉴질랜드.md" title="wikilink">뉴질랜드</a></p></td>
 <td><p>8</p></td>
 </tr>
 <tr class="even">
 <td><p>2009-10<br />
-<small><a href="https://ko.wikipedia.org/wiki/2009-10년_OFC_챔피언스리그" title="wikilink">상세정보</a></small></p></td>
+<small><a href="../Page/2009-10년_OFC_챔피언스리그.md" title="wikilink">상세정보</a></small></p></td>
 <td><p><strong><a href="../Page/PRK_헤카리_유나이티드.md" title="wikilink">PRK 헤카리 유나이티드</a></strong><br />
 <br />
-<small><a href="https://ko.wikipedia.org/wiki/파푸아뉴기니" title="wikilink">파푸아뉴기니</a></small></p></td>
+<small><a href="../Page/파푸아뉴기니.md" title="wikilink">파푸아뉴기니</a></small></p></td>
 <td><p><strong>4 – 2</strong></p></td>
 <td><p><a href="../Page/와이타케레_유나이티드.md" title="wikilink">와이타케레 유나이티드</a><br />
 <br />
-<small><a href="https://ko.wikipedia.org/wiki/뉴질랜드" title="wikilink">뉴질랜드</a></small></p></td>
+<small><a href="../Page/뉴질랜드.md" title="wikilink">뉴질랜드</a></small></p></td>
 <td><p>3 – 0<br />
-<a href="https://ko.wikipedia.org/wiki/PMRL_스타디움" title="wikilink">PMRL 스타디움</a>, <a href="https://ko.wikipedia.org/wiki/포트모르즈비" title="wikilink">포트모르즈비</a>, <a href="https://ko.wikipedia.org/wiki/파푸아뉴기니" title="wikilink">파푸아뉴기니</a></p></td>
+<a href="https://ko.wikipedia.org/wiki/PMRL_스타디움" title="wikilink">PMRL 스타디움</a>, <a href="../Page/포트모르즈비.md" title="wikilink">포트모르즈비</a>, <a href="../Page/파푸아뉴기니.md" title="wikilink">파푸아뉴기니</a></p></td>
 <td><p>1 – 2<br />
-<a href="https://ko.wikipedia.org/wiki/프레드_테일러_파크" title="wikilink">프레드 테일러 파크</a>, <a href="https://ko.wikipedia.org/wiki/오클랜드_(뉴질랜드)" title="wikilink">오클랜드</a>, <a href="https://ko.wikipedia.org/wiki/뉴질랜드" title="wikilink">뉴질랜드</a></p></td>
+<a href="https://ko.wikipedia.org/wiki/프레드_테일러_파크" title="wikilink">프레드 테일러 파크</a>, <a href="../Page/오클랜드_(뉴질랜드).md" title="wikilink">오클랜드</a>, <a href="../Page/뉴질랜드.md" title="wikilink">뉴질랜드</a></p></td>
 <td><p>8</p></td>
 </tr>
 <tr class="odd">
 <td><p>2010-11<br />
-<small><a href="https://ko.wikipedia.org/wiki/2010-11년_OFC_챔피언스리그" title="wikilink">상세정보</a></small></p></td>
+<small><a href="../Page/2010-11년_OFC_챔피언스리그.md" title="wikilink">상세정보</a></small></p></td>
 <td><p><strong><a href="../Page/오클랜드_시티_FC.md" title="wikilink">오클랜드 시티</a></strong><br />
 <br />
-<small><a href="https://ko.wikipedia.org/wiki/뉴질랜드" title="wikilink">뉴질랜드</a></small></p></td>
+<small><a href="../Page/뉴질랜드.md" title="wikilink">뉴질랜드</a></small></p></td>
 <td><p><strong>6 – 1</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/아미칼레_FC" title="wikilink">아미칼레 FC</a><br />
 <br />
-<small><a href="https://ko.wikipedia.org/wiki/바누아투" title="wikilink">바누아투</a></small></p></td>
+<small><a href="../Page/바누아투.md" title="wikilink">바누아투</a></small></p></td>
 <td><p>2 – 1<br />
-<a href="https://ko.wikipedia.org/wiki/포트빌라_시립_경기장" title="wikilink">포트빌라 시립 경기장</a>, <a href="https://ko.wikipedia.org/wiki/포트빌라" title="wikilink">포트빌라</a>, <a href="https://ko.wikipedia.org/wiki/바누아투" title="wikilink">바누아투</a></p></td>
+<a href="https://ko.wikipedia.org/wiki/포트빌라_시립_경기장" title="wikilink">포트빌라 시립 경기장</a>, <a href="../Page/포트빌라.md" title="wikilink">포트빌라</a>, <a href="../Page/바누아투.md" title="wikilink">바누아투</a></p></td>
 <td><p>4 – 0<br />
-<a href="https://ko.wikipedia.org/wiki/키위티_스트리트" title="wikilink">키위티 스트리트</a>, <a href="https://ko.wikipedia.org/wiki/오클랜드_(뉴질랜드)" title="wikilink">오클랜드</a>, <a href="https://ko.wikipedia.org/wiki/뉴질랜드" title="wikilink">뉴질랜드</a></p></td>
+<a href="https://ko.wikipedia.org/wiki/키위티_스트리트" title="wikilink">키위티 스트리트</a>, <a href="../Page/오클랜드_(뉴질랜드).md" title="wikilink">오클랜드</a>, <a href="../Page/뉴질랜드.md" title="wikilink">뉴질랜드</a></p></td>
 <td><p>8</p></td>
 </tr>
 <tr class="even">
 <td><p>2011-12<br />
-<small><a href="https://ko.wikipedia.org/wiki/2011-12년_OFC_챔피언스리그" title="wikilink">상세정보</a></small></p></td>
+<small><a href="../Page/2011-12년_OFC_챔피언스리그.md" title="wikilink">상세정보</a></small></p></td>
 <td><p><strong><a href="../Page/오클랜드_시티_FC.md" title="wikilink">오클랜드 시티</a></strong><br />
 <br />
-<small><a href="https://ko.wikipedia.org/wiki/뉴질랜드" title="wikilink">뉴질랜드</a></small></p></td>
+<small><a href="../Page/뉴질랜드.md" title="wikilink">뉴질랜드</a></small></p></td>
 <td><p><strong>3 – 1</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/AS_테파나" title="wikilink">AS 테파나</a><br />
 <br />
 <small><a href="https://ko.wikipedia.org/wiki/타히티" title="wikilink">타히티</a></small></p></td>
 <td><p>2 – 1<br />
-<a href="https://ko.wikipedia.org/wiki/키위티_스트리트" title="wikilink">키위티 스트리트</a>, <a href="https://ko.wikipedia.org/wiki/오클랜드_(뉴질랜드)" title="wikilink">오클랜드</a>, <a href="https://ko.wikipedia.org/wiki/뉴질랜드" title="wikilink">뉴질랜드</a></p></td>
+<a href="https://ko.wikipedia.org/wiki/키위티_스트리트" title="wikilink">키위티 스트리트</a>, <a href="../Page/오클랜드_(뉴질랜드).md" title="wikilink">오클랜드</a>, <a href="../Page/뉴질랜드.md" title="wikilink">뉴질랜드</a></p></td>
 <td><p>1 – 0<br />
-<a href="https://ko.wikipedia.org/wiki/스타드_루이_가니베" title="wikilink">스타드 루이 가니베</a>, <a href="https://ko.wikipedia.org/wiki/파" title="wikilink">파</a>, <a href="https://ko.wikipedia.org/wiki/프랑스령_폴리네시아" title="wikilink">프랑스령 폴리네시아</a></p></td>
+<a href="https://ko.wikipedia.org/wiki/스타드_루이_가니베" title="wikilink">스타드 루이 가니베</a>, <a href="https://ko.wikipedia.org/wiki/파" title="wikilink">파</a>, <a href="../Page/프랑스령_폴리네시아.md" title="wikilink">프랑스령 폴리네시아</a></p></td>
 <td><p>8</p></td>
 </tr>
 <tr class="odd">
 <td><p>2012-13<br />
-<small><a href="https://ko.wikipedia.org/wiki/2012-13년_OFC_챔피언스리그" title="wikilink">상세정보</a></small></p></td>
+<small><a href="../Page/2012-13년_OFC_챔피언스리그.md" title="wikilink">상세정보</a></small></p></td>
 <td><p><strong><a href="../Page/오클랜드_시티_FC.md" title="wikilink">오클랜드 시티</a></strong><br />
 <br />
-<small><a href="https://ko.wikipedia.org/wiki/뉴질랜드" title="wikilink">뉴질랜드</a></small></p></td>
+<small><a href="../Page/뉴질랜드.md" title="wikilink">뉴질랜드</a></small></p></td>
 <td><p><strong>2 – 1</strong></p></td>
 <td><p><a href="../Page/와이타케레_유나이티드.md" title="wikilink">와이타케레 유나이티드</a><br />
 <br />
-<small><a href="https://ko.wikipedia.org/wiki/뉴질랜드" title="wikilink">뉴질랜드</a></small></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/마운트_스마트_스타디움" title="wikilink">마운트 스마트 스타디움</a>, <a href="https://ko.wikipedia.org/wiki/오클랜드_(뉴질랜드)" title="wikilink">오클랜드</a>, <a href="https://ko.wikipedia.org/wiki/뉴질랜드" title="wikilink">뉴질랜드</a></small><br />
+<small><a href="../Page/뉴질랜드.md" title="wikilink">뉴질랜드</a></small></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/마운트_스마트_스타디움" title="wikilink">마운트 스마트 스타디움</a>, <a href="../Page/오클랜드_(뉴질랜드).md" title="wikilink">오클랜드</a>, <a href="../Page/뉴질랜드.md" title="wikilink">뉴질랜드</a></small><br />
 단판 승부</p></td>
 <td><p>12</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2013-14<br />
-<small><a href="https://ko.wikipedia.org/wiki/2013-14년_OFC_챔피언스리그" title="wikilink">상세정보</a></small></p></td>
+<small><a href="../Page/2013-14년_OFC_챔피언스리그.md" title="wikilink">상세정보</a></small></p></td>
 <td><p><strong><a href="../Page/오클랜드_시티_FC.md" title="wikilink">오클랜드 시티</a></strong><br />
 <br />
-<small><a href="https://ko.wikipedia.org/wiki/뉴질랜드" title="wikilink">뉴질랜드</a></small></p></td>
+<small><a href="../Page/뉴질랜드.md" title="wikilink">뉴질랜드</a></small></p></td>
 <td><p><strong>3 – 2</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/아미칼레_FC" title="wikilink">아미칼레 FC</a><br />
 <br />
-<small><a href="https://ko.wikipedia.org/wiki/바누아투" title="wikilink">바누아투</a></small></p></td>
+<small><a href="../Page/바누아투.md" title="wikilink">바누아투</a></small></p></td>
 <td><p>1 – 1<br />
-<a href="https://ko.wikipedia.org/wiki/포트빌라_시립_경기장" title="wikilink">포트빌라 시립 경기장</a>, <a href="https://ko.wikipedia.org/wiki/포트빌라" title="wikilink">포트빌라</a>, <a href="https://ko.wikipedia.org/wiki/바누아투" title="wikilink">바누아투</a></p></td>
+<a href="https://ko.wikipedia.org/wiki/포트빌라_시립_경기장" title="wikilink">포트빌라 시립 경기장</a>, <a href="../Page/포트빌라.md" title="wikilink">포트빌라</a>, <a href="../Page/바누아투.md" title="wikilink">바누아투</a></p></td>
 <td><p>2 – 1<br />
-<a href="https://ko.wikipedia.org/wiki/키위티_스트리트" title="wikilink">키위티 스트리트</a>, <a href="https://ko.wikipedia.org/wiki/오클랜드_(뉴질랜드)" title="wikilink">오클랜드</a>, <a href="https://ko.wikipedia.org/wiki/뉴질랜드" title="wikilink">뉴질랜드</a></p></td>
+<a href="https://ko.wikipedia.org/wiki/키위티_스트리트" title="wikilink">키위티 스트리트</a>, <a href="../Page/오클랜드_(뉴질랜드).md" title="wikilink">오클랜드</a>, <a href="../Page/뉴질랜드.md" title="wikilink">뉴질랜드</a></p></td>
 <td><p>15</p></td>
 </tr>
 <tr class="odd">
@@ -323,14 +323,14 @@ OFC 챔피언스리그에서는 각 축구 협회에서 1\~2팀씩 참가한다.
 <small><a href="https://ko.wikipedia.org/wiki/2014-15년_OFC_챔피언스리그" title="wikilink">상세정보</a></small></p></td>
 <td><p><strong><a href="../Page/오클랜드_시티_FC.md" title="wikilink">오클랜드 시티</a></strong><br />
 <br />
-<small><a href="https://ko.wikipedia.org/wiki/뉴질랜드" title="wikilink">뉴질랜드</a></small></p></td>
+<small><a href="../Page/뉴질랜드.md" title="wikilink">뉴질랜드</a></small></p></td>
 <td><p><strong>1 – 1</strong><br />
 (<a href="../Page/연장전.md" title="wikilink">연장전</a>)<br />
 <small>4 - 3 (<a href="../Page/승부차기.md" title="wikilink">p</a>)</small></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/팀_웰링턴" title="wikilink">팀 웰링턴</a><br />
 <br />
-<small><a href="https://ko.wikipedia.org/wiki/뉴질랜드" title="wikilink">뉴질랜드</a></small></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/ANZ_내셔널_스타디움" title="wikilink">ANZ 내셔널 스타디움</a>, <a href="https://ko.wikipedia.org/wiki/수바" title="wikilink">수바</a>, <a href="https://ko.wikipedia.org/wiki/피지" title="wikilink">피지</a></small><br />
+<small><a href="../Page/뉴질랜드.md" title="wikilink">뉴질랜드</a></small></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/ANZ_내셔널_스타디움" title="wikilink">ANZ 내셔널 스타디움</a>, <a href="../Page/수바.md" title="wikilink">수바</a>, <a href="../Page/피지.md" title="wikilink">피지</a></small><br />
 단판 승부</p></td>
 <td><p>15</p></td>
 <td></td>
@@ -340,12 +340,12 @@ OFC 챔피언스리그에서는 각 축구 협회에서 1\~2팀씩 참가한다.
 <small><a href="https://ko.wikipedia.org/wiki/2016년_OFC_챔피언스리그" title="wikilink">상세정보</a></small></p></td>
 <td><p><strong><a href="../Page/오클랜드_시티_FC.md" title="wikilink">오클랜드 시티</a></strong><br />
 <br />
-<small><a href="https://ko.wikipedia.org/wiki/뉴질랜드" title="wikilink">뉴질랜드</a></small></p></td>
+<small><a href="../Page/뉴질랜드.md" title="wikilink">뉴질랜드</a></small></p></td>
 <td><p><strong>3 – 0</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/팀_웰링턴" title="wikilink">팀 웰링턴</a><br />
 <br />
-<small><a href="https://ko.wikipedia.org/wiki/뉴질랜드" title="wikilink">뉴질랜드</a></small></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/QBE_스타디움" title="wikilink">QBE 스타디움</a>, <a href="https://ko.wikipedia.org/wiki/오클랜드_(뉴질랜드)" title="wikilink">오클랜드</a>, <a href="https://ko.wikipedia.org/wiki/뉴질랜드" title="wikilink">뉴질랜드</a></small><br />
+<small><a href="../Page/뉴질랜드.md" title="wikilink">뉴질랜드</a></small></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/QBE_스타디움" title="wikilink">QBE 스타디움</a>, <a href="../Page/오클랜드_(뉴질랜드).md" title="wikilink">오클랜드</a>, <a href="../Page/뉴질랜드.md" title="wikilink">뉴질랜드</a></small><br />
 단판 승부</p></td>
 <td><p>15</p></td>
 <td></td>
@@ -355,44 +355,44 @@ OFC 챔피언스리그에서는 각 축구 협회에서 1\~2팀씩 참가한다.
 <small><a href="https://ko.wikipedia.org/wiki/2017년_OFC_챔피언스리그" title="wikilink">상세정보</a></small></p></td>
 <td><p><strong><a href="../Page/오클랜드_시티_FC.md" title="wikilink">오클랜드 시티</a></strong><br />
 <br />
-<small><a href="https://ko.wikipedia.org/wiki/뉴질랜드" title="wikilink">뉴질랜드</a></small></p></td>
+<small><a href="../Page/뉴질랜드.md" title="wikilink">뉴질랜드</a></small></p></td>
 <td><p><strong>5 – 0</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/팀_웰링턴" title="wikilink">팀 웰링턴</a><br />
 <br />
-<small><a href="https://ko.wikipedia.org/wiki/뉴질랜드" title="wikilink">뉴질랜드</a></small></p></td>
+<small><a href="../Page/뉴질랜드.md" title="wikilink">뉴질랜드</a></small></p></td>
 <td><p>3 – 0<br />
-<a href="https://ko.wikipedia.org/wiki/키위티_스트리트" title="wikilink">키위티 스트리트</a>, <a href="https://ko.wikipedia.org/wiki/오클랜드_(뉴질랜드)" title="wikilink">오클랜드</a>, <a href="https://ko.wikipedia.org/wiki/뉴질랜드" title="wikilink">뉴질랜드</a></p></td>
+<a href="https://ko.wikipedia.org/wiki/키위티_스트리트" title="wikilink">키위티 스트리트</a>, <a href="../Page/오클랜드_(뉴질랜드).md" title="wikilink">오클랜드</a>, <a href="../Page/뉴질랜드.md" title="wikilink">뉴질랜드</a></p></td>
 <td><p>2 – 0<br />
-<a href="https://ko.wikipedia.org/wiki/데이비드_패링턴_파크" title="wikilink">데이비드 패링턴 파크</a>, <a href="https://ko.wikipedia.org/wiki/웰링턴" title="wikilink">웰링턴</a>, <a href="https://ko.wikipedia.org/wiki/뉴질랜드" title="wikilink">뉴질랜드</a></p></td>
+<a href="https://ko.wikipedia.org/wiki/데이비드_패링턴_파크" title="wikilink">데이비드 패링턴 파크</a>, <a href="../Page/웰링턴.md" title="wikilink">웰링턴</a>, <a href="../Page/뉴질랜드.md" title="wikilink">뉴질랜드</a></p></td>
 <td><p>18</p></td>
 </tr>
 <tr class="even">
 <td><p>2018<br />
-<small><a href="https://ko.wikipedia.org/wiki/2018년_OFC_챔피언스리그" title="wikilink">상세정보</a></small></p></td>
+<small><a href="../Page/2018년_OFC_챔피언스리그.md" title="wikilink">상세정보</a></small></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/팀_웰링턴" title="wikilink">팀 웰링턴</a></strong><br />
 <br />
-<small><a href="https://ko.wikipedia.org/wiki/뉴질랜드" title="wikilink">뉴질랜드</a></small></p></td>
+<small><a href="../Page/뉴질랜드.md" title="wikilink">뉴질랜드</a></small></p></td>
 <td><p><strong>10 – 3</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/라우토카_FC" title="wikilink">라우토카</a><br />
 <br />
-<small><a href="https://ko.wikipedia.org/wiki/피지" title="wikilink">피지</a></small></p></td>
+<small><a href="../Page/피지.md" title="wikilink">피지</a></small></p></td>
 <td><p>6 – 0<br />
-<a href="https://ko.wikipedia.org/wiki/데이비드_패링턴_파크" title="wikilink">데이비드 패링턴 파크</a>, <a href="https://ko.wikipedia.org/wiki/웰링턴" title="wikilink">웰링턴</a>, <a href="https://ko.wikipedia.org/wiki/뉴질랜드" title="wikilink">뉴질랜드</a></p></td>
+<a href="https://ko.wikipedia.org/wiki/데이비드_패링턴_파크" title="wikilink">데이비드 패링턴 파크</a>, <a href="../Page/웰링턴.md" title="wikilink">웰링턴</a>, <a href="../Page/뉴질랜드.md" title="wikilink">뉴질랜드</a></p></td>
 <td><p>4 – 3<br />
-<a href="https://ko.wikipedia.org/wiki/처칠_파크" title="wikilink">처칠 파크</a>, <a href="https://ko.wikipedia.org/wiki/라우토카" title="wikilink">라우토카</a>, <a href="https://ko.wikipedia.org/wiki/피지" title="wikilink">피지</a></p></td>
+<a href="https://ko.wikipedia.org/wiki/처칠_파크" title="wikilink">처칠 파크</a>, <a href="https://ko.wikipedia.org/wiki/라우토카" title="wikilink">라우토카</a>, <a href="../Page/피지.md" title="wikilink">피지</a></p></td>
 <td><p>18</p></td>
 </tr>
 <tr class="odd">
 <td><p>2019<br />
-<small><a href="https://ko.wikipedia.org/wiki/2019년_OFC_챔피언스리그" title="wikilink">상세정보</a></small></p></td>
+<small><a href="../Page/2019년_OFC_챔피언스리그.md" title="wikilink">상세정보</a></small></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/이엥겐_스포르" title="wikilink">이엥겐 스포르</a></strong><br />
 <br />
-<small><a href="https://ko.wikipedia.org/wiki/누벨칼레도니" title="wikilink">누벨칼레도니</a></small></p></td>
+<small><a href="../Page/누벨칼레도니.md" title="wikilink">누벨칼레도니</a></small></p></td>
 <td><p><strong>1 – 0</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/AS_마장타" title="wikilink">AS 마장타</a><br />
 <br />
-<small><a href="https://ko.wikipedia.org/wiki/누벨칼레도니" title="wikilink">누벨칼레도니</a></small></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/스타드_뉘마달리_마장타" title="wikilink">스타드 뉘마달리 마장타</a>, <a href="https://ko.wikipedia.org/wiki/누메아" title="wikilink">누메아</a>, <a href="https://ko.wikipedia.org/wiki/누벨칼레도니" title="wikilink">누벨칼레도니</a></small><br />
+<small><a href="../Page/누벨칼레도니.md" title="wikilink">누벨칼레도니</a></small></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/스타드_뉘마달리_마장타" title="wikilink">스타드 뉘마달리 마장타</a>, <a href="../Page/누메아.md" title="wikilink">누메아</a>, <a href="../Page/누벨칼레도니.md" title="wikilink">누벨칼레도니</a></small><br />
 단판 승부</p></td>
 <td><p>18</p></td>
 <td></td>

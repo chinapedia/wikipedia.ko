@@ -7,9 +7,9 @@
 
 ## 구성원
 
-  - 고토 마사후미 ([보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), [기타](https://ko.wikipedia.org/wiki/기타 "wikilink"))
+  - 고토 마사후미 ([보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), [기타](../Page/기타.md "wikilink"))
   - 기타 겐스케 (기타, 보컬)
-  - 야마다 다카히로 ([베이스](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink"), 보컬)
+  - 야마다 다카히로 ([베이스](../Page/베이스_기타.md "wikilink"), 보컬)
   - 이지치 기요시 ([드럼](https://ko.wikipedia.org/wiki/드럼셋 "wikilink"))
 
 ## 내력
@@ -133,7 +133,7 @@
   - 3월 21일, Tour醉杯 2006-2007의 내용을 수록한 세 번째 DVD '영상작품집 3권\~Tour醉杯 2006-2007 the start of a new season\~' 발매.
   - 같은 날 발매된 HUSKING BEE의 트리뷰트 앨범에도 '欠けボタンの浜'로 참가.
   - 4월 27일, 두 권째 히스토리 북 《》 발매.
-  - 7월 29일, 한국에서 개최된 [펜타포트 락 페스티벌](https://ko.wikipedia.org/wiki/펜타포트_락_페스티벌 "wikilink") 2007에 출연했다. (이것은 밴드에 있어서 첫 해외 공연이다.)
+  - 7월 29일, 한국에서 개최된 [펜타포트 락 페스티벌](../Page/펜타포트_락_페스티벌.md "wikilink") 2007에 출연했다. (이것은 밴드에 있어서 첫 해외 공연이다.)
 
 ## 음반 목록
 
@@ -157,7 +157,7 @@
 <td><p>〈미라이노 가케라〉</p></td>
 <td><p>34</p></td>
 <td><p>─</p></td>
-<td><p>《<a href="https://ko.wikipedia.org/wiki/키미_츠나기_파이브_엠" title="wikilink">키미 츠나기 파이브 엠</a>》</p></td>
+<td><p>《<a href="../Page/키미_츠나기_파이브_엠.md" title="wikilink">키미 츠나기 파이브 엠</a>》</p></td>
 </tr>
 <tr class="even">
 <td><p>〈기미토이우 하나〉</p></td>
@@ -224,13 +224,13 @@
 </tr>
 <tr class="odd">
 <td><p>2008년</p></td>
-<td><p>〈<a href="https://ko.wikipedia.org/wiki/고로가루_이와,_기미니_아사가_후루" title="wikilink">고로가루 이와, 기미니 아사가 후루</a>〉</p></td>
+<td><p>〈<a href="../Page/고로가루_이와,_기미니_아사가_후루.md" title="wikilink">고로가루 이와, 기미니 아사가 후루</a>〉</p></td>
 <td><p>6</p></td>
 <td><p>─</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>〈<a href="https://ko.wikipedia.org/wiki/후지사와_루저" title="wikilink">후지사와 루저</a>〉</p></td>
+<td><p>〈<a href="../Page/후지사와_루저.md" title="wikilink">후지사와 루저</a>〉</p></td>
 <td><p>6</p></td>
 <td><p>─</p></td>
 <td><p>《서프 분가쿠 가마쿠라》</p></td>
@@ -290,7 +290,7 @@
 <td><p>2003</p></td>
 <td><p>| 《호카이 앰플리퍼》 ()</p>
 <ul>
-<li>발매일: <a href="https://ko.wikipedia.org/wiki/2003년" title="wikilink">2003년</a> <a href="https://ko.wikipedia.org/wiki/4월_23일" title="wikilink">4월 23일</a></li>
+<li>발매일: <a href="../Page/2003년.md" title="wikilink">2003년</a> <a href="../Page/4월_23일.md" title="wikilink">4월 23일</a></li>
 </ul></td>
 <td><p>45</p></td>
 <td><p>플래티넘[7]</p></td>
@@ -299,7 +299,7 @@
 <td><p>2004</p></td>
 <td><p>《마다 미누 아시타니》 ()</p>
 <ul>
-<li>발매일: <a href="https://ko.wikipedia.org/wiki/2004년" title="wikilink">2004년</a> <a href="https://ko.wikipedia.org/wiki/10월_20일" title="wikilink">10월 20일</a></li>
+<li>발매일: <a href="../Page/2004년.md" title="wikilink">2004년</a> <a href="../Page/10월_20일.md" title="wikilink">10월 20일</a></li>
 </ul></td>
 <td><p>2</p></td>
 <td><p>골드[8]</p></td>
@@ -327,9 +327,9 @@
 <tbody>
 <tr class="odd">
 <td><p>2003년</p></td>
-<td><p>《<a href="https://ko.wikipedia.org/wiki/키미_츠나기_파이브_엠" title="wikilink">키미 츠나기 파이브 엠</a>》</p>
+<td><p>《<a href="../Page/키미_츠나기_파이브_엠.md" title="wikilink">키미 츠나기 파이브 엠</a>》</p>
 <ul>
-<li>발매일: <a href="https://ko.wikipedia.org/wiki/2003년" title="wikilink">2003년</a> <a href="https://ko.wikipedia.org/wiki/11월_19일" title="wikilink">11월 19일</a></li>
+<li>발매일: <a href="../Page/2003년.md" title="wikilink">2003년</a> <a href="../Page/11월_19일.md" title="wikilink">11월 19일</a></li>
 </ul></td>
 <td><p>5</p></td>
 <td><p>플래티넘[10]</p></td>
@@ -338,7 +338,7 @@
 <td><p>2004년</p></td>
 <td><p>《<a href="../Page/Sol-fa.md" title="wikilink">Sol-fa</a>》 ()</p>
 <ul>
-<li>발매일: <a href="https://ko.wikipedia.org/wiki/2004년" title="wikilink">2004년</a> <a href="https://ko.wikipedia.org/wiki/10월_20일" title="wikilink">10월 20일</a></li>
+<li>발매일: <a href="../Page/2004년.md" title="wikilink">2004년</a> <a href="../Page/10월_20일.md" title="wikilink">10월 20일</a></li>
 </ul></td>
 <td><p>1</p></td>
 <td><p>더블 플래티넘[11]</p></td>
@@ -347,7 +347,7 @@
 <td><p>2006년</p></td>
 <td><p>《팬클럽》 ()</p>
 <ul>
-<li>발매일: <a href="https://ko.wikipedia.org/wiki/2006년" title="wikilink">2006년</a> <a href="https://ko.wikipedia.org/wiki/3월_15일" title="wikilink">3월 15일</a></li>
+<li>발매일: <a href="../Page/2006년.md" title="wikilink">2006년</a> <a href="../Page/3월_15일.md" title="wikilink">3월 15일</a></li>
 </ul></td>
 <td><p>3</p></td>
 <td><p>플래티넘[12]</p></td>
@@ -356,7 +356,7 @@
 <td><p>2008년</p></td>
 <td><p>《월드 월드 월드》 ()</p>
 <ul>
-<li>발매일: <a href="https://ko.wikipedia.org/wiki/2008년" title="wikilink">2008년</a> <a href="https://ko.wikipedia.org/wiki/3월_5일" title="wikilink">3월 5일</a></li>
+<li>발매일: <a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/3월_5일.md" title="wikilink">3월 5일</a></li>
 </ul></td>
 <td><p>1</p></td>
 <td><p>골드[13]</p></td>
@@ -365,7 +365,7 @@
 <td><p>2008년</p></td>
 <td><p>《서프 분가쿠 가마쿠라》 ()</p>
 <ul>
-<li>발매일: <a href="https://ko.wikipedia.org/wiki/2008년" title="wikilink">2008년</a> <a href="https://ko.wikipedia.org/wiki/11월_5일" title="wikilink">11월 5일</a></li>
+<li>발매일: <a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/11월_5일.md" title="wikilink">11월 5일</a></li>
 </ul></td>
 <td><p>2</p></td>
 <td><p>골드[14]</p></td>
@@ -374,7 +374,7 @@
 <td><p>2010년</p></td>
 <td><p>《매직 디스크》 ()</p>
 <ul>
-<li>발매일: <a href="https://ko.wikipedia.org/wiki/2010년" title="wikilink">2010년</a> <a href="https://ko.wikipedia.org/wiki/6월_23일" title="wikilink">6월 23일</a></li>
+<li>발매일: <a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/6월_23일.md" title="wikilink">6월 23일</a></li>
 </ul></td>
 <td><p>2</p></td>
 <td><p>골드[15]</p></td>
@@ -404,7 +404,7 @@
 <td><p>2006년</p></td>
 <td><p>《피드백 파일》 ()</p>
 <ul>
-<li>발매일: <a href="https://ko.wikipedia.org/wiki/2006년" title="wikilink">2006년</a> <a href="https://ko.wikipedia.org/wiki/3월_15일" title="wikilink">3월 15일</a></li>
+<li>발매일: <a href="../Page/2006년.md" title="wikilink">2006년</a> <a href="../Page/3월_15일.md" title="wikilink">3월 15일</a></li>
 </ul></td>
 <td><p>3</p></td>
 <td><p>골드[17]</p></td>
@@ -413,7 +413,7 @@
 <td><p>2012년</p></td>
 <td><p>《Best Hit AKG》</p>
 <ul>
-<li>발매일: <a href="https://ko.wikipedia.org/wiki/2012년" title="wikilink">2012년</a> <a href="https://ko.wikipedia.org/wiki/1월_18일" title="wikilink">1월 18일</a></li>
+<li>발매일: <a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/1월_18일.md" title="wikilink">1월 18일</a></li>
 </ul></td>
 <td></td>
 <td></td>

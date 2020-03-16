@@ -5,7 +5,7 @@
 
 ## 음반
 
-2020년 3월 기준으로 [정규 음반](../Page/정규_음반.md "wikilink") 6장과 [베스트 음반](https://ko.wikipedia.org/wiki/베스트_음반 "wikilink") 3장, 극장 음반 32장, CD 싱글 57장, 디지털 싱글 3장으로 구성되어 있다. 2005년에 결성된 이래, 멤버들이 늘어나기도 했고, 졸업하기도 했고, 뒤섞이기도 했고, 선발 멤버의 많은 교체가 있었으며, 현재는 100명의 정규 멤버가 팀A, 팀K, 팀B, 팀4, 팀8의 어느 하나에 속해 있다. 모든 다른 팀은 16명의 멤버를 포함하거나, 포함하려는 경향을 보이고 있다. 그룹의 프로듀서는 [아키모토 야스시이며](https://ko.wikipedia.org/wiki/아키모토_야스시 "wikilink"), 그가 모든 노래를 작사한다.
+2020년 3월 기준으로 [정규 음반](../Page/정규_음반.md "wikilink") 6장과 [베스트 음반](https://ko.wikipedia.org/wiki/베스트_음반 "wikilink") 3장, 극장 음반 32장, CD 싱글 57장, 디지털 싱글 3장으로 구성되어 있다. 2005년에 결성된 이래, 멤버들이 늘어나기도 했고, 졸업하기도 했고, 뒤섞이기도 했고, 선발 멤버의 많은 교체가 있었으며, 현재는 100명의 정규 멤버가 팀A, 팀K, 팀B, 팀4, 팀8의 어느 하나에 속해 있다. 모든 다른 팀은 16명의 멤버를 포함하거나, 포함하려는 경향을 보이고 있다. 그룹의 프로듀서는 [아키모토 야스시이며](../Page/아키모토_야스시.md "wikilink"), 그가 모든 노래를 작사한다.
 
 ### 싱글
 
@@ -33,7 +33,7 @@
 재팬<br />
 핫 100*<br />
 [4]</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/일본_레코드_대상" title="wikilink">RIAJ<br />
+<td><p><a href="../Page/일본_레코드_대상.md" title="wikilink">RIAJ<br />
 디지털<br />
 트랙<br />
 차트</a>*<br />
@@ -48,7 +48,7 @@
 <td><p>2006</p></td>
 <td><p>1</p></td>
 <td><p>"<a href="https://ko.wikipedia.org/wiki/사쿠라노하나비라타치" title="wikilink">벚꽃의 꽃잎들</a>"</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2006년" title="wikilink">2006년</a> <a href="https://ko.wikipedia.org/wiki/2월_1일" title="wikilink">2월 1일</a></p></td>
+<td><p><a href="../Page/2006년.md" title="wikilink">2006년</a> <a href="../Page/2월_1일.md" title="wikilink">2월 1일</a></p></td>
 <td><p>인디즈 싱글</p></td>
 <td><p>10</p></td>
 <td></td>
@@ -57,7 +57,7 @@
 <tr class="odd">
 <td><p>2</p></td>
 <td><p>"<a href="https://ko.wikipedia.org/wiki/스커트,_히라리" title="wikilink">스커트, 휘이익</a>" </p></td>
-<td><p>2006년 <a href="https://ko.wikipedia.org/wiki/6월_7일" title="wikilink">6월 7일</a></p></td>
+<td><p>2006년 <a href="../Page/6월_7일.md" title="wikilink">6월 7일</a></p></td>
 <td><p>13</p></td>
 <td><p>13,349</p></td>
 <td><p>20,609</p></td>
@@ -67,7 +67,7 @@
 <tr class="even">
 <td><p>3(1)</p></td>
 <td><p>"<a href="https://ko.wikipedia.org/wiki/아이타캇타" title="wikilink">만나고 싶었어</a>" </p></td>
-<td><p>2006년 <a href="https://ko.wikipedia.org/wiki/10월_25일" title="wikilink">10월 25일</a></p></td>
+<td><p>2006년 <a href="../Page/10월_25일.md" title="wikilink">10월 25일</a></p></td>
 <td><p>메이저 데뷔 싱글</p></td>
 <td><p>12</p></td>
 <td><p>32**</p></td>
@@ -78,7 +78,7 @@
 <td><p>2007</p></td>
 <td><p>4(2)</p></td>
 <td><p>"<a href="https://ko.wikipedia.org/wiki/세이후쿠가자마오스루" title="wikilink">교복이 방해를 해</a>" </p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2007년" title="wikilink">2007년</a> <a href="https://ko.wikipedia.org/wiki/1월_31일" title="wikilink">1월 31일</a></p></td>
+<td><p><a href="../Page/2007년.md" title="wikilink">2007년</a> <a href="../Page/1월_31일.md" title="wikilink">1월 31일</a></p></td>
 <td></td>
 <td><p>7</p></td>
 <td></td>
@@ -87,7 +87,7 @@
 <tr class="even">
 <td><p>5(3)</p></td>
 <td><p>"<a href="https://ko.wikipedia.org/wiki/게이베쓰시테이타아이조" title="wikilink">경멸하고 있던 애정</a>" </p></td>
-<td><p>2007년 <a href="https://ko.wikipedia.org/wiki/4월_18일" title="wikilink">4월 18일</a></p></td>
+<td><p>2007년 <a href="../Page/4월_18일.md" title="wikilink">4월 18일</a></p></td>
 <td></td>
 <td><p>8</p></td>
 <td><p>20,323</p></td>
@@ -97,7 +97,7 @@
 <tr class="odd">
 <td><p>6(4)</p></td>
 <td><p>"<a href="../Page/BINGO!.md" title="wikilink">BINGO!</a>"</p></td>
-<td><p>2007년 <a href="https://ko.wikipedia.org/wiki/7월_18일" title="wikilink">7월 18일</a></p></td>
+<td><p>2007년 <a href="../Page/7월_18일.md" title="wikilink">7월 18일</a></p></td>
 <td></td>
 <td><p>6</p></td>
 <td><p>21,830</p></td>
@@ -107,7 +107,7 @@
 <tr class="even">
 <td><p>7(5)</p></td>
 <td><p>"<a href="https://ko.wikipedia.org/wiki/보쿠노타이요" title="wikilink">나의 태양</a>" </p></td>
-<td><p>2007년 <a href="https://ko.wikipedia.org/wiki/8월_8일" title="wikilink">8월 8일</a></p></td>
+<td><p>2007년 <a href="../Page/8월_8일.md" title="wikilink">8월 8일</a></p></td>
 <td></td>
 <td><p>6</p></td>
 <td><p>25,946</p></td>
@@ -117,7 +117,7 @@
 <tr class="odd">
 <td><p>8(6)</p></td>
 <td><p>"<a href="https://ko.wikipedia.org/wiki/유히오미테이루카?" title="wikilink">저녁 해를 보고 있니?</a>" </p></td>
-<td><p>2007년 <a href="https://ko.wikipedia.org/wiki/10월_31일" title="wikilink">10월 31일</a></p></td>
+<td><p>2007년 <a href="../Page/10월_31일.md" title="wikilink">10월 31일</a></p></td>
 <td></td>
 <td><p>10</p></td>
 <td><p>15,370</p></td>
@@ -128,7 +128,7 @@
 <td><p>2008</p></td>
 <td><p>9(7)</p></td>
 <td><p>"<a href="https://ko.wikipedia.org/wiki/로만스,_이라네" title="wikilink">로맨스, 필요 없어</a>" </p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2008년" title="wikilink">2008년</a> <a href="https://ko.wikipedia.org/wiki/1월_23일" title="wikilink">1월 23일</a></p></td>
+<td><p><a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/1월_23일.md" title="wikilink">1월 23일</a></p></td>
 <td></td>
 <td><p>6</p></td>
 <td><p>22</p></td>
@@ -137,7 +137,7 @@
 <tr class="odd">
 <td><p>10(8)</p></td>
 <td><p>"<a href="https://ko.wikipedia.org/wiki/사쿠라노하나비라타치" title="wikilink">벚꽃의 꽃잎들 2008</a>" </p></td>
-<td><p>2008년 <a href="https://ko.wikipedia.org/wiki/2월_27일" title="wikilink">2월 27일</a></p></td>
+<td><p>2008년 <a href="../Page/2월_27일.md" title="wikilink">2월 27일</a></p></td>
 <td></td>
 <td><p>10</p></td>
 <td><p>26</p></td>
@@ -147,7 +147,7 @@
 <tr class="even">
 <td><p>11(9)</p></td>
 <td><p>"<a href="../Page/Baby!_Baby!_Baby!.md" title="wikilink">Baby! Baby! Baby!</a>"</p></td>
-<td><p>2008년 <a href="https://ko.wikipedia.org/wiki/6월_13일" title="wikilink">6월 13일</a></p></td>
+<td><p>2008년 <a href="../Page/6월_13일.md" title="wikilink">6월 13일</a></p></td>
 <td><p>디지털 싱글</p></td>
 <td></td>
 <td><p><small>x</small></p></td>
@@ -157,7 +157,7 @@
 <tr class="odd">
 <td><p>12(10)</p></td>
 <td><p>"<a href="https://ko.wikipedia.org/wiki/오고에다이아몬드" title="wikilink">큰 목소리 다이아몬드</a>" </p></td>
-<td><p>2008년 <a href="https://ko.wikipedia.org/wiki/10월_22일" title="wikilink">10월 22일</a></p></td>
+<td><p>2008년 <a href="../Page/10월_22일.md" title="wikilink">10월 22일</a></p></td>
 <td></td>
 <td><p>3</p></td>
 <td><p>13</p></td>
@@ -168,7 +168,7 @@
 <td><p>2009</p></td>
 <td><p>13(11)</p></td>
 <td><p>"<a href="https://ko.wikipedia.org/wiki/10넨자쿠라" title="wikilink">10년 벚꽃</a>" </p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2009년" title="wikilink">2009년</a> <a href="https://ko.wikipedia.org/wiki/3월_4일" title="wikilink">3월 4일</a></p></td>
+<td><p><a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/3월_4일.md" title="wikilink">3월 4일</a></p></td>
 <td></td>
 <td><p>3</p></td>
 <td><p>13</p></td>
@@ -177,7 +177,7 @@
 <tr class="odd">
 <td><p>14(12)</p></td>
 <td><p>"<a href="https://ko.wikipedia.org/wiki/나미다서프라이즈!" title="wikilink">눈물 서프라이즈!</a>" </p></td>
-<td><p>2009년 <a href="https://ko.wikipedia.org/wiki/6월_24일" title="wikilink">6월 24일</a></p></td>
+<td><p>2009년 <a href="../Page/6월_24일.md" title="wikilink">6월 24일</a></p></td>
 <td></td>
 <td><p>2</p></td>
 <td><p>5</p></td>
@@ -187,7 +187,7 @@
 <tr class="even">
 <td><p>15(13)</p></td>
 <td><p>"<a href="https://ko.wikipedia.org/wiki/이와케Maybe" title="wikilink">핑계 Maybe</a>" </p></td>
-<td><p>2009년 <a href="https://ko.wikipedia.org/wiki/8월_26일" title="wikilink">8월 26일</a></p></td>
+<td><p>2009년 <a href="../Page/8월_26일.md" title="wikilink">8월 26일</a></p></td>
 <td></td>
 <td><p>2</p></td>
 <td><p>2</p></td>
@@ -197,7 +197,7 @@
 <tr class="odd">
 <td><p>16(14)</p></td>
 <td><p>"<a href="../Page/RIVER_(AKB48의_노래).md" title="wikilink">RIVER</a>"</p></td>
-<td><p>2009년 <a href="https://ko.wikipedia.org/wiki/10월_21일" title="wikilink">10월 21일</a></p></td>
+<td><p>2009년 <a href="../Page/10월_21일.md" title="wikilink">10월 21일</a></p></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>2</p></td>
@@ -208,7 +208,7 @@
 <td><p>2010</p></td>
 <td><p>17(15)</p></td>
 <td><p>"<a href="https://ko.wikipedia.org/wiki/사쿠라노시오리" title="wikilink">벚꽃 책갈피</a>" </p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2010년" title="wikilink">2010년</a> <a href="https://ko.wikipedia.org/wiki/2월_17일" title="wikilink">2월 17일</a></p></td>
+<td><p><a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/2월_17일.md" title="wikilink">2월 17일</a></p></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
@@ -217,7 +217,7 @@
 <tr class="odd">
 <td><p>18(16)</p></td>
 <td><p>"<a href="https://ko.wikipedia.org/wiki/포니테루토슈슈" title="wikilink">포니테일과 슈슈</a>" </p></td>
-<td><p>2010년 <a href="https://ko.wikipedia.org/wiki/5월_26일" title="wikilink">5월 26일</a></p></td>
+<td><p>2010년 <a href="../Page/5월_26일.md" title="wikilink">5월 26일</a></p></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
@@ -227,7 +227,7 @@
 <tr class="even">
 <td><p>19(17)</p></td>
 <td><p>"<a href="../Page/헤비로테이션.md" title="wikilink">헤비 로테이션</a>" </p></td>
-<td><p>2010년 <a href="https://ko.wikipedia.org/wiki/8월_18일" title="wikilink">8월 18일</a></p></td>
+<td><p>2010년 <a href="../Page/8월_18일.md" title="wikilink">8월 18일</a></p></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
@@ -237,7 +237,7 @@
 <tr class="odd">
 <td><p>21(19)</p></td>
 <td><p>"<a href="https://ko.wikipedia.org/wiki/찬스노준반" title="wikilink">찬스의 차례</a>" </p></td>
-<td><p>2010년 <a href="https://ko.wikipedia.org/wiki/12월_8일" title="wikilink">12월 8일</a></p></td>
+<td><p>2010년 <a href="../Page/12월_8일.md" title="wikilink">12월 8일</a></p></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
@@ -248,7 +248,7 @@
 <td><p>2011</p></td>
 <td><p>22(20)</p></td>
 <td><p>"<a href="https://ko.wikipedia.org/wiki/사쿠라노키니나로" title="wikilink">벚나무가 되리</a>" </p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2011년" title="wikilink">2011년</a> <a href="https://ko.wikipedia.org/wiki/2월_16일" title="wikilink">2월 16일</a></p></td>
+<td><p><a href="../Page/2011년.md" title="wikilink">2011년</a> <a href="../Page/2월_16일.md" title="wikilink">2월 16일</a></p></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
@@ -257,7 +257,7 @@
 <tr class="odd">
 <td><p>-</p></td>
 <td><p>"<a href="https://ko.wikipedia.org/wiki/다레카노타메니_-What_can_I_do_for_someone?-" title="wikilink">누군가를 위해서 - What can I do for someone? -</a>" </p></td>
-<td><p>2011년 <a href="https://ko.wikipedia.org/wiki/4월_1일" title="wikilink">4월 1일</a></p></td>
+<td><p>2011년 <a href="../Page/4월_1일.md" title="wikilink">4월 1일</a></p></td>
 <td><p>디지털 채리티 싱글</p></td>
 <td></td>
 <td><p>17</p></td>
@@ -267,7 +267,7 @@
 <tr class="even">
 <td><p>23(21)</p></td>
 <td><p>"<a href="../Page/Everyday,_카추샤.md" title="wikilink">Everyday, 카츄샤</a>" </p></td>
-<td><p>2011년 <a href="https://ko.wikipedia.org/wiki/5월_25일" title="wikilink">5월 25일</a></p></td>
+<td><p>2011년 <a href="../Page/5월_25일.md" title="wikilink">5월 25일</a></p></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
@@ -277,7 +277,7 @@
 <tr class="odd">
 <td><p>24(22)</p></td>
 <td><p>"<a href="../Page/플라잉겟.md" title="wikilink">플라잉 겟</a>" </p></td>
-<td><p>2011년 <a href="https://ko.wikipedia.org/wiki/8월_24일" title="wikilink">8월 24일</a></p></td>
+<td><p>2011년 <a href="../Page/8월_24일.md" title="wikilink">8월 24일</a></p></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
@@ -287,7 +287,7 @@
 <tr class="even">
 <td><p>25(23)</p></td>
 <td><p>"<a href="https://ko.wikipedia.org/wiki/가제와후이테이루" title="wikilink">바람은 불고 있어</a>" </p></td>
-<td><p>2011년 <a href="https://ko.wikipedia.org/wiki/10월_26일" title="wikilink">10월 26일</a></p></td>
+<td><p>2011년 <a href="../Page/10월_26일.md" title="wikilink">10월 26일</a></p></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
@@ -297,7 +297,7 @@
 <tr class="odd">
 <td><p>26(24)</p></td>
 <td><p>"<a href="https://ko.wikipedia.org/wiki/우에카라마리코" title="wikilink">위에서부터 마리코</a>" </p></td>
-<td><p>2011년 <a href="https://ko.wikipedia.org/wiki/12월_7일" title="wikilink">12월 7일</a></p></td>
+<td><p>2011년 <a href="../Page/12월_7일.md" title="wikilink">12월 7일</a></p></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
@@ -308,7 +308,7 @@
 <td><p>2012</p></td>
 <td><p>27(25)</p></td>
 <td><p>"<a href="../Page/GIVE_ME_FIVE!.md" title="wikilink">GIVE ME FIVE!</a>"</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2012년" title="wikilink">2012년</a> <a href="https://ko.wikipedia.org/wiki/2월_15일" title="wikilink">2월 15일</a></p></td>
+<td><p><a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/2월_15일.md" title="wikilink">2월 15일</a></p></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
@@ -317,7 +317,7 @@
 <tr class="odd">
 <td><p>28(26)</p></td>
 <td><p>"<a href="https://ko.wikipedia.org/wiki/마나쓰노Sounds_good_!" title="wikilink">한여름의 Sounds good!</a>" </p></td>
-<td><p>2012년 <a href="https://ko.wikipedia.org/wiki/5월_23일" title="wikilink">5월 23일</a></p></td>
+<td><p>2012년 <a href="../Page/5월_23일.md" title="wikilink">5월 23일</a></p></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
@@ -327,7 +327,7 @@
 <tr class="even">
 <td><p>29(27)</p></td>
 <td><p>"<a href="https://ko.wikipedia.org/wiki/깅엄체크" title="wikilink">깅엄 체크</a>" </p></td>
-<td><p>2012년 <a href="https://ko.wikipedia.org/wiki/8월_29일" title="wikilink">8월 29일</a></p></td>
+<td><p>2012년 <a href="../Page/8월_29일.md" title="wikilink">8월 29일</a></p></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
@@ -337,7 +337,7 @@
 <tr class="odd">
 <td><p>30(28)</p></td>
 <td><p>"<a href="https://ko.wikipedia.org/wiki/UZA" title="wikilink">UZA</a>"</p></td>
-<td><p>2012년 <a href="https://ko.wikipedia.org/wiki/10월_31일" title="wikilink">10월 31일</a></p></td>
+<td><p>2012년 <a href="../Page/10월_31일.md" title="wikilink">10월 31일</a></p></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
@@ -347,7 +347,7 @@
 <tr class="even">
 <td><p>31(29)</p></td>
 <td><p>"<a href="https://ko.wikipedia.org/wiki/에이엔푸렛샤" title="wikilink">영원 프레셔</a>" </p></td>
-<td><p>2012년 <a href="https://ko.wikipedia.org/wiki/12월_5일" title="wikilink">12월 5일</a></p></td>
+<td><p>2012년 <a href="../Page/12월_5일.md" title="wikilink">12월 5일</a></p></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>-</p></td>
@@ -358,7 +358,7 @@
 <td><p>2013</p></td>
 <td><p>32(30)</p></td>
 <td><p>"<a href="https://ko.wikipedia.org/wiki/So_long_!" title="wikilink">So long !</a>"</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2013년" title="wikilink">2013년</a> <a href="https://ko.wikipedia.org/wiki/2월_20일" title="wikilink">2월 20일</a></p></td>
+<td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/2월_20일.md" title="wikilink">2월 20일</a></p></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>-</p></td>
@@ -367,7 +367,7 @@
 <tr class="even">
 <td><p>-</p></td>
 <td><p>"<a href="https://ko.wikipedia.org/wiki/데노히라가카타루코토" title="wikilink">손바닥이 말하는 것</a>" </p></td>
-<td><p>2013년 <a href="https://ko.wikipedia.org/wiki/3월_8일" title="wikilink">3월 8일</a></p></td>
+<td><p>2013년 <a href="../Page/3월_8일.md" title="wikilink">3월 8일</a></p></td>
 <td><p>디지털 채리티 싱글</p></td>
 <td></td>
 <td><p>-</p></td>
@@ -377,7 +377,7 @@
 <tr class="odd">
 <td><p>33(31)</p></td>
 <td><p>"<a href="https://ko.wikipedia.org/wiki/사요나라크롤" title="wikilink">안녕 크롤</a>" </p></td>
-<td><p>2013년 <a href="https://ko.wikipedia.org/wiki/5월_22일" title="wikilink">5월 22일</a></p></td>
+<td><p>2013년 <a href="../Page/5월_22일.md" title="wikilink">5월 22일</a></p></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>-</p></td>
@@ -387,7 +387,7 @@
 <tr class="even">
 <td><p>34(32)</p></td>
 <td><p>"<a href="https://ko.wikipedia.org/wiki/고이스루포춘쿠키" title="wikilink">사랑하는 포춘 쿠키</a>" </p></td>
-<td><p>2013년 <a href="https://ko.wikipedia.org/wiki/8월_21일" title="wikilink">8월 21일</a></p></td>
+<td><p>2013년 <a href="../Page/8월_21일.md" title="wikilink">8월 21일</a></p></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>-</p></td>
@@ -397,7 +397,7 @@
 <tr class="odd">
 <td><p>35(33)</p></td>
 <td><p>"<a href="https://ko.wikipedia.org/wiki/하트_에레키" title="wikilink">하트 에레키</a>" </p></td>
-<td><p>2013년 <a href="https://ko.wikipedia.org/wiki/10월_30일" title="wikilink">10월 30일</a></p></td>
+<td><p>2013년 <a href="../Page/10월_30일.md" title="wikilink">10월 30일</a></p></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>-</p></td>
@@ -407,7 +407,7 @@
 <tr class="even">
 <td><p>36(34)</p></td>
 <td><p>"<a href="https://ko.wikipedia.org/wiki/스즈카케노키노미치데「키미노호호에미오유메니미루」토잇테시맛타라보쿠타치노칸케이와도카왓테시마우노카,_보쿠나리니난니치카칸가에타우에데노야야키하즈카시이케쓰론노요나모노" title="wikilink">플라타너스 나무가 서 있는 길에서 「네 미소가 꿈에 나왔어」라고 말해버린다면 우리들의 관계는 어떻게 변하는 걸까, 나 나름대로 며칠이고 생각해본 후의 조금 부끄러운 결론처럼</a>" </p></td>
-<td><p>2013년 <a href="https://ko.wikipedia.org/wiki/12월_11일" title="wikilink">12월 11일</a></p></td>
+<td><p>2013년 <a href="../Page/12월_11일.md" title="wikilink">12월 11일</a></p></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>-</p></td>
@@ -418,7 +418,7 @@
 <td><p>2014</p></td>
 <td><p>37(35)</p></td>
 <td><p>"<a href="https://ko.wikipedia.org/wiki/마에시카무카네" title="wikilink">앞 밖에 보지 않아</a>" </p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2014년" title="wikilink">2014년</a> <a href="https://ko.wikipedia.org/wiki/2월_26일" title="wikilink">2월 26일</a></p></td>
+<td><p><a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="https://ko.wikipedia.org/wiki/2월_26일" title="wikilink">2월 26일</a></p></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>-</p></td>
@@ -427,7 +427,7 @@
 <tr class="even">
 <td><p>38(36)</p></td>
 <td><p>"<a href="https://ko.wikipedia.org/wiki/래브라도_리트리버_(노래)" title="wikilink">래브라도 리트리버</a>" </p></td>
-<td><p>2014년 <a href="https://ko.wikipedia.org/wiki/5월_21일" title="wikilink">5월 21일</a></p></td>
+<td><p>2014년 <a href="../Page/5월_21일.md" title="wikilink">5월 21일</a></p></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>-</p></td>
@@ -437,7 +437,7 @@
 <tr class="odd">
 <td><p>39(37)</p></td>
 <td><p>"<a href="https://ko.wikipedia.org/wiki/고코로노플래카드" title="wikilink">마음의 플래카드</a>" </p></td>
-<td><p>2014년 <a href="https://ko.wikipedia.org/wiki/8월_27일" title="wikilink">8월 27일</a></p></td>
+<td><p>2014년 <a href="../Page/8월_27일.md" title="wikilink">8월 27일</a></p></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>-</p></td>
@@ -447,7 +447,7 @@
 <tr class="even">
 <td><p>40(38)</p></td>
 <td><p>"<a href="https://ko.wikipedia.org/wiki/기보테키리프레인" title="wikilink">희망적 리프레인</a>" </p></td>
-<td><p>2014년 <a href="https://ko.wikipedia.org/wiki/11월_26일" title="wikilink">11월 26일</a></p></td>
+<td><p>2014년 <a href="../Page/11월_26일.md" title="wikilink">11월 26일</a></p></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>-</p></td>
@@ -458,7 +458,7 @@
 <td><p>2015</p></td>
 <td><p>41(39)</p></td>
 <td><p>"<a href="https://ko.wikipedia.org/wiki/Green_Flash" title="wikilink">Green Flash</a>"</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2015년" title="wikilink">2015년</a> <a href="https://ko.wikipedia.org/wiki/3월_4일" title="wikilink">3월 4일</a></p></td>
+<td><p><a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/3월_4일.md" title="wikilink">3월 4일</a></p></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>-</p></td>
@@ -467,7 +467,7 @@
 <tr class="even">
 <td><p>42(40)</p></td>
 <td><p>"<a href="https://ko.wikipedia.org/wiki/보쿠타치와타타카와나이" title="wikilink">우리는 싸우지 않아</a>" </p></td>
-<td><p>2015년 <a href="https://ko.wikipedia.org/wiki/5월_20일" title="wikilink">5월 20일</a></p></td>
+<td><p>2015년 <a href="../Page/5월_20일.md" title="wikilink">5월 20일</a></p></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>-</p></td>
@@ -477,8 +477,8 @@
 <tr class="odd">
 <td><p>43(41)</p></td>
 <td><p>"<a href="https://ko.wikipedia.org/wiki/할로윈_나이트" title="wikilink">할로윈 나이트</a>" </p></td>
-<td><p>2015년 <a href="https://ko.wikipedia.org/wiki/8월_26일" title="wikilink">8월 26일</a></p></td>
-<td><p>2015년 <a href="https://ko.wikipedia.org/wiki/9월_16일" title="wikilink">9월 16일에</a> 아날로그반 발매.</p></td>
+<td><p>2015년 <a href="../Page/8월_26일.md" title="wikilink">8월 26일</a></p></td>
+<td><p>2015년 <a href="../Page/9월_16일.md" title="wikilink">9월 16일에</a> 아날로그반 발매.</p></td>
 <td><p>1</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
@@ -487,7 +487,7 @@
 <tr class="even">
 <td><p>44(42)</p></td>
 <td><p>"<a href="https://ko.wikipedia.org/wiki/구치비루니Be_My_Baby" title="wikilink">입술에 Be My Baby</a>" </p></td>
-<td><p>2015년 <a href="https://ko.wikipedia.org/wiki/12월_9일" title="wikilink">12월 9일</a></p></td>
+<td><p>2015년 <a href="../Page/12월_9일.md" title="wikilink">12월 9일</a></p></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>-</p></td>
@@ -498,7 +498,7 @@
 <td><p>2016</p></td>
 <td><p>45(43)</p></td>
 <td><p>"<a href="https://ko.wikipedia.org/wiki/기미와멜로디" title="wikilink">너는 멜로디</a>" </p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2016년" title="wikilink">2016년</a> <a href="https://ko.wikipedia.org/wiki/3월_9일" title="wikilink">3월 9일</a></p></td>
+<td><p><a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/3월_9일.md" title="wikilink">3월 9일</a></p></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>-</p></td>
@@ -507,7 +507,7 @@
 <tr class="even">
 <td><p>46(44)</p></td>
 <td><p>"<a href="https://ko.wikipedia.org/wiki/쓰바사와이라나이" title="wikilink">날개는 필요 없어</a>" </p></td>
-<td><p>2016년 <a href="https://ko.wikipedia.org/wiki/6월_1일" title="wikilink">6월 1일</a></p></td>
+<td><p>2016년 <a href="../Page/6월_1일.md" title="wikilink">6월 1일</a></p></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>-</p></td>
@@ -517,7 +517,7 @@
 <tr class="odd">
 <td><p>47(45)</p></td>
 <td><p>"<a href="https://ko.wikipedia.org/wiki/LOVE_TRIP/행복을_나눠라" title="wikilink">LOVE TRIP/행복을 나눠라</a>" </p></td>
-<td><p>2016년 <a href="https://ko.wikipedia.org/wiki/8월_31일" title="wikilink">8월 31일</a></p></td>
+<td><p>2016년 <a href="../Page/8월_31일.md" title="wikilink">8월 31일</a></p></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>-</p></td>
@@ -527,7 +527,7 @@
 <tr class="even">
 <td><p>48(46)</p></td>
 <td><p>"<a href="https://ko.wikipedia.org/wiki/하이텐션" title="wikilink">하이텐션</a>" </p></td>
-<td><p>2016년 <a href="https://ko.wikipedia.org/wiki/11월_16일" title="wikilink">11월 16일</a></p></td>
+<td><p>2016년 <a href="../Page/11월_16일.md" title="wikilink">11월 16일</a></p></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>-</p></td>
@@ -538,7 +538,7 @@
 <td><p>2017</p></td>
 <td><p>49(47)</p></td>
 <td><p>"<a href="https://ko.wikipedia.org/wiki/슛_싸인" title="wikilink">슛 싸인</a>" </p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2017년" title="wikilink">2017년</a> <a href="https://ko.wikipedia.org/wiki/3월_15일" title="wikilink">3월 15일</a></p></td>
+<td><p><a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/3월_15일.md" title="wikilink">3월 15일</a></p></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>-</p></td>
@@ -547,7 +547,7 @@
 <tr class="even">
 <td><p>50(48)</p></td>
 <td><p>"<a href="../Page/소원을_간직할_뿐.md" title="wikilink">소원을 간직할 뿐</a>" </p></td>
-<td><p>2017년 <a href="https://ko.wikipedia.org/wiki/5월_31일" title="wikilink">5월 31일</a></p></td>
+<td><p>2017년 <a href="../Page/5월_31일.md" title="wikilink">5월 31일</a></p></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>-</p></td>
@@ -557,7 +557,7 @@
 <tr class="odd">
 <td><p>51(49)</p></td>
 <td><p>"<a href="https://ko.wikipedia.org/wiki/＃좋아해" title="wikilink">#좋아해</a>" </p></td>
-<td><p>2017년 <a href="https://ko.wikipedia.org/wiki/8월_30일" title="wikilink">8월 30일</a></p></td>
+<td><p>2017년 <a href="../Page/8월_30일.md" title="wikilink">8월 30일</a></p></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>-</p></td>
@@ -567,7 +567,7 @@
 <tr class="even">
 <td><p>52(50)</p></td>
 <td><p>"<a href="https://ko.wikipedia.org/wiki/11월의_앵클릿" title="wikilink">11월의 앵클릿</a>" </p></td>
-<td><p>2017년 <a href="https://ko.wikipedia.org/wiki/11월_22일" title="wikilink">11월 22일</a></p></td>
+<td><p>2017년 <a href="../Page/11월_22일.md" title="wikilink">11월 22일</a></p></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>-</p></td>
@@ -578,7 +578,7 @@
 <td><p>2018</p></td>
 <td><p>53(51)</p></td>
 <td><p>"<a href="https://ko.wikipedia.org/wiki/자바자" title="wikilink">자바자</a>" </p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2018년" title="wikilink">2018년</a> <a href="https://ko.wikipedia.org/wiki/3월_14일" title="wikilink">3월 14일</a></p></td>
+<td><p><a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/3월_14일.md" title="wikilink">3월 14일</a></p></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>-</p></td>
@@ -587,7 +587,7 @@
 <tr class="even">
 <td><p>54(52)</p></td>
 <td><p>"<a href="../Page/Teacher_Teacher.md" title="wikilink">Teacher Teacher</a>"</p></td>
-<td><p>2018년 <a href="https://ko.wikipedia.org/wiki/5월_30일" title="wikilink">5월 30일</a></p></td>
+<td><p>2018년 <a href="../Page/5월_30일.md" title="wikilink">5월 30일</a></p></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>-</p></td>
@@ -597,7 +597,7 @@
 <tr class="odd">
 <td><p>55(53)</p></td>
 <td><p>"<a href="../Page/센티멘탈_트레인.md" title="wikilink">센티멘탈 트레인</a>" </p></td>
-<td><p>2018년 <a href="https://ko.wikipedia.org/wiki/9월_19일" title="wikilink">9월 19일</a></p></td>
+<td><p>2018년 <a href="../Page/9월_19일.md" title="wikilink">9월 19일</a></p></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>-</p></td>
@@ -607,7 +607,7 @@
 <tr class="even">
 <td><p>56(54)</p></td>
 <td><p>"<a href="../Page/NO_WAY_MAN.md" title="wikilink">NO WAY MAN</a>"</p></td>
-<td><p>2018년 <a href="https://ko.wikipedia.org/wiki/11월_28일" title="wikilink">11월 28일</a></p></td>
+<td><p>2018년 <a href="../Page/11월_28일.md" title="wikilink">11월 28일</a></p></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>-</p></td>
@@ -617,8 +617,8 @@
 <tr class="odd">
 <td><p>2019</p></td>
 <td><p>57(55)</p></td>
-<td><p>"<a href="https://ko.wikipedia.org/wiki/지와루_DAYS" title="wikilink">지와루 DAYS</a>" </p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2019년" title="wikilink">2019년</a> <a href="https://ko.wikipedia.org/wiki/3월_13일" title="wikilink">3월 13일</a></p></td>
+<td><p>"<a href="../Page/지와루_DAYS.md" title="wikilink">지와루 DAYS</a>" </p></td>
+<td><p><a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/3월_13일.md" title="wikilink">3월 13일</a></p></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>-</p></td>
@@ -627,7 +627,7 @@
 <tr class="even">
 <td><p>58(56)</p></td>
 <td><p>"<a href="https://ko.wikipedia.org/wiki/서스테이너블" title="wikilink">서스테이너블</a>" </p></td>
-<td><p>2019년 <a href="https://ko.wikipedia.org/wiki/9월_18일" title="wikilink">9월 18일</a></p></td>
+<td><p>2019년 <a href="../Page/9월_18일.md" title="wikilink">9월 18일</a></p></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>-</p></td>
@@ -638,7 +638,7 @@
 <td><p>2020</p></td>
 <td><p>59(57)</p></td>
 <td><p>"<a href="https://ko.wikipedia.org/wiki/실연,_고마워" title="wikilink">실연, 고마워</a>" </p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2020년" title="wikilink">2020년</a> <a href="https://ko.wikipedia.org/wiki/3월_18일" title="wikilink">3월 18일</a></p></td>
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/3월_18일.md" title="wikilink">3월 18일</a></p></td>
 <td></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
@@ -678,7 +678,7 @@
 재팬<br />
 핫 100<br />
 [6]</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/일본_레코드_대상" title="wikilink">RIAJ<br />
+<td><p><a href="../Page/일본_레코드_대상.md" title="wikilink">RIAJ<br />
 디지털<br />
 트랙<br />
 차트</a><br />
@@ -764,7 +764,7 @@
 차트<br />
 [8]</p></th>
 <th><p>오리콘 판매량[9]</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/일본_레코드_대상" title="wikilink">일본 레코드 협회</a><br />
+<th><p><a href="../Page/일본_레코드_대상.md" title="wikilink">일본 레코드 협회</a><br />
 인증</p></th>
 </tr>
 </thead>
@@ -780,8 +780,8 @@
 <td><p>2008</p></td>
 <td><p><em><a href="https://ko.wikipedia.org/wiki/Set_List:_Greatest_Songs_2006-2007" title="wikilink">Set List: Greatest Songs 2006-2007</a></em> </p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2008년" title="wikilink">2008년</a> <a href="https://ko.wikipedia.org/wiki/1월_1일" title="wikilink">1월 1일</a></li>
-<li><a href="https://ko.wikipedia.org/wiki/2010년" title="wikilink">2010년</a> <a href="https://ko.wikipedia.org/wiki/7월_14일" title="wikilink">7월 14일에</a> 〈Set List: Greatest Songs 완전반〉으로서 재발매되었다.</li>
+<li>발매일 : <a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/1월_1일.md" title="wikilink">1월 1일</a></li>
+<li><a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/7월_14일.md" title="wikilink">7월 14일에</a> 〈Set List: Greatest Songs 완전반〉으로서 재발매되었다.</li>
 <li>레이블 : <a href="https://ko.wikipedia.org/wiki/데프스타_레코드" title="wikilink">데프스타 레코드</a> (DFCL-1429/30 (한정반), DFCL-1431 (통상반), DFCL-1653 (간젠반)*)</li>
 <li>형식 : <a href="https://ko.wikipedia.org/wiki/컴팩트_디스크" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a></li>
 </ul></td>
@@ -796,7 +796,7 @@
 <td><p>2010</p></td>
 <td><p>《<a href="https://ko.wikipedia.org/wiki/가미쿄쿠타치" title="wikilink">최고의 곡들</a>》 </p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2010년" title="wikilink">2010년</a> <a href="https://ko.wikipedia.org/wiki/4월_7일" title="wikilink">4월 7일</a></li>
+<li>발매일 : <a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/4월_7일.md" title="wikilink">4월 7일</a></li>
 <li>레이블 : <a href="../Page/킹레코드_(일본).md" title="wikilink">킹 레코드</a> (KIZC-65/6 (통상반), NKCD-6512/3 (극장반))</li>
 <li>형식 : CD, 디지털 다운로드</li>
 </ul></td>
@@ -808,7 +808,7 @@
 <td><p>2015</p></td>
 <td><p>《<a href="https://ko.wikipedia.org/wiki/0토1노아이다" title="wikilink">0과 1 사이</a>》 </p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2015년" title="wikilink">2015년</a> <a href="https://ko.wikipedia.org/wiki/11월_4일" title="wikilink">11월 4일</a></li>
+<li>발매일 : <a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/11월_4일.md" title="wikilink">11월 4일</a></li>
 <li>레이블 : 킹 레코드</li>
 <li>형식 : CD, 디지털 다운로드</li>
 </ul></td>
@@ -835,7 +835,7 @@
 [10]</p></th>
 <th><p>오리콘 판매량[11]</p></th>
 <th><p>빌보드 재팬 판매[12]</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/일본_레코드_대상" title="wikilink">일본 레코드 협회</a><br />
+<th><p><a href="../Page/일본_레코드_대상.md" title="wikilink">일본 레코드 협회</a><br />
 인증</p></th>
 </tr>
 </thead>
@@ -852,7 +852,7 @@
 <td><p>2011</p></td>
 <td><p>《<a href="https://ko.wikipedia.org/wiki/고코니이타코토" title="wikilink">여기에 있던 것</a>》 </p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2011년" title="wikilink">2011년</a> <a href="https://ko.wikipedia.org/wiki/6월_8일" title="wikilink">6월 8일</a></li>
+<li>발매일 : <a href="../Page/2011년.md" title="wikilink">2011년</a> <a href="../Page/6월_8일.md" title="wikilink">6월 8일</a></li>
 <li>레이블 : 킹 레코드 (KIZC-90117/8 (한정반), KIZC-117/8 (통상반), NKCD-6546 (극장반))</li>
 <li>형식 : CD, 디지털 다운로드</li>
 </ul></td>
@@ -865,7 +865,7 @@
 <td><p>2012</p></td>
 <td><p><em><a href="https://ko.wikipedia.org/wiki/1830m" title="wikilink">1830m</a></em></p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2012년" title="wikilink">2012년</a> <a href="https://ko.wikipedia.org/wiki/8월_15일" title="wikilink">8월 15일</a></li>
+<li>발매일 : <a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/8월_15일.md" title="wikilink">8월 15일</a></li>
 <li>레이블 : 킹 레코드 (KIZC-163/4/5 (통상반), NKCD-6611/2 (극장반))</li>
 <li>형식 : CD, 디지털 다운로드</li>
 </ul></td>
@@ -878,7 +878,7 @@
 <td><p>2014</p></td>
 <td><p>《<a href="https://ko.wikipedia.org/wiki/쓰기노아시아토" title="wikilink">다음 발자국</a>》 </p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2014년" title="wikilink">2014년</a> <a href="https://ko.wikipedia.org/wiki/1월_22일" title="wikilink">1월 22일</a></li>
+<li>발매일 : <a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/1월_22일.md" title="wikilink">1월 22일</a></li>
 <li>레이블 : 킹 레코드 (KIZC-90240/2 (한정반 Type I), KIZC-301/4/5 (통상반 Type-I), KIZC-301/6/7 (통상반 Type-II), NKCD-6655 (극장반))</li>
 <li>형식 : CD, 디지털 다운로드</li>
 </ul></td>
@@ -891,7 +891,7 @@
 <td><p>2015</p></td>
 <td><p>《<a href="https://ko.wikipedia.org/wiki/고코가로도스다,_코코데토베!" title="wikilink">여기가 로도스다, 여기서 뛰어라!</a>》 </p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2015년" title="wikilink">2015년</a> <a href="https://ko.wikipedia.org/wiki/1월_21일" title="wikilink">1월 21일</a></li>
+<li>발매일 : <a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/1월_21일.md" title="wikilink">1월 21일</a></li>
 <li>레이블 : 킹 레코드 (KIZC-90265/7 (한정반 Type I), KICS-316/2/3 (통상반 Type-I), KICS-316/4/5 (통상반 Type-II), NKCD-6695 (극장반))</li>
 <li>형식 : CD, 디지털 다운로드</li>
 </ul></td>
@@ -904,7 +904,7 @@
 <td><p>2017</p></td>
 <td><p>《<a href="https://ko.wikipedia.org/wiki/섬네일_(음반)" title="wikilink">섬네일</a>》 </p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2017년" title="wikilink">2017년</a> <a href="https://ko.wikipedia.org/wiki/1월_25일" title="wikilink">1월 25일</a></li>
+<li>발매일 : <a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/1월_25일.md" title="wikilink">1월 25일</a></li>
 <li>레이블 : 킹 레코드 (KIZC-370-1 (Type-I), KICS-3468 (Type-II), NKCD-6777 (극장반))</li>
 <li>형식 : CD, 디지털 다운로드</li>
 </ul></td>
@@ -917,7 +917,7 @@
 <td><p>2018</p></td>
 <td><p>《<a href="https://ko.wikipedia.org/wiki/우리들은,_그날의_새벽을_알고_있다" title="wikilink">우리들은, 그날의 새벽을 알고 있다</a>》 </p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2018년" title="wikilink">2018년</a> <a href="https://ko.wikipedia.org/wiki/1월_24일" title="wikilink">1월 24일</a></li>
+<li>발매일 : <a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/1월_24일.md" title="wikilink">1월 24일</a></li>
 <li>레이블 : 킹 레코드</li>
 <li>형식 : CD, 디지털 다운로드</li>
 </ul></td>
@@ -961,18 +961,18 @@
 <td><p>2007</p></td>
 <td><p>1</p></td>
 <td><ul>
-<li><a href="https://ko.wikipedia.org/wiki/2013년" title="wikilink">2013년</a> <a href="https://ko.wikipedia.org/wiki/1월_1일" title="wikilink">1월 1일에</a> 〈studio recordings 콜렉션〉으로서 재발매되었다.</li>
+<li><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/1월_1일.md" title="wikilink">1월 1일에</a> 〈studio recordings 콜렉션〉으로서 재발매되었다.</li>
 </ul></td>
 <td><p><br />
 </p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2007년" title="wikilink">2007년</a> <a href="https://ko.wikipedia.org/wiki/3월_21일" title="wikilink">3월 21일</a></p></td>
+<td><p><a href="../Page/2007년.md" title="wikilink">2007년</a> <a href="../Page/3월_21일.md" title="wikilink">3월 21일</a></p></td>
 <td><p>180</p></td>
 <td><p>1,365</p></td>
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
 <td><ul>
-<li><a href="https://ko.wikipedia.org/wiki/2013년" title="wikilink">2013년</a> <a href="https://ko.wikipedia.org/wiki/1월_1일" title="wikilink">1월 1일에</a> 〈studio recordings 콜렉션〉으로서 재발매되었다.</li>
+<li><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/1월_1일.md" title="wikilink">1월 1일에</a> 〈studio recordings 콜렉션〉으로서 재발매되었다.</li>
 </ul></td>
 <td><p><br />
 </p></td>
@@ -984,7 +984,7 @@
 <tr class="even">
 <td><p>3</p></td>
 <td><ul>
-<li><a href="https://ko.wikipedia.org/wiki/2013년" title="wikilink">2013년</a> <a href="https://ko.wikipedia.org/wiki/1월_1일" title="wikilink">1월 1일에</a> 〈studio recordings 콜렉션〉으로서 재발매되었다.</li>
+<li><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/1월_1일.md" title="wikilink">1월 1일에</a> 〈studio recordings 콜렉션〉으로서 재발매되었다.</li>
 </ul></td>
 <td><p><br />
 </p></td>
@@ -996,7 +996,7 @@
 <tr class="odd">
 <td><p>4</p></td>
 <td><ul>
-<li><a href="https://ko.wikipedia.org/wiki/2013년" title="wikilink">2013년</a> <a href="https://ko.wikipedia.org/wiki/1월_1일" title="wikilink">1월 1일에</a> 〈studio recordings 콜렉션〉으로서 재발매되었다.</li>
+<li><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/1월_1일.md" title="wikilink">1월 1일에</a> 〈studio recordings 콜렉션〉으로서 재발매되었다.</li>
 </ul></td>
 <td><p><br />
 </p></td>
@@ -1008,7 +1008,7 @@
 <tr class="even">
 <td><p>5</p></td>
 <td><ul>
-<li><a href="https://ko.wikipedia.org/wiki/2013년" title="wikilink">2013년</a> <a href="https://ko.wikipedia.org/wiki/1월_1일" title="wikilink">1월 1일에</a> 〈studio recordings 콜렉션〉으로서 재발매되었다.</li>
+<li><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/1월_1일.md" title="wikilink">1월 1일에</a> 〈studio recordings 콜렉션〉으로서 재발매되었다.</li>
 </ul></td>
 <td><p><br />
 </p></td>
@@ -1020,7 +1020,7 @@
 <tr class="odd">
 <td><p>6</p></td>
 <td><ul>
-<li><a href="https://ko.wikipedia.org/wiki/2013년" title="wikilink">2013년</a> <a href="https://ko.wikipedia.org/wiki/1월_1일" title="wikilink">1월 1일에</a> 〈studio recordings 콜렉션〉으로서 재발매되었다.</li>
+<li><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/1월_1일.md" title="wikilink">1월 1일에</a> 〈studio recordings 콜렉션〉으로서 재발매되었다.</li>
 </ul></td>
 <td><p><br />
 </p></td>
@@ -1042,11 +1042,11 @@
 <td><p>2008</p></td>
 <td><p>7</p></td>
 <td><ul>
-<li><a href="https://ko.wikipedia.org/wiki/2013년" title="wikilink">2013년</a> <a href="https://ko.wikipedia.org/wiki/1월_1일" title="wikilink">1월 1일에</a> 〈studio recordings 콜렉션〉으로서 재발매되었다.</li>
+<li><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/1월_1일.md" title="wikilink">1월 1일에</a> 〈studio recordings 콜렉션〉으로서 재발매되었다.</li>
 </ul></td>
 <td><p><br />
 </p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2008년" title="wikilink">2008년</a> <a href="https://ko.wikipedia.org/wiki/8월_11일" title="wikilink">8월 11일</a></p></td>
+<td><p><a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/8월_11일.md" title="wikilink">8월 11일</a></p></td>
 <td><p><small>AKB48<br />
 극장 및<br />
 온라인<br />
@@ -1056,7 +1056,7 @@
 <tr class="even">
 <td><p>8</p></td>
 <td><ul>
-<li><a href="https://ko.wikipedia.org/wiki/2013년" title="wikilink">2013년</a> <a href="https://ko.wikipedia.org/wiki/1월_1일" title="wikilink">1월 1일에</a> 〈studio recordings 콜렉션〉으로서 재발매되었다.</li>
+<li><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/1월_1일.md" title="wikilink">1월 1일에</a> 〈studio recordings 콜렉션〉으로서 재발매되었다.</li>
 </ul></td>
 <td><p><br />
 </p></td>
@@ -1068,7 +1068,7 @@
 <tr class="odd">
 <td><p>9</p></td>
 <td><ul>
-<li><a href="https://ko.wikipedia.org/wiki/2013년" title="wikilink">2013년</a> <a href="https://ko.wikipedia.org/wiki/1월_1일" title="wikilink">1월 1일에</a> 〈studio recordings 콜렉션〉으로서 재발매되었다.</li>
+<li><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/1월_1일.md" title="wikilink">1월 1일에</a> 〈studio recordings 콜렉션〉으로서 재발매되었다.</li>
 </ul></td>
 <td><p><br />
 </p></td>
@@ -1081,18 +1081,18 @@
 <td><p>2010</p></td>
 <td><p>10</p></td>
 <td><ul>
-<li><a href="https://ko.wikipedia.org/wiki/2013년" title="wikilink">2013년</a> <a href="https://ko.wikipedia.org/wiki/1월_1일" title="wikilink">1월 1일에</a> 〈studio recordings 콜렉션〉으로서 재발매되었다.</li>
+<li><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/1월_1일.md" title="wikilink">1월 1일에</a> 〈studio recordings 콜렉션〉으로서 재발매되었다.</li>
 </ul></td>
 <td><p><br />
 </p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2010년" title="wikilink">2010년</a> <a href="https://ko.wikipedia.org/wiki/8월_7일" title="wikilink">8월 7일</a></p></td>
+<td><p><a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/8월_7일.md" title="wikilink">8월 7일</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>11</p></td>
 <td><ul>
-<li><a href="https://ko.wikipedia.org/wiki/2013년" title="wikilink">2013년</a> <a href="https://ko.wikipedia.org/wiki/1월_1일" title="wikilink">1월 1일에</a> 〈studio recordings 콜렉션〉으로서 재발매되었다.</li>
+<li><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/1월_1일.md" title="wikilink">1월 1일에</a> 〈studio recordings 콜렉션〉으로서 재발매되었다.</li>
 </ul></td>
 <td><p><br />
 </p></td>
@@ -1104,11 +1104,11 @@
 <tr class="even">
 <td><p>12</p></td>
 <td><ul>
-<li><a href="https://ko.wikipedia.org/wiki/2013년" title="wikilink">2013년</a> <a href="https://ko.wikipedia.org/wiki/1월_1일" title="wikilink">1월 1일에</a> 〈studio recordings 콜렉션〉으로서 재발매되었다.</li>
+<li><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/1월_1일.md" title="wikilink">1월 1일에</a> 〈studio recordings 콜렉션〉으로서 재발매되었다.</li>
 </ul></td>
 <td><p><br />
 </p></td>
-<td><p>2010년 <a href="https://ko.wikipedia.org/wiki/9월_18일" title="wikilink">9월 18일</a></p></td>
+<td><p>2010년 <a href="../Page/9월_18일.md" title="wikilink">9월 18일</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1128,7 +1128,7 @@
 <td></td>
 <td><p><br />
 </p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2013년" title="wikilink">2013년</a> <a href="https://ko.wikipedia.org/wiki/1월_1일" title="wikilink">1월 1일</a></p></td>
+<td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/1월_1일.md" title="wikilink">1월 1일</a></p></td>
 <td><p><small>〈studio<br />
 recordings<br />
 콜렉션〉으로서<br />
@@ -2681,7 +2681,7 @@ recordings<br />
   - 아리요시 AKB 공화국 (2010년 3월 29일 - , [TBS](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink"))
   - 화요곡\! (2012년 4월 24일 - , TBS)
   - [주간AKB](../Page/주간AKB.md "wikilink") (2009년 \~ , TV 도쿄)
-  - AKB 자동차부 (2012년 4월 28일 - , [후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink"))
+  - AKB 자동차부 (2012년 4월 28일 - , [후지 TV](../Page/후지_TV.md "wikilink"))
   - AKB48 네모스TV Season10 (2012년 6월 17일 - , CS)
   - [AKB48 SHOW\!](../Page/AKB48_SHOW!.md "wikilink") (2013년 10월 5일 - , [NHK BS 프리미엄](../Page/NHK_BS_프리미엄.md "wikilink"))
   - [PRODUCE 48](https://ko.wikipedia.org/wiki/PRODUCE_48 "wikilink") (2018년 6월 15일 - , [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink"))

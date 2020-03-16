@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [HP 200LX](https://ko.wikipedia.org/wiki/HP_200LX).
 
 
-**HP 200LX**는 [HP사에서](../Page/휴렛_팩커드.md "wikilink") 코드명 펠릭스(Felix)인 HP200LX는 HP사에서 [HP100LX](https://ko.wikipedia.org/wiki/HP100LX "wikilink")의 후계 모델로서 내놓은 모델이다. 사실 HP100LX와 거의 차이가 없다. 단지 키보드 레이어와 약간의 소프트웨어의 차이가 있을 뿐이지 CPU, RAM, 슬롯 등 거의 같다. HP95LX에 비해 넓어진 표준 해상도의 디스플레이와 표준 [PCMCIA](https://ko.wikipedia.org/wiki/PCMCIA "wikilink")로 많은 [MS-DOS](https://ko.wikipedia.org/wiki/MS-DOS "wikilink")의 [애플리케이션을](https://ko.wikipedia.org/wiki/응용_소프트웨어 "wikilink") 구동할 수 있게 되었다. HP200LX는 많은 용도로 사용되어 왔다. 비즈니스, 수학과 과학 분야에서의 여러 공학 용도로 휴대용 컴퓨팅, 개인용 일정관리, 심지어 전기가 닿지 않는 지구의 열악한 환경의 사막이나 극지에서 군인과 모험가들에게까지 건전지로 작동되고 저전력이기 때문에 오래 사용되는 장점으로 다양한 용도로 사용되었다. 그러나 백 라이트가 없어서 어두운 곳에서는 사용할 수 없지만, 개조를 통해 이를 극복할 수 있다.
+**HP 200LX**는 [HP사에서](../Page/휴렛_팩커드.md "wikilink") 코드명 펠릭스(Felix)인 HP200LX는 HP사에서 [HP100LX](https://ko.wikipedia.org/wiki/HP100LX "wikilink")의 후계 모델로서 내놓은 모델이다. 사실 HP100LX와 거의 차이가 없다. 단지 키보드 레이어와 약간의 소프트웨어의 차이가 있을 뿐이지 CPU, RAM, 슬롯 등 거의 같다. HP95LX에 비해 넓어진 표준 해상도의 디스플레이와 표준 [PCMCIA](https://ko.wikipedia.org/wiki/PCMCIA "wikilink")로 많은 [MS-DOS](../Page/MS-DOS.md "wikilink")의 [애플리케이션을](../Page/응용_소프트웨어.md "wikilink") 구동할 수 있게 되었다. HP200LX는 많은 용도로 사용되어 왔다. 비즈니스, 수학과 과학 분야에서의 여러 공학 용도로 휴대용 컴퓨팅, 개인용 일정관리, 심지어 전기가 닿지 않는 지구의 열악한 환경의 사막이나 극지에서 군인과 모험가들에게까지 건전지로 작동되고 저전력이기 때문에 오래 사용되는 장점으로 다양한 용도로 사용되었다. 그러나 백 라이트가 없어서 어두운 곳에서는 사용할 수 없지만, 개조를 통해 이를 극복할 수 있다.
 
 HP사의 LX 시리즈는 시대를 앞선 기계이다. 이미 근래에 [UMPC](https://ko.wikipedia.org/wiki/UMPC "wikilink"), [MID](https://ko.wikipedia.org/wiki/MID "wikilink")와 같은 주머니에 있는 진정한 휴대용 컴퓨터가 도입되고 있지만 사실 주머니와 손에 들고 다닐 수 있는 PC는 이미 [HP95LX](https://ko.wikipedia.org/wiki/HP95LX "wikilink")가 발표된 1991년부터 이루어졌다고 봐야 한다.
 

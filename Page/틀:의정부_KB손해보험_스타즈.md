@@ -9,8 +9,8 @@
 
 |묶음5 = 관련 항목 |내용5 =
 
-  - [의정부시](https://ko.wikipedia.org/wiki/의정부시 "wikilink") (연고지)
-  - [KB손해보험](https://ko.wikipedia.org/wiki/KB손해보험 "wikilink") (모기업)
+  - [의정부시](../Page/의정부시.md "wikilink") (연고지)
+  - [KB손해보험](../Page/KB손해보험.md "wikilink") (모기업)
 
 |묶음6 = 시즌 |내용6 =
 

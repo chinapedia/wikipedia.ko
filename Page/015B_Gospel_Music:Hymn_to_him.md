@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [015B Gospel Music:Hymn to him](https://ko.wikipedia.org/wiki/015B_Gospel_Music:Hymn_to_him).
 
 
-《**015B Gospel Hymn to him**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 그룹 [015B](../Page/015B.md "wikilink")의 가스펠 [앨범이다](../Page/음반.md "wikilink"). [정석원](../Page/정석원_\(음악가\).md "wikilink"), [장호일](../Page/장호일.md "wikilink"), [김태우](../Page/김태우_\(1970년\).md "wikilink") 등이 참여했다.
+《**015B Gospel Hymn to him**》는 [대한민국](../Page/대한민국.md "wikilink")의 그룹 [015B](../Page/015B.md "wikilink")의 가스펠 [앨범이다](../Page/음반.md "wikilink"). [정석원](../Page/정석원_\(음악가\).md "wikilink"), [장호일](../Page/장호일.md "wikilink"), [김태우](../Page/김태우_\(1970년\).md "wikilink") 등이 참여했다.
 
 ## 곡 목록
 

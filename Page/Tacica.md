@@ -5,7 +5,7 @@
 
 ## 내력
 
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink")부터 현재 멤버로 활동하기 시작했다.
+  - [2005년](../Page/2005년.md "wikilink") [4월](../Page/4월.md "wikilink")부터 현재 멤버로 활동하기 시작했다.
 
 ## 음반 목록
 
@@ -42,7 +42,7 @@
 
 #### 싱글
 
-1.  ([2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [1월 14일](https://ko.wikipedia.org/wiki/1월_14일 "wikilink"))
+1.  ([2009년](../Page/2009년.md "wikilink") [1월 14일](../Page/1월_14일.md "wikilink"))
 
     1.  人鳥哀歌
     2.  蜜蜂の毛布
@@ -50,7 +50,7 @@
 
 #### 앨범
 
-1.  parallel park ([2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [10월 1일](https://ko.wikipedia.org/wiki/10월_1일 "wikilink"))
+1.  parallel park ([2008년](../Page/2008년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink"))
     1.  ヌーの休日
     2.  ゼンマイ
     3.  人間1/2

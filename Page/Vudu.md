@@ -5,7 +5,7 @@
 
 ## 역사
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:P2ptv.PNG "wikilink") [토니 미란츠와](https://ko.wikipedia.org/wiki/토니_미란츠 "wikilink") [알레인 로스만이](https://ko.wikipedia.org/wiki/알레인_로스만 "wikilink") Vudu 사를 설립하였다. 알라인 로스만은 [무선 애플리케이션 프로토콜의](https://ko.wikipedia.org/wiki/무선_애플리케이션_프로토콜 "wikilink") 창시자였다.\[1\] 부두 복스는 2004년에 비밀리에 개발 착수되었다. [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [4월 29일](https://ko.wikipedia.org/wiki/4월_29일 "wikilink") 《[뉴욕 타임스](https://ko.wikipedia.org/wiki/뉴욕_타임스 "wikilink")》가 영화사 및 독립 배급사와 5000여 개의 영화를 공급하기로 계약했다고 보도했다.\[2\] 다른 영화 다운로드 서비스와는 달리, Vudu 서비스는 [개인용 컴퓨터나](https://ko.wikipedia.org/wiki/개인용_컴퓨터 "wikilink") [케이블 박스를](https://ko.wikipedia.org/wiki/케이블_박스 "wikilink") 필요로 하지 않는다. 단지 광대역 인터넷 접속만 가능하기만 하면 된다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:P2ptv.PNG "wikilink") [토니 미란츠와](https://ko.wikipedia.org/wiki/토니_미란츠 "wikilink") [알레인 로스만이](https://ko.wikipedia.org/wiki/알레인_로스만 "wikilink") Vudu 사를 설립하였다. 알라인 로스만은 [무선 애플리케이션 프로토콜의](../Page/무선_애플리케이션_프로토콜.md "wikilink") 창시자였다.\[1\] 부두 복스는 2004년에 비밀리에 개발 착수되었다. [2007년](../Page/2007년.md "wikilink") [4월 29일](../Page/4월_29일.md "wikilink") 《[뉴욕 타임스](../Page/뉴욕_타임스.md "wikilink")》가 영화사 및 독립 배급사와 5000여 개의 영화를 공급하기로 계약했다고 보도했다.\[2\] 다른 영화 다운로드 서비스와는 달리, Vudu 서비스는 [개인용 컴퓨터나](../Page/개인용_컴퓨터.md "wikilink") [케이블 박스를](https://ko.wikipedia.org/wiki/케이블_박스 "wikilink") 필요로 하지 않는다. 단지 광대역 인터넷 접속만 가능하기만 하면 된다.
 
 제품 개발 팀은 [티보](https://ko.wikipedia.org/wiki/티보 "wikilink"), [웹티비](https://ko.wikipedia.org/wiki/웹티비 "wikilink"), Openware, 2Wire, Slim Devices, OpenTV, Danger Inc. 같은 곳에있었던 개발자들로 구성되어 있다. Vudu 사는 2천 1백만 달러의 벤처 캐피탈 펀딩을 받았다. 펀딩 업체는 Greylock Partners와 Benchmark Capital이었다.\[3\] 《뉴욕 타임스》의 보도가 있기 전까지만 해도, 이 회사는 일반인에게 거의 알려지지 않았었다. 캘리포니아 주 산타 클라라에 있는 이름 없는 건물에 회사가 위치해 있다.
 
@@ -13,7 +13,7 @@
 
 ## 기술
 
-영화는 광대역 인터넷 접속을 통해 공유된다. [MPEG-4](https://ko.wikipedia.org/wiki/MPEG-4 "wikilink") 비디오에 돌비 디지털 플러스 오디오코덱을 썼다. [디지털 표준 텔레비전](https://ko.wikipedia.org/wiki/디지털_표준_텔레비전 "wikilink") 해상도의 영화는 [고선명 비디오](../Page/고선명_비디오.md "wikilink") (HD)로 업스케일된다.\[5\] 고선명 비디오 (HD) 영화는 [1080p](../Page/1080p.md "wikilink") 출력까지 가능하다. 재생을 빨리 시작하기 위해, 카탈로그 내의 모든 영화의 앞부분이 복스(box)에 미리 저장되어 있다. P2P 네트워크 상에서, 한 복스는 다른 복스와 콘텐트를 공유한다. 사용자가 미리 다운로드되어 있던 영화의 앞부분을 보는 도중에 영화의 나머지 부분이 공유된다.
+영화는 광대역 인터넷 접속을 통해 공유된다. [MPEG-4](../Page/MPEG-4.md "wikilink") 비디오에 돌비 디지털 플러스 오디오코덱을 썼다. [디지털 표준 텔레비전](../Page/디지털_표준_텔레비전.md "wikilink") 해상도의 영화는 [고선명 비디오](../Page/고선명_비디오.md "wikilink") (HD)로 업스케일된다.\[5\] 고선명 비디오 (HD) 영화는 [1080p](../Page/1080p.md "wikilink") 출력까지 가능하다. 재생을 빨리 시작하기 위해, 카탈로그 내의 모든 영화의 앞부분이 복스(box)에 미리 저장되어 있다. P2P 네트워크 상에서, 한 복스는 다른 복스와 콘텐트를 공유한다. 사용자가 미리 다운로드되어 있던 영화의 앞부분을 보는 도중에 영화의 나머지 부분이 공유된다.
 
 ## 경쟁 서비스
 

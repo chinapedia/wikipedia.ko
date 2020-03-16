@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [XDR DRAM](https://ko.wikipedia.org/wiki/XDR_DRAM).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:XDRAM.jpg "wikilink") **XDR DRAM**(extreme data rate dynamic random-access memory)은 [램버스](https://ko.wikipedia.org/wiki/램버스 "wikilink") [RDRAM](../Page/RDRAM.md "wikilink")의 뒤를 잇는 고성능 [램](https://ko.wikipedia.org/wiki/램 "wikilink") 인터페이스이다. [DDR2 SDRAM과](../Page/DDR2_SDRAM.md "wikilink") [GDDR4](../Page/GDDR4.md "wikilink") 기술과 경쟁한다. [소니](https://ko.wikipedia.org/wiki/소니 "wikilink")의 게임 콘솔 [PS3에](https://ko.wikipedia.org/wiki/플레이스테이션_3 "wikilink") 쓰인 램이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:XDRAM.jpg "wikilink") **XDR DRAM**(extreme data rate dynamic random-access memory)은 [램버스](https://ko.wikipedia.org/wiki/램버스 "wikilink") [RDRAM](../Page/RDRAM.md "wikilink")의 뒤를 잇는 고성능 [램](https://ko.wikipedia.org/wiki/램 "wikilink") 인터페이스이다. [DDR2 SDRAM과](../Page/DDR2_SDRAM.md "wikilink") [GDDR4](../Page/GDDR4.md "wikilink") 기술과 경쟁한다. [소니](../Page/소니.md "wikilink")의 게임 콘솔 [PS3에](../Page/플레이스테이션_3.md "wikilink") 쓰인 램이다.
 
 ## 프로토콜
 

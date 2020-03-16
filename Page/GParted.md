@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [GParted](https://ko.wikipedia.org/wiki/GParted).
 
 
-**GParted**는 [디스크 파티션](https://ko.wikipedia.org/wiki/디스크_파티션 "wikilink") 편집 소프트웨어다. 글씨(텍스트)만으로 이루어져 있는 [GNU 파티드를](https://ko.wikipedia.org/wiki/GNU_파티드 "wikilink") [GTK+](https://ko.wikipedia.org/wiki/GTK+ "wikilink")를 통해 [GUI로](https://ko.wikipedia.org/wiki/그래픽_사용자_인터페이스 "wikilink") 구현한 소프트웨어로 libparted를 통해 디스크 장치를 찾아내고 분석하여 디스크 장치 안에 어떤 토막(파티션)들이 어떤 꼴로 있는지를 알아내며 토막을 만들거나, 지우거나, 크기를 바꾸거나, 옮기거나, 검사하거나, 베낄 수 있다.
+**GParted**는 [디스크 파티션](https://ko.wikipedia.org/wiki/디스크_파티션 "wikilink") 편집 소프트웨어다. 글씨(텍스트)만으로 이루어져 있는 [GNU 파티드를](https://ko.wikipedia.org/wiki/GNU_파티드 "wikilink") [GTK+](../Page/GTK+.md "wikilink")를 통해 [GUI로](../Page/그래픽_사용자_인터페이스.md "wikilink") 구현한 소프트웨어로 libparted를 통해 디스크 장치를 찾아내고 분석하여 디스크 장치 안에 어떤 토막(파티션)들이 어떤 꼴로 있는지를 알아내며 토막을 만들거나, 지우거나, 크기를 바꾸거나, 옮기거나, 검사하거나, 베낄 수 있다.
 
-[C++](https://ko.wikipedia.org/wiki/C++ "wikilink")로 쓰였으며 [GNU 일반 공중 사용 허가서를](https://ko.wikipedia.org/wiki/GNU_일반_공중_사용_허가서 "wikilink") 따른다.
+[C++](https://ko.wikipedia.org/wiki/C++ "wikilink")로 쓰였으며 [GNU 일반 공중 사용 허가서를](../Page/GNU_일반_공중_사용_허가서.md "wikilink") 따른다.
 
 ## 지원하는 꼴(포맷)
 
@@ -19,7 +19,7 @@
 | [hfs](https://ko.wikipedia.org/wiki/HFS "wikilink")        | 예  | 예   | 예   | 아니오   | 예     | 예   | 예   | 아니오  | 아니오 |
 | [hfs+](https://ko.wikipedia.org/wiki/HFS+ "wikilink")      | 예  | 예   | 예   | 아니오   | 예     | 예   | 예   | 예    | 아니오 |
 | [jfs](https://ko.wikipedia.org/wiki/JFS "wikilink")        | 예  | 예   | 예   | 예     | 아니오   | 예   | 예   | 예    | 예   |
-| [swap](https://ko.wikipedia.org/wiki/가상_메모리 "wikilink")    | 예  | 아니오 | 예   | 예     | 예     | 예   | 예   | 아니오  | 아니오 |
+| [swap](../Page/가상_메모리.md "wikilink")                       | 예  | 아니오 | 예   | 예     | 예     | 예   | 예   | 아니오  | 아니오 |
 | [ntfs](https://ko.wikipedia.org/wiki/ntfs "wikilink")      | 예  | 예   | 예   | 예     | 예     | 예   | 예   | 예    | 예   |
 | [reiser4](https://ko.wikipedia.org/wiki/라이저4 "wikilink")   | 예  | 예   | 예   | 아니오   | 아니오   | 예   | 예   | 예    | 아니오 |
 | [reiserfs](https://ko.wikipedia.org/wiki/라이저FS "wikilink") | 예  | 예   | 예   | 예     | 예     | 예   | 예   | 예    | 예   |

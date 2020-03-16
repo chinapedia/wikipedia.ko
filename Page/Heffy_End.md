@@ -13,11 +13,11 @@
 
 ## 다른 버전
 
-[2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink")에 출연한 [SBS의](https://ko.wikipedia.org/wiki/SBS_TV "wikilink") 최수종쇼를 비롯해 여러 차례 어쿠스틱 버전으로 부른 적이 있다. 또한 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [9월 27일](https://ko.wikipedia.org/wiki/9월_27일 "wikilink"), 서태지 심포니에서도 심포니 버전을 선보인 적이 있다.
+[2004년](../Page/2004년.md "wikilink")에 출연한 [SBS의](../Page/SBS_TV.md "wikilink") 최수종쇼를 비롯해 여러 차례 어쿠스틱 버전으로 부른 적이 있다. 또한 [2008년](../Page/2008년.md "wikilink") [9월 27일](../Page/9월_27일.md "wikilink"), 서태지 심포니에서도 심포니 버전을 선보인 적이 있다.
 
 ## 뮤직비디오
 
-〈Watchout〉을 연출한 문형모 감독이 제작하였고 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 배우 [윤진서](../Page/윤진서.md "wikilink")가 출연했으며, 7집 수록곡 첫 번째 뮤직비디오인 〈[로보트](https://ko.wikipedia.org/wiki/로보트_\(노래\) "wikilink")〉와 연결되는 내용으로, 한 소녀(윤진서)가 한 남자를 너무 사랑한 나머지 그를 감금했다가 결국 파국을 맞는다는 내용이다.\[1\]
+〈Watchout〉을 연출한 문형모 감독이 제작하였고 [대한민국](../Page/대한민국.md "wikilink")의 배우 [윤진서](../Page/윤진서.md "wikilink")가 출연했으며, 7집 수록곡 첫 번째 뮤직비디오인 〈[로보트](https://ko.wikipedia.org/wiki/로보트_\(노래\) "wikilink")〉와 연결되는 내용으로, 한 소녀(윤진서)가 한 남자를 너무 사랑한 나머지 그를 감금했다가 결국 파국을 맞는다는 내용이다.\[1\]
 
   -
 ## 각주
@@ -26,7 +26,7 @@
 
 ## 같이 보기
 
-  - [서태지](https://ko.wikipedia.org/wiki/서태지 "wikilink")
+  - [서태지](../Page/서태지.md "wikilink")
   - [Seotaiji 7th Issue](https://ko.wikipedia.org/wiki/Seotaiji_7th_Issue "wikilink")
 
 [분류:서태지의 노래](https://ko.wikipedia.org/wiki/분류:서태지의_노래 "wikilink") [분류:2004년 노래](https://ko.wikipedia.org/wiki/분류:2004년_노래 "wikilink") [분류:록 노래](https://ko.wikipedia.org/wiki/분류:록_노래 "wikilink")

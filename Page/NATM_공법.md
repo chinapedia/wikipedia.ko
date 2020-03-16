@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [NATM ](https://ko.wikipedia.org/wiki/NATM_).
 
 
-**신오스트리아 터널 공법**(新오스트리아 터널 工法, , )은 줄여서 **NATM 공법**, 혹은 **NÖT 공법**으로 명명된 터널 공법으로 1957년과 1965년 사이에 [오스트리아](https://ko.wikipedia.org/wiki/오스트리아 "wikilink")에서 개발되었다. 이 명칭은 1962년 [잘츠부르크](https://ko.wikipedia.org/wiki/잘츠부르크 "wikilink")에서 재래식 오스트리아 터널 공법과 구별하기 위하여 명명되었다. 이 공법의 주요 개발자들은 [라디즐라우스 폰 랍체비치](https://ko.wikipedia.org/wiki/라디즐라우스_폰_랍체비치 "wikilink"), [레오폴트 뮐러](https://ko.wikipedia.org/wiki/레오폴트_뮐러 "wikilink"), [프란츠 파허다](https://ko.wikipedia.org/wiki/프란츠_파허 "wikilink"). 이 공법의 요점은 주변 지반의 응력을 터널의 주지보로 활용하는 것이다.\[1\]
+**신오스트리아 터널 공법**(新오스트리아 터널 工法, , )은 줄여서 **NATM 공법**, 혹은 **NÖT 공법**으로 명명된 터널 공법으로 1957년과 1965년 사이에 [오스트리아](../Page/오스트리아.md "wikilink")에서 개발되었다. 이 명칭은 1962년 [잘츠부르크](../Page/잘츠부르크.md "wikilink")에서 재래식 오스트리아 터널 공법과 구별하기 위하여 명명되었다. 이 공법의 주요 개발자들은 [라디즐라우스 폰 랍체비치](https://ko.wikipedia.org/wiki/라디즐라우스_폰_랍체비치 "wikilink"), [레오폴트 뮐러](https://ko.wikipedia.org/wiki/레오폴트_뮐러 "wikilink"), [프란츠 파허다](https://ko.wikipedia.org/wiki/프란츠_파허 "wikilink"). 이 공법의 요점은 주변 지반의 응력을 터널의 주지보로 활용하는 것이다.\[1\]
 
 ## 개요
 
-[1956년](https://ko.wikipedia.org/wiki/1956년 "wikilink") [오스트리아](https://ko.wikipedia.org/wiki/오스트리아 "wikilink")에서 개발하였으며, [1962년](https://ko.wikipedia.org/wiki/1962년 "wikilink") 국제암반학회에서 NATM이라 명명하였다.
+[1956년](../Page/1956년.md "wikilink") [오스트리아](../Page/오스트리아.md "wikilink")에서 개발하였으며, [1962년](../Page/1962년.md "wikilink") 국제암반학회에서 NATM이라 명명하였다.
 
-[대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 [1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink") [서울 지하철 4호선](https://ko.wikipedia.org/wiki/서울_지하철_4호선 "wikilink") 퇴계로2가 구간의 시공에 최초로 적용된 이래\[2\] 최근까지 많은 현장에서 적용되고 있다. 각 연구기관 및 전문회사의 지속적인 연구를 통해 기술적, 경제적으로 공법이 잘 적용되어 가고 있다.
+[대한민국](../Page/대한민국.md "wikilink")에서는 [1982년](../Page/1982년.md "wikilink") [서울 지하철 4호선](https://ko.wikipedia.org/wiki/서울_지하철_4호선 "wikilink") 퇴계로2가 구간의 시공에 최초로 적용된 이래\[2\] 최근까지 많은 현장에서 적용되고 있다. 각 연구기관 및 전문회사의 지속적인 연구를 통해 기술적, 경제적으로 공법이 잘 적용되어 가고 있다.
 
 ## 공법의 주요 원리
 

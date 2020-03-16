@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [TV](https://ko.wikipedia.org/wiki/TV).
 
 
-**JEI 재능TV**(상호명: **㈜재능스스로방송**)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 어린이 대상 [케이블 텔레비전](https://ko.wikipedia.org/wiki/케이블_텔레비전 "wikilink") 방송국이다. ㈜재능스스로방송은 [㈜재능교육이](../Page/재능교육.md "wikilink") 지분 100%를 보유하고 있는 계열사이다.
+**JEI 재능TV**(상호명: **㈜재능스스로방송**)는 [대한민국](../Page/대한민국.md "wikilink")의 어린이 대상 [케이블 텔레비전](../Page/케이블_텔레비전.md "wikilink") 방송국이다. ㈜재능스스로방송은 [㈜재능교육이](../Page/재능교육.md "wikilink") 지분 100%를 보유하고 있는 계열사이다.
 
-1995년 3월에 **두산수퍼네트워크**라는 이름으로 방송을 시작하였으며, 개국 당시부터 막대한 적자를 기록하면서 [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") 3월에 [㈜재능교육에서](../Page/재능교육.md "wikilink") 인수하면서 **재능스스로방송**으로 재개국하였다. 2001년 1월, **JEI 스스로방송**으로 채널명을 변경하였고, 2004년 4월에 **English TV** 채널을 인수하였으며 채널명을 **JEI 재능방송**으로 다시 변경하였다. 이후 2007년 10월에 현 채널명인 **JEI 재능TV**으로 변경하였다.
+1995년 3월에 **두산수퍼네트워크**라는 이름으로 방송을 시작하였으며, 개국 당시부터 막대한 적자를 기록하면서 [1998년](../Page/1998년.md "wikilink") 3월에 [㈜재능교육에서](../Page/재능교육.md "wikilink") 인수하면서 **재능스스로방송**으로 재개국하였다. 2001년 1월, **JEI 스스로방송**으로 채널명을 변경하였고, 2004년 4월에 **English TV** 채널을 인수하였으며 채널명을 **JEI 재능방송**으로 다시 변경하였다. 이후 2007년 10월에 현 채널명인 **JEI 재능TV**으로 변경하였다.
 
 주로 어린이 대상 프로그램의 제작 및 수입 등을 진행하고 있다.
 
@@ -37,40 +37,40 @@
 
 ### 로고송
 
-  - 아침에 일어나 꿈나라 뜰때까지 재미있는 교육여행 재능방송 [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") \~ [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [10월 22일](https://ko.wikipedia.org/wiki/10월_22일 "wikilink")
+  - 아침에 일어나 꿈나라 뜰때까지 재미있는 교육여행 재능방송 [2000년](../Page/2000년.md "wikilink") \~ [2007년](../Page/2007년.md "wikilink") [10월 22일](../Page/10월_22일.md "wikilink")
 
 이 로고송은 ID에도 사용되었다.\[1\]
 
 ## 연혁
 
-  - [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [3월 1일](https://ko.wikipedia.org/wiki/3월_1일 "wikilink") - **두산수퍼네트워크**로 개국. (CH 23)
-  - [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") 3월 - 재능교육이 방송사업권을 인수하고 **재능스스로방송(JN23TV)**로 변경.
-  - [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") 10월 - 여의도에서 분당으로 방송국사 이전.
-  - [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") 2월 - 재능문화센터 개관.
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") 1월 - 재능스스로방송(JN23TV)에서 **JEI스스로방송**으로 채널명 변경.
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") 3월 - 방송체험학습장 개관, 웹사이트 개설. (www.jei23tv.com)
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") 12월 - **니켈로디언** 방송 개시.
-  - [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") 3월 - 위성방송 SkyLife 본방송 시작. (CH.658)
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 4월 - *' English TV*' 인수, JEI스스로방송에서 **JEI재능방송**으로 채널명 변경.
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 7월 - 2004 대한민국 교육 브랜드 대상 수상.
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") 7월 - 방송위원회 공익성 방송 분야 채널 선정. (어린이·청소년 부문)
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") 4월 - 채널 공급 분야를 교육에서 어린이로 변경.
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [7월 26일](https://ko.wikipedia.org/wiki/7월_26일 "wikilink") - 재능TV 웹사이트 리뉴얼.
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [8월 28일](https://ko.wikipedia.org/wiki/8월_28일 "wikilink") - 캐치프레이즈 도입.
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") 6월 - 분당에서 가산디지털단지으로 사옥 이전.
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [10월 22일](https://ko.wikipedia.org/wiki/10월_22일 "wikilink") - JEI재능방송에서 **JEI재능TV**로 채널명 변경.
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 1월 - **방송체험학습장 2008** 개관.
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 7월 - 어린이에서 어린이 및 보조적 데이터방송으로 방송분야 변경.
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [7월 12일](https://ko.wikipedia.org/wiki/7월_12일 "wikilink") - 재능TV 웹사이트 리뉴얼.
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") 10월 - HD 콘텐츠 제작시스템 구축.
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [11월 8일](https://ko.wikipedia.org/wiki/11월_8일 "wikilink") - 제이와 콩나무 방송 개시.
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [12월 20일](https://ko.wikipedia.org/wiki/12월_20일 "wikilink") - 재능TV ID 영상 교체.
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") 3월 - 『2011 제 5회 케이블TV 방송대상 - 교육/어린이』 (100년 전 우리는 어떻게 살았을까요) 수상.
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") 7월 - 한국만화영상진흥원과 업무협약 체결.
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 5월 - 『2012 제 6회 케이블TV 방송대상 - 교육/어린이』(송은이의 eye to eye) 수상.
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 9월 - 국내 최초 7개 플랫폼 동시 양방향 생방송 성공 (으랏차차 맘스짱).
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") 4월 - 『2013 방송통신위원회 방송대상 우수상 - 뉴미디어』(미술관 고양이 미야옹) 수상.
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [5월 1일](https://ko.wikipedia.org/wiki/5월_1일 "wikilink") - HD 방송 개시.
+  - [1995년](../Page/1995년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") - **두산수퍼네트워크**로 개국. (CH 23)
+  - [1998년](../Page/1998년.md "wikilink") 3월 - 재능교육이 방송사업권을 인수하고 **재능스스로방송(JN23TV)**로 변경.
+  - [1998년](../Page/1998년.md "wikilink") 10월 - 여의도에서 분당으로 방송국사 이전.
+  - [1999년](../Page/1999년.md "wikilink") 2월 - 재능문화센터 개관.
+  - [2001년](../Page/2001년.md "wikilink") 1월 - 재능스스로방송(JN23TV)에서 **JEI스스로방송**으로 채널명 변경.
+  - [2001년](../Page/2001년.md "wikilink") 3월 - 방송체험학습장 개관, 웹사이트 개설. (www.jei23tv.com)
+  - [2001년](../Page/2001년.md "wikilink") 12월 - **니켈로디언** 방송 개시.
+  - [2002년](../Page/2002년.md "wikilink") 3월 - 위성방송 SkyLife 본방송 시작. (CH.658)
+  - [2004년](../Page/2004년.md "wikilink") 4월 - *' English TV*' 인수, JEI스스로방송에서 **JEI재능방송**으로 채널명 변경.
+  - [2004년](../Page/2004년.md "wikilink") 7월 - 2004 대한민국 교육 브랜드 대상 수상.
+  - [2005년](../Page/2005년.md "wikilink") 7월 - 방송위원회 공익성 방송 분야 채널 선정. (어린이·청소년 부문)
+  - [2006년](../Page/2006년.md "wikilink") 4월 - 채널 공급 분야를 교육에서 어린이로 변경.
+  - [2006년](../Page/2006년.md "wikilink") [7월 26일](../Page/7월_26일.md "wikilink") - 재능TV 웹사이트 리뉴얼.
+  - [2006년](../Page/2006년.md "wikilink") [8월 28일](../Page/8월_28일.md "wikilink") - 캐치프레이즈 도입.
+  - [2007년](../Page/2007년.md "wikilink") 6월 - 분당에서 가산디지털단지으로 사옥 이전.
+  - [2007년](../Page/2007년.md "wikilink") [10월 22일](../Page/10월_22일.md "wikilink") - JEI재능방송에서 **JEI재능TV**로 채널명 변경.
+  - [2008년](../Page/2008년.md "wikilink") 1월 - **방송체험학습장 2008** 개관.
+  - [2008년](../Page/2008년.md "wikilink") 7월 - 어린이에서 어린이 및 보조적 데이터방송으로 방송분야 변경.
+  - [2010년](../Page/2010년.md "wikilink") [7월 12일](../Page/7월_12일.md "wikilink") - 재능TV 웹사이트 리뉴얼.
+  - [2010년](../Page/2010년.md "wikilink") 10월 - HD 콘텐츠 제작시스템 구축.
+  - [2010년](../Page/2010년.md "wikilink") [11월 8일](../Page/11월_8일.md "wikilink") - 제이와 콩나무 방송 개시.
+  - [2010년](../Page/2010년.md "wikilink") [12월 20일](../Page/12월_20일.md "wikilink") - 재능TV ID 영상 교체.
+  - [2011년](../Page/2011년.md "wikilink") 3월 - 『2011 제 5회 케이블TV 방송대상 - 교육/어린이』 (100년 전 우리는 어떻게 살았을까요) 수상.
+  - [2011년](../Page/2011년.md "wikilink") 7월 - 한국만화영상진흥원과 업무협약 체결.
+  - [2012년](../Page/2012년.md "wikilink") 5월 - 『2012 제 6회 케이블TV 방송대상 - 교육/어린이』(송은이의 eye to eye) 수상.
+  - [2012년](../Page/2012년.md "wikilink") 9월 - 국내 최초 7개 플랫폼 동시 양방향 생방송 성공 (으랏차차 맘스짱).
+  - [2013년](../Page/2013년.md "wikilink") 4월 - 『2013 방송통신위원회 방송대상 우수상 - 뉴미디어』(미술관 고양이 미야옹) 수상.
+  - [2014년](../Page/2014년.md "wikilink") [5월 1일](../Page/5월_1일.md "wikilink") - HD 방송 개시.
 
 ## 채널 번호
 
@@ -81,7 +81,7 @@
   - [티브로드](../Page/티브로드.md "wikilink") - 166번
   - [CJ헬로비전](https://ko.wikipedia.org/wiki/CJ헬로비전 "wikilink") - 142번
   - [아름방송](https://ko.wikipedia.org/wiki/아름방송 "wikilink") - 142번
-  - [남인천방송](https://ko.wikipedia.org/wiki/남인천방송 "wikilink") - 147번
+  - [남인천방송](../Page/남인천방송.md "wikilink") - 147번
   - [현대HCN](../Page/현대HCN.md "wikilink") - 302번
   - [푸른방송](https://ko.wikipedia.org/wiki/푸른방송 "wikilink") - 183번
 
@@ -89,11 +89,11 @@
 
 #### 재능TV에서 방영한 프로그램
 
-  - [톰과 제리](https://ko.wikipedia.org/wiki/톰과_제리 "wikilink") (2005년 9월 5일 첫방송)
+  - [톰과 제리](../Page/톰과_제리.md "wikilink") (2005년 9월 5일 첫방송)
   - [으랏차차 짠돌이네](../Page/으랏차차_짠돌이네.md "wikilink") (2007년 6월 25일 \~ 2010년 말, 2011년 7월 18일 \~ 2011년 12월)
       - [으랏차차 짠돌이네](../Page/으랏차차_짠돌이네.md "wikilink") 1기 (2007년 6월 25일 첫방송)
       - [으랏차차 짠돌이네](../Page/으랏차차_짠돌이네.md "wikilink") 2기 (2007년 8월 28일 첫방송)
-  - [베리베리 뮤우뮤우](https://ko.wikipedia.org/wiki/베리베리_뮤우뮤우 "wikilink") (2007년 첫 방송)
+  - [베리베리 뮤우뮤우](../Page/베리베리_뮤우뮤우.md "wikilink") (2007년 첫 방송)
   - [포켓몬스터AG](https://ko.wikipedia.org/wiki/포켓몬스터AG "wikilink") (2008년 9월 8일 \~ 2010년 8월)
       - [포켓몬스터AG](https://ko.wikipedia.org/wiki/포켓몬스터AG "wikilink") 1기 (2008년 9월 8일 첫방송)
       - [포켓몬스터AG](https://ko.wikipedia.org/wiki/포켓몬스터AG "wikilink") 2기 (2009년 12월 7일 첫방송)
@@ -105,11 +105,11 @@
       - [포켓몬스터DP](https://ko.wikipedia.org/wiki/포켓몬스터DP "wikilink") 3기 (2009년 9월 21일 \~ 2009년 11월 18일)
       - [포켓몬스터DP](https://ko.wikipedia.org/wiki/포켓몬스터DP "wikilink") 4기 (2010년 2월 22일 \~ 2010년 4월 28일)
       - [포켓몬스터DP](https://ko.wikipedia.org/wiki/포켓몬스터DP "wikilink") 5기 (2010년 10월 25일 \~ 2011년 1월 4일)
-  - [포켓몬스터 베스트위시](https://ko.wikipedia.org/wiki/포켓몬스터_베스트위시 "wikilink") Part1 (2012년 12월 17일 \~ 2013년 1월 11일)
-      - [포켓몬스터 베스트위시](https://ko.wikipedia.org/wiki/포켓몬스터_베스트위시 "wikilink") Part2 (2013년 1월 14일 \~ 2월 13일)
-      - [포켓몬스터 베스트위시](https://ko.wikipedia.org/wiki/포켓몬스터_베스트위시 "wikilink") 시즌2 (2013년 4월 10일 \~ 5월 16일)
-      - [포켓몬스터 베스트위시](https://ko.wikipedia.org/wiki/포켓몬스터_베스트위시 "wikilink") 시즌2 에피소드N (2013년 5월 22일 \~ 6월 13일)
-      - [포켓몬스터 베스트위시](https://ko.wikipedia.org/wiki/포켓몬스터_베스트위시 "wikilink") 시즌2 데코로라 어드벤처 Da (2013년 10월 9일\~ 2013년 11월 6일)
+  - [포켓몬스터 베스트위시](../Page/포켓몬스터_베스트위시.md "wikilink") Part1 (2012년 12월 17일 \~ 2013년 1월 11일)
+      - [포켓몬스터 베스트위시](../Page/포켓몬스터_베스트위시.md "wikilink") Part2 (2013년 1월 14일 \~ 2월 13일)
+      - [포켓몬스터 베스트위시](../Page/포켓몬스터_베스트위시.md "wikilink") 시즌2 (2013년 4월 10일 \~ 5월 16일)
+      - [포켓몬스터 베스트위시](../Page/포켓몬스터_베스트위시.md "wikilink") 시즌2 에피소드N (2013년 5월 22일 \~ 6월 13일)
+      - [포켓몬스터 베스트위시](../Page/포켓몬스터_베스트위시.md "wikilink") 시즌2 데코로라 어드벤처 Da (2013년 10월 9일\~ 2013년 11월 6일)
   - [포켓몬스터 XY](https://ko.wikipedia.org/wiki/포켓몬스터_XY "wikilink") (2014년 3월 26일 \~ 2014년 5월 15일)
   - [공룡킹 어드벤처](../Page/공룡킹_어드벤처.md "wikilink") (2008년 10월 21일 첫방송)
       - [공룡킹 어드벤처](../Page/공룡킹_어드벤처.md "wikilink") 2기 (2009년 3월 9일 첫방송)
@@ -119,13 +119,13 @@
       - [원피스](https://ko.wikipedia.org/wiki/원피스_\(애니메이션\) "wikilink") 3기 (2010년 2월 1일 첫방송)
       - [원피스](https://ko.wikipedia.org/wiki/원피스_\(애니메이션\) "wikilink") 4기 (2010년 5월 10일 첫방송)
       - [원피스](https://ko.wikipedia.org/wiki/원피스_\(애니메이션\) "wikilink") 5기 (2010년 7월 19일 첫방송)
-  - [썬더일레븐](https://ko.wikipedia.org/wiki/썬더일레븐 "wikilink") (2009년 10월 5일 \~ 현재)
-      - [썬더일레븐](https://ko.wikipedia.org/wiki/썬더일레븐 "wikilink") 1기 (2009년 10월 5일 \~)
-      - [썬더일레븐](https://ko.wikipedia.org/wiki/썬더일레븐 "wikilink") 2기 (2010년 2월 22일 \~)
-      - [썬더일레븐](https://ko.wikipedia.org/wiki/썬더일레븐 "wikilink") 2.5기 (2010년 5월 10일 \~)
-      - [썬더일레븐](https://ko.wikipedia.org/wiki/썬더일레븐 "wikilink") 3기 다이제스트 (2010년 10월 4일 \~)
-      - [썬더일레븐](https://ko.wikipedia.org/wiki/썬더일레븐 "wikilink") 3기 뉴에피소드 (2011년 2월 7일 \~)
-      - [썬더일레븐](https://ko.wikipedia.org/wiki/썬더일레븐 "wikilink") 4기 (2011년 7월 18일 \~)
+  - [썬더일레븐](../Page/썬더일레븐.md "wikilink") (2009년 10월 5일 \~ 현재)
+      - [썬더일레븐](../Page/썬더일레븐.md "wikilink") 1기 (2009년 10월 5일 \~)
+      - [썬더일레븐](../Page/썬더일레븐.md "wikilink") 2기 (2010년 2월 22일 \~)
+      - [썬더일레븐](../Page/썬더일레븐.md "wikilink") 2.5기 (2010년 5월 10일 \~)
+      - [썬더일레븐](../Page/썬더일레븐.md "wikilink") 3기 다이제스트 (2010년 10월 4일 \~)
+      - [썬더일레븐](../Page/썬더일레븐.md "wikilink") 3기 뉴에피소드 (2011년 2월 7일 \~)
+      - [썬더일레븐](../Page/썬더일레븐.md "wikilink") 4기 (2011년 7월 18일 \~)
       - [썬더일레븐 GO](../Page/썬더일레븐_GO.md "wikilink") (2012년 2월 13일 \~ )
       - [썬더일레븐 GO](../Page/썬더일레븐_GO.md "wikilink") 크로노스톤 (2013년 3월 18일 \~)
       - [썬더일레븐 GO](../Page/썬더일레븐_GO.md "wikilink") 갤럭시 (2014년 1월 13일 \~)
@@ -146,8 +146,8 @@
   - 베리와 아카메 (Ichigo Momomiya and Akame - Primeval Havoc 2) (2017년 첫방송)
   - [아기와 나](https://ko.wikipedia.org/wiki/아기와_나 "wikilink")
   - [블레이징 틴스](https://ko.wikipedia.org/wiki/블레이징_틴스 "wikilink")
-  - [꾸러기 수비대](https://ko.wikipedia.org/wiki/꾸러기_수비대 "wikilink")
-  - [구슬대전 배틀비드맨](https://ko.wikipedia.org/wiki/구슬대전_배틀비드맨 "wikilink")
+  - [꾸러기 수비대](../Page/꾸러기_수비대.md "wikilink")
+  - [구슬대전 배틀비드맨](../Page/구슬대전_배틀비드맨.md "wikilink")
   - [고미의 만화 호기심 천국](https://ko.wikipedia.org/wiki/고미의_만화_호기심_천국 "wikilink")
   - [합체용사 플러스터](https://ko.wikipedia.org/wiki/합체용사_플러스터 "wikilink")
   - [변신자동차 또봇](../Page/변신자동차_또봇.md "wikilink")
@@ -161,13 +161,13 @@
   - [헬로 카봇](../Page/헬로_카봇.md "wikilink")
   - [터닝메카드](../Page/터닝메카드.md "wikilink")
   - [터닝메카드 W](../Page/터닝메카드_W.md "wikilink")
-  - [마법천자문](https://ko.wikipedia.org/wiki/마법천자문 "wikilink")
+  - [마법천자문](../Page/마법천자문.md "wikilink")
   - [코코몽](https://ko.wikipedia.org/wiki/코코몽 "wikilink")
   - [출동 케이캅](../Page/출동_케이캅.md "wikilink")
   - [데블파이터](../Page/데블파이터.md "wikilink")
   - [탑블레이드](https://ko.wikipedia.org/wiki/탑블레이드 "wikilink")
   - [포트리스](../Page/포트리스_\(애니메이션\).md "wikilink")
-  - [패트와 매트](https://ko.wikipedia.org/wiki/패트와_매트 "wikilink")
+  - [패트와 매트](../Page/패트와_매트.md "wikilink")
   - [미피와 친구들](https://ko.wikipedia.org/wiki/미피와_친구들 "wikilink")
   - [세사미 스트리트](../Page/세서미_스트리트.md "wikilink")
   - [놀이코 코코](https://ko.wikipedia.org/wiki/놀이코_코코 "wikilink")
@@ -205,15 +205,15 @@
   - [울트라맨 지드](https://ko.wikipedia.org/wiki/울트라맨_지드 "wikilink")
   - [해피니스 프리큐어](../Page/해피니스_차지_프리큐어!.md "wikilink")
   - [에그엔젤 코코밍](https://ko.wikipedia.org/wiki/에그엔젤_코코밍 "wikilink")
-  - [마기](https://ko.wikipedia.org/wiki/마기 "wikilink") (2018년 더빙판 8월 예정)
+  - [마기](../Page/마기.md "wikilink") (2018년 더빙판 8월 예정)
   - [케모노 프렌즈](https://ko.wikipedia.org/wiki/케모노_프렌즈 "wikilink") (2018년 더빙판 8월 예정)
   - [칙칙폭폭 토마스 기관차](../Page/토마스와_친구들.md "wikilink")
-  - [뽀롱뽀롱 뽀로로](https://ko.wikipedia.org/wiki/뽀롱뽀롱_뽀로로 "wikilink")
+  - [뽀롱뽀롱 뽀로로](../Page/뽀롱뽀롱_뽀로로.md "wikilink")
   - [플라워링 하트](../Page/플라워링_하트.md "wikilink")
   - [선물공룡 디보](https://ko.wikipedia.org/wiki/선물공룡_디보 "wikilink")
   - [꾸러기 상상여행](https://ko.wikipedia.org/wiki/꾸러기_상상여행 "wikilink")
   - [바니와 친구들](https://ko.wikipedia.org/wiki/바니와_친구들 "wikilink")
-  - [내 친구 펭귄 핑구](https://ko.wikipedia.org/wiki/핑구 "wikilink")
+  - [내 친구 펭귄 핑구](../Page/핑구.md "wikilink")
   - [안녕\! 오스월드](../Page/안녕!_오스월드.md "wikilink")
   - [쫑알쫑알 진저](https://ko.wikipedia.org/wiki/쫑알쫑알_진저 "wikilink")
   - [환경전사 젠타포스](https://ko.wikipedia.org/wiki/환경전사_젠타포스 "wikilink")
@@ -228,21 +228,21 @@
   - [마음의 소리](https://ko.wikipedia.org/wiki/마음의_소리 "wikilink")
   - [막이래쇼](../Page/막이래쇼.md "wikilink")
   - [가면라이더 이그제이드](https://ko.wikipedia.org/wiki/가면라이더_에그제이드 "wikilink")
-  - [마다가스카의 펭귄](https://ko.wikipedia.org/wiki/마다가스카의_펭귄 "wikilink")
+  - [마다가스카의 펭귄](../Page/마다가스카의_펭귄.md "wikilink")
   - [쿵푸팬더 마스터](https://ko.wikipedia.org/wiki/쿵푸팬더 "wikilink"):전설의
 
 (작품 방영시기 오름차순)
 
 ## 포켓몬스터 방영 문제
 
-재능TV는 2008년 9월부터 포켓몬코리아와 계약을 맺어 포켓몬스터 AG와 DP를 방영하였다.(\~2011년 1월 5일) 하지만, 5기 오프닝과 엔딩에서 4:3 레터박스를 사용하지 않은 점과 "Pokemon"을 "Pocketmon"으로 표기한 데 있어 시청자의 심한 항의를 받았다. 결국 포켓몬코리아는 재능TV와 계약을 갑자기 파기해서 [투니버스](https://ko.wikipedia.org/wiki/투니버스 "wikilink")와 계약을 맺었으며, 결국 재능TV는 2011년 4월부터 방영 예정 이었던 [포켓몬스터 베스트위시와](https://ko.wikipedia.org/wiki/포켓몬스터_베스트위시 "wikilink") 같은해 6월 방영예정이었던 13기 극장판인 환영의 패자 조르아크의 방영이 무산되었다. 이후 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [12월 17일부터](https://ko.wikipedia.org/wiki/12월_17일 "wikilink") 포켓몬스터 베스트위시를 방송했다. 현재는 [포켓몬스터 XY라는](https://ko.wikipedia.org/wiki/포켓몬스터_XY "wikilink") 새로운 프로그램이 방영되어 지금에 이르고 있다.
+재능TV는 2008년 9월부터 포켓몬코리아와 계약을 맺어 포켓몬스터 AG와 DP를 방영하였다.(\~2011년 1월 5일) 하지만, 5기 오프닝과 엔딩에서 4:3 레터박스를 사용하지 않은 점과 "Pokemon"을 "Pocketmon"으로 표기한 데 있어 시청자의 심한 항의를 받았다. 결국 포켓몬코리아는 재능TV와 계약을 갑자기 파기해서 [투니버스](../Page/투니버스.md "wikilink")와 계약을 맺었으며, 결국 재능TV는 2011년 4월부터 방영 예정 이었던 [포켓몬스터 베스트위시와](../Page/포켓몬스터_베스트위시.md "wikilink") 같은해 6월 방영예정이었던 13기 극장판인 환영의 패자 조르아크의 방영이 무산되었다. 이후 [2012년](../Page/2012년.md "wikilink") [12월 17일부터](../Page/12월_17일.md "wikilink") 포켓몬스터 베스트위시를 방송했다. 현재는 [포켓몬스터 XY라는](https://ko.wikipedia.org/wiki/포켓몬스터_XY "wikilink") 새로운 프로그램이 방영되어 지금에 이르고 있다.
 
 ## 같이 보기
 
   - [JEI English TV](https://ko.wikipedia.org/wiki/JEI_English_TV "wikilink")
   - [재능교육](../Page/재능교육.md "wikilink")
-  - [투니버스](https://ko.wikipedia.org/wiki/투니버스 "wikilink")
-  - [챔프TV](https://ko.wikipedia.org/wiki/챔프TV "wikilink")
+  - [투니버스](../Page/투니버스.md "wikilink")
+  - [챔프TV](../Page/챔프TV.md "wikilink")
   - [카툰네트워크](https://ko.wikipedia.org/wiki/카툰네트워크 "wikilink")
 
 ## 각주

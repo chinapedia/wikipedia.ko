@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DJMAX Trilogy](https://ko.wikipedia.org/wiki/DJMAX_Trilogy).
 
 
-**디제이맥스 트릴로지**(DJMAX Trilogy, DM TR)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 게임 개발사인 [펜타비전](../Page/펜타비전.md "wikilink")에서 개발한 PC용 [음악 게임이다](https://ko.wikipedia.org/wiki/음악_게임 "wikilink"). 디제이맥스 시리즈의 시작인 [온라인 게임](https://ko.wikipedia.org/wiki/온라인_게임 "wikilink") [디제이맥스](https://ko.wikipedia.org/wiki/디제이맥스 "wikilink")의 서비스 종료 후 그 계보를 잇는 작품이다. 프로필 키로 동작하는 USB 메모리가 제공되며, 이것이 있어야만 게임을 실행할 수 있다.
+**디제이맥스 트릴로지**(DJMAX Trilogy, DM TR)는 [대한민국](../Page/대한민국.md "wikilink")의 게임 개발사인 [펜타비전](../Page/펜타비전.md "wikilink")에서 개발한 PC용 [음악 게임이다](https://ko.wikipedia.org/wiki/음악_게임 "wikilink"). 디제이맥스 시리즈의 시작인 [온라인 게임](../Page/온라인_게임.md "wikilink") [디제이맥스](../Page/디제이맥스.md "wikilink")의 서비스 종료 후 그 계보를 잇는 작품이다. 프로필 키로 동작하는 USB 메모리가 제공되며, 이것이 있어야만 게임을 실행할 수 있다.
 
 ## 개요
 

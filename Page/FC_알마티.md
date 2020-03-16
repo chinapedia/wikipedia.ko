@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
 
 
-**FC 알마티**()는 [카자흐스탄](https://ko.wikipedia.org/wiki/카자흐스탄 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로, 카자흐스탄의 옛 [수도](https://ko.wikipedia.org/wiki/수도 "wikilink")이자 가장 큰 도시인 [알마티](https://ko.wikipedia.org/wiki/알마티 "wikilink")를 연고로 하여, [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink")에 창단되었다. 현재 [카자흐스탄 프리미어리그에서](../Page/카자흐스탄_프리미어리그.md "wikilink") 활동하고 있다.
+**FC 알마티**()는 [카자흐스탄](../Page/카자흐스탄.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 카자흐스탄의 옛 [수도](../Page/수도.md "wikilink")이자 가장 큰 도시인 [알마티](../Page/알마티.md "wikilink")를 연고로 하여, [2000년](../Page/2000년.md "wikilink")에 창단되었다. 현재 [카자흐스탄 프리미어리그에서](../Page/카자흐스탄_프리미어리그.md "wikilink") 활동하고 있다.
 
-알마티는 처음에 **FC 체스나**(FC Tcesna)로 창단되었다. [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink")에 현재의 이름으로 바뀌었다. [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")에는 클럽 역사상 처음으로 [카자흐스탄컵](https://ko.wikipedia.org/wiki/카자흐스탄컵 "wikilink")에서 우승하였다. 리그에서의 최고 성적은 2006 시즌의 5위이다. 알마티와 [FC 메가스포트는](https://ko.wikipedia.org/wiki/FC_메가스포트 "wikilink") 합병을 발표하고 새 팀의 연고지는 [아스타나](https://ko.wikipedia.org/wiki/아스타나 "wikilink")로 이전하고 명칭은 [FC 로코모티브 아스타나로](https://ko.wikipedia.org/wiki/FC_로코모티브_아스타나 "wikilink") 결정하였다.\[1\] 새롭게 만들어진 로코모티브 팀은 알마티의 2008년의 카자흐스탄컵 준우승 팀 자격을 이어받아 [UEFA 유로파리그 2009-10에](https://ko.wikipedia.org/wiki/UEFA_유로파리그_2009-10 "wikilink") 나가게 되었으나 UEFA 라이센스가 없어 나가지 못했다.\[2\]
+알마티는 처음에 **FC 체스나**(FC Tcesna)로 창단되었다. [2004년](../Page/2004년.md "wikilink")에 현재의 이름으로 바뀌었다. [2006년](../Page/2006년.md "wikilink")에는 클럽 역사상 처음으로 [카자흐스탄컵](https://ko.wikipedia.org/wiki/카자흐스탄컵 "wikilink")에서 우승하였다. 리그에서의 최고 성적은 2006 시즌의 5위이다. 알마티와 [FC 메가스포트는](https://ko.wikipedia.org/wiki/FC_메가스포트 "wikilink") 합병을 발표하고 새 팀의 연고지는 [아스타나](https://ko.wikipedia.org/wiki/아스타나 "wikilink")로 이전하고 명칭은 [FC 로코모티브 아스타나로](https://ko.wikipedia.org/wiki/FC_로코모티브_아스타나 "wikilink") 결정하였다.\[1\] 새롭게 만들어진 로코모티브 팀은 알마티의 2008년의 카자흐스탄컵 준우승 팀 자격을 이어받아 [UEFA 유로파리그 2009-10에](https://ko.wikipedia.org/wiki/UEFA_유로파리그_2009-10 "wikilink") 나가게 되었으나 UEFA 라이센스가 없어 나가지 못했다.\[2\]
 
 ## 클럽 역사
 
-  - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") : FC 체스나 (Tcesna)로 창단
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") : FC 알마티 (Almaty)로 변경
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") : [FC 메가스포트와](https://ko.wikipedia.org/wiki/FC_메가스포트 "wikilink") 합병하여 [FC 로코모티브 아스타나로](https://ko.wikipedia.org/wiki/FC_로코모티브_아스타나 "wikilink") 재창단됨.
+  - [2000년](../Page/2000년.md "wikilink") : FC 체스나 (Tcesna)로 창단
+  - [2004년](../Page/2004년.md "wikilink") : FC 알마티 (Almaty)로 변경
+  - [2009년](../Page/2009년.md "wikilink") : [FC 메가스포트와](https://ko.wikipedia.org/wiki/FC_메가스포트 "wikilink") 합병하여 [FC 로코모티브 아스타나로](https://ko.wikipedia.org/wiki/FC_로코모티브_아스타나 "wikilink") 재창단됨.
 
 ## 역대 우승기록
 

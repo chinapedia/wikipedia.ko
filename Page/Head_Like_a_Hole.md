@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Head Like a Hole](https://ko.wikipedia.org/wiki/Head_Like_a_Hole).
 
 
-《**Head Like a Hole**》(halo 3으로 불리기도 한다)은 앨범 《[Pretty Hate Machine](https://ko.wikipedia.org/wiki/Pretty_Hate_Machine "wikilink")》에도 수록된 [나인 인치 네일스의](../Page/나인_인치_네일스.md "wikilink") 두 번째 싱글 음반이다.
+《**Head Like a Hole**》(halo 3으로 불리기도 한다)은 앨범 《[Pretty Hate Machine](../Page/Pretty_Hate_Machine.md "wikilink")》에도 수록된 [나인 인치 네일스의](../Page/나인_인치_네일스.md "wikilink") 두 번째 싱글 음반이다.
 
 ## 수록곡
 
-*Head Like a Hole*은 공식적으로 발매된 세 번째 [나인 인치 네일스앨범이며](../Page/나인_인치_네일스.md "wikilink") 《[Pretty Hate Machine](https://ko.wikipedia.org/wiki/Pretty_Hate_Machine "wikilink")》의 여러 음악들의 리믹스 버전이 수록되어있다. 또한 이 싱글은 "Pretty Hate Machine"보다 재생시간이 길다. 이 싱글에서 세 곡을 추려내어 영국에서 발매되기도 하였다. 영국반에는 미국반엔 수록되어있지 않는 리믹스인 "Head Like a Hole (Opal)"이 수록되어있다. "Head Like a Hole (Copper)"는 영국밴드 [퀸](https://ko.wikipedia.org/wiki/퀸 "wikilink")의 "Body Language"의 드럼비트를 샘플링하여 사용하였고 "Down in It (Shred)"과 "Down in It (Singe)"는 이미《[Down in It](https://ko.wikipedia.org/wiki/Down_in_It "wikilink")》싱글에서 릴리즈되었던 곡이지만 "Down in It (Singe)"는 러닝타임이 18초만큼 늘어나있다. 또한 리스트에 존재하지 않는 열한번째 트랙은 [Kelly Ripa가](https://ko.wikipedia.org/wiki/Kelly_Ripa "wikilink") "Let's hear it for Nine Inch Nails\! Woo\! They're good\!"라고 소리치는 트랙이며 "Dance Party USA"라는 제목으로《[Closure](https://ko.wikipedia.org/wiki/Closure "wikilink")》DVD에서 볼 수 있다. 최근에는 11개의 미국반 트랙들이 리패키지되어 재발매되었다. 이 버전은 영국에도 마침내 출시되었다.
+*Head Like a Hole*은 공식적으로 발매된 세 번째 [나인 인치 네일스앨범이며](../Page/나인_인치_네일스.md "wikilink") 《[Pretty Hate Machine](../Page/Pretty_Hate_Machine.md "wikilink")》의 여러 음악들의 리믹스 버전이 수록되어있다. 또한 이 싱글은 "Pretty Hate Machine"보다 재생시간이 길다. 이 싱글에서 세 곡을 추려내어 영국에서 발매되기도 하였다. 영국반에는 미국반엔 수록되어있지 않는 리믹스인 "Head Like a Hole (Opal)"이 수록되어있다. "Head Like a Hole (Copper)"는 영국밴드 [퀸](https://ko.wikipedia.org/wiki/퀸 "wikilink")의 "Body Language"의 드럼비트를 샘플링하여 사용하였고 "Down in It (Shred)"과 "Down in It (Singe)"는 이미《[Down in It](https://ko.wikipedia.org/wiki/Down_in_It "wikilink")》싱글에서 릴리즈되었던 곡이지만 "Down in It (Singe)"는 러닝타임이 18초만큼 늘어나있다. 또한 리스트에 존재하지 않는 열한번째 트랙은 [Kelly Ripa가](https://ko.wikipedia.org/wiki/Kelly_Ripa "wikilink") "Let's hear it for Nine Inch Nails\! Woo\! They're good\!"라고 소리치는 트랙이며 "Dance Party USA"라는 제목으로《[Closure](https://ko.wikipedia.org/wiki/Closure "wikilink")》DVD에서 볼 수 있다. 최근에는 11개의 미국반 트랙들이 리패키지되어 재발매되었다. 이 버전은 영국에도 마침내 출시되었다.
 
 #### 미국반
 

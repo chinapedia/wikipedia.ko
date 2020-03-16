@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Chmod](https://ko.wikipedia.org/wiki/Chmod).
 
 
-**`chmod`**(**ch**ange **mode**의 축약어)명령어는 [유닉스](https://ko.wikipedia.org/wiki/유닉스 "wikilink")와 [유닉스 계통](https://ko.wikipedia.org/wiki/유닉스_계통 "wikilink") 환경 안에서 쓰이는 [셸](../Page/유닉스_셸.md "wikilink") 명령어이다. 이 명령어는 [파일들이나](https://ko.wikipedia.org/wiki/컴퓨터_파일 "wikilink") [디렉터리](https://ko.wikipedia.org/wiki/디렉터리 "wikilink")의 파일 시스템 모드들을 바꾼다. 그 모드들은 [허가](../Page/허가.md "wikilink")나 특별한 모드들을 포함한다.
+**`chmod`**(**ch**ange **mode**의 축약어)명령어는 [유닉스](../Page/유닉스.md "wikilink")와 [유닉스 계통](https://ko.wikipedia.org/wiki/유닉스_계통 "wikilink") 환경 안에서 쓰이는 [셸](../Page/유닉스_셸.md "wikilink") 명령어이다. 이 명령어는 [파일들이나](../Page/컴퓨터_파일.md "wikilink") [디렉터리](https://ko.wikipedia.org/wiki/디렉터리 "wikilink")의 파일 시스템 모드들을 바꾼다. 그 모드들은 [허가](../Page/허가.md "wikilink")나 특별한 모드들을 포함한다.
 
 ## 역사
 
-`chmod` 명령어는 [AT\&T](https://ko.wikipedia.org/wiki/AT&T "wikilink") [유닉스](https://ko.wikipedia.org/wiki/유닉스 "wikilink") 버전 1에서 최초로 등장했고, 오늘날에도 여전히 유닉스 계통의 기계에서 사용된다.
+`chmod` 명령어는 [AT\&T](../Page/AT&T.md "wikilink") [유닉스](../Page/유닉스.md "wikilink") 버전 1에서 최초로 등장했고, 오늘날에도 여전히 유닉스 계통의 기계에서 사용된다.
 
 ## 사용법
 
@@ -174,7 +174,7 @@
 
   -
 
-  - [`chmod`](http://www.gnu.org/software/coreutils/manual/html_node/chmod-invocation.html) — [GNU](https://ko.wikipedia.org/wiki/GNU "wikilink") [coreutils](https://ko.wikipedia.org/wiki/coreutils "wikilink")로부터의 매뉴얼 페이지.
+  - [`chmod`](http://www.gnu.org/software/coreutils/manual/html_node/chmod-invocation.html) — [GNU](../Page/GNU.md "wikilink") [coreutils](https://ko.wikipedia.org/wiki/coreutils "wikilink")로부터의 매뉴얼 페이지.
 
   - [GNU "Setting Permissions" manual](http://www.gnu.org/software/coreutils/manual/html_node/Setting-Permissions.html)
 

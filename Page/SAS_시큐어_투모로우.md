@@ -5,7 +5,7 @@
 
 ## 줄거리
 
-[영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 한 [교도소](../Page/교도소.md "wikilink")에서 Zaryan과 Chevall이라는 두 테러리스트가 탈옥하여 도주하자 이들을 제거하기 위해 [SAS](https://ko.wikipedia.org/wiki/SAS_\(영국_특수부대\) "wikilink") 대원들이 그들과 그 일당을 추격해 섬멸한다는 내용을 담고 있다. 주인공은 분대원으로써 교도소와 [런던](https://ko.wikipedia.org/wiki/런던 "wikilink") 시내의 상가 빌딩, [그린란드](https://ko.wikipedia.org/wiki/그린란드 "wikilink") 등을 누비며 적과 맞서 싸우게 된다.
+[영국](../Page/영국.md "wikilink")의 한 [교도소](../Page/교도소.md "wikilink")에서 Zaryan과 Chevall이라는 두 테러리스트가 탈옥하여 도주하자 이들을 제거하기 위해 [SAS](https://ko.wikipedia.org/wiki/SAS_\(영국_특수부대\) "wikilink") 대원들이 그들과 그 일당을 추격해 섬멸한다는 내용을 담고 있다. 주인공은 분대원으로써 교도소와 [런던](../Page/런던.md "wikilink") 시내의 상가 빌딩, [그린란드](../Page/그린란드.md "wikilink") 등을 누비며 적과 맞서 싸우게 된다.
 
 ## 특징
 
@@ -20,7 +20,7 @@
 
 ### 아군 총기
 
-  - 자동 소총 : [M4 SOPMOD](https://ko.wikipedia.org/wiki/M4_카빈 "wikilink"), [H\&K G36C](https://ko.wikipedia.org/wiki/헤클러&코흐_G36 "wikilink")
+  - 자동 소총 : [M4 SOPMOD](../Page/M4_카빈.md "wikilink"), [H\&K G36C](https://ko.wikipedia.org/wiki/헤클러&코흐_G36 "wikilink")
   - 저격 소총 : [L96A1](../Page/아크틱_워페어.md "wikilink"),
   - 기관단총 : [H\&K MP5 / MP5SD](https://ko.wikipedia.org/wiki/헤클러&코흐_MP5 "wikilink")
   - 산탄총 : [모스버그 500](../Page/모스버그_500.md "wikilink")
@@ -28,7 +28,7 @@
 
 ### 적군 총기
 
-  - 자동 소총 : [AKS-74U](https://ko.wikipedia.org/wiki/AK-74 "wikilink"), [FN FAL](https://ko.wikipedia.org/wiki/FN_FAL "wikilink")
+  - 자동 소총 : [AKS-74U](../Page/AK-74.md "wikilink"), [FN FAL](../Page/FN_FAL.md "wikilink")
   - 기관단총 : [PP-19 Bizon](https://ko.wikipedia.org/wiki/PP-19_Bizon "wikilink")
 
 \-위 총기는 사살한 적군의 것을 탈취하여 사용할 수 있다.

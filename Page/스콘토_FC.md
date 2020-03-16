@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
 
 
-**스콘토 FC**(Skonto FC)는 [라트비아](https://ko.wikipedia.org/wiki/라트비아 "wikilink") [리가](https://ko.wikipedia.org/wiki/리가 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로, [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink")에 창단했다. 스콘토는 [라트비아 비르스리가의](https://ko.wikipedia.org/wiki/라트비아_비르스리가 "wikilink") 첫 시즌인 [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink")부터 [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink")까지 14시즌 연속 우승이라는 대기록을 세웠으며 비르스리가에서 15번, 컵 대회에서 7번 우승하였다.
+**스콘토 FC**(Skonto FC)는 [라트비아](../Page/라트비아.md "wikilink") [리가](../Page/리가.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, [1991년](../Page/1991년.md "wikilink")에 창단했다. 스콘토는 [라트비아 비르스리가의](https://ko.wikipedia.org/wiki/라트비아_비르스리가 "wikilink") 첫 시즌인 [1991년](../Page/1991년.md "wikilink")부터 [2005년](../Page/2005년.md "wikilink")까지 14시즌 연속 우승이라는 대기록을 세웠으며 비르스리가에서 15번, 컵 대회에서 7번 우승하였다.
 
 ## 역대 우승 기록
 
@@ -75,7 +75,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/UEFA컵_1995-96" title="wikilink">1995-96</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/UEFA컵" title="wikilink">UEFA컵</a></p></td>
 <td><p>예선전</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/NK_마리보르" title="wikilink">마리보르</a></p></td>
+<td><p><a href="../Page/NK_마리보르.md" title="wikilink">마리보르</a></p></td>
 <td><p><strong>1-0</strong></p></td>
 <td><p>0-2</p></td>
 </tr>

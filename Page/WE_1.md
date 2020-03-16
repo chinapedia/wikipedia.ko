@@ -1,12 +1,12 @@
 > This article is converted from Wikipedia: [WE 1](https://ko.wikipedia.org/wiki/WE_1).
 
 
-**WE 1**은 [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [11월 1일](https://ko.wikipedia.org/wiki/11월_1일 "wikilink") 발매되었으며, [투니버스](https://ko.wikipedia.org/wiki/투니버스 "wikilink")가 발매한 최초의 앨범이다. [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink") 공식적으로 절판되었다.
+**WE 1**은 [2001년](../Page/2001년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") 발매되었으며, [투니버스](../Page/투니버스.md "wikilink")가 발매한 최초의 앨범이다. [2009년](../Page/2009년.md "wikilink") [4월](../Page/4월.md "wikilink") 공식적으로 절판되었다.
 
 ## 수록곡
 
 1.  푸른 꿈을 함께
-      - [신비한 바다의 나디아](https://ko.wikipedia.org/wiki/신비한_바다의_나디아 "wikilink") 여는 노래 (Remake)
+      - [신비한 바다의 나디아](../Page/신비한_바다의_나디아.md "wikilink") 여는 노래 (Remake)
       - 작사 : 이창희, 신동식
       - 작곡, 편곡 : 이창희
       - 노래 : 이창희/ 이창희
@@ -44,7 +44,7 @@
       - 엔지니어 : 박찬민
       - 녹음 : CORE Studio
 6.  사랑하는 사람을 위하여
-      - [환상게임](https://ko.wikipedia.org/wiki/환상게임 "wikilink") 여는 노래 (Remake)
+      - [환상게임](../Page/환상게임.md "wikilink") 여는 노래 (Remake)
       - 개사 : 신동식, 이창희 외
       - 작곡, 편곡 : 이창희
       - 노래 : 김현아
@@ -108,7 +108,7 @@
 
 ## 앨범에 관하여
 
-[1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") 초 기획되었으나, [IMF의](https://ko.wikipedia.org/wiki/IMF_구제금융_요청 "wikilink") 여파로 인한 음반시장 축소로 인해 결국 [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [11월 2일](https://ko.wikipedia.org/wiki/11월_2일 "wikilink") 발매되었다. 이 앨범의 특징은 기존 한국에서 발매되던 애니메이션 주제가 OST와는 다르게 아동을 대상으로 하지 않았다. 기획과 발매가 상당한 차이를 보이는 관계로 일부 곡은 방송용 1분 30초 가량의 짧은 노래가 수록되었는데, 그 노래는 다음과 같다.
+[1998년](../Page/1998년.md "wikilink") 초 기획되었으나, [IMF의](https://ko.wikipedia.org/wiki/IMF_구제금융_요청 "wikilink") 여파로 인한 음반시장 축소로 인해 결국 [2001년](../Page/2001년.md "wikilink") [11월 2일](../Page/11월_2일.md "wikilink") 발매되었다. 이 앨범의 특징은 기존 한국에서 발매되던 애니메이션 주제가 OST와는 다르게 아동을 대상으로 하지 않았다. 기획과 발매가 상당한 차이를 보이는 관계로 일부 곡은 방송용 1분 30초 가량의 짧은 노래가 수록되었는데, 그 노래는 다음과 같다.
 
   - Loving you 시간을 넘어서
   - 도시의 꿈

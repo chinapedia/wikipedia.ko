@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ SG-1](https://ko.wikipedia.org/wiki/_SG-1).
 
 
-**스타게이트 SG-1**(Stargate SG-1)은 [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") SF 영화 [스타게이트](https://ko.wikipedia.org/wiki/스타게이트 "wikilink")의 스토리에 이어서 제작된 드라마로 [스타게이트라](https://ko.wikipedia.org/wiki/스타게이트_\(장치\) "wikilink") 불리는 문을 이용하여 행성간을 이동하며 모험을 하는 내용이다. SG-1은 스타게이트를 통해 탐사를 수행하는 팀들 중 첫 번째라는 뜻으로, 드라마의 주연들이 소속된 팀이다. [맥가이버](https://ko.wikipedia.org/wiki/맥가이버 "wikilink")의 주인공인 [리처드 딘 앤더슨이](https://ko.wikipedia.org/wiki/리처드_딘_앤더슨 "wikilink") 미국 공군의 *잭 오닐* 대령으로서, SG-1을 이끈다. 이후 *잭 오닐*은 시즌 8에서 [준장](https://ko.wikipedia.org/wiki/준장 "wikilink")으로 승진한다. 총 10개의 시즌으로 구성되며, 시즌당 20여편으로 구성된다.
+**스타게이트 SG-1**(Stargate SG-1)은 [1994년](../Page/1994년.md "wikilink") SF 영화 [스타게이트](https://ko.wikipedia.org/wiki/스타게이트 "wikilink")의 스토리에 이어서 제작된 드라마로 [스타게이트라](../Page/스타게이트_\(장치\).md "wikilink") 불리는 문을 이용하여 행성간을 이동하며 모험을 하는 내용이다. SG-1은 스타게이트를 통해 탐사를 수행하는 팀들 중 첫 번째라는 뜻으로, 드라마의 주연들이 소속된 팀이다. [맥가이버](../Page/맥가이버.md "wikilink")의 주인공인 [리처드 딘 앤더슨이](../Page/리처드_딘_앤더슨.md "wikilink") 미국 공군의 *잭 오닐* 대령으로서, SG-1을 이끈다. 이후 *잭 오닐*은 시즌 8에서 [준장](https://ko.wikipedia.org/wiki/준장 "wikilink")으로 승진한다. 총 10개의 시즌으로 구성되며, 시즌당 20여편으로 구성된다.
 
 ## 등장 인물
 
@@ -10,7 +10,7 @@
 <!-- end list -->
 
   - 조지 해먼드 - [돈 데이비스](https://ko.wikipedia.org/wiki/돈_데이비스 "wikilink") 분
-  - 조나단 잭 오닐 - [리처드 딘 앤더슨](https://ko.wikipedia.org/wiki/리처드_딘_앤더슨 "wikilink") 분
+  - 조나단 잭 오닐 - [리처드 딘 앤더슨](../Page/리처드_딘_앤더슨.md "wikilink") 분
   - 다니엘 잭슨 - [마이클 생크스](https://ko.wikipedia.org/wiki/마이클_생크스 "wikilink") 분
   - 사맨다 카터 - [어맨다 태핑](https://ko.wikipedia.org/wiki/어맨다_태핑 "wikilink") 분
   - 틸크\[Teal'c\] - [크리스토퍼 저지](https://ko.wikipedia.org/wiki/크리스토퍼_저지 "wikilink") 분
@@ -45,7 +45,7 @@
 
   - [스타게이트](https://ko.wikipedia.org/wiki/스타게이트 "wikilink")
   - [스타게이트 아틀란티스](https://ko.wikipedia.org/wiki/스타게이트_아틀란티스 "wikilink")
-  - [샤이엔 산](https://ko.wikipedia.org/wiki/샤이엔_산 "wikilink") - 스타게이트의 본부로 나온다.
+  - [샤이엔 산](../Page/샤이엔_산.md "wikilink") - 스타게이트의 본부로 나온다.
   - [51지역](https://ko.wikipedia.org/wiki/51지역 "wikilink") - 외계기술연구소로 나온다.
 
 ## 외부 링크

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [VR Sr1](https://ko.wikipedia.org/wiki/VR_Sr1).
 
 
-**Sr1** 기관차는 [핀란드 철도의](https://ko.wikipedia.org/wiki/VR "wikilink") [전기 기관차이다](../Page/전기_기관차.md "wikilink"). 1973년에서 1985년까지 소련의 [노보체르카스크 전기 기관차 공장에서](https://ko.wikipedia.org/wiki/노보체르카스크_전기_기관차_공장 "wikilink") 생산되었으며, 전기 장치는 핀란드 회사 스트룀버그에서 생산되었다. 첫 차량은 1973년 9월 4일 반입되었다. 현재 핀란드 철도의 두 종류의 전기 기관차 중 하나로 여객과 화물 둘 다에 사용된다.
+**Sr1** 기관차는 [핀란드 철도의](https://ko.wikipedia.org/wiki/VR "wikilink") [전기 기관차이다](../Page/전기_기관차.md "wikilink"). 1973년에서 1985년까지 소련의 [노보체르카스크 전기 기관차 공장에서](../Page/노보체르카스크_전기_기관차_공장.md "wikilink") 생산되었으며, 전기 장치는 핀란드 회사 스트룀버그에서 생산되었다. 첫 차량은 1973년 9월 4일 반입되었다. 현재 핀란드 철도의 두 종류의 전기 기관차 중 하나로 여객과 화물 둘 다에 사용된다.
 
 ## 제작
 
@@ -25,7 +25,7 @@ Sr1 기관차에는 4개의 축이 달려 있으며, 1980-1990년대에 SA-3 자
 
 주 변압기 용량은 5770 kVA이며, 변압기의 부 코일은 2x3으로 배열된 6개의 정류기에 연결되어 있다. 객차 전원용으로 1500V 800kVA를 공급할 수 있다. 단일 기관차로는 최대 1300t, 중련 시 최대 2700t까지 견인할 수 있다.
 
-시속 160km까지 증속할 수 있도록 설계되었으며, 1980년대 3040, 3041호 기관차 기어비를 조정하여 시험해 보았다. 3098-3112호 기관차는 출고 당시부터 최고 속도 160km/h까지 낼 수 있는 대차를 사용하였다. 3111과 3112호는 처음부터 이 형식의 대차를 사용하였다. 2003년부터는 이 속도로 더 이상 다니지 않게 되었는데, 최고 속도를 내기 위해서 견인력을 희생해야 했으며 더 빠른 [Sr2](https://ko.wikipedia.org/wiki/VR_Sr2 "wikilink") 기관차가 도입되었기 때문이다.
+시속 160km까지 증속할 수 있도록 설계되었으며, 1980년대 3040, 3041호 기관차 기어비를 조정하여 시험해 보았다. 3098-3112호 기관차는 출고 당시부터 최고 속도 160km/h까지 낼 수 있는 대차를 사용하였다. 3111과 3112호는 처음부터 이 형식의 대차를 사용하였다. 2003년부터는 이 속도로 더 이상 다니지 않게 되었는데, 최고 속도를 내기 위해서 견인력을 희생해야 했으며 더 빠른 [Sr2](../Page/VR_Sr2.md "wikilink") 기관차가 도입되었기 때문이다.
 
 이 기관차에는 여러 별명이 있다.
 
@@ -60,63 +60,63 @@ Sr1 기관차에는 4개의 축이 달려 있으며, 1980-1990년대에 SA-3 자
 <tbody>
 <tr class="odd">
 <td><p>3003</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1973년" title="wikilink">1973년</a></p></td>
+<td><p><a href="../Page/1973년.md" title="wikilink">1973년</a></p></td>
 <td><p>1989년 8월 31일, 리히매키에서 화물 열차와 충돌</p></td>
 <td><p>개조됨</p></td>
 <td><p>–</p></td>
 </tr>
 <tr class="even">
 <td><p>3022</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1975년" title="wikilink">1975년</a></p></td>
+<td><p><a href="../Page/1975년.md" title="wikilink">1975년</a></p></td>
 <td><p>1986년 1월 29일 <a href="http://vaunut.org/kuva/18146">라푸아에서 손상됨</a></p></td>
 <td><p>1987년 3월 26일</p></td>
 <td><p>–</p></td>
 </tr>
 <tr class="odd">
 <td><p>3031</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1976년" title="wikilink">1976년</a></p></td>
+<td><p><a href="../Page/1976년.md" title="wikilink">1976년</a></p></td>
 <td><p>1998년 8월 12일 수오네뇨키에서 충돌</p></td>
 <td><p>1999년 12월 20일</p></td>
 <td><p>–</p></td>
 </tr>
 <tr class="even">
 <td><p>3033</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1976년" title="wikilink">1976년</a></p></td>
+<td><p><a href="../Page/1976년.md" title="wikilink">1976년</a></p></td>
 <td><p>1995년 1월 13일 충돌</p></td>
 <td><p>재생됨</p></td>
 <td><p>–</p></td>
 </tr>
 <tr class="odd">
 <td><p>3034</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1976년" title="wikilink">1976년</a></p></td>
+<td><p><a href="../Page/1976년.md" title="wikilink">1976년</a></p></td>
 <td><p>1995년 11월 23일 퀴바새르비에서 화재 발생</p></td>
 <td><p>1996년 7월 19일</p></td>
 <td><p>–</p></td>
 </tr>
 <tr class="even">
 <td><p>3042</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1977년" title="wikilink">1977년</a></p></td>
+<td><p><a href="../Page/1977년.md" title="wikilink">1977년</a></p></td>
 <td><p>1998년 8월 12일 수오네뇨키에서 충돌</p></td>
 <td><p>1999년 8월 29일</p></td>
 <td><p>–</p></td>
 </tr>
 <tr class="odd">
 <td><p>3048</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1977년" title="wikilink">1977년</a></p></td>
+<td><p><a href="../Page/1977년.md" title="wikilink">1977년</a></p></td>
 <td><p>1996년 4월 21일 요켈라에서 재생 불가능한 사고 발생</p></td>
 <td><p>–</p></td>
 <td><p>1996년 5월 31일</p></td>
 </tr>
 <tr class="even">
 <td><p>3049</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1977년" title="wikilink">1977년</a></p></td>
+<td><p><a href="../Page/1977년.md" title="wikilink">1977년</a></p></td>
 <td><p>1984년 3월 28일 토이얄라에서 충돌</p></td>
 <td><p>재생됨</p></td>
 <td><p>–</p></td>
 </tr>
 <tr class="odd">
 <td><p>3052</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1978년" title="wikilink">1978년</a></p></td>
+<td><p><a href="../Page/1978년.md" title="wikilink">1978년</a></p></td>
 <td><p>1986년 12월 12일 투렝긴에서 충돌<br />
 1991년 11월 26일 루매키에서 탱크 화차와 충돌</p></td>
 <td><p>재생됨</p></td>
@@ -124,21 +124,21 @@ Sr1 기관차에는 4개의 축이 달려 있으며, 1980-1990년대에 SA-3 자
 </tr>
 <tr class="even">
 <td><p>3053</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1978년" title="wikilink">1978년</a></p></td>
+<td><p><a href="../Page/1978년.md" title="wikilink">1978년</a></p></td>
 <td><p>1988년 4월 5일 탱크 화차와 충돌</p></td>
 <td><p>재생됨</p></td>
 <td><p>–</p></td>
 </tr>
 <tr class="odd">
 <td><p>3079</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1980년" title="wikilink">1980년</a></p></td>
+<td><p><a href="../Page/1980년.md" title="wikilink">1980년</a></p></td>
 <td><p>1986년 1월 29일 <a href="http://vaunut.org/kuva/18146">라푸아에서 손상됨</a></p></td>
 <td><p>재생됨</p></td>
 <td><p>–</p></td>
 </tr>
 <tr class="even">
 <td><p>3089</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1981년" title="wikilink">1981년</a></p></td>
+<td><p><a href="../Page/1981년.md" title="wikilink">1981년</a></p></td>
 <td><p>1998년 3월 6일 위배스퀼래에서 충돌</p></td>
 <td><p>–</p></td>
 <td><p>폐차됨</p></td>
@@ -153,7 +153,7 @@ Sr1 기관차는 현재 핀란드 철도에서 가장 많이 사용하는 기관
 ## 같이 보기
 
   - [핀란드 철도](https://ko.wikipedia.org/wiki/핀란드_철도 "wikilink")
-  - [VR Sr2](https://ko.wikipedia.org/wiki/VR_Sr2 "wikilink")
+  - [VR Sr2](../Page/VR_Sr2.md "wikilink")
 
 ## 외부 링크
 

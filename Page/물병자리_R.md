@@ -3,7 +3,7 @@
 
 **물병자리 R**은 물병자리에 있는 [변광성](../Page/변광성.md "wikilink")이다.
 
-물병자리 R은 [미라형 변광성과](../Page/미라형_변광성.md "wikilink") [백색 왜성으로](https://ko.wikipedia.org/wiki/백색_왜성 "wikilink") 이루어진 [이중성](https://ko.wikipedia.org/wiki/이중성 "wikilink")으로 추측된다. 주성 미라형 변광성은 [적색 거성으로](https://ko.wikipedia.org/wiki/적색_거성 "wikilink") 1년이 약간 넘는 주기 동안 수백 배에 이르는 밝기 변화를 보인다. 이 사실은 [1810년](https://ko.wikipedia.org/wiki/1810년 "wikilink")에 [카를 루트비히 하딩이](https://ko.wikipedia.org/wiki/카를_루트비히_하딩 "wikilink") 알아냈다.
+물병자리 R은 [미라형 변광성과](../Page/미라형_변광성.md "wikilink") [백색 왜성으로](https://ko.wikipedia.org/wiki/백색_왜성 "wikilink") 이루어진 [이중성](https://ko.wikipedia.org/wiki/이중성 "wikilink")으로 추측된다. 주성 미라형 변광성은 [적색 거성으로](https://ko.wikipedia.org/wiki/적색_거성 "wikilink") 1년이 약간 넘는 주기 동안 수백 배에 이르는 밝기 변화를 보인다. 이 사실은 [1810년](../Page/1810년.md "wikilink")에 [카를 루트비히 하딩이](https://ko.wikipedia.org/wiki/카를_루트비히_하딩 "wikilink") 알아냈다.
 
 백색 왜성은 적색 거성으로부터 물질들을 끌어당기고 있으며 가끔 여분의 질량을 분출하여 주변에 고리 모양의 구조를 형성한다.\[1\] 이중성 전체는 대체로 붉은색으로 보이는데, 이는 주변의 먼지 물질이 항성에서 나온 푸른 빛 계열의 파장을 흡수해 버리기 때문이다.
 

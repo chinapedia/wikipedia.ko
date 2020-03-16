@@ -1,19 +1,19 @@
 > This article is converted from Wikipedia: [   SOS  ](https://ko.wikipedia.org/wiki/___SOS__).
 
 
-《**스즈미야 하루히의 우울 SOS단 라디오 지부**》()는 애니메이션 [스즈미야 하루히의 우울의](../Page/스즈미야_하루히의_우울_\(애니메이션\).md "wikilink") 관련 프로그램으로, [라디오 칸사이에서](https://ko.wikipedia.org/wiki/라디오_칸사이 "wikilink") 방송되었던 라디오 프로그램이다. [란티스](https://ko.wikipedia.org/wiki/란티스 "wikilink") 웹 라디오에서 1주씩 늦게 스트리밍 방영되었다. 총 48회.
+《**스즈미야 하루히의 우울 SOS단 라디오 지부**》()는 애니메이션 [스즈미야 하루히의 우울의](../Page/스즈미야_하루히의_우울_\(애니메이션\).md "wikilink") 관련 프로그램으로, [라디오 칸사이에서](https://ko.wikipedia.org/wiki/라디오_칸사이 "wikilink") 방송되었던 라디오 프로그램이다. [란티스](../Page/란티스.md "wikilink") 웹 라디오에서 1주씩 늦게 스트리밍 방영되었다. 총 48회.
 
 프로그램 종료가 아닌 프로그램 휴재란 설도 있다.
 
 ## 개요
 
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [2월 3일](https://ko.wikipedia.org/wiki/2월_3일 "wikilink"). 라디오 칸사이에서 방송 개시. 란티스 웹 라디오에서의 방송은 일주일 지연된 2월 10일 개시.
+  - [2006년](../Page/2006년.md "wikilink") [2월 3일](../Page/2월_3일.md "wikilink"). 라디오 칸사이에서 방송 개시. 란티스 웹 라디오에서의 방송은 일주일 지연된 2월 10일 개시.
   - 퍼스널리티는 스즈미야 하루히 역의 [히라노 아야](../Page/히라노_아야.md "wikilink"), 나가토 유키 역의 [치하라 미노리](../Page/치하라_미노리.md "wikilink"), 아사히나 미쿠루 역의 [고토 유코로](https://ko.wikipedia.org/wiki/고토_유코 "wikilink") 3명이다.
       - 36회에 츠루야씨 역의 [마츠오카 유키가](../Page/마츠오카_유키.md "wikilink") 참가하였다.
   - 메인 스탭은 프로듀서 사이토 시게루, 디렉터에 코바야시 쥰, 구성 작가 와타나베 미스야다.
   - 프로그램을 SOS단의 미팅이라 부르고 있어, 시작 때 '제 XX회 전체 미팅을 개시합니다'라고 안내한다.
   - 시청자 라디오 네임을 시청자가 SOS단의 단원이라는 것으로 하여 '단원명'이라 부르고 있다.
-  - 제9·10회는 [아키하바라](https://ko.wikipedia.org/wiki/아키하바라 "wikilink") [메이드](https://ko.wikipedia.org/wiki/메이드 "wikilink") 카페에서, 27·28회는 [이시마루 전기](https://ko.wikipedia.org/wiki/이시마루_전기 "wikilink") 아키하바라점에서 공개 녹음 방송을 하였다.
+  - 제9·10회는 [아키하바라](../Page/아키하바라.md "wikilink") [메이드](https://ko.wikipedia.org/wiki/메이드 "wikilink") 카페에서, 27·28회는 [이시마루 전기](https://ko.wikipedia.org/wiki/이시마루_전기 "wikilink") 아키하바라점에서 공개 녹음 방송을 하였다.
   - 제35회 방송분부터 란티스 넷 라디오에서 스테레오 방송으로 전달 개시.
   - 제35·36회에 고토 유코 결석.
   - 제36회부터 리뉴얼. 일부 코너가 종료되었고 새로운 코너로 옮겨졌다. 신 코너는, '스즈미야 하루히의 소실'에 대한 기획이다.
@@ -36,7 +36,7 @@
 ## 스폰서
 
   - [가도카와 쇼텐](../Page/가도카와_쇼텐.md "wikilink") [스니커 문고](https://ko.wikipedia.org/wiki/스니커_문고 "wikilink")
-  - [란티스](https://ko.wikipedia.org/wiki/란티스 "wikilink")
+  - [란티스](../Page/란티스.md "wikilink")
   - [코스파](https://ko.wikipedia.org/wiki/코스파 "wikilink") (제14회 \~ 26회)
 
 ## 코너
@@ -162,9 +162,9 @@
 
 프로그램의 번외편 라디오 CD가 발매되었다.
 
-  - 《스즈미야 하루히의 우울 SOS단 라디오 지부》 번외편 CD Vol.1 (LACA-5523, 2006년 [7월 5일](https://ko.wikipedia.org/wiki/7월_5일 "wikilink") 발매)
-  - 《스즈미야 하루히의 우울 SOS단 라디오 지부》 번외편 CD Vol.2 (LACA-5556, 2006년 [9월 21일](https://ko.wikipedia.org/wiki/9월_21일 "wikilink") 발매)
-  - 《스즈미야 하루히의 우울 SOS단 라디오 지부》 번외편 CD Vol.3 (LACA-5584, 2006년 [12월 21일](https://ko.wikipedia.org/wiki/12월_21일 "wikilink") 발매)
+  - 《스즈미야 하루히의 우울 SOS단 라디오 지부》 번외편 CD Vol.1 (LACA-5523, 2006년 [7월 5일](../Page/7월_5일.md "wikilink") 발매)
+  - 《스즈미야 하루히의 우울 SOS단 라디오 지부》 번외편 CD Vol.2 (LACA-5556, 2006년 [9월 21일](../Page/9월_21일.md "wikilink") 발매)
+  - 《스즈미야 하루히의 우울 SOS단 라디오 지부》 번외편 CD Vol.3 (LACA-5584, 2006년 [12월 21일](../Page/12월_21일.md "wikilink") 발매)
 
 ### 애니메이션 DVD 한정판 특전 CD
 

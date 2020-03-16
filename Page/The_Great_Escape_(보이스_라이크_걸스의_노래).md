@@ -27,7 +27,7 @@
 
 ## 순위
 
-| 순위 </small>([2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink"))</small>   | 최고 순위 |
+| 순위 </small>([2007년](../Page/2007년.md "wikilink"))</small>                      | 최고 순위 |
 | ------------------------------------------------------------------------------ | ----- |
 | [빌보드 캐나다 핫 100](https://ko.wikipedia.org/wiki/빌보드_캐나다_핫_100 "wikilink")        | 57    |
 | [뉴질랜드 싱글 순위](https://ko.wikipedia.org/wiki/RIANZ "wikilink")                   | 36    |
@@ -36,7 +36,7 @@
 | U.S. [빌보드 핫 100](../Page/빌보드_핫_100.md "wikilink")                              | 23    |
 | U.S. [빌보드 팝 100](https://ko.wikipedia.org/wiki/빌보드_팝_100 "wikilink")           | 9     |
 | U.S. [빌보드 메인스트림 톱 40](https://ko.wikipedia.org/wiki/빌보드_메인스트림_톱_40 "wikilink") | 8     |
-| 순위 <small>([2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink"))</small>    | 최고 순위 |
+| 순위 <small>([2008년](../Page/2008년.md "wikilink"))</small>                       | 최고 순위 |
 | U.S. [빌보드 핫 싱글 리커런트](https://ko.wikipedia.org/wiki/빌보드_핫_싱글_리커런트 "wikilink")   | 4     |
 |                                                                                |       |
 

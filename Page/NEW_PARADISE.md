@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NEW PARADISE](https://ko.wikipedia.org/wiki/NEW_PARADISE).
 
 
-〈**NEW PARADISE**〉(뉴 파라다이스)는 [w-inds.](https://ko.wikipedia.org/wiki/w-inds. "wikilink")의 일곱 번째 싱글이다. [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [11월 13일](https://ko.wikipedia.org/wiki/11월_13일 "wikilink") FLIGHT MASTER에서 발매하였다.
+〈**NEW PARADISE**〉(뉴 파라다이스)는 [w-inds.](https://ko.wikipedia.org/wiki/w-inds. "wikilink")의 일곱 번째 싱글이다. [2002년](../Page/2002년.md "wikilink") [11월 13일](../Page/11월_13일.md "wikilink") FLIGHT MASTER에서 발매하였다.
 
 ## 개요
 
@@ -19,7 +19,7 @@
 <!-- end list -->
 
   -
-    작사, 작곡, 편곡 : [하야마 히로아키](https://ko.wikipedia.org/wiki/하야마_히로아키 "wikilink")
+    작사, 작곡, 편곡 : [하야마 히로아키](../Page/하야마_히로아키.md "wikilink")
     Rap 작사 : 아쿠츠 켄타로 (\#1,3)
     리믹스 : CANDY (\#3)
 

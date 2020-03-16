@@ -18,11 +18,11 @@
 
 ## 내력
 
-  - [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") [9월 22일](https://ko.wikipedia.org/wiki/9월_22일 "wikilink"), 싱글 《POWER OF LOVE》로 데뷔했다.
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [3월 7일](https://ko.wikipedia.org/wiki/3월_7일 "wikilink")\~8일, [도쿄 돔에서](https://ko.wikipedia.org/wiki/도쿄_돔 "wikilink") 이틀 간 공연을 펼치고 해산했다.
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink"), [오리콘](../Page/오리콘.md "wikilink")에서 조사한 부활 했으면 하는 밴드 순위에서 1위를 차지했다\[1\].
+  - [1993년](../Page/1993년.md "wikilink") [9월 22일](../Page/9월_22일.md "wikilink"), 싱글 《POWER OF LOVE》로 데뷔했다.
+  - [2001년](../Page/2001년.md "wikilink") [3월 7일](../Page/3월_7일.md "wikilink")\~8일, [도쿄 돔에서](../Page/도쿄_돔.md "wikilink") 이틀 간 공연을 펼치고 해산했다.
+  - [2008년](../Page/2008년.md "wikilink"), [오리콘](../Page/오리콘.md "wikilink")에서 조사한 부활 했으면 하는 밴드 순위에서 1위를 차지했다\[1\].
 
-[2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [3월 18일에](https://ko.wikipedia.org/wiki/3월_18일 "wikilink") 데뷔 15주년을 기념한 헌정 앨범 《JUDY AND MARY 15th Anniversary Tribute Album》이 발매됐다.
+[2009년](../Page/2009년.md "wikilink") [3월 18일에](../Page/3월_18일.md "wikilink") 데뷔 15주년을 기념한 헌정 앨범 《JUDY AND MARY 15th Anniversary Tribute Album》이 발매됐다.
 
 ## 음반 목록
 

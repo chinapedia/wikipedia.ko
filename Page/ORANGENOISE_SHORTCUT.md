@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ORANGENOISE SHORTCUT](https://ko.wikipedia.org/wiki/ORANGENOISE_SHORTCUT).
 
 
-**ORANGENOISE SHORTCUT**()은 일본의 인디 밴드이다. 스기모토 기요타카()가 [코나미](https://ko.wikipedia.org/wiki/코나미 "wikilink") 재직 시절 코나미의 음악 게임인 [팝픈뮤직](../Page/팝픈뮤직.md "wikilink")에 수록한 \<\<Homesick Pt. 2&3\>\>의 명의로 orangenoise shortcut을 사용한 것이 그 시초이다. 스기모토가 [코나미](https://ko.wikipedia.org/wiki/코나미 "wikilink")를 퇴사한 [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink"), 솔로 유닛으로 라이브 활동을 시작해 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink")에 첫 번째 앨범을 발매하여 데뷔한다. [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink")에 라이브의 서포트 멤버였던 스기타 후지타카()를 정식 멤버로 영입하였다.
+**ORANGENOISE SHORTCUT**()은 일본의 인디 밴드이다. 스기모토 기요타카()가 [코나미](../Page/코나미.md "wikilink") 재직 시절 코나미의 음악 게임인 [팝픈뮤직](../Page/팝픈뮤직.md "wikilink")에 수록한 \<\<Homesick Pt. 2&3\>\>의 명의로 orangenoise shortcut을 사용한 것이 그 시초이다. 스기모토가 [코나미](../Page/코나미.md "wikilink")를 퇴사한 [2002년](../Page/2002년.md "wikilink"), 솔로 유닛으로 라이브 활동을 시작해 [2004년](../Page/2004년.md "wikilink")에 첫 번째 앨범을 발매하여 데뷔한다. [2005년](../Page/2005년.md "wikilink")에 라이브의 서포트 멤버였던 스기타 후지타카()를 정식 멤버로 영입하였다.
 
-[2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 1월의 라이브를 마지막으로 밴드 활동을 그만두었다.\[1\]
+[2008년](../Page/2008년.md "wikilink") 1월의 라이브를 마지막으로 밴드 활동을 그만두었다.\[1\]
 
 ## 멤버
 

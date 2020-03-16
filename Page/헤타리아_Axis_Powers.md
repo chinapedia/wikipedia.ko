@@ -1,33 +1,33 @@
 > This article is converted from Wikipedia: [ Axis Powers](https://ko.wikipedia.org/wiki/_Axis_Powers).
 
 
-《**헤타리아 Axis Powers**》()는 [일본](../Page/일본.md "wikilink")의 만화가 [히마루야 히데카즈가](https://ko.wikipedia.org/wiki/히마루야_히데카즈 "wikilink") 자신의 [홈페이지](../Page/홈페이지.md "wikilink")에 게재하는 [웹툰](https://ko.wikipedia.org/wiki/웹툰 "wikilink") 형식의 [만화](https://ko.wikipedia.org/wiki/만화 "wikilink")이다. 세계 여러 나라와 지역을 [모에 의인화한](../Page/모에_의인화.md "wikilink") 만화이며 이 만화가 인기를 끌면서 단행본, 드라마 CD, 애니메이션, 영화, 비디오 게임, 뮤지컬 등으로 발전해 나갔다.
+《**헤타리아 Axis Powers**》()는 [일본](../Page/일본.md "wikilink")의 만화가 [히마루야 히데카즈가](../Page/히마루야_히데카즈.md "wikilink") 자신의 [홈페이지](../Page/홈페이지.md "wikilink")에 게재하는 [웹툰](../Page/웹툰.md "wikilink") 형식의 [만화](../Page/만화.md "wikilink")이다. 세계 여러 나라와 지역을 [모에 의인화한](../Page/모에_의인화.md "wikilink") 만화이며 이 만화가 인기를 끌면서 단행본, 드라마 CD, 애니메이션, 영화, 비디오 게임, 뮤지컬 등으로 발전해 나갔다.
 
 ## 개요
 
-[세계사](https://ko.wikipedia.org/wiki/세계사 "wikilink")를 모티브로 한 [네 컷 만화이며](../Page/네_컷_만화.md "wikilink") 세계 여러 나라와 지역 고유의 풍속, 풍조, 풍토 등을 바탕으로 모에 의인화한 캐릭터가 등장하는 국가 의인화 역사 코미디 만화이다. [제1차 세계 대전과](https://ko.wikipedia.org/wiki/제1차_세계_대전 "wikilink") [제2차 세계 대전을](https://ko.wikipedia.org/wiki/제2차_세계_대전 "wikilink") 배경으로 한다.
+[세계사](https://ko.wikipedia.org/wiki/세계사 "wikilink")를 모티브로 한 [네 컷 만화이며](../Page/네_컷_만화.md "wikilink") 세계 여러 나라와 지역 고유의 풍속, 풍조, 풍토 등을 바탕으로 모에 의인화한 캐릭터가 등장하는 국가 의인화 역사 코미디 만화이다. [제1차 세계 대전과](../Page/제1차_세계_대전.md "wikilink") [제2차 세계 대전을](../Page/제2차_세계_대전.md "wikilink") 배경으로 한다.
 
-주인공 이탈리아를 중심으로 하는 [추축국](https://ko.wikipedia.org/wiki/추축국 "wikilink")(이탈리아, 독일, 일본), 이들의 반대 진영에 서 있던 [연합국](https://ko.wikipedia.org/wiki/제2차_세계_대전의_연합국 "wikilink")(미국, 영국, 프랑스, 러시아, 중국)을 중심으로 하며 이들을 중심으로 전 세계에 일어난 사건, 사고를 역사적 사실, 각 나라의 국민성과 고정관념을 엮은 작품이다. 헤타리아(ヘタリア)는 "서투르고 어리버리함"을 뜻하는 [일본어](https://ko.wikipedia.org/wiki/일본어 "wikilink") 속어인 '[헤타레](https://ko.wikipedia.org/wiki/헤타레 "wikilink")'()와 '[이탈리아](https://ko.wikipedia.org/wiki/이탈리아 "wikilink")'(イタリア)의 합성어이다. 세계사를 모티브로 한 에피소드 뿐만 아니라 시사 관련 자료를 응용한 에피소드, 캐릭터를 이용한 오리지널 에피소드도 많이 포함되어 있다.
+주인공 이탈리아를 중심으로 하는 [추축국](../Page/추축국.md "wikilink")(이탈리아, 독일, 일본), 이들의 반대 진영에 서 있던 [연합국](../Page/제2차_세계_대전의_연합국.md "wikilink")(미국, 영국, 프랑스, 러시아, 중국)을 중심으로 하며 이들을 중심으로 전 세계에 일어난 사건, 사고를 역사적 사실, 각 나라의 국민성과 고정관념을 엮은 작품이다. 헤타리아(ヘタリア)는 "서투르고 어리버리함"을 뜻하는 [일본어](../Page/일본어.md "wikilink") 속어인 '[헤타레](https://ko.wikipedia.org/wiki/헤타레 "wikilink")'()와 '[이탈리아](../Page/이탈리아.md "wikilink")'(イタリア)의 합성어이다. 세계사를 모티브로 한 에피소드 뿐만 아니라 시사 관련 자료를 응용한 에피소드, 캐릭터를 이용한 오리지널 에피소드도 많이 포함되어 있다.
 
 작가의 공식 사이트 이외에 연재된 내용은 《코믹 버즈》 2010년 8월호, 2011년 11월호부터 2013년 8월호까지 연재된 내용(단행본 5, 6권에 수록됨)이 있다. 2014년 9월부터는 [슈에이샤](../Page/슈에이샤.md "wikilink")가 운영하는 웹 사이트 《소년 점프+》에서 《헤타리아 World☆Stars (ヘタリア World☆Stars)》가 연재되고 있다.
 
 ## 캐릭터
 
-### [추축국](https://ko.wikipedia.org/wiki/추축국 "wikilink")
+### [추축국](../Page/추축국.md "wikilink")
 
 추축국 진영의 캐릭터는 이탈리아, 독일, 일본을 중심으로 등장한다.
 
   - **** (**이탈리아 베네치아노**, **북이탈리아**, 성우: [나미카와 다이스케](../Page/나미카와_다이스케.md "wikilink"))
-  - **** (성우: [야스모토 히로키](https://ko.wikipedia.org/wiki/야스모토_히로키 "wikilink"))
+  - **** (성우: [야스모토 히로키](../Page/야스모토_히로키.md "wikilink"))
   - **** (성우: [타카하시 히로키](../Page/타카하시_히로키.md "wikilink"))
 
-### [연합국](https://ko.wikipedia.org/wiki/제2차_세계_대전의_연합국 "wikilink")
+### [연합국](../Page/제2차_세계_대전의_연합국.md "wikilink")
 
 연합국 진영의 캐릭터는 미국, 영국, 프랑스, 러시아, 중국을 중심으로 등장한다. 경우에 따라서는 캐나다를 넣기도 한다.
 
   - **** (성우: [코니시 카츠유키](../Page/코니시_카츠유키.md "wikilink"))
-  - **** (성우: [스기야마 노리아키](https://ko.wikipedia.org/wiki/스기야마_노리아키 "wikilink"))
-  - **** (성우: [오노사카 마사야](https://ko.wikipedia.org/wiki/오노사카_마사야 "wikilink"))
+  - **** (성우: [스기야마 노리아키](../Page/스기야마_노리아키.md "wikilink"))
+  - **** (성우: [오노사카 마사야](../Page/오노사카_마사야.md "wikilink"))
   - **** (성우: [타카토 야스히로](https://ko.wikipedia.org/wiki/타카토_야스히로 "wikilink"))
   - **** (성우: [카이다 유키](https://ko.wikipedia.org/wiki/카이다_유키 "wikilink"))
 
@@ -162,46 +162,46 @@
 
 #### 캐릭터 CD
 
-캐릭터별로 1개월에서 2개월 사이에 한 번 정도 발행된다. 미니 드라마와 캐릭터 송(연주곡 버전도 함께 수록되어 있음)으로 구성되어 있으며 디스크 자켓은 모두 [히마루야 히데카즈의](https://ko.wikipedia.org/wiki/히마루야_히데카즈 "wikilink") 작품이다. 캐릭터 송의 가사는 각국의 의식주 문화를 소재로 하고 있다. [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [3월 25일부터](https://ko.wikipedia.org/wiki/3월_25일 "wikilink") [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [3월 24일까지](https://ko.wikipedia.org/wiki/3월_24일 "wikilink") [프런티어웍스](https://ko.wikipedia.org/wiki/프런티어웍스 "wikilink")에서 발매했으며 판매원은 [미디어웍스](https://ko.wikipedia.org/wiki/미디어웍스 "wikilink")이다.
+캐릭터별로 1개월에서 2개월 사이에 한 번 정도 발행된다. 미니 드라마와 캐릭터 송(연주곡 버전도 함께 수록되어 있음)으로 구성되어 있으며 디스크 자켓은 모두 [히마루야 히데카즈의](../Page/히마루야_히데카즈.md "wikilink") 작품이다. 캐릭터 송의 가사는 각국의 의식주 문화를 소재로 하고 있다. [2009년](../Page/2009년.md "wikilink") [3월 25일부터](../Page/3월_25일.md "wikilink") [2010년](../Page/2010년.md "wikilink") [3월 24일까지](../Page/3월_24일.md "wikilink") [프런티어웍스](https://ko.wikipedia.org/wiki/프런티어웍스 "wikilink")에서 발매했으며 판매원은 [미디어웍스](https://ko.wikipedia.org/wiki/미디어웍스 "wikilink")이다.
 
   - 《헤타리아 캐릭터 CD Vol.1 이탈리아 (ヘタリア キャラクターCD Vol.1 イタリア)》 (남북 이탈리아 형제 합동 명의)
       - 성우: [나미카와 다이스케](../Page/나미카와_다이스케.md "wikilink")
-      - 발매일: [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [3월 25일](https://ko.wikipedia.org/wiki/3월_25일 "wikilink")
+      - 발매일: [2009년](../Page/2009년.md "wikilink") [3월 25일](../Page/3월_25일.md "wikilink")
       - 수록곡: 〈더운 물에 끓이자♪ (お湯をひとわかししよう♪)〉, 〈맛있는 ☆ 토마토의 노래 (おいしい☆トマトのうた)〉
       - 수록 미니 드라마: 〈우리들은 형제야\! (俺たち兄弟だよ\!)〉
   - 《헤타리아 캐릭터 CD Vol.2 독일 (ヘタリア キャラクターCD Vol.2 ドイツ)》
-      - 성우: [야스모토 히로키](https://ko.wikipedia.org/wiki/야스모토_히로키 "wikilink")
-      - 발매일: [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [4월 22일](https://ko.wikipedia.org/wiki/4월_22일 "wikilink")
+      - 성우: [야스모토 히로키](../Page/야스모토_히로키.md "wikilink")
+      - 발매일: [2009년](../Page/2009년.md "wikilink") [4월 22일](../Page/4월_22일.md "wikilink")
       - 수록곡: 〈게르만 찬가 \~나는 독일제\~ (ゲルマン讃歌 〜俺はドイツ製〜)〉, 〈고독 (Einsamkeit, 아인잠카이트)〉
       - 수록 미니 드라마: 〈포스터를 만들었어 (ポスター作ったよ)〉
   - 《헤타리아 캐릭터 CD Vol.3 일본 (ヘタリア キャラクターCD Vol.3 日本)》
       - 성우: [타카하시 히로키](../Page/타카하시_히로키.md "wikilink")
-      - 발매일: [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [5월 27일](https://ko.wikipedia.org/wiki/5월_27일 "wikilink")
+      - 발매일: [2009년](../Page/2009년.md "wikilink") [5월 27일](../Page/5월_27일.md "wikilink")
       - 수록곡: 〈송구스럽습니다, 미안합니다. (恐れ入ります、すみません)〉, 〈해가 뜨는 나라 지팡구 (日の出ずる国 ジパング)〉
       - 수록 미니 드라마: 〈영국과 일본의 요괴 문화 (イギリスと日本の妖怪文化)〉
   - 《헤타리아 캐릭터 CD Vol.4 영국 (ヘタリア キャラクターCD Vol.4 イギリス)》
-      - 성우: [스기야마 노리아키](https://ko.wikipedia.org/wiki/스기야마_노리아키 "wikilink")
-      - 발매일: [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [7월 29일](https://ko.wikipedia.org/wiki/7월_29일 "wikilink")
+      - 성우: [스기야마 노리아키](../Page/스기야마_노리아키.md "wikilink")
+      - 발매일: [2009년](../Page/2009년.md "wikilink") [7월 29일](../Page/7월_29일.md "wikilink")
       - 수록곡: 〈절대 불패 영국 신사 (絶対不敗英国紳士)〉, 〈퍼브로 고(GO)\! (パブってGO\!)〉
       - 수록 미니 드라마: 〈영국 씨가 감기에 걸렸습니다 (イギリスさんが風邪をひきました)〉
   - 《헤타리아 캐릭터 CD Vol.5 프랑스 (ヘタリア キャラクターCD Vol.5 フランス)》
-      - 성우: [오노사카 마사야](https://ko.wikipedia.org/wiki/오노사카_마사야 "wikilink")
-      - 발매일: [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [9월 30일](https://ko.wikipedia.org/wiki/9월_30일 "wikilink")
+      - 성우: [오노사카 마사야](../Page/오노사카_마사야.md "wikilink")
+      - 발매일: [2009년](../Page/2009년.md "wikilink") [9월 30일](../Page/9월_30일.md "wikilink")
       - 수록곡: 〈트레비앙은 나에게 안겨 (トレビアンな俺に抱かれ)〉, 〈역시 훌륭한 파리♪ (立派 やっぱ パリ♪)〉
       - 수록 미니 드라마: 〈중세 영국의 머리카락과 옷 (イギリスと中世の髪と服)〉
   - 《헤타리아 캐릭터 CD Vol.6 미국 (ヘタリア キャラクターCD Vol.6 アメリカ)》
       - 성우: [코니시 카츠유키](../Page/코니시_카츠유키.md "wikilink")
-      - 발매일: [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [11월 25일](https://ko.wikipedia.org/wiki/11월_25일 "wikilink")
+      - 발매일: [2009년](../Page/2009년.md "wikilink") [11월 25일](../Page/11월_25일.md "wikilink")
       - 수록곡: 〈W·D·C \~월드 댄싱 (World Dancing)\~ (W・D・C 〜World Dancing〜)〉, 〈햄버거 스트리트 (HAMBURGER STREET)〉
       - 수록 미니 드라마: 〈영국과 미국의 집의 유령 (イギリスとアメリカんちの幽霊)〉
   - 《헤타리아 캐릭터 CD Vol.7 러시아 (ヘタリア キャラクターCD Vol.7 ロシア)》
       - 성우: [타카토 야스히로](https://ko.wikipedia.org/wiki/타카토_야스히로 "wikilink")
-      - 발매일: [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [1월 20일](https://ko.wikipedia.org/wiki/1월_20일 "wikilink")
+      - 발매일: [2010년](../Page/2010년.md "wikilink") [1월 20일](../Page/1월_20일.md "wikilink")
       - 수록곡: 〈겨울 (Зима, 지마)〉, 〈페치카 \~마음을 밝혀 줘\~ (ペチカ〜ココロ灯して〜)〉
       - 수록 미니 드라마: 〈G8 멤버에 대해서 생각하자구\! (G8メンバーについて考えようぜ！)〉
   - 《헤타리아 캐릭터 CD Vol.8 중국 (ヘタリア キャラクターCD Vol.8 中国)》
       - 성우: [카이다 유키](https://ko.wikipedia.org/wiki/카이다_유키 "wikilink")
-      - 발매일: [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [3월 24일](https://ko.wikipedia.org/wiki/3월_24일 "wikilink")
+      - 발매일: [2010년](../Page/2010년.md "wikilink") [3월 24일](../Page/3월_24일.md "wikilink")
       - 수록곡: 〈니하오 ★ 중국 (你好★中国)〉, 〈아이야\! 4,000년\! (あいやぁ四千年。)〉
       - 수록 미니 드라마: 〈아시아와 서양의 축제 (アジアと西洋の祭り)〉
 
@@ -232,7 +232,7 @@
 
 ### 제작진
 
-  - 원작: [히마루야 히데카즈](https://ko.wikipedia.org/wiki/히마루야_히데카즈 "wikilink")
+  - 원작: [히마루야 히데카즈](../Page/히마루야_히데카즈.md "wikilink")
   - 기획: 다카가와 다케시, 이와사키 아쓰시, 다카하시 기미에, 야스다 마사키 (Axis Powers \~ World Series) → 다카가와 다케시, 이토 마코토, 야스다 마사키, 이토 요시히코 (The Beautiful World)
   - 감독: 보브 시로하타 (Axis Powers \~ World Series) → 와타나베 히로시 (The Beautiful World)
   - 시리즈 구성: 히라미쓰 다쿠야 (Axis Powers \~ World Series) → 후데야스 가즈유키 (The Beautiful World)
@@ -286,11 +286,11 @@
 
 ### 대한민국 캐릭터와 관련된 논쟁
 
-헤타리아에 등장하는 대한민국 캐릭터가 한복이 아닌 이상한 옷차림을 하고 있으며 일장기(일본의 국기)를 갖고 다니거나 옷을 만들어 입힌다거나, 미국에 의존하며 일본을 무조건 따라하거나, 중국을 "형님"이라고 부르거나, 시도 때도 없이 "우리나라 만세"를 외치거나, 무엇이든지 한국이 기원이라고 주장하는 사람으로 묘사되어 있어 누리꾼을 중심으로 [다음](https://ko.wikipedia.org/wiki/다음 "wikilink") 아고라에서 방송 중지 서명 운동을 진행했으며 대한민국 언론은 이를 주요 기사로 다루었다.\[1\]\[2\] 특히 대한민국이 일본의 가슴을 만지는 행위가 "대한민국이 독도를 강제로 차지하고 있다"는 일본의 주장을 상징화한 것이라는 해석이 있다. 또한 이 논쟁은 [대한민국 국회의](https://ko.wikipedia.org/wiki/대한민국_국회 "wikilink") 독도영토수호대책특별위원회에서도 토론이 이루어졌다.\[3\] 이와 관련하여 키즈스테이션 측은 “대한민국에서의 비판은 몰랐다. 애니메이션판에는 대한민국 캐릭터가 등장하지 않을 것”이라고 밝혔다.\[4\]\[5\] 이후에도 대한민국 네티즌의 서명 운동과 방송 중지 요청이 계속 이어지자 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [1월 16일](https://ko.wikipedia.org/wiki/1월_16일 "wikilink") 키즈스테이션은 자세한 사항을 밝히지 않은 채 제반의 사정을 이유로 헤타리아를 방송하지 않기로 했고\[6\]\[7\] 헤타리아 공식 홈페이지에서도 대한민국 캐릭터 자체가 아예 없어졌다.
+헤타리아에 등장하는 대한민국 캐릭터가 한복이 아닌 이상한 옷차림을 하고 있으며 일장기(일본의 국기)를 갖고 다니거나 옷을 만들어 입힌다거나, 미국에 의존하며 일본을 무조건 따라하거나, 중국을 "형님"이라고 부르거나, 시도 때도 없이 "우리나라 만세"를 외치거나, 무엇이든지 한국이 기원이라고 주장하는 사람으로 묘사되어 있어 누리꾼을 중심으로 [다음](../Page/다음.md "wikilink") 아고라에서 방송 중지 서명 운동을 진행했으며 대한민국 언론은 이를 주요 기사로 다루었다.\[1\]\[2\] 특히 대한민국이 일본의 가슴을 만지는 행위가 "대한민국이 독도를 강제로 차지하고 있다"는 일본의 주장을 상징화한 것이라는 해석이 있다. 또한 이 논쟁은 [대한민국 국회의](../Page/대한민국_국회.md "wikilink") 독도영토수호대책특별위원회에서도 토론이 이루어졌다.\[3\] 이와 관련하여 키즈스테이션 측은 “대한민국에서의 비판은 몰랐다. 애니메이션판에는 대한민국 캐릭터가 등장하지 않을 것”이라고 밝혔다.\[4\]\[5\] 이후에도 대한민국 네티즌의 서명 운동과 방송 중지 요청이 계속 이어지자 [2009년](../Page/2009년.md "wikilink") [1월 16일](../Page/1월_16일.md "wikilink") 키즈스테이션은 자세한 사항을 밝히지 않은 채 제반의 사정을 이유로 헤타리아를 방송하지 않기로 했고\[6\]\[7\] 헤타리아 공식 홈페이지에서도 대한민국 캐릭터 자체가 아예 없어졌다.
 
 ## 영화
 
-《**은막** (銀幕) **헤타리아 Axis Powers** (ヘタリア Axis Powers) *'Paint it, White (하얗게 칠하자\! **(白くぬれ\!)**)*'》는 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [6월 5일](https://ko.wikipedia.org/wiki/6월_5일 "wikilink") 일본에서 개봉된 애니메이션 영화이다. 전국 10개 극장에서 로드 쇼가 열렸으며 상영 시간은 1시간 20분이다. 소규모로 개봉된 영화임에도 피아(ぴあ) 첫 날(初日) 만족도 랭킹(피아 영화 생활 조사(ぴあ映画生活調べ))에서 만족도 87.8점을 받았을 정도로 좋은 평가를 받았으며 전체 순위에서 5위를 기록했다고 한다.
+《**은막** (銀幕) **헤타리아 Axis Powers** (ヘタリア Axis Powers) *'Paint it, White (하얗게 칠하자\! **(白くぬれ\!)**)*'》는 [2010년](../Page/2010년.md "wikilink") [6월 5일](../Page/6월_5일.md "wikilink") 일본에서 개봉된 애니메이션 영화이다. 전국 10개 극장에서 로드 쇼가 열렸으며 상영 시간은 1시간 20분이다. 소규모로 개봉된 영화임에도 피아(ぴあ) 첫 날(初日) 만족도 랭킹(피아 영화 생활 조사(ぴあ映画生活調べ))에서 만족도 87.8점을 받았을 정도로 좋은 평가를 받았으며 전체 순위에서 5위를 기록했다고 한다.
 
 **제작진**
 
@@ -305,13 +305,13 @@
 **주제가**
 
   - 극장판 주제가 《WA\! 와\!\! 월드 선창 (WA\!輪\!\!ワールド音頭)》
-      - 노래: 월드 8 (이탈리아 ([나미카와 다이스케](../Page/나미카와_다이스케.md "wikilink")), 독일 ([야스모토 히로키](https://ko.wikipedia.org/wiki/야스모토_히로키 "wikilink")), 일본 ([타카하시 히로키](../Page/타카하시_히로키.md "wikilink")), 미국 ([코니시 카츠유키](../Page/코니시_카츠유키.md "wikilink")), 영국 ([스기야마 노리아키](https://ko.wikipedia.org/wiki/스기야마_노리아키 "wikilink")), 프랑스 ([오노사카 마사야](https://ko.wikipedia.org/wiki/오노사카_마사야 "wikilink")), 러시아 ([타카토 야스히로](https://ko.wikipedia.org/wiki/타카토_야스히로 "wikilink")), 중국 ([카이다 유키](https://ko.wikipedia.org/wiki/카이다_유키 "wikilink")))
+      - 노래: 월드 8 (이탈리아 ([나미카와 다이스케](../Page/나미카와_다이스케.md "wikilink")), 독일 ([야스모토 히로키](../Page/야스모토_히로키.md "wikilink")), 일본 ([타카하시 히로키](../Page/타카하시_히로키.md "wikilink")), 미국 ([코니시 카츠유키](../Page/코니시_카츠유키.md "wikilink")), 영국 ([스기야마 노리아키](../Page/스기야마_노리아키.md "wikilink")), 프랑스 ([오노사카 마사야](../Page/오노사카_마사야.md "wikilink")), 러시아 ([타카토 야스히로](https://ko.wikipedia.org/wiki/타카토_야스히로 "wikilink")), 중국 ([카이다 유키](https://ko.wikipedia.org/wiki/카이다_유키 "wikilink")))
   - 극장판 이미지 송 《마인 고트\! (Mein Gott\!)》 밴드 어레인지 버전
       - 노래: 프로이센 ([코우사카 아츠시](https://ko.wikipedia.org/wiki/코우사카_아츠시 "wikilink"))
 
 ## 비디오 게임
 
-《**학원 헤타리아** (学園ヘタリア)》는 [아이디어 팩토리에서](https://ko.wikipedia.org/wiki/아이디어_팩토리 "wikilink") 출시한 비디오 게임이다. 세계 각국에서 온 학생들이 다니는 학교인 국립 세계 W학원을 무대로 한다. 2011년 3월 24일 [플레이스테이션 포터블](https://ko.wikipedia.org/wiki/플레이스테이션_포터블 "wikilink") 게임인 《**학원 헤타리아 포터블** (学園ヘタリア Portable)》이 출시되었으며 2012년 3월 8일에는 [닌텐도 DS](https://ko.wikipedia.org/wiki/닌텐도_DS "wikilink") 게임인 《**학원 헤타리아 DS** (学園ヘタリア DS)》가 출시되었다.
+《**학원 헤타리아** (学園ヘタリア)》는 [아이디어 팩토리에서](https://ko.wikipedia.org/wiki/아이디어_팩토리 "wikilink") 출시한 비디오 게임이다. 세계 각국에서 온 학생들이 다니는 학교인 국립 세계 W학원을 무대로 한다. 2011년 3월 24일 [플레이스테이션 포터블](../Page/플레이스테이션_포터블.md "wikilink") 게임인 《**학원 헤타리아 포터블** (学園ヘタリア Portable)》이 출시되었으며 2012년 3월 8일에는 [닌텐도 DS](../Page/닌텐도_DS.md "wikilink") 게임인 《**학원 헤타리아 DS** (学園ヘタリア DS)》가 출시되었다.
 
 ## 뮤지컬
 
@@ -417,7 +417,7 @@
 ## 같이 보기
 
   - [폴란드공](https://ko.wikipedia.org/wiki/폴란드공 "wikilink")
-  - [아후가니스탄](https://ko.wikipedia.org/wiki/아후가니스탄 "wikilink")
+  - [아후가니스탄](../Page/아후가니스탄.md "wikilink")
 
 ## 각주
 

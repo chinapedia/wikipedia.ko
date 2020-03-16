@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [W-inds.\~PRIME OF LIFE\~](https://ko.wikipedia.org/wiki/W-inds.\~PRIME_OF_LIFE\~).
 
 
-《**w-inds. \~PRIME OF LIFE\~**》(윈즈\~프라임 오브 라이프\~)는 [w-inds.](https://ko.wikipedia.org/wiki/w-inds. "wikilink")의 세 번째 앨범이다. [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [12월 17일](https://ko.wikipedia.org/wiki/12월_17일 "wikilink") FLIGHT MASTER에서 발매하였다.
+《**w-inds. \~PRIME OF LIFE\~**》(윈즈\~프라임 오브 라이프\~)는 [w-inds.](https://ko.wikipedia.org/wiki/w-inds. "wikilink")의 세 번째 앨범이다. [2003년](../Page/2003년.md "wikilink") [12월 17일](../Page/12월_17일.md "wikilink") FLIGHT MASTER에서 발매하였다.
 
-싱글곡 《[SUPER LOVER\~I need you tonight\~](https://ko.wikipedia.org/wiki/SUPER_LOVER~I_need_you_tonight~ "wikilink")》,《[Love is message](https://ko.wikipedia.org/wiki/Love_is_message "wikilink")》,《[Long Road](https://ko.wikipedia.org/wiki/Long_Road "wikilink")》를 포함한 14곡이 수록되어 있다. 전작에 비해 [힙합](../Page/힙합.md "wikilink") 스타일이 강한 앨범이다. 또한 《SUPER LOVER\~I need you tonight\~》의 싱글버전뿐만 아니라 리믹스 버전도 수록되어 있다.
+싱글곡 《[SUPER LOVER\~I need you tonight\~](../Page/SUPER_LOVER~I_need_you_tonight~.md "wikilink")》,《[Love is message](../Page/Love_is_message.md "wikilink")》,《[Long Road](../Page/Long_Road.md "wikilink")》를 포함한 14곡이 수록되어 있다. 전작에 비해 [힙합](../Page/힙합.md "wikilink") 스타일이 강한 앨범이다. 또한 《SUPER LOVER\~I need you tonight\~》의 싱글버전뿐만 아니라 리믹스 버전도 수록되어 있다.
 
-전작들과 같이 초회한정반과 통상반의 자켓사진이 다르며, 대한민국에서는 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink")에 통상반만 라이센스로 발매하였다.
+전작들과 같이 초회한정반과 통상반의 자켓사진이 다르며, 대한민국에서는 [2004년](../Page/2004년.md "wikilink")에 통상반만 라이센스로 발매하였다.
 
 ## 한정 특전
 
@@ -22,7 +22,7 @@
 <!-- end list -->
 
   -
-    ※[2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [1월](https://ko.wikipedia.org/wiki/1월 "wikilink")까지 한정하고 있다.
+    ※[2004년](../Page/2004년.md "wikilink") [1월](../Page/1월.md "wikilink")까지 한정하고 있다.
 
 ## 트랙리스트
 

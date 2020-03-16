@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [One \~ \~](https://ko.wikipedia.org/wiki/One_\~_\~).
 
 
-《**One \~빛나는 계절로\~**》()는 [일본](../Page/일본.md "wikilink")의 게임업체인 [Tactics](https://ko.wikipedia.org/wiki/Tactics "wikilink")에서 [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") [5월 29일에](https://ko.wikipedia.org/wiki/5월_29일 "wikilink") 발매한 성인 대상의 [미소녀 게임이다](https://ko.wikipedia.org/wiki/미소녀_게임 "wikilink"). [히노우에 이타루](../Page/히노우에_이타루.md "wikilink"), [오리토 신지](../Page/오리토_신지.md "wikilink"), [마에다 쥰](https://ko.wikipedia.org/wiki/마에다_쥰 "wikilink") 등 현재의 [Key](https://ko.wikipedia.org/wiki/Key "wikilink")의 주요 구성원이 참여했던 마지막 작품이기도 하여 일반적으로 [Key](https://ko.wikipedia.org/wiki/Key "wikilink")의 게임으로도 보는 견해가 많다. [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [4월 1일에](https://ko.wikipedia.org/wiki/4월_1일 "wikilink") [플레이스테이션](https://ko.wikipedia.org/wiki/플레이스테이션 "wikilink") 버전으로도 출시되었으며, [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [1월 24일에는](https://ko.wikipedia.org/wiki/1월_24일 "wikilink") 주인공을 제외한 모든 캐릭터의 음성이 추가된 풀보이스 판(PC)이 출시되었다.
+《**One \~빛나는 계절로\~**》()는 [일본](../Page/일본.md "wikilink")의 게임업체인 [Tactics](https://ko.wikipedia.org/wiki/Tactics "wikilink")에서 [1998년](../Page/1998년.md "wikilink") [5월 29일에](../Page/5월_29일.md "wikilink") 발매한 성인 대상의 [미소녀 게임이다](../Page/미소녀_게임.md "wikilink"). [히노우에 이타루](../Page/히노우에_이타루.md "wikilink"), [오리토 신지](../Page/오리토_신지.md "wikilink"), [마에다 쥰](https://ko.wikipedia.org/wiki/마에다_쥰 "wikilink") 등 현재의 [Key](https://ko.wikipedia.org/wiki/Key "wikilink")의 주요 구성원이 참여했던 마지막 작품이기도 하여 일반적으로 [Key](https://ko.wikipedia.org/wiki/Key "wikilink")의 게임으로도 보는 견해가 많다. [1999년](../Page/1999년.md "wikilink") [4월 1일에](../Page/4월_1일.md "wikilink") [플레이스테이션](https://ko.wikipedia.org/wiki/플레이스테이션 "wikilink") 버전으로도 출시되었으며, [2003년](../Page/2003년.md "wikilink") [1월 24일에는](../Page/1월_24일.md "wikilink") 주인공을 제외한 모든 캐릭터의 음성이 추가된 풀보이스 판(PC)이 출시되었다.
 
-[2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink")에는 [OVA](https://ko.wikipedia.org/wiki/OVA "wikilink")로도 출시되었으나, 당시 게임 제작진이 거의 대부분 [Key](https://ko.wikipedia.org/wiki/Key "wikilink")로 인력이 빠져나가버린 상태에서 원작의 작품성을 제대로 살리지 못해 반응은 좋지 않았다. [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink")에는 성인용 OVA로 'One \~빛나는 계절로\~ True Storys'를 출시하였다.
+[2001년](../Page/2001년.md "wikilink")에는 [OVA](https://ko.wikipedia.org/wiki/OVA "wikilink")로도 출시되었으나, 당시 게임 제작진이 거의 대부분 [Key](https://ko.wikipedia.org/wiki/Key "wikilink")로 인력이 빠져나가버린 상태에서 원작의 작품성을 제대로 살리지 못해 반응은 좋지 않았다. [2003년](../Page/2003년.md "wikilink")에는 성인용 OVA로 'One \~빛나는 계절로\~ True Storys'를 출시하였다.
 
 ## 등장 인물
 
@@ -12,7 +12,7 @@
 **오리하라 코헤이**()
 
   -
-    성우:없음 / [노지마 켄지](https://ko.wikipedia.org/wiki/노지마_켄지_\(성우\) "wikilink") / [타니야마 키쇼](../Page/타니야마_키쇼.md "wikilink"), [요시다 사유리](https://ko.wikipedia.org/wiki/요시다_사유리 "wikilink")(어린 시절) / 없음
+    성우:없음 / [노지마 켄지](../Page/노지마_켄지_\(성우\).md "wikilink") / [타니야마 키쇼](../Page/타니야마_키쇼.md "wikilink"), [요시다 사유리](https://ko.wikipedia.org/wiki/요시다_사유리 "wikilink")(어린 시절) / 없음
     이 작품의 주인공으로(게임에서는 이름의 변경이 가능하며, '오리하라 코헤이'라는 이름은 초기 설정시의 것이다), 숙모의 집에서 거처중이나 숙모와 마주할 기회가 적어, 사실상 독신 생활중인 고교 2학년생이다.
 
 **나가모리 미즈카**()

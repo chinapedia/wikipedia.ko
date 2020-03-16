@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WM](https://ko.wikipedia.org/wiki/WM).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Icewmstartmenu.png "wikilink") **아이스WM**(IceWM)은 [GUI](https://ko.wikipedia.org/wiki/그래픽_사용자_인터페이스 "wikilink") 가운데 하나이다. Marko Maček가 [C++](https://ko.wikipedia.org/wiki/C++ "wikilink")로 만들었으며 [X 윈도 시스템을](../Page/X_윈도_시스템.md "wikilink") 기반으로 한다. 다른 GUI들보다 메모리와 [CPU를](https://ko.wikipedia.org/wiki/중앙_처리_장치 "wikilink") 상대적으로 더 적게 쓰며 [윈도 95](https://ko.wikipedia.org/wiki/윈도_95 "wikilink"), [OS/2](https://ko.wikipedia.org/wiki/OS/2 "wikilink"), [모티프](https://ko.wikipedia.org/wiki/모티프_\(위젯_툴킷\) "wikilink") 등을 닮은 꼴(스킨)들을 필두로 한 여러 꼴들을 지원하기도 한다. 기본 메뉴, 페이저, 네트워크 및 CPU 사용량 측정기, 편지(메일) 확인, 시계 등을 지원하며 [그놈](https://ko.wikipedia.org/wiki/그놈 "wikilink") 메뉴와 [KDE](../Page/KDE.md "wikilink") 메뉴도 지원한다. 홈 디렉터리에(일반적으로는) 저장되는 설정파일을 고침으로 아이스WM의 여러 부분을 사용자의 입맛에 맞게 고칠 수도 있다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Icewmstartmenu.png "wikilink") **아이스WM**(IceWM)은 [GUI](../Page/그래픽_사용자_인터페이스.md "wikilink") 가운데 하나이다. Marko Maček가 [C++](https://ko.wikipedia.org/wiki/C++ "wikilink")로 만들었으며 [X 윈도 시스템을](../Page/X_윈도_시스템.md "wikilink") 기반으로 한다. 다른 GUI들보다 메모리와 [CPU를](../Page/중앙_처리_장치.md "wikilink") 상대적으로 더 적게 쓰며 [윈도 95](https://ko.wikipedia.org/wiki/윈도_95 "wikilink"), [OS/2](https://ko.wikipedia.org/wiki/OS/2 "wikilink"), [모티프](../Page/모티프_\(위젯_툴킷\).md "wikilink") 등을 닮은 꼴(스킨)들을 필두로 한 여러 꼴들을 지원하기도 한다. 기본 메뉴, 페이저, 네트워크 및 CPU 사용량 측정기, 편지(메일) 확인, 시계 등을 지원하며 [그놈](../Page/그놈.md "wikilink") 메뉴와 [KDE](../Page/KDE.md "wikilink") 메뉴도 지원한다. 홈 디렉터리에(일반적으로는) 저장되는 설정파일을 고침으로 아이스WM의 여러 부분을 사용자의 입맛에 맞게 고칠 수도 있다.
 
 [아수스](https://ko.wikipedia.org/wiki/아수스 "wikilink")의 [Eee PC의](https://ko.wikipedia.org/wiki/Eee_PC "wikilink") 기본 GUI 가운데 하나로 선택되기도 했다.
 

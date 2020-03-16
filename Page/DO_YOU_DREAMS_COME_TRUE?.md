@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DO YOU DREAMS COME TRUE\?](https://ko.wikipedia.org/wiki/DO_YOU_DREAMS_COME_TRUE\?).
 
 
-《**DO YOU DREAMS COME TRUE?**》는 [DREAMS COME TRUE가](../Page/DREAMS_COME_TRUE.md "wikilink") [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [3월 21일에](https://ko.wikipedia.org/wiki/3월_21일 "wikilink") 발매한 15번째 정규 음반이다.
+《**DO YOU DREAMS COME TRUE?**》는 [DREAMS COME TRUE가](../Page/DREAMS_COME_TRUE.md "wikilink") [2009년](../Page/2009년.md "wikilink") [3월 21일에](../Page/3월_21일.md "wikilink") 발매한 15번째 정규 음반이다.
 
 ## 개요
 

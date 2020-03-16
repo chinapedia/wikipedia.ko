@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Exhibition](https://ko.wikipedia.org/wiki/Exhibition).
 
 
-《**Exhibition**》은 [전람회의](../Page/전람회_\(음악_그룹\).md "wikilink") 1집 앨범이다. [연세대학교](https://ko.wikipedia.org/wiki/연세대학교 "wikilink") 재학 중 [김동률](../Page/김동률.md "wikilink")과 [서동욱이](../Page/서동욱_\(1974년\).md "wikilink") 함께 만든 2인조 듀엣 그룹 전람회가 1993년 [MBC 대학가요제에](https://ko.wikipedia.org/wiki/MBC_대학가요제 "wikilink") 참가해 대상과 특별상을 수상한 후 앨범을 발매하였다.
+《**Exhibition**》은 [전람회의](../Page/전람회_\(음악_그룹\).md "wikilink") 1집 앨범이다. [연세대학교](https://ko.wikipedia.org/wiki/연세대학교 "wikilink") 재학 중 [김동률](../Page/김동률.md "wikilink")과 [서동욱이](../Page/서동욱_\(1974년\).md "wikilink") 함께 만든 2인조 듀엣 그룹 전람회가 1993년 [MBC 대학가요제에](../Page/MBC_대학가요제.md "wikilink") 참가해 대상과 특별상을 수상한 후 앨범을 발매하였다.
 
 ## 개요
 
-[대학가요제](https://ko.wikipedia.org/wiki/대학가요제 "wikilink")에서의 수상과 함께 [신해철](https://ko.wikipedia.org/wiki/신해철 "wikilink")과 [김형석이](https://ko.wikipedia.org/wiki/김형석_\(음악가\) "wikilink") 프로듀싱하여 나온 음반이다. 타이틀곡 〈“기억의 습작”〉, 신해철과 전람회 멤버 간의 농담이 녹음되어 있는 〈“여행”〉, 신해철과 같이 부른 〈“세상의 문 앞에서”〉, 등이 수록되어 있다. 전곡의 작곡은 김동률이 했으며 작사는 김동률과 서동욱이 함께 했다.\[1\]
+[대학가요제](https://ko.wikipedia.org/wiki/대학가요제 "wikilink")에서의 수상과 함께 [신해철](../Page/신해철.md "wikilink")과 [김형석이](../Page/김형석_\(음악가\).md "wikilink") 프로듀싱하여 나온 음반이다. 타이틀곡 〈“기억의 습작”〉, 신해철과 전람회 멤버 간의 농담이 녹음되어 있는 〈“여행”〉, 신해철과 같이 부른 〈“세상의 문 앞에서”〉, 등이 수록되어 있다. 전곡의 작곡은 김동률이 했으며 작사는 김동률과 서동욱이 함께 했다.\[1\]
 
-타이틀곡 〈“기억의 습작”〉의 경우 발표 이후 여러 대중 매체에서 쓰이고 있다. [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 한 온라인 서점에서는 이 곡이 쓰인 영화 《[건축학개론](https://ko.wikipedia.org/wiki/건축학_개론 "wikilink")》의 상영 후 전람회 1집 판매량이 70배 늘었다.\[2\] 또한 발표된 지 20년이 지난 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink")에는 드라마 《[응답하라 1994](../Page/응답하라_1994.md "wikilink")》에 이 곡이 삽입된 이후 7월 첫째주 싸이월드 음악 차트 96위에 진입하기도 하였다.\[3\]
+타이틀곡 〈“기억의 습작”〉의 경우 발표 이후 여러 대중 매체에서 쓰이고 있다. [2012년](../Page/2012년.md "wikilink") 한 온라인 서점에서는 이 곡이 쓰인 영화 《[건축학개론](https://ko.wikipedia.org/wiki/건축학_개론 "wikilink")》의 상영 후 전람회 1집 판매량이 70배 늘었다.\[2\] 또한 발표된 지 20년이 지난 [2014년](../Page/2014년.md "wikilink")에는 드라마 《[응답하라 1994](../Page/응답하라_1994.md "wikilink")》에 이 곡이 삽입된 이후 7월 첫째주 싸이월드 음악 차트 96위에 진입하기도 하였다.\[3\]
 
 ## 수록곡
 
