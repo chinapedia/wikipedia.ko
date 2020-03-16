@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Another Future](https://ko.wikipedia.org/wiki/Another_Future).
 
 
-〈**Another Future**〉는 [Kis-My-Ft2](https://ko.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")의 11번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink").
+〈**Another Future**〉는 [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")의 11번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 
 초회 생산 한정반 A, 초회 생산 한정반 B, 통상반【3rd Anniversary반】, 키스마이 SHOP반의 4형태로 발매된다.
 
-표제곡 〈Another Future〉은, [타마모리 유타](https://ko.wikipedia.org/wiki/타마모리_유타 "wikilink") 주연 드라마 《[노부나가의 셰프 Part2](https://ko.wikipedia.org/wiki/노부나가의_셰프#텔레비전_드라마 "wikilink")》의 주제가이고, 커플링곡 〈Perfect World〉는 DHC 약용 아크네 컨트롤 시리즈 CM송이다.
+표제곡 〈Another Future〉은, [타마모리 유타](../Page/타마모리_유타.md "wikilink") 주연 드라마 《[노부나가의 셰프 Part2](https://ko.wikipedia.org/wiki/노부나가의_셰프#텔레비전_드라마 "wikilink")》의 주제가이고, 커플링곡 〈Perfect World〉는 DHC 약용 아크네 컨트롤 시리즈 CM송이다.
 
 ## 수록곡
 
@@ -23,7 +23,7 @@
 1.  Another Future(MUSIC VIDEO)
 2.  Another Future(메이킹다큐멘트)
 
-★[키타야마 히로미츠가](https://ko.wikipedia.org/wiki/키타야마_히로미츠 "wikilink") 특전영상 내레이션에 첫 도전\!
+★[키타야마 히로미츠가](../Page/키타야마_히로미츠.md "wikilink") 특전영상 내레이션에 첫 도전\!
 
 ### 초회 생산 한정반 B
 
@@ -37,7 +37,7 @@
 1.  Perfect World
 2.  MV&자켓 촬영 메이킹 다큐멘트＋멤버가○○를 건 게임 대결\!
 
-★[후지가야 타이스케가](https://ko.wikipedia.org/wiki/후지가야_타이스케 "wikilink") 특전영상 내레이션에 첫 도전\!
+★[후지가야 타이스케가](../Page/후지가야_타이스케.md "wikilink") 특전영상 내레이션에 첫 도전\!
 
 ### 통상반 【3rd Anniversary반】
 

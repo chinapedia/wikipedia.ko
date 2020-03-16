@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Safa](https://ko.wikipedia.org/wiki/Safa).
 
 
-**Safa**는 [말레이시아](https://ko.wikipedia.org/wiki/말레이시아 "wikilink")의 팝 가수 시티 누르할리자의 일곱 번째 정규 앨범이다. 2001년 1월 11일 수리아 레코드를 통해 발매되었으며, 6만 장 이상의 판매량을 기록했다.
+**Safa**는 [말레이시아](../Page/말레이시아.md "wikilink")의 팝 가수 시티 누르할리자의 일곱 번째 정규 앨범이다. 2001년 1월 11일 수리아 레코드를 통해 발매되었으며, 6만 장 이상의 판매량을 기록했다.
 
 ## 앨범 개요
 
@@ -9,7 +9,7 @@
 
 3번 트랙 <Percayalah>는 현재까지도 많은 팬들에게 기억되고 있는 노래이다. 5번 트랙 <Kudus Sinarmu>는 작곡가인 팍 응아가 자신의 리듬감 있는 팝을 선보인 곡이다. 4번 트랙 <Lakaran Kehidupan>의 뮤직비디오가 3D로 제작되기도 했다. 이 뮤직비디오는 믈라카 주 아예르 케로흐(Ayer Keroh)의 독립광장(Dataran Merdeka)에서 촬영되었다.
 
-1번 트랙 <Azimat Cinta>의 뮤직비디오는 [인도네시아](https://ko.wikipedia.org/wiki/인도네시아 "wikilink")에서 촬영되었으며, 이 노래 외에도 <Percayalah>, <Lakaran Kehidupan>, <Bicara Manis Menghiris Kalbu>, <Indah Percintaan>, <Kau Ku Sayang>이 싱글로 발매되었다.
+1번 트랙 <Azimat Cinta>의 뮤직비디오는 [인도네시아](../Page/인도네시아.md "wikilink")에서 촬영되었으며, 이 노래 외에도 <Percayalah>, <Lakaran Kehidupan>, <Bicara Manis Menghiris Kalbu>, <Indah Percintaan>, <Kau Ku Sayang>이 싱글로 발매되었다.
 
 ## 수록곡
 

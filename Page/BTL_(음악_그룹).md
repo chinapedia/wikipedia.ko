@@ -18,7 +18,7 @@
 <td style="text-align: left;"><p><strong>1</strong></p></td>
 <td style="text-align: left;"><p>《<strong>Beyond The Limit</strong>》</p>
 <ul>
-<li>발매일: <a href="https://ko.wikipedia.org/wiki/2014년" title="wikilink">2014년</a> <a href="https://ko.wikipedia.org/wiki/5월_15일" title="wikilink">5월 15일</a></li>
+<li>발매일: <a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/5월_15일.md" title="wikilink">5월 15일</a></li>
 </ul></td>
 <td style="text-align: left;"><ol>
 <li>Break The Limit</li>

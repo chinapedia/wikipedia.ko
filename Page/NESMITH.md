@@ -1,19 +1,19 @@
 > This article is converted from Wikipedia: [NESMITH](https://ko.wikipedia.org/wiki/NESMITH).
 
 
-**NESMITH**(네스미스, [1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink") [8월 1일](https://ko.wikipedia.org/wiki/8월_1일 "wikilink") \~ )는, [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이며, [EXILE](https://ko.wikipedia.org/wiki/EXILE "wikilink"), [EXILE THE SECOND의](../Page/EXILE_THE_SECOND.md "wikilink") 멤버이다. 본명, **류타 카림 네스미스**().
+**NESMITH**(네스미스, [1983년](../Page/1983년.md "wikilink") [8월 1일](../Page/8월_1일.md "wikilink") \~ )는, [일본](../Page/일본.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이며, [EXILE](../Page/EXILE.md "wikilink"), [EXILE THE SECOND의](../Page/EXILE_THE_SECOND.md "wikilink") 멤버이다. 본명, **류타 카림 네스미스**().
 
-[쿠마모토 현](https://ko.wikipedia.org/wiki/구마모토현 "wikilink") 출신. [LDH](https://ko.wikipedia.org/wiki/LDH "wikilink") 소속.
+[쿠마모토 현](../Page/구마모토현.md "wikilink") 출신. [LDH](https://ko.wikipedia.org/wiki/LDH "wikilink") 소속.
 
 ## 인물
 
-  - 아버지는 [아프리카계 미국인](https://ko.wikipedia.org/wiki/아프리카계_미국인 "wikilink"), 어머니는 일본인.
+  - 아버지는 [아프리카계 미국인](../Page/아프리카계_미국인.md "wikilink"), 어머니는 일본인.
 
 ## 참가 그룹
 
   - STEEL (2001년 \~ 2002년)
   - [2대째 J Soul Brothers](../Page/J_Soul_Brothers.md "wikilink") (2007년 1월 25일 \~ 2009년 3월 1일)
-  - [EXILE](https://ko.wikipedia.org/wiki/EXILE "wikilink") (2009년 3월 1일 \~ )
+  - [EXILE](../Page/EXILE.md "wikilink") (2009년 3월 1일 \~ )
   - [EXILE THE SECOND](../Page/EXILE_THE_SECOND.md "wikilink") (2012년 7월 1일 \~ )
   - DANCE EARTH PARTY (2013년)
 

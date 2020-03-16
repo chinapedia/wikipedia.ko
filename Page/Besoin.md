@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Besoin](https://ko.wikipedia.org/wiki/Besoin).
 
 
-《**Besoin**》는 [스테파니의](https://ko.wikipedia.org/wiki/모나코_공녀_스테파니 "wikilink") 첫 정규 음반으로, 1986년 9월에 [LP와](https://ko.wikipedia.org/wiki/LP_\(레코드\) "wikilink") [CD로](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink") 발매되었다.
+《**Besoin**》는 [스테파니의](../Page/모나코_공녀_스테파니.md "wikilink") 첫 정규 음반으로, 1986년 9월에 [LP와](https://ko.wikipedia.org/wiki/LP_\(레코드\) "wikilink") [CD로](../Page/콤팩트_디스크.md "wikilink") 발매되었다.
 
 ## 수록곡
 

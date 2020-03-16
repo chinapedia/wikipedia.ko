@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [COLORFUL POP](https://ko.wikipedia.org/wiki/COLORFUL_POP).
 
 
-《**COLORFUL POP**》은, [E-girls](../Page/E-girls.md "wikilink")의 2번째 [정규 음반이다](https://ko.wikipedia.org/wiki/정규_음반 "wikilink").
+《**COLORFUL POP**》은, [E-girls](../Page/E-girls.md "wikilink")의 2번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
 
 ## 수록곡
 
@@ -11,8 +11,8 @@
       -
         작사: Maria Okada, MNDR / 작곡: [타카하시 유키히로](../Page/다카하시_유키히로.md "wikilink") / 편곡: CLARABELL
     <!-- end list -->
-      - [YMO의](https://ko.wikipedia.org/wiki/옐로_매직_오케스트라 "wikilink") 커버(실제로는 샘플링) 악곡
-      - 보컬은 [Dream의](https://ko.wikipedia.org/wiki/Dream_\(음악_그룹\) "wikilink") [Shizuka와](https://ko.wikipedia.org/wiki/니시다_시즈카 "wikilink") [Erie](https://ko.wikipedia.org/wiki/아베_에리에 "wikilink"), [Happiness의](../Page/Happiness_\(음악_그룹\).md "wikilink") [후지이 카렌](../Page/후지이_카렌.md "wikilink"), [Flower의](../Page/Flower_\(음악_그룹\).md "wikilink") [와시오 레이나](../Page/와시오_레이나.md "wikilink").
+      - [YMO의](../Page/옐로_매직_오케스트라.md "wikilink") 커버(실제로는 샘플링) 악곡
+      - 보컬은 [Dream의](../Page/Dream_\(음악_그룹\).md "wikilink") [Shizuka와](https://ko.wikipedia.org/wiki/니시다_시즈카 "wikilink") [Erie](https://ko.wikipedia.org/wiki/아베_에리에 "wikilink"), [Happiness의](../Page/Happiness_\(음악_그룹\).md "wikilink") [후지이 카렌](../Page/후지이_카렌.md "wikilink"), [Flower의](../Page/Flower_\(음악_그룹\).md "wikilink") [와시오 레이나](../Page/와시오_레이나.md "wikilink").
 2.  **Kissing You** / <small>**미안해요의 Kissing You**</small>
       -
         작사: Yu Shimoji / 작곡·편곡: CLARABELL(RzC)
@@ -61,7 +61,7 @@
       - 7th 싱글 커플링
 11. **** / <small>**사랑의 부기·우기·트레인**</small>
       -
-        작사: Minako Yoshida / 작곡: [Tatsuro Yamashita](https://ko.wikipedia.org/wiki/야마시타_타츠로 "wikilink") / 편곡: Yuta Nakano
+        작사: Minako Yoshida / 작곡: [Tatsuro Yamashita](../Page/야마시타_타츠로.md "wikilink") / 편곡: Yuta Nakano
     <!-- end list -->
       - 6th 싱글 커플링
 12. **Winter Love ** / <small>**Winter Love \~사랑의 선물\~**</small>

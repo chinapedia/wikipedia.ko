@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [E.M.A.S](https://ko.wikipedia.org/wiki/E.M.A.S).
 
 
-**E.M.A.S**는 [말레이시아](https://ko.wikipedia.org/wiki/말레이시아 "wikilink")의 팝 가수 시티 누르할리자의 아홉 번째 정규 앨범이다. 2003년 3월 3일 [말레이시아](https://ko.wikipedia.org/wiki/말레이시아 "wikilink"), [싱가포르](https://ko.wikipedia.org/wiki/싱가포르 "wikilink"), [브루나이](https://ko.wikipedia.org/wiki/브루나이 "wikilink")에서 발매되었으며, [인도네시아](https://ko.wikipedia.org/wiki/인도네시아 "wikilink")에서는 그 후에 발매되었다. 말레이시아에서 20만 장,\[1\] 인도네시아에서 30만 장의 판매량을 기록했다.\[2\]
+**E.M.A.S**는 [말레이시아](../Page/말레이시아.md "wikilink")의 팝 가수 시티 누르할리자의 아홉 번째 정규 앨범이다. 2003년 3월 3일 [말레이시아](../Page/말레이시아.md "wikilink"), [싱가포르](../Page/싱가포르.md "wikilink"), [브루나이](../Page/브루나이.md "wikilink")에서 발매되었으며, [인도네시아](../Page/인도네시아.md "wikilink")에서는 그 후에 발매되었다. 말레이시아에서 20만 장,\[1\] 인도네시아에서 30만 장의 판매량을 기록했다.\[2\]
 
 ## 앨범 개요
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Adiwarna](https://ko.wikipedia.org/wiki/Adiwarna).
 
 
-**Adiwarna**는 [말레이시아](https://ko.wikipedia.org/wiki/말레이시아 "wikilink")의 팝 가수 시티 누르할리자의 네 번째 정규 앨범이자, 세 번째 팝 앨범이다. 1998년 6월 29일 수리아 레코드를 통해 발매되었다. 말레이시아에서 20만장, 인도네시아에서 30만장의 판매량을 기록했다.\[1\]
+**Adiwarna**는 [말레이시아](../Page/말레이시아.md "wikilink")의 팝 가수 시티 누르할리자의 네 번째 정규 앨범이자, 세 번째 팝 앨범이다. 1998년 6월 29일 수리아 레코드를 통해 발매되었다. 말레이시아에서 20만장, 인도네시아에서 30만장의 판매량을 기록했다.\[1\]
 
 ## 앨범 개요
 

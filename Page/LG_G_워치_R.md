@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [LG G  R](https://ko.wikipedia.org/wiki/LG_G__R).
 
 
-**LG G 워치 R**(LG G Watch R)은 [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")에서 제조, 판매하는 [안드로이드 웨어](https://ko.wikipedia.org/wiki/안드로이드_웨어 "wikilink") [스마트워치](../Page/스마트워치.md "wikilink")이다.
+**LG G 워치 R**(LG G Watch R)은 [LG전자](../Page/LG전자.md "wikilink")에서 제조, 판매하는 [안드로이드 웨어](https://ko.wikipedia.org/wiki/안드로이드_웨어 "wikilink") [스마트워치](../Page/스마트워치.md "wikilink")이다.
 
-[2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [8월 28일](https://ko.wikipedia.org/wiki/8월_28일 "wikilink") 공식 홈페이지를 통하여 공개되었으며,\[1\] [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [9월 8일](https://ko.wikipedia.org/wiki/9월_8일 "wikilink") [독일](https://ko.wikipedia.org/wiki/독일 "wikilink") [베를린](https://ko.wikipedia.org/wiki/베를린 "wikilink")에서 열린 **[베를린 국제가전박람회](../Page/베를린_국제가전박람회.md "wikilink") 2014**(IFA 2014)에서 공식적으로 공개되었다. [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [10월 14일](https://ko.wikipedia.org/wiki/10월_14일 "wikilink") 대한민국 출시를 시작으로 [10월 24일부터](https://ko.wikipedia.org/wiki/10월_24일 "wikilink") 글로벌 판매가 시작되었다.\[2\]\[3\]
+[2014년](../Page/2014년.md "wikilink") [8월 28일](../Page/8월_28일.md "wikilink") 공식 홈페이지를 통하여 공개되었으며,\[1\] [2014년](../Page/2014년.md "wikilink") [9월 8일](../Page/9월_8일.md "wikilink") [독일](../Page/독일.md "wikilink") [베를린](../Page/베를린.md "wikilink")에서 열린 **[베를린 국제가전박람회](../Page/베를린_국제가전박람회.md "wikilink") 2014**(IFA 2014)에서 공식적으로 공개되었다. [2014년](../Page/2014년.md "wikilink") [10월 14일](../Page/10월_14일.md "wikilink") 대한민국 출시를 시작으로 [10월 24일부터](../Page/10월_24일.md "wikilink") 글로벌 판매가 시작되었다.\[2\]\[3\]
 
 ## 색상
 

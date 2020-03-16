@@ -1,21 +1,21 @@
 > This article is converted from Wikipedia: [GENERATIONS from EXILE TRIBE](https://ko.wikipedia.org/wiki/GENERATIONS_from_EXILE_TRIBE).
 
 
-**GENERATIONS from EXILE TRIBE(제너레이션즈 프롬 에그자일 트라이브)**는, [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [댄스](https://ko.wikipedia.org/wiki/춤 "wikilink")&[보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink") [그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). [LDH](https://ko.wikipedia.org/wiki/LDH "wikilink") 소속. 레이블은 [rhythm zone](https://ko.wikipedia.org/wiki/리듬존 "wikilink").
+**GENERATIONS from EXILE TRIBE(제너레이션즈 프롬 에그자일 트라이브)**는, [일본](../Page/일본.md "wikilink")의 [댄스](../Page/춤.md "wikilink")&[보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink") [그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). [LDH](https://ko.wikipedia.org/wiki/LDH "wikilink") 소속. 레이블은 [rhythm zone](../Page/리듬존.md "wikilink").
 
 ## 내력
 
-[2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") 4월, [HIRO](https://ko.wikipedia.org/wiki/HIRO "wikilink") 프로듀스로, EXPG 내에서 오디션이 열려, 코모리 하야토·사노 레오·[세키구치 멘디가](../Page/세키구치_멘디.md "wikilink") 선출된다\[1\]. 이 3명에 극단 EXILE에서 [시라하마 아란](../Page/시라하마_아란.md "wikilink")·마치다 케이타, 《VOCAL BATTLE AUDITION 2》의 파이널리스트에서 [카타요세 료타](../Page/카타요세_료타.md "wikilink")·[카즈하라 류토를](https://ko.wikipedia.org/wiki/카즈하라_류토 "wikilink") 더한 7명이 후보 멤버로서, [7월 19일에](https://ko.wikipedia.org/wiki/7월_19일 "wikilink") 발표되었다. [23일부터](https://ko.wikipedia.org/wiki/7월_23일 "wikilink") 활동해, 마이크로버스 1대로 일본 전국을 이동하는 〈무사수행〉 등을 실시했다. 연말부터는 서포트 멤버가 퍼포먼스에 참가했다.
+[2011년](../Page/2011년.md "wikilink") 4월, [HIRO](https://ko.wikipedia.org/wiki/HIRO "wikilink") 프로듀스로, EXPG 내에서 오디션이 열려, 코모리 하야토·사노 레오·[세키구치 멘디가](../Page/세키구치_멘디.md "wikilink") 선출된다\[1\]. 이 3명에 극단 EXILE에서 [시라하마 아란](../Page/시라하마_아란.md "wikilink")·마치다 케이타, 《VOCAL BATTLE AUDITION 2》의 파이널리스트에서 [카타요세 료타](../Page/카타요세_료타.md "wikilink")·[카즈하라 류토를](https://ko.wikipedia.org/wiki/카즈하라_류토 "wikilink") 더한 7명이 후보 멤버로서, [7월 19일에](../Page/7월_19일.md "wikilink") 발표되었다. [23일부터](../Page/7월_23일.md "wikilink") 활동해, 마이크로버스 1대로 일본 전국을 이동하는 〈무사수행〉 등을 실시했다. 연말부터는 서포트 멤버가 퍼포먼스에 참가했다.
 
-[2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 2월, 마치다가 배우의 길로 나아가기 위해 후보 멤버에서 빠져, 극단 EXILE에 재가입한다\[2\]. [4월 17일](https://ko.wikipedia.org/wiki/4월_17일 "wikilink"), 6명의 후보 멤버가 정식 멤버가 되는 것이 발표되었다. 메이저 데뷔를 목표로 해, LDH 소속 아티스트의 라이브 투어에 참가하거나 〈무사수행 \~제2장\~〉을 실시했다\[3\]. [9월 11일](https://ko.wikipedia.org/wiki/9월_11일 "wikilink"), 서포트 멤버 나카츠카 유타가 정식 멤버로서 가입하는 것이 발표되었다. [11월 21일](https://ko.wikipedia.org/wiki/11월_21일 "wikilink"), 시라하마가 주연을 맡는 [닛폰 TV](https://ko.wikipedia.org/wiki/닛폰_TV_방송망 "wikilink") 계열 드라마 《슈가리스》의 주제가로 기용된 〈BRAVE IT OUT〉으로 메이저 데뷔를 한다\[4\].
+[2012년](../Page/2012년.md "wikilink") 2월, 마치다가 배우의 길로 나아가기 위해 후보 멤버에서 빠져, 극단 EXILE에 재가입한다\[2\]. [4월 17일](../Page/4월_17일.md "wikilink"), 6명의 후보 멤버가 정식 멤버가 되는 것이 발표되었다. 메이저 데뷔를 목표로 해, LDH 소속 아티스트의 라이브 투어에 참가하거나 〈무사수행 \~제2장\~〉을 실시했다\[3\]. [9월 11일](../Page/9월_11일.md "wikilink"), 서포트 멤버 나카츠카 유타가 정식 멤버로서 가입하는 것이 발표되었다. [11월 21일](../Page/11월_21일.md "wikilink"), 시라하마가 주연을 맡는 [닛폰 TV](../Page/닛폰_TV_방송망.md "wikilink") 계열 드라마 《슈가리스》의 주제가로 기용된 〈BRAVE IT OUT〉으로 메이저 데뷔를 한다\[4\].
 
-[2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") 1월, 명의가 〈GENERATIONS〉에서 〈GENERATIONS from EXILE TRIBE〉로 변경되었다.
+[2013년](../Page/2013년.md "wikilink") 1월, 명의가 〈GENERATIONS〉에서 〈GENERATIONS from EXILE TRIBE〉로 변경되었다.
 
-[2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") 1월, HIRO에 의해, 시라하마가 리더에 취임되었다.
+[2014년](../Page/2014년.md "wikilink") 1월, HIRO에 의해, 시라하마가 리더에 취임되었다.
 
-[2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") 4월 \~ 6월, 첫 단독 투어 및 월드 투어 〈GENERATIONS WORLD TOUR 2015 “GENERATION EX”〉를 개최.
+[2015년](../Page/2015년.md "wikilink") 4월 \~ 6월, 첫 단독 투어 및 월드 투어 〈GENERATIONS WORLD TOUR 2015 “GENERATION EX”〉를 개최.
 
-[2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") 4월 \~ 7월, 첫 아레나 투어 〈GENERATIONS LIVE TOUR 2016 “SPEEDSTER”〉를 개최.
+[2016년](../Page/2016년.md "wikilink") 4월 \~ 7월, 첫 아레나 투어 〈GENERATIONS LIVE TOUR 2016 “SPEEDSTER”〉를 개최.
 
 ## 멤버
 
@@ -255,10 +255,10 @@
 
 | 발매일                                           | 곡명                                             | 수록된 작품                                                                                                       |
 | --------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| 2012년 12월 5일                                  | Bloom                                          | [EXILE](https://ko.wikipedia.org/wiki/EXILE "wikilink") 《EXILE BEST HITS -LOVE SIDE-》                        |
+| 2012년 12월 5일                                  | Bloom                                          | [EXILE](../Page/EXILE.md "wikilink") 《EXILE BEST HITS -LOVE SIDE-》                                           |
 | 2013년 7월 10일                                  | BURNING UP                                     | [EXILE TRIBE](https://ko.wikipedia.org/wiki/EXILE_TRIBE "wikilink") 〈BURNING UP〉                             |
 | Go On                                         |                                                |                                                                                                              |
-| 2014년 6월 18일                                  | Organ Donor ～OFF DA HOOK～                      | [DJ MAKIDAI from EXILE](https://ko.wikipedia.org/wiki/마키_다이스케 "wikilink") 《EXILE TRIBE PERFECT MIX》          |
+| 2014년 6월 18일                                  | Organ Donor ～OFF DA HOOK～                      | [DJ MAKIDAI from EXILE](../Page/마키_다이스케.md "wikilink") 《EXILE TRIBE PERFECT MIX》                             |
 | 2014년 8월 20일                                  | THE REVOLUTION                                 | EXILE TRIBE 〈THE REVOLUTION〉                                                                                 |
 | 2014년 8월 27일                                  | 24WORLD                                        | EXILE TRIBE 《EXILE TRIBE REVOLUTION》                                                                         |
 | 2016년 6월 15일                                  | RUN THIS TOWN                                  | V.A. 《HiGH\&LOW ORIGINAL BEST ALBUM》                                                                         |
@@ -275,12 +275,12 @@
 
 ### 텔레비전
 
-  - 주간 EXILE (2011년 \~ , [TBS](https://ko.wikipedia.org/wiki/도쿄_방송_홀딩스 "wikilink"))
-  - EXILE 카지노 (2014년 4월 \~ 2015년 9월, [후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink"))
+  - 주간 EXILE (2011년 \~ , [TBS](../Page/도쿄_방송_홀딩스.md "wikilink"))
+  - EXILE 카지노 (2014년 4월 \~ 2015년 9월, [후지 TV](../Page/후지_TV.md "wikilink"))
 
 ### 라디오
 
-  - GENERATIONS의 GENETALK (2013년 4월 \~ , [JFN](https://ko.wikipedia.org/wiki/JFN "wikilink"))
+  - GENERATIONS의 GENETALK (2013년 4월 \~ , [JFN](../Page/JFN.md "wikilink"))
 
 ## 각주
 

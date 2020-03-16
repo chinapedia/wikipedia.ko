@@ -5,13 +5,13 @@
 
 ## 2010년대
 
-  - 2013년 7월 10일 [박재범](https://ko.wikipedia.org/wiki/박재범 "wikilink") - **I Like 2 Party**
+  - 2013년 7월 10일 [박재범](../Page/박재범.md "wikilink") - **I Like 2 Party**
   - 2013년 9월 6일 박재범 - **\[Digital Single\] Trill**
   - 2013년 10월 25일 [GRAY](../Page/그레이_\(가수\).md "wikilink") - **CALL ME GRAY**\[1\]
-  - 2014년 3월 19일 [로꼬](https://ko.wikipedia.org/wiki/로꼬 "wikilink") - **\[Digital Single\] 감아**
+  - 2014년 3월 19일 [로꼬](../Page/로꼬.md "wikilink") - **\[Digital Single\] 감아**
   - 2014년 3월 5일 [AOMG](https://ko.wikipedia.org/wiki/AOMG "wikilink") - **Re:birth Day 2014**
   - 2014년 4월 9일 로꼬 - **\[Digital Single\] Show Me The Money 3**\[2\]
-  - 2014년 4월 10일 [사이먼 도미닉](https://ko.wikipedia.org/wiki/사이먼_도미닉 "wikilink") - **\[Digital Single\] 돈은 거짓말 안해 (Money Don't Lie)**
+  - 2014년 4월 10일 [사이먼 도미닉](../Page/사이먼_도미닉.md "wikilink") - **\[Digital Single\] 돈은 거짓말 안해 (Money Don't Lie)**
   - 2014년 4월 11일 박재범 - '''\[Digital Single\] [메트로놈 (Metronome)](../Page/EVOLUTION_\(박재범의_음반\).md "wikilink")\[3\]
   - 2014년 6월 1일 박재범 - **\[Digital Single\] Taekwondo**
   - 2014년 7월 25일 박재범 - **\[Digital Single\] [나나 (NaNa)](../Page/EVOLUTION_\(박재범의_음반\).md "wikilink")**\[4\]
@@ -43,7 +43,7 @@
   - 2015년 10월 27일 어글리덕 - **\[Digital Single\] ASIA**
   - 2015년 11월 4일 로꼬 - **\[Digital Single\] 투유 프로젝트 - 슈가맨 Part.3**\[18\]
   - 2015년 11월 5일 박재범 - **[WORLDWIDE](https://ko.wikipedia.org/wiki/WORLDWIDE_\(음반\) "wikilink")**
-  - 2015년 12월 24일 어글리덕,[DJ 웨건](https://ko.wikipedia.org/wiki/DJ_웨건 "wikilink") - **\[Digital Single\] 누워서 떡 먹기**
+  - 2015년 12월 24일 어글리덕,[DJ 웨건](../Page/DJ_웨건.md "wikilink") - **\[Digital Single\] 누워서 떡 먹기**
   - 2016년 2월 19일 엘로 - **\[Digital Single\] Friends With Benefits**
   - 2016년 3월 8일 박재범 - **\[Digital Single\] [All I Wanna Do](https://ko.wikipedia.org/wiki/EVERYTHING_YOU_WANTED "wikilink")**\[19\]
   - 2016년 3월 22일 박재범 - **\[Digital Single\] [사실은](https://ko.wikipedia.org/wiki/EVERYTHING_YOU_WANTED "wikilink")**\[20\]
@@ -76,13 +76,13 @@
   - 2017년 6월 30일 박재범 - **\[Digital Single\] 니가 싫어하는 노래 (Most Hated)**\[34\]
   - 2017년 7월 7일 박재범 - **\[Digital Single\] Love My Life**
   - 2017년 7월 17일 박재범 - **\[Digital Single\] YACHT**
-  - 2017년 8월 5일 박재범 - **쇼미더머니 6 Episode 1**<ref>[올 블랙의](https://ko.wikipedia.org/wiki/올_블랙 "wikilink") 멤버 [도끼](https://ko.wikipedia.org/wiki/도끼_\(가수\) "wikilink"),[팬텀의](https://ko.wikipedia.org/wiki/팬텀_\(음악_그룹\) "wikilink") 멤버 [한해](../Page/한해.md "wikilink"),[주노플로](https://ko.wikipedia.org/wiki/주노플로 "wikilink"),[MFBTY](https://ko.wikipedia.org/wiki/MFBTY "wikilink")의 두 멤버 [비지](https://ko.wikipedia.org/wiki/비지_\(가수\) "wikilink"),[타이거 JK](https://ko.wikipedia.org/wiki/타이거_JK "wikilink"),[리듬파워](https://ko.wikipedia.org/wiki/리듬파워 "wikilink")의 멤버
+  - 2017년 8월 5일 박재범 - **쇼미더머니 6 Episode 1**<ref>[올 블랙의](../Page/올_블랙.md "wikilink") 멤버 [도끼](../Page/도끼_\(가수\).md "wikilink"),[팬텀의](../Page/팬텀_\(음악_그룹\).md "wikilink") 멤버 [한해](../Page/한해.md "wikilink"),[주노플로](../Page/주노플로.md "wikilink"),[MFBTY](https://ko.wikipedia.org/wiki/MFBTY "wikilink")의 두 멤버 [비지](../Page/비지_\(가수\).md "wikilink"),[타이거 JK](../Page/타이거_JK.md "wikilink"),[리듬파워](../Page/리듬파워.md "wikilink")의 멤버
 
-[`행주`](https://ko.wikipedia.org/wiki/행주_\(가수\) "wikilink")`, `[`해쉬스완`](https://ko.wikipedia.org/wiki/해쉬스완 "wikilink")`, `[`넉살`](../Page/넉살.md "wikilink")외` 11명도 앨범 참여.`</ref>
+[`행주`](https://ko.wikipedia.org/wiki/행주_\(가수\) "wikilink")`, `[`해쉬스완`](../Page/해쉬스완.md "wikilink")`, `[`넉살`](../Page/넉살.md "wikilink")외` 11명도 앨범 참여.`</ref>
 
   - 2017년 8월 18일 로꼬 - **Summer Go Loco**
   - 2017년 8월 24일 후디 - **\[Digital Single\] HANGANG**
-  - 2017년 9월 4일 [우원재](https://ko.wikipedia.org/wiki/우원재 "wikilink") - **\[Digital Single\] 시차 (We Are)**
+  - 2017년 9월 4일 [우원재](../Page/우원재.md "wikilink") - **\[Digital Single\] 시차 (We Are)**
   - 2017년 9월 7일 박재범 - **\[Digital Single\] Reborn**\[35\]
   - 2017년 9월 16일 박재범 - **\[Digital Single\] Dingo X H1GHR MUSIC**\[36\]
   - 2017년 11월 2일 우원재 - **\[Digital Single\] 불안**
@@ -129,7 +129,7 @@
   - 2019년 1월 1일 박재범 - **\[Digital Single\] Finish Line Remix**
   - 2019년 1월 8일 코드쿤스트 - **\[Digital Single\] XI**
   - 2019년 1월 15일 박재범 - **\[Digital Single\] Not The Same**\[43\]
-  - 2019년 1월 21일 [펀치넬로](https://ko.wikipedia.org/wiki/펀치넬로 "wikilink") - **\[Digital Single\] Absinthe**\[44\]
+  - 2019년 1월 21일 [펀치넬로](../Page/펀치넬로.md "wikilink") - **\[Digital Single\] Absinthe**\[44\]
   - 2019년 1월 28일 펀치넬로 - **Ordinary**
   - 2019년 1월 30일 [주니어 쉐프](https://ko.wikipedia.org/wiki/주니어_쉐프 "wikilink") - **\[Digital Single\] Pop Star**
   - 2019년 2월 7일 로꼬 - **Hello**
@@ -182,7 +182,7 @@
 [분류:대한민국 음반사의 음반 목록](https://ko.wikipedia.org/wiki/분류:대한민국_음반사의_음반_목록 "wikilink") [분류:AOMG](https://ko.wikipedia.org/wiki/분류:AOMG "wikilink")
 
 1.  최초의 19금 앨범.
-2.  [스윙스](https://ko.wikipedia.org/wiki/스윙스 "wikilink"),[소울다이브](https://ko.wikipedia.org/wiki/소울다이브 "wikilink"),[딘딘](../Page/딘딘.md "wikilink"),[주석](https://ko.wikipedia.org/wiki/주석 "wikilink"),[이현도](https://ko.wikipedia.org/wiki/이현도 "wikilink"),[진돗개도](https://ko.wikipedia.org/wiki/진돗개_\(가수\) "wikilink") 앨범 참여.
+2.  [스윙스](../Page/스윙스.md "wikilink"),[소울다이브](../Page/소울다이브.md "wikilink"),[딘딘](../Page/딘딘.md "wikilink"),[주석](https://ko.wikipedia.org/wiki/주석 "wikilink"),[이현도](../Page/이현도.md "wikilink"),[진돗개도](https://ko.wikipedia.org/wiki/진돗개_\(가수\) "wikilink") 앨범 참여.
 3.  박재범 정규 2집 첫번째 선공개곡.
 4.  박재범 정규 2집 두번째 선공개곡.
 5.  박재범 정규 2집 마지막 선공개곡.
@@ -190,39 +190,39 @@
 7.  박재범의 정규 3집 첫번째 선공개곡.
 8.  박재범의 정규 3집 두번째 선공개곡.
 9.  [여자친구의](../Page/여자친구_\(음악_그룹\).md "wikilink") 멤버 [유주도](../Page/유주_\(1997년\).md "wikilink") 앨범 참여.
-10. [바스코](https://ko.wikipedia.org/wiki/바스코_\(래퍼\) "wikilink"), [스토니스컹크](https://ko.wikipedia.org/wiki/스토니스컹크 "wikilink")의 멤버 [스컬도](https://ko.wikipedia.org/wiki/스컬_\(가수\) "wikilink") 앨범 참여.
+10. [바스코](https://ko.wikipedia.org/wiki/바스코_\(래퍼\) "wikilink"), [스토니스컹크](https://ko.wikipedia.org/wiki/스토니스컹크 "wikilink")의 멤버 [스컬도](../Page/스컬_\(가수\).md "wikilink") 앨범 참여.
 11. [여자친구의](../Page/여자친구_\(음악_그룹\).md "wikilink") 멤버 [유주도](../Page/유주_\(1997년\).md "wikilink") 다시 앨범 참여.
 12. 박재범의 정규 3집 세번째 선공개곡.
 13. 박재범의 정규 3집 네번째 선공개곡.
 14. 박재범의 정규 3집 마지막 선공개곡.
 15. 사이먼 도미닉의 미니 1집 선공개곡.
-16. [지누션](https://ko.wikipedia.org/wiki/지누션 "wikilink"), [에픽하이](https://ko.wikipedia.org/wiki/에픽하이 "wikilink")의 멤버 [타블로](https://ko.wikipedia.org/wiki/타블로 "wikilink"), [산이](https://ko.wikipedia.org/wiki/산이 "wikilink"), [버벌 진트](https://ko.wikipedia.org/wiki/버벌_진트 "wikilink"), [긱스의](https://ko.wikipedia.org/wiki/긱스_\(남성_듀오\) "wikilink") 멤버 [릴보이](../Page/릴보이.md "wikilink"), [베이식](https://ko.wikipedia.org/wiki/베이식_\(가수\) "wikilink"), [블랙넛](../Page/블랙넛.md "wikilink"), [인크레더블](https://ko.wikipedia.org/wiki/인크레더블_\(래퍼\) "wikilink"), [이노베이터](../Page/이노베이터.md "wikilink")도 앨범 참여.
+16. [지누션](../Page/지누션.md "wikilink"), [에픽하이](https://ko.wikipedia.org/wiki/에픽하이 "wikilink")의 멤버 [타블로](../Page/타블로.md "wikilink"), [산이](../Page/산이.md "wikilink"), [버벌 진트](https://ko.wikipedia.org/wiki/버벌_진트 "wikilink"), [긱스의](https://ko.wikipedia.org/wiki/긱스_\(남성_듀오\) "wikilink") 멤버 [릴보이](../Page/릴보이.md "wikilink"), [베이식](../Page/베이식_\(가수\).md "wikilink"), [블랙넛](../Page/블랙넛.md "wikilink"), [인크레더블](https://ko.wikipedia.org/wiki/인크레더블_\(래퍼\) "wikilink"), [이노베이터](../Page/이노베이터.md "wikilink")도 앨범 참여.
 17. 박재범 정규 4집의 첫번째 선공개곡.
-18. [크러쉬](../Page/크러쉬_\(음악가\).md "wikilink"), [AOA의](https://ko.wikipedia.org/wiki/AOA_\(음악_그룹\) "wikilink") 멤버 [초아도](../Page/초아_\(1990년_3월\).md "wikilink") 앨범 참여.
+18. [크러쉬](../Page/크러쉬_\(음악가\).md "wikilink"), [AOA의](../Page/AOA_\(음악_그룹\).md "wikilink") 멤버 [초아도](../Page/초아_\(1990년_3월\).md "wikilink") 앨범 참여.
 19. 박재범 정규 4집의 두번째 선공개곡.
 20. 박재범 정규 4집의 세번째 선공개곡.
 21. [장미여관](https://ko.wikipedia.org/wiki/장미여관 "wikilink")도 앨범 참여.
-22. [원펀치의](https://ko.wikipedia.org/wiki/원펀치_\(음악_그룹\) "wikilink") 멤버 [원](https://ko.wikipedia.org/wiki/원_\(가수\) "wikilink"),[올 블랙의](https://ko.wikipedia.org/wiki/올_블랙 "wikilink") 멤버 [도끼](https://ko.wikipedia.org/wiki/도끼_\(가수\) "wikilink"),[더 콰이엇](https://ko.wikipedia.org/wiki/더_콰이엇 "wikilink"),[매드 클라운](https://ko.wikipedia.org/wiki/매드_클라운 "wikilink"),[자이언티](../Page/자이언티.md "wikilink"),[씨잼](../Page/씨잼.md "wikilink"),[리듬파워](https://ko.wikipedia.org/wiki/리듬파워 "wikilink")의 멤버 [보이비](https://ko.wikipedia.org/wiki/보이비 "wikilink"),[아지아틱스](https://ko.wikipedia.org/wiki/아지아틱스 "wikilink")의 멤버 [플로식](https://ko.wikipedia.org/wiki/플로식 "wikilink") 외 8명도 앨범 참여.
-23. [원펀치의](https://ko.wikipedia.org/wiki/원펀치_\(음악_그룹\) "wikilink") 멤버 [원](https://ko.wikipedia.org/wiki/원_\(가수\) "wikilink"),[매드 클라운](https://ko.wikipedia.org/wiki/매드_클라운 "wikilink"),[샵건](https://ko.wikipedia.org/wiki/샵건 "wikilink")도 앨범 참여.
-24. [씨잼](../Page/씨잼.md "wikilink"),[비와이](../Page/비와이.md "wikilink"),[수퍼비](https://ko.wikipedia.org/wiki/수퍼비 "wikilink"),[지투](https://ko.wikipedia.org/wiki/지투 "wikilink"),[해쉬스완](https://ko.wikipedia.org/wiki/해쉬스완 "wikilink"),[매드 클라운](https://ko.wikipedia.org/wiki/매드_클라운 "wikilink"),[도끼](https://ko.wikipedia.org/wiki/도끼_\(가수\) "wikilink"),[더 콰이엇](https://ko.wikipedia.org/wiki/더_콰이엇 "wikilink"),[아지아틱스](https://ko.wikipedia.org/wiki/아지아틱스 "wikilink")의 멤버 [플로식](https://ko.wikipedia.org/wiki/플로식 "wikilink"),전 [스피드의](https://ko.wikipedia.org/wiki/스피드_\(대한민국의_음악_그룹\) "wikilink") 멤버 [우태운](../Page/우태운.md "wikilink"),[리듬파워](https://ko.wikipedia.org/wiki/리듬파워 "wikilink")의 멤버 [보이비](https://ko.wikipedia.org/wiki/보이비 "wikilink")도 앨범 참여.
+22. [원펀치의](https://ko.wikipedia.org/wiki/원펀치_\(음악_그룹\) "wikilink") 멤버 [원](https://ko.wikipedia.org/wiki/원_\(가수\) "wikilink"),[올 블랙의](../Page/올_블랙.md "wikilink") 멤버 [도끼](../Page/도끼_\(가수\).md "wikilink"),[더 콰이엇](https://ko.wikipedia.org/wiki/더_콰이엇 "wikilink"),[매드 클라운](../Page/매드_클라운.md "wikilink"),[자이언티](../Page/자이언티.md "wikilink"),[씨잼](../Page/씨잼.md "wikilink"),[리듬파워](../Page/리듬파워.md "wikilink")의 멤버 [보이비](https://ko.wikipedia.org/wiki/보이비 "wikilink"),[아지아틱스](https://ko.wikipedia.org/wiki/아지아틱스 "wikilink")의 멤버 [플로식](https://ko.wikipedia.org/wiki/플로식 "wikilink") 외 8명도 앨범 참여.
+23. [원펀치의](https://ko.wikipedia.org/wiki/원펀치_\(음악_그룹\) "wikilink") 멤버 [원](https://ko.wikipedia.org/wiki/원_\(가수\) "wikilink"),[매드 클라운](../Page/매드_클라운.md "wikilink"),[샵건](https://ko.wikipedia.org/wiki/샵건 "wikilink")도 앨범 참여.
+24. [씨잼](../Page/씨잼.md "wikilink"),[비와이](../Page/비와이.md "wikilink"),[수퍼비](../Page/수퍼비.md "wikilink"),[지투](https://ko.wikipedia.org/wiki/지투 "wikilink"),[해쉬스완](../Page/해쉬스완.md "wikilink"),[매드 클라운](../Page/매드_클라운.md "wikilink"),[도끼](../Page/도끼_\(가수\).md "wikilink"),[더 콰이엇](https://ko.wikipedia.org/wiki/더_콰이엇 "wikilink"),[아지아틱스](https://ko.wikipedia.org/wiki/아지아틱스 "wikilink")의 멤버 [플로식](https://ko.wikipedia.org/wiki/플로식 "wikilink"),전 [스피드의](https://ko.wikipedia.org/wiki/스피드_\(대한민국의_음악_그룹\) "wikilink") 멤버 [우태운](../Page/우태운.md "wikilink"),[리듬파워](../Page/리듬파워.md "wikilink")의 멤버 [보이비](https://ko.wikipedia.org/wiki/보이비 "wikilink")도 앨범 참여.
 25. 박재범 정규 4집의 네번째 선공개곡.
-26. [기린도](https://ko.wikipedia.org/wiki/기린_\(가수\) "wikilink") 앨범 참여.
+26. [기린도](../Page/기린_\(가수\).md "wikilink") 앨범 참여.
 27. 엘로의 미니 1집 선공개곡.
 28. [펀치도](https://ko.wikipedia.org/wiki/펀치_\(1993년\) "wikilink") 앨범 참여.
 29. 박재범 정규 4집의 다섯번째 선공개곡.
 30. 박재범 정규 4집의 마지막 선공개곡.
 31. 후디 미니 1집의 선공개곡.
 32. [샘김](https://ko.wikipedia.org/wiki/샘김 "wikilink")도 앨범 참여.
-33. [듀스의](https://ko.wikipedia.org/wiki/듀스_\(음악_그룹\) "wikilink") 멤버 [이현도](https://ko.wikipedia.org/wiki/이현도 "wikilink")도 앨범 참여.
-34. [올 블랙의](https://ko.wikipedia.org/wiki/올_블랙 "wikilink") 멤버 [도끼도](https://ko.wikipedia.org/wiki/도끼_\(가수\) "wikilink") 앨범 참여.
-35. [더블케이](https://ko.wikipedia.org/wiki/더블케이 "wikilink"),[리듬파워](https://ko.wikipedia.org/wiki/리듬파워 "wikilink")의 멤버 [보이비](https://ko.wikipedia.org/wiki/보이비 "wikilink")도 앨범 참여.
+33. [듀스의](../Page/듀스_\(음악_그룹\).md "wikilink") 멤버 [이현도](../Page/이현도.md "wikilink")도 앨범 참여.
+34. [올 블랙의](../Page/올_블랙.md "wikilink") 멤버 [도끼도](../Page/도끼_\(가수\).md "wikilink") 앨범 참여.
+35. [더블케이](https://ko.wikipedia.org/wiki/더블케이 "wikilink"),[리듬파워](../Page/리듬파워.md "wikilink")의 멤버 [보이비](https://ko.wikipedia.org/wiki/보이비 "wikilink")도 앨범 참여.
 36. [Sik-K](https://ko.wikipedia.org/wiki/Sik-K "wikilink"),[pH-1](https://ko.wikipedia.org/wiki/pH-1 "wikilink")도 앨범 참여.
 37. [Yultron](https://ko.wikipedia.org/wiki/Yultron "wikilink")도 앨범 참여.
-38. [GOT7](https://ko.wikipedia.org/wiki/GOT7 "wikilink")의 멤버 [JB](https://ko.wikipedia.org/wiki/JB_\(가수\) "wikilink"), [마마무](../Page/마마무.md "wikilink")의 멤버 [화사](../Page/화사.md "wikilink"), [부활의](https://ko.wikipedia.org/wiki/부활_\(음악_그룹\) "wikilink") 멤버 [김태원](https://ko.wikipedia.org/wiki/김태원_\(음악인\) "wikilink"), [김종서도](https://ko.wikipedia.org/wiki/김종서_\(가수\) "wikilink") 앨범 참여.
-39. [EXO](https://ko.wikipedia.org/wiki/EXO "wikilink")의 멤버 [백현도](https://ko.wikipedia.org/wiki/백현_\(가수\) "wikilink") 앨범 참여.
+38. [GOT7](https://ko.wikipedia.org/wiki/GOT7 "wikilink")의 멤버 [JB](../Page/JB_\(가수\).md "wikilink"), [마마무](../Page/마마무.md "wikilink")의 멤버 [화사](../Page/화사.md "wikilink"), [부활의](https://ko.wikipedia.org/wiki/부활_\(음악_그룹\) "wikilink") 멤버 [김태원](../Page/김태원_\(음악인\).md "wikilink"), [김종서도](../Page/김종서_\(가수\).md "wikilink") 앨범 참여.
+39. [EXO](../Page/EXO.md "wikilink")의 멤버 [백현도](https://ko.wikipedia.org/wiki/백현_\(가수\) "wikilink") 앨범 참여.
 40. [UV도](https://ko.wikipedia.org/wiki/UV_\(음악_그룹\) "wikilink") 앨범 참여.
-41. [김연자](https://ko.wikipedia.org/wiki/김연자 "wikilink"),[휘성](https://ko.wikipedia.org/wiki/휘성 "wikilink")도 앨범 참여.
-42. [유성은](https://ko.wikipedia.org/wiki/유성은 "wikilink")도 앨범 참여.
+41. [김연자](../Page/김연자.md "wikilink"),[휘성](https://ko.wikipedia.org/wiki/휘성 "wikilink")도 앨범 참여.
+42. [유성은](../Page/유성은.md "wikilink")도 앨범 참여.
 43. [Ill Chris도](https://ko.wikipedia.org/wiki/Ill_Chris "wikilink") 앨범 참여.
 44. 펀치넬로 미니 1집의 선공개곡.
 45. [Hit-Boy](https://ko.wikipedia.org/wiki/Hit-Boy "wikilink")도 앨범 참여.
@@ -231,12 +231,12 @@
 48. [Sik-K](https://ko.wikipedia.org/wiki/Sik-K "wikilink"),[HAON](https://ko.wikipedia.org/wiki/HAON "wikilink"),[pH-1](https://ko.wikipedia.org/wiki/pH-1 "wikilink"),[Woodie Gochild도](https://ko.wikipedia.org/wiki/Woodie_Gochild "wikilink") 앨범 참여.
 49. [Yultron](https://ko.wikipedia.org/wiki/Yultron "wikilink")도 다시 앨범 참여.
 50. [Zene The Zilla](https://ko.wikipedia.org/wiki/Zene_The_Zilla "wikilink"),[영비](https://ko.wikipedia.org/wiki/영비 "wikilink"),[Woodie Gochild외](https://ko.wikipedia.org/wiki/Woodie_Gochild "wikilink") 13명도 앨범 참여.
-51. [영비](https://ko.wikipedia.org/wiki/영비 "wikilink"),[최엘비](https://ko.wikipedia.org/wiki/최엘비 "wikilink"),[BRYN](https://ko.wikipedia.org/wiki/BRYN "wikilink") 외 4명도 앨범 참여.
+51. [영비](https://ko.wikipedia.org/wiki/영비 "wikilink"),[최엘비](../Page/최엘비.md "wikilink"),[BRYN](https://ko.wikipedia.org/wiki/BRYN "wikilink") 외 4명도 앨범 참여.
 52. [Maddox](https://ko.wikipedia.org/wiki/Maddox "wikilink"),[MBA](https://ko.wikipedia.org/wiki/MBA_\(음악_그룹\) "wikilink"),[Part Time Cooks](https://ko.wikipedia.org/wiki/Part_Time_Cooks "wikilink") 외 6명도 앨범 참여.
-53. [양홍원](https://ko.wikipedia.org/wiki/양홍원 "wikilink"),[더 콰이엇](https://ko.wikipedia.org/wiki/더_콰이엇 "wikilink") 외 10명도 앨범 참여.
+53. [양홍원](../Page/양홍원.md "wikilink"),[더 콰이엇](https://ko.wikipedia.org/wiki/더_콰이엇 "wikilink") 외 10명도 앨범 참여.
 54. [블랙나인](https://ko.wikipedia.org/wiki/블랙나인 "wikilink"),[돕덕](https://ko.wikipedia.org/wiki/돕덕 "wikilink") 외 5명도 앨범 참여.
 55. [페노메코](https://ko.wikipedia.org/wiki/페노메코 "wikilink")도 앨범 참여.
-56. [염따](https://ko.wikipedia.org/wiki/염따 "wikilink"),[딥플로우](https://ko.wikipedia.org/wiki/딥플로우 "wikilink"),[더 콰이엇](https://ko.wikipedia.org/wiki/더_콰이엇 "wikilink"),[팔로알토](https://ko.wikipedia.org/wiki/팔로알토 "wikilink")도 앨범 참여.
-57. [염따](https://ko.wikipedia.org/wiki/염따 "wikilink"),[딥플로우](https://ko.wikipedia.org/wiki/딥플로우 "wikilink"),[더 콰이엇](https://ko.wikipedia.org/wiki/더_콰이엇 "wikilink"),[팔로알토](https://ko.wikipedia.org/wiki/팔로알토 "wikilink")도 다시 앨범 참여.
-58. [염따](https://ko.wikipedia.org/wiki/염따 "wikilink"),[딥플로우](https://ko.wikipedia.org/wiki/딥플로우 "wikilink"),[더 콰이엇](https://ko.wikipedia.org/wiki/더_콰이엇 "wikilink"),[팔로알토](https://ko.wikipedia.org/wiki/팔로알토 "wikilink")도 또다시 앨범 참여.
-59. [염따](https://ko.wikipedia.org/wiki/염따 "wikilink"),[딥플로우](https://ko.wikipedia.org/wiki/딥플로우 "wikilink"),[더 콰이엇](https://ko.wikipedia.org/wiki/더_콰이엇 "wikilink"),[팔로알토](https://ko.wikipedia.org/wiki/팔로알토 "wikilink")도 다시 한번 앨범 참여.
+56. [염따](../Page/염따.md "wikilink"),[딥플로우](../Page/딥플로우.md "wikilink"),[더 콰이엇](https://ko.wikipedia.org/wiki/더_콰이엇 "wikilink"),[팔로알토](https://ko.wikipedia.org/wiki/팔로알토 "wikilink")도 앨범 참여.
+57. [염따](../Page/염따.md "wikilink"),[딥플로우](../Page/딥플로우.md "wikilink"),[더 콰이엇](https://ko.wikipedia.org/wiki/더_콰이엇 "wikilink"),[팔로알토](https://ko.wikipedia.org/wiki/팔로알토 "wikilink")도 다시 앨범 참여.
+58. [염따](../Page/염따.md "wikilink"),[딥플로우](../Page/딥플로우.md "wikilink"),[더 콰이엇](https://ko.wikipedia.org/wiki/더_콰이엇 "wikilink"),[팔로알토](https://ko.wikipedia.org/wiki/팔로알토 "wikilink")도 또다시 앨범 참여.
+59. [염따](../Page/염따.md "wikilink"),[딥플로우](../Page/딥플로우.md "wikilink"),[더 콰이엇](https://ko.wikipedia.org/wiki/더_콰이엇 "wikilink"),[팔로알토](https://ko.wikipedia.org/wiki/팔로알토 "wikilink")도 다시 한번 앨범 참여.

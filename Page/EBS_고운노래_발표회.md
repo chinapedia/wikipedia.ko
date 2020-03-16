@@ -1,10 +1,10 @@
 > This article is converted from Wikipedia: [EBS  ](https://ko.wikipedia.org/wiki/EBS__).
 
 
-**EBS 고운노래 발표회**는 [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink")에 시작되어 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink")에 폐지된 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 동요제이다. EBS 고운노래 발표회는 [한국교육방송공사](https://ko.wikipedia.org/wiki/한국교육방송공사 "wikilink")가 새로운 동요의 발굴과 보급을 위하여 기획된 동요제였으며, 해마다 12곡가량의 창작동요를 발표하는데 기여되었다. 한국교육방송공사로서의 유일한 동요대회로, [MBC 창작동요제와](https://ko.wikipedia.org/wiki/MBC_창작동요제 "wikilink") [KBS 창작동요대회를](../Page/KBS_창작동요대회.md "wikilink") 견줄만한 메이저 동요대회로써 자리를 잡았다.
+**EBS 고운노래 발표회**는 [1998년](../Page/1998년.md "wikilink")에 시작되어 [2010년](../Page/2010년.md "wikilink")에 폐지된 [대한민국](../Page/대한민국.md "wikilink")의 동요제이다. EBS 고운노래 발표회는 [한국교육방송공사](../Page/한국교육방송공사.md "wikilink")가 새로운 동요의 발굴과 보급을 위하여 기획된 동요제였으며, 해마다 12곡가량의 창작동요를 발표하는데 기여되었다. 한국교육방송공사로서의 유일한 동요대회로, [MBC 창작동요제와](../Page/MBC_창작동요제.md "wikilink") [KBS 창작동요대회를](../Page/KBS_창작동요대회.md "wikilink") 견줄만한 메이저 동요대회로써 자리를 잡았다.
 
-[한국교육방송공사](https://ko.wikipedia.org/wiki/한국교육방송공사 "wikilink")가 주최하는 관계로, 먼저 방송국에서 예선을 거친뒤, 12곡의 본선진출자를 가려내어 경연한다.
-방영 날짜는, 동요 반달이 창작된 가을에 [EBS TV와](https://ko.wikipedia.org/wiki/EBS_TV "wikilink") [EBS FM에](https://ko.wikipedia.org/wiki/EBS_FM "wikilink") 동시에 방송되었다. 그리고 대회가 거듭될수록 동요계의 발전과 기여를 했으며 주옥같은 곡이 초등학교에서 많이 불러지기를 희망하고 있다. 그러나 명맥을 계속 이어가던도중, [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink")에 발생한 [천안함 사건과](https://ko.wikipedia.org/wiki/천안함_사건 "wikilink") [연평도 포격 사건으로](https://ko.wikipedia.org/wiki/연평도_포격_사건 "wikilink") 인한 국가 애도기간에 맞물려 동요계 시장 축소 및 저조한 시청률, 방송 기회의 변질등 여러가지 악재가 작용하면서 결국 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") 제12회를 마지막으로 본 대회를 전면 폐지하였다.
+[한국교육방송공사](../Page/한국교육방송공사.md "wikilink")가 주최하는 관계로, 먼저 방송국에서 예선을 거친뒤, 12곡의 본선진출자를 가려내어 경연한다.
+방영 날짜는, 동요 반달이 창작된 가을에 [EBS TV와](https://ko.wikipedia.org/wiki/EBS_TV "wikilink") [EBS FM에](../Page/EBS_FM.md "wikilink") 동시에 방송되었다. 그리고 대회가 거듭될수록 동요계의 발전과 기여를 했으며 주옥같은 곡이 초등학교에서 많이 불러지기를 희망하고 있다. 그러나 명맥을 계속 이어가던도중, [2010년](../Page/2010년.md "wikilink")에 발생한 [천안함 사건과](https://ko.wikipedia.org/wiki/천안함_사건 "wikilink") [연평도 포격 사건으로](https://ko.wikipedia.org/wiki/연평도_포격_사건 "wikilink") 인한 국가 애도기간에 맞물려 동요계 시장 축소 및 저조한 시청률, 방송 기회의 변질등 여러가지 악재가 작용하면서 결국 [2009년](../Page/2009년.md "wikilink") 제12회를 마지막으로 본 대회를 전면 폐지하였다.
 
 ## 역대 대상 수상곡
 
@@ -22,7 +22,7 @@
 <tbody>
 <tr class="odd">
 <td><p>제1회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1998년" title="wikilink">1998년</a></p></td>
+<td><p><a href="../Page/1998년.md" title="wikilink">1998년</a></p></td>
 <td><p>이슬의 아침체조</p></td>
 <td><p>권호경</p></td>
 <td><p>방혜란</p></td>
@@ -30,7 +30,7 @@
 </tr>
 <tr class="even">
 <td><p>제2회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1999년" title="wikilink">1999년</a></p></td>
+<td><p><a href="../Page/1999년.md" title="wikilink">1999년</a></p></td>
 <td><p>새들의 노래</p></td>
 <td><p>함은지</p></td>
 <td><p>함은지</p></td>
@@ -38,7 +38,7 @@
 </tr>
 <tr class="odd">
 <td><p>제3회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2000년" title="wikilink">2000년</a></p></td>
+<td><p><a href="../Page/2000년.md" title="wikilink">2000년</a></p></td>
 <td><p>무릎학교</p></td>
 <td><p>하청호</p></td>
 <td><p>오현주</p></td>
@@ -46,7 +46,7 @@
 </tr>
 <tr class="even">
 <td><p>제4회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2001년" title="wikilink">2001년</a></p></td>
+<td><p><a href="../Page/2001년.md" title="wikilink">2001년</a></p></td>
 <td><p>잠자리</p></td>
 <td><p>박수진</p></td>
 <td><p>김애경</p></td>
@@ -54,7 +54,7 @@
 </tr>
 <tr class="odd">
 <td><p>제5회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2002년" title="wikilink">2002년</a></p></td>
+<td><p><a href="../Page/2002년.md" title="wikilink">2002년</a></p></td>
 <td><p>그네뛰기</p></td>
 <td><p>이성관</p></td>
 <td><p>손정우</p></td>
@@ -63,7 +63,7 @@
 </tr>
 <tr class="even">
 <td><p>제6회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2003년" title="wikilink">2003년</a></p></td>
+<td><p><a href="../Page/2003년.md" title="wikilink">2003년</a></p></td>
 <td><p>가랑잎 엽서</p></td>
 <td><p>신현득</p></td>
 <td><p>홍재근</p></td>
@@ -71,7 +71,7 @@
 </tr>
 <tr class="odd">
 <td><p>제7회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2004년" title="wikilink">2004년</a></p></td>
+<td><p><a href="../Page/2004년.md" title="wikilink">2004년</a></p></td>
 <td><p>엄마의 이야기</p></td>
 <td><p>조은별</p></td>
 <td><p>조원호</p></td>
@@ -79,7 +79,7 @@
 </tr>
 <tr class="even">
 <td><p>제8회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2005년" title="wikilink">2005년</a></p></td>
+<td><p><a href="../Page/2005년.md" title="wikilink">2005년</a></p></td>
 <td><p>풍뎅이 맴맴</p></td>
 <td><p>김원겸</p></td>
 <td><p>이은정</p></td>
@@ -87,7 +87,7 @@
 </tr>
 <tr class="odd">
 <td><p>제9회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2006년" title="wikilink">2006년</a></p></td>
+<td><p><a href="../Page/2006년.md" title="wikilink">2006년</a></p></td>
 <td><p>아침의 노래</p></td>
 <td><p>김옥순</p></td>
 <td><p>임수연</p></td>
@@ -97,7 +97,7 @@
 </tr>
 <tr class="even">
 <td><p>제10회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2007년" title="wikilink">2007년</a></p></td>
+<td><p><a href="../Page/2007년.md" title="wikilink">2007년</a></p></td>
 <td><p>아무 말 없이</p></td>
 <td><p>김봉학</p></td>
 <td><p>김봉학</p></td>
@@ -105,7 +105,7 @@
 </tr>
 <tr class="odd">
 <td><p>제11회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2008년" title="wikilink">2008년</a></p></td>
+<td><p><a href="../Page/2008년.md" title="wikilink">2008년</a></p></td>
 <td><p>꿈 속 나라</p></td>
 <td><p>한예찬</p></td>
 <td><p>최재혁</p></td>
@@ -114,7 +114,7 @@
 <tr class="even">
 <td><p>제12회<br />
 (마지막회)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2009년" title="wikilink">2009년</a></p></td>
+<td><p><a href="../Page/2009년.md" title="wikilink">2009년</a></p></td>
 <td><p>꿈 저금통</p></td>
 <td><p>김유정</p></td>
 <td><p>배인숙</p></td>
@@ -277,9 +277,9 @@
 <tbody>
 <tr class="odd">
 <td style="text-align: left;"><ul>
-<li>일시 : <a href="https://ko.wikipedia.org/wiki/1999년" title="wikilink">1999년</a> <a href="https://ko.wikipedia.org/wiki/7월_28일" title="wikilink">7월 28일</a> (수)</li>
+<li>일시 : <a href="../Page/1999년.md" title="wikilink">1999년</a> <a href="../Page/7월_28일.md" title="wikilink">7월 28일</a> (수)</li>
 <li>장소 : 성남시민회관</li>
-<li>방송 : <a href="https://ko.wikipedia.org/wiki/1999년" title="wikilink">1999년</a> <a href="https://ko.wikipedia.org/wiki/7월_30일" title="wikilink">7월 30일</a> (금) EBS 라디오</li>
+<li>방송 : <a href="../Page/1999년.md" title="wikilink">1999년</a> <a href="../Page/7월_30일.md" title="wikilink">7월 30일</a> (금) EBS 라디오</li>
 </ul>
 <p><strong>참가팀 :</strong> 총 220곡이 참가해 예선을 거쳐 본선에 12팀이 오름.<br />
 </p>
@@ -414,9 +414,9 @@
 <tbody>
 <tr class="odd">
 <td style="text-align: left;"><ul>
-<li>일시 : <a href="https://ko.wikipedia.org/wiki/2000년" title="wikilink">2000년</a> <a href="https://ko.wikipedia.org/wiki/7월_15일" title="wikilink">7월 15일</a> (토)</li>
+<li>일시 : <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/7월_15일.md" title="wikilink">7월 15일</a> (토)</li>
 <li>장소 : 과천시민회관</li>
-<li>방송 : <a href="https://ko.wikipedia.org/wiki/2000년" title="wikilink">2000년</a> <a href="https://ko.wikipedia.org/wiki/7월_28일" title="wikilink">7월 28일</a> (금) EBS 라디오</li>
+<li>방송 : <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/7월_28일.md" title="wikilink">7월 28일</a> (금) EBS 라디오</li>
 </ul>
 <p><strong>참가팀 :</strong> 총 276곡이 참가해 1차 예선에 66곡, 2차 예선을 거쳐 본선에 12팀이 오름.<br />
 </p>
@@ -552,7 +552,7 @@
 <tr class="odd">
 <td style="text-align: left;"><ul>
 <li>장소 : 무주 반딧불 축제 행사장</li>
-<li>방송 : <a href="https://ko.wikipedia.org/wiki/2001년" title="wikilink">2001년</a> <a href="https://ko.wikipedia.org/wiki/9월_9일" title="wikilink">9월 9일</a> (일)</li>
+<li>방송 : <a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/9월_9일.md" title="wikilink">9월 9일</a> (일)</li>
 </ul>
 <p><strong>참가팀 :</strong> 총 195곡이 참가해 1, 2차 예선을 거쳐 본선에 12팀이 오름.<br />
 </p>
@@ -687,9 +687,9 @@
 <tbody>
 <tr class="odd">
 <td style="text-align: left;"><ul>
-<li>일시 : <a href="https://ko.wikipedia.org/wiki/2002년" title="wikilink">2002년</a> <a href="https://ko.wikipedia.org/wiki/8월_24일" title="wikilink">8월 24일</a> (토) 오후 7시 30분</li>
+<li>일시 : <a href="../Page/2002년.md" title="wikilink">2002년</a> <a href="../Page/8월_24일.md" title="wikilink">8월 24일</a> (토) 오후 7시 30분</li>
 <li>장소 : 무주 반딧불 축제 행사장</li>
-<li>방송 : <a href="https://ko.wikipedia.org/wiki/2002년" title="wikilink">2002년</a> <a href="https://ko.wikipedia.org/wiki/8월_31일" title="wikilink">8월 31일</a> (토) 오후 4시, EBS 라디오</li>
+<li>방송 : <a href="../Page/2002년.md" title="wikilink">2002년</a> <a href="../Page/8월_31일.md" title="wikilink">8월 31일</a> (토) 오후 4시, EBS 라디오</li>
 </ul>
 <p><strong>참가팀 :</strong> 총 212곡이 참가해 1, 2차 예선을 거쳐 본선에 12팀이 오름.<br />
 </p>
@@ -824,9 +824,9 @@
 <tbody>
 <tr class="odd">
 <td style="text-align: left;"><ul>
-<li>일시 : <a href="https://ko.wikipedia.org/wiki/2003년" title="wikilink">2003년</a> <a href="https://ko.wikipedia.org/wiki/11월_15일" title="wikilink">11월 15일</a> (토) 오후 4시</li>
+<li>일시 : <a href="../Page/2003년.md" title="wikilink">2003년</a> <a href="../Page/11월_15일.md" title="wikilink">11월 15일</a> (토) 오후 4시</li>
 <li>장소 : 부천시청 대강당</li>
-<li>방송 : <a href="https://ko.wikipedia.org/wiki/2003년" title="wikilink">2003년</a> <a href="https://ko.wikipedia.org/wiki/11월_22일" title="wikilink">11월 22일</a> (토) 오후 3시 20분 (라디오, 오후 5시)</li>
+<li>방송 : <a href="../Page/2003년.md" title="wikilink">2003년</a> <a href="../Page/11월_22일.md" title="wikilink">11월 22일</a> (토) 오후 3시 20분 (라디오, 오후 5시)</li>
 </ul>
 <p><strong>참가팀 :</strong> 총 249곡이 참가해 1, 2차 예선을 거쳐 본선에 12팀이 오름.<br />
 </p>
@@ -961,9 +961,9 @@
 <tbody>
 <tr class="odd">
 <td style="text-align: left;"><ul>
-<li>일시 : <a href="https://ko.wikipedia.org/wiki/2004년" title="wikilink">2004년</a> <a href="https://ko.wikipedia.org/wiki/12월_18일" title="wikilink">12월 18일</a> (토) 오후 5시</li>
+<li>일시 : <a href="../Page/2004년.md" title="wikilink">2004년</a> <a href="../Page/12월_18일.md" title="wikilink">12월 18일</a> (토) 오후 5시</li>
 <li>장소 : 부천시청 대강당</li>
-<li>방송 : <a href="https://ko.wikipedia.org/wiki/2004년" title="wikilink">2004년</a> <a href="https://ko.wikipedia.org/wiki/12월_31일" title="wikilink">12월 31일</a> (금) 오후 6시 50분 (라디오, <a href="https://ko.wikipedia.org/wiki/12월_26일" title="wikilink">12월 26일</a>)</li>
+<li>방송 : <a href="../Page/2004년.md" title="wikilink">2004년</a> <a href="../Page/12월_31일.md" title="wikilink">12월 31일</a> (금) 오후 6시 50분 (라디오, <a href="../Page/12월_26일.md" title="wikilink">12월 26일</a>)</li>
 </ul>
 <p><strong>참가팀 :</strong> 총 198곡이 참가해 1, 2차 예선을 거쳐 본선에 12팀이 오름.<br />
 </p>
@@ -1098,10 +1098,10 @@
 <tbody>
 <tr class="odd">
 <td style="text-align: left;"><ul>
-<li>일시 : <a href="https://ko.wikipedia.org/wiki/2005년" title="wikilink">2005년</a> <a href="https://ko.wikipedia.org/wiki/9월_10일" title="wikilink">9월 10일</a> (토) 오후 4시</li>
-<li>장소 : 한전아트센터 (서울 <a href="https://ko.wikipedia.org/wiki/양재동" title="wikilink">양재동</a>)</li>
-<li>진행 : <a href="../Page/문용현.md" title="wikilink">문용현</a>, <a href="https://ko.wikipedia.org/wiki/정인선" title="wikilink">정인선</a></li>
-<li>방송 : <a href="https://ko.wikipedia.org/wiki/2005년" title="wikilink">2005년</a> <a href="https://ko.wikipedia.org/wiki/9월_17일" title="wikilink">9월 17일</a> (토) 오후 6시 20분 (라디오, <a href="https://ko.wikipedia.org/wiki/9월_19일" title="wikilink">9월 19일</a> (월) 오전 11시)</li>
+<li>일시 : <a href="../Page/2005년.md" title="wikilink">2005년</a> <a href="../Page/9월_10일.md" title="wikilink">9월 10일</a> (토) 오후 4시</li>
+<li>장소 : 한전아트센터 (서울 <a href="../Page/양재동.md" title="wikilink">양재동</a>)</li>
+<li>진행 : <a href="../Page/문용현.md" title="wikilink">문용현</a>, <a href="../Page/정인선.md" title="wikilink">정인선</a></li>
+<li>방송 : <a href="../Page/2005년.md" title="wikilink">2005년</a> <a href="../Page/9월_17일.md" title="wikilink">9월 17일</a> (토) 오후 6시 20분 (라디오, <a href="../Page/9월_19일.md" title="wikilink">9월 19일</a> (월) 오전 11시)</li>
 </ul>
 <p><strong>참가팀 :</strong> 1, 2차 예선을 거쳐 본선에 12팀이 오름.<br />
 </p>
@@ -1236,10 +1236,10 @@
 <tbody>
 <tr class="odd">
 <td style="text-align: left;"><ul>
-<li>일시 : <a href="https://ko.wikipedia.org/wiki/2006년" title="wikilink">2006년</a> <a href="https://ko.wikipedia.org/wiki/9월_20일" title="wikilink">9월 20일</a> (수) 오후 7시</li>
+<li>일시 : <a href="../Page/2006년.md" title="wikilink">2006년</a> <a href="../Page/9월_20일.md" title="wikilink">9월 20일</a> (수) 오후 7시</li>
 <li>장소 : 서울 양재동 교육문화회관</li>
 <li>진행 : <a href="../Page/문용현.md" title="wikilink">문용현</a>, <a href="https://ko.wikipedia.org/wiki/길수현" title="wikilink">길수현</a></li>
-<li>방송 : <a href="https://ko.wikipedia.org/wiki/2006년" title="wikilink">2006년</a> <a href="https://ko.wikipedia.org/wiki/10월_6일" title="wikilink">10월 6일</a> (금) 오후 5시 40분 (라디오, <a href="https://ko.wikipedia.org/wiki/10월_8일" title="wikilink">10월 8일</a> (일) 오후 6시)</li>
+<li>방송 : <a href="../Page/2006년.md" title="wikilink">2006년</a> <a href="../Page/10월_6일.md" title="wikilink">10월 6일</a> (금) 오후 5시 40분 (라디오, <a href="../Page/10월_8일.md" title="wikilink">10월 8일</a> (일) 오후 6시)</li>
 </ul>
 <p><strong>참가팀 :</strong> 1, 2차 예선을 거쳐 본선에 12팀이 오름.<br />
 </p>
@@ -1374,10 +1374,10 @@
 <tbody>
 <tr class="odd">
 <td style="text-align: left;"><ul>
-<li>일시 : <a href="https://ko.wikipedia.org/wiki/2007년" title="wikilink">2007년</a> <a href="https://ko.wikipedia.org/wiki/10월_3일" title="wikilink">10월 3일</a> (수) 오후 4시</li>
+<li>일시 : <a href="../Page/2007년.md" title="wikilink">2007년</a> <a href="../Page/10월_3일.md" title="wikilink">10월 3일</a> (수) 오후 4시</li>
 <li>장소 : 하남문화예술회관</li>
-<li>진행 : <a href="../Page/문용현.md" title="wikilink">문용현</a>, <a href="https://ko.wikipedia.org/wiki/전제향" title="wikilink">전제향</a></li>
-<li>방송 : <a href="https://ko.wikipedia.org/wiki/2007년" title="wikilink">2007년</a> <a href="https://ko.wikipedia.org/wiki/10월_14일" title="wikilink">10월 14일</a> (일) 오전 10시 40분 (라디오, <a href="https://ko.wikipedia.org/wiki/10월_14일" title="wikilink">10월 14일</a> (일) 오후 2시)</li>
+<li>진행 : <a href="../Page/문용현.md" title="wikilink">문용현</a>, <a href="../Page/전제향.md" title="wikilink">전제향</a></li>
+<li>방송 : <a href="../Page/2007년.md" title="wikilink">2007년</a> <a href="../Page/10월_14일.md" title="wikilink">10월 14일</a> (일) 오전 10시 40분 (라디오, <a href="../Page/10월_14일.md" title="wikilink">10월 14일</a> (일) 오후 2시)</li>
 </ul>
 <p><strong>참가팀 :</strong> 1, 2차 예선을 거쳐 본선에 12팀이 오름.<br />
 </p>
@@ -1512,10 +1512,10 @@
 <tbody>
 <tr class="odd">
 <td style="text-align: left;"><ul>
-<li>일시 : <a href="https://ko.wikipedia.org/wiki/2008년" title="wikilink">2008년</a> <a href="https://ko.wikipedia.org/wiki/8월_31일" title="wikilink">8월 31일</a> (일) 오후 7시 30분</li>
+<li>일시 : <a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/8월_31일.md" title="wikilink">8월 31일</a> (일) 오후 7시 30분</li>
 <li>장소 : <a href="https://ko.wikipedia.org/wiki/국립극장" title="wikilink">국립극장</a> KB청소년하늘극장</li>
-<li>진행 : <a href="https://ko.wikipedia.org/wiki/김생민" title="wikilink">김생민</a>, <a href="https://ko.wikipedia.org/wiki/김소영" title="wikilink">김소영</a></li>
-<li>방송 : <a href="https://ko.wikipedia.org/wiki/2008년" title="wikilink">2008년</a> <a href="https://ko.wikipedia.org/wiki/9월_13일" title="wikilink">9월 13일</a> (토) 오후 5시 (라디오, <a href="https://ko.wikipedia.org/wiki/9월_14일" title="wikilink">9월 14일</a> (일) 오후 2시)</li>
+<li>진행 : <a href="../Page/김생민.md" title="wikilink">김생민</a>, <a href="https://ko.wikipedia.org/wiki/김소영" title="wikilink">김소영</a></li>
+<li>방송 : <a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/9월_13일.md" title="wikilink">9월 13일</a> (토) 오후 5시 (라디오, <a href="../Page/9월_14일.md" title="wikilink">9월 14일</a> (일) 오후 2시)</li>
 </ul>
 <p><strong>참가팀 :</strong>총 229곡이 응모하여 1, 2차 예선을 거쳐 본선에 12팀이 오름.<br />
 </p>
@@ -1651,10 +1651,10 @@
 <tbody>
 <tr class="odd">
 <td style="text-align: left;"><ul>
-<li>일시 : <a href="https://ko.wikipedia.org/wiki/2009년" title="wikilink">2009년</a> <a href="https://ko.wikipedia.org/wiki/9월_13일" title="wikilink">9월 13일</a> (일) 오후 4시</li>
+<li>일시 : <a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/9월_13일.md" title="wikilink">9월 13일</a> (일) 오후 4시</li>
 <li>장소 : 과천시민회관 대극장</li>
-<li>진행 : <a href="https://ko.wikipedia.org/wiki/유상무" title="wikilink">유상무</a>, <a href="https://ko.wikipedia.org/wiki/스미스" title="wikilink">스미스</a>, <a href="https://ko.wikipedia.org/wiki/서효명" title="wikilink">서효명</a></li>
-<li>방송 : <a href="https://ko.wikipedia.org/wiki/2009년" title="wikilink">2009년</a> <a href="https://ko.wikipedia.org/wiki/10월_4일" title="wikilink">10월 4일</a> (일) 오전 10시</li>
+<li>진행 : <a href="../Page/유상무.md" title="wikilink">유상무</a>, <a href="https://ko.wikipedia.org/wiki/스미스" title="wikilink">스미스</a>, <a href="https://ko.wikipedia.org/wiki/서효명" title="wikilink">서효명</a></li>
+<li>방송 : <a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/10월_4일.md" title="wikilink">10월 4일</a> (일) 오전 10시</li>
 </ul>
 <p><strong>참가팀 :</strong>총 257곡이 응모하여 1, 2차 예선을 거쳐 본선에 12팀이 오름.<br />
 </p>
@@ -1782,7 +1782,7 @@
 
 ## 대회 폐지 및 중단
 
-**EBS 고운노래 발표회**는 방송국의 사정 및 동요 보급의 저조 및 음악계 시장의 지각변동, 그리고 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") 3월에 발생한 [천안함 침몰사고](https://ko.wikipedia.org/wiki/천안함_사건 "wikilink"), 같은 해 11월에 발생한 [연평도 포격사건](https://ko.wikipedia.org/wiki/연평도_포격사건 "wikilink"), TV 경연장 전락, 순수 동요대회의 변질 및 인맥의 작용 등으로 인해, 경연장 변질이 우려되었고, 여러가지 악재의 작용으로, [EBS](https://ko.wikipedia.org/wiki/EBS "wikilink")는, [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink")에 개최할 예정이던 제13회 고운노래 발표회 계획을 전면 취소 하였다.\[1\] 결국 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") 12회를 끝으로, 본 대회를 전면 중단, 폐지에 들어가 역사속으로 영원히 사라지게 되었다.
+**EBS 고운노래 발표회**는 방송국의 사정 및 동요 보급의 저조 및 음악계 시장의 지각변동, 그리고 [2010년](../Page/2010년.md "wikilink") 3월에 발생한 [천안함 침몰사고](https://ko.wikipedia.org/wiki/천안함_사건 "wikilink"), 같은 해 11월에 발생한 [연평도 포격사건](https://ko.wikipedia.org/wiki/연평도_포격사건 "wikilink"), TV 경연장 전락, 순수 동요대회의 변질 및 인맥의 작용 등으로 인해, 경연장 변질이 우려되었고, 여러가지 악재의 작용으로, [EBS](https://ko.wikipedia.org/wiki/EBS "wikilink")는, [2010년](../Page/2010년.md "wikilink")에 개최할 예정이던 제13회 고운노래 발표회 계획을 전면 취소 하였다.\[1\] 결국 [2009년](../Page/2009년.md "wikilink") 12회를 끝으로, 본 대회를 전면 중단, 폐지에 들어가 역사속으로 영원히 사라지게 되었다.
 
 ## 각주
 
@@ -1792,7 +1792,7 @@
 
   - [KBS 초록동요제](../Page/KBS_초록동요제.md "wikilink")
   - [KBS 창작동요대회](../Page/KBS_창작동요대회.md "wikilink")
-  - [MBC 창작동요제](https://ko.wikipedia.org/wiki/MBC_창작동요제 "wikilink")
+  - [MBC 창작동요제](../Page/MBC_창작동요제.md "wikilink")
   - [서덕출 창작동요제](../Page/서덕출_창작동요제.md "wikilink")
   - [고향의 봄 창작동요제](../Page/고향의_봄_창작동요제.md "wikilink")
   - [국악동요제](../Page/국악동요제.md "wikilink")

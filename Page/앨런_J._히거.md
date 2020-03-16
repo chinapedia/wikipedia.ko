@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ J. ](https://ko.wikipedia.org/wiki/_J._).
 
 
-**앨런 제이 히거**(, [1936년](https://ko.wikipedia.org/wiki/1936년 "wikilink") [1월 22일](https://ko.wikipedia.org/wiki/1월_22일 "wikilink") \~ )는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [물리학](https://ko.wikipedia.org/wiki/물리학 "wikilink")자이다. 2000년에 [전도성 고분자의](https://ko.wikipedia.org/wiki/전도성_고분자 "wikilink") 발견에 의한 공로로 [앨런 맥더미드](../Page/앨런_맥더미드.md "wikilink"), [시라카와 히데키와](../Page/시라카와_히데키.md "wikilink") 함께 [노벨 화학상을](https://ko.wikipedia.org/wiki/노벨_화학상 "wikilink") 수상했다.
+**앨런 제이 히거**(, [1936년](../Page/1936년.md "wikilink") [1월 22일](../Page/1월_22일.md "wikilink") \~ )는 [미국](../Page/미국.md "wikilink")의 [물리학](../Page/물리학.md "wikilink")자이다. 2000년에 [전도성 고분자의](https://ko.wikipedia.org/wiki/전도성_고분자 "wikilink") 발견에 의한 공로로 [앨런 맥더미드](../Page/앨런_맥더미드.md "wikilink"), [시라카와 히데키와](../Page/시라카와_히데키.md "wikilink") 함께 [노벨 화학상을](https://ko.wikipedia.org/wiki/노벨_화학상 "wikilink") 수상했다.
 
 ## 수상 경력
 
@@ -14,11 +14,11 @@
 
   -
   -
-  - Heeger, A. J. and A. G. MacDiarmid. "[Polyacetylene, (CH){sub x}, as an Emerging Material for Solar Cell Applications. Final Technical Report, March 19, 1979 - March 18, 1980,](http://www.osti.gov/cgi-bin/rd_accomplishments/display_biblio.cgi?id=ACC0443&numPages=19&fp=N)" [University of Pennsylvania](https://ko.wikipedia.org/wiki/펜실베이니아_대학교 "wikilink"), [United States Department of Energy](https://ko.wikipedia.org/wiki/미국_에너지부 "wikilink"), (June 5, 1980).
+  - Heeger, A. J. and A. G. MacDiarmid. "[Polyacetylene, (CH){sub x}, as an Emerging Material for Solar Cell Applications. Final Technical Report, March 19, 1979 - March 18, 1980,](http://www.osti.gov/cgi-bin/rd_accomplishments/display_biblio.cgi?id=ACC0443&numPages=19&fp=N)" [University of Pennsylvania](../Page/펜실베이니아_대학교.md "wikilink"), [United States Department of Energy](../Page/미국_에너지부.md "wikilink"), (June 5, 1980).
 
-  - Heeger, A. J., Sinclair, M., et al. "[Subgap Absorption in Conjugated Polymers,](http://www.osti.gov/cgi-bin/rd_accomplishments/display_biblio.cgi?id=ACC0471&numPages=13&fp=N)" [Sandia National Laboratory](https://ko.wikipedia.org/wiki/샌디아_국립_연구소 "wikilink"), [United States Department of Energy](https://ko.wikipedia.org/wiki/미국_에너지부 "wikilink"), (1991).
+  - Heeger, A. J., Sinclair, M., et al. "[Subgap Absorption in Conjugated Polymers,](http://www.osti.gov/cgi-bin/rd_accomplishments/display_biblio.cgi?id=ACC0471&numPages=13&fp=N)" [Sandia National Laboratory](../Page/샌디아_국립_연구소.md "wikilink"), [United States Department of Energy](../Page/미국_에너지부.md "wikilink"), (1991).
 
-  - Heeger, A. J., Sinclair, M., et al. "[Measurements of Photo-induced Changes in Conjugated Polymers,](http://www.osti.gov/cgi-bin/rd_accomplishments/display_biblio.cgi?id=ACC0472&numPages=17&fp=N)" [Sandia National Laboratory](https://ko.wikipedia.org/wiki/샌디아_국립_연구소 "wikilink"), [United States Department of Energy](https://ko.wikipedia.org/wiki/미국_에너지부 "wikilink"), (1991).
+  - Heeger, A. J., Sinclair, M., et al. "[Measurements of Photo-induced Changes in Conjugated Polymers,](http://www.osti.gov/cgi-bin/rd_accomplishments/display_biblio.cgi?id=ACC0472&numPages=17&fp=N)" [Sandia National Laboratory](../Page/샌디아_국립_연구소.md "wikilink"), [United States Department of Energy](../Page/미국_에너지부.md "wikilink"), (1991).
 
 ## 같이 보기
 

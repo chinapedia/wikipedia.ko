@@ -1,38 +1,38 @@
 > This article is converted from Wikipedia: [J Soul Brothers](https://ko.wikipedia.org/wiki/J_Soul_Brothers).
 
 
-**J Soul Brothers**(제이 소울 브라더스)는, [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [댄스](https://ko.wikipedia.org/wiki/춤 "wikilink")&[보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink") [그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink").
+**J Soul Brothers**(제이 소울 브라더스)는, [일본](../Page/일본.md "wikilink")의 [댄스](../Page/춤.md "wikilink")&[보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink") [그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink").
 
-1999년 초대 J Soul Brothers를 결성. 2001년에 그룹의 이름을 [EXILE](https://ko.wikipedia.org/wiki/EXILE "wikilink")로 개명한 이후로 초대 J Soul Brothers의 명의로 활동하는 것은 종료되었다. 2007년에 새로운 멤버들로 2대 J Soul Brothers를 결성. 2009년에 2대의 멤버들이 전원 EXILE에 가입하게되어 2대 J Soul Brothers의 명의로 활동하는 것은 종료되었다. 2010년에 새로운 멤버들로 3대 J Soul Brothers를 결성. 현재 **산다이메 J Soul Brothers** 또는 **산다이메 J Soul Brothers from EXILE TRIBE**의 명의로 활동 중이다.
+1999년 초대 J Soul Brothers를 결성. 2001년에 그룹의 이름을 [EXILE](../Page/EXILE.md "wikilink")로 개명한 이후로 초대 J Soul Brothers의 명의로 활동하는 것은 종료되었다. 2007년에 새로운 멤버들로 2대 J Soul Brothers를 결성. 2009년에 2대의 멤버들이 전원 EXILE에 가입하게되어 2대 J Soul Brothers의 명의로 활동하는 것은 종료되었다. 2010년에 새로운 멤버들로 3대 J Soul Brothers를 결성. 현재 **산다이메 J Soul Brothers** 또는 **산다이메 J Soul Brothers from EXILE TRIBE**의 명의로 활동 중이다.
 
-[LDH](../Page/LDH_\(기업\).md "wikilink") 소속. 레이블은 [rhythm zone](https://ko.wikipedia.org/wiki/리듬존 "wikilink").
+[LDH](../Page/LDH_\(기업\).md "wikilink") 소속. 레이블은 [rhythm zone](../Page/리듬존.md "wikilink").
 
 ## 멤버
 
-| 이름                                                              | 담당     |
-| --------------------------------------------------------------- | ------ |
-| 초대                                                              |        |
-| **[HIRO](https://ko.wikipedia.org/wiki/이가라시_히로유키 "wikilink")**  | 퍼포머    |
-| **[MATSU](https://ko.wikipedia.org/wiki/마츠모토_토시오 "wikilink")**  |        |
-| **[USA](https://ko.wikipedia.org/wiki/우사미_요시히로 "wikilink")**    |        |
-| **[MAKIDAI](https://ko.wikipedia.org/wiki/마키_다이스케 "wikilink")** |        |
-| **[SASA](https://ko.wikipedia.org/wiki/SASA "wikilink")**       | 보컬&컴포저 |
-| 2대                                                              |        |
-| **[KENCHI](../Page/타치바나_켄치.md "wikilink")**                     | 퍼포머    |
-| **[KEIJI](../Page/쿠로키_케이지.md "wikilink")**                      |        |
-| **[TETSUYA](../Page/TETSUYA.md "wikilink")**                    |        |
-| **[NESMITH](../Page/NESMITH.md "wikilink")**                    | 보컬&퍼포머 |
-| **[SHOKICHI](../Page/SHOKICHI.md "wikilink")**                  |        |
-| **[NAOTO](../Page/NAOTO.md "wikilink")**                        | 퍼포머    |
-| **[NAOKI](../Page/NAOKI.md "wikilink")**                        |        |
-| 3대                                                              |        |
-| **[NAOTO](../Page/NAOTO.md "wikilink")**                        | 리더&퍼포머 |
-| **[코바야시 나오키](../Page/NAOKI.md "wikilink")**                     |        |
-| **[ELLY](../Page/ELLY.md "wikilink")**                          | 퍼포머    |
-| **[야마시타 켄지로](../Page/야마시타_켄지로.md "wikilink")**                  |        |
-| **[이와타 타카노리](../Page/이와타_타카노리.md "wikilink")**                  |        |
-| **[이마이치 류지](../Page/이마이치_류지.md "wikilink")**                    | 보컬     |
-| **[토사카 히로오미](../Page/토사카_히로오미.md "wikilink")**                  |        |
+| 이름                                                             | 담당     |
+| -------------------------------------------------------------- | ------ |
+| 초대                                                             |        |
+| **[HIRO](../Page/이가라시_히로유키.md "wikilink")**                    | 퍼포머    |
+| **[MATSU](https://ko.wikipedia.org/wiki/마츠모토_토시오 "wikilink")** |        |
+| **[USA](https://ko.wikipedia.org/wiki/우사미_요시히로 "wikilink")**   |        |
+| **[MAKIDAI](../Page/마키_다이스케.md "wikilink")**                   |        |
+| **[SASA](https://ko.wikipedia.org/wiki/SASA "wikilink")**      | 보컬&컴포저 |
+| 2대                                                             |        |
+| **[KENCHI](../Page/타치바나_켄치.md "wikilink")**                    | 퍼포머    |
+| **[KEIJI](../Page/쿠로키_케이지.md "wikilink")**                     |        |
+| **[TETSUYA](../Page/TETSUYA.md "wikilink")**                   |        |
+| **[NESMITH](../Page/NESMITH.md "wikilink")**                   | 보컬&퍼포머 |
+| **[SHOKICHI](../Page/SHOKICHI.md "wikilink")**                 |        |
+| **[NAOTO](../Page/NAOTO.md "wikilink")**                       | 퍼포머    |
+| **[NAOKI](../Page/NAOKI.md "wikilink")**                       |        |
+| 3대                                                             |        |
+| **[NAOTO](../Page/NAOTO.md "wikilink")**                       | 리더&퍼포머 |
+| **[코바야시 나오키](../Page/NAOKI.md "wikilink")**                    |        |
+| **[ELLY](../Page/ELLY.md "wikilink")**                         | 퍼포머    |
+| **[야마시타 켄지로](../Page/야마시타_켄지로.md "wikilink")**                 |        |
+| **[이와타 타카노리](../Page/이와타_타카노리.md "wikilink")**                 |        |
+| **[이마이치 류지](../Page/이마이치_류지.md "wikilink")**                   | 보컬     |
+| **[토사카 히로오미](../Page/토사카_히로오미.md "wikilink")**                 |        |
 
 ## 음반 목록
 
@@ -423,9 +423,9 @@
 
 ### 버라이어티 방송
 
-  - 주간EXILE (2010년 - , [TBS](https://ko.wikipedia.org/wiki/도쿄_방송_홀딩스 "wikilink"))
+  - 주간EXILE (2010년 - , [TBS](../Page/도쿄_방송_홀딩스.md "wikilink"))
   - EXILE다마시 (2011년 - 2012년, MBS・TBS)
-  - EXILE카지노 (2014년 - 2015년, [후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink"))
+  - EXILE카지노 (2014년 - 2015년, [후지 TV](../Page/후지_TV.md "wikilink"))
   - 성야의 모니터링 & 산다이메 J Soul 크리스마스 4.5시간 SP (2015년 12월 24일, TBS)
 
 ### 영화
@@ -436,7 +436,7 @@
 
   - ABC-MART (2011년 - 2013년)
   - RECRUIT 'ZEXY' (2014년)
-  - [ANA](https://ko.wikipedia.org/wiki/전일본공수 "wikilink") '타비와리' (2015년)
+  - [ANA](../Page/전일본공수.md "wikilink") '타비와리' (2015년)
 
 ### 참여 뮤직 비디오
 
@@ -445,7 +445,7 @@
 
 ### 라디오
 
-  - Keep On Dreaming (2013년, [Fm yokohama](https://ko.wikipedia.org/wiki/요코하마_FM_방송 "wikilink"))
+  - Keep On Dreaming (2013년, [Fm yokohama](../Page/요코하마_FM_방송.md "wikilink"))
 
 ### 잡지
 

@@ -7,7 +7,7 @@
 
 사용자 모드는 커널 모드에 존재하는 입출력 관리자를 통해 적절한 커널 모드 드라이버에 입출력 요청을 보낼 수 있는 하위 시스템으로 이루어진다. 윈도우 NT의 사용자 모드 계층은 환경 하위 시스템(*Environment subsystems*)과 필수 하위 시스템(*Integral subsystem*)을 구성한다.
 
-세 개의 주된 환경 하위 시스템이 존재한다: [Win32](https://ko.wikipedia.org/wiki/윈도우_API "wikilink") 하위 시스템, [OS/2](https://ko.wikipedia.org/wiki/OS/2 "wikilink") 하위 시스템, [POSIX](https://ko.wikipedia.org/wiki/마이크로소프트_POSIX_하위_시스템 "wikilink") 하위 시스템.\[1\]
+세 개의 주된 환경 하위 시스템이 존재한다: [Win32](../Page/윈도우_API.md "wikilink") 하위 시스템, [OS/2](https://ko.wikipedia.org/wiki/OS/2 "wikilink") 하위 시스템, [POSIX](https://ko.wikipedia.org/wiki/마이크로소프트_POSIX_하위_시스템 "wikilink") 하위 시스템.\[1\]
 
 ## 커널 모드
 
@@ -15,7 +15,7 @@
 
 ## 같이 보기
 
-  - [윈도우 NT](https://ko.wikipedia.org/wiki/윈도우_NT "wikilink")
+  - [윈도우 NT](../Page/윈도우_NT.md "wikilink")
 
 ## 각주
 

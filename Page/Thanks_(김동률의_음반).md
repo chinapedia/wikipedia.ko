@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Thanks \( \)](https://ko.wikipedia.org/wiki/Thanks_\(_\)).
 
 
-《**Thanks: The Best Songs 1994-2004**》는 [김동률](https://ko.wikipedia.org/wiki/김동률 "wikilink")의 컴필레이션 앨범이다.
+《**Thanks: The Best Songs 1994-2004**》는 [김동률](../Page/김동률.md "wikilink")의 컴필레이션 앨범이다.
 
 ## 개요
 
-2005년 10주년 콘서트였던 《[초대](https://ko.wikipedia.org/wiki/초대_\(김동률의_음반\) "wikilink")》 콘서트의 라이브 앨범을 발매한 후 2007년 3월 발매한 앨범이다. 앨범 타이틀곡 〈감사〉의 경우 김동률이 직접 작사 및 작곡하였으며 이상민, [정재일](../Page/정재일.md "wikilink") 등의 음악가들이 참여하였다.\[1\] 또한 김동률은 그해 10월 이 앨범의 타이틀곡 〈감사〉로 제 9회 [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 바른언어상 아름다운 노랫말 부분에서 수상하였다.\[2\]
+2005년 10주년 콘서트였던 《[초대](../Page/초대_\(김동률의_음반\).md "wikilink")》 콘서트의 라이브 앨범을 발매한 후 2007년 3월 발매한 앨범이다. 앨범 타이틀곡 〈감사〉의 경우 김동률이 직접 작사 및 작곡하였으며 이상민, [정재일](../Page/정재일.md "wikilink") 등의 음악가들이 참여하였다.\[1\] 또한 김동률은 그해 10월 이 앨범의 타이틀곡 〈감사〉로 제 9회 [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 바른언어상 아름다운 노랫말 부분에서 수상하였다.\[2\]
 
 ## 수록곡
 

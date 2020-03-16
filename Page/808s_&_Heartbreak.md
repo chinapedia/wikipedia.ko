@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [808s \& Heartbreak](https://ko.wikipedia.org/wiki/808s_\&_Heartbreak).
 
 
-***808s & Heartbreak***은 미국의 힙합 가수 [카니예 웨스트가](https://ko.wikipedia.org/wiki/카니예_웨스트 "wikilink") [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 낸 음반이다.
+***808s & Heartbreak***은 미국의 힙합 가수 [카니예 웨스트가](https://ko.wikipedia.org/wiki/카니예_웨스트 "wikilink") [2008년](../Page/2008년.md "wikilink") 낸 음반이다.
 
 ## 수록곡
 

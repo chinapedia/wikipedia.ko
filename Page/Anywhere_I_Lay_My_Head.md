@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Anywhere I Lay My Head](https://ko.wikipedia.org/wiki/Anywhere_I_Lay_My_Head).
 
 
-《**Anywhere I Lay My Head**》는 [스칼렛 요한슨의](https://ko.wikipedia.org/wiki/스칼렛_요한슨 "wikilink") 커버 음반이다. 미국 기준으로, 2008년 5월 16일에 [디지털 다운로드로](https://ko.wikipedia.org/wiki/음악_다운로드 "wikilink") 선행 발매되었고, 20일에 [CD](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink") 및 [LP로](https://ko.wikipedia.org/wiki/LP_\(레코드\) "wikilink") 나왔다.
+《**Anywhere I Lay My Head**》는 [스칼렛 요한슨의](https://ko.wikipedia.org/wiki/스칼렛_요한슨 "wikilink") 커버 음반이다. 미국 기준으로, 2008년 5월 16일에 [디지털 다운로드로](https://ko.wikipedia.org/wiki/음악_다운로드 "wikilink") 선행 발매되었고, 20일에 [CD](../Page/콤팩트_디스크.md "wikilink") 및 [LP로](https://ko.wikipedia.org/wiki/LP_\(레코드\) "wikilink") 나왔다.
 
 ## 제작진
 

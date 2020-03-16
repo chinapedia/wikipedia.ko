@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MBC ](https://ko.wikipedia.org/wiki/MBC_).
 
 
-《**MBC 뉴스네트워크**》는 평일 저녁 6시부터 저녁 6시 10분까지 방송하는 [부산](https://ko.wikipedia.org/wiki/부산문화방송 "wikilink"), [울산](https://ko.wikipedia.org/wiki/울산문화방송 "wikilink"), [경남을](https://ko.wikipedia.org/wiki/MBC경남 "wikilink") 연결하는 오늘의 주요뉴스를 정리하는 퇴근길 저녁종합뉴스 프로그램이다.
+《**MBC 뉴스네트워크**》는 평일 저녁 6시부터 저녁 6시 10분까지 방송하는 [부산](../Page/부산문화방송.md "wikilink"), [울산](../Page/울산문화방송.md "wikilink"), [경남을](../Page/MBC경남.md "wikilink") 연결하는 오늘의 주요뉴스를 정리하는 퇴근길 저녁종합뉴스 프로그램이다.
 
 ## 지역별 주파수 안내
 
@@ -85,10 +85,10 @@
 
 ## 같이 보기
 
-  - [부산문화방송](https://ko.wikipedia.org/wiki/부산문화방송 "wikilink")
-  - [울산문화방송](https://ko.wikipedia.org/wiki/울산문화방송 "wikilink")
-  - [MBC경남](https://ko.wikipedia.org/wiki/MBC경남 "wikilink")
-  - [MBC 표준FM](https://ko.wikipedia.org/wiki/MBC_표준FM "wikilink")
-  - [이승원의 세계는 그리고 우리는](https://ko.wikipedia.org/wiki/세계는_그리고_우리는 "wikilink")
+  - [부산문화방송](../Page/부산문화방송.md "wikilink")
+  - [울산문화방송](../Page/울산문화방송.md "wikilink")
+  - [MBC경남](../Page/MBC경남.md "wikilink")
+  - [MBC 표준FM](../Page/MBC_표준FM.md "wikilink")
+  - [이승원의 세계는 그리고 우리는](../Page/세계는_그리고_우리는.md "wikilink")
 
 [분류:문화방송의 뉴스 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:문화방송의_뉴스_라디오_프로그램 "wikilink")

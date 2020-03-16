@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Hwanhee](https://ko.wikipedia.org/wiki/Hwanhee).
 
 
-《**Hwanhee**》는 [환희](https://ko.wikipedia.org/wiki/환희 "wikilink")의 첫 번째 [정규 음반이다](https://ko.wikipedia.org/wiki/정규_음반 "wikilink"). 2011년 7월 29일에 발매되었다.
+《**Hwanhee**》는 [환희](../Page/환희.md "wikilink")의 첫 번째 [정규 음반이다](../Page/정규_음반.md "wikilink"). 2011년 7월 29일에 발매되었다.
 
 ## 수록곡
 

@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [RTL ](https://ko.wikipedia.org/wiki/RTL_).
 
 
-[오른쪽](https://ko.wikipedia.org/wiki/파일:RTL_Group.svg "wikilink") **RTL 그룹**(RTL Group)은 [룩셈부르크](https://ko.wikipedia.org/wiki/룩셈부르크 "wikilink")에서 설립된 [유럽](https://ko.wikipedia.org/wiki/유럽 "wikilink")의 [방송](https://ko.wikipedia.org/wiki/방송 "wikilink") 미디어 기업이다. 모기업은 [독일](https://ko.wikipedia.org/wiki/독일 "wikilink")의 [베르텔스만](https://ko.wikipedia.org/wiki/베르텔스만 "wikilink")이며 2014년 1월 기준으로 75.1%의 지분을 소유하고 있다.
+[오른쪽](https://ko.wikipedia.org/wiki/파일:RTL_Group.svg "wikilink") **RTL 그룹**(RTL Group)은 [룩셈부르크](../Page/룩셈부르크.md "wikilink")에서 설립된 [유럽](../Page/유럽.md "wikilink")의 [방송](../Page/방송.md "wikilink") 미디어 기업이다. 모기업은 [독일](../Page/독일.md "wikilink")의 [베르텔스만](../Page/베르텔스만.md "wikilink")이며 2014년 1월 기준으로 75.1%의 지분을 소유하고 있다.
 
-1950년 설립된 [유럽 방송 연맹의](https://ko.wikipedia.org/wiki/유럽_방송_연맹 "wikilink") 23개 창립 멤버 중 하나이며, 유럽 방송 연맹에서는 CLT Multi Media라는 이름으로 불리고 있다.
+1950년 설립된 [유럽 방송 연맹의](../Page/유럽_방송_연맹.md "wikilink") 23개 창립 멤버 중 하나이며, 유럽 방송 연맹에서는 CLT Multi Media라는 이름으로 불리고 있다.
 
-RTL 그룹은 1924년 룩셈부르크에서 첫 [라디오](https://ko.wikipedia.org/wiki/라디오 "wikilink") 방송을 시작하였으며, 1931년에 Compagnie Luxembourgeoise de Radiodiffusion(CLR) 회사를 설립 라디오 룩셈부르크가 개국되었다. 1954년 사명을 Compagnie Luxembourgeoise de Télédiffusion(CLT)로 변경하고 [텔레비전](https://ko.wikipedia.org/wiki/텔레비전 "wikilink") 방송을 시작하였다. 1997년 CLT-UFA계의 [피어슨](https://ko.wikipedia.org/wiki/피어슨 "wikilink")과 합병, 2000년에 [피어슨 TV와](https://ko.wikipedia.org/wiki/피어슨_TV "wikilink") 합병하여 RTL 그룹이 되었다.
+RTL 그룹은 1924년 룩셈부르크에서 첫 [라디오](../Page/라디오.md "wikilink") 방송을 시작하였으며, 1931년에 Compagnie Luxembourgeoise de Radiodiffusion(CLR) 회사를 설립 라디오 룩셈부르크가 개국되었다. 1954년 사명을 Compagnie Luxembourgeoise de Télédiffusion(CLT)로 변경하고 [텔레비전](../Page/텔레비전.md "wikilink") 방송을 시작하였다. 1997년 CLT-UFA계의 [피어슨](https://ko.wikipedia.org/wiki/피어슨 "wikilink")과 합병, 2000년에 [피어슨 TV와](https://ko.wikipedia.org/wiki/피어슨_TV "wikilink") 합병하여 RTL 그룹이 되었다.
 
-2013년 8월 RTL 그룹은 [CBS 코퍼레이션과](https://ko.wikipedia.org/wiki/CBS_코퍼레이션 "wikilink") 연합하여 9월에 [RTL CBS 엔터테인먼트를](https://ko.wikipedia.org/wiki/RTL_CBS_엔터테인먼트 "wikilink") 개국하여 [동남아시아](https://ko.wikipedia.org/wiki/동남아시아 "wikilink") 지역에서 방송을 시작하였다. 2014년 초에는 [RTL CBS 익스트림을](https://ko.wikipedia.org/wiki/RTL_CBS_익스트림 "wikilink") 개국하였다.
+2013년 8월 RTL 그룹은 [CBS 코퍼레이션과](../Page/CBS_코퍼레이션.md "wikilink") 연합하여 9월에 [RTL CBS 엔터테인먼트를](https://ko.wikipedia.org/wiki/RTL_CBS_엔터테인먼트 "wikilink") 개국하여 [동남아시아](../Page/동남아시아.md "wikilink") 지역에서 방송을 시작하였다. 2014년 초에는 [RTL CBS 익스트림을](https://ko.wikipedia.org/wiki/RTL_CBS_익스트림 "wikilink") 개국하였다.
 
 ## 방송 서비스
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CD ](https://ko.wikipedia.org/wiki/CD_).
 
 
-**CD 레가네스**(CD Leganés)은 [스페인](https://ko.wikipedia.org/wiki/스페인 "wikilink") [마드리드 지방](https://ko.wikipedia.org/wiki/마드리드_지방 "wikilink") [레가네스](https://ko.wikipedia.org/wiki/레가네스 "wikilink")의 축구 클럽이다.
+**CD 레가네스**(CD Leganés)은 [스페인](../Page/스페인.md "wikilink") [마드리드 지방](https://ko.wikipedia.org/wiki/마드리드_지방 "wikilink") [레가네스](../Page/레가네스.md "wikilink")의 축구 클럽이다.
 
 ## 선수단
 

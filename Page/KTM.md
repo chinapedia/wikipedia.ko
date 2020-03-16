@@ -3,11 +3,11 @@
 
 [오른쪽](https://ko.wikipedia.org/wiki/파일:Ktm-690-duke-\(duke3\)-lc4-2008.jpg "wikilink")
 
-**KTM**(KTM-Sportmotorcycle AG)은 [오스트리아](https://ko.wikipedia.org/wiki/오스트리아 "wikilink")의 스포츠 [모터사이클](https://ko.wikipedia.org/wiki/모터사이클 "wikilink") 제조 업체이다.
+**KTM**(KTM-Sportmotorcycle AG)은 [오스트리아](../Page/오스트리아.md "wikilink")의 스포츠 [모터사이클](../Page/모터사이클.md "wikilink") 제조 업체이다.
 
 ## 역사
 
-[1934년](https://ko.wikipedia.org/wiki/1934년 "wikilink")에 한스 트루켄폴츠가 [매틱호펜](https://ko.wikipedia.org/wiki/매틱호펜 "wikilink")에서 창업했으며, 이후 [1937년](https://ko.wikipedia.org/wiki/1937년 "wikilink")부터 모터사이클을 판매하기 시작했다. 오늘날의 KTM은 [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink"), 회사가 분사되어 설립되었다.
+[1934년](../Page/1934년.md "wikilink")에 한스 트루켄폴츠가 [매틱호펜](https://ko.wikipedia.org/wiki/매틱호펜 "wikilink")에서 창업했으며, 이후 [1937년](../Page/1937년.md "wikilink")부터 모터사이클을 판매하기 시작했다. 오늘날의 KTM은 [1992년](../Page/1992년.md "wikilink"), 회사가 분사되어 설립되었다.
 
 **오프로드 모터사이클 명가, KTM**
 

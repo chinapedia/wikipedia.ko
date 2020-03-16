@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [HIGH4](https://ko.wikipedia.org/wiki/HIGH4).
 
 
-**HIGH4**(하이포)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 3인조 남성 [음악 그룹으로](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"), 알렉스, 백명한, 임영준으로 이루어져 있다.
+**HIGH4**(하이포)는 [대한민국](../Page/대한민국.md "wikilink")의 3인조 남성 [음악 그룹으로](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"), 알렉스, 백명한, 임영준으로 이루어져 있다.
 
 ## 구성원
 
@@ -26,7 +26,7 @@
 ## 음반 목록
 
   - 〈봄 사랑 벚꽃 말고〉 (with \[아이유\]) (2014년)
-  - 〈해요 말고 해〉 (with [김예림](https://ko.wikipedia.org/wiki/김예림 "wikilink")) (2014년)
+  - 〈해요 말고 해〉 (with [김예림](../Page/김예림.md "wikilink")) (2014년)
   - 〈HI HIGH〉 (2014년)
   - 〈비슷해〉 (2015년)
   - 〈Baby Boy〉 (2015년)
@@ -51,7 +51,7 @@
 <td><ul>
 <li><strong>봄 사랑 벚꽃 말고</strong> (With <a href="https://ko.wikipedia.org/wiki/아이유" title="wikilink">아이유</a>) (총 1회)
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/5월_11일" title="wikilink">5월 11일</a> <a href="https://ko.wikipedia.org/wiki/SBS" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 1위</li>
+<li><a href="../Page/5월_11일.md" title="wikilink">5월 11일</a> <a href="../Page/SBS.md" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 1위</li>
 </ul></li>
 </ul></td>
 </tr>

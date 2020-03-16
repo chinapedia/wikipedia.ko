@@ -1,21 +1,21 @@
 > This article is converted from Wikipedia: [DMZ, ](https://ko.wikipedia.org/wiki/DMZ,_).
 
 
-《**DMZ, 비무장지대**》는 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink")에 개봉한 [대한민국의](https://ko.wikipedia.org/wiki/대한민국_영화 "wikilink") 영화이다. 한편, 그룹 [UN](https://ko.wikipedia.org/wiki/UN_\(음악_그룹\) "wikilink") 출신 [김정훈이](https://ko.wikipedia.org/wiki/김정훈_\(1980년\) "wikilink") 출연하여 화제가 되었으나 흥행에 실패했다.\[1\]
+《**DMZ, 비무장지대**》는 [2004년](../Page/2004년.md "wikilink")에 개봉한 [대한민국의](https://ko.wikipedia.org/wiki/대한민국_영화 "wikilink") 영화이다. 한편, 그룹 [UN](https://ko.wikipedia.org/wiki/UN_\(음악_그룹\) "wikilink") 출신 [김정훈이](../Page/김정훈_\(1980년\).md "wikilink") 출연하여 화제가 되었으나 흥행에 실패했다.\[1\]
 
 ## 캐스팅
 
-  - [김정훈](https://ko.wikipedia.org/wiki/김정훈_\(1980년\) "wikilink") : 김지훈 일병 역
-  - [박건형](https://ko.wikipedia.org/wiki/박건형 "wikilink") : 이민기 병장 역
-  - [정채경](https://ko.wikipedia.org/wiki/정채경 "wikilink") : 북한군 리상호 상위 역
-  - [정은표](https://ko.wikipedia.org/wiki/정은표 "wikilink") : 권해룡 상병 역
-  - [홍일권](https://ko.wikipedia.org/wiki/홍일권 "wikilink") : 김인 중사 역
+  - [김정훈](../Page/김정훈_\(1980년\).md "wikilink") : 김지훈 일병 역
+  - [박건형](../Page/박건형.md "wikilink") : 이민기 병장 역
+  - [정채경](../Page/정채경.md "wikilink") : 북한군 리상호 상위 역
+  - [정은표](../Page/정은표.md "wikilink") : 권해룡 상병 역
+  - [홍일권](../Page/홍일권.md "wikilink") : 김인 중사 역
   - [이재은](https://ko.wikipedia.org/wiki/이재은 "wikilink") : 다방 레지 이윤이 역
-  - [구준엽](https://ko.wikipedia.org/wiki/구준엽 "wikilink") : 강대남 병장 역
+  - [구준엽](../Page/구준엽.md "wikilink") : 강대남 병장 역
   - 한이빈 : 리상호 상위의 딸 리수현 역
   - [이건주](../Page/이건주.md "wikilink") : 이건주 일병 역
-  - [이대연](https://ko.wikipedia.org/wiki/이대연 "wikilink") : 피바다 소대장 역
-  - [김수근](https://ko.wikipedia.org/wiki/김수근_\(1979년\) "wikilink") : 훈련병 역
+  - [이대연](../Page/이대연.md "wikilink") : 피바다 소대장 역
+  - [김수근](../Page/김수근_\(1979년\).md "wikilink") : 훈련병 역
   - [이지수](https://ko.wikipedia.org/wiki/이지수 "wikilink") : 배 병장 역
   - [차은우](https://ko.wikipedia.org/wiki/차은우 "wikilink") : 오 병장 역
   - [이영관](https://ko.wikipedia.org/wiki/이영관 "wikilink") : 무전병 역
@@ -37,30 +37,30 @@
   - 조대영 : 정보과장 역
   - [박상현](https://ko.wikipedia.org/wiki/박상현 "wikilink") : 교관 역
   - [공재원](../Page/공재원.md "wikilink") : 수색중대장 2 역
-  - [박정우](https://ko.wikipedia.org/wiki/박정우_\(배우\) "wikilink") : 수색중대장 3 역
+  - [박정우](../Page/박정우_\(배우\).md "wikilink") : 수색중대장 3 역
   - 김왕도 : 김 병장 제대 사진팀 역
   - 리상규 : 김 병장 제대 사진팀 역
-  - [박휘순](https://ko.wikipedia.org/wiki/박휘순 "wikilink") : 김 병장 제대 사진팀 역
+  - [박휘순](../Page/박휘순.md "wikilink") : 김 병장 제대 사진팀 역
   - [이동현](https://ko.wikipedia.org/wiki/이동현 "wikilink") : 김 병장 제대 사진팀 역
   - 이계형 : 김 병장 제대 사진팀 역
   - [조경진](https://ko.wikipedia.org/wiki/조경진 "wikilink") : 김 병장 제대 사진팀 역
   - 오현진 : 지훈 친구 역
-  - [신봉선](https://ko.wikipedia.org/wiki/신봉선 "wikilink") : 다방 레지 역
+  - [신봉선](../Page/신봉선.md "wikilink") : 다방 레지 역
   - [김민경](https://ko.wikipedia.org/wiki/김민경 "wikilink") : 다방 레지 역
   - [서성금](https://ko.wikipedia.org/wiki/서성금 "wikilink") : 다방 레지 역
   - 이영종 : 다방 연인 남 역
   - [이미영](https://ko.wikipedia.org/wiki/이미영 "wikilink") : 다방 연인 여 역
   - 노장식 : 다나까 역
   - 박현옥 : 촬영감독 역
-  - [김정희](https://ko.wikipedia.org/wiki/김정희 "wikilink") : 간호장교 역
-  - [김종학](https://ko.wikipedia.org/wiki/김종학 "wikilink") : 동방박사 역
+  - [김정희](../Page/김정희.md "wikilink") : 간호장교 역
+  - [김종학](../Page/김종학.md "wikilink") : 동방박사 역
   - [김유정](https://ko.wikipedia.org/wiki/김유정 "wikilink") : 어린 수현 역
   - 김하준 : 무장공비 역
-  - [김준엽](https://ko.wikipedia.org/wiki/김준엽 "wikilink") : 수색대원 역
-  - [김세준](https://ko.wikipedia.org/wiki/김세준 "wikilink") : 김 병장 역 (특별출연)
-  - [최준용](https://ko.wikipedia.org/wiki/최준용_\(배우\) "wikilink") : 수색 중대장 역 (특별출연)
+  - [김준엽](../Page/김준엽.md "wikilink") : 수색대원 역
+  - [김세준](../Page/김세준.md "wikilink") : 김 병장 역 (특별출연)
+  - [최준용](../Page/최준용_\(배우\).md "wikilink") : 수색 중대장 역 (특별출연)
   - [백재현](https://ko.wikipedia.org/wiki/백재현_\(1970년\) "wikilink") : 신병교육대대 중대장 역 (특별출연)
-  - [하쿠류](https://ko.wikipedia.org/wiki/하쿠류 "wikilink") : 땅굴과장 역 (특별출연)
+  - [하쿠류](../Page/하쿠류.md "wikilink") : 땅굴과장 역 (특별출연)
 
 ## 제작에 관해
 

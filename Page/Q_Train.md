@@ -7,7 +7,7 @@
 
 재미있는 사실은 수록곡 *뭐*에 참여한 Notorious Kid는 [Dok2](https://ko.wikipedia.org/wiki/Dok2 "wikilink")의 목소리를 변조한 것이라는 것과, 수록곡 *Interlude*는 [Mad Clown의](https://ko.wikipedia.org/wiki/Mad_Clown "wikilink") 데뷔 트랙이라는 사실이다.
 
-[Q Train은](../Page/Q_Train.md "wikilink") 제 4회 [한국대중음악상](https://ko.wikipedia.org/wiki/한국대중음악상 "wikilink") 시상식에서 올해의 힙합 앨범상을 수상하였다.
+[Q Train은](../Page/Q_Train.md "wikilink") 제 4회 [한국대중음악상](../Page/한국대중음악상.md "wikilink") 시상식에서 올해의 힙합 앨범상을 수상하였다.
 
 발매 당시의 타이틀 곡은 *Music*이었다.
 

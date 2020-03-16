@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Lesson 1](https://ko.wikipedia.org/wiki/Lesson_1).
 
 
-《**Lesson 1**》은, [E-girls](../Page/E-girls.md "wikilink")의 1번째 [정규 음반이다](https://ko.wikipedia.org/wiki/정규_음반 "wikilink").
+《**Lesson 1**》은, [E-girls](../Page/E-girls.md "wikilink")의 1번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
 
 ## 수록곡
 
@@ -23,7 +23,7 @@
       -
         작사: Jam9 / 작곡: Jam9, ArmySlick
     <!-- end list -->
-      - 보컬은 [Dream의](https://ko.wikipedia.org/wiki/Dream_\(음악_그룹\) "wikilink") [Erie](https://ko.wikipedia.org/wiki/아베_에리에 "wikilink"), [Flower의](../Page/Flower_\(음악_그룹\).md "wikilink") [와시오 레이나](../Page/와시오_레이나.md "wikilink"), 카와모토 루리
+      - 보컬은 [Dream의](../Page/Dream_\(음악_그룹\).md "wikilink") [Erie](https://ko.wikipedia.org/wiki/아베_에리에 "wikilink"), [Flower의](../Page/Flower_\(음악_그룹\).md "wikilink") [와시오 레이나](../Page/와시오_레이나.md "wikilink"), 카와모토 루리
 4.  **One Two Three**
       -
         작사: Yosuke Nimbari, 후지바야시 쇼코 / 작곡: ArmySlick, Yosuke Nimbari

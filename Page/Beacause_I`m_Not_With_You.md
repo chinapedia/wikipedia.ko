@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Beacause I`m Not With You](https://ko.wikipedia.org/wiki/Beacause_I`m_Not_With_You).
 
 
-《**Beacause I\`m Not With You**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 가수 겸 배우 [임창정](https://ko.wikipedia.org/wiki/임창정 "wikilink")의 2집 앨범으로 타이틀 곡은 <혼자만의 이별>이다.
+《**Beacause I\`m Not With You**》는 [대한민국](../Page/대한민국.md "wikilink")의 가수 겸 배우 [임창정](../Page/임창정.md "wikilink")의 2집 앨범으로 타이틀 곡은 <혼자만의 이별>이다.
 
 ## 수록곡
 
@@ -13,8 +13,8 @@
 
   - 기획&제작 - 한중대산
   - 매니지먼트 - 현영완
-  - [프로듀서](https://ko.wikipedia.org/wiki/음악_프로듀서 "wikilink") - 김성권
-  - 디렉터 - 이동원, [임창정](https://ko.wikipedia.org/wiki/임창정 "wikilink")
+  - [프로듀서](../Page/음악_프로듀서.md "wikilink") - 김성권
+  - 디렉터 - 이동원, [임창정](../Page/임창정.md "wikilink")
   - 편곡 - 이동원, 강신웅, 임창정
   - 프로그래밍 - 강신웅
   - 녹음 - 조은경

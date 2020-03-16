@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
 
 
-**FC 딜라 고리**(FC დილა გორი)는 [고리를](https://ko.wikipedia.org/wiki/고리_\(조지아\) "wikilink") 연고로한 [조지아의](https://ko.wikipedia.org/wiki/조지아_\(국가\) "wikilink") [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. [우마글레시리가](https://ko.wikipedia.org/wiki/우마글레시리가 "wikilink")에 참가중이며 [텐기즈 부르자나지스 경기장에서](https://ko.wikipedia.org/wiki/텐기즈_부르자나지스_경기장 "wikilink") 경기를 치루고 있다. 2012년에 조지아 컵을 우승하였다.
+**FC 딜라 고리**(FC დილა გორი)는 [고리를](../Page/고리_\(조지아\).md "wikilink") 연고로한 [조지아의](../Page/조지아_\(국가\).md "wikilink") [축구](../Page/축구.md "wikilink") 클럽이다. [우마글레시리가](https://ko.wikipedia.org/wiki/우마글레시리가 "wikilink")에 참가중이며 [텐기즈 부르자나지스 경기장에서](https://ko.wikipedia.org/wiki/텐기즈_부르자나지스_경기장 "wikilink") 경기를 치루고 있다. 2012년에 조지아 컵을 우승하였다.
 
 ## 유럽 클럽 대항전 성적
 
@@ -27,15 +27,15 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/UEFA_유로파리그_2012-13" title="wikilink">2012–13</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/UEFA_유로파리그" title="wikilink">UEFA 유로파리그</a></p></td>
+<td><p><a href="../Page/UEFA_유로파리그.md" title="wikilink">UEFA 유로파리그</a></p></td>
 <td><p>2차 예선전</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오르후스_GF" title="wikilink">오르후스 GF</a></p></td>
+<td><p><a href="../Page/오르후스_GF.md" title="wikilink">오르후스 GF</a></p></td>
 <td><p><strong>3–1</strong></p></td>
 <td><p>2–1</p></td>
 </tr>
 <tr class="odd">
 <td><p>3차 예선전</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아노르토시스_파마구스타_FC" title="wikilink">아노르토시스</a></p></td>
+<td><p><a href="../Page/아노르토시스_파마구스타_FC.md" title="wikilink">아노르토시스</a></p></td>
 <td><p><strong>0–1</strong></p></td>
 <td><p>3–0</p></td>
 <td></td>
@@ -43,7 +43,7 @@
 </tr>
 <tr class="even">
 <td><p>플레이오프</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/CS_마리티무" title="wikilink">마리티무</a></p></td>
+<td><p><a href="../Page/CS_마리티무.md" title="wikilink">마리티무</a></p></td>
 <td><p><strong>0–2</strong></p></td>
 <td><p>0–1</p></td>
 <td></td>
@@ -51,15 +51,15 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/UEFA_유로파리그_2013-14" title="wikilink">2013–14</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/UEFA_유로파리그" title="wikilink">UEFA 유로파리그</a></p></td>
+<td><p><a href="../Page/UEFA_유로파리그.md" title="wikilink">UEFA 유로파리그</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/UEFA_유로파리그_2013-14#2차_예선전" title="wikilink">2차 예선전</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/올보르_BK" title="wikilink">올보르 BK</a></p></td>
+<td><p><a href="../Page/올보르_BK.md" title="wikilink">올보르 BK</a></p></td>
 <td><p><strong>3–0</strong></p></td>
 <td><p>0–0</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/UEFA_유로파리그_2013-14#3차_예선전" title="wikilink">3차 예선전</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/HNK_하이두크_스플리트" title="wikilink">하이두크 스플리트</a></p></td>
+<td><p><a href="../Page/HNK_하이두크_스플리트.md" title="wikilink">하이두크 스플리트</a></p></td>
 <td><p><strong>1–0</strong></p></td>
 <td><p>1–0</p></td>
 <td></td>
@@ -67,7 +67,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/UEFA_유로파리그_2013-14#플레이오프" title="wikilink">플레이오프</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/SK_라피트_빈" title="wikilink">라피트 빈</a></p></td>
+<td><p><a href="../Page/SK_라피트_빈.md" title="wikilink">라피트 빈</a></p></td>
 <td><p><strong>0–3</strong></p></td>
 <td><p>0–1</p></td>
 <td></td>

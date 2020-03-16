@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Certitude](https://ko.wikipedia.org/wiki/Certitude).
 
 
-《**Certitude**》는 [소피 마르소의](https://ko.wikipedia.org/wiki/소피_마르소 "wikilink") 정규 음반으로, 1985년에 [레코드로](https://ko.wikipedia.org/wiki/장시간_음반 "wikilink") 발매되었다.
+《**Certitude**》는 [소피 마르소의](../Page/소피_마르소.md "wikilink") 정규 음반으로, 1985년에 [레코드로](../Page/장시간_음반.md "wikilink") 발매되었다.
 
 ## 수록곡
 

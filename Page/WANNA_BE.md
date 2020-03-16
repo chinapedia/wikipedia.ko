@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WANNA BE](https://ko.wikipedia.org/wiki/WANNA_BE).
 
 
-〈**WANNA BE**〉는 대한민국 걸그룹 [AOA의](https://ko.wikipedia.org/wiki/AOA_\(음악_그룹\) "wikilink") 두 번째 [싱글 앨범으로](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink"), [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [10월 10일에](https://ko.wikipedia.org/wiki/10월_10일 "wikilink") 발매되었다.
+〈**WANNA BE**〉는 대한민국 걸그룹 [AOA의](../Page/AOA_\(음악_그룹\).md "wikilink") 두 번째 [싱글 앨범으로](../Page/싱글_\(음악\).md "wikilink"), [2012년](../Page/2012년.md "wikilink") [10월 10일에](../Page/10월_10일.md "wikilink") 발매되었다.
 
 ## 활동 사항
 

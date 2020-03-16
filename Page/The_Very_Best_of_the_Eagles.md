@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Very Best of the Eagles](https://ko.wikipedia.org/wiki/The_Very_Best_of_the_Eagles).
 
 
-***The Very Best of the Eagles***는 [이글스](https://ko.wikipedia.org/wiki/이글스 "wikilink")의 베스트 앨범이다. 처음에는 유럽, 호주, 뉴질렌드에만 발매했고, 2001년 곡 순서를 약간 바꿔 재발매했다. 이 앨범은 발매된 나라에서 앨범 차트 10위 안에 들었음에도 불구하고 미국에서는 발매되지 않았다.
+***The Very Best of the Eagles***는 [이글스](../Page/이글스.md "wikilink")의 베스트 앨범이다. 처음에는 유럽, 호주, 뉴질렌드에만 발매했고, 2001년 곡 순서를 약간 바꿔 재발매했다. 이 앨범은 발매된 나라에서 앨범 차트 10위 안에 들었음에도 불구하고 미국에서는 발매되지 않았다.
 
 ## 구성과 앨범 아트
 

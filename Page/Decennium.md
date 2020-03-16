@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Decennium](https://ko.wikipedia.org/wiki/Decennium).
 
 
-《**Decennium**》은, [플라이 투 더 스카이의](https://ko.wikipedia.org/wiki/플라이_투_더_스카이 "wikilink") [정규 음반](https://ko.wikipedia.org/wiki/정규_음반 "wikilink") 8집이다.
+《**Decennium**》은, [플라이 투 더 스카이의](../Page/플라이_투_더_스카이.md "wikilink") [정규 음반](../Page/정규_음반.md "wikilink") 8집이다.
 
 ## 수록곡
 

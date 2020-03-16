@@ -1,22 +1,22 @@
 > This article is converted from Wikipedia: [19-Nineteen](https://ko.wikipedia.org/wiki/19-Nineteen).
 
 
-《**19-Nineteen**》은 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")에 개봉한 [대한민국의](https://ko.wikipedia.org/wiki/대한민국_영화 "wikilink") 영화이다.
+《**19-Nineteen**》은 [2009년](../Page/2009년.md "wikilink")에 개봉한 [대한민국의](https://ko.wikipedia.org/wiki/대한민국_영화 "wikilink") 영화이다.
 
 ## 캐스팅
 
-  - [최승현](https://ko.wikipedia.org/wiki/T.O.P "wikilink") : 서정훈 역
-  - [이승현](https://ko.wikipedia.org/wiki/승리_\(가수\) "wikilink") : 박민서 역
-  - [허이재](https://ko.wikipedia.org/wiki/허이재 "wikilink") : 차은형 역
-  - [김영호](https://ko.wikipedia.org/wiki/김영호_\(배우\) "wikilink") : 김하늘 역
-  - [이영범](https://ko.wikipedia.org/wiki/이영범 "wikilink") : 류선재 역
+  - [최승현](../Page/T.O.P.md "wikilink") : 서정훈 역
+  - [이승현](../Page/승리_\(가수\).md "wikilink") : 박민서 역
+  - [허이재](../Page/허이재.md "wikilink") : 차은형 역
+  - [김영호](../Page/김영호_\(배우\).md "wikilink") : 김하늘 역
+  - [이영범](../Page/이영범.md "wikilink") : 류선재 역
   - [정성일](../Page/정성일_\(1980년\).md "wikilink") : 하기상 역
   - [신민희](https://ko.wikipedia.org/wiki/신민희 "wikilink") : 오영애 역
-  - [맹봉학](https://ko.wikipedia.org/wiki/맹봉학 "wikilink") : 서창만 역
-  - [김리나](https://ko.wikipedia.org/wiki/김리나_\(1985년\) "wikilink") : 서향자 역
+  - [맹봉학](../Page/맹봉학.md "wikilink") : 서창만 역
+  - [김리나](../Page/김리나_\(1985년\).md "wikilink") : 서향자 역
   - [신귀식](../Page/신귀식.md "wikilink") : 박호 역
   - [최인숙](https://ko.wikipedia.org/wiki/최인숙 "wikilink") : 박화정 역
-  - [신영진](https://ko.wikipedia.org/wiki/신영진 "wikilink") : 차민경 역
+  - [신영진](../Page/신영진.md "wikilink") : 차민경 역
   - [장래현](https://ko.wikipedia.org/wiki/장래현 "wikilink") : 김선민 역
   - [황신정](https://ko.wikipedia.org/wiki/황신정 "wikilink") : 김신이 역
   - [장소연](../Page/장소연_\(배우\).md "wikilink") : 유은혜 역

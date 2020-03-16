@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Prasasti Seni](https://ko.wikipedia.org/wiki/Prasasti_Seni).
 
 
-**Prasasti Seni**는 [말레이시아](https://ko.wikipedia.org/wiki/말레이시아 "wikilink")의 팝 가수 시티 누르할리자의 열 번째 정규 앨범이다. 수리아 레코드를 통해 발매되었으며, [말레이시아](https://ko.wikipedia.org/wiki/말레이시아 "wikilink"), [싱가포르](https://ko.wikipedia.org/wiki/싱가포르 "wikilink"), [브루나이](https://ko.wikipedia.org/wiki/브루나이 "wikilink")에서는 2004년 4월 12일, [인도네시아](https://ko.wikipedia.org/wiki/인도네시아 "wikilink")에서는 2004년 5월 23일에 발매되었다. 말레이시아에서 10만 장,\[1\] 인도네시아에서 70만 장의 판매량을 기록했는데,\[2\] 이는 시티 앨범 중 인도네시아에서 기록한 최고치이다. 또한 총 80만 장 가량 판매되어, 1996년 앨범 <Siti Nurhaliza I>와 더불어 역대 최고의 판매량을 기록했다.
+**Prasasti Seni**는 [말레이시아](../Page/말레이시아.md "wikilink")의 팝 가수 시티 누르할리자의 열 번째 정규 앨범이다. 수리아 레코드를 통해 발매되었으며, [말레이시아](../Page/말레이시아.md "wikilink"), [싱가포르](../Page/싱가포르.md "wikilink"), [브루나이](../Page/브루나이.md "wikilink")에서는 2004년 4월 12일, [인도네시아](../Page/인도네시아.md "wikilink")에서는 2004년 5월 23일에 발매되었다. 말레이시아에서 10만 장,\[1\] 인도네시아에서 70만 장의 판매량을 기록했는데,\[2\] 이는 시티 앨범 중 인도네시아에서 기록한 최고치이다. 또한 총 80만 장 가량 판매되어, 1996년 앨범 <Siti Nurhaliza I>와 더불어 역대 최고의 판매량을 기록했다.
 
 ## 앨범 개요
 

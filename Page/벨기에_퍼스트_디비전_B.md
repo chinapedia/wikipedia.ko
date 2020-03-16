@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [   B](https://ko.wikipedia.org/wiki/___B).
 
 
-**벨기에 2부 리그**는 [벨기에](https://ko.wikipedia.org/wiki/벨기에 "wikilink")의 축구 리그다.
+**벨기에 2부 리그**는 [벨기에](../Page/벨기에.md "wikilink")의 축구 리그다.
 
 ## 개요
 

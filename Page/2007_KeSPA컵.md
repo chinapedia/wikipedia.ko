@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [2007 KeSPA](https://ko.wikipedia.org/wiki/2007_KeSPA).
 
 
-**2007 KeSPA컵** (2007 KeSPA Cup)은 e스포츠 종목 활성화 및 아마추어 저변 확대를 위한 대한민국 프로와 아마추어의 통합 e스포츠 대회이다. [한국e스포츠협회](https://ko.wikipedia.org/wiki/한국e스포츠협회 "wikilink")가 개최하고, 후원은 [문화관광부](https://ko.wikipedia.org/wiki/문화관광부 "wikilink")이다. 이외에 IEG, 드래곤플라이, 넥슨, GNA소프트가 대회에 도움을 주었으며 중계 방송은 SBSi와 곰TV가 담당했다.\[1\]
+**2007 KeSPA컵** (2007 KeSPA Cup)은 e스포츠 종목 활성화 및 아마추어 저변 확대를 위한 대한민국 프로와 아마추어의 통합 e스포츠 대회이다. [한국e스포츠협회](../Page/한국e스포츠협회.md "wikilink")가 개최하고, 후원은 [문화관광부](https://ko.wikipedia.org/wiki/문화관광부 "wikilink")이다. 이외에 IEG, 드래곤플라이, 넥슨, GNA소프트가 대회에 도움을 주었으며 중계 방송은 SBSi와 곰TV가 담당했다.\[1\]
 
 ## 개요
 
-[KTF BiGi KOREA e스포츠 2005](https://ko.wikipedia.org/wiki/KTF_BiGi_KOREA_e스포츠_2005 "wikilink") 이후 두 번째로 개최되는 [KeSPA컵](https://ko.wikipedia.org/wiki/KeSPA컵 "wikilink") 대회이다.
+[KTF BiGi KOREA e스포츠 2005](https://ko.wikipedia.org/wiki/KTF_BiGi_KOREA_e스포츠_2005 "wikilink") 이후 두 번째로 개최되는 [KeSPA컵](../Page/KeSPA컵.md "wikilink") 대회이다.
 
 KeSPA컵 스타크래프트 부문에서는 저번 대회와 같이 프로게임단과 예선을 통과한 아마추어 게임단이 16강 토너먼트를 펼쳐 우승 경쟁을 펼치게 된다. 이번 대회의 모든 경기는 프로리그 엔트리제 방식이 아닌 [팀리그](https://ko.wikipedia.org/wiki/팀리그 "wikilink")에서 사용한 승자연전제 방식으로 진행되며 16강전과 8강전은 5전 3선승제, 4강전과 결승전은 7전 4선승제로 진행된다.
 

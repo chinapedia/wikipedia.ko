@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [WNBC](https://ko.wikipedia.org/wiki/WNBC).
 
 
-[오른쪽](https://ko.wikipedia.org/wiki/파일:WNBC_4_NY.svg "wikilink") **WNBC**는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [뉴욕주](https://ko.wikipedia.org/wiki/뉴욕주 "wikilink")의 [뉴욕](https://ko.wikipedia.org/wiki/뉴욕 "wikilink")을 권역으로 하는 [NBC](https://ko.wikipedia.org/wiki/NBC "wikilink") 계열 [텔레비전 방송국이다](https://ko.wikipedia.org/wiki/텔레비전_방송국 "wikilink"). 채널 번호는 4번이다. 보조채널 4.2번에서는 [Cozi TV를](https://ko.wikipedia.org/wiki/Cozi_TV "wikilink") 방송하고 있다. 자매채널로 [텔레문도](https://ko.wikipedia.org/wiki/텔레문도 "wikilink") 계열 방송인 [WNJU](https://ko.wikipedia.org/wiki/WNJU "wikilink"), 지역 스포츠 케이블 채널인 [스포츠넷 뉴욕이](https://ko.wikipedia.org/wiki/스포츠넷_뉴욕 "wikilink") 있다.
+[오른쪽](https://ko.wikipedia.org/wiki/파일:WNBC_4_NY.svg "wikilink") **WNBC**는 [미국](../Page/미국.md "wikilink")의 [뉴욕주](../Page/뉴욕주.md "wikilink")의 [뉴욕](../Page/뉴욕.md "wikilink")을 권역으로 하는 [NBC](../Page/NBC.md "wikilink") 계열 [텔레비전 방송국이다](https://ko.wikipedia.org/wiki/텔레비전_방송국 "wikilink"). 채널 번호는 4번이다. 보조채널 4.2번에서는 [Cozi TV를](https://ko.wikipedia.org/wiki/Cozi_TV "wikilink") 방송하고 있다. 자매채널로 [텔레문도](../Page/텔레문도.md "wikilink") 계열 방송인 [WNJU](https://ko.wikipedia.org/wiki/WNJU "wikilink"), 지역 스포츠 케이블 채널인 [스포츠넷 뉴욕이](https://ko.wikipedia.org/wiki/스포츠넷_뉴욕 "wikilink") 있다.
 
-WNBC의 스튜디오가 위치한 [NBC 스튜디오는](https://ko.wikipedia.org/wiki/NBC_스튜디오 "wikilink") [록펠러 센터의](https://ko.wikipedia.org/wiki/록펠러_센터 "wikilink") [GE 빌딩에](https://ko.wikipedia.org/wiki/GE_빌딩 "wikilink") 있다.
+WNBC의 스튜디오가 위치한 [NBC 스튜디오는](https://ko.wikipedia.org/wiki/NBC_스튜디오 "wikilink") [록펠러 센터의](../Page/록펠러_센터.md "wikilink") [GE 빌딩에](../Page/GE_빌딩.md "wikilink") 있다.
 
 ## 연혁
 
-WNBC는 [1938년](https://ko.wikipedia.org/wiki/1938년 "wikilink") [6월](https://ko.wikipedia.org/wiki/6월 "wikilink") [RCA](https://ko.wikipedia.org/wiki/RCA "wikilink")에서 설립한 시험 방송국인 **W2XBS**가 최초이며, 첫 방송은 [브로드웨이](https://ko.wikipedia.org/wiki/브로드웨이 "wikilink") 연극을 방송한 것이다. 이후 [1941년](https://ko.wikipedia.org/wiki/1941년 "wikilink") [6월 24일에는](https://ko.wikipedia.org/wiki/6월_24일 "wikilink") **WNBT**라는 이름으로 정규 방송을 시작하였다. 처음 방송 당시에는 채널 1번으로 방송되었으나, 이후 [1946년](https://ko.wikipedia.org/wiki/1946년 "wikilink") [봄](https://ko.wikipedia.org/wiki/봄 "wikilink")에 채널 4번으로 지정되었다.
+WNBC는 [1938년](../Page/1938년.md "wikilink") [6월](../Page/6월.md "wikilink") [RCA](https://ko.wikipedia.org/wiki/RCA "wikilink")에서 설립한 시험 방송국인 **W2XBS**가 최초이며, 첫 방송은 [브로드웨이](https://ko.wikipedia.org/wiki/브로드웨이 "wikilink") 연극을 방송한 것이다. 이후 [1941년](../Page/1941년.md "wikilink") [6월 24일에는](../Page/6월_24일.md "wikilink") **WNBT**라는 이름으로 정규 방송을 시작하였다. 처음 방송 당시에는 채널 1번으로 방송되었으나, 이후 [1946년](../Page/1946년.md "wikilink") [봄](../Page/봄.md "wikilink")에 채널 4번으로 지정되었다.
 
-[1954년](https://ko.wikipedia.org/wiki/1954년 "wikilink") [10월 18일에는](https://ko.wikipedia.org/wiki/10월_18일 "wikilink") 당시 [NBC](https://ko.wikipedia.org/wiki/NBC "wikilink") 모회사였던 [RCA](https://ko.wikipedia.org/wiki/RCA "wikilink")를 따서 [호출부호](https://ko.wikipedia.org/wiki/호출부호 "wikilink")를 **WRCA-TV**로 변경하였고, [1960년](https://ko.wikipedia.org/wiki/1960년 "wikilink") [5월 22일에는](https://ko.wikipedia.org/wiki/5월_22일 "wikilink") **WNBC-TV**로 변경하였다.
+[1954년](../Page/1954년.md "wikilink") [10월 18일에는](../Page/10월_18일.md "wikilink") 당시 [NBC](../Page/NBC.md "wikilink") 모회사였던 [RCA](https://ko.wikipedia.org/wiki/RCA "wikilink")를 따서 [호출부호](https://ko.wikipedia.org/wiki/호출부호 "wikilink")를 **WRCA-TV**로 변경하였고, [1960년](../Page/1960년.md "wikilink") [5월 22일에는](../Page/5월_22일.md "wikilink") **WNBC-TV**로 변경하였다.
 
-[1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink") [6월 1일에는](https://ko.wikipedia.org/wiki/6월_1일 "wikilink") 접미사 "-TV"를 제거하고 현재의 호출부호인 **WNBC**가 되었다. 원래 이 호출부호는 1988년에 폐국된 자매 라디오 채널이었다.([중파 방송](https://ko.wikipedia.org/wiki/중파_방송 "wikilink") 600KHz로 현재 이 주파수는 [WFAN](https://ko.wikipedia.org/wiki/WFAN "wikilink")이 방송되고 있다.)
+[1992년](../Page/1992년.md "wikilink") [6월 1일에는](../Page/6월_1일.md "wikilink") 접미사 "-TV"를 제거하고 현재의 호출부호인 **WNBC**가 되었다. 원래 이 호출부호는 1988년에 폐국된 자매 라디오 채널이었다.([중파 방송](https://ko.wikipedia.org/wiki/중파_방송 "wikilink") 600KHz로 현재 이 주파수는 [WFAN](https://ko.wikipedia.org/wiki/WFAN "wikilink")이 방송되고 있다.)
 
 ## 뉴스 제목
 
@@ -29,7 +29,7 @@ WNBC는 [1938년](https://ko.wikipedia.org/wiki/1938년 "wikilink") [6월](https
 
 ## 같이 보기
 
-  - [NBC](https://ko.wikipedia.org/wiki/NBC "wikilink")
+  - [NBC](../Page/NBC.md "wikilink")
 
 ## 각주
 

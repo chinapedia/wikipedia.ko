@@ -1,12 +1,12 @@
 > This article is converted from Wikipedia: [A. S. ](https://ko.wikipedia.org/wiki/A._S._).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:AS_Byatt_Portrait.jpg "wikilink") **안토니아 수잔 더피** 여사(, [1936년](https://ko.wikipedia.org/wiki/1936년 "wikilink") [8월 24일](https://ko.wikipedia.org/wiki/8월_24일 "wikilink") \~ )는 **A. S. 바이엇**()이라는 필명으로 더 잘 알려진 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 [소설가](https://ko.wikipedia.org/wiki/소설가 "wikilink")이다. 1990년 [맨부커상](https://ko.wikipedia.org/wiki/맨부커상 "wikilink") 수상자이다.\[1\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:AS_Byatt_Portrait.jpg "wikilink") **안토니아 수잔 더피** 여사(, [1936년](../Page/1936년.md "wikilink") [8월 24일](../Page/8월_24일.md "wikilink") \~ )는 **A. S. 바이엇**()이라는 필명으로 더 잘 알려진 [영국](../Page/영국.md "wikilink")의 [소설가](https://ko.wikipedia.org/wiki/소설가 "wikilink")이다. 1990년 [맨부커상](../Page/맨부커상.md "wikilink") 수상자이다.\[1\]
 
 ## 서훈
 
-  - 1990년 [대영 제국 훈장 3등급](https://ko.wikipedia.org/wiki/대영_제국_훈장 "wikilink")(CBE)\[2\]
-  - 1999년 [대영 제국 훈장 2등급](https://ko.wikipedia.org/wiki/대영_제국_훈장 "wikilink")(DBE, 작위급 훈장)\[3\]
+  - 1990년 [대영 제국 훈장 3등급](../Page/대영_제국_훈장.md "wikilink")(CBE)\[2\]
+  - 1999년 [대영 제국 훈장 2등급](../Page/대영_제국_훈장.md "wikilink")(DBE, 작위급 훈장)\[3\]
 
 ## 각주
 

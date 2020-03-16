@@ -48,20 +48,20 @@
 
 ## 게임판
 
-[2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [3월 28일에](https://ko.wikipedia.org/wiki/3월_28일 "wikilink") KID로부터 발매된 플레이스테이션용 어드벤처 게임이다.
+[2002년](../Page/2002년.md "wikilink") [3월 28일에](../Page/3월_28일.md "wikilink") KID로부터 발매된 플레이스테이션용 어드벤처 게임이다.
 
 ## 텔레비전 드라마
 
-[후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink") [계열의](https://ko.wikipedia.org/wiki/후지_네트워크 "wikilink") [화요일 21시 시간대에서](https://ko.wikipedia.org/wiki/후지_TV_화요일_밤_9시_드라마 "wikilink") [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [10월 21일부터](https://ko.wikipedia.org/wiki/10월_21일 "wikilink") [12월 23일까지](https://ko.wikipedia.org/wiki/12월_23일 "wikilink") 방송되었다. [타케이 에미와](https://ko.wikipedia.org/wiki/타케이_에미 "wikilink") [아야노 고의](https://ko.wikipedia.org/wiki/아야노_고 "wikilink") 더블 주연. [캐치프레이즈](https://ko.wikipedia.org/wiki/캐치프레이즈 "wikilink")는, 〈**이 범죄에, 가장 아름다운 해답을**〉.
+[후지 TV](../Page/후지_TV.md "wikilink") [계열의](../Page/후지_네트워크.md "wikilink") [화요일 21시 시간대에서](../Page/후지_TV_화요일_밤_9시_드라마.md "wikilink") [2014년](../Page/2014년.md "wikilink") [10월 21일부터](../Page/10월_21일.md "wikilink") [12월 23일까지](../Page/12월_23일.md "wikilink") 방송되었다. [타케이 에미와](../Page/타케이_에미.md "wikilink") [아야노 고의](../Page/아야노_고.md "wikilink") 더블 주연. [캐치프레이즈](https://ko.wikipedia.org/wiki/캐치프레이즈 "wikilink")는, 〈**이 범죄에, 가장 아름다운 해답을**〉.
 
 ### 캐스트
 
-  - 니시노소노 모에 - [타케이 에미](https://ko.wikipedia.org/wiki/타케이_에미 "wikilink") (소녀 시절:우치다 아이)
-  - 사이카와 소헤이 - [아야노 고](https://ko.wikipedia.org/wiki/아야노_고 "wikilink")
+  - 니시노소노 모에 - [타케이 에미](../Page/타케이_에미.md "wikilink") (소녀 시절:우치다 아이)
+  - 사이카와 소헤이 - [아야노 고](../Page/아야노_고.md "wikilink")
   - 키타 호쿠토 - 오자와 유키요시
-  - 마가타 시키 - [하야미 아카리](https://ko.wikipedia.org/wiki/하야미_아카리 "wikilink")
+  - 마가타 시키 - [하야미 아카리](../Page/하야미_아카리.md "wikilink")
   - 우카이 다이스케 - 토츠기 시게유키
-  - 쿠니에다 모모코 - [미즈사와 에레나](https://ko.wikipedia.org/wiki/미즈사와_에레나 "wikilink")
+  - 쿠니에다 모모코 - [미즈사와 에레나](../Page/미즈사와_에레나.md "wikilink")
   - 니시노소노 쇼스케 - 요시다 코타로
 
 ### 스태프
@@ -70,10 +70,10 @@
   - 각본 - 쿠로이와 츠토무, 코야마 쇼타
   - 음악 - 카와이 켄지
   - 연출 - 죠호 히데노리, 오구라 히사오, 코바야시 요시노리
-  - 주제가 - 게스 노 키와미 오토메 〈디지털 두더지〉 ([워너 뮤직 재팬](https://ko.wikipedia.org/wiki/워너_뮤직_재팬 "wikilink")/unBORDE)
+  - 주제가 - 게스 노 키와미 오토메 〈디지털 두더지〉 ([워너 뮤직 재팬](../Page/워너_뮤직_재팬.md "wikilink")/unBORDE)
   - 기획 - 나리카와 히로아키, 카토 타츠야
   - 프로듀스 - 오구라 히사오, 카시카와 사토코
-  - 제작 - [후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink")
+  - 제작 - [후지 TV](../Page/후지_TV.md "wikilink")
   - 제작 저작 - 쿄도 TV
 
 ### 방송 일자
@@ -204,7 +204,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>평균 시청률 8.9% (시청률은 <a href="https://ko.wikipedia.org/wiki/간토_지방" title="wikilink">칸토 지구</a>·<a href="https://ko.wikipedia.org/wiki/비디오_리서치" title="wikilink">비디오 리서치사</a> 조사)</p></td>
+<td><p>평균 시청률 8.9% (시청률은 <a href="../Page/간토_지방.md" title="wikilink">칸토 지구</a>·<a href="../Page/비디오_리서치.md" title="wikilink">비디오 리서치사</a> 조사)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -218,13 +218,13 @@
 
 ## 텔레비전 애니메이션
 
-2014년 [11월 27일](https://ko.wikipedia.org/wiki/11월_27일 "wikilink"), 텔레비전 애니메이션화가 발표되었다\[2\]. [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [10월](https://ko.wikipedia.org/wiki/10월 "wikilink")부터 [12월](https://ko.wikipedia.org/wiki/12월 "wikilink")까지 [후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 계열에서 방송되었다.
+2014년 [11월 27일](../Page/11월_27일.md "wikilink"), 텔레비전 애니메이션화가 발표되었다\[2\]. [2015년](../Page/2015년.md "wikilink") [10월](../Page/10월.md "wikilink")부터 [12월](../Page/12월.md "wikilink")까지 [후지 TV](../Page/후지_TV.md "wikilink") 계열에서 방송되었다.
 
 ### 스태프
 
   - 원작 - 모리 히로시 《모든 것이 F가 된다》 외 S\&M 시리즈 (코단샤 분코)
   - 감독 - 칸베 마모루
-  - 제작 - [A-1 Pictures](https://ko.wikipedia.org/wiki/A-1_Pictures "wikilink")
+  - 제작 - [A-1 Pictures](../Page/A-1_Pictures.md "wikilink")
 
 ## 각주
 

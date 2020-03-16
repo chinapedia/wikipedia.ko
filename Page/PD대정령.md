@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [PD](https://ko.wikipedia.org/wiki/PD).
 
 
-**PD대정령**(, 1990년 \~ )은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [아프리카TV](https://ko.wikipedia.org/wiki/아프리카TV "wikilink") BJ로 활동하고 있다. 2016년 5월 24일 기준으로 아프리카TV 방송국에 등록된 애청자는 약 80만 명, 팬클럽 등록자는 약 5만 명이다.\[1\]
+**PD대정령**(, 1990년 \~ )은 [대한민국](../Page/대한민국.md "wikilink")의 [아프리카TV](../Page/아프리카TV.md "wikilink") BJ로 활동하고 있다. 2016년 5월 24일 기준으로 아프리카TV 방송국에 등록된 애청자는 약 80만 명, 팬클럽 등록자는 약 5만 명이다.\[1\]
 
 ## 방송
 
 원래 꿈은 방송과 거리가 멀었으나 친구가 아프리카TV를 추천해서 흥미를 느꼈고\[2\] 마침 마술 방송이 없는 것을 발견하고 마술 실력을 키울 겸 2008년 11월\[3\] BJ아킬레스라는 별명으로 아프리카TV를 시작했다. 당시 얼굴을 공개하지 않고 가면를 쓰고 방송하는데도 인기가 많아 아프리카TV에 마술 카테고리까지 생겼다.\[4\] 하지만 방송하면서 실수를 많이 하니 새로운 스타일로 다시 시작하고자\[5\] [다음 tv팟에서](https://ko.wikipedia.org/wiki/다음_tv팟 "wikilink") 방송할 때 대정령으로 바꿨다.\[6\]
 
-자신이 즐겨하던 게임 [리니지](https://ko.wikipedia.org/wiki/리니지 "wikilink")의 몬스터 **정령**에 **대**(大)자를 붙인 것이다. 게임방송으로 전향 후 [아프리카 TV로](https://ko.wikipedia.org/wiki/아프리카_TV "wikilink") 돌아와 본명을 사용하려 했지만\[7\] 이미 있어서 대정령에 PD를 붙여 PD대정령으로 사용하게 됐다.\[8\] 한편으론 [오타쿠](https://ko.wikipedia.org/wiki/오타쿠 "wikilink")같다는 생각이 종종 들어 별명에 대한 아쉬움을 밝혔다.\[9\] 이후 [마술](https://ko.wikipedia.org/wiki/마술 "wikilink")로는 수익이 부족해 방송홍보용 '마술도 할줄 아는 게임 BJ'라고 쓰고 본격적으로 게임에 집중하기 시작했다.\[10\]
+자신이 즐겨하던 게임 [리니지](https://ko.wikipedia.org/wiki/리니지 "wikilink")의 몬스터 **정령**에 **대**(大)자를 붙인 것이다. 게임방송으로 전향 후 [아프리카 TV로](https://ko.wikipedia.org/wiki/아프리카_TV "wikilink") 돌아와 본명을 사용하려 했지만\[7\] 이미 있어서 대정령에 PD를 붙여 PD대정령으로 사용하게 됐다.\[8\] 한편으론 [오타쿠](../Page/오타쿠.md "wikilink")같다는 생각이 종종 들어 별명에 대한 아쉬움을 밝혔다.\[9\] 이후 [마술](../Page/마술.md "wikilink")로는 수익이 부족해 방송홍보용 '마술도 할줄 아는 게임 BJ'라고 쓰고 본격적으로 게임에 집중하기 시작했다.\[10\]
 
 ### 특징
 

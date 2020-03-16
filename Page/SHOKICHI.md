@@ -1,16 +1,16 @@
 > This article is converted from Wikipedia: [SHOKICHI](https://ko.wikipedia.org/wiki/SHOKICHI).
 
 
-**SHOKICHI**(쇼키치, [1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink") [10월 3일](https://ko.wikipedia.org/wiki/10월_3일 "wikilink") \~ )는, [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이며, [EXILE](https://ko.wikipedia.org/wiki/EXILE "wikilink"), [EXILE THE SECOND의](../Page/EXILE_THE_SECOND.md "wikilink") 멤버이다. 본명, **야기 쇼키치**().
+**SHOKICHI**(쇼키치, [1985년](../Page/1985년.md "wikilink") [10월 3일](../Page/10월_3일.md "wikilink") \~ )는, [일본](../Page/일본.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이며, [EXILE](../Page/EXILE.md "wikilink"), [EXILE THE SECOND의](../Page/EXILE_THE_SECOND.md "wikilink") 멤버이다. 본명, **야기 쇼키치**().
 
-[홋카이도](https://ko.wikipedia.org/wiki/홋카이도 "wikilink") [토마코마이 시](https://ko.wikipedia.org/wiki/도마코마이_시 "wikilink") 출신. [LDH](https://ko.wikipedia.org/wiki/LDH "wikilink") 소속.
+[홋카이도](../Page/홋카이도.md "wikilink") [토마코마이 시](https://ko.wikipedia.org/wiki/도마코마이_시 "wikilink") 출신. [LDH](https://ko.wikipedia.org/wiki/LDH "wikilink") 소속.
 
 ## 참가 그룹
 
   - Jack Pot (2004년 \~ 2005년)
   - symphony (2005년 \~ 불명)
   - [2대째 J Soul Brothers](../Page/J_Soul_Brothers.md "wikilink") (2007년 1월 25일 \~ 2009년 3월 1일)
-  - [EXILE](https://ko.wikipedia.org/wiki/EXILE "wikilink") (2009년 3월 1일 \~ )
+  - [EXILE](../Page/EXILE.md "wikilink") (2009년 3월 1일 \~ )
   - [EXILE THE SECOND](../Page/EXILE_THE_SECOND.md "wikilink") (2012년 7월 1일 \~ )
 
 ## 작품

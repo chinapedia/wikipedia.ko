@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [PowerDNS](https://ko.wikipedia.org/wiki/PowerDNS).
 
 
-**PowerDNS**는 [C++](https://ko.wikipedia.org/wiki/C++ "wikilink")로 제작된 [DNS](https://ko.wikipedia.org/wiki/도메인_네임_시스템 "wikilink") [서버](https://ko.wikipedia.org/wiki/서버 "wikilink") 시스템이다. [GPL](https://ko.wikipedia.org/wiki/GNU_일반_공중_사용_허가서 "wikilink") 라이선스를 사용한다.
+**PowerDNS**는 [C++](https://ko.wikipedia.org/wiki/C++ "wikilink")로 제작된 [DNS](../Page/도메인_네임_시스템.md "wikilink") [서버](../Page/서버.md "wikilink") 시스템이다. [GPL](../Page/GNU_일반_공중_사용_허가서.md "wikilink") 라이선스를 사용한다.
 
 ## 각주
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Rock \& Razor Techno Music](https://ko.wikipedia.org/wiki/Rock_\&_Razor_Techno_Music).
 
 
-《**Rock & Razor Techno Music**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 가수 겸 배우 [임창정](https://ko.wikipedia.org/wiki/임창정 "wikilink")의 데뷔 앨범이다.
+《**Rock & Razor Techno Music**》는 [대한민국](../Page/대한민국.md "wikilink")의 가수 겸 배우 [임창정](../Page/임창정.md "wikilink")의 데뷔 앨범이다.
 
 ## 활동
 
@@ -16,7 +16,7 @@
 **스텝**
 
   - 기획&제작 - 한중대산
-  - [프로듀서](https://ko.wikipedia.org/wiki/음악_프로듀서 "wikilink") - 황규중
+  - [프로듀서](../Page/음악_프로듀서.md "wikilink") - 황규중
   - 뮤직 디렉터 - 이세건, 송재일
   - 편곡 - 이세건, 송재일, 이영국, 임창정
   - 키보드&피아노 - 최태완

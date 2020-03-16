@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [ELLY](https://ko.wikipedia.org/wiki/ELLY).
 
 
-**ELLY**(엘리, [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink") [9월 21일](https://ko.wikipedia.org/wiki/9월_21일 "wikilink") \~ )는, [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 댄서이며, [3대째 J Soul Brothers의](../Page/J_Soul_Brothers.md "wikilink") 멤버이다.
+**ELLY**(엘리, [1987년](../Page/1987년.md "wikilink") [9월 21일](../Page/9월_21일.md "wikilink") \~ )는, [일본](../Page/일본.md "wikilink")의 댄서이며, [3대째 J Soul Brothers의](../Page/J_Soul_Brothers.md "wikilink") 멤버이다.
 
-[아오모리현](https://ko.wikipedia.org/wiki/아오모리현 "wikilink") [미사와 시](https://ko.wikipedia.org/wiki/미사와_시 "wikilink") 출신. [LDH](https://ko.wikipedia.org/wiki/LDH "wikilink") 소속.
+[아오모리현](../Page/아오모리현.md "wikilink") [미사와 시](https://ko.wikipedia.org/wiki/미사와_시 "wikilink") 출신. [LDH](https://ko.wikipedia.org/wiki/LDH "wikilink") 소속.
 
 ## 내력
 
-[2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") 4월, 극단 EXILE 카제구미의 멤버가 된다. 7월, 3대째 J Soul Brothers의 퍼포머로 선택된다. 9월 27일, 《FANTASY 후야제 \~EXLE 혼\~》에서, 첫 피로된다\[1\]. 11월 10일, 싱글 〈Best Friend's Girl〉로 데뷔.
+[2010년](../Page/2010년.md "wikilink") 4월, 극단 EXILE 카제구미의 멤버가 된다. 7월, 3대째 J Soul Brothers의 퍼포머로 선택된다. 9월 27일, 《FANTASY 후야제 \~EXLE 혼\~》에서, 첫 피로된다\[1\]. 11월 10일, 싱글 〈Best Friend's Girl〉로 데뷔.
 
-[2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") 7월 19일, 병행해 활동하고 있던 극단 EXILE 카제구미를 탈퇴한다.
+[2011년](../Page/2011년.md "wikilink") 7월 19일, 병행해 활동하고 있던 극단 EXILE 카제구미를 탈퇴한다.
 
 ## 인물
 
@@ -19,15 +19,15 @@
 
 ### 드라마
 
-  - 비바 BLUES 제7화 (2011년 8월 17일, [닛폰 TV](https://ko.wikipedia.org/wiki/닛폰_TV_방송망 "wikilink"))
+  - 비바 BLUES 제7화 (2011년 8월 17일, [닛폰 TV](../Page/닛폰_TV_방송망.md "wikilink"))
   - HiGH\&LOW\~THE STORY OF S.W.O.R.D.\~ (2015년 10월 \~ 12월, 닛폰 TV) - Ice 역
       - HiGH\&LOW Season2 (2016년 4월 \~ 6월)
 
 ### 영화
 
-  - [크로우즈 EXPLODE](https://ko.wikipedia.org/wiki/크로우즈_제로 "wikilink") (2014년, [토호](https://ko.wikipedia.org/wiki/도호 "wikilink")) - 야마시타 코헤이 역
+  - [크로우즈 EXPLODE](../Page/크로우즈_제로.md "wikilink") (2014년, [토호](../Page/도호.md "wikilink")) - 야마시타 코헤이 역
   - TRASH/트래시 (2015년) - 켄토 역
-  - HiGH\&LOW THE MOVIE (2016년, [쇼치쿠](https://ko.wikipedia.org/wiki/쇼치쿠 "wikilink")) - Ice 역
+  - HiGH\&LOW THE MOVIE (2016년, [쇼치쿠](../Page/쇼치쿠.md "wikilink")) - Ice 역
 
 ## 각주
 

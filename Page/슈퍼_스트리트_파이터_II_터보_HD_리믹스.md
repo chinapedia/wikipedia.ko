@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [   II  HD ](https://ko.wikipedia.org/wiki/___II__HD_).
 
 
-《**슈퍼 스트리트 파이터 II 터보 HD 리믹스**》(Super Street Fighter II Turbo HD Remix)는 [플레이스테이션 스토어와](https://ko.wikipedia.org/wiki/플레이스테이션_스토어 "wikilink") [엑스박스 라이브 아케이드](https://ko.wikipedia.org/wiki/엑스박스_라이브_아케이드 "wikilink") 다운로드 서비스를 사용하는 2D [대전 격투 게임이다](https://ko.wikipedia.org/wiki/대전_격투_게임 "wikilink"). 하이퍼 버전 발매 5년 후에 발매되었으며 그림체가 많이 변경되었다. 기본적으로는 슈퍼 스트리트 파이터 2와 슈퍼 스트리트 파이터 2 터보를 바탕으로 하여 그림체와 음향 구성을 달리해 이전작과는 차이가 확연하다. 미국에서 제작되었으며 코믹스 담당 회사였던 우동 엔터테인먼트가 제작 과정에서 참여한 바가 있는데 후에 우동 코믹스의 설정이 후속 시리즈 등을 통해 시리즈에 반영되었으며 그에 맞춰 캐릭터 성격이 변경되기도 하였다.
+《**슈퍼 스트리트 파이터 II 터보 HD 리믹스**》(Super Street Fighter II Turbo HD Remix)는 [플레이스테이션 스토어와](../Page/플레이스테이션_스토어.md "wikilink") [엑스박스 라이브 아케이드](https://ko.wikipedia.org/wiki/엑스박스_라이브_아케이드 "wikilink") 다운로드 서비스를 사용하는 2D [대전 격투 게임이다](https://ko.wikipedia.org/wiki/대전_격투_게임 "wikilink"). 하이퍼 버전 발매 5년 후에 발매되었으며 그림체가 많이 변경되었다. 기본적으로는 슈퍼 스트리트 파이터 2와 슈퍼 스트리트 파이터 2 터보를 바탕으로 하여 그림체와 음향 구성을 달리해 이전작과는 차이가 확연하다. 미국에서 제작되었으며 코믹스 담당 회사였던 우동 엔터테인먼트가 제작 과정에서 참여한 바가 있는데 후에 우동 코믹스의 설정이 후속 시리즈 등을 통해 시리즈에 반영되었으며 그에 맞춰 캐릭터 성격이 변경되기도 하였다.
 
 ## 게임플레이
 
