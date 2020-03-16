@@ -236,7 +236,7 @@
 
 <!-- end list -->
 
-  - [길비 시귀르드손](https://ko.wikipedia.org/wiki/길비_시귀르드손 "wikilink")
+  - [길비 시귀르드손](../Page/길비_시귀르드손.md "wikilink")
 
 <!-- end list -->
 
@@ -268,7 +268,7 @@
 
   - [발레리스 샤발라](https://ko.wikipedia.org/wiki/발레리스_샤발라 "wikilink")
 
-  - [로빈 판 페르시](https://ko.wikipedia.org/wiki/로빈_판_페르시 "wikilink")
+  - [로빈 판 페르시](../Page/로빈_판_페르시.md "wikilink")
 
   - [셀추크 이난](../Page/셀추크_이난.md "wikilink")
 
@@ -278,7 +278,7 @@
 
 <!-- end list -->
 
-  - [바츨라프 필라르](https://ko.wikipedia.org/wiki/바츨라프_필라르 "wikilink")
+  - [바츨라프 필라르](../Page/바츨라프_필라르.md "wikilink")
 
   - [밀란 슈코다](../Page/밀란_슈코다.md "wikilink")
 
@@ -294,7 +294,7 @@
 
   - [헤오르히니오 바이날둠](https://ko.wikipedia.org/wiki/헤오르히니오_바이날둠 "wikilink")
 
-  - [아르다 투란](https://ko.wikipedia.org/wiki/아르다_투란 "wikilink")
+  - [아르다 투란](../Page/아르다_투란.md "wikilink")
 
 <!-- end list -->
 
@@ -310,11 +310,11 @@
 
   - [다비트 라파타](../Page/다비트_라파타.md "wikilink")
 
-  - [다비트 림베르스키](https://ko.wikipedia.org/wiki/다비트_림베르스키 "wikilink")
+  - [다비트 림베르스키](../Page/다비트_림베르스키.md "wikilink")
 
   - [토마시 네치드](https://ko.wikipedia.org/wiki/토마시_네치드 "wikilink")
 
-  - [토마시 시보크](https://ko.wikipedia.org/wiki/토마시_시보크 "wikilink")
+  - [토마시 시보크](../Page/토마시_시보크.md "wikilink")
 
   - [요세프 슈랄](../Page/요세프_슈랄.md "wikilink")
 
@@ -326,7 +326,7 @@
 
   - [라그나르 시귀르드손](../Page/라그나르_시귀르드손.md "wikilink")
 
-  - [알렉산드르스 차우냐](https://ko.wikipedia.org/wiki/알렉산드르스_차우냐 "wikilink")
+  - [알렉산드르스 차우냐](../Page/알렉산드르스_차우냐.md "wikilink")
 
   - [알렉세이스 비슈냐코프스](https://ko.wikipedia.org/wiki/알렉세이스_비슈냐코프스 "wikilink")
 
@@ -336,13 +336,13 @@
 
   - [사마트 스마코프](https://ko.wikipedia.org/wiki/사마트_스마코프 "wikilink")
 
-  - [이브라힘 아펠라이](https://ko.wikipedia.org/wiki/이브라힘_아펠라이 "wikilink")
+  - [이브라힘 아펠라이](../Page/이브라힘_아펠라이.md "wikilink")
 
   - [제프리 브뤼마](../Page/제프리_브뤼마.md "wikilink")
 
   - [스테판 더 프레이](../Page/스테판_더_프레이.md "wikilink")
 
-  - [뤼시아노 나르싱](https://ko.wikipedia.org/wiki/뤼시아노_나르싱 "wikilink")
+  - [뤼시아노 나르싱](../Page/뤼시아노_나르싱.md "wikilink")
 
   - [베슬레이 스네이더르](https://ko.wikipedia.org/wiki/베슬레이_스네이더르 "wikilink")
 
@@ -364,7 +364,7 @@
 
   - [한네스 쏘르 할도르손](https://ko.wikipedia.org/wiki/한네스_쏘르_할도르손 "wikilink")(체코전 자책골)
 
-  - [로빈 판 페르시](https://ko.wikipedia.org/wiki/로빈_판_페르시 "wikilink")(체코전 자책골)
+  - [로빈 판 페르시](../Page/로빈_판_페르시.md "wikilink")(체코전 자책골)
 
 ## 기록
 

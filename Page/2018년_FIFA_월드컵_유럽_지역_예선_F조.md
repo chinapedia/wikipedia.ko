@@ -219,7 +219,7 @@
 
 <!-- end list -->
 
-  - [해리 케인](https://ko.wikipedia.org/wiki/해리_케인 "wikilink")
+  - [해리 케인](../Page/해리_케인.md "wikilink")
 
 <!-- end list -->
 
@@ -239,9 +239,9 @@
 
 <!-- end list -->
 
-  - [애덤 럴라나](https://ko.wikipedia.org/wiki/애덤_럴라나 "wikilink")
+  - [애덤 럴라나](../Page/애덤_럴라나.md "wikilink")
 
-  - [대니얼 스터리지](https://ko.wikipedia.org/wiki/대니얼_스터리지 "wikilink")
+  - [대니얼 스터리지](../Page/대니얼_스터리지.md "wikilink")
 
   - [리 그리피스](../Page/리_그리피스.md "wikilink")
 
@@ -251,7 +251,7 @@
 
   - [블라디미르 베이스](https://ko.wikipedia.org/wiki/블라디미르_베이스_\(1989년\) "wikilink")
 
-  - [마레크 함시크](https://ko.wikipedia.org/wiki/마레크_함시크 "wikilink")
+  - [마레크 함시크](../Page/마레크_함시크.md "wikilink")
 
 <!-- end list -->
 
@@ -261,11 +261,11 @@
 
   - [델레 알리](../Page/델레_알리.md "wikilink")
 
-  - [게리 케이힐](https://ko.wikipedia.org/wiki/게리_케이힐 "wikilink")
+  - [게리 케이힐](../Page/게리_케이힐.md "wikilink")
 
-  - [앨릭스 옥슬레이드체임벌린](https://ko.wikipedia.org/wiki/앨릭스_옥슬레이드체임벌린 "wikilink")
+  - [앨릭스 옥슬레이드체임벌린](../Page/앨릭스_옥슬레이드체임벌린.md "wikilink")
 
-  - [저메인 디포](https://ko.wikipedia.org/wiki/저메인_디포 "wikilink")
+  - [저메인 디포](../Page/저메인_디포.md "wikilink")
 
   - [제이미 바디](../Page/제이미_바디.md "wikilink")
 
@@ -277,15 +277,15 @@
 
   - [장 폴 파루자](https://ko.wikipedia.org/wiki/장_폴_파루자 "wikilink")
 
-  - [스티븐 플레처](https://ko.wikipedia.org/wiki/스티븐_플레처 "wikilink")
+  - [스티븐 플레처](../Page/스티븐_플레처.md "wikilink")
 
   - [제임스 매카서](../Page/제임스_매카서.md "wikilink")
 
   - [얀 그레구시](../Page/얀_그레구시.md "wikilink")
 
-  - [유라이 쿠츠카](https://ko.wikipedia.org/wiki/유라이_쿠츠카 "wikilink")
+  - [유라이 쿠츠카](../Page/유라이_쿠츠카.md "wikilink")
 
-  - [마르틴 슈크르텔](https://ko.wikipedia.org/wiki/마르틴_슈크르텔 "wikilink")
+  - [마르틴 슈크르텔](../Page/마르틴_슈크르텔.md "wikilink")
 
   - [보슈찬 체사르](../Page/보슈찬_체사르.md "wikilink")
 
@@ -295,7 +295,7 @@
 
   - [로크 크로나베테르](https://ko.wikipedia.org/wiki/로크_크로나베테르 "wikilink")
 
-  - [밀리보예 노바코비치](https://ko.wikipedia.org/wiki/밀리보예_노바코비치 "wikilink")
+  - [밀리보예 노바코비치](../Page/밀리보예_노바코비치.md "wikilink")
 
   - [베냐민 베르비치](https://ko.wikipedia.org/wiki/베냐민_베르비치 "wikilink")
 

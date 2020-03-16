@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FUSE OF LOVE](https://ko.wikipedia.org/wiki/FUSE_OF_LOVE).
 
 
-《**FUSE OF LOVE**》(퓨즈 오브 러브)는 [쿠라키 마이의](https://ko.wikipedia.org/wiki/쿠라키_마이 "wikilink") 5번째 [정규 음반이다](https://ko.wikipedia.org/wiki/정규_음반 "wikilink").
+《**FUSE OF LOVE**》(퓨즈 오브 러브)는 [쿠라키 마이의](../Page/쿠라키_마이.md "wikilink") 5번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
 
 ## 개요
 
@@ -21,10 +21,10 @@
       -
         원거리 연애중의 두 사람이 오랜만에 만난 심경을 부른 곡.
 2.  **[P.S♡MY SUNSHINE](https://ko.wikipedia.org/wiki/P.S_MY_SUNSHINE "wikilink")** \[3:48\]
-      - 작곡 · 편곡: [오카모토 히토시](https://ko.wikipedia.org/wiki/오카모토_히토시 "wikilink")([가넷 크로우](https://ko.wikipedia.org/wiki/가넷_크로우 "wikilink"))
+      - 작곡 · 편곡: [오카모토 히토시](../Page/오카모토_히토시.md "wikilink")([가넷 크로우](https://ko.wikipedia.org/wiki/가넷_크로우 "wikilink"))
     <!-- end list -->
       -
-        21번째 싱글. [후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 《[메자마시 토요일](https://ko.wikipedia.org/wiki/메자마시_토요일 "wikilink")》 테마송(2005년 4월 \~ 2005년 6월)
+        21번째 싱글. [후지 TV](../Page/후지_TV.md "wikilink") 《[메자마시 토요일](https://ko.wikipedia.org/wiki/메자마시_토요일 "wikilink")》 테마송(2005년 4월 \~ 2005년 6월)
 3.  **[You look at me\~one](../Page/댄싱_\(쿠라키_마이의_노래\).md "wikilink")** \[3:58\]
       - 작곡 · 편곡: [오가 요시노부](https://ko.wikipedia.org/wiki/오가_요시노부 "wikilink")([OOM](https://ko.wikipedia.org/wiki/OOM "wikilink"))
     <!-- end list -->
@@ -49,7 +49,7 @@
       - 작곡 · 편곡: [토쿠나가 아키히토](../Page/토쿠나가_아키히토.md "wikilink")
     <!-- end list -->
       -
-        20번째 싱글. [J리그](../Page/J리그.md "wikilink") [도쿠시마 보르티스](https://ko.wikipedia.org/wiki/도쿠시마_보르티스 "wikilink") 공식 테마곡. ‘여러 멜로디 호출중의 소리’() [CM송](https://ko.wikipedia.org/wiki/광고_음악 "wikilink").
+        20번째 싱글. [J리그](../Page/J리그.md "wikilink") [도쿠시마 보르티스](../Page/도쿠시마_보르티스.md "wikilink") 공식 테마곡. ‘여러 멜로디 호출중의 소리’() [CM송](https://ko.wikipedia.org/wiki/광고_음악 "wikilink").
 8.  **Tell me what** \[3:49\]
       - 작곡: 오노 아이카, 편곡: 오카모토 히토시
 9.  **LOVE SICK** \[4:06\]
@@ -68,7 +68,7 @@
       - 작곡: 오노 아이카, 편곡: 아사이 히로시
     <!-- end list -->
       -
-        라이브에서는 앙코르에 거의 반드시 피로되는 작품으로 관객과의 제창이 단골이 되고 있는 악곡이다. 발매로부터 5년의 시간을 넘어서 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [6월 19일에](https://ko.wikipedia.org/wiki/6월_19일 "wikilink") 공개된 영화 《[소프트 보이즈](https://ko.wikipedia.org/wiki/소프트_보이즈 "wikilink")》의 주제가로 사용되는 것이 결정되었다. 이것는 재녹음된 시네마 버전이며, 디지털 음악으로 배포되고 있다.
+        라이브에서는 앙코르에 거의 반드시 피로되는 작품으로 관객과의 제창이 단골이 되고 있는 악곡이다. 발매로부터 5년의 시간을 넘어서 [2010년](../Page/2010년.md "wikilink") [6월 19일에](../Page/6월_19일.md "wikilink") 공개된 영화 《[소프트 보이즈](https://ko.wikipedia.org/wiki/소프트_보이즈 "wikilink")》의 주제가로 사용되는 것이 결정되었다. 이것는 재녹음된 시네마 버전이며, 디지털 음악으로 배포되고 있다.
 
 ## 외부 링크
 

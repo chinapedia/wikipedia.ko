@@ -5,9 +5,9 @@
 
 ## 차트 성적 및 평가
 
-[2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [9월 5일](https://ko.wikipedia.org/wiki/9월_5일 "wikilink"), 강원도 인제 스피디움에서 진행된 라디오 채널 [SBS 러브 FM의](https://ko.wikipedia.org/wiki/SBS_러브_FM "wikilink") 프로그램 《[박영진, 박지선의 명랑특급](https://ko.wikipedia.org/wiki/명랑특급 "wikilink")》의 공개방송에서 무대하는 도중에 8번이나 넘어지는 무대 사고 영상이 팬에 의해서 공개되면서, 미국의 [타임지와](https://ko.wikipedia.org/wiki/타임_\(잡지\) "wikilink") 영국의 [데일리 메일](https://ko.wikipedia.org/wiki/데일리_메일 "wikilink") 등 외신에 보도되면서\[1\]\[2\], 공개된 영상은 하루만에 100만건의 조회수를 돌파했다.\[3\] 본 음원은 음원 차트의 역주행을 기록하면서\[4\], 6개월 이상 순위권 안에 머무르고 있다.\[5\]
+[2015년](../Page/2015년.md "wikilink") [9월 5일](../Page/9월_5일.md "wikilink"), 강원도 인제 스피디움에서 진행된 라디오 채널 [SBS 러브 FM의](https://ko.wikipedia.org/wiki/SBS_러브_FM "wikilink") 프로그램 《[박영진, 박지선의 명랑특급](https://ko.wikipedia.org/wiki/명랑특급 "wikilink")》의 공개방송에서 무대하는 도중에 8번이나 넘어지는 무대 사고 영상이 팬에 의해서 공개되면서, 미국의 [타임지와](../Page/타임_\(잡지\).md "wikilink") 영국의 [데일리 메일](../Page/데일리_메일.md "wikilink") 등 외신에 보도되면서\[1\]\[2\], 공개된 영상은 하루만에 100만건의 조회수를 돌파했다.\[3\] 본 음원은 음원 차트의 역주행을 기록하면서\[4\], 6개월 이상 순위권 안에 머무르고 있다.\[5\]
 
-2016년 19주차에 1,566,449건을 기록하여 8700만건을 넘어서면서 종전 걸그룹 최고 기록인 [EXID](https://ko.wikipedia.org/wiki/EXID "wikilink") 〈[위아래](../Page/위아래.md "wikilink")〉의 8600만건을 넘어섰다. 그리고 그 이후에도 롱런을 하면서 결국 2016년 30주차에 최초로 누적 스트리밍 **1억**건을 돌파하게 되었다.\[6\]
+2016년 19주차에 1,566,449건을 기록하여 8700만건을 넘어서면서 종전 걸그룹 최고 기록인 [EXID](../Page/EXID.md "wikilink") 〈[위아래](../Page/위아래.md "wikilink")〉의 8600만건을 넘어섰다. 그리고 그 이후에도 롱런을 하면서 결국 2016년 30주차에 최초로 누적 스트리밍 **1억**건을 돌파하게 되었다.\[6\]
 
 ## 차트
 
@@ -23,7 +23,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>대한민국 (<a href="https://ko.wikipedia.org/wiki/가온_디지털_차트" title="wikilink">가온 디지털 차트</a>)[7]</p></td>
+<td><p>대한민국 (<a href="../Page/가온_디지털_차트.md" title="wikilink">가온 디지털 차트</a>)[7]</p></td>
 <td><p>8</p></td>
 </tr>
 <tr class="even">

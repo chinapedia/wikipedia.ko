@@ -52,7 +52,7 @@
 
 <!-- end list -->
 
-1.  "Is Anybody There? 누구 없소? (한국 · 윤항기&윤복희)" ([윤복희](https://ko.wikipedia.org/wiki/윤복희 "wikilink") 작사 / [윤복희](https://ko.wikipedia.org/wiki/윤복희 "wikilink") 작곡) ***- 은상 수상***
+1.  "Is Anybody There? 누구 없소? (한국 · 윤항기&윤복희)" ([윤복희](../Page/윤복희.md "wikilink") 작사 / [윤복희](../Page/윤복희.md "wikilink") 작곡) ***- 은상 수상***
 2.  "To The World on High 저 높은곳을 향하여(한국 · 이영화)" ([전재학](https://ko.wikipedia.org/wiki/전재학 "wikilink") 작사 / [전재학](https://ko.wikipedia.org/wiki/전재학 "wikilink") 작곡) ***- 빌보드특별상 수상***
 3.  "Music is My Life 음악은 나의 생명 (한국 · 이종식과 사랑의 샘)" ([이종식](https://ko.wikipedia.org/wiki/이종식 "wikilink") 작사 / [이종식](https://ko.wikipedia.org/wiki/이종식 "wikilink") 작곡)
 4.  "Don't Give Up 한줄기 목소리 (캐나다 · Steamer)" (미상 작사 / 미상 작곡)
@@ -62,12 +62,12 @@
 국제가요제로 확대 편성된 1978년부터 1981년까지는 대회 참가를 원하는 가수들이 많아서 본 행사 이전에 본선에 출전할 대표를 선발하기 위한 예선전 성격의 《서울 국제가요제. 국내대회》를 개최하였다. 1981년의 참가자는 다음과 같다.
 
 1.  "사랑의 길 (최연미)" ([정귀문](https://ko.wikipedia.org/wiki/정귀문 "wikilink") 작사 / [김다양](https://ko.wikipedia.org/wiki/김다양 "wikilink") 작곡)
-2.  "애로 (미희와 초록별)" ([함중아](https://ko.wikipedia.org/wiki/함중아 "wikilink") 작사 / [함중아](https://ko.wikipedia.org/wiki/함중아 "wikilink") 작곡)
+2.  "애로 (미희와 초록별)" ([함중아](../Page/함중아.md "wikilink") 작사 / [함중아](../Page/함중아.md "wikilink") 작곡)
 3.  "빗속에서 (이광조)" ([김영배](https://ko.wikipedia.org/wiki/김영배 "wikilink") 작사 / [김영배](https://ko.wikipedia.org/wiki/김영배 "wikilink") 작곡)
-4.  "모두 다 사랑하리 (송골매)" ([김정선](https://ko.wikipedia.org/wiki/김정선 "wikilink") 작사 / [김수철](https://ko.wikipedia.org/wiki/김수철 "wikilink") 작곡)
+4.  "모두 다 사랑하리 (송골매)" ([김정선](../Page/김정선.md "wikilink") 작사 / [김수철](https://ko.wikipedia.org/wiki/김수철 "wikilink") 작곡)
 5.  "누구나 지금도 (세샘트리오)"
 6.  "무지개 피던 날 (장은경)"
-7.  "누구 없소 (윤항기)" ([윤복희](https://ko.wikipedia.org/wiki/윤복희 "wikilink") 작사 / [윤복희](https://ko.wikipedia.org/wiki/윤복희 "wikilink") 작곡)***- 본선 진출***
+7.  "누구 없소 (윤항기)" ([윤복희](../Page/윤복희.md "wikilink") 작사 / [윤복희](../Page/윤복희.md "wikilink") 작곡)***- 본선 진출***
 8.  "그사람 바보 (조한옥과 은날개)" ([조용하](https://ko.wikipedia.org/wiki/조용하 "wikilink") 작사 / [조한옥](https://ko.wikipedia.org/wiki/조한옥 "wikilink") 작곡)
 9.  "둥지를 버리고 날아간 새 (강정희)"
 10. "저 높은곳을 향하여 (이영화)" ([전재학](https://ko.wikipedia.org/wiki/전재학 "wikilink") 작사 / [전재학](https://ko.wikipedia.org/wiki/전재학 "wikilink") 작곡) ***- 본선 진출***

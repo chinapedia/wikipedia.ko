@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FK  ](https://ko.wikipedia.org/wiki/FK__).
 
 
-[FK리그](https://ko.wikipedia.org/wiki/FK리그 "wikilink")의 각종 기록과 통계와 관련된 문서이다.
+[FK리그](../Page/FK리그.md "wikilink")의 각종 기록과 통계와 관련된 문서이다.
 
 ## 클럽별 통산 기록
 

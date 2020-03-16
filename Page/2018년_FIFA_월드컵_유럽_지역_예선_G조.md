@@ -269,11 +269,11 @@
 
   - [디에고 코스타](https://ko.wikipedia.org/wiki/디에고_코스타 "wikilink")
 
-  - [알바로 모라타](https://ko.wikipedia.org/wiki/알바로_모라타 "wikilink")
+  - [알바로 모라타](../Page/알바로_모라타.md "wikilink")
 
-  - [다비드 실바](https://ko.wikipedia.org/wiki/다비드_실바 "wikilink")
+  - [다비드 실바](../Page/다비드_실바.md "wikilink")
 
-  - [이스코](https://ko.wikipedia.org/wiki/이스코 "wikilink")
+  - [이스코](../Page/이스코.md "wikilink")
 
 <!-- end list -->
 
@@ -283,7 +283,7 @@
 
   - [일리야 네스토로프스키](https://ko.wikipedia.org/wiki/일리야_네스토로프스키 "wikilink")
 
-  - [비톨로](https://ko.wikipedia.org/wiki/비톨로 "wikilink")
+  - [비톨로](../Page/비톨로.md "wikilink")
 
 <!-- end list -->
 
@@ -295,7 +295,7 @@
 
   - [토메르 헤메드](../Page/토메르_헤메드.md "wikilink")
 
-  - [안드레아 벨로티](https://ko.wikipedia.org/wiki/안드레아_벨로티 "wikilink")
+  - [안드레아 벨로티](../Page/안드레아_벨로티.md "wikilink")
 
 <!-- end list -->
 
@@ -309,9 +309,9 @@
 
   - [안토니오 칸드레바](../Page/안토니오_칸드레바.md "wikilink")
 
-  - [다니엘레 데 로시](https://ko.wikipedia.org/wiki/다니엘레_데_로시 "wikilink")
+  - [다니엘레 데 로시](../Page/다니엘레_데_로시.md "wikilink")
 
-  - [알바로 모라타](https://ko.wikipedia.org/wiki/알바로_모라타 "wikilink")
+  - [알바로 모라타](../Page/알바로_모라타.md "wikilink")
 
 <!-- end list -->
 
@@ -329,7 +329,7 @@
 
   - [에란 자하비](../Page/에란_자하비.md "wikilink")
 
-  - [안드레아 벨로티](https://ko.wikipedia.org/wiki/안드레아_벨로티 "wikilink")
+  - [안드레아 벨로티](../Page/안드레아_벨로티.md "wikilink")
 
   - [페데리코 베르나르데스키](../Page/페데리코_베르나르데스키.md "wikilink")
 
@@ -353,7 +353,7 @@
 
   - [아리츠 아두리스](../Page/아리츠_아두리스.md "wikilink")
 
-  - [나초 몬레알](https://ko.wikipedia.org/wiki/나초_몬레알 "wikilink")
+  - [나초 몬레알](../Page/나초_몬레알.md "wikilink")
 
   - [놀리토](../Page/놀리토.md "wikilink")
 

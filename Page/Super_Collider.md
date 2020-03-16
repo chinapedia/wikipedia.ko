@@ -15,7 +15,7 @@
 8.  "The Blackest Crow" – 4:27
 9.  "Forget to Remember"– 4:28
 10. "Don't Turn Your Back..." – 3:47
-11. "[Cold Sweat](https://ko.wikipedia.org/wiki/Cold_Sweat "wikilink")" ([신 리지](https://ko.wikipedia.org/wiki/신_리지 "wikilink") cover) – 3:10
+11. "[Cold Sweat](https://ko.wikipedia.org/wiki/Cold_Sweat "wikilink")" ([신 리지](../Page/신_리지.md "wikilink") cover) – 3:10
 
 ### 보너스 트랙
 

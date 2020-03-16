@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [Folding@home](https://ko.wikipedia.org/wiki/Folding@home).
 
 
-**Folding@home**(폴딩앳홈, FAH, F@h)은 [단백질 접힘](https://ko.wikipedia.org/wiki/단백질_접힘 "wikilink"), [의약품 설계](https://ko.wikipedia.org/wiki/의약품_설계 "wikilink"), 기타 종류의 [분자동역학](https://ko.wikipedia.org/wiki/분자동역학 "wikilink")을 시뮬레이트하는 [분산 컴퓨팅](https://ko.wikipedia.org/wiki/분산_컴퓨팅 "wikilink") 프로젝트이다.
+**Folding@home**(폴딩앳홈, FAH, F@h)은 [단백질 접힘](../Page/단백질_접힘.md "wikilink"), [의약품 설계](https://ko.wikipedia.org/wiki/의약품_설계 "wikilink"), 기타 종류의 [분자동역학](../Page/분자동역학.md "wikilink")을 시뮬레이트하는 [분산 컴퓨팅](../Page/분산_컴퓨팅.md "wikilink") 프로젝트이다.
 
-[알츠하이머병](https://ko.wikipedia.org/wiki/알츠하이머병 "wikilink"), [헌팅턴병](https://ko.wikipedia.org/wiki/헌팅턴병 "wikilink"), 많은 종류의 [암](https://ko.wikipedia.org/wiki/암 "wikilink") 등의 질병들에 대한 학술적 연구의 관심 속에서 진행되고 있다.
+[알츠하이머병](../Page/알츠하이머병.md "wikilink"), [헌팅턴병](../Page/헌팅턴병.md "wikilink"), 많은 종류의 [암](../Page/암.md "wikilink") 등의 질병들에 대한 학술적 연구의 관심 속에서 진행되고 있다.
 
-이 프로젝트는 분산 컴퓨팅과 과학 연구를 위해 [GPU](https://ko.wikipedia.org/wiki/그래픽_처리_장치 "wikilink"), [플레이스테이션 3](https://ko.wikipedia.org/wiki/플레이스테이션_3 "wikilink"), [메시지 전달 인터페이스](https://ko.wikipedia.org/wiki/메시지_전달_인터페이스 "wikilink")([멀티 코어](https://ko.wikipedia.org/wiki/멀티_코어 "wikilink") 프로세서의 컴퓨팅에 사용), 일부 [소니 엑스페리아](https://ko.wikipedia.org/wiki/소니_엑스페리아 "wikilink") 스마트폰에 응용되고 있다.
+이 프로젝트는 분산 컴퓨팅과 과학 연구를 위해 [GPU](../Page/그래픽_처리_장치.md "wikilink"), [플레이스테이션 3](../Page/플레이스테이션_3.md "wikilink"), [메시지 전달 인터페이스](https://ko.wikipedia.org/wiki/메시지_전달_인터페이스 "wikilink")([멀티 코어](../Page/멀티_코어.md "wikilink") 프로세서의 컴퓨팅에 사용), 일부 [소니 엑스페리아](../Page/소니_엑스페리아.md "wikilink") 스마트폰에 응용되고 있다.
 
-Folding@home은 약 40 페타[플롭스](https://ko.wikipedia.org/wiki/플롭스 "wikilink")에 육박할만큼 세계에서 가장 빠른 컴퓨팅 시스템들 가운데 하나이다.\[1\]
+Folding@home은 약 40 페타[플롭스](../Page/플롭스.md "wikilink")에 육박할만큼 세계에서 가장 빠른 컴퓨팅 시스템들 가운데 하나이다.\[1\]
 
 ## 같이 보기
 
-  - [SETI@home](https://ko.wikipedia.org/wiki/SETI@home "wikilink")
+  - [SETI@home](../Page/SETI@home.md "wikilink")
 
 ## 각주
 

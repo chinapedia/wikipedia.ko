@@ -40,7 +40,7 @@
 <!-- end list -->
 
 1.  "Radio 라디오 (영국 · A La, Carte)" (미상 작사 / 미상 작곡) ***- 대상***
-2.  "Flower of Burning Life 사랑은 생명의 꽃 (한국 · 김보연)" ([조운파](https://ko.wikipedia.org/wiki/조운파 "wikilink") 작사 / [박춘석](https://ko.wikipedia.org/wiki/박춘석 "wikilink") 작곡) ***- 금상***
+2.  "Flower of Burning Life 사랑은 생명의 꽃 (한국 · 김보연)" ([조운파](https://ko.wikipedia.org/wiki/조운파 "wikilink") 작사 / [박춘석](../Page/박춘석.md "wikilink") 작곡) ***- 금상***
 3.  "Be Good 착해지렴 (나이지리아 ·Christy, E, Igbokwe)" (미상 작사 / 미상 작곡) ***- 은상***
 4.  "Sympthy of Love 연민 (한국 · 전영록&윤시내)" ([이성하](https://ko.wikipedia.org/wiki/이성하 "wikilink") 작사 / [이범희](https://ko.wikipedia.org/wiki/이범희 "wikilink") 작곡) ***- 은상***
 5.  "Never 아니 결코 (멕시코 · Anacani)" (미상 작사 / 미상 작곡) ***- 동상***

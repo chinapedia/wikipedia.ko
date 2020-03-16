@@ -248,7 +248,7 @@
 
 <!-- end list -->
 
-  - [에딘 제코](https://ko.wikipedia.org/wiki/에딘_제코 "wikilink")
+  - [에딘 제코](../Page/에딘_제코.md "wikilink")
 
 <!-- end list -->
 
@@ -258,7 +258,7 @@
 
   - [크리스티안 벤테케](https://ko.wikipedia.org/wiki/크리스티안_벤테케 "wikilink")
 
-  - [베다드 이비셰비치](https://ko.wikipedia.org/wiki/베다드_이비셰비치 "wikilink")
+  - [베다드 이비셰비치](../Page/베다드_이비셰비치.md "wikilink")
 
   - [콘스탄티노스 미트로글루](../Page/콘스탄티노스_미트로글루.md "wikilink")
 
@@ -270,13 +270,13 @@
 
   - [드리스 메르텐스](https://ko.wikipedia.org/wiki/드리스_메르텐스 "wikilink")
 
-  - [에미르 스파히치](https://ko.wikipedia.org/wiki/에미르_스파히치 "wikilink")
+  - [에미르 스파히치](../Page/에미르_스파히치.md "wikilink")
 
   - [피에로스 소티리우](https://ko.wikipedia.org/wiki/피에로스_소티리우 "wikilink")
 
   - [마티아스 캐이트](https://ko.wikipedia.org/wiki/마티아스_캐이트 "wikilink")
 
-  - [바실리스 토로시디스](https://ko.wikipedia.org/wiki/바실리스_토로시디스 "wikilink")
+  - [바실리스 토로시디스](../Page/바실리스_토로시디스.md "wikilink")
 
 <!-- end list -->
 
@@ -284,13 +284,13 @@
 
 <!-- end list -->
 
-  - [토비 알데르베이럴트](https://ko.wikipedia.org/wiki/토비_알데르베이럴트 "wikilink")
+  - [토비 알데르베이럴트](../Page/토비_알데르베이럴트.md "wikilink")
 
   - [야니크 페레이라 카라스코](../Page/야니크_페레이라_카라스코.md "wikilink")
 
   - [나세르 샤들리](../Page/나세르_샤들리.md "wikilink")
 
-  - [악셀 위첼](https://ko.wikipedia.org/wiki/악셀_위첼 "wikilink")
+  - [악셀 위첼](../Page/악셀_위첼.md "wikilink")
 
   - [토르강 아자르](https://ko.wikipedia.org/wiki/토르강_아자르 "wikilink")
 
@@ -298,17 +298,17 @@
 
   - [하리스 메두냐닌](../Page/하리스_메두냐닌.md "wikilink")
 
-  - [에딘 비슈차](https://ko.wikipedia.org/wiki/에딘_비슈차 "wikilink")
+  - [에딘 비슈차](../Page/에딘_비슈차.md "wikilink")
 
   - [아브디야 브르샤예비치](../Page/아브디야_브르샤예비치.md "wikilink")
 
   - [콘스탄티노스 라이피스](https://ko.wikipedia.org/wiki/콘스탄티노스_라이피스 "wikilink")
 
-  - [발렌티노스 시엘리스](https://ko.wikipedia.org/wiki/발렌티노스_시엘리스 "wikilink")
+  - [발렌티노스 시엘리스](../Page/발렌티노스_시엘리스.md "wikilink")
 
   - [세르게이 모슈니코브](https://ko.wikipedia.org/wiki/세르게이_모슈니코브 "wikilink")
 
-  - [콘스탄틴 바실리예브](https://ko.wikipedia.org/wiki/콘스탄틴_바실리예브 "wikilink")
+  - [콘스탄틴 바실리예브](../Page/콘스탄틴_바실리예브.md "wikilink")
 
   - [리 캐시아로](https://ko.wikipedia.org/wiki/리_캐시아로 "wikilink")
 
@@ -316,7 +316,7 @@
 
   - [리엄 워커](https://ko.wikipedia.org/wiki/리엄_워커 "wikilink")
 
-  - [코스타스 포르투니스](https://ko.wikipedia.org/wiki/코스타스_포르투니스 "wikilink")
+  - [코스타스 포르투니스](../Page/코스타스_포르투니스.md "wikilink")
 
   - [페트로스 만탈로스](https://ko.wikipedia.org/wiki/페트로스_만탈로스 "wikilink")
 
@@ -328,7 +328,7 @@
 
 <!-- end list -->
 
-  - [에미르 스파히치](https://ko.wikipedia.org/wiki/에미르_스파히치 "wikilink") (벨기에 상대)
+  - [에미르 스파히치](../Page/에미르_스파히치.md "wikilink") (벨기에 상대)
 
   - [라그나르 클라반](../Page/라그나르_클라반.md "wikilink") (벨기에 상대)
 

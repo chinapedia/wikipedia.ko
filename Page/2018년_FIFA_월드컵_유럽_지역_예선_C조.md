@@ -265,7 +265,7 @@
 
 <!-- end list -->
 
-  - [토마스 뮐러](https://ko.wikipedia.org/wiki/토마스_뮐러 "wikilink")
+  - [토마스 뮐러](../Page/토마스_뮐러.md "wikilink")
 
 <!-- end list -->
 
@@ -293,17 +293,17 @@
 
   - [미할 크르멘치크](https://ko.wikipedia.org/wiki/미할_크르멘치크 "wikilink")
 
-  - [율리안 드락슬러](https://ko.wikipedia.org/wiki/율리안_드락슬러 "wikilink")
+  - [율리안 드락슬러](../Page/율리안_드락슬러.md "wikilink")
 
   - [요나스 헥토어](../Page/요나스_헥토어.md "wikilink")
 
-  - [사미 케디라](https://ko.wikipedia.org/wiki/사미_케디라 "wikilink")
+  - [사미 케디라](../Page/사미_케디라.md "wikilink")
 
   - [안드레 쉬얼레](https://ko.wikipedia.org/wiki/안드레_쉬얼레 "wikilink")
 
   - [제이미 워드](../Page/제이미_워드.md "wikilink")
 
-  - [조슈아 킹](https://ko.wikipedia.org/wiki/조슈아_킹 "wikilink")
+  - [조슈아 킹](../Page/조슈아_킹.md "wikilink")
 
 <!-- end list -->
 
@@ -323,7 +323,7 @@
 
   - [요주아 키미히](../Page/요주아_키미히.md "wikilink")
 
-  - [토니 크로스](https://ko.wikipedia.org/wiki/토니_크로스 "wikilink")
+  - [토니 크로스](../Page/토니_크로스.md "wikilink")
 
   - [슈코드란 무스타피](../Page/슈코드란_무스타피.md "wikilink")
 
@@ -335,7 +335,7 @@
 
   - [스튜어트 댈러스](../Page/스튜어트_댈러스.md "wikilink")
 
-  - [스티븐 데이비스](https://ko.wikipedia.org/wiki/스티븐_데이비스 "wikilink")
+  - [스티븐 데이비스](../Page/스티븐_데이비스.md "wikilink")
 
   - [개러스 매콜리](../Page/개러스_매콜리.md "wikilink")
 

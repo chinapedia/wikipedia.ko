@@ -246,7 +246,7 @@
 
 <!-- end list -->
 
-  - [마르크 양코](https://ko.wikipedia.org/wiki/마르크_양코 "wikilink")
+  - [마르크 양코](../Page/마르크_양코.md "wikilink")
 
 <!-- end list -->
 
@@ -254,7 +254,7 @@
 
 <!-- end list -->
 
-  - [데이비드 알라바](https://ko.wikipedia.org/wiki/데이비드_알라바 "wikilink")
+  - [데이비드 알라바](../Page/데이비드_알라바.md "wikilink")
 
 <!-- end list -->
 
@@ -262,9 +262,9 @@
 
 <!-- end list -->
 
-  - [마르코 아르나우토비치](https://ko.wikipedia.org/wiki/마르코_아르나우토비치 "wikilink")
+  - [마르코 아르나우토비치](../Page/마르코_아르나우토비치.md "wikilink")
 
-  - [마르틴 하르니크](https://ko.wikipedia.org/wiki/마르틴_하르니크 "wikilink")
+  - [마르틴 하르니크](../Page/마르틴_하르니크.md "wikilink")
 
   - [알렉세이 코코린](https://ko.wikipedia.org/wiki/알렉세이_코코린 "wikilink")
 
@@ -282,11 +282,11 @@
 
   - [파토스 베치라이](https://ko.wikipedia.org/wiki/파토스_베치라이 "wikilink")
 
-  - [스테반 요베티치](https://ko.wikipedia.org/wiki/스테반_요베티치 "wikilink")
+  - [스테반 요베티치](../Page/스테반_요베티치.md "wikilink")
 
-  - [미르코 부치니치](https://ko.wikipedia.org/wiki/미르코_부치니치 "wikilink")
+  - [미르코 부치니치](../Page/미르코_부치니치.md "wikilink")
 
-  - [마르쿠스 베리](https://ko.wikipedia.org/wiki/마르쿠스_베리 "wikilink")
+  - [마르쿠스 베리](../Page/마르쿠스_베리.md "wikilink")
 
 <!-- end list -->
 
@@ -306,19 +306,19 @@
 
   - [알렉산드루 데도프](https://ko.wikipedia.org/wiki/알렉산드루_데도프 "wikilink")
 
-  - [알렉산드루 에푸레아누](https://ko.wikipedia.org/wiki/알렉산드루_에푸레아누 "wikilink")
+  - [알렉산드루 에푸레아누](../Page/알렉산드루_에푸레아누.md "wikilink")
 
-  - [데얀 다먀노비치](https://ko.wikipedia.org/wiki/데얀_다먀노비치 "wikilink")
+  - [데얀 다먀노비치](../Page/데얀_다먀노비치.md "wikilink")
 
   - [스테판 사비치](../Page/스테판_사비치.md "wikilink")
 
   - [쟈르코 토마셰비치](https://ko.wikipedia.org/wiki/쟈르코_토마셰비치 "wikilink")
 
-  - [알란 자고예프](https://ko.wikipedia.org/wiki/알란_자고예프 "wikilink")
+  - [알란 자고예프](../Page/알란_자고예프.md "wikilink")
 
-  - [세르게이 이그나셰비치](https://ko.wikipedia.org/wiki/세르게이_이그나셰비치 "wikilink")
+  - [세르게이 이그나셰비치](../Page/세르게이_이그나셰비치.md "wikilink")
 
-  - [드미트리 콤바로프](https://ko.wikipedia.org/wiki/드미트리_콤바로프 "wikilink")
+  - [드미트리 콤바로프](../Page/드미트리_콤바로프.md "wikilink")
 
   - [올레크 쿠지민](https://ko.wikipedia.org/wiki/올레크_쿠지민 "wikilink")
 
@@ -326,7 +326,7 @@
 
   - [지미 드루마즈](https://ko.wikipedia.org/wiki/지미_드루마즈 "wikilink")
 
-  - [올라 토이보넨](https://ko.wikipedia.org/wiki/올라_토이보넨 "wikilink")
+  - [올라 토이보넨](../Page/올라_토이보넨.md "wikilink")
 
 <!-- end list -->
 

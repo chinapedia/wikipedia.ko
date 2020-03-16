@@ -154,7 +154,7 @@
 
 -----
 
-세르비아와 알바니아의 경기는 전반 42분에 일어난 세르비아와 알바니아 선수들의 충돌로 인하여 중단되었다. 경기가 중단되던 당시에는 세르비아와 알바니아가 0:0 동점을 기록하고 있었다. UEFA는 충돌을 일으킨 알바니아에게 0:3 몰수패를 선언하였다. 세르비아 또한 승점 3점이 감점되고 세르비아의 홈 경기로 열리는 2경기를 관중 없이 치르라는 중징계를 받았다.\[1\] 그러나, [스포츠 중재 재판소](https://ko.wikipedia.org/wiki/스포츠_중재_재판소 "wikilink")(CAS)는 "세르비아 측이 홈 관중의 구장 난입을 막지 못하고 세르비아 팬들이 알바니아 선수들에게 폭력을 휘두른 게 경기 중단의 가장 큰 원인이 됐다"며 "알바니아의 3-0 몰수승으로 판결한다"고 밝혔다.\[2\]
+세르비아와 알바니아의 경기는 전반 42분에 일어난 세르비아와 알바니아 선수들의 충돌로 인하여 중단되었다. 경기가 중단되던 당시에는 세르비아와 알바니아가 0:0 동점을 기록하고 있었다. UEFA는 충돌을 일으킨 알바니아에게 0:3 몰수패를 선언하였다. 세르비아 또한 승점 3점이 감점되고 세르비아의 홈 경기로 열리는 2경기를 관중 없이 치르라는 중징계를 받았다.\[1\] 그러나, [스포츠 중재 재판소](../Page/스포츠_중재_재판소.md "wikilink")(CAS)는 "세르비아 측이 홈 관중의 구장 난입을 막지 못하고 세르비아 팬들이 알바니아 선수들에게 폭력을 휘두른 게 경기 중단의 가장 큰 원인이 됐다"며 "알바니아의 3-0 몰수승으로 판결한다"고 밝혔다.\[2\]
 
 -----
 
@@ -200,7 +200,7 @@
 
 <!-- end list -->
 
-  - [조란 토시치](https://ko.wikipedia.org/wiki/조란_토시치 "wikilink")
+  - [조란 토시치](../Page/조란_토시치.md "wikilink")
 
 <!-- end list -->
 
@@ -212,7 +212,7 @@
 
   - [주앙 무티뉴](https://ko.wikipedia.org/wiki/주앙_무티뉴 "wikilink")
 
-  - [아뎀 랴이치](https://ko.wikipedia.org/wiki/아뎀_랴이치 "wikilink")
+  - [아뎀 랴이치](../Page/아뎀_랴이치.md "wikilink")
 
 <!-- end list -->
 
@@ -242,25 +242,25 @@
 
   - [피에르에밀 호이비에르](../Page/피에르에밀_호이비에르.md "wikilink")
 
-  - [토마스 칼렌베르](https://ko.wikipedia.org/wiki/토마스_칼렌베르 "wikilink")
+  - [토마스 칼렌베르](../Page/토마스_칼렌베르.md "wikilink")
 
   - [시몬 키에르](https://ko.wikipedia.org/wiki/시몬_키에르 "wikilink")
 
-  - [야코브 포울센](https://ko.wikipedia.org/wiki/야코브_포울센 "wikilink")
+  - [야코브 포울센](../Page/야코브_포울센.md "wikilink")
 
-  - [유수프 포울센](https://ko.wikipedia.org/wiki/유수프_포울센 "wikilink")
+  - [유수프 포울센](../Page/유수프_포울센.md "wikilink")
 
   - [라세 비베](https://ko.wikipedia.org/wiki/라세_비베 "wikilink")
 
-  - [히카르두 카르발류](https://ko.wikipedia.org/wiki/히카르두_카르발류 "wikilink")
+  - [히카르두 카르발류](../Page/히카르두_카르발류.md "wikilink")
 
-  - [파비우 코엔트랑](https://ko.wikipedia.org/wiki/파비우_코엔트랑 "wikilink")
+  - [파비우 코엔트랑](../Page/파비우_코엔트랑.md "wikilink")
 
-  - [나니](https://ko.wikipedia.org/wiki/나니 "wikilink")
+  - [나니](../Page/나니.md "wikilink")
 
-  - [미겔 벨로주](https://ko.wikipedia.org/wiki/미겔_벨로주 "wikilink")
+  - [미겔 벨로주](../Page/미겔_벨로주.md "wikilink")
 
-  - [네마냐 마티치](https://ko.wikipedia.org/wiki/네마냐_마티치 "wikilink")
+  - [네마냐 마티치](../Page/네마냐_마티치.md "wikilink")
 
   - [알렉산다르 콜라로프](https://ko.wikipedia.org/wiki/알렉산다르_콜라로프 "wikilink")
 
@@ -308,9 +308,9 @@
 
 <!-- end list -->
 
-  - [카림 벤제마](https://ko.wikipedia.org/wiki/카림_벤제마 "wikilink")
+  - [카림 벤제마](../Page/카림_벤제마.md "wikilink")
 
-  - [올리비에 지루](https://ko.wikipedia.org/wiki/올리비에_지루 "wikilink")
+  - [올리비에 지루](../Page/올리비에_지루.md "wikilink")
 
   - [앙투안 그리즈만](../Page/앙투안_그리즈만.md "wikilink")
 
@@ -320,7 +320,7 @@
 
 <!-- end list -->
 
-  - [폴 포그바](https://ko.wikipedia.org/wiki/폴_포그바 "wikilink")
+  - [폴 포그바](../Page/폴_포그바.md "wikilink")
 
   - [블레즈 마튀이디](https://ko.wikipedia.org/wiki/블레즈_마튀이디 "wikilink")
 
@@ -336,15 +336,15 @@
 
   - [에릭 스비아트첸코](https://ko.wikipedia.org/wiki/에릭_스비아트첸코 "wikilink")
 
-  - [로이크 레미](https://ko.wikipedia.org/wiki/로이크_레미 "wikilink")
+  - [로이크 레미](../Page/로이크_레미.md "wikilink")
 
-  - [앙드레피에르 지냐크](https://ko.wikipedia.org/wiki/앙드레피에르_지냐크 "wikilink")
+  - [앙드레피에르 지냐크](../Page/앙드레피에르_지냐크.md "wikilink")
 
-  - [알렉상드르 라카제트](https://ko.wikipedia.org/wiki/알렉상드르_라카제트 "wikilink")
+  - [알렉상드르 라카제트](../Page/알렉상드르_라카제트.md "wikilink")
 
-  - [마티외 발뷔에나](https://ko.wikipedia.org/wiki/마티외_발뷔에나 "wikilink")
+  - [마티외 발뷔에나](../Page/마티외_발뷔에나.md "wikilink")
 
-  - [히카르두 쿠아레즈마](https://ko.wikipedia.org/wiki/히카르두_쿠아레즈마 "wikilink")
+  - [히카르두 쿠아레즈마](../Page/히카르두_쿠아레즈마.md "wikilink")
 
   - [알렉산다르 콜라로프](https://ko.wikipedia.org/wiki/알렉산다르_콜라로프 "wikilink")
 

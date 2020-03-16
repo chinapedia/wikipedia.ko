@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FIRST CUT](https://ko.wikipedia.org/wiki/FIRST_CUT).
 
 
-《**FIRST CUT**》(퍼스트 컷)는 [쿠라키 마이의](https://ko.wikipedia.org/wiki/쿠라키_마이 "wikilink") 뮤직비디오집이다. 쿠라키의 첫 영상 작품이다. [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [11월 8일](https://ko.wikipedia.org/wiki/11월_8일 "wikilink") 발매이다.
+《**FIRST CUT**》(퍼스트 컷)는 [쿠라키 마이의](../Page/쿠라키_마이.md "wikilink") 뮤직비디오집이다. 쿠라키의 첫 영상 작품이다. [2000년](../Page/2000년.md "wikilink") [11월 8일](../Page/11월_8일.md "wikilink") 발매이다.
 
 ## 개요
 

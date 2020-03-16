@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Apertium](https://ko.wikipedia.org/wiki/Apertium).
 
 
-**Apertium**은 [규칙 기반의](https://ko.wikipedia.org/wiki/RBMT "wikilink") [기계 번역](https://ko.wikipedia.org/wiki/기계_번역 "wikilink") 플랫폼이다. [자유 소프트웨어이며](https://ko.wikipedia.org/wiki/자유_소프트웨어 "wikilink") [GNU 일반 공중 사용 허가서](https://ko.wikipedia.org/wiki/GNU_일반_공중_사용_허가서 "wikilink") 하에 공개된다.
+**Apertium**은 [규칙 기반의](https://ko.wikipedia.org/wiki/RBMT "wikilink") [기계 번역](../Page/기계_번역.md "wikilink") 플랫폼이다. [자유 소프트웨어이며](../Page/자유_소프트웨어.md "wikilink") [GNU 일반 공중 사용 허가서](../Page/GNU_일반_공중_사용_허가서.md "wikilink") 하에 공개된다.
 
 ## 역사
 
@@ -890,7 +890,7 @@ Apertium은 스페인 정부의 기금을 받아 운영되는 OpenTrad라는 프
 
 ## 같이 보기
 
-  - [기계 번역](https://ko.wikipedia.org/wiki/기계_번역 "wikilink")
+  - [기계 번역](../Page/기계_번역.md "wikilink")
 
 ## 각주
 

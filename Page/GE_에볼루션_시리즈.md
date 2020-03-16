@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [GE  ](https://ko.wikipedia.org/wiki/GE__).
 
 
-**GE 에볼루션 시리즈**()는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [제너럴 일렉트릭에서](https://ko.wikipedia.org/wiki/제너럴_일렉트릭 "wikilink") 개발한 [디젤](https://ko.wikipedia.org/wiki/디젤 "wikilink") 및 [전기](https://ko.wikipedia.org/wiki/전기 "wikilink") [기관차](https://ko.wikipedia.org/wiki/기관차 "wikilink")로 [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink")에 발효된 [미국 환경청의](https://ko.wikipedia.org/wiki/미국_환경청 "wikilink") 티어 2 환경 규제 조건에 맞추기 위해 개발된 [기관차](https://ko.wikipedia.org/wiki/기관차 "wikilink")로 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink")부터 현재까지 도입하고 있다. 친환경 엔진의 경우 GEVO [디젤 엔진이](https://ko.wikipedia.org/wiki/디젤_엔진 "wikilink") 있는데 이 엔진의 경우 기존 엔진에 비해 공해를 일으키지 않으며 [엔진 다운사이징을](https://ko.wikipedia.org/wiki/엔진_다운사이징 "wikilink") 통해 기존 16기통 기관차 엔진과 달리 12기통으로 동급 출력을 뽑아내는 우수한 엔진이다.
+**GE 에볼루션 시리즈**()는 [미국](../Page/미국.md "wikilink") [제너럴 일렉트릭에서](../Page/제너럴_일렉트릭.md "wikilink") 개발한 [디젤](https://ko.wikipedia.org/wiki/디젤 "wikilink") 및 [전기](../Page/전기.md "wikilink") [기관차](../Page/기관차.md "wikilink")로 [2005년](../Page/2005년.md "wikilink")에 발효된 [미국 환경청의](https://ko.wikipedia.org/wiki/미국_환경청 "wikilink") 티어 2 환경 규제 조건에 맞추기 위해 개발된 [기관차](../Page/기관차.md "wikilink")로 [2003년](../Page/2003년.md "wikilink")부터 현재까지 도입하고 있다. 친환경 엔진의 경우 GEVO [디젤 엔진이](../Page/디젤_엔진.md "wikilink") 있는데 이 엔진의 경우 기존 엔진에 비해 공해를 일으키지 않으며 [엔진 다운사이징을](https://ko.wikipedia.org/wiki/엔진_다운사이징 "wikilink") 통해 기존 16기통 기관차 엔진과 달리 12기통으로 동급 출력을 뽑아내는 우수한 엔진이다.
 
 ## 모델
 
@@ -23,7 +23,7 @@
 
 ### 티어4
 
-[2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink")부터 발표된 모델로 EPA 환경 규제에 대응하기 위해 티어 4조건을 충족시킨 차량이다. [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink")부터 순차별로 도입 했으며 기존 차량 대비 전장이 늘어났으며 또한 상부 라디에이터의 대형화와 라디에이터 전방 험프를 돌출시켰다.
+[2012년](../Page/2012년.md "wikilink")부터 발표된 모델로 EPA 환경 규제에 대응하기 위해 티어 4조건을 충족시킨 차량이다. [2015년](../Page/2015년.md "wikilink")부터 순차별로 도입 했으며 기존 차량 대비 전장이 늘어났으며 또한 상부 라디에이터의 대형화와 라디에이터 전방 험프를 돌출시켰다.
 
 파일:NS Loco No.7550.JPG 파일:GE ES44DC and Dash 9-44CW.jpg 파일:CP Loco No.8760.JPG 파일:BNSF 7663.jpg 파일:CSX Loco No.755.JPG 파일:Canadian Pacific locomotives GE AC4400CW ES44AC.JPG
 

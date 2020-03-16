@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TOAD](https://ko.wikipedia.org/wiki/TOAD).
 
 
-**TOAD**는 Tool for Oracle Application Development의 약자로서, [오라클](https://ko.wikipedia.org/wiki/오라클 "wikilink") 등 DBMS 관리 및 분석에 사용되는 소프트웨어 툴이다. 1990년대 Jim McDaniel이 개발하여 자유 소프트웨어로 배포하다가, 1998년 Quest Software 회사가 인수하여 유료화하였으며, 2012년 [델](https://ko.wikipedia.org/wiki/델 "wikilink") 회사로 인수되었다. '토드'라고 읽는다.
+**TOAD**는 Tool for Oracle Application Development의 약자로서, [오라클](https://ko.wikipedia.org/wiki/오라클 "wikilink") 등 DBMS 관리 및 분석에 사용되는 소프트웨어 툴이다. 1990년대 Jim McDaniel이 개발하여 자유 소프트웨어로 배포하다가, 1998년 Quest Software 회사가 인수하여 유료화하였으며, 2012년 [델](../Page/델.md "wikilink") 회사로 인수되었다. '토드'라고 읽는다.
 
 ## 토드가 지원하는 데이터베이스 환경
 

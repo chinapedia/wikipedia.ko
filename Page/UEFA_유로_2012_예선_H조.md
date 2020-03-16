@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [UEFA  2012  H](https://ko.wikipedia.org/wiki/UEFA__2012__H).
 
 
-다음은 **[UEFA 유로 2012 예선](https://ko.wikipedia.org/wiki/UEFA_유로_2012_예선 "wikilink")** H조의 순위와 경기 결과이다.
+다음은 **[UEFA 유로 2012 예선](../Page/UEFA_유로_2012_예선.md "wikilink")** H조의 순위와 경기 결과이다.
 
 각 조 1위 팀은 [UEFA 유로 2012](https://ko.wikipedia.org/wiki/UEFA_유로_2012 "wikilink") 본선에 직행한다. 각 조 2위 팀 중 각 조 1\~5위 팀과의 상대 전적이 가장 좋은 1개 팀은 본선에 직행하고 나머지 8개 팀이 플레이오프를 치러 승자가 본선에 참가하게 된다.
 

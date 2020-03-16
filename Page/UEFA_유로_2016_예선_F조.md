@@ -244,7 +244,7 @@
 
 <!-- end list -->
 
-  - [요엘 포흐얀팔로](https://ko.wikipedia.org/wiki/요엘_포흐얀팔로 "wikilink")
+  - [요엘 포흐얀팔로](../Page/요엘_포흐얀팔로.md "wikilink")
 
   - [가레스 매콜리](https://ko.wikipedia.org/wiki/가레스_매콜리 "wikilink")
 
@@ -262,7 +262,7 @@
 
   - [네메트 크리스티안](../Page/네메트_크리스티안.md "wikilink")
 
-  - [스티븐 데이비스](https://ko.wikipedia.org/wiki/스티븐_데이비스 "wikilink")
+  - [스티븐 데이비스](../Page/스티븐_데이비스.md "wikilink")
 
   - [콘스탄틴 부데스쿠](https://ko.wikipedia.org/wiki/콘스탄틴_부데스쿠 "wikilink")
 
@@ -286,7 +286,7 @@
 
   - [파울루스 아라유리](https://ko.wikipedia.org/wiki/파울루스_아라유리 "wikilink")
 
-  - [로만 에레멩코](https://ko.wikipedia.org/wiki/로만_에레멩코 "wikilink")
+  - [로만 에레멩코](../Page/로만_에레멩코.md "wikilink")
 
   - [야르코 후르메](https://ko.wikipedia.org/wiki/야르코_후르메 "wikilink")
 
@@ -300,15 +300,15 @@
 
   - [콘스탄티노스 미트로글루](../Page/콘스탄티노스_미트로글루.md "wikilink")
 
-  - [소크라티스 파파스타토풀로스](https://ko.wikipedia.org/wiki/소크라티스_파파스타토풀로스 "wikilink")
+  - [소크라티스 파파스타토풀로스](../Page/소크라티스_파파스타토풀로스.md "wikilink")
 
   - [코스타스 스타필리디스](https://ko.wikipedia.org/wiki/코스타스_스타필리디스 "wikilink")
 
   - [파나요티스 타흐치디스](../Page/파나요티스_타흐치디스.md "wikilink")
 
-  - [주자크 벌라주](https://ko.wikipedia.org/wiki/주자크_벌라주 "wikilink")
+  - [주자크 벌라주](../Page/주자크_벌라주.md "wikilink")
 
-  - [게러 졸탄](https://ko.wikipedia.org/wiki/게러_졸탄 "wikilink")
+  - [게러 졸탄](../Page/게러_졸탄.md "wikilink")
 
   - [구즈미치 리하르트](https://ko.wikipedia.org/wiki/구즈미치_리하르트 "wikilink")
 
@@ -318,7 +318,7 @@
 
   - [슈티에베르 졸탄](../Page/슈티에베르_졸탄.md "wikilink")
 
-  - [설러이 아담](https://ko.wikipedia.org/wiki/설러이_아담 "wikilink")
+  - [설러이 아담](../Page/설러이_아담.md "wikilink")
 
   - [크레이그 캐스카트](https://ko.wikipedia.org/wiki/크레이그_캐스카트 "wikilink")
 
@@ -332,7 +332,7 @@
 
   - [클라우디우 케셰뤼](../Page/클라우디우_케셰뤼.md "wikilink")
 
-  - [치프리안 마리카](https://ko.wikipedia.org/wiki/치프리안_마리카 "wikilink")
+  - [치프리안 마리카](../Page/치프리안_마리카.md "wikilink")
 
   - [알렉산드루 막심](../Page/알렉산드루_막심.md "wikilink")
 

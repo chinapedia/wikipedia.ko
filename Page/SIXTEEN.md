@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SIXTEEN](https://ko.wikipedia.org/wiki/SIXTEEN).
 
 
-《**SIXTEEN**》은 2015년 [엠넷](https://ko.wikipedia.org/wiki/엠넷 "wikilink")에서 방영된 리얼리티 프로그램이다. [JYP 엔터테인먼트의](https://ko.wikipedia.org/wiki/JYP_엔터테인먼트 "wikilink") 걸 그룹 [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink")를 결성하기 위한 경연회이다. 최종 합격자는 [임나연](../Page/나연.md "wikilink"), [유정연](../Page/정연_\(가수\).md "wikilink"), [미나토자키 사나](../Page/사나_\(가수\).md "wikilink"), [저우쯔위](../Page/쯔위.md "wikilink"), [김다현](../Page/다현.md "wikilink"), [묘이 미나](../Page/미나_\(일본의_가수\).md "wikilink"), [박지효](../Page/지효.md "wikilink"), [히라이 모모](../Page/모모_\(가수\).md "wikilink"), [손채영이다](../Page/채영_\(가수\).md "wikilink"). 당초 7명만 선발하기로 기획되었으나 저우쯔위는 이 프로그램에 참가한 모든 연습생 중 가장 대중들에게 인기가 많아서, 히라이 모모는 가장 춤실력이 뛰어나서 각각 [박진영](https://ko.wikipedia.org/wiki/박진영 "wikilink")이 직권으로 최종 합격을 시켰다.
+《**SIXTEEN**》은 2015년 [엠넷](../Page/엠넷.md "wikilink")에서 방영된 리얼리티 프로그램이다. [JYP 엔터테인먼트의](../Page/JYP_엔터테인먼트.md "wikilink") 걸 그룹 [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink")를 결성하기 위한 경연회이다. 최종 합격자는 [임나연](../Page/나연.md "wikilink"), [유정연](../Page/정연_\(가수\).md "wikilink"), [미나토자키 사나](../Page/사나_\(가수\).md "wikilink"), [저우쯔위](../Page/쯔위.md "wikilink"), [김다현](../Page/다현.md "wikilink"), [묘이 미나](../Page/미나_\(일본의_가수\).md "wikilink"), [박지효](../Page/지효.md "wikilink"), [히라이 모모](../Page/모모_\(가수\).md "wikilink"), [손채영이다](../Page/채영_\(가수\).md "wikilink"). 당초 7명만 선발하기로 기획되었으나 저우쯔위는 이 프로그램에 참가한 모든 연습생 중 가장 대중들에게 인기가 많아서, 히라이 모모는 가장 춤실력이 뛰어나서 각각 [박진영](../Page/박진영.md "wikilink")이 직권으로 최종 합격을 시켰다.
 
 ## 참가자
 
@@ -37,7 +37,7 @@
 <td><p><a href="../Page/모모_(가수).md" title="wikilink">모모</a></p></td>
 <td><p>1996년 11월 9일</p></td>
 <td></td>
-<td><p>트와이스 (<a href="https://ko.wikipedia.org/wiki/박진영" title="wikilink">박진영</a> 직권으로 선발)</p></td>
+<td><p>트와이스 (<a href="../Page/박진영.md" title="wikilink">박진영</a> 직권으로 선발)</p></td>
 </tr>
 <tr class="even">
 <td><p>04</p></td>
@@ -79,7 +79,7 @@
 <td><p><a href="../Page/쯔위.md" title="wikilink">쯔위</a></p></td>
 <td><p>1999년 6월 14일</p></td>
 <td></td>
-<td><p>트와이스 (<a href="https://ko.wikipedia.org/wiki/박진영" title="wikilink">박진영</a> 직권으로 선발)</p></td>
+<td><p>트와이스 (<a href="../Page/박진영.md" title="wikilink">박진영</a> 직권으로 선발)</p></td>
 </tr>
 <tr class="even">
 <td><p>10</p></td>
@@ -90,24 +90,24 @@
 </tr>
 <tr class="odd">
 <td><p>11</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/박지원_(1998년)" title="wikilink">지원</a></p></td>
+<td><p><a href="../Page/박지원_(1998년).md" title="wikilink">지원</a></p></td>
 <td><p>1998년 3월 20일</p></td>
 <td></td>
-<td><p>탈락 후 개인연습생 신분. <a href="https://ko.wikipedia.org/wiki/아이돌학교" title="wikilink">아이돌학교</a>에 참가. <a href="https://ko.wikipedia.org/wiki/프로미스_9" title="wikilink">프로미스 9</a> 데뷔</p></td>
+<td><p>탈락 후 개인연습생 신분. <a href="../Page/아이돌학교.md" title="wikilink">아이돌학교</a>에 참가. <a href="https://ko.wikipedia.org/wiki/프로미스_9" title="wikilink">프로미스 9</a> 데뷔</p></td>
 </tr>
 <tr class="even">
 <td><p>12</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이채연_(가수)" title="wikilink">채연</a></p></td>
+<td><p><a href="../Page/이채연_(가수).md" title="wikilink">채연</a></p></td>
 <td><p>2000년 1월 11일</p></td>
 <td></td>
-<td><p>탈락 후 소속사 이적. <a href="https://ko.wikipedia.org/wiki/PRODUCE_48" title="wikilink">PRODUCE 48</a> 최종 12위로 <a href="https://ko.wikipedia.org/wiki/아이즈원" title="wikilink">아이즈원</a> 데뷔</p></td>
+<td><p>탈락 후 소속사 이적. <a href="https://ko.wikipedia.org/wiki/PRODUCE_48" title="wikilink">PRODUCE 48</a> 최종 12위로 <a href="../Page/아이즈원.md" title="wikilink">아이즈원</a> 데뷔</p></td>
 </tr>
 <tr class="odd">
 <td><p>13</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/은서" title="wikilink">은서</a></p></td>
+<td><p><a href="../Page/은서.md" title="wikilink">은서</a></p></td>
 <td><p>2000년 11월 14일</p></td>
 <td></td>
-<td><p>탈락 후 개인연습생 신분. <a href="https://ko.wikipedia.org/wiki/아이돌학교" title="wikilink">아이돌학교</a>에 참가</p></td>
+<td><p>탈락 후 개인연습생 신분. <a href="../Page/아이돌학교.md" title="wikilink">아이돌학교</a>에 참가</p></td>
 </tr>
 <tr class="even">
 <td><p>14</p></td>
@@ -128,7 +128,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/나띠" title="wikilink">나띠</a></p></td>
 <td><p>2002년 5월 30일</p></td>
 <td></td>
-<td><p>탈락 후 개인연습생 신분. <a href="https://ko.wikipedia.org/wiki/아이돌학교" title="wikilink">아이돌학교</a>에 참가</p></td>
+<td><p>탈락 후 개인연습생 신분. <a href="../Page/아이돌학교.md" title="wikilink">아이돌학교</a>에 참가</p></td>
 </tr>
 </tbody>
 </table>
@@ -232,13 +232,13 @@
 </tr>
 <tr class="even">
 <td><p>02</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/박지원_(1998년)" title="wikilink">지원</a></p></td>
+<td><p><a href="../Page/박지원_(1998년).md" title="wikilink">지원</a></p></td>
 <td><p>1998년 3월 20일</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>03</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이채연_(가수)" title="wikilink">채연</a></p></td>
+<td><p><a href="../Page/이채연_(가수).md" title="wikilink">채연</a></p></td>
 <td><p>2000년 1월 11일</p></td>
 <td></td>
 </tr>
@@ -271,7 +271,7 @@
 
 ## 심사 평가
 
-사실 [쯔위](../Page/쯔위.md "wikilink")와 [모모는](../Page/모모_\(가수\).md "wikilink") 탈락자였다. 하지만 [박진영](https://ko.wikipedia.org/wiki/박진영 "wikilink")은 7인조로 구성해봤더니 뭔가 부족해 보인다하면서 자신의 직권으로 2명을 선발했다. 박진영이 자신의 직권으로 쯔위와 모모를 트와이스의 멤버로 발탁한 이유는 다음과 같다.
+사실 [쯔위](../Page/쯔위.md "wikilink")와 [모모는](../Page/모모_\(가수\).md "wikilink") 탈락자였다. 하지만 [박진영](../Page/박진영.md "wikilink")은 7인조로 구성해봤더니 뭔가 부족해 보인다하면서 자신의 직권으로 2명을 선발했다. 박진영이 자신의 직권으로 쯔위와 모모를 트와이스의 멤버로 발탁한 이유는 다음과 같다.
 
   - 쯔위는 SIXTEEN에 도전한 연습생들 중에서 미모가 가장 뛰어났으며 팬들의 지지를 가장 많이 받았다.
   - 모모는 다른 연습생들에 비해 댄스 실력이 압도적으로 뛰어나 그것이 아까워 발탁했다.
@@ -280,7 +280,7 @@
 
 ## 방송 이후
 
-최종적으로 트와이스엔 나연, 정연, 모모, 사나, 지효, 미나, 다현, 채영, 쯔위가 합격했다. 민영은 퇴사 이후 학업을 이어가고 있으며, [지원은](https://ko.wikipedia.org/wiki/박지원_\(1998년\) "wikilink") [빅히트 엔터테인먼트에](../Page/빅히트_엔터테인먼트.md "wikilink") 입사했다. 소미는 [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink")에 방송하는 걸그룹 데뷔 서바이벌 [PRODUCE 101에](https://ko.wikipedia.org/wiki/PRODUCE_101 "wikilink") 출연해 1위의 성적으로 프로젝트 걸 그룹 [아이오아이](../Page/아이오아이.md "wikilink")의 멤버로 데뷔하였다. 이후 [지원](https://ko.wikipedia.org/wiki/박지원_\(1998년\) "wikilink"), 은서, 나띠는 퇴사하여 [아이돌학교](https://ko.wikipedia.org/wiki/아이돌학교 "wikilink")에 출연했다. 이 중 [지원만](https://ko.wikipedia.org/wiki/박지원_\(1998년\) "wikilink") 걸그룹 [프로미스 9의](https://ko.wikipedia.org/wiki/fromis_9 "wikilink") 멤버로 데뷔하였다. [채연은](https://ko.wikipedia.org/wiki/이채연_\(가수\) "wikilink") [WM 엔터테인먼트로](../Page/WM_엔터테인먼트.md "wikilink") 이적 후 [프로듀스 48에](https://ko.wikipedia.org/wiki/프로듀스_48 "wikilink") 참가해 프로젝트 걸그룹 [아이즈원](https://ko.wikipedia.org/wiki/아이즈원 "wikilink")의 멤버로 데뷔하였다. [채연의](https://ko.wikipedia.org/wiki/이채연_\(가수\) "wikilink") 동생인 [채령은](../Page/채령_\(가수\).md "wikilink") [ITZY](https://ko.wikipedia.org/wiki/ITZY "wikilink")의 멤버로 데뷔하였다.
+최종적으로 트와이스엔 나연, 정연, 모모, 사나, 지효, 미나, 다현, 채영, 쯔위가 합격했다. 민영은 퇴사 이후 학업을 이어가고 있으며, [지원은](../Page/박지원_\(1998년\).md "wikilink") [빅히트 엔터테인먼트에](../Page/빅히트_엔터테인먼트.md "wikilink") 입사했다. 소미는 [2016년](../Page/2016년.md "wikilink")에 방송하는 걸그룹 데뷔 서바이벌 [PRODUCE 101에](https://ko.wikipedia.org/wiki/PRODUCE_101 "wikilink") 출연해 1위의 성적으로 프로젝트 걸 그룹 [아이오아이](../Page/아이오아이.md "wikilink")의 멤버로 데뷔하였다. 이후 [지원](../Page/박지원_\(1998년\).md "wikilink"), 은서, 나띠는 퇴사하여 [아이돌학교](../Page/아이돌학교.md "wikilink")에 출연했다. 이 중 [지원만](../Page/박지원_\(1998년\).md "wikilink") 걸그룹 [프로미스 9의](https://ko.wikipedia.org/wiki/fromis_9 "wikilink") 멤버로 데뷔하였다. [채연은](../Page/이채연_\(가수\).md "wikilink") [WM 엔터테인먼트로](../Page/WM_엔터테인먼트.md "wikilink") 이적 후 [프로듀스 48에](https://ko.wikipedia.org/wiki/프로듀스_48 "wikilink") 참가해 프로젝트 걸그룹 [아이즈원](../Page/아이즈원.md "wikilink")의 멤버로 데뷔하였다. [채연의](../Page/이채연_\(가수\).md "wikilink") 동생인 [채령은](../Page/채령_\(가수\).md "wikilink") [ITZY](https://ko.wikipedia.org/wiki/ITZY "wikilink")의 멤버로 데뷔하였다.
 
 ## 외부 링크
 

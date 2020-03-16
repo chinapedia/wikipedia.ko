@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Shelly](https://ko.wikipedia.org/wiki/Shelly).
 
 
-**Shelly**(, [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink") [2월 18일](https://ko.wikipedia.org/wiki/2월_18일 "wikilink") \~ )는 **후지이 셀리**()로 데뷔했던 [성인 비디오 여배우다](https://ko.wikipedia.org/wiki/성인_비디오_여배우 "wikilink").
+**Shelly**(, [1990년](../Page/1990년.md "wikilink") [2월 18일](../Page/2월_18일.md "wikilink") \~ )는 **후지이 셀리**()로 데뷔했던 [성인 비디오 여배우다](https://ko.wikipedia.org/wiki/성인_비디오_여배우 "wikilink").
 
 ## 생애와 경력
 

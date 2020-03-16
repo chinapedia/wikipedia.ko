@@ -13,11 +13,11 @@
 
 다른 애플리케이션과 네트워크 기술을 포착하고, 다시 수행하고 스크립트화할 수 있게 하는 기능은 모듈로 제공된다. 이러한 모듈들은 다음을 지원한다:\[3\]
 
-  - 마이크로소프트 [닷넷](https://ko.wikipedia.org/wiki/닷넷_프레임워크 "wikilink"), [자바를](https://ko.wikipedia.org/wiki/자바_\(프로그래밍_언어\) "wikilink") 이용하는 애플리케이션
-  - [마이크로소프트 SQL 서버](https://ko.wikipedia.org/wiki/마이크로소프트_SQL_서버 "wikilink"), [오라클과](https://ko.wikipedia.org/wiki/오라클_데이터베이스 "wikilink") 같은 데이터베이스
-  - [DNS](https://ko.wikipedia.org/wiki/도메인_네임_시스템 "wikilink"), [FTP](https://ko.wikipedia.org/wiki/파일_전송_프로토콜 "wikilink"), [LDAP](https://ko.wikipedia.org/wiki/LDAP "wikilink")과 같은 네트워크 간 프로토콜
-  - [IMAP](https://ko.wikipedia.org/wiki/인터넷_메시지_접속_프로토콜 "wikilink"), [MAPI](https://ko.wikipedia.org/wiki/MAPI "wikilink"), [POP3](https://ko.wikipedia.org/wiki/POP3 "wikilink"), [SMTP를](https://ko.wikipedia.org/wiki/간이_우편_전송_프로토콜 "wikilink") 포함한 이메일 프로토콜
-  - 시트릭스 ICA, [RDP와](https://ko.wikipedia.org/wiki/원격_데스크톱_프로토콜 "wikilink") 같은 원격 클라이언트 기술
+  - 마이크로소프트 [닷넷](../Page/닷넷_프레임워크.md "wikilink"), [자바를](../Page/자바_\(프로그래밍_언어\).md "wikilink") 이용하는 애플리케이션
+  - [마이크로소프트 SQL 서버](../Page/마이크로소프트_SQL_서버.md "wikilink"), [오라클과](../Page/오라클_데이터베이스.md "wikilink") 같은 데이터베이스
+  - [DNS](../Page/도메인_네임_시스템.md "wikilink"), [FTP](../Page/파일_전송_프로토콜.md "wikilink"), [LDAP](../Page/LDAP.md "wikilink")과 같은 네트워크 간 프로토콜
+  - [IMAP](https://ko.wikipedia.org/wiki/인터넷_메시지_접속_프로토콜 "wikilink"), [MAPI](https://ko.wikipedia.org/wiki/MAPI "wikilink"), [POP3](https://ko.wikipedia.org/wiki/POP3 "wikilink"), [SMTP를](../Page/간이_우편_전송_프로토콜.md "wikilink") 포함한 이메일 프로토콜
+  - 시트릭스 ICA, [RDP와](../Page/원격_데스크톱_프로토콜.md "wikilink") 같은 원격 클라이언트 기술
 
 ## 각주
 

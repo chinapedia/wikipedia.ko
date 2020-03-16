@@ -28,7 +28,7 @@
 
 <!-- end list -->
 
-1.  "Good Old Days(후회) (한국 · 혜은이)" ([길옥윤](https://ko.wikipedia.org/wiki/길옥윤 "wikilink") 작사 / [길옥윤](https://ko.wikipedia.org/wiki/길옥윤 "wikilink") 작곡) ***- 은상 수상***
+1.  "Good Old Days(후회) (한국 · 혜은이)" ([길옥윤](../Page/길옥윤.md "wikilink") 작사 / [길옥윤](../Page/길옥윤.md "wikilink") 작곡) ***- 은상 수상***
 2.  "From The Bottom of My Heart (유고슬라비아 · Krunoslav slabinac)" (미상 작사 / 미상 작곡)***- 동상 수상***
 3.  "Heart Beat (아르헨티나 · Donald McCluskey)" (미상 작사 / 미상 작곡)
 4.  "I Am Not Alone (노르웨이 · Alex)" (미상 작사 / 미상 작곡)
@@ -52,7 +52,7 @@
 <!-- end list -->
 
 1.  "Don Jose (스페인 · Betty Missiego)" (미상 작사 / 미상 작곡)***- 은상 수상***
-2.  "Love Is Harmony(사랑의 하모니) (한국 · 진미령)" ([장세용](https://ko.wikipedia.org/wiki/장세용 "wikilink") 작사 / [장세용](https://ko.wikipedia.org/wiki/장세용 "wikilink") 작곡)
+2.  "Love Is Harmony(사랑의 하모니) (한국 · 진미령)" ([장세용](../Page/장세용.md "wikilink") 작사 / [장세용](../Page/장세용.md "wikilink") 작곡)
 3.  "Disco To The Number One (나이지리아 Emmanuel Dorgu)" (미상 작사 / 미상 작곡)
 4.  "C'est La Vie (홍콩 · Amy Chan)" (미상 작사 / 미상 작곡)
 
@@ -65,12 +65,12 @@
 <!-- end list -->
 
 1.  [바니걸스](https://ko.wikipedia.org/wiki/바니걸스 "wikilink") - 그리운 마음은 언제나 ([김기웅](../Page/김기웅.md "wikilink") 작곡)
-2.  혜은이 - 후회 ([길옥윤](https://ko.wikipedia.org/wiki/길옥윤 "wikilink") 작곡) ***- 본선 진출***
+2.  혜은이 - 후회 ([길옥윤](../Page/길옥윤.md "wikilink") 작곡) ***- 본선 진출***
 3.  김수나 - 흰새 ([김준](https://ko.wikipedia.org/wiki/김준 "wikilink") 작곡)
 4.  들고양이들 - 탈 ([이철혁](https://ko.wikipedia.org/wiki/이철혁 "wikilink") 작곡) ***- 본선 진출***
-5.  진미령 - 사랑의 하모니 ([장세용](https://ko.wikipedia.org/wiki/장세용 "wikilink")&[프랑코 로마노](https://ko.wikipedia.org/wiki/프랑코_로마노 "wikilink") 작곡) ***- 본선 진출***
-6.  [노사연](https://ko.wikipedia.org/wiki/노사연 "wikilink") - 별리 ([권오승](https://ko.wikipedia.org/wiki/권오승 "wikilink") 작곡)
-7.  김태화 - 바보처럼 살았군요 ([김도향](https://ko.wikipedia.org/wiki/김도향 "wikilink") 작곡) ***- 태평양가요제 파견***
+5.  진미령 - 사랑의 하모니 ([장세용](../Page/장세용.md "wikilink")&[프랑코 로마노](https://ko.wikipedia.org/wiki/프랑코_로마노 "wikilink") 작곡) ***- 본선 진출***
+6.  [노사연](../Page/노사연.md "wikilink") - 별리 ([권오승](https://ko.wikipedia.org/wiki/권오승 "wikilink") 작곡)
+7.  김태화 - 바보처럼 살았군요 ([김도향](../Page/김도향.md "wikilink") 작곡) ***- 태평양가요제 파견***
 8.  홍삼트리오 - 낚시를 드리우고 ([엄기돈](https://ko.wikipedia.org/wiki/엄기돈 "wikilink") 작곡)
 9.  이광조 - 행복 ([김수철](https://ko.wikipedia.org/wiki/김수철 "wikilink") 작곡)
 10. 최병걸 - 사랑은 떠나도 ([장덕](../Page/장덕.md "wikilink") 작곡)

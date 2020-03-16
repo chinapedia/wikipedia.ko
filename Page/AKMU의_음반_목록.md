@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [AKMU  ](https://ko.wikipedia.org/wiki/AKMU__).
 
 
-다음은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 어쿠스틱 듀오 그룹 [AKMU](https://ko.wikipedia.org/wiki/AKMU "wikilink")의 **음반 목록**이다.
+다음은 [대한민국](../Page/대한민국.md "wikilink")의 어쿠스틱 듀오 그룹 [AKMU](../Page/AKMU.md "wikilink")의 **음반 목록**이다.
 
 ## 음반
 
@@ -28,8 +28,8 @@
 <td><p><em><a href="https://ko.wikipedia.org/wiki/PLAY_(악동뮤지션의_음반)" title="wikilink">PLAY</a></em></p></td>
 <td><ul>
 <li>발매일: 2014년 4월 7일</li>
-<li>레이블: <a href="https://ko.wikipedia.org/wiki/YG_엔터테인먼트" title="wikilink">YG 엔터테인먼트</a>, <a href="https://ko.wikipedia.org/wiki/KT_뮤직" title="wikilink">KT 뮤직</a></li>
-<li>포맷: <a href="https://ko.wikipedia.org/wiki/콤팩트_디스크" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a></li>
+<li>레이블: <a href="../Page/YG_엔터테인먼트.md" title="wikilink">YG 엔터테인먼트</a>, <a href="https://ko.wikipedia.org/wiki/KT_뮤직" title="wikilink">KT 뮤직</a></li>
+<li>포맷: <a href="../Page/콤팩트_디스크.md" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a></li>
 </ul></td>
 <td><p>—</p></td>
 <td><ul>
@@ -40,8 +40,8 @@
 <td><p><em><a href="https://ko.wikipedia.org/wiki/사춘기_(악동뮤지션의_음반)" title="wikilink">사춘기 上권</a></em></p></td>
 <td><ul>
 <li>발매일: 2016년 5월 4일</li>
-<li>레이블: <a href="https://ko.wikipedia.org/wiki/YG_엔터테인먼트" title="wikilink">YG 엔터테인먼트</a>, <a href="https://ko.wikipedia.org/wiki/KT_뮤직" title="wikilink">KT 뮤직</a></li>
-<li>포맷: <a href="https://ko.wikipedia.org/wiki/콤팩트_디스크" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a></li>
+<li>레이블: <a href="../Page/YG_엔터테인먼트.md" title="wikilink">YG 엔터테인먼트</a>, <a href="https://ko.wikipedia.org/wiki/KT_뮤직" title="wikilink">KT 뮤직</a></li>
+<li>포맷: <a href="../Page/콤팩트_디스크.md" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a></li>
 </ul></td>
 <td><p>—</p></td>
 <td><ul>
@@ -52,8 +52,8 @@
 <td><p><em>사춘기 下하</em></p></td>
 <td><ul>
 <li>발매일: 2017년 1월 3일</li>
-<li>레이블: <a href="https://ko.wikipedia.org/wiki/YG_엔터테인먼트" title="wikilink">YG 엔터테인먼트</a>, <a href="https://ko.wikipedia.org/wiki/KT_뮤직" title="wikilink">KT 뮤직</a></li>
-<li>포맷: <a href="https://ko.wikipedia.org/wiki/콤팩트_디스크" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a></li>
+<li>레이블: <a href="../Page/YG_엔터테인먼트.md" title="wikilink">YG 엔터테인먼트</a>, <a href="https://ko.wikipedia.org/wiki/KT_뮤직" title="wikilink">KT 뮤직</a></li>
+<li>포맷: <a href="../Page/콤팩트_디스크.md" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a></li>
 </ul></td>
 <td><p>—</p></td>
 <td><ul>
@@ -83,10 +83,10 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><small><a href="https://ko.wikipedia.org/wiki/가온_차트" title="wikilink">대한민국<br />
+<td><p><small><a href="../Page/가온_차트.md" title="wikilink">대한민국<br />
 가온</a></small><br />
 [2]</p></td>
-<td><p><small><a href="https://ko.wikipedia.org/wiki/코리아_K-Pop_핫_100" title="wikilink">대한민국<br />
+<td><p><small><a href="../Page/코리아_K-Pop_핫_100.md" title="wikilink">대한민국<br />
 빌보드</a></small><br />
 [3]</p></td>
 <td></td>
@@ -154,10 +154,10 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><small><a href="https://ko.wikipedia.org/wiki/가온_차트" title="wikilink">대한민국<br />
+<td><p><small><a href="../Page/가온_차트.md" title="wikilink">대한민국<br />
 가온</a></small><br />
 [7]</p></td>
-<td><p><small><a href="https://ko.wikipedia.org/wiki/코리아_K-Pop_핫_100" title="wikilink">대한민국<br />
+<td><p><small><a href="../Page/코리아_K-Pop_핫_100.md" title="wikilink">대한민국<br />
 빌보드</a></small><br />
 [8]</p></td>
 <td></td>
@@ -367,10 +367,10 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><small><a href="https://ko.wikipedia.org/wiki/가온_차트" title="wikilink">대한민국<br />
+<td><p><small><a href="../Page/가온_차트.md" title="wikilink">대한민국<br />
 가온</a></small><br />
 [9]</p></td>
-<td><p><small><a href="https://ko.wikipedia.org/wiki/코리아_K-Pop_핫_100" title="wikilink">대한민국<br />
+<td><p><small><a href="../Page/코리아_K-Pop_핫_100.md" title="wikilink">대한민국<br />
 빌보드</a></small><br />
 [10]</p></td>
 <td></td>
@@ -479,14 +479,14 @@
 <td></td>
 <td></td>
 <td><p>`뜻밖의 만남` 여덟 번째<br />
-(<a href="https://ko.wikipedia.org/wiki/양희은" title="wikilink">양희은</a> 싱글 프로젝트)</p></td>
+(<a href="../Page/양희은.md" title="wikilink">양희은</a> 싱글 프로젝트)</p></td>
 </tr>
 </tbody>
 </table>
 
 ## 같이 보기
 
-  - [AKMU](https://ko.wikipedia.org/wiki/AKMU "wikilink")
+  - [AKMU](../Page/AKMU.md "wikilink")
   - [AKMU의 수상 및 후보 목록](https://ko.wikipedia.org/wiki/AKMU의_수상_및_후보_목록 "wikilink")
 
 ## 각주

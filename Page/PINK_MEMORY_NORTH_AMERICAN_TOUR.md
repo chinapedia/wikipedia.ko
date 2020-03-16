@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [PINK MEMORY NORTH AMERICAN TOUR](https://ko.wikipedia.org/wiki/PINK_MEMORY_NORTH_AMERICAN_TOUR).
 
 
-**PINK MEMORY NORTH AMERICAN TOUR**는 대한민국의 음악 그룹 [에이핑크](https://ko.wikipedia.org/wiki/에이핑크 "wikilink")의 미주 투어로 총 4회에 걸쳐 진행되었다.\[1\]
+**PINK MEMORY NORTH AMERICAN TOUR**는 대한민국의 음악 그룹 [에이핑크](../Page/에이핑크.md "wikilink")의 미주 투어로 총 4회에 걸쳐 진행되었다.\[1\]
 
 ## 투어 일정
 
@@ -23,13 +23,13 @@
 </tr>
 <tr class="even">
 <td><p>2016년 1월 6일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/댈러스" title="wikilink">댈러스</a></p></td>
+<td><p><a href="../Page/댈러스.md" title="wikilink">댈러스</a></p></td>
 <td></td>
 <td><p>버라이존 극장</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016년 1월 8일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/샌프란시스코" title="wikilink">샌프란시스코</a></p></td>
+<td><p><a href="../Page/샌프란시스코.md" title="wikilink">샌프란시스코</a></p></td>
 <td><p>더 리젠시 볼 룸</p></td>
 <td></td>
 </tr>

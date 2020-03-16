@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Na Na](https://ko.wikipedia.org/wiki/Na_Na).
 
 
-**"Na Na"**는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 가수 [트레이 송즈의](https://ko.wikipedia.org/wiki/트레이_송즈 "wikilink") 6번째 정규 음반인 [Trigga](https://ko.wikipedia.org/wiki/Trigga "wikilink")의 수록곡이자\[1\] [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [1월 21일](https://ko.wikipedia.org/wiki/1월_21일 "wikilink") 발매된 싱글이다. 프로듀싱에는 [웨스트 코스트 힙합](https://ko.wikipedia.org/wiki/웨스트_코스트_힙합 "wikilink") 프로듀서 [DJ 머스타드가](../Page/DJ_머스타드.md "wikilink") 참여하였고, 이 노래의 코러스는 [티나 마리의](https://ko.wikipedia.org/wiki/티나_마리 "wikilink") 1988년 히트곡 "Ooo La La La"에서 따온 것이다.\[2\]
+**"Na Na"**는 [미국](../Page/미국.md "wikilink")의 가수 [트레이 송즈의](https://ko.wikipedia.org/wiki/트레이_송즈 "wikilink") 6번째 정규 음반인 [Trigga](https://ko.wikipedia.org/wiki/Trigga "wikilink")의 수록곡이자\[1\] [2014년](../Page/2014년.md "wikilink") [1월 21일](../Page/1월_21일.md "wikilink") 발매된 싱글이다. 프로듀싱에는 [웨스트 코스트 힙합](https://ko.wikipedia.org/wiki/웨스트_코스트_힙합 "wikilink") 프로듀서 [DJ 머스타드가](../Page/DJ_머스타드.md "wikilink") 참여하였고, 이 노래의 코러스는 [티나 마리의](https://ko.wikipedia.org/wiki/티나_마리 "wikilink") 1988년 히트곡 "Ooo La La La"에서 따온 것이다.\[2\]
 
 ## 뮤직비디오
 
-뮤직비디오는 2014년 3월 13일 공개되었다. 길 그린 (Gil Green)이 감독을 맡았으며, [WWE 디바인](https://ko.wikipedia.org/wiki/디바_\(프로레슬링\) "wikilink") [벨라 트윈스가](https://ko.wikipedia.org/wiki/벨라_트윈스 "wikilink") 출연하였다.\[3\]
+뮤직비디오는 2014년 3월 13일 공개되었다. 길 그린 (Gil Green)이 감독을 맡았으며, [WWE 디바인](https://ko.wikipedia.org/wiki/디바_\(프로레슬링\) "wikilink") [벨라 트윈스가](../Page/벨라_트윈스.md "wikilink") 출연하였다.\[3\]
 
 ## 트랙
 
@@ -79,11 +79,11 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>미국 <a href="https://ko.wikipedia.org/wiki/R&amp;B/힙합_에어플레이" title="wikilink">R&amp;B/힙합 에어플레이</a> (<em><a href="https://ko.wikipedia.org/wiki/빌보드" title="wikilink">빌보드</a></em>)[8]</p></td>
+<td><p>미국 <a href="https://ko.wikipedia.org/wiki/R&amp;B/힙합_에어플레이" title="wikilink">R&amp;B/힙합 에어플레이</a> (<em><a href="../Page/빌보드.md" title="wikilink">빌보드</a></em>)[8]</p></td>
 <td><p>9</p></td>
 </tr>
 <tr class="even">
-<td><p>미국 <a href="https://ko.wikipedia.org/wiki/라틴_에어플레이" title="wikilink">라틴 에어플레이</a> (<em><a href="https://ko.wikipedia.org/wiki/빌보드" title="wikilink">빌보드</a></em>)[9]</p></td>
+<td><p>미국 <a href="https://ko.wikipedia.org/wiki/라틴_에어플레이" title="wikilink">라틴 에어플레이</a> (<em><a href="../Page/빌보드.md" title="wikilink">빌보드</a></em>)[9]</p></td>
 <td><p>45</p></td>
 </tr>
 <tr class="odd">
@@ -91,7 +91,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>미국 <a href="https://ko.wikipedia.org/wiki/리드믹" title="wikilink">리드믹</a> (<em><a href="https://ko.wikipedia.org/wiki/빌보드" title="wikilink">빌보드</a></em>)[10]</p></td>
+<td><p>미국 <a href="https://ko.wikipedia.org/wiki/리드믹" title="wikilink">리드믹</a> (<em><a href="../Page/빌보드.md" title="wikilink">빌보드</a></em>)[10]</p></td>
 <td><p>1</p></td>
 </tr>
 </tbody>

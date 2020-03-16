@@ -234,9 +234,9 @@
 
 <!-- end list -->
 
-  - [에딘 제코](https://ko.wikipedia.org/wiki/에딘_제코 "wikilink")
+  - [에딘 제코](../Page/에딘_제코.md "wikilink")
 
-  - [가레스 베일](https://ko.wikipedia.org/wiki/가레스_베일 "wikilink")
+  - [가레스 베일](../Page/가레스_베일.md "wikilink")
 
 <!-- end list -->
 
@@ -256,7 +256,7 @@
 
   - [케빈 더 브라위너](../Page/케빈_더_브라위너.md "wikilink")
 
-  - [마루안 펠라이니](https://ko.wikipedia.org/wiki/마루안_펠라이니 "wikilink")
+  - [마루안 펠라이니](../Page/마루안_펠라이니.md "wikilink")
 
   - [네스토라스 미티디스](https://ko.wikipedia.org/wiki/네스토라스_미티디스 "wikilink")
 
@@ -286,9 +286,9 @@
 
   - [미키 바추아이](../Page/미키_바추아이.md "wikilink")
 
-  - [베다드 이비셰비치](https://ko.wikipedia.org/wiki/베다드_이비셰비치 "wikilink")
+  - [베다드 이비셰비치](../Page/베다드_이비셰비치.md "wikilink")
 
-  - [에딘 비슈차](https://ko.wikipedia.org/wiki/에딘_비슈차 "wikilink")
+  - [에딘 비슈차](../Page/에딘_비슈차.md "wikilink")
 
   - [하리스 메두냐닌](../Page/하리스_메두냐닌.md "wikilink")
 
@@ -300,7 +300,7 @@
 
   - [에란 자하비](../Page/에란_자하비.md "wikilink")
 
-  - [에런 램지](https://ko.wikipedia.org/wiki/에런_램지 "wikilink")
+  - [에런 램지](../Page/에런_램지.md "wikilink")
 
 <!-- end list -->
 
@@ -308,7 +308,7 @@
 
 <!-- end list -->
 
-  - [크리스티앙 벤테케](https://ko.wikipedia.org/wiki/크리스티앙_벤테케 "wikilink")
+  - [크리스티앙 벤테케](../Page/크리스티앙_벤테케.md "wikilink")
 
   - [나세르 샤들리](../Page/나세르_샤들리.md "wikilink")
 

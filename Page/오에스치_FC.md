@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
 
 
-**오에스치 푸츠보우 클루비**는 [브라질](https://ko.wikipedia.org/wiki/브라질 "wikilink")의 축구단으로 [상파울루주](https://ko.wikipedia.org/wiki/상파울루주 "wikilink")의 [이타폴리스](https://ko.wikipedia.org/wiki/이타폴리스 "wikilink")를 연고로 한다. 현재 [캄페오나투 브라질레이루 세리에 B에](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리에_B "wikilink") 참가하고 있다.
+**오에스치 푸츠보우 클루비**는 [브라질](../Page/브라질.md "wikilink")의 축구단으로 [상파울루주](../Page/상파울루주.md "wikilink")의 [이타폴리스](https://ko.wikipedia.org/wiki/이타폴리스 "wikilink")를 연고로 한다. 현재 [캄페오나투 브라질레이루 세리에 B에](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리에_B "wikilink") 참가하고 있다.
 
 ## 우승
 

@@ -275,7 +275,7 @@
 
   - [두샨 타디치](../Page/두샨_타디치.md "wikilink")
 
-  - [가레스 베일](https://ko.wikipedia.org/wiki/가레스_베일 "wikilink")
+  - [가레스 베일](../Page/가레스_베일.md "wikilink")
 
 <!-- end list -->
 
@@ -283,7 +283,7 @@
 
 <!-- end list -->
 
-  - [제임스 매클레인](https://ko.wikipedia.org/wiki/제임스_매클레인 "wikilink")
+  - [제임스 매클레인](../Page/제임스_매클레인.md "wikilink")
 
 <!-- end list -->
 
@@ -291,11 +291,11 @@
 
 <!-- end list -->
 
-  - [마르코 아르나우토비치](https://ko.wikipedia.org/wiki/마르코_아르나우토비치 "wikilink")
+  - [마르코 아르나우토비치](../Page/마르코_아르나우토비치.md "wikilink")
 
   - [마르틴 힌터레거](https://ko.wikipedia.org/wiki/마르틴_힌터레거 "wikilink")
 
-  - [마르크 양코](https://ko.wikipedia.org/wiki/마르크_양코 "wikilink")
+  - [마르크 양코](../Page/마르크_양코.md "wikilink")
 
   - [마르셀 자비처](../Page/마르셀_자비처.md "wikilink")
 
@@ -303,7 +303,7 @@
 
   - [필리프 코스티치](https://ko.wikipedia.org/wiki/필리프_코스티치 "wikilink")
 
-  - [조 앨런](https://ko.wikipedia.org/wiki/조_앨런 "wikilink")
+  - [조 앨런](../Page/조_앨런.md "wikilink")
 
 <!-- end list -->
 
@@ -333,7 +333,7 @@
 
   - [제프 헨드릭](../Page/제프_헨드릭.md "wikilink")
 
-  - [셰인 롱](https://ko.wikipedia.org/wiki/셰인_롱 "wikilink")
+  - [셰인 롱](../Page/셰인_롱.md "wikilink")
 
   - [대릴 머피](../Page/대릴_머피.md "wikilink")
 
@@ -345,7 +345,7 @@
 
   - [샘 보크스](../Page/샘_보크스.md "wikilink")
 
-  - [에런 램지](https://ko.wikipedia.org/wiki/에런_램지 "wikilink")
+  - [에런 램지](../Page/에런_램지.md "wikilink")
 
 <!-- end list -->
 

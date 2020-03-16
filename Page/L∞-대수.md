@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [L-](https://ko.wikipedia.org/wiki/L-).
 
 
-[수학](https://ko.wikipedia.org/wiki/수학 "wikilink")에서, **L<sub>∞</sub>-대수**() 또는 **호모토피 리 대수**()는 \(\mathbb Z\) 등급을 갖는 대수이다.\[1\]\[2\]\[3\] [리 대수의](https://ko.wikipedia.org/wiki/리_대수 "wikilink") 개념에서, [야코비 항등식이](https://ko.wikipedia.org/wiki/야코비_항등식 "wikilink") 오직 호모토피에 대하여 성립하도록 약화시킨 것이다.
+[수학](../Page/수학.md "wikilink")에서, **L<sub>∞</sub>-대수**() 또는 **호모토피 리 대수**()는 \(\mathbb Z\) 등급을 갖는 대수이다.\[1\]\[2\]\[3\] [리 대수의](../Page/리_대수.md "wikilink") 개념에서, [야코비 항등식이](https://ko.wikipedia.org/wiki/야코비_항등식 "wikilink") 오직 호모토피에 대하여 성립하도록 약화시킨 것이다.
 
 ## 정의
 
@@ -10,12 +10,12 @@
 [표수 0의](https://ko.wikipedia.org/wiki/표수_0 "wikilink") 체 \(K\)가 주어졌다고 하자. \(K\) 위의 [초벡터 공간](https://ko.wikipedia.org/wiki/초벡터_공간 "wikilink") \(V=V_+\oplus V_-\)이 주어졌을 때, 다음을 정의하자.
 
 \[\bigwedge V =
-\frac{\operatorname T(V)}{\mathfrak I}\] 여기서 \(\mathfrak I\) 는 [텐서 대수](../Page/텐서_대수.md "wikilink") \(\operatorname T(V)\)의, 다음 부분 집합으로 생성되는 [아이디얼](https://ko.wikipedia.org/wiki/아이디얼 "wikilink")이다.
+\frac{\operatorname T(V)}{\mathfrak I}\] 여기서 \(\mathfrak I\) 는 [텐서 대수](../Page/텐서_대수.md "wikilink") \(\operatorname T(V)\)의, 다음 부분 집합으로 생성되는 [아이디얼](../Page/아이디얼.md "wikilink")이다.
 
 \[\mathfrak I = \left(v_1\otimes v_2\otimes\dotsb\otimes v_n - (-)^\sigma(-)^{\sigma,\vec v} v_{\sigma(1)}\otimes v_{\sigma(2)}\otimes\dotsb\otimes v_{\sigma(n)} \colon \sigma \in\operatorname{Sym}(n),\;v_1,\dotsc,v_n \in V_+ \cup V_- \right)\] 여기서
 
-  - \((-)^\sigma\in\{\pm1\}\)는 순열의 부호수, 즉 [군 준동형](https://ko.wikipedia.org/wiki/군_준동형 "wikilink") \(\operatorname{Sym}(n) \to \operatorname{Sym}(2)\)에 대한 [상이다](https://ko.wikipedia.org/wiki/상_\(수학\) "wikilink").
-  - \((-)^{\sigma,\vec v}\in\{\pm1\}\)는 \(\sigma\)가 \((v_1,\dotsc,v_n)\)에 [작용할](https://ko.wikipedia.org/wiki/군의_작용 "wikilink") 때, \(V_-\)에 속하는 두 원소를 교환할 때의 수가 짝수인 경우 \(+1\), 홀수일 경우 \(-1\)이다.
+  - \((-)^\sigma\in\{\pm1\}\)는 순열의 부호수, 즉 [군 준동형](https://ko.wikipedia.org/wiki/군_준동형 "wikilink") \(\operatorname{Sym}(n) \to \operatorname{Sym}(2)\)에 대한 [상이다](../Page/상_\(수학\).md "wikilink").
+  - \((-)^{\sigma,\vec v}\in\{\pm1\}\)는 \(\sigma\)가 \((v_1,\dotsc,v_n)\)에 [작용할](../Page/군의_작용.md "wikilink") 때, \(V_-\)에 속하는 두 원소를 교환할 때의 수가 짝수인 경우 \(+1\), 홀수일 경우 \(-1\)이다.
 
 물론 \(\textstyle\bigwedge V\)는 자연수 등급을 갖는다.
 
@@ -37,12 +37,12 @@
 
 만약 각 등급별 차원이 유한하다면, L<sub>∞</sub>-대수는 다음과 같이 정의될 수도 있다.
 
-[표수 0의](https://ko.wikipedia.org/wiki/표수_0 "wikilink") [체](https://ko.wikipedia.org/wiki/체_\(수학\) "wikilink") \(K\) 위의 위의 **호모토피 리 대수**는 다음과 같은 데이터로 주어진다.
+[표수 0의](https://ko.wikipedia.org/wiki/표수_0 "wikilink") [체](../Page/체_\(수학\).md "wikilink") \(K\) 위의 위의 **호모토피 리 대수**는 다음과 같은 데이터로 주어진다.
 
   - \(K\) 위의 양의 정수 [등급 벡터 공간](https://ko.wikipedia.org/wiki/등급_벡터_공간 "wikilink") \(A=\textstyle\bigoplus_{i\in\mathbb Z^+}A_i\). 이로부터 다음을 정의할 수 있다.
       - \(A^*\)는 \(A\)의 [대수적 쌍대 공간이다](https://ko.wikipedia.org/wiki/대수적_쌍대_공간 "wikilink").
-      - \(\operatorname{Sym}(A^*)\)은 등급 벡터 공간 \(A^*\) 위의 대칭 대수이며, 이는 [자연수](https://ko.wikipedia.org/wiki/자연수 "wikilink") [등급 대수를](../Page/등급_대수.md "wikilink") 이룬다.
-  - \(\mathrm d \colon \operatorname{Sym}(V^*)\to\operatorname{Sym}(V^*)\)는 \(\operatorname{Sym}(V^*)\) 위의, 등급 +1의 [연속](https://ko.wikipedia.org/wiki/연속_함수 "wikilink") [미분이다](https://ko.wikipedia.org/wiki/미분_\(대수학\) "wikilink"). 즉, 다음 조건들을 만족시킨다.
+      - \(\operatorname{Sym}(A^*)\)은 등급 벡터 공간 \(A^*\) 위의 대칭 대수이며, 이는 [자연수](../Page/자연수.md "wikilink") [등급 대수를](../Page/등급_대수.md "wikilink") 이룬다.
+  - \(\mathrm d \colon \operatorname{Sym}(V^*)\to\operatorname{Sym}(V^*)\)는 \(\operatorname{Sym}(V^*)\) 위의, 등급 +1의 [연속](../Page/연속_함수.md "wikilink") [미분이다](https://ko.wikipedia.org/wiki/미분_\(대수학\) "wikilink"). 즉, 다음 조건들을 만족시킨다.
       - \(\mathrm d\)는 \(K\)-[선형 변환이다](https://ko.wikipedia.org/wiki/선형_변환 "wikilink").
       - \(\mathrm d\circ \mathrm d = 0\)
       - \(\mathrm d(ab) = (\mathrm da)b + (-)^{\deg a} a\mathrm db\)이다. 여기서 \(a\)는 동차 성분이다.
@@ -50,7 +50,7 @@
 
 이는 다음 조건을 추가로 만족시켜야 한다.
 
-  - 표준 사영 \((\operatorname{Sym}(V^*),\mathrm d) \to (K,0)\)는 [미분 등급 대수의](../Page/미분_등급_대수.md "wikilink") [준동형](https://ko.wikipedia.org/wiki/준동형 "wikilink")이다.
+  - 표준 사영 \((\operatorname{Sym}(V^*),\mathrm d) \to (K,0)\)는 [미분 등급 대수의](../Page/미분_등급_대수.md "wikilink") [준동형](../Page/준동형.md "wikilink")이다.
 
 (만약 이 조건을 생략한다면, 굽은 L<sub>∞</sub>-대수의 개념을 얻는다.)
 
@@ -72,15 +72,15 @@
 
 ### 미분 등급 리 대수
 
-L<sub>∞</sub>-대수 \(\mathfrak g\)에서, 만약 오직 2항 이하 괄호만이 0이 아닌 경우, 이는 [미분 등급 리 대수를](https://ko.wikipedia.org/wiki/미분_등급_리_대수 "wikilink") 이룬다. 즉, 이 경우
+L<sub>∞</sub>-대수 \(\mathfrak g\)에서, 만약 오직 2항 이하 괄호만이 0이 아닌 경우, 이는 [미분 등급 리 대수를](../Page/미분_등급_리_대수.md "wikilink") 이룬다. 즉, 이 경우
 
 \[[a]_1 = \mathrm da\]
 
 \[[a,b]_2 = [a,b]\]
 
-\[[a,b,\dotsc,]_k = 0\qquad(k\ge3)\] 로 놓으면, \((\mathfrak g,\mathrm d,[-,-])\)가 만족시켜야 하는 항등식들은 [미분 등급 리 대수의](https://ko.wikipedia.org/wiki/미분_등급_리_대수 "wikilink") 정의와 일치한다. 즉, 3항 이상의 괄호들이 모두 0이라면, 2항 괄호의 [야코비 항등식이](https://ko.wikipedia.org/wiki/야코비_항등식 "wikilink") 정확히 성립한다.
+\[[a,b,\dotsc,]_k = 0\qquad(k\ge3)\] 로 놓으면, \((\mathfrak g,\mathrm d,[-,-])\)가 만족시켜야 하는 항등식들은 [미분 등급 리 대수의](../Page/미분_등급_리_대수.md "wikilink") 정의와 일치한다. 즉, 3항 이상의 괄호들이 모두 0이라면, 2항 괄호의 [야코비 항등식이](https://ko.wikipedia.org/wiki/야코비_항등식 "wikilink") 정확히 성립한다.
 
-특히, 만약 추가로 \([-]_1 = \mathrm d = 0\)일 경우, 이는 등급 [리 초대수를](https://ko.wikipedia.org/wiki/리_초대수 "wikilink") 이루며, 만약 모든 등급이 짝수라면 이는 등급 [리 대수를](https://ko.wikipedia.org/wiki/리_대수 "wikilink") 이룬다.
+특히, 만약 추가로 \([-]_1 = \mathrm d = 0\)일 경우, 이는 등급 [리 초대수를](../Page/리_초대수.md "wikilink") 이루며, 만약 모든 등급이 짝수라면 이는 등급 [리 대수를](../Page/리_대수.md "wikilink") 이룬다.
 
 ### 리 \(n\)-대수
 
@@ -92,7 +92,7 @@ L<sub>∞</sub>-대수에서, 모든 생성원의 등급이 \(\{0,1,\dotsc,n\}\)
 
 예를 들어, \(n=1\)일 경우, 오직 1항 · 2항 · 3항 연산만이 자명하지 않다.
 
-특히, \(n=0\)인 경우, 1항 연산 또한 등급에 의하여 0이 되므로, 이 개념은 [리 대수의](https://ko.wikipedia.org/wiki/리_대수 "wikilink") 개념과 [동치](https://ko.wikipedia.org/wiki/동치 "wikilink")이다.
+특히, \(n=0\)인 경우, 1항 연산 또한 등급에 의하여 0이 되므로, 이 개념은 [리 대수의](../Page/리_대수.md "wikilink") 개념과 [동치](../Page/동치.md "wikilink")이다.
 
 ### 거스틴해버 대수
 

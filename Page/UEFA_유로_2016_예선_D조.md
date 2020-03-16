@@ -234,7 +234,7 @@
 
 <!-- end list -->
 
-  - [로베르트 레반도프스키](https://ko.wikipedia.org/wiki/로베르트_레반도프스키 "wikilink")
+  - [로베르트 레반도프스키](../Page/로베르트_레반도프스키.md "wikilink")
 
 <!-- end list -->
 
@@ -242,7 +242,7 @@
 
 <!-- end list -->
 
-  - [토마스 뮐러](https://ko.wikipedia.org/wiki/토마스_뮐러 "wikilink")
+  - [토마스 뮐러](../Page/토마스_뮐러.md "wikilink")
 
 <!-- end list -->
 
@@ -250,7 +250,7 @@
 
 <!-- end list -->
 
-  - [스티븐 플레처](https://ko.wikipedia.org/wiki/스티븐_플레처 "wikilink")
+  - [스티븐 플레처](../Page/스티븐_플레처.md "wikilink")
 
 <!-- end list -->
 
@@ -266,7 +266,7 @@
 
 <!-- end list -->
 
-  - [로비 킨](https://ko.wikipedia.org/wiki/로비_킨 "wikilink")
+  - [로비 킨](../Page/로비_킨.md "wikilink")
 
   - [숀 말로니](../Page/숀_말로니.md "wikilink")
 
@@ -276,7 +276,7 @@
 
 <!-- end list -->
 
-  - [카밀 그로시츠키](https://ko.wikipedia.org/wiki/카밀_그로시츠키 "wikilink")
+  - [카밀 그로시츠키](../Page/카밀_그로시츠키.md "wikilink")
 
 <!-- end list -->
 
@@ -286,17 +286,17 @@
 
   - [토르니케 오크리아슈빌리](https://ko.wikipedia.org/wiki/토르니케_오크리아슈빌리 "wikilink")
 
-  - [마리오 괴체](https://ko.wikipedia.org/wiki/마리오_괴체 "wikilink")
+  - [마리오 괴체](../Page/마리오_괴체.md "wikilink")
 
   - [막스 크루제](../Page/막스_크루제.md "wikilink")
 
   - [안드레 쉬얼레](https://ko.wikipedia.org/wiki/안드레_쉬얼레 "wikilink")
 
-  - [셰인 롱](https://ko.wikipedia.org/wiki/셰인_롱 "wikilink")
+  - [셰인 롱](../Page/셰인_롱.md "wikilink")
 
   - [조너선 월터스](../Page/조너선_월터스.md "wikilink")
 
-  - [스티븐 네이스미스](https://ko.wikipedia.org/wiki/스티븐_네이스미스 "wikilink")
+  - [스티븐 네이스미스](../Page/스티븐_네이스미스.md "wikilink")
 
 <!-- end list -->
 
@@ -310,15 +310,15 @@
 
   - [마테 바차제](https://ko.wikipedia.org/wiki/마테_바차제 "wikilink")
 
-  - [일카이 귄도안](https://ko.wikipedia.org/wiki/일카이_귄도안 "wikilink")
+  - [일카이 귄도안](../Page/일카이_귄도안.md "wikilink")
 
   - [그제고슈 크리호비악](https://ko.wikipedia.org/wiki/그제고슈_크리호비악 "wikilink")
 
   - [세바스티안 밀라](https://ko.wikipedia.org/wiki/세바스티안_밀라 "wikilink")
 
-  - [제임스 매클레인](https://ko.wikipedia.org/wiki/제임스_매클레인 "wikilink")
+  - [제임스 매클레인](../Page/제임스_매클레인.md "wikilink")
 
-  - [에이든 맥기디](https://ko.wikipedia.org/wiki/에이든_맥기디 "wikilink")
+  - [에이든 맥기디](../Page/에이든_맥기디.md "wikilink")
 
 <!-- end list -->
 
@@ -330,15 +330,15 @@
 
   - [카림 벨라라비](../Page/카림_벨라라비.md "wikilink")
 
-  - [토니 크로스](https://ko.wikipedia.org/wiki/토니_크로스 "wikilink")
+  - [토니 크로스](../Page/토니_크로스.md "wikilink")
 
-  - [마르코 로이스](https://ko.wikipedia.org/wiki/마르코_로이스 "wikilink")
+  - [마르코 로이스](../Page/마르코_로이스.md "wikilink")
 
   - [리 캐시아로](https://ko.wikipedia.org/wiki/리_캐시아로 "wikilink")
 
   - [제이크 고슬링](https://ko.wikipedia.org/wiki/제이크_고슬링_\(축구_선수\) "wikilink")
 
-  - [야쿠프 브와슈치코프스키](https://ko.wikipedia.org/wiki/야쿠프_브와슈치코프스키 "wikilink")
+  - [야쿠프 브와슈치코프스키](../Page/야쿠프_브와슈치코프스키.md "wikilink")
 
   - [카밀 글리크](../Page/카밀_글리크.md "wikilink")
 
@@ -346,7 +346,7 @@
 
   - [크리슈토프 몽친스키](https://ko.wikipedia.org/wiki/크리슈토프_몽친스키 "wikilink")
 
-  - [스와보미르 페슈코](https://ko.wikipedia.org/wiki/스와보미르_페슈코 "wikilink")
+  - [스와보미르 페슈코](../Page/스와보미르_페슈코.md "wikilink")
 
   - [우카슈 슈카와](https://ko.wikipedia.org/wiki/우카슈_슈카와 "wikilink")
 
@@ -378,7 +378,7 @@
 
   - [요간 산토스](https://ko.wikipedia.org/wiki/요간_산토스 "wikilink") (독일전 자책골)
 
-  - [존 오셰이](https://ko.wikipedia.org/wiki/존_오셰이 "wikilink") (스코틀랜드전 자책골)
+  - [존 오셰이](../Page/존_오셰이.md "wikilink") (스코틀랜드전 자책골)
 
 ## 기록
 

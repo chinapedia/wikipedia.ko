@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SNOWFLAKE \(EP\)](https://ko.wikipedia.org/wiki/SNOWFLAKE_\(EP\)).
 
 
-《**SNOWFLAKE**》(스노플레이크)는 걸그룹 [여자친구의](../Page/여자친구_\(음악_그룹\).md "wikilink") 3번째 [미니 앨범이다](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink").
+《**SNOWFLAKE**》(스노플레이크)는 걸그룹 [여자친구의](../Page/여자친구_\(음악_그룹\).md "wikilink") 3번째 [미니 앨범이다](../Page/익스텐디드_플레이.md "wikilink").
 
 ## 개요
 

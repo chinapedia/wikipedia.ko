@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [PKCZ](https://ko.wikipedia.org/wiki/PKCZ).
 
 
-**PKCZ**®(Primal Knowledge ChamberZ\[1\], 피케이씨즈)는 [EXILE HIRO](https://ko.wikipedia.org/wiki/이가라시_히로유키 "wikilink"), [DJ MAKIDAI](https://ko.wikipedia.org/wiki/마키_다이스케 "wikilink"), [VERBAL](https://ko.wikipedia.org/wiki/VERBAL "wikilink"), DJ DARUMA를 중심으로 하는 음악, 패션, 파티 등의 다양한 분야를 넘나들며 새로운 무브먼트를 일으키기 위해 결성된 팀이다.
+**PKCZ**®(Primal Knowledge ChamberZ\[1\], 피케이씨즈)는 [EXILE HIRO](../Page/이가라시_히로유키.md "wikilink"), [DJ MAKIDAI](../Page/마키_다이스케.md "wikilink"), [VERBAL](../Page/VERBAL.md "wikilink"), DJ DARUMA를 중심으로 하는 음악, 패션, 파티 등의 다양한 분야를 넘나들며 새로운 무브먼트를 일으키기 위해 결성된 팀이다.
 
 ## 멤버
 
-  - **[EXILE HIRO](https://ko.wikipedia.org/wiki/이가라시_히로유키 "wikilink")**
+  - **[EXILE HIRO](../Page/이가라시_히로유키.md "wikilink")**
       -
         프로듀스 담당
-  - *' [DJ MAKIDAI](https://ko.wikipedia.org/wiki/마키_다이스케 "wikilink")*' ([EXILE](https://ko.wikipedia.org/wiki/EXILE "wikilink"))
+  - *' [DJ MAKIDAI](../Page/마키_다이스케.md "wikilink")*' ([EXILE](../Page/EXILE.md "wikilink"))
       -
         DJ 담당
-  - *' [VERBAL](https://ko.wikipedia.org/wiki/VERBAL "wikilink")*' ([m-flo](https://ko.wikipedia.org/wiki/m-flo "wikilink"))
+  - *' [VERBAL](../Page/VERBAL.md "wikilink")*' ([m-flo](https://ko.wikipedia.org/wiki/m-flo "wikilink"))
       -
         MC, DJ 담당
         외에도 해외의 게스트와 연락을 취하는 역할을 한다.
@@ -30,7 +30,7 @@
 
   - 2월 10일, 도쿄에서 PKCZ 프로듀스의 파티 "SHINNENKAI 2015"가 열린다. 그리고 PKCZ의 구체적인 내용과 아티스트 사진이 공개되고, 본격적으로 활동을 시작한다.
   - 3월 20일, 처음으로 일반인도 참가가능한 PKCZ 프로듀스의 파티 "U・F・O MIXed by PKCZ®"가 개최된다.\[2\].
-  - 10월 3일, PKCZ가 [자넷 잭슨의](https://ko.wikipedia.org/wiki/자넷_잭슨 "wikilink") 앨범 *[Unbreakable](https://ko.wikipedia.org/wiki/:en:Unbreakable_\(Janet_Jackson_album\) "wikilink")*의 No Sleep을 리믹스한 보너스트랙 "No Sleeep (PKCZ Remix)"가 포함된 일본판 앨범이 발매\[3\].
+  - 10월 3일, PKCZ가 [자넷 잭슨의](../Page/자넷_잭슨.md "wikilink") 앨범 *[Unbreakable](https://ko.wikipedia.org/wiki/:en:Unbreakable_\(Janet_Jackson_album\) "wikilink")*의 No Sleep을 리믹스한 보너스트랙 "No Sleeep (PKCZ Remix)"가 포함된 일본판 앨범이 발매\[3\].
   - 10월 31일, 요코하마 아리나에서 "U･F･O 〜ELECTRIC HALLOWEEN〜 MIXed by PKCZ"가 개최된다. 이벤트 종료 후, 2016년에 WORLD TOUR를 개최하는 것이 발표된다.
   - 11월 1일, 도쿄의 [나카메구로에](https://ko.wikipedia.org/wiki/메구로_구 "wikilink") PKCZ® GALLERY STORE가 오픈했다.
 
@@ -41,11 +41,11 @@
   - [산다이메 J Soul Brothers from EXILE TRIBE](../Page/J_Soul_Brothers.md "wikilink") 「Summer Madness -PKCZ® Remix-」 (2015년)
   - [EXILE SHOKICHI](../Page/SHOKICHI.md "wikilink") 「Y.L.S.S. feat. PKCZ®」 (2015년)
   - [산다이메 J Soul Brothers from EXILE TRIBE](../Page/J_Soul_Brothers.md "wikilink") 「BURNING UP -PKCZ® Remix-」 (2015년)
-  - [Crystal Kay](https://ko.wikipedia.org/wiki/크리스탈_케이 "wikilink") feat. [아무로 나미에](https://ko.wikipedia.org/wiki/아무로_나미에 "wikilink") 「REVOLUTION (PKCZ® Remix feat. [SWAY](https://ko.wikipedia.org/wiki/SWAY "wikilink"))」 (2015년)
+  - [Crystal Kay](https://ko.wikipedia.org/wiki/크리스탈_케이 "wikilink") feat. [아무로 나미에](../Page/아무로_나미에.md "wikilink") 「REVOLUTION (PKCZ® Remix feat. [SWAY](https://ko.wikipedia.org/wiki/SWAY "wikilink"))」 (2015년)
 
 ### 앨범
 
-  - [자넷 잭슨](https://ko.wikipedia.org/wiki/자넷_잭슨 "wikilink") 『Unbreakable』 일본판 보너스 트랙 「No Sleep PKCZ® Remix」 (2015년)
+  - [자넷 잭슨](../Page/자넷_잭슨.md "wikilink") 『Unbreakable』 일본판 보너스 트랙 「No Sleep PKCZ® Remix」 (2015년)
 
 ### 뮤직 비디오
 
@@ -54,11 +54,11 @@
 
 ## 타이업
 
-| 곡                                                                                                                                                                      | 타이업                                                                                                   |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| WHITEOUT（PKCZ feat. [EXILE SHOKICHI](../Page/SHOKICHI.md "wikilink")）                                                                                                  | [NTV계](https://ko.wikipedia.org/wiki/닛폰_TV_방송망 "wikilink") 드라마「HiGH\&LOW〜THE STORY OF S.W.O.R.D.〜」삽입곡 |
-| VOICE OF RED feat. GS（DJ DARUMA from PKCZ）                                                                                                                             |                                                                                                       |
-| Mighty Warriors（PKCZ feat. [CRAZY BOY](../Page/ELLY.md "wikilink"), ANARCHY, [SWAY](https://ko.wikipedia.org/wiki/SWAY "wikilink"), MIGHTY CROWN（MASTA SIMON & SAMI-T） |                                                                                                       |
+| 곡                                                                                                                                                                      | 타이업                                                                                |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| WHITEOUT（PKCZ feat. [EXILE SHOKICHI](../Page/SHOKICHI.md "wikilink")）                                                                                                  | [NTV계](../Page/닛폰_TV_방송망.md "wikilink") 드라마「HiGH\&LOW〜THE STORY OF S.W.O.R.D.〜」삽입곡 |
+| VOICE OF RED feat. GS（DJ DARUMA from PKCZ）                                                                                                                             |                                                                                    |
+| Mighty Warriors（PKCZ feat. [CRAZY BOY](../Page/ELLY.md "wikilink"), ANARCHY, [SWAY](https://ko.wikipedia.org/wiki/SWAY "wikilink"), MIGHTY CROWN（MASTA SIMON & SAMI-T） |                                                                                    |
 
 ## 이벤트
 

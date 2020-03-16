@@ -121,7 +121,7 @@
 <ul>
 <li>발매일: 2013년 9월 24일</li>
 <li>레이블: OVO 사운드, <a href="https://ko.wikipedia.org/wiki/애스파이어_뮤직_그룹" title="wikilink">애스파이어</a>, <a href="https://ko.wikipedia.org/wiki/영_머니_엔터테인먼트" title="wikilink">영 머니</a>, <a href="https://ko.wikipedia.org/wiki/캐시_머니_레코드" title="wikilink">캐시 머니</a>, <a href="https://ko.wikipedia.org/wiki/리퍼블릭_레코드" title="wikilink">리퍼블릭</a></li>
-<li>포맷: <a href="https://ko.wikipedia.org/wiki/콤팩트_디스크" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/음악_다운로드" title="wikilink">디지털 다운로드</a></li>
+<li>포맷: <a href="../Page/콤팩트_디스크.md" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/음악_다운로드" title="wikilink">디지털 다운로드</a></li>
 </ul></td>
 </tr>
 <tr class="even">

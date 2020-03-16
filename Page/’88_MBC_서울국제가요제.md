@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [88 MBC ](https://ko.wikipedia.org/wiki/88_MBC_).
 
 
-《**'88 [MBC 서울국제가요제](../Page/MBC_서울국제가요제.md "wikilink")**》는 1988년 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서 치러진 가요제이다. 이전의 《[서울국제가요제](../Page/MBC_서울국제가요제.md "wikilink")》 행사와는 달리, 참가자들의 경연방식이 아닌 1988년 [서울올림픽](https://ko.wikipedia.org/wiki/서울올림픽 "wikilink") 공식 문화행사의 하나로 각국의 유명 가수들을 초청하여 그들의 히트곡으로 공연을 벌이는 축제 형식으로 치러진 공연이다. [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [NBC](https://ko.wikipedia.org/wiki/NBC "wikilink")와 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") [NHK](https://ko.wikipedia.org/wiki/NHK "wikilink")를 통해 위성 중계되었다\[1\]. 10개국 14개팀이 참가하였으며, 별도의 관련 음반은 제작되지 않았다.
+《**'88 [MBC 서울국제가요제](../Page/MBC_서울국제가요제.md "wikilink")**》는 1988년 [대한민국](../Page/대한민국.md "wikilink")에서 치러진 가요제이다. 이전의 《[서울국제가요제](../Page/MBC_서울국제가요제.md "wikilink")》 행사와는 달리, 참가자들의 경연방식이 아닌 1988년 [서울올림픽](https://ko.wikipedia.org/wiki/서울올림픽 "wikilink") 공식 문화행사의 하나로 각국의 유명 가수들을 초청하여 그들의 히트곡으로 공연을 벌이는 축제 형식으로 치러진 공연이다. [미국](../Page/미국.md "wikilink") [NBC](../Page/NBC.md "wikilink")와 [일본](../Page/일본.md "wikilink") [NHK](https://ko.wikipedia.org/wiki/NHK "wikilink")를 통해 위성 중계되었다\[1\]. 10개국 14개팀이 참가하였으며, 별도의 관련 음반은 제작되지 않았다.
 
 한편 경연형식의 국제가요제는 1986년을 끝으로 폐지되었고, 서울올림픽 개막을 기념하는 국제 규모 공연에 《서울국제가요제》라는 이름을 사용하였다.
 

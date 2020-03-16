@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Want You Tour](https://ko.wikipedia.org/wiki/Want_You_Tour).
 
 
-**Want You Tour**는 [빅뱅의](https://ko.wikipedia.org/wiki/빅뱅_\(음악_그룹\) "wikilink") 두 번째 단독 콘서트이자 첫 전국 투어로, [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") 5월부터 7월까지 개최 되었다.\[1\] 전국 5개 지역(인천, 춘천, 대구, 창원/부산, 전주)을 돌며 신인으로서는 예매율 97%라는 놀라운 관객동원력을 기록했다.\[2\] \[3\]
+**Want You Tour**는 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") 두 번째 단독 콘서트이자 첫 전국 투어로, [2007년](../Page/2007년.md "wikilink") 5월부터 7월까지 개최 되었다.\[1\] 전국 5개 지역(인천, 춘천, 대구, 창원/부산, 전주)을 돌며 신인으로서는 예매율 97%라는 놀라운 관객동원력을 기록했다.\[2\] \[3\]
 
 ## 멤버 부상
 
@@ -10,7 +10,7 @@
 
 ## 스페셜 게스트
 
-  - [거미](https://ko.wikipedia.org/wiki/거미_\(가수\) "wikilink") (창원 공연)\[6\]
+  - [거미](../Page/거미_\(가수\).md "wikilink") (창원 공연)\[6\]
 
 ## 세트 리스트
 

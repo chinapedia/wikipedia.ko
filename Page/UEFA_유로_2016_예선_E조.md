@@ -166,7 +166,7 @@
 </tbody>
 </table>
 
-  - 에스토니아와 리투아니아는 승점, 상대 전적(1승 1패, 합계 1-1)에서 동률을 이루고, [원정 다득점](https://ko.wikipedia.org/wiki/원정_다득점 "wikilink") 원칙에서도 순위를 가릴 수 없어서 골득실차로 순위가 결정되었다. 그 결과 에스토니아가 4위, 리투아니아가 5위가 되었다.
+  - 에스토니아와 리투아니아는 승점, 상대 전적(1승 1패, 합계 1-1)에서 동률을 이루고, [원정 다득점](../Page/원정_다득점.md "wikilink") 원칙에서도 순위를 가릴 수 없어서 골득실차로 순위가 결정되었다. 그 결과 에스토니아가 4위, 리투아니아가 5위가 되었다.
 
 -----
 
@@ -236,7 +236,7 @@
 
 <!-- end list -->
 
-  - [웨인 루니](https://ko.wikipedia.org/wiki/웨인_루니 "wikilink")
+  - [웨인 루니](../Page/웨인_루니.md "wikilink")
 
 <!-- end list -->
 
@@ -244,9 +244,9 @@
 
 <!-- end list -->
 
-  - [대니 웰벡](https://ko.wikipedia.org/wiki/대니_웰벡 "wikilink")
+  - [대니 웰벡](../Page/대니_웰벡.md "wikilink")
 
-  - [밀리보예 노바코비치](https://ko.wikipedia.org/wiki/밀리보예_노바코비치 "wikilink")
+  - [밀리보예 노바코비치](../Page/밀리보예_노바코비치.md "wikilink")
 
 <!-- end list -->
 
@@ -262,7 +262,7 @@
 
 <!-- end list -->
 
-  - [해리 케인](https://ko.wikipedia.org/wiki/해리_케인 "wikilink")
+  - [해리 케인](../Page/해리_케인.md "wikilink")
 
   - [시오 월콧](https://ko.wikipedia.org/wiki/시오_월콧 "wikilink")
 
@@ -276,11 +276,11 @@
 
 <!-- end list -->
 
-  - [로스 바클리](https://ko.wikipedia.org/wiki/로스_바클리 "wikilink")
+  - [로스 바클리](../Page/로스_바클리.md "wikilink")
 
-  - [라힘 스털링](https://ko.wikipedia.org/wiki/라힘_스털링 "wikilink")
+  - [라힘 스털링](../Page/라힘_스털링.md "wikilink")
 
-  - [잭 윌셔](https://ko.wikipedia.org/wiki/잭_윌셔 "wikilink")
+  - [잭 윌셔](../Page/잭_윌셔.md "wikilink")
 
   - [세르게이 제뇨브](https://ko.wikipedia.org/wiki/세르게이_제뇨브 "wikilink")
 
@@ -300,15 +300,15 @@
 
 <!-- end list -->
 
-  - [필 자기엘카](https://ko.wikipedia.org/wiki/필_자기엘카 "wikilink")
+  - [필 자기엘카](../Page/필_자기엘카.md "wikilink")
 
-  - [앨릭스 옥슬레이드체임벌린](https://ko.wikipedia.org/wiki/앨릭스_옥슬레이드체임벌린 "wikilink")
+  - [앨릭스 옥슬레이드체임벌린](../Page/앨릭스_옥슬레이드체임벌린.md "wikilink")
 
   - [앤드로스 타운센드](../Page/앤드로스_타운센드.md "wikilink")
 
   - [아츠 푸리에](https://ko.wikipedia.org/wiki/아츠_푸리에 "wikilink")
 
-  - [콘스탄틴 바실리예브](https://ko.wikipedia.org/wiki/콘스탄틴_바실리예브 "wikilink")
+  - [콘스탄틴 바실리예브](../Page/콘스탄틴_바실리예브.md "wikilink")
 
   - [데이비다스 마툴레비추스](https://ko.wikipedia.org/wiki/데이비다스_마툴레비추스 "wikilink")
 
@@ -320,13 +320,13 @@
 
   - [로베르트 베리치](https://ko.wikipedia.org/wiki/로베르트_베리치 "wikilink")
 
-  - [발테르 비르사](https://ko.wikipedia.org/wiki/발테르_비르사 "wikilink")
+  - [발테르 비르사](../Page/발테르_비르사.md "wikilink")
 
   - [브란코 일리치](../Page/브란코_일리치.md "wikilink")
 
   - [요심 일리치치](https://ko.wikipedia.org/wiki/요심_일리치치 "wikilink")
 
-  - [케빈 캄플](https://ko.wikipedia.org/wiki/케빈_캄플 "wikilink")
+  - [케빈 캄플](../Page/케빈_캄플.md "wikilink")
 
   - [데얀 라자레비치](../Page/데얀_라자레비치.md "wikilink")
 

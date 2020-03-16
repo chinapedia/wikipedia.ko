@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  II: ](https://ko.wikipedia.org/wiki/__II:_).
 
 
-《**어쌔신 크리드 II: 디스커버리**》()는 [그립토나이트 게임스가](https://ko.wikipedia.org/wiki/그립토나이트_게임스 "wikilink") 개발하고 [유비소프트](https://ko.wikipedia.org/wiki/유비소프트 "wikilink")가 발매한 2009년 닌텐도 DS 버전과 iPhone 버전 게임이다.
+《**어쌔신 크리드 II: 디스커버리**》()는 [그립토나이트 게임스가](https://ko.wikipedia.org/wiki/그립토나이트_게임스 "wikilink") 개발하고 [유비소프트](../Page/유비소프트.md "wikilink")가 발매한 2009년 닌텐도 DS 버전과 iPhone 버전 게임이다.
 
 ## 개요
 

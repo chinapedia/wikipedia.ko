@@ -197,7 +197,7 @@
 
 <!-- end list -->
 
-  - [로베르트 레반도프스키](https://ko.wikipedia.org/wiki/로베르트_레반도프스키 "wikilink")
+  - [로베르트 레반도프스키](../Page/로베르트_레반도프스키.md "wikilink")
 
 <!-- end list -->
 
@@ -205,7 +205,7 @@
 
 <!-- end list -->
 
-  - [크리스티안 에릭센](https://ko.wikipedia.org/wiki/크리스티안_에릭센 "wikilink")
+  - [크리스티안 에릭센](../Page/크리스티안_에릭센.md "wikilink")
 
 <!-- end list -->
 
@@ -213,7 +213,7 @@
 
 <!-- end list -->
 
-  - [스테반 요베티치](https://ko.wikipedia.org/wiki/스테반_요베티치 "wikilink")
+  - [스테반 요베티치](../Page/스테반_요베티치.md "wikilink")
 
 <!-- end list -->
 
@@ -263,7 +263,7 @@
 
   - [니콜라이 예르겐센](https://ko.wikipedia.org/wiki/니콜라이_예르겐센 "wikilink")
 
-  - [유수프 포울센](https://ko.wikipedia.org/wiki/유수프_포울센 "wikilink")
+  - [유수프 포울센](../Page/유수프_포울센.md "wikilink")
 
   - [이슬람베크 쿠아트](https://ko.wikipedia.org/wiki/이슬람베크_쿠아트 "wikilink")
 
@@ -271,7 +271,7 @@
 
   - [다미르 코야셰비치](https://ko.wikipedia.org/wiki/다미르_코야셰비치 "wikilink")
 
-  - [스테판 무고샤](https://ko.wikipedia.org/wiki/스테판_무고샤 "wikilink")
+  - [스테판 무고샤](../Page/스테판_무고샤.md "wikilink")
 
   - [스테판 사비치](../Page/스테판_사비치.md "wikilink")
 
@@ -279,11 +279,11 @@
 
   - [니콜라 북체비치](https://ko.wikipedia.org/wiki/니콜라_북체비치 "wikilink")
 
-  - [카밀 그로시츠키](https://ko.wikipedia.org/wiki/카밀_그로시츠키 "wikilink")
+  - [카밀 그로시츠키](../Page/카밀_그로시츠키.md "wikilink")
 
   - [바르토시 카푸스트카](../Page/바르토시_카푸스트카.md "wikilink")
 
-  - [우카시 피슈체크](https://ko.wikipedia.org/wiki/우카시_피슈체크 "wikilink")
+  - [우카시 피슈체크](../Page/우카시_피슈체크.md "wikilink")
 
   - [알렉산드루 킵치우](../Page/알렉산드루_킵치우.md "wikilink")
 

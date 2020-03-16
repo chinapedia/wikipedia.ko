@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JYJ   ](https://ko.wikipedia.org/wiki/JYJ___).
 
 
-다음은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") 가수 그룹 [JYJ](https://ko.wikipedia.org/wiki/JYJ "wikilink")의 **콘서트 목록**이다.
+다음은 [대한민국](../Page/대한민국.md "wikilink") [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") 가수 그룹 [JYJ](../Page/JYJ.md "wikilink")의 **콘서트 목록**이다.
 
 ## 일본 투어
 

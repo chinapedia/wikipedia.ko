@@ -1,18 +1,18 @@
 > This article is converted from Wikipedia: [  GJ](https://ko.wikipedia.org/wiki/__GJ).
 
 
-《**위대한 헌터 GJ**》는 [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink")에 개봉한 [대한민국의](https://ko.wikipedia.org/wiki/대한민국_영화 "wikilink") 영화이다.
+《**위대한 헌터 GJ**》는 [1995년](../Page/1995년.md "wikilink")에 개봉한 [대한민국의](https://ko.wikipedia.org/wiki/대한민국_영화 "wikilink") 영화이다.
 
 ## 캐스팅
 
   - 신기식 : G.J 역
-  - [강리나](https://ko.wikipedia.org/wiki/강리나 "wikilink") : 진이 역
-  - [김희라](https://ko.wikipedia.org/wiki/김희라 "wikilink")
+  - [강리나](../Page/강리나.md "wikilink") : 진이 역
+  - [김희라](../Page/김희라.md "wikilink")
   - 임용
   - 차종호
   - 이무정
-  - [김주영](https://ko.wikipedia.org/wiki/김주영_\(1952년\) "wikilink")
-  - [이해룡](https://ko.wikipedia.org/wiki/이해룡_\(배우\) "wikilink")
+  - [김주영](../Page/김주영_\(1952년\).md "wikilink")
+  - [이해룡](../Page/이해룡_\(배우\).md "wikilink")
   - [서찬호](https://ko.wikipedia.org/wiki/서찬호 "wikilink") : 거인 역
   - 강문수 : 야쿠샤 역
   - 이무룡 : 야쿠샤 역
@@ -30,7 +30,7 @@
   - 신용화 : 하야시경호원 역
   - 박동영 : 골프장 남 1 역
   - 윤동현 : 골프장 남 2 역
-  - [박예숙](https://ko.wikipedia.org/wiki/박예숙 "wikilink") : 모텔주인 역
+  - [박예숙](../Page/박예숙.md "wikilink") : 모텔주인 역
   - 최수정 : 모텔여 역
   - 김영철 : 오토바이사내 역
   - 이영국 : 골목남 역

@@ -3,7 +3,7 @@
 
 **Ascii85** 또는 **Base85** 불리는 이것은 Paul E. Rutter가 유틸리티 [:en:btoa](https://ko.wikipedia.org/wiki/:en:btoa "wikilink")를 위해 만든 [:en:binary-to-text encoding](https://ko.wikipedia.org/wiki/:en:binary-to-text_encoding "wikilink") 방법으로 5개의 [ASCII](https://ko.wikipedia.org/wiki/ASCII "wikilink") 문자로 4 바이트의 [이진 데이터를](https://ko.wikipedia.org/wiki/이진_데이터 "wikilink") 표현한다. ASCII 한 문자가 8비트라면 이 방법으로 하면 원본이 ¹⁄₄만큼 더 커진다. 이것은 4개의 문자로 3 바이트를 표현해서 ¹⁄₃만큼 더 커지는 [:en:uuencode](https://ko.wikipedia.org/wiki/:en:uuencode "wikilink")나 [베이스64](https://ko.wikipedia.org/wiki/베이스64 "wikilink")보다 효율적이다.
 
-이것은 [Adobe의](https://ko.wikipedia.org/wiki/어도비_시스템즈 "wikilink") [포스트스크립트](https://ko.wikipedia.org/wiki/포스트스크립트 "wikilink")와 [PDF](https://ko.wikipedia.org/wiki/PDF "wikilink") 파일 형식에 사용된다.
+이것은 [Adobe의](https://ko.wikipedia.org/wiki/어도비_시스템즈 "wikilink") [포스트스크립트](../Page/포스트스크립트.md "wikilink")와 [PDF](../Page/PDF.md "wikilink") 파일 형식에 사용된다.
 
 ## 기본 구상
 
@@ -11,7 +11,7 @@ binary-to-text encoding은 사람이 읽을 수 있는([:en:human-readable](http
 
 4 바이트는 2<sup>32</sup> = 4,294,967,296 가지의 값을 가지고, 5자리 85 진수([:en:radix](https://ko.wikipedia.org/wiki/:en:radix "wikilink"))는 85<sup>5</sup> = 4,437,053,125 가지의 값이 가능하므로 이걸로 32비트 값을 충분히 표현할 수 있다. 5자리의 84 진수는 84<sup>5</sup> = 4,182,119,424 가지 값만을 가지기 때문에 85가 5자리로 4바이트를 표현해 낼 수 있는 최소값이라 이것이 선택되었다.
 
-인코딩은 4바이트를 [big-endian으로](https://ko.wikipedia.org/wiki/엔디언 "wikilink") 묶어 32비트 수를 얻는 것에서 시작한다. 이것을 85진수로 바꾼다. 85를 연속해서 나누면서 나머지들을 얻는 과정이다. 그렇게 5자리의 85진수가 얻어지면, 각 자리에 33를 더해서 33 ("\!")에서 117 ("u")까지의 ASCII 문자로 바꾸는 것이다.
+인코딩은 4바이트를 [big-endian으로](../Page/엔디언.md "wikilink") 묶어 32비트 수를 얻는 것에서 시작한다. 이것을 85진수로 바꾼다. 85를 연속해서 나누면서 나머지들을 얻는 과정이다. 그렇게 5자리의 85진수가 얻어지면, 각 자리에 33를 더해서 33 ("\!")에서 117 ("u")까지의 ASCII 문자로 바꾸는 것이다.
 
 데이터가 모두 0인 경우는 상당히 흔하기 때문에 예외적으로 데이터 압축을 위해서 "`z`" 한 문자로 인코딩한다. "`!!!!!`"가 아니다.
 

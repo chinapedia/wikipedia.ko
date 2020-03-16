@@ -166,7 +166,7 @@
 </tbody>
 </table>
 
-  - [크로아티아는](https://ko.wikipedia.org/wiki/크로아티아_축구_국가대표팀 "wikilink") [UEFA](https://ko.wikipedia.org/wiki/UEFA "wikilink")로부터 승점 1점을 감점하는 조치를 받았다. 이는 크로아티아가 [스플리트](https://ko.wikipedia.org/wiki/스플리트 "wikilink")에 위치한 [스타디온 폴류드에서](https://ko.wikipedia.org/wiki/스타디온_폴류드 "wikilink") 열린 이탈리아와의 홈 경기에서 인종 차별적인 행동을 한 사실이 문제가 되었기 때문이다. UEFA는 크로아티아 축구 협회에 100,000 유로의 벌금을 부과했으며 크로아티아 대표팀의 홈 경기로 열리는 UEFA 주관 대회 2경기를 관중 없이 치르도록 명령했다. 또한 UEFA는 크로아티아가 스플리트에 위치한 스타디온 폴류드에서 UEFA 유로 2016 예선 홈 경기를 치르는 것조차 금지시켰다.
+  - [크로아티아는](../Page/크로아티아_축구_국가대표팀.md "wikilink") [UEFA](https://ko.wikipedia.org/wiki/UEFA "wikilink")로부터 승점 1점을 감점하는 조치를 받았다. 이는 크로아티아가 [스플리트](../Page/스플리트.md "wikilink")에 위치한 [스타디온 폴류드에서](../Page/스타디온_폴류드.md "wikilink") 열린 이탈리아와의 홈 경기에서 인종 차별적인 행동을 한 사실이 문제가 되었기 때문이다. UEFA는 크로아티아 축구 협회에 100,000 유로의 벌금을 부과했으며 크로아티아 대표팀의 홈 경기로 열리는 UEFA 주관 대회 2경기를 관중 없이 치르도록 명령했다. 또한 UEFA는 크로아티아가 스플리트에 위치한 스타디온 폴류드에서 UEFA 유로 2016 예선 홈 경기를 치르는 것조차 금지시켰다.
 
 -----
 
@@ -236,7 +236,7 @@
 
 <!-- end list -->
 
-  - [이반 페리시치](https://ko.wikipedia.org/wiki/이반_페리시치 "wikilink")
+  - [이반 페리시치](../Page/이반_페리시치.md "wikilink")
 
 <!-- end list -->
 
@@ -270,11 +270,11 @@
 
   - [안토니오 칸드레바](../Page/안토니오_칸드레바.md "wikilink")
 
-  - [조르조 키엘리니](https://ko.wikipedia.org/wiki/조르조_키엘리니 "wikilink")
+  - [조르조 키엘리니](../Page/조르조_키엘리니.md "wikilink")
 
   - [에데르](../Page/에데르_시타징_마르칭스.md "wikilink")
 
-  - [조슈아 킹](https://ko.wikipedia.org/wiki/조슈아_킹 "wikilink")
+  - [조슈아 킹](../Page/조슈아_킹.md "wikilink")
 
 <!-- end list -->
 
@@ -294,25 +294,25 @@
 
   - [디미타르 란겔로프](https://ko.wikipedia.org/wiki/디미타르_란겔로프 "wikilink")
 
-  - [니콜라 칼리니치](https://ko.wikipedia.org/wiki/니콜라_칼리니치 "wikilink")
+  - [니콜라 칼리니치](../Page/니콜라_칼리니치.md "wikilink")
 
-  - [마리오 만주키치](https://ko.wikipedia.org/wiki/마리오_만주키치 "wikilink")
+  - [마리오 만주키치](../Page/마리오_만주키치.md "wikilink")
 
-  - [이비차 올리치](https://ko.wikipedia.org/wiki/이비차_올리치 "wikilink")
+  - [이비차 올리치](../Page/이비차_올리치.md "wikilink")
 
-  - [다니옐 프라니치](https://ko.wikipedia.org/wiki/다니옐_프라니치 "wikilink")
+  - [다니옐 프라니치](../Page/다니옐_프라니치.md "wikilink")
 
-  - [이반 라키티치](https://ko.wikipedia.org/wiki/이반_라키티치 "wikilink")
+  - [이반 라키티치](../Page/이반_라키티치.md "wikilink")
 
   - [고르돈 실덴펠트](../Page/고르돈_실덴펠트.md "wikilink")
 
-  - [레오나르도 보누치](https://ko.wikipedia.org/wiki/레오나르도_보누치 "wikilink")
+  - [레오나르도 보누치](../Page/레오나르도_보누치.md "wikilink")
 
   - [마테오 다르미안](https://ko.wikipedia.org/wiki/마테오_다르미안 "wikilink")
 
-  - [다니엘레 데 로시](https://ko.wikipedia.org/wiki/다니엘레_데_로시 "wikilink")
+  - [다니엘레 데 로시](../Page/다니엘레_데_로시.md "wikilink")
 
-  - [스테판 엘 샤라위](https://ko.wikipedia.org/wiki/스테판_엘_샤라위 "wikilink")
+  - [스테판 엘 샤라위](../Page/스테판_엘_샤라위.md "wikilink")
 
   - [에데르](https://ko.wikipedia.org/wiki/에데르_치타딘_마르틴스 "wikilink")
 
@@ -334,7 +334,7 @@
 
   - [호바르 닐센](https://ko.wikipedia.org/wiki/호바르_닐센 "wikilink")
 
-  - [호바르 노르트베이트](https://ko.wikipedia.org/wiki/호바르_노르트베이트 "wikilink")
+  - [호바르 노르트베이트](../Page/호바르_노르트베이트.md "wikilink")
 
   - [알렉산데르 쇠데를룬](https://ko.wikipedia.org/wiki/알렉산데르_쇠데를룬 "wikilink")
 
@@ -350,7 +350,7 @@
 
   - [요르단 미네프](https://ko.wikipedia.org/wiki/요르단_미네프 "wikilink") (이탈리아전 자책골)
 
-  - [베드란 초를루카](https://ko.wikipedia.org/wiki/베드란_초를루카 "wikilink") (노르웨이전 자책골)
+  - [베드란 초를루카](../Page/베드란_초를루카.md "wikilink") (노르웨이전 자책골)
 
   - [조르지오 키엘리니](https://ko.wikipedia.org/wiki/조르지오_키엘리니 "wikilink") (아제르바이잔전 자책골)
 

@@ -166,7 +166,7 @@
 </tbody>
 </table>
 
-  - 룩셈부르크와 마케도니아 공화국은 승점, 상대 전적(1승 1패, 합계 3-3)이 같아 [원정 다득점](https://ko.wikipedia.org/wiki/원정_다득점 "wikilink") 원칙에 따라 순위가 결정되었다. 그 결과 룩셈부르크(마케도니아 공화국 원정 2골)가 5위, 마케도니아 공화국(룩셈부르크 원정 0골)이 6위가 되었다.
+  - 룩셈부르크와 마케도니아 공화국은 승점, 상대 전적(1승 1패, 합계 3-3)이 같아 [원정 다득점](../Page/원정_다득점.md "wikilink") 원칙에 따라 순위가 결정되었다. 그 결과 룩셈부르크(마케도니아 공화국 원정 2골)가 5위, 마케도니아 공화국(룩셈부르크 원정 0골)이 6위가 되었다.
 
 -----
 
@@ -238,7 +238,7 @@
 
   - [파코 알카세르](../Page/파코_알카세르.md "wikilink")
 
-  - [마레크 함시크](https://ko.wikipedia.org/wiki/마레크_함시크 "wikilink")
+  - [마레크 함시크](../Page/마레크_함시크.md "wikilink")
 
 <!-- end list -->
 
@@ -246,7 +246,7 @@
 
 <!-- end list -->
 
-  - [안드리 야르몰렌코](https://ko.wikipedia.org/wiki/안드리_야르몰렌코 "wikilink")
+  - [안드리 야르몰렌코](../Page/안드리_야르몰렌코.md "wikilink")
 
 <!-- end list -->
 
@@ -256,7 +256,7 @@
 
   - [아담 네메츠](../Page/아담_네메츠.md "wikilink")
 
-  - [다비드 실바](https://ko.wikipedia.org/wiki/다비드_실바 "wikilink")
+  - [다비드 실바](../Page/다비드_실바.md "wikilink")
 
   - [아르템 크라베츠](https://ko.wikipedia.org/wiki/아르템_크라베츠 "wikilink")
 
@@ -278,17 +278,17 @@
 
   - [알렉산다르 트라이코프스키](../Page/알렉산다르_트라이코프스키.md "wikilink")
 
-  - [유라이 쿠츠카](https://ko.wikipedia.org/wiki/유라이_쿠츠카 "wikilink")
+  - [유라이 쿠츠카](../Page/유라이_쿠츠카.md "wikilink")
 
   - [로베르트 마크](../Page/로베르트_마크.md "wikilink")
 
-  - [세르지오 부스케츠](https://ko.wikipedia.org/wiki/세르지오_부스케츠 "wikilink")
+  - [세르지오 부스케츠](../Page/세르지오_부스케츠.md "wikilink")
 
-  - [산티 카소를라](https://ko.wikipedia.org/wiki/산티_카소를라 "wikilink")
+  - [산티 카소를라](../Page/산티_카소를라.md "wikilink")
 
   - [페드로](../Page/페드로_로드리게스_레데스마.md "wikilink")
 
-  - [예우헨 코노플랸카](https://ko.wikipedia.org/wiki/예우헨_코노플랸카 "wikilink")
+  - [예우헨 코노플랸카](../Page/예우헨_코노플랸카.md "wikilink")
 
   - [세르히 시도르추크](../Page/세르히_시도르추크.md "wikilink")
 
@@ -320,7 +320,7 @@
 
   - [스타니슬라우 셰스타크](../Page/스타니슬라우_셰스타크.md "wikilink")
 
-  - [미로슬라우 스토흐](https://ko.wikipedia.org/wiki/미로슬라우_스토흐 "wikilink")
+  - [미로슬라우 스토흐](../Page/미로슬라우_스토흐.md "wikilink")
 
   - [블라디미르 바이스](https://ko.wikipedia.org/wiki/블라디미르_바이스_\(1989년\) "wikilink")
 
@@ -330,13 +330,13 @@
 
   - [디에고 코스타](https://ko.wikipedia.org/wiki/디에고_코스타 "wikilink")
 
-  - [이스코](https://ko.wikipedia.org/wiki/이스코 "wikilink")
+  - [이스코](../Page/이스코.md "wikilink")
 
-  - [안드레스 이니에스타](https://ko.wikipedia.org/wiki/안드레스_이니에스타 "wikilink")
+  - [안드레스 이니에스타](../Page/안드레스_이니에스타.md "wikilink")
 
-  - [알바로 모라타](https://ko.wikipedia.org/wiki/알바로_모라타 "wikilink")
+  - [알바로 모라타](../Page/알바로_모라타.md "wikilink")
 
-  - [세르히오 라모스](https://ko.wikipedia.org/wiki/세르히오_라모스 "wikilink")
+  - [세르히오 라모스](../Page/세르히오_라모스.md "wikilink")
 
   - [마리오 가스파르 페레스](https://ko.wikipedia.org/wiki/마리오_가스파르_페레스 "wikilink")
 

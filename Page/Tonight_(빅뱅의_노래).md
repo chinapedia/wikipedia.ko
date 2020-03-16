@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Tonight \( \)](https://ko.wikipedia.org/wiki/Tonight_\(_\)).
 
 
-〈**Tonight**〉는 대한민국의 음악 그룹 [빅뱅의](https://ko.wikipedia.org/wiki/빅뱅_\(음악_그룹\) "wikilink") 노래이다. 한국에서는 2년 3개월만에 컴백한 네 번째 미니 앨범 *[BIGBANG MINI 4](https://ko.wikipedia.org/wiki/BIGBANG_MINI_4 "wikilink")*의 타이틀곡으로 2011년 2월 24일 발매 되었다. 빅뱅의 리더 [G-Dragon이](https://ko.wikipedia.org/wiki/지드래곤 "wikilink") 작사하고, [T.O.P](https://ko.wikipedia.org/wiki/T.O.P "wikilink")이 랩메이킹에 참여, [G-Dragon이](https://ko.wikipedia.org/wiki/지드래곤 "wikilink") e.knock과 함께 작곡한 곡으로 빅뱅 특유의 일렉트로니카적인 스타일에 아날로그의 감성을 더해, 댄스음악이면서도 서정적인 감성의 노래이다.
+〈**Tonight**〉는 대한민국의 음악 그룹 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") 노래이다. 한국에서는 2년 3개월만에 컴백한 네 번째 미니 앨범 *[BIGBANG MINI 4](../Page/BIGBANG_MINI_4.md "wikilink")*의 타이틀곡으로 2011년 2월 24일 발매 되었다. 빅뱅의 리더 [G-Dragon이](../Page/지드래곤.md "wikilink") 작사하고, [T.O.P](../Page/T.O.P.md "wikilink")이 랩메이킹에 참여, [G-Dragon이](../Page/지드래곤.md "wikilink") e.knock과 함께 작곡한 곡으로 빅뱅 특유의 일렉트로니카적인 스타일에 아날로그의 감성을 더해, 댄스음악이면서도 서정적인 감성의 노래이다.
 
-뮤직 비디오는 미국 [라스베이거스](https://ko.wikipedia.org/wiki/라스베이거스 "wikilink")에서 올로케 촬영으로 진행되어 화려한 야경과 사막, 바다 등의 자연풍광을 함께 담아냈고, 이번 뮤직비디오에서 [대성이](https://ko.wikipedia.org/wiki/대성_\(가수\) "wikilink") 처음으로 빅뱅 뮤직비디오의 주인공을 맡았다.\[1\]
+뮤직 비디오는 미국 [라스베이거스](../Page/라스베이거스.md "wikilink")에서 올로케 촬영으로 진행되어 화려한 야경과 사막, 바다 등의 자연풍광을 함께 담아냈고, 이번 뮤직비디오에서 [대성이](../Page/대성_\(가수\).md "wikilink") 처음으로 빅뱅 뮤직비디오의 주인공을 맡았다.\[1\]
 
 ## 각주
 

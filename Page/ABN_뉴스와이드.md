@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ABN ](https://ko.wikipedia.org/wiki/ABN_).
 
 
-《**ABN 뉴스와이드**》는 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [성남](https://ko.wikipedia.org/wiki/성남시 "wikilink") 지역의 케이블 방송사인 [아름방송의](https://ko.wikipedia.org/wiki/아름방송네트워크 "wikilink") 뉴스 프로그램이다.
+《**ABN 뉴스와이드**》는 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [성남](../Page/성남시.md "wikilink") 지역의 케이블 방송사인 [아름방송의](../Page/아름방송네트워크.md "wikilink") 뉴스 프로그램이다.
 
 ## 방송시간
 
@@ -26,7 +26,7 @@
 
 ## 관련 항목
 
-  - [ABN](https://ko.wikipedia.org/wiki/아름방송네트워크 "wikilink")
+  - [ABN](../Page/아름방송네트워크.md "wikilink")
   - [뉴스와이드](https://ko.wikipedia.org/wiki/뉴스와이드 "wikilink")
 
 ## 외부 링크

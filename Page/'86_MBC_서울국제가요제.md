@@ -7,7 +7,7 @@
 
   - 개최일시 : 1986년 7월 26일
   - 개최장소 : 세종문화회관 대강당
-  - 초청가수 : [징기스칸](https://ko.wikipedia.org/wiki/징기스칸_\(음악_그룹\) "wikilink")
+  - 초청가수 : [징기스칸](../Page/징기스칸_\(음악_그룹\).md "wikilink")
 
 ## 음반 수록곡
 
@@ -19,7 +19,7 @@
 
 1.  "Wind and Rain 바람에 흔들리고 비에 젖어도 (한국 · 최진희)" ([박현진](https://ko.wikipedia.org/wiki/박현진 "wikilink") 작사 / [박현진](https://ko.wikipedia.org/wiki/박현진 "wikilink") 작곡) ***- 금상 수상***
 2.  "Love in Your Heart 사랑은 그대 가슴에 (한국 · 구창모)" ([하지영](../Page/하지영.md "wikilink") 작사 / [김기표](https://ko.wikipedia.org/wiki/김기표 "wikilink") 작곡) ***- 동상 수상***
-3.  "Yesterday 어제 (한국 · 전영록)" ([전영록](https://ko.wikipedia.org/wiki/전영록 "wikilink") 작사 / [전영록](https://ko.wikipedia.org/wiki/전영록 "wikilink") 작곡) ***- 우수가창상 수상***
+3.  "Yesterday 어제 (한국 · 전영록)" ([전영록](../Page/전영록.md "wikilink") 작사 / [전영록](../Page/전영록.md "wikilink") 작곡) ***- 우수가창상 수상***
 4.  "Love is Magic 사랑의 신비 (헝가리 · Newton Family)" (Adam Vegvari & Steve Ambrozi 작곡) ***- 우수가창상 수상***
 5.  Sensational 열광적인 사랑 (필리핀 · She)" (미상 작사 / 미상 작곡)
 6.  I Pledge My Love to You 사랑의 맹세 (미국 · Domenic Allen & Terry Wood)" (미상 작사 / 미상 작곡)***- 우수작곡상 수상***

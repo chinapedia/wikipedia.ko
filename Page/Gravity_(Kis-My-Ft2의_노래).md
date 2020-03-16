@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Gravity \(Kis-My-Ft2 \)](https://ko.wikipedia.org/wiki/Gravity_\(Kis-My-Ft2_\)).
 
 
-〈**Gravity**〉는, [Kis-My-Ft2](https://ko.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")의 16번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink").
+〈**Gravity**〉는, [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")의 16번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 
 초회 생산 한정반 A, 초회 생산 한정반 B, 통상반, 키스마이 SHOP반의 4형태로 발매
 
-표제곡 〈Gravity〉는, 멤버인 [후지가야 타이스케의](https://ko.wikipedia.org/wiki/후지가야_타이스케 "wikilink") 주연 드라마 「MARS \~다만, 널 사랑하고 있어\~」의 주제가이며. 커플링곡인 〈MU-CHU-DE 恋してる〉는 멤버인 [후지가야 타이스케가](https://ko.wikipedia.org/wiki/후지가야_타이스케 "wikilink") 출연하고 있는 「긴자카라」 CM송이다.
+표제곡 〈Gravity〉는, 멤버인 [후지가야 타이스케의](../Page/후지가야_타이스케.md "wikilink") 주연 드라마 「MARS \~다만, 널 사랑하고 있어\~」의 주제가이며. 커플링곡인 〈MU-CHU-DE 恋してる〉는 멤버인 [후지가야 타이스케가](../Page/후지가야_타이스케.md "wikilink") 출연하고 있는 「긴자카라」 CM송이다.
 
 ## 수록곡
 

@@ -232,7 +232,7 @@
 
 <!-- end list -->
 
-  - [안드리 야르몰렌코](https://ko.wikipedia.org/wiki/안드리_야르몰렌코 "wikilink")
+  - [안드리 야르몰렌코](../Page/안드리_야르몰렌코.md "wikilink")
 
 <!-- end list -->
 
@@ -240,7 +240,7 @@
 
 <!-- end list -->
 
-  - [마리오 만주키치](https://ko.wikipedia.org/wiki/마리오_만주키치 "wikilink")
+  - [마리오 만주키치](../Page/마리오_만주키치.md "wikilink")
 
   - [젱크 토순](../Page/젱크_토순.md "wikilink")
 
@@ -272,7 +272,7 @@
 
   - [마르첼로 브로조비치](../Page/마르첼로_브로조비치.md "wikilink")
 
-  - [니콜라 칼리니치](https://ko.wikipedia.org/wiki/니콜라_칼리니치 "wikilink")
+  - [니콜라 칼리니치](../Page/니콜라_칼리니치.md "wikilink")
 
   - [하칸 찰하노을루](../Page/하칸_찰하노을루.md "wikilink")
 
@@ -290,17 +290,17 @@
 
   - [마테이 미트로비치](https://ko.wikipedia.org/wiki/마테이_미트로비치 "wikilink")
 
-  - [이반 페리시치](https://ko.wikipedia.org/wiki/이반_페리시치 "wikilink")
+  - [이반 페리시치](../Page/이반_페리시치.md "wikilink")
 
-  - [이반 라키티치](https://ko.wikipedia.org/wiki/이반_라키티치 "wikilink")
+  - [이반 라키티치](../Page/이반_라키티치.md "wikilink")
 
   - [파울루스 아라유리](https://ko.wikipedia.org/wiki/파울루스_아라유리 "wikilink")
 
   - [로빈 로드](https://ko.wikipedia.org/wiki/로빈_로드 "wikilink")
 
-  - [요엘 포흐얀팔로](https://ko.wikipedia.org/wiki/요엘_포흐얀팔로 "wikilink")
+  - [요엘 포흐얀팔로](../Page/요엘_포흐얀팔로.md "wikilink")
 
-  - [테무 푸키](https://ko.wikipedia.org/wiki/테무_푸키 "wikilink")
+  - [테무 푸키](../Page/테무_푸키.md "wikilink")
 
   - [카리 아르나손](https://ko.wikipedia.org/wiki/카리_아르나손 "wikilink")
 
@@ -318,9 +318,9 @@
 
   - [젱기즈 윈데르](https://ko.wikipedia.org/wiki/젱기즈_윈데르 "wikilink")
 
-  - [예우헨 코노플랸카](https://ko.wikipedia.org/wiki/예우헨_코노플랸카 "wikilink")
+  - [예우헨 코노플랸카](../Page/예우헨_코노플랸카.md "wikilink")
 
-  - [루슬란 로탄](https://ko.wikipedia.org/wiki/루슬란_로탄 "wikilink")
+  - [루슬란 로탄](../Page/루슬란_로탄.md "wikilink")
 
   - [아르템 베세딘](https://ko.wikipedia.org/wiki/아르템_베세딘 "wikilink")
 
@@ -330,7 +330,7 @@
 
 <!-- end list -->
 
-  - [외메르 토프라크](https://ko.wikipedia.org/wiki/외메르_토프라크 "wikilink") (아이슬란드 상대)
+  - [외메르 토프라크](../Page/외메르_토프라크.md "wikilink") (아이슬란드 상대)
 
 ## 같이 보기
 

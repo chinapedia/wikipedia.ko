@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [If I Believe](https://ko.wikipedia.org/wiki/If_I_Believe).
 
 
-〈**If I Believe**〉(이프 아이 빌리브)는 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [7월 9일에](https://ko.wikipedia.org/wiki/7월_9일 "wikilink") 발매된, [쿠라키 마이의](https://ko.wikipedia.org/wiki/쿠라키_마이 "wikilink") 4번째 [정규 음반이다](https://ko.wikipedia.org/wiki/정규_음반 "wikilink").
+〈**If I Believe**〉(이프 아이 빌리브)는 [2003년](../Page/2003년.md "wikilink") [7월 9일에](../Page/7월_9일.md "wikilink") 발매된, [쿠라키 마이의](../Page/쿠라키_마이.md "wikilink") 4번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
 
 ## 해설
 
@@ -22,12 +22,12 @@
       - 작사: 쿠라키 마이, 작곡: 오노 아이카, 편곡: 이케다 다이스케, Cybersound
     <!-- end list -->
       -
-        15번째 싱글. 애니메이션 영화 《[명탐정 코난: 미궁의 십자로](https://ko.wikipedia.org/wiki/명탐정_코난:_미궁의_십자로 "wikilink")》 주제가. 영화에서 사용된 버전으로 수록되어있다.
+        15번째 싱글. 애니메이션 영화 《[명탐정 코난: 미궁의 십자로](../Page/명탐정_코난:_미궁의_십자로.md "wikilink")》 주제가. 영화에서 사용된 버전으로 수록되어있다.
 3.  **[바람의 라라라](../Page/바람의_라라라.md "wikilink")**() \[4:22\]
       - 작사: 쿠라키 마이, 작곡: [하루하타 미치야](https://ko.wikipedia.org/wiki/하루하타_미치야 "wikilink"), 편곡: Cybersound
     <!-- end list -->
       -
-        17번째 싱글. 애니메이션 《[명탐정 코난](https://ko.wikipedia.org/wiki/명탐정_코난_\(애니메이션\) "wikilink")》 오프닝 테마.
+        17번째 싱글. 애니메이션 《[명탐정 코난](../Page/명탐정_코난_\(애니메이션\).md "wikilink")》 오프닝 테마.
 4.  **[Kiss](../Page/Kiss_\(쿠라키_마이의_노래\).md "wikilink")** \[4:37\]
       - 작사: 쿠라키 마이, 작곡: [Yoko B. Stone](https://ko.wikipedia.org/wiki/YOKO_Black._Stone "wikilink"). 편곡: Cybersound
     <!-- end list -->
@@ -61,10 +61,10 @@
       - 작사: 쿠라키 마이, 니시무로 토키코, 작곡: 오노 아이카, 편곡: Cybersound
     <!-- end list -->
       -
-        [싱가포르](https://ko.wikipedia.org/wiki/싱가포르 "wikilink") 가수 [쑨옌쯔](https://ko.wikipedia.org/wiki/쑨옌쯔 "wikilink")와 듀엣한 노래. PV가 제작되어있으며, 함께 후렴구를 녹음하는 모습이나 담소하는 모습, 쿠라키가 쑨옌쯔에게 싱글 〈[Love, Day After Tomorrow](../Page/Love,_Day_After_Tomorrow.md "wikilink")〉의 〈L.O.V.E〉의 손짓을 가르치고 있는 모습 등이 수록되어있다. 비디오 클립집 〈My Reflection〉에 수록된 〈If I Believe〉 전곡 소개 영상에서 시청가능하다.
+        [싱가포르](../Page/싱가포르.md "wikilink") 가수 [쑨옌쯔](https://ko.wikipedia.org/wiki/쑨옌쯔 "wikilink")와 듀엣한 노래. PV가 제작되어있으며, 함께 후렴구를 녹음하는 모습이나 담소하는 모습, 쿠라키가 쑨옌쯔에게 싱글 〈[Love, Day After Tomorrow](../Page/Love,_Day_After_Tomorrow.md "wikilink")〉의 〈L.O.V.E〉의 손짓을 가르치고 있는 모습 등이 수록되어있다. 비디오 클립집 〈My Reflection〉에 수록된 〈If I Believe〉 전곡 소개 영상에서 시청가능하다.
 
 ## 관련항목
 
-  - [쿠라키 마이](https://ko.wikipedia.org/wiki/쿠라키_마이 "wikilink")
+  - [쿠라키 마이](../Page/쿠라키_마이.md "wikilink")
 
 [분류:쿠라키 마이의 음반](https://ko.wikipedia.org/wiki/분류:쿠라키_마이의_음반 "wikilink") [분류:2003년 음반](https://ko.wikipedia.org/wiki/분류:2003년_음반 "wikilink") [분류:기자 스튜디오의 음반](https://ko.wikipedia.org/wiki/분류:기자_스튜디오의_음반 "wikilink") [분류:2003년 오리콘 앨범 차트 1위 작품](https://ko.wikipedia.org/wiki/분류:2003년_오리콘_앨범_차트_1위_작품 "wikilink")

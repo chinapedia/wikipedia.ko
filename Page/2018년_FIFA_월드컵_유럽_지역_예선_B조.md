@@ -213,7 +213,7 @@
 
 <!-- end list -->
 
-  - [설러이 아담](https://ko.wikipedia.org/wiki/설러이_아담 "wikilink")
+  - [설러이 아담](../Page/설러이_아담.md "wikilink")
 
 <!-- end list -->
 
@@ -223,7 +223,7 @@
 
   - [주르초 아담](https://ko.wikipedia.org/wiki/주르초_아담 "wikilink")
 
-  - [주앙 칸셀루](https://ko.wikipedia.org/wiki/주앙_칸셀루 "wikilink")
+  - [주앙 칸셀루](../Page/주앙_칸셀루.md "wikilink")
 
   - [아드미르 메흐메디](../Page/아드미르_메흐메디.md "wikilink")
 
@@ -241,7 +241,7 @@
 
   - [소니 나테스타드](https://ko.wikipedia.org/wiki/소니_나테스타드 "wikilink")
 
-  - [게러 졸탄](https://ko.wikipedia.org/wiki/게러_졸탄 "wikilink")
+  - [게러 졸탄](../Page/게러_졸탄.md "wikilink")
 
   - [렁 아담](../Page/렁_아담.md "wikilink")
 
@@ -249,13 +249,13 @@
 
   - [주앙 모티뉴](https://ko.wikipedia.org/wiki/주앙_모티뉴 "wikilink")
 
-  - [에렌 데르디요크](https://ko.wikipedia.org/wiki/에렌_데르디요크 "wikilink")
+  - [에렌 데르디요크](../Page/에렌_데르디요크.md "wikilink")
 
   - [요시프 드르미치](../Page/요시프_드르미치.md "wikilink")
 
   - [브릴 엠볼로](../Page/브릴_엠볼로.md "wikilink")
 
-  - [슈테판 리히트슈타이너](https://ko.wikipedia.org/wiki/슈테판_리히트슈타이너 "wikilink")
+  - [슈테판 리히트슈타이너](../Page/슈테판_리히트슈타이너.md "wikilink")
 
   - [리카르도 로드리게스](../Page/리카르도_로드리게스_\(축구_선수\).md "wikilink")
 
