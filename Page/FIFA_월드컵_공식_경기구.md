@@ -5,7 +5,7 @@
 
 **FIFA 월드컵 공식 경기구**(- 公式 競技球, ) 또는 **FIFA 월드컵 공식 시합구**(- 公式 試合球) 또는 **FIFA 월드컵 공식 사용구**(- 公式 使用球) 또는 **FIFA 월드컵 공식 지정구**(- 公式 指定球)는 [FIFA 월드컵](https://ko.wikipedia.org/wiki/FIFA_월드컵 "wikilink") 축구 대회에 독점 사용을 [FIFA](https://ko.wikipedia.org/wiki/FIFA "wikilink")에서 공인한 [축구공](../Page/축구공.md "wikilink")이다. 국내에서는 **FIFA 월드컵 [공인구](../Page/공식_경기구_\(축구\).md "wikilink")**(- 公認球)라는 명칭으로 많이 불린다.
 
-1970년 월드컵 대회부터 공식 경기구가 사용되고 있으며 [독일](https://ko.wikipedia.org/wiki/독일 "wikilink")의 [아디다스](https://ko.wikipedia.org/wiki/아디다스 "wikilink")가 독점 공급사이다.
+1970년 월드컵 대회부터 공식 경기구가 사용되고 있으며 [독일](../Page/독일.md "wikilink")의 [아디다스](../Page/아디다스.md "wikilink")가 독점 공급사이다.
 
 [2010년 남아공 월드컵에서는](https://ko.wikipedia.org/wiki/2010년_남아공_월드컵 "wikilink") 오직 월드컵 결승전만을 위해 특수 제작한 결승전 공식 경기구 '[조블라니](https://ko.wikipedia.org/wiki/조블라니 "wikilink")'가 사용되었다.\[1\]\[2\] 월드컵 결승전에만 사용하기 위해 만든 최초의 공식 경기구는 [2006년 독일 월드컵](https://ko.wikipedia.org/wiki/2006년_독일_월드컵 "wikilink") 결승에서 사용된 '[팀가이스트 베를린](https://ko.wikipedia.org/wiki/팀가이스트_베를린 "wikilink")'이었다.\[3\]
 

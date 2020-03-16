@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DragonFly BSD](https://ko.wikipedia.org/wiki/DragonFly_BSD).
 
 
-**DragonFly BSD**(드래건플라이 BSD)는 [BSD](../Page/BSD.md "wikilink")계 [운영 체제](../Page/운영_체제.md "wikilink") 가운데 하나로 [FreeBSD](../Page/FreeBSD.md "wikilink")-4.8에서 갈라져 나왔다. 1.4부터 [pkgsrc](https://ko.wikipedia.org/wiki/pkgsrc "wikilink")를 기본 패키지 시스템으로 채택하고 있다. 전직 [아미가](https://ko.wikipedia.org/wiki/아미가 "wikilink") 컴퓨터 프로그래머 [매슈 딜런](https://ko.wikipedia.org/wiki/매슈_딜런 "wikilink")(Matthew Dillon)의 주도로 개발한다.
+**DragonFly BSD**(드래건플라이 BSD)는 [BSD](../Page/BSD.md "wikilink")계 [운영 체제](../Page/운영_체제.md "wikilink") 가운데 하나로 [FreeBSD](../Page/FreeBSD.md "wikilink")-4.8에서 갈라져 나왔다. 1.4부터 [pkgsrc](https://ko.wikipedia.org/wiki/pkgsrc "wikilink")를 기본 패키지 시스템으로 채택하고 있다. 전직 [아미가](../Page/아미가.md "wikilink") 컴퓨터 프로그래머 [매슈 딜런](https://ko.wikipedia.org/wiki/매슈_딜런 "wikilink")(Matthew Dillon)의 주도로 개발한다.
 
 ## 같이 보기
 

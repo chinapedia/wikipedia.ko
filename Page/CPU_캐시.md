@@ -55,7 +55,7 @@ HP PA7200에 있던 원래의 빅팀 캐시는 작고 완전히 연결되어 있
 
 ## 같이 보기
 
-  - [캐시](https://ko.wikipedia.org/wiki/캐시 "wikilink")
+  - [캐시](../Page/캐시.md "wikilink")
 
 ## 각주
 

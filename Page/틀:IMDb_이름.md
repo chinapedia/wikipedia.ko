@@ -19,7 +19,7 @@
 ` }}}} {{#if: ``}}}}}}`
 ` | ``}}}}}}`
 ` | `
-` }}] - `[`인터넷``   ``영화``   ``데이터베이스`](https://ko.wikipedia.org/wiki/인터넷_영화_데이터베이스 "wikilink")<includeonly>`{{#if: ``}}}{{#property:P345}}`
+` }}] - `[`인터넷``   ``영화``   ``데이터베이스`](../Page/인터넷_영화_데이터베이스.md "wikilink")<includeonly>`{{#if: ``}}}{{#property:P345}}`
 ` | ``}}}`
 ` | `
 ` }}{{#ifeq: ``}|2}} | nm`

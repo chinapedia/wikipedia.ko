@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Yacc](https://ko.wikipedia.org/wiki/Yacc).
 
 
-컴퓨터 소프트웨어인 **Yacc**는 [유닉스](../Page/유닉스.md "wikilink") 시스템의 표준 [파서 생성기이다](https://ko.wikipedia.org/wiki/파서_생성기 "wikilink"). 이름은 "또다른 컴파일러 컴파일러"란 재귀적인 뜻의 영어 Yet Another Compiler Compiler 의 약자에서 왔다. [파서](https://ko.wikipedia.org/wiki/파서 "wikilink")(parser)란 [컴파일러](../Page/컴파일러.md "wikilink")의 일부분으로 입력의 의미부를 구분해 주는 역할을 하며, Yacc는 [배커스-나우르 표기법](https://ko.wikipedia.org/wiki/배커스-나우르_표기법 "wikilink")(BNF)으로 표기된 [문법](https://ko.wikipedia.org/wiki/문법 "wikilink")을 주면 그것에 따르는 파서를 만들 수 있는 [C언어](../Page/C_\(프로그래밍_언어\).md "wikilink") 코드를 만들어 준다.
+컴퓨터 소프트웨어인 **Yacc**는 [유닉스](../Page/유닉스.md "wikilink") 시스템의 표준 [파서 생성기이다](https://ko.wikipedia.org/wiki/파서_생성기 "wikilink"). 이름은 "또다른 컴파일러 컴파일러"란 재귀적인 뜻의 영어 Yet Another Compiler Compiler 의 약자에서 왔다. [파서](https://ko.wikipedia.org/wiki/파서 "wikilink")(parser)란 [컴파일러](../Page/컴파일러.md "wikilink")의 일부분으로 입력의 의미부를 구분해 주는 역할을 하며, Yacc는 [배커스-나우르 표기법](https://ko.wikipedia.org/wiki/배커스-나우르_표기법 "wikilink")(BNF)으로 표기된 [문법](../Page/문법.md "wikilink")을 주면 그것에 따르는 파서를 만들 수 있는 [C언어](../Page/C_\(프로그래밍_언어\).md "wikilink") 코드를 만들어 준다.
 
 Yacc는 AT\&T의 스티븐 C. 존슨이 유닉스 운영체제 용으로 개발했다. 후에 버클리 Yacc, [GNU bison](../Page/GNU_bison.md "wikilink"), MKS yacc, Abraxas yacc 등의 호환 클론들이 만들어졌다. 이들은 성능이 향상되고, 부가 기능이 덧붙여 졌지만 기본적인 기능은 동일했다.
 

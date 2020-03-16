@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [ D. ](https://ko.wikipedia.org/wiki/_D._).
 
 
-**드와이트 데이비드 "아이크" 아이젠하워**(, [1890년](../Page/1890년.md "wikilink") [10월 14일](../Page/10월_14일.md "wikilink") \~ [1969년](../Page/1969년.md "wikilink") [3월 28일](../Page/3월_28일.md "wikilink"))는 [미국](../Page/미국.md "wikilink")의 군인이자 정치가로, [미국 육군](../Page/미국_육군.md "wikilink") 원수 출신이었고 1953년부터 1961년까지 [미국](../Page/미국.md "wikilink")의 34번째 대통령을 지냈다. [제2차 세계 대전](../Page/제2차_세계_대전.md "wikilink") 동안에 그는 [유럽](../Page/유럽.md "wikilink")에서 연합군의 최고 사령관으로 일했으며, 1944-1945년에는 서부 전선에서 [노르망디 상륙 작전을](https://ko.wikipedia.org/wiki/노르망디_상륙_작전 "wikilink") 비롯한 [프랑스](../Page/프랑스.md "wikilink")와 [독일](https://ko.wikipedia.org/wiki/독일 "wikilink") 지역 공격에 대한 책임을 맡아 공격을 계획하고 감독했다. 1951년에 그는 첫 번째 [나토](../Page/북대서양_조약_기구.md "wikilink") 사령관이 되었다. 애칭은 아이크(Ike)다.
+**드와이트 데이비드 "아이크" 아이젠하워**(, [1890년](../Page/1890년.md "wikilink") [10월 14일](../Page/10월_14일.md "wikilink") \~ [1969년](../Page/1969년.md "wikilink") [3월 28일](../Page/3월_28일.md "wikilink"))는 [미국](../Page/미국.md "wikilink")의 군인이자 정치가로, [미국 육군](../Page/미국_육군.md "wikilink") 원수 출신이었고 1953년부터 1961년까지 [미국](../Page/미국.md "wikilink")의 34번째 대통령을 지냈다. [제2차 세계 대전](../Page/제2차_세계_대전.md "wikilink") 동안에 그는 [유럽](../Page/유럽.md "wikilink")에서 연합군의 최고 사령관으로 일했으며, 1944-1945년에는 서부 전선에서 [노르망디 상륙 작전을](https://ko.wikipedia.org/wiki/노르망디_상륙_작전 "wikilink") 비롯한 [프랑스](../Page/프랑스.md "wikilink")와 [독일](../Page/독일.md "wikilink") 지역 공격에 대한 책임을 맡아 공격을 계획하고 감독했다. 1951년에 그는 첫 번째 [나토](../Page/북대서양_조약_기구.md "wikilink") 사령관이 되었다. 애칭은 아이크(Ike)다.
 
-전임인 [민주당](../Page/민주당_\(미국\).md "wikilink") [트루먼](https://ko.wikipedia.org/wiki/해리_S._트루먼 "wikilink") 대통령 당시 발생한 [한국 전쟁](../Page/한국_전쟁.md "wikilink") 휴전을 이끌어냈다.
+전임인 [민주당](../Page/민주당_\(미국\).md "wikilink") [트루먼](../Page/해리_S._트루먼.md "wikilink") 대통령 당시 발생한 [한국 전쟁](../Page/한국_전쟁.md "wikilink") 휴전을 이끌어냈다.
 
 ## 생애
 
 ### 어린 시절과 가족
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Eisenhower_with_Mamie.jpg "wikilink") 아이젠하워는 1890년 10월 14일에 "드와이트 데이비드 아이젠하워" 라는 이름으로 [텍사스주](../Page/텍사스주.md "wikilink") [데니슨](https://ko.wikipedia.org/wiki/데니슨 "wikilink")에서 데이비드 제이콥 아이엔하워와 아이다 엘리자베스 스토버 사이의 일곱 아들 중 셋째로 태어났다. 그의 집안은 [독일](https://ko.wikipedia.org/wiki/독일 "wikilink"), [영국](../Page/영국.md "wikilink"), [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink")에 뿌리를 두고 있다. 그의 가족은 [캔자스주](https://ko.wikipedia.org/wiki/캔자스주 "wikilink")의 [애빌린](https://ko.wikipedia.org/wiki/애빌린 "wikilink")으로 이사를 갔고, 그는 그 곳에서 자랐다.\[1\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:Eisenhower_with_Mamie.jpg "wikilink") 아이젠하워는 1890년 10월 14일에 "드와이트 데이비드 아이젠하워" 라는 이름으로 [텍사스주](../Page/텍사스주.md "wikilink") [데니슨](https://ko.wikipedia.org/wiki/데니슨 "wikilink")에서 데이비드 제이콥 아이엔하워와 아이다 엘리자베스 스토버 사이의 일곱 아들 중 셋째로 태어났다. 그의 집안은 [독일](../Page/독일.md "wikilink"), [영국](../Page/영국.md "wikilink"), [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink")에 뿌리를 두고 있다. 그의 가족은 [캔자스주](../Page/캔자스주.md "wikilink")의 [애빌린](https://ko.wikipedia.org/wiki/애빌린 "wikilink")으로 이사를 갔고, 그는 그 곳에서 자랐다.\[1\]
 
-[독일](https://ko.wikipedia.org/wiki/독일 "wikilink")에서 이주한 이민집안에서 태어났으며, 그의 이름은 19세기 미국의 유명한 [침례교](../Page/침례교.md "wikilink") 설교자 **[드와이트 라이먼 무디](https://ko.wikipedia.org/wiki/드와이트_라이먼_무디 "wikilink")**(Dwight Lyman Moody, 1837\~1899)의 이름과 [구약성서](https://ko.wikipedia.org/wiki/구약성서 "wikilink")에 나오는 [이스라엘 왕국의](https://ko.wikipedia.org/wiki/연합_이스라엘_왕국 "wikilink") 2대 왕 **[다윗](../Page/다윗.md "wikilink")**의 이름을 딴 것이다\[2\]. 그의 아버지는 아들의 뜻을 존중하여 [군인](https://ko.wikipedia.org/wiki/군인 "wikilink")을 양성하는 [웨스트포인트](https://ko.wikipedia.org/wiki/미국_육군사관학교 "wikilink") 입학을 허락했다.
+[독일](../Page/독일.md "wikilink")에서 이주한 이민집안에서 태어났으며, 그의 이름은 19세기 미국의 유명한 [침례교](../Page/침례교.md "wikilink") 설교자 **[드와이트 라이먼 무디](https://ko.wikipedia.org/wiki/드와이트_라이먼_무디 "wikilink")**(Dwight Lyman Moody, 1837\~1899)의 이름과 [구약성서](https://ko.wikipedia.org/wiki/구약성서 "wikilink")에 나오는 [이스라엘 왕국의](https://ko.wikipedia.org/wiki/연합_이스라엘_왕국 "wikilink") 2대 왕 **[다윗](../Page/다윗.md "wikilink")**의 이름을 딴 것이다\[2\]. 그의 아버지는 아들의 뜻을 존중하여 [군인](https://ko.wikipedia.org/wiki/군인 "wikilink")을 양성하는 [웨스트포인트](https://ko.wikipedia.org/wiki/미국_육군사관학교 "wikilink") 입학을 허락했다.
 
 ### 군인 시절
 
@@ -35,7 +35,7 @@
 
 ### 재선
 
-1953년 UN 총회에서 국제 원자력 관리 기구를 제창하였으며, 1956년 다시 대통령에 당선되었다. 1957년 [아칸소주](../Page/아칸소주.md "wikilink") [리틀록](../Page/리틀록.md "wikilink")에서 중앙[고등학교](https://ko.wikipedia.org/wiki/고등학교 "wikilink")에 입학하는 [흑인](https://ko.wikipedia.org/wiki/아프리카계_미국인 "wikilink") 학생들을 보호하기 위하여 주 연방군을 보내 흑인학생들이 배움에서 [차별](https://ko.wikipedia.org/wiki/차별 "wikilink")받는 일이 없도록 했다. 1959년에는 [니키타 흐루쇼프](../Page/니키타_흐루쇼프.md "wikilink") [소련](../Page/소련.md "wikilink") [총리](https://ko.wikipedia.org/wiki/총리 "wikilink")와 [캠프데이비드](../Page/캠프데이비드.md "wikilink")에서 회담을 가져, [냉전](../Page/냉전.md "wikilink")에서 화해의 길을 열었다. 그러나, 1959년 1월 미국의 든든한 동맹이던 쿠바의 [풀헨시오 바티스타](../Page/풀헨시오_바티스타.md "wikilink") 군사독재를 무너뜨리고([쿠바 혁명](../Page/쿠바_혁명.md "wikilink")) 들어선 [피델 카스트로의](https://ko.wikipedia.org/wiki/피델_카스트로 "wikilink") 쿠바 정부를 미국은 처음부터 가만두려 하지 않았고,\[4\] 쿠바는 1961년 1월 [미국](../Page/미국.md "wikilink")과 국교를 단절했다.
+1953년 UN 총회에서 국제 원자력 관리 기구를 제창하였으며, 1956년 다시 대통령에 당선되었다. 1957년 [아칸소주](../Page/아칸소주.md "wikilink") [리틀록](../Page/리틀록.md "wikilink")에서 중앙[고등학교](https://ko.wikipedia.org/wiki/고등학교 "wikilink")에 입학하는 [흑인](../Page/아프리카계_미국인.md "wikilink") 학생들을 보호하기 위하여 주 연방군을 보내 흑인학생들이 배움에서 [차별](https://ko.wikipedia.org/wiki/차별 "wikilink")받는 일이 없도록 했다. 1959년에는 [니키타 흐루쇼프](../Page/니키타_흐루쇼프.md "wikilink") [소련](../Page/소련.md "wikilink") [총리](https://ko.wikipedia.org/wiki/총리 "wikilink")와 [캠프데이비드](../Page/캠프데이비드.md "wikilink")에서 회담을 가져, [냉전](../Page/냉전.md "wikilink")에서 화해의 길을 열었다. 그러나, 1959년 1월 미국의 든든한 동맹이던 쿠바의 [풀헨시오 바티스타](../Page/풀헨시오_바티스타.md "wikilink") 군사독재를 무너뜨리고([쿠바 혁명](../Page/쿠바_혁명.md "wikilink")) 들어선 [피델 카스트로의](../Page/피델_카스트로.md "wikilink") 쿠바 정부를 미국은 처음부터 가만두려 하지 않았고,\[4\] 쿠바는 1961년 1월 [미국](../Page/미국.md "wikilink")과 국교를 단절했다.
 
 [섬네일와](https://ko.wikipedia.org/wiki/파일:JFK_&_Eisenhower_meeting_1961.jpg "wikilink") 아이젠하워\]\]
 

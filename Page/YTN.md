@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [YTN](https://ko.wikipedia.org/wiki/YTN).
 
 
-**YTN**()은 [대한민국](../Page/대한민국.md "wikilink") 최초의 뉴스 전문 TV 채널이다. [1993년](../Page/1993년.md "wikilink") [9월 14일](../Page/9월_14일.md "wikilink") 설립하고, [1995년](../Page/1995년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") 방송을 시작했다. [연합통신(현 연합뉴스)의](https://ko.wikipedia.org/wiki/연합뉴스 "wikilink") 자회사로 출발했으나 [1998년](../Page/1998년.md "wikilink") 완전 독립했다. [2000년 4월](https://ko.wikipedia.org/wiki/2000년_4월 "wikilink") [남산 서울타워를](https://ko.wikipedia.org/wiki/N서울타워 "wikilink") 인수했으며, [2015년 12월](../Page/2015년_12월.md "wikilink") 사무실동을 복합 문화공간으로 탈바꿈해 'YTN 서울타워 플라자'를 개관했다. 현재 YTN 본 채널, YTN Science(과학채널), YTN Life(날씨생활정보채널), YTN World(전세계 한국어 뉴스채널) 등을 운영하고 있으며, 자회사 YTN DMB의 ⓜYTN(YTN DMB1,종합채널 DMB2,뉴스채널) (지상파DMB TV채널), YTN라디오의 YTN News FM (94.5 MHz, 뉴스전문 라디오)까지 포함해 모두 채널 6개를 보유하고 있다. 본사는 서울 [마포구](../Page/마포구.md "wikilink") 상암동 [디지털 미디어 시티에](https://ko.wikipedia.org/wiki/디지털_미디어_시티 "wikilink") 위치한 YTN "뉴스퀘어"에 있으며, 국내 16곳(경기, 인천, 강원, 충남, 대전, 충북, 세종, 부산, 울산, 대구, 경북, 경남, 전남, 광주, 전북, 제주 등)과 해외 6곳(워싱턴, 뉴욕, LA, 베이징, 도쿄, 파리 등)에 지국을 운영하고 있다. 채널번호(21,1TV 종합 24,2TV 뉴스)는 전국 어디서나 채널번호가 같다.
+**YTN**()은 [대한민국](../Page/대한민국.md "wikilink") 최초의 뉴스 전문 TV 채널이다. [1993년](../Page/1993년.md "wikilink") [9월 14일](../Page/9월_14일.md "wikilink") 설립하고, [1995년](../Page/1995년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") 방송을 시작했다. [연합통신(현 연합뉴스)의](../Page/연합뉴스.md "wikilink") 자회사로 출발했으나 [1998년](../Page/1998년.md "wikilink") 완전 독립했다. [2000년 4월](https://ko.wikipedia.org/wiki/2000년_4월 "wikilink") [남산 서울타워를](../Page/N서울타워.md "wikilink") 인수했으며, [2015년 12월](../Page/2015년_12월.md "wikilink") 사무실동을 복합 문화공간으로 탈바꿈해 'YTN 서울타워 플라자'를 개관했다. 현재 YTN 본 채널, YTN Science(과학채널), YTN Life(날씨생활정보채널), YTN World(전세계 한국어 뉴스채널) 등을 운영하고 있으며, 자회사 YTN DMB의 ⓜYTN(YTN DMB1,종합채널 DMB2,뉴스채널) (지상파DMB TV채널), YTN라디오의 YTN News FM (94.5 MHz, 뉴스전문 라디오)까지 포함해 모두 채널 6개를 보유하고 있다. 본사는 서울 [마포구](../Page/마포구.md "wikilink") 상암동 [디지털 미디어 시티에](https://ko.wikipedia.org/wiki/디지털_미디어_시티 "wikilink") 위치한 YTN "뉴스퀘어"에 있으며, 국내 16곳(경기, 인천, 강원, 충남, 대전, 충북, 세종, 부산, 울산, 대구, 경북, 경남, 전남, 광주, 전북, 제주 등)과 해외 6곳(워싱턴, 뉴욕, LA, 베이징, 도쿄, 파리 등)에 지국을 운영하고 있다. 채널번호(21,1TV 종합 24,2TV 뉴스)는 전국 어디서나 채널번호가 같다.
 
 ## 연혁
 
@@ -10,7 +10,7 @@
   - [1994년](../Page/1994년.md "wikilink") 종로구 수송동 YTN 스튜디오 공사 호놀롤로
   - [1995년](../Page/1995년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") TV 방송 개국 (종로구 수송동 YTN 스튜디오 준공)
   - [1997년](../Page/1997년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") [연합통신](https://ko.wikipedia.org/wiki/연합통신 "wikilink")에서 [한전KDN](../Page/한전KDN.md "wikilink")으로 대주주 변경
-  - [1998년](../Page/1998년.md "wikilink") 연합통신(현 [연합뉴스](https://ko.wikipedia.org/wiki/연합뉴스 "wikilink"))에서 분사
+  - [1998년](../Page/1998년.md "wikilink") 연합통신(현 [연합뉴스](../Page/연합뉴스.md "wikilink"))에서 분사
   - [1999년](../Page/1999년.md "wikilink") [2월 2일](../Page/2월_2일.md "wikilink") (주)와이티엔으로 사명 변경
   - [2000년](../Page/2000년.md "wikilink") [4월 8일](../Page/4월_8일.md "wikilink") [남산](../Page/남산_\(서울\).md "wikilink") [서울타워](https://ko.wikipedia.org/wiki/서울타워 "wikilink") 인수
   - [2001년](../Page/2001년.md "wikilink") [4월](../Page/4월.md "wikilink") 해외 위성 방송 시작
@@ -30,8 +30,8 @@
   - [2015년](../Page/2015년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") TV 방송 개국 20주년
   - [2015년](../Page/2015년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") YTN 웨더→YTN 웨더&라이프로 채널명 변경
   - [2015년](../Page/2015년.md "wikilink") [12월](../Page/12월.md "wikilink") YTN 서울타워 플라자 개관
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [1월](../Page/1월.md "wikilink") YTN 웨더&라이프→YTN 라이프로 채널명 변경
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [12월 23일](../Page/12월_23일.md "wikilink") 생방송 20만 시간 돌파
+  - [2017년](../Page/2017년.md "wikilink") [1월](../Page/1월.md "wikilink") YTN 웨더&라이프→YTN 라이프로 채널명 변경
+  - [2017년](../Page/2017년.md "wikilink") [12월 23일](../Page/12월_23일.md "wikilink") 생방송 20만 시간 돌파
 
 ## 운영 채널
 
@@ -42,7 +42,7 @@
 
 ### 자회사 채널
 
-  - ⓜYTN ([YTN DMB](../Page/YTN_DMB.md "wikilink") TV 채널) [2005년](../Page/2005년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") 지상파DMB TV채널로 개국(종합편성채널), [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [8월 1일](../Page/8월_1일.md "wikilink") 고화질DMB로도 동시 송출
+  - ⓜYTN ([YTN DMB](../Page/YTN_DMB.md "wikilink") TV 채널) [2005년](../Page/2005년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") 지상파DMB TV채널로 개국(종합편성채널), [2016년](../Page/2016년.md "wikilink") [8월 1일](../Page/8월_1일.md "wikilink") 고화질DMB로도 동시 송출
   - YTN News FM (94.5 MHz, [YTN라디오](../Page/YTN라디오.md "wikilink")의 뉴스전문 라디오 채널) [2008년](../Page/2008년.md "wikilink") [4월 30일](../Page/4월_30일.md "wikilink") YTN FM으로 개국, [2008년](../Page/2008년.md "wikilink") \~ [2010년](../Page/2010년.md "wikilink") YTN FM, [2010년](../Page/2010년.md "wikilink") \~ 현재 YTN NEWS FM으로 개국
 
 ### 관계사 채널
@@ -272,19 +272,19 @@
 <td><p>김영수, 강려원</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/YTN_24_(1830)" title="wikilink">YTN 24 (1830)</a></p></td>
+<td><p><a href="../Page/YTN_24_(1830).md" title="wikilink">YTN 24 (1830)</a></p></td>
 <td><p>평일 1시간</p></td>
 <td><p>평일 저녁 6시 30분 ~ 7시 30분</p></td>
 <td><p>안보라, 박석원</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴스가_있는_저녁" title="wikilink">뉴스가 있는 저녁</a></p></td>
+<td><p><a href="../Page/뉴스가_있는_저녁.md" title="wikilink">뉴스가 있는 저녁</a></p></td>
 <td><p>평일 1시간 30분</p></td>
 <td><p>평일 저녁 7시 30분 ~ 밤 8시 55분</p></td>
 <td><p><a href="../Page/변상욱.md" title="wikilink">변상욱</a>, 안귀령</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/YTN_24_(2100)" title="wikilink">YTN 24 (2100)</a></p></td>
+<td><p><a href="../Page/YTN_24_(2100).md" title="wikilink">YTN 24 (2100)</a></p></td>
 <td><p>매일 50분</p></td>
 <td><p>매일 밤 8시 55분 ~ 9시 50분</p></td>
 <td><p>평일 : 안보라, 박석원<br />
@@ -310,13 +310,13 @@
 주말 : <a href="https://ko.wikipedia.org/wiki/윤보리" title="wikilink">윤보리</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/YTN_24_(900)" title="wikilink">YTN 24 (900)</a></p></td>
+<td><p><a href="../Page/YTN_24_(900).md" title="wikilink">YTN 24 (900)</a></p></td>
 <td><p>주말 1시간</p></td>
 <td><p>주말 오전 9시 ~ 10시</p></td>
 <td><p>이세나</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/YTN_24_(1950)" title="wikilink">YTN 24 (1950)</a></p></td>
+<td><p><a href="../Page/YTN_24_(1950).md" title="wikilink">YTN 24 (1950)</a></p></td>
 <td><p>주말 35분</p></td>
 <td><p>주말 저녁 7시 50분 ~ 8시 25분</p></td>
 <td><p>윤보리</p></td>
@@ -492,9 +492,9 @@
   - [2013년](../Page/2013년.md "wikilink"): 김경수, 박유동, 우철희, 이형원, 최아영, 임성호, 이현오
   - [2014년](../Page/2014년.md "wikilink"): 강희경, 김승환, 최두희, 최민기, 박석원, 차유정
   - [2015년](../Page/2015년.md "wikilink"): 김태민, 박서경, 김세호, 박한울, 최광현, 박광렬
-  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink"): 권남기, 김영수, 심관흠, 안귀령, 안형석, 윤보리, 이경국, 이연아, 정지웅, 차정윤, 강려원
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink"): 차해리
-  - [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink"): 나경철, 나혜인, 박소영, 송재인
+  - [2016년](../Page/2016년.md "wikilink"): 권남기, 김영수, 심관흠, 안귀령, 안형석, 윤보리, 이경국, 이연아, 정지웅, 차정윤, 강려원
+  - [2017년](../Page/2017년.md "wikilink"): 차해리
+  - [2019년](../Page/2019년.md "wikilink"): 나경철, 나혜인, 박소영, 송재인
 
 ## 로고
 
@@ -555,13 +555,13 @@
 
 다음과 같은 영화 매체에서 YTN 뉴스 장면이 나왔다.
 
-  - [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") 《[백두산](https://ko.wikipedia.org/wiki/백두산_\(영화\) "wikilink")》(가상)
-  - [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") 《[우상](../Page/우상_\(영화\).md "wikilink")》(가상)
-  - [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") 《[뺑반](https://ko.wikipedia.org/wiki/뺑반 "wikilink")》(가상)
-  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") 《[목격자](https://ko.wikipedia.org/wiki/목격자 "wikilink")》(가상)
-  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") 《[미쓰백](../Page/미쓰백.md "wikilink")》(가상)
-  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") 《[히말라야](../Page/히말라야_\(영화\).md "wikilink")》(실제)
-  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") 《[터널](../Page/터널_\(영화\).md "wikilink")》(가상)
+  - [2019년](../Page/2019년.md "wikilink") 《[백두산](https://ko.wikipedia.org/wiki/백두산_\(영화\) "wikilink")》(가상)
+  - [2019년](../Page/2019년.md "wikilink") 《[우상](../Page/우상_\(영화\).md "wikilink")》(가상)
+  - [2019년](../Page/2019년.md "wikilink") 《[뺑반](../Page/뺑반.md "wikilink")》(가상)
+  - [2018년](../Page/2018년.md "wikilink") 《[목격자](https://ko.wikipedia.org/wiki/목격자 "wikilink")》(가상)
+  - [2018년](../Page/2018년.md "wikilink") 《[미쓰백](../Page/미쓰백.md "wikilink")》(가상)
+  - [2016년](../Page/2016년.md "wikilink") 《[히말라야](../Page/히말라야_\(영화\).md "wikilink")》(실제)
+  - [2016년](../Page/2016년.md "wikilink") 《[터널](../Page/터널_\(영화\).md "wikilink")》(가상)
   - [2012년](../Page/2012년.md "wikilink") 《[연가시](../Page/연가시_\(영화\).md "wikilink")》(가상)
   - [2007년](../Page/2007년.md "wikilink") 《[이장과 군수](../Page/이장과_군수.md "wikilink")》(가상)
 

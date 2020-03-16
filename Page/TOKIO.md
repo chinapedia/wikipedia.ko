@@ -65,7 +65,7 @@
   - 밴드의 성격을 띠고 있지만, 콘서트에서는 댄스도 한다 (단, 2006년의 라이브 [콘서트](https://ko.wikipedia.org/wiki/콘서트 "wikilink")에서는, 일체 댄스를 보여주지 않았다).
   - [쟈니즈 사무소에서](../Page/자니스_사무소.md "wikilink") [1985년](../Page/1985년.md "wikilink") 데뷔하여 활동한 적이 있는 오토코구미의 음악을 이어가고 있다는 의견도 있지만, 오토코구미는 하드 록, TOKIO는 파워 팝계를 지향하여 음악성은 현저하게 다르다. 또, TOKIO는 멤버 전원이 악기 담당이 가능하여 [드럼](https://ko.wikipedia.org/wiki/드럼_연주자 "wikilink") 담당이 없었던 오토코구미와도 이것 역시 차이점이다.
   - 공연, 라이브, 콘서트에서는 담당 악기를 바꾸어 연주 하기도 하고, 멤버 서로가 맡은 악기 외에도 연주가 가능하다.
-  - 본업인 음악의 면에서는, 후배의 [V6](https://ko.wikipedia.org/wiki/V6_\(음악_그룹\) "wikilink"), [KinKi Kids가](https://ko.wikipedia.org/wiki/킨키_키즈 "wikilink") 데뷔 이후 판매량이 급증하는 반면, TOKIO의 판매량이 들쭉날쭉하여 호불호가 심하였다. [2000년](../Page/2000년.md "wikilink")이후는 여러 팝 적인 곡들을 받아 히트시켜, [2006년](../Page/2006년.md "wikilink")부터는 팝 뿐 아니라 ‘가요 록’이라고 하는 성격을 띠어가고 있다.
+  - 본업인 음악의 면에서는, 후배의 [V6](../Page/V6_\(음악_그룹\).md "wikilink"), [KinKi Kids가](https://ko.wikipedia.org/wiki/킨키_키즈 "wikilink") 데뷔 이후 판매량이 급증하는 반면, TOKIO의 판매량이 들쭉날쭉하여 호불호가 심하였다. [2000년](../Page/2000년.md "wikilink")이후는 여러 팝 적인 곡들을 받아 히트시켜, [2006년](../Page/2006년.md "wikilink")부터는 팝 뿐 아니라 ‘가요 록’이라고 하는 성격을 띠어가고 있다.
   - 팬 사이에서는 야마구치(山口) **타츠야(達也 ; Tatsuya)**·고쿠분(國分) **타이치(太一 ; Taichi)** 의 이니셜인 T가 같아서 이 2명을 “T2”, 신장 180cm 이상 있는 마츠오카(松岡) 마사히로(昌宏)·나가세(長瀨) 토모야(智也)의 2명을 “트윈 타워”라고 부르는 등 콤비 명을 붙여서 부르고 있다. 이 외 다수.
   - 첫 버라이어티 프로그램인 〈THE 철완\! DASH\!\!〉에서는 멤버 전원이 다양한 기획과 아이디어를 제시한다.
   - TOKIO는 각 멤버의 개성과 활약으로 인해 “쟈니즈 소속 그룹 역사상, 가장 쟈니즈 스럽지 않은 그룹”이라고 일부에서는 언급한다. [SMAP](../Page/SMAP.md "wikilink")에 관하여서도 많이 씌여지는 표현이지만, 초기의 쟈니즈 데뷔조부터 거슬러 올라가보면면 이 칭호는 밴드 활동을 기반에 두고 있으면서도 아이돌의 성격을 잘 활용하는 TOKIO가 더 어울린다는 의견도 많다.
@@ -477,7 +477,7 @@
 </tr>
 <tr class="even">
 <td><p>51</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2016년" title="wikilink">2016년</a> <a href="../Page/2월_24일.md" title="wikilink">2월 24일</a></p></td>
+<td><p><a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/2월_24일.md" title="wikilink">2월 24일</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/fragile" title="wikilink">fragile</a></strong></p></td>
 <td></td>
 <td><p>7위</p></td>

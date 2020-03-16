@@ -7,7 +7,7 @@
 
 [2002년](../Page/2002년.md "wikilink") 결성하여, 요요기 공원에서 꾸준히 공연을 하면서 인지도를 얻었다. 그리고 [2005년](../Page/2005년.md "wikilink") [11월 2일](../Page/11월_2일.md "wikilink") 싱글 ""(내 마음)로 데뷔했다. 이 싱글은 [오리콘](../Page/오리콘.md "wikilink") 2위를 기록했다. 멤버 각자가 연극나 버라이어티로도 활약하고 있다.
 
-[2015년](../Page/2015년.md "wikilink") [12월 6일](../Page/12월_6일.md "wikilink"), [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [2월 11일에](../Page/2월_11일.md "wikilink") 해산하는 것을 발표했다.
+[2015년](../Page/2015년.md "wikilink") [12월 6일](../Page/12월_6일.md "wikilink"), [2016년](../Page/2016년.md "wikilink") [2월 11일에](../Page/2월_11일.md "wikilink") 해산하는 것을 발표했다.
 
 ## 멤버
 
@@ -146,7 +146,7 @@
 <td><p>1.</p></td>
 <td><p>TIME</p></td>
 <td><p>졸업 BEST</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2016년" title="wikilink">2016년</a> <a href="../Page/2월_10일.md" title="wikilink">2월 10일</a></p></td>
+<td><p><a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/2월_10일.md" title="wikilink">2월 10일</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -174,8 +174,8 @@
 
 ## 관련 항목
 
-  - [유즈](https://ko.wikipedia.org/wiki/유즈 "wikilink")
-  - [우타이비토하네](https://ko.wikipedia.org/wiki/우타이비토하네 "wikilink")
+  - [유즈](../Page/유즈.md "wikilink")
+  - [우타이비토하네](../Page/우타이비토하네.md "wikilink")
   - [고부쿠로](https://ko.wikipedia.org/wiki/고부쿠로 "wikilink")
 
 ## 외부 링크

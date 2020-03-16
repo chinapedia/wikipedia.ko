@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NP-](https://ko.wikipedia.org/wiki/NP-).
 
 
-**NP-완전**(NP-complete, **NP-C**, **NPC**)은 [NP](https://ko.wikipedia.org/wiki/NP_\(복잡도\) "wikilink") 집합에 속하는 [결정 문제](https://ko.wikipedia.org/wiki/결정_문제 "wikilink") 중에서 가장 어려운 문제의 부분집합으로, 모든 NP 문제를 다항 시간 내에 NP-완전 문제로 [환산할](../Page/환산_\(복잡도\).md "wikilink") 수 있다. NP-완전 문제 중 하나라도 [P에](https://ko.wikipedia.org/wiki/P_\(복잡도\) "wikilink") 속한다는 것을 증명한다면 모든 NP 문제가 P에 속하기 때문에, [P-NP 문제가](../Page/P-NP_문제.md "wikilink") P=NP의 형태로 풀리게 된다. 반대로 NP-완전 문제 중의 하나가 P에 속하지 않는다는 것이 증명된다면 P=NP에 대한 반례가 되어 P-NP 문제는 P≠NP의 형태로 풀리게 된다.
+**NP-완전**(NP-complete, **NP-C**, **NPC**)은 [NP](https://ko.wikipedia.org/wiki/NP_\(복잡도\) "wikilink") 집합에 속하는 [결정 문제](https://ko.wikipedia.org/wiki/결정_문제 "wikilink") 중에서 가장 어려운 문제의 부분집합으로, 모든 NP 문제를 다항 시간 내에 NP-완전 문제로 [환산할](../Page/환산_\(복잡도\).md "wikilink") 수 있다. NP-완전 문제 중 하나라도 [P에](../Page/P_\(복잡도\).md "wikilink") 속한다는 것을 증명한다면 모든 NP 문제가 P에 속하기 때문에, [P-NP 문제가](../Page/P-NP_문제.md "wikilink") P=NP의 형태로 풀리게 된다. 반대로 NP-완전 문제 중의 하나가 P에 속하지 않는다는 것이 증명된다면 P=NP에 대한 반례가 되어 P-NP 문제는 P≠NP의 형태로 풀리게 된다.
 
 ## 정의
 
@@ -24,7 +24,7 @@ NP-완전이라는 개념은 [1971년](../Page/1971년.md "wikilink")에 [스티
 
   - [해밀턴 경로](../Page/해밀턴_경로.md "wikilink") 문제
   - [충족 가능성 문제](../Page/충족_가능성_문제.md "wikilink")(SAT)
-  - [외판원 문제](https://ko.wikipedia.org/wiki/외판원_문제 "wikilink")
+  - [외판원 문제](../Page/외판원_문제.md "wikilink")
   - [그래프 색칠 문제](https://ko.wikipedia.org/wiki/그래프_색칠_문제 "wikilink")
   - [시간표 짜기](https://ko.wikipedia.org/wiki/시간표_짜기 "wikilink")
 

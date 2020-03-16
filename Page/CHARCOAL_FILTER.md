@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CHARCOAL FILTER](https://ko.wikipedia.org/wiki/CHARCOAL_FILTER).
 
 
-**CHARCOAL FILTER**는 [고나가와 다카히로](https://ko.wikipedia.org/wiki/고나가와_다카히로 "wikilink")(), [오쓰카 유조](https://ko.wikipedia.org/wiki/오쓰카_유조 "wikilink")(), [야스이 유키](https://ko.wikipedia.org/wiki/야스이_유키 "wikilink")(), [다카노 신타로](https://ko.wikipedia.org/wiki/다카노_신타로 "wikilink")() 네 명으로 구성된 [일본](../Page/일본.md "wikilink")의 남자 [록](https://ko.wikipedia.org/wiki/록 "wikilink") [밴드이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink").
+**CHARCOAL FILTER**는 [고나가와 다카히로](../Page/고나가와_다카히로.md "wikilink")(), [오쓰카 유조](../Page/오쓰카_유조.md "wikilink")(), [야스이 유키](../Page/야스이_유키.md "wikilink")(), [다카노 신타로](../Page/다카노_신타로.md "wikilink")() 네 명으로 구성된 [일본](../Page/일본.md "wikilink")의 남자 [록](https://ko.wikipedia.org/wiki/록 "wikilink") [밴드이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink").
 
 ## 개략
 
@@ -13,10 +13,10 @@
 
 ## 멤버
 
-  - **[고나가와 다카히로](https://ko.wikipedia.org/wiki/고나가와_다카히로 "wikilink")** (, [1979년](../Page/1979년.md "wikilink") [11월 30일](../Page/11월_30일.md "wikilink") - ) : [기타](../Page/기타.md "wikilink"), 리더
-  - **[오쓰카 유조](https://ko.wikipedia.org/wiki/오쓰카_유조 "wikilink")** (, [1979년](../Page/1979년.md "wikilink") [8월 27일](../Page/8월_27일.md "wikilink") - ) : [보컬](https://ko.wikipedia.org/wiki/가수 "wikilink")
-  - **[야스이 유키](https://ko.wikipedia.org/wiki/야스이_유키 "wikilink")** (, [1980년](../Page/1980년.md "wikilink") [3월 5일](../Page/3월_5일.md "wikilink") - ) : [베이스 기타](../Page/베이스_기타.md "wikilink")
-  - **[다카노 신타로](https://ko.wikipedia.org/wiki/다카노_신타로 "wikilink")** (, [1979년](../Page/1979년.md "wikilink") [10월 20일](../Page/10월_20일.md "wikilink") - ) : [드럼](https://ko.wikipedia.org/wiki/드럼_연주자 "wikilink")
+  - **[고나가와 다카히로](../Page/고나가와_다카히로.md "wikilink")** (, [1979년](../Page/1979년.md "wikilink") [11월 30일](../Page/11월_30일.md "wikilink") - ) : [기타](../Page/기타.md "wikilink"), 리더
+  - **[오쓰카 유조](../Page/오쓰카_유조.md "wikilink")** (, [1979년](../Page/1979년.md "wikilink") [8월 27일](../Page/8월_27일.md "wikilink") - ) : [보컬](https://ko.wikipedia.org/wiki/가수 "wikilink")
+  - **[야스이 유키](../Page/야스이_유키.md "wikilink")** (, [1980년](../Page/1980년.md "wikilink") [3월 5일](../Page/3월_5일.md "wikilink") - ) : [베이스 기타](../Page/베이스_기타.md "wikilink")
+  - **[다카노 신타로](../Page/다카노_신타로.md "wikilink")** (, [1979년](../Page/1979년.md "wikilink") [10월 20일](../Page/10월_20일.md "wikilink") - ) : [드럼](https://ko.wikipedia.org/wiki/드럼_연주자 "wikilink")
 
 ## 디스코그라피
 
@@ -838,11 +838,11 @@
 
 ## 관련 항목
 
-  - [우타이비토하네](https://ko.wikipedia.org/wiki/우타이비토하네 "wikilink") - 친한 친구. ""(즐기자)를 리코딩했을 때에는 멤버인 혼다가 [하모니카](../Page/하모니카.md "wikilink")를 불어 줬다.
+  - [우타이비토하네](../Page/우타이비토하네.md "wikilink") - 친한 친구. ""(즐기자)를 리코딩했을 때에는 멤버인 혼다가 [하모니카](../Page/하모니카.md "wikilink")를 불어 줬다.
   - [이나고 라이더](https://ko.wikipedia.org/wiki/이나고_라이더 "wikilink") - 친구인 쇼고가 소속되어 있는 록 밴드. 그는 차콜 필터 팬 클럽의 회원 번호 175번이다.
   - [베이비스타즈](https://ko.wikipedia.org/wiki/베이비스타즈 "wikilink") - 우타이비토하네에게 소개되어 친구가 됐다. 이 밴드의 드러머이던 아사미는 탈퇴한 뒤에 고나가와의 솔로 활동의 드러머로서도 활약하고 있다.
   - [카멜 위저드](https://ko.wikipedia.org/wiki/카멜_위저드 "wikilink") - 같은 프로덕션 후배이고 사이가 좋은 밴드.
-  - [아라시](https://ko.wikipedia.org/wiki/아라시 "wikilink") - [오쓰카 유조가](https://ko.wikipedia.org/wiki/오쓰카_유조 "wikilink") ""(내일로 향하고)를 작사했다.
+  - [아라시](../Page/아라시.md "wikilink") - [오쓰카 유조가](../Page/오쓰카_유조.md "wikilink") ""(내일로 향하고)를 작사했다.
   - [가메다 세이지](https://ko.wikipedia.org/wiki/가메다_세이지 "wikilink") - [2002년](../Page/2002년.md "wikilink")부터 [2004년](../Page/2004년.md "wikilink")까지 프로듀서였다. 록 밴드인 [도쿄사변](https://ko.wikipedia.org/wiki/도쿄사변 "wikilink")의 베이스 기타리스트.
 
 ## 외부 링크

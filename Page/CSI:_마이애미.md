@@ -13,12 +13,12 @@
 
 ## 등장인물
 
-  - [데이비드 카루소](https://ko.wikipedia.org/wiki/데이비드_카루소 "wikilink") - **호라시오 케인** (Horatio "H" Caine), 3급 감식 수사관 (반장).
+  - [데이비드 카루소](../Page/데이비드_카루소.md "wikilink") - **호라시오 케인** (Horatio "H" Caine), 3급 감식 수사관 (반장).
 
 <!-- end list -->
 
   -
-    마이애미 범죄수사국 경위. **[방화](https://ko.wikipedia.org/wiki/방화 "wikilink"), 폭발사건 전문**이며, 다양한 관점에서 사건을 분석하는데 능하다. [마이애미](https://ko.wikipedia.org/wiki/마이애미 "wikilink") 출신. 어머니로부터 진정한 힘은 [지혜](../Page/지혜.md "wikilink")이지 주먹이 아니라고 배웠다. 어머니가 마약밀매상에게 살해당하자 경찰을 도와 사건을 조사하여 가해자를 찾아내었고, 가해자는 법에 따라 종신형을 받았다. 이 사건을 계기로 경찰학교에 진학했으며, 과학 수사에 관심을 갖게 되어 마이애미 주립대학교에서 화학을 공부했다.
+    마이애미 범죄수사국 경위. **[방화](https://ko.wikipedia.org/wiki/방화 "wikilink"), 폭발사건 전문**이며, 다양한 관점에서 사건을 분석하는데 능하다. [마이애미](../Page/마이애미.md "wikilink") 출신. 어머니로부터 진정한 힘은 [지혜](../Page/지혜.md "wikilink")이지 주먹이 아니라고 배웠다. 어머니가 마약밀매상에게 살해당하자 경찰을 도와 사건을 조사하여 가해자를 찾아내었고, 가해자는 법에 따라 종신형을 받았다. 이 사건을 계기로 경찰학교에 진학했으며, 과학 수사에 관심을 갖게 되어 마이애미 주립대학교에서 화학을 공부했다.
     본능적인 육감에 근거한 수사 방식을 선호한다. [논리](https://ko.wikipedia.org/wiki/논리 "wikilink")적인 사고로 사건의 진상을 규명한다. 성격이 조용하고 온화하지만, 사건 용의자에게는 수사관이라는 [직업](../Page/직업.md "wikilink")에 충실하기 위해 엄격하게 심문하여 진실을 밝힌다. 아들 카일이 독립할 나이가 되자 [CSI](https://ko.wikipedia.org/wiki/CSI "wikilink")에서 타라 프라이스 검시관에게 일을 배우도록 하고, [집](../Page/집.md "wikilink")을 구해준다. 이후 카일은 해외로 파병을 떠났다.
 
 <!-- end list -->
@@ -28,11 +28,11 @@
 <!-- end list -->
 
   -
-    **[물리학](../Page/물리학.md "wikilink") 전공, [탄도학](https://ko.wikipedia.org/wiki/강선 "wikilink") 전문가**로 [루이지애나주](../Page/루이지애나주.md "wikilink") 출신이며 그의 부친과 모친 모두 알코올 의존증 환자였다. [총기](https://ko.wikipedia.org/wiki/총기 "wikilink")류에 해박한 지식을 갖고 있어 별명이 'Bullet Girl'이다. [CSI](https://ko.wikipedia.org/wiki/CSI "wikilink") 내에서의 서열은 대략 호라시오 케인 바로 아래. 호라시오의 부재 시 임시 반장의 역할을 수행하기도 한다,
+    **[물리학](../Page/물리학.md "wikilink") 전공, [탄도학](../Page/강선.md "wikilink") 전문가**로 [루이지애나주](../Page/루이지애나주.md "wikilink") 출신이며 그의 부친과 모친 모두 알코올 의존증 환자였다. [총기](https://ko.wikipedia.org/wiki/총기 "wikilink")류에 해박한 지식을 갖고 있어 별명이 'Bullet Girl'이다. [CSI](https://ko.wikipedia.org/wiki/CSI "wikilink") 내에서의 서열은 대략 호라시오 케인 바로 아래. 호라시오의 부재 시 임시 반장의 역할을 수행하기도 한다,
 
 <!-- end list -->
 
-  - [애덤 로드리게스](https://ko.wikipedia.org/wiki/애덤_로드리게스 "wikilink") - **에릭 델코** (Eric Delko), 3급 감식 수사관.
+  - [애덤 로드리게스](../Page/애덤_로드리게스.md "wikilink") - **에릭 델코** (Eric Delko), 3급 감식 수사관.
 
 <!-- end list -->
 
@@ -41,7 +41,7 @@
 
 <!-- end list -->
 
-  - [로리 코크레인](https://ko.wikipedia.org/wiki/로리_코크레인 "wikilink") - **팀 스피들** (Tim "Speed" Speedle), 3급 감식 수사관 (시즌 1 \~ 시즌 3, 시즌 6.)
+  - [로리 코크레인](../Page/로리_코크레인.md "wikilink") - **팀 스피들** (Tim "Speed" Speedle), 3급 감식 수사관 (시즌 1 \~ 시즌 3, 시즌 6.)
 
 <!-- end list -->
 
@@ -64,7 +64,7 @@
 <!-- end list -->
 
   -
-    과학 수사대가 창설되기 전 호라시오 밑에서 일하던 형사였지만 과학 수사대가 창설되자마자 그는 [로스앤젤레스 경찰](https://ko.wikipedia.org/wiki/로스앤젤레스_경찰 "wikilink") ([LAPD](https://ko.wikipedia.org/wiki/LAPD "wikilink"))로 근무지를 옮겼다. 시즌 8부터 다시 [마이애미](https://ko.wikipedia.org/wiki/마이애미 "wikilink")로 돌아와서 과학 수사대에 합류한다. 어려운 일을 겪는 동료를 돕는 인간적인 수사관이며, 평소엔 신사적이나 불의를 보면 참지 못하는 정의감이 강한 성격이다. 시즌 8 중반 [마이애미](https://ko.wikipedia.org/wiki/마이애미 "wikilink")로 근무지를 옮기기 전 [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink"), [마이애미](https://ko.wikipedia.org/wiki/마이애미 "wikilink")에서 생긴 자신과 관련된 사건들을 호라시오와 에릭이 모두 해결해주었다. 하지만 시즌 8 마지막에서 용의자였던 대학교 교수가 과학수사대에 살포한 독성가스를 흡입하여 호흡곤란으로 쓰러졌고, 시즌 9 첫 에피소드에서 [뇌출혈](https://ko.wikipedia.org/wiki/뇌출혈 "wikilink")과 [심장마비](https://ko.wikipedia.org/wiki/심장마비 "wikilink")로 인해 순직하였다. 시즌 3에서 순직한 팀 스피들과는 동료 사이였다.
+    과학 수사대가 창설되기 전 호라시오 밑에서 일하던 형사였지만 과학 수사대가 창설되자마자 그는 [로스앤젤레스 경찰](https://ko.wikipedia.org/wiki/로스앤젤레스_경찰 "wikilink") ([LAPD](https://ko.wikipedia.org/wiki/LAPD "wikilink"))로 근무지를 옮겼다. 시즌 8부터 다시 [마이애미](../Page/마이애미.md "wikilink")로 돌아와서 과학 수사대에 합류한다. 어려운 일을 겪는 동료를 돕는 인간적인 수사관이며, 평소엔 신사적이나 불의를 보면 참지 못하는 정의감이 강한 성격이다. 시즌 8 중반 [마이애미](../Page/마이애미.md "wikilink")로 근무지를 옮기기 전 [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink"), [마이애미](../Page/마이애미.md "wikilink")에서 생긴 자신과 관련된 사건들을 호라시오와 에릭이 모두 해결해주었다. 하지만 시즌 8 마지막에서 용의자였던 대학교 교수가 과학수사대에 살포한 독성가스를 흡입하여 호흡곤란으로 쓰러졌고, 시즌 9 첫 에피소드에서 [뇌출혈](https://ko.wikipedia.org/wiki/뇌출혈 "wikilink")과 [심장마비](https://ko.wikipedia.org/wiki/심장마비 "wikilink")로 인해 순직하였다. 시즌 3에서 순직한 팀 스피들과는 동료 사이였다.
 
 <!-- end list -->
 
@@ -95,7 +95,7 @@
 
 <!-- end list -->
 
-  - [칸디 알렉산더](https://ko.wikipedia.org/wiki/칸디_알렉산더 "wikilink") - **알렉스 우즈** (Alexx Woods), 前 검시관, 현 병원 응급실 레지던트. (시즌 1 \~ 시즌 8)
+  - [칸디 알렉산더](../Page/칸디_알렉산더.md "wikilink") - **알렉스 우즈** (Alexx Woods), 前 검시관, 현 병원 응급실 레지던트. (시즌 1 \~ 시즌 8)
 
 <!-- end list -->
 
@@ -176,7 +176,7 @@
 
 ## 드라마와 CSI: 마이애미의 차이
 
-  - 드라마에서는 [마이애미](https://ko.wikipedia.org/wiki/마이애미 "wikilink")에서 CSI 과학 수사대원들이 용의자를 심문하지만, 현실 속의 수사대원들은 용의자 심문을 하지 않는다. 수사대원들이 하는 일은 용의자 심문이 아니라 증거자료수집으로 범죄수사를 하는 것이다. 또한, 마이애미 해안가에 있는 범죄자들을 수사하여 범죄감식에 이르는 수사력을 수행하고 있다.
+  - 드라마에서는 [마이애미](../Page/마이애미.md "wikilink")에서 CSI 과학 수사대원들이 용의자를 심문하지만, 현실 속의 수사대원들은 용의자 심문을 하지 않는다. 수사대원들이 하는 일은 용의자 심문이 아니라 증거자료수집으로 범죄수사를 하는 것이다. 또한, 마이애미 해안가에 있는 범죄자들을 수사하여 범죄감식에 이르는 수사력을 수행하고 있다.
 
 ## CSI:Miami season 방송일 (미국기준)
 
@@ -212,23 +212,23 @@
 
 ### CSI 마이애미 한국판 성우 출연
 
-  - [양지운](https://ko.wikipedia.org/wiki/양지운 "wikilink") (시즌 1 \~ 시즌 6), [신성호](https://ko.wikipedia.org/wiki/신성호 "wikilink") (시즌 7 \~ 시즌 10) (호라시오 케인 役)
-  - [유은숙](https://ko.wikipedia.org/wiki/유은숙 "wikilink") (시즌 1), [김아영](https://ko.wikipedia.org/wiki/김아영 "wikilink") (시즌 2 \~ 시즌 10) (캘리 드퀘인 役)
-  - [이상범](https://ko.wikipedia.org/wiki/이상범_\(성우\) "wikilink") (팀 스피들 役, 시즌 1 \~ 시즌 3, 시즌 6)
-  - [이상훈](https://ko.wikipedia.org/wiki/이상훈_\(성우\) "wikilink") (제시 카도자 役, 시즌 8)
-  - [표영재](../Page/표영재.md "wikilink") (시즌 1), [정재헌](https://ko.wikipedia.org/wiki/정재헌_\(성우\) "wikilink") (시즌 2 \~ 시즌 10) (에릭 델코 役)
+  - [양지운](../Page/양지운.md "wikilink") (시즌 1 \~ 시즌 6), [신성호](https://ko.wikipedia.org/wiki/신성호 "wikilink") (시즌 7 \~ 시즌 10) (호라시오 케인 役)
+  - [유은숙](../Page/유은숙.md "wikilink") (시즌 1), [김아영](../Page/김아영.md "wikilink") (시즌 2 \~ 시즌 10) (캘리 드퀘인 役)
+  - [이상범](../Page/이상범_\(성우\).md "wikilink") (팀 스피들 役, 시즌 1 \~ 시즌 3, 시즌 6)
+  - [이상훈](../Page/이상훈_\(성우\).md "wikilink") (제시 카도자 役, 시즌 8)
+  - [표영재](../Page/표영재.md "wikilink") (시즌 1), [정재헌](../Page/정재헌_\(성우\).md "wikilink") (시즌 2 \~ 시즌 10) (에릭 델코 役)
   - [표영재](../Page/표영재.md "wikilink") (라이언 울프 役, 시즌 3 \~ 시즌 10)
   - 전수빈 (월터 시먼스 役, 시즌 8 \~ 시즌 10)
-  - [엄현정](https://ko.wikipedia.org/wiki/엄현정 "wikilink") (나탈리아 보아 비스타 役, 시즌 4 \~ 시즌 10)
-  - [정남](https://ko.wikipedia.org/wiki/정남_\(성우\) "wikilink") (알렉스 우즈 役, 시즌 1 \~ 시즌 8)
+  - [엄현정](../Page/엄현정.md "wikilink") (나탈리아 보아 비스타 役, 시즌 4 \~ 시즌 10)
+  - [정남](../Page/정남_\(성우\).md "wikilink") (알렉스 우즈 役, 시즌 1 \~ 시즌 8)
   - [박영희](../Page/박영희_\(성우\).md "wikilink") (옐리나 살라스 役, 시즌 2 \~ 시즌 3)
-  - [최석필](https://ko.wikipedia.org/wiki/최석필 "wikilink") (프랭크 트립 役, 시즌 1 \~ 시즌 10)
+  - [최석필](../Page/최석필.md "wikilink") (프랭크 트립 役, 시즌 1 \~ 시즌 10)
   - [채의진](../Page/채의진.md "wikilink") (맥신 발레라 役, 시즌 1 \~ 시즌 8)
   - [오주연](../Page/오주연.md "wikilink") (타라 프라이스 役, 시즌 7)
   - [이윤연](../Page/이윤연.md "wikilink") (탐 로먼 役, 시즌 8 \~ 시즌 10)
   - [기경옥](../Page/기경옥.md "wikilink") (사만다 役)
   - [이정구](https://ko.wikipedia.org/wiki/이정구_\(성우\) "wikilink") (맥 테일러 役) - 시즌 2, 시즌 4 [뉴욕과](https://ko.wikipedia.org/wiki/CSI뉴욕 "wikilink") 크로스에피에 출연
-  - [김기현](https://ko.wikipedia.org/wiki/김기현_\(성우\) "wikilink") (레이몬드 랭스턴 박사 役) - 시즌 8 [라스베이거스](https://ko.wikipedia.org/wiki/CSI과학수사대 "wikilink"), [뉴욕과의](https://ko.wikipedia.org/wiki/CSI뉴욕 "wikilink") 트리플 크로스에피에 출연
+  - [김기현](../Page/김기현_\(성우\).md "wikilink") (레이몬드 랭스턴 박사 役) - 시즌 8 [라스베이거스](https://ko.wikipedia.org/wiki/CSI과학수사대 "wikilink"), [뉴욕과의](https://ko.wikipedia.org/wiki/CSI뉴욕 "wikilink") 트리플 크로스에피에 출연
 
 #### 다른 내용
 

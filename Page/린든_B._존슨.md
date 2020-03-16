@@ -5,7 +5,7 @@
 
 [민주당](../Page/민주당_\(미국\).md "wikilink") 대통령 후보 경선에서 [케네디](../Page/존_F._케네디.md "wikilink") 후보에게 패배하였으나 케네디 정부의 부통령이 되었다. 그러던 1963년 대통령으로 재임하던 케네디가 피살되자 제36대 대통령직을 승계했으며, [1964년](../Page/1964년.md "wikilink") 선거에서 [공화당의](https://ko.wikipedia.org/wiki/공화당_\(미국\) "wikilink") [배리 골드워터](../Page/배리_골드워터.md "wikilink") 후보를 꺾고 재선되었다.
 
-그는 '위대한 사회' 건설을 주장하여 [교육](../Page/교육.md "wikilink"), [주택](https://ko.wikipedia.org/wiki/주택 "wikilink")과 [도시](../Page/도시.md "wikilink") 개발, [교통](../Page/교통.md "wikilink"), [환경보호주의](https://ko.wikipedia.org/wiki/환경보호주의 "wikilink"), [이민](https://ko.wikipedia.org/wiki/이민 "wikilink") 정책의 의안 제출권에 책임을 맡았으나, [베트남 전쟁에서는](../Page/베트남_전쟁.md "wikilink") 사태의 심각화를 초래하였다. 또한 남부 출신의 지도자로서 [흑인에](https://ko.wikipedia.org/wiki/아프리카계_미국인 "wikilink") 대한 차별을 없애야 한다고 주장하며, 인권운동 결의서를 세웠다. [1965년](../Page/1965년.md "wikilink")에는 흑인들이 투표할 권리를 얻을 법안을 청하여 투표권법을 승인시켰다.
+그는 '위대한 사회' 건설을 주장하여 [교육](../Page/교육.md "wikilink"), [주택](https://ko.wikipedia.org/wiki/주택 "wikilink")과 [도시](../Page/도시.md "wikilink") 개발, [교통](../Page/교통.md "wikilink"), [환경보호주의](https://ko.wikipedia.org/wiki/환경보호주의 "wikilink"), [이민](https://ko.wikipedia.org/wiki/이민 "wikilink") 정책의 의안 제출권에 책임을 맡았으나, [베트남 전쟁에서는](../Page/베트남_전쟁.md "wikilink") 사태의 심각화를 초래하였다. 또한 남부 출신의 지도자로서 [흑인에](../Page/아프리카계_미국인.md "wikilink") 대한 차별을 없애야 한다고 주장하며, 인권운동 결의서를 세웠다. [1965년](../Page/1965년.md "wikilink")에는 흑인들이 투표할 권리를 얻을 법안을 청하여 투표권법을 승인시켰다.
 
 하지만 베트남 전쟁이 장기화 되면서 국내에서 반전 운동이 일어나 인기를 잃게 되자, [1968년](../Page/1968년.md "wikilink") 두 번 이상 대통령 선거에 출마하지 않겠다는 발표를 하여 이듬해 임기 종료와 함께 퇴임했다.
 
@@ -31,7 +31,7 @@
 
 ## 부통령 시절 (1961 \~ 63)
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:JFK_Griffith_Stadium_1961.jpg "wikilink") [그리피스 스타디움에서](../Page/그리피스_스타디움.md "wikilink") 열린 [프로 야구](https://ko.wikipedia.org/wiki/프로_야구 "wikilink") 시즌의 개막일에서. [존 F. 케네디](../Page/존_F._케네디.md "wikilink") 대통령이 첫 공을 던지며 존슨 부통령(왼쪽)과 [휴버트 험프리도](https://ko.wikipedia.org/wiki/휴버트_험프리 "wikilink") 보인다.\]\] 존슨은 [1960년](../Page/1960년.md "wikilink") [백악관](https://ko.wikipedia.org/wiki/백악관 "wikilink")에 자신의 전망들을 세웠다. 하지만 그는 민주당 전당 대회에서 첫 대통령 후보자 결정 선거에 대통령 후보로 임명된 젊고 활기찬 [매사추세츠주](../Page/매사추세츠주.md "wikilink")의 상원 [존 F. 케네디에](../Page/존_F._케네디.md "wikilink") 의하여 압도되었다. 케네디는 대부분 존슨을 지지한 전통적 남부 민주당원들의 성원없이 그가 선출되지 못한 것을 알아차려 그에게 부통령 역할을 마련하였다. 존슨은 남부에서 연설을 하고 케네디/존슨 공천 후보가 [공화당](https://ko.wikipedia.org/wiki/공화당_\(미국\) "wikilink") 후보 [리처드 닉슨에](../Page/리처드_닉슨.md "wikilink") 좁은 차이로 선거를 우승하였다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:JFK_Griffith_Stadium_1961.jpg "wikilink") [그리피스 스타디움에서](../Page/그리피스_스타디움.md "wikilink") 열린 [프로 야구](https://ko.wikipedia.org/wiki/프로_야구 "wikilink") 시즌의 개막일에서. [존 F. 케네디](../Page/존_F._케네디.md "wikilink") 대통령이 첫 공을 던지며 존슨 부통령(왼쪽)과 [휴버트 험프리도](https://ko.wikipedia.org/wiki/휴버트_험프리 "wikilink") 보인다.\]\] 존슨은 [1960년](../Page/1960년.md "wikilink") [백악관](../Page/백악관.md "wikilink")에 자신의 전망들을 세웠다. 하지만 그는 민주당 전당 대회에서 첫 대통령 후보자 결정 선거에 대통령 후보로 임명된 젊고 활기찬 [매사추세츠주](../Page/매사추세츠주.md "wikilink")의 상원 [존 F. 케네디에](../Page/존_F._케네디.md "wikilink") 의하여 압도되었다. 케네디는 대부분 존슨을 지지한 전통적 남부 민주당원들의 성원없이 그가 선출되지 못한 것을 알아차려 그에게 부통령 역할을 마련하였다. 존슨은 남부에서 연설을 하고 케네디/존슨 공천 후보가 [공화당](https://ko.wikipedia.org/wiki/공화당_\(미국\) "wikilink") 후보 [리처드 닉슨에](../Page/리처드_닉슨.md "wikilink") 좁은 차이로 선거를 우승하였다.
 
 부통령으로서 존슨은 [우주](../Page/우주.md "wikilink") 프로그램을 지휘하고, [핵무기](../Page/핵무기.md "wikilink") 시험 금지 조약에 협상들을 감시하고 소수 민족들을 위한 동등한 기회 입법을 통하여 밀고 나가는 데 일하였다. 그는 또한 [공산주의](../Page/공산주의.md "wikilink")에 싸우는 도움을 주는 데 [남베트남](https://ko.wikipedia.org/wiki/남베트남 "wikilink")에 미국 군사 조언자들을 보내는 케네디의 결정을 강하게 후원하였다. 하지만 존슨은 전혀 권력 중추부의 측근 그룹에 있지 않았고 특히 입법적 논쟁들에 그의 부족한 영향력에 의하여 좌절되고 만다.
 
@@ -47,7 +47,7 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Lyndon_Johnson_signing_Civil_Rights_Act,_July_2,_1964.jpg "wikilink") [1964년](../Page/1964년.md "wikilink") [7월 2일](../Page/7월_2일.md "wikilink") 존슨 대통령은 남부 제주의 재통합기 이래 첫 효과적 민권 법률인 1964년 공민권법 시행에 서명하였다. [1954년](../Page/1954년.md "wikilink") 학교에서 인종적 분리가 비헌법적이라고 주장한 [미국 대법원의](https://ko.wikipedia.org/wiki/미국_대법원 "wikilink") 브라운 대 교육부 판례에 특정을 지은 결정과 [마틴 루서 킹 주니어의](https://ko.wikipedia.org/wiki/마틴_루서_킹_주니어 "wikilink") 〈[I have a dream](https://ko.wikipedia.org/wiki/I_have_a_dream "wikilink")〉유명한 연설과 케네디 대통령이 선거가 열리는 동안 공민권 법안의 통과를 자신의 연설의 일부로 만듬에 이어 공민권 운동이 추진력을 얻었다. 존슨은 부통령으로서 케네디의 동등 고용 기회 협회의 의장을 지냈고 케네디의 사망에 이어 법안을 통하여 보는 등불을 차지하였다.
 
-입법은 고용과 교육에서 [인종 차별을](https://ko.wikipedia.org/wiki/인종_차별 "wikilink") 금지하였고, 공공 장소들에서 인종적 분리를 무법으로 하여 1965년의 투표권법을 위하여 원칙을 놓았다. 공민권법 시행은 7월에 있던 장기적 토론 후에 하원과 상원을 통과시켰고 텔레비전으로 방영된 수백명의 내빈들과 함께 한 조인식에서 존슨 대통령에 의하여 서명되었다.
+입법은 고용과 교육에서 [인종 차별을](../Page/인종_차별.md "wikilink") 금지하였고, 공공 장소들에서 인종적 분리를 무법으로 하여 1965년의 투표권법을 위하여 원칙을 놓았다. 공민권법 시행은 7월에 있던 장기적 토론 후에 하원과 상원을 통과시켰고 텔레비전으로 방영된 수백명의 내빈들과 함께 한 조인식에서 존슨 대통령에 의하여 서명되었다.
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Lyndon_Johnson_and_Martin_Luther_King,_Jr._-_Voting_Rights_Act.jpg "wikilink") [8월 6일](../Page/8월_6일.md "wikilink") 투표권법 서명식에서 [마틴 루서 킹 주니어와](https://ko.wikipedia.org/wiki/마틴_루서_킹_주니어 "wikilink") [로자 파크스와](../Page/로자_파크스.md "wikilink") 함께\]\]
 
@@ -65,7 +65,7 @@
 
 <!-- end list -->
 
-  - [8월](../Page/8월.md "wikilink") 미국 의회에 15번째 수정 조항 아래 [아프리카계 미국인들이](https://ko.wikipedia.org/wiki/아프리카계_미국인 "wikilink") 투표하는 데 자신들의 권리를 실습하는 데 의미있게 넓혀진 법률 = 1965년 투표권법
+  - [8월](../Page/8월.md "wikilink") 미국 의회에 15번째 수정 조항 아래 [아프리카계 미국인들이](../Page/아프리카계_미국인.md "wikilink") 투표하는 데 자신들의 권리를 실습하는 데 의미있게 넓혀진 법률 = 1965년 투표권법
 
 <!-- end list -->
 

@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [P \(\)](https://ko.wikipedia.org/wiki/P_\(\)).
 
 
-**P**(**PTIME** 또는 **[DTIME](https://ko.wikipedia.org/wiki/DTIME "wikilink")**(*n*<sup>O(1)</sup>))는 [결정론적 튜링 기계로](https://ko.wikipedia.org/wiki/결정론적_튜링_기계 "wikilink") [다항 시간](https://ko.wikipedia.org/wiki/다항_시간 "wikilink") 안에 풀 수 있는 [판정 문제를](https://ko.wikipedia.org/wiki/판정_문제 "wikilink") 모아 놓은 [복잡도 종류이다](../Page/복잡도_종류.md "wikilink"). [선형 계획](https://ko.wikipedia.org/wiki/선형_계획법 "wikilink") 제품, [최대공약수](../Page/최대공약수.md "wikilink") 문제 등이 P에 포함되며, [2002년](../Page/2002년.md "wikilink")에는 주어진 숫자가 [소수인지](../Page/소수_\(수론\).md "wikilink") 판별하는 문제도 P에 속한다는 것이 증명되었다\[1\]
+**P**(**PTIME** 또는 **[DTIME](https://ko.wikipedia.org/wiki/DTIME "wikilink")**(*n*<sup>O(1)</sup>))는 [결정론적 튜링 기계로](https://ko.wikipedia.org/wiki/결정론적_튜링_기계 "wikilink") [다항 시간](https://ko.wikipedia.org/wiki/다항_시간 "wikilink") 안에 풀 수 있는 [판정 문제를](https://ko.wikipedia.org/wiki/판정_문제 "wikilink") 모아 놓은 [복잡도 종류이다](../Page/복잡도_종류.md "wikilink"). [선형 계획](../Page/선형_계획법.md "wikilink") 제품, [최대공약수](../Page/최대공약수.md "wikilink") 문제 등이 P에 포함되며, [2002년](../Page/2002년.md "wikilink")에는 주어진 숫자가 [소수인지](../Page/소수_\(수론\).md "wikilink") 판별하는 문제도 P에 속한다는 것이 증명되었다\[1\]
 
 보통 P는 효율적으로 다룰 수 있는 문제의 집합으로 생각되지만, [RP나](https://ko.wikipedia.org/wiki/RP_\(복잡090ㅣ0도\) "wikilink") [BPP](https://ko.wikipedia.org/wiki/BPP "wikilink")와 같은 더 큰 집합의 문제도 효율적으로 다룰 수 있다. 또한 P에 속한다고 해서 항상 실용적인 것은 아닌데, 이론적으로는 다항 시간 내에 풀 수 있지만 실제 걸리는 시간이 비효율적일 가능성도 충분히 있기 때문이다.
 
 ## 다른 복잡도 종류와의 관계
 
-[NP는](https://ko.wikipedia.org/wiki/NP_\(복잡도\) "wikilink") [비결정론적 튜링 기계로](https://ko.wikipedia.org/wiki/비결정론적_튜링_기계 "wikilink") 다항 시간 안에 풀 수 있는 판정 문제들의 집합으로, 이 문제들은 결정론적 튜링 기계로 다항 시간 안에 답을 검증 가능할 수 있다. P는 NP의 부분집합이지만, P와 NP가 같은지 아닌지는 아직 알려지지 않았다. 이에 대한 문제는 [P-NP 문제라고](../Page/P-NP_문제.md "wikilink") 부른다.
+[NP는](https://ko.wikipedia.org/wiki/NP_\(복잡도\) "wikilink") [비결정론적 튜링 기계로](../Page/비결정론적_튜링_기계.md "wikilink") 다항 시간 안에 풀 수 있는 판정 문제들의 집합으로, 이 문제들은 결정론적 튜링 기계로 다항 시간 안에 답을 검증 가능할 수 있다. P는 NP의 부분집합이지만, P와 NP가 같은지 아닌지는 아직 알려지지 않았다. 이에 대한 문제는 [P-NP 문제라고](../Page/P-NP_문제.md "wikilink") 부른다.
 
 [L는](https://ko.wikipedia.org/wiki/L_\(복잡도\) "wikilink") 결정론적 튜링 기계로 [로그](https://ko.wikipedia.org/wiki/로그함수 "wikilink") [메모리 공간을](https://ko.wikipedia.org/wiki/메모리_공간 "wikilink") 사용하여 풀 수 있는 판정 문제들의 집합으로, 이 집합은 P의 부분집합으로 알려져 있지만 P와 L이 같은지 아닌지는 아직 미해결 상태이다.
 

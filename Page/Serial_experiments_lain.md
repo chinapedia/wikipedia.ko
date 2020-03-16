@@ -9,7 +9,7 @@
 
 ## 작품 개요
 
-'존재는 [인식](https://ko.wikipedia.org/wiki/인식 "wikilink") = [의식](https://ko.wikipedia.org/wiki/의식 "wikilink")의 접속에 의해서 [정의](../Page/정의.md "wikilink")되며 사람은 모두 연결되어 있다. [기억](../Page/기억.md "wikilink")은 단순한 [기록](https://ko.wikipedia.org/wiki/기록 "wikilink")에 지나지 않는다.'라는 세계관에서 전개되는, 14세의 소녀 레인 (lain)을 둘러싼 이야기. 리얼 월드와 [컴퓨터 네트워크](https://ko.wikipedia.org/wiki/컴퓨터_네트워크 "wikilink")·와이어드 (Wired = 연결된 것)에 편재하는 'lain'이라는 존재에 대해.
+'존재는 [인식](https://ko.wikipedia.org/wiki/인식 "wikilink") = [의식](https://ko.wikipedia.org/wiki/의식 "wikilink")의 접속에 의해서 [정의](../Page/정의.md "wikilink")되며 사람은 모두 연결되어 있다. [기억](../Page/기억.md "wikilink")은 단순한 [기록](https://ko.wikipedia.org/wiki/기록 "wikilink")에 지나지 않는다.'라는 세계관에서 전개되는, 14세의 소녀 레인 (lain)을 둘러싼 이야기. 리얼 월드와 [컴퓨터 네트워크](../Page/컴퓨터_네트워크.md "wikilink")·와이어드 (Wired = 연결된 것)에 편재하는 'lain'이라는 존재에 대해.
 
 게임판과 애니메이션판에서는, 등장 인물도 스토리도 "lain"이라는 존재를 제외하고 크게 다르다.
 
@@ -29,7 +29,7 @@
 
 이 웨더 브레이크 시리즈도 DVD에 일부, BD-BOX에서는 모두 수록되고 있다.
 
-본작의 제작자는 컴퓨터 매니아가 대부분, 실재하는 [컴퓨터](../Page/컴퓨터.md "wikilink")나 [OS가](../Page/운영_체제.md "wikilink") 많이 등장한다. 예를 들면, 후반에 등장하는 초대 [iMac](https://ko.wikipedia.org/wiki/iMac "wikilink")은 본방송의 개시 직전에 발표된지 얼마 안된 기종이다. 그 밖에도 [Apple재](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink"), [NeXTSTEP](https://ko.wikipedia.org/wiki/NeXTSTEP "wikilink")재, [BeOS](https://ko.wikipedia.org/wiki/BeOS "wikilink")재 등이 여기저기로 보여진다.
+본작의 제작자는 컴퓨터 매니아가 대부분, 실재하는 [컴퓨터](../Page/컴퓨터.md "wikilink")나 [OS가](../Page/운영_체제.md "wikilink") 많이 등장한다. 예를 들면, 후반에 등장하는 초대 [iMac](https://ko.wikipedia.org/wiki/iMac "wikilink")은 본방송의 개시 직전에 발표된지 얼마 안된 기종이다. 그 밖에도 [Apple재](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink"), [NeXTSTEP](../Page/NeXTSTEP.md "wikilink")재, [BeOS](../Page/BeOS.md "wikilink")재 등이 여기저기로 보여진다.
 
 ### 개요
 
@@ -40,7 +40,7 @@
 ### 등장 인물
 
   - 이와쿠라 레인 (岩倉玲音)
-    [성](https://ko.wikipedia.org/wiki/성우 "wikilink") - [시미즈 카오리](../Page/시미즈_카오리.md "wikilink")
+    [성](../Page/성우.md "wikilink") - [시미즈 카오리](../Page/시미즈_카오리.md "wikilink")
     본작의 주인공. 내성적인 14세의 소녀. 좌측의 머리카락의 일부를 길게 늘려 밧텐형의 핀으로 두고 있는 것이 특징. 처음은 수수한 소녀지만, NAVI를 손에 넣고 나서는 그 취급에 비정상인 재능을 보이게 되었다. 그리고 레인과 같은 모습의 존재가 주위에 나타나지만, 그것은 레인이 wired를 통해, 세계에 편재화하는 조짐이었다.
   - 레인 (レイン)
     소리-시미즈 카오리

@@ -19,7 +19,7 @@
 
 ## 같이 보기
 
-  - [PPS-43](https://ko.wikipedia.org/wiki/PPS-43 "wikilink")
+  - [PPS-43](../Page/PPS-43.md "wikilink")
   - [기관단총](../Page/기관단총.md "wikilink")
 
 ## 외부 링크

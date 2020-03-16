@@ -30,7 +30,7 @@
 <!-- end list -->
 
   -
-    [1974년](../Page/1974년.md "wikilink") [10월 26일에](../Page/10월_26일.md "wikilink") [도쿄출신이다](../Page/도쿄도.md "wikilink"). 본명은 나리타 엘리자베스 사쿠라(Elizabeth Sakura Narita)로, 아버지가 일본인이고 어머니가 콜롬비아인이다. [2002년](../Page/2002년.md "wikilink") 봄까지 보컬로 활동하다가 솔로 활동에 전념하기 위하여 탈퇴했으나, [2005년](../Page/2005년.md "wikilink")에 발매된 *BEAT SPACE NINE*에서 게스트 보컬로 참여하기도 했다. 그러다가 [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [12월 15일](../Page/12월_15일.md "wikilink") 약 16년 만에 복귀한 사실이 공식 사이트와 공식 트위터, 공식 인스타그램에 발표되었다.
+    [1974년](../Page/1974년.md "wikilink") [10월 26일에](../Page/10월_26일.md "wikilink") [도쿄출신이다](../Page/도쿄도.md "wikilink"). 본명은 나리타 엘리자베스 사쿠라(Elizabeth Sakura Narita)로, 아버지가 일본인이고 어머니가 콜롬비아인이다. [2002년](../Page/2002년.md "wikilink") 봄까지 보컬로 활동하다가 솔로 활동에 전념하기 위하여 탈퇴했으나, [2005년](../Page/2005년.md "wikilink")에 발매된 *BEAT SPACE NINE*에서 게스트 보컬로 참여하기도 했다. 그러다가 [2017년](../Page/2017년.md "wikilink") [12월 15일](../Page/12월_15일.md "wikilink") 약 16년 만에 복귀한 사실이 공식 사이트와 공식 트위터, 공식 인스타그램에 발표되었다.
 
 ## 작품 목록
 

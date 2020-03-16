@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
 
 
-**리버풀 축구 클럽**(, *리버풀 축구단*)은 [잉글랜드](../Page/잉글랜드.md "wikilink") [머지사이드주](https://ko.wikipedia.org/wiki/머지사이드주 "wikilink") [리버풀](https://ko.wikipedia.org/wiki/리버풀 "wikilink")을 연고로 하는 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink") [축구](../Page/축구.md "wikilink") 클럽이다.
+**리버풀 축구 클럽**(, *리버풀 축구단*)은 [잉글랜드](../Page/잉글랜드.md "wikilink") [머지사이드주](https://ko.wikipedia.org/wiki/머지사이드주 "wikilink") [리버풀](../Page/리버풀.md "wikilink")을 연고로 하는 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink") [축구](../Page/축구.md "wikilink") 클럽이다.
 
 리버풀은 현재 총 18회의 리그 우승을 한 바 있으며, 8번의 [리그 컵](https://ko.wikipedia.org/wiki/리그_컵 "wikilink") 우승, 7번의 [FA컵우승](https://ko.wikipedia.org/wiki/FA컵_\(잉글랜드\) "wikilink"), 그리고 6번의 [UEFA 챔피언스리그](../Page/UEFA_챔피언스리그.md "wikilink") 우승을 차지한 바 있는데 챔피언스리그 우승은 잉글랜드 내에서는 역대 최다 우승 기록으로 기록되어 있다.
 
@@ -29,7 +29,7 @@
 
 리버풀은 첫 시즌에는 [랭커셔 리그에](https://ko.wikipedia.org/wiki/랭커셔_리그 "wikilink") 머물렀으나 우승을 차지하여, 1893–94 시즌에는 당시 2부 리그(Second Division)로 승격되었다. 전승 무패로 그 시즌에서 우승하였고,\[2\] 바로 1부리그(First Division)로 승격하였다. 그리고 1901년에는 클럽 사상 최초로 리그 챔피언쉽을 거머쥐게 되었고 1906년에도 또 한 번 우승하였다. 1914년에는 처음으로 [FA 컵](https://ko.wikipedia.org/wiki/FA컵_\(잉글랜드\) "wikilink") 결승에 올랐으나, [번리에](../Page/번리_FC.md "wikilink") 1-0으로 지고 말았다. \[3\]
 
-리버풀은 1921 - 22, 22 - 23 두시즌 연속 리그 우승을 차지 하였지만 그 이후 1947년 5번째 리그 우승을 할 때까지 단 한번도 트로피를 들어 올리지 못하게 되었다. 1950년에는 FA컵 결승전까지 오르게 되지만 [아스널에게](https://ko.wikipedia.org/wiki/아스널_FC "wikilink") 패하게 되었다. 이후 리버풀은 급격한 하락세를 보이며 1954년 다시 2부리그로 강등되는 수모를 겪었다. \[4\]
+리버풀은 1921 - 22, 22 - 23 두시즌 연속 리그 우승을 차지 하였지만 그 이후 1947년 5번째 리그 우승을 할 때까지 단 한번도 트로피를 들어 올리지 못하게 되었다. 1950년에는 FA컵 결승전까지 오르게 되지만 [아스널에게](../Page/아스널_FC.md "wikilink") 패하게 되었다. 이후 리버풀은 급격한 하락세를 보이며 1954년 다시 2부리그로 강등되는 수모를 겪었다. \[4\]
 
 ### 전설 빌 섕클리와 밥 페이즐리 그리고 리버풀 왕조
 
@@ -47,7 +47,7 @@
 
 과거 1960년대에서 1980년대까지 리버풀의 코칭 스태프들이 작전 구상을 하고 또 진이라고 하는 술을 팔기도 했었던 [안필드 붓 룸에서](https://ko.wikipedia.org/wiki/안필드_붓_룸 "wikilink") 성공적인 감독들이 많이 나왔다.\[9\] 조 페이건 감독 또한 섕클리와 페이즐리 감독이 해낸 것을 물려받아 첫 시즌인 83 - 84시즌에 리그와 리그 컵, 유로피언 컵을 우승을 석권하게 되었다.\[10\] 트레블이라 불릴 수도 있겠지만 리그 컵은 FA컵에 비해 권위가 떨어지는 대회라 여겼기 때문에 사실상 트레블이라 불리지 못했다.
 
-1984-85 시즌에는 리그 우승은 못했지만 유러피언 컵 결승에 또다시 진출해 통산 5번째 우승에 도전하게 되었다. 1985년 유러피언컵 결승에서의 리버풀의 상대는 이탈리아의 명문클럽 [유벤투스였다](https://ko.wikipedia.org/wiki/유벤투스_FC "wikilink"). [벨기에](../Page/벨기에.md "wikilink")의 [헤이젤 스타디움에서](https://ko.wikipedia.org/wiki/헤이젤_스타디움 "wikilink") 열린 이 결승전에서 킥오프가 되기 전부터 이미 재앙은 시작되고 있었다. 양팀 서포터들이 서로를 향해 이것저것 던지고 있었고 그것이 심화되어 리버풀 [훌리건](../Page/훌리건.md "wikilink")들이 양팀 서포터들을 분리시켜놓은 펜스를 넘어 유벤투스 서포터들을 마구 공격하였다. 성난 리버풀 훌리건들에게 겁을 먹은 유벤투스 서포터들은 코너쪽의 벽으로 도망갔고 일부는 벽을 타고 경기장 밖으로 도망치려 했으나 벽이 낡고 오래되어 무게를 이기지 못해 그대로 무너져 버려 39명이 사망하고, 600여 명이 부상을 입는 대참사가 발생하게 되었다.
+1984-85 시즌에는 리그 우승은 못했지만 유러피언 컵 결승에 또다시 진출해 통산 5번째 우승에 도전하게 되었다. 1985년 유러피언컵 결승에서의 리버풀의 상대는 이탈리아의 명문클럽 [유벤투스였다](../Page/유벤투스_FC.md "wikilink"). [벨기에](../Page/벨기에.md "wikilink")의 [헤이젤 스타디움에서](https://ko.wikipedia.org/wiki/헤이젤_스타디움 "wikilink") 열린 이 결승전에서 킥오프가 되기 전부터 이미 재앙은 시작되고 있었다. 양팀 서포터들이 서로를 향해 이것저것 던지고 있었고 그것이 심화되어 리버풀 [훌리건](../Page/훌리건.md "wikilink")들이 양팀 서포터들을 분리시켜놓은 펜스를 넘어 유벤투스 서포터들을 마구 공격하였다. 성난 리버풀 훌리건들에게 겁을 먹은 유벤투스 서포터들은 코너쪽의 벽으로 도망갔고 일부는 벽을 타고 경기장 밖으로 도망치려 했으나 벽이 낡고 오래되어 무게를 이기지 못해 그대로 무너져 버려 39명이 사망하고, 600여 명이 부상을 입는 대참사가 발생하게 되었다.
 
 이에 개의치 않고 경기는 지속 되었으며 리버풀은 결국 유벤투스에게 패하게 되었다. 결국 경기에서 져 우승도 놓치고 응원문화에 있어서도 비극을 불러 일으키게 된 셈이었다. 이 비극적 사건에 대해서 UEFA가 직접 나서 '잉글랜드의 모든 클럽은 향후 5년간 모든 유럽대회에 참가할 수 없으며, 비극을 일으킨 장본인인 리버풀에 대해서만 10년으로 늘린다'는 내용의 중징계가 발표되었다. 하지만 이후 6년으로 줄게 되었다. 그리고 그날 난동을 일으킨 리버풀 훌리건들 중 14명에 대해서는 유죄가 선고되었고\[11\] 페이건 감독은 대참사 후 사임을 하게 되었다.\[12\]
 
@@ -77,7 +77,7 @@
 
 06-07시즌 리버풀은 다시 챔피언스리그 결승에 진출해 05년과 똑같이 AC 밀란을 상대하게 되지만 이번엔 패하게 되었다.\[22\]
 
-07-08시즌을 거쳐 08-09시즌에는 당시 [맨체스터 유나이티드 FC](../Page/맨체스터_유나이티드_FC.md "wikilink"), [아스널 FC](https://ko.wikipedia.org/wiki/아스널_FC "wikilink"), [첼시 FC](../Page/첼시_FC.md "wikilink") 등 당시 빅4에 속한 강팀들과의 경기에서 4승 2무라는 좋은 성적을 거두었지만 약팀과의 경기에서 무승부가 속출해 아쉽게 19년만의 우승 기회를 놓치고 준우승에 그쳤고 09-10 시즌에는 7위로 챔피언스리그 진출에 실패하였다.
+07-08시즌을 거쳐 08-09시즌에는 당시 [맨체스터 유나이티드 FC](../Page/맨체스터_유나이티드_FC.md "wikilink"), [아스널 FC](../Page/아스널_FC.md "wikilink"), [첼시 FC](../Page/첼시_FC.md "wikilink") 등 당시 빅4에 속한 강팀들과의 경기에서 4승 2무라는 좋은 성적을 거두었지만 약팀과의 경기에서 무승부가 속출해 아쉽게 19년만의 우승 기회를 놓치고 준우승에 그쳤고 09-10 시즌에는 7위로 챔피언스리그 진출에 실패하였다.
 
 ### 암흑기
 
@@ -93,7 +93,7 @@
 
 ### 위르겐 클롭의 취임
 
-2015-16 시즌 전, 리버풀은 [크리스티안 벤테케](https://ko.wikipedia.org/wiki/크리스티안_벤테케 "wikilink"), [대니 잉스](../Page/대니_잉스.md "wikilink"), [나다니엘 클라인](https://ko.wikipedia.org/wiki/나다니엘_클라인 "wikilink"), [호베르투 피르미누](../Page/호베르투_피르미누.md "wikilink"), [제임스 밀너](../Page/제임스_밀너.md "wikilink"), [조 고메스](https://ko.wikipedia.org/wiki/조_고메스 "wikilink"), [아담 보그단](https://ko.wikipedia.org/wiki/아담_보그단 "wikilink") 등을 영입하며 새 시즌에 대한 기대를 키워나갔고, 개막 이후 [스토크 시티](https://ko.wikipedia.org/wiki/스토크_시티 "wikilink"), [AFC 본머스](../Page/AFC_본머스.md "wikilink"), [아스널 FC를](https://ko.wikipedia.org/wiki/아스널_FC "wikilink") 상대한 세 경기에서 전 경기 클린시트와 2승 1무라는 좋은 성적을 거두면서 이에 화답하는 듯 했지만, 이후 벌어진 [웨스트 햄 유나이티드 FC](https://ko.wikipedia.org/wiki/웨스트_햄_유나이티드_FC "wikilink") 전과 [맨체스터 유나이티드 FC와의](../Page/맨체스터_유나이티드_FC.md "wikilink") 경기에서 여섯 골을 내주고 크게 패하며 [브랜든 로저스](https://ko.wikipedia.org/wiki/브랜든_로저스 "wikilink") 감독에 대한 경질 여론이 날로 커져만 갔고, [애스턴 빌라 FC와의](../Page/애스턴_빌라_FC.md "wikilink") 경기에서 밀너의 데뷔골과 스터리지의 멀티골로 숨을 돌리나 싶었지만, [에버턴 FC와의](https://ko.wikipedia.org/wiki/에버턴_FC "wikilink") 경기에서 [대니 잉스의](../Page/대니_잉스.md "wikilink") 선제골로 1-0으로 앞서갔으나 수비수 [엠레 잔의](../Page/엠레_잔.md "wikilink") 결정적인 실수로 무승부를 거두게 되고, 결국 [브랜든 로저스](https://ko.wikipedia.org/wiki/브랜든_로저스 "wikilink") 감독은 경질되었다.
+2015-16 시즌 전, 리버풀은 [크리스티안 벤테케](https://ko.wikipedia.org/wiki/크리스티안_벤테케 "wikilink"), [대니 잉스](../Page/대니_잉스.md "wikilink"), [나다니엘 클라인](https://ko.wikipedia.org/wiki/나다니엘_클라인 "wikilink"), [호베르투 피르미누](../Page/호베르투_피르미누.md "wikilink"), [제임스 밀너](../Page/제임스_밀너.md "wikilink"), [조 고메스](https://ko.wikipedia.org/wiki/조_고메스 "wikilink"), [아담 보그단](https://ko.wikipedia.org/wiki/아담_보그단 "wikilink") 등을 영입하며 새 시즌에 대한 기대를 키워나갔고, 개막 이후 [스토크 시티](https://ko.wikipedia.org/wiki/스토크_시티 "wikilink"), [AFC 본머스](../Page/AFC_본머스.md "wikilink"), [아스널 FC를](../Page/아스널_FC.md "wikilink") 상대한 세 경기에서 전 경기 클린시트와 2승 1무라는 좋은 성적을 거두면서 이에 화답하는 듯 했지만, 이후 벌어진 [웨스트 햄 유나이티드 FC](https://ko.wikipedia.org/wiki/웨스트_햄_유나이티드_FC "wikilink") 전과 [맨체스터 유나이티드 FC와의](../Page/맨체스터_유나이티드_FC.md "wikilink") 경기에서 여섯 골을 내주고 크게 패하며 [브랜든 로저스](https://ko.wikipedia.org/wiki/브랜든_로저스 "wikilink") 감독에 대한 경질 여론이 날로 커져만 갔고, [애스턴 빌라 FC와의](../Page/애스턴_빌라_FC.md "wikilink") 경기에서 밀너의 데뷔골과 스터리지의 멀티골로 숨을 돌리나 싶었지만, [에버턴 FC와의](https://ko.wikipedia.org/wiki/에버턴_FC "wikilink") 경기에서 [대니 잉스의](../Page/대니_잉스.md "wikilink") 선제골로 1-0으로 앞서갔으나 수비수 [엠레 잔의](../Page/엠레_잔.md "wikilink") 결정적인 실수로 무승부를 거두게 되고, 결국 [브랜든 로저스](https://ko.wikipedia.org/wiki/브랜든_로저스 "wikilink") 감독은 경질되었다.
 
 리버풀은 로저스의 경질 이후 후임자로 [마인츠 05와](https://ko.wikipedia.org/wiki/마인츠_05 "wikilink") [보루시아 도르트문트에서](../Page/보루시아_도르트문트.md "wikilink") 뛰어난 지도력을 보여주었던 [위르겐 클롭을](https://ko.wikipedia.org/wiki/위르겐_클롭 "wikilink") 2015년 10월 9일 감독으로 선임하였다. 10월 17일 열린 클롭 체제에서의 첫 경기인 [토트넘](../Page/토트넘_홋스퍼_FC.md "wikilink") 원정에서 0-0 무승부를 거두었다. 이후 31일엔 [첼시를](../Page/첼시_FC.md "wikilink") 상대로 3-1 승리를 거두었으며 11월 22일엔 [맨체스터 시티에](../Page/맨체스터_시티_FC.md "wikilink") 4-1 승리를 거두었다. 그러나 시즌 중간에 들어온 클롭은 리빌딩을 하지 못하는 상황이었고, 결국 팀은 클롭의 고유전술인 게겐프레싱에 잘 적응하지 못하고 8위에 머문다.
 
@@ -113,11 +113,11 @@
 
 리버풀의 원정 유니폼은 전통적으로 흰색 상의에 검정색 하의이거나 모두 노란색이기도 했었다. 그러나 1987년, 상·하의 모두 회색의 유니폼이 소개되었고, 1991 - 92시즌까지 사용되었다. 가끔 녹색 상의와 흰색 하의 유니폼도 입었었다. 1990년대에 금색과 짙은 감색, 밝은 노란색, 검정색과 회색, 베이지색 등등 여러가지 색상 조합이 있었고 2009년에 이르기까지 회색 유니폼과 노란색, 흰색 유니폼을 번갈아가며 사용하고 있다.\[24\] 현재 리버풀의 유니폼은 \[뉴발란스\]가 디자인 하고 있으며 과거 85년부터 96년까지 리버풀 유니폼을 디자인 하기도 했었다. 다른 회사들은 [엄브로](../Page/엄브로.md "wikilink")가 85년까지 였고 [리복](../Page/리복.md "wikilink")이 96년부터 10년 동안 리버풀의 유니폼을 제작한 바 있다.\[25\] 제3의 유니폼인 청록색 상의와 검정색 하의는 원래 챔피언스리그 원정 경기를 위해 제작되었다. 하지만 현재 자국에서 벌어지는 경기는 거의 빨간색과 회색 유니폼을 입고 있다.\[26\]
 
-한편 유니폼에 기업 스폰서를 새겨넣은 팀은 리버풀이 최초였다.\[27\] 1979년, [히타치와](https://ko.wikipedia.org/wiki/히타치_제작소 "wikilink") 계약을 맺은 뒤, 크라운 페인트와 [캔디](https://ko.wikipedia.org/wiki/캔디 "wikilink") 그리고 [칼스버그](https://ko.wikipedia.org/wiki/칼스버그 "wikilink")가 뒤를 이었다. 특히 칼스버그와는 1992년 처음 계약을 맺고 2010년까지 이어져 왔고 지금은 금융그룹인 스탠다드 차타드와 계약을 맺고 있다.\[28\] 현재 리버풀의 엠블럼은 방패안에 시의 상징 리버 버드가 있는 것을 기초로 하고 있으며 방패위에는 [섕클리 게이츠에](https://ko.wikipedia.org/wiki/섕클리_게이츠 "wikilink") 써 있는 리버풀의 유명한 응원가인 **[You'll Never Walk Alone](https://ko.wikipedia.org/wiki/You'll_Never_Walk_Alone "wikilink")**문구가 표현되어 있다. 또한 양쪽의 불꽃은 안필드 밖에 있는 힐스보로 참사 기념비에 있는 [성화](https://ko.wikipedia.org/wiki/성화 "wikilink")를 표현한 것이며, 그 타오르는 성화는 힐스보로 참사때 사망한 이들을 기리기 위한 것이다.\[29\]
+한편 유니폼에 기업 스폰서를 새겨넣은 팀은 리버풀이 최초였다.\[27\] 1979년, [히타치와](../Page/히타치_제작소.md "wikilink") 계약을 맺은 뒤, 크라운 페인트와 [캔디](https://ko.wikipedia.org/wiki/캔디 "wikilink") 그리고 [칼스버그](https://ko.wikipedia.org/wiki/칼스버그 "wikilink")가 뒤를 이었다. 특히 칼스버그와는 1992년 처음 계약을 맺고 2010년까지 이어져 왔고 지금은 금융그룹인 스탠다드 차타드와 계약을 맺고 있다.\[28\] 현재 리버풀의 엠블럼은 방패안에 시의 상징 리버 버드가 있는 것을 기초로 하고 있으며 방패위에는 [섕클리 게이츠에](https://ko.wikipedia.org/wiki/섕클리_게이츠 "wikilink") 써 있는 리버풀의 유명한 응원가인 **[You'll Never Walk Alone](../Page/You'll_Never_Walk_Alone.md "wikilink")**문구가 표현되어 있다. 또한 양쪽의 불꽃은 안필드 밖에 있는 힐스보로 참사 기념비에 있는 [성화](https://ko.wikipedia.org/wiki/성화 "wikilink")를 표현한 것이며, 그 타오르는 성화는 힐스보로 참사때 사망한 이들을 기리기 위한 것이다.\[29\]
 
 ## 경기장
 
-[섬네일와의](https://ko.wikipedia.org/wiki/파일:Anfield-Haifa.JPG "wikilink") 경기. 1994년에 재개조한 이후의 스피온 콥 스탠드의 모습이다.\]\] 안필드 스타디움은 1884년 [영국](../Page/영국.md "wikilink") [리버풀](https://ko.wikipedia.org/wiki/리버풀 "wikilink") [스탠리 파크](https://ko.wikipedia.org/wiki/스탠리_파크_\(리버풀\) "wikilink") 근처에 지어졌다. 당시에는 [에버턴 축구 클럽이](https://ko.wikipedia.org/wiki/에버턴_FC "wikilink") 사용하였다.\[30\] 1892년 경기장 임대료 문제 때문에 에버턴 축구 클럽은 안필드 경기장을 떠났다. 안필드 구장의 소유주였던 [존 호울딩이](https://ko.wikipedia.org/wiki/존_호울딩 "wikilink") 새로이 팀을 창단했는데, 그것이 바로 리버풀 축구 클럽이다. 당시에는 안필드 수용규모가 2만 명 정도였지만, 리버풀 팀 창단후 첫 안필드 홈 경기에서 들어온 관중수는 고작 100명이었다.\[31\]
+[섬네일와의](https://ko.wikipedia.org/wiki/파일:Anfield-Haifa.JPG "wikilink") 경기. 1994년에 재개조한 이후의 스피온 콥 스탠드의 모습이다.\]\] 안필드 스타디움은 1884년 [영국](../Page/영국.md "wikilink") [리버풀](../Page/리버풀.md "wikilink") [스탠리 파크](https://ko.wikipedia.org/wiki/스탠리_파크_\(리버풀\) "wikilink") 근처에 지어졌다. 당시에는 [에버턴 축구 클럽이](https://ko.wikipedia.org/wiki/에버턴_FC "wikilink") 사용하였다.\[30\] 1892년 경기장 임대료 문제 때문에 에버턴 축구 클럽은 안필드 경기장을 떠났다. 안필드 구장의 소유주였던 [존 호울딩이](https://ko.wikipedia.org/wiki/존_호울딩 "wikilink") 새로이 팀을 창단했는데, 그것이 바로 리버풀 축구 클럽이다. 당시에는 안필드 수용규모가 2만 명 정도였지만, 리버풀 팀 창단후 첫 안필드 홈 경기에서 들어온 관중수는 고작 100명이었다.\[31\]
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Anfield_Stadium_2426620378_2cfbe0b700_b.jpg "wikilink")
 
@@ -151,7 +151,7 @@
 
 잉글랜드 축구에서 가장 성공적인 팀 중 하나인 리버풀은 영국 문화에서 축구를 묘사할 때 종종 특징적으로 삼기도 했었고 미디어에 처음으로 나오기도 했었다. 리버풀은 [BBC](https://ko.wikipedia.org/wiki/BBC "wikilink")의 [매치 오브 더 데이의](https://ko.wikipedia.org/wiki/매치_오브_더_데이 "wikilink") 첫 방송에서 1964년 8월 22일, 안필드에서 벌어진 아스널과의 경기가 하이라이트로 방송이 되었다. 또한 리버풀은 웨스트 햄과의 경기에서 컬러 TV 방송으로 처음 생중계가 되기도 하였다.\[62\]
 
-영국의 [락](https://ko.wikipedia.org/wiki/록 "wikilink") 밴드인 [핑크 플로이드가](https://ko.wikipedia.org/wiki/핑크_플로이드 "wikilink") 부른 피어리스(Fearless)에는 리버풀 팬들의 응원가인 You'll Never Walk Alone을 부르는 리버풀 팬들이 나오기도 한다.\[63\] 리버풀은 1988년, '안필드 랩(Anfield Rap)'이란 랩을 발표하게 된다. 이 랩은 1988년 FA컵 결승전, [윔블던 FC와의](../Page/윔블던_FC.md "wikilink") 경기에서 [존 반스가](../Page/존_반스.md "wikilink") 다른 선수들과 같이 부르게 되었다.\[64\]
+영국의 [락](https://ko.wikipedia.org/wiki/록 "wikilink") 밴드인 [핑크 플로이드가](../Page/핑크_플로이드.md "wikilink") 부른 피어리스(Fearless)에는 리버풀 팬들의 응원가인 You'll Never Walk Alone을 부르는 리버풀 팬들이 나오기도 한다.\[63\] 리버풀은 1988년, '안필드 랩(Anfield Rap)'이란 랩을 발표하게 된다. 이 랩은 1988년 FA컵 결승전, [윔블던 FC와의](../Page/윔블던_FC.md "wikilink") 경기에서 [존 반스가](../Page/존_반스.md "wikilink") 다른 선수들과 같이 부르게 되었다.\[64\]
 
 1996년, 리버풀 출신의 텔레비전 작가인 [지미 맥고번에](https://ko.wikipedia.org/wiki/지미_맥고번 "wikilink") 의해 힐스보로 참사가 다큐멘터리 드라마로 제작되게 된다. 각본에 짜여진 이야기긴 하지만 드라마 [닥터 후의](../Page/닥터_후.md "wikilink") 아홉 번째 닥터로 출연하기도 했었던 [크리스토퍼 에클레스턴이](https://ko.wikipedia.org/wiki/크리스토퍼_에클레스턴 "wikilink") 트레버 힉스역으로 출연을 하였는데, 힉스는 그때의 참사로 십대의 두 딸을 잃게 되고, 안전한 경기장을 위한 운동을 벌이면서 힐스보로 유족 지원 모임에 도움을 주는 인물로 묘사된다.\[65\] 또한 리버풀은 리버풀 시를 주 배경으로 찍은 [새뮤얼 잭슨의](https://ko.wikipedia.org/wiki/새뮤얼_잭슨 "wikilink") 영화 [51번째 주](https://ko.wikipedia.org/wiki/51번째_주_\(영화\) "wikilink")(The 51st State)에도 나온다. 전 암살자인 펠릭스 드수자([로버트 칼라일](../Page/로버트_칼라일.md "wikilink"))가 욕심 많은 리버풀의 팬으로 나오며, 영화의 마지막 장면을 리버풀과 맨체스터 유나이티드 경기 때 찍게 된다.\[66\]
 
@@ -167,7 +167,7 @@
 
 리버풀은 1부리그 통산 18번의 우승을 기록했으며, 8번의 리그 컵 우승, 7번의 FA컵 우승이 있다. 리버풀은 1984년과 2001년, 정식 트레블이라 불리기엔 좀 특이한 트레블 경력을 가지고 있다. 트레블은 리그/챔피언스 리그/소속 축구협회 컵(잉글랜드의 경우 FA컵)을 우승해야 정식으로 인정받는데, 리버풀의 경우 1984년은 리그/챔피언스 리그/리그 컵 대회에서 우승했고, 2001년엔 리그 컵/유로파 리그/FA 컵 대회에서 우승했다.
 
-리버풀은 챔피언스리그에서 6번 우승하여 잉글랜드 클럽 중 최다 기록을 갖고 있는데, 유럽 전역을 통틀어서 [레알 마드리드 CF와](../Page/레알_마드리드_CF.md "wikilink") [AC 밀란만이](../Page/AC_밀란.md "wikilink") 리버풀보다 더 많은 우승횟수를 가지고 있다. 리버풀은 2005년에 5번째 챔피언스 리그 우승을 이뤄내며 [UEFA 명예의 뱃지](https://ko.wikipedia.org/wiki/UEFA_명예의_뱃지 "wikilink") 착용 자격을 얻음과 동시에 챔피언스 리그 우승컵을 영구 소장할 수 있게 되었다. 이는 잉글랜드에서는 최초이자 유일한 일이며 유럽의 수많은 축구 클럽 중 리버풀을 제외하고 영예의 배지를 착용할 수 있는 팀은 [레알 마드리드](https://ko.wikipedia.org/wiki/레알_마드리드 "wikilink"), [AFC 아약스](../Page/AFC_아약스.md "wikilink"), [FC 바이에른 뮌헨](../Page/FC_바이에른_뮌헨.md "wikilink"), [AC 밀란](../Page/AC_밀란.md "wikilink"), [FC 바르셀로나](../Page/FC_바르셀로나.md "wikilink") 다섯 팀뿐이다. UEFA컵은 통산 3번의 우승을 기록하며 [유벤투스 FC와](https://ko.wikipedia.org/wiki/유벤투스_FC "wikilink") [FC 인테르나치오날레 밀라노와](../Page/FC_인테르나치오날레_밀라노.md "wikilink") 동률을 기록하고 있다.
+리버풀은 챔피언스리그에서 6번 우승하여 잉글랜드 클럽 중 최다 기록을 갖고 있는데, 유럽 전역을 통틀어서 [레알 마드리드 CF와](../Page/레알_마드리드_CF.md "wikilink") [AC 밀란만이](../Page/AC_밀란.md "wikilink") 리버풀보다 더 많은 우승횟수를 가지고 있다. 리버풀은 2005년에 5번째 챔피언스 리그 우승을 이뤄내며 [UEFA 명예의 뱃지](https://ko.wikipedia.org/wiki/UEFA_명예의_뱃지 "wikilink") 착용 자격을 얻음과 동시에 챔피언스 리그 우승컵을 영구 소장할 수 있게 되었다. 이는 잉글랜드에서는 최초이자 유일한 일이며 유럽의 수많은 축구 클럽 중 리버풀을 제외하고 영예의 배지를 착용할 수 있는 팀은 [레알 마드리드](https://ko.wikipedia.org/wiki/레알_마드리드 "wikilink"), [AFC 아약스](../Page/AFC_아약스.md "wikilink"), [FC 바이에른 뮌헨](../Page/FC_바이에른_뮌헨.md "wikilink"), [AC 밀란](../Page/AC_밀란.md "wikilink"), [FC 바르셀로나](../Page/FC_바르셀로나.md "wikilink") 다섯 팀뿐이다. UEFA컵은 통산 3번의 우승을 기록하며 [유벤투스 FC와](../Page/유벤투스_FC.md "wikilink") [FC 인테르나치오날레 밀라노와](../Page/FC_인테르나치오날레_밀라노.md "wikilink") 동률을 기록하고 있다.
 
 ## 선수단
 
@@ -221,7 +221,7 @@
 
 ## 스태프
 
-*[2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [7월 23일](../Page/7월_23일.md "wikilink") 기준*
+*[2018년](../Page/2018년.md "wikilink") [7월 23일](../Page/7월_23일.md "wikilink") 기준*
 
   - 감독: [위르겐 클로프](../Page/위르겐_클로프.md "wikilink")
   - 일등 수석 코치: 펩 레인더스

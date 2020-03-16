@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ JAS 39 ](https://ko.wikipedia.org/wiki/_JAS_39_).
 
 
-**사브 JAS 39 그리펜**(Saab JAS 39 Gripen, )은 사브(Saab)사와 에릭슨 볼보 셀시우스 사가 합작하여 개발한 [스웨덴](../Page/스웨덴.md "wikilink")의 [4.5세대](https://ko.wikipedia.org/wiki/4세대_전투기 "wikilink") 다목적 전투기이다.
+**사브 JAS 39 그리펜**(Saab JAS 39 Gripen, )은 사브(Saab)사와 에릭슨 볼보 셀시우스 사가 합작하여 개발한 [스웨덴](../Page/스웨덴.md "wikilink")의 [4.5세대](../Page/4세대_전투기.md "wikilink") 다목적 전투기이다.
 
 그리펜은 새로운 지식기반의, 소프트웨어로 조작되는 항공전자 시스템을 사용한다. 최신의 합금재질과 고성능의 항공역학적인 설계, 신뢰성 있는 엔진과 완전히 통합된 시스템을 갖춘 다목적 전투기이다. 스웨덴에서 제작된 그리펜은 요격, 폭격, 정찰 임무수행이 가능한 최초의 전투기이다. [스웨덴어](../Page/스웨덴어.md "wikilink")로 전투기(Jakt)의 J, 공격(Attack)의 A, 정찰(Spaning)의 S 를 약자로 해서 JAS라고 명명했다. 그리펜은 현재 [J 35 드라켄](https://ko.wikipedia.org/wiki/J_35_드라켄 "wikilink") 과 [JA 37 비겐을](https://ko.wikipedia.org/wiki/JA_37_비겐 "wikilink") 교체하였다.
 
@@ -49,7 +49,7 @@
       - 1× 27 mm 마우저 BK-27 기관포
   - 미사일:
       - 6× [AIM-9 사이드와인더](../Page/AIM-9_사이드와인더.md "wikilink")
-      - 4× [AIM-120 암람](https://ko.wikipedia.org/wiki/AIM-120_암람 "wikilink") or [미카 공대공 미사일](../Page/미카_미사일.md "wikilink")
+      - 4× [AIM-120 암람](../Page/AIM-120_암람.md "wikilink") or [미카 공대공 미사일](../Page/미카_미사일.md "wikilink")
       - [AGM-65 메버릭](../Page/AGM-65_메버릭.md "wikilink")
 
 ## 갤러리

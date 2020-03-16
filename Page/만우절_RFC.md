@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ RFC](https://ko.wikipedia.org/wiki/_RFC).
 
 
-[1989년](../Page/1989년.md "wikilink") 이래로 매 년 [만우절](../Page/만우절.md "wikilink")([4월 1일](../Page/4월_1일.md "wikilink"))에는 [국제 인터넷 표준화 기구는](../Page/국제_인터넷_표준화_기구.md "wikilink") 하나 이상의 농담조의 [RFC](https://ko.wikipedia.org/wiki/RFC "wikilink")를 발표하고 있다. 최초의 장난 RFC는 [1973년](../Page/1973년.md "wikilink") 6월의 **ARPAWOCKY**라는 이름의 RFC 527이며, 기타 장난 RFC의 목록은 다음과 같다.
+[1989년](../Page/1989년.md "wikilink") 이래로 매 년 [만우절](../Page/만우절.md "wikilink")([4월 1일](../Page/4월_1일.md "wikilink"))에는 [국제 인터넷 표준화 기구는](../Page/국제_인터넷_표준화_기구.md "wikilink") 하나 이상의 농담조의 [RFC](../Page/RFC.md "wikilink")를 발표하고 있다. 최초의 장난 RFC는 [1973년](../Page/1973년.md "wikilink") 6월의 **ARPAWOCKY**라는 이름의 RFC 527이며, 기타 장난 RFC의 목록은 다음과 같다.
 
 ## 모든 만우절 RFC 및 장난 RFC 목록
 
@@ -21,7 +21,7 @@
   - [1992년](../Page/1992년.md "wikilink") 4월 1일
       - RFC 1313 — *Today's Programming for KRFC AM 1313 Internet Talk Radio*. C. Partridge. (이 RFC의 일부는 쓸모 없어졌다: [콩코드로](../Page/콩코드_\(비행기\).md "wikilink") 비행할 때의 [도플러 효과는](../Page/도플러_효과.md "wikilink") 더 이상 문제가 되지 않는다.)
   - [1993년](../Page/1993년.md "wikilink") 4월 1일
-      - RFC 1437 — *The Extension of [MIME](https://ko.wikipedia.org/wiki/MIME "wikilink") Content-Types to a New Medium*. N. Borenstein, M. Linimon.
+      - RFC 1437 — *The Extension of [MIME](../Page/MIME.md "wikilink") Content-Types to a New Medium*. N. Borenstein, M. Linimon.
       - RFC 1438 — *[Internet Engineering Task Force](https://ko.wikipedia.org/wiki/IETF "wikilink") Statements Of Boredom (SOBs)*. A. Lyman Chapin, C. Huitema.
   - [1994년](../Page/1994년.md "wikilink") 4월 1일
       - RFC 1605 — *[SONET](https://ko.wikipedia.org/wiki/동기식_광_네트워킹 "wikilink") to [Sonnet](../Page/소네트.md "wikilink") Translation*. William Shakespeare.

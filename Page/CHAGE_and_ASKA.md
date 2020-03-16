@@ -11,8 +11,8 @@
   - [2009년](../Page/2009년.md "wikilink") [1월 30일에](../Page/1월_30일.md "wikilink") 무기한 활동 휴지를 발표했다. 그러나, 2013년에 공식 웹 사이트에서 활동 재개를 선언했다.
   - 이 후 [2014년](../Page/2014년.md "wikilink")에 멤버 아스카가 각성제 복용 혐의로 체포되면서 사실상 해산되었다.
   - 아스카는 재판에서 유죄 판결을 받은 후 보석금을 내고 풀려났으나 연예계에서 제명되었으며 차게는 여전히 솔로로 활동중이다.
-  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [12월 19일](../Page/12월_19일.md "wikilink") 아스카는 증거 불충분으로 무죄를 선고받다.
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [2월 22일](../Page/2월_22일.md "wikilink") 앨범 Too Many People 발매로 복귀했다.
+  - [2016년](../Page/2016년.md "wikilink") [12월 19일](../Page/12월_19일.md "wikilink") 아스카는 증거 불충분으로 무죄를 선고받다.
+  - [2017년](../Page/2017년.md "wikilink") [2월 22일](../Page/2월_22일.md "wikilink") 앨범 Too Many People 발매로 복귀했다.
 
 ## 구성원
 

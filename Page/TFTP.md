@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TFTP](https://ko.wikipedia.org/wiki/TFTP).
 
 
-**TFTP** (Trivial File Transfer Protocol)는 [FTP와](../Page/파일_전송_프로토콜.md "wikilink") 마찬가지로 파일을 전송하기 위한 프로토콜이지만, FTP보다 더 단순한 방식으로 파일을 전송한다. 따라서 데이터 전송 과정에서 데이터가 손실될 수 있는 등 불안정하다는 단점을 가지고 있다. 하지만 [FTP처럼](../Page/파일_전송_프로토콜.md "wikilink") 복잡한 [프로토콜을](https://ko.wikipedia.org/wiki/통신_프로토콜 "wikilink") 사용하지 않기 때문에 구현이 간단하다. [임베디드 시스템에서](../Page/임베디드_시스템.md "wikilink") [운영 체제](../Page/운영_체제.md "wikilink") 업로드로 주로 사용된다.
+**TFTP** (Trivial File Transfer Protocol)는 [FTP와](../Page/파일_전송_프로토콜.md "wikilink") 마찬가지로 파일을 전송하기 위한 프로토콜이지만, FTP보다 더 단순한 방식으로 파일을 전송한다. 따라서 데이터 전송 과정에서 데이터가 손실될 수 있는 등 불안정하다는 단점을 가지고 있다. 하지만 [FTP처럼](../Page/파일_전송_프로토콜.md "wikilink") 복잡한 [프로토콜을](../Page/통신_프로토콜.md "wikilink") 사용하지 않기 때문에 구현이 간단하다. [임베디드 시스템에서](../Page/임베디드_시스템.md "wikilink") [운영 체제](../Page/운영_체제.md "wikilink") 업로드로 주로 사용된다.
 
 1981년에 처음 표준화되었다.\[1\]
 
@@ -15,7 +15,7 @@
 
 TFTP는 [1980년](../Page/1980년.md "wikilink")에 처음 등장하였다.
 
-TFTP가 매우 간단했으므로, 매우 작은 양의 [컴퓨터 메모리만을](https://ko.wikipedia.org/wiki/컴퓨터_메모리 "wikilink") 가지고도 TFTP를 구현할 수 있었다.\[2\] 따라서, TFTP는 [라우터](../Page/라우터.md "wikilink")와 같이 [자료 저장 장치가](https://ko.wikipedia.org/wiki/자료_저장_장치 "wikilink") 달려 있지 않은 컴퓨터 장치를 [시동](https://ko.wikipedia.org/wiki/시동 "wikilink")(부팅)하는 데 많이 쓰였다. TFTP는 오늘날까지도 [컴퓨터 네트워크로](https://ko.wikipedia.org/wiki/컴퓨터_네트워크 "wikilink") 물린 호스트 간에 작은 크기의 파일을 주고 받는 데 쓰인다. 네트워크 호스트나 [서버](../Page/서버.md "wikilink")를 이용한 네트워크 시동 절차를 밟는 원격 [X 윈도 시스템](../Page/X_윈도_시스템.md "wikilink") [컴퓨터 터미널이나](https://ko.wikipedia.org/wiki/컴퓨터_터미널 "wikilink") 다른 [신 클라이언트](../Page/신_클라이언트.md "wikilink") 등이 네트워크 시동을 할 경우에 널리 쓰인다.
+TFTP가 매우 간단했으므로, 매우 작은 양의 [컴퓨터 메모리만을](https://ko.wikipedia.org/wiki/컴퓨터_메모리 "wikilink") 가지고도 TFTP를 구현할 수 있었다.\[2\] 따라서, TFTP는 [라우터](../Page/라우터.md "wikilink")와 같이 [자료 저장 장치가](https://ko.wikipedia.org/wiki/자료_저장_장치 "wikilink") 달려 있지 않은 컴퓨터 장치를 [시동](https://ko.wikipedia.org/wiki/시동 "wikilink")(부팅)하는 데 많이 쓰였다. TFTP는 오늘날까지도 [컴퓨터 네트워크로](../Page/컴퓨터_네트워크.md "wikilink") 물린 호스트 간에 작은 크기의 파일을 주고 받는 데 쓰인다. 네트워크 호스트나 [서버](../Page/서버.md "wikilink")를 이용한 네트워크 시동 절차를 밟는 원격 [X 윈도 시스템](../Page/X_윈도_시스템.md "wikilink") [컴퓨터 터미널이나](https://ko.wikipedia.org/wiki/컴퓨터_터미널 "wikilink") 다른 [신 클라이언트](../Page/신_클라이언트.md "wikilink") 등이 네트워크 시동을 할 경우에 널리 쓰인다.
 
 TFTP는 더 예전에 나온 프로토콜인 [EFTP](../Page/EFTP.md "wikilink")에 기반을 두고 있다. [EFTP](../Page/EFTP.md "wikilink")는 [PARC 유니버설 패킷](https://ko.wikipedia.org/wiki/PARC_유니버설_패킷 "wikilink") [프로토콜 모음의](https://ko.wikipedia.org/wiki/프로토콜_모음 "wikilink") 일부였다. [TCP/IP](https://ko.wikipedia.org/wiki/TCP/IP "wikilink") 프로토콜 모음을 한창 개발하고 있을 때, 새로운 호스트 타입에서 가장 먼저 구현되곤 하였던 프로토콜이었다. TFTP가 매우 단순했기 때문에 구현하기가 쉬웠기 때문이었다.
 

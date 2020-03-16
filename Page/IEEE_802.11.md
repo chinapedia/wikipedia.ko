@@ -57,7 +57,7 @@ IEEE 802.11은 현재 주로 쓰이는 유선 LAN 형태인 [이더넷](../Page/
 
 ## 핫스팟
 
-다른말로 AP(Access Point)라고도 불린다. 핫스팟(Hot spot)은 [이더넷 허브와](https://ko.wikipedia.org/wiki/이더넷_허브 "wikilink") 비슷한 역할을 하는 장비로, 하부구조(인프라스트럭처) 네트워크 모델에서 핫스팟 주변에 위치한 무선 클라이언트들을 하나의 네트워크로 묶어 서로 통신할 수 있게 하며, 핫스팟에 연결된 이더넷 회선을 통해 다른 핫스팟, 백본이나 WAN 망으로 연결할 수 있도록 해준다. 각 핫스팟에는 고유의 SSID와 BSSID가 부여되어 있어 클라이언트가 특정한 핫스팟에 연결할 수 있게 도와준다. 하나의 핫스팟은 장애물이 없는 지역에서 최대 100미터, 최대 20여대까지 [네트워크](https://ko.wikipedia.org/wiki/네트워크 "wikilink")를 구성할 수 있다.
+다른말로 AP(Access Point)라고도 불린다. 핫스팟(Hot spot)은 [이더넷 허브와](../Page/이더넷_허브.md "wikilink") 비슷한 역할을 하는 장비로, 하부구조(인프라스트럭처) 네트워크 모델에서 핫스팟 주변에 위치한 무선 클라이언트들을 하나의 네트워크로 묶어 서로 통신할 수 있게 하며, 핫스팟에 연결된 이더넷 회선을 통해 다른 핫스팟, 백본이나 WAN 망으로 연결할 수 있도록 해준다. 각 핫스팟에는 고유의 SSID와 BSSID가 부여되어 있어 클라이언트가 특정한 핫스팟에 연결할 수 있게 도와준다. 하나의 핫스팟은 장애물이 없는 지역에서 최대 100미터, 최대 20여대까지 [네트워크](https://ko.wikipedia.org/wiki/네트워크 "wikilink")를 구성할 수 있다.
 
 ## 하부구조(인프라스트럭처) 네트워크와 애드혹 네트워크
 
@@ -91,7 +91,7 @@ IEEE 802.11 네트워크를 구성하는 장비들은 암호화되지 않은 상
 ## 부가 기능 표준
 
   - [IEEE 802.11d](https://ko.wikipedia.org/wiki/IEEE_802.11d-2001 "wikilink") - 지역 간 로밍용 확장 기술 (2001)
-  - [IEEE 802.11e](../Page/IEEE_802.11e-2005.md "wikilink") - [QoS](https://ko.wikipedia.org/wiki/QoS "wikilink"), 패킷 버스팅 등 기능 확장 기술 (2005)
+  - [IEEE 802.11e](../Page/IEEE_802.11e-2005.md "wikilink") - [QoS](../Page/QoS.md "wikilink"), 패킷 버스팅 등 기능 확장 기술 (2005)
   - [IEEE 802.11f](https://ko.wikipedia.org/wiki/IEEE_802.11f "wikilink") - 인터 엑세스 포인트 프로토콜
   - [IEEE 802.11h](https://ko.wikipedia.org/wiki/IEEE_802.11h "wikilink") - 유럽용 5GHz 대역 전송방식 (2004)
   - [IEEE 802.11i](https://ko.wikipedia.org/wiki/IEEE_802.11i-2004 "wikilink") - 보안 확장 (2004)

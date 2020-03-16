@@ -11,7 +11,7 @@
 
 ### 건설
 
-[1969년](../Page/1969년.md "wikilink") [12월](../Page/12월.md "wikilink"), 이들을 대체하기 위해 남산의 현재 위치에 종합송신소를 위한 220m의 송신탑을 세울 계획을 민방협에서 발표하였다.\[3\] [동아방송](../Page/동아방송.md "wikilink"), [동양방송](https://ko.wikipedia.org/wiki/동양방송 "wikilink"), [문화방송](../Page/문화방송.md "wikilink")의 3개 민간방송의 합작 투자로 설립된 남산타워는 총 233m, 해발 고도 490m로 동양에서 가장 높다고 선전되었다.\[4\]
+[1969년](../Page/1969년.md "wikilink") [12월](../Page/12월.md "wikilink"), 이들을 대체하기 위해 남산의 현재 위치에 종합송신소를 위한 220m의 송신탑을 세울 계획을 민방협에서 발표하였다.\[3\] [동아방송](../Page/동아방송.md "wikilink"), [동양방송](../Page/동양방송.md "wikilink"), [문화방송](../Page/문화방송.md "wikilink")의 3개 민간방송의 합작 투자로 설립된 남산타워는 총 233m, 해발 고도 490m로 동양에서 가장 높다고 선전되었다.\[4\]
 
 [1970년](../Page/1970년.md "wikilink")에 건설을 시작한 남산타워는 건축가 장종률이 설계한 작품으로 내부 시설은 갖추어지지 않은 상태로 [1971년](../Page/1971년.md "wikilink") [12월 3일에](../Page/12월_3일.md "wikilink") 완공되었다. 탑이 세워진 곳은 원래 [조선신궁](../Page/조선신궁.md "wikilink")이 있었던 자리로, 철거하면서 공터로 있다가 안전기획부 청사 등이 세워지면서 같이 세워진 것이다.
 
@@ -316,11 +316,11 @@ N서울타워는 2005년 말부터 자가용이나 [트럭](../Page/트럭.md "w
   - [서울특별시의 마천루 목록](../Page/서울특별시의_마천루_목록.md "wikilink")
   - [세계 거탑 연맹](../Page/세계_거탑_연맹.md "wikilink")
   - [83타워](../Page/83타워.md "wikilink")
-  - [부산타워](https://ko.wikipedia.org/wiki/부산타워 "wikilink")
+  - [부산타워](../Page/부산타워.md "wikilink")
   - [양산타워](../Page/양산타워.md "wikilink")
   - [99강원국제관광엑스포상징탑](https://ko.wikipedia.org/wiki/99강원국제관광엑스포상징탑 "wikilink")
   - [경주타워](../Page/경주타워.md "wikilink")
-  - [CN 타워](https://ko.wikipedia.org/wiki/CN_타워 "wikilink")
+  - [CN 타워](../Page/CN_타워.md "wikilink")
 
 ## 각주
 

@@ -102,7 +102,7 @@
   - [GSh-6-23](https://ko.wikipedia.org/wiki/GSh-6-23 "wikilink") 23mm 기관포 1정 (표준 260발, 최대 800발)
   - 공대공 미사일
       - [빔펠 R-33](../Page/빔펠_R-33.md "wikilink")(AA-9 아모스) 장거리 4발
-      - [빔펠 R-77](https://ko.wikipedia.org/wiki/빔펠_R-77 "wikilink")(AA-12 애더, 암람스키), 중거리 4발
+      - [빔펠 R-77](../Page/빔펠_R-77.md "wikilink")(AA-12 애더, 암람스키), 중거리 4발
       - [비스노바트 R-40](https://ko.wikipedia.org/wiki/비스노바트_R-40 "wikilink")(AA-6 'Acrid') 중거리 2발
       - [빔펠 R-73](../Page/빔펠_R-73.md "wikilink")(AA-11 아처) 단거리 4발
       - [빔펠 R-60](https://ko.wikipedia.org/wiki/빔펠_R-60 "wikilink")(AA-8 아피드) 단거리 4발

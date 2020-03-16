@@ -9,8 +9,8 @@
   - [테라비트](https://ko.wikipedia.org/wiki/테라비트 "wikilink")(Terabit)와 [테라바이트](https://ko.wikipedia.org/wiki/테라바이트 "wikilink")(Terabyte)는 전자 저장 장치의 단위로 사용된다.
   - [테라그램](../Page/킬로그램.md "wikilink")(teragram)은 10<sup>9</sup> [kg이다](../Page/킬로그램.md "wikilink"). [기자의 대피라미드의](../Page/기자의_대피라미드.md "wikilink") 무게는 약 6 Tg이다.
   - [테라초](https://ko.wikipedia.org/wiki/초_\(시간\) "wikilink")(terasecond)는 약 31,558 [년이다](https://ko.wikipedia.org/wiki/태양년 "wikilink").
-  - [테라리터](https://ko.wikipedia.org/wiki/리터 "wikilink")(teralitre)는 10<sup>9</sup>[m](../Page/미터.md "wikilink")<sup>3</sup>이다. [취리히호](../Page/취리히호.md "wikilink")의 물은 약 4 TL이다.
-  - [테라와트](https://ko.wikipedia.org/wiki/와트 "wikilink")(terawatt)는 전세계 전체 전력 소비량을 측정하는 데 사용된다. 2010년 전세계 전력 소비량은 16 TW (TJ/s)이다.
+  - [테라리터](../Page/리터.md "wikilink")(teralitre)는 10<sup>9</sup>[m](../Page/미터.md "wikilink")<sup>3</sup>이다. [취리히호](../Page/취리히호.md "wikilink")의 물은 약 4 TL이다.
+  - [테라와트](../Page/와트.md "wikilink")(terawatt)는 전세계 전체 전력 소비량을 측정하는 데 사용된다. 2010년 전세계 전력 소비량은 16 TW (TJ/s)이다.
   - [테라미터](../Page/미터.md "wikilink")(terametre)는 1,000,000,000 [km이다](https://ko.wikipedia.org/wiki/킬로미터 "wikilink"). 빛은 1시간에 1.079 Tm를 이동한다.
 
 ## 각주

@@ -18,7 +18,7 @@
 
 ## 다른 틀 선언
 
-[틀:Demography 4col](../Page/틀:Demography_4col.md "wikilink") | [틀:Demography 5col](https://ko.wikipedia.org/wiki/틀:Demography_5col "wikilink") | [틀:Demography 6col](../Page/틀:Demography_6col.md "wikilink") | [틀:Demography 7col](../Page/틀:Demography_7col.md "wikilink") | [틀:Demography 12col](../Page/틀:Demography_12col.md "wikilink")
+[틀:Demography 4col](../Page/틀:Demography_4col.md "wikilink") | [틀:Demography 5col](../Page/틀:Demography_5col.md "wikilink") | [틀:Demography 6col](../Page/틀:Demography_6col.md "wikilink") | [틀:Demography 7col](../Page/틀:Demography_7col.md "wikilink") | [틀:Demography 12col](../Page/틀:Demography_12col.md "wikilink")
 
 [](https://ko.wikipedia.org/wiki/분류:인구에_관한_틀 "wikilink")
 

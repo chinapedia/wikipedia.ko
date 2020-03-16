@@ -292,7 +292,7 @@
   - [2010년](../Page/2010년.md "wikilink") [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink") 《아이돌 스타 트로트 청백전》
   - [2010년](../Page/2010년.md "wikilink") [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink") 《[청춘 버라이어티 꽃다발](https://ko.wikipedia.org/wiki/청춘_버라이어티_꽃다발 "wikilink")》
   - [2010년](../Page/2010년.md "wikilink") [온게임넷](https://ko.wikipedia.org/wiki/온게임넷 "wikilink") 《온게임넷 스페셜 - 방탈출3 리얼캠프》
-  - [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [Jtbc](../Page/JTBC.md "wikilink") 《[슈가맨](../Page/투유_프로젝트_-_슈가맨.md "wikilink")》 LPG 1기 & 2기
+  - [2019년](../Page/2019년.md "wikilink") [Jtbc](../Page/JTBC.md "wikilink") 《[슈가맨](../Page/투유_프로젝트_-_슈가맨.md "wikilink")》 LPG 1기 & 2기
 
 ### 영화
 
@@ -313,5 +313,5 @@
 
 1.  2008년 1기 해체 후 미국으로 가면서 멤버들과 연락이 끊겼다고 한다.
 2.
-3.  〈바다의 공주〉는 [대한민국](../Page/대한민국.md "wikilink")의 개그맨 [박명수](https://ko.wikipedia.org/wiki/박명수 "wikilink")의 〈바다의 왕자〉를 리메이크한 곡이다.
+3.  〈바다의 공주〉는 [대한민국](../Page/대한민국.md "wikilink")의 개그맨 [박명수](../Page/박명수.md "wikilink")의 〈바다의 왕자〉를 리메이크한 곡이다.
 4.  〈앵그리〉는 2인조 밴드 욜란다 비 쿨(Yolanda Be Cool)과 디컵(Dcup)의 "We No Speak Americano"를 리메이크한 곡이다.

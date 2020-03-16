@@ -17,37 +17,37 @@
 
 한때 [1987년](../Page/1987년.md "wikilink")에는 《**87 MBC 한국가요대제전**》 [1988년](../Page/1988년.md "wikilink")에는 《**88 MBC 가요대제전**》이라는 이름으로 방송되기도 했었다. 그 이유는 대상 수상자의 불참 때문이었다. 예외로 [1988년](../Page/1988년.md "wikilink")에는 시상식 형태로 진행되었다. 특히 1988년부터 1989년까지 [장충체육관](../Page/장충체육관.md "wikilink")에서 방송했다.
 
-그리고 [1993년](../Page/1993년.md "wikilink")부터 [1995년](../Page/1995년.md "wikilink")까지는 《**MBC 한국가요제전**》이라는 이름으로, [1996년](../Page/1996년.md "wikilink")부터 [1997년](../Page/1997년.md "wikilink")까지는 《**MBC 한국가요대제전**》이라는 이름으로 방송되었다. '93년에는 청백전 형식으로 진행되었으며, '94년 최고 인기 가요상은 [김건모](../Page/김건모.md "wikilink")의 〈핑계〉가, '95년 최고 인기 가요상은 [서태지와 아이들의](https://ko.wikipedia.org/wiki/서태지와_아이들 "wikilink") 컴백홈이 차지하였다. '96년에는 60년대부터 90년대까지의 대중가요 및 통일 노래 베스트 5를 소개하였고, '97년에는 축제 형식으로 진행되었다. '98년에는 《**98 MBC 가요제전**》이라는 이름으로 30세 이상, 30세 미만으로 구분하여 최고 인기 가수상을 시상하였다. 30세 이상 최고 인기 가수상은 [김종환이](../Page/김종환_\(가수\).md "wikilink"), 30세 미만 최고 인기 가수상은 H.O.T.가 차지하였다.
+그리고 [1993년](../Page/1993년.md "wikilink")부터 [1995년](../Page/1995년.md "wikilink")까지는 《**MBC 한국가요제전**》이라는 이름으로, [1996년](../Page/1996년.md "wikilink")부터 [1997년](../Page/1997년.md "wikilink")까지는 《**MBC 한국가요대제전**》이라는 이름으로 방송되었다. '93년에는 청백전 형식으로 진행되었으며, '94년 최고 인기 가요상은 [김건모](../Page/김건모.md "wikilink")의 〈핑계〉가, '95년 최고 인기 가요상은 [서태지와 아이들의](../Page/서태지와_아이들.md "wikilink") 컴백홈이 차지하였다. '96년에는 60년대부터 90년대까지의 대중가요 및 통일 노래 베스트 5를 소개하였고, '97년에는 축제 형식으로 진행되었다. '98년에는 《**98 MBC 가요제전**》이라는 이름으로 30세 이상, 30세 미만으로 구분하여 최고 인기 가수상을 시상하였다. 30세 이상 최고 인기 가수상은 [김종환이](../Page/김종환_\(가수\).md "wikilink"), 30세 미만 최고 인기 가수상은 H.O.T.가 차지하였다.
 
 1990년부터 1993년까지는 [잠실실내체육관](../Page/잠실실내체육관.md "wikilink")에서, 1994년부터 1995년까지는 KBS 88 체육관에서, 1996년에는 [올림픽체조경기장](../Page/올림픽체조경기장.md "wikilink")에서, 1997년부터 1998년까지는 [장충체육관](../Page/장충체육관.md "wikilink")에서 방송하였으며, 1999년에는 [잠실학생체육관](../Page/잠실학생체육관.md "wikilink")에서 방송하였고, 2000부터 2005년까지는 [장충체육관](../Page/장충체육관.md "wikilink")에서 방송하였으며, 2011년에는 [광명스피돔](https://ko.wikipedia.org/wiki/광명스피돔 "wikilink")에서 방송하였다.
 
-매년 [12월 31일에](../Page/12월_31일.md "wikilink") 열리는 제야의 종 타종 실황은 [2000년](../Page/2000년.md "wikilink")부터 [2007년](../Page/2007년.md "wikilink")까지 생방송 도중에 종로 보신각을 연결해 중계하고 있으나, [2005년](../Page/2005년.md "wikilink") 《**MBC 가요대제전**》으로 바뀐 이후 [2009년](../Page/2009년.md "wikilink")부터 [2015년](../Page/2015년.md "wikilink")까지, 그리고 [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink")에 다시 생방송 도중에 종로 보신각을 연결해 중계하였다.
+매년 [12월 31일에](../Page/12월_31일.md "wikilink") 열리는 제야의 종 타종 실황은 [2000년](../Page/2000년.md "wikilink")부터 [2007년](../Page/2007년.md "wikilink")까지 생방송 도중에 종로 보신각을 연결해 중계하고 있으나, [2005년](../Page/2005년.md "wikilink") 《**MBC 가요대제전**》으로 바뀐 이후 [2009년](../Page/2009년.md "wikilink")부터 [2015년](../Page/2015년.md "wikilink")까지, 그리고 [2017년](../Page/2017년.md "wikilink")에 다시 생방송 도중에 종로 보신각을 연결해 중계하였다.
 
 ## 역대 MC
 
-| 방송년도                                                    | 공식 MC                                                                                                                                                                                                                                                                                               | 장소                            |
-| ------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
-| [1999년](../Page/1999년.md "wikilink")                    | [주병진](../Page/주병진.md "wikilink"), [이소라](../Page/이소라_\(모델\).md "wikilink")                                                                                                                                                                                                                           | 잠실학생체육관                       |
-| [2000년](../Page/2000년.md "wikilink")                    | [류시원](../Page/류시원.md "wikilink")                                                                                                                                                                                                                                                                    | 장충동 장충체육관                     |
-| [2001년](../Page/2001년.md "wikilink")                    | [신동호](../Page/신동호_\(아나운서\).md "wikilink"), [소유진](../Page/소유진.md "wikilink")                                                                                                                                                                                                                         |                               |
-| [2002년](../Page/2002년.md "wikilink")                    | [김용만](../Page/김용만_\(희극인\).md "wikilink"), [장서희](../Page/장서희.md "wikilink"), [강호동](../Page/강호동.md "wikilink")                                                                                                                                                                                        |                               |
-| [2003년](../Page/2003년.md "wikilink")                    | [김용만](../Page/김용만_\(희극인\).md "wikilink"), [하지원](../Page/하지원.md "wikilink")                                                                                                                                                                                                                          |                               |
-| [2004년](../Page/2004년.md "wikilink")                    | [김용만](../Page/김용만_\(희극인\).md "wikilink"), [한지혜](https://ko.wikipedia.org/wiki/한지혜 "wikilink"), [한예슬](../Page/한예슬.md "wikilink")                                                                                                                                                                     |                               |
-| [2005년](../Page/2005년.md "wikilink")                    | [김용만](../Page/김용만_\(희극인\).md "wikilink"), [유재석](https://ko.wikipedia.org/wiki/유재석 "wikilink")                                                                                                                                                                                                       |                               |
-| [2006년](../Page/2006년.md "wikilink")                    | [김성주](../Page/김성주_\(방송인\).md "wikilink"), [김제동](../Page/김제동.md "wikilink")                                                                                                                                                                                                                          | 사목리 임진각 내 평화누리공원              |
-| [2007년](../Page/2007년.md "wikilink")                    | [유재석](https://ko.wikipedia.org/wiki/유재석 "wikilink"), [정형돈](../Page/정형돈.md "wikilink"), [정준하](../Page/정준하.md "wikilink"), [박명수](https://ko.wikipedia.org/wiki/박명수 "wikilink"), [노홍철](../Page/노홍철.md "wikilink"), [하하](https://ko.wikipedia.org/wiki/하하 "wikilink"), [윤은혜](../Page/윤은혜.md "wikilink") | MBC 일산 드림센터, 사목리 임진각 내 평화누리공원 |
-| [2008년](../Page/2008년.md "wikilink")                    | [김구라](../Page/김구라.md "wikilink"), [김민정](../Page/김민정_\(1982년\).md "wikilink"), [유세윤](../Page/유세윤.md "wikilink"), [윤종신](../Page/윤종신.md "wikilink")                                                                                                                                                    |                               |
-| [2009년](../Page/2009년.md "wikilink")                    | [김구라](../Page/김구라.md "wikilink"), [이보영](../Page/이보영_\(배우\).md "wikilink"), [신정환](../Page/신정환.md "wikilink")                                                                                                                                                                                         |                               |
-| [2010년](../Page/2010년.md "wikilink")                    | [류시원](../Page/류시원.md "wikilink"), [티파니](../Page/티파니_영.md "wikilink"), [유리](../Page/유리_\(1989년\).md "wikilink")                                                                                                                                                                                      | MBC 일산 드림센터                   |
-| [2011년](../Page/2011년.md "wikilink")                    | [조권](../Page/조권.md "wikilink"), [가인](../Page/가인.md "wikilink"), [이특](../Page/이특.md "wikilink"), [강소라](../Page/강소라.md "wikilink"), [닉쿤](../Page/닉쿤.md "wikilink"), [빅토리아](../Page/빅토리아_\(가수\).md "wikilink"), [이장우](../Page/이장우_\(배우\).md "wikilink"), [은정](../Page/은정_\(가수\).md "wikilink")         | 광명 스피돔, MBC 일산 드림센터           |
-| [2012년](../Page/2012년.md "wikilink")                    | [이휘재](../Page/이휘재.md "wikilink"), [서현](../Page/서현_\(가수\).md "wikilink"), [붐](../Page/붐_\(방송인\).md "wikilink"), [이준](../Page/이준_\(배우\).md "wikilink")                                                                                                                                                | MBC 일산 드림센터, 사목리 임진각 내 평화누리공원 |
-| [2013년](../Page/2013년.md "wikilink")                    | [김성주](../Page/김성주_\(방송인\).md "wikilink"), [박형식](../Page/박형식.md "wikilink"), [클라라](../Page/클라라_\(배우\).md "wikilink"), [정준하](../Page/정준하.md "wikilink"), [노홍철](../Page/노홍철.md "wikilink")                                                                                                             | MBC 일산 드림센터                   |
-| [2014년](../Page/2014년.md "wikilink")                    | [김성주](../Page/김성주_\(방송인\).md "wikilink"), [혜리](../Page/혜리.md "wikilink"), [이유리](../Page/이유리.md "wikilink"), [전현무](../Page/전현무.md "wikilink"), [소유](../Page/소유_\(가수\).md "wikilink")                                                                                                                 | MBC 일산 드림센터, 상암동 MBC 본사 광장    |
-| [2015년](../Page/2015년.md "wikilink")                    | [김성주](../Page/김성주_\(방송인\).md "wikilink"), [윤아](../Page/윤아.md "wikilink")                                                                                                                                                                                                                            | MBC 일산 드림센터, 상암동 MBC 공개홀      |
-| [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") | 일산 MBC 드림센터 공개홀, 상암동 MBC 공개홀, 강남 영동대로                                                                                                                                                                                                                                                               |                               |
-| [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") | [수호](../Page/수호_\(가수\).md "wikilink"), [윤아](../Page/윤아.md "wikilink"), [차은우](https://ko.wikipedia.org/wiki/차은우 "wikilink")                                                                                                                                                                          | MBC 일산 드림센터                   |
-| [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") | [노홍철](../Page/노홍철.md "wikilink"), [윤아](../Page/윤아.md "wikilink"), [민호](../Page/민호.md "wikilink"), [차은우](https://ko.wikipedia.org/wiki/차은우 "wikilink")                                                                                                                                               | MBC 일산 드림센터, 상암동 MBC 공개홀      |
-| [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") | [장성규](../Page/장성규.md "wikilink"), [윤아](../Page/윤아.md "wikilink"), [차은우](https://ko.wikipedia.org/wiki/차은우 "wikilink")                                                                                                                                                                               | MBC 일산 드림센터                   |
+| 방송년도                                 | 공식 MC                                                                                                                                                                                                                                                                                       | 장소                            |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
+| [1999년](../Page/1999년.md "wikilink") | [주병진](../Page/주병진.md "wikilink"), [이소라](../Page/이소라_\(모델\).md "wikilink")                                                                                                                                                                                                                   | 잠실학생체육관                       |
+| [2000년](../Page/2000년.md "wikilink") | [류시원](../Page/류시원.md "wikilink")                                                                                                                                                                                                                                                            | 장충동 장충체육관                     |
+| [2001년](../Page/2001년.md "wikilink") | [신동호](../Page/신동호_\(아나운서\).md "wikilink"), [소유진](../Page/소유진.md "wikilink")                                                                                                                                                                                                                 |                               |
+| [2002년](../Page/2002년.md "wikilink") | [김용만](../Page/김용만_\(희극인\).md "wikilink"), [장서희](../Page/장서희.md "wikilink"), [강호동](../Page/강호동.md "wikilink")                                                                                                                                                                                |                               |
+| [2003년](../Page/2003년.md "wikilink") | [김용만](../Page/김용만_\(희극인\).md "wikilink"), [하지원](../Page/하지원.md "wikilink")                                                                                                                                                                                                                  |                               |
+| [2004년](../Page/2004년.md "wikilink") | [김용만](../Page/김용만_\(희극인\).md "wikilink"), [한지혜](../Page/한지혜.md "wikilink"), [한예슬](../Page/한예슬.md "wikilink")                                                                                                                                                                                |                               |
+| [2005년](../Page/2005년.md "wikilink") | [김용만](../Page/김용만_\(희극인\).md "wikilink"), [유재석](https://ko.wikipedia.org/wiki/유재석 "wikilink")                                                                                                                                                                                               |                               |
+| [2006년](../Page/2006년.md "wikilink") | [김성주](../Page/김성주_\(방송인\).md "wikilink"), [김제동](../Page/김제동.md "wikilink")                                                                                                                                                                                                                  | 사목리 임진각 내 평화누리공원              |
+| [2007년](../Page/2007년.md "wikilink") | [유재석](https://ko.wikipedia.org/wiki/유재석 "wikilink"), [정형돈](../Page/정형돈.md "wikilink"), [정준하](../Page/정준하.md "wikilink"), [박명수](../Page/박명수.md "wikilink"), [노홍철](../Page/노홍철.md "wikilink"), [하하](https://ko.wikipedia.org/wiki/하하 "wikilink"), [윤은혜](../Page/윤은혜.md "wikilink")            | MBC 일산 드림센터, 사목리 임진각 내 평화누리공원 |
+| [2008년](../Page/2008년.md "wikilink") | [김구라](../Page/김구라.md "wikilink"), [김민정](../Page/김민정_\(1982년\).md "wikilink"), [유세윤](../Page/유세윤.md "wikilink"), [윤종신](../Page/윤종신.md "wikilink")                                                                                                                                            |                               |
+| [2009년](../Page/2009년.md "wikilink") | [김구라](../Page/김구라.md "wikilink"), [이보영](../Page/이보영_\(배우\).md "wikilink"), [신정환](../Page/신정환.md "wikilink")                                                                                                                                                                                 |                               |
+| [2010년](../Page/2010년.md "wikilink") | [류시원](../Page/류시원.md "wikilink"), [티파니](../Page/티파니_영.md "wikilink"), [유리](../Page/유리_\(1989년\).md "wikilink")                                                                                                                                                                              | MBC 일산 드림센터                   |
+| [2011년](../Page/2011년.md "wikilink") | [조권](../Page/조권.md "wikilink"), [가인](../Page/가인.md "wikilink"), [이특](../Page/이특.md "wikilink"), [강소라](../Page/강소라.md "wikilink"), [닉쿤](../Page/닉쿤.md "wikilink"), [빅토리아](../Page/빅토리아_\(가수\).md "wikilink"), [이장우](../Page/이장우_\(배우\).md "wikilink"), [은정](../Page/은정_\(가수\).md "wikilink") | 광명 스피돔, MBC 일산 드림센터           |
+| [2012년](../Page/2012년.md "wikilink") | [이휘재](../Page/이휘재.md "wikilink"), [서현](../Page/서현_\(가수\).md "wikilink"), [붐](../Page/붐_\(방송인\).md "wikilink"), [이준](../Page/이준_\(배우\).md "wikilink")                                                                                                                                        | MBC 일산 드림센터, 사목리 임진각 내 평화누리공원 |
+| [2013년](../Page/2013년.md "wikilink") | [김성주](../Page/김성주_\(방송인\).md "wikilink"), [박형식](../Page/박형식.md "wikilink"), [클라라](../Page/클라라_\(배우\).md "wikilink"), [정준하](../Page/정준하.md "wikilink"), [노홍철](../Page/노홍철.md "wikilink")                                                                                                     | MBC 일산 드림센터                   |
+| [2014년](../Page/2014년.md "wikilink") | [김성주](../Page/김성주_\(방송인\).md "wikilink"), [혜리](../Page/혜리.md "wikilink"), [이유리](../Page/이유리.md "wikilink"), [전현무](../Page/전현무.md "wikilink"), [소유](../Page/소유_\(가수\).md "wikilink")                                                                                                         | MBC 일산 드림센터, 상암동 MBC 본사 광장    |
+| [2015년](../Page/2015년.md "wikilink") | [김성주](../Page/김성주_\(방송인\).md "wikilink"), [윤아](../Page/윤아.md "wikilink")                                                                                                                                                                                                                    | MBC 일산 드림센터, 상암동 MBC 공개홀      |
+| [2016년](../Page/2016년.md "wikilink") | 일산 MBC 드림센터 공개홀, 상암동 MBC 공개홀, 강남 영동대로                                                                                                                                                                                                                                                       |                               |
+| [2017년](../Page/2017년.md "wikilink") | [수호](../Page/수호_\(가수\).md "wikilink"), [윤아](../Page/윤아.md "wikilink"), [차은우](https://ko.wikipedia.org/wiki/차은우 "wikilink")                                                                                                                                                                  | MBC 일산 드림센터                   |
+| [2018년](../Page/2018년.md "wikilink") | [노홍철](../Page/노홍철.md "wikilink"), [윤아](../Page/윤아.md "wikilink"), [민호](../Page/민호.md "wikilink"), [차은우](https://ko.wikipedia.org/wiki/차은우 "wikilink")                                                                                                                                       | MBC 일산 드림센터, 상암동 MBC 공개홀      |
+| [2019년](../Page/2019년.md "wikilink") | [장성규](../Page/장성규.md "wikilink"), [윤아](../Page/윤아.md "wikilink"), [차은우](https://ko.wikipedia.org/wiki/차은우 "wikilink")                                                                                                                                                                       | MBC 일산 드림센터                   |
 
 ## 역대 최고 인기상 수상자
 
@@ -68,35 +68,35 @@
 
   - [1988년](../Page/1988년.md "wikilink")은 'MBC 가요대제전'으로 개최하였다.
 
-| 연도                                   | 수상자 / 곡목                                                              |
-| ------------------------------------ | --------------------------------------------------------------------- |
-| [1974년](../Page/1974년.md "wikilink") | [하춘화](../Page/하춘화.md "wikilink") - 난생 처음                              |
-| [1975년](../Page/1975년.md "wikilink") | [송창식](../Page/송창식_\(가수\).md "wikilink") - 왜 불러                        |
-| [1976년](../Page/1976년.md "wikilink") | [송대관](../Page/송대관.md "wikilink") - 해 뜰 날                              |
-| [1977년](../Page/1977년.md "wikilink") | [혜은이](../Page/혜은이.md "wikilink") - 당신만을 사랑해                           |
-| [1978년](../Page/1978년.md "wikilink") | [최헌](../Page/최헌.md "wikilink") - 앵두                                   |
-| [1979년](../Page/1979년.md "wikilink") | [혜은이](../Page/혜은이.md "wikilink") - 제3한강교                              |
-| [1980년](../Page/1980년.md "wikilink") | [조용필](../Page/조용필.md "wikilink") - 창밖의 여자                             |
-| [1981년](../Page/1981년.md "wikilink") | [조용필](../Page/조용필.md "wikilink") - 고추잠자리                              |
-| [1982년](../Page/1982년.md "wikilink") | [이용](../Page/이용_\(가수\).md "wikilink") - 잊혀진 계절                        |
-| [1983년](../Page/1983년.md "wikilink") | [조용필](../Page/조용필.md "wikilink") - 나는 너 좋아                            |
-| [1984년](../Page/1984년.md "wikilink") | [조용필](../Page/조용필.md "wikilink") - 친구여                                |
-| [1985년](../Page/1985년.md "wikilink") | [조용필](../Page/조용필.md "wikilink") - 그대여                                |
-| [1986년](../Page/1986년.md "wikilink") | [조용필](../Page/조용필.md "wikilink") - 허공                                 |
-| [1988년](../Page/1988년.md "wikilink") | [주현미](../Page/주현미.md "wikilink") - 신사동 그 사람                           |
-| [1989년](../Page/1989년.md "wikilink") | [주현미](../Page/주현미.md "wikilink") - 짝사랑                                |
-| [1990년](../Page/1990년.md "wikilink") | [변진섭](../Page/변진섭.md "wikilink") - 희망사항                               |
-| [1991년](../Page/1991년.md "wikilink") | [노사연](../Page/노사연.md "wikilink") - 만남                                 |
-| [1992년](../Page/1992년.md "wikilink") | [서태지와 아이들](https://ko.wikipedia.org/wiki/서태지와_아이들 "wikilink") - 난 알아요 |
+| 연도                                   | 수상자 / 곡목                                           |
+| ------------------------------------ | -------------------------------------------------- |
+| [1974년](../Page/1974년.md "wikilink") | [하춘화](../Page/하춘화.md "wikilink") - 난생 처음           |
+| [1975년](../Page/1975년.md "wikilink") | [송창식](../Page/송창식_\(가수\).md "wikilink") - 왜 불러     |
+| [1976년](../Page/1976년.md "wikilink") | [송대관](../Page/송대관.md "wikilink") - 해 뜰 날           |
+| [1977년](../Page/1977년.md "wikilink") | [혜은이](../Page/혜은이.md "wikilink") - 당신만을 사랑해        |
+| [1978년](../Page/1978년.md "wikilink") | [최헌](../Page/최헌.md "wikilink") - 앵두                |
+| [1979년](../Page/1979년.md "wikilink") | [혜은이](../Page/혜은이.md "wikilink") - 제3한강교           |
+| [1980년](../Page/1980년.md "wikilink") | [조용필](../Page/조용필.md "wikilink") - 창밖의 여자          |
+| [1981년](../Page/1981년.md "wikilink") | [조용필](../Page/조용필.md "wikilink") - 고추잠자리           |
+| [1982년](../Page/1982년.md "wikilink") | [이용](../Page/이용_\(가수\).md "wikilink") - 잊혀진 계절     |
+| [1983년](../Page/1983년.md "wikilink") | [조용필](../Page/조용필.md "wikilink") - 나는 너 좋아         |
+| [1984년](../Page/1984년.md "wikilink") | [조용필](../Page/조용필.md "wikilink") - 친구여             |
+| [1985년](../Page/1985년.md "wikilink") | [조용필](../Page/조용필.md "wikilink") - 그대여             |
+| [1986년](../Page/1986년.md "wikilink") | [조용필](../Page/조용필.md "wikilink") - 허공              |
+| [1988년](../Page/1988년.md "wikilink") | [주현미](../Page/주현미.md "wikilink") - 신사동 그 사람        |
+| [1989년](../Page/1989년.md "wikilink") | [주현미](../Page/주현미.md "wikilink") - 짝사랑             |
+| [1990년](../Page/1990년.md "wikilink") | [변진섭](../Page/변진섭.md "wikilink") - 희망사항            |
+| [1991년](../Page/1991년.md "wikilink") | [노사연](../Page/노사연.md "wikilink") - 만남              |
+| [1992년](../Page/1992년.md "wikilink") | [서태지와 아이들](../Page/서태지와_아이들.md "wikilink") - 난 알아요 |
 
 ### MBC 한국가요제전 (1993\~1997)
 
   - 1993년에는 청백전 형식으로 진행 \[1\]
 
-| 연도                                   | 수상자 / 곡목                                                                      |
-| ------------------------------------ | ----------------------------------------------------------------------------- |
-| [1994년](../Page/1994년.md "wikilink") | [김건모](../Page/김건모.md "wikilink") - 핑계                                         |
-| [1995년](../Page/1995년.md "wikilink") | [서태지와 아이들](https://ko.wikipedia.org/wiki/서태지와_아이들 "wikilink") - Comeback Home |
+| 연도                                   | 수상자 / 곡목                                                   |
+| ------------------------------------ | ---------------------------------------------------------- |
+| [1994년](../Page/1994년.md "wikilink") | [김건모](../Page/김건모.md "wikilink") - 핑계                      |
+| [1995년](../Page/1995년.md "wikilink") | [서태지와 아이들](../Page/서태지와_아이들.md "wikilink") - Comeback Home |
 
   - 1996년에는 'MBC 한국가요대제전'이라는 명칭으로 축제 형식으로 진행 (방송 70년을 맞아 1960년대부터 1990년대까지의 대중가요 소개 및 통일 노래 설문조사) \[2\]
 
@@ -127,9 +127,9 @@
 
   - [2006년](../Page/2006년.md "wikilink")부터 시상식이 폐지되었다.
 
-| 연도                                   | 수상자 / 곡목                                                   |
-| ------------------------------------ | ---------------------------------------------------------- |
-| [2005년](../Page/2005년.md "wikilink") | [김종국](https://ko.wikipedia.org/wiki/김종국_\(가수\) "wikilink") |
+| 연도                                   | 수상자 / 곡목                                |
+| ------------------------------------ | --------------------------------------- |
+| [2005년](../Page/2005년.md "wikilink") | [김종국](../Page/김종국_\(가수\).md "wikilink") |
 
 ## 타이틀 변천사
 
@@ -204,7 +204,7 @@
   - [KBS 가요대축제](../Page/KBS_가요대축제.md "wikilink")
   - [SBS 가요대전](../Page/SBS_가요대전.md "wikilink")
   - [MBC 강변가요제](../Page/MBC_강변가요제.md "wikilink")
-  - [MBC 대학가요제](https://ko.wikipedia.org/wiki/MBC_대학가요제 "wikilink")
+  - [MBC 대학가요제](../Page/MBC_대학가요제.md "wikilink")
   - [쇼\! 음악중심](https://ko.wikipedia.org/wiki/쇼!_음악중심 "wikilink")
 
 ## 각주

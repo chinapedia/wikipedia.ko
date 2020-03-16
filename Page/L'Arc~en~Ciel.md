@@ -189,7 +189,7 @@
   - '''20th L'Anniversary Year Live in Hawaii ([2012년](../Page/2012년.md "wikilink") [5월 31일](../Page/5월_31일.md "wikilink"))
   - '''LIVE 2014 at 国立競技場(국립경기장) ([2014년](../Page/2014년.md "wikilink") [3월 21일](../Page/3월_21일.md "wikilink") \~ [3월 22일](../Page/3월_22일.md "wikilink"))
   - '''LIVE 2015 L'ArCASINO ([2015년](../Page/2015년.md "wikilink") [9월 21일](../Page/9월_21일.md "wikilink") \~ [9월 22일](../Page/9월_22일.md "wikilink"))
-  - **25th L'Anniversary LIVE ([2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [4월 8일](../Page/4월_8일.md "wikilink") \~ [4월 9일](../Page/4월_9일.md "wikilink"))**
+  - **25th L'Anniversary LIVE ([2017년](../Page/2017년.md "wikilink") [4월 8일](../Page/4월_8일.md "wikilink") \~ [4월 9일](../Page/4월_9일.md "wikilink"))**
   - **Live L'ArCristmas 2018** (2018년 12월 19일 \~ 12월 20일)
 
 ## 같이 보기

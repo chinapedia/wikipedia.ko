@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [RP \(\)](https://ko.wikipedia.org/wiki/RP_\(\)).
 
 
-[복잡도 이론에서](https://ko.wikipedia.org/wiki/계산_복잡도_이론 "wikilink"), **RP** (확률적 다항시간, randomized polynomial time)은 다음과 같은 성질을 만족하는 [확률적 튜링 기계가](https://ko.wikipedia.org/wiki/확률적_튜링_기계 "wikilink") 존재하는 문제들의 [복잡도 종류이다](https://ko.wikipedia.org/wiki/복잡도_종류 "wikilink").
+[복잡도 이론에서](../Page/계산_복잡도_이론.md "wikilink"), **RP** (확률적 다항시간, randomized polynomial time)은 다음과 같은 성질을 만족하는 [확률적 튜링 기계가](https://ko.wikipedia.org/wiki/확률적_튜링_기계 "wikilink") 존재하는 문제들의 [복잡도 종류이다](../Page/복잡도_종류.md "wikilink").
 
   - 확률적 튜링 기계의 실행시간은 입력의 크기를 기준으로 다항시간이어야 한다.
   - 실제 결과가 '아니오'일 때, 확률적 튜링 기계의 실행결과는 항상 '아니오'이다.
@@ -20,7 +20,7 @@
 
 ## P-NP 문제와 연관성
 
-[P는](https://ko.wikipedia.org/wiki/P_\(복잡도\) "wikilink") RP의 부분집합이며, RP는 [NP의](https://ko.wikipedia.org/wiki/NP_\(복잡도\) "wikilink") 부분집합이다. 마찬가지로, P는 co-RP의 부분집합이고, co-RP는 [co-NP](https://ko.wikipedia.org/wiki/co-NP "wikilink")의 부분집합이다. 이런 부분집합 관계가 [진부분집합](https://ko.wikipedia.org/wiki/진부분집합 "wikilink")인지는 아직 알려지지 않았다. 그러나 P ≠ RP이거나 RP ≠ NP일 것으로 추측되고 있다. 이렇지 않다면 P = NP가 성립하는데, 일반적으로 P는 NP와 같지 않을 것으로 예상되기 때문이다. 마찬가지로 RP = co-RP인지, 또 RP가 NP와 co-NP의 교집합에 포함되는지도 알려지지 않았다.
+[P는](../Page/P_\(복잡도\).md "wikilink") RP의 부분집합이며, RP는 [NP의](https://ko.wikipedia.org/wiki/NP_\(복잡도\) "wikilink") 부분집합이다. 마찬가지로, P는 co-RP의 부분집합이고, co-RP는 [co-NP](https://ko.wikipedia.org/wiki/co-NP "wikilink")의 부분집합이다. 이런 부분집합 관계가 [진부분집합](https://ko.wikipedia.org/wiki/진부분집합 "wikilink")인지는 아직 알려지지 않았다. 그러나 P ≠ RP이거나 RP ≠ NP일 것으로 추측되고 있다. 이렇지 않다면 P = NP가 성립하는데, 일반적으로 P는 NP와 같지 않을 것으로 예상되기 때문이다. 마찬가지로 RP = co-RP인지, 또 RP가 NP와 co-NP의 교집합에 포함되는지도 알려지지 않았다.
 
 ## 같이 보기
 

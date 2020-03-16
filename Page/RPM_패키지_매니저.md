@@ -7,7 +7,7 @@ RPM은 Linux Standard Base의 표준 패키지 포맷 중 하나이다.
 
 원래 레드햇 리눅스를 위한 것이었지만 많은 리눅스 배포판 및 노벨 넷웨어 (6.5 SP3 이후), IBM AIX 5 등으로 이식되었다.
 
-현재의 이름 "RPM"은 [재귀 약자의](https://ko.wikipedia.org/wiki/재귀_약자 "wikilink") 일종이다.
+현재의 이름 "RPM"은 [재귀 약자의](../Page/재귀_약자.md "wikilink") 일종이다.
 
 ## 같이 보기
 

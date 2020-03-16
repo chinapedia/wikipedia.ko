@@ -32,9 +32,9 @@
 2003년, 제작사인 [스퀘어 에닉스에서는](../Page/스퀘어_에닉스.md "wikilink") 게임 《파이널 판타지 VII》의 전후 사건들에 대해 다루는 다른 작품들을 내놓기로 결정한다. 이하 작품들이 출시되었다.
 
   - 《파이널 판타지 VII: 어드벤트 칠드런》(*Final Fantasy VII: Advent Children*, [2005년](../Page/2005년.md "wikilink")): 《파이널 판타지 VII》의 사건이 끝나고 2년 뒤의 이야기. 컴퓨터 그래픽을 이용해 만든 3D 애니메이션이다. 말하자면, 파이널 판타지 VII의 DVD 극장판. 대한민국에서도 XTM을 통해 정식 방영.(그러나 영어판만 방영되고 일본어판은 미방영)
-  - 《비포어 크라이시스: 파이널 판타지 VII》(*Before Crisis: Final Fantasy VII*, [2004년](../Page/2004년.md "wikilink")): 《파이널 판타지 VII》의 사건이 일어나기 6년 전의 이야기. [일본](../Page/일본.md "wikilink")에서 서비스되는 [모바일 게임이다](https://ko.wikipedia.org/wiki/모바일_게임 "wikilink").
+  - 《비포어 크라이시스: 파이널 판타지 VII》(*Before Crisis: Final Fantasy VII*, [2004년](../Page/2004년.md "wikilink")): 《파이널 판타지 VII》의 사건이 일어나기 6년 전의 이야기. [일본](../Page/일본.md "wikilink")에서 서비스되는 [모바일 게임이다](../Page/모바일_게임.md "wikilink").
   - 《크라이시스 코어 파이널 판타지 VII》(*Crisis Core: Final Fantasy VII*, [2007년](../Page/2007년.md "wikilink")): 《파이널 판타지 VII》의 사건이 일어나기 7년 전 주인공들의 과거에 관한 이야기. [PSP용](../Page/플레이스테이션_포터블.md "wikilink") 게임이다.
-  - 《더지 오브 켈베로스: 파이널 판타지 VII》(*Dirge of Cerberus: Final Fantasy VII*, [2006년](../Page/2006년.md "wikilink")): 《파이널 판타지 VII: 어드벤트 칠드런》의 사건이 끝나고 1년 뒤의 이야기. [플레이스테이션 2용](https://ko.wikipedia.org/wiki/플레이스테이션_2 "wikilink") 게임이다.
+  - 《더지 오브 켈베로스: 파이널 판타지 VII》(*Dirge of Cerberus: Final Fantasy VII*, [2006년](../Page/2006년.md "wikilink")): 《파이널 판타지 VII: 어드벤트 칠드런》의 사건이 끝나고 1년 뒤의 이야기. [플레이스테이션 2용](../Page/플레이스테이션_2.md "wikilink") 게임이다.
   - 《파이널 판타지 VII: 어드벤트 칠드런 컴플리트》(*Final Fantasy VII: Advent Children Complete*, [2009년](../Page/2009년.md "wikilink")):《파이널 판타지 VII 어드벤트 칠드런》의 30분 추가 버전이다. [블루레이 디스크로](https://ko.wikipedia.org/wiki/블루레이_디스크 "wikilink") 나왔다.
 
 ## 각주

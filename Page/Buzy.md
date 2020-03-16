@@ -7,7 +7,7 @@
 
 [1998년](../Page/1998년.md "wikilink")에 미야자토, 도야마, 니와와 가도타 고무기() 네 명으로 **컬러**(*COLOR*)를 결성하여, [1999년](../Page/1999년.md "wikilink") [7월 27일](../Page/7월_27일.md "wikilink") 싱글 "DOUBLE OR NOTHING"으로 데뷔했다. [2002년](../Page/2002년.md "wikilink")에 가도타가 탈퇴해서 [2003년](../Page/2003년.md "wikilink")에 아사마, 이와나가와 다케다가 가입. 그룹 이름을 **비지**(*Buzy*)로 개칭했다.
 
-비지로서 [2004년](../Page/2004년.md "wikilink") [3월 3일에](../Page/3월_3일.md "wikilink") 싱글 ""(고래)로 다시 데뷔했다. 인기 [록](https://ko.wikipedia.org/wiki/록 "wikilink") [밴드인](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [포르노그라피티](../Page/포르노그라피티.md "wikilink")의 [신도 하루이치가](https://ko.wikipedia.org/wiki/신도_하루이치 "wikilink") 작사한 노래를 노래하는 것으로도 알려져 있었다. 하지만 [2006년](../Page/2006년.md "wikilink") 6월에 해산했다.
+비지로서 [2004년](../Page/2004년.md "wikilink") [3월 3일에](../Page/3월_3일.md "wikilink") 싱글 ""(고래)로 다시 데뷔했다. 인기 [록](https://ko.wikipedia.org/wiki/록 "wikilink") [밴드인](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [포르노그라피티](../Page/포르노그라피티.md "wikilink")의 [신도 하루이치가](../Page/신도_하루이치.md "wikilink") 작사한 노래를 노래하는 것으로도 알려져 있었다. 하지만 [2006년](../Page/2006년.md "wikilink") 6월에 해산했다.
 
 그룹 이름은 "**B**lend", "**U**nique", "**Z**ipping", "**Y**ou just wait"를 의미한다. 프로듀서는 *ak.homma*(에이케이 혼마, <small>본명</small> 혼마 아키미쓰, )였다.
 
@@ -187,7 +187,7 @@
 
 ## 관련 항목
 
-  - [포르노그라피티](../Page/포르노그라피티.md "wikilink") - 프로듀서와 프로덕션이 같아서 멤버인 [신도 하루이치가](https://ko.wikipedia.org/wiki/신도_하루이치 "wikilink") 작사를 해 준다.
+  - [포르노그라피티](../Page/포르노그라피티.md "wikilink") - 프로듀서와 프로덕션이 같아서 멤버인 [신도 하루이치가](../Page/신도_하루이치.md "wikilink") 작사를 해 준다.
 
 ## 외부 링크
 

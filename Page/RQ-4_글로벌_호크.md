@@ -15,7 +15,7 @@ RQ-4A란 명칭은 "R"은 정찰, "Q"는 무인항공기, 4는 네 번째 시리
 
 ### 장비된 시스템
 
-글로벌 호크 무인항공기 시스템은 비행체 부문와 지상 부문로 구성되어 있는데 비행체 부문은 정찰 센서 장비, [항공전자](https://ko.wikipedia.org/wiki/항공전자 "wikilink")장비, 통신 데이터 링크로 구성되어 있고, 지상부문은 이륙및회수부 (Launch and Recovery Element, [LRE](https://ko.wikipedia.org/wiki/LRE_\(무인기\) "wikilink")), 지상 통신장비를 포함한 작전통제부 (Mission Control Element, [MCE](https://ko.wikipedia.org/wiki/MCE_\(무인기\) "wikilink")), 그리고 지원부와 훈련 받은 운용인력으로 구성되어 있다.
+글로벌 호크 무인항공기 시스템은 비행체 부문와 지상 부문로 구성되어 있는데 비행체 부문은 정찰 센서 장비, [항공전자](../Page/항공전자.md "wikilink")장비, 통신 데이터 링크로 구성되어 있고, 지상부문은 이륙및회수부 (Launch and Recovery Element, [LRE](https://ko.wikipedia.org/wiki/LRE_\(무인기\) "wikilink")), 지상 통신장비를 포함한 작전통제부 (Mission Control Element, [MCE](https://ko.wikipedia.org/wiki/MCE_\(무인기\) "wikilink")), 그리고 지원부와 훈련 받은 운용인력으로 구성되어 있다.
 
 글로벌 호크의 내장 센서부 (Integrated Sensor Suite, ISS)는 [레이시온](../Page/레이시온.md "wikilink")(Raytheon)이 공급하는데, [록히드 U-2의](../Page/록히드_U-2.md "wikilink") [ASARS-2](../Page/ASARS-2.md "wikilink")를 개조한 HISAR 합성개구레이다와 전자-광학/적외선(EO/IR) 센서를 가지고 있다. 전자-광학/적외선 센서들과 합성개구레이다는 병행하여 운용할 수 있고, 둘 다 넓은 지역의 탐색 영상이나 좁은 지역의 고해상도 스폿영상을 제공할 수 있다. 합성개구레이다는 이동표적 지시모드 (ground moving target indicator ([GMTI](https://ko.wikipedia.org/wiki/GMTI "wikilink")) mode)에서는 움직이는 표적의 위치와 속도를 탐지하여 문자로 표시할 수 있다.
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CSI: ](https://ko.wikipedia.org/wiki/CSI:_).
 
 
-《**CSI: 과학수사대**》()는 [미국](../Page/미국.md "wikilink") [CBS에서](https://ko.wikipedia.org/wiki/CBS_\(미국_방송사\) "wikilink") 방영되고 있는 과학수사 관련 텔레비전 [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink")로 [제리 브룩하이머가](../Page/제리_브룩하이머.md "wikilink") 제작하고, [2000년](../Page/2000년.md "wikilink") [10월 6일](../Page/10월_6일.md "wikilink") 부터 [2015년](../Page/2015년.md "wikilink") [9월 27일까지](../Page/9월_27일.md "wikilink") 방영되었다. 본 시리즈는 [라스베이거스](../Page/라스베이거스.md "wikilink")를 무대로 하고 있으며 스핀오프 시리즈로는 [CSI: 마이애미와](https://ko.wikipedia.org/wiki/CSI:_마이애미 "wikilink") [CSI: 뉴욕](../Page/CSI:_뉴욕.md "wikilink"), [CSI: 사이버가](https://ko.wikipedia.org/wiki/CSI:_사이버 "wikilink") 있다.
+《**CSI: 과학수사대**》()는 [미국](../Page/미국.md "wikilink") [CBS에서](https://ko.wikipedia.org/wiki/CBS_\(미국_방송사\) "wikilink") 방영되고 있는 과학수사 관련 텔레비전 [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink")로 [제리 브룩하이머가](../Page/제리_브룩하이머.md "wikilink") 제작하고, [2000년](../Page/2000년.md "wikilink") [10월 6일](../Page/10월_6일.md "wikilink") 부터 [2015년](../Page/2015년.md "wikilink") [9월 27일까지](../Page/9월_27일.md "wikilink") 방영되었다. 본 시리즈는 [라스베이거스](../Page/라스베이거스.md "wikilink")를 무대로 하고 있으며 스핀오프 시리즈로는 [CSI: 마이애미와](../Page/CSI:_마이애미.md "wikilink") [CSI: 뉴욕](../Page/CSI:_뉴욕.md "wikilink"), [CSI: 사이버가](https://ko.wikipedia.org/wiki/CSI:_사이버 "wikilink") 있다.
 
 ## 제작
 
@@ -13,11 +13,11 @@
 
 ### 주요 인물
 
-  - [윌리엄 피터슨](https://ko.wikipedia.org/wiki/윌리엄_피터슨 "wikilink") ([William Petersen](https://ko.wikipedia.org/wiki/:en:William_Petersen "wikilink"), 시즌 9 10화까지 출연) - **길 그리섬**\[Gilbert Grissom\], 3급 감식수사관. 라스베이거스 범죄수사국장. 감식곤충학 전문으로 시체에 붙어있는 [파리에서도](../Page/파리_\(프랑스\).md "wikilink") 단서를 찾아낸다. 항상 침착하면서도 객관적인 수사를 펼치며, 과학적인 실험을 통하여 수집한 객관적 증거를 선호한다. 시즌 3에서 청력을 잃을 위험에 처하지만 [수술에](https://ko.wikipedia.org/wiki/수술_\(의학\) "wikilink") 성공하면서 업무에 복귀한다. 그러나 이후에도 완벽하게 회복이 되지않고 다시 악화가 진행이 되기 시작하자 자신의 후임으로 레이먼드 랭스턴을 소개하면서 CSI을 은퇴했다. 성우 [박일](https://ko.wikipedia.org/wiki/박일 "wikilink")씨가 더빙.
+  - [윌리엄 피터슨](../Page/윌리엄_피터슨.md "wikilink") ([William Petersen](https://ko.wikipedia.org/wiki/:en:William_Petersen "wikilink"), 시즌 9 10화까지 출연) - **길 그리섬**\[Gilbert Grissom\], 3급 감식수사관. 라스베이거스 범죄수사국장. 감식곤충학 전문으로 시체에 붙어있는 [파리에서도](../Page/파리_\(프랑스\).md "wikilink") 단서를 찾아낸다. 항상 침착하면서도 객관적인 수사를 펼치며, 과학적인 실험을 통하여 수집한 객관적 증거를 선호한다. 시즌 3에서 청력을 잃을 위험에 처하지만 [수술에](https://ko.wikipedia.org/wiki/수술_\(의학\) "wikilink") 성공하면서 업무에 복귀한다. 그러나 이후에도 완벽하게 회복이 되지않고 다시 악화가 진행이 되기 시작하자 자신의 후임으로 레이먼드 랭스턴을 소개하면서 CSI을 은퇴했다. 성우 [박일](https://ko.wikipedia.org/wiki/박일 "wikilink")씨가 더빙.
 
 <!-- end list -->
 
-  - [로렌스 피시번](https://ko.wikipedia.org/wiki/로렌스_피시번 "wikilink") ([Laurence Fishburne](https://ko.wikipedia.org/wiki/:en:Laurence_Fishburne "wikilink"), 시즌 11 22화까지 출연) - **레이먼드 랭스턴**\[Raymond Langston\]. 전직 외과[의사](../Page/의사.md "wikilink")이자 교수. 별칭 레이. 2급 감식수사관. 법의학자. 범죄심리학 전문이다. 길 그리섬의 특별한 인연으로 CSI팀에 합류하게 되었고, 길 그리섬의 후임이지만 새 반장이 아니라 1급 신입 수사관으로 합류하여 현재는 2급 수사관으로 승급했다. [대한민국](../Page/대한민국.md "wikilink") [서울](https://ko.wikipedia.org/wiki/서울 "wikilink")출생에 아버지는 [주한 미군출신이고](../Page/주한_미군.md "wikilink") 어머니는 [한국인](https://ko.wikipedia.org/wiki/한국인 "wikilink")이다. 그가 CSI 라스베이거스팀에 합류하게된 사정은 독특하다. [대학교](https://ko.wikipedia.org/wiki/대학교 "wikilink")에서 [범죄심리학](https://ko.wikipedia.org/wiki/범죄심리학 "wikilink")을 가르치던 랭스턴 박사에게 길 그리섬은 뛰어난 심리분석능력을 발견한다. [과학](../Page/과학.md "wikilink")적인 증거만으로는 사건이 완전하게 해결되지 않는다는 걸 느낀 그리섬 반장과 합류한 랭스턴 박사는 자신만의 독특한 경험과 방식을 살려서 새로운 시각에서 사건 해결을 돕는다. 이후 마이애미의 호라시오 반장과 뉴욕의 맥 타일러 반장과 합동수사를 하였다. [여성](../Page/여성.md "wikilink")들을 유혹하여 살해한 수감자 네이켈로부터 공격을 당해서 [신장](https://ko.wikipedia.org/wiki/신장 "wikilink") 하나를 기증받은 신장장애인이다. 우리말 더빙은 성우 [김기현](https://ko.wikipedia.org/wiki/김기현 "wikilink") 씨가 맡아서 함.
+  - [로렌스 피시번](https://ko.wikipedia.org/wiki/로렌스_피시번 "wikilink") ([Laurence Fishburne](https://ko.wikipedia.org/wiki/:en:Laurence_Fishburne "wikilink"), 시즌 11 22화까지 출연) - **레이먼드 랭스턴**\[Raymond Langston\]. 전직 외과[의사](../Page/의사.md "wikilink")이자 교수. 별칭 레이. 2급 감식수사관. 법의학자. 범죄심리학 전문이다. 길 그리섬의 특별한 인연으로 CSI팀에 합류하게 되었고, 길 그리섬의 후임이지만 새 반장이 아니라 1급 신입 수사관으로 합류하여 현재는 2급 수사관으로 승급했다. [대한민국](../Page/대한민국.md "wikilink") [서울](https://ko.wikipedia.org/wiki/서울 "wikilink")출생에 아버지는 [주한 미군출신이고](../Page/주한_미군.md "wikilink") 어머니는 [한국인](../Page/한국인.md "wikilink")이다. 그가 CSI 라스베이거스팀에 합류하게된 사정은 독특하다. [대학교](https://ko.wikipedia.org/wiki/대학교 "wikilink")에서 [범죄심리학](https://ko.wikipedia.org/wiki/범죄심리학 "wikilink")을 가르치던 랭스턴 박사에게 길 그리섬은 뛰어난 심리분석능력을 발견한다. [과학](../Page/과학.md "wikilink")적인 증거만으로는 사건이 완전하게 해결되지 않는다는 걸 느낀 그리섬 반장과 합류한 랭스턴 박사는 자신만의 독특한 경험과 방식을 살려서 새로운 시각에서 사건 해결을 돕는다. 이후 마이애미의 호라시오 반장과 뉴욕의 맥 타일러 반장과 합동수사를 하였다. [여성](../Page/여성.md "wikilink")들을 유혹하여 살해한 수감자 네이켈로부터 공격을 당해서 [신장](https://ko.wikipedia.org/wiki/신장 "wikilink") 하나를 기증받은 신장장애인이다. 우리말 더빙은 성우 [김기현](https://ko.wikipedia.org/wiki/김기현 "wikilink") 씨가 맡아서 함.
 
 <!-- end list -->
 
@@ -29,7 +29,7 @@
 
 <!-- end list -->
 
-  - [조자 폭스](https://ko.wikipedia.org/wiki/조자_폭스 "wikilink") ([Jorja Fox](https://ko.wikipedia.org/wiki/:en:Jorja_Fox "wikilink")) - **새라 사이들**\[Sara Sidle\], 3급 감식수사관. [물리학](../Page/물리학.md "wikilink") 전공, 소재 및 성분 분석 전문. 예리하고 냉철하며, 직선적인 성격을 지녔다. 때로, 피해자에 대해서 인간적인 감정을 품어 객관적인 입장을 고집하는 그리섬 반장과 충돌하기도 하였다. 이후에 그리섬과 [결혼](https://ko.wikipedia.org/wiki/결혼 "wikilink")하고 [프랑스](../Page/프랑스.md "wikilink")로 떠나나 이후에 팀에 복귀한다. 랭스턴 박사가 마음의 고통을 받을 때마다 이야기를 들어주는 멘토. 시즌 13 - 15화를 기준으로 길 그리섬과 이혼하였다.
+  - [조자 폭스](../Page/조자_폭스.md "wikilink") ([Jorja Fox](https://ko.wikipedia.org/wiki/:en:Jorja_Fox "wikilink")) - **새라 사이들**\[Sara Sidle\], 3급 감식수사관. [물리학](../Page/물리학.md "wikilink") 전공, 소재 및 성분 분석 전문. 예리하고 냉철하며, 직선적인 성격을 지녔다. 때로, 피해자에 대해서 인간적인 감정을 품어 객관적인 입장을 고집하는 그리섬 반장과 충돌하기도 하였다. 이후에 그리섬과 [결혼](https://ko.wikipedia.org/wiki/결혼 "wikilink")하고 [프랑스](../Page/프랑스.md "wikilink")로 떠나나 이후에 팀에 복귀한다. 랭스턴 박사가 마음의 고통을 받을 때마다 이야기를 들어주는 멘토. 시즌 13 - 15화를 기준으로 길 그리섬과 이혼하였다.
 
 <!-- end list -->
 
@@ -53,11 +53,11 @@
 
 <!-- end list -->
 
-  - [마그 헬겐버거](https://ko.wikipedia.org/wiki/마그_헬겐버거 "wikilink") ([Marg Helgenberger](https://ko.wikipedia.org/wiki/:en:Marg_Helgenberger "wikilink")) - **캐서린 윌로우스**\[Catherine Willows\], 3급 감식수사관. [의료](https://ko.wikipedia.org/wiki/의료 "wikilink")기술을 전공하였고, 혈흔 분석 전문이다. 전직 스트립댄서로 활동을 하였고, 남편과 사별하고 딸을 홀로 키운다. 사건 해결에 그치지 않고, 사건이 발생한 이유에 대해서 끊임없이 탐구한다. 길 그리섬이 떠난후 후임 반장이 되지만, 길 그리섬에 비해 존재감은 많이 작다. 부친은 도박장 사장이었다. 시즌 12 9화 기준으로 FBI 요원에게 FBI 스카우트를 받게 되어 CSI을 떠나게 되었다.
+  - [마그 헬겐버거](../Page/마그_헬겐버거.md "wikilink") ([Marg Helgenberger](https://ko.wikipedia.org/wiki/:en:Marg_Helgenberger "wikilink")) - **캐서린 윌로우스**\[Catherine Willows\], 3급 감식수사관. [의료](https://ko.wikipedia.org/wiki/의료 "wikilink")기술을 전공하였고, 혈흔 분석 전문이다. 전직 스트립댄서로 활동을 하였고, 남편과 사별하고 딸을 홀로 키운다. 사건 해결에 그치지 않고, 사건이 발생한 이유에 대해서 끊임없이 탐구한다. 길 그리섬이 떠난후 후임 반장이 되지만, 길 그리섬에 비해 존재감은 많이 작다. 부친은 도박장 사장이었다. 시즌 12 9화 기준으로 FBI 요원에게 FBI 스카우트를 받게 되어 CSI을 떠나게 되었다.
 
 <!-- end list -->
 
-  - [게리 도던](https://ko.wikipedia.org/wiki/게리_도던 "wikilink") ([Gary Dourdan](https://ko.wikipedia.org/wiki/:en:Gary_Dourdan "wikilink"), 시즌 9까지 출연) - **워릭 브라운**\[Warrick Brown\], 3급 감식수사관. (8시즌17화에총격 9 초반에서 순직하였다.) [화학](../Page/화학.md "wikilink")전공, 전문 감시분야는 시청각자료 분석. 한때 도박판에 빠져서 [해고](../Page/해고.md "wikilink")당할 뻔한다. 그러나 길 그리섬 덕분에 위기를 모면한다. 그 후 그의 수사방식을 철저하게 따른다. 시즌 9에서 고위경찰의 비리를 수사하다 순직을 하였으며 가해자는 검거된다. 검거직전 가해자와 만난 닉은 친구인 워릭을 멍청이라고 험담하는 가해자를 증오하여 홧김에 [총](../Page/총.md "wikilink")을 쏘지만 빗나간다. 사건이 해결되어 장례가 치러지는데, 워릭을 그리워하는 동료들의 고통으로 장례식장은 눈물바다가 되었다.
+  - [게리 도던](../Page/게리_도던.md "wikilink") ([Gary Dourdan](https://ko.wikipedia.org/wiki/:en:Gary_Dourdan "wikilink"), 시즌 9까지 출연) - **워릭 브라운**\[Warrick Brown\], 3급 감식수사관. (8시즌17화에총격 9 초반에서 순직하였다.) [화학](../Page/화학.md "wikilink")전공, 전문 감시분야는 시청각자료 분석. 한때 도박판에 빠져서 [해고](../Page/해고.md "wikilink")당할 뻔한다. 그러나 길 그리섬 덕분에 위기를 모면한다. 그 후 그의 수사방식을 철저하게 따른다. 시즌 9에서 고위경찰의 비리를 수사하다 순직을 하였으며 가해자는 검거된다. 검거직전 가해자와 만난 닉은 친구인 워릭을 멍청이라고 험담하는 가해자를 증오하여 홧김에 [총](../Page/총.md "wikilink")을 쏘지만 빗나간다. 사건이 해결되어 장례가 치러지는데, 워릭을 그리워하는 동료들의 고통으로 장례식장은 눈물바다가 되었다.
 
 ### 주변 인물
 
@@ -122,16 +122,16 @@ CSI 과학수사대는 [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink"), [OCN
 
 ### CSI과학수사대 한국어판 성우 출연
 
-  - [박일](https://ko.wikipedia.org/wiki/박일_\(성우\) "wikilink") (길 그리섬 역)
-  - [최성우](https://ko.wikipedia.org/wiki/최성우_\(성우\) "wikilink") (캐서린 윌로스 역)
-  - [김기현](https://ko.wikipedia.org/wiki/김기현_\(성우\) "wikilink") (레이먼드 랭스턴 박사 역)
-  - [이종혁](https://ko.wikipedia.org/wiki/이종혁_\(성우\) "wikilink") (짐 브래스 역)
+  - [박일](../Page/박일_\(성우\).md "wikilink") (길 그리섬 역)
+  - [최성우](../Page/최성우_\(성우\).md "wikilink") (캐서린 윌로스 역)
+  - [김기현](../Page/김기현_\(성우\).md "wikilink") (레이먼드 랭스턴 박사 역)
+  - [이종혁](../Page/이종혁_\(성우\).md "wikilink") (짐 브래스 역)
   - [송준석](https://ko.wikipedia.org/wiki/송준석 "wikilink") (워릭 브라운 역)
-  - [김호성](https://ko.wikipedia.org/wiki/김호성 "wikilink") (그렉 샌더스 역)
-  - [윤성혜](https://ko.wikipedia.org/wiki/윤성혜_\(성우\) "wikilink") (새라 사이들 역)
+  - [김호성](../Page/김호성.md "wikilink") (그렉 샌더스 역)
+  - [윤성혜](../Page/윤성혜_\(성우\).md "wikilink") (새라 사이들 역)
   - [김영선](../Page/김영선_\(성우\).md "wikilink") (닉 스토크스 역)
-  - [김용준](https://ko.wikipedia.org/wiki/김용준_\(성우\) "wikilink") (앨 로빈스 박사 역)
-  - [양지운](https://ko.wikipedia.org/wiki/양지운 "wikilink") (호라시오 케인 역)시즌 2 [마이애미와](https://ko.wikipedia.org/wiki/CSI:_마이애미 "wikilink") 크로스에피에 출연
+  - [김용준](../Page/김용준_\(성우\).md "wikilink") (앨 로빈스 박사 역)
+  - [양지운](../Page/양지운.md "wikilink") (호라시오 케인 역)시즌 2 [마이애미와](../Page/CSI:_마이애미.md "wikilink") 크로스에피에 출연
 
 ## 스핀오프
 

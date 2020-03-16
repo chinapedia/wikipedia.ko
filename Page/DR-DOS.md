@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DR-DOS](https://ko.wikipedia.org/wiki/DR-DOS).
 
 
-**DR-DOS**는 [디지털 리서치사에서](../Page/디지털_리서치.md "wikilink") [CP/M](https://ko.wikipedia.org/wiki/CP/M "wikilink")-86을 기반으로 개발한 [IBM PC](https://ko.wikipedia.org/wiki/IBM_PC "wikilink") [호환](https://ko.wikipedia.org/wiki/PC_호환 "wikilink") [PC용](../Page/개인용_컴퓨터.md "wikilink") [도스](../Page/도스.md "wikilink")의 일종이다.
+**DR-DOS**는 [디지털 리서치사에서](../Page/디지털_리서치.md "wikilink") [CP/M](https://ko.wikipedia.org/wiki/CP/M "wikilink")-86을 기반으로 개발한 [IBM PC](../Page/IBM_PC.md "wikilink") [호환](https://ko.wikipedia.org/wiki/PC_호환 "wikilink") [PC용](../Page/개인용_컴퓨터.md "wikilink") [도스](../Page/도스.md "wikilink")의 일종이다.
 
 ## 역사
 

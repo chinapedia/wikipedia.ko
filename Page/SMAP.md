@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SMAP](https://ko.wikipedia.org/wiki/SMAP).
 
 
-**SMAP**(, )은 [1988년](../Page/1988년.md "wikilink")부터 [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink")까지 활동했던 [일본](../Page/일본.md "wikilink")을 대표하는 국민적 인기 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") [그룹이었다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). 소속 예능 사무소는 [쟈니즈 사무소이었으며](../Page/자니스_사무소.md "wikilink"), 소속 레코드 회사는 [빅터 엔터테인먼트였다](https://ko.wikipedia.org/wiki/빅터_엔터테인먼트 "wikilink"). [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [12월 31일을](../Page/12월_31일.md "wikilink") 끝으로 해산했다.
+**SMAP**(, )은 [1988년](../Page/1988년.md "wikilink")부터 [2016년](../Page/2016년.md "wikilink")까지 활동했던 [일본](../Page/일본.md "wikilink")을 대표하는 국민적 인기 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") [그룹이었다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). 소속 예능 사무소는 [쟈니즈 사무소이었으며](../Page/자니스_사무소.md "wikilink"), 소속 레코드 회사는 [빅터 엔터테인먼트였다](https://ko.wikipedia.org/wiki/빅터_엔터테인먼트 "wikilink"). [2016년](../Page/2016년.md "wikilink") [12월 31일을](../Page/12월_31일.md "wikilink") 끝으로 해산했다.
 
 ## 구성원
 
@@ -35,7 +35,7 @@
   - [1992년](../Page/1992년.md "wikilink") 4월 (데뷔 반년 후), [후지 TV의](../Page/후지_TV.md "wikilink") 《꿈이 MORIMORI》에 고정 출연이 결정되었다. 이 프로그램의 당시 아이돌로서는 이례적으로, 본격적인 콩트 등을 연기하며, 지명도와 인기를 얻기 시작했다.
   - [1994년](../Page/1994년.md "wikilink")에 12번째 싱글 〈Hey Hey 언제나 정말 고마워()〉로 첫 [오리콘](../Page/오리콘.md "wikilink") 1위를 획득했다.
   - [1995년](../Page/1995년.md "wikilink")에 [NTV](https://ko.wikipedia.org/wiki/NTV "wikilink") 《24시간 TV "사랑은 지구를 구한다"》의 진행을 맡았다.
-  - [1996년](../Page/1996년.md "wikilink")부터는 [후지 TV](../Page/후지_TV.md "wikilink") 《[SMAP×SMAP](../Page/SMAP×SMAP.md "wikilink")》의 방송을 시작해, 현재는 인기 장수 프로그램으로 자리잡았다. 이후 [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink"), [버라이어티](https://ko.wikipedia.org/wiki/버라이어티 "wikilink"), [콘서트](https://ko.wikipedia.org/wiki/콘서트 "wikilink")에서 다방면으로 활약하기 시작했다. 하지만, 멤버 [모리 카츠유키가](https://ko.wikipedia.org/wiki/모리_가쓰유키 "wikilink") 어린 시절부터의 꿈이었던 [자동차 경주](https://ko.wikipedia.org/wiki/자동차_경주 "wikilink") 선수로 변신하기 위해, SMAP를 탈퇴를 발표했다. 동시에 [쟈니스 사무소도](https://ko.wikipedia.org/wiki/자니즈_사무소 "wikilink") 퇴사하여, 연예계에서도 은퇴했다.(탈퇴 당시시 만 22세, [자동차 경주의](https://ko.wikipedia.org/wiki/자동차_경주 "wikilink") 교육 학교에 입학이 가능한 나이가 23세 미만이였기 때문으로 알려졌다).
+  - [1996년](../Page/1996년.md "wikilink")부터는 [후지 TV](../Page/후지_TV.md "wikilink") 《[SMAP×SMAP](../Page/SMAP×SMAP.md "wikilink")》의 방송을 시작해, 현재는 인기 장수 프로그램으로 자리잡았다. 이후 [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink"), [버라이어티](https://ko.wikipedia.org/wiki/버라이어티 "wikilink"), [콘서트](https://ko.wikipedia.org/wiki/콘서트 "wikilink")에서 다방면으로 활약하기 시작했다. 하지만, 멤버 [모리 카츠유키가](https://ko.wikipedia.org/wiki/모리_가쓰유키 "wikilink") 어린 시절부터의 꿈이었던 [자동차 경주](../Page/자동차_경주.md "wikilink") 선수로 변신하기 위해, SMAP를 탈퇴를 발표했다. 동시에 [쟈니스 사무소도](https://ko.wikipedia.org/wiki/자니즈_사무소 "wikilink") 퇴사하여, 연예계에서도 은퇴했다.(탈퇴 당시시 만 22세, [자동차 경주의](../Page/자동차_경주.md "wikilink") 교육 학교에 입학이 가능한 나이가 23세 미만이였기 때문으로 알려졌다).
 
 ### 밀리언 달성
 
@@ -64,7 +64,7 @@
 
 ### 해산
 
-  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [1월 13일](../Page/1월_13일.md "wikilink"), 그동안 SMAP를 지탱하던 치프 매니저 [이이지마 미치가](../Page/이이지마_미치.md "wikilink") 사무실을 퇴사하는 데 따른, 기무라를 제외한 4명(나카이, 이나가키, 쿠사나기, 카토리)도 함께 퇴사할 의향을 나타냈기 때문에 그룹이 해체 위기에 있는 것이 스포츠 2종이의 한쪽 보도됐다. 이후, 스포츠 전문지와 주간지, 와이드 쇼 등에서 연일 각종 보도가 나간 정보가 엇갈렸지만 해산 위기 발생부터 5일 만인 1월 18일, 멤버의 5명이 《SMAP×SMAP》에 생방송 출연하고 사죄 등을 가지면서 그룹의 해산은 회피된 것으로 보인다. 이 생방송 출연에 의해서 Twitter에 액세스가 집중하고 한때 Twitter의 서버가 다운되는 사태였다. 이 회의 《SMAP×SMAP》 최고 순간 시청률은 37.2%였다.
+  - [2016년](../Page/2016년.md "wikilink") [1월 13일](../Page/1월_13일.md "wikilink"), 그동안 SMAP를 지탱하던 치프 매니저 [이이지마 미치가](../Page/이이지마_미치.md "wikilink") 사무실을 퇴사하는 데 따른, 기무라를 제외한 4명(나카이, 이나가키, 쿠사나기, 카토리)도 함께 퇴사할 의향을 나타냈기 때문에 그룹이 해체 위기에 있는 것이 스포츠 2종이의 한쪽 보도됐다. 이후, 스포츠 전문지와 주간지, 와이드 쇼 등에서 연일 각종 보도가 나간 정보가 엇갈렸지만 해산 위기 발생부터 5일 만인 1월 18일, 멤버의 5명이 《SMAP×SMAP》에 생방송 출연하고 사죄 등을 가지면서 그룹의 해산은 회피된 것으로 보인다. 이 생방송 출연에 의해서 Twitter에 액세스가 집중하고 한때 Twitter의 서버가 다운되는 사태였다. 이 회의 《SMAP×SMAP》 최고 순간 시청률은 37.2%였다.
 
 <!-- end list -->
 
@@ -563,15 +563,15 @@
 
 #### 베스트 앨범
 
-| \#  | 제목            | 발매일                                                                                              |
-| --- | ------------- | ------------------------------------------------------------------------------------------------ |
-| 1\. | Cool          | [1995년](../Page/1995년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink")                        |
-| 2\. | WOOL          | [1997년](../Page/1997년.md "wikilink") [3월 26일](../Page/3월_26일.md "wikilink")                      |
-| 3\. | SMAP Vest     | [2001년](../Page/2001년.md "wikilink") [3월 23일](../Page/3월_23일.md "wikilink")                      |
-| 4\. | pamS          | [2001년](../Page/2001년.md "wikilink") [8월 8일](../Page/8월_8일.md "wikilink")                        |
-| 5\. | SMAP AID      | [2011년](../Page/2011년.md "wikilink") [8월 17일](../Page/8월_17일.md "wikilink")                      |
-| 6\. | SMAP 25 YEARS | [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [12월 21일](../Page/12월_21일.md "wikilink") |
-|     |               |                                                                                                  |
+| \#  | 제목            | 발매일                                                                           |
+| --- | ------------- | ----------------------------------------------------------------------------- |
+| 1\. | Cool          | [1995년](../Page/1995년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink")     |
+| 2\. | WOOL          | [1997년](../Page/1997년.md "wikilink") [3월 26일](../Page/3월_26일.md "wikilink")   |
+| 3\. | SMAP Vest     | [2001년](../Page/2001년.md "wikilink") [3월 23일](../Page/3월_23일.md "wikilink")   |
+| 4\. | pamS          | [2001년](../Page/2001년.md "wikilink") [8월 8일](../Page/8월_8일.md "wikilink")     |
+| 5\. | SMAP AID      | [2011년](../Page/2011년.md "wikilink") [8월 17일](../Page/8월_17일.md "wikilink")   |
+| 6\. | SMAP 25 YEARS | [2016년](../Page/2016년.md "wikilink") [12월 21일](../Page/12월_21일.md "wikilink") |
+|     |               |                                                                               |
 
 #### [대한민국](../Page/대한민국.md "wikilink")에 라이센스 발매된 음반
 
@@ -1076,7 +1076,7 @@ SMAP의 투어는 앨범 발매와 동시에 실시한다. 초기에는 1년에 
       - 1년에 1회, 크리스마스 시기에 방송. [1995년](../Page/1995년.md "wikilink")의 제1회 방송에는 전 맴버 [모리 가츠유키도](https://ko.wikipedia.org/wiki/모리_가쓰유키 "wikilink") 출연했다.
   - 《24시간 TV 「사랑은 지구를 구한다」》 (1995년, 2005년, [NTV](https://ko.wikipedia.org/wiki/NTV "wikilink"))
       - 1995년은 히사모토 마사미와 함께 프로그램 퍼스널러티를 맡았고 2005년은 [쿠사나기 츠요시와](https://ko.wikipedia.org/wiki/구사나기_쓰요시 "wikilink") [카토리 싱고가](../Page/카토리_싱고.md "wikilink") 메인 퍼스널러티를 맡았다.
-  - 《SMAP·[TOKIO](https://ko.wikipedia.org/wiki/TOKIO "wikilink")·[KinKi Kids](https://ko.wikipedia.org/wiki/킨키키즈 "wikilink") 처음이자 마지막의 집결 스페셜》 (1995년, [NTV](https://ko.wikipedia.org/wiki/NTV "wikilink"))
+  - 《SMAP·[TOKIO](../Page/TOKIO.md "wikilink")·[KinKi Kids](https://ko.wikipedia.org/wiki/킨키키즈 "wikilink") 처음이자 마지막의 집결 스페셜》 (1995년, [NTV](https://ko.wikipedia.org/wiki/NTV "wikilink"))
   - 《SMAP 송구영신》 (1995년 - 1997년, 후지TV)
   - 《FNS TV제전》 (1996년, 후지 TV)
       - [SMAP×SMAP](../Page/SMAP×SMAP.md "wikilink") 팀으로서 출장
@@ -1129,7 +1129,7 @@ SMAP의 투어는 앨범 발매와 동시에 실시한다. 초기에는 1년에 
   - 돈보 학생복 (돈보(トンボ), 1989년)
   - SMAP (음료) (모리나가 유업, 1989년)
   - 오타쿠스 (팩스) (파나소닉, 1991년, 1992년)
-  - 스라라 (워드 프로세서) ([파나소닉](https://ko.wikipedia.org/wiki/파나소닉 "wikilink"), 1992년)
+  - 스라라 (워드 프로세서) ([파나소닉](../Page/파나소닉.md "wikilink"), 1992년)
   - 이타리아노 (아이스), 시리얼 초콜릿, 버케이션 (롯데제과, 1992년)
   - 두둥의 전화 (전화기) (파나소닉, 1993년)
   - 빅 콘 (롯데제과, 1993년, 1994년)

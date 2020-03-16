@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
 
 
-**셀틱 FC** (Celtic Football Club) 는 [스코틀랜드](../Page/스코틀랜드.md "wikilink") [글래스고](https://ko.wikipedia.org/wiki/글래스고 "wikilink")에 기반한 [축구](../Page/축구.md "wikilink") 클럽이다. [1887년](../Page/1887년.md "wikilink")에 창단한 축구 클럽으로 세계에서 가장 오래된 축구 클럽 중 하나이다.
+**셀틱 FC** (Celtic Football Club) 는 [스코틀랜드](../Page/스코틀랜드.md "wikilink") [글래스고](../Page/글래스고.md "wikilink")에 기반한 [축구](../Page/축구.md "wikilink") 클럽이다. [1887년](../Page/1887년.md "wikilink")에 창단한 축구 클럽으로 세계에서 가장 오래된 축구 클럽 중 하나이다.
 
 [스코틀랜드 프로축구 1부리그를](https://ko.wikipedia.org/wiki/스코틀랜드_프리미어리그 "wikilink") 총 48회, [스코티시 컵](https://ko.wikipedia.org/wiki/스코티시_컵 "wikilink") 37회, [스코틀랜드 리그컵](https://ko.wikipedia.org/wiki/스코틀랜드_리그컵 "wikilink") 16회를 우승한 명문 클럽니다.
 
-같은 [글래스고](https://ko.wikipedia.org/wiki/글래스고 "wikilink")에 위치한 [레인저스 FC와는](../Page/레인저스_FC.md "wikilink") 숙명의 라이벌 관계이다. 홈 구장은 [셀틱 파크이며](../Page/셀틱_파크.md "wikilink") 총 수용인원 60,837명의 전좌석제 스타디움이다.
+같은 [글래스고](../Page/글래스고.md "wikilink")에 위치한 [레인저스 FC와는](../Page/레인저스_FC.md "wikilink") 숙명의 라이벌 관계이다. 홈 구장은 [셀틱 파크이며](../Page/셀틱_파크.md "wikilink") 총 수용인원 60,837명의 전좌석제 스타디움이다.
 
 ## 역사
 
-[아일랜드 대기근으로](https://ko.wikipedia.org/wiki/아일랜드_대기근 "wikilink") [글래스고](https://ko.wikipedia.org/wiki/글래스고 "wikilink")에 이주한 아일랜드 사람들은 궁핍하게 살고 있었는데, 수사 월프리드(Walfrid)가 [하이버니언의](../Page/하이버니언_FC.md "wikilink") 사례를 보고 가난한 이주민들의 정체성을 되찾고 빈민 구제에 필요한 돈을 모으기 위하여 창단하게 되었다.\[1\]
+[아일랜드 대기근으로](../Page/아일랜드_대기근.md "wikilink") [글래스고](../Page/글래스고.md "wikilink")에 이주한 아일랜드 사람들은 궁핍하게 살고 있었는데, 수사 월프리드(Walfrid)가 [하이버니언의](../Page/하이버니언_FC.md "wikilink") 사례를 보고 가난한 이주민들의 정체성을 되찾고 빈민 구제에 필요한 돈을 모으기 위하여 창단하게 되었다.\[1\]
 
 셀틱(Celtic)이라는 이름은 클럽의 기반이 [스코틀랜드](../Page/스코틀랜드.md "wikilink")와 [아일랜드](../Page/아일랜드.md "wikilink")에 기반한다는 사실에 창안하여 월프리드가 지은 것이다.\[2\]
 

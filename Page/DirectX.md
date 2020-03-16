@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DirectX](https://ko.wikipedia.org/wiki/DirectX).
 
 
-**Microsoft DirectX**()는 [멀티미디어](../Page/멀티미디어.md "wikilink"), 특히 [게임](../Page/게임.md "wikilink") [프로그래밍](https://ko.wikipedia.org/wiki/프로그래밍 "wikilink")에서 [마이크로소프트](../Page/마이크로소프트.md "wikilink") [플랫폼에서](../Page/컴퓨팅_플랫폼.md "wikilink") 작업을 위한 [API](../Page/API.md "wikilink")의 집합이다. 다이렉트엑스는 마이크로소프트 [윈도우](../Page/마이크로소프트_윈도우.md "wikilink"), [세가](https://ko.wikipedia.org/wiki/세가 "wikilink"), [드림캐스트](https://ko.wikipedia.org/wiki/드림캐스트 "wikilink"), 마이크로소프트 [엑스박스](../Page/엑스박스.md "wikilink") 및 [엑스박스 360을](../Page/엑스박스_360.md "wikilink") 위한 [비디오 게임](../Page/비디오_게임.md "wikilink") 개발에 널리 쓰인다.
+**Microsoft DirectX**()는 [멀티미디어](../Page/멀티미디어.md "wikilink"), 특히 [게임](../Page/게임.md "wikilink") [프로그래밍](https://ko.wikipedia.org/wiki/프로그래밍 "wikilink")에서 [마이크로소프트](../Page/마이크로소프트.md "wikilink") [플랫폼에서](../Page/컴퓨팅_플랫폼.md "wikilink") 작업을 위한 [API](../Page/API.md "wikilink")의 집합이다. 다이렉트엑스는 마이크로소프트 [윈도우](../Page/마이크로소프트_윈도우.md "wikilink"), [세가](https://ko.wikipedia.org/wiki/세가 "wikilink"), [드림캐스트](../Page/드림캐스트.md "wikilink"), 마이크로소프트 [엑스박스](../Page/엑스박스.md "wikilink") 및 [엑스박스 360을](../Page/엑스박스_360.md "wikilink") 위한 [비디오 게임](../Page/비디오_게임.md "wikilink") 개발에 널리 쓰인다.
 
 다이렉트엑스는 또한 게임뿐 아니라 최근에 나온 3차원 [그래픽 하드웨어를](../Page/그래픽_처리_장치.md "wikilink") 사용하여 높은 품질의 3차원 그래픽을 빠르게 렌더링할 수 있기 때문에 [소프트웨어](../Page/소프트웨어.md "wikilink") 업계 전반에서 사용되기도 한다.
 
@@ -56,7 +56,7 @@ Direct3D 9Ex, Direct3D 10은 [윈도우 비스타](../Page/윈도우_비스타.m
         3차원 사운드를 위한 API. DirectX 8이후로 다이렉트 오디오에 통합되었다.
 
   - [다이렉트라이트](https://ko.wikipedia.org/wiki/DirectWrite "wikilink") ()
-    다이렉트 엑스 10.1 표준에 포함된 [글꼴](https://ko.wikipedia.org/wiki/글꼴 "wikilink") 표현 API이다.
+    다이렉트 엑스 10.1 표준에 포함된 [글꼴](../Page/글꼴.md "wikilink") 표현 API이다.
 
   - [다이렉트쇼](../Page/다이렉트쇼.md "wikilink") ()
     동영상,mp3 등의 멀티미디어 재생 API. 2005년 4월이후 DirectX SDK 에서 완전히 제외되었으며, 현재는 Windows (Platform) SDK 에 포함된 상태.
@@ -131,7 +131,7 @@ Direct3D 9Ex, Direct3D 10은 [윈도우 비스타](../Page/윈도우_비스타.m
 <tr class="odd">
 <td><p>6.0</p></td>
 <td><p>4.06.00.0318</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/드림캐스트" title="wikilink">드림캐스트</a></p></td>
+<td><p><a href="../Page/드림캐스트.md" title="wikilink">드림캐스트</a></p></td>
 <td><p><a href="../Page/1998년.md" title="wikilink">1998년</a> <a href="../Page/8월_7일.md" title="wikilink">8월 7일</a></p></td>
 </tr>
 <tr class="even">

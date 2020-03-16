@@ -5,9 +5,9 @@
 
 ## 유래
 
-전화 분야에서 QoS는 1994년 [국제전기통신연합](https://ko.wikipedia.org/wiki/국제전기통신연합 "wikilink")에 의해 정의되었다.\[1\]
+전화 분야에서 QoS는 1994년 [국제전기통신연합](../Page/국제전기통신연합.md "wikilink")에 의해 정의되었다.\[1\]
 
-[네트워크](https://ko.wikipedia.org/wiki/네트워크 "wikilink")는 크게 [패킷 교환 네트워크](https://ko.wikipedia.org/wiki/패킷_교환_네트워크 "wikilink")(packet switched network)와 [회선 교환 네트워크](https://ko.wikipedia.org/wiki/회선_교환_네트워크 "wikilink")(circuit switched network)가 있다. 패킷교환 네트워크는 이른바 우리가 이야기하는 [인터넷](../Page/인터넷.md "wikilink") [네트워크를](https://ko.wikipedia.org/wiki/컴퓨터_네트워크 "wikilink") 포함하고, 인터넷이 대중화되기 이전의 패킷 기반의 다른 방식 네트워크까지 두루 일컫는다. (다시 말해, TCP/IP 기반이 아닌 네트워크도 존재했다.) 회선교환 네트워크는 간단히 [PSTN](https://ko.wikipedia.org/wiki/PSTN "wikilink") 방식의 전화망을 생각하면 된다.
+[네트워크](https://ko.wikipedia.org/wiki/네트워크 "wikilink")는 크게 [패킷 교환 네트워크](https://ko.wikipedia.org/wiki/패킷_교환_네트워크 "wikilink")(packet switched network)와 [회선 교환 네트워크](https://ko.wikipedia.org/wiki/회선_교환_네트워크 "wikilink")(circuit switched network)가 있다. 패킷교환 네트워크는 이른바 우리가 이야기하는 [인터넷](../Page/인터넷.md "wikilink") [네트워크를](../Page/컴퓨터_네트워크.md "wikilink") 포함하고, 인터넷이 대중화되기 이전의 패킷 기반의 다른 방식 네트워크까지 두루 일컫는다. (다시 말해, TCP/IP 기반이 아닌 네트워크도 존재했다.) 회선교환 네트워크는 간단히 [PSTN](https://ko.wikipedia.org/wiki/PSTN "wikilink") 방식의 전화망을 생각하면 된다.
 
 QoS 문제는 패킷 교환 네트워크에서 인터넷이 특별히 개별 흐름(flow) 또는 하나의 인터넷 연결에 대해서 더 우선권을 부여하지 않기 때문에 발생하는 문제이다. 우선권이 없다는 것은 곧 모든 인터넷 연결이 같은 중요도를 가지고 서비스를 받는다는 것을 뜻한다. 이를테면, 50Mbps 공유 링크가 있을 때, 10 명이 사용해서 인터넷 연결이 동시에 10 개가 생성되면, 각각은 5Mbps의 속도를 이용하게 된다.
 

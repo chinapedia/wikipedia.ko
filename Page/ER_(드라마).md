@@ -7,8 +7,8 @@
 
 ## 출연
 
-  - [앤서니 에드워즈](https://ko.wikipedia.org/wiki/앤서니_에드워즈 "wikilink") - 마크 그린 (시즌 1\~8,15)
-  - [조지 클루니](https://ko.wikipedia.org/wiki/조지_클루니 "wikilink") - 더그 로스 (시즌 1\~6,15)
+  - [앤서니 에드워즈](../Page/앤서니_에드워즈.md "wikilink") - 마크 그린 (시즌 1\~8,15)
+  - [조지 클루니](../Page/조지_클루니.md "wikilink") - 더그 로스 (시즌 1\~6,15)
   - [노아 와일](https://ko.wikipedia.org/wiki/노아_와일 "wikilink") - 존 카터 (시즌 1\~12,15)
   - 에릭 라사르 - 피터 벤턴 (시즌 1\~8,15)
   - [글로리아 루벤](https://ko.wikipedia.org/wiki/글로리아_루벤 "wikilink") - 지니 불레트 (시즌 1\~6,14)
@@ -18,12 +18,12 @@
 
 ## 한국판 성우진(KBS,SBS)
 
-  - [오세홍](../Page/오세홍.md "wikilink") - 마크 그린([앤서니 에드워즈](https://ko.wikipedia.org/wiki/앤서니_에드워즈 "wikilink"))
+  - [오세홍](../Page/오세홍.md "wikilink") - 마크 그린([앤서니 에드워즈](../Page/앤서니_에드워즈.md "wikilink"))
   - [이정구](https://ko.wikipedia.org/wiki/이정구_\(성우\) "wikilink") - 존 카터([노아 와일](https://ko.wikipedia.org/wiki/노아_와일 "wikilink"))
-  - [김환진](https://ko.wikipedia.org/wiki/김환진 "wikilink") - 더그 로스([조지 클루니](https://ko.wikipedia.org/wiki/조지_클루니 "wikilink"))
+  - [김환진](../Page/김환진.md "wikilink") - 더그 로스([조지 클루니](../Page/조지_클루니.md "wikilink"))
   - [유동현](../Page/유동현.md "wikilink") - 피터 벤튼(에릭 라사르)
   - [김정애](../Page/김정애_\(성우\).md "wikilink") - 지니 불레트([글로리아 루벤](https://ko.wikipedia.org/wiki/글로리아_루벤 "wikilink"))
-  - [강희선](https://ko.wikipedia.org/wiki/강희선 "wikilink") - 엘리자베스 코데이([앨릭스 킹스턴](https://ko.wikipedia.org/wiki/앨릭스_킹스턴 "wikilink"))
+  - [강희선](../Page/강희선.md "wikilink") - 엘리자베스 코데이([앨릭스 킹스턴](https://ko.wikipedia.org/wiki/앨릭스_킹스턴 "wikilink"))
   - [임은정](../Page/임은정_\(성우\).md "wikilink") - 케리 웨버([로라 이네스](https://ko.wikipedia.org/wiki/로라_이네스 "wikilink"))
   - [최문자](../Page/최문자.md "wikilink") - 캐롤 해서웨이([줄리아나 마걸리스](../Page/줄리아나_마걸리스.md "wikilink"))
 

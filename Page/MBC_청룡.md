@@ -38,7 +38,7 @@
 <td><p>0.575</p></td>
 <td></td>
 <td></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/백인천" title="wikilink">백인천</a></strong></p></td>
+<td><p><strong><a href="../Page/백인천.md" title="wikilink">백인천</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p>1983</p></td>
@@ -50,7 +50,7 @@
 <td><p>0.561</p></td>
 <td><p>* '''한국시리즈 : <a href="../Page/해태_타이거즈.md" title="wikilink">해태</a> 전 0-3 패 '''</p></td>
 <td></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/백인천" title="wikilink">백인천</a><br />
+<td><p><strong><a href="../Page/백인천.md" title="wikilink">백인천</a><br />
 <a href="../Page/유백만.md" title="wikilink">유백만</a><br />
 <a href="../Page/김동엽_(1938년).md" title="wikilink">김동엽</a></strong></p></td>
 <td></td>
@@ -132,7 +132,7 @@
 <td></td>
 <td></td>
 <td><p><strong><a href="../Page/배성서.md" title="wikilink">배성서</a><br />
-<a href="https://ko.wikipedia.org/wiki/백인천" title="wikilink">백인천</a></strong> |- bgcolor="#cccccc"기록 제외)'''</p></td>
+<a href="../Page/백인천.md" title="wikilink">백인천</a></strong> |- bgcolor="#cccccc"기록 제외)'''</p></td>
 <td><p><strong>MBC 청룡</strong> <strong>8시즌</strong></p></td>
 </tr>
 </tbody>
@@ -142,14 +142,14 @@
 
 | 대수    | 이름                                                  | 취임    | 퇴임    |
 | ----- | --------------------------------------------------- | ----- | ----- |
-| 1대    | [백인천](https://ko.wikipedia.org/wiki/백인천 "wikilink") | 1982년 | 1983년 |
+| 1대    | [백인천](../Page/백인천.md "wikilink")                    | 1982년 | 1983년 |
 | 감독 대행 | [유백만](../Page/유백만.md "wikilink")                    | 1983년 | 1983년 |
 | 2대    | [김동엽](https://ko.wikipedia.org/wiki/김동엽 "wikilink") | 1983년 | 1983년 |
 | 3대    | [어우홍](../Page/어우홍.md "wikilink")                    | 1984년 | 1985년 |
 | 4대    | [김동엽](../Page/김동엽_\(1938년\).md "wikilink")          | 1985년 | 1987년 |
 | 5대    | [유백만](../Page/유백만.md "wikilink")                    | 1987년 | 1988년 |
 | 5대    | [배성서](../Page/배성서.md "wikilink")                    | 1985년 | 1987년 |
-| 6대    | [백인천](https://ko.wikipedia.org/wiki/백인천 "wikilink") | 1989년 | 1989년 |
+| 6대    | [백인천](../Page/백인천.md "wikilink")                    | 1989년 | 1989년 |
 |       |                                                     |       |       |
 
 ## 역대 선수
@@ -420,7 +420,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/김상호_(1965년)" title="wikilink">김상호</a></p></td>
+<td><p><a href="../Page/김상호_(1965년).md" title="wikilink">김상호</a></p></td>
 <td></td>
 <td><p>외야수</p></td>
 <td><p>1988-1989</p></td>
@@ -547,12 +547,12 @@
 
 ### 수위 타자(타율1위)
 
-  - 1982년 [백인천](https://ko.wikipedia.org/wiki/백인천 "wikilink") 250타수 103안타 타율 0.412
+  - 1982년 [백인천](../Page/백인천.md "wikilink") 250타수 103안타 타율 0.412
   - 1988년 [김상훈](../Page/김상훈_\(1960년\).md "wikilink") 305타수 108안타 타율 0.354
 
 ### 최다 안타
 
-  - 1982년 [백인천](https://ko.wikipedia.org/wiki/백인천 "wikilink") 103안타
+  - 1982년 [백인천](../Page/백인천.md "wikilink") 103안타
   - 1986년 [이광은](../Page/이광은.md "wikilink") 124안타
 
 <!-- end list -->
@@ -561,7 +561,7 @@
 
 ### 최다 득점
 
-  - 1982년 [백인천](https://ko.wikipedia.org/wiki/백인천 "wikilink") 55득점
+  - 1982년 [백인천](../Page/백인천.md "wikilink") 55득점
   - 1983년 [이해창](../Page/이해창_\(1953년\).md "wikilink") 65득점
   - 1984년 [이해창](../Page/이해창_\(1953년\).md "wikilink") 62득점
   - 1986년 [김재박](../Page/김재박.md "wikilink") 67득점
@@ -573,11 +573,11 @@
 
 ### 최고 장타율
 
-  - 1982년 [백인천](https://ko.wikipedia.org/wiki/백인천 "wikilink") 0.740
+  - 1982년 [백인천](../Page/백인천.md "wikilink") 0.740
 
 ### 최고 출루율
 
-  - 1982년 [백인천](https://ko.wikipedia.org/wiki/백인천 "wikilink") 0.502
+  - 1982년 [백인천](../Page/백인천.md "wikilink") 0.502
 
 ## 역대 신인왕
 

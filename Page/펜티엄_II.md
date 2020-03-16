@@ -10,7 +10,7 @@
 
 이 밖에도 펜티엄 II 출시 이후 그래픽 카드를 위한 전용 [AGP](../Page/가속_그래픽_포트.md "wikilink") 버스기술, [SDRAM](https://ko.wikipedia.org/wiki/SDR_SDRAM "wikilink") (동기 DRAM)기술 등이 도입되면서 전체적으로 더 발전된 모습을 보여 주었다.
 
-이후에 펜티엄 II에서 2차 캐시 메모리를 제외, 축소해 단가를 낮춘 보급형 [셀러론](https://ko.wikipedia.org/wiki/셀러론 "wikilink") 프로세서가 등장했다.
+이후에 펜티엄 II에서 2차 캐시 메모리를 제외, 축소해 단가를 낮춘 보급형 [셀러론](../Page/셀러론.md "wikilink") 프로세서가 등장했다.
 
 ## 코어
 
@@ -27,7 +27,7 @@
 
 ## 같이 보기
 
-  - [셀러론](https://ko.wikipedia.org/wiki/셀러론 "wikilink")
+  - [셀러론](../Page/셀러론.md "wikilink")
   - [인텔 펜티엄 II 마이크로프로세서 목록](../Page/인텔_펜티엄_II_마이크로프로세서_목록.md "wikilink")
 
 [분류:인텔의 마이크로프로세서](https://ko.wikipedia.org/wiki/분류:인텔의_마이크로프로세서 "wikilink")

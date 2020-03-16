@@ -9,7 +9,7 @@
 
 7-Zip은 7z만이 아니라 다른 형식의 압축 파일도 지원한다.
 
-  - 압축, 압축 해제 둘 다: [7z](https://ko.wikipedia.org/wiki/7z "wikilink"), [ZIP](https://ko.wikipedia.org/wiki/ZIP "wikilink"), [gzip](https://ko.wikipedia.org/wiki/gzip "wikilink"), [bzip2](https://ko.wikipedia.org/wiki/bzip2 "wikilink"), [tar](../Page/Tar_\(파일_포맷\).md "wikilink")
+  - 압축, 압축 해제 둘 다: [7z](../Page/7z.md "wikilink"), [ZIP](https://ko.wikipedia.org/wiki/ZIP "wikilink"), [gzip](https://ko.wikipedia.org/wiki/gzip "wikilink"), [bzip2](https://ko.wikipedia.org/wiki/bzip2 "wikilink"), [tar](../Page/Tar_\(파일_포맷\).md "wikilink")
   - 압축 해제만: 마이크로소프트 캐비넷(CAB), RAR, [ARJ](../Page/ARJ.md "wikilink"), Z, LHA, cpio, smzip, JAR, ISO(CD 및 DVD 이미지 - 4.42판부터), [RPM](../Page/RPM_패키지_매니저.md "wikilink"), DEB
 
 7-Zip은 주 내용과 함께 들어 있는 메타파일에의 접근을 통해 일부 MSI 파일도 열 수 있으며 NSIS 설치기 파일도 압축 파일을 열듯 열어 직접 실행하지 않고도 그 안에 있는 파일들을 꺼낼 수 있다. ZIP 또는 gzip 파일을 압축할 때에는 압축을 더 빨리 하기 위해 자체제작한 DEFLATE 압축기를 쓰는데 이것은 [zlib](https://ko.wikipedia.org/wiki/zlib "wikilink")의 그것보다 더 높은 압축 수준을 구현하며 [AdvanceCOMP](https://ko.wikipedia.org/wiki/AdvanceCOMP "wikilink")에서도 쓸 수 있다.
@@ -27,13 +27,13 @@
 
   - p7zip: [리눅스](../Page/리눅스.md "wikilink"), [OS X](https://ko.wikipedia.org/wiki/OS_X "wikilink"), [FreeBSD](../Page/FreeBSD.md "wikilink") 등에서 쓸 수 있는 CLI 이식판. 외장 라이브러리를 쓰는 7z과 내장 라이브러리를 쓰는 7za로 나뉘며 7za는 단일 파일로도 실행할 수 있으나 지원하는 압축 형식이 ZIP, gzip, bzip2, Z, tar로 한정되어 있다.
       - [HX DOS Extender](https://web.archive.org/web/20090130063413/http://www.japheth.de/HX.html) 를 사용하면 7z 또는 7za를 도스에서 실행할 수 있다.\[1\]
-  - Q7Z: p7zip의 GUI [프론트엔드](https://ko.wikipedia.org/wiki/프론트엔드 "wikilink")로 [리눅스](../Page/리눅스.md "wikilink")용이다. [파이썬](../Page/파이썬.md "wikilink")에 [Qt를](https://ko.wikipedia.org/wiki/Qt_\(프레임워크\) "wikilink") 곁들여 만들어졌다.
+  - Q7Z: p7zip의 GUI [프론트엔드](https://ko.wikipedia.org/wiki/프론트엔드 "wikilink")로 [리눅스](../Page/리눅스.md "wikilink")용이다. [파이썬](../Page/파이썬.md "wikilink")에 [Qt를](../Page/Qt_\(프레임워크\).md "wikilink") 곁들여 만들어졌다.
   - \#7Z: p7zip의 윈도우용 GUI 프론트엔드
   - jZip: 7-Zip을 바탕으로 만들어진 윈도우용 압축 관리기. 7-Zip보다 더 쉽고 더 간결한 인터페이스를 가졌다. 프리웨어이나 소스코드는 공개되어 있지 않다.
 
 ## 같이 보기
 
-  - [7z](https://ko.wikipedia.org/wiki/7z "wikilink")
+  - [7z](../Page/7z.md "wikilink")
   - [압축 소프트웨어의 비교](https://ko.wikipedia.org/wiki/압축_소프트웨어의_비교 "wikilink")
 
 ## 각주

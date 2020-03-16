@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Myco](https://ko.wikipedia.org/wiki/Myco).
 
 
-**마이코**(myco, , [1979년](../Page/1979년.md "wikilink") [2월 27일](../Page/2월_27일.md "wikilink") \~) [일본](../Page/일본.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink"), [성우](https://ko.wikipedia.org/wiki/성우 "wikilink")이자, 라디오 성우이다. [도쿄도](../Page/도쿄도.md "wikilink") 출신.
+**마이코**(myco, , [1979년](../Page/1979년.md "wikilink") [2월 27일](../Page/2월_27일.md "wikilink") \~) [일본](../Page/일본.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink"), [성우](../Page/성우.md "wikilink")이자, 라디오 성우이다. [도쿄도](../Page/도쿄도.md "wikilink") 출신.
 
 [2005년](../Page/2005년.md "wikilink") [3월 31일에](../Page/3월_31일.md "wikilink") 가수 활동을 멈추겠다는 것을 발표한 이후 동년 [9월 11일에](../Page/9월_11일.md "wikilink") 다시 활동 재개를 선언했다.
 

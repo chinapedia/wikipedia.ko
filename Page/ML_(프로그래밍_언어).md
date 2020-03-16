@@ -3,7 +3,7 @@
 
 **ML**은 범용 [프로그래밍 언어의](../Page/프로그래밍_언어.md "wikilink") 일종이다. 프로그래밍 언어 분야의 핵심 연구 성과들을 잘 반영하면서도 실용적인 언어로 알려져 있다. 특히, 안전한 [타입 시스템을](https://ko.wikipedia.org/wiki/타입_시스템 "wikilink") 갖추고 있어 프로그램을 실행하는 중에 나올 수 있는 타입 에러를 실행하기 전에 미리 모두 찾아준다. 힌들리-밀너(Hindley-Milner) 타입 추론 시스템을 구현하여 [자바와](../Page/자바_\(프로그래밍_언어\).md "wikilink") 같은 길고 불편한 [자료형](../Page/자료형.md "wikilink")(타입) 표기 없이도 변수들의 자료형을 추론할 수 있다.
 
-ML은 [하스켈](https://ko.wikipedia.org/wiki/하스켈 "wikilink")과 같은 순수한 함수형 언어와 같이 함수가 자유롭게 사용될 수 있으면서도, 메모리 상태를 변화시키는 함수를 허용하는 [함수형 프로그래밍 언어의](https://ko.wikipedia.org/wiki/함수형_프로그래밍 "wikilink") 모습도 갖추고 있다. 이 때문에 함수형 언어이면서 순수하지 않은 함수형 언어로 분류한다.
+ML은 [하스켈](../Page/하스켈.md "wikilink")과 같은 순수한 함수형 언어와 같이 함수가 자유롭게 사용될 수 있으면서도, 메모리 상태를 변화시키는 함수를 허용하는 [함수형 프로그래밍 언어의](../Page/함수형_프로그래밍.md "wikilink") 모습도 갖추고 있다. 이 때문에 함수형 언어이면서 순수하지 않은 함수형 언어로 분류한다.
 
 그밖에 ML에는 이런 특징이 있다.
 
@@ -15,7 +15,7 @@ ML은 [하스켈](https://ko.wikipedia.org/wiki/하스켈 "wikilink")과 같은 
 
 ML 프로그래밍 시스템은 다양한 종류가 있다. [SML](https://ko.wikipedia.org/wiki/SML_프로그래밍_언어 "wikilink")(Standard ML)과 [Caml이](https://ko.wikipedia.org/wiki/Caml_프로그래밍_언어 "wikilink") 가장 널리 알려진 것이며, [F\#](../Page/F_샤프.md "wikilink") 등 다른 언어들도 존재한다. [한국](../Page/한국.md "wikilink")에서 개발된 ML 프로그래밍 시스템으로는 [KAIST에서](../Page/한국과학기술원.md "wikilink") 개발하였고 현재는 [서울대에서](https://ko.wikipedia.org/wiki/서울대학교 "wikilink") 확장·관리하고 있는 [nML](https://ko.wikipedia.org/wiki/nML "wikilink")이 있다.
 
-ML의 기본 아이디어는 [C\#](../Page/C_샤프.md "wikilink"), [자바](../Page/자바_\(프로그래밍_언어\).md "wikilink"), [하스켈](https://ko.wikipedia.org/wiki/하스켈 "wikilink"), [사이클론](https://ko.wikipedia.org/wiki/사이클론_프로그래밍_언어 "wikilink"), [네멜레](https://ko.wikipedia.org/wiki/네멜레_프로그래밍_언어 "wikilink") 등 많은 언어에 영향을 미쳤다.
+ML의 기본 아이디어는 [C\#](../Page/C_샤프.md "wikilink"), [자바](../Page/자바_\(프로그래밍_언어\).md "wikilink"), [하스켈](../Page/하스켈.md "wikilink"), [사이클론](https://ko.wikipedia.org/wiki/사이클론_프로그래밍_언어 "wikilink"), [네멜레](https://ko.wikipedia.org/wiki/네멜레_프로그래밍_언어 "wikilink") 등 많은 언어에 영향을 미쳤다.
 
 ML은 주로 프로그래밍 언어의 실행기(interpreter)나 번역기(compiler), 프로그램 분석기 등을 개발하고 다루는 데 사용하지만, ML은 본래 범용 프로그래밍 언어이므로 [생물정보학](../Page/생물정보학.md "wikilink"), 금융 전산망, P2P 클라이언트/서버 프로그램 등의 개발에도 사용한다.
 

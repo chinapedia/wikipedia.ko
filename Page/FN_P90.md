@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FN P90](https://ko.wikipedia.org/wiki/FN_P90).
 
 
-**FN P90**은 [파브리크 나시오날 드 에르스탈에서](https://ko.wikipedia.org/wiki/파브리크_나시오날_드_에르스탈 "wikilink") 개발한 [기관단총](../Page/기관단총.md "wikilink")이자 [개인 방어 화기이다](https://ko.wikipedia.org/wiki/개인_방어_화기 "wikilink"). [1990년대](../Page/1990년대.md "wikilink")부터 실제 쓰이기 시작했다. P90을 위해 새롭게 개발된 [5.7 x 28 mm탄을](../Page/5.7_×_28_mm.md "wikilink") 사용하며, [불펍](https://ko.wikipedia.org/wiki/불펍 "wikilink") 형식이다. 독특한 50발 들이 [탄창](https://ko.wikipedia.org/wiki/탄창 "wikilink")과 [급탄](https://ko.wikipedia.org/wiki/급탄 "wikilink") 방식을 사용한다. 탄창의 [탄약은](../Page/탄약통.md "wikilink") [총열과](https://ko.wikipedia.org/wiki/총포신 "wikilink") 90도 각도를 이루고 있다가 급탄 시 회전하면서 총열과 일직선이 되어 [장전](https://ko.wikipedia.org/wiki/장전 "wikilink")된다.
+**FN P90**은 [파브리크 나시오날 드 에르스탈에서](https://ko.wikipedia.org/wiki/파브리크_나시오날_드_에르스탈 "wikilink") 개발한 [기관단총](../Page/기관단총.md "wikilink")이자 [개인 방어 화기이다](https://ko.wikipedia.org/wiki/개인_방어_화기 "wikilink"). [1990년대](../Page/1990년대.md "wikilink")부터 실제 쓰이기 시작했다. P90을 위해 새롭게 개발된 [5.7 x 28 mm탄을](../Page/5.7_×_28_mm.md "wikilink") 사용하며, [불펍](../Page/불펍.md "wikilink") 형식이다. 독특한 50발 들이 [탄창](https://ko.wikipedia.org/wiki/탄창 "wikilink")과 [급탄](https://ko.wikipedia.org/wiki/급탄 "wikilink") 방식을 사용한다. 탄창의 [탄약은](../Page/탄약통.md "wikilink") [총열과](https://ko.wikipedia.org/wiki/총포신 "wikilink") 90도 각도를 이루고 있다가 급탄 시 회전하면서 총열과 일직선이 되어 [장전](https://ko.wikipedia.org/wiki/장전 "wikilink")된다.
 
 ## 대중문화
 

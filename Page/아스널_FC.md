@@ -63,7 +63,7 @@
 
 2018-19 시즌 부터 [우나이 에메리가](../Page/우나이_에메리.md "wikilink") 벵거 감독의 뒤를 이어 아스널의 새 감독으로 선임되었다.
 
-[2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [6월 5일](../Page/6월_5일.md "wikilink") [유벤투스의](https://ko.wikipedia.org/wiki/유벤투스_FC "wikilink") 베테랑 수비수 [슈테판 리히트슈타이너를](../Page/슈테판_리히트슈타이너.md "wikilink") 자유계약으로 영입하며 명가재건의 시작을 알렸다.
+[2018년](../Page/2018년.md "wikilink") [6월 5일](../Page/6월_5일.md "wikilink") [유벤투스의](../Page/유벤투스_FC.md "wikilink") 베테랑 수비수 [슈테판 리히트슈타이너를](../Page/슈테판_리히트슈타이너.md "wikilink") 자유계약으로 영입하며 명가재건의 시작을 알렸다.
 
 그 후 [삼프도리아 FC의](https://ko.wikipedia.org/wiki/삼프도리아_FC "wikilink") 신예 중앙 미드필더 [루카스 토레이라와](../Page/루카스_토레이라.md "wikilink") [바이어 레버쿠젠의](https://ko.wikipedia.org/wiki/바이어_레버쿠젠 "wikilink") 골키퍼 [베른트 레노](../Page/베른트_레노.md "wikilink"), [보루시아 도르트문트의](../Page/보루시아_도르트문트.md "wikilink") 수비수 [소크라티스 파파스타토풀로스를](../Page/소크라티스_파파스타토풀로스.md "wikilink") 영입하여 그동안 팬들의 답답함을 해소하였다.
 
@@ -105,7 +105,7 @@
 
 아스널의 경영진들은 현재 통틀어서 41.8%의 팀 지분을 갖고 있으며, 2009년 3월 기준으로 그 중에 가장 큰 경영진 주주는 미국의 스포츠계의 거물인 [스탠 크론케이다](https://ko.wikipedia.org/wiki/스탠_크론케 "wikilink"). 이 사람은 2007년부터 아스널에 관한 입찰에 진출하였으며,\[61\] 현재 12,756의 지분 소유로써 20.5%의 점유율을 차지하고 있다.\[62\]
 
-다른 경영진들 로는 [남아공](../Page/남아프리카_공화국.md "wikilink") 출신의 [다이아몬드](https://ko.wikipedia.org/wiki/다이아몬드 "wikilink") 딜러 이기도 한 [대니 피즈먼이](https://ko.wikipedia.org/wiki/대니_피즈먼 "wikilink") 10,025 지분으로 16.1%를 차지하고 있고, 아스널의 전 회장인 [브레이스웰스미스 경의](https://ko.wikipedia.org/wiki/브레이스웰스미스_경 "wikilink") 손자인 [리차드 카가](https://ko.wikipedia.org/wiki/리차드_카 "wikilink") 2,722의 지분으로 4.4%, 그리고 현재 아스널의 회장인 [피터 힐-우드가](https://ko.wikipedia.org/wiki/피터_힐-우드 "wikilink") 500의 지분으로 0.8%의 점유율을 각각 갖고 있다. 나머지 경영진들은 아주 근소한 양의 지분을 갖고 있다.\[63\] 전 경영진 이기도 했던 [니나 브레이스웰스미스](../Page/니나_브레이스웰스미스.md "wikilink")(브레이스웰 스미스 경의 손녀) 역시 9,893 지분으로 15.9%의 점유율을 갖고 있다.\[64\]
+다른 경영진들 로는 [남아공](../Page/남아프리카_공화국.md "wikilink") 출신의 [다이아몬드](../Page/다이아몬드.md "wikilink") 딜러 이기도 한 [대니 피즈먼이](https://ko.wikipedia.org/wiki/대니_피즈먼 "wikilink") 10,025 지분으로 16.1%를 차지하고 있고, 아스널의 전 회장인 [브레이스웰스미스 경의](https://ko.wikipedia.org/wiki/브레이스웰스미스_경 "wikilink") 손자인 [리차드 카가](https://ko.wikipedia.org/wiki/리차드_카 "wikilink") 2,722의 지분으로 4.4%, 그리고 현재 아스널의 회장인 [피터 힐-우드가](https://ko.wikipedia.org/wiki/피터_힐-우드 "wikilink") 500의 지분으로 0.8%의 점유율을 각각 갖고 있다. 나머지 경영진들은 아주 근소한 양의 지분을 갖고 있다.\[63\] 전 경영진 이기도 했던 [니나 브레이스웰스미스](../Page/니나_브레이스웰스미스.md "wikilink")(브레이스웰 스미스 경의 손녀) 역시 9,893 지분으로 15.9%의 점유율을 갖고 있다.\[64\]
 
 크론케의 입찰 경쟁자는 [레드 앤 화이트 시큐리티](https://ko.wikipedia.org/wiki/레드_앤_화이트_시큐리티 "wikilink")(Red & White Securities)의 공동 대표인 러시아의 억만장자 [알리셰르 우스마노프와](../Page/알리셰르_우스마노프.md "wikilink") [이란](../Page/이란.md "wikilink") 출신의 런던 재무가인 [파하드 모시리이다](https://ko.wikipedia.org/wiki/파하드_모시리 "wikilink").\[65\]
 
@@ -119,13 +119,13 @@
 
 잉글랜드에서 가장 성공한 축구 클럽 중 하나인 아스널은 영국 문화에서 종종 묘사되었고, 미디어 매체에도 몇 번 처음으로 나왔던 적이 있었다. 1927년 1월 22일, 아스널 스타디움에서 벌어진 [셰필드 유나이티드와의](https://ko.wikipedia.org/wiki/셰필드_유나이티드 "wikilink") 경기가 잉글랜드 리그 최초로 [라디오](../Page/라디오.md "wikilink")로 생중계가 되었다.\[71\] 10년뒤인 1937년 9월 16일 에는 아스널의 1군과 2군팀과의 시범경기가 [TV](https://ko.wikipedia.org/wiki/TV "wikilink")로 생중계 되는 첫 축구 경기가 되기도 했다.\[72\] 또한 아스널은 1964년 8월 22일, [BBC](https://ko.wikipedia.org/wiki/BBC "wikilink")의 스포츠 프로그램인 [매치 오브 더 데이의](https://ko.wikipedia.org/wiki/매치_오브_더_데이 "wikilink") 첫 방송에서 [앤필드](https://ko.wikipedia.org/wiki/앤필드 "wikilink")에서 벌어진 [리버풀과의](../Page/리버풀_FC.md "wikilink") 경기가 하일라이트로 방송이 되었다.\[73\]
 
-아스널은 축구를 소재로한 영화의 초기에 배경이 되기도 했었는데 1939년작, 영화 [아스널 스타디움의 미스터리](https://ko.wikipedia.org/wiki/아스널_스타디움의_미스터리 "wikilink")(The Arsenal Stadium Mystery)가 그러했다.\[74\] 이 영화는 아스널과 아마추어 팀의 [친선 경기에](https://ko.wikipedia.org/wiki/친선_경기 "wikilink") 중점을 두는데 선수들중 한명이 경기 도중 독살을 당하게 된다는 내용이다. 당시 아스널에서 뛰고 있는 많은 선수들이 직접 출연하였으며, 당시 아스널의 감독이었던 조지 앨리슨에게는 대사가 주어지기도 했었다.\[75\] 좀 더 최근에는 축구와 관련, 특히 아스널에 관련된 자신의 인생을 다룬 [닉 혼비의](https://ko.wikipedia.org/wiki/닉_혼비 "wikilink") [자서전](https://ko.wikipedia.org/wiki/자서전 "wikilink")인 [피버 피치](https://ko.wikipedia.org/wiki/피버_피치 "wikilink")(Fever Pitch)란 책에도 나온다. 이 책은 1992년 출판 되었으며, 1990년대 영국 사회에서의 축구에 대한 부흥과 재건에 대한 내용이 다뤄졌다.\[76\] 또한 이 책은 영국과 [미국](../Page/미국.md "wikilink")에서 각각 한번씩 두번의 영화로 각색이 되기도 했었는데 [영국 영화는](https://ko.wikipedia.org/wiki/피버_피치_\(1997년작\) "wikilink") [콜린 퍼스가](../Page/콜린_퍼스.md "wikilink") 주연을 맡아 1988 - 89시즌 아스널이 리그 우승을 할 때를 중점으로 다뤘고,\[77\] [미국 영화](https://ko.wikipedia.org/wiki/피버_피치_\(2005년작\) "wikilink")(한국명:날 미치게 하는 남자)는 [드류 배리모어](https://ko.wikipedia.org/wiki/드류_배리모어 "wikilink") 주연으로써 [메이저 리그의](../Page/메이저_리그_베이스볼.md "wikilink") [보스턴 레드삭스의](https://ko.wikipedia.org/wiki/보스턴_레드삭스 "wikilink") 팬들에 대해서 다루었다.\[78\]
+아스널은 축구를 소재로한 영화의 초기에 배경이 되기도 했었는데 1939년작, 영화 [아스널 스타디움의 미스터리](https://ko.wikipedia.org/wiki/아스널_스타디움의_미스터리 "wikilink")(The Arsenal Stadium Mystery)가 그러했다.\[74\] 이 영화는 아스널과 아마추어 팀의 [친선 경기에](https://ko.wikipedia.org/wiki/친선_경기 "wikilink") 중점을 두는데 선수들중 한명이 경기 도중 독살을 당하게 된다는 내용이다. 당시 아스널에서 뛰고 있는 많은 선수들이 직접 출연하였으며, 당시 아스널의 감독이었던 조지 앨리슨에게는 대사가 주어지기도 했었다.\[75\] 좀 더 최근에는 축구와 관련, 특히 아스널에 관련된 자신의 인생을 다룬 [닉 혼비의](https://ko.wikipedia.org/wiki/닉_혼비 "wikilink") [자서전](https://ko.wikipedia.org/wiki/자서전 "wikilink")인 [피버 피치](https://ko.wikipedia.org/wiki/피버_피치 "wikilink")(Fever Pitch)란 책에도 나온다. 이 책은 1992년 출판 되었으며, 1990년대 영국 사회에서의 축구에 대한 부흥과 재건에 대한 내용이 다뤄졌다.\[76\] 또한 이 책은 영국과 [미국](../Page/미국.md "wikilink")에서 각각 한번씩 두번의 영화로 각색이 되기도 했었는데 [영국 영화는](https://ko.wikipedia.org/wiki/피버_피치_\(1997년작\) "wikilink") [콜린 퍼스가](../Page/콜린_퍼스.md "wikilink") 주연을 맡아 1988 - 89시즌 아스널이 리그 우승을 할 때를 중점으로 다뤘고,\[77\] [미국 영화](https://ko.wikipedia.org/wiki/피버_피치_\(2005년작\) "wikilink")(한국명:날 미치게 하는 남자)는 [드류 배리모어](https://ko.wikipedia.org/wiki/드류_배리모어 "wikilink") 주연으로써 [메이저 리그의](../Page/메이저_리그_베이스볼.md "wikilink") [보스턴 레드삭스의](../Page/보스턴_레드삭스.md "wikilink") 팬들에 대해서 다루었다.\[78\]
 
-아스널은 특히 1970년대와 80년대 동안 다소 좀 고리타분한 수비와 지루한 경기를 펼쳤는데,\[79\]\[80\] 영국의 코미디언인 [에릭 모어캄브와](https://ko.wikipedia.org/wiki/에릭_모어캄브 "wikilink") 같은 많은 코미디언들이 개런날들에 대해 조롱거리를 만들어 내기도 하였다. 이러한 주제는 1997년작, 영화 [풀 몬티에도](https://ko.wikipedia.org/wiki/풀_몬티 "wikilink") 거듭 되었는데 남자 주연 배우들이 그들의 [스트립 쇼에](https://ko.wikipedia.org/wiki/스트립_쇼 "wikilink") 맞춰서 열을 맞추며 양손을 들어 올리는 장면이 있었는데 아스널 수비의 [오프사이드](../Page/오프사이드.md "wikilink") 트랩을 고의적으로 흉내내어 조롱하기도 했었다.\[81\] [게리 올드만이](https://ko.wikipedia.org/wiki/게리_올드만 "wikilink") 제작한 1999년작의 [플렁켓 & 매클린이란](https://ko.wikipedia.org/wiki/플렁켓_&_매클린 "wikilink") 영화에서도 아스널의 수비가 언급이 되었는데 당시 아스널에서 오랜 기간 동안 수비수로 뛰었었던 왼쪽 수비수 [리 딕슨과](../Page/리_딕슨.md "wikilink") 오른쪽 수비수 [나이젤 윈터번의](https://ko.wikipedia.org/wiki/나이젤_윈터번 "wikilink") 이름을 따온 딕슨과 윈터번이란 이름을 가진 두 캐릭터가 나온다.\[82\] 참고로 이 두 영화의 공통점은 [로버트 칼라일이란](../Page/로버트_칼라일.md "wikilink") [스코틀랜드](../Page/스코틀랜드.md "wikilink") 출신의 배우가 두 영화에 주연배우로 나왔다는 점이다. 로버트 칼라일은 [새뮤얼 L. 잭슨](../Page/새뮤얼_L._잭슨.md "wikilink") 주연의 영화 [51번째 주에](https://ko.wikipedia.org/wiki/51번째_주_\(영화\) "wikilink") [리버풀](../Page/리버풀_FC.md "wikilink") 팬으로 나온 적도 있었다.(자세한 것은 [리버풀 FC를](../Page/리버풀_FC.md "wikilink") 참조) 하지만 그는 [레인저스 FC의](../Page/레인저스_FC.md "wikilink") 팬이라고 한다.
+아스널은 특히 1970년대와 80년대 동안 다소 좀 고리타분한 수비와 지루한 경기를 펼쳤는데,\[79\]\[80\] 영국의 코미디언인 [에릭 모어캄브와](https://ko.wikipedia.org/wiki/에릭_모어캄브 "wikilink") 같은 많은 코미디언들이 개런날들에 대해 조롱거리를 만들어 내기도 하였다. 이러한 주제는 1997년작, 영화 [풀 몬티에도](../Page/풀_몬티.md "wikilink") 거듭 되었는데 남자 주연 배우들이 그들의 [스트립 쇼에](https://ko.wikipedia.org/wiki/스트립_쇼 "wikilink") 맞춰서 열을 맞추며 양손을 들어 올리는 장면이 있었는데 아스널 수비의 [오프사이드](../Page/오프사이드.md "wikilink") 트랩을 고의적으로 흉내내어 조롱하기도 했었다.\[81\] [게리 올드만이](https://ko.wikipedia.org/wiki/게리_올드만 "wikilink") 제작한 1999년작의 [플렁켓 & 매클린이란](https://ko.wikipedia.org/wiki/플렁켓_&_매클린 "wikilink") 영화에서도 아스널의 수비가 언급이 되었는데 당시 아스널에서 오랜 기간 동안 수비수로 뛰었었던 왼쪽 수비수 [리 딕슨과](../Page/리_딕슨.md "wikilink") 오른쪽 수비수 [나이젤 윈터번의](https://ko.wikipedia.org/wiki/나이젤_윈터번 "wikilink") 이름을 따온 딕슨과 윈터번이란 이름을 가진 두 캐릭터가 나온다.\[82\] 참고로 이 두 영화의 공통점은 [로버트 칼라일이란](../Page/로버트_칼라일.md "wikilink") [스코틀랜드](../Page/스코틀랜드.md "wikilink") 출신의 배우가 두 영화에 주연배우로 나왔다는 점이다. 로버트 칼라일은 [새뮤얼 L. 잭슨](../Page/새뮤얼_L._잭슨.md "wikilink") 주연의 영화 [51번째 주에](https://ko.wikipedia.org/wiki/51번째_주_\(영화\) "wikilink") [리버풀](../Page/리버풀_FC.md "wikilink") 팬으로 나온 적도 있었다.(자세한 것은 [리버풀 FC를](../Page/리버풀_FC.md "wikilink") 참조) 하지만 그는 [레인저스 FC의](../Page/레인저스_FC.md "wikilink") 팬이라고 한다.
 
 ## 아스널 여자축구단
 
-[아스널 WFC는](https://ko.wikipedia.org/wiki/아스널_WFC "wikilink") 아스널과 제휴하고 있는 여자 축구 클럽이다. 1987년 창단되었고, 2002년에 프로로 전향해 현재 아스널의 유니폼 관리 담당을 맡고 있는 [빅 에이커스가](https://ko.wikipedia.org/wiki/빅_에이커스 "wikilink") 창단부터 지금까지 아스널 WFC의 감독을 맡고 있다.\[83\] 아스널 WFC는 [잉글랜드 여자축구에서](https://ko.wikipedia.org/wiki/잉글랜드_여자축구 "wikilink") 가장 성공적인 클럽이며, 현재 [여자 프리미어리그에서](https://ko.wikipedia.org/wiki/여자_프리미어리그 "wikilink") 무려 5연패를 기록중이며, [FA 여자컵에서도](https://ko.wikipedia.org/wiki/FA_여자컵 "wikilink") 3연패를 기록중이다.\[84\] 또한 그녀들은 2006 - 07시즌, [UEFA 여자 챔피언스리그](../Page/UEFA_여자_챔피언스리그.md "wikilink")(남자의 챔피언스리그와 동급이다)에서 우승해 잉글랜드 여자축구 클럽 중에서는 유일한 우승이고, [쿼드러플](https://ko.wikipedia.org/wiki/쿼드러플 "wikilink")까지 기록하였다.\[85\] 이 쿼드러플 기록은 전 세계 여자축구 클럽을 통틀어 아스널 WFC가 유일하다. 아스널과 아스널 WFC는 형식적으로는 독립된 존재들이지만 꽤나 밀접하게 연결되어 있다. 아스널 WFC는 시즌당 한번 정도는 에미레이트 스타디움을 사용할 수 있는 자격을 가지고 있다. 평상시의 아스널 WFC의 홈 구장은 [메도우 파크라는](https://ko.wikipedia.org/wiki/메도우_파크 "wikilink") 곳으로써 7부리그의 [보어럼 우드 FC와](https://ko.wikipedia.org/wiki/보어럼_우드_FC "wikilink") [왓포드의](https://ko.wikipedia.org/wiki/왓포드_FC "wikilink") 2군 팀과 같이 사용하고 있다.\[86\]
+[아스널 WFC는](../Page/아스널_WFC.md "wikilink") 아스널과 제휴하고 있는 여자 축구 클럽이다. 1987년 창단되었고, 2002년에 프로로 전향해 현재 아스널의 유니폼 관리 담당을 맡고 있는 [빅 에이커스가](https://ko.wikipedia.org/wiki/빅_에이커스 "wikilink") 창단부터 지금까지 아스널 WFC의 감독을 맡고 있다.\[83\] 아스널 WFC는 [잉글랜드 여자축구에서](https://ko.wikipedia.org/wiki/잉글랜드_여자축구 "wikilink") 가장 성공적인 클럽이며, 현재 [여자 프리미어리그에서](https://ko.wikipedia.org/wiki/여자_프리미어리그 "wikilink") 무려 5연패를 기록중이며, [FA 여자컵에서도](https://ko.wikipedia.org/wiki/FA_여자컵 "wikilink") 3연패를 기록중이다.\[84\] 또한 그녀들은 2006 - 07시즌, [UEFA 여자 챔피언스리그](../Page/UEFA_여자_챔피언스리그.md "wikilink")(남자의 챔피언스리그와 동급이다)에서 우승해 잉글랜드 여자축구 클럽 중에서는 유일한 우승이고, [쿼드러플](https://ko.wikipedia.org/wiki/쿼드러플 "wikilink")까지 기록하였다.\[85\] 이 쿼드러플 기록은 전 세계 여자축구 클럽을 통틀어 아스널 WFC가 유일하다. 아스널과 아스널 WFC는 형식적으로는 독립된 존재들이지만 꽤나 밀접하게 연결되어 있다. 아스널 WFC는 시즌당 한번 정도는 에미레이트 스타디움을 사용할 수 있는 자격을 가지고 있다. 평상시의 아스널 WFC의 홈 구장은 [메도우 파크라는](https://ko.wikipedia.org/wiki/메도우_파크 "wikilink") 곳으로써 7부리그의 [보어럼 우드 FC와](https://ko.wikipedia.org/wiki/보어럼_우드_FC "wikilink") [왓포드의](https://ko.wikipedia.org/wiki/왓포드_FC "wikilink") 2군 팀과 같이 사용하고 있다.\[86\]
 
 ## 사회에서의 아스널
 
@@ -243,7 +243,7 @@
 
 ### 출전 기록
 
-아스널의 유명한 중앙 수비수였던 [데이비드 오리어리는](../Page/데이비드_오리어리.md "wikilink") 1975년부터 1993년까지 1군에서만 무려 722경기를 출장해 아스널의 최다 출장 기록을 갖고 있다. 그와 한때 중앙 수비수 파트너이자 전 주장인 [토니 애덤스는](../Page/토니_애덤스.md "wikilink") 669경기 출장으로서 2위의 기록을 갖고 있다. [골키퍼](https://ko.wikipedia.org/wiki/골키퍼 "wikilink") 로서는 [데이비드 시먼이](../Page/데이비드_시먼.md "wikilink") 563경기로 최고 기록을 갖고 있다.\[97\]
+아스널의 유명한 중앙 수비수였던 [데이비드 오리어리는](../Page/데이비드_오리어리.md "wikilink") 1975년부터 1993년까지 1군에서만 무려 722경기를 출장해 아스널의 최다 출장 기록을 갖고 있다. 그와 한때 중앙 수비수 파트너이자 전 주장인 [토니 애덤스는](../Page/토니_애덤스.md "wikilink") 669경기 출장으로서 2위의 기록을 갖고 있다. [골키퍼](../Page/골키퍼.md "wikilink") 로서는 [데이비드 시먼이](../Page/데이비드_시먼.md "wikilink") 563경기로 최고 기록을 갖고 있다.\[97\]
 
 <table>
 <caption>style="font-weight:normal;" | <small><em>(2010년 7월 24일 기준)</em>[98]</small></caption>
@@ -343,7 +343,7 @@
 
 ### 최다 골 기록
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Thierry_Henry_Charlton.jpg "wikilink") [티에리 앙리는](https://ko.wikipedia.org/wiki/티에리_앙리 "wikilink") 아스널의 통산 최다 골 득점자로서 2005년 8월에 185골을 기록했던 [이언 라이트를](../Page/이언_라이트.md "wikilink") 넘어섰으며\[99\], 1999년부터 2007년까지 그리고 2012년에 단기 임대로 복귀하여 총 228골을 기록, 아스널 통산 최다 리그 골 기록을 보유하고 있다.\[100\] 이언 라이트는 1939년, [클리프 바스틴이](https://ko.wikipedia.org/wiki/클리프_바스틴 "wikilink") 178골을 기록한 이래 오랫동안 이어져 오고 있던 골 기록을 1997년 9월에 갈아 치웠다.\[101\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:Thierry_Henry_Charlton.jpg "wikilink") [티에리 앙리는](../Page/티에리_앙리.md "wikilink") 아스널의 통산 최다 골 득점자로서 2005년 8월에 185골을 기록했던 [이언 라이트를](../Page/이언_라이트.md "wikilink") 넘어섰으며\[99\], 1999년부터 2007년까지 그리고 2012년에 단기 임대로 복귀하여 총 228골을 기록, 아스널 통산 최다 리그 골 기록을 보유하고 있다.\[100\] 이언 라이트는 1939년, [클리프 바스틴이](https://ko.wikipedia.org/wiki/클리프_바스틴 "wikilink") 178골을 기록한 이래 오랫동안 이어져 오고 있던 골 기록을 1997년 9월에 갈아 치웠다.\[101\]
 
 <table>
 <caption>style="font-weight:normal;" | <small><em>(2012년 8월 8일 기준)</em>[102]</small></caption>
@@ -359,7 +359,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/티에리_앙리" title="wikilink">티에리 앙리</a></p></td>
+<td><p><a href="../Page/티에리_앙리.md" title="wikilink">티에리 앙리</a></p></td>
 <td><p>1999 - 2007, 2012</p></td>
 <td><p>374</p></td>
 <td><p>228</p></td>
@@ -462,7 +462,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2006</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/티에리_앙리" title="wikilink">티에리 앙리</a></p></td>
+<td><p><a href="../Page/티에리_앙리.md" title="wikilink">티에리 앙리</a></p></td>
 <td></td>
 <td><p><a href="../Page/공격수.md" title="wikilink">FW</a></p></td>
 </tr>
@@ -654,7 +654,7 @@
   - [웨일스 공자 해리](https://ko.wikipedia.org/wiki/웨일스_공자_해리 "wikilink") (영국 왕자, [웨일스 공 찰스의](../Page/웨일스_공_찰스.md "wikilink") 차남)
   - [케빈 코스트너](../Page/케빈_코스트너.md "wikilink") (배우)
   - [제이미 벨](../Page/제이미_벨.md "wikilink") (배우)
-  - [피델 카스트로](https://ko.wikipedia.org/wiki/피델_카스트로 "wikilink") (정치가)
+  - [피델 카스트로](../Page/피델_카스트로.md "wikilink") (정치가)
   - [베네딕트 컴버배치](../Page/베네딕트_컴버배치.md "wikilink") (배우)
   - [로저 돌트리](../Page/로저_돌트리.md "wikilink") ([더 후의](../Page/더_후.md "wikilink") 보컬)
   - [다이도](../Page/다이도_\(가수\).md "wikilink") (가수)

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [RAG FAIR](https://ko.wikipedia.org/wiki/RAG_FAIR).
 
 
-**RAG FAIR**(*라그페어*)는 [일본](../Page/일본.md "wikilink")의 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") [아카펠라](https://ko.wikipedia.org/wiki/아카펠라 "wikilink") 그룹이다. 약칭하여 **RAG**로 주로 표기한다.
+**RAG FAIR**(*라그페어*)는 [일본](../Page/일본.md "wikilink")의 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") [아카펠라](../Page/아카펠라.md "wikilink") 그룹이다. 약칭하여 **RAG**로 주로 표기한다.
 
 ## 약력
 

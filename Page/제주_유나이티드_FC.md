@@ -19,7 +19,7 @@
 
 이 경기에서 유공은 골키퍼 샤샤의 데뷔전 맹활약과 일화의 자책골, [허기태](../Page/허기태.md "wikilink")의 추가골로 2:0으로 [일화 천마를](https://ko.wikipedia.org/wiki/성남_일화_천마 "wikilink") 이겼다. 이 경기 결과 유공은 마지막 한 경기만을 남겨둔채로 승점 1점차로 [일화 천마를](https://ko.wikipedia.org/wiki/성남_일화_천마 "wikilink") 바싹 뒤쫓아 역전 우승의 실날같은 희망을 이어갈 수 있었지만 아쉽게 클럽 통산 두 번째 준우승을 차지하는 것으로 만족해만 했다.
 
-[1994년 10월말로](../Page/1994년_10월.md "wikilink") 계약이 만료되는 [박성화](../Page/박성화.md "wikilink") 감독과 재계약을 하지 않는 것으로 결정되면서 구단에서는 대대적인 팀컬러 쇄신을 위해 [1990년 FIFA 월드컵에서](https://ko.wikipedia.org/wiki/1990년_FIFA_월드컵 "wikilink") [카메룬](../Page/카메룬_축구_국가대표팀.md "wikilink") 돌풍을 일으킨 [발레리 네폼냐시](https://ko.wikipedia.org/wiki/발레리_네폼냐시 "wikilink") 감독을 신임 감독으로 선임하였으며 1995 시즌부터 미드필더들의 짧은 패스 위주로 재미있는 축구를 구사하는 일명 니포축구의 서막을 올리기 시작하였다.
+[1994년 10월말로](../Page/1994년_10월.md "wikilink") 계약이 만료되는 [박성화](../Page/박성화.md "wikilink") 감독과 재계약을 하지 않는 것으로 결정되면서 구단에서는 대대적인 팀컬러 쇄신을 위해 [1990년 FIFA 월드컵에서](https://ko.wikipedia.org/wiki/1990년_FIFA_월드컵 "wikilink") [카메룬](../Page/카메룬_축구_국가대표팀.md "wikilink") 돌풍을 일으킨 [발레리 네폼냐시](../Page/발레리_네폼냐시.md "wikilink") 감독을 신임 감독으로 선임하였으며 1995 시즌부터 미드필더들의 짧은 패스 위주로 재미있는 축구를 구사하는 일명 니포축구의 서막을 올리기 시작하였다.
 
 ### 서울 목동운동장과 부천 시대 (1996–2005)
 
@@ -96,7 +96,7 @@
 
 [2011년](../Page/2011년.md "wikilink")에는 새로이 [신영록](../Page/신영록_\(1987년\).md "wikilink"), [최원권](../Page/최원권.md "wikilink"), [강수일](https://ko.wikipedia.org/wiki/강수일 "wikilink")을 영입하였으나 [구자철](../Page/구자철.md "wikilink")이 [VfL 볼프스부르크로](../Page/VfL_볼프스부르크.md "wikilink") 이적함으로써 전력약화가 예상되었다. 정규리그와 [AFC 챔피언스리그를](../Page/AFC_챔피언스리그.md "wikilink") 병행하기에는 얇은 스쿼드로 인해, 결국 첫 출전이었던 [AFC 챔피언스리그](https://ko.wikipedia.org/wiki/AFC_챔피언스리그_2011 "wikilink") E조 예선에서는 2승 1무 3패(승점 7점)로 탈락하였다.
 
-2014 시즌 제주는 다시 한번 상위 스플릿 라운드에 진입하였고, 시즌을 끝으로 [박경훈](../Page/박경훈.md "wikilink") 감독이 물러나고 [조성환](../Page/조성환_\(1970년\).md "wikilink") 2군 감독이 신임 감독으로 내정되었다. 2016 시즌에는 꾸준한 성적과 공격적인 축구를 통해 상위 스플릿 라운드에 진입하였다. 이후 구단의 분위기를 잘 추스려 팀을 창단 후 첫 상위스프릿 라운드 진출을 성공시켰다. [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [10월 14일](../Page/10월_14일.md "wikilink") 감독이 P급 지도자 자격증이 있어야만 [AFC 챔피언스리그에](../Page/AFC_챔피언스리그.md "wikilink") 출전할수 있다는 규정으로 인해 P급 지도자 자격증이 없는 [조성환](../Page/조성환_\(1970년\).md "wikilink") 감독이 보직을 수석 코치로 변경하였고, [김인수](../Page/김인수_\(축구인\).md "wikilink") 감독이 신임 감독으로 선임되었다. 이후 리그 3위를 기록하여 6년 만에 [AFC 챔피언스리그에](https://ko.wikipedia.org/wiki/AFC_챔피언스리그_2017 "wikilink") 진출에 성공하였지만 [FC 서울이](https://ko.wikipedia.org/wiki/FC_서울 "wikilink") 더블 우승([K리그 클래식](https://ko.wikipedia.org/wiki/K리그_클래식_2016 "wikilink"), [FA컵](../Page/FA컵_2016.md "wikilink") 우승)을 달성하면 조별리그에 직행할 수 있었다. 하지만, [유상훈](../Page/유상훈.md "wikilink")의 실축으로 [FC 서울이](https://ko.wikipedia.org/wiki/FC_서울 "wikilink") 더블 우승 달성에 실패하면서 [AFC 챔피언스리그](https://ko.wikipedia.org/wiki/AFC_챔피언스리그_2017 "wikilink") 조별리그 직행이 좌절되었지만, [전북현대](https://ko.wikipedia.org/wiki/전북현대 "wikilink")가 AFC의 ACL 자격 박탈 징계를 받으며 제주가 조별리그에 직행하였고, [K리그 클래식](https://ko.wikipedia.org/wiki/K리그_클래식_2016 "wikilink") 4위였던 [울산현대](https://ko.wikipedia.org/wiki/울산현대 "wikilink")가 제주의 ACL PO 티켓을 승계했다. [안현범](../Page/안현범.md "wikilink")은 [K리그 영플레이어상을](../Page/K리그_영플레이어상.md "wikilink") 수상하였고, [정운은](../Page/정운_\(축구_선수\).md "wikilink") [K리그 베스트 11에](../Page/K리그_베스트_11.md "wikilink") 선정되었다.
+2014 시즌 제주는 다시 한번 상위 스플릿 라운드에 진입하였고, 시즌을 끝으로 [박경훈](../Page/박경훈.md "wikilink") 감독이 물러나고 [조성환](../Page/조성환_\(1970년\).md "wikilink") 2군 감독이 신임 감독으로 내정되었다. 2016 시즌에는 꾸준한 성적과 공격적인 축구를 통해 상위 스플릿 라운드에 진입하였다. 이후 구단의 분위기를 잘 추스려 팀을 창단 후 첫 상위스프릿 라운드 진출을 성공시켰다. [2016년](../Page/2016년.md "wikilink") [10월 14일](../Page/10월_14일.md "wikilink") 감독이 P급 지도자 자격증이 있어야만 [AFC 챔피언스리그에](../Page/AFC_챔피언스리그.md "wikilink") 출전할수 있다는 규정으로 인해 P급 지도자 자격증이 없는 [조성환](../Page/조성환_\(1970년\).md "wikilink") 감독이 보직을 수석 코치로 변경하였고, [김인수](../Page/김인수_\(축구인\).md "wikilink") 감독이 신임 감독으로 선임되었다. 이후 리그 3위를 기록하여 6년 만에 [AFC 챔피언스리그에](https://ko.wikipedia.org/wiki/AFC_챔피언스리그_2017 "wikilink") 진출에 성공하였지만 [FC 서울이](https://ko.wikipedia.org/wiki/FC_서울 "wikilink") 더블 우승([K리그 클래식](https://ko.wikipedia.org/wiki/K리그_클래식_2016 "wikilink"), [FA컵](../Page/FA컵_2016.md "wikilink") 우승)을 달성하면 조별리그에 직행할 수 있었다. 하지만, [유상훈](../Page/유상훈.md "wikilink")의 실축으로 [FC 서울이](https://ko.wikipedia.org/wiki/FC_서울 "wikilink") 더블 우승 달성에 실패하면서 [AFC 챔피언스리그](https://ko.wikipedia.org/wiki/AFC_챔피언스리그_2017 "wikilink") 조별리그 직행이 좌절되었지만, [전북현대](https://ko.wikipedia.org/wiki/전북현대 "wikilink")가 AFC의 ACL 자격 박탈 징계를 받으며 제주가 조별리그에 직행하였고, [K리그 클래식](https://ko.wikipedia.org/wiki/K리그_클래식_2016 "wikilink") 4위였던 [울산현대](https://ko.wikipedia.org/wiki/울산현대 "wikilink")가 제주의 ACL PO 티켓을 승계했다. [안현범](../Page/안현범.md "wikilink")은 [K리그 영플레이어상을](../Page/K리그_영플레이어상.md "wikilink") 수상하였고, [정운은](../Page/정운_\(축구_선수\).md "wikilink") [K리그 베스트 11에](../Page/K리그_베스트_11.md "wikilink") 선정되었다.
 
 제주는 [2017 AFC 챔피언스리그를](https://ko.wikipedia.org/wiki/AFC_챔피언스리그_2017 "wikilink") 대비하기 위해 [조용형](https://ko.wikipedia.org/wiki/조용형 "wikilink"), [진성욱](../Page/진성욱.md "wikilink"), [박진포](../Page/박진포.md "wikilink"), [이창근](../Page/이창근_\(축구_선수\).md "wikilink") , [김원일](https://ko.wikipedia.org/wiki/김원일_\(축구_선수\) "wikilink"), [최현태](../Page/최현태.md "wikilink"), [프레데리크 멘디](https://ko.wikipedia.org/wiki/프레데리크_멘디 "wikilink"), [이찬동](../Page/이찬동.md "wikilink") 등 선수들을 영입하여 알찬 전력 보강을 실시하여 6년 만에 ACL 도전할 준비를 마쳤다. 제주는 [2017 AFC 챔피언스리그에](https://ko.wikipedia.org/wiki/AFC_챔피언스리그_2017 "wikilink") H조 예선에서는 3승 1무 2패 (승점 10점)로 2위의 성적으로 16강에 진출했지만, 일본의 [우라와 레즈에](https://ko.wikipedia.org/wiki/우라와_레즈 "wikilink") 1,2차전 합계 2-3으로 패하며 16강에서 탈락했다.
 
@@ -106,7 +106,7 @@
 
 ### 현재 선수 명단
 
-[2020년](https://ko.wikipedia.org/wiki/2020년 "wikilink") [2월 13일](../Page/2월_13일.md "wikilink") 기준
+[2020년](../Page/2020년.md "wikilink") [2월 13일](../Page/2월_13일.md "wikilink") 기준
 
 ### 임대 및 군 복무 중인 선수
 
@@ -245,7 +245,7 @@
 </tr>
 <tr class="even">
 <td><p>4대</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/발레리_네폼냐시" title="wikilink">발레리 네폼냐시</a></p></td>
+<td><p><a href="../Page/발레리_네폼냐시.md" title="wikilink">발레리 네폼냐시</a></p></td>
 <td><p>1995/01/01</p></td>
 <td><p>1998/10/31</p></td>
 <td><p>1995–1998</p></td>

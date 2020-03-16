@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SBS A\&T](https://ko.wikipedia.org/wiki/SBS_A\&T).
 
 
-**SBS 에이앤티**(SBS A\&T)는 [대한민국](../Page/대한민국.md "wikilink")의 [방송](https://ko.wikipedia.org/wiki/방송 "wikilink") 예술 및 공연기획회사이다. [1998년](../Page/1998년.md "wikilink") [SBS](../Page/SBS.md "wikilink")의 방송미술부문이 분리되어 SBS 아트텍, SBS 뉴스텍으로 각각 독립법인으로 출범하였으며 [2014년](../Page/2014년.md "wikilink") [5월 1일에](../Page/5월_1일.md "wikilink") 각 독립법인을 통합해 지금의 SBS A\&T가 출범하였다.\[1\]
+**SBS 에이앤티**(SBS A\&T)는 [대한민국](../Page/대한민국.md "wikilink")의 [방송](../Page/방송.md "wikilink") 예술 및 공연기획회사이다. [1998년](../Page/1998년.md "wikilink") [SBS](../Page/SBS.md "wikilink")의 방송미술부문이 분리되어 SBS 아트텍, SBS 뉴스텍으로 각각 독립법인으로 출범하였으며 [2014년](../Page/2014년.md "wikilink") [5월 1일에](../Page/5월_1일.md "wikilink") 각 독립법인을 통합해 지금의 SBS A\&T가 출범하였다.\[1\]
 
 ## 연혁
 

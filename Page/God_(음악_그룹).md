@@ -72,13 +72,13 @@
 <li>파리 (Intro)</li>
 <li>촛불하나</li>
 <li>니가 필요해</li>
-<li><strong>거짓말 (Narr. <a href="https://ko.wikipedia.org/wiki/전지현" title="wikilink">전지현</a>)</strong></li>
+<li><strong>거짓말 (Narr. <a href="../Page/전지현.md" title="wikilink">전지현</a>)</strong></li>
 <li>돌아와줘</li>
 <li>나와 함께 춤을 춰</li>
 <li>왜</li>
 <li>God 파티</li>
 <li>장미의 전쟁</li>
-<li>난 사랑을 몰라 (Narr. <a href="https://ko.wikipedia.org/wiki/전지현" title="wikilink">전지현</a>)</li>
+<li>난 사랑을 몰라 (Narr. <a href="../Page/전지현.md" title="wikilink">전지현</a>)</li>
 <li>사랑이 영원하다면</li>
 <li>하늘색 풍선</li>
 <li>촛불하나 (Inst.)</li>
@@ -97,7 +97,7 @@
 <li>슬픈 사랑</li>
 <li>나는 알아</li>
 <li>모르죠</li>
-<li>난 남자가 있어 (Feat. 탤런트 <a href="https://ko.wikipedia.org/wiki/김정은_(배우)" title="wikilink">김정은</a>)</li>
+<li>난 남자가 있어 (Feat. 탤런트 <a href="../Page/김정은_(배우).md" title="wikilink">김정은</a>)</li>
 <li>가자 (Feat. <a href="https://ko.wikipedia.org/wiki/임정희" title="wikilink">임정희</a>)</li>
 <li>134-14</li>
 <li>떠나지 못하는 이유</li>
@@ -518,7 +518,7 @@
 [분류:싸이더스HQ 소속](https://ko.wikipedia.org/wiki/분류:싸이더스HQ_소속 "wikilink") [분류:5인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:5인조_음악_그룹 "wikilink") [분류:1999년 데뷔](https://ko.wikipedia.org/wiki/분류:1999년_데뷔 "wikilink") [분류:1990년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:1990년대_음악_그룹 "wikilink") [분류:2000년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2000년대_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:SBS 인기가요 1위 수상자](https://ko.wikipedia.org/wiki/분류:SBS_인기가요_1위_수상자 "wikilink") [분류:SBS 인기가요 뮤티즌송 수상자](https://ko.wikipedia.org/wiki/분류:SBS_인기가요_뮤티즌송_수상자 "wikilink") [분류:KBS 뮤직뱅크 1위 수상자](https://ko.wikipedia.org/wiki/분류:KBS_뮤직뱅크_1위_수상자 "wikilink") [분류:Mnet 엠카운트다운 1위 수상자](https://ko.wikipedia.org/wiki/분류:Mnet_엠카운트다운_1위_수상자 "wikilink") [분류:MBC 쇼\! 음악중심 1위 수상자](https://ko.wikipedia.org/wiki/분류:MBC_쇼!_음악중심_1위_수상자 "wikilink") [분류:아이돌 그룹](https://ko.wikipedia.org/wiki/분류:아이돌_그룹 "wikilink") [분류:대한민국의 보이 밴드](https://ko.wikipedia.org/wiki/분류:대한민국의_보이_밴드 "wikilink") [분류:대한민국의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_음악_그룹 "wikilink") [분류:대한민국의 댄스 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_댄스_음악_그룹 "wikilink") [분류:골든디스크 대상 수상 음악가](https://ko.wikipedia.org/wiki/분류:골든디스크_대상_수상_음악가 "wikilink") [분류:골든디스크 본상 수상 음악가](https://ko.wikipedia.org/wiki/분류:골든디스크_본상_수상_음악가 "wikilink") [분류:골든디스크 인기상 수상 음악가](https://ko.wikipedia.org/wiki/분류:골든디스크_인기상_수상_음악가 "wikilink") [분류:MTV 비디오 뮤직 어워드 수상자](https://ko.wikipedia.org/wiki/분류:MTV_비디오_뮤직_어워드_수상자 "wikilink") [God](https://ko.wikipedia.org/wiki/분류:God "wikilink") [분류:1999년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:1999년_결성된_음악_그룹 "wikilink")
 
 1.  [관련기사](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=106&oid=038&aid=0000064309)
-2.  초기에는 갓식스(god6)라는 혼성그룹으로 결성할 예정이었으나 당시 여성 멤버로 활동 준비중이었던 [김선아](https://ko.wikipedia.org/wiki/김선아 "wikilink")가 탈퇴하게 되면서 현재의 5인조 남성 그룹으로 데뷔하게 되었다.
+2.  초기에는 갓식스(god6)라는 혼성그룹으로 결성할 예정이었으나 당시 여성 멤버로 활동 준비중이었던 [김선아](../Page/김선아.md "wikilink")가 탈퇴하게 되면서 현재의 5인조 남성 그룹으로 데뷔하게 되었다.
 3.  [관련기사](http://star.mt.co.kr/view/stview.php?no=2009010811050148467&type=1&outlink=1)
 4.
 5.

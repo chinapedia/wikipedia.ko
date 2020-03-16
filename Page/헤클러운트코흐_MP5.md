@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ MP5](https://ko.wikipedia.org/wiki/_MP5).
 
 
-**MP5**()는 [헤클러운트코흐](https://ko.wikipedia.org/wiki/헤클러운트코흐 "wikilink")에서 생산하는 [기관단총](../Page/기관단총.md "wikilink")이다. 과거 대부분의 기관단총이 [오픈 볼트방식이어서](https://ko.wikipedia.org/wiki/오픈_볼트 "wikilink") 초탄 명중률이 떨어졌으나, MP5는 [클로즈드 볼트](https://ko.wikipedia.org/wiki/클로즈드_볼트 "wikilink") 방식을 사용하여 초탄 명중률이 매우 높다. 정밀도 및 신뢰성도 뛰어나 [1970년대](https://ko.wikipedia.org/wiki/1970년대 "wikilink")부터 수많은 특수부대나 대테러부대에서 채용하였다.
+**MP5**()는 [헤클러운트코흐](../Page/헤클러운트코흐.md "wikilink")에서 생산하는 [기관단총](../Page/기관단총.md "wikilink")이다. 과거 대부분의 기관단총이 [오픈 볼트방식이어서](../Page/오픈_볼트.md "wikilink") 초탄 명중률이 떨어졌으나, MP5는 [클로즈드 볼트](../Page/클로즈드_볼트.md "wikilink") 방식을 사용하여 초탄 명중률이 매우 높다. 정밀도 및 신뢰성도 뛰어나 [1970년대](https://ko.wikipedia.org/wiki/1970년대 "wikilink")부터 수많은 특수부대나 대테러부대에서 채용하였다.
 
 ## 역사
 

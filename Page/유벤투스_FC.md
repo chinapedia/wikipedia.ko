@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
 
 
-**유벤투스 풋볼 클럽**()은 [이탈리아](../Page/이탈리아.md "wikilink") [피에몬테주](https://ko.wikipedia.org/wiki/피에몬테주 "wikilink") [토리노](../Page/토리노.md "wikilink")가 연고지인 [축구](../Page/축구.md "wikilink") 클럽이다. **유벤투스**(Juventus)는 [라틴어](../Page/라틴어.md "wikilink")로 **젊음**이라는 의미이며, 줄여서 **유베**(Juve)라고 한다. 별명은 엠블럼과 유니폼의 색상인 흰(Bianco)과 검정(Nero)을 뜻하는 **비안코네로**(Bianconero, 복수형 비안코네리 (Bianconeri)), **라 베키아 시뇨라**(La Vecchia Signora, 나이든 귀부인), **제브레**(Zebre, 얼룩말) 등이 있다. 이탈리아에서 3번째로 오래된 축구 클럽이며, 2006–07 시즌을 제외하고 줄곧 1부 리그인 [세리에 A에](../Page/세리에_A.md "wikilink") 있었다.
+**유벤투스 풋볼 클럽**()은 [이탈리아](../Page/이탈리아.md "wikilink") [피에몬테주](../Page/피에몬테주.md "wikilink") [토리노](../Page/토리노.md "wikilink")가 연고지인 [축구](../Page/축구.md "wikilink") 클럽이다. **유벤투스**(Juventus)는 [라틴어](../Page/라틴어.md "wikilink")로 **젊음**이라는 의미이며, 줄여서 **유베**(Juve)라고 한다. 별명은 엠블럼과 유니폼의 색상인 흰(Bianco)과 검정(Nero)을 뜻하는 **비안코네로**(Bianconero, 복수형 비안코네리 (Bianconeri)), **라 베키아 시뇨라**(La Vecchia Signora, 나이든 귀부인), **제브레**(Zebre, 얼룩말) 등이 있다. 이탈리아에서 3번째로 오래된 축구 클럽이며, 2006–07 시즌을 제외하고 줄곧 1부 리그인 [세리에 A에](../Page/세리에_A.md "wikilink") 있었다.
 
 엠블럼 한 가운데에 있는 것은 [소](../Page/소.md "wikilink")로, 이는 연고지 [토리노](../Page/토리노.md "wikilink") 시의 어원인 타우리니(Taurini, 소의 사람들)에서 유래하였다. [토리노](../Page/토리노.md "wikilink") 시의 문양 그리고 연고지 라이벌인 [토리노 FC의](../Page/토리노_FC.md "wikilink") 문양에도 있다.
 
@@ -21,7 +21,7 @@
 
 ### 리그 지배
 
-[피아트](../Page/피아트.md "wikilink")의 소유주 [에도아르도 아녤리가](../Page/에도아르도_아녤리.md "wikilink") 1923년에 클럽의 소유권을 획득하였고, 새 경기장을 지었다.\[6\] 이 인수는 1925–26 시즌에 [안토니오 보야크의](https://ko.wikipedia.org/wiki/안토니오_보야크 "wikilink") 놀라운 골들과 [알바 로마를](https://ko.wikipedia.org/wiki/SS_알바오다스_로마 "wikilink") 합계 12-1로 이기면서, 팀의 두 번째 스쿠데토를 차지하는데 큰 도움을 줬다.\[7\] 유벤투스는 1930년대 이후부터 이탈리아 축구계내에서 강력한 영향력을 확립하였으며, 국내에서는 처음으로 프로 축구단이 되었고 서포터들을 기반으로 분권화시켰으며, 이를 통하여 [카를로 카르카노](https://ko.wikipedia.org/wiki/카를로_카르카노 "wikilink") 감독과 [1934년 FIFA 월드컵](https://ko.wikipedia.org/wiki/1934년_FIFA_월드컵 "wikilink") 시절 팀을 이끌던 [비토리오 포초](../Page/비토리오_포초.md "wikilink") 시대의 [이탈리아 축구 국가대표팀의](https://ko.wikipedia.org/wiki/이탈리아_축구_국가대표팀 "wikilink") [핵심](https://ko.wikipedia.org/wiki/:EN:Nazio-Juve "wikilink") 선수과 5연속 [스쿠데토](../Page/스쿠데토.md "wikilink")를 이뤄냈다.\[8\] 당시에 팀에는 [라이문도 오르시](https://ko.wikipedia.org/wiki/라이문도_오르시 "wikilink"), [루이지 베르톨리니](https://ko.wikipedia.org/wiki/루이지_베르톨리니 "wikilink"), [조반니 페라리](https://ko.wikipedia.org/wiki/조반니_페라리 "wikilink"), [루이스 몬티](../Page/루이스_몬티.md "wikilink") 같은 스타 플레이어들이 있었다.
+[피아트](../Page/피아트.md "wikilink")의 소유주 [에도아르도 아녤리가](../Page/에도아르도_아녤리.md "wikilink") 1923년에 클럽의 소유권을 획득하였고, 새 경기장을 지었다.\[6\] 이 인수는 1925–26 시즌에 [안토니오 보야크의](https://ko.wikipedia.org/wiki/안토니오_보야크 "wikilink") 놀라운 골들과 [알바 로마를](https://ko.wikipedia.org/wiki/SS_알바오다스_로마 "wikilink") 합계 12-1로 이기면서, 팀의 두 번째 스쿠데토를 차지하는데 큰 도움을 줬다.\[7\] 유벤투스는 1930년대 이후부터 이탈리아 축구계내에서 강력한 영향력을 확립하였으며, 국내에서는 처음으로 프로 축구단이 되었고 서포터들을 기반으로 분권화시켰으며, 이를 통하여 [카를로 카르카노](https://ko.wikipedia.org/wiki/카를로_카르카노 "wikilink") 감독과 [1934년 FIFA 월드컵](https://ko.wikipedia.org/wiki/1934년_FIFA_월드컵 "wikilink") 시절 팀을 이끌던 [비토리오 포초](../Page/비토리오_포초.md "wikilink") 시대의 [이탈리아 축구 국가대표팀의](../Page/이탈리아_축구_국가대표팀.md "wikilink") [핵심](https://ko.wikipedia.org/wiki/:EN:Nazio-Juve "wikilink") 선수과 5연속 [스쿠데토](../Page/스쿠데토.md "wikilink")를 이뤄냈다.\[8\] 당시에 팀에는 [라이문도 오르시](https://ko.wikipedia.org/wiki/라이문도_오르시 "wikilink"), [루이지 베르톨리니](https://ko.wikipedia.org/wiki/루이지_베르톨리니 "wikilink"), [조반니 페라리](https://ko.wikipedia.org/wiki/조반니_페라리 "wikilink"), [루이스 몬티](../Page/루이스_몬티.md "wikilink") 같은 스타 플레이어들이 있었다.
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Sivori,_Charles,_Boniperti.jpg "wikilink"), [찰스](../Page/존_찰스.md "wikilink") 그리고 [보니페르티](../Page/잠피에로_보니페르티.md "wikilink")\]\]
 
@@ -41,17 +41,17 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Alessandro_Del_Piero_2008_cropped.jpg "wikilink") (2007-08)\]\]
 
-[1994-95](https://ko.wikipedia.org/wiki/세리에_A_1994-95 "wikilink") 시즌 시작을 하면서, [마르첼로 리피가](../Page/마르첼로_리피.md "wikilink") 유벤투스의 감독으로 부임하였다. 그의 첫 시즌에 1980년대 중반 이후로 우승이 없던 [세리에 A](../Page/세리에_A.md "wikilink") 우승 타이틀을 가져왔다. 이 당시의 선수들로는 [치로 페라라](../Page/치로_페라라.md "wikilink"), [로베르토 바조](../Page/로베르토_바조.md "wikilink"), [잔루카 비알리](../Page/잔루카_비알리.md "wikilink"), 어린 시절의 [알레산드로 델 피에로가](https://ko.wikipedia.org/wiki/알레산드로_델_피에로 "wikilink") 있었다. 리피는 다음 시즌에 [챔피언스리그](https://ko.wikipedia.org/wiki/UEFA_챔피언스리그_1995-96 "wikilink") 결승전에서 [파브리치오 라바넬리의](https://ko.wikipedia.org/wiki/파브리치오_라바넬리 "wikilink") 골로 1-1 무승부 끝에 [승부차기](../Page/승부차기.md "wikilink") 끝에 [아약스를](../Page/AFC_아약스.md "wikilink") 꺾고 우승컵을 들었다.
+[1994-95](https://ko.wikipedia.org/wiki/세리에_A_1994-95 "wikilink") 시즌 시작을 하면서, [마르첼로 리피가](../Page/마르첼로_리피.md "wikilink") 유벤투스의 감독으로 부임하였다. 그의 첫 시즌에 1980년대 중반 이후로 우승이 없던 [세리에 A](../Page/세리에_A.md "wikilink") 우승 타이틀을 가져왔다. 이 당시의 선수들로는 [치로 페라라](../Page/치로_페라라.md "wikilink"), [로베르토 바조](../Page/로베르토_바조.md "wikilink"), [잔루카 비알리](../Page/잔루카_비알리.md "wikilink"), 어린 시절의 [알레산드로 델 피에로가](../Page/알레산드로_델_피에로.md "wikilink") 있었다. 리피는 다음 시즌에 [챔피언스리그](https://ko.wikipedia.org/wiki/UEFA_챔피언스리그_1995-96 "wikilink") 결승전에서 [파브리치오 라바넬리의](https://ko.wikipedia.org/wiki/파브리치오_라바넬리 "wikilink") 골로 1-1 무승부 끝에 [승부차기](../Page/승부차기.md "wikilink") 끝에 [아약스를](../Page/AFC_아약스.md "wikilink") 꺾고 우승컵을 들었다.
 
 유벤투스의 유러피언컵 우승을 한 후 얼마 지나지 않아, [지네딘 지단](https://ko.wikipedia.org/wiki/지네딘_지단 "wikilink"), [필리포 인차기](../Page/필리포_인차기.md "wikilink"), [엣하르 다비츠](https://ko.wikipedia.org/wiki/엣하르_다비츠 "wikilink") 같은 높은 평가를 받는 선수들을 영입하였다. 유벤투스는 [1996-97](../Page/세리에_A_1996-97.md "wikilink") 시즌과 [1997-98](../Page/세리에_A_1997-98.md "wikilink") 시즌 연속 우승과 더불어 1996년 [UEFA 슈퍼컵](../Page/UEFA_슈퍼컵.md "wikilink"), 1996년 [인터콘티넨털컵을](../Page/인터콘티넨털컵_\(축구\).md "wikilink") 우승하였다. 유벤투스는 이시기에 [1997년](../Page/1997_UEFA_챔피언스리그_결승전.md "wikilink"), [1998년에](../Page/1998_UEFA_챔피언스리그_결승전.md "wikilink") 결승전에 올랐지만, 각각 [보루시아 도르트문트](../Page/보루시아_도르트문트.md "wikilink"), [레알 마드리드에게](https://ko.wikipedia.org/wiki/레알_마드리드 "wikilink") 패배했다.
 
-리피 없이 한 시즌을 보내고 그가 복귀한 뒤, [잔루이지 부폰과](../Page/잔루이지_부폰.md "wikilink") [다비드 트레제게](../Page/다비드_트레제게.md "wikilink"), [파벨 네드베드](https://ko.wikipedia.org/wiki/파벨_네드베드 "wikilink"), [릴리앙 튀랑](https://ko.wikipedia.org/wiki/릴리앙_튀랑 "wikilink") 같은 스타 선수들을 영입하였고, [2001-02](../Page/세리에_A_2001-02.md "wikilink"), [2002-03](../Page/세리에_A_2002-03.md "wikilink") 시즌에 리그 우승을 이뤘다. 유벤투스는 또한 이탈리아 팀이 모두 챔피언스리그 결승전에 오른 [2003년에](../Page/2003_UEFA_챔피언스리그_결승전.md "wikilink") 결승전에 진출했지만, 0-0 무승부를 거치고 승부차기 끝에 [밀란에게](../Page/AC_밀란.md "wikilink") 패배했다. 그 다음해 유벤투스 역사상 가장 많은 우승컵을 가져다준 감독 중 한 명인 리피는 [이탈리아 축구 국가대표팀의](https://ko.wikipedia.org/wiki/이탈리아_축구_국가대표팀 "wikilink") 감독으로 선임되었다.
+리피 없이 한 시즌을 보내고 그가 복귀한 뒤, [잔루이지 부폰과](../Page/잔루이지_부폰.md "wikilink") [다비드 트레제게](../Page/다비드_트레제게.md "wikilink"), [파벨 네드베드](https://ko.wikipedia.org/wiki/파벨_네드베드 "wikilink"), [릴리앙 튀랑](https://ko.wikipedia.org/wiki/릴리앙_튀랑 "wikilink") 같은 스타 선수들을 영입하였고, [2001-02](../Page/세리에_A_2001-02.md "wikilink"), [2002-03](../Page/세리에_A_2002-03.md "wikilink") 시즌에 리그 우승을 이뤘다. 유벤투스는 또한 이탈리아 팀이 모두 챔피언스리그 결승전에 오른 [2003년에](../Page/2003_UEFA_챔피언스리그_결승전.md "wikilink") 결승전에 진출했지만, 0-0 무승부를 거치고 승부차기 끝에 [밀란에게](../Page/AC_밀란.md "wikilink") 패배했다. 그 다음해 유벤투스 역사상 가장 많은 우승컵을 가져다준 감독 중 한 명인 리피는 [이탈리아 축구 국가대표팀의](../Page/이탈리아_축구_국가대표팀.md "wikilink") 감독으로 선임되었다.
 
 ### 칼치오폴리 스캔들 및 세리에 B 강등 (2006)
 
 [파비오 카펠로가](../Page/파비오_카펠로.md "wikilink") 2004년에 감독으로 선임되었고, 2번의 세리에 A 우승을 안겨줬다. 하지만 2006년 4월에 유벤투스는 [칼초폴리](../Page/칼초폴리.md "wikilink")에 연루된 5개의 클럽중 하나가 되었고, 그 결과로 클럽 역사상 처음으로 [세리에 B로](../Page/세리에_B.md "wikilink") 강등되었다. 카펠로 감독 시절에 이룬 2번의 세리에 A 우승(2004-05, 2005-06)도 무효 처리되었다.
 
-세리에 B로 강등되자, [릴리앙 튀랑](https://ko.wikipedia.org/wiki/릴리앙_튀랑 "wikilink"), [즐라탄 이브라히모비치](https://ko.wikipedia.org/wiki/즐라탄_이브라히모비치 "wikilink"), [파비오 칸나바로가](../Page/파비오_칸나바로.md "wikilink") 포함된 많은 핵심 선수들이 팀을 떠났다. 하지만 부폰과 델 피에로, 네드베드 같은 거물 선수들은 팀에 잔류하여, [세바스티안 조빈코와](../Page/세바스티안_조빈코.md "wikilink") [클라우디오 마르키시오](../Page/클라우디오_마르키시오.md "wikilink") 같은 **프리마베라** 출신의 1군으로 올라온 젊은 선수들과 함께 세리에 A 승격을 도왔다. [알레산드로 델 피에로가](https://ko.wikipedia.org/wiki/알레산드로_델_피에로 "wikilink") 21골을 넣어 득점왕에 오르며, 한 시즌 만에 다시 세리에 A로 복귀하였다.
+세리에 B로 강등되자, [릴리앙 튀랑](https://ko.wikipedia.org/wiki/릴리앙_튀랑 "wikilink"), [즐라탄 이브라히모비치](https://ko.wikipedia.org/wiki/즐라탄_이브라히모비치 "wikilink"), [파비오 칸나바로가](../Page/파비오_칸나바로.md "wikilink") 포함된 많은 핵심 선수들이 팀을 떠났다. 하지만 부폰과 델 피에로, 네드베드 같은 거물 선수들은 팀에 잔류하여, [세바스티안 조빈코와](../Page/세바스티안_조빈코.md "wikilink") [클라우디오 마르키시오](../Page/클라우디오_마르키시오.md "wikilink") 같은 **프리마베라** 출신의 1군으로 올라온 젊은 선수들과 함께 세리에 A 승격을 도왔다. [알레산드로 델 피에로가](../Page/알레산드로_델_피에로.md "wikilink") 21골을 넣어 득점왕에 오르며, 한 시즌 만에 다시 세리에 A로 복귀하였다.
 
 ### 세리에 A 복귀 (2007-08)
 
@@ -429,23 +429,23 @@
 
 ### 출장
 
-| 순위    | 이름                                                                  | 출장  | 기간                      |
-| ----- | ------------------------------------------------------------------- | --- | ----------------------- |
-| **1** | [알레산드로 델 피에로](https://ko.wikipedia.org/wiki/알레산드로_델_피에로 "wikilink") | 705 | 1993\~2012              |
-| 2     | [잔루이지 부폰](../Page/잔루이지_부폰.md "wikilink")（＃）                         | 621 | 2001\~                  |
-| 3     | [가에타노 시레아](../Page/가에타노_시레아.md "wikilink")                          | 552 | 1974\~1988              |
-| 4     | [주세페 프리노](https://ko.wikipedia.org/wiki/주세페_프리노 "wikilink")         | 528 | 1965\~1966 / 1969\~1984 |
-| 5     | [로베르토 베테가](../Page/로베르토_베테가.md "wikilink")                          | 481 | 1966\~1969 / 1970\~1983 |
+| 순위    | 이름                                                          | 출장  | 기간                      |
+| ----- | ----------------------------------------------------------- | --- | ----------------------- |
+| **1** | [알레산드로 델 피에로](../Page/알레산드로_델_피에로.md "wikilink")            | 705 | 1993\~2012              |
+| 2     | [잔루이지 부폰](../Page/잔루이지_부폰.md "wikilink")（＃）                 | 621 | 2001\~                  |
+| 3     | [가에타노 시레아](../Page/가에타노_시레아.md "wikilink")                  | 552 | 1974\~1988              |
+| 4     | [주세페 프리노](https://ko.wikipedia.org/wiki/주세페_프리노 "wikilink") | 528 | 1965\~1966 / 1969\~1984 |
+| 5     | [로베르토 베테가](../Page/로베르토_베테가.md "wikilink")                  | 481 | 1966\~1969 / 1970\~1983 |
 
 ### 득점
 
-| 순위    | 이름                                                                  | 득점  | 기간                      |
-| ----- | ------------------------------------------------------------------- | --- | ----------------------- |
-| **1** | [알레산드로 델 피에로](https://ko.wikipedia.org/wiki/알레산드로_델_피에로 "wikilink") | 270 | 1993\~2012              |
-| 2     | [잠피에로 보니페르티](../Page/잠피에로_보니페르티.md "wikilink")                      | 179 | 1946\~1961              |
-| 3     | [로베르토 베테가](../Page/로베르토_베테가.md "wikilink")                          | 178 | 1966\~1969 / 1970\~1983 |
-| 4     | [오마르 시보리](../Page/오마르_시보리.md "wikilink")                            | 167 | 1957\~1965              |
-| 5     | [다비드 트레제게](../Page/다비드_트레제게.md "wikilink")                          | 161 | 2000\~2010              |
+| 순위    | 이름                                               | 득점  | 기간                      |
+| ----- | ------------------------------------------------ | --- | ----------------------- |
+| **1** | [알레산드로 델 피에로](../Page/알레산드로_델_피에로.md "wikilink") | 270 | 1993\~2012              |
+| 2     | [잠피에로 보니페르티](../Page/잠피에로_보니페르티.md "wikilink")   | 179 | 1946\~1961              |
+| 3     | [로베르토 베테가](../Page/로베르토_베테가.md "wikilink")       | 178 | 1966\~1969 / 1970\~1983 |
+| 4     | [오마르 시보리](../Page/오마르_시보리.md "wikilink")         | 167 | 1957\~1965              |
+| 5     | [다비드 트레제게](../Page/다비드_트레제게.md "wikilink")       | 161 | 2000\~2010              |
 
   - (＃)은 현역 선수.
 
