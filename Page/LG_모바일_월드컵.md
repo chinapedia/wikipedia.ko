@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [LG  ](https://ko.wikipedia.org/wiki/LG__).
 
 
-**LG 모바일 월드컵**()은 2010년 1월 14일과 2011년 1월 26일에 [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")에 의해 개최된 문자 빨리 보내기 대회이다. [뉴욕](https://ko.wikipedia.org/wiki/뉴욕 "wikilink")에 위치한 [고섬 홀에서](https://ko.wikipedia.org/wiki/고섬_홀 "wikilink") 행사가 진행되었다.\[1\]\[2\]
+**LG 모바일 월드컵**()은 2010년 1월 14일과 2011년 1월 26일에 [LG전자](../Page/LG전자.md "wikilink")에 의해 개최된 문자 빨리 보내기 대회이다. [뉴욕](../Page/뉴욕.md "wikilink")에 위치한 [고섬 홀에서](https://ko.wikipedia.org/wiki/고섬_홀 "wikilink") 행사가 진행되었다.\[1\]\[2\]
 
 ## 2010년
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Lgmobileworldcup1.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Lgmobileworldcupskorea2010.jpg "wikilink") 팀은 2명으로 구성된다. 한명은 [QWERTY](https://ko.wikipedia.org/wiki/QWERTY "wikilink") 자판을 입력하고, 다른 한명은 숫자 패드를 입력한다.\[3\] [아르헨티나](https://ko.wikipedia.org/wiki/아르헨티나 "wikilink"), [오스트레일리아](https://ko.wikipedia.org/wiki/오스트레일리아 "wikilink"), [브라질](https://ko.wikipedia.org/wiki/브라질 "wikilink"), [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink"), [인도네시아](https://ko.wikipedia.org/wiki/인도네시아 "wikilink"), [멕시코](https://ko.wikipedia.org/wiki/멕시코 "wikilink"), [뉴질랜드](https://ko.wikipedia.org/wiki/뉴질랜드 "wikilink"), [포르투갈](https://ko.wikipedia.org/wiki/포르투갈 "wikilink"), [러시아](../Page/러시아.md "wikilink"), [남아프리카 공화국](https://ko.wikipedia.org/wiki/남아프리카_공화국 "wikilink"), [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink"), [스페인](https://ko.wikipedia.org/wiki/스페인 "wikilink"), [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") 각각 1팀씩 총 13개팀이 참가하였다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Lgmobileworldcup1.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Lgmobileworldcupskorea2010.jpg "wikilink") 팀은 2명으로 구성된다. 한명은 [QWERTY](https://ko.wikipedia.org/wiki/QWERTY "wikilink") 자판을 입력하고, 다른 한명은 숫자 패드를 입력한다.\[3\] [아르헨티나](../Page/아르헨티나.md "wikilink"), [오스트레일리아](../Page/오스트레일리아.md "wikilink"), [브라질](../Page/브라질.md "wikilink"), [캐나다](../Page/캐나다.md "wikilink"), [인도네시아](../Page/인도네시아.md "wikilink"), [멕시코](../Page/멕시코.md "wikilink"), [뉴질랜드](../Page/뉴질랜드.md "wikilink"), [포르투갈](../Page/포르투갈.md "wikilink"), [러시아](../Page/러시아.md "wikilink"), [남아프리카 공화국](../Page/남아프리카_공화국.md "wikilink"), [대한민국](../Page/대한민국.md "wikilink"), [스페인](../Page/스페인.md "wikilink"), [미국](../Page/미국.md "wikilink") 각각 1팀씩 총 13개팀이 참가하였다.
 
 이전에도 LG는 미국과 대한민국에서 각각 대회를 개최한 적이 있었다.\[4\] 2007년부터 2009년까지 매년 미국에서 개최되었고, 대한민국에서도 2008년과 2009년에 각각 개최되었다. 하지만, 2010년에는 국가끼리의 경쟁하는 첫 대회였다.
 

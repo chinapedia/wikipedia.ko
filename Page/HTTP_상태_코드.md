@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [HTTP  ](https://ko.wikipedia.org/wiki/HTTP__).
 
 
-아래는 [HTTP](https://ko.wikipedia.org/wiki/HTTP "wikilink")(하이퍼텍스트 전송 프로토콜) 응답 상태 코드의 목록이다.
+아래는 [HTTP](../Page/HTTP.md "wikilink")(하이퍼텍스트 전송 프로토콜) 응답 상태 코드의 목록이다.
 
 [IANA](https://ko.wikipedia.org/wiki/IANA "wikilink")가 현재 [공식 HTTP 상태 코드 레지스트리](http://www.iana.org/assignments/http-status-codes/)를 관리하고 있다.
 
@@ -59,7 +59,7 @@
   - 401(권한 없음): 이 요청은 인증이 필요하다. 서버는 로그인이 필요한 페이지에 대해 이 요청을 제공할 수 있다. 상태 코드 이름이 권한 없음(Unauthorized)으로 되어 있지만 실제 뜻은 인증 안됨(Unauthenticated)에 더 가깝다.\[3\]
   - 402(결제 필요): 이 요청은 결제가 필요합니다.
   - [403](../Page/HTTP_403.md "wikilink")(Forbidden, 금지됨): 서버가 요청을 거부하고 있다. 예를 들자면, 사용자가 리소스에 대한 필요 권한을 갖고 있지 않다. (401은 인증 실패, 403은 인가 실패라고 볼 수 있음)
-  - [404](https://ko.wikipedia.org/wiki/HTTP_404 "wikilink")(Not Found, 찾을 수 없음): 서버가 요청한 페이지(Resource)를 찾을 수 없다. 예를 들어 서버에 존재하지 않는 페이지에 대한 요청이 있을 경우 서버는 이 코드를 제공한다.
+  - [404](../Page/HTTP_404.md "wikilink")(Not Found, 찾을 수 없음): 서버가 요청한 페이지(Resource)를 찾을 수 없다. 예를 들어 서버에 존재하지 않는 페이지에 대한 요청이 있을 경우 서버는 이 코드를 제공한다.
   - 405(허용되지 않는 방법): 요청에 지정된 방법을 사용할 수 없다. 예를 들어 POST 방식으로 요청을 받는 서버에 GET 요청을 보내는 경우, 또는 읽기 전용 리소스에 PUT 요청을 보내는 경우에 이 코드를 제공한다.
   - 406(허용되지 않음): 요청한 페이지가 요청한 콘텐츠 특성으로 응답할 수 없다.
   - 407(프록시 인증 필요): 이 상태 코드는 401(권한 없음)과 비슷하지만 요청자가 프록시를 사용하여 인증해야 한다. 서버가 이 응답을 표시하면 요청자가 사용할 프록시를 가리키는 것이기도 한다.

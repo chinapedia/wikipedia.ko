@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [A Tribute To ](https://ko.wikipedia.org/wiki/A_Tribute_To_).
 
 
-《**A Tribute To 들국화**》는 [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [2월 13일에](https://ko.wikipedia.org/wiki/2월_13일 "wikilink") 발매된 [들국화](https://ko.wikipedia.org/wiki/들국화_\(밴드\) "wikilink") [헌정 음반이다](https://ko.wikipedia.org/wiki/헌정_음반 "wikilink").
+《**A Tribute To 들국화**》는 [2001년](../Page/2001년.md "wikilink") [2월 13일에](../Page/2월_13일.md "wikilink") 발매된 [들국화](../Page/들국화_\(밴드\).md "wikilink") [헌정 음반이다](https://ko.wikipedia.org/wiki/헌정_음반 "wikilink").
 
 ## 수록곡
 

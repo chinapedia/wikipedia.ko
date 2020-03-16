@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ \(TOKIO \)](https://ko.wikipedia.org/wiki/_\(TOKIO_\)).
 
 
-〈**편지**〉()는 [TOKIO](https://ko.wikipedia.org/wiki/TOKIO "wikilink")의 47번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
+〈**편지**〉()는 [TOKIO](../Page/TOKIO.md "wikilink")의 47번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 해설
 
@@ -15,7 +15,7 @@
 
 1.  **手紙** / <small>**편지**</small>
       -
-        작사: [YUKI](https://ko.wikipedia.org/wiki/YUKI "wikilink") / 작곡: 츠타야 코이치 / 편곡: 노마 코스케
+        작사: [YUKI](../Page/YUKI.md "wikilink") / 작곡: 츠타야 코이치 / 편곡: 노마 코스케
     <!-- end list -->
       - 영화 《괜찮아 3반》 주제가
 2.  手紙（Backing Track）

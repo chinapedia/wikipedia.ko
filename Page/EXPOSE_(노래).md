@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [EXPOSE \(\)](https://ko.wikipedia.org/wiki/EXPOSE_\(\)).
 
 
-〈**EXPOSE**〉는, [KAT-TUN](https://ko.wikipedia.org/wiki/KAT-TUN "wikilink")의 20번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
+〈**EXPOSE**〉는, [KAT-TUN](../Page/KAT-TUN.md "wikilink")의 20번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 
@@ -71,7 +71,7 @@
 1.  Connect & Go (비디오 클립+메이킹)
 2.  Snowflake (비디오 클립)
       -
-        우정 출연: [우에다 타츠야](https://ko.wikipedia.org/wiki/우에다_타츠야 "wikilink")
+        우정 출연: [우에다 타츠야](../Page/우에다_타츠야.md "wikilink")
 
 ### 통상반
 

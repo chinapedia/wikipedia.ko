@@ -1,12 +1,12 @@
 > This article is converted from Wikipedia: [LG  L7 II](https://ko.wikipedia.org/wiki/LG__L7_II).
 
 
-**LG 옵티머스 L7 II**()는 [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")에서 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [2월 16일에](https://ko.wikipedia.org/wiki/2월_16일 "wikilink") 출시한 보급형 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")이다.\[1\]
+**LG 옵티머스 L7 II**()는 [LG전자](../Page/LG전자.md "wikilink")에서 [2013년](../Page/2013년.md "wikilink") [2월 16일에](../Page/2월_16일.md "wikilink") 출시한 보급형 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.\[1\]
 
 ## 연혁
 
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [2월 16일](https://ko.wikipedia.org/wiki/2월_16일 "wikilink") : 제품 출시\[2\]
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [2월 25일](https://ko.wikipedia.org/wiki/2월_25일 "wikilink") : **[모바일 월드 콩그레스](../Page/모바일_월드_콩그레스.md "wikilink") 2013**에서 제품 전시\[3\]
+  - [2013년](../Page/2013년.md "wikilink") [2월 16일](../Page/2월_16일.md "wikilink") : 제품 출시\[2\]
+  - [2013년](../Page/2013년.md "wikilink") [2월 25일](../Page/2월_25일.md "wikilink") : **[모바일 월드 콩그레스](../Page/모바일_월드_콩그레스.md "wikilink") 2013**에서 제품 전시\[3\]
 
 ## 디자인
 

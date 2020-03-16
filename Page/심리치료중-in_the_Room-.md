@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [-in the Room-](https://ko.wikipedia.org/wiki/-in_the_Room-).
 
 
-《**심리치료중-in the Room-**》()은, [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [1월 12일부터](https://ko.wikipedia.org/wiki/1월_12일 "wikilink") [3월 30일까지](https://ko.wikipedia.org/wiki/3월_30일 "wikilink") [닛폰 TV](../Page/닛폰_TV_방송망.md "wikilink") [계열에서](https://ko.wikipedia.org/wiki/닛폰TV_네트워크_협의회 "wikilink") 매주 [토요일](https://ko.wikipedia.org/wiki/토요일 "wikilink") 24:50 \~ 25:20([JST](https://ko.wikipedia.org/wiki/일본표준시 "wikilink"))에 방송된 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink").
+《**심리치료중-in the Room-**》()은, [2013년](../Page/2013년.md "wikilink") [1월 12일부터](../Page/1월_12일.md "wikilink") [3월 30일까지](../Page/3월_30일.md "wikilink") [닛폰 TV](../Page/닛폰_TV_방송망.md "wikilink") [계열에서](https://ko.wikipedia.org/wiki/닛폰TV_네트워크_협의회 "wikilink") 매주 [토요일](../Page/토요일.md "wikilink") 24:50 \~ 25:20([JST](https://ko.wikipedia.org/wiki/일본표준시 "wikilink"))에 방송된 [일본](../Page/일본.md "wikilink")의 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink").
 
 ## 개요
 
-본 작품은 [이스라엘](https://ko.wikipedia.org/wiki/이스라엘 "wikilink")에서 제작된 드라마 《[BeTipul](https://ko.wikipedia.org/wiki/:en:BeTipul "wikilink")》을 참고하여 만들어졌다. 또, 프로그램의 엔딩 크레딧 내의 스태프 롤 도중에 〈Inspired By Be'tipul〉(Be'tipul에 영감을 받았다)라는 문장으로 시작하는 말이 게재되어 있다.
+본 작품은 [이스라엘](../Page/이스라엘.md "wikilink")에서 제작된 드라마 《[BeTipul](https://ko.wikipedia.org/wiki/:en:BeTipul "wikilink")》을 참고하여 만들어졌다. 또, 프로그램의 엔딩 크레딧 내의 스태프 롤 도중에 〈Inspired By Be'tipul〉(Be'tipul에 영감을 받았다)라는 문장으로 시작하는 말이 게재되어 있다.
 
-주연 [이나가키 고로가](https://ko.wikipedia.org/wiki/이나가키_고로 "wikilink") 연기하는 스쿨 카운셀러·텐마 료가, [학생](../Page/학생.md "wikilink")·[교사](../Page/교사.md "wikilink")가 안고있는 고민, 또, 알리고 싶지 않은 것을 숨기려고 하는 심층 심리를 [대화나](../Page/회화_\(이야기\).md "wikilink") [심리 요법을](https://ko.wikipedia.org/wiki/심리치료 "wikilink") 이용하여 밝혀 나가는, 원 시츄에이션 드라마이다\[1\]. 극 중에는 특별히 어지러운 장면 전개는 없고, [고등학교](https://ko.wikipedia.org/wiki/고등학교 "wikilink")의 카운셀링 룸에서만 이야기가 진행된다.
+주연 [이나가키 고로가](../Page/이나가키_고로.md "wikilink") 연기하는 스쿨 카운셀러·텐마 료가, [학생](../Page/학생.md "wikilink")·[교사](../Page/교사.md "wikilink")가 안고있는 고민, 또, 알리고 싶지 않은 것을 숨기려고 하는 심층 심리를 [대화나](../Page/회화_\(이야기\).md "wikilink") [심리 요법을](https://ko.wikipedia.org/wiki/심리치료 "wikilink") 이용하여 밝혀 나가는, 원 시츄에이션 드라마이다\[1\]. 극 중에는 특별히 어지러운 장면 전개는 없고, [고등학교](https://ko.wikipedia.org/wiki/고등학교 "wikilink")의 카운셀링 룸에서만 이야기가 진행된다.
 
 ## 출연자
 
-  - 텐마 료 (39) - [이나가키 고로](https://ko.wikipedia.org/wiki/이나가키_고로 "wikilink") ([SMAP](https://ko.wikipedia.org/wiki/SMAP "wikilink"))
+  - 텐마 료 (39) - [이나가키 고로](../Page/이나가키_고로.md "wikilink") ([SMAP](../Page/SMAP.md "wikilink"))
     죠케이 학원 스쿨 카운셀러. 클라이언트와 대화를 하고 있는 중에 참지 못하고 그 곳의 모든 것을 차단하고 싶은 충동에 사로잡히면 미야마에게 상담한다.
 
 ### 텐마에 관계하는 인물
@@ -30,8 +30,8 @@
 ### 클라이언트
 
   - 카이바라 미나미/카이바라 미우 (18) - [스다 안나](../Page/스다_안나.md "wikilink") ([E-girls](../Page/E-girls.md "wikilink"))
-    쌍둥이 자매. [질투](https://ko.wikipedia.org/wiki/질투 "wikilink") 많은 남자친구가 원인으로 [스트레스](https://ko.wikipedia.org/wiki/스트레스 "wikilink")가 모여, [식사 장애가](https://ko.wikipedia.org/wiki/식사_장애 "wikilink") 재발한다.
-  - 타나카 슌 (17) - [타카다 쇼](../Page/타카다_쇼.md "wikilink") ([쟈니즈 Jr.](https://ko.wikipedia.org/wiki/자니스_주니어 "wikilink"))
+    쌍둥이 자매. [질투](https://ko.wikipedia.org/wiki/질투 "wikilink") 많은 남자친구가 원인으로 [스트레스](../Page/스트레스.md "wikilink")가 모여, [식사 장애가](https://ko.wikipedia.org/wiki/식사_장애 "wikilink") 재발한다.
+  - 타나카 슌 (17) - [타카다 쇼](../Page/타카다_쇼.md "wikilink") ([쟈니즈 Jr.](../Page/자니스_주니어.md "wikilink"))
     카운셀링을 받은 후 3주간이 지나도, 텐마에게 상담하는 진짜 이유를 밝히지 않았다.
   - 키타하라 렌 (18) - [센가 켄토](../Page/센가_켄토.md "wikilink") ([Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")) / 이토 나나 (18) - 요시쿠라 아오이
     여자친구·나나가 임신한 것이나 결혼하는 것에의 불안으로부터 렌은 그녀가 금방 알아 버리는 바람을 되풀이 하며 피워버린다.
@@ -49,7 +49,7 @@
   - 감독 - 카와이 하야토
   - 주제가 - [야마시타 토모히사](../Page/야마시타_토모히사.md "wikilink") 〈케·세라·세라〉 ([워너 뮤직 재팬](../Page/워너_뮤직_재팬.md "wikilink"))
   - 프로듀서 - 우에노 히로유키, 사카시타 테츠야
-  - 기획 협력 - [쟈니즈 사무소](https://ko.wikipedia.org/wiki/자니스_사무소 "wikilink")
+  - 기획 협력 - [쟈니즈 사무소](../Page/자니스_사무소.md "wikilink")
   - 제작 프로덕션 - 닛테레 악스온
   - 기획 제작 - [닛폰 TV](../Page/닛폰_TV_방송망.md "wikilink")
   - 제작 저작 - 〈심리치료중-in the Room-〉 제작 위원회
@@ -115,7 +115,7 @@
 <tr class="odd">
 <td><p>평균 시청률 2.1%<ref>{{저널 인용|和書|month=|journal=주간 더 텔레비전 2013 No.20</p></td>
 <td><p>author=|year=|publisher=카도카와 매거진즈|accessdate=2013-05-30}}</ref><br />
-(시청률은 <a href="https://ko.wikipedia.org/wiki/간토_지방" title="wikilink">간토 지구</a>·<a href="../Page/비디오_리서치.md" title="wikilink">비디오 리서치사</a> 조사)</p></td>
+(시청률은 <a href="../Page/간토_지방.md" title="wikilink">간토 지구</a>·<a href="../Page/비디오_리서치.md" title="wikilink">비디오 리서치사</a> 조사)</p></td>
 </tr>
 </tbody>
 </table>

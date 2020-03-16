@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
 
 
-**버턴 앨비언 FC**(Burton Albion Football Club)는 [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink") [스태퍼드셔주](https://ko.wikipedia.org/wiki/스태퍼드셔주 "wikilink") [버턴어폰트렌트](https://ko.wikipedia.org/wiki/버턴어폰트렌트 "wikilink")를 연고로 하는 축구 클럽이다.
+**버턴 앨비언 FC**(Burton Albion Football Club)는 [잉글랜드](../Page/잉글랜드.md "wikilink") [스태퍼드셔주](https://ko.wikipedia.org/wiki/스태퍼드셔주 "wikilink") [버턴어폰트렌트](https://ko.wikipedia.org/wiki/버턴어폰트렌트 "wikilink")를 연고로 하는 축구 클럽이다.
 
 ## 성적
 

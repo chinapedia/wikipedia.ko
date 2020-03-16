@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Indeo](https://ko.wikipedia.org/wiki/Indeo).
 
 
-**인데오 비디오**(Indeo Video)는 1992년에 [인텔](https://ko.wikipedia.org/wiki/인텔 "wikilink")이 개발한 [영상 코덱이다](https://ko.wikipedia.org/wiki/영상_코덱 "wikilink"). 2000년, [리고스](https://ko.wikipedia.org/wiki/리고스 "wikilink")에 매각되었다.
+**인데오 비디오**(Indeo Video)는 1992년에 [인텔](../Page/인텔.md "wikilink")이 개발한 [영상 코덱이다](../Page/영상_코덱.md "wikilink"). 2000년, [리고스](https://ko.wikipedia.org/wiki/리고스 "wikilink")에 매각되었다.
 
 ## 외부 링크
 

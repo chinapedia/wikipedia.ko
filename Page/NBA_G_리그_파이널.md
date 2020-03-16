@@ -61,7 +61,7 @@
 
 ## 함께 보기
 
-  - [NBA 파이널](https://ko.wikipedia.org/wiki/NBA_파이널 "wikilink")
+  - [NBA 파이널](../Page/NBA_파이널.md "wikilink")
   - [ABA 파이널](../Page/ABA_파이널.md "wikilink")
   - [WNBA 파이널](../Page/WNBA_파이널.md "wikilink")
 

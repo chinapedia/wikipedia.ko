@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [The Unarchiver](https://ko.wikipedia.org/wiki/The_Unarchiver).
 
 
-**디 언아카이버**(****)는 [자유](https://ko.wikipedia.org/wiki/자유_소프트웨어 "wikilink") [데이터 압축 해제 프로그램이다](https://ko.wikipedia.org/wiki/데이터_압축_해제_프로그램 "wikilink").
+**디 언아카이버**(****)는 [자유](../Page/자유_소프트웨어.md "wikilink") [데이터 압축 해제 프로그램이다](https://ko.wikipedia.org/wiki/데이터_압축_해제_프로그램 "wikilink").
 
 ## 지원 포맷
 
   - [Zip](../Page/ZIP_\(파일_포맷\).md "wikilink")
   - [RAR](https://ko.wikipedia.org/wiki/RAR "wikilink")
-  - [7z](https://ko.wikipedia.org/wiki/7z "wikilink") (.7z)
+  - [7z](../Page/7z.md "wikilink") (.7z)
   - [LHA](https://ko.wikipedia.org/wiki/LHA "wikilink")
   - [StuffIt](https://ko.wikipedia.org/wiki/StuffIt "wikilink") (.sit, .sitx)
   - [컴팩트 Pro](https://ko.wikipedia.org/wiki/컴팩트_Pro "wikilink") (.cpt)
@@ -16,7 +16,7 @@
   - [맥바이너리](https://ko.wikipedia.org/wiki/맥바이너리 "wikilink") (.bin)
   - [Gzip](../Page/Gzip.md "wikilink") (.gz)
   - [Bzip2](../Page/Bzip2.md "wikilink") (.bz2, .tar.bz2, .tbz2, .tb2)
-  - [Tar](https://ko.wikipedia.org/wiki/Tar_\(파일_포맷\) "wikilink")
+  - [Tar](../Page/Tar_\(파일_포맷\).md "wikilink")
   - [GNU Tar](http://www.gnu.org/software/tar) (.gtar)
   - [유닉스 컴프레스](https://ko.wikipedia.org/wiki/컴프레스 "wikilink") (.z)
   - 유닉스 컴프레스 Tar (.taz, .tar-z)

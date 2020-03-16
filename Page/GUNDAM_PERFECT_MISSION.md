@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [GUNDAM PERFECT MISSION](https://ko.wikipedia.org/wiki/GUNDAM_PERFECT_MISSION).
 
 
-《**건담 퍼펙트 미션**》(GUNDAM PERFECT MISSION)은 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")에 [건담 시리즈를](https://ko.wikipedia.org/wiki/건담_시리즈 "wikilink") 모티프로 제작된 단편 [OVA](https://ko.wikipedia.org/wiki/OVA "wikilink") 작품이다.
+《**건담 퍼펙트 미션**》(GUNDAM PERFECT MISSION)은 [2009년](../Page/2009년.md "wikilink")에 [건담 시리즈를](../Page/건담_시리즈.md "wikilink") 모티프로 제작된 단편 [OVA](https://ko.wikipedia.org/wiki/OVA "wikilink") 작품이다.
 
 ## 개요
 
-텔레비전 애니메이션 「[기동전사 건담](../Page/기동전사_건담.md "wikilink")」의 30주년을 기념해 제작된 프로모션 비디오(PV). 지상에 불시착한 상태의 [코어 파이터를](https://ko.wikipedia.org/wiki/코어_파이터 "wikilink"), 역대의 주역 건담들이 지원하면서 [아 바오아 쿠로](https://ko.wikipedia.org/wiki/아_바오아_쿠 "wikilink") 데려다 준다고 하는 스토리가 되고 있다.
+텔레비전 애니메이션 「[기동전사 건담](../Page/기동전사_건담.md "wikilink")」의 30주년을 기념해 제작된 프로모션 비디오(PV). 지상에 불시착한 상태의 [코어 파이터를](../Page/코어_파이터.md "wikilink"), 역대의 주역 건담들이 지원하면서 [아 바오아 쿠로](https://ko.wikipedia.org/wiki/아_바오아_쿠 "wikilink") 데려다 준다고 하는 스토리가 되고 있다.
 
 ## 등장 기종
 
 등장 순서로 기재한다.
 
-  - RX-78NT-1 [건담 NT-1](https://ko.wikipedia.org/wiki/건담_NT-1 "wikilink")\[1\]
+  - RX-78NT-1 [건담 NT-1](../Page/건담_NT-1.md "wikilink")\[1\]
   - RX-79\[G\] [육전형 건담](https://ko.wikipedia.org/wiki/육전형_건담 "wikilink")
   - GF13-017NJ II [갓 건담](https://ko.wikipedia.org/wiki/갓_건담 "wikilink")
   - ZGMF-X42S [데스티니 건담](https://ko.wikipedia.org/wiki/데스티니_건담 "wikilink")

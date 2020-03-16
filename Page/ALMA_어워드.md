@@ -76,7 +76,7 @@ Giselle Fernandez</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/8th_ALMA_Awards" title="wikilink">2006</a></p></td>
 <td><p>2006년 5월 7일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/로스앤젤레스" title="wikilink">로스앤젤레스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/에바_롱고리아" title="wikilink">에바 롱고리아</a></p></td>
+<td><p><a href="../Page/에바_롱고리아.md" title="wikilink">에바 롱고리아</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/9th_ALMA_Awards" title="wikilink">2007</a></p></td>
@@ -95,7 +95,7 @@ Giselle Fernandez</p></td>
 <td><p>2009년 9월 17일</p></td>
 <td><p><a href="../Page/샌타모니카.md" title="wikilink">Santa Monica</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/조지_로페즈" title="wikilink">조지 로페즈</a><br />
-<a href="https://ko.wikipedia.org/wiki/에바_롱고리아" title="wikilink">에바 롱고리아</a><br />
+<a href="../Page/에바_롱고리아.md" title="wikilink">에바 롱고리아</a><br />
 <a href="../Page/셀레나_고메즈.md" title="wikilink">셀레나 고메즈</a></p></td>
 </tr>
 <tr class="even">
@@ -109,7 +109,7 @@ Giselle Fernandez</p></td>
 <td><p>2011년 9월 10일</p></td>
 <td><p><a href="../Page/샌타모니카.md" title="wikilink">샌타모니카</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/조지_로페즈" title="wikilink">조지 로페즈</a><br />
-<a href="https://ko.wikipedia.org/wiki/에바_롱고리아" title="wikilink">에바 롱고리아</a><br />
+<a href="../Page/에바_롱고리아.md" title="wikilink">에바 롱고리아</a><br />
 <a href="../Page/셀레나_고메즈.md" title="wikilink">셀레나 고메즈</a></p></td>
 </tr>
 <tr class="even">
@@ -121,7 +121,7 @@ Giselle Fernandez</p></td>
 <tr class="odd">
 <td><p>2013</p></td>
 <td><p>2013년 9월 27일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/에바_롱고리아" title="wikilink">에바 롱고리아</a><br />
+<td><p><a href="../Page/에바_롱고리아.md" title="wikilink">에바 롱고리아</a><br />
 <a href="https://ko.wikipedia.org/wiki/마리오_로페스" title="wikilink">마리오 로페스</a></p></td>
 <td></td>
 </tr>
@@ -129,7 +129,7 @@ Giselle Fernandez</p></td>
 <td><p>2014</p></td>
 <td><p>2014년 10월 10일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/로스앤젤레스" title="wikilink">로스앤젤레스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/에바_롱고리아" title="wikilink">에바 롱고리아</a><br />
+<td><p><a href="../Page/에바_롱고리아.md" title="wikilink">에바 롱고리아</a><br />
 <a href="https://ko.wikipedia.org/wiki/마리오_로페스" title="wikilink">마리오 로페스</a></p></td>
 </tr>
 <tr class="odd">

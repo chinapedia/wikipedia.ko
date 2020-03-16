@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
 
 
-**포트 베일 FC**(Port Vale Football Club)는 [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink") [스태퍼드셔주](https://ko.wikipedia.org/wiki/스태퍼드셔주 "wikilink") [스토크온트렌트](../Page/스토크온트렌트.md "wikilink") 버슬렘(Burslem)을 연고로 하는 축구 클럽이다.
+**포트 베일 FC**(Port Vale Football Club)는 [잉글랜드](../Page/잉글랜드.md "wikilink") [스태퍼드셔주](https://ko.wikipedia.org/wiki/스태퍼드셔주 "wikilink") [스토크온트렌트](../Page/스토크온트렌트.md "wikilink") 버슬렘(Burslem)을 연고로 하는 축구 클럽이다.
 
 ## 성적
 

@@ -64,7 +64,7 @@
 
 ## 같이 보기
 
-  - [소니](https://ko.wikipedia.org/wiki/소니 "wikilink")
+  - [소니](../Page/소니.md "wikilink")
   - [소니 모바일 커뮤니케이션](https://ko.wikipedia.org/wiki/소니_모바일_커뮤니케이션 "wikilink")
   - 다른 안드로이드 기기 제조사들의 UI
       - [삼성 터치위즈](https://ko.wikipedia.org/wiki/삼성_터치위즈 "wikilink")

@@ -6,7 +6,7 @@
 ## 같이 보기
 
   - [Tor](https://ko.wikipedia.org/wiki/Tor "wikilink")
-  - [데비안](https://ko.wikipedia.org/wiki/데비안 "wikilink")
+  - [데비안](../Page/데비안.md "wikilink")
 
 ## 참고문헌
 

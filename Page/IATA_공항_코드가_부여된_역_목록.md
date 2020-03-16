@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [IATA     ](https://ko.wikipedia.org/wiki/IATA_____).
 
 
-**IATA 공항 코드가 부여된 역 목록**은 [IATA 공항 코드가](../Page/IATA_공항_코드.md "wikilink") 부여되어 있는 [철도역](https://ko.wikipedia.org/wiki/철도역 "wikilink")의 목록이다. 공항과 가까워 [연락 운송이](https://ko.wikipedia.org/wiki/연락_운송 "wikilink") 이루어지고 있거나, 또는 열차가 항공편과 코드 셰어로 운행([공동운항](../Page/공동운항.md "wikilink"))되는 등의 경우의 필요로 인해 부여되어 있다.
+**IATA 공항 코드가 부여된 역 목록**은 [IATA 공항 코드가](../Page/IATA_공항_코드.md "wikilink") 부여되어 있는 [철도역](../Page/철도역.md "wikilink")의 목록이다. 공항과 가까워 [연락 운송이](https://ko.wikipedia.org/wiki/연락_운송 "wikilink") 이루어지고 있거나, 또는 열차가 항공편과 코드 셰어로 운행([공동운항](../Page/공동운항.md "wikilink"))되는 등의 경우의 필요로 인해 부여되어 있다.
 
 ## 관련된 주요 철도 노선
 
   - [암트랙](../Page/암트랙.md "wikilink")이 운행하는 [뉴어크 리버티 국제공항과](https://ko.wikipedia.org/wiki/뉴어크_리버티_국제공항 "wikilink") [뉴어크를](../Page/뉴어크_\(뉴저지주\).md "wikilink") 잇는 노선
   - [도이체 반이](https://ko.wikipedia.org/wiki/도이체_반 "wikilink") 운행하는 [프랑크푸르트 공항과](https://ko.wikipedia.org/wiki/프랑크푸르트_공항 "wikilink") [프랑크푸르트](https://ko.wikipedia.org/wiki/프랑크푸르트 "wikilink")를 잇는 노선(AiRail)
   - [SNCF](https://ko.wikipedia.org/wiki/SNCF "wikilink")가 운행하는 [파리 샤를 드 골 공항과](https://ko.wikipedia.org/wiki/파리_샤를_드_골_공항 "wikilink") [파리 오를리 공항을](../Page/파리_오를리_공항.md "wikilink") 잇는 노선(TGVAIR)
-  - [탈리스](https://ko.wikipedia.org/wiki/탈리스 "wikilink")가 운행하는 파리 샤를 드 골 공항과 [스히폴 공항을](https://ko.wikipedia.org/wiki/스히폴_공항 "wikilink") 잇는 노선
-  - 스위스 국철([de](https://ko.wikipedia.org/wiki/:de:Schweizerische_Bundesbahnen "wikilink"))이 운행하는 [취리히 공항과](https://ko.wikipedia.org/wiki/취리히_공항 "wikilink") [취리히](https://ko.wikipedia.org/wiki/취리히 "wikilink")를 잇는 노선
+  - [탈리스](../Page/탈리스.md "wikilink")가 운행하는 파리 샤를 드 골 공항과 [스히폴 공항을](https://ko.wikipedia.org/wiki/스히폴_공항 "wikilink") 잇는 노선
+  - 스위스 국철([de](https://ko.wikipedia.org/wiki/:de:Schweizerische_Bundesbahnen "wikilink"))이 운행하는 [취리히 공항과](https://ko.wikipedia.org/wiki/취리히_공항 "wikilink") [취리히](../Page/취리히.md "wikilink")를 잇는 노선
 
 ## 코드 목록
 
@@ -17,7 +17,7 @@
 
 ### B
 
-  - BNJ 본 중앙역, [독일](https://ko.wikipedia.org/wiki/독일 "wikilink")
+  - BNJ 본 중앙역, [독일](../Page/독일.md "wikilink")
 
 ### M
 
@@ -56,7 +56,7 @@
   - ZDJ 베른 역, 스위스
   - ZFJ 렌 역, 프랑스
   - ZFQ 생 장 역(보르도), 프랑스
-  - ZFV 30번가 역(필라델피아), [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")
+  - ZFV 30번가 역(필라델피아), [미국](../Page/미국.md "wikilink")
   - ZLN 르망 역, 프랑스
   - ZMB 함부르크 중앙역, 독일
   - ZMU 뮌헨 중앙역, 독일

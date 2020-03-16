@@ -3,11 +3,11 @@
 
 **Misty**는 [1954년에](https://ko.wikipedia.org/wiki/1954년_싱글 "wikilink") 피아니스트 [에롤 가너에](../Page/에롤_가너.md "wikilink") 의해 쓰여진 재즈 스탠다드 곡이다.
 
-[에롤 가너가](../Page/에롤_가너.md "wikilink") 연주곡으로 쓴 노래로서, 1955년 그의 앨범 Contrasts에 녹음되어 수록되었다. 그 뒤 조니 버크가 노랫말을 붙였고, 조니 매티스의 1959년 앨범 Heavenly에 수록되었다. 그리고 그 곡은 빌보드 핫 100에 12위로 평가되었다. 그 후, [엘라 피츠제럴드](https://ko.wikipedia.org/wiki/엘라_피츠제럴드 "wikilink"), [세라 본](https://ko.wikipedia.org/wiki/세라_본 "wikilink"), [프랭크 시나트라](https://ko.wikipedia.org/wiki/프랭크_시나트라 "wikilink"), 빌리 엑스틴, 더 스튜던츠, 얼 그랜트, 로이드 프라이스, 레이 스티븐즈 등 수많은 아티스트들이 이 노래를 불렀다.
+[에롤 가너가](../Page/에롤_가너.md "wikilink") 연주곡으로 쓴 노래로서, 1955년 그의 앨범 Contrasts에 녹음되어 수록되었다. 그 뒤 조니 버크가 노랫말을 붙였고, 조니 매티스의 1959년 앨범 Heavenly에 수록되었다. 그리고 그 곡은 빌보드 핫 100에 12위로 평가되었다. 그 후, [엘라 피츠제럴드](../Page/엘라_피츠제럴드.md "wikilink"), [세라 본](../Page/세라_본.md "wikilink"), [프랭크 시나트라](../Page/프랭크_시나트라.md "wikilink"), 빌리 엑스틴, 더 스튜던츠, 얼 그랜트, 로이드 프라이스, 레이 스티븐즈 등 수많은 아티스트들이 이 노래를 불렀다.
 
 [에롤 가너의](../Page/에롤_가너.md "wikilink") 오리지널 곡은 1991년 '그래미홀 명예의 전당'에 올랐고, Johnny Mathis의 버전은 2002년에 올랐다. 또한 Ray Stevens의 버전은 1975년 그래미에서 '올해의 편곡상'을 받았다.
 
-[클린트 이스트우드는](https://ko.wikipedia.org/wiki/클린트_이스트우드 "wikilink") 그가 처음으로 감독한 영화 [Play Misty For Me에서](https://ko.wikipedia.org/wiki/Play_Misty_For_Me "wikilink") 이 곡을 중요한 모티브 중 하나로 삼았다.
+[클린트 이스트우드는](../Page/클린트_이스트우드.md "wikilink") 그가 처음으로 감독한 영화 [Play Misty For Me에서](https://ko.wikipedia.org/wiki/Play_Misty_For_Me "wikilink") 이 곡을 중요한 모티브 중 하나로 삼았다.
 
 ## 뒷 이야기
 

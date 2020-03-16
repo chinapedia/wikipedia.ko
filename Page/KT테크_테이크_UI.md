@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KT  UI](https://ko.wikipedia.org/wiki/KT__UI).
 
 
-**[KT테크](https://ko.wikipedia.org/wiki/KT테크 "wikilink") 테이크 UI**는 KT테크의 스마트폰 제품군인 [테이크](../Page/에버_테이크.md "wikilink") 시리즈에 채택된 UI이다.
+**[KT테크](../Page/KT테크.md "wikilink") 테이크 UI**는 KT테크의 스마트폰 제품군인 [테이크](../Page/에버_테이크.md "wikilink") 시리즈에 채택된 UI이다.
 
 ## 특징
 
@@ -37,12 +37,12 @@ KT테크에서 설계한 휴대폰 [스마트볼에서는](../Page/에버_스마
 
 ## 같이 보기
 
-  - [KT테크](https://ko.wikipedia.org/wiki/KT테크 "wikilink")
+  - [KT테크](../Page/KT테크.md "wikilink")
   - 다른 안드로이드 기기 제조사들의 UI
       - [삼성 터치위즈](https://ko.wikipedia.org/wiki/삼성_터치위즈 "wikilink")
       - [HTC 센스](../Page/HTC_센스.md "wikilink")
       - [모토블러](../Page/모토블러.md "wikilink") - 모토로라
-      - [소니 레이첼 UI](https://ko.wikipedia.org/wiki/소니_레이첼_UI "wikilink")
+      - [소니 레이첼 UI](../Page/소니_레이첼_UI.md "wikilink")
       - [델 스테이지 UI](https://ko.wikipedia.org/wiki/델_스테이지_UI "wikilink")
       - [LG 옵티머스 UI](../Page/LG_옵티머스_UI.md "wikilink")
       - [팬택 플럭스](https://ko.wikipedia.org/wiki/팬택_플럭스 "wikilink")

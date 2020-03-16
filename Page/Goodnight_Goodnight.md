@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Goodnight Goodnight](https://ko.wikipedia.org/wiki/Goodnight_Goodnight).
 
 
-"**Goodnight Goodnight**"(〈굿나잇 굿나잇\[1\]〉)은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [팝 록](../Page/팝_록.md "wikilink") 밴드 [마룬 5의](../Page/마룬_5.md "wikilink") 두 번째 정규 음반 *[It Won't Be Soon Before Long](../Page/It_Won't_Be_Soon_Before_Long.md "wikilink")*의 다섯 번째 싱글이다. 마룬 5는 《[CSI 뉴욕](https://ko.wikipedia.org/wiki/CSI_뉴욕 "wikilink")》 시즌 5 에피소드 2 '방사능의 악몽' 편에 카메오 출연을 해 이 곡을 부른다.\[2\]
+"**Goodnight Goodnight**"(〈굿나잇 굿나잇\[1\]〉)은 [미국](../Page/미국.md "wikilink")의 [팝 록](../Page/팝_록.md "wikilink") 밴드 [마룬 5의](../Page/마룬_5.md "wikilink") 두 번째 정규 음반 *[It Won't Be Soon Before Long](../Page/It_Won't_Be_Soon_Before_Long.md "wikilink")*의 다섯 번째 싱글이다. 마룬 5는 《[CSI 뉴욕](https://ko.wikipedia.org/wiki/CSI_뉴욕 "wikilink")》 시즌 5 에피소드 2 '방사능의 악몽' 편에 카메오 출연을 해 이 곡을 부른다.\[2\]
 
 ## 발매
 
-원래 이 곡은 네 번째 싱글로 정해져 있어서 뮤직 비디오도 이미 찍은 상태였으나, 레이블이 네 번째 싱글을 [리한나](https://ko.wikipedia.org/wiki/리한나 "wikilink")가 피처링한 "[If I Never See Your Face Again](../Page/If_I_Never_See_Your_Face_Again.md "wikilink")'"으로 바꾸었다.
+원래 이 곡은 네 번째 싱글로 정해져 있어서 뮤직 비디오도 이미 찍은 상태였으나, 레이블이 네 번째 싱글을 [리한나](../Page/리한나.md "wikilink")가 피처링한 "[If I Never See Your Face Again](../Page/If_I_Never_See_Your_Face_Again.md "wikilink")'"으로 바꾸었다.
 
 ## 뮤직 비디오
 

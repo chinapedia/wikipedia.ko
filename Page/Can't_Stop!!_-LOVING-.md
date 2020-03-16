@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Can\'t Stop!! -LOVING-](https://ko.wikipedia.org/wiki/Can\'t_Stop!!_-LOVING-).
 
 
-〈**Can't Stop\!\! -LOVING-**〉(캔트 스탑\!\! -러빙-)은 [SMAP](https://ko.wikipedia.org/wiki/SMAP "wikilink")의 [데뷔](https://ko.wikipedia.org/wiki/데뷔 "wikilink") [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink")이다. [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink") [9월 9일에](https://ko.wikipedia.org/wiki/9월_9일 "wikilink") [빅터 엔터테인먼트로부터](https://ko.wikipedia.org/wiki/빅터_엔터테인먼트 "wikilink") 발매되었다.
+〈**Can't Stop\!\! -LOVING-**〉(캔트 스탑\!\! -러빙-)은 [SMAP](../Page/SMAP.md "wikilink")의 [데뷔](https://ko.wikipedia.org/wiki/데뷔 "wikilink") [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink")이다. [1991년](../Page/1991년.md "wikilink") [9월 9일에](../Page/9월_9일.md "wikilink") [빅터 엔터테인먼트로부터](https://ko.wikipedia.org/wiki/빅터_엔터테인먼트 "wikilink") 발매되었다.
 
 ## 수록곡
 

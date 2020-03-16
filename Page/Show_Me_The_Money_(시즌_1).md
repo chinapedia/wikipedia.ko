@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Show Me The Money \( 1\)](https://ko.wikipedia.org/wiki/Show_Me_The_Money_\(_1\)).
 
 
-[250px](https://ko.wikipedia.org/wiki/파일:Show_Me_The_Money_1.jpg "wikilink") 《**Show Me The Money**》(쇼미더머니)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 케이블 방송국 [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink")에서 방송된 힙합 가수 공개 오디션 프로그램이다. 총 8부작으로 방송되었으며, 대한민국 최강 래퍼와 신예 래퍼가 한 팀이 되어 실력을 가리는 서바이벌 형식의 프로그램이다. MC는 [은지원](../Page/은지원.md "wikilink")이 맡았으며, 결승전 무대에 [하하](https://ko.wikipedia.org/wiki/하하 "wikilink") 등이 특별 출연하였고, [이효리](https://ko.wikipedia.org/wiki/이효리 "wikilink")가 특별 출연해 무대를 꾸미기도 하였다. [더블 케이](https://ko.wikipedia.org/wiki/더블_케이 "wikilink") (프로듀서), [로꼬](../Page/로꼬.md "wikilink") (크루)가 우승을 했다.
+[250px](https://ko.wikipedia.org/wiki/파일:Show_Me_The_Money_1.jpg "wikilink") 《**Show Me The Money**》(쇼미더머니)는 [대한민국](../Page/대한민국.md "wikilink")의 케이블 방송국 [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink")에서 방송된 힙합 가수 공개 오디션 프로그램이다. 총 8부작으로 방송되었으며, 대한민국 최강 래퍼와 신예 래퍼가 한 팀이 되어 실력을 가리는 서바이벌 형식의 프로그램이다. MC는 [은지원](../Page/은지원.md "wikilink")이 맡았으며, 결승전 무대에 [하하](https://ko.wikipedia.org/wiki/하하 "wikilink") 등이 특별 출연하였고, [이효리](../Page/이효리.md "wikilink")가 특별 출연해 무대를 꾸미기도 하였다. [더블 케이](../Page/더블_케이.md "wikilink") (프로듀서), [로꼬](../Page/로꼬.md "wikilink") (크루)가 우승을 했다.
 
 ## 결과
 

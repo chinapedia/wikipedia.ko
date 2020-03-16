@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
 
 
-**엑서터 시티 FC**(Exeter City Football Club)는 [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink") [데번주](../Page/데번주.md "wikilink") [엑서터](../Page/엑서터.md "wikilink")를 연고로 하는 축구 클럽이다.
+**엑서터 시티 FC**(Exeter City Football Club)는 [잉글랜드](../Page/잉글랜드.md "wikilink") [데번주](../Page/데번주.md "wikilink") [엑서터](../Page/엑서터.md "wikilink")를 연고로 하는 축구 클럽이다.
 
 ## 성적
 

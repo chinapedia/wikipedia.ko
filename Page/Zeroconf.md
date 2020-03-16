@@ -11,7 +11,7 @@ zeroconf 는 다음 3가지의 기술을 기반으로 하고 있다.
 
 ## 주소 선택
 
-[IPv4](https://ko.wikipedia.org/wiki/IPv4 "wikilink")와[IPv6](https://ko.wikipedia.org/wiki/IPv6 "wikilink")는 [IP 주소를](https://ko.wikipedia.org/wiki/IP_주소 "wikilink") 자동설정하는 표준 방법이 존재한다.링크 로컬 이라고 불리는 그 주소 설정을 두고, IPv4에서는 RFC 3927 에 규정되어 있는 특별한 블럭 `169.254.0.0/16` 을 사용하고, IPv6에서는 prefix `fe80::/10` 를 사용한다.
+[IPv4](../Page/IPv4.md "wikilink")와[IPv6](../Page/IPv6.md "wikilink")는 [IP 주소를](../Page/IP_주소.md "wikilink") 자동설정하는 표준 방법이 존재한다.링크 로컬 이라고 불리는 그 주소 설정을 두고, IPv4에서는 RFC 3927 에 규정되어 있는 특별한 블럭 `169.254.0.0/16` 을 사용하고, IPv6에서는 prefix `fe80::/10` 를 사용한다.
 
 거의 모든 IPv4 호스트는 링크로컬의 Address 설정(IPv4LL)을 DHCP서버가 이용할 수 없을 때 최후의 수단으로서만 사용한다.통상, IPv4호스트는 글로벌인지 링크로컬인지를 묻지않고 DHCP에서 할당 받은 Address를 사용하고 있다.그 이유중의 하나는 IPv4호스트가 인터페이스당 1개의 Address밖에 필요로 하지않기 때문이다.또 하나의 이유는 모든 IPv4호스트가 분산이름해석기능(예를 들어, [멀티케스트DNS](https://ko.wikipedia.org/wiki/멀티케스트DNS "wikilink"))을 쓰지는 않기 때문에, 그 때문에 네트워크위의 다른 호스트의 자동설정된 링크로컬 Address를 발견하는것이 곤란하기 때문이다.그러나, DHCP가 다른호스트에 할당 된 Address를 발견한 경우에도, 분산이름해석기능이 필요한 정보를 가진[유니캐스트](../Page/유니캐스트.md "wikilink")방식의DNS서버를 필요로 하고, 일부 네트워크는 DHCP로 할당받은 호스트 Address에 관하는 정보로 자동적으로 갱신 되는 DNS서버를 갖추고 있다.
 

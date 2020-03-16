@@ -3,7 +3,7 @@
 
 **G.711**은 [ITU-T](../Page/ITU-T.md "wikilink")의 오디오 [컴팬딩](https://ko.wikipedia.org/wiki/컴팬딩 "wikilink")을 위한 표준이다. 주로 전화에서 많이 쓰인다. 공식적인 명칭은 '음성 주파수의 펄스 부호 변조([PCM](https://ko.wikipedia.org/wiki/PCM "wikilink"))'이다. G.711은 또한 IP 네트워크 상의 [팩스](https://ko.wikipedia.org/wiki/팩스 "wikilink") 통신에도 사용된다. 펄스 부호 변조(PCM)으로도 알려져 있는 G.711은 파형 코덱으로 자주 사용된다. G.711은 64 kbit/s에서 시외 전화 정도의 품질을 제공하는 [협대역](https://ko.wikipedia.org/wiki/협대역 "wikilink") 오디오 코덱이다. G.711은 300-3400 Hz 범위의 오디오 신호를 통과시키며 초당 8000샘플링의 레이트로 샘플링한다.
 
-G.711에는 두가지 강화 버전이 있는데 G.711.0과 G.711.1이다. G.711.0은 대역폭 사용을 줄이기 위해 [무손실](https://ko.wikipedia.org/wiki/무손실_압축 "wikilink") [데이터 압축을](https://ko.wikipedia.org/wiki/데이터_압축 "wikilink") 활용한다. G.711.1은 대역폭을 크게 하여 오디오 품질을 증가시킨다.
+G.711에는 두가지 강화 버전이 있는데 G.711.0과 G.711.1이다. G.711.0은 대역폭 사용을 줄이기 위해 [무손실](https://ko.wikipedia.org/wiki/무손실_압축 "wikilink") [데이터 압축을](../Page/데이터_압축.md "wikilink") 활용한다. G.711.1은 대역폭을 크게 하여 오디오 품질을 증가시킨다.
 
 ## 기능
 

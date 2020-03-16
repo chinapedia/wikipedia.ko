@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
 
 
-**올더숏 타운 FC**(Aldershot Town Football Club)는 [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink") [햄프셔주](https://ko.wikipedia.org/wiki/햄프셔주 "wikilink") [올더숏](https://ko.wikipedia.org/wiki/올더숏 "wikilink")을 연고로 하는 축구 클럽이다. 2019-20 시즌 잉글랜드의 5부 축구 리그인 [내셔널리그에](https://ko.wikipedia.org/wiki/내셔널리그_\(디비전\) "wikilink") 참가하고 있다.
+**올더숏 타운 FC**(Aldershot Town Football Club)는 [잉글랜드](../Page/잉글랜드.md "wikilink") [햄프셔주](../Page/햄프셔주.md "wikilink") [올더숏](https://ko.wikipedia.org/wiki/올더숏 "wikilink")을 연고로 하는 축구 클럽이다. 2019-20 시즌 잉글랜드의 5부 축구 리그인 [내셔널리그에](../Page/내셔널리그_\(디비전\).md "wikilink") 참가하고 있다.
 
 ## 성적
 

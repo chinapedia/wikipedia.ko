@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [AMIAYA](https://ko.wikipedia.org/wiki/AMIAYA).
 
 
-**AMIAYA**(아미아야)는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 쌍둥이 [모델](https://ko.wikipedia.org/wiki/모델 "wikilink"), 음악 듀오이다. 아야(AYA)와 아미(AMI)로 이루어졌으며 오롱샤에 소속이다.
+**AMIAYA**(아미아야)는 [일본](../Page/일본.md "wikilink")의 쌍둥이 [모델](https://ko.wikipedia.org/wiki/모델 "wikilink"), 음악 듀오이다. 아야(AYA)와 아미(AMI)로 이루어졌으며 오롱샤에 소속이다.
 
 ## 소개
 
-1988년 11월8일, [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") [시즈오카현](https://ko.wikipedia.org/wiki/시즈오카현 "wikilink") [하마마츠 시에서](https://ko.wikipedia.org/wiki/하마마츠_시 "wikilink") 회사원인 부모님에게서 쌍둥이 자매로 태어났다. 5살 어린 여동생과 9살 어린 남동생이 있다. 초등학교 6학년 때부터 예능 스쿨에서 레슨을 받았으며, 패션쇼 등 무대에도 올랐다.2004년 봄, 고등학교 입학을 앞두고 오디션을 받으러 가 [도쿄](../Page/도쿄.md "wikilink")의 타케시타에 스카우트 되었다. 입학 1주 후 자퇴를 하고 도쿄로 가, 잡지 「mina」에 독자 모델을 시작으로 본격적인 모델 활동을 시작했다.
+1988년 11월8일, [일본](../Page/일본.md "wikilink") [시즈오카현](../Page/시즈오카현.md "wikilink") [하마마츠 시에서](https://ko.wikipedia.org/wiki/하마마츠_시 "wikilink") 회사원인 부모님에게서 쌍둥이 자매로 태어났다. 5살 어린 여동생과 9살 어린 남동생이 있다. 초등학교 6학년 때부터 예능 스쿨에서 레슨을 받았으며, 패션쇼 등 무대에도 올랐다.2004년 봄, 고등학교 입학을 앞두고 오디션을 받으러 가 [도쿄](../Page/도쿄.md "wikilink")의 타케시타에 스카우트 되었다. 입학 1주 후 자퇴를 하고 도쿄로 가, 잡지 「mina」에 독자 모델을 시작으로 본격적인 모델 활동을 시작했다.
 
 모델 활동 외에도 "AMIAYA"라는 이름으로 음악 활동도 하고 있으며, 패션 브랜드 "jouetie"도 운영 중이다.
 

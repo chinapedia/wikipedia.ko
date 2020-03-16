@@ -89,7 +89,7 @@
 
 28. [Addict](https://ko.wikipedia.org/wiki/챵카파나#초회반_S "wikilink") - [테고시 유야](../Page/테고시_유야.md "wikilink")
 
-29. / <small>뱀파이어는 이렇게 말했다</small> - [카토 시게아키](https://ko.wikipedia.org/wiki/카토_시게아키 "wikilink")
+29. / <small>뱀파이어는 이렇게 말했다</small> - [카토 시게아키](../Page/카토_시게아키.md "wikilink")
 
 30. INTER
 
@@ -103,7 +103,7 @@
 
 35. [PeekaBoo...](https://ko.wikipedia.org/wiki/챵카파나#초회반_W "wikilink") - [마스다 타카히사](../Page/마스다_타카히사.md "wikilink")
 
-36. [Starry](https://ko.wikipedia.org/wiki/챵카파나#초회반_N "wikilink") - [코야마 케이치로](https://ko.wikipedia.org/wiki/코야마_케이치로 "wikilink")
+36. [Starry](https://ko.wikipedia.org/wiki/챵카파나#초회반_N "wikilink") - [코야마 케이치로](../Page/코야마_케이치로.md "wikilink")
 
 37. INTER
 

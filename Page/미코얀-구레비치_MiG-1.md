@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [- MiG-1](https://ko.wikipedia.org/wiki/-_MiG-1).
 
 
-**미코얀-구레비치 MiG-1**은 제 2차 세계대전에서 고고도 [전투기](https://ko.wikipedia.org/wiki/전투기 "wikilink")의 필요에 따라 [1939년](https://ko.wikipedia.org/wiki/1939년 "wikilink") 제작된 소련공군의 전투기로 아르템 미코얀, 미하일 그레빗치 두 사람이 설계한 기체다. 미그라는 이름은 이 두사람의 이름을 딴 것을 의미한다.
+**미코얀-구레비치 MiG-1**은 제 2차 세계대전에서 고고도 [전투기](https://ko.wikipedia.org/wiki/전투기 "wikilink")의 필요에 따라 [1939년](../Page/1939년.md "wikilink") 제작된 소련공군의 전투기로 아르템 미코얀, 미하일 그레빗치 두 사람이 설계한 기체다. 미그라는 이름은 이 두사람의 이름을 딴 것을 의미한다.
 
 ## 디자인 및 개발
 

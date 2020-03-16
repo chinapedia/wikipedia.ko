@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Peazip](https://ko.wikipedia.org/wiki/Peazip).
 
 
-**PeaZip**은 자유, [오픈 소스](https://ko.wikipedia.org/wiki/오픈_소스 "wikilink")\[1\]의 [파일 관리 프로그램](https://ko.wikipedia.org/wiki/파일_관리_프로그램 "wikilink") 및 [압축 소프트웨어이다](https://ko.wikipedia.org/wiki/압축_소프트웨어 "wikilink").
+**PeaZip**은 자유, [오픈 소스](../Page/오픈_소스.md "wikilink")\[1\]의 [파일 관리 프로그램](https://ko.wikipedia.org/wiki/파일_관리_프로그램 "wikilink") 및 [압축 소프트웨어이다](https://ko.wikipedia.org/wiki/압축_소프트웨어 "wikilink").
 
 ## 각주
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ JPEG](https://ko.wikipedia.org/wiki/_JPEG).
 
 
-**무손실 JPEG**는 1993년 [정지 화상 전문가 그룹이](https://ko.wikipedia.org/wiki/JPEG "wikilink") [무손실 압축을](https://ko.wikipedia.org/wiki/무손실_압축 "wikilink") 위해 만든 [JPEG](https://ko.wikipedia.org/wiki/JPEG "wikilink") 표준의 추가판이다. 그러나 [정지 영상 전문가 그룹이](https://ko.wikipedia.org/wiki/JPEG "wikilink") 개발한 모든 무손실 압축 프로젝트를 가리키는 용어로 쓰이기도 한다. 이 경우에는 [JPEG 2000과](../Page/JPEG_2000.md "wikilink") JPEG-LS를 모두 포함한다.
+**무손실 JPEG**는 1993년 [정지 화상 전문가 그룹이](../Page/JPEG.md "wikilink") [무손실 압축을](https://ko.wikipedia.org/wiki/무손실_압축 "wikilink") 위해 만든 [JPEG](../Page/JPEG.md "wikilink") 표준의 추가판이다. 그러나 [정지 영상 전문가 그룹이](../Page/JPEG.md "wikilink") 개발한 모든 무손실 압축 프로젝트를 가리키는 용어로 쓰이기도 한다. 이 경우에는 [JPEG 2000과](../Page/JPEG_2000.md "wikilink") JPEG-LS를 모두 포함한다.
 
 ## 무손실 JPEG
 

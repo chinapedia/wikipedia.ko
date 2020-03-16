@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [CUE \(9nine \)](https://ko.wikipedia.org/wiki/CUE_\(9nine_\)).
 
 
-**CUE**(큐)는 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [3월 13일에](https://ko.wikipedia.org/wiki/3월_13일 "wikilink") 발매예정인 [9nine](../Page/9nine.md "wikilink")의 네 번째 앨범, 리뉴얼후 두 번째 앨범이다.
+**CUE**(큐)는 [2013년](../Page/2013년.md "wikilink") [3월 13일에](../Page/3월_13일.md "wikilink") 발매예정인 [9nine](../Page/9nine.md "wikilink")의 네 번째 앨범, 리뉴얼후 두 번째 앨범이다.
 
 ## 개요
 
-전작「[9nine](../Page/9nine_\(음반\).md "wikilink")」으로부터 약 1년만에 나온 음반이다. 「통상판」외에도 특전으로 [DVD](https://ko.wikipedia.org/wiki/DVD "wikilink")・특전CD 3장묶음의 「초회생산한정판A」, 24P포토북・DVD가 달려있는 「초회생산한정판B」의 3가지 형태로 발매되었다.\[1\]
+전작「[9nine](../Page/9nine_\(음반\).md "wikilink")」으로부터 약 1년만에 나온 음반이다. 「통상판」외에도 특전으로 [DVD](../Page/DVD.md "wikilink")・특전CD 3장묶음의 「초회생산한정판A」, 24P포토북・DVD가 달려있는 「초회생산한정판B」의 3가지 형태로 발매되었다.\[1\]
 타이틀의 「CUE」는 9nine의 **9**라는 의미외에도 **계기(きっかけ)**라는 의미로 이 음반을 들은 사람의 무엇인가의 계기가 되었으면하는 생각이 담겨져있다.\[2\]
 또한 3월 12일은 **이케부쿠로 선샤인시티**, 16일에는 **이온레이크타운 kaze**, 17일에는 *오사카・아베노큐즈몰*'에서 릴리즈 이벤트가 개최되었다.\[3\]
 「벚꽃, 흔들려 (桜、ゆれる)」는 2013년 2월 20일에 방송된 **K・WEST ENTAME GENERATION**에서 첫 온에어되었다.
@@ -35,7 +35,7 @@
     [니시와키 사야카](../Page/니시와키_사야카.md "wikilink") 솔로곡
 17. **3three** \[3 : 43\]
 18. : 작사・작곡・편곡 : 前山田健一
-    [사타케 우키](../Page/사타케_우키.md "wikilink")・[무라타 히로나](../Page/무라타_히로나.md "wikilink")・[카와시마 우미카의](https://ko.wikipedia.org/wiki/카와시마_우미카 "wikilink") 유닛곡
+    [사타케 우키](../Page/사타케_우키.md "wikilink")・[무라타 히로나](../Page/무라타_히로나.md "wikilink")・[카와시마 우미카의](../Page/카와시마_우미카.md "wikilink") 유닛곡
 19. **[White Wishes](../Page/White_Wishes.md "wikilink")** \[5 : 20\]
 20. : 작사 : 小林夏海, 작곡 : 浅利進吾, 편곡 : ha-j
 21. **[Brave](https://ko.wikipedia.org/wiki/이_얼!_강시_feat._하오하오!_강시걸/Brave "wikilink")** \[4 : 13\]

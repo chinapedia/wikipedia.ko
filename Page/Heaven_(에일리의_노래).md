@@ -5,7 +5,7 @@
 
 ## 평가
 
-《[이즘](https://ko.wikipedia.org/wiki/이즘 "wikilink")》의 신현태는 "괄목할 만한 신인 가수의 등장이다. [비욘세](../Page/비욘세.md "wikilink")와 [리한나](https://ko.wikipedia.org/wiki/리한나 "wikilink")가 연상되는 R\&B 댄스곡으로 호소력이 돋보이는 목소리와 몽환적인 분위기, 웅장한 전개가 곡의 매력을 더한다."며 별점 5점 만점 중 3.5점을 부여했다.\[1\]
+《[이즘](https://ko.wikipedia.org/wiki/이즘 "wikilink")》의 신현태는 "괄목할 만한 신인 가수의 등장이다. [비욘세](../Page/비욘세.md "wikilink")와 [리한나](../Page/리한나.md "wikilink")가 연상되는 R\&B 댄스곡으로 호소력이 돋보이는 목소리와 몽환적인 분위기, 웅장한 전개가 곡의 매력을 더한다."며 별점 5점 만점 중 3.5점을 부여했다.\[1\]
 
 ## 차트 성적
 

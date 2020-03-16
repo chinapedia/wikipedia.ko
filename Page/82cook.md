@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [82cook](https://ko.wikipedia.org/wiki/82cook).
 
 
-**82cook**은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [인터넷 커뮤니티이다](https://ko.wikipedia.org/wiki/인터넷_커뮤니티 "wikilink"). 82cook은 [스포츠서울](https://ko.wikipedia.org/wiki/스포츠서울 "wikilink") 기자와 [퀸](https://ko.wikipedia.org/wiki/퀸_\(여성잡지\) "wikilink") 편집장 출신인 [김혜경이](https://ko.wikipedia.org/wiki/김혜경_\(기자\) "wikilink") [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink")에 설립하였고 요리를 비롯한 가사와 관련한 정보를 주로 공유하는 공간이다.\[1\]\[2\]\[3\]\[4\] 82cook 회원들은 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [촛불 시위에](https://ko.wikipedia.org/wiki/2008년_대한민국의_촛불_시위 "wikilink") 참여하면서 정치적인 행보도 보여주었다.\[5\]
+**82cook**은 [대한민국](../Page/대한민국.md "wikilink")의 [인터넷 커뮤니티이다](https://ko.wikipedia.org/wiki/인터넷_커뮤니티 "wikilink"). 82cook은 [스포츠서울](../Page/스포츠서울.md "wikilink") 기자와 [퀸](https://ko.wikipedia.org/wiki/퀸_\(여성잡지\) "wikilink") 편집장 출신인 [김혜경이](https://ko.wikipedia.org/wiki/김혜경_\(기자\) "wikilink") [2002년](../Page/2002년.md "wikilink")에 설립하였고 요리를 비롯한 가사와 관련한 정보를 주로 공유하는 공간이다.\[1\]\[2\]\[3\]\[4\] 82cook 회원들은 [2008년](../Page/2008년.md "wikilink") [촛불 시위에](https://ko.wikipedia.org/wiki/2008년_대한민국의_촛불_시위 "wikilink") 참여하면서 정치적인 행보도 보여주었다.\[5\]
 
 ## 각주
 

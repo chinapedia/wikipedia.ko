@@ -32,15 +32,15 @@ CBS파워라디오는 공정하고 건전한 방송문화를 전파하고 한민
 
 ## 연혁
 
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [3월 1일](https://ko.wikipedia.org/wiki/3월_1일 "wikilink") - 방송 허가 및 주파수 할당 (주파수 FM87.5Mhz/99.9Mhz)
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [6월 1일](https://ko.wikipedia.org/wiki/6월_1일 "wikilink") - CBS 파워라디오 개국 및 시험 방송
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [3월 5일](https://ko.wikipedia.org/wiki/3월_5일 "wikilink") - 인터넷 방송 송출 (www.withcbs.com) [1](https://web.archive.org/web/20160901231645/http://www.withcbs.com/) -\> \[1\]
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [6월 1일](https://ko.wikipedia.org/wiki/6월_1일 "wikilink") - CBS 파워라디오 개국 1주년 기념식
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [12월 30일](https://ko.wikipedia.org/wiki/12월_30일 "wikilink") - FM 방송 잠정 송출중단
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [5월 6일](https://ko.wikipedia.org/wiki/5월_6일 "wikilink") - 팟캐스트 서비스 개시
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [11월 15일](https://ko.wikipedia.org/wiki/11월_15일 "wikilink") - 안드로이드 앱 서비스 개시
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [1월 16일](https://ko.wikipedia.org/wiki/1월_16일 "wikilink") - 아이폰 앱 서비스 개시
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [6월 21일](https://ko.wikipedia.org/wiki/6월_21일 "wikilink") - 힐링 채널 개국
+  - [2009년](../Page/2009년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") - 방송 허가 및 주파수 할당 (주파수 FM87.5Mhz/99.9Mhz)
+  - [2009년](../Page/2009년.md "wikilink") [6월 1일](../Page/6월_1일.md "wikilink") - CBS 파워라디오 개국 및 시험 방송
+  - [2010년](../Page/2010년.md "wikilink") [3월 5일](../Page/3월_5일.md "wikilink") - 인터넷 방송 송출 (www.withcbs.com) [1](https://web.archive.org/web/20160901231645/http://www.withcbs.com/) -\> \[1\]
+  - [2011년](../Page/2011년.md "wikilink") [6월 1일](../Page/6월_1일.md "wikilink") - CBS 파워라디오 개국 1주년 기념식
+  - [2011년](../Page/2011년.md "wikilink") [12월 30일](../Page/12월_30일.md "wikilink") - FM 방송 잠정 송출중단
+  - [2012년](../Page/2012년.md "wikilink") [5월 6일](../Page/5월_6일.md "wikilink") - 팟캐스트 서비스 개시
+  - [2012년](../Page/2012년.md "wikilink") [11월 15일](../Page/11월_15일.md "wikilink") - 안드로이드 앱 서비스 개시
+  - [2013년](../Page/2013년.md "wikilink") [1월 16일](../Page/1월_16일.md "wikilink") - 아이폰 앱 서비스 개시
+  - [2014년](../Page/2014년.md "wikilink") [6월 21일](../Page/6월_21일.md "wikilink") - 힐링 채널 개국
 
 ## 청취방법
 

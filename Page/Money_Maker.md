@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Money Maker](https://ko.wikipedia.org/wiki/Money_Maker).
 
 
-《**Money Maker**》는 미국의 랩퍼 [루다크리스](https://ko.wikipedia.org/wiki/루다크리스 "wikilink")의 노래로, [퍼렐 윌리엄스가](https://ko.wikipedia.org/wiki/퍼렐_윌리엄스 "wikilink") 피쳐링 해주었다. 이 노래는 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") 앨범 [Release Therapy에](https://ko.wikipedia.org/wiki/Release_Therapy "wikilink") 수록되어 있기도 하다. [빌보드 핫 100](../Page/빌보드_핫_100.md "wikilink") 차트에서 2주 1위를 차지했었다.
+《**Money Maker**》는 미국의 랩퍼 [루다크리스](../Page/루다크리스.md "wikilink")의 노래로, [퍼렐 윌리엄스가](../Page/퍼렐_윌리엄스.md "wikilink") 피쳐링 해주었다. 이 노래는 [2006년](../Page/2006년.md "wikilink") 앨범 [Release Therapy에](https://ko.wikipedia.org/wiki/Release_Therapy "wikilink") 수록되어 있기도 하다. [빌보드 핫 100](../Page/빌보드_핫_100.md "wikilink") 차트에서 2주 1위를 차지했었다.
 
 ## 외부 링크
 

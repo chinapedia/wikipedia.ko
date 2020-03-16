@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Invitation \(EP\)](https://ko.wikipedia.org/wiki/Invitation_\(EP\)).
 
 
-《**Invitation**》은 [에일리](../Page/에일리.md "wikilink")의 첫 번째 미니 앨범으로써 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [10월 16일에](https://ko.wikipedia.org/wiki/10월_16일 "wikilink") 발매되었다. 대표곡으로는 〈보여줄게〉와 〈저녁하늘〉이 있다.
+《**Invitation**》은 [에일리](../Page/에일리.md "wikilink")의 첫 번째 미니 앨범으로써 [2012년](../Page/2012년.md "wikilink") [10월 16일에](../Page/10월_16일.md "wikilink") 발매되었다. 대표곡으로는 〈보여줄게〉와 〈저녁하늘〉이 있다.
 
 ## 특징
 
-  - [한국방송공사](../Page/한국방송공사.md "wikilink")의 가요 프로그램 《[뮤직뱅크](../Page/뮤직뱅크.md "wikilink")》에서 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [11월 23일](https://ko.wikipedia.org/wiki/11월_23일 "wikilink") [싸이](https://ko.wikipedia.org/wiki/싸이 "wikilink")의 〈강남스타일〉 11주 연속 1위를 저지하며 타이틀곡 〈보여줄게〉로 1위를 차지했다.
+  - [한국방송공사](../Page/한국방송공사.md "wikilink")의 가요 프로그램 《[뮤직뱅크](../Page/뮤직뱅크.md "wikilink")》에서 [2012년](../Page/2012년.md "wikilink") [11월 23일](../Page/11월_23일.md "wikilink") [싸이](../Page/싸이.md "wikilink")의 〈강남스타일〉 11주 연속 1위를 저지하며 타이틀곡 〈보여줄게〉로 1위를 차지했다.
 
 ## 트랙리스트
 

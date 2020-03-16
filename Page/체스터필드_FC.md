@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
 
 
-**체스터필드 FC**(Chesterfield Football Club)는 [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink") [더비셔주](../Page/더비셔주.md "wikilink") [체스터필드](https://ko.wikipedia.org/wiki/체스터필드 "wikilink")를 연고로 하는 축구 클럽이다.
+**체스터필드 FC**(Chesterfield Football Club)는 [잉글랜드](../Page/잉글랜드.md "wikilink") [더비셔주](../Page/더비셔주.md "wikilink") [체스터필드](https://ko.wikipedia.org/wiki/체스터필드 "wikilink")를 연고로 하는 축구 클럽이다.
 
 ## 성적
 

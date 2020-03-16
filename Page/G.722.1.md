@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [G.722.1](https://ko.wikipedia.org/wiki/G.722.1).
 
 
-**G.722.1**은 PictureTel Corp.(현재 [폴리컴](https://ko.wikipedia.org/wiki/폴리컴 "wikilink"))이 개발한 고품질과 중간 [비트레이트](https://ko.wikipedia.org/wiki/비트레이트 "wikilink")(24에서 32 kbit/s) [광대역](https://ko.wikipedia.org/wiki/광대역 "wikilink")(50 Hz - 7kHz 오디오 대역폭, 16ksps(초당 킬로 [샘플링](https://ko.wikipedia.org/wiki/샘플링 "wikilink") 수 오디오 부호화)를 제공하는 무[특허](../Page/특허.md "wikilink") [ITU-T](../Page/ITU-T.md "wikilink") 표준 오디오 코덱이다.
+**G.722.1**은 PictureTel Corp.(현재 [폴리컴](https://ko.wikipedia.org/wiki/폴리컴 "wikilink"))이 개발한 고품질과 중간 [비트레이트](../Page/비트레이트.md "wikilink")(24에서 32 kbit/s) [광대역](https://ko.wikipedia.org/wiki/광대역 "wikilink")(50 Hz - 7kHz 오디오 대역폭, 16ksps(초당 킬로 [샘플링](https://ko.wikipedia.org/wiki/샘플링 "wikilink") 수 오디오 부호화)를 제공하는 무[특허](../Page/특허.md "wikilink") [ITU-T](../Page/ITU-T.md "wikilink") 표준 오디오 코덱이다.
 
 ## 라이선스
 

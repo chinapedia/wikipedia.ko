@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The B-Side Collection](https://ko.wikipedia.org/wiki/The_B-Side_Collection).
 
 
-***The B-Side Collection***(《더 B-사이드 콜렉션》)은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [팝 록](../Page/팝_록.md "wikilink") 밴드 [마룬 5의](../Page/마룬_5.md "wikilink") [EP](https://ko.wikipedia.org/wiki/EP "wikilink")이다. 2007년 12월 18일 발매되었고, *[It Won't Be Soon Before Long](../Page/It_Won't_Be_Soon_Before_Long.md "wikilink")* [싱글 음반들에만](https://ko.wikipedia.org/wiki/싱글_음반 "wikilink") 수록되었던 [B-사이드](https://ko.wikipedia.org/wiki/A-사이드와_B-사이드 "wikilink") 7곡이 수록되어있다. 미국 [빌보드 200에서](../Page/빌보드_200.md "wikilink") 발매 첫 주 만에 51위를 하였다.\[1\]
+***The B-Side Collection***(《더 B-사이드 콜렉션》)은 [미국](../Page/미국.md "wikilink")의 [팝 록](../Page/팝_록.md "wikilink") 밴드 [마룬 5의](../Page/마룬_5.md "wikilink") [EP](https://ko.wikipedia.org/wiki/EP "wikilink")이다. 2007년 12월 18일 발매되었고, *[It Won't Be Soon Before Long](../Page/It_Won't_Be_Soon_Before_Long.md "wikilink")* [싱글 음반들에만](https://ko.wikipedia.org/wiki/싱글_음반 "wikilink") 수록되었던 [B-사이드](https://ko.wikipedia.org/wiki/A-사이드와_B-사이드 "wikilink") 7곡이 수록되어있다. 미국 [빌보드 200에서](../Page/빌보드_200.md "wikilink") 발매 첫 주 만에 51위를 하였다.\[1\]
 
 ## 수록곡
 

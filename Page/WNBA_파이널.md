@@ -57,7 +57,7 @@
 
 ## 같이 보기
 
-  - [NBA 파이널](https://ko.wikipedia.org/wiki/NBA_파이널 "wikilink")
-  - [NBA G 리그 파이널](https://ko.wikipedia.org/wiki/NBA_G_리그_파이널 "wikilink")
+  - [NBA 파이널](../Page/NBA_파이널.md "wikilink")
+  - [NBA G 리그 파이널](../Page/NBA_G_리그_파이널.md "wikilink")
 
 [전미_여자_농구_협회](https://ko.wikipedia.org/wiki/분류:전미_여자_농구_협회 "wikilink")

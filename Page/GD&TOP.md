@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [GD\&TOP](https://ko.wikipedia.org/wiki/GD\&TOP).
 
 
-**GD\&TOP**은 대한민국의 음악 그룹 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") [G-Dragon과](https://ko.wikipedia.org/wiki/지드래곤 "wikilink") [T.O.P](https://ko.wikipedia.org/wiki/T.O.P "wikilink")으로 구성된 유닛 그룹이다. 2010년에 첫 정규 음반 *[GD\&TOP](../Page/GD&TOP_\(음반\).md "wikilink")*을 발매했으며, 이후 5년만에 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") 싱글 음반 *[E](https://ko.wikipedia.org/wiki/E_\(빅뱅의_싱글\) "wikilink")*의 더블 타이틀으로 신곡 " [쩔어](https://ko.wikipedia.org/wiki/쩔어 "wikilink")"를 발표했다.\[1\]\[2\]
+**GD\&TOP**은 대한민국의 음악 그룹 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") [G-Dragon과](../Page/지드래곤.md "wikilink") [T.O.P](../Page/T.O.P.md "wikilink")으로 구성된 유닛 그룹이다. 2010년에 첫 정규 음반 *[GD\&TOP](../Page/GD&TOP_\(음반\).md "wikilink")*을 발매했으며, 이후 5년만에 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") 싱글 음반 *[E](https://ko.wikipedia.org/wiki/E_\(빅뱅의_싱글\) "wikilink")*의 더블 타이틀으로 신곡 " [쩔어](https://ko.wikipedia.org/wiki/쩔어 "wikilink")"를 발표했다.\[1\]\[2\]
 
 ## 구성원
 
@@ -20,7 +20,7 @@
 
 ### 싱글
 
-  - 2011년 일본 싱글 *Oh Yeah* (Feat. [BOM](https://ko.wikipedia.org/wiki/박봄 "wikilink") from [2NE1](https://ko.wikipedia.org/wiki/2NE1 "wikilink"))
+  - 2011년 일본 싱글 *Oh Yeah* (Feat. [BOM](../Page/박봄.md "wikilink") from [2NE1](../Page/2NE1.md "wikilink"))
   - 2015년 [빅뱅](../Page/빅뱅_\(음악_그룹\).md "wikilink") 싱글 *[E](../Page/E_\(빅뱅의_음반\).md "wikilink")* - "[쩔어](../Page/쩔어_\(GD&TOP의_노래\).md "wikilink")"
 
 ### 참여 음반
@@ -45,7 +45,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2011</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/멜론_뮤직_어워드" title="wikilink">멜론 뮤직 어워드</a></p></td>
+<td><p><a href="../Page/멜론_뮤직_어워드.md" title="wikilink">멜론 뮤직 어워드</a></p></td>
 <td><p><em>GD&amp;TOP</em></p></td>
 <td><p>최우수 랩/힙합</p></td>
 <td><p>[5]</p></td>
@@ -75,7 +75,7 @@
 <td><ul>
 <li>'''Oh Yeah (총 1회)
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/12월_30일" title="wikilink">12월 30일</a> <a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》 1위</li>
+<li><a href="../Page/12월_30일.md" title="wikilink">12월 30일</a> <a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》 1위</li>
 </ul></li>
 </ul></td>
 </tr>
@@ -84,8 +84,8 @@
 <td><ul>
 <li>'''High High (총 2회)
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/1월_9일" title="wikilink">1월 9일</a> <a href="../Page/SBS.md" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 뮤티즌송</li>
-<li><a href="https://ko.wikipedia.org/wiki/1월_16일" title="wikilink">1월 16일</a> <a href="../Page/SBS.md" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 뮤티즌송</li>
+<li><a href="../Page/1월_9일.md" title="wikilink">1월 9일</a> <a href="../Page/SBS.md" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 뮤티즌송</li>
+<li><a href="../Page/1월_16일.md" title="wikilink">1월 16일</a> <a href="../Page/SBS.md" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 뮤티즌송</li>
 </ul></li>
 </ul></td>
 </tr>
@@ -94,7 +94,7 @@
 <td><ul>
 <li>'''쩔어 (총 1회)
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/8월_20일" title="wikilink">8월 20일</a> <a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》 1위</li>
+<li><a href="../Page/8월_20일.md" title="wikilink">8월 20일</a> <a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》 1위</li>
 </ul></li>
 </ul></td>
 </tr>

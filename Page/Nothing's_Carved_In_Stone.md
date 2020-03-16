@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Nothing\'s Carved In Stone](https://ko.wikipedia.org/wiki/Nothing\'s_Carved_In_Stone).
 
 
-**Nothing's Carved In Stone**은 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")에 결성한 일본의 록 밴드다. [엘르가든](https://ko.wikipedia.org/wiki/엘르가든 "wikilink")이 활동 정지를 하면서 [기타리스트](https://ko.wikipedia.org/wiki/기타리스트 "wikilink")인 [우부카타 신이치는](../Page/우부카타_신이치.md "wikilink") 그의 솔로 프로젝트로서 Nothing's Carved In Stone을 결성했다. 데뷔 앨범인 *Parallel Lives*는 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [5월 6일에](https://ko.wikipedia.org/wiki/5월_6일 "wikilink") 발매되어 주간 [오리콘](../Page/오리콘.md "wikilink") 차트 11위를 차지하기도 했다.\[1\]
+**Nothing's Carved In Stone**은 [2009년](../Page/2009년.md "wikilink")에 결성한 일본의 록 밴드다. [엘르가든](https://ko.wikipedia.org/wiki/엘르가든 "wikilink")이 활동 정지를 하면서 [기타리스트](https://ko.wikipedia.org/wiki/기타리스트 "wikilink")인 [우부카타 신이치는](../Page/우부카타_신이치.md "wikilink") 그의 솔로 프로젝트로서 Nothing's Carved In Stone을 결성했다. 데뷔 앨범인 *Parallel Lives*는 [2009년](../Page/2009년.md "wikilink") [5월 6일에](../Page/5월_6일.md "wikilink") 발매되어 주간 [오리콘](../Page/오리콘.md "wikilink") 차트 11위를 차지하기도 했다.\[1\]
 
 ## 멤버
 
@@ -15,7 +15,7 @@
   - *Parallel Lives* (2009년 5월 6일)
   - *Sands of Time* (2010년 6월 9일)
   - *Echo* (2011년 6월 8일)
-  - *Silver Sun* (2012년 8월 15일) - *<small>[레코드 레이블](https://ko.wikipedia.org/wiki/레코드_레이블 "wikilink") 데뷔</small>*
+  - *Silver Sun* (2012년 8월 15일) - *<small>[레코드 레이블](../Page/레코드_레이블.md "wikilink") 데뷔</small>*
   - *Revolt* (2013년 6월 26일)
   - "Strangers in Heaven" (2014년 8월 6일)
   - "Existence" (2016년 12월 14일)
