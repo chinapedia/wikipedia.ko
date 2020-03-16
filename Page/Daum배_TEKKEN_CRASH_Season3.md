@@ -7,8 +7,8 @@
 
 ## 리그기간
 
-  - 녹화 : [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [4월 17일](https://ko.wikipedia.org/wiki/4월_17일 "wikilink") \~ [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [6월 12일](https://ko.wikipedia.org/wiki/6월_12일 "wikilink")
-  - 방송날짜 : [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [4월 20일](https://ko.wikipedia.org/wiki/4월_20일 "wikilink") \~ [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [6월 19일](https://ko.wikipedia.org/wiki/6월_19일 "wikilink")
+  - 녹화 : [2011년](../Page/2011년.md "wikilink") [4월 17일](../Page/4월_17일.md "wikilink") \~ [2011년](../Page/2011년.md "wikilink") [6월 12일](../Page/6월_12일.md "wikilink")
+  - 방송날짜 : [2011년](../Page/2011년.md "wikilink") [4월 20일](../Page/4월_20일.md "wikilink") \~ [2011년](../Page/2011년.md "wikilink") [6월 19일](../Page/6월_19일.md "wikilink")
 
 ## 버전
 
@@ -16,7 +16,7 @@
 
 ## 특이사항
 
-  - [Daum배 TEKKEN CRASH Season1](https://ko.wikipedia.org/wiki/Daum배_TEKKEN_CRASH_Season1 "wikilink") 우승 팀이었던 마녀삼총사가 예선에서 탈락하였다.
+  - [Daum배 TEKKEN CRASH Season1](../Page/Daum배_TEKKEN_CRASH_Season1.md "wikilink") 우승 팀이었던 마녀삼총사가 예선에서 탈락하였다.
   - 나진산업이 철권 프로게임단 ‘나진 엠파이어’를 창단, 나진 스페셜리스트와 나진 제우스로 리그에 참가하였다.
   - 리그 4주차부터 Daum의 후원을 받음.
   - 3,4위전 및 결승전 생방송 진행

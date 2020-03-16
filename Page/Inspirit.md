@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Inspirit](https://ko.wikipedia.org/wiki/Inspirit).
 
 
-**Inspirit**(인스피릿)은 대한민국의 음악 그룹 [인피니트](https://ko.wikipedia.org/wiki/인피니트 "wikilink")의 첫 번째 싱글 음반이다. 2011년 3월 17일, [울림엔터테인먼트](https://ko.wikipedia.org/wiki/울림엔터테인먼트 "wikilink")를 통해 발매되었다.
+**Inspirit**(인스피릿)은 대한민국의 음악 그룹 [인피니트](../Page/인피니트.md "wikilink")의 첫 번째 싱글 음반이다. 2011년 3월 17일, [울림엔터테인먼트](../Page/울림엔터테인먼트.md "wikilink")를 통해 발매되었다.
 
 ## 수록곡
 

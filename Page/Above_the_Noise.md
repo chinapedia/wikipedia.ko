@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Above the Noise](https://ko.wikipedia.org/wiki/Above_the_Noise).
 
 
-***Above the Noise***는 [맥플라이](https://ko.wikipedia.org/wiki/맥플라이 "wikilink")의 다섯 번째 정규 음반이다. [댈러스 오스틴과](https://ko.wikipedia.org/wiki/:en:Dallas_Austin "wikilink") [타이오 크루즈가](https://ko.wikipedia.org/wiki/타이오_크루즈 "wikilink") 음반 프로듀서로 참여했으며, 레이블은 [아일랜드 / 유니버설](https://ko.wikipedia.org/wiki/아일랜드_레코드 "wikilink"), 발매일은 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [11월 15일이다](https://ko.wikipedia.org/wiki/11월_15일 "wikilink").\[1\] 전작 *[Radio:Active](https://ko.wikipedia.org/wiki/Radio:Active "wikilink")* 이후 발매 된 *[Party Girl](https://ko.wikipedia.org/wiki/Party_Girl "wikilink")*, *[Shine a Light (featuring Taio Cruz)](https://ko.wikipedia.org/wiki/Shine_a_Light_\(featuring_Taio_Cruz\) "wikilink")* 등이 수록되어 있다.
+***Above the Noise***는 [맥플라이](../Page/맥플라이.md "wikilink")의 다섯 번째 정규 음반이다. [댈러스 오스틴과](https://ko.wikipedia.org/wiki/:en:Dallas_Austin "wikilink") [타이오 크루즈가](../Page/타이오_크루즈.md "wikilink") 음반 프로듀서로 참여했으며, 레이블은 [아일랜드 / 유니버설](../Page/아일랜드_레코드.md "wikilink"), 발매일은 [2010년](../Page/2010년.md "wikilink") [11월 15일이다](../Page/11월_15일.md "wikilink").\[1\] 전작 *[Radio:Active](https://ko.wikipedia.org/wiki/Radio:Active "wikilink")* 이후 발매 된 *[Party Girl](https://ko.wikipedia.org/wiki/Party_Girl "wikilink")*, *[Shine a Light (featuring Taio Cruz)](https://ko.wikipedia.org/wiki/Shine_a_Light_\(featuring_Taio_Cruz\) "wikilink")* 등이 수록되어 있다.
 
 ## 평가
 
@@ -73,8 +73,8 @@
 <tr class="odd">
 <td></td>
 <td><p>2010년 11월 12일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아일랜드_레코드" title="wikilink">아일랜드</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/콤팩트_디스크" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/음악_다운로드" title="wikilink">디지털 다운로드</a></p></td>
+<td><p><a href="../Page/아일랜드_레코드.md" title="wikilink">아일랜드</a></p></td>
+<td><p><a href="../Page/콤팩트_디스크.md" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/음악_다운로드" title="wikilink">디지털 다운로드</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -83,7 +83,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/아이튠즈" title="wikilink">아이튠즈</a></p></td>
+<td><p><a href="../Page/아이튠즈.md" title="wikilink">아이튠즈</a></p></td>
 <td><p><a href="../Page/유니버설_뮤직_그룹.md" title="wikilink">유니버설 뮤직</a></p></td>
 <td><p>디지털 다운로드</p></td>
 <td></td>
@@ -141,15 +141,15 @@
 
 ## 크레딧
 
-  - [대니 존스](https://ko.wikipedia.org/wiki/대니_존스 "wikilink") - [기타](https://ko.wikipedia.org/wiki/기타 "wikilink"), 리드 보컬, 코러스
+  - [대니 존스](../Page/대니_존스.md "wikilink") - [기타](../Page/기타.md "wikilink"), 리드 보컬, 코러스
   - [톰 플래처](https://ko.wikipedia.org/wiki/톰_플래처 "wikilink") - 기타, 리드 보컬, 코러스
   - [해리 저드](https://ko.wikipedia.org/wiki/해리_저드 "wikilink") - [드럼](https://ko.wikipedia.org/wiki/드럼_세트 "wikilink"), [퍼커션](https://ko.wikipedia.org/wiki/타악기 "wikilink")
-  - [더기 포인터](https://ko.wikipedia.org/wiki/더기_포인터 "wikilink") - [베이스](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink"), 코러스
+  - [더기 포인터](https://ko.wikipedia.org/wiki/더기_포인터 "wikilink") - [베이스](../Page/베이스_기타.md "wikilink"), 코러스
   - 댈러스 오스틴 - 프로듀서, 이그젝티브 프로듀서, [키보드](https://ko.wikipedia.org/wiki/키보드 "wikilink"), 신스
   - [제이슨 페리](https://ko.wikipedia.org/wiki/:en:Jason_Perry_\(rock_singer\) "wikilink") - 프로듀서, 이그젝티브 프로듀서, 드럼, 기타
   - 마이크 하트넷 - 베이스, 드럼
   - 토니 레이즈 - 기타
-  - [타이오 크루즈](https://ko.wikipedia.org/wiki/타이오_크루즈 "wikilink") - 보컬, 신스, 키보드, 프로듀서
+  - [타이오 크루즈](../Page/타이오_크루즈.md "wikilink") - 보컬, 신스, 키보드, 프로듀서
   - 알렌 니글리시 - 프로듀서
   - Nels Israelson – 포토그래피
   - [로버트 오턴](https://ko.wikipedia.org/wiki/:en:Robert_Orton_\(mix_engineer\) "wikilink") - 오디오 믹스

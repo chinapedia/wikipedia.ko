@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [We are Buono!](https://ko.wikipedia.org/wiki/We_are_Buono!).
 
 
-《**We Are Buono\!**》()는 [Buono\!](../Page/Buono!.md "wikilink")의 세 번째 [음반](../Page/음반.md "wikilink")이다. [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [2월 10일](https://ko.wikipedia.org/wiki/2월_10일 "wikilink") 발매되었고 유통사는 [포니 캐년이다](https://ko.wikipedia.org/wiki/포니캐년 "wikilink").
+《**We Are Buono\!**》()는 [Buono\!](../Page/Buono!.md "wikilink")의 세 번째 [음반](../Page/음반.md "wikilink")이다. [2010년](../Page/2010년.md "wikilink") [2월 10일](../Page/2월_10일.md "wikilink") 발매되었고 유통사는 [포니 캐년이다](https://ko.wikipedia.org/wiki/포니캐년 "wikilink").
 
 ## 수록곡
 

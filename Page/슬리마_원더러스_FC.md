@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
 
 
-**슬리마 원더러스 FC**(Sliema Wanderers Football Club)는 [슬리마](https://ko.wikipedia.org/wiki/슬리마 "wikilink")를 연고로 하는 [몰타](https://ko.wikipedia.org/wiki/몰타 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 현재는 [몰타 프리미어리그에](../Page/몰타_프리미어리그.md "wikilink") 참가하고 있다. 몰타에서 가장 많은 우승 기록을 보유한 축구 클럽이다.
+**슬리마 원더러스 FC**(Sliema Wanderers Football Club)는 [슬리마](https://ko.wikipedia.org/wiki/슬리마 "wikilink")를 연고로 하는 [몰타](../Page/몰타.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [몰타 프리미어리그에](../Page/몰타_프리미어리그.md "wikilink") 참가하고 있다. 몰타에서 가장 많은 우승 기록을 보유한 축구 클럽이다.
 
 ## 성적
 

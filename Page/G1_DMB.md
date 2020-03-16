@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [G1 DMB](https://ko.wikipedia.org/wiki/G1_DMB).
 
 
-**G1 DMB**는 강원도를 가시청권으로 하는 [지상파DMB](https://ko.wikipedia.org/wiki/지상파DMB "wikilink") 방송국으로, [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [2월 29일에](https://ko.wikipedia.org/wiki/2월_29일 "wikilink") 개국하였으며 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [10월 10일](https://ko.wikipedia.org/wiki/10월_10일 "wikilink") 방송국의 명칭을 **GTB DMB**에서 **G1 DMB**로 변경하였다. [㈜G1이](../Page/G1.md "wikilink") 사업자로서 운영하고 있다.
+**G1 DMB**는 강원도를 가시청권으로 하는 [지상파DMB](https://ko.wikipedia.org/wiki/지상파DMB "wikilink") 방송국으로, [2008년](../Page/2008년.md "wikilink") [2월 29일에](../Page/2월_29일.md "wikilink") 개국하였으며 [2011년](../Page/2011년.md "wikilink") [10월 10일](../Page/10월_10일.md "wikilink") 방송국의 명칭을 **GTB DMB**에서 **G1 DMB**로 변경하였다. [㈜G1이](../Page/G1.md "wikilink") 사업자로서 운영하고 있다.
 
 ## 방송국 연혁
 
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [5월 2일](https://ko.wikipedia.org/wiki/5월_2일 "wikilink") : 지상파DMB방송국 허가
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [2월 29일](https://ko.wikipedia.org/wiki/2월_29일 "wikilink") : 지상파DMB방송국 **GTB DMB** 개국 (대룡산 송신소)
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [10월 10일](https://ko.wikipedia.org/wiki/10월_10일 "wikilink") : GTB DMB에서 **G1 DMB**로 변경
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [12월 15일](https://ko.wikipedia.org/wiki/12월_15일 "wikilink") : G1 DMB 백운산 중계소, 괘방산 중계소 개국
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [8월 18일](https://ko.wikipedia.org/wiki/8월_18일 "wikilink") : 현대 홈쇼핑, G1 DMB로 송출
-  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") : G1 DMB 청대산 중계소, 봉황산 중계소 개국
-  - [2020년](https://ko.wikipedia.org/wiki/2020년 "wikilink") [3월 4일](https://ko.wikipedia.org/wiki/3월_4일 "wikilink") : SBS U HD, 아리랑 라디오, SBS V RADIO가 추가 된다.
+  - [2007년](../Page/2007년.md "wikilink") [5월 2일](../Page/5월_2일.md "wikilink") : 지상파DMB방송국 허가
+  - [2008년](../Page/2008년.md "wikilink") [2월 29일](../Page/2월_29일.md "wikilink") : 지상파DMB방송국 **GTB DMB** 개국 (대룡산 송신소)
+  - [2011년](../Page/2011년.md "wikilink") [10월 10일](../Page/10월_10일.md "wikilink") : GTB DMB에서 **G1 DMB**로 변경
+  - [2011년](../Page/2011년.md "wikilink") [12월 15일](../Page/12월_15일.md "wikilink") : G1 DMB 백운산 중계소, 괘방산 중계소 개국
+  - [2014년](../Page/2014년.md "wikilink") [8월 18일](../Page/8월_18일.md "wikilink") : 현대 홈쇼핑, G1 DMB로 송출
+  - [2016년](../Page/2016년.md "wikilink") : G1 DMB 청대산 중계소, 봉황산 중계소 개국
+  - [2020년](../Page/2020년.md "wikilink") [3월 4일](../Page/3월_4일.md "wikilink") : SBS U HD, 아리랑 라디오, SBS V RADIO가 추가 된다.
 
 ## 비디오 채널
 
@@ -64,8 +64,8 @@
 
 ## 관련 보기
 
-  - [MY MBC](https://ko.wikipedia.org/wiki/MY_MBC_\(강원권\) "wikilink")
-  - [U-KBS](https://ko.wikipedia.org/wiki/U-KBS "wikilink")
+  - [MY MBC](../Page/MY_MBC_\(강원권\).md "wikilink")
+  - [U-KBS](../Page/U-KBS.md "wikilink")
   - [대한민국의 지상파DMB](https://ko.wikipedia.org/wiki/대한민국의_지상파DMB "wikilink")
 
 [분류:G1](https://ko.wikipedia.org/wiki/분류:G1 "wikilink") [분류:2008년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2008년_설립된_텔레비전_방송국과_채널 "wikilink") [분류:대한민국의 디지털 멀티미디어 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_디지털_멀티미디어_방송국 "wikilink")

@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [MY MBC \(\)](https://ko.wikipedia.org/wiki/MY_MBC_\(\)).
 
 
-**MY MBC**는 [대전,세종,충남](https://ko.wikipedia.org/wiki/대전충남 "wikilink"), [충북](https://ko.wikipedia.org/wiki/충청북도 "wikilink") 전역을 가시청권역으로 하는 대한민국의 [지상파DMB](https://ko.wikipedia.org/wiki/지상파DMB "wikilink") 방송국으로, [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [11월 16일](https://ko.wikipedia.org/wiki/11월_16일 "wikilink") 개국하였다. [대전문화방송](../Page/대전문화방송.md "wikilink")이 주사업자이며, [MBC충북](../Page/MBC충북.md "wikilink")과 공동으로 운영중이다. 현재 비디오채널 3개 · 데이터채널 1개를 송출중이다.
+**MY MBC**는 [대전,세종,충남](https://ko.wikipedia.org/wiki/대전충남 "wikilink"), [충북](https://ko.wikipedia.org/wiki/충청북도 "wikilink") 전역을 가시청권역으로 하는 대한민국의 [지상파DMB](https://ko.wikipedia.org/wiki/지상파DMB "wikilink") 방송국으로, [2007년](../Page/2007년.md "wikilink") [11월 16일](../Page/11월_16일.md "wikilink") 개국하였다. [대전문화방송](../Page/대전문화방송.md "wikilink")이 주사업자이며, [MBC충북](../Page/MBC충북.md "wikilink")과 공동으로 운영중이다. 현재 비디오채널 3개 · 데이터채널 1개를 송출중이다.
 
 ## 개요
 
-**MY MBC**는 대전문화방송·MBC충북이 공동으로 투자하여 설립, 대전문화방송이 주사업자로서 운영하는 충청권의 지상파DMB방송국이다. [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink") 정보통신부(現 방통위)로부터 방송국 허가를 받고 2007년 [11월 16일](https://ko.wikipedia.org/wiki/11월_16일 "wikilink") 식장산송신소를 개국함으로써, 비디오채널 3채널과 데이터채널 1채널 그리고 데이터채널로 채널 패키지를 구성하여 본방송을 시작하였다. [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [1월](https://ko.wikipedia.org/wiki/1월 "wikilink")에는 가엽산중계소, 우암산중계소, 원효봉중계소, 계룡산중계소 등 대출력 중계시설들을 준공함으로써 충청권 내에서 다른 지상파DMB방송사들에 비하여 가장 빠르게 방송권역을 확장해 나갔다. 또한 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink")에는 옥마산중계소, 금적산중계소, 용두산중계소, 단양중계소 등 90W급 중계소등을 구축하는 등 [U-KBS](https://ko.wikipedia.org/wiki/U-KBS "wikilink") 못지않은 충청권 내의 높은 지상파DMB 가시청률을 달성하여 충청권 전역 가시청을 목표로 방송망을 늘려나가고 있다.
+**MY MBC**는 대전문화방송·MBC충북이 공동으로 투자하여 설립, 대전문화방송이 주사업자로서 운영하는 충청권의 지상파DMB방송국이다. [2007년](../Page/2007년.md "wikilink") [4월](../Page/4월.md "wikilink") 정보통신부(現 방통위)로부터 방송국 허가를 받고 2007년 [11월 16일](../Page/11월_16일.md "wikilink") 식장산송신소를 개국함으로써, 비디오채널 3채널과 데이터채널 1채널 그리고 데이터채널로 채널 패키지를 구성하여 본방송을 시작하였다. [2008년](../Page/2008년.md "wikilink") [1월](../Page/1월.md "wikilink")에는 가엽산중계소, 우암산중계소, 원효봉중계소, 계룡산중계소 등 대출력 중계시설들을 준공함으로써 충청권 내에서 다른 지상파DMB방송사들에 비하여 가장 빠르게 방송권역을 확장해 나갔다. 또한 [2011년](../Page/2011년.md "wikilink")에는 옥마산중계소, 금적산중계소, 용두산중계소, 단양중계소 등 90W급 중계소등을 구축하는 등 [U-KBS](../Page/U-KBS.md "wikilink") 못지않은 충청권 내의 높은 지상파DMB 가시청률을 달성하여 충청권 전역 가시청을 목표로 방송망을 늘려나가고 있다.
 
 ## 채널 구성
 
@@ -73,7 +73,7 @@
 ## 같이 보기
 
   - [대한민국의 지상파DMB](https://ko.wikipedia.org/wiki/대한민국의_지상파DMB "wikilink")
-  - [U-KBS](https://ko.wikipedia.org/wiki/U-KBS "wikilink")
+  - [U-KBS](../Page/U-KBS.md "wikilink")
   - [TJB u](../Page/TJB_u.md "wikilink")
 
 ## 외부 링크

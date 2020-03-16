@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TuRU ](https://ko.wikipedia.org/wiki/TuRU_).
 
 
-**TuRU 뒤셀도르프**()는 [독일](https://ko.wikipedia.org/wiki/독일 "wikilink") [노르트라인베스트팔렌](https://ko.wikipedia.org/wiki/노르트라인베스트팔렌 "wikilink")주의 [주도](https://ko.wikipedia.org/wiki/주도 "wikilink")인 [뒤셀도르프](https://ko.wikipedia.org/wiki/뒤셀도르프 "wikilink")를 연고로 하는 축구와 핸드볼 팀이다. 홈 구장은 뒤셀도르프에 있는 Stadion an der Feuerbachstraße이다.
+**TuRU 뒤셀도르프**()는 [독일](../Page/독일.md "wikilink") [노르트라인베스트팔렌](https://ko.wikipedia.org/wiki/노르트라인베스트팔렌 "wikilink")주의 [주도](https://ko.wikipedia.org/wiki/주도 "wikilink")인 [뒤셀도르프](../Page/뒤셀도르프.md "wikilink")를 연고로 하는 축구와 핸드볼 팀이다. 홈 구장은 뒤셀도르프에 있는 Stadion an der Feuerbachstraße이다.
 
 ## 역사
 

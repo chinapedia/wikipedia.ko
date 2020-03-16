@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Ju-ken](https://ko.wikipedia.org/wiki/Ju-ken).
 
 
-**Ju-ken** ([1971년](https://ko.wikipedia.org/wiki/1971년 "wikilink") [6월 27일](https://ko.wikipedia.org/wiki/6월_27일 "wikilink") \~ ) 는 [지바현](https://ko.wikipedia.org/wiki/지바현 "wikilink") [후나바시 시](https://ko.wikipedia.org/wiki/후나바시_시 "wikilink") 출생의 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [베이시스트이자](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink") [세션 연주자이다](https://ko.wikipedia.org/wiki/세션_연주자 "wikilink"). 그는 일본내에서 가장 음악가들에게 인기가 많은 베이스 세션 연주자들 중 한명이다.
+**Ju-ken** ([1971년](../Page/1971년.md "wikilink") [6월 27일](../Page/6월_27일.md "wikilink") \~ ) 는 [지바현](../Page/지바현.md "wikilink") [후나바시 시](https://ko.wikipedia.org/wiki/후나바시_시 "wikilink") 출생의 [일본](../Page/일본.md "wikilink")의 [베이시스트이자](../Page/베이스_기타.md "wikilink") [세션 연주자이다](https://ko.wikipedia.org/wiki/세션_연주자 "wikilink"). 그는 일본내에서 가장 음악가들에게 인기가 많은 베이스 세션 연주자들 중 한명이다.
 
 ## 경력
 
-27살때 [엑스재팬](https://ko.wikipedia.org/wiki/엑스재팬 "wikilink")의 [베이시스트였던](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink") [HEATH](../Page/HEATH.md "wikilink")의 초청을 시작으로 Ju-ken은 프로 연주자로서의 일을 시작했다.
+27살때 [엑스재팬](https://ko.wikipedia.org/wiki/엑스재팬 "wikilink")의 [베이시스트였던](../Page/베이스_기타.md "wikilink") [HEATH](../Page/HEATH.md "wikilink")의 초청을 시작으로 Ju-ken은 프로 연주자로서의 일을 시작했다.
 2008\~2009년도에 [각트](https://ko.wikipedia.org/wiki/각트 "wikilink")의 라이브 투어 «Requiem et Reminiscence II 〜再生と邂逅〜»에 참여했다.
 최근에는 [VAMPS와](https://ko.wikipedia.org/wiki/뱀프스 "wikilink") 함께 월드 투어를 성공적으로 마쳤다.
 

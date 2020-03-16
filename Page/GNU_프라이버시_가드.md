@@ -3,7 +3,7 @@
 
 **GNU 프라이버시 가드**(GNU Privacy Guard, **GnuPG** 또는 **GPG**)는 [PGP를](../Page/PGP_\(소프트웨어\).md "wikilink") 대체하는 자유 소프트웨어이다. GnuPG는 오픈피지피 표준을 다루는 RFC 4880를 만족한다. 현재 버전의 GPG는 GnuPG나 다른 오픈PGP 호환 프로그램과 상호 운용이 가능하다.
 
-GnuPG는 [자유 소프트웨어 재단의](https://ko.wikipedia.org/wiki/자유_소프트웨어_재단 "wikilink") GNU 소프트웨어에 속하고, [독일](https://ko.wikipedia.org/wiki/독일 "wikilink") 정부의 주요 재정 후원을 받고 있다. GnuPG는 GPL3 라이선스로 배포된다.
+GnuPG는 [자유 소프트웨어 재단의](../Page/자유_소프트웨어_재단.md "wikilink") GNU 소프트웨어에 속하고, [독일](../Page/독일.md "wikilink") 정부의 주요 재정 후원을 받고 있다. GnuPG는 GPL3 라이선스로 배포된다.
 
 ## 역사
 
@@ -14,8 +14,8 @@ GnuPG는 [붸르너 코흐](https://ko.wikipedia.org/wiki/붸르너_코흐 "wiki
 ## 같이 보기
 
   - [PGP](../Page/PGP_\(소프트웨어\).md "wikilink")
-  - [트루크립트](https://ko.wikipedia.org/wiki/트루크립트 "wikilink")
-  - [프리넷](https://ko.wikipedia.org/wiki/프리넷 "wikilink")
+  - [트루크립트](../Page/트루크립트.md "wikilink")
+  - [프리넷](../Page/프리넷.md "wikilink")
 
 ## 참고
 

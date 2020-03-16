@@ -1,20 +1,20 @@
 > This article is converted from Wikipedia: [MY MBC \(\)](https://ko.wikipedia.org/wiki/MY_MBC_\(\)).
 
 
-**MY MBC**는 강원도를 가시청권으로 하는 [지상파DMB](https://ko.wikipedia.org/wiki/지상파DMB "wikilink") 방송국으로, [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [12월 21일에](https://ko.wikipedia.org/wiki/12월_21일 "wikilink") 개국하였다. [춘천문화방송](../Page/춘천문화방송.md "wikilink")이 주사업자이며, [원주문화방송](../Page/원주문화방송.md "wikilink"), [MBC강원영동](../Page/MBC강원영동.md "wikilink")과 공동으로 운영하고 있다.
+**MY MBC**는 강원도를 가시청권으로 하는 [지상파DMB](https://ko.wikipedia.org/wiki/지상파DMB "wikilink") 방송국으로, [2007년](../Page/2007년.md "wikilink") [12월 21일에](../Page/12월_21일.md "wikilink") 개국하였다. [춘천문화방송](../Page/춘천문화방송.md "wikilink")이 주사업자이며, [원주문화방송](../Page/원주문화방송.md "wikilink"), [MBC강원영동](../Page/MBC강원영동.md "wikilink")과 공동으로 운영하고 있다.
 
 ## 연혁
 
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [12월 21일](https://ko.wikipedia.org/wiki/12월_21일 "wikilink") : 강원권 지상파DMB방송국 **MY MBC** 개국 (대룡산 송신소 - 춘천문화방송, 괘방산 송신소 - MBC 강원영동(구 강릉문화방송, 삼척문화방송))
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [9월 30일](https://ko.wikipedia.org/wiki/9월_30일 "wikilink") : 백운산 송신소 개국 (원주문화방송)
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [8월 1일](https://ko.wikipedia.org/wiki/8월_1일 "wikilink") : 임대채널 QBS+ 송출 중단
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [8월 4일](https://ko.wikipedia.org/wiki/8월_4일 "wikilink") : 춘천MBC FM4U 수중계
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [8월 14일](https://ko.wikipedia.org/wiki/8월_14일 "wikilink") : CJ 오쇼핑 추가 송출
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [8월 26일](https://ko.wikipedia.org/wiki/8월_26일 "wikilink") : GS SHOP 추가 송출
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [6월 14일](https://ko.wikipedia.org/wiki/6월_14일 "wikilink") : 춘천MBC FM4U 수중계 종료
-  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [11월 1일](https://ko.wikipedia.org/wiki/11월_1일 "wikilink") : GS SHOP 송출 중단
-  - [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [3월 4일](https://ko.wikipedia.org/wiki/3월_4일 "wikilink") : 평일 오전 11시대와 5시대에 각각 춘천 MBC TV 방송 대신 자체 프로그램을 편성.
-  - [2020년](https://ko.wikipedia.org/wiki/2020년 "wikilink") [3월 4일](https://ko.wikipedia.org/wiki/3월_4일 "wikilink") : MY MBC 로고와 이름판을 삽입.
+  - [2007년](../Page/2007년.md "wikilink") [12월 21일](../Page/12월_21일.md "wikilink") : 강원권 지상파DMB방송국 **MY MBC** 개국 (대룡산 송신소 - 춘천문화방송, 괘방산 송신소 - MBC 강원영동(구 강릉문화방송, 삼척문화방송))
+  - [2008년](../Page/2008년.md "wikilink") [9월 30일](../Page/9월_30일.md "wikilink") : 백운산 송신소 개국 (원주문화방송)
+  - [2010년](../Page/2010년.md "wikilink") [8월 1일](../Page/8월_1일.md "wikilink") : 임대채널 QBS+ 송출 중단
+  - [2014년](../Page/2014년.md "wikilink") [8월 4일](../Page/8월_4일.md "wikilink") : 춘천MBC FM4U 수중계
+  - [2014년](../Page/2014년.md "wikilink") [8월 14일](../Page/8월_14일.md "wikilink") : CJ 오쇼핑 추가 송출
+  - [2014년](../Page/2014년.md "wikilink") [8월 26일](../Page/8월_26일.md "wikilink") : GS SHOP 추가 송출
+  - [2015년](../Page/2015년.md "wikilink") [6월 14일](../Page/6월_14일.md "wikilink") : 춘천MBC FM4U 수중계 종료
+  - [2018년](../Page/2018년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") : GS SHOP 송출 중단
+  - [2019년](../Page/2019년.md "wikilink") [3월 4일](../Page/3월_4일.md "wikilink") : 평일 오전 11시대와 5시대에 각각 춘천 MBC TV 방송 대신 자체 프로그램을 편성.
+  - [2020년](../Page/2020년.md "wikilink") [3월 4일](../Page/3월_4일.md "wikilink") : MY MBC 로고와 이름판을 삽입.
 
 ## 채널 구성
 
@@ -80,7 +80,7 @@
 ## 관련 보기
 
   - [대한민국의 지상파DMB](https://ko.wikipedia.org/wiki/대한민국의_지상파DMB "wikilink")
-  - [U-KBS](https://ko.wikipedia.org/wiki/U-KBS "wikilink")
+  - [U-KBS](../Page/U-KBS.md "wikilink")
   - [G1 DMB](../Page/G1_DMB.md "wikilink")
 
 [분류:문화방송계열 방송국](https://ko.wikipedia.org/wiki/분류:문화방송계열_방송국 "wikilink") [분류:2007년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2007년_설립된_텔레비전_방송국과_채널 "wikilink")

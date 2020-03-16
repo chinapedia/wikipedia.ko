@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Heart To Heart \( \)](https://ko.wikipedia.org/wiki/Heart_To_Heart_\(_\)).
 
 
-"**Heart To Heart**"는 대한민국의 음악 그룹 [포미닛](https://ko.wikipedia.org/wiki/포미닛 "wikilink")의 싱글 음반이다. 포미닛의 첫 정규 음반인 *[4minutes Left](https://ko.wikipedia.org/wiki/4minutes_Left "wikilink")*의 발매에 앞서 2011년 3월 29일 [유니버설 뮤직 그룹을](../Page/유니버설_뮤직_그룹.md "wikilink") 통해 발매되었다. 이 싱글 음반에는 타이틀곡 "Heart To Heart"를 비롯해 "4minutes Left", "sweet suga Honey\!", "You Know", 〈모르는 척〉과 같은 4개의 새로운 노래들도 함께 수록되었다.
+"**Heart To Heart**"는 대한민국의 음악 그룹 [포미닛](../Page/포미닛.md "wikilink")의 싱글 음반이다. 포미닛의 첫 정규 음반인 *[4minutes Left](https://ko.wikipedia.org/wiki/4minutes_Left "wikilink")*의 발매에 앞서 2011년 3월 29일 [유니버설 뮤직 그룹을](../Page/유니버설_뮤직_그룹.md "wikilink") 통해 발매되었다. 이 싱글 음반에는 타이틀곡 "Heart To Heart"를 비롯해 "4minutes Left", "sweet suga Honey\!", "You Know", 〈모르는 척〉과 같은 4개의 새로운 노래들도 함께 수록되었다.
 
 ## 수록곡
 

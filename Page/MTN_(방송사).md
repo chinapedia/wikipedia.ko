@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [MTN \(\)](https://ko.wikipedia.org/wiki/MTN_\(\)).
 
 
-《**MTN**》은 [머니투데이](../Page/머니투데이.md "wikilink")에서 제공하는 경제방송으로 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 10월에 창립되었다.
+《**MTN**》은 [머니투데이](../Page/머니투데이.md "wikilink")에서 제공하는 경제방송으로 [2008년](../Page/2008년.md "wikilink") 10월에 창립되었다.
 
 ## 개요
 
-머니투데이방송은 경제 전문 방송으로 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 10월 1일 창립했다.이 채널은 [MCN 영화채널을](https://ko.wikipedia.org/wiki/MCN_영화채널 "wikilink") 인수하여 설립했다고 한다. [케이블TV](https://ko.wikipedia.org/wiki/케이블_텔레비전 "wikilink"), [위성방송](../Page/위성방송.md "wikilink") [스카이라이프](https://ko.wikipedia.org/wiki/한국디지털위성방송 "wikilink")(skylife) 및 온라인방송(MTN, 아프리카방송, [곰TV](../Page/곰TV.md "wikilink"), [유튜브](../Page/유튜브.md "wikilink"))을 통해서 증권정보 프로그램, 투자정보 프로그램, 증권시황 프로그램, 해외증시 프로그램, 재테크정보 프로그램, 시사교양 프로그램 등을 제공하고 있다.
+머니투데이방송은 경제 전문 방송으로 [2008년](../Page/2008년.md "wikilink") 10월 1일 창립했다.이 채널은 [MCN 영화채널을](https://ko.wikipedia.org/wiki/MCN_영화채널 "wikilink") 인수하여 설립했다고 한다. [케이블TV](../Page/케이블_텔레비전.md "wikilink"), [위성방송](../Page/위성방송.md "wikilink") [스카이라이프](https://ko.wikipedia.org/wiki/한국디지털위성방송 "wikilink")(skylife) 및 온라인방송(MTN, 아프리카방송, [곰TV](../Page/곰TV.md "wikilink"), [유튜브](../Page/유튜브.md "wikilink"))을 통해서 증권정보 프로그램, 투자정보 프로그램, 증권시황 프로그램, 해외증시 프로그램, 재테크정보 프로그램, 시사교양 프로그램 등을 제공하고 있다.
 
 ## 주요 프로그램
 

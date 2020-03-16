@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FM ](https://ko.wikipedia.org/wiki/FM_).
 
 
-[전자공학](https://ko.wikipedia.org/wiki/전자공학 "wikilink")에서 **FM 알고리즘**(Fiduccia Mattheyses algorithm)은 Physical Design의 작업 중 하나인 Circuit Partitioning 공정의 하나이다. 다른 공정으로는 K-L(Kernighan-Lin)알고리즘, Simulated Annealing 등이 있다. F-M(fiduccia-mattheyses) 알고리즘은 Fiduccia\[1982\]와 Mattheyes에 의해 노드연결 분리문제(hypergraph bipartitioning problem)를 해결하기 위해 고안된 반복해석 기법이다.
+[전자공학](../Page/전자공학.md "wikilink")에서 **FM 알고리즘**(Fiduccia Mattheyses algorithm)은 Physical Design의 작업 중 하나인 Circuit Partitioning 공정의 하나이다. 다른 공정으로는 K-L(Kernighan-Lin)알고리즘, Simulated Annealing 등이 있다. F-M(fiduccia-mattheyses) 알고리즘은 Fiduccia\[1982\]와 Mattheyes에 의해 노드연결 분리문제(hypergraph bipartitioning problem)를 해결하기 위해 고안된 반복해석 기법이다.
 
 **입력데이터분석**: [하이퍼그래프](https://ko.wikipedia.org/wiki/하이퍼그래프 "wikilink")로 이루어진 벌텍스(vertex, 디지털 Gate를 변환하면 만들어진 블록)와 하이퍼엣지([Hyperedge](https://ko.wikipedia.org/wiki/Hyperedge "wikilink"), 블록에 연결된 선), 예) Net1 C1, C2, C3, C4
 

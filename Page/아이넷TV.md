@@ -1,30 +1,30 @@
 > This article is converted from Wikipedia: [TV](https://ko.wikipedia.org/wiki/TV).
 
 
-**아이넷TV**(Inet TV)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 아이넷방송이 운영하는 [음악 전문](../Page/음악.md "wikilink") [유료 방송 채널이다](../Page/대한민국의_케이블TV_방송.md "wikilink"). [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") 개국했으며, 주로 성인가요·[트로트](https://ko.wikipedia.org/wiki/트로트 "wikilink")와 관련된 [프로그램들을](https://ko.wikipedia.org/wiki/텔레비전_프로그램 "wikilink") 방영한다.
+**아이넷TV**(Inet TV)는 [대한민국](../Page/대한민국.md "wikilink")의 아이넷방송이 운영하는 [음악 전문](../Page/음악.md "wikilink") [유료 방송 채널이다](../Page/대한민국의_케이블TV_방송.md "wikilink"). [2002년](../Page/2002년.md "wikilink") 개국했으며, 주로 성인가요·[트로트](../Page/트로트.md "wikilink")와 관련된 [프로그램들을](../Page/텔레비전_프로그램.md "wikilink") 방영한다.
 
 ## 연혁
 
-  - **[2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink")**
+  - **[2019년](../Page/2019년.md "wikilink")**
 
 `  `**`4월`**
 `  한국법무보호복지공단 MOU 체결`
 `  2019 케이블방송대상 기획대상`
 
-  - **[2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink")**
+  - **[2018년](../Page/2018년.md "wikilink")**
 
 `  `**`12월`**` `
 `  방송통신위원회 2018년 제작역랑평가 매우우수등급`
 `  `**`10월`**` `
 `  (사)세계한민족여성재단 MOU체결`
 
-  - **[2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink")**
+  - **[2017년](../Page/2017년.md "wikilink")**
 
 `  `**`3월`**` `
 `  사단법인 전국노인복지단체연합회 MOU 체결 `
 `  케이블 방송 대상 프로그램 대상 수상`
 
-  - **[2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink")**
+  - **[2016년](../Page/2016년.md "wikilink")**
 
 `  `**`12월`**` `
 `  사단법인 한국언론인협회 MOU체결(건강기능식품 홍보)`
@@ -37,12 +37,12 @@
 `  `**`2월`**` `
 `  강동아트센터 "문화예술의 발전”MOU체결`
 
-  - **[2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink")**
+  - **[2015년](../Page/2015년.md "wikilink")**
 
 `  `**`4월`**` `
 `  방송통신위원회 제작지원사업 "한번만 더 날자”`
 
-  - **[2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink")**
+  - **[2013년](../Page/2013년.md "wikilink")**
 
 `  `**`12월`**` `
 `  한국영상대학교 및 공주정보고등학교와 연계교육 협약서 체결`
@@ -59,13 +59,13 @@
 `  아이넷방송 교육 및 문화콘텐츠 교류 MOU 체결`
 `  FULL HD 프로그램 24시간 송출`
 
-  - **[2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink")**
+  - **[2012년](../Page/2012년.md "wikilink")**
 
 `  `**`4월`**` `
 `  방송통신위원회 제작지원사업`
 `  "상처난 마음에 음악 연고를 발라주세요”  `
 
-  - **[2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink")**
+  - **[2011년](../Page/2011년.md "wikilink")**
 
 `  `**`7월`**` `
 `  FULL HD 12톤 중계차 도입 및 HD종합편집 시스템 구축`
@@ -74,7 +74,7 @@
 `  `**`4월`**` `
 `  방송통신위원회  제작지원사업 "한국인의 소울, 트로트”`
 
-  - **[2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink")**
+  - **[2010년](../Page/2010년.md "wikilink")**
 
 `  `**`12월`**` `
 `  중국 연길TV와 방송문화콘텐츠교류 MOU체결`
@@ -88,7 +88,7 @@
 `  `**`3월`**` `
 `  한국케이블방송대상 쇼/음악부문“올해의 작품상 수상”`
 
-  - **[2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink")**
+  - **[2008년](../Page/2008년.md "wikilink")**
 
 `  `**`9월`**` `
 `  주한미대사관 공보과와 방송콘텐츠 제공협약 MOU체결`
@@ -100,31 +100,31 @@
 `  서강대학교 영상대학원 `
 `  영상미디어 콘텐츠 공동제작 MOU체결`
 
-  - **[2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink")**
+  - **[2007년](../Page/2007년.md "wikilink")**
 
 `  `**`10월`**` `
 `  미주 한인방송 TVK24와 `
 `  영상미디어 콘텐츠 공동제작 MOU체결`
 
-  - **[2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")**
+  - **[2006년](../Page/2006년.md "wikilink")**
 
 `  `**`9월`**` `
 `  FULL DIGITAL 12톤 중계차 도입`
 `  경인방송 프로그램 35,000여편 저작권 및 판권 인수`
 
-  - **[2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink")**
+  - **[2005년](../Page/2005년.md "wikilink")**
 
 `  `**`8월`**` `
 `  FULL DIGITAL 5톤 중계차 도입`
 
-  - **[2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink")**
+  - **[2003년](../Page/2003년.md "wikilink")**
 
 `  `**`6월`**` `
 `  법인명 ㈜아이넷방송 `
 `  채널명 INET TV 변경 `
 `  송통신제작지원사업 선정“한국인의 소율 뮤직 - 트로트”`
 
-  - **[2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink")**
+  - **[2002년](../Page/2002년.md "wikilink")**
 
 `  `**`10월`**` `
 `  케이블 TV E-TV 설립`
@@ -187,14 +187,14 @@
 
 ## 채널 번호
 
-  - [KT](https://ko.wikipedia.org/wiki/KT "wikilink") - 92번
+  - [KT](../Page/KT.md "wikilink") - 92번
   - [스카이라이프](https://ko.wikipedia.org/wiki/스카이라이프 "wikilink") - 99번
   - [B TV](../Page/B_TV.md "wikilink") - 253번
   - [LG U+](https://ko.wikipedia.org/wiki/LG_U+ "wikilink") - 150번
-  - [티브로드](https://ko.wikipedia.org/wiki/티브로드 "wikilink") - 88번
+  - [티브로드](../Page/티브로드.md "wikilink") - 88번
   - [HCN](https://ko.wikipedia.org/wiki/HCN "wikilink") - 48번
-  - [LG헬로비전](https://ko.wikipedia.org/wiki/LG헬로비전 "wikilink") - 99번
-  - [딜라이브](https://ko.wikipedia.org/wiki/딜라이브 "wikilink") - 88번
+  - [LG헬로비전](../Page/LG헬로비전.md "wikilink") - 99번
+  - [딜라이브](../Page/딜라이브.md "wikilink") - 88번
   - [CMB](https://ko.wikipedia.org/wiki/CMB "wikilink") - 126번
 
 ## 외부 링크

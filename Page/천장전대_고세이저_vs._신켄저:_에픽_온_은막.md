@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  vs. :   ](https://ko.wikipedia.org/wiki/__vs._:___).
 
 
-**천장전대 고세이저 vs. 신켄저: 에픽 온 은막** ()은 《[슈퍼 전대 시리즈](../Page/슈퍼_전대_시리즈.md "wikilink")》의 《[천장전대 고세이저](https://ko.wikipedia.org/wiki/천장전대_고세이저 "wikilink")》, 《[사무라이전대 신켄저](https://ko.wikipedia.org/wiki/사무라이전대_신켄저 "wikilink")》의 극장판으로, [고세이저](../Page/고세이저.md "wikilink")와 [신켄저](../Page/신켄저.md "wikilink") 간의 "VS 시리즈"에 해당하는 작품이다. [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [10월 21일](https://ko.wikipedia.org/wiki/10월_21일 "wikilink") 최초로 공식 공개되었으며\[1\], [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [1월 22일](https://ko.wikipedia.org/wiki/1월_22일 "wikilink") 개봉했다. 《[해적전대 고카이저](../Page/해적전대_고카이저.md "wikilink")》의 [고카이저](../Page/고카이저.md "wikilink")도 이 영화를 통해 선행 등장했다. [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [3월 21일](https://ko.wikipedia.org/wiki/3월_21일 "wikilink") DVD판이 공개되었다.
+**천장전대 고세이저 vs. 신켄저: 에픽 온 은막** ()은 《[슈퍼 전대 시리즈](../Page/슈퍼_전대_시리즈.md "wikilink")》의 《[천장전대 고세이저](../Page/천장전대_고세이저.md "wikilink")》, 《[사무라이전대 신켄저](../Page/사무라이전대_신켄저.md "wikilink")》의 극장판으로, [고세이저](../Page/고세이저.md "wikilink")와 [신켄저](../Page/신켄저.md "wikilink") 간의 "VS 시리즈"에 해당하는 작품이다. [2010년](../Page/2010년.md "wikilink") [10월 21일](../Page/10월_21일.md "wikilink") 최초로 공식 공개되었으며\[1\], [2011년](../Page/2011년.md "wikilink") [1월 22일](../Page/1월_22일.md "wikilink") 개봉했다. 《[해적전대 고카이저](../Page/해적전대_고카이저.md "wikilink")》의 [고카이저](../Page/고카이저.md "wikilink")도 이 영화를 통해 선행 등장했다. [2011년](../Page/2011년.md "wikilink") [3월 21일](../Page/3월_21일.md "wikilink") DVD판이 공개되었다.
 
 공식 선전 문구는 "나아가라, [사무라이](../Page/사무라이.md "wikilink")\! 날아올라라, [천사](../Page/천사.md "wikilink")들\!" ()과 "누구도 본 적 없는, 사무라이와 천사의 콜라보레이션 (Collaboration)\!" ()이다.
 
@@ -18,7 +18,7 @@
   - 아라타 - [치바 유다이](../Page/치바_유다이.md "wikilink")
   - 에리 - [사토 리카](https://ko.wikipedia.org/wiki/사토_리카 "wikilink")
   - 아그리 - [하마오 쿄스케](https://ko.wikipedia.org/wiki/하마오_쿄스케 "wikilink")
-  - 모네 - [니와 미키호](https://ko.wikipedia.org/wiki/니와_미키호 "wikilink")
+  - 모네 - [니와 미키호](../Page/니와_미키호.md "wikilink")
   - 하이드 - [오노 켄토](https://ko.wikipedia.org/wiki/오노_켄토 "wikilink")
   - 아마치 노조무 - [나카무라 사쿠야](https://ko.wikipedia.org/wiki/나카무라_사쿠야 "wikilink")
   - 아마치 슈이치로 박사 - [야마다 루이 53세](https://ko.wikipedia.org/wiki/히게단샤쿠 "wikilink")
@@ -49,11 +49,11 @@
 
 <!-- end list -->
 
-  - 고카이 레드의 목소리 - [오자와 료타](https://ko.wikipedia.org/wiki/오자와_료타 "wikilink")
-  - 고카이 블루의 목소리 - [야마다 유키](https://ko.wikipedia.org/wiki/야마다_유키 "wikilink")
-  - 고카이 옐로의 목소리 - [이치미치 마오](https://ko.wikipedia.org/wiki/이치미치_마오 "wikilink")
-  - 고카이 그린의 목소리 - [시미즈 카즈키](https://ko.wikipedia.org/wiki/시미즈_카즈키 "wikilink")
-  - 고카이 핑크의 목소리 - [코이케 유이](https://ko.wikipedia.org/wiki/코이케_유이 "wikilink")
+  - 고카이 레드의 목소리 - [오자와 료타](../Page/오자와_료타.md "wikilink")
+  - 고카이 블루의 목소리 - [야마다 유키](../Page/야마다_유키.md "wikilink")
+  - 고카이 옐로의 목소리 - [이치미치 마오](../Page/이치미치_마오.md "wikilink")
+  - 고카이 그린의 목소리 - [시미즈 카즈키](../Page/시미즈_카즈키.md "wikilink")
+  - 고카이 핑크의 목소리 - [코이케 유이](../Page/코이케_유이.md "wikilink")
   - 모바이레츠 음성 - [세키 토모카즈](../Page/세키_토모카즈.md "wikilink")
 
 ### 슈트 배우

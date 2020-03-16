@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [Busan MBC](https://ko.wikipedia.org/wiki/Busan_MBC).
 
 
-**Busan MBC**(부산 엠비씨)는 부산·울산·경남을 가시청권으로 하는 대한민국의 [지상파DMB](https://ko.wikipedia.org/wiki/지상파DMB "wikilink") 방송국으로, [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [8월 31일에](https://ko.wikipedia.org/wiki/8월_31일 "wikilink") 개국하였다. [부산문화방송](../Page/부산문화방송.md "wikilink")이 주사업자이며, [울산문화방송](../Page/울산문화방송.md "wikilink"), [MBC경남](https://ko.wikipedia.org/wiki/MBC경남 "wikilink")과 공동으로 운영하고 있다.
+**Busan MBC**(부산 엠비씨)는 부산·울산·경남을 가시청권으로 하는 대한민국의 [지상파DMB](https://ko.wikipedia.org/wiki/지상파DMB "wikilink") 방송국으로, [2007년](../Page/2007년.md "wikilink") [8월 31일에](../Page/8월_31일.md "wikilink") 개국하였다. [부산문화방송](../Page/부산문화방송.md "wikilink")이 주사업자이며, [울산문화방송](../Page/울산문화방송.md "wikilink"), [MBC경남](../Page/MBC경남.md "wikilink")과 공동으로 운영하고 있다.
 
 ## 연혁
 
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [8월 31일](https://ko.wikipedia.org/wiki/8월_31일 "wikilink") : 지상파DMB 방송국 **Busan MBC** 개국 (황령산 송신소, 무룡산 송신소, 불모산 송신소)
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [2월 1일](https://ko.wikipedia.org/wiki/2월_1일 "wikilink") : 장군대산 송신소 개국 (2㎾) - 진주문화방송
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [8월 1일](https://ko.wikipedia.org/wiki/8월_1일 "wikilink") : 임대채널 QBS+ TV 송출 중단
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [8월 26일](https://ko.wikipedia.org/wiki/8월_26일 "wikilink") : 임대채널 GS SHOP 송출 시작
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [6월 15일](https://ko.wikipedia.org/wiki/6월_15일 "wikilink") : 지상파DAB 채널 myMBC Radio 송출 중단
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [7월 1일](https://ko.wikipedia.org/wiki/7월_1일 "wikilink") : 임대채널 CJ OSHOP 송출 시작
-  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [11월 1일](https://ko.wikipedia.org/wiki/11월_1일 "wikilink") : 임대채널 GS SHOP 송출 중단
+  - [2007년](../Page/2007년.md "wikilink") [8월 31일](../Page/8월_31일.md "wikilink") : 지상파DMB 방송국 **Busan MBC** 개국 (황령산 송신소, 무룡산 송신소, 불모산 송신소)
+  - [2010년](../Page/2010년.md "wikilink") [2월 1일](../Page/2월_1일.md "wikilink") : 장군대산 송신소 개국 (2㎾) - 진주문화방송
+  - [2010년](../Page/2010년.md "wikilink") [8월 1일](../Page/8월_1일.md "wikilink") : 임대채널 QBS+ TV 송출 중단
+  - [2014년](../Page/2014년.md "wikilink") [8월 26일](../Page/8월_26일.md "wikilink") : 임대채널 GS SHOP 송출 시작
+  - [2015년](../Page/2015년.md "wikilink") [6월 15일](../Page/6월_15일.md "wikilink") : 지상파DAB 채널 myMBC Radio 송출 중단
+  - [2015년](../Page/2015년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") : 임대채널 CJ OSHOP 송출 시작
+  - [2018년](../Page/2018년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") : 임대채널 GS SHOP 송출 중단
 
 ## 채널 구성
 
@@ -90,7 +90,7 @@
 ## 관련 보기
 
   - [디지털 멀티미디어 방송](../Page/디지털_멀티미디어_방송.md "wikilink")
-  - [U-KBS](https://ko.wikipedia.org/wiki/U-KBS "wikilink")
+  - [U-KBS](../Page/U-KBS.md "wikilink")
   - [KNN DMB](../Page/KNN_DMB.md "wikilink")
 
 [분류:문화방송계열 방송국](https://ko.wikipedia.org/wiki/분류:문화방송계열_방송국 "wikilink") [분류:2007년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2007년_설립된_텔레비전_방송국과_채널 "wikilink")

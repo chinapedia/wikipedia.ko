@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Waiting for the End](https://ko.wikipedia.org/wiki/Waiting_for_the_End).
 
 
-**"Waiting for the End"**는 [린킨 파크의](https://ko.wikipedia.org/wiki/린킨_파크 "wikilink") 4번째 정규 음반 *[A Thousand Suns](../Page/A_Thousand_Suns.md "wikilink")*의 두 번째 싱글이다. [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [10월 1일에](https://ko.wikipedia.org/wiki/10월_1일 "wikilink") 발매되었으며 뮤직비디오 감독으로 [조셉 한이](https://ko.wikipedia.org/wiki/조지프_한 "wikilink") 맡았고 [MTV](../Page/MTV.md "wikilink")를 통해 [10월 8일](https://ko.wikipedia.org/wiki/10월_8일 "wikilink"), 공개되었다.
+**"Waiting for the End"**는 [린킨 파크의](../Page/린킨_파크.md "wikilink") 4번째 정규 음반 *[A Thousand Suns](../Page/A_Thousand_Suns.md "wikilink")*의 두 번째 싱글이다. [2010년](../Page/2010년.md "wikilink") [10월 1일에](../Page/10월_1일.md "wikilink") 발매되었으며 뮤직비디오 감독으로 [조셉 한이](https://ko.wikipedia.org/wiki/조지프_한 "wikilink") 맡았고 [MTV](../Page/MTV.md "wikilink")를 통해 [10월 8일](../Page/10월_8일.md "wikilink"), 공개되었다.
 
 ## 배경
 

@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [HMS  \(L12\)](https://ko.wikipedia.org/wiki/HMS__\(L12\)).
 
 
-**HMS 오션**은 영국 해군의 [강습상륙함](https://ko.wikipedia.org/wiki/강습상륙함 "wikilink")이다.
+**HMS 오션**은 영국 해군의 [강습상륙함](../Page/강습상륙함.md "wikilink")이다.
 
 ## 비교
 
-[thumb](https://ko.wikipedia.org/wiki/파일:Fleet_5_nations.jpg "wikilink"). 왼쪽부터 [USS 존 C. 스테니스 (CVN-74)](https://ko.wikipedia.org/wiki/USS_존_C._스테니스_\(CVN-74\) "wikilink"), [샤를 드 골 (R91)](https://ko.wikipedia.org/wiki/샤를_드_골_\(R91\) "wikilink"), HMS 오션 (L12), [USS 존 F. 케네디 (CV-67)](https://ko.wikipedia.org/wiki/USS_존_F._케네디_\(CV-67\) "wikilink")\]\]
+[thumb](https://ko.wikipedia.org/wiki/파일:Fleet_5_nations.jpg "wikilink"). 왼쪽부터 [USS 존 C. 스테니스 (CVN-74)](../Page/USS_존_C._스테니스_\(CVN-74\).md "wikilink"), [샤를 드 골 (R91)](https://ko.wikipedia.org/wiki/샤를_드_골_\(R91\) "wikilink"), HMS 오션 (L12), [USS 존 F. 케네디 (CV-67)](https://ko.wikipedia.org/wiki/USS_존_F._케네디_\(CV-67\) "wikilink")\]\]
 
 영국의 오션함(1995년 진수)은 프랑스의 [미스트랄함](https://ko.wikipedia.org/wiki/미스트랄함 "wikilink")(2004년), 한국의 [독도함](https://ko.wikipedia.org/wiki/독도함 "wikilink")(2005년), 일본의 [휴가함](https://ko.wikipedia.org/wiki/휴가함 "wikilink")(2007년)과 외양, 기능, 크기 등이 비슷하다. 프랑스와 일본은 동급 2번함이 건조되었지만, 영국의 오션함과 한국의 독도함은 1번함 하나만 건조했다.
 

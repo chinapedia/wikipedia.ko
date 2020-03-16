@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [T-](https://ko.wikipedia.org/wiki/T-).
 
 
-**T-모바일 인터내셔널 AG**()은 [유럽](https://ko.wikipedia.org/wiki/유럽 "wikilink")과 [북미](https://ko.wikipedia.org/wiki/북미 "wikilink")에서 이동통신 서비스를 제공하는 [독일](https://ko.wikipedia.org/wiki/독일 "wikilink")의 무선 서비스 제공 회사이며 독일에 본사를 두고 있다. 1990년에 설립되었으며 [도이치 텔레콤의](https://ko.wikipedia.org/wiki/도이치_텔레콤 "wikilink") 자회사이다. [GSM](https://ko.wikipedia.org/wiki/GSM "wikilink")과 [UMTS](https://ko.wikipedia.org/wiki/UMTS "wikilink")방식을 이용하는 휴대전화를 지원하며 현재는 약 1억 100만명의 가입자를 가지고 있다.
+**T-모바일 인터내셔널 AG**()은 [유럽](../Page/유럽.md "wikilink")과 [북미](https://ko.wikipedia.org/wiki/북미 "wikilink")에서 이동통신 서비스를 제공하는 [독일](../Page/독일.md "wikilink")의 무선 서비스 제공 회사이며 독일에 본사를 두고 있다. 1990년에 설립되었으며 [도이치 텔레콤의](https://ko.wikipedia.org/wiki/도이치_텔레콤 "wikilink") 자회사이다. [GSM](../Page/GSM.md "wikilink")과 [UMTS](../Page/UMTS.md "wikilink")방식을 이용하는 휴대전화를 지원하며 현재는 약 1억 100만명의 가입자를 가지고 있다.
 
 ## 서비스 지역
 
@@ -189,7 +189,7 @@
 ## 함께 보기
 
   - [T-모바일 아레나](../Page/T-모바일_아레나.md "wikilink")
-  - [T-모바일 파크](https://ko.wikipedia.org/wiki/T-모바일_파크 "wikilink")
+  - [T-모바일 파크](../Page/T-모바일_파크.md "wikilink")
 
 ## 각주
 

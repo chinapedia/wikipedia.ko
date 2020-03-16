@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Code::Blocks](https://ko.wikipedia.org/wiki/Code::Blocks).
 
 
-**Code::Blocks**(코드 블럭스)는 [GCC](https://ko.wikipedia.org/wiki/GNU_컴파일러_모음 "wikilink"), [MSVC를](https://ko.wikipedia.org/wiki/비주얼_C++ "wikilink") 포함한 여러 [컴파일러](https://ko.wikipedia.org/wiki/컴파일러 "wikilink")를 지원하는 [자유](https://ko.wikipedia.org/wiki/자유_소프트웨어 "wikilink"), [오픈 소스](https://ko.wikipedia.org/wiki/오픈_소스 "wikilink"), [크로스플랫폼](https://ko.wikipedia.org/wiki/크로스플랫폼 "wikilink") [IDE이다](https://ko.wikipedia.org/wiki/통합_개발_환경 "wikilink"). [wxWidgets](https://ko.wikipedia.org/wiki/wxWidgets "wikilink")를 GUI 툴킷으로 사용하는 [C++](https://ko.wikipedia.org/wiki/C++ "wikilink") 언어로 개발되어 있다. 플러그인 구조를 이용하여 여러 기능을 사용할 수 있게 되어 있다. 현재 Code::Blocks는 [C와](https://ko.wikipedia.org/wiki/C_\(프로그래밍_언어\) "wikilink") [C++](https://ko.wikipedia.org/wiki/C++ "wikilink"), [포트란](https://ko.wikipedia.org/wiki/포트란 "wikilink")을 지원하고 있다.
+**Code::Blocks**(코드 블럭스)는 [GCC](../Page/GNU_컴파일러_모음.md "wikilink"), [MSVC를](https://ko.wikipedia.org/wiki/비주얼_C++ "wikilink") 포함한 여러 [컴파일러](../Page/컴파일러.md "wikilink")를 지원하는 [자유](../Page/자유_소프트웨어.md "wikilink"), [오픈 소스](../Page/오픈_소스.md "wikilink"), [크로스플랫폼](https://ko.wikipedia.org/wiki/크로스플랫폼 "wikilink") [IDE이다](../Page/통합_개발_환경.md "wikilink"). [wxWidgets](https://ko.wikipedia.org/wiki/wxWidgets "wikilink")를 GUI 툴킷으로 사용하는 [C++](https://ko.wikipedia.org/wiki/C++ "wikilink") 언어로 개발되어 있다. 플러그인 구조를 이용하여 여러 기능을 사용할 수 있게 되어 있다. 현재 Code::Blocks는 [C와](../Page/C_\(프로그래밍_언어\).md "wikilink") [C++](https://ko.wikipedia.org/wiki/C++ "wikilink"), [포트란](../Page/포트란.md "wikilink")을 지원하고 있다.
 
-Code::Blocks는 [윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink"), [리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink"), [맥 OS X용으로](https://ko.wikipedia.org/wiki/맥_OS_X "wikilink") 개발되고 있다. 사용자들은 [FreeBSD](https://ko.wikipedia.org/wiki/FreeBSD "wikilink") 하에서 Code::Blocks를 성공적으로 개발해 놓기도 했다.\[1\]
+Code::Blocks는 [윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink"), [리눅스](../Page/리눅스.md "wikilink"), [맥 OS X용으로](https://ko.wikipedia.org/wiki/맥_OS_X "wikilink") 개발되고 있다. 사용자들은 [FreeBSD](../Page/FreeBSD.md "wikilink") 하에서 Code::Blocks를 성공적으로 개발해 놓기도 했다.\[1\]
 
 ## 기능
 

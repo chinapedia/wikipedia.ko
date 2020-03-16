@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Firework \(\)](https://ko.wikipedia.org/wiki/Firework_\(\)).
 
 
-"**Firework**"(파이어워크)는 미국의 가수 [케이티 페리의](https://ko.wikipedia.org/wiki/케이티_페리 "wikilink") 노래이다. 이 노래에는 스타게이트, 샌디 비, 에스터 딘 등 많은 프로듀서들이 참여하였으며, 페리의 두 번째 정규 앨범 *[Teenage Dream](https://ko.wikipedia.org/wiki/Teenage_Dream "wikilink")*의 세 번째 싱글로 2010년 10월 26일 [캐피톨 레코드를](https://ko.wikipedia.org/wiki/캐피털_레코드 "wikilink") 통해 발매되었다. 이 노래는 특히 케이티 페리가 밝히길 *Teenage Dream*의 앨범 중 가 장 중요하게 여겼던 노래였다고 밝혔다.
+"**Firework**"(파이어워크)는 미국의 가수 [케이티 페리의](../Page/케이티_페리.md "wikilink") 노래이다. 이 노래에는 스타게이트, 샌디 비, 에스터 딘 등 많은 프로듀서들이 참여하였으며, 페리의 두 번째 정규 앨범 *[Teenage Dream](https://ko.wikipedia.org/wiki/Teenage_Dream "wikilink")*의 세 번째 싱글로 2010년 10월 26일 [캐피톨 레코드를](https://ko.wikipedia.org/wiki/캐피털_레코드 "wikilink") 통해 발매되었다. 이 노래는 특히 케이티 페리가 밝히길 *Teenage Dream*의 앨범 중 가 장 중요하게 여겼던 노래였다고 밝혔다.
 
-"Firework"는 대부분 긍정적인 평가를 받았는데, 영국의 밴드 [콜드플레이](https://ko.wikipedia.org/wiki/콜드플레이 "wikilink")와 비슷하고 익숙한 멜로디로 비교되기도했다. 싱글은 상업적인 성공을 거뒀는데, [빌보드 핫 100](../Page/빌보드_핫_100.md "wikilink") 차트를 포함한 세계 20여 개 국가에서 5위권 진입을 했다. 또한 [미국 음반 산업 협회로부터](https://ko.wikipedia.org/wiki/미국_음반_산업_협회 "wikilink") 더블 플래티넘 인증을 받았다. 2011년 1월 8일자 차트에서 "Firework"은 509,000만 건의 디지털 판매 건수를 올렸는데, 이는 [케샤](https://ko.wikipedia.org/wiki/케샤 "wikilink")의 "Tik Tok"이 기록한 610,000만 건을 이은 여성 가수로서 두 번째 기록이다.(미국 기록) 또한 전체 가수로서는 네 번째 기록이였다. 뮤직비디오는 데이브 마이어스 감독이 맡아 진행되었고, 2010년 10월 28일 공개되었다.
+"Firework"는 대부분 긍정적인 평가를 받았는데, 영국의 밴드 [콜드플레이](../Page/콜드플레이.md "wikilink")와 비슷하고 익숙한 멜로디로 비교되기도했다. 싱글은 상업적인 성공을 거뒀는데, [빌보드 핫 100](../Page/빌보드_핫_100.md "wikilink") 차트를 포함한 세계 20여 개 국가에서 5위권 진입을 했다. 또한 [미국 음반 산업 협회로부터](../Page/미국_음반_산업_협회.md "wikilink") 더블 플래티넘 인증을 받았다. 2011년 1월 8일자 차트에서 "Firework"은 509,000만 건의 디지털 판매 건수를 올렸는데, 이는 [케샤](../Page/케샤.md "wikilink")의 "Tik Tok"이 기록한 610,000만 건을 이은 여성 가수로서 두 번째 기록이다.(미국 기록) 또한 전체 가수로서는 네 번째 기록이였다. 뮤직비디오는 데이브 마이어스 감독이 맡아 진행되었고, 2010년 10월 28일 공개되었다.
 
 ## 수록곡
 
@@ -81,7 +81,7 @@
 | --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 오스트레일리아                                             | 5× 플래티넘\[25\]                                                                                                                                                                                                   |
 | 오스트리아                                               | 골드\[26\]                                                                                                                                                                                                        |
-| [벨기에](https://ko.wikipedia.org/wiki/벨기에 "wikilink") | 골드\[27\]                                                                                                                                                                                                        |
+| [벨기에](../Page/벨기에.md "wikilink")                    | 골드\[27\]                                                                                                                                                                                                        |
 | 캐나다                                                 | 골드 <small>([MT](https://ko.wikipedia.org/wiki/Mastertone "wikilink"))</small>\[28\]                                                                                                                             |
 | 4× 플래티넘\[29\]                                       |                                                                                                                                                                                                                 |
 | 독일                                                  | 골드<ref>{{웹 인용|url=[http://www.musikindustrie.de/gold_platin_datenbank/\#topSearch|title=Gold-/Platin-Datenbank](http://www.musikindustrie.de/gold_platin_datenbank/#topSearch%7Ctitle=Gold-/Platin-Datenbank) |

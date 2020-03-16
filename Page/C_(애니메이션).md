@@ -1,16 +1,16 @@
 > This article is converted from Wikipedia: [C \(\)](https://ko.wikipedia.org/wiki/C_\(\)).
 
 
-《**C**》(**)는 [타츠노코 프로덕션에서](https://ko.wikipedia.org/wiki/타츠노코_프로덕션 "wikilink") 제작한 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [텔레비전 애니메이션이다](https://ko.wikipedia.org/wiki/애니메이션 "wikilink"). [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") 4월부터 [후지 텔레비전](https://ko.wikipedia.org/wiki/후지_TV "wikilink")·[노이타미나](../Page/노이타미나.md "wikilink") 채널을 통해 방영되고 있으며, [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 [애니플러스](https://ko.wikipedia.org/wiki/애니플러스 "wikilink")가 일본어 음성에 한국어 자막을 덧씌운 채로 제공하고 있다.
+《**C**》(**)는 [타츠노코 프로덕션에서](https://ko.wikipedia.org/wiki/타츠노코_프로덕션 "wikilink") 제작한 [일본](../Page/일본.md "wikilink")의 [텔레비전 애니메이션이다](../Page/애니메이션.md "wikilink"). [2011년](../Page/2011년.md "wikilink") 4월부터 [후지 텔레비전](../Page/후지_TV.md "wikilink")·[노이타미나](../Page/노이타미나.md "wikilink") 채널을 통해 방영되고 있으며, [대한민국](../Page/대한민국.md "wikilink")에서는 [애니플러스](../Page/애니플러스.md "wikilink")가 일본어 음성에 한국어 자막을 덧씌운 채로 제공하고 있다.
 
 ## 개요
 
-과거 [노이타미나](../Page/노이타미나.md "wikilink")에 편성되었던 [모노노케 (애니메이션)](https://ko.wikipedia.org/wiki/모노노케_\(애니메이션\) "wikilink"), [공중그네](https://ko.wikipedia.org/wiki/공중그네 "wikilink")의 감독을 맡은 [나카무라 켄지의](https://ko.wikipedia.org/wiki/나카무라_켄지 "wikilink") '돈과 미래'를 테마로 한 오리지널 애니메이션. 감독은 [나카무라 켄지](https://ko.wikipedia.org/wiki/나카무라_켄지 "wikilink"), 시리즈 구성은 [타카기 노보루](https://ko.wikipedia.org/wiki/타카기_노보루 "wikilink"), 캐릭터 디자인은 [mebae](https://ko.wikipedia.org/wiki/mebae "wikilink"), 음악은 [이와사키 타쿠가](https://ko.wikipedia.org/wiki/이와사키_타쿠 "wikilink") 맡고 [타츠노코 프로덕션에서](https://ko.wikipedia.org/wiki/타츠노코_프로덕션 "wikilink") 제작한다.
+과거 [노이타미나](../Page/노이타미나.md "wikilink")에 편성되었던 [모노노케 (애니메이션)](../Page/모노노케_\(애니메이션\).md "wikilink"), [공중그네](https://ko.wikipedia.org/wiki/공중그네 "wikilink")의 감독을 맡은 [나카무라 켄지의](https://ko.wikipedia.org/wiki/나카무라_켄지 "wikilink") '돈과 미래'를 테마로 한 오리지널 애니메이션. 감독은 [나카무라 켄지](https://ko.wikipedia.org/wiki/나카무라_켄지 "wikilink"), 시리즈 구성은 [타카기 노보루](https://ko.wikipedia.org/wiki/타카기_노보루 "wikilink"), 캐릭터 디자인은 [mebae](https://ko.wikipedia.org/wiki/mebae "wikilink"), 음악은 [이와사키 타쿠가](https://ko.wikipedia.org/wiki/이와사키_타쿠 "wikilink") 맡고 [타츠노코 프로덕션에서](https://ko.wikipedia.org/wiki/타츠노코_프로덕션 "wikilink") 제작한다.
 
 ## 등장인물
 
   - 요가 키미마로()
-    성우 - [우치야마 코우키](https://ko.wikipedia.org/wiki/우치야마_코우키 "wikilink") / [토드 해버콘](https://ko.wikipedia.org/wiki/토드_해버콘 "wikilink")
+    성우 - [우치야마 코우키](../Page/우치야마_코우키.md "wikilink") / [토드 해버콘](https://ko.wikipedia.org/wiki/토드_해버콘 "wikilink")
   - 마슈()
     성우 - [토마츠 하루카](../Page/토마츠_하루카.md "wikilink") / [브리나 펄렌시아](../Page/브리나_펄렌시아.md "wikilink")
   - 미쿠니 소이치로()
@@ -22,7 +22,7 @@
   - 이쿠타 하나비()
     성우 - [마키노 유이](../Page/마키노_유이.md "wikilink") / [셰러미 리](../Page/셰러미_리.md "wikilink")
   - 이타네다()
-    성우 - [미츠야 유지](https://ko.wikipedia.org/wiki/미츠야_유지 "wikilink")
+    성우 - [미츠야 유지](../Page/미츠야_유지.md "wikilink")
   - 제니퍼 사토()
     성우 - [아사노 마유미](https://ko.wikipedia.org/wiki/아사노_마유미 "wikilink") / 마사 함스
 
@@ -45,7 +45,7 @@
   - 음향 감독 : 나가사키 유키오
   - 음향 제작 : 마일스톤 음악출판
   - 애니메이션 제작 : 타츠노코 프로덕션
-  - 제작 : [《C》 제작위원회](../Page/제작위원회.md "wikilink") ([후지TV](https://ko.wikipedia.org/wiki/후지TV "wikilink"), [토호](https://ko.wikipedia.org/wiki/토호 "wikilink"), [타츠노코 프로덕션](https://ko.wikipedia.org/wiki/타츠노코_프로덕션 "wikilink"), [소니 뮤직 엔터테인먼트](https://ko.wikipedia.org/wiki/소니_뮤직_엔터테인먼트 "wikilink"), [덴츠](https://ko.wikipedia.org/wiki/덴츠 "wikilink"))
+  - 제작 : [《C》 제작위원회](../Page/제작위원회.md "wikilink") ([후지TV](https://ko.wikipedia.org/wiki/후지TV "wikilink"), [토호](https://ko.wikipedia.org/wiki/토호 "wikilink"), [타츠노코 프로덕션](https://ko.wikipedia.org/wiki/타츠노코_프로덕션 "wikilink"), [소니 뮤직 엔터테인먼트](../Page/소니_뮤직_엔터테인먼트.md "wikilink"), [덴츠](https://ko.wikipedia.org/wiki/덴츠 "wikilink"))
 
 ## 주제가
 
@@ -61,7 +61,7 @@
 
 ## 방영 목록
 
-부제의 풀이는 [애니플러스](https://ko.wikipedia.org/wiki/애니플러스 "wikilink")의 표기를 따른다.
+부제의 풀이는 [애니플러스](../Page/애니플러스.md "wikilink")의 표기를 따른다.
 
 <table>
 <thead>

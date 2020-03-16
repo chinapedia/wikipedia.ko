@@ -1,18 +1,18 @@
 > This article is converted from Wikipedia: [Jeju MBC](https://ko.wikipedia.org/wiki/Jeju_MBC).
 
 
-**Jeju MBC**는 제주도를 가시청권역으로 하는 [지상파DMB](https://ko.wikipedia.org/wiki/지상파DMB "wikilink") 방송국으로 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [9월 14일에](https://ko.wikipedia.org/wiki/9월_14일 "wikilink") 개국했다. [제주문화방송](../Page/제주문화방송.md "wikilink")이 사업자로서 운영하고 있다.
+**Jeju MBC**는 제주도를 가시청권역으로 하는 [지상파DMB](https://ko.wikipedia.org/wiki/지상파DMB "wikilink") 방송국으로 [2007년](../Page/2007년.md "wikilink") [9월 14일에](../Page/9월_14일.md "wikilink") 개국했다. [제주문화방송](../Page/제주문화방송.md "wikilink")이 사업자로서 운영하고 있다.
 
 ## 연혁
 
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [9월 14일](https://ko.wikipedia.org/wiki/9월_14일 "wikilink") : 제주문화방송 지상파DMB **Jeju MBC** 개국
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [8월 1일](https://ko.wikipedia.org/wiki/8월_1일 "wikilink") : 임대채널 QBS+ 송출 중단
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") 12월 : 임대채널 TourJejuDMB 방송 시작
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [8월 26일](https://ko.wikipedia.org/wiki/8월_26일 "wikilink") : 임대채널 GS SHOP 송출 시작
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [6월 15일](https://ko.wikipedia.org/wiki/6월_15일 "wikilink") : 지상파DAB 채널 MBC SFM 송출 중단
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [7월 1일](https://ko.wikipedia.org/wiki/7월_1일 "wikilink") : 임대채널 CJ OSHOP 송출 시작
+  - [2007년](../Page/2007년.md "wikilink") [9월 14일](../Page/9월_14일.md "wikilink") : 제주문화방송 지상파DMB **Jeju MBC** 개국
+  - [2010년](../Page/2010년.md "wikilink") [8월 1일](../Page/8월_1일.md "wikilink") : 임대채널 QBS+ 송출 중단
+  - [2010년](../Page/2010년.md "wikilink") 12월 : 임대채널 TourJejuDMB 방송 시작
+  - [2014년](../Page/2014년.md "wikilink") [8월 26일](../Page/8월_26일.md "wikilink") : 임대채널 GS SHOP 송출 시작
+  - [2015년](../Page/2015년.md "wikilink") [6월 15일](../Page/6월_15일.md "wikilink") : 지상파DAB 채널 MBC SFM 송출 중단
+  - [2015년](../Page/2015년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") : 임대채널 CJ OSHOP 송출 시작
   - 일자 미상 : 임대채널 TourJejuDMB 송출 중단
-  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [11월 1일](https://ko.wikipedia.org/wiki/11월_1일 "wikilink") : 임대채널 GS SHOP 송출 중단
+  - [2018년](../Page/2018년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") : 임대채널 GS SHOP 송출 중단
 
 ## 채널 구성
 
@@ -72,7 +72,7 @@
 
 ## 같이 보기
 
-  - [U-KBS](https://ko.wikipedia.org/wiki/U-KBS "wikilink")
+  - [U-KBS](../Page/U-KBS.md "wikilink")
   - [JIBS (DMB)](../Page/JIBS_\(DMB\).md "wikilink")
   - [대한민국의 지상파DMB](https://ko.wikipedia.org/wiki/대한민국의_지상파DMB "wikilink")
 

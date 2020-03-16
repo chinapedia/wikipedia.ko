@@ -61,8 +61,8 @@
 
 ## 관련 보기
 
-  - [U-KBS](https://ko.wikipedia.org/wiki/U-KBS "wikilink")
-  - [Jeju MBC](https://ko.wikipedia.org/wiki/Jeju_MBC "wikilink")
+  - [U-KBS](../Page/U-KBS.md "wikilink")
+  - [Jeju MBC](../Page/Jeju_MBC.md "wikilink")
   - [대한민국의 지상파DMB](https://ko.wikipedia.org/wiki/대한민국의_지상파DMB "wikilink")
 
 [분류:제주방송](https://ko.wikipedia.org/wiki/분류:제주방송 "wikilink") [분류:대한민국의 디지털 멀티미디어 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_디지털_멀티미디어_방송국 "wikilink") [분류:2007년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2007년_설립된_텔레비전_방송국과_채널 "wikilink")

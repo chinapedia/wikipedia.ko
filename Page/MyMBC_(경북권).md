@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [MyMBC \(\)](https://ko.wikipedia.org/wiki/MyMBC_\(\)).
 
 
-**myMBC**는 대구·경북지역을 가시청권으로 하는 [지상파DMB](https://ko.wikipedia.org/wiki/지상파DMB "wikilink") 방송국으로, [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [1월 31일에](https://ko.wikipedia.org/wiki/1월_31일 "wikilink") 개국하였다. [안동문화방송](../Page/안동문화방송.md "wikilink")이 주사업자이며 [대구문화방송](../Page/대구문화방송.md "wikilink"), [포항문화방송](../Page/포항문화방송.md "wikilink")과 공동으로 운영하고 있다.
+**myMBC**는 대구·경북지역을 가시청권으로 하는 [지상파DMB](https://ko.wikipedia.org/wiki/지상파DMB "wikilink") 방송국으로, [2008년](../Page/2008년.md "wikilink") [1월 31일에](../Page/1월_31일.md "wikilink") 개국하였다. [안동문화방송](../Page/안동문화방송.md "wikilink")이 주사업자이며 [대구문화방송](../Page/대구문화방송.md "wikilink"), [포항문화방송](../Page/포항문화방송.md "wikilink")과 공동으로 운영하고 있다.
 
 ## 연혁
 
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [8월 20일](https://ko.wikipedia.org/wiki/8월_20일 "wikilink") : 지상파DMB 시험방송 개시 (학가산 송신소, 팔공산 송신소)
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [1월 31일](https://ko.wikipedia.org/wiki/1월_31일 "wikilink") : 안동문화방송 지상파DMB방송국인 **myMBC** 개국 (학가산 송신소, 팔공산 송신소, 조항산 송신소)
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [8월 1일](https://ko.wikipedia.org/wiki/8월_1일 "wikilink") : 임대채널 QBS+ 방송 종료
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [8월 26일](https://ko.wikipedia.org/wiki/8월_26일 "wikilink") : 임대채널 GS SHOP 방송 시작
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [6월 15일](https://ko.wikipedia.org/wiki/6월_15일 "wikilink") : 지상파DAB 채널 MBC FM 송출 중단
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [7월 1일](https://ko.wikipedia.org/wiki/7월_1일 "wikilink") : 임대채널 CJ OSHOP 송출 시작
-  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [11월 1일](https://ko.wikipedia.org/wiki/11월_1일 "wikilink") : 임대채널 GS SHOP 방송 종료
+  - [2007년](../Page/2007년.md "wikilink") [8월 20일](../Page/8월_20일.md "wikilink") : 지상파DMB 시험방송 개시 (학가산 송신소, 팔공산 송신소)
+  - [2008년](../Page/2008년.md "wikilink") [1월 31일](../Page/1월_31일.md "wikilink") : 안동문화방송 지상파DMB방송국인 **myMBC** 개국 (학가산 송신소, 팔공산 송신소, 조항산 송신소)
+  - [2010년](../Page/2010년.md "wikilink") [8월 1일](../Page/8월_1일.md "wikilink") : 임대채널 QBS+ 방송 종료
+  - [2014년](../Page/2014년.md "wikilink") [8월 26일](../Page/8월_26일.md "wikilink") : 임대채널 GS SHOP 방송 시작
+  - [2015년](../Page/2015년.md "wikilink") [6월 15일](../Page/6월_15일.md "wikilink") : 지상파DAB 채널 MBC FM 송출 중단
+  - [2015년](../Page/2015년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") : 임대채널 CJ OSHOP 송출 시작
+  - [2018년](../Page/2018년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") : 임대채널 GS SHOP 방송 종료
 
 ## 채널 구성
 
@@ -74,7 +74,7 @@
 ## 같이 보기
 
   - [디지털 멀티미디어 방송](../Page/디지털_멀티미디어_방송.md "wikilink")
-  - [U-KBS](https://ko.wikipedia.org/wiki/U-KBS "wikilink")
+  - [U-KBS](../Page/U-KBS.md "wikilink")
   - [TBC DMB](../Page/TBC_DMB.md "wikilink")
 
 ## 외부 링크

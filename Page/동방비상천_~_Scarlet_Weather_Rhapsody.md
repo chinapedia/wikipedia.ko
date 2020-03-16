@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ \~ Scarlet Weather Rhapsody](https://ko.wikipedia.org/wiki/_\~_Scarlet_Weather_Rhapsody).
 
 
-《**동방비상천 \~ Scarlet Weather Rhapsody**》()은 [상하이 앨리스 환악단과](../Page/상하이_앨리스_환악단.md "wikilink") [황혼 프론티어와의](https://ko.wikipedia.org/wiki/황혼_프론티어 "wikilink") 공동으로 제작한 외전 작품이다.
+《**동방비상천 \~ Scarlet Weather Rhapsody**》()은 [상하이 앨리스 환악단과](../Page/상하이_앨리스_환악단.md "wikilink") [황혼 프론티어와의](../Page/황혼_프론티어.md "wikilink") 공동으로 제작한 외전 작품이다.
 
 ## 개요
 
@@ -151,9 +151,9 @@
 
 鈴仙・優曇華院・イナバ、小野塚小町、射命丸文の3名と、先述した永江衣玖と比那名居天子を合わせた計5名は、東方Projectの対戦型格闘ゲームシリーズとしては初登場となる。『萃夢想』の追加登場人物である紅美鈴は、『緋想天』には登場していない。
 
-  - [하쿠레이 레이무](https://ko.wikipedia.org/wiki/하쿠레이_레이무 "wikilink")
+  - [하쿠레이 레이무](../Page/하쿠레이_레이무.md "wikilink")
     하쿠레이 신사의 무녀. 신사가 [지진](https://ko.wikipedia.org/wiki/지진 "wikilink")으로 무너지는 바람에, 그 범인을 찾고 있다.
-  - [키리사메 마리사](https://ko.wikipedia.org/wiki/키리사메_마리사 "wikilink")
+  - [키리사메 마리사](../Page/키리사메_마리사.md "wikilink")
     魔法使い。霧雨続きであるため、それを解決するために出かける。
   - [이자요이 사쿠야](../Page/이자요이_사쿠야.md "wikilink")
     紅魔館のメイド。体から出る緋色の気を不審に思い、調査に向かう。

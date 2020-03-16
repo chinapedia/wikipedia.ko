@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [PCSX](https://ko.wikipedia.org/wiki/PCSX).
 
 
-**PCSX**는 [플레이스테이션](https://ko.wikipedia.org/wiki/플레이스테이션 "wikilink")에 사용하도록 고안된 소프트웨어와 주변 기기를 [개인용 컴퓨터에서](https://ko.wikipedia.org/wiki/개인용_컴퓨터 "wikilink") 이용할 수 있게 한 자유 [콘솔 에뮬레이터이다](https://ko.wikipedia.org/wiki/콘솔_에뮬레이터 "wikilink"). 현재 [마이크로소프트 윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink"), [맥 OS X](https://ko.wikipedia.org/wiki/맥_OS_X "wikilink"), [엑스박스](https://ko.wikipedia.org/wiki/엑스박스 "wikilink"), [드림캐스트](https://ko.wikipedia.org/wiki/드림캐스트 "wikilink"), 다양한 [리눅스 배포판과](https://ko.wikipedia.org/wiki/리눅스_배포판 "wikilink") 같은 수많은 [운영 체제에서](https://ko.wikipedia.org/wiki/운영_체제 "wikilink") 이용할 수 있다. [GNU 일반 공중 사용 허가서를](https://ko.wikipedia.org/wiki/GNU_일반_공중_사용_허가서 "wikilink") 통해 출시된 PCSX는 [자유 소프트웨어이다](https://ko.wikipedia.org/wiki/자유_소프트웨어 "wikilink").
+**PCSX**는 [플레이스테이션](https://ko.wikipedia.org/wiki/플레이스테이션 "wikilink")에 사용하도록 고안된 소프트웨어와 주변 기기를 [개인용 컴퓨터에서](../Page/개인용_컴퓨터.md "wikilink") 이용할 수 있게 한 자유 [콘솔 에뮬레이터이다](https://ko.wikipedia.org/wiki/콘솔_에뮬레이터 "wikilink"). 현재 [마이크로소프트 윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink"), [맥 OS X](https://ko.wikipedia.org/wiki/맥_OS_X "wikilink"), [엑스박스](../Page/엑스박스.md "wikilink"), [드림캐스트](../Page/드림캐스트.md "wikilink"), 다양한 [리눅스 배포판과](../Page/리눅스_배포판.md "wikilink") 같은 수많은 [운영 체제에서](../Page/운영_체제.md "wikilink") 이용할 수 있다. [GNU 일반 공중 사용 허가서를](../Page/GNU_일반_공중_사용_허가서.md "wikilink") 통해 출시된 PCSX는 [자유 소프트웨어이다](../Page/자유_소프트웨어.md "wikilink").
 
 ## 역사
 
-이 에뮬레이터는 2000년 8월 31일에 PC용으로 처음 출시되었다. 공식 개발은 2003년 9월 17일에 중단되었으며\[1\] 새로운 플레이스테이션 2 에뮬레이터 [PCSX2](https://ko.wikipedia.org/wiki/PCSX2 "wikilink")로 개발이 변경되었다.\[2\]
+이 에뮬레이터는 2000년 8월 31일에 PC용으로 처음 출시되었다. 공식 개발은 2003년 9월 17일에 중단되었으며\[1\] 새로운 플레이스테이션 2 에뮬레이터 [PCSX2](../Page/PCSX2.md "wikilink")로 개발이 변경되었다.\[2\]
 
 [PCSX-df](https://ko.wikipedia.org/wiki/PCSX-df "wikilink")\[3\]가 2006년에 출시되어 새로운 기능, 더 깔끔한 인터페이스가 추가되었고 일부 버그들을 잡았으나 리눅스 호환성에만 염두에 두고 개발되었다. 버전 1.10이 2009년 3월 29일에 출시되었다.
 
@@ -19,10 +19,10 @@ PCSX는 [ePSXe](https://ko.wikipedia.org/wiki/ePSXe "wikilink")가 사용하는 
 
   - [윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink")
   - [맥 OS X](https://ko.wikipedia.org/wiki/맥_OS_X "wikilink")
-  - [리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink")
-  - [드림캐스트](https://ko.wikipedia.org/wiki/드림캐스트 "wikilink")
-  - [엑스박스](https://ko.wikipedia.org/wiki/엑스박스 "wikilink")
-  - [Wii](https://ko.wikipedia.org/wiki/Wii "wikilink")
+  - [리눅스](../Page/리눅스.md "wikilink")
+  - [드림캐스트](../Page/드림캐스트.md "wikilink")
+  - [엑스박스](../Page/엑스박스.md "wikilink")
+  - [Wii](../Page/Wii.md "wikilink")
   - [GP2x Wiz](https://ko.wikipedia.org/wiki/GP2x_Wiz "wikilink")
   - [PS3](https://ko.wikipedia.org/wiki/PS3 "wikilink")
 
@@ -30,7 +30,7 @@ PCSX는 [ePSXe](https://ko.wikipedia.org/wiki/ePSXe "wikilink")가 사용하는 
 
 ## 같이 보기
 
-  - [PCSX2](https://ko.wikipedia.org/wiki/PCSX2 "wikilink")
+  - [PCSX2](../Page/PCSX2.md "wikilink")
 
 ## 외부 링크
 

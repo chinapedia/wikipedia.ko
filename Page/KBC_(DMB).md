@@ -1,12 +1,12 @@
 > This article is converted from Wikipedia: [KBC \(DMB\)](https://ko.wikipedia.org/wiki/KBC_\(DMB\)).
 
 
-**kbc**는 광주·전남·전북을 가시청권으로 하는 [지상파DMB](https://ko.wikipedia.org/wiki/지상파DMB "wikilink") 방송국으로, [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [6월 30일에](https://ko.wikipedia.org/wiki/6월_30일 "wikilink") 개국하였다. [광주방송](../Page/광주방송.md "wikilink")이 사업자이며, [전주방송](../Page/전주방송.md "wikilink")과 공동으로 운영하고 있다. 현재 비디오채널 2개와 데이터채널 2개를 송출중이다.
+**kbc**는 광주·전남·전북을 가시청권으로 하는 [지상파DMB](https://ko.wikipedia.org/wiki/지상파DMB "wikilink") 방송국으로, [2008년](../Page/2008년.md "wikilink") [6월 30일에](../Page/6월_30일.md "wikilink") 개국하였다. [광주방송](../Page/광주방송.md "wikilink")이 사업자이며, [전주방송](../Page/전주방송.md "wikilink")과 공동으로 운영하고 있다. 현재 비디오채널 2개와 데이터채널 2개를 송출중이다.
 
 ## 연혁
 
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [6월 30일](https://ko.wikipedia.org/wiki/6월_30일 "wikilink") : 지상파DMB방송국 **kbc** 개국 (무등산송신소)
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [8월 27일](https://ko.wikipedia.org/wiki/8월_27일 "wikilink") : 모악산중계소 개국
+  - [2008년](../Page/2008년.md "wikilink") [6월 30일](../Page/6월_30일.md "wikilink") : 지상파DMB방송국 **kbc** 개국 (무등산송신소)
+  - [2008년](../Page/2008년.md "wikilink") [8월 27일](../Page/8월_27일.md "wikilink") : 모악산중계소 개국
 
 ## 채널 구성
 
@@ -98,7 +98,7 @@
 
   - [디지털 멀티미디어 방송](../Page/디지털_멀티미디어_방송.md "wikilink")
   - [SBS u](https://ko.wikipedia.org/wiki/SBS_u "wikilink")
-  - [YTN DMB](https://ko.wikipedia.org/wiki/YTN_DMB "wikilink")
+  - [YTN DMB](../Page/YTN_DMB.md "wikilink")
 
 ## 각주
 

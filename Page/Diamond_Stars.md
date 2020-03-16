@@ -11,7 +11,7 @@
 4.  Masquerade (Tic Tac Toe 제작위원회 : Tic Tac Toe 오프닝)
 5.  환영담 (스튜디오 아인즈, 인테르메디오 프레스토 오프닝)
 6.  Diamond Dust ([시드노벨](../Page/시드노벨.md "wikilink"), 유령왕 주제가)
-7.  나만의 레시피 ([Studio Animal](https://ko.wikipedia.org/wiki/스튜디오_애니멀 "wikilink"), 다빈치 푸드 삽입곡)
+7.  나만의 레시피 ([Studio Animal](../Page/스튜디오_애니멀.md "wikilink"), 다빈치 푸드 삽입곡)
 8.  꿈의 편린 (Lo Project, Love One 오프닝)
 9.  Melt away (스튜디오 아인즈, 인테르메디오 라르기시모 오프닝)
 10. Ribbon (Voice Maru, Maybe 오프닝)

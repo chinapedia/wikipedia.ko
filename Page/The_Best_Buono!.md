@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Best Buono!](https://ko.wikipedia.org/wiki/The_Best_Buono!).
 
 
-《**The Best Buono\!**》()는 [Buono\!](../Page/Buono!.md "wikilink")의 베스트 [음반](../Page/음반.md "wikilink")이다. [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [8월 10일](https://ko.wikipedia.org/wiki/8월_10일 "wikilink") 발매되었고 유통사는 [포니 캐년이다](https://ko.wikipedia.org/wiki/포니캐년 "wikilink").
+《**The Best Buono\!**》()는 [Buono\!](../Page/Buono!.md "wikilink")의 베스트 [음반](../Page/음반.md "wikilink")이다. [2010년](../Page/2010년.md "wikilink") [8월 10일](../Page/8월_10일.md "wikilink") 발매되었고 유통사는 [포니 캐년이다](https://ko.wikipedia.org/wiki/포니캐년 "wikilink").
 
 ## 수록곡
 
@@ -25,7 +25,7 @@
     （작사：이와사토 유호　작곡・편곡：AKIRASTAR）
 9.  **I NEED YOU**
     （작사：이와사토 유호　작곡：AKIRASTAR　편곡：니시카와 스스무）
-10. **[롯타라 롯타라](https://ko.wikipedia.org/wiki/롯타라_롯타라 "wikilink")** ()
+10. **[롯타라 롯타라](../Page/롯타라_롯타라.md "wikilink")** ()
     （작사：이와사토 유호　작곡：이노우에 신지로　편곡：니시카와 스스무）
 11. **[MY BOY](https://ko.wikipedia.org/wiki/MY_BOY "wikilink")**
     （작사：미우라 요시코　작곡：층쿠♂　편곡：니시카와 스스무）

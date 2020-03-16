@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [IEEE 802.16](https://ko.wikipedia.org/wiki/IEEE_802.16).
 
 
-**IEEE 802.16**은 [전기 전자 기술자 협회](https://ko.wikipedia.org/wiki/전기_전자_기술자_협회 "wikilink")(IEEE)가 제정한 일련의 [무선 브로드밴드](https://ko.wikipedia.org/wiki/무선_브로드밴드 "wikilink") 표준이다. 현재 버전은 IEEE 802.16j-2009의 수정판인 **IEEE 802.16-2009**이다.
+**IEEE 802.16**은 [전기 전자 기술자 협회](../Page/전기_전자_기술자_협회.md "wikilink")(IEEE)가 제정한 일련의 [무선 브로드밴드](https://ko.wikipedia.org/wiki/무선_브로드밴드 "wikilink") 표준이다. 현재 버전은 IEEE 802.16j-2009의 수정판인 **IEEE 802.16-2009**이다.
 
-IEEE 802.16은 IEEE 표준화 기구(Standards Board)가 1999년에 광역 [무선](../Page/무선랜.md "wikilink") [도시권 통신망의](https://ko.wikipedia.org/wiki/도시권_통신망 "wikilink") 범용적인 이용을 위해 개발한 표준이다. 이 워크그룹은 [IEEE 802](https://ko.wikipedia.org/wiki/IEEE_802 "wikilink") [LAN](../Page/근거리_통신망.md "wikilink")/[MAN](https://ko.wikipedia.org/wiki/도시권_통신망 "wikilink") 표준 위원회의 일부이다.
+IEEE 802.16은 IEEE 표준화 기구(Standards Board)가 1999년에 광역 [무선](../Page/무선랜.md "wikilink") [도시권 통신망의](https://ko.wikipedia.org/wiki/도시권_통신망 "wikilink") 범용적인 이용을 위해 개발한 표준이다. 이 워크그룹은 [IEEE 802](../Page/IEEE_802.md "wikilink") [LAN](../Page/근거리_통신망.md "wikilink")/[MAN](https://ko.wikipedia.org/wiki/도시권_통신망 "wikilink") 표준 위원회의 일부이다.
 
 802.16 계열의 표준이 공식적으로 IEEE에서 WirelessMAN으로 불리긴 하지만 와이맥스 포럼에서는 [와이맥스](../Page/와이맥스.md "wikilink")라는 이름으로 상용화되었다. 이 포럼의 목적은 IEEE 802.16 표준에 기반한 광역 무선 제품의 호환성과 상호 운용을 제고하고 인증하는 것이다.
 

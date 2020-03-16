@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [CRS ](https://ko.wikipedia.org/wiki/CRS_).
 
 
-**CRS 보고서**( - 報告書, )는 [미국 의회조사국](https://ko.wikipedia.org/wiki/미국_의회조사국 "wikilink")(CRS)가 작성한 보고서를 말한다. 변호사, 생물학자, 경제학자 등 각 분야 전문가 800여 명이 만드는 CRS 보고서는 [미국 의회의](https://ko.wikipedia.org/wiki/미국_의회 "wikilink") 정책이나 법안에 직접적인 영향을 미친다.\[1\]
+**CRS 보고서**( - 報告書, )는 [미국 의회조사국](../Page/미국_의회조사국.md "wikilink")(CRS)가 작성한 보고서를 말한다. 변호사, 생물학자, 경제학자 등 각 분야 전문가 800여 명이 만드는 CRS 보고서는 [미국 의회의](../Page/미국_의회.md "wikilink") 정책이나 법안에 직접적인 영향을 미친다.\[1\]
 
-[미국 의회조사국](https://ko.wikipedia.org/wiki/미국_의회조사국 "wikilink")(CRS)은 [의회예산처](https://ko.wikipedia.org/wiki/의회예산처 "wikilink")(CBO), [미국 연방회계감사원](https://ko.wikipedia.org/wiki/미국_연방회계감사원 "wikilink")(GAO), [기술평가원](https://ko.wikipedia.org/wiki/기술평가원 "wikilink")(OTA)과 함께 미국 의회의 4대 입법보조기관 중 하나이다.
+[미국 의회조사국](../Page/미국_의회조사국.md "wikilink")(CRS)은 [의회예산처](https://ko.wikipedia.org/wiki/의회예산처 "wikilink")(CBO), [미국 연방회계감사원](https://ko.wikipedia.org/wiki/미국_연방회계감사원 "wikilink")(GAO), [기술평가원](https://ko.wikipedia.org/wiki/기술평가원 "wikilink")(OTA)과 함께 미국 의회의 4대 입법보조기관 중 하나이다.
 
 ## 각주
 
 ## 같이 보기
 
-  - [미국 의회조사국](https://ko.wikipedia.org/wiki/미국_의회조사국 "wikilink")(CRS)
+  - [미국 의회조사국](../Page/미국_의회조사국.md "wikilink")(CRS)
 
 ## 외부 링크
 

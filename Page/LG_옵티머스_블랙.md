@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [LG  ](https://ko.wikipedia.org/wiki/LG__).
 
 
-**LG 옵티머스 블랙**(, LG P970)은 [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")가 [2011년 3월에](https://ko.wikipedia.org/wiki/2011년_3월 "wikilink") 출시한 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")이다.\[1\]
+**LG 옵티머스 블랙**(, LG P970)은 [LG전자](../Page/LG전자.md "wikilink")가 [2011년 3월에](../Page/2011년_3월.md "wikilink") 출시한 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.\[1\]
 
 ## 디스플레이
 
 출시하였을 당시 현존하는 스마트폰 중 가장 밝은 700 [nit(cd/m²)의](../Page/칸델라_매_제곱미터.md "wikilink") 밝기의 [노바 IPS LCD를](https://ko.wikipedia.org/wiki/노바_IPS_LCD "wikilink") 탑재하였다.
 
-## [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [2.2.1 프로요](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink")
+## [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [2.2.1 프로요](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink")
 
 옵티머스 블랙은 [2.2.1 프로요를](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 탑재하여 출시했다.
 
@@ -15,9 +15,9 @@
 
 ### 안드로이드 2.2.2 프로요 업그레이드
 
-### [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [2.3.4 진저브레드](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드
+### [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [2.3.4 진저브레드](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드
 
-### [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [4.0.4 아이스크림 샌드위치](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드
+### [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [4.0.4 아이스크림 샌드위치](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드
 
 ## 커스텀 롬
 

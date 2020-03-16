@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JYJ  ](https://ko.wikipedia.org/wiki/JYJ__).
 
 
-다음은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [남자](https://ko.wikipedia.org/wiki/남자 "wikilink") 음악 그룹 [JYJ](../Page/JYJ.md "wikilink")의 **음반 목록**이다.
+다음은 [대한민국](../Page/대한민국.md "wikilink")의 [남자](https://ko.wikipedia.org/wiki/남자 "wikilink") 음악 그룹 [JYJ](../Page/JYJ.md "wikilink")의 **음반 목록**이다.
 
 ## 음반
 
@@ -19,7 +19,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/가온_차트" title="wikilink">대한민국</a><br />
+<td><p><a href="../Page/가온_차트.md" title="wikilink">대한민국</a><br />
 [1]</p></td>
 <td><p><a href="../Page/오리콘.md" title="wikilink">일본</a><br />
 [2][3][4]</p></td>
@@ -38,8 +38,8 @@
 <td><p><em><a href="https://ko.wikipedia.org/wiki/The_Beginning" title="wikilink">The Beginning</a></em></p></td>
 <td><ul>
 <li>발매일: 2010년 10월 14일</li>
-<li>레이블: <a href="https://ko.wikipedia.org/wiki/워너_뮤직_그룹" title="wikilink">워너 뮤직 코리아</a></li>
-<li>포맷: <a href="https://ko.wikipedia.org/wiki/콤팩트_디스크" title="wikilink">CD</a> / 2CD+DVD, <a href="https://ko.wikipedia.org/wiki/음악_다운로드" title="wikilink">디지털 다운로드</a></li>
+<li>레이블: <a href="../Page/워너_뮤직_그룹.md" title="wikilink">워너 뮤직 코리아</a></li>
+<li>포맷: <a href="../Page/콤팩트_디스크.md" title="wikilink">CD</a> / 2CD+DVD, <a href="https://ko.wikipedia.org/wiki/음악_다운로드" title="wikilink">디지털 다운로드</a></li>
 </ul></td>
 <td><p>1</p></td>
 <td><p>17</p></td>
@@ -76,7 +76,7 @@
 <td><ul>
 <li>발매일: 2014년 7월 29일</li>
 <li>레이블: <a href="https://ko.wikipedia.org/wiki/씨제스_엔터테인먼트" title="wikilink">씨제스 엔터테인먼트</a>, 오감 엔터테인먼트</li>
-<li>포맷: <a href="https://ko.wikipedia.org/wiki/콤팩트_디스크" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/음악_다운로드" title="wikilink">디지털 다운로드</a></li>
+<li>포맷: <a href="../Page/콤팩트_디스크.md" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/음악_다운로드" title="wikilink">디지털 다운로드</a></li>
 </ul></td>
 <td><p>1</p></td>
 <td><p>2</p></td>
@@ -109,7 +109,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/가온_차트" title="wikilink">대한민국</a><br />
+<td><p><a href="../Page/가온_차트.md" title="wikilink">대한민국</a><br />
 [11]</p></td>
 <td><p><a href="../Page/오리콘.md" title="wikilink">일본</a><br />
 [12]</p></td>
@@ -128,7 +128,7 @@
 <td><p><em><a href="https://ko.wikipedia.org/wiki/The..." title="wikilink">The...</a></em></p></td>
 <td><ul>
 <li>발매일: 2010년 9월 8일</li>
-<li>레이블: <a href="https://ko.wikipedia.org/wiki/리듬존" title="wikilink">리듬존</a></li>
+<li>레이블: <a href="../Page/리듬존.md" title="wikilink">리듬존</a></li>
 <li>포맷: CD+DVD, <a href="https://ko.wikipedia.org/wiki/음악_다운로드" title="wikilink">디지털 다운로드</a></li>
 </ul></td>
 <td><p>—</p></td>
@@ -186,15 +186,15 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/가온_차트" title="wikilink">대한민국</a><br />
+<td><p><a href="../Page/가온_차트.md" title="wikilink">대한민국</a><br />
 [17]</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/코리아_K-Pop_핫_100" title="wikilink">대한민국<br />
+<td><p><a href="../Page/코리아_K-Pop_핫_100.md" title="wikilink">대한민국<br />
 빌보드</a><br />
 [18]</p></td>
 <td><p><a href="../Page/오리콘.md" title="wikilink">일본<br />
 오리콘</a><br />
 [19]</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/재팬_핫_100" title="wikilink">일본<br />
+<td><p><a href="../Page/재팬_핫_100.md" title="wikilink">일본<br />
 빌보드</a><br />
 <ref></p>
 <ul>
@@ -312,9 +312,9 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/가온_차트" title="wikilink">대한민국</a><br />
+<td><p><a href="../Page/가온_차트.md" title="wikilink">대한민국</a><br />
 [20]</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/코리아_K-Pop_핫_100" title="wikilink">대한민국<br />
+<td><p><a href="../Page/코리아_K-Pop_핫_100.md" title="wikilink">대한민국<br />
 빌보드</a><br />
 [21]</p></td>
 <td></td>
@@ -481,7 +481,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2010</p></td>
-<td><p><strong><em><a href="https://ko.wikipedia.org/wiki/성균관_스캔들" title="wikilink">성균관 스캔들</a> OST</em></strong></p>
+<td><p><strong><em><a href="../Page/성균관_스캔들.md" title="wikilink">성균관 스캔들</a> OST</em></strong></p>
 <ul>
 <li>발매일: 2010년 9월 16일</li>
 </ul></td>
@@ -493,7 +493,7 @@
 </tr>
 <tr class="even">
 <td><p>2011</p></td>
-<td><p><strong><em><a href="https://ko.wikipedia.org/wiki/미스_리플리" title="wikilink">미스 리플리</a> OST</em></strong></p>
+<td><p><strong><em><a href="../Page/미스_리플리.md" title="wikilink">미스 리플리</a> OST</em></strong></p>
 <ul>
 <li>발매일: 2011년 6월 21일</li>
 </ul></td>
@@ -502,7 +502,7 @@
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><strong><em><a href="https://ko.wikipedia.org/wiki/여인의_향기_(드라마)" title="wikilink">여인의 향기</a> OST</em></strong></p>
+<td><p><strong><em><a href="../Page/여인의_향기_(드라마).md" title="wikilink">여인의 향기</a> OST</em></strong></p>
 <ul>
 <li>발매일: 2011년 8월 5일</li>
 </ul></td>
@@ -512,7 +512,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><em><a href="https://ko.wikipedia.org/wiki/보스를_지켜라" title="wikilink">보스를 지켜라</a> OST</em></strong></p>
+<td><p><strong><em><a href="../Page/보스를_지켜라.md" title="wikilink">보스를 지켜라</a> OST</em></strong></p>
 <ul>
 <li>발매일: 2011년 8월 11일</li>
 </ul></td>
@@ -523,7 +523,7 @@
 </tr>
 <tr class="odd">
 <td><p>2012</p></td>
-<td><p><strong><em><a href="https://ko.wikipedia.org/wiki/옥탑방_왕세자" title="wikilink">옥탑방 왕세자</a> OST</em></strong></p>
+<td><p><strong><em><a href="../Page/옥탑방_왕세자.md" title="wikilink">옥탑방 왕세자</a> OST</em></strong></p>
 <ul>
 <li>발매일: 2012년 5월 10일</li>
 </ul></td>
@@ -532,7 +532,7 @@
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><strong><em><a href="https://ko.wikipedia.org/wiki/닥터_진" title="wikilink">닥터 진</a> OST</em></strong></p>
+<td><p><strong><em><a href="../Page/닥터_진.md" title="wikilink">닥터 진</a> OST</em></strong></p>
 <ul>
 <li>발매일: 2012년 5월 25일</li>
 </ul></td>
@@ -552,7 +552,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><em><a href="https://ko.wikipedia.org/wiki/자칼이_온다" title="wikilink">자칼이 온다</a> OST</em></strong></p></td>
+<td><p><strong><em><a href="../Page/자칼이_온다.md" title="wikilink">자칼이 온다</a> OST</em></strong></p></td>
 <td><ul>
 <li>"나만의 위로" - 김재중</li>
 <li>"Kiss B" - 김재중</li>
@@ -698,14 +698,14 @@
 
 ## 뮤직 비디오
 
-| 년도                                                  | 노래                                                  | 가수                                                            | 감독 | 멤버 | 주석 |
-| --------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------- | -- | -- | -- |
-| [김재중](https://ko.wikipedia.org/wiki/김재중 "wikilink") | [박유천](https://ko.wikipedia.org/wiki/박유천 "wikilink") | [김준수](https://ko.wikipedia.org/wiki/김준수_\(1986년\) "wikilink") |    |    |    |
-| 2010                                                | "Ayyy Girl"                                         | [JYJ](../Page/JYJ.md "wikilink")                              |    | x  | x  |
-| 2011                                                | "In Heaven"                                         |                                                               |    |    | x  |
-| "Get Out"                                           |                                                     | x                                                             | x  | x  |    |
-| 2013                                                | "Only One" (2014 인천 아시아드 싱글)                        |                                                               | x  | x  | x  |
-| 2014                                                | "Back Seat"                                         |                                                               | x  | x  | x  |
+| 년도                               | 노래                               | 가수                                                            | 감독 | 멤버 | 주석 |
+| -------------------------------- | -------------------------------- | ------------------------------------------------------------- | -- | -- | -- |
+| [김재중](../Page/김재중.md "wikilink") | [박유천](../Page/박유천.md "wikilink") | [김준수](https://ko.wikipedia.org/wiki/김준수_\(1986년\) "wikilink") |    |    |    |
+| 2010                             | "Ayyy Girl"                      | [JYJ](../Page/JYJ.md "wikilink")                              |    | x  | x  |
+| 2011                             | "In Heaven"                      |                                                               |    |    | x  |
+| "Get Out"                        |                                  | x                                                             | x  | x  |    |
+| 2013                             | "Only One" (2014 인천 아시아드 싱글)     |                                                               | x  | x  | x  |
+| 2014                             | "Back Seat"                      |                                                               | x  | x  | x  |
 
 ## 같이 보기
 

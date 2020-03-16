@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [ GO](https://ko.wikipedia.org/wiki/_GO).
 
 
-**썬더일레븐 GO**()은 [레벨 파이브가](https://ko.wikipedia.org/wiki/레벨_파이브 "wikilink") 제작한 [닌텐도 3DS용](https://ko.wikipedia.org/wiki/닌텐도_3DS "wikilink") 축구 RPG 게임 [이나즈마 일레븐 GO를](https://ko.wikipedia.org/wiki/이나즈마_일레븐_GO "wikilink") 원작으로 한 애니메이션이다. 2011년 5월 4일부터 방송중이며, [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [2월 13일에](https://ko.wikipedia.org/wiki/2월_13일 "wikilink") [JEI 재능TV에서](https://ko.wikipedia.org/wiki/JEI_재능TV "wikilink") **썬더 일레븐 GO**라는 더빙판으로 방영시작되었다.
+**썬더일레븐 GO**()은 [레벨 파이브가](https://ko.wikipedia.org/wiki/레벨_파이브 "wikilink") 제작한 [닌텐도 3DS용](../Page/닌텐도_3DS.md "wikilink") 축구 RPG 게임 [이나즈마 일레븐 GO를](https://ko.wikipedia.org/wiki/이나즈마_일레븐_GO "wikilink") 원작으로 한 애니메이션이다. 2011년 5월 4일부터 방송중이며, [2012년](../Page/2012년.md "wikilink") [2월 13일에](../Page/2월_13일.md "wikilink") [JEI 재능TV에서](https://ko.wikipedia.org/wiki/JEI_재능TV "wikilink") **썬더 일레븐 GO**라는 더빙판으로 방영시작되었다.
 
 ## 개요
 
-[이나즈마 일레븐](https://ko.wikipedia.org/wiki/이나즈마_일레븐 "wikilink") 시리즈의 후속편이지만, 스토리상으로는 완전 신작이다. 전작의 주인공 엔도 마모루 세대는 10년 후로 되며, 새로운 주인공인 마츠카제 텐마가 나온다. 또한 엔도 마모루는 축구부의 감독으로 등장한다.
+[이나즈마 일레븐](../Page/이나즈마_일레븐.md "wikilink") 시리즈의 후속편이지만, 스토리상으로는 완전 신작이다. 전작의 주인공 엔도 마모루 세대는 10년 후로 되며, 새로운 주인공인 마츠카제 텐마가 나온다. 또한 엔도 마모루는 축구부의 감독으로 등장한다.
 
 ## 줄거리
 
@@ -53,7 +53,7 @@
 
 ## 등장인물
 
-이전작인 [이나즈마 일레븐에서부터](https://ko.wikipedia.org/wiki/이나즈마_일레븐 "wikilink") 계속 또는 함께 등장한 대표적 캐릭터는 다음과 같다.
+이전작인 [이나즈마 일레븐에서부터](../Page/이나즈마_일레븐.md "wikilink") 계속 또는 함께 등장한 대표적 캐릭터는 다음과 같다.
 
   - 엔도 마모루 - 라이몬 중학교 축구부 감독, 갓 에덴 조사팀의 일원
   - 키노 아키 - 텐마의 친척이자 코가라시소의 관리인, 가을하늘 챌린져즈 감독
@@ -125,7 +125,7 @@
 <!-- end list -->
 
   -
-    1기 2번째 OP (19화\~33화)\[2\] [하면 될 수 있어, 칠색알\!](https://ko.wikipedia.org/wiki/이루면_완성되는_것_칠색알 "wikilink") (成せば成るのさ 七色卵\!)
+    1기 2번째 OP (19화\~33화)\[2\] [하면 될 수 있어, 칠색알\!](../Page/이루면_완성되는_것_칠색알.md "wikilink") (成せば成るのさ 七色卵\!)
     노래 - [T-Pistonz](https://ko.wikipedia.org/wiki/T-Pistonz "wikilink")+[KMC](https://ko.wikipedia.org/wiki/KMC "wikilink")
       - 본 오프닝은 신입부원들이 더 들어올 것임을 고려해 24화에서 오프닝이 다소 변경되었다.
 
@@ -210,13 +210,13 @@
 <!-- end list -->
 
   -
-    1기 2번째 ED (19화\~33화)\[3\] [꽤나 순정](https://ko.wikipedia.org/wiki/꽤나_순정 "wikilink") (かなり純情)
+    1기 2번째 ED (19화\~33화)\[3\] [꽤나 순정](../Page/꽤나_순정.md "wikilink") (かなり純情)
     노래 - 소라노 아오이 (CV.[기타하라 사야카](https://ko.wikipedia.org/wiki/기타하라_사야카 "wikilink"))
 
 <!-- end list -->
 
   -
-    1기 3번째 ED (34화\~47화) [터트려-YO\!\!](https://ko.wikipedia.org/wiki/HAJIKE-YO!! "wikilink") (HAJIKE-YO\!\!)
+    1기 3번째 ED (34화\~47화) [터트려-YO\!\!](../Page/HAJIKE-YO!!.md "wikilink") (HAJIKE-YO\!\!)
     노래 - 소라노 아오이 (CV.[기타하라 사야카](https://ko.wikipedia.org/wiki/기타하라_사야카 "wikilink"))
       - 본 엔딩곡은 게임 「이나즈마 일레븐 GO 샤인」의 엔딩 테마이기도 하다.
 
@@ -230,7 +230,7 @@
 <!-- end list -->
 
   - 제2기
-    2기 1번째 ED (1화\~18화) [여름이 다가오네](https://ko.wikipedia.org/wiki/여름이_다가오네 "wikilink") (夏がやってくる)
+    2기 1번째 ED (1화\~18화) [여름이 다가오네](../Page/여름이_다가오네.md "wikilink") (夏がやってくる)
     노래 - 소라노 아오이 (CV:[기타하라 사야카](https://ko.wikipedia.org/wiki/기타하라_사야카 "wikilink"))
 
 <!-- end list -->
@@ -287,7 +287,7 @@
 
 ## 기타
 
-[2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [6월](https://ko.wikipedia.org/wiki/6월 "wikilink"), 레벨파이브 측에서 이나즈마 일레븐 GO 에서 등장할 옛 [이나즈마 일레븐의](https://ko.wikipedia.org/wiki/이나즈마_일레븐 "wikilink") 등장인물들의 모습이 등장해서 화제가 됐지만, 그 이미지는 곧장 불법 유포라는 사실이 알려졌다. 그러나 이미 2ch 같은 일본 사이트, 트위터, 최근에는 한국에서까지 해당 이미지가 퍼지자, 히노 아키히로 사장은 이번 유출 사건의 처벌만큼은 엄중하게 해놓겠다고 하여 큰 문제가 되고 있다.
+[2011년](../Page/2011년.md "wikilink") [6월](../Page/6월.md "wikilink"), 레벨파이브 측에서 이나즈마 일레븐 GO 에서 등장할 옛 [이나즈마 일레븐의](../Page/이나즈마_일레븐.md "wikilink") 등장인물들의 모습이 등장해서 화제가 됐지만, 그 이미지는 곧장 불법 유포라는 사실이 알려졌다. 그러나 이미 2ch 같은 일본 사이트, 트위터, 최근에는 한국에서까지 해당 이미지가 퍼지자, 히노 아키히로 사장은 이번 유출 사건의 처벌만큼은 엄중하게 해놓겠다고 하여 큰 문제가 되고 있다.
 
 ## 각주
 

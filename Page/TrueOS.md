@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TrueOS](https://ko.wikipedia.org/wiki/TrueOS).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Lumina1.0.0-TrueOS.png "wikilink") **TrueOS**는 [FreeBSD](https://ko.wikipedia.org/wiki/FreeBSD "wikilink")에 기반한 [유닉스 계열의](../Page/유닉스_계열.md "wikilink") [데스크톱용](../Page/데스크톱_컴퓨터.md "wikilink") [운영 체제이다](https://ko.wikipedia.org/wiki/운영_체제 "wikilink"). [iXsystems](https://ko.wikipedia.org/wiki/iXsystems "wikilink")라는 회사가 개발한다. 예전에는 데스크탑 버전의 PC-BSD라는 이름과 서버 버전의 TrueOS라는 이름의 두 가지 브랜드가 있었지만 2016년 9월 1일부터 TrueOS라는 이름으로 합쳤다.\[1\]\[2\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:Lumina1.0.0-TrueOS.png "wikilink") **TrueOS**는 [FreeBSD](../Page/FreeBSD.md "wikilink")에 기반한 [유닉스 계열의](../Page/유닉스_계열.md "wikilink") [데스크톱용](../Page/데스크톱_컴퓨터.md "wikilink") [운영 체제이다](../Page/운영_체제.md "wikilink"). [iXsystems](https://ko.wikipedia.org/wiki/iXsystems "wikilink")라는 회사가 개발한다. 예전에는 데스크탑 버전의 PC-BSD라는 이름과 서버 버전의 TrueOS라는 이름의 두 가지 브랜드가 있었지만 2016년 9월 1일부터 TrueOS라는 이름으로 합쳤다.\[1\]\[2\]
 
 ## 버전 역사
 
@@ -53,13 +53,13 @@ PlotData=
 
 ## 같이 보기
 
-  - [BSD](https://ko.wikipedia.org/wiki/BSD "wikilink")
-  - [FreeBSD](https://ko.wikipedia.org/wiki/FreeBSD "wikilink")
+  - [BSD](../Page/BSD.md "wikilink")
+  - [FreeBSD](../Page/FreeBSD.md "wikilink")
       - [Darwin](https://ko.wikipedia.org/wiki/애플_다윈 "wikilink")
       - [GhostBSD](https://ko.wikipedia.org/wiki/GhostBSD "wikilink")
       - [MidnightBSD](https://ko.wikipedia.org/wiki/MidnightBSD "wikilink")
-  - [OpenBSD](https://ko.wikipedia.org/wiki/OpenBSD "wikilink")
-  - [NetBSD](https://ko.wikipedia.org/wiki/NetBSD "wikilink")
+  - [OpenBSD](../Page/OpenBSD.md "wikilink")
+  - [NetBSD](../Page/NetBSD.md "wikilink")
 
 ## 참조
 

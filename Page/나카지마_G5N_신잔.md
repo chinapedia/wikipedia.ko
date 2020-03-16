@@ -55,7 +55,7 @@
 ### 당대의 비교기
 
   - [아브로 랭카스터](https://ko.wikipedia.org/wiki/아브로_랭카스터 "wikilink")
-  - [보잉 B-17 플라잉 포트리스](https://ko.wikipedia.org/wiki/보잉_B-17_플라잉_포트리스 "wikilink")
+  - [보잉 B-17 플라잉 포트리스](../Page/보잉_B-17_플라잉_포트리스.md "wikilink")
   - [핸들리 페이지 핼리팩스](https://ko.wikipedia.org/wiki/핸들리_페이지_핼리팩스 "wikilink")
   - [B-24 리버레이터](https://ko.wikipedia.org/wiki/B-24_리버레이터 "wikilink")
   - [하인켈 He 277](https://ko.wikipedia.org/wiki/하인켈_He_277 "wikilink")

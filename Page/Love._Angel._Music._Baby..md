@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Love. Angel. Music. Baby.](https://ko.wikipedia.org/wiki/Love._Angel._Music._Baby.).
 
 
-***Love. Angel. Music. Baby.***는 미국의 가수 [그웬 스테파니의](https://ko.wikipedia.org/wiki/그웬_스테파니 "wikilink") 첫 솔로 데뷔 정규 음반으로 2004년 11월 12일 [인터스코프 레코드를](https://ko.wikipedia.org/wiki/인터스코프_레코드 "wikilink") 통해 발매되었다. 원래의 계획은 스테파니를 위한 작은 사이드 프로젝트로 시작했지만, 이후 밴드 [노 다웃](../Page/노_다웃.md "wikilink") 활동을 중단하고 훌륭한 프로듀서들과 음악가들과 함께 정규 음반을 만들어갔다. *Love. Angel. Music. Baby.*는 1980년대의 음악과 [마돈나](../Page/마돈나.md "wikilink"), [뉴 오더](https://ko.wikipedia.org/wiki/뉴_오더 "wikilink"), [신디 로퍼](../Page/신디_로퍼.md "wikilink"), [디페쉬 모드](https://ko.wikipedia.org/wiki/디페쉬_모드 "wikilink"), 큐어와 같은 많은 음악가들로부터 영감을 받아 현대적으로 재해석해 작업했다. 앨범에는 [하라주쿠 걸스를](https://ko.wikipedia.org/wiki/하라주쿠_걸스 "wikilink") 영입했는데, 이들은 스테파니의 백업 댄서들로 [도쿄](../Page/도쿄.md "wikilink") [하라주쿠](https://ko.wikipedia.org/wiki/하라주쿠 "wikilink") 지역의 패션과 테마들을 따라하며 활동했다.
+***Love. Angel. Music. Baby.***는 미국의 가수 [그웬 스테파니의](../Page/그웬_스테파니.md "wikilink") 첫 솔로 데뷔 정규 음반으로 2004년 11월 12일 [인터스코프 레코드를](../Page/인터스코프_레코드.md "wikilink") 통해 발매되었다. 원래의 계획은 스테파니를 위한 작은 사이드 프로젝트로 시작했지만, 이후 밴드 [노 다웃](../Page/노_다웃.md "wikilink") 활동을 중단하고 훌륭한 프로듀서들과 음악가들과 함께 정규 음반을 만들어갔다. *Love. Angel. Music. Baby.*는 1980년대의 음악과 [마돈나](../Page/마돈나.md "wikilink"), [뉴 오더](../Page/뉴_오더.md "wikilink"), [신디 로퍼](../Page/신디_로퍼.md "wikilink"), [디페쉬 모드](../Page/디페쉬_모드.md "wikilink"), 큐어와 같은 많은 음악가들로부터 영감을 받아 현대적으로 재해석해 작업했다. 앨범에는 [하라주쿠 걸스를](https://ko.wikipedia.org/wiki/하라주쿠_걸스 "wikilink") 영입했는데, 이들은 스테파니의 백업 댄서들로 [도쿄](../Page/도쿄.md "wikilink") [하라주쿠](../Page/하라주쿠.md "wikilink") 지역의 패션과 테마들을 따라하며 활동했다.
 
 *Love. Angel. Music. Baby.*는 평론가들로부터 대체로 긍정적인 평가를 받았다. 앨범에는 여섯 개의 싱글들을 발매했고, 이 앨범은 여러 국가에서 멀티 [플래티넘](https://ko.wikipedia.org/wiki/플래티넘 "wikilink") 인증을 받아 세계적으로 700만 장 이상의 판매고를 올렸다. 또한 2005년과 2006년에 걸쳐 [그래미 상](https://ko.wikipedia.org/wiki/그래미_상 "wikilink") 여섯 부문 후보로 지명받았었다.
 
@@ -37,7 +37,7 @@
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>3</p></td>
-<td style="text-align: center;"><p>"<a href="https://ko.wikipedia.org/wiki/Hollaback_Girl" title="wikilink">Hollaback Girl</a>"</p></td>
+<td style="text-align: center;"><p>"<a href="../Page/Hollaback_Girl.md" title="wikilink">Hollaback Girl</a>"</p></td>
 <td style="text-align: center;"><p>스테파니, <a href="https://ko.wikipedia.org/wiki/Pharrell_Williams" title="wikilink">Pharrell Williams</a>, <a href="https://ko.wikipedia.org/wiki/Chad_Hugo" title="wikilink">Chad Hugo</a></p></td>
 <td style="text-align: center;"><p>The Neptunes</p></td>
 <td style="text-align: center;"><p>3:19</p></td>

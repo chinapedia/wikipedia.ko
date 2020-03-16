@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [TBC DMB](https://ko.wikipedia.org/wiki/TBC_DMB).
 
 
-**TBC DMB**는 대구.경북.강원 등을 가시청권으로 하는 [지상파DMB](https://ko.wikipedia.org/wiki/지상파DMB "wikilink") 방송국으로, [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [6월 30일에](https://ko.wikipedia.org/wiki/6월_30일 "wikilink") 개국하였다. [㈜TBC가](../Page/TBC_\(대한민국의_방송사\).md "wikilink") 사업자로서 운영하고 있다.
+**TBC DMB**는 대구.경북.강원 등을 가시청권으로 하는 [지상파DMB](https://ko.wikipedia.org/wiki/지상파DMB "wikilink") 방송국으로, [2008년](../Page/2008년.md "wikilink") [6월 30일에](../Page/6월_30일.md "wikilink") 개국하였다. [㈜TBC가](../Page/TBC_\(대한민국의_방송사\).md "wikilink") 사업자로서 운영하고 있다.
 
 ## 연혁
 
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [6월 30일](https://ko.wikipedia.org/wiki/6월_30일 "wikilink") : 지상파DMB방송국 **TBC DMB** 개국
+  - [2008년](../Page/2008년.md "wikilink") [6월 30일](../Page/6월_30일.md "wikilink") : 지상파DMB방송국 **TBC DMB** 개국
 
 ## 채널 구성
 
@@ -74,8 +74,8 @@
 
 ## 관련 보기
 
-  - [U-KBS](https://ko.wikipedia.org/wiki/U-KBS "wikilink")
-  - [myMBC](https://ko.wikipedia.org/wiki/MyMBC_\(경북권\) "wikilink")
+  - [U-KBS](../Page/U-KBS.md "wikilink")
+  - [myMBC](../Page/MyMBC_\(경북권\).md "wikilink")
   - [대한민국의 지상파DMB](https://ko.wikipedia.org/wiki/대한민국의_지상파DMB "wikilink")
 
 ## 외부 링크

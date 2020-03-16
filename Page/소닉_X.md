@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ X](https://ko.wikipedia.org/wiki/_X).
 
 
-《**소닉 X**》는 [소닉 더 헤지호그](https://ko.wikipedia.org/wiki/소닉_더_헤지호그 "wikilink") 시리즈의 [애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink")이다. [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [4월 6일부터](https://ko.wikipedia.org/wiki/4월_6일 "wikilink") [TV 도쿄](../Page/TV_도쿄.md "wikilink") 계열 방송국을 통해 방송 개시되어 이듬해인 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 3월에 52화를 끝으로 방송이 종료된 후 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") 등의 해외 방영 시에는 에피소드를 덧붙여 78화를 최후 에피소드로 방영하였다. [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") 방영 6년 만인 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [7월 6일부터](https://ko.wikipedia.org/wiki/7월_6일 "wikilink") [재능TV](https://ko.wikipedia.org/wiki/재능TV "wikilink")를 통해 방영이 된 적이 있다.
+《**소닉 X**》는 [소닉 더 헤지호그](https://ko.wikipedia.org/wiki/소닉_더_헤지호그 "wikilink") 시리즈의 [애니메이션](../Page/애니메이션.md "wikilink")이다. [2003년](../Page/2003년.md "wikilink") [4월 6일부터](../Page/4월_6일.md "wikilink") [TV 도쿄](../Page/TV_도쿄.md "wikilink") 계열 방송국을 통해 방송 개시되어 이듬해인 [2004년](../Page/2004년.md "wikilink") 3월에 52화를 끝으로 방송이 종료된 후 [미국](../Page/미국.md "wikilink") 등의 해외 방영 시에는 에피소드를 덧붙여 78화를 최후 에피소드로 방영하였다. [대한민국](../Page/대한민국.md "wikilink")에서 [일본](../Page/일본.md "wikilink") 방영 6년 만인 [2009년](../Page/2009년.md "wikilink") [7월 6일부터](../Page/7월_6일.md "wikilink") [재능TV](../Page/재능TV.md "wikilink")를 통해 방영이 된 적이 있다.
 
 ## 스토리 소개
 
@@ -12,16 +12,16 @@
 ### 소닉들의 세계
 
   - [마일즈 테일즈 프로워](https://ko.wikipedia.org/wiki/마일즈_테일즈_프라우어 "wikilink") (한국어판 성우: [이선호](../Page/이선호_\(성우\).md "wikilink"))
-  - [너클즈 디 에키드나](https://ko.wikipedia.org/wiki/너클즈_디_에키드나 "wikilink") (한국어판 성우: [홍범기](https://ko.wikipedia.org/wiki/홍범기 "wikilink"))
-  - [에이미 로즈](../Page/에이미_로즈.md "wikilink") (한국어판 성우: [이영란](https://ko.wikipedia.org/wiki/이영란 "wikilink"))
-  - [크림 더 래빗](https://ko.wikipedia.org/wiki/크림_더_래빗 "wikilink") (한국어판 성우: [윤성혜](https://ko.wikipedia.org/wiki/윤성혜_\(성우\) "wikilink"))
+  - [너클즈 디 에키드나](https://ko.wikipedia.org/wiki/너클즈_디_에키드나 "wikilink") (한국어판 성우: [홍범기](../Page/홍범기.md "wikilink"))
+  - [에이미 로즈](../Page/에이미_로즈.md "wikilink") (한국어판 성우: [이영란](../Page/이영란.md "wikilink"))
+  - [크림 더 래빗](https://ko.wikipedia.org/wiki/크림_더_래빗 "wikilink") (한국어판 성우: [윤성혜](../Page/윤성혜_\(성우\).md "wikilink"))
   - [소닉 더 헤지혹](../Page/소닉_더_헤지혹.md "wikilink") (성우: [카네마루 쥰이치](https://ko.wikipedia.org/wiki/카네마루_쥰이치 "wikilink")) (한국판 성우: [엄상현](../Page/엄상현.md "wikilink"))
   - 카오스 에메랄드
 
 ### 인간 세계
 
   - 크리스토퍼 손다이크 (한국어판 성우: [이미자](../Page/이미자_\(성우\).md "wikilink"))
-  - 샘 스피드 (한국어판 성우: [홍범기](https://ko.wikipedia.org/wiki/홍범기 "wikilink"))
+  - 샘 스피드 (한국어판 성우: [홍범기](../Page/홍범기.md "wikilink"))
   - 헬렌
   - 스튜어트 선생
   - 엘라

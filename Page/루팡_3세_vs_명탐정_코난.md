@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ 3 vs  ](https://ko.wikipedia.org/wiki/_3_vs__).
 
 
-《**루팡 3세 VS 명탐정 코난**》()은 [니혼 TV](../Page/닛폰_TV_방송망.md "wikilink") 개국 55주년 및 [요미우리 TV](https://ko.wikipedia.org/wiki/요미우리TV방송 "wikilink") (ytv) 개국 50주년 개국 기념 프로그램으로, '루팡'과 《명탐정 코난》(아오야마 고쇼 원작)과의 크로스 오버 작품이다. 한국에서는 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [5월 23일](https://ko.wikipedia.org/wiki/5월_23일 "wikilink") [투니버스](https://ko.wikipedia.org/wiki/투니버스 "wikilink")에서 더빙판으로 방영되었다.
+《**루팡 3세 VS 명탐정 코난**》()은 [니혼 TV](../Page/닛폰_TV_방송망.md "wikilink") 개국 55주년 및 [요미우리 TV](https://ko.wikipedia.org/wiki/요미우리TV방송 "wikilink") (ytv) 개국 50주년 개국 기념 프로그램으로, '루팡'과 《명탐정 코난》(아오야마 고쇼 원작)과의 크로스 오버 작품이다. 한국에서는 [2014년](../Page/2014년.md "wikilink") [5월 23일](../Page/5월_23일.md "wikilink") [투니버스](../Page/투니버스.md "wikilink")에서 더빙판으로 방영되었다.
 
 ## 개요
 
@@ -29,9 +29,9 @@ NTV의 자랑 괴도 신사 '루팡 3세' 측과 ytv의 자랑인 탐정 '에도
 
 ### 《루팡 3세》 측 인물
 
-  - 아르센 루팡 3세 - 쿠리타 칸이치  [강수진](https://ko.wikipedia.org/wiki/강수진_\(남자_성우\) "wikilink")
+  - 아르센 루팡 3세 - 쿠리타 칸이치  [강수진](../Page/강수진_\(남자_성우\).md "wikilink")
   - 지겐 다이스케 (알마로스) - 고바야시 키요시  [강구한](../Page/강구한.md "wikilink")
-  - 이시카와 고에몬 (검객) - 이노우에 마키오  [김수중](https://ko.wikipedia.org/wiki/김수중 "wikilink")
+  - 이시카와 고에몬 (검객) - 이노우에 마키오  [김수중](../Page/김수중.md "wikilink")
   - 미네 후지코 (산드라) - 마스야마 에이코  [김현심](../Page/김현심.md "wikilink")
   - 제니가타 코이치 (조대포 경감) - 나야 고로  [이인성](https://ko.wikipedia.org/wiki/이인성 "wikilink")
 
@@ -48,10 +48,10 @@ NTV의 자랑 괴도 신사 '루팡 3세' 측과 ytv의 자랑인 탐정 '에도
 ### 《스페셜 게스트》측 인물
 
   - Princess Miller (미라공주) -[윤미나](../Page/윤미나.md "wikilink") 호리에 유이
-  - Count Keith - [김승준](https://ko.wikipedia.org/wiki/김승준_\(성우\) "wikilink") 미도리카와 히카루
+  - Count Keith - [김승준](../Page/김승준_\(성우\).md "wikilink") 미도리카와 히카루
   - Queen Sakura - [김보영](../Page/김보영_\(성우\).md "wikilink") 스즈키 히로코
-  - Prince Gill - [김명준](https://ko.wikipedia.org/wiki/김명준_\(성우\) "wikilink") 후쿠야마 준
-  - Duke Gerald - [김기현](https://ko.wikipedia.org/wiki/김기현_\(성우\) "wikilink") 야라 유사쿠
+  - Prince Gill - [김명준](../Page/김명준_\(성우\).md "wikilink") 후쿠야마 준
+  - Duke Gerald - [김기현](../Page/김기현_\(성우\).md "wikilink") 야라 유사쿠
 
 ## 제작진
 
@@ -66,9 +66,9 @@ NTV의 자랑 괴도 신사 '루팡 3세' 측과 ytv의 자랑인 탐정 '에도
 
 본작 이전에도 "루팡 3세"와 "에도가와 코난"이 적지만 〈공연〉하는 장면이 몇 번 등장하고 있다. 이하의 3개는 양자의 애니메이션 제작사가 같은 도쿄 무비이기 때문에 가능하게 되었다.
 
-  - [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink")에 방영된 《루팡 3세》TV스페셜 제 10기《[루팡 3세 불꽃의 기억 〜TOKYO CRISIS〜](https://ko.wikipedia.org/wiki/루팡_3세 "wikilink")》의 오프닝에서 코난으로 보이는 인물이 군중 속에서 등장하고 있다. 또한 코난의 옆에는 코고로와 란으로 보이는 캐릭터도 있다.
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink")에 극장에서 공개되는《[명탐정 코난](../Page/명탐정_코난_\(애니메이션\).md "wikilink")》극장판 제 11기《[명탐정 코난: 감벽의 관](../Page/명탐정_코난:_감벽의_관.md "wikilink")》에서 [사토 형사의](https://ko.wikipedia.org/wiki/사토_미와코 "wikilink") 첫사랑이 루팡 3세인 것으로 밝혀지고 있다.
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink")에 출시된 [OVA](https://ko.wikipedia.org/wiki/OVA "wikilink") 제 3탄 《[루팡 3세 GREEN vs RED](https://ko.wikipedia.org/wiki/루팡_3세 "wikilink")》에도가와 코난과 란으로 보이는 인물이 잠시 등장하고 있다.
+  - [1998년](../Page/1998년.md "wikilink")에 방영된 《루팡 3세》TV스페셜 제 10기《[루팡 3세 불꽃의 기억 〜TOKYO CRISIS〜](https://ko.wikipedia.org/wiki/루팡_3세 "wikilink")》의 오프닝에서 코난으로 보이는 인물이 군중 속에서 등장하고 있다. 또한 코난의 옆에는 코고로와 란으로 보이는 캐릭터도 있다.
+  - [2007년](../Page/2007년.md "wikilink")에 극장에서 공개되는《[명탐정 코난](../Page/명탐정_코난_\(애니메이션\).md "wikilink")》극장판 제 11기《[명탐정 코난: 감벽의 관](../Page/명탐정_코난:_감벽의_관.md "wikilink")》에서 [사토 형사의](../Page/사토_미와코.md "wikilink") 첫사랑이 루팡 3세인 것으로 밝혀지고 있다.
+  - [2008년](../Page/2008년.md "wikilink")에 출시된 [OVA](https://ko.wikipedia.org/wiki/OVA "wikilink") 제 3탄 《[루팡 3세 GREEN vs RED](https://ko.wikipedia.org/wiki/루팡_3세 "wikilink")》에도가와 코난과 란으로 보이는 인물이 잠시 등장하고 있다.
 
 ### 배역 정보
 
@@ -117,8 +117,8 @@ NTV의 자랑 괴도 신사 '루팡 3세' 측과 ytv의 자랑인 탐정 '에도
 
   - 본편의 시작 부분에 등장하는 뉴스 속보의 자막은 일본 TV의 뉴스 네트워크 이름인 " [NNN](../Page/닛폰_뉴스_네트워크.md "wikilink")"이 그대로 나온 직후에 바뀐 방송 스튜디오도 NNN 스튜디오 (닛폰테레비가 시오도메 이전 전에 사용하던 것)이 재현되어 있었다.
   - 본 작품은 2 작품 이전 작품인 '루팡 3세 안개 일류시브' 이래, "루팡 3 세"의 TV 작품으로는 2번째 고화​​질로 제작된 작품이다. (다만 "안개의 엘류시브"도 실제로는 4:3 사이즈의 사이드 패널 부착의 방송이었기에, 매년 TV 스페셜로서는 아직도 순수한 하이비젼 제작을 하지 않았다고 볼 수 있다.)
-  - 2009 년 7 월 24 일, 본작의 [DVD](https://ko.wikipedia.org/wiki/DVD "wikilink") 및 [Blu-ray Disc가](https://ko.wikipedia.org/wiki/Blu-ray_Disc "wikilink") 발매되었다. (임대형 DVD도 동시에 발매.) 그 때, 루팡과 모리 란이 동승하고 있는 할리를 배경으로 코난이 스케이트 보드를 날리고 있다는 디자인의 재킷 일러스트가 그려졌다. 또한, Blu-ray 버전은 두 작품의 장편 작품에 앞서 발매되었다.
-  - 방송 시간 동안 명탐정 코난과 [얏타맨](https://ko.wikipedia.org/wiki/얏타맨 "wikilink")의 방송 시간 이동 공지가 흘렀다. 또 본작의 방송보다 금요 오프닝 애니메이션이 리뉴얼되어 있다.
+  - 2009 년 7 월 24 일, 본작의 [DVD](../Page/DVD.md "wikilink") 및 [Blu-ray Disc가](https://ko.wikipedia.org/wiki/Blu-ray_Disc "wikilink") 발매되었다. (임대형 DVD도 동시에 발매.) 그 때, 루팡과 모리 란이 동승하고 있는 할리를 배경으로 코난이 스케이트 보드를 날리고 있다는 디자인의 재킷 일러스트가 그려졌다. 또한, Blu-ray 버전은 두 작품의 장편 작품에 앞서 발매되었다.
+  - 방송 시간 동안 명탐정 코난과 [얏타맨](../Page/얏타맨.md "wikilink")의 방송 시간 이동 공지가 흘렀다. 또 본작의 방송보다 금요 오프닝 애니메이션이 리뉴얼되어 있다.
 
 ### 발매 정보
 
@@ -128,7 +128,7 @@ NTV의 자랑 괴도 신사 '루팡 3세' 측과 ytv의 자랑인 탐정 '에도
 
   - [명탐정 코난](../Page/명탐정_코난.md "wikilink")
   - [루팡 3세](https://ko.wikipedia.org/wiki/루팡_3세 "wikilink")
-  - [아르센 뤼팽](https://ko.wikipedia.org/wiki/아르센_뤼팽 "wikilink")
+  - [아르센 뤼팽](../Page/아르센_뤼팽.md "wikilink")
 
 ## 각주
 

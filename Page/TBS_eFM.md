@@ -1,23 +1,23 @@
 > This article is converted from Wikipedia: [TBS eFM](https://ko.wikipedia.org/wiki/TBS_eFM).
 
 
-**TBS eFM**은 [교통방송](../Page/교통방송.md "wikilink")에서 운영하는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [영어](https://ko.wikipedia.org/wiki/영어 "wikilink") 전문 FM 라디오 방송국으로, [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [12월 1일에](https://ko.wikipedia.org/wiki/12월_1일 "wikilink") 개국하였다.\[1\]
+**TBS eFM**은 [교통방송](../Page/교통방송.md "wikilink")에서 운영하는 [대한민국](../Page/대한민국.md "wikilink")의 [영어](../Page/영어.md "wikilink") 전문 FM 라디오 방송국으로, [2008년](../Page/2008년.md "wikilink") [12월 1일에](../Page/12월_1일.md "wikilink") 개국하였다.\[1\]
 
 ## 연혁
 
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [7월 23일](https://ko.wikipedia.org/wiki/7월_23일 "wikilink"): 영어 라디오 방송국 허가 (남산타워 송신소)
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [12월 1일](https://ko.wikipedia.org/wiki/12월_1일 "wikilink"): 영어 라디오 방송국 개국\[2\]
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [10월 14일](https://ko.wikipedia.org/wiki/10월_14일 "wikilink"): 영어 라디오 중국어 방송 실시
+  - [2008년](../Page/2008년.md "wikilink") [7월 23일](../Page/7월_23일.md "wikilink"): 영어 라디오 방송국 허가 (남산타워 송신소)
+  - [2008년](../Page/2008년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink"): 영어 라디오 방송국 개국\[2\]
+  - [2013년](../Page/2013년.md "wikilink") [10월 14일](../Page/10월_14일.md "wikilink"): 영어 라디오 중국어 방송 실시
 
 ## 방송국 허가 내용
 
-  - 허가연월일 : [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [7월 23일](https://ko.wikipedia.org/wiki/7월_23일 "wikilink")
+  - 허가연월일 : [2008년](../Page/2008년.md "wikilink") [7월 23일](../Page/7월_23일.md "wikilink")
   - 허가번호 : 11-2008-01-0002549호
   - 시설자의 명칭 : 서울특별시
   - 무선국의 명칭 : 영어 FM 방송국
   - 무선설비의 설치장소
       - 연주소 : 서울특별시 마포구 매봉산로 31 에스플렉스센터 ([tbs 교통방송](../Page/교통방송.md "wikilink"))
-      - 송신소 : 서울특별시 용산구 남산공원길 126 ([N서울타워](https://ko.wikipedia.org/wiki/N서울타워 "wikilink"))
+      - 송신소 : 서울특별시 용산구 남산공원길 126 ([N서울타워](../Page/N서울타워.md "wikilink"))
   - 호출부호 : HLSW-FM
   - 주파수 : FM 101.3㎒
   - 전파의 형식 : 260KF8EHF
@@ -74,7 +74,7 @@
   - 00:00《[Frenzy Friends](https://web.archive.org/web/20190317080347/http://tbs.seoul.kr/cont/eFM/Frenzy/intro/intro.do?programId=PG2061205E)》
   - 02:00《[Sound Unbound](https://web.archive.org/web/20161220031536/http://www.tbs.seoul.kr/cont/eFM/Soundunbound/introduction/introduction.do)》
 
-다음 프로그램들은 [일요일](https://ko.wikipedia.org/wiki/일요일 "wikilink")에만 방송된다.
+다음 프로그램들은 [일요일](../Page/일요일.md "wikilink")에만 방송된다.
 
   - 05:00《[Jumpstart](https://web.archive.org/web/20181105113829/http://www.tbs.seoul.kr/cont/eFM/jumpstart/Introduction/intro.do?programId=PG2061110E)》
   - 07:05《[Best of BBC World Service](https://web.archive.org/web/20181105160626/http://tbs.seoul.kr/cont/eFM/bbc/intro/intro.do?programId=PG2060409E)》
@@ -93,9 +93,9 @@
 ## 같이 보기
 
   - [MBC 표준FM](../Page/MBC_표준FM.md "wikilink")
-  - [MBC TV](https://ko.wikipedia.org/wiki/MBC_TV "wikilink")
-  - [SBS TV](https://ko.wikipedia.org/wiki/SBS_TV "wikilink")
-  - [채널A](https://ko.wikipedia.org/wiki/채널A "wikilink")
+  - [MBC TV](../Page/MBC_TV.md "wikilink")
+  - [SBS TV](../Page/SBS_TV.md "wikilink")
+  - [채널A](../Page/채널A.md "wikilink")
 
 ## 각주
 

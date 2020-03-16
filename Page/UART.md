@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [UART](https://ko.wikipedia.org/wiki/UART).
 
 
-**UART**(범용 비동기화 송수신기: Universal asynchronous receiver/transmitter)는 병렬 데이터의 형태를 직렬 방식으로 전환하여 데이터를 전송하는 [컴퓨터 하드웨어의](https://ko.wikipedia.org/wiki/컴퓨터_하드웨어 "wikilink") 일종이다. UART는 일반적으로 [EIA](https://ko.wikipedia.org/wiki/미국_전자_산업_협회 "wikilink") [RS-232](../Page/RS-232.md "wikilink"), [RS-422](../Page/RS-422.md "wikilink"), [RS-485](https://ko.wikipedia.org/wiki/RS-485 "wikilink")와 같은 통신 표준과 함께 사용한다. UART의 U는 범용을 가리키는데 이는 자료 형태나 전송 속도를 직접 구성할 수 있고 실제 전기 신호 수준과 방식(이를테면 [차분 신호](https://ko.wikipedia.org/wiki/차분_신호 "wikilink"))이 일반적으로 UART 바깥의 특정한 드라이버 회로를 통해 관리를 받는다는 뜻이다.
+**UART**(범용 비동기화 송수신기: Universal asynchronous receiver/transmitter)는 병렬 데이터의 형태를 직렬 방식으로 전환하여 데이터를 전송하는 [컴퓨터 하드웨어의](../Page/컴퓨터_하드웨어.md "wikilink") 일종이다. UART는 일반적으로 [EIA](https://ko.wikipedia.org/wiki/미국_전자_산업_협회 "wikilink") [RS-232](../Page/RS-232.md "wikilink"), [RS-422](../Page/RS-422.md "wikilink"), [RS-485](https://ko.wikipedia.org/wiki/RS-485 "wikilink")와 같은 통신 표준과 함께 사용한다. UART의 U는 범용을 가리키는데 이는 자료 형태나 전송 속도를 직접 구성할 수 있고 실제 전기 신호 수준과 방식(이를테면 [차분 신호](https://ko.wikipedia.org/wiki/차분_신호 "wikilink"))이 일반적으로 UART 바깥의 특정한 드라이버 회로를 통해 관리를 받는다는 뜻이다.
 
 통신 데이터는 메모리 또는 레지스터에 들어 있어 이것을 차례대로 읽어 직렬화 하여 통신한다. 최대 8비트가 기본 단위이다.
 
-UART는 일반적으로 컴퓨터나 주변 기기의 일종으로 병렬 데이터를 직렬화 하여 통신하는 개별 [집적 회로이다](https://ko.wikipedia.org/wiki/집적_회로 "wikilink"). 비동기 통신이므로 동기 신호가 전달되지 않는다. 따라서 수신 쪽에서 동기신호를 찾아내어 데이터의 시작과 끝을 시간적으로 알아 처리할 수 있도록 약속되어 있다. 디지털 회로는 자체의 [클럭 신호를](../Page/클럭_신호.md "wikilink") 추가로 사용하여 정해진 속도로 수신 데이터로 부터 비트 구간을 구분하고 그 비트의 논리 상태를 결정하여 데이터 통신을 하는 USRT(범용 동기화 송수신기: Universal synchronous receiver/transmitter)도 사용한다.
+UART는 일반적으로 컴퓨터나 주변 기기의 일종으로 병렬 데이터를 직렬화 하여 통신하는 개별 [집적 회로이다](../Page/집적_회로.md "wikilink"). 비동기 통신이므로 동기 신호가 전달되지 않는다. 따라서 수신 쪽에서 동기신호를 찾아내어 데이터의 시작과 끝을 시간적으로 알아 처리할 수 있도록 약속되어 있다. 디지털 회로는 자체의 [클럭 신호를](../Page/클럭_신호.md "wikilink") 추가로 사용하여 정해진 속도로 수신 데이터로 부터 비트 구간을 구분하고 그 비트의 논리 상태를 결정하여 데이터 통신을 하는 USRT(범용 동기화 송수신기: Universal synchronous receiver/transmitter)도 사용한다.
 
 UART는 보통 마이크로컨트롤러에도 포함되어 있다. 듀얼 UART, 곧 **DUART**는 두 개의 UART를 하나의 칩에 합친 것이다. 수많은 현대의 집적 회로(IC)는 동기화 통신인 USRT도 함께 지원한다. 이러한 장치들은 'USARTs'(범용 동기화/비동기화 송수신기: universal synchronous/asynchronous receiver/transmitter) 또는 'USART/UART'로도 부른다.
 
@@ -161,9 +161,9 @@ UART는 보통 마이크로컨트롤러에도 포함되어 있다. 듀얼 UART, 
 
 ## 같이 보기
 
-  - [직렬 통신](https://ko.wikipedia.org/wiki/직렬_통신 "wikilink")
+  - [직렬 통신](../Page/직렬_통신.md "wikilink")
   - [I2C](https://ko.wikipedia.org/wiki/I2C "wikilink")
-  - [SPI 버스](https://ko.wikipedia.org/wiki/직렬_주변기기_인터페이스_버스 "wikilink")
+  - [SPI 버스](../Page/직렬_주변기기_인터페이스_버스.md "wikilink")
 
 ## 각주
 

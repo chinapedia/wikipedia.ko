@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KARA BEST CLIPS](https://ko.wikipedia.org/wiki/KARA_BEST_CLIPS).
 
 
-***KARA BEST CLIPS***은 2011년 2월 23일 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에 발매된 [카라의](../Page/카라_\(음악_그룹\).md "wikilink") 뮤직비디오 모음집이다.
+***KARA BEST CLIPS***은 2011년 2월 23일 [일본](../Page/일본.md "wikilink")에 발매된 [카라의](../Page/카라_\(음악_그룹\).md "wikilink") 뮤직비디오 모음집이다.
 
 ## 특징
 
@@ -11,7 +11,7 @@ DVD 'KARA BEST CLIPS'에는 일본 데뷔곡 [미스터](https://ko.wikipedia.or
 
   - 발매 첫주 만에 13만 2천 장이 팔리며 오리콘 DVD 종합부문 1위에 올랐다.\[1\]
   - 해외 여성 아티스트가 DVD 종합부문 1위를 차지한 것은 지난 1999년 DVD 랭킹 집계를 시작한 이래 처음. (DVD는 음반만 집계하는 음악차트와 모든 종류의 DVD를 함께 발표하는 종합차트가 있다.)
-  - 해외 아티스트로 종합부문 1위에 오른 것은 [비틀스](https://ko.wikipedia.org/wiki/비틀스 "wikilink"), [레드 제플린](https://ko.wikipedia.org/wiki/레드_제플린 "wikilink"), [동방신기](../Page/동방신기.md "wikilink"), [JYJ](../Page/JYJ.md "wikilink"), [마이클 잭슨에](https://ko.wikipedia.org/wiki/마이클_잭슨 "wikilink") 이어 오리콘 역사상 6번째다.
+  - 해외 아티스트로 종합부문 1위에 오른 것은 [비틀스](https://ko.wikipedia.org/wiki/비틀스 "wikilink"), [레드 제플린](../Page/레드_제플린.md "wikilink"), [동방신기](../Page/동방신기.md "wikilink"), [JYJ](../Page/JYJ.md "wikilink"), [마이클 잭슨에](https://ko.wikipedia.org/wiki/마이클_잭슨 "wikilink") 이어 오리콘 역사상 6번째다.
   - 발매 첫주 판매량 13만 2천 장을 기록한 것은 지난 2000년 11월 쿠라키 마이의 DVD 'FIRST CUT'이 기록한 9만 9천 장 기록을 10년 3개월 만에 깬 것이다.
   - 카라의 이번 기록은 라이브를 포함해 여성가수의 비디오 클립 DVD 발매 첫주 최고 판매량이다.
   - 발매 2주차에도 DVD 종합/음악 차트에서 1위에 올랐다.\[2\]\[3\]
@@ -24,7 +24,7 @@ DVD 'KARA BEST CLIPS'에는 일본 데뷔곡 [미스터](https://ko.wikipedia.or
 
 1.  Rock U (한국어)
 2.  [Pretty Girl](https://ko.wikipedia.org/wiki/Pretty_Girl_\(카라의_음반\) "wikilink") (한국어)
-3.  [Honey](https://ko.wikipedia.org/wiki/Honey_\(카라의_음반\) "wikilink") (한국어)
+3.  [Honey](../Page/Honey_\(카라의_음반\).md "wikilink") (한국어)
 4.  Wanna (한국어)
 5.  [Lupin](https://ko.wikipedia.org/wiki/Lupin_\(카라의_음반\) "wikilink") (한국어)
 6.  [미스터](https://ko.wikipedia.org/wiki/미스터_\(카라의_싱글\) "wikilink") (ミスター) (일본어)

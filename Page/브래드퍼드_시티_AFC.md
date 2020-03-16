@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [  AFC](https://ko.wikipedia.org/wiki/__AFC).
 
 
-**브래드퍼드 시티 AFC**(Bradford City A.F.C.)는 [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink")의 축구 클럽으로, [웨스트요크셔주](https://ko.wikipedia.org/wiki/웨스트요크셔주 "wikilink")의 [브래드퍼드](https://ko.wikipedia.org/wiki/브래드퍼드 "wikilink")를 연고지로 한다.
+**브래드퍼드 시티 AFC**(Bradford City A.F.C.)는 [잉글랜드](../Page/잉글랜드.md "wikilink")의 축구 클럽으로, [웨스트요크셔주](../Page/웨스트요크셔주.md "wikilink")의 [브래드퍼드](../Page/브래드퍼드.md "wikilink")를 연고지로 한다.
 
-2012-13 시즌 잉글랜드 1, 2, 3, 4부 리그 92개 클럽이 모두 참가하는 [캐피털 원 컵에서](../Page/EFL컵.md "wikilink") 4부리그 클럽으로는 사상 최초로 결승에 진출하는 돌풍을 일으켰다. 16강에서 [위건 애슬레틱](https://ko.wikipedia.org/wiki/위건_애슬레틱_FC "wikilink"), 8강에서 [아스널](https://ko.wikipedia.org/wiki/아스널_FC "wikilink"), 4강에서 [애스턴 빌라를](../Page/애스턴_빌라_FC.md "wikilink") 차례로 꺾었지만 결승에서 [스완지 시티에](https://ko.wikipedia.org/wiki/스완지_시티_AFC "wikilink") 패하면서 준우승을 차지했다.
+2012-13 시즌 잉글랜드 1, 2, 3, 4부 리그 92개 클럽이 모두 참가하는 [캐피털 원 컵에서](../Page/EFL컵.md "wikilink") 4부리그 클럽으로는 사상 최초로 결승에 진출하는 돌풍을 일으켰다. 16강에서 [위건 애슬레틱](https://ko.wikipedia.org/wiki/위건_애슬레틱_FC "wikilink"), 8강에서 [아스널](../Page/아스널_FC.md "wikilink"), 4강에서 [애스턴 빌라를](../Page/애스턴_빌라_FC.md "wikilink") 차례로 꺾었지만 결승에서 [스완지 시티에](../Page/스완지_시티_AFC.md "wikilink") 패하면서 준우승을 차지했다.
 
 ## 역대 성적
 

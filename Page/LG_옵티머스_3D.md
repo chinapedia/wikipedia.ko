@@ -1,23 +1,23 @@
 > This article is converted from Wikipedia: [LG  3D](https://ko.wikipedia.org/wiki/LG__3D).
 
 
-**LG 옵티머스 3D**()는 [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")에서 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [7월 7일](https://ko.wikipedia.org/wiki/7월_7일 "wikilink") 출시한 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")이다.
+**LG 옵티머스 3D**()는 [LG전자](../Page/LG전자.md "wikilink")에서 [2011년](../Page/2011년.md "wikilink") [7월 7일](../Page/7월_7일.md "wikilink") 출시한 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.
 
-스마트폰들 중 최초로 무안경 [3D](https://ko.wikipedia.org/wiki/3차원_컴퓨터_그래픽스 "wikilink") 기능을 지원하는 점과 500만 [화소](https://ko.wikipedia.org/wiki/화소 "wikilink") 듀얼 카메라로 3D사진,동영상을 촬영할 수 있는 것이 특징이다.
+스마트폰들 중 최초로 무안경 [3D](../Page/3차원_컴퓨터_그래픽스.md "wikilink") 기능을 지원하는 점과 500만 [화소](https://ko.wikipedia.org/wiki/화소 "wikilink") 듀얼 카메라로 3D사진,동영상을 촬영할 수 있는 것이 특징이다.
 
 ## 3D 기술
 
-[3D](https://ko.wikipedia.org/wiki/3차원_컴퓨터_그래픽스 "wikilink") 기술로는 페럴렉스 베리어 기술을 사용한다.
+[3D](../Page/3차원_컴퓨터_그래픽스.md "wikilink") 기술로는 페럴렉스 베리어 기술을 사용한다.
 
 ## 운영체제 업그레이드
 
 ### 안드로이드 2.3.4 진저브레드 업그레이드
 
-### [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [2.3.5 진저브레드](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드
+### [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [2.3.5 진저브레드](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드
 
 안드로이드 진저브레드 2.3.5버전 으로 업그레이드 되면서 동영상편집기외 다수의 앱이 추가됨. 램사용량을 대폭 줄임. 그외에도 몇몇 업그레이드 됨.
 
-### [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [4.0.4 아이스크림 샌드위치](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드
+### [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [4.0.4 아이스크림 샌드위치](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드
 
 ### 삭제되는 앱
 
@@ -69,7 +69,7 @@ Q메모를 어느화면에서나 보며 이중플레이 할 수 있는 겹쳐사
 
 #### LG-SU760
 
-[SK텔레콤](https://ko.wikipedia.org/wiki/SK텔레콤 "wikilink") 전용으로 출시된 제품이다.
+[SK텔레콤](../Page/SK텔레콤.md "wikilink") 전용으로 출시된 제품이다.
 
 ### 논란
 
@@ -79,13 +79,13 @@ Q메모를 어느화면에서나 보며 이중플레이 할 수 있는 겹쳐사
 
   - [HTC EVO 3D](https://ko.wikipedia.org/wiki/HTC_EVO_3D "wikilink")
   - [삼성 갤럭시 S II](../Page/삼성_갤럭시_S_II.md "wikilink")
-  - [애플 아이폰 4s](https://ko.wikipedia.org/wiki/아이폰_4S "wikilink")
-  - [팬택 스카이 베가 레이서](https://ko.wikipedia.org/wiki/팬택_베가_레이서 "wikilink")
-  - [팬택 스카이 베가 넘버 5](https://ko.wikipedia.org/wiki/팬택_베가_넘버_5 "wikilink")
+  - [애플 아이폰 4s](../Page/아이폰_4S.md "wikilink")
+  - [팬택 스카이 베가 레이서](../Page/팬택_베가_레이서.md "wikilink")
+  - [팬택 스카이 베가 넘버 5](../Page/팬택_베가_넘버_5.md "wikilink")
 
 ## 같이 보기
 
-  - [3차원 컴퓨터 그래픽스](https://ko.wikipedia.org/wiki/3차원_컴퓨터_그래픽스 "wikilink")
+  - [3차원 컴퓨터 그래픽스](../Page/3차원_컴퓨터_그래픽스.md "wikilink")
   - [LG 옵티머스 2X](../Page/LG_옵티머스_2X.md "wikilink")
 
 ## 각주

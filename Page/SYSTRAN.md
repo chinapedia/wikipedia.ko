@@ -5,7 +5,7 @@
 
 SYSTRAN은 [알타비스타](../Page/알타비스타.md "wikilink")의 바벨피쉬 (현재는 [야후\!](../Page/야후!.md "wikilink") 산하), [윈도 라이브](https://ko.wikipedia.org/wiki/윈도_라이브 "wikilink") Translator 등에 기술을 제공하고있다. 2007년까지 [Google](https://ko.wikipedia.org/wiki/Google "wikilink") Language Tool로 활용되었다.
 
-SYSTRAN은 [맥 OS X의](https://ko.wikipedia.org/wiki/맥_OS_X "wikilink") 대시보드 기능의 위젯으로도 사용된다. SYSTRAN 상용 제품은 [마이크로소프트 윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") ([윈도 모바일](https://ko.wikipedia.org/wiki/윈도_모바일 "wikilink") 포함), [리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink") 및 솔라리스 등의 운영 체제에서 작동한다.
+SYSTRAN은 [맥 OS X의](https://ko.wikipedia.org/wiki/맥_OS_X "wikilink") 대시보드 기능의 위젯으로도 사용된다. SYSTRAN 상용 제품은 [마이크로소프트 윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") ([윈도 모바일](https://ko.wikipedia.org/wiki/윈도_모바일 "wikilink") 포함), [리눅스](../Page/리눅스.md "wikilink") 및 솔라리스 등의 운영 체제에서 작동한다.
 
 2014년 한국 기업인 씨에스엘아이(CLSi)에게 550억원에 피인수되었다.\[2\]
 

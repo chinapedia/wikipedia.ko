@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Tori](https://ko.wikipedia.org/wiki/Tori).
 
 
-**Tori (토리)** ([3월 26일](https://ko.wikipedia.org/wiki/3월_26일 "wikilink") \~ [현재](https://ko.wikipedia.org/wiki/현재 "wikilink"))는 대한민국의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이자 [성우](https://ko.wikipedia.org/wiki/성우 "wikilink")이다. 주로 애니메이션 OST에 참여하였다.
+**Tori (토리)** ([3월 26일](../Page/3월_26일.md "wikilink") \~ [현재](https://ko.wikipedia.org/wiki/현재 "wikilink"))는 대한민국의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이자 [성우](../Page/성우.md "wikilink")이다. 주로 애니메이션 OST에 참여하였다.
 
 ### 앨범
 
@@ -14,7 +14,7 @@
   - [크르노 크루세이드](../Page/크르노_크루세이드.md "wikilink") 오프닝 - 너를 위한 Try
   - [따끈따끈 베이커리](../Page/따끈따끈_베이커리.md "wikilink") 오프닝 - 맛있는 마법
   - [꼬마 마법사 레미 비바체](https://ko.wikipedia.org/wiki/꼬마_마법사_레미_비바체 "wikilink") 오프닝 - 사랑의 구조신호
-  - [나루토](https://ko.wikipedia.org/wiki/나루토 "wikilink") 1기 엔딩 - 너는 내게
+  - [나루토](../Page/나루토.md "wikilink") 1기 엔딩 - 너는 내게
   - [레이브](https://ko.wikipedia.org/wiki/레이브 "wikilink") 1기 오프닝 - Butterfly Kiss
   - [레이브](https://ko.wikipedia.org/wiki/레이브 "wikilink") 2기 오프닝 - Higher and Higher
   - 마법 소녀 아르스 오프닝 - Dubiduwa lalala
@@ -49,7 +49,7 @@
 
 ## 같이 보기
 
-  - [TULA](https://ko.wikipedia.org/wiki/TULA "wikilink")
+  - [TULA](../Page/TULA.md "wikilink")
   - [정여진](../Page/정여진.md "wikilink")
 
 ## 외부 링크

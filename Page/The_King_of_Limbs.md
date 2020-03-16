@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The King of Limbs](https://ko.wikipedia.org/wiki/The_King_of_Limbs).
 
 
-《**The King of Limbs**》는 영국의 록 밴드 [라디오헤드](https://ko.wikipedia.org/wiki/라디오헤드 "wikilink")의 8번째 정규 음반이다. 나이젤 고드리치가 프로듀서를 맡았으며, 2011년 2월 18일 [MP3](https://ko.wikipedia.org/wiki/MP3 "wikilink")와 [WAV](../Page/WAV.md "wikilink")파일 형식으로 자체 발매됐다. 뒤이어 3월 28일에 CD와 12인치 레코드로 발매됐다\[1\].
+《**The King of Limbs**》는 영국의 록 밴드 [라디오헤드](../Page/라디오헤드.md "wikilink")의 8번째 정규 음반이다. 나이젤 고드리치가 프로듀서를 맡았으며, 2011년 2월 18일 [MP3](https://ko.wikipedia.org/wiki/MP3 "wikilink")와 [WAV](../Page/WAV.md "wikilink")파일 형식으로 자체 발매됐다. 뒤이어 3월 28일에 CD와 12인치 레코드로 발매됐다\[1\].
 
 ## 소개
 

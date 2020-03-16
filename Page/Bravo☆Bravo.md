@@ -15,7 +15,7 @@
 1.  **Bravo☆Bravo**
     (작사：미우라 요시코　작곡：[층쿠♂](https://ko.wikipedia.org/wiki/쓴쿠 "wikilink")　편곡：니시카와 스스무)
       -
-        《[캐릭캐릭 체인지](https://ko.wikipedia.org/wiki/캐릭캐릭_체인지_\(애니메이션\) "wikilink")》의 닫는 곡(2009년 10월\~12월).
+        《[캐릭캐릭 체인지](../Page/캐릭캐릭_체인지_\(애니메이션\).md "wikilink")》의 닫는 곡(2009년 10월\~12월).
 2.  **-Winter Story-**
     (작사：카와카미 나츠키　작곡：AKIRASTAR　편곡：AKIRASTAR・이노우에 신지로우)
 3.  **Bravo☆Bravo** (Instrumental)

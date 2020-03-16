@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ H](https://ko.wikipedia.org/wiki/_H).
 
 
-**드라마 H**()는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [방송채널 사용사업자인](https://ko.wikipedia.org/wiki/대한민국_방송법 "wikilink") [현대미디어가](https://ko.wikipedia.org/wiki/현대백화점그룹 "wikilink") 운영하는 [텔레비전 드라마](https://ko.wikipedia.org/wiki/텔레비전_드라마 "wikilink") 전문 [채널이다](https://ko.wikipedia.org/wiki/텔레비전_채널 "wikilink"). [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink")에 [MIN 매일방송으로](https://ko.wikipedia.org/wiki/MIN_매일방송 "wikilink") 개국했으나 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")부터 홈드라마가 되었다. [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [9월](https://ko.wikipedia.org/wiki/9월 "wikilink") 삼화네트웍스(당시 삼화프로덕션)가 매일방송을 인수하는 동시에 법인명을 홈티브이방송, 채널명을 'HOMETV'로 바꿨다. 이후, 모체였던 삼화네트웍스의 창립자 신현택씨가 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink") 별세하게 되면서 경영난으로 어려움을 겪었으며 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink") 법인명을 홈티브이방송에서 **홈 드라마**()로 바꿨으나 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [8월](https://ko.wikipedia.org/wiki/8월 "wikilink")에 현대미디어가 채널의 운영권을 인수하여 4개월 만에 현재의 이름으로 변경하였다\[1\].
+**드라마 H**()는 [대한민국](../Page/대한민국.md "wikilink")의 [방송채널 사용사업자인](https://ko.wikipedia.org/wiki/대한민국_방송법 "wikilink") [현대미디어가](../Page/현대백화점그룹.md "wikilink") 운영하는 [텔레비전 드라마](../Page/텔레비전_드라마.md "wikilink") 전문 [채널이다](https://ko.wikipedia.org/wiki/텔레비전_채널 "wikilink"). [2002년](../Page/2002년.md "wikilink")에 [MIN 매일방송으로](https://ko.wikipedia.org/wiki/MIN_매일방송 "wikilink") 개국했으나 [2006년](../Page/2006년.md "wikilink")부터 홈드라마가 되었다. [2006년](../Page/2006년.md "wikilink") [9월](../Page/9월.md "wikilink") 삼화네트웍스(당시 삼화프로덕션)가 매일방송을 인수하는 동시에 법인명을 홈티브이방송, 채널명을 'HOMETV'로 바꿨다. 이후, 모체였던 삼화네트웍스의 창립자 신현택씨가 [2011년](../Page/2011년.md "wikilink") [4월](../Page/4월.md "wikilink") 별세하게 되면서 경영난으로 어려움을 겪었으며 [2012년](../Page/2012년.md "wikilink") [4월](../Page/4월.md "wikilink") 법인명을 홈티브이방송에서 **홈 드라마**()로 바꿨으나 [2013년](../Page/2013년.md "wikilink") [8월](../Page/8월.md "wikilink")에 현대미디어가 채널의 운영권을 인수하여 4개월 만에 현재의 이름으로 변경하였다\[1\].
 
 ## 외부 링크
 
@@ -12,7 +12,7 @@
   - [스카이라이프](https://ko.wikipedia.org/wiki/스카이라이프 "wikilink") - 119번
   - [올레TV](https://ko.wikipedia.org/wiki/올레TV "wikilink") - 70번
   - [BTV](../Page/B_TV.md "wikilink") - 46번
-  - [티브로드](https://ko.wikipedia.org/wiki/티브로드 "wikilink") - 53번
+  - [티브로드](../Page/티브로드.md "wikilink") - 53번
 
 ## 각주
 

@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [Steins\;Gate](https://ko.wikipedia.org/wiki/Steins\;Gate).
 
 
-《**Steins;Gate**》(, **슈타인즈 게이트**)는 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [10월 15일에](https://ko.wikipedia.org/wiki/10월_15일 "wikilink") [Xbox 360](https://ko.wikipedia.org/wiki/Xbox_360 "wikilink") 플랫폼 기반으로 발매된 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [게임](https://ko.wikipedia.org/wiki/게임 "wikilink")이다. [5pb.](https://ko.wikipedia.org/wiki/5pb. "wikilink")에서 제작하였으며, 배급은 [니트로플러스](../Page/니트로플러스.md "wikilink")에서 담당하였다. [윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 버전은 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [8월 26일](https://ko.wikipedia.org/wiki/8월_26일 "wikilink") 발매되었으며\[1\], [PSP](https://ko.wikipedia.org/wiki/플레이스테이션_포터블 "wikilink") 버전은 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [6월 23일에](https://ko.wikipedia.org/wiki/6월_23일 "wikilink") 발매 되었다.\[2\]
+《**Steins;Gate**》(, **슈타인즈 게이트**)는 [2009년](../Page/2009년.md "wikilink") [10월 15일에](../Page/10월_15일.md "wikilink") [Xbox 360](https://ko.wikipedia.org/wiki/Xbox_360 "wikilink") 플랫폼 기반으로 발매된 [일본](../Page/일본.md "wikilink")의 [게임](../Page/게임.md "wikilink")이다. [5pb.](https://ko.wikipedia.org/wiki/5pb. "wikilink")에서 제작하였으며, 배급은 [니트로플러스](../Page/니트로플러스.md "wikilink")에서 담당하였다. [윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 버전은 [2010년](../Page/2010년.md "wikilink") [8월 26일](../Page/8월_26일.md "wikilink") 발매되었으며\[1\], [PSP](../Page/플레이스테이션_포터블.md "wikilink") 버전은 [2011년](../Page/2011년.md "wikilink") [6월 23일에](../Page/6월_23일.md "wikilink") 발매 되었다.\[2\]
 
 ## 개요
 
-《[카오스;헤드](../Page/카오스;헤드.md "wikilink")》에서 이어지는 [5pb.](https://ko.wikipedia.org/wiki/5pb. "wikilink")와 [니트로플러스](../Page/니트로플러스.md "wikilink")의 2번째 합동 기획이다. ‘슈타인’의 명칭은 물리학자인 [알베르트 아인슈타인에서](https://ko.wikipedia.org/wiki/알베르트_아인슈타인 "wikilink") 따온 것이며\[3\], [상대성 이론](https://ko.wikipedia.org/wiki/상대성_이론 "wikilink") 등의 물리학적 요소가 스토리 구조 내에 포함되어 있다.
+《[카오스;헤드](../Page/카오스;헤드.md "wikilink")》에서 이어지는 [5pb.](https://ko.wikipedia.org/wiki/5pb. "wikilink")와 [니트로플러스](../Page/니트로플러스.md "wikilink")의 2번째 합동 기획이다. ‘슈타인’의 명칭은 물리학자인 [알베르트 아인슈타인에서](../Page/알베르트_아인슈타인.md "wikilink") 따온 것이며\[3\], [상대성 이론](https://ko.wikipedia.org/wiki/상대성_이론 "wikilink") 등의 물리학적 요소가 스토리 구조 내에 포함되어 있다.
 
 《카오스;헤드》와 같은 세계관을 지니며, 전작의 등장 인물의 소식이 잠깐 나온다. 무대는 시부야에서 아키하바라로 바뀌었으며, 시간적 배경은 전작의 1년 후이다. 현재 5pb.와 Nitro+의 제3차 합동 계획으로 《Robotics;Notes》를 제작했다.\[4\]
 
-[2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [7월 25일](https://ko.wikipedia.org/wiki/7월_25일 "wikilink"), 원더 페스티벌과 시쿠라 치요마루의 [트위터](../Page/트위터.md "wikilink")를 통해 [애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink")화 계획이 발표되었다. 또한 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") 6월에는 [PSP](https://ko.wikipedia.org/wiki/플레이스테이션_포터블 "wikilink") 버전이 [카도카와 쇼텐을](https://ko.wikipedia.org/wiki/카도카와_쇼텐 "wikilink") 통해 발매 되었으며, PSP 버전을 위한 새로운 오프닝·엔딩 테마 곡이 수록 되었다.\[5\] 같은 해 [6월 16일에는](https://ko.wikipedia.org/wiki/6월_16일 "wikilink") [Xbox 360](https://ko.wikipedia.org/wiki/Xbox_360 "wikilink") 버전으로 팬디스크 《**Steins;Gate 비익연리의 달링**》()이 발매 되었다.\[6\]
+[2010년](../Page/2010년.md "wikilink") [7월 25일](../Page/7월_25일.md "wikilink"), 원더 페스티벌과 시쿠라 치요마루의 [트위터](../Page/트위터.md "wikilink")를 통해 [애니메이션](../Page/애니메이션.md "wikilink")화 계획이 발표되었다. 또한 [2011년](../Page/2011년.md "wikilink") 6월에는 [PSP](../Page/플레이스테이션_포터블.md "wikilink") 버전이 [카도카와 쇼텐을](https://ko.wikipedia.org/wiki/카도카와_쇼텐 "wikilink") 통해 발매 되었으며, PSP 버전을 위한 새로운 오프닝·엔딩 테마 곡이 수록 되었다.\[5\] 같은 해 [6월 16일에는](../Page/6월_16일.md "wikilink") [Xbox 360](https://ko.wikipedia.org/wiki/Xbox_360 "wikilink") 버전으로 팬디스크 《**Steins;Gate 비익연리의 달링**》()이 발매 되었다.\[6\]
 
 “이 작품을 만약 PC-88\[7\] 에서 재현하면 어떻게 될까”라는 컨셉으로, 8비트 PC의 느낌을 내기 위한 8색 그래픽과 [FM 음원의](../Page/FM_음원.md "wikilink") 배경 음악, 신규 시나리오, 영단어 명령어 입력 시스템 등으로 구성된 《슈타인즈 게이트:변이공간의 옥텟》이 개발되었다.\[8\]
 
@@ -20,8 +20,8 @@
   - Prologue - 시작과 끝의 프롤로그
   - Chapter 01 - 시간 도약의 [패러노이아](https://ko.wikipedia.org/wiki/편집증 "wikilink")()
   - Chapter 02 - 공리 방황의 랑데부()
-  - Chapter 03 - 나비 날개의 [다이버전스](https://ko.wikipedia.org/wiki/발산_\(벡터\) "wikilink")()
-  - Chapter 04 - 몽환의 [호메오스테이시스](https://ko.wikipedia.org/wiki/항상성 "wikilink")()
+  - Chapter 03 - 나비 날개의 [다이버전스](../Page/발산_\(벡터\).md "wikilink")()
+  - Chapter 04 - 몽환의 [호메오스테이시스](../Page/항상성.md "wikilink")()
   - Chapter 05 - 시공 경계의 [도그마](../Page/교리.md "wikilink")()
   - Chapter 06 - 형이상의 [네크로시스](https://ko.wikipedia.org/wiki/괴사 "wikilink")()
       - 아마네 스즈하 엔딩 - 불가역의 리부트()
@@ -32,7 +32,7 @@
   - Chapter 09 - 무한 연쇄의 [아포토시스](../Page/세포자살.md "wikilink")()
   - Chapter 10A - 투명의 [스타더스트](https://ko.wikipedia.org/wiki/스타더스트 "wikilink")()
       - 시이나 마유리 엔딩 - 투명의 스타더스트
-  - Chapter 10B - [인과율의](https://ko.wikipedia.org/wiki/인과율_\(물리학\) "wikilink") [멜트](https://ko.wikipedia.org/wiki/융해 "wikilink")()
+  - Chapter 10B - [인과율의](https://ko.wikipedia.org/wiki/인과율_\(물리학\) "wikilink") [멜트](../Page/융해.md "wikilink")()
       - 마키세 크리스 엔딩 - 인과율의 멜트
   - Chapter 11 - 경계면 상의 슈타인즈 게이트()
       - 트루 엔딩 - 경계면 상의 슈타인즈 게이트
@@ -80,7 +80,7 @@
 
 <!-- end list -->
 
-  - 마키세 크리스 별명:크리스티나 (성우 : [이마이 아사미](https://ko.wikipedia.org/wiki/이마이_아사미 "wikilink"))
+  - 마키세 크리스 별명:크리스티나 (성우 : [이마이 아사미](../Page/이마이_아사미.md "wikilink"))
 
 <!-- end list -->
 
@@ -149,7 +149,7 @@
 
 ## 애니메이션
 
-[2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") 4월부터 [독립 UHF방송국 계열과](https://ko.wikipedia.org/wiki/전국_독립UHF방송_협의회 "wikilink") [AT-X](../Page/AT-X.md "wikilink") 등의 방송사를 통해 방영되고 있다. [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 [애니플러스](https://ko.wikipedia.org/wiki/애니플러스 "wikilink")가 일본어 음성에 한국어 자막을 덧씌운 형태로 제공하고 있다.
+[2011년](../Page/2011년.md "wikilink") 4월부터 [독립 UHF방송국 계열과](https://ko.wikipedia.org/wiki/전국_독립UHF방송_협의회 "wikilink") [AT-X](../Page/AT-X.md "wikilink") 등의 방송사를 통해 방영되고 있다. [대한민국](../Page/대한민국.md "wikilink")에서는 [애니플러스](../Page/애니플러스.md "wikilink")가 일본어 음성에 한국어 자막을 덧씌운 형태로 제공하고 있다.
 
 ### 제작진
 
@@ -180,7 +180,7 @@
 
   - 엔딩 테마 〈각인을 담당하는 열두 가지의 맹약〉()
     작사 - 시쿠라 치요마루 / 작·편곡 - 하야시 타츠시
-    노래 - 판타즘(FES 성우 - [사카키바라 유이](https://ko.wikipedia.org/wiki/사카키바라_유이 "wikilink"))
+    노래 - 판타즘(FES 성우 - [사카키바라 유이](../Page/사카키바라_유이.md "wikilink"))
 
 <!-- end list -->
 
@@ -196,7 +196,7 @@
 
 ### 방영 목록
 
-부제의 풀이는 [애니플러스](https://ko.wikipedia.org/wiki/애니플러스 "wikilink")의 표기를 따른다.
+부제의 풀이는 [애니플러스](../Page/애니플러스.md "wikilink")의 표기를 따른다.
 
 <table>
 <thead>

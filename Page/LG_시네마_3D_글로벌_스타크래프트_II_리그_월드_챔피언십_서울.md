@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [LG  3D   II    ](https://ko.wikipedia.org/wiki/LG__3D___II____).
 
 
-**LG 시네마 3D 글로벌 스타크래프트 II 리그 월드 챔피언십 서울**(LG Cinema 3D Global StarCraft II League World Championship Seoul)은 [글로벌 스타크래프트 II 리그](https://ko.wikipedia.org/wiki/글로벌_스타크래프트_II_리그 "wikilink") 2011 GSL 투어의 다섯 번째 대회로 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [3월 28일에](https://ko.wikipedia.org/wiki/3월_28일 "wikilink") 개막하였다.
+**LG 시네마 3D 글로벌 스타크래프트 II 리그 월드 챔피언십 서울**(LG Cinema 3D Global StarCraft II League World Championship Seoul)은 [글로벌 스타크래프트 II 리그](https://ko.wikipedia.org/wiki/글로벌_스타크래프트_II_리그 "wikilink") 2011 GSL 투어의 다섯 번째 대회로 [2011년](../Page/2011년.md "wikilink") [3월 28일에](../Page/3월_28일.md "wikilink") 개막하였다.
 
 ## 리그 일정
 
-  - **친선 팀리그(한국 올스타 vs 월드 올스타)** : [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [3월 28일](https://ko.wikipedia.org/wiki/3월_28일 "wikilink"), [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [3월 29일](https://ko.wikipedia.org/wiki/3월_29일 "wikilink")
-  - **16강** : [3월 30일](https://ko.wikipedia.org/wiki/3월_30일 "wikilink"), [3월 31일](https://ko.wikipedia.org/wiki/3월_31일 "wikilink")
-  - **8강** : [4월 1일](https://ko.wikipedia.org/wiki/4월_1일 "wikilink"), [4월 2일](https://ko.wikipedia.org/wiki/4월_2일 "wikilink")
-  - **4강** : [4월 5일](https://ko.wikipedia.org/wiki/4월_5일 "wikilink")
-  - **결승전** : [4월 9일](https://ko.wikipedia.org/wiki/4월_9일 "wikilink")
+  - **친선 팀리그(한국 올스타 vs 월드 올스타)** : [2011년](../Page/2011년.md "wikilink") [3월 28일](../Page/3월_28일.md "wikilink"), [2011년](../Page/2011년.md "wikilink") [3월 29일](../Page/3월_29일.md "wikilink")
+  - **16강** : [3월 30일](../Page/3월_30일.md "wikilink"), [3월 31일](../Page/3월_31일.md "wikilink")
+  - **8강** : [4월 1일](../Page/4월_1일.md "wikilink"), [4월 2일](../Page/4월_2일.md "wikilink")
+  - **4강** : [4월 5일](../Page/4월_5일.md "wikilink")
+  - **결승전** : [4월 9일](../Page/4월_9일.md "wikilink")
 
 ## 리그 방식
 
@@ -44,7 +44,7 @@
 
   - 곰TV (인터넷 방송 : 생방송, 다시 보기), (모바일 애플리케이션: 다시 보기)
   - [애니박스](../Page/애니박스.md "wikilink") ([케이블 방송](https://ko.wikipedia.org/wiki/케이블_방송 "wikilink") : 생방송)
-  - [챔프TV](https://ko.wikipedia.org/wiki/챔프TV "wikilink") ([케이블 방송](https://ko.wikipedia.org/wiki/케이블_방송 "wikilink") : 주요 경기 재방송)
+  - [챔프TV](../Page/챔프TV.md "wikilink") ([케이블 방송](https://ko.wikipedia.org/wiki/케이블_방송 "wikilink") : 주요 경기 재방송)
   - [olleh TV](https://ko.wikipedia.org/wiki/쿡TV "wikilink") ([IPTV](../Page/IPTV.md "wikilink") : 다시 보기)
 
 ## 중계진
@@ -93,12 +93,12 @@
 | :-----------------------------------------------------: | :--------: | :---------: |
 |                         **이름**                          |   **ID**   | **GSL 포인트** |
 |          [장민철](../Page/장민철.md "wikilink") (P)           |     MC     |    5450     |
-| [정종현](https://ko.wikipedia.org/wiki/정종현 "wikilink") (T) |    Mvp     |    5300     |
+|          [정종현](../Page/정종현.md "wikilink") (T)           |    Mvp     |    5300     |
 |     [이정훈](../Page/이정훈_\(프로게이머\).md "wikilink") (T)      | MarineKing |    2799     |
 |     [박성준](../Page/박성준_\(1986년\).md "wikilink") (Z)      |    July    |    2629     |
-| [강초원](https://ko.wikipedia.org/wiki/강초원 "wikilink") (P) |    san     |    1800     |
+|          [강초원](../Page/강초원.md "wikilink") (P)           |    san     |    1800     |
 | [이정환](https://ko.wikipedia.org/wiki/이정환 "wikilink") (P) |   anypro   |    1800     |
-| [임재덕](https://ko.wikipedia.org/wiki/임재덕 "wikilink") (Z) |   NesTea   |    1800     |
+|          [임재덕](../Page/임재덕.md "wikilink") (Z)           |   NesTea   |    1800     |
 |          [이윤열](../Page/이윤열.md "wikilink") (T)           |    NaDa    |    1560     |
 
   - 아시아/오세아니아
@@ -189,7 +189,7 @@
 
 ## 결과
 
-  - **우승 : [정종현](https://ko.wikipedia.org/wiki/정종현 "wikilink")**
+  - **우승 : [정종현](../Page/정종현.md "wikilink")**
   - **준우승 : [이정훈](../Page/이정훈_\(프로게이머\).md "wikilink")**
 
 ## 각주

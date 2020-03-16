@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Scanf](https://ko.wikipedia.org/wiki/Scanf).
 
 
-**scanf**는 주어진 문자열 스트림 소스에서 지정된 형식으로 데이터를 읽어내는 기능으로 [C 프로그래밍 언어로부터](https://ko.wikipedia.org/wiki/C_\(프로그래밍_언어\) "wikilink") 유래했으며 많은 프로그래밍 언어에 쓰이고 있다.
+**scanf**는 주어진 문자열 스트림 소스에서 지정된 형식으로 데이터를 읽어내는 기능으로 [C 프로그래밍 언어로부터](../Page/C_\(프로그래밍_언어\).md "wikilink") 유래했으며 많은 프로그래밍 언어에 쓰이고 있다.
 
 `scanf`의 기본 형태는 다음과 같다:
 :
@@ -12,7 +12,7 @@ int scanf(const char *format, ...);
 
 ## 사용법
 
-`scanf`는 [C에서](https://ko.wikipedia.org/wiki/C_\(프로그래밍_언어\) "wikilink") 비롯했는데, 표준 입력(종종 명령 줄 인터페이스)으로부터 숫자나 다른 입력한 데이터타입을 입력 받아 읽어낸다.
+`scanf`는 [C에서](../Page/C_\(프로그래밍_언어\).md "wikilink") 비롯했는데, 표준 입력(종종 명령 줄 인터페이스)으로부터 숫자나 다른 입력한 데이터타입을 입력 받아 읽어낸다.
 
 아래는 C 언어에서 각 줄의으로부터 언포맷된 10진 정수값 가변 숫자를 읽는 코드이다:(쓸만함)
 
@@ -31,9 +31,9 @@ main(void)
 ## 같이 보기
 
   - [`printf`](https://ko.wikipedia.org/wiki/printf "wikilink")
-  - [C 프로그래밍 언어](https://ko.wikipedia.org/wiki/C_\(프로그래밍_언어\) "wikilink")
+  - [C 프로그래밍 언어](../Page/C_\(프로그래밍_언어\).md "wikilink")
   - [C++](https://ko.wikipedia.org/wiki/C++ "wikilink")
-  - [PHP](https://ko.wikipedia.org/wiki/PHP "wikilink")
+  - [PHP](../Page/PHP.md "wikilink")
   - [형식 문자열 공격](https://ko.wikipedia.org/wiki/형식_문자열_공격 "wikilink")
 
 ## 외부 링크

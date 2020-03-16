@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [Real+](https://ko.wikipedia.org/wiki/Real+).
 
 
-***Real+***는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 여자 팝 가수 [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink")의 7번째 싱글이면서 세 번째 [미니음반](../Page/익스텐디드_플레이.md "wikilink") *[REAL](../Page/REAL_\(아이유의_EP\).md "wikilink")*의 후속 플러스 앨범으로써 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [2월 17일에](https://ko.wikipedia.org/wiki/2월_17일 "wikilink") 발매되었다. 총 3개의 트랙으로 구성되어 있으며 타이틀곡은 〈**나만 몰랐던 이야기**〉이다.
+***Real+***는 [대한민국](../Page/대한민국.md "wikilink")의 여자 팝 가수 [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink")의 7번째 싱글이면서 세 번째 [미니음반](../Page/익스텐디드_플레이.md "wikilink") *[REAL](../Page/REAL_\(아이유의_EP\).md "wikilink")*의 후속 플러스 앨범으로써 [2011년](../Page/2011년.md "wikilink") [2월 17일에](../Page/2월_17일.md "wikilink") 발매되었다. 총 3개의 트랙으로 구성되어 있으며 타이틀곡은 〈**나만 몰랐던 이야기**〉이다.
 
 ## 개요
 
 *Real+*의 타이틀곡 〈나만 몰랐던 이야기〉는 [윤상](../Page/윤상.md "wikilink")이 작곡하고 김이나가 작사한 곡으로 아이유의 슬픈 감성이 잘 묻어나고 윤상 특유의 노스탤지아 코드워크와 멜로디가 결합된 마이너 발라드 곡이다. 여기에 saintbinary의 작품인 〈잔혹동화〉와 [피아니스트](https://ko.wikipedia.org/wiki/피아니스트 "wikilink") [김광민이](https://ko.wikipedia.org/wiki/김광민_\(1960년\) "wikilink") 참여한 〈나만 몰랐던 이야기〉의 피아노 버전이 함께 수록되어 있다.
 
-〈나만 몰랐던 이야기〉의 [뮤직비디오](https://ko.wikipedia.org/wiki/뮤직비디오 "wikilink")는 티저가 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [2월 15일에](https://ko.wikipedia.org/wiki/2월_15일 "wikilink") 공개되었으며 정식 뮤직비디오는 [2월 17일에](https://ko.wikipedia.org/wiki/2월_17일 "wikilink") 공개되었다. 아이유 버전의 뮤직비디오는 [2월 23일에](https://ko.wikipedia.org/wiki/2월_23일 "wikilink") 공개되었다.
+〈나만 몰랐던 이야기〉의 [뮤직비디오](https://ko.wikipedia.org/wiki/뮤직비디오 "wikilink")는 티저가 [2011년](../Page/2011년.md "wikilink") [2월 15일에](../Page/2월_15일.md "wikilink") 공개되었으며 정식 뮤직비디오는 [2월 17일에](../Page/2월_17일.md "wikilink") 공개되었다. 아이유 버전의 뮤직비디오는 [2월 23일에](../Page/2월_23일.md "wikilink") 공개되었다.
 
-아이유는 〈나만 몰랐던 이야기〉로 [KBS](../Page/KBS_2TV.md "wikilink") 《[뮤직뱅크](../Page/뮤직뱅크.md "wikilink")》에서 [2월 18일에](https://ko.wikipedia.org/wiki/2월_18일 "wikilink") 컴백하였다.\[1\]
+아이유는 〈나만 몰랐던 이야기〉로 [KBS](../Page/KBS_2TV.md "wikilink") 《[뮤직뱅크](../Page/뮤직뱅크.md "wikilink")》에서 [2월 18일에](../Page/2월_18일.md "wikilink") 컴백하였다.\[1\]
 
 ## 트랙리스트
 

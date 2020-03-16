@@ -14,7 +14,7 @@
 
 ## 같이 보기
 
-  - [TiMidity++](https://ko.wikipedia.org/wiki/TiMidity++ "wikilink")
+  - [TiMidity++](../Page/TiMidity++.md "wikilink")
 
 ## 외부 링크
 

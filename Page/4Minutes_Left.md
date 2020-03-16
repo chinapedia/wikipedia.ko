@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [4Minutes Left](https://ko.wikipedia.org/wiki/4Minutes_Left).
 
 
-***4Minutes Left***는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [걸 그룹](https://ko.wikipedia.org/wiki/걸_그룹 "wikilink") [포미닛](https://ko.wikipedia.org/wiki/포미닛 "wikilink")의 첫 번째 정규 음반이다.
+***4Minutes Left***는 [대한민국](../Page/대한민국.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") [포미닛](../Page/포미닛.md "wikilink")의 첫 번째 정규 음반이다.
 
 ## 수록곡
 

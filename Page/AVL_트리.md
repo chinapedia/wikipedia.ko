@@ -9,7 +9,7 @@
 | 삽입            |
 | 삭제            |
 
-**AVL 트리**(AVL tree)는 가장 초기에 나온 균형 잡힌(balanced) [이진 탐색 트리이다](https://ko.wikipedia.org/wiki/이진_탐색_트리 "wikilink"). 1962년 G.M. Adelson-Velskii와 E.M. Landis 가 그들의 논문 "An algorithm for the organization of information"\[1\] 을 통해 발표했고 그들의 이름을 따서 지어졌다. AVL 트리는 각각의 노드(node, 분기점)마다 왼쪽과 오른쪽 부분 트리(sub-tree)의 높이 차이에 대한 정보를 가지며 부분 트리의 높이 차이가 1보다 크지 않은 성질을 가진다. 균형 잡힌 AVL 트리는 n개의 원소가 있을 때 [O](https://ko.wikipedia.org/wiki/점근_표기법 "wikilink")(log *n*) 의 시간복잡도로 검색, 삽입, 삭제를 할 수 있다. 그러나 삽입과 삭제를 할 때에는 원하는 노드를 찾기 위해 2개의 경로가 필요하기 때문에 [레드-블랙 트리](../Page/레드-블랙_트리.md "wikilink") 만큼 효율이 좋지 않아 자주 쓰이지는 않는다.\[2\]
+**AVL 트리**(AVL tree)는 가장 초기에 나온 균형 잡힌(balanced) [이진 탐색 트리이다](https://ko.wikipedia.org/wiki/이진_탐색_트리 "wikilink"). 1962년 G.M. Adelson-Velskii와 E.M. Landis 가 그들의 논문 "An algorithm for the organization of information"\[1\] 을 통해 발표했고 그들의 이름을 따서 지어졌다. AVL 트리는 각각의 노드(node, 분기점)마다 왼쪽과 오른쪽 부분 트리(sub-tree)의 높이 차이에 대한 정보를 가지며 부분 트리의 높이 차이가 1보다 크지 않은 성질을 가진다. 균형 잡힌 AVL 트리는 n개의 원소가 있을 때 [O](../Page/점근_표기법.md "wikilink")(log *n*) 의 시간복잡도로 검색, 삽입, 삭제를 할 수 있다. 그러나 삽입과 삭제를 할 때에는 원하는 노드를 찾기 위해 2개의 경로가 필요하기 때문에 [레드-블랙 트리](../Page/레드-블랙_트리.md "wikilink") 만큼 효율이 좋지 않아 자주 쓰이지는 않는다.\[2\]
 
 ## 정의와 성질
 

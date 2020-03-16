@@ -1,12 +1,12 @@
 > This article is converted from Wikipedia: [FreeRTOS](https://ko.wikipedia.org/wiki/FreeRTOS).
 
 
-**FreeRTOS**는 대중적인\[1\] [임베디드 디바이스를](https://ko.wikipedia.org/wiki/임베디드_디바이스 "wikilink") 위한 [실시간 운영 체제](https://ko.wikipedia.org/wiki/실시간_운영_체제 "wikilink") 커널\[2\]\[3\]이다. 35개의 [마이크로컨트롤러](../Page/마이크로컨트롤러.md "wikilink")에 포팅되었다.
+**FreeRTOS**는 대중적인\[1\] [임베디드 디바이스를](https://ko.wikipedia.org/wiki/임베디드_디바이스 "wikilink") 위한 [실시간 운영 체제](../Page/실시간_운영_체제.md "wikilink") 커널\[2\]\[3\]이다. 35개의 [마이크로컨트롤러](../Page/마이크로컨트롤러.md "wikilink")에 포팅되었다.
 
 ## 지원 아키텍처
 
   - [Altera](https://ko.wikipedia.org/wiki/Altera "wikilink") [Nios II](https://ko.wikipedia.org/wiki/Nios_II "wikilink")
-  - [ARM 아키텍처](https://ko.wikipedia.org/wiki/ARM_아키텍처 "wikilink")
+  - [ARM 아키텍처](../Page/ARM_아키텍처.md "wikilink")
       - [ARM7](https://ko.wikipedia.org/wiki/ARM7 "wikilink")
       - [ARM9](https://ko.wikipedia.org/wiki/ARM9 "wikilink")
       - [ARM Cortex-M](https://ko.wikipedia.org/wiki/ARM_Cortex-M "wikilink")
@@ -36,12 +36,12 @@
       - [콜드파이어](https://ko.wikipedia.org/wiki/프리스케일_콜드파이어 "wikilink") V1 / V2
       - [HCS12](https://ko.wikipedia.org/wiki/HCS12 "wikilink")
       - 키네티스(Kinetis)
-  - [IBM](https://ko.wikipedia.org/wiki/IBM "wikilink")
+  - [IBM](../Page/IBM.md "wikilink")
       - [PPC404](https://ko.wikipedia.org/wiki/PowerPC_400 "wikilink") / PPC405
   - [Infineon](https://ko.wikipedia.org/wiki/Infineon "wikilink")
       - [TriCore](https://ko.wikipedia.org/wiki/TriCore "wikilink")
       - [Infineon XMC4000](https://ko.wikipedia.org/wiki/Infineon_XMC4000 "wikilink")
-  - [인텔](https://ko.wikipedia.org/wiki/인텔 "wikilink")
+  - [인텔](../Page/인텔.md "wikilink")
       - [x86](https://ko.wikipedia.org/wiki/x86_아키텍처 "wikilink")
       - [8052](../Page/인텔_8051.md "wikilink")
   - [PIC 마이크로컨트롤러](https://ko.wikipedia.org/wiki/PIC_마이크로컨트롤러 "wikilink")
@@ -64,7 +64,7 @@
       - [SuperH](https://ko.wikipedia.org/wiki/SuperH "wikilink")
       - [V850](https://ko.wikipedia.org/wiki/V850 "wikilink")
   - [STMicroelectronics](https://ko.wikipedia.org/wiki/STMicroelectronics "wikilink")
-      - [STM32](https://ko.wikipedia.org/wiki/STM32 "wikilink")
+      - [STM32](../Page/STM32.md "wikilink")
       - STR7
   - [텍사스 인스트루먼츠](https://ko.wikipedia.org/wiki/텍사스_인스트루먼츠 "wikilink")
       - [MSP430](https://ko.wikipedia.org/wiki/MSP430 "wikilink")
@@ -79,7 +79,7 @@
 
 ## 같이 보기
 
-  - [실시간 운영 체제](https://ko.wikipedia.org/wiki/실시간_운영_체제 "wikilink")
+  - [실시간 운영 체제](../Page/실시간_운영_체제.md "wikilink")
 
 ## 각주
 

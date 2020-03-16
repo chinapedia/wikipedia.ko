@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [J \(\)](https://ko.wikipedia.org/wiki/J_\(\)).
 
 
-**J**(제이, [1970년](https://ko.wikipedia.org/wiki/1970년 "wikilink") [8월 12일](https://ko.wikipedia.org/wiki/8월_12일 "wikilink") -)는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [음악가](https://ko.wikipedia.org/wiki/음악가 "wikilink")로, [LUNA SEA의](../Page/LUNA_SEA.md "wikilink") [베이시스트](https://ko.wikipedia.org/wiki/베이시스트 "wikilink")이다.
+**J**(제이, [1970년](../Page/1970년.md "wikilink") [8월 12일](../Page/8월_12일.md "wikilink") -)는 [일본](../Page/일본.md "wikilink")의 [음악가](https://ko.wikipedia.org/wiki/음악가 "wikilink")로, [LUNA SEA의](../Page/LUNA_SEA.md "wikilink") [베이시스트](https://ko.wikipedia.org/wiki/베이시스트 "wikilink")이다.
 
 ## 밴드 멤버
 
@@ -19,16 +19,16 @@
 
 ## 경력
 
-  - [1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink") LUNA SEA의 일원으로 인디 활동을 시작한다.
-  - [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink") 2nd 앨범 'IMAGE'로 메이저 데뷔를 한다.
-  - [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") 자신의 첫 [도쿄 돔](https://ko.wikipedia.org/wiki/도쿄_돔 "wikilink") 라이브를 했다.
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") LUNA SEA 활동 휴지 동안 여러 솔로 작품을 발표한다.
-  - [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") 다시 LUNA SEA로 활동을 재개한다.
-  - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") 12월 26일 , 12월 27일 도쿄 돔에서 'LUNA SEA THE FINAL ACT TOKYO DOME'을 감행하고 LUNA SEA가 종막한다.
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") 본격적으로 솔로 활동을 시작한다. 가수 [Youjeen](../Page/체리필터.md "wikilink") 의 일본 데뷔 앨범 " THE DOLL "를 전곡 프로듀스한다.
-  - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") 자신의 첫 [일본 무도관](https://ko.wikipedia.org/wiki/일본_무도관 "wikilink") 라이브를 했다.
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") LUNA SEA의 하룻밤 도쿄 돔 라이브를 했다.
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") hide memorial summit에 LUNA SEA로 출연한다.
+  - [1989년](../Page/1989년.md "wikilink") LUNA SEA의 일원으로 인디 활동을 시작한다.
+  - [1992년](../Page/1992년.md "wikilink") 2nd 앨범 'IMAGE'로 메이저 데뷔를 한다.
+  - [1995년](../Page/1995년.md "wikilink") 자신의 첫 [도쿄 돔](../Page/도쿄_돔.md "wikilink") 라이브를 했다.
+  - [1997년](../Page/1997년.md "wikilink") LUNA SEA 활동 휴지 동안 여러 솔로 작품을 발표한다.
+  - [1998년](../Page/1998년.md "wikilink") 다시 LUNA SEA로 활동을 재개한다.
+  - [2000년](../Page/2000년.md "wikilink") 12월 26일 , 12월 27일 도쿄 돔에서 'LUNA SEA THE FINAL ACT TOKYO DOME'을 감행하고 LUNA SEA가 종막한다.
+  - [2001년](../Page/2001년.md "wikilink") 본격적으로 솔로 활동을 시작한다. 가수 [Youjeen](../Page/체리필터.md "wikilink") 의 일본 데뷔 앨범 " THE DOLL "를 전곡 프로듀스한다.
+  - [2003년](../Page/2003년.md "wikilink") 자신의 첫 [일본 무도관](https://ko.wikipedia.org/wiki/일본_무도관 "wikilink") 라이브를 했다.
+  - [2007년](../Page/2007년.md "wikilink") LUNA SEA의 하룻밤 도쿄 돔 라이브를 했다.
+  - [2008년](../Page/2008년.md "wikilink") hide memorial summit에 LUNA SEA로 출연한다.
 
 ## 발매작 목록
 

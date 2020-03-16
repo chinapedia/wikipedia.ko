@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [PINKY](https://ko.wikipedia.org/wiki/PINKY).
 
 
-**PINKY**(ピンキー, 핑키)는 [슈에이샤](../Page/슈에이샤.md "wikilink") 출간하고 있던 10대 후반 \~ 20대 여성 취향 패션 잡지. [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 창간, 2009년 12월 21일 발매의 2010년 2월호 가지고 휴간.\[1\]
+**PINKY**(ピンキー, 핑키)는 [슈에이샤](../Page/슈에이샤.md "wikilink") 출간하고 있던 10대 후반 \~ 20대 여성 취향 패션 잡지. [2004년](../Page/2004년.md "wikilink") 창간, 2009년 12월 21일 발매의 2010년 2월호 가지고 휴간.\[1\]
 
 발매일은 매월 23일(공휴 일인 경우는 21 \~ 22일), 주서 잡지의 하나가되기도했다.
 

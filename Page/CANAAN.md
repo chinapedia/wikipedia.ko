@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [CANAAN](https://ko.wikipedia.org/wiki/CANAAN).
 
 
-**카난**(CANAAN)은 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [7월](https://ko.wikipedia.org/wiki/7월 "wikilink")부터 [9월](https://ko.wikipedia.org/wiki/9월 "wikilink")까지 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서 방영된 TV 애니메이션이다. [P.A.WORKS](https://ko.wikipedia.org/wiki/P.A.WORKS "wikilink")가 제작했으며, 애니메이션 제작 발표 초기의 타이틀은 **428 THE ANIMATION**이었다.
+**카난**(CANAAN)은 [2009년](../Page/2009년.md "wikilink") [7월](../Page/7월.md "wikilink")부터 [9월](../Page/9월.md "wikilink")까지 [일본](../Page/일본.md "wikilink")에서 방영된 TV 애니메이션이다. [P.A.WORKS](https://ko.wikipedia.org/wiki/P.A.WORKS "wikilink")가 제작했으며, 애니메이션 제작 발표 초기의 타이틀은 **428 THE ANIMATION**이었다.
 
 ## 개요
 
 본 작품은 츈 소프트의 컴퓨터 게임 **428 \~봉쇄된 시부야에서\~**()에 수록되어 있는 보너스 시나리오([TYPE-MOON](https://ko.wikipedia.org/wiki/TYPE-MOON "wikilink") 제작)를 소재로 만들어졌다. 상기 게임의 본편은 일본의 [시부야](../Page/시부야.md "wikilink")가 배경이지만, 이 보너스 시나리오는 중국 상하이를 배경으로 삼고 있다. 핵심 소재는 주인공 카난이 가진 공감각.
 
-[2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")에 열린 제 13회 문화청 미디어 예술제 애니메이션 부문 심사 위원회 추천 작품으로 선정되었다. 국내에서는 [애니 플러스에서](https://ko.wikipedia.org/wiki/애니_플러스 "wikilink") 자막방송으로 방영하였다.
+[2009년](../Page/2009년.md "wikilink")에 열린 제 13회 문화청 미디어 예술제 애니메이션 부문 심사 위원회 추천 작품으로 선정되었다. 국내에서는 [애니 플러스에서](https://ko.wikipedia.org/wiki/애니_플러스 "wikilink") 자막방송으로 방영하였다.
 
 ## 줄거리
 
@@ -24,7 +24,7 @@
   - 오오사와 마리아 (大沢 マリア)
     CV. : [난조 요시노](https://ko.wikipedia.org/wiki/난조_요시노 "wikilink")
   - 미노리카와 미노루 (御法川 実)
-    CV. [하마다 겐지](https://ko.wikipedia.org/wiki/하마다_겐지 "wikilink")
+    CV. [하마다 겐지](../Page/하마다_겐지.md "wikilink")
   - 량 치이 (リャン・チー)
     CV. [다나카 리에](https://ko.wikipedia.org/wiki/다나카_리에 "wikilink")
   - 카밍즈 (カミングズ)
@@ -71,7 +71,7 @@
 ## 스태프
 
   - 원작 : 춘 소프트 \<428 \~봉쇄된 시부야에서\~\>
-  - 원안 : [나스 키노코](https://ko.wikipedia.org/wiki/나스_키노코 "wikilink")
+  - 원안 : [나스 키노코](../Page/나스_키노코.md "wikilink")
   - 감독 : 안도 마사히로
   - 시리즈 구성 : [오카다 마리](https://ko.wikipedia.org/wiki/오카다_마리 "wikilink")
   - 캐릭터 원안 : [다케우치 다카시](https://ko.wikipedia.org/wiki/다케우치_다카시 "wikilink")

@@ -9,82 +9,82 @@ TF1은 [하이브리드 브로드캐스트 브로드밴드 TV](https://ko.wikipe
 
 ### 제2차 세계대전 까지
 
-TF1의 시작은 [1935년](https://ko.wikipedia.org/wiki/1935년 "wikilink") [4월 26일에](https://ko.wikipedia.org/wiki/4월_26일 "wikilink") 세계 최초의 정규 [텔레비전 방송국으로](https://ko.wikipedia.org/wiki/텔레비전_방송국 "wikilink") 개국한 "Radio-PTT Vision"에서부터였다. Radio-PTT Vision은 프랑스 체신부 산하로 설립되었으며, [에펠탑](https://ko.wikipedia.org/wiki/에펠탑 "wikilink")에서 송출되었다. 송출 당시 일주일 중 삼일을 오전 11시\~오전 11시 30분, 오후 8시\~오후 8시 30분, 일요일에는 오후 5시 30분\~7시 30분에 방송되었다. [1937년](https://ko.wikipedia.org/wiki/1937년 "wikilink") [1월 4일](https://ko.wikipedia.org/wiki/1월_4일 "wikilink") 부터는 수요일\~금요일 간에는 오후 5시\~오후 10시, 토요일\~화요일 간에는 오후 4시\~오후 8시30분 또는 9시까지 방송하게 되었다.
+TF1의 시작은 [1935년](../Page/1935년.md "wikilink") [4월 26일에](../Page/4월_26일.md "wikilink") 세계 최초의 정규 [텔레비전 방송국으로](https://ko.wikipedia.org/wiki/텔레비전_방송국 "wikilink") 개국한 "Radio-PTT Vision"에서부터였다. Radio-PTT Vision은 프랑스 체신부 산하로 설립되었으며, [에펠탑](../Page/에펠탑.md "wikilink")에서 송출되었다. 송출 당시 일주일 중 삼일을 오전 11시\~오전 11시 30분, 오후 8시\~오후 8시 30분, 일요일에는 오후 5시 30분\~7시 30분에 방송되었다. [1937년](../Page/1937년.md "wikilink") [1월 4일](../Page/1월_4일.md "wikilink") 부터는 수요일\~금요일 간에는 오후 5시\~오후 10시, 토요일\~화요일 간에는 오후 4시\~오후 8시30분 또는 9시까지 방송하게 되었다.
 
-이후 [1937년](https://ko.wikipedia.org/wiki/1937년 "wikilink") 방송 방식을 기계식에서 브라운관식으로 변경하였고, [1939년](https://ko.wikipedia.org/wiki/1939년 "wikilink") [7월 29일에](https://ko.wikipedia.org/wiki/7월_29일 "wikilink") "Radiodiffusion nationale Télévision"(또는 RN Télévision)으로 개칭되었다. 1939년까지는 Ministère des PTT 산하였다가 1939년 라디오 방송국과의 통합으로 공영 방송 기관인 Radiodiffusion nationale(RN)이 설립되었다.
+이후 [1937년](../Page/1937년.md "wikilink") 방송 방식을 기계식에서 브라운관식으로 변경하였고, [1939년](../Page/1939년.md "wikilink") [7월 29일에](../Page/7월_29일.md "wikilink") "Radiodiffusion nationale Télévision"(또는 RN Télévision)으로 개칭되었다. 1939년까지는 Ministère des PTT 산하였다가 1939년 라디오 방송국과의 통합으로 공영 방송 기관인 Radiodiffusion nationale(RN)이 설립되었다.
 
-[제2차 세계대전이](https://ko.wikipedia.org/wiki/제2차_세계대전 "wikilink") 발발하고 [프랑스](../Page/프랑스.md "wikilink")가 [나치 독일에](https://ko.wikipedia.org/wiki/나치_독일 "wikilink") 점령한 이후, [1942년](https://ko.wikipedia.org/wiki/1942년 "wikilink") [9월 29일에](https://ko.wikipedia.org/wiki/9월_29일 "wikilink") "Fernsehsender Paris"라는 채널로 개칭되면서, 프랑스어 방송이 중단되고 독일어 방송이 강제되었다.
+[제2차 세계대전이](https://ko.wikipedia.org/wiki/제2차_세계대전 "wikilink") 발발하고 [프랑스](../Page/프랑스.md "wikilink")가 [나치 독일에](../Page/나치_독일.md "wikilink") 점령한 이후, [1942년](../Page/1942년.md "wikilink") [9월 29일에](../Page/9월_29일.md "wikilink") "Fernsehsender Paris"라는 채널로 개칭되면서, 프랑스어 방송이 중단되고 독일어 방송이 강제되었다.
 
 ### 국영방송 채널 시절
 
-[프랑스](../Page/프랑스.md "wikilink")가 해방된 이후 [1944년](https://ko.wikipedia.org/wiki/1944년 "wikilink") [10월 1일](https://ko.wikipedia.org/wiki/10월_1일 "wikilink") "Télévision Française"로 재편되었고, 방송 언어도 프랑스어로 다시 돌아왔다. 이후 국영 방송 독점 체제를 확립하면서 기존의 RN을 RDF(Radiodiffusion française)로 개칭하면서 국가 단일 방송국이 되면서 Télévision Française도 RDF의 산하 채널로 유지하였다.
+[프랑스](../Page/프랑스.md "wikilink")가 해방된 이후 [1944년](../Page/1944년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") "Télévision Française"로 재편되었고, 방송 언어도 프랑스어로 다시 돌아왔다. 이후 국영 방송 독점 체제를 확립하면서 기존의 RN을 RDF(Radiodiffusion française)로 개칭하면서 국가 단일 방송국이 되면서 Télévision Française도 RDF의 산하 채널로 유지하였다.
 
-이후 [1949년](https://ko.wikipedia.org/wiki/1949년 "wikilink") [2월 9일](https://ko.wikipedia.org/wiki/2월_9일 "wikilink") RDF는 RTF(Radiodiffusion-télévision française)로 변경되면서, 텔레비전 채널도 "RTF Télévision"으로 개칭되었고, [1963년](https://ko.wikipedia.org/wiki/1963년 "wikilink") [12월 21일엔](https://ko.wikipedia.org/wiki/12월_21일 "wikilink") 제2채널 (La deuxième chaîne, 현 [프랑스 2](../Page/프랑스_2.md "wikilink"))가 개국함으로써 기존 채널명은 제1채널 (La Première chaîne)로 변경하였다. 이후 RTF가 1964년 ORTF(Office de Radiodiffusion Télévision Française)로 변경된 이후에도 계속 유지되었다. ORTF로 변경된 이후 상표명을 드러내지 않는 제한적인 광고방송이 행해졌고, 1968년 상표명이 드러나는 일반적인 형태의 상업광고가 허용되기 시작하였다.
+이후 [1949년](../Page/1949년.md "wikilink") [2월 9일](../Page/2월_9일.md "wikilink") RDF는 RTF(Radiodiffusion-télévision française)로 변경되면서, 텔레비전 채널도 "RTF Télévision"으로 개칭되었고, [1963년](../Page/1963년.md "wikilink") [12월 21일엔](../Page/12월_21일.md "wikilink") 제2채널 (La deuxième chaîne, 현 [프랑스 2](../Page/프랑스_2.md "wikilink"))가 개국함으로써 기존 채널명은 제1채널 (La Première chaîne)로 변경하였다. 이후 RTF가 1964년 ORTF(Office de Radiodiffusion Télévision Française)로 변경된 이후에도 계속 유지되었다. ORTF로 변경된 이후 상표명을 드러내지 않는 제한적인 광고방송이 행해졌고, 1968년 상표명이 드러나는 일반적인 형태의 상업광고가 허용되기 시작하였다.
 
 ### 독립적인 채널로 분리
 
-[1974년](https://ko.wikipedia.org/wiki/1974년 "wikilink") 집권한 [지스카르 데스탱의](https://ko.wikipedia.org/wiki/지스카르_데스탱 "wikilink") 정권은 ORTF의 경영독점 탈피 및 경쟁을 통한 발전을 취지로 ORTF를 해체하면서 제1채널은 **Télévision Française 1**(TF1)라는 이름으로 분리되었다. 분리된 후 [1975년](https://ko.wikipedia.org/wiki/1975년 "wikilink") [9월 1일에](https://ko.wikipedia.org/wiki/9월_1일 "wikilink") [SECAM](https://ko.wikipedia.org/wiki/SECAM "wikilink")방식의 [컬러 텔레비전](../Page/컬러_텔레비전.md "wikilink") 방송을 실시하였는데 당시 타 채널인 [Antenne 2](../Page/프랑스_2.md "wikilink"), [FR3에](https://ko.wikipedia.org/wiki/프랑스_3 "wikilink") 비해 상당히 늦게 실시되었다. 그 이유는 제1텔레비전 방송은 [VHF](https://ko.wikipedia.org/wiki/VHF "wikilink"), 제2텔레비전 방송은 [UHF](https://ko.wikipedia.org/wiki/UHF "wikilink")로 송출하였는데, ORTF시절까지는 UHF에서만 컬러 방송 송출이 가능하였기 때문이었다.
+[1974년](../Page/1974년.md "wikilink") 집권한 [지스카르 데스탱의](https://ko.wikipedia.org/wiki/지스카르_데스탱 "wikilink") 정권은 ORTF의 경영독점 탈피 및 경쟁을 통한 발전을 취지로 ORTF를 해체하면서 제1채널은 **Télévision Française 1**(TF1)라는 이름으로 분리되었다. 분리된 후 [1975년](../Page/1975년.md "wikilink") [9월 1일에](../Page/9월_1일.md "wikilink") [SECAM](https://ko.wikipedia.org/wiki/SECAM "wikilink")방식의 [컬러 텔레비전](../Page/컬러_텔레비전.md "wikilink") 방송을 실시하였는데 당시 타 채널인 [Antenne 2](../Page/프랑스_2.md "wikilink"), [FR3에](https://ko.wikipedia.org/wiki/프랑스_3 "wikilink") 비해 상당히 늦게 실시되었다. 그 이유는 제1텔레비전 방송은 [VHF](https://ko.wikipedia.org/wiki/VHF "wikilink"), 제2텔레비전 방송은 [UHF](https://ko.wikipedia.org/wiki/UHF "wikilink")로 송출하였는데, ORTF시절까지는 UHF에서만 컬러 방송 송출이 가능하였기 때문이었다.
 
 ### TF1의 민영화
 
-1980년대에 [프랑수아 미테랑의](../Page/프랑수아_미테랑.md "wikilink") 집권 이후 민영 텔레비전 방송이 허용되어 [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") 유료 채널인 [Canal+](https://ko.wikipedia.org/wiki/Canal+ "wikilink")가 개국되고, [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") La5, TV6가 개국된 이후 [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink")에 [프랑수아 미테랑의](../Page/프랑수아_미테랑.md "wikilink") 사회당이 총선에서 패배하고 우파 세력에 총리를 내면서 동거정부가 구성되었는데 당시 총리였던 [자크 시라크가](https://ko.wikipedia.org/wiki/자크_시라크 "wikilink") La 5와 TV6의 주주를 교체하는 동시에 TV6을 [M6로](../Page/M6_\(프랑스\).md "wikilink") 바꾸었으며, 공영방송이었던 TF1을 [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink")에 민영으로 전환하였다. TF1의 인수자는 세계 최대의 건설업체인 [부이그 그룹이다](https://ko.wikipedia.org/wiki/부이그_그룹 "wikilink"). 1987년 민영화 이후 다른 공영 방송 채널 [France Télévisions과](https://ko.wikipedia.org/wiki/프랑스_텔레비지옹 "wikilink") 혼동할 우려가 있어 약칭인 TF1이 공식 명칭으로 개명되었다.
+1980년대에 [프랑수아 미테랑의](../Page/프랑수아_미테랑.md "wikilink") 집권 이후 민영 텔레비전 방송이 허용되어 [1984년](../Page/1984년.md "wikilink") 유료 채널인 [Canal+](https://ko.wikipedia.org/wiki/Canal+ "wikilink")가 개국되고, [1986년](../Page/1986년.md "wikilink") La5, TV6가 개국된 이후 [1987년](../Page/1987년.md "wikilink")에 [프랑수아 미테랑의](../Page/프랑수아_미테랑.md "wikilink") 사회당이 총선에서 패배하고 우파 세력에 총리를 내면서 동거정부가 구성되었는데 당시 총리였던 [자크 시라크가](../Page/자크_시라크.md "wikilink") La 5와 TV6의 주주를 교체하는 동시에 TV6을 [M6로](../Page/M6_\(프랑스\).md "wikilink") 바꾸었으며, 공영방송이었던 TF1을 [1987년](../Page/1987년.md "wikilink") [4월](../Page/4월.md "wikilink")에 민영으로 전환하였다. TF1의 인수자는 세계 최대의 건설업체인 [부이그 그룹이다](https://ko.wikipedia.org/wiki/부이그_그룹 "wikilink"). 1987년 민영화 이후 다른 공영 방송 채널 [France Télévisions과](../Page/프랑스_텔레비지옹.md "wikilink") 혼동할 우려가 있어 약칭인 TF1이 공식 명칭으로 개명되었다.
 
 1988년 [프랑수아 미테랑의](../Page/프랑수아_미테랑.md "wikilink") 정부가 재집권하였고, 여기에 TF1을 다시 공영 방송을 되돌릴 계획을 가졌으나, 다수당이 바뀔 때마다 정권 입맛대로 산업과 은행제도가 뒤바뀌는 부작용이 우려될 수도 있는데다가, TF1을 공영화해서 가질 이득도 전혀 없었으며, 모기업인 부이그가 프랑수아 미테랑 정부와 사이가 나쁘지도 않았기 때문에 공영 방송 전환은 무산되었다.
 
 민영화 이후 광고 규제가 완화되고, 미국의 TV 프로그램을 방송하거나, 스포츠 중계권을 대거 사들였으며, 현재 프랑스 국내에서 가장 높은 시청률을 유지하고 있으며, 젊은 층 사이에서 인기가 높다. 반대로 프로그램의 저속화와 보수 성향의 보도와 모 회사에 대해 불리한 보도를 하지 않는 것에 대한 비판도 있다.
 
-2005년에는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [SBS와](https://ko.wikipedia.org/wiki/SBS_\(대한민국의_방송사\) "wikilink") 문화분야 협력의 협정을 채결하였다.\[2\] 2008년에는 [HD 방송을](https://ko.wikipedia.org/wiki/고선명_텔레비전 "wikilink") 시작하였다.
+2005년에는 [대한민국](../Page/대한민국.md "wikilink")의 [SBS와](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 문화분야 협력의 협정을 채결하였다.\[2\] 2008년에는 [HD 방송을](../Page/고선명_텔레비전.md "wikilink") 시작하였다.
 
 ## 채널명 변천
 
-  - [1935년](https://ko.wikipedia.org/wiki/1935년 "wikilink") [4월 26일](https://ko.wikipedia.org/wiki/4월_26일 "wikilink") - Radio-PTT Vision
-  - [1939년](https://ko.wikipedia.org/wiki/1939년 "wikilink") [7월 29일](https://ko.wikipedia.org/wiki/7월_29일 "wikilink") - RN Télévision (Radiodiffusion nationale Télévision)
-  - [1943년](https://ko.wikipedia.org/wiki/1943년 "wikilink") [5월 7일](https://ko.wikipedia.org/wiki/5월_7일 "wikilink") - Fernsehsender Paris
-  - [1944년](https://ko.wikipedia.org/wiki/1944년 "wikilink") [8월 16일](https://ko.wikipedia.org/wiki/8월_16일 "wikilink") - Télévision Française
-  - [1945년](https://ko.wikipedia.org/wiki/1945년 "wikilink") [3월 23일](https://ko.wikipedia.org/wiki/3월_23일 "wikilink") - RDF télévision française
-  - [1949년](https://ko.wikipedia.org/wiki/1949년 "wikilink") [2월 9일](https://ko.wikipedia.org/wiki/2월_9일 "wikilink") - RTF télévision
-  - [1964년](https://ko.wikipedia.org/wiki/1964년 "wikilink") [6월 27일](https://ko.wikipedia.org/wiki/6월_27일 "wikilink") - Première chaîne de l'ORTF
-  - [1975년](https://ko.wikipedia.org/wiki/1975년 "wikilink") [1월 1일](https://ko.wikipedia.org/wiki/1월_1일 "wikilink") - Télévision Française 1
+  - [1935년](../Page/1935년.md "wikilink") [4월 26일](../Page/4월_26일.md "wikilink") - Radio-PTT Vision
+  - [1939년](../Page/1939년.md "wikilink") [7월 29일](../Page/7월_29일.md "wikilink") - RN Télévision (Radiodiffusion nationale Télévision)
+  - [1943년](../Page/1943년.md "wikilink") [5월 7일](../Page/5월_7일.md "wikilink") - Fernsehsender Paris
+  - [1944년](../Page/1944년.md "wikilink") [8월 16일](../Page/8월_16일.md "wikilink") - Télévision Française
+  - [1945년](../Page/1945년.md "wikilink") [3월 23일](../Page/3월_23일.md "wikilink") - RDF télévision française
+  - [1949년](../Page/1949년.md "wikilink") [2월 9일](../Page/2월_9일.md "wikilink") - RTF télévision
+  - [1964년](../Page/1964년.md "wikilink") [6월 27일](../Page/6월_27일.md "wikilink") - Première chaîne de l'ORTF
+  - [1975년](../Page/1975년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") - Télévision Française 1
 
 ## 주요 프로그램
 
   - [LE 13H](https://ko.wikipedia.org/wiki/LE_13H "wikilink"), [LE 20H](https://ko.wikipedia.org/wiki/LE_20H "wikilink") : [뉴스](../Page/뉴스.md "wikilink") 프로그램
-  - [말괄량이 삼총사](https://ko.wikipedia.org/wiki/말괄량이_삼총사 "wikilink")(Totally Spies\!) : 애니메이션 (캐나다 [텔레툰](../Page/텔레툰.md "wikilink") 합작)
+  - [말괄량이 삼총사](../Page/말괄량이_삼총사.md "wikilink")(Totally Spies\!) : 애니메이션 (캐나다 [텔레툰](../Page/텔레툰.md "wikilink") 합작)
   - [크로싱라인](https://ko.wikipedia.org/wiki/크로싱라인 "wikilink") : 드라마 ([RAI](https://ko.wikipedia.org/wiki/RAI "wikilink"), [NBC](../Page/NBC.md "wikilink"), [SAT.1](https://ko.wikipedia.org/wiki/SAT.1 "wikilink"), [AXN (브라질)과](https://ko.wikipedia.org/wiki/AXN_\(브라질\) "wikilink") 합작 프로그램)
   - [장르노의 8구역](https://ko.wikipedia.org/wiki/장르노의_8구역 "wikilink")(원제 JO) : 범죄 [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink")
-  - [더 보이스: la plus belle voix](https://ko.wikipedia.org/wiki/더_보이스:_la_plus_belle_voix "wikilink") : [더 보이스의](https://ko.wikipedia.org/wiki/더_보이스_\(텔레비전_프로그램\) "wikilink") 프랑스판 프로그램
+  - [더 보이스: la plus belle voix](https://ko.wikipedia.org/wiki/더_보이스:_la_plus_belle_voix "wikilink") : [더 보이스의](../Page/더_보이스_\(텔레비전_프로그램\).md "wikilink") 프랑스판 프로그램
   - [Reportages](https://ko.wikipedia.org/wiki/Reportages "wikilink") : 탐사 보도 프로그램
   - [Julie Cuisine](https://ko.wikipedia.org/wiki/Julie_Cuisine "wikilink") : 요리 전문 프로그램
   - [7 sur 7](https://ko.wikipedia.org/wiki/7_sur_7 "wikilink") : 1987년\~1997년간 방송되었던 시사 매거진 프로그램
   - [Sept a huit](https://ko.wikipedia.org/wiki/Sept_a_huit "wikilink") : 7 sur 7의 후속으로 2000년 부터 방송중인 시사 매거진 프로그램
-  - [Telefoot](https://ko.wikipedia.org/wiki/Telefoot "wikilink") : [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 매거진 프로그램. 1977년부터 방송중.
+  - [Telefoot](https://ko.wikipedia.org/wiki/Telefoot "wikilink") : [축구](../Page/축구.md "wikilink") 매거진 프로그램. 1977년부터 방송중.
   - [쌍둥이 줄루줄리](https://ko.wikipedia.org/wiki/쌍둥이_줄루줄리 "wikilink")(Les Jumeaux du bout du monde) : 애니메이션 (호주 [ABC](../Page/오스트레일리아_방송_협회.md "wikilink") 합작. 1991\~1992년까지 총52화 방영)
 
 ## 슬로건
 
-  - [1981년](https://ko.wikipedia.org/wiki/1981년 "wikilink") : « TF1, la puissance de l'information, les moyens de la réflexion »\[3\]
-  - [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") : « TF1, TF1, pour être à la Une »\[4\]
-  - [1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink") : « Bleu émotion, rouge passion, la Une a des couleurs »
-  - [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") : « Vous aimez la Une, la Une vous aime \! »\[5\]{{,}}\[6\]
-  - [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") [여름](https://ko.wikipedia.org/wiki/여름 "wikilink") : « Prenez des couleurs, sur la Une \! »
-  - [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink") : « Pour mieux vous informer et vous distraire, il n'y en a qu'une, c'est la Une \! »\[7\]{{,}}\[8\]. Version courte : « Il n'y en a qu'une \! C'est la Une »\[9\]
-  - [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink") [9월](https://ko.wikipedia.org/wiki/9월 "wikilink") : « La rentrée sur TF1 c'est tout un programme »
-  - [1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink")\~[1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink") : « TF1, c'est tout un programme »\[10\]{{,}}\[11\]
-  - [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink") : « TF1 et mon cœur fait boum \! »\[12\]
-  - [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink")\~[1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") : « La vie bat son plein sur TF1 »\[13\]{{,}}\[14\]
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") : « Ça va mieux, vous êtes sur TF1 »
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") : « On a tous TF1 en commun »\[15\]
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") : « On se retrouve sur TF1 »\[16\]
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") : « On se retrouve tous sur TF1 »\[17\]
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") : « Partageons des ondes positives »\[18\]
+  - [1981년](../Page/1981년.md "wikilink") : « TF1, la puissance de l'information, les moyens de la réflexion »\[3\]
+  - [1984년](../Page/1984년.md "wikilink") : « TF1, TF1, pour être à la Une »\[4\]
+  - [1985년](../Page/1985년.md "wikilink") : « Bleu émotion, rouge passion, la Une a des couleurs »
+  - [1986년](../Page/1986년.md "wikilink") : « Vous aimez la Une, la Une vous aime \! »\[5\]{{,}}\[6\]
+  - [1986년](../Page/1986년.md "wikilink") [여름](../Page/여름.md "wikilink") : « Prenez des couleurs, sur la Une \! »
+  - [1987년](../Page/1987년.md "wikilink") : « Pour mieux vous informer et vous distraire, il n'y en a qu'une, c'est la Une \! »\[7\]{{,}}\[8\]. Version courte : « Il n'y en a qu'une \! C'est la Une »\[9\]
+  - [1987년](../Page/1987년.md "wikilink") [9월](../Page/9월.md "wikilink") : « La rentrée sur TF1 c'est tout un programme »
+  - [1989년](../Page/1989년.md "wikilink")\~[1990년](../Page/1990년.md "wikilink") : « TF1, c'est tout un programme »\[10\]{{,}}\[11\]
+  - [1990년](../Page/1990년.md "wikilink") : « TF1 et mon cœur fait boum \! »\[12\]
+  - [1992년](../Page/1992년.md "wikilink")\~[1993년](../Page/1993년.md "wikilink") : « La vie bat son plein sur TF1 »\[13\]{{,}}\[14\]
+  - [1997년](../Page/1997년.md "wikilink") : « Ça va mieux, vous êtes sur TF1 »
+  - [2007년](../Page/2007년.md "wikilink") : « On a tous TF1 en commun »\[15\]
+  - [2009년](../Page/2009년.md "wikilink") : « On se retrouve sur TF1 »\[16\]
+  - [2011년](../Page/2011년.md "wikilink") : « On se retrouve tous sur TF1 »\[17\]
+  - [2014년](../Page/2014년.md "wikilink") : « Partageons des ondes positives »\[18\]
 
 ## 비판
 
 일부 비평가들은 TF1의 지나친 포퓰리즘과 상업화에 비판하고 있다. 편성 면에서 예능 프로그램과 선정적인 다큐멘터리, TV시리즈의 더빙 버전의 비중이 높고, 뉴스 서비스에서는 경쟁 업체보다 더 많이 유명 인사를 초청하고 인간 관심사 이야기를 구성하는 것으로 인식되고 있다.
 
-또 TF1은 논조면에서 보수 성향이 강한 경향이 있으며, [1995년 프랑스 대통령 선거에서](https://ko.wikipedia.org/wiki/1995년_프랑스_대통령_선거 "wikilink") [에두아르 발라뒤르를](https://ko.wikipedia.org/wiki/에두아르_발라뒤르 "wikilink") 공격하고, [2002년 프랑스 대통령 선거에서도](../Page/2002년_프랑스_대통령_선거.md "wikilink") 선거 캠페인 기간 동안 치안 및 범죄 관련 문제를 과장 보도하여 당시 총리이자 경쟁자 중 한명인 [리오넬 조스팽을](https://ko.wikipedia.org/wiki/리오넬_조스팽 "wikilink") 공격하여 [자크 시라크의](https://ko.wikipedia.org/wiki/자크_시라크 "wikilink") 지지도 상승을 도왔다는 이야기도 있다.
+또 TF1은 논조면에서 보수 성향이 강한 경향이 있으며, [1995년 프랑스 대통령 선거에서](https://ko.wikipedia.org/wiki/1995년_프랑스_대통령_선거 "wikilink") [에두아르 발라뒤르를](../Page/에두아르_발라뒤르.md "wikilink") 공격하고, [2002년 프랑스 대통령 선거에서도](../Page/2002년_프랑스_대통령_선거.md "wikilink") 선거 캠페인 기간 동안 치안 및 범죄 관련 문제를 과장 보도하여 당시 총리이자 경쟁자 중 한명인 [리오넬 조스팽을](../Page/리오넬_조스팽.md "wikilink") 공격하여 [자크 시라크의](../Page/자크_시라크.md "wikilink") 지지도 상승을 도왔다는 이야기도 있다.
 
-TF1의 주요 인물들이 프랑스에서 가장 영향력 있는 일부 정치인들과 가까운 관계인 것과 모기업인 [부이그 그룹과](https://ko.wikipedia.org/wiki/부이그_그룹 "wikilink") 공공 부문 계약 시스템 사이 관계에 대한 의혹도 제기되고 있다. [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink")\~[2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink")간 대통령을 지냈던 [니콜라 사르코지가](../Page/니콜라_사르코지.md "wikilink") TF1의 단골 시청자로서 다른 네트워크보다 많은 혜택을 주었다는 이야기가 그것이다. 그리고 때때로 TF1에서 경쟁사(예:[Vinci SA](https://ko.wikipedia.org/wiki/Vinci_SA "wikilink"))의 문제를 강조하면서 모기업([부이그 그룹](https://ko.wikipedia.org/wiki/부이그_그룹 "wikilink"))에 대한 문제점을 감추고 있다는 비판이 있다.
+TF1의 주요 인물들이 프랑스에서 가장 영향력 있는 일부 정치인들과 가까운 관계인 것과 모기업인 [부이그 그룹과](https://ko.wikipedia.org/wiki/부이그_그룹 "wikilink") 공공 부문 계약 시스템 사이 관계에 대한 의혹도 제기되고 있다. [2007년](../Page/2007년.md "wikilink")\~[2012년](../Page/2012년.md "wikilink")간 대통령을 지냈던 [니콜라 사르코지가](../Page/니콜라_사르코지.md "wikilink") TF1의 단골 시청자로서 다른 네트워크보다 많은 혜택을 주었다는 이야기가 그것이다. 그리고 때때로 TF1에서 경쟁사(예:[Vinci SA](https://ko.wikipedia.org/wiki/Vinci_SA "wikilink"))의 문제를 강조하면서 모기업([부이그 그룹](https://ko.wikipedia.org/wiki/부이그_그룹 "wikilink"))에 대한 문제점을 감추고 있다는 비판이 있다.
 
 ## 각주
 
@@ -92,7 +92,7 @@ TF1의 주요 인물들이 프랑스에서 가장 영향력 있는 일부 정치
 
 ## 같이 보기
 
-  - [The Voice: la plus belle voix](https://ko.wikipedia.org/wiki/더_보이스_\(텔레비전_프로그램\) "wikilink")
+  - [The Voice: la plus belle voix](../Page/더_보이스_\(텔레비전_프로그램\).md "wikilink")
   - [NRJ 뮤직 어워드](https://ko.wikipedia.org/wiki/NRJ_뮤직_어워드 "wikilink")
 
 ## 외부 링크

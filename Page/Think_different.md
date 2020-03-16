@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Think different](https://ko.wikipedia.org/wiki/Think_different).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Apple_logo_Think_Different_vectorized.svg "wikilink") **Think different**는 [애플이](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 1997년에 [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink") [광고 대행사](https://ko.wikipedia.org/wiki/광고_대행사 "wikilink") [TBWA\\Chiat\\Day](https://ko.wikipedia.org/wiki/TBWA/Chiat/Day "wikilink") 사무소에서 만든 [광고 문구의](https://ko.wikipedia.org/wiki/광고_문구 "wikilink") 하나이다.\[1\] 유명한 TV 광고, 인쇄 광고물, 수많은 애플 제품의 TV 프로모션에도 사용되었다. 그러나 2002년의 [애플 스위치 광고 캠페인이](https://ko.wikipedia.org/wiki/애플_스위치_광고_캠페인 "wikilink") 시작되면서 애플은 이 선전 문구의 사용을 중단하였다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Apple_logo_Think_Different_vectorized.svg "wikilink") **Think different**는 [애플이](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 1997년에 [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink") [광고 대행사](../Page/광고_대행사.md "wikilink") [TBWA\\Chiat\\Day](https://ko.wikipedia.org/wiki/TBWA/Chiat/Day "wikilink") 사무소에서 만든 [광고 문구의](https://ko.wikipedia.org/wiki/광고_문구 "wikilink") 하나이다.\[1\] 유명한 TV 광고, 인쇄 광고물, 수많은 애플 제품의 TV 프로모션에도 사용되었다. 그러나 2002년의 [애플 스위치 광고 캠페인이](https://ko.wikipedia.org/wiki/애플_스위치_광고_캠페인 "wikilink") 시작되면서 애플은 이 선전 문구의 사용을 중단하였다.
 
 ## 문법
 
@@ -37,7 +37,7 @@
       - [1984 (광고)](../Page/1984_\(광고\).md "wikilink")
       - [Get a Mac](../Page/Get_a_Mac.md "wikilink")
   - 인물
-      - [스티브 잡스](https://ko.wikipedia.org/wiki/스티브_잡스 "wikilink")
+      - [스티브 잡스](../Page/스티브_잡스.md "wikilink")
 
 ## 외부 링크
 

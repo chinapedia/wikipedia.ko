@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FC2](https://ko.wikipedia.org/wiki/FC2).
 
 
-**FC2**()는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [포르노](https://ko.wikipedia.org/wiki/포르노 "wikilink") [동영상](https://ko.wikipedia.org/wiki/동영상 "wikilink") 관련 웹사이트이다. 사이트는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") 사이트지만 법인을 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")에 두고 있다. 스팅 서비스를 중심으로 웹서비스 전개중이며, 그 중에서도 FC2 블로그는 일본 내에서 가장 많은 회원이 이용하고 있다. [애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink"), [게임](https://ko.wikipedia.org/wiki/게임 "wikilink") 소위 매니아 문화를 좋아하는 회원들이 많다고 일컬어지며, 근래에는 다언어 지원 서비스를 시작하여 많은 회원의 주목을 받고 있다.
+**FC2**()는 [일본](../Page/일본.md "wikilink")의 [포르노](https://ko.wikipedia.org/wiki/포르노 "wikilink") [동영상](https://ko.wikipedia.org/wiki/동영상 "wikilink") 관련 웹사이트이다. 사이트는 [일본](../Page/일본.md "wikilink") 사이트지만 법인을 [미국](../Page/미국.md "wikilink")에 두고 있다. 스팅 서비스를 중심으로 웹서비스 전개중이며, 그 중에서도 FC2 블로그는 일본 내에서 가장 많은 회원이 이용하고 있다. [애니메이션](../Page/애니메이션.md "wikilink"), [게임](../Page/게임.md "wikilink") 소위 매니아 문화를 좋아하는 회원들이 많다고 일컬어지며, 근래에는 다언어 지원 서비스를 시작하여 많은 회원의 주목을 받고 있다.
 
 ## 역사
 

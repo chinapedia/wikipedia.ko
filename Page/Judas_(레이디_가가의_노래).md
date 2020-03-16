@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Judas \(  \)](https://ko.wikipedia.org/wiki/Judas_\(__\)).
 
 
-"**Judas**"는 미국의 가수 [레이디 가가의](https://ko.wikipedia.org/wiki/레이디_가가 "wikilink") 노래로 두 번째 정규 음반 *[Born This Way](https://ko.wikipedia.org/wiki/Born_This_Way "wikilink")* (2011)의 두 번째 싱글로 발매되었다. 싱글은 2011년 4월 15일 [인터스코프 레코드를](https://ko.wikipedia.org/wiki/인터스코프_레코드 "wikilink") 통해 세계적으로 발매했다.
+"**Judas**"는 미국의 가수 [레이디 가가의](../Page/레이디_가가.md "wikilink") 노래로 두 번째 정규 음반 *[Born This Way](https://ko.wikipedia.org/wiki/Born_This_Way "wikilink")* (2011)의 두 번째 싱글로 발매되었다. 싱글은 2011년 4월 15일 [인터스코프 레코드를](../Page/인터스코프_레코드.md "wikilink") 통해 세계적으로 발매했다.
 
 ## 트랙 리스트
 
@@ -197,8 +197,8 @@
 
 ## 외부 링크
 
-  - [Lady Gaga's 'Judas': What's the verdict?](http://marquee.blogs.cnn.com/2011/04/16/lady-gagas-judas-whats-the-verdict/) [CNN](https://ko.wikipedia.org/wiki/CNN "wikilink")
-  - [A Line-by-Line Biblical Analysis of Lady Gaga’s ‘Judas’](http://nymag.com/daily/entertainment/2011/04/a_line-by-line_biblical_analys.html) *[뉴욕](https://ko.wikipedia.org/wiki/뉴욕 "wikilink")*
+  - [Lady Gaga's 'Judas': What's the verdict?](http://marquee.blogs.cnn.com/2011/04/16/lady-gagas-judas-whats-the-verdict/) [CNN](../Page/CNN.md "wikilink")
+  - [A Line-by-Line Biblical Analysis of Lady Gaga’s ‘Judas’](http://nymag.com/daily/entertainment/2011/04/a_line-by-line_biblical_analys.html) *[뉴욕](../Page/뉴욕.md "wikilink")*
 
 [분류:2011년 싱글](https://ko.wikipedia.org/wiki/분류:2011년_싱글 "wikilink") [분류:2011년 노래](https://ko.wikipedia.org/wiki/분류:2011년_노래 "wikilink") [분류:레이디 가가의 노래](https://ko.wikipedia.org/wiki/분류:레이디_가가의_노래 "wikilink")
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Alt.suicide.holiday](https://ko.wikipedia.org/wiki/Alt.suicide.holiday).
 
 
-**alt.suicide.holiday** (**a.s.h**, **ASH** 혹은 **ash**)는 [유즈넷](https://ko.wikipedia.org/wiki/유즈넷 "wikilink")의 [뉴스그룹](https://ko.wikipedia.org/wiki/뉴스그룹 "wikilink")이다. 본래는 자살빈도와 휴가철의 관계에 대한 토론이 목적이었으나 그 크기가 커지면서 자살충동을 느끼는 사람들과 우울한 사람들이 솔직한 그들의 생각을 나누는 곳이 되었다. 몇몇 사용자들은 자살과는 거리가 멀면서 우울한 사람들에게 도움을 주기도 한다. FAQ에 따르면 이 뉴스그룹은 관리되지 않기 때문에 악의적인 사용자들의 표적이 되고 있으며 거칠며 때로는 적대적인 분위기라고 밝히고 있다. 이 뉴스그룹의 목적은 자살을 장려하거나 막는 것이 아니다.
+**alt.suicide.holiday** (**a.s.h**, **ASH** 혹은 **ash**)는 [유즈넷](../Page/유즈넷.md "wikilink")의 [뉴스그룹](https://ko.wikipedia.org/wiki/뉴스그룹 "wikilink")이다. 본래는 자살빈도와 휴가철의 관계에 대한 토론이 목적이었으나 그 크기가 커지면서 자살충동을 느끼는 사람들과 우울한 사람들이 솔직한 그들의 생각을 나누는 곳이 되었다. 몇몇 사용자들은 자살과는 거리가 멀면서 우울한 사람들에게 도움을 주기도 한다. FAQ에 따르면 이 뉴스그룹은 관리되지 않기 때문에 악의적인 사용자들의 표적이 되고 있으며 거칠며 때로는 적대적인 분위기라고 밝히고 있다. 이 뉴스그룹의 목적은 자살을 장려하거나 막는 것이 아니다.
 
 ## 문화
 
@@ -63,7 +63,7 @@ A.s.h는 Suzy Gonzales의 자살에 영향을 미쳤는데, 그녀는 2003년에
 ## 같이 보기
 
   - [소셜 미디어와 자살](https://ko.wikipedia.org/wiki/소셜_미디어와_자살 "wikilink")
-  - [자살](https://ko.wikipedia.org/wiki/자살 "wikilink")
+  - [자살](../Page/자살.md "wikilink")
 
 ## 참조
 

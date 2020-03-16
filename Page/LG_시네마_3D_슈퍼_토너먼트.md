@@ -1,16 +1,16 @@
 > This article is converted from Wikipedia: [LG  3D  ](https://ko.wikipedia.org/wiki/LG__3D__).
 
 
-[섬네일에서](https://ko.wikipedia.org/wiki/파일:GSL_Super_tournament_final.JPG "wikilink") 치뤄진 LG 시네마 3D 슈퍼 토너먼트 결승전 현장\]\] **LG 시네마 3D 슈퍼 토너먼트**(LG Cinema 3D Super Tournament)는 [글로벌 스타크래프트 II 리그](https://ko.wikipedia.org/wiki/글로벌_스타크래프트_II_리그 "wikilink") 2011 GSL 투어의 여덟 번째 대회로 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [5월 23일에](https://ko.wikipedia.org/wiki/5월_23일 "wikilink") 개막하였다.
+[섬네일에서](https://ko.wikipedia.org/wiki/파일:GSL_Super_tournament_final.JPG "wikilink") 치뤄진 LG 시네마 3D 슈퍼 토너먼트 결승전 현장\]\] **LG 시네마 3D 슈퍼 토너먼트**(LG Cinema 3D Super Tournament)는 [글로벌 스타크래프트 II 리그](https://ko.wikipedia.org/wiki/글로벌_스타크래프트_II_리그 "wikilink") 2011 GSL 투어의 여덟 번째 대회로 [2011년](../Page/2011년.md "wikilink") [5월 23일에](../Page/5월_23일.md "wikilink") 개막하였다.
 
 ## 리그 일정
 
-  - 64강 : [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [5월 23일](https://ko.wikipedia.org/wiki/5월_23일 "wikilink") \~ [5월 31일](https://ko.wikipedia.org/wiki/5월_31일 "wikilink")
-  - 32강 : [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [6월 1일](https://ko.wikipedia.org/wiki/6월_1일 "wikilink") \~ [6월 7일](https://ko.wikipedia.org/wiki/6월_7일 "wikilink")
-  - 16강 : [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [6월 8일](https://ko.wikipedia.org/wiki/6월_8일 "wikilink"), [6월 9일](https://ko.wikipedia.org/wiki/6월_9일 "wikilink")
-  - 8강 : [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [6월 10일](https://ko.wikipedia.org/wiki/6월_10일 "wikilink"), [6월 11일](https://ko.wikipedia.org/wiki/6월_11일 "wikilink")
-  - 4강 : [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [6월 13일](https://ko.wikipedia.org/wiki/6월_13일 "wikilink")
-  - 결승 : [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [6월 18일](https://ko.wikipedia.org/wiki/6월_18일 "wikilink")
+  - 64강 : [2011년](../Page/2011년.md "wikilink") [5월 23일](../Page/5월_23일.md "wikilink") \~ [5월 31일](../Page/5월_31일.md "wikilink")
+  - 32강 : [2011년](../Page/2011년.md "wikilink") [6월 1일](../Page/6월_1일.md "wikilink") \~ [6월 7일](../Page/6월_7일.md "wikilink")
+  - 16강 : [2011년](../Page/2011년.md "wikilink") [6월 8일](../Page/6월_8일.md "wikilink"), [6월 9일](../Page/6월_9일.md "wikilink")
+  - 8강 : [2011년](../Page/2011년.md "wikilink") [6월 10일](../Page/6월_10일.md "wikilink"), [6월 11일](../Page/6월_11일.md "wikilink")
+  - 4강 : [2011년](../Page/2011년.md "wikilink") [6월 13일](../Page/6월_13일.md "wikilink")
+  - 결승 : [2011년](../Page/2011년.md "wikilink") [6월 18일](../Page/6월_18일.md "wikilink")
 
 ## 리그 방식
 
@@ -41,8 +41,8 @@
 
   - 곰TV (인터넷 방송 : 생방송, 다시 보기), (모바일 애플리케이션: 다시 보기)
   - [애니박스](../Page/애니박스.md "wikilink") ([케이블 방송](../Page/대한민국의_케이블TV_방송.md "wikilink") : 생방송)
-  - [챔프TV](https://ko.wikipedia.org/wiki/챔프TV "wikilink") ([케이블 방송](../Page/대한민국의_케이블TV_방송.md "wikilink") : 주요 경기 재방송)
-  - [olleh TV](https://ko.wikipedia.org/wiki/올레_TV "wikilink") ([IPTV](https://ko.wikipedia.org/wiki/인터넷_프로토콜_텔레비전 "wikilink") : 다시 보기)
+  - [챔프TV](../Page/챔프TV.md "wikilink") ([케이블 방송](../Page/대한민국의_케이블TV_방송.md "wikilink") : 주요 경기 재방송)
+  - [olleh TV](../Page/올레_TV.md "wikilink") ([IPTV](https://ko.wikipedia.org/wiki/인터넷_프로토콜_텔레비전 "wikilink") : 다시 보기)
 
 ## 중계진
 
@@ -55,14 +55,14 @@
 
 ## 경기장
 
-  - [서울영상고등학교](https://ko.wikipedia.org/wiki/서울영상고등학교 "wikilink") 강당 곰TV 스튜디오
+  - [서울영상고등학교](../Page/서울영상고등학교.md "wikilink") 강당 곰TV 스튜디오
 
 ## 본선 대진표
 
 ## 결과
 
   - **우승 : [최성훈](https://ko.wikipedia.org/wiki/최성훈 "wikilink")**
-  - **준우승 : [문성원](https://ko.wikipedia.org/wiki/문성원 "wikilink")**
+  - **준우승 : [문성원](../Page/문성원.md "wikilink")**
 
 ## 갤러리
 

@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [MBC](https://ko.wikipedia.org/wiki/MBC).
 
 
-**광주 MBC**는 광주·전남·전북을 가시청권으로 하는 [지상파DMB](https://ko.wikipedia.org/wiki/지상파DMB "wikilink") 방송국으로, [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [1월 28일](https://ko.wikipedia.org/wiki/1월_28일 "wikilink") 정식 개국하였다. [광주문화방송](../Page/광주문화방송.md "wikilink")이 사업자이며, [전주문화방송](../Page/전주문화방송.md "wikilink"), [목포문화방송](../Page/목포문화방송.md "wikilink"), [여수문화방송](../Page/여수문화방송.md "wikilink")과 공동으로 운영하고 있지만 2018년 12월 30일 까지 운영 하고 2018년 12월 31일 부터 본사 MY MBC DMB를 송출 한다. 현재 비디오채널 3개, 데이터채널 1개를 송출중이다.
+**광주 MBC**는 광주·전남·전북을 가시청권으로 하는 [지상파DMB](https://ko.wikipedia.org/wiki/지상파DMB "wikilink") 방송국으로, [2008년](../Page/2008년.md "wikilink") [1월 28일](../Page/1월_28일.md "wikilink") 정식 개국하였다. [광주문화방송](../Page/광주문화방송.md "wikilink")이 사업자이며, [전주문화방송](../Page/전주문화방송.md "wikilink"), [목포문화방송](../Page/목포문화방송.md "wikilink"), [여수문화방송](../Page/여수문화방송.md "wikilink")과 공동으로 운영하고 있지만 2018년 12월 30일 까지 운영 하고 2018년 12월 31일 부터 본사 MY MBC DMB를 송출 한다. 현재 비디오채널 3개, 데이터채널 1개를 송출중이다.
 
 ## 연혁
 
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [4월 10일](https://ko.wikipedia.org/wiki/4월_10일 "wikilink") : 지상파DMB 시험방송 개시
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [1월 28일](https://ko.wikipedia.org/wiki/1월_28일 "wikilink") : 지상파DMB방송국 **Honam MBC** 개국 (무등산 송신소, 모악산 송신소, 대둔산 송신소, 구봉산 송신소)
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [8월 1일](https://ko.wikipedia.org/wiki/8월_1일 "wikilink") : 임대채널 QBS+ TV 송출 중단
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [8월 26일](https://ko.wikipedia.org/wiki/8월_26일 "wikilink") : 임대채널 GS SHOP 송출 시작
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [6월 15일](https://ko.wikipedia.org/wiki/6월_15일 "wikilink") : 지상파DAB 채널 myMBC Radio 송출 중단
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [7월 1일](https://ko.wikipedia.org/wiki/7월_1일 "wikilink") : 임대채널 CJ OSHOP 송출 시작
-  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [11월 1일](https://ko.wikipedia.org/wiki/11월_1일 "wikilink") : 임대채널 GS SHOP 송출 중단
+  - [2007년](../Page/2007년.md "wikilink") [4월 10일](../Page/4월_10일.md "wikilink") : 지상파DMB 시험방송 개시
+  - [2008년](../Page/2008년.md "wikilink") [1월 28일](../Page/1월_28일.md "wikilink") : 지상파DMB방송국 **Honam MBC** 개국 (무등산 송신소, 모악산 송신소, 대둔산 송신소, 구봉산 송신소)
+  - [2010년](../Page/2010년.md "wikilink") [8월 1일](../Page/8월_1일.md "wikilink") : 임대채널 QBS+ TV 송출 중단
+  - [2014년](../Page/2014년.md "wikilink") [8월 26일](../Page/8월_26일.md "wikilink") : 임대채널 GS SHOP 송출 시작
+  - [2015년](../Page/2015년.md "wikilink") [6월 15일](../Page/6월_15일.md "wikilink") : 지상파DAB 채널 myMBC Radio 송출 중단
+  - [2015년](../Page/2015년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") : 임대채널 CJ OSHOP 송출 시작
+  - [2018년](../Page/2018년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") : 임대채널 GS SHOP 송출 중단
 
 ## 채널 구성
 
@@ -81,7 +81,7 @@
 ## 관련 보기
 
   - [디지털 멀티미디어 방송](../Page/디지털_멀티미디어_방송.md "wikilink")
-  - [U-KBS](https://ko.wikipedia.org/wiki/U-KBS "wikilink")
+  - [U-KBS](../Page/U-KBS.md "wikilink")
   - [KBC (DMB)](../Page/KBC_\(DMB\).md "wikilink")
 
 ## 참조
@@ -92,4 +92,4 @@
 
 [분류:문화방송계열 방송국](https://ko.wikipedia.org/wiki/분류:문화방송계열_방송국 "wikilink") [분류:2008년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2008년_설립된_텔레비전_방송국과_채널 "wikilink")
 
-1.  [영광군 전지역 내년 상반기 방송 '난시청 해소'](http://news.joins.com/article/19296154) 《중앙일보》, [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [12월 23일](https://ko.wikipedia.org/wiki/12월_23일 "wikilink")
+1.  [영광군 전지역 내년 상반기 방송 '난시청 해소'](http://news.joins.com/article/19296154) 《중앙일보》, [2015년](../Page/2015년.md "wikilink") [12월 23일](../Page/12월_23일.md "wikilink")

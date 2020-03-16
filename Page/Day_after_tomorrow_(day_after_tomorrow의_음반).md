@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [Day after tomorrow \(day after tomorrow \)](https://ko.wikipedia.org/wiki/Day_after_tomorrow_\(day_after_tomorrow_\)).
 
 
-**day after tomorrow**(데이 애프터 투모로우)는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [데이 애프터 투모로우의](https://ko.wikipedia.org/wiki/데이_애프터_투모로우 "wikilink") [미니 앨범이다](https://ko.wikipedia.org/wiki/미니_앨범 "wikilink").
+**day after tomorrow**(데이 애프터 투모로우)는 [일본](../Page/일본.md "wikilink")의 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [데이 애프터 투모로우의](https://ko.wikipedia.org/wiki/데이_애프터_투모로우 "wikilink") [미니 앨범이다](https://ko.wikipedia.org/wiki/미니_앨범 "wikilink").
 
-[2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [8월 7일에](https://ko.wikipedia.org/wiki/8월_7일 "wikilink") 발표되었다. 당시 이 음반은 [일본 레코드 협회의](https://ko.wikipedia.org/wiki/일본_레코드_협회 "wikilink") 차트에서 최고 10위를 차지했으며, 협회로 부터 골드 등급을 인정 받기도 했다.
+[2002년](../Page/2002년.md "wikilink") [8월 7일에](../Page/8월_7일.md "wikilink") 발표되었다. 당시 이 음반은 [일본 레코드 협회의](https://ko.wikipedia.org/wiki/일본_레코드_협회 "wikilink") 차트에서 최고 10위를 차지했으며, 협회로 부터 골드 등급을 인정 받기도 했다.
 
 ## 개요
 
 데이 애프터 투모로우의 데뷔 작품. 또한 데뷔 싱글인 「[faraway](https://ko.wikipedia.org/wiki/faraway_\(CD_싱글\) "wikilink")」은 이 작품의 리컷 싱글()이다.
 
-신인이 앨범으로 데뷔, 게다가 전곡 [타이업](https://ko.wikipedia.org/wiki/타이업 "wikilink")이 붙었다는 것은 매우 이례적이다. 「Special Thanks」중 키타노 마사토의 부분에서는 [후루이 히로히토](https://ko.wikipedia.org/wiki/후루이_히로히토 "wikilink") (古井弘人, [GARNET CROW](https://ko.wikipedia.org/wiki/가넷_크로우 "wikilink"))、[오가 요시노부](https://ko.wikipedia.org/wiki/오가_요시노부 "wikilink") (大賀好修, [OOM](https://ko.wikipedia.org/wiki/OOM "wikilink"))를 언급하고 있다.
+신인이 앨범으로 데뷔, 게다가 전곡 [타이업](https://ko.wikipedia.org/wiki/타이업 "wikilink")이 붙었다는 것은 매우 이례적이다. 「Special Thanks」중 키타노 마사토의 부분에서는 [후루이 히로히토](../Page/후루이_히로히토.md "wikilink") (古井弘人, [GARNET CROW](https://ko.wikipedia.org/wiki/가넷_크로우 "wikilink"))、[오가 요시노부](https://ko.wikipedia.org/wiki/오가_요시노부 "wikilink") (大賀好修, [OOM](https://ko.wikipedia.org/wiki/OOM "wikilink"))를 언급하고 있다.
 
 ## 수록곡
 

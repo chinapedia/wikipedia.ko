@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SHUFFLE! Love Rainbow](https://ko.wikipedia.org/wiki/SHUFFLE!_Love_Rainbow).
 
 
-《**SHUFFLE\! Love Rainbow**》는 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [4월 28일](https://ko.wikipedia.org/wiki/4월_28일 "wikilink") 발매된 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 게임 회사 [Navel](https://ko.wikipedia.org/wiki/Navel "wikilink")의 [SHUFFLE\!](https://ko.wikipedia.org/wiki/SHUFFLE! "wikilink") 시리즈 여섯 번째 작품이다.
+《**SHUFFLE\! Love Rainbow**》는 [2011년](../Page/2011년.md "wikilink") [4월 28일](../Page/4월_28일.md "wikilink") 발매된 [일본](../Page/일본.md "wikilink")의 게임 회사 [Navel](https://ko.wikipedia.org/wiki/Navel "wikilink")의 [SHUFFLE\!](https://ko.wikipedia.org/wiki/SHUFFLE! "wikilink") 시리즈 여섯 번째 작품이다.
 
 ## 개요
 
@@ -82,11 +82,11 @@
   - **Summer Again**(OP)
       - 작곡:앗쵸리케 작사:니시마타 아오이 노래:[YURIA](https://ko.wikipedia.org/wiki/YURIA "wikilink")
   - **Primary**(ED)
-      - 작곡:앗쵸리케 작사:모리바야시 아키라 노래:[하시모토 미유키](https://ko.wikipedia.org/wiki/하시모토_미유키 "wikilink")
+      - 작곡:앗쵸리케 작사:모리바야시 아키라 노래:[하시모토 미유키](../Page/하시모토_미유키.md "wikilink")
 
 ## 관련 항목
 
-  - [Navel](https://ko.wikipedia.org/wiki/네이블 "wikilink") - 제작사
+  - [Navel](../Page/네이블.md "wikilink") - 제작사
   - [SHUFFLE\! Essence+](https://ko.wikipedia.org/wiki/SHUFFLE! "wikilink") - 본편
   - [Really? Really\!](https://ko.wikipedia.org/wiki/Really?_Really! "wikilink") - 카에데 애프터의 본편
 

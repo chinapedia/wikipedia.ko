@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ MMA](https://ko.wikipedia.org/wiki/_MMA).
 
 
-**벨라토르 MMA**(Bellator MMA)은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [종합격투기](../Page/종합격투기.md "wikilink") 2위 단체다. [일리노이](https://ko.wikipedia.org/wiki/일리노이 "wikilink") [시카고](https://ko.wikipedia.org/wiki/시카고 "wikilink")에 본부를 두고 있으며, 벨라토르 스포트 월드와이드 LLC가 소유하고 있다. 벨라토르는 라틴어로 '전사'라는 뜻이다.
+**벨라토르 MMA**(Bellator MMA)은 [미국](../Page/미국.md "wikilink")의 [종합격투기](../Page/종합격투기.md "wikilink") 2위 단체다. [일리노이](https://ko.wikipedia.org/wiki/일리노이 "wikilink") [시카고](../Page/시카고.md "wikilink")에 본부를 두고 있으며, 벨라토르 스포트 월드와이드 LLC가 소유하고 있다. 벨라토르는 라틴어로 '전사'라는 뜻이다.
 
 ## 역사
 
@@ -15,7 +15,7 @@
 
 ## 규칙
 
-현재 벨라토르의 규칙은 [종합격투기 통합 규정에](https://ko.wikipedia.org/wiki/종합격투기_통합_규정 "wikilink") 기반을 두고 있다. 1위 단체 [얼티밋 파이팅 챔피언십의](../Page/얼티밋_파이팅_챔피언십.md "wikilink") 팔각 철창, 2위 단체 [스트라이크포스](https://ko.wikipedia.org/wiki/스트라이크포스 "wikilink")의 육각 철창과 다르게 원형 철창 안에서 경기가 진행된다.
+현재 벨라토르의 규칙은 [종합격투기 통합 규정에](https://ko.wikipedia.org/wiki/종합격투기_통합_규정 "wikilink") 기반을 두고 있다. 1위 단체 [얼티밋 파이팅 챔피언십의](../Page/얼티밋_파이팅_챔피언십.md "wikilink") 팔각 철창, 2위 단체 [스트라이크포스](../Page/스트라이크포스.md "wikilink")의 육각 철창과 다르게 원형 철창 안에서 경기가 진행된다.
 
 ### 토너먼트 규칙
 
@@ -25,13 +25,13 @@
 
 현재 BFC는 여덟 개 체급을 사용하고 있다. 체급 분류는 [네바다 주 체육 위원회의](https://ko.wikipedia.org/wiki/네바다_주_체육_위원회 "wikilink") 기준을 따르고 있다.
 
-  - [밴텀급](https://ko.wikipedia.org/wiki/밴텀급_\(종합격투기\) "wikilink"): 126 \~ 135 파운드 (\~ 61.2 킬로그램)
-  - [페더급](https://ko.wikipedia.org/wiki/페더급_\(종합격투기\) "wikilink"): 136 \~ 145 파운드 (\~ 65.8 킬로그램)
-  - [라이트급](https://ko.wikipedia.org/wiki/라이트급_\(종합격투기\) "wikilink"): 146 \~ 155 파운드 (\~ 70.3 킬로그램)
-  - [웰터급](https://ko.wikipedia.org/wiki/웰터급_\(종합격투기\) "wikilink"): 156 \~ 170 파운드 (\~ 77.1 킬로그램)
-  - [미들급](https://ko.wikipedia.org/wiki/미들급_\(종합격투기\) "wikilink"): 171 \~ 185 파운드 (\~ 83.9 킬로그램)
-  - [라이트헤비급](https://ko.wikipedia.org/wiki/라이트헤비급_\(종합격투기\) "wikilink"): 186 \~ 205 파운드 (\~ 93.0 킬로그램)
-  - [헤비급](https://ko.wikipedia.org/wiki/헤비급_\(종합격투기\) "wikilink"): 206 \~ 265 파운드 (\~ 120.2 킬로그램)
+  - [밴텀급](../Page/밴텀급_\(종합격투기\).md "wikilink"): 126 \~ 135 파운드 (\~ 61.2 킬로그램)
+  - [페더급](../Page/페더급_\(종합격투기\).md "wikilink"): 136 \~ 145 파운드 (\~ 65.8 킬로그램)
+  - [라이트급](../Page/라이트급_\(종합격투기\).md "wikilink"): 146 \~ 155 파운드 (\~ 70.3 킬로그램)
+  - [웰터급](../Page/웰터급_\(종합격투기\).md "wikilink"): 156 \~ 170 파운드 (\~ 77.1 킬로그램)
+  - [미들급](../Page/미들급_\(종합격투기\).md "wikilink"): 171 \~ 185 파운드 (\~ 83.9 킬로그램)
+  - [라이트헤비급](../Page/라이트헤비급_\(종합격투기\).md "wikilink"): 186 \~ 205 파운드 (\~ 93.0 킬로그램)
+  - [헤비급](../Page/헤비급_\(종합격투기\).md "wikilink"): 206 \~ 265 파운드 (\~ 120.2 킬로그램)
   - 여자부 플라이급: 100 \~ 115 파운드 (\~ 52.2 킬로그램)
 
 ## 토너먼트 결과
@@ -575,14 +575,14 @@
 <td><p>헤비급</p></td>
 <td><p>120.2 kg</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/비탈리_미나코프" title="wikilink">비탈리 미나코프</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2013년" title="wikilink">2013년</a> <a href="https://ko.wikipedia.org/wiki/11월_15일" title="wikilink">11월 15일</a> (벨라토르 108)</p></td>
+<td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/11월_15일.md" title="wikilink">11월 15일</a> (벨라토르 108)</p></td>
 <td><p>1회</p></td>
 </tr>
 <tr class="even">
 <td><p>라이트헤비급</p></td>
 <td><p>93.0 kg</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/리암_맥기어리" title="wikilink">리암 맥기어리</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2015년" title="wikilink">2015년</a> <a href="https://ko.wikipedia.org/wiki/2월_27일" title="wikilink">2월 27일</a> (벨라토르 134)</p></td>
+<td><p><a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/2월_27일.md" title="wikilink">2월 27일</a> (벨라토르 134)</p></td>
 <td><p>0회</p></td>
 </tr>
 <tr class="odd">
@@ -596,28 +596,28 @@
 <td><p>웰터급</p></td>
 <td><p>77.1 kg</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/더글라스_리마" title="wikilink">더글라스 리마</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2014년" title="wikilink">2014년</a> <a href="https://ko.wikipedia.org/wiki/4월_18일" title="wikilink">4월 18일</a> (벨라토르 117)</p></td>
+<td><p><a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/4월_18일.md" title="wikilink">4월 18일</a> (벨라토르 117)</p></td>
 <td><p>0회</p></td>
 </tr>
 <tr class="odd">
 <td><p>라이트급</p></td>
 <td><p>70.3 kg</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/윌_브룩스" title="wikilink">윌 브룩스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2014년" title="wikilink">2014년</a> <a href="https://ko.wikipedia.org/wiki/11월_15일" title="wikilink">11월 15일</a> (벨라토르 131)</p></td>
+<td><p><a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/11월_15일.md" title="wikilink">11월 15일</a> (벨라토르 131)</p></td>
 <td><p>1회</p></td>
 </tr>
 <tr class="even">
 <td><p>페더급</p></td>
 <td><p>65.8 kg</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파트리시오_프레이레" title="wikilink">파트리시오 프레이레</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2014년" title="wikilink">2014년</a> <a href="https://ko.wikipedia.org/wiki/9월_5일" title="wikilink">9월 5일</a> (벨라토르 123)</p></td>
+<td><p><a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/9월_5일.md" title="wikilink">9월 5일</a> (벨라토르 123)</p></td>
 <td><p>2회</p></td>
 </tr>
 <tr class="odd">
 <td><p>밴텀급</p></td>
 <td><p>61.2 kg</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/마르코스_갈벙" title="wikilink">마르코스 갈벙</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2015년" title="wikilink">2015년</a> <a href="https://ko.wikipedia.org/wiki/3월_27일" title="wikilink">3월 27일</a> (벨라토르 135)</p></td>
+<td><p><a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/3월_27일.md" title="wikilink">3월 27일</a> (벨라토르 135)</p></td>
 <td><p>0회</p></td>
 </tr>
 </tbody>
@@ -625,7 +625,7 @@
 
 ## 같이 보기
 
-  - [BFC 대회 목록](https://ko.wikipedia.org/wiki/BFC_대회_목록 "wikilink")
+  - [BFC 대회 목록](../Page/BFC_대회_목록.md "wikilink")
 
 ## 외부 링크
 

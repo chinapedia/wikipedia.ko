@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Miwa](https://ko.wikipedia.org/wiki/Miwa).
 
 
-**miwa**(미와, [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink") [6월 15일](https://ko.wikipedia.org/wiki/6월_15일 "wikilink") \~ )는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [여성](../Page/여성.md "wikilink") [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink"), [여배우](../Page/배우.md "wikilink"). [가나가와현](https://ko.wikipedia.org/wiki/가나가와현 "wikilink") [미우라 군](https://ko.wikipedia.org/wiki/미우라_군 "wikilink") [하야마 정에서](https://ko.wikipedia.org/wiki/하야마_정 "wikilink") 태어나 [도쿄도](https://ko.wikipedia.org/wiki/도쿄도 "wikilink") 에서 자랐다. [혈액형](https://ko.wikipedia.org/wiki/혈액형 "wikilink")은 [A형](https://ko.wikipedia.org/wiki/A형 "wikilink").\[1\] [게이오기주쿠 대학](https://ko.wikipedia.org/wiki/게이오기주쿠_대학 "wikilink") 상학부를 졸업했다. [신장](https://ko.wikipedia.org/wiki/키 "wikilink") 148.9cm. 소속 [레코드 회사는](https://ko.wikipedia.org/wiki/온라인_음악_서비스 "wikilink") [Sony Records](https://ko.wikipedia.org/wiki/소니_뮤직_레코드 "wikilink"). [소속사는](https://ko.wikipedia.org/wiki/연예_기획사 "wikilink") 트라이스톤 엔터테인먼트.\[2\] 공식 팬클럽은 〈yaneura-no-neko 〉.
+**miwa**(미와, [1990년](../Page/1990년.md "wikilink") [6월 15일](../Page/6월_15일.md "wikilink") \~ )는 [일본](../Page/일본.md "wikilink")의 [여성](../Page/여성.md "wikilink") [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink"), [여배우](../Page/배우.md "wikilink"). [가나가와현](../Page/가나가와현.md "wikilink") [미우라 군](https://ko.wikipedia.org/wiki/미우라_군 "wikilink") [하야마 정에서](https://ko.wikipedia.org/wiki/하야마_정 "wikilink") 태어나 [도쿄도](../Page/도쿄도.md "wikilink") 에서 자랐다. [혈액형](../Page/혈액형.md "wikilink")은 [A형](https://ko.wikipedia.org/wiki/A형 "wikilink").\[1\] [게이오기주쿠 대학](../Page/게이오기주쿠_대학.md "wikilink") 상학부를 졸업했다. [신장](../Page/키.md "wikilink") 148.9cm. 소속 [레코드 회사는](https://ko.wikipedia.org/wiki/온라인_음악_서비스 "wikilink") [Sony Records](https://ko.wikipedia.org/wiki/소니_뮤직_레코드 "wikilink"). [소속사는](https://ko.wikipedia.org/wiki/연예_기획사 "wikilink") 트라이스톤 엔터테인먼트.\[2\] 공식 팬클럽은 〈yaneura-no-neko 〉.
 
 ## 음반 작품
 
@@ -31,7 +31,7 @@
 <td><p>1</p></td>
 <td><p>2007년 12월 24일</p></td>
 <td><p>Song for you/TODAY</p></td>
-<td><p>12cm<a href="https://ko.wikipedia.org/wiki/콤팩트_디스크" title="wikilink">CD</a></p></td>
+<td><p>12cm<a href="../Page/콤팩트_디스크.md" title="wikilink">CD</a></p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
@@ -121,7 +121,7 @@
 <td><p>2010년 6월 23일</p></td>
 <td><p><br />
 <small>리틀 걸</small></p></td>
-<td><p>CD+<a href="https://ko.wikipedia.org/wiki/DVD" title="wikilink">DVD</a></p></td>
+<td><p>CD+<a href="../Page/DVD.md" title="wikilink">DVD</a></p></td>
 <td><p>SRCL-7303/4</p></td>
 <td><p>18위</p></td>
 </tr>
@@ -512,12 +512,12 @@
 
 ### 영화
 
-  - 마에스트로\! (2015년, [쇼치쿠](https://ko.wikipedia.org/wiki/쇼치쿠 "wikilink")/아스믹 에이스) - 타치바나 아마네 역
+  - 마에스트로\! (2015년, [쇼치쿠](../Page/쇼치쿠.md "wikilink")/아스믹 에이스) - 타치바나 아마네 역
   - [너와 100번째 사랑](../Page/너와_100번째_사랑.md "wikilink") (2017년, 아스믹 에이스) - 주연·아오이 역
 
 ### 드라마
 
-  - [홍백이 태어난 날](../Page/홍백이_태어난_날.md "wikilink") (2015년 3월 21일, [NHK](https://ko.wikipedia.org/wiki/일본방송협회 "wikilink")) - 나미키 미치코 역
+  - [홍백이 태어난 날](../Page/홍백이_태어난_날.md "wikilink") (2015년 3월 21일, [NHK](../Page/일본방송협회.md "wikilink")) - 나미키 미치코 역
   - [민왕](https://ko.wikipedia.org/wiki/민왕_\(소설\)#텔레비전_드라마 "wikilink") 엔딩 (2015년 7월 \~ 9월, [TV 아사히](../Page/TV_아사히.md "wikilink")) - [카메오 출연](https://ko.wikipedia.org/wiki/카메오_출연 "wikilink")
 
 ## 각주
