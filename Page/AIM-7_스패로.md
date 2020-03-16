@@ -3,7 +3,7 @@
 
 **AIM-7 스패로**(AIM-7 Sparrow)는 미공군, 미해군, 미해병대와 여러 동맹국 공군에서 운용중인 중거리 세미 액티브 레이다 호밍 공대공 미사일이다. 스패로와 그 개량형은 [1950년대](../Page/1950년대.md "wikilink") 후반부터 [1990년대](../Page/1990년대.md "wikilink")까지 서방의 주요한 비가시거리(BVR: beyond visual range) [공대공 미사일이었다](https://ko.wikipedia.org/wiki/공대공_미사일 "wikilink").
 
-스패로는 아직도 운용중이지만, 보다 고성능인 [AIM-120 암람의](https://ko.wikipedia.org/wiki/AIM-120_암람 "wikilink") 등장으로 점점 사라져가고 있다.
+스패로는 아직도 운용중이지만, 보다 고성능인 [AIM-120 암람의](../Page/AIM-120_암람.md "wikilink") 등장으로 점점 사라져가고 있다.
 
 스패로를 사용하는 주요 함재기로는 [F-14 톰캣이](https://ko.wikipedia.org/wiki/F-14_톰캣 "wikilink") 있었는데, 전량 퇴역하여 지금은 사용하지 않고 있다.
 
@@ -34,7 +34,7 @@
 
   - [AIM-9 사이드와인더](../Page/AIM-9_사이드와인더.md "wikilink")
   - [AIM-54 피닉스](../Page/AIM-54_피닉스.md "wikilink")
-  - [AIM-120 암람](https://ko.wikipedia.org/wiki/AIM-120_암람 "wikilink")
+  - [AIM-120 암람](../Page/AIM-120_암람.md "wikilink")
   - [미사일 목록](https://ko.wikipedia.org/wiki/미사일_목록 "wikilink")
 
 ## 각주

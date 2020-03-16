@@ -113,7 +113,7 @@
 
 ## 관련 항목
 
-  - [로드 오브 메이저](https://ko.wikipedia.org/wiki/로드_오브_메이저 "wikilink") - 친구인 [록](https://ko.wikipedia.org/wiki/록 "wikilink") [밴드](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink")
+  - [로드 오브 메이저](../Page/로드_오브_메이저.md "wikilink") - 친구인 [록](https://ko.wikipedia.org/wiki/록 "wikilink") [밴드](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink")
   - [동경사변](https://ko.wikipedia.org/wiki/동경사변 "wikilink") - 프로듀서인 [가메다 세이지가](https://ko.wikipedia.org/wiki/가메다_세이지 "wikilink") 소속되어 있는 록 밴드.
 
 ## 외부 링크

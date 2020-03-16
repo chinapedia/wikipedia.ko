@@ -11,7 +11,7 @@
 
 본래 SS-V 사단은 초기 4개 SS연대(SS-Standarten) 중 3개인 SS 도이칠란트(Deutschland), SS 게르마니아(Germania), SS 데어 퓌러(Der Fuehrer)로 구성되어 있었다. [SS전투부대](https://ko.wikipedia.org/wiki/SS전투부대 "wikilink") 소속이 아니었던 [라이프슈탄르테 아돌프 히틀러는](https://ko.wikipedia.org/wiki/1_SS기갑사단_LSSAH "wikilink") 독자적으로 발전했다. 서부 전역 종료 후 SS-V 사단은 재편성되었다. SS 게르마니아 연대는 사단에서 차출되어 SS 노르트란트 연대(SS-Standarte Nordland), SS 베스트란트 연대(SS-Standarte Westland)와 함께 다른 SS사단의 기간 부대가 되었다. 게르마니아 연대를 기간으로 [제5 SS 차량화 보병 사단 비킹이](https://ko.wikipedia.org/wiki/5_SS기갑사단_비킹 "wikilink") 편성되었다. 게르마니아의 차출로 SS-V 사단에 제11 SS 보병 연대로 개편된 SS 토텐코프 연대가 배치되었다. 직후 사단명이 SS-V 에서 **도이칠란트**(Deutschland)로 변경되었고, 얼마 지나지 않아 **Reich**(제국)으로 재변경되었다.
 
-프랑스 함락 후 사단은 영국 침공 작전인 [바다사자 작전을](../Page/바다사자_작전.md "wikilink") 준비하기 위해 프랑스에 주둔했다. 그러나 [영국 본토 항공전에서](https://ko.wikipedia.org/wiki/영국_본토_항공전 "wikilink") [독일 공군이](../Page/독일_공군.md "wikilink") 대패한 후 바다사자 작전은 취소되었고, 이제는 **라이히**라 불리게 된 사단은 [1941년](../Page/1941년.md "wikilink") 3월 [유고슬라비아](../Page/유고슬라비아.md "wikilink") 및 [그리스](../Page/그리스.md "wikilink") 침공 작전에 참가하기 위해 [루마니아](../Page/루마니아.md "wikilink")로 이동했다.
+프랑스 함락 후 사단은 영국 침공 작전인 [바다사자 작전을](../Page/바다사자_작전.md "wikilink") 준비하기 위해 프랑스에 주둔했다. 그러나 [영국 본토 항공전에서](../Page/영국_본토_항공전.md "wikilink") [독일 공군이](../Page/독일_공군.md "wikilink") 대패한 후 바다사자 작전은 취소되었고, 이제는 **라이히**라 불리게 된 사단은 [1941년](../Page/1941년.md "wikilink") 3월 [유고슬라비아](../Page/유고슬라비아.md "wikilink") 및 [그리스](../Page/그리스.md "wikilink") 침공 작전에 참가하기 위해 [루마니아](../Page/루마니아.md "wikilink")로 이동했다.
 
 [1941년](../Page/1941년.md "wikilink") [4월 12일](../Page/4월_12일.md "wikilink") 아침 [프리츠 클링엔베르크](https://ko.wikipedia.org/wiki/프리츠_클링엔베르크 "wikilink") SS대위와 휘하 모터사이클 중대는 [다뉴브 강](https://ko.wikipedia.org/wiki/다뉴브_강 "wikilink") 기슭의 [판체보](../Page/판체보.md "wikilink")(Pancevo)를 거쳐 [베오그라드](../Page/베오그라드.md "wikilink")에 도착했다. 클링엔베르크는 시내로 진입할 방법 때문에 걱정했다. 불어오른 강과 직접 공격이 불가능한 다리 때문이었다. 모터사이클 중대는 다리를 가설하는 데 필요한 장비는 물론이고 뗏목조차 없었던 것이다.
 
@@ -27,7 +27,7 @@
 
 1943년 초 사단은 [하리코프](https://ko.wikipedia.org/wiki/하리코프 "wikilink") 근방에서 붕괴 중인 중앙 전선을 보강하기 위해 동부 전선으로 돌아왔다. 하리코프 탈환에 조력한 후, 사단은 [쿠르스크](../Page/쿠르스크.md "wikilink") 지구를 둘러싼 소련군의 거대한 돌출부인 쿠르스크 돌출부를 목표로 한 대규모 공세에 투입되었다. 사단은 돌출부 남쪽에서 64 킬로미터 이르는 종심을 돌파했지만 그에 따른 손실도 만만치 않았다. 시칠리아 섬에 서방 연합군이 상륙했다는 보고를 받은 히틀러는 [만슈타인](../Page/에리히_폰_만슈타인.md "wikilink") 원수의 반대에도 불구하고 공세를 중단시켰고, 그에 다스 라이히는 SS 사단들과 함께 후퇴할 수밖에 없었다. 짧은 전투 후 다스 라이히는 다시 개편되었고, 이번에는 SS 기갑사단 "다스 라이히"가 되었다. 다스 라이히 전투단이라 명명된 사단 일부가 동부 전선에 남았다. (전투단의 공식 명칭은 람머딩 전투단이었다.) 사단 본대는 재편성을 위해 서부 유럽으로 이동했고, 프랑스에서 재편성을 취하면서 파르티잔 토벌 임무에 종사했다.
 
-[1943년](../Page/1943년.md "wikilink")과 [1944년](../Page/1944년.md "wikilink") 겨울 [한스 발렌틴 후베](https://ko.wikipedia.org/wiki/한스_발렌틴_후베 "wikilink") 상급대장의 [제1 기갑군이](https://ko.wikipedia.org/wiki/독일_1_기갑군 "wikilink") 소련군의 대규모 역공세로 포위되었다. 다스 라이히 전투단 또한 이 소련군의 공세로 인해 포위망에 빠졌다. 다스 라이히 전투단은 [제9 SS 기갑 사단 호헨슈타우펜과](https://ko.wikipedia.org/wiki/9_SS기갑사단_호헨슈타우펜 "wikilink") [제10 SS 기갑 사단 프룬츠베르크로](https://ko.wikipedia.org/wiki/10_SS기갑사단_프룬츠베르크 "wikilink") 재편성된 [파울 하우서](https://ko.wikipedia.org/wiki/파울_하우서 "wikilink") SS대장의 [제2 SS 기갑 군단의](https://ko.wikipedia.org/wiki/2_SS기갑군단 "wikilink") 분전으로 포위망에서 탈출했다. 포위망에서 벗어난 전투단은 사단과 합류하기 위해 본대가 주둔 중인 프랑스로 이동했다. 단, 바이딩어 전투단이라 명명된 소규모 전투단이 동부 전선에 남겨졌다.
+[1943년](../Page/1943년.md "wikilink")과 [1944년](../Page/1944년.md "wikilink") 겨울 [한스 발렌틴 후베](https://ko.wikipedia.org/wiki/한스_발렌틴_후베 "wikilink") 상급대장의 [제1 기갑군이](https://ko.wikipedia.org/wiki/독일_1_기갑군 "wikilink") 소련군의 대규모 역공세로 포위되었다. 다스 라이히 전투단 또한 이 소련군의 공세로 인해 포위망에 빠졌다. 다스 라이히 전투단은 [제9 SS 기갑 사단 호헨슈타우펜과](https://ko.wikipedia.org/wiki/9_SS기갑사단_호헨슈타우펜 "wikilink") [제10 SS 기갑 사단 프룬츠베르크로](https://ko.wikipedia.org/wiki/10_SS기갑사단_프룬츠베르크 "wikilink") 재편성된 [파울 하우서](../Page/파울_하우서.md "wikilink") SS대장의 [제2 SS 기갑 군단의](https://ko.wikipedia.org/wiki/2_SS기갑군단 "wikilink") 분전으로 포위망에서 탈출했다. 포위망에서 벗어난 전투단은 사단과 합류하기 위해 본대가 주둔 중인 프랑스로 이동했다. 단, 바이딩어 전투단이라 명명된 소규모 전투단이 동부 전선에 남겨졌다.
 
 장기간에 걸친 동부 전선에서의 전투 후 [1944년](../Page/1944년.md "wikilink") [2월](../Page/2월.md "wikilink") 재편성을 위해 후방으로 물러난 사단 본대는 장비와 병력을 보충받기 위해 프랑스 남부에 위치한 [툴루즈](../Page/툴루즈.md "wikilink")(Toulouse) [몽토방](../Page/몽토방.md "wikilink")(Montauban) 마을에 주둔했다. 서방 연합군의 [노르망디 상륙작전으로](https://ko.wikipedia.org/wiki/노르망디_상륙작전 "wikilink") 사단은 다시 활동에 들어가게 되었고, 수비선을 구축하기 위해 [제12 SS 기갑 사단 히틀러유겐트](https://ko.wikipedia.org/wiki/12_SS기갑사단_히틀러유겐트 "wikilink"), [기갑 교도 사단과](https://ko.wikipedia.org/wiki/독일_교도기갑사단 "wikilink") 함께 [캉](../Page/캉.md "wikilink") 북부 전선에 투입되었다.
 
@@ -59,7 +59,7 @@
 |                                                                           |        |               |               |
 | :-----------------------------------------------------------------------: | :----: | :-----------: | :-----------: |
 |                                    이름                                     |   계급   |     임기 시작     |     임기 종료     |
-|         [파울 하우서](https://ko.wikipedia.org/wiki/파울_하우서 "wikilink")         | SS상급대장 | 1939년 10월 19일 | 1941년 10월 14일 |
+|                  [파울 하우서](../Page/파울_하우서.md "wikilink")                   | SS상급대장 | 1939년 10월 19일 | 1941년 10월 14일 |
 |       [빌헬름 비트리히](https://ko.wikipedia.org/wiki/빌헬름_비트리히 "wikilink")       |  SS대장  | 1941년 10월 14일 | 1941년 12월 31일 |
 | [마티아스 클라인하이스터캄프](https://ko.wikipedia.org/wiki/마티아스_클라인하이스터캄프 "wikilink") |  SS대장  | 1941년 12월 31일 | 1942년 4월 19일  |
 |       [게오르그 케플러](https://ko.wikipedia.org/wiki/게오르그_케플러 "wikilink")       |  SS중장  | 1942년 4월 19일  | 1943년 2월 10일  |

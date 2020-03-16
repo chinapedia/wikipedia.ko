@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JtL](https://ko.wikipedia.org/wiki/JtL).
 
 
-**jtL**(제이티엘)은 그룹 [H.O.T.](../Page/H.O.T..md "wikilink")로 활약했던 [장우혁](https://ko.wikipedia.org/wiki/장우혁 "wikilink"), [토니 안](../Page/토니_안.md "wikilink"), [이재원이](https://ko.wikipedia.org/wiki/이재원_\(가수\) "wikilink") 2001년 결성한 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") 3인조 프로젝트 그룹이다.
+**jtL**(제이티엘)은 그룹 [H.O.T.](../Page/H.O.T..md "wikilink")로 활약했던 [장우혁](../Page/장우혁.md "wikilink"), [토니 안](../Page/토니_안.md "wikilink"), [이재원이](../Page/이재원_\(가수\).md "wikilink") 2001년 결성한 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") 3인조 프로젝트 그룹이다.
 
 2년간 두 장의 정규앨범, 한장의 스페셜 앨범 발표 후 (예전 미디어와 계약할 당시의 조건) 각자의 길을 가게 된다. 사실상 해체라는 기사와는 달리 멤버들은 "당초부터 프로젝트 그룹이었다."고 전하면서 해체설을 일축한 바 있다.
 

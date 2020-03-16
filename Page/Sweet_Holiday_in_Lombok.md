@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Sweet Holiday in Lombok](https://ko.wikipedia.org/wiki/Sweet_Holiday_in_Lombok).
 
 
-《**Sweet Holiday in Lombok**》은 가수 [이수영](../Page/이수영.md "wikilink")의 비정규 앨범이다. 전 앨범이었던 《[My Stay in Sendai](https://ko.wikipedia.org/wiki/My_Stay_in_Sendai "wikilink")》의 인기에 힘입어 발매된 베스트 앨범으로 기존 이수영의 유명곡들과 신곡 세 곡을 수록하였다. 〈Farewell Blues II〉는 3집 《[Made in Winter](https://ko.wikipedia.org/wiki/Made_in_Winter "wikilink")》에서 수록된〈Farewell Blues〉와 비슷한 전개를 하고 있으나 후렴구가 다른 곡이다.
+《**Sweet Holiday in Lombok**》은 가수 [이수영](../Page/이수영.md "wikilink")의 비정규 앨범이다. 전 앨범이었던 《[My Stay in Sendai](../Page/My_Stay_in_Sendai.md "wikilink")》의 인기에 힘입어 발매된 베스트 앨범으로 기존 이수영의 유명곡들과 신곡 세 곡을 수록하였다. 〈Farewell Blues II〉는 3집 《[Made in Winter](../Page/Made_in_Winter.md "wikilink")》에서 수록된〈Farewell Blues〉와 비슷한 전개를 하고 있으나 후렴구가 다른 곡이다.
 
 ## 첫 번째 싱글
 

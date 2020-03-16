@@ -638,11 +638,11 @@ loop:   CMP  Ri, Rj         ; set condition "NE" if (i != j),
 
 ## 마이크로컨트롤러 타입
 
-일부 [마이크로컨트롤러](../Page/마이크로컨트롤러.md "wikilink")유닛인 MCU타입 보드는 [아두이노 IDE에서의](https://ko.wikipedia.org/wiki/아두이노_IDE "wikilink") 개발환경을 공식적으로 지원한다.\[4\]\[5\]
+일부 [마이크로컨트롤러](../Page/마이크로컨트롤러.md "wikilink")유닛인 MCU타입 보드는 [아두이노 IDE에서의](../Page/아두이노_IDE.md "wikilink") 개발환경을 공식적으로 지원한다.\[4\]\[5\]
 
 ## 아두이노 보드
 
-MCU타입 보드인 cortex-M4칩을 장착한 [ST社의](../Page/ST마이크로일렉트로닉스.md "wikilink") [STM32](https://ko.wikipedia.org/wiki/STM32 "wikilink") NUCLEO-F303K8는 오픈 소스 하드웨어인 [아두이노](../Page/아두이노.md "wikilink") 나노 보드와 헤더배치에서 호환되도록 설계되었다.\[6\]\[7\] 한편 cortex-M4칩은 [FPU](https://ko.wikipedia.org/wiki/FPU "wikilink")를 포함한 32비트 [CPU](https://ko.wikipedia.org/wiki/CPU "wikilink")이다.
+MCU타입 보드인 cortex-M4칩을 장착한 [ST社의](../Page/ST마이크로일렉트로닉스.md "wikilink") [STM32](../Page/STM32.md "wikilink") NUCLEO-F303K8는 오픈 소스 하드웨어인 [아두이노](../Page/아두이노.md "wikilink") 나노 보드와 헤더배치에서 호환되도록 설계되었다.\[6\]\[7\] 한편 cortex-M4칩은 [FPU](https://ko.wikipedia.org/wiki/FPU "wikilink")를 포함한 32비트 [CPU](https://ko.wikipedia.org/wiki/CPU "wikilink")이다.
 
 ## 싱글보드컴퓨터
 

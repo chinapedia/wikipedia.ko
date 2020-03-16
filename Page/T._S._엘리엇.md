@@ -19,7 +19,7 @@
 
 [1917년](../Page/1917년.md "wikilink") 시집 《프루프록 및 그 밖의 관찰》, [1922년](../Page/1922년.md "wikilink") 시 〈[황무지](../Page/황무지_\(시\).md "wikilink")〉를 발표하여 젊은 시인들에게 많은 영향을 끼쳤다. 그의 초기의 시는 영국 형이상학 시와 프랑스 상징주의 시에서 많은 영향을 받았으며 현대 문명의 퇴폐성을 그리고 있다.
 
-[1927년](../Page/1927년.md "wikilink") 영국에 귀화하여 유니테리언에서 [성공회](https://ko.wikipedia.org/wiki/성공회 "wikilink")로 개종하였다. 그는 스스로 문학은 [고전주의](../Page/고전주의.md "wikilink"), 정치는 왕당파, 종교는 앵글로 가톨릭(성공회의 [가톨릭](../Page/가톨릭.md "wikilink") 전통을 중시하는 [신학](../Page/신학.md "wikilink")조류→[고교회파](https://ko.wikipedia.org/wiki/고교회파 "wikilink"))노선의 성공회라고 스스로 말하고 있다.
+[1927년](../Page/1927년.md "wikilink") 영국에 귀화하여 유니테리언에서 [성공회](../Page/성공회.md "wikilink")로 개종하였다. 그는 스스로 문학은 [고전주의](../Page/고전주의.md "wikilink"), 정치는 왕당파, 종교는 앵글로 가톨릭(성공회의 [가톨릭](../Page/가톨릭.md "wikilink") 전통을 중시하는 [신학](../Page/신학.md "wikilink")조류→[고교회파](https://ko.wikipedia.org/wiki/고교회파 "wikilink"))노선의 성공회라고 스스로 말하고 있다.
 
 [1948년](../Page/1948년.md "wikilink") [노벨 문학상을](../Page/노벨_문학상.md "wikilink") 받았다.
 

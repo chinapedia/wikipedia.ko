@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SSM-700K ](https://ko.wikipedia.org/wiki/SSM-700K_).
 
 
-**SSM-700K해성**은 [대한민국](../Page/대한민국.md "wikilink")이 국내 기술로 독자 개발에 성공한 [함대함 순항 미사일이다](https://ko.wikipedia.org/wiki/함대함_순항_미사일 "wikilink"). [국방과학연구소](https://ko.wikipedia.org/wiki/국방과학연구소 "wikilink")(ADD)가 개발을 총주관하고 [LIG넥스원](../Page/LIG넥스원.md "wikilink")이 시제종합 업체로 참여했다. \[PCC\] 이상급 해군 함정에 장착, 운용되고 있다. 사거리 1,000km에 이르는 순항미사일인 함대지형([해성-2](https://ko.wikipedia.org/wiki/해성-2 "wikilink")), 잠대지형([해성-3](https://ko.wikipedia.org/wiki/해성-3 "wikilink")) 이 있으며, 적 종심을 원거리에서 정확하게 타격할 수 있다. 잠대지형은 건조가 시작되어 2020년대에 모두 9척이 운용될 3,000톤급 [장보고 3급 잠수함의](https://ko.wikipedia.org/wiki/장보고_3급_잠수함 "wikilink") 수직발사대에서 발사 운용이 가능하다.
+**SSM-700K해성**은 [대한민국](../Page/대한민국.md "wikilink")이 국내 기술로 독자 개발에 성공한 [함대함 순항 미사일이다](https://ko.wikipedia.org/wiki/함대함_순항_미사일 "wikilink"). [국방과학연구소](../Page/국방과학연구소.md "wikilink")(ADD)가 개발을 총주관하고 [LIG넥스원](../Page/LIG넥스원.md "wikilink")이 시제종합 업체로 참여했다. \[PCC\] 이상급 해군 함정에 장착, 운용되고 있다. 사거리 1,000km에 이르는 순항미사일인 함대지형([해성-2](https://ko.wikipedia.org/wiki/해성-2 "wikilink")), 잠대지형([해성-3](https://ko.wikipedia.org/wiki/해성-3 "wikilink")) 이 있으며, 적 종심을 원거리에서 정확하게 타격할 수 있다. 잠대지형은 건조가 시작되어 2020년대에 모두 9척이 운용될 3,000톤급 [장보고 3급 잠수함의](https://ko.wikipedia.org/wiki/장보고_3급_잠수함 "wikilink") 수직발사대에서 발사 운용이 가능하다.
 
 ## 연혁
 
@@ -22,7 +22,7 @@
   - [1996년](../Page/1996년.md "wikilink") 해성 개발사업에 착수.
   - [2003년](../Page/2003년.md "wikilink") 해성 개발 완료.
   - [2003년](../Page/2003년.md "wikilink") [8월 21일](../Page/8월_21일.md "wikilink") 해성 시험발사 성공. 70여km 떨어진 표적함(구형 훈련함)에 정확히 명중.
-      - 대한민국군의 한 고위 소식통은 2003년 8월 25일 "[국방과학연구소](https://ko.wikipedia.org/wiki/국방과학연구소 "wikilink") 등이 90년대 중반부터 개발해온 사정거리 150여 km의 함대함미사일 시험발사에 지난 21일 성공했다"고 밝혔다. 미사일은 동해상 시험장에 배치된 해군 \[PCC\] [영주함](https://ko.wikipedia.org/wiki/영주함 "wikilink")에서 발사돼 70여km 떨어진 표적함으로 개조한 \[경남함\]에 정확히 명중한 것으로 전해졌다.\[2\]
+      - 대한민국군의 한 고위 소식통은 2003년 8월 25일 "[국방과학연구소](../Page/국방과학연구소.md "wikilink") 등이 90년대 중반부터 개발해온 사정거리 150여 km의 함대함미사일 시험발사에 지난 21일 성공했다"고 밝혔다. 미사일은 동해상 시험장에 배치된 해군 \[PCC\] [영주함](https://ko.wikipedia.org/wiki/영주함 "wikilink")에서 발사돼 70여km 떨어진 표적함으로 개조한 \[경남함\]에 정확히 명중한 것으로 전해졌다.\[2\]
 
 <!-- end list -->
 
@@ -78,7 +78,7 @@ INS(Inertial Navigation System, 주항법)와 GPS(Global Positioning System, 보
 
 2015년 11월 18일 [미국 국무부는](../Page/미국_국무부.md "wikilink") 1억 1000만달러(약 1280억원)에 UGM-84L 하푼 블록 II 18발을 한국에 수출허가했다. 잠수함에서 함정이나 지상의 목표물을 공격할 수 있고, 사거리도 기존에 배치된 것보다 2배 늘어난 248 km이다.\[6\]
 
-국산 [토마호크 미사일이라는](https://ko.wikipedia.org/wiki/토마호크_미사일 "wikilink") [해성-3](https://ko.wikipedia.org/wiki/해성-3 "wikilink")는 1800톤 [손원일급 잠수함에서만](https://ko.wikipedia.org/wiki/손원일급_잠수함 "wikilink") 발사할 수 있지만, UGM-84L 하푼 블록 II는 이보다 작은 1200톤 [장보고급 잠수함에도](../Page/장보고급_잠수함.md "wikilink") 탑재할 수 있다.\[7\]
+국산 [토마호크 미사일이라는](https://ko.wikipedia.org/wiki/토마호크_미사일 "wikilink") [해성-3](https://ko.wikipedia.org/wiki/해성-3 "wikilink")는 1800톤 [손원일급 잠수함에서만](../Page/손원일급_잠수함.md "wikilink") 발사할 수 있지만, UGM-84L 하푼 블록 II는 이보다 작은 1200톤 [장보고급 잠수함에도](../Page/장보고급_잠수함.md "wikilink") 탑재할 수 있다.\[7\]
 
 그런데, 국산 SSM-700K 해성을 잠수함에 탑재한다는 소식은 없다. 공군도 하푼 미사일을 전투기에 장착하는데, 국산 SSM-700K 해성을 전투기에 장착한다는 소식도 없다. 오직 수상함에서만 국산 SSM-700K 해성을 사용하며, 잠수함과 전투기에는 여전히 미제 [하푼 미사일을](https://ko.wikipedia.org/wiki/하푼_미사일 "wikilink") 수입해 사용중이다.
 

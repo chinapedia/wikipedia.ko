@@ -667,7 +667,7 @@
   - [M TO M](https://ko.wikipedia.org/wiki/M_TO_M "wikilink") 1집(객원멤버 김진호)
   - 드라마 '매직' OST : The Story, Without You(MTOM1집), The Story(Ballad ver)
   - 드라마 '[슬픈 연가](../Page/슬픈_연가.md "wikilink")' OST : 다른 사랑 만나도, 타버린 나무(MTOM1집)
-  - [장윤정](https://ko.wikipedia.org/wiki/장윤정 "wikilink") 2집 앨범 : 편지 (Feat.채동하)
+  - [장윤정](../Page/장윤정.md "wikilink") 2집 앨범 : 편지 (Feat.채동하)
   - The Voices 리믹스
   - [M TO M](https://ko.wikipedia.org/wiki/M_TO_M "wikilink") 2집 앨범 : 세 글자(Feat.김진호,채동하), 이름(Feat.김진호), 내가 있단걸(Feat.김용준), 사랑할 것 같아서(Feat.김진호,채동하)
   - Big4 Of Voices In My Dream : Gone With The Wind(With.Vibe), Untouchable(With.MTOM,김종국)

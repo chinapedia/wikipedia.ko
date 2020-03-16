@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NTSC](https://ko.wikipedia.org/wiki/NTSC).
 
 
-**NTSC**는 [미국](../Page/미국.md "wikilink"), [캐나다](../Page/캐나다.md "wikilink"), [대한민국](../Page/대한민국.md "wikilink") 등에서 널리 사용하는 [아날로그 텔레비전](https://ko.wikipedia.org/wiki/아날로그_텔레비전 "wikilink") 방식이다. (지도 참고) NTSC는 이 텔레비전 방식을 표준화한 기구인 미국의 **National Television System(s) Committee**\[1\](국가 텔레비전 시스템 위원회)의 약자이며, 따라서 이 위원회를 가리키기도 한다.
+**NTSC**는 [미국](../Page/미국.md "wikilink"), [캐나다](../Page/캐나다.md "wikilink"), [대한민국](../Page/대한민국.md "wikilink") 등에서 널리 사용하는 [아날로그 텔레비전](../Page/아날로그_텔레비전.md "wikilink") 방식이다. (지도 참고) NTSC는 이 텔레비전 방식을 표준화한 기구인 미국의 **National Television System(s) Committee**\[1\](국가 텔레비전 시스템 위원회)의 약자이며, 따라서 이 위원회를 가리키기도 한다.
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:PAL-NTSC-SECAM.svg‎ "wikilink")
 
@@ -15,7 +15,7 @@
 
 ### 화면 재생빈도 (Refresh rate)
 
-NTSC 형식 - 더 정확하게는 **M** 형식: [텔레비전 방송 시스템](https://ko.wikipedia.org/wiki/텔레비전_방송_시스템 "wikilink") 참조 - 은 초당 29.97 개의 [비월 주사된](https://ko.wikipedia.org/wiki/비월주사방식 "wikilink") 비디오 프레임으로 이루어진다. 각 프레임은 전체 신호인 525 라인 중에서 480 라인으로 구성되며 나머지는 동기 신호나 [수직 귀선](https://ko.wikipedia.org/wiki/수직_귀선_기간 "wikilink") 및 자막과 같은 다른 데이터의 전송을 위해 쓰인다. NTSC 시스템의 비월 주사 방식은 홀수번 라인의 데이터는 홀수번 필드에, 짝수번 라인의 데이터는 짝수번 필드에 그리는 방식으로 약 59.94 Hz (60 Hz/1.001) 의 주파수로 갱신되어 깜빡임을 없애도록 하였다. 이것은 유럽의 [PAL](https://ko.wikipedia.org/wiki/PAL "wikilink") 이나 [SÉCAM](https://ko.wikipedia.org/wiki/SÉCAM "wikilink") 형식에서 쓰이는 50 Hz 의 [화면 재생 빈도보다](../Page/화면_재생_빈도.md "wikilink") 높다. 이러한 시스템을 사용하는 [텔레비전](../Page/텔레비전.md "wikilink")에서는 깜빡임이 느껴질 수 있어서, PAL 방식의 텔레비전에서는 이를 해결하고자 100 Hz 의 화면 재생 빈도를 사용하는데, 이는 하나의 프레임을 두 번 반복 또는 interpolation 하여 보여 준다. [비월 주사 방식으로](https://ko.wikipedia.org/wiki/비월_주사_방식 "wikilink") 인해 영상을 편집하는 것이 어렵기는 하지만 이는 PAL 이나 SÉCAM 등의 시스템에서도 마찬가지이다.
+NTSC 형식 - 더 정확하게는 **M** 형식: [텔레비전 방송 시스템](../Page/텔레비전_방송_시스템.md "wikilink") 참조 - 은 초당 29.97 개의 [비월 주사된](https://ko.wikipedia.org/wiki/비월주사방식 "wikilink") 비디오 프레임으로 이루어진다. 각 프레임은 전체 신호인 525 라인 중에서 480 라인으로 구성되며 나머지는 동기 신호나 [수직 귀선](https://ko.wikipedia.org/wiki/수직_귀선_기간 "wikilink") 및 자막과 같은 다른 데이터의 전송을 위해 쓰인다. NTSC 시스템의 비월 주사 방식은 홀수번 라인의 데이터는 홀수번 필드에, 짝수번 라인의 데이터는 짝수번 필드에 그리는 방식으로 약 59.94 Hz (60 Hz/1.001) 의 주파수로 갱신되어 깜빡임을 없애도록 하였다. 이것은 유럽의 [PAL](https://ko.wikipedia.org/wiki/PAL "wikilink") 이나 [SÉCAM](https://ko.wikipedia.org/wiki/SÉCAM "wikilink") 형식에서 쓰이는 50 Hz 의 [화면 재생 빈도보다](../Page/화면_재생_빈도.md "wikilink") 높다. 이러한 시스템을 사용하는 [텔레비전](../Page/텔레비전.md "wikilink")에서는 깜빡임이 느껴질 수 있어서, PAL 방식의 텔레비전에서는 이를 해결하고자 100 Hz 의 화면 재생 빈도를 사용하는데, 이는 하나의 프레임을 두 번 반복 또는 interpolation 하여 보여 준다. [비월 주사 방식으로](https://ko.wikipedia.org/wiki/비월_주사_방식 "wikilink") 인해 영상을 편집하는 것이 어렵기는 하지만 이는 PAL 이나 SÉCAM 등의 시스템에서도 마찬가지이다.
 
 NTSC 의 화면 재생 빈도는 원래 흑백 텔레비전 시스템에서 정확히 60 Hz 였다. 이는 미국에서 쓰이는 [교류](../Page/교류.md "wikilink") 전력의 [주파수](https://ko.wikipedia.org/wiki/주파수 "wikilink")가 60 Hz 이기 때문인데, 화면의 재생 빈도와 전력의 주파수가 동일하면 화면 위에 전력에 의한 노이즈 막대(rolling bar)가 발생하지 않는다.
 

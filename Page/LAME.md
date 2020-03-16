@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LAME](https://ko.wikipedia.org/wiki/LAME).
 
 
-**LAME**은 [오픈 소스](../Page/오픈_소스.md "wikilink") [MP3](https://ko.wikipedia.org/wiki/MP3 "wikilink") 인코더이다. LAME이라는 이름은 “**L**AME **A**in't an **M**P3 **E**ncoder”의 [재귀 약자이다](https://ko.wikipedia.org/wiki/재귀_약자 "wikilink"). 이름은 이렇게 지었지만, 실제로는 오늘날 가장 널리 쓰이는 MP3 인코더 중의 하나이다.
+**LAME**은 [오픈 소스](../Page/오픈_소스.md "wikilink") [MP3](https://ko.wikipedia.org/wiki/MP3 "wikilink") 인코더이다. LAME이라는 이름은 “**L**AME **A**in't an **M**P3 **E**ncoder”의 [재귀 약자이다](../Page/재귀_약자.md "wikilink"). 이름은 이렇게 지었지만, 실제로는 오늘날 가장 널리 쓰이는 MP3 인코더 중의 하나이다.
 
 2004년 기준으로 LAME은 128 kbit/s 이상의 [비트레이트](../Page/비트레이트.md "wikilink")에서 가장 품질이 좋은 MP3 파일을 만든다고 알려져 있다. 2004년 초 공개 청취 테스트에서 LAME으로 인코딩한 파일이 원본 오디오와 비교했을 때 음질 열화가 가장 적었다고 한다.\[1\]
 

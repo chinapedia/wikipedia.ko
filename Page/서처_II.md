@@ -34,7 +34,7 @@
 
 ## 대한민국
 
-대한민국 [국가정보원에서는](../Page/대한민국_국가정보원.md "wikilink") 서처 II 시스템을 도입하였다. [제1연평해전](../Page/제1연평해전.md "wikilink")이 있은 후, 대한민국 군당국은 서처 II를 서해감시에 투입하려고 하였다.\[1\]\[2\]\[3\]\[4\]\[5\]\[6\] 2008년 서처의 SAR와 비슷한 성능인 [KPU-STC](../Page/KPU-STC.md "wikilink") 국산화에 성공했다. 2012년 현재 4개 군단은 [비조](https://ko.wikipedia.org/wiki/비조 "wikilink"), 2개 군단은 서처를 사용중이다.
+대한민국 [국가정보원에서는](../Page/대한민국_국가정보원.md "wikilink") 서처 II 시스템을 도입하였다. [제1연평해전](../Page/제1연평해전.md "wikilink")이 있은 후, 대한민국 군당국은 서처 II를 서해감시에 투입하려고 하였다.\[1\]\[2\]\[3\]\[4\]\[5\]\[6\] 2008년 서처의 SAR와 비슷한 성능인 [KPU-STC](../Page/KPU-STC.md "wikilink") 국산화에 성공했다. 2012년 현재 4개 군단은 [비조](../Page/비조.md "wikilink"), 2개 군단은 서처를 사용중이다.
 
 ## 각주와 참고 자료
 
@@ -42,7 +42,7 @@
 
   - [이스라엘의 군사 장비](../Page/이스라엘의_군사_장비.md "wikilink")
   - [EL/M-2055](https://ko.wikipedia.org/wiki/EL/M-2055 "wikilink"): 서처 II에 탑재된 SAR 레이다
-  - [RQ-2 파이오니어](https://ko.wikipedia.org/wiki/RQ-2_파이오니어 "wikilink"): 비조와 동급인 파이오니어 항목에는 사진이 많이 등록되어 있다. 비조의 이해에 도움이 된다.
+  - [RQ-2 파이오니어](../Page/RQ-2_파이오니어.md "wikilink"): 비조와 동급인 파이오니어 항목에는 사진이 많이 등록되어 있다. 비조의 이해에 도움이 된다.
   - 서처 II: 파이오니어 보다 훨씬 고성능의 UAV. 한국은 군단급 무인기로 비조와 서처를 운용중이다.
   - [대한항공 무인항공기](https://ko.wikipedia.org/wiki/대한항공_무인항공기 "wikilink"): [RQ-7 섀도를](../Page/RQ-7_섀도.md "wikilink") 대한민국이 국산화에 성공하였다.
   - [KUS-9](../Page/KUS-9.md "wikilink"): 대한항공이 개발한 한국의 사단급 무인기

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SUPER GT](https://ko.wikipedia.org/wiki/SUPER_GT).
 
 
-**슈퍼 GT**(Super GT)는 [일본 자동차 연맹](https://ko.wikipedia.org/wiki/일본_자동차_연맹 "wikilink")(Japan Automobile Federation)에서 주최하는 투어링 자동차 경주 대회이다. [2005년](../Page/2005년.md "wikilink") 공식 대회 명칭이 **전일본 그랜드 투어링카 챔피언십**(All-Japan Grand Touring Car Championship, JGTC)에서 슈퍼 GT로 바뀌었다. [독일 투어링카 마스터즈와](https://ko.wikipedia.org/wiki/독일_투어링카_마스터즈 "wikilink") [브리티시 투어링카 챔피언십](https://ko.wikipedia.org/wiki/브리티시_투어링카_챔피언십 "wikilink"), 그리고 전일본 그랜드 투어링카 챔피언십을 세계 3대 투어링 자동차 경주 대회라 부른다
+**슈퍼 GT**(Super GT)는 [일본 자동차 연맹](https://ko.wikipedia.org/wiki/일본_자동차_연맹 "wikilink")(Japan Automobile Federation)에서 주최하는 투어링 자동차 경주 대회이다. [2005년](../Page/2005년.md "wikilink") 공식 대회 명칭이 **전일본 그랜드 투어링카 챔피언십**(All-Japan Grand Touring Car Championship, JGTC)에서 슈퍼 GT로 바뀌었다. [독일 투어링카 마스터즈와](../Page/독일_투어링카_마스터즈.md "wikilink") [브리티시 투어링카 챔피언십](https://ko.wikipedia.org/wiki/브리티시_투어링카_챔피언십 "wikilink"), 그리고 전일본 그랜드 투어링카 챔피언십을 세계 3대 투어링 자동차 경주 대회라 부른다
 
 ## 역사
 

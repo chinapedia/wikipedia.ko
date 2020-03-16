@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ III](https://ko.wikipedia.org/wiki/_III).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:ビートマニア３.JPG "wikilink") 《**비트매니아 III**》(beatmania III)는 [2000년](../Page/2000년.md "wikilink") [코나미](https://ko.wikipedia.org/wiki/코나미 "wikilink")사에서 개발한 [음악 게임으로서](https://ko.wikipedia.org/wiki/음악_게임 "wikilink") [비트매니아](../Page/비트매니아.md "wikilink")의 후계 기종이다. 음악이나 게임성등 여러면에서 변화를 시도한 [비트매니아 IIDX와는](https://ko.wikipedia.org/wiki/비트매니아_IIDX "wikilink") 달리, 기존 [비트매니아](../Page/비트매니아.md "wikilink")의 게임 방법과 수록곡을 유지하면서 다양한 이펙트 기능이나 그래픽, 사운드 시스템 등 기기의 성능을 업그레이드한 성격의 게임이다. 2002년 7월 [비트매니아](../Page/비트매니아.md "wikilink") 시리즈가 최종작을 발매함에 따라 비트매니아 III도 beatmania III THE FINAL로 시리즈를 끝마쳤다. 이 시리즈는 [일본](../Page/일본.md "wikilink")에서도 100대의 기기만이 생산되었고, 새로운 버전이 발매되어도 추가적인 기기 생산은 없었다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:ビートマニア３.JPG "wikilink") 《**비트매니아 III**》(beatmania III)는 [2000년](../Page/2000년.md "wikilink") [코나미](../Page/코나미.md "wikilink")사에서 개발한 [음악 게임으로서](https://ko.wikipedia.org/wiki/음악_게임 "wikilink") [비트매니아](../Page/비트매니아.md "wikilink")의 후계 기종이다. 음악이나 게임성등 여러면에서 변화를 시도한 [비트매니아 IIDX와는](../Page/비트매니아_IIDX.md "wikilink") 달리, 기존 [비트매니아](../Page/비트매니아.md "wikilink")의 게임 방법과 수록곡을 유지하면서 다양한 이펙트 기능이나 그래픽, 사운드 시스템 등 기기의 성능을 업그레이드한 성격의 게임이다. 2002년 7월 [비트매니아](../Page/비트매니아.md "wikilink") 시리즈가 최종작을 발매함에 따라 비트매니아 III도 beatmania III THE FINAL로 시리즈를 끝마쳤다. 이 시리즈는 [일본](../Page/일본.md "wikilink")에서도 100대의 기기만이 생산되었고, 새로운 버전이 발매되어도 추가적인 기기 생산은 없었다.
 
 ## 수많은 수록곡
 
@@ -13,7 +13,7 @@
 
 각 플레이어의 컨트롤러에 3개의 이펙터 노브가 달려 있어 다양한 이펙터를 조작할 수 있다. 또한 [비트매니아](../Page/비트매니아.md "wikilink")와는 달리 기체에 풋 페달이 달려있는데, 이 풋 페달을 사용하면 다양한 이펙터 효과를 조작할 수 있다. 또한 숨겨진 모드로서 풋 페달에 악보가 할당되어있는 곡을 플레이할 수도 있다. 이러한 이펙터 효과와 더불어, 비트매니아 III의 기체에는 비마니 시리즈 중에서 유일하게 헤드폰 잭이 달려있다.
 
-[비트매니아 IIDX의](https://ko.wikipedia.org/wiki/비트매니아_IIDX "wikilink") [플레이 스테이션 2용](https://ko.wikipedia.org/wiki/플레이_스테이션_2 "wikilink") 컨트롤러에는 페달을 꽂을 수 있는 단자가 있는데, 이 단자에 [드럼매니아](../Page/드럼매니아.md "wikilink") 컨트롤러의 페달을 꽂으면 스크래치로 인식한다. 이 점은 비트매니아 III의 이식을 염두에 둔 일로 해석되고 있으나, 비트매니아 III는 가정용으로 이식되지 않았다.
+[비트매니아 IIDX의](../Page/비트매니아_IIDX.md "wikilink") [플레이 스테이션 2용](https://ko.wikipedia.org/wiki/플레이_스테이션_2 "wikilink") 컨트롤러에는 페달을 꽂을 수 있는 단자가 있는데, 이 단자에 [드럼매니아](../Page/드럼매니아.md "wikilink") 컨트롤러의 페달을 꽂으면 스크래치로 인식한다. 이 점은 비트매니아 III의 이식을 염두에 둔 일로 해석되고 있으나, 비트매니아 III는 가정용으로 이식되지 않았다.
 
 ## 플로피 디스크 시스템
 

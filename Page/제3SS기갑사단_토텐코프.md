@@ -23,13 +23,13 @@
 
 1942년 10월 사단은 마침내 포위망을 벗어났다. 사단이 데먄스크 포위망을 벗어났을 때 사단의 생존자는 겨우 6,000여명에 지나지 않았다. 더욱이 이는 그 동안 보충된 수천명의 병력을 포함한 수치였다. 사단은 문자 그대로 만신창이가 돼서 포위망을 빠져나왔던 것이다. 생존자의 30%도 전투에 적합한 상태가 아니었으며, 회복 가능한 병사들도 수주 간의 휴식이 반드시 필요한 정도였다.
 
-사단의 잔존병들은 1942년 10월 말 전선에서 철수, 재편성을 위해 [프랑스](../Page/프랑스.md "wikilink")로 이동했다. 프랑스에 머물면서 사단은 [1942년](../Page/1942년.md "wikilink") 11월 [비시 프랑스의](../Page/비시_프랑스.md "wikilink") 탈취를 목적으로 한 [안톤 작전에](https://ko.wikipedia.org/wiki/안톤_작전 "wikilink") 투입되었다. 사단은 [기갑 연대를](https://ko.wikipedia.org/wiki/기갑_연대 "wikilink") 보충받고 **제3 SS 기갑 척탄병 사단 토텐코프**로 개편되었다. SS제국지도자 하인리히 힘러와 [파울 하우서](https://ko.wikipedia.org/wiki/파울_하우서 "wikilink") SS대장의 노력 덕에 모든 SS 기갑 척탄병 사단에 완편된 기갑 연대가 배치되었고, 그에 따라 명칭과는 달리 [기갑 사단으로](https://ko.wikipedia.org/wiki/기갑_사단 "wikilink") 완편되었다(단, 편제에 맞게 제1 전차 대대인 판터 대대가 각 사단에 배치된 것은 성채 작전이 종료된 후이다). 아이케 장군이 지휘권을 다시 인수한 10월부터 이듬해 2월까지 사단은 프랑스에 머물렀다.
+사단의 잔존병들은 1942년 10월 말 전선에서 철수, 재편성을 위해 [프랑스](../Page/프랑스.md "wikilink")로 이동했다. 프랑스에 머물면서 사단은 [1942년](../Page/1942년.md "wikilink") 11월 [비시 프랑스의](../Page/비시_프랑스.md "wikilink") 탈취를 목적으로 한 [안톤 작전에](https://ko.wikipedia.org/wiki/안톤_작전 "wikilink") 투입되었다. 사단은 [기갑 연대를](https://ko.wikipedia.org/wiki/기갑_연대 "wikilink") 보충받고 **제3 SS 기갑 척탄병 사단 토텐코프**로 개편되었다. SS제국지도자 하인리히 힘러와 [파울 하우서](../Page/파울_하우서.md "wikilink") SS대장의 노력 덕에 모든 SS 기갑 척탄병 사단에 완편된 기갑 연대가 배치되었고, 그에 따라 명칭과는 달리 [기갑 사단으로](https://ko.wikipedia.org/wiki/기갑_사단 "wikilink") 완편되었다(단, 편제에 맞게 제1 전차 대대인 판터 대대가 각 사단에 배치된 것은 성채 작전이 종료된 후이다). 아이케 장군이 지휘권을 다시 인수한 10월부터 이듬해 2월까지 사단은 프랑스에 머물렀다.
 
 ## 하리코프 - 쿠르스크
 
-1943년 2월 초 [에리히 폰 만슈타인](../Page/에리히_폰_만슈타인.md "wikilink") 원수의 [남부 집단군](https://ko.wikipedia.org/wiki/독일_남부_집단군 "wikilink") 소속으로 [동부 전선으로](https://ko.wikipedia.org/wiki/동부_유럽_전선_\(제2차_세계_대전\) "wikilink") 복귀했다. 사단은 [파울 하우서](https://ko.wikipedia.org/wiki/파울_하우서 "wikilink") SS대장의 [SS 기갑 군단](https://ko.wikipedia.org/wiki/2_SS기갑군단 "wikilink") 소속으로 [이반 코네프](../Page/이반_코네프.md "wikilink") 상장의 공세를 저지하기 위해 [제3차 하리코프 공방전에](../Page/제3차_하리코프_공방전.md "wikilink") 참전했다. 작전 당시 [테오도어 아이케가](../Page/테오도어_아이케.md "wikilink") 탑승한 [피젤러 슈토르히](https://ko.wikipedia.org/wiki/피젤러_슈토르히 "wikilink")(Fieseler Storch) 관측기가 적 전선 위를 비행하던 중 격추되었고, 그로 인해 아이케 장군이 전사했다. 분기탱천한 병사들은 적진을 돌파해 사단장의 유해를 되찾아왔다. 그 후 아이케 장군의 유해는 정식 군장을 갖춰 매장되었다. [막스 지몬](https://ko.wikipedia.org/wiki/막스_지몬 "wikilink") 장군이 아이케의 뒤를 이어 사단장이 되었다. 얼마 후인 4월 10일 지몬 장군을 대신해 [헤르만 프리스](https://ko.wikipedia.org/wiki/헤르만_프리스 "wikilink") SS준장이 사단장에 취임했다.
+1943년 2월 초 [에리히 폰 만슈타인](../Page/에리히_폰_만슈타인.md "wikilink") 원수의 [남부 집단군](https://ko.wikipedia.org/wiki/독일_남부_집단군 "wikilink") 소속으로 [동부 전선으로](https://ko.wikipedia.org/wiki/동부_유럽_전선_\(제2차_세계_대전\) "wikilink") 복귀했다. 사단은 [파울 하우서](../Page/파울_하우서.md "wikilink") SS대장의 [SS 기갑 군단](https://ko.wikipedia.org/wiki/2_SS기갑군단 "wikilink") 소속으로 [이반 코네프](../Page/이반_코네프.md "wikilink") 상장의 공세를 저지하기 위해 [제3차 하리코프 공방전에](../Page/제3차_하리코프_공방전.md "wikilink") 참전했다. 작전 당시 [테오도어 아이케가](../Page/테오도어_아이케.md "wikilink") 탑승한 [피젤러 슈토르히](https://ko.wikipedia.org/wiki/피젤러_슈토르히 "wikilink")(Fieseler Storch) 관측기가 적 전선 위를 비행하던 중 격추되었고, 그로 인해 아이케 장군이 전사했다. 분기탱천한 병사들은 적진을 돌파해 사단장의 유해를 되찾아왔다. 그 후 아이케 장군의 유해는 정식 군장을 갖춰 매장되었다. [막스 지몬](https://ko.wikipedia.org/wiki/막스_지몬 "wikilink") 장군이 아이케의 뒤를 이어 사단장이 되었다. 얼마 후인 4월 10일 지몬 장군을 대신해 [헤르만 프리스](https://ko.wikipedia.org/wiki/헤르만_프리스 "wikilink") SS준장이 사단장에 취임했다.
 
-사단을 포함한 제2 SS 기갑 군단은 [쿠르스크](../Page/쿠르스크.md "wikilink") 돌출부를 제거할 목적으로 개시된 대공세 [치타델레 작전에](https://ko.wikipedia.org/wiki/쿠르스크_전투 "wikilink") 참가하기 위해 북으로 이동했다. 이 시기 제3 SS 기갑 연대에 [티거](https://ko.wikipedia.org/wiki/6호_전차_티이거 "wikilink") 중전차(제3 SS기갑 연대 9중대)로 구성된 1개 전차 중대가 배치되었다.
+사단을 포함한 제2 SS 기갑 군단은 [쿠르스크](../Page/쿠르스크.md "wikilink") 돌출부를 제거할 목적으로 개시된 대공세 [치타델레 작전에](../Page/쿠르스크_전투.md "wikilink") 참가하기 위해 북으로 이동했다. 이 시기 제3 SS 기갑 연대에 [티거](https://ko.wikipedia.org/wiki/6호_전차_티이거 "wikilink") 중전차(제3 SS기갑 연대 9중대)로 구성된 1개 전차 중대가 배치되었다.
 
 [1943년](../Page/1943년.md "wikilink") [7월 4일](../Page/7월_4일.md "wikilink") 공격이 개시되었고, 소련군의 대규모 포격이 독일군 집결지에 쏟아졌다. 제2 SS 기갑 군단은 [헤르만 호트](../Page/헤르만_호트.md "wikilink") 상급대장의 [제4 기갑군](https://ko.wikipedia.org/wiki/독일_4_기갑군 "wikilink") 선봉으로 돌출부 남쪽을 공격했다.
 
@@ -47,7 +47,7 @@
 
 사단은 다스 라이히와 함께 남부 [우크라이나](../Page/우크라이나.md "wikilink")에서 재편된 [칼 아돌프 홀리트](https://ko.wikipedia.org/wiki/칼_아돌프_홀리트 "wikilink")(Karl Adolf Hollidt) 육군보병대장의 [제6군으로](https://ko.wikipedia.org/wiki/독일_6_군 "wikilink") 전속되었다. 제6군은 [미우스 강을](https://ko.wikipedia.org/wiki/미우스_강 "wikilink") 도하할 목적으로 만들어진 소련군의 교두보를 분쇄하기 위해 투입되었다.
 
-사단은 다음 몇 주 동안 격전을 치렀다. 213 고지와 [스테파놉카](https://ko.wikipedia.org/wiki/스테파놉카 "wikilink") 마을을 둘러싼 7-8월 전투 동안 사단은 막대한 손실을 입었고, [미우스 전선에서](https://ko.wikipedia.org/wiki/미우스_전선 "wikilink") [성채 작전](https://ko.wikipedia.org/wiki/쿠르스크_전투 "wikilink") 때보다 더 많은 사상자를 냈다. 하지만 소련군의 교두보는 분쇄되었다. 사단은 1,500명의 병력을 잃었고 예하 기갑 연대의 전력은 전차 20량으로 격감했다.
+사단은 다음 몇 주 동안 격전을 치렀다. 213 고지와 [스테파놉카](https://ko.wikipedia.org/wiki/스테파놉카 "wikilink") 마을을 둘러싼 7-8월 전투 동안 사단은 막대한 손실을 입었고, [미우스 전선에서](https://ko.wikipedia.org/wiki/미우스_전선 "wikilink") [성채 작전](../Page/쿠르스크_전투.md "wikilink") 때보다 더 많은 사상자를 냈다. 하지만 소련군의 교두보는 분쇄되었다. 사단은 1,500명의 병력을 잃었고 예하 기갑 연대의 전력은 전차 20량으로 격감했다.
 
 사단은 북쪽으로 이동해 하리코프로 돌아왔다. 토텐코프는 다스 라이히와 함께 소련군의 [루먄체프 작전](https://ko.wikipedia.org/wiki/루먄체프_작전 "wikilink")(Rumyantsev)을 저지하고 하리코프를 유지하기 위한 방어전에 돌입했다. 두 사단은 막대한 사상자를 포함, 전차 800량 이상을 격파하며 공세를 저지했지만 소련군에게 측면이 포위되어 8월 23일에는 하리코프를 포기할 수밖에 없었다.
 
@@ -97,7 +97,7 @@
 
 게르만계 SS사단 중 토텐코프는 전쟁 범죄와 관련된 가장 어두운 역사를 가지고 있다.
 
-사단의 초기 기간 인원들은 다른 SS 사단들이 [SS전투부대](https://ko.wikipedia.org/wiki/SS전투부대 "wikilink")를 바탕으로 편성된 데에 반해 [SS 해골단을](https://ko.wikipedia.org/wiki/SS_해골단 "wikilink") 바탕으로 편성되었다. SS전투부대는 [파울 하우서](https://ko.wikipedia.org/wiki/파울_하우서 "wikilink"), [펠릭스 슈타이너](../Page/펠릭스_슈타이너.md "wikilink") 그리고 [게오르그 케플러](https://ko.wikipedia.org/wiki/게오르그_케플러 "wikilink") 같은 훌륭한 지휘관들에 의해 육성되었지만, SS 해골단은 [테오도어 아이케](../Page/테오도어_아이케.md "wikilink"), [막스 지몬](https://ko.wikipedia.org/wiki/막스_지몬 "wikilink") 그리고 [헬무트 베커](https://ko.wikipedia.org/wiki/헬무트_베커 "wikilink") 같은 나치 광신자들에 의해 육성되고 지휘되었다. 아이케는 부하들에게 잔혹성을 주입시켜고, 다하우 훈련 시절에서는 보통 강제수용소 부근에서 수감자들을 감시하는 걸로 시간을 소비했다.
+사단의 초기 기간 인원들은 다른 SS 사단들이 [SS전투부대](https://ko.wikipedia.org/wiki/SS전투부대 "wikilink")를 바탕으로 편성된 데에 반해 [SS 해골단을](https://ko.wikipedia.org/wiki/SS_해골단 "wikilink") 바탕으로 편성되었다. SS전투부대는 [파울 하우서](../Page/파울_하우서.md "wikilink"), [펠릭스 슈타이너](../Page/펠릭스_슈타이너.md "wikilink") 그리고 [게오르그 케플러](https://ko.wikipedia.org/wiki/게오르그_케플러 "wikilink") 같은 훌륭한 지휘관들에 의해 육성되었지만, SS 해골단은 [테오도어 아이케](../Page/테오도어_아이케.md "wikilink"), [막스 지몬](https://ko.wikipedia.org/wiki/막스_지몬 "wikilink") 그리고 [헬무트 베커](https://ko.wikipedia.org/wiki/헬무트_베커 "wikilink") 같은 나치 광신자들에 의해 육성되고 지휘되었다. 아이케는 부하들에게 잔혹성을 주입시켜고, 다하우 훈련 시절에서는 보통 강제수용소 부근에서 수감자들을 감시하는 걸로 시간을 소비했다.
 
 SS 토텐코프 사단의 기간 부대가 된 세 개의 SS 토텐코프 연대는 [폴란드](../Page/폴란드.md "wikilink")에서 활동하면서 수많은 전쟁범죄를 저질렀다.
 

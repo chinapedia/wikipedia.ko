@@ -7,9 +7,9 @@
 
 ## 개요
 
-[컬러 TV 게임](../Page/컬러_TV_게임.md "wikilink"), [패밀리 컴퓨터](../Page/패밀리_컴퓨터.md "wikilink"), [슈퍼 패미컴](../Page/슈퍼_패미컴.md "wikilink"), [닌텐도 64](https://ko.wikipedia.org/wiki/닌텐도_64 "wikilink"), [게임큐브](https://ko.wikipedia.org/wiki/게임큐브 "wikilink")에 이은 [닌텐도](../Page/닌텐도.md "wikilink")의 여섯 번째 [가정용 게임기이다](../Page/가정용_게임기.md "wikilink"). 2007년 9월 현재 일본 주식시장에서 [닌텐도](../Page/닌텐도.md "wikilink")가 [도요타 자동차에](https://ko.wikipedia.org/wiki/도요타_자동차 "wikilink") 이어 전체 2위의 시가총액을 가지게 되는데 결정적인 역할을 한 게임기이다.
+[컬러 TV 게임](../Page/컬러_TV_게임.md "wikilink"), [패밀리 컴퓨터](../Page/패밀리_컴퓨터.md "wikilink"), [슈퍼 패미컴](../Page/슈퍼_패미컴.md "wikilink"), [닌텐도 64](../Page/닌텐도_64.md "wikilink"), [게임큐브](https://ko.wikipedia.org/wiki/게임큐브 "wikilink")에 이은 [닌텐도](../Page/닌텐도.md "wikilink")의 여섯 번째 [가정용 게임기이다](../Page/가정용_게임기.md "wikilink"). 2007년 9월 현재 일본 주식시장에서 [닌텐도](../Page/닌텐도.md "wikilink")가 [도요타 자동차에](https://ko.wikipedia.org/wiki/도요타_자동차 "wikilink") 이어 전체 2위의 시가총액을 가지게 되는데 결정적인 역할을 한 게임기이다.
 
-이제껏 없었던 컨트롤러와 그 사용 방식, 한 때 판매했던 게임 소프트웨어의 다운로드 판매, 게임 이외의 일상생활에 도움이 되는 콘텐츠 탑재, 인터넷을 활용한 풍부한 기능, 서비스 등이 위의 주요 특징이다. 위의 특징에서 볼 수 있듯이, Wii는 처리능력 및 화면 표현력의 향상 면에서, 같은 시기에 경쟁 기종인 [플레이스테이션 3나](https://ko.wikipedia.org/wiki/플레이스테이션_3 "wikilink") [엑스박스 360과는](../Page/엑스박스_360.md "wikilink") 전혀 다른 특징을 띠고 있다.
+이제껏 없었던 컨트롤러와 그 사용 방식, 한 때 판매했던 게임 소프트웨어의 다운로드 판매, 게임 이외의 일상생활에 도움이 되는 콘텐츠 탑재, 인터넷을 활용한 풍부한 기능, 서비스 등이 위의 주요 특징이다. 위의 특징에서 볼 수 있듯이, Wii는 처리능력 및 화면 표현력의 향상 면에서, 같은 시기에 경쟁 기종인 [플레이스테이션 3나](../Page/플레이스테이션_3.md "wikilink") [엑스박스 360과는](../Page/엑스박스_360.md "wikilink") 전혀 다른 특징을 띠고 있다.
 
 개발 당시의 코드 네임은 '레볼루션'(Revolution, 혁명)이었으며, 이는, '비디오 게임의 혁명'이 되는 게임기라는 뜻으로 붙인 것이다. 현재 본체 및 주변기기의 모델 번호는 레볼루션(Revolution)을 줄여 'RVL'로 붙어 있다.
 
@@ -100,7 +100,7 @@ CD 또는 DVD의 재생 기능은 없으나, [Wii 공식 사이트 Q\&A](http://
 
 ### 버추얼 콘솔
 
-위는 [버추얼 콘솔이라는](../Page/버추얼_콘솔.md "wikilink") 시스템을 탑재하여 [패밀리 컴퓨터](../Page/패밀리_컴퓨터.md "wikilink"), [슈퍼 패미컴](../Page/슈퍼_패미컴.md "wikilink"), [닌텐도 64](https://ko.wikipedia.org/wiki/닌텐도_64 "wikilink"), [메가드라이브](https://ko.wikipedia.org/wiki/메가드라이브 "wikilink"), [PC 엔진](https://ko.wikipedia.org/wiki/PC_엔진 "wikilink"), [네오지오](https://ko.wikipedia.org/wiki/네오_지오_\(콘솔\) "wikilink"), [MSX](../Page/MSX.md "wikilink")의 게임을 유료로 내려받아 즐길 수 있다.
+위는 [버추얼 콘솔이라는](../Page/버추얼_콘솔.md "wikilink") 시스템을 탑재하여 [패밀리 컴퓨터](../Page/패밀리_컴퓨터.md "wikilink"), [슈퍼 패미컴](../Page/슈퍼_패미컴.md "wikilink"), [닌텐도 64](../Page/닌텐도_64.md "wikilink"), [메가드라이브](https://ko.wikipedia.org/wiki/메가드라이브 "wikilink"), [PC 엔진](https://ko.wikipedia.org/wiki/PC_엔진 "wikilink"), [네오지오](https://ko.wikipedia.org/wiki/네오_지오_\(콘솔\) "wikilink"), [MSX](../Page/MSX.md "wikilink")의 게임을 유료로 내려받아 즐길 수 있다.
 
 ### 닌텐도 와이파이 커넥션
 
@@ -143,7 +143,7 @@ CD 또는 DVD의 재생 기능은 없으나, [Wii 공식 사이트 Q\&A](http://
 
 ### Wii 미니
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Wii-Mini-Console-Set-H.jpg "wikilink") **Wiii 미니**(Wii Mini)는 탑 로딩 디스크 드라이브를 갖춘 더 작게 재설계된 Wii이다. 이 모델은 [YPbPr](https://ko.wikipedia.org/wiki/YPbPr "wikilink") ([컴포넌트 비디오](../Page/컴포넌트_비디오.md "wikilink")/[D-터미널](https://ko.wikipedia.org/wiki/D-터미널 "wikilink")), [S-비디오](https://ko.wikipedia.org/wiki/S-비디오 "wikilink"), [RGB](https://ko.wikipedia.org/wiki/RGBS "wikilink") [SCART](../Page/SCART.md "wikilink") 출력, [게임큐브](https://ko.wikipedia.org/wiki/게임큐브 "wikilink") 호환성, 온라인 연결, [SD 카드](../Page/SD_카드.md "wikilink") 슬롯, [와이파이](../Page/와이파이.md "wikilink") 지원이 제거되었으며 이전 2개 모델과 달리 오직 [USB](../Page/USB.md "wikilink") 포트 하나만 있다.\[15\]\[16\] 초기 릴리스에는 [팩인 게임이](https://ko.wikipedia.org/wiki/팩인_게임 "wikilink") 빠져있었으나 캐나다에서 2013년 9월 18일 기점으로 [마리오 카트 Wii가](../Page/마리오_카트_Wii.md "wikilink") 무료로 포함되었으며\[17\] 미국에서도 런칭되었다.\[18\] 캐나다에서는 2012년 12월 7일 [C$](../Page/캐나다_달러.md "wikilink")99.99 MSRP로 출시되었으며,\[19\] 유럽에서는 2013년 3월 22일,\[20\] 미국에서는 2013년 11월 17일에 출시되었다.\[21\] 닌텐도는 이 콘솔과 [닌텐도 셀렉트](https://ko.wikipedia.org/wiki/닌텐도_셀렉트 "wikilink") 게임 시리즈를 사용하여 낮은 가격의 게이밍을 프로모션하였다. Wii 미니는 빨간 테두리의 매트 블랙 스타일이며 [Wii 리모트 플러스와](https://ko.wikipedia.org/wiki/Wii_리모트_플러스 "wikilink") Nunchuk을 포함한다. [컴포지트 비디오](../Page/컴포지트_비디오.md "wikilink")/오디오 케이블, 유선 센서바, 파워 어댑터도 동봉된다.\[22\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:Wii-Mini-Console-Set-H.jpg "wikilink") **Wiii 미니**(Wii Mini)는 탑 로딩 디스크 드라이브를 갖춘 더 작게 재설계된 Wii이다. 이 모델은 [YPbPr](../Page/YPbPr.md "wikilink") ([컴포넌트 비디오](../Page/컴포넌트_비디오.md "wikilink")/[D-터미널](https://ko.wikipedia.org/wiki/D-터미널 "wikilink")), [S-비디오](https://ko.wikipedia.org/wiki/S-비디오 "wikilink"), [RGB](https://ko.wikipedia.org/wiki/RGBS "wikilink") [SCART](../Page/SCART.md "wikilink") 출력, [게임큐브](https://ko.wikipedia.org/wiki/게임큐브 "wikilink") 호환성, 온라인 연결, [SD 카드](../Page/SD_카드.md "wikilink") 슬롯, [와이파이](../Page/와이파이.md "wikilink") 지원이 제거되었으며 이전 2개 모델과 달리 오직 [USB](../Page/USB.md "wikilink") 포트 하나만 있다.\[15\]\[16\] 초기 릴리스에는 [팩인 게임이](https://ko.wikipedia.org/wiki/팩인_게임 "wikilink") 빠져있었으나 캐나다에서 2013년 9월 18일 기점으로 [마리오 카트 Wii가](../Page/마리오_카트_Wii.md "wikilink") 무료로 포함되었으며\[17\] 미국에서도 런칭되었다.\[18\] 캐나다에서는 2012년 12월 7일 [C$](../Page/캐나다_달러.md "wikilink")99.99 MSRP로 출시되었으며,\[19\] 유럽에서는 2013년 3월 22일,\[20\] 미국에서는 2013년 11월 17일에 출시되었다.\[21\] 닌텐도는 이 콘솔과 [닌텐도 셀렉트](https://ko.wikipedia.org/wiki/닌텐도_셀렉트 "wikilink") 게임 시리즈를 사용하여 낮은 가격의 게이밍을 프로모션하였다. Wii 미니는 빨간 테두리의 매트 블랙 스타일이며 [Wii 리모트 플러스와](https://ko.wikipedia.org/wiki/Wii_리모트_플러스 "wikilink") Nunchuk을 포함한다. [컴포지트 비디오](../Page/컴포지트_비디오.md "wikilink")/오디오 케이블, 유선 센서바, 파워 어댑터도 동봉된다.\[22\]
 
 일본, 오스트레일리아, 뉴질랜드에서는 출시되지 않았다.
 

@@ -5,7 +5,7 @@
 
 ## 멤버
 
-  - **도쿠오카 요시나리** () : [통기타](https://ko.wikipedia.org/wiki/통기타 "wikilink"), [효고현](../Page/효고현.md "wikilink") [고베 시](https://ko.wikipedia.org/wiki/고베_시 "wikilink") [스마 구](https://ko.wikipedia.org/wiki/스마_구 "wikilink") 출신
+  - **도쿠오카 요시나리** () : [통기타](../Page/통기타.md "wikilink"), [효고현](../Page/효고현.md "wikilink") [고베 시](https://ko.wikipedia.org/wiki/고베_시 "wikilink") [스마 구](https://ko.wikipedia.org/wiki/스마_구 "wikilink") 출신
   - **미우라 다쿠야** () : 통기타, 효고 현 고베 시 [나다 구](https://ko.wikipedia.org/wiki/나다_구 "wikilink") 출신
 
 ## 앨범 목록

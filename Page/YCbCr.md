@@ -3,7 +3,7 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:YCbCr.GIF "wikilink") **YCbCr**은 영상 시스템에서 사용되는 [색공간](https://ko.wikipedia.org/wiki/색공간 "wikilink")의 일종이다. Y 는 [휘도](https://ko.wikipedia.org/wiki/휘도 "wikilink") 성분이며 Cb 와 Cr 은 [색차](https://ko.wikipedia.org/wiki/색차 "wikilink") 성분이다. YCbCr 은 가끔 **YCC** 라고 줄여 부르기도 한다. YCbCr 은 [절대 색공간](https://ko.wikipedia.org/wiki/절대_색공간 "wikilink") 이 아니며 [RGB](https://ko.wikipedia.org/wiki/RGB "wikilink") 정보를 인코딩하는 방식의 하나로, 실제로 보이는 이미지의 색은 신호를 디스플레이 하기 위해 사용된 원본 RGB 정보에 의존한다. 따라서 YCbCr 로 표현된 값은 표준 RGB 색상이 사용된 경우거나, 색상을 변환하기 위해 사용할 ICC 프로파일을 첨부한 경우에만 예측할 수 있다.
 
-(신호를 디지털 형식으로 변경하기 위해 스케일링과 오프셋 조정 단계를 거치기 이전의) YCbCr 신호는 [YPbPr](https://ko.wikipedia.org/wiki/YPbPr "wikilink") 이라고 하며, 이것은 [감마 보정된](../Page/감마_보정.md "wikilink") RGB 원본 영상에서 Kb 와 Kr 이라는 두가지 상수를 이용하여 다음과 같은 공식을 통해 얻을 수 있다:
+(신호를 디지털 형식으로 변경하기 위해 스케일링과 오프셋 조정 단계를 거치기 이전의) YCbCr 신호는 [YPbPr](../Page/YPbPr.md "wikilink") 이라고 하며, 이것은 [감마 보정된](../Page/감마_보정.md "wikilink") RGB 원본 영상에서 Kb 와 Kr 이라는 두가지 상수를 이용하여 다음과 같은 공식을 통해 얻을 수 있다:
 
 `YPbPr (analog version of YCbCr) from R'G'B'`
 `====================================================`

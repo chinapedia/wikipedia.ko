@@ -5,7 +5,7 @@
 
 출시 당시 [스타크래프트](../Page/스타크래프트.md "wikilink")의 뒤를 이을 게임으로 기대되었고, 전 세계적으로 1,900만 장의 판매고를 올렸으며\[1\], 게임메신저 XFire의 통계에 의하면 [2007년](../Page/2007년.md "wikilink") 북미와 유럽에서 가장 이용량이 많은 PC용 멀티플레이 전략 게임이다.\[2\] [카운터 스트라이크와](https://ko.wikipedia.org/wiki/카운터_스트라이크 "wikilink") 더불어 ESWC(E-Sports World Cup) 등의 세계 유명 [E스포츠](../Page/E스포츠.md "wikilink") 게임 대회에 정식 종목으로 활발히 채택되고 있다. IGN.COM 에서 Game of the Year 2002 (Reader's choice)을 수상하였다.
 
-워크래프트 III: 레인 오브 카오스가 발매된 후 그 확장팩인 [워크래프트 III: 프로즌 쓰론이](https://ko.wikipedia.org/wiki/워크래프트_III:_프로즌_쓰론 "wikilink") 발매되었다.
+워크래프트 III: 레인 오브 카오스가 발매된 후 그 확장팩인 [워크래프트 III: 프로즌 쓰론이](../Page/워크래프트_III:_프로즌_쓰론.md "wikilink") 발매되었다.
 
 ## 줄거리와 세계관
 

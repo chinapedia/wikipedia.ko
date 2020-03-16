@@ -3,7 +3,7 @@
 
 **UCI 프로투어** (UCI ProTour)는 [국제 사이클 연맹](../Page/국제_사이클_연맹.md "wikilink")(UCI) 감독 하에서 벌어지는 경기이다. UCI이 전임 회장인 하인 베르브루겐(Hein Verbruggen)이 만들었다. 프로투어는 일련의 [도로 자전거 경기와](../Page/도로_자전거_경기.md "wikilink") 많은 'ProTour' [사이클 팀으로](https://ko.wikipedia.org/wiki/사이클_팀 "wikilink") 구성된다. 각 팀은 모든 경기에 참가해야 한다. 이런 체계는 2005년에 새로 만들어졌으며, 대체로 2004년을 끝으로 없어진 [UCI 월드컵을](https://ko.wikipedia.org/wiki/UCI_월드컵 "wikilink") 대신한다.
 
-프로투어는 세 개의 [그랜드 투어](../Page/그랜드_투어.md "wikilink")([투르 드 프랑스](../Page/투르_드_프랑스.md "wikilink"), [지로 디탈리아](https://ko.wikipedia.org/wiki/지로_디탈리아 "wikilink"), [벨타 아 에스파냐](https://ko.wikipedia.org/wiki/벨타_아_에스파냐 "wikilink"))를 포함한다. 또한 이전 UCI 월드컵 경기들을 대부분 포함한다. 예를 들면 [파리-루베](https://ko.wikipedia.org/wiki/파리-루베 "wikilink"), [Tour of Flanders](https://ko.wikipedia.org/wiki/Tour_of_Flanders "wikilink"), [Liege Bastogne-Liege](https://ko.wikipedia.org/wiki/Liege_Bastogne-Liege "wikilink") 등이다.
+프로투어는 세 개의 [그랜드 투어](../Page/그랜드_투어.md "wikilink")([투르 드 프랑스](../Page/투르_드_프랑스.md "wikilink"), [지로 디탈리아](../Page/지로_디탈리아.md "wikilink"), [벨타 아 에스파냐](https://ko.wikipedia.org/wiki/벨타_아_에스파냐 "wikilink"))를 포함한다. 또한 이전 UCI 월드컵 경기들을 대부분 포함한다. 예를 들면 [파리-루베](https://ko.wikipedia.org/wiki/파리-루베 "wikilink"), [Tour of Flanders](https://ko.wikipedia.org/wiki/Tour_of_Flanders "wikilink"), [Liege Bastogne-Liege](https://ko.wikipedia.org/wiki/Liege_Bastogne-Liege "wikilink") 등이다.
 
 프로투어 라이선스는 20개 팀에 주어진다. 각 팀의 스폰서는 4년간의 후원 계약을 체결해야만 한다. Phonak 팀은 예외인데, 과거 도핑 사건으로 인해서 2년의 라이선스만 주어졌다.
 

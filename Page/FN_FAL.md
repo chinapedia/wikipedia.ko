@@ -13,7 +13,7 @@
 
   - : 경찰부대가 사용 중이다.
 
-  - : FAL은 [6일 전쟁](https://ko.wikipedia.org/wiki/6일_전쟁 "wikilink") 등에서 사용되었다. FAL은 모래와 먼지에 취약하여 작동 불량이 빈번하였고, 긴 길이 때문에 기계화 부대에 적합하지 않았다. 이러한 이유 때문에 많은 병사들은 노획한 [AK-47](../Page/AK-47.md "wikilink")이나 [M16 소총](../Page/M16_소총.md "wikilink"), [우지 기관단총을](https://ko.wikipedia.org/wiki/우지_기관단총 "wikilink") 선호하였다. FAL은 이후 [M16 소총과](../Page/M16_소총.md "wikilink") [갈릴 소총에](https://ko.wikipedia.org/wiki/갈릴_소총 "wikilink") 의해 대체되었다. 현재는 M4 카빈과 M16A2를 쓰고 있다.
+  - : FAL은 [6일 전쟁](https://ko.wikipedia.org/wiki/6일_전쟁 "wikilink") 등에서 사용되었다. FAL은 모래와 먼지에 취약하여 작동 불량이 빈번하였고, 긴 길이 때문에 기계화 부대에 적합하지 않았다. 이러한 이유 때문에 많은 병사들은 노획한 [AK-47](../Page/AK-47.md "wikilink")이나 [M16 소총](../Page/M16_소총.md "wikilink"), [우지 기관단총을](https://ko.wikipedia.org/wiki/우지_기관단총 "wikilink") 선호하였다. FAL은 이후 [M16 소총과](../Page/M16_소총.md "wikilink") [갈릴 소총에](../Page/갈릴_소총.md "wikilink") 의해 대체되었다. 현재는 M4 카빈과 M16A2를 쓰고 있다.
 
   - : 근위대가 사용 중이다.
 
@@ -142,7 +142,7 @@ CAL, FNC: 후에 5.56mm NATO탄이 NATO표준 탄약이 되자, 벨기에는 FAL
 ## 같이 보기
 
   - [헤클러&코흐 G3](https://ko.wikipedia.org/wiki/헤클러&코흐_G3 "wikilink")
-  - [M14 소총](https://ko.wikipedia.org/wiki/M14_소총 "wikilink")
+  - [M14 소총](../Page/M14_소총.md "wikilink")
 
 ## 외부 링크
 

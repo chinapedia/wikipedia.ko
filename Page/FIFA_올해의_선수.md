@@ -22,7 +22,7 @@
 <td><p><a href="../Page/2009년.md" title="wikilink">2009년</a> <small><br />
 <em><a href="https://ko.wikipedia.org/wiki/2009_FIFA_올해의_선수" title="wikilink">자세히</a></em></small></p></td>
 <td><p><strong>1위</strong></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/리오넬_메시" title="wikilink">리오넬 메시</a></strong></p></td>
+<td><p><strong><a href="../Page/리오넬_메시.md" title="wikilink">리오넬 메시</a></strong></p></td>
 <td></td>
 <td><p><strong><a href="../Page/공격수.md" title="wikilink">공격수</a></strong></p></td>
 </tr>
@@ -50,7 +50,7 @@
 </tr>
 <tr class="odd">
 <td><p>2위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/리오넬_메시" title="wikilink">리오넬 메시</a></p></td>
+<td><p><a href="../Page/리오넬_메시.md" title="wikilink">리오넬 메시</a></p></td>
 <td></td>
 <td><p><a href="../Page/공격수.md" title="wikilink">공격수</a></p></td>
 <td></td>
@@ -72,7 +72,7 @@
 </tr>
 <tr class="even">
 <td><p>2위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/리오넬_메시" title="wikilink">리오넬 메시</a></p></td>
+<td><p><a href="../Page/리오넬_메시.md" title="wikilink">리오넬 메시</a></p></td>
 <td></td>
 <td><p><a href="../Page/공격수.md" title="wikilink">공격수</a></p></td>
 <td></td>
@@ -138,7 +138,7 @@
 </tr>
 <tr class="odd">
 <td><p>2위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/티에리_앙리" title="wikilink">티에리 앙리</a></p></td>
+<td><p><a href="../Page/티에리_앙리.md" title="wikilink">티에리 앙리</a></p></td>
 <td></td>
 <td><p><a href="../Page/공격수.md" title="wikilink">공격수</a></p></td>
 <td></td>
@@ -160,7 +160,7 @@
 </tr>
 <tr class="even">
 <td><p>2위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/티에리_앙리" title="wikilink">티에리 앙리</a></p></td>
+<td><p><a href="../Page/티에리_앙리.md" title="wikilink">티에리 앙리</a></p></td>
 <td></td>
 <td><p><a href="../Page/공격수.md" title="wikilink">공격수</a></p></td>
 <td></td>
@@ -182,7 +182,7 @@
 </tr>
 <tr class="odd">
 <td><p>2위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/올리버_칸" title="wikilink">올리버 칸</a></p></td>
+<td><p><a href="../Page/올리버_칸.md" title="wikilink">올리버 칸</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/축구_포지션" title="wikilink">골키퍼</a></p></td>
 <td></td>
@@ -277,7 +277,7 @@
 </tr>
 <tr class="even">
 <td><p>3위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/다보르_슈케르" title="wikilink">다보르 슈케르</a></p></td>
+<td><p><a href="../Page/다보르_슈케르.md" title="wikilink">다보르 슈케르</a></p></td>
 <td></td>
 <td><p><a href="../Page/공격수.md" title="wikilink">공격수</a></p></td>
 <td></td>
@@ -322,7 +322,7 @@
 </tr>
 <tr class="even">
 <td><p>2위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/조지_웨아" title="wikilink">조지 웨아</a></p></td>
+<td><p><a href="../Page/조지_웨아.md" title="wikilink">조지 웨아</a></p></td>
 <td></td>
 <td><p><a href="../Page/공격수.md" title="wikilink">공격수</a></p></td>
 <td></td>
@@ -338,7 +338,7 @@
 <td><p><a href="../Page/1995년.md" title="wikilink">1995년</a> <small><br />
 <em><a href="https://ko.wikipedia.org/wiki/1995년_FIFA_올해의_선수" title="wikilink">자세히</a></em></small></p></td>
 <td><p><strong>1위</strong></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/조지_웨아" title="wikilink">조지 웨아</a></strong></p></td>
+<td><p><strong><a href="../Page/조지_웨아.md" title="wikilink">조지 웨아</a></strong></p></td>
 <td></td>
 <td><p><strong><a href="../Page/공격수.md" title="wikilink">공격수</a></strong></p></td>
 </tr>
@@ -366,7 +366,7 @@
 </tr>
 <tr class="even">
 <td><p>2위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/흐리스토_스토이치코프" title="wikilink">흐리스토 스토이치코프</a></p></td>
+<td><p><a href="../Page/흐리스토_스토이치코프.md" title="wikilink">흐리스토 스토이치코프</a></p></td>
 <td></td>
 <td><p><a href="../Page/공격수.md" title="wikilink">공격수</a></p></td>
 <td></td>
@@ -410,7 +410,7 @@
 </tr>
 <tr class="even">
 <td><p>2위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/흐리스토_스토이치코프" title="wikilink">흐리스토 스토이치코프</a></p></td>
+<td><p><a href="../Page/흐리스토_스토이치코프.md" title="wikilink">흐리스토 스토이치코프</a></p></td>
 <td></td>
 <td><p><a href="../Page/공격수.md" title="wikilink">공격수</a></p></td>
 <td></td>
@@ -609,7 +609,7 @@
 </tr>
 <tr class="odd">
 <td><p>3위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/한나_융베리" title="wikilink">한나 융베리</a></p></td>
+<td><p><a href="../Page/한나_융베리.md" title="wikilink">한나 융베리</a></p></td>
 <td></td>
 <td><p><a href="../Page/공격수.md" title="wikilink">공격수</a></p></td>
 <td></td>

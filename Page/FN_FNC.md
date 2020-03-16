@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FN FNC](https://ko.wikipedia.org/wiki/FN_FNC).
 
 
-**FN FNC**()는 [FN CAL의](https://ko.wikipedia.org/wiki/FN_CAL "wikilink") 실패를 교훈삼아 1970년대 중반 [파브리크 나시오날 드 에르스탈](https://ko.wikipedia.org/wiki/파브리크_나시오날_드_에르스탈 "wikilink")(Fabrique Nationale de Herstal)사에 의해 개발된 [돌격소총](../Page/돌격소총.md "wikilink")이다. FN FNC는 [FN FAL](https://ko.wikipedia.org/wiki/FN_FAL "wikilink"), [AK-47](../Page/AK-47.md "wikilink"), [M16](../Page/M16_소총.md "wikilink"), [갈릴 소총](https://ko.wikipedia.org/wiki/갈릴_소총 "wikilink") 등 잘 알려진 [소총](../Page/소총.md "wikilink")들을 참고하여 개발됐다.
+**FN FNC**()는 [FN CAL의](https://ko.wikipedia.org/wiki/FN_CAL "wikilink") 실패를 교훈삼아 1970년대 중반 [파브리크 나시오날 드 에르스탈](https://ko.wikipedia.org/wiki/파브리크_나시오날_드_에르스탈 "wikilink")(Fabrique Nationale de Herstal)사에 의해 개발된 [돌격소총](../Page/돌격소총.md "wikilink")이다. FN FNC는 [FN FAL](../Page/FN_FAL.md "wikilink"), [AK-47](../Page/AK-47.md "wikilink"), [M16](../Page/M16_소총.md "wikilink"), [갈릴 소총](../Page/갈릴_소총.md "wikilink") 등 잘 알려진 [소총](../Page/소총.md "wikilink")들을 참고하여 개발됐다.
 
 ## 설계
 
@@ -11,7 +11,7 @@
 
 발사 모드로는 반자동-점사-완전자동 3가지가 있다. M16A2/A4의 경우 점사 도중 탄약 부족 등의 이유로 작동이 멈추면 점사기구의 상태가 유지되어, 다시 방아쇠를 당길 때는 3발이 아닌 1발이나 2발이 발사된다. FNC의 3 점사기구의 경우, M16A2/A4와 달리 점사 도중 작동이 멈추면 처음 상태로 되돌아간다. 따라서 다시 방아쇠를 당길 때도 3발이 발사된다.
 
-장전 손잡이가 움직이는 홈에는 먼지 덮개가 있다. 이 먼지 덮개는 [FN 미니미의](https://ko.wikipedia.org/wiki/FN_미니미 "wikilink") 먼지 덮개와 비슷하다.
+장전 손잡이가 움직이는 홈에는 먼지 덮개가 있다. 이 먼지 덮개는 [FN 미니미의](../Page/FN_미니미.md "wikilink") 먼지 덮개와 비슷하다.
 
 FNC는 여러 면에서 [대한민국](../Page/대한민국.md "wikilink")의 [K2 소총과](../Page/K2_소총.md "wikilink") 비슷한 점이 있다는 말이 있다. 그러나 이는 총의 외관에만 해당하며 내부구조까지 비슷하지 않다.
 
@@ -31,7 +31,7 @@ FN FNC 소총의 변형으로는 공수부대를 위해 짧게 만들어진 FNC 
 
 ## 같이 보기
 
-  - [FN FAL](https://ko.wikipedia.org/wiki/FN_FAL "wikilink")
+  - [FN FAL](../Page/FN_FAL.md "wikilink")
   - [FN CAL](https://ko.wikipedia.org/wiki/FN_CAL "wikilink")
   - [K2 소총](../Page/K2_소총.md "wikilink")
 

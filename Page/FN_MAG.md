@@ -8,7 +8,7 @@
   - [FN 미니미](../Page/FN_미니미.md "wikilink")
   - [M249 분대지원화기](https://ko.wikipedia.org/wiki/M249_분대지원화기 "wikilink")
   - [M240 기관총](../Page/M240_기관총.md "wikilink")
-  - [M60 기관총](https://ko.wikipedia.org/wiki/M60_기관총 "wikilink")
+  - [M60 기관총](../Page/M60_기관총.md "wikilink")
   - [MG3](https://ko.wikipedia.org/wiki/MG3 "wikilink")
 
 ## 외부 링크

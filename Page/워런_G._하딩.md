@@ -41,7 +41,7 @@
 
 [1920년](../Page/1920년.md "wikilink") [시카고](../Page/시카고.md "wikilink")에서 열린 공화당 국립 회의에서 많은 대의원들은 [일리노이주](../Page/일리노이주.md "wikilink")지사 [프랭크 O. 로우던](https://ko.wikipedia.org/wiki/프랭크_O._로우던 "wikilink"), 전 [육군](../Page/미국_육군.md "wikilink") 참모 총장 [레너드 우드](https://ko.wikipedia.org/wiki/레너드_우드 "wikilink") 중장, [캘리포니아주](../Page/캘리포니아주.md "wikilink")의 상원 [하이럼 W. 존슨을](https://ko.wikipedia.org/wiki/하이럼_W._존슨 "wikilink") 지지하였다. 그러나 도허티의 출석은 장면들의 뒤에서 바빴다. 그의 환영인들은 모든 대의원들을 반기었고 그들에게 하딩을 지지하도록 몰아냈다.
 
-투표의 첫날에 회의는 4개의 결정 선거 후에 정돈을 휴회하였다. 그날 밤에 권력있는 상원과 정치적 보스들의 작은 단체는 도허티가 "막후 협상실"이라 부른 블랙스톤 호텔에서 만났다. 새벽 2시 쯤에 그들은 하딩이 타협적인 후보라는 동의를 하였다. 대의원들은 다음날 10번째 결정 선거에서 하딩을 후보로 임명하였으며, [매사추세츠주](../Page/매사추세츠주.md "wikilink")지사 [캘빈 쿨리지를](https://ko.wikipedia.org/wiki/캘빈_쿨리지 "wikilink") 러닝메이트로 선택하였다.
+투표의 첫날에 회의는 4개의 결정 선거 후에 정돈을 휴회하였다. 그날 밤에 권력있는 상원과 정치적 보스들의 작은 단체는 도허티가 "막후 협상실"이라 부른 블랙스톤 호텔에서 만났다. 새벽 2시 쯤에 그들은 하딩이 타협적인 후보라는 동의를 하였다. 대의원들은 다음날 10번째 결정 선거에서 하딩을 후보로 임명하였으며, [매사추세츠주](../Page/매사추세츠주.md "wikilink")지사 [캘빈 쿨리지를](../Page/캘빈_쿨리지.md "wikilink") 러닝메이트로 선택하였다.
 
 [민주당은](../Page/민주당_\(미국\).md "wikilink") 오하이오 주지사 [제임스 M. 콕스를](https://ko.wikipedia.org/wiki/제임스_M._콕스 "wikilink") 대통령 후보, 해군 보조 장관 [프랭클린 D. 루스벨트를](../Page/프랭클린_D._루스벨트.md "wikilink") 부통령 후보로 지명하였다.
 
@@ -59,7 +59,7 @@
 
 하딩은 국제 연맹에 정돈을 끝내는 데 빠르게 움직였다. 그는 언맹이 [독일](../Page/독일.md "wikilink")과 다른 중앙 권력들과 함께 계약이 포함되지 않은 평화 조약들을 맺었다. 의회는 국재적 입법에서 지도자력을 차지하였다. [1921년](../Page/1921년.md "wikilink") 처음으로 [이민](https://ko.wikipedia.org/wiki/이민 "wikilink")에 몫을 놓았고 [세금](https://ko.wikipedia.org/wiki/세금 "wikilink")을 줄였다. [1922년](../Page/1922년.md "wikilink")에 관세를 기록 신장으로 올렸다.
 
-농업 장관 [헨리 C. 월리스는](https://ko.wikipedia.org/wiki/헨리_C._월리스 "wikilink") 농업부와 농부들에게 이득을 준 진흥적 입법을 인정하였다. 당시 상업 장관 [허버트 후버는](https://ko.wikipedia.org/wiki/허버트_후버 "wikilink") 상업적인 비행과 라디오 방송을 위한 규정들을 제안하였고 [철강업](https://ko.wikipedia.org/wiki/철강업 "wikilink")에서 12시간의 근로일을 끝내는 데 도움을 주었다. 국무 장관 [찰스 에반스 휴스의](https://ko.wikipedia.org/wiki/찰스_에반스_휴스 "wikilink") 지도력 아래 [워싱턴 군축회의가](https://ko.wikipedia.org/wiki/워싱턴_군축회의 "wikilink") [1921년](../Page/1921년.md "wikilink")과 [1922년](../Page/1922년.md "wikilink")에 열렸다.
+농업 장관 [헨리 C. 월리스는](https://ko.wikipedia.org/wiki/헨리_C._월리스 "wikilink") 농업부와 농부들에게 이득을 준 진흥적 입법을 인정하였다. 당시 상업 장관 [허버트 후버는](../Page/허버트_후버.md "wikilink") 상업적인 비행과 라디오 방송을 위한 규정들을 제안하였고 [철강업](https://ko.wikipedia.org/wiki/철강업 "wikilink")에서 12시간의 근로일을 끝내는 데 도움을 주었다. 국무 장관 [찰스 에반스 휴스의](https://ko.wikipedia.org/wiki/찰스_에반스_휴스 "wikilink") 지도력 아래 [워싱턴 군축회의가](https://ko.wikipedia.org/wiki/워싱턴_군축회의 "wikilink") [1921년](../Page/1921년.md "wikilink")과 [1922년](../Page/1922년.md "wikilink")에 열렸다.
 
 ### 정부의 스캔들
 
@@ -73,7 +73,7 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:HardingFuneral.jpg "wikilink") 농업 경제의 대공황이 [1922년](../Page/1922년.md "wikilink")의 선거에서 공화당원들이 나쁜 실수를 하는 원인이 되었다. [1923년](../Page/1923년.md "wikilink") [6월](../Page/6월.md "wikilink") 하딩은 담화 순회를 만들어 자신의 행정부에서 신임을 재생하는 일을 찾았다. 부인과 큰 공무적 당과 함께 그는 국가를 가로질러 [캐나다](../Page/캐나다.md "wikilink")와 [알래스카](https://ko.wikipedia.org/wiki/알래스카 "wikilink")를 방문한 첫 대통령이 되었다. 워싱턴으로부터 긴 전갈이 하딩의 통로를 도달하였다. 그 일은 석유 임대들의 상원적 투자에 관한 소식을 방해하고 말았다. 기자들은 우울해진 하딩이 자신의 친구들에 의하여 배신당할 때 대통령이 무슨 일을 할 수 있었냐에 그들에게 의문하였다.
 
-자신의 기차가 [시애틀](../Page/시애틀.md "wikilink")을 지나갈 때 하딩은 [식중독](https://ko.wikipedia.org/wiki/식중독 "wikilink")에 걸려 병이 들기 시작하였다. 여행은 의사들이 하딩은 [폐렴](../Page/폐렴.md "wikilink")에 걸렸다고 보고한 [샌프란시스코](../Page/샌프란시스코.md "wikilink")에서 멈췄다. 하딩은 거기서 [8월 2일에](../Page/8월_2일.md "wikilink") 58세로 사망하였다.
+자신의 기차가 [시애틀](../Page/시애틀.md "wikilink")을 지나갈 때 하딩은 [식중독](../Page/식중독.md "wikilink")에 걸려 병이 들기 시작하였다. 여행은 의사들이 하딩은 [폐렴](../Page/폐렴.md "wikilink")에 걸렸다고 보고한 [샌프란시스코](../Page/샌프란시스코.md "wikilink")에서 멈췄다. 하딩은 거기서 [8월 2일에](../Page/8월_2일.md "wikilink") 58세로 사망하였다.
 
 그의 시체가 워싱턴으로 돌아오면서 수많은 애도자들이 모여들었다. 그의 유해는 매리언으로 옮겨졌으며, 플로렌스 여사도 [1924년](../Page/1924년.md "wikilink") [11월 21일에](../Page/11월_21일.md "wikilink") 사망하여 남편 옆에 안장되었다.
 

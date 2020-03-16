@@ -5,7 +5,7 @@
 
 피파 시리즈의 온라인판이므로 피파 온라인이 출시된 [2006년](../Page/2006년.md "wikilink")을 기준으로 최신 [피파 시리즈라고](https://ko.wikipedia.org/wiki/피파_시리즈 "wikilink") 할 수 있는 'FIFA 06'과 여러모로 유사한 면이 많다. 그러나 온라인 판이기 때문에 온라인만의 특성을 지니고 있다. 기존 'FIFA 시리즈'에서 있던 커리어모드와 매치모드로 구성되어 있는 것은 같지만, 매치모드의 경우 다른 사용자와의 1:1 대결뿐만 아니라 2:2 대결도 할 수 있으며 단판 승부뿐만 아니라, 토너먼트식으로도 여럿이서 게임을 즐기는 것도 할 수 있다. 한편, 커리어모드에서는 월드투어로 자신이 이끌어나가는 팀을 다른 사용자들과 겨뤄보게 할 수 있다.
 
-그리고 피파 온라인에서는 기존 ['피파 06'의 사운드트랙뿐만](https://ko.wikipedia.org/wiki/피파_시리즈_사운드트랙 "wikilink") 아니라, [버즈](https://ko.wikipedia.org/wiki/버즈_\(대한민국의_밴드\) "wikilink"), [트랜스 픽션](https://ko.wikipedia.org/wiki/트랜스_픽션 "wikilink"), [싸이](https://ko.wikipedia.org/wiki/싸이 "wikilink") 등이 부른 월드컵 응원가도 추가되어 화제가 되기도 하였다. 또한 2006년 [12월 14일에](../Page/12월_14일.md "wikilink") 실시된 그랜드 업데이트 패치로 사운드 트랙과 로스터, 유니폼, 선수 얼굴 등이 변경되었다.
+그리고 피파 온라인에서는 기존 ['피파 06'의 사운드트랙뿐만](https://ko.wikipedia.org/wiki/피파_시리즈_사운드트랙 "wikilink") 아니라, [버즈](https://ko.wikipedia.org/wiki/버즈_\(대한민국의_밴드\) "wikilink"), [트랜스 픽션](https://ko.wikipedia.org/wiki/트랜스_픽션 "wikilink"), [싸이](../Page/싸이.md "wikilink") 등이 부른 월드컵 응원가도 추가되어 화제가 되기도 하였다. 또한 2006년 [12월 14일에](../Page/12월_14일.md "wikilink") 실시된 그랜드 업데이트 패치로 사운드 트랙과 로스터, 유니폼, 선수 얼굴 등이 변경되었다.
 
 한편, 이 게임의 공동 제작사인 네오위즈게임즈는 [2007년](../Page/2007년.md "wikilink") [9월 28일에는](../Page/9월_28일.md "wikilink") 기존의 피파 온라인에서 차용한 FIFA 06 엔진 대신에 FIFA 07 엔진을 채용한 '[피파 온라인 2](https://ko.wikipedia.org/wiki/피파_온라인_2 "wikilink")'를 출시한다고 발표했다. 제작사에 따르면, '피파 온라인 2'는 기존의 피파 온라인의 단순 업데이트 버전이 아니라, 별도의 게임이 될 것이라고 한다.\[1\]\[2\] 피파 온라인은 [2008년 6월](../Page/2008년_6월.md "wikilink") 서비스 종료되었다.
 
@@ -49,7 +49,7 @@
 
 ## 배경 음악
 
-현재의 배경 음악은 ['피파 06'의 사운드트랙과](https://ko.wikipedia.org/wiki/피파_시리즈_사운드트랙 "wikilink") 동일하다. ['피파 06'의 사운드트랙에](https://ko.wikipedia.org/wiki/피파_시리즈_사운드트랙 "wikilink") 삽입된 음악이 현재 '피파 온라인'의 배경음악이기도 하다. 거기에다, 2006년 대한민국 월드컵 응원가였던 [버즈의](https://ko.wikipedia.org/wiki/버즈_\(대한민국의_밴드\) "wikilink") \<Reds, Go Together\!\>, [트랜스 픽션의](https://ko.wikipedia.org/wiki/트랜스_픽션 "wikilink") <승리를 위하여>, [싸이](https://ko.wikipedia.org/wiki/싸이 "wikilink")의 <We Are The One> 등이 삽입되었다.
+현재의 배경 음악은 ['피파 06'의 사운드트랙과](https://ko.wikipedia.org/wiki/피파_시리즈_사운드트랙 "wikilink") 동일하다. ['피파 06'의 사운드트랙에](https://ko.wikipedia.org/wiki/피파_시리즈_사운드트랙 "wikilink") 삽입된 음악이 현재 '피파 온라인'의 배경음악이기도 하다. 거기에다, 2006년 대한민국 월드컵 응원가였던 [버즈의](https://ko.wikipedia.org/wiki/버즈_\(대한민국의_밴드\) "wikilink") \<Reds, Go Together\!\>, [트랜스 픽션의](https://ko.wikipedia.org/wiki/트랜스_픽션 "wikilink") <승리를 위하여>, [싸이](../Page/싸이.md "wikilink")의 <We Are The One> 등이 삽입되었다.
 
 ## 각주
 

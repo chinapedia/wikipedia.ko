@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [GTK+](https://ko.wikipedia.org/wiki/GTK+).
 
 
-**GTK+**는 **김프 툴킷**(GIMP Toolkit)의 준말로, 초기에 [김프](../Page/김프.md "wikilink")를 위해서 만든 툴킷이었으며 [X 윈도 시스템을](../Page/X_윈도_시스템.md "wikilink") 위한 위젯 툴킷 가운데 하나이다. GTK+와 [Qt는](../Page/Qt_\(프레임워크\).md "wikilink") [모티프에](https://ko.wikipedia.org/wiki/모티프_\(위젯_툴킷\) "wikilink") 대한 좋은 대안이 되어 주었다. GTK+는 1997년 [스펜서 킴볼](https://ko.wikipedia.org/wiki/스펜서_킴볼 "wikilink")(Spencer Kimball), [피터 마티스](https://ko.wikipedia.org/wiki/피터_마티스 "wikilink")(Peter Mattis), [조시 맥도널드](https://ko.wikipedia.org/wiki/조시_맥도널드 "wikilink")(Josh MacDonald)가 함께 만든 것이다. 그들은 모두 [UC 버클리에](https://ko.wikipedia.org/wiki/UC_버클리 "wikilink") 있는 [eXperimental Computing Facility](https://ko.wikipedia.org/wiki/eXperimental_Computing_Facility "wikilink") (XCF) 소속이었다. [LGPL로](../Page/GNU_약소_일반_공중_사용_허가서.md "wikilink") 라이선스되었기 때문에, GTK+는 자유 소프트웨어이자 오픈 소스 소프트웨어이고, GNU 프로젝트의 일부분이다.
+**GTK+**는 **김프 툴킷**(GIMP Toolkit)의 준말로, 초기에 [김프](../Page/김프.md "wikilink")를 위해서 만든 툴킷이었으며 [X 윈도 시스템을](../Page/X_윈도_시스템.md "wikilink") 위한 위젯 툴킷 가운데 하나이다. GTK+와 [Qt는](../Page/Qt_\(프레임워크\).md "wikilink") [모티프에](../Page/모티프_\(위젯_툴킷\).md "wikilink") 대한 좋은 대안이 되어 주었다. GTK+는 1997년 [스펜서 킴볼](https://ko.wikipedia.org/wiki/스펜서_킴볼 "wikilink")(Spencer Kimball), [피터 마티스](https://ko.wikipedia.org/wiki/피터_마티스 "wikilink")(Peter Mattis), [조시 맥도널드](https://ko.wikipedia.org/wiki/조시_맥도널드 "wikilink")(Josh MacDonald)가 함께 만든 것이다. 그들은 모두 [UC 버클리에](https://ko.wikipedia.org/wiki/UC_버클리 "wikilink") 있는 [eXperimental Computing Facility](https://ko.wikipedia.org/wiki/eXperimental_Computing_Facility "wikilink") (XCF) 소속이었다. [LGPL로](../Page/GNU_약소_일반_공중_사용_허가서.md "wikilink") 라이선스되었기 때문에, GTK+는 자유 소프트웨어이자 오픈 소스 소프트웨어이고, GNU 프로젝트의 일부분이다.
 
 ## 설계
 
@@ -133,7 +133,7 @@ $ valac --pkg gtk+-3.0 HelloWorldGtk.vala
 
 ## 모양
 
-사용자는 디스플레이 엔진으로 툴킷의 모양을 설정할 수 있다. 엔진들은 [윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink"), [모티프](https://ko.wikipedia.org/wiki/모티프_\(위젯_툴킷\) "wikilink"), [Qt](../Page/Qt_\(프레임워크\).md "wikilink"), [넥스트스텝](https://ko.wikipedia.org/wiki/넥스트스텝 "wikilink")등의 모양으로 그려줄 수 있다.
+사용자는 디스플레이 엔진으로 툴킷의 모양을 설정할 수 있다. 엔진들은 [윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink"), [모티프](../Page/모티프_\(위젯_툴킷\).md "wikilink"), [Qt](../Page/Qt_\(프레임워크\).md "wikilink"), [넥스트스텝](https://ko.wikipedia.org/wiki/넥스트스텝 "wikilink")등의 모양으로 그려줄 수 있다.
 
 ## GTK+를 사용하는 환경
 

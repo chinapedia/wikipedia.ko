@@ -3,7 +3,7 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:University_Song_Festival_2008.jpg "wikilink") **MBC 대학가요제**(MBC 大學歌謠祭)는 [문화방송](../Page/문화방송.md "wikilink")이 주최했으며 현재는 [MBC플러스](https://ko.wikipedia.org/wiki/MBC플러스 "wikilink")에서 주최하고 있는 대학생 대상의 가요제이다. 명랑한 대학풍토 조성과 건전가요 발굴을 목적으로 시작하였으며, 참가한 대학생들은 창작곡으로 노래 실력을 겨룬다. 이전까지 본선은 문화방송을 통해 [생방송](../Page/생방송.md "wikilink") 혹은 [딜레이](https://ko.wikipedia.org/wiki/딜레이 "wikilink") 녹화방송으로 진행되었다. [1976년](../Page/1976년.md "wikilink") [9월 11일](../Page/9월_11일.md "wikilink") 열린 제1회 대학가요제 이후로 매년 개최되었고, [2012년](../Page/2012년.md "wikilink")을 끝으로 잠시 폐지된 바 있다.\[1\]
 
-대학가요제는 1970\~80년대에 큰 인기를 누렸으며, 대학가요제의 참가 또는 입상을 계기로 많은 가수들이 데뷔하였다. [배철수](https://ko.wikipedia.org/wiki/배철수 "wikilink"), [임백천](../Page/임백천.md "wikilink"), [심수봉](../Page/심수봉.md "wikilink"), [노사연](../Page/노사연.md "wikilink"), [김학래](../Page/김학래_\(가수\).md "wikilink"), [조하문](../Page/조하문.md "wikilink"), [우순실](../Page/우순실.md "wikilink"), [김장수](../Page/김장수_\(가수\).md "wikilink"), [조갑경](../Page/조갑경.md "wikilink"), [원미연](../Page/원미연.md "wikilink"), [유열](../Page/유열.md "wikilink"), [이규석](../Page/이규석_\(가수\).md "wikilink"), [이재성](https://ko.wikipedia.org/wiki/이재성 "wikilink"), [이무송](../Page/이무송.md "wikilink"), [장철웅](https://ko.wikipedia.org/wiki/장철웅 "wikilink"), [신해철](../Page/신해철.md "wikilink"), [주병선](../Page/주병선.md "wikilink"), [이정석](../Page/이정석_\(가수\).md "wikilink"), [김경호](../Page/김경호_\(가수\).md "wikilink"), [전람회](../Page/전람회_\(음악_그룹\).md "wikilink")([김동률](../Page/김동률.md "wikilink")) 외 등등이 그들이다.
+대학가요제는 1970\~80년대에 큰 인기를 누렸으며, 대학가요제의 참가 또는 입상을 계기로 많은 가수들이 데뷔하였다. [배철수](../Page/배철수.md "wikilink"), [임백천](../Page/임백천.md "wikilink"), [심수봉](../Page/심수봉.md "wikilink"), [노사연](../Page/노사연.md "wikilink"), [김학래](../Page/김학래_\(가수\).md "wikilink"), [조하문](../Page/조하문.md "wikilink"), [우순실](../Page/우순실.md "wikilink"), [김장수](../Page/김장수_\(가수\).md "wikilink"), [조갑경](../Page/조갑경.md "wikilink"), [원미연](../Page/원미연.md "wikilink"), [유열](../Page/유열.md "wikilink"), [이규석](../Page/이규석_\(가수\).md "wikilink"), [이재성](https://ko.wikipedia.org/wiki/이재성 "wikilink"), [이무송](../Page/이무송.md "wikilink"), [장철웅](https://ko.wikipedia.org/wiki/장철웅 "wikilink"), [신해철](../Page/신해철.md "wikilink"), [주병선](../Page/주병선.md "wikilink"), [이정석](../Page/이정석_\(가수\).md "wikilink"), [김경호](../Page/김경호_\(가수\).md "wikilink"), [전람회](../Page/전람회_\(음악_그룹\).md "wikilink")([김동률](../Page/김동률.md "wikilink")) 외 등등이 그들이다.
 
 [1990년대](../Page/1990년대.md "wikilink") 들어서 놀거리가 다양해지는 등 사회의 변화 물결에 따라서 MBC 대학가요제의 영향력도 조금씩 감소해져 갔다. 유일하게 [2000년대](../Page/2000년대.md "wikilink") 이후에 주목을 받은 팀으로는 [2005년](../Page/2005년.md "wikilink") 대학가요제 대상팀인 [Ex와](https://ko.wikipedia.org/wiki/익스 "wikilink") 2006년 "무관의 제왕"인 뮤즈그레인(Muzgrain)이 있다. [Ex는](https://ko.wikipedia.org/wiki/익스 "wikilink") 정규 음반 1장을 출시하며 가요계에 데뷔했다. 하지만 [Ex도](https://ko.wikipedia.org/wiki/익스 "wikilink") [2007년](../Page/2007년.md "wikilink") 이후 활동이 거의 없는 상황이며 보컬 [이상미](../Page/이상미.md "wikilink")만이 개인 활동을 하고 있다. 2008년 은상을 받았던 [랄라스윗](../Page/랄라스윗.md "wikilink")을 비롯하여 [루시아](../Page/심규선.md "wikilink")(심규선), [데이브레이크](https://ko.wikipedia.org/wiki/데이브레이크 "wikilink"), [슈퍼키드](https://ko.wikipedia.org/wiki/슈퍼키드 "wikilink"), [좋아서 하는 밴드](../Page/좋아서_하는_밴드.md "wikilink"), 이인세 등 대학가요제 수상경력이 있는 뮤지션들이거나 그들이 주축인 밴드들이 언더그라운드에서 폭넓게 활동중이다.
 
@@ -55,7 +55,7 @@
 <td><p><a href="../Page/9월_11일.md" title="wikilink">9월 11일</a></p></td>
 <td><p><a href="../Page/김학래_(가수).md" title="wikilink">김학래</a>, <a href="../Page/임철우.md" title="wikilink">임철우</a></p></td>
 <td><p>〈내가〉</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/명지대학교" title="wikilink">명지대학교</a></p></td>
+<td><p><a href="../Page/명지대학교.md" title="wikilink">명지대학교</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -439,7 +439,7 @@
 (박마성<sup>1</sup>, 최홍<sup>2</sup>, 심재광<sup>2</sup>, 김범수<sup>2</sup>)</p></td>
 <td><p>〈너만이〉</p></td>
 <td><p><sup>1</sup> <a href="../Page/동아방송예술대학교.md" title="wikilink">동아방송예술대학교</a><br />
-<sup>2</sup> <a href="https://ko.wikipedia.org/wiki/명지대학교" title="wikilink">명지대학교</a></p></td>
+<sup>2</sup> <a href="../Page/명지대학교.md" title="wikilink">명지대학교</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -518,7 +518,7 @@
           - 1\. 경상북도: 장철웅 ([영남대학교](../Page/영남대학교.md "wikilink")), 이용진 (영남공업전문대학교) 등. - 친구여\!
           - 2\. 서울특별시: 열두냥 서푼 \<진종욱 (서울외국어대학교), [서울예술전문대학](../Page/서울예술대학교.md "wikilink") 3명 (김명국, 마동진, 전헌태) 등.\> - 12시 정각이었어\!
       - 금상
-          - 서울특별시: 도깨비 \<조태선 ([명지대학교](https://ko.wikipedia.org/wiki/명지대학교 "wikilink")), 홍천기 ([순천향대학교](../Page/순천향대학교.md "wikilink")), 이영재 ([서울예술전문대학](../Page/서울예술대학교.md "wikilink")), 백대현([추계예술전문대학교](../Page/추계예술대학교.md "wikilink")) 등.\> - 도깨비 잔치
+          - 서울특별시: 도깨비 \<조태선 ([명지대학교](../Page/명지대학교.md "wikilink")), 홍천기 ([순천향대학교](../Page/순천향대학교.md "wikilink")), 이영재 ([서울예술전문대학](../Page/서울예술대학교.md "wikilink")), 백대현([추계예술전문대학교](../Page/추계예술대학교.md "wikilink")) 등.\> - 도깨비 잔치
   - 1984년 (제 8 회)
       - 인기상
           - 재일동포: 박호미 (일본 경응대학교) - 그 순간
@@ -844,7 +844,7 @@
   - 1998년 : [임백천](../Page/임백천.md "wikilink"), [명세빈](../Page/명세빈.md "wikilink"), [이수만](../Page/이수만.md "wikilink"), [임예진](../Page/임예진.md "wikilink")
   - 1999년 : [이문세](../Page/이문세.md "wikilink")
   - 2000년 : [이문세](../Page/이문세.md "wikilink")
-  - 2001년 : [배철수](https://ko.wikipedia.org/wiki/배철수 "wikilink"), [박경림](../Page/박경림.md "wikilink")
+  - 2001년 : [배철수](../Page/배철수.md "wikilink"), [박경림](../Page/박경림.md "wikilink")
   - 2002년 : [윤도현](../Page/윤도현.md "wikilink"), [차태현](../Page/차태현.md "wikilink")
   - 2003년 : [차태현](../Page/차태현.md "wikilink"), [이효리](../Page/이효리.md "wikilink") (보조 MC [김제동](../Page/김제동.md "wikilink"))
   - 2004년 : [김제동](../Page/김제동.md "wikilink"), 이효리
@@ -853,7 +853,7 @@
   - 2007년 : [차태현](../Page/차태현.md "wikilink"), [이효리](../Page/이효리.md "wikilink")
   - 2008년 : [타블로](../Page/타블로.md "wikilink"), [이효리](../Page/이효리.md "wikilink"), [오상진](../Page/오상진.md "wikilink")
   - 2009년 : [알렉스](../Page/알렉스_\(가수\).md "wikilink"), [이효리](../Page/이효리.md "wikilink")
-  - 2010년 : [배철수](https://ko.wikipedia.org/wiki/배철수 "wikilink"), [이효리](../Page/이효리.md "wikilink")
+  - 2010년 : [배철수](../Page/배철수.md "wikilink"), [이효리](../Page/이효리.md "wikilink")
   - 2011년 : [정재형](https://ko.wikipedia.org/wiki/정재형 "wikilink"), [이효리](../Page/이효리.md "wikilink")
   - 2012년 : [이적](../Page/이적_\(가수\).md "wikilink"), [수지](../Page/수지_\(대한민국의_가수\).md "wikilink")
   - 2019년 : [이창민](../Page/이창민_\(가수\).md "wikilink"), [예은](https://ko.wikipedia.org/wiki/예은 "wikilink")
