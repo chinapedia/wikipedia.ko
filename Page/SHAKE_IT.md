@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SHAKE IT](https://ko.wikipedia.org/wiki/SHAKE_IT).
 
 
-《**SHAKE IT**》은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [걸 그룹](https://ko.wikipedia.org/wiki/걸_그룹 "wikilink") [씨스타](https://ko.wikipedia.org/wiki/씨스타 "wikilink")의 세 번째 미니 음반이다. 타이틀곡은 〈SHAKE IT〉으로, [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [6월 22일에](https://ko.wikipedia.org/wiki/6월_22일 "wikilink") 음원과 음반을 동시에 발매했다.
+《**SHAKE IT**》은 [대한민국](../Page/대한민국.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") [씨스타](../Page/씨스타.md "wikilink")의 세 번째 미니 음반이다. 타이틀곡은 〈SHAKE IT〉으로, [2015년](../Page/2015년.md "wikilink") [6월 22일에](../Page/6월_22일.md "wikilink") 음원과 음반을 동시에 발매했다.
 
 ## 수록곡
 
@@ -45,7 +45,7 @@
 <td><p>3</p></td>
 </tr>
 <tr class="even">
-<td><p>미국 (<a href="https://ko.wikipedia.org/wiki/빌보드" title="wikilink">빌보드 월드 앨범</a>)[4]</p></td>
+<td><p>미국 (<a href="../Page/빌보드.md" title="wikilink">빌보드 월드 앨범</a>)[4]</p></td>
 <td><p>6</p></td>
 </tr>
 <tr class="odd">

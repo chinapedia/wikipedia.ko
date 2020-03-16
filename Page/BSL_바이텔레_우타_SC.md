@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BSL   SC](https://ko.wikipedia.org/wiki/BSL___SC).
 
 
-**BSL 바이텔레 우타 SC**는 [사모아](https://ko.wikipedia.org/wiki/사모아 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 현재 [사모아 내셔널 리그에](../Page/사모아_내셔널_리그.md "wikilink") 참가하고 있다. 리저브 팀, 17세 이하, 15세 이하, 12세 이하 팀이 각각 존재한다.
+**BSL 바이텔레 우타 SC**는 [사모아](../Page/사모아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재 [사모아 내셔널 리그에](../Page/사모아_내셔널_리그.md "wikilink") 참가하고 있다. 리저브 팀, 17세 이하, 15세 이하, 12세 이하 팀이 각각 존재한다.
 
 ## 역사
 

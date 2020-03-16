@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [In Love With The Music](https://ko.wikipedia.org/wiki/In_Love_With_The_Music).
 
 
-**In Love With The Music**는 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [6월 10일에](https://ko.wikipedia.org/wiki/6월_10일 "wikilink") 발매된 윈즈([w-inds.](https://ko.wikipedia.org/wiki/w-inds. "wikilink"))의 35번째 싱글이다.
+**In Love With The Music**는 [2015년](../Page/2015년.md "wikilink") [6월 10일에](../Page/6월_10일.md "wikilink") 발매된 윈즈([w-inds.](https://ko.wikipedia.org/wiki/w-inds. "wikilink"))의 35번째 싱글이다.
 
 ## 앨범 종류
 

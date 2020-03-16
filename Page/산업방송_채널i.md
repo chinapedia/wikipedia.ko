@@ -5,11 +5,11 @@
 
 ## [산업방송 채널i](../Page/산업방송_채널i.md "wikilink") 개국
 
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [4월 30일에](https://ko.wikipedia.org/wiki/4월_30일 "wikilink") 개국하였다.
+  - [2014년](../Page/2014년.md "wikilink") [4월 30일에](../Page/4월_30일.md "wikilink") 개국하였다.
 
 ## 연혁
 
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [4월 30일](https://ko.wikipedia.org/wiki/4월_30일 "wikilink") 산업방송 채널 i 개국
+  - [2014년](../Page/2014년.md "wikilink") [4월 30일](../Page/4월_30일.md "wikilink") 산업방송 채널 i 개국
 
 ## 인력 현황
 

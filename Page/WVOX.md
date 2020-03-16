@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WVOX](https://ko.wikipedia.org/wiki/WVOX).
 
 
-**WVOX**는 [뉴욕주](https://ko.wikipedia.org/wiki/뉴욕주 "wikilink") [뉴로셸](https://ko.wikipedia.org/wiki/뉴로셸 "wikilink")에 방송 라이센스를 가지고 있으며, [뉴욕 대도시권](https://ko.wikipedia.org/wiki/뉴욕_대도시권 "wikilink")([웨스트체스터 군](https://ko.wikipedia.org/wiki/웨스트체스터_군 "wikilink"), [브롱스](https://ko.wikipedia.org/wiki/브롱스 "wikilink"), [퀸즈](https://ko.wikipedia.org/wiki/퀸즈 "wikilink"), [롱아일랜드](https://ko.wikipedia.org/wiki/롱아일랜드 "wikilink"), [코네티컷주](https://ko.wikipedia.org/wiki/코네티컷주 "wikilink") 남부, [뉴저지](https://ko.wikipedia.org/wiki/뉴저지 "wikilink") 북부)을 권역으로 하는 [라디오 방송국이다](https://ko.wikipedia.org/wiki/라디오_방송국 "wikilink"). 휘트니 방송(Whitney Broadcasting)의 자회사로 소속되어 있다. 호출부호의 VOX는 voice(음성)의 [라틴어](https://ko.wikipedia.org/wiki/라틴어 "wikilink")이다.
+**WVOX**는 [뉴욕주](../Page/뉴욕주.md "wikilink") [뉴로셸](https://ko.wikipedia.org/wiki/뉴로셸 "wikilink")에 방송 라이센스를 가지고 있으며, [뉴욕 대도시권](../Page/뉴욕_대도시권.md "wikilink")([웨스트체스터 군](https://ko.wikipedia.org/wiki/웨스트체스터_군 "wikilink"), [브롱스](https://ko.wikipedia.org/wiki/브롱스 "wikilink"), [퀸즈](https://ko.wikipedia.org/wiki/퀸즈 "wikilink"), [롱아일랜드](../Page/롱아일랜드.md "wikilink"), [코네티컷주](../Page/코네티컷주.md "wikilink") 남부, [뉴저지](https://ko.wikipedia.org/wiki/뉴저지 "wikilink") 북부)을 권역으로 하는 [라디오 방송국이다](https://ko.wikipedia.org/wiki/라디오_방송국 "wikilink"). 휘트니 방송(Whitney Broadcasting)의 자회사로 소속되어 있다. 호출부호의 VOX는 voice(음성)의 [라틴어](../Page/라틴어.md "wikilink")이다.
 
 ## 개요
 

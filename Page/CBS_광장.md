@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CBS ](https://ko.wikipedia.org/wiki/CBS_).
 
 
-《**CBS 광장**》은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 방송국 [기독교방송](https://ko.wikipedia.org/wiki/기독교방송 "wikilink")의 라디오 채널 [CBS 표준FM에서](https://ko.wikipedia.org/wiki/CBS_표준FM "wikilink") 매주 일요일 오전 8시 \~ 오전 8시 55분까지 방송하는 라디오 프로그램이다.
+《**CBS 광장**》은 [대한민국](../Page/대한민국.md "wikilink")의 방송국 [기독교방송](https://ko.wikipedia.org/wiki/기독교방송 "wikilink")의 라디오 채널 [CBS 표준FM에서](../Page/CBS_표준FM.md "wikilink") 매주 일요일 오전 8시 \~ 오전 8시 55분까지 방송하는 라디오 프로그램이다.
 
 매주 기독교계 인사를 초대하여 한국 기독교 현안에 대해 이야기한다.
 
@@ -18,7 +18,7 @@
 
 ## 같이 보기
 
-  - [CBS 표준FM](https://ko.wikipedia.org/wiki/CBS_표준FM "wikilink")
+  - [CBS 표준FM](../Page/CBS_표준FM.md "wikilink")
   - [기독교방송](https://ko.wikipedia.org/wiki/기독교방송 "wikilink")
 
 ## 외부 링크

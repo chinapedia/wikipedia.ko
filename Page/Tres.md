@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Tres](https://ko.wikipedia.org/wiki/Tres).
 
 
-《**Tres**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 여성 솔로 가수 [백지영](https://ko.wikipedia.org/wiki/백지영 "wikilink")의 세 번째 [정규 음반이다](https://ko.wikipedia.org/wiki/정규_음반 "wikilink").
+《**Tres**》는 [대한민국](../Page/대한민국.md "wikilink")의 여성 솔로 가수 [백지영](../Page/백지영.md "wikilink")의 세 번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
 
 ## 수록곡 목록
 

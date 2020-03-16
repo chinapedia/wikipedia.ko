@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SkyPetpark](https://ko.wikipedia.org/wiki/SkyPetpark).
 
 
-**skyPetpark**(스카이펫파크)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [방송채널 사용사업자인](https://ko.wikipedia.org/wiki/대한민국_방송법 "wikilink") 스카이라이프TV의 [애완동물](https://ko.wikipedia.org/wiki/애완동물 "wikilink") 및 반려동물 전문 케이블TV 채널이다. 현재 이 채널은 [KT스카이라이프](https://ko.wikipedia.org/wiki/KT스카이라이프 "wikilink")와 KT의 [올레 TV에서만](https://ko.wikipedia.org/wiki/올레_TV "wikilink") 제한적으로 송출 가능하며, 다시보기는 [네이버](https://ko.wikipedia.org/wiki/네이버 "wikilink"), [유튜브](https://ko.wikipedia.org/wiki/유튜브 "wikilink")에서도 제공 가능하다. 그러나 스카이 펫파크는 SK브로드밴드 등 다른 IPTV 사업자와 케이블TV에서도 확대 수신 가능하다.
+**skyPetpark**(스카이펫파크)는 [대한민국](../Page/대한민국.md "wikilink")의 [방송채널 사용사업자인](https://ko.wikipedia.org/wiki/대한민국_방송법 "wikilink") 스카이라이프TV의 [애완동물](../Page/애완동물.md "wikilink") 및 반려동물 전문 케이블TV 채널이다. 현재 이 채널은 [KT스카이라이프](../Page/KT스카이라이프.md "wikilink")와 KT의 [올레 TV에서만](../Page/올레_TV.md "wikilink") 제한적으로 송출 가능하며, 다시보기는 [네이버](../Page/네이버.md "wikilink"), [유튜브](../Page/유튜브.md "wikilink")에서도 제공 가능하다. 그러나 스카이 펫파크는 SK브로드밴드 등 다른 IPTV 사업자와 케이블TV에서도 확대 수신 가능하다.
 
 ## 주요 프로그램
 
@@ -20,14 +20,14 @@
   - [마이펫연구소](https://ko.wikipedia.org/wiki/마이펫연구소 "wikilink")
   - [진짜 귀여워](../Page/야옹멍멍_귀여워.md "wikilink")
   - [펫과사전](https://ko.wikipedia.org/wiki/펫과사전 "wikilink")
-  - [식빵 굽는 고양이](https://ko.wikipedia.org/wiki/식빵_굽는_고양이 "wikilink")
-  - [잘살아보시개](https://ko.wikipedia.org/wiki/잘살아보시개 "wikilink")
-  - [개별방송](https://ko.wikipedia.org/wiki/개별방송 "wikilink")
+  - [식빵 굽는 고양이](../Page/식빵_굽는_고양이.md "wikilink")
+  - [잘살아보시개](../Page/잘살아보시개.md "wikilink")
+  - [개별방송](../Page/개별방송.md "wikilink")
   - [생명전선 15일의 기적](https://ko.wikipedia.org/wiki/생명전선_15일의_기적 "wikilink")
 
 ### 외부 프로그램
 
-  - [TV 동물농장](https://ko.wikipedia.org/wiki/TV_동물농장 "wikilink")
+  - [TV 동물농장](../Page/TV_동물농장.md "wikilink")
   - [캣츠 앤 독스](https://ko.wikipedia.org/wiki/캣츠_앤_독스_\(tvN\) "wikilink")
   - [동고동락](https://ko.wikipedia.org/wiki/동고동락_\(TV조선\) "wikilink")
   - [너는 내 운명](https://ko.wikipedia.org/wiki/너는_내_운명_\(채널A\) "wikilink")

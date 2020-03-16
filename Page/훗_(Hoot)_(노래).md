@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [ \(Hoot\) \(\)](https://ko.wikipedia.org/wiki/_\(Hoot\)_\(\)).
 
 
-〈**훗 (Hoot)**〉은 대한민국의 걸 그룹 [소녀시대](https://ko.wikipedia.org/wiki/소녀시대 "wikilink")의 노래이다. 세 번째 미니 앨범 《[훗 (Hoot)](https://ko.wikipedia.org/wiki/훗_\(Hoot\) "wikilink")》의 타이틀곡으로, 2010년 10월 25일 발매되었다.
+〈**훗 (Hoot)**〉은 대한민국의 걸 그룹 [소녀시대](../Page/소녀시대.md "wikilink")의 노래이다. 세 번째 미니 앨범 《[훗 (Hoot)](../Page/훗_\(Hoot\).md "wikilink")》의 타이틀곡으로, 2010년 10월 25일 발매되었다.
 
 ## 안무
 
-"훗"을 무대에서 공연하는 데에 있어 [노랫말](https://ko.wikipedia.org/wiki/노랫말 "wikilink")에 맞춰 궁수가 [활](https://ko.wikipedia.org/wiki/활 "wikilink")로 [화살](https://ko.wikipedia.org/wiki/화살 "wikilink")을 쏘는 동작을 따와 [안무](https://ko.wikipedia.org/wiki/안무 "wikilink")의 포인트로 삼았다.\[1\]
+"훗"을 무대에서 공연하는 데에 있어 [노랫말](https://ko.wikipedia.org/wiki/노랫말 "wikilink")에 맞춰 궁수가 [활](../Page/활.md "wikilink")로 [화살](https://ko.wikipedia.org/wiki/화살 "wikilink")을 쏘는 동작을 따와 [안무](https://ko.wikipedia.org/wiki/안무 "wikilink")의 포인트로 삼았다.\[1\]
 
 ## 뮤직 비디오
 
-10월 19일에 공개된 티저 비디오는 영화《[007 제임스 본드 시리즈](https://ko.wikipedia.org/wiki/제임스_본드 "wikilink")》의 오프닝 건 배럴(Gun Barrel) [시퀀스](https://ko.wikipedia.org/wiki/시퀀스 "wikilink")를 [패러디](https://ko.wikipedia.org/wiki/패러디 "wikilink")한 34초짜리 동영상으로서 작곡가 [몬티 노먼](https://ko.wikipedia.org/wiki/몬티_노먼 "wikilink")(Monty Norman)과 [존 배리](https://ko.wikipedia.org/wiki/존_배리 "wikilink")(John Barry)의 [오리지널 스코어를](https://ko.wikipedia.org/wiki/사운드트랙 "wikilink") [샘플링](https://ko.wikipedia.org/wiki/샘플링 "wikilink")하여 삽입하기도 하였다.\[2\]\[3\]
+10월 19일에 공개된 티저 비디오는 영화《[007 제임스 본드 시리즈](../Page/제임스_본드.md "wikilink")》의 오프닝 건 배럴(Gun Barrel) [시퀀스](https://ko.wikipedia.org/wiki/시퀀스 "wikilink")를 [패러디](https://ko.wikipedia.org/wiki/패러디 "wikilink")한 34초짜리 동영상으로서 작곡가 [몬티 노먼](https://ko.wikipedia.org/wiki/몬티_노먼 "wikilink")(Monty Norman)과 [존 배리](../Page/존_배리.md "wikilink")(John Barry)의 [오리지널 스코어를](https://ko.wikipedia.org/wiki/사운드트랙 "wikilink") [샘플링](https://ko.wikipedia.org/wiki/샘플링 "wikilink")하여 삽입하기도 하였다.\[2\]\[3\]
 
-타이틀 곡 "훗"의 공식 [뮤직 비디오는](https://ko.wikipedia.org/wiki/뮤직_비디오 "wikilink") 10월 중순 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [남양주시](https://ko.wikipedia.org/wiki/남양주시 "wikilink")에 위치한 세트에서 촬영됐으며, [장재혁](https://ko.wikipedia.org/wiki/장재혁 "wikilink") 감독이 연출하였다. 상영 시간은 4분 13초이며, 28일에 공개되었다. [슈퍼 주니어의](https://ko.wikipedia.org/wiki/슈퍼_주니어 "wikilink") 일원, [최시원이](../Page/시원_\(가수\).md "wikilink") [제임스 본드](https://ko.wikipedia.org/wiki/제임스_본드 "wikilink") 같은 분위기를 풍기는 한 남자 역으로 특별 출연하였다.\[4\]\[5\]
+타이틀 곡 "훗"의 공식 [뮤직 비디오는](../Page/뮤직_비디오.md "wikilink") 10월 중순 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [남양주시](../Page/남양주시.md "wikilink")에 위치한 세트에서 촬영됐으며, [장재혁](https://ko.wikipedia.org/wiki/장재혁 "wikilink") 감독이 연출하였다. 상영 시간은 4분 13초이며, 28일에 공개되었다. [슈퍼 주니어의](https://ko.wikipedia.org/wiki/슈퍼_주니어 "wikilink") 일원, [최시원이](../Page/시원_\(가수\).md "wikilink") [제임스 본드](../Page/제임스_본드.md "wikilink") 같은 분위기를 풍기는 한 남자 역으로 특별 출연하였다.\[4\]\[5\]
 
 ## 차트
 
@@ -27,7 +27,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>대한민국 (<a href="https://ko.wikipedia.org/wiki/가온_디지털_차트" title="wikilink">가온 디지털 차트</a>)[6]</p></td>
+<td><p>대한민국 (<a href="../Page/가온_디지털_차트.md" title="wikilink">가온 디지털 차트</a>)[6]</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">

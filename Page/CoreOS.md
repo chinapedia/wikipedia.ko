@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CoreOS](https://ko.wikipedia.org/wiki/CoreOS).
 
 
-**CoreOS**는 [응용 소프트웨어](https://ko.wikipedia.org/wiki/응용_소프트웨어 "wikilink") 배치, 보안, 신뢰성, 확장성의 용이함과 자동화에 초점을 맞춰 [클러스터화된](https://ko.wikipedia.org/wiki/컴퓨터_클러스터 "wikilink") 전개용의 기반 시설을 제공하기 위한 [리눅스 커널에](https://ko.wikipedia.org/wiki/리눅스_커널 "wikilink") 기반한 [오픈 소스](https://ko.wikipedia.org/wiki/오픈_소스 "wikilink") 경량 [운영 체제이다](https://ko.wikipedia.org/wiki/운영_체제 "wikilink").
+**CoreOS**는 [응용 소프트웨어](../Page/응용_소프트웨어.md "wikilink") 배치, 보안, 신뢰성, 확장성의 용이함과 자동화에 초점을 맞춰 [클러스터화된](../Page/컴퓨터_클러스터.md "wikilink") 전개용의 기반 시설을 제공하기 위한 [리눅스 커널에](../Page/리눅스_커널.md "wikilink") 기반한 [오픈 소스](../Page/오픈_소스.md "wikilink") 경량 [운영 체제이다](../Page/운영_체제.md "wikilink").
 
 ## 외부 링크
 

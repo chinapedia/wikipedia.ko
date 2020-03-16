@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Beat Burger](https://ko.wikipedia.org/wiki/Beat_Burger).
 
 
-《**Electric Dream / Beat Burger**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 일렉트로닉 록 그룹 비트버거의 첫 번째 EP이다.
+《**Electric Dream / Beat Burger**》는 [대한민국](../Page/대한민국.md "wikilink")의 일렉트로닉 록 그룹 비트버거의 첫 번째 EP이다.
 
 ## 수록곡
 
@@ -22,10 +22,10 @@
 
 <!-- end list -->
 
-  - 심재원 - [디스크 자키](https://ko.wikipedia.org/wiki/디스크_자키 "wikilink"), 스크래치
-  - 주성민 - [전기 기타](https://ko.wikipedia.org/wiki/전기_기타 "wikilink") (4)
-  - Flash Finger - [신시사이저](https://ko.wikipedia.org/wiki/신시사이저 "wikilink")
-  - [Henry](https://ko.wikipedia.org/wiki/헨리_\(가수\) "wikilink") - [어쿠스틱 기타](https://ko.wikipedia.org/wiki/어쿠스틱_기타 "wikilink"), [편곡](https://ko.wikipedia.org/wiki/편곡 "wikilink") (5)
+  - 심재원 - [디스크 자키](../Page/디스크_자키.md "wikilink"), 스크래치
+  - 주성민 - [전기 기타](../Page/전기_기타.md "wikilink") (4)
+  - Flash Finger - [신시사이저](../Page/신시사이저.md "wikilink")
+  - [Henry](../Page/헨리_\(가수\).md "wikilink") - [어쿠스틱 기타](https://ko.wikipedia.org/wiki/어쿠스틱_기타 "wikilink"), [편곡](../Page/편곡.md "wikilink") (5)
 
 <!-- end list -->
 
@@ -33,7 +33,7 @@
 
 <!-- end list -->
 
-  - 구종필 - [프로듀서](https://ko.wikipedia.org/wiki/음악_프로듀서 "wikilink"), 녹음, [오디오 믹싱](https://ko.wikipedia.org/wiki/오디오_믹싱 "wikilink"), [마스터링](https://ko.wikipedia.org/wiki/마스터링 "wikilink")
+  - 구종필 - [프로듀서](../Page/음악_프로듀서.md "wikilink"), 녹음, [오디오 믹싱](https://ko.wikipedia.org/wiki/오디오_믹싱 "wikilink"), [마스터링](https://ko.wikipedia.org/wiki/마스터링 "wikilink")
   - Flash Finger - 녹음, 보조 기술
   - MQ - 앨범 아트 디자인, [일러스트레이터](https://ko.wikipedia.org/wiki/일러스트레이터 "wikilink")
   - SM 엔터테인먼트 - [이그제큐티브 프로듀서](https://ko.wikipedia.org/wiki/이그제큐티브_프로듀서 "wikilink")

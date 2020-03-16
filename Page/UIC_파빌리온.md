@@ -1,6 +1,6 @@
 > This article is converted from Wikipedia: [UIC ](https://ko.wikipedia.org/wiki/UIC_).
 
 
-**UIC 파빌리온**(UIC Pavilion)는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [일리노이주](https://ko.wikipedia.org/wiki/일리노이주 "wikilink") [시카고](https://ko.wikipedia.org/wiki/시카고 "wikilink")에 위치한 실내 경기장이다. 과거 [WNBA](https://ko.wikipedia.org/wiki/전미_여자_농구_협회 "wikilink") [시카고 스카이의](../Page/시카고_스카이.md "wikilink") 홈경기장으로 사용되고 있으면, 2014년 WNBA 파이널 3차전 홈경기장으로 사용했다.
+**UIC 파빌리온**(UIC Pavilion)는 [미국](../Page/미국.md "wikilink") [일리노이주](../Page/일리노이주.md "wikilink") [시카고](../Page/시카고.md "wikilink")에 위치한 실내 경기장이다. 과거 [WNBA](https://ko.wikipedia.org/wiki/전미_여자_농구_협회 "wikilink") [시카고 스카이의](../Page/시카고_스카이.md "wikilink") 홈경기장으로 사용되고 있으면, 2014년 WNBA 파이널 3차전 홈경기장으로 사용했다.
 
 [분류:1982년 설립](https://ko.wikipedia.org/wiki/분류:1982년_설립 "wikilink") [분류:미국의 농구 경기장](https://ko.wikipedia.org/wiki/분류:미국의_농구_경기장 "wikilink") [분류:미국의 실내 경기장](https://ko.wikipedia.org/wiki/분류:미국의_실내_경기장 "wikilink") [분류:전미 여자 농구 협회](https://ko.wikipedia.org/wiki/분류:전미_여자_농구_협회 "wikilink") [분류:시카고의 스포츠](https://ko.wikipedia.org/wiki/분류:시카고의_스포츠 "wikilink") [분류:일리노이주의 스포츠 시설](https://ko.wikipedia.org/wiki/분류:일리노이주의_스포츠_시설 "wikilink") [분류:시카고의 건축물](https://ko.wikipedia.org/wiki/분류:시카고의_건축물 "wikilink") [분류:시카고의 스포츠 시설](https://ko.wikipedia.org/wiki/분류:시카고의_스포츠_시설 "wikilink")

@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [BoA SPECIAL LIVE 2013 \~Here I Am\~](https://ko.wikipedia.org/wiki/BoA_SPECIAL_LIVE_2013_\~Here_I_Am\~).
 
 
-《**BoA SPECIAL LIVE 2013 \~Here I Am\~**》은 대한민국의 가수 [보아](https://ko.wikipedia.org/wiki/보아 "wikilink")의 첫 번째 국내 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").
+《**BoA SPECIAL LIVE 2013 \~Here I Am\~**》은 대한민국의 가수 [보아](../Page/보아.md "wikilink")의 첫 번째 국내 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").
 
 ## 개요
 
-2012년 12월 11일, SM 엔터테인먼트는 각종 언론은 통해 보아의 첫번째 콘서트 일정을 발표하였고\[1\], 9일 후인 12월 20일에 [G마켓](https://ko.wikipedia.org/wiki/G마켓 "wikilink")을 통해 예매가 진행되었다. 예매와 동시에 전석이 매진될 정도로 호응이 좋아 1월 27일의 추가 공연이 결정되었다.\[2\]
+2012년 12월 11일, SM 엔터테인먼트는 각종 언론은 통해 보아의 첫번째 콘서트 일정을 발표하였고\[1\], 9일 후인 12월 20일에 [G마켓](../Page/G마켓.md "wikilink")을 통해 예매가 진행되었다. 예매와 동시에 전석이 매진될 정도로 호응이 좋아 1월 27일의 추가 공연이 결정되었다.\[2\]
 
 ## 일화
 
@@ -30,7 +30,7 @@
 <td><p>2013년 1월 26일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/서울" title="wikilink">서울</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/올림픽공원_(서울)" title="wikilink">올림픽공원 올림픽홀</a>[4]</p></td>
+<td><p><a href="../Page/올림픽공원_(서울).md" title="wikilink">올림픽공원 올림픽홀</a>[4]</p></td>
 </tr>
 <tr class="even">
 <td><p>2013년 1월 27일</p></td>
@@ -69,13 +69,13 @@
 
 ## 콘서트 DVD
 
-이 콘서트 투어의 DVD는 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [6월 30일에](https://ko.wikipedia.org/wiki/6월_30일 "wikilink") 발매, 2013년 1월 27일 서울 공연이 수록되었다. DVD 패키지로는 100p 가량의 포토북을 포함한 2DVD 형태로 발매된다. DVD에는 콘서트 실황을 포함한 콘서트 준비과정 및 인터뷰, 백스테이지가 수록된다. 하지만 저작권의 이유로 LOSE YOUR MIND만 수록에서 제외되었다.
+이 콘서트 투어의 DVD는 [2015년](../Page/2015년.md "wikilink") [6월 30일에](../Page/6월_30일.md "wikilink") 발매, 2013년 1월 27일 서울 공연이 수록되었다. DVD 패키지로는 100p 가량의 포토북을 포함한 2DVD 형태로 발매된다. DVD에는 콘서트 실황을 포함한 콘서트 준비과정 및 인터뷰, 백스테이지가 수록된다. 하지만 저작권의 이유로 LOSE YOUR MIND만 수록에서 제외되었다.
 
 ## 제작
 
   - 주최 : [SM엔터테인먼트](https://ko.wikipedia.org/wiki/SM엔터테인먼트 "wikilink")
   - 주관 : 드림메이커
-  - 후원 : [G마켓](https://ko.wikipedia.org/wiki/G마켓 "wikilink")
+  - 후원 : [G마켓](../Page/G마켓.md "wikilink")
 
 ## 각주
 

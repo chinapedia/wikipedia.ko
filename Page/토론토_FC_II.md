@@ -26,8 +26,8 @@
 </tbody>
 </table>
 
-## [메이저 리그 사커](https://ko.wikipedia.org/wiki/메이저_리그_사커 "wikilink") 제휴팀
+## [메이저 리그 사커](../Page/메이저_리그_사커.md "wikilink") 제휴팀
 
-  - [토론토 FC](https://ko.wikipedia.org/wiki/토론토_FC "wikilink") (토론토, 온타리오)
+  - [토론토 FC](../Page/토론토_FC.md "wikilink") (토론토, 온타리오)
 
 [분류:캐나다의 축구단](https://ko.wikipedia.org/wiki/분류:캐나다의_축구단 "wikilink") [분류:2014년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:2014년_설립된_축구단 "wikilink") [분류:토론토 FC II](https://ko.wikipedia.org/wiki/분류:토론토_FC_II "wikilink")

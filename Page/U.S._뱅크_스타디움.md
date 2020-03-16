@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [U.S.  ](https://ko.wikipedia.org/wiki/U.S.__).
 
 
-**U.S. 뱅크 스타디움**(U.S. Bank Stadium)는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [미네소타주](https://ko.wikipedia.org/wiki/미네소타주 "wikilink") [미니애폴리스](https://ko.wikipedia.org/wiki/미니애폴리스 "wikilink")에 위치한 다목적 [미식축구](https://ko.wikipedia.org/wiki/미식축구 "wikilink") 경기장이다. [NFL](https://ko.wikipedia.org/wiki/내셔널_풋볼_리그 "wikilink") [미네소타 바이킹스의](https://ko.wikipedia.org/wiki/미네소타_바이킹스 "wikilink") 홈 경기장으로 사용하고 있다. 과거 홈구장이던 [휴버트 H. 험프리 메트로돔을](https://ko.wikipedia.org/wiki/휴버트_H._험프리_메트로돔 "wikilink") 철거한 자리에 건설되었다.
+**U.S. 뱅크 스타디움**(U.S. Bank Stadium)는 [미국](../Page/미국.md "wikilink") [미네소타주](../Page/미네소타주.md "wikilink") [미니애폴리스](../Page/미니애폴리스.md "wikilink")에 위치한 다목적 [미식축구](../Page/미식축구.md "wikilink") 경기장이다. [NFL](../Page/내셔널_풋볼_리그.md "wikilink") [미네소타 바이킹스의](https://ko.wikipedia.org/wiki/미네소타_바이킹스 "wikilink") 홈 경기장으로 사용하고 있다. 과거 홈구장이던 [휴버트 H. 험프리 메트로돔을](../Page/휴버트_H._험프리_메트로돔.md "wikilink") 철거한 자리에 건설되었다.
 
 각진 외관에 초경량 외장재의 반투명 지붕, 외벽 상당부분이 유리로 커버된 독특한 디자인이 특징이다.
 

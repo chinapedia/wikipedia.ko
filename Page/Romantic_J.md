@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Romantic J](https://ko.wikipedia.org/wiki/Romantic_J).
 
 
-**Romantic J**는 대한민국의 여성 솔로 싱어송라이터 [주니엘](https://ko.wikipedia.org/wiki/주니엘 "wikilink")과 CNBLUE의 [이종현과의](https://ko.wikipedia.org/wiki/이종현_\(가수\) "wikilink") 콜라보레이션 음반이다.
+**Romantic J**는 대한민국의 여성 솔로 싱어송라이터 [주니엘](../Page/주니엘.md "wikilink")과 CNBLUE의 [이종현과의](../Page/이종현_\(가수\).md "wikilink") 콜라보레이션 음반이다.
 
 ## 수록곡
 

@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
 
 
-**TV회고록 울림**은 매주 [일요일](https://ko.wikipedia.org/wiki/일요일 "wikilink") 오전 7시 10분에 [KBS 1TV로](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방송된 [한국방송공사의 텔레비전 프로그램이다](https://ko.wikipedia.org/wiki/한국방송공사의_텔레비전_프로그램 "wikilink").
+**TV회고록 울림**은 매주 [일요일](../Page/일요일.md "wikilink") 오전 7시 10분에 [KBS 1TV로](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방송된 [한국방송공사의 텔레비전 프로그램이다](https://ko.wikipedia.org/wiki/한국방송공사의_텔레비전_프로그램 "wikilink").
 
 ## 기획 의도
 
-[대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [근현대사](https://ko.wikipedia.org/wiki/근현대사 "wikilink")를 관통하며, 시대의 코드를 담고 있는 분들의 담담한 이야기와 당부, 그리고 조언을 통해 현재를 반추하고 미래의 밑거름으로 삼고자 기획된 [프로그램](https://ko.wikipedia.org/wiki/텔레비전_프로그램 "wikilink")
+[대한민국](../Page/대한민국.md "wikilink")의 [근현대사](https://ko.wikipedia.org/wiki/근현대사 "wikilink")를 관통하며, 시대의 코드를 담고 있는 분들의 담담한 이야기와 당부, 그리고 조언을 통해 현재를 반추하고 미래의 밑거름으로 삼고자 기획된 [프로그램](../Page/텔레비전_프로그램.md "wikilink")
 
 ## 방송 시간
 
@@ -16,7 +16,7 @@
 
 ## 진행자
 
-  - 1대 [고민정](https://ko.wikipedia.org/wiki/고민정 "wikilink") : 2015.7.12 \~ 2016.4.17
+  - 1대 [고민정](../Page/고민정.md "wikilink") : 2015.7.12 \~ 2016.4.17
 
 ## 방송 회차
 

@@ -1,6 +1,6 @@
 > This article is converted from Wikipedia: [PPG  ](https://ko.wikipedia.org/wiki/PPG__).
 
 
-**PPG 페인츠 아레나**(PPG Paints Arena)은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [펜실베이니아주](https://ko.wikipedia.org/wiki/펜실베이니아주 "wikilink") [피츠버그](https://ko.wikipedia.org/wiki/피츠버그 "wikilink")에 위치한 실내 경기장이다. [NHL](https://ko.wikipedia.org/wiki/내셔널_하키_리그 "wikilink") [피츠버그 펭귄스의](https://ko.wikipedia.org/wiki/피츠버그_펭귄스 "wikilink") 홈경기장으로 사용되고 있다.
+**PPG 페인츠 아레나**(PPG Paints Arena)은 [미국](../Page/미국.md "wikilink") [펜실베이니아주](../Page/펜실베이니아주.md "wikilink") [피츠버그](../Page/피츠버그.md "wikilink")에 위치한 실내 경기장이다. [NHL](../Page/내셔널_하키_리그.md "wikilink") [피츠버그 펭귄스의](../Page/피츠버그_펭귄스.md "wikilink") 홈경기장으로 사용되고 있다.
 
 [분류:2010년 설립](https://ko.wikipedia.org/wiki/분류:2010년_설립 "wikilink") [분류:미국의 실내 경기장](https://ko.wikipedia.org/wiki/분류:미국의_실내_경기장 "wikilink") [분류:미국의 농구 경기장](https://ko.wikipedia.org/wiki/분류:미국의_농구_경기장 "wikilink") [분류:미국의 아이스하키 경기장](https://ko.wikipedia.org/wiki/분류:미국의_아이스하키_경기장 "wikilink") [분류:내셔널 하키 리그](https://ko.wikipedia.org/wiki/분류:내셔널_하키_리그 "wikilink") [분류:피츠버그 펭귄스](https://ko.wikipedia.org/wiki/분류:피츠버그_펭귄스 "wikilink") [분류:펜실베이니아주의 스포츠 시설](https://ko.wikipedia.org/wiki/분류:펜실베이니아주의_스포츠_시설 "wikilink") [분류:피츠버그의 건축물](https://ko.wikipedia.org/wiki/분류:피츠버그의_건축물 "wikilink") [분류:2010년 완공된 스포츠 시설](https://ko.wikipedia.org/wiki/분류:2010년_완공된_스포츠_시설 "wikilink")

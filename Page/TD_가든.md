@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TD ](https://ko.wikipedia.org/wiki/TD_).
 
 
-**TD 가든**(TD Garden)은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [매사추세츠주](https://ko.wikipedia.org/wiki/매사추세츠주 "wikilink") [보스턴](https://ko.wikipedia.org/wiki/보스턴 "wikilink")에 위치한 실내 경기장이다. [NBA](https://ko.wikipedia.org/wiki/전미_농구_협회 "wikilink") [보스턴 셀틱스와](https://ko.wikipedia.org/wiki/보스턴_셀틱스 "wikilink") [NHL](https://ko.wikipedia.org/wiki/내셔널_하키_리그 "wikilink") [보스턴 브루인스의](https://ko.wikipedia.org/wiki/보스턴_브루인스 "wikilink") 홈경기장으로 사용되고 있다.
+**TD 가든**(TD Garden)은 [미국](../Page/미국.md "wikilink") [매사추세츠주](../Page/매사추세츠주.md "wikilink") [보스턴](../Page/보스턴.md "wikilink")에 위치한 실내 경기장이다. [NBA](../Page/전미_농구_협회.md "wikilink") [보스턴 셀틱스와](../Page/보스턴_셀틱스.md "wikilink") [NHL](../Page/내셔널_하키_리그.md "wikilink") [보스턴 브루인스의](../Page/보스턴_브루인스.md "wikilink") 홈경기장으로 사용되고 있다.
 
 1998년 3월 29일, [WWF](https://ko.wikipedia.org/wiki/WWF "wikilink") [레슬마니아](https://ko.wikipedia.org/wiki/레슬마니아 "wikilink") 14가 개최되었다. 관객 수는 19,028명.
 

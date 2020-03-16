@@ -1,37 +1,37 @@
 > This article is converted from Wikipedia: [Ne Obliviscaris](https://ko.wikipedia.org/wiki/Ne_Obliviscaris).
 
 
-**Ne Obliviscaris**(네이 오블리비스카리스)는 [오스트레일리아](https://ko.wikipedia.org/wiki/오스트레일리아 "wikilink")의 [익스트림 메탈](https://ko.wikipedia.org/wiki/익스트림_메탈 "wikilink") 밴드이다.\[1\]
+**Ne Obliviscaris**(네이 오블리비스카리스)는 [오스트레일리아](../Page/오스트레일리아.md "wikilink")의 [익스트림 메탈](https://ko.wikipedia.org/wiki/익스트림_메탈 "wikilink") 밴드이다.\[1\]
 
 ## 역사
 
-### 밴드 탄생, *The Aurora Veil*, 및 *Portal of I* ([2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink")부터 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink")까지)
+### 밴드 탄생, *The Aurora Veil*, 및 *Portal of I* ([2003년](../Page/2003년.md "wikilink")부터 [2012년](../Page/2012년.md "wikilink")까지)
 
-이 밴드는 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink")에 결성이 되었고, [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink")에 데모 앨범인 **The Aurora Veil**를 발표했다. 이후 5년간 공백기를 거쳤다가 Ne Obliviscaris가 결성한 지 9년이 지나서야 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink")에 첫 번째 정규 앨범인**Portal of I**를 발표하기에 앞서 [프랑스](https://ko.wikipedia.org/wiki/프랑스 "wikilink") 출신이자 기타 리스트인 베냐민 바르트가 [오스트레일리아](https://ko.wikipedia.org/wiki/오스트레일리아 "wikilink") [비자](https://ko.wikipedia.org/wiki/비자 "wikilink") 문제로 앨범 출시가 지연 되었다.\[2\] 결국 비자 문제가 해결이 된 이후 첫 번째 앨범은 같은 해 [5월](https://ko.wikipedia.org/wiki/5월 "wikilink")에 출시했다.
+이 밴드는 [2003년](../Page/2003년.md "wikilink")에 결성이 되었고, [2007년](../Page/2007년.md "wikilink")에 데모 앨범인 **The Aurora Veil**를 발표했다. 이후 5년간 공백기를 거쳤다가 Ne Obliviscaris가 결성한 지 9년이 지나서야 [2012년](../Page/2012년.md "wikilink") [3월](../Page/3월.md "wikilink")에 첫 번째 정규 앨범인**Portal of I**를 발표하기에 앞서 [프랑스](../Page/프랑스.md "wikilink") 출신이자 기타 리스트인 베냐민 바르트가 [오스트레일리아](../Page/오스트레일리아.md "wikilink") [비자](https://ko.wikipedia.org/wiki/비자 "wikilink") 문제로 앨범 출시가 지연 되었다.\[2\] 결국 비자 문제가 해결이 된 이후 첫 번째 앨범은 같은 해 [5월](../Page/5월.md "wikilink")에 출시했다.
 
-### *Citadel* ([2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink")부터 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink")까지)
+### *Citadel* ([2012년](../Page/2012년.md "wikilink")부터 [2014년](../Page/2014년.md "wikilink")까지)
 
-[2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [6월](https://ko.wikipedia.org/wiki/6월 "wikilink")에 Ne Obliviscaris는 월드 투어를 지원하는 크라우드 펀딩 캠패인을 시작했다.\[3\] 그들의 목표는 [A$](https://ko.wikipedia.org/wiki/오스트레일리아_달러 "wikilink")40,000 [달러](https://ko.wikipedia.org/wiki/달러 "wikilink")를 목표로 $86,132 [달러](https://ko.wikipedia.org/wiki/달러 "wikilink")를 벌어들었다. 같은 해 [8월](https://ko.wikipedia.org/wiki/8월 "wikilink")에 두 번째 앨범인, **Citadel**를 발표하게 되었다.\[4\]
+[2014년](../Page/2014년.md "wikilink") [6월](../Page/6월.md "wikilink")에 Ne Obliviscaris는 월드 투어를 지원하는 크라우드 펀딩 캠패인을 시작했다.\[3\] 그들의 목표는 [A$](../Page/오스트레일리아_달러.md "wikilink")40,000 [달러](../Page/달러.md "wikilink")를 목표로 $86,132 [달러](../Page/달러.md "wikilink")를 벌어들었다. 같은 해 [8월](../Page/8월.md "wikilink")에 두 번째 앨범인, **Citadel**를 발표하게 되었다.\[4\]
 
 ## 구성원
 
-  - 팀 찰스 - [바이올린](https://ko.wikipedia.org/wiki/바이올린 "wikilink"), [보컬](https://ko.wikipedia.org/wiki/가창 "wikilink")
+  - 팀 찰스 - [바이올린](../Page/바이올린.md "wikilink"), [보컬](https://ko.wikipedia.org/wiki/가창 "wikilink")
   - 제노어 - [보컬](https://ko.wikipedia.org/wiki/가창 "wikilink")
-  - 맷 클라빈스 - [기타](https://ko.wikipedia.org/wiki/기타 "wikilink")
-  - 마르티노 가라토니 - [베이스](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink")
+  - 맷 클라빈스 - [기타](../Page/기타.md "wikilink")
+  - 마르티노 가라토니 - [베이스](../Page/베이스_기타.md "wikilink")
   - 다니엘 프레슬랜드 - [드럼](https://ko.wikipedia.org/wiki/드럼셋 "wikilink")
-  - 벤자민 바렛 - [기타](https://ko.wikipedia.org/wiki/기타 "wikilink")
+  - 벤자민 바렛 - [기타](../Page/기타.md "wikilink")
 
 ## 이전 구성원
 
 Ne Obliviscaris 결성 때부터 밴드를 거쳐갔던 구성원들이다.
 
-  - 코리 킹 - [기타](https://ko.wikipedia.org/wiki/기타 "wikilink")
+  - 코리 킹 - [기타](../Page/기타.md "wikilink")
   - 넬슨 반즈 - [드럼](https://ko.wikipedia.org/wiki/드럼셋 "wikilink")
   - 코리 베이커 - [드럼](https://ko.wikipedia.org/wiki/드럼셋 "wikilink")
   - 셰리-제시 - [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink")
-  - 아담 브로디 - [기타](https://ko.wikipedia.org/wiki/기타 "wikilink")
-  - 아담 쿠퍼 - [베이스](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink")
+  - 아담 브로디 - [기타](../Page/기타.md "wikilink")
+  - 아담 쿠퍼 - [베이스](../Page/베이스_기타.md "wikilink")
   - 브렌단 "시그너스" 브라운 - [베이스](https://ko.wikipedia.org/wiki/베이스 "wikilink")
 
 ## 라인업
@@ -101,14 +101,14 @@ PlotData=
 
 ### 정규 음반
 
-  - [Potal of I](https://ko.wikipedia.org/wiki/:en:Portal_of_I "wikilink") ([2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink"))
-  - [Citadel](https://ko.wikipedia.org/wiki/:en:Citadel_\(Ne_Obliviscaris_album\) "wikilink") ([2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink"))
+  - [Potal of I](https://ko.wikipedia.org/wiki/:en:Portal_of_I "wikilink") ([2012년](../Page/2012년.md "wikilink"))
+  - [Citadel](https://ko.wikipedia.org/wiki/:en:Citadel_\(Ne_Obliviscaris_album\) "wikilink") ([2014년](../Page/2014년.md "wikilink"))
 
 ### 기타 음반
 
-  - The Aurora Veil ([2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink"))
-  - Sarabande to Nihil ([2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink"))
-  - Hiraeth ([2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink"))
+  - The Aurora Veil ([2007년](../Page/2007년.md "wikilink"))
+  - Sarabande to Nihil ([2015년](../Page/2015년.md "wikilink"))
+  - Hiraeth ([2015년](../Page/2015년.md "wikilink"))
 
 ## 각주
 

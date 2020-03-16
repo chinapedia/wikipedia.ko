@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [ACTS29](https://ko.wikipedia.org/wiki/ACTS29).
 
 
-**ACTS29**는 [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink")의 [한인](https://ko.wikipedia.org/wiki/한인 "wikilink")을 기반으로로 하는 축구 클럽이다. ACTS29 라는 독특한 팀 명칭에는 '행동하는 29인' 이라는 뜻이 있으며, 팀의 창단 배경으론 '영국 축구계에 한국인들을 위한 새로운 역사를 쓰고싶다.'는 의미가 담겨져 있다. 팀을 창단을 등록한 년도는 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink")이며, 공식 팀창단식은 [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink") [서리주](https://ko.wikipedia.org/wiki/서리주 "wikilink")에서 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [8월 30일에](https://ko.wikipedia.org/wiki/8월_30일 "wikilink") 하였다. 팀의 공식적인 더비 라이벌로는 [리젠트 FC가](../Page/리젠트_FC.md "wikilink") 있다.
+**ACTS29**는 [잉글랜드](../Page/잉글랜드.md "wikilink")의 [한인](https://ko.wikipedia.org/wiki/한인 "wikilink")을 기반으로로 하는 축구 클럽이다. ACTS29 라는 독특한 팀 명칭에는 '행동하는 29인' 이라는 뜻이 있으며, 팀의 창단 배경으론 '영국 축구계에 한국인들을 위한 새로운 역사를 쓰고싶다.'는 의미가 담겨져 있다. 팀을 창단을 등록한 년도는 [2014년](../Page/2014년.md "wikilink") [2월](../Page/2월.md "wikilink")이며, 공식 팀창단식은 [잉글랜드](../Page/잉글랜드.md "wikilink") [서리주](../Page/서리주.md "wikilink")에서 [2014년](../Page/2014년.md "wikilink") [8월 30일에](../Page/8월_30일.md "wikilink") 하였다. 팀의 공식적인 더비 라이벌로는 [리젠트 FC가](../Page/리젠트_FC.md "wikilink") 있다.
 
 ## 역사
 
 ### 팀 창단 배경
 
-"외로운 타국 땅에서 [한국인](https://ko.wikipedia.org/wiki/한국인 "wikilink")들이 한 마음으로 함께하는 축구팀을 만들고 싶다." -[김상열](https://ko.wikipedia.org/wiki/김상열 "wikilink")- 팀을 창단을 등록한 년도는 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink")이며, 공식 팀창단식은 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [8월 30일에](https://ko.wikipedia.org/wiki/8월_30일 "wikilink") 하였다. 공식 첫번째 출전 경기는 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [9월 6일](https://ko.wikipedia.org/wiki/9월_6일 "wikilink") [영국](https://ko.wikipedia.org/wiki/영국 "wikilink") [서 리주에서](https://ko.wikipedia.org/wiki/서_리주 "wikilink") [GODSTONE FC과의](https://ko.wikipedia.org/wiki/GODSTONE_FC "wikilink") 경기였다. 리그 첫경기 결과는 전반 30분 [김우섭](https://ko.wikipedia.org/wiki/김우섭 "wikilink")의골로 앞서 나갔으나 이내 동점골을 허용 후반 27분 [강성모](https://ko.wikipedia.org/wiki/강성모 "wikilink")가 쐐기골을넣어 정식경기 첫경기는 스코어 2-1로 이겼다.
+"외로운 타국 땅에서 [한국인](../Page/한국인.md "wikilink")들이 한 마음으로 함께하는 축구팀을 만들고 싶다." -[김상열](https://ko.wikipedia.org/wiki/김상열 "wikilink")- 팀을 창단을 등록한 년도는 [2014년](../Page/2014년.md "wikilink") [2월](../Page/2월.md "wikilink")이며, 공식 팀창단식은 [2014년](../Page/2014년.md "wikilink") [8월 30일에](../Page/8월_30일.md "wikilink") 하였다. 공식 첫번째 출전 경기는 [2014년](../Page/2014년.md "wikilink") [9월 6일](../Page/9월_6일.md "wikilink") [영국](../Page/영국.md "wikilink") [서 리주에서](https://ko.wikipedia.org/wiki/서_리주 "wikilink") [GODSTONE FC과의](https://ko.wikipedia.org/wiki/GODSTONE_FC "wikilink") 경기였다. 리그 첫경기 결과는 전반 30분 [김우섭](https://ko.wikipedia.org/wiki/김우섭 "wikilink")의골로 앞서 나갔으나 이내 동점골을 허용 후반 27분 [강성모](https://ko.wikipedia.org/wiki/강성모 "wikilink")가 쐐기골을넣어 정식경기 첫경기는 스코어 2-1로 이겼다.
 
 ## 유니폼
 
@@ -54,7 +54,7 @@
 
 ## 같이 보기
 
-[지소연](https://ko.wikipedia.org/wiki/지소연 "wikilink") [김태륭](../Page/김태륭.md "wikilink") [손흥민](https://ko.wikipedia.org/wiki/손흥민 "wikilink") [박주영](https://ko.wikipedia.org/wiki/박주영 "wikilink") [기성용](https://ko.wikipedia.org/wiki/기성용 "wikilink") [박지성](https://ko.wikipedia.org/wiki/박지성 "wikilink") [윤석영](https://ko.wikipedia.org/wiki/윤석영 "wikilink") [이청용](https://ko.wikipedia.org/wiki/이청용 "wikilink") [토트넘 홋스퍼 FC](https://ko.wikipedia.org/wiki/토트넘_홋스퍼_FC "wikilink") [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink")
+[지소연](https://ko.wikipedia.org/wiki/지소연 "wikilink") [김태륭](../Page/김태륭.md "wikilink") [손흥민](../Page/손흥민.md "wikilink") [박주영](../Page/박주영.md "wikilink") [기성용](../Page/기성용.md "wikilink") [박지성](https://ko.wikipedia.org/wiki/박지성 "wikilink") [윤석영](../Page/윤석영.md "wikilink") [이청용](https://ko.wikipedia.org/wiki/이청용 "wikilink") [토트넘 홋스퍼 FC](../Page/토트넘_홋스퍼_FC.md "wikilink") [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink")
 
 ## 외부 링크
 

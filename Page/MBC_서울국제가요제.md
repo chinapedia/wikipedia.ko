@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MBC ](https://ko.wikipedia.org/wiki/MBC_).
 
 
-**MBC 서울국제가요제**는 1977년 [문화방송](https://ko.wikipedia.org/wiki/문화방송 "wikilink")(MBC)과 [경향신문](https://ko.wikipedia.org/wiki/경향신문 "wikilink") 주최로 서울가요제로서 국내대회로 시작되었다가 1978년 최초의 국제가요제로 확장된 가요제이다.
+**MBC 서울국제가요제**는 1977년 [문화방송](../Page/문화방송.md "wikilink")(MBC)과 [경향신문](../Page/경향신문.md "wikilink") 주최로 서울가요제로서 국내대회로 시작되었다가 1978년 최초의 국제가요제로 확장된 가요제이다.
 
 ## 역사
 
@@ -9,23 +9,23 @@
 
 ## 역대 가요제
 
-  - [1977년](https://ko.wikipedia.org/wiki/1977년 "wikilink") : ['77 MBC 서울가요제](../Page/'77_MBC_서울가요제.md "wikilink")
-  - [1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink") : ['78 MBC 서울국제가요제](../Page/'78_MBC_서울국제가요제.md "wikilink")
-  - [1979년](https://ko.wikipedia.org/wiki/1979년 "wikilink") : ['79 MBC 서울국제가요제](../Page/'79_MBC_서울국제가요제.md "wikilink")
-  - [1980년](https://ko.wikipedia.org/wiki/1980년 "wikilink") : ['80 MBC 서울국제가요제](../Page/'80_MBC_서울국제가요제.md "wikilink")
-  - [1981년](https://ko.wikipedia.org/wiki/1981년 "wikilink") : ['81 MBC 서울국제가요제](../Page/'81_MBC_서울국제가요제.md "wikilink")
-  - [1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink") : ['82 MBC 서울국제가요제](../Page/'82_MBC_서울국제가요제.md "wikilink")
-  - [1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink") : ['83 MBC 서울국제가요제](../Page/'83_MBC_서울국제가요제.md "wikilink")
-  - [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") : ['84 MBC 서울국제가요제](../Page/'84_MBC_서울국제가요제.md "wikilink")
-  - [1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink") : <s>'85 MBC 서울국제가요제</s> (개최 취소)
-  - [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") : ['86 MBC 서울국제가요제](../Page/'86_MBC_서울국제가요제.md "wikilink")
-  - [1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink") : ['88 MBC 서울국제가요제](https://ko.wikipedia.org/wiki/'88_MBC_서울국제가요제 "wikilink")
+  - [1977년](../Page/1977년.md "wikilink") : ['77 MBC 서울가요제](../Page/'77_MBC_서울가요제.md "wikilink")
+  - [1978년](../Page/1978년.md "wikilink") : ['78 MBC 서울국제가요제](../Page/'78_MBC_서울국제가요제.md "wikilink")
+  - [1979년](../Page/1979년.md "wikilink") : ['79 MBC 서울국제가요제](../Page/'79_MBC_서울국제가요제.md "wikilink")
+  - [1980년](../Page/1980년.md "wikilink") : ['80 MBC 서울국제가요제](../Page/'80_MBC_서울국제가요제.md "wikilink")
+  - [1981년](../Page/1981년.md "wikilink") : ['81 MBC 서울국제가요제](../Page/'81_MBC_서울국제가요제.md "wikilink")
+  - [1982년](../Page/1982년.md "wikilink") : ['82 MBC 서울국제가요제](../Page/'82_MBC_서울국제가요제.md "wikilink")
+  - [1983년](../Page/1983년.md "wikilink") : ['83 MBC 서울국제가요제](../Page/'83_MBC_서울국제가요제.md "wikilink")
+  - [1984년](../Page/1984년.md "wikilink") : ['84 MBC 서울국제가요제](../Page/'84_MBC_서울국제가요제.md "wikilink")
+  - [1985년](../Page/1985년.md "wikilink") : <s>'85 MBC 서울국제가요제</s> (개최 취소)
+  - [1986년](../Page/1986년.md "wikilink") : ['86 MBC 서울국제가요제](../Page/'86_MBC_서울국제가요제.md "wikilink")
+  - [1988년](../Page/1988년.md "wikilink") : ['88 MBC 서울국제가요제](https://ko.wikipedia.org/wiki/'88_MBC_서울국제가요제 "wikilink")
 
 ## 같이 보기
 
-  - [MBC 대학가요제](https://ko.wikipedia.org/wiki/MBC_대학가요제 "wikilink")
-  - [MBC 창작동요제](https://ko.wikipedia.org/wiki/MBC_창작동요제 "wikilink")
-  - [MBC 강변가요제](https://ko.wikipedia.org/wiki/MBC_강변가요제 "wikilink")
+  - [MBC 대학가요제](../Page/MBC_대학가요제.md "wikilink")
+  - [MBC 창작동요제](../Page/MBC_창작동요제.md "wikilink")
+  - [MBC 강변가요제](../Page/MBC_강변가요제.md "wikilink")
 
 ## 각주
 

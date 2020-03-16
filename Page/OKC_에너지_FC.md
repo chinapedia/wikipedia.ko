@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [OKC  FC](https://ko.wikipedia.org/wiki/OKC__FC).
 
 
-**OKC 에너지 FC**(Oklahoma City Energy Football Club)는 [유나이티드 사커 리그에](https://ko.wikipedia.org/wiki/유나이티드_사커_리그 "wikilink") 소속된 미국의 프로축구단으로 [오클라호마주](https://ko.wikipedia.org/wiki/오클라호마주 "wikilink") [오클라호마시티](https://ko.wikipedia.org/wiki/오클라호마시티 "wikilink")를 연고지로 하고 있으며 태프트 스타디움을 홈 경기장으로 사용하고 있다.
+**OKC 에너지 FC**(Oklahoma City Energy Football Club)는 [유나이티드 사커 리그에](https://ko.wikipedia.org/wiki/유나이티드_사커_리그 "wikilink") 소속된 미국의 프로축구단으로 [오클라호마주](../Page/오클라호마주.md "wikilink") [오클라호마시티](../Page/오클라호마시티.md "wikilink")를 연고지로 하고 있으며 태프트 스타디움을 홈 경기장으로 사용하고 있다.
 
 ## 역대 홈경기장
 
@@ -19,7 +19,7 @@
 <tr class="odd">
 <td><p>프리빌 스타디움</p></td>
 <td><p>2014년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오클라호마주" title="wikilink">오클라호마주</a> <a href="https://ko.wikipedia.org/wiki/오클라호마시티" title="wikilink">오클라호마시티</a></p></td>
+<td><p><a href="../Page/오클라호마주.md" title="wikilink">오클라호마주</a> <a href="../Page/오클라호마시티.md" title="wikilink">오클라호마시티</a></p></td>
 <td><p>OKC 에너지 FC</p></td>
 <td></td>
 </tr>
@@ -33,9 +33,9 @@
 </tbody>
 </table>
 
-## [메이저 리그 사커](https://ko.wikipedia.org/wiki/메이저_리그_사커 "wikilink") 제휴팀
+## [메이저 리그 사커](../Page/메이저_리그_사커.md "wikilink") 제휴팀
 
-  - [FC 댈러스](https://ko.wikipedia.org/wiki/FC_댈러스 "wikilink") (프리스코, 텍사스)
+  - [FC 댈러스](../Page/FC_댈러스.md "wikilink") (프리스코, 텍사스)
 
 ## 함께 보기
 

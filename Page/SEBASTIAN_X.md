@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SEBASTIAN X](https://ko.wikipedia.org/wiki/SEBASTIAN_X).
 
 
-**SEBASTIAN X** (セバスチャン・エックス) 는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 락 밴드이다. 애칭은 セバヌ(세바누).
+**SEBASTIAN X** (セバスチャン・エックス) 는 [일본](../Page/일본.md "wikilink")의 락 밴드이다. 애칭은 セバヌ(세바누).
 
 ## 멤버
 
@@ -31,49 +31,49 @@
 </tr>
 <tr class="even">
 <td><p><small>자주앨범</small></p></td>
-<td><p><small><a href="https://ko.wikipedia.org/wiki/2008년" title="wikilink">2008년</a><a href="https://ko.wikipedia.org/wiki/8월17일" title="wikilink">8월17일</a></small></p></td>
+<td><p><small><a href="../Page/2008년.md" title="wikilink">2008년</a><a href="https://ko.wikipedia.org/wiki/8월17일" title="wikilink">8월17일</a></small></p></td>
 <td><p>LIFE VS LIFE<br />
 </p></td>
 </tr>
 <tr class="odd">
 <td><p><small>미니앨범 1집</small></p></td>
-<td><p><small><a href="https://ko.wikipedia.org/wiki/2009년" title="wikilink">2009년</a><a href="https://ko.wikipedia.org/wiki/11월6일" title="wikilink">11월6일</a></small></p></td>
+<td><p><small><a href="../Page/2009년.md" title="wikilink">2009년</a><a href="https://ko.wikipedia.org/wiki/11월6일" title="wikilink">11월6일</a></small></p></td>
 <td><p>ワンダフル・ワールド<br />
 </p></td>
 </tr>
 <tr class="even">
 <td><p><small>미니앨범 2집</small></p></td>
-<td><p><small><a href="https://ko.wikipedia.org/wiki/2010년" title="wikilink">2010년</a><a href="https://ko.wikipedia.org/wiki/8월4일" title="wikilink">8월4일</a></small></p></td>
+<td><p><small><a href="../Page/2010년.md" title="wikilink">2010년</a><a href="https://ko.wikipedia.org/wiki/8월4일" title="wikilink">8월4일</a></small></p></td>
 <td><p>僕らのファンタジー<br />
 </p></td>
 </tr>
 <tr class="odd">
 <td><p><small><strong>정규앨범 1집</strong></small></p></td>
-<td><p><small><a href="https://ko.wikipedia.org/wiki/2011년" title="wikilink">2011년</a><a href="https://ko.wikipedia.org/wiki/10월5일" title="wikilink">10월5일</a></small></p></td>
+<td><p><small><a href="../Page/2011년.md" title="wikilink">2011년</a><a href="https://ko.wikipedia.org/wiki/10월5일" title="wikilink">10월5일</a></small></p></td>
 <td><p><strong>FUTURES</strong><br />
 </p></td>
 </tr>
 <tr class="even">
 <td><p><small>미니앨범 3집</small></p></td>
-<td><p><small><a href="https://ko.wikipedia.org/wiki/2012년" title="wikilink">2012년</a><a href="https://ko.wikipedia.org/wiki/7월11일" title="wikilink">7월11일</a></small></p></td>
+<td><p><small><a href="../Page/2012년.md" title="wikilink">2012년</a><a href="https://ko.wikipedia.org/wiki/7월11일" title="wikilink">7월11일</a></small></p></td>
 <td><p>ひなぎくと怪獣<br />
 </p></td>
 </tr>
 <tr class="odd">
 <td><p><small><strong>정규앨범 2집</strong></small></p></td>
-<td><p><small><a href="https://ko.wikipedia.org/wiki/2013년" title="wikilink">2013년</a><a href="https://ko.wikipedia.org/wiki/8월14일" title="wikilink">8월14일</a></small></p></td>
+<td><p><small><a href="../Page/2013년.md" title="wikilink">2013년</a><a href="https://ko.wikipedia.org/wiki/8월14일" title="wikilink">8월14일</a></small></p></td>
 <td><p><strong>POWER OF NOISE</strong><br />
 </p></td>
 </tr>
 <tr class="even">
 <td><p><small>미니앨범 4집</small></p></td>
-<td><p><small><a href="https://ko.wikipedia.org/wiki/2014년" title="wikilink">2014년</a><a href="https://ko.wikipedia.org/wiki/10월22일" title="wikilink">10월22일</a></small></p></td>
+<td><p><small><a href="../Page/2014년.md" title="wikilink">2014년</a><a href="https://ko.wikipedia.org/wiki/10월22일" title="wikilink">10월22일</a></small></p></td>
 <td><p>イェーイ<br />
 </p></td>
 </tr>
 <tr class="odd">
 <td><p><small>미니앨범 5집</small></p></td>
-<td><p><small><a href="https://ko.wikipedia.org/wiki/2015년" title="wikilink">2015년</a><a href="https://ko.wikipedia.org/wiki/3월11일" title="wikilink">3월11일</a></small></p></td>
+<td><p><small><a href="../Page/2015년.md" title="wikilink">2015년</a><a href="https://ko.wikipedia.org/wiki/3월11일" title="wikilink">3월11일</a></small></p></td>
 <td><p>こころ<br />
 </p></td>
 </tr>
@@ -89,43 +89,43 @@
 </tr>
 <tr class="even">
 <td><p><small>디지털 싱글</small></p></td>
-<td><p><small><a href="https://ko.wikipedia.org/wiki/2011년" title="wikilink">2011년</a><a href="https://ko.wikipedia.org/wiki/1월26일" title="wikilink">1월26일</a></small></p></td>
+<td><p><small><a href="../Page/2011년.md" title="wikilink">2011년</a><a href="https://ko.wikipedia.org/wiki/1월26일" title="wikilink">1월26일</a></small></p></td>
 <td><p>光のたてがみ<br />
 </p></td>
 </tr>
 <tr class="odd">
 <td><p><small>디지털 싱글</small></p></td>
-<td><p><small><a href="https://ko.wikipedia.org/wiki/2011년" title="wikilink">2011년</a><a href="https://ko.wikipedia.org/wiki/10월5일" title="wikilink">10월5일</a></small></p></td>
+<td><p><small><a href="../Page/2011년.md" title="wikilink">2011년</a><a href="https://ko.wikipedia.org/wiki/10월5일" title="wikilink">10월5일</a></small></p></td>
 <td><p>ROSE GARDEN, BABY BLUE<br />
 </p></td>
 </tr>
 <tr class="even">
 <td><p><small>디지털 싱글</small></p></td>
-<td><p><small><a href="https://ko.wikipedia.org/wiki/2012년" title="wikilink">2012년</a><a href="https://ko.wikipedia.org/wiki/3월7일" title="wikilink">3월7일</a></small></p></td>
+<td><p><small><a href="../Page/2012년.md" title="wikilink">2012년</a><a href="https://ko.wikipedia.org/wiki/3월7일" title="wikilink">3월7일</a></small></p></td>
 <td><p>GO BACK TO MONSTER<br />
 </p></td>
 </tr>
 <tr class="odd">
 <td><p><small>디지털 싱글</small></p></td>
-<td><p><small><a href="https://ko.wikipedia.org/wiki/2012년" title="wikilink">2012년</a><a href="https://ko.wikipedia.org/wiki/4월4일" title="wikilink">4월4일</a></small></p></td>
+<td><p><small><a href="../Page/2012년.md" title="wikilink">2012년</a><a href="https://ko.wikipedia.org/wiki/4월4일" title="wikilink">4월4일</a></small></p></td>
 <td><p>春咲小紅<br />
 </p></td>
 </tr>
 <tr class="even">
 <td><p><small>디지털 싱글</small></p></td>
-<td><p><small><a href="https://ko.wikipedia.org/wiki/2012년" title="wikilink">2012년</a><a href="https://ko.wikipedia.org/wiki/6월27일" title="wikilink">6월27일</a></small></p></td>
+<td><p><small><a href="../Page/2012년.md" title="wikilink">2012년</a><a href="https://ko.wikipedia.org/wiki/6월27일" title="wikilink">6월27일</a></small></p></td>
 <td><p>サディスティック・カシオペア<br />
 </p></td>
 </tr>
 <tr class="odd">
 <td><p><small><strong>1st 싱글앨범</strong></small></p></td>
-<td><p><small><a href="https://ko.wikipedia.org/wiki/2013년" title="wikilink">2013년</a><a href="https://ko.wikipedia.org/wiki/4월10일" title="wikilink">4월10일</a></small></p></td>
+<td><p><small><a href="../Page/2013년.md" title="wikilink">2013년</a><a href="https://ko.wikipedia.org/wiki/4월10일" title="wikilink">4월10일</a></small></p></td>
 <td><p>ヒバリオペラ<br />
 </p></td>
 </tr>
 <tr class="even">
 <td><p><small><strong>2nd 싱글앨범</strong></small></p></td>
-<td><p><small><a href="https://ko.wikipedia.org/wiki/2014년" title="wikilink">2014년</a><a href="https://ko.wikipedia.org/wiki/4월19일" title="wikilink">4월19일</a></small></p></td>
+<td><p><small><a href="../Page/2014년.md" title="wikilink">2014년</a><a href="https://ko.wikipedia.org/wiki/4월19일" title="wikilink">4월19일</a></small></p></td>
 <td><p>スーダラ節／春になったら会いにきて<br />
 </p></td>
 </tr>

@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Ruby Sapphire Diamond](https://ko.wikipedia.org/wiki/Ruby_Sapphire_Diamond).
 
 
-《**Ruby Sapphire Diamond**》는 2008년에 발매된 [모던 록](https://ko.wikipedia.org/wiki/모던_록 "wikilink") [밴드](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [자우림](https://ko.wikipedia.org/wiki/자우림 "wikilink")의 7집 정규 음반이다.
+《**Ruby Sapphire Diamond**》는 2008년에 발매된 [모던 록](../Page/모던_록.md "wikilink") [밴드](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [자우림](../Page/자우림.md "wikilink")의 7집 정규 음반이다.
 
 ## 수록곡
 
-  - 전체 편곡: [자우림](https://ko.wikipedia.org/wiki/자우림 "wikilink")
+  - 전체 편곡: [자우림](../Page/자우림.md "wikilink")
 
 ## 외부 링크
 

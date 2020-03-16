@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Ricardio the Heart Guy](https://ko.wikipedia.org/wiki/Ricardio_the_Heart_Guy).
 
 
-〈**Ricardio the Heart Guy**〉는 [카툰 네트워크의](https://ko.wikipedia.org/wiki/카툰_네트워크 "wikilink") 애니메이션 시리즈 《[핀과 제이크의 어드벤처 타임](https://ko.wikipedia.org/wiki/핀과_제이크의_어드벤처_타임 "wikilink")》의 [첫 번째 시즌](../Page/핀과_제이크의_어드벤처_타임_\(시즌_1\).md "wikilink") 일곱 번째 에피소드이다. [대한민국](https://ko.wikipedia.org/wiki/카툰_네트워크_\(대한민국\) "wikilink") 방영 명칭은 〈돌아와, 리카르디오〉이다. 이 에피소드는 윤대주와 숀 히메네스가 스토리보드 작가로 참여했으며 메리웨더 윌리엄스, 팀 매키언, [애덤 무토가](https://ko.wikipedia.org/wiki/애덤_무토 "wikilink") 각본을 담당했다. 2010년 4월 26일 카툰 네트워크를 통해 첫 방영되었으며, [조지 타케이가](https://ko.wikipedia.org/wiki/조지_타케이 "wikilink") 에피소드의 주인공인 리카르디오의 성우를 맡았다.
+〈**Ricardio the Heart Guy**〉는 [카툰 네트워크의](../Page/카툰_네트워크.md "wikilink") 애니메이션 시리즈 《[핀과 제이크의 어드벤처 타임](../Page/핀과_제이크의_어드벤처_타임.md "wikilink")》의 [첫 번째 시즌](../Page/핀과_제이크의_어드벤처_타임_\(시즌_1\).md "wikilink") 일곱 번째 에피소드이다. [대한민국](../Page/카툰_네트워크_\(대한민국\).md "wikilink") 방영 명칭은 〈돌아와, 리카르디오〉이다. 이 에피소드는 윤대주와 숀 히메네스가 스토리보드 작가로 참여했으며 메리웨더 윌리엄스, 팀 매키언, [애덤 무토가](https://ko.wikipedia.org/wiki/애덤_무토 "wikilink") 각본을 담당했다. 2010년 4월 26일 카툰 네트워크를 통해 첫 방영되었으며, [조지 타케이가](https://ko.wikipedia.org/wiki/조지_타케이 "wikilink") 에피소드의 주인공인 리카르디오의 성우를 맡았다.
 
 ## 줄거리
 
@@ -13,15 +13,15 @@
 
 ## 제작
 
-[right](https://ko.wikipedia.org/wiki/파일:George_Takei_by_Gage_Skidmore.jpg "wikilink").\]\] 이 에피소드에서는 [조지 타케이가](https://ko.wikipedia.org/wiki/조지_타케이 "wikilink") 맡은 악당인 리카르디오가 등장한다. [톰 케니는](https://ko.wikipedia.org/wiki/톰_케니 "wikilink") 리카르디오를 ‘지옥에서 온 밸런타인’이라고 묘사하였다.\[1\] 타케이는 네 번째 시즌의 "Lady & Peebles"에서도 해당 역할을 한 번 더 맡게 된다.\[2\] 리카르디오의 초기 디자인은 심장의 동맥과 심실이 자세히 묘사된 의인화된 심장이었다.\[3\] 또한 리카르디오는 《어드벤처 타임》의 세계관에서 얼굴이 자세히 묘사된 유일한 등장인물이다. 에피소드 코멘터리에서는 리카르디오의 얼굴을 1902년 프랑스의 무성 영화인 《[달세계 여행](https://ko.wikipedia.org/wiki/달세계_여행 "wikilink")》의 달의 모습과 비교하기도 하였다.\[4\]
+[right](https://ko.wikipedia.org/wiki/파일:George_Takei_by_Gage_Skidmore.jpg "wikilink").\]\] 이 에피소드에서는 [조지 타케이가](https://ko.wikipedia.org/wiki/조지_타케이 "wikilink") 맡은 악당인 리카르디오가 등장한다. [톰 케니는](../Page/톰_케니.md "wikilink") 리카르디오를 ‘지옥에서 온 밸런타인’이라고 묘사하였다.\[1\] 타케이는 네 번째 시즌의 "Lady & Peebles"에서도 해당 역할을 한 번 더 맡게 된다.\[2\] 리카르디오의 초기 디자인은 심장의 동맥과 심실이 자세히 묘사된 의인화된 심장이었다.\[3\] 또한 리카르디오는 《어드벤처 타임》의 세계관에서 얼굴이 자세히 묘사된 유일한 등장인물이다. 에피소드 코멘터리에서는 리카르디오의 얼굴을 1902년 프랑스의 무성 영화인 《[달세계 여행](../Page/달세계_여행.md "wikilink")》의 달의 모습과 비교하기도 하였다.\[4\]
 
-방영 직후, 《어드벤처 타임》의 작곡가인 케이시 베이시커스(Casey Basichis)는 이번 화에 이용된 음악의 제작 과정을 담은 영상을 인터넷에 올렸다. 음악의 뼈대는 베이시커스가 샤워를 하는 도중에 우쿨렐레를 이용하여 만들었다. 초기에는 ‘[뉴욕](https://ko.wikipedia.org/wiki/뉴욕 "wikilink"), 택시, [재즈](https://ko.wikipedia.org/wiki/재즈 "wikilink")’ 분위기의 장르였지만 이내 바뀌었다. 얼음대왕의 몸에서 리카르디오가 도망쳐 나오는 장면에서는 [파일럿의](../Page/어드벤처_타임_\(파일럿\).md "wikilink") 음악에서 영감을 받다고 말했다. 또한 오페라 가수인 캐런 봉(Karen Vuong)이 작곡에 참여하였다.\[5\]
+방영 직후, 《어드벤처 타임》의 작곡가인 케이시 베이시커스(Casey Basichis)는 이번 화에 이용된 음악의 제작 과정을 담은 영상을 인터넷에 올렸다. 음악의 뼈대는 베이시커스가 샤워를 하는 도중에 우쿨렐레를 이용하여 만들었다. 초기에는 ‘[뉴욕](../Page/뉴욕.md "wikilink"), 택시, [재즈](../Page/재즈.md "wikilink")’ 분위기의 장르였지만 이내 바뀌었다. 얼음대왕의 몸에서 리카르디오가 도망쳐 나오는 장면에서는 [파일럿의](../Page/어드벤처_타임_\(파일럿\).md "wikilink") 음악에서 영감을 받다고 말했다. 또한 오페라 가수인 캐런 봉(Karen Vuong)이 작곡에 참여하였다.\[5\]
 
 ## 반응
 
 〈Ricardio the Heart Guy〉는 2010년 4월 26일 카툰 네트워크를 통해 첫 방영되었다. 191만 명의 시청자 수를 기록했으며, [닐슨 시청률에](https://ko.wikipedia.org/wiki/닐슨_시청률 "wikilink") 의하면 전체 TV 시청 가구의 1.3%, 방영 당시 TV를 시청하고 있던 가구 중에서는 2%가 이 에피소드를 보았다.\[6\] 2011년에는 시즌 1·2의 에피소드를 포함한 DVD인 《Adventure Time: My Two Favorite People》을 통해 실물로 발매되었으며,\[7\] 2012년 7월에는 에피소드의 코멘터리 트랙을 포함한 DVD 또한 발매되었다.\[8\]\[9\]
 
-[IGN](https://ko.wikipedia.org/wiki/IGN "wikilink")의 매트 파울러(Matt Fowler)는 《My Two Favorite People》 DVD 리뷰에서 “살아있는 심장인 리카르디오가 버블검 공주의 심장을 빼내려 한다는 생각은 무서운 악몽이 떠오르게 만든다.”라고 말했다. 그렇지만 덧붙이기를 “《어드벤처 타임》은 그런 소름 끼치는 소재를 재미있고, 다가가기 쉽도록 하는 방법을 아는 것 같다.”라고 평했다.\[10\]
+[IGN](../Page/IGN.md "wikilink")의 매트 파울러(Matt Fowler)는 《My Two Favorite People》 DVD 리뷰에서 “살아있는 심장인 리카르디오가 버블검 공주의 심장을 빼내려 한다는 생각은 무서운 악몽이 떠오르게 만든다.”라고 말했다. 그렇지만 덧붙이기를 “《어드벤처 타임》은 그런 소름 끼치는 소재를 재미있고, 다가가기 쉽도록 하는 방법을 아는 것 같다.”라고 평했다.\[10\]
 
 타케이가 리카르디오 역할을 맡은 것에 대해 많은 비평가들이 호평을 남겼다. [io9](https://ko.wikipedia.org/wiki/io9 "wikilink")의 찰리 앤더스(Charlie Anders)는 타케이의 이번 출연을 ‘그의 최고의 순간’ 중 하나로 뽑았다.\[11\] DVD 토크(DVD Talk)의 타일러 포스터(Tyler Foster)는 리카르디오가 이 시즌의 하이라이트였다고 칭찬했다.\[12\] 《[디 A.V. 클럽](../Page/디_A.V._클럽.md "wikilink")》의 올리버 사바(Oliver Sava)는 〈Lady & Peebles〉의 평론에서 리카르디오가 “타케이의 매력적인 목소리로 인해 언제나 환영받는다.”라고 말했다. 또한 “그의 목소리에는 얼음대왕의 비음과는 극명히 대조적인 과장된 능글맞음이 있다. 타케이는 자신을 위해 쓰여진 그런 재미있는 대사를 언제나 훌륭히 소화해 내는 것 같다.”라고 평가했다.\[13\]
 
@@ -29,7 +29,7 @@
 
 [분류:2010년 텔레비전 에피소드](https://ko.wikipedia.org/wiki/분류:2010년_텔레비전_에피소드 "wikilink") [분류:핀과 제이크의 어드벤처 타임의 에피소드](https://ko.wikipedia.org/wiki/분류:핀과_제이크의_어드벤처_타임의_에피소드 "wikilink")
 
-1.  [Kenny, Tom](https://ko.wikipedia.org/wiki/톰_케니 "wikilink"). 2012. "Ricardio the Heart Guy" \[코멘터리 트랙\], 《Adventure Time Season One》 \[DVD\], 로스앤젤레스: 카툰 네트워크.
+1.  [Kenny, Tom](../Page/톰_케니.md "wikilink"). 2012. "Ricardio the Heart Guy" \[코멘터리 트랙\], 《Adventure Time Season One》 \[DVD\], 로스앤젤레스: 카툰 네트워크.
 2.
 3.
 4.  "Ricardio the Heart Guy" \[코멘터리 트랙\], 《Adventure Time Season One》 \[DVD\], 로스앤젤레스: 카툰 네트워크.

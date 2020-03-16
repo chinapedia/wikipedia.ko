@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Lyrics \(  \)](https://ko.wikipedia.org/wiki/Lyrics_\(__\)).
 
 
-{{음반 정보 | 음반명 = lyrics | 음반종류 = [베스트 음반](https://ko.wikipedia.org/wiki/베스트_음반 "wikilink") | 가수명 = [코마츠 미호](https://ko.wikipedia.org/wiki/코마츠_미호 "wikilink") | 발매년월일 = [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [11월 26일](https://ko.wikipedia.org/wiki/11월_26일 "wikilink") | 녹음 = [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") | 장르 = [J-POP](https://ko.wikipedia.org/wiki/J-POP "wikilink") | 길이 = 71분 28초 | 레이블 = [기자 스튜디오](https://ko.wikipedia.org/wiki/기자_스튜디오 "wikilink") | 프로듀서 = 코마츠 미호, ROCKAKU | 전앨범 = [{{nobr](../Page/코마츠_미호_6th_~하나노~.md "wikilink")
-([2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink")) | 현앨범 = **lyrics**
+{{음반 정보 | 음반명 = lyrics | 음반종류 = [베스트 음반](https://ko.wikipedia.org/wiki/베스트_음반 "wikilink") | 가수명 = [코마츠 미호](../Page/코마츠_미호.md "wikilink") | 발매년월일 = [2003년](../Page/2003년.md "wikilink") [11월 26일](../Page/11월_26일.md "wikilink") | 녹음 = [2003년](../Page/2003년.md "wikilink") | 장르 = [J-POP](https://ko.wikipedia.org/wiki/J-POP "wikilink") | 길이 = 71분 28초 | 레이블 = [기자 스튜디오](https://ko.wikipedia.org/wiki/기자_스튜디오 "wikilink") | 프로듀서 = 코마츠 미호, ROCKAKU | 전앨범 = [{{nobr](../Page/코마츠_미호_6th_~하나노~.md "wikilink")
+([2003년](../Page/2003년.md "wikilink")) | 현앨범 = **lyrics**
 (2003년) | 후앨범 = \[\[코마츠_미호_7_\~prime_number\~|
 
-《**lyrics**》는 [코마츠 미호의](https://ko.wikipedia.org/wiki/코마츠_미호 "wikilink") 러브 발라드 셀렉션 음반이다.
+《**lyrics**》는 [코마츠 미호의](../Page/코마츠_미호.md "wikilink") 러브 발라드 셀렉션 음반이다.
 
 ## 내용
 
@@ -22,7 +22,7 @@
       -
         4번째 음반 《코마츠 미호 4 : A thousand feelings》 수록곡.
 2.  **[alive](../Page/나조.md "wikilink")**
-      - 작사 · 작곡: 코마츠 미호, 편곡: [후루이 히로히토](https://ko.wikipedia.org/wiki/후루이_히로히토 "wikilink")
+      - 작사 · 작곡: 코마츠 미호, 편곡: [후루이 히로히토](../Page/후루이_히로히토.md "wikilink")
     <!-- end list -->
       -
         1번째 음반 《수수께끼》 수록곡.

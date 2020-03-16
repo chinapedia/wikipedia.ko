@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Noto](https://ko.wikipedia.org/wiki/Noto).
 
 
-**Noto**는 [Google](https://ko.wikipedia.org/wiki/Google "wikilink")이 개발한 [오픈 소스](https://ko.wikipedia.org/wiki/오픈_소스 "wikilink") [글꼴패밀리다](https://ko.wikipedia.org/wiki/폰트 "wikilink").\[1\]
+**Noto**는 [Google](https://ko.wikipedia.org/wiki/Google "wikilink")이 개발한 [오픈 소스](../Page/오픈_소스.md "wikilink") [글꼴패밀리다](https://ko.wikipedia.org/wiki/폰트 "wikilink").\[1\]
 
 ## 개요
 
-노토(Noto)는 유니코드 표준으로 인코딩된 모든 언어를 커버하기위한 폰트 패밀리이다. 이 글꼴은 여러 언어나 문자를 전체적인 시각적 조화(예를 들면, 서로 맞는 높이와 획의 굵기 등)를 이루는 것을 목표로 [Apache License 2.0로](https://ko.wikipedia.org/wiki/아파치_라이선스 "wikilink") 배포된다. 컴퓨터에서 표시 못하는 문자가 있을 때 문자 대신에 조그만 사각형(□)이 표시되는 일이 많이 있는데 이를 흔히 "[두부](https://ko.wikipedia.org/wiki/두부 "wikilink")"(tofu)라고 부르며, 구글은 Web 상에서 이를 없애기 위해서 Noto(No Tofu) 폰트를 개발했다.\[2\]
+노토(Noto)는 유니코드 표준으로 인코딩된 모든 언어를 커버하기위한 폰트 패밀리이다. 이 글꼴은 여러 언어나 문자를 전체적인 시각적 조화(예를 들면, 서로 맞는 높이와 획의 굵기 등)를 이루는 것을 목표로 [Apache License 2.0로](../Page/아파치_라이선스.md "wikilink") 배포된다. 컴퓨터에서 표시 못하는 문자가 있을 때 문자 대신에 조그만 사각형(□)이 표시되는 일이 많이 있는데 이를 흔히 "[두부](../Page/두부.md "wikilink")"(tofu)라고 부르며, 구글은 Web 상에서 이를 없애기 위해서 Noto(No Tofu) 폰트를 개발했다.\[2\]
 
 ## 유니코드 커버리지
 
@@ -45,7 +45,7 @@ Noto Sans CJK는 다른 Noto 폰트 패밀리나 Android에 채용된 [Roboto](h
 <td><p>Regular</p></td>
 <td><p>875</p></td>
 <td><p>897</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/로마자" title="wikilink">로마자</a>, <a href="https://ko.wikipedia.org/wiki/그리스_문자" title="wikilink">그리스 문자</a>, <a href="https://ko.wikipedia.org/wiki/키릴_문자" title="wikilink">키릴 문자</a></p></td>
+<td><p><a href="../Page/로마자.md" title="wikilink">로마자</a>, <a href="../Page/그리스_문자.md" title="wikilink">그리스 문자</a>, <a href="../Page/키릴_문자.md" title="wikilink">키릴 문자</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Noto Color Emoji</p></td>
@@ -71,7 +71,7 @@ Bold</p></td>
 <td><p>473</p></td>
 <td><p>762 (regular)<br />
 763 (bold)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아랍_문자" title="wikilink">아랍 문자</a> (<a href="https://ko.wikipedia.org/wiki/쿠픽" title="wikilink">쿠픽</a>)</p></td>
+<td><p><a href="../Page/아랍_문자.md" title="wikilink">아랍 문자</a> (<a href="https://ko.wikipedia.org/wiki/쿠픽" title="wikilink">쿠픽</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p>Noto Naskh Arabic</p></td>
@@ -81,7 +81,7 @@ Bold</p></td>
 <td><p>1122</p></td>
 <td><p>1533 (regular)<br />
 1540 (bold)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아랍_문자" title="wikilink">아랍 문자</a> (<a href="https://ko.wikipedia.org/wiki/Naskh_(script)" title="wikilink">Naskh</a> style)</p></td>
+<td><p><a href="../Page/아랍_문자.md" title="wikilink">아랍 문자</a> (<a href="https://ko.wikipedia.org/wiki/Naskh_(script)" title="wikilink">Naskh</a> style)</p></td>
 </tr>
 <tr class="even">
 <td><p>Noto Nastaliq Urdu</p></td>
@@ -89,7 +89,7 @@ Bold</p></td>
 <td><p>Regular</p></td>
 <td><p>267</p></td>
 <td><p>1133</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아랍_문자" title="wikilink">아랍 문자</a> (<a href="../Page/나스탈리크체.md" title="wikilink">나스탈리크체</a>)</p></td>
+<td><p><a href="../Page/아랍_문자.md" title="wikilink">아랍 문자</a> (<a href="../Page/나스탈리크체.md" title="wikilink">나스탈리크체</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p>Noto Sans</p></td>
@@ -97,7 +97,7 @@ Bold</p></td>
 <td><p>Regular</p></td>
 <td><p>2785</p></td>
 <td><p>3246</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/로마자" title="wikilink">로마자</a>, <a href="https://ko.wikipedia.org/wiki/그리스_문자" title="wikilink">그리스 문자</a>, <a href="https://ko.wikipedia.org/wiki/키릴_문자" title="wikilink">키릴 문자</a></p></td>
+<td><p><a href="../Page/로마자.md" title="wikilink">로마자</a>, <a href="../Page/그리스_문자.md" title="wikilink">그리스 문자</a>, <a href="../Page/키릴_문자.md" title="wikilink">키릴 문자</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Noto Sans Adlam</p></td>
@@ -122,7 +122,7 @@ Bold</p></td>
 Bold</p></td>
 <td><p>97</p></td>
 <td><p>98</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아르메니아_문자" title="wikilink">아르메니아 문자</a></p></td>
+<td><p><a href="../Page/아르메니아_문자.md" title="wikilink">아르메니아 문자</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Noto Sans Avestan</p></td>
@@ -171,7 +171,7 @@ Bold</p></td>
 <td><p>Regular</p></td>
 <td><p>113</p></td>
 <td><p>182</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/브라흐미_문자" title="wikilink">브라흐미 문자</a></p></td>
+<td><p><a href="../Page/브라흐미_문자.md" title="wikilink">브라흐미 문자</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Noto Sans Buginese</p></td>
@@ -179,7 +179,7 @@ Bold</p></td>
 <td><p>Regular</p></td>
 <td><p>40</p></td>
 <td><p>63</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/론타라_문자" title="wikilink">론타라 문자</a></p></td>
+<td><p><a href="../Page/론타라_문자.md" title="wikilink">론타라 문자</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Noto Sans Buhid</p></td>
@@ -228,7 +228,7 @@ Bold</p></td>
 <td><p>Regular</p></td>
 <td><p>90</p></td>
 <td><p>89</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/체로키_문자" title="wikilink">체로키 문자</a></p></td>
+<td><p><a href="../Page/체로키_문자.md" title="wikilink">체로키 문자</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Noto Sans CJK JP</p></td>
@@ -242,11 +242,11 @@ Bold<br />
 Black</p></td>
 <td><p>44683</p></td>
 <td><p>65535</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/CJK" title="wikilink">CJK</a> (Japanese style)<br />
+<td><p><a href="../Page/CJK.md" title="wikilink">CJK</a> (Japanese style)<br />
 <a href="https://ko.wikipedia.org/wiki/한글" title="wikilink">한글</a><br />
-<a href="https://ko.wikipedia.org/wiki/히라가나" title="wikilink">히라가나</a><br />
-<a href="https://ko.wikipedia.org/wiki/가타카나" title="wikilink">가타카나</a><br />
-<a href="https://ko.wikipedia.org/wiki/주음부호" title="wikilink">주음부호</a>(보포모포)</p></td>
+<a href="../Page/히라가나.md" title="wikilink">히라가나</a><br />
+<a href="../Page/가타카나.md" title="wikilink">가타카나</a><br />
+<a href="../Page/주음부호.md" title="wikilink">주음부호</a>(보포모포)</p></td>
 </tr>
 <tr class="odd">
 <td><p>Noto Sans CJK KR</p></td>
@@ -260,11 +260,11 @@ Bold<br />
 Black</p></td>
 <td><p>44683</p></td>
 <td><p>65535</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/CJK" title="wikilink">CJK</a> (Korean style)<br />
+<td><p><a href="../Page/CJK.md" title="wikilink">CJK</a> (Korean style)<br />
 <a href="https://ko.wikipedia.org/wiki/한글" title="wikilink">한글</a><br />
-<a href="https://ko.wikipedia.org/wiki/히라가나" title="wikilink">히라가나</a><br />
-<a href="https://ko.wikipedia.org/wiki/가타카나" title="wikilink">가타카나</a><br />
-<a href="https://ko.wikipedia.org/wiki/주음부호" title="wikilink">주음부호</a>(보포모포)</p></td>
+<a href="../Page/히라가나.md" title="wikilink">히라가나</a><br />
+<a href="../Page/가타카나.md" title="wikilink">가타카나</a><br />
+<a href="../Page/주음부호.md" title="wikilink">주음부호</a>(보포모포)</p></td>
 </tr>
 <tr class="even">
 <td><p>Noto Sans CJK SC</p></td>
@@ -278,11 +278,11 @@ Bold<br />
 Black</p></td>
 <td><p>44683</p></td>
 <td><p>65535</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/CJK" title="wikilink">CJK</a> (Simplified Chinese style)<br />
+<td><p><a href="../Page/CJK.md" title="wikilink">CJK</a> (Simplified Chinese style)<br />
 <a href="https://ko.wikipedia.org/wiki/한글" title="wikilink">한글</a><br />
-<a href="https://ko.wikipedia.org/wiki/히라가나" title="wikilink">히라가나</a><br />
-<a href="https://ko.wikipedia.org/wiki/가타카나" title="wikilink">가타카나</a><br />
-<a href="https://ko.wikipedia.org/wiki/주음부호" title="wikilink">주음부호</a></p></td>
+<a href="../Page/히라가나.md" title="wikilink">히라가나</a><br />
+<a href="../Page/가타카나.md" title="wikilink">가타카나</a><br />
+<a href="../Page/주음부호.md" title="wikilink">주음부호</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Noto Sans CJK TC</p></td>
@@ -296,11 +296,11 @@ Bold<br />
 Black</p></td>
 <td><p>44683</p></td>
 <td><p>65535</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/CJK" title="wikilink">CJK</a> (Traditional Chinese style)<br />
+<td><p><a href="../Page/CJK.md" title="wikilink">CJK</a> (Traditional Chinese style)<br />
 <a href="https://ko.wikipedia.org/wiki/한글" title="wikilink">한글</a><br />
-<a href="https://ko.wikipedia.org/wiki/히라가나" title="wikilink">히라가나</a><br />
-<a href="https://ko.wikipedia.org/wiki/가타카나" title="wikilink">가타카나</a><br />
-<a href="https://ko.wikipedia.org/wiki/주음부호" title="wikilink">주음부호</a></p></td>
+<a href="../Page/히라가나.md" title="wikilink">히라가나</a><br />
+<a href="../Page/가타카나.md" title="wikilink">가타카나</a><br />
+<a href="../Page/주음부호.md" title="wikilink">주음부호</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Noto Sans Coptic</p></td>
@@ -308,7 +308,7 @@ Black</p></td>
 <td><p>Regular</p></td>
 <td><p>159</p></td>
 <td><p>192</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/콥트_문자" title="wikilink">콥트 문자</a></p></td>
+<td><p><a href="../Page/콥트_문자.md" title="wikilink">콥트 문자</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Noto Sans Cuneiform</p></td>
@@ -316,7 +316,7 @@ Black</p></td>
 <td><p>Regular</p></td>
 <td><p>987</p></td>
 <td><p>986</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/쐐기_문자" title="wikilink">쐐기 문자</a></p></td>
+<td><p><a href="../Page/쐐기_문자.md" title="wikilink">쐐기 문자</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Noto Sans Cypriot</p></td>
@@ -332,7 +332,7 @@ Black</p></td>
 <td><p>Regular</p></td>
 <td><p>85</p></td>
 <td><p>84</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/데저렛_문자" title="wikilink">데저렛 문자</a></p></td>
+<td><p><a href="../Page/데저렛_문자.md" title="wikilink">데저렛 문자</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Noto Sans Devanagari</p></td>
@@ -342,7 +342,7 @@ Bold</p></td>
 <td><p>265</p></td>
 <td><p>901 (regular)<br />
 906 (bold)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/데바나가리_문자" title="wikilink">데바나가리 문자</a></p></td>
+<td><p><a href="../Page/데바나가리_문자.md" title="wikilink">데바나가리 문자</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Noto Sans Egyptian Hieroglyphs</p></td>
@@ -350,7 +350,7 @@ Bold</p></td>
 <td><p>Regular</p></td>
 <td><p>1076</p></td>
 <td><p>1075</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/신성문자" title="wikilink">신성문자</a></p></td>
+<td><p><a href="../Page/신성문자.md" title="wikilink">신성문자</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Noto Sans Ethiopic</p></td>
@@ -368,7 +368,7 @@ Bold</p></td>
 Bold</p></td>
 <td><p>127</p></td>
 <td><p>127</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/조지아_문자" title="wikilink">조지아 문자</a></p></td>
+<td><p><a href="../Page/조지아_문자.md" title="wikilink">조지아 문자</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Noto Sans Glagolitic</p></td>
@@ -376,7 +376,7 @@ Bold</p></td>
 <td><p>Regular</p></td>
 <td><p>99</p></td>
 <td><p>98</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/글라골_문자" title="wikilink">글라골 문자</a></p></td>
+<td><p><a href="../Page/글라골_문자.md" title="wikilink">글라골 문자</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Noto Sans Gothic</p></td>
@@ -384,7 +384,7 @@ Bold</p></td>
 <td><p>Regular</p></td>
 <td><p>38</p></td>
 <td><p>43</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/고트_문자" title="wikilink">고트 문자</a></p></td>
+<td><p><a href="../Page/고트_문자.md" title="wikilink">고트 문자</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Noto Sans Gujarati</p></td>
@@ -394,7 +394,7 @@ Bold</p></td>
 <td><p>155</p></td>
 <td><p>741 (regular)<br />
 740 (bold)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/구자라트_문자" title="wikilink">구자라트 문자</a></p></td>
+<td><p><a href="../Page/구자라트_문자.md" title="wikilink">구자라트 문자</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Noto Sans Gurmukhi</p></td>
@@ -420,7 +420,7 @@ Bold</p></td>
 Bold</p></td>
 <td><p>144</p></td>
 <td><p>155</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/히브리_문자" title="wikilink">히브리 문자</a></p></td>
+<td><p><a href="../Page/히브리_문자.md" title="wikilink">히브리 문자</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Noto Sans Imperial Aramaic</p></td>
@@ -452,7 +452,7 @@ Bold</p></td>
 <td><p>Regular</p></td>
 <td><p>100</p></td>
 <td><p>186</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/자와_문자" title="wikilink">자와 문자</a></p></td>
+<td><p><a href="../Page/자와_문자.md" title="wikilink">자와 문자</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Noto Sans Kaithi</p></td>
@@ -494,7 +494,7 @@ Bold</p></td>
 Bold</p></td>
 <td><p>192</p></td>
 <td><p>265</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/크메르_문자" title="wikilink">크메르 문자</a></p></td>
+<td><p><a href="../Page/크메르_문자.md" title="wikilink">크메르 문자</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Noto Sans Lao</p></td>
@@ -535,7 +535,7 @@ Bold</p></td>
 <td><p>Regular</p></td>
 <td><p>55</p></td>
 <td><p>54</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/프레이저_문자" title="wikilink">프레이저 문자</a></p></td>
+<td><p><a href="../Page/프레이저_문자.md" title="wikilink">프레이저 문자</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Noto Sans Lycian</p></td>
@@ -543,7 +543,7 @@ Bold</p></td>
 <td><p>Regular</p></td>
 <td><p>34</p></td>
 <td><p>33</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/리키아_문자" title="wikilink">리키아 문자</a></p></td>
+<td><p><a href="../Page/리키아_문자.md" title="wikilink">리키아 문자</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Noto Sans Lydian</p></td>
@@ -584,7 +584,7 @@ Bold</p></td>
 <td><p>Regular</p></td>
 <td><p>200</p></td>
 <td><p>1511</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/몽골_문자" title="wikilink">몽골 문자</a></p></td>
+<td><p><a href="../Page/몽골_문자.md" title="wikilink">몽골 문자</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Noto Sans Mono CJK JP</p></td>
@@ -593,11 +593,11 @@ Bold</p></td>
 Bold</p></td>
 <td><p>44683</p></td>
 <td><p>65535</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/CJK" title="wikilink">CJK</a> (Japanese style)<br />
+<td><p><a href="../Page/CJK.md" title="wikilink">CJK</a> (Japanese style)<br />
 <a href="https://ko.wikipedia.org/wiki/한글" title="wikilink">한글</a><br />
-<a href="https://ko.wikipedia.org/wiki/히라가나" title="wikilink">히라가나</a><br />
-<a href="https://ko.wikipedia.org/wiki/가타카나" title="wikilink">가타카나</a><br />
-<a href="https://ko.wikipedia.org/wiki/주음부호" title="wikilink">주음부호</a>(보포모포)</p></td>
+<a href="../Page/히라가나.md" title="wikilink">히라가나</a><br />
+<a href="../Page/가타카나.md" title="wikilink">가타카나</a><br />
+<a href="../Page/주음부호.md" title="wikilink">주음부호</a>(보포모포)</p></td>
 </tr>
 <tr class="odd">
 <td><p>Noto Sans Mono CJK KR</p></td>
@@ -606,11 +606,11 @@ Bold</p></td>
 Bold</p></td>
 <td><p>44683</p></td>
 <td><p>65535</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/CJK" title="wikilink">CJK</a> (Korean style)<br />
+<td><p><a href="../Page/CJK.md" title="wikilink">CJK</a> (Korean style)<br />
 <a href="https://ko.wikipedia.org/wiki/한글" title="wikilink">한글</a><br />
-<a href="https://ko.wikipedia.org/wiki/히라가나" title="wikilink">히라가나</a><br />
-<a href="https://ko.wikipedia.org/wiki/가타카나" title="wikilink">가타카나</a><br />
-<a href="https://ko.wikipedia.org/wiki/주음부호" title="wikilink">주음부호</a>(보포모포)</p></td>
+<a href="../Page/히라가나.md" title="wikilink">히라가나</a><br />
+<a href="../Page/가타카나.md" title="wikilink">가타카나</a><br />
+<a href="../Page/주음부호.md" title="wikilink">주음부호</a>(보포모포)</p></td>
 </tr>
 <tr class="even">
 <td><p>Noto Sans Mono CJK SC</p></td>
@@ -619,11 +619,11 @@ Bold</p></td>
 Bold</p></td>
 <td><p>44683</p></td>
 <td><p>65535</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/CJK" title="wikilink">CJK</a> (Simplified Chinese style)<br />
+<td><p><a href="../Page/CJK.md" title="wikilink">CJK</a> (Simplified Chinese style)<br />
 <a href="https://ko.wikipedia.org/wiki/한글" title="wikilink">한글</a><br />
-<a href="https://ko.wikipedia.org/wiki/히라가나" title="wikilink">히라가나</a><br />
-<a href="https://ko.wikipedia.org/wiki/가타카나" title="wikilink">가타카나</a><br />
-<a href="https://ko.wikipedia.org/wiki/주음부호" title="wikilink">주음부호</a>(보포모포)</p></td>
+<a href="../Page/히라가나.md" title="wikilink">히라가나</a><br />
+<a href="../Page/가타카나.md" title="wikilink">가타카나</a><br />
+<a href="../Page/주음부호.md" title="wikilink">주음부호</a>(보포모포)</p></td>
 </tr>
 <tr class="odd">
 <td><p>Noto Sans Mono CJK TC</p></td>
@@ -632,11 +632,11 @@ Bold</p></td>
 Bold</p></td>
 <td><p>44683</p></td>
 <td><p>65535</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/CJK" title="wikilink">CJK</a> (Traditional Chinese style)<br />
+<td><p><a href="../Page/CJK.md" title="wikilink">CJK</a> (Traditional Chinese style)<br />
 <a href="https://ko.wikipedia.org/wiki/한글" title="wikilink">한글</a><br />
-<a href="https://ko.wikipedia.org/wiki/히라가나" title="wikilink">히라가나</a><br />
-<a href="https://ko.wikipedia.org/wiki/가타카나" title="wikilink">가타카나</a><br />
-<a href="https://ko.wikipedia.org/wiki/주음부호" title="wikilink">주음부호</a>(보포모포)</p></td>
+<a href="../Page/히라가나.md" title="wikilink">히라가나</a><br />
+<a href="../Page/가타카나.md" title="wikilink">가타카나</a><br />
+<a href="../Page/주음부호.md" title="wikilink">주음부호</a>(보포모포)</p></td>
 </tr>
 <tr class="even">
 <td><p>Noto Sans Myanmar</p></td>
@@ -646,7 +646,7 @@ Bold</p></td>
 <td><p>198</p></td>
 <td><p>540 (regular)<br />
 541 (bold)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/버마_문자" title="wikilink">버마 문자</a></p></td>
+<td><p><a href="../Page/버마_문자.md" title="wikilink">버마 문자</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Noto Sans New Tai Lue</p></td>
@@ -670,7 +670,7 @@ Bold</p></td>
 <td><p>Regular</p></td>
 <td><p>34</p></td>
 <td><p>33</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오검_문자" title="wikilink">오검 문자</a></p></td>
+<td><p><a href="../Page/오검_문자.md" title="wikilink">오검 문자</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Noto Sans Ol Chiki</p></td>
@@ -710,7 +710,7 @@ Bold</p></td>
 <td><p>Regular</p></td>
 <td><p>78</p></td>
 <td><p>77</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/돌궐_문자" title="wikilink">돌궐 문자</a></p></td>
+<td><p><a href="../Page/돌궐_문자.md" title="wikilink">돌궐 문자</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Noto Sans Oriya</p></td>
@@ -743,7 +743,7 @@ Bold</p></td>
 <td><p>Regular</p></td>
 <td><p>97</p></td>
 <td><p>382</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/파스파_문자" title="wikilink">파스파 문자</a></p></td>
+<td><p><a href="../Page/파스파_문자.md" title="wikilink">파스파 문자</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Noto Sans Phoenician</p></td>
@@ -751,7 +751,7 @@ Bold</p></td>
 <td><p>Regular</p></td>
 <td><p>34</p></td>
 <td><p>33</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/페니키아_문자" title="wikilink">페니키아 문자</a></p></td>
+<td><p><a href="../Page/페니키아_문자.md" title="wikilink">페니키아 문자</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Noto Sans Rejang</p></td>
@@ -767,7 +767,7 @@ Bold</p></td>
 <td><p>Regular</p></td>
 <td><p>86</p></td>
 <td><p>85</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/룬_문자" title="wikilink">룬 문자</a></p></td>
+<td><p><a href="../Page/룬_문자.md" title="wikilink">룬 문자</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Noto Sans Samaritan</p></td>
@@ -898,7 +898,7 @@ Bold</p></td>
 <td><p>139</p></td>
 <td><p>215 (regular)<br />
 216 (bold)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/타밀_문자" title="wikilink">타밀 문자</a></p></td>
+<td><p><a href="../Page/타밀_문자.md" title="wikilink">타밀 문자</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Noto Sans Telugu</p></td>
@@ -916,7 +916,7 @@ Bold</p></td>
 Bold</p></td>
 <td><p>91</p></td>
 <td><p>95</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/타나_문자" title="wikilink">타나 문자</a></p></td>
+<td><p><a href="../Page/타나_문자.md" title="wikilink">타나 문자</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Noto Sans Thai</p></td>
@@ -925,7 +925,7 @@ Bold</p></td>
 Bold</p></td>
 <td><p>100</p></td>
 <td><p>108</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/타이_문자" title="wikilink">타이 문자</a></p></td>
+<td><p><a href="../Page/타이_문자.md" title="wikilink">타이 문자</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Noto Sans Tibetan</p></td>
@@ -934,7 +934,7 @@ Bold</p></td>
 Bold</p></td>
 <td><p>221</p></td>
 <td><p>1296</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/티베트_문자" title="wikilink">티베트 문자</a></p></td>
+<td><p><a href="../Page/티베트_문자.md" title="wikilink">티베트 문자</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Noto Sans Tifinagh</p></td>
@@ -942,7 +942,7 @@ Bold</p></td>
 <td><p>Regular</p></td>
 <td><p>72</p></td>
 <td><p>101</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/티피나그_문자" title="wikilink">티피나그 문자</a></p></td>
+<td><p><a href="../Page/티피나그_문자.md" title="wikilink">티피나그 문자</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Noto Sans Ugaritic</p></td>
@@ -966,7 +966,7 @@ Bold</p></td>
 <td><p>Regular</p></td>
 <td><p>1251</p></td>
 <td><p>1251</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이_문자" title="wikilink">이 문자</a></p></td>
+<td><p><a href="../Page/이_문자.md" title="wikilink">이 문자</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Noto Serif</p></td>
@@ -974,7 +974,7 @@ Bold</p></td>
 <td><p>Regular</p></td>
 <td><p>2789</p></td>
 <td><p>3243</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/로마자" title="wikilink">로마자</a>, <a href="https://ko.wikipedia.org/wiki/그리스_문자" title="wikilink">그리스 문자</a>, <a href="https://ko.wikipedia.org/wiki/키릴_문자" title="wikilink">키릴 문자</a></p></td>
+<td><p><a href="../Page/로마자.md" title="wikilink">로마자</a>, <a href="../Page/그리스_문자.md" title="wikilink">그리스 문자</a>, <a href="../Page/키릴_문자.md" title="wikilink">키릴 문자</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Noto Serif Armenian</p></td>
@@ -983,7 +983,7 @@ Bold</p></td>
 Bold</p></td>
 <td><p>97</p></td>
 <td><p>98</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아르메니아_문자" title="wikilink">아르메니아 문자</a></p></td>
+<td><p><a href="../Page/아르메니아_문자.md" title="wikilink">아르메니아 문자</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Noto Serif Bengali</p></td>
@@ -1006,11 +1006,11 @@ Bold<br />
 Black</p></td>
 <td><p>43027</p></td>
 <td><p>65535</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/CJK" title="wikilink">CJK</a> (Japanese style)<br />
+<td><p><a href="../Page/CJK.md" title="wikilink">CJK</a> (Japanese style)<br />
 <a href="https://ko.wikipedia.org/wiki/한글" title="wikilink">한글</a><br />
-<a href="https://ko.wikipedia.org/wiki/히라가나" title="wikilink">히라가나</a><br />
-<a href="https://ko.wikipedia.org/wiki/가타카나" title="wikilink">가타카나</a><br />
-<a href="https://ko.wikipedia.org/wiki/주음부호" title="wikilink">주음부호</a>(보포모포)</p></td>
+<a href="../Page/히라가나.md" title="wikilink">히라가나</a><br />
+<a href="../Page/가타카나.md" title="wikilink">가타카나</a><br />
+<a href="../Page/주음부호.md" title="wikilink">주음부호</a>(보포모포)</p></td>
 </tr>
 <tr class="even">
 <td><p>Noto Serif CJK KR</p></td>
@@ -1024,11 +1024,11 @@ Bold<br />
 Black</p></td>
 <td><p>43027</p></td>
 <td><p>65535</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/CJK" title="wikilink">CJK</a> (Korean style)<br />
+<td><p><a href="../Page/CJK.md" title="wikilink">CJK</a> (Korean style)<br />
 <a href="https://ko.wikipedia.org/wiki/한글" title="wikilink">한글</a><br />
-<a href="https://ko.wikipedia.org/wiki/히라가나" title="wikilink">히라가나</a><br />
-<a href="https://ko.wikipedia.org/wiki/가타카나" title="wikilink">가타카나</a><br />
-<a href="https://ko.wikipedia.org/wiki/주음부호" title="wikilink">주음부호</a>(보포모포)</p></td>
+<a href="../Page/히라가나.md" title="wikilink">히라가나</a><br />
+<a href="../Page/가타카나.md" title="wikilink">가타카나</a><br />
+<a href="../Page/주음부호.md" title="wikilink">주음부호</a>(보포모포)</p></td>
 </tr>
 <tr class="odd">
 <td><p>Noto Serif CJK SC</p></td>
@@ -1042,11 +1042,11 @@ Bold<br />
 Black</p></td>
 <td><p>43027</p></td>
 <td><p>65535</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/CJK" title="wikilink">CJK</a> (Simplified Chinese style)<br />
+<td><p><a href="../Page/CJK.md" title="wikilink">CJK</a> (Simplified Chinese style)<br />
 <a href="https://ko.wikipedia.org/wiki/한글" title="wikilink">한글</a><br />
-<a href="https://ko.wikipedia.org/wiki/히라가나" title="wikilink">히라가나</a><br />
-<a href="https://ko.wikipedia.org/wiki/가타카나" title="wikilink">가타카나</a><br />
-<a href="https://ko.wikipedia.org/wiki/주음부호" title="wikilink">주음부호</a>(보포모포)</p></td>
+<a href="../Page/히라가나.md" title="wikilink">히라가나</a><br />
+<a href="../Page/가타카나.md" title="wikilink">가타카나</a><br />
+<a href="../Page/주음부호.md" title="wikilink">주음부호</a>(보포모포)</p></td>
 </tr>
 <tr class="even">
 <td><p>Noto Serif CJK TC</p></td>
@@ -1060,11 +1060,11 @@ Bold<br />
 Black</p></td>
 <td><p>43027</p></td>
 <td><p>65535</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/CJK" title="wikilink">CJK</a> (Traditional Chinese style)<br />
+<td><p><a href="../Page/CJK.md" title="wikilink">CJK</a> (Traditional Chinese style)<br />
 <a href="https://ko.wikipedia.org/wiki/한글" title="wikilink">한글</a><br />
-<a href="https://ko.wikipedia.org/wiki/히라가나" title="wikilink">히라가나</a><br />
-<a href="https://ko.wikipedia.org/wiki/가타카나" title="wikilink">가타카나</a><br />
-<a href="https://ko.wikipedia.org/wiki/주음부호" title="wikilink">주음부호</a>(보포모포)</p></td>
+<a href="../Page/히라가나.md" title="wikilink">히라가나</a><br />
+<a href="../Page/가타카나.md" title="wikilink">가타카나</a><br />
+<a href="../Page/주음부호.md" title="wikilink">주음부호</a>(보포모포)</p></td>
 </tr>
 <tr class="odd">
 <td><p>Noto Serif Devanagari</p></td>
@@ -1074,7 +1074,7 @@ Bold</p></td>
 <td><p>265</p></td>
 <td><p>716 (regular)<br />
 715 (bold)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/데바나가리_문자" title="wikilink">데바나가리 문자</a></p></td>
+<td><p><a href="../Page/데바나가리_문자.md" title="wikilink">데바나가리 문자</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Noto Serif Georgian</p></td>
@@ -1083,7 +1083,7 @@ Bold</p></td>
 Bold</p></td>
 <td><p>127</p></td>
 <td><p>127</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/조지아_문자" title="wikilink">조지아 문자</a></p></td>
+<td><p><a href="../Page/조지아_문자.md" title="wikilink">조지아 문자</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Noto Serif Gujarati</p></td>
@@ -1092,7 +1092,7 @@ Bold</p></td>
 Bold</p></td>
 <td><p>155</p></td>
 <td><p>476</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/구자라트_문자" title="wikilink">구자라트 문자</a></p></td>
+<td><p><a href="../Page/구자라트_문자.md" title="wikilink">구자라트 문자</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Noto Serif Kannada</p></td>
@@ -1110,7 +1110,7 @@ Bold</p></td>
 Bold</p></td>
 <td><p>186</p></td>
 <td><p>378</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/크메르_문자" title="wikilink">크메르 문자</a></p></td>
+<td><p><a href="../Page/크메르_문자.md" title="wikilink">크메르 문자</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Noto Serif Lao</p></td>
@@ -1137,7 +1137,7 @@ Bold</p></td>
 Bold</p></td>
 <td><p>139</p></td>
 <td><p>194</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/타밀_문자" title="wikilink">타밀 문자</a></p></td>
+<td><p><a href="../Page/타밀_문자.md" title="wikilink">타밀 문자</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Noto Serif Telugu</p></td>
@@ -1155,7 +1155,7 @@ Bold</p></td>
 Bold</p></td>
 <td><p>100</p></td>
 <td><p>108</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/타이_문자" title="wikilink">타이 문자</a></p></td>
+<td><p><a href="../Page/타이_문자.md" title="wikilink">타이 문자</a></p></td>
 </tr>
 </tbody>
 </table>

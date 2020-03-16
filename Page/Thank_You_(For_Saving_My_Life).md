@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Thank You \(For Saving My Life\)](https://ko.wikipedia.org/wiki/Thank_You_\(For_Saving_My_Life\)).
 
 
-**《Thank You (For Saving My Life)》**는 [조규찬](https://ko.wikipedia.org/wiki/조규찬 "wikilink")의 리패키지 앨범이다. 이 앨범에는 [브라이언 맥나잇](https://ko.wikipedia.org/wiki/브라이언_맥나잇 "wikilink")(Brian McKnight)이 참여한 곡이 CD 2에 수록되어있다.
+**《Thank You (For Saving My Life)》**는 [조규찬](../Page/조규찬.md "wikilink")의 리패키지 앨범이다. 이 앨범에는 [브라이언 맥나잇](https://ko.wikipedia.org/wiki/브라이언_맥나잇 "wikilink")(Brian McKnight)이 참여한 곡이 CD 2에 수록되어있다.
 
 ## 수록곡
 

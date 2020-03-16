@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Merchant of Venus](https://ko.wikipedia.org/wiki/Merchant_of_Venus).
 
 
-**머천드 오브 비너스**(Merchant of Venus, 금성의 상인)는 아발로 힐([Avalon Hill](https://ko.wikipedia.org/wiki/Avalon_Hill "wikilink"))사가 1998년에 발행한 [보드 게임으로](https://ko.wikipedia.org/wiki/보드_게임 "wikilink"), 은하 문명 재각성 동안의 은하계 미개척지를 배경으로 하고 있다. 플레이어들은 상인이 되어 오랫동안 잊혀진 문명 증서를 발견, 상품을 사고 팔며 게임보드를 이동한다. 1\~6인용이지만 시합에서는 대개 4명이 게임한다. 솔리테르(solitaire)는 군사적 경쟁과 전투에 크게 의존하는 일인 버전으로 다른게임 메커니즘을 가지고 있다.
+**머천드 오브 비너스**(Merchant of Venus, 금성의 상인)는 아발로 힐([Avalon Hill](https://ko.wikipedia.org/wiki/Avalon_Hill "wikilink"))사가 1998년에 발행한 [보드 게임으로](../Page/보드_게임.md "wikilink"), 은하 문명 재각성 동안의 은하계 미개척지를 배경으로 하고 있다. 플레이어들은 상인이 되어 오랫동안 잊혀진 문명 증서를 발견, 상품을 사고 팔며 게임보드를 이동한다. 1\~6인용이지만 시합에서는 대개 4명이 게임한다. 솔리테르(solitaire)는 군사적 경쟁과 전투에 크게 의존하는 일인 버전으로 다른게임 메커니즘을 가지고 있다.
 
 게임 이름은 세익스피어 연극 *머천드 오브 비너스*의 동음이어의([pun](https://ko.wikipedia.org/wiki/pun "wikilink"))이지만, 실제로 금성 행성은 게임에 없다.
 
@@ -21,7 +21,7 @@
 
 ## 2012년 두 번째 판본
 
-2011년 10월 24일, 게임 발행사 Stronghold Games는 2015년 출시를 위해 Richard Hamblen 디자이너와 재발행에 합의했다고 발표했다.\[1\] 그 날 이후, 게임사 Fantasy Flight Games는 [아발로 힐의](https://ko.wikipedia.org/wiki/아발로_힐 "wikilink") 게임 구입을 취득한 [해즈브로](https://ko.wikipedia.org/wiki/해즈브로 "wikilink")(Hasbro)에서 게임의 재발행 권리를 획득했다고 발표했다.\[2\] 두 회사는 이후에 화기애애한 분위기를 유지하면서 권리 및 게임 발행 의도를 주장하는 성명서를 발표했다.\[3\]\[4\]
+2011년 10월 24일, 게임 발행사 Stronghold Games는 2015년 출시를 위해 Richard Hamblen 디자이너와 재발행에 합의했다고 발표했다.\[1\] 그 날 이후, 게임사 Fantasy Flight Games는 [아발로 힐의](https://ko.wikipedia.org/wiki/아발로_힐 "wikilink") 게임 구입을 취득한 [해즈브로](../Page/해즈브로.md "wikilink")(Hasbro)에서 게임의 재발행 권리를 획득했다고 발표했다.\[2\] 두 회사는 이후에 화기애애한 분위기를 유지하면서 권리 및 게임 발행 의도를 주장하는 성명서를 발표했다.\[3\]\[4\]
 
 2012년 6월 27일, Stronghold Games와 Fantasy Flight Games는 그 게임의 운명에 관한 합의에 도달했음을 발표했다. 두 번째 판본은 Fantasy Flight Games가 Stronghold Games와 기획 논의를 통해 2012년 11월에 출시했다. 그것은 양면 게임 보드와 규칙 두 세트를 포함하고 있어서 원판과 동시대 보드게임 디자인과 쌍벽을 이루는 최신판을 함께 게임할 수 있다.
 

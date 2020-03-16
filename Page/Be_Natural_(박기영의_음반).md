@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Be Natural \( \)](https://ko.wikipedia.org/wiki/Be_Natural_\(_\)).
 
 
-**《Be Natural》**은 [박기영의](https://ko.wikipedia.org/wiki/박기영_\(1977년생_가수\) "wikilink") 5집 정규 앨범이다.
+**《Be Natural》**은 [박기영의](../Page/박기영_\(1977년생_가수\).md "wikilink") 5집 정규 앨범이다.
 
 ## 수록곡
 

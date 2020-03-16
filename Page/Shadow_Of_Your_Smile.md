@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Shadow Of Your Smile](https://ko.wikipedia.org/wiki/Shadow_Of_Your_Smile).
 
 
-**《Shadow Of Your Smile》**은 [김윤아](https://ko.wikipedia.org/wiki/김윤아 "wikilink")의 1집 정규 앨범이자 첫 솔로 앨범이다. 이 앨범이 발매되고 난 다음날에는 본 앨범과 이름이 같은 제목의 김윤아 자신이 집필한 책이 출판되기도 했다.
+**《Shadow Of Your Smile》**은 [김윤아](../Page/김윤아.md "wikilink")의 1집 정규 앨범이자 첫 솔로 앨범이다. 이 앨범이 발매되고 난 다음날에는 본 앨범과 이름이 같은 제목의 김윤아 자신이 집필한 책이 출판되기도 했다.
 
 ## 수록곡
 

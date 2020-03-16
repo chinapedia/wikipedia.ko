@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [2019 CONCACAF ](https://ko.wikipedia.org/wiki/2019_CONCACAF_).
 
 
-**2019년 CONCACAF 골드컵**(2019 CONCACAF Gold Cup)은 [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [6월 15일부터](https://ko.wikipedia.org/wiki/6월_15일 "wikilink") [7월 7일까지](https://ko.wikipedia.org/wiki/7월_7일 "wikilink") [미국](https://ko.wikipedia.org/wiki/미국 "wikilink"), [코스타리카](https://ko.wikipedia.org/wiki/코스타리카 "wikilink"), [자메이카](https://ko.wikipedia.org/wiki/자메이카 "wikilink")에서 개최된 15번째 [CONCACAF 골드컵이다](https://ko.wikipedia.org/wiki/CONCACAF_골드컵 "wikilink"). 이 대회부터 참가국이 12개국에서 16개국으로 확대되었다.
+**2019년 CONCACAF 골드컵**(2019 CONCACAF Gold Cup)은 [2019년](../Page/2019년.md "wikilink") [6월 15일부터](../Page/6월_15일.md "wikilink") [7월 7일까지](../Page/7월_7일.md "wikilink") [미국](../Page/미국.md "wikilink"), [코스타리카](../Page/코스타리카.md "wikilink"), [자메이카](../Page/자메이카.md "wikilink")에서 개최된 15번째 [CONCACAF 골드컵이다](../Page/CONCACAF_골드컵.md "wikilink"). 이 대회부터 참가국이 12개국에서 16개국으로 확대되었다.
 
 ## 개최 도시 및 경기장
 
-2019년 CONCACAF 골드컵은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")에 위치한 15개 경기장, [코스타리카](https://ko.wikipedia.org/wiki/코스타리카 "wikilink")에 위치한 1개 경기장, [자메이카](https://ko.wikipedia.org/wiki/자메이카 "wikilink")에 위치한 1개 경기장에서 개최된다.
+2019년 CONCACAF 골드컵은 [미국](../Page/미국.md "wikilink")에 위치한 15개 경기장, [코스타리카](../Page/코스타리카.md "wikilink")에 위치한 1개 경기장, [자메이카](../Page/자메이카.md "wikilink")에 위치한 1개 경기장에서 개최된다.
 
-[북중미카리브 축구 연맹](https://ko.wikipedia.org/wiki/북중미카리브_축구_연맹 "wikilink")(CONCACAF)은 2018년 5월에 2019년 CONCACAF 골드컵 경기가 열릴 미국의 15개 경기장에 관한 목록을 공개했다. 2018년 9월 27일에는 2019년 CONCACAF 골드컵 결승전이 미국 시카고에 위치한 솔저 필드에서 개최된다고 밝혔다. 북중미카리브 축구 연맹은 2018년 11월 26일에 B조 1차전 경기가 코스타리카 산호세에서 개최된다고 밝혔고 2019년 4월 2일에는 C조 1차전 경기가 자메이카 킹스턴에서 개최된다고 밝혔다.
+[북중미카리브 축구 연맹](../Page/북중미카리브_축구_연맹.md "wikilink")(CONCACAF)은 2018년 5월에 2019년 CONCACAF 골드컵 경기가 열릴 미국의 15개 경기장에 관한 목록을 공개했다. 2018년 9월 27일에는 2019년 CONCACAF 골드컵 결승전이 미국 시카고에 위치한 솔저 필드에서 개최된다고 밝혔다. 북중미카리브 축구 연맹은 2018년 11월 26일에 B조 1차전 경기가 코스타리카 산호세에서 개최된다고 밝혔고 2019년 4월 2일에는 C조 1차전 경기가 자메이카 킹스턴에서 개최된다고 밝혔다.
 
 <table>
 <thead>
@@ -24,7 +24,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/세인트폴_(미네소타주)" title="wikilink">세인트폴</a></p></td>
+<td><p><a href="../Page/세인트폴_(미네소타주).md" title="wikilink">세인트폴</a></p></td>
 <td><p><a href="../Page/알리안츠_필드.md" title="wikilink">알리안츠 필드</a></p></td>
 <td><p>19,400</p></td>
 </tr>
@@ -34,48 +34,48 @@
 <td><p>22,000</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/글렌데일_(애리조나주)" title="wikilink">글렌데일</a> (<a href="https://ko.wikipedia.org/wiki/피닉스_(애리조나주)" title="wikilink">피닉스</a>)</p></td>
+<td><p><a href="../Page/글렌데일_(애리조나주).md" title="wikilink">글렌데일</a> (<a href="../Page/피닉스_(애리조나주).md" title="wikilink">피닉스</a>)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/유니버시티_오브_피닉스_스타디움" title="wikilink">유니버시티 오브 피닉스 스타디움</a></p></td>
 <td><p>63,400</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/필라델피아" title="wikilink">필라델피아</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/링컨_파이낸셜_필드" title="wikilink">링컨 파이낸셜 필드</a></p></td>
+<td><p><a href="../Page/필라델피아.md" title="wikilink">필라델피아</a></p></td>
+<td><p><a href="../Page/링컨_파이낸셜_필드.md" title="wikilink">링컨 파이낸셜 필드</a></p></td>
 <td><p>69,176</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/샬럿" title="wikilink">샬럿</a></p></td>
+<td><p><a href="../Page/샬럿.md" title="wikilink">샬럿</a></p></td>
 <td><p><a href="../Page/뱅크_오브_아메리카_스타디움.md" title="wikilink">뱅크 오브 아메리카 스타디움</a></p></td>
 <td><p>75,525</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/프리스코_(텍사스주)" title="wikilink">프리스코</a> (<a href="https://ko.wikipedia.org/wiki/댈러스" title="wikilink">댈러스</a>)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/도요타_스타디움_(텍사스주)" title="wikilink">도요타 스타디움</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/프리스코_(텍사스주)" title="wikilink">프리스코</a> (<a href="../Page/댈러스.md" title="wikilink">댈러스</a>)</p></td>
+<td><p><a href="../Page/도요타_스타디움_(텍사스주).md" title="wikilink">도요타 스타디움</a></p></td>
 <td><p>16,000</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/클리블랜드" title="wikilink">클리블랜드</a></p></td>
+<td><p><a href="../Page/클리블랜드.md" title="wikilink">클리블랜드</a></p></td>
 <td><p><a href="../Page/퍼스트에너지_스타디움.md" title="wikilink">퍼스트에너지 스타디움</a></p></td>
 <td><p>67,895</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/캔자스시티_(캔자스주)" title="wikilink">캔자스</a></p></td>
+<td><p><a href="../Page/캔자스시티_(캔자스주).md" title="wikilink">캔자스</a></p></td>
 <td><p><a href="../Page/칠드런즈_머시_파크.md" title="wikilink">칠드런즈 머시 파크</a></p></td>
 <td><p>18,467</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/덴버" title="wikilink">덴버</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/브롱코스_스타디움_앳_마일하이" title="wikilink">브롱코스 스타디움 앳 마일하이</a></p></td>
+<td><p><a href="../Page/덴버.md" title="wikilink">덴버</a></p></td>
+<td><p><a href="../Page/브롱코스_스타디움_앳_마일하이.md" title="wikilink">브롱코스 스타디움 앳 마일하이</a></p></td>
 <td><p>76,125</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/내슈빌" title="wikilink">내슈빌</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/닛산_스타디움_(내슈빌)" title="wikilink">닛산 스타디움</a></p></td>
+<td><p><a href="../Page/내슈빌.md" title="wikilink">내슈빌</a></p></td>
+<td><p><a href="../Page/닛산_스타디움_(내슈빌).md" title="wikilink">닛산 스타디움</a></p></td>
 <td><p>69,000</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/휴스턴" title="wikilink">휴스턴</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/NRG_스타디움" title="wikilink">NRG 스타디움</a></p></td>
+<td><p><a href="../Page/휴스턴.md" title="wikilink">휴스턴</a></p></td>
+<td><p><a href="../Page/NRG_스타디움.md" title="wikilink">NRG 스타디움</a></p></td>
 <td><p>71,795</p></td>
 </tr>
 <tr class="odd">
@@ -89,13 +89,13 @@
 <td><p>90,888</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/시카고" title="wikilink">시카고</a></p></td>
+<td><p><a href="../Page/시카고.md" title="wikilink">시카고</a></p></td>
 <td><p><a href="../Page/솔저_필드.md" title="wikilink">솔저 필드</a></p></td>
 <td><p>61,500</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/해리슨_(뉴저지주)" title="wikilink">해리슨</a> (<a href="https://ko.wikipedia.org/wiki/뉴욕" title="wikilink">뉴욕</a>)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/레드불_아레나_(뉴저지주)" title="wikilink">레드불 아레나</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/해리슨_(뉴저지주)" title="wikilink">해리슨</a> (<a href="../Page/뉴욕.md" title="wikilink">뉴욕</a>)</p></td>
+<td><p><a href="../Page/레드불_아레나_(뉴저지주).md" title="wikilink">레드불 아레나</a></p></td>
 <td><p>25,000</p></td>
 </tr>
 <tr class="odd">
@@ -104,7 +104,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/산호세_(코스타리카)" title="wikilink">산호세</a></p></td>
+<td><p><a href="../Page/산호세_(코스타리카).md" title="wikilink">산호세</a></p></td>
 <td><p><a href="../Page/에스타디오_나시오날_데_코스타리카.md" title="wikilink">에스타디오 나시오날 데 코스타리카</a></p></td>
 <td><p>35,175</p></td>
 </tr>
@@ -114,8 +114,8 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/킹스턴_(자메이카)" title="wikilink">킹스턴</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/인디펜던스_파크" title="wikilink">인디펜던스 파크</a></p></td>
+<td><p><a href="../Page/킹스턴_(자메이카).md" title="wikilink">킹스턴</a></p></td>
+<td><p><a href="../Page/인디펜던스_파크.md" title="wikilink">인디펜던스 파크</a></p></td>
 <td><p>35,000</p></td>
 </tr>
 </tbody>
@@ -236,7 +236,7 @@
 
 ## 시드 배정
 
-2019년 CONCACAF 골드컵 본선 조 추첨은 2019년 4월 10일 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [캘리포니아주](https://ko.wikipedia.org/wiki/캘리포니아주 "wikilink") [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink")에서 실시되었다. 2019년 CONCACAF 골드컵 본선에 진출한 팀들의 시드는 2018년 9월에 공개된 CONCACAF 계수를 기준으로 배정되었다. 탑 시드로 배정된 팀은 다음과 같다.
+2019년 CONCACAF 골드컵 본선 조 추첨은 2019년 4월 10일 [미국](../Page/미국.md "wikilink") [캘리포니아주](../Page/캘리포니아주.md "wikilink") [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink")에서 실시되었다. 2019년 CONCACAF 골드컵 본선에 진출한 팀들의 시드는 2018년 9월에 공개된 CONCACAF 계수를 기준으로 배정되었다. 탑 시드로 배정된 팀은 다음과 같다.
 
 <table>
 <thead>
@@ -619,7 +619,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Mexico.svg" title="wikilink">100px</a><br />
-<strong><a href="https://ko.wikipedia.org/wiki/멕시코_축구_국가대표팀" title="wikilink">멕시코</a></strong><br />
+<strong><a href="../Page/멕시코_축구_국가대표팀.md" title="wikilink">멕시코</a></strong><br />
 <strong>9번째 우승</strong></p></td>
 </tr>
 </tbody>
@@ -663,7 +663,7 @@
 
 <!-- end list -->
 
-  - [크리스천 풀리식](https://ko.wikipedia.org/wiki/크리스천_풀리식 "wikilink")
+  - [크리스천 풀리식](../Page/크리스천_풀리식.md "wikilink")
 
 <!-- end list -->
 
@@ -677,9 +677,9 @@
 
   - [나키 웰스](../Page/나키_웰스.md "wikilink")
 
-  - [주니어 호일렛](https://ko.wikipedia.org/wiki/주니어_호일렛 "wikilink")
+  - [주니어 호일렛](../Page/주니어_호일렛.md "wikilink")
 
-  - [엘리아스 아길라르](https://ko.wikipedia.org/wiki/엘리아스_아길라르 "wikilink")
+  - [엘리아스 아길라르](../Page/엘리아스_아길라르.md "wikilink")
 
   - [뒤켕 나종](https://ko.wikipedia.org/wiki/뒤켕_나종 "wikilink")
 
@@ -693,7 +693,7 @@
 
   - [샤마르 니컬슨](https://ko.wikipedia.org/wiki/샤마르_니컬슨 "wikilink")
 
-  - [안드레스 과르다도](https://ko.wikipedia.org/wiki/안드레스_과르다도 "wikilink")
+  - [안드레스 과르다도](../Page/안드레스_과르다도.md "wikilink")
 
   - [폴 아리올라](https://ko.wikipedia.org/wiki/폴_아리올라 "wikilink")
 
@@ -723,13 +723,13 @@
 
   - [메이런 조지](https://ko.wikipedia.org/wiki/메이런_조지 "wikilink")
 
-  - [브리안 오비에도](https://ko.wikipedia.org/wiki/브리안_오비에도 "wikilink")
+  - [브리안 오비에도](../Page/브리안_오비에도.md "wikilink")
 
-  - [브라이언 루이스](https://ko.wikipedia.org/wiki/브라이언_루이스 "wikilink")
+  - [브라이언 루이스](../Page/브라이언_루이스.md "wikilink")
 
-  - [알바로 사보리오](https://ko.wikipedia.org/wiki/알바로_사보리오 "wikilink")
+  - [알바로 사보리오](../Page/알바로_사보리오.md "wikilink")
 
-  - [레안드로 바쿠나](https://ko.wikipedia.org/wiki/레안드로_바쿠나 "wikilink")
+  - [레안드로 바쿠나](../Page/레안드로_바쿠나.md "wikilink")
 
   - [유리언 하리](https://ko.wikipedia.org/wiki/유리언_하리 "wikilink")
 
@@ -749,7 +749,7 @@
 
   - [호르헤 알바레스](https://ko.wikipedia.org/wiki/호르헤_알바레스 "wikilink")
 
-  - [에밀리오 이사기레](https://ko.wikipedia.org/wiki/에밀리오_이사기레 "wikilink")
+  - [에밀리오 이사기레](../Page/에밀리오_이사기레.md "wikilink")
 
   - [안토니 로사노](https://ko.wikipedia.org/wiki/안토니_로사노 "wikilink")
 
@@ -771,7 +771,7 @@
 
   - [로베르토 알바라도](https://ko.wikipedia.org/wiki/로베르토_알바라도 "wikilink")
 
-  - [호나탄 도스 산토스](https://ko.wikipedia.org/wiki/호나탄_도스_산토스 "wikilink")
+  - [호나탄 도스 산토스](../Page/호나탄_도스_산토스.md "wikilink")
 
   - [페르난도 나바로 모란](https://ko.wikipedia.org/wiki/페르난도_나바로_모란 "wikilink")
 
@@ -791,7 +791,7 @@
 
   - [케빈 몰리노](https://ko.wikipedia.org/wiki/케빈_몰리노 "wikilink")
 
-  - [조지 앨티도어](https://ko.wikipedia.org/wiki/조지_앨티도어 "wikilink")
+  - [조지 앨티도어](../Page/조지_앨티도어.md "wikilink")
 
 <!-- end list -->
 

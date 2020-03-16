@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  XXL](https://ko.wikipedia.org/wiki/__XXL).
 
 
-《**매직 마이크 XXL**》()는 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") 공개된 [미국의](https://ko.wikipedia.org/wiki/미국_영화 "wikilink") 코미디 영화로, 2012년 영화 《[매직 마이크](https://ko.wikipedia.org/wiki/매직_마이크 "wikilink")》의 속편이다.
+《**매직 마이크 XXL**》()는 [2015년](../Page/2015년.md "wikilink") 공개된 [미국의](https://ko.wikipedia.org/wiki/미국_영화 "wikilink") 코미디 영화로, 2012년 영화 《[매직 마이크](../Page/매직_마이크.md "wikilink")》의 속편이다.
 
 ## 출연
 
@@ -9,17 +9,17 @@
 
   - [채닝 테이텀](https://ko.wikipedia.org/wiki/채닝_테이텀 "wikilink")
   - [조 맨가니엘로](https://ko.wikipedia.org/wiki/조_맨가니엘로 "wikilink")
-  - [맷 보머](https://ko.wikipedia.org/wiki/맷_보머 "wikilink")
+  - [맷 보머](../Page/맷_보머.md "wikilink")
   - [후안 피에드라이타](https://ko.wikipedia.org/wiki/후안_피에드라이타 "wikilink")
-  - [앰버 허드](https://ko.wikipedia.org/wiki/앰버_허드 "wikilink")
-  - [엘리자베스 뱅크스](https://ko.wikipedia.org/wiki/엘리자베스_뱅크스 "wikilink")
+  - [앰버 허드](../Page/앰버_허드.md "wikilink")
+  - [엘리자베스 뱅크스](../Page/엘리자베스_뱅크스.md "wikilink")
   - [제이다 핀켓 스미스](https://ko.wikipedia.org/wiki/제이다_핀켓_스미스 "wikilink")
 
 ### 조연
 
   - [앤디 맥도웰](https://ko.wikipedia.org/wiki/앤디_맥도웰 "wikilink")
   - [도날드 글로버](https://ko.wikipedia.org/wiki/도날드_글로버 "wikilink")
-  - [케빈 내쉬](https://ko.wikipedia.org/wiki/케빈_내쉬 "wikilink")
+  - [케빈 내쉬](../Page/케빈_내쉬.md "wikilink")
   - [아담 로드리게즈](https://ko.wikipedia.org/wiki/아담_로드리게즈 "wikilink")
   - [가브리엘 이글레시아스](https://ko.wikipedia.org/wiki/가브리엘_이글레시아스 "wikilink")
   - [스티븐 보스](https://ko.wikipedia.org/wiki/스티븐_보스 "wikilink")

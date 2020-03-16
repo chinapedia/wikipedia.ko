@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ALIVE \( \)](https://ko.wikipedia.org/wiki/ALIVE_\(_\)).
 
 
-《**ALIVE**》는 대한민국의 음악 그룹 [빅뱅의](https://ko.wikipedia.org/wiki/빅뱅_\(음악_그룹\) "wikilink") 일본에서 발표한 네 번째 정규 음반이다. [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [3월 28일](https://ko.wikipedia.org/wiki/3월_28일 "wikilink") YGEX를 통해 총 10곡(이전에 발매된 [동명의 한국 EP 음반의](https://ko.wikipedia.org/wiki/Alive_\(EP\) "wikilink") 곡들을 포함해 2곡의 신곡을 추가해서) 발매 되었다.\[1\]\[2\] 이 음반은 [YG 엔터테인먼트와](https://ko.wikipedia.org/wiki/YG_엔터테인먼트 "wikilink") 일본의 유명 음반 회사인 [에이벡스](https://ko.wikipedia.org/wiki/에이벡스 "wikilink")가 파트너쉽 계약을 맺고 [YGEX](https://ko.wikipedia.org/wiki/YGEX "wikilink")을 설립한 이후 첫 발매하는 음반이다. 이후 이 음반은 2012년 6월 20일에 "*Alive -Monster Edition-*"라는 제목으로 스페셜 에디션이 발매 되었다. 이 정규 음반에 수록 된 9곡 외에도 추가적으로 2곡의 신곡이 포함 되었으며, 4곡이 [일본어](https://ko.wikipedia.org/wiki/일본어 "wikilink")로 수록 되었다.\[3\]
+《**ALIVE**》는 대한민국의 음악 그룹 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") 일본에서 발표한 네 번째 정규 음반이다. [2012년](../Page/2012년.md "wikilink") [3월 28일](../Page/3월_28일.md "wikilink") YGEX를 통해 총 10곡(이전에 발매된 [동명의 한국 EP 음반의](https://ko.wikipedia.org/wiki/Alive_\(EP\) "wikilink") 곡들을 포함해 2곡의 신곡을 추가해서) 발매 되었다.\[1\]\[2\] 이 음반은 [YG 엔터테인먼트와](../Page/YG_엔터테인먼트.md "wikilink") 일본의 유명 음반 회사인 [에이벡스](https://ko.wikipedia.org/wiki/에이벡스 "wikilink")가 파트너쉽 계약을 맺고 [YGEX](../Page/YGEX.md "wikilink")을 설립한 이후 첫 발매하는 음반이다. 이후 이 음반은 2012년 6월 20일에 "*Alive -Monster Edition-*"라는 제목으로 스페셜 에디션이 발매 되었다. 이 정규 음반에 수록 된 9곡 외에도 추가적으로 2곡의 신곡이 포함 되었으며, 4곡이 [일본어](../Page/일본어.md "wikilink")로 수록 되었다.\[3\]
 
 ## 발매
 
@@ -13,13 +13,13 @@
 
 ## 참여 및 구성
 
-이 음반의 모든 곡의 프로듀싱과 가사는 [G-Dragon이](https://ko.wikipedia.org/wiki/지드래곤 "wikilink") 참여했다. 한국어 곡의 랩 가사는 [T.O.P](https://ko.wikipedia.org/wiki/T.O.P "wikilink")이 썼으며, "Wings(날개)"의 곡 가사에는 [대성](https://ko.wikipedia.org/wiki/대성 "wikilink")이 참여했다.
+이 음반의 모든 곡의 프로듀싱과 가사는 [G-Dragon이](../Page/지드래곤.md "wikilink") 참여했다. 한국어 곡의 랩 가사는 [T.O.P](../Page/T.O.P.md "wikilink")이 썼으며, "Wings(날개)"의 곡 가사에는 [대성](https://ko.wikipedia.org/wiki/대성 "wikilink")이 참여했다.
 
-이 음반에는 오리지널 일본 곡인 "Ego"와 "Feeling" 외에도 일본어 버전으로 새롭게 녹음한 "Blue", "Fantastic Baby", "Bad Boy"와 "Haru Haru(하루하루)", 이전에 한국어로 발표 된 곡, "Intro (Alive)", "Love Dust(사랑먼지)", "Ain't No Fun(재미없어)"와 [대성의](https://ko.wikipedia.org/wiki/대성_\(가수\) "wikilink") 솔로 곡 "Wings(날개)"가 수록 되었다. 또한 일본어 버전의 "Haru Haru(하루하루)"는 이전의 베스트 앨범인 *[The Best Of BIGBANG](../Page/The_Best_Of_BIGBANG.md "wikilink")*에 수록 되었다. 또한 "Feeling"은 [독일](https://ko.wikipedia.org/wiki/독일 "wikilink") [EDM과](https://ko.wikipedia.org/wiki/전자_댄스_음악 "wikilink") [일렉트로 하우스](https://ko.wikipedia.org/wiki/일렉트로_하우스 "wikilink") [프로듀서](https://ko.wikipedia.org/wiki/프로듀서 "wikilink")의 [DJ](https://ko.wikipedia.org/wiki/DJ "wikilink") [보이즈 노이즈가](https://ko.wikipedia.org/wiki/보이즈_노이즈 "wikilink") 편곡에 참여했다.
+이 음반에는 오리지널 일본 곡인 "Ego"와 "Feeling" 외에도 일본어 버전으로 새롭게 녹음한 "Blue", "Fantastic Baby", "Bad Boy"와 "Haru Haru(하루하루)", 이전에 한국어로 발표 된 곡, "Intro (Alive)", "Love Dust(사랑먼지)", "Ain't No Fun(재미없어)"와 [대성의](../Page/대성_\(가수\).md "wikilink") 솔로 곡 "Wings(날개)"가 수록 되었다. 또한 일본어 버전의 "Haru Haru(하루하루)"는 이전의 베스트 앨범인 *[The Best Of BIGBANG](../Page/The_Best_Of_BIGBANG.md "wikilink")*에 수록 되었다. 또한 "Feeling"은 [독일](../Page/독일.md "wikilink") [EDM과](https://ko.wikipedia.org/wiki/전자_댄스_음악 "wikilink") [일렉트로 하우스](https://ko.wikipedia.org/wiki/일렉트로_하우스 "wikilink") [프로듀서](https://ko.wikipedia.org/wiki/프로듀서 "wikilink")의 [DJ](https://ko.wikipedia.org/wiki/DJ "wikilink") [보이즈 노이즈가](https://ko.wikipedia.org/wiki/보이즈_노이즈 "wikilink") 편곡에 참여했다.
 
 ## 프로모션
 
-이 음반은 싱글로 발매 되지 않았기 때문에 이 음반의 모든 뮤직 비디오("Fantastic Baby", "Blue"와 "Bad Boy")는 뮤직 TV 채널 ([MTV 재팬](https://ko.wikipedia.org/wiki/MTV "wikilink"), 스페이스 샤워 TV와 M-ON\!)을 통해 공개 되었다.
+이 음반은 싱글로 발매 되지 않았기 때문에 이 음반의 모든 뮤직 비디오("Fantastic Baby", "Blue"와 "Bad Boy")는 뮤직 TV 채널 ([MTV 재팬](../Page/MTV.md "wikilink"), 스페이스 샤워 TV와 M-ON\!)을 통해 공개 되었다.
 
 ## 라이브 공연
 
@@ -53,12 +53,12 @@
 
 ## 발매
 
-| 국가                                                    | 날짜             | 레코드 라벨                                                | 포맷           |
-| ----------------------------------------------------- | -------------- | ----------------------------------------------------- | ------------ |
-| [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")     | 2012년 3월 28일   | [YGEX](https://ko.wikipedia.org/wiki/YGEX "wikilink") | 디지털 다운로드, CD |
-| 2012년 6월 13일 <small>(Alive -Monster Edition-)</small> | 디지털 다운로드\[11\] |                                                       |              |
-| 2012년 6월 20일 <small>(Alive -Monster Edition-)</small> | CD             |                                                       |              |
-|                                                       |                |                                                       |              |
+| 국가                                                    | 날짜             | 레코드 라벨                             | 포맷           |
+| ----------------------------------------------------- | -------------- | ---------------------------------- | ------------ |
+| [일본](../Page/일본.md "wikilink")                        | 2012년 3월 28일   | [YGEX](../Page/YGEX.md "wikilink") | 디지털 다운로드, CD |
+| 2012년 6월 13일 <small>(Alive -Monster Edition-)</small> | 디지털 다운로드\[11\] |                                    |              |
+| 2012년 6월 20일 <small>(Alive -Monster Edition-)</small> | CD             |                                    |              |
+|                                                       |                |                                    |              |
 
 ## 각주
 

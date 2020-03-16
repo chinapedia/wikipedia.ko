@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [W. K. C. ](https://ko.wikipedia.org/wiki/W._K._C._).
 
 
-**윌리엄 키스 체임버스 거스리**, FBA(, [1906년](https://ko.wikipedia.org/wiki/1906년 "wikilink") [8월 1일](https://ko.wikipedia.org/wiki/8월_1일 "wikilink") \~ [1981년](https://ko.wikipedia.org/wiki/1981년 "wikilink") [5월 17일](https://ko.wikipedia.org/wiki/5월_17일 "wikilink"))는 [스코틀랜드](https://ko.wikipedia.org/wiki/스코틀랜드 "wikilink")의 [고전학자이다](https://ko.wikipedia.org/wiki/서양_고전학 "wikilink"). 1962년부터 사망할 때까지 6권으로 발간된 《어 히스토리 오브 그리크 펄라서피》(*A History of Greek Philosophy* )로 잘 알려져 있다. 1952년부터 1973년까지 [케임브리지 대학교](https://ko.wikipedia.org/wiki/케임브리지_대학교 "wikilink") 로렌스 교수(Laurence Professor)로 재직하였으며 1957년부터 1972년까지 케임브리지 다우닝 칼리지의 학장으로 재직하였다.
+**윌리엄 키스 체임버스 거스리**, FBA(, [1906년](../Page/1906년.md "wikilink") [8월 1일](../Page/8월_1일.md "wikilink") \~ [1981년](../Page/1981년.md "wikilink") [5월 17일](../Page/5월_17일.md "wikilink"))는 [스코틀랜드](../Page/스코틀랜드.md "wikilink")의 [고전학자이다](https://ko.wikipedia.org/wiki/서양_고전학 "wikilink"). 1962년부터 사망할 때까지 6권으로 발간된 《어 히스토리 오브 그리크 펄라서피》(*A History of Greek Philosophy* )로 잘 알려져 있다. 1952년부터 1973년까지 [케임브리지 대학교](../Page/케임브리지_대학교.md "wikilink") 로렌스 교수(Laurence Professor)로 재직하였으며 1957년부터 1972년까지 케임브리지 다우닝 칼리지의 학장으로 재직하였다.
 
 ## 저작
 

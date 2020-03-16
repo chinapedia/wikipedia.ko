@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [It\'s Me](https://ko.wikipedia.org/wiki/It\'s_Me).
 
 
-《**It's Me**》는 [김광진의](https://ko.wikipedia.org/wiki/김광진_\(1964년\) "wikilink") 3집 정규 앨범이다.
+《**It's Me**》는 [김광진의](../Page/김광진_\(1964년\).md "wikilink") 3집 정규 앨범이다.
 
 ## 수록곡
 

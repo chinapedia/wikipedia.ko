@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Charming Do!](https://ko.wikipedia.org/wiki/Charming_Do!).
 
 
-〈**Charming Do\!**〉()는 [오구라 유이의](../Page/오구라_유이.md "wikilink") 3번째 [싱글로](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink") [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [1월 29일에](https://ko.wikipedia.org/wiki/1월_29일 "wikilink") [킹레코드에서](https://ko.wikipedia.org/wiki/킹레코드_\(일본\) "wikilink") 발매됐다.
+〈**Charming Do\!**〉()는 [오구라 유이의](../Page/오구라_유이.md "wikilink") 3번째 [싱글로](../Page/싱글_\(음악\).md "wikilink") [2014년](../Page/2014년.md "wikilink") [1월 29일에](../Page/1월_29일.md "wikilink") [킹레코드에서](../Page/킹레코드_\(일본\).md "wikilink") 발매됐다.
 
 ## 개요
 
 전작 〈[Baby Sweet Berry Love](../Page/Baby_Sweet_Berry_Love.md "wikilink")〉에서 약 9개월만의 발매가 된다.
 
-싱글은 기간한정반(KICM-91493)과 통상반(KICM-1493)의 2종류가 발매되며, 기간한정반에는 타이틀곡의 [PV를](https://ko.wikipedia.org/wiki/뮤직비디오 "wikilink") 담은 [DVD](https://ko.wikipedia.org/wiki/DVD "wikilink")가 동봉되어있다.
+싱글은 기간한정반(KICM-91493)과 통상반(KICM-1493)의 2종류가 발매되며, 기간한정반에는 타이틀곡의 [PV를](https://ko.wikipedia.org/wiki/뮤직비디오 "wikilink") 담은 [DVD](../Page/DVD.md "wikilink")가 동봉되어있다.
 
 ## 수록 내용
 
@@ -47,7 +47,7 @@
 <tr class="odd">
 <td></td>
 <td><p>2014년 1월 29일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a>, <a href="https://ko.wikipedia.org/wiki/싱글_(음악)" title="wikilink">CD 싱글</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a>, <a href="../Page/싱글_(음악).md" title="wikilink">CD 싱글</a></p></td>
 </tr>
 <tr class="even">
 <td></td>

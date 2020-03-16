@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Colorful Sensibility](https://ko.wikipedia.org/wiki/Colorful_Sensibility).
 
 
-***Colorful Sensibility***은 대한민국의 록 밴드 [FT아일랜드](https://ko.wikipedia.org/wiki/FT아일랜드 "wikilink")의 두 번째 [정규 음반이다](https://ko.wikipedia.org/wiki/정규_음반 "wikilink").
+***Colorful Sensibility***은 대한민국의 록 밴드 [FT아일랜드](../Page/FT아일랜드.md "wikilink")의 두 번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
 
 ## 트랙리스트
 

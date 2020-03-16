@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Young Mi Robinson](https://ko.wikipedia.org/wiki/Young_Mi_Robinson).
 
 
-**《Young Mi Robinson》**은 [정원영](https://ko.wikipedia.org/wiki/정원영 "wikilink")의 3집 정규 앨범이다. 이 앨범에는 [이적](https://ko.wikipedia.org/wiki/이적_\(가수\) "wikilink"), [김종진이](https://ko.wikipedia.org/wiki/김종진_\(가수\) "wikilink") 참여하였으며 사진 촬영은 [강영호](https://ko.wikipedia.org/wiki/강영호 "wikilink")가 하였다.
+**《Young Mi Robinson》**은 [정원영](../Page/정원영.md "wikilink")의 3집 정규 앨범이다. 이 앨범에는 [이적](../Page/이적_\(가수\).md "wikilink"), [김종진이](../Page/김종진_\(가수\).md "wikilink") 참여하였으며 사진 촬영은 [강영호](https://ko.wikipedia.org/wiki/강영호 "wikilink")가 하였다.
 
 ## 수록곡
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
 
 
-**FC 뉴욕**(Football Club New York)은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [뉴욕주](https://ko.wikipedia.org/wiki/뉴욕주 "wikilink") [퀸스](https://ko.wikipedia.org/wiki/퀸스 "wikilink")를 연고지로 하던 프로 축구팀이다. 2011년 [유나이티드 사커 리그](https://ko.wikipedia.org/wiki/유나이티드_사커_리그 "wikilink") 소속으로 참가했다.
+**FC 뉴욕**(Football Club New York)은 [미국](../Page/미국.md "wikilink") [뉴욕주](../Page/뉴욕주.md "wikilink") [퀸스](../Page/퀸스.md "wikilink")를 연고지로 하던 프로 축구팀이다. 2011년 [유나이티드 사커 리그](https://ko.wikipedia.org/wiki/유나이티드_사커_리그 "wikilink") 소속으로 참가했다.
 
 ## 역대 홈경기장
 
@@ -19,7 +19,7 @@
 <tr class="odd">
 <td><p>벨슨 스타디움</p></td>
 <td><p>2011년~2012년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴욕주" title="wikilink">뉴욕주</a> <a href="https://ko.wikipedia.org/wiki/퀸스" title="wikilink">퀸스</a></p></td>
+<td><p><a href="../Page/뉴욕주.md" title="wikilink">뉴욕주</a> <a href="../Page/퀸스.md" title="wikilink">퀸스</a></p></td>
 <td><p>FC 뉴욕</p></td>
 <td></td>
 </tr>

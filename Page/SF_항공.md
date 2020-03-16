@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SF ](https://ko.wikipedia.org/wiki/SF_).
 
 
-**SF 항공** ()은 [중화인민공화국](https://ko.wikipedia.org/wiki/중화인민공화국 "wikilink")의 화물 항공사로 본사는 [중화인민공화국](https://ko.wikipedia.org/wiki/중화인민공화국 "wikilink") [선전](https://ko.wikipedia.org/wiki/선전 "wikilink")에 위치해 있으며 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")에 설립 했으며 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink")에 최초로 취항했다.\[1\] 또한 사용하고 있는 [허브 공항으로](https://ko.wikipedia.org/wiki/허브_공항 "wikilink") [선전 바오안 국제공항이](https://ko.wikipedia.org/wiki/선전_바오안_국제공항 "wikilink") 있다.
+**SF 항공** ()은 [중화인민공화국](../Page/중화인민공화국.md "wikilink")의 화물 항공사로 본사는 [중화인민공화국](../Page/중화인민공화국.md "wikilink") [선전](https://ko.wikipedia.org/wiki/선전 "wikilink")에 위치해 있으며 [2009년](../Page/2009년.md "wikilink")에 설립 했으며 [2010년](../Page/2010년.md "wikilink")에 최초로 취항했다.\[1\] 또한 사용하고 있는 [허브 공항으로](../Page/허브_공항.md "wikilink") [선전 바오안 국제공항이](https://ko.wikipedia.org/wiki/선전_바오안_국제공항 "wikilink") 있다.
 
 ## 운항 노선
 
@@ -18,27 +18,27 @@
       - [청두](https://ko.wikipedia.org/wiki/청두 "wikilink") - [청두 솽류 국제공항](https://ko.wikipedia.org/wiki/청두_솽류_국제공항 "wikilink")
       - [항저우](https://ko.wikipedia.org/wiki/항저우 "wikilink") - [항저우 샤오산 국제공항](https://ko.wikipedia.org/wiki/항저우_샤오산_국제공항 "wikilink")
   - ****
-      - [마카오](https://ko.wikipedia.org/wiki/마카오 "wikilink") - [마카오 국제공항](https://ko.wikipedia.org/wiki/마카오_국제공항 "wikilink")
+      - [마카오](../Page/마카오.md "wikilink") - [마카오 국제공항](../Page/마카오_국제공항.md "wikilink")
   - ****
-      - [첸나이](https://ko.wikipedia.org/wiki/첸나이 "wikilink") - [첸나이 국제공항](https://ko.wikipedia.org/wiki/첸나이_국제공항 "wikilink")
+      - [첸나이](../Page/첸나이.md "wikilink") - [첸나이 국제공항](../Page/첸나이_국제공항.md "wikilink")
   - ****
-      - [싱가포르](https://ko.wikipedia.org/wiki/싱가포르 "wikilink") - [싱가포르 창이 국제공항](https://ko.wikipedia.org/wiki/싱가포르_창이_국제공항 "wikilink")
+      - [싱가포르](../Page/싱가포르.md "wikilink") - [싱가포르 창이 국제공항](https://ko.wikipedia.org/wiki/싱가포르_창이_국제공항 "wikilink")
   - ****
-      - [프놈펜](https://ko.wikipedia.org/wiki/프놈펜 "wikilink") - [프놈펜 국제공항](https://ko.wikipedia.org/wiki/프놈펜_국제공항 "wikilink")
+      - [프놈펜](../Page/프놈펜.md "wikilink") - [프놈펜 국제공항](https://ko.wikipedia.org/wiki/프놈펜_국제공항 "wikilink")
 
 ## 보유 기종
 
-  - [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [9월](https://ko.wikipedia.org/wiki/9월 "wikilink") 기준으로 SF 항공은 다음과 같은 기종을 보유하고 있으며 평균 기령은 24.6년이다.\[2\]
+  - [2019년](../Page/2019년.md "wikilink") [9월](../Page/9월.md "wikilink") 기준으로 SF 항공은 다음과 같은 기종을 보유하고 있으며 평균 기령은 24.6년이다.\[2\]
 
-| 기종                                                                   | 대수      | 주문 | 비고                                                                           |
-| -------------------------------------------------------------------- | ------- | -- | ---------------------------------------------------------------------------- |
-| [보잉 737-300F](https://ko.wikipedia.org/wiki/보잉_737 "wikilink")       | 14      | 0  |                                                                              |
-| [보잉 737-400F](https://ko.wikipedia.org/wiki/보잉_737 "wikilink")       | 3       | 0  |                                                                              |
-| [보잉 737-800BCF](https://ko.wikipedia.org/wiki/보잉_737 "wikilink")     | 0       | 8  |                                                                              |
-| [보잉 747-400ERF](https://ko.wikipedia.org/wiki/보잉_747-400 "wikilink") | 2\[3\]  | 0  | 구. [제이드 카고 인터내셔널](https://ko.wikipedia.org/wiki/제이드_카고_인터내셔널 "wikilink") 항공기 |
-| [보잉 757-200BCF](https://ko.wikipedia.org/wiki/보잉_757 "wikilink")     | 27\[4\] | 2  |                                                                              |
-| [보잉 767-300ER/BCF](https://ko.wikipedia.org/wiki/보잉_767 "wikilink")  | 7       | 1  |                                                                              |
-|                                                                      |         |    |                                                                              |
+| 기종                                                | 대수      | 주문 | 비고                                                        |
+| ------------------------------------------------- | ------- | -- | --------------------------------------------------------- |
+| [보잉 737-300F](../Page/보잉_737.md "wikilink")       | 14      | 0  |                                                           |
+| [보잉 737-400F](../Page/보잉_737.md "wikilink")       | 3       | 0  |                                                           |
+| [보잉 737-800BCF](../Page/보잉_737.md "wikilink")     | 0       | 8  |                                                           |
+| [보잉 747-400ERF](../Page/보잉_747-400.md "wikilink") | 2\[3\]  | 0  | 구. [제이드 카고 인터내셔널](../Page/제이드_카고_인터내셔널.md "wikilink") 항공기 |
+| [보잉 757-200BCF](../Page/보잉_757.md "wikilink")     | 27\[4\] | 2  |                                                           |
+| [보잉 767-300ER/BCF](../Page/보잉_767.md "wikilink")  | 7       | 1  |                                                           |
+|                                                   |         |    |                                                           |
 
 **SF 항공의 보유 기종**
 

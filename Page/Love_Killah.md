@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Love Killah](https://ko.wikipedia.org/wiki/Love_Killah).
 
 
-《**Love Killah**》은 [중화민국](https://ko.wikipedia.org/wiki/중화민국 "wikilink")의 음악 그룹 [SpeXial](../Page/SpeXial.md "wikilink")의 첫 번째 EP이다.
+《**Love Killah**》은 [중화민국](../Page/중화민국.md "wikilink")의 음악 그룹 [SpeXial](../Page/SpeXial.md "wikilink")의 첫 번째 EP이다.
 
 ## 트랙 리스트
 

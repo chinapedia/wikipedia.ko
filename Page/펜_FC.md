@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
 
 
-**펜 풋볼 클럽**(Penn Football Club)은 [유나이티드 사커 리그에](https://ko.wikipedia.org/wiki/유나이티드_사커_리그 "wikilink") 소속된 미국의 프로축구단으로 [펜실베이니아주](https://ko.wikipedia.org/wiki/펜실베이니아주 "wikilink") [해리스버그](https://ko.wikipedia.org/wiki/해리스버그 "wikilink")를 연고지로 하고 있으며 FNB 필드를 홈 경기장으로 사용하고 있다.
+**펜 풋볼 클럽**(Penn Football Club)은 [유나이티드 사커 리그에](https://ko.wikipedia.org/wiki/유나이티드_사커_리그 "wikilink") 소속된 미국의 프로축구단으로 [펜실베이니아주](../Page/펜실베이니아주.md "wikilink") [해리스버그](../Page/해리스버그.md "wikilink")를 연고지로 하고 있으며 FNB 필드를 홈 경기장으로 사용하고 있다.
 
 2017년 11월 15일 **해리스버그 시티 아일랜더스**(Harrisburg City Islanders)에서 현재의 팀명으로 변경했다.
 
@@ -21,7 +21,7 @@
 <tr class="odd">
 <td><p><a href="../Page/스카이라인_스포츠_콤플렉스.md" title="wikilink">스카이라인 스포츠 콤플렉스</a></p></td>
 <td><p>2004년~2015년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/펜실베이니아주" title="wikilink">펜실베이니아주</a> <a href="https://ko.wikipedia.org/wiki/해리스버그" title="wikilink">해리스버그</a></p></td>
+<td><p><a href="../Page/펜실베이니아주.md" title="wikilink">펜실베이니아주</a> <a href="../Page/해리스버그.md" title="wikilink">해리스버그</a></p></td>
 <td><p>해리스버그 시티 아일랜더스</p></td>
 <td></td>
 </tr>
@@ -36,14 +36,14 @@
 <tr class="odd">
 <td><p><a href="../Page/클리퍼_매거진_스타디움.md" title="wikilink">클리퍼 매거진 스타디움</a></p></td>
 <td><p>2016년~현재</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/펜실베이니아주" title="wikilink">펜실베이니아주</a> <a href="https://ko.wikipedia.org/wiki/랭커스터_(펜실베이니아주)" title="wikilink">랭커스터</a></p></td>
+<td><p><a href="../Page/펜실베이니아주.md" title="wikilink">펜실베이니아주</a> <a href="../Page/랭커스터_(펜실베이니아주).md" title="wikilink">랭커스터</a></p></td>
 <td><p>제2홈구장</p></td>
 <td></td>
 </tr>
 </tbody>
 </table>
 
-## [메이저 리그 사커](https://ko.wikipedia.org/wiki/메이저_리그_사커 "wikilink") 제휴팀
+## [메이저 리그 사커](../Page/메이저_리그_사커.md "wikilink") 제휴팀
 
   - 없음
 

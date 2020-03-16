@@ -20,7 +20,7 @@
 ` |1 January 1900`
 `}}`
 
-}} | work = {{\#ifeq:  | no | National Register of Historic Places | [미국 국립사적지](https://ko.wikipedia.org/wiki/미국_국립사적지 "wikilink") }} | author = {{\#ifeq:  | no | National Park Service | [미국 국립공원관리청](https://ko.wikipedia.org/wiki/미국_국립공원관리청 "wikilink") }} | accessdate = }}}}}} }}{{\#switch:}}}
+}} | work = {{\#ifeq:  | no | National Register of Historic Places | [미국 국립사적지](https://ko.wikipedia.org/wiki/미국_국립사적지 "wikilink") }} | author = {{\#ifeq:  | no | National Park Service | [미국 국립공원관리청](../Page/미국_국립공원관리청.md "wikilink") }} | accessdate = }}}}}} }}{{\#switch:}}}
 
 ` |2013|2013a`
 ` |2010|2010a`

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [IC ](https://ko.wikipedia.org/wiki/IC_).
 
 
-**IC 버스**()는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [버스](https://ko.wikipedia.org/wiki/버스 "wikilink") 제조 업체로 2002년 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [버스](https://ko.wikipedia.org/wiki/버스 "wikilink") 제조 업체인 [암트란](https://ko.wikipedia.org/wiki/암트란 "wikilink")의 폐업으로 설립한 [자동차](https://ko.wikipedia.org/wiki/자동차 "wikilink") 브랜드로 [학교 버스를](https://ko.wikipedia.org/wiki/학교_버스 "wikilink") 생산하고 있다. [나비스타 인터내셔널의](../Page/나비스타_인터내셔널.md "wikilink") 계열사이다.
+**IC 버스**()는 [미국](../Page/미국.md "wikilink")의 [버스](../Page/버스.md "wikilink") 제조 업체로 2002년 [미국](../Page/미국.md "wikilink")의 [버스](../Page/버스.md "wikilink") 제조 업체인 [암트란](https://ko.wikipedia.org/wiki/암트란 "wikilink")의 폐업으로 설립한 [자동차](../Page/자동차.md "wikilink") 브랜드로 [학교 버스를](https://ko.wikipedia.org/wiki/학교_버스 "wikilink") 생산하고 있다. [나비스타 인터내셔널의](../Page/나비스타_인터내셔널.md "wikilink") 계열사이다.
 
 ## 생산 차종
 

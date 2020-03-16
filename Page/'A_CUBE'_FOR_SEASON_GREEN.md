@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [\'A CUBE\' FOR SEASON GREEN](https://ko.wikipedia.org/wiki/\'A_CUBE\'_FOR_SEASON_GREEN).
 
 
-〈**'A CUBE' FOR SEASON \# GREEN**〉은 4계절을 테마로 한 ['A CUBE' FOR SEASON](https://ko.wikipedia.org/wiki/'A_CUBE'_FOR_SEASON "wikilink") 프로젝트의 첫 번째 싱글이며, [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [3월 14일에](https://ko.wikipedia.org/wiki/3월_14일 "wikilink") 발매된 [싱글이며](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink"), [비스트의](https://ko.wikipedia.org/wiki/비스트_\(음악_그룹\) "wikilink") [양요섭](https://ko.wikipedia.org/wiki/양요섭 "wikilink")과 [에이핑크](https://ko.wikipedia.org/wiki/에이핑크 "wikilink")의 [정은지](https://ko.wikipedia.org/wiki/정은지 "wikilink")의 컬래버레이션 곡이다.
+〈**'A CUBE' FOR SEASON \# GREEN**〉은 4계절을 테마로 한 ['A CUBE' FOR SEASON](https://ko.wikipedia.org/wiki/'A_CUBE'_FOR_SEASON "wikilink") 프로젝트의 첫 번째 싱글이며, [2012년](../Page/2012년.md "wikilink") [3월 14일에](../Page/3월_14일.md "wikilink") 발매된 [싱글이며](../Page/싱글_\(음악\).md "wikilink"), [비스트의](../Page/비스트_\(음악_그룹\).md "wikilink") [양요섭](../Page/양요섭.md "wikilink")과 [에이핑크](../Page/에이핑크.md "wikilink")의 [정은지](https://ko.wikipedia.org/wiki/정은지 "wikilink")의 컬래버레이션 곡이다.
 
 ## 개요
 

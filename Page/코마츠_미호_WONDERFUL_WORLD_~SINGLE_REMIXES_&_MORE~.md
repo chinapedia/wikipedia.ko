@@ -2,11 +2,11 @@
 
 
 {{음반 정보 | 음반명 = 코마츠 미호 WONDERFUL WORLD :SINGLE REMIXES & MORE
-<sub></sub> | 음반종류 = [리믹스 음반](https://ko.wikipedia.org/wiki/리믹스_음반 "wikilink") | 가수명 = [코마츠 미호](https://ko.wikipedia.org/wiki/코마츠_미호 "wikilink") | 발매년월일 = [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [11월 27일](https://ko.wikipedia.org/wiki/11월_27일 "wikilink") | 녹음 = [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") | 장르 = [J-POP](https://ko.wikipedia.org/wiki/J-POP "wikilink") | 길이 = 76분 31초 | 레이블 = [기자 스튜디오](https://ko.wikipedia.org/wiki/기자_스튜디오 "wikilink") | 프로듀서 = ROCKAKU | | 전앨범 = [{{nobr](../Page/코마츠_미호_5_~source~.md "wikilink")
-([2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink")) | 현앨범 = **코마츠 미호  SINGLE REMIXES & MORE**
+<sub></sub> | 음반종류 = [리믹스 음반](https://ko.wikipedia.org/wiki/리믹스_음반 "wikilink") | 가수명 = [코마츠 미호](../Page/코마츠_미호.md "wikilink") | 발매년월일 = [2002년](../Page/2002년.md "wikilink") [11월 27일](../Page/11월_27일.md "wikilink") | 녹음 = [2002년](../Page/2002년.md "wikilink") | 장르 = [J-POP](https://ko.wikipedia.org/wiki/J-POP "wikilink") | 길이 = 76분 31초 | 레이블 = [기자 스튜디오](https://ko.wikipedia.org/wiki/기자_스튜디오 "wikilink") | 프로듀서 = ROCKAKU | | 전앨범 = [{{nobr](../Page/코마츠_미호_5_~source~.md "wikilink")
+([2002년](../Page/2002년.md "wikilink")) | 현앨범 = **코마츠 미호  SINGLE REMIXES & MORE**
 (2002년) | 후앨범 = \[\[코마츠_미호_6th_\~하나노\~|
 
-《**코마츠 미호 WONDERFUL WORLD : SINGLE REMIXES & MORE**》()는 [코마츠 미호의](https://ko.wikipedia.org/wiki/코마츠_미호 "wikilink") [리믹스 음반이다](https://ko.wikipedia.org/wiki/리믹스_음반 "wikilink").
+《**코마츠 미호 WONDERFUL WORLD : SINGLE REMIXES & MORE**》()는 [코마츠 미호의](../Page/코마츠_미호.md "wikilink") [리믹스 음반이다](https://ko.wikipedia.org/wiki/리믹스_음반 "wikilink").
 
 ## 내용
 
@@ -71,6 +71,6 @@
 
 ## 관련항목
 
-  - [코마츠 미호](https://ko.wikipedia.org/wiki/코마츠_미호 "wikilink")
+  - [코마츠 미호](../Page/코마츠_미호.md "wikilink")
 
 [분류:2002년 음반](https://ko.wikipedia.org/wiki/분류:2002년_음반 "wikilink") [분류:코마츠 미호의 음반](https://ko.wikipedia.org/wiki/분류:코마츠_미호의_음반 "wikilink") [분류:리믹스 음반](https://ko.wikipedia.org/wiki/분류:리믹스_음반 "wikilink")

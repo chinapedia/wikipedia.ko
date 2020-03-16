@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Ricochet Robot](https://ko.wikipedia.org/wiki/Ricochet_Robot).
 
 
-**리코쳇 로봇**(Ricochet Robot)은 2명 이상이 즐길 수 있는 퍼즐 [보드 게임으로](https://ko.wikipedia.org/wiki/보드_게임 "wikilink") 알렉스 랜돌프([Alex Randolph](https://ko.wikipedia.org/wiki/Alex_Randolph "wikilink"))가 설계했다. 로봇(게임 조각)을 가능한 적게 움직여 선택한 장소로 이동하며, 로봇의 이동에는 엄격한 제한이 따른다. 게임은 ***Rasende Roboter***로서 1999년 독일에서 첫 출판됐으며, 리오 그란데 게임사([Rio Grande Games](https://ko.wikipedia.org/wiki/Rio_Grande_Games "wikilink"))가 영문판을 출판했다. 한국어 판은 '총알탄 로봇'으로 번역되어 판매되고 있다.
+**리코쳇 로봇**(Ricochet Robot)은 2명 이상이 즐길 수 있는 퍼즐 [보드 게임으로](../Page/보드_게임.md "wikilink") 알렉스 랜돌프([Alex Randolph](https://ko.wikipedia.org/wiki/Alex_Randolph "wikilink"))가 설계했다. 로봇(게임 조각)을 가능한 적게 움직여 선택한 장소로 이동하며, 로봇의 이동에는 엄격한 제한이 따른다. 게임은 ***Rasende Roboter***로서 1999년 독일에서 첫 출판됐으며, 리오 그란데 게임사([Rio Grande Games](https://ko.wikipedia.org/wiki/Rio_Grande_Games "wikilink"))가 영문판을 출판했다. 한국어 판은 '총알탄 로봇'으로 번역되어 판매되고 있다.
 
 ## 게임 플레이
 

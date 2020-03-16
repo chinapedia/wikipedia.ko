@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [  \(MLS\)](https://ko.wikipedia.org/wiki/__\(MLS\)).
 
 
-**중부 디비전**(Central Division)은 2000년부터 2001년 존재했던 디비전으로 [시카고 파이어](https://ko.wikipedia.org/wiki/시카고_파이어 "wikilink"), [콜럼버스 크루 SC](https://ko.wikipedia.org/wiki/콜럼버스_크루_SC "wikilink"), [댈러스 번](https://ko.wikipedia.org/wiki/FC_댈러스 "wikilink"), [탬파베이 뮤터니로](https://ko.wikipedia.org/wiki/탬파베이_뮤터니 "wikilink") 이루어졌다.
+**중부 디비전**(Central Division)은 2000년부터 2001년 존재했던 디비전으로 [시카고 파이어](https://ko.wikipedia.org/wiki/시카고_파이어 "wikilink"), [콜럼버스 크루 SC](../Page/콜럼버스_크루_SC.md "wikilink"), [댈러스 번](../Page/FC_댈러스.md "wikilink"), [탬파베이 뮤터니로](../Page/탬파베이_뮤터니.md "wikilink") 이루어졌다.
 
 ## 중부 디비전 소속 팀 및 경기장
 
-| [시카고 파이어](https://ko.wikipedia.org/wiki/시카고_파이어 "wikilink")                                | [콜럼버스 크루 SC](https://ko.wikipedia.org/wiki/콜럼버스_크루_SC "wikilink")                                | [댈러스 번](https://ko.wikipedia.org/wiki/FC_댈러스 "wikilink")                              | [탬파베이 뮤터니](https://ko.wikipedia.org/wiki/탬파베이_뮤터니 "wikilink")                         |
+| [시카고 파이어](https://ko.wikipedia.org/wiki/시카고_파이어 "wikilink")                                | [콜럼버스 크루 SC](../Page/콜럼버스_크루_SC.md "wikilink")                                                   | [댈러스 번](../Page/FC_댈러스.md "wikilink")                                                 | [탬파베이 뮤터니](../Page/탬파베이_뮤터니.md "wikilink")                                            |
 | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| [솔저 필드](../Page/솔저_필드.md "wikilink")                                                       | [콜럼버스 크루 스타디움](https://ko.wikipedia.org/wiki/맙프리_스타디움 "wikilink")                                | [코튼볼](https://ko.wikipedia.org/wiki/코튼볼_\(경기장\) "wikilink")                           | [레이먼드 제임스 스타디움](https://ko.wikipedia.org/wiki/레이먼드_제임스_스타디움 "wikilink")               |
+| [솔저 필드](../Page/솔저_필드.md "wikilink")                                                       | [콜럼버스 크루 스타디움](https://ko.wikipedia.org/wiki/맙프리_스타디움 "wikilink")                                | [코튼볼](../Page/코튼볼_\(경기장\).md "wikilink")                                              | [레이먼드 제임스 스타디움](../Page/레이먼드_제임스_스타디움.md "wikilink")                                  |
 | 수용좌석: **61,500**석                                                                          | 수용좌석: **20,145**석                                                                                | 수용좌석: **92,100**석                                                                     | 수용좌석: **32,000**석                                                                     |
 | [150px](https://ko.wikipedia.org/wiki/파일:Soldier_Field_Chicago_aerial_view.jpg "wikilink") | [150px](https://ko.wikipedia.org/wiki/파일:Columbus_crew_stadium_mls_allstars_2005.jpg "wikilink") | [150px](https://ko.wikipedia.org/wiki/파일:2007_Cotton_Bowl_panoramic_1.jpg "wikilink") | [150px](https://ko.wikipedia.org/wiki/파일:Raymond_James_Stadium_aerial.jpg "wikilink") |
 
@@ -24,7 +24,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2000년~2001년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/시카고_파이어" title="wikilink">시카고 파이어</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/콜럼버스_크루_SC" title="wikilink">콜럼버스 크루</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/FC_댈러스" title="wikilink">댈러스 번</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/탬파베이_뮤터니" title="wikilink">탬파베이 뮤터니</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/시카고_파이어" title="wikilink">시카고 파이어</a> {{·}}  <a href="../Page/콜럼버스_크루_SC.md" title="wikilink">콜럼버스 크루</a> {{·}}  <a href="../Page/FC_댈러스.md" title="wikilink">댈러스 번</a> {{·}}  <a href="../Page/탬파베이_뮤터니.md" title="wikilink">탬파베이 뮤터니</a></p></td>
 <td><p>4개</p></td>
 </tr>
 </tbody>

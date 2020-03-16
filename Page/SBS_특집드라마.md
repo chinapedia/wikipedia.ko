@@ -86,8 +86,8 @@
 
   - 《[아들아 너는 아느냐](https://ko.wikipedia.org/wiki/아들아_너는_아느냐 "wikilink")》 : 2000년 2월 4일 (앙코르 창사 특집드라마)
   - 《[백정의 딸](https://ko.wikipedia.org/wiki/백정의_딸 "wikilink")》 : 2000년 2월 6일 (2부작 설날 특집드라마)
-  - 《[빗물처럼](https://ko.wikipedia.org/wiki/빗물처럼 "wikilink")》 : 2000년 11월 12일 (2부작 창사 특집드라마)
-  - 《[은사시나무](https://ko.wikipedia.org/wiki/은사시나무_\(드라마\) "wikilink")》 : 2000년 11월 14일 (3부작 창사 특집드라마)
+  - 《[빗물처럼](../Page/빗물처럼.md "wikilink")》 : 2000년 11월 12일 (2부작 창사 특집드라마)
+  - 《[은사시나무](../Page/은사시나무_\(드라마\).md "wikilink")》 : 2000년 11월 14일 (3부작 창사 특집드라마)
 
 #### 2001년
 
@@ -118,7 +118,7 @@
   - 《[개밥그릇](https://ko.wikipedia.org/wiki/개밥그릇 "wikilink")》 : 2004년 1월 23일 (설날 특집드라마)
   - 《[네 명의 웬수들](https://ko.wikipedia.org/wiki/네_명의_웬수들 "wikilink")》 : 2004년 9월 27일 (추석 특집드라마)
   - 《[광식의 노래](https://ko.wikipedia.org/wiki/광식의_노래 "wikilink")》 : 2004년 9월 29일 (추석 특집드라마)
-  - 《[홍소장의 가을](https://ko.wikipedia.org/wiki/홍소장의_가을 "wikilink")》 : 2004년 11월 14일 (3부작 창사 특집드라마)
+  - 《[홍소장의 가을](../Page/홍소장의_가을.md "wikilink")》 : 2004년 11월 14일 (3부작 창사 특집드라마)
 
 ### 2000년대 후반
 
@@ -127,17 +127,17 @@
   - 《[내사랑 토람이](https://ko.wikipedia.org/wiki/내사랑_토람이 "wikilink")》 : 2005년 1월 7일 (신년 특집드라마)
   - 《[엄마의 전성시대](https://ko.wikipedia.org/wiki/엄마의_전성시대 "wikilink")》 : 2005년 2월 8일 (설날 특집드라마)
   - 《[핑구어리](https://ko.wikipedia.org/wiki/핑구어리 "wikilink")》 : 2005년 2월 10일 (설날 특집드라마)
-  - 《[하노이 신부](https://ko.wikipedia.org/wiki/하노이_신부 "wikilink")》 : 2005년 9월 19일 (추석 특집드라마)
+  - 《[하노이 신부](../Page/하노이_신부.md "wikilink")》 : 2005년 9월 19일 (추석 특집드라마)
 
 #### 2006년
 
-  - 《[내 사랑 달자씨](https://ko.wikipedia.org/wiki/내_사랑_달자씨 "wikilink")》 : 2006년 10월 5일 (추석 특집드라마)
+  - 《[내 사랑 달자씨](../Page/내_사랑_달자씨.md "wikilink")》 : 2006년 10월 5일 (추석 특집드라마)
   - 《[깜근이 엄마](https://ko.wikipedia.org/wiki/깜근이_엄마 "wikilink")》 : 2006년 10월 7일 (추석 특집드라마)
   - 《[나의 사랑 클레멘타인](https://ko.wikipedia.org/wiki/나의_사랑_클레멘타인_\(2006년_드라마\) "wikilink")》 : 2006년 12월 25일
 
 #### 2007년
 
-  - 《[사랑한다면 이들처럼](https://ko.wikipedia.org/wiki/사랑한다면_이들처럼 "wikilink")》 : 2007년 3월 23일
+  - 《[사랑한다면 이들처럼](../Page/사랑한다면_이들처럼.md "wikilink")》 : 2007년 3월 23일
 
 #### 2008년
 
@@ -145,12 +145,12 @@
 
 #### 2009년
 
-  - 《[홍소장의 가을](https://ko.wikipedia.org/wiki/홍소장의_가을 "wikilink")》 : 2009년 2월 23일 \~ 2009년 2월 24일 (앙코르 특집드라마)
-  - 《[은사시나무](https://ko.wikipedia.org/wiki/은사시나무_\(드라마\) "wikilink")》 : 2009년 3월 2일 \~ 2009년 3월 3일(앙코르 특집드라마)
+  - 《[홍소장의 가을](../Page/홍소장의_가을.md "wikilink")》 : 2009년 2월 23일 \~ 2009년 2월 24일 (앙코르 특집드라마)
+  - 《[은사시나무](../Page/은사시나무_\(드라마\).md "wikilink")》 : 2009년 3월 2일 \~ 2009년 3월 3일(앙코르 특집드라마)
   - 《[그 남자의 나라](https://ko.wikipedia.org/wiki/그_남자의_나라 "wikilink")》 : 2009년 4월 15일 (임시정부 수립 90주년 특집)
-  - 《[천국의 아이들](https://ko.wikipedia.org/wiki/천국의_아이들_\(2009년_드라마\) "wikilink")》 : 2009년 5월 22일 (《2009 희망TV - 대한민국이 떴다》의 일환으로 기부 문화와 모금운동의 확산을 위해 제작)
+  - 《[천국의 아이들](../Page/천국의_아이들_\(2009년_드라마\).md "wikilink")》 : 2009년 5월 22일 (《2009 희망TV - 대한민국이 떴다》의 일환으로 기부 문화와 모금운동의 확산을 위해 제작)
   - 《[아버지, 당신의 자리](../Page/아버지,_당신의_자리.md "wikilink")》 : 2009년 10월 5일 \~ 2009년 10월 6일 (추석 특집드라마)
-  - 《[아버지의 집](https://ko.wikipedia.org/wiki/아버지의_집 "wikilink")》 : 2009년 12월 28일 (연말특집극)
+  - 《[아버지의 집](../Page/아버지의_집.md "wikilink")》 : 2009년 12월 28일 (연말특집극)
 
 ### 2010년대 전반
 
@@ -171,13 +171,13 @@
 
 #### 2013년
 
-  - 《[사건번호 113](../Page/사건번호_113.md "wikilink")》 : 2013년 5월 30일 (**[수목 드라마](https://ko.wikipedia.org/wiki/SBS_드라마_스페셜 "wikilink")**로 방영됨)
+  - 《[사건번호 113](../Page/사건번호_113.md "wikilink")》 : 2013년 5월 30일 (**[수목 드라마](../Page/SBS_드라마_스페셜.md "wikilink")**로 방영됨)
   - 《[낯선 사람](../Page/낯선_사람.md "wikilink")》 : 2013년 11월 3일
 
 #### 2014년
 
   - 《[시월의 어느 멋진 날에](../Page/시월의_어느_멋진_날에.md "wikilink")》 : 2014년 2월 1일 \~ 2014년 2월 2일 (설날 특집드라마)
-  - 《[강구 이야기](../Page/강구_이야기.md "wikilink")》 : 2014년 3월 29일 \~ 2014년 3월 30일 ([3D](https://ko.wikipedia.org/wiki/3차원_텔레비전 "wikilink") 제작 · 방송)
+  - 《[강구 이야기](../Page/강구_이야기.md "wikilink")》 : 2014년 3월 29일 \~ 2014년 3월 30일 ([3D](../Page/3차원_텔레비전.md "wikilink") 제작 · 방송)
   - 《[엄마의 선택](../Page/엄마의_선택.md "wikilink")》 : 2014년 10월 12일
 
 ### 2010년대 후반
@@ -200,12 +200,12 @@
 
 #### 2018년
 
-  - 《[EXIT](https://ko.wikipedia.org/wiki/EXIT_\(드라마\) "wikilink")》 : 2018년 4월 30일 \~ 2018년 5월 1일 ([월화 드라마로](https://ko.wikipedia.org/wiki/SBS_월화드라마 "wikilink") 방영됨)
-  - 《[사의 찬미](https://ko.wikipedia.org/wiki/사의_찬미_\(드라마\) "wikilink")》 : 2018년 11월 27일 \~ 2018년 12월 4일 ([월화 드라마로](https://ko.wikipedia.org/wiki/SBS_월화드라마 "wikilink") 2회 연속 방영됨)
+  - 《[EXIT](../Page/EXIT_\(드라마\).md "wikilink")》 : 2018년 4월 30일 \~ 2018년 5월 1일 ([월화 드라마로](../Page/SBS_월화드라마.md "wikilink") 방영됨)
+  - 《[사의 찬미](../Page/사의_찬미_\(드라마\).md "wikilink")》 : 2018년 11월 27일 \~ 2018년 12월 4일 ([월화 드라마로](../Page/SBS_월화드라마.md "wikilink") 2회 연속 방영됨)
 
 #### 2019년
 
-  - 《[17세의 조건](https://ko.wikipedia.org/wiki/17세의_조건 "wikilink")》 : 2019년 8월 5일 \~ 2019년 8월 6일 ([월화 드라마로](https://ko.wikipedia.org/wiki/SBS_월화드라마 "wikilink") 방영됨)
+  - 《[17세의 조건](https://ko.wikipedia.org/wiki/17세의_조건 "wikilink")》 : 2019년 8월 5일 \~ 2019년 8월 6일 ([월화 드라마로](../Page/SBS_월화드라마.md "wikilink") 방영됨)
 
 ### 2020년 전반
 
@@ -219,4 +219,4 @@
 
 [SBS_특집드라마](https://ko.wikipedia.org/wiki/분류:SBS_특집드라마 "wikilink") [분류:SBS의 텔레비전 드라마](https://ko.wikipedia.org/wiki/분류:SBS의_텔레비전_드라마 "wikilink") [분류:단막극](https://ko.wikipedia.org/wiki/분류:단막극 "wikilink")
 
-1.  [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [11월 14일](https://ko.wikipedia.org/wiki/11월_14일 "wikilink") 9시부터 3부작 특집극으로 방영된 것을 압축 편집해서 [10월 13일](https://ko.wikipedia.org/wiki/10월_13일 "wikilink") 1\~2부, [10월 14일](https://ko.wikipedia.org/wiki/10월_14일 "wikilink") 3부가 나감.
+1.  [1995년](../Page/1995년.md "wikilink") [11월 14일](../Page/11월_14일.md "wikilink") 9시부터 3부작 특집극으로 방영된 것을 압축 편집해서 [10월 13일](../Page/10월_13일.md "wikilink") 1\~2부, [10월 14일](../Page/10월_14일.md "wikilink") 3부가 나감.

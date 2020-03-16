@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Agar.io](https://ko.wikipedia.org/wiki/Agar.io).
 
 
-《**Agar.io**》는 [레딧](https://ko.wikipedia.org/wiki/레딧 "wikilink") 사용자인 Zeach에 의해 개발된 top-down 관점의 [대규모 다중 사용자 온라인](https://ko.wikipedia.org/wiki/대규모_다중_사용자_온라인_게임 "wikilink") [웹 게임이다](https://ko.wikipedia.org/wiki/웹_게임 "wikilink").\[1\]
+《**Agar.io**》는 [레딧](../Page/레딧.md "wikilink") 사용자인 Zeach에 의해 개발된 top-down 관점의 [대규모 다중 사용자 온라인](https://ko.wikipedia.org/wiki/대규모_다중_사용자_온라인_게임 "wikilink") [웹 게임이다](../Page/웹_게임.md "wikilink").\[1\]
 
 ## 개발 과정
 
-Agar.io는 2015년 4월 28일, 당시 19세였던 브라질 출신 개발자 Matheus Valadares에 의해 [4chan](https://ko.wikipedia.org/wiki/4chan "wikilink")에 소개되었다.\[2\] 초기 개발 단계에서 게임 클라이언트는 자바로, 서버는 C++로 작성하였다.\[3\] Valadares는 계속해서 업데이트를 하고 실험적 기능을 위한 **실험 버전** 모드 등 새로운 기능을 추가하였다.\[4\] 현재는 **FFA**(개인전), **Teams**(팀전), **Experimental**(실험버전), **Party**(파티) 가 있다. 2015년 7월 8일엔, Agar.io의 모바일 버전이 [Miniclip](https://ko.wikipedia.org/wiki/Miniclip "wikilink")에 의해 출시되었다. 그리고 2018년 중순에 Battle Royale 이라는 모드가 생겼는데 East Asia에서는 플레이하기가 매우 어렵다. 20\~35명이 모이면 게임이 시작된다.
+Agar.io는 2015년 4월 28일, 당시 19세였던 브라질 출신 개발자 Matheus Valadares에 의해 [4chan](../Page/4chan.md "wikilink")에 소개되었다.\[2\] 초기 개발 단계에서 게임 클라이언트는 자바로, 서버는 C++로 작성하였다.\[3\] Valadares는 계속해서 업데이트를 하고 실험적 기능을 위한 **실험 버전** 모드 등 새로운 기능을 추가하였다.\[4\] 현재는 **FFA**(개인전), **Teams**(팀전), **Experimental**(실험버전), **Party**(파티) 가 있다. 2015년 7월 8일엔, Agar.io의 모바일 버전이 [Miniclip](https://ko.wikipedia.org/wiki/Miniclip "wikilink")에 의해 출시되었다. 그리고 2018년 중순에 Battle Royale 이라는 모드가 생겼는데 East Asia에서는 플레이하기가 매우 어렵다. 20\~35명이 모이면 게임이 시작된다.
 
 ## 게임 요소
 

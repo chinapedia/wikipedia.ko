@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Cheerful Sensibility](https://ko.wikipedia.org/wiki/Cheerful_Sensibility).
 
 
-**Cheerful Sensibility**은 대한민국의 록 밴드 [FT아일랜드](https://ko.wikipedia.org/wiki/FT아일랜드 "wikilink")의 데뷔 앨범이자 첫 번째 [정규 음반이다](https://ko.wikipedia.org/wiki/정규_음반 "wikilink"). [FT아일랜드](https://ko.wikipedia.org/wiki/FT아일랜드 "wikilink")의 대표곡 '사랑앓이'와 '천둥'이 수록되어 있다.
+**Cheerful Sensibility**은 대한민국의 록 밴드 [FT아일랜드](../Page/FT아일랜드.md "wikilink")의 데뷔 앨범이자 첫 번째 [정규 음반이다](../Page/정규_음반.md "wikilink"). [FT아일랜드](../Page/FT아일랜드.md "wikilink")의 대표곡 '사랑앓이'와 '천둥'이 수록되어 있다.
 
 ## 트랙리스트
 
