@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [One of These Nights \(\)](https://ko.wikipedia.org/wiki/One_of_These_Nights_\(\)).
 
 
-"**One of These Nights**"는 돈 [돈 헨리와](../Page/돈_헨리.md "wikilink") [글렌 프레이가](https://ko.wikipedia.org/wiki/글렌_프레이 "wikilink") 작사하고 [이글스](https://ko.wikipedia.org/wiki/이글스 "wikilink")가 녹음한 노래이다. 이글스의 앨범 중 하나인 [One of These Nights과](../Page/One_of_These_Nights.md "wikilink") 동명인 타이틀곡이며, [Best of My Love에](https://ko.wikipedia.org/wiki/Best_of_My_Love "wikilink") 이어 밴드의 두 번째 빌보드 핫 100 차트 1위 싱글이 되었다. 이 노래의 싱글 버전은 인트로와 뒷부분을 잘라내서 앨범 버전보다 길이가 줄었다. 돈 헨리가 리드 보컬을 맡았으며, [랜디 마이즈너는](https://ko.wikipedia.org/wiki/랜디_마이즈너 "wikilink") 높은 화음을 넣었다.
+"**One of These Nights**"는 돈 [돈 헨리와](../Page/돈_헨리.md "wikilink") [글렌 프레이가](https://ko.wikipedia.org/wiki/글렌_프레이 "wikilink") 작사하고 [이글스](../Page/이글스.md "wikilink")가 녹음한 노래이다. 이글스의 앨범 중 하나인 [One of These Nights과](../Page/One_of_These_Nights.md "wikilink") 동명인 타이틀곡이며, [Best of My Love에](https://ko.wikipedia.org/wiki/Best_of_My_Love "wikilink") 이어 밴드의 두 번째 빌보드 핫 100 차트 1위 싱글이 되었다. 이 노래의 싱글 버전은 인트로와 뒷부분을 잘라내서 앨범 버전보다 길이가 줄었다. 돈 헨리가 리드 보컬을 맡았으며, [랜디 마이즈너는](https://ko.wikipedia.org/wiki/랜디_마이즈너 "wikilink") 높은 화음을 넣었다.
 
 *[The Very Best Of](../Page/The_Very_Best_Of.md "wikilink")*의 라이너 노트에서 글렌 프레이는 이 곡을 이렇게 설명했다.
 

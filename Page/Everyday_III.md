@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Everyday III](https://ko.wikipedia.org/wiki/Everyday_III).
 
 
-《**Everyday III**》는 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [1월 3일에](https://ko.wikipedia.org/wiki/1월_3일 "wikilink") 발매된 [걸스데이](https://ko.wikipedia.org/wiki/걸스데이 "wikilink")의 세 번째 미니 앨범이다. 타이틀 'Something'은 비슷한 시기에 컴백한 [동방신기](https://ko.wikipedia.org/wiki/동방신기 "wikilink")와 노래 제목이 같아서 큰 관심을 모으기도 했다. 걸스데이는 이 곡으로 각종 프로그램의 1위를 휩쓸며 2011년 '반짝반짝'과 2013년 '기대해' 못지않은 전성기를 누렸다.
+《**Everyday III**》는 [2014년](../Page/2014년.md "wikilink") [1월 3일에](../Page/1월_3일.md "wikilink") 발매된 [걸스데이](../Page/걸스데이.md "wikilink")의 세 번째 미니 앨범이다. 타이틀 'Something'은 비슷한 시기에 컴백한 [동방신기](../Page/동방신기.md "wikilink")와 노래 제목이 같아서 큰 관심을 모으기도 했다. 걸스데이는 이 곡으로 각종 프로그램의 1위를 휩쓸며 2011년 '반짝반짝'과 2013년 '기대해' 못지않은 전성기를 누렸다.
 
 ## 트랙 리스트
 

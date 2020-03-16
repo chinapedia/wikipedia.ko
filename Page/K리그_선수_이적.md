@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [K  ](https://ko.wikipedia.org/wiki/K__).
 
 
-**[K리그](https://ko.wikipedia.org/wiki/K리그 "wikilink") 이적**시장은 시즌 전에 열리는 겨울 이적시장(정기등록)과 시즌 중에 열리는 여름 이적시장(추가등록)으로 나뉜다.
+**[K리그](../Page/K리그.md "wikilink") 이적**시장은 시즌 전에 열리는 겨울 이적시장(정기등록)과 시즌 중에 열리는 여름 이적시장(추가등록)으로 나뉜다.
 
 이적 및 선수등록과 관련된 세부규정은 아래와 같다.
 

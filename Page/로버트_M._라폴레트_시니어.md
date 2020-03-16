@@ -20,8 +20,8 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/1884년_미국_하원의원_선거" title="wikilink">1884년 선거</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미국_하원" title="wikilink">하원의원 (위스콘신 제3선거구)</a></p></td>
+<td><p><a href="../Page/1884년_미국_하원의원_선거.md" title="wikilink">1884년 선거</a></p></td>
+<td><p><a href="../Page/미국_하원.md" title="wikilink">하원의원 (위스콘신 제3선거구)</a></p></td>
 <td><p>49대</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/공화당_(미국)" title="wikilink">공화당</a></p></td>
 <td><p>48.08%</p></td>
@@ -30,8 +30,8 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Seal_of_the_United_States_House_of_Representatives.svg" title="wikilink">25px</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/1886년_미국_하원의원_선거" title="wikilink">1886년 선거</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미국_하원" title="wikilink">하원의원 (위스콘신 제3선거구)</a></p></td>
+<td><p><a href="../Page/1886년_미국_하원의원_선거.md" title="wikilink">1886년 선거</a></p></td>
+<td><p><a href="../Page/미국_하원.md" title="wikilink">하원의원 (위스콘신 제3선거구)</a></p></td>
 <td><p>50대</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/공화당_(미국)" title="wikilink">공화당</a></p></td>
 <td><p>50.38%</p></td>
@@ -40,8 +40,8 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Seal_of_the_United_States_House_of_Representatives.svg" title="wikilink">25px</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/1888년_미국_하원의원_선거" title="wikilink">1888년 선거</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미국_하원" title="wikilink">하원의원 (위스콘신 제3선거구)</a></p></td>
+<td><p><a href="../Page/1888년_미국_하원의원_선거.md" title="wikilink">1888년 선거</a></p></td>
+<td><p><a href="../Page/미국_하원.md" title="wikilink">하원의원 (위스콘신 제3선거구)</a></p></td>
 <td><p>51대</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/공화당_(미국)" title="wikilink">공화당</a></p></td>
 <td><p>49.96%</p></td>
@@ -50,8 +50,8 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Seal_of_the_United_States_House_of_Representatives.svg" title="wikilink">25px</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/1890년_미국_하원의원_선거" title="wikilink">1890년 선거</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미국_하원" title="wikilink">하원의원 (위스콘신 제3선거구)</a></p></td>
+<td><p><a href="../Page/1890년_미국_하원의원_선거.md" title="wikilink">1890년 선거</a></p></td>
+<td><p><a href="../Page/미국_하원.md" title="wikilink">하원의원 (위스콘신 제3선거구)</a></p></td>
 <td><p>52대</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/공화당_(미국)" title="wikilink">공화당</a></p></td>
 <td><p>46.16%</p></td>
@@ -90,7 +90,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Privy_Seal_of_Wisconsin.svg" title="wikilink">25px</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/1904년_미국_상원의원_선거" title="wikilink">1905년 선거</a></p></td>
+<td><p><a href="../Page/1904년_미국_상원의원_선거.md" title="wikilink">1905년 선거</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/미국_상원" title="wikilink">상원의원 (위스콘신 제1부)</a></p></td>
 <td><p>59대</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/공화당_(미국)" title="wikilink">공화당</a></p></td>
@@ -100,7 +100,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Seal_of_the_United_States_House_of_Representatives.svg" title="wikilink">25px</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/1910년_미국_상원의원_선거" title="wikilink">1911년 선거</a></p></td>
+<td><p><a href="../Page/1910년_미국_상원의원_선거.md" title="wikilink">1911년 선거</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/미국_상원" title="wikilink">상원의원 (위스콘신 제1부)</a></p></td>
 <td><p>62대</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/공화당_(미국)" title="wikilink">공화당</a></p></td>
@@ -110,7 +110,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Seal_of_the_United_States_House_of_Representatives.svg" title="wikilink">25px</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/1916년_미국_상원의원_선거" title="wikilink">1916년 선거</a></p></td>
+<td><p><a href="../Page/1916년_미국_상원의원_선거.md" title="wikilink">1916년 선거</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/미국_상원" title="wikilink">상원의원 (위스콘신 제1부)</a></p></td>
 <td><p>65대</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/공화당_(미국)" title="wikilink">공화당</a></p></td>
@@ -120,7 +120,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Seal_of_the_United_States_House_of_Representatives.svg" title="wikilink">25px</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/1922년_미국_상원의원_선거" title="wikilink">1922년 선거</a></p></td>
+<td><p><a href="../Page/1922년_미국_상원의원_선거.md" title="wikilink">1922년 선거</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/미국_상원" title="wikilink">상원의원 (위스콘신 제1부)</a></p></td>
 <td><p>68대</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/공화당_(미국)" title="wikilink">공화당</a></p></td>
@@ -131,7 +131,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/1924년_미국_대통령_선거" title="wikilink">1924년 선거</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미국의_대통령_목록" title="wikilink">미국의 대통령</a></p></td>
+<td><p><a href="../Page/미국의_대통령_목록.md" title="wikilink">미국의 대통령</a></p></td>
 <td><p>30대</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/진보당_(미국,_1924년)" title="wikilink">진보당</a></p></td>
 <td><p>16.61%</p></td>

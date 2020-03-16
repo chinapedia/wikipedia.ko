@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [AC ](https://ko.wikipedia.org/wiki/AC_).
 
 
-**AC 파비아**(Associazione Calcio Pavia)는 [롬바르디아주](https://ko.wikipedia.org/wiki/롬바르디아주 "wikilink")의 [파비아](https://ko.wikipedia.org/wiki/파비아 "wikilink")를 연고로 하는 이탈리아의 프로 축구팀이다. 1955년에 마지막으로 [세리에 B에](https://ko.wikipedia.org/wiki/세리에_B "wikilink") 참가한 이후, 현재는 [레가 프로 프리마 디비시오네에](../Page/레가_프로_프리마_디비시오네.md "wikilink") 참가중이다.
+**AC 파비아**(Associazione Calcio Pavia)는 [롬바르디아주](../Page/롬바르디아주.md "wikilink")의 [파비아](https://ko.wikipedia.org/wiki/파비아 "wikilink")를 연고로 하는 이탈리아의 프로 축구팀이다. 1955년에 마지막으로 [세리에 B에](../Page/세리에_B.md "wikilink") 참가한 이후, 현재는 [레가 프로 프리마 디비시오네에](../Page/레가_프로_프리마_디비시오네.md "wikilink") 참가중이다.
 
 ## 역사
 

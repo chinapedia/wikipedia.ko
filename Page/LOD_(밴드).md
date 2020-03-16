@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [LOD \(\)](https://ko.wikipedia.org/wiki/LOD_\(\)).
 
 
-**에로디**(LOD = Legion Of Doom)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 밴드이다. [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink")부터 활동중인 프로젝트 밴드이다.
+**에로디**(LOD = Legion Of Doom)는 [대한민국](../Page/대한민국.md "wikilink")의 밴드이다. [2011년](../Page/2011년.md "wikilink")부터 활동중인 프로젝트 밴드이다.
 
 ## 구성원
 
-  - [김인수](https://ko.wikipedia.org/wiki/김인수 "wikilink") (보컬, [크라잉넛](https://ko.wikipedia.org/wiki/크라잉넛 "wikilink") 멤버)
-  - [윤병주](../Page/윤병주.md "wikilink") (기타, [로다운 30](https://ko.wikipedia.org/wiki/로다운_30 "wikilink") 멤버)
-  - [이보람](https://ko.wikipedia.org/wiki/이보람 "wikilink") (베이스, [삼청](https://ko.wikipedia.org/wiki/삼청 "wikilink") 멤버)
+  - [김인수](https://ko.wikipedia.org/wiki/김인수 "wikilink") (보컬, [크라잉넛](../Page/크라잉넛.md "wikilink") 멤버)
+  - [윤병주](../Page/윤병주.md "wikilink") (기타, [로다운 30](../Page/로다운_30.md "wikilink") 멤버)
+  - [이보람](https://ko.wikipedia.org/wiki/이보람 "wikilink") (베이스, [삼청](../Page/삼청.md "wikilink") 멤버)
   - [박재륜](https://ko.wikipedia.org/wiki/박재륜 "wikilink") (드럼, [닥솔로지](https://ko.wikipedia.org/wiki/닥솔로지 "wikilink") 멤버)
 
 ## 내력
@@ -15,7 +15,7 @@
   - 2011년초, 김인수와 윤병주가 프로젝트 결성을 논의. 이후 이보람과 박재륜 영입.
   - 2011년 6월 26일 비트볼 레코드에서 기획한 <사상검증 라이브>를 시작으로 그해 약 3회 공연
   - 2012년 \~ 2013년에도 멤버들의 기존 소속팀 스케줄 관계로 자주 공연을 하지 못했으나 2013년 10월 13일 [잔다리 페스타에서](https://ko.wikipedia.org/wiki/잔다리_페스타 "wikilink") 하루 3회 공연.
-  - 2013년 [잔다리 페스타에서는](https://ko.wikipedia.org/wiki/잔다리_페스타 "wikilink") 당시 "빠빠빠"라는 곡으로 인기를 끌던 걸그룹 [크레용팝](https://ko.wikipedia.org/wiki/크레용팝 "wikilink")과도 공연.
+  - 2013년 [잔다리 페스타에서는](https://ko.wikipedia.org/wiki/잔다리_페스타 "wikilink") 당시 "빠빠빠"라는 곡으로 인기를 끌던 걸그룹 [크레용팝](../Page/크레용팝.md "wikilink")과도 공연.
   - 2014년 1월 4일 [피해의식](https://ko.wikipedia.org/wiki/피해의식 "wikilink"), [룩앤리슨](https://ko.wikipedia.org/wiki/룩앤리슨 "wikilink")과 함께 2014 K-Rock 드림콘서트 공연.
 
 ## 외부 링크

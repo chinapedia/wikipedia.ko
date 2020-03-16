@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [His Way, Our Way](https://ko.wikipedia.org/wiki/His_Way,_Our_Way).
 
 
-***His Way, Our Way***는 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [7월 7일](https://ko.wikipedia.org/wiki/7월_7일 "wikilink") [아이튠즈](https://ko.wikipedia.org/wiki/아이튠즈 "wikilink")를 통해서 발매된 [프랭크 시나트라](https://ko.wikipedia.org/wiki/프랭크_시나트라 "wikilink") [트리뷰트 음반이다](https://ko.wikipedia.org/wiki/트리뷰트_음반 "wikilink").\[1\]\[2\] 이 음반은 다양한 음악가들이 커버한 프랭크 시나트라의 13곡의 커버곡이 수록되어있다.
+***His Way, Our Way***는 [2009년](../Page/2009년.md "wikilink") [7월 7일](../Page/7월_7일.md "wikilink") [아이튠즈](../Page/아이튠즈.md "wikilink")를 통해서 발매된 [프랭크 시나트라](../Page/프랭크_시나트라.md "wikilink") [트리뷰트 음반이다](https://ko.wikipedia.org/wiki/트리뷰트_음반 "wikilink").\[1\]\[2\] 이 음반은 다양한 음악가들이 커버한 프랭크 시나트라의 13곡의 커버곡이 수록되어있다.
 
 ## 수록곡
 
-1.  "The Way You Look Tonight" ([마룬 5](https://ko.wikipedia.org/wiki/마룬_5 "wikilink"))
+1.  "The Way You Look Tonight" ([마룬 5](../Page/마룬_5.md "wikilink"))
 2.  "One More For My Baby (and One More for the Road)" ([존 리치](https://ko.wikipedia.org/wiki/존_리치 "wikilink"))
 3.  "The Things We Did Last Summer" ([A Fine Frenzy](https://ko.wikipedia.org/wiki/A_Fine_Frenzy "wikilink"))
 4.  "Stormy Weather" ([The Kooks](https://ko.wikipedia.org/wiki/The_Kooks "wikilink"))

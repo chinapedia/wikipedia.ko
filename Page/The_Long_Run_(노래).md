@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Long Run \(\)](https://ko.wikipedia.org/wiki/The_Long_Run_\(\)).
 
 
-"**The Long Run**" 은 [돈 헨리](../Page/돈_헨리.md "wikilink"), [글렌 프레이가](https://ko.wikipedia.org/wiki/글렌_프레이 "wikilink") 작곡하고 [이글스](https://ko.wikipedia.org/wiki/이글스 "wikilink")가 녹음한 노래이다. 이글스의 6번째 음반인 [The Long Run의](../Page/The_Long_Run.md "wikilink") 타이틀곡이며, 1979년 11월 싱글로 발매되었다. 이 노래의 가사는 이글스가 해체되어가고있는 상황임에도 불구하고 [글렌 프레이와](https://ko.wikipedia.org/wiki/글렌_프레이 "wikilink") [돈 헨리의](../Page/돈_헨리.md "wikilink") 끈끈한 관계를 표현한것으로 평가되었다.\[1\] 1980년 초 미국 빌보드 핫 100에서 8위를 하였다.\[2\] 이 곡은 빌보드 핫 100에서 1위를 차지한 [Heartache Tonight에](../Page/Heartache_Tonight.md "wikilink") 이은 *The Long Run* 에서 싱글로 발매된 3개의 곡 중에서 2번째 곡이며, 또다른 싱글인 [I Can't Tell You Why](https://ko.wikipedia.org/wiki/I_Can't_Tell_You_Why "wikilink") 역시 1980년 봄 빌보드 핫 100에서 8위를 차지하였다.\[3\]
+"**The Long Run**" 은 [돈 헨리](../Page/돈_헨리.md "wikilink"), [글렌 프레이가](https://ko.wikipedia.org/wiki/글렌_프레이 "wikilink") 작곡하고 [이글스](../Page/이글스.md "wikilink")가 녹음한 노래이다. 이글스의 6번째 음반인 [The Long Run의](../Page/The_Long_Run.md "wikilink") 타이틀곡이며, 1979년 11월 싱글로 발매되었다. 이 노래의 가사는 이글스가 해체되어가고있는 상황임에도 불구하고 [글렌 프레이와](https://ko.wikipedia.org/wiki/글렌_프레이 "wikilink") [돈 헨리의](../Page/돈_헨리.md "wikilink") 끈끈한 관계를 표현한것으로 평가되었다.\[1\] 1980년 초 미국 빌보드 핫 100에서 8위를 하였다.\[2\] 이 곡은 빌보드 핫 100에서 1위를 차지한 [Heartache Tonight에](../Page/Heartache_Tonight.md "wikilink") 이은 *The Long Run* 에서 싱글로 발매된 3개의 곡 중에서 2번째 곡이며, 또다른 싱글인 [I Can't Tell You Why](https://ko.wikipedia.org/wiki/I_Can't_Tell_You_Why "wikilink") 역시 1980년 봄 빌보드 핫 100에서 8위를 차지하였다.\[3\]
 
 ## 세션 구성
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  \(Hoi Hoi\)](https://ko.wikipedia.org/wiki/__\(Hoi_Hoi\)).
 
 
-《**호이 호이 (Hoi Hoi)**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [걸 그룹](https://ko.wikipedia.org/wiki/걸_그룹 "wikilink") [레인보우의](https://ko.wikipedia.org/wiki/레인보우_\(음악_그룹\) "wikilink") 유닛 그룹인 [레인보우 픽시의](https://ko.wikipedia.org/wiki/레인보우_픽시 "wikilink") 싱글 음반이다.
+《**호이 호이 (Hoi Hoi)**》는 [대한민국](../Page/대한민국.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") [레인보우의](https://ko.wikipedia.org/wiki/레인보우_\(음악_그룹\) "wikilink") 유닛 그룹인 [레인보우 픽시의](../Page/레인보우_픽시.md "wikilink") 싱글 음반이다.
 
 ## 수록곡
 

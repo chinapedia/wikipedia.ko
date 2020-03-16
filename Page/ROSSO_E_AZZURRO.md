@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ROSSO E AZZURRO](https://ko.wikipedia.org/wiki/ROSSO_E_AZZURRO).
 
 
-《**ROSSO E AZZURRO**》는, [도모토 쯔요시의](https://ko.wikipedia.org/wiki/도모토_츠요시 "wikilink") 1번째 [정규 음반이다](https://ko.wikipedia.org/wiki/정규_음반 "wikilink").
+《**ROSSO E AZZURRO**》는, [도모토 쯔요시의](../Page/도모토_츠요시.md "wikilink") 1번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
 
 ## 개요
 

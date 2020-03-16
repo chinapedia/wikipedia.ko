@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [My Story \(  \)](https://ko.wikipedia.org/wiki/My_Story_\(__\)).
 
 
-《**My Story**》는 [마쓰우라 마사토가](https://ko.wikipedia.org/wiki/마쓰우라_마사토 "wikilink") 프로듀서를 맡은 [하마사키 아유미의](https://ko.wikipedia.org/wiki/하마사키_아유미 "wikilink") 여섯 번째 정규 음반이다. 2004년 12월 15일 [에이벡스 트랙스를](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") 통해 발매되었다.
+《**My Story**》는 [마쓰우라 마사토가](https://ko.wikipedia.org/wiki/마쓰우라_마사토 "wikilink") 프로듀서를 맡은 [하마사키 아유미의](../Page/하마사키_아유미.md "wikilink") 여섯 번째 정규 음반이다. 2004년 12월 15일 [에이벡스 트랙스를](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") 통해 발매되었다.
 
 ## 오리콘 차트
 

@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [Rihwa](https://ko.wikipedia.org/wiki/Rihwa).
 
 
-**Rihwa**(리화, 본명:**박리화**(朴梨華), [1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink") [10월 4일](https://ko.wikipedia.org/wiki/10월_4일 "wikilink") \~ )는, [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [여성](https://ko.wikipedia.org/wiki/여성 "wikilink") [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")이다. 소속 예능 사무소는 [아뮤즈](https://ko.wikipedia.org/wiki/아뮤즈 "wikilink"), 소속 레코드 회사는 [토이즈 팩토리](https://ko.wikipedia.org/wiki/토이스_팩토리 "wikilink").
+**Rihwa**(리화, 본명:**박리화**(朴梨華), [1989년](../Page/1989년.md "wikilink") [10월 4일](../Page/10월_4일.md "wikilink") \~ )는, [일본](../Page/일본.md "wikilink")의 [여성](../Page/여성.md "wikilink") [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")이다. 소속 예능 사무소는 [아뮤즈](../Page/아뮤즈.md "wikilink"), 소속 레코드 회사는 [토이즈 팩토리](../Page/토이스_팩토리.md "wikilink").
 
 ## 내력
 
-[홋카이도](https://ko.wikipedia.org/wiki/홋카이도 "wikilink") [삿포로 시](https://ko.wikipedia.org/wiki/삿포로_시 "wikilink") 출신(국적은 [한국](https://ko.wikipedia.org/wiki/한국 "wikilink")으로, 재일 한국인 4세). 중학교 졸업 때까지 삿포로에서 지낸다\[1\]. 중학교 졸업 후에는 [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink") [벨빌으로](https://ko.wikipedia.org/wiki/벨빌_\(온타리오주\) "wikilink") 유학을 가, 그곳에서 고교 생활을 보낸다\[2\].
+[홋카이도](../Page/홋카이도.md "wikilink") [삿포로 시](https://ko.wikipedia.org/wiki/삿포로_시 "wikilink") 출신(국적은 [한국](../Page/한국.md "wikilink")으로, 재일 한국인 4세). 중학교 졸업 때까지 삿포로에서 지낸다\[1\]. 중학교 졸업 후에는 [캐나다](../Page/캐나다.md "wikilink") [벨빌으로](../Page/벨빌_\(온타리오주\).md "wikilink") 유학을 가, 그곳에서 고교 생활을 보낸다\[2\].
 
-고교 졸업 후, 일본으로 귀국. [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")부터 삿포로를 중심으로 라이브 활동을 시작한다\[3\]. [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [5월 18일에](https://ko.wikipedia.org/wiki/5월_18일 "wikilink") 첫 싱글 〈private\#1〉을 발매해, 그것을 시작으로 〈private 시리즈〉로서 3장의 싱글을 발매한다\[4\]. [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 1월, 〈private 시리즈의 집대성\[5\]\[6\]〉으로서 앨범 《private\#0》를 발매해, 같은 달, 활동 거점을 삿포로에서 도쿄로 이동한다\[7\].
+고교 졸업 후, 일본으로 귀국. [2009년](../Page/2009년.md "wikilink")부터 삿포로를 중심으로 라이브 활동을 시작한다\[3\]. [2010년](../Page/2010년.md "wikilink") [5월 18일에](../Page/5월_18일.md "wikilink") 첫 싱글 〈private\#1〉을 발매해, 그것을 시작으로 〈private 시리즈〉로서 3장의 싱글을 발매한다\[4\]. [2012년](../Page/2012년.md "wikilink") 1월, 〈private 시리즈의 집대성\[5\]\[6\]〉으로서 앨범 《private\#0》를 발매해, 같은 달, 활동 거점을 삿포로에서 도쿄로 이동한다\[7\].
 
-2012년 [4월 20일](https://ko.wikipedia.org/wiki/4월_20일 "wikilink"), [토이즈 팩토리로부터](https://ko.wikipedia.org/wiki/토이스_팩토리 "wikilink") 메이저 데뷔하는 것이 발표된다\[8\]. [7월 11일](https://ko.wikipedia.org/wiki/7월_11일 "wikilink"), 싱글 〈CHANGE〉를 발매해, 메이저 데뷔를 한다\[9\].
+2012년 [4월 20일](../Page/4월_20일.md "wikilink"), [토이즈 팩토리로부터](../Page/토이스_팩토리.md "wikilink") 메이저 데뷔하는 것이 발표된다\[8\]. [7월 11일](../Page/7월_11일.md "wikilink"), 싱글 〈CHANGE〉를 발매해, 메이저 데뷔를 한다\[9\].
 
-[2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink"), 3rd 싱글 〈몬스터의 숨바꼭질/GOOD LOVE with Michelle Branch〉를 발매. 〈GOOD LOVE with Michelle Branch〉에서는, 작사 작곡을 한 [미셸 브랜치와](https://ko.wikipedia.org/wiki/미셸_브랜치 "wikilink") 콜라보레이트를 한다. 캐나다 고교 유학 시절에는, 보컬 클래스에서 그녀의 〈All you wanted〉를 스스로 골라 노래 테스트에 참가했던 일도 있다\[10\].
+[2013년](../Page/2013년.md "wikilink"), 3rd 싱글 〈몬스터의 숨바꼭질/GOOD LOVE with Michelle Branch〉를 발매. 〈GOOD LOVE with Michelle Branch〉에서는, 작사 작곡을 한 [미셸 브랜치와](https://ko.wikipedia.org/wiki/미셸_브랜치 "wikilink") 콜라보레이트를 한다. 캐나다 고교 유학 시절에는, 보컬 클래스에서 그녀의 〈All you wanted〉를 스스로 골라 노래 테스트에 참가했던 일도 있다\[10\].
 
 ## 음반 작품
 
@@ -26,7 +26,7 @@
 <th><p>규격</p></th>
 <th><p>규격 품번</p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/오리콘_차트" title="wikilink">오리콘 차트</a><ref>{{웹 인용</p></th>
-<th><p>title=Rihwa의CD싱글랭킹|work=オリコン芸能人事典|publisher=<a href="https://ko.wikipedia.org/wiki/오리콘" title="wikilink">오리콘</a>|accessdate=2015-08-23}}</ref><br />
+<th><p>title=Rihwa의CD싱글랭킹|work=オリコン芸能人事典|publisher=<a href="../Page/오리콘.md" title="wikilink">오리콘</a>|accessdate=2015-08-23}}</ref><br />
 최고 순위</p></th>
 </tr>
 </thead>
@@ -268,7 +268,7 @@
 <tbody>
 <tr class="odd">
 <td><p>Tell me what you want</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/홋카이도_TV_방송" title="wikilink">홋카이도 TV 방송</a> 《오니기리 데워드릴까요?》 21대째 엔딩 테마</p></td>
+<td><p><a href="../Page/홋카이도_TV_방송.md" title="wikilink">홋카이도 TV 방송</a> 《오니기리 데워드릴까요?》 21대째 엔딩 테마</p></td>
 </tr>
 <tr class="even">
 <td><p>홋카이도 TV 방송 《유메치카 18》 2011년 7월도 엔딩 테마</p></td>
@@ -276,7 +276,7 @@
 </tr>
 <tr class="odd">
 <td><p>CHANGE</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/TV_가나가와" title="wikilink">TV 카나가와</a> 《saku saku》 2012년 6월도 엔딩 테마</p></td>
+<td><p><a href="../Page/TV_가나가와.md" title="wikilink">TV 카나가와</a> 《saku saku》 2012년 6월도 엔딩 테마</p></td>
 </tr>
 <tr class="even">
 <td><p>S.O.S</p></td>
@@ -289,11 +289,11 @@
 </tr>
 <tr class="even">
 <td><p>Don't be afraid!</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/닛폰_TV_방송망" title="wikilink">닛폰 TV</a> 《이브닝 프레스 donna》 오프닝 테마 송</p></td>
+<td><p><a href="../Page/닛폰_TV_방송망.md" title="wikilink">닛폰 TV</a> 《이브닝 프레스 donna》 오프닝 테마 송</p></td>
 </tr>
 <tr class="odd">
 <td><p>Last Love</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후지_TV" title="wikilink">후지 TV</a> 《<a href="../Page/라스트_신데렐라.md" title="wikilink">라스트♡신데렐라</a>》 삽입곡</p></td>
+<td><p><a href="../Page/후지_TV.md" title="wikilink">후지 TV</a> 《<a href="../Page/라스트_신데렐라.md" title="wikilink">라스트♡신데렐라</a>》 삽입곡</p></td>
 </tr>
 <tr class="even">
 <td><p><br />
@@ -306,16 +306,16 @@
 </tr>
 <tr class="even">
 <td><p>CREATURE</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/나라_TV_방송" title="wikilink">나라 TV 방송</a> 《고교 야구 하이라이트 드라마틱 나인》 2014년도 오프닝 테마</p></td>
+<td><p><a href="../Page/나라_TV_방송.md" title="wikilink">나라 TV 방송</a> 《고교 야구 하이라이트 드라마틱 나인》 2014년도 오프닝 테마</p></td>
 </tr>
 <tr class="odd">
 <td><p>TO: Summer</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/도쿄_방송_홀딩스" title="wikilink">TBS</a> 《왕의 브런치》 2015년 6 ~ 7월도 엔딩 테마</p></td>
+<td><p><a href="../Page/도쿄_방송_홀딩스.md" title="wikilink">TBS</a> 《왕의 브런치》 2015년 6 ~ 7월도 엔딩 테마</p></td>
 </tr>
 <tr class="even">
 <td><p><br />
 <small>내일은 분명 좋은 날이 될 거야</small></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/다이하쓰" title="wikilink">다이하츠 공업</a> 〈캐스트 스타일〉 CM 송</p></td>
+<td><p><a href="../Page/다이하쓰.md" title="wikilink">다이하츠 공업</a> 〈캐스트 스타일〉 CM 송</p></td>
 </tr>
 <tr class="odd">
 <td></td>

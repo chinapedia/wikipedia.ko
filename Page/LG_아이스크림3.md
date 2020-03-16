@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LG 3](https://ko.wikipedia.org/wiki/LG_3).
 
 
-**LG 아이스크림3**(LG Ice Cream III, LG-LU2700)은 [LG](https://ko.wikipedia.org/wiki/LG "wikilink")전자가 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink")에 출시한 [휴대 전화이다](https://ko.wikipedia.org/wiki/휴대_전화 "wikilink").
+**LG 아이스크림3**(LG Ice Cream III, LG-LU2700)은 [LG](https://ko.wikipedia.org/wiki/LG "wikilink")전자가 [2011년](../Page/2011년.md "wikilink") [2월](../Page/2월.md "wikilink")에 출시한 [휴대 전화이다](../Page/휴대_전화.md "wikilink").
 
 ## 주요 기능
 

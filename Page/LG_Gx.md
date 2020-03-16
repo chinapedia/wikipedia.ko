@@ -1,21 +1,21 @@
 > This article is converted from Wikipedia: [LG Gx](https://ko.wikipedia.org/wiki/LG_Gx).
 
 
-**LG GX**는 [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")가 [2013년 12월](https://ko.wikipedia.org/wiki/2013년_12월 "wikilink") 17일에 출시한 중상급형 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [패블릿](https://ko.wikipedia.org/wiki/패블릿 "wikilink") [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")이다. [옵티머스 G 프로와](https://ko.wikipedia.org/wiki/옵티머스_G_프로 "wikilink") 달리 노크온과 노크코드를 지원한다. 2014년 4월 F310LR을 추가로 출시하였다
+**LG GX**는 [LG전자](../Page/LG전자.md "wikilink")가 [2013년 12월](../Page/2013년_12월.md "wikilink") 17일에 출시한 중상급형 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [패블릿](../Page/패블릿.md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다. [옵티머스 G 프로와](https://ko.wikipedia.org/wiki/옵티머스_G_프로 "wikilink") 달리 노크온과 노크코드를 지원한다. 2014년 4월 F310LR을 추가로 출시하였다
 
 ## 운영 체제/소프트웨어
 
 ### [안드로이드](https://ko.wikipedia.org/wiki/안드로이드 "wikilink") [4.1.2 젤리빈](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink")
 
-[LG GX는](https://ko.wikipedia.org/wiki/LG_GX "wikilink") [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [12월 17일](https://ko.wikipedia.org/wiki/12월_17일 "wikilink") [안드로이드](https://ko.wikipedia.org/wiki/안드로이드 "wikilink") [4.1.2 젤리빈으로](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 출시하였다. [4.1.2 젤리빈](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 버전은 LG-F310L 모델만 해당된다.
+[LG GX는](https://ko.wikipedia.org/wiki/LG_GX "wikilink") [2013년](../Page/2013년.md "wikilink") [12월 17일](../Page/12월_17일.md "wikilink") [안드로이드](https://ko.wikipedia.org/wiki/안드로이드 "wikilink") [4.1.2 젤리빈으로](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 출시하였다. [4.1.2 젤리빈](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 버전은 LG-F310L 모델만 해당된다.
 
 ### [안드로이드](https://ko.wikipedia.org/wiki/안드로이드 "wikilink") [4.4.2 킷캣](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink")
 
-[2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [5월 12일](https://ko.wikipedia.org/wiki/5월_12일 "wikilink"), [안드로이드](https://ko.wikipedia.org/wiki/안드로이드 "wikilink") [4.4.2 킷캣](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드가 실시되었다. LG-F310LR 모델은 [4.4.2 킷캣](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 버전으로 출시되었다. 화면이 꺼진 상태에서도 잠금을 풀 수 있는 노크 코드가 추가되었고, UI가 개선되었다.
+[2014년](../Page/2014년.md "wikilink") [5월 12일](../Page/5월_12일.md "wikilink"), [안드로이드](https://ko.wikipedia.org/wiki/안드로이드 "wikilink") [4.4.2 킷캣](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드가 실시되었다. LG-F310LR 모델은 [4.4.2 킷캣](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 버전으로 출시되었다. 화면이 꺼진 상태에서도 잠금을 풀 수 있는 노크 코드가 추가되었고, UI가 개선되었다.
 
 ### [안드로이드](https://ko.wikipedia.org/wiki/안드로이드 "wikilink") [5.0.2 롤리팝](https://ko.wikipedia.org/wiki/안드로이드_롤리팝 "wikilink")
 
-[2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [3월 23일](https://ko.wikipedia.org/wiki/3월_23일 "wikilink"), [안드로이드 5.0.2 롤리팝](https://ko.wikipedia.org/wiki/안드로이드_롤리팝 "wikilink") 업데이트가 실시되었다. UI가 [LG G3에](https://ko.wikipedia.org/wiki/LG_G3 "wikilink") 적용되었던 옵티머스 UI 4.0로 바뀌었다.
+[2015년](../Page/2015년.md "wikilink") [3월 23일](../Page/3월_23일.md "wikilink"), [안드로이드 5.0.2 롤리팝](https://ko.wikipedia.org/wiki/안드로이드_롤리팝 "wikilink") 업데이트가 실시되었다. UI가 [LG G3에](../Page/LG_G3.md "wikilink") 적용되었던 옵티머스 UI 4.0로 바뀌었다.
 
 ## 특수 기능
 
@@ -38,7 +38,7 @@
 ## 색상
 
   - [블랙](https://ko.wikipedia.org/wiki/검정 "wikilink")
-  - [화이트](https://ko.wikipedia.org/wiki/하양 "wikilink")
+  - [화이트](../Page/하양.md "wikilink")
   - [블랙 골드](https://ko.wikipedia.org/wiki/금색 "wikilink") (LG-F310LR)
   - [화이트 골드](https://ko.wikipedia.org/wiki/금색 "wikilink") (LG-F310LR)
 

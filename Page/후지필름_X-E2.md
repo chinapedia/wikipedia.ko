@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ X-E2](https://ko.wikipedia.org/wiki/_X-E2).
 
 
-**후지필름 X-E2**은 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") 11월 출시한 후지필름의 [미러리스 렌즈 교환식 카메라이다](https://ko.wikipedia.org/wiki/미러리스_렌즈_교환식_카메라 "wikilink"). [X-Pro1보다](../Page/후지필름_X-Pro1.md "wikilink") 향상된 X-Trans II와, EXR II 프로세서를 탑재했다. [X-E1에서](../Page/후지필름_X-E1.md "wikilink") 하향됐던 LCD 스크린은 다시 3인치 104만 화소로 향상되었으며, [Wi-Fi](https://ko.wikipedia.org/wiki/Wi-Fi "wikilink")를 이용해 다른 무선기기와 공유할 수 있다.
+**후지필름 X-E2**은 [2013년](../Page/2013년.md "wikilink") 11월 출시한 후지필름의 [미러리스 렌즈 교환식 카메라이다](../Page/미러리스_렌즈_교환식_카메라.md "wikilink"). [X-Pro1보다](../Page/후지필름_X-Pro1.md "wikilink") 향상된 X-Trans II와, EXR II 프로세서를 탑재했다. [X-E1에서](../Page/후지필름_X-E1.md "wikilink") 하향됐던 LCD 스크린은 다시 3인치 104만 화소로 향상되었으며, [Wi-Fi](https://ko.wikipedia.org/wiki/Wi-Fi "wikilink")를 이용해 다른 무선기기와 공유할 수 있다.
 
 ## 성능
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [EUR  ](https://ko.wikipedia.org/wiki/EUR__).
 
 
-**EUR 팔라스포르트 역**()은 [로마](https://ko.wikipedia.org/wiki/로마 "wikilink") [EUR에](https://ko.wikipedia.org/wiki/EUR_\(로마\) "wikilink") 위치한 [로마 지하철](https://ko.wikipedia.org/wiki/로마_지하철 "wikilink") [B선의](../Page/로마_지하철_B선.md "wikilink") 역 중 하나다. 이 역은 아메리카 거리(viale America)와 델라 스타시오네 굴리레모 마르코니(piazza della Stazione Guglielmo Marconi) 사이에 위치한다. 이 역은 1955년에 **EUR 마르코니**()라는 이름으로 개통했지만, 후에 새로운 [마르코니 역이](https://ko.wikipedia.org/wiki/마르코니_역 "wikilink") 개통되면서 이 역은 EUR 팔라스포르트 역으로 개칭했다. 역 지상 옆에 존재하는 인공호수는 [1960년 하계 올림픽](https://ko.wikipedia.org/wiki/1960년_하계_올림픽 "wikilink") 당시 건설한 것이다.
+**EUR 팔라스포르트 역**()은 [로마](../Page/로마.md "wikilink") [EUR에](https://ko.wikipedia.org/wiki/EUR_\(로마\) "wikilink") 위치한 [로마 지하철](../Page/로마_지하철.md "wikilink") [B선의](../Page/로마_지하철_B선.md "wikilink") 역 중 하나다. 이 역은 아메리카 거리(viale America)와 델라 스타시오네 굴리레모 마르코니(piazza della Stazione Guglielmo Marconi) 사이에 위치한다. 이 역은 1955년에 **EUR 마르코니**()라는 이름으로 개통했지만, 후에 새로운 [마르코니 역이](https://ko.wikipedia.org/wiki/마르코니_역 "wikilink") 개통되면서 이 역은 EUR 팔라스포르트 역으로 개칭했다. 역 지상 옆에 존재하는 인공호수는 [1960년 하계 올림픽](../Page/1960년_하계_올림픽.md "wikilink") 당시 건설한 것이다.
 
 ## 시설
 

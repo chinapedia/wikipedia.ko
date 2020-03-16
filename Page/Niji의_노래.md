@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Niji ](https://ko.wikipedia.org/wiki/Niji_).
 
 
-〈**Niji의 노래**〉()는, [도모토 쯔요시의](https://ko.wikipedia.org/wiki/도모토_츠요시 "wikilink") 통산 10번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink").
+〈**Niji의 노래**〉()는, [도모토 쯔요시의](../Page/도모토_츠요시.md "wikilink") 통산 10번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 
@@ -15,7 +15,7 @@
       -
         작사·작곡·편곡: 도모토 쯔요시
     <!-- end list -->
-      - [TV 아사히](https://ko.wikipedia.org/wiki/TV_아사히 "wikilink") 계열 《부탁해\! 랭킹》 2011년 9월도 엔딩 테마
+      - [TV 아사히](../Page/TV_아사히.md "wikilink") 계열 《부탁해\! 랭킹》 2011년 9월도 엔딩 테마
 2.  **technologia - ** / <small>**technologia - 의지**</small>
       -
         작사·작곡·편곡: 도모토 쯔요시

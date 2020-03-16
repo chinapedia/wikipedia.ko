@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SHARK](https://ko.wikipedia.org/wiki/SHARK).
 
 
-《**SHARK**》는, [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [1월 11일부터](https://ko.wikipedia.org/wiki/1월_11일 "wikilink") [3월 29일까지](https://ko.wikipedia.org/wiki/3월_29일 "wikilink") [닛폰 TV](https://ko.wikipedia.org/wiki/닛폰_TV_방송망 "wikilink") [계열에서](https://ko.wikipedia.org/wiki/닛폰TV_네트워크_협의회 "wikilink") 매주 [토요일](https://ko.wikipedia.org/wiki/토요일 "wikilink") 24:50 \~ 25:20([JST](https://ko.wikipedia.org/wiki/일본_표준시 "wikilink"))에 방송된 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink"). 2014년 [4월 19일부터](https://ko.wikipedia.org/wiki/4월_19일 "wikilink") [7월 12일까지](https://ko.wikipedia.org/wiki/7월_12일 "wikilink") 방송된 《**SHARK\~2nd Season\~**》에 대해서도 본 항목에서 상술한다.
+《**SHARK**》는, [2014년](../Page/2014년.md "wikilink") [1월 11일부터](../Page/1월_11일.md "wikilink") [3월 29일까지](../Page/3월_29일.md "wikilink") [닛폰 TV](../Page/닛폰_TV_방송망.md "wikilink") [계열에서](https://ko.wikipedia.org/wiki/닛폰TV_네트워크_협의회 "wikilink") 매주 [토요일](../Page/토요일.md "wikilink") 24:50 \~ 25:20([JST](../Page/일본_표준시.md "wikilink"))에 방송된 [일본](../Page/일본.md "wikilink")의 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink"). 2014년 [4월 19일부터](../Page/4월_19일.md "wikilink") [7월 12일까지](../Page/7월_12일.md "wikilink") 방송된 《**SHARK\~2nd Season\~**》에 대해서도 본 항목에서 상술한다.
 
 ## 제1작
 
@@ -13,24 +13,24 @@
 
 #### 록 밴드 〈SHARK〉
 
-  - 쿠라타 미즈키 - [히라노 쇼](../Page/히라노_쇼.md "wikilink") ([칸사이 쟈니즈 Jr.](https://ko.wikipedia.org/wiki/자니스_주니어 "wikilink"))
+  - 쿠라타 미즈키 - [히라노 쇼](../Page/히라노_쇼.md "wikilink") ([칸사이 쟈니즈 Jr.](../Page/자니스_주니어.md "wikilink"))
     보컬 담당.
   - 하기와라 카이 - [하마다 타카히로](../Page/하마다_타카히로.md "wikilink") (칸사이 쟈니즈 Jr.)
     리드 기타 담당.
-  - 류자키 아유무 - 마츠무라 호쿠토 ([쟈니즈 Jr.](https://ko.wikipedia.org/wiki/자니스_주니어 "wikilink"))
+  - 류자키 아유무 - 마츠무라 호쿠토 ([쟈니즈 Jr.](../Page/자니스_주니어.md "wikilink"))
     키보드 담당.
-  - 사토미 켄조 - 이와모토 히카루 ([Snow Man](https://ko.wikipedia.org/wiki/Mis_Snow_Man "wikilink"))
+  - 사토미 켄조 - 이와모토 히카루 ([Snow Man](../Page/Mis_Snow_Man.md "wikilink"))
     드럼 담당.
-  - 아다치 텟페이 - [카미야마 토모히로](https://ko.wikipedia.org/wiki/카미야마_토모히로 "wikilink") (칸사이 쟈니즈 Jr.)
+  - 아다치 텟페이 - [카미야마 토모히로](../Page/카미야마_토모히로.md "wikilink") (칸사이 쟈니즈 Jr.)
     사이드 기타 담당.
-  - 키타가와 카즈키 - [후지이 류세이](https://ko.wikipedia.org/wiki/후지이_류세이 "wikilink") (칸사이 쟈니즈 Jr.)
+  - 키타가와 카즈키 - [후지이 류세이](../Page/후지이_류세이.md "wikilink") (칸사이 쟈니즈 Jr.)
     전 보컬. 1년 전에 바이크 사고로 타계.
 
 #### 원더 레코드
 
   - 코마츠 이치카 - 야마시타 리오
     사원.
-  - 오오카와 미쿠 - [마노 에리나](https://ko.wikipedia.org/wiki/마노_에리나 "wikilink")
+  - 오오카와 미쿠 - [마노 에리나](../Page/마노_에리나.md "wikilink")
     코마츠의 후배 사원. 구(旧)성:마츠무라.
   - 요시무라 타카히로 - 오카다 코키
     부장으로, 코마츠의 상사.
@@ -39,7 +39,7 @@
 
 #### 그 외
 
-  - 콘노 카에데 - [카와에이 리나](https://ko.wikipedia.org/wiki/카와에이_리나 "wikilink") ([AKB48](https://ko.wikipedia.org/wiki/AKB48 "wikilink"))
+  - 콘노 카에데 - [카와에이 리나](../Page/카와에이_리나.md "wikilink") ([AKB48](../Page/AKB48.md "wikilink"))
     미즈키의 소꿉친구로, 〈Roller Coast〉의 점원.
   - 오노데라 - 우지키 츠요시
     카이가 일하는 악기점의 사장.
@@ -173,7 +173,7 @@
 </tr>
 <tr class="odd">
 <td><p>평균 시청률 2.4%[1]<br />
-(시청률은 <a href="https://ko.wikipedia.org/wiki/간토_지방" title="wikilink">칸토 지구</a>·<a href="https://ko.wikipedia.org/wiki/비디오_리서치" title="wikilink">비디오 리서치사</a> 조사)</p></td>
+(시청률은 <a href="../Page/간토_지방.md" title="wikilink">칸토 지구</a>·<a href="../Page/비디오_리서치.md" title="wikilink">비디오 리서치사</a> 조사)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -183,7 +183,7 @@
 
 ## 제2작
 
-《**SHARK\~2nd Season\~**》은, [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [4월 19일부터](https://ko.wikipedia.org/wiki/4월_19일 "wikilink") [7월 12일까지](https://ko.wikipedia.org/wiki/7월_12일 "wikilink") [닛폰 TV](https://ko.wikipedia.org/wiki/닛폰_TV_방송망 "wikilink") [계열에서](https://ko.wikipedia.org/wiki/닛폰TV_네트워크_협의회 "wikilink") 매주 [토요일](https://ko.wikipedia.org/wiki/토요일 "wikilink") 24:50 \~ 25:20([JST](https://ko.wikipedia.org/wiki/일본_표준시 "wikilink"))에 방송된 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink"). 주연은 [시게오카 다이키](https://ko.wikipedia.org/wiki/시게오카_다이키 "wikilink"). [캐치프레이즈](https://ko.wikipedia.org/wiki/캐치프레이즈 "wikilink")는, 〈**손을 뻗어. 닿지 않는다 해도――.**〉.
+《**SHARK\~2nd Season\~**》은, [2014년](../Page/2014년.md "wikilink") [4월 19일부터](../Page/4월_19일.md "wikilink") [7월 12일까지](../Page/7월_12일.md "wikilink") [닛폰 TV](../Page/닛폰_TV_방송망.md "wikilink") [계열에서](https://ko.wikipedia.org/wiki/닛폰TV_네트워크_협의회 "wikilink") 매주 [토요일](../Page/토요일.md "wikilink") 24:50 \~ 25:20([JST](../Page/일본_표준시.md "wikilink"))에 방송된 [일본](../Page/일본.md "wikilink")의 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink"). 주연은 [시게오카 다이키](../Page/시게오카_다이키.md "wikilink"). [캐치프레이즈](https://ko.wikipedia.org/wiki/캐치프레이즈 "wikilink")는, 〈**손을 뻗어. 닿지 않는다 해도――.**〉.
 
 ### 줄거리
 
@@ -191,22 +191,22 @@
 
 #### 록 밴드 〈Cloud5〉
 
-  - 이리에 사쿠 - [시게오카 다이키](https://ko.wikipedia.org/wiki/시게오카_다이키 "wikilink") ([쟈니즈WEST](../Page/자니스WEST.md "wikilink"))
+  - 이리에 사쿠 - [시게오카 다이키](../Page/시게오카_다이키.md "wikilink") ([쟈니즈WEST](../Page/자니스WEST.md "wikilink"))
     베이스 담당.
   - 하기와라 카이 - [하마다 타카히로](../Page/하마다_타카히로.md "wikilink") (쟈니즈WEST)
     기타 담당. 〈SHARK〉의 리더. 서브 멤버로서 〈Cloud5〉에 참가.
-  - 사토 아루토 - 아베 아란 ([쟈니즈 Jr.](https://ko.wikipedia.org/wiki/자니스_주니어 "wikilink"))
+  - 사토 아루토 - 아베 아란 ([쟈니즈 Jr.](../Page/자니스_주니어.md "wikilink"))
     보컬 담당.
   - 오가와 하루야 - 하기야 케이고 (쟈니즈 Jr.)
     드럼 담당.
 
 #### 록 밴드 〈Behind the Scene〉
 
-  - 신도 코타 - [야스이 켄타로](https://ko.wikipedia.org/wiki/야스이_켄타로 "wikilink") (쟈니즈 Jr.)
+  - 신도 코타 - [야스이 켄타로](../Page/야스이_켄타로.md "wikilink") (쟈니즈 Jr.)
     기타 담당.
   - 키타가와 아사히 - 이와하시 겡키 (쟈니즈 Jr.)
     보컬 담당.
-  - 히가시 레오 - [진구지 유타](https://ko.wikipedia.org/wiki/진구지_유타 "wikilink") (쟈니즈 Jr.)
+  - 히가시 레오 - [진구지 유타](../Page/진구지_유타.md "wikilink") (쟈니즈 Jr.)
     기타 담당.
   - 콘노 미나미 - 마츠쿠라 카이토 (쟈니즈 Jr.)
     키보드 담당.
@@ -215,15 +215,15 @@
 
 #### 록 밴드 〈SHARK〉
 
-  - 아다치 텟페이 - [카미야마 토모히로](https://ko.wikipedia.org/wiki/카미야마_토모히로 "wikilink") (쟈니즈WEST)
+  - 아다치 텟페이 - [카미야마 토모히로](../Page/카미야마_토모히로.md "wikilink") (쟈니즈WEST)
     사이드 기타 담당.
-  - 키타가와 카즈키 - [후지이 류세이](https://ko.wikipedia.org/wiki/후지이_류세이 "wikilink") (쟈니즈WEST)
+  - 키타가와 카즈키 - [후지이 류세이](../Page/후지이_류세이.md "wikilink") (쟈니즈WEST)
     전 보컬. 1년 전에 바이크 사고로 타계.
-  - 쿠라타 미즈키 - [히라노 쇼](../Page/히라노_쇼.md "wikilink") ([칸사이 쟈니즈 Jr.](https://ko.wikipedia.org/wiki/자니스_주니어 "wikilink"))
+  - 쿠라타 미즈키 - [히라노 쇼](../Page/히라노_쇼.md "wikilink") ([칸사이 쟈니즈 Jr.](../Page/자니스_주니어.md "wikilink"))
     보컬 담당.
   - 류자키 아유무 - 마츠무라 호쿠토 (쟈니즈 Jr.)
     키보드 담당.
-  - 사토미 켄조 - 이와모토 히카루 ([Snow Man](https://ko.wikipedia.org/wiki/Mis_Snow_Man "wikilink"))
+  - 사토미 켄조 - 이와모토 히카루 ([Snow Man](../Page/Mis_Snow_Man.md "wikilink"))
     드럼 담당.
 
 #### 원더 레코드
@@ -238,7 +238,7 @@
   - 요네자와 마코토 - [카에데](../Page/카에데.md "wikilink") ([E-girls](../Page/E-girls.md "wikilink"))
     사쿠, 코타의 룸 메이트. 프로 댄서 지망.
 
-  - 마츠유키 - [토요하라 코스케](https://ko.wikipedia.org/wiki/토요하라_코스케 "wikilink")
+  - 마츠유키 - [토요하라 코스케](../Page/토요하라_코스케.md "wikilink")
     음악 프로듀서.
 
   - 사만다 - IVAN
@@ -253,7 +253,7 @@
 
   - 각본 - 쿠와무라 사야카, 하야부네 카에코
   - 감독 - 니시무라 료, 혼다 류이치, 나카쿠키 츠요시, 고토 코타로
-  - 주제가 - [쟈니즈WEST](../Page/자니스WEST.md "wikilink") 〈[그 앞에…](https://ko.wikipedia.org/wiki/에에쟈나이카 "wikilink")〉 ([쟈니즈 엔터테인먼트](https://ko.wikipedia.org/wiki/자니스_엔터테인먼트 "wikilink"))
+  - 주제가 - [쟈니즈WEST](../Page/자니스WEST.md "wikilink") 〈[그 앞에…](https://ko.wikipedia.org/wiki/에에쟈나이카 "wikilink")〉 ([쟈니즈 엔터테인먼트](../Page/자니스_엔터테인먼트.md "wikilink"))
   - 제작 - 후쿠시 아츠시
   - 프로듀스 - 우에노 히로유키, 사카시타 테츠야, 마에하타 사치코
   - 기획 제작 - 닛폰 TV
@@ -352,7 +352,7 @@
 </table>
 
   - 5월 24일은 《테고시의 사커 어스》 방송 때문에 휴지.
-  - 6월 21일은 《[2014 FIFA 월드컵](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵 "wikilink") 〈[아르헨티나](https://ko.wikipedia.org/wiki/아르헨티나_축구_국가대표팀 "wikilink")×[이란](https://ko.wikipedia.org/wiki/이란_축구_국가대표팀 "wikilink")〉》 방송 때문에 휴지.
+  - 6월 21일은 《[2014 FIFA 월드컵](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵 "wikilink") 〈[아르헨티나](https://ko.wikipedia.org/wiki/아르헨티나_축구_국가대표팀 "wikilink")×[이란](../Page/이란_축구_국가대표팀.md "wikilink")〉》 방송 때문에 휴지.
   - 7월 12일의 최종회는 제11화와 제12화를 25:00 \~ 26:00의 1시간 확대해 일거 방송.
 
 ## 각주

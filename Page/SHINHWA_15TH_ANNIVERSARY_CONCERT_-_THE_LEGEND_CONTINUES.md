@@ -24,7 +24,7 @@
 <td><p>2013년 3월 16일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/서울" title="wikilink">서울</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/올림픽체조경기장" title="wikilink">올림픽체조경기장</a>[2]</p></td>
+<td><p><a href="../Page/올림픽체조경기장.md" title="wikilink">올림픽체조경기장</a>[2]</p></td>
 <td><p>통산 27,000명</p></td>
 </tr>
 <tr class="even">
@@ -64,8 +64,8 @@
 <td style="text-align: left;"><p>DVD</p></td>
 <td style="text-align: left;"><p>SHINHWA 15TH ANNIVERSARY CONCERT 《THE LEGEND CONTINUES》 DVD (한정 생산)</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2013년" title="wikilink">2013년</a> <a href="https://ko.wikipedia.org/wiki/11월_27일" title="wikilink">11월 27일</a> (일본)<br />
-<a href="https://ko.wikipedia.org/wiki/2013년" title="wikilink">2013년</a> <a href="https://ko.wikipedia.org/wiki/12월_13일" title="wikilink">12월 13일</a> (한국)</li>
+<li>발매일 : <a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/11월_27일.md" title="wikilink">11월 27일</a> (일본)<br />
+<a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/12월_13일.md" title="wikilink">12월 13일</a> (한국)</li>
 </ul></td>
 </tr>
 </tbody>

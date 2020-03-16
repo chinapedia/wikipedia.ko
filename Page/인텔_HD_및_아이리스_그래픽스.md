@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ HD   ](https://ko.wikipedia.org/wiki/_HD___).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Intel_core_i5-2500_top_IMGP9336_wp.jpg "wikilink") **인텔 HD 그래픽스**(Intel HD Graphics)는 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink")에 발표된 [인텔](https://ko.wikipedia.org/wiki/인텔 "wikilink")의 내장 [GPU](https://ko.wikipedia.org/wiki/그래픽_처리_장치 "wikilink") 시리즈이다. [마더보드](https://ko.wikipedia.org/wiki/마더보드 "wikilink")에 그래픽 프로세서가 탑재된 종전의 [인텔 GMA와](https://ko.wikipedia.org/wiki/인텔_GMA "wikilink") 달리, 인텔 HD 그래픽스는 [CPU와](https://ko.wikipedia.org/wiki/중앙_처리_장치 "wikilink") 같은 다이에 탑재되어 [APU를](https://ko.wikipedia.org/wiki/가속_처리_장치 "wikilink") 이룬다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Intel_core_i5-2500_top_IMGP9336_wp.jpg "wikilink") **인텔 HD 그래픽스**(Intel HD Graphics)는 [2010년](../Page/2010년.md "wikilink")에 발표된 [인텔](../Page/인텔.md "wikilink")의 내장 [GPU](../Page/그래픽_처리_장치.md "wikilink") 시리즈이다. [마더보드](https://ko.wikipedia.org/wiki/마더보드 "wikilink")에 그래픽 프로세서가 탑재된 종전의 [인텔 GMA와](../Page/인텔_GMA.md "wikilink") 달리, 인텔 HD 그래픽스는 [CPU와](../Page/중앙_처리_장치.md "wikilink") 같은 다이에 탑재되어 [APU를](https://ko.wikipedia.org/wiki/가속_처리_장치 "wikilink") 이룬다.
 
 **인텔 아이리스 그래픽스**(Intel Iris Graphics)와 **인텔 아이리스 프로 그래픽스**(Intel Iris Pro Graphics)는 2013년에 고성능 버전의 HD 그래픽스로서 [해스웰](https://ko.wikipedia.org/wiki/해스웰_\(마이크로아키텍처\) "wikilink") 프로세서의 일부 모델에 도입되었다. 아이리스 프로의 경우 [임베디드 DRAM을](https://ko.wikipedia.org/wiki/eDRAM "wikilink") 포함한 첫 시리즈이다.\[1\]
 
@@ -64,7 +64,7 @@
 
 ### 스카이레이크
 
-[스카이레이크](https://ko.wikipedia.org/wiki/스카이레이크_\(마이크로아키텍처\) "wikilink") 계열의 프로세서는 [VGA](https://ko.wikipedia.org/wiki/VGA_단자 "wikilink") 지원을 제거하는 한편, HDMI 1.4, 디스플레이포트 1.2, 임베디드 디스플레이포트(eDP) 1.3 인터페이스를 통해 [다중 모니터](https://ko.wikipedia.org/wiki/다중_모니터 "wikilink") 설정을 최대 3대의 모니터까지 지원한다.\[2\]\[3\]
+[스카이레이크](../Page/스카이레이크_\(마이크로아키텍처\).md "wikilink") 계열의 프로세서는 [VGA](../Page/VGA_단자.md "wikilink") 지원을 제거하는 한편, HDMI 1.4, 디스플레이포트 1.2, 임베디드 디스플레이포트(eDP) 1.3 인터페이스를 통해 [다중 모니터](../Page/다중_모니터.md "wikilink") 설정을 최대 3대의 모니터까지 지원한다.\[2\]\[3\]
 
 | 시장                     | 모델 번호            | 티어  | 실행 단위 | eDRAM (MB) | 클럭 속도 (MHz) | GFLOPS |
 | ---------------------- | ---------------- | --- | ----- | ---------- | ----------- | ------ |

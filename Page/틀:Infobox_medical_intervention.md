@@ -19,7 +19,7 @@
 
 | label6 = [ICD-9](https://ko.wikipedia.org/wiki/ICD-9-CM_제3권 "wikilink") | data6 =
 
-| label7 = [MeSH](https://ko.wikipedia.org/wiki/의학주제표목 "wikilink") | data7 = {{\#if:|<span class="reflink plainlinks nourlexpansion">\[<https://www.nlm.nih.gov/cgi/mesh/>/MB_cgi?field=uid\&term= \]</span>}}
+| label7 = [MeSH](../Page/의학주제표목.md "wikilink") | data7 = {{\#if:|<span class="reflink plainlinks nourlexpansion">\[<https://www.nlm.nih.gov/cgi/mesh/>/MB_cgi?field=uid\&term= \]</span>}}
 
 | label8 = [OPS-301](https://ko.wikipedia.org/wiki/OPS-301 "wikilink") 코드 | data8 =
 

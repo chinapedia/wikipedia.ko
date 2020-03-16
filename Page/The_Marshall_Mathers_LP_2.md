@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Marshall Mathers LP 2](https://ko.wikipedia.org/wiki/The_Marshall_Mathers_LP_2).
 
 
-***The Marshall Mathers LP 2***는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [힙합](https://ko.wikipedia.org/wiki/힙합 "wikilink") 가수 [에미넴](https://ko.wikipedia.org/wiki/에미넴 "wikilink")의 앨범이다. [리한나](https://ko.wikipedia.org/wiki/리한나 "wikilink"), [스카일라 그레이](https://ko.wikipedia.org/wiki/스카일라_그레이 "wikilink"), [켄드릭 라마](https://ko.wikipedia.org/wiki/켄드릭_라마 "wikilink") 등 유명한 가수들이 [피쳐링](https://ko.wikipedia.org/wiki/피쳐링 "wikilink")에 참여했다.
+***The Marshall Mathers LP 2***는 [미국](../Page/미국.md "wikilink")의 [힙합](../Page/힙합.md "wikilink") 가수 [에미넴](https://ko.wikipedia.org/wiki/에미넴 "wikilink")의 앨범이다. [리한나](../Page/리한나.md "wikilink"), [스카일라 그레이](https://ko.wikipedia.org/wiki/스카일라_그레이 "wikilink"), [켄드릭 라마](../Page/켄드릭_라마.md "wikilink") 등 유명한 가수들이 [피쳐링](https://ko.wikipedia.org/wiki/피쳐링 "wikilink")에 참여했다.
 
 ## 수록곡
 
@@ -40,7 +40,7 @@ Lou Donaldson</p></td>
 "Fight for Your Right"<br />
 "Feel Me Flow"</p></td>
 <td><p>Billy Squier<br />
-<a href="https://ko.wikipedia.org/wiki/비스티_보이즈" title="wikilink">Beastie Boys</a><br />
+<a href="../Page/비스티_보이즈.md" title="wikilink">Beastie Boys</a><br />
 Naughty by Nature</p></td>
 </tr>
 <tr class="even">

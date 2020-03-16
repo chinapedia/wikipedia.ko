@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Shamanippon - -](https://ko.wikipedia.org/wiki/Shamanippon_-_-).
 
 
-《**shamanippon -힘 의람사-**》()는, [도모토 쯔요시의](https://ko.wikipedia.org/wiki/도모토_츠요시 "wikilink") 통상 7번째 [정규 음반이다](https://ko.wikipedia.org/wiki/정규_음반 "wikilink").
+《**shamanippon -힘 의람사-**》()는, [도모토 쯔요시의](../Page/도모토_츠요시.md "wikilink") 통상 7번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
 
 ## 개요
 
-정규 음반으로서는, [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") 발매한 《[아름다움 나 하늘 - 비 가 쿠 \~ my beautiful sky](../Page/아름다움_나_하늘_-_비_가_쿠_~_my_beautiful_sky.md "wikilink")》 이래로, 약 3년 만의 음반이다.
+정규 음반으로서는, [2009년](../Page/2009년.md "wikilink") 발매한 《[아름다움 나 하늘 - 비 가 쿠 \~ my beautiful sky](../Page/아름다움_나_하늘_-_비_가_쿠_~_my_beautiful_sky.md "wikilink")》 이래로, 약 3년 만의 음반이다.
 
 부제 〈힘 의람사(라카치노토히)〉는, 거꾸로 읽으면 〈사람의 힘(히토노치카라)〉이 된다.
 

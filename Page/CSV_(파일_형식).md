@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [CSV \( \)](https://ko.wikipedia.org/wiki/CSV_\(_\)).
 
 
-**CSV**()는 몇 가지 필드를 [쉼표](https://ko.wikipedia.org/wiki/쉼표_\(문장_부호\) "wikilink")(,)로 구분한 [텍스트](https://ko.wikipedia.org/wiki/텍스트 "wikilink") 데이터 및 텍스트 파일이다. 확장자는 .csv이며 [MIME 형식은](https://ko.wikipedia.org/wiki/MIME "wikilink") text/csv이다. **comma-separated variables**라고도 한다.
+**CSV**()는 몇 가지 필드를 [쉼표](../Page/쉼표_\(문장_부호\).md "wikilink")(,)로 구분한 [텍스트](https://ko.wikipedia.org/wiki/텍스트 "wikilink") 데이터 및 텍스트 파일이다. 확장자는 .csv이며 [MIME 형식은](../Page/MIME.md "wikilink") text/csv이다. **comma-separated variables**라고도 한다.
 
-오래전부터 [스프레드시트](https://ko.wikipedia.org/wiki/스프레드시트 "wikilink")나 [데이터베이스](https://ko.wikipedia.org/wiki/데이터베이스 "wikilink") 소프트웨어에서 많이 쓰였으나 세부적인 [구현](https://ko.wikipedia.org/wiki/구현 "wikilink")은 소프트웨어에 따라 다르다. 그것들을 추가한 형태가 2005년 10월 RFC 4180에서 Informational([IESG](https://ko.wikipedia.org/wiki/IESG "wikilink")의 외부에서 결정된 유용한 정보의 제공)로 사양이 문서화됐다.
+오래전부터 [스프레드시트](../Page/스프레드시트.md "wikilink")나 [데이터베이스](../Page/데이터베이스.md "wikilink") 소프트웨어에서 많이 쓰였으나 세부적인 [구현](../Page/구현.md "wikilink")은 소프트웨어에 따라 다르다. 그것들을 추가한 형태가 2005년 10월 RFC 4180에서 Informational([IESG](https://ko.wikipedia.org/wiki/IESG "wikilink")의 외부에서 결정된 유용한 정보의 제공)로 사양이 문서화됐다.
 
 비슷한 포맷으로는 탭으로 구분하는 'tab-separated values'(TSV)나, 반각 스페이스로 구분하는 'space-separated values'(SSV) 등이 있으며, 이것들을 합쳐서 character-separated values (CSV), delimiter-separated values라고 부르는 경우가 많다.
 
@@ -11,14 +11,14 @@
 
 RFC 4180 은 CSV 포맷을 위한 사양을 제안하며 이것이 흔히 사용되는 정의이다. 그러나 대중적으로 사용되는 "CSV"는 하나의 잘 정의된 형식은 아니다. 그러므로 "CSV"는 실질적으로 다음을 가리키는 어느 파일이 될 수 있다:
 
-1.  [ASCII](https://ko.wikipedia.org/wiki/ASCII "wikilink"), 다양한 [유니코드](https://ko.wikipedia.org/wiki/유니코드 "wikilink") 문자 집합(예: [UTF-8](https://ko.wikipedia.org/wiki/UTF-8 "wikilink")), [EBCDIC](https://ko.wikipedia.org/wiki/EBCDIC "wikilink"), [Shift JIS와](https://ko.wikipedia.org/wiki/Shift_JIS "wikilink") 같은 문자 집합을 사용하는 [플레인 텍스트](../Page/플레인_텍스트.md "wikilink")
+1.  [ASCII](https://ko.wikipedia.org/wiki/ASCII "wikilink"), 다양한 [유니코드](../Page/유니코드.md "wikilink") 문자 집합(예: [UTF-8](../Page/UTF-8.md "wikilink")), [EBCDIC](https://ko.wikipedia.org/wiki/EBCDIC "wikilink"), [Shift JIS와](../Page/Shift_JIS.md "wikilink") 같은 문자 집합을 사용하는 [플레인 텍스트](../Page/플레인_텍스트.md "wikilink")
 2.  [레코드](https://ko.wikipedia.org/wiki/레코드 "wikilink")로 이루어져 있음 (줄 당 하나의 레코드인 것이 보통)
 3.  여러 개의 필드로 나누니 레코드. [구분 문자](../Page/구분_문자.md "wikilink")(일반적으로 쉼표, 세미콜론, 탭과 같은 하나의 예비 문자. 가끔 선택적 스페이스를 포함할 수 있음.)로 구별.
 4.  모든 레코드가 동일한 시퀀스의 필드를 가진다
 
 ## 역사
 
-CSV는 개인용 컴퓨터 역사 중 10년 이상의 역사를 지닌 데이터 포맷의 하나이다. 1972년에 CSV를 지원한 [OS/360](https://ko.wikipedia.org/wiki/OS/360 "wikilink")용 [IBM 포트란](https://ko.wikipedia.org/wiki/IBM "wikilink")(레벨 H 확장) 컴파일러를 예로 들 수 있다.\[1\]
+CSV는 개인용 컴퓨터 역사 중 10년 이상의 역사를 지닌 데이터 포맷의 하나이다. 1972년에 CSV를 지원한 [OS/360](https://ko.wikipedia.org/wiki/OS/360 "wikilink")용 [IBM 포트란](../Page/IBM.md "wikilink")(레벨 H 확장) 컴파일러를 예로 들 수 있다.\[1\]
 
 ## 사용처
 

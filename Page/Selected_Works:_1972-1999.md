@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Selected Works: 1972-1999](https://ko.wikipedia.org/wiki/Selected_Works:_1972-1999).
 
 
-***Selected Works: 1972–1999***는 미국의 록 밴드 [이글스](https://ko.wikipedia.org/wiki/이글스 "wikilink")의 베스트 앨범 박스 세트이다. 2000년 발매되었다. 박스는 장르별 베스트 음반과 라이브 공연 실황이 포함되어있는 4개의 CD와 44페이지의 책자로 구성되어있다. 이 세트는 1972년 이글스의 데뷔시절부터 1999년 밀레니멈 콘서트까지의 이야기가 들어있다.
+***Selected Works: 1972–1999***는 미국의 록 밴드 [이글스](../Page/이글스.md "wikilink")의 베스트 앨범 박스 세트이다. 2000년 발매되었다. 박스는 장르별 베스트 음반과 라이브 공연 실황이 포함되어있는 4개의 CD와 44페이지의 책자로 구성되어있다. 이 세트는 1972년 이글스의 데뷔시절부터 1999년 밀레니멈 콘서트까지의 이야기가 들어있다.
 
 ## 트랙 리스트
 

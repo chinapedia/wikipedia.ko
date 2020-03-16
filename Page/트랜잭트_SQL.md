@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [ SQL](https://ko.wikipedia.org/wiki/_SQL).
 
 
-**트랜잭트 SQL**()은 [마이크로소프트](https://ko.wikipedia.org/wiki/마이크로소프트 "wikilink")와 [사이베이스](https://ko.wikipedia.org/wiki/사이베이스 "wikilink")가 [SQL](https://ko.wikipedia.org/wiki/SQL "wikilink")(구조 질의어)에 기능을 확장한 것이다. T-SQL은 SQL 표준 상에서 확장하여 문자열 처리, 날짜 처리, 계산 등을 위한 다양한 지원 함수, [DELETE](https://ko.wikipedia.org/wiki/DELETE "wikilink") 및 [UPDATE](https://ko.wikipedia.org/wiki/UPDATE "wikilink") 문에 대한 변경, [절차적 프로그래밍](https://ko.wikipedia.org/wiki/절차적_프로그래밍 "wikilink"), [지역 변수를](https://ko.wikipedia.org/wiki/지역_변수 "wikilink") 포함한다. 이러한 부가 기능들은 트랜잭트 SQL을 [튜링 완전으로](https://ko.wikipedia.org/wiki/튜링_완전 "wikilink") 만든다.
+**트랜잭트 SQL**()은 [마이크로소프트](../Page/마이크로소프트.md "wikilink")와 [사이베이스](https://ko.wikipedia.org/wiki/사이베이스 "wikilink")가 [SQL](../Page/SQL.md "wikilink")(구조 질의어)에 기능을 확장한 것이다. T-SQL은 SQL 표준 상에서 확장하여 문자열 처리, 날짜 처리, 계산 등을 위한 다양한 지원 함수, [DELETE](https://ko.wikipedia.org/wiki/DELETE "wikilink") 및 [UPDATE](https://ko.wikipedia.org/wiki/UPDATE "wikilink") 문에 대한 변경, [절차적 프로그래밍](../Page/절차적_프로그래밍.md "wikilink"), [지역 변수를](../Page/지역_변수.md "wikilink") 포함한다. 이러한 부가 기능들은 트랜잭트 SQL을 [튜링 완전으로](https://ko.wikipedia.org/wiki/튜링_완전 "wikilink") 만든다.
 
 참고로 SQL의 오라클판 확장은 [PL/SQL](https://ko.wikipedia.org/wiki/PL/SQL "wikilink")이다.
 
-트랜잭트 SQL은 [마이크로소프트 SQL 서버](https://ko.wikipedia.org/wiki/마이크로소프트_SQL_서버 "wikilink") 사용 시에 주요하다. SQL 서버 인스턴스와 통신하는 모든 애플리케이션들은 애플리케이션의 사용자 인터페이스에 관계 없이 트랜잭트 SQL 문을 서버에 송신함으로써 이 일을 처리한다.
+트랜잭트 SQL은 [마이크로소프트 SQL 서버](../Page/마이크로소프트_SQL_서버.md "wikilink") 사용 시에 주요하다. SQL 서버 인스턴스와 통신하는 모든 애플리케이션들은 애플리케이션의 사용자 인터페이스에 관계 없이 트랜잭트 SQL 문을 서버에 송신함으로써 이 일을 처리한다.
 
 ## 변수
 

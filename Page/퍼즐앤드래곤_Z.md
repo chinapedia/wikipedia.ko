@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [ Z](https://ko.wikipedia.org/wiki/_Z).
 
 
-《**퍼즐앤드래곤 Z**》는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [12월 12일에](https://ko.wikipedia.org/wiki/12월_12일 "wikilink") [닌텐도](https://ko.wikipedia.org/wiki/닌텐도 "wikilink"), [겅호](https://ko.wikipedia.org/wiki/겅호 "wikilink")가 공동 출시한 [닌텐도 3DS](https://ko.wikipedia.org/wiki/닌텐도_3DS "wikilink") 소프트웨어이다.
+《**퍼즐앤드래곤 Z**》는 [일본](../Page/일본.md "wikilink")에서 [2013년](../Page/2013년.md "wikilink") [12월 12일에](../Page/12월_12일.md "wikilink") [닌텐도](../Page/닌텐도.md "wikilink"), [겅호](https://ko.wikipedia.org/wiki/겅호 "wikilink")가 공동 출시한 [닌텐도 3DS](../Page/닌텐도_3DS.md "wikilink") 소프트웨어이다.
 
 ## 줄거리
 
-[드래곤](https://ko.wikipedia.org/wiki/드래곤 "wikilink"), 즉 [용](https://ko.wikipedia.org/wiki/용 "wikilink")과 [사람](https://ko.wikipedia.org/wiki/사람 "wikilink")이 함께 살아가는 [섬](https://ko.wikipedia.org/wiki/섬 "wikilink")인 **드라크메시아**에 사는 주인공은 어느 날, 각각 **메라곤**, **자브곤**, **모리곤**을 연구원들에게 선물받는다. 그러다 [악](https://ko.wikipedia.org/wiki/악 "wikilink")의 집단인 **패러독스**의 리더 **도그마**와 맞닥뜨리게 된다.
+[드래곤](../Page/드래곤.md "wikilink"), 즉 [용](../Page/용.md "wikilink")과 [사람](../Page/사람.md "wikilink")이 함께 살아가는 [섬](../Page/섬.md "wikilink")인 **드라크메시아**에 사는 주인공은 어느 날, 각각 **메라곤**, **자브곤**, **모리곤**을 연구원들에게 선물받는다. 그러다 [악](https://ko.wikipedia.org/wiki/악 "wikilink")의 집단인 **패러독스**의 리더 **도그마**와 맞닥뜨리게 된다.
 
 ## 등장인물 (주인공을 다루는 문서는 이 문서의 시스템 소개 문서에 있으므로 제외.)
 
-### [시럽](https://ko.wikipedia.org/wiki/시럽 "wikilink")
+### [시럽](../Page/시럽.md "wikilink")
 
-자신을 [드래곤](https://ko.wikipedia.org/wiki/드래곤 "wikilink")의 [아기](https://ko.wikipedia.org/wiki/아기 "wikilink")라 주장하는 인물. [노란색의](https://ko.wikipedia.org/wiki/노랑 "wikilink") [뿔](https://ko.wikipedia.org/wiki/뿔 "wikilink")과 [하늘색](https://ko.wikipedia.org/wiki/하늘색 "wikilink")의 [날개](https://ko.wikipedia.org/wiki/날개 "wikilink")가 1쌍 달려 있으며, 도그마의 폭주를 막기 위해 주인공을 지키려 노력하고 있다. 참고로 초중반에는 모습을 전혀 바꾸지 않으며, 후반부에 가서야 본모습이 드러나는데 이때 본모습은 **명천룡 젤크레어**이다.
+자신을 [드래곤](../Page/드래곤.md "wikilink")의 [아기](../Page/아기.md "wikilink")라 주장하는 인물. [노란색의](../Page/노랑.md "wikilink") [뿔](https://ko.wikipedia.org/wiki/뿔 "wikilink")과 [하늘색](../Page/하늘색.md "wikilink")의 [날개](../Page/날개.md "wikilink")가 1쌍 달려 있으며, 도그마의 폭주를 막기 위해 주인공을 지키려 노력하고 있다. 참고로 초중반에는 모습을 전혀 바꾸지 않으며, 후반부에 가서야 본모습이 드러나는데 이때 본모습은 **명천룡 젤크레어**이다.
 
 ### [7대 천공룡](https://ko.wikipedia.org/wiki/7대_천공룡 "wikilink")
 
@@ -49,11 +49,11 @@
 
 #### 지룡왕 [아발론](https://ko.wikipedia.org/wiki/아발론 "wikilink")
 
-행동과 말투로 보아 [아발론 드레이크를](https://ko.wikipedia.org/wiki/아발론_드레이크 "wikilink") 모시는 사제로 보인다. [2쌍의 팔에 1쌍의 다리가 달려있다.](https://ko.wikipedia.org/wiki/곤충 "wikilink")
+행동과 말투로 보아 [아발론 드레이크를](https://ko.wikipedia.org/wiki/아발론_드레이크 "wikilink") 모시는 사제로 보인다. [2쌍의 팔에 1쌍의 다리가 달려있다.](../Page/곤충.md "wikilink")
 
 #### 쿠쿠로
 
-지룡왕 아발론을 따르는 부하이자 [애완동물](https://ko.wikipedia.org/wiki/애완동물 "wikilink")(?)인 신관 내지 사제. [보랏빛의](https://ko.wikipedia.org/wiki/보라 "wikilink") 폭탄머리를 하고 있으며, 음흉하게 웃고 있는 듯한 표정이 트레이드 마크. 그래서인지 공격할 때의 울음소리가 음흉한 웃음소리에 더욱 가깝게 들리는데, 이 때 동공이 변하면서 [입](https://ko.wikipedia.org/wiki/입 "wikilink")이 벌어지는 모습이 나타난다.
+지룡왕 아발론을 따르는 부하이자 [애완동물](../Page/애완동물.md "wikilink")(?)인 신관 내지 사제. [보랏빛의](../Page/보라.md "wikilink") 폭탄머리를 하고 있으며, 음흉하게 웃고 있는 듯한 표정이 트레이드 마크. 그래서인지 공격할 때의 울음소리가 음흉한 웃음소리에 더욱 가깝게 들리는데, 이 때 동공이 변하면서 [입](https://ko.wikipedia.org/wiki/입 "wikilink")이 벌어지는 모습이 나타난다.
 
 ## 도감
 
@@ -65,31 +65,31 @@
 
 ### 주인공
 
-둘 중, 한 [성별](https://ko.wikipedia.org/wiki/성별 "wikilink")(각각 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink"), [여성](https://ko.wikipedia.org/wiki/여성 "wikilink"))의 캐릭터를 선택해 이야기를 진행할 수 있다. 참고로 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") 주인공은 [코믹스](https://ko.wikipedia.org/wiki/코믹스 "wikilink")판에서 **제트**라는 이름을 달고 나오며, 연령대는 둘 다 10대 초반(11세)이다.
+둘 중, 한 [성별](https://ko.wikipedia.org/wiki/성별 "wikilink")(각각 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink"), [여성](../Page/여성.md "wikilink"))의 캐릭터를 선택해 이야기를 진행할 수 있다. 참고로 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") 주인공은 [코믹스](https://ko.wikipedia.org/wiki/코믹스 "wikilink")판에서 **제트**라는 이름을 달고 나오며, 연령대는 둘 다 10대 초반(11세)이다.
 
 ### 성장
 
 전투와 강화로 분류된다.
 
-#### [전투](https://ko.wikipedia.org/wiki/전투 "wikilink")를 통한 [성장](https://ko.wikipedia.org/wiki/성장 "wikilink")의 경우
+#### [전투](../Page/전투.md "wikilink")를 통한 [성장](https://ko.wikipedia.org/wiki/성장 "wikilink")의 경우
 
 몬스터의 레벨이 상승하고, 성능도 더욱 좋아진다.
 
 #### [강화](https://ko.wikipedia.org/wiki/강화 "wikilink")를 통한 성장의 경우
 
-아래의 [알](https://ko.wikipedia.org/wiki/알 "wikilink")을 이용해 강화가 가능한데, 이는 이 [게임](https://ko.wikipedia.org/wiki/게임 "wikilink")에서 **메타도라**(국내명:메탈드래곤) 등을 이용한 강화가 불가능하기 때문이다.
+아래의 [알](../Page/알.md "wikilink")을 이용해 강화가 가능한데, 이는 이 [게임](../Page/게임.md "wikilink")에서 **메타도라**(국내명:메탈드래곤) 등을 이용한 강화가 불가능하기 때문이다.
 
-#### [알](https://ko.wikipedia.org/wiki/알 "wikilink")
+#### [알](../Page/알.md "wikilink")
 
 전투 도중에 얻을 수 있다.
 
-### [진화](https://ko.wikipedia.org/wiki/진화 "wikilink")
+### [진화](../Page/진화.md "wikilink")
 
 [디지몬](https://ko.wikipedia.org/wiki/디지몬 "wikilink") 시리즈와 같이 진화의 갈림길이 다양한 몬스터가 있다.(예:메라곤)
 
 #### [교환](https://ko.wikipedia.org/wiki/교환 "wikilink")
 
-[포켓몬스터](https://ko.wikipedia.org/wiki/포켓몬스터 "wikilink") 시리즈와 같이 몬스터를 서로 교환할 수 있는 시스템이 있어서 오로지 교환으로만 [진화](https://ko.wikipedia.org/wiki/진화 "wikilink")가 가능한 몬스터들이 있다.(예:벽염성 [이프리트](https://ko.wikipedia.org/wiki/이프리트 "wikilink"))
+[포켓몬스터](../Page/포켓몬스터.md "wikilink") 시리즈와 같이 몬스터를 서로 교환할 수 있는 시스템이 있어서 오로지 교환으로만 [진화](../Page/진화.md "wikilink")가 가능한 몬스터들이 있다.(예:벽염성 [이프리트](https://ko.wikipedia.org/wiki/이프리트 "wikilink"))
 
 ## 같이 보기
 

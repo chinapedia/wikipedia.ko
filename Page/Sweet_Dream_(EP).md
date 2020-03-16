@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Sweet Dream \(EP\)](https://ko.wikipedia.org/wiki/Sweet_Dream_\(EP\)).
 
 
-《**Sweet Dream**》은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [걸 그룹](https://ko.wikipedia.org/wiki/걸_그룹 "wikilink") [레인보우의](https://ko.wikipedia.org/wiki/레인보우_\(음악_그룹\) "wikilink") 두 번째 미니 음반 《**So 女**》의 리패키지 음반이다.
+《**Sweet Dream**》은 [대한민국](../Page/대한민국.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") [레인보우의](https://ko.wikipedia.org/wiki/레인보우_\(음악_그룹\) "wikilink") 두 번째 미니 음반 《**So 女**》의 리패키지 음반이다.
 
 ## 구성
 

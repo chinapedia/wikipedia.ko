@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [IP  ](https://ko.wikipedia.org/wiki/IP__).
 
 
-**IP 멀티미디어 서브시스템**(IP Multimedia Subsystem, IMS)은 IP 망에서 멀티미디어 서비스를 제공하기 위해 [3GPP](https://ko.wikipedia.org/wiki/3GPP "wikilink")에서 고안한 네트워크 구조(framework)이다. IMS의 대표적인 예로는 MMTel (Multimedia telephony)이 있다. IMS에서 사용되는 대표적인 프로토콜은 [SIP](https://ko.wikipedia.org/wiki/세션_개시_프로토콜 "wikilink") (Session Initiation Protocol)이며 [Diameter와](https://ko.wikipedia.org/wiki/다이어미터_\(프로토콜\) "wikilink") H.248/MEGACO 프로토콜도 사용된다.
+**IP 멀티미디어 서브시스템**(IP Multimedia Subsystem, IMS)은 IP 망에서 멀티미디어 서비스를 제공하기 위해 [3GPP](../Page/3GPP.md "wikilink")에서 고안한 네트워크 구조(framework)이다. IMS의 대표적인 예로는 MMTel (Multimedia telephony)이 있다. IMS에서 사용되는 대표적인 프로토콜은 [SIP](../Page/세션_개시_프로토콜.md "wikilink") (Session Initiation Protocol)이며 [Diameter와](https://ko.wikipedia.org/wiki/다이어미터_\(프로토콜\) "wikilink") H.248/MEGACO 프로토콜도 사용된다.
 
 ## 역사
 

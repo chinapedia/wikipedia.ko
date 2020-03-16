@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WAVER](https://ko.wikipedia.org/wiki/WAVER).
 
 
-〈**WAVER**〉는 [도모토 쯔요시의](https://ko.wikipedia.org/wiki/도모토_츠요시 "wikilink") 통산 2번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink").
+〈**WAVER**〉는 [도모토 쯔요시의](../Page/도모토_츠요시.md "wikilink") 통산 2번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 

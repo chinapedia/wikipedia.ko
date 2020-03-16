@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [J. D. ](https://ko.wikipedia.org/wiki/J._D._).
 
 
-**존 데일 마틴**(John Dale Martin, [1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink") [1월 2일](https://ko.wikipedia.org/wiki/1월_2일 "wikilink") \~ )은 [내셔널 리그](https://ko.wikipedia.org/wiki/내셔널_리그_\(야구\) "wikilink") [로스앤젤레스 다저스의](https://ko.wikipedia.org/wiki/로스앤젤레스_다저스 "wikilink") [투수](https://ko.wikipedia.org/wiki/투수 "wikilink")이다.
+**존 데일 마틴**(John Dale Martin, [1983년](../Page/1983년.md "wikilink") [1월 2일](../Page/1월_2일.md "wikilink") \~ )은 [내셔널 리그](../Page/내셔널_리그_\(야구\).md "wikilink") [로스앤젤레스 다저스의](../Page/로스앤젤레스_다저스.md "wikilink") [투수](../Page/투수.md "wikilink")이다.
 
 ## [KBO 리그](https://ko.wikipedia.org/wiki/KBO_리그 "wikilink") 시절 기록
 

@@ -13,10 +13,10 @@
 
 ## 방송 시간
 
-| 방송 채널                                                                                    | 방송 기간                                                                                                                     | 방송 시간                                                                   |
-| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| [MBC TV](https://ko.wikipedia.org/wiki/MBC_TV "wikilink")                                | [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink") [8월 9일](https://ko.wikipedia.org/wiki/8월_9일 "wikilink") \~ **현재** | 매주 [토요일](https://ko.wikipedia.org/wiki/토요일 "wikilink") 낮 11시 50분 \~ 12시 |
-| 매주 [일요일](https://ko.wikipedia.org/wiki/일요일 "wikilink") 아침 7시 \~ 7시 10분, 낮 12시 \~ 12시 10분 |                                                                                                                           |                                                                         |
+| 방송 채널                                                                 | 방송 기간                                                                               | 방송 시간                                                |
+| --------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ---------------------------------------------------- |
+| [MBC TV](../Page/MBC_TV.md "wikilink")                                | [1969년](../Page/1969년.md "wikilink") [8월 9일](../Page/8월_9일.md "wikilink") \~ **현재** | 매주 [토요일](../Page/토요일.md "wikilink") 낮 11시 50분 \~ 12시 |
+| 매주 [일요일](../Page/일요일.md "wikilink") 아침 7시 \~ 7시 10분, 낮 12시 \~ 12시 10분 |                                                                                     |                                                      |
 
 ## 구성
 
@@ -29,20 +29,20 @@
 
 ### 현재 앵커
 
-현재 앵커는 [2020년](https://ko.wikipedia.org/wiki/2020년 "wikilink") [2월 8일부터를](https://ko.wikipedia.org/wiki/2월_8일 "wikilink") 기준으로 한다.
+현재 앵커는 [2020년](../Page/2020년.md "wikilink") [2월 8일부터를](../Page/2월_8일.md "wikilink") 기준으로 한다.
 
-  - 토요일 : [이진](https://ko.wikipedia.org/wiki/이진_\(아나운서\) "wikilink") 아나운서
+  - 토요일 : [이진](../Page/이진_\(아나운서\).md "wikilink") 아나운서
   - 일요일 : [김수지](../Page/김수지_\(아나운서\).md "wikilink") 아나운서
 
 ## 타이틀 변천사
 
-현재 타이틀은 [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [3월 8일부터를](https://ko.wikipedia.org/wiki/3월_8일 "wikilink") 기준으로 하고 있다.
+현재 타이틀은 [1997년](../Page/1997년.md "wikilink") [3월 8일부터를](../Page/3월_8일.md "wikilink") 기준으로 하고 있다.
 
-| 역대 | 타이틀      | 방송 시간                                                                                                                                                                                                                                  |
-| -- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1기 | MBC 뉴스   | [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink") [8월 9일](https://ko.wikipedia.org/wiki/8월_9일 "wikilink") \~ [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") [10월 20일](https://ko.wikipedia.org/wiki/10월_20일 "wikilink") |
-| 2기 | MBC 뉴스센터 | [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") [10월 26일](https://ko.wikipedia.org/wiki/10월_26일 "wikilink") \~ [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [3월 2일](https://ko.wikipedia.org/wiki/3월_2일 "wikilink") |
-| 3기 | MBC 뉴스   | [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [3월 8일](https://ko.wikipedia.org/wiki/3월_8일 "wikilink") \~ **현재**                                                                                                              |
+| 역대 | 타이틀      | 방송 시간                                                                                                                                                      |
+| -- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1기 | MBC 뉴스   | [1969년](../Page/1969년.md "wikilink") [8월 9일](../Page/8월_9일.md "wikilink") \~ [1996년](../Page/1996년.md "wikilink") [10월 20일](../Page/10월_20일.md "wikilink") |
+| 2기 | MBC 뉴스센터 | [1996년](../Page/1996년.md "wikilink") [10월 26일](../Page/10월_26일.md "wikilink") \~ [1997년](../Page/1997년.md "wikilink") [3월 2일](../Page/3월_2일.md "wikilink") |
+| 3기 | MBC 뉴스   | [1997년](../Page/1997년.md "wikilink") [3월 8일](../Page/3월_8일.md "wikilink") \~ **현재**                                                                        |
 
 ## 각주
 
@@ -50,5 +50,5 @@
 
 [분류:문화방송의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:문화방송의_뉴스_텔레비전_프로그램 "wikilink")
 
-1.  단, [MBC 뉴스데스크는](https://ko.wikipedia.org/wiki/MBC_뉴스데스크 "wikilink") 제외되며, [MBC 뉴스투데이는](https://ko.wikipedia.org/wiki/MBC_뉴스투데이 "wikilink") 토요일에도 편성된다.
-2.  다만, [신동진](https://ko.wikipedia.org/wiki/신동진_\(아나운서\) "wikilink") 아나운서가 일요일 낮 12시 뉴스를 진행할 당시 앵커 멘트에는 **MBC 낮 뉴스**로 표기하고 있었다.
+1.  단, [MBC 뉴스데스크는](../Page/MBC_뉴스데스크.md "wikilink") 제외되며, [MBC 뉴스투데이는](../Page/MBC_뉴스투데이.md "wikilink") 토요일에도 편성된다.
+2.  다만, [신동진](../Page/신동진_\(아나운서\).md "wikilink") 아나운서가 일요일 낮 12시 뉴스를 진행할 당시 앵커 멘트에는 **MBC 낮 뉴스**로 표기하고 있었다.

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Wget](https://ko.wikipedia.org/wiki/Wget).
 
 
-**GNU Wget**(간단히 Wget, 이전 이름: Geturl)는 [웹 서버로부터](https://ko.wikipedia.org/wiki/웹_서버 "wikilink") 콘텐츠를 가져오는 [컴퓨터 프로그램으로](https://ko.wikipedia.org/wiki/컴퓨터_프로그램 "wikilink"), [GNU 프로젝트의](https://ko.wikipedia.org/wiki/GNU_프로젝트 "wikilink") 일부이다. 이 프로그램의 이름은 [월드 와이드 웹과](https://ko.wikipedia.org/wiki/월드_와이드_웹 "wikilink") [get에서](https://ko.wikipedia.org/wiki/HTTP_GET "wikilink") 가져온 것이다. [HTTP](https://ko.wikipedia.org/wiki/HTTP "wikilink"), [HTTPS](https://ko.wikipedia.org/wiki/HTTPS "wikilink"), [FTP](https://ko.wikipedia.org/wiki/파일_전송_프로토콜 "wikilink") 프로토콜을 통해 내려받기를 지원한다.
+**GNU Wget**(간단히 Wget, 이전 이름: Geturl)는 [웹 서버로부터](../Page/웹_서버.md "wikilink") 콘텐츠를 가져오는 [컴퓨터 프로그램으로](../Page/컴퓨터_프로그램.md "wikilink"), [GNU 프로젝트의](../Page/GNU_프로젝트.md "wikilink") 일부이다. 이 프로그램의 이름은 [월드 와이드 웹과](../Page/월드_와이드_웹.md "wikilink") [get에서](https://ko.wikipedia.org/wiki/HTTP_GET "wikilink") 가져온 것이다. [HTTP](../Page/HTTP.md "wikilink"), [HTTPS](../Page/HTTPS.md "wikilink"), [FTP](../Page/파일_전송_프로토콜.md "wikilink") 프로토콜을 통해 내려받기를 지원한다.
 
 ## Wget 사용법
 
@@ -54,7 +54,7 @@ wget -t 22 --waitretry=48 --wait=33 --random-wait --referer="" --user-agent=""
 
 ## 같이 보기
 
-  - [웹 크롤러](https://ko.wikipedia.org/wiki/웹_크롤러 "wikilink")
+  - [웹 크롤러](../Page/웹_크롤러.md "wikilink")
 
 ## 각주
 

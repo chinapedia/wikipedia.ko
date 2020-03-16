@@ -7,7 +7,7 @@
 
 ### 주연
 
-  - [안석환](https://ko.wikipedia.org/wiki/안석환 "wikilink")
+  - [안석환](../Page/안석환.md "wikilink")
 
 ## 기타
 

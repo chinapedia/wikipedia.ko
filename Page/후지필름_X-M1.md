@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ X-M1](https://ko.wikipedia.org/wiki/_X-M1).
 
 
-**후지필름 X-M1**은 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") 6월 출시한 후지필름의 [미러리스 렌즈 교환식 카메라이다](https://ko.wikipedia.org/wiki/미러리스_렌즈_교환식_카메라 "wikilink"). [X-Trans 센서를](https://ko.wikipedia.org/wiki/후지필름_X-트랜스_센서 "wikilink") 탑재했으며, EXR II 프로세서를 탑재했다. 뷰파인더가 탑재되지 않아 [X-E1의](../Page/후지필름_X-E1.md "wikilink") 아래에 위치한 라인업이다.
+**후지필름 X-M1**은 [2013년](../Page/2013년.md "wikilink") 6월 출시한 후지필름의 [미러리스 렌즈 교환식 카메라이다](../Page/미러리스_렌즈_교환식_카메라.md "wikilink"). [X-Trans 센서를](../Page/후지필름_X-트랜스_센서.md "wikilink") 탑재했으며, EXR II 프로세서를 탑재했다. 뷰파인더가 탑재되지 않아 [X-E1의](../Page/후지필름_X-E1.md "wikilink") 아래에 위치한 라인업이다.
 
 ## 성능
 

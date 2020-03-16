@@ -5,9 +5,9 @@
 
 ## 역사
 
-2019년 3월, ASM-3의 사거리를 400 km (220 nmi; 250 mi) 이상으로 늘리기로 했다. [가와사키 P-1](https://ko.wikipedia.org/wiki/가와사키_P-1 "wikilink") 해상초계기에 장착할 계획이다.
+2019년 3월, ASM-3의 사거리를 400 km (220 nmi; 250 mi) 이상으로 늘리기로 했다. [가와사키 P-1](../Page/가와사키_P-1.md "wikilink") 해상초계기에 장착할 계획이다.
 
-일본 방위성이 도입하는 장사정 미사일은 [고속활공탄](https://ko.wikipedia.org/wiki/고속활공탄 "wikilink")(최대 사정 1000km), 공대함 미사일 ASM-3(200\~400km), [12식 지대함유도탄](https://ko.wikipedia.org/wiki/12식_지대함유도탄 "wikilink")(300km), [신형 공대함 미사일](https://ko.wikipedia.org/wiki/신형_공대함_미사일 "wikilink")(300km), 순항미사일 [JSM](https://ko.wikipedia.org/wiki/합동타격미사일 "wikilink")(500km), 순항미사일 [AGM-158B JASSM-ER](https://ko.wikipedia.org/wiki/AGM-158B_JASSM-ER "wikilink")(900km), 순항미사일 [AGM-158C LRASM](https://ko.wikipedia.org/wiki/AGM-158C_LRASM "wikilink")(900km) 등이다.
+일본 방위성이 도입하는 장사정 미사일은 [고속활공탄](https://ko.wikipedia.org/wiki/고속활공탄 "wikilink")(최대 사정 1000km), 공대함 미사일 ASM-3(200\~400km), [12식 지대함유도탄](../Page/12식_지대함유도탄.md "wikilink")(300km), [신형 공대함 미사일](https://ko.wikipedia.org/wiki/신형_공대함_미사일 "wikilink")(300km), 순항미사일 [JSM](../Page/합동타격미사일.md "wikilink")(500km), 순항미사일 [AGM-158B JASSM-ER](https://ko.wikipedia.org/wiki/AGM-158B_JASSM-ER "wikilink")(900km), 순항미사일 [AGM-158C LRASM](https://ko.wikipedia.org/wiki/AGM-158C_LRASM "wikilink")(900km) 등이다.
 
 ## 비교
 
@@ -27,7 +27,7 @@ ASM-3의 사거리를 400 km 이상으로 늘린다고 하는데, 프랑스 ASMP
   - 무게: 900 kg
   - 사거리: 80 해리, 150 km 이상
   - 속도: 순항시 마하 3
-  - 탑재할 수 있는 전투기: [미쓰비시 F-2](https://ko.wikipedia.org/wiki/미쓰비시_F-2 "wikilink"), [F-15J](https://ko.wikipedia.org/wiki/F-15J "wikilink")
+  - 탑재할 수 있는 전투기: [미쓰비시 F-2](../Page/미쓰비시_F-2.md "wikilink"), [F-15J](https://ko.wikipedia.org/wiki/F-15J "wikilink")
 
 ## 다른 초음속 순항미사일
 
@@ -41,8 +41,8 @@ ASM-3의 사거리를 400 km 이상으로 늘린다고 하는데, 프랑스 ASMP
 
 ## 더 보기
 
-  - [Kh-31](https://ko.wikipedia.org/wiki/Kh-31 "wikilink") - 러시아의 동급 미사일, 무게 0.6톤, 마하 4.5, 사거리 120 km
-  - [YJ-91](https://ko.wikipedia.org/wiki/YJ-91 "wikilink") - [Kh-31](https://ko.wikipedia.org/wiki/Kh-31 "wikilink")의 중국산
+  - [Kh-31](../Page/Kh-31.md "wikilink") - 러시아의 동급 미사일, 무게 0.6톤, 마하 4.5, 사거리 120 km
+  - [YJ-91](https://ko.wikipedia.org/wiki/YJ-91 "wikilink") - [Kh-31](../Page/Kh-31.md "wikilink")의 중국산
 
 ## 각주
 

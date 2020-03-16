@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Jimmy James](https://ko.wikipedia.org/wiki/Jimmy_James).
 
 
-[1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink") 발매된 비스티 보이즈의 싱글 음반
+[1992년](../Page/1992년.md "wikilink") 발매된 비스티 보이즈의 싱글 음반
 
 ## 음반의 형태 및 트랙
 

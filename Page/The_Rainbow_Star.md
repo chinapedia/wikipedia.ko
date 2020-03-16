@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Rainbow Star](https://ko.wikipedia.org/wiki/The_Rainbow_Star).
 
 
-〈**The Rainbow Star**〉는, [도모토 쯔요시가](https://ko.wikipedia.org/wiki/도모토_츠요시 "wikilink") [ENDLICHERI☆ENDLICHERI로서](https://ko.wikipedia.org/wiki/도모토_츠요시 "wikilink") 발매한 싱글로, 도모토 쯔요시의 통산 4번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink").
+〈**The Rainbow Star**〉는, [도모토 쯔요시가](../Page/도모토_츠요시.md "wikilink") [ENDLICHERI☆ENDLICHERI로서](../Page/도모토_츠요시.md "wikilink") 발매한 싱글로, 도모토 쯔요시의 통산 4번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 
@@ -22,7 +22,7 @@
 
     <!-- end list -->
 
-      - [닛폰 TV](https://ko.wikipedia.org/wiki/닛폰_TV_방송망 "wikilink") 계열 《음악 전사 MUSIC FIGHTER》 6월 오프닝 테마
+      - [닛폰 TV](../Page/닛폰_TV_방송망.md "wikilink") 계열 《음악 전사 MUSIC FIGHTER》 6월 오프닝 테마
 
 2.  **** / <small>**살아가는 것이**</small>
 

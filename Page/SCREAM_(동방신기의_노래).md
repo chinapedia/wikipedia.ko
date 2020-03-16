@@ -1,14 +1,14 @@
 > This article is converted from Wikipedia: [SCREAM \( \)](https://ko.wikipedia.org/wiki/SCREAM_\(_\)).
 
 
-〈**SCREAM**〉(스크림)은 일본에서 발매한 대한민국 음악 그룹 [동방신기](https://ko.wikipedia.org/wiki/동방신기 "wikilink")의 38번째 [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink")이다.
+〈**SCREAM**〉(스크림)은 일본에서 발매한 대한민국 음악 그룹 [동방신기](../Page/동방신기.md "wikilink")의 38번째 [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink")이다.
 
 ## 개요
 
   - 37번째 싱글 〈[OCEAN](../Page/OCEAN_\(동방신기의_노래\).md "wikilink")〉이후 3개월 만에 발매한 싱글이다.
   - 싱글 발매에 앞서 〈[TOHOSHINKI LIVE TOUR 2013 \~TIME\~](../Page/TOHOSHINKI_LIVE_TOUR_2013_~TIME~.md "wikilink")〉의 닛산 스타디움 공연에서 최초 공개되었다.
   - 본 싱글부터 동방신기의 일본 라이센스 싱글 발매가 중단되었다.
-  - 〈SCREAM〉은 H.U.B가 작사하고, 〈I Don't Know〉를 작곡한 [Hitchhiker가](https://ko.wikipedia.org/wiki/히치하이커_\(음악가\) "wikilink") 작곡했다.
+  - 〈SCREAM〉은 H.U.B가 작사하고, 〈I Don't Know〉를 작곡한 [Hitchhiker가](../Page/히치하이커_\(음악가\).md "wikilink") 작곡했다.
 
 ## 수록곡
 

@@ -5,8 +5,8 @@
 
 ## 트랙 리스트
 
-1.  All Night Long (feat. [미시 엘리엇](https://ko.wikipedia.org/wiki/미시_엘리엇 "wikilink") 와 [팀발랜드](https://ko.wikipedia.org/wiki/팀발랜드 "wikilink"))
-2.  Who's That Boy (feat. [데브](https://ko.wikipedia.org/wiki/데브 "wikilink"))
+1.  All Night Long (feat. [미시 엘리엇](../Page/미시_엘리엇.md "wikilink") 와 [팀발랜드](../Page/팀발랜드.md "wikilink"))
+2.  Who's That Boy (feat. [데브](../Page/데브.md "wikilink"))
 3.  You're My Only Shorty (feat. [Iyaz](https://ko.wikipedia.org/wiki/Iyaz "wikilink"))
 4.  Together (feat. [제이슨 데룰로](https://ko.wikipedia.org/wiki/제이슨_데룰로 "wikilink"))
 5.  Lightweight

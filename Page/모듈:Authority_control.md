@@ -988,11 +988,11 @@ end
 `   { 'Autores.uy', '`[`autores.uy`](https://ko.wikipedia.org/wiki/autores.uy "wikilink")`', 2558, p.autoresuyLink }, -- 맨 앞이 소문자로 시작하는 경우 ``가 동작하지 않아 우선 수정함 (autores.uy → Autores.uy)`
 `   { 'AWR', '`[`AWR`](https://ko.wikipedia.org/wiki/:en:Australian_Women/'s_Register "wikilink")`', 4186, p.awrLink },`
 `   { 'BALaT', '`[`BALaT`](https://ko.wikipedia.org/wiki/:en:Royal_Institute_for_Cultural_Heritage#Online_artworks_pages "wikilink")`', 3293, p.balatLink },`
-`   { 'BIBSYS', '`[`BIBSYS`](https://ko.wikipedia.org/wiki/BIBSYS "wikilink")`', 1015, p.bibsysLink },`
+`   { 'BIBSYS', '`[`BIBSYS`](../Page/BIBSYS.md "wikilink")`', 1015, p.bibsysLink },`
 `   { 'Bildindex', '`[`Bildindex`](https://ko.wikipedia.org/wiki/:en:Marburg_Picture_Index "wikilink")`', 2092, p.bildLink },`
 `   { 'BNC', '`[`BNC`](https://ko.wikipedia.org/wiki/칠레_국립도서관 "wikilink")`', 1890, p.bncLink }, --initially commented due to excessive WD ID errors (many bad IDs since removed)`
 `   { 'BNE', '`[`BNE`](https://ko.wikipedia.org/wiki/스페인_국립도서관 "wikilink")`', 950, p.bneLink },`
-`   { 'BNF', '`[`BNF`](https://ko.wikipedia.org/wiki/프랑스_국립도서관 "wikilink")`', 268, p.bnfLink },`
+`   { 'BNF', '`[`BNF`](../Page/프랑스_국립도서관.md "wikilink")`', 268, p.bnfLink },`
 `   { 'Botanist', '`[`Botanist`](https://ko.wikipedia.org/wiki/:en:Author_citation_\(botany\) "wikilink")`', 428, p.botanistLink },`
 `   { 'BPN', '`[`BPN`](https://ko.wikipedia.org/wiki/:en:Biografisch_Portaal "wikilink")`', 651, p.bpnLink },`
 `   { 'CANTIC', '`[`CANTIC`](https://ko.wikipedia.org/wiki/:en:Name_and_Title_Authority_File_of_Catalonia "wikilink")`', 1273, p.canticLink },`
@@ -1003,7 +1003,7 @@ end
 `   { 'FNZA', '`[`FNZA`](https://ko.wikipedia.org/wiki/:d:Property:P6792 "wikilink")`', 6792, p.fnzaLink },`
 `   { 'GND', '`[`GND`](../Page/게마인자메_노름다타이.md "wikilink")`', 227, p.gndLink },`
 `   { 'HDS', '`[`HDS`](../Page/스위스_역사_사전.md "wikilink")`', 902, p.hdsLink },`
-`   { 'IAAF', '`[`IAAF`](https://ko.wikipedia.org/wiki/국제_육상_경기_연맹 "wikilink")`', 1146, p.iaafLink },`
+`   { 'IAAF', '`[`IAAF`](../Page/국제_육상_경기_연맹.md "wikilink")`', 1146, p.iaafLink },`
 `   { 'ICIA', '`[`ICIA`](https://ko.wikipedia.org/wiki/:en:Information_Center_for_Israeli_Art "wikilink")`', 1736, p.iciaLink },`
 `   { 'ISNI', '`[`ISNI`](../Page/국제_표준_명칭_식별자.md "wikilink")`', 213, p.isniLink },`
 `   { 'Joconde', '`[`Joconde`](https://ko.wikipedia.org/wiki/:en:Joconde "wikilink")`' , 347, p.jocondeLink },`
@@ -1012,23 +1012,23 @@ end
 `   { 'LIR', '`[`LIR`](../Page/스위스_역사_사전.md "wikilink")`', 886, p.lirLink },`
 `   { 'LNB', '`[`LNB`](https://ko.wikipedia.org/wiki/National_Library_of_Latvia "wikilink")`', 1368, p.lnbLink },`
 `   { 'Léonore', '`[`Léonore`](https://ko.wikipedia.org/wiki/:fr:Base_Léonore "wikilink")`', 640, p.leonoreLink },`
-`   { 'MBA', '`[`뮤직브레인즈`](https://ko.wikipedia.org/wiki/뮤직브레인즈 "wikilink")`', 434, p.mbaLink, category = 'MusicBrainz' }, --special category name`
-`   { 'MBAREA', '`[`뮤직브레인즈`](https://ko.wikipedia.org/wiki/뮤직브레인즈 "wikilink")`', 982, p.mbareaLink, category = 'MusicBrainz area' }, --special category name`
-`   { 'MBI', '`[`뮤직브레인즈`](https://ko.wikipedia.org/wiki/뮤직브레인즈 "wikilink")`', 1330, p.mbiLink, category = 'MusicBrainz instrument' }, --special category name`
-`   { 'MBL', '`[`뮤직브레인즈`](https://ko.wikipedia.org/wiki/뮤직브레인즈 "wikilink")`', 966, p.mblLink, category = 'MusicBrainz label' }, --special category name`
-`   { 'MBP', '`[`뮤직브레인즈`](https://ko.wikipedia.org/wiki/뮤직브레인즈 "wikilink")`', 1004, p.mbpLink, category = 'MusicBrainz place' }, --special category name`
-`   { 'MBRG', '`[`뮤직브레인즈`](https://ko.wikipedia.org/wiki/뮤직브레인즈 "wikilink")` release group', 436, p.mbrgLink, category = 'MusicBrainz release group' }, --special category name`
-`   { 'MBS', '`[`뮤직브레인즈`](https://ko.wikipedia.org/wiki/뮤직브레인즈 "wikilink")`', 1407, p.mbsLink, category = 'MusicBrainz series' }, --special category name`
-`   { 'MBW', '`[`뮤직브레인즈`](https://ko.wikipedia.org/wiki/뮤직브레인즈 "wikilink")` work', 435, p.mbwLink, category = 'MusicBrainz work' }, --special category name`
+`   { 'MBA', '`[`뮤직브레인즈`](../Page/뮤직브레인즈.md "wikilink")`', 434, p.mbaLink, category = 'MusicBrainz' }, --special category name`
+`   { 'MBAREA', '`[`뮤직브레인즈`](../Page/뮤직브레인즈.md "wikilink")`', 982, p.mbareaLink, category = 'MusicBrainz area' }, --special category name`
+`   { 'MBI', '`[`뮤직브레인즈`](../Page/뮤직브레인즈.md "wikilink")`', 1330, p.mbiLink, category = 'MusicBrainz instrument' }, --special category name`
+`   { 'MBL', '`[`뮤직브레인즈`](../Page/뮤직브레인즈.md "wikilink")`', 966, p.mblLink, category = 'MusicBrainz label' }, --special category name`
+`   { 'MBP', '`[`뮤직브레인즈`](../Page/뮤직브레인즈.md "wikilink")`', 1004, p.mbpLink, category = 'MusicBrainz place' }, --special category name`
+`   { 'MBRG', '`[`뮤직브레인즈`](../Page/뮤직브레인즈.md "wikilink")` release group', 436, p.mbrgLink, category = 'MusicBrainz release group' }, --special category name`
+`   { 'MBS', '`[`뮤직브레인즈`](../Page/뮤직브레인즈.md "wikilink")`', 1407, p.mbsLink, category = 'MusicBrainz series' }, --special category name`
+`   { 'MBW', '`[`뮤직브레인즈`](../Page/뮤직브레인즈.md "wikilink")` work', 435, p.mbwLink, category = 'MusicBrainz work' }, --special category name`
 `   { 'MGP', '`[`MGP`](../Page/수학_계보_프로젝트.md "wikilink")`', 549, p.mgpLink },`
-`   { 'NARA', '`[`NARA`](https://ko.wikipedia.org/wiki/미국_국립문서기록관리청 "wikilink")`', 1225, p.naraLink },`
+`   { 'NARA', '`[`NARA`](../Page/미국_국립문서기록관리청.md "wikilink")`', 1225, p.naraLink },`
 `   { 'NCL', '`[`NCL`](https://ko.wikipedia.org/wiki/국가도서관 "wikilink")`', 1048, p.nclLink },`
-`   { 'NDL', '`[`NDL`](https://ko.wikipedia.org/wiki/일본_국립국회도서관 "wikilink")`', 349, p.ndlLink },`
+`   { 'NDL', '`[`NDL`](../Page/일본_국립국회도서관.md "wikilink")`', 349, p.ndlLink },`
 `   { 'NGV', '`[`NGV`](https://ko.wikipedia.org/wiki/:en:National_Gallery_of_Victoria "wikilink")`', 2041, p.ngvLink },`
 `   { 'NKC', '`[`NKC`](https://ko.wikipedia.org/wiki/체코_국립도서관 "wikilink")`', 691, p.nkcLink },`
 `   { 'NLA', '`[`NLA`](https://ko.wikipedia.org/wiki/오스트레일리아_국립도서관 "wikilink")`', 409, p.nlaLink },`
 `   { 'NLI', '`[`NLI`](https://ko.wikipedia.org/wiki/이스라엘_국립도서관 "wikilink")`', 949, p.nliLink },`
-`   { 'NLK', '`[`NLK`](https://ko.wikipedia.org/wiki/국립중앙도서관 "wikilink")`', 5034, p.nlkLink },`
+`   { 'NLK', '`[`NLK`](../Page/국립중앙도서관.md "wikilink")`', 5034, p.nlkLink },`
 `   { 'NLP', '`[`NLP`](../Page/폴란드_국립도서관.md "wikilink")`', 1695, p.nlpLink },`
 `   { 'NLR', '`[`NLR`](https://ko.wikipedia.org/wiki/루마니아_국립도서관 "wikilink")`', 1003, p.nlrLink }, --initially commented due to excessive WD ID errors (conflated with National Library of Russia IDs)`
 `   { 'NSK', '`[`NSK`](https://ko.wikipedia.org/wiki/자그레브_국립_대학_도서관 "wikilink")`', 1375, p.nskLink },`
@@ -1039,7 +1039,7 @@ end
 `   { 'RERO', '`[`RERO`](https://ko.wikipedia.org/wiki/:en:RERO_\(Library_Network_of_Western_Switzerland\) "wikilink")`', 3065, p.reroLink }, --initially commented due to excessive WD ID errors (regex fixed/relaxed)`
 `   { 'RKDartists', '`[`RKD`](https://ko.wikipedia.org/wiki/:en:Netherlands_Institute_for_Art_History#Online_artist_pages "wikilink")`', 650, p.rkdartistsLink },`
 `   { 'RKDID', '`[`RKDimages``   ``ID`](https://ko.wikipedia.org/wiki/:d:Q17299580 "wikilink")`', 350, p.rkdidLink },`
-`   { 'RSL', '`[`RSL`](https://ko.wikipedia.org/wiki/러시아_국립도서관_\(모스크바\) "wikilink")`', 947, p.rslLink },`
+`   { 'RSL', '`[`RSL`](../Page/러시아_국립도서관_\(모스크바\).md "wikilink")`', 947, p.rslLink },`
 `   { 'SBN', '`[`ICCU`](https://ko.wikipedia.org/wiki/:en:Istituto_Centrale_per_il_Catalogo_Unico "wikilink")`', 396, p.sbnLink },`
 `   { 'SELIBR', '`[`SELIBR`](../Page/LIBRIS.md "wikilink")`', 906, p.selibrLink },`
 `   { 'SIKART', '`[`SIKART`](https://ko.wikipedia.org/wiki/SIKART "wikilink")`', 781, p.sikartLink },`

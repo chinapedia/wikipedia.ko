@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MR.GAE](https://ko.wikipedia.org/wiki/MR.GAE).
 
 
-***MR.GAE***는 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [1월 15일에](https://ko.wikipedia.org/wiki/1월_15일 "wikilink") 발매한, [개리의](https://ko.wikipedia.org/wiki/개리_\(가수\) "wikilink") 첫 솔로 미니 앨범이다.
+***MR.GAE***는 [2014년](../Page/2014년.md "wikilink") [1월 15일에](../Page/1월_15일.md "wikilink") 발매한, [개리의](https://ko.wikipedia.org/wiki/개리_\(가수\) "wikilink") 첫 솔로 미니 앨범이다.
 
 ## 프로모션
 
@@ -25,9 +25,9 @@
 
 ### 주간 차트
 
-| 차트                                                                                                                     | 최고순위 |
-| ---------------------------------------------------------------------------------------------------------------------- | ---- |
-| [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") [가온 앨범 차트](https://ko.wikipedia.org/wiki/가온_차트 "wikilink")\[11\] | 4    |
+| 차트                                                                               | 최고순위 |
+| -------------------------------------------------------------------------------- | ---- |
+| [대한민국](../Page/대한민국.md "wikilink") [가온 앨범 차트](../Page/가온_차트.md "wikilink")\[11\] | 4    |
 
 ## 출처
 

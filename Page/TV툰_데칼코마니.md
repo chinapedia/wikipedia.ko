@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
 
 
-《**TV툰 데칼코마니**》는 [JTBC](https://ko.wikipedia.org/wiki/JTBC "wikilink")의 교양 [애니메이션](https://ko.wikipedia.org/wiki/텔레비전_애니메이션 "wikilink") [프로그램이다](https://ko.wikipedia.org/wiki/텔레비전_프로그램 "wikilink"). 분할된 화면을 통해 일상 속 서로 다른 상황들을 보여주는 감성 애니메이션 프로그램이다.\[1\]
+《**TV툰 데칼코마니**》는 [JTBC](../Page/JTBC.md "wikilink")의 교양 [애니메이션](https://ko.wikipedia.org/wiki/텔레비전_애니메이션 "wikilink") [프로그램이다](../Page/텔레비전_프로그램.md "wikilink"). 분할된 화면을 통해 일상 속 서로 다른 상황들을 보여주는 감성 애니메이션 프로그램이다.\[1\]
 
 ## 방송 시간
 
@@ -30,8 +30,8 @@
 
 ### 포스트 프로덕션
 
-  - 내레이션 : [윤승희](https://ko.wikipedia.org/wiki/윤승희 "wikilink")
-  - 성우 : 윤승희, [유동균](https://ko.wikipedia.org/wiki/유동균_\(성우\) "wikilink"), [김용준](https://ko.wikipedia.org/wiki/김용준_\(성우\) "wikilink"), [최하나](https://ko.wikipedia.org/wiki/최하나_\(성우\) "wikilink"), [남도형](https://ko.wikipedia.org/wiki/남도형 "wikilink")
+  - 내레이션 : [윤승희](../Page/윤승희.md "wikilink")
+  - 성우 : 윤승희, [유동균](../Page/유동균_\(성우\).md "wikilink"), [김용준](../Page/김용준_\(성우\).md "wikilink"), [최하나](../Page/최하나_\(성우\).md "wikilink"), [남도형](../Page/남도형.md "wikilink")
   - 녹음 연출 : 김희집
   - 녹음 : GG사운드
   - 슈퍼바이저 : 김희집
@@ -39,13 +39,13 @@
   - 주제가
       - 작사 : 맹준재
       - 작곡 : 이피어나
-      - 노래 : [김수정](https://ko.wikipedia.org/wiki/김수정_\(2004년\) "wikilink")
+      - 노래 : [김수정](../Page/김수정_\(2004년\).md "wikilink")
   - 제작 프로듀서 : 맹준재, 서동원
   - 감독 : 임창묵
   - 연출 : 김삼채, 허재선
   - 시나리오 : 임창묵, 김민신
-  - 제작 지원 : [한국방송통신전파진흥원](https://ko.wikipedia.org/wiki/한국방송통신전파진흥원 "wikilink")
-  - 기획 : [JTBC](https://ko.wikipedia.org/wiki/JTBC "wikilink")
+  - 제작 지원 : [한국방송통신전파진흥원](../Page/한국방송통신전파진흥원.md "wikilink")
+  - 기획 : [JTBC](../Page/JTBC.md "wikilink")
   - 제작 : 아트플러스엠
 
 ## 방영 목록
@@ -87,7 +87,7 @@
 
 ## 같이 보기
 
-  - [TV동화 행복한 세상](https://ko.wikipedia.org/wiki/TV동화_행복한_세상 "wikilink")(2000년 \~ 2013년)
+  - [TV동화 행복한 세상](../Page/TV동화_행복한_세상.md "wikilink")(2000년 \~ 2013년)
   - [TV동화 빨간 자전거](https://ko.wikipedia.org/wiki/빨간_자전거#애니메이션 "wikilink")(2013년 \~ 2015년)
   - [별별가족](../Page/별별가족.md "wikilink")(2015년 \~ 2016년, 이상 [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_제1TV "wikilink"))
   - TV에세이 좋은 생각([EBS](https://ko.wikipedia.org/wiki/EBS_TV "wikilink"))

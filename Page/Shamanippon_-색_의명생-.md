@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Shamanippon - -](https://ko.wikipedia.org/wiki/Shamanippon_-_-).
 
 
-《**shamanippon -색 의명생-**》()는, [도모토 쯔요시의](https://ko.wikipedia.org/wiki/도모토_츠요시 "wikilink") 통상 8번째 [정규 음반이다](https://ko.wikipedia.org/wiki/정규_음반 "wikilink").
+《**shamanippon -색 의명생-**》()는, [도모토 쯔요시의](../Page/도모토_츠요시.md "wikilink") 통상 8번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
 
 ## 개요
 
-정규 음반으로서는, [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 발매한 《[shamanippon -힘 의람사-](https://ko.wikipedia.org/wiki/shamanippon_-힘_의람사- "wikilink")》 이래로, 약 1년 10개월 만의 음반이다. 전작과 동일 타이틀로, 부제만 새롭게 지어졌다. 부제 〈색 의명생(로이노치노이)〉은, 초회반 A에 수록되는 동명 타이틀로부터 채용한 것으로, 거꾸로 읽으면 〈생명의 색(이노치노이로)〉이 된다.
+정규 음반으로서는, [2012년](../Page/2012년.md "wikilink") 발매한 《[shamanippon -힘 의람사-](https://ko.wikipedia.org/wiki/shamanippon_-힘_의람사- "wikilink")》 이래로, 약 1년 10개월 만의 음반이다. 전작과 동일 타이틀로, 부제만 새롭게 지어졌다. 부제 〈색 의명생(로이노치노이)〉은, 초회반 A에 수록되는 동명 타이틀로부터 채용한 것으로, 거꾸로 읽으면 〈생명의 색(이노치노이로)〉이 된다.
 
 ## 수록곡
 

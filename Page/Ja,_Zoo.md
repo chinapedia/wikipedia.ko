@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Ja, Zoo](https://ko.wikipedia.org/wiki/Ja,_Zoo).
 
 
-《**Ja, Zoo**》는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [기타리스트](https://ko.wikipedia.org/wiki/기타리스트 "wikilink")이자 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")인 [히데](https://ko.wikipedia.org/wiki/히데 "wikilink")의 세 번째 정규 앨범이다. 2008년 12월 3일에 재발매되었다.
+《**Ja, Zoo**》는 [일본](../Page/일본.md "wikilink")의 [기타리스트](https://ko.wikipedia.org/wiki/기타리스트 "wikilink")이자 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")인 [히데](../Page/히데.md "wikilink")의 세 번째 정규 앨범이다. 2008년 12월 3일에 재발매되었다.
 
 ## 앨범
 
-1997년 12월 31일 히데가 몸 담고 있던 밴드 [엑스 재팬이](https://ko.wikipedia.org/wiki/엑스_재팬 "wikilink") 마지막 공연을 끝으로 해산되고, 바로 다음날인 1998년 1월 1일에 그는 실망하고 있을 팬들을 위해 '히데 위드 스프레드 비버(hide with Spread Beaver)'라는 솔로 프로젝트 팀 결성과 새 싱글 소식을 [아사히 신문에](https://ko.wikipedia.org/wiki/아사히_신문 "wikilink") 전면광고로 게재했다. 그리고 1월 28일 이 앨범의 첫 싱글 〈ROCKER DIVE〉를 발매했다. 그러나 한창 앨범 작업 중이던 5월 2일에 히데가 사망하면서 스프레드 비버 멤버들이 앨범 작업을 마무리 지어 11월에 앨범을 발매했다. 히데 사망 후에 발매된 싱글이 히트를 치면서, 그의 활동 중 최대 판매를 기록했고, 덧붙여 오리콘에서도 엑스 재팬에 있던 시절을 포함해 최대 매출을 기록했다.
+1997년 12월 31일 히데가 몸 담고 있던 밴드 [엑스 재팬이](https://ko.wikipedia.org/wiki/엑스_재팬 "wikilink") 마지막 공연을 끝으로 해산되고, 바로 다음날인 1998년 1월 1일에 그는 실망하고 있을 팬들을 위해 '히데 위드 스프레드 비버(hide with Spread Beaver)'라는 솔로 프로젝트 팀 결성과 새 싱글 소식을 [아사히 신문에](../Page/아사히_신문.md "wikilink") 전면광고로 게재했다. 그리고 1월 28일 이 앨범의 첫 싱글 〈ROCKER DIVE〉를 발매했다. 그러나 한창 앨범 작업 중이던 5월 2일에 히데가 사망하면서 스프레드 비버 멤버들이 앨범 작업을 마무리 지어 11월에 앨범을 발매했다. 히데 사망 후에 발매된 싱글이 히트를 치면서, 그의 활동 중 최대 판매를 기록했고, 덧붙여 오리콘에서도 엑스 재팬에 있던 시절을 포함해 최대 매출을 기록했다.
 
 수록된 10곡의 총 재생시간인 58분 28초는 [헤이세이](https://ko.wikipedia.org/wiki/헤이세이 "wikilink") 10년 5월 2일을 나타내는데, 이것은 I.N.A의 ‘헤이세이 10년(1998년) 5월 2일(히데 사망일)을 잊지 말라달라’는 염원을 담고 있다. 〈PINK CLOUD ASSEMBLY〉유난히 긴 것은 그 때문이다.
 
@@ -13,7 +13,7 @@
 
 ### 표제
 
-제목은 ‘일본인(Japanese)’과 수록곡의 가제에 동물 이름이 많았기 때문에 ‘동물원(Zoo)’ 두 개의 단어를 합성했다. 자켓 디자인이나 제목을 ‘야,주’로 읽게 한 것은 《[걸리버 여행기](https://ko.wikipedia.org/wiki/걸리버_여행기 "wikilink")》의 야후(yahoo, 인간과 비슷한 교활한 동물)에서 유래한 부분도 있다고 한다.
+제목은 ‘일본인(Japanese)’과 수록곡의 가제에 동물 이름이 많았기 때문에 ‘동물원(Zoo)’ 두 개의 단어를 합성했다. 자켓 디자인이나 제목을 ‘야,주’로 읽게 한 것은 《[걸리버 여행기](../Page/걸리버_여행기.md "wikilink")》의 야후(yahoo, 인간과 비슷한 교활한 동물)에서 유래한 부분도 있다고 한다.
 
 ## 싱글 발매
 
@@ -43,11 +43,11 @@
 
 </dl>
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/히데" title="wikilink">히데</a>(hide) - <a href="https://ko.wikipedia.org/wiki/프로듀서" title="wikilink">프로듀서</a>, <a href="https://ko.wikipedia.org/wiki/보컬" title="wikilink">보컬</a>, <a href="https://ko.wikipedia.org/wiki/작사" title="wikilink">작사</a>/<a href="https://ko.wikipedia.org/wiki/작곡" title="wikilink">작곡</a>/<a href="https://ko.wikipedia.org/wiki/편곡" title="wikilink">편곡</a>, <a href="https://ko.wikipedia.org/wiki/기타" title="wikilink">기타</a>(1~8, 10), <a href="https://ko.wikipedia.org/wiki/베이스_기타" title="wikilink">베이스 기타</a>(1, 2, 4, 6~8, 10)</li>
+<li><a href="../Page/히데.md" title="wikilink">히데</a>(hide) - <a href="https://ko.wikipedia.org/wiki/프로듀서" title="wikilink">프로듀서</a>, <a href="https://ko.wikipedia.org/wiki/보컬" title="wikilink">보컬</a>, <a href="https://ko.wikipedia.org/wiki/작사" title="wikilink">작사</a>/<a href="https://ko.wikipedia.org/wiki/작곡" title="wikilink">작곡</a>/<a href="../Page/편곡.md" title="wikilink">편곡</a>, <a href="../Page/기타.md" title="wikilink">기타</a>(1~8, 10), <a href="../Page/베이스_기타.md" title="wikilink">베이스 기타</a>(1, 2, 4, 6~8, 10)</li>
 <li>이나다 카즈히코(I.N.A.) - 추가 편곡(1, 6, 9, 10), <a href="https://ko.wikipedia.org/wiki/코러스_(대중음악)" title="wikilink">코러스</a>(6), 공동 프로듀서, 녹음(1~10), 믹싱(5), 프로그래밍</li>
 <li>키요시(KIYOSHI) - 리드 기타(1, 9)</li>
 <li>카즈(KAZ) - 리듬 기타(1, 6), 코러스(6)</li>
-<li>다이(D.I.E) - <a href="https://ko.wikipedia.org/wiki/해먼드_오르간" title="wikilink">B-3</a>(1), 코러스(6), <a href="https://ko.wikipedia.org/wiki/피아노" title="wikilink">피아노</a>(10)</li>
+<li>다이(D.I.E) - <a href="https://ko.wikipedia.org/wiki/해먼드_오르간" title="wikilink">B-3</a>(1), 코러스(6), <a href="../Page/피아노.md" title="wikilink">피아노</a>(10)</li>
 <li>조(JOE) - <a href="https://ko.wikipedia.org/wiki/드럼" title="wikilink">드럼</a> 루프(1), 드럼(2, 3, 6~10), 코러스(6)</li>
 <li>치로린(CHIROLYN) - 베이스 기타(3, 9), 코러스(6)</li>
 </ul>
@@ -101,7 +101,7 @@
 <li>마시모 유키타카/미토 코이치로(Headway Organization), 이와타 히로유키/이마무라 하지메(Universal Victor) - <a href="https://ko.wikipedia.org/wiki/이그제큐티브_프로듀서" title="wikilink">이그제큐티브 프로듀서</a></li>
 <li>신도 미츠오 - 자켓 <a href="https://ko.wikipedia.org/wiki/아트_디렉터" title="wikilink">아트 디렉터</a></li>
 <li>오히시 유코 - 디자인</li>
-<li>노무라 히로시 - <a href="https://ko.wikipedia.org/wiki/사진" title="wikilink">사진</a></li>
+<li>노무라 히로시 - <a href="../Page/사진.md" title="wikilink">사진</a></li>
 <li>미유키(Satoru) - 앨범 커버 모델</li>
 </ul></td>
 </tr>

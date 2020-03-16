@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  XY:   ](https://ko.wikipedia.org/wiki/__XY:___).
 
 
-《**극장판 포켓몬스터 XY : 파괴의 포켓몬과 디안시**》()는 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [7월 19일에](https://ko.wikipedia.org/wiki/7월_19일 "wikilink") 개봉을 했다. [극장판 포켓몬스터의](https://ko.wikipedia.org/wiki/극장판_포켓몬스터 "wikilink") 제 17기 영화이다. 대한민국은 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [1월 14일](https://ko.wikipedia.org/wiki/1월_14일 "wikilink") 상영을 했다.
+《**극장판 포켓몬스터 XY : 파괴의 포켓몬과 디안시**》()는 [2014년](../Page/2014년.md "wikilink") [7월 19일에](../Page/7월_19일.md "wikilink") 개봉을 했다. [극장판 포켓몬스터의](https://ko.wikipedia.org/wiki/극장판_포켓몬스터 "wikilink") 제 17기 영화이다. 대한민국은 [2015년](../Page/2015년.md "wikilink") [1월 14일](../Page/1월_14일.md "wikilink") 상영을 했다.
 
 ## 개요
 
@@ -24,7 +24,7 @@
 
 ## 같이 보기
 
-  - [포켓몬스터](https://ko.wikipedia.org/wiki/포켓몬스터 "wikilink")
+  - [포켓몬스터](../Page/포켓몬스터.md "wikilink")
   - [포켓몬스터 XY](https://ko.wikipedia.org/wiki/포켓몬스터_XY "wikilink")
 
 [분류:2014년 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:2014년_애니메이션_영화 "wikilink") [분류:포켓몬스터 극장판](https://ko.wikipedia.org/wiki/분류:포켓몬스터_극장판 "wikilink") [분류:일본의 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:일본의_애니메이션_영화 "wikilink") [분류:롯데 엔터테인먼트 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:롯데_엔터테인먼트_애니메이션_영화 "wikilink")

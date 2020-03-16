@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Body Movin\'](https://ko.wikipedia.org/wiki/Body_Movin\').
 
 
-이 음반은 1998년 발매된 [비스티 보이즈의](https://ko.wikipedia.org/wiki/비스티_보이즈 "wikilink") [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink") 음반이다.
+이 음반은 1998년 발매된 [비스티 보이즈의](../Page/비스티_보이즈.md "wikilink") [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink") 음반이다.
 
 ## 곡 목록
 
-  - **[CD](https://ko.wikipedia.org/wiki/CD "wikilink") single** <small>([미국](https://ko.wikipedia.org/wiki/미국 "wikilink"), [영국](https://ko.wikipedia.org/wiki/영국 "wikilink"))</small>
+  - **[CD](https://ko.wikipedia.org/wiki/CD "wikilink") single** <small>([미국](../Page/미국.md "wikilink"), [영국](../Page/영국.md "wikilink"))</small>
 
 <!-- end list -->
 
@@ -15,7 +15,7 @@
 
 <!-- end list -->
 
-  - **[CD](https://ko.wikipedia.org/wiki/CD "wikilink") single v.2** (Alternate Cover)<small>([미국](https://ko.wikipedia.org/wiki/미국 "wikilink"), [영국](https://ko.wikipedia.org/wiki/영국 "wikilink"))</small>
+  - **[CD](https://ko.wikipedia.org/wiki/CD "wikilink") single v.2** (Alternate Cover)<small>([미국](../Page/미국.md "wikilink"), [영국](../Page/영국.md "wikilink"))</small>
 
 <!-- end list -->
 
@@ -25,7 +25,7 @@
 
 <!-- end list -->
 
-  - **Promo [CD](https://ko.wikipedia.org/wiki/CD "wikilink") single** <small>([영국](https://ko.wikipedia.org/wiki/영국 "wikilink"))</small>
+  - **Promo [CD](https://ko.wikipedia.org/wiki/CD "wikilink") single** <small>([영국](../Page/영국.md "wikilink"))</small>
 
 <!-- end list -->
 

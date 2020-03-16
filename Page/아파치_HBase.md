@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [ HBase](https://ko.wikipedia.org/wiki/_HBase).
 
 
-**아파치 HBase**()는 [하둡](https://ko.wikipedia.org/wiki/하둡 "wikilink") 플랫폼을 위한 공개 [비관계형](../Page/NoSQL.md "wikilink") 분산 [데이터 베이스이다](https://ko.wikipedia.org/wiki/데이터_베이스 "wikilink"). [구글](https://ko.wikipedia.org/wiki/구글 "wikilink")의 [빅테이블](https://ko.wikipedia.org/wiki/빅테이블 "wikilink")(BigTable)을 본보기로 삼았으며 [자바로](https://ko.wikipedia.org/wiki/자바_\(프로그래밍_언어\) "wikilink") 쓰여졌다. [아파치 소프트웨어 재단의](https://ko.wikipedia.org/wiki/아파치_소프트웨어_재단 "wikilink") 아파치 하둡 프로젝트 일부로서 개발되었으며 하둡의 [분산 파일 시스템인](https://ko.wikipedia.org/wiki/분산_파일_시스템 "wikilink") [HDFS](https://ko.wikipedia.org/wiki/HDFS "wikilink")위에서 동작을 한다. 대량의 흩어져 있는 데이터 저장을 위한 [무정지](https://ko.wikipedia.org/wiki/무정지 "wikilink") 방법을 제공하는 구글의 빅테이블과 비슷한 기능을 한다.
+**아파치 HBase**()는 [하둡](https://ko.wikipedia.org/wiki/하둡 "wikilink") 플랫폼을 위한 공개 [비관계형](../Page/NoSQL.md "wikilink") 분산 [데이터 베이스이다](https://ko.wikipedia.org/wiki/데이터_베이스 "wikilink"). [구글](../Page/구글.md "wikilink")의 [빅테이블](../Page/빅테이블.md "wikilink")(BigTable)을 본보기로 삼았으며 [자바로](../Page/자바_\(프로그래밍_언어\).md "wikilink") 쓰여졌다. [아파치 소프트웨어 재단의](../Page/아파치_소프트웨어_재단.md "wikilink") 아파치 하둡 프로젝트 일부로서 개발되었으며 하둡의 [분산 파일 시스템인](https://ko.wikipedia.org/wiki/분산_파일_시스템 "wikilink") [HDFS](https://ko.wikipedia.org/wiki/HDFS "wikilink")위에서 동작을 한다. 대량의 흩어져 있는 데이터 저장을 위한 [무정지](https://ko.wikipedia.org/wiki/무정지 "wikilink") 방법을 제공하는 구글의 빅테이블과 비슷한 기능을 한다.
 
-HBase는 압축, 인메모리 처리, 초기 빅테이블에 제시되어 있는 [Bloom 필터](https://ko.wikipedia.org/wiki/블룸_필터 "wikilink") 기능을 제공한다.\[1\] HBase에 있는 테이블들은 하둡에서 동작하는 [맵리듀스](https://ko.wikipedia.org/wiki/맵리듀스 "wikilink") 작업을 위한 입출력을 제공하며 자바 [API](https://ko.wikipedia.org/wiki/API "wikilink")나 [REST](https://ko.wikipedia.org/wiki/REST "wikilink"), [Avro](https://ko.wikipedia.org/wiki/아파치_아브로 "wikilink") 또는 [Thrift](https://ko.wikipedia.org/wiki/Thrift "wikilink") 게이트웨이를 통하여 접근할 수 있다.
+HBase는 압축, 인메모리 처리, 초기 빅테이블에 제시되어 있는 [Bloom 필터](../Page/블룸_필터.md "wikilink") 기능을 제공한다.\[1\] HBase에 있는 테이블들은 하둡에서 동작하는 [맵리듀스](../Page/맵리듀스.md "wikilink") 작업을 위한 입출력을 제공하며 자바 [API](../Page/API.md "wikilink")나 [REST](../Page/REST.md "wikilink"), [Avro](../Page/아파치_아브로.md "wikilink") 또는 [Thrift](https://ko.wikipedia.org/wiki/Thrift "wikilink") 게이트웨이를 통하여 접근할 수 있다.
 
-HBase는 기존의 [SQL](https://ko.wikipedia.org/wiki/SQL "wikilink") 데이터 베이스를 직접적으로 대체하지는 않지만 [페이스북](https://ko.wikipedia.org/wiki/페이스북 "wikilink")의 메시징 플랫폼\[2\]과 같은 데이터를 많이 사용하는 웹사이트에서 사용된다.\[3\]\[4\]\[5\]
+HBase는 기존의 [SQL](../Page/SQL.md "wikilink") 데이터 베이스를 직접적으로 대체하지는 않지만 [페이스북](../Page/페이스북.md "wikilink")의 메시징 플랫폼\[2\]과 같은 데이터를 많이 사용하는 웹사이트에서 사용된다.\[3\]\[4\]\[5\]
 
 ## 같이 보기
 
@@ -14,7 +14,7 @@ HBase는 기존의 [SQL](https://ko.wikipedia.org/wiki/SQL "wikilink") 데이터
   - [아파치 주키퍼](../Page/아파치_주키퍼.md "wikilink")
   - [아파치 피그](../Page/아파치_피그.md "wikilink")
   - [아파치 하이브](../Page/아파치_하이브.md "wikilink")
-  - [아파치 카산드라](https://ko.wikipedia.org/wiki/아파치_카산드라 "wikilink")
+  - [아파치 카산드라](../Page/아파치_카산드라.md "wikilink")
   - [하둡](https://ko.wikipedia.org/wiki/하둡 "wikilink")
   - [Apache Accumulo](https://ko.wikipedia.org/wiki/Apache_Accumulo "wikilink")
   - [Hypertable](https://ko.wikipedia.org/wiki/Hypertable "wikilink")

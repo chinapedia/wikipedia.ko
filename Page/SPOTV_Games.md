@@ -1,34 +1,34 @@
 > This article is converted from Wikipedia: [SPOTV Games](https://ko.wikipedia.org/wiki/SPOTV_Games).
 
 
-**SPO TV 게임즈**(SPO TV GAMES)는 스포츠 중계권 업체로 유명한 [에이클라 엔터테인먼트](https://ko.wikipedia.org/wiki/에이클라_엔터테인먼트 "wikilink") 산하의 게임 전문 채널이다. [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [12월 28일](https://ko.wikipedia.org/wiki/12월_28일 "wikilink") 개국했다.
+**SPO TV 게임즈**(SPO TV GAMES)는 스포츠 중계권 업체로 유명한 [에이클라 엔터테인먼트](https://ko.wikipedia.org/wiki/에이클라_엔터테인먼트 "wikilink") 산하의 게임 전문 채널이다. [2013년](../Page/2013년.md "wikilink") [12월 28일](../Page/12월_28일.md "wikilink") 개국했다.
 
 SPO TV 게임즈의 개국 전에는 SPO TV에서 2012 MLG vs Proleague Invitational과 SK플래닛 스타크래프트 II 프로리그 12-13, WCG 2013 그랜드파이널의 중계를 맡기도 했다.
 
-2015년 현재 [IPTV](https://ko.wikipedia.org/wiki/IPTV "wikilink")의 [B TV와](https://ko.wikipedia.org/wiki/B_TV "wikilink") [U+ TV](https://ko.wikipedia.org/wiki/U+_TV "wikilink"), [올레 TV에서](https://ko.wikipedia.org/wiki/올레_TV "wikilink"), [케이블 TV는](https://ko.wikipedia.org/wiki/케이블_TV "wikilink") [CJ헬로비전](https://ko.wikipedia.org/wiki/CJ헬로비전 "wikilink"), [C\&M](https://ko.wikipedia.org/wiki/C&M "wikilink"), [아름방송](https://ko.wikipedia.org/wiki/아름방송 "wikilink"), [현대HCN](https://ko.wikipedia.org/wiki/현대HCN "wikilink"), [CMB](https://ko.wikipedia.org/wiki/CMB_\(방송사\) "wikilink"), [푸른방송](https://ko.wikipedia.org/wiki/푸른방송 "wikilink"), [서경방송](https://ko.wikipedia.org/wiki/서경방송 "wikilink"), [충북방송](https://ko.wikipedia.org/wiki/충북방송 "wikilink"), [티브로드](https://ko.wikipedia.org/wiki/티브로드 "wikilink"), [광주방송](https://ko.wikipedia.org/wiki/광주방송_\(KCTV\) "wikilink"), [남인천방송](https://ko.wikipedia.org/wiki/남인천방송 "wikilink")에서 송출되고 있다.\[1\] 또한 [네이버 스포츠](https://ko.wikipedia.org/wiki/네이버_뉴스 "wikilink"), [유튜브](https://ko.wikipedia.org/wiki/유튜브 "wikilink"), [아프리카TV](https://ko.wikipedia.org/wiki/아프리카TV "wikilink") 등의 채널링으로 SPO TV 게임즈의 실시간 시청이 가능하다.
+2015년 현재 [IPTV](../Page/IPTV.md "wikilink")의 [B TV와](../Page/B_TV.md "wikilink") [U+ TV](../Page/U+_TV.md "wikilink"), [올레 TV에서](../Page/올레_TV.md "wikilink"), [케이블 TV는](https://ko.wikipedia.org/wiki/케이블_TV "wikilink") [CJ헬로비전](https://ko.wikipedia.org/wiki/CJ헬로비전 "wikilink"), [C\&M](https://ko.wikipedia.org/wiki/C&M "wikilink"), [아름방송](https://ko.wikipedia.org/wiki/아름방송 "wikilink"), [현대HCN](../Page/현대HCN.md "wikilink"), [CMB](../Page/CMB_\(방송사\).md "wikilink"), [푸른방송](https://ko.wikipedia.org/wiki/푸른방송 "wikilink"), [서경방송](../Page/서경방송.md "wikilink"), [충북방송](https://ko.wikipedia.org/wiki/충북방송 "wikilink"), [티브로드](../Page/티브로드.md "wikilink"), [광주방송](../Page/광주방송_\(KCTV\).md "wikilink"), [남인천방송](../Page/남인천방송.md "wikilink")에서 송출되고 있다.\[1\] 또한 [네이버 스포츠](../Page/네이버_뉴스.md "wikilink"), [유튜브](../Page/유튜브.md "wikilink"), [아프리카TV](../Page/아프리카TV.md "wikilink") 등의 채널링으로 SPO TV 게임즈의 실시간 시청이 가능하다.
 
 ## 연혁
 
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 2012 MLG vs Proleague Invitational 중계 ([SPOTV](https://ko.wikipedia.org/wiki/SPOTV "wikilink"))
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 스타크래프트 II 프로리그 12-13 중계 ([SPOTV](https://ko.wikipedia.org/wiki/SPOTV "wikilink"))
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") WCG 2013 그랜드파이널 중계 ([SPOTV](https://ko.wikipedia.org/wiki/SPOTV "wikilink"))
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [12월 28일](https://ko.wikipedia.org/wiki/12월_28일 "wikilink") **SPO TV 게임즈** 정식 개국 ([B TV](https://ko.wikipedia.org/wiki/B_TV "wikilink"), [U+ TV](https://ko.wikipedia.org/wiki/U+_TV "wikilink") 송출 시작)
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [2월 25일](https://ko.wikipedia.org/wiki/2월_25일 "wikilink") [CJ헬로비전](https://ko.wikipedia.org/wiki/CJ헬로비전 "wikilink") 송출 시작
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [4월 30일](https://ko.wikipedia.org/wiki/4월_30일 "wikilink") [올레 TV](https://ko.wikipedia.org/wiki/올레_TV "wikilink") 송출 시작
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [9월 2일](https://ko.wikipedia.org/wiki/9월_2일 "wikilink") [U+ TV](https://ko.wikipedia.org/wiki/U+_TV "wikilink"), FULL HD로 화질 전환
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [1월 15일](https://ko.wikipedia.org/wiki/1월_15일 "wikilink") eSportsTV 런칭
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [7월 1일](https://ko.wikipedia.org/wiki/7월_1일 "wikilink") [올레 TV](https://ko.wikipedia.org/wiki/올레_TV "wikilink") 채널 번호 변경 (283 → 124)
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [7월 23일](https://ko.wikipedia.org/wiki/7월_23일 "wikilink") [C\&M](https://ko.wikipedia.org/wiki/C&M "wikilink") 송출 시작
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [7월 28일](https://ko.wikipedia.org/wiki/7월_28일 "wikilink") [아름방송](https://ko.wikipedia.org/wiki/아름방송 "wikilink") 송출 시작
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [8월 4일](https://ko.wikipedia.org/wiki/8월_4일 "wikilink") [현대HCN](https://ko.wikipedia.org/wiki/현대HCN "wikilink"), [CMB](https://ko.wikipedia.org/wiki/CMB_\(방송사\) "wikilink") 송출 시작
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [8월 11일](https://ko.wikipedia.org/wiki/8월_11일 "wikilink") [푸른방송](https://ko.wikipedia.org/wiki/푸른방송 "wikilink") 송출 시작
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [8월 25일](https://ko.wikipedia.org/wiki/8월_25일 "wikilink") [서경방송](https://ko.wikipedia.org/wiki/서경방송 "wikilink") 송출 시작
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [9월 3일](https://ko.wikipedia.org/wiki/9월_3일 "wikilink") [CJ헬로비전](https://ko.wikipedia.org/wiki/CJ헬로비전 "wikilink") 추가 송출 및 채널 번호 변경 (122 → 113)
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [9월 16일](https://ko.wikipedia.org/wiki/9월_16일 "wikilink") [충북방송](https://ko.wikipedia.org/wiki/충북방송 "wikilink") 송출 시작
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [10월 1일](https://ko.wikipedia.org/wiki/10월_1일 "wikilink") [티브로드](https://ko.wikipedia.org/wiki/티브로드 "wikilink") 송출 시작
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [11월 10일](https://ko.wikipedia.org/wiki/11월_10일 "wikilink") [광주방송](https://ko.wikipedia.org/wiki/광주방송_\(KCTV\) "wikilink") 송출 시작
-  - [2016년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [11월 8일](https://ko.wikipedia.org/wiki/11월_10일 "wikilink") [B TV](https://ko.wikipedia.org/wiki/B_TV "wikilink") 채널 번호 변경 (262 → 137)
-  - [2016년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [11월 8일](https://ko.wikipedia.org/wiki/11월_10일 "wikilink") [남인천방송](https://ko.wikipedia.org/wiki/남인천방송 "wikilink") 송출 시작
+  - [2012년](../Page/2012년.md "wikilink") 2012 MLG vs Proleague Invitational 중계 ([SPOTV](../Page/SPOTV.md "wikilink"))
+  - [2012년](../Page/2012년.md "wikilink") 스타크래프트 II 프로리그 12-13 중계 ([SPOTV](../Page/SPOTV.md "wikilink"))
+  - [2013년](../Page/2013년.md "wikilink") WCG 2013 그랜드파이널 중계 ([SPOTV](../Page/SPOTV.md "wikilink"))
+  - [2013년](../Page/2013년.md "wikilink") [12월 28일](../Page/12월_28일.md "wikilink") **SPO TV 게임즈** 정식 개국 ([B TV](../Page/B_TV.md "wikilink"), [U+ TV](../Page/U+_TV.md "wikilink") 송출 시작)
+  - [2014년](../Page/2014년.md "wikilink") [2월 25일](../Page/2월_25일.md "wikilink") [CJ헬로비전](https://ko.wikipedia.org/wiki/CJ헬로비전 "wikilink") 송출 시작
+  - [2014년](../Page/2014년.md "wikilink") [4월 30일](../Page/4월_30일.md "wikilink") [올레 TV](../Page/올레_TV.md "wikilink") 송출 시작
+  - [2014년](../Page/2014년.md "wikilink") [9월 2일](../Page/9월_2일.md "wikilink") [U+ TV](../Page/U+_TV.md "wikilink"), FULL HD로 화질 전환
+  - [2015년](../Page/2015년.md "wikilink") [1월 15일](../Page/1월_15일.md "wikilink") eSportsTV 런칭
+  - [2015년](../Page/2015년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") [올레 TV](../Page/올레_TV.md "wikilink") 채널 번호 변경 (283 → 124)
+  - [2015년](../Page/2015년.md "wikilink") [7월 23일](../Page/7월_23일.md "wikilink") [C\&M](https://ko.wikipedia.org/wiki/C&M "wikilink") 송출 시작
+  - [2015년](../Page/2015년.md "wikilink") [7월 28일](../Page/7월_28일.md "wikilink") [아름방송](https://ko.wikipedia.org/wiki/아름방송 "wikilink") 송출 시작
+  - [2015년](../Page/2015년.md "wikilink") [8월 4일](../Page/8월_4일.md "wikilink") [현대HCN](../Page/현대HCN.md "wikilink"), [CMB](../Page/CMB_\(방송사\).md "wikilink") 송출 시작
+  - [2015년](../Page/2015년.md "wikilink") [8월 11일](../Page/8월_11일.md "wikilink") [푸른방송](https://ko.wikipedia.org/wiki/푸른방송 "wikilink") 송출 시작
+  - [2015년](../Page/2015년.md "wikilink") [8월 25일](../Page/8월_25일.md "wikilink") [서경방송](../Page/서경방송.md "wikilink") 송출 시작
+  - [2015년](../Page/2015년.md "wikilink") [9월 3일](../Page/9월_3일.md "wikilink") [CJ헬로비전](https://ko.wikipedia.org/wiki/CJ헬로비전 "wikilink") 추가 송출 및 채널 번호 변경 (122 → 113)
+  - [2015년](../Page/2015년.md "wikilink") [9월 16일](../Page/9월_16일.md "wikilink") [충북방송](https://ko.wikipedia.org/wiki/충북방송 "wikilink") 송출 시작
+  - [2015년](../Page/2015년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") [티브로드](../Page/티브로드.md "wikilink") 송출 시작
+  - [2015년](../Page/2015년.md "wikilink") [11월 10일](../Page/11월_10일.md "wikilink") [광주방송](../Page/광주방송_\(KCTV\).md "wikilink") 송출 시작
+  - [2016년](../Page/2015년.md "wikilink") [11월 8일](../Page/11월_10일.md "wikilink") [B TV](../Page/B_TV.md "wikilink") 채널 번호 변경 (262 → 137)
+  - [2016년](../Page/2015년.md "wikilink") [11월 8일](../Page/11월_10일.md "wikilink") [남인천방송](../Page/남인천방송.md "wikilink") 송출 시작
 
 ## 리그 및 프로그램
 
@@ -36,16 +36,16 @@ SPO TV 게임즈의 개국 전에는 SPO TV에서 2012 MLG vs Proleague Invitati
 
 #### 리그
 
-  - [SSL 시리즈](https://ko.wikipedia.org/wiki/SSL_시리즈 "wikilink")
-      - 진행 및 해설 : [유대현](https://ko.wikipedia.org/wiki/유대현 "wikilink"), [김익근](https://ko.wikipedia.org/wiki/김익근 "wikilink"), [김철민](https://ko.wikipedia.org/wiki/김철민_\(방송인\) "wikilink"), [고인규](https://ko.wikipedia.org/wiki/고인규 "wikilink"), [안준영](https://ko.wikipedia.org/wiki/안준영_\(방송인\) "wikilink"). [정인호](https://ko.wikipedia.org/wiki/정인호_\(방송인\) "wikilink"), [한승엽](https://ko.wikipedia.org/wiki/한승엽 "wikilink"), [이성은](https://ko.wikipedia.org/wiki/이성은 "wikilink")
-  - [넥슨 카트라이더 리그](https://ko.wikipedia.org/wiki/카트라이더_리그 "wikilink")
-      - 진행 및 해설 : [성승헌](https://ko.wikipedia.org/wiki/성승헌 "wikilink"), [정준](https://ko.wikipedia.org/wiki/정준 "wikilink"), [김대겸](https://ko.wikipedia.org/wiki/김대겸 "wikilink")
+  - [SSL 시리즈](../Page/SSL_시리즈.md "wikilink")
+      - 진행 및 해설 : [유대현](../Page/유대현.md "wikilink"), [김익근](../Page/김익근.md "wikilink"), [김철민](../Page/김철민_\(방송인\).md "wikilink"), [고인규](../Page/고인규.md "wikilink"), [안준영](../Page/안준영_\(방송인\).md "wikilink"). [정인호](../Page/정인호_\(방송인\).md "wikilink"), [한승엽](https://ko.wikipedia.org/wiki/한승엽 "wikilink"), [이성은](https://ko.wikipedia.org/wiki/이성은 "wikilink")
+  - [넥슨 카트라이더 리그](../Page/카트라이더_리그.md "wikilink")
+      - 진행 및 해설 : [성승헌](../Page/성승헌.md "wikilink"), [정준](https://ko.wikipedia.org/wiki/정준 "wikilink"), [김대겸](../Page/김대겸.md "wikilink")
   - [피파온라인3 챔피언십](../Page/피파온라인3_챔피언십.md "wikilink")
-      - 진행 및 해설 : [성승헌](https://ko.wikipedia.org/wiki/성승헌 "wikilink"), [한승엽](https://ko.wikipedia.org/wiki/한승엽 "wikilink"), [장지현](https://ko.wikipedia.org/wiki/장지현 "wikilink"). [정인호](https://ko.wikipedia.org/wiki/정인호 "wikilink"), [김대겸](https://ko.wikipedia.org/wiki/김대겸 "wikilink")
-  - [액션토너먼트](https://ko.wikipedia.org/wiki/던전앤파이터_리그 "wikilink")
-      - 진행 및 해설 : [성승헌](https://ko.wikipedia.org/wiki/성승헌 "wikilink"), [정준](https://ko.wikipedia.org/wiki/정준 "wikilink")
-  - [KeSPA컵](https://ko.wikipedia.org/wiki/KeSPA컵 "wikilink")\[2\]
-      - 진행 및 해설 : [성승헌](https://ko.wikipedia.org/wiki/성승헌 "wikilink"), [고인규](https://ko.wikipedia.org/wiki/고인규 "wikilink"), [박진영](https://ko.wikipedia.org/wiki/박진영_\(프로게이머\) "wikilink")
+      - 진행 및 해설 : [성승헌](../Page/성승헌.md "wikilink"), [한승엽](https://ko.wikipedia.org/wiki/한승엽 "wikilink"), [장지현](../Page/장지현.md "wikilink"). [정인호](https://ko.wikipedia.org/wiki/정인호 "wikilink"), [김대겸](../Page/김대겸.md "wikilink")
+  - [액션토너먼트](../Page/던전앤파이터_리그.md "wikilink")
+      - 진행 및 해설 : [성승헌](../Page/성승헌.md "wikilink"), [정준](https://ko.wikipedia.org/wiki/정준 "wikilink")
+  - [KeSPA컵](../Page/KeSPA컵.md "wikilink")\[2\]
+      - 진행 및 해설 : [성승헌](../Page/성승헌.md "wikilink"), [고인규](../Page/고인규.md "wikilink"), [박진영](../Page/박진영_\(프로게이머\).md "wikilink")
 
 ### 과거 방송
 
@@ -62,12 +62,12 @@ SPO TV 게임즈의 개국 전에는 SPO TV에서 2012 MLG vs Proleague Invitati
   - [EA SPORTS 피파온라인3 챔피언십 2015](../Page/EA_SPORTS_피파온라인3_챔피언십_2015.md "wikilink")
   - [EA SPORTS 피파온라인3 챔피언십 2015 시즌2](https://ko.wikipedia.org/wiki/EA_SPORTS_피파온라인3_챔피언십_2015_시즌2 "wikilink")
   - 코리아 도타 2 리그
-  - [스타크래프트 프로리그](https://ko.wikipedia.org/wiki/스타크래프트_프로리그 "wikilink")
+  - [스타크래프트 프로리그](../Page/스타크래프트_프로리그.md "wikilink")
   - [인텔 익스트림 마스터즈](../Page/인텔_익스트림_마스터즈.md "wikilink")
   - The International
-  - [CRASH](https://ko.wikipedia.org/wiki/CRASH_\(e스포츠\) "wikilink")
+  - [CRASH](../Page/CRASH_\(e스포츠\).md "wikilink")
   - 서든어택 챔피언스리그
-  - [리그 오브 레전드 챔피언스 코리아](https://ko.wikipedia.org/wiki/리그_오브_레전드_챔피언스_코리아 "wikilink")
+  - [리그 오브 레전드 챔피언스 코리아](../Page/리그_오브_레전드_챔피언스_코리아.md "wikilink")
 
 #### 프로그램
 
@@ -93,19 +93,19 @@ SPO TV 게임즈의 개국 전에는 SPO TV에서 2012 MLG vs Proleague Invitati
 
 ## 관련 방송인
 
-  - [김철민](https://ko.wikipedia.org/wiki/김철민_\(방송인\) "wikilink") 캐스터
-  - [성승헌](https://ko.wikipedia.org/wiki/성승헌 "wikilink") 캐스터
+  - [김철민](../Page/김철민_\(방송인\).md "wikilink") 캐스터
+  - [성승헌](../Page/성승헌.md "wikilink") 캐스터
   - 이기민 캐스터
-  - [김익근](https://ko.wikipedia.org/wiki/김익근 "wikilink") 캐스터
-  - [유대현](https://ko.wikipedia.org/wiki/유대현 "wikilink") 캐스터 및 해설위원
+  - [김익근](../Page/김익근.md "wikilink") 캐스터
+  - [유대현](../Page/유대현.md "wikilink") 캐스터 및 해설위원
   - [한승엽](https://ko.wikipedia.org/wiki/한승엽 "wikilink") 해설위원
-  - [고인규](https://ko.wikipedia.org/wiki/고인규 "wikilink") 해설위원
-  - [장지현](https://ko.wikipedia.org/wiki/장지현 "wikilink") 해설위원
-  - [김대겸](https://ko.wikipedia.org/wiki/김대겸 "wikilink") 해설위원
+  - [고인규](../Page/고인규.md "wikilink") 해설위원
+  - [장지현](../Page/장지현.md "wikilink") 해설위원
+  - [김대겸](../Page/김대겸.md "wikilink") 해설위원
   - [정준](https://ko.wikipedia.org/wiki/정준_\(1983년\) "wikilink") 해설위원
-  - [정인호](https://ko.wikipedia.org/wiki/정인호_\(방송인\) "wikilink") 해설위원
-  - [온상민](https://ko.wikipedia.org/wiki/온상민 "wikilink") 해설위원
-  - [안준영](https://ko.wikipedia.org/wiki/안준영_\(방송인\) "wikilink") 해설위원
+  - [정인호](../Page/정인호_\(방송인\).md "wikilink") 해설위원
+  - [온상민](../Page/온상민.md "wikilink") 해설위원
+  - [안준영](../Page/안준영_\(방송인\).md "wikilink") 해설위원
   - [이성은](https://ko.wikipedia.org/wiki/이성은 "wikilink") 해설위원
 
 ## 같이 보기

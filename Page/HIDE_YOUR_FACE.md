@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [HIDE YOUR FACE](https://ko.wikipedia.org/wiki/HIDE_YOUR_FACE).
 
 
-《**HIDE YOUR FACE**》는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [기타리스트](https://ko.wikipedia.org/wiki/기타리스트 "wikilink")이자 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")인 [히데](https://ko.wikipedia.org/wiki/히데 "wikilink")의 솔로 데뷔 정규 앨범이다. 오리콘 앨범 차트에서는 통상판이 9위, 초회 판이 첫 등장 1위를 기록했다.
+《**HIDE YOUR FACE**》는 [일본](../Page/일본.md "wikilink")의 [기타리스트](https://ko.wikipedia.org/wiki/기타리스트 "wikilink")이자 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")인 [히데](../Page/히데.md "wikilink")의 솔로 데뷔 정규 앨범이다. 오리콘 앨범 차트에서는 통상판이 9위, 초회 판이 첫 등장 1위를 기록했다.
 
 2008년 12월 3일에 재발매되었다.
 
@@ -22,21 +22,21 @@
 
 ## 수록곡
 
-  - <small>〈FROZEN BUG '93(DIGGERS VERSION)〉은 〈FROZEN BUG〉의 리믹스 버전으로, 1993년 컴필레이션 《[Dance 2 Noise 004](https://ko.wikipedia.org/wiki/Dance_2_Noise_004 "wikilink")》에서 [LUNA SEA의](https://ko.wikipedia.org/wiki/LUNA_SEA "wikilink") [J](https://ko.wikipedia.org/wiki/J_\(음악가\) "wikilink"), [이노란](https://ko.wikipedia.org/wiki/이노란 "wikilink")과 함께 M×A×S×S라는 팀명의 밴드로 연주했다.</small>
+  - <small>〈FROZEN BUG '93(DIGGERS VERSION)〉은 〈FROZEN BUG〉의 리믹스 버전으로, 1993년 컴필레이션 《[Dance 2 Noise 004](https://ko.wikipedia.org/wiki/Dance_2_Noise_004 "wikilink")》에서 [LUNA SEA의](../Page/LUNA_SEA.md "wikilink") [J](../Page/J_\(음악가\).md "wikilink"), [이노란](https://ko.wikipedia.org/wiki/이노란 "wikilink")과 함께 M×A×S×S라는 팀명의 밴드로 연주했다.</small>
 
 ## 참여
 
-  - [히데](https://ko.wikipedia.org/wiki/히데 "wikilink")(hide) - [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), [작사](https://ko.wikipedia.org/wiki/작사 "wikilink")/[작곡](https://ko.wikipedia.org/wiki/작곡 "wikilink")/[편곡](https://ko.wikipedia.org/wiki/편곡 "wikilink"), [기타](https://ko.wikipedia.org/wiki/기타 "wikilink")
-  - I.N.A.(이나다 카즈히코) - 공동 프로듀서, [신시사이저](https://ko.wikipedia.org/wiki/신시사이저 "wikilink") 프로그래밍
+  - [히데](../Page/히데.md "wikilink")(hide) - [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), [작사](https://ko.wikipedia.org/wiki/작사 "wikilink")/[작곡](https://ko.wikipedia.org/wiki/작곡 "wikilink")/[편곡](../Page/편곡.md "wikilink"), [기타](../Page/기타.md "wikilink")
+  - I.N.A.(이나다 카즈히코) - 공동 프로듀서, [신시사이저](../Page/신시사이저.md "wikilink") 프로그래밍
   - Terry Bozzio – [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink")(2, 4, 10, 11, 14)
   - 아카이 미츠코 – 드럼(8, 13)
   - 이케하타 준지 - 드럼(15)
-  - T.M. Stevens – [베이스 기타](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink")(2, 4, 10, 11, 14)
+  - T.M. Stevens – [베이스 기타](../Page/베이스_기타.md "wikilink")(2, 4, 10, 11, 14)
   - 스즈키 미치아키 – 베이스(12)
   - 나라 토시히로 – 베이스(15)
-  - Rich "Korede-iinoda" Breene – [Rhodes](https://ko.wikipedia.org/wiki/피아노 "wikilink")(6)
-  - Neil Larson – [오르간](https://ko.wikipedia.org/wiki/오르간 "wikilink")(11)
-  - Jerry Hey, Gary E. Grant, William F. Reichenbach – [호른](https://ko.wikipedia.org/wiki/호른 "wikilink")(11)
+  - Rich "Korede-iinoda" Breene – [Rhodes](../Page/피아노.md "wikilink")(6)
+  - Neil Larson – [오르간](../Page/오르간.md "wikilink")(11)
+  - Jerry Hey, Gary E. Grant, William F. Reichenbach – [호른](../Page/호른.md "wikilink")(11)
   - Maxine Waters, Julia Waters, Carmen Twillie – [코러스](https://ko.wikipedia.org/wiki/코러스_\(대중음악\) "wikilink")(11)
   - Byron Berline – [피들](https://ko.wikipedia.org/wiki/피들 "wikilink")(15)
 

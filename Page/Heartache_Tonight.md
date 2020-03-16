@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Heartache Tonight](https://ko.wikipedia.org/wiki/Heartache_Tonight).
 
 
-"**Heartache Tonight**"은 [돈 헨리](../Page/돈_헨리.md "wikilink"), [글렌 프레이](https://ko.wikipedia.org/wiki/글렌_프레이 "wikilink"), [밥 시거](https://ko.wikipedia.org/wiki/밥_시거 "wikilink"), [J. D. 사우터가](https://ko.wikipedia.org/wiki/J._D._사우터 "wikilink") 작사하고 [이글스](https://ko.wikipedia.org/wiki/이글스 "wikilink")가 녹음한 노래이다. 이 곡은 이글스의 앨범인 [The Long Run에](../Page/The_Long_Run.md "wikilink") 포함되었으며, 1979년 싱글로 발매되었다. 발매된 해의 11월, 이 곡은 미국 빌보드 핫 100에서 1위를 차지하였다. 1주일동안만 1위를 차지하였음에도 불구하고 이 싱글은 백만장 이상이 판매되었다.
+"**Heartache Tonight**"은 [돈 헨리](../Page/돈_헨리.md "wikilink"), [글렌 프레이](https://ko.wikipedia.org/wiki/글렌_프레이 "wikilink"), [밥 시거](https://ko.wikipedia.org/wiki/밥_시거 "wikilink"), [J. D. 사우터가](https://ko.wikipedia.org/wiki/J._D._사우터 "wikilink") 작사하고 [이글스](../Page/이글스.md "wikilink")가 녹음한 노래이다. 이 곡은 이글스의 앨범인 [The Long Run에](../Page/The_Long_Run.md "wikilink") 포함되었으며, 1979년 싱글로 발매되었다. 발매된 해의 11월, 이 곡은 미국 빌보드 핫 100에서 1위를 차지하였다. 1주일동안만 1위를 차지하였음에도 불구하고 이 싱글은 백만장 이상이 판매되었다.
 
 ## 세션 구성
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ X-A1](https://ko.wikipedia.org/wiki/_X-A1).
 
 
-**후지필름 X-A1**은 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") 9월 출시한 후지필름의 [미러리스 렌즈 교환식 카메라이다](https://ko.wikipedia.org/wiki/미러리스_렌즈_교환식_카메라 "wikilink"). [X-Pro1과](../Page/후지필름_X-Pro1.md "wikilink") 같은 화소지만 X-Trans 센서는 아니며, EXR II 프로세서를 탑재했다. 뷰파인더가 탑재되지 않았으며 [X-M1의](../Page/후지필름_X-M1.md "wikilink") 아래에 위치한 라인업이다.\[1\]
+**후지필름 X-A1**은 [2013년](../Page/2013년.md "wikilink") 9월 출시한 후지필름의 [미러리스 렌즈 교환식 카메라이다](../Page/미러리스_렌즈_교환식_카메라.md "wikilink"). [X-Pro1과](../Page/후지필름_X-Pro1.md "wikilink") 같은 화소지만 X-Trans 센서는 아니며, EXR II 프로세서를 탑재했다. 뷰파인더가 탑재되지 않았으며 [X-M1의](../Page/후지필름_X-M1.md "wikilink") 아래에 위치한 라인업이다.\[1\]
 
 ## 성능
 

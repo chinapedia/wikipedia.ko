@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LOVE \& PEACE \( \)](https://ko.wikipedia.org/wiki/LOVE_\&_PEACE_\(_\)).
 
 
-《**LOVE & PEACE**》는 대한민국의 걸 그룹 [소녀시대](https://ko.wikipedia.org/wiki/소녀시대 "wikilink")의 세 번째 일본 정규 음반이다. 2013년 12월 10일 [디지털 다운로드로만](https://ko.wikipedia.org/wiki/디지털_다운로드 "wikilink") 발매되었으며, 그 다음 날 [나유타웨이브](https://ko.wikipedia.org/wiki/나유타웨이브 "wikilink")를 통해 오프라인으로도 발매되었다.
+《**LOVE & PEACE**》는 대한민국의 걸 그룹 [소녀시대](../Page/소녀시대.md "wikilink")의 세 번째 일본 정규 음반이다. 2013년 12월 10일 [디지털 다운로드로만](https://ko.wikipedia.org/wiki/디지털_다운로드 "wikilink") 발매되었으며, 그 다음 날 [나유타웨이브](https://ko.wikipedia.org/wiki/나유타웨이브 "wikilink")를 통해 오프라인으로도 발매되었다.
 
 ## 수록곡
 

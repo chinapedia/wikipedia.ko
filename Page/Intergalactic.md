@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Intergalactic](https://ko.wikipedia.org/wiki/Intergalactic).
 
 
-**Intergalactic**은 1998년 발매된 [비스티 보이즈의](https://ko.wikipedia.org/wiki/비스티_보이즈 "wikilink") [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink") 음반이다.
+**Intergalactic**은 1998년 발매된 [비스티 보이즈의](../Page/비스티_보이즈.md "wikilink") [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink") 음반이다.
 
 ## 곡 목록
 

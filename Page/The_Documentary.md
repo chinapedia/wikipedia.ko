@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Documentary](https://ko.wikipedia.org/wiki/The_Documentary).
 
 
-***The Documentary***는 미국의 랩퍼이자 예전 [G-Unit](https://ko.wikipedia.org/wiki/G-Unit "wikilink") 멤버였던 [게임의](https://ko.wikipedia.org/wiki/게임_\(래퍼\) "wikilink") 데뷔앨범이다. [에미넴](https://ko.wikipedia.org/wiki/에미넴 "wikilink"), [50 센트](https://ko.wikipedia.org/wiki/50_센트 "wikilink"), [버스타 라임스](https://ko.wikipedia.org/wiki/버스타_라임스 "wikilink") 등 유명한 가수들이 이 앨범에 참여했다.
+***The Documentary***는 미국의 랩퍼이자 예전 [G-Unit](../Page/G-Unit.md "wikilink") 멤버였던 [게임의](../Page/게임_\(래퍼\).md "wikilink") 데뷔앨범이다. [에미넴](https://ko.wikipedia.org/wiki/에미넴 "wikilink"), [50 센트](../Page/50_센트.md "wikilink"), [버스타 라임스](../Page/버스타_라임스.md "wikilink") 등 유명한 가수들이 이 앨범에 참여했다.
 
 ## 수록곡
 

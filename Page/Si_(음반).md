@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Si \(\)](https://ko.wikipedia.org/wiki/Si_\(\)).
 
 
-《**\[síː\]**》는, [도모토 쯔요시의](https://ko.wikipedia.org/wiki/도모토_츠요시 "wikilink") 2번째 [정규 음반이다](https://ko.wikipedia.org/wiki/정규_음반 "wikilink").
+《**\[síː\]**》는, [도모토 쯔요시의](../Page/도모토_츠요시.md "wikilink") 2번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
 
 ## 개요
 
-타이틀 \[síː\]에는, 〈생각하다〉의 〈See〉, 〈[바다](https://ko.wikipedia.org/wiki/바다 "wikilink")〉나 〈[해류](https://ko.wikipedia.org/wiki/해류 "wikilink")〉·〈[파도](https://ko.wikipedia.org/wiki/파도 "wikilink")〉를 의미하는 〈Sea〉, 그녀·남성의 시점에서 본 연인을 의미하는 〈She〉의 의미가 있다. 이 3개의 키워드는 본작의 컨셉트이기도 하다.
+타이틀 \[síː\]에는, 〈생각하다〉의 〈See〉, 〈[바다](../Page/바다.md "wikilink")〉나 〈[해류](../Page/해류.md "wikilink")〉·〈[파도](https://ko.wikipedia.org/wiki/파도 "wikilink")〉를 의미하는 〈Sea〉, 그녀·남성의 시점에서 본 연인을 의미하는 〈She〉의 의미가 있다. 이 3개의 키워드는 본작의 컨셉트이기도 하다.
 
 ## 수록곡
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Neo Africa Rainbow Ax](https://ko.wikipedia.org/wiki/Neo_Africa_Rainbow_Ax).
 
 
-《**Neo Africa Rainbow Ax**》는, [도모토 쯔요시가](https://ko.wikipedia.org/wiki/도모토_츠요시 "wikilink") [ENDLICHERI☆ENDLICHERI로서](https://ko.wikipedia.org/wiki/도모토_츠요시 "wikilink") 발매한 음반으로, 도모토 쯔요시 통상 4번째 [정규 음반이다](https://ko.wikipedia.org/wiki/정규_음반 "wikilink").
+《**Neo Africa Rainbow Ax**》는, [도모토 쯔요시가](../Page/도모토_츠요시.md "wikilink") [ENDLICHERI☆ENDLICHERI로서](../Page/도모토_츠요시.md "wikilink") 발매한 음반으로, 도모토 쯔요시 통상 4번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
 
 ## 개요
 

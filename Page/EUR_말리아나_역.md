@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [EUR  ](https://ko.wikipedia.org/wiki/EUR__).
 
 
-**EUR 말리아나 역**()은 [EUR에](https://ko.wikipedia.org/wiki/EUR_\(로마\) "wikilink") 위치한 [로마 지하철](https://ko.wikipedia.org/wiki/로마_지하철 "wikilink") [B선의](../Page/로마_지하철_B선.md "wikilink") 역 중 하나이다. 이 역은 1924년도에 개통했으며 [로마-리도 선](../Page/로마-리도_선.md "wikilink") [말리아나 철도역과](https://ko.wikipedia.org/wiki/말리아나_철도역 "wikilink") 환승이 가능하다. 이 역은 원래 **말리아나 오스티엔세 역**(Magliana Ostiense)이었지만 나중에 EUR 말라이나 역으로 개명했다.
+**EUR 말리아나 역**()은 [EUR에](https://ko.wikipedia.org/wiki/EUR_\(로마\) "wikilink") 위치한 [로마 지하철](../Page/로마_지하철.md "wikilink") [B선의](../Page/로마_지하철_B선.md "wikilink") 역 중 하나이다. 이 역은 1924년도에 개통했으며 [로마-리도 선](../Page/로마-리도_선.md "wikilink") [말리아나 철도역과](https://ko.wikipedia.org/wiki/말리아나_철도역 "wikilink") 환승이 가능하다. 이 역은 원래 **말리아나 오스티엔세 역**(Magliana Ostiense)이었지만 나중에 EUR 말라이나 역으로 개명했다.
 
 ## 시설
 

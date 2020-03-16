@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [I AND ](https://ko.wikipedia.org/wiki/I_AND_).
 
 
-《**I AND 사랑**》()은, [도모토 쯔요시가](https://ko.wikipedia.org/wiki/도모토_츠요시 "wikilink") [244 ENDLI-x로서](https://ko.wikipedia.org/wiki/도모토_츠요시 "wikilink") 발매한 음반으로, 도모토 쯔요시 통상 5번째 [정규 음반이다](https://ko.wikipedia.org/wiki/정규_음반 "wikilink").
+《**I AND 사랑**》()은, [도모토 쯔요시가](../Page/도모토_츠요시.md "wikilink") [244 ENDLI-x로서](../Page/도모토_츠요시.md "wikilink") 발매한 음반으로, 도모토 쯔요시 통상 5번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
 
 ## 개요
 
@@ -16,7 +16,7 @@
         인트로에 [소메이요시노가](../Page/소메이요시노_\(노래\).md "wikilink") 몇 초 흐르고 있다(그러나, 소리는 작다)
 2.  **Let's Get FUNKASY\!\!\!**
       -
-        [힙합](https://ko.wikipedia.org/wiki/힙합 "wikilink")을 도입한 악곡
+        [힙합](../Page/힙합.md "wikilink")을 도입한 악곡
 3.  **SEPPUN** / <small>**진홍의 입맞춤**</small>
 4.  **Yellow**
 5.  **Gotta find the way to go\!**

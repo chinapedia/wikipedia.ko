@@ -122,7 +122,7 @@
 <td></td>
 <td><p>1895년 8월</p></td>
 <td><p>1902년 7월 </p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/풋볼_리그_2부" title="wikilink">풋볼 리그 2부</a>(1898-99)</p></td>
+<td><p><a href="../Page/풋볼_리그_2부.md" title="wikilink">풋볼 리그 2부</a>(1898-99)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -137,7 +137,7 @@
 <td></td>
 <td><p>1902년 7월</p></td>
 <td><p>1906년 7월 </p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/풋볼_리그_2부" title="wikilink">풋볼 리그 2부</a>(1902-03), <a href="https://ko.wikipedia.org/wiki/FA컵" title="wikilink">FA컵</a>(1904)</p></td>
+<td><p><a href="../Page/풋볼_리그_2부.md" title="wikilink">풋볼 리그 2부</a>(1902-03), <a href="../Page/FA컵.md" title="wikilink">FA컵</a>(1904)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -152,7 +152,7 @@
 <td></td>
 <td><p>1906년 7월</p></td>
 <td><p>1912년 7월 </p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/풋볼_리그_2부" title="wikilink">풋볼 리그 2부</a>(1909-10)</p></td>
+<td><p><a href="../Page/풋볼_리그_2부.md" title="wikilink">풋볼 리그 2부</a>(1909-10)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -228,7 +228,7 @@
 <td></td>
 <td><p>1926년 4월 26일</p></td>
 <td><p>1932년 3월 12일 </p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/풋볼_리그_2부" title="wikilink">풋볼 리그 2부</a>(1927-28)</p></td>
+<td><p><a href="../Page/풋볼_리그_2부.md" title="wikilink">풋볼 리그 2부</a>(1927-28)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -243,7 +243,7 @@
 <td></td>
 <td><p>1932년 3월 14일</p></td>
 <td><p>1946년 12월 1일 </p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/FA컵" title="wikilink">FA컵</a>(1934), <a href="https://ko.wikipedia.org/wiki/풋볼_리그_1부" title="wikilink">풋볼 리그 1부</a>(1936-37),</p>
+<td><p><a href="../Page/FA컵.md" title="wikilink">FA컵</a>(1934), <a href="../Page/풋볼_리그_1부.md" title="wikilink">풋볼 리그 1부</a>(1936-37),</p>
 <p><a href="https://ko.wikipedia.org/wiki/fA_커뮤니티_실드" title="wikilink">커뮤니티 실드</a>(1937)</p></td>
 <td></td>
 <td></td>
@@ -259,7 +259,7 @@
 <td></td>
 <td><p>1946년 12월 2일</p></td>
 <td><p>1947년 6월 30일 </p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/풋볼_리그_2부" title="wikilink">풋볼 리그 2부</a>(1946-47)</p></td>
+<td><p><a href="../Page/풋볼_리그_2부.md" title="wikilink">풋볼 리그 2부</a>(1946-47)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -304,7 +304,7 @@
 <td></td>
 <td><p>1950년 6월</p></td>
 <td><p>1963년 5월 </p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/FA컵" title="wikilink">FA컵</a>(1956)</p></td>
+<td><p><a href="../Page/FA컵.md" title="wikilink">FA컵</a>(1956)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -349,8 +349,8 @@
 <td></td>
 <td><p>1965년 7월 13일</p></td>
 <td><p>1971년 10월 7일 </p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/풋볼_리그_2부" title="wikilink">풋볼 리그 2부</a>(1965-66), <a href="https://ko.wikipedia.org/wiki/풋볼_리그_1부" title="wikilink">풋볼 리그 1부</a>(1967-68),</p>
-<p><a href="https://ko.wikipedia.org/wiki/fA_커뮤니티_실드" title="wikilink">커뮤니티 실드</a>(1968), <a href="https://ko.wikipedia.org/wiki/FA컵" title="wikilink">FA컵</a>(1969),</p>
+<td><p><a href="../Page/풋볼_리그_2부.md" title="wikilink">풋볼 리그 2부</a>(1965-66), <a href="../Page/풋볼_리그_1부.md" title="wikilink">풋볼 리그 1부</a>(1967-68),</p>
+<p><a href="https://ko.wikipedia.org/wiki/fA_커뮤니티_실드" title="wikilink">커뮤니티 실드</a>(1968), <a href="../Page/FA컵.md" title="wikilink">FA컵</a>(1969),</p>
 <p><a href="https://ko.wikipedia.org/wiki/풋볼_리그_컵" title="wikilink">칼링컵</a>(1970), <a href="https://ko.wikipedia.org/wiki/uEFA_컵_위너스컵" title="wikilink">유러피언 컵 위너스 컵</a>(1970)</p></td>
 <td></td>
 <td></td>
@@ -691,12 +691,12 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/케빈_키건" title="wikilink">케빈 키건</a></p></td>
+<td><p><a href="../Page/케빈_키건.md" title="wikilink">케빈 키건</a></p></td>
 <td><p>"킹 케"</p></td>
 <td></td>
 <td><p>2001년 5월 24일</p></td>
 <td><p>2005년 3월 11일 </p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/풋볼_리그_2부" title="wikilink">풋볼 리그 2부</a>(2001-02)</p></td>
+<td><p><a href="../Page/풋볼_리그_2부.md" title="wikilink">풋볼 리그 2부</a>(2001-02)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -721,7 +721,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/스벤예란_에릭손" title="wikilink">스벤예란 에릭손</a></p></td>
+<td><p><a href="../Page/스벤예란_에릭손.md" title="wikilink">스벤예란 에릭손</a></p></td>
 <td><p>"Svennis"</p></td>
 <td></td>
 <td><p>2007년 7월 6일</p></td>
@@ -736,7 +736,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/마크_휴스" title="wikilink">마크 휴스</a></p></td>
+<td><p><a href="../Page/마크_휴스.md" title="wikilink">마크 휴스</a></p></td>
 <td><p>"스파키"</p></td>
 <td></td>
 <td><p>2008년 6월 4일</p></td>
@@ -751,13 +751,13 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/로베르토_만치니" title="wikilink">로베르토 만치니</a></p></td>
+<td><p><a href="../Page/로베르토_만치니.md" title="wikilink">로베르토 만치니</a></p></td>
 <td><p>"바비 만치"</p></td>
 <td></td>
 <td><p>2009년 12월 19일</p></td>
 <td><p>2013년 5월 13일 </p></td>
 <td><p><small>2011 FA컵,<br />
-<a href="https://ko.wikipedia.org/wiki/프리미어리그" title="wikilink">프리미어리그</a> <a href="https://ko.wikipedia.org/wiki/프리미어리그_2011-12" title="wikilink">2011-12</a> 우승,<br />
+<a href="https://ko.wikipedia.org/wiki/프리미어리그" title="wikilink">프리미어리그</a> <a href="../Page/프리미어리그_2011-12.md" title="wikilink">2011-12</a> 우승,<br />
 <a href="https://ko.wikipedia.org/wiki/커뮤니티실드_2012" title="wikilink">커뮤니티실드 2012</a></small></p></td>
 <td></td>
 <td></td>
@@ -783,7 +783,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/마누엘_페예그리니" title="wikilink">마누엘 페예그리니</a></p></td>
+<td><p><a href="../Page/마누엘_페예그리니.md" title="wikilink">마누엘 페예그리니</a></p></td>
 <td><p>"엔지니어"</p></td>
 <td></td>
 <td><p>2013년 6월 14일</p></td>
@@ -838,4 +838,4 @@
 
 [분류:맨체스터 시티 FC의 축구 감독](https://ko.wikipedia.org/wiki/분류:맨체스터_시티_FC의_축구_감독 "wikilink")
 
-1.  [풋볼 리그 1부와](https://ko.wikipedia.org/wiki/풋볼_리그_1부 "wikilink") [FA 컵만](https://ko.wikipedia.org/wiki/FA컵 "wikilink") 합산
+1.  [풋볼 리그 1부와](../Page/풋볼_리그_1부.md "wikilink") [FA 컵만](../Page/FA컵.md "wikilink") 합산

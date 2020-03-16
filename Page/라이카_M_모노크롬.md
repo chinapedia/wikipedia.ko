@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ M ](https://ko.wikipedia.org/wiki/_M_).
 
 
-**라이카 M 모노크롬**()은 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 5월 공개된 [라이카](https://ko.wikipedia.org/wiki/라이카 "wikilink")의 [풀프레임](https://ko.wikipedia.org/wiki/풀프레임 "wikilink") [디지털 레인지 파인더 카메라이다](https://ko.wikipedia.org/wiki/거리계연동카메라 "wikilink").\[1\] M9과 같은 바디, 성능을 가졌으나 흑백 촬영(세피아, 콜드, 셀레늄 색상)만을 지원하며, ISO 범위가 10,000까지 지원하는 차이점이 있다. 컬러 촬영에 필요한 컬러 필터 어레이 층을 제거하여, 보다 심도있는 사진을 촬영할 수 있으며, 비슷한 수준의 센서보다 훨씬 더 많은 광량을 받아들일 수 있다.
+**라이카 M 모노크롬**()은 [2012년](../Page/2012년.md "wikilink") 5월 공개된 [라이카](https://ko.wikipedia.org/wiki/라이카 "wikilink")의 [풀프레임](https://ko.wikipedia.org/wiki/풀프레임 "wikilink") [디지털 레인지 파인더 카메라이다](https://ko.wikipedia.org/wiki/거리계연동카메라 "wikilink").\[1\] M9과 같은 바디, 성능을 가졌으나 흑백 촬영(세피아, 콜드, 셀레늄 색상)만을 지원하며, ISO 범위가 10,000까지 지원하는 차이점이 있다. 컬러 촬영에 필요한 컬러 필터 어레이 층을 제거하여, 보다 심도있는 사진을 촬영할 수 있으며, 비슷한 수준의 센서보다 훨씬 더 많은 광량을 받아들일 수 있다.
 
 ## 외형
 

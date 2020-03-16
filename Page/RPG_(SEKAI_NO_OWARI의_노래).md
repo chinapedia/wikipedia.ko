@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [RPG \(SEKAI NO OWARI \)](https://ko.wikipedia.org/wiki/RPG_\(SEKAI_NO_OWARI_\)).
 
 
-**RPG**(알피지)는 [SEKAI NO OWARI](https://ko.wikipedia.org/wiki/SEKAI_NO_OWARI "wikilink")(세카이노 오와리)의 4번째 메이저 싱글 음반이다. [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [5월 1일에](https://ko.wikipedia.org/wiki/5월_1일 "wikilink") [토이스 팩토리에서](https://ko.wikipedia.org/wiki/토이스_팩토리 "wikilink") 발매되었다.
+**RPG**(알피지)는 [SEKAI NO OWARI](../Page/SEKAI_NO_OWARI.md "wikilink")(세카이노 오와리)의 4번째 메이저 싱글 음반이다. [2013년](../Page/2013년.md "wikilink") [5월 1일에](../Page/5월_1일.md "wikilink") [토이스 팩토리에서](../Page/토이스_팩토리.md "wikilink") 발매되었다.
 
 ## 개요
 
 전작 [네무리 히메](https://ko.wikipedia.org/wiki/네무리_히메 "wikilink") 이후 약 11개월만의 싱글이다. 초회한정반 A, 초회한정반 B, 통상반 등 세 종류로 구성되어 있으며, 초회한정반 A에는 한정 라이브 CD가, 초회한정반 B에는 DVD가 특전으로 수록되어있다. 또한 통상반에는 당첨이 되면 '수수께끼 DVD'를 받을 수 있는 스크래치가 봉입(초회한정반 한정)되어 있다.
 
-RPG는 [도호](https://ko.wikipedia.org/wiki/도호 "wikilink") 배급의 영화 《[짱구는 못말려 극장판: 엄청 맛있어\! B급 음식 서바이벌\!](https://ko.wikipedia.org/wiki/짱구는_못말려_극장판:_엄청_맛있어!_B급_음식_서바이벌! "wikilink")》의 주제가이다. 멤버 후카세는 발매 직전에 골절하여, 지팡이를 짚고 음악 프로그램에 출연하였다.
+RPG는 [도호](../Page/도호.md "wikilink") 배급의 영화 《[짱구는 못말려 극장판: 엄청 맛있어\! B급 음식 서바이벌\!](../Page/짱구는_못말려_극장판:_엄청_맛있어!_B급_음식_서바이벌!.md "wikilink")》의 주제가이다. 멤버 후카세는 발매 직전에 골절하여, 지팡이를 짚고 음악 프로그램에 출연하였다.
 
-Earth Child는 [TV 아사히](https://ko.wikipedia.org/wiki/TV_아사히 "wikilink") 《부탁이야\! 랭킹》 2013년 5월 엔딩 테마 음악, Starlight Parade -CAN'T SLEEP FANTASY NIGHT Version-는 도호 배급의 영화 《[오늘, 사랑을 시작합니다.](https://ko.wikipedia.org/wiki/오늘,_사랑을_시작합니다 "wikilink")》 테마 음악이다.
+Earth Child는 [TV 아사히](../Page/TV_아사히.md "wikilink") 《부탁이야\! 랭킹》 2013년 5월 엔딩 테마 음악, Starlight Parade -CAN'T SLEEP FANTASY NIGHT Version-는 도호 배급의 영화 《[오늘, 사랑을 시작합니다.](../Page/오늘,_사랑을_시작합니다.md "wikilink")》 테마 음악이다.
 
 ## 수록곡
 
@@ -96,7 +96,7 @@ Selected Live CD of ARENA TOUR 2013 ENTERTAINMENT at 1.14 [오사카 성 홀](ht
 
 [일본 레코드 협회](https://ko.wikipedia.org/wiki/일본_레코드_협회 "wikilink") 골드
 
-  - [오리콘](https://ko.wikipedia.org/wiki/오리콘 "wikilink") 차트
+  - [오리콘](../Page/오리콘.md "wikilink") 차트
 
 <!-- end list -->
 

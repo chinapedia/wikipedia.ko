@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [FBC  ASD](https://ko.wikipedia.org/wiki/FBC__ASD).
 
 
-**풋볼 클럽 카살레 아소차치오네 스포르티바 딜레탄티스티카**()는 [이탈리아](https://ko.wikipedia.org/wiki/이탈리아 "wikilink") [카살레 몬페라토를](https://ko.wikipedia.org/wiki/카살레_몬페라토 "wikilink") 연고로 하는 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 이 팀은 [1909년](https://ko.wikipedia.org/wiki/1909년 "wikilink")에 창단되었다.
+**풋볼 클럽 카살레 아소차치오네 스포르티바 딜레탄티스티카**()는 [이탈리아](../Page/이탈리아.md "wikilink") [카살레 몬페라토를](https://ko.wikipedia.org/wiki/카살레_몬페라토 "wikilink") 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. 이 팀은 [1909년](../Page/1909년.md "wikilink")에 창단되었다.
 
 ## 역대 성적
 
-**[세리에 A](https://ko.wikipedia.org/wiki/세리에_A "wikilink")**:
+**[세리에 A](../Page/세리에_A.md "wikilink")**:
 
   - **우승 (1회)**: 1913-14
 
-**[세리에 B](https://ko.wikipedia.org/wiki/세리에_B "wikilink")**:
+**[세리에 B](../Page/세리에_B.md "wikilink")**:
 
   - **우승 (1회)**: 1929-30
 

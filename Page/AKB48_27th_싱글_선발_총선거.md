@@ -2,15 +2,15 @@
 
 
 {{역사적 사건 정보 | 이름 = AKB48 27th 선발 총선거
-\~팬이 선택하는 64의석\~ | 원어이름 =  | 그림 = Nippon Budokan 2010.jpg | 그림크기 = | Alt = 개표 이벤트가 행해진 일본 무도관日本武道館 | 그림설명 = | 섬네일시간 = | 별칭 = AKB48 제4회 선발 총선거 | 참가자 = [AKB48](https://ko.wikipedia.org/wiki/AKB48 "wikilink")
-[SKE48](https://ko.wikipedia.org/wiki/SKE48 "wikilink")
-[NMB48](https://ko.wikipedia.org/wiki/NMB48 "wikilink")
-[HKT48](https://ko.wikipedia.org/wiki/HKT48 "wikilink") | 장소 = 일본 무도관(개표 이벤트) | 날짜 = 2012년 5월 22일 10시 00분(JST) \~ 6월 5일 14시 59분(JST)(투표)
+\~팬이 선택하는 64의석\~ | 원어이름 =  | 그림 = Nippon Budokan 2010.jpg | 그림크기 = | Alt = 개표 이벤트가 행해진 일본 무도관日本武道館 | 그림설명 = | 섬네일시간 = | 별칭 = AKB48 제4회 선발 총선거 | 참가자 = [AKB48](../Page/AKB48.md "wikilink")
+[SKE48](../Page/SKE48.md "wikilink")
+[NMB48](../Page/NMB48.md "wikilink")
+[HKT48](../Page/HKT48.md "wikilink") | 장소 = 일본 무도관(개표 이벤트) | 날짜 = 2012년 5월 22일 10시 00분(JST) \~ 6월 5일 14시 59분(JST)(투표)
 2012년 6월 10일(개표) | 결과 = AKB48 27번째 싱글 〈〉의 선발 멤버 {{추가 연표 | 음악가 = [AKB48 선발 총선거](https://ko.wikipedia.org/wiki/AKB48_선발_총선거 "wikilink") | 음반종류 = 싱글 | 이전싱글 = \[\[AKB48_22nd_싱글_선발_총선거|
 
-**AKB48 27th 싱글 선발 총선거**()는 [AKB48](https://ko.wikipedia.org/wiki/AKB48 "wikilink")의 27번째 싱글 CD에 참여할 멤버를 팬 투표로 결정하는 이벤트이다. 이 선거에서 상위 16위까지의 멤버가 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [8월 29일에](https://ko.wikipedia.org/wiki/8월_29일 "wikilink") 발매된 \<[깅엄 체크](https://ko.wikipedia.org/wiki/깅엄체크 "wikilink")\>(ギンガムチェック)의 선발 멤버가 되었다.
+**AKB48 27th 싱글 선발 총선거**()는 [AKB48](../Page/AKB48.md "wikilink")의 27번째 싱글 CD에 참여할 멤버를 팬 투표로 결정하는 이벤트이다. 이 선거에서 상위 16위까지의 멤버가 [2012년](../Page/2012년.md "wikilink") [8월 29일에](../Page/8월_29일.md "wikilink") 발매된 \<[깅엄 체크](https://ko.wikipedia.org/wiki/깅엄체크 "wikilink")\>(ギンガムチェック)의 선발 멤버가 되었다.
 
-또한 최종 결과가 발표되는 개표 이벤트 〈AKB48 27th 싱글 선발 총선거 \~팬이 선택하는 64의석\~〉은 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [6월 6일에](https://ko.wikipedia.org/wiki/6월_6일 "wikilink") 일본 [무도관](https://ko.wikipedia.org/wiki/무도관 "wikilink")에서 실시되었다.
+또한 최종 결과가 발표되는 개표 이벤트 〈AKB48 27th 싱글 선발 총선거 \~팬이 선택하는 64의석\~〉은 [2012년](../Page/2012년.md "wikilink") [6월 6일에](../Page/6월_6일.md "wikilink") 일본 [무도관](https://ko.wikipedia.org/wiki/무도관 "wikilink")에서 실시되었다.
 
 ## 개요
 
@@ -20,7 +20,7 @@
 
 최종 결과는 제3자에 의해 집계되어 변호사의 확인 아래 봉투에 넣어 봉인된 것을 개표 행사장에서 개봉하는 형식으로 발표되었다.
 
-개표 이벤트의 형태는 처음으로 [후지 TV에](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 의해 지상파에서 특별 프로그램 〈AKB48 제4회 선발 총선거 생방송 SP〉로 생중계되었고, 이외에도 [유투브](https://ko.wikipedia.org/wiki/유투브 "wikilink")를 통해 결과 발표 전 라이브 이벤트부터 이벤트 종료까지 생중계로, 또한 득표 수 1위의 소신 표명 연설이 이날 밤 녹화로 방송되었다. 2012년 7월 7일에는 NHK BS 프리미엄의 〈음악 열대야〉에서 〈AKB48 선발 총선거 스페셜〉로 64위부터 1위까지의 모든 연설과 당일 선보인 라이브 전곡, 무대의 모습을 편집하여 방송했다.
+개표 이벤트의 형태는 처음으로 [후지 TV에](../Page/후지_TV.md "wikilink") 의해 지상파에서 특별 프로그램 〈AKB48 제4회 선발 총선거 생방송 SP〉로 생중계되었고, 이외에도 [유투브](https://ko.wikipedia.org/wiki/유투브 "wikilink")를 통해 결과 발표 전 라이브 이벤트부터 이벤트 종료까지 생중계로, 또한 득표 수 1위의 소신 표명 연설이 이날 밤 녹화로 방송되었다. 2012년 7월 7일에는 NHK BS 프리미엄의 〈음악 열대야〉에서 〈AKB48 선발 총선거 스페셜〉로 64위부터 1위까지의 모든 연설과 당일 선보인 라이브 전곡, 무대의 모습을 편집하여 방송했다.
 
 ## 투표 유자격자
 
@@ -41,7 +41,7 @@
 
 ## 후보자
 
-  - AKB48 - 총 88명([마에다 아츠코는](https://ko.wikipedia.org/wiki/마에다_아츠코 "wikilink") 불참)
+  - AKB48 - 총 88명([마에다 아츠코는](../Page/마에다_아츠코.md "wikilink") 불참)
   - SKE48 - 총 64명
   - NMB48 - 총 64명
   - HKT48 - 총 21명
@@ -54,37 +54,37 @@
 
   - 팀A(15명)
 
-[이와사 미사키](https://ko.wikipedia.org/wiki/이와사_미사키 "wikilink"), [오오타 아이카](https://ko.wikipedia.org/wiki/오오타_아이카 "wikilink"), [오오야 시즈카](https://ko.wikipedia.org/wiki/오오야_시즈카 "wikilink"), [카타야마 하루카](https://ko.wikipedia.org/wiki/카타야마_하루카 "wikilink"), [쿠라모치 아스카](https://ko.wikipedia.org/wiki/쿠라모치_아스카 "wikilink"), [코지마 하루나](https://ko.wikipedia.org/wiki/코지마_하루나 "wikilink"), [사시하라 리노](https://ko.wikipedia.org/wiki/사시하라_리노 "wikilink"), [시노다 마리코](https://ko.wikipedia.org/wiki/시노다_마리코 "wikilink"), [타카죠 아키](https://ko.wikipedia.org/wiki/타카죠_아키 "wikilink"), [타카하시 미나미](https://ko.wikipedia.org/wiki/타카하시_미나미 "wikilink"), [나카가와 하루카](https://ko.wikipedia.org/wiki/나카가와_하루카 "wikilink"), [나카타 치사토](https://ko.wikipedia.org/wiki/나카타_치사토 "wikilink"), [나카야 사야카](https://ko.wikipedia.org/wiki/나카야_사야카 "wikilink"), [마에다 아미](https://ko.wikipedia.org/wiki/마에다_아미 "wikilink"), [마츠바라 나츠미](https://ko.wikipedia.org/wiki/마츠바라_나츠미 "wikilink")
+[이와사 미사키](../Page/이와사_미사키.md "wikilink"), [오오타 아이카](../Page/오오타_아이카.md "wikilink"), [오오야 시즈카](https://ko.wikipedia.org/wiki/오오야_시즈카 "wikilink"), [카타야마 하루카](../Page/카타야마_하루카.md "wikilink"), [쿠라모치 아스카](../Page/쿠라모치_아스카.md "wikilink"), [코지마 하루나](../Page/코지마_하루나.md "wikilink"), [사시하라 리노](../Page/사시하라_리노.md "wikilink"), [시노다 마리코](../Page/시노다_마리코.md "wikilink"), [타카죠 아키](https://ko.wikipedia.org/wiki/타카죠_아키 "wikilink"), [타카하시 미나미](../Page/타카하시_미나미.md "wikilink"), [나카가와 하루카](../Page/나카가와_하루카.md "wikilink"), [나카타 치사토](https://ko.wikipedia.org/wiki/나카타_치사토 "wikilink"), [나카야 사야카](https://ko.wikipedia.org/wiki/나카야_사야카 "wikilink"), [마에다 아미](https://ko.wikipedia.org/wiki/마에다_아미 "wikilink"), [마츠바라 나츠미](https://ko.wikipedia.org/wiki/마츠바라_나츠미 "wikilink")
 
   - 팀K(15명)
 
-[아키모토 사야카](https://ko.wikipedia.org/wiki/아키모토_사야카 "wikilink"), [이타노 토모미](https://ko.wikipedia.org/wiki/이타노_토모미 "wikilink"), [우치다 마유미](https://ko.wikipedia.org/wiki/우치다_마유미 "wikilink"), [우메다 아야카](https://ko.wikipedia.org/wiki/우메다_아야카 "wikilink"), [오오시마 유코](https://ko.wikipedia.org/wiki/오오시마_유코 "wikilink"), [키쿠치 아야카](https://ko.wikipedia.org/wiki/키쿠치_아야카 "wikilink"), [타나베 미쿠](https://ko.wikipedia.org/wiki/타나베_미쿠 "wikilink"), [나카츠카 토모미](https://ko.wikipedia.org/wiki/나카츠카_토모미 "wikilink"), [니토 모에노](https://ko.wikipedia.org/wiki/니토_모에노 "wikilink"), [노나카 미사토](https://ko.wikipedia.org/wiki/노나카_미사토 "wikilink"), [후지에 레이나](https://ko.wikipedia.org/wiki/후지에_레이나 "wikilink"), [마츠이 사키코](https://ko.wikipedia.org/wiki/마츠이_사키코 "wikilink"), [미네기시 미나미](https://ko.wikipedia.org/wiki/미네기시_미나미 "wikilink"), [미야자와 사에](https://ko.wikipedia.org/wiki/미야자와_사에 "wikilink"), [요코야마 유이](https://ko.wikipedia.org/wiki/요코야마_유이 "wikilink")
+[아키모토 사야카](../Page/아키모토_사야카.md "wikilink"), [이타노 토모미](../Page/이타노_토모미.md "wikilink"), [우치다 마유미](../Page/우치다_마유미.md "wikilink"), [우메다 아야카](../Page/우메다_아야카.md "wikilink"), [오오시마 유코](https://ko.wikipedia.org/wiki/오오시마_유코 "wikilink"), [키쿠치 아야카](../Page/키쿠치_아야카.md "wikilink"), [타나베 미쿠](https://ko.wikipedia.org/wiki/타나베_미쿠 "wikilink"), [나카츠카 토모미](https://ko.wikipedia.org/wiki/나카츠카_토모미 "wikilink"), [니토 모에노](https://ko.wikipedia.org/wiki/니토_모에노 "wikilink"), [노나카 미사토](../Page/노나카_미사토.md "wikilink"), [후지에 레이나](../Page/후지에_레이나.md "wikilink"), [마츠이 사키코](../Page/마츠이_사키코.md "wikilink"), [미네기시 미나미](../Page/미네기시_미나미.md "wikilink"), [미야자와 사에](../Page/미야자와_사에.md "wikilink"), [요코야마 유이](../Page/요코야마_유이.md "wikilink")
 
   - 팀B(15명)
 
-[이시다 하루카](https://ko.wikipedia.org/wiki/이시다_하루카 "wikilink"), [카사이 토모미](https://ko.wikipedia.org/wiki/카사이_토모미 "wikilink"), [카시와기 유키](https://ko.wikipedia.org/wiki/카시와기_유키 "wikilink"), [키타하라 리에](https://ko.wikipedia.org/wiki/키타하라_리에 "wikilink"), [코바야시 카나](https://ko.wikipedia.org/wiki/코바야시_카나 "wikilink"), [코모리 미카](https://ko.wikipedia.org/wiki/코모리_미카 "wikilink"), [사토 아미나](https://ko.wikipedia.org/wiki/사토_아미나 "wikilink"), [사토 스미레](https://ko.wikipedia.org/wiki/사토_스미레 "wikilink"), [사토 나츠키](https://ko.wikipedia.org/wiki/사토_나츠키 "wikilink"), [스즈키 시호리](https://ko.wikipedia.org/wiki/스즈키_시호리 "wikilink"), [스즈키 마리야](https://ko.wikipedia.org/wiki/스즈키_마리야 "wikilink"), [치카노 리나](https://ko.wikipedia.org/wiki/치카노_리나 "wikilink"), [마스다 유카](https://ko.wikipedia.org/wiki/마스다_유카 "wikilink"), [미야자키 미호](https://ko.wikipedia.org/wiki/미야자키_미호 "wikilink"), [와타나베 마유](https://ko.wikipedia.org/wiki/와타나베_마유 "wikilink")
+[이시다 하루카](../Page/이시다_하루카.md "wikilink"), [카사이 토모미](../Page/카사이_토모미.md "wikilink"), [카시와기 유키](../Page/카시와기_유키.md "wikilink"), [키타하라 리에](../Page/키타하라_리에.md "wikilink"), [코바야시 카나](../Page/코바야시_카나.md "wikilink"), [코모리 미카](https://ko.wikipedia.org/wiki/코모리_미카 "wikilink"), [사토 아미나](https://ko.wikipedia.org/wiki/사토_아미나 "wikilink"), [사토 스미레](../Page/사토_스미레.md "wikilink"), [사토 나츠키](../Page/사토_나츠키.md "wikilink"), [스즈키 시호리](../Page/스즈키_시호리.md "wikilink"), [스즈키 마리야](https://ko.wikipedia.org/wiki/스즈키_마리야 "wikilink"), [치카노 리나](https://ko.wikipedia.org/wiki/치카노_리나 "wikilink"), [마스다 유카](../Page/마스다_유카.md "wikilink"), [미야자키 미호](../Page/미야자키_미호.md "wikilink"), [와타나베 마유](../Page/와타나베_마유.md "wikilink")
 
   - 팀4(16명)
 
-[아베 마리아](https://ko.wikipedia.org/wiki/아베_마리아 "wikilink"), [이치카와 미오리](https://ko.wikipedia.org/wiki/이치카와_미오리 "wikilink"), [이리야마 안나](https://ko.wikipedia.org/wiki/이리야마_안나 "wikilink"), [이와타 카렌](https://ko.wikipedia.org/wiki/이와타_카렌 "wikilink"), [오오바 미나](https://ko.wikipedia.org/wiki/오오바_미나 "wikilink"), [카토 레나](https://ko.wikipedia.org/wiki/카토_레나 "wikilink"), [카와에이 리나](https://ko.wikipedia.org/wiki/카와에이_리나 "wikilink"), [시마자키 하루카](https://ko.wikipedia.org/wiki/시마자키_하루카 "wikilink"), [시마다 하루카](https://ko.wikipedia.org/wiki/시마다_하루카 "wikilink"), [타카하시 쥬리](https://ko.wikipedia.org/wiki/타카하시_쥬리 "wikilink"), [타케우치 미유](https://ko.wikipedia.org/wiki/타케우치_미유 "wikilink"), [타노 유카](https://ko.wikipedia.org/wiki/타노_유카 "wikilink"), [나카마타 시오리](https://ko.wikipedia.org/wiki/나카마타_시오리 "wikilink"), [나카무라 마리코](https://ko.wikipedia.org/wiki/나카무라_마리코 "wikilink"), [나가오 마리야](https://ko.wikipedia.org/wiki/나가오_마리야 "wikilink"), [야마우치 스즈란](https://ko.wikipedia.org/wiki/야마우치_스즈란 "wikilink")
+[아베 마리아](https://ko.wikipedia.org/wiki/아베_마리아 "wikilink"), [이치카와 미오리](../Page/이치카와_미오리.md "wikilink"), [이리야마 안나](../Page/이리야마_안나.md "wikilink"), [이와타 카렌](../Page/이와타_카렌.md "wikilink"), [오오바 미나](../Page/오오바_미나.md "wikilink"), [카토 레나](../Page/카토_레나.md "wikilink"), [카와에이 리나](../Page/카와에이_리나.md "wikilink"), [시마자키 하루카](../Page/시마자키_하루카.md "wikilink"), [시마다 하루카](https://ko.wikipedia.org/wiki/시마다_하루카 "wikilink"), [타카하시 쥬리](https://ko.wikipedia.org/wiki/타카하시_쥬리 "wikilink"), [타케우치 미유](../Page/타케우치_미유.md "wikilink"), [타노 유카](../Page/타노_유카.md "wikilink"), [나카마타 시오리](../Page/나카마타_시오리.md "wikilink"), [나카무라 마리코](https://ko.wikipedia.org/wiki/나카무라_마리코 "wikilink"), [나가오 마리야](../Page/나가오_마리야.md "wikilink"), [야마우치 스즈란](../Page/야마우치_스즈란.md "wikilink")
 
   - 연구생(27명)
 
-[이즈타 리나](../Page/이즈타_리나.md "wikilink"), [코바야시 마리나](https://ko.wikipedia.org/wiki/코바야시_마리나 "wikilink"), [후지타 나나](../Page/후지타_나나.md "wikilink"), [코지마 나츠키](https://ko.wikipedia.org/wiki/코지마_나츠키 "wikilink"), [나토리 와카나](https://ko.wikipedia.org/wiki/나토리_와카나 "wikilink"), [모리카와 아야카](https://ko.wikipedia.org/wiki/모리카와_아야카 "wikilink"), [오오모리 미유](https://ko.wikipedia.org/wiki/오오모리_미유 "wikilink"), [사이드 요코타 에레나](https://ko.wikipedia.org/wiki/사이드_요코타_에레나 "wikilink"), [사사키 유카리](../Page/사사키_유카리.md "wikilink"), [히라타 리나](https://ko.wikipedia.org/wiki/히라타_리나 "wikilink"), [무토 토무](../Page/무토_토무.md "wikilink"), [아이가사 모에](https://ko.wikipedia.org/wiki/아이가사_모에 "wikilink"), [아메미야 마이카](https://ko.wikipedia.org/wiki/아메미야_마이카 "wikilink"), [이와타테 사호](https://ko.wikipedia.org/wiki/이와타테_사호 "wikilink"), [우메다 아아노](https://ko.wikipedia.org/wiki/우메다_아아노 "wikilink"), [오오시마 료카](../Page/오오시마_료카.md "wikilink"), [오카다 아야카](https://ko.wikipedia.org/wiki/오카다_아야카 "wikilink"), [키타 시오리](https://ko.wikipedia.org/wiki/키타_시오리 "wikilink"). [키타자와 사키](https://ko.wikipedia.org/wiki/키타자와_사키 "wikilink"), [시노자키 아야나](https://ko.wikipedia.org/wiki/시노자키_아야나 "wikilink"), [타카시마 유리나](https://ko.wikipedia.org/wiki/타카시마_유리나 "wikilink"), [하세가와 하루나](https://ko.wikipedia.org/wiki/하세가와_하루나 "wikilink"), [미츠무네 카오루](https://ko.wikipedia.org/wiki/미츠무네_카오루 "wikilink"), [무라야마 유이리](https://ko.wikipedia.org/wiki/무라야마_유이리 "wikilink"), [모기 시노부](../Page/모기_시노부.md "wikilink"), [모리야마 사쿠라](https://ko.wikipedia.org/wiki/모리야마_사쿠라 "wikilink"), [와타나베 네네](https://ko.wikipedia.org/wiki/와타나베_네네 "wikilink")
+[이즈타 리나](../Page/이즈타_리나.md "wikilink"), [코바야시 마리나](https://ko.wikipedia.org/wiki/코바야시_마리나 "wikilink"), [후지타 나나](../Page/후지타_나나.md "wikilink"), [코지마 나츠키](https://ko.wikipedia.org/wiki/코지마_나츠키 "wikilink"), [나토리 와카나](https://ko.wikipedia.org/wiki/나토리_와카나 "wikilink"), [모리카와 아야카](https://ko.wikipedia.org/wiki/모리카와_아야카 "wikilink"), [오오모리 미유](https://ko.wikipedia.org/wiki/오오모리_미유 "wikilink"), [사이드 요코타 에레나](https://ko.wikipedia.org/wiki/사이드_요코타_에레나 "wikilink"), [사사키 유카리](../Page/사사키_유카리.md "wikilink"), [히라타 리나](https://ko.wikipedia.org/wiki/히라타_리나 "wikilink"), [무토 토무](../Page/무토_토무.md "wikilink"), [아이가사 모에](https://ko.wikipedia.org/wiki/아이가사_모에 "wikilink"), [아메미야 마이카](https://ko.wikipedia.org/wiki/아메미야_마이카 "wikilink"), [이와타테 사호](../Page/이와타테_사호.md "wikilink"), [우메다 아아노](https://ko.wikipedia.org/wiki/우메다_아아노 "wikilink"), [오오시마 료카](../Page/오오시마_료카.md "wikilink"), [오카다 아야카](https://ko.wikipedia.org/wiki/오카다_아야카 "wikilink"), [키타 시오리](https://ko.wikipedia.org/wiki/키타_시오리 "wikilink"). [키타자와 사키](https://ko.wikipedia.org/wiki/키타자와_사키 "wikilink"), [시노자키 아야나](https://ko.wikipedia.org/wiki/시노자키_아야나 "wikilink"), [타카시마 유리나](https://ko.wikipedia.org/wiki/타카시마_유리나 "wikilink"), [하세가와 하루나](https://ko.wikipedia.org/wiki/하세가와_하루나 "wikilink"), [미츠무네 카오루](../Page/미츠무네_카오루.md "wikilink"), [무라야마 유이리](../Page/무라야마_유이리.md "wikilink"), [모기 시노부](../Page/모기_시노부.md "wikilink"), [모리야마 사쿠라](https://ko.wikipedia.org/wiki/모리야마_사쿠라 "wikilink"), [와타나베 네네](https://ko.wikipedia.org/wiki/와타나베_네네 "wikilink")
 
 ### SKE48
 
   - 팀S(14명)
 
-[오오야 마사나](https://ko.wikipedia.org/wiki/오오야_마사나 "wikilink"), [카토 루미](https://ko.wikipedia.org/wiki/카토_루미 "wikilink"), [키자키 유리아](https://ko.wikipedia.org/wiki/키자키_유리아 "wikilink"), [키노시타 유키코](https://ko.wikipedia.org/wiki/키노시타_유키코 "wikilink"), [쿠와바라 미즈키](https://ko.wikipedia.org/wiki/쿠와바라_미즈키 "wikilink"), [스다 아카리](https://ko.wikipedia.org/wiki/스다_아카리 "wikilink"), [타카다 시오리](https://ko.wikipedia.org/wiki/타카다_시오리 "wikilink"), [데구치 아키](https://ko.wikipedia.org/wiki/데구치_아키 "wikilink"), [나카니시 유카](https://ko.wikipedia.org/wiki/나카니시_유카 "wikilink"), [히라타 리카코](https://ko.wikipedia.org/wiki/히라타_리카코 "wikilink"), [히라마츠 카나코](https://ko.wikipedia.org/wiki/히라마츠_카나코 "wikilink"), [마츠이 쥬리나](https://ko.wikipedia.org/wiki/마츠이_쥬리나 "wikilink"), [마츠이 레나](https://ko.wikipedia.org/wiki/마츠이_레나 "wikilink"), [야가미 쿠미](https://ko.wikipedia.org/wiki/야가미_쿠미 "wikilink")
+[오오야 마사나](https://ko.wikipedia.org/wiki/오오야_마사나 "wikilink"), [카토 루미](https://ko.wikipedia.org/wiki/카토_루미 "wikilink"), [키자키 유리아](https://ko.wikipedia.org/wiki/키자키_유리아 "wikilink"), [키노시타 유키코](https://ko.wikipedia.org/wiki/키노시타_유키코 "wikilink"), [쿠와바라 미즈키](https://ko.wikipedia.org/wiki/쿠와바라_미즈키 "wikilink"), [스다 아카리](../Page/스다_아카리.md "wikilink"), [타카다 시오리](https://ko.wikipedia.org/wiki/타카다_시오리 "wikilink"), [데구치 아키](https://ko.wikipedia.org/wiki/데구치_아키 "wikilink"), [나카니시 유카](https://ko.wikipedia.org/wiki/나카니시_유카 "wikilink"), [히라타 리카코](https://ko.wikipedia.org/wiki/히라타_리카코 "wikilink"), [히라마츠 카나코](https://ko.wikipedia.org/wiki/히라마츠_카나코 "wikilink"), [마츠이 쥬리나](../Page/마츠이_쥬리나.md "wikilink"), [마츠이 레나](../Page/마츠이_레나.md "wikilink"), [야가미 쿠미](../Page/야가미_쿠미.md "wikilink")
 
   - 팀KII(16명)
 
-[아카에다 리리나](https://ko.wikipedia.org/wiki/아카에다_리리나 "wikilink"), [아비루 리호](https://ko.wikipedia.org/wiki/아비루_리호 "wikilink"), [이시다 안나](https://ko.wikipedia.org/wiki/이시다_안나 "wikilink"), [오기소 시오리](https://ko.wikipedia.org/wiki/오기소_시오리 "wikilink"), [카토 토모코](https://ko.wikipedia.org/wiki/카토_토모코 "wikilink"), [고토 리사코](https://ko.wikipedia.org/wiki/고토_리사코 "wikilink"), [사토 세이라](https://ko.wikipedia.org/wiki/사토_세이라 "wikilink"), [사토 미에코](https://ko.wikipedia.org/wiki/사토_미에코 "wikilink"), [타카야나기 아카네](https://ko.wikipedia.org/wiki/타카야나기_아카네 "wikilink"), [하타 사와코](https://ko.wikipedia.org/wiki/하타_사와코 "wikilink"), [후루카와 아이리](https://ko.wikipedia.org/wiki/후루카와_아이리 "wikilink"). [마츠모토 리나](https://ko.wikipedia.org/wiki/마츠모토_리나 "wikilink"), [무카이다 마나츠](https://ko.wikipedia.org/wiki/무카이다_마나츠 "wikilink"), [야카타 미키](https://ko.wikipedia.org/wiki/야카타_미키 "wikilink"), [야마다 레이카](https://ko.wikipedia.org/wiki/야마다_레이카 "wikilink"), [와카바야시 토모카](https://ko.wikipedia.org/wiki/와카바야시_토모카 "wikilink")
+[아카에다 리리나](https://ko.wikipedia.org/wiki/아카에다_리리나 "wikilink"), [아비루 리호](https://ko.wikipedia.org/wiki/아비루_리호 "wikilink"), [이시다 안나](https://ko.wikipedia.org/wiki/이시다_안나 "wikilink"), [오기소 시오리](https://ko.wikipedia.org/wiki/오기소_시오리 "wikilink"), [카토 토모코](https://ko.wikipedia.org/wiki/카토_토모코 "wikilink"), [고토 리사코](https://ko.wikipedia.org/wiki/고토_리사코 "wikilink"), [사토 세이라](https://ko.wikipedia.org/wiki/사토_세이라 "wikilink"), [사토 미에코](https://ko.wikipedia.org/wiki/사토_미에코 "wikilink"), [타카야나기 아카네](https://ko.wikipedia.org/wiki/타카야나기_아카네 "wikilink"), [하타 사와코](https://ko.wikipedia.org/wiki/하타_사와코 "wikilink"), [후루카와 아이리](../Page/후루카와_아이리.md "wikilink"). [마츠모토 리나](https://ko.wikipedia.org/wiki/마츠모토_리나 "wikilink"), [무카이다 마나츠](https://ko.wikipedia.org/wiki/무카이다_마나츠 "wikilink"), [야카타 미키](https://ko.wikipedia.org/wiki/야카타_미키 "wikilink"), [야마다 레이카](https://ko.wikipedia.org/wiki/야마다_레이카 "wikilink"), [와카바야시 토모카](https://ko.wikipedia.org/wiki/와카바야시_토모카 "wikilink")
 
   - 팀E(13명)
 
-[이소하라 쿄카](https://ko.wikipedia.org/wiki/이소하라_쿄카 "wikilink"), [우에노 카스미](https://ko.wikipedia.org/wiki/우에노_카스미 "wikilink"), [우메모토 마도카](https://ko.wikipedia.org/wiki/우메모토_마도카 "wikilink"), [카네코 시오리](https://ko.wikipedia.org/wiki/카네코_시오리 "wikilink"), [키모토 카논](https://ko.wikipedia.org/wiki/키모토_카논 "wikilink"), [코바야시 아미](https://ko.wikipedia.org/wiki/코바야시_아미 "wikilink"), [사카이 메이](https://ko.wikipedia.org/wiki/사카이_메이 "wikilink"), [시바타 아야](https://ko.wikipedia.org/wiki/시바타_아야 "wikilink"), [타카키 유미나](https://ko.wikipedia.org/wiki/타카키_유미나 "wikilink"), [타케우치 마이](https://ko.wikipedia.org/wiki/타케우치_마이 "wikilink"), [츠즈키 리카](https://ko.wikipedia.org/wiki/츠즈키_리카 "wikilink"), [하라 미나미](https://ko.wikipedia.org/wiki/하라_미나미 "wikilink"), [야마시타 유카리](https://ko.wikipedia.org/wiki/야마시타_유카리 "wikilink")
+[이소하라 쿄카](https://ko.wikipedia.org/wiki/이소하라_쿄카 "wikilink"), [우에노 카스미](https://ko.wikipedia.org/wiki/우에노_카스미 "wikilink"), [우메모토 마도카](https://ko.wikipedia.org/wiki/우메모토_마도카 "wikilink"), [카네코 시오리](../Page/카네코_시오리.md "wikilink"), [키모토 카논](../Page/키모토_카논.md "wikilink"), [코바야시 아미](https://ko.wikipedia.org/wiki/코바야시_아미 "wikilink"), [사카이 메이](https://ko.wikipedia.org/wiki/사카이_메이 "wikilink"), [시바타 아야](https://ko.wikipedia.org/wiki/시바타_아야 "wikilink"), [타카키 유미나](https://ko.wikipedia.org/wiki/타카키_유미나 "wikilink"), [타케우치 마이](https://ko.wikipedia.org/wiki/타케우치_마이 "wikilink"), [츠즈키 리카](https://ko.wikipedia.org/wiki/츠즈키_리카 "wikilink"), [하라 미나미](https://ko.wikipedia.org/wiki/하라_미나미 "wikilink"), [야마시타 유카리](https://ko.wikipedia.org/wiki/야마시타_유카리 "wikilink")
 
   - 연구생(21명)
 
@@ -94,11 +94,11 @@
 
   - 팀N(16명)
 
-[오가사와라 마유](https://ko.wikipedia.org/wiki/오가사와라_마유 "wikilink"), [카도와키 카나코](https://ko.wikipedia.org/wiki/카도와키_카나코 "wikilink"), [키시노 리카](https://ko.wikipedia.org/wiki/키시노_리카 "wikilink"), [키노시타 하루나](https://ko.wikipedia.org/wiki/키노시타_하루나 "wikilink"), [코타니 리호](https://ko.wikipedia.org/wiki/코타니_리호 "wikilink"), [콘도 리나](https://ko.wikipedia.org/wiki/콘도_리나 "wikilink"), [시노하라 칸나](https://ko.wikipedia.org/wiki/시노하라_칸나 "wikilink"), [죠니시 케이](https://ko.wikipedia.org/wiki/죠니시_케이 "wikilink"), [시로마 미루](https://ko.wikipedia.org/wiki/시로마_미루 "wikilink"), [후쿠모토 아이나](https://ko.wikipedia.org/wiki/후쿠모토_아이나 "wikilink"), [마츠다 시오리](https://ko.wikipedia.org/wiki/마츠다_시오리 "wikilink"), [야마구치 유키](https://ko.wikipedia.org/wiki/야마구치_유키 "wikilink"), [야마다 나나](https://ko.wikipedia.org/wiki/야마다_나나 "wikilink"), [야마모토 사야카](https://ko.wikipedia.org/wiki/야마모토_사야카 "wikilink"), [요시다 아카리](https://ko.wikipedia.org/wiki/요시다_아카리 "wikilink"), [와타나베 미유키](https://ko.wikipedia.org/wiki/와타나베_미유키 "wikilink")
+[오가사와라 마유](../Page/오가사와라_마유.md "wikilink"), [카도와키 카나코](https://ko.wikipedia.org/wiki/카도와키_카나코 "wikilink"), [키시노 리카](../Page/키시노_리카.md "wikilink"), [키노시타 하루나](../Page/키노시타_하루나.md "wikilink"), [코타니 리호](https://ko.wikipedia.org/wiki/코타니_리호 "wikilink"), [콘도 리나](https://ko.wikipedia.org/wiki/콘도_리나 "wikilink"), [시노하라 칸나](https://ko.wikipedia.org/wiki/시노하라_칸나 "wikilink"), [죠니시 케이](../Page/죠니시_케이.md "wikilink"), [시로마 미루](../Page/시로마_미루.md "wikilink"), [후쿠모토 아이나](../Page/후쿠모토_아이나.md "wikilink"), [마츠다 시오리](https://ko.wikipedia.org/wiki/마츠다_시오리 "wikilink"), [야마구치 유키](https://ko.wikipedia.org/wiki/야마구치_유키 "wikilink"), [야마다 나나](../Page/야마다_나나.md "wikilink"), [야마모토 사야카](https://ko.wikipedia.org/wiki/야마모토_사야카 "wikilink"), [요시다 아카리](https://ko.wikipedia.org/wiki/요시다_아카리 "wikilink"), [와타나베 미유키](../Page/와타나베_미유키.md "wikilink")
 
   - 팀M(15명)
 
-[오오타 리오나](https://ko.wikipedia.org/wiki/오오타_리오나 "wikilink"), [카와카미 레나](https://ko.wikipedia.org/wiki/카와카미_레나 "wikilink"), [키노시타 모모카](https://ko.wikipedia.org/wiki/키노시타_모모카 "wikilink"), [시마다 레나](https://ko.wikipedia.org/wiki/시마다_레나 "wikilink"), [죠 에리코](https://ko.wikipedia.org/wiki/죠_에리코 "wikilink"), [타카노 유이](https://ko.wikipedia.org/wiki/타카노_유이 "wikilink"), [타니가와 아이리](https://ko.wikipedia.org/wiki/타니가와_아이리 "wikilink"), [히카와 아야메](https://ko.wikipedia.org/wiki/히카와_아야메 "wikilink"), [후지타 루나](https://ko.wikipedia.org/wiki/후지타_루나 "wikilink"), [미타 마오](https://ko.wikipedia.org/wiki/미타_마오 "wikilink"), [무라카미 아야카](https://ko.wikipedia.org/wiki/무라카미_아야카 "wikilink"), [무라세 사에](https://ko.wikipedia.org/wiki/무라세_사에 "wikilink"), [야구라 후코](https://ko.wikipedia.org/wiki/야구라_후코 "wikilink"), [야마기시 나츠미](https://ko.wikipedia.org/wiki/야마기시_나츠미 "wikilink"), [요기 케이라](https://ko.wikipedia.org/wiki/요기_케이라 "wikilink")
+[오오타 리오나](https://ko.wikipedia.org/wiki/오오타_리오나 "wikilink"), [카와카미 레나](https://ko.wikipedia.org/wiki/카와카미_레나 "wikilink"), [키노시타 모모카](https://ko.wikipedia.org/wiki/키노시타_모모카 "wikilink"), [시마다 레나](https://ko.wikipedia.org/wiki/시마다_레나 "wikilink"), [죠 에리코](https://ko.wikipedia.org/wiki/죠_에리코 "wikilink"), [타카노 유이](https://ko.wikipedia.org/wiki/타카노_유이 "wikilink"), [타니가와 아이리](https://ko.wikipedia.org/wiki/타니가와_아이리 "wikilink"), [히카와 아야메](https://ko.wikipedia.org/wiki/히카와_아야메 "wikilink"), [후지타 루나](https://ko.wikipedia.org/wiki/후지타_루나 "wikilink"), [미타 마오](https://ko.wikipedia.org/wiki/미타_마오 "wikilink"), [무라카미 아야카](https://ko.wikipedia.org/wiki/무라카미_아야카 "wikilink"), [무라세 사에](https://ko.wikipedia.org/wiki/무라세_사에 "wikilink"), [야구라 후코](../Page/야구라_후코.md "wikilink"), [야마기시 나츠미](https://ko.wikipedia.org/wiki/야마기시_나츠미 "wikilink"), [요기 케이라](https://ko.wikipedia.org/wiki/요기_케이라 "wikilink")
 
   - 연구생
 
@@ -108,7 +108,7 @@
 
   - 팀H(16명)
 
-[야나이 치히로](https://ko.wikipedia.org/wiki/야나이_치히로 "wikilink"), [우에키 나오](https://ko.wikipedia.org/wiki/우에키_나오 "wikilink"), [쿠마자와 세리나](https://ko.wikipedia.org/wiki/쿠마자와_세리나 "wikilink"), [코다마 하루카](https://ko.wikipedia.org/wiki/코다마_하루카 "wikilink"), [코모리 유이](https://ko.wikipedia.org/wiki/코모리_유이 "wikilink"), [시모노 유키](https://ko.wikipedia.org/wiki/시모노_유키 "wikilink"), [스가모토 유코](https://ko.wikipedia.org/wiki/스가모토_유코 "wikilink"), [타나카 나츠미](https://ko.wikipedia.org/wiki/타나카_나츠미 "wikilink"), [타니구치 아이리](https://ko.wikipedia.org/wiki/타니구치_아이리 "wikilink"), [나카니시 치요리](https://ko.wikipedia.org/wiki/나카니시_치요리 "wikilink"), [마츠오카 나츠미](https://ko.wikipedia.org/wiki/마츠오카_나츠미 "wikilink"), [미야와키 사쿠라](https://ko.wikipedia.org/wiki/미야와키_사쿠라 "wikilink"), [무라시게 안나](https://ko.wikipedia.org/wiki/무라시게_안나 "wikilink"), [모토무라 아오이](https://ko.wikipedia.org/wiki/모토무라_아오이 "wikilink"), [모리야스 마도카](https://ko.wikipedia.org/wiki/모리야스_마도카 "wikilink"), [와카타베 하루카](https://ko.wikipedia.org/wiki/와카타베_하루카 "wikilink")
+[야나이 치히로](https://ko.wikipedia.org/wiki/야나이_치히로 "wikilink"), [우에키 나오](https://ko.wikipedia.org/wiki/우에키_나오 "wikilink"), [쿠마자와 세리나](https://ko.wikipedia.org/wiki/쿠마자와_세리나 "wikilink"), [코다마 하루카](https://ko.wikipedia.org/wiki/코다마_하루카 "wikilink"), [코모리 유이](https://ko.wikipedia.org/wiki/코모리_유이 "wikilink"), [시모노 유키](https://ko.wikipedia.org/wiki/시모노_유키 "wikilink"), [스가모토 유코](https://ko.wikipedia.org/wiki/스가모토_유코 "wikilink"), [타나카 나츠미](https://ko.wikipedia.org/wiki/타나카_나츠미 "wikilink"), [타니구치 아이리](https://ko.wikipedia.org/wiki/타니구치_아이리 "wikilink"), [나카니시 치요리](https://ko.wikipedia.org/wiki/나카니시_치요리 "wikilink"), [마츠오카 나츠미](../Page/마츠오카_나츠미.md "wikilink"), [미야와키 사쿠라](../Page/미야와키_사쿠라.md "wikilink"), [무라시게 안나](../Page/무라시게_안나.md "wikilink"), [모토무라 아오이](https://ko.wikipedia.org/wiki/모토무라_아오이 "wikilink"), [모리야스 마도카](https://ko.wikipedia.org/wiki/모리야스_마도카 "wikilink"), [와카타베 하루카](https://ko.wikipedia.org/wiki/와카타베_하루카 "wikilink")
 
   - 연구생(5명)
 
@@ -155,7 +155,7 @@
 </tr>
 <tr class="odd">
 <td><p>2위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/와타나베_마유" title="wikilink">와타나베 마유</a></p></td>
+<td><p><a href="../Page/와타나베_마유.md" title="wikilink">와타나베 마유</a></p></td>
 <td><p>팀B</p></td>
 <td><p>72574표</p></td>
 <td><p>11329표</p></td>
@@ -164,7 +164,7 @@
 </tr>
 <tr class="even">
 <td><p>3위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/카시와기_유키" title="wikilink">카시와기 유키</a></p></td>
+<td><p><a href="../Page/카시와기_유키.md" title="wikilink">카시와기 유키</a></p></td>
 <td><p>팀B</p></td>
 <td><p>71076표</p></td>
 <td><p>12654표</p></td>
@@ -173,7 +173,7 @@
 </tr>
 <tr class="odd">
 <td><p>4위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/사시하라_리노" title="wikilink">사시하라 리노</a></p></td>
+<td><p><a href="../Page/사시하라_리노.md" title="wikilink">사시하라 리노</a></p></td>
 <td><p>팀A</p></td>
 <td><p>67339표</p></td>
 <td><p>9337표</p></td>
@@ -182,7 +182,7 @@
 </tr>
 <tr class="even">
 <td><p>5위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/시노다_마리코" title="wikilink">시노다 마리코</a></p></td>
+<td><p><a href="../Page/시노다_마리코.md" title="wikilink">시노다 마리코</a></p></td>
 <td><p>팀A</p></td>
 <td><p>67017표</p></td>
 <td><p>8619표</p></td>
@@ -191,7 +191,7 @@
 </tr>
 <tr class="odd">
 <td><p>6위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/타카하시_미나미" title="wikilink">타카하시 미나미</a></p></td>
+<td><p><a href="../Page/타카하시_미나미.md" title="wikilink">타카하시 미나미</a></p></td>
 <td><p>팀A</p></td>
 <td><p>65480표</p></td>
 <td><p>8955표</p></td>
@@ -200,7 +200,7 @@
 </tr>
 <tr class="even">
 <td><p>7위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/코지마_하루나" title="wikilink">코지마 하루나</a></p></td>
+<td><p><a href="../Page/코지마_하루나.md" title="wikilink">코지마 하루나</a></p></td>
 <td><p>팀A</p></td>
 <td><p>54483표</p></td>
 <td><p>5334표</p></td>
@@ -209,7 +209,7 @@
 </tr>
 <tr class="odd">
 <td><p>8위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이타노_토모미" title="wikilink">이타노 토모미</a></p></td>
+<td><p><a href="../Page/이타노_토모미.md" title="wikilink">이타노 토모미</a></p></td>
 <td><p>팀K</p></td>
 <td><p>50483표</p></td>
 <td><p>6595표</p></td>
@@ -218,7 +218,7 @@
 </tr>
 <tr class="even">
 <td><p>9위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/마츠이_쥬리나" title="wikilink">마츠이 쥬리나</a></p></td>
+<td><p><a href="../Page/마츠이_쥬리나.md" title="wikilink">마츠이 쥬리나</a></p></td>
 <td><p>팀S/팀K</p></td>
 <td><p>45747표</p></td>
 <td><p>7795표</p></td>
@@ -227,7 +227,7 @@
 </tr>
 <tr class="odd">
 <td><p>10위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/마츠이_레나" title="wikilink">마츠이 레나</a></p></td>
+<td><p><a href="../Page/마츠이_레나.md" title="wikilink">마츠이 레나</a></p></td>
 <td><p>팀S</p></td>
 <td><p>42030표</p></td>
 <td><p>8460표</p></td>
@@ -236,7 +236,7 @@
 </tr>
 <tr class="even">
 <td><p>11위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미야자와_사에" title="wikilink">미야자와 사에</a></p></td>
+<td><p><a href="../Page/미야자와_사에.md" title="wikilink">미야자와 사에</a></p></td>
 <td><p>팀K</p></td>
 <td><p>40261표</p></td>
 <td><p>6280표</p></td>
@@ -245,7 +245,7 @@
 </tr>
 <tr class="odd">
 <td><p>12위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/카사이_토모미" title="wikilink">카사이 토모미</a></p></td>
+<td><p><a href="../Page/카사이_토모미.md" title="wikilink">카사이 토모미</a></p></td>
 <td><p>팀B</p></td>
 <td><p>27005표</p></td>
 <td><p>3227표</p></td>
@@ -254,7 +254,7 @@
 </tr>
 <tr class="even">
 <td><p>13위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/키타하라_리에" title="wikilink">키타하라 리에</a></p></td>
+<td><p><a href="../Page/키타하라_리에.md" title="wikilink">키타하라 리에</a></p></td>
 <td><p>팀B</p></td>
 <td><p>26531표</p></td>
 <td><p>3302표</p></td>
@@ -263,7 +263,7 @@
 </tr>
 <tr class="odd">
 <td><p>14위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미네기시_미나미" title="wikilink">미네기시 미나미</a></p></td>
+<td><p><a href="../Page/미네기시_미나미.md" title="wikilink">미네기시 미나미</a></p></td>
 <td><p>팀K</p></td>
 <td><p>26038표</p></td>
 <td><p>3396표</p></td>
@@ -272,7 +272,7 @@
 </tr>
 <tr class="even">
 <td><p>15위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/요코야마_유이" title="wikilink">요코야마 유이</a></p></td>
+<td><p><a href="../Page/요코야마_유이.md" title="wikilink">요코야마 유이</a></p></td>
 <td><p>팀K</p></td>
 <td><p>25541표</p></td>
 <td><p>4301표</p></td>
@@ -281,7 +281,7 @@
 </tr>
 <tr class="odd">
 <td><p>16位</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/우메다_아야카" title="wikilink">우메다 아야카</a></p></td>
+<td><p><a href="../Page/우메다_아야카.md" title="wikilink">우메다 아야카</a></p></td>
 <td><p>팀K</p></td>
 <td><p>24522표</p></td>
 <td><p>3484표</p></td>
@@ -317,7 +317,7 @@
 </tr>
 <tr class="odd">
 <td><p>19위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/와타나베_미유키" title="wikilink">와타나베 미유키</a></p></td>
+<td><p><a href="../Page/와타나베_미유키.md" title="wikilink">와타나베 미유키</a></p></td>
 <td><p>팀N/팀B</p></td>
 <td><p>19159표</p></td>
 <td><p>2976표</p></td>
@@ -326,7 +326,7 @@
 </tr>
 <tr class="even">
 <td><p>20위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아키모토_사야카" title="wikilink">아키모토 사야카</a></p></td>
+<td><p><a href="../Page/아키모토_사야카.md" title="wikilink">아키모토 사야카</a></p></td>
 <td><p>팀K</p></td>
 <td><p>19121표</p></td>
 <td><p>1743표</p></td>
@@ -344,7 +344,7 @@
 </tr>
 <tr class="even">
 <td><p>22위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/쿠라모치_아스카" title="wikilink">쿠라모치 아스카</a></p></td>
+<td><p><a href="../Page/쿠라모치_아스카.md" title="wikilink">쿠라모치 아스카</a></p></td>
 <td><p>팀A</p></td>
 <td><p>14852표</p></td>
 <td><p>1653표</p></td>
@@ -353,7 +353,7 @@
 </tr>
 <tr class="odd">
 <td><p>23위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/시마자키_하루카" title="wikilink">시마자키 하루카</a></p></td>
+<td><p><a href="../Page/시마자키_하루카.md" title="wikilink">시마자키 하루카</a></p></td>
 <td><p>팀4</p></td>
 <td><p>14633표</p></td>
 <td><p>2340표</p></td>
@@ -380,7 +380,7 @@
 </tr>
 <tr class="even">
 <td><p>26위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/마스다_유카" title="wikilink">마스다 유카</a></p></td>
+<td><p><a href="../Page/마스다_유카.md" title="wikilink">마스다 유카</a></p></td>
 <td><p>팀B</p></td>
 <td><p>13166표</p></td>
 <td><p>2182표</p></td>
@@ -398,7 +398,7 @@
 </tr>
 <tr class="even">
 <td><p>28위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/야가미_쿠미" title="wikilink">야가미 쿠미</a></p></td>
+<td><p><a href="../Page/야가미_쿠미.md" title="wikilink">야가미 쿠미</a></p></td>
 <td><p>팀S</p></td>
 <td><p>11712표</p></td>
 <td><p>1671표</p></td>
@@ -407,7 +407,7 @@
 </tr>
 <tr class="odd">
 <td><p>29위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/스다_아카리" title="wikilink">스다 아카리</a></p></td>
+<td><p><a href="../Page/스다_아카리.md" title="wikilink">스다 아카리</a></p></td>
 <td><p>팀S</p></td>
 <td><p>11323표</p></td>
 <td><p>2149표</p></td>
@@ -416,7 +416,7 @@
 </tr>
 <tr class="even">
 <td><p>30위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후루카와_아이리" title="wikilink">후루카와 아이리</a></p></td>
+<td><p><a href="../Page/후루카와_아이리.md" title="wikilink">후루카와 아이리</a></p></td>
 <td><p>팀KII</p></td>
 <td><p>11179표</p></td>
 <td><p>2340표</p></td>
@@ -452,7 +452,7 @@
 </tr>
 <tr class="even">
 <td><p>33위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이와사_미사키" title="wikilink">이와사 미사키</a></p></td>
+<td><p><a href="../Page/이와사_미사키.md" title="wikilink">이와사 미사키</a></p></td>
 <td><p>팀A</p></td>
 <td><p>9297표</p></td>
 <td><p>1023표</p></td>
@@ -497,7 +497,7 @@
 </tr>
 <tr class="odd">
 <td><p>38위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미야자키_미호" title="wikilink">미야자키 미호</a></p></td>
+<td><p><a href="../Page/미야자키_미호.md" title="wikilink">미야자키 미호</a></p></td>
 <td><p>팀B</p></td>
 <td><p>8173표</p></td>
 <td><p>970표</p></td>
@@ -506,7 +506,7 @@
 </tr>
 <tr class="even">
 <td><p>39위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/나가오_마리야" title="wikilink">나가오 마리야</a></p></td>
+<td><p><a href="../Page/나가오_마리야.md" title="wikilink">나가오 마리야</a></p></td>
 <td><p>팀4</p></td>
 <td><p>7809표</p></td>
 <td><p>818표</p></td>
@@ -515,7 +515,7 @@
 </tr>
 <tr class="odd">
 <td><p>40위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후지에_레이나" title="wikilink">후지에 레이나</a></p></td>
+<td><p><a href="../Page/후지에_레이나.md" title="wikilink">후지에 레이나</a></p></td>
 <td><p>팀K</p></td>
 <td><p>|7782표</p></td>
 <td><p>1166표</p></td>
@@ -524,7 +524,7 @@
 </tr>
 <tr class="even">
 <td><p>41위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/코바야시_카나" title="wikilink">코바야시 카나</a></p></td>
+<td><p><a href="../Page/코바야시_카나.md" title="wikilink">코바야시 카나</a></p></td>
 <td><p>팀B</p></td>
 <td><p>7195표</p></td>
 <td><p>1110표</p></td>
@@ -542,7 +542,7 @@
 </tr>
 <tr class="even">
 <td><p>43위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후쿠모토_아이나" title="wikilink">후쿠모토 아이나</a></p></td>
+<td><p><a href="../Page/후쿠모토_아이나.md" title="wikilink">후쿠모토 아이나</a></p></td>
 <td><p>팀N</p></td>
 <td><p>6912표</p></td>
 <td><p>816표</p></td>
@@ -551,7 +551,7 @@
 </tr>
 <tr class="odd">
 <td><p>44위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/나카가와_하루카" title="wikilink">나카가와 하루카</a></p></td>
+<td><p><a href="../Page/나카가와_하루카.md" title="wikilink">나카가와 하루카</a></p></td>
 <td><p>팀A</p></td>
 <td><p>6890표</p></td>
 <td><p>1244표</p></td>
@@ -560,7 +560,7 @@
 </tr>
 <tr class="even">
 <td><p>45위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/타노_유카" title="wikilink">타노 유카</a></p></td>
+<td><p><a href="../Page/타노_유카.md" title="wikilink">타노 유카</a></p></td>
 <td><p>팀4</p></td>
 <td><p>6694표</p></td>
 <td><p>권외</p></td>
@@ -569,7 +569,7 @@
 </tr>
 <tr class="odd">
 <td><p>46위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/야마다_나나" title="wikilink">야마다 나나</a></p></td>
+<td><p><a href="../Page/야마다_나나.md" title="wikilink">야마다 나나</a></p></td>
 <td><p>팀N</p></td>
 <td><p>6683표</p></td>
 <td><p>1136표</p></td>
@@ -578,7 +578,7 @@
 </tr>
 <tr class="even">
 <td><p>47위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미야와키_사쿠라" title="wikilink">미야와키 사쿠라</a></p></td>
+<td><p><a href="../Page/미야와키_사쿠라.md" title="wikilink">미야와키 사쿠라</a></p></td>
 <td><p>팀H</p></td>
 <td><p>6635표</p></td>
 <td><p>권외</p></td>
@@ -587,7 +587,7 @@
 </tr>
 <tr class="odd">
 <td><p>48위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/카타야마_하루카" title="wikilink">카타야마 하루카</a></p></td>
+<td><p><a href="../Page/카타야마_하루카.md" title="wikilink">카타야마 하루카</a></p></td>
 <td><p>팀A</p></td>
 <td><p>6602표</p></td>
 <td><p>955표</p></td>
@@ -615,7 +615,7 @@
 </tr>
 <tr class="even">
 <td><p>50위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이시다_하루카" title="wikilink">이시다 하루카</a></p></td>
+<td><p><a href="../Page/이시다_하루카.md" title="wikilink">이시다 하루카</a></p></td>
 <td><p>팀B</p></td>
 <td><p>6333표</p></td>
 <td><p>985표</p></td>
@@ -624,7 +624,7 @@
 </tr>
 <tr class="odd">
 <td><p>51위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/키쿠치_아야카" title="wikilink">키쿠치 아야카</a></p></td>
+<td><p><a href="../Page/키쿠치_아야카.md" title="wikilink">키쿠치 아야카</a></p></td>
 <td><p>팀K</p></td>
 <td><p>6185표</p></td>
 <td><p>653표</p></td>
@@ -633,7 +633,7 @@
 </tr>
 <tr class="even">
 <td><p>52위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오오타_아이카" title="wikilink">오오타 아이카</a></p></td>
+<td><p><a href="../Page/오오타_아이카.md" title="wikilink">오오타 아이카</a></p></td>
 <td><p>팀A</p></td>
 <td><p>6140표</p></td>
 <td><p>912표</p></td>
@@ -642,7 +642,7 @@
 </tr>
 <tr class="odd">
 <td><p>53위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/마츠이_사키코" title="wikilink">마츠이 사키코</a></p></td>
+<td><p><a href="../Page/마츠이_사키코.md" title="wikilink">마츠이 사키코</a></p></td>
 <td><p>팀K</p></td>
 <td><p>6058표</p></td>
 <td><p>권외</p></td>
@@ -651,7 +651,7 @@
 </tr>
 <tr class="even">
 <td><p>54위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/야마우치_스즈란" title="wikilink">야마우치 스즈란</a></p></td>
+<td><p><a href="../Page/야마우치_스즈란.md" title="wikilink">야마우치 스즈란</a></p></td>
 <td><p>팀4</p></td>
 <td><p>6027표</p></td>
 <td><p>988표</p></td>
@@ -669,7 +669,7 @@
 </tr>
 <tr class="even">
 <td><p>56위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/키모토_카논" title="wikilink">키모토 카논</a></p></td>
+<td><p><a href="../Page/키모토_카논.md" title="wikilink">키모토 카논</a></p></td>
 <td><p>팀E</p></td>
 <td><p>5982표</p></td>
 <td><p>1039표</p></td>
@@ -678,7 +678,7 @@
 </tr>
 <tr class="odd">
 <td><p>57위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오오바_미나" title="wikilink">오오바 미나</a></p></td>
+<td><p><a href="../Page/오오바_미나.md" title="wikilink">오오바 미나</a></p></td>
 <td><p>팀4</p></td>
 <td><p>5969표</p></td>
 <td><p>786표</p></td>
@@ -687,7 +687,7 @@
 </tr>
 <tr class="even">
 <td><p>58위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이치카와_미오리" title="wikilink">이치카와 미오리</a></p></td>
+<td><p><a href="../Page/이치카와_미오리.md" title="wikilink">이치카와 미오리</a></p></td>
 <td><p>팀4</p></td>
 <td><p>5963표</p></td>
 <td><p>702표</p></td>
@@ -705,7 +705,7 @@
 </tr>
 <tr class="even">
 <td><p>60위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오가사와라_마유" title="wikilink">오가사와라 마유</a></p></td>
+<td><p><a href="../Page/오가사와라_마유.md" title="wikilink">오가사와라 마유</a></p></td>
 <td><p>팀N</p></td>
 <td><p>5919표</p></td>
 <td><p>1746표</p></td>
@@ -714,7 +714,7 @@
 </tr>
 <tr class="odd">
 <td><p>61위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/사토_스미레" title="wikilink">사토 스미레</a></p></td>
+<td><p><a href="../Page/사토_스미레.md" title="wikilink">사토 스미레</a></p></td>
 <td><p>팀B</p></td>
 <td><p>5706표</p></td>
 <td><p>권외</p></td>
@@ -772,7 +772,7 @@
   - [히라마츠 카나코](https://ko.wikipedia.org/wiki/히라마츠_카나코 "wikilink")(팀S) - 속보 46위(998표)
   - [마츠바라 나츠미](https://ko.wikipedia.org/wiki/마츠바라_나츠미 "wikilink")(팀A) - 속보 57위(750표)
   - [키노시타 유키코](https://ko.wikipedia.org/wiki/키노시타_유키코 "wikilink")(팀S) - 속보 57위(750표)
-  - [노나카 미사토](https://ko.wikipedia.org/wiki/노나카_미사토 "wikilink")(팀K) - 속보 60위(701표)
+  - [노나카 미사토](../Page/노나카_미사토.md "wikilink")(팀K) - 속보 60위(701표)
   - [에토 사야카](https://ko.wikipedia.org/wiki/에토_사야카 "wikilink")(H연) - 속보 62위(641표)
   - [타나베 미쿠](https://ko.wikipedia.org/wiki/타나베_미쿠 "wikilink")(팀K) - 속보 64위(616표)
 

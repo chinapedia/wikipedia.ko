@@ -1,51 +1,51 @@
 > This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
 
 
-《**강적들**》은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [TV조선](https://ko.wikipedia.org/wiki/TV조선 "wikilink")의 예능 프로그램으로서 예능과 황색저널 사이를 아슬아슬하게 넘나들며 최근 또는 과거의 이슈와 인물에 대해 우파적 입장에서 새롭게 분석하는 '시사 비하인드 토크쇼'를 표방한 프로그램이다. 편향적 프로그램이라는 비판을 피하기 위해 좌파 패널도 한명 세워놨다.\[1\]
+《**강적들**》은 [대한민국](../Page/대한민국.md "wikilink")의 [TV조선](../Page/TV조선.md "wikilink")의 예능 프로그램으로서 예능과 황색저널 사이를 아슬아슬하게 넘나들며 최근 또는 과거의 이슈와 인물에 대해 우파적 입장에서 새롭게 분석하는 '시사 비하인드 토크쇼'를 표방한 프로그램이다. 편향적 프로그램이라는 비판을 피하기 위해 좌파 패널도 한명 세워놨다.\[1\]
 
 ## 방송 시간
 
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [10월 23일](https://ko.wikipedia.org/wiki/10월_23일 "wikilink") \~ [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [10월 3일](https://ko.wikipedia.org/wiki/10월_3일 "wikilink") : 매주 수요일 심야 11시 \~ 오전 12시 30\~40분
-  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [10월 20일](https://ko.wikipedia.org/wiki/10월_20일 "wikilink") \~ 토요일 밤 9시 10분 \~ 10시 50분
+  - [2013년](../Page/2013년.md "wikilink") [10월 23일](../Page/10월_23일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [10월 3일](../Page/10월_3일.md "wikilink") : 매주 수요일 심야 11시 \~ 오전 12시 30\~40분
+  - [2018년](../Page/2018년.md "wikilink") [10월 20일](../Page/10월_20일.md "wikilink") \~ 토요일 밤 9시 10분 \~ 10시 50분
 
 ## 출연진
 
-  - [김성경](https://ko.wikipedia.org/wiki/김성경 "wikilink")
-  - [정미경](https://ko.wikipedia.org/wiki/정미경_\(정치인\) "wikilink")
-  - [전원책](https://ko.wikipedia.org/wiki/전원책 "wikilink")
+  - [김성경](../Page/김성경.md "wikilink")
+  - [정미경](../Page/정미경_\(정치인\).md "wikilink")
+  - [전원책](../Page/전원책.md "wikilink")
   - [김갑수](../Page/김갑수_\(시인\).md "wikilink")
 
 ## 역대 출연진
 
-  - [강용석](https://ko.wikipedia.org/wiki/강용석 "wikilink")
-  - [이소라](https://ko.wikipedia.org/wiki/이소라_\(모델\) "wikilink")
+  - [강용석](../Page/강용석.md "wikilink")
+  - [이소라](../Page/이소라_\(모델\).md "wikilink")
   - [임윤선](../Page/임윤선_\(변호사\).md "wikilink")
-  - [김신영](https://ko.wikipedia.org/wiki/김신영 "wikilink")
-  - [황현희](https://ko.wikipedia.org/wiki/황현희 "wikilink")
+  - [김신영](../Page/김신영.md "wikilink")
+  - [황현희](../Page/황현희.md "wikilink")
 
 <!-- end list -->
 
-  - [이윤석](https://ko.wikipedia.org/wiki/이윤석_\(희극인\) "wikilink")
+  - [이윤석](../Page/이윤석_\(희극인\).md "wikilink")
   - [손정혜](https://ko.wikipedia.org/wiki/손정혜 "wikilink")
-  - [서경석](https://ko.wikipedia.org/wiki/서경석_\(희극인\) "wikilink")
+  - [서경석](../Page/서경석_\(희극인\).md "wikilink")
   - [이인철](https://ko.wikipedia.org/wiki/이인철_\(법조인\) "wikilink")
-  - [송영선](https://ko.wikipedia.org/wiki/송영선_\(1953년\) "wikilink")
+  - [송영선](../Page/송영선_\(1953년\).md "wikilink")
 
 <!-- end list -->
 
-  - [박은지](https://ko.wikipedia.org/wiki/박은지_\(방송인\) "wikilink")
-  - [표창원](https://ko.wikipedia.org/wiki/표창원 "wikilink")
-  - [장제원](https://ko.wikipedia.org/wiki/장제원 "wikilink")
+  - [박은지](../Page/박은지_\(방송인\).md "wikilink")
+  - [표창원](../Page/표창원.md "wikilink")
+  - [장제원](../Page/장제원.md "wikilink")
   - [박종진](../Page/박종진_\(1967년\).md "wikilink")
-  - [유정현](https://ko.wikipedia.org/wiki/유정현_\(정치인\) "wikilink")
+  - [유정현](../Page/유정현_\(정치인\).md "wikilink")
 
 <!-- end list -->
 
   - [함익병](../Page/함익병.md "wikilink")
-  - [이준석](https://ko.wikipedia.org/wiki/이준석_\(정치인\) "wikilink")
-  - [강민구](https://ko.wikipedia.org/wiki/강민구 "wikilink")
+  - [이준석](../Page/이준석_\(정치인\).md "wikilink")
+  - [강민구](../Page/강민구.md "wikilink")
   - [이봉규](https://ko.wikipedia.org/wiki/이봉규_\(1958년\) "wikilink")
-  - [김진명](https://ko.wikipedia.org/wiki/김진명 "wikilink")
+  - [김진명](../Page/김진명.md "wikilink")
 
 ## 각주
 

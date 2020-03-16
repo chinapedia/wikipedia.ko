@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Rainbow Syndrome](https://ko.wikipedia.org/wiki/Rainbow_Syndrome).
 
 
-《**Rainbow Syndrome**》은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [걸 그룹](https://ko.wikipedia.org/wiki/걸_그룹 "wikilink") [레인보우의](https://ko.wikipedia.org/wiki/레인보우_\(음악_그룹\) "wikilink") 첫 번째 정규 음반이다. 2013년 2월 13일에 선행파트인《*Rainbow Syndrome Part.1*》과 2013년 6월4일에 후행파트인《*Rainbow Syndrome Part.2*》로 나누어 발매했다.
+《**Rainbow Syndrome**》은 [대한민국](../Page/대한민국.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") [레인보우의](https://ko.wikipedia.org/wiki/레인보우_\(음악_그룹\) "wikilink") 첫 번째 정규 음반이다. 2013년 2월 13일에 선행파트인《*Rainbow Syndrome Part.1*》과 2013년 6월4일에 후행파트인《*Rainbow Syndrome Part.2*》로 나누어 발매했다.
 
 ## *Rainbow Syndrome Part.1*
 
@@ -14,7 +14,7 @@
 
 ### 구성
 
-2단 하드팩 종이 케이스이며 멤버별 사진, 가사집 및 크레딧을 포함한 총 56매의 부클릿이 수록되어있고 추가사진과 영상 콘텐츠 연결을 위한 스마트폰 애플리케이션용 [QR 코드](https://ko.wikipedia.org/wiki/QR_코드 "wikilink") 및 [NFC](https://ko.wikipedia.org/wiki/근거리_무선_통신 "wikilink") 태그가 들어있다.
+2단 하드팩 종이 케이스이며 멤버별 사진, 가사집 및 크레딧을 포함한 총 56매의 부클릿이 수록되어있고 추가사진과 영상 콘텐츠 연결을 위한 스마트폰 애플리케이션용 [QR 코드](../Page/QR_코드.md "wikilink") 및 [NFC](../Page/근거리_무선_통신.md "wikilink") 태그가 들어있다.
 
 ### 수록곡
 
@@ -29,7 +29,7 @@
 
 ### 구성
 
-3단 하드팩 종이 케이스로 멤버별 사진, 가사집 및 크레딧을 포함한 총 48매의 부클릿이 수록되어 있으며, CD 수납부분을 팝업형태로 제작하여 내부 케이스를 넘기게 되면 사진과 함께 CD가 위, 아래로 펼쳐지는 형태로 제작되었다. 또한, 데뷔 음반인 《[Gossip Girl](https://ko.wikipedia.org/wiki/Gossip_Girl "wikilink")》([엠넷미디어](https://ko.wikipedia.org/wiki/엠넷미디어 "wikilink")) 이후 전작인 Part.1까지 [CJ E\&M을](https://ko.wikipedia.org/wiki/CJ_E&M "wikilink") 통하여 음반을 발매하여 왔으나, Part.2 이후 [로엔 엔터테인먼트(구 서울음반)를](https://ko.wikipedia.org/wiki/로엔_엔터테인먼트 "wikilink") 통해 발매한다.
+3단 하드팩 종이 케이스로 멤버별 사진, 가사집 및 크레딧을 포함한 총 48매의 부클릿이 수록되어 있으며, CD 수납부분을 팝업형태로 제작하여 내부 케이스를 넘기게 되면 사진과 함께 CD가 위, 아래로 펼쳐지는 형태로 제작되었다. 또한, 데뷔 음반인 《[Gossip Girl](../Page/Gossip_Girl.md "wikilink")》([엠넷미디어](../Page/엠넷미디어.md "wikilink")) 이후 전작인 Part.1까지 [CJ E\&M을](../Page/CJ_E&M.md "wikilink") 통하여 음반을 발매하여 왔으나, Part.2 이후 [로엔 엔터테인먼트(구 서울음반)를](https://ko.wikipedia.org/wiki/로엔_엔터테인먼트 "wikilink") 통해 발매한다.
 
 ### 수록곡
 

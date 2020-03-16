@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ATAC](https://ko.wikipedia.org/wiki/ATAC).
 
 
-**ATAC 주식회사** (, "로마 [코무네](https://ko.wikipedia.org/wiki/코무네 "wikilink") 전철 및 버스 주식회사")는 [이탈리아](https://ko.wikipedia.org/wiki/이탈리아 "wikilink") [로마](https://ko.wikipedia.org/wiki/로마 "wikilink") 및 주변 [코무네](https://ko.wikipedia.org/wiki/코무네 "wikilink")의 대중교통을 운영하는 기관이다. 1909년 창립되었다.
+**ATAC 주식회사** (, "로마 [코무네](https://ko.wikipedia.org/wiki/코무네 "wikilink") 전철 및 버스 주식회사")는 [이탈리아](../Page/이탈리아.md "wikilink") [로마](../Page/로마.md "wikilink") 및 주변 [코무네](https://ko.wikipedia.org/wiki/코무네 "wikilink")의 대중교통을 운영하는 기관이다. 1909년 창립되었다.
 
 ## 운영중인 교통 목록
 
@@ -9,7 +9,7 @@
 
   - [25px](https://ko.wikipedia.org/wiki/파일:Metropolitana_di_Roma_A.svg "wikilink") [로마 지하철 A선](../Page/로마_지하철_A선.md "wikilink"): [아나니나](../Page/아나니나_역.md "wikilink") - [바티스티니](../Page/바티스티니_역.md "wikilink")
   - [25px](https://ko.wikipedia.org/wiki/파일:Metropolitana_di_Roma_B.svg "wikilink") [로마 지하철 B선](../Page/로마_지하철_B선.md "wikilink"): [라우렌티나](../Page/라우렌티나_역.md "wikilink") - [레비비아](../Page/레비비아_역.md "wikilink")/[콘카 도로](../Page/콘카_도로_역.md "wikilink")
-  - [25px](https://ko.wikipedia.org/wiki/파일:Metropolitana_di_Roma_C.svg "wikilink") [로마 지하철 C선](../Page/로마_지하철_C선.md "wikilink"): [몬테 콤파트리-판타노](../Page/몬테_콤파트리-판타노_역.md "wikilink") - [파르코 디 첸토첼레](https://ko.wikipedia.org/wiki/파르코_디_첸토첼레_역 "wikilink")
+  - [25px](https://ko.wikipedia.org/wiki/파일:Metropolitana_di_Roma_C.svg "wikilink") [로마 지하철 C선](../Page/로마_지하철_C선.md "wikilink"): [몬테 콤파트리-판타노](../Page/몬테_콤파트리-판타노_역.md "wikilink") - [파르코 디 첸토첼레](../Page/파르코_디_첸토첼레_역.md "wikilink")
 
 ### 철도
 

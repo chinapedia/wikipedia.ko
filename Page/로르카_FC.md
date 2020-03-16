@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
 
 
-**로르카 FC**(Lorca Fútbol Club)는 [스페인](https://ko.wikipedia.org/wiki/스페인 "wikilink") [무르시아 지방의](https://ko.wikipedia.org/wiki/무르시아_지방 "wikilink") 도시인 로르카를 연고로 하는 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 이 클럽은 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink")에 창단되었으며, 비교적 신생 구단이다. 로르카는 10년동안 스페인 6부 리그에서 [세군다 디비시온 B까지](https://ko.wikipedia.org/wiki/세군다_디비시온_B "wikilink") 승격하는 데 성공했으며, 2016/17 시즌은 [세군다 디비시온](https://ko.wikipedia.org/wiki/세군다_디비시온 "wikilink") 승격까지 했다. 한국인 선수로는 최인혁이 뛰고 있다.
+**로르카 FC**(Lorca Fútbol Club)는 [스페인](../Page/스페인.md "wikilink") [무르시아 지방의](https://ko.wikipedia.org/wiki/무르시아_지방 "wikilink") 도시인 로르카를 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. 이 클럽은 [2003년](../Page/2003년.md "wikilink")에 창단되었으며, 비교적 신생 구단이다. 로르카는 10년동안 스페인 6부 리그에서 [세군다 디비시온 B까지](https://ko.wikipedia.org/wiki/세군다_디비시온_B "wikilink") 승격하는 데 성공했으며, 2016/17 시즌은 [세군다 디비시온](../Page/세군다_디비시온.md "wikilink") 승격까지 했다. 한국인 선수로는 최인혁이 뛰고 있다.
 
 ## 외부 링크
 

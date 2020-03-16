@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [EUR  ](https://ko.wikipedia.org/wiki/EUR__).
 
 
-**EUR 페르미 역**()은 [로마 지하철](https://ko.wikipedia.org/wiki/로마_지하철 "wikilink") [B선의](../Page/로마_지하철_B선.md "wikilink") 역 중 하나이다. 1955년에 개통한 이 역은 아메리카 대로(viale America)와 스타시오네 엔리코 페르미 광장(piazza della Stazione Enrico Fermi) 사이에 위치한 [EUR](https://ko.wikipedia.org/wiki/EUR "wikilink")에 위치해 있다. 바로 옆에 있는 넓은 호수는 [1960년 하계 올림픽](https://ko.wikipedia.org/wiki/1960년_하계_올림픽 "wikilink") 당시 건축된 것이다.
+**EUR 페르미 역**()은 [로마 지하철](../Page/로마_지하철.md "wikilink") [B선의](../Page/로마_지하철_B선.md "wikilink") 역 중 하나이다. 1955년에 개통한 이 역은 아메리카 대로(viale America)와 스타시오네 엔리코 페르미 광장(piazza della Stazione Enrico Fermi) 사이에 위치한 [EUR](https://ko.wikipedia.org/wiki/EUR "wikilink")에 위치해 있다. 바로 옆에 있는 넓은 호수는 [1960년 하계 올림픽](../Page/1960년_하계_올림픽.md "wikilink") 당시 건축된 것이다.
 
 ## 역 시설
 

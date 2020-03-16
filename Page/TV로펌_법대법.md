@@ -9,12 +9,12 @@
 
 ## 방송 시간
 
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [7월 11일](https://ko.wikipedia.org/wiki/7월_11일 "wikilink") \~ [9월 19일](https://ko.wikipedia.org/wiki/9월_19일 "wikilink") : 목요일 밤 11시
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [9월 28일](https://ko.wikipedia.org/wiki/9월_28일 "wikilink") \~ [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [3월 28일](https://ko.wikipedia.org/wiki/3월_28일 "wikilink") : 토요일 밤 9시 30분
+  - [2013년](../Page/2013년.md "wikilink") [7월 11일](../Page/7월_11일.md "wikilink") \~ [9월 19일](../Page/9월_19일.md "wikilink") : 목요일 밤 11시
+  - [2013년](../Page/2013년.md "wikilink") [9월 28일](../Page/9월_28일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [3월 28일](../Page/3월_28일.md "wikilink") : 토요일 밤 9시 30분
 
 ## 진행자
 
-  - [정은아](https://ko.wikipedia.org/wiki/정은아 "wikilink")
+  - [정은아](../Page/정은아.md "wikilink")
 
 ### 법대법 대표변호사
 
@@ -29,9 +29,9 @@
 
 ## 함께 보기
 
-  - [솔로몬의 선택](https://ko.wikipedia.org/wiki/솔로몬의_선택 "wikilink"), [TV로펌 솔로몬](https://ko.wikipedia.org/wiki/TV로펌_솔로몬 "wikilink") ([SBS TV](https://ko.wikipedia.org/wiki/SBS_TV "wikilink"), [2002년 4월](https://ko.wikipedia.org/wiki/2002년_4월 "wikilink") \~ [2009년 9월](https://ko.wikipedia.org/wiki/2009년_9월 "wikilink"))
-  - [부부클리닉 사랑과 전쟁](https://ko.wikipedia.org/wiki/부부클리닉_사랑과_전쟁 "wikilink") ([KBS 2TV](https://ko.wikipedia.org/wiki/KBS_제2TV "wikilink"), [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [11월 11일](https://ko.wikipedia.org/wiki/11월_11일 "wikilink") \~ 현재)
-  - [명랑해결단](../Page/명랑해결단.md "wikilink") ([채널A](https://ko.wikipedia.org/wiki/채널A "wikilink"))
+  - [솔로몬의 선택](../Page/솔로몬의_선택.md "wikilink"), [TV로펌 솔로몬](https://ko.wikipedia.org/wiki/TV로펌_솔로몬 "wikilink") ([SBS TV](../Page/SBS_TV.md "wikilink"), [2002년 4월](https://ko.wikipedia.org/wiki/2002년_4월 "wikilink") \~ [2009년 9월](../Page/2009년_9월.md "wikilink"))
+  - [부부클리닉 사랑과 전쟁](../Page/부부클리닉_사랑과_전쟁.md "wikilink") ([KBS 2TV](https://ko.wikipedia.org/wiki/KBS_제2TV "wikilink"), [2011년](../Page/2011년.md "wikilink") [11월 11일](../Page/11월_11일.md "wikilink") \~ 현재)
+  - [명랑해결단](../Page/명랑해결단.md "wikilink") ([채널A](../Page/채널A.md "wikilink"))
 
 ## 외부 링크
 

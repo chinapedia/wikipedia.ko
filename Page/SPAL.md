@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SPAL](https://ko.wikipedia.org/wiki/SPAL).
 
 
-**소치에타 폴리스포르티바 아르스 에트 라보르**(), 통칭 **S.P.A.L.**은 [이탈리아](https://ko.wikipedia.org/wiki/이탈리아 "wikilink") [에밀리아로마냐주](https://ko.wikipedia.org/wiki/에밀리아로마냐주 "wikilink") [페라라](https://ko.wikipedia.org/wiki/페라라 "wikilink")를 연고로 하는 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다.
+**소치에타 폴리스포르티바 아르스 에트 라보르**(), 통칭 **S.P.A.L.**은 [이탈리아](../Page/이탈리아.md "wikilink") [에밀리아로마냐주](../Page/에밀리아로마냐주.md "wikilink") [페라라](../Page/페라라.md "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽이다.
 
 1907년에 창단 후, 1928년 이래로 홈 경기를 1946-1977년 간 스팔의 회장이었던 [파올로 마차의](https://ko.wikipedia.org/wiki/파올로_마차 "wikilink") 이름이 붙여진, [스타디오 파올로 마차에서](https://ko.wikipedia.org/wiki/스타디오_파올로_마차 "wikilink") 치르고 있다.
 
@@ -9,7 +9,7 @@
 
 ## 역대 성적
 
-  - **[코파 이탈리아](https://ko.wikipedia.org/wiki/코파_이탈리아 "wikilink")**
+  - **[코파 이탈리아](../Page/코파_이탈리아.md "wikilink")**
 
 <!-- end list -->
 
@@ -18,7 +18,7 @@
 
 <!-- end list -->
 
-  - **[세리에 B](https://ko.wikipedia.org/wiki/세리에_B "wikilink")**
+  - **[세리에 B](../Page/세리에_B.md "wikilink")**
 
 <!-- end list -->
 

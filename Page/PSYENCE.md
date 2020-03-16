@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [PSYENCE](https://ko.wikipedia.org/wiki/PSYENCE).
 
 
-《**PSYENCE**》는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [기타리스트](https://ko.wikipedia.org/wiki/기타리스트 "wikilink")이자 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")인 [히데](https://ko.wikipedia.org/wiki/히데 "wikilink")의 두 번째 정규 앨범이다. 2008년 12월 3일에 재발매되었다.
+《**PSYENCE**》는 [일본](../Page/일본.md "wikilink")의 [기타리스트](https://ko.wikipedia.org/wiki/기타리스트 "wikilink")이자 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")인 [히데](../Page/히데.md "wikilink")의 두 번째 정규 앨범이다. 2008년 12월 3일에 재발매되었다.
 
 ## 앨범
 
-제목은 "PSYCHO(정신병자)"와 "SCIENCE(과학)"을 합친 조어이며, 히데는 이를 "바보학"이라고 말했다. [얼터너티브 록과](https://ko.wikipedia.org/wiki/얼터너티브_록 "wikilink") [인더스트리얼 록](https://ko.wikipedia.org/wiki/인더스트리얼_록 "wikilink") 장르의 음악에 대중성을 조화시킨 작품이다. 초회 판에는 핑크색, 연두색, 노란색의 세 가지 패턴이 발매되었다.
+제목은 "PSYCHO(정신병자)"와 "SCIENCE(과학)"을 합친 조어이며, 히데는 이를 "바보학"이라고 말했다. [얼터너티브 록과](../Page/얼터너티브_록.md "wikilink") [인더스트리얼 록](https://ko.wikipedia.org/wiki/인더스트리얼_록 "wikilink") 장르의 음악에 대중성을 조화시킨 작품이다. 초회 판에는 핑크색, 연두색, 노란색의 세 가지 패턴이 발매되었다.
 
 ## 싱글 발매
 
@@ -17,7 +17,7 @@
 
 ## 참여
 
-  - [히데](https://ko.wikipedia.org/wiki/히데 "wikilink")(hide) - [프로듀서](https://ko.wikipedia.org/wiki/프로듀서 "wikilink"), [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), [작사](https://ko.wikipedia.org/wiki/작사 "wikilink")/[작곡](https://ko.wikipedia.org/wiki/작곡 "wikilink")/[편곡](https://ko.wikipedia.org/wiki/편곡 "wikilink"), [기타](https://ko.wikipedia.org/wiki/기타 "wikilink"), [베이스 기타](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink")(트랙 3, 10제외)
+  - [히데](../Page/히데.md "wikilink")(hide) - [프로듀서](https://ko.wikipedia.org/wiki/프로듀서 "wikilink"), [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), [작사](https://ko.wikipedia.org/wiki/작사 "wikilink")/[작곡](https://ko.wikipedia.org/wiki/작곡 "wikilink")/[편곡](../Page/편곡.md "wikilink"), [기타](../Page/기타.md "wikilink"), [베이스 기타](../Page/베이스_기타.md "wikilink")(트랙 3, 10제외)
   - I.N.A.(이나다 카즈히코) - 프로그래밍, 기술
   - 카네우치 타카시 - 베이스(3, 10)
   - 조(JOE) - [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink")(7, 11 제외)

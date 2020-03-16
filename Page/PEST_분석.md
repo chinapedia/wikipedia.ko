@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [PEST ](https://ko.wikipedia.org/wiki/PEST_).
 
 
-**거시환경분석(PEST)** (**Political, Economic, Social and Technological analysis**)은 전략관리 구성 요소 중 환경 파악에 사용되는 거시적 환경 요소를 묘사한다. 일부 학자들은 이 내용에 법적(Legal) 특성을 추가하여 **SLEPT**로 부르기도 하며 환경(Environmental) 분야를 추가하여 **PESTEL** 혹은 **PESTLE**로 칭하는데 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")에서 통용된다.\[1\] 시장 조사나 전략 분석을 할 경우 특별히 거시경제 요소에서 기업이 의사결정을 내려야할 시 사용하는 기법이다. 시장 성장과 축소, 사업 포지셔닝, 사업 방향 등을 파악하는 데 효과적인 도구이다.
+**거시환경분석(PEST)** (**Political, Economic, Social and Technological analysis**)은 전략관리 구성 요소 중 환경 파악에 사용되는 거시적 환경 요소를 묘사한다. 일부 학자들은 이 내용에 법적(Legal) 특성을 추가하여 **SLEPT**로 부르기도 하며 환경(Environmental) 분야를 추가하여 **PESTEL** 혹은 **PESTLE**로 칭하는데 [영국](../Page/영국.md "wikilink")에서 통용된다.\[1\] 시장 조사나 전략 분석을 할 경우 특별히 거시경제 요소에서 기업이 의사결정을 내려야할 시 사용하는 기법이다. 시장 성장과 축소, 사업 포지셔닝, 사업 방향 등을 파악하는 데 효과적인 도구이다.
 
 환경 및 생태학적 요소가 21세기 들어 높아지기 때문에 녹색 비즈니스의 성장세도 높아지고 있어 PEST의 사용 범위도 넓어지고 있다.
 
@@ -9,11 +9,11 @@
 
 주요 4 요소를 살펴보면 다음과 같다.
 
-  - 정치적(**Political**) 요소는 정부가 경제에 간섭하는 정도이다. 특별하게는 [세금](https://ko.wikipedia.org/wiki/세금 "wikilink"), [노동법](https://ko.wikipedia.org/wiki/노동법 "wikilink"), [무역](https://ko.wikipedia.org/wiki/무역 "wikilink") 제재, [환경법](https://ko.wikipedia.org/wiki/환경법 "wikilink"), [관세](https://ko.wikipedia.org/wiki/관세 "wikilink"), 정치적 안정성 등을 포괄한다. 정치적 요소는 정부 차원에서 진흥하거나 제재하고자 하는 재화나 용역의 종류를 포함하기도 한다. 국가적 차원에서 중앙정부가 보건, 교육, 인프라 구축 등에 끼치는 영향을 고려한다.
+  - 정치적(**Political**) 요소는 정부가 경제에 간섭하는 정도이다. 특별하게는 [세금](https://ko.wikipedia.org/wiki/세금 "wikilink"), [노동법](../Page/노동법.md "wikilink"), [무역](https://ko.wikipedia.org/wiki/무역 "wikilink") 제재, [환경법](https://ko.wikipedia.org/wiki/환경법 "wikilink"), [관세](../Page/관세.md "wikilink"), 정치적 안정성 등을 포괄한다. 정치적 요소는 정부 차원에서 진흥하거나 제재하고자 하는 재화나 용역의 종류를 포함하기도 한다. 국가적 차원에서 중앙정부가 보건, 교육, 인프라 구축 등에 끼치는 영향을 고려한다.
 
 <!-- end list -->
 
-  - 경제적(**Economic**) 요소는 경제성장률, [금리](https://ko.wikipedia.org/wiki/금리 "wikilink"), [환율](https://ko.wikipedia.org/wiki/환율 "wikilink"), [인플레이션](https://ko.wikipedia.org/wiki/인플레이션 "wikilink") 정도 등을 포함한다. 이러한 요소는 경제 주체(기업)가 의사결정을 내리는 데 막대한 영향을 끼친다. 일례로 금리는 비용에 영향을 끼치기 때문에 어느 정도에서 기업이 성장하고 확대될 지를 가늠한다. 환율 또한 수출입 및 수입가격에 적잖은 영향을 끼치는 요소이다.
+  - 경제적(**Economic**) 요소는 경제성장률, [금리](https://ko.wikipedia.org/wiki/금리 "wikilink"), [환율](../Page/환율.md "wikilink"), [인플레이션](../Page/인플레이션.md "wikilink") 정도 등을 포함한다. 이러한 요소는 경제 주체(기업)가 의사결정을 내리는 데 막대한 영향을 끼친다. 일례로 금리는 비용에 영향을 끼치기 때문에 어느 정도에서 기업이 성장하고 확대될 지를 가늠한다. 환율 또한 수출입 및 수입가격에 적잖은 영향을 끼치는 요소이다.
 
 <!-- end list -->
 
