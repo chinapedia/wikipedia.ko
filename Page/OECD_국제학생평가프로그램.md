@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [OECD ](https://ko.wikipedia.org/wiki/OECD_).
 
 
-**국제학생평가프로그램**(Program for International Student Assessment)는 [OECD](https://ko.wikipedia.org/wiki/OECD "wikilink")의 과제의 하나로 15세의 학생들의 기술과 지식의 정책지향적 국제 지표를 제공하도록 설립되었다. 평가 영역은 [읽기](../Page/읽기.md "wikilink"), [수학](../Page/수학.md "wikilink"), [과학](../Page/과학.md "wikilink") 세 분야이다. 현재까지 [2000년](../Page/2000년.md "wikilink"), [2003년](../Page/2003년.md "wikilink"), [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink"), [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") 4회에 걸쳐 실시되었다. [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") 자료는 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [12월 7일에](../Page/12월_7일.md "wikilink") 공개가 되었다.\[1\]
+**국제학생평가프로그램**(Program for International Student Assessment)는 [OECD](https://ko.wikipedia.org/wiki/OECD "wikilink")의 과제의 하나로 15세의 학생들의 기술과 지식의 정책지향적 국제 지표를 제공하도록 설립되었다. 평가 영역은 [읽기](../Page/읽기.md "wikilink"), [수학](../Page/수학.md "wikilink"), [과학](../Page/과학.md "wikilink") 세 분야이다. 현재까지 [2000년](../Page/2000년.md "wikilink"), [2003년](../Page/2003년.md "wikilink"), [2006년](../Page/2006년.md "wikilink"), [2009년](../Page/2009년.md "wikilink") 4회에 걸쳐 실시되었다. [2009년](../Page/2009년.md "wikilink") 자료는 [2010년](../Page/2010년.md "wikilink") [12월 7일에](../Page/12월_7일.md "wikilink") 공개가 되었다.\[1\]
 
 ## 개요
 
@@ -582,7 +582,7 @@
 
 ## 관련 항목
 
-  - [경제협력개발기구](https://ko.wikipedia.org/wiki/경제협력개발기구 "wikilink") (OECD)
+  - [경제협력개발기구](../Page/경제협력개발기구.md "wikilink") (OECD)
   - [국제수학과학교육연구](https://ko.wikipedia.org/wiki/국제수학과학교육연구 "wikilink") (TIMSS)
 
 ## 각주

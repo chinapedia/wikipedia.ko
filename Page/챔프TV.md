@@ -3,7 +3,7 @@
 
 **챔프TV**(CHAMP TV)는 케이블TV [애니메이션](../Page/애니메이션.md "wikilink") 전문 채널로, 2005년부터 방송을 시작하였다.
 
-[대원미디어](https://ko.wikipedia.org/wiki/대원미디어 "wikilink")의 계열사에 포함되었으며, 2011년 7월 1일부터 현재까지 [태광그룹 및 흥국금융가족의](../Page/태광그룹.md "wikilink") 계열사인 [티캐스트](../Page/티캐스트.md "wikilink")가 전반적인 운영과 마케팅을 담당하고 있고, [대원미디어](https://ko.wikipedia.org/wiki/대원미디어 "wikilink")의 계열사인 [대원방송](https://ko.wikipedia.org/wiki/대원방송 "wikilink")㈜이 방송 컨텐츠 수급과 프로그램 공급을 담당하고 있다.
+[대원미디어](../Page/대원미디어.md "wikilink")의 계열사에 포함되었으며, 2011년 7월 1일부터 현재까지 [태광그룹 및 흥국금융가족의](../Page/태광그룹.md "wikilink") 계열사인 [티캐스트](../Page/티캐스트.md "wikilink")가 전반적인 운영과 마케팅을 담당하고 있고, [대원미디어](../Page/대원미디어.md "wikilink")의 계열사인 [대원방송](https://ko.wikipedia.org/wiki/대원방송 "wikilink")㈜이 방송 컨텐츠 수급과 프로그램 공급을 담당하고 있다.
 
 ## 역사
 
@@ -46,7 +46,7 @@
   - [못말리는 3공주](../Page/못말리는_3공주.md "wikilink")
   - 최강합체 미니특공대 극장판 - 영웅의 탄생
   - [파워레인저 정글포스](https://ko.wikipedia.org/wiki/파워레인저_정글포스 "wikilink")
-  - [유희왕](https://ko.wikipedia.org/wiki/유희왕 "wikilink")
+  - [유희왕](../Page/유희왕.md "wikilink")
   - [호빵맨](https://ko.wikipedia.org/wiki/호빵맨 "wikilink")
   - [유희왕 GX](../Page/유희왕_GX.md "wikilink")
   - [격부술사 요역문](https://ko.wikipedia.org/wiki/격부술사_요역문 "wikilink")
@@ -60,7 +60,7 @@
   - [완소\! 퍼펙트 반장](https://ko.wikipedia.org/wiki/완소_퍼펙트_반장 "wikilink")
   - [파이터 바키](https://ko.wikipedia.org/wiki/파이터_바키 "wikilink")
   - [지구소녀 아르주나](https://ko.wikipedia.org/wiki/지구소녀_아르주나 "wikilink")
-  - [선녀전설 세레스](https://ko.wikipedia.org/wiki/선녀전설_세레스 "wikilink")
+  - [선녀전설 세레스](../Page/선녀전설_세레스.md "wikilink")
   - [Z.O.E](https://ko.wikipedia.org/wiki/Z.O.E "wikilink")
   - [무한의 리바이어스](https://ko.wikipedia.org/wiki/무한의_리바이어스 "wikilink")
   - [러키스타](https://ko.wikipedia.org/wiki/러키스타 "wikilink")
@@ -78,10 +78,10 @@
   - [꼬마천사 코텐코](https://ko.wikipedia.org/wiki/꼬마천사_코텐코 "wikilink")
   - [기동전사 건담 00](https://ko.wikipedia.org/wiki/기동전사_건담_00 "wikilink") 1기
   - [트랜스포머: 사이버트론](https://ko.wikipedia.org/wiki/트랜스포머:_사이버트론 "wikilink")
-  - [소년 탐정 김전일 Original](https://ko.wikipedia.org/wiki/소년탐정_김전일 "wikilink")
+  - [소년 탐정 김전일 Original](../Page/소년탐정_김전일.md "wikilink")
   - [조이드](https://ko.wikipedia.org/wiki/조이드 "wikilink")
   - [포켓몬스터 AG](../Page/포켓몬스터_AG.md "wikilink")
-  - [쾌걸롱맨 나롱이](https://ko.wikipedia.org/wiki/쾌걸롱맨_나롱이 "wikilink")
+  - [쾌걸롱맨 나롱이](../Page/쾌걸롱맨_나롱이.md "wikilink")
   - [앤디의 장난일기](https://ko.wikipedia.org/wiki/앤디의_장난일기 "wikilink")
   - [아쿠아키즈](https://ko.wikipedia.org/wiki/아쿠아키즈 "wikilink")
   - [패트와 매트](../Page/패트와_매트.md "wikilink")
@@ -111,8 +111,8 @@
   - [추리게임 뫼비우스의 띠](https://ko.wikipedia.org/wiki/추리게임_뫼비우스의_띠 "wikilink")
   - [천사가 될꺼야](https://ko.wikipedia.org/wiki/천사가_될꺼야 "wikilink")
   - [스크라이드](https://ko.wikipedia.org/wiki/스크라이드 "wikilink")
-  - [스쿨럼블](https://ko.wikipedia.org/wiki/스쿨럼블 "wikilink")
-  - [강철의 연금술사](https://ko.wikipedia.org/wiki/강철의_연금술사 "wikilink")
+  - [스쿨럼블](../Page/스쿨럼블.md "wikilink")
+  - [강철의 연금술사](../Page/강철의_연금술사.md "wikilink")
   - [강철의 연금술사 BROTHERHOOD](https://ko.wikipedia.org/wiki/강철의_연금술사_BROTHERHOOD "wikilink")
   - [반드레드](https://ko.wikipedia.org/wiki/반드레드 "wikilink")
   - [라제폰](https://ko.wikipedia.org/wiki/라제폰 "wikilink")
@@ -126,7 +126,7 @@
   - [가이스터즈](https://ko.wikipedia.org/wiki/가이스터즈 "wikilink")
   - [프린세스 츄츄](../Page/프린세스_츄츄.md "wikilink")
   - [DEAR BOYS](https://ko.wikipedia.org/wiki/DEAR_BOYS "wikilink")
-  - [아이들의 장난감](https://ko.wikipedia.org/wiki/아이들의_장난감 "wikilink")
+  - [아이들의 장난감](../Page/아이들의_장난감.md "wikilink")
   - [샤먼킹](../Page/샤먼킹.md "wikilink")
   - [마법탐정 로키 라그나로크](https://ko.wikipedia.org/wiki/마법탐정_로키_라그나로크 "wikilink")
   - [무적뱅커 크로켓](https://ko.wikipedia.org/wiki/무적뱅커_크로켓 "wikilink")
@@ -139,12 +139,12 @@
   - [미르모 퐁퐁퐁](../Page/미르모_퐁퐁퐁.md "wikilink")
   - [해피해피 클로버](https://ko.wikipedia.org/wiki/해피해피_클로버 "wikilink")
   - [포코냥](https://ko.wikipedia.org/wiki/포코냥 "wikilink")
-  - [피치피치핏치](https://ko.wikipedia.org/wiki/피치피치핏치 "wikilink")
+  - [피치피치핏치](../Page/피치피치핏치.md "wikilink")
   - [골프천재 탄도](https://ko.wikipedia.org/wiki/골프천재_탄도 "wikilink")
   - [멋지다 마사루](https://ko.wikipedia.org/wiki/멋지다_마사루 "wikilink")
   - [블랙잭](../Page/블랙잭.md "wikilink") OVA
   - [데스노트](../Page/데스노트.md "wikilink")
-  - [환상게임](https://ko.wikipedia.org/wiki/환상게임 "wikilink") OVA
+  - [환상게임](../Page/환상게임.md "wikilink") OVA
   - [슈퍼로봇대전](../Page/슈퍼로봇대전.md "wikilink") OVA
   - [라스트 엑자일](../Page/라스트_엑자일.md "wikilink")
   - [NANA](../Page/NANA.md "wikilink")
@@ -161,7 +161,7 @@
   - [시골쥐와 서울쥐](https://ko.wikipedia.org/wiki/시골쥐와_서울쥐 "wikilink")
   - [정글대장 조지](https://ko.wikipedia.org/wiki/정글대장_조지 "wikilink")
   - [쿠션키즈](https://ko.wikipedia.org/wiki/쿠션키즈 "wikilink")
-  - [포켓몬스터](https://ko.wikipedia.org/wiki/포켓몬스터 "wikilink")
+  - [포켓몬스터](../Page/포켓몬스터.md "wikilink")
   - [방가방가 햄토리](../Page/방가방가_햄토리.md "wikilink")
   - [메다로트](https://ko.wikipedia.org/wiki/메다로트 "wikilink")
   - [별나라 슈퍼쭈리](https://ko.wikipedia.org/wiki/별나라_슈퍼쭈리 "wikilink")
@@ -184,7 +184,7 @@
   - [루팡 3세](https://ko.wikipedia.org/wiki/루팡_3세 "wikilink") TV스페셜
   - [맑음 때때로 뿌이뿌이](https://ko.wikipedia.org/wiki/맑음_때때로_뿌이뿌이 "wikilink")
   - [극상학생회](../Page/극상학생회.md "wikilink")
-  - [신세기 에반게리온](https://ko.wikipedia.org/wiki/신세기_에반게리온 "wikilink")
+  - [신세기 에반게리온](../Page/신세기_에반게리온.md "wikilink")
   - [기동전사 건담 SEED](../Page/기동전사_건담_SEED.md "wikilink")
   - [유유백서](../Page/유유백서.md "wikilink")
   - [쪽빛보다 푸르게](https://ko.wikipedia.org/wiki/쪽빛보다_푸르게 "wikilink")

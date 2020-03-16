@@ -3,7 +3,7 @@
 
 **제임스 녹스 포크**(James Knox Polk, [1795년](../Page/1795년.md "wikilink") [11월 2일](../Page/11월_2일.md "wikilink") - [1849년](../Page/1849년.md "wikilink") [6월 15일](../Page/6월_15일.md "wikilink"))는 [미국](../Page/미국.md "wikilink")의 11번째 [대통령](../Page/미국의_대통령.md "wikilink")(1845\~49)이다. [노스캐롤라이나주](../Page/노스캐롤라이나주.md "wikilink")에서 태어났지만, 일생의 대부분을 [테네시주](../Page/테네시주.md "wikilink")에서 보냈다.\[1\]\[2\]
 
-[알래스카주](../Page/알래스카주.md "wikilink")를 [영국](../Page/영국.md "wikilink")과의 협상 끝에 미국과 합치지는 못하였지만, [1845년](../Page/1845년.md "wikilink") [텍사스주](https://ko.wikipedia.org/wiki/텍사스주 "wikilink")를 [미국](../Page/미국.md "wikilink")의 제28번째 주로 [합병하였다](../Page/텍사스_합병.md "wikilink"). 그리고 [멕시코-미국 전쟁에서](https://ko.wikipedia.org/wiki/멕시코-미국_전쟁 "wikilink") 오늘날 미국 영토의 4분의 1에 달하는 지역을 빼앗아 합병했다.
+[알래스카주](../Page/알래스카주.md "wikilink")를 [영국](../Page/영국.md "wikilink")과의 협상 끝에 미국과 합치지는 못하였지만, [1845년](../Page/1845년.md "wikilink") [텍사스주](../Page/텍사스주.md "wikilink")를 [미국](../Page/미국.md "wikilink")의 제28번째 주로 [합병하였다](../Page/텍사스_합병.md "wikilink"). 그리고 [멕시코-미국 전쟁에서](../Page/멕시코-미국_전쟁.md "wikilink") 오늘날 미국 영토의 4분의 1에 달하는 지역을 빼앗아 합병했다.
 
 ## 초기 생애
 
@@ -17,13 +17,13 @@
 
 포크는 모리에 있는 시온 교회에서 1년간 공부하였고, 그러고나서 머프리스보로 아카데미에 들어갔다. [1815년](../Page/1815년.md "wikilink") [노스캐롤라이나 대학교의](https://ko.wikipedia.org/wiki/노스캐롤라이나_대학교 "wikilink") 2학년 교실에 들어가 [1818년](../Page/1818년.md "wikilink") 모범생으로서 졸업하였다.
 
-졸업 후에 포크는 고향에 돌아와 테네시 주에서 으뜸가는 [변호사](https://ko.wikipedia.org/wiki/변호사 "wikilink")들과 정치인들의 하나인 펠릭스 그런디의 법률 사무소에 들어갔다. 그런디는 포크를 [앤드루 잭슨에게](../Page/앤드루_잭슨.md "wikilink") 소개시켰다. 공부가 끝난 후에 포크는 [1820년](../Page/1820년.md "wikilink") 법정에 수용되어 [컬럼비아](https://ko.wikipedia.org/wiki/컬럼비아 "wikilink")에서 변호사 개업을 시작하였다.
+졸업 후에 포크는 고향에 돌아와 테네시 주에서 으뜸가는 [변호사](../Page/변호사.md "wikilink")들과 정치인들의 하나인 펠릭스 그런디의 법률 사무소에 들어갔다. 그런디는 포크를 [앤드루 잭슨에게](../Page/앤드루_잭슨.md "wikilink") 소개시켰다. 공부가 끝난 후에 포크는 [1820년](../Page/1820년.md "wikilink") 법정에 수용되어 [컬럼비아](https://ko.wikipedia.org/wiki/컬럼비아 "wikilink")에서 변호사 개업을 시작하였다.
 
 ## 정치적 경력
 
 ### 변호사와 입법자
 
-정치적인 일들이 법률보다 더 많이 인기거리를 증명하였다. 자신의 작은 신장과 [민주당을](https://ko.wikipedia.org/wiki/민주당_\(미국\) "wikilink") 대표한 자신의 연설이 그에게 "그루터기의 나폴레옹"이란 별명이 붙게 되었다. [1821년](../Page/1821년.md "wikilink") 아직도 변호사 개업을 하는 동안에 그는 테네시 주 [상원](https://ko.wikipedia.org/wiki/상원 "wikilink")의 최고 서기가 되었다.
+정치적인 일들이 법률보다 더 많이 인기거리를 증명하였다. 자신의 작은 신장과 [민주당을](../Page/민주당_\(미국\).md "wikilink") 대표한 자신의 연설이 그에게 "그루터기의 나폴레옹"이란 별명이 붙게 되었다. [1821년](../Page/1821년.md "wikilink") 아직도 변호사 개업을 하는 동안에 그는 테네시 주 [상원](https://ko.wikipedia.org/wiki/상원 "wikilink")의 최고 서기가 되었다.
 
 [1823년](../Page/1823년.md "wikilink") 테네시 주 [하원](https://ko.wikipedia.org/wiki/하원 "wikilink")에 선출된 포크는 주립 학교 제도를 향상시키고 [세금](https://ko.wikipedia.org/wiki/세금 "wikilink")을 줄이는 일을 하였다. 자신의 장래에 가장 중요성으로 그는 앤드루 잭슨의 대통령이 될 야망들을 성원하였다.
 
@@ -35,13 +35,13 @@
 
 ### 하원 의원
 
-[1825년](../Page/1825년.md "wikilink") 포크는 [미국 하원의](../Page/미국_하원.md "wikilink") 7연속 기간들 중에 첫 번째로 선출되었다. 그는 연소자 의원들 중의 하나였고 자신을 충성스러운 [민주당원으로](https://ko.wikipedia.org/wiki/민주당_\(미국\) "wikilink") 설립하였다. 그는 [1824년](../Page/1824년.md "wikilink") 선거에서 잭슨을 꺾은 [존 퀸시 애덤스](../Page/존_퀸시_애덤스.md "wikilink") 대통령의 정책들을 격심히 반대하면서 주의를 끌어들였다.
+[1825년](../Page/1825년.md "wikilink") 포크는 [미국 하원의](../Page/미국_하원.md "wikilink") 7연속 기간들 중에 첫 번째로 선출되었다. 그는 연소자 의원들 중의 하나였고 자신을 충성스러운 [민주당원으로](../Page/민주당_\(미국\).md "wikilink") 설립하였다. 그는 [1824년](../Page/1824년.md "wikilink") 선거에서 잭슨을 꺾은 [존 퀸시 애덤스](../Page/존_퀸시_애덤스.md "wikilink") 대통령의 정책들을 격심히 반대하면서 주의를 끌어들였다.
 
 [1835년](../Page/1835년.md "wikilink") 잭슨의 대통령 임기 동안에 포크는 하원의 의장이 되었다.
 
 ### 테네시 주지사
 
-[1839년](../Page/1839년.md "wikilink") 잭슨은 포크를 테네시 주지사 선거에 나가는 데 설득시켰다. 잭슨은 내부적 투쟁과 이전 4년 동안에 [휘그당의](https://ko.wikipedia.org/wiki/휘그당_\(미국\) "wikilink") 승리에 의하여 갈라진 주의 민주당을 연합시키는 데 포크 만이 할 수 있다고 느꼈다. 선거에서 우승한 포크는 취임 연설에서 자신이 주의 권리들을 성원하고 [워싱턴 D.C.에서](../Page/워싱턴_D.C..md "wikilink") 권력의 중앙집권을 반대하였다고 알렸다.
+[1839년](../Page/1839년.md "wikilink") 잭슨은 포크를 테네시 주지사 선거에 나가는 데 설득시켰다. 잭슨은 내부적 투쟁과 이전 4년 동안에 [휘그당의](../Page/휘그당_\(미국\).md "wikilink") 승리에 의하여 갈라진 주의 민주당을 연합시키는 데 포크 만이 할 수 있다고 느꼈다. 선거에서 우승한 포크는 취임 연설에서 자신이 주의 권리들을 성원하고 [워싱턴 D.C.에서](../Page/워싱턴_D.C..md "wikilink") 권력의 중앙집권을 반대하였다고 알렸다.
 
 포크는 [내슈빌](../Page/내슈빌.md "wikilink")의 사회 생활을 멀리하였다. [1841년](../Page/1841년.md "wikilink")에 휘그당의 압도적 대승리에서 패하였다가 [1843년](../Page/1843년.md "wikilink")에도 다시 패하고 말았다.
 
@@ -51,7 +51,7 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:1844_Electoral_Map.png "wikilink") 대통령 선거 지도\]\] 사정들의 결합이 이제 잭슨의 손에 들어왔다. [마틴 밴 뷰런](../Page/마틴_밴_뷰런.md "wikilink") 전 대통령은 민주당 후보전에서 또 다시 앞서간 후보자였다. [텍사스](https://ko.wikipedia.org/wiki/텍사스 "wikilink")의 합병이 그 날의 주요 정치적 논점이었다. 밴 뷰런은 [멕시코](../Page/멕시코.md "wikilink")와의 전쟁으로 이끌 것 같은 느낌이 들어 즉시 합병을 반대하였다. 이 자세는 밴 뷰런에게 노예 영토를 늘이는 것을 추구하는 서부와 남부의 성원을 들였다. 포크는 똑똑하게 텍사스와 [오리건](https://ko.wikipedia.org/wiki/오리건 "wikilink")이 권리에 의하여 항상 미국에 속해있었다고 주장하였다.
 
-[1844년](../Page/1844년.md "wikilink") 민주당 대통령 부호 회의에서 밴 뷰런은 투표 3분의 2를 얻는 데 실해하였고, 그러고나서 후보를 위한 요구를 하였다. 대의원들은 밴 뷰런이나 그의 경쟁자인 전 [프랑스](../Page/프랑스.md "wikilink") 주재 공사 [미시간주](../Page/미시간주.md "wikilink")의 [루이스 캐스에](../Page/루이스_캐스.md "wikilink") 동의할 수 없었다. 8번째 비밀 투표에서 [역사가](https://ko.wikipedia.org/wiki/역사가 "wikilink")이자 [매사추세츠주](../Page/매사추세츠주.md "wikilink")의 대의원 [조지 뱅크로프트는](https://ko.wikipedia.org/wiki/조지_뱅크로프트 "wikilink") 포크를 타협적인 후보로서 제안하였다. 대의원들은 [뉴욕주](../Page/뉴욕주.md "wikilink")의 상원 [사일러스 라이트를](https://ko.wikipedia.org/wiki/사일러스_라이트 "wikilink") 부통령 후보로 지명하였으나, 라이트는 거부하였다. 그러고나서 민주당원들은 [펜실베이니아주](https://ko.wikipedia.org/wiki/펜실베이니아주 "wikilink")의 변호사 [조지 M. 댈러스를](../Page/조지_M._댈러스.md "wikilink") 부통령 후보로 지명하였다.
+[1844년](../Page/1844년.md "wikilink") 민주당 대통령 부호 회의에서 밴 뷰런은 투표 3분의 2를 얻는 데 실해하였고, 그러고나서 후보를 위한 요구를 하였다. 대의원들은 밴 뷰런이나 그의 경쟁자인 전 [프랑스](../Page/프랑스.md "wikilink") 주재 공사 [미시간주](../Page/미시간주.md "wikilink")의 [루이스 캐스에](../Page/루이스_캐스.md "wikilink") 동의할 수 없었다. 8번째 비밀 투표에서 [역사가](https://ko.wikipedia.org/wiki/역사가 "wikilink")이자 [매사추세츠주](../Page/매사추세츠주.md "wikilink")의 대의원 [조지 뱅크로프트는](https://ko.wikipedia.org/wiki/조지_뱅크로프트 "wikilink") 포크를 타협적인 후보로서 제안하였다. 대의원들은 [뉴욕주](../Page/뉴욕주.md "wikilink")의 상원 [사일러스 라이트를](https://ko.wikipedia.org/wiki/사일러스_라이트 "wikilink") 부통령 후보로 지명하였으나, 라이트는 거부하였다. 그러고나서 민주당원들은 [펜실베이니아주](../Page/펜실베이니아주.md "wikilink")의 변호사 [조지 M. 댈러스를](../Page/조지_M._댈러스.md "wikilink") 부통령 후보로 지명하였다.
 
 휘그당원들은 [켄터키주](../Page/켄터키주.md "wikilink")의 전 상원 [헨리 클레이를](https://ko.wikipedia.org/wiki/헨리_클레이 "wikilink") 대통령 후보로, [뉴저지주](../Page/뉴저지주.md "wikilink")의 상원 [시어도어 프렐링휴이젠을](https://ko.wikipedia.org/wiki/시어도어_프렐링휴이젠 "wikilink") 부통령 후보로 지명하였다. 클레이는 만약 자신이 텍사스 합병을 성원하였다면 북부의 반노예주의자들의 투표를 잃을 것 같은 근심의 이유로 선거 운동에서 합병 논점을 제외시켰다. 포크는 합병을 위한 솔직한 자세를 취하여 약 4만 투표에 의하여 선거를 이겼다.
 
@@ -87,7 +87,7 @@
 
 [멕시코 전쟁은](https://ko.wikipedia.org/wiki/멕시코_전쟁 "wikilink") 캘리포니아의 획득으로서 포크의 4번째 목적을 이루었다. 일찍이 그는 멕시코로부터 캘리포니아를 사들이는 제공을 하였다. 그러나 멕시코는 그것이 당시 텍사스를 둘러싼 논쟁에 커진 이유로 판매의 목적이 없었다.
 
-미국이 텍사스를 병합하였으나, 멕시코는 새로운 주를 위한 경계에 동의나 주장에 포기하는 데 거절하였다. 포크는 그러고나서 미군들을 누에세스 강의 남쪽에 자리잡은 논쟁적 영토 점령지에 파견하였다. [재커리 테일러](https://ko.wikipedia.org/wiki/재커리_테일러 "wikilink") 장군은 [리오그란데 강의](https://ko.wikipedia.org/wiki/리오그란데_강 "wikilink") 둑에 전진하였다. [1846년](../Page/1846년.md "wikilink") [4월 25일](../Page/4월_25일.md "wikilink") 멕시코 군인들은 마타모로스 근처에 있는 강을 건너 미군의 기병대와 전투를 벌였다. [5월 11일](../Page/5월_11일.md "wikilink") 포크는 "멕시코가 미국의 경계를 지나 우리의 영토를 침략하였고 미국인의 피를 미국의 흙에 흘리게 하였다"고 말하면서 의회에 전쟁을 선언하는 요청을 하였다.
+미국이 텍사스를 병합하였으나, 멕시코는 새로운 주를 위한 경계에 동의나 주장에 포기하는 데 거절하였다. 포크는 그러고나서 미군들을 누에세스 강의 남쪽에 자리잡은 논쟁적 영토 점령지에 파견하였다. [재커리 테일러](../Page/재커리_테일러.md "wikilink") 장군은 [리오그란데 강의](https://ko.wikipedia.org/wiki/리오그란데_강 "wikilink") 둑에 전진하였다. [1846년](../Page/1846년.md "wikilink") [4월 25일](../Page/4월_25일.md "wikilink") 멕시코 군인들은 마타모로스 근처에 있는 강을 건너 미군의 기병대와 전투를 벌였다. [5월 11일](../Page/5월_11일.md "wikilink") 포크는 "멕시코가 미국의 경계를 지나 우리의 영토를 침략하였고 미국인의 피를 미국의 흙에 흘리게 하였다"고 말하면서 의회에 전쟁을 선언하는 요청을 하였다.
 
 멕시코 전쟁은 미국의 승리로 끝났다. [1848년](../Page/1848년.md "wikilink") 화평 조약 아래에서 멕시코는 텍사스에 모든 요구들을 포기하였고 오늘날의 캘리포니아, [애리조나](https://ko.wikipedia.org/wiki/애리조나 "wikilink"), [콜로라도](https://ko.wikipedia.org/wiki/콜로라도 "wikilink"), [네바다](https://ko.wikipedia.org/wiki/네바다 "wikilink"), [유타](https://ko.wikipedia.org/wiki/유타 "wikilink"), [뉴멕시코](https://ko.wikipedia.org/wiki/뉴멕시코 "wikilink"), [와이오밍](https://ko.wikipedia.org/wiki/와이오밍 "wikilink")을 미국에 넘겨주었다. 미국은 대지를 위한 1천 5백만 달러를 멕시코에 지불하였다.
 

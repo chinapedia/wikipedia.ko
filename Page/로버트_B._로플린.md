@@ -5,7 +5,7 @@
 
 ## 생애
 
-로플린은 [미국](../Page/미국.md "wikilink") [캘리포니아주](../Page/캘리포니아주.md "wikilink") 비살리아(Visalia)에서 태어났다. [UC 버클리에서](https://ko.wikipedia.org/wiki/캘리포니아_대학교_버클리 "wikilink") [물리](https://ko.wikipedia.org/wiki/물리 "wikilink") 전공으로 학사과정을 마쳤으며, [1979년](../Page/1979년.md "wikilink") [매사추세츠 공과대학에서](../Page/매사추세츠_공과대학교.md "wikilink") [물리학](../Page/물리학.md "wikilink") 박사 학위를 받았다. [로렌스 리버모어 국립 연구소의](../Page/로렌스_리버모어_국립_연구소.md "wikilink") 연구원과 [스탠퍼드 대학의](../Page/스탠퍼드_대학교.md "wikilink") 교수직도 겸임하고 있다.
+로플린은 [미국](../Page/미국.md "wikilink") [캘리포니아주](../Page/캘리포니아주.md "wikilink") 비살리아(Visalia)에서 태어났다. [UC 버클리에서](../Page/캘리포니아_대학교_버클리.md "wikilink") [물리](https://ko.wikipedia.org/wiki/물리 "wikilink") 전공으로 학사과정을 마쳤으며, [1979년](../Page/1979년.md "wikilink") [매사추세츠 공과대학에서](../Page/매사추세츠_공과대학교.md "wikilink") [물리학](../Page/물리학.md "wikilink") 박사 학위를 받았다. [로렌스 리버모어 국립 연구소의](../Page/로렌스_리버모어_국립_연구소.md "wikilink") 연구원과 [스탠퍼드 대학의](../Page/스탠퍼드_대학교.md "wikilink") 교수직도 겸임하고 있다.
 
 로플린은 2005년 많은 부분 [Steve Lew와의](https://ko.wikipedia.org/wiki/Steve_Lew "wikilink") 토론에 바탕을 둔 《A Different Universe: Reinventing Physics from the Bottom Down》란 책을 냈다. 이 책에서 로플린은 다른 일반적인 이슈들에 대한 자신의 의견을 피력하는 동시에, [환원주의](../Page/환원주의.md "wikilink")의 대신으로서의 [창발성](https://ko.wikipedia.org/wiki/창발성 "wikilink")(이머전스)을 주장했다.
 

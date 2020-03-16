@@ -212,28 +212,28 @@
 <td><p>55분</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/4월_15일.md" title="wikilink">4월 15일</a> ~ <a href="https://ko.wikipedia.org/wiki/2017년" title="wikilink">2017년</a> <a href="../Page/9월_1일.md" title="wikilink">9월 1일</a></p></td>
+<td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/4월_15일.md" title="wikilink">4월 15일</a> ~ <a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/9월_1일.md" title="wikilink">9월 1일</a></p></td>
 <td><p>매주 <a href="https://ko.wikipedia.org/wiki/평일" title="wikilink">평일</a> 저녁 7:55 ~ 8:55</p></td>
 <td><p>1시간</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2017년" title="wikilink">2017년</a> <a href="../Page/12월_26일.md" title="wikilink">12월 26일</a> ~ <a href="https://ko.wikipedia.org/wiki/2018년" title="wikilink">2018년</a> <a href="../Page/9월_14일.md" title="wikilink">9월 14일</a></p></td>
+<td><p><a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/12월_26일.md" title="wikilink">12월 26일</a> ~ <a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/9월_14일.md" title="wikilink">9월 14일</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2017년" title="wikilink">2017년</a> <a href="../Page/9월_4일.md" title="wikilink">9월 4일</a> ~ <a href="https://ko.wikipedia.org/wiki/2017년" title="wikilink">2017년</a> <a href="../Page/9월_15일.md" title="wikilink">9월 15일</a></p></td>
+<td><p><a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/9월_4일.md" title="wikilink">9월 4일</a> ~ <a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/9월_15일.md" title="wikilink">9월 15일</a></p></td>
 <td><p>매주 <a href="https://ko.wikipedia.org/wiki/평일" title="wikilink">평일</a> 저녁 7:55 ~ 8:45</p></td>
 <td><p>50분</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2017년" title="wikilink">2017년</a> <a href="../Page/9월_18일.md" title="wikilink">9월 18일</a> ~ <a href="https://ko.wikipedia.org/wiki/2017년" title="wikilink">2017년</a> <a href="../Page/12월_25일.md" title="wikilink">12월 25일</a></p></td>
+<td><p><a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/9월_18일.md" title="wikilink">9월 18일</a> ~ <a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/12월_25일.md" title="wikilink">12월 25일</a></p></td>
 <td><p>매주 <a href="https://ko.wikipedia.org/wiki/평일" title="wikilink">평일</a> 저녁 7:55 ~ 8:35</p></td>
 <td><p>40분</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2018년" title="wikilink">2018년</a> <a href="../Page/9월_17일.md" title="wikilink">9월 17일</a> ~ <a href="https://ko.wikipedia.org/wiki/2018년" title="wikilink">2018년</a> <a href="../Page/12월_14일.md" title="wikilink">12월 14일</a><br />
-<a href="https://ko.wikipedia.org/wiki/2018년" title="wikilink">2018년</a> <a href="../Page/12월_24일.md" title="wikilink">12월 24일</a> ~ <a href="https://ko.wikipedia.org/wiki/2019년" title="wikilink">2019년</a> <a href="../Page/3월_15일.md" title="wikilink">3월 15일</a></p></td>
+<td><p><a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/9월_17일.md" title="wikilink">9월 17일</a> ~ <a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/12월_14일.md" title="wikilink">12월 14일</a><br />
+<a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/12월_24일.md" title="wikilink">12월 24일</a> ~ <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/3월_15일.md" title="wikilink">3월 15일</a></p></td>
 <td><p>매주 <a href="../Page/월요일.md" title="wikilink">월요일</a> ~ <a href="../Page/목요일.md" title="wikilink">목요일</a> 저녁 7:55 ~ 8:55</p></td>
 <td><p>1시간</p></td>
 </tr>
@@ -243,7 +243,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2018년" title="wikilink">2018년</a> <a href="../Page/12월_17일.md" title="wikilink">12월 17일</a> ~ <a href="https://ko.wikipedia.org/wiki/2018년" title="wikilink">2018년</a> <a href="../Page/12월_21일.md" title="wikilink">12월 21일</a></p></td>
+<td><p><a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/12월_17일.md" title="wikilink">12월 17일</a> ~ <a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/12월_21일.md" title="wikilink">12월 21일</a></p></td>
 <td><p>매주 <a href="../Page/월요일.md" title="wikilink">월요일</a> ~ <a href="../Page/수요일.md" title="wikilink">수요일</a>, <a href="../Page/목요일.md" title="wikilink">목요일</a> 저녁 7:55 ~ 8:55</p></td>
 <td><p>1시간</p></td>
 </tr>
@@ -258,7 +258,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2019년" title="wikilink">2019년</a> <a href="../Page/3월_18일.md" title="wikilink">3월 18일</a> ~ <strong>현재</strong></p></td>
+<td><p><a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/3월_18일.md" title="wikilink">3월 18일</a> ~ <strong>현재</strong></p></td>
 <td><p>매주 <a href="../Page/월요일.md" title="wikilink">월요일</a> ~ <a href="../Page/목요일.md" title="wikilink">목요일</a> 저녁 7:30 ~ 8:55</p></td>
 <td><p>1시간 25분[1]</p></td>
 </tr>
@@ -835,27 +835,27 @@
 <td><p>45분</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/4월_20일.md" title="wikilink">4월 20일</a> ~ <a href="https://ko.wikipedia.org/wiki/2017년" title="wikilink">2017년</a> <a href="../Page/9월_3일.md" title="wikilink">9월 3일</a></p></td>
+<td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/4월_20일.md" title="wikilink">4월 20일</a> ~ <a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/9월_3일.md" title="wikilink">9월 3일</a></p></td>
 <td><p>매주 <a href="https://ko.wikipedia.org/wiki/주말" title="wikilink">주말</a> 저녁 7:55 ~ 8:45</p></td>
 <td><p>50분</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2018년" title="wikilink">2018년</a> <a href="../Page/3월_31일.md" title="wikilink">3월 31일</a> ~ 현재</p></td>
+<td><p><a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/3월_31일.md" title="wikilink">3월 31일</a> ~ 현재</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2017년" title="wikilink">2017년</a> <a href="../Page/9월_9일.md" title="wikilink">9월 9일</a> ~ <a href="https://ko.wikipedia.org/wiki/2017년" title="wikilink">2017년</a> <a href="../Page/9월_10일.md" title="wikilink">9월 10일</a></p></td>
+<td><p><a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/9월_9일.md" title="wikilink">9월 9일</a> ~ <a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/9월_10일.md" title="wikilink">9월 10일</a></p></td>
 <td><p>매주 <a href="https://ko.wikipedia.org/wiki/주말" title="wikilink">주말</a> 저녁 7:55 ~ 8:35</p></td>
 <td><p>40분</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2017년" title="wikilink">2017년</a> <a href="../Page/12월_30일.md" title="wikilink">12월 30일</a> ~ <a href="https://ko.wikipedia.org/wiki/2018년" title="wikilink">2018년</a> <a href="../Page/3월_25일.md" title="wikilink">3월 25일</a></p></td>
+<td><p><a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/12월_30일.md" title="wikilink">12월 30일</a> ~ <a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/3월_25일.md" title="wikilink">3월 25일</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2017년" title="wikilink">2017년</a> <a href="../Page/9월_16일.md" title="wikilink">9월 16일</a> ~ <a href="https://ko.wikipedia.org/wiki/2017년" title="wikilink">2017년</a> <a href="../Page/12월_24일.md" title="wikilink">12월 24일</a></p></td>
+<td><p><a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/9월_16일.md" title="wikilink">9월 16일</a> ~ <a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/12월_24일.md" title="wikilink">12월 24일</a></p></td>
 <td><p>매주 <a href="https://ko.wikipedia.org/wiki/주말" title="wikilink">주말</a> 저녁 7:55 ~ 8:30</p></td>
 <td><p>|35분</p></td>
 </tr>
@@ -932,7 +932,7 @@
 
 ### 현재 앵커
 
-  - 현재 앵커는 평일은 [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [7월 16일](../Page/7월_16일.md "wikilink"), 주말은 [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [7월 27일부터를](../Page/7월_27일.md "wikilink") 기준으로 한다.
+  - 현재 앵커는 평일은 [2018년](../Page/2018년.md "wikilink") [7월 16일](../Page/7월_16일.md "wikilink"), 주말은 [2019년](../Page/2019년.md "wikilink") [7월 27일부터를](../Page/7월_27일.md "wikilink") 기준으로 한다.
   - [1월 1일과](../Page/1월_1일.md "wikilink") 특집 방송에는 주말과 관계 없이 평일 진행자가 진행한다.
 
 <!-- end list -->
@@ -1036,25 +1036,25 @@
   - [2013년](../Page/2013년.md "wikilink") [3월 26일](../Page/3월_26일.md "wikilink"): 권재홍, 김소영, 이상현\[60\]
   - [2013년](../Page/2013년.md "wikilink") [9월 17일](../Page/9월_17일.md "wikilink") \~ [9월 18일](../Page/9월_18일.md "wikilink"): 권재홍, 김소영, 배현진\[61\]
   - [2013년](../Page/2013년.md "wikilink") [11월 18일](../Page/11월_18일.md "wikilink") \~ [2014년](../Page/2014년.md "wikilink") [5월 9일](../Page/5월_9일.md "wikilink"): 박선영, 김대호
-  - [2015년](../Page/2015년.md "wikilink") [8월 3일](../Page/8월_3일.md "wikilink") \~ [8월 7일](../Page/8월_7일.md "wikilink"), [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [7월 25일](../Page/7월_25일.md "wikilink") \~ [7월 29일](../Page/7월_29일.md "wikilink"), [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [9월 26일](../Page/9월_26일.md "wikilink"): 박상권, 배현진\[62\]
+  - [2015년](../Page/2015년.md "wikilink") [8월 3일](../Page/8월_3일.md "wikilink") \~ [8월 7일](../Page/8월_7일.md "wikilink"), [2016년](../Page/2016년.md "wikilink") [7월 25일](../Page/7월_25일.md "wikilink") \~ [7월 29일](../Page/7월_29일.md "wikilink"), [2016년](../Page/2016년.md "wikilink") [9월 26일](../Page/9월_26일.md "wikilink"): 박상권, 배현진\[62\]
   - [2015년](../Page/2015년.md "wikilink") [10월 5일](../Page/10월_5일.md "wikilink") \~ [10월 9일](../Page/10월_9일.md "wikilink"): 박용찬, 이정민\[63\]
-  - [2015년](../Page/2015년.md "wikilink") [11월 9일](../Page/11월_9일.md "wikilink") \~ [12월 31일](../Page/12월_31일.md "wikilink"), [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [1월 4일](../Page/1월_4일.md "wikilink") \~ [7월 1일](../Page/7월_1일.md "wikilink"), [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [7월 11일](../Page/7월_11일.md "wikilink") \~ [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [7월 22일](../Page/7월_22일.md "wikilink"), [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [8월 1일](../Page/8월_1일.md "wikilink") \~ [8월 3일](../Page/8월_3일.md "wikilink"), [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [8월 22일](../Page/8월_22일.md "wikilink") \~ [9월 23일](../Page/9월_23일.md "wikilink"), [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [9월 27일](../Page/9월_27일.md "wikilink") \~ [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [12월 19일](../Page/12월_19일.md "wikilink"), [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [12월 21일](../Page/12월_21일.md "wikilink") \~ [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [2월 17일](../Page/2월_17일.md "wikilink"), [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [2월 27일](../Page/2월_27일.md "wikilink") \~ [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [6월 30일](../Page/6월_30일.md "wikilink"), [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [7월 17일](../Page/7월_17일.md "wikilink") \~ [12월 7일](../Page/12월_7일.md "wikilink"): 이상현, 배현진
-  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [1월 1일](../Page/1월_1일.md "wikilink"): 이상현, 배현진, 박상권, 이정민\[64\]
-  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [7월 4일](../Page/7월_4일.md "wikilink") \~ [7월 8일](../Page/7월_8일.md "wikilink"): 이상현, 이정민\[65\]
-  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [8월 4일](../Page/8월_4일.md "wikilink") \~ [8월 19일](../Page/8월_19일.md "wikilink"): 이상현, 배현진, 박상권\[66\]
-  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [12월 20일](../Page/12월_20일.md "wikilink"): 이상현, 정다희\[67\]
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [2월 20일](../Page/2월_20일.md "wikilink") \~ [2월 24일](../Page/2월_24일.md "wikilink") : 이준희, 배현진\[68\]
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [7월 3일](../Page/7월_3일.md "wikilink") \~ [7월 7일](../Page/7월_7일.md "wikilink") : 천현우, 배현진\[69\]
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [7월 10일](../Page/7월_10일.md "wikilink") \~ [7월 14일](../Page/7월_14일.md "wikilink") : 이상현, 박연경\[70\]
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [12월 8일](../Page/12월_8일.md "wikilink") \~ [12월 25일](../Page/12월_25일.md "wikilink"): 김수지\[71\]
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [12월 26일](../Page/12월_26일.md "wikilink") \~ [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [1월 12일](../Page/1월_12일.md "wikilink"), [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [1월 16일](../Page/1월_16일.md "wikilink") \~ [6월 8일](../Page/6월_8일.md "wikilink"), [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [6월 12일](../Page/6월_12일.md "wikilink"), [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [6월 14일](../Page/6월_14일.md "wikilink") \~ [7월 13일](../Page/7월_13일.md "wikilink"): 박성호, 손정은
-  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [1월 15일](../Page/1월_15일.md "wikilink"): 박성호, 손정은, 김병헌\[72\]
-  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [6월 11일](../Page/6월_11일.md "wikilink"): 박성호, 손정은, 왕종명\[73\]
-  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [6월 13일](../Page/6월_13일.md "wikilink"): 박성제, 김수진, 왕종명\[74\]
-  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [7월 16일](../Page/7월_16일.md "wikilink") \~ [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [1월 25일](../Page/1월_25일.md "wikilink"), [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [2월 4일](../Page/2월_4일.md "wikilink") \~ [7월 31일](../Page/7월_31일.md "wikilink"), [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [8월 5일](../Page/8월_5일.md "wikilink") \~ [8월 15일](../Page/8월_15일.md "wikilink"), [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [8월 20일](../Page/8월_20일.md "wikilink") \~ [11월 7일](../Page/11월_7일.md "wikilink"), [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [11월 11일](../Page/11월_11일.md "wikilink") \~ [2020년](https://ko.wikipedia.org/wiki/2020년 "wikilink") [2월 14일](../Page/2월_14일.md "wikilink"), [2020년](https://ko.wikipedia.org/wiki/2020년 "wikilink") [2월 24일](../Page/2월_24일.md "wikilink") \~ **현재**: 왕종명, 이재은
-  - [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [1월 28일](../Page/1월_28일.md "wikilink") \~ [2월 1일](../Page/2월_1일.md "wikilink"): 성장경, 이재은\[75\]
-  - [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [8월 1일](../Page/8월_1일.md "wikilink") \~ [8월 2일](../Page/8월_2일.md "wikilink"): 왕종명, 강다솜\[76\]
-  - [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [8월 19일](../Page/8월_19일.md "wikilink"), [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [11월 8일](../Page/11월_8일.md "wikilink"), [2020년](https://ko.wikipedia.org/wiki/2020년 "wikilink") [2월 17일](../Page/2월_17일.md "wikilink") \~ [2월 21일](../Page/2월_21일.md "wikilink") : 김경호, 이재은\[77\]
+  - [2015년](../Page/2015년.md "wikilink") [11월 9일](../Page/11월_9일.md "wikilink") \~ [12월 31일](../Page/12월_31일.md "wikilink"), [2016년](../Page/2016년.md "wikilink") [1월 4일](../Page/1월_4일.md "wikilink") \~ [7월 1일](../Page/7월_1일.md "wikilink"), [2016년](../Page/2016년.md "wikilink") [7월 11일](../Page/7월_11일.md "wikilink") \~ [2016년](../Page/2016년.md "wikilink") [7월 22일](../Page/7월_22일.md "wikilink"), [2016년](../Page/2016년.md "wikilink") [8월 1일](../Page/8월_1일.md "wikilink") \~ [8월 3일](../Page/8월_3일.md "wikilink"), [2016년](../Page/2016년.md "wikilink") [8월 22일](../Page/8월_22일.md "wikilink") \~ [9월 23일](../Page/9월_23일.md "wikilink"), [2016년](../Page/2016년.md "wikilink") [9월 27일](../Page/9월_27일.md "wikilink") \~ [2016년](../Page/2016년.md "wikilink") [12월 19일](../Page/12월_19일.md "wikilink"), [2016년](../Page/2016년.md "wikilink") [12월 21일](../Page/12월_21일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [2월 17일](../Page/2월_17일.md "wikilink"), [2017년](../Page/2017년.md "wikilink") [2월 27일](../Page/2월_27일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [6월 30일](../Page/6월_30일.md "wikilink"), [2017년](../Page/2017년.md "wikilink") [7월 17일](../Page/7월_17일.md "wikilink") \~ [12월 7일](../Page/12월_7일.md "wikilink"): 이상현, 배현진
+  - [2016년](../Page/2016년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink"): 이상현, 배현진, 박상권, 이정민\[64\]
+  - [2016년](../Page/2016년.md "wikilink") [7월 4일](../Page/7월_4일.md "wikilink") \~ [7월 8일](../Page/7월_8일.md "wikilink"): 이상현, 이정민\[65\]
+  - [2016년](../Page/2016년.md "wikilink") [8월 4일](../Page/8월_4일.md "wikilink") \~ [8월 19일](../Page/8월_19일.md "wikilink"): 이상현, 배현진, 박상권\[66\]
+  - [2016년](../Page/2016년.md "wikilink") [12월 20일](../Page/12월_20일.md "wikilink"): 이상현, 정다희\[67\]
+  - [2017년](../Page/2017년.md "wikilink") [2월 20일](../Page/2월_20일.md "wikilink") \~ [2월 24일](../Page/2월_24일.md "wikilink") : 이준희, 배현진\[68\]
+  - [2017년](../Page/2017년.md "wikilink") [7월 3일](../Page/7월_3일.md "wikilink") \~ [7월 7일](../Page/7월_7일.md "wikilink") : 천현우, 배현진\[69\]
+  - [2017년](../Page/2017년.md "wikilink") [7월 10일](../Page/7월_10일.md "wikilink") \~ [7월 14일](../Page/7월_14일.md "wikilink") : 이상현, 박연경\[70\]
+  - [2017년](../Page/2017년.md "wikilink") [12월 8일](../Page/12월_8일.md "wikilink") \~ [12월 25일](../Page/12월_25일.md "wikilink"): 김수지\[71\]
+  - [2017년](../Page/2017년.md "wikilink") [12월 26일](../Page/12월_26일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [1월 12일](../Page/1월_12일.md "wikilink"), [2018년](../Page/2018년.md "wikilink") [1월 16일](../Page/1월_16일.md "wikilink") \~ [6월 8일](../Page/6월_8일.md "wikilink"), [2018년](../Page/2018년.md "wikilink") [6월 12일](../Page/6월_12일.md "wikilink"), [2018년](../Page/2018년.md "wikilink") [6월 14일](../Page/6월_14일.md "wikilink") \~ [7월 13일](../Page/7월_13일.md "wikilink"): 박성호, 손정은
+  - [2018년](../Page/2018년.md "wikilink") [1월 15일](../Page/1월_15일.md "wikilink"): 박성호, 손정은, 김병헌\[72\]
+  - [2018년](../Page/2018년.md "wikilink") [6월 11일](../Page/6월_11일.md "wikilink"): 박성호, 손정은, 왕종명\[73\]
+  - [2018년](../Page/2018년.md "wikilink") [6월 13일](../Page/6월_13일.md "wikilink"): 박성제, 김수진, 왕종명\[74\]
+  - [2018년](../Page/2018년.md "wikilink") [7월 16일](../Page/7월_16일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [1월 25일](../Page/1월_25일.md "wikilink"), [2019년](../Page/2019년.md "wikilink") [2월 4일](../Page/2월_4일.md "wikilink") \~ [7월 31일](../Page/7월_31일.md "wikilink"), [2019년](../Page/2019년.md "wikilink") [8월 5일](../Page/8월_5일.md "wikilink") \~ [8월 15일](../Page/8월_15일.md "wikilink"), [2019년](../Page/2019년.md "wikilink") [8월 20일](../Page/8월_20일.md "wikilink") \~ [11월 7일](../Page/11월_7일.md "wikilink"), [2019년](../Page/2019년.md "wikilink") [11월 11일](../Page/11월_11일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [2월 14일](../Page/2월_14일.md "wikilink"), [2020년](../Page/2020년.md "wikilink") [2월 24일](../Page/2월_24일.md "wikilink") \~ **현재**: 왕종명, 이재은
+  - [2019년](../Page/2019년.md "wikilink") [1월 28일](../Page/1월_28일.md "wikilink") \~ [2월 1일](../Page/2월_1일.md "wikilink"): 성장경, 이재은\[75\]
+  - [2019년](../Page/2019년.md "wikilink") [8월 1일](../Page/8월_1일.md "wikilink") \~ [8월 2일](../Page/8월_2일.md "wikilink"): 왕종명, 강다솜\[76\]
+  - [2019년](../Page/2019년.md "wikilink") [8월 19일](../Page/8월_19일.md "wikilink"), [2019년](../Page/2019년.md "wikilink") [11월 8일](../Page/11월_8일.md "wikilink"), [2020년](../Page/2020년.md "wikilink") [2월 17일](../Page/2월_17일.md "wikilink") \~ [2월 21일](../Page/2월_21일.md "wikilink") : 김경호, 이재은\[77\]
 
 ### 주말
 
@@ -1097,14 +1097,14 @@
   - [2013년](../Page/2013년.md "wikilink") [1월 19일](../Page/1월_19일.md "wikilink") \~ [1월 20일](../Page/1월_20일.md "wikilink") : 신동호, 배현진
   - [2013년](../Page/2013년.md "wikilink") [3월 23일](../Page/3월_23일.md "wikilink") \~ [11월 17일](../Page/11월_17일.md "wikilink") : 박용찬, 배현진
   - [2013년](../Page/2013년.md "wikilink") [11월 23일](../Page/11월_23일.md "wikilink") \~ [2014년](../Page/2014년.md "wikilink") [5월 11일](../Page/5월_11일.md "wikilink") : 도인태, 강다솜
-  - [2014년](../Page/2014년.md "wikilink") [5월 17일](../Page/5월_17일.md "wikilink") \~ [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [12월 11일](../Page/12월_11일.md "wikilink") : 박상권, 이정민
-  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [12월 17일](../Page/12월_17일.md "wikilink") \~ [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [6월 11일](../Page/6월_11일.md "wikilink") : 이준희, 정다희
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [6월 17일](../Page/6월_17일.md "wikilink") \~ [8월 13일](../Page/8월_13일.md "wikilink") : 천현우, 박연경
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [8월 19일](../Page/8월_19일.md "wikilink") \~ [12월 3일](../Page/12월_3일.md "wikilink") : 천현우, 김수지
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [12월 9일](../Page/12월_9일.md "wikilink") \~ [12월 24일](../Page/12월_24일.md "wikilink") : 엄주원
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [12월 30일](../Page/12월_30일.md "wikilink") \~ [12월 31일](../Page/12월_31일.md "wikilink") : 임소정
-  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [1월 6일](../Page/1월_6일.md "wikilink") \~ [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [7월 21일](../Page/7월_21일.md "wikilink") : 김수진
-  - [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [7월 27일](../Page/7월_27일.md "wikilink") \~ **현재** : 김경호, 강다솜
+  - [2014년](../Page/2014년.md "wikilink") [5월 17일](../Page/5월_17일.md "wikilink") \~ [2016년](../Page/2016년.md "wikilink") [12월 11일](../Page/12월_11일.md "wikilink") : 박상권, 이정민
+  - [2016년](../Page/2016년.md "wikilink") [12월 17일](../Page/12월_17일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [6월 11일](../Page/6월_11일.md "wikilink") : 이준희, 정다희
+  - [2017년](../Page/2017년.md "wikilink") [6월 17일](../Page/6월_17일.md "wikilink") \~ [8월 13일](../Page/8월_13일.md "wikilink") : 천현우, 박연경
+  - [2017년](../Page/2017년.md "wikilink") [8월 19일](../Page/8월_19일.md "wikilink") \~ [12월 3일](../Page/12월_3일.md "wikilink") : 천현우, 김수지
+  - [2017년](../Page/2017년.md "wikilink") [12월 9일](../Page/12월_9일.md "wikilink") \~ [12월 24일](../Page/12월_24일.md "wikilink") : 엄주원
+  - [2017년](../Page/2017년.md "wikilink") [12월 30일](../Page/12월_30일.md "wikilink") \~ [12월 31일](../Page/12월_31일.md "wikilink") : 임소정
+  - [2018년](../Page/2018년.md "wikilink") [1월 6일](../Page/1월_6일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [7월 21일](../Page/7월_21일.md "wikilink") : 김수진
+  - [2019년](../Page/2019년.md "wikilink") [7월 27일](../Page/7월_27일.md "wikilink") \~ **현재** : 김경호, 강다솜
 
 ## 지역 뉴스데스크
 
@@ -1223,7 +1223,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/MBC경남.md" title="wikilink">MBC경남</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/경상남도" title="wikilink">경남</a> (<a href="https://ko.wikipedia.org/wiki/양산시" title="wikilink">양산시</a> 제외)</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/경상남도" title="wikilink">경남</a> (<a href="../Page/양산시.md" title="wikilink">양산시</a> 제외)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/MBC_뉴스데스크_경남" title="wikilink">MBC 뉴스데스크 경남</a></p></td>
 <td><p>이상훈<br />
 (<a href="https://ko.wikipedia.org/wiki/창원MBC" title="wikilink">창원</a>·<a href="https://ko.wikipedia.org/wiki/진주MBC" title="wikilink">진주</a>)</p></td>
@@ -1337,11 +1337,11 @@
 
 <!-- end list -->
 
-  - 하지만 [2014년](../Page/2014년.md "wikilink") [8월 4일](../Page/8월_4일.md "wikilink") 상암동 MBC 시대가 개막함에 따라 새로운 CG과 새로운 시그널이 만들어졌고, 이 시그널은 [1991년](../Page/1991년.md "wikilink")부터 [1998년](../Page/1998년.md "wikilink")까지 그리고 2001년부터 2014년까지 20년 동안 쓰이던 시그널과 아무 연관성이 없는 새로운 시그널이었으며, [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [12월 7일까지](../Page/12월_7일.md "wikilink") 3년 4개월 동안 사용되었다.
+  - 하지만 [2014년](../Page/2014년.md "wikilink") [8월 4일](../Page/8월_4일.md "wikilink") 상암동 MBC 시대가 개막함에 따라 새로운 CG과 새로운 시그널이 만들어졌고, 이 시그널은 [1991년](../Page/1991년.md "wikilink")부터 [1998년](../Page/1998년.md "wikilink")까지 그리고 2001년부터 2014년까지 20년 동안 쓰이던 시그널과 아무 연관성이 없는 새로운 시그널이었으며, [2017년](../Page/2017년.md "wikilink") [12월 7일까지](../Page/12월_7일.md "wikilink") 3년 4개월 동안 사용되었다.
 
 <!-- end list -->
 
-  - 이 MBC 뉴스데스크 시그널 (2001년 2월 5일 \~ 2012년 7월 26일)은 [930 MBC 뉴스](../Page/930_MBC_뉴스.md "wikilink"), [12 MBC 뉴스](../Page/12_MBC_뉴스.md "wikilink"), [5 MBC 뉴스](../Page/5_MBC_뉴스.md "wikilink"), MBC 뉴스데스크, [MBC 주말뉴스](https://ko.wikipedia.org/wiki/MBC_주말뉴스 "wikilink") 등의 엔딩에만 쓰이고 있으나 [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [12월 26일](../Page/12월_26일.md "wikilink") 방송분부터 [2014년](../Page/2014년.md "wikilink") [8월 3일까지](../Page/8월_3일.md "wikilink") 쓰이던 시그널 곡의 네 번째 리메이크 버전이 나왔다.
+  - 이 MBC 뉴스데스크 시그널 (2001년 2월 5일 \~ 2012년 7월 26일)은 [930 MBC 뉴스](../Page/930_MBC_뉴스.md "wikilink"), [12 MBC 뉴스](../Page/12_MBC_뉴스.md "wikilink"), [5 MBC 뉴스](../Page/5_MBC_뉴스.md "wikilink"), MBC 뉴스데스크, [MBC 주말뉴스](https://ko.wikipedia.org/wiki/MBC_주말뉴스 "wikilink") 등의 엔딩에만 쓰이고 있으나 [2017년](../Page/2017년.md "wikilink") [12월 26일](../Page/12월_26일.md "wikilink") 방송분부터 [2014년](../Page/2014년.md "wikilink") [8월 3일까지](../Page/8월_3일.md "wikilink") 쓰이던 시그널 곡의 네 번째 리메이크 버전이 나왔다.
 
 ### 엔딩
 
@@ -1353,7 +1353,7 @@
 
 <!-- end list -->
 
-  - [1997년](../Page/1997년.md "wikilink") [5월 31일부터](../Page/5월_31일.md "wikilink") 내림 나장조의 뒷부분 곡으로 변경하여 [1999년](../Page/1999년.md "wikilink") [4월 19일까지](../Page/4월_19일.md "wikilink") 사용하다, MBC 뉴스센터의 엔딩으로 사용했던 곡을 처음에는 [1998년](../Page/1998년.md "wikilink") [3월 17일부터](../Page/3월_17일.md "wikilink") [1998년](../Page/1998년.md "wikilink") [4월 20일까지](../Page/4월_20일.md "wikilink")(1998년 3월 31일 제외) 잠깐동안 사용하고, [1999년](../Page/1999년.md "wikilink") [3월 29일](../Page/3월_29일.md "wikilink") 방영분부터 [12월 30일까지](../Page/12월_30일.md "wikilink") 사용하였고, [1999년](../Page/1999년.md "wikilink") [12월 31일부터](../Page/12월_31일.md "wikilink") [2000년](../Page/2000년.md "wikilink") [12월 31일까지](../Page/12월_31일.md "wikilink") 현재 [YTN](https://ko.wikipedia.org/wiki/YTN "wikilink")에서 사용 중인 엔딩을 사용하였으며, [2001년](../Page/2001년.md "wikilink") [1월 1일부터](../Page/1월_1일.md "wikilink") 동년 [2월 4일까지](../Page/2월_4일.md "wikilink") Glory Dreams를 사용했다.
+  - [1997년](../Page/1997년.md "wikilink") [5월 31일부터](../Page/5월_31일.md "wikilink") 내림 나장조의 뒷부분 곡으로 변경하여 [1999년](../Page/1999년.md "wikilink") [4월 19일까지](../Page/4월_19일.md "wikilink") 사용하다, MBC 뉴스센터의 엔딩으로 사용했던 곡을 처음에는 [1998년](../Page/1998년.md "wikilink") [3월 17일부터](../Page/3월_17일.md "wikilink") [1998년](../Page/1998년.md "wikilink") [4월 20일까지](../Page/4월_20일.md "wikilink")(1998년 3월 31일 제외) 잠깐동안 사용하고, [1999년](../Page/1999년.md "wikilink") [3월 29일](../Page/3월_29일.md "wikilink") 방영분부터 [12월 30일까지](../Page/12월_30일.md "wikilink") 사용하였고, [1999년](../Page/1999년.md "wikilink") [12월 31일부터](../Page/12월_31일.md "wikilink") [2000년](../Page/2000년.md "wikilink") [12월 31일까지](../Page/12월_31일.md "wikilink") 현재 [YTN](../Page/YTN.md "wikilink")에서 사용 중인 엔딩을 사용하였으며, [2001년](../Page/2001년.md "wikilink") [1월 1일부터](../Page/1월_1일.md "wikilink") 동년 [2월 4일까지](../Page/2월_4일.md "wikilink") Glory Dreams를 사용했다.
 
 <!-- end list -->
 
@@ -1361,22 +1361,22 @@
 
 <!-- end list -->
 
-  - 앞의 오프닝에서도 언급했듯이 [2014년](../Page/2014년.md "wikilink") [8월 4일부터](../Page/8월_4일.md "wikilink") 마침내 오프닝과 동일한 시그널이 엔딩 시그널로 쓰이기 시작해 [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [12월 7일까지](../Page/12월_7일.md "wikilink") 3년 4개월 동안 사용되었다.
+  - 앞의 오프닝에서도 언급했듯이 [2014년](../Page/2014년.md "wikilink") [8월 4일부터](../Page/8월_4일.md "wikilink") 마침내 오프닝과 동일한 시그널이 엔딩 시그널로 쓰이기 시작해 [2017년](../Page/2017년.md "wikilink") [12월 7일까지](../Page/12월_7일.md "wikilink") 3년 4개월 동안 사용되었다.
 
 <!-- end list -->
 
-  - 그러나 [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [12월 26일](../Page/12월_26일.md "wikilink"), MBC 뉴스 개편과 더불어 오프닝 음악이 다시 시그널이 바뀜에 따라, [2014년](../Page/2014년.md "wikilink") [8월 3일까지](../Page/8월_3일.md "wikilink") 사용했던 엔딩 부분 시그널 음악으로 돌아갔다.
+  - 그러나 [2017년](../Page/2017년.md "wikilink") [12월 26일](../Page/12월_26일.md "wikilink"), MBC 뉴스 개편과 더불어 오프닝 음악이 다시 시그널이 바뀜에 따라, [2014년](../Page/2014년.md "wikilink") [8월 3일까지](../Page/8월_3일.md "wikilink") 사용했던 엔딩 부분 시그널 음악으로 돌아갔다.
 
 ## 타이틀 변천사
 
-| 역대</br>(대수) | 타이틀        | 방송 기간                                                                                                                                                                                              |
-| ----------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1대          | MBC 뉴스데스크  | [1970년](../Page/1970년.md "wikilink") [10월 5일](../Page/10월_5일.md "wikilink") \~ [1976년](../Page/1976년.md "wikilink") [4월 22일](../Page/4월_22일.md "wikilink")                                         |
-| 2대          | MBC 뉴스의 현장 | [1976년](../Page/1976년.md "wikilink") [4월 23일](../Page/4월_23일.md "wikilink") \~ [1980년](../Page/1980년.md "wikilink") [12월 14일](../Page/12월_14일.md "wikilink")                                       |
-| 3대          | MBC 뉴스데스크  | [1980년](../Page/1980년.md "wikilink") [12월 15일](../Page/12월_15일.md "wikilink") \~ [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [12월 7일](../Page/12월_7일.md "wikilink")                    |
-| 4대          | MBC 뉴스     | [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [12월 8일](../Page/12월_8일.md "wikilink") \~ [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [12월 25일](../Page/12월_25일.md "wikilink") |
-| 5대          | MBC 뉴스데스크  | [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [12월 26일](../Page/12월_26일.md "wikilink") \~ **현재**                                                                                         |
-|             |            |                                                                                                                                                                                                    |
+| 역대</br>(대수) | 타이틀        | 방송 기간                                                                                                                                                        |
+| ----------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1대          | MBC 뉴스데스크  | [1970년](../Page/1970년.md "wikilink") [10월 5일](../Page/10월_5일.md "wikilink") \~ [1976년](../Page/1976년.md "wikilink") [4월 22일](../Page/4월_22일.md "wikilink")   |
+| 2대          | MBC 뉴스의 현장 | [1976년](../Page/1976년.md "wikilink") [4월 23일](../Page/4월_23일.md "wikilink") \~ [1980년](../Page/1980년.md "wikilink") [12월 14일](../Page/12월_14일.md "wikilink") |
+| 3대          | MBC 뉴스데스크  | [1980년](../Page/1980년.md "wikilink") [12월 15일](../Page/12월_15일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [12월 7일](../Page/12월_7일.md "wikilink") |
+| 4대          | MBC 뉴스     | [2017년](../Page/2017년.md "wikilink") [12월 8일](../Page/12월_8일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [12월 25일](../Page/12월_25일.md "wikilink") |
+| 5대          | MBC 뉴스데스크  | [2017년](../Page/2017년.md "wikilink") [12월 26일](../Page/12월_26일.md "wikilink") \~ **현재**                                                                      |
+|             |            |                                                                                                                                                              |
 
 ## CI
 
@@ -1386,15 +1386,15 @@
 
 다음과 같은 영화 매체에서 MBC 뉴스데스크의 뉴스 영상 장면에 나왔다.
 
-  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") 《[국가부도의날](https://ko.wikipedia.org/wiki/국가부도의날 "wikilink")》 (실제 뉴스)
+  - [2018년](../Page/2018년.md "wikilink") 《[국가부도의날](https://ko.wikipedia.org/wiki/국가부도의날 "wikilink")》 (실제 뉴스)
   - [2006년](../Page/2006년.md "wikilink") 《[괴물](https://ko.wikipedia.org/wiki/괴물_\(영화\) "wikilink")》 (가상 뉴스)
 
 ## 참고 사항
 
   - 화면 상단 오른쪽에 MBC 로고가 표시되고 있다.
   - [1987년](../Page/1987년.md "wikilink") 이전에는 테잎이 고가였지만, 자료관리가 [1970년](../Page/1970년.md "wikilink") 1편, [1974년](../Page/1974년.md "wikilink") 1편, [1980년](../Page/1980년.md "wikilink") 1편, [1981년](../Page/1981년.md "wikilink") 2편, [1982년](../Page/1982년.md "wikilink") 1편, [1983년](../Page/1983년.md "wikilink") 2편, [1985년](../Page/1985년.md "wikilink") 1편 등의 소장되어 있다.
-  - [1987년](../Page/1987년.md "wikilink") 이후부터 [디지털](https://ko.wikipedia.org/wiki/디지털 "wikilink")화 [데이터베이스](https://ko.wikipedia.org/wiki/데이터베이스 "wikilink")를 구축하여, 뉴스데스크 다시보기 서비스를 볼 수 있다.
-  - [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [10월 16일](../Page/10월_16일.md "wikilink") \~ [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [10월 18일은](../Page/10월_18일.md "wikilink") MBC 제작거부, 서울교통공사 파업 동참으로 인하여 수요일, 목요일은 40분씩 단축하고, 금요일은 30분씩 단축한다.
+  - [1987년](../Page/1987년.md "wikilink") 이후부터 [디지털](https://ko.wikipedia.org/wiki/디지털 "wikilink")화 [데이터베이스](../Page/데이터베이스.md "wikilink")를 구축하여, 뉴스데스크 다시보기 서비스를 볼 수 있다.
+  - [2019년](../Page/2019년.md "wikilink") [10월 16일](../Page/10월_16일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [10월 18일은](../Page/10월_18일.md "wikilink") MBC 제작거부, 서울교통공사 파업 동참으로 인하여 수요일, 목요일은 40분씩 단축하고, 금요일은 30분씩 단축한다.
 
 ## 시청률
 
@@ -1415,7 +1415,7 @@
   - [뉴스A](../Page/뉴스A.md "wikilink") ([채널A](../Page/채널A.md "wikilink"))
   - [JTBC 뉴스룸](../Page/JTBC_뉴스룸.md "wikilink") ([JTBC](../Page/JTBC.md "wikilink"))
   - [MBN 종합뉴스](../Page/MBN_종합뉴스.md "wikilink") ([MBN](../Page/매일방송.md "wikilink"))
-  - [뉴스가 있는 저녁](https://ko.wikipedia.org/wiki/뉴스가_있는_저녁 "wikilink") ([YTN](https://ko.wikipedia.org/wiki/YTN "wikilink"))
+  - [뉴스가 있는 저녁](../Page/뉴스가_있는_저녁.md "wikilink") ([YTN](../Page/YTN.md "wikilink"))
   - [뉴스 20](https://ko.wikipedia.org/wiki/뉴스_20 "wikilink") ([연합뉴스TV](../Page/연합뉴스TV.md "wikilink"))
 
 ## 각주 및 임시 앵커

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [PNG](https://ko.wikipedia.org/wiki/PNG).
 
 
-**포터블 네트워크 그래픽스**(Portable Network Graphics; PNG, \[1\]\[2\])는 [비손실](https://ko.wikipedia.org/wiki/비손실_압축 "wikilink") [그래픽 파일 포맷의](https://ko.wikipedia.org/wiki/그래픽_파일_포맷 "wikilink") 하나이다. [특허](../Page/특허.md "wikilink") 문제가 얽힌 [GIF](https://ko.wikipedia.org/wiki/GIF "wikilink") 포맷의 문제를 해결하고 개선하기 위해서 고안되었다. PNG는 공식적으로는 "핑"()이라고 읽지만, 대부분은 "피엔지"라고 영어 철자 그대로 읽는다.
+**포터블 네트워크 그래픽스**(Portable Network Graphics; PNG, \[1\]\[2\])는 [비손실](https://ko.wikipedia.org/wiki/비손실_압축 "wikilink") [그래픽 파일 포맷의](https://ko.wikipedia.org/wiki/그래픽_파일_포맷 "wikilink") 하나이다. [특허](../Page/특허.md "wikilink") 문제가 얽힌 [GIF](../Page/GIF.md "wikilink") 포맷의 문제를 해결하고 개선하기 위해서 고안되었다. PNG는 공식적으로는 "핑"()이라고 읽지만, 대부분은 "피엔지"라고 영어 철자 그대로 읽는다.
 
 PNG 포맷은 [컬러 팔레트](../Page/팔레트_\(컴퓨팅\).md "wikilink") 화상과 [그레이스케일](https://ko.wikipedia.org/wiki/그레이스케일 "wikilink") 화상, 그리고 풀 컬러 화상 방식을 모두 지원한다. 그러나 [인터넷](../Page/인터넷.md "wikilink") 상의 이미지 표시를 염두에 두고 개발되었기 때문에 [CMYK](https://ko.wikipedia.org/wiki/CMYK "wikilink") 등의 [색 공간은](../Page/색_공간.md "wikilink") 지원하지 않는다.
 
@@ -9,7 +9,7 @@ PNG 포맷은 [컬러 팔레트](../Page/팔레트_\(컴퓨팅\).md "wikilink") 
 
 ## 역사
 
-PNG 포맷을 만들게 된 배경은 [1995년](../Page/1995년.md "wikilink"), [유니시스](../Page/유니시스.md "wikilink") 사가 [GIF](https://ko.wikipedia.org/wiki/GIF "wikilink")에 사용되는 [LZW](../Page/LZW.md "wikilink") [데이터 압축](https://ko.wikipedia.org/wiki/데이터_압축 "wikilink") 알고리즘에 대해 [소프트웨어 특허를](https://ko.wikipedia.org/wiki/소프트웨어_특허 "wikilink") 적용할 것이라고 공고하면서이다. 이 알고리즘은 미국 특허 4,558,302번으로 등록되어 있고, 다른 여러 나라에도 등록되어 있다. 또한 256 색만을 저장할 수 있는 GIF는 한계가 있으므로 컴퓨터 성능이 좋아지면서 문제가 되어 왔다. [1999년](../Page/1999년.md "wikilink") 8월, 유니시스가 [자유 소프트웨어](../Page/자유_소프트웨어.md "wikilink")(프리웨어)와 비상업 소프트웨어(Non-Commercial License Software, FMOD)에 대한 무료 특허 정책을 거둬들이면서 PNG는 인기를 끌기 시작했다.
+PNG 포맷을 만들게 된 배경은 [1995년](../Page/1995년.md "wikilink"), [유니시스](../Page/유니시스.md "wikilink") 사가 [GIF](../Page/GIF.md "wikilink")에 사용되는 [LZW](../Page/LZW.md "wikilink") [데이터 압축](../Page/데이터_압축.md "wikilink") 알고리즘에 대해 [소프트웨어 특허를](https://ko.wikipedia.org/wiki/소프트웨어_특허 "wikilink") 적용할 것이라고 공고하면서이다. 이 알고리즘은 미국 특허 4,558,302번으로 등록되어 있고, 다른 여러 나라에도 등록되어 있다. 또한 256 색만을 저장할 수 있는 GIF는 한계가 있으므로 컴퓨터 성능이 좋아지면서 문제가 되어 왔다. [1999년](../Page/1999년.md "wikilink") 8월, 유니시스가 [자유 소프트웨어](../Page/자유_소프트웨어.md "wikilink")(프리웨어)와 비상업 소프트웨어(Non-Commercial License Software, FMOD)에 대한 무료 특허 정책을 거둬들이면서 PNG는 인기를 끌기 시작했다.
 
   - 버전 1.0: [1996년](../Page/1996년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") 발표되었고, [W3C](../Page/W3C.md "wikilink")에서도 [1996년](../Page/1996년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") 표준으로 지정했다.
   - 버전 1.1: [1998년](../Page/1998년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink")
@@ -53,10 +53,10 @@ PNG 파일은 8바이트의 신호로 시작한다.\[3\]
 
 ## GIF와의 비교
 
-  - 대부분의 경우 PNG는 [GIF](https://ko.wikipedia.org/wiki/GIF "wikilink")보다 압축률이 더 높다.
+  - 대부분의 경우 PNG는 [GIF](../Page/GIF.md "wikilink")보다 압축률이 더 높다.
   - GIF의 단색 투명층과 달리 PNG는 8비트 알파 채널을 이용한 다양한 투명층을 지원한다.
   - 256색까지 지원하는 GIF와 달리 PNG는 [트루 컬러를](https://ko.wikipedia.org/wiki/트루_컬러 "wikilink") 지원한다.
-  - GIF에서는 제공되는 애니메이션을 PNG는 지원하지 않는다. (대안으로 PNG에 기반한 [APNG](https://ko.wikipedia.org/wiki/APNG "wikilink"), [JNG](https://ko.wikipedia.org/wiki/JNG "wikilink"), [MNG](https://ko.wikipedia.org/wiki/MNG "wikilink")와 같은 파일 형식이 제안되었다.)
+  - GIF에서는 제공되는 애니메이션을 PNG는 지원하지 않는다. (대안으로 PNG에 기반한 [APNG](../Page/APNG.md "wikilink"), [JNG](https://ko.wikipedia.org/wiki/JNG "wikilink"), [MNG](https://ko.wikipedia.org/wiki/MNG "wikilink")와 같은 파일 형식이 제안되었다.)
 
 ### 파일 크기
 
@@ -66,7 +66,7 @@ PNG가 GIF보다 최신의 압축 알고리즘을 사용하지만, GIF보다 더
   - PNG 파일 형식에는 [메타데이터](../Page/메타데이터.md "wikilink")가 추가로 붙어 있는 경우가 있다. (어도비 사의 파이어웍스 등).
   - 어도비 포토샵의 일부 옛 버전에서는 PNG 압축 알고리즘을 잘 구현해 내지 못해서 큰 파일을 만들곤 했다.
 
-PNG 파일의 크기를 줄이는 [OptiPNG](http://optipng.sourceforge.net/)나 [pngcrush](https://web.archive.org/web/20040723144359/http://pmt.sourceforge.net/pngcrush/)와 같은 [오픈 소스로](../Page/오픈_소스.md "wikilink") [MS-DOS](https://ko.wikipedia.org/wiki/MS-DOS "wikilink")에서 [유닉스](../Page/유닉스.md "wikilink")나 [리눅스](../Page/리눅스.md "wikilink") 등의 다양한 환경을 지원하여 제공하고 있다.
+PNG 파일의 크기를 줄이는 [OptiPNG](http://optipng.sourceforge.net/)나 [pngcrush](https://web.archive.org/web/20040723144359/http://pmt.sourceforge.net/pngcrush/)와 같은 [오픈 소스로](../Page/오픈_소스.md "wikilink") [MS-DOS](../Page/MS-DOS.md "wikilink")에서 [유닉스](../Page/유닉스.md "wikilink")나 [리눅스](../Page/리눅스.md "wikilink") 등의 다양한 환경을 지원하여 제공하고 있다.
 
 ## JPEG와의 비교
 
@@ -76,7 +76,7 @@ PNG 파일의 크기를 줄이는 [OptiPNG](http://optipng.sourceforge.net/)나 
 
 ## 같이 보기
 
-  - [APNG](https://ko.wikipedia.org/wiki/APNG "wikilink")
+  - [APNG](../Page/APNG.md "wikilink")
 
 ## 각주
 

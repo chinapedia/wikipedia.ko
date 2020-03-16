@@ -3,7 +3,7 @@
 
 **에쓰-오일(S-OIL)(주)**(에쓰-오일주식회사, 에쓰대시오일주식회사, , 약식: 에쓰-오일(주), , 상표: **S-OIL**)은 [대한민국](../Page/대한민국.md "wikilink")의 정유 회사이다.
 
-본사는 [서울특별시](../Page/서울특별시.md "wikilink") [영등포구](../Page/영등포구.md "wikilink") 여의도동 [63빌딩](https://ko.wikipedia.org/wiki/63빌딩 "wikilink")에 위치해 있었으나, [2011년](../Page/2011년.md "wikilink") [6월 27일](../Page/6월_27일.md "wikilink") [공덕역](https://ko.wikipedia.org/wiki/공덕역 "wikilink")이 있는 공덕오거리 인근에 본사 사옥을 완공하여 이전했으며, 주소는 [서울특별시](../Page/서울특별시.md "wikilink") [마포구](../Page/마포구.md "wikilink") [백범로](../Page/백범로_\(서울\).md "wikilink") 192 ([공덕동](../Page/공덕동.md "wikilink"))에 자리잡고있으며 공장은 [울산광역시](https://ko.wikipedia.org/wiki/울산광역시 "wikilink") [울주군](../Page/울주군.md "wikilink") [온산읍](../Page/온산읍.md "wikilink") 산암리에 위치해 있다.
+본사는 [서울특별시](../Page/서울특별시.md "wikilink") [영등포구](../Page/영등포구.md "wikilink") 여의도동 [63빌딩](../Page/63빌딩.md "wikilink")에 위치해 있었으나, [2011년](../Page/2011년.md "wikilink") [6월 27일](../Page/6월_27일.md "wikilink") [공덕역](https://ko.wikipedia.org/wiki/공덕역 "wikilink")이 있는 공덕오거리 인근에 본사 사옥을 완공하여 이전했으며, 주소는 [서울특별시](../Page/서울특별시.md "wikilink") [마포구](../Page/마포구.md "wikilink") [백범로](../Page/백범로_\(서울\).md "wikilink") 192 ([공덕동](../Page/공덕동.md "wikilink"))에 자리잡고있으며 공장은 [울산광역시](https://ko.wikipedia.org/wiki/울산광역시 "wikilink") [울주군](../Page/울주군.md "wikilink") [온산읍](../Page/온산읍.md "wikilink") 산암리에 위치해 있다.
 
 ## 개요
 

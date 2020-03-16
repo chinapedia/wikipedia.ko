@@ -21,7 +21,7 @@ O는 눈을 뜻하는 그림 문자에서 왔다.
 ## 관련 글자
 
   - [아인](../Page/아인.md "wikilink")
-  - [Ο ο](https://ko.wikipedia.org/wiki/Ο "wikilink"),(그리스 문자)
+  - [Ο ο](../Page/Ο.md "wikilink"),(그리스 문자)
   - [О о](https://ko.wikipedia.org/wiki/О "wikilink"),(키릴 문자)
 
 [O](https://ko.wikipedia.org/wiki/분류:로마자_낱자 "wikilink") [분류:모음자](https://ko.wikipedia.org/wiki/분류:모음자 "wikilink")

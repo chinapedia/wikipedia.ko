@@ -5,7 +5,7 @@
 
 ## 역사
 
-[1958년](../Page/1958년.md "wikilink") **[금성사](../Page/금성사.md "wikilink")**(金星社, Goldstar)란 이름으로 설립, 이듬해 [1959년](../Page/1959년.md "wikilink") [대한민국](../Page/대한민국.md "wikilink") 최초로 [진공관](https://ko.wikipedia.org/wiki/진공관 "wikilink") [라디오](../Page/라디오.md "wikilink")를 생산하며 [대한민국](../Page/대한민국.md "wikilink") 전자 산업의 장을 열었다. 이어 [1960년](../Page/1960년.md "wikilink"), [1965년](../Page/1965년.md "wikilink"), [1966년](../Page/1966년.md "wikilink"), [1968년](../Page/1968년.md "wikilink") 등에 각각 [선풍기](../Page/선풍기.md "wikilink"), [냉장고](../Page/냉장고.md "wikilink"), [텔레비전](../Page/텔레비전.md "wikilink"), [에어컨](../Page/에어컨.md "wikilink") 등을 [대한민국](../Page/대한민국.md "wikilink") 최초로 생산했으며, [1970년](../Page/1970년.md "wikilink")에 주식을 상장했다. [1977년](../Page/1977년.md "wikilink") 매출 1천억 원을 달성하고, 이듬해에 수출 1억불을 돌파하였으며, [1984년](../Page/1984년.md "wikilink")에는 매출이 1조원을 돌파하였다. [1995년](../Page/1995년.md "wikilink") **금성사**에서 **LG전자**로 상호를 변경했다. [2002년](../Page/2002년.md "wikilink") 제조사업부문을 **LG전자** 분할되었고, **LG전자**에서 **LG EI**로 상호로 변경했다. [2004년](../Page/2004년.md "wikilink")에는 지상파 [DMB](../Page/디지털_멀티미디어_방송.md "wikilink") 폰을 세계 최초로 개발하였다. [2007년](../Page/2007년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") [남용](https://ko.wikipedia.org/wiki/남용_\(1949년\) "wikilink") 부회장을 신임 CEO로 선임하였다. [2010년](../Page/2010년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") LG전자의 실적부진으로 인한 남용 부회장 사퇴 후\[1\], [구본준](../Page/구본준.md "wikilink") 부회장이 후임으로 맡게 되었다\[2\]. [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [3월 18일](../Page/3월_18일.md "wikilink"). 구본준 부회장이 대표이사 직에서 물러나고 MC사업본부장인 조준호, H\&A사업본부장인 조성진 사장이 취임하였다. [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [12월 1일](../Page/12월_1일.md "wikilink"), LG전자는 기존의 3인 대표 체제에서 1인 CEO 체제로 변경했으며, 이에 따른 후임으로 H\&A사업본부장이었던 조성진 부회장이 새롭게 취임했다.\[3\]
+[1958년](../Page/1958년.md "wikilink") **[금성사](../Page/금성사.md "wikilink")**(金星社, Goldstar)란 이름으로 설립, 이듬해 [1959년](../Page/1959년.md "wikilink") [대한민국](../Page/대한민국.md "wikilink") 최초로 [진공관](../Page/진공관.md "wikilink") [라디오](../Page/라디오.md "wikilink")를 생산하며 [대한민국](../Page/대한민국.md "wikilink") 전자 산업의 장을 열었다. 이어 [1960년](../Page/1960년.md "wikilink"), [1965년](../Page/1965년.md "wikilink"), [1966년](../Page/1966년.md "wikilink"), [1968년](../Page/1968년.md "wikilink") 등에 각각 [선풍기](../Page/선풍기.md "wikilink"), [냉장고](../Page/냉장고.md "wikilink"), [텔레비전](../Page/텔레비전.md "wikilink"), [에어컨](../Page/에어컨.md "wikilink") 등을 [대한민국](../Page/대한민국.md "wikilink") 최초로 생산했으며, [1970년](../Page/1970년.md "wikilink")에 주식을 상장했다. [1977년](../Page/1977년.md "wikilink") 매출 1천억 원을 달성하고, 이듬해에 수출 1억불을 돌파하였으며, [1984년](../Page/1984년.md "wikilink")에는 매출이 1조원을 돌파하였다. [1995년](../Page/1995년.md "wikilink") **금성사**에서 **LG전자**로 상호를 변경했다. [2002년](../Page/2002년.md "wikilink") 제조사업부문을 **LG전자** 분할되었고, **LG전자**에서 **LG EI**로 상호로 변경했다. [2004년](../Page/2004년.md "wikilink")에는 지상파 [DMB](../Page/디지털_멀티미디어_방송.md "wikilink") 폰을 세계 최초로 개발하였다. [2007년](../Page/2007년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") [남용](https://ko.wikipedia.org/wiki/남용_\(1949년\) "wikilink") 부회장을 신임 CEO로 선임하였다. [2010년](../Page/2010년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") LG전자의 실적부진으로 인한 남용 부회장 사퇴 후\[1\], [구본준](../Page/구본준.md "wikilink") 부회장이 후임으로 맡게 되었다\[2\]. [2016년](../Page/2016년.md "wikilink") [3월 18일](../Page/3월_18일.md "wikilink"). 구본준 부회장이 대표이사 직에서 물러나고 MC사업본부장인 조준호, H\&A사업본부장인 조성진 사장이 취임하였다. [2016년](../Page/2016년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink"), LG전자는 기존의 3인 대표 체제에서 1인 CEO 체제로 변경했으며, 이에 따른 후임으로 H\&A사업본부장이었던 조성진 부회장이 새롭게 취임했다.\[3\]
 {||- |valign=top|
 
   - LG TV
@@ -45,17 +45,17 @@
 
 ### 공장
 
-  - [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") [청주시](../Page/청주시.md "wikilink") [흥덕구](https://ko.wikipedia.org/wiki/흥덕구 "wikilink")
+  - [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") [청주시](../Page/청주시.md "wikilink") [흥덕구](../Page/흥덕구.md "wikilink")
   - [경상북도](https://ko.wikipedia.org/wiki/경상북도 "wikilink") [구미시](https://ko.wikipedia.org/wiki/구미시 "wikilink") 수출대로
   - [경상북도](https://ko.wikipedia.org/wiki/경상북도 "wikilink") [구미시](https://ko.wikipedia.org/wiki/구미시 "wikilink") 산호대로
-  - [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink") [창원시](https://ko.wikipedia.org/wiki/창원시 "wikilink") [성산구](../Page/성산구.md "wikilink")
+  - [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink") [창원시](../Page/창원시.md "wikilink") [성산구](../Page/성산구.md "wikilink")
   - [서울특별시](../Page/서울특별시.md "wikilink") [금천구](https://ko.wikipedia.org/wiki/금천구 "wikilink") 디지털로
 
 ## 스폰서십
 
-  - [바이어 04 레버쿠젠](https://ko.wikipedia.org/wiki/바이어_04_레버쿠젠 "wikilink")
+  - [바이어 04 레버쿠젠](../Page/바이어_04_레버쿠젠.md "wikilink")
   - [스완지 시티 AFC](../Page/스완지_시티_AFC.md "wikilink")
-  - [로스앤젤레스 다저스](https://ko.wikipedia.org/wiki/로스앤젤레스_다저스 "wikilink")
+  - [로스앤젤레스 다저스](../Page/로스앤젤레스_다저스.md "wikilink")
   - [손흥민](../Page/손흥민.md "wikilink")
   - [손연재](../Page/손연재.md "wikilink")
 

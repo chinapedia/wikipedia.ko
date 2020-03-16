@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Kiroro](https://ko.wikipedia.org/wiki/Kiroro).
 
 
-**키로로**(, )는 [일본](../Page/일본.md "wikilink") [오키나와현](https://ko.wikipedia.org/wiki/오키나와현 "wikilink") 출신의 2인조 대중음악 듀오이다. 일본에서 주로 활동하고 있으며, 순수한 멜로디가 특징이 이들의 음악은 한국, 대만 등의 가수에 의해 번안되기도 했다. 그룹 이름인 Kiroro는 순수한 [일본어](../Page/일본어.md "wikilink")가 아니라 [아이누어](https://ko.wikipedia.org/wiki/아이누어 "wikilink") 토대로 만든 이름이다.
+**키로로**(, )는 [일본](../Page/일본.md "wikilink") [오키나와현](../Page/오키나와현.md "wikilink") 출신의 2인조 대중음악 듀오이다. 일본에서 주로 활동하고 있으며, 순수한 멜로디가 특징이 이들의 음악은 한국, 대만 등의 가수에 의해 번안되기도 했다. 그룹 이름인 Kiroro는 순수한 [일본어](../Page/일본어.md "wikilink")가 아니라 [아이누어](../Page/아이누어.md "wikilink") 토대로 만든 이름이다.
 
 1996년 인디 데뷰하였고, 1998년 1월 〈[오랫동안](../Page/오랫동안.md "wikilink")〉(長い間)으로 메이져 데뷰하여 같은 해 6월 〈[미래로](https://ko.wikipedia.org/wiki/미래로 "wikilink")〉(未来へ)를 발표했다. 1998년, 1999년, 2001년 [NHK 홍백가합전에](../Page/NHK_홍백가합전.md "wikilink") 출연했다.
 

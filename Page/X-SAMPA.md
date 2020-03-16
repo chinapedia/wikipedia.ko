@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [X-SAMPA](https://ko.wikipedia.org/wiki/X-SAMPA).
 
 
-**확장된 SAM 음성 기호**(X-SAMPA: eXtended Speech Assessment Methods Phonetic Alphabet)는 [런던 대학교의](https://ko.wikipedia.org/wiki/런던_대학교 "wikilink") 음성학 교수인 [존 C. 웰스가](https://ko.wikipedia.org/wiki/존_C._웰스 "wikilink") 1995년에 고안한 [SAMPA](https://ko.wikipedia.org/wiki/SAMPA "wikilink")의 변형이다. X-SAMPA는 모든 [국제 음성 기호를](https://ko.wikipedia.org/wiki/국제_음성_기호 "wikilink") 7비트 [ASCII](https://ko.wikipedia.org/wiki/ASCII "wikilink") 코드에 대응함으로써 표현할 수 있는 언어가 제한적이었던 SAMPA를 보완한다.
+**확장된 SAM 음성 기호**(X-SAMPA: eXtended Speech Assessment Methods Phonetic Alphabet)는 [런던 대학교의](../Page/런던_대학교.md "wikilink") 음성학 교수인 [존 C. 웰스가](https://ko.wikipedia.org/wiki/존_C._웰스 "wikilink") 1995년에 고안한 [SAMPA](https://ko.wikipedia.org/wiki/SAMPA "wikilink")의 변형이다. X-SAMPA는 모든 [국제 음성 기호를](../Page/국제_음성_기호.md "wikilink") 7비트 [ASCII](https://ko.wikipedia.org/wiki/ASCII "wikilink") 코드에 대응함으로써 표현할 수 있는 언어가 제한적이었던 SAMPA를 보완한다.
 
 ## 표
 
@@ -9,7 +9,7 @@
 
   - 보통의 소문자 알파벳으로 된 IPA에는 똑같은 X-SAMPA가 할당되어 있다.
   - 새로운 기호를 표현하기 위해서 X-SAMPA에서는 문자 뒤에 역슬래시를 붙인다. 예를 들어 **`O`**은 **`O\`**와 전혀 관련없는 다른 소리를 나타낸다.
-  - X-SAMPA [발음 구별 기호는](../Page/발음_구별_기호.md "wikilink") 수식받는 기호 다음에 와야 한다. **`~`** (비음화), **`=`** (음절성), **`` ` ``** ([권설음](https://ko.wikipedia.org/wiki/권설음 "wikilink") 및 [R 수반음](https://ko.wikipedia.org/wiki/치경_접근_수반음 "wikilink"))이 아니면, [발음 구별 기호](../Page/발음_구별_기호.md "wikilink") 앞에 **`_`** ([밑줄 문자](https://ko.wikipedia.org/wiki/밑줄_문자 "wikilink"))가 있어야 한다.
+  - X-SAMPA [발음 구별 기호는](../Page/발음_구별_기호.md "wikilink") 수식받는 기호 다음에 와야 한다. **`~`** (비음화), **`=`** (음절성), **`` ` ``** ([권설음](../Page/권설음.md "wikilink") 및 [R 수반음](https://ko.wikipedia.org/wiki/치경_접근_수반음 "wikilink"))이 아니면, [발음 구별 기호](../Page/발음_구별_기호.md "wikilink") 앞에 **`_`** ([밑줄 문자](https://ko.wikipedia.org/wiki/밑줄_문자 "wikilink"))가 있어야 한다.
   - 발음 구별 기호 `_1`부터 `_6`까지의 숫자는 언어에 따라 음성을 구분할 수 있도록 남겨져 있다.
 
 ### 소문자
@@ -598,7 +598,7 @@
 <td><p><code>'</code> (또는 <code>_j</code>)</p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Xsampa-&#39;or_j.png" title="wikilink">파일:Xsampa-'or j.png</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/구개음화" title="wikilink">구개음화</a></p></td>
+<td><p><a href="../Page/구개음화.md" title="wikilink">구개음화</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><code>:</code></p></td>
@@ -652,7 +652,7 @@
 <td><p><code>2</code></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Xsampa-2.png" title="wikilink">파일:Xsampa-2.png</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/전설_원순_중고모음" title="wikilink">전설 원순 중고모음</a></p></td>
+<td><p><a href="../Page/전설_원순_중고모음.md" title="wikilink">전설 원순 중고모음</a></p></td>
 </tr>
 <tr class="even">
 <td><p><code>3</code></p></td>
@@ -808,7 +808,7 @@
 <td><p><code>-\</code></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Xsampa-dashslash.png" title="wikilink">파일:Xsampa-dashslash.png</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/파찰음" title="wikilink">파찰음</a> 및 <a href="https://ko.wikipedia.org/wiki/이중조음" title="wikilink">이중조음</a>의 연결</p></td>
+<td><p><a href="../Page/파찰음.md" title="wikilink">파찰음</a> 및 <a href="https://ko.wikipedia.org/wiki/이중조음" title="wikilink">이중조음</a>의 연결</p></td>
 </tr>
 </tbody>
 </table>
@@ -1069,6 +1069,6 @@
 
 ## 같이 보기
 
-  - [국제 음성 기호](https://ko.wikipedia.org/wiki/국제_음성_기호 "wikilink") (IPA)
+  - [국제 음성 기호](../Page/국제_음성_기호.md "wikilink") (IPA)
 
 [분류:부호화](https://ko.wikipedia.org/wiki/분류:부호화 "wikilink") [분류:음성 기호](https://ko.wikipedia.org/wiki/분류:음성_기호 "wikilink")

@@ -20,7 +20,7 @@
 한국IBM 출신들이 대기업과 중소기업을 포함한 IT 분야 각계에 폭넓게 포진, 인재 사관학교 역할을 했다는 평이다. 최고경영자(CEO)급만 250여 명에 이르며, 대표적인 인물은 다음과 같다.\[1\]
 
   - [신재철](https://ko.wikipedia.org/wiki/신재철 "wikilink") [LG CNS](https://ko.wikipedia.org/wiki/LG_CNS "wikilink") 사장
-  - [고순동](https://ko.wikipedia.org/wiki/고순동 "wikilink") [삼성SDS](https://ko.wikipedia.org/wiki/삼성SDS "wikilink") 사장
+  - [고순동](https://ko.wikipedia.org/wiki/고순동 "wikilink") [삼성SDS](../Page/삼성SDS.md "wikilink") 사장
   - [김익교](https://ko.wikipedia.org/wiki/김익교 "wikilink") [현대자동차](https://ko.wikipedia.org/wiki/현대자동차 "wikilink") 정보기술총괄본부 사장
   - [김용욱](https://ko.wikipedia.org/wiki/김용욱 "wikilink") [한화S\&C](../Page/한화S&C.md "wikilink") 사장
   - [정태수](https://ko.wikipedia.org/wiki/정태수 "wikilink") [LG엔시스](../Page/LG엔시스.md "wikilink") 사장

@@ -3,7 +3,7 @@
 
 [고양이도 하는 IRC입니다. 누구나 환영합니다.](https://ko.wikipedia.org/wiki/파일:Gato_leyendo_canal_IRC_de_Wikipedia_en_español.jpg "wikilink")
 
-위키백과 사용자들끼리의 실시간 대화를 위해서 **[IRC](https://ko.wikipedia.org/wiki/인터넷_릴레이_챗 "wikilink")** 대화방이 열려 있습니다.
+위키백과 사용자들끼리의 실시간 대화를 위해서 **[IRC](../Page/인터넷_릴레이_챗.md "wikilink")** 대화방이 열려 있습니다.
 
 ## 대화방과 위키백과의 관계
 
@@ -42,7 +42,7 @@ IRC 대화방이 위키백과 참여자를 공격하기 위해 사용되거나, 
 
 ### IRC 대화방 안내
 
-  - [프리노드](../Page/프리노드.md "wikilink")  - 주 채널입니다. [UTF-8](https://ko.wikipedia.org/wiki/UTF-8 "wikilink") 인코딩을 사용합니다.
+  - [프리노드](../Page/프리노드.md "wikilink")  - 주 채널입니다. [UTF-8](../Page/UTF-8.md "wikilink") 인코딩을 사용합니다.
   - <irc://irc.hanirc.org/wikipedia> - HanIRC 보조 채널입니다. [CP949](https://ko.wikipedia.org/wiki/CP949 "wikilink") 인코딩을 사용합니다.
       - <irc://utf8.hanirc.org/wikipedia> - 위와 같은 채널이며, UTF-8 인코딩을 사용합니다.
   - <irc://irc.ozinger.org/wikipedia> - 오징어 보조 채널입니다.

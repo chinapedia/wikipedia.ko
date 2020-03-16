@@ -19,7 +19,7 @@ D는 문을 뜻하는 [그림 문자에서](https://ko.wikipedia.org/wiki/그림
 ## 관련 문자
 
   - [달레트](https://ko.wikipedia.org/wiki/달레트 "wikilink")
-  - [Δ δ](https://ko.wikipedia.org/wiki/Δ "wikilink"),
+  - [Δ δ](../Page/Δ.md "wikilink"),
   - [Д д](https://ko.wikipedia.org/wiki/Д "wikilink"),
 
 [D](https://ko.wikipedia.org/wiki/분류:로마자_낱자 "wikilink")

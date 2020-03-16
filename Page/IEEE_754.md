@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [IEEE 754](https://ko.wikipedia.org/wiki/IEEE_754).
 
 
-**[IEEE](https://ko.wikipedia.org/wiki/IEEE "wikilink") 754**는 [전기 전자 기술자 협회](../Page/전기_전자_기술자_협회.md "wikilink")(IEEE)에서 개발한 [컴퓨터](../Page/컴퓨터.md "wikilink")에서 [부동소수점](https://ko.wikipedia.org/wiki/부동소수점 "wikilink")을 표현하는 가장 널리 쓰이는 [표준](https://ko.wikipedia.org/wiki/표준 "wikilink")이다. ±[0](https://ko.wikipedia.org/wiki/0 "wikilink") 등의 수와 [무한](https://ko.wikipedia.org/wiki/무한 "wikilink"), [NaN](https://ko.wikipedia.org/wiki/NaN "wikilink") 등의 기호를 표시하는 법과 이러한 수에 대한 연산을 정의하고 있다. 가장 최신 버전인 IEEE 754-2019가 2019년 6월에 배포되었다. IEEE 754-2019는 2008년 8월에 배포된 직전 버전인 [IEEE 754-2008의](https://ko.wikipedia.org/wiki/IEEE_754-2008 "wikilink") 일부가 수정된 버전이다. IEEE 754-2008은 [IEEE 754-1985의](https://ko.wikipedia.org/wiki/IEEE_754-1985 "wikilink") 거의 대부분과 [IEEE 854-1987 Standard for Radix-independent Floating-Point Arithmetic을](https://ko.wikipedia.org/wiki/IEEE_854-1987 "wikilink") 포함하고 있다.
+**[IEEE](https://ko.wikipedia.org/wiki/IEEE "wikilink") 754**는 [전기 전자 기술자 협회](../Page/전기_전자_기술자_협회.md "wikilink")(IEEE)에서 개발한 [컴퓨터](../Page/컴퓨터.md "wikilink")에서 [부동소수점](../Page/부동소수점.md "wikilink")을 표현하는 가장 널리 쓰이는 [표준](https://ko.wikipedia.org/wiki/표준 "wikilink")이다. ±[0](../Page/0.md "wikilink") 등의 수와 [무한](../Page/무한.md "wikilink"), [NaN](https://ko.wikipedia.org/wiki/NaN "wikilink") 등의 기호를 표시하는 법과 이러한 수에 대한 연산을 정의하고 있다. 가장 최신 버전인 IEEE 754-2019가 2019년 6월에 배포되었다. IEEE 754-2019는 2008년 8월에 배포된 직전 버전인 [IEEE 754-2008의](https://ko.wikipedia.org/wiki/IEEE_754-2008 "wikilink") 일부가 수정된 버전이다. IEEE 754-2008은 [IEEE 754-1985의](https://ko.wikipedia.org/wiki/IEEE_754-1985 "wikilink") 거의 대부분과 [IEEE 854-1987 Standard for Radix-independent Floating-Point Arithmetic을](https://ko.wikipedia.org/wiki/IEEE_854-1987 "wikilink") 포함하고 있다.
 
 IEEE 754에는 32 비트 단정도(single-precision), 64 비트 배정도(double-precision), 43 비트 이상의 확장단정도(거의 쓰이지 않음), 79 비트 이상의 확장배정도(일반적으로 80비트로 구현됨)에 대한 형식을 정의하고 있다. 이중 32 비트 단정도는 반드시 구현해야 하며, 다른 형식은 선택사항이다. 많은 프로그래밍 언어에서 IEEE 표준을 따르도록 정의하고 있다. 예를 들어 [C에서는](../Page/C_\(프로그래밍_언어\).md "wikilink") `float`는 단정도, `double`은 배정도와 대응된다.
 
@@ -28,7 +28,7 @@ IEEE 754의 부동 소수점 표현은 크게 세 부분으로 구성되는데, 
 −118.625 (십진법)을 IEEE 754 (32비트 단정도)로 표현해 보자.
 
   - 음수이므로, 부호부는 1이 된다.
-  - 그 다음, [절댓값](https://ko.wikipedia.org/wiki/절댓값 "wikilink")을 [이진법](https://ko.wikipedia.org/wiki/이진법 "wikilink")으로 나타내면 1110110.101<sub>(2)</sub>이 된다.
+  - 그 다음, [절댓값](../Page/절댓값.md "wikilink")을 [이진법](../Page/이진법.md "wikilink")으로 나타내면 1110110.101<sub>(2)</sub>이 된다.
   - 소수점을 왼쪽으로 이동시켜, 왼쪽에는 1만 남게 만든다. 예를 들면 1110110.101<sub>(2)</sub>=1.110110101<sub>(2)</sub>×2⁶ 과 같다. 이것을 정규화된 부동소수점 수라고 한다.
   - 가수부는 소수점의 오른쪽 부분으로, 부족한 비트 수 부분만큼 0으로 채워 23비트로 만든다. 결과는 11011010100000000000000 이 된다.
   - 지수는 6이므로, Bias를 더해야 한다. 32비트 IEEE 754 형식에서는 Bias는 127이므로 6+127 = 133이 된다. 이진법으로 변환하면 10000101<sub>(2)</sub>이 된다.

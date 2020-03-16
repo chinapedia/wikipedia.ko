@@ -11,7 +11,7 @@
 
 ### 정식 데뷔
 
-그의 정식 데뷔는 [1999년](../Page/1999년.md "wikilink") 1월 앨범 *In Stardom*으로 이루어졌다. 이 앨범은 최초로 "청소년 유해 매체물" 판정을 받고도 500,000장 이상이 팔리는 인기를 얻었으며\[4\] 이러한 특징으로 공중파 9시 뉴스에 연일 보도되기도 하였다. 1999년 8월에 발표한 2집은 1집에 이어 판매 1위에 등극, 신드롬을 이어가며 [싸이](https://ko.wikipedia.org/wiki/싸이 "wikilink"), [이정현](https://ko.wikipedia.org/wiki/이정현_\(1980년\) "wikilink") 등의 스타를 배출하였다. 또한 "얼굴 없는 가수"로 불리던 조PD가 자신의 얼굴을 공개한 시기이기도 하다.
+그의 정식 데뷔는 [1999년](../Page/1999년.md "wikilink") 1월 앨범 *In Stardom*으로 이루어졌다. 이 앨범은 최초로 "청소년 유해 매체물" 판정을 받고도 500,000장 이상이 팔리는 인기를 얻었으며\[4\] 이러한 특징으로 공중파 9시 뉴스에 연일 보도되기도 하였다. 1999년 8월에 발표한 2집은 1집에 이어 판매 1위에 등극, 신드롬을 이어가며 [싸이](../Page/싸이.md "wikilink"), [이정현](../Page/이정현_\(1980년\).md "wikilink") 등의 스타를 배출하였다. 또한 "얼굴 없는 가수"로 불리던 조PD가 자신의 얼굴을 공개한 시기이기도 하다.
 
 [2001년](../Page/2001년.md "wikilink") 그는 새로운 회사명인 [Future Flow](../Page/퓨처_플로우.md "wikilink") 사옥을 준공하고 작업실과 스튜디오 숙소를 겸한 시스템을 갖추었으며, 자신의 4집을 발표하고 처음으로 TV 라이브 무대에 나가기도 하였다.\[5\] 이외에도 제작자로써 **Ra.D**, [DNS](https://ko.wikipedia.org/wiki/DNS_\(그룹\) "wikilink") 등의 음반을 제작하며 경영에 전념하였으나, 돌연 대표직을 사임하였다. 이후 조PD는 대주주로서의 지분과 경영권은 유지하였으나 운영은 [정원관](../Page/정원관.md "wikilink")에게 맡긴 후 스튜디오로 돌아간다. 이러한 결과로 발표된 타이틀곡 〈친구여〉는 [인순이](../Page/인순이.md "wikilink")와 함께 작업한 곡으로, 공중파 가요 프로그램에서 1위를 기록하는 등 큰 인기를 얻으며 선후배 간의 공동 작업 신드롬을 낳기도 하였다. [2005년](../Page/2005년.md "wikilink") 그는 클럽 Brooklyn을 잠시 운영하였으며,\[6\] [----\>Brown Eyed Girls의](https://ko.wikipedia.org/wiki/\<!---영문명만_입력해도_그_링크를_통해서_접속할_수_있으므로,_걸어놓을_필요가_없음._브라운_아이드_걸스 "wikilink") 디지털 싱글 **Hold The Line** 참여 이후 노출을 자제하면서 사실상 은퇴 행보를 보였다.
 
@@ -97,7 +97,7 @@
 
 ### 4WD & Verbal Jint의 디스
 
-[4WD와](https://ko.wikipedia.org/wiki/포워드 "wikilink") Verbal Jint는 2000년 조PD와 DJ Uzi를 향한 디스곡 **노자**를 발표, [이현도](https://ko.wikipedia.org/wiki/이현도 "wikilink")의 "흑열가", DJ Uzi의 "Uzi's Mind" 등의 가사를 패러디하면서 노골적으로 조PD와 DJ Uzi를 디스하였다. 이 곡에는 Lucy가 보컬을 담당하였으며, 그 당시 생소했던 다음절 라임을 선보여 많은 호응을 얻었다. Verbal Jint가 속해있던 3인조 그룹 **Dien Michel**의 *Movin' It*이라는 곡에도 "get out Uzi\!"라는 가사가 들어있다.
+[4WD와](https://ko.wikipedia.org/wiki/포워드 "wikilink") Verbal Jint는 2000년 조PD와 DJ Uzi를 향한 디스곡 **노자**를 발표, [이현도](../Page/이현도.md "wikilink")의 "흑열가", DJ Uzi의 "Uzi's Mind" 등의 가사를 패러디하면서 노골적으로 조PD와 DJ Uzi를 디스하였다. 이 곡에는 Lucy가 보컬을 담당하였으며, 그 당시 생소했던 다음절 라임을 선보여 많은 호응을 얻었다. Verbal Jint가 속해있던 3인조 그룹 **Dien Michel**의 *Movin' It*이라는 곡에도 "get out Uzi\!"라는 가사가 들어있다.
 
 조PD는 직접 반격하지 않았으나, [DJ Uzi가](../Page/DJ_Uzi.md "wikilink") 반격곡으로 **不以兵强天下**라는 곡을 발표하였다. "**졸개로는 천하를 강하게 만들 수 없다**"라는 뜻의 제목을 가진 이 곡은, DJ Uzi 외에 [Deze](../Page/김도현_\(작곡가\).md "wikilink"), **현상** 등이 참여하였다. 셋이 모두 [Soul Train](../Page/소울_트레인.md "wikilink") 출신인 관계로, 이 디스전은 [SNP와](../Page/SNP_\(힙합_크루\).md "wikilink") Soul Train의 싸움으로 비춰지기도 하였다.
 
@@ -120,7 +120,7 @@
 <tr class="odd">
 <td><p>1999년</p></td>
 <td><ul>
-<li>제10회 《<a href="https://ko.wikipedia.org/wiki/서울가요대상" title="wikilink">서울가요대상</a>》 신인상 (Fever ※<a href="https://ko.wikipedia.org/wiki/이정현_(1980년)" title="wikilink">이정현과</a> 공동 수상)</li>
+<li>제10회 《<a href="https://ko.wikipedia.org/wiki/서울가요대상" title="wikilink">서울가요대상</a>》 신인상 (Fever ※<a href="../Page/이정현_(1980년).md" title="wikilink">이정현과</a> 공동 수상)</li>
 <li>제14회 《대한민국 영상음반대상》 골든비디오 부문 인기상 (Fever)</li>
 <li>제1회 《<a href="https://ko.wikipedia.org/wiki/Mnet_Asian_Music_Awards" title="wikilink">Mnet 영상음악대상</a>》 남자 신인 부문 (Fever)</li>
 </ul></td>
@@ -147,7 +147,7 @@
 <tr class="even">
 <td><p>2005년</p></td>
 <td><ul>
-<li>제2회 《<a href="https://ko.wikipedia.org/wiki/한국대중음악상" title="wikilink">한국대중음악상</a>》 종합분야 - 올해의 노래 (친구여)</li>
+<li>제2회 《<a href="../Page/한국대중음악상.md" title="wikilink">한국대중음악상</a>》 종합분야 - 올해의 노래 (친구여)</li>
 <li>제7회 《Mnet/KM Music Video Festival》 심사위원 특별상 (나의 옛날 이야기)</li>
 </ul></td>
 </tr>

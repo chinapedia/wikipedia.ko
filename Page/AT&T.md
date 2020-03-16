@@ -5,7 +5,7 @@
 
 ## 역사
 
-1885년 세워진 [미국전화전신회사](https://ko.wikipedia.org/wiki/미국전화전신회사 "wikilink")(AT\&T Corp.)를 전신으로 한다. [1885년](../Page/1885년.md "wikilink") [뉴욕](../Page/뉴욕.md "wikilink")에서 전화기의 발명가 [알렉산더 그레이엄 벨에](https://ko.wikipedia.org/wiki/알렉산더_그레이엄_벨 "wikilink") 의해 설립되었다.
+1885년 세워진 [미국전화전신회사](https://ko.wikipedia.org/wiki/미국전화전신회사 "wikilink")(AT\&T Corp.)를 전신으로 한다. [1885년](../Page/1885년.md "wikilink") [뉴욕](../Page/뉴욕.md "wikilink")에서 전화기의 발명가 [알렉산더 그레이엄 벨에](../Page/알렉산더_그레이엄_벨.md "wikilink") 의해 설립되었다.
 
 20세기 초엽 미국 정부와 협상의 결과 전화사업의 독점권을 확보한다. 이러한 독점적 상태는 1970년대 초 [반독점소송](https://ko.wikipedia.org/wiki/반독점소송 "wikilink")의 결과 해체되게 된다. 이후 지역 벨 전화회사 8개사, [연구 개발부문 사업으로](../Page/AT&T_랩스.md "wikilink") 분리되고 AT\&T는 기본적인 장거리 서비스만 담당하는 전화회사가 되었다. 이것으로 인해 미국의 전화산업은 시장경쟁체제로 전환되었으며, 특히 장거리 사업 부문은 [MCI](https://ko.wikipedia.org/wiki/MCI_\(기업\) "wikilink"), [스프린트](../Page/스프린트_\(통신사\).md "wikilink") 등의 대규모 장거리 전화 회사의 성장을 가져왔다.
 
@@ -17,7 +17,7 @@ AT\&T는 2016년 10월에는 미디어 업체인 타임워너와 인수합병이
 
 ## 벨 연구소
 
-[벨 연구소는](https://ko.wikipedia.org/wiki/벨_연구소 "wikilink") [Lucent의](https://ko.wikipedia.org/wiki/루슨트_테크놀로지 "wikilink") 연구소이다. 창의적인 연구를 위한 순수 연구소이며, [유닉스](../Page/유닉스.md "wikilink"), [C](../Page/C_\(프로그래밍_언어\).md "wikilink"), [모뎀](../Page/모뎀.md "wikilink")(의 AT로 시작하는) 명령어 등을 개발하였다.
+[벨 연구소는](../Page/벨_연구소.md "wikilink") [Lucent의](https://ko.wikipedia.org/wiki/루슨트_테크놀로지 "wikilink") 연구소이다. 창의적인 연구를 위한 순수 연구소이며, [유닉스](../Page/유닉스.md "wikilink"), [C](../Page/C_\(프로그래밍_언어\).md "wikilink"), [모뎀](../Page/모뎀.md "wikilink")(의 AT로 시작하는) 명령어 등을 개발하였다.
 
 ## 같이 보기
 

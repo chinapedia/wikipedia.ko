@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [MS-DOS](https://ko.wikipedia.org/wiki/MS-DOS).
 
 
-**MS-DOS**(Microsoft Disk Operating System)는 [도스](../Page/도스.md "wikilink")의 일종으로서, [마이크로소프트](../Page/마이크로소프트.md "wikilink")사가 [IBM](../Page/IBM.md "wikilink")사의 의뢰를 받아 시애틀 컴퓨터시스템사로부터 사들여 개발한 [IBM PC용](https://ko.wikipedia.org/wiki/IBM_PC "wikilink") [운영 체제](../Page/운영_체제.md "wikilink")(CP/M-86 호환의 DOS)로, 사상 최초로 대중화된 운영 체제이다. [1981년](../Page/1981년.md "wikilink") [8월](../Page/8월.md "wikilink") 처음 [PC에](../Page/개인용_컴퓨터.md "wikilink") 올려져서 제공되었으며, [1995년](../Page/1995년.md "wikilink") 개발이 중단될 때까지 몇 차례의 판올림이 있었다. MS-DOS라는 독립 제품으로서의 최종 버전은 6.22이며 [윈도 95가](https://ko.wikipedia.org/wiki/윈도_95 "wikilink") 출시된 이후부터는 [윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 제품의 일부로서 제공되었고 [윈도 미에](https://ko.wikipedia.org/wiki/윈도_미 "wikilink") 기본 내장되어있는 8.0까지 나왔다. 이후로는 더이상 개발되지 않는다.
+**MS-DOS**(Microsoft Disk Operating System)는 [도스](../Page/도스.md "wikilink")의 일종으로서, [마이크로소프트](../Page/마이크로소프트.md "wikilink")사가 [IBM](../Page/IBM.md "wikilink")사의 의뢰를 받아 시애틀 컴퓨터시스템사로부터 사들여 개발한 [IBM PC용](../Page/IBM_PC.md "wikilink") [운영 체제](../Page/운영_체제.md "wikilink")(CP/M-86 호환의 DOS)로, 사상 최초로 대중화된 운영 체제이다. [1981년](../Page/1981년.md "wikilink") [8월](../Page/8월.md "wikilink") 처음 [PC에](../Page/개인용_컴퓨터.md "wikilink") 올려져서 제공되었으며, [1995년](../Page/1995년.md "wikilink") 개발이 중단될 때까지 몇 차례의 판올림이 있었다. MS-DOS라는 독립 제품으로서의 최종 버전은 6.22이며 [윈도 95가](https://ko.wikipedia.org/wiki/윈도_95 "wikilink") 출시된 이후부터는 [윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 제품의 일부로서 제공되었고 [윈도 미에](https://ko.wikipedia.org/wiki/윈도_미 "wikilink") 기본 내장되어있는 8.0까지 나왔다. 이후로는 더이상 개발되지 않는다.
 
 마이크로소프트사는 이 제품의 인기에 힘입어 조그마한 프로그래밍 언어 회사에서 다양한 소프트웨어를 제공하는 회사로 자리잡게 된다.
 
 ## 개발 경위
 
-당시 마이크로소프트는 [베이직](../Page/베이직.md "wikilink") [인터프리터](../Page/인터프리터.md "wikilink"), [어셈블러](https://ko.wikipedia.org/wiki/어셈블러 "wikilink"), 여타 언어의 [컴파일러](https://ko.wikipedia.org/wiki/컴파일러 "wikilink") 등을 개발하였으며, 제품의 대부분이 [디지털 리서치사의](../Page/디지털_리서치.md "wikilink") [CP/M](https://ko.wikipedia.org/wiki/CP/M "wikilink") 위에서 동작하였다.
+당시 마이크로소프트는 [베이직](../Page/베이직.md "wikilink") [인터프리터](../Page/인터프리터.md "wikilink"), [어셈블러](https://ko.wikipedia.org/wiki/어셈블러 "wikilink"), 여타 언어의 [컴파일러](../Page/컴파일러.md "wikilink") 등을 개발하였으며, 제품의 대부분이 [디지털 리서치사의](../Page/디지털_리서치.md "wikilink") [CP/M](https://ko.wikipedia.org/wiki/CP/M "wikilink") 위에서 동작하였다.
 
 [1980년](../Page/1980년.md "wikilink") [7월](../Page/7월.md "wikilink") 즈음 IBM은 뒤에 IBM PC로 불리게 되는 [개인용 컴퓨터](../Page/개인용_컴퓨터.md "wikilink") 개발에 착수한다. 이때 개발을 빠르게 진행하기 위해 IBM PC에서 돌아가는 모든 소프트웨어를 외부에서 조달하도록 결정한다.
 
@@ -25,7 +25,7 @@ MS-DOS는 [팀 패터슨이](https://ko.wikipedia.org/wiki/팀_패터슨 "wikili
 
   - 1.0 1981년 - 최초의 IBM PC에 탑재된 첫 버전(PC-DOS).
   - 1.25 1982년 - MS-DOS라는 이름으로 출시된 [IBM PC 호환기종용](../Page/IBM_PC_호환기종.md "wikilink") 첫 버전.
-  - 2.0 1983년 - 하위 디렉토리, 핸들 기반 파일 운용, 명령어 입출력 리다이렉션, [파이프](../Page/수직선_\(기호\).md "wikilink") 등을 지원. 마이크로소프트는 경로명 구분 문자를 대부분의 도스나 [CP/M](https://ko.wikipedia.org/wiki/CP/M "wikilink") 프로그램에서 명령 [스위치로](https://ko.wikipedia.org/wiki/스위치_\(명령줄\) "wikilink") 사용하고 있는 [슬래시](https://ko.wikipedia.org/wiki/슬래시 "wikilink")(/) 대신 [역슬래시](https://ko.wikipedia.org/wiki/역슬래시 "wikilink")()로 사용하기로 함. [하드 디스크와](https://ko.wikipedia.org/wiki/하드_디스크 "wikilink") 360KB [플로피 디스크 드라이브](https://ko.wikipedia.org/wiki/플로피_디스크_드라이브 "wikilink") 지원.
+  - 2.0 1983년 - 하위 디렉토리, 핸들 기반 파일 운용, 명령어 입출력 리다이렉션, [파이프](../Page/수직선_\(기호\).md "wikilink") 등을 지원. 마이크로소프트는 경로명 구분 문자를 대부분의 도스나 [CP/M](https://ko.wikipedia.org/wiki/CP/M "wikilink") 프로그램에서 명령 [스위치로](https://ko.wikipedia.org/wiki/스위치_\(명령줄\) "wikilink") 사용하고 있는 [슬래시](https://ko.wikipedia.org/wiki/슬래시 "wikilink")(/) 대신 [역슬래시](../Page/역슬래시.md "wikilink")()로 사용하기로 함. [하드 디스크와](https://ko.wikipedia.org/wiki/하드_디스크 "wikilink") 360KB [플로피 디스크 드라이브](https://ko.wikipedia.org/wiki/플로피_디스크_드라이브 "wikilink") 지원.
   - 2.01 1983년
   - 2.11 1983년 - 영어 이외의 언어와 날짜 형식 지원.
   - 2.25 1985년 - 한글과 일본어 한자 지원 확대. 동아시아 나라에만 출시됨.
@@ -89,5 +89,5 @@ IO.SYS 파일에 <a href="https://ko.wikipedia.org/wiki/디스크_캐시" title=
 1.
 2.  이 향상점은 플로피 디스크처럼 디스크가 매우 느린 경우에 한해 그 차이가 두드러지며, 하드디스크처럼 디스크가 빠른 경우 실질적으로 거의 차이가 없다.
 3.
-4.  [마이크로소프트 고객지원](http://support.microsoft.com/kb/275423) 참조. 이 때문에 EMS를 이용하는 프로그램(특히 게임 등)을 구동할 수 없게 되며, UMB에 불러올 수 있는 [종료 후 상주 프로그램을](https://ko.wikipedia.org/wiki/종료_후_상주_프로그램 "wikilink") [기본 메모리에](../Page/기본_메모리.md "wikilink") 불러와야 하므로 기본 메모리의 사용 가능 공간이 줄어든다. 단, [UMBPCI](http://www.uwe-sieber.de/umbpci_e.html) 같은 별도의 드라이버를 통해 UMB를 사용할 수 있다.
+4.  [마이크로소프트 고객지원](http://support.microsoft.com/kb/275423) 참조. 이 때문에 EMS를 이용하는 프로그램(특히 게임 등)을 구동할 수 없게 되며, UMB에 불러올 수 있는 [종료 후 상주 프로그램을](../Page/종료_후_상주_프로그램.md "wikilink") [기본 메모리에](../Page/기본_메모리.md "wikilink") 불러와야 하므로 기본 메모리의 사용 가능 공간이 줄어든다. 단, [UMBPCI](http://www.uwe-sieber.de/umbpci_e.html) 같은 별도의 드라이버를 통해 UMB를 사용할 수 있다.
 5.  [매일경제 1985년 5월 25일자 6면](http://dna.naver.com/viewer/index.nhn?editNo=1&printCount=1&publishDate=1985-05-25&officeId=00009&pageNo=6&printNo=5915&publishType=00020&articleId=1985052500099206006) 네이버 디지털 뉴스 아카이브.

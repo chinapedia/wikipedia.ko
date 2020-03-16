@@ -6,11 +6,11 @@
 ## 이름
 
   - [영어](../Page/영어.md "wikilink"): 시 \[siː\]
-  - [프랑스어](../Page/프랑스어.md "wikilink")·[네덜란드어](https://ko.wikipedia.org/wiki/네덜란드어 "wikilink"): 세 \[se\]
-  - [베트남어](https://ko.wikipedia.org/wiki/베트남어 "wikilink"): 세 \[se\], 꺼 \[kəː\]
+  - [프랑스어](../Page/프랑스어.md "wikilink")·[네덜란드어](../Page/네덜란드어.md "wikilink"): 세 \[se\]
+  - [베트남어](../Page/베트남어.md "wikilink"): 세 \[se\], 꺼 \[kəː\]
   - [독일어](../Page/독일어.md "wikilink"): 체 \[eː\]
   - [이탈리아어](../Page/이탈리아어.md "wikilink"): 치 \[i\]
-  - [스페인어](https://ko.wikipedia.org/wiki/스페인어 "wikilink"): 세 \[se\], \[θe\]
+  - [스페인어](../Page/스페인어.md "wikilink"): 세 \[se\], \[θe\]
   - [라틴어](../Page/라틴어.md "wikilink"): 케 \[keː\]
   - [에스페란토](../Page/에스페란토.md "wikilink"): 초 \[o\]
 
@@ -36,9 +36,9 @@ C는 발을 뜻하는 [그림 문자에서](https://ko.wikipedia.org/wiki/그림
 ## 관련 문자
 
   - [기멜](https://ko.wikipedia.org/wiki/기멜 "wikilink")
-  - [Γ γ](https://ko.wikipedia.org/wiki/Γ "wikilink"),(그리스 문자)
+  - [Γ γ](../Page/Γ.md "wikilink"),(그리스 문자)
   - [Г г](https://ko.wikipedia.org/wiki/Г "wikilink"),(키릴 문자)
   - [С с](https://ko.wikipedia.org/wiki/С "wikilink"),(키릴 문자이나, 관련성이 없다. 로마자 C는 감마에서 왔으나, 이 키릴 문자는 시그마에서 왔기 때문이다.)
-  - [G](https://ko.wikipedia.org/wiki/G "wikilink")-C를 변형해서 만든 것이다.([G](https://ko.wikipedia.org/wiki/G "wikilink")문서 참조)
+  - [G](../Page/G.md "wikilink")-C를 변형해서 만든 것이다.([G](../Page/G.md "wikilink")문서 참조)
 
 [분류:로마자 낱자](https://ko.wikipedia.org/wiki/분류:로마자_낱자 "wikilink")

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [UMTS](https://ko.wikipedia.org/wiki/UMTS).
 
 
-**UMTS**(Universal Mobile Telecommunication System)는 유럽의 [3세대 이동통신](https://ko.wikipedia.org/wiki/3세대_이동통신 "wikilink")(3G) 기술 가운데 하나로서 [W-CDMA](https://ko.wikipedia.org/wiki/W-CDMA "wikilink")를 기술표준으로 하는 이동통신 기술이다. 유럽과 일본 주축의 이동통신 협력기구인 [3GPP](../Page/3GPP.md "wikilink")에 의해 표준화되었으며, [국제전기통신연합](https://ko.wikipedia.org/wiki/국제전기통신연합 "wikilink")(ITU)의 3세대 이동통신 규격인 IMT-2000에서 유럽 쪽을 대변하고 있다.
+**UMTS**(Universal Mobile Telecommunication System)는 유럽의 [3세대 이동통신](https://ko.wikipedia.org/wiki/3세대_이동통신 "wikilink")(3G) 기술 가운데 하나로서 [W-CDMA](https://ko.wikipedia.org/wiki/W-CDMA "wikilink")를 기술표준으로 하는 이동통신 기술이다. 유럽과 일본 주축의 이동통신 협력기구인 [3GPP](../Page/3GPP.md "wikilink")에 의해 표준화되었으며, [국제전기통신연합](../Page/국제전기통신연합.md "wikilink")(ITU)의 3세대 이동통신 규격인 IMT-2000에서 유럽 쪽을 대변하고 있다.
 
 GSM 표준이 성공한 디자인인 것에 대한 영향으로 종종 3GSM으로 불리기도 한다.
 

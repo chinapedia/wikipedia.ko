@@ -11,7 +11,7 @@ X.509는 1988년 7월 3일 X.500 표준안의 일환으로 시작되었다. 1993
 
 X.509 시스템에서 CA는 X.500 규약에 따라 서로 구별되는 공개키를 가진 인증서를 발행한다.
 
-한 조직의 인증된 루트 인증서는 그 PKI 시스템을 사용하는 모든 직원들에 분배될 수 있다. [인터넷 익스플로러나](../Page/인터넷_익스플로러.md "wikilink") [모질라](../Page/모질라.md "wikilink"), [오페라와](https://ko.wikipedia.org/wiki/오페라_\(웹_브라우저\) "wikilink") 같은 브라우저는 SSL 인증서라 불리는 미리 설치된 루트 인증서가있다. 사용자가 이 루트 인증서를 제거하거나 사용중지할 수도 있기는 하지만, 거의 그러지는 않는다.
+한 조직의 인증된 루트 인증서는 그 PKI 시스템을 사용하는 모든 직원들에 분배될 수 있다. [인터넷 익스플로러나](../Page/인터넷_익스플로러.md "wikilink") [모질라](../Page/모질라.md "wikilink"), [오페라와](../Page/오페라_\(웹_브라우저\).md "wikilink") 같은 브라우저는 SSL 인증서라 불리는 미리 설치된 루트 인증서가있다. 사용자가 이 루트 인증서를 제거하거나 사용중지할 수도 있기는 하지만, 거의 그러지는 않는다.
 
 X.509는 또한 CRL (certificate revocation list) 구현을 위한 표준도 포함한다. IETF에서 승인된 인증서 유효성 점검 방법은 [OCSP](https://ko.wikipedia.org/wiki/OCSP "wikilink")(Online Certificate Status Protocol)이다.
 

@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [RSA ](https://ko.wikipedia.org/wiki/RSA_).
 
 
-**RSA 암호**는 [공개키 암호시스템의](https://ko.wikipedia.org/wiki/공개_키_암호_방식 "wikilink") 하나로, 암호화뿐만 아니라 [전자서명](../Page/전자서명.md "wikilink")이 가능한 최초의 [알고리즘](../Page/알고리즘.md "wikilink")으로 알려져 있다. RSA가 갖는 [전자서명](../Page/전자서명.md "wikilink") 기능은 인증을 요구하는 [전자 상거래](../Page/전자_상거래.md "wikilink") 등에 RSA의 광범위한 활용을 가능하게 하였다.
+**RSA 암호**는 [공개키 암호시스템의](../Page/공개_키_암호_방식.md "wikilink") 하나로, 암호화뿐만 아니라 [전자서명](../Page/전자서명.md "wikilink")이 가능한 최초의 [알고리즘](../Page/알고리즘.md "wikilink")으로 알려져 있다. RSA가 갖는 [전자서명](../Page/전자서명.md "wikilink") 기능은 인증을 요구하는 [전자 상거래](../Page/전자_상거래.md "wikilink") 등에 RSA의 광범위한 활용을 가능하게 하였다.
 
-1978년 [로널드 라이베스트](https://ko.wikipedia.org/wiki/로널드_라이베스트 "wikilink")(Ron Rivest), [아디 샤미르](../Page/아디_샤미르.md "wikilink")(Adi Shamir), [레너드 애들먼](https://ko.wikipedia.org/wiki/레너드_애들먼 "wikilink")(Leonard Adleman)의 연구에 의해 체계화되었으며, RSA라는 이름은 이들 3명의 이름 앞글자를 딴 것이다. 이 세 발명자는 이 공로로 2002년 [튜링상](../Page/튜링상.md "wikilink")을 수상했다. 그러나 RSA 방식을 제일 먼저 개발한 사람은 영국 [GCHQ](https://ko.wikipedia.org/wiki/GCHQ "wikilink")에 근무하던 수학자였으며, 이보다 빠른 1973년도에 개발하게 된다. 이 내용은 GCHQ에서 비밀로 취급되었으며, 이후 1997년 세상으로 발표되게 된다.\[1\]
+1978년 [로널드 라이베스트](../Page/로널드_라이베스트.md "wikilink")(Ron Rivest), [아디 샤미르](../Page/아디_샤미르.md "wikilink")(Adi Shamir), [레너드 애들먼](https://ko.wikipedia.org/wiki/레너드_애들먼 "wikilink")(Leonard Adleman)의 연구에 의해 체계화되었으며, RSA라는 이름은 이들 3명의 이름 앞글자를 딴 것이다. 이 세 발명자는 이 공로로 2002년 [튜링상](../Page/튜링상.md "wikilink")을 수상했다. 그러나 RSA 방식을 제일 먼저 개발한 사람은 영국 [GCHQ](https://ko.wikipedia.org/wiki/GCHQ "wikilink")에 근무하던 수학자였으며, 이보다 빠른 1973년도에 개발하게 된다. 이 내용은 GCHQ에서 비밀로 취급되었으며, 이후 1997년 세상으로 발표되게 된다.\[1\]
 
 RSA 암호체계의 안정성은 큰 숫자를 [소인수 분해하는](../Page/섹스_돌.md "wikilink") 것이 어렵다는 것에 기반을 두고 있다. 그러므로 큰 수의 소인수 분해를 획기적으로 빠르게 할 수 있는 알고리즘이 발견된다면 이 암호 체계는 가치가 떨어질 것이다. [1993년](../Page/1993년.md "wikilink") [피터 쇼어는](https://ko.wikipedia.org/wiki/피터_쇼어 "wikilink") [쇼어 알고리즘을](https://ko.wikipedia.org/wiki/쇼어_알고리즘 "wikilink") 발표하여, 양자 컴퓨터를 이용하여 임의의 정수를 [다항 시간](https://ko.wikipedia.org/wiki/다항_시간 "wikilink") 안에 소인수 분해하는 방법을 발표하였다. 따라서 양자 컴퓨터가 본격적으로 실용화되면 RSA 알고리즘은 무용지물이 될 것이다. 그러나 양자 컴퓨터가 이 정도 수준으로 실용화되려면 아직 여러 해가 더 필요할 것으로 보인다.
 
-RSA 암호화 알고리즘은 [1983년](../Page/1983년.md "wikilink")에 발명자들이 소속되어 있던 [매사추세츠 공과대학교](https://ko.wikipedia.org/wiki/매사추세츠_공과대학교 "wikilink")(MIT)에 의해 [미국](../Page/미국.md "wikilink")에 [특허](../Page/특허.md "wikilink")로 등록되었고, [2000년](../Page/2000년.md "wikilink") [9월 21일에](../Page/9월_21일.md "wikilink") 그 특허가 만료되었다.
+RSA 암호화 알고리즘은 [1983년](../Page/1983년.md "wikilink")에 발명자들이 소속되어 있던 [매사추세츠 공과대학교](../Page/매사추세츠_공과대학교.md "wikilink")(MIT)에 의해 [미국](../Page/미국.md "wikilink")에 [특허](../Page/특허.md "wikilink")로 등록되었고, [2000년](../Page/2000년.md "wikilink") [9월 21일에](../Page/9월_21일.md "wikilink") 그 특허가 만료되었다.
 
 ## 방식
 

@@ -3,7 +3,7 @@
 
 [150px](https://ko.wikipedia.org/wiki/파일:KT_Logo_\(1991-2001\).svg "wikilink")
 
-**주식회사 케이티**(株式會社-, KT Corporation)는 [대한민국](../Page/대한민국.md "wikilink")의 유무선 통신 서비스 매출액 1위의 선두 업체이다. 유·무선 전화, [초고속 인터넷](https://ko.wikipedia.org/wiki/초고속_인터넷 "wikilink") 등 유·무선 통신 서비스업이 주요 업종이다. 본사는 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [성남시](../Page/성남시.md "wikilink") [분당구](../Page/분당구.md "wikilink") 불정로 90에 위치에 있다. 1981년 한국전기통신공사로 창립한 뒤 2001년 12월에 (주)KT로 상호를 변경하였다.\[1\] 2009년 6월 1일에 이동 통신 자회사인 [KTF와](https://ko.wikipedia.org/wiki/케이티프리텔 "wikilink") 인수 합병을 하였고,\[2\] 2011년 7월에 유·무선 통신 서비스 조직을 통합하였다.\[3\] 독점규제 및 공정거래 등에 관한 법률상 독과점 사업자로서 시장지배적 사업자 지위 남용 규제를 받는다. 통신의 새로운 패러다임을 여는 GiGA 인터넷 가입자 100만을 가장 먼저 달성하였다.
+**주식회사 케이티**(株式會社-, KT Corporation)는 [대한민국](../Page/대한민국.md "wikilink")의 유무선 통신 서비스 매출액 1위의 선두 업체이다. 유·무선 전화, [초고속 인터넷](https://ko.wikipedia.org/wiki/초고속_인터넷 "wikilink") 등 유·무선 통신 서비스업이 주요 업종이다. 본사는 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [성남시](../Page/성남시.md "wikilink") [분당구](../Page/분당구.md "wikilink") 불정로 90에 위치에 있다. 1981년 한국전기통신공사로 창립한 뒤 2001년 12월에 (주)KT로 상호를 변경하였다.\[1\] 2009년 6월 1일에 이동 통신 자회사인 [KTF와](../Page/케이티프리텔.md "wikilink") 인수 합병을 하였고,\[2\] 2011년 7월에 유·무선 통신 서비스 조직을 통합하였다.\[3\] 독점규제 및 공정거래 등에 관한 법률상 독과점 사업자로서 시장지배적 사업자 지위 남용 규제를 받는다. 통신의 새로운 패러다임을 여는 GiGA 인터넷 가입자 100만을 가장 먼저 달성하였다.
 
 ## 연혁
 
@@ -14,7 +14,7 @@
   - [1982년](../Page/1982년.md "wikilink") [3월 29일](../Page/3월_29일.md "wikilink") 한국데이타통신주식회사([데이콤](../Page/LG데이콤.md "wikilink"), 현 [LG유플러스](../Page/LG유플러스.md "wikilink"))을 설립하였다.
   - [1982년](../Page/1982년.md "wikilink") [12월 15일](../Page/12월_15일.md "wikilink") [무선호출기](../Page/무선호출기.md "wikilink") 서비스(일명 **삐삐**)가 1차로 250대가 승낙, 개통되었다.
   - [1984년](../Page/1984년.md "wikilink") 1월 세계에서 10번째로 [전전자교환기](https://ko.wikipedia.org/wiki/전전자교환기 "wikilink") [TDX-1](https://ko.wikipedia.org/wiki/TDX-1 "wikilink")를 개발하였다.
-  - [1984년](../Page/1984년.md "wikilink") 무선통신서비스를 운영할 자회사로 한국이동통신서비스주식회사(현 [SK텔레콤](https://ko.wikipedia.org/wiki/SK텔레콤 "wikilink"))를 설립하였다.
+  - [1984년](../Page/1984년.md "wikilink") 무선통신서비스를 운영할 자회사로 한국이동통신서비스주식회사(현 [SK텔레콤](../Page/SK텔레콤.md "wikilink"))를 설립하였다.
   - [1986년](../Page/1986년.md "wikilink") 무선호출기 서비스 지역이 5대도시로 확대되었다.
   - [1987년](../Page/1987년.md "wikilink") 전국전화자동화가 완성되었다.
   - [1988년](../Page/1988년.md "wikilink") 무선통신서비스 자회사의 명칭을 한국이동통신주식회사로 변경하였다.
@@ -23,19 +23,19 @@
 
 ### 자회사 매각 후
 
-  - [1994년](../Page/1994년.md "wikilink") 자회사인 한국이동통신주식회사(현 [SK텔레콤](https://ko.wikipedia.org/wiki/SK텔레콤 "wikilink"))를 선경그룹(현 [SK그룹](https://ko.wikipedia.org/wiki/SK그룹 "wikilink"))에 매각하였다.
+  - [1994년](../Page/1994년.md "wikilink") 자회사인 한국이동통신주식회사(현 [SK텔레콤](../Page/SK텔레콤.md "wikilink"))를 선경그룹(현 [SK그룹](../Page/SK그룹.md "wikilink"))에 매각하였다.
   - [1994년](../Page/1994년.md "wikilink") 6월 20일 한국 최초의 상용 인터넷 [KORNET](https://ko.wikipedia.org/wiki/KORNET "wikilink")이 개통되었다.
   - [1995년](../Page/1995년.md "wikilink") [한통사태](https://ko.wikipedia.org/wiki/한통사태 "wikilink")([한국통신 노조사태](https://ko.wikipedia.org/wiki/한국통신_노조사태 "wikilink"))를 계기로 [조백제](https://ko.wikipedia.org/wiki/조백제 "wikilink") 사장이 경질되고 [이준](../Page/이준_\(1940년\).md "wikilink") 예비역 대장(육사 19기)이 신임 한국통신공사 사장에 임명되었다.
   - [1995년](../Page/1995년.md "wikilink") [8월 5일](../Page/8월_5일.md "wikilink") [무궁화 1호를](../Page/무궁화_1호.md "wikilink") 발사하였다.
   - [1996년](../Page/1996년.md "wikilink") [1월 14일](../Page/1월_14일.md "wikilink") [무궁화 2호를](https://ko.wikipedia.org/wiki/무궁화_2호 "wikilink") 발사하였다.
   - [1996년](../Page/1996년.md "wikilink") 12월 이준 사장이 [국방부 장관으로](../Page/대한민국의_국방부_장관.md "wikilink") 임명되었으며 후임으로 [이계철](https://ko.wikipedia.org/wiki/이계철 "wikilink") 정보통신부(현 [과학기술정보통신부](../Page/대한민국_과학기술정보통신부.md "wikilink")) 차관이 사장으로 임명되었다.
-  - [1997년](../Page/1997년.md "wikilink") 1월 [한국통신프리텔](https://ko.wikipedia.org/wiki/케이티프리텔 "wikilink")(주)를 설립하여 다시 무선통신서비스인 [PCS](https://ko.wikipedia.org/wiki/PCS "wikilink")와 [CT-2](https://ko.wikipedia.org/wiki/CT-2 "wikilink")(씨티폰) 사업을 시작하였다.
+  - [1997년](../Page/1997년.md "wikilink") 1월 [한국통신프리텔](../Page/케이티프리텔.md "wikilink")(주)를 설립하여 다시 무선통신서비스인 [PCS](https://ko.wikipedia.org/wiki/PCS "wikilink")와 [CT-2](https://ko.wikipedia.org/wiki/CT-2 "wikilink")(씨티폰) 사업을 시작하였다.
   - [1997년](../Page/1997년.md "wikilink") 정부투자기관에서 정부출자기관으로 전환되었다.
   - [1997년](../Page/1997년.md "wikilink") 10월 1일, 이날 새로 시행된 [공기업의경영구조개선및민영화에관한법률이](https://ko.wikipedia.org/wiki/s:공기업의경영구조개선및민영화에관한법률 "wikilink") 적용되기 시작하였다. ([정부투자기관관리기본법의](https://ko.wikipedia.org/wiki/s:정부투자기관관리기본법 "wikilink") 적용대상에서 제외)
   - [1998년](../Page/1998년.md "wikilink") 본사를 [서울특별시](../Page/서울특별시.md "wikilink") [종로구](../Page/종로구.md "wikilink") [세종로](https://ko.wikipedia.org/wiki/세종로 "wikilink") 100에서 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [성남시](../Page/성남시.md "wikilink") [분당구](../Page/분당구.md "wikilink") [정자3동](https://ko.wikipedia.org/wiki/정자동 "wikilink") 206으로 이전하였다.
   - [1998년](../Page/1998년.md "wikilink") 12월 신규 상장하였다.
   - [1999년](../Page/1999년.md "wikilink") [9월 5일](../Page/9월_5일.md "wikilink") [무궁화 3호를](../Page/무궁화_3호.md "wikilink") 발사하였다.
-  - [2000년](../Page/2000년.md "wikilink") [6월](../Page/6월.md "wikilink") [한솔엠닷컴](https://ko.wikipedia.org/wiki/케이티프리텔 "wikilink")(주)의 경영권을 인수하였고, 12월 IMT-2000 사업권을 획득하였다.
+  - [2000년](../Page/2000년.md "wikilink") [6월](../Page/6월.md "wikilink") [한솔엠닷컴](../Page/케이티프리텔.md "wikilink")(주)의 경영권을 인수하였고, 12월 IMT-2000 사업권을 획득하였다.
   - [2001년](../Page/2001년.md "wikilink") IMT-2000 사업을 운영할 자회사 [KT아이컴](https://ko.wikipedia.org/wiki/KT아이컴 "wikilink")을 설립하였다.
   - [2001년](../Page/2001년.md "wikilink") [이계철](https://ko.wikipedia.org/wiki/이계철 "wikilink") 사장이 사임하고 [이상철](https://ko.wikipedia.org/wiki/이상철 "wikilink") 사장이 취임하였다.
   - [2001년](../Page/2001년.md "wikilink") [4월](../Page/4월.md "wikilink") 전화 발신번호서비스(CID)를 시작하였다.
@@ -50,7 +50,7 @@
   - 2002년 [5월 24일](../Page/5월_24일.md "wikilink") [울릉도](../Page/울릉도.md "wikilink")에 기지국이 설치되어 [독도](../Page/독도.md "wikilink")에서 휴대폰이 개통되었다.
   - 2002년 [5월 25일](../Page/5월_25일.md "wikilink") 2002년 5월 21일에 정부 소유 KT 지분 전량 매각된 후 새 주인에게 주권이 교부되고 교환사채(EB)가 발행되었다.\[8\]
   - 2002년 7월 [이상철](https://ko.wikipedia.org/wiki/이상철_\(1948년\) "wikilink") KT 사장이 정보통신부(현 [과학기술정보통신부](https://ko.wikipedia.org/wiki/과학기술정보통신부 "wikilink")) 장관에 임명되었다.
-  - 2002년 [8월 20일](../Page/8월_20일.md "wikilink") [이용경](../Page/이용경.md "wikilink") [KTF](https://ko.wikipedia.org/wiki/케이티프리텔 "wikilink") 사장이 민영화 초대 KT 사장에 공식 취임하였다.
+  - 2002년 [8월 20일](../Page/8월_20일.md "wikilink") [이용경](../Page/이용경.md "wikilink") [KTF](../Page/케이티프리텔.md "wikilink") 사장이 민영화 초대 KT 사장에 공식 취임하였다.
   - 2002년 10월 [이용경](../Page/이용경.md "wikilink") 사장이 2003년 [국제전자상거래연합회](https://ko.wikipedia.org/wiki/국제전자상거래연합회 "wikilink")(GBDe, Global Business Dialogue on Electronic Commerce) 단독 글로벌 의장으로 선출되었다.
   - [2003년](../Page/2003년.md "wikilink") 1월 KT와 SK텔레콤이 상호 보유 지분을 맞교환하여 지배 관계가 청산되었다.\[9\]
   - [2004년](../Page/2004년.md "wikilink"): 봉사단을 7천 명 수준으로 늘렸으며, 청각 장애아 소리 찾기, 외국인 근로자와의 Host Family 결연 등 사회 공헌 활동을 확대하였다.
@@ -95,10 +95,10 @@
   - [2013년](../Page/2013년.md "wikilink") [9월 15일](../Page/9월_15일.md "wikilink") KT가 1.8 GHZ 대역에서 20 MHZ 폭으로 광대역 LTE를 시작
   - [2014년](../Page/2014년.md "wikilink") [1월 27일](../Page/1월_27일.md "wikilink") 황창규 대표이사 취임
   - 2017년 **올레** 브랜드를 버리고 홈과 모바일 모두 **kt** 브랜드 적용
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [7월 17일](../Page/7월_17일.md "wikilink") [2018평창동계올림픽](../Page/2018년_동계_올림픽.md "wikilink") 이통통신사 공식후원사 지정
-  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [2월 1일](../Page/2월_1일.md "wikilink") 평창올림픽 대비 세계 첫 5G서비스 완료
-  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [2월 2일](../Page/2월_2일.md "wikilink") KT커넥티드체험관 강원도 강릉서 개관 첫 **가상 증강현실 올림픽** 개시
-  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") MCN 사업자인 [DIA TV](../Page/DIA_TV.md "wikilink") 협업을 해 어린이 예능 채널 짝꿍TV 개국행사 개최
+  - [2017년](../Page/2017년.md "wikilink") [7월 17일](../Page/7월_17일.md "wikilink") [2018평창동계올림픽](../Page/2018년_동계_올림픽.md "wikilink") 이통통신사 공식후원사 지정
+  - [2018년](../Page/2018년.md "wikilink") [2월 1일](../Page/2월_1일.md "wikilink") 평창올림픽 대비 세계 첫 5G서비스 완료
+  - [2018년](../Page/2018년.md "wikilink") [2월 2일](../Page/2월_2일.md "wikilink") KT커넥티드체험관 강원도 강릉서 개관 첫 **가상 증강현실 올림픽** 개시
+  - [2018년](../Page/2018년.md "wikilink") [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") MCN 사업자인 [DIA TV](../Page/DIA_TV.md "wikilink") 협업을 해 어린이 예능 채널 짝꿍TV 개국행사 개최
 
 ## 주주 및 이사회
 

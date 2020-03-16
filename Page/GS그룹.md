@@ -3,7 +3,7 @@
 
 **GS그룹**은 [LG그룹](../Page/LG그룹.md "wikilink")의 4개 회사가 분리·독립하여 이루어진 대한민국의 [대규모 기업집단으로](https://ko.wikipedia.org/wiki/대규모_기업집단 "wikilink") 2004년 7월 1일 GS홀딩스(현 주식회사 GS)가 출범하여 [LG그룹](../Page/LG그룹.md "wikilink")에서 분리 작업을 시작하여\[1\][2005년](../Page/2005년.md "wikilink") [1월 27일](../Page/1월_27일.md "wikilink") GS홀딩스 외 13개사의 계열분리가 [공정위에](../Page/대한민국_공정거래위원회.md "wikilink") 의해 승인되어 법적 계열분리가 완료되었다.\[2\][2005년](../Page/2005년.md "wikilink") [3월 31일](../Page/3월_31일.md "wikilink")‘GS CI및 경영이념선포식' 행사와 함께 공식 출범하였다.\[3\]
 
-[지주회사](https://ko.wikipedia.org/wiki/지주회사 "wikilink")인 [주식회사 GS가](../Page/GS_\(기업\).md "wikilink") [GS칼텍스](../Page/GS칼텍스.md "wikilink"), [GS리테일](../Page/GS리테일.md "wikilink"), [GS홈쇼핑](https://ko.wikipedia.org/wiki/GS홈쇼핑 "wikilink") 등을 자회사로 거느리고 있으며, [GS건설](../Page/GS건설.md "wikilink")과는 계열사 관계이다. 현 회장은 [허준구](https://ko.wikipedia.org/wiki/허준구 "wikilink")의 장남 [허창수](../Page/허창수.md "wikilink")이다. 허씨 가문은 만석군 집안으로 [함안](https://ko.wikipedia.org/wiki/함안군 "wikilink") 사람이다.\[4\]
+[지주회사](https://ko.wikipedia.org/wiki/지주회사 "wikilink")인 [주식회사 GS가](../Page/GS_\(기업\).md "wikilink") [GS칼텍스](../Page/GS칼텍스.md "wikilink"), [GS리테일](../Page/GS리테일.md "wikilink"), [GS홈쇼핑](https://ko.wikipedia.org/wiki/GS홈쇼핑 "wikilink") 등을 자회사로 거느리고 있으며, [GS건설](../Page/GS건설.md "wikilink")과는 계열사 관계이다. 현 회장은 [허준구](https://ko.wikipedia.org/wiki/허준구 "wikilink")의 장남 [허창수](../Page/허창수.md "wikilink")이다. 허씨 가문은 만석군 집안으로 [함안](../Page/함안군.md "wikilink") 사람이다.\[4\]
 
 ## 역사
 
@@ -59,7 +59,7 @@ LG그룹은 구인회상점으로 창업당시에는 동생인 [구철회](https
 ## 같이 보기
 
   - [LG그룹](../Page/LG그룹.md "wikilink")
-  - [LS그룹](https://ko.wikipedia.org/wiki/LS그룹 "wikilink")
+  - [LS그룹](../Page/LS그룹.md "wikilink")
   - [LIG그룹](../Page/LIG그룹.md "wikilink")
 
 ## 참고 자료

@@ -3,7 +3,7 @@
 
 **IPv4**는 [인터넷 프로토콜의](../Page/인터넷_프로토콜.md "wikilink") 4번째 판이며, 전 세계적으로 사용된 첫 번째 인터넷 프로토콜이다. 과거에 인터넷에서 사용되는 유일한 프로토콜이였으나 [오늘날에는 IPv6이 대중화되었다.](../Page/IPv6.md "wikilink") [IETF](https://ko.wikipedia.org/wiki/IETF "wikilink") RFC 791(1981년 9월)에 기술되어 있다.
 
-IPv4는 [패킷 교환](https://ko.wikipedia.org/wiki/패킷_교환 "wikilink") [네트워크](https://ko.wikipedia.org/wiki/네트워크 "wikilink") 상에서 데이터를 교환하기 위한 [프로토콜](https://ko.wikipedia.org/wiki/프로토콜 "wikilink")이다. 데이터가 정확하게 전달될 것을 보장하지 않고, 중복된 패킷을 전달하거나 패킷의 순서를 잘못 전달할 가능성도 있다. 데이터의 정확하고 순차적인 전달은 그보다 상위 프로토콜인 [TCP에서](../Page/전송_제어_프로토콜.md "wikilink")(그리고 [UDP에서도](../Page/사용자_데이터그램_프로토콜.md "wikilink") 일부) 보장한다.
+IPv4는 [패킷 교환](../Page/패킷_교환.md "wikilink") [네트워크](https://ko.wikipedia.org/wiki/네트워크 "wikilink") 상에서 데이터를 교환하기 위한 [프로토콜](https://ko.wikipedia.org/wiki/프로토콜 "wikilink")이다. 데이터가 정확하게 전달될 것을 보장하지 않고, 중복된 패킷을 전달하거나 패킷의 순서를 잘못 전달할 가능성도 있다. 데이터의 정확하고 순차적인 전달은 그보다 상위 프로토콜인 [TCP에서](../Page/전송_제어_프로토콜.md "wikilink")(그리고 [UDP에서도](../Page/사용자_데이터그램_프로토콜.md "wikilink") 일부) 보장한다.
 
 IPv4의 주소체계는 총 12자리이며 네 부분으로 나뉜다. 각 부분은 0\~255까지 3자리의 수로 표현된다. IPv4 주소는 32비트로 구성되어 있으며, 현재 인터넷 사용자의 증가로 인해 주소공간의 고갈에 대한 우려가 높아지고 있다. 이에 따라 대안으로 128비트 주소체계를 갖는 [IPv6](../Page/IPv6.md "wikilink")가 등장하였다. 중국의 경우 주소공간 고갈을 우려하여 일부에서 독자적으로 [IPv9](https://ko.wikipedia.org/wiki/IPv9 "wikilink")(십진제 인터넷 주소체계)과 숫자도메인(Digital Domain Name System, DDNS)이 결합된 개념인 IP 주소와 도메인 이름이 동일한 네트워크 체제인 All-Digital-Domain-Address (ADDA)를 사용하기도 한다.
 
@@ -70,7 +70,7 @@ IPv4 헤더 포맷
 
 ### 대한민국
 
-[2013년](../Page/2013년.md "wikilink") [8월 19일](../Page/8월_19일.md "wikilink") 현재 IPv4의 4,294,967,296개의 주소 가운데 [대한민국](../Page/대한민국.md "wikilink")에 약 2.61%인 112,268,800개가 할당되어 있으며 이 중 약 99.97%인 112,235,264개가 사용되고 있다. 이는 전 세계에서 [미국](../Page/미국.md "wikilink"), [중국](../Page/중화인민공화국.md "wikilink"), [일본](../Page/일본.md "wikilink"), [영국](../Page/영국.md "wikilink"), [독일](https://ko.wikipedia.org/wiki/독일 "wikilink") 다음으로 6위를 차지하고 있으며 [아시아](../Page/아시아.md "wikilink")권에서는 [중국](../Page/중화인민공화국.md "wikilink"), [일본](../Page/일본.md "wikilink") 다음으로 3위를 차지하고 있다.
+[2013년](../Page/2013년.md "wikilink") [8월 19일](../Page/8월_19일.md "wikilink") 현재 IPv4의 4,294,967,296개의 주소 가운데 [대한민국](../Page/대한민국.md "wikilink")에 약 2.61%인 112,268,800개가 할당되어 있으며 이 중 약 99.97%인 112,235,264개가 사용되고 있다. 이는 전 세계에서 [미국](../Page/미국.md "wikilink"), [중국](../Page/중화인민공화국.md "wikilink"), [일본](../Page/일본.md "wikilink"), [영국](../Page/영국.md "wikilink"), [독일](../Page/독일.md "wikilink") 다음으로 6위를 차지하고 있으며 [아시아](../Page/아시아.md "wikilink")권에서는 [중국](../Page/중화인민공화국.md "wikilink"), [일본](../Page/일본.md "wikilink") 다음으로 3위를 차지하고 있다.
 
 ## WHOIS 검색 서비스
 
@@ -85,7 +85,7 @@ IP 주소 및 도메인은 다음의 검색 기관의 WHOIS 검색 서비스 통
 
 ### 대한민국
 
-  - [KISA](http://whois.kisa.or.kr/): Korea Internet & Security Agency, [한국인터넷진흥원](https://ko.wikipedia.org/wiki/한국인터넷진흥원 "wikilink")
+  - [KISA](http://whois.kisa.or.kr/): Korea Internet & Security Agency, [한국인터넷진흥원](../Page/한국인터넷진흥원.md "wikilink")
 
 ### 아시아 지역
 

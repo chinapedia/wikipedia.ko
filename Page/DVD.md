@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DVD](https://ko.wikipedia.org/wiki/DVD).
 
 
-**DVD**(디브이디, )는 [CD에서](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink") 더 발전한 저장매체이다. 겉모습은 12cm나 8cm 지름의 원반으로서 CD와 같으나 다른 포맷으로 저장되며 높은 용량을 가지고 있다.
+**DVD**(디브이디, )는 [CD에서](../Page/콤팩트_디스크.md "wikilink") 더 발전한 저장매체이다. 겉모습은 12cm나 8cm 지름의 원반으로서 CD와 같으나 다른 포맷으로 저장되며 높은 용량을 가지고 있다.
 
 처음에는 품질이 좋은 대용량 영상물을 담을 수 있는 매체로 시작했지만, 컴퓨터의 정보 저장 매체로 발전하였으며, 지금은 음악을 담는 DVD 오디오도 널리 쓰인다. CD와 달리 모든 DVD는 UDF라는 형식으로 관리되는 파일로 저장되며, 이는 데이터를 담는 CD의 표준인 ISO 9660의 확장형이다.
 

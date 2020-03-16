@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [IPv6](https://ko.wikipedia.org/wiki/IPv6).
 
 
-**IPv6**([Internet Protocol](../Page/인터넷_프로토콜.md "wikilink") version 6)는 인터넷 프로토콜 스택 중 네트워크 계층의 프로토콜로서 버전 6 인터넷 프로토콜(version 6 Internet Protocol)로 제정된 차세대 인터넷 프로토콜을 말한다. 인터넷(Internet)은 [IPv4](https://ko.wikipedia.org/wiki/IPv4 "wikilink") 프로토콜로 구축되어 왔으나 IPv4 프로토콜의 주소가 32비트라는 제한된 주소 공간 및 국가별로 할당된 주소가 거의 소진되고 있다는 한계점으로 인해 지속적인 인터넷 발전에 문제가 예상되어, 이에 대한 대안으로서 IPv6 프로토콜이 제안되었으며, 국제 표준이 RFC 를 통해서 확정되었고, 실제로 IPv6 주소는 휴대폰 및 컴퓨터에 할당되어 적용되고 있다.
+**IPv6**([Internet Protocol](../Page/인터넷_프로토콜.md "wikilink") version 6)는 인터넷 프로토콜 스택 중 네트워크 계층의 프로토콜로서 버전 6 인터넷 프로토콜(version 6 Internet Protocol)로 제정된 차세대 인터넷 프로토콜을 말한다. 인터넷(Internet)은 [IPv4](../Page/IPv4.md "wikilink") 프로토콜로 구축되어 왔으나 IPv4 프로토콜의 주소가 32비트라는 제한된 주소 공간 및 국가별로 할당된 주소가 거의 소진되고 있다는 한계점으로 인해 지속적인 인터넷 발전에 문제가 예상되어, 이에 대한 대안으로서 IPv6 프로토콜이 제안되었으며, 국제 표준이 RFC 를 통해서 확정되었고, 실제로 IPv6 주소는 휴대폰 및 컴퓨터에 할당되어 적용되고 있다.
 
 ## 역사
 
-[2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [1월 30일](../Page/1월_30일.md "wikilink") 기준으로 [IPv4](https://ko.wikipedia.org/wiki/IPv4 "wikilink")의 2<sup>32</sup>인 4,294,967,296개\[1\] 중에 3,410,303,904개가 할당, 588,514,560개가 특수용도, 296,148,832개가 미할당이다.\[2\] 그리고 IANA에서의 할당은 더 이상 없는 상태이다.\[3\] 그리고 APNIC에서는 1회에 한정하여 1024개만을 할당하고 있다\[4\], [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [1월 30일자로](../Page/1월_30일.md "wikilink"), [대한민국](../Page/대한민국.md "wikilink")에 [IPv4](https://ko.wikipedia.org/wiki/IPv4 "wikilink")는 112,231,936개가 할당 되어있다. [IPv4](https://ko.wikipedia.org/wiki/IPv4 "wikilink") 주소는 빠른 속도로 고갈되었으며, [인터넷](../Page/인터넷.md "wikilink")에 접속된 컴퓨터는 기하급수적인 속도로 증가하고 있다. 또한 모자라는 주소를 더 많은 네트워크에 할당하기 위해 네트워크 프래그멘테이션(Network Fragmentation)은 지속적으로 증가하여 [라우터](../Page/라우터.md "wikilink")에 많은 부담을 주고 있다.
+[2012년](../Page/2012년.md "wikilink") [1월 30일](../Page/1월_30일.md "wikilink") 기준으로 [IPv4](../Page/IPv4.md "wikilink")의 2<sup>32</sup>인 4,294,967,296개\[1\] 중에 3,410,303,904개가 할당, 588,514,560개가 특수용도, 296,148,832개가 미할당이다.\[2\] 그리고 IANA에서의 할당은 더 이상 없는 상태이다.\[3\] 그리고 APNIC에서는 1회에 한정하여 1024개만을 할당하고 있다\[4\], [2012년](../Page/2012년.md "wikilink") [1월 30일자로](../Page/1월_30일.md "wikilink"), [대한민국](../Page/대한민국.md "wikilink")에 [IPv4](../Page/IPv4.md "wikilink")는 112,231,936개가 할당 되어있다. [IPv4](../Page/IPv4.md "wikilink") 주소는 빠른 속도로 고갈되었으며, [인터넷](../Page/인터넷.md "wikilink")에 접속된 컴퓨터는 기하급수적인 속도로 증가하고 있다. 또한 모자라는 주소를 더 많은 네트워크에 할당하기 위해 네트워크 프래그멘테이션(Network Fragmentation)은 지속적으로 증가하여 [라우터](../Page/라우터.md "wikilink")에 많은 부담을 주고 있다.
 
 그러므로 인터넷의 주소 고갈과 네트워크 프래그멘테이션 문제를 해결하고 인터넷에 확장성과 데이터 보안을 강화하기 위해 IPv6가 제안되었다.
 
@@ -13,9 +13,9 @@ IPv6는 [팰로앨토 연구소에서](../Page/팰로앨토_연구소.md "wikili
 
 현재 IPv6의 사용량은 매우 적은 편이며, 인터넷의 나머지 부분은 아직도 IPv4 프로토콜로 작동하고 있다.
 
-[2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [1월 30일](../Page/1월_30일.md "wikilink") 기준으로 IPv6의 2<sup>128</sup>인 약 3.4x10<sup>38</sup>개(340,282,366,920,938,463,463,374,607,431,768,211,456개)\[5\] 가운데 21,131,922개의 주소만 전 세계에서 할당되어 사용중이고 이 중에 20,971,520개의 주소는 특수목적용으로 할당되어 있으므로 실제 160,402개의 주소만 실제 사용되고 있다. [대한민국](../Page/대한민국.md "wikilink")에서는 현재 5,219개의 IPv6 주소를 할당받아 사용 중이다.\[6\]
+[2012년](../Page/2012년.md "wikilink") [1월 30일](../Page/1월_30일.md "wikilink") 기준으로 IPv6의 2<sup>128</sup>인 약 3.4x10<sup>38</sup>개(340,282,366,920,938,463,463,374,607,431,768,211,456개)\[5\] 가운데 21,131,922개의 주소만 전 세계에서 할당되어 사용중이고 이 중에 20,971,520개의 주소는 특수목적용으로 할당되어 있으므로 실제 160,402개의 주소만 실제 사용되고 있다. [대한민국](../Page/대한민국.md "wikilink")에서는 현재 5,219개의 IPv6 주소를 할당받아 사용 중이다.\[6\]
 
-특히, 2014년 9월 [SK텔레콤](https://ko.wikipedia.org/wiki/SK텔레콤 "wikilink")이 [한국인터넷진흥원](https://ko.wikipedia.org/wiki/한국인터넷진흥원 "wikilink")과 함께 [갤럭시 노트4](https://ko.wikipedia.org/wiki/갤럭시_노트_4 "wikilink") 부터 IPv6 상용화에 성공한 후 실제 음성과 데이터 통신에 IPv6 통신을 사용중이며, 2016년 7월 현재 SK텔레콤 전체 가입자(2600만명)의 약 25%인 600만명이 IPv6 단말을 사용하고 있다.\[7\]
+특히, 2014년 9월 [SK텔레콤](../Page/SK텔레콤.md "wikilink")이 [한국인터넷진흥원](../Page/한국인터넷진흥원.md "wikilink")과 함께 [갤럭시 노트4](https://ko.wikipedia.org/wiki/갤럭시_노트_4 "wikilink") 부터 IPv6 상용화에 성공한 후 실제 음성과 데이터 통신에 IPv6 통신을 사용중이며, 2016년 7월 현재 SK텔레콤 전체 가입자(2600만명)의 약 25%인 600만명이 IPv6 단말을 사용하고 있다.\[7\]
 
 ## 특성
 
@@ -29,7 +29,7 @@ IPv6와 기존 IPv4 사이의 가장 큰 차이점은 바로 IP 주소의 길이
 
 <!-- end list -->
 
-  - 패킷 크기 확장 : IPv4에서 패킷 크기는 64[킬로](https://ko.wikipedia.org/wiki/킬로 "wikilink")[바이트](https://ko.wikipedia.org/wiki/바이트 "wikilink")로 제한되어 있었다. IPv6의 [점보그램](https://ko.wikipedia.org/wiki/점보그램 "wikilink") 옵션을 사용하면 특정 호스트 사이에는 임의로 큰 크기의 패킷을 주고받을 수 있도록 제한이 없어지게 된다. 따라서 대역폭이 넓은 네트워크를 더 효율적으로 사용할 수 있다.
+  - 패킷 크기 확장 : IPv4에서 패킷 크기는 64[킬로](https://ko.wikipedia.org/wiki/킬로 "wikilink")[바이트](../Page/바이트.md "wikilink")로 제한되어 있었다. IPv6의 [점보그램](https://ko.wikipedia.org/wiki/점보그램 "wikilink") 옵션을 사용하면 특정 호스트 사이에는 임의로 큰 크기의 패킷을 주고받을 수 있도록 제한이 없어지게 된다. 따라서 대역폭이 넓은 네트워크를 더 효율적으로 사용할 수 있다.
 
 <!-- end list -->
 

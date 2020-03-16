@@ -5,7 +5,7 @@
 
 **필립스 스포르트 퍼레이니힝**() 또는 **필립스 스포츠 연합**은 흔히 **PSV 에인트호번** 또는 **PSV**로 알려져 있으며, [네덜란드](../Page/네덜란드.md "wikilink") [노르트브라반트주](https://ko.wikipedia.org/wiki/노르트브라반트주 "wikilink") [에인트호번](../Page/에인트호번.md "wikilink")에 근거지를 둔 축구 팀으로 [1913년](../Page/1913년.md "wikilink") [8월 31일에](../Page/8월_31일.md "wikilink") 에인트호번 에 본사를 둔 세계적 전자기기 업체인 [필립스](../Page/필립스.md "wikilink")사의 직원들에 의해 창단되었다. 구단은 [1956년](https://ko.wikipedia.org/wiki/에레디비시_1956-57 "wikilink") 이후로부터 줄곧 네덜란드 최상위 리그인 [에레디비시](../Page/에레디비시.md "wikilink")에서 활약하고 있다. 팬들은 스스로를 **부런**()이라고도 칭하며, 이는 [농부](https://ko.wikipedia.org/wiki/농부 "wikilink")들이라는 뜻을 지니고 있다. 구단의 연고지인 [노르트브라반트주](https://ko.wikipedia.org/wiki/노르트브라반트주 "wikilink")와 [에인트호번](../Page/에인트호번.md "wikilink")은 대도시와 거리가 먼 곳인 만큼, 이 별칭은 팬들이 그들의 지역에 대한 자부심을 드러낸 것이다.
 
-네덜란드의 축구 리그인 [에레디비시](../Page/에레디비시.md "wikilink")에서 [AFC 아약스](https://ko.wikipedia.org/wiki/AFC_아약스 "wikilink"), [페예노르트](https://ko.wikipedia.org/wiki/페예노르트 "wikilink")와 함께 ‘빅3’로 불린다. [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") 현재까지 총 23회의 리그 우승컵을 들어올렸으며, [1988년](../Page/1988년.md "wikilink") 현재의 [UEFA 챔피언스리그의](../Page/UEFA_챔피언스리그.md "wikilink") 전신인 [유러피언컵](https://ko.wikipedia.org/wiki/유러피언컵 "wikilink")에서 우승하였다.
+네덜란드의 축구 리그인 [에레디비시](../Page/에레디비시.md "wikilink")에서 [AFC 아약스](../Page/AFC_아약스.md "wikilink"), [페예노르트](../Page/페예노르트.md "wikilink")와 함께 ‘빅3’로 불린다. [2017년](../Page/2017년.md "wikilink") 현재까지 총 23회의 리그 우승컵을 들어올렸으며, [1988년](../Page/1988년.md "wikilink") 현재의 [UEFA 챔피언스리그의](../Page/UEFA_챔피언스리그.md "wikilink") 전신인 [유러피언컵](https://ko.wikipedia.org/wiki/유러피언컵 "wikilink")에서 우승하였다.
 
 [2004-05](https://ko.wikipedia.org/wiki/에레디비시_2004-05 "wikilink") 시즌에는 리그 우승을 차지함과 동시에 [UEFA 챔피언스리그에서](../Page/UEFA_챔피언스리그.md "wikilink") 4강까지 진출하였지만 4강전에서 [AC 밀란에게](../Page/AC_밀란.md "wikilink") [원정 다득점](../Page/원정_다득점.md "wikilink") 원칙에 의해 아쉽게 결승 진출이 좌절되기도 하였다. [2004-05](https://ko.wikipedia.org/wiki/에레디비시_2004-05 "wikilink") 시즌부터 [2007-08](https://ko.wikipedia.org/wiki/에레디비시_2007-08 "wikilink") 시즌까지 리그 4연패를 달성한 후에는 7시즌 동안 우승컵을 들지 못하였으나 [2014-15](../Page/에레디비시_2014-15.md "wikilink") 시즌에는 우승, 2015-16 시즌에도 우승을 하며 리그 2연패를 달성하였다. [2017-18](https://ko.wikipedia.org/wiki/에레디비시_2017-18 "wikilink") 시즌에 [아약스 암스테르담을](https://ko.wikipedia.org/wiki/아약스_암스테르담 "wikilink") 맞대결경기에서 이기고 우승을 확정하였다.
 
@@ -76,7 +76,7 @@
 </tr>
 <tr class="even">
 <td><p>1986–1987</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뤼트_휠릿" title="wikilink">뤼트 휠릿</a></p></td>
+<td><p><a href="../Page/뤼트_휠릿.md" title="wikilink">뤼트 휠릿</a></p></td>
 <td><p>[3]</p></td>
 </tr>
 <tr class="odd">
@@ -160,8 +160,8 @@
 ## 같이 보기
 
   - [에레디비시](../Page/에레디비시.md "wikilink")
-  - [AFC 아약스](https://ko.wikipedia.org/wiki/AFC_아약스 "wikilink")
-  - [페예노르트](https://ko.wikipedia.org/wiki/페예노르트 "wikilink")
+  - [AFC 아약스](../Page/AFC_아약스.md "wikilink")
+  - [페예노르트](../Page/페예노르트.md "wikilink")
 
 ## 각주
 

@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
 
 
-[오른쪽](https://ko.wikipedia.org/wiki/파일:Old_Trafford_inside_20060726_1.jpg "wikilink") **맨체스터 유나이티드 풋볼 클럽** ()은 [잉글랜드](../Page/잉글랜드.md "wikilink") [맨체스터](../Page/맨체스터.md "wikilink")에 있는 잉글랜드 프로 축구 구단이다. 1964-65 시즌 이래 단 1번의 시즌을 제외하고는 잉글랜드에서 최다 평균 관중 기록을 차지해왔다. [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink") 개편 당시 원년 구단이었으며 현재까지 계속 소속해 있다 프리미어리그 최다우승 팀이지만 [알렉스 퍼거슨](https://ko.wikipedia.org/wiki/알렉스_퍼거슨 "wikilink") 감독 은퇴이후로 부진을 면치 못하고 있다.
+[오른쪽](https://ko.wikipedia.org/wiki/파일:Old_Trafford_inside_20060726_1.jpg "wikilink") **맨체스터 유나이티드 풋볼 클럽** ()은 [잉글랜드](../Page/잉글랜드.md "wikilink") [맨체스터](../Page/맨체스터.md "wikilink")에 있는 잉글랜드 프로 축구 구단이다. 1964-65 시즌 이래 단 1번의 시즌을 제외하고는 잉글랜드에서 최다 평균 관중 기록을 차지해왔다. [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink") 개편 당시 원년 구단이었으며 현재까지 계속 소속해 있다 프리미어리그 최다우승 팀이지만 [알렉스 퍼거슨](../Page/알렉스_퍼거슨.md "wikilink") 감독 은퇴이후로 부진을 면치 못하고 있다.
 
 구단은 [1878년](../Page/1878년.md "wikilink") 랭커셔 요크셔 철도의 뉴턴 히스 지부 실업팀인 **뉴턴 히스 LYR FC**(Newton Heath LYR F.C.)로 설립되었고, [1902년](../Page/1902년.md "wikilink") [4월 26일](../Page/4월_26일.md "wikilink") 맨체스터 유나이티드 FC로 개명했다.
 
-맨체스터 유나이티드 FC는 [2010-11 시즌 프리미어리그](../Page/프리미어리그_2010-11.md "wikilink") 우승으로 잉글랜드 프로축구 역사상 19번째 [1부 프로축구리그 우승을](https://ko.wikipedia.org/wiki/잉글랜드_1부_프로축구리그_챔피언 "wikilink") 기록해, 기존에 [리버풀 FC가](https://ko.wikipedia.org/wiki/리버풀_FC "wikilink") 갖고 있던 기록과 같은 기록을 경신했다. 구단은 1991-92 시즌부터 2012-13 시즌까지 단 한 차례도 3위 아래의 순위로 시즌을 마친 적이 없을 정도로 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink") 출범 이래 꾸준한 성적을 거두어왔다. 또한 구단은 [잉글랜드 FA컵에서](https://ko.wikipedia.org/wiki/잉글랜드_FA컵 "wikilink") 총 12회 우승하여 [아스널 FC](https://ko.wikipedia.org/wiki/아스널_FC "wikilink") 다음으로 많은 우승기록을 보유하고 있다.
+맨체스터 유나이티드 FC는 [2010-11 시즌 프리미어리그](../Page/프리미어리그_2010-11.md "wikilink") 우승으로 잉글랜드 프로축구 역사상 19번째 [1부 프로축구리그 우승을](https://ko.wikipedia.org/wiki/잉글랜드_1부_프로축구리그_챔피언 "wikilink") 기록해, 기존에 [리버풀 FC가](../Page/리버풀_FC.md "wikilink") 갖고 있던 기록과 같은 기록을 경신했다. 구단은 1991-92 시즌부터 2012-13 시즌까지 단 한 차례도 3위 아래의 순위로 시즌을 마친 적이 없을 정도로 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink") 출범 이래 꾸준한 성적을 거두어왔다. 또한 구단은 [잉글랜드 FA컵에서](https://ko.wikipedia.org/wiki/잉글랜드_FA컵 "wikilink") 총 12회 우승하여 [아스널 FC](../Page/아스널_FC.md "wikilink") 다음으로 많은 우승기록을 보유하고 있다.
 
 [1968년에는](https://ko.wikipedia.org/wiki/유러피언컵_1967-68 "wikilink") [에우제비오](https://ko.wikipedia.org/wiki/에우제비오 "wikilink")의 [벤피카](https://ko.wikipedia.org/wiki/벤피카 "wikilink")를 꺾고 잉글랜드 축구단으로는 최초로 [유러피언컵](https://ko.wikipedia.org/wiki/유러피언컵 "wikilink")을 들어올렸다.\[1\] [1999년에는](../Page/UEFA_챔피언스리그.md "wikilink") [바이에른 뮌헨과의](https://ko.wikipedia.org/wiki/바이에른_뮌헨 "wikilink") 결승전에서 나온 극적인 역전승으로 두 번째 [UEFA 챔피언스리그](../Page/UEFA_챔피언스리그.md "wikilink") 우승을 차지했다. 이 해 [UEFA 챔피언스리그](../Page/UEFA_챔피언스리그.md "wikilink"), [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink"), [잉글랜드 FA컵](https://ko.wikipedia.org/wiki/잉글랜드_FA컵 "wikilink") 3개의 주요 타이틀을 석권하여 이른바 [트레블](../Page/트레블.md "wikilink")을 달성하였다.
 
@@ -17,7 +17,7 @@
 
 [섬네일](../Page/파일:ManUnited1905-1906.jpg.md "wikilink") 맨유의 역사는 [1878년](../Page/1878년.md "wikilink") 랭커셔 요크셔 철도의 뉴턴 히스 지부 실업팀인 뉴턴 히스 LYR F.C.(Newton Heath LYR F.C.)의 설립으로 거슬러 올라간다.\[4\] 유니폼은 지금과는 달리 녹색과 노란색을 좌우 대칭으로 넣은 유니폼이었다. [1892년](../Page/1892년.md "wikilink") 철도 지부와의 관련을 끊고 “Newton Heath F.C.”로 명칭을 변경, 독립적인 클럽으로 변모하였고, 풋볼 리그(The Football League)에도 참가하였다. [1902년](../Page/1902년.md "wikilink") 2500[파운드의](https://ko.wikipedia.org/wiki/영국_파운드 "wikilink") 부채로 인해 클럽이 위기에 빠졌는데, J. H. 데이비스의 투자로 다시 일어날 수 있었다. 전해지는 이야기에 따르면, 당시 클럽의 주장인 해리 스태퍼드가 그의 애견 [세인트버나드](https://ko.wikipedia.org/wiki/세인트버나드 "wikilink")를 기금 모금 행사에서 자랑했고 데이비스는 개를 사기 위해 스태퍼드에게 접근했다. 그러나 클럽의 주장은 제안을 거절했고 대신 데이비스가 클럽에 투자하기를 설득했다고 한다. 한편, 클럽의 명칭과 관련하여 “맨체스터 센트럴(Manchester Central)”과 “맨체스터 셀틱(Manchester Celtic)”이 제안되기도 했는데, 이탈리아계 후손인 [루이스 로카](https://ko.wikipedia.org/wiki/루이스_로카 "wikilink")(Louis Rocca)가 맨체스터 유나이티드를 제안해 그것으로 결정되었다. [1902년](../Page/1902년.md "wikilink") [4월 26일](../Page/4월_26일.md "wikilink") 맨체스터 유나이티드로의 개명이 확정되었다.\[5\] 데이비스는 기존 유니폼의 색인 녹색과 금색 대신에 붉은색과 흰색으로 바꾸었다.
 
-[1902년](../Page/1902년.md "wikilink") [9월 28일](../Page/9월_28일.md "wikilink") [제임스 웨스트가](../Page/제임스_웨스트.md "wikilink") 감독직을 사임한 이후 어니스트 만그날이 사무장으로 임명되었고 1부 리그로 팀을 승격시킬 임무를 맡게 되었다. 첫 시도는 디비전 2의 5위로 그쳤다. 만그날은 클럽에 새 얼굴이 필요하다는 판단을 내렸고 해리 모거와 딕 더크워스, 존 피켄 등을 영입했고 400파운드를 들여 찰리 로버츠를 데리고 왔다. 결국 2부 리그 1905-06 시즌에서 2위를 차지하여 1부 리그로 마침내 승격하였다. [1908년](../Page/1908년.md "wikilink")에는 클럽 역사상 최초로 우승을 차지하였다. 그리고 다음해 [FA컵을](https://ko.wikipedia.org/wiki/FA컵_\(잉글랜드\) "wikilink") 최초로 우승하였다. 1910-11 시즌을 우승하였고 그 와중에 [올드 트래퍼드로](../Page/올드_트래퍼드.md "wikilink") 홈구장을 이전하였다. 1910년 2월 19일 [리버풀 FC를](https://ko.wikipedia.org/wiki/리버풀_FC "wikilink") 상대로 올드 트래퍼드에서의 첫 경기를 치렀다. [1922년](../Page/1922년.md "wikilink")에는 2부 리그로 강등되는 일을 겪기도 하였는데 [1925년](../Page/1925년.md "wikilink")에 1부 리그에 복귀하였다. 그러나 다시 [1931년](../Page/1931년.md "wikilink")에는 강등하는 등 요요 클럽(승격과 강등을 반복하는 팀)으로 불리기도 했다. 1938-39 시즌에서 14위를 차지한 이래로 1부 리그에 안정적으로 머물기 시작했다.
+[1902년](../Page/1902년.md "wikilink") [9월 28일](../Page/9월_28일.md "wikilink") [제임스 웨스트가](../Page/제임스_웨스트.md "wikilink") 감독직을 사임한 이후 어니스트 만그날이 사무장으로 임명되었고 1부 리그로 팀을 승격시킬 임무를 맡게 되었다. 첫 시도는 디비전 2의 5위로 그쳤다. 만그날은 클럽에 새 얼굴이 필요하다는 판단을 내렸고 해리 모거와 딕 더크워스, 존 피켄 등을 영입했고 400파운드를 들여 찰리 로버츠를 데리고 왔다. 결국 2부 리그 1905-06 시즌에서 2위를 차지하여 1부 리그로 마침내 승격하였다. [1908년](../Page/1908년.md "wikilink")에는 클럽 역사상 최초로 우승을 차지하였다. 그리고 다음해 [FA컵을](https://ko.wikipedia.org/wiki/FA컵_\(잉글랜드\) "wikilink") 최초로 우승하였다. 1910-11 시즌을 우승하였고 그 와중에 [올드 트래퍼드로](../Page/올드_트래퍼드.md "wikilink") 홈구장을 이전하였다. 1910년 2월 19일 [리버풀 FC를](../Page/리버풀_FC.md "wikilink") 상대로 올드 트래퍼드에서의 첫 경기를 치렀다. [1922년](../Page/1922년.md "wikilink")에는 2부 리그로 강등되는 일을 겪기도 하였는데 [1925년](../Page/1925년.md "wikilink")에 1부 리그에 복귀하였다. 그러나 다시 [1931년](../Page/1931년.md "wikilink")에는 강등하는 등 요요 클럽(승격과 강등을 반복하는 팀)으로 불리기도 했다. 1938-39 시즌에서 14위를 차지한 이래로 1부 리그에 안정적으로 머물기 시작했다.
 
 ### 1945-1969 (버즈비 시대)
 
@@ -29,21 +29,21 @@
 
 ### 1969-1986
 
-버즈비의 시대는 뒤로하고, 새로운 감독 [윌프 맥기니스](https://ko.wikipedia.org/wiki/윌프_맥기니스 "wikilink") 체제에서 1969-70 시즌에 실망스럽게 8위에 머물렀고 1970-71 시즌에는 실망스러운 시즌 초반 성적으로 결국 리저브팀으로 다시 돌아가야 했다. 사임했던 버즈비가 6개월간 팀을 잠깐 맡았는데 결국 1971년 여름에 그는 감독직에서 물러났다. [셀틱을](https://ko.wikipedia.org/wiki/셀틱_FC "wikilink") 유러피언 컵 정상에 올려놓은 [존 스타인](https://ko.wikipedia.org/wiki/존_스타인 "wikilink")(Jock Stein)이 새로운 감독으로 취임할 뻔했으나 계약 성사 직전에 그의 포기 의사로 결국 프랭크 오패럴(Frank O'Farrell)이 감독직에 올랐다. 하지만 18개월도 채우지 못하고 [1972년](../Page/1972년.md "wikilink")에 [토미 도허티](../Page/토미_도허티.md "wikilink")(Tommy Docherty)가 그의 뒤를 이었다. 도허티는 팀을 강등 위기에서 구했으나, [1974년](../Page/1974년.md "wikilink")에 맨체스터 유나이티드는 결국 강등되었다. 이 무렵에 골든 트리오라고 불렸던 [조지 베스트와](../Page/조지_베스트.md "wikilink") [데니스 로](../Page/데니스_로.md "wikilink"), [보비 찰턴이](../Page/보비_찰턴.md "wikilink") 팀을 떠났다.)
+버즈비의 시대는 뒤로하고, 새로운 감독 [윌프 맥기니스](https://ko.wikipedia.org/wiki/윌프_맥기니스 "wikilink") 체제에서 1969-70 시즌에 실망스럽게 8위에 머물렀고 1970-71 시즌에는 실망스러운 시즌 초반 성적으로 결국 리저브팀으로 다시 돌아가야 했다. 사임했던 버즈비가 6개월간 팀을 잠깐 맡았는데 결국 1971년 여름에 그는 감독직에서 물러났다. [셀틱을](../Page/셀틱_FC.md "wikilink") 유러피언 컵 정상에 올려놓은 [존 스타인](https://ko.wikipedia.org/wiki/존_스타인 "wikilink")(Jock Stein)이 새로운 감독으로 취임할 뻔했으나 계약 성사 직전에 그의 포기 의사로 결국 프랭크 오패럴(Frank O'Farrell)이 감독직에 올랐다. 하지만 18개월도 채우지 못하고 [1972년](../Page/1972년.md "wikilink")에 [토미 도허티](../Page/토미_도허티.md "wikilink")(Tommy Docherty)가 그의 뒤를 이었다. 도허티는 팀을 강등 위기에서 구했으나, [1974년](../Page/1974년.md "wikilink")에 맨체스터 유나이티드는 결국 강등되었다. 이 무렵에 골든 트리오라고 불렸던 [조지 베스트와](../Page/조지_베스트.md "wikilink") [데니스 로](../Page/데니스_로.md "wikilink"), [보비 찰턴이](../Page/보비_찰턴.md "wikilink") 팀을 떠났다.)
 
-강등 직후 다음 시즌에 곧장 1부 리그로 복귀하였으며, [스티브 코펠](https://ko.wikipedia.org/wiki/스티브_코펠 "wikilink")(Steve Coppell)이 이 시즌 막바지에 데뷔하였고 FA컵 준우승을 차지했다. 1977년에는 [리버풀을](https://ko.wikipedia.org/wiki/리버풀_FC "wikilink") 2:1로 꺾고 FA컵을 들어 올렸다. 도허티의 이와 같은 성공과 대중적 인기에도 불구하고 불륜 사건에 휘말려 해임되었다. [데이브 섹튼](https://ko.wikipedia.org/wiki/데이브_섹튼 "wikilink")(Dave Sexton)이 [1977년](../Page/1977년.md "wikilink") 여름에 그의 자리를 이었고 수비적인 전술을 구사하였다. 이 때문에 그는 버즈비와 도허티의 공격 전술을 선호했던 서포터들로부터 인기를 잃었고 우승에는 못 미치는 성적으로, 해임 직전의 7연승에도 불구하고 [1981년](../Page/1981년.md "wikilink")에 감독직에서 물러나야 했고 [론 앳킨슨](../Page/론_앳킨슨.md "wikilink")(Ron Atkinson)이 감독 자리에 올랐고 [웨스트 브롬에서](https://ko.wikipedia.org/wiki/웨스트_브로미치_알비온_FC "wikilink") [브라이언 롭슨](../Page/브라이언_롭슨.md "wikilink")(Bryan Robson)을 당시 잉글랜드 이적료 기록을 깨면서까지 맨체스터 유나이티드로 데리고 왔다. 이후 맨체스터 유나이티드는 [1983년](../Page/1983년.md "wikilink"), [1985년](../Page/1985년.md "wikilink") FA컵을 차지하였다. 그러나 1985-86 시즌 리그 초반 10연승에도 불구하고 우승을 [리버풀에](https://ko.wikipedia.org/wiki/리버풀_FC "wikilink") 내주고 말았고 다음 시즌에는 실망스러운 성적으로 강등의 위기에 처하기도 했었다. 결국 앳킨스는 성적 부진의 책임으로 해임되었다.)
+강등 직후 다음 시즌에 곧장 1부 리그로 복귀하였으며, [스티브 코펠](https://ko.wikipedia.org/wiki/스티브_코펠 "wikilink")(Steve Coppell)이 이 시즌 막바지에 데뷔하였고 FA컵 준우승을 차지했다. 1977년에는 [리버풀을](../Page/리버풀_FC.md "wikilink") 2:1로 꺾고 FA컵을 들어 올렸다. 도허티의 이와 같은 성공과 대중적 인기에도 불구하고 불륜 사건에 휘말려 해임되었다. [데이브 섹튼](https://ko.wikipedia.org/wiki/데이브_섹튼 "wikilink")(Dave Sexton)이 [1977년](../Page/1977년.md "wikilink") 여름에 그의 자리를 이었고 수비적인 전술을 구사하였다. 이 때문에 그는 버즈비와 도허티의 공격 전술을 선호했던 서포터들로부터 인기를 잃었고 우승에는 못 미치는 성적으로, 해임 직전의 7연승에도 불구하고 [1981년](../Page/1981년.md "wikilink")에 감독직에서 물러나야 했고 [론 앳킨슨](../Page/론_앳킨슨.md "wikilink")(Ron Atkinson)이 감독 자리에 올랐고 [웨스트 브롬에서](https://ko.wikipedia.org/wiki/웨스트_브로미치_알비온_FC "wikilink") [브라이언 롭슨](../Page/브라이언_롭슨.md "wikilink")(Bryan Robson)을 당시 잉글랜드 이적료 기록을 깨면서까지 맨체스터 유나이티드로 데리고 왔다. 이후 맨체스터 유나이티드는 [1983년](../Page/1983년.md "wikilink"), [1985년](../Page/1985년.md "wikilink") FA컵을 차지하였다. 그러나 1985-86 시즌 리그 초반 10연승에도 불구하고 우승을 [리버풀에](../Page/리버풀_FC.md "wikilink") 내주고 말았고 다음 시즌에는 실망스러운 성적으로 강등의 위기에 처하기도 했었다. 결국 앳킨스는 성적 부진의 책임으로 해임되었다.)
 
 ### 1986-2013 (알렉스 퍼거슨 시대)
 
 ### 2013-현재
 
-[알렉스 퍼거슨이](https://ko.wikipedia.org/wiki/알렉스_퍼거슨 "wikilink") 2012-13 시즌을 끝으로 감독직에서 물러난 뒤, 맨체스터 유나이티드는 다음날 퍼거슨 감독의 뒤를 이어 11년 간 에버튼을 이끈 [데이비드 모이스](../Page/데이비드_모이스.md "wikilink") 감독과 6년 계약을 맺었으며 7월 1일부터 퍼거슨 경을 대신해 감독직을 수행하게 된다고 발표했다. 그러나, 모예스 부임 이후 프리미어리그 타이틀 방어에 실패하고 챔피언스리그 진출권이 주어지는 4위안에 들지 못하며 1995-96년 이후 처음으로 유럽축구연맹(UEFA) 챔피언스리그 본선 진출 자격을 얻지 못하는 부진한 모습을 보이자 2014년 4월 22일, 결국 모예스가 전격 경질되었으며 모예스의 뒤를 이어 팀의 레전드 [라이언 긱스가](https://ko.wikipedia.org/wiki/라이언_긱스 "wikilink") 임시 감독으로 부임했으며 선수생활도 같이 병행하게 되었다. 그러나 맨유는 리그를 7위로 마감하며 유로파 리그에 진출하는데에도 실패하게 되었는데, 이는 1990년 이후 맨체스터 유나이티드가 처음으로 유럽 대회에 출전하지 못한 것이였다. 2014년 5월 19일, 경질된 데이비드 모예스와 임시 감독인 라이언 긱스의 뒤를 이어 네덜란드 대표팀 감독 출신의 [루이 판 할이](../Page/루이_판_할.md "wikilink") 3년 계약을 맺고 맨체스터 유나이티드 감독으로 선임되었으며, 임시 감독이였던 라이언 긱스를 팀의 수석코치로 임명하였다.
+[알렉스 퍼거슨이](../Page/알렉스_퍼거슨.md "wikilink") 2012-13 시즌을 끝으로 감독직에서 물러난 뒤, 맨체스터 유나이티드는 다음날 퍼거슨 감독의 뒤를 이어 11년 간 에버튼을 이끈 [데이비드 모이스](../Page/데이비드_모이스.md "wikilink") 감독과 6년 계약을 맺었으며 7월 1일부터 퍼거슨 경을 대신해 감독직을 수행하게 된다고 발표했다. 그러나, 모예스 부임 이후 프리미어리그 타이틀 방어에 실패하고 챔피언스리그 진출권이 주어지는 4위안에 들지 못하며 1995-96년 이후 처음으로 유럽축구연맹(UEFA) 챔피언스리그 본선 진출 자격을 얻지 못하는 부진한 모습을 보이자 2014년 4월 22일, 결국 모예스가 전격 경질되었으며 모예스의 뒤를 이어 팀의 레전드 [라이언 긱스가](../Page/라이언_긱스.md "wikilink") 임시 감독으로 부임했으며 선수생활도 같이 병행하게 되었다. 그러나 맨유는 리그를 7위로 마감하며 유로파 리그에 진출하는데에도 실패하게 되었는데, 이는 1990년 이후 맨체스터 유나이티드가 처음으로 유럽 대회에 출전하지 못한 것이였다. 2014년 5월 19일, 경질된 데이비드 모예스와 임시 감독인 라이언 긱스의 뒤를 이어 네덜란드 대표팀 감독 출신의 [루이 판 할이](../Page/루이_판_할.md "wikilink") 3년 계약을 맺고 맨체스터 유나이티드 감독으로 선임되었으며, 임시 감독이였던 라이언 긱스를 팀의 수석코치로 임명하였다.
 
 판 할의 부임 첫 시즌을 앞두고 맨유는 [안데르 에레라](../Page/안데르_에레라.md "wikilink"), [루크 쇼](../Page/루크_쇼.md "wikilink"), [디 마리아](https://ko.wikipedia.org/wiki/디_마리아 "wikilink"), [라다멜 팔카오](../Page/라다멜_팔카오.md "wikilink") 등 대규모의 선수들을 영입하며 시즌을 준비하였고, 결국 프리미어리그에서 4위를 기록하면서 1시즌 만에 챔피언스리그에 다시 복귀하게 된다, 그러나 반 할의 두 번째 시즌, 멤피스 데파이, 슈나이덜린, 슈바인슈타이거 등 지난 시즌과 마찬가지로 상당한 금액으로 많은 선수들을 영입했음에도 불구하고 부진한 경기력을 보이면서 5위로 시즌을 마치며 3시즌 연속 우승 경쟁에서 밀렸으며 1시즌 만에 복귀한 챔피언스리그에서도 조별리그에서 탈락하게 된다. 하지만 FA컵에서 [크리스털 팰리스를](https://ko.wikipedia.org/wiki/크리스털_팰리스 "wikilink") 꺾고 12년 만에 [FA컵](https://ko.wikipedia.org/wiki/FA컵_\(잉글랜드\) "wikilink") 우승 트로피를 차지하며, 알렉스 퍼거슨 경의 은퇴 이후 팀의 첫 우승 트로피를 들어올렸다. 퍼거슨 경 은퇴 이후 처음으로 우승을 차지함에도 불구하고 결국 판 할은 맨유 감독직에서 해임되었으며 2016년 5월 27일. 첼시, 인테르, 레알 마드리드 등에서 수많은 우승 트로피를 들어올린 [조세 무리뉴가](https://ko.wikipedia.org/wiki/조세_무리뉴 "wikilink") 구단과 3년 계약을 맺으면서 감독을 맡아 맨체스터 유나이티드를 지휘하였다.
 
 무리뉴가 맨유 감독으로 부임한 첫 해 리그에선 6위를 기록하였지만 [FA 커뮤니티 실드](../Page/FA_커뮤니티_실드.md "wikilink"), [유로파리그](https://ko.wikipedia.org/wiki/유로파리그 "wikilink"), [EFL컵](../Page/EFL컵.md "wikilink") 우승을 이뤄냈으며, 유로파리그 우승을 차지함으로써 챔피언스리그 본선에도 진출하게 된다. 이 시즌 [웨인 루니는](../Page/웨인_루니.md "wikilink") 맨유에서 통산 250호 골을 터뜨려 [바비 찰턴경을](https://ko.wikipedia.org/wiki/바비_찰턴 "wikilink") 제치고 맨유의 역대 득점 1위에 올랐으며 시즌이 끝난 뒤 팀을 떠나 친정팀인 [에버튼](https://ko.wikipedia.org/wiki/에버튼 "wikilink")으로 복귀하였다. 2017-18 시즌을 앞두고 맨유는 [로멜루 루카쿠](https://ko.wikipedia.org/wiki/로멜루_루카쿠 "wikilink"), [네마냐 마티치](../Page/네마냐_마티치.md "wikilink"), [빅토르 린델로프](https://ko.wikipedia.org/wiki/빅토르_린델로프 "wikilink") 등을 영입하며 전력을 보강하였고 부임하는 팀마다 2년차에 반드시 우승을 차지하는 무리뉴 감독의 징크스 덕분에 많은 기대를 않고 시즌에 들어갔다. 하지만 막강한 자금력과 [펩 과르디올라](https://ko.wikipedia.org/wiki/펩_과르디올라 "wikilink") 감독의 지도력을 앞세운 지역 라이벌 [맨체스터 시티의](https://ko.wikipedia.org/wiki/맨체스터_시티 "wikilink") 압도적인 경기력으로 인해 리그 2위를 기록하였고, 챔피언스리그에서도 세비야에게 16강에서 탈락하면서 모리뉴 감독 데뷔 이후 2년차 시즌 중 가장 아쉬운 성적을 남기게 된다.
 
-그리고, 18-19 시즌, 선수 영입과정에서 발생한 무리뉴와 구단 보드진과의 갈등으로 인해 시즌 시작 전부터 잡음이 일기 시작하더니 시즌 개막 후 2018년 8월 28일(한국시간 새벽)에 있었던 토트넘과의 리그 3라운드 홈 경기에서 0-3 대패를 당해 홈 경기 역사상 굴욕적인 3골 차 패배를 당해 불안한 출발을 보였지만, 이후, 리그와 챔피언스리그를 포함하여 3연승을 내달렸다. 그리고, 2018년 9월 22일(한국시간 밤 11시)에 있었던 울버햄튼과의 홈 경기에서 [프레드가](../Page/프레데리쿠_호드리게스_산투스.md "wikilink") 맨유 소속 데뷔골을 기록하며 클럽 통산 500번째 득점자로 이름을 남겼지만 1-1 아쉬운 무승부를 기하였다. 하지만, 2018년 9월 26일(한국시각 새벽)에 있었던 [카라바오 컵](https://ko.wikipedia.org/wiki/카라바오_컵 "wikilink") 경기에서 과거 무리뉴 제자였던 [프랭크 램파드가](https://ko.wikipedia.org/wiki/프랭크_램파드 "wikilink") 감독으로 이끄는 [더비 카운티에게](https://ko.wikipedia.org/wiki/더비_카운티 "wikilink") 승부차기에서 7-8로 패하여 자존심을 구겼다. 그 후로 무리뉴와 선수들의 불화설, 내부분열 등 잡음으로 끊이지 않았던 맨유는 챔피언스리그를 포함한 4경기 동안 승리를 거두지 못하다가, 2018년 10월 7일 새벽 1시 30분(한국 시간) 영국 맨체스터 올드 트래포드에서 열린 뉴캐슬과의 리그 홈 경기에서 3-2 극적인 역전승을 거두었다. 이 날 무리뉴는 커리어 통산 400승 고지에 올랐다. 그 이후, 불화설과 내부 분열 등 잡음을 수습한 맨유는 최근 들어 역전승을 많이 거두어 리그와 챔피언스리그에서 무패를 달렸으며, 챔피언스리그에선 H조 2위로 16강 진출에 성공하였다. 하지만 그 후에도 불화설과 성적 부진을 거듭하였고 결국 12월 17일에 열린 선두 [리버풀과의](https://ko.wikipedia.org/wiki/리버풀_FC "wikilink") 더비 매치 원정경기에서 경기 내용까지 밀리며 3:1로 패하면서 리그 선두 [리버풀에](https://ko.wikipedia.org/wiki/리버풀_FC "wikilink") 19점 차로 밀리게 되자, 구단 수뇌부들은 2018년 12월 18일(한국시간)에 무리뉴를 경질함으로써 무리뉴 시대는 막을 내렸다.
+그리고, 18-19 시즌, 선수 영입과정에서 발생한 무리뉴와 구단 보드진과의 갈등으로 인해 시즌 시작 전부터 잡음이 일기 시작하더니 시즌 개막 후 2018년 8월 28일(한국시간 새벽)에 있었던 토트넘과의 리그 3라운드 홈 경기에서 0-3 대패를 당해 홈 경기 역사상 굴욕적인 3골 차 패배를 당해 불안한 출발을 보였지만, 이후, 리그와 챔피언스리그를 포함하여 3연승을 내달렸다. 그리고, 2018년 9월 22일(한국시간 밤 11시)에 있었던 울버햄튼과의 홈 경기에서 [프레드가](../Page/프레데리쿠_호드리게스_산투스.md "wikilink") 맨유 소속 데뷔골을 기록하며 클럽 통산 500번째 득점자로 이름을 남겼지만 1-1 아쉬운 무승부를 기하였다. 하지만, 2018년 9월 26일(한국시각 새벽)에 있었던 [카라바오 컵](https://ko.wikipedia.org/wiki/카라바오_컵 "wikilink") 경기에서 과거 무리뉴 제자였던 [프랭크 램파드가](https://ko.wikipedia.org/wiki/프랭크_램파드 "wikilink") 감독으로 이끄는 [더비 카운티에게](https://ko.wikipedia.org/wiki/더비_카운티 "wikilink") 승부차기에서 7-8로 패하여 자존심을 구겼다. 그 후로 무리뉴와 선수들의 불화설, 내부분열 등 잡음으로 끊이지 않았던 맨유는 챔피언스리그를 포함한 4경기 동안 승리를 거두지 못하다가, 2018년 10월 7일 새벽 1시 30분(한국 시간) 영국 맨체스터 올드 트래포드에서 열린 뉴캐슬과의 리그 홈 경기에서 3-2 극적인 역전승을 거두었다. 이 날 무리뉴는 커리어 통산 400승 고지에 올랐다. 그 이후, 불화설과 내부 분열 등 잡음을 수습한 맨유는 최근 들어 역전승을 많이 거두어 리그와 챔피언스리그에서 무패를 달렸으며, 챔피언스리그에선 H조 2위로 16강 진출에 성공하였다. 하지만 그 후에도 불화설과 성적 부진을 거듭하였고 결국 12월 17일에 열린 선두 [리버풀과의](../Page/리버풀_FC.md "wikilink") 더비 매치 원정경기에서 경기 내용까지 밀리며 3:1로 패하면서 리그 선두 [리버풀에](../Page/리버풀_FC.md "wikilink") 19점 차로 밀리게 되자, 구단 수뇌부들은 2018년 12월 18일(한국시간)에 무리뉴를 경질함으로써 무리뉴 시대는 막을 내렸다.
 
 그 후, 새로운 정식 감독을 찾을 때까지 맨유의 레전드 공격수이자 노르웨이의 [몰데 FK의](../Page/몰데_FK.md "wikilink") 감독인 [솔셰르가](../Page/올레_군나르_솔셰르.md "wikilink") 임시 감독을 맡아 남은 시즌을 치르기로 하였지만, 솔샤르가 부임한 이래 17경기 동안 14승 2무 1패를 기록하는 호성적에다 2019년 3월 7일(한국시간 새벽)에 있었던 [파리 생제르맹과의](https://ko.wikipedia.org/wiki/파리_생제르맹 "wikilink") 2차전 경기에서 3-1 승리를 거둬 원정 다득점 원칙으로 5시즌 만에 8강에 오르는 파리의 기적을 선보여 2019년 3월 28일(한국시간)에 맨유의 정식 감독으로 승격하였다.
 
@@ -214,7 +214,7 @@
   - 팀 닥터 :  토니 길
   - 영양사 :  마이크 도넬리
   - U-23 감독 :  닐 우드
-  - U-23 수석코치 :  [퀸턴 포춘](https://ko.wikipedia.org/wiki/퀸턴_포춘 "wikilink")
+  - U-23 수석코치 :  [퀸턴 포춘](../Page/퀸턴_포춘.md "wikilink")
   - 아카데미 코치 :  [니키 버트](../Page/니키_버트.md "wikilink")
   - 스카우터:  게라도 구즈만\[13\]
   - 1군 선수 육성 담당 :  존 머르터프
@@ -272,7 +272,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/라이언_긱스" title="wikilink">라이언 긱스</a></p></td>
+<td><p><a href="../Page/라이언_긱스.md" title="wikilink">라이언 긱스</a></p></td>
 <td><p>1990 – 2014</p></td>
 <td><p>963</p></td>
 <td><p>168</p></td>
@@ -415,7 +415,7 @@
 </tr>
 <tr class="even">
 <td><p>7</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/라이언_긱스" title="wikilink">라이언 긱스</a></p></td>
+<td><p><a href="../Page/라이언_긱스.md" title="wikilink">라이언 긱스</a></p></td>
 <td><p>1991 – 2014</p></td>
 <td><p>963</p></td>
 <td><p>168</p></td>
@@ -440,7 +440,7 @@
 </tr>
 <tr class="odd">
 <td><p>11</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뤼트_판_니스텔로이" title="wikilink">뤼트 판 니스텔로이</a></p></td>
+<td><p><a href="../Page/뤼트_판_니스텔로이.md" title="wikilink">뤼트 판 니스텔로이</a></p></td>
 <td><p>2001 – 2006</p></td>
 <td><p>219</p></td>
 <td><p>150</p></td>
@@ -572,12 +572,12 @@
 </tr>
 <tr class="odd">
 <td><p>1996–1997</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/에리크_캉토나" title="wikilink">에리크 캉토나</a></p></td>
+<td><p><a href="../Page/에리크_캉토나.md" title="wikilink">에리크 캉토나</a></p></td>
 <td><p>영국 및 아일랜드 출신이 아닌 첫 주장</p></td>
 </tr>
 <tr class="even">
 <td><p>1997–2005</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/로이_킨" title="wikilink">로이 킨</a></p></td>
+<td><p><a href="../Page/로이_킨.md" title="wikilink">로이 킨</a></p></td>
 <td><p>주장직을 맡는 동안 역대 최대의 트로피를 획득</p></td>
 </tr>
 <tr class="odd">
@@ -639,7 +639,7 @@
 <td><p>1987-88</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/브라이언_맥클레어" title="wikilink">브라이언 맥클레어</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/공격수" title="wikilink">FW</a></p></td>
+<td><p><a href="../Page/공격수.md" title="wikilink">FW</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1988-89</p></td>
@@ -657,13 +657,13 @@
 <td><p>1990-91</p></td>
 <td><p><a href="../Page/마크_휴스.md" title="wikilink">마크 휴스</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/공격수" title="wikilink">FW</a></p></td>
+<td><p><a href="../Page/공격수.md" title="wikilink">FW</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1991-92</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/브라이언_맥클레어" title="wikilink">브라이언 맥클레어</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/공격수" title="wikilink">FW</a></p></td>
+<td><p><a href="../Page/공격수.md" title="wikilink">FW</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1992-93</p></td>
@@ -673,9 +673,9 @@
 </tr>
 <tr class="odd">
 <td><p>1993-94</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/에리크_캉토나" title="wikilink">에리크 캉토나</a></p></td>
+<td><p><a href="../Page/에리크_캉토나.md" title="wikilink">에리크 캉토나</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/공격수" title="wikilink">FW</a></p></td>
+<td><p><a href="../Page/공격수.md" title="wikilink">FW</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1994-95</p></td>
@@ -685,9 +685,9 @@
 </tr>
 <tr class="odd">
 <td><p>1995-96</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/에리크_캉토나" title="wikilink">에리크 캉토나</a></p></td>
+<td><p><a href="../Page/에리크_캉토나.md" title="wikilink">에리크 캉토나</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/공격수" title="wikilink">FW</a></p></td>
+<td><p><a href="../Page/공격수.md" title="wikilink">FW</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1996-97</p></td>
@@ -697,19 +697,19 @@
 </tr>
 <tr class="odd">
 <td><p>1997-98</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/라이언_긱스" title="wikilink">라이언 긱스</a></p></td>
+<td><p><a href="../Page/라이언_긱스.md" title="wikilink">라이언 긱스</a></p></td>
 <td></td>
 <td><p><a href="../Page/미드필더.md" title="wikilink">MF</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1998-99</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/로이_킨" title="wikilink">로이 킨</a></p></td>
+<td><p><a href="../Page/로이_킨.md" title="wikilink">로이 킨</a></p></td>
 <td></td>
 <td><p><a href="../Page/미드필더.md" title="wikilink">MF</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1999-2000</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/로이_킨" title="wikilink">로이 킨</a></p></td>
+<td><p><a href="../Page/로이_킨.md" title="wikilink">로이 킨</a></p></td>
 <td></td>
 <td><p><a href="../Page/미드필더.md" title="wikilink">MF</a></p></td>
 </tr>
@@ -717,19 +717,19 @@
 <td><p>2000-01</p></td>
 <td><p><a href="../Page/테디_셰링엄.md" title="wikilink">테디 셰링엄</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/공격수" title="wikilink">FW</a></p></td>
+<td><p><a href="../Page/공격수.md" title="wikilink">FW</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2001-02</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뤼트_판_니스텔로이" title="wikilink">뤼트 판 니스텔로이</a></p></td>
+<td><p><a href="../Page/뤼트_판_니스텔로이.md" title="wikilink">뤼트 판 니스텔로이</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/공격수" title="wikilink">FW</a></p></td>
+<td><p><a href="../Page/공격수.md" title="wikilink">FW</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2002-03</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뤼트_판_니스텔로이" title="wikilink">뤼트 판 니스텔로이</a></p></td>
+<td><p><a href="../Page/뤼트_판_니스텔로이.md" title="wikilink">뤼트 판 니스텔로이</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/공격수" title="wikilink">FW</a></p></td>
+<td><p><a href="../Page/공격수.md" title="wikilink">FW</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2003-04</p></td>
@@ -747,7 +747,7 @@
 <td><p>2005-06</p></td>
 <td><p><a href="../Page/웨인_루니.md" title="wikilink">웨인 루니</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/공격수" title="wikilink">FW</a></p></td>
+<td><p><a href="../Page/공격수.md" title="wikilink">FW</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2006-07</p></td>
@@ -771,13 +771,13 @@
 <td><p>2009-10</p></td>
 <td><p><a href="../Page/웨인_루니.md" title="wikilink">웨인 루니</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/공격수" title="wikilink">FW</a></p></td>
+<td><p><a href="../Page/공격수.md" title="wikilink">FW</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2010-11</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/치차리토" title="wikilink">치차리토</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/공격수" title="wikilink">FW</a></p></td>
+<td><p><a href="../Page/공격수.md" title="wikilink">FW</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2011-12</p></td>
@@ -789,25 +789,25 @@
 <td><p>2012-13</p></td>
 <td><p><a href="../Page/로빈_판_페르시.md" title="wikilink">로빈 판 페르시</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/공격수" title="wikilink">FW</a></p></td>
+<td><p><a href="../Page/공격수.md" title="wikilink">FW</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2013-14</p></td>
 <td><p><a href="../Page/다비드_데_헤아.md" title="wikilink">다비드 데 헤아</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/골키퍼" title="wikilink">GK</a></p></td>
+<td><p><a href="../Page/골키퍼.md" title="wikilink">GK</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2014-15</p></td>
 <td><p><a href="../Page/다비드_데_헤아.md" title="wikilink">다비드 데 헤아</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/골키퍼" title="wikilink">GK</a></p></td>
+<td><p><a href="../Page/골키퍼.md" title="wikilink">GK</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2015-16</p></td>
 <td><p><a href="../Page/다비드_데_헤아.md" title="wikilink">다비드 데 헤아</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/골키퍼" title="wikilink">GK</a></p></td>
+<td><p><a href="../Page/골키퍼.md" title="wikilink">GK</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2016-17</p></td>
@@ -819,7 +819,7 @@
 <td><p>2017-18</p></td>
 <td><p><a href="../Page/다비드_데_헤아.md" title="wikilink">다비드 데 헤아</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/골키퍼" title="wikilink">GK</a></p></td>
+<td><p><a href="../Page/골키퍼.md" title="wikilink">GK</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2018-19</p></td>
@@ -842,11 +842,11 @@
 
 클럽 초창기 뉴턴 히스 시절에는 노스 로드 부근에 지금과는 다른 작고 초라한 경기장을 가지고 있었다. 경기장 컨디션이 좋지 않아 다른 팀으로부터 수렁이나 채석장 같은 경기장이라는 혹평을 받기도 했었다. 뉴턴 히스는 1878년에서 1893년까지 노스 로드에서 15년을 보냈으며, 리그 진입 후 클레이턴(Clayton) 근처의 뱅크 스트리트 부근으로 경기장을 옮겼다. 하지만 그곳에서도 경기장 상태는 그렇게 좋은 편은 아니었고, 억센 잔디 상태와 모래, 주변 공장으로부터 나오는 연기는 선수들에게 환영받지 못했다. 실제로 “Walsall Town Swifts”라는 팀은 경기장 상태의 문제를 제기하며 한때 경기를 거부한 사례도 있었다. [1902년](../Page/1902년.md "wikilink")에는 구단의 파산 위기로 경기장이 있는 토지가 강제 집행될 뻔했지만 해리 스탠퍼드의 지원으로 그러한 사태는 막았다.)
 
-뉴턴 히스는 맨체스터 유나이티드로 개명하고 새로운 경기장 건설을 위해 6만 파운드 상당의 토지를 구입하였다. 이 무렵에 맨체스터 유나이티드는 그들의 홈구장을 올드 트래퍼드(Old Trafford)라고 이름을 붙였다. 영국 축구장의 아버지라고 불리는 건축가 [아치볼드 레이치는](https://ko.wikipedia.org/wiki/아치볼드_레이치 "wikilink") 3만 달러의 예산을 받고 맨체스터 유나이티드의 새로운 홈구장을 만드는 임무를 맡았다.\[15\] 초기 계획은 10만 명을 수용할 수 있는 경기장을 구상하였지만 77,000명의 구조로 약간 축소됐다. 개막 경기는 [리버풀 FC과](https://ko.wikipedia.org/wiki/리버풀_FC "wikilink") 1910년 2월 19일 경기에서 열렸다. 1911년과 1915년에 FA컵 결승전이 열렸고, 1920년에는 [애스턴 빌라와의](../Page/애스턴_빌라_FC.md "wikilink") 리그 경기에서 당시 70,504명의 최대 관중을 수용했다. 이후 1939년 FA컵에서 포츠머스와 그림스비 팀과의 준결승에서는 76,962명이 들어와 최고 기록을 다시 한번 갱신했다. [1941년](../Page/1941년.md "wikilink") [3월 11일](../Page/3월_11일.md "wikilink") [2차 세계대전의](https://ko.wikipedia.org/wiki/2차_세계대전 "wikilink") 풍파 속에 올드 트래퍼드는 [나치 독일의](https://ko.wikipedia.org/wiki/나치_독일 "wikilink") 폭격을 맞아 많은 부분이 파괴되고 만다. [1949년](../Page/1949년.md "wikilink") 재건설에 들어갔으며 맨체스터 시티의 경기장을 1년당 5천 파운드와 관객 입장료 중 일부 금원을 지불하며 사용하였다. 맨체스터 유나이티드는 전쟁 피해 위원회(War Damage Commission)에 진정하여 22,278파운드의 재건설 비용을 얻어내기도 했다.)
+뉴턴 히스는 맨체스터 유나이티드로 개명하고 새로운 경기장 건설을 위해 6만 파운드 상당의 토지를 구입하였다. 이 무렵에 맨체스터 유나이티드는 그들의 홈구장을 올드 트래퍼드(Old Trafford)라고 이름을 붙였다. 영국 축구장의 아버지라고 불리는 건축가 [아치볼드 레이치는](https://ko.wikipedia.org/wiki/아치볼드_레이치 "wikilink") 3만 달러의 예산을 받고 맨체스터 유나이티드의 새로운 홈구장을 만드는 임무를 맡았다.\[15\] 초기 계획은 10만 명을 수용할 수 있는 경기장을 구상하였지만 77,000명의 구조로 약간 축소됐다. 개막 경기는 [리버풀 FC과](../Page/리버풀_FC.md "wikilink") 1910년 2월 19일 경기에서 열렸다. 1911년과 1915년에 FA컵 결승전이 열렸고, 1920년에는 [애스턴 빌라와의](../Page/애스턴_빌라_FC.md "wikilink") 리그 경기에서 당시 70,504명의 최대 관중을 수용했다. 이후 1939년 FA컵에서 포츠머스와 그림스비 팀과의 준결승에서는 76,962명이 들어와 최고 기록을 다시 한번 갱신했다. [1941년](../Page/1941년.md "wikilink") [3월 11일](../Page/3월_11일.md "wikilink") [2차 세계대전의](https://ko.wikipedia.org/wiki/2차_세계대전 "wikilink") 풍파 속에 올드 트래퍼드는 [나치 독일의](../Page/나치_독일.md "wikilink") 폭격을 맞아 많은 부분이 파괴되고 만다. [1949년](../Page/1949년.md "wikilink") 재건설에 들어갔으며 맨체스터 시티의 경기장을 1년당 5천 파운드와 관객 입장료 중 일부 금원을 지불하며 사용하였다. 맨체스터 유나이티드는 전쟁 피해 위원회(War Damage Commission)에 진정하여 22,278파운드의 재건설 비용을 얻어내기도 했다.)
 
 재건설 과정에서 지붕이 없던 나머지 세 면에도 지붕이 생겼는데, 당시에 유행이었던 지붕 디자인은 관중석에서 경기를 보는 시야를 가렸다. 1950년대 중반에는 투광 조명등이 최초로 설치되었고 180피트의 철탑이 4개, 투광 조명등이 54개 설치되었다. 설치 과정에서 4만 파운드를 소요했으며 1957년 3월 25일에 새로운 조명에서 첫 경기를 치렀다(그런데 1987년의 이런 조명 시스템은 해체되고 새로운 조명 시스템이 도입된다). 1960년대 중반 [월드컵을](https://ko.wikipedia.org/wiki/1966년_FIFA_월드컵 "wikilink") 대비해 현대적인 캔틸레버 스타일의 지붕이 북쪽과 동쪽 스탠드부터 개축되었다. 올드 트래퍼드에서 1966년의 월드컵이 열렸고, 1970년의 FA컵 결승전도 치렀다. 1970년대에는 올드 트래퍼드는 최초로 관중석과 그라운드에 경계망을 설치한 경기장으로 기록되었다.)
 
-1960년대에서 80년대 올드 트래퍼드는 58,000명을 수용할 수 있었다. 1989년 [리버풀 FC과](https://ko.wikipedia.org/wiki/리버풀_FC "wikilink") [노팅엄 포레스트와의](https://ko.wikipedia.org/wiki/노팅엄_포레스트 "wikilink") 경기 중 95명이 사망한 [힐즈브러 참사를](https://ko.wikipedia.org/wiki/힐즈브러_참사 "wikilink") 계기로 경기장에 좌석이 모두 설치되어야 한다는 주장이 테일러 리포트에서 제기되었다. 결국, 올드 트래퍼드는 44,000명이 입장할 수 있는 규모로 축소되었다.)
+1960년대에서 80년대 올드 트래퍼드는 58,000명을 수용할 수 있었다. 1989년 [리버풀 FC과](../Page/리버풀_FC.md "wikilink") [노팅엄 포레스트와의](https://ko.wikipedia.org/wiki/노팅엄_포레스트 "wikilink") 경기 중 95명이 사망한 [힐즈브러 참사를](https://ko.wikipedia.org/wiki/힐즈브러_참사 "wikilink") 계기로 경기장에 좌석이 모두 설치되어야 한다는 주장이 테일러 리포트에서 제기되었다. 결국, 올드 트래퍼드는 44,000명이 입장할 수 있는 규모로 축소되었다.)
 
 1995년에서 1996년 북쪽 스탠드의 확장 공사를 했고, 다시 56,000 명을 수용할 수 있게 되었다. 확장된 공간에 맨체스터 유나이티드의 박물관이 생겼고 이 무렵에 트로피 전시실과 레드 카페 레스토랑, 스카이박스 등이 만들어졌다. 이후에도 간헐적인 확장 공사가 있었고 최근에 있었던 2006년 확장 공사 이후 2008년 2월 기준으로 76,212명의 수용 규모를 갖추고 있다.) , 맨체스터 유나이티드는 알렉스 퍼거슨 경의 감독 25주년을 기념하여 북쪽 스탠드의 이름을 '유나이티드 로드 스탠드 (United Road Stand)'에서 '알렉스 퍼거슨 경 스탠드 Sir Alex Ferguson Stand)'로 바꿨다.\[16\]
 
@@ -856,19 +856,19 @@
 
 ### 유니폼 후원 계약
 
-1982년에서 2000년까지, [샤프전자와](https://ko.wikipedia.org/wiki/샤프_\(기업\) "wikilink") 50만 파운드의 유니폼 후원 계약을 맺었다. 2000-2001 시즌부터 [보다폰](../Page/보다폰.md "wikilink") 사와 4년간 3000만 파운드 의 유니폼 후원을 맺었고. 그 후, [보다폰](../Page/보다폰.md "wikilink")와 3600만 파운드의 금액으로 4년간 연장 하는 계약을 맺었으나, 2005-06 시즌을 마지막으로 이 계약은 구단이 보상금을 지급하고 중지되었다.\[19\] 2006년 4월 6일, 데이비드 길 단장은 [AIG](https://ko.wikipedia.org/wiki/AIG "wikilink") 사를 맨체스터 유나이티드의 새로운 유니폼 후원사가 되었음을 발표하였다. 계약 규모는 4년간 5650만 파운드였다. 연간 약 1410만 파운드의 규모로 2008년 기준으로 가장 큰 규모이다.\[20\]\[21\] 최근 경제 위기로 인해 어려움을 겪고 있는 [AIG](https://ko.wikipedia.org/wiki/AIG "wikilink")와의 계약은 2009-10 시즌까지이며 맨체스터 유나이티드는 [AIG](https://ko.wikipedia.org/wiki/AIG "wikilink")에 뒤를 이을 새로운 유니폼 후원사를 모색한 가운데 새 후원사로 미국의 보험중개업 전문회사인 [에이온](https://ko.wikipedia.org/wiki/에이온 "wikilink")([Aon](https://ko.wikipedia.org/wiki/에이온 "wikilink"))과 계약을 맺었다. 계약기간은 다음 2010-11 시즌부터 4년간 8000만 파운드를 받는 조건으로 계약을 맺었다.\[22\]
+1982년에서 2000년까지, [샤프전자와](../Page/샤프_\(기업\).md "wikilink") 50만 파운드의 유니폼 후원 계약을 맺었다. 2000-2001 시즌부터 [보다폰](../Page/보다폰.md "wikilink") 사와 4년간 3000만 파운드 의 유니폼 후원을 맺었고. 그 후, [보다폰](../Page/보다폰.md "wikilink")와 3600만 파운드의 금액으로 4년간 연장 하는 계약을 맺었으나, 2005-06 시즌을 마지막으로 이 계약은 구단이 보상금을 지급하고 중지되었다.\[19\] 2006년 4월 6일, 데이비드 길 단장은 [AIG](https://ko.wikipedia.org/wiki/AIG "wikilink") 사를 맨체스터 유나이티드의 새로운 유니폼 후원사가 되었음을 발표하였다. 계약 규모는 4년간 5650만 파운드였다. 연간 약 1410만 파운드의 규모로 2008년 기준으로 가장 큰 규모이다.\[20\]\[21\] 최근 경제 위기로 인해 어려움을 겪고 있는 [AIG](https://ko.wikipedia.org/wiki/AIG "wikilink")와의 계약은 2009-10 시즌까지이며 맨체스터 유나이티드는 [AIG](https://ko.wikipedia.org/wiki/AIG "wikilink")에 뒤를 이을 새로운 유니폼 후원사를 모색한 가운데 새 후원사로 미국의 보험중개업 전문회사인 [에이온](https://ko.wikipedia.org/wiki/에이온 "wikilink")([Aon](https://ko.wikipedia.org/wiki/에이온 "wikilink"))과 계약을 맺었다. 계약기간은 다음 2010-11 시즌부터 4년간 8000만 파운드를 받는 조건으로 계약을 맺었다.\[22\]
 
 2012년 8월에 맨체스터 유나이티드는 [쉐보레](../Page/쉐보레.md "wikilink")와 새롭게 계약을 체결했음을 발표했다. 계약 기간은 2014-2015시즌부터 2020-21 시즌 총 7년간 연간 8000만 파운드, 총 5억 5900만 파운드를 받는 조건으로 계약을 맺었다.\[23\]\[24\]
 
 ### 용품 후원 계약
 
-2014년 7월 15일, 맨체스터 유나이티드는 2015-2016시즌부터 10년간 독일 스포츠용품 제조업체 [아디다스](https://ko.wikipedia.org/wiki/아디다스 "wikilink")로부터 매년 7500만 파운드 규모의 후원을 받게된다. 총액은 7억 5000만 파운드에 달한다. 이 후원금액으로 프리미어리그 최대 후원 금액으로 1위를 차지했다.
+2014년 7월 15일, 맨체스터 유나이티드는 2015-2016시즌부터 10년간 독일 스포츠용품 제조업체 [아디다스](../Page/아디다스.md "wikilink")로부터 매년 7500만 파운드 규모의 후원을 받게된다. 총액은 7억 5000만 파운드에 달한다. 이 후원금액으로 프리미어리그 최대 후원 금액으로 1위를 차지했다.
 
 ### 그 외의 후원 계약
 
 ### 후원사 목록
 
-  - [아디다스](https://ko.wikipedia.org/wiki/아디다스 "wikilink") - 공식 용품 후원사
+  - [아디다스](../Page/아디다스.md "wikilink") - 공식 용품 후원사
   - [쉐보레](../Page/쉐보레.md "wikilink") - 공식 자동차 파트너, 주 스폰서
   - [부로바](../Page/부로바.md "wikilink") - 공식 타임 파트너
   - [싱하맥주](https://ko.wikipedia.org/wiki/싱하맥주 "wikilink") - 공식 맥주
@@ -904,7 +904,7 @@
 
   - [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink")
   - [맬컴 글레이저](../Page/맬컴_글레이저.md "wikilink")
-  - [알렉스 퍼거슨](https://ko.wikipedia.org/wiki/알렉스_퍼거슨 "wikilink")
+  - [알렉스 퍼거슨](../Page/알렉스_퍼거슨.md "wikilink")
   - [노스웨스트 더비](https://ko.wikipedia.org/wiki/노스웨스트_더비 "wikilink")
   - [맨체스터 더비](../Page/맨체스터_더비.md "wikilink")
 

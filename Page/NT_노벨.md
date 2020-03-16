@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NT ](https://ko.wikipedia.org/wiki/NT_).
 
 
-**NT 노벨**(NT Novel)은 [대원씨아이](https://ko.wikipedia.org/wiki/대원씨아이 "wikilink")의 [라이트 노벨](https://ko.wikipedia.org/wiki/라이트_노벨 "wikilink") 브랜드 중 하나로, [대원씨아이](https://ko.wikipedia.org/wiki/대원씨아이 "wikilink")가 [일본](../Page/일본.md "wikilink")의 출판사들([가도카와 쇼텐](../Page/가도카와_쇼텐.md "wikilink"), [미디어 웍스](https://ko.wikipedia.org/wiki/미디어_웍스 "wikilink"), [미디어 팩토리](https://ko.wikipedia.org/wiki/미디어_팩토리 "wikilink"), [엔터 브레인](https://ko.wikipedia.org/wiki/엔터_브레인 "wikilink"))로부터 정식 수입하여 발매하는 애니메이션 월간지 《[뉴타입](https://ko.wikipedia.org/wiki/월간_뉴타입 "wikilink")》(NewType)의 이름을 따왔다. 일괄 발매일은 매월 15일.
+**NT 노벨**(NT Novel)은 [대원씨아이](https://ko.wikipedia.org/wiki/대원씨아이 "wikilink")의 [라이트 노벨](../Page/라이트_노벨.md "wikilink") 브랜드 중 하나로, [대원씨아이](https://ko.wikipedia.org/wiki/대원씨아이 "wikilink")가 [일본](../Page/일본.md "wikilink")의 출판사들([가도카와 쇼텐](../Page/가도카와_쇼텐.md "wikilink"), [미디어 웍스](https://ko.wikipedia.org/wiki/미디어_웍스 "wikilink"), [미디어 팩토리](https://ko.wikipedia.org/wiki/미디어_팩토리 "wikilink"), [엔터 브레인](https://ko.wikipedia.org/wiki/엔터_브레인 "wikilink"))로부터 정식 수입하여 발매하는 애니메이션 월간지 《[뉴타입](../Page/월간_뉴타입.md "wikilink")》(NewType)의 이름을 따왔다. 일괄 발매일은 매월 15일.
 
 [1997년](../Page/1997년.md "wikilink") [대한민국](../Page/대한민국.md "wikilink")에서 [대원씨아이](https://ko.wikipedia.org/wiki/대원씨아이 "wikilink")에 의해서 판타지 노벨이라는 이름으로 창간되었다가 [2002년](../Page/2002년.md "wikilink")에 **NT 노벨**(NT Novel)로 개명되었다. 최초로 일본의 라이트 노벨들을 출판하였고, 당시 가격이 오르는 판타지 소설에 반해 저렴한 4500원으로 문고판 책을 내놓았다. 초기에는 주로 [전격 문고의](https://ko.wikipedia.org/wiki/전격_문고 "wikilink") 대표작들을 내놓았으며 이후 다양한 일본의 라이트 노벨 브랜드의 소설들을 내놓고 있으며 국내의 라이트 노벨 브랜드 중 가장 많은 소설을 내놓았다. 이와 같은 초기 독점 상황 때문에 현재 대한민국에서 라이트 노벨을 지칭할 때 'NT 노벨', 'NT 소설'등의 용어를 사용하기도 한다.
 
@@ -22,7 +22,7 @@ NT 노벨에서 번역·발행한 라이트 노벨의 목록은 자음 기준에
       - B.A.D.(Beyond Another Darkness)초콜릿 데이즈 (1\~2권)
   - [RAIL WARS\!](https://ko.wikipedia.org/wiki/RAIL_WARS! "wikilink") (1\~10권)
   - [Robotics;Notes](https://ko.wikipedia.org/wiki/Robotics;Notes "wikilink") (1권)
-  - [R.O.D(Read or Die)](https://ko.wikipedia.org/wiki/R.O.D_\(소설\) "wikilink") (1\~11권)
+  - [R.O.D(Read or Die)](../Page/R.O.D_\(소설\).md "wikilink") (1\~11권)
   - [T와 팬티와 좋은 이야기](https://ko.wikipedia.org/wiki/T와_팬티와_좋은_이야기 "wikilink") (1\~9권)
   - Pandora Hearts([판도라 하츠](https://ko.wikipedia.org/wiki/판도라_하츠 "wikilink")) \~ Caucus race \~ (1\~2권)
   - [VRMMO를 돈의 힘으로 무쌍하기](https://ko.wikipedia.org/wiki/VRMMO를_돈의_힘으로_무쌍하기 "wikilink") (1\~2권)
@@ -146,7 +146,7 @@ NT 노벨에서 번역·발행한 라이트 노벨의 목록은 자음 기준에
       - 사신의 발라드 언노운 스타즈 (1\~3권)
       - 사신의 발라드. 리버스.
   - [사신 쿄우](https://ko.wikipedia.org/wiki/사신_쿄우 "wikilink") (1\~6권)
-  - [사쿠라다 리셋](https://ko.wikipedia.org/wiki/사쿠라다_리셋 "wikilink") (1\~7권)
+  - [사쿠라다 리셋](../Page/사쿠라다_리셋.md "wikilink") (1\~7권)
   - [살육의 매트릭스 에지](https://ko.wikipedia.org/wiki/살육의_매트릭스_에지 "wikilink") (1권)
   - [새여동생 마왕의 계약자](https://ko.wikipedia.org/wiki/새여동생_마왕의_계약자 "wikilink") (1\~12권)
   - [새장관의 오늘도 졸린 주민들](https://ko.wikipedia.org/wiki/새장관의_오늘도_졸린_주민들 "wikilink") (1\~6권)
@@ -176,7 +176,7 @@ NT 노벨에서 번역·발행한 라이트 노벨의 목록은 자음 기준에
       - [성계의 전기](../Page/성계의_전기.md "wikilink") (1\~5권)
   - [소금의 거리](https://ko.wikipedia.org/wiki/소금의_거리 "wikilink")
   - [스시부](https://ko.wikipedia.org/wiki/스시부 "wikilink") (1\~2권)
-  - [스즈미야 하루히 시리즈](https://ko.wikipedia.org/wiki/스즈미야_하루히_시리즈 "wikilink") (1\~11권)
+  - [스즈미야 하루히 시리즈](../Page/스즈미야_하루히_시리즈.md "wikilink") (1\~11권)
       - 스즈미야 하루히의 관측 OFFICIAL FANBOOK
   - [스즈밍은 육식계 화룡](https://ko.wikipedia.org/wiki/스즈밍은_육식계_화룡 "wikilink") (1\~3권)
   - [스크랩드 프린세스](https://ko.wikipedia.org/wiki/스크랩드_프린세스 "wikilink") (1\~13권)
@@ -259,7 +259,7 @@ NT 노벨에서 번역·발행한 라이트 노벨의 목록은 자음 기준에
   - [저주](../Page/저주.md "wikilink") (1권)
   - [전설의 용자의 전설](../Page/전설의_용자의_전설.md "wikilink") (1\~2권)
   - [전쟁여신 이게결전](https://ko.wikipedia.org/wiki/전쟁여신_이게결전 "wikilink") (1권)
-  - [전투요정 유키카제](https://ko.wikipedia.org/wiki/전투요정_유키카제 "wikilink") (1\~3권)
+  - [전투요정 유키카제](../Page/전투요정_유키카제.md "wikilink") (1\~3권)
   - [절대복종 그녀](https://ko.wikipedia.org/wiki/절대복종_그녀 "wikilink") (1\~3권)
   - [정의의 사도의 편의 편](https://ko.wikipedia.org/wiki/정의의_사도의_편의_편 "wikilink") (1\~3권)
   - [제로에서 시작하는 마법의 서](https://ko.wikipedia.org/wiki/제로에서_시작하는_마법의_서 "wikilink") (1\~10권)
@@ -283,7 +283,7 @@ NT 노벨에서 번역·발행한 라이트 노벨의 목록은 자음 기준에
   - [쿠스노키 토쥬로의 재난으로 가득 찬 일상](https://ko.wikipedia.org/wiki/쿠스노키_토쥬로의_재난으로_가득_찬_일상 "wikilink") (1권)
   - [크래시 블레이즈](https://ko.wikipedia.org/wiki/크래시_블레이즈 "wikilink") (1\~16권)
   - [클랜](https://ko.wikipedia.org/wiki/클랜 "wikilink") (1\~12권)
-  - [키노의 여행](https://ko.wikipedia.org/wiki/키노의_여행 "wikilink") (1\~20권)
+  - [키노의 여행](../Page/키노의_여행.md "wikilink") (1\~20권)
       - [학원 키노](https://ko.wikipedia.org/wiki/학원_키노 "wikilink") (1\~5권, 키노의 여행의 패러디 작품)
   - [키리](https://ko.wikipedia.org/wiki/키리 "wikilink") (1\~9권)
   - [타락한 기사가 던전을 시작했습니다](https://ko.wikipedia.org/wiki/타락한_기사가_던전을_시작했습니다 "wikilink") (1권)
@@ -336,7 +336,7 @@ NT 노벨에서 번역·발행한 라이트 노벨의 목록은 자음 기준에
   - [고양이의 지구의](https://ko.wikipedia.org/wiki/고양이의_지구의 "wikilink") (1\~2권)
   - [골드러시 오브 더 데드](https://ko.wikipedia.org/wiki/골드러시_오브_더_데드 "wikilink") (단권)
   - [관희 챠이카](../Page/관희_챠이카.md "wikilink") (1\~12권)
-  - [구름의 저편, 약속의 장소](https://ko.wikipedia.org/wiki/구름의_저편,_약속의_장소 "wikilink") (상하권)
+  - [구름의 저편, 약속의 장소](../Page/구름의_저편,_약속의_장소.md "wikilink") (상하권)
       - 개정판 단권
   - [나나카,시간여행\!](https://ko.wikipedia.org/wiki/나나카,시간여행! "wikilink") (단권)
   - [나와 그녀의 사랑을 초능력이 방해하고 있다](https://ko.wikipedia.org/wiki/나와_그녀의_사랑을_초능력이_방해하고_있다 "wikilink") (단권)
@@ -370,7 +370,7 @@ NT 노벨에서 번역·발행한 라이트 노벨의 목록은 자음 기준에
   - [리리아와 트레이즈](../Page/리리아와_트레이즈.md "wikilink") (1\~6권)
   - [리버스 엔드](https://ko.wikipedia.org/wiki/리버스_엔드 "wikilink") (1\~5권+외전 1권)
   - [마르두크 스크램블](https://ko.wikipedia.org/wiki/마르두크_스크램블 "wikilink") (1\~3권)
-  - [마법사에게 소중한 것](https://ko.wikipedia.org/wiki/마법사에게_소중한_것 "wikilink") (1\~3권)
+  - [마법사에게 소중한 것](../Page/마법사에게_소중한_것.md "wikilink") (1\~3권)
   - [마법의 아이](https://ko.wikipedia.org/wiki/마법의_아이 "wikilink") (단권)
   - [마오유우 마왕용사](https://ko.wikipedia.org/wiki/마오유우_마왕용사 "wikilink") (1\~5권)
   - [마술사 오펜](../Page/마술사_오펜.md "wikilink") (1\~20권)
@@ -381,10 +381,10 @@ NT 노벨에서 번역·발행한 라이트 노벨의 목록은 자음 기준에
   - [뮤뮤\!](https://ko.wikipedia.org/wiki/뮤뮤! "wikilink") (단권)
   - [바보와 시험과 소환수](../Page/바보와_시험과_소환수.md "wikilink") (1\~12권, 외전 6권)
   - [바우와우](https://ko.wikipedia.org/wiki/바우와우 "wikilink") (단권)
-  - [박살천사 도쿠로](https://ko.wikipedia.org/wiki/박살천사_도쿠로 "wikilink") (1\~10권)
+  - [박살천사 도쿠로](../Page/박살천사_도쿠로.md "wikilink") (1\~10권)
   - [방과 후 연애부\!](https://ko.wikipedia.org/wiki/방과_후_연애부! "wikilink") (단권)
   - [범인을 모르겠습니다](https://ko.wikipedia.org/wiki/범인을_모르겠습니다 "wikilink") (단권)
-  - [별의 목소리](https://ko.wikipedia.org/wiki/별의_목소리 "wikilink") (단권)
+  - [별의 목소리](../Page/별의_목소리.md "wikilink") (단권)
       - 개정판
   - [배틀 쉽 걸](https://ko.wikipedia.org/wiki/배틀_쉽_걸 "wikilink") (1\~7권)
   - [비트의 디시플린](https://ko.wikipedia.org/wiki/비트의_디시플린 "wikilink") (1\~4권)
@@ -397,7 +397,7 @@ NT 노벨에서 번역·발행한 라이트 노벨의 목록은 자음 기준에
   - [섹스텟 시라나기학원 연극부의 과잉된 일상](https://ko.wikipedia.org/wiki/섹스텟_시라나기학원_연극부의_과잉된_일상 "wikilink") (단권)
   - [수리점의 파괴신](https://ko.wikipedia.org/wiki/수리점의_파괴신 "wikilink") (단권)
   - [스칼렛 위저드](https://ko.wikipedia.org/wiki/스칼렛_위저드 "wikilink") (1\~6권)
-  - [슬레이어즈](https://ko.wikipedia.org/wiki/슬레이어즈 "wikilink") (1\~15권)
+  - [슬레이어즈](../Page/슬레이어즈.md "wikilink") (1\~15권)
   - [시공의 크로스로드](https://ko.wikipedia.org/wiki/시공의_크로스로드 "wikilink") (1\~3권)
   - [신족 가족](https://ko.wikipedia.org/wiki/신족_가족 "wikilink") (1\~8권 )
   - [새벽의 천사들](https://ko.wikipedia.org/wiki/새벽의_천사들 "wikilink") (1\~6권, 외전 1\~2권)
@@ -439,7 +439,7 @@ NT 노벨에서 번역·발행한 라이트 노벨의 목록은 자음 기준에
   - [패러사이트 문](https://ko.wikipedia.org/wiki/패러사이트_문 "wikilink") (1\~6권)
   - [풍수학원](https://ko.wikipedia.org/wiki/풍수학원 "wikilink") (1\~8권)
   - [포스트 걸](https://ko.wikipedia.org/wiki/포스트_걸 "wikilink") (1\~4권)
-  - [풀 메탈 패닉\!](https://ko.wikipedia.org/wiki/풀_메탈_패닉! "wikilink") (1\~23권)
+  - [풀 메탈 패닉\!](../Page/풀_메탈_패닉!.md "wikilink") (1\~23권)
   - [풀 스케일 서머](https://ko.wikipedia.org/wiki/풀_스케일_서머 "wikilink") (단권)
   - [하나의 대륙의 이야기](https://ko.wikipedia.org/wiki/하나의_대륙의_이야기 "wikilink") (1\~2권)
   - [하즈키 리온의 제국](https://ko.wikipedia.org/wiki/하즈키_리온의_제국 "wikilink") (1\~10권)

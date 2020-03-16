@@ -3,7 +3,7 @@
 
 **애플 II**(**Apple II**, <small>애플 투</small>)는 [애플 컴퓨터가](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") [1977년](../Page/1977년.md "wikilink")에 만든 [개인용 컴퓨터이다](../Page/개인용_컴퓨터.md "wikilink"). 1970년대 말부터 80년대 전반에 걸쳐 개인용 컴퓨터 붐을 이끈 주역이었다. 이 글에서는 애플 II뿐만 아니라 후속 모델인 애플 II+, 애플 //e, 애플 //c, 애플 IIGS 등에 걸친 전반적인 발전을 소개한다.
 
-애플 II 시리즈 대부분의 모델이 [컴퓨터 키보드](https://ko.wikipedia.org/wiki/컴퓨터_키보드 "wikilink"), 메인보드, 전원장치가 하나로 합쳐진 일체형으로 제작되었으며, 내부에 8개의 확장 슬롯이 있어 다양한 주변장치를 연결하여 사용할 수 있었다. [중앙 처리 장치로는](../Page/중앙_처리_장치.md "wikilink") [MOS 6502와](https://ko.wikipedia.org/wiki/MOS_6502 "wikilink") 그 후속제품이 쓰였으며, 컬러 혹은 단색 디스플레이를 연결하거나 가정용 텔레비전으로 영상을 출력할 수 있었다. 저장 장치로는 초기에 전용 테이프 레코더가 쓰였으며, 이후에는 [플로피 디스크](https://ko.wikipedia.org/wiki/플로피_디스크 "wikilink") 드라이버(5 1/4인치)가 많이 쓰였다. 애플 II가 시장에서 인기를 끌게 되면서 다양한 소프트웨어가 출시되었는데, 스프레드시트 프로그램인 [비지칼크](../Page/비지칼크.md "wikilink"), 데이터베이스 프로그램인 [dBASE](https://ko.wikipedia.org/wiki/dBASE "wikilink"), 워드프로세서인 [워드스타](https://ko.wikipedia.org/wiki/워드스타 "wikilink") 등 사무용 소프트웨어와 다양한 게임 소프트웨어, 교육용 소프트웨어들이 출시되어 이후 개인용 컴퓨터 혁명을 이끌게 되었다. 내장된 [애플소프트 베이식으로](https://ko.wikipedia.org/wiki/애플소프트_베이식 "wikilink") 사용자가 다양한 프로그램을 직접 제작할 수 있었으며, [베이직](../Page/베이직.md "wikilink") 외에도 이전에는 대형 컴퓨터에서만 가능하였던 [포트란](../Page/포트란.md "wikilink"), [코볼](../Page/코볼.md "wikilink")과 같은 언어와 새로운 컴퓨터 언어인 [파스칼](../Page/파스칼_\(프로그래밍_언어\).md "wikilink"), [C](../Page/C_\(프로그래밍_언어\).md "wikilink") 등으로 프로그램을 제작할 수 있었다. [울티마](https://ko.wikipedia.org/wiki/울티마 "wikilink"), [위저드리](https://ko.wikipedia.org/wiki/위저드리 "wikilink") 등 많은 역사적인 게임도 애플에서부터 시작되었다.
+애플 II 시리즈 대부분의 모델이 [컴퓨터 키보드](https://ko.wikipedia.org/wiki/컴퓨터_키보드 "wikilink"), 메인보드, 전원장치가 하나로 합쳐진 일체형으로 제작되었으며, 내부에 8개의 확장 슬롯이 있어 다양한 주변장치를 연결하여 사용할 수 있었다. [중앙 처리 장치로는](../Page/중앙_처리_장치.md "wikilink") [MOS 6502와](../Page/MOS_6502.md "wikilink") 그 후속제품이 쓰였으며, 컬러 혹은 단색 디스플레이를 연결하거나 가정용 텔레비전으로 영상을 출력할 수 있었다. 저장 장치로는 초기에 전용 테이프 레코더가 쓰였으며, 이후에는 [플로피 디스크](https://ko.wikipedia.org/wiki/플로피_디스크 "wikilink") 드라이버(5 1/4인치)가 많이 쓰였다. 애플 II가 시장에서 인기를 끌게 되면서 다양한 소프트웨어가 출시되었는데, 스프레드시트 프로그램인 [비지칼크](../Page/비지칼크.md "wikilink"), 데이터베이스 프로그램인 [dBASE](https://ko.wikipedia.org/wiki/dBASE "wikilink"), 워드프로세서인 [워드스타](https://ko.wikipedia.org/wiki/워드스타 "wikilink") 등 사무용 소프트웨어와 다양한 게임 소프트웨어, 교육용 소프트웨어들이 출시되어 이후 개인용 컴퓨터 혁명을 이끌게 되었다. 내장된 [애플소프트 베이식으로](https://ko.wikipedia.org/wiki/애플소프트_베이식 "wikilink") 사용자가 다양한 프로그램을 직접 제작할 수 있었으며, [베이직](../Page/베이직.md "wikilink") 외에도 이전에는 대형 컴퓨터에서만 가능하였던 [포트란](../Page/포트란.md "wikilink"), [코볼](../Page/코볼.md "wikilink")과 같은 언어와 새로운 컴퓨터 언어인 [파스칼](../Page/파스칼_\(프로그래밍_언어\).md "wikilink"), [C](../Page/C_\(프로그래밍_언어\).md "wikilink") 등으로 프로그램을 제작할 수 있었다. [울티마](../Page/울티마.md "wikilink"), [위저드리](https://ko.wikipedia.org/wiki/위저드리 "wikilink") 등 많은 역사적인 게임도 애플에서부터 시작되었다.
 
 [1980년대](../Page/1980년대.md "wikilink")에는 [대한민국](../Page/대한민국.md "wikilink")에도 그 복제품이 많이 제작되어 보급되었으며, 삼성전자의 [SPC-1000](https://ko.wikipedia.org/wiki/SPC-1000 "wikilink"), 금성사의 [패미콤](../Page/금성_패미콤.md "wikilink") 등의 8비트 컴퓨터들과 함께 첫 번째 개인용 컴퓨터 보급의 주역이 되었다.
 
@@ -13,7 +13,7 @@
 
 ## 디자인
 
-애플 II시리즈는 컴퓨터 사상 최초로 플라스틱 케이스를 쓴 제품이다. 당시 프리랜서 디자이너였던 제리 마녹이 디자인 한 이 컴퓨터는 [스티브 잡스의](https://ko.wikipedia.org/wiki/스티브_잡스 "wikilink") 디자인 키워드인 부드러운 모서리, 차분한 색상, 가벼운 질감으로 제작되었다. 결과적으로 컴퓨터를 일부 매니아 계층이 조립해서 사용하는 제품에서 누구나 사용할 수 있는 소비재로 만드는데 공헌한 것은 디자인의 공이 매우 컸다.
+애플 II시리즈는 컴퓨터 사상 최초로 플라스틱 케이스를 쓴 제품이다. 당시 프리랜서 디자이너였던 제리 마녹이 디자인 한 이 컴퓨터는 [스티브 잡스의](../Page/스티브_잡스.md "wikilink") 디자인 키워드인 부드러운 모서리, 차분한 색상, 가벼운 질감으로 제작되었다. 결과적으로 컴퓨터를 일부 매니아 계층이 조립해서 사용하는 제품에서 누구나 사용할 수 있는 소비재로 만드는데 공헌한 것은 디자인의 공이 매우 컸다.
 
 ## 모델
 
@@ -31,7 +31,7 @@
   - [카세트 테이프](https://ko.wikipedia.org/wiki/카세트_테이프 "wikilink") 입출력 단자
   - [글자판](https://ko.wikipedia.org/wiki/글자판 "wikilink")에 [화살표](../Page/화살표.md "wikilink") 키가 왼쪽과 오른쪽 밖에 없다. 리셋 키가 있다.
   - 게임 포트
-  - 내장 [프로그래밍 언어](../Page/프로그래밍_언어.md "wikilink") : [애플소프트 베이직](https://ko.wikipedia.org/wiki/애플소프트_베이직 "wikilink")
+  - 내장 [프로그래밍 언어](../Page/프로그래밍_언어.md "wikilink") : [애플소프트 베이직](../Page/애플소프트_베이직.md "wikilink")
   - 애플에서 나오는 플로피 디스크 드라이브를 쓰기 위해서는 I/O카드를 연결해야 했다.
 
 ### 애플 //e
@@ -54,11 +54,11 @@
 
 ### 애플 IIGS
 
-[1986년](../Page/1986년.md "wikilink") [9월 15일](../Page/9월_15일.md "wikilink") 최초의 16비트 애플 컴퓨터인 애플 IIGS가 발표되었다. GS라는 이름은 Graphic과 Sound의 약자료 향상된 향상된 그래픽과 사운드를 갖추고 있었다. 미디 음원을 지원했다. 당시 비틀즈의 판권을 가지고 있는 [애플 레코드가](https://ko.wikipedia.org/wiki/애플_레코드 "wikilink") 음악에 대한 모든 상표권을 가지고 있었기 때문에 애플과 분쟁이 있었고, 애플은 GS를 끝으로 미디 음원을 포기하기로 했다. 당시 미국의 많은 초등학교에 애플 IIGS가 보급되었다.
+[1986년](../Page/1986년.md "wikilink") [9월 15일](../Page/9월_15일.md "wikilink") 최초의 16비트 애플 컴퓨터인 애플 IIGS가 발표되었다. GS라는 이름은 Graphic과 Sound의 약자료 향상된 향상된 그래픽과 사운드를 갖추고 있었다. 미디 음원을 지원했다. 당시 비틀즈의 판권을 가지고 있는 [애플 레코드가](../Page/애플_레코드.md "wikilink") 음악에 대한 모든 상표권을 가지고 있었기 때문에 애플과 분쟁이 있었고, 애플은 GS를 끝으로 미디 음원을 포기하기로 했다. 당시 미국의 많은 초등학교에 애플 IIGS가 보급되었다.
 
 대한민국에도 잠시 애플 IIGS가 수입되었다.
 
-흔히 말하는 ROM1, ROM2, ROM3 버전이 있으며 Woz 버전은 [스티브 워즈니악의](https://ko.wikipedia.org/wiki/스티브_워즈니악 "wikilink") 사인이 붙어 있는 한정판이 있었다.
+흔히 말하는 ROM1, ROM2, ROM3 버전이 있으며 Woz 버전은 [스티브 워즈니악의](../Page/스티브_워즈니악.md "wikilink") 사인이 붙어 있는 한정판이 있었다.
 
 #### 사양
 
@@ -82,7 +82,7 @@
   - 가라데카
   - 캡틴 굿나잇
   - [카멘 센디에고](https://ko.wikipedia.org/wiki/카멘_센디에고 "wikilink") 시리즈
-  - [울티마](https://ko.wikipedia.org/wiki/울티마 "wikilink") 시리즈
+  - [울티마](../Page/울티마.md "wikilink") 시리즈
   - 골든 올디스
   - 드롤
   - 팰로니
@@ -108,12 +108,12 @@
 
 ### 사무용 프로그램
 
-  - [VisiCalc](../Page/비지칼크.md "wikilink") : 세계 최초의 [스프레드시트](https://ko.wikipedia.org/wiki/스프레드시트 "wikilink") 소프트웨어. VisiCorp.에서 만들었다. 후에 [IBM PC](https://ko.wikipedia.org/wiki/IBM_PC "wikilink") 호환 기종에서 운영되는 [로터스 1-2-3에게](https://ko.wikipedia.org/wiki/로터스_1-2-3 "wikilink") 밀려 시장에서 퇴출된다.
+  - [VisiCalc](../Page/비지칼크.md "wikilink") : 세계 최초의 [스프레드시트](../Page/스프레드시트.md "wikilink") 소프트웨어. VisiCorp.에서 만들었다. 후에 [IBM PC](../Page/IBM_PC.md "wikilink") 호환 기종에서 운영되는 [로터스 1-2-3에게](../Page/로터스_1-2-3.md "wikilink") 밀려 시장에서 퇴출된다.
 
 ### 프로그램 개발 회사
 
-  - [오리진 시스템즈](https://ko.wikipedia.org/wiki/오리진_시스템즈 "wikilink") (현 [일렉트로닉 아츠](https://ko.wikipedia.org/wiki/일렉트로닉_아츠 "wikilink"))
-  - [일렉트로닉 아츠](https://ko.wikipedia.org/wiki/일렉트로닉_아츠 "wikilink")
+  - [오리진 시스템즈](https://ko.wikipedia.org/wiki/오리진_시스템즈 "wikilink") (현 [일렉트로닉 아츠](../Page/일렉트로닉_아츠.md "wikilink"))
+  - [일렉트로닉 아츠](../Page/일렉트로닉_아츠.md "wikilink")
   - [시에라 엔터테인먼트](../Page/시에라_엔터테인먼트.md "wikilink")
   - [브로더번드](../Page/브로더번드.md "wikilink")
   - [비글 브로스](../Page/비글_브로스.md "wikilink")
@@ -152,7 +152,7 @@
 
 ### 소프트웨어
 
-  - 《신검의 전설》 : 남인환이 만든 롤플레잉 게임이다. 순 한국말로 진행된다. [울티마](https://ko.wikipedia.org/wiki/울티마 "wikilink") 시리즈의 영향을 많이 받았다.
+  - 《신검의 전설》 : 남인환이 만든 롤플레잉 게임이다. 순 한국말로 진행된다. [울티마](../Page/울티마.md "wikilink") 시리즈의 영향을 많이 받았다.
   - 혹성대탈출 : 토피아에서 게임공모전을 통해 발매한 한국최초의 액션RPG게임이다.
   - 한줄 한글: (One Line Hangul) 애플의 낮은 해상도 때문에 한글을 표현하려면(가령 CALL -3327한글) 두 줄이 필요했다. 한줄 한글은 한글 폰트를 단순화함으로써 1.5줄로 한글을 표현할 수 있었다. 사실은 이름처럼 한 줄(8비트 픽셀)에 모두 표시되는 한글은 아니다. 실행 후 한국 음악으로 보이는 음악이 연주되었다.
   - [독립신문](https://ko.wikipedia.org/wiki/독립신문_\(소프트웨어\) "wikilink") : 애플 2 상 구동하는 [전자출판](https://ko.wikipedia.org/wiki/전자출판 "wikilink") 소프트웨어, 유홍준과 김호태가 만들었다.
@@ -171,7 +171,7 @@
 ## 함께 읽기
 
   - [8비트 컴퓨터](https://ko.wikipedia.org/wiki/8비트_컴퓨터 "wikilink")
-  - [MSX](https://ko.wikipedia.org/wiki/MSX "wikilink")
+  - [MSX](../Page/MSX.md "wikilink")
   - [SPC-1000](https://ko.wikipedia.org/wiki/SPC-1000 "wikilink")
   - [애플](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink")
 

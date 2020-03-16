@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ H. W. ](https://ko.wikipedia.org/wiki/_H._W._).
 
 
-**조지 허버트 워커 부시**(, , [1924년](../Page/1924년.md "wikilink") [6월 12일](../Page/6월_12일.md "wikilink") \~ [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [11월 30일](../Page/11월_30일.md "wikilink")\[1\]\[2\])는 [미국](../Page/미국.md "wikilink")의 [정치인](../Page/정치인.md "wikilink")이다. [연방 하원의원](../Page/미국_하원.md "wikilink"), [유엔](../Page/유엔.md "wikilink") 주재 미국 대사, [미국 중앙정보국](https://ko.wikipedia.org/wiki/미국_중앙정보국 "wikilink")(CIA) 국장 등 여러 공직을 거친 후 [1980년](../Page/1980년.md "wikilink") 미국 대통령 선거에서 [로널드 레이건의](../Page/로널드_레이건.md "wikilink") 러닝메이트로 출마, 1981년부터 1989년까지 [부통령을](../Page/미국의_부통령.md "wikilink") 지낸 데 이어, 1989년부터 1993년까지 [대통령으로](../Page/미국의_대통령.md "wikilink") 재직했다.
+**조지 허버트 워커 부시**(, , [1924년](../Page/1924년.md "wikilink") [6월 12일](../Page/6월_12일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [11월 30일](../Page/11월_30일.md "wikilink")\[1\]\[2\])는 [미국](../Page/미국.md "wikilink")의 [정치인](../Page/정치인.md "wikilink")이다. [연방 하원의원](../Page/미국_하원.md "wikilink"), [유엔](../Page/유엔.md "wikilink") 주재 미국 대사, [미국 중앙정보국](https://ko.wikipedia.org/wiki/미국_중앙정보국 "wikilink")(CIA) 국장 등 여러 공직을 거친 후 [1980년](../Page/1980년.md "wikilink") 미국 대통령 선거에서 [로널드 레이건의](../Page/로널드_레이건.md "wikilink") 러닝메이트로 출마, 1981년부터 1989년까지 [부통령을](../Page/미국의_부통령.md "wikilink") 지낸 데 이어, 1989년부터 1993년까지 [대통령으로](../Page/미국의_대통령.md "wikilink") 재직했다.
 
 ## 생애
 
@@ -13,27 +13,27 @@
 
 ### 연방 하원의원
 
-1964년에 [상원의원](https://ko.wikipedia.org/wiki/미국_상원 "wikilink") 도전에 실패하자 1965년 석유 사업을 [맬컴 글레이저에게](../Page/맬컴_글레이저.md "wikilink") 매각하고 손을 떼고 정치에 투신해서 1966년 하원의원에 당선되었다. 그 후 1968년 부시는 [하원의원에](../Page/미국_하원.md "wikilink") 재선되었고, 두 번째 임기를 마친후 1964년의 상원의원 도전의 패배를 설욕하기 위해서 1970년 연방 상원의원에 도전하였으나, [민주당의](https://ko.wikipedia.org/wiki/민주당_\(미국\) "wikilink") [로이드 벤첸에게](https://ko.wikipedia.org/wiki/로이드_벤첸 "wikilink") 패하여 다시 낙선했다.\[3\]
+1964년에 [상원의원](https://ko.wikipedia.org/wiki/미국_상원 "wikilink") 도전에 실패하자 1965년 석유 사업을 [맬컴 글레이저에게](../Page/맬컴_글레이저.md "wikilink") 매각하고 손을 떼고 정치에 투신해서 1966년 하원의원에 당선되었다. 그 후 1968년 부시는 [하원의원에](../Page/미국_하원.md "wikilink") 재선되었고, 두 번째 임기를 마친후 1964년의 상원의원 도전의 패배를 설욕하기 위해서 1970년 연방 상원의원에 도전하였으나, [민주당의](../Page/민주당_\(미국\).md "wikilink") [로이드 벤첸에게](https://ko.wikipedia.org/wiki/로이드_벤첸 "wikilink") 패하여 다시 낙선했다.\[3\]
 
 ### 1970년대
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:George_Bush_as_United_Nations_Representative,_1971-72_-_NARA_-_186386.tif "wikilink") 주재 대사 시절\]\] 부시는 [리처드 닉슨](https://ko.wikipedia.org/wiki/리처드_닉슨 "wikilink") 대통령에 의해 1970년부터 [유엔](../Page/유엔.md "wikilink") 주재 미국 대사에 임명되어 1973년까지 재직했다. 임기를 마친 후 1973년부터 1975년까지 미국 국무부 [베이징](https://ko.wikipedia.org/wiki/베이징 "wikilink") 연락사무소 소장으로서 [중국](../Page/중국.md "wikilink")과의 국교 정상화에 힘써서 외교의 달인이라는 평가를 받았으며, 그 임기를 마친후 1977년에 [CIA](https://ko.wikipedia.org/wiki/미국_중앙_정보국 "wikilink") 국장을 지냈다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:George_Bush_as_United_Nations_Representative,_1971-72_-_NARA_-_186386.tif "wikilink") 주재 대사 시절\]\] 부시는 [리처드 닉슨](../Page/리처드_닉슨.md "wikilink") 대통령에 의해 1970년부터 [유엔](../Page/유엔.md "wikilink") 주재 미국 대사에 임명되어 1973년까지 재직했다. 임기를 마친 후 1973년부터 1975년까지 미국 국무부 [베이징](https://ko.wikipedia.org/wiki/베이징 "wikilink") 연락사무소 소장으로서 [중국](../Page/중국.md "wikilink")과의 국교 정상화에 힘써서 외교의 달인이라는 평가를 받았으며, 그 임기를 마친후 1977년에 [CIA](https://ko.wikipedia.org/wiki/미국_중앙_정보국 "wikilink") 국장을 지냈다.
 
 ### 부통령 재직
 
-[외교](https://ko.wikipedia.org/wiki/외교 "wikilink")의 달인으로 떠오른 부시는 1980년 [공화당](https://ko.wikipedia.org/wiki/공화당_\(미국\) "wikilink") 대통령 후보 경선에서 [로널드 레이건에게](../Page/로널드_레이건.md "wikilink") 패했으나, 레이건의 요청으로 부통령 후보를 맡아서 1980년과 1984년 두차례에 걸쳐서 [부통령에](../Page/미국의_부통령.md "wikilink") 당선되었다. 부통령 임기 중에 레이건 대통령의 신임을 받아서 레이건의 추천으로 1988년 대통령 후보로 등장하여 대통령 선거에서 [민주당의](https://ko.wikipedia.org/wiki/민주당_\(미국\) "wikilink") [마이클 듀카키스](../Page/마이클_듀카키스.md "wikilink") 후보를 누르고 당선되었고 여기에 더해 전통적인 민주당 지지주인 [일리노이주](../Page/일리노이주.md "wikilink"), [미시간주](../Page/미시간주.md "wikilink"), [펜실베이니아주](../Page/펜실베이니아주.md "wikilink") 등에서도 승리를 거두었다.
+[외교](https://ko.wikipedia.org/wiki/외교 "wikilink")의 달인으로 떠오른 부시는 1980년 [공화당](https://ko.wikipedia.org/wiki/공화당_\(미국\) "wikilink") 대통령 후보 경선에서 [로널드 레이건에게](../Page/로널드_레이건.md "wikilink") 패했으나, 레이건의 요청으로 부통령 후보를 맡아서 1980년과 1984년 두차례에 걸쳐서 [부통령에](../Page/미국의_부통령.md "wikilink") 당선되었다. 부통령 임기 중에 레이건 대통령의 신임을 받아서 레이건의 추천으로 1988년 대통령 후보로 등장하여 대통령 선거에서 [민주당의](../Page/민주당_\(미국\).md "wikilink") [마이클 듀카키스](../Page/마이클_듀카키스.md "wikilink") 후보를 누르고 당선되었고 여기에 더해 전통적인 민주당 지지주인 [일리노이주](../Page/일리노이주.md "wikilink"), [미시간주](../Page/미시간주.md "wikilink"), [펜실베이니아주](../Page/펜실베이니아주.md "wikilink") 등에서도 승리를 거두었다.
 
 ### 대통령 취임 후
 
-[대통령](../Page/대통령.md "wikilink")에 취임한 후인 1989년 12월에 [파나마](../Page/파나마.md "wikilink")의 [마누엘 노리에가](../Page/마누엘_노리에가.md "wikilink") 대통령이 마약 퇴치를 위해 파견된 미군을 살해하는 사건이 일어나자 [파나마를 침공한](https://ko.wikipedia.org/wiki/미국의_파나마_침공 "wikilink") 후 이틀 만에 점령하고 노리에가에게 1990년 1월 3일 재판에서 그에게 30년형을 내리게 했으나 뒤에 감형되었다. 그는 부통령과 대통령 재임기에 [대한민국](../Page/대한민국.md "wikilink")을 방문하였고, 퇴임후에도 몇 차례 방문하였다.
+[대통령](../Page/대통령.md "wikilink")에 취임한 후인 1989년 12월에 [파나마](../Page/파나마.md "wikilink")의 [마누엘 노리에가](../Page/마누엘_노리에가.md "wikilink") 대통령이 마약 퇴치를 위해 파견된 미군을 살해하는 사건이 일어나자 [파나마를 침공한](../Page/미국의_파나마_침공.md "wikilink") 후 이틀 만에 점령하고 노리에가에게 1990년 1월 3일 재판에서 그에게 30년형을 내리게 했으나 뒤에 감형되었다. 그는 부통령과 대통령 재임기에 [대한민국](../Page/대한민국.md "wikilink")을 방문하였고, 퇴임후에도 몇 차례 방문하였다.
 
 ### 걸프 전쟁
 
-[섬네일에](https://ko.wikipedia.org/wiki/파일:Bush_troops.jpg "wikilink") 참전한 미군들과 함께\]\] 1990년 이라크의 [사담 후세인](https://ko.wikipedia.org/wiki/사담_후세인 "wikilink") 대통령이 군대를 이끌고 [쿠웨이트](../Page/쿠웨이트.md "wikilink")를 침공한 뒤 불과 7시간 만에 쿠웨이트를 장악하고 곧바로 합병했다. 이에 부시는 [노먼 슈워츠코프를](../Page/노먼_슈워츠코프.md "wikilink") 총사령관으로 앞세워서 [이라크](../Page/이라크.md "wikilink")를 공격해 한달만에 승리를 거두었다.
+[섬네일에](https://ko.wikipedia.org/wiki/파일:Bush_troops.jpg "wikilink") 참전한 미군들과 함께\]\] 1990년 이라크의 [사담 후세인](../Page/사담_후세인.md "wikilink") 대통령이 군대를 이끌고 [쿠웨이트](../Page/쿠웨이트.md "wikilink")를 침공한 뒤 불과 7시간 만에 쿠웨이트를 장악하고 곧바로 합병했다. 이에 부시는 [노먼 슈워츠코프를](../Page/노먼_슈워츠코프.md "wikilink") 총사령관으로 앞세워서 [이라크](../Page/이라크.md "wikilink")를 공격해 한달만에 승리를 거두었다.
 
 ### 퇴임 이후, 그리고 서거
 
-[1992년 미국 대통령 선거에서](../Page/1992년_미국_대통령_선거.md "wikilink") [로스 페로와의](../Page/로스_페로.md "wikilink") 보수 분열로 [민주당의](https://ko.wikipedia.org/wiki/민주당_\(미국\) "wikilink") [빌 클린턴](../Page/빌_클린턴.md "wikilink") 후보에게 370 대 168로 패하여 재선에 실패한 후 1993년 [텍사스 주로](https://ko.wikipedia.org/wiki/텍사스_주 "wikilink") 돌아와 노후를 보냈다. 그러나 7년 후인 2000년 클린턴의 후임으로 그의 장남인 조지 W. 부시가 미국의 대통령으로 당선되었고 2001년 미국의 대통령이 되었다. 2018년 11월 30일에 미국 텍사스 주 휴스턴에서 노환으로 인해 향년 95세로 타계하였다.\[4\] 아내 바버라 여사가 타계한 지 7개월 만이었다.
+[1992년 미국 대통령 선거에서](../Page/1992년_미국_대통령_선거.md "wikilink") [로스 페로와의](../Page/로스_페로.md "wikilink") 보수 분열로 [민주당의](../Page/민주당_\(미국\).md "wikilink") [빌 클린턴](../Page/빌_클린턴.md "wikilink") 후보에게 370 대 168로 패하여 재선에 실패한 후 1993년 [텍사스 주로](https://ko.wikipedia.org/wiki/텍사스_주 "wikilink") 돌아와 노후를 보냈다. 그러나 7년 후인 2000년 클린턴의 후임으로 그의 장남인 조지 W. 부시가 미국의 대통령으로 당선되었고 2001년 미국의 대통령이 되었다. 2018년 11월 30일에 미국 텍사스 주 휴스턴에서 노환으로 인해 향년 95세로 타계하였다.\[4\] 아내 바버라 여사가 타계한 지 7개월 만이었다.
 
 ## 일화
 

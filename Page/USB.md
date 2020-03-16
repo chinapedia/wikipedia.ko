@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [USB](https://ko.wikipedia.org/wiki/USB).
 
 
-**범용 직렬 버스** (, )는 컴퓨터와 주변 기기를 연결하는 데 쓰이는 입출력 표준 [프로토콜의](https://ko.wikipedia.org/wiki/통신_프로토콜 "wikilink") 하나이다.
+**범용 직렬 버스** (, )는 컴퓨터와 주변 기기를 연결하는 데 쓰이는 입출력 표준 [프로토콜의](../Page/통신_프로토콜.md "wikilink") 하나이다.
 
 ## 배경
 
-[직렬 포트](../Page/직렬_포트.md "wikilink"), [병렬 포트](../Page/병렬_포트.md "wikilink") 등 다양한 기존의 연결 방식을 대체하기 위하여 만들어졌다. [키보드](https://ko.wikipedia.org/wiki/컴퓨터_자판 "wikilink"), [마우스](../Page/마우스.md "wikilink"), [게임패드](../Page/게임패드.md "wikilink"), [조이스틱](../Page/조이스틱.md "wikilink"), [스캐너](../Page/이미지_스캐너.md "wikilink"), [디지털 카메라](../Page/디지털_카메라.md "wikilink"), [프린터](../Page/프린터.md "wikilink"), [PDA](https://ko.wikipedia.org/wiki/PDA "wikilink"), [저장장치](https://ko.wikipedia.org/wiki/저장장치 "wikilink")와 같은 다양한 기기를 연결하는 데 사용되며, 이러한 기기 연결의 대부분은 표준 연결 방식을 이용하여 이루어진다. USB는 [PC를](../Page/개인용_컴퓨터.md "wikilink") 위하여 개발되었지만, 지금은 [PDA](https://ko.wikipedia.org/wiki/PDA "wikilink")나 [비디오 게임 콘솔](../Page/비디오_게임_콘솔.md "wikilink") 등에도 채택되어 사용되며, USB의 전원 공급 기능을 이용한 충전 용도로도 많이 사용된다. 2008년에는 전 세계적으로 약 20억 개의 USB 장치가 있었다.
+[직렬 포트](../Page/직렬_포트.md "wikilink"), [병렬 포트](../Page/병렬_포트.md "wikilink") 등 다양한 기존의 연결 방식을 대체하기 위하여 만들어졌다. [키보드](../Page/컴퓨터_자판.md "wikilink"), [마우스](../Page/마우스.md "wikilink"), [게임패드](../Page/게임패드.md "wikilink"), [조이스틱](../Page/조이스틱.md "wikilink"), [스캐너](../Page/이미지_스캐너.md "wikilink"), [디지털 카메라](../Page/디지털_카메라.md "wikilink"), [프린터](../Page/프린터.md "wikilink"), [PDA](https://ko.wikipedia.org/wiki/PDA "wikilink"), [저장장치](https://ko.wikipedia.org/wiki/저장장치 "wikilink")와 같은 다양한 기기를 연결하는 데 사용되며, 이러한 기기 연결의 대부분은 표준 연결 방식을 이용하여 이루어진다. USB는 [PC를](../Page/개인용_컴퓨터.md "wikilink") 위하여 개발되었지만, 지금은 [PDA](https://ko.wikipedia.org/wiki/PDA "wikilink")나 [비디오 게임 콘솔](../Page/비디오_게임_콘솔.md "wikilink") 등에도 채택되어 사용되며, USB의 전원 공급 기능을 이용한 충전 용도로도 많이 사용된다. 2008년에는 전 세계적으로 약 20억 개의 USB 장치가 있었다.
 
 표준은 USB 임플리멘터스 포럼(USB Implementers Forum; USB-IF)에서 결정하며, 2010년 3월 기준으로 포럼 의장은 인텔사의 제프(Jeff Ravencraft)이다. 컴퓨터 메인보드 시장에서 인텔의 I/O칩 점유율이 압도적\[1\]\[2\](메릴린치의 2004년 3사분기 보고서에 따르면 62.1%)이기 때문에 소비자 시장에서의 가장 큰 수요를 쥐고 포럼 내의 영향력도 가장 큰 [인텔](../Page/인텔.md "wikilink")사에서 주도하여 만들어진다.
 

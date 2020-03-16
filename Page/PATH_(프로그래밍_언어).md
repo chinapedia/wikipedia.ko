@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [PATH \( \)](https://ko.wikipedia.org/wiki/PATH_\(_\)).
 
 
-**PATH**는 [브레인퍽](../Page/브레인퍽.md "wikilink")과 [비펀지](../Page/비펀지.md "wikilink")로부터 유래한 [난해한 프로그래밍 언어이다](https://ko.wikipedia.org/wiki/난해한_프로그래밍_언어 "wikilink"). 프로그램 코드는 [비펀지](../Page/비펀지.md "wikilink")와 유사하게 2차원 격자 안에 배열되며, 각각의 명령은 모두 1글자로 이루어져 있다. 데이터는 [브레인퍽](../Page/브레인퍽.md "wikilink")과 유사하게 "메모리 셀"이라 불리는 정수의 배열에 저장된다.
+**PATH**는 [브레인퍽](../Page/브레인퍽.md "wikilink")과 [비펀지](../Page/비펀지.md "wikilink")로부터 유래한 [난해한 프로그래밍 언어이다](../Page/난해한_프로그래밍_언어.md "wikilink"). 프로그램 코드는 [비펀지](../Page/비펀지.md "wikilink")와 유사하게 2차원 격자 안에 배열되며, 각각의 명령은 모두 1글자로 이루어져 있다. 데이터는 [브레인퍽](../Page/브레인퍽.md "wikilink")과 유사하게 "메모리 셀"이라 불리는 정수의 배열에 저장된다.
 
 ## 예제 코드
 

@@ -31,7 +31,7 @@
   - [1959년](../Page/1959년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") - 가와다쵸 사옥 본방송 개시(JOCX-TV).[간사이 TV](../Page/간사이_TV_방송.md "wikilink")(KTV) [마이니치 방송과](../Page/마이니치_방송.md "wikilink") 네트워크 관계를 맺지만 다음 해 간사이 TV로 통일시켰다. (참고로 이 당시 방송출력은 영상 출력 10KW, 음성 출력 2.5KW였다.)
   - [1959년](../Page/1959년.md "wikilink") [6월](../Page/6월.md "wikilink") - 도쿄, 오사카, 나고야, 후쿠오카 지역 방송국 4국간 네트워크 협력 체제를 형성한다.
   - [1960년](../Page/1960년.md "wikilink") [1월 17일](../Page/1월_17일.md "wikilink") - 방송국 송신 출력은 영상출력을 50kw, 음성출력을 12.5kw로 증력.
-  - [1964년](../Page/1964년.md "wikilink") [9월 3일](../Page/9월_3일.md "wikilink") - [도쿄 올림픽](https://ko.wikipedia.org/wiki/1964년_하계_올림픽 "wikilink") 개시에 따라 컬러 텔레비전 시험 방송 개시. (도쿄 3번째)
+  - [1964년](../Page/1964년.md "wikilink") [9월 3일](../Page/9월_3일.md "wikilink") - [도쿄 올림픽](../Page/1964년_하계_올림픽.md "wikilink") 개시에 따라 컬러 텔레비전 시험 방송 개시. (도쿄 3번째)
   - [1964년](../Page/1964년.md "wikilink") [9월 7일](../Page/9월_7일.md "wikilink") - 컬러 텔레비전 본방송 시작.
   - [1966년](../Page/1966년.md "wikilink") [10월](../Page/10월.md "wikilink") [후지 뉴스 네트워크](../Page/후지_뉴스_네트워크.md "wikilink")(FNN) 발족
   - [1967년](../Page/1967년.md "wikilink") [3월](../Page/3월.md "wikilink") - 후지TV 가와다쵸 사옥 빌딩 착공
@@ -72,7 +72,7 @@
   - [2006년](../Page/2006년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") 지상 디지털 텔레비전 원세그 본방송을 개시.
   - [2007년](../Page/2007년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink") - 하이비전 방식으로 보도 취재 개시. (일부 스포츠 보도는 이전부터 하이비전 방식으로 취재되었었다.)
   - [2011년](../Page/2011년.md "wikilink") [3월 11일](../Page/3월_11일.md "wikilink") - [동일본대지진](https://ko.wikipedia.org/wiki/동일본대지진 "wikilink")으로 인한 정규방송 중단 및 재난속보 방송개시
-  - [2011년](../Page/2011년.md "wikilink") [7월 24일](../Page/7월_24일.md "wikilink") - [디지털 텔레비전](../Page/디지털_텔레비전.md "wikilink") 방송 전환. 지상파 [아날로그 텔레비전](https://ko.wikipedia.org/wiki/아날로그_텔레비전 "wikilink") 본방송 종료.
+  - [2011년](../Page/2011년.md "wikilink") [7월 24일](../Page/7월_24일.md "wikilink") - [디지털 텔레비전](../Page/디지털_텔레비전.md "wikilink") 방송 전환. 지상파 [아날로그 텔레비전](../Page/아날로그_텔레비전.md "wikilink") 본방송 종료.
   - [2013년](../Page/2013년.md "wikilink") [5월 31일](../Page/5월_31일.md "wikilink") - [도쿄 스카이 트리에서](https://ko.wikipedia.org/wiki/도쿄_스카이_트리 "wikilink") 방송 송출 시작
   - [2014년](../Page/2014년.md "wikilink") [8월 4일](../Page/8월_4일.md "wikilink") - 후지TV 서울지국을 [문화방송](../Page/문화방송.md "wikilink") 상암동 신사옥으로 이전.
   - [2015년](../Page/2015년.md "wikilink") [3월 31일](../Page/3월_31일.md "wikilink") - 이날 정오를 기해 BS디지털 위성을 통해 송출하던 난시청지역용 지상파 동시방송을 중단.
@@ -106,15 +106,15 @@
 
 ### 디지털 방송의 주된 중계국
 
-  - [이바라키현](https://ko.wikipedia.org/wiki/이바라키현 "wikilink")
-      - [미토](https://ko.wikipedia.org/wiki/미토시_\(이바라키현\) "wikilink") - 19ch, [히타치](../Page/히타치시.md "wikilink") - 19ch, [우쓰노미야](https://ko.wikipedia.org/wiki/우쓰노미야시 "wikilink") - 35ch
-  - [군마현](https://ko.wikipedia.org/wiki/군마현 "wikilink")
-      - [마에바시](https://ko.wikipedia.org/wiki/마에바시시 "wikilink") - 42ch
+  - [이바라키현](../Page/이바라키현.md "wikilink")
+      - [미토](../Page/미토시_\(이바라키현\).md "wikilink") - 19ch, [히타치](../Page/히타치시.md "wikilink") - 19ch, [우쓰노미야](../Page/우쓰노미야시.md "wikilink") - 35ch
+  - [군마현](../Page/군마현.md "wikilink")
+      - [마에바시](../Page/마에바시시.md "wikilink") - 42ch
   - [사이타마현](https://ko.wikipedia.org/wiki/사이타마현 "wikilink")
-      - [자치부](https://ko.wikipedia.org/wiki/지치부시 "wikilink") - 21ch
+      - [자치부](../Page/지치부시.md "wikilink") - 21ch
   - [지바현](../Page/지바현.md "wikilink")
-      - [조시](https://ko.wikipedia.org/wiki/조시시 "wikilink") - 21ch
-  - [가나가와현](https://ko.wikipedia.org/wiki/가나가와현 "wikilink")
+      - [조시](../Page/조시시.md "wikilink") - 21ch
+  - [가나가와현](../Page/가나가와현.md "wikilink")
       - [히라쓰카](../Page/히라쓰카시.md "wikilink") - 21ch, [오다와라](../Page/오다와라시.md "wikilink") - 21ch
 
 ## 주요 프로그램 목록
@@ -138,7 +138,7 @@
 ### 오락·버라이어티
 
   - [네프리그](https://ko.wikipedia.org/wiki/네프리그 "wikilink")() - 초상식 퀴즈쇼
-  - [VS아라시](https://ko.wikipedia.org/wiki/VS아라시 "wikilink")() - [아라시](https://ko.wikipedia.org/wiki/아라시 "wikilink")가 호스트인 게임쇼
+  - [VS아라시](https://ko.wikipedia.org/wiki/VS아라시 "wikilink")() - [아라시](../Page/아라시.md "wikilink")가 호스트인 게임쇼
   - [SMAP×SMAP](../Page/SMAP×SMAP.md "wikilink")() (방영종료)
   - [바이킹](https://ko.wikipedia.org/wiki/바이킹\(일본_프로그램\) "wikilink")() - 정오시간대 (생방송)
   - [초난강](https://ko.wikipedia.org/wiki/초난강_\(방송_프로그램\) "wikilink")() - 한국계 버라이어티 프로
@@ -171,7 +171,7 @@
       - [드래곤볼 슈퍼](../Page/드래곤볼_슈퍼.md "wikilink")
   - [디지털 몬스터](../Page/디지털_몬스터.md "wikilink")(디지몬 시리즈, )
       - [디지털 몬스터의 작품 목록](https://ko.wikipedia.org/wiki/디지털_몬스터#TV_애니메이션 "wikilink")
-  - [란마 ½](https://ko.wikipedia.org/wiki/란마_½ "wikilink")()
+  - [란마 ½](../Page/란마_½.md "wikilink")()
   - [원피스](../Page/원피스_\(만화\).md "wikilink")()
   - [우루세이 야츠라](https://ko.wikipedia.org/wiki/우루세이_야츠라 "wikilink") (시끌별 녀석들\[1\], )
   - [유유백서](../Page/유유백서.md "wikilink")()
@@ -179,7 +179,7 @@
   - [천년여왕](../Page/천년여왕.md "wikilink")()
   - [철완 아톰](https://ko.wikipedia.org/wiki/철완_아톰 "wikilink")()
   - [사자에상](../Page/사자에상.md "wikilink")
-  - [마루코는 아홉살](https://ko.wikipedia.org/wiki/마루코는_아홉살 "wikilink")(마루코는 아홉살, )
+  - [마루코는 아홉살](../Page/마루코는_아홉살.md "wikilink")(마루코는 아홉살, )
   - [타임 트래블 톤데케만](https://ko.wikipedia.org/wiki/타임_트래블_톤데케만 "wikilink")(시간탐험대, )
   - [플란다스의 개](../Page/플랜더스의_개_\(애니메이션\).md "wikilink")()
   - [폴의 미라클 대작전](https://ko.wikipedia.org/wiki/폴의_미라클_대작전 "wikilink")(이상한 나라의 폴,
@@ -194,10 +194,10 @@
   - [1999년](../Page/1999년.md "wikilink") - 부부 간 문제를 다룬 버라이어티 프로그램 《사랑하는 두 명, 헤어지는 두 명》에 출연한 사람이 방송국 측에게 강요를 받았다고 고백한 유서를 남기고 자살 하는일이 일어났다. 이 일로 스폰서가 스폰서 철회를 신청했기 때문에 프로그램은 중지되었다.
   - [2000년](../Page/2000년.md "wikilink") [12월 24일](../Page/12월_24일.md "wikilink") - 애니메이션 《[사자에상](../Page/사자에상.md "wikilink")》에서 산타클로스를 소재로 한 이야기를 방송했는데 산타클로스는 실제로는 가족의 일원이었다는 식으로 끝났기 때문에 프로그램을 본 시청자로부터 "아이의 꿈을 부수지 말라"라며 항의가 쇄도했다.
   - [2003년](../Page/2003년.md "wikilink") - 심야에 방송되던 네프리그라는 프로그램에서 통행인의 소지품을 소매치기 한 뒤 그 피해자와 경주를 하는 내용을 방송했는데 이때 소매치기가 입고 있던 옷이 일본 럭비 대표팀의 유니폼이었다. 이에 일본 럭비협회는 후지 TV 측에 항의했고 후지 TV는 이 사건에 대해 럭비협회에 사과했다.
-  - [2003년](../Page/2003년.md "wikilink") [8월 13일](../Page/8월_13일.md "wikilink") - 《원나이트 록엔롤》이라는 프로그램의 한 코너에서 당시 후쿠오카 다이에 호크스(현재의 [후쿠오카 소프트뱅크 호크스](../Page/후쿠오카_소프트뱅크_호크스.md "wikilink"))의 감독이었던 [오 사다하루의](https://ko.wikipedia.org/wiki/오_사다하루 "wikilink") 얼굴을 본뜬 변기를 파는 콩트를 방송했는데 이 방송내용이 오 사다하루 감독과 다이에 호크스 측을 격분하게 만들어 후지 텔레비전은 그 해의 [일본 시리즈](../Page/일본_선수권_시리즈.md "wikilink") 방송권을 박탈당했다.
+  - [2003년](../Page/2003년.md "wikilink") [8월 13일](../Page/8월_13일.md "wikilink") - 《원나이트 록엔롤》이라는 프로그램의 한 코너에서 당시 후쿠오카 다이에 호크스(현재의 [후쿠오카 소프트뱅크 호크스](../Page/후쿠오카_소프트뱅크_호크스.md "wikilink"))의 감독이었던 [오 사다하루의](../Page/오_사다하루.md "wikilink") 얼굴을 본뜬 변기를 파는 콩트를 방송했는데 이 방송내용이 오 사다하루 감독과 다이에 호크스 측을 격분하게 만들어 후지 텔레비전은 그 해의 [일본 시리즈](../Page/일본_선수권_시리즈.md "wikilink") 방송권을 박탈당했다.
       - 또한 이 방송이 나간 뒤 1주일 후 방송된 같은 프로그램의 다른 콩트에서는 특정업체의 분유를 임산부처럼 분장한 출연자에게 뿌렸으며 이를 본 시청자들이 "육아에게 불가결한 분유를 경솔하게 취급했다"라는 항의를 했으며 당시 콩트에 사용된 분유를 제조한 업체도 "기업 이미지를 해쳤다"라면서 후지 텔레비전 측에 항의를 했다.
   - [2005년](../Page/2005년.md "wikilink") [11월](../Page/11월.md "wikilink") - 버라이어티 프로그램 《행복하다는 것은 무엇인가》에서 프로그램 진행자가 양계장에서 생산되는 계란에 대해 "약을 이용해 닭이 하루에 2\~3개의 알을 낳을 수 있다"라는 발언을 해 이에 격분한 양계 업자 단체로부터 항의를 받았다.
-  - [2005년](../Page/2005년.md "wikilink") [11월 14일](../Page/11월_14일.md "wikilink") - 쟈니즈 소속 아이돌그룹 NEWS의 미성년 멤버가 [센다이시](https://ko.wikipedia.org/wiki/센다이시 "wikilink")에서 음주 후 행패를 부리는 일이 일어났는데 조사 결과 후지 텔레비전 소속 여성 아나운서가 이 멤버가 미성년인 것을 알면서도 술자리에 불렀다는 사실이 밝혀져 후지 텔레비전은 이 여성 아나운서를 포함해 당시 술자리에 있었던 10명의 사원에게 감봉 처분을 내렸다.
+  - [2005년](../Page/2005년.md "wikilink") [11월 14일](../Page/11월_14일.md "wikilink") - 쟈니즈 소속 아이돌그룹 NEWS의 미성년 멤버가 [센다이시](../Page/센다이시.md "wikilink")에서 음주 후 행패를 부리는 일이 일어났는데 조사 결과 후지 텔레비전 소속 여성 아나운서가 이 멤버가 미성년인 것을 알면서도 술자리에 불렀다는 사실이 밝혀져 후지 텔레비전은 이 여성 아나운서를 포함해 당시 술자리에 있었던 10명의 사원에게 감봉 처분을 내렸다.
   - [2006년](../Page/2006년.md "wikilink") [5월 4일](../Page/5월_4일.md "wikilink") - 뉴스 프로그램 《FNN 슈퍼 뉴스》에서 [중화민국](../Page/중화민국.md "wikilink")의 국기를 [중화인민공화국](../Page/중화인민공화국.md "wikilink")의 국기인 오성홍기로 잘못 내보내 중화민국 정부의 항의를 받았다.
   - [2006년](../Page/2006년.md "wikilink") [6월 29일](../Page/6월_29일.md "wikilink") - 남북 이산가족 상봉장에서 납북자인 김영남을 지켜보던 통일부 직원을 북한 정부에 김영남을 감시하기 위해 파견된 공작원으로 잘못 방송했고 이에 한국 정부는 프로그램에 정정 요구를 했다. (참고로 정정사실은 7월 4일 방송된 FNN 슈퍼 뉴스에서 방송되었다.)
   - [2006년](../Page/2006년.md "wikilink") [10월 4일](../Page/10월_4일.md "wikilink") - 한 버라이어티 프로그램에서 벌칙 게임으로 해변 청소를 하기로 하면서 후지 TV 직원이 해변가에 쓰레기를 버리면서 주민들의 항의를 받았다.
@@ -266,7 +266,7 @@
   - **스튜디오 프롬나드** (5층): [어린이](../Page/어린이.md "wikilink")들에게 인기 만점된 후지 TV의 인기 프로그램 세트와 활영이 없을 때는 [스튜디오](https://ko.wikipedia.org/wiki/스튜디오 "wikilink") 안을 자유롭게 구경할 수 있다.
   - **후지TV 캐릭터 숍** (7층): 오리지널 상품을 판매하는 3개의 숍이 있다.
       - **Fishland**: 현재 방영 중인 인기 TV프로그램의 [오리지널](https://ko.wikipedia.org/wiki/오리지널 "wikilink") 용품이 판매되고 있다.
-      - **CX JOCX-TV Store**: [사자에상](../Page/사자에상.md "wikilink"), [치비 마루코쨩](https://ko.wikipedia.org/wiki/마루코는_아홉살 "wikilink"), [드래곤볼 시리즈](../Page/드래곤볼.md "wikilink"), [원피스](../Page/원피스.md "wikilink"), 라후쿤\[3\] 등의 인기 [캐릭터](https://ko.wikipedia.org/wiki/캐릭터 "wikilink")가 수록하다.
+      - **CX JOCX-TV Store**: [사자에상](../Page/사자에상.md "wikilink"), [치비 마루코쨩](../Page/마루코는_아홉살.md "wikilink"), [드래곤볼 시리즈](../Page/드래곤볼.md "wikilink"), [원피스](../Page/원피스.md "wikilink"), 라후쿤\[3\] 등의 인기 [캐릭터](https://ko.wikipedia.org/wiki/캐릭터 "wikilink")가 수록하다.
       - **드림 메이커**(Dream Maker)
   - **규타이 덴보시쓰** (25층): 전망대에 [날씨](https://ko.wikipedia.org/wiki/날씨 "wikilink")가 좋으면 멀리 [후지산](../Page/후지산.md "wikilink")까지 보인다.
 

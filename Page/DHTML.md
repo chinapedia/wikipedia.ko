@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [DHTML](https://ko.wikipedia.org/wiki/DHTML).
 
 
-**DHTML**(Dynamic HTML; 동적 HTML)은 정적 [마크업 언어인](../Page/마크업_언어.md "wikilink") [HTML](../Page/HTML.md "wikilink")과 클라이언트 기반 스크립트 언어([자바스크립트](https://ko.wikipedia.org/wiki/자바스크립트 "wikilink") 같은) 그리고 스타일 정의 언어인 [CSS](https://ko.wikipedia.org/wiki/CSS "wikilink")를 조합하여 대화형 [웹 사이트를](https://ko.wikipedia.org/wiki/웹_사이트 "wikilink") 제작하는 기법을 의미한다.
+**DHTML**(Dynamic HTML; 동적 HTML)은 정적 [마크업 언어인](../Page/마크업_언어.md "wikilink") [HTML](../Page/HTML.md "wikilink")과 클라이언트 기반 스크립트 언어([자바스크립트](../Page/자바스크립트.md "wikilink") 같은) 그리고 스타일 정의 언어인 [CSS](https://ko.wikipedia.org/wiki/CSS "wikilink")를 조합하여 대화형 [웹 사이트를](https://ko.wikipedia.org/wiki/웹_사이트 "wikilink") 제작하는 기법을 의미한다.
 
 DHTML은 [웹 브라우저](../Page/웹_브라우저.md "wikilink") 상에서 동작하는 응용 프로그램을 제작하는 데에도 쓰인다. 예를 들어 간편한 내비게이션을 위해 대화형 [폼](https://ko.wikipedia.org/wiki/폼_\(문서\) "wikilink")(form)을 제작하거나, [전자 학습에](../Page/전자_학습.md "wikilink") 사용되는 대화형 실습장을 만드는 데 이용될 수 있다. 완전히 브라우저에 포함되어, 데이터베이스와 같은 서버측 지원이 없이 동작하는 DHTML 응용 프로그램을 때로 [SPA](https://ko.wikipedia.org/wiki/SPA "wikilink")(Single Page Applications; 단일 페이지 응용 프로그램)라 부른다.
 
-경쟁 기술로는 애니메이션을 위한 [어도비 플래시나](../Page/어도비_플래시.md "wikilink") [자바](../Page/자바_\(프로그래밍_언어\).md "wikilink"), [AJAX](https://ko.wikipedia.org/wiki/AJAX "wikilink"), [애플릿](https://ko.wikipedia.org/wiki/자바_애플릿 "wikilink"), [SVG](https://ko.wikipedia.org/wiki/SVG "wikilink") 등이 있다(SVG는 아직까지 주요 웹 브라우저에서 잘 지원되지 않는다).
+경쟁 기술로는 애니메이션을 위한 [어도비 플래시나](../Page/어도비_플래시.md "wikilink") [자바](../Page/자바_\(프로그래밍_언어\).md "wikilink"), [AJAX](https://ko.wikipedia.org/wiki/AJAX "wikilink"), [애플릿](../Page/자바_애플릿.md "wikilink"), [SVG](https://ko.wikipedia.org/wiki/SVG "wikilink") 등이 있다(SVG는 아직까지 주요 웹 브라우저에서 잘 지원되지 않는다).
 
-DHTML의 단점으로는 브라우저마다 기술 지원에 대한 편차가 있기 때문에 개발과 [디버그](../Page/디버그.md "wikilink") 작업이 힘들다는 것과, 화면 크기가 다양하기 때문에 제한된 브라우저와 화면 크기 조합에만 최적화가 가능하다는 점이다. 최신 브라우저([인터넷 익스플로러](../Page/인터넷_익스플로러.md "wikilink") 5.0+, [넷스케이프](https://ko.wikipedia.org/wiki/넷스케이프_\(웹_브라우저\) "wikilink") 6.0+, [오페라](../Page/오페라_\(웹_브라우저\).md "wikilink") 7.0+)에서의 개발은 공통된 [DOM](https://ko.wikipedia.org/wiki/DOM "wikilink") 덕분에 이전보다 간편해졌다.
+DHTML의 단점으로는 브라우저마다 기술 지원에 대한 편차가 있기 때문에 개발과 [디버그](../Page/디버그.md "wikilink") 작업이 힘들다는 것과, 화면 크기가 다양하기 때문에 제한된 브라우저와 화면 크기 조합에만 최적화가 가능하다는 점이다. 최신 브라우저([인터넷 익스플로러](../Page/인터넷_익스플로러.md "wikilink") 5.0+, [넷스케이프](../Page/넷스케이프_\(웹_브라우저\).md "wikilink") 6.0+, [오페라](../Page/오페라_\(웹_브라우저\).md "wikilink") 7.0+)에서의 개발은 공통된 [DOM](https://ko.wikipedia.org/wiki/DOM "wikilink") 덕분에 이전보다 간편해졌다.
 
 ## 예
 

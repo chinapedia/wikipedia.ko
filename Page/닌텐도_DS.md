@@ -9,14 +9,14 @@
 
 ## 개요
 
-닌텐도 DS의 DS의 뜻은 아직 공식적으로 발표된 적은 없으나 "Dual Screen"의 줄임말로 접는 형태의 본체에 2개의 액정 화면을 가지고 있다는 의미라는 설이 유력하다. 닌텐도 간부의 발표에 따르면 "Dual Screen" 또는 "Developer's System"의 의미도 있다고 한다. 외형은 [게임 앤드 워치와](https://ko.wikipedia.org/wiki/게임_앤드_워치 "wikilink") 유사한 형태이며 아래쪽의 액정 화면은 터치 스크린으로 사용이 가능하다. 이외에도 [게임보이 어드밴스와](https://ko.wikipedia.org/wiki/게임보이_어드밴스 "wikilink") 같이 십자 키, A·B·L·R·Select·Start 버튼 외에도 마이크나 X·Y 버튼이 추가되는 등의 특징을 가지고 있다. 게임보이를 리믹스해 만든 것이다. 특히 두 개의 화면과 터치 스크린 및 터치 펜 인터페이스를 적극 활용한, 단순한 키 입력류의 게임에서 벗어나 누구나 쉽게 즐길 수 있다. [Wii U에서](../Page/Wii_U.md "wikilink") 버추얼 콘솔로 등장하였다.
+닌텐도 DS의 DS의 뜻은 아직 공식적으로 발표된 적은 없으나 "Dual Screen"의 줄임말로 접는 형태의 본체에 2개의 액정 화면을 가지고 있다는 의미라는 설이 유력하다. 닌텐도 간부의 발표에 따르면 "Dual Screen" 또는 "Developer's System"의 의미도 있다고 한다. 외형은 [게임 앤드 워치와](https://ko.wikipedia.org/wiki/게임_앤드_워치 "wikilink") 유사한 형태이며 아래쪽의 액정 화면은 터치 스크린으로 사용이 가능하다. 이외에도 [게임보이 어드밴스와](../Page/게임보이_어드밴스.md "wikilink") 같이 십자 키, A·B·L·R·Select·Start 버튼 외에도 마이크나 X·Y 버튼이 추가되는 등의 특징을 가지고 있다. 게임보이를 리믹스해 만든 것이다. 특히 두 개의 화면과 터치 스크린 및 터치 펜 인터페이스를 적극 활용한, 단순한 키 입력류의 게임에서 벗어나 누구나 쉽게 즐길 수 있다. [Wii U에서](../Page/Wii_U.md "wikilink") 버추얼 콘솔로 등장하였다.
 
 ## 하드웨어
 
   - **무게**: 275g
   - **크기**: 148.7 x 84.7 x 28.9mm
   - **화면**: 2개의 [TFT LCD가](https://ko.wikipedia.org/wiki/TFT_LCD "wikilink") 장착되어 있으며 [해상도](../Page/해상도.md "wikilink")는 256x192 [픽셀](https://ko.wikipedia.org/wiki/픽셀 "wikilink"), [도트피치](../Page/도트피치.md "wikilink")는 0.24mm이다. 컨트롤러와 함께 배치되어 있는 하단의 화면은 [전기저항막](../Page/터치스크린.md "wikilink") 방식의 터치스크린이다.
-  - **CPU**: 듀얼코어 [ARM 아키텍처](https://ko.wikipedia.org/wiki/ARM_아키텍처 "wikilink") 기반의 ARM946ES 주 프로세서와 ARM7TDMI 보조 프로세서가 장착되어 있다. 각각 67MHz, 33MHz로 동작한다. ARM946ES는 3D [렌더링](../Page/렌더링.md "wikilink")을 처리하며 ARM7TDMI는 2D 렌더링을 담당한다.
+  - **CPU**: 듀얼코어 [ARM 아키텍처](../Page/ARM_아키텍처.md "wikilink") 기반의 ARM946ES 주 프로세서와 ARM7TDMI 보조 프로세서가 장착되어 있다. 각각 67MHz, 33MHz로 동작한다. ARM946ES는 3D [렌더링](../Page/렌더링.md "wikilink")을 처리하며 ARM7TDMI는 2D 렌더링을 담당한다.
   - **RAM**: 4MB
   - **동작 전압**: 1.65V
   - **저장 장치**: 256KiB 플래시 메모리
@@ -35,7 +35,7 @@
 
 ### 펌웨어
 
-닌텐도 DS는 닌텐도의 자체제작 펌웨어로 구동된다. 맨 처음에는 항상 "건강과 안전에 관한 경고"가 표시된 후 주화면으로 들어가게 된다. 주화면에서 사용자는 DS 카드 게임 실행, 픽토챗 실행, DS 다운로드 플레이 실행, [게임보이 어드밴스](https://ko.wikipedia.org/wiki/게임보이_어드밴스 "wikilink") 게임 실행, 설정을 선택할 수 있다.
+닌텐도 DS는 닌텐도의 자체제작 펌웨어로 구동된다. 맨 처음에는 항상 "건강과 안전에 관한 경고"가 표시된 후 주화면으로 들어가게 된다. 주화면에서 사용자는 DS 카드 게임 실행, 픽토챗 실행, DS 다운로드 플레이 실행, [게임보이 어드밴스](../Page/게임보이_어드밴스.md "wikilink") 게임 실행, 설정을 선택할 수 있다.
 
 펌웨어는 알람기능과 약간의 커스터마이징 기능(예컨대 처음 부팅 후 자동으로 게임을 실행하는 설정을 켜놓을 때, 꽂혀있는 카드 중 무엇을 우선순위로 둘 것인지, GBA 게임 플레이 시 상/하단 화면 중 어디를 사용할 것인지), 그리고 게임 내에서 활용될 수 있는 사용자 정보(이름, 생일, 좋아하는 색 등)를 설정할 수 있다.
 
@@ -82,7 +82,7 @@
   - 더블 슬롯
       -
         닌텐도 DS용과 게임보이 어드밴스용의 게임 카트리지 슬롯이 2개 있어 연동, 확장이 가능하다.
-        닌텐도 DS로 게임보이 어드밴스용 게임을 즐기는 것도 가능하며, 2개의 액정 중 원하는 곳에 화면을 표시할 수 있다. 하지만 [게임보이 미크로처럼](https://ko.wikipedia.org/wiki/게임보이_미크로 "wikilink") 동일하게 [게임보이](https://ko.wikipedia.org/wiki/게임보이 "wikilink")와 [게임보이 칼라용](https://ko.wikipedia.org/wiki/게임보이_칼라 "wikilink") 게임은 사용할 수 없다.
+        닌텐도 DS로 게임보이 어드밴스용 게임을 즐기는 것도 가능하며, 2개의 액정 중 원하는 곳에 화면을 표시할 수 있다. 하지만 [게임보이 미크로처럼](../Page/게임보이_미크로.md "wikilink") 동일하게 [게임보이](../Page/게임보이.md "wikilink")와 [게임보이 칼라용](https://ko.wikipedia.org/wiki/게임보이_칼라 "wikilink") 게임은 사용할 수 없다.
 
 ## 소프트웨어 목록
 
@@ -93,7 +93,7 @@
   - [닌텐도 DS 라이트](../Page/닌텐도_DS_라이트.md "wikilink")
   - [닌텐도 DSi](../Page/닌텐도_DSi.md "wikilink")
   - [닌텐도 DSi XL](../Page/닌텐도_DSi_XL.md "wikilink")
-  - [Wii](https://ko.wikipedia.org/wiki/Wii "wikilink")
+  - [Wii](../Page/Wii.md "wikilink")
 
 ## 외부 링크
 

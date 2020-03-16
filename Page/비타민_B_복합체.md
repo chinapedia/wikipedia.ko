@@ -3,11 +3,11 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:B_vitamin_supplement_tablets.jpg "wikilink")
 
-**비타민 B 복합체**( - 複合體, ) 또는 **비타민 B군**( - 群)은 [세포](https://ko.wikipedia.org/wiki/세포 "wikilink") 대사에서 중요한 역할을 수행하는 수용성 비타민들이다. 비타민 B는 한때 단일한 비타민으로 알려졌었으나, 이 후의 연구에서 비타민 B군은 같은 음식에서 종종 공존하지만 화학적으로 구별되는 비타민들이라는 것이 밝혀졌다. 일반적으로 보충제는 **비타민 B 복합체**(vitamin B complex)라고 불리는 8개 비타민 모두를 포함하고 있다. 개별적인 비타민 B 보충제는 각 비타민의 구체적인 이름으로 불린다.(예: B<sub>1</sub>, B<sub>2</sub>, B<sub>3</sub> 등)
+**비타민 B 복합체**( - 複合體, ) 또는 **비타민 B군**( - 群)은 [세포](../Page/세포.md "wikilink") 대사에서 중요한 역할을 수행하는 수용성 비타민들이다. 비타민 B는 한때 단일한 비타민으로 알려졌었으나, 이 후의 연구에서 비타민 B군은 같은 음식에서 종종 공존하지만 화학적으로 구별되는 비타민들이라는 것이 밝혀졌다. 일반적으로 보충제는 **비타민 B 복합체**(vitamin B complex)라고 불리는 8개 비타민 모두를 포함하고 있다. 개별적인 비타민 B 보충제는 각 비타민의 구체적인 이름으로 불린다.(예: B<sub>1</sub>, B<sub>2</sub>, B<sub>3</sub> 등)
 
 ## 비타민 B의 목록
 
-  - **비타민 B<sub>1</sub>** ([티아민](https://ko.wikipedia.org/wiki/티아민 "wikilink"))
+  - **비타민 B<sub>1</sub>** ([티아민](../Page/티아민.md "wikilink"))
   - **비타민 B<sub>2</sub>** ([리보플래빈](https://ko.wikipedia.org/wiki/리보플래빈 "wikilink"))
   - **비타민 B<sub>3</sub>** ([나이아신](https://ko.wikipedia.org/wiki/나이아신 "wikilink"), [니코틴아마이드](https://ko.wikipedia.org/wiki/니코틴아마이드 "wikilink"))
   - **비타민 B<sub>5</sub>** ([판토텐산](../Page/판토텐산.md "wikilink"))

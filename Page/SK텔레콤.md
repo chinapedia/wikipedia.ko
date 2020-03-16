@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SK](https://ko.wikipedia.org/wiki/SK).
 
 
-**SK텔레콤 주식회사**(, )는 대한민국의 이동통신 서비스 업체이다. 대한민국 이동통신 가입자 점유율 약 50%를 기록하며 현재까지도 이동통신 시장 점유율 1위를 잠식하고 있는 선두 업체이다.\[1\] 본사는 [서울특별시](../Page/서울특별시.md "wikilink") [중구](../Page/중구_\(서울특별시\).md "wikilink") [을지로](https://ko.wikipedia.org/wiki/을지로 "wikilink") 65 (을지로2가)에 있다.
+**SK텔레콤 주식회사**(, )는 대한민국의 이동통신 서비스 업체이다. 대한민국 이동통신 가입자 점유율 약 50%를 기록하며 현재까지도 이동통신 시장 점유율 1위를 잠식하고 있는 선두 업체이다.\[1\] 본사는 [서울특별시](../Page/서울특별시.md "wikilink") [중구](../Page/중구_\(서울특별시\).md "wikilink") [을지로](../Page/을지로.md "wikilink") 65 (을지로2가)에 있다.
 
 ## 연혁
 
@@ -39,10 +39,10 @@ SK텔레콤은 2.1GHz대역 60MHz폭에서 [3G](https://ko.wikipedia.org/wiki/3G
   - TTL
   - 팅(Ting)
   - T Membership(Leaders Club, 그녀들의 T)
-  - [네이트](https://ko.wikipedia.org/wiki/네이트 "wikilink")(NATE)
+  - [네이트](../Page/네이트.md "wikilink")(NATE)
   - [T map](../Page/티맵.md "wikilink")
   - 웹서핑([WIPI](https://ko.wikipedia.org/wiki/WIPI "wikilink"), [WM](https://ko.wikipedia.org/wiki/윈도_모바일 "wikilink"), [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") 전용 [웹 브라우저](../Page/웹_브라우저.md "wikilink"))
-  - 모바일 [싸이월드](https://ko.wikipedia.org/wiki/싸이월드 "wikilink")
+  - 모바일 [싸이월드](../Page/싸이월드.md "wikilink")
   - [컬러링](https://ko.wikipedia.org/wiki/컬러링 "wikilink") / 레터링 (음성 및 영상)
   - 이미지콜 (발신자 이미지 표시)
   - T Tourplus
@@ -99,12 +99,12 @@ SK텔레콤용 피처폰은 지상파DMB 시청중 휴대폰 메모리 잔여량
 
 ### 평창올림픽 KT중계망 훼손
 
-SK텔레콤이 [2018년 동계 올림픽에](../Page/2018년_동계_올림픽.md "wikilink") 쓰기 위해 올림픽 주관통신사인 [KT](../Page/KT.md "wikilink")가 설치해 둔 통신시설을 무단으로 훼손하고 자사의 광케이블 총 6km를 설치한 사실이 밝혀졌다. SK텔레콤은 [국제 올림픽 위원회와](https://ko.wikipedia.org/wiki/국제_올림픽_위원회 "wikilink") 협의를 거쳤다고 주장했으나 [국제 올림픽 위원회측은](https://ko.wikipedia.org/wiki/국제_올림픽_위원회 "wikilink") SK텔레콤과 협의 없었다며 부인했다. 또, 훼손 사실을 알게 된 [국제 올림픽 위원회는](https://ko.wikipedia.org/wiki/국제_올림픽_위원회 "wikilink") SK텔레콤에 철거를 요구했으나 계속 미뤄왔다고 [국제 올림픽 위원회는](https://ko.wikipedia.org/wiki/국제_올림픽_위원회 "wikilink") 밝혔다. 한편 SK텔레콤은 [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [12월 4일](../Page/12월_4일.md "wikilink") 오후에 철거를 하였고 원상복구되었다.\[15\]
+SK텔레콤이 [2018년 동계 올림픽에](../Page/2018년_동계_올림픽.md "wikilink") 쓰기 위해 올림픽 주관통신사인 [KT](../Page/KT.md "wikilink")가 설치해 둔 통신시설을 무단으로 훼손하고 자사의 광케이블 총 6km를 설치한 사실이 밝혀졌다. SK텔레콤은 [국제 올림픽 위원회와](../Page/국제_올림픽_위원회.md "wikilink") 협의를 거쳤다고 주장했으나 [국제 올림픽 위원회측은](../Page/국제_올림픽_위원회.md "wikilink") SK텔레콤과 협의 없었다며 부인했다. 또, 훼손 사실을 알게 된 [국제 올림픽 위원회는](../Page/국제_올림픽_위원회.md "wikilink") SK텔레콤에 철거를 요구했으나 계속 미뤄왔다고 [국제 올림픽 위원회는](../Page/국제_올림픽_위원회.md "wikilink") 밝혔다. 한편 SK텔레콤은 [2017년](../Page/2017년.md "wikilink") [12월 4일](../Page/12월_4일.md "wikilink") 오후에 철거를 하였고 원상복구되었다.\[15\]
 
 ## 스포츠단
 
   - [SK스포츠단](https://ko.wikipedia.org/wiki/SK스포츠단 "wikilink")
-      - [SK 와이번스](https://ko.wikipedia.org/wiki/SK_와이번스 "wikilink"): SK텔레콤이 지배기업으로 있는 [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink") 연고의 프로야구단
+      - [SK 와이번스](../Page/SK_와이번스.md "wikilink"): SK텔레콤이 지배기업으로 있는 [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink") 연고의 프로야구단
       - [서울 SK 나이츠](../Page/서울_SK_나이츠.md "wikilink"): SK텔레콤이 모기업인 [서울특별시](../Page/서울특별시.md "wikilink") 연고의 프로농구단
       - [SK텔레콤 T1](https://ko.wikipedia.org/wiki/SK텔레콤_T1 "wikilink"): SK텔레콤이 창단한 [스타크래프트Ⅱ](https://ko.wikipedia.org/wiki/스타크래프트Ⅱ "wikilink") 및 [리그오브레전드](https://ko.wikipedia.org/wiki/리그오브레전드 "wikilink") 프로게임단
 

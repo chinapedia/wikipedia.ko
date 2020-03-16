@@ -161,13 +161,13 @@ JR 총연</p></td>
 
 ## JR 그룹의 형태
 
-1987년의 JR 그룹 발족 당시에는 국철의 조직을 계승한 "[일본국유철도 청산사업단](https://ko.wikipedia.org/wiki/일본국유철도_청산사업단 "wikilink")"이 JR그룹 각 회사의 모든 [주식](https://ko.wikipedia.org/wiki/주식 "wikilink")을 보유했다. 청산사업단은 [1998년](../Page/1998년.md "wikilink") 10월22일에 해체되었고, 그 이후는 "일본철도건설공단 국철청산사업본부"를 거쳐 "[독립행정법인](https://ko.wikipedia.org/wiki/독립행정법인 "wikilink") 철도건설 및 운수시설 정비지원기구"가 주식을 보유하고 있다.
+1987년의 JR 그룹 발족 당시에는 국철의 조직을 계승한 "[일본국유철도 청산사업단](https://ko.wikipedia.org/wiki/일본국유철도_청산사업단 "wikilink")"이 JR그룹 각 회사의 모든 [주식](../Page/주식.md "wikilink")을 보유했다. 청산사업단은 [1998년](../Page/1998년.md "wikilink") 10월22일에 해체되었고, 그 이후는 "일본철도건설공단 국철청산사업본부"를 거쳐 "[독립행정법인](https://ko.wikipedia.org/wiki/독립행정법인 "wikilink") 철도건설 및 운수시설 정비지원기구"가 주식을 보유하고 있다.
 
 그 의미로 JR 그룹은 완전한 민간 기업이 아니었으나 [혼슈](../Page/혼슈.md "wikilink")의 세 회사(JR 동일본, JR 도카이, JR 서일본)의 주식은 1990년대에 들어 차례차례 매각이 이루어졌으며, [2002년](../Page/2002년.md "wikilink") 6월에는 JR 동일본, [2004년](../Page/2004년.md "wikilink") 3월에는 JR 서일본, [2006년](../Page/2006년.md "wikilink") 4월에는 JR 도카이의 모든 국유 주식이 민간에 매각되어 상장된 혼슈 3사의 완전한 민영화가 이루어졌다.
 
-한편 나머지 2도 회사(JR 홋카이도, JR 시코쿠)와 JR 화물의 3사는 정부가 전 주식을 보유하고 있는 특수법인으로서, 정부에서 세제 지원과 손실 보전 등을 받고 있는 등 경영 상태가 좋지 않으므로 현재는 상장이 되지 않은 상태이다. 한편, 2011년 [큐슈 신칸센](https://ko.wikipedia.org/wiki/큐슈_신칸센 "wikilink") 개업에 의해 수익이 흑자로 돌아선 JR 큐슈가 [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [10월 25일에](../Page/10월_25일.md "wikilink") [도쿄 증권거래소](../Page/도쿄_증권거래소.md "wikilink") 1부와 동년 10월 26일 [후쿠오카 증권거래소에](https://ko.wikipedia.org/wiki/후쿠오카_증권거래소 "wikilink") 상장되었으며, 이에 따라 현재 지분의 민영화가 이루어지고 있다.
+한편 나머지 2도 회사(JR 홋카이도, JR 시코쿠)와 JR 화물의 3사는 정부가 전 주식을 보유하고 있는 특수법인으로서, 정부에서 세제 지원과 손실 보전 등을 받고 있는 등 경영 상태가 좋지 않으므로 현재는 상장이 되지 않은 상태이다. 한편, 2011년 [큐슈 신칸센](https://ko.wikipedia.org/wiki/큐슈_신칸센 "wikilink") 개업에 의해 수익이 흑자로 돌아선 JR 큐슈가 [2016년](../Page/2016년.md "wikilink") [10월 25일에](../Page/10월_25일.md "wikilink") [도쿄 증권거래소](../Page/도쿄_증권거래소.md "wikilink") 1부와 동년 10월 26일 [후쿠오카 증권거래소에](https://ko.wikipedia.org/wiki/후쿠오카_증권거래소 "wikilink") 상장되었으며, 이에 따라 현재 지분의 민영화가 이루어지고 있다.
 
-이 밖에 각 회사의 공동 출자로 설립된 다음의 단체가 있다. 재단법인으로서 [철도종합기술연구소](../Page/철도종합기술연구소.md "wikilink")(JR 총연)은 철도 전반에 관한 연구 기관의 역할을 수행하며, 또한 [주식회사](https://ko.wikipedia.org/wiki/주식회사 "wikilink")인 [철도정보시스템](https://ko.wikipedia.org/wiki/철도정보시스템_주식회사 "wikilink")(JR 시스템)은 JR 그룹 각 회사의 컴퓨터 시스템이나 우등 열차 승차권 등을 판매하는 "미도리노 마도구치"(녹색 창구)를 운영, 관리하고 있다.
+이 밖에 각 회사의 공동 출자로 설립된 다음의 단체가 있다. 재단법인으로서 [철도종합기술연구소](../Page/철도종합기술연구소.md "wikilink")(JR 총연)은 철도 전반에 관한 연구 기관의 역할을 수행하며, 또한 [주식회사](../Page/주식회사.md "wikilink")인 [철도정보시스템](https://ko.wikipedia.org/wiki/철도정보시스템_주식회사 "wikilink")(JR 시스템)은 JR 그룹 각 회사의 컴퓨터 시스템이나 우등 열차 승차권 등을 판매하는 "미도리노 마도구치"(녹색 창구)를 운영, 관리하고 있다.
 
   - 순수 민간 회사([상장 회사](https://ko.wikipedia.org/wiki/상장법인 "wikilink")) - [JR 동일본](https://ko.wikipedia.org/wiki/JR_동일본 "wikilink")·[JR 도카이](https://ko.wikipedia.org/wiki/JR_도카이 "wikilink")·[JR 서일본](https://ko.wikipedia.org/wiki/JR_서일본 "wikilink")·[JR 큐슈](https://ko.wikipedia.org/wiki/JR_큐슈 "wikilink")
   - [일본 철도건설·운수시설정비지원기구이](../Page/일본_철도건설·운수시설정비지원기구.md "wikilink") 전 주식을 보유하는 특수 회사 - [JR 홋카이도](https://ko.wikipedia.org/wiki/JR_홋카이도 "wikilink")·[JR 시코쿠](https://ko.wikipedia.org/wiki/JR_시코쿠 "wikilink")·[JR 화물](https://ko.wikipedia.org/wiki/JR_화물 "wikilink")

@@ -10,7 +10,7 @@ S는 활을 뜻하는 그림 문자에서 왔다.
 |                                                                                 |                                                                             |                                                                     |                                                                            |                                                                      |
 | :-----------------------------------------------------------------------------: | :-------------------------------------------------------------------------: | :-----------------------------------------------------------------: | :------------------------------------------------------------------------: | :------------------------------------------------------------------: |
 | [셈조어 문자 '활'](https://ko.wikipedia.org/wiki/파일:Proto-semiticS-01.png "wikilink") | [페니키아 문자 신](https://ko.wikipedia.org/wiki/파일:PhoenicianS-01.png "wikilink") | [64px](https://ko.wikipedia.org/wiki/파일:Sigma_uc_lc.svg "wikilink") | [에트루리아 문자 S](https://ko.wikipedia.org/wiki/파일:EtruscanS-01.png "wikilink") | [로마 문자 S](https://ko.wikipedia.org/wiki/파일:RomanS-01.png "wikilink") |
-|                                   셈조어 문자 '활'                                    |                                  페니키아 문자 신                                  |      그리스 문자 [시그마](https://ko.wikipedia.org/wiki/Σ "wikilink")       |                                 에트루리아 문자 S                                 |                               로마 문자 S                                |
+|                                   셈조어 문자 '활'                                    |                                  페니키아 문자 신                                  |                그리스 문자 [시그마](../Page/Σ.md "wikilink")                |                                 에트루리아 문자 S                                 |                               로마 문자 S                                |
 
 ## 빈도
 
@@ -29,7 +29,7 @@ S는 활을 뜻하는 그림 문자에서 왔다.
 ## 관련 글자
 
   - [신 (글자)](https://ko.wikipedia.org/wiki/신_\(글자\) "wikilink")
-  - [Σ σ, ς](https://ko.wikipedia.org/wiki/Σ "wikilink"),
+  - [Σ σ, ς](../Page/Σ.md "wikilink"),
   - [С с](https://ko.wikipedia.org/wiki/С "wikilink"),(키릴 문자)
   - [Ш ш](https://ko.wikipedia.org/wiki/Ш "wikilink"),
 

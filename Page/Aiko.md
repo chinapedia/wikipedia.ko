@@ -110,7 +110,7 @@
 
 ## 같이 보기
 
-  - [포르노그라피티](https://ko.wikipedia.org/wiki/포르노그라피티 "wikilink") - 친한 친구 사이다.
+  - [포르노그라피티](../Page/포르노그라피티.md "wikilink") - 친한 친구 사이다.
   - [고쿠분 다이치](https://ko.wikipedia.org/wiki/고쿠분_다이치 "wikilink") - 한때 연인 사이였다.
 
 ## 각주
