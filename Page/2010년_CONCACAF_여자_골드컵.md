@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [2010 CONCACAF  ](https://ko.wikipedia.org/wiki/2010_CONCACAF__).
 
 
-**2010년 CONCACAF 여자 골드컵**(2010 CONCACAF Women's Gold Cup)은 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [10월 28일부터](https://ko.wikipedia.org/wiki/10월_28일 "wikilink") [11월 8일까지](https://ko.wikipedia.org/wiki/11월_8일 "wikilink") [멕시코](https://ko.wikipedia.org/wiki/멕시코 "wikilink")에서 열린 8번째 [CONCACAF 여자 축구 선수권 대회이다](https://ko.wikipedia.org/wiki/CONCACAF_여자_축구_선수권_대회 "wikilink").
+**2010년 CONCACAF 여자 골드컵**(2010 CONCACAF Women's Gold Cup)은 [2010년](../Page/2010년.md "wikilink") [10월 28일부터](../Page/10월_28일.md "wikilink") [11월 8일까지](../Page/11월_8일.md "wikilink") [멕시코](../Page/멕시코.md "wikilink")에서 열린 8번째 [CONCACAF 여자 축구 선수권 대회이다](../Page/CONCACAF_여자_축구_선수권_대회.md "wikilink").
 
-이 대회는 [2011년 FIFA 여자 월드컵의](https://ko.wikipedia.org/wiki/2011년_FIFA_여자_월드컵 "wikilink") 북중미카리브 지역 예선을 겸하였다. 우승을 차지한 [캐나다](https://ko.wikipedia.org/wiki/캐나다_여자_축구_국가대표팀 "wikilink"), 준우승을 차지한 [멕시코가](https://ko.wikipedia.org/wiki/멕시코_여자_축구_국가대표팀 "wikilink") FIFA 여자 월드컵 본선에 직행했다. 3위를 차지한 [미국은](https://ko.wikipedia.org/wiki/미국_여자_축구_국가대표팀 "wikilink") [2011년 FIFA 여자 월드컵 유럽 지역 예선](https://ko.wikipedia.org/wiki/2011년_FIFA_여자_월드컵_유럽_지역_예선 "wikilink") 플레이오프 패자부활전 승리 팀과의 대륙간 플레이오프에 진출했다.
+이 대회는 [2011년 FIFA 여자 월드컵의](https://ko.wikipedia.org/wiki/2011년_FIFA_여자_월드컵 "wikilink") 북중미카리브 지역 예선을 겸하였다. 우승을 차지한 [캐나다](../Page/캐나다_여자_축구_국가대표팀.md "wikilink"), 준우승을 차지한 [멕시코가](../Page/멕시코_여자_축구_국가대표팀.md "wikilink") FIFA 여자 월드컵 본선에 직행했다. 3위를 차지한 [미국은](../Page/미국_여자_축구_국가대표팀.md "wikilink") [2011년 FIFA 여자 월드컵 유럽 지역 예선](../Page/2011년_FIFA_여자_월드컵_유럽_지역_예선.md "wikilink") 플레이오프 패자부활전 승리 팀과의 대륙간 플레이오프에 진출했다.
 
 ## 참가 팀
 
@@ -207,7 +207,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Canada.svg" title="wikilink">100px</a><br />
-<strong><a href="https://ko.wikipedia.org/wiki/캐나다_여자_축구_국가대표팀" title="wikilink">캐나다</a></strong><br />
+<strong><a href="../Page/캐나다_여자_축구_국가대표팀.md" title="wikilink">캐나다</a></strong><br />
 <strong>2번째 우승</strong></p></td>
 </tr>
 </tbody>

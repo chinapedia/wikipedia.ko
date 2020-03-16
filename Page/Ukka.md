@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Ukka](https://ko.wikipedia.org/wiki/Ukka).
 
 
-**ukka**(우카)는 [스타더스트 프로모션에](https://ko.wikipedia.org/wiki/스타더스트_프로모션 "wikilink") 소속된 일본의 [여성](https://ko.wikipedia.org/wiki/여성 "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") 그룹이다. 원래 그룹명은 **사쿠라 에비스**(). [모모이로 클로버 Z](https://ko.wikipedia.org/wiki/모모이로_클로버_Z "wikilink") 등의 그룹과 함께 [STARDUST PLANET](https://ko.wikipedia.org/wiki/스타더스트_프로모션#음악_아티스트 "wikilink")(통칭 스타프라)를 구성한다.
+**ukka**(우카)는 [스타더스트 프로모션에](../Page/스타더스트_프로모션.md "wikilink") 소속된 일본의 [여성](../Page/여성.md "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") 그룹이다. 원래 그룹명은 **사쿠라 에비스**(). [모모이로 클로버 Z](https://ko.wikipedia.org/wiki/모모이로_클로버_Z "wikilink") 등의 그룹과 함께 [STARDUST PLANET](https://ko.wikipedia.org/wiki/스타더스트_프로모션#음악_아티스트 "wikilink")(통칭 스타프라)를 구성한다.
 
 ## 개요
 
-  - [시리츠에비스추가쿠](https://ko.wikipedia.org/wiki/시리츠에비스추가쿠 "wikilink")의 연구생 유닛으로 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink")에 결성.
+  - [시리츠에비스추가쿠](../Page/시리츠에비스추가쿠.md "wikilink")의 연구생 유닛으로 [2015년](../Page/2015년.md "wikilink")에 결성.
   - 이후, 시리츠에비스추가쿠 처제적 존재로서 활동. 가수 활동 외에 배우 활동이나 모델업 등 다양한 활동을 하는 탤런트가 있는 모체가 되자 그룹 · 집합체로서 자리 매김했다. 향후, 멤버가 증가할 가능성도 언급되고 있다.
   - 2019년 11월 16일의「사쿠라 에비스 1st 콘서트 "ALL OUT"」에서 그룹명을「ukka(우카)」로 개명했다.
 
@@ -24,7 +24,7 @@
 
 #### 1st CD-R
 
-[2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [7월 30일](https://ko.wikipedia.org/wiki/7월_30일 "wikilink"), 3rd 원맨 라이브에서 출시. 그 후에도, 라이브 · 이벤트 회장만 판매 중.
+[2016년](../Page/2016년.md "wikilink") [7월 30일](../Page/7월_30일.md "wikilink"), 3rd 원맨 라이브에서 출시. 그 후에도, 라이브 · 이벤트 회장만 판매 중.
 
   - 僕らのハジマリ
   - はっぴースキップ☆ジャンプ
@@ -32,7 +32,7 @@
 
 #### 2nd CD-R
 
-2016년 [10월 30일](https://ko.wikipedia.org/wiki/10월_30일 "wikilink"), 4th 원맨 라이브에서 출시. 그 후에도, 라이브 · 이벤트 회장만 판매 중.
+2016년 [10월 30일](../Page/10월_30일.md "wikilink"), 4th 원맨 라이브에서 출시. 그 후에도, 라이브 · 이벤트 회장만 판매 중.
 
   - 初恋模様
   - オスグッド・コミュニケーション
@@ -40,7 +40,7 @@
 
 #### 3rd CD-R
 
-[2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [4월 15일](https://ko.wikipedia.org/wiki/4월_15일 "wikilink"), 7th 원맨 라이브에서 출시. 그 후에도, 라이브 · 이벤트 회장만 판매 중.
+[2017년](../Page/2017년.md "wikilink") [4월 15일](../Page/4월_15일.md "wikilink"), 7th 원맨 라이브에서 출시. 그 후에도, 라이브 · 이벤트 회장만 판매 중.
 
   - お年頃distance
   - ボクエール
@@ -48,14 +48,14 @@
 
 #### 1st 싱글
 
-  - わたしロマンス (2017년 [9월 2일](https://ko.wikipedia.org/wiki/9월_2일 "wikilink"))
+  - わたしロマンス (2017년 [9월 2일](../Page/9월_2일.md "wikilink"))
       - わたしロマンス
       - タリルリラ
       - 360°シューティングガール
 
 #### 1st 앨범
 
-  - sakuraebis ([2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [3월 21일](https://ko.wikipedia.org/wiki/3월_21일 "wikilink"))
+  - sakuraebis ([2018년](../Page/2018년.md "wikilink") [3월 21일](../Page/3월_21일.md "wikilink"))
       - 僕らのハジマリ
       - わたしロマンス
       - 急なロマンティック
@@ -71,28 +71,28 @@
 
 #### 2nd 싱글
 
-  - Summer Magic (2018년 [10월 14일](https://ko.wikipedia.org/wiki/10월_14일 "wikilink"))
+  - Summer Magic (2018년 [10월 14일](../Page/10월_14일.md "wikilink"))
       - リンドバーグ
       - 灼熱とアイスクリーム
       - まわるまわるまわる
 
 #### 3rd 싱글
 
-  - Autumn Moon (2018년 [12월 28일](https://ko.wikipedia.org/wiki/12월_28일 "wikilink"))
+  - Autumn Moon (2018년 [12월 28일](../Page/12월_28일.md "wikilink"))
       - Magik Melody
       - おねがいよ
       - グラジェネ
 
 #### 4th 싱글
 
-  - Winter Sleep ([2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [3월 30일](https://ko.wikipedia.org/wiki/3월_30일 "wikilink"))
+  - Winter Sleep ([2019년](../Page/2019년.md "wikilink") [3월 30일](../Page/3월_30일.md "wikilink"))
       - キラキラ
       - 帰れない\!
       - 214
 
 #### 2nd 앨범
 
-  - octave (2019년 [8월 21일](https://ko.wikipedia.org/wiki/8월_21일 "wikilink"))
+  - octave (2019년 [8월 21일](../Page/8월_21일.md "wikilink"))
       - 帰れない\!
       - 214
       - Magik Melody
@@ -109,34 +109,34 @@
 
 #### 착신 싱글
 
-  - リンドバーグ (2018년 [7월 11일](https://ko.wikipedia.org/wiki/7월_11일 "wikilink"))
-  - 灼熱とアイスクリーム (2018년 [8월 31일](https://ko.wikipedia.org/wiki/8월_31일 "wikilink"))
-  - まわるまわるまわる (2018년 [9월 5일](https://ko.wikipedia.org/wiki/9월_5일 "wikilink"))
-  - Magik Melody (2018년 [9월 30일](https://ko.wikipedia.org/wiki/9월_30일 "wikilink"))
-  - おねがいよ (2018년 [10월 26일](https://ko.wikipedia.org/wiki/10월_26일 "wikilink"))
-  - キラキラ (2018년 [12월 17일](https://ko.wikipedia.org/wiki/12월_17일 "wikilink"))
-  - 帰れない\! (2019년 [1월 31일](https://ko.wikipedia.org/wiki/1월_31일 "wikilink"))
-  - 214 (2019년 [2월 27일](https://ko.wikipedia.org/wiki/2월_27일 "wikilink"))
-  - それは月曜日の9時のように (2019년 [2월 27일](https://ko.wikipedia.org/wiki/2월_27일 "wikilink"))
-  - ねぇ、ローファー。 (2019년 [4월 26일](https://ko.wikipedia.org/wiki/4월_26일 "wikilink"))
-  - さいしょのさいしょ (2019년 [5월 31일](https://ko.wikipedia.org/wiki/5월_31일 "wikilink"))
+  - リンドバーグ (2018년 [7월 11일](../Page/7월_11일.md "wikilink"))
+  - 灼熱とアイスクリーム (2018년 [8월 31일](../Page/8월_31일.md "wikilink"))
+  - まわるまわるまわる (2018년 [9월 5일](../Page/9월_5일.md "wikilink"))
+  - Magik Melody (2018년 [9월 30일](../Page/9월_30일.md "wikilink"))
+  - おねがいよ (2018년 [10월 26일](../Page/10월_26일.md "wikilink"))
+  - キラキラ (2018년 [12월 17일](../Page/12월_17일.md "wikilink"))
+  - 帰れない\! (2019년 [1월 31일](../Page/1월_31일.md "wikilink"))
+  - 214 (2019년 [2월 27일](../Page/2월_27일.md "wikilink"))
+  - それは月曜日の9時のように (2019년 [2월 27일](../Page/2월_27일.md "wikilink"))
+  - ねぇ、ローファー。 (2019년 [4월 26일](../Page/4월_26일.md "wikilink"))
+  - さいしょのさいしょ (2019년 [5월 31일](../Page/5월_31일.md "wikilink"))
 
 ### 콜라보
 
-  - 夢幻歌劇 - 「えびとう産」로서 [이키나리 토호쿠산과](https://ko.wikipedia.org/wiki/이키나리_토호쿠산 "wikilink") 콜라보.
+  - 夢幻歌劇 - 「えびとう産」로서 [이키나리 토호쿠산과](../Page/이키나리_토호쿠산.md "wikilink") 콜라보.
 
 ## 관련 항목
 
   - [모모이로 클로버 Z](https://ko.wikipedia.org/wiki/모모이로_클로버_Z "wikilink")
-  - [시리츠에비스추가쿠](https://ko.wikipedia.org/wiki/시리츠에비스추가쿠 "wikilink")
-  - [TEAM SHACHI](https://ko.wikipedia.org/wiki/TEAM_SHACHI "wikilink")
+  - [시리츠에비스추가쿠](../Page/시리츠에비스추가쿠.md "wikilink")
+  - [TEAM SHACHI](../Page/TEAM_SHACHI.md "wikilink")
   - [다코야키 레인보우](../Page/다코야키_레인보우.md "wikilink")
   - [밧텐쇼죠타이](../Page/밧텐쇼죠타이.md "wikilink")
   - [도키메키 센덴부](../Page/도키메키_센덴부.md "wikilink")
-  - [하치미츠 로켓](https://ko.wikipedia.org/wiki/하치미츠_로켓 "wikilink")
-  - [아메후라시](https://ko.wikipedia.org/wiki/아메후라시 "wikilink")
-  - [이키나리 토호쿠산](https://ko.wikipedia.org/wiki/이키나리_토호쿠산 "wikilink")
-  - [CROWN POP](https://ko.wikipedia.org/wiki/CROWN_POP "wikilink")
+  - [하치미츠 로켓](../Page/하치미츠_로켓.md "wikilink")
+  - [아메후라시](../Page/아메후라시.md "wikilink")
+  - [이키나리 토호쿠산](../Page/이키나리_토호쿠산.md "wikilink")
+  - [CROWN POP](../Page/CROWN_POP.md "wikilink")
   - [B.O.L.T](https://ko.wikipedia.org/wiki/B.O.L.T "wikilink")
 
 ## 외부 링크
@@ -149,7 +149,7 @@
 
   -
 
-  - \[<https://www.youtube.com/channel/UCkmPwI_Q01rmLIOUW7n2XUQ>? ukkaチャンネル\] - [유튜브](https://ko.wikipedia.org/wiki/유튜브 "wikilink")
+  - \[<https://www.youtube.com/channel/UCkmPwI_Q01rmLIOUW7n2XUQ>? ukkaチャンネル\] - [유튜브](../Page/유튜브.md "wikilink")
 
   - [무료 메일 매거진 「사쿠라 에비스 통신」](http://www.stardust-member.jp/sakuraebi/entry.asp)
 

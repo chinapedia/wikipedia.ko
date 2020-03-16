@@ -14,16 +14,16 @@
 
 ## 대회결과
 
-| 회수 | 연도   | 우승                                                               | 준우승                                                                | 3위                                                                 |
-| -- | ---- | ---------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------ |
-| 1  | 2013 | [스웨](../Page/스웨.md "wikilink") 九단                                | [구리](https://ko.wikipedia.org/wiki/구리_\(바둑_기사\) "wikilink") 九단     |                                                                    |
-| 2  | 2014 | [스웨](../Page/스웨.md "wikilink") 九단                                | [무라카와 다이스케](https://ko.wikipedia.org/wiki/무라카와_다이스케 "wikilink") 七단 | [이세돌](https://ko.wikipedia.org/wiki/이세돌 "wikilink") 九단             |
-| 3  | 2015 | [퉈자시](../Page/퉈자시.md "wikilink") 九단                              | [김지석](https://ko.wikipedia.org/wiki/김지석_\(바둑_기사\) "wikilink") 九단   | [무라카와 다이스케](https://ko.wikipedia.org/wiki/무라카와_다이스케 "wikilink") 七단 |
-| 4  | 2016 | [커제](../Page/커제.md "wikilink") 九단                                | [이세돌](https://ko.wikipedia.org/wiki/이세돌 "wikilink") 九단             | [이치리키 료](../Page/이치리키_료.md "wikilink") 七단                          |
-| 5  | 2017 | [커제](../Page/커제.md "wikilink") 九단                                | [이야마 유타](../Page/이야마_유타.md "wikilink") 九단                          | [박정환](https://ko.wikipedia.org/wiki/박정환_\(바둑_기사\) "wikilink") 九단   |
-| 6  | 2018 | [박정환](https://ko.wikipedia.org/wiki/박정환_\(바둑_기사\) "wikilink") 九단 | [커제](../Page/커제.md "wikilink") 九단                                  | [이치리키 료](../Page/이치리키_료.md "wikilink") 八단                          |
-| 7  | 2019 | [박정환](https://ko.wikipedia.org/wiki/박정환_\(바둑_기사\) "wikilink") 九단 | [커제](../Page/커제.md "wikilink") 九단                                  | [시바노 도라마루](https://ko.wikipedia.org/wiki/시바노_도라마루 "wikilink") 七단   |
-| 8  | 2020 | [박정환](https://ko.wikipedia.org/wiki/박정환_\(바둑_기사\) "wikilink") 九단 | [커제](../Page/커제.md "wikilink") 九단                                  | [시바노 도라마루](https://ko.wikipedia.org/wiki/시바노_도라마루 "wikilink") 九단   |
-|    |      |                                                                  |                                                                    |                                                                    |
+| 회수 | 연도   | 우승                                            | 준우승                                                                | 3위                                                                 |
+| -- | ---- | --------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------ |
+| 1  | 2013 | [스웨](../Page/스웨.md "wikilink") 九단             | [구리](../Page/구리_\(바둑_기사\).md "wikilink") 九단                        |                                                                    |
+| 2  | 2014 | [스웨](../Page/스웨.md "wikilink") 九단             | [무라카와 다이스케](https://ko.wikipedia.org/wiki/무라카와_다이스케 "wikilink") 七단 | [이세돌](../Page/이세돌.md "wikilink") 九단                                |
+| 3  | 2015 | [퉈자시](../Page/퉈자시.md "wikilink") 九단           | [김지석](../Page/김지석_\(바둑_기사\).md "wikilink") 九단                      | [무라카와 다이스케](https://ko.wikipedia.org/wiki/무라카와_다이스케 "wikilink") 七단 |
+| 4  | 2016 | [커제](../Page/커제.md "wikilink") 九단             | [이세돌](../Page/이세돌.md "wikilink") 九단                                | [이치리키 료](../Page/이치리키_료.md "wikilink") 七단                          |
+| 5  | 2017 | [커제](../Page/커제.md "wikilink") 九단             | [이야마 유타](../Page/이야마_유타.md "wikilink") 九단                          | [박정환](../Page/박정환_\(바둑_기사\).md "wikilink") 九단                      |
+| 6  | 2018 | [박정환](../Page/박정환_\(바둑_기사\).md "wikilink") 九단 | [커제](../Page/커제.md "wikilink") 九단                                  | [이치리키 료](../Page/이치리키_료.md "wikilink") 八단                          |
+| 7  | 2019 | [박정환](../Page/박정환_\(바둑_기사\).md "wikilink") 九단 | [커제](../Page/커제.md "wikilink") 九단                                  | [시바노 도라마루](../Page/시바노_도라마루.md "wikilink") 七단                      |
+| 8  | 2020 | [박정환](../Page/박정환_\(바둑_기사\).md "wikilink") 九단 | [커제](../Page/커제.md "wikilink") 九단                                  | [시바노 도라마루](../Page/시바노_도라마루.md "wikilink") 九단                      |
+|    |      |                                               |                                                                    |                                                                    |
 
 [분류:2014년 설립](https://ko.wikipedia.org/wiki/분류:2014년_설립 "wikilink") [분류:바둑 국제 기전](https://ko.wikipedia.org/wiki/분류:바둑_국제_기전 "wikilink")

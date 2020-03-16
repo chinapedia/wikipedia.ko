@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [J.Lo](https://ko.wikipedia.org/wiki/J.Lo).
 
 
-《**J.Lo**》는 [제니퍼 로페즈의](https://ko.wikipedia.org/wiki/제니퍼_로페즈 "wikilink") 두번째 정규 음반으로, 2001년 1월에 발매되었다.
+《**J.Lo**》는 [제니퍼 로페즈의](../Page/제니퍼_로페즈.md "wikilink") 두번째 정규 음반으로, 2001년 1월에 발매되었다.
 
 ## 수록곡
 

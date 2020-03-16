@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [OFC  ](https://ko.wikipedia.org/wiki/OFC__).
 
 
-**OFC 여자 네이션스컵**()는 [오세아니아 축구 연맹](https://ko.wikipedia.org/wiki/오세아니아_축구_연맹 "wikilink")(OFC)의 주관으로 개최되는 [여자 축구](https://ko.wikipedia.org/wiki/여자_축구 "wikilink") 국가 대항전이다. 과거 2010년까지 **OFC 여자 축구 선수권 대회**()로 불렸다. 이 대회는 [FIFA 여자 월드컵의](https://ko.wikipedia.org/wiki/FIFA_여자_월드컵 "wikilink") 오세아니아 지역 예선을 겸한다.
+**OFC 여자 네이션스컵**()는 [오세아니아 축구 연맹](../Page/오세아니아_축구_연맹.md "wikilink")(OFC)의 주관으로 개최되는 [여자 축구](../Page/여자_축구.md "wikilink") 국가 대항전이다. 과거 2010년까지 **OFC 여자 축구 선수권 대회**()로 불렸다. 이 대회는 [FIFA 여자 월드컵의](../Page/FIFA_여자_월드컵.md "wikilink") 오세아니아 지역 예선을 겸한다.
 
 ## 역대 대회
 
@@ -18,18 +18,18 @@
 <td style="text-align: center;"><p><strong>4위</strong></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/1983년" title="wikilink">1983년</a><br />
+<td style="text-align: center;"><p><a href="../Page/1983년.md" title="wikilink">1983년</a><br />
 <em><a href="../Page/1983년_OFC_여자_축구_선수권_대회.md" title="wikilink">자세히</a></em></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong></strong></p></td>
-<td style="text-align: center;"><p><strong>3 : 2</strong> (<a href="https://ko.wikipedia.org/wiki/연장전" title="wikilink">연장</a>)</p></td>
+<td style="text-align: center;"><p><strong>3 : 2</strong> (<a href="../Page/연장전.md" title="wikilink">연장</a>)</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p>(라운드 로빈)</p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/1986년" title="wikilink">1986년</a><br />
+<td style="text-align: center;"><p><a href="../Page/1986년.md" title="wikilink">1986년</a><br />
 <em><a href="../Page/1986년_OFC_여자_축구_선수권_대회.md" title="wikilink">자세히</a></em></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong></strong></p></td>
@@ -37,11 +37,11 @@
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>0 : 0</strong><br />
-(<a href="https://ko.wikipedia.org/wiki/승부차기" title="wikilink">승부차기</a> 3 : 1)</p></td>
+(<a href="../Page/승부차기.md" title="wikilink">승부차기</a> 3 : 1)</p></td>
 <td style="text-align: center;"><p>B팀</p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/1989년" title="wikilink">1989년</a><br />
+<td style="text-align: center;"><p><a href="../Page/1989년.md" title="wikilink">1989년</a><br />
 <em><a href="../Page/1989년_OFC_여자_축구_선수권_대회.md" title="wikilink">자세히</a></em></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong></strong></p></td>
@@ -52,7 +52,7 @@
 <td style="text-align: center;"><p>B팀</p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/1991년" title="wikilink">1991년</a><br />
+<td style="text-align: center;"><p><a href="../Page/1991년.md" title="wikilink">1991년</a><br />
 <em><a href="../Page/1991년_OFC_여자_축구_선수권_대회.md" title="wikilink">자세히</a></em></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong></strong></p></td>
@@ -63,7 +63,7 @@
 <td style="text-align: center;"><p>(3개 팀이 참가)</p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/1994년" title="wikilink">1994년</a><br />
+<td style="text-align: center;"><p><a href="../Page/1994년.md" title="wikilink">1994년</a><br />
 <em><a href="../Page/1994년_OFC_여자_축구_선수권_대회.md" title="wikilink">자세히</a></em></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong></strong></p></td>
@@ -74,7 +74,7 @@
 <td style="text-align: center;"><p>(3개 팀이 참가)</p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/1998년" title="wikilink">1998년</a><br />
+<td style="text-align: center;"><p><a href="../Page/1998년.md" title="wikilink">1998년</a><br />
 <em><a href="../Page/1998년_OFC_여자_축구_선수권_대회.md" title="wikilink">자세히</a></em></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong></strong></p></td>
@@ -85,7 +85,7 @@
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/2003년" title="wikilink">2003년</a><br />
+<td style="text-align: center;"><p><a href="../Page/2003년.md" title="wikilink">2003년</a><br />
 <em><a href="../Page/2003년_OFC_여자_축구_선수권_대회.md" title="wikilink">자세히</a></em></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong></strong></p></td>
@@ -96,7 +96,7 @@
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/2007년" title="wikilink">2007년</a><br />
+<td style="text-align: center;"><p><a href="../Page/2007년.md" title="wikilink">2007년</a><br />
 <em><a href="../Page/2007년_OFC_여자_축구_선수권_대회.md" title="wikilink">자세히</a></em></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong></strong></p></td>
@@ -107,7 +107,7 @@
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/2010년" title="wikilink">2010년</a><br />
+<td style="text-align: center;"><p><a href="../Page/2010년.md" title="wikilink">2010년</a><br />
 <em><a href="../Page/2010년_OFC_여자_축구_선수권_대회.md" title="wikilink">자세히</a></em></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong></strong></p></td>
@@ -118,7 +118,7 @@
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/2014년" title="wikilink">2014년</a><br />
+<td style="text-align: center;"><p><a href="../Page/2014년.md" title="wikilink">2014년</a><br />
 <em><a href="../Page/2014년_OFC_여자_네이션스컵.md" title="wikilink">자세히</a></em></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong></strong></p></td>
@@ -129,8 +129,8 @@
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/2018년" title="wikilink">2018년</a><br />
-<em><a href="https://ko.wikipedia.org/wiki/2018년_OFC_여자_네이션스컵" title="wikilink">자세히</a></em></p></td>
+<td style="text-align: center;"><p><a href="../Page/2018년.md" title="wikilink">2018년</a><br />
+<em><a href="../Page/2018년_OFC_여자_네이션스컵.md" title="wikilink">자세히</a></em></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong></strong></p></td>
 <td style="text-align: center;"><p><strong>8 : 0</strong></p></td>

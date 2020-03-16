@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Love\?](https://ko.wikipedia.org/wiki/Love\?).
 
 
-《**Love?**》는 [제니퍼 로페즈의](https://ko.wikipedia.org/wiki/제니퍼_로페즈 "wikilink") 일곱번째 정규 음반으로, 2011년 4월에 발매되었다.
+《**Love?**》는 [제니퍼 로페즈의](../Page/제니퍼_로페즈.md "wikilink") 일곱번째 정규 음반으로, 2011년 4월에 발매되었다.
 
 ## 수록곡
 

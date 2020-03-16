@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [1993 CONCACAF    ](https://ko.wikipedia.org/wiki/1993_CONCACAF____).
 
 
-**1993년 CONCACAF 여자 축구 선수권 대회**(1993 CONCACAF Women's Championship)는 [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") [7월 4일부터](https://ko.wikipedia.org/wiki/7월_4일 "wikilink") [7월 8일까지](https://ko.wikipedia.org/wiki/7월_8일 "wikilink") [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")에서 열린 2번째 [CONCACAF 여자 축구 선수권 대회이다](https://ko.wikipedia.org/wiki/CONCACAF_여자_축구_선수권_대회 "wikilink"). 이 대회에서는 [뉴질랜드가](https://ko.wikipedia.org/wiki/뉴질랜드_여자_축구_국가대표팀 "wikilink") 초청 팀 자격으로 참가했다.
+**1993년 CONCACAF 여자 축구 선수권 대회**(1993 CONCACAF Women's Championship)는 [1993년](../Page/1993년.md "wikilink") [7월 4일부터](../Page/7월_4일.md "wikilink") [7월 8일까지](../Page/7월_8일.md "wikilink") [미국](../Page/미국.md "wikilink")에서 열린 2번째 [CONCACAF 여자 축구 선수권 대회이다](../Page/CONCACAF_여자_축구_선수권_대회.md "wikilink"). 이 대회에서는 [뉴질랜드가](../Page/뉴질랜드_여자_축구_국가대표팀.md "wikilink") 초청 팀 자격으로 참가했다.
 
 {{-}}
 
@@ -94,7 +94,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_the_United_States.svg" title="wikilink">100px</a><br />
-<strong><a href="https://ko.wikipedia.org/wiki/미국_여자_축구_국가대표팀" title="wikilink">미국</a></strong><br />
+<strong><a href="../Page/미국_여자_축구_국가대표팀.md" title="wikilink">미국</a></strong><br />
 <strong>2번째 우승</strong></p></td>
 </tr>
 </tbody>

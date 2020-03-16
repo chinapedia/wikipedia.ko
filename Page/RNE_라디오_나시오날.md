@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [RNE  ](https://ko.wikipedia.org/wiki/RNE__).
 
 
-**라디오 나시오날**은 [스페인](https://ko.wikipedia.org/wiki/스페인 "wikilink")의 공영 방송 [RTVE](https://ko.wikipedia.org/wiki/RTVE "wikilink")([RNE](https://ko.wikipedia.org/wiki/RNE "wikilink"))의 주요 라디오 방송국의 하나이다. 주로 뉴스, 시사, 스포츠를 비롯한 종합 편성을 하고 있다. 이벤트 관련 특별 방송 및 사회 문제에 관련된 토론 프로그램도 방송한다.
+**라디오 나시오날**은 [스페인](../Page/스페인.md "wikilink")의 공영 방송 [RTVE](https://ko.wikipedia.org/wiki/RTVE "wikilink")([RNE](https://ko.wikipedia.org/wiki/RNE "wikilink"))의 주요 라디오 방송국의 하나이다. 주로 뉴스, 시사, 스포츠를 비롯한 종합 편성을 하고 있다. 이벤트 관련 특별 방송 및 사회 문제에 관련된 토론 프로그램도 방송한다.
 
-라디오 나시오날의 전신은 **라디오 나시오날 데 에스파냐**(Radio Nacional de España)로 1937년 [스페인 내전](https://ko.wikipedia.org/wiki/스페인_내전 "wikilink") 당시 [프랑코의](https://ko.wikipedia.org/wiki/프란시스코_프랑코 "wikilink") 선전 부서에서 운영하는 라디오 방송국으로 시작되었다. RNE는 보도 독점과 함께 [프랑코 정권의](https://ko.wikipedia.org/wiki/프랑코_정권 "wikilink") 선전과 연설 "[카우디요](https://ko.wikipedia.org/wiki/카우디요 "wikilink")(Caudillo)", 군 행사 및 종교 축제를 방송하였다. 그 외에 라디오 드라마 등 다양한 내용도 방송하였다.
+라디오 나시오날의 전신은 **라디오 나시오날 데 에스파냐**(Radio Nacional de España)로 1937년 [스페인 내전](../Page/스페인_내전.md "wikilink") 당시 [프랑코의](../Page/프란시스코_프랑코.md "wikilink") 선전 부서에서 운영하는 라디오 방송국으로 시작되었다. RNE는 보도 독점과 함께 [프랑코 정권의](../Page/프랑코_정권.md "wikilink") 선전과 연설 "[카우디요](https://ko.wikipedia.org/wiki/카우디요 "wikilink")(Caudillo)", 군 행사 및 종교 축제를 방송하였다. 그 외에 라디오 드라마 등 다양한 내용도 방송하였다.
 
 1965년에는 클래식 음악 방송인 « Segundo programa de RNE »(현 [RNE 라디오 클라시카](https://ko.wikipedia.org/wiki/RNE_라디오_클라시카 "wikilink"))가 개국하면서, 기존의 라디오 나시오날은 « **Primer programa de RNE** »이란 이름으로 바뀌었다.
 
@@ -15,26 +15,26 @@
 
 | 도시                                                                  | AM (kHz) | FM (MHz) |
 | ------------------------------------------------------------------- | -------- | -------- |
-| [라코루냐](https://ko.wikipedia.org/wiki/라코루냐 "wikilink")               | 639      | 100.4    |
-| [알리칸테](https://ko.wikipedia.org/wiki/알리칸테 "wikilink")               | 729      | 105.2    |
+| [라코루냐](../Page/라코루냐.md "wikilink")                                  | 639      | 100.4    |
+| [알리칸테](../Page/알리칸테.md "wikilink")                                  | 729      | 105.2    |
 | [바르셀로나](https://ko.wikipedia.org/wiki/바르셀로나 "wikilink")             | 738      | 88.3     |
-| [빌바오](https://ko.wikipedia.org/wiki/빌바오 "wikilink")                 | 639      | 100.7    |
-| [코르도바](https://ko.wikipedia.org/wiki/코르도바_\(스페인\) "wikilink")       | 684      | 92.2     |
-| [라스팔마스](https://ko.wikipedia.org/wiki/라스팔마스 "wikilink")             | 576      | 92.8     |
+| [빌바오](../Page/빌바오.md "wikilink")                                    | 639      | 100.7    |
+| [코르도바](../Page/코르도바_\(스페인\).md "wikilink")                          | 684      | 92.2     |
+| [라스팔마스](../Page/라스팔마스.md "wikilink")                                | 576      | 92.8     |
 | [로그로뇨](https://ko.wikipedia.org/wiki/로그로뇨 "wikilink")               | 729      | 102.0    |
-| [마드리드](https://ko.wikipedia.org/wiki/마드리드 "wikilink")               | 585      | 88.2     |
-| [말라가](https://ko.wikipedia.org/wiki/말라가 "wikilink")                 | 729      | 106.6    |
+| [마드리드](../Page/마드리드.md "wikilink")                                  | 585      | 88.2     |
+| [말라가](../Page/말라가.md "wikilink")                                    | 729      | 106.6    |
 | [무르시아](https://ko.wikipedia.org/wiki/무르시아 "wikilink")               | 855      | 101.7    |
-| [오비에도](https://ko.wikipedia.org/wiki/오비에도 "wikilink")               | 729      | 89.4     |
-| [팔마데마요르카](https://ko.wikipedia.org/wiki/팔마데마요르카 "wikilink")         | 621      | 90.1     |
+| [오비에도](../Page/오비에도.md "wikilink")                                  | 729      | 89.4     |
+| [팔마데마요르카](../Page/팔마데마요르카.md "wikilink")                            | 621      | 90.1     |
 | [팜플로나](https://ko.wikipedia.org/wiki/팜플로나 "wikilink")               | 855      | 106.1    |
-| [산탄데르](https://ko.wikipedia.org/wiki/산탄데르_\(스페인\) "wikilink")       | 855      | 96.9     |
-| [세비야](https://ko.wikipedia.org/wiki/세비야 "wikilink")                 | 684      | 91.2     |
-| [발렌시아](https://ko.wikipedia.org/wiki/발렌시아 "wikilink")               | 774      | 89.8     |
-| [바야돌리드](https://ko.wikipedia.org/wiki/바야돌리드 "wikilink")             | 729      | 97.3     |
-| [비고](https://ko.wikipedia.org/wiki/비고 "wikilink")                   | 855      | 90.1     |
+| [산탄데르](../Page/산탄데르_\(스페인\).md "wikilink")                          | 855      | 96.9     |
+| [세비야](../Page/세비야.md "wikilink")                                    | 684      | 91.2     |
+| [발렌시아](../Page/발렌시아.md "wikilink")                                  | 774      | 89.8     |
+| [바야돌리드](../Page/바야돌리드.md "wikilink")                                | 729      | 97.3     |
+| [비고](../Page/비고.md "wikilink")                                      | 855      | 90.1     |
 | [비토리아-가스테이스](https://ko.wikipedia.org/wiki/비토리아_\(스페인\) "wikilink") | 612      | 92.5     |
-| [사라고사](https://ko.wikipedia.org/wiki/사라고사 "wikilink")               | 639      | 104.4    |
+| [사라고사](../Page/사라고사.md "wikilink")                                  | 639      | 104.4    |
 
 ## 로고 연혁
 

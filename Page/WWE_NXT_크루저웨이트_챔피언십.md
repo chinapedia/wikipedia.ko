@@ -44,7 +44,7 @@
 
 ## 같이 보기
 
-  - [WWE 라이트 헤비웨이트 챔피언십](https://ko.wikipedia.org/wiki/WWE_라이트_헤비웨이트_챔피언십 "wikilink")
+  - [WWE 라이트 헤비웨이트 챔피언십](../Page/WWE_라이트_헤비웨이트_챔피언십.md "wikilink")
   - [TNA X-디비전 챔피언십](https://ko.wikipedia.org/wiki/TNA_X-디비전_챔피언십 "wikilink")
   - [WWE 크루저웨이트 챔피언십 (1991년 \~ 2007년)](https://ko.wikipedia.org/wiki/WWE_크루저웨이트_챔피언십_\(1991년_~_2007년\) "wikilink")
   - [WWE 크루저웨이트 클래식](../Page/WWE_크루저웨이트_클래식.md "wikilink")

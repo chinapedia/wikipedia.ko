@@ -18,26 +18,26 @@
 | 미니 1집 "35 Girls 5 Concepts"                                             | 2016년 | Fingertips               | 공동 | 공동 |
 | **[소년공화국](../Page/소년공화국.md "wikilink")**                                |       |                          |    |    |
 | 미니 3집 "BR:evolution"                                                    | 2016년 | Get Down                 | 공동 | 공동 |
-| **[SISTAR](https://ko.wikipedia.org/wiki/씨스타 "wikilink")**              |       |                          |    |    |
+| **[SISTAR](../Page/씨스타.md "wikilink")**                                 |       |                          |    |    |
 | 미니 4집 "[沒我愛](../Page/沒我愛.md "wikilink")"                                | 2016년 | 끈                        | 공동 | 공동 |
-| **[차지연](https://ko.wikipedia.org/wiki/차지연 "wikilink")**                 |       |                          |    |    |
+| **[차지연](../Page/차지연.md "wikilink")**                                    |       |                          |    |    |
 | 디지털 싱글 "My Show"                                                        | 2016년 | My Show                  | 공동 | 단독 |
-| **[GIRL\`S DAY](https://ko.wikipedia.org/wiki/걸스데이 "wikilink")**        |       |                          |    |    |
+| **[GIRL\`S DAY](../Page/걸스데이.md "wikilink")**                           |       |                          |    |    |
 | 미니 5집 "EVERYDAY \#5"                                                    | 2017년 | THIRSTY                  | 공동 | 공동 |
 | **[ASTRO](../Page/아스트로_\(음악_그룹\).md "wikilink")**                       |       |                          |    |    |
 | 미니 5집 "Dream Part.02"                                                   | 2017년 | 니가 불어와 (Crazy Sexy Cool) | 공동 | 공동 |
 | 정규 1집 "All Light"                                                       | 2019년 | All Night (전화해)          | 공동 | 단독 |
 
-| 음반                                                                                                                          | 연도    | 곡                                                                           | 작곡 | 편곡 |
-| --------------------------------------------------------------------------------------------------------------------------- | ----- | --------------------------------------------------------------------------- | -- | -- |
-| 스페셜 앨범 "[RISE AS GOD](https://ko.wikipedia.org/wiki/RISE_AS_GOD "wikilink")"                                                | 2015년 | Komplikated (Sung By [유노윤호](https://ko.wikipedia.org/wiki/유노윤호 "wikilink")) | 공동 | 공동 |
-| 정규 8집 "[New Chapter \#1 : The Chance of Love](https://ko.wikipedia.org/wiki/New_Chapter_1_:_The_Chance_of_Love "wikilink")" | 2018년 | 퍼즐 (Puzzle) (Sung By [유노윤호](https://ko.wikipedia.org/wiki/유노윤호 "wikilink")) | 공동 | 단독 |
+| 음반                                                                                                       | 연도    | 곡                                                        | 작곡 | 편곡 |
+| -------------------------------------------------------------------------------------------------------- | ----- | -------------------------------------------------------- | -- | -- |
+| 스페셜 앨범 "[RISE AS GOD](../Page/RISE_AS_GOD.md "wikilink")"                                                | 2015년 | Komplikated (Sung By [유노윤호](../Page/유노윤호.md "wikilink")) | 공동 | 공동 |
+| 정규 8집 "[New Chapter \#1 : The Chance of Love](../Page/New_Chapter_1_:_The_Chance_of_Love.md "wikilink")" | 2018년 | 퍼즐 (Puzzle) (Sung By [유노윤호](../Page/유노윤호.md "wikilink")) | 공동 | 단독 |
 
-| 음반                                                                | 연도    | 곡     | 작곡 | 편곡 |
-| ----------------------------------------------------------------- | ----- | ----- | -- | -- |
-| 정규 4집 "[Odd](../Page/Odd_\(샤이니의_음반\).md "wikilink")" (리패키지 포함)    | 2015년 | View  | 공동 | 공동 |
-| Married To The Music                                              | 공동    | 공동    |    |    |
-| 정규 5집 "[1 of 1](https://ko.wikipedia.org/wiki/1_of_1 "wikilink")" | 2016년 | SHIFT | 공동 | 공동 |
+| 음반                                                             | 연도    | 곡     | 작곡 | 편곡 |
+| -------------------------------------------------------------- | ----- | ----- | -- | -- |
+| 정규 4집 "[Odd](../Page/Odd_\(샤이니의_음반\).md "wikilink")" (리패키지 포함) | 2015년 | View  | 공동 | 공동 |
+| Married To The Music                                           | 공동    | 공동    |    |    |
+| 정규 5집 "[1 of 1](../Page/1_of_1.md "wikilink")"                 | 2016년 | SHIFT | 공동 | 공동 |
 
 | 음반                                               | 연도                  | 곡        | 작곡 | 편곡 |
 | ------------------------------------------------ | ------------------- | -------- | -- | -- |
@@ -59,41 +59,41 @@
 | 정규 4집 "[THE WAR](https://ko.wikipedia.org/wiki/THE_WAR "wikilink")" (리패키지 포함) | 2017년 | Forever       | 공동 | 단독 |
 | Power                                                                         | 공동    | 단독            |    |    |
 
-| 음반                                                                                | 연도    | 곡         | 작곡 | 편곡 |
-| --------------------------------------------------------------------------------- | ----- | --------- | -- | -- |
-| 정규 1집 "[The Red](../Page/The_Red.md "wikilink")"                                  | 2015년 | Dumb Dumb | 공동 | 공동 |
-| Campfire                                                                          | 공동    | 공동        |    |    |
-| Red Dress                                                                         | 공동    | 공동        |    |    |
-| Oh Boy                                                                            | 공동    | 공동        |    |    |
-| 미니 5집 "[The Red Summer](https://ko.wikipedia.org/wiki/The_Red_Summer "wikilink")" | 2017년 | Zoo       | 공동 | 단독 |
+| 음반                                                             | 연도    | 곡         | 작곡 | 편곡 |
+| -------------------------------------------------------------- | ----- | --------- | -- | -- |
+| 정규 1집 "[The Red](../Page/The_Red.md "wikilink")"               | 2015년 | Dumb Dumb | 공동 | 공동 |
+| Campfire                                                       | 공동    | 공동        |    |    |
+| Red Dress                                                      | 공동    | 공동        |    |    |
+| Oh Boy                                                         | 공동    | 공동        |    |    |
+| 미니 5집 "[The Red Summer](../Page/The_Red_Summer.md "wikilink")" | 2017년 | Zoo       | 공동 | 단독 |
 
 | 음반                       | 연도    | 곡     | 작곡 | 편곡 |
 | ------------------------ | ----- | ----- | -- | -- |
 | 정규 4집 "NCT 2018 EMPATHY" | 2018년 | TOUCH | 공동 | 공동 |
 
-| 음반                                                                                                                         | 연도    | 곡                | 작곡 | 편곡 |
-| -------------------------------------------------------------------------------------------------------------------------- | ----- | ---------------- | -- | -- |
-| **[태연](https://ko.wikipedia.org/wiki/태연 "wikilink")**                                                                      |       |                  |    |    |
-| 미니 1집 "[I](https://ko.wikipedia.org/wiki/I_\(EP\) "wikilink")"                                                             | 2015년 | 쌍둥이자리 (Gemini)   | 공동 | 단독 |
-| 미니 2집 "[Why](https://ko.wikipedia.org/wiki/Why_\(태연의_EP\) "wikilink")"                                                     | 2016년 | Why              | 공동 | 공동 |
-| Fashion                                                                                                                    | 공동    | 공동               |    |    |
-| Up & Down (Feat. [효연](https://ko.wikipedia.org/wiki/효연 "wikilink"))                                                        | 공동    | 공동               |    |    |
-| Good Thing                                                                                                                 | 공동    | 공동               |    |    |
-| **[태민](https://ko.wikipedia.org/wiki/태민 "wikilink")**                                                                      |       |                  |    |    |
-| 정규 1집 "PRESS IT"                                                                                                           | 2016년 | Guess Who        | 공동 | 공동 |
-| **[종현](https://ko.wikipedia.org/wiki/종현 "wikilink")**                                                                      |       |                  |    |    |
-| 정규 1집 "[좋아](../Page/좋아_\(종현의_음반\).md "wikilink")"                                                                          | 2016년 | Moon             | 공동 | 단독 |
-| Dress Up                                                                                                                   | 공동    | 단독               |    |    |
-| **[NCT 127](https://ko.wikipedia.org/wiki/NCT_127 "wikilink")**                                                            |       |                  |    |    |
-| 미니 1집 "[NCT \#127](../Page/NCT_127_\(음반\).md "wikilink")"                                                                  | 2016년 | 소방차 (Fire Truck) | 공동 | 단독 |
-| Wake Up                                                                                                                    | 공동    | 단독               |    |    |
-| Switch (Feat. [SR15B](../Page/도영.md "wikilink"))                                                                           | 공동    | 단독               |    |    |
-| **[유리](https://ko.wikipedia.org/wiki/유리_\(1989년\) "wikilink") & [서현](https://ko.wikipedia.org/wiki/서현_\(가수\) "wikilink")** |       |                  |    |    |
-| 디지털 싱글 "Secret"                                                                                                            | 2016년 | Secret           | 공동 | 단독 |
-| **[EXO-CBX](https://ko.wikipedia.org/wiki/EXO-CBX "wikilink")**                                                            |       |                  |    |    |
-| 미니 1집 "Hey Mama\!"                                                                                                         | 2016년 | The One          | 공동 | 단독 |
-| **[NCT DREAM](https://ko.wikipedia.org/wiki/NCT_DREAM "wikilink")**                                                        |       |                  |    |    |
-| 미니 1집 "We Young"                                                                                                           | 2017년 | We Young         | 공동 | 단독 |
+| 음반                                                                                   | 연도    | 곡                | 작곡 | 편곡 |
+| ------------------------------------------------------------------------------------ | ----- | ---------------- | -- | -- |
+| **[태연](../Page/태연.md "wikilink")**                                                   |       |                  |    |    |
+| 미니 1집 "[I](https://ko.wikipedia.org/wiki/I_\(EP\) "wikilink")"                       | 2015년 | 쌍둥이자리 (Gemini)   | 공동 | 단독 |
+| 미니 2집 "[Why](../Page/Why_\(태연의_EP\).md "wikilink")"                                  | 2016년 | Why              | 공동 | 공동 |
+| Fashion                                                                              | 공동    | 공동               |    |    |
+| Up & Down (Feat. [효연](../Page/효연.md "wikilink"))                                     | 공동    | 공동               |    |    |
+| Good Thing                                                                           | 공동    | 공동               |    |    |
+| **[태민](../Page/태민.md "wikilink")**                                                   |       |                  |    |    |
+| 정규 1집 "PRESS IT"                                                                     | 2016년 | Guess Who        | 공동 | 공동 |
+| **[종현](../Page/종현.md "wikilink")**                                                   |       |                  |    |    |
+| 정규 1집 "[좋아](../Page/좋아_\(종현의_음반\).md "wikilink")"                                    | 2016년 | Moon             | 공동 | 단독 |
+| Dress Up                                                                             | 공동    | 단독               |    |    |
+| **[NCT 127](https://ko.wikipedia.org/wiki/NCT_127 "wikilink")**                      |       |                  |    |    |
+| 미니 1집 "[NCT \#127](../Page/NCT_127_\(음반\).md "wikilink")"                            | 2016년 | 소방차 (Fire Truck) | 공동 | 단독 |
+| Wake Up                                                                              | 공동    | 단독               |    |    |
+| Switch (Feat. [SR15B](../Page/도영.md "wikilink"))                                     | 공동    | 단독               |    |    |
+| **[유리](../Page/유리_\(1989년\).md "wikilink") & [서현](../Page/서현_\(가수\).md "wikilink")** |       |                  |    |    |
+| 디지털 싱글 "Secret"                                                                      | 2016년 | Secret           | 공동 | 단독 |
+| **[EXO-CBX](../Page/EXO-CBX.md "wikilink")**                                         |       |                  |    |    |
+| 미니 1집 "Hey Mama\!"                                                                   | 2016년 | The One          | 공동 | 단독 |
+| **[NCT DREAM](https://ko.wikipedia.org/wiki/NCT_DREAM "wikilink")**                  |       |                  |    |    |
+| 미니 1집 "We Young"                                                                     | 2017년 | We Young         | 공동 | 단독 |
 
 ## 외부 링크
 

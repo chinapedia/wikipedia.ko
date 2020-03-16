@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [2006 CONCACAF  ](https://ko.wikipedia.org/wiki/2006_CONCACAF__).
 
 
-**2006년 CONCACAF 여자 골드컵**(2006 CONCACAF Women's Gold Cup)은 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [11월 19일부터](https://ko.wikipedia.org/wiki/11월_19일 "wikilink") [11월 26일까지](https://ko.wikipedia.org/wiki/11월_26일 "wikilink") [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")에서 열린 7번째 [CONCACAF 여자 축구 선수권 대회이다](https://ko.wikipedia.org/wiki/CONCACAF_여자_축구_선수권_대회 "wikilink").
+**2006년 CONCACAF 여자 골드컵**(2006 CONCACAF Women's Gold Cup)은 [2006년](../Page/2006년.md "wikilink") [11월 19일부터](../Page/11월_19일.md "wikilink") [11월 26일까지](../Page/11월_26일.md "wikilink") [미국](../Page/미국.md "wikilink")에서 열린 7번째 [CONCACAF 여자 축구 선수권 대회이다](../Page/CONCACAF_여자_축구_선수권_대회.md "wikilink").
 
-이 대회는 [2007년 FIFA 여자 월드컵의](https://ko.wikipedia.org/wiki/2007년_FIFA_여자_월드컵 "wikilink") 북중미카리브 지역 예선을 겸하였다. 우승을 차지한 [미국](https://ko.wikipedia.org/wiki/미국_여자_축구_국가대표팀 "wikilink"), 준우승을 차지한 [캐나다가](https://ko.wikipedia.org/wiki/캐나다_여자_축구_국가대표팀 "wikilink") FIFA 여자 월드컵 본선에 직행했다. 3위를 차지한 [멕시코는](https://ko.wikipedia.org/wiki/멕시코_여자_축구_국가대표팀 "wikilink") [2006년 AFC 여자 아시안컵](../Page/2006년_AFC_여자_아시안컵.md "wikilink") 4위 팀과의 대륙간 플레이오프에 진출했다.
+이 대회는 [2007년 FIFA 여자 월드컵의](https://ko.wikipedia.org/wiki/2007년_FIFA_여자_월드컵 "wikilink") 북중미카리브 지역 예선을 겸하였다. 우승을 차지한 [미국](../Page/미국_여자_축구_국가대표팀.md "wikilink"), 준우승을 차지한 [캐나다가](../Page/캐나다_여자_축구_국가대표팀.md "wikilink") FIFA 여자 월드컵 본선에 직행했다. 3위를 차지한 [멕시코는](../Page/멕시코_여자_축구_국가대표팀.md "wikilink") [2006년 AFC 여자 아시안컵](../Page/2006년_AFC_여자_아시안컵.md "wikilink") 4위 팀과의 대륙간 플레이오프에 진출했다.
 
 ## 참가 팀
 
@@ -60,7 +60,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_the_United_States.svg" title="wikilink">100px</a><br />
-<strong><a href="https://ko.wikipedia.org/wiki/미국_여자_축구_국가대표팀" title="wikilink">미국</a></strong><br />
+<strong><a href="../Page/미국_여자_축구_국가대표팀.md" title="wikilink">미국</a></strong><br />
 <strong>6번째 우승</strong></p></td>
 </tr>
 </tbody>

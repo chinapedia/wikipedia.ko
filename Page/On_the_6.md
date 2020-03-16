@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [On the 6](https://ko.wikipedia.org/wiki/On_the_6).
 
 
-《**On the 6**》는 [제니퍼 로페즈의](https://ko.wikipedia.org/wiki/제니퍼_로페즈 "wikilink") 정규 데뷔 음반으로, 1999년에 6월에 발매되었다.
+《**On the 6**》는 [제니퍼 로페즈의](../Page/제니퍼_로페즈.md "wikilink") 정규 데뷔 음반으로, 1999년에 6월에 발매되었다.
 
 ## 수록곡
 

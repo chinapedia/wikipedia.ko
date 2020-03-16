@@ -11,8 +11,8 @@
 
 ## 외부 링크
 
-  - [Russian Roulette](http://music.naver.com/album/index.nhn?albumId=661430) - [네이버](https://ko.wikipedia.org/wiki/네이버 "wikilink") 뮤직
+  - [Russian Roulette](http://music.naver.com/album/index.nhn?albumId=661430) - [네이버](../Page/네이버.md "wikilink") 뮤직
   - [Russian Roulette](http://www.melon.com/album/detail.htm?albumId=2709585) - [멜론](https://ko.wikipedia.org/wiki/멜론_\(웹사이트\) "wikilink")
-  - ["러시안 룰렛 (Russian Roulette)" 뮤직비디오](https://www.youtube.com/watch?v=QslJYDX3o8s) - [유튜브](https://ko.wikipedia.org/wiki/유튜브 "wikilink")
+  - ["러시안 룰렛 (Russian Roulette)" 뮤직비디오](https://www.youtube.com/watch?v=QslJYDX3o8s) - [유튜브](../Page/유튜브.md "wikilink")
 
 [분류:2016년 EP](https://ko.wikipedia.org/wiki/분류:2016년_EP "wikilink") [분류:레드벨벳의 음반](https://ko.wikipedia.org/wiki/분류:레드벨벳의_음반 "wikilink") [분류:SM 엔터테인먼트 음반](https://ko.wikipedia.org/wiki/분류:SM_엔터테인먼트_음반 "wikilink") [분류:한국어 EP](https://ko.wikipedia.org/wiki/분류:한국어_EP "wikilink")

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [USS  \(SSGN-726\)](https://ko.wikipedia.org/wiki/USS__\(SSGN-726\)).
 
 
-**USS 오하이오 (SSGN-726)**는 미국 [SSBN](https://ko.wikipedia.org/wiki/SSBN "wikilink")(전략원잠)인 [오하이오급 잠수함의](https://ko.wikipedia.org/wiki/오하이오급_잠수함 "wikilink") 초도함이다.
+**USS 오하이오 (SSGN-726)**는 미국 [SSBN](https://ko.wikipedia.org/wiki/SSBN "wikilink")(전략원잠)인 [오하이오급 잠수함의](../Page/오하이오급_잠수함.md "wikilink") 초도함이다.
 
 ## SSGN 개조
 

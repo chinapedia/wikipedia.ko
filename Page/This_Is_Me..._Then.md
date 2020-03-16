@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [This Is Me... Then](https://ko.wikipedia.org/wiki/This_Is_Me..._Then).
 
 
-《**This Is Me... Then**》은 [제니퍼 로페즈의](https://ko.wikipedia.org/wiki/제니퍼_로페즈 "wikilink") 세번째 정규 음반으로, 2002년 11월에 발매되었다.
+《**This Is Me... Then**》은 [제니퍼 로페즈의](../Page/제니퍼_로페즈.md "wikilink") 세번째 정규 음반으로, 2002년 11월에 발매되었다.
 
 ## 수록곡
 

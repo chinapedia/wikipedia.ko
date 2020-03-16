@@ -30,14 +30,14 @@
 <td style="text-align: left;"><p><strong>1집</strong></p></td>
 <td style="text-align: left;"><p>《<strong><em>The MOBB</em></strong>》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2016년" title="wikilink">2016년</a> <a href="https://ko.wikipedia.org/wiki/9월_9일" title="wikilink">9월 9일</a></li>
+<li>발매일 : <a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/9월_9일.md" title="wikilink">9월 9일</a></li>
 </ul></td>
 <td style="text-align: left;"><ol>
 <li>꽐라 (Holup!) (BOBBY Solo)</li>
 <li><strong>붐벼 (Full House)</strong></li>
 <li>몸 (Body) (MINO Solo)</li>
 <li><strong>빨리 전화해 (Hit Me)</strong></li>
-<li>겁 (Feat. <a href="https://ko.wikipedia.org/wiki/태양_(가수)" title="wikilink">태양</a>) (MINO Solo)</li>
+<li>겁 (Feat. <a href="../Page/태양_(가수).md" title="wikilink">태양</a>) (MINO Solo)</li>
 <li>가드올리고 Bounce (BOBBY Solo)</li>
 </ol></td>
 </tr>

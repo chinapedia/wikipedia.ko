@@ -7,9 +7,9 @@
 
 ## 역사
 
-2002년 중순, 브랜드 확장시기에서 [월드 태그팀 챔피언십이](https://ko.wikipedia.org/wiki/WWE_월드_태그팀_챔피언십 "wikilink") [스맥다운으로](https://ko.wikipedia.org/wiki/RAW "wikilink") 가고, 로우에서는 당시 단장인 [스테파니 맥맨에](https://ko.wikipedia.org/wiki/스테파니_맥맨 "wikilink") 의해 새롭게 **WWE 태그팀 챔피언**이 탄생하였다.
+2002년 중순, 브랜드 확장시기에서 [월드 태그팀 챔피언십이](../Page/WWE_월드_태그팀_챔피언십.md "wikilink") [스맥다운으로](https://ko.wikipedia.org/wiki/RAW "wikilink") 가고, 로우에서는 당시 단장인 [스테파니 맥맨에](https://ko.wikipedia.org/wiki/스테파니_맥맨 "wikilink") 의해 새롭게 **WWE 태그팀 챔피언**이 탄생하였다.
 
-2002년 10월 1일, 스테파니는 8팀의 토너먼트식을 만들었다. 결승전([10월 20일](https://ko.wikipedia.org/wiki/10월_20일 "wikilink"),[노 머시](https://ko.wikipedia.org/wiki/노_머시 "wikilink"))에서는 [크리스 벤와와](https://ko.wikipedia.org/wiki/크리스_벤와 "wikilink") [커트 앵글이](https://ko.wikipedia.org/wiki/커트_앵글 "wikilink") [레이 미스테리오와](https://ko.wikipedia.org/wiki/레이_미스테리오 "wikilink") [에지](https://ko.wikipedia.org/wiki/에지 "wikilink")를 이기고 새롭게 초대 챔피언으로써 **WWE 태그팀 챔피언**이 탄생한 것이었다. 하지만 그 다음 챔피언으로 [레이 미스테리오와](https://ko.wikipedia.org/wiki/레이_미스테리오 "wikilink") [에지](https://ko.wikipedia.org/wiki/에지 "wikilink")가 챔피언이 되었다. 2007년 에서는 [존 모리슨과](https://ko.wikipedia.org/wiki/존_모리슨 "wikilink") [더 미즈가](https://ko.wikipedia.org/wiki/더_미즈 "wikilink") 챔피언이 되었을때, [ECW](https://ko.wikipedia.org/wiki/ECW "wikilink")브랜드로 옮기다가 다시 스맥다운으로 환원되기도 하였다.
+2002년 10월 1일, 스테파니는 8팀의 토너먼트식을 만들었다. 결승전([10월 20일](../Page/10월_20일.md "wikilink"),[노 머시](https://ko.wikipedia.org/wiki/노_머시 "wikilink"))에서는 [크리스 벤와와](../Page/크리스_벤와.md "wikilink") [커트 앵글이](../Page/커트_앵글.md "wikilink") [레이 미스테리오와](../Page/레이_미스테리오.md "wikilink") [에지](https://ko.wikipedia.org/wiki/에지 "wikilink")를 이기고 새롭게 초대 챔피언으로써 **WWE 태그팀 챔피언**이 탄생한 것이었다. 하지만 그 다음 챔피언으로 [레이 미스테리오와](../Page/레이_미스테리오.md "wikilink") [에지](https://ko.wikipedia.org/wiki/에지 "wikilink")가 챔피언이 되었다. 2007년 에서는 [존 모리슨과](../Page/존_모리슨.md "wikilink") [더 미즈가](../Page/더_미즈.md "wikilink") 챔피언이 되었을때, [ECW](https://ko.wikipedia.org/wiki/ECW "wikilink")브랜드로 옮기다가 다시 스맥다운으로 환원되기도 하였다.
 
 2009년 레슬매니아 25에서 더 콜론즈([칼리토](https://ko.wikipedia.org/wiki/칼리토 "wikilink")와 프리모)가 월드 태그팀 챔피언이었던 존 모리슨과 더 미즈를 이기면서 새로운 통합 태그팀 챔피언십에 올랐다, 그러다 2010년 8월 16일에서는 새로운 챔피언 벨트로 변경하여, 월드 태그팀 챔피언십은 40년 만에 사라지고 WWE 태그팀 챔피언십만 남게 되었다. 따라서 태그팀 챔피언십 디비전은 하나만 존재하게 되었다. 2016년 7월 19일 5년만에 브랜드가 나뉘어 지면서 RAW 브랜드 소속의 타이틀이 되고, 2016년 8월 23일 스맥다운을 통해 스맥다운 브랜드에 [WWE 스맥다운 태그팀 챔피언십이](../Page/WWE_스맥다운_태그팀_챔피언십.md "wikilink") 창설되면서 다시 태그팀 타이틀도 브랜드별로 나뉘게 되었고, 2016년 9월 5일 RAW부터 현재의 명칭으로 바뀐다.
 
@@ -27,10 +27,10 @@
   - 초대 챔피언 : 커트 앵글 & 크리스 벤와
   - 최장수 챔피언 : [더 뉴데이](../Page/더_뉴데이.md "wikilink") (484일)
   - 최단 기간 챔피언 : 존 시나 & 더 미즈 (14분)
-  - 팀 최다 챔피언 : 더 바 ([세자로](https://ko.wikipedia.org/wiki/클라우디오_카스타뇰리 "wikilink") & [쉐이머스](https://ko.wikipedia.org/wiki/쉐이머스_\(프로레슬링_선수\) "wikilink")) (4회)
-  - 개인 최다 챔피언 : [세스 롤린스](https://ko.wikipedia.org/wiki/타일러_블랙 "wikilink") (6회)
-  - 최중량급 챔피언 : [케인](https://ko.wikipedia.org/wiki/케인 "wikilink") & [빅 쇼](https://ko.wikipedia.org/wiki/빅_쇼 "wikilink") (367kg)
-  - 최경량급 챔피언 : [폴 런던](https://ko.wikipedia.org/wiki/폴_런던 "wikilink") & [브라이언 켄드릭](https://ko.wikipedia.org/wiki/브라이언_켄드릭 "wikilink") (165kg)
+  - 팀 최다 챔피언 : 더 바 ([세자로](../Page/클라우디오_카스타뇰리.md "wikilink") & [쉐이머스](../Page/쉐이머스_\(프로레슬링_선수\).md "wikilink")) (4회)
+  - 개인 최다 챔피언 : [세스 롤린스](../Page/타일러_블랙.md "wikilink") (6회)
+  - 최중량급 챔피언 : [케인](https://ko.wikipedia.org/wiki/케인 "wikilink") & [빅 쇼](../Page/빅_쇼.md "wikilink") (367kg)
+  - 최경량급 챔피언 : [폴 런던](https://ko.wikipedia.org/wiki/폴_런던 "wikilink") & [브라이언 켄드릭](../Page/브라이언_켄드릭.md "wikilink") (165kg)
   - 최고령 챔피언 : [빌리 건](https://ko.wikipedia.org/wiki/빌리_건 "wikilink") (50세 112일)
   - 최연소 챔피언 : 니콜라스 (10세)
 
@@ -102,15 +102,15 @@
 
 ## 같이 보기
 
-  - [트리플 크라운 챔피언십](https://ko.wikipedia.org/wiki/트리플_크라운_챔피언십 "wikilink")
-  - [그랜드 슬램 챔피언십](https://ko.wikipedia.org/wiki/그랜드_슬램_챔피언십 "wikilink")
-  - [WWE 월드 태그팀 챔피언십](https://ko.wikipedia.org/wiki/WWE_월드_태그팀_챔피언십 "wikilink")
+  - [트리플 크라운 챔피언십](../Page/트리플_크라운_챔피언십.md "wikilink")
+  - [그랜드 슬램 챔피언십](../Page/그랜드_슬램_챔피언십.md "wikilink")
+  - [WWE 월드 태그팀 챔피언십](../Page/WWE_월드_태그팀_챔피언십.md "wikilink")
   - [WWE 스맥다운 태그팀 챔피언십](../Page/WWE_스맥다운_태그팀_챔피언십.md "wikilink")
-  - [WWE NXT 태그팀 챔피언십](https://ko.wikipedia.org/wiki/WWE_NXT_태그팀_챔피언십 "wikilink")
-  - [WCW 월드 태그팀 챔피언십](https://ko.wikipedia.org/wiki/WCW_월드_태그팀_챔피언십 "wikilink")
-  - [ECW 월드 태그팀 챔피언십](https://ko.wikipedia.org/wiki/ECW_월드_태그팀_챔피언십 "wikilink")
+  - [WWE NXT 태그팀 챔피언십](../Page/WWE_NXT_태그팀_챔피언십.md "wikilink")
+  - [WCW 월드 태그팀 챔피언십](../Page/WCW_월드_태그팀_챔피언십.md "wikilink")
+  - [ECW 월드 태그팀 챔피언십](../Page/ECW_월드_태그팀_챔피언십.md "wikilink")
   - [TNA 월드 태그팀 챔피언십](https://ko.wikipedia.org/wiki/TNA_월드_태그팀_챔피언십 "wikilink")
-  - [RoH 월드 태그팀 챔피언십](https://ko.wikipedia.org/wiki/RoH_월드_태그팀_챔피언십 "wikilink")
+  - [RoH 월드 태그팀 챔피언십](../Page/RoH_월드_태그팀_챔피언십.md "wikilink")
   - [GFW 월드 태그팀 챔피언십](https://ko.wikipedia.org/wiki/GFW_월드_태그팀_챔피언십 "wikilink")
   - [AEW 월드 태그팀 챔피언십](https://ko.wikipedia.org/wiki/AEW_월드_태그팀_챔피언십 "wikilink")
 

@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [1994 CONCACAF    ](https://ko.wikipedia.org/wiki/1994_CONCACAF____).
 
 
-**1994년 CONCACAF 여자 축구 선수권 대회**(1994 CONCACAF Women's Championship)는 [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") [8월 13일부터](https://ko.wikipedia.org/wiki/8월_13일 "wikilink") [8월 21일까지](https://ko.wikipedia.org/wiki/8월_21일 "wikilink") [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink")에서 열린 3번째 [CONCACAF 여자 축구 선수권 대회이다](https://ko.wikipedia.org/wiki/CONCACAF_여자_축구_선수권_대회 "wikilink").
+**1994년 CONCACAF 여자 축구 선수권 대회**(1994 CONCACAF Women's Championship)는 [1994년](../Page/1994년.md "wikilink") [8월 13일부터](../Page/8월_13일.md "wikilink") [8월 21일까지](../Page/8월_21일.md "wikilink") [캐나다](../Page/캐나다.md "wikilink")에서 열린 3번째 [CONCACAF 여자 축구 선수권 대회이다](../Page/CONCACAF_여자_축구_선수권_대회.md "wikilink").
 
-이 대회는 [1995년 FIFA 여자 월드컵의](https://ko.wikipedia.org/wiki/1995년_FIFA_여자_월드컵 "wikilink") 북중미카리브 지역 예선을 겸하였다. 우승을 차지한 [미국](https://ko.wikipedia.org/wiki/미국_여자_축구_국가대표팀 "wikilink"), 준우승을 차지한 [캐나다가](https://ko.wikipedia.org/wiki/캐나다_여자_축구_국가대표팀 "wikilink") FIFA 여자 월드컵 본선에 진출했다.
+이 대회는 [1995년 FIFA 여자 월드컵의](https://ko.wikipedia.org/wiki/1995년_FIFA_여자_월드컵 "wikilink") 북중미카리브 지역 예선을 겸하였다. 우승을 차지한 [미국](../Page/미국_여자_축구_국가대표팀.md "wikilink"), 준우승을 차지한 [캐나다가](../Page/캐나다_여자_축구_국가대표팀.md "wikilink") FIFA 여자 월드컵 본선에 진출했다.
 
 {{-}}
 
@@ -115,7 +115,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_the_United_States.svg" title="wikilink">100px</a><br />
-<strong><a href="https://ko.wikipedia.org/wiki/미국_여자_축구_국가대표팀" title="wikilink">미국</a></strong><br />
+<strong><a href="../Page/미국_여자_축구_국가대표팀.md" title="wikilink">미국</a></strong><br />
 <strong>3번째 우승</strong></p></td>
 </tr>
 </tbody>

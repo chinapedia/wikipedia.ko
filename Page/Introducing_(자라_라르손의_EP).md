@@ -7,7 +7,7 @@
 
 ## 뮤직비디오
 
-  - [Uncover](https://www.youtube.com/watch?v=U-PXEe-qeK4) - [유튜브](https://ko.wikipedia.org/wiki/유튜브 "wikilink")
-  - [Under My Shades](https://www.youtube.com/watch?v=UA84Uc3Ek5M) - [유튜브](https://ko.wikipedia.org/wiki/유튜브 "wikilink")
+  - [Uncover](https://www.youtube.com/watch?v=U-PXEe-qeK4) - [유튜브](../Page/유튜브.md "wikilink")
+  - [Under My Shades](https://www.youtube.com/watch?v=UA84Uc3Ek5M) - [유튜브](../Page/유튜브.md "wikilink")
 
 [분류:2013년 EP](https://ko.wikipedia.org/wiki/분류:2013년_EP "wikilink") [분류:자라 라르손의 음반](https://ko.wikipedia.org/wiki/분류:자라_라르손의_음반 "wikilink") [분류:영어 EP](https://ko.wikipedia.org/wiki/분류:영어_EP "wikilink")

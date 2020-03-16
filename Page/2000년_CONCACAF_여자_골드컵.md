@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [2000 CONCACAF  ](https://ko.wikipedia.org/wiki/2000_CONCACAF__).
 
 
-**2000년 CONCACAF 여자 골드컵**(2000 CONCACAF Women's Gold Cup)은 [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [6월 23일부터](https://ko.wikipedia.org/wiki/6월_23일 "wikilink") [7월 3일까지](https://ko.wikipedia.org/wiki/7월_3일 "wikilink") [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")에서 열린 5번째 [CONCACAF 여자 축구 선수권 대회이다](https://ko.wikipedia.org/wiki/CONCACAF_여자_축구_선수권_대회 "wikilink").
+**2000년 CONCACAF 여자 골드컵**(2000 CONCACAF Women's Gold Cup)은 [2000년](../Page/2000년.md "wikilink") [6월 23일부터](../Page/6월_23일.md "wikilink") [7월 3일까지](../Page/7월_3일.md "wikilink") [미국](../Page/미국.md "wikilink")에서 열린 5번째 [CONCACAF 여자 축구 선수권 대회이다](../Page/CONCACAF_여자_축구_선수권_대회.md "wikilink").
 
 ## 참가 팀
 
@@ -210,7 +210,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_the_United_States.svg" title="wikilink">100px</a><br />
-<strong><a href="https://ko.wikipedia.org/wiki/미국_여자_축구_국가대표팀" title="wikilink">미국</a></strong><br />
+<strong><a href="../Page/미국_여자_축구_국가대표팀.md" title="wikilink">미국</a></strong><br />
 <strong>4번째 우승</strong></p></td>
 </tr>
 </tbody>

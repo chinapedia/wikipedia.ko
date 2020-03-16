@@ -1,67 +1,67 @@
 > This article is converted from Wikipedia: [  TEN 2](https://ko.wikipedia.org/wiki/__TEN_2).
 
 
-《**특수사건 전담반 TEN 2**》는 [OCN에서](https://ko.wikipedia.org/wiki/OCN_\(방송\) "wikilink") [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [4월 14일부터](https://ko.wikipedia.org/wiki/4월_14일 "wikilink") [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [6월 30일까지](https://ko.wikipedia.org/wiki/6월_30일 "wikilink") 방영된 [드라마이다](https://ko.wikipedia.org/wiki/텔레비전_드라마 "wikilink").
+《**특수사건 전담반 TEN 2**》는 [OCN에서](https://ko.wikipedia.org/wiki/OCN_\(방송\) "wikilink") [2013년](../Page/2013년.md "wikilink") [4월 14일부터](../Page/4월_14일.md "wikilink") [2013년](../Page/2013년.md "wikilink") [6월 30일까지](../Page/6월_30일.md "wikilink") 방영된 [드라마이다](../Page/텔레비전_드라마.md "wikilink").
 
 ## 등장 인물
 
 ### 주요 인물
 
-  - [주상욱](https://ko.wikipedia.org/wiki/주상욱 "wikilink") : 여지훈 역 - 특수사건 전담반 텐의 팀장
-  - [김상호](https://ko.wikipedia.org/wiki/김상호_\(배우\) "wikilink") : 백도식 역 - 특수사건 전담반 텐 소속 형사
-  - [조안](https://ko.wikipedia.org/wiki/조안_\(배우\) "wikilink") : 남예리 역 - 특수사건 전담반 텐 소속 프로파일러
-  - [최우식](https://ko.wikipedia.org/wiki/최우식 "wikilink") : 박민호 역 - 특수사건 전담반 텐 소속 형사
-  - [윤지혜](https://ko.wikipedia.org/wiki/윤지혜_\(배우\) "wikilink") : 서유림 역 - 부검의. 여지훈과는 친구사이
+  - [주상욱](../Page/주상욱.md "wikilink") : 여지훈 역 - 특수사건 전담반 텐의 팀장
+  - [김상호](../Page/김상호_\(배우\).md "wikilink") : 백도식 역 - 특수사건 전담반 텐 소속 형사
+  - [조안](../Page/조안_\(배우\).md "wikilink") : 남예리 역 - 특수사건 전담반 텐 소속 프로파일러
+  - [최우식](../Page/최우식.md "wikilink") : 박민호 역 - 특수사건 전담반 텐 소속 형사
+  - [윤지혜](../Page/윤지혜_\(배우\).md "wikilink") : 서유림 역 - 부검의. 여지훈과는 친구사이
   - [최범호](../Page/최범호.md "wikilink") : 정우식 국장 역 - 특수사건 전담반 텐을 결성
 
 ### 그 외 인물
 
   - 유상전
   - [김호영](../Page/김호영.md "wikilink") : 정윤수 역 - 정희주의 아버지
-  - [박혜진](https://ko.wikipedia.org/wiki/박혜진_\(배우\) "wikilink") : F사건 첫 번째 피해자 문혜진의 어머니 김혜자 역
+  - [박혜진](../Page/박혜진_\(배우\).md "wikilink") : F사건 첫 번째 피해자 문혜진의 어머니 김혜자 역
   - [곽민석](https://ko.wikipedia.org/wiki/곽민석 "wikilink")
-  - [김민경](https://ko.wikipedia.org/wiki/김민경_\(1960년\) "wikilink") : 정희주의 어머니 역
+  - [김민경](../Page/김민경_\(1960년\).md "wikilink") : 정희주의 어머니 역
   - 심우창 : 심우창 역 - 경찰총장
   - [권오진](../Page/권오진.md "wikilink")
   - [조우진](https://ko.wikipedia.org/wiki/조우진 "wikilink") : F사건 두 번째 피해자 송미주 사건 담당 형사 역
-  - [손선근](https://ko.wikipedia.org/wiki/손선근 "wikilink") : 박민호의 아버지 역
-  - [강필석](https://ko.wikipedia.org/wiki/강필석 "wikilink")
-  - [김진태](https://ko.wikipedia.org/wiki/김진태_\(배우\) "wikilink")
+  - [손선근](../Page/손선근.md "wikilink") : 박민호의 아버지 역
+  - [강필석](../Page/강필석.md "wikilink")
+  - [김진태](../Page/김진태_\(배우\).md "wikilink")
   - 이태형
   - 김미준
   - 김아미
   - [정다운](https://ko.wikipedia.org/wiki/정다운 "wikilink") : 대전 테이프 살인사건 피해자 송경미의 친구 역
   - 김보빈
   - 윤지영
-  - [이은채](https://ko.wikipedia.org/wiki/이은채 "wikilink")
-  - [손영순](https://ko.wikipedia.org/wiki/손영순 "wikilink") : F사건 세 번째 피해자 최현정의 할머니 역
+  - [이은채](../Page/이은채.md "wikilink")
+  - [손영순](../Page/손영순.md "wikilink") : F사건 세 번째 피해자 최현정의 할머니 역
   - [이소윤](../Page/이소윤.md "wikilink") : 정희주 역 - 여지훈의 여자친구
   - 신소현
   - 이승찬
-  - [이미은](https://ko.wikipedia.org/wiki/이미은 "wikilink") \<\!--
+  - [이미은](../Page/이미은.md "wikilink") \<\!--
   - [김호영](../Page/김호영.md "wikilink")
   - [곽민석](https://ko.wikipedia.org/wiki/곽민석 "wikilink")
   - [김민경](https://ko.wikipedia.org/wiki/김민경 "wikilink")
   - [심우창](https://ko.wikipedia.org/wiki/심우창 "wikilink")--\>
   - 유지현
-  - [정재진](https://ko.wikipedia.org/wiki/정재진 "wikilink")\<\!--
-  - [강필석](https://ko.wikipedia.org/wiki/강필석 "wikilink")
-  - [김진태](https://ko.wikipedia.org/wiki/김진태_\(배우\) "wikilink")
+  - [정재진](../Page/정재진.md "wikilink")\<\!--
+  - [강필석](../Page/강필석.md "wikilink")
+  - [김진태](../Page/김진태_\(배우\).md "wikilink")
   - [김미준](https://ko.wikipedia.org/wiki/김미준 "wikilink")--\>
   - 유재현
   - 민대식
-  - [정명준](https://ko.wikipedia.org/wiki/정명준 "wikilink")\<\!--
+  - [정명준](../Page/정명준.md "wikilink")\<\!--
   - [이소윤](../Page/이소윤.md "wikilink")
-  - [손선근](https://ko.wikipedia.org/wiki/손선근 "wikilink")--\>
+  - [손선근](../Page/손선근.md "wikilink")--\>
   - 홍광표
   - 김은숙
   - 정은성
   - 이희숙
-  - [전헌태](https://ko.wikipedia.org/wiki/전헌태 "wikilink")
+  - [전헌태](../Page/전헌태.md "wikilink")
 
 <!-- end list -->
 
-  - [한명구](https://ko.wikipedia.org/wiki/한명구 "wikilink") : 강윤구 역 - 경찰대학 행정학과 교수, 여지훈의 스승
+  - [한명구](../Page/한명구.md "wikilink") : 강윤구 역 - 경찰대학 행정학과 교수, 여지훈의 스승
   - [유하복](../Page/유하복.md "wikilink") : 정남수 역
   - [오승윤](https://ko.wikipedia.org/wiki/오승윤_\(1991년\) "wikilink") : 심이호 역 - 경찰대학 대학생, 여지훈의 대학 후배
   - 김선화
@@ -85,7 +85,7 @@
 
   - [현성](../Page/현성_\(배우\).md "wikilink") : 강종윤 역 - 살인사건 용의자
   - [김현균](../Page/김현균.md "wikilink") : 이선호 역
-  - [이용직](https://ko.wikipedia.org/wiki/이용직_\(배우\) "wikilink") : 임민섭 역 - 임도술의 동생
+  - [이용직](../Page/이용직_\(배우\).md "wikilink") : 임민섭 역 - 임도술의 동생
   - [유재명](../Page/유재명.md "wikilink") : 강성훈 역 - 로얄심부름센터 사장
   - 민영 : 김은주 역 - 강종윤의 아내
   - [최홍일](../Page/최홍일.md "wikilink") : 임도술 역 - 살해 피해자
@@ -95,23 +95,23 @@
   - 강인아
   - 차상미
   - 유재훈
-  - [장문규](https://ko.wikipedia.org/wiki/장문규 "wikilink")
+  - [장문규](../Page/장문규.md "wikilink")
   - 손흥민
   - 서민경
   - 김효명
-  - [손인용](https://ko.wikipedia.org/wiki/손인용 "wikilink")
+  - [손인용](../Page/손인용.md "wikilink")
   - 장지혜
   - 정세환
   - 김소은
   - 권지민
   - 이현주 \<\!--
   - [김현균](../Page/김현균.md "wikilink")--\>
-  - [황금희](https://ko.wikipedia.org/wiki/황금희 "wikilink") : 홍정임 역 - 이선호의 아내
+  - [황금희](../Page/황금희.md "wikilink") : 홍정임 역 - 이선호의 아내
   - 설지윤\<\!--
-  - [이용직](https://ko.wikipedia.org/wiki/이용직 "wikilink")
+  - [이용직](../Page/이용직.md "wikilink")
   - [최홍일](../Page/최홍일.md "wikilink")
   - 김성윤
-  - [최대성](https://ko.wikipedia.org/wiki/최대성 "wikilink")
+  - [최대성](../Page/최대성.md "wikilink")
   - 강인아
   - 민영--\>
   - [소희정](../Page/소희정.md "wikilink") : 김공지 역 - 카지노 사채업자
@@ -126,8 +126,8 @@
 
 <!-- end list -->
 
-  - [강성민](https://ko.wikipedia.org/wiki/강성민_\(배우\) "wikilink") : 도성규 역
-  - [정소영](https://ko.wikipedia.org/wiki/정소영_\(배우\) "wikilink") : 양선화 역 - 성재민의 아내
+  - [강성민](../Page/강성민_\(배우\).md "wikilink") : 도성규 역
+  - [정소영](../Page/정소영_\(배우\).md "wikilink") : 양선화 역 - 성재민의 아내
   - [유상재](../Page/유상재.md "wikilink") : 성재민 역 - 변호사
   - 최우리
   - 조련
@@ -141,7 +141,7 @@
   - 황규환
   - 유필란
   - 김명일
-  - [윤정은](https://ko.wikipedia.org/wiki/윤정은 "wikilink")
+  - [윤정은](../Page/윤정은.md "wikilink")
 
 <!-- end list -->
 
@@ -149,13 +149,13 @@
   - [정혜성](../Page/정혜성.md "wikilink") : 배서연 역 - 신영근의 제자, 대학원생
   - 이해인
   - 서한결
-  - [문경민](https://ko.wikipedia.org/wiki/문경민 "wikilink") : 문장 분석가 역
+  - [문경민](../Page/문경민.md "wikilink") : 문장 분석가 역
   - 신동훈
   - 문채성\<\!--
   - [정수인](https://ko.wikipedia.org/wiki/정수인 "wikilink")--\>
   - 진영범
   - 이정수
-  - [육미라](https://ko.wikipedia.org/wiki/육미라 "wikilink") : 신영근네 동네 슈퍼 주인 역
+  - [육미라](../Page/육미라.md "wikilink") : 신영근네 동네 슈퍼 주인 역
   - 김용진
   - 유재동
   - 권나연
@@ -165,8 +165,8 @@
 
 <!-- end list -->
 
-  - [이희진](https://ko.wikipedia.org/wiki/이희진_\(배우\) "wikilink") : 송화영 역 - 재즈 카페 가수, 시각 장애인
-  - [장원영](https://ko.wikipedia.org/wiki/장원영_\(배우\) "wikilink") : 박은수 역 - 최초 신고자, 가수
+  - [이희진](../Page/이희진_\(배우\).md "wikilink") : 송화영 역 - 재즈 카페 가수, 시각 장애인
+  - [장원영](../Page/장원영_\(배우\).md "wikilink") : 박은수 역 - 최초 신고자, 가수
   - [송유하](../Page/송유하.md "wikilink")
   - [장인섭](../Page/장인섭.md "wikilink") : 김윤석 역
   - 김태현
@@ -180,7 +180,7 @@
 
 <!-- end list -->
 
-  - [임승대](https://ko.wikipedia.org/wiki/임승대 "wikilink") : 김주철 역 - 개인택시기사
+  - [임승대](../Page/임승대.md "wikilink") : 김주철 역 - 개인택시기사
   - [강기화](../Page/강기화.md "wikilink") : 이지수 역
   - [민성욱](../Page/민성욱.md "wikilink") : 장석범 역 - 빈집털이범
   - 최교식 : 싹쓸이 역 - 전직 빈집털이범
@@ -196,8 +196,8 @@
 
   - [지서윤](https://ko.wikipedia.org/wiki/지서윤 "wikilink") : 김민선 역 - 외과전문의
   - 오은호 : 오현주 역 - 룸살롱 운영
-  - [김영무](https://ko.wikipedia.org/wiki/김영무_\(배우\) "wikilink") : 이종훈 역 - 외과과장. 김민선의 남편
-  - [오현철](https://ko.wikipedia.org/wiki/오현철 "wikilink")
+  - [김영무](../Page/김영무_\(배우\).md "wikilink") : 이종훈 역 - 외과과장. 김민선의 남편
+  - [오현철](../Page/오현철.md "wikilink")
   - 박지은
   - 김선미
   - 오지연
@@ -215,9 +215,9 @@
 
 <!-- end list -->
 
-  - [이무생](https://ko.wikipedia.org/wiki/이무생 "wikilink") : 지진혁 역
+  - [이무생](../Page/이무생.md "wikilink") : 지진혁 역
   - [이준혁](../Page/이준혁_\(1972년\).md "wikilink")\<\!--
-  - [손선근](https://ko.wikipedia.org/wiki/손선근 "wikilink")--\>
+  - [손선근](../Page/손선근.md "wikilink")--\>
   - 허선행
   - 노수정
   - 김일구
@@ -241,8 +241,8 @@
   - 신서경
   - 박문아\<\!--
   - [서유림](https://ko.wikipedia.org/wiki/서유림 "wikilink")--\> \<\!--
-  - [이무생](https://ko.wikipedia.org/wiki/이무생 "wikilink")
-  - [손선근](https://ko.wikipedia.org/wiki/손선근 "wikilink")
+  - [이무생](../Page/이무생.md "wikilink")
+  - [손선근](../Page/손선근.md "wikilink")
   - [심우창](https://ko.wikipedia.org/wiki/심우창 "wikilink")
   - [김규환](https://ko.wikipedia.org/wiki/김규환 "wikilink")
   - [함진성](https://ko.wikipedia.org/wiki/함진성 "wikilink")--\>
@@ -262,19 +262,19 @@
 
 ### 특별출연
 
-  - [예수정](https://ko.wikipedia.org/wiki/예수정 "wikilink") : F사건 세 번째 피해자 최현정의 어머니 역 (1 \~ 2화)
+  - [예수정](../Page/예수정.md "wikilink") : F사건 세 번째 피해자 최현정의 어머니 역 (1 \~ 2화)
   - [박병은](../Page/박병은.md "wikilink") : 송경태 역 (1 \~ 3화, 12화)
-  - [윤예희](https://ko.wikipedia.org/wiki/윤예희 "wikilink") : 사라 킴 (김순애) 역 (3화)
-  - [이현경](https://ko.wikipedia.org/wiki/이현경_\(배우\) "wikilink") : 최상희 역 - 백도식의 맞선녀 (6화)
+  - [윤예희](../Page/윤예희.md "wikilink") : 사라 킴 (김순애) 역 (3화)
+  - [이현경](../Page/이현경_\(배우\).md "wikilink") : 최상희 역 - 백도식의 맞선녀 (6화)
   - [김용명](../Page/김용명.md "wikilink") : 반달 역 - 권투도장 관장, 백도식의 정보원 (6화)
-  - [이선진](https://ko.wikipedia.org/wiki/이선진 "wikilink") : 신영근의 동료 교수 역 - 여지훈의 지인 (7화)
+  - [이선진](../Page/이선진.md "wikilink") : 신영근의 동료 교수 역 - 여지훈의 지인 (7화)
   - [장남열](../Page/장남열.md "wikilink") (8화)
-  - [최송현](https://ko.wikipedia.org/wiki/최송현 "wikilink") : 윤서현 역 - 역학조사 임시본부 팀장 (9화)
-  - [성지루](https://ko.wikipedia.org/wiki/성지루 "wikilink") : 내사과 형사 (11화)
+  - [최송현](../Page/최송현.md "wikilink") : 윤서현 역 - 역학조사 임시본부 팀장 (9화)
+  - [성지루](../Page/성지루.md "wikilink") : 내사과 형사 (11화)
 
 ### 우정출연
 
-  - [이두일](https://ko.wikipedia.org/wiki/이두일 "wikilink") : 강윤구 교수의 단골 구두수선집 사장 역 (3화)
+  - [이두일](../Page/이두일.md "wikilink") : 강윤구 교수의 단골 구두수선집 사장 역 (3화)
 
 ## 제작진
 
@@ -295,21 +295,21 @@
 
 ## 방영 목록
 
-| [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") |
-| ------------------------------------------------------- |
-| 회차                                                      |
-| 1화                                                      |
-| 2화                                                      |
-| 3화                                                      |
-| 4화                                                      |
-| 5화                                                      |
-| 6화                                                      |
-| 7화                                                      |
-| 8화                                                      |
-| 9화                                                      |
-| 10화                                                     |
-| 11화                                                     |
-| 12화                                                     |
+| [2013년](../Page/2013년.md "wikilink") |
+| ------------------------------------ |
+| 회차                                   |
+| 1화                                   |
+| 2화                                   |
+| 3화                                   |
+| 4화                                   |
+| 5화                                   |
+| 6화                                   |
+| 7화                                   |
+| 8화                                   |
+| 9화                                   |
+| 10화                                  |
+| 11화                                  |
+| 12화                                  |
 
 ## 사운드 트랙
 

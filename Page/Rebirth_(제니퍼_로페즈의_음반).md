@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Rebirth \(  \)](https://ko.wikipedia.org/wiki/Rebirth_\(__\)).
 
 
-《**Rebirth**》는 [제니퍼 로페즈의](https://ko.wikipedia.org/wiki/제니퍼_로페즈 "wikilink") 네번째 정규 음반으로, 2005년 2월에 발매되었다.
+《**Rebirth**》는 [제니퍼 로페즈의](../Page/제니퍼_로페즈.md "wikilink") 네번째 정규 음반으로, 2005년 2월에 발매되었다.
 
 ## 수록곡
 
