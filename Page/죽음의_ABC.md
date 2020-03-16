@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ ABC](https://ko.wikipedia.org/wiki/_ABC).
 
 
-《**죽음의 ABC**》는 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink")에 공개된 영화이다.
+《**죽음의 ABC**》는 [2013년](../Page/2013년.md "wikilink")에 공개된 영화이다.
 
 ## 배역
 

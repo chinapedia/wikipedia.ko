@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Koyote in London](https://ko.wikipedia.org/wiki/Koyote_in_London).
 
 
-《**Koyote in London**》은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 혼성 음악 그룹 [코요태](https://ko.wikipedia.org/wiki/코요태 "wikilink")의 아홉 번째 [정규 음반으로](https://ko.wikipedia.org/wiki/정규_음반 "wikilink"), 코요태의 음반 중 [카세트 테이프로](https://ko.wikipedia.org/wiki/카세트_테이프 "wikilink") 발매된 마지막 음반이다.
+《**Koyote in London**》은 [대한민국](../Page/대한민국.md "wikilink")의 혼성 음악 그룹 [코요태](https://ko.wikipedia.org/wiki/코요태 "wikilink")의 아홉 번째 [정규 음반으로](../Page/정규_음반.md "wikilink"), 코요태의 음반 중 [카세트 테이프로](https://ko.wikipedia.org/wiki/카세트_테이프 "wikilink") 발매된 마지막 음반이다.
 
 ## 개요
 

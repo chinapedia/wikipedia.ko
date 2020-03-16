@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ETERNITY \( \)](https://ko.wikipedia.org/wiki/ETERNITY_\(_\)).
 
 
-〈**ETERNITY**〉는 대한민국의 남성 그룹 [빅스의](https://ko.wikipedia.org/wiki/빅스_\(음악_그룹\) "wikilink") 네 번째 한국 싱글 음반이다.\[1\] 2014년 5월 27일 CJ E\&M을 통해 발매되었다.
+〈**ETERNITY**〉는 대한민국의 남성 그룹 [빅스의](../Page/빅스_\(음악_그룹\).md "wikilink") 네 번째 한국 싱글 음반이다.\[1\] 2014년 5월 27일 CJ E\&M을 통해 발매되었다.
 
 ## 수록곡
 

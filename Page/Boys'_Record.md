@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Boys\' Record](https://ko.wikipedia.org/wiki/Boys\'_Record).
 
 
-***Boys\` Record***는 대한민국의 남성 그룹 [빅스의](https://ko.wikipedia.org/wiki/빅스_\(음악_그룹\) "wikilink") 첫 번째 한국 스페셜 싱글 음반이다.\[1\] 2015년 2월 24일 CJ E\&M을 통해 발매되었다.
+***Boys\` Record***는 대한민국의 남성 그룹 [빅스의](../Page/빅스_\(음악_그룹\).md "wikilink") 첫 번째 한국 스페셜 싱글 음반이다.\[1\] 2015년 2월 24일 CJ E\&M을 통해 발매되었다.
 
 ## 수록곡
 

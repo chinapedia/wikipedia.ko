@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Let\'s Fly](https://ko.wikipedia.org/wiki/Let\'s_Fly).
 
 
-***Let's Fly***는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악 그룹 [B1A4](https://ko.wikipedia.org/wiki/B1A4 "wikilink")의 데뷔 음반이자 1번째 미니앨범이다. 타이틀곡은 \<O.K\>이며, 후속곡은 <못된것만 배워서>로 7월 초까지 활동을 꾸준히 이어갔다.
+***Let's Fly***는 [대한민국](../Page/대한민국.md "wikilink")의 음악 그룹 [B1A4](../Page/B1A4.md "wikilink")의 데뷔 음반이자 1번째 미니앨범이다. 타이틀곡은 \<O.K\>이며, 후속곡은 <못된것만 배워서>로 7월 초까지 활동을 꾸준히 이어갔다.
 
 ## 트랙리스트
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ONIELy](https://ko.wikipedia.org/wiki/ONIELy).
 
 
-**oNIELy**는 [틴탑](https://ko.wikipedia.org/wiki/틴탑 "wikilink")의 멤버인 니엘의 1번째 미니 앨범이자 솔로 앨범이며, 2월 16일에 발매되었다.\[1\]
+**oNIELy**는 [틴탑](../Page/틴탑.md "wikilink")의 멤버인 니엘의 1번째 미니 앨범이자 솔로 앨범이며, 2월 16일에 발매되었다.\[1\]
 
 ## 수록곡
 

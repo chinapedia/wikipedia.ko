@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Setia Ku Di Sini](https://ko.wikipedia.org/wiki/Setia_Ku_Di_Sini).
 
 
-**Setia Ku Di Sini**는 [말레이시아](https://ko.wikipedia.org/wiki/말레이시아 "wikilink")의 팝 가수 [지아나 제인의](../Page/지아나_제인.md "wikilink") 세 번째 정규 앨범이다. 1995년 베르텔스만 뮤직 그룹을 통해 발매되었으며 총 180,000장의 판매량을 기록했다.
+**Setia Ku Di Sini**는 [말레이시아](../Page/말레이시아.md "wikilink")의 팝 가수 [지아나 제인의](../Page/지아나_제인.md "wikilink") 세 번째 정규 앨범이다. 1995년 베르텔스만 뮤직 그룹을 통해 발매되었으며 총 180,000장의 판매량을 기록했다.
 
 ## 앨범 개요
 

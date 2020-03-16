@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Aev Diary](https://ko.wikipedia.org/wiki/Aev_Diary).
 
 
-***Aev Diary*** (에이브 다이어리)는 팝 피아니스트 [에이브의](https://ko.wikipedia.org/wiki/에이브_\(음악가\) "wikilink") 음반 프로젝트이며, 가수들과의 [컬래버레이션을](https://ko.wikipedia.org/wiki/협업 "wikilink") 통해 한 달에 한번씩 음악 일기 형식으로 발표되는 싱글 앨범이다.
+***Aev Diary*** (에이브 다이어리)는 팝 피아니스트 [에이브의](../Page/에이브_\(음악가\).md "wikilink") 음반 프로젝트이며, 가수들과의 [컬래버레이션을](https://ko.wikipedia.org/wiki/협업 "wikilink") 통해 한 달에 한번씩 음악 일기 형식으로 발표되는 싱글 앨범이다.
 
 ## 음반
 
@@ -31,6 +31,6 @@
 
 ### Aev Diary Vol. 10 사 이
 
-〈**Aev Diary Vol. 10 사 이**〉는 록 밴드 [국카스텐](https://ko.wikipedia.org/wiki/국카스텐 "wikilink")의 보컬인 하현우가 피처링으로 참여한 앨범이다. 에이브 다이어리 싱글앨범 중 이례적으로 에이브가 아닌 다른 사람이 가사를 썼다.
+〈**Aev Diary Vol. 10 사 이**〉는 록 밴드 [국카스텐](../Page/국카스텐.md "wikilink")의 보컬인 하현우가 피처링으로 참여한 앨범이다. 에이브 다이어리 싱글앨범 중 이례적으로 에이브가 아닌 다른 사람이 가사를 썼다.
 
 [분류:2014년 음반](https://ko.wikipedia.org/wiki/분류:2014년_음반 "wikilink") [분류:2015년 음반](https://ko.wikipedia.org/wiki/분류:2015년_음반 "wikilink")

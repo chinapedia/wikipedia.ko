@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SORN](https://ko.wikipedia.org/wiki/SORN).
 
 
-**SORN**(, , 1996년 11월 18일 \~ )은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서 활동하는 [태국](https://ko.wikipedia.org/wiki/태국 "wikilink") 출신 가수 겸 연기자로, [걸 그룹](https://ko.wikipedia.org/wiki/걸_그룹 "wikilink") [CLC의](../Page/CLC_\(음악_그룹\).md "wikilink") 서브 보컬을 담당하고 있다.\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]
+**SORN**(, , 1996년 11월 18일 \~ )은 [대한민국](../Page/대한민국.md "wikilink")에서 활동하는 [태국](../Page/태국.md "wikilink") 출신 가수 겸 연기자로, [걸 그룹](../Page/걸_그룹.md "wikilink") [CLC의](../Page/CLC_\(음악_그룹\).md "wikilink") 서브 보컬을 담당하고 있다.\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]
 
 2011년 [K팝 스타 헌트에](https://ko.wikipedia.org/wiki/K팝_스타_헌트 "wikilink") 참가하여 우승하였다.
 
@@ -15,14 +15,14 @@
 
 ### 피처링
 
-  - "Because You Are The One" (2012, [G.NA](https://ko.wikipedia.org/wiki/G.NA "wikilink") 노래)
+  - "Because You Are The One" (2012, [G.NA](../Page/G.NA.md "wikilink") 노래)
 
 ## 출연 작품
 
 ### 텔레비전 프로그램
 
   - [K팝 스타 헌트](https://ko.wikipedia.org/wiki/K팝_스타_헌트 "wikilink") (2011) - 참가자
-  - [아이돌잔치](https://ko.wikipedia.org/wiki/아이돌잔치 "wikilink") (2016-현재) - 고정 출연
+  - [아이돌잔치](../Page/아이돌잔치.md "wikilink") (2016-현재) - 고정 출연
 
 ### 텔레비전 드라마
 
@@ -32,7 +32,7 @@
 
 ## 외부 링크
 
-  - [SORN](https://www.youtube.com/channel/UCOzB7NB3Tr98XVwC8bLm5oA) - [유튜브](https://ko.wikipedia.org/wiki/유튜브 "wikilink")
+  - [SORN](https://www.youtube.com/channel/UCOzB7NB3Tr98XVwC8bLm5oA) - [유튜브](../Page/유튜브.md "wikilink")
 
   -
   -

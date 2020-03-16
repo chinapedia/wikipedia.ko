@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [It B1A4](https://ko.wikipedia.org/wiki/It_B1A4).
 
 
-***It B1A4***는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악 그룹 B1A4의 데뷔 앨범에 이은 2번째 미니앨범이다. 타이틀곡인 *Beautiful Target*의 활동을 종료한 후, 2번 트랙의 *My Love*를 후속곡으로 정해 활동을 재개했다.
+***It B1A4***는 [대한민국](../Page/대한민국.md "wikilink")의 음악 그룹 B1A4의 데뷔 앨범에 이은 2번째 미니앨범이다. 타이틀곡인 *Beautiful Target*의 활동을 종료한 후, 2번 트랙의 *My Love*를 후속곡으로 정해 활동을 재개했다.
 
 ## 수록곡
 

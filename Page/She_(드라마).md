@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [She \(\)](https://ko.wikipedia.org/wiki/She_\(\)).
 
 
-《**She**》는, [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [4월 18일부터](https://ko.wikipedia.org/wiki/4월_18일 "wikilink") [5월 16일까지](https://ko.wikipedia.org/wiki/5월_16일 "wikilink") [매주 토요일 23:40 \~ 24:05에](https://ko.wikipedia.org/wiki/후지_TV_토드라 "wikilink") [후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink") [계열에서](https://ko.wikipedia.org/wiki/후지_네트워크 "wikilink") 방송된 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink"). 주연은 [마츠오카 마유](../Page/마츠오카_마유.md "wikilink").
+《**She**》는, [2015년](../Page/2015년.md "wikilink") [4월 18일부터](../Page/4월_18일.md "wikilink") [5월 16일까지](../Page/5월_16일.md "wikilink") [매주 토요일 23:40 \~ 24:05에](../Page/후지_TV_토드라.md "wikilink") [후지 TV](../Page/후지_TV.md "wikilink") [계열에서](../Page/후지_네트워크.md "wikilink") 방송된 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink"). 주연은 [마츠오카 마유](../Page/마츠오카_마유.md "wikilink").
 
 ## 개요
 
@@ -12,7 +12,7 @@
   - 니시자와 료코 - [마츠오카 마유](../Page/마츠오카_마유.md "wikilink")
   - 오기와라 아즈사 - [나카죠 아야미](https://ko.wikipedia.org/wiki/나카죠_아야미 "wikilink")
   - 야마모토 사야 - [타케토미 세이카](../Page/타케토미_세이카.md "wikilink")
-  - 오쿠무라 치사토 - [모리카와 아오이](https://ko.wikipedia.org/wiki/모리카와_아오이 "wikilink")
+  - 오쿠무라 치사토 - [모리카와 아오이](../Page/모리카와_아오이.md "wikilink")
   - 에토 미유리 - [시미즈 쿠루미](../Page/시미즈_쿠루미.md "wikilink")
   - 무라오카 하루토 - [나리타 료](../Page/나리타_료.md "wikilink")
   - 히로세 유키 - [시라스 진](../Page/시라스_진.md "wikilink")
@@ -22,7 +22,7 @@
   - 각본 - 아다치 나오코
   - 음악 - ［Alexandros］
   - 연출 - 야마우치 다이스케, 키타보 신이치
-  - 제작 - [후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink")
+  - 제작 - [후지 TV](../Page/후지_TV.md "wikilink")
   - 제작 저작 - 쿄도 TV
 
 ## 방송 일자
@@ -100,7 +100,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>평균 시청률 3.4% (시청률은 <a href="https://ko.wikipedia.org/wiki/간토_지방" title="wikilink">칸토 지구</a>·<a href="https://ko.wikipedia.org/wiki/비디오_리서치" title="wikilink">비디오 리서치사</a> 조사)</p></td>
+<td><p>평균 시청률 3.4% (시청률은 <a href="../Page/간토_지방.md" title="wikilink">칸토 지구</a>·<a href="../Page/비디오_리서치.md" title="wikilink">비디오 리서치사</a> 조사)</p></td>
 <td></td>
 <td></td>
 <td></td>

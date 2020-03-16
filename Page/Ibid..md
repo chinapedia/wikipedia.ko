@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Ibid.](https://ko.wikipedia.org/wiki/Ibid.).
 
 
-[썸네일의](https://ko.wikipedia.org/wiki/파일:Examples_of_Ibid,_from_"Justice"_by_Michael_J-_Sandel_2013-04-08_20-17.jpg "wikilink") 《정의란 무엇인가》 한국어판 386쪽에 쓰인 "Ibid."의 예시\]\] **Ibid.**는 [라틴어](https://ko.wikipedia.org/wiki/라틴어 "wikilink") "ibidem"(같은 자리에서)의 축약어로서 [미주](https://ko.wikipedia.org/wiki/미주 "wikilink")나 [각주](https://ko.wikipedia.org/wiki/각주 "wikilink")에서 동일한 문헌을 연속해서 재인용할 때 사용하는 용어이다. 한국어 표현으로 **위의 책**, **상게서**, **같은 책**으로 쓰이기도 한다. 라틴어의 의미상 바로 앞의 문헌을 지칭하는 말이므로 연속해서 같은 문헌을 인용하지 않고 중간에 다른 문헌을 인용한다면 이 용어를 사용해서는 안 된다. 이 때는 "op. cit."(앞의 책, 전게서)를 사용해야 한다.
+[썸네일의](https://ko.wikipedia.org/wiki/파일:Examples_of_Ibid,_from_"Justice"_by_Michael_J-_Sandel_2013-04-08_20-17.jpg "wikilink") 《정의란 무엇인가》 한국어판 386쪽에 쓰인 "Ibid."의 예시\]\] **Ibid.**는 [라틴어](../Page/라틴어.md "wikilink") "ibidem"(같은 자리에서)의 축약어로서 [미주](https://ko.wikipedia.org/wiki/미주 "wikilink")나 [각주](../Page/각주.md "wikilink")에서 동일한 문헌을 연속해서 재인용할 때 사용하는 용어이다. 한국어 표현으로 **위의 책**, **상게서**, **같은 책**으로 쓰이기도 한다. 라틴어의 의미상 바로 앞의 문헌을 지칭하는 말이므로 연속해서 같은 문헌을 인용하지 않고 중간에 다른 문헌을 인용한다면 이 용어를 사용해서는 안 된다. 이 때는 "op. cit."(앞의 책, 전게서)를 사용해야 한다.
 
 튜레비안 양식과 같은 방식은 각주나 미주에서 사용하지만 하버드 스타일(이름-날짜)의 본문 내 인용에서도 바로 앞에 나온 서적을 지칭하기 위해 사용할 수 있다.\[1\]\[2\] 이때 "Ibid."가 지칭하는 문헌은 같은 문단이나 쪽에서 명확히 확인할 수 있어야 한다.
 
@@ -21,7 +21,7 @@
 
 ## 같이 보기
 
-  - [인용](https://ko.wikipedia.org/wiki/인용 "wikilink")
+  - [인용](../Page/인용.md "wikilink")
 
 ## 각주
 

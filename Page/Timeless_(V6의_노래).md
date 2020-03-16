@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Timeless \(V6 \)](https://ko.wikipedia.org/wiki/Timeless_\(V6_\)).
 
 
-〈**Timeless**〉는, [V6의](https://ko.wikipedia.org/wiki/V6_\(음악_그룹\) "wikilink") 45번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink").
+〈**Timeless**〉는, [V6의](../Page/V6_\(음악_그룹\).md "wikilink") 45번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 
@@ -16,7 +16,7 @@
 <!-- end list -->
 
 1.  **Timeless**
-      - [TV 아사히](https://ko.wikipedia.org/wiki/TV_아사히 "wikilink") 계열 드라마 《경시청 수사 1과 9계》 주제가
+      - [TV 아사히](../Page/TV_아사히.md "wikilink") 계열 드라마 《경시청 수사 1과 9계》 주제가
 2.  **SPOT LIGHT**
 
 <!-- end list -->

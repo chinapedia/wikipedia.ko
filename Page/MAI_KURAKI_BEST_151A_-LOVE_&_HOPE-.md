@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [MAI KURAKI BEST 151A -LOVE \& HOPE-](https://ko.wikipedia.org/wiki/MAI_KURAKI_BEST_151A_-LOVE_\&_HOPE-).
 
 
-《**Mai Kuraki BEST 151A: LOVE & HOPE**》(마이 쿠라키 베스트 이치고이치에이 러브 앤드 호프)는 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [11월 12일에](https://ko.wikipedia.org/wiki/11월_12일 "wikilink") [노던 뮤직에서](https://ko.wikipedia.org/wiki/노던_뮤직 "wikilink") 발매된 [쿠라키 마이의](https://ko.wikipedia.org/wiki/쿠라키_마이 "wikilink") 세 번째 [베스트 음반이다](https://ko.wikipedia.org/wiki/베스트_음반 "wikilink").
+《**Mai Kuraki BEST 151A: LOVE & HOPE**》(마이 쿠라키 베스트 이치고이치에이 러브 앤드 호프)는 [2014년](../Page/2014년.md "wikilink") [11월 12일에](../Page/11월_12일.md "wikilink") [노던 뮤직에서](https://ko.wikipedia.org/wiki/노던_뮤직 "wikilink") 발매된 [쿠라키 마이의](../Page/쿠라키_마이.md "wikilink") 세 번째 [베스트 음반이다](https://ko.wikipedia.org/wiki/베스트_음반 "wikilink").
 
 ## 개요
 
-데뷔 15주년 기념 베스트 음반이다. “2[CD](https://ko.wikipedia.org/wiki/CD "wikilink")+[DVD](https://ko.wikipedia.org/wiki/DVD "wikilink")”의 초회한정반A와 B, “2CD”의 통상반에서의 3종류 형태로 발매됐다.
+데뷔 15주년 기념 베스트 음반이다. “2[CD](https://ko.wikipedia.org/wiki/CD "wikilink")+[DVD](../Page/DVD.md "wikilink")”의 초회한정반A와 B, “2CD”의 통상반에서의 3종류 형태로 발매됐다.
 
 자켓 사진은 2000년에 발매된 첫 번째 음반 《[delicious way](https://ko.wikipedia.org/wiki/delicious_way "wikilink")》와 같은 머리 모양, 포즈를 재현해서 촬영된 것으로 되어있다.
 
@@ -36,7 +36,7 @@
       - 작사: 쿠라키 마이, 작곡: 오노 아이카, 편곡: 이케다 다이스케, Cybersound
     <!-- end list -->
       -
-        15번째 싱글. 애니메이션 영화 《[명탐정 코난: 미궁의 십자로](https://ko.wikipedia.org/wiki/명탐정_코난:_미궁의_십자로 "wikilink")》 주제가.
+        15번째 싱글. 애니메이션 영화 《[명탐정 코난: 미궁의 십자로](../Page/명탐정_코난:_미궁의_십자로.md "wikilink")》 주제가.
 5.  **[내일로 이어지는 다리](../Page/내일로_이어지는_다리.md "wikilink")**() \[3:58\]
       - 작사: 쿠라키 마이, 작곡: [토쿠나가 아키히토](../Page/토쿠나가_아키히토.md "wikilink"), 편곡: 이케다 다이스케, 토쿠나가 아키히토
     <!-- end list -->
@@ -61,7 +61,7 @@
       - 작사: 쿠라키 마이, 작곡 · 편곡: 타지리 히로카즈
     <!-- end list -->
       -
-        36번째 싱글. [도카이 TV](https://ko.wikipedia.org/wiki/도카이_TV "wikilink") 드라마 《[안개에 사는 악마](https://ko.wikipedia.org/wiki/안개에_사는_악마 "wikilink")》 주제가.
+        36번째 싱글. [도카이 TV](../Page/도카이_TV.md "wikilink") 드라마 《[안개에 사는 악마](https://ko.wikipedia.org/wiki/안개에_사는_악마 "wikilink")》 주제가.
 10. **[당신이 있으니까](../Page/당신이_있으니까_\(쿠라키_마이의_노래\).md "wikilink")**() \[3:04\]
       - 작사: 쿠라키 마이, 모치즈키 유에, 작곡: 모치즈키 유에, 편곡: [오노즈카 아키라](https://ko.wikipedia.org/wiki/오노즈카_아키라 "wikilink")
     <!-- end list -->
@@ -81,7 +81,7 @@
       - 작사: 쿠라키 마이, 작곡: [후지와라 이쿠로](https://ko.wikipedia.org/wiki/후지와라_이쿠로 "wikilink")
     <!-- end list -->
       -
-        《[Mai Kuraki Symphonic Collection in Moscow](https://ko.wikipedia.org/wiki/Mai_Kuraki_Symphonic_Collection_in_Moscow "wikilink")》 수록곡의 오리지널 버전. 영화 《[화피](https://ko.wikipedia.org/wiki/화피 "wikilink")》 일본어 주제가.
+        《[Mai Kuraki Symphonic Collection in Moscow](https://ko.wikipedia.org/wiki/Mai_Kuraki_Symphonic_Collection_in_Moscow "wikilink")》 수록곡의 오리지널 버전. 영화 《[화피](../Page/화피.md "wikilink")》 일본어 주제가.
 14. **[사쿠라 사쿠라…](../Page/TRY_AGAIN_\(쿠라키_마이의_노래\).md "wikilink")**() \[4:43\]
       - 작사: 쿠라키 마이, 작곡: 오노 아이카, 편곡: 하야시 료
     <!-- end list -->
@@ -109,7 +109,7 @@
       - 작사: 쿠라키 마이, 작곡: 오노 아이카, 편곡: Cybersound
     <!-- end list -->
       -
-        6번째 싱글. [NHK](https://ko.wikipedia.org/wiki/일본방송협회 "wikilink") [아침 연속극 소설](https://ko.wikipedia.org/wiki/연속_TV_소설 "wikilink") 《[오드리](https://ko.wikipedia.org/wiki/오드리_\(일본의_드라마\) "wikilink")》 테마송.
+        6번째 싱글. [NHK](../Page/일본방송협회.md "wikilink") [아침 연속극 소설](../Page/연속_TV_소설.md "wikilink") 《[오드리](https://ko.wikipedia.org/wiki/오드리_\(일본의_드라마\) "wikilink")》 테마송.
 4.  **[Stand Up](https://ko.wikipedia.org/wiki/Stand_Up "wikilink")** (4:39)
       - 작사: 쿠라키 마이, 작곡 · 편곡: 토쿠나가 아키히토
     <!-- end list -->
@@ -119,27 +119,27 @@
       - 작사: 쿠라키 마이, 작곡: 오노 아이카, 편곡: Cybersound
     <!-- end list -->
       -
-        9번째 싱글. 요미우리 TV계 애니메이션 《명탐정 코난》 엔딩 테마. 애니메이션 영화 《[명탐정 코난: 천국으로의 카운트다운](https://ko.wikipedia.org/wiki/명탐정_코난:_천국으로의_카운트다운 "wikilink")》 [주제가](https://ko.wikipedia.org/wiki/주제가 "wikilink").
+        9번째 싱글. 요미우리 TV계 애니메이션 《명탐정 코난》 엔딩 테마. 애니메이션 영화 《[명탐정 코난: 천국으로의 카운트다운](../Page/명탐정_코난:_천국으로의_카운트다운.md "wikilink")》 [주제가](https://ko.wikipedia.org/wiki/주제가 "wikilink").
 6.  **[Feel fine\!](../Page/Feel_fine!.md "wikilink")** \[4:48\]
       - 작사: 쿠라키 마이, 작곡 · 편곡: 토쿠나가 아키히토
     <!-- end list -->
       -
-        12번째 싱글. [시세이도](https://ko.wikipedia.org/wiki/시세이도 "wikilink") [시 브리즈](https://ko.wikipedia.org/wiki/시_브리즈 "wikilink") CM송.
+        12번째 싱글. [시세이도](../Page/시세이도.md "wikilink") [시 브리즈](https://ko.wikipedia.org/wiki/시_브리즈 "wikilink") CM송.
 7.  **[Revive](https://ko.wikipedia.org/wiki/PUZZLE/Revive "wikilink")** \[4:39\]
       - 작사: 쿠라키 마이, 작곡: 오노 아이카, 편곡: 미구엘 사 페소아
     <!-- end list -->
       -
         31번째 싱글 〈PUZZLE／Revive〉의 2번째곡. 요미우리 TV계 애니메이션 《명탐정 코난》 오프닝 테마.
-8.  **[내가, 모르는, 나.](https://ko.wikipedia.org/wiki/All_My_Best "wikilink")**() \[4:03\]
+8.  **[내가, 모르는, 나.](../Page/All_My_Best.md "wikilink")**() \[4:03\]
       - 작사: 쿠라키 마이, 작곡: 모치즈키 유에, 편곡: 이케다 다이스케, 사토 슌
     <!-- end list -->
       -
-        베스트 음반 《ALL MY BEST》 수록곡. [고세](https://ko.wikipedia.org/wiki/고세 "wikilink") 에스프리끄 프레셔스 CM송.
+        베스트 음반 《ALL MY BEST》 수록곡. [고세](../Page/고세.md "wikilink") 에스프리끄 프레셔스 CM송.
 9.  **[Strong Heart](../Page/Strong_Heart.md "wikilink")** \[4:20\]
       - 작사: 쿠라키 마이, GIORGIO 13, 작곡 · 편곡: GIORGIO CANCEMI
     <!-- end list -->
       -
-        1번째 DVD 싱글. [간사이 TV](https://ko.wikipedia.org/wiki/간사이_TV_방송 "wikilink") [후지 TV계](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 드라마 《[HUNTER: 그 여자들, 현상금 사냥꾼](https://ko.wikipedia.org/wiki/HUNTER:_그_여자들,_현상금_사냥꾼 "wikilink")》 주제가.
+        1번째 DVD 싱글. [간사이 TV](../Page/간사이_TV_방송.md "wikilink") [후지 TV계](../Page/후지_TV.md "wikilink") 드라마 《[HUNTER: 그 여자들, 현상금 사냥꾼](https://ko.wikipedia.org/wiki/HUNTER:_그_여자들,_현상금_사냥꾼 "wikilink")》 주제가.
 10. **[Special morning day to you](https://ko.wikipedia.org/wiki/사랑에_사랑해서/Special_morning_day_to_you "wikilink")** \[4:34\]
       - 작사: 쿠라키 마이, 작곡 · 편곡: 토쿠나가 아키히토
     <!-- end list -->
@@ -154,7 +154,7 @@
       - 작사: 쿠라키 마이, 작곡 · 편곡: 토쿠나가 아키히토
     <!-- end list -->
       -
-        2번째 DVD 싱글. 애니메이션 영화 《[마녀 배달부 키키](https://ko.wikipedia.org/wiki/마녀_배달부_키키 "wikilink")》 주제가. 앨범 첫 수록.
+        2번째 DVD 싱글. 애니메이션 영화 《[마녀 배달부 키키](../Page/마녀_배달부_키키.md "wikilink")》 주제가. 앨범 첫 수록.
 13. **You can** \[4:02\]
       - 작사: 쿠라키 마이, 작곡: 오노 아이카, 편곡: Cybersound
     <!-- end list -->
@@ -188,7 +188,7 @@
 <tr class="odd">
 <td></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/콤팩트_디스크" title="wikilink">CD+DVD</a>, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a></p></td>
+<td><p><a href="../Page/콤팩트_디스크.md" title="wikilink">CD+DVD</a>, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/노던_뮤직" title="wikilink">노던 뮤직</a></p></td>
 </tr>
 <tr class="even">
@@ -209,7 +209,7 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/일본의_애니메이션" title="wikilink"><span style="color:#fff">TV 애니메이션</span></a> 《<a href="https://ko.wikipedia.org/wiki/명탐정_코난_(애니메이션)" title="wikilink"><span style="color:#fff"><strong>명탐정 코난</strong></span></a>》 여는 곡<br />
+<td><p><a href="../Page/일본의_애니메이션.md" title="wikilink"><span style="color:#fff">TV 애니메이션</span></a> 《<a href="../Page/명탐정_코난_(애니메이션).md" title="wikilink"><span style="color:#fff"><strong>명탐정 코난</strong></span></a>》 여는 곡<br />
 <small>2014년 11월 1일 (757화) ~ 2015년 3월 28일 (773화)</small></p></td>
 </tr>
 <tr class="even">

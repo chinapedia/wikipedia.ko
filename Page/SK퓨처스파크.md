@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [SK](https://ko.wikipedia.org/wiki/SK).
 
 
-**SK 퓨처스파크**(SK Futures Park)는 [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink") [강화군](https://ko.wikipedia.org/wiki/강화군 "wikilink") 길상면에 위치한 야구장이다. [SK 와이번스의](https://ko.wikipedia.org/wiki/SK_와이번스 "wikilink") 퓨처스팀·3군 루키팀 홈 구장 및 구단 전용 훈련장이다. 개관식 전까지는 **SK 드림파크**라는 명칭을 사용했다.
+**SK 퓨처스파크**(SK Futures Park)는 [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink") [강화군](../Page/강화군.md "wikilink") 길상면에 위치한 야구장이다. [SK 와이번스의](../Page/SK_와이번스.md "wikilink") 퓨처스팀·3군 루키팀 홈 구장 및 구단 전용 훈련장이다. 개관식 전까지는 **SK 드림파크**라는 명칭을 사용했다.
 
-[2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [4월 8일](https://ko.wikipedia.org/wiki/4월_8일 "wikilink") 공식적으로 토목공사 기공식을 가졌다. 당시 명칭은 SK 드림파크였다.\[1\]
+[2013년](../Page/2013년.md "wikilink") [4월 8일](../Page/4월_8일.md "wikilink") 공식적으로 토목공사 기공식을 가졌다. 당시 명칭은 SK 드림파크였다.\[1\]
 
 2015년 4월 1일 SK 퓨처스 파크 개관식을 실시, 공식 명칭을 **SK 퓨처스 파크**로 명명했다.
 

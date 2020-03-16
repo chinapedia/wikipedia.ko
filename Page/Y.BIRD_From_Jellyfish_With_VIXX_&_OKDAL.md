@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Y.BIRD From Jellyfish With VIXX \& OKDAL](https://ko.wikipedia.org/wiki/Y.BIRD_From_Jellyfish_With_VIXX_\&_OKDAL).
 
 
-***Y.BIRD From Jellyfish With VIXX & OKDAL***는 대한민국의 남성 그룹 [빅스의](https://ko.wikipedia.org/wiki/빅스_\(음악_그룹\) "wikilink") Y.BIRD 기획앨범 프로젝트 음반이다. 2013년 10월 11일 CJ E\&M을 통해 발매되었다.
+***Y.BIRD From Jellyfish With VIXX & OKDAL***는 대한민국의 남성 그룹 [빅스의](../Page/빅스_\(음악_그룹\).md "wikilink") Y.BIRD 기획앨범 프로젝트 음반이다. 2013년 10월 11일 CJ E\&M을 통해 발매되었다.
 
 ## 수록곡
 

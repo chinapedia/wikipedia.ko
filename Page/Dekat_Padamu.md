@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Dekat Padamu](https://ko.wikipedia.org/wiki/Dekat_Padamu).
 
 
-**Dekat Padamu**는 [말레이시아](https://ko.wikipedia.org/wiki/말레이시아 "wikilink")의 팝 가수 닝 바이주라의 첫 번째 정규 앨범이자, 데뷔 앨범이다.\[1\] 1993년\[2\] 소니 레코드를 통해 발매되었다. 이 앨범은 동년 최고의 앨범으로 선정되었으며, 10년도 더 되는 그녀의 미래를 바라볼 수 있는 기회가 되었다.\[3\]
+**Dekat Padamu**는 [말레이시아](../Page/말레이시아.md "wikilink")의 팝 가수 닝 바이주라의 첫 번째 정규 앨범이자, 데뷔 앨범이다.\[1\] 1993년\[2\] 소니 레코드를 통해 발매되었다. 이 앨범은 동년 최고의 앨범으로 선정되었으며, 10년도 더 되는 그녀의 미래를 바라볼 수 있는 기회가 되었다.\[3\]
 
 ## 앨범 개요
 

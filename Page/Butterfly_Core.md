@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Butterfly Core](https://ko.wikipedia.org/wiki/Butterfly_Core).
 
 
-〈**Butterfly Core**〉(버터플라이 코어, )는 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [11월 27일에](https://ko.wikipedia.org/wiki/11월_27일 "wikilink") [빙에서](https://ko.wikipedia.org/wiki/빙_\(기업\) "wikilink") 발매된 [VALSHE](../Page/VALSHE.md "wikilink")의 6번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink"). 〈Butterfly Core〉는 한국어 버전으로 [탑독](https://ko.wikipedia.org/wiki/탑독 "wikilink")에 의해 리메이크돼서, [투니버스](https://ko.wikipedia.org/wiki/투니버스 "wikilink")에서 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [3월 26일부터](https://ko.wikipedia.org/wiki/3월_26일 "wikilink") [6월 11일까지](https://ko.wikipedia.org/wiki/6월_11일 "wikilink") 방영된 《[명탐정 코난](https://ko.wikipedia.org/wiki/명탐정_코난_\(애니메이션\) "wikilink") 13기》의 주제가로 쓰이게 된다.
+〈**Butterfly Core**〉(버터플라이 코어, )는 [2013년](../Page/2013년.md "wikilink") [11월 27일에](../Page/11월_27일.md "wikilink") [빙에서](../Page/빙_\(기업\).md "wikilink") 발매된 [VALSHE](../Page/VALSHE.md "wikilink")의 6번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). 〈Butterfly Core〉는 한국어 버전으로 [탑독](https://ko.wikipedia.org/wiki/탑독 "wikilink")에 의해 리메이크돼서, [투니버스](../Page/투니버스.md "wikilink")에서 [2015년](../Page/2015년.md "wikilink") [3월 26일부터](../Page/3월_26일.md "wikilink") [6월 11일까지](../Page/6월_11일.md "wikilink") 방영된 《[명탐정 코난](../Page/명탐정_코난_\(애니메이션\).md "wikilink") 13기》의 주제가로 쓰이게 된다.
 
 ## 해설
 
-[요미우리 TV](https://ko.wikipedia.org/wiki/요미우리_TV "wikilink") [닛폰 TV계](https://ko.wikipedia.org/wiki/닛폰_TV "wikilink") 《[명탐정 코난](https://ko.wikipedia.org/wiki/명탐정_코난_\(애니메이션\) "wikilink")》 여는 곡. 통상반의 자켓은 첫 실사를 사용한 디자인.
+[요미우리 TV](https://ko.wikipedia.org/wiki/요미우리_TV "wikilink") [닛폰 TV계](https://ko.wikipedia.org/wiki/닛폰_TV "wikilink") 《[명탐정 코난](../Page/명탐정_코난_\(애니메이션\).md "wikilink")》 여는 곡. 통상반의 자켓은 첫 실사를 사용한 디자인.
 
 ## 수록곡
 
@@ -46,19 +46,19 @@
 
 ## 탑독 버전
 
-〈**Butterfly Core**〉(버터플라이 코어)는 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [4월 7일에](https://ko.wikipedia.org/wiki/4월_7일 "wikilink") 발매\[1\]된 [싱글이며](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink"), [투니버스](https://ko.wikipedia.org/wiki/투니버스 "wikilink")에서 2015년 [3월 26일부터](https://ko.wikipedia.org/wiki/3월_26일 "wikilink") [6월 11일까지](https://ko.wikipedia.org/wiki/6월_11일 "wikilink") 방영된 《[명탐정 코난](https://ko.wikipedia.org/wiki/명탐정_코난_\(애니메이션\) "wikilink") 13기》의 주제가로 사용되고 있는 노래다.
+〈**Butterfly Core**〉(버터플라이 코어)는 [2015년](../Page/2015년.md "wikilink") [4월 7일에](../Page/4월_7일.md "wikilink") 발매\[1\]된 [싱글이며](../Page/싱글_\(음악\).md "wikilink"), [투니버스](../Page/투니버스.md "wikilink")에서 2015년 [3월 26일부터](../Page/3월_26일.md "wikilink") [6월 11일까지](../Page/6월_11일.md "wikilink") 방영된 《[명탐정 코난](../Page/명탐정_코난_\(애니메이션\).md "wikilink") 13기》의 주제가로 사용되고 있는 노래다.
 
 ## 각주
 
 <table>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/일본의_애니메이션" title="wikilink"><span style="color:#fff">TV 애니메이션</span></a> 《<a href="https://ko.wikipedia.org/wiki/명탐정_코난_(애니메이션)" title="wikilink"><span style="color:#fff"><strong>명탐정 코난</strong></span></a>》 여는 곡<br />
+<td><p><a href="../Page/일본의_애니메이션.md" title="wikilink"><span style="color:#fff">TV 애니메이션</span></a> 《<a href="../Page/명탐정_코난_(애니메이션).md" title="wikilink"><span style="color:#fff"><strong>명탐정 코난</strong></span></a>》 여는 곡<br />
 <small>2013년 11월 16일 (718화) ~ 2014년 6월 21일 (743화)</small></p></td>
 </tr>
 <tr class="even">
 <td><p>이전 곡:<br />
-<a href="https://ko.wikipedia.org/wiki/B&#39;z" title="wikilink">B'z</a><br />
+<a href="../Page/B&#39;z.md" title="wikilink">B'z</a><br />
 〈<a href="../Page/B&#39;z_The_Best_XXV_1999-2012.md" title="wikilink">Q&amp;A</a>〉</p></td>
 </tr>
 </tbody>

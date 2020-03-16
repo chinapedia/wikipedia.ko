@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Catch Me If You Can](https://ko.wikipedia.org/wiki/Catch_Me_If_You_Can).
 
 
-〈**Catch Me If You Can**〉은 대한민국의 걸 그룹 [소녀시대](https://ko.wikipedia.org/wiki/소녀시대 "wikilink")의 노래이다. 2015년 4월 10일 한국에서 처음으로 발매되었으며, 4월 22일에는 일본에서 싱글로 발매되었다. 이번 노래는 멤버 [제시카의](https://ko.wikipedia.org/wiki/제시카_정 "wikilink") 탈퇴 이후 첫 8인조 앨범이자 싱글앨범이다.
+〈**Catch Me If You Can**〉은 대한민국의 걸 그룹 [소녀시대](../Page/소녀시대.md "wikilink")의 노래이다. 2015년 4월 10일 한국에서 처음으로 발매되었으며, 4월 22일에는 일본에서 싱글로 발매되었다. 이번 노래는 멤버 [제시카의](https://ko.wikipedia.org/wiki/제시카_정 "wikilink") 탈퇴 이후 첫 8인조 앨범이자 싱글앨범이다.
 
 ## 곡 목록
 
@@ -43,11 +43,11 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>대한민국 (<a href="https://ko.wikipedia.org/wiki/가온_디지털_차트" title="wikilink">가온 차트</a>)[4]</p></td>
+<td><p>대한민국 (<a href="../Page/가온_디지털_차트.md" title="wikilink">가온 차트</a>)[4]</p></td>
 <td><p>19</p></td>
 </tr>
 <tr class="even">
-<td><p>미국 (<a href="https://ko.wikipedia.org/wiki/빌보드" title="wikilink">빌보드 월드 디지털 송스</a>)[5]</p></td>
+<td><p>미국 (<a href="../Page/빌보드.md" title="wikilink">빌보드 월드 디지털 송스</a>)[5]</p></td>
 <td><p>2</p></td>
 </tr>
 <tr class="odd">
@@ -55,11 +55,11 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>일본 (<a href="https://ko.wikipedia.org/wiki/재팬_핫_100" title="wikilink">빌보드 재팬 핫 100</a>)[6]</p></td>
+<td><p>일본 (<a href="../Page/재팬_핫_100.md" title="wikilink">빌보드 재팬 핫 100</a>)[6]</p></td>
 <td><p>9</p></td>
 </tr>
 <tr class="odd">
-<td><p>일본 (<a href="https://ko.wikipedia.org/wiki/오리콘" title="wikilink">오리콘</a>)[7]</p></td>
+<td><p>일본 (<a href="../Page/오리콘.md" title="wikilink">오리콘</a>)[7]</p></td>
 <td><p>8</p></td>
 </tr>
 <tr class="even">

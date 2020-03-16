@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [HANABI!!](https://ko.wikipedia.org/wiki/HANABI!!).
 
 
-〈**HANABI\!\!**〉는 [LinQ](../Page/LinQ.md "wikilink")의 7번째이자, [메이저](https://ko.wikipedia.org/wiki/메이저 "wikilink") 2번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink").
+〈**HANABI\!\!**〉는 [LinQ](../Page/LinQ.md "wikilink")의 7번째이자, [메이저](https://ko.wikipedia.org/wiki/메이저 "wikilink") 2번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 

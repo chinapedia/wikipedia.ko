@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [2013 VIXX GLOBAL SHOWCASE THE MILKY WAY](https://ko.wikipedia.org/wiki/2013_VIXX_GLOBAL_SHOWCASE_THE_MILKY_WAY).
 
 
-《**2013 VIXX GLOBAL SHOWCASE THE MILKY WAY**》는 대한민국의 음악 그룹 [빅스의](https://ko.wikipedia.org/wiki/빅스_\(음악_그룹\) "wikilink") 첫 번째 [쇼케이스 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").
+《**2013 VIXX GLOBAL SHOWCASE THE MILKY WAY**》는 대한민국의 음악 그룹 [빅스의](../Page/빅스_\(음악_그룹\).md "wikilink") 첫 번째 [쇼케이스 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").
 
 ## 투어 일정
 
@@ -23,7 +23,7 @@
 </tr>
 <tr class="even">
 <td><p>2013년 10월 20일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/쿠알라룸푸르" title="wikilink">쿠알라룸푸르</a></p></td>
+<td><p><a href="../Page/쿠알라룸푸르.md" title="wikilink">쿠알라룸푸르</a></p></td>
 <td></td>
 <td><p>HGH 컨벤션 센터</p></td>
 </tr>
@@ -53,13 +53,13 @@
 </tr>
 <tr class="odd">
 <td><p>2013년 11월 2일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/스톡홀름" title="wikilink">스톡홀름</a></p></td>
+<td><p><a href="../Page/스톡홀름.md" title="wikilink">스톡홀름</a></p></td>
 <td></td>
 <td><p>오스카 극장</p></td>
 </tr>
 <tr class="even">
 <td><p>2013년 11월 3일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/밀라노" title="wikilink">밀라노</a></p></td>
+<td><p><a href="../Page/밀라노.md" title="wikilink">밀라노</a></p></td>
 <td></td>
 <td><p>라이브클럽 밀라노</p></td>
 </tr>
@@ -113,7 +113,7 @@
 </tr>
 <tr class="odd">
 <td><p>2014년 2월 8일 <small>(앙코르)</small></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/베를린" title="wikilink">베를린</a></p></td>
+<td><p><a href="../Page/베를린.md" title="wikilink">베를린</a></p></td>
 <td></td>
 <td><p>C-Club</p></td>
 </tr>

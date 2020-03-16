@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [2015 VIXX LIVE FANTASIA UTOPIA](https://ko.wikipedia.org/wiki/2015_VIXX_LIVE_FANTASIA_UTOPIA).
 
 
-《**2015 VIXX LIVE FANTASIA UTOPIA**》는 한국의 음악 그룹 [빅스의](https://ko.wikipedia.org/wiki/빅스_\(음악_그룹\) "wikilink") 두 번째 단독 [콘서트 투어로](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink"), [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")을 시작으로 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink"), [필리핀](https://ko.wikipedia.org/wiki/필리핀 "wikilink"), [싱가포르](https://ko.wikipedia.org/wiki/싱가포르 "wikilink")도 방문해 총 7회에 걸친 공연을 펼칠 예정이다.
+《**2015 VIXX LIVE FANTASIA UTOPIA**》는 한국의 음악 그룹 [빅스의](../Page/빅스_\(음악_그룹\).md "wikilink") 두 번째 단독 [콘서트 투어로](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink"), [대한민국](../Page/대한민국.md "wikilink")을 시작으로 [일본](../Page/일본.md "wikilink"), [필리핀](../Page/필리핀.md "wikilink"), [싱가포르](../Page/싱가포르.md "wikilink")도 방문해 총 7회에 걸친 공연을 펼칠 예정이다.
 
 ## 투어 일정
 
@@ -47,7 +47,7 @@
 </tr>
 <tr class="even">
 <td><p>2015년 5월 2일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/마닐라" title="wikilink">마닐라</a></p></td>
+<td><p><a href="../Page/마닐라.md" title="wikilink">마닐라</a></p></td>
 <td></td>
 <td><p>몰 오브 아시아 아레나</p></td>
 </tr>

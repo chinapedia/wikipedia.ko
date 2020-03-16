@@ -7,7 +7,7 @@
 
 <span style="font-size: 1.8em; line-height: 1em">**여기는 한국어가 어렵거나 못하는 분들께 도움을 제공하는 \<br clear:"all"/\> 페이지입니다.**</span>
 
-이 페이지는 [위키백과:대사관](https://ko.wikipedia.org/wiki/위키백과:대사관 "wikilink")의 한 부분입니다. \<br clear:"all"/\> 외국 유저들에게 도움을 주실 수 있는 분들께서는 아래에 알맞는 언어로 가서 목록에 이름을 추가하시길 바랍니다.
+이 페이지는 [위키백과:대사관](../Page/위키백과:대사관.md "wikilink")의 한 부분입니다. \<br clear:"all"/\> 외국 유저들에게 도움을 주실 수 있는 분들께서는 아래에 알맞는 언어로 가서 목록에 이름을 추가하시길 바랍니다.
 
 </div>
 
@@ -123,7 +123,7 @@ Diese Benutzer können in der koreanischsprachigen Wikipedia Hilfestellung in de
 
 #### Namen der Könige der Goryeo-Dynastie
 
-Warum sind die Artikeltitel der koreanischen Wikipedia für Könige gewöhnlich "Dynastie (왕조) + Tempelname (묘호)" wie bei [고려 고종](https://ko.wikipedia.org/wiki/고려_고종 "wikilink")? Während die Titel bei Königen ohne Tempelnamen wie folgt gebildet werden: "Dynastie + Tempelname + *König* (왕)". Zum Beispiel: [고려 충렬왕](https://ko.wikipedia.org/wiki/고려_충렬왕 "wikilink"). Warum nicht 고려 고종왕 oder 고려 충렬? Wir diskutieren gerade in der deutschen Wikipedia, wie die deutschen Artikeltitel lauten sollten. --[Christian140](https://ko.wikipedia.org/wiki/사:Christian140 "wikilink") ([토론](https://ko.wikipedia.org/wiki/사토:Christian140 "wikilink")) 2019년 11월 16일 (토) 20:09 (KST)
+Warum sind die Artikeltitel der koreanischen Wikipedia für Könige gewöhnlich "Dynastie (왕조) + Tempelname (묘호)" wie bei [고려 고종](../Page/고려_고종.md "wikilink")? Während die Titel bei Königen ohne Tempelnamen wie folgt gebildet werden: "Dynastie + Tempelname + *König* (왕)". Zum Beispiel: [고려 충렬왕](../Page/고려_충렬왕.md "wikilink"). Warum nicht 고려 고종왕 oder 고려 충렬? Wir diskutieren gerade in der deutschen Wikipedia, wie die deutschen Artikeltitel lauten sollten. --[Christian140](https://ko.wikipedia.org/wiki/사:Christian140 "wikilink") ([토론](https://ko.wikipedia.org/wiki/사토:Christian140 "wikilink")) 2019년 11월 16일 (토) 20:09 (KST)
 
 ## Tagalog (PH)
 

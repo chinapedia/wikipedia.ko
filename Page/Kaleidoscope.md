@@ -26,7 +26,7 @@
 <table>
 <thead>
 <tr class="header">
-<th><p>차트 (<a href="https://ko.wikipedia.org/wiki/2014년" title="wikilink">2014년</a>)</p></th>
+<th><p>차트 (<a href="../Page/2014년.md" title="wikilink">2014년</a>)</p></th>
 <th><p>피크<br />
 포지션</p></th>
 </tr>
@@ -94,8 +94,8 @@
 <!-- end list -->
 
   - [닐 모스](https://ko.wikipedia.org/wiki/닐_모스 "wikilink") - [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink")
-  - [로인 스톨트](https://ko.wikipedia.org/wiki/로인_스톨트 "wikilink") - [기타](https://ko.wikipedia.org/wiki/기타 "wikilink"), 백킹 보컬
-  - [피트 트리웨바스](https://ko.wikipedia.org/wiki/피트_트리웨바스 "wikilink") - [베이스 기타](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink"), 백킹 보컬
+  - [로인 스톨트](https://ko.wikipedia.org/wiki/로인_스톨트 "wikilink") - [기타](../Page/기타.md "wikilink"), 백킹 보컬
+  - [피트 트리웨바스](https://ko.wikipedia.org/wiki/피트_트리웨바스 "wikilink") - [베이스 기타](../Page/베이스_기타.md "wikilink"), 백킹 보컬
   - [마이크 포트노이](https://ko.wikipedia.org/wiki/마이크_포트노이 "wikilink") - [드럼](https://ko.wikipedia.org/wiki/드럼셋 "wikilink"), 백킹 보컬
 
 <!-- end list -->

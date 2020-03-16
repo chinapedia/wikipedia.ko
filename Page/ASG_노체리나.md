@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ASG ](https://ko.wikipedia.org/wiki/ASG_).
 
 
-**ASG 노체리나**(Associazione Sportiva Giovanile Nocerina)는 [이탈리아](https://ko.wikipedia.org/wiki/이탈리아 "wikilink") [노체라인페리오레](https://ko.wikipedia.org/wiki/노체라인페리오레 "wikilink")를 연고로 하는 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 이 클럽은 [1910년](https://ko.wikipedia.org/wiki/1910년 "wikilink")에 창단되었으며 현재 [에첼렌차](https://ko.wikipedia.org/wiki/에첼렌차 "wikilink")에서 활동하고 있다.
+**ASG 노체리나**(Associazione Sportiva Giovanile Nocerina)는 [이탈리아](../Page/이탈리아.md "wikilink") [노체라인페리오레](https://ko.wikipedia.org/wiki/노체라인페리오레 "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. 이 클럽은 [1910년](../Page/1910년.md "wikilink")에 창단되었으며 현재 [에첼렌차](https://ko.wikipedia.org/wiki/에첼렌차 "wikilink")에서 활동하고 있다.
 
 ## 외부 링크
 

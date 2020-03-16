@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [TU \(\)](https://ko.wikipedia.org/wiki/TU_\(\)).
 
 
-《**TU**》(투)는, [도모토 쯔요시의](https://ko.wikipedia.org/wiki/도모토_츠요시 "wikilink") 통상 9번째 [정규 음반이다](https://ko.wikipedia.org/wiki/정규_음반 "wikilink").
+《**TU**》(투)는, [도모토 쯔요시의](../Page/도모토_츠요시.md "wikilink") 통상 9번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
 
 ## 개요
 
-정규 음반으로서는, [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") 발매한 《[shamanippon -색 의명생-](../Page/Shamanippon_-색_의명생-.md "wikilink")》 이래로, 약 1년 3개월 만의 음반이다.
+정규 음반으로서는, [2014년](../Page/2014년.md "wikilink") 발매한 《[shamanippon -색 의명생-](../Page/Shamanippon_-색_의명생-.md "wikilink")》 이래로, 약 1년 3개월 만의 음반이다.
 
 ## 수록곡
 

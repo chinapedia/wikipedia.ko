@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [UP](https://ko.wikipedia.org/wiki/UP).
 
 
-《**必UP**》은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 혼성 음악 그룹 [코요태](https://ko.wikipedia.org/wiki/코요태 "wikilink")의 여덟 번째 [정규 음반이다](https://ko.wikipedia.org/wiki/정규_음반 "wikilink").
+《**必UP**》은 [대한민국](../Page/대한민국.md "wikilink")의 혼성 음악 그룹 [코요태](https://ko.wikipedia.org/wiki/코요태 "wikilink")의 여덟 번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
 
 ## 개요
 
@@ -31,7 +31,7 @@
 
 ### 〈이별이 그리워질 때〉
 
-〈이별이 그리워질 때〉는 〈버려〉와 함께 경합하다가 수록되지 못한 곡으로, 2005년 9월 2일 [쥬크온에서](https://ko.wikipedia.org/wiki/벅스_\(웹사이트\) "wikilink") 최초 공개하였다. [디지털 싱글로](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink") 공개된 〈상처〉 · 〈처음처럼〉과 달리 《必UP》의 [히든 트랙](https://ko.wikipedia.org/wiki/히든_트랙 "wikilink")(17번)으로 취급되어 서비스되고 있으나, 실제 음반에는 수록되지 않았기 때문에 엄밀히는 히든 트랙이 아니다.
+〈이별이 그리워질 때〉는 〈버려〉와 함께 경합하다가 수록되지 못한 곡으로, 2005년 9월 2일 [쥬크온에서](../Page/벅스_\(웹사이트\).md "wikilink") 최초 공개하였다. [디지털 싱글로](../Page/싱글_\(음악\).md "wikilink") 공개된 〈상처〉 · 〈처음처럼〉과 달리 《必UP》의 [히든 트랙](https://ko.wikipedia.org/wiki/히든_트랙 "wikilink")(17번)으로 취급되어 서비스되고 있으나, 실제 음반에는 수록되지 않았기 때문에 엄밀히는 히든 트랙이 아니다.
 
 ### 디지털싱글_미공개버전(〈상처〉 · 〈처음처럼〉)
 

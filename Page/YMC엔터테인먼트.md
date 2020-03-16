@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [YMC](https://ko.wikipedia.org/wiki/YMC).
 
 
-**YMC엔터테인먼트**는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [연예기획사](https://ko.wikipedia.org/wiki/연예기획사 "wikilink")다. [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [10월](https://ko.wikipedia.org/wiki/10월 "wikilink") [드림티엔터테인먼트](https://ko.wikipedia.org/wiki/드림티엔터테인먼트 "wikilink")가 회사 지분 80%와 경영권을 매입하여 드림티 엔터의 자회사가 되었다.
+**YMC엔터테인먼트**는 [대한민국](../Page/대한민국.md "wikilink")의 [연예기획사](https://ko.wikipedia.org/wiki/연예기획사 "wikilink")다. [2016년](../Page/2016년.md "wikilink") [10월](../Page/10월.md "wikilink") [드림티엔터테인먼트](https://ko.wikipedia.org/wiki/드림티엔터테인먼트 "wikilink")가 회사 지분 80%와 경영권을 매입하여 드림티 엔터의 자회사가 되었다.
 
 ## 현재 소속 연예인
 
@@ -14,14 +14,14 @@
   - [아이오아이](../Page/아이오아이.md "wikilink")
   - 제이켠
   - 제이요
-  - [주희](https://ko.wikipedia.org/wiki/주희_\(가수\) "wikilink")
+  - [주희](../Page/주희_\(가수\).md "wikilink")
   - [백찬](https://ko.wikipedia.org/wiki/백찬 "wikilink")
   - [슈가볼](https://ko.wikipedia.org/wiki/슈가볼 "wikilink") (고창인)
-  - [배치기](https://ko.wikipedia.org/wiki/배치기 "wikilink") ([무웅](https://ko.wikipedia.org/wiki/무웅 "wikilink"), [탁](https://ko.wikipedia.org/wiki/탁_\(가수\) "wikilink"))
-  - [워너원](https://ko.wikipedia.org/wiki/워너원 "wikilink")
-  - [제시](https://ko.wikipedia.org/wiki/제시_\(가수\) "wikilink")
-  - [에일리](https://ko.wikipedia.org/wiki/에일리 "wikilink")
-  - [신보라](https://ko.wikipedia.org/wiki/신보라 "wikilink")
+  - [배치기](../Page/배치기.md "wikilink") ([무웅](../Page/무웅.md "wikilink"), [탁](../Page/탁_\(가수\).md "wikilink"))
+  - [워너원](../Page/워너원.md "wikilink")
+  - [제시](../Page/제시_\(가수\).md "wikilink")
+  - [에일리](../Page/에일리.md "wikilink")
+  - [신보라](../Page/신보라.md "wikilink")
   - [케이시](https://ko.wikipedia.org/wiki/케이시_\(가수\) "wikilink")
 
 ## 디스코그래피
@@ -32,7 +32,7 @@
 
 ## 관련 소속사
 
-  - [이매진아시아](https://ko.wikipedia.org/wiki/이매진아시아 "wikilink")
+  - [이매진아시아](../Page/이매진아시아.md "wikilink")
   - [드림티엔터테인먼트](https://ko.wikipedia.org/wiki/드림티엔터테인먼트 "wikilink")
 
 ## 외부 링크

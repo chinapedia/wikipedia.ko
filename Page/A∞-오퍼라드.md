@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [A-](https://ko.wikipedia.org/wiki/A-).
 
 
-[오퍼라드 이론에서](https://ko.wikipedia.org/wiki/오퍼라드_이론 "wikilink"), **A<sub>∞</sub>-오퍼라드**()는 [호모토피](https://ko.wikipedia.org/wiki/호모토피 "wikilink")를 무시한다면 [결합 법칙이](https://ko.wikipedia.org/wiki/결합_법칙 "wikilink") 성립하는 대수들을 나타내는 [오퍼라드](https://ko.wikipedia.org/wiki/오퍼라드 "wikilink")이다.
+[오퍼라드 이론에서](https://ko.wikipedia.org/wiki/오퍼라드_이론 "wikilink"), **A<sub>∞</sub>-오퍼라드**()는 [호모토피](../Page/호모토피.md "wikilink")를 무시한다면 [결합 법칙이](https://ko.wikipedia.org/wiki/결합_법칙 "wikilink") 성립하는 대수들을 나타내는 [오퍼라드](../Page/오퍼라드.md "wikilink")이다.
 
 ## 정의
 
-[위상 공간](https://ko.wikipedia.org/wiki/위상_공간_\(수학\) "wikilink") 위에 작용하는 오퍼라드 \(A\)에 대하여, 만약 \(A(n)\)이 ([이산 공간의](../Page/이산_공간.md "wikilink") 위상을 준) [대칭군](https://ko.wikipedia.org/wiki/대칭군_\(군론\) "wikilink") \(\operatorname{Sym}(n)\)과 [호모토피 동치이며](https://ko.wikipedia.org/wiki/호모토피_동치 "wikilink"), 또한 \(A(n)\) 위의 대칭군 \(\operatorname{Sym}(n)\)의 작용이 군 위의 스스로의 작용과 같다면, \(A\)를 **A<sub>∞</sub>-오퍼라드**라고 한다.
+[위상 공간](https://ko.wikipedia.org/wiki/위상_공간_\(수학\) "wikilink") 위에 작용하는 오퍼라드 \(A\)에 대하여, 만약 \(A(n)\)이 ([이산 공간의](../Page/이산_공간.md "wikilink") 위상을 준) [대칭군](../Page/대칭군_\(군론\).md "wikilink") \(\operatorname{Sym}(n)\)과 [호모토피 동치이며](../Page/호모토피_동치.md "wikilink"), 또한 \(A(n)\) 위의 대칭군 \(\operatorname{Sym}(n)\)의 작용이 군 위의 스스로의 작용과 같다면, \(A\)를 **A<sub>∞</sub>-오퍼라드**라고 한다.
 
 ## A<sub>∞</sub>-대수
 
-A<sub>∞</sub>-오퍼라드를 [벡터 공간의](https://ko.wikipedia.org/wiki/벡터_공간 "wikilink") [모노이드 범주](../Page/모노이드_범주.md "wikilink") 위에 표현하면, **A<sub>∞</sub>-대수**를 얻는다. A<sub>∞</sub>-대수 \(A\)는 다음과 같이 정수 등급을 갖는 벡터 공간이며,
+A<sub>∞</sub>-오퍼라드를 [벡터 공간의](../Page/벡터_공간.md "wikilink") [모노이드 범주](../Page/모노이드_범주.md "wikilink") 위에 표현하면, **A<sub>∞</sub>-대수**를 얻는다. A<sub>∞</sub>-대수 \(A\)는 다음과 같이 정수 등급을 갖는 벡터 공간이며,
 
 \[A=\bigoplus_{p\in\mathbb Z}A^p\] 다음과 같은 무한한 수의 연산들을 갖는다. 모든 \(n\ge1\)에 대하여, \(n\)항 \(n\)겹선형 연산
 
@@ -22,7 +22,7 @@ A<sub>∞</sub>-오퍼라드를 [벡터 공간의](https://ko.wikipedia.org/wiki
 \[\sum_{r+s+t=n}(-1)^{r+st}m_{r+1+t}(a_1,\dots,a_r,m_s(b_1,\dots,b_s),c_1,\dots,c_t)=0\qquad\forall a_i,b_i,c_i\in A\] 처음 몇 개의 항등식은 다음과 같다. 여기서 \(m_1=\delta\), \(m_2=\cdot\)으로 쓰자.
 
   - (공경계의 멱영성) \(\delta^2=0\)
-  - ([곱의 법칙](https://ko.wikipedia.org/wiki/곱의_법칙_\(미적분학\) "wikilink")) \(\delta(ab)=(\delta a)b+a(\delta b)\)
+  - ([곱의 법칙](../Page/곱의_법칙_\(미적분학\).md "wikilink")) \(\delta(ab)=(\delta a)b+a(\delta b)\)
   - (호모토피 [결합 법칙](https://ko.wikipedia.org/wiki/결합_법칙 "wikilink")) \(a(bc)-(ab)c=\delta m_3(a,b,c)+m_3(\delta a,b,c)+m_3(a,\delta b,c)+m_3(a,b,\delta c)\)
   - \(m_3(ab,c,d)-m_3(a,bc,d)+m_3(a,b,cd)-m_3(a,b,c)d-am_3(b,c,d)=-\delta m_4(a,b,c,d)+m_4(\delta a,b,c,d)+m_4(a,\delta b,c,d)+m_4(a,b,\delta c,d)+m_4(a,b,c,\delta d)\)
   - \(\vdots\)

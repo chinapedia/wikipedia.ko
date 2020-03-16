@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [SHINee WORLD IV](https://ko.wikipedia.org/wiki/SHINee_WORLD_IV).
 
 
-《**SHINee CONCERT - SHINee WORLD IV**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [보이 그룹](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink") [샤이니](https://ko.wikipedia.org/wiki/샤이니 "wikilink")의 4번째 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").\[1\] 본 공연을 통해 [샤이니](https://ko.wikipedia.org/wiki/샤이니 "wikilink")의 정규 4집 〈[Odd](../Page/Odd_\(샤이니의_음반\).md "wikilink")〉의 수록곡 5곡을 컴백에 앞서 공개한 바 있다.
+《**SHINee CONCERT - SHINee WORLD IV**》는 [대한민국](../Page/대한민국.md "wikilink")의 [보이 그룹](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink") [샤이니](../Page/샤이니.md "wikilink")의 4번째 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").\[1\] 본 공연을 통해 [샤이니](../Page/샤이니.md "wikilink")의 정규 4집 〈[Odd](../Page/Odd_\(샤이니의_음반\).md "wikilink")〉의 수록곡 5곡을 컴백에 앞서 공개한 바 있다.
 
 ## 개요
 
-2015년 3월 25일, SM 엔터테인먼트는 공식 홈페이지를 통해 샤이니의 4번째 콘서트 일정을 공개하였고, 예매는 4월 2일, [YES24](https://ko.wikipedia.org/wiki/YES24 "wikilink")를 통해 진행되었다. 이전 투어인 〈[SHINee WORLD III](../Page/SHINee_WORLD_III.md "wikilink")〉와 마찬가지로 예매 시작과 동시에 전석이 매진될 정도로 호응이 좋아 15일의 공연 일정이 추가되었다.\[2\] 본 콘서트의 명칭은 〈[SHINee WORLD III](../Page/SHINee_WORLD_III.md "wikilink")〉에 이어 태민이 작명한 **꼭갈콘**으로 [롯데제과](https://ko.wikipedia.org/wiki/롯데제과 "wikilink")의 제품 [꼬깔콘](https://ko.wikipedia.org/wiki/꼬깔콘 "wikilink")에서 영감은 딴 **꼭 가야하는 콘서트**라는 의미를 담았다고 한다.
+2015년 3월 25일, SM 엔터테인먼트는 공식 홈페이지를 통해 샤이니의 4번째 콘서트 일정을 공개하였고, 예매는 4월 2일, [YES24](../Page/YES24.md "wikilink")를 통해 진행되었다. 이전 투어인 〈[SHINee WORLD III](../Page/SHINee_WORLD_III.md "wikilink")〉와 마찬가지로 예매 시작과 동시에 전석이 매진될 정도로 호응이 좋아 15일의 공연 일정이 추가되었다.\[2\] 본 콘서트의 명칭은 〈[SHINee WORLD III](../Page/SHINee_WORLD_III.md "wikilink")〉에 이어 태민이 작명한 **꼭갈콘**으로 [롯데제과](../Page/롯데제과.md "wikilink")의 제품 [꼬깔콘](https://ko.wikipedia.org/wiki/꼬깔콘 "wikilink")에서 영감은 딴 **꼭 가야하는 콘서트**라는 의미를 담았다고 한다.
 
 ## SHINee WORLD 2014 \~I'm Your Boy\~
 
@@ -26,7 +26,7 @@
 <td><p>2015년 5월 15일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/서울" title="wikilink">서울</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/올림픽체조경기장" title="wikilink">올림픽체조경기장</a>[3]</p></td>
+<td><p><a href="../Page/올림픽체조경기장.md" title="wikilink">올림픽체조경기장</a>[3]</p></td>
 <td><p>통산 36,000명</p></td>
 </tr>
 <tr class="even">
@@ -52,7 +52,7 @@
 </tr>
 <tr class="odd">
 <td><p>2015년 9월 27일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/방콕" title="wikilink">방콕</a></p></td>
+<td><p><a href="../Page/방콕.md" title="wikilink">방콕</a></p></td>
 <td></td>
 <td><p>임팩트 아레나 무앙 통 타니[5]</p></td>
 <td><p>12,000명</p></td>
@@ -89,7 +89,7 @@
 <td style="text-align: left;"><p>라이브앨범</p></td>
 <td style="text-align: left;"><p>SHINee THE 4th CONCERT ALBUM 《SHINee WORLD IV In Seoul》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2016년" title="wikilink">2016년</a> <a href="https://ko.wikipedia.org/wiki/4월_20일" title="wikilink">4월 20일</a></li>
+<li>발매일 : <a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/4월_20일.md" title="wikilink">4월 20일</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -113,7 +113,7 @@
 <td style="text-align: left;"><p>DVD</p></td>
 <td style="text-align: left;"><p>SHINee THE 4th CONCERT 《SHINee WORLD IV In Seoul》 DVD</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2016년" title="wikilink">2016년</a> <a href="https://ko.wikipedia.org/wiki/6월_15일" title="wikilink">6월 15일</a></li>
+<li>발매일 : <a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/6월_15일.md" title="wikilink">6월 15일</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -137,7 +137,7 @@
 <td style="text-align: left;"><p>블루레이</p></td>
 <td style="text-align: left;"><p>SHINee THE 4th CONCERT 《SHINee WORLD IV In Seoul》 Blu-ray</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2016년" title="wikilink">2016년</a> <a href="https://ko.wikipedia.org/wiki/7월_12일" title="wikilink">7월 12일</a></li>
+<li>발매일 : <a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/7월_12일.md" title="wikilink">7월 12일</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -145,10 +145,10 @@
 
 ## 제작
 
-  - [샤이니](https://ko.wikipedia.org/wiki/샤이니 "wikilink") ([온유](https://ko.wikipedia.org/wiki/온유 "wikilink"), [종현](https://ko.wikipedia.org/wiki/종현 "wikilink"), [Key](https://ko.wikipedia.org/wiki/Key_\(가수\) "wikilink"), [민호](https://ko.wikipedia.org/wiki/민호 "wikilink"), [태민](https://ko.wikipedia.org/wiki/태민 "wikilink"))
+  - [샤이니](../Page/샤이니.md "wikilink") ([온유](../Page/온유.md "wikilink"), [종현](../Page/종현.md "wikilink"), [Key](https://ko.wikipedia.org/wiki/Key_\(가수\) "wikilink"), [민호](../Page/민호.md "wikilink"), [태민](../Page/태민.md "wikilink"))
   - 주최 : [SM엔터테인먼트](https://ko.wikipedia.org/wiki/SM엔터테인먼트 "wikilink")
   - 주관 : 드림메이커
-  - 후원 : [YES24](https://ko.wikipedia.org/wiki/YES24 "wikilink")
+  - 후원 : [YES24](../Page/YES24.md "wikilink")
   - 총연출 : [심재원](https://ko.wikipedia.org/wiki/심재원_\(가수\) "wikilink")
 
 ## 외부 링크

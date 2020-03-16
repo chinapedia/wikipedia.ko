@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Rock Ur Body](https://ko.wikipedia.org/wiki/Rock_Ur_Body).
 
 
-***Rock Ur Body***는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [보이 그룹](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink") 빅스의 두 번째 한국 싱글 음반이다.\[1\] [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [8월 14일에](https://ko.wikipedia.org/wiki/8월_14일 "wikilink") CJ E\&M을 통해 발매되었다.
+***Rock Ur Body***는 [대한민국](../Page/대한민국.md "wikilink")의 [보이 그룹](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink") 빅스의 두 번째 한국 싱글 음반이다.\[1\] [2012년](../Page/2012년.md "wikilink") [8월 14일에](../Page/8월_14일.md "wikilink") CJ E\&M을 통해 발매되었다.
 
 ## 수록곡
 

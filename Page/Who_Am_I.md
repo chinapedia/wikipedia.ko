@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Who Am I](https://ko.wikipedia.org/wiki/Who_Am_I).
 
 
-***Who Am I***는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악 그룹 [B1A4](https://ko.wikipedia.org/wiki/B1A4 "wikilink")의 2번째 정규앨범이다. 타이틀곡 **Lonely**로 총 8번의 음악방송 1위와, [가온 앨범 차트](https://ko.wikipedia.org/wiki/가온_앨범_차트 "wikilink") 1위 또한 달성하였다.
+***Who Am I***는 [대한민국](../Page/대한민국.md "wikilink")의 음악 그룹 [B1A4](../Page/B1A4.md "wikilink")의 2번째 정규앨범이다. 타이틀곡 **Lonely**로 총 8번의 음악방송 1위와, [가온 앨범 차트](https://ko.wikipedia.org/wiki/가온_앨범_차트 "wikilink") 1위 또한 달성하였다.
 
 ## 트랙리스트
 
@@ -20,16 +20,16 @@
 
 ### 가요 프로그램 1위
 
-| 날짜           | 방송사                                                             | 프로그램                                                          |
-| ------------ | --------------------------------------------------------------- | ------------------------------------------------------------- |
-| 2014\. 1. 22 | [MBC MUSIC](https://ko.wikipedia.org/wiki/MBC_MUSIC "wikilink") | [쇼 챔피언](https://ko.wikipedia.org/wiki/쇼_챔피언 "wikilink")       |
-| 2014\. 1. 24 | [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink")           | [뮤직뱅크](https://ko.wikipedia.org/wiki/뮤직뱅크 "wikilink")         |
-| 2014\. 1. 25 | [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")             | [쇼\! 음악중심](https://ko.wikipedia.org/wiki/쇼!_음악중심 "wikilink")  |
-| 2014\. 1. 26 | [SBS](https://ko.wikipedia.org/wiki/SBS "wikilink")             | [SBS 인기가요](https://ko.wikipedia.org/wiki/SBS_인기가요 "wikilink") |
-| 2014\. 1. 29 | [MBC MUSIC](https://ko.wikipedia.org/wiki/MBC_MUSIC "wikilink") | [쇼 챔피언](https://ko.wikipedia.org/wiki/쇼_챔피언 "wikilink")       |
-| 2014\. 1. 31 | [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink")           | [뮤직뱅크](https://ko.wikipedia.org/wiki/뮤직뱅크 "wikilink")         |
-| 2014\. 2. 5  | [MBC MUSIC](https://ko.wikipedia.org/wiki/MBC_MUSIC "wikilink") | [쇼 챔피언](https://ko.wikipedia.org/wiki/쇼_챔피언 "wikilink")       |
-| 2014\. 2. 8  | [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")             | [쇼\! 음악중심](https://ko.wikipedia.org/wiki/쇼!_음악중심 "wikilink")  |
+| 날짜           | 방송사                                                             | 프로그램                                                         |
+| ------------ | --------------------------------------------------------------- | ------------------------------------------------------------ |
+| 2014\. 1. 22 | [MBC MUSIC](https://ko.wikipedia.org/wiki/MBC_MUSIC "wikilink") | [쇼 챔피언](https://ko.wikipedia.org/wiki/쇼_챔피언 "wikilink")      |
+| 2014\. 1. 24 | [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink")           | [뮤직뱅크](../Page/뮤직뱅크.md "wikilink")                           |
+| 2014\. 1. 25 | [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")             | [쇼\! 음악중심](https://ko.wikipedia.org/wiki/쇼!_음악중심 "wikilink") |
+| 2014\. 1. 26 | [SBS](../Page/SBS.md "wikilink")                                | [SBS 인기가요](../Page/SBS_인기가요.md "wikilink")                   |
+| 2014\. 1. 29 | [MBC MUSIC](https://ko.wikipedia.org/wiki/MBC_MUSIC "wikilink") | [쇼 챔피언](https://ko.wikipedia.org/wiki/쇼_챔피언 "wikilink")      |
+| 2014\. 1. 31 | [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink")           | [뮤직뱅크](../Page/뮤직뱅크.md "wikilink")                           |
+| 2014\. 2. 5  | [MBC MUSIC](https://ko.wikipedia.org/wiki/MBC_MUSIC "wikilink") | [쇼 챔피언](https://ko.wikipedia.org/wiki/쇼_챔피언 "wikilink")      |
+| 2014\. 2. 8  | [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")             | [쇼\! 음악중심](https://ko.wikipedia.org/wiki/쇼!_음악중심 "wikilink") |
 
 ## 외부 링크
 

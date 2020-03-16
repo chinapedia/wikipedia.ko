@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Colors \( EP\)](https://ko.wikipedia.org/wiki/Colors_\(_EP\)).
 
 
-《**Colors**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [걸 그룹](https://ko.wikipedia.org/wiki/걸_그룹 "wikilink") [미쓰에이](https://ko.wikipedia.org/wiki/미쓰에이 "wikilink")의 세 번째 미니 음반이다. [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [3월 30일](https://ko.wikipedia.org/wiki/3월_30일 "wikilink") KT 뮤직을 통해서 발매되었다.
+《**Colors**》는 [대한민국](../Page/대한민국.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") [미쓰에이](../Page/미쓰에이.md "wikilink")의 세 번째 미니 음반이다. [2015년](../Page/2015년.md "wikilink") [3월 30일](../Page/3월_30일.md "wikilink") KT 뮤직을 통해서 발매되었다.
 
 ## 수록곡
 
@@ -23,7 +23,7 @@
 <td><p>3</p></td>
 </tr>
 <tr class="even">
-<td><p>미국 월드 앨범 (<a href="https://ko.wikipedia.org/wiki/빌보드" title="wikilink">빌보드</a>)[2]</p></td>
+<td><p>미국 월드 앨범 (<a href="../Page/빌보드.md" title="wikilink">빌보드</a>)[2]</p></td>
 <td><p>4</p></td>
 </tr>
 <tr class="odd">

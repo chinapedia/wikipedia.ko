@@ -22,7 +22,7 @@
 <td><p>2집[1]</p></td>
 <td><p>《<a href="https://ko.wikipedia.org/wiki/윤도현_and_BAND" title="wikilink">윤도현 and BAND</a>》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/1997년" title="wikilink">1997년</a> <a href="https://ko.wikipedia.org/wiki/3월_1일" title="wikilink">3월 1일</a></li>
+<li>발매일 : <a href="../Page/1997년.md" title="wikilink">1997년</a> <a href="../Page/3월_1일.md" title="wikilink">3월 1일</a></li>
 </ul></td>
 <td><ol>
 <li>긴 여행</li>
@@ -43,7 +43,7 @@
 <td><p>3집</p></td>
 <td><p>《<a href="https://ko.wikipedia.org/wiki/소외" title="wikilink">소외</a>》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/1998년" title="wikilink">1998년</a> <a href="https://ko.wikipedia.org/wiki/7월" title="wikilink">7월</a></li>
+<li>발매일 : <a href="../Page/1998년.md" title="wikilink">1998년</a> <a href="../Page/7월.md" title="wikilink">7월</a></li>
 </ul></td>
 <td><ol>
 <li>고개 숙인 사람들</li>
@@ -63,7 +63,7 @@
 <td><p>4집</p></td>
 <td><p>《<a href="https://ko.wikipedia.org/wiki/한국_Rock_다시_부르기" title="wikilink">한국 Rock 다시 부르기</a>》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/1999년" title="wikilink">1999년</a> <a href="https://ko.wikipedia.org/wiki/12월_1일" title="wikilink">12월 1일</a></li>
+<li>발매일 : <a href="../Page/1999년.md" title="wikilink">1999년</a> <a href="../Page/12월_1일.md" title="wikilink">12월 1일</a></li>
 </ul></td>
 <td><ol>
 <li>바람</li>
@@ -83,7 +83,7 @@
 <td><p>5집</p></td>
 <td><p>《<a href="https://ko.wikipedia.org/wiki/An_Urbanite" title="wikilink">An Urbanite</a>》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2001년" title="wikilink">2001년</a> <a href="https://ko.wikipedia.org/wiki/6월_29일" title="wikilink">6월 29일</a></li>
+<li>발매일 : <a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/6월_29일.md" title="wikilink">6월 29일</a></li>
 </ul></td>
 <td><ol>
 <li>박하사탕</li>
@@ -104,7 +104,7 @@
 <td><p>6집</p></td>
 <td><p>《<a href="https://ko.wikipedia.org/wiki/YB_Stream" title="wikilink">YB Stream</a>》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2003년" title="wikilink">2003년</a> <a href="https://ko.wikipedia.org/wiki/7월_24일" title="wikilink">7월 24일</a></li>
+<li>발매일 : <a href="../Page/2003년.md" title="wikilink">2003년</a> <a href="../Page/7월_24일.md" title="wikilink">7월 24일</a></li>
 </ul></td>
 <td><ol>
 <li>꽃잎</li>
@@ -124,9 +124,9 @@
 </tr>
 <tr class="even">
 <td><p>7집 CD1</p></td>
-<td><p>《<a href="https://ko.wikipedia.org/wiki/Why_Be?" title="wikilink">Why Be?</a>》</p>
+<td><p>《<a href="../Page/Why_Be?.md" title="wikilink">Why Be?</a>》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2006년" title="wikilink">2006년</a> <a href="https://ko.wikipedia.org/wiki/8월_10일" title="wikilink">8월 10일</a></li>
+<li>발매일 : <a href="../Page/2006년.md" title="wikilink">2006년</a> <a href="../Page/8월_10일.md" title="wikilink">8월 10일</a></li>
 </ul></td>
 <td><ol>
 <li>오늘은</li>
@@ -144,9 +144,9 @@
 </tr>
 <tr class="odd">
 <td><p>7집 CD2</p></td>
-<td><p>《<a href="https://ko.wikipedia.org/wiki/Why_Be?" title="wikilink">Why Be?</a>》</p>
+<td><p>《<a href="../Page/Why_Be?.md" title="wikilink">Why Be?</a>》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2006년" title="wikilink">2006년</a> <a href="https://ko.wikipedia.org/wiki/8월_10일" title="wikilink">8월 10일</a></li>
+<li>발매일 : <a href="../Page/2006년.md" title="wikilink">2006년</a> <a href="../Page/8월_10일.md" title="wikilink">8월 10일</a></li>
 </ul></td>
 <td><ol>
 <li>머라아파</li>
@@ -166,7 +166,7 @@
 <td><p>8집</p></td>
 <td><p>《<a href="https://ko.wikipedia.org/wiki/공존_(음반)" title="wikilink">공존</a>》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2009년" title="wikilink">2009년</a> <a href="https://ko.wikipedia.org/wiki/3월_24일" title="wikilink">3월 24일</a></li>
+<li>발매일 : <a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/3월_24일.md" title="wikilink">3월 24일</a></li>
 </ul></td>
 <td><ol>
 <li>Millimicron Bomb</li>
@@ -187,7 +187,7 @@
 <td><p>9집</p></td>
 <td><p>《<a href="https://ko.wikipedia.org/wiki/Reel_Impulse" title="wikilink">Reel Impulse</a>》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2013년" title="wikilink">2013년</a> <a href="https://ko.wikipedia.org/wiki/6월_25일" title="wikilink">6월 25일</a></li>
+<li>발매일 : <a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/6월_25일.md" title="wikilink">6월 25일</a></li>
 </ul></td>
 <td><ol>
 <li>우린 짝패다</li>
@@ -225,7 +225,7 @@
 <td><p>1</p></td>
 <td><p>《<a href="https://ko.wikipedia.org/wiki/윤도현_밴드_Live" title="wikilink">윤도현 밴드 Live</a>》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2000년" title="wikilink">2000년</a> <a href="https://ko.wikipedia.org/wiki/9월_1일" title="wikilink">9월 1일</a></li>
+<li>발매일 : <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/9월_1일.md" title="wikilink">9월 1일</a></li>
 </ul></td>
 <td><ol>
 <li><strong>깨어나</strong></li>
@@ -234,7 +234,7 @@
 <li>하루살이</li>
 <li>이땅에 살기 위하여</li>
 <li>탈춤</li>
-<li><a href="https://ko.wikipedia.org/wiki/그것만이_내_세상" title="wikilink">그것만이 내 세상</a></li>
+<li><a href="../Page/그것만이_내_세상.md" title="wikilink">그것만이 내 세상</a></li>
 <li>발라드 이야기</li>
 <li>꿈꾸는 소녀</li>
 <li>조금씩 아주 조금씩</li>
@@ -247,7 +247,7 @@
 <td><p>2</p></td>
 <td><p>《<a href="https://ko.wikipedia.org/wiki/Live_Is_Life" title="wikilink">Live Is Life</a>》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2007년" title="wikilink">2007년</a> <a href="https://ko.wikipedia.org/wiki/5월_21일" title="wikilink">5월 21일</a></li>
+<li>발매일 : <a href="../Page/2007년.md" title="wikilink">2007년</a> <a href="../Page/5월_21일.md" title="wikilink">5월 21일</a></li>
 </ul></td>
 <td><ol>
 <li>좋아 가는 거야</li>
@@ -269,7 +269,7 @@
 <td><p>3 CD!</p></td>
 <td><p>《<a href="https://ko.wikipedia.org/wiki/After_10_years" title="wikilink">After 10 years</a>》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2007년" title="wikilink">2007년</a> <a href="https://ko.wikipedia.org/wiki/5월_21일" title="wikilink">5월 21일</a></li>
+<li>발매일 : <a href="../Page/2007년.md" title="wikilink">2007년</a> <a href="../Page/5월_21일.md" title="wikilink">5월 21일</a></li>
 </ul></td>
 <td><ol>
 <li>좋아 가는 거야</li>
@@ -289,7 +289,7 @@
 <td><p>3 CD@</p></td>
 <td><p>《<a href="https://ko.wikipedia.org/wiki/After_10_years" title="wikilink">After 10 years</a>》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2007년" title="wikilink">2007년</a> <a href="https://ko.wikipedia.org/wiki/5월_21일" title="wikilink">5월 21일</a></li>
+<li>발매일 : <a href="../Page/2007년.md" title="wikilink">2007년</a> <a href="../Page/5월_21일.md" title="wikilink">5월 21일</a></li>
 </ul></td>
 <td><ol>
 <li>큰 별은 없어</li>
@@ -310,7 +310,7 @@
 <td><p>4 CD1</p></td>
 <td><p>《나는 나비 (YB 15주년 기념 Live Best》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2010년" title="wikilink">2010년</a> <a href="https://ko.wikipedia.org/wiki/11월_19일" title="wikilink">11월 19일</a></li>
+<li>발매일 : <a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/11월_19일.md" title="wikilink">11월 19일</a></li>
 </ul></td>
 <td><ol>
 <li><strong>나는 나비</strong><small><a href="https://www.youtube.com/watch?v=PkNRvIbHszY">뮤직비디오</a></small></li>
@@ -330,7 +330,7 @@
 <td><p>4 CD2</p></td>
 <td><p>《나는 나비 (YB 15주년 기념 Live Best)》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2010년" title="wikilink">2010년</a> <a href="https://ko.wikipedia.org/wiki/11월_19일" title="wikilink">11월 19일</a></li>
+<li>발매일 : <a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/11월_19일.md" title="wikilink">11월 19일</a></li>
 </ul></td>
 <td><ol>
 <li>그것만이 내세상</li>
@@ -372,7 +372,7 @@
 <td><p>1</p></td>
 <td><p>《애국가》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2006년" title="wikilink">2006년</a> <a href="https://ko.wikipedia.org/wiki/2월_21일" title="wikilink">2월 21일</a></li>
+<li>발매일 : <a href="../Page/2006년.md" title="wikilink">2006년</a> <a href="../Page/2월_21일.md" title="wikilink">2월 21일</a></li>
 </ul></td>
 <td><ol>
 <li>애국가</li>
@@ -382,7 +382,7 @@
 <td><p>2</p></td>
 <td><p>《2006년 월드컵 응원가》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2006년" title="wikilink">2006년</a> <a href="https://ko.wikipedia.org/wiki/5월_30일" title="wikilink">5월 30일</a></li>
+<li>발매일 : <a href="../Page/2006년.md" title="wikilink">2006년</a> <a href="../Page/5월_30일.md" title="wikilink">5월 30일</a></li>
 </ul></td>
 <td><ol>
 <li>월드컵 응원가</li>
@@ -392,7 +392,7 @@
 <td><p>3</p></td>
 <td><p>《영화 한반도》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2006년" title="wikilink">2006년</a> <a href="https://ko.wikipedia.org/wiki/7월_10일" title="wikilink">7월 10일</a></li>
+<li>발매일 : <a href="../Page/2006년.md" title="wikilink">2006년</a> <a href="../Page/7월_10일.md" title="wikilink">7월 10일</a></li>
 </ul></td>
 <td><ol>
 <li>월드컵 응원가</li>
@@ -402,7 +402,7 @@
 <td><p>4</p></td>
 <td><p>《YB vs RRM》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2010년" title="wikilink">2010년</a> <a href="https://ko.wikipedia.org/wiki/7월_20일" title="wikilink">7월 20일</a></li>
+<li>발매일 : <a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/7월_20일.md" title="wikilink">7월 20일</a></li>
 </ul></td>
 <td><ol>
 <li>스니커즈</li>
@@ -416,7 +416,7 @@
 <td><p>5</p></td>
 <td><p>《회상》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2013년" title="wikilink">2013년</a> <a href="https://ko.wikipedia.org/wiki/11월_19일" title="wikilink">11월 19일</a></li>
+<li>발매일 : <a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/11월_19일.md" title="wikilink">11월 19일</a></li>
 </ul></td>
 <td><ol>
 <li>회상</li>
@@ -442,7 +442,7 @@
 <td><p>1집[2]</p></td>
 <td><p>《<a href="https://ko.wikipedia.org/wiki/가을_우체국_앞에서" title="wikilink">가을 우체국 앞에서</a>》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/1997년" title="wikilink">1997년</a> <a href="https://ko.wikipedia.org/wiki/12월" title="wikilink">12월</a></li>
+<li>발매일 : <a href="../Page/1997년.md" title="wikilink">1997년</a> <a href="../Page/12월.md" title="wikilink">12월</a></li>
 </ul></td>
 <td><ol>
 <li>타잔</li>
@@ -460,7 +460,7 @@
 <td><p>2집</p></td>
 <td><p>《<a href="https://ko.wikipedia.org/wiki/Difference" title="wikilink">Difference</a>》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2005년" title="wikilink">2005년</a> <a href="https://ko.wikipedia.org/wiki/4월_29일" title="wikilink">4월 29일</a></li>
+<li>발매일 : <a href="../Page/2005년.md" title="wikilink">2005년</a> <a href="../Page/4월_29일.md" title="wikilink">4월 29일</a></li>
 </ul></td>
 <td><ol>
 <li><strong>사랑했나봐</strong></li>
@@ -512,7 +512,7 @@
 
 ## 같이 보기
 
-  - [YB (밴드)](https://ko.wikipedia.org/wiki/YB_\(밴드\) "wikilink")
+  - [YB (밴드)](../Page/YB_\(밴드\).md "wikilink")
   - [잊을게](https://ko.wikipedia.org/wiki/잊을게 "wikilink")
   - [너를 보내고](https://ko.wikipedia.org/wiki/너를_보내고 "wikilink")
   - [나는 나비](https://ko.wikipedia.org/wiki/나는_나비 "wikilink")

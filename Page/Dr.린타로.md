@@ -1,45 +1,45 @@
 > This article is converted from Wikipedia: [Dr.](https://ko.wikipedia.org/wiki/Dr.).
 
 
-《**Dr.린타로**》()는, [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [4월 15일부터](https://ko.wikipedia.org/wiki/4월_15일 "wikilink") [6월 17일까지](https://ko.wikipedia.org/wiki/6월_17일 "wikilink") [닛폰 TV](https://ko.wikipedia.org/wiki/닛폰_TV_방송망 "wikilink") [계열에서](https://ko.wikipedia.org/wiki/닛폰TV_네트워크_협의회 "wikilink") 매주 [수요일](https://ko.wikipedia.org/wiki/수요일 "wikilink") 22:00 \~ 23:00(〈[수요 드라마](https://ko.wikipedia.org/wiki/수요드라마_\(닛폰_TV\) "wikilink")〉 시간대)에 방송된 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink"). 주연은 [사카이 마사토](https://ko.wikipedia.org/wiki/사카이_마사토 "wikilink").
+《**Dr.린타로**》()는, [2015년](../Page/2015년.md "wikilink") [4월 15일부터](../Page/4월_15일.md "wikilink") [6월 17일까지](../Page/6월_17일.md "wikilink") [닛폰 TV](../Page/닛폰_TV_방송망.md "wikilink") [계열에서](https://ko.wikipedia.org/wiki/닛폰TV_네트워크_협의회 "wikilink") 매주 [수요일](../Page/수요일.md "wikilink") 22:00 \~ 23:00(〈[수요 드라마](https://ko.wikipedia.org/wiki/수요드라마_\(닛폰_TV\) "wikilink")〉 시간대)에 방송된 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink"). 주연은 [사카이 마사토](../Page/사카이_마사토.md "wikilink").
 
 ## 캐스트
 
 ### 케이난 대학 병원
 
-  - 히노 린타로 (41) - [사카이 마사토](https://ko.wikipedia.org/wiki/사카이_마사토 "wikilink") (중학 시절:타카하시 후토)
+  - 히노 린타로 (41) - [사카이 마사토](../Page/사카이_마사토.md "wikilink") (중학 시절:타카하시 후토)
     정신과의.
-  - 미즈시마 유리코 (40) - [키치세 미치코](https://ko.wikipedia.org/wiki/키치세_미치코 "wikilink") (중학 시절:시라이시 나오)
+  - 미즈시마 유리코 (40) - [키치세 미치코](../Page/키치세_미치코.md "wikilink") (중학 시절:시라이시 나오)
     외과의로, 린타로의 소꿉친구.
-  - 키류 카오루 (39) - [우치다 유키](https://ko.wikipedia.org/wiki/우치다_유키 "wikilink")
+  - 키류 카오루 (39) - [우치다 유키](../Page/우치다_유키.md "wikilink")
     간호사.
   - 카와카미 요코 (26) - 타카나시 린
     연수의.
-  - 후쿠하라 다이사쿠 (30) - [타카하시 잇세이](https://ko.wikipedia.org/wiki/타카하시_잇세이 "wikilink")
+  - 후쿠하라 다이사쿠 (30) - [타카하시 잇세이](../Page/타카하시_잇세이.md "wikilink")
     연수의.
   - 미야가와 타카히로 (41) - 나가츠카 케이시
     정신과 주임 교수.
-  - 하스미 에이스케 (52) - [마츠시게 유타카](https://ko.wikipedia.org/wiki/마츠시게_유타카 "wikilink")
+  - 하스미 에이스케 (52) - [마츠시게 유타카](../Page/마츠시게_유타카.md "wikilink")
     부병원장 겸 뇌외과 주임 교수.
   - 야베 마치코 (29) - 마토부 세이
     정신과의. 미야가와의 부하.
-  - 엔노지 카즈오 (59) - [코히나타 후미요](https://ko.wikipedia.org/wiki/코히나타_후미요 "wikilink")
+  - 엔노지 카즈오 (59) - [코히나타 후미요](../Page/코히나타_후미요.md "wikilink")
     이사장.
 
 ### 신바시 오키야
 
-  - 유메노 (29) - [아오이 유우](https://ko.wikipedia.org/wiki/아오이_유우 "wikilink") (어린 시절:키우치 미유)
+  - 유메노 (29) - [아오이 유우](../Page/아오이_유우.md "wikilink") (어린 시절:키우치 미유)
     게이샤.
   - 코유메 (24) - 나카니시 미호
     게이샤.
-  - 마스다 이쿠미 (53) - [요 키미코](https://ko.wikipedia.org/wiki/요_키미코 "wikilink")
+  - 마스다 이쿠미 (53) - [요 키미코](../Page/요_키미코.md "wikilink")
     게이샤.
 
 ### 그 외
 
   - 아라키 시게토 (52) - 엔도 켄이치
     린타로의 정신과의 선배로, 개업의.
-  - 나카하타 마도카 (35) - [사카이 와카나](https://ko.wikipedia.org/wiki/사카이_와카나 "wikilink")
+  - 나카하타 마도카 (35) - [사카이 와카나](../Page/사카이_와카나.md "wikilink")
     린타로의 여동생.
   - 이케 마사유키 (67) - 이시바시 렌지
     정치가.
@@ -198,7 +198,7 @@
 <td><p>절체절명의 스캔들!? 계획된 파멸로의 길!</p></td>
 <td><p>나카조노 미호</p></td>
 <td><p>미즈타 노부오</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/폭식증" title="wikilink">폭식증</a></p></td>
+<td><p><a href="../Page/폭식증.md" title="wikilink">폭식증</a></p></td>
 <td><p>12.7%</p></td>
 <td></td>
 <td></td>
@@ -225,7 +225,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>평균 시청률 12.7% (시청률은 <a href="https://ko.wikipedia.org/wiki/간토_지방" title="wikilink">칸토 지구</a>·<a href="https://ko.wikipedia.org/wiki/비디오_리서치" title="wikilink">비디오 리서치사</a> 조사)</p></td>
+<td><p>평균 시청률 12.7% (시청률은 <a href="../Page/간토_지방.md" title="wikilink">칸토 지구</a>·<a href="../Page/비디오_리서치.md" title="wikilink">비디오 리서치사</a> 조사)</p></td>
 <td></td>
 <td></td>
 <td></td>

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  X](https://ko.wikipedia.org/wiki/__X).
 
 
-《**모탈 컴뱃 X**》(X를 "엑스'라고 발음함"\[1\])은 네더렐름 스튜디오에 의해 개발중인 [격투](https://ko.wikipedia.org/wiki/격투_게임 "wikilink") [비디오 게임이다](https://ko.wikipedia.org/wiki/비디오_게임 "wikilink"). 이 게임은 *[모탈 컴뱃](https://ko.wikipedia.org/wiki/모탈_컴뱃 "wikilink")* 시리즈의 열번째 메인 타이틀("X"는 [로마 숫자에서](https://ko.wikipedia.org/wiki/로마_숫자 "wikilink") 10를 의미하는 것을 영어 철자로 옮겨적은 것)이다. 이 게임의 출시는 2015년 4월 14일에 [플레이스테이션 4](https://ko.wikipedia.org/wiki/플레이스테이션_4 "wikilink"), [엑스박스 원과](../Page/엑스박스_원.md "wikilink") [마이크로소프트 윈도로](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 출시되었다. 이후 하이 볼티지 스튜디오에 의해 [플레이스테이션 3와](https://ko.wikipedia.org/wiki/플레이스테이션_3 "wikilink") [엑스박스 360로](https://ko.wikipedia.org/wiki/엑스박스_360 "wikilink") 포팅될 예정이었으나 취소되었다. 모바일 버전은 [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink")와 [안드로이드로](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") 네더렐름 스튜디오의 모바일 팀에 의해 출시되었다.
+《**모탈 컴뱃 X**》(X를 "엑스'라고 발음함"\[1\])은 네더렐름 스튜디오에 의해 개발중인 [격투](https://ko.wikipedia.org/wiki/격투_게임 "wikilink") [비디오 게임이다](../Page/비디오_게임.md "wikilink"). 이 게임은 *[모탈 컴뱃](../Page/모탈_컴뱃.md "wikilink")* 시리즈의 열번째 메인 타이틀("X"는 [로마 숫자에서](../Page/로마_숫자.md "wikilink") 10를 의미하는 것을 영어 철자로 옮겨적은 것)이다. 이 게임의 출시는 2015년 4월 14일에 [플레이스테이션 4](../Page/플레이스테이션_4.md "wikilink"), [엑스박스 원과](../Page/엑스박스_원.md "wikilink") [마이크로소프트 윈도로](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 출시되었다. 이후 하이 볼티지 스튜디오에 의해 [플레이스테이션 3와](../Page/플레이스테이션_3.md "wikilink") [엑스박스 360로](../Page/엑스박스_360.md "wikilink") 포팅될 예정이었으나 취소되었다. 모바일 버전은 [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink")와 [안드로이드로](../Page/안드로이드_\(운영_체제\).md "wikilink") 네더렐름 스튜디오의 모바일 팀에 의해 출시되었다.
 
 ## 게임 플레이
 
@@ -196,7 +196,7 @@
 </div></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/프레데터_(가공의_생물)" title="wikilink">프레데터</a></strong><sup>2, 3</sup>[30]</p></td>
+<td><p><strong><a href="../Page/프레데터_(가공의_생물).md" title="wikilink">프레데터</a></strong><sup>2, 3</sup>[30]</p></td>
 <td><div style="text-align: center; 1px dotted gray;">
 <p>미정</p>
 </div></td>
@@ -214,15 +214,15 @@
 
 [스콜피온이나](https://ko.wikipedia.org/wiki/스콜피온\(모탈_컴뱃\) "wikilink") [서브제로](https://ko.wikipedia.org/wiki/서브제로 "wikilink")같이 의무적으로 나오는 캐릭터와 함께, 새로운 파이터가 로스터에 추가되었다. 드보라는 곤충인간으로 곤충을 컨트롤 하는 여성이다. 페라/토르는 방어구를 두르는 여성과 가면을 쓴 거대한 짐승이 짝을 이뤘다. 코탈칸은 시리즈 제작자 [에드 분에](https://ko.wikipedia.org/wiki/에드_분 "wikilink") 의해 창조된 캐릭터로 [아즈텍](https://ko.wikipedia.org/wiki/아즈텍 "wikilink") 피의 신을 모티브로 한 외세계 제국의 새로운 황제이다.\[31\]\[32\] 게임의 스토리 모드에서 25년 후를 다룰 때 게임에서 확정된 몇몇 캐릭터의 자식이 등장한다. 캐시 케이지는 쟈니 케이지와 소냐 블레이드의 딸이고 타케다 타케하시는 켄시의 아들이며 재키 브릭스는 잭스의 딸이다. 또 시리즈의 신 캐릭터인 쿵 진은 [쿵 라오의](https://ko.wikipedia.org/wiki/쿵_라오 "wikilink") 사촌으로 궁수이다.\[33\] 에론 블랙은 서부극의 [총잡이](https://ko.wikipedia.org/wiki/총잡이 "wikilink") 스타일 캐릭터이다. 이 게임의 마지막 보스는 공개되지 않았으나 에드 분에 의하면 누구도 예상하지 못했던 구 캐릭터라고 한다.\[34\]
 
-3월 13일, *[13일의 금요일](https://ko.wikipedia.org/wiki/13일의_금요일_\(프랜차이즈\) "wikilink")*의 [제이슨 부히스가](https://ko.wikipedia.org/wiki/제이슨_부히스 "wikilink") 첫번째 [다운로드 보너스 컨텐츠의](https://ko.wikipedia.org/wiki/다운로드_가능_콘텐츠 "wikilink") 이름인 "컴뱃 팩"의 캐릭터로 공개되었다.\[35\]\[36\] 1주 후, [프레데터 시리즈의](https://ko.wikipedia.org/wiki/프레데터_\(프랜차이즈\) "wikilink") [프레데터가](https://ko.wikipedia.org/wiki/프레데터_\(가공의_생물\) "wikilink") 또다른 DLC 게스트 캐릭터로 [엑스박스 게임스 스토어에서](https://ko.wikipedia.org/wiki/엑스박스_게임스_스토어 "wikilink") 실수로 유출되었다.\[37\] 후에 *[모탈 컴뱃: 스폐셜 포시스](https://ko.wikipedia.org/wiki/모탈_컴뱃:_스폐셜_포시스 "wikilink")*의 트레머와 *[모탈 컴뱃 4](https://ko.wikipedia.org/wiki/모탈_컴뱃_4 "wikilink")*의 타냐가 마지막 컴뱃 팩의 캐릭터다. 컴뱃 팩에서 리우 캉이 클래식 스킨으로 등장시킬 수 있음이 확정되었다.\[38\] 고로는 예약구매를 안하더라도 나중에 플레이할 수 있으나, 추가 요금을 지불해야 한다.
+3월 13일, *[13일의 금요일](https://ko.wikipedia.org/wiki/13일의_금요일_\(프랜차이즈\) "wikilink")*의 [제이슨 부히스가](https://ko.wikipedia.org/wiki/제이슨_부히스 "wikilink") 첫번째 [다운로드 보너스 컨텐츠의](https://ko.wikipedia.org/wiki/다운로드_가능_콘텐츠 "wikilink") 이름인 "컴뱃 팩"의 캐릭터로 공개되었다.\[35\]\[36\] 1주 후, [프레데터 시리즈의](https://ko.wikipedia.org/wiki/프레데터_\(프랜차이즈\) "wikilink") [프레데터가](../Page/프레데터_\(가공의_생물\).md "wikilink") 또다른 DLC 게스트 캐릭터로 [엑스박스 게임스 스토어에서](../Page/엑스박스_게임스_스토어.md "wikilink") 실수로 유출되었다.\[37\] 후에 *[모탈 컴뱃: 스폐셜 포시스](https://ko.wikipedia.org/wiki/모탈_컴뱃:_스폐셜_포시스 "wikilink")*의 트레머와 *[모탈 컴뱃 4](https://ko.wikipedia.org/wiki/모탈_컴뱃_4 "wikilink")*의 타냐가 마지막 컴뱃 팩의 캐릭터다. 컴뱃 팩에서 리우 캉이 클래식 스킨으로 등장시킬 수 있음이 확정되었다.\[38\] 고로는 예약구매를 안하더라도 나중에 플레이할 수 있으나, 추가 요금을 지불해야 한다.
 
 ## 출시
 
-*모탈 컴뱃 X*는 플레이스테이션 4, PC, 엑스박스 원으로 2015년 4월 14일에 발매되었다. [엑스박스 360이나](https://ko.wikipedia.org/wiki/엑스박스_360 "wikilink") [플레이스테이션 3로의](https://ko.wikipedia.org/wiki/플레이스테이션_3 "wikilink") 포팅의 2015년 중간에 포팅될 예정이었으나,\[39\] 취소되었다. 두 명의 클래식 *모탈 컴뱃* 캐릭터와 두 명의 게스트 캐릭터, 캐릭터 스킨을 개별적인 [다운로드 가능 콘텐츠이나](https://ko.wikipedia.org/wiki/다운로드_가능_콘텐츠 "wikilink") 컴뱃 팩(Kombat Pack)으로 나왔다. 게임의 [시즌 패스인](https://ko.wikipedia.org/wiki/시즌_패스 "wikilink") 컴뱃 팩(Kombat Pack)은 컨텐츠의 얼리 액세스 기능을 제공하였다.\[40\]\[41\] 게임의 컬렉터 에디션(***K**ollector Edition*)은 스콜피온의 피규어와 시즌 패스가 제공되었다.\[42\]
+*모탈 컴뱃 X*는 플레이스테이션 4, PC, 엑스박스 원으로 2015년 4월 14일에 발매되었다. [엑스박스 360이나](../Page/엑스박스_360.md "wikilink") [플레이스테이션 3로의](../Page/플레이스테이션_3.md "wikilink") 포팅의 2015년 중간에 포팅될 예정이었으나,\[39\] 취소되었다. 두 명의 클래식 *모탈 컴뱃* 캐릭터와 두 명의 게스트 캐릭터, 캐릭터 스킨을 개별적인 [다운로드 가능 콘텐츠이나](https://ko.wikipedia.org/wiki/다운로드_가능_콘텐츠 "wikilink") 컴뱃 팩(Kombat Pack)으로 나왔다. 게임의 [시즌 패스인](https://ko.wikipedia.org/wiki/시즌_패스 "wikilink") 컴뱃 팩(Kombat Pack)은 컨텐츠의 얼리 액세스 기능을 제공하였다.\[40\]\[41\] 게임의 컬렉터 에디션(***K**ollector Edition*)은 스콜피온의 피규어와 시즌 패스가 제공되었다.\[42\]
 
 ### 다른 미디어
 
-[DC 코믹스는](https://ko.wikipedia.org/wiki/DC_코믹스 "wikilink") 게임에 기반한 만화책을 2015년 1월 6일부터 출판하기 시작하였다.\[43\] 공식 텔레비전 광고와 출시 광고는 [시스템 오브 어 다운](https://ko.wikipedia.org/wiki/시스템_오브_어_다운 "wikilink") 멤버 [샤보 오다지안이](https://ko.wikipedia.org/wiki/샤보_오다지안 "wikilink") 감독하였고 밴드의 2001년 곡인 "[Chop Suey\!](https://ko.wikipedia.org/wiki/Chop_Suey! "wikilink")"을 사용하였다\[44\]\[45\]
+[DC 코믹스는](../Page/DC_코믹스.md "wikilink") 게임에 기반한 만화책을 2015년 1월 6일부터 출판하기 시작하였다.\[43\] 공식 텔레비전 광고와 출시 광고는 [시스템 오브 어 다운](../Page/시스템_오브_어_다운.md "wikilink") 멤버 [샤보 오다지안이](https://ko.wikipedia.org/wiki/샤보_오다지안 "wikilink") 감독하였고 밴드의 2001년 곡인 "[Chop Suey\!](../Page/Chop_Suey!.md "wikilink")"을 사용하였다\[44\]\[45\]
 
 ## 각주
 

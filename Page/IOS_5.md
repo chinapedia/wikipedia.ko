@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [IOS 5](https://ko.wikipedia.org/wiki/IOS_5).
 
 
-**iOS 5**는 [애플이](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") [iOS 4의](https://ko.wikipedia.org/wiki/iOS_4 "wikilink") 후속으로 설계한 [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink") 계열의 [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink") [운영 체제이다](https://ko.wikipedia.org/wiki/운영_체제 "wikilink"). [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [9월 19일](https://ko.wikipedia.org/wiki/9월_19일 "wikilink") 출시된 [iOS 6의](https://ko.wikipedia.org/wiki/iOS_6 "wikilink") 이전 버전이다.
+**iOS 5**는 [애플이](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") [iOS 4의](https://ko.wikipedia.org/wiki/iOS_4 "wikilink") 후속으로 설계한 [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink") 계열의 [스마트폰](../Page/스마트폰.md "wikilink") [운영 체제이다](../Page/운영_체제.md "wikilink"). [2012년](../Page/2012년.md "wikilink") [9월 19일](../Page/9월_19일.md "wikilink") 출시된 [iOS 6의](https://ko.wikipedia.org/wiki/iOS_6 "wikilink") 이전 버전이다.
 
 ## 기능
 
-  - [아이클라우드](https://ko.wikipedia.org/wiki/아이클라우드 "wikilink")
+  - [아이클라우드](../Page/아이클라우드.md "wikilink")
   - 새로운 홈 스크린 앱
 
 이 외의 여러가지 기능들이 추가 되었다.

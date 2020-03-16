@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ \(LinQ \)](https://ko.wikipedia.org/wiki/_\(LinQ_\)).
 
 
-〈**여름 사랑**〉(<span style="font-size:smaller;">,  </span>)은 2014년 7월 30일에 워너 뮤직 재팬에서 발매가 예정된 [LinQ](../Page/LinQ.md "wikilink")의 9번째이자, [메이저](https://ko.wikipedia.org/wiki/메이저 "wikilink") 4번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink").
+〈**여름 사랑**〉(<span style="font-size:smaller;">,  </span>)은 2014년 7월 30일에 워너 뮤직 재팬에서 발매가 예정된 [LinQ](../Page/LinQ.md "wikilink")의 9번째이자, [메이저](https://ko.wikipedia.org/wiki/메이저 "wikilink") 4번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ LNG](https://ko.wikipedia.org/wiki/_LNG).
 
 
-인천 LNG복합발전소(仁川-複合發電所)는 [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink") [서구](https://ko.wikipedia.org/wiki/서구_\(인천광역시\) "wikilink") 원창동에 위치한 복합화력발전소로, [포스코에너지](https://ko.wikipedia.org/wiki/포스코에너지 "wikilink")에서 운영하고 있다. [한국중부발전](https://ko.wikipedia.org/wiki/한국중부발전 "wikilink")이 운영하는 [인천복합화력발전소](../Page/인천복합화력발전소.md "wikilink")와 인접해 있다.
+인천 LNG복합발전소(仁川-複合發電所)는 [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink") [서구](../Page/서구_\(인천광역시\).md "wikilink") 원창동에 위치한 복합화력발전소로, [포스코에너지](../Page/포스코에너지.md "wikilink")에서 운영하고 있다. [한국중부발전](../Page/한국중부발전.md "wikilink")이 운영하는 [인천복합화력발전소](../Page/인천복합화력발전소.md "wikilink")와 인접해 있다.
 
 ## 발전설비 현황\[1\]
 

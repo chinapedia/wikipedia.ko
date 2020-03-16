@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [THE IDOLM@STER MASTER ARTIST 3](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_MASTER_ARTIST_3).
 
 
-《**THE IDOLM@STER MASTER ARTIST 3**》은 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [8월 27일부터](https://ko.wikipedia.org/wiki/8월_27일 "wikilink") [일본 컬럼비아에서](../Page/일본_컬럼비아.md "wikilink") 발매된 음반 시리즈이다.
+《**THE IDOLM@STER MASTER ARTIST 3**》은 [2014년](../Page/2014년.md "wikilink") [8월 27일부터](../Page/8월_27일.md "wikilink") [일본 컬럼비아에서](../Page/일본_컬럼비아.md "wikilink") 발매된 음반 시리즈이다.
 
 ## 개요
 
@@ -27,7 +27,7 @@ CD 최초 수록곡은 굵게, 커버 곡은 이탤릭체로 표시한다.
         작사: Marhy, 작곡·편곡: BNSI (우치다 테츠야)
 2.  **액셀러레이션 (M@STER VERSION)**
       -
-        노래: 레온 ([치하라 미노리](https://ko.wikipedia.org/wiki/치하라_미노리 "wikilink"))
+        노래: 레온 ([치하라 미노리](../Page/치하라_미노리.md "wikilink"))
         작사: Selena Higa, 작곡: BNGI (Toaki Usami), 편곡: tatsuo/Hideaki Ikawa
 3.  아이돌 마스터 OFA DLC 2014년 8월 솔로 신곡 메들리-
     :\*스테키 해피니스
@@ -60,7 +60,7 @@ CD 최초 수록곡은 굵게, 커버 곡은 이탤릭체로 표시한다.
 
 1.  **스테키 해피니스 (M@STER VERSION)**
       -
-        노래: 아마미 하루카 ([나카무라 에리코](https://ko.wikipedia.org/wiki/나카무라_에리코 "wikilink"))
+        노래: 아마미 하루카 ([나카무라 에리코](../Page/나카무라_에리코.md "wikilink"))
         작사: mft, 작곡·편곡 : BNSI (kyo)
 2.  Honey Heartbeat (M@STER VERSION)
       -
@@ -97,7 +97,7 @@ CD 최초 수록곡은 굵게, 커버 곡은 이탤릭체로 표시한다.
 
 1.  **Pon De Bearch (M@STER VERSION)**
       -
-        노래: 가나하 히비키 ([누마쿠라 마나미](https://ko.wikipedia.org/wiki/누마쿠라_마나미 "wikilink"))
+        노래: 가나하 히비키 ([누마쿠라 마나미](../Page/누마쿠라_마나미.md "wikilink"))
         작사: BNSI (MC TC), 작곡·편곡: BNSI (Taku Inoue)
 2.  shiny smile (M@STER VERSION)
       -
@@ -106,12 +106,12 @@ CD 최초 수록곡은 굵게, 커버 곡은 이탤릭체로 표시한다.
 3.  *풍차*
       -
         노래: 가나하 히비키 (누마쿠라 마나미)
-        작사·오리지널 아티스트: [히토토 요](https://ko.wikipedia.org/wiki/히토토_요 "wikilink"), 작곡·편곡: [타케베 사토시](https://ko.wikipedia.org/wiki/타케베_사토시 "wikilink")
+        작사·오리지널 아티스트: [히토토 요](../Page/히토토_요.md "wikilink"), 작곡·편곡: [타케베 사토시](https://ko.wikipedia.org/wiki/타케베_사토시 "wikilink")
 4.  *[Buzzstyle](https://ko.wikipedia.org/wiki/Buzzstyle "wikilink")*
       -
         노래: 가나하 히비키 (누마쿠라 마나미)
         작사·작곡: Yaiko, 작곡·편곡: Diamond Head
-        오리지널 아티스트: [야이다 히토미](https://ko.wikipedia.org/wiki/야이다_히토미 "wikilink")
+        오리지널 아티스트: [야이다 히토미](../Page/야이다_히토미.md "wikilink")
 5.  키미\*채널 (M@STER VERSION)
       -
         노래: 가나하 히비키 (누마쿠라 마나미)
@@ -147,7 +147,7 @@ CD 최초 수록곡은 굵게, 커버 곡은 이탤릭체로 표시한다.
 4.  *[변하지 않는 것](https://ko.wikipedia.org/wiki/시간을_달리는_소녀_\(애니메이션\)#주제가 "wikilink")*
       -
         노래: 키쿠치 마코토 (히라타 히로미)
-        작사·작곡·오리지널 아티스트: [오쿠 하나코](https://ko.wikipedia.org/wiki/오쿠_하나코 "wikilink"), 편곡: [사토 준](https://ko.wikipedia.org/wiki/사토_준 "wikilink")
+        작사·작곡·오리지널 아티스트: [오쿠 하나코](../Page/오쿠_하나코.md "wikilink"), 편곡: [사토 준](https://ko.wikipedia.org/wiki/사토_준 "wikilink")
 5.  키미\*채널 (M@STER VERSION)
       -
         노래: 키쿠치 마코토 (히라타 히로미)

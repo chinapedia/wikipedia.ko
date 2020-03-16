@@ -1,14 +1,14 @@
 > This article is converted from Wikipedia: [TBC  ](https://ko.wikipedia.org/wiki/TBC__).
 
 
-《**TBC 날씨와 생활**》은 [TBC의](../Page/TBC_\(대한민국의_방송사\).md "wikilink") 대구·경북 지역의 날씨를 전해 드리는 [텔레비전 프로그램이다](https://ko.wikipedia.org/wiki/텔레비전_프로그램 "wikilink").
+《**TBC 날씨와 생활**》은 [TBC의](../Page/TBC_\(대한민국의_방송사\).md "wikilink") 대구·경북 지역의 날씨를 전해 드리는 [텔레비전 프로그램이다](../Page/텔레비전_프로그램.md "wikilink").
 
 ## 진행자
 
-  - 1대 : [배효성](https://ko.wikipedia.org/wiki/배효성 "wikilink") 기상캐스터
+  - 1대 : [배효성](../Page/배효성.md "wikilink") 기상캐스터
   - 2대 : [조서연](../Page/조서연.md "wikilink") 기상캐스터
   - 3대 : [이채린](https://ko.wikipedia.org/wiki/이채린 "wikilink") 기상캐스터
-  - 4대 : [배효성](https://ko.wikipedia.org/wiki/배효성 "wikilink") 기상캐스터
+  - 4대 : [배효성](../Page/배효성.md "wikilink") 기상캐스터
 
 ## 코너
 

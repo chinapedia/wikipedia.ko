@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [YOLO moment](https://ko.wikipedia.org/wiki/YOLO_moment).
 
 
-〈**YOLO moment**〉는, [나카야마 유마의](https://ko.wikipedia.org/wiki/나카야마_유마 "wikilink") 4번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink").
+〈**YOLO moment**〉는, [나카야마 유마의](../Page/나카야마_유마.md "wikilink") 4번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 수록곡
 

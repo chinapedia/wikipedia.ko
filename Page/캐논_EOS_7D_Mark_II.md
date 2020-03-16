@@ -5,9 +5,9 @@
 
 ## 같이 보기
 
-  - [캐논](https://ko.wikipedia.org/wiki/캐논 "wikilink")
-  - [캐논 EOS](https://ko.wikipedia.org/wiki/캐논_EOS "wikilink")
-  - [캐논 EF 마운트](https://ko.wikipedia.org/wiki/캐논_EF_마운트 "wikilink")
-  - [캐논 EF-S 마운트](https://ko.wikipedia.org/wiki/캐논_EF-S_마운트 "wikilink")
+  - [캐논](../Page/캐논.md "wikilink")
+  - [캐논 EOS](../Page/캐논_EOS.md "wikilink")
+  - [캐논 EF 마운트](../Page/캐논_EF_마운트.md "wikilink")
+  - [캐논 EF-S 마운트](../Page/캐논_EF-S_마운트.md "wikilink")
 
 [분류:캐논 EOS DSLR 카메라](https://ko.wikipedia.org/wiki/분류:캐논_EOS_DSLR_카메라 "wikilink")

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [In The Wind](https://ko.wikipedia.org/wiki/In_The_Wind).
 
 
-***In The Wind***는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악 그룹 B1A4의 3번째 미니앨범이다. [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [11월 12일에](https://ko.wikipedia.org/wiki/11월_12일 "wikilink") 발매됐으며, [가온 앨범 차트](https://ko.wikipedia.org/wiki/가온_앨범_차트 "wikilink") 주간 1위를 기록했으며, [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink") [뮤직뱅크](https://ko.wikipedia.org/wiki/뮤직뱅크 "wikilink")에서 1위를 거둘 수 있는 상황까지 왔으나 [강남스타일](https://ko.wikipedia.org/wiki/강남스타일 "wikilink")의 독주로 아쉽게도 2위로 만족해야 했다.
+***In The Wind***는 [대한민국](../Page/대한민국.md "wikilink")의 음악 그룹 B1A4의 3번째 미니앨범이다. [2012년](../Page/2012년.md "wikilink") [11월 12일에](../Page/11월_12일.md "wikilink") 발매됐으며, [가온 앨범 차트](https://ko.wikipedia.org/wiki/가온_앨범_차트 "wikilink") 주간 1위를 기록했으며, [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink") [뮤직뱅크](../Page/뮤직뱅크.md "wikilink")에서 1위를 거둘 수 있는 상황까지 왔으나 [강남스타일](../Page/강남스타일.md "wikilink")의 독주로 아쉽게도 2위로 만족해야 했다.
 
 ## 수록곡
 
