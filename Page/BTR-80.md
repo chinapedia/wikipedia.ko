@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BTR-80](https://ko.wikipedia.org/wiki/BTR-80).
 
 
-**BTR-80**은 [러시아 육군의](https://ko.wikipedia.org/wiki/러시아_육군 "wikilink") 8륜구동 차륜형 장갑차이다. [섬네일](https://ko.wikipedia.org/wiki/파일:Oboronexpo2014part3-37.jpg "wikilink")
+**BTR-80**은 [러시아 육군의](../Page/러시아_육군.md "wikilink") 8륜구동 차륜형 장갑차이다. [섬네일](https://ko.wikipedia.org/wiki/파일:Oboronexpo2014part3-37.jpg "wikilink")
 
 ## 역사
 

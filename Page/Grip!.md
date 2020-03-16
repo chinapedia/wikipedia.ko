@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Grip!](https://ko.wikipedia.org/wiki/Grip!).
 
 
-〈**Grip\!**〉(그립, )는 [Every Little Thing의](https://ko.wikipedia.org/wiki/Every_Little_Thing "wikilink") 스물세 번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink"). [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [3월 12일에](https://ko.wikipedia.org/wiki/3월_12일 "wikilink") [에이벡스 트랙스에서](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") 발매됐다.
+〈**Grip\!**〉(그립, )는 [Every Little Thing의](../Page/Every_Little_Thing.md "wikilink") 스물세 번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). [2003년](../Page/2003년.md "wikilink") [3월 12일에](../Page/3월_12일.md "wikilink") [에이벡스 트랙스에서](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") 발매됐다.
 
 ## 해설
 
@@ -9,7 +9,7 @@
 
 CD EXTRA 사양으로 되어 있기 때문에 CCCD가 아니다.
 
-CD EXTRA에는 기간 한정 특설 사이트([2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [4월 30일까지](https://ko.wikipedia.org/wiki/4월_30일 "wikilink")), [윈도우만](https://ko.wikipedia.org/wiki/마이크로소프트_윈도우 "wikilink") [에이벡스의](https://ko.wikipedia.org/wiki/에이벡스_그룹 "wikilink") 음원 서비스 ‘@MUSIC’(현재 [mu-mo](https://ko.wikipedia.org/wiki/mu-mo "wikilink") 뮤직)의 사이트에 접속할 수 있는 콘텐츠가 수록되어 있다.
+CD EXTRA에는 기간 한정 특설 사이트([2003년](../Page/2003년.md "wikilink") [4월 30일까지](../Page/4월_30일.md "wikilink")), [윈도우만](../Page/마이크로소프트_윈도우.md "wikilink") [에이벡스의](../Page/에이벡스_그룹.md "wikilink") 음원 서비스 ‘@MUSIC’(현재 [mu-mo](https://ko.wikipedia.org/wiki/mu-mo "wikilink") 뮤직)의 사이트에 접속할 수 있는 콘텐츠가 수록되어 있다.
 
 ## 수록곡
 
@@ -19,7 +19,7 @@ CD EXTRA에는 기간 한정 특설 사이트([2003년](https://ko.wikipedia.org
 
 <!-- end list -->
 
-  - [ytv](https://ko.wikipedia.org/wiki/요미우리_TV_방송 "wikilink") · [NTV](https://ko.wikipedia.org/wiki/닛폰_TV_방송망 "wikilink") 계열 애니메이션 《[이누야샤](https://ko.wikipedia.org/wiki/이누야샤 "wikilink")》 여는 곡.
+  - [ytv](../Page/요미우리_TV_방송.md "wikilink") · [NTV](../Page/닛폰_TV_방송망.md "wikilink") 계열 애니메이션 《[이누야샤](../Page/이누야샤.md "wikilink")》 여는 곡.
 
 <!-- end list -->
 
@@ -27,7 +27,7 @@ CD EXTRA에는 기간 한정 특설 사이트([2003년](https://ko.wikipedia.org
 
 <!-- end list -->
 
-  - 영화 《[이누야샤 거울 속의 몽환성](https://ko.wikipedia.org/wiki/거울_속의_몽환성 "wikilink")》 주제가.
+  - 영화 《[이누야샤 거울 속의 몽환성](../Page/거울_속의_몽환성.md "wikilink")》 주제가.
 
 ## 차트 및 인증
 
@@ -62,7 +62,7 @@ CD EXTRA에는 기간 한정 특설 사이트([2003년](https://ko.wikipedia.org
 <table>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/일본의_애니메이션" title="wikilink"><span style="color:#000">TV 애니메이션</span></a> 《<a href="https://ko.wikipedia.org/wiki/이누야샤" title="wikilink"><span style="color:#000"><strong>이누야샤</strong></span></a>》 여는 곡<br />
+<td><p><a href="../Page/일본의_애니메이션.md" title="wikilink"><span style="color:#000">TV 애니메이션</span></a> 《<a href="../Page/이누야샤.md" title="wikilink"><span style="color:#000"><strong>이누야샤</strong></span></a>》 여는 곡<br />
 <small>2003년 1월 13일 (96화) ~ 2003년 9월 15일 (127화)</small></p></td>
 </tr>
 <tr class="even">

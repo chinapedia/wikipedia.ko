@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KGC](https://ko.wikipedia.org/wiki/KGC).
 
 
-**KGC라이프앤진**()은 [KT\&G](https://ko.wikipedia.org/wiki/KT&G "wikilink") 계열의 비(非)홍삼 건강식품 및 한방화장품, 전문기능식음료품을 생산·방문판매하는 가공식품 도매업체 기업이다. 전신은 2003년 9월 한국인삼공사가 100% 출자하여 세워진 KGC판매(주)로 2010년 1월 [KT\&G](https://ko.wikipedia.org/wiki/KT&G "wikilink") 자회사로 편입되었으며 같은 해 11월 현재의 사명으로 변경했다. 2016년 10월 KGC인삼공사 자회사로 편입되었다. 주요 제품으로는 홍삼화장품 "동인비","랑"과 KGC인삼공사에서 제조된 홍삼 건강식품을 방문판매를 통해 판매하고 있다.
+**KGC라이프앤진**()은 [KT\&G](../Page/KT&G.md "wikilink") 계열의 비(非)홍삼 건강식품 및 한방화장품, 전문기능식음료품을 생산·방문판매하는 가공식품 도매업체 기업이다. 전신은 2003년 9월 한국인삼공사가 100% 출자하여 세워진 KGC판매(주)로 2010년 1월 [KT\&G](../Page/KT&G.md "wikilink") 자회사로 편입되었으며 같은 해 11월 현재의 사명으로 변경했다. 2016년 10월 KGC인삼공사 자회사로 편입되었다. 주요 제품으로는 홍삼화장품 "동인비","랑"과 KGC인삼공사에서 제조된 홍삼 건강식품을 방문판매를 통해 판매하고 있다.
 
 ## 제품
 
@@ -9,7 +9,7 @@
 
 <!-- end list -->
 
-  - [동인비](https://ko.wikipedia.org/wiki/동인비 "wikilink")(DONGINBI)
+  - [동인비](../Page/동인비.md "wikilink")(DONGINBI)
   - 랑(LLang)
 
 <!-- end list -->

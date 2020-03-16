@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Occultic\;Nine - -](https://ko.wikipedia.org/wiki/Occultic\;Nine_-_-).
 
 
-《**Occultic;Nine**》(오컬틱 나인)은 [시쿠라 치요마루가](https://ko.wikipedia.org/wiki/시쿠라_치요마루 "wikilink") 집필한 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [라이트 노벨이다](https://ko.wikipedia.org/wiki/라이트_노벨 "wikilink"). [일러스트는](https://ko.wikipedia.org/wiki/삽화 "wikilink") [pako](https://ko.wikipedia.org/wiki/pako "wikilink")가 담당하고 있다. [오버랩 문고에서](https://ko.wikipedia.org/wiki/오버랩_문고 "wikilink") [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") 8월부터 간행되고 있다. 시쿠라의 첫 라이트 노벨 시리즈이기도 하다.\[1\]
+《**Occultic;Nine**》(오컬틱 나인)은 [시쿠라 치요마루가](https://ko.wikipedia.org/wiki/시쿠라_치요마루 "wikilink") 집필한 [일본](../Page/일본.md "wikilink")의 [라이트 노벨이다](../Page/라이트_노벨.md "wikilink"). [일러스트는](../Page/삽화.md "wikilink") [pako](https://ko.wikipedia.org/wiki/pako "wikilink")가 담당하고 있다. [오버랩 문고에서](https://ko.wikipedia.org/wiki/오버랩_문고 "wikilink") [2014년](../Page/2014년.md "wikilink") 8월부터 간행되고 있다. 시쿠라의 첫 라이트 노벨 시리즈이기도 하다.\[1\]
 
 ## 줄거리
 
@@ -21,7 +21,7 @@
 
 ## TV 애니메이션
 
-2016년 10월부터 12월까지 [TOKYO MX](https://ko.wikipedia.org/wiki/도쿄_메트로폴리탄_텔레비전 "wikilink")・[ABC 아사히 방송](https://ko.wikipedia.org/wiki/ABC_아사히_방송 "wikilink")・[CBC TV](https://ko.wikipedia.org/wiki/CBC_TV "wikilink")・[군마 TV](https://ko.wikipedia.org/wiki/군마_TV "wikilink")・[도치기 TV](https://ko.wikipedia.org/wiki/도치기_TV "wikilink")・[BS11에서](https://ko.wikipedia.org/wiki/닛폰BS방송 "wikilink") 방영되었다.
+2016년 10월부터 12월까지 [TOKYO MX](../Page/도쿄_메트로폴리탄_텔레비전.md "wikilink")・[ABC 아사히 방송](https://ko.wikipedia.org/wiki/ABC_아사히_방송 "wikilink")・[CBC TV](https://ko.wikipedia.org/wiki/CBC_TV "wikilink")・[군마 TV](../Page/군마_TV.md "wikilink")・[도치기 TV](../Page/도치기_TV.md "wikilink")・[BS11에서](../Page/닛폰BS방송.md "wikilink") 방영되었다.
 
 ### 스태프
 
@@ -40,7 +40,7 @@
   - 편집 - 미시마 아키노리
   - 음향감독 - 아케타가와 진
   - 음악 - 요코야마 마사루
-  - 애니메이션 제작 - [A-1 Pictures](https://ko.wikipedia.org/wiki/A-1_Pictures "wikilink")
+  - 애니메이션 제작 - [A-1 Pictures](../Page/A-1_Pictures.md "wikilink")
   - 제작 - Project OC9
 
 ### 주제가

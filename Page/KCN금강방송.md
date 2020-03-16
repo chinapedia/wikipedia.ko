@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KCN](https://ko.wikipedia.org/wiki/KCN).
 
 
-**금강방송**주식회사는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [전라북도](https://ko.wikipedia.org/wiki/전라북도 "wikilink") [익산시](https://ko.wikipedia.org/wiki/익산시 "wikilink"), [군산시](https://ko.wikipedia.org/wiki/군산시 "wikilink") 지역 [케이블 TV](https://ko.wikipedia.org/wiki/케이블_텔레비전 "wikilink") 사업자이다. 1997년 설립되었으며, 디지털케이블TV와 초고속인터넷, 인터넷전화 서비스를 제공하고 있다. 현재 지역 시청자는 익산·군산 60만 인구, 20만 가구로 추산하고 있다. 지역채널 5번과 직사채널 22번을 직접 송출하고 있으며, 대표적인 지역채널 프로그램은 KCN뉴스프로그램, 예능프로그램, 시사교양프로그램 등이 있으며, 해마다 다큐멘터리와 지역축제 등 다양한 프로그램을 자체 제작해 방송하고 있다.
+**금강방송**주식회사는 [대한민국](../Page/대한민국.md "wikilink")의 [전라북도](https://ko.wikipedia.org/wiki/전라북도 "wikilink") [익산시](../Page/익산시.md "wikilink"), [군산시](../Page/군산시.md "wikilink") 지역 [케이블 TV](../Page/케이블_텔레비전.md "wikilink") 사업자이다. 1997년 설립되었으며, 디지털케이블TV와 초고속인터넷, 인터넷전화 서비스를 제공하고 있다. 현재 지역 시청자는 익산·군산 60만 인구, 20만 가구로 추산하고 있다. 지역채널 5번과 직사채널 22번을 직접 송출하고 있으며, 대표적인 지역채널 프로그램은 KCN뉴스프로그램, 예능프로그램, 시사교양프로그램 등이 있으며, 해마다 다큐멘터리와 지역축제 등 다양한 프로그램을 자체 제작해 방송하고 있다.
 
 ## 연혁
 
@@ -49,4 +49,4 @@
 
   - [KCN금강방송 공식 홈페이지](http://www.kcn.tv/?r=home)
 
-[분류:대한민국의 종합유선방송사업자](https://ko.wikipedia.org/wiki/분류:대한민국의_종합유선방송사업자 "wikilink") [분류:전라북도의 대중 매체](https://ko.wikipedia.org/wiki/분류:전라북도의_대중_매체 "wikilink") [분류:1997년 설립](https://ko.wikipedia.org/wiki/분류:1997년_설립 "wikilink")
+[분류:대한민국의 종합유선방송사업자](https://ko.wikipedia.org/wiki/분류:대한민국의_종합유선방송사업자 "wikilink") [분류:전라북도의 대중 매체](../Page/분류:전라북도의_대중_매체.md "wikilink") [분류:1997년 설립](https://ko.wikipedia.org/wiki/분류:1997년_설립 "wikilink")

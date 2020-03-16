@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  \(Coming Home\)](https://ko.wikipedia.org/wiki/__\(Coming_Home\)).
 
 
-《**보통의 날 (Coming Home)**》은 [SM TOWN의](https://ko.wikipedia.org/wiki/SM_TOWN "wikilink") 소극장 콘서트 브랜드 〈[THE AGIT](https://ko.wikipedia.org/wiki/THE_AGIT "wikilink")〉의 일환으로 [H.O.T.](https://ko.wikipedia.org/wiki/H.O.T. "wikilink") 출신 [강타](https://ko.wikipedia.org/wiki/강타 "wikilink")의 단독 콘서트 테마이다.\[1\] 본래 3일 공연 예정이었으나 호응이 좋아 서울 2회, 부산 2회의 공연 일정이 추가되었다.
+《**보통의 날 (Coming Home)**》은 [SM TOWN의](../Page/SM_TOWN.md "wikilink") 소극장 콘서트 브랜드 〈[THE AGIT](https://ko.wikipedia.org/wiki/THE_AGIT "wikilink")〉의 일환으로 [H.O.T.](../Page/H.O.T..md "wikilink") 출신 [강타](../Page/강타.md "wikilink")의 단독 콘서트 테마이다.\[1\] 본래 3일 공연 예정이었으나 호응이 좋아 서울 2회, 부산 2회의 공연 일정이 추가되었다.
 
 ## 일정
 
@@ -81,10 +81,10 @@
 
 | 일정            | 게스트                                                         |
 | ------------- | ----------------------------------------------------------- |
-| 2016년 11월 4일  | [김민종](https://ko.wikipedia.org/wiki/김민종 "wikilink")         |
+| 2016년 11월 4일  | [김민종](../Page/김민종.md "wikilink")                            |
 | 2016년 11월 5일  | [성훈](https://ko.wikipedia.org/wiki/성훈_\(가수\) "wikilink")    |
 | 2016년 11월 6일  | [이예준](../Page/이예준_\(가수\).md "wikilink")                     |
-| 2016년 11월 19일 | [김희철](https://ko.wikipedia.org/wiki/김희철_\(가수\) "wikilink")  |
+| 2016년 11월 19일 | [김희철](../Page/김희철_\(가수\).md "wikilink")                     |
 | 2016년 11월 20일 | [영준](https://ko.wikipedia.org/wiki/영준_\(1978년\) "wikilink") |
 | 2016년 12월 10일 |                                                             |
 | 2016년 12월 11일 | [김정모](../Page/김정모.md "wikilink")                            |

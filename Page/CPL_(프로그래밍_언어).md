@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [CPL \( \)](https://ko.wikipedia.org/wiki/CPL_\(_\)).
 
 
-**CPL**(Combined Programming Language, 이전 명칭: Cambridge Programming Language)은 1960년대 초에 개발된 [다중 패러다임](https://ko.wikipedia.org/wiki/프로그래밍_패러다임 "wikilink") [프로그래밍 언어이다](https://ko.wikipedia.org/wiki/프로그래밍_언어 "wikilink").
+**CPL**(Combined Programming Language, 이전 명칭: Cambridge Programming Language)은 1960년대 초에 개발된 [다중 패러다임](../Page/프로그래밍_패러다임.md "wikilink") [프로그래밍 언어이다](../Page/프로그래밍_언어.md "wikilink").
 
 ## 설계
 
-CPL(Combined Programming Language)\[1\]은 [케임브리지 대학교](https://ko.wikipedia.org/wiki/케임브리지_대학교 "wikilink") 수학 연구소와 [런던 대학교](https://ko.wikipedia.org/wiki/런던_대학교 "wikilink") 컴퓨터 유닛이 1960년대에 공동 개발하였고, 이에 따라 CPL은 "케임브리지 플러스 런던"(Cambridge Plus London)이라는 별명을 얻었다.\[2\]
+CPL(Combined Programming Language)\[1\]은 [케임브리지 대학교](../Page/케임브리지_대학교.md "wikilink") 수학 연구소와 [런던 대학교](../Page/런던_대학교.md "wikilink") 컴퓨터 유닛이 1960년대에 공동 개발하였고, 이에 따라 CPL은 "케임브리지 플러스 런던"(Cambridge Plus London)이라는 별명을 얻었다.\[2\]
 
 ## 예
 

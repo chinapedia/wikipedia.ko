@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SexyBack](https://ko.wikipedia.org/wiki/SexyBack).
 
 
-"**SexyBack**"은 미국의 가수 [저스틴 팀버레이크의](https://ko.wikipedia.org/wiki/저스틴_팀버레이크 "wikilink") 노래이다.
+"**SexyBack**"은 미국의 가수 [저스틴 팀버레이크의](../Page/저스틴_팀버레이크.md "wikilink") 노래이다.
 
 ## 외부 링크
 

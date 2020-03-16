@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [2008 KANGTA LIVE CONCERT Eternity-](https://ko.wikipedia.org/wiki/2008_KANGTA_LIVE_CONCERT_Eternity-).
 
 
-**2008 KANGTA LIVE CONCERT "Eternity-永遠"**는 그룹 [H.O.T.](https://ko.wikipedia.org/wiki/H.O.T. "wikilink") 출신 [강타](https://ko.wikipedia.org/wiki/강타 "wikilink")의 두 번째 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").
+**2008 KANGTA LIVE CONCERT "Eternity-永遠"**는 그룹 [H.O.T.](../Page/H.O.T..md "wikilink") 출신 [강타](../Page/강타.md "wikilink")의 두 번째 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").
 
 ## 투어 일정
 
@@ -44,11 +44,11 @@
 
 ## 요일별 게스트
 
-| 날짜           | 게스트                                                                                                                                                                                                                                                                                     |
-| ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2008년 3월 29일 | [오인택](https://ko.wikipedia.org/wiki/오인택_\(희극인\) "wikilink"), [이진호](https://ko.wikipedia.org/wiki/이진호_\(희극인\) "wikilink"), [이용진](https://ko.wikipedia.org/wiki/이용진 "wikilink"), [소녀시대](https://ko.wikipedia.org/wiki/소녀시대 "wikilink")                                                    |
-| 2008년 3월 30일 | [오인택](https://ko.wikipedia.org/wiki/오인택_\(희극인\) "wikilink"), [이진호](https://ko.wikipedia.org/wiki/이진호_\(희극인\) "wikilink"), [이용진](https://ko.wikipedia.org/wiki/이용진 "wikilink"), [신승훈](https://ko.wikipedia.org/wiki/신승훈 "wikilink"), [김민종](https://ko.wikipedia.org/wiki/김민종 "wikilink") |
-|              |                                                                                                                                                                                                                                                                                         |
+| 날짜           | 게스트                                                                                                                                                                                                         |
+| ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2008년 3월 29일 | [오인택](https://ko.wikipedia.org/wiki/오인택_\(희극인\) "wikilink"), [이진호](../Page/이진호_\(희극인\).md "wikilink"), [이용진](../Page/이용진.md "wikilink"), [소녀시대](../Page/소녀시대.md "wikilink")                                 |
+| 2008년 3월 30일 | [오인택](https://ko.wikipedia.org/wiki/오인택_\(희극인\) "wikilink"), [이진호](../Page/이진호_\(희극인\).md "wikilink"), [이용진](../Page/이용진.md "wikilink"), [신승훈](../Page/신승훈.md "wikilink"), [김민종](../Page/김민종.md "wikilink") |
+|              |                                                                                                                                                                                                             |
 
 ## 제작
 

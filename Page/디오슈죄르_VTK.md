@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ VTK](https://ko.wikipedia.org/wiki/_VTK).
 
 
-**디오슈죄르 VTK**()는 [미슈콜츠](https://ko.wikipedia.org/wiki/미슈콜츠 "wikilink")를 연고로 하는 [헝가리](https://ko.wikipedia.org/wiki/헝가리 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 팀이다. 이 팀은 [1910년](https://ko.wikipedia.org/wiki/1910년 "wikilink")에 창립했으며 현재는 [넴제티 버이녹샤그 I에](https://ko.wikipedia.org/wiki/넴제티_버이녹샤그_I "wikilink") 출전하고 있다.
+**디오슈죄르 VTK**()는 [미슈콜츠](../Page/미슈콜츠.md "wikilink")를 연고로 하는 [헝가리](../Page/헝가리.md "wikilink")의 [축구](../Page/축구.md "wikilink") 팀이다. 이 팀은 [1910년](../Page/1910년.md "wikilink")에 창립했으며 현재는 [넴제티 버이녹샤그 I에](../Page/넴제티_버이녹샤그_I.md "wikilink") 출전하고 있다.
 
 ## 외부 링크
 

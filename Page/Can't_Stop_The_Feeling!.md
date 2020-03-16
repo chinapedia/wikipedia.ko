@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Can\'t Stop The Feeling!](https://ko.wikipedia.org/wiki/Can\'t_Stop_The_Feeling!).
 
 
-"**Can't Stop The Feeling\!**"은 미국의 가수 [저스틴 팀버레이크의](https://ko.wikipedia.org/wiki/저스틴_팀버레이크 "wikilink") 노래로, 《[트롤](../Page/트롤_\(2016년_영화\).md "wikilink")》의 사운드트랙이다.
+"**Can't Stop The Feeling\!**"은 미국의 가수 [저스틴 팀버레이크의](../Page/저스틴_팀버레이크.md "wikilink") 노래로, 《[트롤](../Page/트롤_\(2016년_영화\).md "wikilink")》의 사운드트랙이다.
 
 ## 외부 링크
 

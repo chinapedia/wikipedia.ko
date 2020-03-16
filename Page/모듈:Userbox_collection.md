@@ -46,7 +46,7 @@ function p.main(frame)
 `   if args[1] and args[1]:find('%S') then`
 `       userboxes = frame:preprocess('{{'..args[1]..'}}')`
 `   else`
-`       userboxes = args.noboxestext or "어떠한 유저박스도 추가하지 않았습니다. `[`위키백과:유저박스`](https://ko.wikipedia.org/wiki/위키백과:유저박스 "wikilink")를` 참고해서 추가하세요."`
+`       userboxes = args.noboxestext or "어떠한 유저박스도 추가하지 않았습니다. `[`위키백과:유저박스`](../Page/위키백과:유저박스.md "wikilink")를` 참고해서 추가하세요."`
 `   end`
 
 `   body_cells:wikitext(userboxes)`
@@ -76,7 +76,7 @@ function p.main(frame)
 `           :css({ ['background-color'] = color,`
 `                   ['text-align'] = 'center' })`
 `           :attr('colspan',col_span)`
-`           :wikitext( args.header or '`[`위키백과:유저박스`](https://ko.wikipedia.org/wiki/위키백과:유저박스 "wikilink")`' )`
+`           :wikitext( args.header or '`[`위키백과:유저박스`](../Page/위키백과:유저박스.md "wikilink")`' )`
 `           :done()`
 
 `   row3:tag('td')`

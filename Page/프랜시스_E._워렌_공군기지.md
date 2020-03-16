@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [ E.  ](https://ko.wikipedia.org/wiki/_E.__).
 
 
-**프랜시스 E. 워렌 공군기지**(Francis E. Warren Air Force Base)는 미국 [와이오밍주](https://ko.wikipedia.org/wiki/와이오밍주 "wikilink")에 위치한 [미국 공군의](https://ko.wikipedia.org/wiki/미국_공군 "wikilink") 군사기지이다.
+**프랜시스 E. 워렌 공군기지**(Francis E. Warren Air Force Base)는 미국 [와이오밍주](../Page/와이오밍주.md "wikilink")에 위치한 [미국 공군의](../Page/미국_공군.md "wikilink") 군사기지이다.
 
 ## 역사
 
-워렌 공군기지는 [미공군](https://ko.wikipedia.org/wiki/미공군 "wikilink")의 가장 오래된 군사기지이다. 1867년 미국 육군은 [데이빗 앨런 러셀 요새를](https://ko.wikipedia.org/wiki/데이빗_앨런_러셀_요새 "wikilink") 건설했다. 1930년 1월 1일 미국 육군은 [프랜시스 E. 워렌 요새로](https://ko.wikipedia.org/wiki/프랜시스_E._워렌_요새 "wikilink") 이름을 변경했다. [프랜시스 E. 워렌은](https://ko.wikipedia.org/wiki/프랜시스_E._워렌 "wikilink") [와이오밍주](https://ko.wikipedia.org/wiki/와이오밍주 "wikilink") 최초의 주지사다. 1947년 6월 1일 [미국 육군 항공대](https://ko.wikipedia.org/wiki/미국_육군_항공대 "wikilink") 기지가 되었다. 1947년 9월 18일 [미공군](https://ko.wikipedia.org/wiki/미공군 "wikilink") 기지가 되었다.
+워렌 공군기지는 [미공군](https://ko.wikipedia.org/wiki/미공군 "wikilink")의 가장 오래된 군사기지이다. 1867년 미국 육군은 [데이빗 앨런 러셀 요새를](https://ko.wikipedia.org/wiki/데이빗_앨런_러셀_요새 "wikilink") 건설했다. 1930년 1월 1일 미국 육군은 [프랜시스 E. 워렌 요새로](https://ko.wikipedia.org/wiki/프랜시스_E._워렌_요새 "wikilink") 이름을 변경했다. [프랜시스 E. 워렌은](https://ko.wikipedia.org/wiki/프랜시스_E._워렌 "wikilink") [와이오밍주](../Page/와이오밍주.md "wikilink") 최초의 주지사다. 1947년 6월 1일 [미국 육군 항공대](../Page/미국_육군_항공대.md "wikilink") 기지가 되었다. 1947년 9월 18일 [미공군](https://ko.wikipedia.org/wiki/미공군 "wikilink") 기지가 되었다.
 
 2016년 현재, [제90 미사일 비행단이](https://ko.wikipedia.org/wiki/제90_미사일_비행단 "wikilink") 주둔하고 있다. 8,300 평방마일 (21,000 km<sup>2</sup>) 면적의, 세계 최대의 지상형 ICBM 발사기지로서, [미니트맨 미사일](https://ko.wikipedia.org/wiki/미니트맨_미사일 "wikilink") 150발이 실전배치중이다.
 
-2016년 현재, 와이오밍주 프랜시스 E. 워렌 공군기지, 노스다코타주 [미놋 공군기지](https://ko.wikipedia.org/wiki/미놋_공군기지 "wikilink"), 몬태나주 [맘스트롬 공군기지에](https://ko.wikipedia.org/wiki/맘스트롬_공군기지 "wikilink") 450개의 [미니트맨 미사일이](https://ko.wikipedia.org/wiki/미니트맨_미사일 "wikilink") 지하 사일로에 실전배치되어 있다.
+2016년 현재, 와이오밍주 프랜시스 E. 워렌 공군기지, 노스다코타주 [미놋 공군기지](../Page/미놋_공군기지.md "wikilink"), 몬태나주 [맘스트롬 공군기지에](../Page/맘스트롬_공군기지.md "wikilink") 450개의 [미니트맨 미사일이](https://ko.wikipedia.org/wiki/미니트맨_미사일 "wikilink") 지하 사일로에 실전배치되어 있다.
 
-[미니트맨 미사일은](https://ko.wikipedia.org/wiki/미니트맨_미사일 "wikilink") [제1격](https://ko.wikipedia.org/wiki/제1격 "wikilink")(선제공격), [경보즉시발사](https://ko.wikipedia.org/wiki/경보즉시발사 "wikilink")가 가능하도록, 핵탄두가 미사일에 장착되어, 대통령이 버튼만 누르면 즉시 발사되게끔 발사준비태세 모드로 배치되어 있다. 전세계에 핵무장국은 많지만, 지상형 ICBM을 즉시발사준비태세로 배치중인 국가는 미국과 러시아 뿐이다. 중국은 핵탄두를 미사일에서 분리시켜놓았다. [SLBM](https://ko.wikipedia.org/wiki/SLBM "wikilink")은 [제2격](https://ko.wikipedia.org/wiki/제2격 "wikilink")(보복공격)용이라서, 선제공격 준비상태가 아니다.
+[미니트맨 미사일은](https://ko.wikipedia.org/wiki/미니트맨_미사일 "wikilink") [제1격](../Page/제1격.md "wikilink")(선제공격), [경보즉시발사](https://ko.wikipedia.org/wiki/경보즉시발사 "wikilink")가 가능하도록, 핵탄두가 미사일에 장착되어, 대통령이 버튼만 누르면 즉시 발사되게끔 발사준비태세 모드로 배치되어 있다. 전세계에 핵무장국은 많지만, 지상형 ICBM을 즉시발사준비태세로 배치중인 국가는 미국과 러시아 뿐이다. 중국은 핵탄두를 미사일에서 분리시켜놓았다. [SLBM](https://ko.wikipedia.org/wiki/SLBM "wikilink")은 [제2격](https://ko.wikipedia.org/wiki/제2격 "wikilink")(보복공격)용이라서, 선제공격 준비상태가 아니다.
 
 ## 관련보도
 
@@ -23,7 +23,7 @@
 
 2014년 1월 초, 와이오밍 워런 공군 기지에서 3명의 핵미사일 담당 장교를 포함해 11명이 마약 등을 소지한 혐의로 조사를 받았다.\[7\]
 
-2014년 1월 초, [척 헤이글](https://ko.wikipedia.org/wiki/척_헤이글 "wikilink") 국방장관이 와이오밍주 샤이엔에 있는 워런 공군기지를 찾아서 대륙간탄도미사일이 보관된 지하 저장고를 방문했다. 국방장관이 대륙간탄도미사일 기지를 방문하는 것은 다소 이례적으로, 2008년 [로버트 게이츠](https://ko.wikipedia.org/wiki/로버트_게이츠 "wikilink") 당시 장관이 방문 한 뒤 처음이다.\[8\]
+2014년 1월 초, [척 헤이글](../Page/척_헤이글.md "wikilink") 국방장관이 와이오밍주 샤이엔에 있는 워런 공군기지를 찾아서 대륙간탄도미사일이 보관된 지하 저장고를 방문했다. 국방장관이 대륙간탄도미사일 기지를 방문하는 것은 다소 이례적으로, 2008년 [로버트 게이츠](../Page/로버트_게이츠.md "wikilink") 당시 장관이 방문 한 뒤 처음이다.\[8\]
 
 2014년 4월 27일, 미국 [CBS](https://ko.wikipedia.org/wiki/CBS "wikilink") 방송의 유명 시사프로그램인 [60분](https://ko.wikipedia.org/wiki/60분 "wikilink")이 미군 당국의 허가를 받아 미국 와이오밍주 샤이엔 지역에 있는 워렌 공군 기지 내 지하 핵탄두 시설 내부를 촬영해 보도했는데, 8인치 플로피 디스크 등 60년대 컴퓨터를 사용중이었다. 핵시설 관계자는 그러나 한참 시대에 뒤떨어진 시스템 장치이지만, 현재 사용되는 인터넷과는 완전히 차단되어 있어 해킹이나 사이버 테러에 대한 핵무기 통제시스템 도난을 근원적으로 막고 있다고 밝혔다.\[9\]
 
@@ -35,7 +35,7 @@
 
 ## 더 보기
 
-  - [SM-65 아틀라스](https://ko.wikipedia.org/wiki/SM-65_아틀라스 "wikilink")
+  - [SM-65 아틀라스](../Page/SM-65_아틀라스.md "wikilink")
   - [미국 공군지구권타격사령부](https://ko.wikipedia.org/wiki/미국_공군지구권타격사령부 "wikilink")
 
 ## 각주

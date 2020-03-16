@@ -5,7 +5,7 @@
 
 ## 개요
 
-《I am A Dreamer》의 수록곡 중 일부인 2014년 3월 28일과 11월 24일, 2015년 4월 6일까지 <야생화>, <HAPPY TOGETHER>, <Shine your light>를 디지털 싱글로 발매한 것을 제외하면 《[Gift - Part 2](https://ko.wikipedia.org/wiki/Gift_-_Part_2 "wikilink")》 이후 6년 만의 정식 앨범이다.
+《I am A Dreamer》의 수록곡 중 일부인 2014년 3월 28일과 11월 24일, 2015년 4월 6일까지 <야생화>, <HAPPY TOGETHER>, <Shine your light>를 디지털 싱글로 발매한 것을 제외하면 《[Gift - Part 2](../Page/Gift_-_Part_2.md "wikilink")》 이후 6년 만의 정식 앨범이다.
 
 이번 앨범은 더블타이틀곡을 채택해, <Home>과 <Beautiful Tomorrow>를 필두로 총 12곡이 수록됐다.
 

@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Pipes of Peace](https://ko.wikipedia.org/wiki/Pipes_of_Peace).
 
 
-《**Pipes of Peace**》()는 영국의 싱어송라이터 [폴 매카트니가](https://ko.wikipedia.org/wiki/폴_매카트니 "wikilink") 1983년 발매한 [정규 음반이다](https://ko.wikipedia.org/wiki/정규_음반 "wikilink"). 인기 음반 《[Tug of War》의](https://ko.wikipedia.org/wiki/Tug_of_War_\(폴_매카트니의_음반\) "wikilink") 후속작으로서 음반은 영국에서 이전과 근접한 상업적 성공을 거두었지만, 미국의 빌보드 200 음반 차트에선 15위까지만 올라갔다. 《Pipes of Peace》는 〈Say Say Say〉와 같은 싱글로 국제적인 성공을 거두었다. 《Pipes of Peace》는 1983년 [컬럼비아를](https://ko.wikipedia.org/wiki/컬럼비아_레코드 "wikilink") 통해 CD로 발매되었고, 1993년 《[The Paul McCartney Collection](https://ko.wikipedia.org/wiki/The_Paul_McCartney_Collection "wikilink")》의 일부로서 리마스터된 CD로 재발매했다. 2015년 《Paul McCartney Archive Collection》의 일부로서 리마스터 버전으로 재판되었다.
+《**Pipes of Peace**》()는 영국의 싱어송라이터 [폴 매카트니가](../Page/폴_매카트니.md "wikilink") 1983년 발매한 [정규 음반이다](../Page/정규_음반.md "wikilink"). 인기 음반 《[Tug of War》의](https://ko.wikipedia.org/wiki/Tug_of_War_\(폴_매카트니의_음반\) "wikilink") 후속작으로서 음반은 영국에서 이전과 근접한 상업적 성공을 거두었지만, 미국의 빌보드 200 음반 차트에선 15위까지만 올라갔다. 《Pipes of Peace》는 〈Say Say Say〉와 같은 싱글로 국제적인 성공을 거두었다. 《Pipes of Peace》는 1983년 [컬럼비아를](../Page/컬럼비아_레코드.md "wikilink") 통해 CD로 발매되었고, 1993년 《[The Paul McCartney Collection](../Page/The_Paul_McCartney_Collection.md "wikilink")》의 일부로서 리마스터된 CD로 재발매했다. 2015년 《Paul McCartney Archive Collection》의 일부로서 리마스터 버전으로 재판되었다.
 
-《Pipes of Peace》의 대부분 수록곡은 1981년 《Tug of War》 세션에서 녹음되었다. 〈Pipes of Peace〉, 〈The Other Me〉, 〈So Bad〉, 〈Tug of Peace〉, 〈Through Our Love〉는 이후인 1982년 9월 \~ 10월 세션에서 녹음했다. 음반은 《Tug of War》는 달리 전자적인 색채를 띄고 있다.\[1\]</ref> 수록곡 〈Tug of Peace〉는 《Tug of War》를 혼합한 듯한 제목이다. [올뮤직](https://ko.wikipedia.org/wiki/올뮤직 "wikilink")의 [스티븐 토마스 얼와인은](https://ko.wikipedia.org/wiki/스티븐_토마스_얼와인 "wikilink") "대부분이 《McCartney II》의 곡을 섞은 일렉트로 콜라주"라고 평가했다.\[2\]
+《Pipes of Peace》의 대부분 수록곡은 1981년 《Tug of War》 세션에서 녹음되었다. 〈Pipes of Peace〉, 〈The Other Me〉, 〈So Bad〉, 〈Tug of Peace〉, 〈Through Our Love〉는 이후인 1982년 9월 \~ 10월 세션에서 녹음했다. 음반은 《Tug of War》는 달리 전자적인 색채를 띄고 있다.\[1\]</ref> 수록곡 〈Tug of Peace〉는 《Tug of War》를 혼합한 듯한 제목이다. [올뮤직](../Page/올뮤직.md "wikilink")의 [스티븐 토마스 얼와인은](../Page/스티븐_토마스_얼와인.md "wikilink") "대부분이 《McCartney II》의 곡을 섞은 일렉트로 콜라주"라고 평가했다.\[2\]
 
 ## 곡 목록
 
-  - [마이클 잭슨과](https://ko.wikipedia.org/wiki/마이클_잭슨 "wikilink") 함께 작곡한 〈Say Say Say〉, 〈The Man〉과 [스탠리 클락와](https://ko.wikipedia.org/wiki/스탠리_클락 "wikilink") 함께 작곡한 〈Hey Hey〉를 제외하곤 모든 곡을 [폴 매카트니가](https://ko.wikipedia.org/wiki/폴_매카트니 "wikilink") 작곡했다.
+  - [마이클 잭슨과](https://ko.wikipedia.org/wiki/마이클_잭슨 "wikilink") 함께 작곡한 〈Say Say Say〉, 〈The Man〉과 [스탠리 클락와](https://ko.wikipedia.org/wiki/스탠리_클락 "wikilink") 함께 작곡한 〈Hey Hey〉를 제외하곤 모든 곡을 [폴 매카트니가](../Page/폴_매카트니.md "wikilink") 작곡했다.
 
 ## 참여 인원
 

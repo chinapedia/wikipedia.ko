@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Hello Bitches Tour 2016](https://ko.wikipedia.org/wiki/Hello_Bitches_Tour_2016).
 
 
-**Hello Bitches Tour 2016**은 [CL의](https://ko.wikipedia.org/wiki/CL_\(가수\) "wikilink") 첫 단독 콘서트 투어이다. 2016년 10월 29일 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [뉴욕](https://ko.wikipedia.org/wiki/뉴욕 "wikilink")을 시작으로 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")과 [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink") 주요 도시 9곳에서 공연을 진행한다.\[1\]
+**Hello Bitches Tour 2016**은 [CL의](../Page/CL_\(가수\).md "wikilink") 첫 단독 콘서트 투어이다. 2016년 10월 29일 [미국](../Page/미국.md "wikilink")의 [뉴욕](../Page/뉴욕.md "wikilink")을 시작으로 [미국](../Page/미국.md "wikilink")과 [캐나다](../Page/캐나다.md "wikilink") 주요 도시 9곳에서 공연을 진행한다.\[1\]
 
 ## 투어 일정
 
@@ -18,14 +18,14 @@
 <tbody>
 <tr class="odd">
 <td><p>2016년 10월 29일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴욕" title="wikilink">뉴욕</a></p></td>
+<td><p><a href="../Page/뉴욕.md" title="wikilink">뉴욕</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/해머스타인_볼룸" title="wikilink">해머스타인 볼룸</a></p></td>
 <td><p>3500</p></td>
 </tr>
 <tr class="even">
 <td><p>2016년 10월 31일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/시애틀" title="wikilink">시애틀</a></p></td>
+<td><p><a href="../Page/시애틀.md" title="wikilink">시애틀</a></p></td>
 <td></td>
 <td><p>Showbox Sodo</p></td>
 <td></td>
@@ -39,7 +39,7 @@
 </tr>
 <tr class="even">
 <td><p>2016년 11월 3일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/샌프란시스코" title="wikilink">샌프란시스코</a></p></td>
+<td><p><a href="../Page/샌프란시스코.md" title="wikilink">샌프란시스코</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Warfield_Theatre" title="wikilink">Warfield Theatre</a></p></td>
 <td><p>2300</p></td>
@@ -67,14 +67,14 @@
 </tr>
 <tr class="even">
 <td><p>2016년 11월 10일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/시카고" title="wikilink">시카고</a></p></td>
+<td><p><a href="../Page/시카고.md" title="wikilink">시카고</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Chicago_Theatre" title="wikilink">Chicago Theatre</a></p></td>
 <td><p>3600</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016년 11월 14일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/토론토" title="wikilink">토론토</a></p></td>
+<td><p><a href="../Page/토론토.md" title="wikilink">토론토</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Sound_Acadamy" title="wikilink">Sound Acadamy</a></p></td>
 <td><p>3230</p></td>

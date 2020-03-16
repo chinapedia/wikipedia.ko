@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Heart and Soul](https://ko.wikipedia.org/wiki/Heart_and_Soul).
 
 
-〈**Heart and Soul**〉(하트 앤드 솔, )는 일본의 음악 그룹 [AAA의](https://ko.wikipedia.org/wiki/AAA_\(음악_그룹\) "wikilink") 스물세 번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink"). [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [1월 27일에](https://ko.wikipedia.org/wiki/1월_27일 "wikilink") [에이벡스 트랙스에서](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") 발매됐다.
+〈**Heart and Soul**〉(하트 앤드 솔, )는 일본의 음악 그룹 [AAA의](../Page/AAA_\(음악_그룹\).md "wikilink") 스물세 번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). [2010년](../Page/2010년.md "wikilink") [1월 27일에](../Page/1월_27일.md "wikilink") [에이벡스 트랙스에서](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") 발매됐다.
 
 ## 개요
 

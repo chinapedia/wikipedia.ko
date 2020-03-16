@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ FC   ](https://ko.wikipedia.org/wiki/_FC___).
 
 
-**경남 FC 심판매수 사건**은 [경남 FC](https://ko.wikipedia.org/wiki/경남_FC "wikilink") 안종복 대표이사의 주도로 심판을 매수한 것이 밝혀져 승점 삭감의 징계를 받은 사건이다.
+**경남 FC 심판매수 사건**은 [경남 FC](../Page/경남_FC.md "wikilink") 안종복 대표이사의 주도로 심판을 매수한 것이 밝혀져 승점 삭감의 징계를 받은 사건이다.
 
 ## 과정
 
@@ -19,7 +19,7 @@ K리그 클래식 심판 4명이 2013년 8월부터 1년여 동안 적게는 900
 
 ## 징계
 
-2015년 12월 18일, [한국프로축구연맹](https://ko.wikipedia.org/wiki/한국프로축구연맹 "wikilink")은 [경남 FC에](https://ko.wikipedia.org/wiki/경남_FC "wikilink") 대해 승점 10 삭감 및 2000만원과 제제금 7000만원의 징계가 내려졌다.\[4\] 참고로 4명의 심판 중 2명은 [전북 현대 모터스 심판매수 사건에서도](https://ko.wikipedia.org/wiki/전북_현대_모터스_심판매수_사건 "wikilink") 돈을 받아 유죄가 확정된 심판들이다.
+2015년 12월 18일, [한국프로축구연맹](../Page/한국프로축구연맹.md "wikilink")은 [경남 FC에](../Page/경남_FC.md "wikilink") 대해 승점 10 삭감 및 2000만원과 제제금 7000만원의 징계가 내려졌다.\[4\] 참고로 4명의 심판 중 2명은 [전북 현대 모터스 심판매수 사건에서도](https://ko.wikipedia.org/wiki/전북_현대_모터스_심판매수_사건 "wikilink") 돈을 받아 유죄가 확정된 심판들이다.
 
 ## 같이 보기
 
@@ -28,7 +28,7 @@ K리그 클래식 심판 4명이 2013년 8월부터 1년여 동안 적게는 900
   - [2006년 이탈리아 축구 스캔들](https://ko.wikipedia.org/wiki/2006년_이탈리아_축구_스캔들 "wikilink")
   - [2011-12 이탈리아 축구 스캔들](../Page/2011-12_이탈리아_축구_스캔들.md "wikilink")
   - [2013년 유로폴 승부조작 수사](https://ko.wikipedia.org/wiki/2013년_유로폴_승부조작_수사 "wikilink") (유럽축구)
-  - [칼초폴리](https://ko.wikipedia.org/wiki/칼초폴리 "wikilink") (세리에 A)
+  - [칼초폴리](../Page/칼초폴리.md "wikilink") (세리에 A)
 
 ## 각주
 

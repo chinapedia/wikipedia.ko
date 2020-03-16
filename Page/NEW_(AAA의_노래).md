@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NEW \(AAA \)](https://ko.wikipedia.org/wiki/NEW_\(AAA_\)).
 
 
-〈**NEW**〉()는 [AAA의](https://ko.wikipedia.org/wiki/AAA_\(음악_그룹\) "wikilink") 쉰한 번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink"). [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [6월 8일에](https://ko.wikipedia.org/wiki/6월_8일 "wikilink") [에이벡스 트랙스에서](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") 발매됐다.
+〈**NEW**〉()는 [AAA의](../Page/AAA_\(음악_그룹\).md "wikilink") 쉰한 번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). [2016년](../Page/2016년.md "wikilink") [6월 8일에](../Page/6월_8일.md "wikilink") [에이벡스 트랙스에서](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") 발매됐다.
 
 ## 개요
 
@@ -30,15 +30,15 @@
 
   - NEW
 
-일본 코카콜라 《[스프라이트](https://ko.wikipedia.org/wiki/스프라이트_\(음료\) "wikilink")》 CM 송
+일본 코카콜라 《[스프라이트](../Page/스프라이트_\(음료\).md "wikilink")》 CM 송
 
 ## 발매일
 
-| 국가                                                    | 날짜           | 포맷                                                                                                               | 레이블                                                           |
-| ----------------------------------------------------- | ------------ | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")     | 2016년 6월 8일  | [CD](https://ko.wikipedia.org/wiki/CD "wikilink"), [디지털 다운로드](https://ko.wikipedia.org/wiki/디지털_다운로드 "wikilink") | [에이벡스 트랙스](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") |
-| [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") | 2016년 9월 28일 | 디지털 다운로드                                                                                                         | [KT 뮤직](https://ko.wikipedia.org/wiki/KT_뮤직 "wikilink")       |
-|                                                       |              |                                                                                                                  |                                                               |
+| 국가                                 | 날짜           | 포맷                                                                                                               | 레이블                                                           |
+| ---------------------------------- | ------------ | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| [일본](../Page/일본.md "wikilink")     | 2016년 6월 8일  | [CD](https://ko.wikipedia.org/wiki/CD "wikilink"), [디지털 다운로드](https://ko.wikipedia.org/wiki/디지털_다운로드 "wikilink") | [에이벡스 트랙스](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") |
+| [대한민국](../Page/대한민국.md "wikilink") | 2016년 9월 28일 | 디지털 다운로드                                                                                                         | [KT 뮤직](https://ko.wikipedia.org/wiki/KT_뮤직 "wikilink")       |
+|                                    |              |                                                                                                                  |                                                               |
 
 ## 차트
 

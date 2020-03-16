@@ -5,7 +5,7 @@
 
 ## 리그기간
 
-  - 방송 및 리그 진행 날짜 : [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [9월 4일](https://ko.wikipedia.org/wiki/9월_4일 "wikilink") \~ [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [10월 23일](https://ko.wikipedia.org/wiki/10월_23일 "wikilink")
+  - 방송 및 리그 진행 날짜 : [2016년](../Page/2016년.md "wikilink") [9월 4일](../Page/9월_4일.md "wikilink") \~ [2016년](../Page/2016년.md "wikilink") [10월 23일](../Page/10월_23일.md "wikilink")
 
 ## 버전
 
@@ -147,6 +147,6 @@
 ## 같이 보기
 
   - [TEKKEN STRIKE](../Page/TEKKEN_STRIKE.md "wikilink")
-  - [나이스 게임 TV](https://ko.wikipedia.org/wiki/나이스_게임_TV "wikilink")
+  - [나이스 게임 TV](../Page/나이스_게임_TV.md "wikilink")
 
 [분류:철권리그](https://ko.wikipedia.org/wiki/분류:철권리그 "wikilink") [분류:2016년 이스포츠](https://ko.wikipedia.org/wiki/분류:2016년_이스포츠 "wikilink")
