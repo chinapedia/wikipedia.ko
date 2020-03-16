@@ -110,7 +110,7 @@
 ## Top Ten Overview (2010)
 
   - A1: Injection
-    [SQL](../Page/SQL.md "wikilink"), [OS](https://ko.wikipedia.org/wiki/OS "wikilink"), [LDAP](../Page/LDAP.md "wikilink") 인젝션과 같은 인젝션 결함은 신뢰할 수 없는 데이터가 명령어나 질의어의 일부분으로써 [인터프리터](https://ko.wikipedia.org/wiki/인터프리터 "wikilink")에 보내질 때 발생한다. 공격자의 악의적인 데이터는 예기치않은 명령 실행이나 권한없는 데이터에 접근하도록 [인터프리터](https://ko.wikipedia.org/wiki/인터프리터 "wikilink")를 속일 수 있다.
+    [SQL](../Page/SQL.md "wikilink"), [OS](https://ko.wikipedia.org/wiki/OS "wikilink"), [LDAP](../Page/LDAP.md "wikilink") 인젝션과 같은 인젝션 결함은 신뢰할 수 없는 데이터가 명령어나 질의어의 일부분으로써 [인터프리터](../Page/인터프리터.md "wikilink")에 보내질 때 발생한다. 공격자의 악의적인 데이터는 예기치않은 명령 실행이나 권한없는 데이터에 접근하도록 [인터프리터](../Page/인터프리터.md "wikilink")를 속일 수 있다.
 
 <!-- end list -->
 
@@ -130,7 +130,7 @@
 <!-- end list -->
 
   - A5: Cross-Site Request Forgery ([CSRF](https://ko.wikipedia.org/wiki/CSRF "wikilink"))
-    [CSRF](https://ko.wikipedia.org/wiki/CSRF "wikilink") 공격은 로그온 된 피해자의 브라우저가 취약한 웹애플리케이션에 피해자의 세션 쿠키와 어떤 다른 자동으로 포함된 인증 정보를 갖고 변조된 [HTTP](https://ko.wikipedia.org/wiki/HTTP "wikilink") 요청을 보내도록 강제한다. 이것은 공격자가 피해자의 브라우저로 하여금 취약한 애플리케이션이 피해자로부터의 정당한 요청이라고 착각하게 만드는 요청들을 생성하도록 강제하는 것을 허용한다.
+    [CSRF](https://ko.wikipedia.org/wiki/CSRF "wikilink") 공격은 로그온 된 피해자의 브라우저가 취약한 웹애플리케이션에 피해자의 세션 쿠키와 어떤 다른 자동으로 포함된 인증 정보를 갖고 변조된 [HTTP](../Page/HTTP.md "wikilink") 요청을 보내도록 강제한다. 이것은 공격자가 피해자의 브라우저로 하여금 취약한 애플리케이션이 피해자로부터의 정당한 요청이라고 착각하게 만드는 요청들을 생성하도록 강제하는 것을 허용한다.
 
 <!-- end list -->
 

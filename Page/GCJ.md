@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [GCJ](https://ko.wikipedia.org/wiki/GCJ).
 
 
-**GCJ**(GNU Compiler for Java)는 [자바 프로그래밍 언어를](https://ko.wikipedia.org/wiki/자바_\(프로그래밍_언어\) "wikilink") 위한 [자유 소프트웨어](https://ko.wikipedia.org/wiki/자유_소프트웨어 "wikilink") [컴파일러](https://ko.wikipedia.org/wiki/컴파일러 "wikilink")이며 [GNU 컴파일러 모음의](https://ko.wikipedia.org/wiki/GNU_컴파일러_모음 "wikilink") 일부이기도 하다.
+**GCJ**(GNU Compiler for Java)는 [자바 프로그래밍 언어를](../Page/자바_\(프로그래밍_언어\).md "wikilink") 위한 [자유 소프트웨어](../Page/자유_소프트웨어.md "wikilink") [컴파일러](../Page/컴파일러.md "wikilink")이며 [GNU 컴파일러 모음의](../Page/GNU_컴파일러_모음.md "wikilink") 일부이기도 하다.
 
-GCJ는 자바 [소스 코드를](../Page/소스_코드.md "wikilink") [자바 가상 머신](https://ko.wikipedia.org/wiki/자바_가상_머신 "wikilink") [바이트코드](../Page/바이트코드.md "wikilink")로나, 아니면 수많은 [CPU 아키텍처를](https://ko.wikipedia.org/wiki/CPU_아키텍처 "wikilink") 대상으로 하여 직접 [기계어](https://ko.wikipedia.org/wiki/기계어 "wikilink")로 컴파일할 수 있다. 또, 바이트코드를 포함하는 [클래스 파일이나](https://ko.wikipedia.org/wiki/자바_클래스_파일 "wikilink"), 이러한 파일들을 포함하는 완전한 [JAR](../Page/JAR_\(파일_포맷\).md "wikilink") 파일을 기계어로 컴파일할 수도 있다.
+GCJ는 자바 [소스 코드를](../Page/소스_코드.md "wikilink") [자바 가상 머신](../Page/자바_가상_머신.md "wikilink") [바이트코드](../Page/바이트코드.md "wikilink")로나, 아니면 수많은 [CPU 아키텍처를](https://ko.wikipedia.org/wiki/CPU_아키텍처 "wikilink") 대상으로 하여 직접 [기계어](../Page/기계어.md "wikilink")로 컴파일할 수 있다. 또, 바이트코드를 포함하는 [클래스 파일이나](https://ko.wikipedia.org/wiki/자바_클래스_파일 "wikilink"), 이러한 파일들을 포함하는 완전한 [JAR](../Page/JAR_\(파일_포맷\).md "wikilink") 파일을 기계어로 컴파일할 수도 있다.
 
 ## 함께보기
 

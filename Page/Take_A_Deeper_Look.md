@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Take A Deeper Look](https://ko.wikipedia.org/wiki/Take_A_Deeper_Look).
 
 
-***TAKE A DEEPER LOOK***은 "더 깊게 보자" 라는 뜻으로 [박재범](https://ko.wikipedia.org/wiki/박재범 "wikilink")의 첫 번째 미니 앨범이다. 이 앨범은 여러가지 장르를 아우르며, [박재범](https://ko.wikipedia.org/wiki/박재범 "wikilink")이 앨범에 수록된 7곡중 전곡을 작사, 6곡을 작곡하고, 프로듀싱까지 하여 화제가 되었다. 이 앨범에 참여한 뮤지션으로는 레이블 ILLIONAIRE RECORDS의 [더 콰이엇](https://ko.wikipedia.org/wiki/더_콰이엇 "wikilink"), [도끼](https://ko.wikipedia.org/wiki/도끼 "wikilink"), 그리고 [박재범](https://ko.wikipedia.org/wiki/박재범 "wikilink")의 크루 [AOM](https://ko.wikipedia.org/wiki/AOM "wikilink")의 멤버인 *Cha Cha Malone*이 있다.
+***TAKE A DEEPER LOOK***은 "더 깊게 보자" 라는 뜻으로 [박재범](../Page/박재범.md "wikilink")의 첫 번째 미니 앨범이다. 이 앨범은 여러가지 장르를 아우르며, [박재범](../Page/박재범.md "wikilink")이 앨범에 수록된 7곡중 전곡을 작사, 6곡을 작곡하고, 프로듀싱까지 하여 화제가 되었다. 이 앨범에 참여한 뮤지션으로는 레이블 ILLIONAIRE RECORDS의 [더 콰이엇](https://ko.wikipedia.org/wiki/더_콰이엇 "wikilink"), [도끼](https://ko.wikipedia.org/wiki/도끼 "wikilink"), 그리고 [박재범](../Page/박재범.md "wikilink")의 크루 [AOM](https://ko.wikipedia.org/wiki/AOM "wikilink")의 멤버인 *Cha Cha Malone*이 있다.
 
 ## 특징
 
@@ -12,7 +12,7 @@
 
 1.  Touch The Sky (Feat. [The Quiett](https://ko.wikipedia.org/wiki/The_Quiett "wikilink"))
 2.  Abandoned (Feat. [Dok2](https://ko.wikipedia.org/wiki/Dok2 "wikilink")) (타이틀곡)
-3.  오늘밤 (Feat. [강민경](https://ko.wikipedia.org/wiki/강민경 "wikilink") of [다비치](../Page/다비치.md "wikilink")) (후속곡)
+3.  오늘밤 (Feat. [강민경](../Page/강민경.md "wikilink") of [다비치](../Page/다비치.md "wikilink")) (후속곡)
 4.  너 없이 안돼
 5.  Don't Let Go
 6.  Level 1000 (With. [Dok2](https://ko.wikipedia.org/wiki/Dok2 "wikilink"))

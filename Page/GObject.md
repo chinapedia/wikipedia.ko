@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [GObject](https://ko.wikipedia.org/wiki/GObject).
 
 
-**GObject**([GLib](https://ko.wikipedia.org/wiki/GLib "wikilink") Object System)는 포팅 가능한 [오브젝트 시스템과](https://ko.wikipedia.org/wiki/객체_지향_프로그래밍 "wikilink") 투명한 크로스 언어 상호 작용을 제공하는 [자유](https://ko.wikipedia.org/wiki/자유_소프트웨어 "wikilink") [소프트웨어 라이브러리이다](https://ko.wikipedia.org/wiki/라이브러리 "wikilink").
+**GObject**([GLib](../Page/GLib.md "wikilink") Object System)는 포팅 가능한 [오브젝트 시스템과](../Page/객체_지향_프로그래밍.md "wikilink") 투명한 크로스 언어 상호 작용을 제공하는 [자유](../Page/자유_소프트웨어.md "wikilink") [소프트웨어 라이브러리이다](https://ko.wikipedia.org/wiki/라이브러리 "wikilink").
 
 ## 같이 보기
 

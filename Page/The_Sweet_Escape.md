@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Sweet Escape](https://ko.wikipedia.org/wiki/The_Sweet_Escape).
 
 
-***The Sweet Escape***는 미국의 가수 [그웬 스테파니의](https://ko.wikipedia.org/wiki/그웬_스테파니 "wikilink") 두 번째 정규 앨범이자 솔로 앨범으로, 2006년 12월 1일 [인터스코프 레코드를](https://ko.wikipedia.org/wiki/인터스코프_레코드 "wikilink") 통해 미국에서 첫 발매되었다.
+***The Sweet Escape***는 미국의 가수 [그웬 스테파니의](../Page/그웬_스테파니.md "wikilink") 두 번째 정규 앨범이자 솔로 앨범으로, 2006년 12월 1일 [인터스코프 레코드를](../Page/인터스코프_레코드.md "wikilink") 통해 미국에서 첫 발매되었다.
 
 ## 수록곡
 

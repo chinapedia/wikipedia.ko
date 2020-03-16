@@ -5,11 +5,11 @@
 
 ## 개요
 
-첫 번째 앨범 《[touch](https://ko.wikipedia.org/wiki/touch_\(NEWS의_음반\) "wikilink")》이후 약 2년 6개월 만의 정규 앨범. 7번째 싱글 〈[weeeek](https://ko.wikipedia.org/wiki/Weeeek "wikilink")〉와 동시에 발매 되었고, 발매일은 데뷔 싱글 〈[NEWS 일본](https://ko.wikipedia.org/wiki/NEWS닛폰 "wikilink")〉과 같다. 초회 생산 한정반에는 13곡과 32페이지에 이르는 북클릿이 첨부되어 있으며, 통상반에는 16페이지에 이르는 북클릿과 보너스 트랙을 포함한 15곡이 수록되었다.
+첫 번째 앨범 《[touch](https://ko.wikipedia.org/wiki/touch_\(NEWS의_음반\) "wikilink")》이후 약 2년 6개월 만의 정규 앨범. 7번째 싱글 〈[weeeek](../Page/Weeeek.md "wikilink")〉와 동시에 발매 되었고, 발매일은 데뷔 싱글 〈[NEWS 일본](https://ko.wikipedia.org/wiki/NEWS닛폰 "wikilink")〉과 같다. 초회 생산 한정반에는 13곡과 32페이지에 이르는 북클릿이 첨부되어 있으며, 통상반에는 16페이지에 이르는 북클릿과 보너스 트랙을 포함한 15곡이 수록되었다.
 
-〈[TEPPEN](https://ko.wikipedia.org/wiki/TEPPEN "wikilink")〉부터 〈[별을 향해서](https://ko.wikipedia.org/wiki/호시오메자시테 "wikilink")〉까지 싱글 4곡과, 콘서트에서 보여준 멤버들의 솔로곡이 다수 수록되어 있다. 레코딩은 6개월 동안 이루어 졌으며, 멤버 각자가 메인 보컬을 담당하는 노래는 스스로 선곡하였다\[1\].
+〈[TEPPEN](../Page/TEPPEN.md "wikilink")〉부터 〈[별을 향해서](https://ko.wikipedia.org/wiki/호시오메자시테 "wikilink")〉까지 싱글 4곡과, 콘서트에서 보여준 멤버들의 솔로곡이 다수 수록되어 있다. 레코딩은 6개월 동안 이루어 졌으며, 멤버 각자가 메인 보컬을 담당하는 노래는 스스로 선곡하였다\[1\].
 
-이 앨범은 [오리콘 앨범 차트](https://ko.wikipedia.org/wiki/오리콘_차트 "wikilink") 1위를 기록, 싱글 〈weeeek〉와 동시에 1위에 올랐다. 싱글과 앨범이 동시에 1위를 차지한 것은 [KAT-TUN](https://ko.wikipedia.org/wiki/KAT-TUN "wikilink")의 〈Real Face〉와 《Best of KAT-TUN》 동시 발매 이후 약 1년 8개월 만의 기록이다.
+이 앨범은 [오리콘 앨범 차트](https://ko.wikipedia.org/wiki/오리콘_차트 "wikilink") 1위를 기록, 싱글 〈weeeek〉와 동시에 1위에 올랐다. 싱글과 앨범이 동시에 1위를 차지한 것은 [KAT-TUN](../Page/KAT-TUN.md "wikilink")의 〈Real Face〉와 《Best of KAT-TUN》 동시 발매 이후 약 1년 8개월 만의 기록이다.
 
 ## 수록곡
 
@@ -19,7 +19,7 @@
 2.  **** / **<small>사야엔도</small>**
       -
         작사: zopp / 작곡·편곡: Shusui, Fredrik Hult, Jonas Engstrand, Ola Larsson / 편곡 보조: 오츠보 나오키
-3.  **[TEPPEN](https://ko.wikipedia.org/wiki/TEPPEN "wikilink")** / **<small>정상</small>**
+3.  **[TEPPEN](../Page/TEPPEN.md "wikilink")** / **<small>정상</small>**
       -
         작사·작곡: 히비노 히로시 / 편곡: ha-j, 요시오카 타쿠
 4.  **Change the World**
@@ -28,10 +28,10 @@
 5.  **** / **<small>너를 생각하는 밤</small>**
       -
         작사: 이와사 마키 / 작곡: Shusui, Tony Malm / 편곡: 스즈키 Daichi 히데유키
-6.  **** / **<small>알리바이</small>** - [코야마 케이치로](https://ko.wikipedia.org/wiki/코야마_케이치로 "wikilink"), [카토 시게아키](https://ko.wikipedia.org/wiki/카토_시게아키 "wikilink"), [테고시 유야](../Page/테고시_유야.md "wikilink"), [마스다 타카히사](../Page/마스다_타카히사.md "wikilink")
+6.  **** / **<small>알리바이</small>** - [코야마 케이치로](../Page/코야마_케이치로.md "wikilink"), [카토 시게아키](../Page/카토_시게아키.md "wikilink"), [테고시 유야](../Page/테고시_유야.md "wikilink"), [마스다 타카히사](../Page/마스다_타카히사.md "wikilink")
       -
         작사: [H.U.B](https://ko.wikipedia.org/wiki/임범준 "wikilink") / 작곡·편곡: 무라야마 신이치로
-7.  **code** - [니시키도 료](https://ko.wikipedia.org/wiki/니시키도_료 "wikilink")
+7.  **code** - [니시키도 료](../Page/니시키도_료.md "wikilink")
       -
         작사: 니시키도 료 / 작곡: 나가세 히로키 / 편곡: 쿠로스 가츠히코
 8.  **** / **<small>치라리즈무</small>** - 코야마 케이치로, 카토 시게아키

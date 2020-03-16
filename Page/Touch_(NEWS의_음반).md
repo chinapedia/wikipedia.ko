@@ -5,7 +5,7 @@
 
 ## 개요
 
-데뷔 싱글 〈[NEWS 일본](https://ko.wikipedia.org/wiki/NEWS닛폰 "wikilink")〉부터 세 번째 싱글 〈[체리시](https://ko.wikipedia.org/wiki/체리시_\(NEWS의_노래\) "wikilink")〉까지 포함된 첫 번째 정규 음반이다. 완전 초회 한정반은 14곡에 특전 DVD가 첨부되었고, 통상반에는 보너스 트랙이 추가되어 특전 DVD 없이 16곡이 수록되어 있다.
+데뷔 싱글 〈[NEWS 일본](https://ko.wikipedia.org/wiki/NEWS닛폰 "wikilink")〉부터 세 번째 싱글 〈[체리시](../Page/체리시_\(NEWS의_노래\).md "wikilink")〉까지 포함된 첫 번째 정규 음반이다. 완전 초회 한정반은 14곡에 특전 DVD가 첨부되었고, 통상반에는 보너스 트랙이 추가되어 특전 DVD 없이 16곡이 수록되어 있다.
 
 본 앨범이 [오리콘 주간 앨범 차트](https://ko.wikipedia.org/wiki/오리콘_차트 "wikilink") 1위를 획득해 NEWS는 메이저 데뷔 싱글 〈[희망\~Yell\~](https://ko.wikipedia.org/wiki/기보~Yell~ "wikilink")〉 이후 4작품 연속 1위에 올랐다\[1\].
 
@@ -29,10 +29,10 @@
 6.  **** / **<small>계속</small>** - [마스다 타카히사](../Page/마스다_타카히사.md "wikilink"), [테고시 유야](../Page/테고시_유야.md "wikilink")
       -
         작사: 콘도 나츠코 / 작곡: 우에노 히로시 / 편곡: h-wonder
-7.  **High TEN\!** - [코야마 케이치로](https://ko.wikipedia.org/wiki/코야마_케이치로 "wikilink"), 마스다 타카히사, [카토 시게아키](https://ko.wikipedia.org/wiki/카토_시게아키 "wikilink"), [쿠사노 히로노리](https://ko.wikipedia.org/wiki/쿠사노_히로노리 "wikilink")
+7.  **High TEN\!** - [코야마 케이치로](../Page/코야마_케이치로.md "wikilink"), 마스다 타카히사, [카토 시게아키](../Page/카토_시게아키.md "wikilink"), [쿠사노 히로노리](../Page/쿠사노_히로노리.md "wikilink")
       -
         작사: 키즈키 미히로 / 작곡·편곡: 마에지마 야스아키
-8.  **** / **<small>사랑의 상처일뿐</small>** - [니시키도 료](https://ko.wikipedia.org/wiki/니시키도_료 "wikilink"), 테고시 유야, 쿠사노 히로노리
+8.  **** / **<small>사랑의 상처일뿐</small>** - [니시키도 료](../Page/니시키도_료.md "wikilink"), 테고시 유야, 쿠사노 히로노리
       -
         작사: 키즈키 미히로 / 작곡·편곡 : Shusui, Henric Uhrbom, Julius Bengtsson
 9.  ** Friday Night** / **<small>질주\! Friday Night</small>** - 니시키도 료, 우치 히로키

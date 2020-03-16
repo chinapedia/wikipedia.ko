@@ -5,7 +5,7 @@
 
 <div style="text-align:right; font-size:90%; padding-right:.5em">
 
-[설명](https://ko.wikipedia.org/wiki/틀:노선도_설명 "wikilink")
+[설명](../Page/틀:노선도_설명.md "wikilink")
 
 </div>
 
@@ -33,7 +33,7 @@
 
 <div style="text-align:right; font-size:90%; padding-right:.5em">
 
-[설명](https://ko.wikipedia.org/wiki/틀:노선도_설명 "wikilink")
+[설명](../Page/틀:노선도_설명.md "wikilink")
 
 </div>
 

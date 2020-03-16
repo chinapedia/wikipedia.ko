@@ -7,7 +7,7 @@
 
 APKWS는 기존의 중고 [히드라 70](https://ko.wikipedia.org/wiki/히드라_70 "wikilink") 로켓의 모터와 탄두를 그대로 사용한다. 단가는 최대 1만달러로 예상한다.\[1\]
 
-미국 정부는 [록히드 마틴과](https://ko.wikipedia.org/wiki/록히드_마틴 "wikilink") [레이시온](../Page/레이시온.md "wikilink")이 제안한 [DAGR](https://ko.wikipedia.org/wiki/DAGR "wikilink")을 탈락시키고, 미국의 [BAE Systems가](https://ko.wikipedia.org/wiki/BAE_Systems "wikilink") 주된 계약자로 2012년 부터 전장에서 사용하며, 회전익 및 고정익 공격/전폭기에서 발사 하고 있다.
+미국 정부는 [록히드 마틴과](../Page/록히드_마틴.md "wikilink") [레이시온](../Page/레이시온.md "wikilink")이 제안한 [DAGR](https://ko.wikipedia.org/wiki/DAGR "wikilink")을 탈락시키고, 미국의 [BAE Systems가](https://ko.wikipedia.org/wiki/BAE_Systems "wikilink") 주된 계약자로 2012년 부터 전장에서 사용하며, 회전익 및 고정익 공격/전폭기에서 발사 하고 있다.
 
 2015년 현재, [BAE 시스템스는](https://ko.wikipedia.org/wiki/BAE_시스템스 "wikilink") APKWS 로켓 5,000발을 생산했다.
 
@@ -17,7 +17,7 @@ APKWS는 기존의 중고 [히드라 70](https://ko.wikipedia.org/wiki/히드라
   - [로거](https://ko.wikipedia.org/wiki/로거 "wikilink") - 한국산 액티브 적외선유도 70 mm [히드라 70](https://ko.wikipedia.org/wiki/히드라_70 "wikilink")
   - [메버릭](https://ko.wikipedia.org/wiki/메버릭 "wikilink") - 사거리 23 km, 무게 300 kg, 레이저 유도, 2억원
   - [헬파이어](../Page/AGM-114_헬파이어.md "wikilink") - 사거리 8 km, 무게 50 kg, 레이저 유도, 114K 기본형 8천만원
-  - [LAHAT](https://ko.wikipedia.org/wiki/LAHAT "wikilink") - 사거리 8 km, 무게 13 kg, 레이저 유도, 2천만원
+  - [LAHAT](../Page/LAHAT.md "wikilink") - 사거리 8 km, 무게 13 kg, 레이저 유도, 2천만원
   - APKWS - 사거리 8 km, 무게 6 kg, 레이저 유도, 키트가격4천만원, [히드라 70](https://ko.wikipedia.org/wiki/히드라_70 "wikilink") 개량
 
 ## 각주

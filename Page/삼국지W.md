@@ -35,8 +35,8 @@
       - [219년](https://ko.wikipedia.org/wiki/219년 "wikilink") 삼국정립
       - [219년](https://ko.wikipedia.org/wiki/219년 "wikilink") 번성전투
   - EP4
-      - [222년](https://ko.wikipedia.org/wiki/222년 "wikilink") 이릉대전
-      - [222년](https://ko.wikipedia.org/wiki/222년 "wikilink") 삼로전투
+      - [222년](../Page/222년.md "wikilink") 이릉대전
+      - [222년](../Page/222년.md "wikilink") 삼로전투
       - [225년](https://ko.wikipedia.org/wiki/225년 "wikilink") 남만전투
   - EP5
       - [227년](https://ko.wikipedia.org/wiki/227년 "wikilink") 출사표
@@ -57,7 +57,7 @@
       - 10.재인박명
   - 삼국 비사록 에피소드
       - [195년](https://ko.wikipedia.org/wiki/195년 "wikilink") 복양전투
-      - [184년](https://ko.wikipedia.org/wiki/184년 "wikilink") 황건의 난
+      - [184년](../Page/184년.md "wikilink") 황건의 난
       - [194년](https://ko.wikipedia.org/wiki/194년 "wikilink") 강동정벌
       - [196년](https://ko.wikipedia.org/wiki/196년 "wikilink") 완성전투
       - [203년](https://ko.wikipedia.org/wiki/203년 "wikilink") 하북쟁탈전
@@ -67,23 +67,23 @@
 
 ## 역사
 
-  - 1차 클로즈 베타 테스트(CBT) [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [7월 2일에](https://ko.wikipedia.org/wiki/7월_2일 "wikilink") 시작했고 [7월 8일](https://ko.wikipedia.org/wiki/7월_8일 "wikilink") 종료했다.
-  - 2차 클로즈 베타 테스트(CBT) [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [7월 24일에](https://ko.wikipedia.org/wiki/7월_24일 "wikilink") 시작했고 [8월 18일](https://ko.wikipedia.org/wiki/8월_18일 "wikilink") 종료했다.
-  - 정식서비스 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [9월 21일에](https://ko.wikipedia.org/wiki/9월_21일 "wikilink") 카포게임즈에서 정식 서비스가 시작하였다.
-  - 두 번째 서버 오픈 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [12월 15일에](https://ko.wikipedia.org/wiki/12월_15일 "wikilink") 게임하마에서 시작하였다.
-  - 세 번째 서버 오픈 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [10월 7일에](https://ko.wikipedia.org/wiki/10월_7일 "wikilink") 게임하마에서 시작하였다. 이름은 '청룡'.
-  - 네 번째 서버 오픈 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [7월 12일에](https://ko.wikipedia.org/wiki/7월_12일 "wikilink") 게임하마에서 시작하였다. 이름은 '백호'.
-  - 다섯 번째 서버 오픈 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [8월 16일에](https://ko.wikipedia.org/wiki/8월_16일 "wikilink") 게임하마에서 시작하였다. 이름은 '주작'.
+  - 1차 클로즈 베타 테스트(CBT) [2009년](../Page/2009년.md "wikilink") [7월 2일에](../Page/7월_2일.md "wikilink") 시작했고 [7월 8일](../Page/7월_8일.md "wikilink") 종료했다.
+  - 2차 클로즈 베타 테스트(CBT) [2009년](../Page/2009년.md "wikilink") [7월 24일에](../Page/7월_24일.md "wikilink") 시작했고 [8월 18일](../Page/8월_18일.md "wikilink") 종료했다.
+  - 정식서비스 [2009년](../Page/2009년.md "wikilink") [9월 21일에](../Page/9월_21일.md "wikilink") 카포게임즈에서 정식 서비스가 시작하였다.
+  - 두 번째 서버 오픈 [2009년](../Page/2009년.md "wikilink") [12월 15일에](../Page/12월_15일.md "wikilink") 게임하마에서 시작하였다.
+  - 세 번째 서버 오픈 [2010년](../Page/2010년.md "wikilink") [10월 7일에](../Page/10월_7일.md "wikilink") 게임하마에서 시작하였다. 이름은 '청룡'.
+  - 네 번째 서버 오픈 [2011년](../Page/2011년.md "wikilink") [7월 12일에](../Page/7월_12일.md "wikilink") 게임하마에서 시작하였다. 이름은 '백호'.
+  - 다섯 번째 서버 오픈 [2011년](../Page/2011년.md "wikilink") [8월 16일에](../Page/8월_16일.md "wikilink") 게임하마에서 시작하였다. 이름은 '주작'.
 
 \-이후 기존서버인 '하마'의 이름이 바뀌어야한다는 주장이 나왔고 의견 조사가 이루어졌으나 유야무야 사라졌다.
 
-  - 여섯번째 서버 오픈 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [1월 31일에](https://ko.wikipedia.org/wiki/1월_31일 "wikilink") 카포게임즈에서 시작하였다. 이름은 '混'. 이때 기존 서버의 이름이 정해졌다. 이름은 '本'.
-  - 게임하마에서 유저들의 요청과 서버 한계, 계열사 운영의 한계에 따라 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [6월 4일서버를](https://ko.wikipedia.org/wiki/6월_4일 "wikilink") 조정하에 임의로 통합했다.
-  - 게임하마 서비스 종료[2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [7월 8일에](https://ko.wikipedia.org/wiki/7월_8일 "wikilink") 따라 통합된 서버는 '秦'서버로 이름을 바꾸고 카포게임즈에서 서비스하게 되었다.
+  - 여섯번째 서버 오픈 [2012년](../Page/2012년.md "wikilink") [1월 31일에](../Page/1월_31일.md "wikilink") 카포게임즈에서 시작하였다. 이름은 '混'. 이때 기존 서버의 이름이 정해졌다. 이름은 '本'.
+  - 게임하마에서 유저들의 요청과 서버 한계, 계열사 운영의 한계에 따라 [2013년](../Page/2013년.md "wikilink") [6월 4일서버를](../Page/6월_4일.md "wikilink") 조정하에 임의로 통합했다.
+  - 게임하마 서비스 종료[2013년](../Page/2013년.md "wikilink") [7월 8일에](../Page/7월_8일.md "wikilink") 따라 통합된 서버는 '秦'서버로 이름을 바꾸고 카포게임즈에서 서비스하게 되었다.
 
 \-사실상, 게임하마가 카포게임즈에 병합된것이나 마찬가지이다.
 
-  - 일곱번째 서버 오픈 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [5월 28일에](https://ko.wikipedia.org/wiki/5월_28일 "wikilink") 다음게임즈에서 시작하였다. 이름은 '緣'
+  - 일곱번째 서버 오픈 [2015년](../Page/2015년.md "wikilink") [5월 28일에](../Page/5월_28일.md "wikilink") 다음게임즈에서 시작하였다. 이름은 '緣'
 
 <!-- end list -->
 
@@ -91,7 +91,7 @@
 
 ## 평가
 
-[삼국지W](https://ko.wikipedia.org/wiki/삼국지W "wikilink")에서 등장하는 인물들은 대부분 [삼국지 연의를](https://ko.wikipedia.org/wiki/삼국지_연의 "wikilink") 바탕으로 만들어져있어, 일부 인물들의 능력치가 크게 [왜곡](https://ko.wikipedia.org/wiki/왜곡 "wikilink")되어 반영되었다고 평가 받고 있다. 그 예로 [순욱](../Page/순욱.md "wikilink")의 조카로 알려진 [순유](../Page/순유.md "wikilink")가 그 중 한명이다.
+[삼국지W](../Page/삼국지W.md "wikilink")에서 등장하는 인물들은 대부분 [삼국지 연의를](https://ko.wikipedia.org/wiki/삼국지_연의 "wikilink") 바탕으로 만들어져있어, 일부 인물들의 능력치가 크게 [왜곡](https://ko.wikipedia.org/wiki/왜곡 "wikilink")되어 반영되었다고 평가 받고 있다. 그 예로 [순욱](../Page/순욱.md "wikilink")의 조카로 알려진 [순유](../Page/순유.md "wikilink")가 그 중 한명이다.
 
 ## 외부 링크
 

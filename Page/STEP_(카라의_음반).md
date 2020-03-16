@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [STEP \( \)](https://ko.wikipedia.org/wiki/STEP_\(_\)).
 
 
-《**STEP**》은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [카라의](../Page/카라_\(음악_그룹\).md "wikilink") 세 번째 정규 음반이다. 이 앨범의 타이틀곡 <STEP>의 뮤직비디오는 2013년 12월, 유투브에서 4900만건이라는 엄청난 조회수를 기록하고 있다.
+《**STEP**》은 [대한민국](../Page/대한민국.md "wikilink")의 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [카라의](../Page/카라_\(음악_그룹\).md "wikilink") 세 번째 정규 음반이다. 이 앨범의 타이틀곡 <STEP>의 뮤직비디오는 2013년 12월, 유투브에서 4900만건이라는 엄청난 조회수를 기록하고 있다.
 
 ## 수록곡
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
 
 
-**베네치아 FC**()는 [1907년](https://ko.wikipedia.org/wiki/1907년 "wikilink") [12월 14일에](https://ko.wikipedia.org/wiki/12월_14일 "wikilink") 창단된 [이탈리아](https://ko.wikipedia.org/wiki/이탈리아 "wikilink")의 축구 클럽으로 [베네치아](https://ko.wikipedia.org/wiki/베네치아 "wikilink")를 연고지로 한다. 현재는 [세리에 B에](../Page/세리에_B.md "wikilink") 참가하고 있으며, 2002년 [세리에 A로](../Page/세리에_A.md "wikilink") 승격된 경력이 있다.
+**베네치아 FC**()는 [1907년](../Page/1907년.md "wikilink") [12월 14일에](../Page/12월_14일.md "wikilink") 창단된 [이탈리아](../Page/이탈리아.md "wikilink")의 축구 클럽으로 [베네치아](../Page/베네치아.md "wikilink")를 연고지로 한다. 현재는 [세리에 B에](../Page/세리에_B.md "wikilink") 참가하고 있으며, 2002년 [세리에 A로](../Page/세리에_A.md "wikilink") 승격된 경력이 있다.
 
 이 팀은 2005년 이전까지 **AC 베네치아**(Associazione Calcio Venezia 1907), 2005년부터 2009년까지는 **SSC 베네치아**(Società Sportiva Calcio Venezia), 2009년부터 2015년까지는 **FBC 우니오네 베네치아**(FBC Unione Venezia)라는 이름을 사용했다.
 

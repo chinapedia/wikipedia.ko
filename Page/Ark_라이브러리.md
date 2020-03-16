@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Ark ](https://ko.wikipedia.org/wiki/Ark_).
 
 
-**Ark 라이브러리**(ArkLibrary)는 [반디집](../Page/반디집.md "wikilink")을 만든 반디소프트(대표 박근홍)에서 개발한 압축 파일 처리용 상용 미들웨어이다. 5.0 버전까지는 일부 비상업적 용도에 한하여 무료로 사용이 가능하였지만, 6.0 버전부터는 상용 구매를 목적으로 하는 테스트 이외에는 구매 후 사용하도록 라이선스가 바뀌었다.\[1\] [반디집](../Page/반디집.md "wikilink") 자체도 Ark 라이브러리를 이용하여 개발되었기 때문에 Ark 라이브러리를 이용하면 반디집에서 제공하는 압축파일과 관련된 모든 기능을 사용할 수 있다. 32비트 및 64비트의 [마이크로소프트 윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 운영 체제 계열 중 [윈도 7](https://ko.wikipedia.org/wiki/윈도_7 "wikilink"), [윈도 8](https://ko.wikipedia.org/wiki/윈도_8 "wikilink"), [윈도 10을](../Page/윈도우_10.md "wikilink") 지원하며, [POSIX](https://ko.wikipedia.org/wiki/POSIX "wikilink") 시스템 은 [OS X](https://ko.wikipedia.org/wiki/OS_X "wikilink"), [우분투](https://ko.wikipedia.org/wiki/우분투 "wikilink"), [FreeBSD](https://ko.wikipedia.org/wiki/FreeBSD "wikilink") 와 같은 대부분의 운영 체제를 지원한다.
+**Ark 라이브러리**(ArkLibrary)는 [반디집](../Page/반디집.md "wikilink")을 만든 반디소프트(대표 박근홍)에서 개발한 압축 파일 처리용 상용 미들웨어이다. 5.0 버전까지는 일부 비상업적 용도에 한하여 무료로 사용이 가능하였지만, 6.0 버전부터는 상용 구매를 목적으로 하는 테스트 이외에는 구매 후 사용하도록 라이선스가 바뀌었다.\[1\] [반디집](../Page/반디집.md "wikilink") 자체도 Ark 라이브러리를 이용하여 개발되었기 때문에 Ark 라이브러리를 이용하면 반디집에서 제공하는 압축파일과 관련된 모든 기능을 사용할 수 있다. 32비트 및 64비트의 [마이크로소프트 윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 운영 체제 계열 중 [윈도 7](https://ko.wikipedia.org/wiki/윈도_7 "wikilink"), [윈도 8](https://ko.wikipedia.org/wiki/윈도_8 "wikilink"), [윈도 10을](../Page/윈도우_10.md "wikilink") 지원하며, [POSIX](../Page/POSIX.md "wikilink") 시스템 은 [OS X](https://ko.wikipedia.org/wiki/OS_X "wikilink"), [우분투](https://ko.wikipedia.org/wiki/우분투 "wikilink"), [FreeBSD](../Page/FreeBSD.md "wikilink") 와 같은 대부분의 운영 체제를 지원한다.
 
 ## 주요 기능
 

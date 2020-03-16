@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ I](https://ko.wikipedia.org/wiki/_I).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Museum_of_Science,_Boston,_MA_-_IMG_3163.JPG "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:UNIVAC-I-BRL61-0977.jpg "wikilink") **유니박 I**(UNIVersal Automatic Computer I)은 [에니악](https://ko.wikipedia.org/wiki/에니악 "wikilink")(ENIAC)을 만든 모클리와 에커트에 의해 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")에서 처음으로 만들어진 최초의 상업용 컴퓨터이다.\[1\] UNIVAC I 모델들이 등장하기 전 여러 해 동안 이 머신은 간단히 "유니박"(UNIVAC)으로 불렸다.\[2\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:Museum_of_Science,_Boston,_MA_-_IMG_3163.JPG "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:UNIVAC-I-BRL61-0977.jpg "wikilink") **유니박 I**(UNIVersal Automatic Computer I)은 [에니악](../Page/에니악.md "wikilink")(ENIAC)을 만든 모클리와 에커트에 의해 [미국](../Page/미국.md "wikilink")에서 처음으로 만들어진 최초의 상업용 컴퓨터이다.\[1\] UNIVAC I 모델들이 등장하기 전 여러 해 동안 이 머신은 간단히 "유니박"(UNIVAC)으로 불렸다.\[2\]
 
 1951년 3월 31일에 최초로 미국의 조사 통계국에 설치되었으며 그 해 6월 14일 전문적으로 사용되었다.\[3\]\[4\]
 

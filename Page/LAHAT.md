@@ -15,7 +15,7 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:LCH_\(HEMANT_RAWAT_\)_\(2\).JPG "wikilink") 경공격헬기\]\]
 
-  - \- [메르카바](https://ko.wikipedia.org/wiki/메르카바 "wikilink") 전차
+  - \- [메르카바](../Page/메르카바.md "wikilink") 전차
 
   - \- [HAL LCH](https://ko.wikipedia.org/wiki/HAL_LCH "wikilink") 경공격헬기
 
@@ -23,9 +23,9 @@
 
   - \- [밀 Mi-17](https://ko.wikipedia.org/wiki/밀_Mi-17 "wikilink") 공격헬기
 
-  - \- [레오파르트 2](https://ko.wikipedia.org/wiki/레오파르트_2 "wikilink") 전차
+  - \- [레오파르트 2](../Page/레오파르트_2.md "wikilink") 전차
 
-  - \- [레오파르트 2](https://ko.wikipedia.org/wiki/레오파르트_2 "wikilink") 전차
+  - \- [레오파르트 2](../Page/레오파르트_2.md "wikilink") 전차
 
 ## 더 보기
 

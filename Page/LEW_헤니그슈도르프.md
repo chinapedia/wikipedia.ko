@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LEW ](https://ko.wikipedia.org/wiki/LEW_).
 
 
-**LEW 헤니그슈도르프**는 1910년 [AEG](https://ko.wikipedia.org/wiki/AEG "wikilink")가 세운 철도 차량 공장이었다. 1913년 첫 기관차가 생산되었으며, 1930년대에 아우구스트 보르지히 기관차 공장을 합병하여 Borsig Lokomotiv Werke GmbH로 개명하였다. 제2차 세계 대전 이후 [동독](https://ko.wikipedia.org/wiki/동독 "wikilink")에서 이 공장을 국유화하여 전기 기관차를 생산하였다. LEW는 Lokomotivbau-Elektrotechnische Werke의 줄임말이다. 1990년 독일 통일 이후 AEG에서 이 공장을 다시 인수하여 AEG Schienenfahrzeuge GmbH로 개명하였고, 1996년 모기업이 [ADtranz](https://ko.wikipedia.org/wiki/ADtranz "wikilink"), 2001년에는 봄바디어로 변경되었다. ADtranz에 소유권이 있었을 때 기관차 생산을 중단하였고, 현재 동차만 생산하고 있다.
+**LEW 헤니그슈도르프**는 1910년 [AEG](https://ko.wikipedia.org/wiki/AEG "wikilink")가 세운 철도 차량 공장이었다. 1913년 첫 기관차가 생산되었으며, 1930년대에 아우구스트 보르지히 기관차 공장을 합병하여 Borsig Lokomotiv Werke GmbH로 개명하였다. 제2차 세계 대전 이후 [동독](../Page/동독.md "wikilink")에서 이 공장을 국유화하여 전기 기관차를 생산하였다. LEW는 Lokomotivbau-Elektrotechnische Werke의 줄임말이다. 1990년 독일 통일 이후 AEG에서 이 공장을 다시 인수하여 AEG Schienenfahrzeuge GmbH로 개명하였고, 1996년 모기업이 [ADtranz](https://ko.wikipedia.org/wiki/ADtranz "wikilink"), 2001년에는 봄바디어로 변경되었다. ADtranz에 소유권이 있었을 때 기관차 생산을 중단하였고, 현재 동차만 생산하고 있다.
 
 ## 역사
 
@@ -9,7 +9,7 @@
 
 1920/1921년 Rosenthal & Co. AG와 합작 회사 Rosenthal-Isolatoren GmbH(로젠탈 단열재)를 설립하였고,\[2\] 제철 공장을 설립하였다. 1921년 산업용 증기 발전 플랜트 생산이 시작되었고, 1927년 가루 석탄을 사용하는 증기 엔진 가동이 시작되었다.\[3\]
 
-1931년 AEG는 [대공황](https://ko.wikipedia.org/wiki/대공황 "wikilink") 당시 파산한 보르지히 AG와 합병하였다.\[4\] 기관차 생산 역시 테겔에 있었던 보르지히 공장에서 헤니그슈도르프 공장으로 이전하였다.\[5\]\[6\] 1935년 AEG는 보르지히의 모든 주식을 인수하여 소유자가 되었다.\[7\] 1944년까지 AEG의 자회사 Borsig Lokomotiv Werke GmbH로서 전기 기관차 생산이 진행되었다.\[8\]
+1931년 AEG는 [대공황](../Page/대공황.md "wikilink") 당시 파산한 보르지히 AG와 합병하였다.\[4\] 기관차 생산 역시 테겔에 있었던 보르지히 공장에서 헤니그슈도르프 공장으로 이전하였다.\[5\]\[6\] 1935년 AEG는 보르지히의 모든 주식을 인수하여 소유자가 되었다.\[7\] 1944년까지 AEG의 자회사 Borsig Lokomotiv Werke GmbH로서 전기 기관차 생산이 진행되었다.\[8\]
 
 제2차 세계 대전 종전 이후 공장의 80%가 파괴되었고, 동독을 점령한 소련의 통제권 하에 놓인다. 1947년 국유화되었고, 이름이 "VEM Vereinigung Volkseigener Betriebe des Elektro-Maschinenbaus-Lokomotivbau Elektrotechnische Werke Hennigsdorf (Osthavelland)"로 바뀌었다. 1948년 전기 기관차 생산이 재개되었고, 1951년 VEB Lokomotivbau-Elektrotechnische Werke "Hans Beimler"\[9\], 축약 LEW로 개명되었다.\[10\]
 

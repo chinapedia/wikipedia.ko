@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [GRAVITY ](https://ko.wikipedia.org/wiki/GRAVITY_).
 
 
-〈**GRAVITY Ø**〉(그래비티 제로)는 [Aqua Timez가](https://ko.wikipedia.org/wiki/Aqua_Timez "wikilink") [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [10월 13일에](https://ko.wikipedia.org/wiki/10월_13일 "wikilink") 발매한 열두 번째 싱글이다.
+〈**GRAVITY Ø**〉(그래비티 제로)는 [Aqua Timez가](../Page/Aqua_Timez.md "wikilink") [2010년](../Page/2010년.md "wikilink") [10월 13일에](../Page/10월_13일.md "wikilink") 발매한 열두 번째 싱글이다.
 
 ## 개요
 
@@ -9,15 +9,15 @@
 
 <!-- end list -->
 
-  - [MBS](../Page/마이니치_방송.md "wikilink")·[TBS](https://ko.wikipedia.org/wiki/도쿄_방송_홀딩스 "wikilink") [애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink") 《[STAR DRIVER 빛의 타쿠토](../Page/스타_드라이버_빛의_타쿠토.md "wikilink")》 오프닝 곡으로 기용되었다.
+  - [MBS](../Page/마이니치_방송.md "wikilink")·[TBS](../Page/도쿄_방송_홀딩스.md "wikilink") [애니메이션](../Page/애니메이션.md "wikilink") 《[STAR DRIVER 빛의 타쿠토](../Page/스타_드라이버_빛의_타쿠토.md "wikilink")》 오프닝 곡으로 기용되었다.
 
 <!-- end list -->
 
-  - 애니메이션 타이업은 "[Velonica](https://ko.wikipedia.org/wiki/Velonica "wikilink")" 이후 약 2년만이다.
+  - 애니메이션 타이업은 "[Velonica](../Page/Velonica.md "wikilink")" 이후 약 2년만이다.
 
 <!-- end list -->
 
-  - 수록곡 "" 속 [휘파람](https://ko.wikipedia.org/wiki/휘파람 "wikilink") 소리는 [기타](https://ko.wikipedia.org/wiki/기타 "wikilink") 담당 다이스케가 녹음한 것.
+  - 수록곡 "" 속 [휘파람](https://ko.wikipedia.org/wiki/휘파람 "wikilink") 소리는 [기타](../Page/기타.md "wikilink") 담당 다이스케가 녹음한 것.
 
 <!-- end list -->
 

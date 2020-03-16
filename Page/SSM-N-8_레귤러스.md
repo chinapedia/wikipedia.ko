@@ -7,7 +7,7 @@
 
 1943년 10월 [보우트](https://ko.wikipedia.org/wiki/보우트 "wikilink")(Chance Vought Aircraft Company)는 1.8톤의 핵탄두를 탑재한 사거리 480 km 순항미사일 개발을 시작했다. 4년간 개발하다가 중단되었다.
 
-1947년 5월 [미국 공군](../Page/미국_공군.md "wikilink")(United States Army Air Forces)은 [록히드 마틴](https://ko.wikipedia.org/wiki/록히드_마틴 "wikilink")(Martin Aircraft Company)과 [터보젯](https://ko.wikipedia.org/wiki/터보젯 "wikilink") 엔진을 사용한 [MGM-1 마타도르](https://ko.wikipedia.org/wiki/MGM-1_마타도르 "wikilink") 아음속 지대지 핵 순항미사일 개발 계약을 체결했다.
+1947년 5월 [미국 공군](../Page/미국_공군.md "wikilink")(United States Army Air Forces)은 [록히드 마틴](../Page/록히드_마틴.md "wikilink")(Martin Aircraft Company)과 [터보젯](https://ko.wikipedia.org/wiki/터보젯 "wikilink") 엔진을 사용한 [MGM-1 마타도르](https://ko.wikipedia.org/wiki/MGM-1_마타도르 "wikilink") 아음속 지대지 핵 순항미사일 개발 계약을 체결했다.
 
 1947년 8월 [미국 해군은](../Page/미국_해군.md "wikilink") [MGM-1 마타도르](https://ko.wikipedia.org/wiki/MGM-1_마타도르 "wikilink") 순항미사일의 효용을 좋게 평가하여, [MGM-1 마타도르의](https://ko.wikipedia.org/wiki/MGM-1_마타도르 "wikilink") J33 터보젯 엔진을 사용하는, 구축함과 잠수함에서 발사할 수 있는 SSM-N-8 레굴루스 순항미사일 개발계획을 발표했다. 1.4톤의 핵탄두를 탑재하고, 사거리 500 해리(930 km), 속도 마하 0.85, [CEP](https://ko.wikipedia.org/wiki/CEP "wikilink")는 사거리의 0.5%라고 제원을 발표했다.
 

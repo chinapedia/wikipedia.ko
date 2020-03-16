@@ -23,6 +23,6 @@
 
 ## 특이사항
 
-  - 총판매량은 421,052장으로써 [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") 전체 여자솔로가수 음반판매량 1위를 기록
+  - 총판매량은 421,052장으로써 [2000년](../Page/2000년.md "wikilink") 전체 여자솔로가수 음반판매량 1위를 기록
 
 [분류:김현정의 음반](https://ko.wikipedia.org/wiki/분류:김현정의_음반 "wikilink") [분류:대한민국의 음반](https://ko.wikipedia.org/wiki/분류:대한민국의_음반 "wikilink") [분류:2000년 음반](https://ko.wikipedia.org/wiki/분류:2000년_음반 "wikilink") [분류:댄스 팝 음반](https://ko.wikipedia.org/wiki/분류:댄스_팝_음반 "wikilink")

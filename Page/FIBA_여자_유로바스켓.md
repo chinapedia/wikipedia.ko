@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FIBA  ](https://ko.wikipedia.org/wiki/FIBA__).
 
 
-**FIBA 여자 유로바스켓**(EuroBasket Women)은 [유럽](https://ko.wikipedia.org/wiki/유럽 "wikilink")의 [농구](https://ko.wikipedia.org/wiki/농구 "wikilink") 대회이다.
+**FIBA 여자 유로바스켓**(EuroBasket Women)은 [유럽](../Page/유럽.md "wikilink")의 [농구](../Page/농구.md "wikilink") 대회이다.
 
 ## 역대 대회
 

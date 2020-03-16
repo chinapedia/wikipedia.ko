@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FIBA ](https://ko.wikipedia.org/wiki/FIBA_).
 
 
-**유럽 농구 선수권 대회**(Eurobasket)은 [유럽](https://ko.wikipedia.org/wiki/유럽 "wikilink")의 국가대표 [농구](https://ko.wikipedia.org/wiki/농구 "wikilink") 대회이다.
+**유럽 농구 선수권 대회**(Eurobasket)은 [유럽](../Page/유럽.md "wikilink")의 국가대표 [농구](../Page/농구.md "wikilink") 대회이다.
 
 ## 역대 대회
 
@@ -48,7 +48,7 @@
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/1941년_유로바스켓" title="wikilink">1941</a></p></td>
 <td></td>
-<td><p><em><a href="https://ko.wikipedia.org/wiki/제2차_세계_대전" title="wikilink">제2차 세계 대전으로</a> 취소됨</em></p></td>
+<td><p><em><a href="../Page/제2차_세계_대전.md" title="wikilink">제2차 세계 대전으로</a> 취소됨</em></p></td>
 <td></td>
 </tr>
 <tr class="even">

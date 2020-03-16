@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KDE  ](https://ko.wikipedia.org/wiki/KDE__).
 
 
-[대체글=](https://ko.wikipedia.org/wiki/파일:KDE_Mascot_Konqi_by_Tyson_Tan.png "wikilink")\]\] **KDE**(**K** **D**esktop **E**nvironment , K 데스크톱 환경)는 [자유 소프트웨어](https://ko.wikipedia.org/wiki/자유_소프트웨어 "wikilink") 데스크톱 환경으로, [노키아](https://ko.wikipedia.org/wiki/노키아 "wikilink")의 [Qt 툴킷을](https://ko.wikipedia.org/wiki/Qt_\(프레임워크\) "wikilink") 기반으로 하였다. 대부분의 [유닉스 계열](../Page/유닉스_계열.md "wikilink"), [리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink"), BSD, AIX 등의 운영 체제에서 작동한다. [OS X의](https://ko.wikipedia.org/wiki/OS_X "wikilink") X11 레이어를 이용한 포팅과 [시그윈](../Page/시그윈.md "wikilink")과 네이티브에서 동작하는 [마이크로소프트 윈도에](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 대한 포팅도 진행 중으로, 현재 kdelibs의 많은 부분과 기타 다른 프로그램들이 [마이크로소프트 윈도에서](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 잘 작동한다.
+[대체글=](https://ko.wikipedia.org/wiki/파일:KDE_Mascot_Konqi_by_Tyson_Tan.png "wikilink")\]\] **KDE**(**K** **D**esktop **E**nvironment , K 데스크톱 환경)는 [자유 소프트웨어](../Page/자유_소프트웨어.md "wikilink") 데스크톱 환경으로, [노키아](../Page/노키아.md "wikilink")의 [Qt 툴킷을](../Page/Qt_\(프레임워크\).md "wikilink") 기반으로 하였다. 대부분의 [유닉스 계열](../Page/유닉스_계열.md "wikilink"), [리눅스](../Page/리눅스.md "wikilink"), BSD, AIX 등의 운영 체제에서 작동한다. [OS X의](https://ko.wikipedia.org/wiki/OS_X "wikilink") X11 레이어를 이용한 포팅과 [시그윈](../Page/시그윈.md "wikilink")과 네이티브에서 동작하는 [마이크로소프트 윈도에](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 대한 포팅도 진행 중으로, 현재 kdelibs의 많은 부분과 기타 다른 프로그램들이 [마이크로소프트 윈도에서](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 잘 작동한다.
 
 'K'는 원래 "Kool"의 앞글자에서 유래했지만, 나중에 알파벳 'L'(리눅스의 'L') 앞에 있는 'K'를 의미하는 것으로 바뀌었다.
 
@@ -9,11 +9,11 @@
 
 ## 역사
 
-KDE는 [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") 당시 [튀빙엔 대학교](https://ko.wikipedia.org/wiki/튀빙엔_대학교 "wikilink") 학생이었던 [마티아스 에트리히가](https://ko.wikipedia.org/wiki/마티아스_에트리히 "wikilink") 설립하였다. 그는 당시의 유닉스 데스크톱 환경에 불만이 많았다. 그의 지적대로 어떠한 프로그램들도 비슷하게 보이지도, 느껴지지도, 작동하지도 않았다. 또한 그의 불만 가운데 하나는 그 당시의 데스크톱 프로그램들은 그의 여자 친구가 사용할 수 없었다는 것이다. 그 글은 많은 인기를 끌었으며 KDE 프로젝트가 시작되었다.
+KDE는 [1996년](../Page/1996년.md "wikilink") 당시 [튀빙엔 대학교](https://ko.wikipedia.org/wiki/튀빙엔_대학교 "wikilink") 학생이었던 [마티아스 에트리히가](https://ko.wikipedia.org/wiki/마티아스_에트리히 "wikilink") 설립하였다. 그는 당시의 유닉스 데스크톱 환경에 불만이 많았다. 그의 지적대로 어떠한 프로그램들도 비슷하게 보이지도, 느껴지지도, 작동하지도 않았다. 또한 그의 불만 가운데 하나는 그 당시의 데스크톱 프로그램들은 그의 여자 친구가 사용할 수 없었다는 것이다. 그 글은 많은 인기를 끌었으며 KDE 프로젝트가 시작되었다.
 
-마티아스는 [Qt를](https://ko.wikipedia.org/wiki/Qt_\(프레임워크\) "wikilink") 사용하기로 했다. 많은 다른 프로그래머들이 KDE/Qt 프로그램을 짜기 시작했고 1997년 초에 많은 프로그램들이 나오기 시작했다. 그 당시에 [Qt는](https://ko.wikipedia.org/wiki/Qt_\(프레임워크\) "wikilink") 자유 소프트웨어 라이선스를 사용하지 않았기 때문에 GNU 프로젝트의 회원들이 걱정하기 시작했다. 그래서 "Harmony"라고 하는 Qt 라이브러리의 자유 소프트웨어 구현과 Qt를 사용하지 않는 데스크톱 환경인 [그놈](https://ko.wikipedia.org/wiki/그놈 "wikilink") 프로젝트가 시작되었다.
+마티아스는 [Qt를](../Page/Qt_\(프레임워크\).md "wikilink") 사용하기로 했다. 많은 다른 프로그래머들이 KDE/Qt 프로그램을 짜기 시작했고 1997년 초에 많은 프로그램들이 나오기 시작했다. 그 당시에 [Qt는](../Page/Qt_\(프레임워크\).md "wikilink") 자유 소프트웨어 라이선스를 사용하지 않았기 때문에 GNU 프로젝트의 회원들이 걱정하기 시작했다. 그래서 "Harmony"라고 하는 Qt 라이브러리의 자유 소프트웨어 구현과 Qt를 사용하지 않는 데스크톱 환경인 [그놈](../Page/그놈.md "wikilink") 프로젝트가 시작되었다.
 
-[1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") [11월](https://ko.wikipedia.org/wiki/11월 "wikilink"), Qt 툴킷은 QPL 라이선스로 오픈 소스로 공개되었지만, GPL과의 호환성이 계속 논의되었다. [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [9월](https://ko.wikipedia.org/wiki/9월 "wikilink"), Trolltech은 Qt 라이브러리의 유닉스용은 GPL로 공개하였다. 이것은 자유 소프트웨어 재단의 걱정을 줄여 줄 수 있었다. Qt 4.0부터 유닉스, 맥, 윈도 플랫폼에서도 많은 KDE 프로그램과 라이브러리가 이 플랫폼들로 포팅되고 있다.
+[1998년](../Page/1998년.md "wikilink") [11월](../Page/11월.md "wikilink"), Qt 툴킷은 QPL 라이선스로 오픈 소스로 공개되었지만, GPL과의 호환성이 계속 논의되었다. [2000년](../Page/2000년.md "wikilink") [9월](../Page/9월.md "wikilink"), Trolltech은 Qt 라이브러리의 유닉스용은 GPL로 공개하였다. 이것은 자유 소프트웨어 재단의 걱정을 줄여 줄 수 있었다. Qt 4.0부터 유닉스, 맥, 윈도 플랫폼에서도 많은 KDE 프로그램과 라이브러리가 이 플랫폼들로 포팅되고 있다.
 
 Trolltech이 사업 실패를 해서 코드가 사라지는 것을 막기 위해서 Trolltech 쪽에서 코드를 업데이트하지 않거나 망했을 때 코드들이 BSD 라이선스로 유지되도록 하였다. KDE와 그놈 둘 다 Freedesktop.org에 참여해서 상호 호환성을 유지하려고 노력하지만 아직도 많은 선의의 경쟁이 이뤄지고 있다.
 
@@ -53,14 +53,14 @@ KDE의 부가 버전은 세 가지의 버전 번호가 있다. (예: KDE 1.1.1) 
 
 ## KDE 4
 
-KDE 4는 현재 KDE의 주요 공개 버전으로, [Qt](https://ko.wikipedia.org/wiki/Qt_\(프레임워크\) "wikilink") 4 를 기반으로 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 1월 11일 발표되었으며\[1\] 다음의 추가 기능을 지원한다.
+KDE 4는 현재 KDE의 주요 공개 버전으로, [Qt](../Page/Qt_\(프레임워크\).md "wikilink") 4 를 기반으로 [2008년](../Page/2008년.md "wikilink") 1월 11일 발표되었으며\[1\] 다음의 추가 기능을 지원한다.
 
   - kdelibs API를 새로 썼고, 인터페이스 지침을 새로 작성.
   - [Oxygen Project에서](https://ko.wikipedia.org/wiki/Oxygen_Project "wikilink") 개발한 [SVG 포맷의](https://ko.wikipedia.org/wiki/SVG "wikilink") 새로운 데스크톱 아이콘과 테마.
   - kdebase중 workspace 패키지를 통한 [Plasma](https://web.archive.org/web/20090315040144/http://plasma.kde.org/)라고 불리는 새로운 데스크톱과 패널과 Kicker, [KDesktop](https://ko.wikipedia.org/wiki/KDesktop "wikilink"), 그리고 [SuperKaramba](https://ko.wikipedia.org/wiki/SuperKaramba "wikilink").
-  - [돌핀을](https://ko.wikipedia.org/wiki/돌핀_\(파일_관리자\) "wikilink") 통한 새로운 파일 관리 시스템.
+  - [돌핀을](../Page/돌핀_\(파일_관리자\).md "wikilink") 통한 새로운 파일 관리 시스템.
   - [캉커러](../Page/캉커러.md "wikilink")에서 잘 통합된 파일 관리 및 웹 브라우징.
-  - [ECMA스크립트](https://ko.wikipedia.org/wiki/ECMA스크립트 "wikilink")를 기반으로 한 새로운 스크립팅 시스템.
+  - [ECMA스크립트](../Page/ECMA스크립트.md "wikilink")를 기반으로 한 새로운 스크립팅 시스템.
   - [Phonon](https://www.webcitation.org/67lLj6qv4?url=http://phonon.kde.org/)이라고 하는 새로운 멀티미디어 인터페이스.
   - 네트워크 및 휴대용 장치를 다루는 [Solid](https://web.archive.org/web/20080525085511/http://solid.kde.org/) [API](../Page/API.md "wikilink").
   - Tenor라고 불리는 [메타데이터](../Page/메타데이터.md "wikilink") 및 검색 프레임워크.
@@ -71,23 +71,23 @@ KDE 4는 현재 KDE의 주요 공개 버전으로, [Qt](https://ko.wikipedia.org
 
 KDE 4.4는 다음 KDE의 주 버전 릴리즈이며 다음의 기능을 지원할 예정이다.
 
-  - KDE 4.4부터 [넷북](https://ko.wikipedia.org/wiki/넷북 "wikilink")을 위한 새로운 Plasma-netbook 지원.
-  - [ssh](https://ko.wikipedia.org/wiki/시큐어_셸 "wikilink") 등을 통한 [Plasma](https://web.archive.org/web/20090315040144/http://plasma.kde.org/) 위젯의 원격 사용 지원.
+  - KDE 4.4부터 [넷북](../Page/넷북.md "wikilink")을 위한 새로운 Plasma-netbook 지원.
+  - [ssh](../Page/시큐어_셸.md "wikilink") 등을 통한 [Plasma](https://web.archive.org/web/20090315040144/http://plasma.kde.org/) 위젯의 원격 사용 지원.
   - 더욱 화려하고 간결해진 새로운 위젯 추가 선택 창 지원.
 
 ## KDE를 사용하는 소프트웨어
 
   - [Amarok](https://ko.wikipedia.org/wiki/아마록 "wikilink") - 오디오 플레이어
-  - [Dolphin](https://ko.wikipedia.org/wiki/돌핀_\(파일_관리자\) "wikilink") - [파일 관리자](https://ko.wikipedia.org/wiki/파일_관리자 "wikilink")
-  - [K3b](https://ko.wikipedia.org/wiki/K3b "wikilink") - 디스크 굽기 및 편집 프로그램
+  - [Dolphin](../Page/돌핀_\(파일_관리자\).md "wikilink") - [파일 관리자](https://ko.wikipedia.org/wiki/파일_관리자 "wikilink")
+  - [K3b](../Page/K3b.md "wikilink") - 디스크 굽기 및 편집 프로그램
   - [Kate](https://ko.wikipedia.org/wiki/Kate "wikilink") - [텍스트 에디터](https://ko.wikipedia.org/wiki/텍스트_에디터 "wikilink")
-  - [Kdenlive](https://ko.wikipedia.org/wiki/Kdenlive "wikilink") - 비선형 비디오 편집 프로그램
+  - [Kdenlive](../Page/Kdenlive.md "wikilink") - 비선형 비디오 편집 프로그램
   - [KDevelop](../Page/KDevelop.md "wikilink") - 개발 환경
   - [Konsole](https://ko.wikipedia.org/wiki/Konsole "wikilink") - 터미널 구동기
   - [Kontact](https://ko.wikipedia.org/wiki/Kontact "wikilink") - 개인 일정 관리자 및 메일, 피드 리더.
   - [Kopete](https://ko.wikipedia.org/wiki/Kopete "wikilink") - 인스턴트 메신저
-  - [Konqueror](https://ko.wikipedia.org/wiki/Konqueror "wikilink") - [웹 브라우저](https://ko.wikipedia.org/wiki/웹_브라우저 "wikilink") 및 [파일 관리자](https://ko.wikipedia.org/wiki/파일_관리자 "wikilink")
-  - [KOffice](https://ko.wikipedia.org/wiki/KOffice "wikilink") - [오피스 제품군](https://ko.wikipedia.org/wiki/오피스_제품군 "wikilink")
+  - [Konqueror](https://ko.wikipedia.org/wiki/Konqueror "wikilink") - [웹 브라우저](../Page/웹_브라우저.md "wikilink") 및 [파일 관리자](https://ko.wikipedia.org/wiki/파일_관리자 "wikilink")
+  - [KOffice](../Page/KOffice.md "wikilink") - [오피스 제품군](https://ko.wikipedia.org/wiki/오피스_제품군 "wikilink")
   - [KTorrent](https://ko.wikipedia.org/wiki/KTorrent "wikilink") - BitTorrent 클라이언트
 
 ## KDE Plasma 5 의 스크린샷

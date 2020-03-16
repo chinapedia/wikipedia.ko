@@ -5,38 +5,38 @@
 
 ## 개요
 
-  - 전작 《[pacific](https://ko.wikipedia.org/wiki/Pacific_\(NEWS의_음반\) "wikilink")》 이후 약 1년 만의 음반.
-  - 〈[weeeek](https://ko.wikipedia.org/wiki/Weeeek "wikilink")〉부터 〈[Happy Birthday](https://ko.wikipedia.org/wiki/Happy_Birthday_\(NEWS의_노래\) "wikilink")〉까지 4곡의 싱글이 수록되었다.
+  - 전작 《[pacific](../Page/Pacific_\(NEWS의_음반\).md "wikilink")》 이후 약 1년 만의 음반.
+  - 〈[weeeek](../Page/Weeeek.md "wikilink")〉부터 〈[Happy Birthday](../Page/Happy_Birthday_\(NEWS의_노래\).md "wikilink")〉까지 4곡의 싱글이 수록되었다.
   - 초회 한정반과 통상반 앨범 커버가 다르며, 초회 한정반에는 32페이지의 소책자와 14곡이 수록되었으며, 통상반에는 16페이지의 소책자와 보너스 트랙 포함 15곡이 수록되어 있다.
   - 《pacific》에 이어 주간 오리콘 차트 1위를 획득하였다.
 
 ## 수록곡
 
-1.  **[weeeek](https://ko.wikipedia.org/wiki/Weeeek "wikilink")**
+1.  **[weeeek](../Page/Weeeek.md "wikilink")**
       -
-        작사·작곡: [GReeeeN](https://ko.wikipedia.org/wiki/GReeeeN "wikilink") / 편곡: 스즈키 마사야, JIN
+        작사·작곡: [GReeeeN](../Page/GReeeeN.md "wikilink") / 편곡: 스즈키 마사야, JIN
 2.  **STARDUST**
       -
         작사: nami, PA-NON / 작곡: 와타나베 타쿠야 / 편곡: 나카노 유타
-3.  **[SUMMER TIME](https://ko.wikipedia.org/wiki/SUMMER_TIME_\(NEWS의_노래\) "wikilink")**
+3.  **[SUMMER TIME](../Page/SUMMER_TIME_\(NEWS의_노래\).md "wikilink")**
       -
         작사: zopp / 작곡: Red-T / 편곡: NAOKI-T / 랩 작사: LOWARTH
 4.  **SNOW EXPRESS**
       -
-        작사: 다테 아유미 / 작곡: [야마시타 타츠로](https://ko.wikipedia.org/wiki/야마시타_타츠로 "wikilink") / 편곡: Stefan Engblom, Axel Bellinder / 랩 작사: [야마시타 토모히사](../Page/야마시타_토모히사.md "wikilink")
+        작사: 다테 아유미 / 작곡: [야마시타 타츠로](../Page/야마시타_타츠로.md "wikilink") / 편곡: Stefan Engblom, Axel Bellinder / 랩 작사: [야마시타 토모히사](../Page/야마시타_토모히사.md "wikilink")
 5.  **Forever**
       -
         작사: 키즈키 미히로 / 작곡: 노이 요지 / 편곡: 나카니시 료스케 / 랩 작사: 히로이즘 / 코러스: 카와무라 유미
 6.  **MOLA** - 야마시타 토모히사
       -
         작사·작곡·편곡: Daisuke "D.I" Imai / string arrangement: 클래셔 키무라
-7.  **** / **<small>지우지 못한</small>** - [테고시 유야](../Page/테고시_유야.md "wikilink"), [니시키도 료](https://ko.wikipedia.org/wiki/니시키도_료 "wikilink"), [카토 시게아키](https://ko.wikipedia.org/wiki/카토_시게아키 "wikilink")
+7.  **** / **<small>지우지 못한</small>** - [테고시 유야](../Page/테고시_유야.md "wikilink"), [니시키도 료](../Page/니시키도_료.md "wikilink"), [카토 시게아키](../Page/카토_시게아키.md "wikilink")
       -
         작사: Azuki / 작곡·편곡: 후쿠시 겐타로 / string arrangement: 클래셔 키무라
 8.  **ordinary** - 니시키도 료
       -
         작사·작곡: 니시키도 료 / 편곡: 니시키도 료, 하야시베 나오키
-9.  **** / **<small>모두가 있는 세상을 하나로 사랑을 좀 더 Give & Take합시다</small>** - [마스다 타카히사](../Page/마스다_타카히사.md "wikilink"), 야마시타 토모히사, [코야마 케이치로](https://ko.wikipedia.org/wiki/코야마_케이치로 "wikilink")
+9.  **** / **<small>모두가 있는 세상을 하나로 사랑을 좀 더 Give & Take합시다</small>** - [마스다 타카히사](../Page/마스다_타카히사.md "wikilink"), 야마시타 토모히사, [코야마 케이치로](../Page/코야마_케이치로.md "wikilink")
       -
         작사: zopp / 작곡: 히로이즘 / 편곡: 스즈키 마사야
 10. **** / **<small>무라리스토</small>** - 코야마 케이치로, 카토 시게아키
@@ -48,7 +48,7 @@
 12. **Smile Maker**
       -
         작사·작곡: 0 SOUL 7 / 편곡: 스즈키 마사야 / 코러스: Ko-saku
-13. **[Happy Birthday](https://ko.wikipedia.org/wiki/Happy_Birthday_\(NEWS의_노래\) "wikilink")**
+13. **[Happy Birthday](../Page/Happy_Birthday_\(NEWS의_노래\).md "wikilink")**
       -
         작사: SEAMO / 작곡: SEAMO, Shintaro"Growth"Izutsu / 편곡: Shintaro"Growth"Izutsu / 플러스 & string arrangement: 오츠보 나오키
 14. **FLY AGAIN**

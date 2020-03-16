@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Bbb ](https://ko.wikipedia.org/wiki/Bbb_).
 
 
-**bbb 코리아**는 언어 통역 [자원봉사자](https://ko.wikipedia.org/wiki/자원봉사자 "wikilink")들이 [휴대폰](https://ko.wikipedia.org/wiki/휴대폰 "wikilink")을 이용, 방한 외래객에게 언어, 문화 서비스를 제공함으로써\[1\] 국가간 언어 장벽 해소 및 국제 교류와 국가 위상 제고에 기여를 목적으로 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [5월 6일](https://ko.wikipedia.org/wiki/5월_6일 "wikilink") 설립된 [대한민국 문화체육관광부](https://ko.wikipedia.org/wiki/대한민국_문화체육관광부 "wikilink") 소관의 [사단법인](../Page/사단법인.md "wikilink")이다.\[2\] 사무실은 [서울특별시](https://ko.wikipedia.org/wiki/서울특별시 "wikilink") [용산구](https://ko.wikipedia.org/wiki/용산구 "wikilink") 한남대로 150 신동빌딩 3층에 있다.
+**bbb 코리아**는 언어 통역 [자원봉사자](https://ko.wikipedia.org/wiki/자원봉사자 "wikilink")들이 [휴대폰](https://ko.wikipedia.org/wiki/휴대폰 "wikilink")을 이용, 방한 외래객에게 언어, 문화 서비스를 제공함으로써\[1\] 국가간 언어 장벽 해소 및 국제 교류와 국가 위상 제고에 기여를 목적으로 [2003년](../Page/2003년.md "wikilink") [5월 6일](../Page/5월_6일.md "wikilink") 설립된 [대한민국 문화체육관광부](../Page/대한민국_문화체육관광부.md "wikilink") 소관의 [사단법인](../Page/사단법인.md "wikilink")이다.\[2\] 사무실은 [서울특별시](../Page/서울특별시.md "wikilink") [용산구](https://ko.wikipedia.org/wiki/용산구 "wikilink") 한남대로 150 신동빌딩 3층에 있다.
 
-BBB는 'Before Babel Brigade'의 약자로서 "[바벨탑](https://ko.wikipedia.org/wiki/바벨탑 "wikilink") 이전의 시대로 돌아가는 군단"이라는 뜻을 담고 있다. [2002년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink"), [2002년 아시안 게임을](../Page/2002년_아시안_게임.md "wikilink") 계기로 대한민국을 방문한 외국인들의 언어 불편을 해소하기 위한 통역 자원 봉사자를 모집하면서 출범했다. 2003년 5월 문화관광부 등록 비영리 사단법인 한국BBB운동으로 출범하게 되었고, 2011년 6월 **BBB 코리아**(BBB Korea)로 기관명을 변경하여 활동을 이어오고 있다.
+BBB는 'Before Babel Brigade'의 약자로서 "[바벨탑](../Page/바벨탑.md "wikilink") 이전의 시대로 돌아가는 군단"이라는 뜻을 담고 있다. [2002년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink"), [2002년 아시안 게임을](../Page/2002년_아시안_게임.md "wikilink") 계기로 대한민국을 방문한 외국인들의 언어 불편을 해소하기 위한 통역 자원 봉사자를 모집하면서 출범했다. 2003년 5월 문화관광부 등록 비영리 사단법인 한국BBB운동으로 출범하게 되었고, 2011년 6월 **BBB 코리아**(BBB Korea)로 기관명을 변경하여 활동을 이어오고 있다.
 
 ## 주요 사업
 
@@ -16,26 +16,26 @@ BBB는 'Before Babel Brigade'의 약자로서 "[바벨탑](https://ko.wikipedia.
 
 총 20개 언어를 통역하는 4,500여명의 자원 봉사자가 참여하고 있다.
 
-  - [영어](https://ko.wikipedia.org/wiki/영어 "wikilink") (1번)
-  - [일본어](https://ko.wikipedia.org/wiki/일본어 "wikilink") (2번)
-  - [중국어](https://ko.wikipedia.org/wiki/중국어 "wikilink") (3번)
-  - [프랑스어](https://ko.wikipedia.org/wiki/프랑스어 "wikilink") (4번)
-  - [스페인어](https://ko.wikipedia.org/wiki/스페인어 "wikilink") (5번)
-  - [이탈리아어](https://ko.wikipedia.org/wiki/이탈리아어 "wikilink") (6번)
-  - [러시아어](https://ko.wikipedia.org/wiki/러시아어 "wikilink") (7번)
-  - [독일어](https://ko.wikipedia.org/wiki/독일어 "wikilink") (8번)
-  - [포르투갈어](https://ko.wikipedia.org/wiki/포르투갈어 "wikilink") (9번)
-  - [아랍어](https://ko.wikipedia.org/wiki/아랍어 "wikilink") (10번)
-  - [폴란드어](https://ko.wikipedia.org/wiki/폴란드어 "wikilink") (11번)
-  - [터키어](https://ko.wikipedia.org/wiki/터키어 "wikilink") (12번)
-  - [스웨덴어](https://ko.wikipedia.org/wiki/스웨덴어 "wikilink") (13번)
-  - [태국어](https://ko.wikipedia.org/wiki/태국어 "wikilink") (14번)
-  - [베트남어](https://ko.wikipedia.org/wiki/베트남어 "wikilink") (15번)
-  - [인도네시아어](https://ko.wikipedia.org/wiki/인도네시아어 "wikilink") (16번)
+  - [영어](../Page/영어.md "wikilink") (1번)
+  - [일본어](../Page/일본어.md "wikilink") (2번)
+  - [중국어](../Page/중국어.md "wikilink") (3번)
+  - [프랑스어](../Page/프랑스어.md "wikilink") (4번)
+  - [스페인어](../Page/스페인어.md "wikilink") (5번)
+  - [이탈리아어](../Page/이탈리아어.md "wikilink") (6번)
+  - [러시아어](../Page/러시아어.md "wikilink") (7번)
+  - [독일어](../Page/독일어.md "wikilink") (8번)
+  - [포르투갈어](../Page/포르투갈어.md "wikilink") (9번)
+  - [아랍어](../Page/아랍어.md "wikilink") (10번)
+  - [폴란드어](../Page/폴란드어.md "wikilink") (11번)
+  - [터키어](../Page/터키어.md "wikilink") (12번)
+  - [스웨덴어](../Page/스웨덴어.md "wikilink") (13번)
+  - [태국어](../Page/태국어.md "wikilink") (14번)
+  - [베트남어](../Page/베트남어.md "wikilink") (15번)
+  - [인도네시아어](../Page/인도네시아어.md "wikilink") (16번)
   - [몽골어](https://ko.wikipedia.org/wiki/몽골어 "wikilink") (17번)
-  - [힌디어](https://ko.wikipedia.org/wiki/힌디어 "wikilink") (18번)
-  - [말레이어](https://ko.wikipedia.org/wiki/말레이어 "wikilink") (19번)
-  - [스와힐리어](https://ko.wikipedia.org/wiki/스와힐리어 "wikilink") (20번)
+  - [힌디어](../Page/힌디어.md "wikilink") (18번)
+  - [말레이어](../Page/말레이어.md "wikilink") (19번)
+  - [스와힐리어](../Page/스와힐리어.md "wikilink") (20번)
 
 ## 주요 사업
 

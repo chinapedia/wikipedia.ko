@@ -1,54 +1,54 @@
 > This article is converted from Wikipedia: [TV](https://ko.wikipedia.org/wiki/TV).
 
 
-**주식회사 KCTV제주방송**(<small>약칭</small> KCTV)은 [제주특별자치도](https://ko.wikipedia.org/wiki/제주특별자치도 "wikilink") 일원을 방송 구역으로 하는 [종합 유선방송](../Page/대한민국의_케이블TV_방송.md "wikilink") [사업자](https://ko.wikipedia.org/wiki/기업 "wikilink")(SO)이다. [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") [2월 23일에](https://ko.wikipedia.org/wiki/2월_23일 "wikilink") 제주종합유선방송 주식회사로 설립되어, [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") 사명을 현재의 명칭으로 변경한 뒤 오늘날까지 이르고 있다. [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [7월](https://ko.wikipedia.org/wiki/7월 "wikilink")에는 제주지역 지상파아날로그TV방송 종료와 더불어 한국케이블TV제주방송에서는 지역채널 HD방송을 시작하였다.
+**주식회사 KCTV제주방송**(<small>약칭</small> KCTV)은 [제주특별자치도](https://ko.wikipedia.org/wiki/제주특별자치도 "wikilink") 일원을 방송 구역으로 하는 [종합 유선방송](../Page/대한민국의_케이블TV_방송.md "wikilink") [사업자](https://ko.wikipedia.org/wiki/기업 "wikilink")(SO)이다. [1994년](../Page/1994년.md "wikilink") [2월 23일에](../Page/2월_23일.md "wikilink") 제주종합유선방송 주식회사로 설립되어, [1997년](../Page/1997년.md "wikilink") 사명을 현재의 명칭으로 변경한 뒤 오늘날까지 이르고 있다. [2011년](../Page/2011년.md "wikilink") [7월](../Page/7월.md "wikilink")에는 제주지역 지상파아날로그TV방송 종료와 더불어 한국케이블TV제주방송에서는 지역채널 HD방송을 시작하였다.
 
 ## 연혁
 
 ### 개국 초기
 
-  - [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") [2월 14일](https://ko.wikipedia.org/wiki/2월_14일 "wikilink") 제주종합유선방송국(주) 창립 총회
-  - [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") [2월 23일](https://ko.wikipedia.org/wiki/2월_23일 "wikilink") 제주종합유선방송국(주) 설립등기
-  - [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") [3월 11일](https://ko.wikipedia.org/wiki/3월_11일 "wikilink") 종합유선방송국 허가(공보처)
-  - [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [1월 5일](https://ko.wikipedia.org/wiki/1월_5일 "wikilink") 시험방송 송출
-  - [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [5월 1일](https://ko.wikipedia.org/wiki/5월_1일 "wikilink") CH5 본방송 개시
+  - [1994년](../Page/1994년.md "wikilink") [2월 14일](../Page/2월_14일.md "wikilink") 제주종합유선방송국(주) 창립 총회
+  - [1994년](../Page/1994년.md "wikilink") [2월 23일](../Page/2월_23일.md "wikilink") 제주종합유선방송국(주) 설립등기
+  - [1994년](../Page/1994년.md "wikilink") [3월 11일](../Page/3월_11일.md "wikilink") 종합유선방송국 허가(공보처)
+  - [1995년](../Page/1995년.md "wikilink") [1월 5일](../Page/1월_5일.md "wikilink") 시험방송 송출
+  - [1995년](../Page/1995년.md "wikilink") [5월 1일](../Page/5월_1일.md "wikilink") CH5 본방송 개시
 
 ### 기반구축기
 
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink") (주)한국케이블TV제주방송으로 사명 변경
-  - [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [8월 31일](https://ko.wikipedia.org/wiki/8월_31일 "wikilink") 서귀포지국 개국([서귀포시](https://ko.wikipedia.org/wiki/서귀포시 "wikilink") 서귀동 1460)
-  - [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [11월](https://ko.wikipedia.org/wiki/11월 "wikilink") 서귀포 초고속 인터넷 개통
-  - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink") 제주시 초고속 인터넷 서비스 실시
+  - [1997년](../Page/1997년.md "wikilink") [3월](../Page/3월.md "wikilink") (주)한국케이블TV제주방송으로 사명 변경
+  - [1999년](../Page/1999년.md "wikilink") [8월 31일](../Page/8월_31일.md "wikilink") 서귀포지국 개국([서귀포시](https://ko.wikipedia.org/wiki/서귀포시 "wikilink") 서귀동 1460)
+  - [1999년](../Page/1999년.md "wikilink") [11월](../Page/11월.md "wikilink") 서귀포 초고속 인터넷 개통
+  - [2000년](../Page/2000년.md "wikilink") [3월](../Page/3월.md "wikilink") 제주시 초고속 인터넷 서비스 실시
 
 ### 발전기반기
 
-  - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [7월](https://ko.wikipedia.org/wiki/7월 "wikilink") 채널 증설(67개)
-  - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [11월](https://ko.wikipedia.org/wiki/11월 "wikilink") [남제주군](https://ko.wikipedia.org/wiki/남제주군 "wikilink") 케이블TV 개통
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink") 한국통신 전송망 인수
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [5월](https://ko.wikipedia.org/wiki/5월 "wikilink") 인터넷방송 KCTVJEJU.COM 개국
+  - [2000년](../Page/2000년.md "wikilink") [7월](../Page/7월.md "wikilink") 채널 증설(67개)
+  - [2000년](../Page/2000년.md "wikilink") [11월](../Page/11월.md "wikilink") [남제주군](../Page/남제주군.md "wikilink") 케이블TV 개통
+  - [2001년](../Page/2001년.md "wikilink") [3월](../Page/3월.md "wikilink") 한국통신 전송망 인수
+  - [2001년](../Page/2001년.md "wikilink") [5월](../Page/5월.md "wikilink") 인터넷방송 KCTVJEJU.COM 개국
 
 ### 성장발전기
 
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [3월 15일](https://ko.wikipedia.org/wiki/3월_15일 "wikilink") 사옥이전
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [4월 6일](https://ko.wikipedia.org/wiki/4월_6일 "wikilink") 신사옥 준공식
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [7월](https://ko.wikipedia.org/wiki/7월 "wikilink") 디지털 방송 서비스 실시
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [8월](https://ko.wikipedia.org/wiki/8월 "wikilink") 자가 인터넷(케이블넷)서비스 실시
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [6월](https://ko.wikipedia.org/wiki/6월 "wikilink") HD디지털TV 방송 서비스 실시
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [8월](https://ko.wikipedia.org/wiki/8월 "wikilink") 100M급 인터넷(DOXXIS)서비스 실시
+  - [2005년](../Page/2005년.md "wikilink") [3월 15일](../Page/3월_15일.md "wikilink") 사옥이전
+  - [2005년](../Page/2005년.md "wikilink") [4월 6일](../Page/4월_6일.md "wikilink") 신사옥 준공식
+  - [2005년](../Page/2005년.md "wikilink") [7월](../Page/7월.md "wikilink") 디지털 방송 서비스 실시
+  - [2005년](../Page/2005년.md "wikilink") [8월](../Page/8월.md "wikilink") 자가 인터넷(케이블넷)서비스 실시
+  - [2006년](../Page/2006년.md "wikilink") [6월](../Page/6월.md "wikilink") HD디지털TV 방송 서비스 실시
+  - [2007년](../Page/2007년.md "wikilink") [8월](../Page/8월.md "wikilink") 100M급 인터넷(DOXXIS)서비스 실시
 
 ### 지속성장기
 
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink") 광랜 인터넷 서비스 실시
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink") DV아이(영상보안) 서비스 실시
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [3월 15일](https://ko.wikipedia.org/wiki/3월_15일 "wikilink") KCTV N(KCTV 제주방송 지역정보채널 CH20) 본방송 개시
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [7월 7일](https://ko.wikipedia.org/wiki/7월_7일 "wikilink") KCTV 제주방송 지역채널 CH5 → CH7 변경
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [7월 7일](https://ko.wikipedia.org/wiki/7월_7일 "wikilink") CH7(KCTV 제주방송 지역종합채널) HD방송 개시
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [1월 15일](https://ko.wikipedia.org/wiki/1월_15일 "wikilink") 알뜰폰 개통
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [6월 18일](https://ko.wikipedia.org/wiki/6월_18일 "wikilink") KCTV 스마트 UX UI변경
+  - [2009년](../Page/2009년.md "wikilink") [2월](../Page/2월.md "wikilink") 광랜 인터넷 서비스 실시
+  - [2009년](../Page/2009년.md "wikilink") [3월](../Page/3월.md "wikilink") DV아이(영상보안) 서비스 실시
+  - [2010년](../Page/2010년.md "wikilink") [3월 15일](../Page/3월_15일.md "wikilink") KCTV N(KCTV 제주방송 지역정보채널 CH20) 본방송 개시
+  - [2011년](../Page/2011년.md "wikilink") [7월 7일](../Page/7월_7일.md "wikilink") KCTV 제주방송 지역채널 CH5 → CH7 변경
+  - [2011년](../Page/2011년.md "wikilink") [7월 7일](../Page/7월_7일.md "wikilink") CH7(KCTV 제주방송 지역종합채널) HD방송 개시
+  - [2014년](../Page/2014년.md "wikilink") [1월 15일](../Page/1월_15일.md "wikilink") 알뜰폰 개통
+  - [2015년](../Page/2015년.md "wikilink") [6월 18일](../Page/6월_18일.md "wikilink") KCTV 스마트 UX UI변경
 
 ### 로고송
 
-  - 제주의 꿈 함께 만들어 가요\~ KCTV 제주방송\~ [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") \~
+  - 제주의 꿈 함께 만들어 가요\~ KCTV 제주방송\~ [2006년](../Page/2006년.md "wikilink") \~
 
 ## 주요 프로그램
 
@@ -76,7 +76,7 @@
   - [국제자유도시 생활일본어 "곤니찌와 제주"](https://web.archive.org/web/20160304194143/http://kctvjeju.com/contents/program.htm?guid=110&muid=111)
   - [국제자유도시 생활중국어 "니하오 제주"](https://web.archive.org/web/20160417080219/http://kctvjeju.com/contents/program.htm?muid=107&guid=106)
   - [KCTV특집방송](https://web.archive.org/web/20130919010945/http://kctvjeju.com/news/vod.htm?guid=19)
-  - 그 밖에도 해마다 [다큐멘터리와](https://ko.wikipedia.org/wiki/다큐멘터리_텔레비전_프로그램 "wikilink") 지역축제 등 다양한 [프로그램을](https://ko.wikipedia.org/wiki/텔레비전_프로그램 "wikilink") 자체 제작 · 방송하고 있다.
+  - 그 밖에도 해마다 [다큐멘터리와](../Page/다큐멘터리_텔레비전_프로그램.md "wikilink") 지역축제 등 다양한 [프로그램을](../Page/텔레비전_프로그램.md "wikilink") 자체 제작 · 방송하고 있다.
 
 ## 방송 채널
 
@@ -999,4 +999,4 @@
   -
   - [CH7편성표](https://web.archive.org/web/20130918070741/http://kctvjeju.com/contents/program.htm?muid=235)
 
-[분류:1994년 설립](https://ko.wikipedia.org/wiki/분류:1994년_설립 "wikilink") [분류:1995년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:1995년_설립된_텔레비전_방송국과_채널 "wikilink") [분류:대한민국의 종합유선방송사업자](https://ko.wikipedia.org/wiki/분류:대한민국의_종합유선방송사업자 "wikilink") [분류:제주특별자치도의 대중 매체](https://ko.wikipedia.org/wiki/분류:제주특별자치도의_대중_매체 "wikilink")
+[분류:1994년 설립](https://ko.wikipedia.org/wiki/분류:1994년_설립 "wikilink") [분류:1995년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:1995년_설립된_텔레비전_방송국과_채널 "wikilink") [분류:대한민국의 종합유선방송사업자](https://ko.wikipedia.org/wiki/분류:대한민국의_종합유선방송사업자 "wikilink") [분류:제주특별자치도의 대중 매체](../Page/분류:제주특별자치도의_대중_매체.md "wikilink")

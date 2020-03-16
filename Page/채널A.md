@@ -1,25 +1,25 @@
 > This article is converted from Wikipedia: [A](https://ko.wikipedia.org/wiki/A).
 
 
-**채널A** (Channel A)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 유료 플랫폼으로 방송하는 대한민국의 [종합편성채널](https://ko.wikipedia.org/wiki/종합편성채널 "wikilink")이다. [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [12월 31일](https://ko.wikipedia.org/wiki/12월_31일 "wikilink") [방송통신위원회](https://ko.wikipedia.org/wiki/방송통신위원회 "wikilink")로부터 종합편성채널사업자로 선정되었으며, [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [12월 1일](https://ko.wikipedia.org/wiki/12월_1일 "wikilink") 개국하였다. 채널A의 제작 및 경영철학은 '개방성과 창의성 (Open & Creative)'이고 슬로건은 '꿈을 담는 캔버스, 채널A'이다. [동아일보](../Page/동아일보.md "wikilink")가 출자하여 만든 방송사로 동아일보가 대주주이며, 과거 [언론 통폐합 정책으로](https://ko.wikipedia.org/wiki/1980년_언론_통폐합 "wikilink") [한국방송공사](../Page/한국방송공사.md "wikilink")에 몰수되었던 [DBS](../Page/동아방송.md "wikilink") 이후 방송에 다시 진출한 채널이다. 대표이사 사장은 김재호이다.
+**채널A** (Channel A)는 [대한민국](../Page/대한민국.md "wikilink")의 유료 플랫폼으로 방송하는 대한민국의 [종합편성채널](https://ko.wikipedia.org/wiki/종합편성채널 "wikilink")이다. [2010년](../Page/2010년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink") [방송통신위원회](https://ko.wikipedia.org/wiki/방송통신위원회 "wikilink")로부터 종합편성채널사업자로 선정되었으며, [2011년](../Page/2011년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") 개국하였다. 채널A의 제작 및 경영철학은 '개방성과 창의성 (Open & Creative)'이고 슬로건은 '꿈을 담는 캔버스, 채널A'이다. [동아일보](../Page/동아일보.md "wikilink")가 출자하여 만든 방송사로 동아일보가 대주주이며, 과거 [언론 통폐합 정책으로](https://ko.wikipedia.org/wiki/1980년_언론_통폐합 "wikilink") [한국방송공사](../Page/한국방송공사.md "wikilink")에 몰수되었던 [DBS](../Page/동아방송.md "wikilink") 이후 방송에 다시 진출한 채널이다. 대표이사 사장은 김재호이다.
 
 ## 역사
 
-  - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [1월 1일](https://ko.wikipedia.org/wiki/1월_1일 "wikilink") : 광화문 동아미디어센터 준공
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [12월 1일](https://ko.wikipedia.org/wiki/12월_1일 "wikilink") : 채널A 개국
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") : 동아디지털미디어센터(DDMC) 착공
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [3월 2일](https://ko.wikipedia.org/wiki/3월_2일 "wikilink") : 채널A 출자 스토리네트웍스 출범
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") : [동아일보](../Page/동아일보.md "wikilink") 주최로 고교야구 황금사자기 야구 중계
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [4월 1일](https://ko.wikipedia.org/wiki/4월_1일 "wikilink") : 채널A 출자 미디어텍 출범
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [4월 22일](https://ko.wikipedia.org/wiki/4월_22일 "wikilink") : 채널A 출자 미디어렙A 출범
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [12월 17일](https://ko.wikipedia.org/wiki/12월_17일 "wikilink") : 동아디지털미디어센터(DDMC) 준공
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [7월 1일](https://ko.wikipedia.org/wiki/7월_1일 "wikilink") : 채널A 플러스 개국
-  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") : [동아일보](../Page/동아일보.md "wikilink") 주최로 서울국제마라톤대회 마라톤 중계
-  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [12월 29일](https://ko.wikipedia.org/wiki/12월_29일 "wikilink") : 채널A 출자 채널A 비앤씨, 채널A 뉴스비전 출범
+  - [2000년](../Page/2000년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") : 광화문 동아미디어센터 준공
+  - [2011년](../Page/2011년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") : 채널A 개국
+  - [2011년](../Page/2011년.md "wikilink") : 동아디지털미디어센터(DDMC) 착공
+  - [2012년](../Page/2012년.md "wikilink") [3월 2일](../Page/3월_2일.md "wikilink") : 채널A 출자 스토리네트웍스 출범
+  - [2012년](../Page/2012년.md "wikilink") : [동아일보](../Page/동아일보.md "wikilink") 주최로 고교야구 황금사자기 야구 중계
+  - [2014년](../Page/2014년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") : 채널A 출자 미디어텍 출범
+  - [2014년](../Page/2014년.md "wikilink") [4월 22일](../Page/4월_22일.md "wikilink") : 채널A 출자 미디어렙A 출범
+  - [2014년](../Page/2014년.md "wikilink") [12월 17일](../Page/12월_17일.md "wikilink") : 동아디지털미디어센터(DDMC) 준공
+  - [2015년](../Page/2015년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") : 채널A 플러스 개국
+  - [2016년](../Page/2016년.md "wikilink") : [동아일보](../Page/동아일보.md "wikilink") 주최로 서울국제마라톤대회 마라톤 중계
+  - [2016년](../Page/2016년.md "wikilink") [12월 29일](../Page/12월_29일.md "wikilink") : 채널A 출자 채널A 비앤씨, 채널A 뉴스비전 출범
 
 ## 대한민국 내 제휴 신문사
 
-[경인일보](https://ko.wikipedia.org/wiki/경인일보 "wikilink"), [강원일보](https://ko.wikipedia.org/wiki/강원일보 "wikilink"), [대전일보](https://ko.wikipedia.org/wiki/대전일보 "wikilink"), [광주일보](https://ko.wikipedia.org/wiki/광주일보 "wikilink"), [전북일보](https://ko.wikipedia.org/wiki/전북일보 "wikilink"), [매일신문](https://ko.wikipedia.org/wiki/매일신문 "wikilink"), [부산일보](https://ko.wikipedia.org/wiki/부산일보 "wikilink"), [경남신문](https://ko.wikipedia.org/wiki/경남신문 "wikilink"), [제주일보](https://ko.wikipedia.org/wiki/제주일보 "wikilink")
+[경인일보](../Page/경인일보.md "wikilink"), [강원일보](https://ko.wikipedia.org/wiki/강원일보 "wikilink"), [대전일보](https://ko.wikipedia.org/wiki/대전일보 "wikilink"), [광주일보](https://ko.wikipedia.org/wiki/광주일보 "wikilink"), [전북일보](https://ko.wikipedia.org/wiki/전북일보 "wikilink"), [매일신문](https://ko.wikipedia.org/wiki/매일신문 "wikilink"), [부산일보](https://ko.wikipedia.org/wiki/부산일보 "wikilink"), [경남신문](https://ko.wikipedia.org/wiki/경남신문 "wikilink"), [제주일보](https://ko.wikipedia.org/wiki/제주일보 "wikilink")
 
 ## 수상 내용
 
@@ -111,7 +111,7 @@
 <td><div style="text-align: center;">
 <p>금요일</p>
 </div></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/관찰카메라_24시간" title="wikilink">관찰카메라 24시간</a> 시즌2</p></td>
+<td><p><a href="../Page/관찰카메라_24시간.md" title="wikilink">관찰카메라 24시간</a> 시즌2</p></td>
 <td><p>오후8:20 ~</p></td>
 </tr>
 <tr class="odd">
@@ -193,14 +193,14 @@
 <td><div style="text-align: center;">
 <p>토요일</p>
 </div></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/비행기_타고_가요" title="wikilink">비행기 타고 가요</a></p></td>
+<td><p><a href="../Page/비행기_타고_가요.md" title="wikilink">비행기 타고 가요</a></p></td>
 <td><p>오후5:50 ~</p></td>
 </tr>
 <tr class="odd">
 <td><div style="text-align: center;">
 <p>토요일</p>
 </div></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/신입사원_탄생기_굿피플" title="wikilink">신입사원 탄생기 굿피플</a></p></td>
+<td><p><a href="../Page/신입사원_탄생기_굿피플.md" title="wikilink">신입사원 탄생기 굿피플</a></p></td>
 <td><p>오후11:00 ~</p></td>
 </tr>
 <tr class="even">
@@ -214,7 +214,7 @@
 <td><div style="text-align: center;">
 <p>일요일</p>
 </div></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이제_만나러_갑니다" title="wikilink">이제 만나러 갑니다</a></p></td>
+<td><p><a href="../Page/이제_만나러_갑니다.md" title="wikilink">이제 만나러 갑니다</a></p></td>
 <td><p>오후11:00 ~</p></td>
 </tr>
 <tr class="even">
@@ -234,14 +234,14 @@
   - 방송 여는 시작에 제공자막 표시는 [광고](https://ko.wikipedia.org/wiki/광고 "wikilink")주만 나열하는 것이다.\[1\]
   - 교양 · 예능 · 드라마 프로그램은 상단 오른쪽에 채널A 로고 **본방송**를 표시한다.\[2\]
   - 뉴스 · 시사 프로그램과 스포츠는 상단 오른쪽에 채널A 로고 **LIVE**를 표시한다.
-  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink")부터 **ENDING**이 추가 도입되었다. (흰 바탕 가운데 로고)
-  - [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [9월 23일](https://ko.wikipedia.org/wiki/9월_23일 "wikilink") 자로 적용된 [브랜드](../Page/브랜드.md "wikilink")를 도입하였다.
+  - [2016년](../Page/2016년.md "wikilink")부터 **ENDING**이 추가 도입되었다. (흰 바탕 가운데 로고)
+  - [2019년](../Page/2019년.md "wikilink") [9월 23일](../Page/9월_23일.md "wikilink") 자로 적용된 [브랜드](../Page/브랜드.md "wikilink")를 도입하였다.
   - 매년 [신년전야](../Page/신년전야.md "wikilink") 타종 행사를 방송하지 않는다.
   - 스페셜 [다큐멘터리](https://ko.wikipedia.org/wiki/다큐멘터리 "wikilink")를 제작된 프로그램에 대한 영상이 자주 방송되고 있으나, 과거의 인기 프로그램이 많음과 동시에 저작권의 문제로 인해 방송이 불가능한 경우도 많이 있는 것으로 추정한다.
 
 ## 채널A 플러스
 
-채널A 계열의 두 번째 채널이다. [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [7월 1일에](https://ko.wikipedia.org/wiki/7월_1일 "wikilink") 개국하였다. 현재 방송되는 교양 · 예능 프로그램은 재방송하고 있으며, 일부 자체 프로그램도 방영하고 있다.
+채널A 계열의 두 번째 채널이다. [2015년](../Page/2015년.md "wikilink") [7월 1일에](../Page/7월_1일.md "wikilink") 개국하였다. 현재 방송되는 교양 · 예능 프로그램은 재방송하고 있으며, 일부 자체 프로그램도 방영하고 있다.
 
 ## 각주
 
@@ -249,8 +249,8 @@
 
   - [MBC 표준FM](../Page/MBC_표준FM.md "wikilink")
   - [TBS eFM](../Page/TBS_eFM.md "wikilink")
-  - [MBC TV](https://ko.wikipedia.org/wiki/MBC_TV "wikilink")
-  - [SBS TV](https://ko.wikipedia.org/wiki/SBS_TV "wikilink")
+  - [MBC TV](../Page/MBC_TV.md "wikilink")
+  - [SBS TV](../Page/SBS_TV.md "wikilink")
 
 ## 외부 링크
 

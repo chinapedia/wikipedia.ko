@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JPM](https://ko.wikipedia.org/wiki/JPM).
 
 
-**JPM**(제이피엠)은 [전기성 엔터테인먼트](https://ko.wikipedia.org/wiki/전기성_엔터테인먼트 "wikilink") 소속의 [중화민국](https://ko.wikipedia.org/wiki/중화민국 "wikilink") 3인조 남성 음악 그룹이다.
+**JPM**(제이피엠)은 [전기성 엔터테인먼트](https://ko.wikipedia.org/wiki/전기성_엔터테인먼트 "wikilink") 소속의 [중화민국](../Page/중화민국.md "wikilink") 3인조 남성 음악 그룹이다.
 
 ## 구성원
 
@@ -19,7 +19,7 @@
 
 <!-- end list -->
 
-  - 2011: *[월구만보](https://ko.wikipedia.org/wiki/월구만보 "wikilink")*
+  - 2011: *[월구만보](../Page/월구만보.md "wikilink")*
   - 2012: *[365](../Page/365_\(음반\).md "wikilink")*
 
 ## 각주

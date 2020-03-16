@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Kis-My-Ft2](https://ko.wikipedia.org/wiki/Kis-My-Ft2).
 
 
-**Kis-My-Ft2**()는 [쟈니즈 사무소](https://ko.wikipedia.org/wiki/자니즈_사무소 "wikilink") 소속의 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") [아이돌 그룹이다](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink").
+**Kis-My-Ft2**()는 [쟈니즈 사무소](https://ko.wikipedia.org/wiki/자니즈_사무소 "wikilink") 소속의 [일본](../Page/일본.md "wikilink") [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") [아이돌 그룹이다](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink").
 
 ## 멤버
 
@@ -18,49 +18,49 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong>Ki</strong> <strong><a href="https://ko.wikipedia.org/wiki/키타야마_히로미츠" title="wikilink">키타야마 히로미츠</a></strong><br />
+<td><p><strong>Ki</strong> <strong><a href="../Page/키타야마_히로미츠.md" title="wikilink">키타야마 히로미츠</a></strong><br />
 <small><strong>()</strong></small></p></td>
-<td><p><strong></strong>, <a href="https://ko.wikipedia.org/wiki/ABO식_혈액형" title="wikilink">A형</a>, <a href="https://ko.wikipedia.org/wiki/가나가와현" title="wikilink">카나가와 현</a> 출신[1]</p></td>
+<td><p><strong></strong>, <a href="../Page/ABO식_혈액형.md" title="wikilink">A형</a>, <a href="../Page/가나가와현.md" title="wikilink">카나가와 현</a> 출신[1]</p></td>
 <td><p><span style="color:red;">레드</span>[2]</p></td>
 <td><p>최연장자</p></td>
 </tr>
 <tr class="even">
-<td><p>s <a href="https://ko.wikipedia.org/wiki/센가_켄토" title="wikilink">센가 켄토</a><br />
+<td><p>s <a href="../Page/센가_켄토.md" title="wikilink">센가 켄토</a><br />
 <small>()</small></p></td>
-<td><p>, <a href="https://ko.wikipedia.org/wiki/ABO식_혈액형" title="wikilink">AB형</a>, <a href="https://ko.wikipedia.org/wiki/아이치현" title="wikilink">아이치현</a> 출신[3]</p></td>
+<td><p>, <a href="../Page/ABO식_혈액형.md" title="wikilink">AB형</a>, <a href="../Page/아이치현.md" title="wikilink">아이치현</a> 출신[3]</p></td>
 <td><p><span style="color:lightskyblue;">하늘</span>[4]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>M <a href="https://ko.wikipedia.org/wiki/미야타_토시야" title="wikilink">미야타 토시야</a><br />
+<td><p>M <a href="../Page/미야타_토시야.md" title="wikilink">미야타 토시야</a><br />
 <small>()</small></p></td>
 <td><p>, A형, 카나가와 현 출신[5]</p></td>
 <td><p><span style="color:purple;">퍼플</span>[6]</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>y <a href="https://ko.wikipedia.org/wiki/요코오_와타루" title="wikilink">요코오 와타루</a><br />
+<td><p>y <a href="../Page/요코오_와타루.md" title="wikilink">요코오 와타루</a><br />
 <small>()</small></p></td>
 <td><p>, A형, 카나가와 현 출신[7]</p></td>
 <td><p><span style="color:orange;">오렌지</span>[8]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>F <a href="https://ko.wikipedia.org/wiki/후지가야_타이스케" title="wikilink">후지가야 타이스케</a><br />
+<td><p>F <a href="../Page/후지가야_타이스케.md" title="wikilink">후지가야 타이스케</a><br />
 <small>()</small></p></td>
 <td><p>, AB형, 카나가와 현 출신[9]</p></td>
 <td><p><span style="color:pink;">핑크</span>[10]</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>t <a href="https://ko.wikipedia.org/wiki/타마모리_유타" title="wikilink">타마모리 유타</a><br />
+<td><p>t <a href="../Page/타마모리_유타.md" title="wikilink">타마모리 유타</a><br />
 <small>()</small></p></td>
-<td><p>, <a href="https://ko.wikipedia.org/wiki/ABO식_혈액형" title="wikilink">B형</a>, <a href="https://ko.wikipedia.org/wiki/도쿄도" title="wikilink">도쿄도</a> 출신[11]</p></td>
+<td><p>, <a href="../Page/ABO식_혈액형.md" title="wikilink">B형</a>, <a href="../Page/도쿄도.md" title="wikilink">도쿄도</a> 출신[11]</p></td>
 <td><p><span style="color:yellow;">옐로우</span>[12]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2 <a href="https://ko.wikipedia.org/wiki/니카이도_타카시" title="wikilink">니카이도 타카시</a><br />
+<td><p>2 <a href="../Page/니카이도_타카시.md" title="wikilink">니카이도 타카시</a><br />
 <small>()</small></p></td>
 <td><p>, B형, 도쿄 도 출신[13]</p></td>
 <td><p><span style="color:green;">그린</span>[14]</p></td>
@@ -75,15 +75,15 @@
 
 ## 개요
 
-[2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [4월 4일](https://ko.wikipedia.org/wiki/4월_4일 "wikilink"), [NHK의](https://ko.wikipedia.org/wiki/일본방송협회 "wikilink") 방송 프로그램 《[소년구락부](../Page/소년구락부.md "wikilink")》에서 [Jr.BOYS](https://ko.wikipedia.org/wiki/Jr.BOYS "wikilink")로 활동하고 있던 [키타야마 히로미츠](https://ko.wikipedia.org/wiki/키타야마_히로미츠 "wikilink"), [후지가야 타이스케](https://ko.wikipedia.org/wiki/후지가야_타이스케 "wikilink"), [K.K.Kity](https://ko.wikipedia.org/wiki/K.K.Kity "wikilink")로 활동하고 있던 [이이다 쿄헤이](https://ko.wikipedia.org/wiki/이이다_쿄헤이 "wikilink"), [요코오 와타루](https://ko.wikipedia.org/wiki/요코오_와타루 "wikilink"), [쟈니즈 주니어의](https://ko.wikipedia.org/wiki/자니스_주니어 "wikilink") [마츠모토 코헤이](https://ko.wikipedia.org/wiki/마츠모토_코헤이 "wikilink"), [토미타 마오](https://ko.wikipedia.org/wiki/토미타_마오 "wikilink"), [센가 켄토가](https://ko.wikipedia.org/wiki/센가_켄토 "wikilink") 모여 유닛 **Kis-My-Ft.**을 결성해 활동하였다.
+[2004년](../Page/2004년.md "wikilink") [4월 4일](../Page/4월_4일.md "wikilink"), [NHK의](../Page/일본방송협회.md "wikilink") 방송 프로그램 《[소년구락부](../Page/소년구락부.md "wikilink")》에서 [Jr.BOYS](https://ko.wikipedia.org/wiki/Jr.BOYS "wikilink")로 활동하고 있던 [키타야마 히로미츠](../Page/키타야마_히로미츠.md "wikilink"), [후지가야 타이스케](../Page/후지가야_타이스케.md "wikilink"), [K.K.Kity](../Page/K.K.Kity.md "wikilink")로 활동하고 있던 [이이다 쿄헤이](https://ko.wikipedia.org/wiki/이이다_쿄헤이 "wikilink"), [요코오 와타루](../Page/요코오_와타루.md "wikilink"), [쟈니즈 주니어의](../Page/자니스_주니어.md "wikilink") [마츠모토 코헤이](https://ko.wikipedia.org/wiki/마츠모토_코헤이 "wikilink"), [토미타 마오](https://ko.wikipedia.org/wiki/토미타_마오 "wikilink"), [센가 켄토가](../Page/센가_켄토.md "wikilink") 모여 유닛 **Kis-My-Ft.**을 결성해 활동하였다.
 
-그 후, [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [7월 26일에](https://ko.wikipedia.org/wiki/7월_26일 "wikilink") Kis-My-Ft2를 결성해, [시나가와 스텔라 볼에서](https://ko.wikipedia.org/wiki/엡손_시나가와_아쿠아스타디움 "wikilink") 열린 이벤트 SUMMARY를 시작으로 활동을 개시했다. [히카루GENJI를](https://ko.wikipedia.org/wiki/히카루겐지 "wikilink") 방불케하는 [롤러 스케이트](https://ko.wikipedia.org/wiki/롤러_스케이팅 "wikilink") 퍼포먼스를 주로 선보이지만, [쟈니즈 사무소의](https://ko.wikipedia.org/wiki/자니즈_사무소 "wikilink") 사장 [쟈니 키타가와는](https://ko.wikipedia.org/wiki/자니_키타가와 "wikilink") "그들은 그것(롤러 스케이트)만 능숙한 것이 아니라, 뭐든 잘할 수 있다."고 평가하였다.\[15\]
+그 후, [2005년](../Page/2005년.md "wikilink") [7월 26일에](../Page/7월_26일.md "wikilink") Kis-My-Ft2를 결성해, [시나가와 스텔라 볼에서](https://ko.wikipedia.org/wiki/엡손_시나가와_아쿠아스타디움 "wikilink") 열린 이벤트 SUMMARY를 시작으로 활동을 개시했다. [히카루GENJI를](https://ko.wikipedia.org/wiki/히카루겐지 "wikilink") 방불케하는 [롤러 스케이트](https://ko.wikipedia.org/wiki/롤러_스케이팅 "wikilink") 퍼포먼스를 주로 선보이지만, [쟈니즈 사무소의](https://ko.wikipedia.org/wiki/자니즈_사무소 "wikilink") 사장 [쟈니 키타가와는](../Page/자니_키타가와.md "wikilink") "그들은 그것(롤러 스케이트)만 능숙한 것이 아니라, 뭐든 잘할 수 있다."고 평가하였다.\[15\]
 
 유닛 결성 이후, 전 Kis-My-Ft.의 멤버 키타야마, 요코오, 후지가야, 이이다와 전 [A.B.C.Jr.](https://ko.wikipedia.org/wiki/A.B.C.Jr. "wikilink") 멤버 미야타, 타마모리, 니카이도, 센가로 나뉘어 활동하기도 한다. 이 때문에 전 Kis-My-Ft.은 형팀, 전 A.B.C.Jr.는 동생팀으로 불린다.
 
-[2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")에 이이다가 탈퇴해 현재의 7명이 되었다.
+[2006년](../Page/2006년.md "wikilink")에 이이다가 탈퇴해 현재의 7명이 되었다.
 
-[2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [8월 10일](https://ko.wikipedia.org/wiki/8월_10일 "wikilink"), 싱글 *[Everybody Go](https://ko.wikipedia.org/wiki/Everybody_Go "wikilink")*(avex trax)로 CD 데뷔하였다.\[16\] 이 싱글은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink"), [타이완](https://ko.wikipedia.org/wiki/타이완 "wikilink"), [홍콩](https://ko.wikipedia.org/wiki/홍콩 "wikilink"), [타이](https://ko.wikipedia.org/wiki/타이 "wikilink"), [필리핀](../Page/필리핀.md "wikilink"), [싱가포르](../Page/싱가포르.md "wikilink"), [말레이시아](https://ko.wikipedia.org/wiki/말레이시아 "wikilink") 등 7개 국가에서 동시 발매되었다. 본래 5월에 발매될 예정이었으나, [동일본 대지진의](https://ko.wikipedia.org/wiki/2011년_도호쿠_지방_태평양_해역_지진 "wikilink") 영향으로 곡의 방향성을 변경했기 때문에 8월로 발매가 늦춰졌다.\[17\] 쟈니 키타가와 사장은 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [9월](https://ko.wikipedia.org/wiki/9월 "wikilink")에 상영된 Kis-My-Ft2 주연의 [연극](https://ko.wikipedia.org/wiki/연극 "wikilink") 《소년들\~창살 없는 감옥\~》을 보고 데뷔를 결정하였다고 한다.\[18\]
+[2011년](../Page/2011년.md "wikilink") [8월 10일](../Page/8월_10일.md "wikilink"), 싱글 *[Everybody Go](../Page/Everybody_Go.md "wikilink")*(avex trax)로 CD 데뷔하였다.\[16\] 이 싱글은 [대한민국](../Page/대한민국.md "wikilink"), [타이완](../Page/타이완.md "wikilink"), [홍콩](../Page/홍콩.md "wikilink"), [타이](https://ko.wikipedia.org/wiki/타이 "wikilink"), [필리핀](../Page/필리핀.md "wikilink"), [싱가포르](../Page/싱가포르.md "wikilink"), [말레이시아](../Page/말레이시아.md "wikilink") 등 7개 국가에서 동시 발매되었다. 본래 5월에 발매될 예정이었으나, [동일본 대지진의](https://ko.wikipedia.org/wiki/2011년_도호쿠_지방_태평양_해역_지진 "wikilink") 영향으로 곡의 방향성을 변경했기 때문에 8월로 발매가 늦춰졌다.\[17\] 쟈니 키타가와 사장은 [2010년](../Page/2010년.md "wikilink") [9월](../Page/9월.md "wikilink")에 상영된 Kis-My-Ft2 주연의 [연극](../Page/연극.md "wikilink") 《소년들\~창살 없는 감옥\~》을 보고 데뷔를 결정하였다고 한다.\[18\]
 
 ## 음반 목록
 
@@ -102,19 +102,19 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>2011년 8월 10일</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/Everybody_Go" title="wikilink">Everybody Go</a></strong></p></td>
+<td><p><strong><a href="../Page/Everybody_Go.md" title="wikilink">Everybody Go</a></strong></p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
 <td><p>2011년 12월 14일</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/We_never_give_up!" title="wikilink">We never give up!</a></strong></p></td>
+<td><p><strong><a href="../Page/We_never_give_up!.md" title="wikilink">We never give up!</a></strong></p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
 <td><p>2012년 3월 21일</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/SHE!_HER!_HER!" title="wikilink">SHE! HER! HER!</a></strong></p></td>
+<td><p><strong><a href="../Page/SHE!_HER!_HER!.md" title="wikilink">SHE! HER! HER!</a></strong></p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
@@ -276,7 +276,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>2012년 3월 28일</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/Kis-My-1st" title="wikilink">Kis-My-1st</a></strong></p></td>
+<td><p><strong><a href="../Page/Kis-My-1st.md" title="wikilink">Kis-My-1st</a></strong></p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
@@ -485,7 +485,7 @@
 2006년
 
   - Ready? (작사: 시라이 유우키, 아라타 미카 / 작곡: 하라다 타쿠야) - 가사는 2패턴 있다.
-  - [Kis-My-Me-Mine](https://ko.wikipedia.org/wiki/Kis-My-1st "wikilink") (작사: 시라이 유우키, 아라타 마사토 / 작곡: 하라다 타쿠야) - CD화는 되었지만, 초기 Ver.은 미CD화이다.
+  - [Kis-My-Me-Mine](../Page/Kis-My-1st.md "wikilink") (작사: 시라이 유우키, 아라타 마사토 / 작곡: 하라다 타쿠야) - CD화는 되었지만, 초기 Ver.은 미CD화이다.
 
 2008년
 
@@ -525,7 +525,7 @@
 </tr>
 <tr class="even">
 <td><p><strong>Everybody Go</strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/도쿄_방송_홀딩스" title="wikilink">TBS</a> 《<a href="https://ko.wikipedia.org/wiki/미남이시네요_(2011년_드라마)" title="wikilink">미남이시네요</a>》 주제가</p></td>
+<td><p><a href="../Page/도쿄_방송_홀딩스.md" title="wikilink">TBS</a> 《<a href="../Page/미남이시네요_(2011년_드라마).md" title="wikilink">미남이시네요</a>》 주제가</p></td>
 <td><p>1st 싱글 〈Everybody go〉</p></td>
 </tr>
 <tr class="odd">
@@ -535,7 +535,7 @@
 </tr>
 <tr class="even">
 <td><p><strong>Kis-My-Venus</strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후지_TV" title="wikilink">후지 TV</a> 《모시모 투어즈》 테마곡</p></td>
+<td><p><a href="../Page/후지_TV.md" title="wikilink">후지 TV</a> 《모시모 투어즈》 테마곡</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -550,17 +550,17 @@
 </tr>
 <tr class="odd">
 <td><p><strong>Shake It Up</strong></p></td>
-<td><p><a href="../Page/닛폰_TV_방송망.md" title="wikilink">NTV</a> 《<a href="https://ko.wikipedia.org/wiki/사립_바카레아_고교" title="wikilink">사립 바카레아 고교</a>》 오프닝 테마</p></td>
+<td><p><a href="../Page/닛폰_TV_방송망.md" title="wikilink">NTV</a> 《<a href="../Page/사립_바카레아_고교.md" title="wikilink">사립 바카레아 고교</a>》 오프닝 테마</p></td>
 <td><p>4th 싱글 〈WANNA BEEEE</p></td>
 </tr>
 <tr class="even">
 <td><p>'''WANNA BEEEE</p></td>
 <td><p>!'''</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/도쿄_방송_홀딩스" title="wikilink">TBS</a> 《<a href="https://ko.wikipedia.org/wiki/비기너즈!" title="wikilink">비기너즈!</a>》 주제가</p></td>
+<td><p><a href="../Page/도쿄_방송_홀딩스.md" title="wikilink">TBS</a> 《<a href="../Page/비기너즈!.md" title="wikilink">비기너즈!</a>》 주제가</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Summer Lover</strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후지_TV" title="wikilink">후지 TV</a> 《모시모 투어즈》 테마곡</p></td>
+<td><p><a href="../Page/후지_TV.md" title="wikilink">후지 TV</a> 《모시모 투어즈》 테마곡</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -571,7 +571,7 @@
 <tr class="odd">
 <td><p><strong>My Resistance -タシカナモノ-</strong><br />
 <small>My Resistance -확실한 것-</small></p></td>
-<td><p><a href="../Page/TV_아사히.md" title="wikilink">TV 아사히</a> 《<a href="https://ko.wikipedia.org/wiki/노부나가의_셰프" title="wikilink">노부나가의 셰프</a>》 주제가</p></td>
+<td><p><a href="../Page/TV_아사히.md" title="wikilink">TV 아사히</a> 《<a href="../Page/노부나가의_셰프.md" title="wikilink">노부나가의 셰프</a>》 주제가</p></td>
 <td><p>6th 싱글 〈My Resistance -タシカナモノ-/運命Girl〉</p></td>
 </tr>
 <tr class="even">
@@ -593,19 +593,19 @@
 </tr>
 <tr class="odd">
 <td><p><strong>keep on smile</strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후지_TV" title="wikilink">후지 TV</a> 《모시모 투어즈》 테마곡</p></td>
+<td><p><a href="../Page/후지_TV.md" title="wikilink">후지 TV</a> 《모시모 투어즈》 테마곡</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><strong>キミとのキセキ</strong><br />
 <small>너와의 기적</small></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/도쿄_방송_홀딩스" title="wikilink">TBS</a> 《<a href="../Page/핀토코나.md" title="wikilink">핀토코나</a>》 주제가</p></td>
+<td><p><a href="../Page/도쿄_방송_홀딩스.md" title="wikilink">TBS</a> 《<a href="../Page/핀토코나.md" title="wikilink">핀토코나</a>》 주제가</p></td>
 <td><p>8th 싱글 〈キミとのキセキ〉</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Diamond Honey</strong></p></td>
 <td><p>DHC 약용 아크네 컨트롤 시리즈 CM송,<br />
-<a href="https://ko.wikipedia.org/wiki/후지_TV" title="wikilink">후지 TV</a> 《모시모 투어즈》 테마곡</p></td>
+<a href="../Page/후지_TV.md" title="wikilink">후지 TV</a> 《모시모 투어즈》 테마곡</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -638,7 +638,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong>Crush! Crush! Crush!</strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후지_TV" title="wikilink">후지 TV</a> 《모시모 투어즈》 테마곡</p></td>
+<td><p><a href="../Page/후지_TV.md" title="wikilink">후지 TV</a> 《모시모 투어즈》 테마곡</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -654,7 +654,7 @@
 </tr>
 <tr class="even">
 <td><p><strong>Another Future</strong></p></td>
-<td><p><a href="../Page/TV_아사히.md" title="wikilink">TV 아사히</a> 《<a href="https://ko.wikipedia.org/wiki/노부나가의_셰프" title="wikilink">노부나가의 셰프</a>2》 주제가</p></td>
+<td><p><a href="../Page/TV_아사히.md" title="wikilink">TV 아사히</a> 《<a href="../Page/노부나가의_셰프.md" title="wikilink">노부나가의 셰프</a>2》 주제가</p></td>
 <td><p>11th 싱글 〈Another Future〉</p></td>
 </tr>
 <tr class="odd">
@@ -681,7 +681,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong>Halley</strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후지_TV" title="wikilink">후지 TV</a> 《모시모 투어즈》 테마곡</p></td>
+<td><p><a href="../Page/후지_TV.md" title="wikilink">후지 TV</a> 《모시모 투어즈》 테마곡</p></td>
 <td><p>4th 앨범 〈KIS-MY-WORLD〉</p></td>
 </tr>
 <tr class="even">
@@ -721,7 +721,7 @@
 <tr class="even">
 <td><p><strong>DREAM STAGE</strong><br />
 </p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후지_TV" title="wikilink">후지 TV</a> 《모시모 투어즈》 테마곡</p></td>
+<td><p><a href="../Page/후지_TV.md" title="wikilink">후지 TV</a> 《모시모 투어즈》 테마곡</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -740,10 +740,10 @@
   - [더 소년구락부](../Page/소년구락부.md "wikilink") (2005년 \~ , [NHK BS 프리미엄](../Page/NHK_BS_프리미엄.md "wikilink")) - 2011년 8월 5일 방송분까지는 쟈니즈 Jr.명의로의 출연했다.
   - 모시모 투어즈 (2011년 10월 1일 \~ , 후지 TV 외) - 멤버가 몇 명씩, 같은 고정출연의 한냐와 격주 교대로 출연
   - 흑백 재판관 버라이어티 나카이 마사히로의 수상한 소문이 모이는 도서관 (2011년 10월 4일 \~ 2013년 3월 19일, TV 아사히 계열) - 멤버가 몇명씩 출연
-  - [하마키스](https://ko.wikipedia.org/wiki/하마키스 "wikilink") (2011년 12월 29일·2012년 3월 23일·2012년 4월 4일 \~ 2012년 9월 26일, TV 아사히 외)
+  - [하마키스](../Page/하마키스.md "wikilink") (2011년 12월 29일·2012년 3월 23일·2012년 4월 4일 \~ 2012년 9월 26일, TV 아사히 외)
   - 도카이 지방 가능한 한 제대로 조사합니다\! (2012년 4월 26일 \~ 2012년 9월 20일, CBC TV·나카교 로컬) - 멤버가 몇명씩 출연
   - [키스마이BUSAIKU\!?](../Page/키스마이BUSAIKU!?.md "wikilink") (2012년 8월 18일·9월 1일·2013년 1월 26일·2월 23일·3월 23일·4월 21일 \~ , 후지 TV 외)
-  - [키스하마러닝](https://ko.wikipedia.org/wiki/키스하마러닝 "wikilink")→키스하마러닝2→키스하마러닝3 (2012년 10월 3일 \~ 2014년 3월 26일, TV 아사히 외)
+  - [키스하마러닝](../Page/키스하마러닝.md "wikilink")→키스하마러닝2→키스하마러닝3 (2012년 10월 3일 \~ 2014년 3월 26일, TV 아사히 외)
   - 나카이 마사히로의 미가 되는 도서관 (2013년 4월 2일 \~ , TV 아사히 계열)
   - [Kiss My Fake](https://ko.wikipedia.org/wiki/Kiss_My_Fake "wikilink") (2013년 7월 11일·2013년 10월 24일 \~ 2014년 3월 20일 , TBS 계열)
   - [키스하마테레비](../Page/키스하마테레비.md "wikilink") (2014년 4월 1일 \~ 2014년 9월 23일, TV 아사히 외)
@@ -862,7 +862,7 @@
 
 **2012년**
 
-  - 제26회 [일본 골드 디스크 대상](https://ko.wikipedia.org/wiki/일본_골드_디스크_대상 "wikilink") NEW ARTIST OF THE YEAR 방악 부문, BEST 5 NEW ARTISTS 방악 부문
+  - 제26회 [일본 골드 디스크 대상](../Page/일본_골드_디스크_대상.md "wikilink") NEW ARTIST OF THE YEAR 방악 부문, BEST 5 NEW ARTISTS 방악 부문
 
 ## Kis-My-Ft.
 

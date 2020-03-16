@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MBC](https://ko.wikipedia.org/wiki/MBC).
 
 
-**주식회사 MBC경남**(株式會社 MBC慶南)은 [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink")를 가시청권역으로 하는 대한민국의 지상파 TV·라디오 방송국이다. [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [9월 1일에](https://ko.wikipedia.org/wiki/9월_1일 "wikilink") [진주문화방송과](../Page/MBC경남_진주방송.md "wikilink") [창원문화방송이](../Page/MBC경남_창원방송.md "wikilink") 통합되어 MBC경남이라는 새로운 이름의 지상파방송사로 출범하였다.
+**주식회사 MBC경남**(株式會社 MBC慶南)은 [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink")를 가시청권역으로 하는 대한민국의 지상파 TV·라디오 방송국이다. [2011년](../Page/2011년.md "wikilink") [9월 1일에](../Page/9월_1일.md "wikilink") [진주문화방송과](../Page/MBC경남_진주방송.md "wikilink") [창원문화방송이](../Page/MBC경남_창원방송.md "wikilink") 통합되어 MBC경남이라는 새로운 이름의 지상파방송사로 출범하였다.
 
 TV방송 2채널과 AM라디오 2채널, FM라디오 4채널을 운영하고 있으며 진주방송은 서부지역, 창원방송은 동부지역을 방송권역으로서 방송중이다.
 
@@ -19,7 +19,7 @@ TV방송 2채널과 AM라디오 2채널, FM라디오 4채널을 운영하고 있
 
 <!-- end list -->
 
-  - 우51322 [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink") [창원시](https://ko.wikipedia.org/wiki/창원시 "wikilink") [마산회원구](https://ko.wikipedia.org/wiki/마산회원구 "wikilink") 양덕서9길 11-11 (양덕동)
+  - 우51322 [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink") [창원시](../Page/창원시.md "wikilink") [마산회원구](../Page/마산회원구.md "wikilink") 양덕서9길 11-11 (양덕동)
 
 <!-- end list -->
 
@@ -35,7 +35,7 @@ TV방송 2채널과 AM라디오 2채널, FM라디오 4채널을 운영하고 있
 
 ## 논란
 
-[문화방송](https://ko.wikipedia.org/wiki/문화방송 "wikilink")에 [김재철](https://ko.wikipedia.org/wiki/김재철_\(1953년\) "wikilink") 사장이 취임한 후,진주문화방송과 창원문화방송(통합창원시 출범 이전 당시 마산문화방송)을 비롯한 몇개 계열방송국들을 강제로 통합하는 것을 추진하고 있다. 많은 반발에도 불구하고, [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [8월 8일에](https://ko.wikipedia.org/wiki/8월_8일 "wikilink") [방송통신위원회에서는](../Page/대한민국_방송통신위원회.md "wikilink") 결국 창원문화방송과 진주문화방송의 통합을 승인했다.
+[문화방송](../Page/문화방송.md "wikilink")에 [김재철](../Page/김재철_\(1953년\).md "wikilink") 사장이 취임한 후,진주문화방송과 창원문화방송(통합창원시 출범 이전 당시 마산문화방송)을 비롯한 몇개 계열방송국들을 강제로 통합하는 것을 추진하고 있다. 많은 반발에도 불구하고, [2011년](../Page/2011년.md "wikilink") [8월 8일에](../Page/8월_8일.md "wikilink") [방송통신위원회에서는](../Page/대한민국_방송통신위원회.md "wikilink") 결국 창원문화방송과 진주문화방송의 통합을 승인했다.
 
 그러나, 방송국 구성원들이나 지역 주민들에게 제대로 된 설명도 없고 동의를 구하지 않은채 독자적으로 추진되어 왔을 뿐만 아니라 방송권역이 넓어지면서 오히려 한쪽 권역에 대한 보도등이 소홀해 질 수 있다는 이유로 서명운동이 일어나는 등 지역민들과 방송국 구성원들의 많은 반발이 일어났다.
 

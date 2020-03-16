@@ -5,19 +5,19 @@
 
 ## 역대 기록 Top 10
 
-| 순위                                                                  | 곡명                                                                                                       | 아티스트                                                   | 최고 기록 | 발매 연도 |
-| ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ----- | ----- |
-| 1                                                                   | [되돌리다](https://ko.wikipedia.org/wiki/되돌리다 "wikilink")                                                    | [이승기](../Page/이승기.md "wikilink")                       | 6주 1위 | 2012  |
-| 2                                                                   | [너랑 나](https://ko.wikipedia.org/wiki/너랑_나 "wikilink")                                                    | [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink")    | 5주 1위 | 2011  |
-| [강남스타일](https://ko.wikipedia.org/wiki/강남스타일 "wikilink")             | [싸이](https://ko.wikipedia.org/wiki/싸이 "wikilink")                                                        | 2012                                                   |       |       |
-| 4                                                                   | [시간을 거슬러](https://ko.wikipedia.org/wiki/시간을_거슬러 "wikilink")                                              | [린](https://ko.wikipedia.org/wiki/린_\(가수\) "wikilink") | 4주 1위 | 2012  |
-| [나 혼자](https://ko.wikipedia.org/wiki/나_혼자 "wikilink")               | [씨스타](https://ko.wikipedia.org/wiki/씨스타 "wikilink")                                                      | 2012                                                   |       |       |
-| [내꺼하자](https://ko.wikipedia.org/wiki/내꺼하자 "wikilink")               | [인피니트](https://ko.wikipedia.org/wiki/인피니트 "wikilink")                                                    | 2012                                                   |       |       |
-| 7                                                                   | [안녕이라고 말하지마](https://ko.wikipedia.org/wiki/안녕이라고_말하지마 "wikilink")                                        | [다비치](../Page/다비치.md "wikilink")                       | 3주 1위 | 2011  |
-| [Lovey-Dovey](https://ko.wikipedia.org/wiki/Lovey-Dovey "wikilink") | [티아라](https://ko.wikipedia.org/wiki/티아라_\(음악_그룹\) "wikilink")                                            | 2012                                                   |       |       |
-| [BLUE](https://ko.wikipedia.org/wiki/BLUE "wikilink")               | [빅뱅](../Page/빅뱅_\(음악_그룹\).md "wikilink")                                                                 | 2012                                                   |       |       |
-| [All For You](https://ko.wikipedia.org/wiki/All_For_You "wikilink") | [서인국](https://ko.wikipedia.org/wiki/서인국 "wikilink"), [정은지](https://ko.wikipedia.org/wiki/정은지 "wikilink") | 2012                                                   |       |       |
-| [1,2,3,4](https://ko.wikipedia.org/wiki/1,2,3,4 "wikilink")         | [이하이](https://ko.wikipedia.org/wiki/이하이 "wikilink")                                                      | 2012                                                   |       |       |
+| 순위                                                                  | 곡명                                                                                                       | 아티스트                                                | 최고 기록 | 발매 연도 |
+| ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ----- | ----- |
+| 1                                                                   | [되돌리다](https://ko.wikipedia.org/wiki/되돌리다 "wikilink")                                                    | [이승기](../Page/이승기.md "wikilink")                    | 6주 1위 | 2012  |
+| 2                                                                   | [너랑 나](https://ko.wikipedia.org/wiki/너랑_나 "wikilink")                                                    | [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink") | 5주 1위 | 2011  |
+| [강남스타일](../Page/강남스타일.md "wikilink")                                | [싸이](../Page/싸이.md "wikilink")                                                                           | 2012                                                |       |       |
+| 4                                                                   | [시간을 거슬러](https://ko.wikipedia.org/wiki/시간을_거슬러 "wikilink")                                              | [린](../Page/린_\(가수\).md "wikilink")                 | 4주 1위 | 2012  |
+| [나 혼자](https://ko.wikipedia.org/wiki/나_혼자 "wikilink")               | [씨스타](../Page/씨스타.md "wikilink")                                                                         | 2012                                                |       |       |
+| [내꺼하자](https://ko.wikipedia.org/wiki/내꺼하자 "wikilink")               | [인피니트](../Page/인피니트.md "wikilink")                                                                       | 2012                                                |       |       |
+| 7                                                                   | [안녕이라고 말하지마](https://ko.wikipedia.org/wiki/안녕이라고_말하지마 "wikilink")                                        | [다비치](../Page/다비치.md "wikilink")                    | 3주 1위 | 2011  |
+| [Lovey-Dovey](https://ko.wikipedia.org/wiki/Lovey-Dovey "wikilink") | [티아라](../Page/티아라_\(음악_그룹\).md "wikilink")                                                               | 2012                                                |       |       |
+| [BLUE](https://ko.wikipedia.org/wiki/BLUE "wikilink")               | [빅뱅](../Page/빅뱅_\(음악_그룹\).md "wikilink")                                                                 | 2012                                                |       |       |
+| [All For You](https://ko.wikipedia.org/wiki/All_For_You "wikilink") | [서인국](https://ko.wikipedia.org/wiki/서인국 "wikilink"), [정은지](https://ko.wikipedia.org/wiki/정은지 "wikilink") | 2012                                                |       |       |
+| [1,2,3,4](https://ko.wikipedia.org/wiki/1,2,3,4 "wikilink")         | [이하이](../Page/이하이.md "wikilink")                                                                         | 2012                                                |       |       |
 
 ## 같이 보기
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SBS  ](https://ko.wikipedia.org/wiki/SBS__).
 
 
-본 문서는 대한민국의 방송국 중 하나인 **[SBS](https://ko.wikipedia.org/wiki/SBS_\(대한민국의_방송사\) "wikilink")**에 대한 비판이다.
+본 문서는 대한민국의 방송국 중 하나인 **[SBS](../Page/SBS_\(대한민국의_방송사\).md "wikilink")**에 대한 비판이다.
 
 ## 뉴스 논란
 
@@ -19,7 +19,7 @@
 
 ### 양배추 김치 논란
 
-[2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") 9월 30일 [SBS 8 뉴스에서](../Page/SBS_8_뉴스.md "wikilink") 신동욱 앵커는 "배추 값이 폭등하자 양배추 김치를 먹으라"는 [이명박](https://ko.wikipedia.org/wiki/이명박 "wikilink") 대통령의 말에 옹호하는 발언으로 논란을 일으켰다. 대통령이 나라와 물가를 모르니까 내뱉는 속없는 말에 도리어 [SBS 8 뉴스에서](../Page/SBS_8_뉴스.md "wikilink") 신동욱 앵커는 정부의 나팔수 역을 하는것에 한심스럽다는 반응이었다.\[4\]
+[2010년](../Page/2010년.md "wikilink") 9월 30일 [SBS 8 뉴스에서](../Page/SBS_8_뉴스.md "wikilink") 신동욱 앵커는 "배추 값이 폭등하자 양배추 김치를 먹으라"는 [이명박](https://ko.wikipedia.org/wiki/이명박 "wikilink") 대통령의 말에 옹호하는 발언으로 논란을 일으켰다. 대통령이 나라와 물가를 모르니까 내뱉는 속없는 말에 도리어 [SBS 8 뉴스에서](../Page/SBS_8_뉴스.md "wikilink") 신동욱 앵커는 정부의 나팔수 역을 하는것에 한심스럽다는 반응이었다.\[4\]
 
 ### 故 [노무현](https://ko.wikipedia.org/wiki/노무현 "wikilink") 전 대통령 비하 워터마크 송출
 

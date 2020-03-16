@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MISSTER](https://ko.wikipedia.org/wiki/MISSTER).
 
 
-**MISSTER**(미스터)는 [중화민국](https://ko.wikipedia.org/wiki/중화민국 "wikilink")의 5인조 아이돌 그룹이다.
+**MISSTER**(미스터)는 [중화민국](../Page/중화민국.md "wikilink")의 5인조 아이돌 그룹이다.
 
 ## 멤버 구성원
 

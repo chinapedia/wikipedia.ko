@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [US  ](https://ko.wikipedia.org/wiki/US__).
 
 
-**US 트리에스티나**()는 [1918년](https://ko.wikipedia.org/wiki/1918년 "wikilink")에 창단된 [이탈리아](https://ko.wikipedia.org/wiki/이탈리아 "wikilink")의 축구 클럽으로, [프리울리베네치아줄리아주](../Page/프리울리베네치아줄리아주.md "wikilink") [트리에스테](https://ko.wikipedia.org/wiki/트리에스테 "wikilink")를 연고지로 한다. 현재 [레가 프로 프리마 디비시오네](../Page/레가_프로_프리마_디비시오네.md "wikilink") B그룹에서 활약하고 있으며 1929년 이탈리아 프로축구 출범 때부터 1958년까지 [세리에 A에서](../Page/세리에_A.md "wikilink") 활약한 적이 있다. 1994년 구단이 파산당하기도 했지만 점차 재건해 나갔다. 팀을 상징하는 색은 빨간색과 하얀색이다.
+**US 트리에스티나**()는 [1918년](../Page/1918년.md "wikilink")에 창단된 [이탈리아](../Page/이탈리아.md "wikilink")의 축구 클럽으로, [프리울리베네치아줄리아주](../Page/프리울리베네치아줄리아주.md "wikilink") [트리에스테](../Page/트리에스테.md "wikilink")를 연고지로 한다. 현재 [레가 프로 프리마 디비시오네](../Page/레가_프로_프리마_디비시오네.md "wikilink") B그룹에서 활약하고 있으며 1929년 이탈리아 프로축구 출범 때부터 1958년까지 [세리에 A에서](../Page/세리에_A.md "wikilink") 활약한 적이 있다. 1994년 구단이 파산당하기도 했지만 점차 재건해 나갔다. 팀을 상징하는 색은 빨간색과 하얀색이다.
 
 ## 외부 링크
 

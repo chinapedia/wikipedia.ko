@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [UEFA  ](https://ko.wikipedia.org/wiki/UEFA__).
 
 
-**UEFA 올해의 선수**()는 매년 유럽의 축구 클럽에서 뛰고 있는 축구 선수들 중에서 가장 훌륭한 활약을 보여준 선수에게 수여하는 [유럽 축구 연맹](https://ko.wikipedia.org/wiki/유럽_축구_연맹 "wikilink")(UEFA)의 상이다.
+**UEFA 올해의 선수**()는 매년 유럽의 축구 클럽에서 뛰고 있는 축구 선수들 중에서 가장 훌륭한 활약을 보여준 선수에게 수여하는 [유럽 축구 연맹](../Page/유럽_축구_연맹.md "wikilink")(UEFA)의 상이다.
 
-프랑스 축구 매거진이 수상해 왔던 권위 있는 축구상인 [발롱도르](../Page/발롱도르.md "wikilink")가 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [FIFA 발롱도르로](../Page/FIFA_발롱도르.md "wikilink") 통합됨에 따라 그 끊긴 역사를 이어가기 위해 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink")에 시상이 시작되었다. 또한 그 이전에 있었던 [UEFA 올해의 클럽 축구 선수를](https://ko.wikipedia.org/wiki/UEFA_올해의_클럽_축구_선수 "wikilink") 대체하는 의미도 가지고 있다. 2013년에는 **[UEFA 올해의 여자 선수](../Page/UEFA_올해의_여자_선수.md "wikilink")**(UEFA Women's Player of the Year Award)가 신설되었다.
+프랑스 축구 매거진이 수상해 왔던 권위 있는 축구상인 [발롱도르](../Page/발롱도르.md "wikilink")가 [2010년](../Page/2010년.md "wikilink") [FIFA 발롱도르로](../Page/FIFA_발롱도르.md "wikilink") 통합됨에 따라 그 끊긴 역사를 이어가기 위해 [2011년](../Page/2011년.md "wikilink")에 시상이 시작되었다. 또한 그 이전에 있었던 [UEFA 올해의 클럽 축구 선수를](../Page/UEFA_올해의_클럽_축구_선수.md "wikilink") 대체하는 의미도 가지고 있다. 2013년에는 **[UEFA 올해의 여자 선수](../Page/UEFA_올해의_여자_선수.md "wikilink")**(UEFA Women's Player of the Year Award)가 신설되었다.
 
 ## 수상자
 
@@ -23,7 +23,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>1위</strong></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/리오넬_메시" title="wikilink">리오넬 메시</a></strong></p></td>
+<td><p><strong><a href="../Page/리오넬_메시.md" title="wikilink">리오넬 메시</a></strong></p></td>
 <td><p>-</p></td>
 <td><p><strong>39</strong></p></td>
 <td><p><strong></strong></p></td>
@@ -128,7 +128,7 @@
 </tr>
 <tr class="even">
 <td><p>2위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/리오넬_메시" title="wikilink">리오넬 메시</a></p></td>
+<td><p><a href="../Page/리오넬_메시.md" title="wikilink">리오넬 메시</a></p></td>
 <td><p>-</p></td>
 <td><p>17</p></td>
 <td></td>
@@ -192,7 +192,7 @@
 </tr>
 <tr class="even">
 <td><p>10위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/메수트_외질" title="wikilink">메수트 외질</a></p></td>
+<td><p><a href="../Page/메수트_외질.md" title="wikilink">메수트 외질</a></p></td>
 <td><p>10</p></td>
 <td><p>-</p></td>
 <td></td>
@@ -225,7 +225,7 @@
 </tr>
 <tr class="even">
 <td><p>2위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/리오넬_메시" title="wikilink">리오넬 메시</a></p></td>
+<td><p><a href="../Page/리오넬_메시.md" title="wikilink">리오넬 메시</a></p></td>
 <td><p>-</p></td>
 <td><p>14</p></td>
 <td></td>
@@ -257,7 +257,7 @@
 </tr>
 <tr class="even">
 <td><p>6위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/토마스_뮐러" title="wikilink">토마스 뮐러</a></p></td>
+<td><p><a href="../Page/토마스_뮐러.md" title="wikilink">토마스 뮐러</a></p></td>
 <td><p>38</p></td>
 <td><p>-</p></td>
 <td></td>
@@ -338,7 +338,7 @@
 </tr>
 <tr class="even">
 <td><p>4위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/토마스_뮐러" title="wikilink">토마스 뮐러</a></p></td>
+<td><p><a href="../Page/토마스_뮐러.md" title="wikilink">토마스 뮐러</a></p></td>
 <td><p>39</p></td>
 <td><p>-</p></td>
 <td></td>
@@ -353,7 +353,7 @@
 <td><p></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/리오넬_메시" title="wikilink">리오넬 메시</a></p></td>
+<td><p><a href="../Page/리오넬_메시.md" title="wikilink">리오넬 메시</a></p></td>
 <td><p>24</p></td>
 <td><p>-</p></td>
 <td></td>
@@ -370,7 +370,7 @@
 </tr>
 <tr class="even">
 <td><p>8위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/루이스_알베르토_수아레스" title="wikilink">루이스 수아레스</a></p></td>
+<td><p><a href="../Page/루이스_알베르토_수아레스.md" title="wikilink">루이스 수아레스</a></p></td>
 <td><p>13</p></td>
 <td><p>-</p></td>
 <td></td>
@@ -378,7 +378,7 @@
 </tr>
 <tr class="odd">
 <td><p>9위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/앙헬_디_마리아" title="wikilink">앙헬 디 마리아</a></p></td>
+<td><p><a href="../Page/앙헬_디_마리아.md" title="wikilink">앙헬 디 마리아</a></p></td>
 <td><p>12</p></td>
 <td><p>-</p></td>
 <td></td>
@@ -411,7 +411,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>1위</strong></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/리오넬_메시" title="wikilink">리오넬 메시</a></strong></p></td>
+<td><p><strong><a href="../Page/리오넬_메시.md" title="wikilink">리오넬 메시</a></strong></p></td>
 <td><p>-</p></td>
 <td><p><strong>49</strong></p></td>
 <td><p><strong></strong></p></td>
@@ -419,7 +419,7 @@
 </tr>
 <tr class="even">
 <td><p>2위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/루이스_알베르토_수아레스" title="wikilink">루이스 수아레스</a></p></td>
+<td><p><a href="../Page/루이스_알베르토_수아레스.md" title="wikilink">루이스 수아레스</a></p></td>
 <td><p>-</p></td>
 <td><p>3</p></td>
 <td></td>
@@ -483,7 +483,7 @@
 </tr>
 <tr class="even">
 <td><p>10위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/폴_포그바" title="wikilink">폴 포그바</a></p></td>
+<td><p><a href="../Page/폴_포그바.md" title="wikilink">폴 포그바</a></p></td>
 <td><p>5</p></td>
 <td><p>-</p></td>
 <td></td>
@@ -532,7 +532,7 @@
 </tr>
 <tr class="even">
 <td><p>4위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/루이스_알베르토_수아레스" title="wikilink">루이스 수아레스</a></p></td>
+<td><p><a href="../Page/루이스_알베르토_수아레스.md" title="wikilink">루이스 수아레스</a></p></td>
 <td><p>29</p></td>
 <td><p>-</p></td>
 <td></td>
@@ -540,7 +540,7 @@
 </tr>
 <tr class="odd">
 <td><p>5위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/리오넬_메시" title="wikilink">리오넬 메시</a></p></td>
+<td><p><a href="../Page/리오넬_메시.md" title="wikilink">리오넬 메시</a></p></td>
 <td><p>25</p></td>
 <td><p>-</p></td>
 <td></td>
@@ -556,7 +556,7 @@
 </tr>
 <tr class="odd">
 <td><p>7위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/페페_(축구_선수)" title="wikilink">페페</a></p></td>
+<td><p><a href="../Page/페페_(축구_선수).md" title="wikilink">페페</a></p></td>
 <td><p>9</p></td>
 <td><p>-</p></td>
 <td></td>
@@ -580,7 +580,7 @@
 </tr>
 <tr class="even">
 <td><p>10위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/토마스_뮐러" title="wikilink">토마스 뮐러</a></p></td>
+<td><p><a href="../Page/토마스_뮐러.md" title="wikilink">토마스 뮐러</a></p></td>
 <td><p>2</p></td>
 <td><p>-</p></td>
 <td></td>
@@ -613,7 +613,7 @@
 </tr>
 <tr class="even">
 <td><p>2위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/리오넬_메시" title="wikilink">리오넬 메시</a></p></td>
+<td><p><a href="../Page/리오넬_메시.md" title="wikilink">리오넬 메시</a></p></td>
 <td><p>-</p></td>
 <td><p>141</p></td>
 <td></td>
@@ -734,7 +734,7 @@
 </tr>
 <tr class="odd">
 <td><p>5위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/리오넬_메시" title="wikilink">리오넬 메시</a></p></td>
+<td><p><a href="../Page/리오넬_메시.md" title="wikilink">리오넬 메시</a></p></td>
 <td><p>55</p></td>
 <td><p>-</p></td>
 <td></td>
@@ -758,7 +758,7 @@
 </tr>
 <tr class="even">
 <td><p>8위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/라파엘_바란" title="wikilink">라파엘 바란</a></p></td>
+<td><p><a href="../Page/라파엘_바란.md" title="wikilink">라파엘 바란</a></p></td>
 <td><p>23</p></td>
 <td><p>-</p></td>
 <td></td>
@@ -799,7 +799,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>1위</strong></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/버질_판_데이크" title="wikilink">버질 판 데이크</a></strong></p></td>
+<td><p><strong><a href="../Page/버질_판_데이크.md" title="wikilink">버질 판 데이크</a></strong></p></td>
 <td><p>-</p></td>
 <td><p><strong>305</strong></p></td>
 <td><p><strong></strong></p></td>
@@ -807,7 +807,7 @@
 </tr>
 <tr class="even">
 <td><p>2위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/리오넬_메시" title="wikilink">리오넬 메시</a></p></td>
+<td><p><a href="../Page/리오넬_메시.md" title="wikilink">리오넬 메시</a></p></td>
 <td><p>-</p></td>
 <td><p>207</p></td>
 <td></td>
@@ -855,7 +855,7 @@
 </tr>
 <tr class="even">
 <td><p>8위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/프렝키_더_용" title="wikilink">프렝키 더 용</a></p></td>
+<td><p><a href="../Page/프렝키_더_용.md" title="wikilink">프렝키 더 용</a></p></td>
 <td><p>27</p></td>
 <td><p>-</p></td>
 <td></td>
@@ -871,7 +871,7 @@
 </tr>
 <tr class="even">
 <td><p>10위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/라힘_스털링" title="wikilink">라힘 스털링</a></p></td>
+<td><p><a href="../Page/라힘_스털링.md" title="wikilink">라힘 스털링</a></p></td>
 <td><p>12</p></td>
 <td><p>-</p></td>
 <td></td>
@@ -882,10 +882,10 @@
 
 ## 같이 보기
 
-  - [UEFA 올해의 팀](https://ko.wikipedia.org/wiki/UEFA_올해의_팀 "wikilink")
-  - [UEFA 클럽 풋볼 어워드](https://ko.wikipedia.org/wiki/UEFA_클럽_풋볼_어워드 "wikilink")
-  - [UEFA 올해의 클럽 축구 선수](https://ko.wikipedia.org/wiki/UEFA_올해의_클럽_축구_선수 "wikilink")
-  - [UEFA 클럽 풋볼 어워드](https://ko.wikipedia.org/wiki/UEFA_클럽_풋볼_어워드 "wikilink")
+  - [UEFA 올해의 팀](../Page/UEFA_올해의_팀.md "wikilink")
+  - [UEFA 클럽 풋볼 어워드](../Page/UEFA_클럽_풋볼_어워드.md "wikilink")
+  - [UEFA 올해의 클럽 축구 선수](../Page/UEFA_올해의_클럽_축구_선수.md "wikilink")
+  - [UEFA 클럽 풋볼 어워드](../Page/UEFA_클럽_풋볼_어워드.md "wikilink")
   - [발롱도르](../Page/발롱도르.md "wikilink")
   - [더 베스트 FIFA 풋볼 어워드](../Page/더_베스트_FIFA_풋볼_어워드.md "wikilink")
 

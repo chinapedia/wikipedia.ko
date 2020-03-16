@@ -11,14 +11,14 @@
 
 ## 더 보기
 
-  - [암람](https://ko.wikipedia.org/wiki/AIM-120_암람 "wikilink") -  152 kg, [ARH](https://ko.wikipedia.org/wiki/ARH "wikilink") 미사일
+  - [암람](../Page/AIM-120_암람.md "wikilink") -  152 kg, [ARH](https://ko.wikipedia.org/wiki/ARH "wikilink") 미사일
   - [AA-12](https://ko.wikipedia.org/wiki/AA-12 "wikilink") -  226 kg, [ARH](https://ko.wikipedia.org/wiki/ARH "wikilink") 미사일
   - [PL-12](../Page/PL-12.md "wikilink") -  199 kg, [ARH](https://ko.wikipedia.org/wiki/ARH "wikilink") 미사일
   - [더비](../Page/더비_미사일.md "wikilink") -  118 kg, [ARH](https://ko.wikipedia.org/wiki/ARH "wikilink") 미사일
   - [99식 공대공 미사일](https://ko.wikipedia.org/wiki/99식_공대공_미사일 "wikilink") -  222 kg, [ARH](https://ko.wikipedia.org/wiki/ARH "wikilink") 미사일
   - MBDA 미티어 -  185 kg, [ARH](https://ko.wikipedia.org/wiki/ARH "wikilink") 미사일
   - [아스트라](https://ko.wikipedia.org/wiki/아스트라_미사일 "wikilink") -  154 kg, [ARH](https://ko.wikipedia.org/wiki/ARH "wikilink") 미사일
-  - [천검2](https://ko.wikipedia.org/wiki/천검2 "wikilink") -  190 kg, [ARH](https://ko.wikipedia.org/wiki/ARH "wikilink") 미사일
+  - [천검2](../Page/천검2.md "wikilink") -  190 kg, [ARH](https://ko.wikipedia.org/wiki/ARH "wikilink") 미사일
 
 ## 외부 링크
 

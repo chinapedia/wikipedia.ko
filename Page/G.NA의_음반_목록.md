@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [G.NA  ](https://ko.wikipedia.org/wiki/G.NA__).
 
 
-다음은 대한민국의 가수 [G.NA](https://ko.wikipedia.org/wiki/G.NA "wikilink")의 **음반 목록**이다.
+다음은 대한민국의 가수 [G.NA](../Page/G.NA.md "wikilink")의 **음반 목록**이다.
 
 ## 정규 앨범
 
@@ -27,7 +27,7 @@
 <td><p>2011</p></td>
 <td><p><strong><em><a href="https://ko.wikipedia.org/wiki/Black_&amp;_White" title="wikilink">Black &amp; White</a></em></strong></p>
 <ul>
-<li>포맷: <a href="https://ko.wikipedia.org/wiki/콤팩트_디스크" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a></li>
+<li>포맷: <a href="../Page/콤팩트_디스크.md" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a></li>
 <li>발매일자: 2011년 1월 18일</li>
 <li>레이블: <a href="../Page/유니버설_뮤직_그룹.md" title="wikilink">유니버설 뮤직 그룹</a></li>
 </ul></td>
@@ -80,7 +80,7 @@
 <td><p>2010</p></td>
 <td><p><strong><em><a href="https://ko.wikipedia.org/wiki/Draw_G&#39;s_First_Breath" title="wikilink">Draw G's First Breath</a></em></strong></p>
 <ul>
-<li>포맷: <a href="https://ko.wikipedia.org/wiki/콤팩트_디스크" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a></li>
+<li>포맷: <a href="../Page/콤팩트_디스크.md" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a></li>
 <li>발매일자: 2010년 7월 14일</li>
 <li>레이블: <a href="../Page/유니버설_뮤직_그룹.md" title="wikilink">유니버설 뮤직 그룹</a></li>
 </ul></td>
@@ -96,7 +96,7 @@
 </tr>
 <tr class="odd">
 <td><p>2011</p></td>
-<td><p><strong><em><a href="https://ko.wikipedia.org/wiki/Top_Girl" title="wikilink">Top Girl</a></em></strong></p>
+<td><p><strong><em><a href="../Page/Top_Girl.md" title="wikilink">Top Girl</a></em></strong></p>
 <ul>
 <li>포맷: CD, 디지털 다운로드</li>
 <li>발매일자: 2011년 8월 23일</li>
@@ -168,17 +168,17 @@
 <td style="text-align: left;"><p><strong>1집</strong></p></td>
 <td style="text-align: left;"><p>《<strong><a href="https://ko.wikipedia.org/wiki/애인이_생기면_하고_싶은_일" title="wikilink">애인이 생기면 하고 싶은 일</a></strong>》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2010년" title="wikilink">2010년</a> <a href="https://ko.wikipedia.org/wiki/7월_5일" title="wikilink">7월 5일</a></li>
+<li>발매일 : <a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/7월_5일.md" title="wikilink">7월 5일</a></li>
 </ul></td>
 <td style="text-align: left;"><ol>
-<li><strong>애인이 생기면 하고 싶은 일 (With <a href="https://ko.wikipedia.org/wiki/비_(가수)" title="wikilink">비</a>)</strong></li>
+<li><strong>애인이 생기면 하고 싶은 일 (With <a href="../Page/비_(가수).md" title="wikilink">비</a>)</strong></li>
 </ol></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p><strong>2집</strong></p></td>
 <td style="text-align: left;"><p>《<strong><a href="https://ko.wikipedia.org/wiki/처음_뵙겠습니다" title="wikilink">처음 뵙겠습니다</a></strong>》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2011년" title="wikilink">2011년</a> <a href="https://ko.wikipedia.org/wiki/1월_11일" title="wikilink">1월 11일</a></li>
+<li>발매일 : <a href="../Page/2011년.md" title="wikilink">2011년</a> <a href="../Page/1월_11일.md" title="wikilink">1월 11일</a></li>
 </ul></td>
 <td style="text-align: left;"><ol>
 <li><strong>처음 뵙겠습니다 (With <a href="https://ko.wikipedia.org/wiki/휘성" title="wikilink">휘성</a>)</strong></li>
@@ -188,7 +188,7 @@
 <td style="text-align: left;"><p><strong>3집</strong></p></td>
 <td style="text-align: left;"><p>《<strong><a href="https://ko.wikipedia.org/wiki/예쁜_속옷" title="wikilink">예쁜 속옷</a></strong>》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2014년" title="wikilink">2014년</a> <a href="https://ko.wikipedia.org/wiki/5월_12일" title="wikilink">5월 12일</a></li>
+<li>발매일 : <a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/5월_12일.md" title="wikilink">5월 12일</a></li>
 </ul></td>
 <td style="text-align: left;"><ol>
 <li><strong>예쁜 속옷</strong></li>
@@ -212,7 +212,7 @@
 <td style="text-align: left;"><p><strong>싱글</strong></p></td>
 <td style="text-align: left;"><p>《<strong><a href="https://ko.wikipedia.org/wiki/Group_Of_20" title="wikilink">Group Of 20</a></strong>》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2010년" title="wikilink">2010년</a> <a href="https://ko.wikipedia.org/wiki/10월_15일" title="wikilink">10월 15일</a></li>
+<li>발매일 : <a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/10월_15일.md" title="wikilink">10월 15일</a></li>
 </ul></td>
 <td style="text-align: left;"><ol>
 <li><strong>Let`s Go (Korean Ver.)</strong></li>
@@ -224,7 +224,7 @@
 <td style="text-align: left;"><p><strong>싱글</strong></p></td>
 <td style="text-align: left;"><p>《<strong><a href="https://ko.wikipedia.org/wiki/Together_Forever_Vol.1" title="wikilink">Together Forever Vol.1</a></strong>》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2010년" title="wikilink">2010년</a> <a href="https://ko.wikipedia.org/wiki/11월_10일" title="wikilink">11월 10일</a></li>
+<li>발매일 : <a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/11월_10일.md" title="wikilink">11월 10일</a></li>
 </ul></td>
 <td style="text-align: left;"><ol>
 <li><strong>Say You Love Me</strong></li>
@@ -237,7 +237,7 @@
 <td style="text-align: left;"><p><strong>싱글</strong></p></td>
 <td style="text-align: left;"><p>《<strong><a href="https://ko.wikipedia.org/wiki/Count_On_Me" title="wikilink">Count On Me</a></strong>》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2011년" title="wikilink">2011년</a> <a href="https://ko.wikipedia.org/wiki/5월_12일" title="wikilink">5월 12일</a></li>
+<li>발매일 : <a href="../Page/2011년.md" title="wikilink">2011년</a> <a href="../Page/5월_12일.md" title="wikilink">5월 12일</a></li>
 </ul></td>
 <td style="text-align: left;"><ol>
 <li><strong>Count On Me</strong></li>
@@ -250,7 +250,7 @@
 <td style="text-align: left;"><p><strong>싱글</strong></p></td>
 <td style="text-align: left;"><p>《<strong><a href="https://ko.wikipedia.org/wiki/Fly_So_High" title="wikilink">Fly So High</a></strong>》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2011년" title="wikilink">2011년</a> <a href="https://ko.wikipedia.org/wiki/7월_20일" title="wikilink">7월 20일</a></li>
+<li>발매일 : <a href="../Page/2011년.md" title="wikilink">2011년</a> <a href="../Page/7월_20일.md" title="wikilink">7월 20일</a></li>
 </ul></td>
 <td style="text-align: left;"><ol>
 <li><strong>Fly So High</strong></li>
@@ -260,7 +260,7 @@
 <td style="text-align: left;"><p><strong>싱글</strong></p></td>
 <td style="text-align: left;"><p>《<strong><a href="https://ko.wikipedia.org/wiki/신사동호랭이_프로젝트앨범_Part_5" title="wikilink">신사동호랭이 프로젝트앨범 Part 5</a></strong>》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2012년" title="wikilink">2012년</a> <a href="https://ko.wikipedia.org/wiki/11월_9일" title="wikilink">11월 9일</a></li>
+<li>발매일 : <a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/11월_9일.md" title="wikilink">11월 9일</a></li>
 </ul></td>
 <td style="text-align: left;"><ol>
 <li><strong>그만해요</strong></li>
@@ -270,7 +270,7 @@
 <td style="text-align: left;"><p><strong>싱글</strong></p></td>
 <td style="text-align: left;"><p>《<strong><a href="https://ko.wikipedia.org/wiki/DOKKUN_Project_Part_2" title="wikilink">DOKKUN Project Part 2</a></strong>》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2012년" title="wikilink">2012년</a> <a href="https://ko.wikipedia.org/wiki/12월_13일" title="wikilink">12월 13일</a></li>
+<li>발매일 : <a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/12월_13일.md" title="wikilink">12월 13일</a></li>
 </ul></td>
 <td style="text-align: left;"><ol>
 <li><strong>Beautiful Day</strong></li>
@@ -281,7 +281,7 @@
 <td style="text-align: left;"><p><strong>컴필레이션</strong></p></td>
 <td style="text-align: left;"><p>《<strong><a href="https://ko.wikipedia.org/wiki/Hitman_Project_:_A_Tribute_To_The_Hitman,_David_Foster" title="wikilink">Hitman Project : A Tribute To The Hitman, David Foster</a></strong>》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2013년" title="wikilink">2013년</a> <a href="https://ko.wikipedia.org/wiki/12월_9일" title="wikilink">12월 9일</a></li>
+<li>발매일 : <a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/12월_9일.md" title="wikilink">12월 9일</a></li>
 </ul></td>
 <td style="text-align: left;"><ol>
 <li><strong>Mornin` (일요일아침)</strong></li>
@@ -318,9 +318,9 @@
 <tbody>
 <tr class="odd">
 <td style="text-align: left;"><p><strong>OST</strong></p></td>
-<td style="text-align: left;"><p>《<strong><a href="https://ko.wikipedia.org/wiki/장난스런_키스_(드라마)" title="wikilink">장난스런 키스</a> OST Part.1</strong>》</p>
+<td style="text-align: left;"><p>《<strong><a href="../Page/장난스런_키스_(드라마).md" title="wikilink">장난스런 키스</a> OST Part.1</strong>》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2010년" title="wikilink">2010년</a> <a href="https://ko.wikipedia.org/wiki/9월_1일" title="wikilink">9월 1일</a></li>
+<li>발매일 : <a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/9월_1일.md" title="wikilink">9월 1일</a></li>
 </ul></td>
 <td style="text-align: left;"><ol>
 <li><strong>키스해줄래</strong></li>
@@ -331,7 +331,7 @@
 <td style="text-align: left;"><p><strong>OST</strong></p></td>
 <td style="text-align: left;"><p>《<strong><a href="../Page/최고의_사랑.md" title="wikilink">최고의 사랑</a> OST Part.2</strong>》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2011년" title="wikilink">2011년</a> <a href="https://ko.wikipedia.org/wiki/5월_11일" title="wikilink">5월 11일</a></li>
+<li>발매일 : <a href="../Page/2011년.md" title="wikilink">2011년</a> <a href="../Page/5월_11일.md" title="wikilink">5월 11일</a></li>
 </ul></td>
 <td style="text-align: left;"><ol>
 <li><strong>내 사람이라서</strong></li>
@@ -342,7 +342,7 @@
 <td style="text-align: left;"><p><strong>OST</strong></p></td>
 <td style="text-align: left;"><p>《<strong>2012 희망로드 대장정 OST Part.1</strong>》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2012년" title="wikilink">2012년</a> <a href="https://ko.wikipedia.org/wiki/7월_9일" title="wikilink">7월 9일</a></li>
+<li>발매일 : <a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/7월_9일.md" title="wikilink">7월 9일</a></li>
 </ul></td>
 <td style="text-align: left;"><ol>
 <li><strong>Be Alright</strong></li>
@@ -350,9 +350,9 @@
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p><strong>OST</strong></p></td>
-<td style="text-align: left;"><p>《<strong><a href="https://ko.wikipedia.org/wiki/천_번째_남자" title="wikilink">천 번째 남자</a> OST Part.3</strong>》</p>
+<td style="text-align: left;"><p>《<strong><a href="../Page/천_번째_남자.md" title="wikilink">천 번째 남자</a> OST Part.3</strong>》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2012년" title="wikilink">2012년</a> <a href="https://ko.wikipedia.org/wiki/8월_30일" title="wikilink">8월 30일</a></li>
+<li>발매일 : <a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/8월_30일.md" title="wikilink">8월 30일</a></li>
 </ul></td>
 <td style="text-align: left;"><ol>
 <li><strong>Tell Me Now</strong></li>
@@ -363,7 +363,7 @@
 <td style="text-align: left;"><p><strong>OST</strong></p></td>
 <td style="text-align: left;"><p>《<strong>짝 OST Part.1</strong>》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2013년" title="wikilink">2013년</a> <a href="https://ko.wikipedia.org/wiki/7월_3일" title="wikilink">7월 3일</a></li>
+<li>발매일 : <a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/7월_3일.md" title="wikilink">7월 3일</a></li>
 </ul></td>
 <td style="text-align: left;"><ol>
 <li><strong>Love &amp; Slow</strong></li>
@@ -374,7 +374,7 @@
 <td style="text-align: left;"><p><strong>OST</strong></p></td>
 <td style="text-align: left;"><p>《<strong>러브포텐-순정의 시대 OST Part 3</strong>》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2013년" title="wikilink">2013년</a> <a href="https://ko.wikipedia.org/wiki/12월_6일" title="wikilink">12월 6일</a></li>
+<li>발매일 : <a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/12월_6일.md" title="wikilink">12월 6일</a></li>
 </ul></td>
 <td style="text-align: left;"><ol>
 <li><strong>Drama (Feat. <a href="../Page/딘딘.md" title="wikilink">딘딘</a>)</strong></li>
@@ -385,7 +385,7 @@
 <td style="text-align: left;"><p><strong>OST</strong></p></td>
 <td style="text-align: left;"><p>《<strong><a href="../Page/야경꾼_일지.md" title="wikilink">야경꾼 일지</a> OST Part 5</strong>》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2014년" title="wikilink">2014년</a> <a href="https://ko.wikipedia.org/wiki/10월_13일" title="wikilink">10월 13일</a></li>
+<li>발매일 : <a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/10월_13일.md" title="wikilink">10월 13일</a></li>
 </ul></td>
 <td style="text-align: left;"><ol>
 <li><strong>비밀</strong></li>
@@ -396,7 +396,7 @@
 <td style="text-align: left;"><p><strong>OST</strong></p></td>
 <td style="text-align: left;"><p>《<strong><a href="https://ko.wikipedia.org/wiki/밤을_걷는_선비" title="wikilink">밤을 걷는 선비</a> OST Part 4</strong>》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2015년" title="wikilink">2015년</a> <a href="https://ko.wikipedia.org/wiki/8월_20일" title="wikilink">8월 20일</a></li>
+<li>발매일 : <a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/8월_20일.md" title="wikilink">8월 20일</a></li>
 </ul></td>
 <td style="text-align: left;"><ol>
 <li><strong>Don`t Cry</strong></li>
@@ -408,19 +408,19 @@
 
 ## 뮤직비디오
 
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [2PM](https://ko.wikipedia.org/wiki/2PM "wikilink") - 10점 만점의 10점
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") G.NA - 꺼져줄게 잘 살아
+  - [2008년](../Page/2008년.md "wikilink") [2PM](https://ko.wikipedia.org/wiki/2PM "wikilink") - 10점 만점의 10점
+  - [2010년](../Page/2010년.md "wikilink") G.NA - 꺼져줄게 잘 살아
   - 2010년 G.NA, [현아](../Page/현아.md "wikilink") - Say You Love Me
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") G.NA - Black & White
+  - [2011년](../Page/2011년.md "wikilink") G.NA - Black & White
   - 2011년 G.NA - 벌써 보고 싶어
   - 2011년 [임정희](https://ko.wikipedia.org/wiki/임정희 "wikilink") - Golden Lady
   - 2011년 G.NA, [이기찬](../Page/이기찬_\(가수\).md "wikilink") - Count On Me
   - 2011년 G.NA - Top Girl
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") G.NA - 2HOT
+  - [2012년](../Page/2012년.md "wikilink") G.NA - 2HOT
   - 2012년 G.NA, 산체스 - Beautiful Day
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") G.NA - Oops\!
+  - [2013년](../Page/2013년.md "wikilink") G.NA - Oops\!
   - 2013년 G.NA - 같은 생각
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") G.NA - 예쁜 속옷
+  - [2014년](../Page/2014년.md "wikilink") G.NA - 예쁜 속옷
 
 ## 각주
 

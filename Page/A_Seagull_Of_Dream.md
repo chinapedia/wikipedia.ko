@@ -24,6 +24,6 @@
 ## 특이사항
 
   - 발매 7일만에 24만 3천여장이 팔려나가 한국 음반 산업 협회 2월 음반판매량 1위를 기록
-  - 총판매량은 561,614장으로써 [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") 전체 여자솔로가수 음반판매량 1위를 기록
+  - 총판매량은 561,614장으로써 [1999년](../Page/1999년.md "wikilink") 전체 여자솔로가수 음반판매량 1위를 기록
 
 [분류:김현정의 음반](https://ko.wikipedia.org/wiki/분류:김현정의_음반 "wikilink") [분류:대한민국의 음반](https://ko.wikipedia.org/wiki/분류:대한민국의_음반 "wikilink") [분류:팝 록 음반](https://ko.wikipedia.org/wiki/분류:팝_록_음반 "wikilink") [분류:댄스 팝 음반](https://ko.wikipedia.org/wiki/분류:댄스_팝_음반 "wikilink") [분류:1999년 음반](https://ko.wikipedia.org/wiki/분류:1999년_음반 "wikilink")

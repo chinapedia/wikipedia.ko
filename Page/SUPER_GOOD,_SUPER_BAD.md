@@ -1,12 +1,12 @@
 > This article is converted from Wikipedia: [SUPER GOOD, SUPER BAD](https://ko.wikipedia.org/wiki/SUPER_GOOD,_SUPER_BAD).
 
 
-《**SUPER GOOD, SUPER BAD**》는 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [1월 26일에](https://ko.wikipedia.org/wiki/1월_26일 "wikilink") 발매된 [야마시타 토모히사의](../Page/야마시타_토모히사.md "wikilink") 첫 번째 정규 앨범이다. [한국에서는](https://ko.wikipedia.org/wiki/대한민국 "wikilink") [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [3월 2일](https://ko.wikipedia.org/wiki/3월_2일 "wikilink") 발매를 되었다.\[1\]\[2\] 이 앨범 발매를 계기로, 야마시타 토모히사가 [한국에](https://ko.wikipedia.org/wiki/대한민국 "wikilink") 공식적으로 첫 내한하였으며, [서울](https://ko.wikipedia.org/wiki/서울 "wikilink") KBS 88체육관에서 첫 단독 콘서트를 하였다.\[3\]
+《**SUPER GOOD, SUPER BAD**》는 [2011년](../Page/2011년.md "wikilink") [1월 26일에](../Page/1월_26일.md "wikilink") 발매된 [야마시타 토모히사의](../Page/야마시타_토모히사.md "wikilink") 첫 번째 정규 앨범이다. [한국에서는](../Page/대한민국.md "wikilink") [2011년](../Page/2011년.md "wikilink") [3월 2일](../Page/3월_2일.md "wikilink") 발매를 되었다.\[1\]\[2\] 이 앨범 발매를 계기로, 야마시타 토모히사가 [한국에](../Page/대한민국.md "wikilink") 공식적으로 첫 내한하였으며, [서울](https://ko.wikipedia.org/wiki/서울 "wikilink") KBS 88체육관에서 첫 단독 콘서트를 하였다.\[3\]
 
 ## 앨범 설명
 
   - 앨범명 : **SUPER GOOD, SUPER BAD**
-  - 발매일 : [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [1월 26일](https://ko.wikipedia.org/wiki/1월_26일 "wikilink")
+  - 발매일 : [2011년](../Page/2011년.md "wikilink") [1월 26일](../Page/1월_26일.md "wikilink")
 
 <!-- end list -->
 

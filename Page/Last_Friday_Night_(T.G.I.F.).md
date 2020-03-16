@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Last Friday Night \(T.G.I.F.\)](https://ko.wikipedia.org/wiki/Last_Friday_Night_\(T.G.I.F.\)).
 
 
-"**Last Friday Night (T.G.I.F.)**"는 미국의 가수 [케이티 페리의](https://ko.wikipedia.org/wiki/케이티_페리 "wikilink") 노래이다. 이 노래는 [케이티 페리의](https://ko.wikipedia.org/wiki/케이티_페리 "wikilink") 정규 앨범 *[Teenage Dream](https://ko.wikipedia.org/wiki/Teenage_Dream "wikilink")*의 다섯 번째 싱글로, [빌보드 핫 100에서](../Page/빌보드_핫_100.md "wikilink") 1위를 하며 한 앨범에서 다섯 장의 싱글이 1위를 하는 대기록을 세우게된다. 이 기록은 [마이클 잭슨의](https://ko.wikipedia.org/wiki/마이클_잭슨 "wikilink") *[Bad](https://ko.wikipedia.org/wiki/Bad "wikilink")* 이후 20여년만이고, 여성 아티스트로서는 최초의 기록이다.
+"**Last Friday Night (T.G.I.F.)**"는 미국의 가수 [케이티 페리의](../Page/케이티_페리.md "wikilink") 노래이다. 이 노래는 [케이티 페리의](../Page/케이티_페리.md "wikilink") 정규 앨범 *[Teenage Dream](https://ko.wikipedia.org/wiki/Teenage_Dream "wikilink")*의 다섯 번째 싱글로, [빌보드 핫 100에서](../Page/빌보드_핫_100.md "wikilink") 1위를 하며 한 앨범에서 다섯 장의 싱글이 1위를 하는 대기록을 세우게된다. 이 기록은 [마이클 잭슨의](https://ko.wikipedia.org/wiki/마이클_잭슨 "wikilink") *[Bad](https://ko.wikipedia.org/wiki/Bad "wikilink")* 이후 20여년만이고, 여성 아티스트로서는 최초의 기록이다.
 
 ## 차트
 
@@ -39,7 +39,7 @@
 <td><p>56</p></td>
 </tr>
 <tr class="odd">
-<td><p>한국(<a href="https://ko.wikipedia.org/wiki/가온_차트" title="wikilink">가온 차트</a>) (International Chart)[6]</p></td>
+<td><p>한국(<a href="../Page/가온_차트.md" title="wikilink">가온 차트</a>) (International Chart)[6]</p></td>
 <td><p>7</p></td>
 </tr>
 <tr class="even">

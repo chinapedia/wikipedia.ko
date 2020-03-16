@@ -6,7 +6,7 @@
 ## 개요
 
   - 전작 《[color](https://ko.wikipedia.org/wiki/color_\(NEWS의_음반\) "wikilink")》 발매 이후 약 1년 10개월 만의 음반.
-  - 〈[사랑의 ABO](https://ko.wikipedia.org/wiki/고이노ABO "wikilink")〉, 〈[벚꽃걸](https://ko.wikipedia.org/wiki/사쿠라걸 "wikilink")〉을 비롯해 [카토 시게아키](https://ko.wikipedia.org/wiki/카토_시게아키 "wikilink") 주연 드라마 [TV 도쿄](../Page/TV_도쿄.md "wikilink") 《[트러블맨](https://ko.wikipedia.org/wiki/트러블맨 "wikilink")》의 주제가 〈**BE FUNKY\!**〉도 수록되었다.
+  - 〈[사랑의 ABO](https://ko.wikipedia.org/wiki/고이노ABO "wikilink")〉, 〈[벚꽃걸](../Page/사쿠라걸.md "wikilink")〉을 비롯해 [카토 시게아키](../Page/카토_시게아키.md "wikilink") 주연 드라마 [TV 도쿄](../Page/TV_도쿄.md "wikilink") 《[트러블맨](../Page/트러블맨.md "wikilink")》의 주제가 〈**BE FUNKY\!**〉도 수록되었다.
   - 초회반에는 16페이지에 이르는 소책자와 13곡, DVD가 봉입되어 있다.
   - 통상반에는 24페이지에 이르는 소책자와 보너스 트랙 포함 15곡이 봉입되어 있다.
   - 본작의 발매일은 NEWS의 결성 7주년이기도 했다.
@@ -99,7 +99,7 @@
 14. **[Share](https://ko.wikipedia.org/wiki/고이노ABO "wikilink")**
       -
         작사·작곡: NEWS, 편곡: mugen
-15. **[Forever](https://ko.wikipedia.org/wiki/Color_\(NEWS의_음반\) "wikilink") (Unplugged Ver.)**
+15. **[Forever](../Page/Color_\(NEWS의_음반\).md "wikilink") (Unplugged Ver.)**
 
 ## 외부 링크
 

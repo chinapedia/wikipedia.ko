@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
 
 
-**모데나 FC**(Modena Football Club SpA)는 [1912년](https://ko.wikipedia.org/wiki/1912년 "wikilink")에 창단된 [이탈리아](https://ko.wikipedia.org/wiki/이탈리아 "wikilink")의 옛 축구 클럽으로, [에밀리아로마냐주](../Page/에밀리아로마냐주.md "wikilink") [모데나](../Page/모데나.md "wikilink")를 연고지로 한다. 팀을 상징하는 색은 노란색과 파란색이다.
+**모데나 FC**(Modena Football Club SpA)는 [1912년](../Page/1912년.md "wikilink")에 창단된 [이탈리아](../Page/이탈리아.md "wikilink")의 옛 축구 클럽으로, [에밀리아로마냐주](../Page/에밀리아로마냐주.md "wikilink") [모데나](../Page/모데나.md "wikilink")를 연고지로 한다. 팀을 상징하는 색은 노란색과 파란색이다.
 
 대부분은 세리에 B에서 보냈으며, 2017년 11월 5일 파산을 선언하면서, 그 다음 날 해산되었다. 2018년 모데나 FC 2018이라는 이름으로 재창단 되었으며, [세리에 D에서](https://ko.wikipedia.org/wiki/세리에_D "wikilink") 시작하고 있다.
 
@@ -16,7 +16,7 @@
 
 ## 출신 선수
 
-  - [주세페 바레시](https://ko.wikipedia.org/wiki/주세페_바레시 "wikilink")
+  - [주세페 바레시](../Page/주세페_바레시.md "wikilink")
 
   - [루카 토니](../Page/루카_토니.md "wikilink")
 

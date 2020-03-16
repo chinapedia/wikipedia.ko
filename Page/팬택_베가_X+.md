@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  X+](https://ko.wikipedia.org/wiki/__X+).
 
 
-**팬택 스카이 베가 X+**()는 [팬택](../Page/팬택.md "wikilink")이 2011년 6월 23일에 출시한 보급형 [안드로이드 (운영 체제)](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")이다.\[1\] 기존 [LG유플러스](https://ko.wikipedia.org/wiki/LG유플러스 "wikilink")용 [스카이 베가 X](https://ko.wikipedia.org/wiki/스카이_베가_엑스프레스 "wikilink")(IM-A720L)의 변형 기종으로서, 기존 [스카이 베가 X를](https://ko.wikipedia.org/wiki/스카이_베가_X "wikilink") 바탕으로 외관과 사용자 환경을 새롭게 디자인한 모델이다\[2\].
+**팬택 스카이 베가 X+**()는 [팬택](../Page/팬택.md "wikilink")이 2011년 6월 23일에 출시한 보급형 [안드로이드 (운영 체제)](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.\[1\] 기존 [LG유플러스](../Page/LG유플러스.md "wikilink")용 [스카이 베가 X](https://ko.wikipedia.org/wiki/스카이_베가_엑스프레스 "wikilink")(IM-A720L)의 변형 기종으로서, 기존 [스카이 베가 X를](https://ko.wikipedia.org/wiki/스카이_베가_X "wikilink") 바탕으로 외관과 사용자 환경을 새롭게 디자인한 모델이다\[2\].
 
 ## 운영 체제/소프트웨어
 

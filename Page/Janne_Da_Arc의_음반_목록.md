@@ -216,7 +216,7 @@
 6.  Love is Here
 7.  月光花
 8.  ダイヤモンドヴァージン
-9.  **[振り向けば･･･(뒤돌아보면)](https://ko.wikipedia.org/wiki/후리무케바 "wikilink")**
+9.  **[振り向けば･･･(뒤돌아보면)](../Page/후리무케바.md "wikilink")**
 10. Destination
 11. HEAVEN
 12. **メビウス(뫼비우스)**

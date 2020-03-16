@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [DeSmuME](https://ko.wikipedia.org/wiki/DeSmuME).
 
 
-**DeSmuME** (구 **YopYop DS**) 는 리눅스, 맥 OS X 그리고 마이크로소프트 윈도에서 작동하는 [오픈 소스](https://ko.wikipedia.org/wiki/오픈_소스 "wikilink") [닌텐도 DS](https://ko.wikipedia.org/wiki/닌텐도_DS "wikilink") 에뮬레이터이다. 이름은 에뮬레이터(Emulator)를 줄인 emu와 DS, ME에서 파생되었다.
+**DeSmuME** (구 **YopYop DS**) 는 리눅스, 맥 OS X 그리고 마이크로소프트 윈도에서 작동하는 [오픈 소스](../Page/오픈_소스.md "wikilink") [닌텐도 DS](../Page/닌텐도_DS.md "wikilink") 에뮬레이터이다. 이름은 에뮬레이터(Emulator)를 줄인 emu와 DS, ME에서 파생되었다.
 
 ## 역사
 
 ### 기존의 DeSmuME
 
-기존의 에뮬레이터 그 자체는 [프랑스](../Page/프랑스.md "wikilink") (또한 영어와 다른 언어로 유저 번역)에서 만들어졌다. 많은 홈브류 닌텐도 DS [롬](https://ko.wikipedia.org/wiki/고정_기억_장치 "wikilink") 데모들 뿐만 아니라 어느정도의 무선 [멀티 부팅](../Page/멀티_부팅.md "wikilink") 데모 롬들도 지원했다.
+기존의 에뮬레이터 그 자체는 [프랑스](../Page/프랑스.md "wikilink") (또한 영어와 다른 언어로 유저 번역)에서 만들어졌다. 많은 홈브류 닌텐도 DS [롬](../Page/고정_기억_장치.md "wikilink") 데모들 뿐만 아니라 어느정도의 무선 [멀티 부팅](../Page/멀티_부팅.md "wikilink") 데모 롬들도 지원했다.
 
 YopYop156은 프랑스에서 에뮬레이션에 관한 법을 개정하므로 인해 DeSmuME 0.3.3 버전에서 개발을 중단하였다. 그러나, 그 소스 코드는 배포되고 있다.
 

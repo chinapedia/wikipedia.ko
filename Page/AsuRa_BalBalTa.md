@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [AsuRa BalBalTa](https://ko.wikipedia.org/wiki/AsuRa_BalBalTa).
 
 
-《**AsuRa BalBalTa**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 힙합 듀오 [리쌍](https://ko.wikipedia.org/wiki/리쌍 "wikilink")의 정규 7집 음반이다. [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [8월 16일](https://ko.wikipedia.org/wiki/8월_16일 "wikilink") 〈TV를 껐네〉가 선공개되었다. 정식 발매일은 [8월 29일이며](https://ko.wikipedia.org/wiki/8월_29일 "wikilink"), 온라인에는 [8월 25일에](https://ko.wikipedia.org/wiki/8월_25일 "wikilink") 앨범 전곡이 선공개 되었다. 선공개한 〈TV를 껐네〉가 1위를 달성한 것에 이어, 정규 음반을 발매하자마자 타이틀곡 〈나란 놈은 답은 너다〉가 각종 음악 차트의 1위를 차지하고 10위 곡까지 음반 수록곡으로 음원 차트 '올킬'을 달성했다.\[1\]
+《**AsuRa BalBalTa**》는 [대한민국](../Page/대한민국.md "wikilink")의 힙합 듀오 [리쌍](../Page/리쌍.md "wikilink")의 정규 7집 음반이다. [2011년](../Page/2011년.md "wikilink") [8월 16일](../Page/8월_16일.md "wikilink") 〈TV를 껐네〉가 선공개되었다. 정식 발매일은 [8월 29일이며](../Page/8월_29일.md "wikilink"), 온라인에는 [8월 25일에](../Page/8월_25일.md "wikilink") 앨범 전곡이 선공개 되었다. 선공개한 〈TV를 껐네〉가 1위를 달성한 것에 이어, 정규 음반을 발매하자마자 타이틀곡 〈나란 놈은 답은 너다〉가 각종 음악 차트의 1위를 차지하고 10위 곡까지 음반 수록곡으로 음원 차트 '올킬'을 달성했다.\[1\]
 
 ## 수록곡
 

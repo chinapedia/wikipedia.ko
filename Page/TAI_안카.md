@@ -9,7 +9,7 @@
 
 ## 같이 보기
 
-  - [한국형 중고도 무인기 개발사업](https://ko.wikipedia.org/wiki/한국형_중고도_무인기_개발사업 "wikilink")
+  - [한국형 중고도 무인기 개발사업](../Page/한국형_중고도_무인기_개발사업.md "wikilink")
   - [성층권 비행선](../Page/성층권_비행선.md "wikilink")
 
 ## 외부 링크

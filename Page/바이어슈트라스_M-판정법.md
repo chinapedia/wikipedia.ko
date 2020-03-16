@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ M-](https://ko.wikipedia.org/wiki/_M-).
 
 
-**바이어슈트라스 M-판정법**()은 [함수항급수](https://ko.wikipedia.org/wiki/함수항급수 "wikilink")의 [절대균등수렴](https://ko.wikipedia.org/wiki/절대균등수렴 "wikilink") 여부에 대한 판정법이다. [멱급수](https://ko.wikipedia.org/wiki/멱급수 "wikilink")를 다룰 때 유용하다.\[1\]
+**바이어슈트라스 M-판정법**()은 [함수항급수](https://ko.wikipedia.org/wiki/함수항급수 "wikilink")의 [절대균등수렴](https://ko.wikipedia.org/wiki/절대균등수렴 "wikilink") 여부에 대한 판정법이다. [멱급수](../Page/멱급수.md "wikilink")를 다룰 때 유용하다.\[1\]
 
-[카를 바이어슈트라스의](https://ko.wikipedia.org/wiki/카를_바이어슈트라스 "wikilink") 이름이 붙어 있다.
+[카를 바이어슈트라스의](../Page/카를_바이어슈트라스.md "wikilink") 이름이 붙어 있다.
 
 ## 내용
 
@@ -14,7 +14,7 @@
 
 급수 \(\sum_{n=1}^{\infty} f_n(x)\)는 \(D\)에서 절대균등수렴한다. (즉, 항별로 절댓값을 취한 급수가 균등수렴한다. 이는 동시에 절대수렴과 균등수렴인 것보다 강한 조건임에 주의해야 한다.)
 
-바이어슈트라스 M-판정법은, 함수해석학적으로는 [균등 노름의](https://ko.wikipedia.org/wiki/균등_노름 "wikilink") 급수가 수렴하면, 함수의 급수가 절대균등수렴한다고 서술된다. 또한, 임의의 [바나흐 공간을](https://ko.wikipedia.org/wiki/바나흐_공간 "wikilink") 공역으로 하는 함수들의 급수에게도 적용된다.
+바이어슈트라스 M-판정법은, 함수해석학적으로는 [균등 노름의](https://ko.wikipedia.org/wiki/균등_노름 "wikilink") 급수가 수렴하면, 함수의 급수가 절대균등수렴한다고 서술된다. 또한, 임의의 [바나흐 공간을](../Page/바나흐_공간.md "wikilink") 공역으로 하는 함수들의 급수에게도 적용된다.
 
 ## 증명
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FIBA   ](https://ko.wikipedia.org/wiki/FIBA___).
 
 
-**아시아 남자 농구 선수권 대회**()은 농구 분야의 국제 기구인 [FIBA에](https://ko.wikipedia.org/wiki/국제_농구_연맹 "wikilink") 가맹한 아시아 농구 협회(연맹)의 남자 농구 국가대표팀이 참가하는 국제 [농구](https://ko.wikipedia.org/wiki/농구 "wikilink") 대회이다.
+**아시아 남자 농구 선수권 대회**()은 농구 분야의 국제 기구인 [FIBA에](../Page/국제_농구_연맹.md "wikilink") 가맹한 아시아 농구 협회(연맹)의 남자 농구 국가대표팀이 참가하는 국제 [농구](../Page/농구.md "wikilink") 대회이다.
 
 ## 역대 대회
 
@@ -37,7 +37,7 @@
 <td><p>1960<br />
 <em><a href="https://ko.wikipedia.org/wiki/1960년_ABC_챔피언십" title="wikilink">자세히</a></em></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/마닐라" title="wikilink">마닐라</a></p></td>
+<a href="../Page/마닐라.md" title="wikilink">마닐라</a></p></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>n/a</strong></p></td>
 <td></td>
@@ -57,7 +57,7 @@
 <td><p>1965<br />
 <em><a href="https://ko.wikipedia.org/wiki/1965년_ABC_챔피언십" title="wikilink">자세히</a></em></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/쿠알라룸푸르" title="wikilink">쿠알라룸푸르</a></p></td>
+<a href="../Page/쿠알라룸푸르.md" title="wikilink">쿠알라룸푸르</a></p></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>n/a</strong></p></td>
 <td></td>
@@ -67,7 +67,7 @@
 <td><p>1967<br />
 <em><a href="https://ko.wikipedia.org/wiki/1967년_ABC_챔피언십" title="wikilink">자세히</a></em></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울</a></p></td>
+<a href="../Page/서울특별시.md" title="wikilink">서울</a></p></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>n/a</strong></p></td>
 <td></td>
@@ -77,7 +77,7 @@
 <td><p>1969<br />
 <em><a href="https://ko.wikipedia.org/wiki/1969년_ABC_챔피언십" title="wikilink">자세히</a></em></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/방콕" title="wikilink">방콕</a></p></td>
+<a href="../Page/방콕.md" title="wikilink">방콕</a></p></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>n/a</strong></p></td>
 <td></td>
@@ -87,7 +87,7 @@
 <td><p>1971<br />
 <em><a href="https://ko.wikipedia.org/wiki/1971년_ABC_챔피언십" title="wikilink">자세히</a></em></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/도쿄도" title="wikilink">도쿄</a></p></td>
+<a href="../Page/도쿄도.md" title="wikilink">도쿄</a></p></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>n/a</strong></p></td>
 <td></td>
@@ -97,7 +97,7 @@
 <td><p>1973<br />
 <em><a href="https://ko.wikipedia.org/wiki/1973년_ABC_챔피언십" title="wikilink">자세히</a></em></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/마닐라" title="wikilink">마닐라</a></p></td>
+<a href="../Page/마닐라.md" title="wikilink">마닐라</a></p></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>n/a</strong></p></td>
 <td></td>
@@ -107,7 +107,7 @@
 <td><p>1975<br />
 <em><a href="https://ko.wikipedia.org/wiki/1975년_ABC_챔피언십" title="wikilink">자세히</a></em></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/방콕" title="wikilink">방콕</a></p></td>
+<a href="../Page/방콕.md" title="wikilink">방콕</a></p></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>n/a</strong></p></td>
 <td></td>
@@ -117,7 +117,7 @@
 <td><p>1977<br />
 <em><a href="https://ko.wikipedia.org/wiki/1977년_ABC_챔피언십" title="wikilink">자세히</a></em></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/쿠알라룸푸르" title="wikilink">쿠알라룸푸르</a></p></td>
+<a href="../Page/쿠알라룸푸르.md" title="wikilink">쿠알라룸푸르</a></p></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>n/a</strong></p></td>
 <td></td>
@@ -147,7 +147,7 @@
 <td><p>1983<br />
 <em><a href="https://ko.wikipedia.org/wiki/1983년_ABC_챔피언십" title="wikilink">자세히</a></em></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/홍콩" title="wikilink">홍콩</a></p></td>
+<a href="../Page/홍콩.md" title="wikilink">홍콩</a></p></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>95–71</strong></p></td>
 <td></td>
@@ -157,7 +157,7 @@
 <td><p>1985<br />
 <em><a href="https://ko.wikipedia.org/wiki/1985년_ABC_챔피언십" title="wikilink">자세히</a></em></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/쿠알라룸푸르" title="wikilink">쿠알라룸푸르</a></p></td>
+<a href="../Page/쿠알라룸푸르.md" title="wikilink">쿠알라룸푸르</a></p></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>n/a</strong></p></td>
 <td></td>
@@ -167,7 +167,7 @@
 <td><p>1987<br />
 <em><a href="https://ko.wikipedia.org/wiki/1987년_ABC_챔피언십" title="wikilink">자세히</a></em></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/방콕" title="wikilink">방콕</a></p></td>
+<a href="../Page/방콕.md" title="wikilink">방콕</a></p></td>
 <td><p><strong></strong></p></td>
 <td><p>'''86–79<br />
 <a href="https://ko.wikipedia.org/wiki/오버타임" title="wikilink">오버타임</a></p></td>
@@ -198,7 +198,7 @@
 <td><p>1993<br />
 <em><a href="https://ko.wikipedia.org/wiki/1993년_ABC_챔피언십" title="wikilink">자세히</a></em></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/자카르타" title="wikilink">자카르타</a></p></td>
+<a href="../Page/자카르타.md" title="wikilink">자카르타</a></p></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>93–72</strong></p></td>
 <td></td>
@@ -208,7 +208,7 @@
 <td><p>1995<br />
 <em><a href="https://ko.wikipedia.org/wiki/1995년_ABC_챔피언십" title="wikilink">자세히</a></em></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울</a></p></td>
+<a href="../Page/서울특별시.md" title="wikilink">서울</a></p></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>87–78</strong></p></td>
 <td></td>
@@ -218,7 +218,7 @@
 <td><p>1997<br />
 <em><a href="https://ko.wikipedia.org/wiki/1997년_ABC_챔피언십" title="wikilink">자세히</a></em></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/리야드" title="wikilink">리야드</a></p></td>
+<a href="../Page/리야드.md" title="wikilink">리야드</a></p></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>78–76</strong></p></td>
 <td></td>
@@ -258,7 +258,7 @@
 <td><p>2005<br />
 <em><a href="https://ko.wikipedia.org/wiki/2005년_FIBA_아시아_선수권_대회" title="wikilink">자세히</a></em></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/도하" title="wikilink">도하</a></p></td>
+<a href="../Page/도하.md" title="wikilink">도하</a></p></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>77–61</strong></p></td>
 <td></td>
@@ -286,7 +286,7 @@
 </tr>
 <tr class="odd">
 <td><p>2011<br />
-<em><a href="https://ko.wikipedia.org/wiki/2011년_FIBA_아시아_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<em><a href="../Page/2011년_FIBA_아시아_선수권_대회.md" title="wikilink">자세히</a></em></p></td>
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/우한_시" title="wikilink">우한</a></p></td>
 <td><p><strong></strong></p></td>
@@ -298,7 +298,7 @@
 <td><p>2013<br />
 <em><a href="https://ko.wikipedia.org/wiki/2013년_FIBA_아시아_선수권_대회" title="wikilink">자세히</a></em></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/마닐라" title="wikilink">마닐라</a></p></td>
+<a href="../Page/마닐라.md" title="wikilink">마닐라</a></p></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>85–71</strong></p></td>
 <td></td>
@@ -318,7 +318,7 @@
 <td><p>2017<br />
 <em><a href="https://ko.wikipedia.org/wiki/2017_FIBA_아시아_선수권_대회" title="wikilink">자세히</a></em></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/베이루트" title="wikilink">베이루트</a></p></td>
+<a href="../Page/베이루트.md" title="wikilink">베이루트</a></p></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>79–56</strong></p></td>
 <td></td>

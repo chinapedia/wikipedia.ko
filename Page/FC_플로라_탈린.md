@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
 
 
-**FC 플로라 탈린**(FC Flora Tallinn)은 [에스토니아](https://ko.wikipedia.org/wiki/에스토니아 "wikilink")의 축구 클럽으로, [탈린](https://ko.wikipedia.org/wiki/탈린 "wikilink")을 연고지로 한다. 2011 시즌에서 [메이스트릴리가](../Page/메이스트릴리가.md "wikilink")에 참가하고 있다. 이 클럽은 에스토니아에서 가장 훌륭한 클럽으로 에스토니아의 스타 플레이어인 마르트 품, 마렉 렘살루, 라그나르 클라반, 라이오 피로야 등을 배출하였다.
+**FC 플로라 탈린**(FC Flora Tallinn)은 [에스토니아](../Page/에스토니아.md "wikilink")의 축구 클럽으로, [탈린](../Page/탈린.md "wikilink")을 연고지로 한다. 2011 시즌에서 [메이스트릴리가](../Page/메이스트릴리가.md "wikilink")에 참가하고 있다. 이 클럽은 에스토니아에서 가장 훌륭한 클럽으로 에스토니아의 스타 플레이어인 마르트 품, 마렉 렘살루, 라그나르 클라반, 라이오 피로야 등을 배출하였다.
 
 ## 성적
 

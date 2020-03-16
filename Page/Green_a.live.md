@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Green a.live](https://ko.wikipedia.org/wiki/Green_a.live).
 
 
-〈**Green a.live**〉(그린 어 라이브)는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink") [YUI](https://ko.wikipedia.org/wiki/YUI "wikilink")의 20번째 메이저 싱글이다. 이 싱글은 2011년 10월 5일에 발매되었다. YUI 본인의 말에 따르면, [2011년 도호쿠 지방 태평양 해역 지진에서](https://ko.wikipedia.org/wiki/2011년_도호쿠_지방_태평양_해역_지진 "wikilink") 느꼈던 것들을 노래로 담았다고 한다. 이 싱글의 타이틀 곡인 Green a.live는 일본 모바일게임 회사 [Mobage](https://ko.wikipedia.org/wiki/Mobage "wikilink")의 CM송으로 사용되었다.
+〈**Green a.live**〉(그린 어 라이브)는 [일본](../Page/일본.md "wikilink") [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink") [YUI](https://ko.wikipedia.org/wiki/YUI "wikilink")의 20번째 메이저 싱글이다. 이 싱글은 2011년 10월 5일에 발매되었다. YUI 본인의 말에 따르면, [2011년 도호쿠 지방 태평양 해역 지진에서](https://ko.wikipedia.org/wiki/2011년_도호쿠_지방_태평양_해역_지진 "wikilink") 느꼈던 것들을 노래로 담았다고 한다. 이 싱글의 타이틀 곡인 Green a.live는 일본 모바일게임 회사 [Mobage](https://ko.wikipedia.org/wiki/Mobage "wikilink")의 CM송으로 사용되었다.
 
 ## 수록곡
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ACR ](https://ko.wikipedia.org/wiki/ACR_).
 
 
-**ACR 메시나**(Associazione Calcio Rinascita Messina SRL)는 [1900년](https://ko.wikipedia.org/wiki/1900년 "wikilink")에 창단된 [이탈리아](https://ko.wikipedia.org/wiki/이탈리아 "wikilink")의 축구 클럽으로, [시칠리아](https://ko.wikipedia.org/wiki/시칠리아 "wikilink") [메시나](../Page/메시나.md "wikilink")를 연고지로 한다. 현재 [레가 프로에서](https://ko.wikipedia.org/wiki/레가_프로 "wikilink") 활약하고 있다.
+**ACR 메시나**(Associazione Calcio Rinascita Messina SRL)는 [1900년](../Page/1900년.md "wikilink")에 창단된 [이탈리아](../Page/이탈리아.md "wikilink")의 축구 클럽으로, [시칠리아](https://ko.wikipedia.org/wiki/시칠리아 "wikilink") [메시나](../Page/메시나.md "wikilink")를 연고지로 한다. 현재 [레가 프로에서](https://ko.wikipedia.org/wiki/레가_프로 "wikilink") 활약하고 있다.
 
 2004-05 시즌에서 [세리에 A로](../Page/세리에_A.md "wikilink") 승격되었다. 2005-06 시즌에서 18위를 차지하였으며 당시에 터진 세리에 A 승부 조작 사건에 연루되었지만 징계를 면했다. 하지만 팀이 세리에 A에서 활약하는 동안 구단은 경영난에 빠졌고 2006-07 시즌에서 [세리에 B로](../Page/세리에_B.md "wikilink") 강등된다. 2007-08 시즌이 끝난 직후 팀이 재정난에 빠지면서 프로 축구 팀으로 인정되지 않았고 세리에 D로 강등된다.
 
@@ -9,7 +9,7 @@
 
   - [살바토레 스킬라치](../Page/살바토레_스킬라치.md "wikilink")
 
-  - [오가사와라 미쓰오](https://ko.wikipedia.org/wiki/오가사와라_미쓰오 "wikilink")
+  - [오가사와라 미쓰오](../Page/오가사와라_미쓰오.md "wikilink")
 
   - [야나기사와 아쓰시](../Page/야나기사와_아쓰시.md "wikilink")
 

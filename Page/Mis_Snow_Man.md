@@ -17,51 +17,51 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/후카사와_다쓰야" title="wikilink">후카사와 타츠야</a> (深澤辰哉)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1992년" title="wikilink">1992년</a> <a href="https://ko.wikipedia.org/wiki/5월_5일" title="wikilink">5월 5일</a> 출생</p></td>
+<td><p><a href="../Page/1992년.md" title="wikilink">1992년</a> <a href="../Page/5월_5일.md" title="wikilink">5월 5일</a> 출생</p></td>
 <td><p>퍼플</p></td>
 <td><p><a href="../Page/Snow_Man.md" title="wikilink">Snow Man</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/사쿠마_다이스케.md" title="wikilink">사쿠마 다이스케</a> (佐久間大介)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1992년" title="wikilink">1992년</a> <a href="https://ko.wikipedia.org/wiki/7월_5일" title="wikilink">7월 5일</a> 출생</p></td>
+<td><p><a href="../Page/1992년.md" title="wikilink">1992년</a> <a href="../Page/7월_5일.md" title="wikilink">7월 5일</a> 출생</p></td>
 <td><p>핑크</p></td>
 <td><p>Snow Man</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/와타나베_쇼타.md" title="wikilink">와타나베 쇼타</a> (渡辺翔太)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1992년" title="wikilink">1992년</a> <a href="https://ko.wikipedia.org/wiki/11월_5일" title="wikilink">11월 5일</a> 출생</p></td>
+<td><p><a href="../Page/1992년.md" title="wikilink">1992년</a> <a href="../Page/11월_5일.md" title="wikilink">11월 5일</a> 출생</p></td>
 <td><p>블루</p></td>
 <td><p>Snow Man</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/사나다_유마" title="wikilink">사나다 유마</a> (真田佑馬)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1992년" title="wikilink">1992년</a> <a href="https://ko.wikipedia.org/wiki/11월_21일" title="wikilink">11월 21일</a> 출생</p></td>
+<td><p><a href="../Page/사나다_유마.md" title="wikilink">사나다 유마</a> (真田佑馬)</p></td>
+<td><p><a href="../Page/1992년.md" title="wikilink">1992년</a> <a href="../Page/11월_21일.md" title="wikilink">11월 21일</a> 출생</p></td>
 <td><p>오렌지→화이트<br />
 (noon boyz: 레드)</p></td>
 <td><p>noon boyz</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/노자와_유키" title="wikilink">노자와 유키</a> (野澤祐樹)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1992년" title="wikilink">1992년</a> <a href="https://ko.wikipedia.org/wiki/12월_30일" title="wikilink">12월 30일</a> 출생</p></td>
+<td><p><a href="../Page/노자와_유키.md" title="wikilink">노자와 유키</a> (野澤祐樹)</p></td>
+<td><p><a href="../Page/1992년.md" title="wikilink">1992년</a> <a href="../Page/12월_30일.md" title="wikilink">12월 30일</a> 출생</p></td>
 <td><p>화이트→블랙<br />
 (noon boyz: 블루)</p></td>
 <td><p>noon boyz</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/미야다테_료타.md" title="wikilink">미야다테 료타</a> (宮舘涼太)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1993년" title="wikilink">1993년</a> <a href="https://ko.wikipedia.org/wiki/3월_25일" title="wikilink">3월 25일</a> 출생</p></td>
+<td><p><a href="../Page/1993년.md" title="wikilink">1993년</a> <a href="../Page/3월_25일.md" title="wikilink">3월 25일</a> 출생</p></td>
 <td><p>레드</p></td>
 <td><p>Snow Man</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/이와모토_히카루.md" title="wikilink">이와모토 히카루</a> (岩本照)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1993년" title="wikilink">1993년</a> <a href="https://ko.wikipedia.org/wiki/5월_17일" title="wikilink">5월 17일</a> 출생</p></td>
+<td><p><a href="../Page/1993년.md" title="wikilink">1993년</a> <a href="../Page/5월_17일.md" title="wikilink">5월 17일</a> 출생</p></td>
 <td><p>옐로우</p></td>
 <td><p>Snow Man</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/아베_료헤이.md" title="wikilink">아베 료헤이</a> (阿部亮平)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1993년" title="wikilink">1993년</a> <a href="https://ko.wikipedia.org/wiki/11월_27일" title="wikilink">11월 27일</a> 출생</p></td>
+<td><p><a href="../Page/1993년.md" title="wikilink">1993년</a> <a href="../Page/11월_27일.md" title="wikilink">11월 27일</a> 출생</p></td>
 <td><p>그린</p></td>
 <td><p>Snow Man</p></td>
 </tr>
@@ -75,7 +75,7 @@
 ## 개요
 
   - 멤버 전원이 쟈니즈 Jr.내 댄스 유닛 Jr.BOYS 출신이다.
-  - 2011년 10월부터, [사나다 유마와](https://ko.wikipedia.org/wiki/사나다_유마 "wikilink") [노자와 유키가](https://ko.wikipedia.org/wiki/노자와_유키 "wikilink"), 이이토모 청년대로서의 유닛 〈noon boyz〉로서 활동을 개시. 다른 멤버도 〈Snow Man〉으로서의 활동을 실시하고 있다.
+  - 2011년 10월부터, [사나다 유마와](../Page/사나다_유마.md "wikilink") [노자와 유키가](../Page/노자와_유키.md "wikilink"), 이이토모 청년대로서의 유닛 〈noon boyz〉로서 활동을 개시. 다른 멤버도 〈Snow Man〉으로서의 활동을 실시하고 있다.
 
 ## 출연
 
@@ -85,7 +85,7 @@
 
   - [더 소년구락부](../Page/소년구락부.md "wikilink") (2005년 \~ 현재, [NHK BS 프리미엄](../Page/NHK_BS_프리미엄.md "wikilink"))
   - 테스트의 꽃꽂이 (2010년 3월 29일 \~ 2011년, NHK 교육 TV) - 사나다, 노자와
-  - 모리타 카즈요시 아워 와랏테 이이토모\! (2011년 10월 \~ 2014년 3월, [후지 TV계](https://ko.wikipedia.org/wiki/후지_TV "wikilink")) - 사나다, 노자와 (이이토모 청년대 〈noon boyz〉)
+  - 모리타 카즈요시 아워 와랏테 이이토모\! (2011년 10월 \~ 2014년 3월, [후지 TV계](../Page/후지_TV.md "wikilink")) - 사나다, 노자와 (이이토모 청년대 〈noon boyz〉)
 
 ### 영화
 
@@ -99,6 +99,6 @@
 
 ## 관련 항목
 
-  - [쟈니즈 사무소](https://ko.wikipedia.org/wiki/자니스_사무소 "wikilink")
+  - [쟈니즈 사무소](../Page/자니스_사무소.md "wikilink")
 
 [분류:자니즈 주니어](https://ko.wikipedia.org/wiki/분류:자니즈_주니어 "wikilink") [분류:일본의 보이 밴드](https://ko.wikipedia.org/wiki/분류:일본의_보이_밴드 "wikilink") [분류:2009년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2009년_결성된_음악_그룹 "wikilink")
