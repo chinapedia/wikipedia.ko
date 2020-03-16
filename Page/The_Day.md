@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Day](https://ko.wikipedia.org/wiki/The_Day).
 
 
-《**The Day**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [보이 밴드](https://ko.wikipedia.org/wiki/보이_밴드 "wikilink") DAY6의 첫 번째 EP이다. 타이틀곡은 〈**Congratulations**〉이며, [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [9월 7일에](https://ko.wikipedia.org/wiki/9월_7일 "wikilink") 지니뮤직에서 발매되었다.
+《**The Day**》는 [대한민국](../Page/대한민국.md "wikilink")의 [보이 밴드](https://ko.wikipedia.org/wiki/보이_밴드 "wikilink") DAY6의 첫 번째 EP이다. 타이틀곡은 〈**Congratulations**〉이며, [2015년](../Page/2015년.md "wikilink") [9월 7일에](../Page/9월_7일.md "wikilink") 지니뮤직에서 발매되었다.
 
 ## 수록곡
 

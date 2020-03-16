@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [D\'slove](https://ko.wikipedia.org/wiki/D\'slove).
 
 
-***D'slove***는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악 그룹인 [빅뱅의](https://ko.wikipedia.org/wiki/빅뱅_\(음악_그룹\) "wikilink") [대성이](https://ko.wikipedia.org/wiki/대성_\(가수\) "wikilink") **D-Lite**라는 일본 활동명으로 발매한 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") 두 번째 정규 음반이다. DVD에는 "Rainy Rainy", "I LOVE YOU"의 뮤직 비디오를 비롯해 홋카이도에서 대성의 휴일 생활을 완전 밀착한 1시간 대분량의 콘텐츠 영상 "토상의 오프(휴일)을 보내는 방법 in 홋카이도 \~겨울\~"이 수록 되었다.
+***D'slove***는 [대한민국](../Page/대한민국.md "wikilink")의 음악 그룹인 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") [대성이](../Page/대성_\(가수\).md "wikilink") **D-Lite**라는 일본 활동명으로 발매한 [일본](../Page/일본.md "wikilink") 두 번째 정규 음반이다. DVD에는 "Rainy Rainy", "I LOVE YOU"의 뮤직 비디오를 비롯해 홋카이도에서 대성의 휴일 생활을 완전 밀착한 1시간 대분량의 콘텐츠 영상 "토상의 오프(휴일)을 보내는 방법 in 홋카이도 \~겨울\~"이 수록 되었다.
 
 ### 일본에서의 2014 D'slove Tour
 
@@ -21,10 +21,10 @@
 
 ## 발매
 
-| 국가 | 날짜           | 라벨                                                    | 포맷                                                                                                                    | 에디션               |
-| -- | ------------ | ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| 일본 | 2014년 7월 16일 | [YGEX](https://ko.wikipedia.org/wiki/YGEX "wikilink") | [CD](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink"), [디지털 다운로드](https://ko.wikipedia.org/wiki/디지털_다운로드 "wikilink") | CD, CD+DVD, 플레이버튼 |
-|    |              |                                                       |                                                                                                                       |                   |
+| 국가 | 날짜           | 라벨                                 | 포맷                                                                                                 | 에디션               |
+| -- | ------------ | ---------------------------------- | -------------------------------------------------------------------------------------------------- | ----------------- |
+| 일본 | 2014년 7월 16일 | [YGEX](../Page/YGEX.md "wikilink") | [CD](../Page/콤팩트_디스크.md "wikilink"), [디지털 다운로드](https://ko.wikipedia.org/wiki/디지털_다운로드 "wikilink") | CD, CD+DVD, 플레이버튼 |
+|    |              |                                    |                                                                                                    |                   |
 
 ## 각주
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Time is Not](https://ko.wikipedia.org/wiki/Time_is_Not).
 
 
-《**Time is Not**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [음악가](https://ko.wikipedia.org/wiki/음악가 "wikilink") [셔틀루프](https://ko.wikipedia.org/wiki/셔틀루프 "wikilink")의 두 번째 EP이다. 수록곡은 총 아홉 곡으로 구성되어 있으며, [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") 12월 1일 발매되었다.\[1\]
+《**Time is Not**》는 [대한민국](../Page/대한민국.md "wikilink")의 [음악가](https://ko.wikipedia.org/wiki/음악가 "wikilink") [셔틀루프](../Page/셔틀루프.md "wikilink")의 두 번째 EP이다. 수록곡은 총 아홉 곡으로 구성되어 있으며, [2010년](../Page/2010년.md "wikilink") 12월 1일 발매되었다.\[1\]
 
 ## 수록곡
 

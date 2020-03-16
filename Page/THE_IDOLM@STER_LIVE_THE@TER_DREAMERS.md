@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [THE IDOLM@STER LIVE THE@TER DREAMERS](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_LIVE_THE@TER_DREAMERS).
 
 
-〈**THE IDOLM@STER LIVE THE@TER DREAMERS**〉(아이돌 마스터 라이브 시어터 드리머즈)는 2015년 9월 30일부터 2016년 3월 23일까지 [Lantis에서](https://ko.wikipedia.org/wiki/란티스 "wikilink") 발매된 [캐릭터 송](https://ko.wikipedia.org/wiki/캐릭터_송 "wikilink") CD 시리즈이다.
+〈**THE IDOLM@STER LIVE THE@TER DREAMERS**〉(아이돌 마스터 라이브 시어터 드리머즈)는 2015년 9월 30일부터 2016년 3월 23일까지 [Lantis에서](../Page/란티스.md "wikilink") 발매된 [캐릭터 송](https://ko.wikipedia.org/wiki/캐릭터_송 "wikilink") CD 시리즈이다.
 
 ## 개요
 
@@ -43,7 +43,7 @@
 
 :\# Dreaming\!
 
-:\#: 노래: [아마미 하루카](https://ko.wikipedia.org/wiki/아마미_하루카 "wikilink") ([나카무라 에리코](https://ko.wikipedia.org/wiki/나카무라_에리코 "wikilink")), 카스가 미라이 ([야마자키 하루카](https://ko.wikipedia.org/wiki/야마자키_하루카 "wikilink")), [시죠 타카네](https://ko.wikipedia.org/wiki/시죠_타카네 "wikilink") ([하라 유미](https://ko.wikipedia.org/wiki/하라_유미 "wikilink")), 키타카미 레이카 ([히라야마 에미](https://ko.wikipedia.org/wiki/히라야마_에미 "wikilink")), 키타자와 시호 ([아마미야 소라](../Page/아마미야_소라.md "wikilink")), 줄리아 ([테라카와 아이미](https://ko.wikipedia.org/wiki/테라카와_아이미 "wikilink")), [타카츠키 야요이](https://ko.wikipedia.org/wiki/타카츠키_야요이 "wikilink") ([니고 마야코](https://ko.wikipedia.org/wiki/니고_마야코 "wikilink")), 토코로 메구미 ([후지이 유키요](https://ko.wikipedia.org/wiki/후지이_유키요 "wikilink")), 나나오 유리코 ([이토 미쿠](https://ko.wikipedia.org/wiki/이토_미쿠 "wikilink")), 모치즈키 안나 ([나츠카와 시이나](https://ko.wikipedia.org/wiki/나츠카와_시이나 "wikilink")), 야부키 카나 ([키도 이부키](../Page/키도_이부키.md "wikilink"))
+:\#: 노래: [아마미 하루카](https://ko.wikipedia.org/wiki/아마미_하루카 "wikilink") ([나카무라 에리코](../Page/나카무라_에리코.md "wikilink")), 카스가 미라이 ([야마자키 하루카](https://ko.wikipedia.org/wiki/야마자키_하루카 "wikilink")), [시죠 타카네](https://ko.wikipedia.org/wiki/시죠_타카네 "wikilink") ([하라 유미](../Page/하라_유미.md "wikilink")), 키타카미 레이카 ([히라야마 에미](https://ko.wikipedia.org/wiki/히라야마_에미 "wikilink")), 키타자와 시호 ([아마미야 소라](../Page/아마미야_소라.md "wikilink")), 줄리아 ([테라카와 아이미](https://ko.wikipedia.org/wiki/테라카와_아이미 "wikilink")), [타카츠키 야요이](https://ko.wikipedia.org/wiki/타카츠키_야요이 "wikilink") ([니고 마야코](https://ko.wikipedia.org/wiki/니고_마야코 "wikilink")), 토코로 메구미 ([후지이 유키요](https://ko.wikipedia.org/wiki/후지이_유키요 "wikilink")), 나나오 유리코 ([이토 미쿠](https://ko.wikipedia.org/wiki/이토_미쿠 "wikilink")), 모치즈키 안나 ([나츠카와 시이나](https://ko.wikipedia.org/wiki/나츠카와_시이나 "wikilink")), 야부키 카나 ([키도 이부키](../Page/키도_이부키.md "wikilink"))
 
 :\#: 작사: 마사키 에리카, 작곡: BNSI (사토 타카후미), 편곡: Arte Refact
 
@@ -51,7 +51,7 @@
 
 :\# **머나먼 미래**()
 
-:\#: 노래: [아마미 하루카](https://ko.wikipedia.org/wiki/아마미_하루카 "wikilink") ([나카무라 에리코](https://ko.wikipedia.org/wiki/나카무라_에리코 "wikilink"))×카스가 미라이 ([야마자키 하루카](https://ko.wikipedia.org/wiki/야마자키_하루카 "wikilink"))
+:\#: 노래: [아마미 하루카](https://ko.wikipedia.org/wiki/아마미_하루카 "wikilink") ([나카무라 에리코](../Page/나카무라_에리코.md "wikilink"))×카스가 미라이 ([야마자키 하루카](https://ko.wikipedia.org/wiki/야마자키_하루카 "wikilink"))
 
 :\#: 작사: 후지모토 노리코, 작곡·편곡: 마스타니 켄
 
@@ -91,7 +91,7 @@
 
 :\# Dreaming\!
 
-:\#: 노래: 키사라기 치하야 ([이마이 아사미](https://ko.wikipedia.org/wiki/이마이_아사미 "wikilink")), 스오우 모모코 ([와타나베 케이코](https://ko.wikipedia.org/wiki/와타나베_케이코 "wikilink")), 토쿠가와 마츠리 ([스와 아야카](https://ko.wikipedia.org/wiki/스와_아야카 "wikilink")), 니카이도 치즈루 ([노무라 카나코](https://ko.wikipedia.org/wiki/노무라_카나코 "wikilink")), 하기와라 유키호 ([아사쿠라 아즈미](https://ko.wikipedia.org/wiki/아사쿠라_아즈미 "wikilink")), 하코자키 세리카 ([아사쿠라 모모](https://ko.wikipedia.org/wiki/아사쿠라_모모 "wikilink")), 바바 코노미 ([다카하시 미나미](https://ko.wikipedia.org/wiki/다카하시_미나미_\(성우\) "wikilink")), 마카베 미즈키 ([아베 리카](https://ko.wikipedia.org/wiki/아베_리카 "wikilink")), 미야오 미야 ([키리타니 초초](https://ko.wikipedia.org/wiki/키리타니_초초 "wikilink"))、모가미 시즈카 ([타도코로 아즈사](https://ko.wikipedia.org/wiki/타도코로_아즈사 "wikilink"))
+:\#: 노래: 키사라기 치하야 ([이마이 아사미](../Page/이마이_아사미.md "wikilink")), 스오우 모모코 ([와타나베 케이코](https://ko.wikipedia.org/wiki/와타나베_케이코 "wikilink")), 토쿠가와 마츠리 ([스와 아야카](https://ko.wikipedia.org/wiki/스와_아야카 "wikilink")), 니카이도 치즈루 ([노무라 카나코](https://ko.wikipedia.org/wiki/노무라_카나코 "wikilink")), 하기와라 유키호 ([아사쿠라 아즈미](https://ko.wikipedia.org/wiki/아사쿠라_아즈미 "wikilink")), 하코자키 세리카 ([아사쿠라 모모](https://ko.wikipedia.org/wiki/아사쿠라_모모 "wikilink")), 바바 코노미 ([다카하시 미나미](https://ko.wikipedia.org/wiki/다카하시_미나미_\(성우\) "wikilink")), 마카베 미즈키 ([아베 리카](https://ko.wikipedia.org/wiki/아베_리카 "wikilink")), 미야오 미야 ([키리타니 초초](https://ko.wikipedia.org/wiki/키리타니_초초 "wikilink"))、모가미 시즈카 ([타도코로 아즈사](https://ko.wikipedia.org/wiki/타도코로_아즈사 "wikilink"))
 
 :\#: 작사: 마사키 에리카, 작곡: BNSI (사토 타카후미), 편곡: Arte Refact
 
@@ -99,7 +99,7 @@
 
 :\# **얼라이브 팩터**()
 
-:\#: 노래: 키사라기 치하야 ([이마이 아사미](https://ko.wikipedia.org/wiki/이마이_아사미 "wikilink"))×모가미 시즈카 ([타도코로 아즈사](https://ko.wikipedia.org/wiki/타도코로_아즈사 "wikilink"))
+:\#: 노래: 키사라기 치하야 ([이마이 아사미](../Page/이마이_아사미.md "wikilink"))×모가미 시즈카 ([타도코로 아즈사](https://ko.wikipedia.org/wiki/타도코로_아즈사 "wikilink"))
 
 :\#: 작사·작곡: 후지모토 노리코, 편곡: 후쿠토미 마사유키
 
@@ -141,13 +141,13 @@
 
 :\# Dreaming\!
 
-:\#: 노래: 아키즈키 리츠코 (와카바야시 나오미), 이부키 츠바사 ([Machico](../Page/Machico.md "wikilink")), 에밀리 스튜어트 (카하라 유우), 가나하 히비키 ([누마쿠라 마나미](https://ko.wikipedia.org/wiki/누마쿠라_마나미 "wikilink")), 사타케 미나코 (오오제키 에리), 시노미야 카렌 (콘도 유이), 타카야마 사요코 (코미카타 유리), 텐쿠바시 토모카 ([코이와이 코토리](../Page/코이와이_코토리.md "wikilink")), 나카타니 이쿠 (히라시마 아카리), 미나세 이오리 ([쿠기미야 리에](https://ko.wikipedia.org/wiki/쿠기미야_리에 "wikilink"))
+:\#: 노래: 아키즈키 리츠코 (와카바야시 나오미), 이부키 츠바사 ([Machico](../Page/Machico.md "wikilink")), 에밀리 스튜어트 (카하라 유우), 가나하 히비키 ([누마쿠라 마나미](../Page/누마쿠라_마나미.md "wikilink")), 사타케 미나코 (오오제키 에리), 시노미야 카렌 (콘도 유이), 타카야마 사요코 (코미카타 유리), 텐쿠바시 토모카 ([코이와이 코토리](../Page/코이와이_코토리.md "wikilink")), 나카타니 이쿠 (히라시마 아카리), 미나세 이오리 ([쿠기미야 리에](../Page/쿠기미야_리에.md "wikilink"))
 
 :\#: 작사: 마사키 에리카, 작곡: BNSI (사토 타카후미)), 편곡: Arte Refact
 
 :\# **심층 머메이드**
 
-:\#: 노래: 이부키 츠바사 (Machico)×가나하 히비키 ([누마쿠라 마나미](https://ko.wikipedia.org/wiki/누마쿠라_마나미 "wikilink"))
+:\#: 노래: 이부키 츠바사 (Machico)×가나하 히비키 ([누마쿠라 마나미](../Page/누마쿠라_마나미.md "wikilink"))
 
 :\#: 작사: 카라사와 미호, 작곡·편곡: 무츠키 슈헤이
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Best Of BIGBANG](https://ko.wikipedia.org/wiki/The_Best_Of_BIGBANG).
 
 
-《**The Best Of BIGBANG**》은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악 그룹인 [빅뱅의](https://ko.wikipedia.org/wiki/빅뱅_\(음악_그룹\) "wikilink") [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서 발매 된 세 번째 베스트 앨범이다. 이 음반은 당초 2011년 11월 23일, 발매 될 예정있지만 [G-Dragon의](https://ko.wikipedia.org/wiki/지드래곤 "wikilink") 대마초 흡연 사건으로 2011년 12월 14일으로 발매일이 미뤄졌다.\[1\]
+《**The Best Of BIGBANG**》은 [대한민국](../Page/대한민국.md "wikilink")의 음악 그룹인 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") [일본](../Page/일본.md "wikilink")에서 발매 된 세 번째 베스트 앨범이다. 이 음반은 당초 2011년 11월 23일, 발매 될 예정있지만 [G-Dragon의](../Page/지드래곤.md "wikilink") 대마초 흡연 사건으로 2011년 12월 14일으로 발매일이 미뤄졌다.\[1\]
 
 ## 배경
 
@@ -9,7 +9,7 @@
 
 ## 차트 성적
 
-이 음반은 [오리콘](https://ko.wikipedia.org/wiki/오리콘 "wikilink") 데일리 차트에서 1위를 차지했으며, 30,043장을 판매해 위클리 차트 2위를 차지했다.\[5\]
+이 음반은 [오리콘](../Page/오리콘.md "wikilink") 데일리 차트에서 1위를 차지했으며, 30,043장을 판매해 위클리 차트 2위를 차지했다.\[5\]
 
 ## 트랙 리스트
 
@@ -27,15 +27,15 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><em><a href="https://ko.wikipedia.org/wiki/오리콘" title="wikilink">오리콘</a></em> 데일리 앨범 차트</p></td>
+<td><p><em><a href="../Page/오리콘.md" title="wikilink">오리콘</a></em> 데일리 앨범 차트</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p><em><a href="https://ko.wikipedia.org/wiki/오리콘" title="wikilink">오리콘</a></em> 위클리 앨범 차트[6]</p></td>
+<td><p><em><a href="../Page/오리콘.md" title="wikilink">오리콘</a></em> 위클리 앨범 차트[6]</p></td>
 <td><p>2</p></td>
 </tr>
 <tr class="odd">
-<td><p><em><a href="https://ko.wikipedia.org/wiki/오리콘" title="wikilink">오리콘</a></em> 먼슬리 앨범 차트</p></td>
+<td><p><em><a href="../Page/오리콘.md" title="wikilink">오리콘</a></em> 먼슬리 앨범 차트</p></td>
 <td><p>18</p></td>
 </tr>
 </tbody>
@@ -43,15 +43,15 @@
 
 ### 판매량
 
-| 차트                                                        | 판매량     |
-| --------------------------------------------------------- | ------- |
-| *[오리콘](https://ko.wikipedia.org/wiki/오리콘 "wikilink")* 판매량 | 51,000+ |
+| 차트                                     | 판매량     |
+| -------------------------------------- | ------- |
+| *[오리콘](../Page/오리콘.md "wikilink")* 판매량 | 51,000+ |
 
 ## 발매
 
-| 국가                                                | 날짜                 | 포맷                                                                                                                   | 라벨                                                                |
-| ------------------------------------------------- | ------------------ | -------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") | 2011년 12월 14일\[7\] | [CD](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink"), [디지털 다운로드](https://ko.wikipedia.org/wiki/음악_다운로드 "wikilink") | [유니버셜 뮤직 재팬](https://ko.wikipedia.org/wiki/유니버설_뮤직_그룹 "wikilink") |
+| 국가                             | 날짜                 | 포맷                                                                                                | 라벨                                             |
+| ------------------------------ | ------------------ | ------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| [일본](../Page/일본.md "wikilink") | 2011년 12월 14일\[7\] | [CD](../Page/콤팩트_디스크.md "wikilink"), [디지털 다운로드](https://ko.wikipedia.org/wiki/음악_다운로드 "wikilink") | [유니버셜 뮤직 재팬](../Page/유니버설_뮤직_그룹.md "wikilink") |
 
 ## 각주
 

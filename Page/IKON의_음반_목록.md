@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [IKON  ](https://ko.wikipedia.org/wiki/IKON__).
 
 
-다음은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") 음악 그룹 [iKON](https://ko.wikipedia.org/wiki/iKON "wikilink")의 **음반 목록**이다.
+다음은 [대한민국](../Page/대한민국.md "wikilink")의 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") 음악 그룹 [iKON](https://ko.wikipedia.org/wiki/iKON "wikilink")의 **음반 목록**이다.
 
 ## 음반
 
@@ -19,7 +19,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/가온_앨범_차트" title="wikilink">한국</a><br />
-<ref><a href="https://ko.wikipedia.org/wiki/가온_앨범_차트" title="wikilink">가온 앨범 차트</a> (주간). <a href="https://ko.wikipedia.org/wiki/가온_차트" title="wikilink">가온 차트</a>. 2015-12-16 확인. (각각의 순위에 대해서는 여기를 참고하세요)</p>
+<ref><a href="https://ko.wikipedia.org/wiki/가온_앨범_차트" title="wikilink">가온 앨범 차트</a> (주간). <a href="../Page/가온_차트.md" title="wikilink">가온 차트</a>. 2015-12-16 확인. (각각의 순위에 대해서는 여기를 참고하세요)</p>
 <ul>
 <li></li>
 </ul>
@@ -30,10 +30,10 @@
 <li></li>
 </ul>
 <p></ref></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/타이완" title="wikilink">타이완</a><br />
+<td><p><a href="../Page/타이완.md" title="wikilink">타이완</a><br />
 [1]</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/빌보드" title="wikilink">빌보드 월드</a><br />
-<ref>빌보드 월드 앨범 차트. <a href="https://ko.wikipedia.org/wiki/빌보드" title="wikilink">빌보드</a>. 2014-02-12 확인. (각각의 순위에 대해서는 여기를 참고하세요)</p>
+<td><p><a href="../Page/빌보드.md" title="wikilink">빌보드 월드</a><br />
+<ref>빌보드 월드 앨범 차트. <a href="../Page/빌보드.md" title="wikilink">빌보드</a>. 2014-02-12 확인. (각각의 순위에 대해서는 여기를 참고하세요)</p>
 <ul>
 <li></li>
 </ul>
@@ -47,8 +47,8 @@
 <li>2015년 10월 1일 (하프 앨범)</li>
 <li>2015년 12월 24일 (풀 앨범)[2]</li>
 </ul></li>
-<li>레이블: <a href="https://ko.wikipedia.org/wiki/YG_엔터테인먼트" title="wikilink">YG 엔터테인먼트</a>, <a href="../Page/지니뮤직.md" title="wikilink">지니뮤직</a></li>
-<li>포맷: <a href="https://ko.wikipedia.org/wiki/콤팩트_디스크" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a></li>
+<li>레이블: <a href="../Page/YG_엔터테인먼트.md" title="wikilink">YG 엔터테인먼트</a>, <a href="../Page/지니뮤직.md" title="wikilink">지니뮤직</a></li>
+<li>포맷: <a href="../Page/콤팩트_디스크.md" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a></li>
 </ul></td>
 <td><p>1</p></td>
 <td><p>26</p></td>
@@ -76,7 +76,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/가온_차트" title="wikilink">대한민국</a><br />
+<td><p><a href="../Page/가온_차트.md" title="wikilink">대한민국</a><br />
 <ref></p>
 <ul>
 <li></li>
@@ -85,7 +85,7 @@
 <li></li>
 <li><p></ref></p></li>
 </ul></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/빌보드" title="wikilink">빌보드 월드</a><br />
+<td><p><a href="../Page/빌보드.md" title="wikilink">빌보드 월드</a><br />
 [3]</p></td>
 <td></td>
 <td></td>
@@ -227,7 +227,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/가온_차트" title="wikilink">대한민국</a><br />
+<td><p><a href="../Page/가온_차트.md" title="wikilink">대한민국</a><br />
 [8]</p></td>
 <td></td>
 <td></td>

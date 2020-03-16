@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [City of Evil](https://ko.wikipedia.org/wiki/City_of_Evil).
 
 
-**City of Evil**은 [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") 6월 6일 발매한 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [헤비 메탈](https://ko.wikipedia.org/wiki/헤비_메탈 "wikilink") 밴드인 [어벤지드 세븐폴드의](https://ko.wikipedia.org/wiki/어벤지드_세븐폴드 "wikilink") 세 번째 정규앨범이다.
+**City of Evil**은 [2005년](../Page/2005년.md "wikilink") 6월 6일 발매한 [미국](../Page/미국.md "wikilink")의 [헤비 메탈](../Page/헤비_메탈.md "wikilink") 밴드인 [어벤지드 세븐폴드의](../Page/어벤지드_세븐폴드.md "wikilink") 세 번째 정규앨범이다.
 
 ## 수록곡
 
-모든 곡은 [어벤지드 세븐폴드](https://ko.wikipedia.org/wiki/어벤지드_세븐폴드 "wikilink") 멤버들이 작사, 작곡을 담당하였다.
+모든 곡은 [어벤지드 세븐폴드](../Page/어벤지드_세븐폴드.md "wikilink") 멤버들이 작사, 작곡을 담당하였다.
 
 ## 구성
 

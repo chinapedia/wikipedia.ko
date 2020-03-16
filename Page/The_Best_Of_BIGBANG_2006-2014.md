@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Best Of BIGBANG 2006-2014](https://ko.wikipedia.org/wiki/The_Best_Of_BIGBANG_2006-2014).
 
 
-《**The Best Of BIGBANG 2006-2014**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악 그룹인 [빅뱅의](https://ko.wikipedia.org/wiki/빅뱅_\(음악_그룹\) "wikilink") [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서 발매 된 네 번째 베스트 앨범이다. 2014년 11월 24일, [YGEX](https://ko.wikipedia.org/wiki/YGEX "wikilink")에 의해 발매 되었다.\[1\]
+《**The Best Of BIGBANG 2006-2014**》는 [대한민국](../Page/대한민국.md "wikilink")의 음악 그룹인 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") [일본](../Page/일본.md "wikilink")에서 발매 된 네 번째 베스트 앨범이다. 2014년 11월 24일, [YGEX](../Page/YGEX.md "wikilink")에 의해 발매 되었다.\[1\]
 
 ## 배경
 
@@ -9,7 +9,7 @@
 
 ## 차트 성적
 
-이 앨범은 발매 당일 93,226장을 판매해 [오리콘](https://ko.wikipedia.org/wiki/오리콘 "wikilink") 데일리 차트에서 1위를 차지했다.\[2\] 첫 주에는 120,000장을 판매해 위클리 차트 1위를 차지했다. 이 기록은 빅뱅의 베스트 음반 중에서 최고 기록으로 이전의 *[BIGBANG 2](../Page/BIGBANG_2_\(빅뱅의_음반\).md "wikilink")*는 65,000장의 판매량을 기록했다.\[3\]
+이 앨범은 발매 당일 93,226장을 판매해 [오리콘](../Page/오리콘.md "wikilink") 데일리 차트에서 1위를 차지했다.\[2\] 첫 주에는 120,000장을 판매해 위클리 차트 1위를 차지했다. 이 기록은 빅뱅의 베스트 음반 중에서 최고 기록으로 이전의 *[BIGBANG 2](../Page/BIGBANG_2_\(빅뱅의_음반\).md "wikilink")*는 65,000장의 판매량을 기록했다.\[3\]
 
 ## 트랙 리스트
 
@@ -28,12 +28,12 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><em><a href="https://ko.wikipedia.org/wiki/오리콘" title="wikilink">오리콘</a></em> 데일리 차트</p></td>
+<td><p><em><a href="../Page/오리콘.md" title="wikilink">오리콘</a></em> 데일리 차트</p></td>
 <td><p>1</p></td>
 <td><p>93,226</p></td>
 </tr>
 <tr class="even">
-<td><p><em><a href="https://ko.wikipedia.org/wiki/오리콘" title="wikilink">오리콘</a></em> 위클리 차트</p></td>
+<td><p><em><a href="../Page/오리콘.md" title="wikilink">오리콘</a></em> 위클리 차트</p></td>
 <td><p>1</p></td>
 <td><p>146,582</p></td>
 </tr>
@@ -42,9 +42,9 @@
 
 ## 발매
 
-| 국가                                                | 날짜            | 포맷                                                                                                                   | 라벨   |
-| ------------------------------------------------- | ------------- | -------------------------------------------------------------------------------------------------------------------- | ---- |
-| [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") | 2014년 11월 24일 | [CD](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink"), [디지털 다운로드](https://ko.wikipedia.org/wiki/음악_다운로드 "wikilink") | YGEX |
+| 국가                             | 날짜            | 포맷                                                                                                | 라벨   |
+| ------------------------------ | ------------- | ------------------------------------------------------------------------------------------------- | ---- |
+| [일본](../Page/일본.md "wikilink") | 2014년 11월 24일 | [CD](../Page/콤팩트_디스크.md "wikilink"), [디지털 다운로드](https://ko.wikipedia.org/wiki/음악_다운로드 "wikilink") | YGEX |
 
 ## 각주
 

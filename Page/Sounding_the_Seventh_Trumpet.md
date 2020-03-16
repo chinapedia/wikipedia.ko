@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Sounding the Seventh Trumpet](https://ko.wikipedia.org/wiki/Sounding_the_Seventh_Trumpet).
 
 
-**Sounding the Seventh Trumpet**은 [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink")[1월 31일발매된](https://ko.wikipedia.org/wiki/1월_31일 "wikilink") [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [헤비메탈](https://ko.wikipedia.org/wiki/헤비메탈 "wikilink")밴드 [어벤지드 세븐폴드의](https://ko.wikipedia.org/wiki/어벤지드_세븐폴드 "wikilink") 첫번째 정규앨범이다. 'Sounding the Seventh Trumpet'은 [요한계시록](https://ko.wikipedia.org/wiki/요한계시록 "wikilink")11장의 '일곱번의 나팔이 울리면 세상이 종말된다.' 라는 구절에서 가져온것이다.
+**Sounding the Seventh Trumpet**은 [2001년](../Page/2001년.md "wikilink")[1월 31일발매된](../Page/1월_31일.md "wikilink") [미국](../Page/미국.md "wikilink")의 [헤비메탈](https://ko.wikipedia.org/wiki/헤비메탈 "wikilink")밴드 [어벤지드 세븐폴드의](../Page/어벤지드_세븐폴드.md "wikilink") 첫번째 정규앨범이다. 'Sounding the Seventh Trumpet'은 [요한계시록](https://ko.wikipedia.org/wiki/요한계시록 "wikilink")11장의 '일곱번의 나팔이 울리면 세상이 종말된다.' 라는 구절에서 가져온것이다.
 
 ## 수록곡
 
@@ -12,7 +12,7 @@
 **어벤지드 세븐폴드**
 
   - [엠 섀도우스](https://ko.wikipedia.org/wiki/엠_섀도우스 "wikilink") - [리드 보컬](https://ko.wikipedia.org/wiki/리드_보컬 "wikilink")
-  - [잭키 벤젠스](https://ko.wikipedia.org/wiki/잭키_벤젠스 "wikilink") - [기타](https://ko.wikipedia.org/wiki/기타 "wikilink"),베킹 보컬
+  - [잭키 벤젠스](https://ko.wikipedia.org/wiki/잭키_벤젠스 "wikilink") - [기타](../Page/기타.md "wikilink"),베킹 보컬
   - [더 레브](https://ko.wikipedia.org/wiki/더_레브 "wikilink") - [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink"),베킹 보컬
   - 저스틴 세인 - [베이스](https://ko.wikipedia.org/wiki/베이스 "wikilink")
 

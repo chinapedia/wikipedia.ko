@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Innocence \( \)](https://ko.wikipedia.org/wiki/Innocence_\(_\)).
 
 
-**이노센스**(INNOCENCE)\[1\]는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 2인조 팝 록 밴드이다.
+**이노센스**(INNOCENCE)\[1\]는 [대한민국](../Page/대한민국.md "wikilink")의 2인조 팝 록 밴드이다.
 
 ## 개요
 

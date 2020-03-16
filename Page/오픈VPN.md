@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [VPN](https://ko.wikipedia.org/wiki/VPN).
 
 
-**오픈VPN**()은 라우팅 구성이나 브리지 구성, 원격 접근 기능을 통해 안전한 점대점 또는 사이트 대 사이트 연결을 만들기 위해 [가상 사설망](https://ko.wikipedia.org/wiki/가상_사설망 "wikilink")(VPN) 기술을 구현하는 오픈 소스 형태의 응용 소프트웨어이다. 키 교환을 위해 [SSL/TLS를](https://ko.wikipedia.org/wiki/전송_계층_보안 "wikilink") 이용하는 맞춤식 보안 프로토콜\[1\]을 이용한다. [네트워크 주소 변환](https://ko.wikipedia.org/wiki/네트워크_주소_변환 "wikilink")(NAT)과 [방화벽](https://ko.wikipedia.org/wiki/방화벽 "wikilink")을 가로지를 수 있다. 제임스 요난이 작성하였으며 [GNU GPL](https://ko.wikipedia.org/wiki/GNU_GPL "wikilink") 하에 출시되고 있다.\[2\]
+**오픈VPN**()은 라우팅 구성이나 브리지 구성, 원격 접근 기능을 통해 안전한 점대점 또는 사이트 대 사이트 연결을 만들기 위해 [가상 사설망](https://ko.wikipedia.org/wiki/가상_사설망 "wikilink")(VPN) 기술을 구현하는 오픈 소스 형태의 응용 소프트웨어이다. 키 교환을 위해 [SSL/TLS를](../Page/전송_계층_보안.md "wikilink") 이용하는 맞춤식 보안 프로토콜\[1\]을 이용한다. [네트워크 주소 변환](../Page/네트워크_주소_변환.md "wikilink")(NAT)과 [방화벽](https://ko.wikipedia.org/wiki/방화벽 "wikilink")을 가로지를 수 있다. 제임스 요난이 작성하였으며 [GNU GPL](https://ko.wikipedia.org/wiki/GNU_GPL "wikilink") 하에 출시되고 있다.\[2\]
 
 ## 각주
 

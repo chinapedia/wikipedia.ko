@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TG](https://ko.wikipedia.org/wiki/TG).
 
 
-**TG앤컴퍼니**는 대한민국의 기업으로 [삼보컴퓨터](https://ko.wikipedia.org/wiki/삼보컴퓨터 "wikilink") 계열의 휴대전화 및 스마트 디바이스, N 스크린 디바이스 기획, 디자인, 개발, 마케팅, 세일즈 전문 회사이다.
+**TG앤컴퍼니**는 대한민국의 기업으로 [삼보컴퓨터](../Page/삼보컴퓨터.md "wikilink") 계열의 휴대전화 및 스마트 디바이스, N 스크린 디바이스 기획, 디자인, 개발, 마케팅, 세일즈 전문 회사이다.
 
 ## 개요
 
@@ -14,12 +14,12 @@
 
 ## 출시 제품
 
-\- [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [12월](https://ko.wikipedia.org/wiki/12월 "wikilink") TG BIG Display 70 출시
-\- [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [9월](https://ko.wikipedia.org/wiki/9월 "wikilink") TG BIG Display 65 UHD 출시
-\- [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [5월](https://ko.wikipedia.org/wiki/5월 "wikilink") TG BIG Display 80 출시
-\- [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [10월](https://ko.wikipedia.org/wiki/10월 "wikilink") TG BIG Display 70 UHD 출시
-\- [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [9월](https://ko.wikipedia.org/wiki/9월 "wikilink") '[루나폰](https://ko.wikipedia.org/wiki/루나폰 "wikilink")' (스마트폰)출시
-\- [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink") '[루나 워치](../Page/루나_워치.md "wikilink")' (스마트 워치)출시
+\- [2013년](../Page/2013년.md "wikilink") [12월](../Page/12월.md "wikilink") TG BIG Display 70 출시
+\- [2014년](../Page/2014년.md "wikilink") [9월](../Page/9월.md "wikilink") TG BIG Display 65 UHD 출시
+\- [2015년](../Page/2015년.md "wikilink") [5월](../Page/5월.md "wikilink") TG BIG Display 80 출시
+\- [2015년](../Page/2015년.md "wikilink") [10월](../Page/10월.md "wikilink") TG BIG Display 70 UHD 출시
+\- [2015년](../Page/2015년.md "wikilink") [9월](../Page/9월.md "wikilink") '[루나폰](https://ko.wikipedia.org/wiki/루나폰 "wikilink")' (스마트폰)출시
+\- [2016년](../Page/2016년.md "wikilink") [3월](../Page/3월.md "wikilink") '[루나 워치](../Page/루나_워치.md "wikilink")' (스마트 워치)출시
 
 ## 외부 링크
 

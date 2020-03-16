@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Coup D\'Etat + One Of A Kind \& Heartbreaker](https://ko.wikipedia.org/wiki/Coup_D\'Etat_+_One_Of_A_Kind_\&_Heartbreaker).
 
 
-***Coup D'Etat + One Of A Kind & Heartbreaker***(일반적으로는 ***'COUP D’ETAT \[+ ONE OF A KIND & HEARTBREAKER\]***)는 대한민국의 음악 그룹 [빅뱅의](https://ko.wikipedia.org/wiki/빅뱅_\(음악_그룹\) "wikilink") 리더 [G-Dragon의](https://ko.wikipedia.org/wiki/지드래곤 "wikilink") [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서 발매 한 첫 번째 솔로 정규 음반이다. 이 음반은 2013년 11월 27일에 발매 되었으며, 이전의 음반 *[COUP D'ETAT](https://ko.wikipedia.org/wiki/COUP_D'ETAT "wikilink")*의 곡들 뿐만 아니라 [One Of A Kind과](https://ko.wikipedia.org/wiki/One_Of_A_Kind "wikilink") *[Heartbreaker](https://ko.wikipedia.org/wiki/Heartbreaker_\(지드래곤의_음반\) "wikilink")*의 곡들이 수록 되었다. 3가지 버전으로 발매 되었다. 이 음반에는 다양한 여러 아티스트들과 콜라보레이션으로 화제를 모았는데, [미시 엘리엇](https://ko.wikipedia.org/wiki/미시_엘리엇 "wikilink"), [스카이 페레이라과](../Page/스카이_페레이라.md "wikilink") [Zion.T](../Page/자이언티.md "wikilink"), 리디아백과 YG의 연습생 제니킴과 [2NE1](https://ko.wikipedia.org/wiki/2NE1 "wikilink")의 [박봄](https://ko.wikipedia.org/wiki/박봄 "wikilink") 등 이 참여했다.
+***Coup D'Etat + One Of A Kind & Heartbreaker***(일반적으로는 ***'COUP D’ETAT \[+ ONE OF A KIND & HEARTBREAKER\]***)는 대한민국의 음악 그룹 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") 리더 [G-Dragon의](../Page/지드래곤.md "wikilink") [일본](../Page/일본.md "wikilink")에서 발매 한 첫 번째 솔로 정규 음반이다. 이 음반은 2013년 11월 27일에 발매 되었으며, 이전의 음반 *[COUP D'ETAT](https://ko.wikipedia.org/wiki/COUP_D'ETAT "wikilink")*의 곡들 뿐만 아니라 [One Of A Kind과](https://ko.wikipedia.org/wiki/One_Of_A_Kind "wikilink") *[Heartbreaker](https://ko.wikipedia.org/wiki/Heartbreaker_\(지드래곤의_음반\) "wikilink")*의 곡들이 수록 되었다. 3가지 버전으로 발매 되었다. 이 음반에는 다양한 여러 아티스트들과 콜라보레이션으로 화제를 모았는데, [미시 엘리엇](../Page/미시_엘리엇.md "wikilink"), [스카이 페레이라과](../Page/스카이_페레이라.md "wikilink") [Zion.T](../Page/자이언티.md "wikilink"), 리디아백과 YG의 연습생 제니킴과 [2NE1](../Page/2NE1.md "wikilink")의 [박봄](../Page/박봄.md "wikilink") 등 이 참여했다.
 
 ## 발매
 
@@ -13,7 +13,7 @@
 
 **한정판 에디션**
 
-  - [뮤직 비디오](https://ko.wikipedia.org/wiki/뮤직_비디오 "wikilink"): 니가 뭔데?, 삐딱하게 (CROOKED), COUP D’ETAT, 미치GO, CRAYON, 그XX, ONE OF A KIND, 소년이여, BUTTERFLY, BREATHE, HEARTBREAKER
+  - [뮤직 비디오](../Page/뮤직_비디오.md "wikilink"): 니가 뭔데?, 삐딱하게 (CROOKED), COUP D’ETAT, 미치GO, CRAYON, 그XX, ONE OF A KIND, 소년이여, BUTTERFLY, BREATHE, HEARTBREAKER
   - Making of "니가 뭔데?" M/V
 
 <!-- end list -->

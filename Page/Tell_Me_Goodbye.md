@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Tell Me Goodbye](https://ko.wikipedia.org/wiki/Tell_Me_Goodbye).
 
 
-***Tell Me Goodbye***()는 대한민국의 음악 그룹 [빅뱅이](https://ko.wikipedia.org/wiki/빅뱅_\(음악_그룹\) "wikilink") 일본에서 발매한 세 번째 싱글 음반이다. 이 노래는 그들의 네 번째 일본 정규 음반 *[BIGBANG 2](../Page/BIGBANG_2_\(빅뱅의_음반\).md "wikilink")*에 수록 되었다. 2010년 6월 9일에 발매 되었다. 이 싱글 음반의 수록 곡 "Hands Up"은 한국에서 발매 된 그들의 네 번째 EP 음반 *[BIGBANG MINI 4](https://ko.wikipedia.org/wiki/BIGBANG_MINI_4 "wikilink")*의 한국어 버전으로 수록 되었다.
+***Tell Me Goodbye***()는 대한민국의 음악 그룹 [빅뱅이](../Page/빅뱅_\(음악_그룹\).md "wikilink") 일본에서 발매한 세 번째 싱글 음반이다. 이 노래는 그들의 네 번째 일본 정규 음반 *[BIGBANG 2](../Page/BIGBANG_2_\(빅뱅의_음반\).md "wikilink")*에 수록 되었다. 2010년 6월 9일에 발매 되었다. 이 싱글 음반의 수록 곡 "Hands Up"은 한국에서 발매 된 그들의 네 번째 EP 음반 *[BIGBANG MINI 4](../Page/BIGBANG_MINI_4.md "wikilink")*의 한국어 버전으로 수록 되었다.
 
 ## 트랙 리스트
 
@@ -17,7 +17,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><em><a href="https://ko.wikipedia.org/wiki/오리콘" title="wikilink">오리콘</a></em> 데일리 싱글 차틔</p></td>
+<td><p><em><a href="../Page/오리콘.md" title="wikilink">오리콘</a></em> 데일리 싱글 차틔</p></td>
 <td><p>3</p></td>
 </tr>
 <tr class="even">
@@ -36,11 +36,11 @@
 
 ## 발매
 
-| Country | Date         | Format                                                            | Label                                                                                                                              |
-| ------- | ------------ | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| 일본      | 2010년 6월 9일  | [디지털 다운로드](https://ko.wikipedia.org/wiki/디지털_다운로드 "wikilink"), CD | [YG 엔터테인먼트](https://ko.wikipedia.org/wiki/YG_엔터테인먼트 "wikilink"), [유니버셜 뮤직 재팬](https://ko.wikipedia.org/wiki/유니버셜_뮤직_그룹 "wikilink") |
-| 대한민국    | 2010년 6월 24일 | 디지털 다운로드, CD                                                      | YG 엔터테인먼트                                                                                                                          |
-| 타이완     | 2010년 7월 7일  | CD                                                                | [워너 뮤직 타이완](https://ko.wikipedia.org/wiki/워너_뮤직_그룹 "wikilink")                                                                     |
+| Country | Date         | Format                                                            | Label                                                                                                           |
+| ------- | ------------ | ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| 일본      | 2010년 6월 9일  | [디지털 다운로드](https://ko.wikipedia.org/wiki/디지털_다운로드 "wikilink"), CD | [YG 엔터테인먼트](../Page/YG_엔터테인먼트.md "wikilink"), [유니버셜 뮤직 재팬](https://ko.wikipedia.org/wiki/유니버셜_뮤직_그룹 "wikilink") |
+| 대한민국    | 2010년 6월 24일 | 디지털 다운로드, CD                                                      | YG 엔터테인먼트                                                                                                       |
+| 타이완     | 2010년 7월 7일  | CD                                                                | [워너 뮤직 타이완](../Page/워너_뮤직_그룹.md "wikilink")                                                                     |
 
 ## 각주
 

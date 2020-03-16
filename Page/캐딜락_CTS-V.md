@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ CTS-V](https://ko.wikipedia.org/wiki/_CTS-V).
 
 
-[thumb](https://ko.wikipedia.org/wiki/파일:Cadillac_CTS-V_1_--_08-25-2009.jpg "wikilink") **캐딜락 CTS-V**(Cadillac CTS-V)는 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink")에 선보인 고성능 중형/준대형차이다. [캐딜락](https://ko.wikipedia.org/wiki/캐딜락 "wikilink")의 고성능 모델에는 **V** 뱃지가 붙는데 CTS-V는 [CTS의](../Page/캐딜락_CTS.md "wikilink") 성능을 개선한 고성능 모델로, [콜벳과](https://ko.wikipedia.org/wiki/쉐보레_콜벳 "wikilink") [캐딜락](https://ko.wikipedia.org/wiki/캐딜락 "wikilink")의 콜라보레이션으로 만든 모델이다. 1세대부터 [콜벳의](https://ko.wikipedia.org/wiki/쉐보레_콜벳 "wikilink") 엔진을 장착하여 나온다.
+[thumb](https://ko.wikipedia.org/wiki/파일:Cadillac_CTS-V_1_--_08-25-2009.jpg "wikilink") **캐딜락 CTS-V**(Cadillac CTS-V)는 [2004년](../Page/2004년.md "wikilink")에 선보인 고성능 중형/준대형차이다. [캐딜락](../Page/캐딜락.md "wikilink")의 고성능 모델에는 **V** 뱃지가 붙는데 CTS-V는 [CTS의](../Page/캐딜락_CTS.md "wikilink") 성능을 개선한 고성능 모델로, [콜벳과](https://ko.wikipedia.org/wiki/쉐보레_콜벳 "wikilink") [캐딜락](../Page/캐딜락.md "wikilink")의 콜라보레이션으로 만든 모델이다. 1세대부터 [콜벳의](https://ko.wikipedia.org/wiki/쉐보레_콜벳 "wikilink") 엔진을 장착하여 나온다.
 
-[캐딜락](https://ko.wikipedia.org/wiki/캐딜락 "wikilink")이 첫 번째로 선보인 고성능 모델로써 [뉴욕 모터쇼에서](https://ko.wikipedia.org/wiki/뉴욕_모터쇼 "wikilink") 첫 선을 보였다. [캐딜락](https://ko.wikipedia.org/wiki/캐딜락 "wikilink")의 퍼포먼스 디비전에서 생산한 이 모델은 기존 CTS의 디자인에 [스테인리스강](https://ko.wikipedia.org/wiki/스테인리스강 "wikilink") 소재의 메쉬 그릴, 프론트 스커트와 대형 에어 덕트로 공격적인 분위기를 낸다.
+[캐딜락](../Page/캐딜락.md "wikilink")이 첫 번째로 선보인 고성능 모델로써 [뉴욕 모터쇼에서](https://ko.wikipedia.org/wiki/뉴욕_모터쇼 "wikilink") 첫 선을 보였다. [캐딜락](../Page/캐딜락.md "wikilink")의 퍼포먼스 디비전에서 생산한 이 모델은 기존 CTS의 디자인에 [스테인리스강](../Page/스테인리스강.md "wikilink") 소재의 메쉬 그릴, 프론트 스커트와 대형 에어 덕트로 공격적인 분위기를 낸다.
 
 'V'의 의미는 캐딜락의 고성능 라인업을 뜻하는 중의적인 의미를 가지는데, 아래처럼 다양한 방식으로 해석되고 있다.
 **1. V8 엔진에서 따온 V

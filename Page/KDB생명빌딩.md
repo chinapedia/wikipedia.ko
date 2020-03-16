@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [KDB](https://ko.wikipedia.org/wiki/KDB).
 
 
-**KDB생명빌딩**()은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") [광주광역시](https://ko.wikipedia.org/wiki/광주광역시 "wikilink") [서구](https://ko.wikipedia.org/wiki/서구_\(광주광역시\) "wikilink") [양동에](https://ko.wikipedia.org/wiki/양동_\(광주\) "wikilink") 위치한 [마천루](https://ko.wikipedia.org/wiki/마천루 "wikilink")이다.\[1\] [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink")에 착공하여 [1996년 9월에](https://ko.wikipedia.org/wiki/1996년_9월 "wikilink") 완공한 건물은 높이 134m, 지상 30층, 지하 6층으로 되어있고 업무용 건물이다. 완공 당시 [광주광역시](https://ko.wikipedia.org/wiki/광주광역시 "wikilink")에서 가장 높은 건물이자 아파트보다 높은 건물이었다. 그러나 [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink") 쌍암동에 완공된 [첨단 힐스테이트 리버파크의](https://ko.wikipedia.org/wiki/첨단_힐스테이트_리버파크 "wikilink") 높이가 137m를 기록해, 광주에서 가장 높은 건물이라는 타이틀을 넘겨주었다.
+**KDB생명빌딩**()은 [대한민국](../Page/대한민국.md "wikilink") [광주광역시](https://ko.wikipedia.org/wiki/광주광역시 "wikilink") [서구](../Page/서구_\(광주광역시\).md "wikilink") [양동에](https://ko.wikipedia.org/wiki/양동_\(광주\) "wikilink") 위치한 [마천루](../Page/마천루.md "wikilink")이다.\[1\] [1994년](../Page/1994년.md "wikilink")에 착공하여 [1996년 9월에](https://ko.wikipedia.org/wiki/1996년_9월 "wikilink") 완공한 건물은 높이 134m, 지상 30층, 지하 6층으로 되어있고 업무용 건물이다. 완공 당시 [광주광역시](https://ko.wikipedia.org/wiki/광주광역시 "wikilink")에서 가장 높은 건물이자 아파트보다 높은 건물이었다. 그러나 [2019년](../Page/2019년.md "wikilink") [3월](../Page/3월.md "wikilink") 쌍암동에 완공된 [첨단 힐스테이트 리버파크의](https://ko.wikipedia.org/wiki/첨단_힐스테이트_리버파크 "wikilink") 높이가 137m를 기록해, 광주에서 가장 높은 건물이라는 타이틀을 넘겨주었다.
 
 ## 역사
 
-[1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink")에 착공하여 [1996년 4월에는](https://ko.wikipedia.org/wiki/1996년_4월 "wikilink") 공정률 90%가 돌파하였고 [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [4월 1일에](https://ko.wikipedia.org/wiki/4월_1일 "wikilink") 완공하였다. [2008년 7월에](https://ko.wikipedia.org/wiki/2008년_7월 "wikilink") 리모델링이 완료되었다.
+[1994년](../Page/1994년.md "wikilink")에 착공하여 [1996년 4월에는](https://ko.wikipedia.org/wiki/1996년_4월 "wikilink") 공정률 90%가 돌파하였고 [1997년](../Page/1997년.md "wikilink") [4월 1일에](../Page/4월_1일.md "wikilink") 완공하였다. [2008년 7월에](../Page/2008년_7월.md "wikilink") 리모델링이 완료되었다.
 
 ## 건물
 

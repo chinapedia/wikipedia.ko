@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WHO\'S BACK\?](https://ko.wikipedia.org/wiki/WHO\'S_BACK\?).
 
 
-《**WHO'S BACK?**》은 가수 [보아](https://ko.wikipedia.org/wiki/보아 "wikilink")가 2014년 9월 3일 일본에서 발매한 여덟 번째 정규 음반이다. 2010년 2월 발매된 정규 7집 《[IDENTITY](https://ko.wikipedia.org/wiki/IDENTITY_\(보아의_음반\) "wikilink")》 발매 이후 약 4년 반만에 발매된 정규 음반으로, 2010년 발매된 〈[WOO WEEKEND](https://ko.wikipedia.org/wiki/WOO_WEEKEND "wikilink")〉부터 2014년 발매된 〈[MASAYUME CHASING](https://ko.wikipedia.org/wiki/MASAYUME_CHASING "wikilink")〉에 이르기까지 《IDENTITY》 발매 이후 현재까지 공개된 모든 싱글 곡들을 수록하였다. (단, 〈WOO WEEKEND〉에 수록된 커플링 곡 NO DANCE, NO LIFE는 수록에서 제외되었다.) 그로 인해 앨범 수록곡 중 신곡이 딱 한 곡뿐인 상황이 벌어졌으며, 사실상 4년 간의 일본 싱글을 정리하는 베스트 앨범의 성격이 짙은 정규앨범이다. 대한민국에서는 일본에서 발매된 지 한달여 만인 2014년 10월 1일에 CD반만 발매되었다.
+《**WHO'S BACK?**》은 가수 [보아](../Page/보아.md "wikilink")가 2014년 9월 3일 일본에서 발매한 여덟 번째 정규 음반이다. 2010년 2월 발매된 정규 7집 《[IDENTITY](../Page/IDENTITY_\(보아의_음반\).md "wikilink")》 발매 이후 약 4년 반만에 발매된 정규 음반으로, 2010년 발매된 〈[WOO WEEKEND](../Page/WOO_WEEKEND.md "wikilink")〉부터 2014년 발매된 〈[MASAYUME CHASING](https://ko.wikipedia.org/wiki/MASAYUME_CHASING "wikilink")〉에 이르기까지 《IDENTITY》 발매 이후 현재까지 공개된 모든 싱글 곡들을 수록하였다. (단, 〈WOO WEEKEND〉에 수록된 커플링 곡 NO DANCE, NO LIFE는 수록에서 제외되었다.) 그로 인해 앨범 수록곡 중 신곡이 딱 한 곡뿐인 상황이 벌어졌으며, 사실상 4년 간의 일본 싱글을 정리하는 베스트 앨범의 성격이 짙은 정규앨범이다. 대한민국에서는 일본에서 발매된 지 한달여 만인 2014년 10월 1일에 CD반만 발매되었다.
 
 ## 트랙리스트
 
@@ -12,7 +12,7 @@
           - **First Time**은 이번 앨범에 수록된 유일한 신곡이다.
 2.  Shout It Out
       - (4:00) 작사: Sara Sakurai / 작곡: Kanata Okajima, Daniel Sherman, Ricky Hanley
-          - **Shout It Out**은 [보아](https://ko.wikipedia.org/wiki/보아 "wikilink")의 35번째 동명의 싱글 타이틀곡이다.
+          - **Shout It Out**은 [보아](../Page/보아.md "wikilink")의 35번째 동명의 싱글 타이틀곡이다.
 3.  Only One (Japanese Ver.)
       - (3:40) 작사: BoA / 작곡: BoA
           - **Only One (Japanese Ver.)**은 보아의 한국 정규 7집 《[Only One](https://ko.wikipedia.org/wiki/Only_One "wikilink")》의 타이틀곡이자 자작곡을 일본어로 번안한 곡으로 32번째 싱글 타이틀곡이다.
@@ -33,7 +33,7 @@
           - **I SEE ME**는 디지털 싱글로 첫 공개되어 〈[Milestone](https://ko.wikipedia.org/wiki/Milestone "wikilink")〉에 수록되었던 곡으로, 보아가 모델로 활동하는 오디오 테크니카의 CM송으로 사용되었다.
 9.  MASAYUME CHASING
       - (3:39) 작사: Junji Ishiwatari / 작곡: [Steven Lee](https://ko.wikipedia.org/wiki/스티븐_리_\(음악_프로듀서\) "wikilink"), Caroline Gustavsson
-          - **MASAYUME CHASING**은 보아의 36번째 동명의 싱글 타이틀 곡으로, 애니메이션 「[페어리 테일](https://ko.wikipedia.org/wiki/페어리_테일 "wikilink")」의 오프닝곡으로 사용되었다.
+          - **MASAYUME CHASING**은 보아의 36번째 동명의 싱글 타이틀 곡으로, 애니메이션 「[페어리 테일](../Page/페어리_테일.md "wikilink")」의 오프닝곡으로 사용되었다.
 10. The Shadow (Japanese Ver.)
       - (3:23) 작사: BoA / 작곡: Joe Belmaati
           - **The Shadow (Japanese Ver.)**는 보아의 한국 정규 7집 《[Only One](https://ko.wikipedia.org/wiki/Only_One "wikilink")》의 수록곡이자 보아가 작사에 참여한 곡을 일본어로 번안한 곡으로 32번째 싱글 <Only One>의 수록곡이며, 뮤직비디오는 보아의 둘째오빠인 [권순욱](../Page/권순욱.md "wikilink") 감독이 제작하였다.

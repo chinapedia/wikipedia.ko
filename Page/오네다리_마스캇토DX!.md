@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ DX!](https://ko.wikipedia.org/wiki/_DX!).
 
 
-《**오네다리 마스캇토DX\!**》()는 [TV 도쿄를](https://ko.wikipedia.org/wiki/TV_도쿄 "wikilink") 통해 방송된 심야 버라이어티 프로그램이다. 약칭으로 **오네마스DX**라고 불렸다. TV 도쿄에서 2010년 10월 6일부터 2011년 9월 28일까지 방영되었으며, 전 51회로 구성되었다.
+《**오네다리 마스캇토DX\!**》()는 [TV 도쿄를](../Page/TV_도쿄.md "wikilink") 통해 방송된 심야 버라이어티 프로그램이다. 약칭으로 **오네마스DX**라고 불렸다. TV 도쿄에서 2010년 10월 6일부터 2011년 9월 28일까지 방영되었으며, 전 51회로 구성되었다.
 
-마스캇토 시리즈의 네 번째 작품이며, 이전작 《[오네다리\!\! 마스캇토](../Page/오네다리!!_마스캇토.md "wikilink")》에서 졸업식을 갖고 프로그램에서 하차한 멤버 5명이 복귀했다. 프로그램 시작과 동시에 두 명의 신규 멤버가 들어왔으며, 2011년 4월경 5명이, 7월 1명이 더 가입했다. 전작 《[쵸이토 마스캇토\!](../Page/쵸이토_마스캇토!.md "wikilink")》까지는 화면 비율이 4:3인 [디지털 표준 텔레비전이었으나](https://ko.wikipedia.org/wiki/디지털_표준_텔레비전 "wikilink"), 이번 작품부터는 16:9의 [고선명 텔레비전으로](https://ko.wikipedia.org/wiki/고선명_텔레비전 "wikilink") 방송되었다.
+마스캇토 시리즈의 네 번째 작품이며, 이전작 《[오네다리\!\! 마스캇토](../Page/오네다리!!_마스캇토.md "wikilink")》에서 졸업식을 갖고 프로그램에서 하차한 멤버 5명이 복귀했다. 프로그램 시작과 동시에 두 명의 신규 멤버가 들어왔으며, 2011년 4월경 5명이, 7월 1명이 더 가입했다. 전작 《[쵸이토 마스캇토\!](../Page/쵸이토_마스캇토!.md "wikilink")》까지는 화면 비율이 4:3인 [디지털 표준 텔레비전이었으나](../Page/디지털_표준_텔레비전.md "wikilink"), 이번 작품부터는 16:9의 [고선명 텔레비전으로](../Page/고선명_텔레비전.md "wikilink") 방송되었다.
 
 한편, 2011년 5월 21일, 에비스 마스캇츠의 첫 번째 콘서트 투어 〈[전국 CAMP](https://ko.wikipedia.org/wiki/에비스_마스캇츠의_콘서트_투어_목록#전국_캠프_:_5월_21일_~_7월_2일 "wikilink")〉가 시작되었다.
 
@@ -24,18 +24,18 @@
 
 ### 나레이션
 
-  - [토미자와 미치에](https://ko.wikipedia.org/wiki/토미자와_미치에 "wikilink")
+  - [토미자와 미치에](../Page/토미자와_미치에.md "wikilink")
   - [스즈키 쇼코](https://ko.wikipedia.org/wiki/스즈키_쇼코 "wikilink")
 
 ### 에비스 마스캇츠
 
-  - [아오이 소라](https://ko.wikipedia.org/wiki/아오이_소라 "wikilink")
-  - [아사미 유마](https://ko.wikipedia.org/wiki/아사미_유마 "wikilink")
+  - [아오이 소라](../Page/아오이_소라.md "wikilink")
+  - [아사미 유마](../Page/아사미_유마.md "wikilink")
   - [오가와 아사미](https://ko.wikipedia.org/wiki/오가와_아사미 "wikilink")
   - [카스미 리사](../Page/카스미_리사.md "wikilink")
   - [니시노 쇼](https://ko.wikipedia.org/wiki/니시노_쇼 "wikilink")
   - [하츠네 미노리](https://ko.wikipedia.org/wiki/하츠네_미노리 "wikilink")
-  - [요시자와 아키호](https://ko.wikipedia.org/wiki/요시자와_아키호 "wikilink")
+  - [요시자와 아키호](../Page/요시자와_아키호.md "wikilink")
   - [Rio](../Page/Rio.md "wikilink")
   - [사야마 아이](https://ko.wikipedia.org/wiki/사야마_아이 "wikilink")
   - [안도 아이카](https://ko.wikipedia.org/wiki/안도_아이카 "wikilink")
@@ -83,7 +83,7 @@
 <!-- end list -->
 
   -
-    《[Yes\! 프리큐어5](https://ko.wikipedia.org/wiki/Yes!_프리큐어5 "wikilink")》의 패러디이다. 초반 루카와 리나만 프루카와에서 활동했을 때에는 민폐를 끼치는 스탭들을 찾아 응징하는 코너였다. 후에 사쿠라기 린이 멤버로 합류하며 [만담](https://ko.wikipedia.org/wiki/만담 "wikilink")까지도 겸하게된다. 추후에 유닛의 오리지널 송 〈프루카와 YES〉가 제작되기도했다.
+    《[Yes\! 프리큐어5](../Page/Yes!_프리큐어5.md "wikilink")》의 패러디이다. 초반 루카와 리나만 프루카와에서 활동했을 때에는 민폐를 끼치는 스탭들을 찾아 응징하는 코너였다. 후에 사쿠라기 린이 멤버로 합류하며 [만담](../Page/만담.md "wikilink")까지도 겸하게된다. 추후에 유닛의 오리지널 송 〈프루카와 YES〉가 제작되기도했다.
 
 <!-- end list -->
 
@@ -189,27 +189,27 @@
 
 ## 방송국
 
-| 방송 지역                                                                                                          | 방송국                                                                      | 네트워크                                                           | 방송 시간              | 첫 방송 시작       |
-| -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | -------------------------------------------------------------- | ------------------ | ------------- |
-| 관동광역권\[2\]                                                                                                     | [TV 도쿄](https://ko.wikipedia.org/wiki/TV_도쿄 "wikilink") (TX)             | [TXN](https://ko.wikipedia.org/wiki/TXN "wikilink")            | 목요일 02:20 \~ 02:50 | 2010년 10월 6일  |
-| [홋카이도](https://ko.wikipedia.org/wiki/홋카이도 "wikilink")                                                          | [TV 홋카이도](https://ko.wikipedia.org/wiki/TV_홋카이도 "wikilink") (TVh)        | 수요일 01:30 \~ 02:00                                             | 2010년 10월 19일      |               |
-| [아이치현](https://ko.wikipedia.org/wiki/아이치현 "wikilink")                                                          | [TV 아이치](https://ko.wikipedia.org/wiki/TV_아이치 "wikilink") (TVA)          | 일요일 01:50 \~ 02:20                                             | 2010년 10월 24일      |               |
-| [오사카부](https://ko.wikipedia.org/wiki/오사카부 "wikilink")                                                          | [TV 오사카](https://ko.wikipedia.org/wiki/TV_오사카 "wikilink") (TVO)          | 목요일 02:15 \~ 02:45                                             | 2010년 10월 13일      |               |
-| [오카야마현](https://ko.wikipedia.org/wiki/오카야마현 "wikilink"), [가가와현](https://ko.wikipedia.org/wiki/가가와현 "wikilink") | [TV 세토우치](https://ko.wikipedia.org/wiki/TV_세토우치 "wikilink") (TSC)        | 일요일 02:05 \~ 02:35                                             | 2010년 10월 30일      |               |
-| [후쿠오카현](https://ko.wikipedia.org/wiki/후쿠오카현 "wikilink")                                                        | [TVQ 규슈 방송](https://ko.wikipedia.org/wiki/TVQ_규슈_방송 "wikilink") (TVQ)    | 일요일 01:40 \~ 02:10                                             | 2011년 1월 15일       |               |
-| [니가타현](https://ko.wikipedia.org/wiki/니가타현 "wikilink")                                                          | [TV 니가타 방송망](https://ko.wikipedia.org/wiki/TV_니가타_방송망 "wikilink") (TeNY) | [NNS](https://ko.wikipedia.org/wiki/닛폰TV_네트워크_협의회 "wikilink")  | 화요일 01:29 \~ 01:59 | 2010년 11월 8일  |
-| [시즈오카현](https://ko.wikipedia.org/wiki/시즈오카현 "wikilink")                                                        | [시즈오카 제일 TV](https://ko.wikipedia.org/wiki/시즈오카_제일_TV "wikilink") (SDT)  | 일요일 02:00 \~ 02:30                                             | 2010년 11월 6일       |               |
-| [후쿠시마현](https://ko.wikipedia.org/wiki/후쿠시마현 "wikilink")                                                        | [TV-U 후쿠시마](https://ko.wikipedia.org/wiki/TV-U_후쿠시마 "wikilink") (TUF)    | [JNN](https://ko.wikipedia.org/wiki/재팬_뉴스_네트워크 "wikilink")     | 토요일 01:25 \~ 01:55 | 2010년 12월 16일 |
-| [시마네현](https://ko.wikipedia.org/wiki/시마네현 "wikilink"), [돗토리현](https://ko.wikipedia.org/wiki/돗토리현 "wikilink")   | [산인 방송](https://ko.wikipedia.org/wiki/산인_방송 "wikilink") (BSS)            | 수요일 01:30 \~ 02:00                                             | 2011년 1월 18일       |               |
-| [나가노현](https://ko.wikipedia.org/wiki/나가노현 "wikilink")                                                          | [나가노 방송](https://ko.wikipedia.org/wiki/나가노_방송 "wikilink") (NBS)          | [FNS](https://ko.wikipedia.org/wiki/후지_네트워크 "wikilink")        | 토요일 01:35 \~ 02:05 | 2010년 10월 8일  |
-| [이시카와현](https://ko.wikipedia.org/wiki/이시카와현 "wikilink")                                                        | [이시카와 TV](https://ko.wikipedia.org/wiki/이시카와_TV "wikilink") (ITC)        | 토요일 02:30 \~ 27:00                                             | 2010년 10월 12일      |               |
-| [에히메현](https://ko.wikipedia.org/wiki/에히메현 "wikilink")                                                          | [TV 에히메](https://ko.wikipedia.org/wiki/TV_에히메 "wikilink") (EBC)          | 화요일 00:35 \~ 01:05                                             | 2010년 10월 18일      |               |
-| [구마모토현](https://ko.wikipedia.org/wiki/구마모토현 "wikilink")                                                        | [TV 구마모토](https://ko.wikipedia.org/wiki/TV_구마모토 "wikilink") (TKU)        | 수요일 02:00 \~ 02:30                                             | 2010년 11월 30일      |               |
-| [가고시마현](https://ko.wikipedia.org/wiki/가고시마현 "wikilink")                                                        | [가고시마 TV](https://ko.wikipedia.org/wiki/가고시마_TV "wikilink") (KTS)        | 일요일 01:05 \~ 01:35                                             | 2010년 10월 16일      |               |
-| [기후현](https://ko.wikipedia.org/wiki/기후현 "wikilink")                                                            | [기후 방송](https://ko.wikipedia.org/wiki/기후_방송 "wikilink") (GBS)            | [JAITS](https://ko.wikipedia.org/wiki/전국_독립_방송_협의회 "wikilink") | 목요일 01:15 \~ 01:45 | 2010년 10월 12일 |
-| [시가현](https://ko.wikipedia.org/wiki/시가현 "wikilink")                                                            | [비와코 방송](https://ko.wikipedia.org/wiki/비와코_방송 "wikilink") (BBC)          | 금요일 01:20 \~ 01:50                                             | 2010년 11월 4일       |               |
-| [나라현](https://ko.wikipedia.org/wiki/나라현 "wikilink")                                                            | [나라 TV 방송](https://ko.wikipedia.org/wiki/나라_TV_방송 "wikilink") (TVN)      | 목요일 01:00 \~ 01:30                                             | 2010년 10월 13일      |               |
-| [와카야마현](https://ko.wikipedia.org/wiki/와카야마현 "wikilink")                                                        | [TV 와카야마](https://ko.wikipedia.org/wiki/TV_와카야마 "wikilink") (WTV)        | 월요일 01:25 \~ 01:55                                             | 2011년 5월 8일        |               |
+| 방송 지역                                                                    | 방송국                                                   | 네트워크                                                          | 방송 시간              | 첫 방송 시작       |
+| ------------------------------------------------------------------------ | ----------------------------------------------------- | ------------------------------------------------------------- | ------------------ | ------------- |
+| 관동광역권\[2\]                                                               | [TV 도쿄](../Page/TV_도쿄.md "wikilink") (TX)             | [TXN](https://ko.wikipedia.org/wiki/TXN "wikilink")           | 목요일 02:20 \~ 02:50 | 2010년 10월 6일  |
+| [홋카이도](../Page/홋카이도.md "wikilink")                                       | [TV 홋카이도](../Page/TV_홋카이도.md "wikilink") (TVh)        | 수요일 01:30 \~ 02:00                                            | 2010년 10월 19일      |               |
+| [아이치현](../Page/아이치현.md "wikilink")                                       | [TV 아이치](../Page/TV_아이치.md "wikilink") (TVA)          | 일요일 01:50 \~ 02:20                                            | 2010년 10월 24일      |               |
+| [오사카부](../Page/오사카부.md "wikilink")                                       | [TV 오사카](../Page/TV_오사카.md "wikilink") (TVO)          | 목요일 02:15 \~ 02:45                                            | 2010년 10월 13일      |               |
+| [오카야마현](../Page/오카야마현.md "wikilink"), [가가와현](../Page/가가와현.md "wikilink") | [TV 세토우치](../Page/TV_세토우치.md "wikilink") (TSC)        | 일요일 02:05 \~ 02:35                                            | 2010년 10월 30일      |               |
+| [후쿠오카현](../Page/후쿠오카현.md "wikilink")                                     | [TVQ 규슈 방송](../Page/TVQ_규슈_방송.md "wikilink") (TVQ)    | 일요일 01:40 \~ 02:10                                            | 2011년 1월 15일       |               |
+| [니가타현](../Page/니가타현.md "wikilink")                                       | [TV 니가타 방송망](../Page/TV_니가타_방송망.md "wikilink") (TeNY) | [NNS](https://ko.wikipedia.org/wiki/닛폰TV_네트워크_협의회 "wikilink") | 화요일 01:29 \~ 01:59 | 2010년 11월 8일  |
+| [시즈오카현](../Page/시즈오카현.md "wikilink")                                     | [시즈오카 제일 TV](../Page/시즈오카_제일_TV.md "wikilink") (SDT)  | 일요일 02:00 \~ 02:30                                            | 2010년 11월 6일       |               |
+| [후쿠시마현](../Page/후쿠시마현.md "wikilink")                                     | [TV-U 후쿠시마](../Page/TV-U_후쿠시마.md "wikilink") (TUF)    | [JNN](../Page/재팬_뉴스_네트워크.md "wikilink")                       | 토요일 01:25 \~ 01:55 | 2010년 12월 16일 |
+| [시마네현](../Page/시마네현.md "wikilink"), [돗토리현](../Page/돗토리현.md "wikilink")   | [산인 방송](../Page/산인_방송.md "wikilink") (BSS)            | 수요일 01:30 \~ 02:00                                            | 2011년 1월 18일       |               |
+| [나가노현](../Page/나가노현.md "wikilink")                                       | [나가노 방송](../Page/나가노_방송.md "wikilink") (NBS)          | [FNS](../Page/후지_네트워크.md "wikilink")                          | 토요일 01:35 \~ 02:05 | 2010년 10월 8일  |
+| [이시카와현](../Page/이시카와현.md "wikilink")                                     | [이시카와 TV](../Page/이시카와_TV.md "wikilink") (ITC)        | 토요일 02:30 \~ 27:00                                            | 2010년 10월 12일      |               |
+| [에히메현](../Page/에히메현.md "wikilink")                                       | [TV 에히메](../Page/TV_에히메.md "wikilink") (EBC)          | 화요일 00:35 \~ 01:05                                            | 2010년 10월 18일      |               |
+| [구마모토현](../Page/구마모토현.md "wikilink")                                     | [TV 구마모토](../Page/TV_구마모토.md "wikilink") (TKU)        | 수요일 02:00 \~ 02:30                                            | 2010년 11월 30일      |               |
+| [가고시마현](../Page/가고시마현.md "wikilink")                                     | [가고시마 TV](../Page/가고시마_TV.md "wikilink") (KTS)        | 일요일 01:05 \~ 01:35                                            | 2010년 10월 16일      |               |
+| [기후현](../Page/기후현.md "wikilink")                                         | [기후 방송](../Page/기후_방송.md "wikilink") (GBS)            | [JAITS](../Page/전국_독립_방송_협의회.md "wikilink")                   | 목요일 01:15 \~ 01:45 | 2010년 10월 12일 |
+| [시가현](../Page/시가현.md "wikilink")                                         | [비와코 방송](../Page/비와코_방송.md "wikilink") (BBC)          | 금요일 01:20 \~ 01:50                                            | 2010년 11월 4일       |               |
+| [나라현](../Page/나라현.md "wikilink")                                         | [나라 TV 방송](../Page/나라_TV_방송.md "wikilink") (TVN)      | 목요일 01:00 \~ 01:30                                            | 2010년 10월 13일      |               |
+| [와카야마현](../Page/와카야마현.md "wikilink")                                     | [TV 와카야마](../Page/TV_와카야마.md "wikilink") (WTV)        | 월요일 01:25 \~ 01:55                                            | 2011년 5월 8일        |               |
 
 ## 각주
 
@@ -226,4 +226,4 @@
 [분류:에비스 마스캇츠](https://ko.wikipedia.org/wiki/분류:에비스_마스캇츠 "wikilink") [분류:2010년 일본의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년_일본의_텔레비전_프로그램 "wikilink") [분류:TV 도쿄의 텔레비전 버라이어티 쇼](https://ko.wikipedia.org/wiki/분류:TV_도쿄의_텔레비전_버라이어티_쇼 "wikilink")
 
 1.  전(全) 시즌을 통틀어 등장한 횟수이며, 한번 연출한 기획이 2회 분량에 나뉘어 방영된 경우 2회로 계산함
-2.  관동 광역권은 [이바라키현](https://ko.wikipedia.org/wiki/이바라키현 "wikilink"), [도치기현](https://ko.wikipedia.org/wiki/도치기현 "wikilink"), [군마현](https://ko.wikipedia.org/wiki/군마현 "wikilink"), [사이타마현](https://ko.wikipedia.org/wiki/사이타마현 "wikilink"), [지바현](https://ko.wikipedia.org/wiki/지바현 "wikilink"), [도쿄도](https://ko.wikipedia.org/wiki/도쿄도 "wikilink"), [가나가와현](https://ko.wikipedia.org/wiki/가나가와현 "wikilink")을 합친 지역이다.
+2.  관동 광역권은 [이바라키현](../Page/이바라키현.md "wikilink"), [도치기현](../Page/도치기현.md "wikilink"), [군마현](../Page/군마현.md "wikilink"), [사이타마현](https://ko.wikipedia.org/wiki/사이타마현 "wikilink"), [지바현](../Page/지바현.md "wikilink"), [도쿄도](../Page/도쿄도.md "wikilink"), [가나가와현](../Page/가나가와현.md "wikilink")을 합친 지역이다.

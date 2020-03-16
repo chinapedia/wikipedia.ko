@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DEVOTION](https://ko.wikipedia.org/wiki/DEVOTION).
 
 
-《**DEVOTION**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 여성 5인조 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [베이비복스](https://ko.wikipedia.org/wiki/베이비복스 "wikilink")의 여섯 번째 정규앨범이다.
+《**DEVOTION**》는 [대한민국](../Page/대한민국.md "wikilink")의 여성 5인조 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [베이비복스](../Page/베이비복스.md "wikilink")의 여섯 번째 정규앨범이다.
 
 ## 앨범 소개
 

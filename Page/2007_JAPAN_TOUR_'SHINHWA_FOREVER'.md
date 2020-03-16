@@ -30,7 +30,7 @@
 <tr class="even">
 <td><p>2007년 12월 8일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/사이타마_시" title="wikilink">기옥</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/사이타마_슈퍼_아레나" title="wikilink">사이타마 슈퍼 아레나</a></p></td>
+<td><p><a href="../Page/사이타마_슈퍼_아레나.md" title="wikilink">사이타마 슈퍼 아레나</a></p></td>
 <td><p>통산 30,000명</p></td>
 <td></td>
 </tr>
@@ -77,7 +77,7 @@
 <td style="text-align: left;"><p>DVD</p></td>
 <td style="text-align: left;"><p>2007 JAPAN TOUR 《SHINHWA FOREVER》 DVD</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2008년" title="wikilink">2008년</a> <a href="https://ko.wikipedia.org/wiki/3월_19일" title="wikilink">3월 19일</a> (일본)</li>
+<li>발매일 : <a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/3월_19일.md" title="wikilink">3월 19일</a> (일본)</li>
 </ul></td>
 </tr>
 </tbody>

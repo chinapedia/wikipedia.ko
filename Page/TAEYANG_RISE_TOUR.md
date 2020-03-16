@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TAEYANG RISE TOUR](https://ko.wikipedia.org/wiki/TAEYANG_RISE_TOUR).
 
 
-《**TAEYANG RISE TOUR**》는 [태양의](https://ko.wikipedia.org/wiki/태양_\(가수\) "wikilink") 첫 월드 투어로 2014년부터 2015년까지 9개 국가의 16개 도시에서 공연하였다. 이 투어는 그의 두번째 솔로 앨범 〈[RISE](https://ko.wikipedia.org/wiki/Rise_\(태양의_음반\) "wikilink")〉 발표 이후 개최 되었다.
+《**TAEYANG RISE TOUR**》는 [태양의](../Page/태양_\(가수\).md "wikilink") 첫 월드 투어로 2014년부터 2015년까지 9개 국가의 16개 도시에서 공연하였다. 이 투어는 그의 두번째 솔로 앨범 〈[RISE](https://ko.wikipedia.org/wiki/Rise_\(태양의_음반\) "wikilink")〉 발표 이후 개최 되었다.
 
 ## 투어 일정
 
@@ -151,7 +151,7 @@
 </tr>
 <tr class="even">
 <td><p>2015년 1월 10일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/홍콩" title="wikilink">홍콩</a></p></td>
+<td><p><a href="../Page/홍콩.md" title="wikilink">홍콩</a></p></td>
 <td></td>
 <td><p>아시아 월드 아레나[3]</p></td>
 <td><p>4,200명</p></td>
@@ -179,7 +179,7 @@
 </tr>
 <tr class="even">
 <td><p>2015년 2월 7일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/쿠알라룸푸르" title="wikilink">쿠알라룸푸르</a></p></td>
+<td><p><a href="../Page/쿠알라룸푸르.md" title="wikilink">쿠알라룸푸르</a></p></td>
 <td></td>
 <td><p>쿠알라룸푸르 국립 체육관</p></td>
 <td><p>4,200명</p></td>
@@ -193,14 +193,14 @@
 </tr>
 <tr class="even">
 <td><p>2015년 2월 14일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/자카르타" title="wikilink">자카르타</a></p></td>
+<td><p><a href="../Page/자카르타.md" title="wikilink">자카르타</a></p></td>
 <td></td>
 <td><p>자카르타 스포츠 경기장</p></td>
 <td><p>8,000명</p></td>
 </tr>
 <tr class="odd">
 <td><p>2015년 2월 21일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/방콕" title="wikilink">방콕</a></p></td>
+<td><p><a href="../Page/방콕.md" title="wikilink">방콕</a></p></td>
 <td></td>
 <td><p>썬더 돔</p></td>
 <td><p>10,000명</p></td>

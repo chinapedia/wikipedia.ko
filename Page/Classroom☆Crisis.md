@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ClassroomCrisis](https://ko.wikipedia.org/wiki/ClassroomCrisis).
 
 
-《**Classroom☆Crisis**》()는 [Lay-duce](https://ko.wikipedia.org/wiki/Lay-duce "wikilink")에서 제작한 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 오리지널 [애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink")이다. 2015년 7월에 방영이 시작되어 일본에서는 [TBS](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink"), [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 [애니플러스](https://ko.wikipedia.org/wiki/애니플러스 "wikilink")가 판권을 구입해 방영하고 있다.
+《**Classroom☆Crisis**》()는 [Lay-duce](https://ko.wikipedia.org/wiki/Lay-duce "wikilink")에서 제작한 [일본](../Page/일본.md "wikilink")의 오리지널 [애니메이션](../Page/애니메이션.md "wikilink")이다. 2015년 7월에 방영이 시작되어 일본에서는 [TBS](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink"), [대한민국](../Page/대한민국.md "wikilink")에서는 [애니플러스](../Page/애니플러스.md "wikilink")가 판권을 구입해 방영하고 있다.
 
 ## 외부 링크
 

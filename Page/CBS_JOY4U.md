@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [CBS JOY4U](https://ko.wikipedia.org/wiki/CBS_JOY4U).
 
 
-'''CBS JOY4U '''는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 방송국 [기독교방송](https://ko.wikipedia.org/wiki/기독교방송 "wikilink")의 인터넷 크리스천 음악방송으로 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [9월 14일](https://ko.wikipedia.org/wiki/9월_14일 "wikilink") 개국하였다. CBS 인터넷 라디오 《RAINBOW》와 《CBS TV》앱, 스카이라이프와 케이블TV 오디오 채널인 KISS 기독교 음악 채널로도 들을 수 있으며, 24시간 방송하고 있다.
+'''CBS JOY4U '''는 [대한민국](../Page/대한민국.md "wikilink")의 방송국 [기독교방송](https://ko.wikipedia.org/wiki/기독교방송 "wikilink")의 인터넷 크리스천 음악방송으로 [2015년](../Page/2015년.md "wikilink") [9월 14일](../Page/9월_14일.md "wikilink") 개국하였다. CBS 인터넷 라디오 《RAINBOW》와 《CBS TV》앱, 스카이라이프와 케이블TV 오디오 채널인 KISS 기독교 음악 채널로도 들을 수 있으며, 24시간 방송하고 있다.
 
 ## 연혁
 
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [9월 14일](https://ko.wikipedia.org/wiki/9월_14일 "wikilink") - 크리스천 음악방송 JOY4U 개국
+  - [2015년](../Page/2015년.md "wikilink") [9월 14일](../Page/9월_14일.md "wikilink") - 크리스천 음악방송 JOY4U 개국
 
 ## 방송 프로그램 (편성표)
 
@@ -21,11 +21,11 @@
 <tbody>
 <tr class="odd">
 <td><p>00:00</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/CCM_캠프" title="wikilink">한웅재의 CCM CAMP</a> (CBS 표준FM 동시방송)</p></td>
+<td><p><a href="../Page/CCM_캠프.md" title="wikilink">한웅재의 CCM CAMP</a> (CBS 표준FM 동시방송)</p></td>
 </tr>
 <tr class="even">
 <td><p>02:00</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/밤의_동산에서" title="wikilink">김덕기의 밤의 동산에서</a> (CBS 표준FM 동시방송)</p></td>
+<td><p><a href="../Page/밤의_동산에서.md" title="wikilink">김덕기의 밤의 동산에서</a> (CBS 표준FM 동시방송)</p></td>
 </tr>
 <tr class="odd">
 <td><p>04:00</p></td>
@@ -33,7 +33,7 @@
 </tr>
 <tr class="even">
 <td><p>06:00</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/어메이징_그레이스_(라디오_프로그램)" title="wikilink">정민아의 Amazing grace</a> (CBS 음악FM 동시방송)[1]</p></td>
+<td><p><a href="../Page/어메이징_그레이스_(라디오_프로그램).md" title="wikilink">정민아의 Amazing grace</a> (CBS 음악FM 동시방송)[1]</p></td>
 </tr>
 <tr class="odd">
 <td><p>08:00</p></td>
@@ -92,8 +92,8 @@
 
 ## 같이 보기
 
-  - [CBS 표준FM](https://ko.wikipedia.org/wiki/CBS_표준FM "wikilink")
-  - [CBS 음악FM](https://ko.wikipedia.org/wiki/CBS_음악FM "wikilink")
+  - [CBS 표준FM](../Page/CBS_표준FM.md "wikilink")
+  - [CBS 음악FM](../Page/CBS_음악FM.md "wikilink")
 
 ## 각주
 

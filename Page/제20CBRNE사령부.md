@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [20CBRNE](https://ko.wikipedia.org/wiki/20CBRNE).
 
 
-**제20CBRNE사령부**(), *제20지원사령부*로도 알려져 있는 [메릴랜드 주, 애버딘의](https://ko.wikipedia.org/wiki/애버딘_\(메릴랜드주\) "wikilink") [애버딘 실험장에](https://ko.wikipedia.org/wiki/애버딘_실험장 "wikilink") 본부를 두고있는 [미국 육군의](https://ko.wikipedia.org/wiki/미국_육군 "wikilink") [화학, 생물학, 방사능, 핵 및 고성능 폭발물](https://ko.wikipedia.org/wiki/대량살상무기 "wikilink")() 대응 [사령부](https://ko.wikipedia.org/wiki/사령부 "wikilink")이다. 표어는 "", "
+**제20CBRNE사령부**(), *제20지원사령부*로도 알려져 있는 [메릴랜드 주, 애버딘의](https://ko.wikipedia.org/wiki/애버딘_\(메릴랜드주\) "wikilink") [애버딘 실험장에](https://ko.wikipedia.org/wiki/애버딘_실험장 "wikilink") 본부를 두고있는 [미국 육군의](../Page/미국_육군.md "wikilink") [화학, 생물학, 방사능, 핵 및 고성능 폭발물](../Page/대량살상무기.md "wikilink")() 대응 [사령부](https://ko.wikipedia.org/wiki/사령부 "wikilink")이다. 표어는 "", "
 
-2009년부터 [을지 프리덤 가디언](https://ko.wikipedia.org/wiki/을지_프리덤_가디언 "wikilink") 훈련에 참가하고 있으며, [대한민국 국군의](https://ko.wikipedia.org/wiki/대한민국_국군 "wikilink") [국군화생방방호사령부](../Page/국군화생방방호사령부.md "wikilink")와 합동으로 [JTF-E를](https://ko.wikipedia.org/wiki/:en:Joint_Task_Force_for_Elimination "wikilink") 편성하여 [조선민주주의인민공화국](https://ko.wikipedia.org/wiki/조선민주주의인민공화국 "wikilink")의 [대량살상무기](https://ko.wikipedia.org/wiki/대량살상무기 "wikilink")에 대응하는 연습을 한다.\[1\]\[2\]
+2009년부터 [을지 프리덤 가디언](../Page/을지_프리덤_가디언.md "wikilink") 훈련에 참가하고 있으며, [대한민국 국군의](../Page/대한민국_국군.md "wikilink") [국군화생방방호사령부](../Page/국군화생방방호사령부.md "wikilink")와 합동으로 [JTF-E를](https://ko.wikipedia.org/wiki/:en:Joint_Task_Force_for_Elimination "wikilink") 편성하여 [조선민주주의인민공화국](../Page/조선민주주의인민공화국.md "wikilink")의 [대량살상무기](../Page/대량살상무기.md "wikilink")에 대응하는 연습을 한다.\[1\]\[2\]
 
 [제48화학여단](../Page/제48화학여단.md "wikilink") 예하 [제23화학대대](../Page/제23화학대대.md "wikilink")가 2013년 1월 7일부터 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink")의 [캠프 스탠리에](../Page/캠프_스탠리.md "wikilink") 배치되었다.
 
@@ -12,7 +12,7 @@
 [240px](https://ko.wikipedia.org/wiki/파일:20th_Support_Command_\(CBRNE\).png "wikilink")
 
   - 정규군
-      - [제48화학여단](../Page/제48화학여단.md "wikilink") - [포트 후드](https://ko.wikipedia.org/wiki/포트_후드 "wikilink")
+      - [제48화학여단](../Page/제48화학여단.md "wikilink") - [포트 후드](../Page/포트_후드.md "wikilink")
       - 제52병기단 (EOD) - [포트 캠벨](../Page/포트_캠벨.md "wikilink")
       - 제71병기단 (EOD) - [포트 카슨](https://ko.wikipedia.org/wiki/포트_카슨 "wikilink")
       - 제21병기중대 - [커트랜드 공군기지](https://ko.wikipedia.org/wiki/커트랜드_공군기지 "wikilink")

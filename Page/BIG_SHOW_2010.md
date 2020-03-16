@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [BIG SHOW 2010](https://ko.wikipedia.org/wiki/BIG_SHOW_2010).
 
 
-**BIG SHOW 2010**는 [빅뱅의](https://ko.wikipedia.org/wiki/빅뱅_\(음악_그룹\) "wikilink") 일곱 번째 콘서트 투어이다.\[1\] 이 콘서트의 공연 실황을 담은 DVD가 2010년 4월 19일에 발매 되어 4만장의 판매량을 기록했다. 이 콘서트는 3회에 걸쳐 열려 약 40억원의 매출을 기록했다. 또한 2011년 2월 2일에는 이 콘서트의 공연 실황을 담은 [3D 영화](https://ko.wikipedia.org/wiki/3D_영화 "wikilink") *2010 빅뱅 라이브 콘서트 빅쇼 3D*가 개봉 되었다.
+**BIG SHOW 2010**는 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") 일곱 번째 콘서트 투어이다.\[1\] 이 콘서트의 공연 실황을 담은 DVD가 2010년 4월 19일에 발매 되어 4만장의 판매량을 기록했다. 이 콘서트는 3회에 걸쳐 열려 약 40억원의 매출을 기록했다. 또한 2011년 2월 2일에는 이 콘서트의 공연 실황을 담은 [3D 영화](https://ko.wikipedia.org/wiki/3D_영화 "wikilink") *2010 빅뱅 라이브 콘서트 빅쇼 3D*가 개봉 되었다.
 
 ## 스페셜 게스트
 
-  - [2NE1](https://ko.wikipedia.org/wiki/2NE1 "wikilink")
+  - [2NE1](../Page/2NE1.md "wikilink")
 
 ## 투어 일정
 
@@ -24,7 +24,7 @@
 <td><p>2010년 1월 29일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/서울" title="wikilink">서울</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/올림픽체조경기장" title="wikilink">올림픽 공원 체조경기장</a>[2]</p></td>
+<td><p><a href="../Page/올림픽체조경기장.md" title="wikilink">올림픽 공원 체조경기장</a>[2]</p></td>
 <td><p>통산 39,000명</p></td>
 </tr>
 <tr class="even">

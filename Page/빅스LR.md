@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LR](https://ko.wikipedia.org/wiki/LR).
 
 
-**빅스LR**는 보이 그룹 [빅스의](https://ko.wikipedia.org/wiki/빅스_\(음악_그룹\) "wikilink") 유닛 그룹이다. [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [8월 17일](https://ko.wikipedia.org/wiki/8월_17일 "wikilink") 첫 번째 미니앨범 타이틀 곡 〈Beautiful Liar〉로 데뷔 하였다.
+**빅스LR**는 보이 그룹 [빅스의](../Page/빅스_\(음악_그룹\).md "wikilink") 유닛 그룹이다. [2015년](../Page/2015년.md "wikilink") [8월 17일](../Page/8월_17일.md "wikilink") 첫 번째 미니앨범 타이틀 곡 〈Beautiful Liar〉로 데뷔 하였다.
 
 ## 구성원
 
@@ -76,7 +76,7 @@
 <td><ul>
 <li><strong>Beautiful Liar</strong> (총 1회)
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/9월_1일" title="wikilink">9월 1일</a> 《<a href="https://ko.wikipedia.org/wiki/THE_SHOW:_All_About_K-POP" title="wikilink">THE SHOW: All About K-POP</a> 시즌 4》 더 쇼 초이스</li>
+<li><a href="../Page/9월_1일.md" title="wikilink">9월 1일</a> 《<a href="https://ko.wikipedia.org/wiki/THE_SHOW:_All_About_K-POP" title="wikilink">THE SHOW: All About K-POP</a> 시즌 4》 더 쇼 초이스</li>
 </ul></li>
 </ul></td>
 </tr>

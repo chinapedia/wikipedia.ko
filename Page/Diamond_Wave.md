@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Diamond Wave](https://ko.wikipedia.org/wiki/Diamond_Wave).
 
 
-〈**Diamond Wave**〉(다이아몬드 웨이브)는 일본의 여성 가수 [쿠라키 마이의](https://ko.wikipedia.org/wiki/쿠라키_마이 "wikilink") 24번째 [CD 싱글로](https://ko.wikipedia.org/wiki/싱글_\(음악\)#CD_싱글 "wikilink") [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [6월 21일에](https://ko.wikipedia.org/wiki/6월_21일 "wikilink") [기자 스튜디오에서](https://ko.wikipedia.org/wiki/기자_스튜디오 "wikilink") 발매되었다.
+〈**Diamond Wave**〉(다이아몬드 웨이브)는 일본의 여성 가수 [쿠라키 마이의](../Page/쿠라키_마이.md "wikilink") 24번째 [CD 싱글로](https://ko.wikipedia.org/wiki/싱글_\(음악\)#CD_싱글 "wikilink") [2006년](../Page/2006년.md "wikilink") [6월 21일에](../Page/6월_21일.md "wikilink") [기자 스튜디오에서](https://ko.wikipedia.org/wiki/기자_스튜디오 "wikilink") 발매되었다.
 
 음반 《[DIAMOND WAVE](../Page/DIAMOND_WAVE.md "wikilink")》의 선행 싱글로 발매.
 
-노래는 [닛폰 TV](https://ko.wikipedia.org/wiki/닛폰_TV_방송망 "wikilink") 《[스포츠 우루구스](https://ko.wikipedia.org/wiki/스포츠_우루구스 "wikilink")》 테마송이다.
+노래는 [닛폰 TV](../Page/닛폰_TV_방송망.md "wikilink") 《[스포츠 우루구스](https://ko.wikipedia.org/wiki/스포츠_우루구스 "wikilink")》 테마송이다.
 
 ## 싱글 수록곡
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BIG SHOW 2009](https://ko.wikipedia.org/wiki/BIG_SHOW_2009).
 
 
-**BIG SHOW 2009**는 [빅뱅의](https://ko.wikipedia.org/wiki/빅뱅_\(음악_그룹\) "wikilink") 여섯 번째 콘서트 투어이다.\[1\] 이 콘서트의 공연 실황을 담은 DVD가 2009년 7월 23일에 발매 되어 6만장의 판매량을 기록했다.
+**BIG SHOW 2009**는 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") 여섯 번째 콘서트 투어이다.\[1\] 이 콘서트의 공연 실황을 담은 DVD가 2009년 7월 23일에 발매 되어 6만장의 판매량을 기록했다.
 
 ## 투어 일정
 
@@ -20,7 +20,7 @@
 <td><p>2009년 1월 30일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/서울" title="wikilink">서울</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/올림픽체조경기장" title="wikilink">올림픽 공원 체조경기장</a>[2]</p></td>
+<td><p><a href="../Page/올림픽체조경기장.md" title="wikilink">올림픽 공원 체조경기장</a>[2]</p></td>
 <td><p>통산 56,000명</p></td>
 </tr>
 <tr class="even">

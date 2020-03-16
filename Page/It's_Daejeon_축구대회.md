@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [It\'s Daejeon ](https://ko.wikipedia.org/wiki/It\'s_Daejeon_).
 
 
-[대전 시티즌은](https://ko.wikipedia.org/wiki/대전_시티즌 "wikilink") 2007년 [브라질 세리에 A의](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A "wikilink") [SC 인테르나시오나우를](https://ko.wikipedia.org/wiki/SC_인테르나시오나우 "wikilink") 초청하여 [대전월드컵경기장](https://ko.wikipedia.org/wiki/대전월드컵경기장 "wikilink")에서 친선경기를 개최한 것을 시작으로 매년 [중도일보](https://ko.wikipedia.org/wiki/중도일보 "wikilink") 주체 하에 외국의 축구팀과 [대전월드컵경기장](https://ko.wikipedia.org/wiki/대전월드컵경기장 "wikilink")에서 평가전을 가지고 있다. 이 문서는 그 동안 가진 친선경기에 관한 기록이다.
+[대전 시티즌은](https://ko.wikipedia.org/wiki/대전_시티즌 "wikilink") 2007년 [브라질 세리에 A의](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A "wikilink") [SC 인테르나시오나우를](../Page/SC_인테르나시오나우.md "wikilink") 초청하여 [대전월드컵경기장](../Page/대전월드컵경기장.md "wikilink")에서 친선경기를 개최한 것을 시작으로 매년 [중도일보](https://ko.wikipedia.org/wiki/중도일보 "wikilink") 주체 하에 외국의 축구팀과 [대전월드컵경기장](../Page/대전월드컵경기장.md "wikilink")에서 평가전을 가지고 있다. 이 문서는 그 동안 가진 친선경기에 관한 기록이다.
 
 ## 경기
 
@@ -25,7 +25,7 @@
 <td><p>2007-07-17</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/SC_인터나시오날" title="wikilink">SC 인터나시오날</a></p></td>
 <td><p>0–2 패</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/SC_인테르나시오나우" title="wikilink">인</a> : 미상</p></td>
+<td><p><a href="../Page/SC_인테르나시오나우.md" title="wikilink">인</a> : 미상</p></td>
 <td><p>약 42,537명</p></td>
 <td></td>
 </tr>
@@ -33,10 +33,10 @@
 <td><p>2</p></td>
 <td><p>N/A</p></td>
 <td><p>2008-06-21</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/비셀_고베" title="wikilink">빗셀 고베</a></p></td>
+<td><p><a href="../Page/비셀_고베.md" title="wikilink">빗셀 고베</a></p></td>
 <td><p>1–1 무 승부차기 2-4패</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/대전_시티즌" title="wikilink">대</a> : <a href="https://ko.wikipedia.org/wiki/최근식" title="wikilink">최근식</a><br />
-<a href="https://ko.wikipedia.org/wiki/비셀_고베" title="wikilink">비</a> : 레안드로</p></td>
+<a href="../Page/비셀_고베.md" title="wikilink">비</a> : 레안드로</p></td>
 <td><p>약 31,527명[1]</p></td>
 <td></td>
 </tr>
@@ -47,7 +47,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/CR_바스코_다_가마" title="wikilink">CR 바스코 다 가마</a></p></td>
 <td><p>4–2 승</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/대전_시티즌" title="wikilink">대</a> : <a href="https://ko.wikipedia.org/wiki/박성호_(1982년)" title="wikilink">박성호</a>, <a href="https://ko.wikipedia.org/wiki/권집" title="wikilink">권집</a> (3)<br />
-<a href="https://ko.wikipedia.org/wiki/CR_바스쿠_다_가마" title="wikilink">바</a> : 파이올리, <a href="../Page/알레스_테이셰이라.md" title="wikilink">알레스 테이셰이라</a></p></td>
+<a href="../Page/CR_바스쿠_다_가마.md" title="wikilink">바</a> : 파이올리, <a href="../Page/알레스_테이셰이라.md" title="wikilink">알레스 테이셰이라</a></p></td>
 <td><p>약 38,000명[2][3]</p></td>
 <td></td>
 </tr>
@@ -55,10 +55,10 @@
 <td><p>4</p></td>
 <td><p>N/A</p></td>
 <td><p>2010-06-05</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아르헨티노스_주니어스" title="wikilink">아르헨티노스 주니어스</a></p></td>
+<td><p><a href="../Page/아르헨티노스_주니어스.md" title="wikilink">아르헨티노스 주니어스</a></p></td>
 <td><p>2–1 승</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/대전_시티즌" title="wikilink">대</a> : 산토스, <a href="https://ko.wikipedia.org/wiki/곽창희" title="wikilink">곽창희</a><br />
-<a href="https://ko.wikipedia.org/wiki/아르헨티노스_주니어스" title="wikilink">아</a> : 리우스 치로</p></td>
+<a href="../Page/아르헨티노스_주니어스.md" title="wikilink">아</a> : 리우스 치로</p></td>
 <td><p>약 28,395명[4]</p></td>
 <td></td>
 </tr>
@@ -79,18 +79,18 @@
 <td><p>2012-06-09</p></td>
 <td><p><a href="../Page/클루브_아틀라스.md" title="wikilink">FC 아틀라스</a></p></td>
 <td><p>2–0 승</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/대전_시티즌" title="wikilink">대</a> : <a href="https://ko.wikipedia.org/wiki/케빈_오리스" title="wikilink">케빈</a>, <a href="https://ko.wikipedia.org/wiki/이호_(1986년)" title="wikilink">이호</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/대전_시티즌" title="wikilink">대</a> : <a href="../Page/케빈_오리스.md" title="wikilink">케빈</a>, <a href="../Page/이호_(1986년).md" title="wikilink">이호</a></p></td>
 <td><p>약 39,759명[6]</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2012년_올림픽" title="wikilink">2012년 올림픽</a> <a href="https://ko.wikipedia.org/wiki/멕시코" title="wikilink">멕시코</a>전 선전 기원 경기</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/2012년_올림픽" title="wikilink">2012년 올림픽</a> <a href="../Page/멕시코.md" title="wikilink">멕시코</a>전 선전 기원 경기</p></td>
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
 <td><p>N/A</p></td>
 <td><p>2013-06-01</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/FC_시비리_노보시비르스크" title="wikilink">FC 시비리 노보시비르스크</a></p></td>
+<td><p><a href="../Page/FC_시비리_노보시비르스크.md" title="wikilink">FC 시비리 노보시비르스크</a></p></td>
 <td><p>3–2 승</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/대전_시티즌" title="wikilink">대</a> : 보르하 (2), <a href="https://ko.wikipedia.org/wiki/김병석" title="wikilink">김병석</a><br />
-<a href="https://ko.wikipedia.org/wiki/FC_시비리_노보시비르스크" title="wikilink">시</a> : 쉐골리힌예브게니, 오를로브 세르게이</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/대전_시티즌" title="wikilink">대</a> : 보르하 (2), <a href="../Page/김병석.md" title="wikilink">김병석</a><br />
+<a href="../Page/FC_시비리_노보시비르스크.md" title="wikilink">시</a> : 쉐골리힌예브게니, 오를로브 세르게이</p></td>
 <td><p>미상[7]</p></td>
 <td></td>
 </tr>
@@ -98,12 +98,12 @@
 <td><p>8</p></td>
 <td><p>N/A</p></td>
 <td><p>2014-06-13</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/FC_시비리_노보시비르스크" title="wikilink">FC 시비리 노보시비르스크</a></p></td>
+<td><p><a href="../Page/FC_시비리_노보시비르스크.md" title="wikilink">FC 시비리 노보시비르스크</a></p></td>
 <td><p>1–1 무</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/대전_시티즌" title="wikilink">대</a> : <a href="../Page/이동현_(축구_선수).md" title="wikilink">이동현</a><br />
-<a href="https://ko.wikipedia.org/wiki/FC_시비리_노보시비르스크" title="wikilink">시</a> : 체보타루</p></td>
+<a href="../Page/FC_시비리_노보시비르스크.md" title="wikilink">시</a> : 체보타루</p></td>
 <td><p>약 27,825명[8]</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2014년_월드컵" title="wikilink">2014년 월드컵</a> <a href="https://ko.wikipedia.org/wiki/러시아" title="wikilink">러시아</a>전 선전 기원 경기</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/2014년_월드컵" title="wikilink">2014년 월드컵</a> <a href="../Page/러시아.md" title="wikilink">러시아</a>전 선전 기원 경기</p></td>
 </tr>
 <tr class="odd">
 <td><p>9</p></td>
@@ -120,12 +120,12 @@
 <td><p>10</p></td>
 <td><p>N/A</p></td>
 <td><p>2016-06-24</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/AFC_튀비즈" title="wikilink">AFC 투비즈</a></p></td>
+<td><p><a href="../Page/AFC_튀비즈.md" title="wikilink">AFC 투비즈</a></p></td>
 <td><p>3-1승</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/대전_시티즌" title="wikilink">대</a> : <a href="../Page/진대성.md" title="wikilink">진대성</a>, <a href="../Page/구스타부_사우에르.md" title="wikilink">구스타보</a>, <a href="https://ko.wikipedia.org/wiki/김은중" title="wikilink">김은중</a>[10]<br />
-<a href="https://ko.wikipedia.org/wiki/AFC_튀비즈" title="wikilink">튀</a> : <a href="https://ko.wikipedia.org/wiki/레반_셴겔리아" title="wikilink">레반</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/대전_시티즌" title="wikilink">대</a> : <a href="../Page/진대성.md" title="wikilink">진대성</a>, <a href="../Page/구스타부_사우에르.md" title="wikilink">구스타보</a>, <a href="../Page/김은중.md" title="wikilink">김은중</a>[10]<br />
+<a href="../Page/AFC_튀비즈.md" title="wikilink">튀</a> : <a href="../Page/레반_셴겔리아.md" title="wikilink">레반</a></p></td>
 <td><p>약 13,625명[11][12]</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김은중" title="wikilink">김은중</a> 은퇴 기념경기[13]</p></td>
+<td><p><a href="../Page/김은중.md" title="wikilink">김은중</a> 은퇴 기념경기[13]</p></td>
 </tr>
 <tr class="odd">
 <td><p>11</p></td>
@@ -133,7 +133,7 @@
 <td><p>2017-06-30</p></td>
 <td><p>연예인 회오리 축구단</p></td>
 <td><p>5-1승</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/대전_시티즌" title="wikilink">대OB</a> : <a href="https://ko.wikipedia.org/wiki/이관우" title="wikilink">이관우</a> (2), <a href="https://ko.wikipedia.org/wiki/김은중" title="wikilink">김은중</a> (3)<br />
+<td><p><a href="https://ko.wikipedia.org/wiki/대전_시티즌" title="wikilink">대OB</a> : <a href="../Page/이관우.md" title="wikilink">이관우</a> (2), <a href="../Page/김은중.md" title="wikilink">김은중</a> (3)<br />
 회 : 안이언</p></td>
 <td><p>약 19,662명[14][15][16]</p></td>
 <td><p>대전시티즌 레전드로 구성된 OB팀의 이벤트성 경기[17]</p></td>
@@ -141,7 +141,7 @@
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/SKA_하바롭스크" title="wikilink">SKA 하바롭스크</a></p></td>
 <td><p>1-2패</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/대전_시티즌" title="wikilink">대</a> : <a href="https://ko.wikipedia.org/wiki/장준영_(축구_선수)" title="wikilink">장준영</a><br />
+<td><p><a href="https://ko.wikipedia.org/wiki/대전_시티즌" title="wikilink">대</a> : <a href="../Page/장준영_(축구_선수).md" title="wikilink">장준영</a><br />
 <a href="https://ko.wikipedia.org/wiki/SKA_하바롭스크" title="wikilink">하</a> : <a href="https://ko.wikipedia.org/wiki/루슬란" title="wikilink">루슬란</a>, <a href="https://ko.wikipedia.org/wiki/알렉산데" title="wikilink">알렉산데</a></p></td>
 <td></td>
 <td></td>
@@ -186,33 +186,33 @@
 
 ## 그 외
 
-[2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") 개최된 [It's Daejeon 축구대회는](../Page/It's_Daejeon_축구대회.md "wikilink") 원래 2014시즌을 끝으로 은퇴한 대전의 레전드 선수였던 [김은중](https://ko.wikipedia.org/wiki/김은중 "wikilink")의 은퇴식을 치르기 위해 김은중이 코치로 있는 [AFC 튀비즈와](https://ko.wikipedia.org/wiki/AFC_튀비즈 "wikilink") [7월 17일](https://ko.wikipedia.org/wiki/7월_17일 "wikilink") 경기로 예정 되어있었으나,\[18\] [메르스](https://ko.wikipedia.org/wiki/메르스 "wikilink") 여파로 취소 되었으며,\[19\] [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [6월 24일](https://ko.wikipedia.org/wiki/6월_24일 "wikilink") 개최되었다. [섬네일](https://ko.wikipedia.org/wiki/파일:은퇴_판넬_앞_김은중.jpg "wikilink")\]\] 이날 경기서 김은중은 전반엔 코치로 튀비즈의 벤치에 있었고, 후반 대전의 선수로 교체출전해 헤딩골을 기록하였다.
+[2015년](../Page/2015년.md "wikilink") 개최된 [It's Daejeon 축구대회는](../Page/It's_Daejeon_축구대회.md "wikilink") 원래 2014시즌을 끝으로 은퇴한 대전의 레전드 선수였던 [김은중](../Page/김은중.md "wikilink")의 은퇴식을 치르기 위해 김은중이 코치로 있는 [AFC 튀비즈와](../Page/AFC_튀비즈.md "wikilink") [7월 17일](../Page/7월_17일.md "wikilink") 경기로 예정 되어있었으나,\[18\] [메르스](https://ko.wikipedia.org/wiki/메르스 "wikilink") 여파로 취소 되었으며,\[19\] [2016년](../Page/2016년.md "wikilink") [6월 24일](../Page/6월_24일.md "wikilink") 개최되었다. [섬네일](https://ko.wikipedia.org/wiki/파일:은퇴_판넬_앞_김은중.jpg "wikilink")\]\] 이날 경기서 김은중은 전반엔 코치로 튀비즈의 벤치에 있었고, 후반 대전의 선수로 교체출전해 헤딩골을 기록하였다.
 
 ## 대회 참가한 유명인
 
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") 대전 OB팀과 연예인 회오리 축구단 경기 포함
+  - [2017년](../Page/2017년.md "wikilink") 대전 OB팀과 연예인 회오리 축구단 경기 포함
 
-  - [오쿠보 요시토](https://ko.wikipedia.org/wiki/오쿠보_요시토 "wikilink") (2008)
+  - [오쿠보 요시토](../Page/오쿠보_요시토.md "wikilink") (2008)
 
   - [알레스 테이셰이라](../Page/알레스_테이셰이라.md "wikilink") (2009)
 
-  - [쿠티뉴](https://ko.wikipedia.org/wiki/필리피_코치뉴 "wikilink") (2009)
+  - [쿠티뉴](../Page/필리피_코치뉴.md "wikilink") (2009)
 
-  - [나카야마 마사시](https://ko.wikipedia.org/wiki/나카야마_마사시 "wikilink") (2011)
+  - [나카야마 마사시](../Page/나카야마_마사시.md "wikilink") (2011)
 
   - [레안드로 쿠프레](../Page/레안드로_쿠프레.md "wikilink") (2012)
 
   - [하태균](https://ko.wikipedia.org/wiki/하태균 "wikilink") (2015)
 
-  - [김은중](https://ko.wikipedia.org/wiki/김은중 "wikilink") (2014, 2016, 2017)
+  - [김은중](../Page/김은중.md "wikilink") (2014, 2016, 2017)
 
-  - [이관우](https://ko.wikipedia.org/wiki/이관우 "wikilink") (2017)
+  - [이관우](../Page/이관우.md "wikilink") (2017)
 
-  - [조영구](https://ko.wikipedia.org/wiki/조영구 "wikilink") (2017)
+  - [조영구](../Page/조영구.md "wikilink") (2017)
 
 ## 통계
 
-[2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") 대전 시티즌 OB팀과 연예인 회오리 축구단 경기 제외
+[2017년](../Page/2017년.md "wikilink") 대전 시티즌 OB팀과 연예인 회오리 축구단 경기 제외
 
 | 친선경기   | 경기수    | 승     | 무     | 패     | 득      | 실      | 차      |
 | ------ | ------ | ----- | ----- | ----- | ------ | ------ | ------ |

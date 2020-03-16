@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [   G](https://ko.wikipedia.org/wiki/___G).
 
 
-『**코믹 전격 대왕 G**』는 [카도카와](https://ko.wikipedia.org/wiki/카도카와 "wikilink") ([아스키 미디어 워크스](https://ko.wikipedia.org/wiki/아스키_미디어_워크스 "wikilink")) 발행의 월간 [4컷](https://ko.wikipedia.org/wiki/네_컷_만화 "wikilink") [만화 잡지](https://ko.wikipedia.org/wiki/만화_잡지 "wikilink"). 『[월간 코믹 전격 대왕](https://ko.wikipedia.org/wiki/월간_코믹_전격_대왕 "wikilink")』의 증간으로, [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [9월 27일에](https://ko.wikipedia.org/wiki/9월_27일 "wikilink") 창간되었다.
+『**코믹 전격 대왕 G**』는 [카도카와](https://ko.wikipedia.org/wiki/카도카와 "wikilink") ([아스키 미디어 워크스](../Page/아스키_미디어_워크스.md "wikilink")) 발행의 월간 [4컷](../Page/네_컷_만화.md "wikilink") [만화 잡지](https://ko.wikipedia.org/wiki/만화_잡지 "wikilink"). 『[월간 코믹 전격 대왕](../Page/월간_코믹_전격_대왕.md "wikilink")』의 증간으로, [2013년](../Page/2013년.md "wikilink") [9월 27일에](../Page/9월_27일.md "wikilink") 창간되었다.
 
 ## 개요
 
-귀여운 여자아이와 개그 콘셉 하에 4컷 작품이나 캐그 작품에 특호된 만화잡지로써 탄생하였으며, 창간에 앞써, 2013년[8월 10일부터](https://ko.wikipedia.org/wiki/8월_10일 "wikilink") [12일까지](https://ko.wikipedia.org/wiki/8월_12일 "wikilink") [도쿄국제전시장](https://ko.wikipedia.org/wiki/도쿄국제전시장 "wikilink")에서 개최된 "[코믹 마켓 84](https://ko.wikipedia.org/wiki/코믹_마켓 "wikilink")"에서 무료 소책자 "코믹 전격 대왕 G 탄생 직전 북"이 배포되었다.
+귀여운 여자아이와 개그 콘셉 하에 4컷 작품이나 캐그 작품에 특호된 만화잡지로써 탄생하였으며, 창간에 앞써, 2013년[8월 10일부터](../Page/8월_10일.md "wikilink") [12일까지](../Page/8월_12일.md "wikilink") [도쿄국제전시장](https://ko.wikipedia.org/wiki/도쿄국제전시장 "wikilink")에서 개최된 "[코믹 마켓 84](https://ko.wikipedia.org/wiki/코믹_마켓 "wikilink")"에서 무료 소책자 "코믹 전격 대왕 G 탄생 직전 북"이 배포되었다.
 
-또, 공식 사이트에 오리지널 4컷 만화가 매주 (매주 [월요일](https://ko.wikipedia.org/wiki/월요일 "wikilink") - [금요일](https://ko.wikipedia.org/wiki/금요일 "wikilink")의 주 5일) 게재되고 있다.
+또, 공식 사이트에 오리지널 4컷 만화가 매주 (매주 [월요일](../Page/월요일.md "wikilink") - [금요일](../Page/금요일.md "wikilink")의 주 5일) 게재되고 있다.
 
 본 잡지의 창간 직전까지 [KADOKAWA](https://ko.wikipedia.org/wiki/KADOKAWA "wikilink")의 별도 브랜드인 [카도카와 쇼텐과](https://ko.wikipedia.org/wiki/카도카와_쇼텐 "wikilink") 동일한 개념의 4컷 만화 잡지 "[4컷 nano 에이스](https://ko.wikipedia.org/wiki/4컷_nano_에이스 "wikilink")"가 간행되었으나, 본 잡지와의 관련성은 없다.
 
@@ -52,7 +52,7 @@
 
 #### 공식 패러디 작품
 
-  - [마법과 고교의 열등생 4컷편](https://ko.wikipedia.org/wiki/마법과고교의_열등생 "wikilink") (만화 : tamago 원작 : [佐사토 쓰토무](https://ko.wikipedia.org/wiki/사토_쓰토무_\(작가\) "wikilink") 캐릭터 디자인 : 이시다 카나)
+  - [마법과 고교의 열등생 4컷편](../Page/마법과고교의_열등생.md "wikilink") (만화 : tamago 원작 : [佐사토 쓰토무](https://ko.wikipedia.org/wiki/사토_쓰토무_\(작가\) "wikilink") 캐릭터 디자인 : 이시다 카나)
 
 ### 과거 연재 작품
 
@@ -83,12 +83,12 @@
 
 2014년 8월부터 10월까지 개최된 "진화선언\! 전격문고 FIGHTING 페어"와 "FIGHTING 4컷제"와 같이 같은 해 Vol.12에서 Vol.14까지 같은 문고작품인 앤솔로지 4컷이 게재되었다.
 
-  - Girl Gate Online ("[소드 아트 온라인](https://ko.wikipedia.org/wiki/소드_아트_온라인 "wikilink")"에서) (만화 : 유즈히 원작: [카와하라 레키](https://ko.wikipedia.org/wiki/카와하라_레키 "wikilink") 캐릭터 디자인 : [abec](https://ko.wikipedia.org/wiki/abec "wikilink")) - Vol.12 게재
-  - 錬金術師は眠らない\!\!（「マグダラで眠れ」より) (만화 : 芹沢えのの 원작 : [하세쿠라 이스나](https://ko.wikipedia.org/wiki/하세쿠라_이스나 "wikilink") 캐릭터 디자인 : 鍋島テツヒロ ) - Vol.12 게재
+  - Girl Gate Online ("[소드 아트 온라인](../Page/소드_아트_온라인.md "wikilink")"에서) (만화 : 유즈히 원작: [카와하라 레키](https://ko.wikipedia.org/wiki/카와하라_레키 "wikilink") 캐릭터 디자인 : [abec](https://ko.wikipedia.org/wiki/abec "wikilink")) - Vol.12 게재
+  - 錬金術師は眠らない\!\!（「マグダラで眠れ」より) (만화 : 芹沢えのの 원작 : [하세쿠라 이스나](../Page/하세쿠라_이스나.md "wikilink") 캐릭터 디자인 : 鍋島テツヒロ ) - Vol.12 게재
   - 마왕과 용자, 안방에서 결전한다 ("[알바 뛰는 마왕님\!](../Page/알바_뛰는_마왕님!.md "wikilink")"에서" (만화 : 안코 원작 : 和ヶ原聡司 캐릭터 디자인 : 029） - Vol.13 게재
-  - 카나에와 고양이 ("카나에와 별"에서) (만화 : 칸츠 테토 원작 : [타카하시 야시치로](https://ko.wikipedia.org/wiki/타카하시_야시치로 "wikilink") 캐릭터 디자인 : [이토 노이지](https://ko.wikipedia.org/wiki/이토_노이지 "wikilink")) - Vol.13 게재
-  - 大小説家山田エルフの日常（「エロマンガ先生」より) (만화 : 石鞠悠也 원작 : 伏見つかさ 캐릭터 디자인 : [칸자키 히로](https://ko.wikipedia.org/wiki/간자키_히로 "wikilink")) - Vol.14 게재
-  - 燃料の行方 ("[키노의 여행](https://ko.wikipedia.org/wiki/키노의_여행 "wikilink")"에서) (만화 : 카마타 원작 : [시구사와 케이이치](https://ko.wikipedia.org/wiki/시구사와_케이이치 "wikilink") 캐릭터 디자인 : 黒星紅白) - Vol.14 게재
+  - 카나에와 고양이 ("카나에와 별"에서) (만화 : 칸츠 테토 원작 : [타카하시 야시치로](../Page/타카하시_야시치로.md "wikilink") 캐릭터 디자인 : [이토 노이지](../Page/이토_노이지.md "wikilink")) - Vol.13 게재
+  - 大小説家山田エルフの日常（「エロマンガ先生」より) (만화 : 石鞠悠也 원작 : 伏見つかさ 캐릭터 디자인 : [칸자키 히로](../Page/간자키_히로.md "wikilink")) - Vol.14 게재
+  - 燃料の行方 ("[키노의 여행](../Page/키노의_여행.md "wikilink")"에서) (만화 : 카마타 원작 : [시구사와 케이이치](../Page/시구사와_케이이치.md "wikilink") 캐릭터 디자인 : 黒星紅白) - Vol.14 게재
 
 ### 오리지널 작품
 

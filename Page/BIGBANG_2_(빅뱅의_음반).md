@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BIGBANG 2 \( \)](https://ko.wikipedia.org/wiki/BIGBANG_2_\(_\)).
 
 
-《**BIGBANG 2**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악 그룹인 [빅뱅의](https://ko.wikipedia.org/wiki/빅뱅_\(음악_그룹\) "wikilink") [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") 세 번째 정규 앨범이다. 2011년 5월 11일에 발매 되었다. 이 음반은 세 장의 싱글; "[声をきかせて](https://ko.wikipedia.org/wiki/코에오키카세떼 "wikilink")", "[Tell Me Goodbye](../Page/Tell_Me_Goodbye.md "wikilink")"와 "[Beautiful Hangover](../Page/Beautiful_Hangover.md "wikilink")"이 수록 되어 있다. "声をきかせて", "Tell Me Goodbye"는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") [오리콘](https://ko.wikipedia.org/wiki/오리콘 "wikilink") 차트에서 TOP 5에, "Beautiful Hangover"는 TOP 10위안에 랭크인 되었다.
+《**BIGBANG 2**》는 [대한민국](../Page/대한민국.md "wikilink")의 음악 그룹인 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") [일본](../Page/일본.md "wikilink") 세 번째 정규 앨범이다. 2011년 5월 11일에 발매 되었다. 이 음반은 세 장의 싱글; "[声をきかせて](../Page/코에오키카세떼.md "wikilink")", "[Tell Me Goodbye](../Page/Tell_Me_Goodbye.md "wikilink")"와 "[Beautiful Hangover](../Page/Beautiful_Hangover.md "wikilink")"이 수록 되어 있다. "声をきかせて", "Tell Me Goodbye"는 [일본](../Page/일본.md "wikilink") [오리콘](../Page/오리콘.md "wikilink") 차트에서 TOP 5에, "Beautiful Hangover"는 TOP 10위안에 랭크인 되었다.
 
 ## 기획
 
@@ -9,9 +9,9 @@
 
 ## 싱글 발매
 
-이 음반은 세 장의 싱글들이 발표한 후 발매 되었다. "[声をきかせて](https://ko.wikipedia.org/wiki/코에오키카세떼 "wikilink")"는 2009년 11월 4일 발매 되었으며, 16주간 차트에 랭크인 하며 최고 순위 4위를 기록했다. "[Tell Me Goodbye](../Page/Tell_Me_Goodbye.md "wikilink")"는 2010년 6월 9일 발매 되어, 15주간 차트에 랭크인하며 최고 순위 5위를 기록해 이전의 싱글과 동일한 성공을 거뒀다. 세 번째 싱글 "[Beautiful Hangover](../Page/Beautiful_Hangover.md "wikilink")"는 8주간 차트에 랭크인하며 최고 순위 7위를 기록했다.\[2\]
+이 음반은 세 장의 싱글들이 발표한 후 발매 되었다. "[声をきかせて](../Page/코에오키카세떼.md "wikilink")"는 2009년 11월 4일 발매 되었으며, 16주간 차트에 랭크인 하며 최고 순위 4위를 기록했다. "[Tell Me Goodbye](../Page/Tell_Me_Goodbye.md "wikilink")"는 2010년 6월 9일 발매 되어, 15주간 차트에 랭크인하며 최고 순위 5위를 기록해 이전의 싱글과 동일한 성공을 거뒀다. 세 번째 싱글 "[Beautiful Hangover](../Page/Beautiful_Hangover.md "wikilink")"는 8주간 차트에 랭크인하며 최고 순위 7위를 기록했다.\[2\]
 
-2011년 4월 18일, [YG 엔터테인먼트는](https://ko.wikipedia.org/wiki/YG_엔터테인먼트 "wikilink") [유튜브](https://ko.wikipedia.org/wiki/유튜브 "wikilink")에 "Tonight"의 일본어 버전의 뮤직 비디오가 공개 하였으며, 2011년 4월 27일에 디지털 음원을 발매하였다. 다섯 번째 싱글, "Ms. Liar"는 앨범 발매와 동일한 날 음원이 발매 되었다.
+2011년 4월 18일, [YG 엔터테인먼트는](../Page/YG_엔터테인먼트.md "wikilink") [유튜브](../Page/유튜브.md "wikilink")에 "Tonight"의 일본어 버전의 뮤직 비디오가 공개 하였으며, 2011년 4월 27일에 디지털 음원을 발매하였다. 다섯 번째 싱글, "Ms. Liar"는 앨범 발매와 동일한 날 음원이 발매 되었다.
 
 ## 프로모션
 
@@ -31,19 +31,19 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><em><a href="https://ko.wikipedia.org/wiki/오리콘" title="wikilink">오리콘</a></em> 일간 앨범 차트</p></td>
+<td><p><em><a href="../Page/오리콘.md" title="wikilink">오리콘</a></em> 일간 앨범 차트</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p><em><a href="https://ko.wikipedia.org/wiki/오리콘" title="wikilink">오리콘</a></em> 주간 앨범 차트[5]</p></td>
+<td><p><em><a href="../Page/오리콘.md" title="wikilink">오리콘</a></em> 주간 앨범 차트[5]</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
-<td><p><em><a href="https://ko.wikipedia.org/wiki/오리콘" title="wikilink">오리콘</a></em> 월간 앨범 차트</p></td>
+<td><p><em><a href="../Page/오리콘.md" title="wikilink">오리콘</a></em> 월간 앨범 차트</p></td>
 <td><p>3</p></td>
 </tr>
 <tr class="even">
-<td><p><em><a href="https://ko.wikipedia.org/wiki/오리콘" title="wikilink">오리콘</a></em> 연간 앨범 차트</p></td>
+<td><p><em><a href="../Page/오리콘.md" title="wikilink">오리콘</a></em> 연간 앨범 차트</p></td>
 <td><p>63</p></td>
 </tr>
 </tbody>
@@ -53,15 +53,15 @@
 
 | 차트                                                                   | 기록            |
 | -------------------------------------------------------------------- | ------------- |
-| *[오리콘](https://ko.wikipedia.org/wiki/오리콘 "wikilink")* 판매량\[6\]       | 98,854        |
+| *[오리콘](../Page/오리콘.md "wikilink")* 판매량\[6\]                          | 98,854        |
 | *[RIAJ](https://ko.wikipedia.org/wiki/일본_레코드_협회 "wikilink")* 인증\[7\] | 골드 (100,000+) |
 
 ### 기록
 
-| 국가                                                    | 날짜                | 레코드 라벨      | 포맷           |
-| ----------------------------------------------------- | ----------------- | ----------- | ------------ |
-| [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")     | 2011년 5월 11일\[8\] | 유니버셜 뮤직 재팬  | CD, 디지털 다운로드 |
-| [중화민국](https://ko.wikipedia.org/wiki/중화민국 "wikilink") | 2011년 5월 11일\[9\] | 유니버셜 뮤직 타이완 | CD           |
+| 국가                                 | 날짜                | 레코드 라벨      | 포맷           |
+| ---------------------------------- | ----------------- | ----------- | ------------ |
+| [일본](../Page/일본.md "wikilink")     | 2011년 5월 11일\[8\] | 유니버셜 뮤직 재팬  | CD, 디지털 다운로드 |
+| [중화민국](../Page/중화민국.md "wikilink") | 2011년 5월 11일\[9\] | 유니버셜 뮤직 타이완 | CD           |
 
 ## 각주
 

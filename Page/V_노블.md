@@ -19,7 +19,7 @@
 ### 일본 작가
 
   - [이상적인 기둥서방 생활](https://ko.wikipedia.org/wiki/이상적인_기둥서방_생활 "wikilink") / 와타나베 츠네히코 / 아야쿠라 쥬 / 11권
-  - [마법소녀 육성계획](https://ko.wikipedia.org/wiki/마법소녀_육성계획 "wikilink") / 엔도 아사리 / 마루이노 / 권
+  - [마법소녀 육성계획](../Page/마법소녀_육성계획.md "wikilink") / 엔도 아사리 / 마루이노 / 권
   - [그녀를 말로 이기는 건 아마도 무리](https://ko.wikipedia.org/wiki/그녀를_말로_이기는_건_아마도_무리 "wikilink") / 우레마 쇼지 / 시라비 / 2권
   - [나는 린](https://ko.wikipedia.org/wiki/나는_린 "wikilink") / 제유인 / 모리치카 / 2권
   - [파나티아 이담](https://ko.wikipedia.org/wiki/파나티아_이담 "wikilink") - 영웅의 판도라 / 타케오카 하즈키 / 루나 / 3권
@@ -42,7 +42,7 @@
 
 ### 브이플러스
 
-  - [마술사 오펜](https://ko.wikipedia.org/wiki/마술사_오펜 "wikilink") / 아키타 요시노부 / 쿠사카 유야 / 9권
+  - [마술사 오펜](../Page/마술사_오펜.md "wikilink") / 아키타 요시노부 / 쿠사카 유야 / 9권
   - [울려라 유포니엄](https://ko.wikipedia.org/wiki/울려라_유포니엄 "wikilink") / 타케다 아야노 / 아사다 닛키 / 2권
   - [책벌레의 하극상](https://ko.wikipedia.org/wiki/책벌레의_하극상 "wikilink") / 카즈키 미야 / 시이나 유우
       - 1부 3권

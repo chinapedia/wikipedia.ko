@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BIGBANG JAPAN DOME TOUR](https://ko.wikipedia.org/wiki/BIGBANG_JAPAN_DOME_TOUR).
 
 
-**BIGBANG JAPAN DOME TOUR**는 [빅뱅의](https://ko.wikipedia.org/wiki/빅뱅_\(음악_그룹\) "wikilink") 네 번째 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") 콘서트 투어이다. 이 투어는 그들의 첫 6대 돔 투어로 빅뱅은 해외 가수 사상 처음으로 6대 돔 투어를 개최한 가수로 기록되었다. 이 투어는 투어의 모든 티켓이 매진되며 입장료로만 한화 748억 원의 수익을 기록하며 일본 내에서 올해 가장 높은 수익률을 자랑하는 콘서트 투어 중 하나로 기록되었다.\[1\]\[2\]
+**BIGBANG JAPAN DOME TOUR**는 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") 네 번째 [일본](../Page/일본.md "wikilink") 콘서트 투어이다. 이 투어는 그들의 첫 6대 돔 투어로 빅뱅은 해외 가수 사상 처음으로 6대 돔 투어를 개최한 가수로 기록되었다. 이 투어는 투어의 모든 티켓이 매진되며 입장료로만 한화 748억 원의 수익을 기록하며 일본 내에서 올해 가장 높은 수익률을 자랑하는 콘서트 투어 중 하나로 기록되었다.\[1\]\[2\]
 
 ## 콘서트
 
@@ -9,7 +9,7 @@
 
 ## Big Bang+α in Seoul
 
-[2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [11월 28일](https://ko.wikipedia.org/wiki/11월_28일 "wikilink"), [서울](https://ko.wikipedia.org/wiki/서울 "wikilink")에서 *Big Bang+α in Seoul*라는 새로운 공연 투어를 이틀에 걸쳐 개최한다고 발표하였다.\[3\] 팬들의 잇따른 성원 때문에 추가로 결정 된 두번째 공연 역시 티켓 오픈과 동시에 매진되었다.\[4\]\[5\]
+[2013년](../Page/2013년.md "wikilink") [11월 28일](../Page/11월_28일.md "wikilink"), [서울](https://ko.wikipedia.org/wiki/서울 "wikilink")에서 *Big Bang+α in Seoul*라는 새로운 공연 투어를 이틀에 걸쳐 개최한다고 발표하였다.\[3\] 팬들의 잇따른 성원 때문에 추가로 결정 된 두번째 공연 역시 티켓 오픈과 동시에 매진되었다.\[4\]\[5\]
 
 ## 투어 일정
 
@@ -29,7 +29,7 @@
 <td><p>2013년 11월 16일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/사이타마" title="wikilink">기옥</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/세이부_돔" title="wikilink">세이부 돔</a></p></td>
+<td><p><a href="../Page/세이부_돔.md" title="wikilink">세이부 돔</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/WINNER" title="wikilink">WINNER</a>[8]</p></td>
 <td><p>통산 70,000명</p></td>
 </tr>
@@ -44,7 +44,7 @@
 <tr class="odd">
 <td><p>2013년 11월 29일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/대판" title="wikilink">대판</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오사카_돔" title="wikilink">쿄세라 돔 오사카</a></p></td>
+<td><p><a href="../Page/오사카_돔.md" title="wikilink">쿄세라 돔 오사카</a></p></td>
 <td><p>통산 150,000명</p></td>
 <td></td>
 <td></td>
@@ -68,7 +68,7 @@
 <tr class="even">
 <td><p>2013년 12월 7일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/후쿠오카" title="wikilink">복강</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후쿠오카_돔" title="wikilink">후쿠오카 야후 옥션! 돔</a></p></td>
+<td><p><a href="../Page/후쿠오카_돔.md" title="wikilink">후쿠오카 야후 옥션! 돔</a></p></td>
 <td><p>통산 100,000명</p></td>
 <td></td>
 <td></td>
@@ -84,7 +84,7 @@
 <tr class="even">
 <td><p>2013년 12월 14일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/나고야_시" title="wikilink">나고야 시</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/나고야_돔" title="wikilink">나고야 돔</a></p></td>
+<td><p><a href="../Page/나고야_돔.md" title="wikilink">나고야 돔</a></p></td>
 <td><p>통산 81,000명</p></td>
 <td></td>
 <td></td>
@@ -100,7 +100,7 @@
 <tr class="even">
 <td><p>2013년 12월 19일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/동경" title="wikilink">동경</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/도쿄_돔" title="wikilink">도쿄 돔</a></p></td>
+<td><p><a href="../Page/도쿄_돔.md" title="wikilink">도쿄 돔</a></p></td>
 <td><p>통산 150,000명</p></td>
 <td></td>
 <td></td>
@@ -124,7 +124,7 @@
 <tr class="odd">
 <td><p>2014년 1월 4일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/찰황" title="wikilink">찰황</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/삿포로_돔" title="wikilink">삿포로 돔</a></p></td>
+<td><p><a href="../Page/삿포로_돔.md" title="wikilink">삿포로 돔</a></p></td>
 <td><p>40,000명</p></td>
 <td></td>
 <td></td>
@@ -173,7 +173,7 @@
 <td><p>2014년 1월 24일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/서울" title="wikilink">서울</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/올림픽체조경기장" title="wikilink">올림픽공원 체조경기장</a></p></td>
+<td><p><a href="../Page/올림픽체조경기장.md" title="wikilink">올림픽공원 체조경기장</a></p></td>
 <td></td>
 <td><p>통산 36,000명[11]</p></td>
 </tr>
@@ -213,7 +213,7 @@
 참고: 빅뱅의 *BIGBANG JAPAN DOME TOUR 2013\~2014* 일본 DVD.
 
   - 투어 주최: 에이벡스 그룹, YG 엔터테인먼트
-  - 총괄 프로듀서: [양현석](https://ko.wikipedia.org/wiki/양현석 "wikilink") ([YG 엔터테인먼트](https://ko.wikipedia.org/wiki/YG_엔터테인먼트 "wikilink")), [맥스 마츠우라](https://ko.wikipedia.org/wiki/맥스_마츠우라 "wikilink") ([에이벡스 그룹](https://ko.wikipedia.org/wiki/에이벡스 "wikilink"))
+  - 총괄 프로듀서: [양현석](../Page/양현석.md "wikilink") ([YG 엔터테인먼트](../Page/YG_엔터테인먼트.md "wikilink")), [맥스 마츠우라](https://ko.wikipedia.org/wiki/맥스_마츠우라 "wikilink") ([에이벡스 그룹](https://ko.wikipedia.org/wiki/에이벡스 "wikilink"))
   - 투어 프로듀서: 에이스 료이치
   - 투어 감독: 변정민
   - 무대 감독: "조셉" 우기 권
@@ -226,7 +226,7 @@
 
 ### 밴드
 
-  - 빅뱅 ([G-Dragon](https://ko.wikipedia.org/wiki/지드래곤 "wikilink"), [T.O.P](https://ko.wikipedia.org/wiki/T.O.P "wikilink"), [태양](https://ko.wikipedia.org/wiki/태양_\(가수\) "wikilink"), [대성](https://ko.wikipedia.org/wiki/대성_\(가수\) "wikilink"), [승리](https://ko.wikipedia.org/wiki/승리_\(가수\) "wikilink"))
+  - 빅뱅 ([G-Dragon](../Page/지드래곤.md "wikilink"), [T.O.P](../Page/T.O.P.md "wikilink"), [태양](../Page/태양_\(가수\).md "wikilink"), [대성](../Page/대성_\(가수\).md "wikilink"), [승리](../Page/승리_\(가수\).md "wikilink"))
   - 길 스미스 2세 (음악 감독 /키보드 1)
   - 오마 도미닉 (AMD/베이스)
   - 단테 "인페르노" 잭슨 (키보드 2)

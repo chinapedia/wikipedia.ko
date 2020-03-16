@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ Z:  F](https://ko.wikipedia.org/wiki/_Z:__F).
 
 
-《**드래곤볼 Z: 부활의 F**》()는 2015년에 공개된 《[드래곤볼](https://ko.wikipedia.org/wiki/드래곤볼 "wikilink")》 시리즈의 19번째 극장 개봉 애니메이션 영화이다. 《[드래곤볼 Z](https://ko.wikipedia.org/wiki/드래곤볼_Z "wikilink")》로는 15번째 작품이다.
+《**드래곤볼 Z: 부활의 F**》()는 2015년에 공개된 《[드래곤볼](../Page/드래곤볼.md "wikilink")》 시리즈의 19번째 극장 개봉 애니메이션 영화이다. 《[드래곤볼 Z](../Page/드래곤볼_Z.md "wikilink")》로는 15번째 작품이다.
 
 ## 개요
 
@@ -13,29 +13,29 @@
 
 ## 한국어 목소리 출연
 
-  - [김환진](https://ko.wikipedia.org/wiki/김환진 "wikilink"): 손오공
-  - [최문자](https://ko.wikipedia.org/wiki/최문자 "wikilink"): 프리저
-  - [최한](https://ko.wikipedia.org/wiki/최한 "wikilink"): 베지터
-  - [김장](https://ko.wikipedia.org/wiki/김장_\(성우\) "wikilink"): 손오반
-  - [정승욱](https://ko.wikipedia.org/wiki/정승욱 "wikilink"): 피콜로
-  - [김기흥](https://ko.wikipedia.org/wiki/김기흥_\(성우\) "wikilink"): 비루스
-  - [강호철](https://ko.wikipedia.org/wiki/강호철 "wikilink"): 우이스
-  - [지미애](https://ko.wikipedia.org/wiki/지미애 "wikilink"): 부르마
-  - [이선호](https://ko.wikipedia.org/wiki/이선호_\(성우\) "wikilink"): 크리링
-  - [김정호](https://ko.wikipedia.org/wiki/김정호_\(성우\) "wikilink"): 무천도사
-  - [이주창](https://ko.wikipedia.org/wiki/이주창 "wikilink"): 천진반
-  - [홍범기](https://ko.wikipedia.org/wiki/홍범기 "wikilink"): 쟈코
-  - [소정환](https://ko.wikipedia.org/wiki/소정환 "wikilink"): 소르베
-  - [최준영](https://ko.wikipedia.org/wiki/최준영 "wikilink"): 브리프
+  - [김환진](../Page/김환진.md "wikilink"): 손오공
+  - [최문자](../Page/최문자.md "wikilink"): 프리저
+  - [최한](../Page/최한.md "wikilink"): 베지터
+  - [김장](../Page/김장_\(성우\).md "wikilink"): 손오반
+  - [정승욱](../Page/정승욱.md "wikilink"): 피콜로
+  - [김기흥](../Page/김기흥_\(성우\).md "wikilink"): 비루스
+  - [강호철](../Page/강호철.md "wikilink"): 우이스
+  - [지미애](../Page/지미애.md "wikilink"): 부르마
+  - [이선호](../Page/이선호_\(성우\).md "wikilink"): 크리링
+  - [김정호](../Page/김정호_\(성우\).md "wikilink"): 무천도사
+  - [이주창](../Page/이주창.md "wikilink"): 천진반
+  - [홍범기](../Page/홍범기.md "wikilink"): 쟈코
+  - [소정환](../Page/소정환.md "wikilink"): 소르베
+  - [최준영](../Page/최준영.md "wikilink"): 브리프
   - [김현구](https://ko.wikipedia.org/wiki/김현구 "wikilink"): 다고마
   - [손수호](../Page/손수호.md "wikilink"): 시사미
-  - [이용신](https://ko.wikipedia.org/wiki/이용신 "wikilink"): 비델
-  - [박경혜](https://ko.wikipedia.org/wiki/박경혜_\(성우\) "wikilink"): 18호
-  - [시영준](https://ko.wikipedia.org/wiki/시영준 "wikilink"): 신룡
+  - [이용신](../Page/이용신.md "wikilink"): 비델
+  - [박경혜](../Page/박경혜_\(성우\).md "wikilink"): 18호
+  - [시영준](../Page/시영준.md "wikilink"): 신룡
   - [이수진](https://ko.wikipedia.org/wiki/이수진_\(성우\) "wikilink"): 피라프
   - [정유정](../Page/정유정_\(성우\).md "wikilink"): 슈
   - [김가령](../Page/김가령.md "wikilink"): 마이
-  - [최원형](https://ko.wikipedia.org/wiki/최원형 "wikilink"): 트랭크스/해설
+  - [최원형](../Page/최원형.md "wikilink"): 트랭크스/해설
 
 ## 외부 링크
 

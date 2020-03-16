@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WELCOME BACK](https://ko.wikipedia.org/wiki/WELCOME_BACK).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:IKON_Debut_Half_Album_'Welcome_Back'.jpg "wikilink") 《**WELCOME BACK**》은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악 그룹 [아이콘의](../Page/IKON.md "wikilink") 첫 번째 정규 음반이다. 이 음반은 2015년 10월 1일 하프 앨범이 발매 되었고, 2015년 12월 24일 풀 앨범이 발매 되었다. 아이콘의 리더 [B.I](https://ko.wikipedia.org/wiki/B.I "wikilink")가 프로듀싱을 하였다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:IKON_Debut_Half_Album_'Welcome_Back'.jpg "wikilink") 《**WELCOME BACK**》은 [대한민국](../Page/대한민국.md "wikilink")의 음악 그룹 [아이콘의](../Page/IKON.md "wikilink") 첫 번째 정규 음반이다. 이 음반은 2015년 10월 1일 하프 앨범이 발매 되었고, 2015년 12월 24일 풀 앨범이 발매 되었다. 아이콘의 리더 [B.I](https://ko.wikipedia.org/wiki/B.I "wikilink")가 프로듀싱을 하였다.
 
 ## 배경
 
@@ -27,11 +27,11 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>일본 <em><a href="https://ko.wikipedia.org/wiki/오리콘" title="wikilink">오리콘</a></em> 앨범 차트[4]</p></td>
+<td><p>일본 <em><a href="../Page/오리콘.md" title="wikilink">오리콘</a></em> 앨범 차트[4]</p></td>
 <td><p>26</p></td>
 </tr>
 <tr class="even">
-<td><p>대한민국 <em><a href="https://ko.wikipedia.org/wiki/가온_차트" title="wikilink">가온 주간 앨범 차트</a></em>[5]</p></td>
+<td><p>대한민국 <em><a href="../Page/가온_차트.md" title="wikilink">가온 주간 앨범 차트</a></em>[5]</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
@@ -39,7 +39,7 @@
 <td><p>2</p></td>
 </tr>
 <tr class="even">
-<td><p>미국 <em><a href="https://ko.wikipedia.org/wiki/빌보드" title="wikilink">빌보드</a></em> 월드 차트[7]</p></td>
+<td><p>미국 <em><a href="../Page/빌보드.md" title="wikilink">빌보드</a></em> 월드 차트[7]</p></td>
 <td><p>3</p></td>
 </tr>
 <tr class="odd">
@@ -65,15 +65,15 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>일본 <em><a href="https://ko.wikipedia.org/wiki/오리콘" title="wikilink">오리콘</a></em> 앨범 차트</p></td>
+<td><p>일본 <em><a href="../Page/오리콘.md" title="wikilink">오리콘</a></em> 앨범 차트</p></td>
 <td><p>TBA</p></td>
 </tr>
 <tr class="even">
-<td><p>대한민국 <em><a href="https://ko.wikipedia.org/wiki/가온_차트" title="wikilink">가온 앨범 차트</a></em></p></td>
+<td><p>대한민국 <em><a href="../Page/가온_차트.md" title="wikilink">가온 앨범 차트</a></em></p></td>
 <td><p>TBA</p></td>
 </tr>
 <tr class="odd">
-<td><p>미국 <em><a href="https://ko.wikipedia.org/wiki/빌보드" title="wikilink">빌보드</a></em> 월드 앨범 차트</p></td>
+<td><p>미국 <em><a href="../Page/빌보드.md" title="wikilink">빌보드</a></em> 월드 앨범 차트</p></td>
 <td><p>TBA</p></td>
 </tr>
 <tr class="even">
@@ -89,14 +89,14 @@
 
 ## 발매
 
-| 국가                                                    | 날짜                                                            | 음반                                                                                                                    | 레이블                                                                                                                   | 포맷                                                                                                                    |
-| ----------------------------------------------------- | ------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") | 2015년 10월 1일                                                  | 하프 앨범                                                                                                                 | [YG 엔터테인먼트](https://ko.wikipedia.org/wiki/YG_엔터테인먼트 "wikilink")                                                       | [CD](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink"), [디지털 다운로드](https://ko.wikipedia.org/wiki/디지털_다운로드 "wikilink") |
-| 세계                                                    |                                                               |                                                                                                                       |                                                                                                                       |                                                                                                                       |
-| 대한민국                                                  | 2015년 10월 5일                                                  | [CD](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink"), [디지털 다운로드](https://ko.wikipedia.org/wiki/디지털_다운로드 "wikilink") |                                                                                                                       |                                                                                                                       |
-| 일본\[9\]                                               | 2015년 10월 28일                                                 | [디지털 다운로드](https://ko.wikipedia.org/wiki/디지털_다운로드 "wikilink")                                                         |                                                                                                                       |                                                                                                                       |
-| 대한민국                                                  | 2015년 12월 24일                                                 | 풀 앨범                                                                                                                  | [CD](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink"), [디지털 다운로드](https://ko.wikipedia.org/wiki/디지털_다운로드 "wikilink") |                                                                                                                       |
-| 세계                                                    | [디지털 다운로드](https://ko.wikipedia.org/wiki/디지털_다운로드 "wikilink") |                                                                                                                       |                                                                                                                       |                                                                                                                       |
+| 국가                                 | 날짜                                                            | 음반                                                                                                 | 레이블                                                                                                | 포맷                                                                                                 |
+| ---------------------------------- | ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| [대한민국](../Page/대한민국.md "wikilink") | 2015년 10월 1일                                                  | 하프 앨범                                                                                              | [YG 엔터테인먼트](../Page/YG_엔터테인먼트.md "wikilink")                                                       | [CD](../Page/콤팩트_디스크.md "wikilink"), [디지털 다운로드](https://ko.wikipedia.org/wiki/디지털_다운로드 "wikilink") |
+| 세계                                 |                                                               |                                                                                                    |                                                                                                    |                                                                                                    |
+| 대한민국                               | 2015년 10월 5일                                                  | [CD](../Page/콤팩트_디스크.md "wikilink"), [디지털 다운로드](https://ko.wikipedia.org/wiki/디지털_다운로드 "wikilink") |                                                                                                    |                                                                                                    |
+| 일본\[9\]                            | 2015년 10월 28일                                                 | [디지털 다운로드](https://ko.wikipedia.org/wiki/디지털_다운로드 "wikilink")                                      |                                                                                                    |                                                                                                    |
+| 대한민국                               | 2015년 12월 24일                                                 | 풀 앨범                                                                                               | [CD](../Page/콤팩트_디스크.md "wikilink"), [디지털 다운로드](https://ko.wikipedia.org/wiki/디지털_다운로드 "wikilink") |                                                                                                    |
+| 세계                                 | [디지털 다운로드](https://ko.wikipedia.org/wiki/디지털_다운로드 "wikilink") |                                                                                                    |                                                                                                    |                                                                                                    |
 
 ## 각주
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [IOS 9](https://ko.wikipedia.org/wiki/IOS_9).
 
 
-**iOS 9**은 [애플이](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") [iOS 8의](https://ko.wikipedia.org/wiki/iOS_8 "wikilink") 후속으로 설계한 새로운 [운영 체제이다](https://ko.wikipedia.org/wiki/운영_체제 "wikilink").
+**iOS 9**은 [애플이](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") [iOS 8의](https://ko.wikipedia.org/wiki/iOS_8 "wikilink") 후속으로 설계한 새로운 [운영 체제이다](../Page/운영_체제.md "wikilink").
 
 ## 주요 기능
 

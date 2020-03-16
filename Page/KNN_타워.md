@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KNN ](https://ko.wikipedia.org/wiki/KNN_).
 
 
-**KNN 타워**()는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink") [해운대구](https://ko.wikipedia.org/wiki/해운대구 "wikilink") [우동에](../Page/우동_\(부산\).md "wikilink") 위치한 [초고층 건물이다](https://ko.wikipedia.org/wiki/초고층_건물 "wikilink"). [부산방송](https://ko.wikipedia.org/wiki/부산방송 "wikilink")의 본사로 사용하고 있는 건물이다. [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink")에 착공하여 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink")에 완공했다.
+**KNN 타워**()는 [대한민국](../Page/대한민국.md "wikilink") [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink") [해운대구](../Page/해운대구.md "wikilink") [우동에](../Page/우동_\(부산\).md "wikilink") 위치한 [초고층 건물이다](https://ko.wikipedia.org/wiki/초고층_건물 "wikilink"). [부산방송](https://ko.wikipedia.org/wiki/부산방송 "wikilink")의 본사로 사용하고 있는 건물이다. [2010년](../Page/2010년.md "wikilink")에 착공하여 [2012년](../Page/2012년.md "wikilink")에 완공했다.
 
 ## 내부 시설
 
@@ -54,7 +54,7 @@ KNN 타워는 지하 5층, 지상 28층 규모로 구성되어 있다.
 
 ## 대중문화
 
-  - [영화](https://ko.wikipedia.org/wiki/영화 "wikilink") - [신과함께: 죄와 벌](https://ko.wikipedia.org/wiki/신과함께:_죄와_벌 "wikilink") 첫장면에 불타는 건물이 나온다.
+  - [영화](../Page/영화.md "wikilink") - [신과함께: 죄와 벌](../Page/신과함께:_죄와_벌.md "wikilink") 첫장면에 불타는 건물이 나온다.
 
 ## 더 보기
 

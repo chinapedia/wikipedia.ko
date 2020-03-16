@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [King \& Prince](https://ko.wikipedia.org/wiki/King_\&_Prince).
 
 
-**King & Prince**(킹 앤 프린스, 약칭 킹프리)는 [쟈니즈 사무소](https://ko.wikipedia.org/wiki/자니스_사무소 "wikilink") 소속의 6인조 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") 그룹이다. 소속 레이블은 [쟈니스 유니버스/유니버설 J](https://ko.wikipedia.org/wiki/유니버설_뮤직_재팬 "wikilink").
+**King & Prince**(킹 앤 프린스, 약칭 킹프리)는 [쟈니즈 사무소](../Page/자니스_사무소.md "wikilink") 소속의 6인조 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") 그룹이다. 소속 레이블은 [쟈니스 유니버스/유니버설 J](https://ko.wikipedia.org/wiki/유니버설_뮤직_재팬 "wikilink").
 
 ## 개요
 
@@ -13,24 +13,24 @@
 
 ### Mr.KING
 
-  - [히라노 쇼](../Page/히라노_쇼.md "wikilink") (, , [아이치현](https://ko.wikipedia.org/wiki/아이치현 "wikilink") 출신, O형.) 멤버색- 진홍
-  - [나가세 렌](https://ko.wikipedia.org/wiki/나가세_렌 "wikilink") (, , [도쿄도](https://ko.wikipedia.org/wiki/도쿄도 "wikilink") 출신, O형.) 멤버색- 칠흑
-  - [타카하시 카이토](https://ko.wikipedia.org/wiki/타카하시_카이토 "wikilink") (, , [가나가와현](https://ko.wikipedia.org/wiki/가나가와현 "wikilink") 출신, A형.) 멤버색- 해바라기 옐로우
+  - [히라노 쇼](../Page/히라노_쇼.md "wikilink") (, , [아이치현](../Page/아이치현.md "wikilink") 출신, O형.) 멤버색- 진홍
+  - [나가세 렌](../Page/나가세_렌.md "wikilink") (, , [도쿄도](../Page/도쿄도.md "wikilink") 출신, O형.) 멤버색- 칠흑
+  - [타카하시 카이토](../Page/타카하시_카이토.md "wikilink") (, , [가나가와현](../Page/가나가와현.md "wikilink") 출신, A형.) 멤버색- 해바라기 옐로우
 
 ### Prince
 
   - [키시 유타](../Page/키시_유타.md "wikilink") (, , [사이타마현](https://ko.wikipedia.org/wiki/사이타마현 "wikilink") 출신, A형.) 멤버색- 보라
-  - [이와하시 겡키](../Page/이와하시_겡키.md "wikilink") (, , [도쿄도](https://ko.wikipedia.org/wiki/도쿄도 "wikilink") 출신, O형.) 멤버색- 진한 핑크
+  - [이와하시 겡키](../Page/이와하시_겡키.md "wikilink") (, , [도쿄도](../Page/도쿄도.md "wikilink") 출신, O형.) 멤버색- 진한 핑크
 
-[10월 26일](https://ko.wikipedia.org/wiki/10월_26일 "wikilink") 지병의 치료에 전념 하기 위해 활동 중단
+[10월 26일](../Page/10월_26일.md "wikilink") 지병의 치료에 전념 하기 위해 활동 중단
 
-  - [진구지 유타](https://ko.wikipedia.org/wiki/진구지_유타 "wikilink") (, , [지바현](https://ko.wikipedia.org/wiki/지바현 "wikilink") 출신, O형.) 멤버색- 터쿼이즈블루
+  - [진구지 유타](../Page/진구지_유타.md "wikilink") (, , [지바현](../Page/지바현.md "wikilink") 출신, O형.) 멤버색- 터쿼이즈블루
 
 ### 그룹명의 유래
 
 Mr.King vs Mr.Prince는, “왕과 왕자의 싸움” 을 의미. 멤버 나름대로 절차탁마해서 성장해 나간다는 컨셉의 이름이다.
 
-[쟈니즈 사무소의](https://ko.wikipedia.org/wiki/자니스_사무소 "wikilink") 사장 [쟈니 키타가와가](https://ko.wikipedia.org/wiki/쟈니_키타가와 "wikilink") 10분 생각하고 이름을 붙여주었다.
+[쟈니즈 사무소의](../Page/자니스_사무소.md "wikilink") 사장 [쟈니 키타가와가](https://ko.wikipedia.org/wiki/쟈니_키타가와 "wikilink") 10분 생각하고 이름을 붙여주었다.
 
 애칭은 줄여서 킹프리(キンプリ)이다.
 
@@ -38,25 +38,25 @@ Mr.King vs Mr.Prince는, “왕과 왕자의 싸움” 을 의미. 멤버 나름
 
 ### 2015년
 
-  - [6월 5일](https://ko.wikipedia.org/wiki/6월_5일 "wikilink"), "[TV 아사히](https://ko.wikipedia.org/wiki/TV_아사히 "wikilink")·롯폰기힐즈 여름축제 SUMMER STATION"의 응원 서포터를 맡는게 발표 & 기간한정으로 그룹결성
-  - [7월 17일](https://ko.wikipedia.org/wiki/7월_17일 "wikilink"), [마츠다 올스타게임2015](https://ko.wikipedia.org/wiki/마츠다_올스타게임2015 "wikilink") (제1게임, [도쿄돔](https://ko.wikipedia.org/wiki/도쿄돔 "wikilink")) 시합전 이벤트로 신곡「サマー・ステーション」을 첫 피로
-  - [8월 20일](https://ko.wikipedia.org/wiki/8월_20일 "wikilink"), EX 시어터 롯폰기에서 시행 된 "가무샤라\! 섬머스테이션" 의 마지막 공연에서 정식유닛이 됨을 발표
-  - [8월 21일](https://ko.wikipedia.org/wiki/8월_21일 "wikilink"), [뮤직스테이션](https://ko.wikipedia.org/wiki/뮤직스테이션 "wikilink") 생방송에 데뷔전인데도 이례적으로 출연, 신곡「サマー・ステーション」을 TV 첫 피로
+  - [6월 5일](../Page/6월_5일.md "wikilink"), "[TV 아사히](../Page/TV_아사히.md "wikilink")·롯폰기힐즈 여름축제 SUMMER STATION"의 응원 서포터를 맡는게 발표 & 기간한정으로 그룹결성
+  - [7월 17일](../Page/7월_17일.md "wikilink"), [마츠다 올스타게임2015](https://ko.wikipedia.org/wiki/마츠다_올스타게임2015 "wikilink") (제1게임, [도쿄돔](https://ko.wikipedia.org/wiki/도쿄돔 "wikilink")) 시합전 이벤트로 신곡「サマー・ステーション」을 첫 피로
+  - [8월 20일](../Page/8월_20일.md "wikilink"), EX 시어터 롯폰기에서 시행 된 "가무샤라\! 섬머스테이션" 의 마지막 공연에서 정식유닛이 됨을 발표
+  - [8월 21일](../Page/8월_21일.md "wikilink"), [뮤직스테이션](https://ko.wikipedia.org/wiki/뮤직스테이션 "wikilink") 생방송에 데뷔전인데도 이례적으로 출연, 신곡「サマー・ステーション」을 TV 첫 피로
 
 ### 2018년
 
   - 1월 17일, King & Prince 라는 이름으로 CD데뷔 발표
-  - 3월 21일, [TBS](https://ko.wikipedia.org/wiki/도쿄_방송_홀딩스 "wikilink") 《CDTV 졸업송 음악제》 에서 데뷔곡 〈シンデレラガール〉 첫 피로
+  - 3월 21일, [TBS](../Page/도쿄_방송_홀딩스.md "wikilink") 《CDTV 졸업송 음악제》 에서 데뷔곡 〈シンデレラガール〉 첫 피로
   - 5월 23일, 데뷔 싱글 〈シンデレラガール〉 발매
 
 ## 출연
 
 ### 버라이어티
 
-  - [더 소년구락부](https://ko.wikipedia.org/wiki/소년구락부 "wikilink")(2011년 1월 \~ , [NHK](https://ko.wikipedia.org/wiki/NHK "wikilink"))
-  - ジャニーズバーサス！Youたちクイズしちゃいなよ\! (2015년 8월 7일, [TV 아사히](https://ko.wikipedia.org/wiki/TV_아사히 "wikilink"))
-  - ちょいアゲ↑スイッチ(쵸이아게\!스위치) (2015년 7월 15일 & 7월 22일, [TV 아사히](https://ko.wikipedia.org/wiki/TV_아사히 "wikilink")) - 히라노 쇼, 이와하시 겡키
-  - 日本人の3割しか知らないこと　くりぃむしちゅーのハナタカ！優越館　衝撃事実の3時間SP（2015년 7월 19일, [TV 아사히](https://ko.wikipedia.org/wiki/TV_아사히 "wikilink")) - 진구지 유타
+  - [더 소년구락부](../Page/소년구락부.md "wikilink")(2011년 1월 \~ , [NHK](https://ko.wikipedia.org/wiki/NHK "wikilink"))
+  - ジャニーズバーサス！Youたちクイズしちゃいなよ\! (2015년 8월 7일, [TV 아사히](../Page/TV_아사히.md "wikilink"))
+  - ちょいアゲ↑スイッチ(쵸이아게\!스위치) (2015년 7월 15일 & 7월 22일, [TV 아사히](../Page/TV_아사히.md "wikilink")) - 히라노 쇼, 이와하시 겡키
+  - 日本人の3割しか知らないこと　くりぃむしちゅーのハナタカ！優越館　衝撃事実の3時間SP（2015년 7월 19일, [TV 아사히](../Page/TV_아사히.md "wikilink")) - 진구지 유타
   - 世界が驚いたニッポン\! スゴ〜イデスネ\!\!視察団 2時間 SP (2015년 8월 8일, [TV아사히](https://ko.wikipedia.org/wiki/TV아사히 "wikilink")) - 키시 유타, 나가세 렌, 타카하시 카이토
   - ジャニーズJr.dex (2017년 10월 21일 \~ 2018년 3월 4일) - King & Prince
 

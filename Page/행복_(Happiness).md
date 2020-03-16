@@ -19,7 +19,7 @@
 <td><p>3</p></td>
 </tr>
 <tr class="even">
-<td><p>대한민국 (<a href="https://ko.wikipedia.org/wiki/가온_디지털_차트" title="wikilink">가온 디지털 차트</a>)[2]</p></td>
+<td><p>대한민국 (<a href="../Page/가온_디지털_차트.md" title="wikilink">가온 디지털 차트</a>)[2]</p></td>
 <td><p>5</p></td>
 </tr>
 <tr class="odd">
@@ -41,7 +41,7 @@
 
 ## 외부 링크
 
-  - [행복(Happiness) 뮤직비디오](https://www.youtube.com/watch?v=JFgv8bKfxEs) - [유튜브](https://ko.wikipedia.org/wiki/유튜브 "wikilink")
+  - [행복(Happiness) 뮤직비디오](https://www.youtube.com/watch?v=JFgv8bKfxEs) - [유튜브](../Page/유튜브.md "wikilink")
 
 [분류:2014년 노래](https://ko.wikipedia.org/wiki/분류:2014년_노래 "wikilink") [분류:2014년 싱글](https://ko.wikipedia.org/wiki/분류:2014년_싱글 "wikilink") [분류:데뷔 싱글](https://ko.wikipedia.org/wiki/분류:데뷔_싱글 "wikilink") [분류:레드벨벳의 노래](https://ko.wikipedia.org/wiki/분류:레드벨벳의_노래 "wikilink") [분류:SM 엔터테인먼트 싱글](https://ko.wikipedia.org/wiki/분류:SM_엔터테인먼트_싱글 "wikilink")
 

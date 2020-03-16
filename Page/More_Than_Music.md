@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [More Than Music](https://ko.wikipedia.org/wiki/More_Than_Music).
 
 
-**《More Than Music》**은 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")에 발매된 [I.F](https://ko.wikipedia.org/wiki/I.F "wikilink")의 2집 정규 음반이다.
+**《More Than Music》**은 [2006년](../Page/2006년.md "wikilink")에 발매된 [I.F](../Page/I.F.md "wikilink")의 2집 정규 음반이다.
 
-※수록곡 중 10번 트랙 〈Rainbow〉는 [동성애](https://ko.wikipedia.org/wiki/동성애 "wikilink")에 관련된 노래이다.
+※수록곡 중 10번 트랙 〈Rainbow〉는 [동성애](../Page/동성애.md "wikilink")에 관련된 노래이다.
 
 ## 수록곡
 
@@ -21,7 +21,7 @@
 <tr class="odd">
 <td><p>1.</p></td>
 <td><p>낙서</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/넋업샨" title="wikilink">넋업샨</a></p></td>
+<td><p><a href="../Page/넋업샨.md" title="wikilink">넋업샨</a></p></td>
 <td><p>넋업샨</p></td>
 <td><p>3:27</p></td>
 </tr>
@@ -48,7 +48,7 @@
 </tr>
 <tr class="odd">
 <td><p>5.</p></td>
-<td><p>Art &amp; Fear (Feat: <a href="https://ko.wikipedia.org/wiki/정기고" title="wikilink">정기고</a>)</p></td>
+<td><p>Art &amp; Fear (Feat: <a href="../Page/정기고.md" title="wikilink">정기고</a>)</p></td>
 <td><p>넋업샨</p></td>
 <td><p>4:07</p></td>
 <td></td>
@@ -56,7 +56,7 @@
 <tr class="even">
 <td><p>6.</p></td>
 <td><p>Why (Dialogue: Chapter 3)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/DJ_소울스케이프" title="wikilink">DJ 소울스케이프</a></p></td>
+<td><p><a href="../Page/DJ_소울스케이프.md" title="wikilink">DJ 소울스케이프</a></p></td>
 <td><p>DJ 소울스케이프</p></td>
 <td><p>4:07</p></td>
 </tr>
@@ -91,8 +91,8 @@
 <tr class="odd">
 <td><p>11.</p></td>
 <td><p>N.I.C.E. (<strong>N</strong>othing <strong>I</strong>s <strong>C</strong>ool <strong>E</strong>nough)<br />
-(Feat: <a href="https://ko.wikipedia.org/wiki/에픽하이" title="wikilink">에픽하이</a>, <a href="https://ko.wikipedia.org/wiki/진보_(가수)" title="wikilink">진보</a>)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/DJ_투컷" title="wikilink">DJ 투컷</a></p></td>
+(Feat: <a href="https://ko.wikipedia.org/wiki/에픽하이" title="wikilink">에픽하이</a>, <a href="../Page/진보_(가수).md" title="wikilink">진보</a>)</p></td>
+<td><p><a href="../Page/DJ_투컷.md" title="wikilink">DJ 투컷</a></p></td>
 <td><p>DJ 투컷</p></td>
 <td><p>3:37</p></td>
 </tr>
@@ -105,7 +105,7 @@
 </tr>
 <tr class="odd">
 <td><p>13.</p></td>
-<td><p>You Don't Care (Feat: <a href="https://ko.wikipedia.org/wiki/있다_(음악인)" title="wikilink">Itta</a>, 정기고)</p></td>
+<td><p>You Don't Care (Feat: <a href="../Page/있다_(음악인).md" title="wikilink">Itta</a>, 정기고)</p></td>
 <td><p>페니 (Pe2ny), 정기고</p></td>
 <td><p>페니 (Pe2ny)</p></td>
 <td><p>4:40</p></td>
@@ -119,7 +119,7 @@
 </tr>
 <tr class="odd">
 <td><p>15.</p></td>
-<td><p>Hip Hop For Respect (Feat: Verbal Jint, <a href="https://ko.wikipedia.org/wiki/각나그네" title="wikilink">각나그네</a>, <a href="https://ko.wikipedia.org/wiki/TBNY" title="wikilink">TBNY</a>, <a href="https://ko.wikipedia.org/wiki/Vasco" title="wikilink">Vasco</a>, <a href="https://ko.wikipedia.org/wiki/Simon_Dominic" title="wikilink">Simon Dominic</a>, <a href="https://ko.wikipedia.org/wiki/가리온" title="wikilink">가리온</a>, <a href="https://ko.wikipedia.org/wiki/Dok2" title="wikilink">Dok2</a>, <a href="https://ko.wikipedia.org/wiki/Sean2slow" title="wikilink">Sean2slow</a>, MC 성천)</p></td>
+<td><p>Hip Hop For Respect (Feat: Verbal Jint, <a href="https://ko.wikipedia.org/wiki/각나그네" title="wikilink">각나그네</a>, <a href="../Page/TBNY.md" title="wikilink">TBNY</a>, <a href="https://ko.wikipedia.org/wiki/Vasco" title="wikilink">Vasco</a>, <a href="https://ko.wikipedia.org/wiki/Simon_Dominic" title="wikilink">Simon Dominic</a>, <a href="../Page/가리온.md" title="wikilink">가리온</a>, <a href="https://ko.wikipedia.org/wiki/Dok2" title="wikilink">Dok2</a>, <a href="https://ko.wikipedia.org/wiki/Sean2slow" title="wikilink">Sean2slow</a>, MC 성천)</p></td>
 <td><p>DJ 소울스케이프</p></td>
 <td><p>DJ 소울스케이프</p></td>
 <td><p>5:34</p></td>

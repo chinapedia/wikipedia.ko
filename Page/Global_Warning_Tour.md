@@ -1,12 +1,12 @@
 > This article is converted from Wikipedia: [Global Warning Tour](https://ko.wikipedia.org/wiki/Global_Warning_Tour).
 
 
-**Global Warning Tour**는 [빅뱅의](https://ko.wikipedia.org/wiki/빅뱅_\(음악_그룹\) "wikilink") 첫 번째 해외 콘서트 투어로 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink"), [태국](https://ko.wikipedia.org/wiki/태국 "wikilink")과 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서 개최되었다.\[1\]
+**Global Warning Tour**는 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") 첫 번째 해외 콘서트 투어로 [대한민국](../Page/대한민국.md "wikilink"), [태국](../Page/태국.md "wikilink")과 [일본](../Page/일본.md "wikilink")에서 개최되었다.\[1\]
 
 ## 스페셜 게스트
 
-  - [거미](https://ko.wikipedia.org/wiki/거미_\(가수\) "wikilink") (광주, 서울 1일 차)
-  - [45RPM](https://ko.wikipedia.org/wiki/45RPM "wikilink") (서울 2일 차)
+  - [거미](../Page/거미_\(가수\).md "wikilink") (광주, 서울 1일 차)
+  - [45RPM](../Page/45RPM.md "wikilink") (서울 2일 차)
 
 ## 투어 일정
 
@@ -72,7 +72,7 @@
 </tr>
 <tr class="even">
 <td><p>2008년 6월 7일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/방콕" title="wikilink">방콕</a></p></td>
+<td><p><a href="../Page/방콕.md" title="wikilink">방콕</a></p></td>
 <td></td>
 <td><p>후아마크 인도어 스타디움[2]</p></td>
 <td></td>
@@ -81,7 +81,7 @@
 <td><p>2008년 6월 21일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/서울" title="wikilink">서울</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/잠실실내체육관" title="wikilink">잠실실내체육관</a>[3]</p></td>
+<td><p><a href="../Page/잠실실내체육관.md" title="wikilink">잠실실내체육관</a>[3]</p></td>
 <td></td>
 </tr>
 <tr class="even">

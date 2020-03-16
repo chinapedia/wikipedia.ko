@@ -43,7 +43,7 @@
 <td><p>2015년 12월 8일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/요코하마" title="wikilink">요코하마</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/요코하마_아레나" title="wikilink">요코하마 아레나</a></p></td>
+<td><p><a href="../Page/요코하마_아레나.md" title="wikilink">요코하마 아레나</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2015년 12월 9일</p></td>

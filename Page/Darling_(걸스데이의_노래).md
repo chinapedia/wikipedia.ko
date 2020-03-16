@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Darling \( \)](https://ko.wikipedia.org/wiki/Darling_\(_\)).
 
 
-〈**Darling**〉(달링)은 [걸스데이](https://ko.wikipedia.org/wiki/걸스데이 "wikilink")의 노래이다. [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [6월 14일에](https://ko.wikipedia.org/wiki/6월_14일 "wikilink") [로엔 엔터테인먼트에서](https://ko.wikipedia.org/wiki/카카오엠 "wikilink") 발매한 [Everyday IV의](../Page/Everyday_IV.md "wikilink") 타이틀곡이며, 일본에서 [키스 엔터테인먼트에서](https://ko.wikipedia.org/wiki/키스_엔터테인먼트 "wikilink") [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [9월 30일에](https://ko.wikipedia.org/wiki/9월_30일 "wikilink") 발매된 싱글이다.
+〈**Darling**〉(달링)은 [걸스데이](../Page/걸스데이.md "wikilink")의 노래이다. [2014년](../Page/2014년.md "wikilink") [6월 14일에](../Page/6월_14일.md "wikilink") [로엔 엔터테인먼트에서](../Page/카카오엠.md "wikilink") 발매한 [Everyday IV의](../Page/Everyday_IV.md "wikilink") 타이틀곡이며, 일본에서 [키스 엔터테인먼트에서](https://ko.wikipedia.org/wiki/키스_엔터테인먼트 "wikilink") [2015년](../Page/2015년.md "wikilink") [9월 30일에](../Page/9월_30일.md "wikilink") 발매된 싱글이다.
 
 ## 싱글 수록곡
 
@@ -36,10 +36,10 @@
 
 ## 발매일
 
-| 국가 | 일정                                                                                                                | 포맷                                                                                                                    | 레이블                                                             |
-| -- | ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| 한국 | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [7월 14일](https://ko.wikipedia.org/wiki/7월_14일 "wikilink") | [디지털 다운로드](https://ko.wikipedia.org/wiki/디지털_다운로드 "wikilink"), [CD](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink") | [로엔 엔터테인먼트](https://ko.wikipedia.org/wiki/카카오엠 "wikilink")      |
-| 일본 | [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [9월 30일](https://ko.wikipedia.org/wiki/9월_30일 "wikilink") | CD+[DVD](https://ko.wikipedia.org/wiki/DVD "wikilink")                                                                | [키스 엔터테인먼트](https://ko.wikipedia.org/wiki/키스_엔터테인먼트 "wikilink") |
-|    |                                                                                                                   |                                                                                                                       |                                                                 |
+| 국가 | 일정                                                                          | 포맷                                                                                                 | 레이블                                                             |
+| -- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| 한국 | [2014년](../Page/2014년.md "wikilink") [7월 14일](../Page/7월_14일.md "wikilink") | [디지털 다운로드](https://ko.wikipedia.org/wiki/디지털_다운로드 "wikilink"), [CD](../Page/콤팩트_디스크.md "wikilink") | [로엔 엔터테인먼트](../Page/카카오엠.md "wikilink")                         |
+| 일본 | [2015년](../Page/2015년.md "wikilink") [9월 30일](../Page/9월_30일.md "wikilink") | CD+[DVD](../Page/DVD.md "wikilink")                                                                | [키스 엔터테인먼트](https://ko.wikipedia.org/wiki/키스_엔터테인먼트 "wikilink") |
+|    |                                                                             |                                                                                                    |                                                                 |
 
 [분류:걸스데이의 노래](https://ko.wikipedia.org/wiki/분류:걸스데이의_노래 "wikilink") [분류:2014년 노래](https://ko.wikipedia.org/wiki/분류:2014년_노래 "wikilink") [분류:2015년 노래](https://ko.wikipedia.org/wiki/분류:2015년_노래 "wikilink") [분류:2015년 싱글](https://ko.wikipedia.org/wiki/분류:2015년_싱글 "wikilink") [분류:한국어 노래](https://ko.wikipedia.org/wiki/분류:한국어_노래 "wikilink") [분류:일본어 노래](https://ko.wikipedia.org/wiki/분류:일본어_노래 "wikilink")

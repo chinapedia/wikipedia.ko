@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Reality \(EP\)](https://ko.wikipedia.org/wiki/Reality_\(EP\)).
 
 
-***Reality***는 대한민국의 음악 그룹 [인피니트](https://ko.wikipedia.org/wiki/인피니트 "wikilink")의 다섯 번째 [EP](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink") 음반이다. 타이틀곡은 "BAD"로 2015년 7월 13일에 발매되었다.
+***Reality***는 대한민국의 음악 그룹 [인피니트](../Page/인피니트.md "wikilink")의 다섯 번째 [EP](../Page/익스텐디드_플레이.md "wikilink") 음반이다. 타이틀곡은 "BAD"로 2015년 7월 13일에 발매되었다.
 
 ## 트랙 리스트
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ RC](https://ko.wikipedia.org/wiki/_RC).
 
 
-**렉서스 RC**(Lexus RC)는 [렉서스](https://ko.wikipedia.org/wiki/렉서스 "wikilink")의 4인승 [스포츠카](https://ko.wikipedia.org/wiki/스포츠카 "wikilink")이다. [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에는 [2015년 4월에](../Page/2015년_4월.md "wikilink") [서울모터쇼](https://ko.wikipedia.org/wiki/서울모터쇼 "wikilink")를 통해 공개되었다.
+**렉서스 RC**(Lexus RC)는 [렉서스](../Page/렉서스.md "wikilink")의 4인승 [스포츠카](../Page/스포츠카.md "wikilink")이다. [대한민국](../Page/대한민국.md "wikilink")에는 [2015년 4월에](../Page/2015년_4월.md "wikilink") [서울모터쇼](https://ko.wikipedia.org/wiki/서울모터쇼 "wikilink")를 통해 공개되었다.
 
 {{-}}
 
@@ -9,7 +9,7 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:2015_Lexus_RC350_AWD,_front_left.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:2015_Lexus_RC350_AWD,_rear_left.jpg "wikilink")
 
-[GS의](https://ko.wikipedia.org/wiki/렉서스_GS "wikilink") 플랫폼을 사용한 스포츠 [쿠페](https://ko.wikipedia.org/wiki/쿠페 "wikilink")로, [렉서스](https://ko.wikipedia.org/wiki/렉서스 "wikilink")의 두 번째 [쿠페](https://ko.wikipedia.org/wiki/쿠페 "wikilink") 전용 차종이다. [2013년 11월에](https://ko.wikipedia.org/wiki/2013년_11월 "wikilink") 개최된 제 43회 [도쿄 모터쇼를](https://ko.wikipedia.org/wiki/도쿄_모터쇼 "wikilink") 통해 공개되었으며, [2014년 10월에](https://ko.wikipedia.org/wiki/2014년_10월 "wikilink") 정식 발표되었다. 엔진은 I4 2.5ℓ 가솔린 하이브리드, V6 3.5ℓ 가솔린, V8 5.0L 가솔린 엔진 등 3가지가 적용되며, 여기에 [무단 변속기와](https://ko.wikipedia.org/wiki/연속_가변_변속기 "wikilink") 8단 [자동변속기](https://ko.wikipedia.org/wiki/자동변속기 "wikilink")를 물린다. 하반기에는 고성능 트림인 RC F가 출시되었다. [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에는 [2015년 4월에](../Page/2015년_4월.md "wikilink") 개최된 [서울 모터쇼를](https://ko.wikipedia.org/wiki/서울_모터쇼 "wikilink") 통해 공개됨과 동시에 정식 수입을 시작했고, V6 3.5ℓ 가솔린 엔진을 장착한 RC350 F 스포츠와 V8 5.0ℓ 가솔린 엔진을 단 RC F 등 2가지만 수입된다.
+[GS의](../Page/렉서스_GS.md "wikilink") 플랫폼을 사용한 스포츠 [쿠페](../Page/쿠페.md "wikilink")로, [렉서스](../Page/렉서스.md "wikilink")의 두 번째 [쿠페](../Page/쿠페.md "wikilink") 전용 차종이다. [2013년 11월에](../Page/2013년_11월.md "wikilink") 개최된 제 43회 [도쿄 모터쇼를](https://ko.wikipedia.org/wiki/도쿄_모터쇼 "wikilink") 통해 공개되었으며, [2014년 10월에](../Page/2014년_10월.md "wikilink") 정식 발표되었다. 엔진은 I4 2.5ℓ 가솔린 하이브리드, V6 3.5ℓ 가솔린, V8 5.0L 가솔린 엔진 등 3가지가 적용되며, 여기에 [무단 변속기와](../Page/연속_가변_변속기.md "wikilink") 8단 [자동변속기](../Page/자동변속기.md "wikilink")를 물린다. 하반기에는 고성능 트림인 RC F가 출시되었다. [대한민국](../Page/대한민국.md "wikilink")에는 [2015년 4월에](../Page/2015년_4월.md "wikilink") 개최된 [서울 모터쇼를](../Page/서울_모터쇼.md "wikilink") 통해 공개됨과 동시에 정식 수입을 시작했고, V6 3.5ℓ 가솔린 엔진을 장착한 RC350 F 스포츠와 V8 5.0ℓ 가솔린 엔진을 단 RC F 등 2가지만 수입된다.
 
 ### 라인업
 

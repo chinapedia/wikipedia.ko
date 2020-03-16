@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [NTT ](https://ko.wikipedia.org/wiki/NTT_).
 
 
-**주식회사 엔티티 데이터**(株式会社エヌ・ティ・ティ・データ)는 일본의 시스템 통합(SI) 기업이자 [일본전신전화](https://ko.wikipedia.org/wiki/일본전신전화 "wikilink")의 자회사이다.
+**주식회사 엔티티 데이터**(株式会社エヌ・ティ・ティ・データ)는 일본의 시스템 통합(SI) 기업이자 [일본전신전화](../Page/일본전신전화.md "wikilink")의 자회사이다.
 
-NTT의 전신인 일본전신전화는 1967년 데이터 커뮤니케이션스 사업을 시작하였고, 1985년 민영화되어 1988년 NTT 데이터로 데이터 커뮤니케이션스 부서가 떨어져 나왔는데 이것이 현재 일본에 본사를 둔 [IT 서비스](https://ko.wikipedia.org/wiki/IT_서비스_관리 "wikilink") 기업 가운데 최대 기업이 되었다.
+NTT의 전신인 일본전신전화는 1967년 데이터 커뮤니케이션스 사업을 시작하였고, 1985년 민영화되어 1988년 NTT 데이터로 데이터 커뮤니케이션스 부서가 떨어져 나왔는데 이것이 현재 일본에 본사를 둔 [IT 서비스](../Page/IT_서비스_관리.md "wikilink") 기업 가운데 최대 기업이 되었다.
 
 NTT 데이터는 공개 거래 회사이지만 NTT가 54퍼센트를 소유하고 있다.
 
 ## 같이 보기
 
-  - [NTT 도코모](https://ko.wikipedia.org/wiki/NTT_도코모 "wikilink")
+  - [NTT 도코모](../Page/NTT_도코모.md "wikilink")
 
 ## 외부 링크
 

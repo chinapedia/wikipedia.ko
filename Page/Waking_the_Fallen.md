@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Waking the Fallen](https://ko.wikipedia.org/wiki/Waking_the_Fallen).
 
 
-**Waking The Fallen**은 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink")[8월 26일에](https://ko.wikipedia.org/wiki/8월_26일 "wikilink") 발매된 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [헤비 메탈밴드인](https://ko.wikipedia.org/wiki/헤비_메탈 "wikilink") [어벤지드 세븐폴드의](https://ko.wikipedia.org/wiki/어벤지드_세븐폴드 "wikilink") 두번째 정규앨범 이다.
+**Waking The Fallen**은 [2003년](../Page/2003년.md "wikilink")[8월 26일에](../Page/8월_26일.md "wikilink") 발매된 [미국](../Page/미국.md "wikilink")의 [헤비 메탈밴드인](../Page/헤비_메탈.md "wikilink") [어벤지드 세븐폴드의](../Page/어벤지드_세븐폴드.md "wikilink") 두번째 정규앨범 이다.
 
 ## 수록곡
 
-모든 곡은 [어벤지드 세븐폴드](https://ko.wikipedia.org/wiki/어벤지드_세븐폴드 "wikilink") 맴버들이 작사,작곡을 하였다.
+모든 곡은 [어벤지드 세븐폴드](../Page/어벤지드_세븐폴드.md "wikilink") 맴버들이 작사,작곡을 하였다.
 
 ## 구성
 

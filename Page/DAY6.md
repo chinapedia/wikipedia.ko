@@ -21,39 +21,39 @@
 
 #### 정규
 
-| 연도                                                               | 발매일        | Artist | 발매                                                   | 발매 형식                                                                | 앨범명                                                                                   | 타이틀 곡                                                             | 기획사                                                               |
-| ---------------------------------------------------------------- | ---------- | ------ | ---------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------- |
-| rowspan="2|[2017](https://ko.wikipedia.org/wiki/2017 "wikilink") | 2017.06.07 | DAY6   | 한국                                                   | [정규](https://ko.wikipedia.org/wiki/정규_앨범 "wikilink")                 | 《[SUNRISE》](http://day6.jype.com/discography.asp?idx=8&page=)\[1\]                    | 〈반드시 웃는다〉                                                         | [JYP 엔터테인먼트](https://ko.wikipedia.org/wiki/JYP_엔터테인먼트 "wikilink") |
-| 2017.12.05                                                       | DAY6       | 한국     | [정규](https://ko.wikipedia.org/wiki/정규_앨범 "wikilink") | 《[MOONRISE》](http://day6.jype.com/discography.asp?idx=14&page=)\[2\] | 〈좋아합니다〉                                                                               | [JYP 엔터테인먼트](https://ko.wikipedia.org/wiki/JYP_엔터테인먼트 "wikilink") |                                                                   |
-| rowspan="1|[2019](https://ko.wikipedia.org/wiki/2019 "wikilink") | 2019.10.22 | DAY6   | 한국                                                   | [정규](https://ko.wikipedia.org/wiki/정규_앨범 "wikilink")                 | [《The Book of Us : Entropy》](https://day6.jype.com/discography.asp?idx=19&page=)\[3\] | 〈Sweet Chaos〉                                                     | [JYP 엔터테인먼트](https://ko.wikipedia.org/wiki/JYP_엔터테인먼트 "wikilink") |
-|                                                                  |            |        |                                                      |                                                                      |                                                                                       |                                                                   |                                                                   |
+| 연도                                                               | 발매일        | Artist | 발매                                                   | 발매 형식                                                                | 앨범명                                                                                   | 타이틀 곡                                          | 기획사                                            |
+| ---------------------------------------------------------------- | ---------- | ------ | ---------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
+| rowspan="2|[2017](https://ko.wikipedia.org/wiki/2017 "wikilink") | 2017.06.07 | DAY6   | 한국                                                   | [정규](https://ko.wikipedia.org/wiki/정규_앨범 "wikilink")                 | 《[SUNRISE》](http://day6.jype.com/discography.asp?idx=8&page=)\[1\]                    | 〈반드시 웃는다〉                                      | [JYP 엔터테인먼트](../Page/JYP_엔터테인먼트.md "wikilink") |
+| 2017.12.05                                                       | DAY6       | 한국     | [정규](https://ko.wikipedia.org/wiki/정규_앨범 "wikilink") | 《[MOONRISE》](http://day6.jype.com/discography.asp?idx=14&page=)\[2\] | 〈좋아합니다〉                                                                               | [JYP 엔터테인먼트](../Page/JYP_엔터테인먼트.md "wikilink") |                                                |
+| rowspan="1|[2019](https://ko.wikipedia.org/wiki/2019 "wikilink") | 2019.10.22 | DAY6   | 한국                                                   | [정규](https://ko.wikipedia.org/wiki/정규_앨범 "wikilink")                 | [《The Book of Us : Entropy》](https://day6.jype.com/discography.asp?idx=19&page=)\[3\] | 〈Sweet Chaos〉                                  | [JYP 엔터테인먼트](../Page/JYP_엔터테인먼트.md "wikilink") |
+|                                                                  |            |        |                                                      |                                                                      |                                                                                       |                                                |                                                |
 
 #### EP
 
-| 연도                                                               | 발매일        | Artist | 발매                                                       | 발매 형식                                                                                   | 앨범명                                                                                  | 타이틀 곡                                                             | 기획사                                                               |
-| ---------------------------------------------------------------- | ---------- | ------ | -------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------- | ----------------------------------------------------------------- |
-| rowspan="1|[2015](https://ko.wikipedia.org/wiki/2015 "wikilink") | 2015.09.07 | DAY6   | 한국                                                       | [EP](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink")                                | 《[The Day](../Page/The_Day.md "wikilink")》\[4\]                                      | 〈Congratulations〉                                                 | [JYP 엔터테인먼트](https://ko.wikipedia.org/wiki/JYP_엔터테인먼트 "wikilink") |
-| rowspan="1|[2016](https://ko.wikipedia.org/wiki/2016 "wikilink") | 2016.03.30 | DAY6   | 한국                                                       | [EP](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink")                                | 《[DAYDREAM](../Page/DAYDREAM.md "wikilink")》\[5\]                                    | 〈놓아 놓아 놓아〉                                                        | [JYP 엔터테인먼트](https://ko.wikipedia.org/wiki/JYP_엔터테인먼트 "wikilink") |
-| rowspan="2|[2018](https://ko.wikipedia.org/wiki/2018 "wikilink") | 2018.06.26 | DAY6   | 한국                                                       | [EP](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink")                                | 《[Shoot Me : Youth Part 1》](http://day6.jype.com/discography.asp?idx=15&page=1)\[6\] | 〈Shoot Me〉                                                        | [JYP 엔터테인먼트](https://ko.wikipedia.org/wiki/JYP_엔터테인먼트 "wikilink") |
-| 2018.12.10                                                       | DAY6       | 한국     | [EP](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink") | 《[Remember Us : Youth Part 2》](http://day6.jype.com/discography.asp?idx=17&page=1)\[7\] | 〈행복했던 날들이었다〉                                                                         | [JYP 엔터테인먼트](https://ko.wikipedia.org/wiki/JYP_엔터테인먼트 "wikilink") |                                                                   |
-| rowspan="1|[2019](https://ko.wikipedia.org/wiki/2019 "wikilink") | 2019.07.15 | DAY6   | 한국                                                       | [EP](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink")                                | [《The Book of Us : Gravity》](http://day6.jype.com/discography.asp?idx=18&page=)\[8\] | 〈한 페이지가 될 수 있게〉                                                   | [JYP 엔터테인먼트](https://ko.wikipedia.org/wiki/JYP_엔터테인먼트 "wikilink") |
+| 연도                                                               | 발매일        | Artist | 발매                                    | 발매 형식                                                                                   | 앨범명                                                                                  | 타이틀 곡                                          | 기획사                                            |
+| ---------------------------------------------------------------- | ---------- | ------ | ------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ---------------------------------------------- | ---------------------------------------------- |
+| rowspan="1|[2015](https://ko.wikipedia.org/wiki/2015 "wikilink") | 2015.09.07 | DAY6   | 한국                                    | [EP](../Page/익스텐디드_플레이.md "wikilink")                                                   | 《[The Day](../Page/The_Day.md "wikilink")》\[4\]                                      | 〈Congratulations〉                              | [JYP 엔터테인먼트](../Page/JYP_엔터테인먼트.md "wikilink") |
+| rowspan="1|[2016](https://ko.wikipedia.org/wiki/2016 "wikilink") | 2016.03.30 | DAY6   | 한국                                    | [EP](../Page/익스텐디드_플레이.md "wikilink")                                                   | 《[DAYDREAM](../Page/DAYDREAM.md "wikilink")》\[5\]                                    | 〈놓아 놓아 놓아〉                                     | [JYP 엔터테인먼트](../Page/JYP_엔터테인먼트.md "wikilink") |
+| rowspan="2|[2018](https://ko.wikipedia.org/wiki/2018 "wikilink") | 2018.06.26 | DAY6   | 한국                                    | [EP](../Page/익스텐디드_플레이.md "wikilink")                                                   | 《[Shoot Me : Youth Part 1》](http://day6.jype.com/discography.asp?idx=15&page=1)\[6\] | 〈Shoot Me〉                                     | [JYP 엔터테인먼트](../Page/JYP_엔터테인먼트.md "wikilink") |
+| 2018.12.10                                                       | DAY6       | 한국     | [EP](../Page/익스텐디드_플레이.md "wikilink") | 《[Remember Us : Youth Part 2》](http://day6.jype.com/discography.asp?idx=17&page=1)\[7\] | 〈행복했던 날들이었다〉                                                                         | [JYP 엔터테인먼트](../Page/JYP_엔터테인먼트.md "wikilink") |                                                |
+| rowspan="1|[2019](https://ko.wikipedia.org/wiki/2019 "wikilink") | 2019.07.15 | DAY6   | 한국                                    | [EP](../Page/익스텐디드_플레이.md "wikilink")                                                   | [《The Book of Us : Gravity》](http://day6.jype.com/discography.asp?idx=18&page=)\[8\] | 〈한 페이지가 될 수 있게〉                                | [JYP 엔터테인먼트](../Page/JYP_엔터테인먼트.md "wikilink") |
 
 #### 싱글
 
-| 연도                                                                | 발매일        | Artist | 발매                                                   | 발매 형식                                                                                      | 앨범명                                                                                 | 타이틀 곡               | 기획사                                                                           |
-| ----------------------------------------------------------------- | ---------- | ------ | ---------------------------------------------------- | ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- | ------------------- | ----------------------------------------------------------------------------- |
-| rowspan="1|[2018](https://ko.wikipedia.org/wiki/2018 "wikilink")  | 2018.09.10 | DAY6   | 한국                                                   | [싱글](https://ko.wikipedia.org/wiki/싱글_앨범 "wikilink")                                       | [《Beautiful Feeling》](https://www.melon.com/album/detail.htm?albumId=10202330)\[9\] | 〈Beautiful Feeling〉 | rowspan="1|[JYP 엔터테인먼트](https://ko.wikipedia.org/wiki/JYP_엔터테인먼트 "wikilink")  |
-| rowspan="10|[2017](https://ko.wikipedia.org/wiki/2017 "wikilink") | 2017.01.06 | DAY6   | 한국                                                   | [싱글](https://ko.wikipedia.org/wiki/싱글_앨범 "wikilink")                                       | 《[Every DAY6 January》](http://day6.jype.com/discography.asp?idx=3&page=2)           | 〈아 왜 (I Wait)〉      | rowspan="10|[JYP 엔터테인먼트](https://ko.wikipedia.org/wiki/JYP_엔터테인먼트 "wikilink") |
-| 2017.02.06                                                        | DAY6       | 한국     | [싱글](https://ko.wikipedia.org/wiki/싱글_앨범 "wikilink") | 《[Every DAY6 February》](http://day6.jype.com/discography.asp?idx=4&page=2)                 | 〈예뻤어〉                                                                               |                     |                                                                               |
-| 2017.03.06                                                        | DAY6       | 한국     | [싱글](https://ko.wikipedia.org/wiki/싱글_앨범 "wikilink") | 《[Every DAY6 March》](http://day6.jype.com/discography.asp?idx=5&page=2)                    | 〈어떻게 말해〉                                                                            |                     |                                                                               |
-| 2017.04.06                                                        | DAY6       | 한국     | [싱글](https://ko.wikipedia.org/wiki/싱글_앨범 "wikilink") | 《[Every DAY6 April》](http://day6.jype.com/discography.asp?idx=6&page=)                     | 〈장난 아닌데〉                                                                            |                     |                                                                               |
-| 2017.05.08                                                        | DAY6       | 한국     | [싱글](https://ko.wikipedia.org/wiki/싱글_앨범 "wikilink") | 《[Every DAY6 May》](http://day6.jype.com/discography.asp?idx=7&page=)                       | 〈DANCE DANCE〉                                                                       |                     |                                                                               |
-| 2017.07.06                                                        | DAY6       | 한국     | [싱글](https://ko.wikipedia.org/wiki/싱글_앨범 "wikilink") | 《[Every DAY6 July》](http://day6.jype.com/discography.asp?idx=9&page=%20Every%20DAY6%20May) | 〈Hi Hello〉                                                                          |                     |                                                                               |
-| 2017.08.07                                                        | DAY6       | 한국     | [싱글](https://ko.wikipedia.org/wiki/싱글_앨범 "wikilink") | 《[DAY6 August》](http://day6.jype.com/discography.asp?idx=10&page=Every)                    | 〈좋은걸 뭐 어떡해〉                                                                         |                     |                                                                               |
-| 2017.09.06                                                        | DAY6       | 한국     | [싱글](https://ko.wikipedia.org/wiki/싱글_앨범 "wikilink") | 《[DAY6 September》](http://day6.jype.com/discography.asp?idx=11&page=Every)                 | 〈'I Loved You'〉                                                                     |                     |                                                                               |
-| 2017.09.28                                                        | DAY6       | 한국     | [싱글](https://ko.wikipedia.org/wiki/싱글_앨범 "wikilink") | 《[DAY6 October》](http://day6.jype.com/discography.asp?idx=12&page=Every)                   | 〈그렇더라고요〉                                                                            |                     |                                                                               |
-| 2017.11.05                                                        | DAY6       | 한국     | [싱글](https://ko.wikipedia.org/wiki/싱글_앨범 "wikilink") | 《[DAY6 November》](http://day6.jype.com/discography.asp?idx=13&page=Every)                  | 〈혼자야〉                                                                               |                     |                                                                               |
-|                                                                   |            |        |                                                      |                                                                                            |                                                                                     |                     |                                                                               |
+| 연도                                                                | 발매일        | Artist | 발매                                                   | 발매 형식                                                                                      | 앨범명                                                                                 | 타이틀 곡               | 기획사                                                        |
+| ----------------------------------------------------------------- | ---------- | ------ | ---------------------------------------------------- | ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- | ------------------- | ---------------------------------------------------------- |
+| rowspan="1|[2018](https://ko.wikipedia.org/wiki/2018 "wikilink")  | 2018.09.10 | DAY6   | 한국                                                   | [싱글](https://ko.wikipedia.org/wiki/싱글_앨범 "wikilink")                                       | [《Beautiful Feeling》](https://www.melon.com/album/detail.htm?albumId=10202330)\[9\] | 〈Beautiful Feeling〉 | rowspan="1|[JYP 엔터테인먼트](../Page/JYP_엔터테인먼트.md "wikilink")  |
+| rowspan="10|[2017](https://ko.wikipedia.org/wiki/2017 "wikilink") | 2017.01.06 | DAY6   | 한국                                                   | [싱글](https://ko.wikipedia.org/wiki/싱글_앨범 "wikilink")                                       | 《[Every DAY6 January》](http://day6.jype.com/discography.asp?idx=3&page=2)           | 〈아 왜 (I Wait)〉      | rowspan="10|[JYP 엔터테인먼트](../Page/JYP_엔터테인먼트.md "wikilink") |
+| 2017.02.06                                                        | DAY6       | 한국     | [싱글](https://ko.wikipedia.org/wiki/싱글_앨범 "wikilink") | 《[Every DAY6 February》](http://day6.jype.com/discography.asp?idx=4&page=2)                 | 〈예뻤어〉                                                                               |                     |                                                            |
+| 2017.03.06                                                        | DAY6       | 한국     | [싱글](https://ko.wikipedia.org/wiki/싱글_앨범 "wikilink") | 《[Every DAY6 March》](http://day6.jype.com/discography.asp?idx=5&page=2)                    | 〈어떻게 말해〉                                                                            |                     |                                                            |
+| 2017.04.06                                                        | DAY6       | 한국     | [싱글](https://ko.wikipedia.org/wiki/싱글_앨범 "wikilink") | 《[Every DAY6 April》](http://day6.jype.com/discography.asp?idx=6&page=)                     | 〈장난 아닌데〉                                                                            |                     |                                                            |
+| 2017.05.08                                                        | DAY6       | 한국     | [싱글](https://ko.wikipedia.org/wiki/싱글_앨범 "wikilink") | 《[Every DAY6 May》](http://day6.jype.com/discography.asp?idx=7&page=)                       | 〈DANCE DANCE〉                                                                       |                     |                                                            |
+| 2017.07.06                                                        | DAY6       | 한국     | [싱글](https://ko.wikipedia.org/wiki/싱글_앨범 "wikilink") | 《[Every DAY6 July》](http://day6.jype.com/discography.asp?idx=9&page=%20Every%20DAY6%20May) | 〈Hi Hello〉                                                                          |                     |                                                            |
+| 2017.08.07                                                        | DAY6       | 한국     | [싱글](https://ko.wikipedia.org/wiki/싱글_앨범 "wikilink") | 《[DAY6 August》](http://day6.jype.com/discography.asp?idx=10&page=Every)                    | 〈좋은걸 뭐 어떡해〉                                                                         |                     |                                                            |
+| 2017.09.06                                                        | DAY6       | 한국     | [싱글](https://ko.wikipedia.org/wiki/싱글_앨범 "wikilink") | 《[DAY6 September》](http://day6.jype.com/discography.asp?idx=11&page=Every)                 | 〈'I Loved You'〉                                                                     |                     |                                                            |
+| 2017.09.28                                                        | DAY6       | 한국     | [싱글](https://ko.wikipedia.org/wiki/싱글_앨범 "wikilink") | 《[DAY6 October》](http://day6.jype.com/discography.asp?idx=12&page=Every)                   | 〈그렇더라고요〉                                                                            |                     |                                                            |
+| 2017.11.05                                                        | DAY6       | 한국     | [싱글](https://ko.wikipedia.org/wiki/싱글_앨범 "wikilink") | 《[DAY6 November》](http://day6.jype.com/discography.asp?idx=13&page=Every)                  | 〈혼자야〉                                                                               |                     |                                                            |
+|                                                                   |            |        |                                                      |                                                                                            |                                                                                     |                     |                                                            |
 
 ### 일본
 
@@ -101,7 +101,7 @@
 <li><a href="https://www.youtube.com/watch?v=fDo7qeiCd3o">DAY6(데이식스) OFFICIAL LOGO FILM</a></li>
 </ul></td>
 <td><p>2018.05.11</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/JYP_엔터테인먼트" title="wikilink">JYP 엔터테인먼트</a></p></td>
+<td><p><a href="../Page/JYP_엔터테인먼트.md" title="wikilink">JYP 엔터테인먼트</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -133,7 +133,7 @@
 <li><a href="https://www.youtube.com/watch?v=45FRzS07zZA">DAY6 《SUNRISE》 Album Spoiler</a></li>
 </ul></td>
 <td><p>《<a href="http://day6.jype.com/discography.asp?idx=8&amp;page=">SUNRISE》</a></p></td>
-<td><p>rowspan="2|<a href="https://ko.wikipedia.org/wiki/JYP_엔터테인먼트" title="wikilink">JYP 엔터테인먼트</a></p></td>
+<td><p>rowspan="2|<a href="../Page/JYP_엔터테인먼트.md" title="wikilink">JYP 엔터테인먼트</a></p></td>
 </tr>
 <tr class="even">
 <td><ul>
@@ -151,7 +151,7 @@
 <li><a href="https://www.youtube.com/watch?v=9qCFgqDVuWM">DAY6 《Shoot Me : Youth Part 1》 Album Sampler</a></li>
 </ul></td>
 <td><p>《<a href="http://day6.jype.com/discography.asp?idx=15&amp;page=1">Shoot Me : Youth Part 1》</a></p></td>
-<td><p>rowspan="2|<a href="https://ko.wikipedia.org/wiki/JYP_엔터테인먼트" title="wikilink">JYP 엔터테인먼트</a></p></td>
+<td><p>rowspan="2|<a href="../Page/JYP_엔터테인먼트.md" title="wikilink">JYP 엔터테인먼트</a></p></td>
 </tr>
 <tr class="even">
 <td><ul>
@@ -169,14 +169,14 @@
 <li><a href="https://www.youtube.com/watch?v=ahJQPm1VqNA">DAY6 《The Book of Us : Gravity》 Album Sampler</a></li>
 </ul></td>
 <td><p><a href="http://day6.jype.com/discography.asp?idx=18&amp;page=">《The Book of Us : Gravity》</a></p></td>
-<td><p>rowspan="1|<a href="https://ko.wikipedia.org/wiki/JYP_엔터테인먼트" title="wikilink">JYP 엔터테인먼트</a></p></td>
+<td><p>rowspan="1|<a href="../Page/JYP_엔터테인먼트.md" title="wikilink">JYP 엔터테인먼트</a></p></td>
 </tr>
 <tr class="even">
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=iWa_3f2wEYg">DAY6 《The Book of Us : Entropy》 Album Sampler</a></li>
 </ul></td>
 <td><p><a href="https://day6.jype.com/discography.asp?idx=19&amp;page=">《The Book of Us : Entropy》</a></p></td>
-<td><p>rowspan="1|<a href="https://ko.wikipedia.org/wiki/JYP_엔터테인먼트" title="wikilink">JYP 엔터테인먼트</a></p></td>
+<td><p>rowspan="1|<a href="../Page/JYP_엔터테인먼트.md" title="wikilink">JYP 엔터테인먼트</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -214,7 +214,7 @@
 <li><a href="https://www.youtube.com/watch?v=x3sFsHrUyLQ">DAY6 〈Congratulations〉</a></li>
 </ul></td>
 <td><p>《<a href="http://day6.jype.com/discography.asp?idx=1&amp;page=3">The Day》</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/JYP_엔터테인먼트" title="wikilink">JYP 엔터테인먼트</a></p></td>
+<td><p><a href="../Page/JYP_엔터테인먼트.md" title="wikilink">JYP 엔터테인먼트</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/2016" title="wikilink">2016</a></p></td>
@@ -224,7 +224,7 @@
 <li><a href="https://www.youtube.com/watch?v=1-1TGNmQqZA">DAY6 〈놓아 놓아 놓아〉</a></li>
 </ul></td>
 <td><p>《<a href="http://day6.jype.com/discography.asp?idx=2&amp;page=3">DAYDREAM》</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/JYP_엔터테인먼트" title="wikilink">JYP 엔터테인먼트</a></p></td>
+<td><p><a href="../Page/JYP_엔터테인먼트.md" title="wikilink">JYP 엔터테인먼트</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>rowspan="12|<a href="https://ko.wikipedia.org/wiki/2017" title="wikilink">2017</a></p></td>
@@ -234,7 +234,7 @@
 <li><a href="https://www.youtube.com/watch?v=O3nFopIjmjI">DAY6 〈아 왜(I Wait)〉</a></li>
 </ul></td>
 <td><p>《<a href="http://day6.jype.com/discography.asp?idx=3&amp;page=2">Every DAY6 January》</a></p></td>
-<td><p>rowspan="12|<a href="https://ko.wikipedia.org/wiki/JYP_엔터테인먼트" title="wikilink">JYP 엔터테인먼트</a></p></td>
+<td><p>rowspan="12|<a href="../Page/JYP_엔터테인먼트.md" title="wikilink">JYP 엔터테인먼트</a></p></td>
 </tr>
 <tr class="even">
 <td><ul>
@@ -355,7 +355,7 @@
 <li><a href="https://www.youtube.com/watch?v=g2X2LdJAIpU">DAY6 〈Shoot Me〉</a></li>
 </ul></td>
 <td><p><a href="http://day6.jype.com/discography.asp?idx=15&amp;page=">《Shoot Me : Youth Part 1》</a></p></td>
-<td><p>rowspan="3|<a href="https://ko.wikipedia.org/wiki/JYP_엔터테인먼트" title="wikilink">JYP 엔터테인먼트</a></p></td>
+<td><p>rowspan="3|<a href="../Page/JYP_엔터테인먼트.md" title="wikilink">JYP 엔터테인먼트</a></p></td>
 </tr>
 <tr class="even">
 <td><ul>
@@ -386,7 +386,7 @@
 <li><a href="https://www.youtube.com/watch?v=vnS_jn2uibs">DAY6 〈한 페이지가 될 수 있게〉</a></li>
 </ul></td>
 <td><p><a href="https://day6.jype.com/discography.asp">《The Book of Us : Gravity》</a></p></td>
-<td><p>rowspan="3|<a href="https://ko.wikipedia.org/wiki/JYP_엔터테인먼트" title="wikilink">JYP 엔터테인먼트</a></p></td>
+<td><p>rowspan="3|<a href="../Page/JYP_엔터테인먼트.md" title="wikilink">JYP 엔터테인먼트</a></p></td>
 </tr>
 <tr class="odd">
 <td><ul>
@@ -441,7 +441,7 @@
 <li><a href="https://www.youtube.com/watch?v=unS_PcMn3RA">DAY6 〈If ～また逢えたら～〉</a></li>
 </ul></td>
 <td><p>《If ～また逢えたら～》</p></td>
-<td><p>rowspan="3|<a href="https://ko.wikipedia.org/wiki/워너_뮤직_재팬" title="wikilink">워너 뮤직 재팬</a></p></td>
+<td><p>rowspan="3|<a href="../Page/워너_뮤직_재팬.md" title="wikilink">워너 뮤직 재팬</a></p></td>
 </tr>
 <tr class="even">
 <td><ul>
@@ -471,7 +471,7 @@
 <li><a href="https://www.youtube.com/watch?v=Sg5q5sNYm74">DAY6 〈Finale〉 (Promotion ver.)</a></li>
 </ul></td>
 <td><p>《THE BEST DAY2》</p></td>
-<td><p>rowspan="1|<a href="https://ko.wikipedia.org/wiki/워너_뮤직_재팬" title="wikilink">워너 뮤직 재팬</a></p></td>
+<td><p>rowspan="1|<a href="../Page/워너_뮤직_재팬.md" title="wikilink">워너 뮤직 재팬</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -505,8 +505,8 @@
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/2018" title="wikilink">2018</a></p></td>
 <td><p>한국</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/JYP_엔터테인먼트" title="wikilink">JYP Ent.</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/JYP_엔터테인먼트" title="wikilink">JYP Ent.</a></p></td>
+<td><p><a href="../Page/JYP_엔터테인먼트.md" title="wikilink">JYP Ent.</a></p></td>
+<td><p><a href="../Page/JYP_엔터테인먼트.md" title="wikilink">JYP Ent.</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=wXhSvQPDR98">DAY6 '내 악기를 소개합니다' - 성진</a></li>
 <li><a href="https://www.youtube.com/watch?v=fs-IwFsvt6A">DAY6 '내 악기를 소개합니다' - Jae</a></li>
@@ -514,7 +514,7 @@
 <li><a href="https://www.youtube.com/watch?v=7up_3rBa31E">DAY6 '내 악기를 소개합니다' - 원필</a></li>
 <li><a href="https://www.youtube.com/watch?v=E2sr4UlSzp8">DAY6 '내 악기를 소개합니다' - 도운</a></li>
 </ul></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/JYP_엔터테인먼트" title="wikilink">JYP Ent.</a></p></td>
+<td><p><a href="../Page/JYP_엔터테인먼트.md" title="wikilink">JYP Ent.</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -542,7 +542,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/2018" title="wikilink">2018</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/JYP_엔터테인먼트" title="wikilink">JYP Ent.</a></p></td>
+<td><p><a href="../Page/JYP_엔터테인먼트.md" title="wikilink">JYP Ent.</a></p></td>
 <td><p>the Moments Of DAY6</p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=7kI3XP4APfg">the Moments Of DAY6 - 성진</a></li>
@@ -551,7 +551,7 @@
 <li><a href="https://www.youtube.com/watch?v=F8jEVIsBc0M">the Moments Of DAY6 - 원필</a></li>
 <li><a href="https://www.youtube.com/watch?v=A6sBS5ZoKTM">the Moments Of DAY6 - 도운</a></li>
 </ul></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/JYP_엔터테인먼트" title="wikilink">JYP Ent.</a></p></td>
+<td><p><a href="../Page/JYP_엔터테인먼트.md" title="wikilink">JYP Ent.</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -588,7 +588,7 @@
 <li><a href="https://www.youtube.com/watch?v=Z9gV7URBikg">DJ 도운 with Jae, 성진</a></li>
 <li><a href="https://www.youtube.com/watch?v=c4W9B4v5kWc">BONUS CLIP</a></li>
 </ul></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/JYP_엔터테인먼트" title="wikilink">JYP Ent.</a></p></td>
+<td><p><a href="../Page/JYP_엔터테인먼트.md" title="wikilink">JYP Ent.</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -608,7 +608,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/2019" title="wikilink">2019</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/JYP_엔터테인먼트" title="wikilink">JYP Ent.</a></p></td>
+<td><p><a href="../Page/JYP_엔터테인먼트.md" title="wikilink">JYP Ent.</a></p></td>
 <td><p>Playlist by DAY6</p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=p-pNykfHzG4">Track #1</a></li>
@@ -616,7 +616,7 @@
 <li><a href="https://www.youtube.com/watch?v=Ud03SALfXXw">Track #3</a></li>
 <li><a href="https://www.youtube.com/watch?v=nHEVHpiUpzQ">Track #4</a></li>
 </ul></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/JYP_엔터테인먼트" title="wikilink">JYP Ent.</a></p></td>
+<td><p><a href="../Page/JYP_엔터테인먼트.md" title="wikilink">JYP Ent.</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -778,7 +778,7 @@
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=8dbJsTUQs6E">DAY6 〈그럴텐데〉(Live)</a></li>
 </ul></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/키스_더_라디오" title="wikilink">키스 더 라디오</a> (2017.08.04)</p></td>
+<td><p><a href="../Page/키스_더_라디오.md" title="wikilink">키스 더 라디오</a> (2017.08.04)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -799,7 +799,7 @@
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=yj5kiI6FQ8I">DAY6 〈장난 아닌데〉(Live)</a></li>
 </ul></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뮤직뱅크" title="wikilink">뮤직뱅크</a> (2017.04.14)</p></td>
+<td><p><a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a> (2017.04.14)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -829,7 +829,7 @@
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=A3PwECACNzQ">DAY6 〈Man in a movie〉 (Live)</a></li>
 </ul></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/키스_더_라디오" title="wikilink">키스 더 라디오</a> (2017.06.02)</p></td>
+<td><p><a href="../Page/키스_더_라디오.md" title="wikilink">키스 더 라디오</a> (2017.06.02)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -850,7 +850,7 @@
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=4x6RSdJ1GJk">DAY6 〈DANCE DANCE〉(Live)</a></li>
 </ul></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/키스_더_라디오" title="wikilink">키스 더 라디오</a> (2017.05.12)</p></td>
+<td><p><a href="../Page/키스_더_라디오.md" title="wikilink">키스 더 라디오</a> (2017.05.12)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -870,7 +870,7 @@
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=LQklidT4z_w">DAY6 〈반드시 웃는다〉(Live)</a></li>
 </ul></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뮤직뱅크" title="wikilink">뮤직뱅크</a> (2017.06.23)</p></td>
+<td><p><a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a> (2017.06.23)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -910,7 +910,7 @@
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=SYE1zD5J62Y">DAY6 〈Hi Hello〉(Live)</a></li>
 </ul></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/키스_더_라디오" title="wikilink">키스 더 라디오</a> (2017.07.14)</p></td>
+<td><p><a href="../Page/키스_더_라디오.md" title="wikilink">키스 더 라디오</a> (2017.07.14)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -930,7 +930,7 @@
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=ycqzs-NfKZQ">DAY6 〈좋은걸 뭐 어떡해〉(Live)</a></li>
 </ul></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/키스_더_라디오" title="wikilink">키스 더 라디오</a> (2017.09.11)</p></td>
+<td><p><a href="../Page/키스_더_라디오.md" title="wikilink">키스 더 라디오</a> (2017.09.11)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -971,7 +971,7 @@
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=vI3JI63yA-0">DAY6 〈'I Loved You'〉(Live)</a></li>
 </ul></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/키스_더_라디오" title="wikilink">키스 더 라디오</a> (2017.09.11)</p></td>
+<td><p><a href="../Page/키스_더_라디오.md" title="wikilink">키스 더 라디오</a> (2017.09.11)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1060,57 +1060,57 @@
 
 #### 다큐・교양
 
-| 연도                                                    | 방송사                                                 | 프로그램                                                                          | 비고                     |
-| ----------------------------------------------------- | --------------------------------------------------- | ----------------------------------------------------------------------------- | ---------------------- |
-| [2019](https://ko.wikipedia.org/wiki/2019 "wikilink") | [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") | 《[6시 내고향](https://ko.wikipedia.org/wiki/6시_내고향 "wikilink")》\[10\]\[11\]\[12\] | 2019.12.04, 2019.12.11 |
-|                                                       |                                                     |                                                                               |                        |
+| 연도                                                    | 방송사                                                 | 프로그램                                                       | 비고                     |
+| ----------------------------------------------------- | --------------------------------------------------- | ---------------------------------------------------------- | ---------------------- |
+| [2019](https://ko.wikipedia.org/wiki/2019 "wikilink") | [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") | 《[6시 내고향](../Page/6시_내고향.md "wikilink")》\[10\]\[11\]\[12\] | 2019.12.04, 2019.12.11 |
+|                                                       |                                                     |                                                            |                        |
 
 #### 라디오
 
-| 연도                                                    | 방송사                                                           | 프로그램                                                                  | 비고         |
-| ----------------------------------------------------- | ------------------------------------------------------------- | --------------------------------------------------------------------- | ---------- |
-| [2019](https://ko.wikipedia.org/wiki/2019 "wikilink") | [MBC 표준FM](https://ko.wikipedia.org/wiki/MBC_표준FM "wikilink") | 《[아이돌 라디오](https://ko.wikipedia.org/wiki/아이돌_라디오 "wikilink")》         | 2019.11.01 |
-| [2019](https://ko.wikipedia.org/wiki/2019 "wikilink") | [MBC 표준FM](https://ko.wikipedia.org/wiki/MBC_표준FM "wikilink") | 《[아이돌 라디오](https://ko.wikipedia.org/wiki/아이돌_라디오 "wikilink")》         | 2019.10.28 |
-| [2019](https://ko.wikipedia.org/wiki/2019 "wikilink") | [EBS FM](https://ko.wikipedia.org/wiki/EBS_FM "wikilink")     | 《[EBS](https://ko.wikipedia.org/wiki/EBS "wikilink") 정세운의 경청》         | 2019.10.27 |
-| [2019](https://ko.wikipedia.org/wiki/2019 "wikilink") | 네이버 NOW.                                                      | 《6시 5분 전》                                                             | 2019.10.22 |
-| [2019](https://ko.wikipedia.org/wiki/2019 "wikilink") | [MBC FM4U](https://ko.wikipedia.org/wiki/MBC_FM4U "wikilink") | 《[정오의 희망곡](https://ko.wikipedia.org/wiki/정오의_희망곡 "wikilink")》         | 2019.04.24 |
-| [2019](https://ko.wikipedia.org/wiki/2019 "wikilink") | [MBC 표준FM](https://ko.wikipedia.org/wiki/MBC_표준FM "wikilink") | 《[산들의 별이 빛나는 밤에](https://ko.wikipedia.org/wiki/별이_빛나는_밤에 "wikilink")》 | 2019.07.18 |
-| [2019](https://ko.wikipedia.org/wiki/2019 "wikilink") | [MBC 표준FM](https://ko.wikipedia.org/wiki/MBC_표준FM "wikilink") | 《[박원의 키스 더 라디오](https://ko.wikipedia.org/wiki/키스_더_라디오 "wikilink")》   | 2019.07.19 |
-| [2019](https://ko.wikipedia.org/wiki/2019 "wikilink") | [MBC 표준FM](https://ko.wikipedia.org/wiki/MBC_표준FM "wikilink") | 《[아이돌 라디오](https://ko.wikipedia.org/wiki/아이돌_라디오 "wikilink")》         | 2019.07.24 |
-|                                                       |                                                               |                                                                       |            |
+| 연도                                                    | 방송사                                        | 프로그램                                                                  | 비고         |
+| ----------------------------------------------------- | ------------------------------------------ | --------------------------------------------------------------------- | ---------- |
+| [2019](https://ko.wikipedia.org/wiki/2019 "wikilink") | [MBC 표준FM](../Page/MBC_표준FM.md "wikilink") | 《[아이돌 라디오](../Page/아이돌_라디오.md "wikilink")》                            | 2019.11.01 |
+| [2019](https://ko.wikipedia.org/wiki/2019 "wikilink") | [MBC 표준FM](../Page/MBC_표준FM.md "wikilink") | 《[아이돌 라디오](../Page/아이돌_라디오.md "wikilink")》                            | 2019.10.28 |
+| [2019](https://ko.wikipedia.org/wiki/2019 "wikilink") | [EBS FM](../Page/EBS_FM.md "wikilink")     | 《[EBS](https://ko.wikipedia.org/wiki/EBS "wikilink") 정세운의 경청》         | 2019.10.27 |
+| [2019](https://ko.wikipedia.org/wiki/2019 "wikilink") | 네이버 NOW.                                   | 《6시 5분 전》                                                             | 2019.10.22 |
+| [2019](https://ko.wikipedia.org/wiki/2019 "wikilink") | [MBC FM4U](../Page/MBC_FM4U.md "wikilink") | 《[정오의 희망곡](../Page/정오의_희망곡.md "wikilink")》                            | 2019.04.24 |
+| [2019](https://ko.wikipedia.org/wiki/2019 "wikilink") | [MBC 표준FM](../Page/MBC_표준FM.md "wikilink") | 《[산들의 별이 빛나는 밤에](https://ko.wikipedia.org/wiki/별이_빛나는_밤에 "wikilink")》 | 2019.07.18 |
+| [2019](https://ko.wikipedia.org/wiki/2019 "wikilink") | [MBC 표준FM](../Page/MBC_표준FM.md "wikilink") | 《[박원의 키스 더 라디오](../Page/키스_더_라디오.md "wikilink")》                      | 2019.07.19 |
+| [2019](https://ko.wikipedia.org/wiki/2019 "wikilink") | [MBC 표준FM](../Page/MBC_표준FM.md "wikilink") | 《[아이돌 라디오](../Page/아이돌_라디오.md "wikilink")》                            | 2019.07.24 |
+|                                                       |                                            |                                                                       |            |
 
 #### 예능
 
-| 연도                                                    | 방송사                                                           | 프로그램                                                                      | 비고                        |
-| ----------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------- |
-| [2016](https://ko.wikipedia.org/wiki/2016 "wikilink") | SLICE D                                                       | 《KSTYLE TV : DAY6 Soundtrack》                                             | 2016.09.28 \~ 2016.11.22. |
-| [2016](https://ko.wikipedia.org/wiki/2016 "wikilink") | [아리랑 TV](https://ko.wikipedia.org/wiki/아리랑_TV "wikilink")     | 《After School Club》                                                       | 2016.07.19                |
-| [2016](https://ko.wikipedia.org/wiki/2016 "wikilink") | [아리랑 TV](https://ko.wikipedia.org/wiki/아리랑_TV "wikilink")     | 《After School Club》                                                       | 2016.12.27                |
-| [2017](https://ko.wikipedia.org/wiki/2017 "wikilink") | [아리랑 TV](https://ko.wikipedia.org/wiki/아리랑_TV "wikilink")     | 《[Simply K-Pop](../Page/Simply_K-Pop.md "wikilink")》                      | 2017.04.21                |
-| [2017](https://ko.wikipedia.org/wiki/2017 "wikilink") | [아리랑 TV](https://ko.wikipedia.org/wiki/아리랑_TV "wikilink")     | 《After School Club》                                                       | 2017.06.06                |
-| [2017](https://ko.wikipedia.org/wiki/2017 "wikilink") | [KBS 월드](https://ko.wikipedia.org/wiki/KBS_월드 "wikilink")     | 《Idol Show K-RUSH》                                                        | 2017.06.26                |
-| [2017](https://ko.wikipedia.org/wiki/2017 "wikilink") | MOMO X                                                        | MOMO X                                                                    | 2017.07.21                |
-| [2017](https://ko.wikipedia.org/wiki/2017 "wikilink") | [아리랑 TV](https://ko.wikipedia.org/wiki/아리랑_TV "wikilink")     | 《After School Club》                                                       | 2017.12.19                |
-| [2018](https://ko.wikipedia.org/wiki/2018 "wikilink") | [MBC 에브리원](https://ko.wikipedia.org/wiki/MBC_에브리원 "wikilink") | 《[주간 아이돌](https://ko.wikipedia.org/wiki/주간_아이돌 "wikilink")》               | 2018.02.28                |
-| [2018](https://ko.wikipedia.org/wiki/2018 "wikilink") | 딩고 뮤직                                                         | 《딩고 뮤직》                                                                   | 2018.06.27                |
-| [2018](https://ko.wikipedia.org/wiki/2018 "wikilink") | [아리랑 TV](https://ko.wikipedia.org/wiki/아리랑_TV "wikilink")     | 《After School Club》                                                       | 2018.07.04                |
-| [2018](https://ko.wikipedia.org/wiki/2018 "wikilink") | 글랜스TV                                                         | 글랜스TV                                                                     | 2018.07.10                |
-| [2018](https://ko.wikipedia.org/wiki/2018 "wikilink") | [M.net](https://ko.wikipedia.org/wiki/M.net "wikilink") Mwave | 《MEET\&GREET》                                                             | 2018.07.18                |
-| [2018](https://ko.wikipedia.org/wiki/2018 "wikilink") | IDOL LEAGUE                                                   | 《IDOL LEAGUE》                                                             | 2018.07.23                |
-| [2018](https://ko.wikipedia.org/wiki/2018 "wikilink") | [M.net](https://ko.wikipedia.org/wiki/M.net "wikilink")       | 《M2 - 추플리》                                                                | 2018.07.23                |
-| [2018](https://ko.wikipedia.org/wiki/2018 "wikilink") | ZANY TV                                                       | ZANY TV                                                                   | 2018.10.25, 2018.11.01    |
-| [2018](https://ko.wikipedia.org/wiki/2018 "wikilink") | [아리랑 TV](https://ko.wikipedia.org/wiki/아리랑_TV "wikilink")     | 《[Pops in Seoul](https://ko.wikipedia.org/wiki/Pops_in_Seoul "wikilink")》 | 2018.12.24                |
-| [2019](https://ko.wikipedia.org/wiki/2019 "wikilink") | [아리랑 TV](https://ko.wikipedia.org/wiki/아리랑_TV "wikilink")     | 《After School Club》                                                       | 2019.04.16                |
-| [2018](https://ko.wikipedia.org/wiki/2018 "wikilink") | 딩고 뮤직                                                         | 《딩고 뮤직》                                                                   | 2018.07.29                |
-| [2019](https://ko.wikipedia.org/wiki/2019 "wikilink") | [M.net](https://ko.wikipedia.org/wiki/M.net "wikilink")       | 《M2 - ASMR live》                                                          | 2019.01.11                |
-| [2019](https://ko.wikipedia.org/wiki/2019 "wikilink") | 딩고 뮤직                                                         | 《딩고 뮤직》                                                                   | 2019.01.04, 2019.04.17    |
-| [2019](https://ko.wikipedia.org/wiki/2019 "wikilink") | 글랜스TV                                                         | 《행아웃 / 글랜스TV》                                                             | 2019.05.22 \~ 2019.06.19  |
-| [2018](https://ko.wikipedia.org/wiki/2018 "wikilink") | [아리랑 TV](https://ko.wikipedia.org/wiki/아리랑_TV "wikilink")     | 《[Pops in Seoul](https://ko.wikipedia.org/wiki/Pops_in_Seoul "wikilink")》 | 2018.07.02                |
-| [2019](https://ko.wikipedia.org/wiki/2019 "wikilink") | [MBC 에브리원](https://ko.wikipedia.org/wiki/MBC_에브리원 "wikilink") | 《[주간 아이돌](https://ko.wikipedia.org/wiki/주간_아이돌 "wikilink")》               | 2019.07.10                |
-| [2019](https://ko.wikipedia.org/wiki/2019 "wikilink") | CAKE POP                                                      | 《소확행 LIVE》                                                                | 2019.07.18                |
-| [2019](https://ko.wikipedia.org/wiki/2019 "wikilink") | hello82                                                       | 《hello82》                                                                 | 2019.07.19                |
-| [2019](https://ko.wikipedia.org/wiki/2019 "wikilink") | [M.net](https://ko.wikipedia.org/wiki/M.net "wikilink") Mwave | 《MEET\&GREET》                                                             | 2019.07.23                |
-|                                                       |                                                               |                                                                           |                           |
+| 연도                                                    | 방송사                                                           | 프로그램                                                   | 비고                        |
+| ----------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------ | ------------------------- |
+| [2016](https://ko.wikipedia.org/wiki/2016 "wikilink") | SLICE D                                                       | 《KSTYLE TV : DAY6 Soundtrack》                          | 2016.09.28 \~ 2016.11.22. |
+| [2016](https://ko.wikipedia.org/wiki/2016 "wikilink") | [아리랑 TV](../Page/아리랑_TV.md "wikilink")                        | 《After School Club》                                    | 2016.07.19                |
+| [2016](https://ko.wikipedia.org/wiki/2016 "wikilink") | [아리랑 TV](../Page/아리랑_TV.md "wikilink")                        | 《After School Club》                                    | 2016.12.27                |
+| [2017](https://ko.wikipedia.org/wiki/2017 "wikilink") | [아리랑 TV](../Page/아리랑_TV.md "wikilink")                        | 《[Simply K-Pop](../Page/Simply_K-Pop.md "wikilink")》   | 2017.04.21                |
+| [2017](https://ko.wikipedia.org/wiki/2017 "wikilink") | [아리랑 TV](../Page/아리랑_TV.md "wikilink")                        | 《After School Club》                                    | 2017.06.06                |
+| [2017](https://ko.wikipedia.org/wiki/2017 "wikilink") | [KBS 월드](../Page/KBS_월드.md "wikilink")                        | 《Idol Show K-RUSH》                                     | 2017.06.26                |
+| [2017](https://ko.wikipedia.org/wiki/2017 "wikilink") | MOMO X                                                        | MOMO X                                                 | 2017.07.21                |
+| [2017](https://ko.wikipedia.org/wiki/2017 "wikilink") | [아리랑 TV](../Page/아리랑_TV.md "wikilink")                        | 《After School Club》                                    | 2017.12.19                |
+| [2018](https://ko.wikipedia.org/wiki/2018 "wikilink") | [MBC 에브리원](../Page/MBC_에브리원.md "wikilink")                    | 《[주간 아이돌](../Page/주간_아이돌.md "wikilink")》               | 2018.02.28                |
+| [2018](https://ko.wikipedia.org/wiki/2018 "wikilink") | 딩고 뮤직                                                         | 《딩고 뮤직》                                                | 2018.06.27                |
+| [2018](https://ko.wikipedia.org/wiki/2018 "wikilink") | [아리랑 TV](../Page/아리랑_TV.md "wikilink")                        | 《After School Club》                                    | 2018.07.04                |
+| [2018](https://ko.wikipedia.org/wiki/2018 "wikilink") | 글랜스TV                                                         | 글랜스TV                                                  | 2018.07.10                |
+| [2018](https://ko.wikipedia.org/wiki/2018 "wikilink") | [M.net](https://ko.wikipedia.org/wiki/M.net "wikilink") Mwave | 《MEET\&GREET》                                          | 2018.07.18                |
+| [2018](https://ko.wikipedia.org/wiki/2018 "wikilink") | IDOL LEAGUE                                                   | 《IDOL LEAGUE》                                          | 2018.07.23                |
+| [2018](https://ko.wikipedia.org/wiki/2018 "wikilink") | [M.net](https://ko.wikipedia.org/wiki/M.net "wikilink")       | 《M2 - 추플리》                                             | 2018.07.23                |
+| [2018](https://ko.wikipedia.org/wiki/2018 "wikilink") | ZANY TV                                                       | ZANY TV                                                | 2018.10.25, 2018.11.01    |
+| [2018](https://ko.wikipedia.org/wiki/2018 "wikilink") | [아리랑 TV](../Page/아리랑_TV.md "wikilink")                        | 《[Pops in Seoul](../Page/Pops_in_Seoul.md "wikilink")》 | 2018.12.24                |
+| [2019](https://ko.wikipedia.org/wiki/2019 "wikilink") | [아리랑 TV](../Page/아리랑_TV.md "wikilink")                        | 《After School Club》                                    | 2019.04.16                |
+| [2018](https://ko.wikipedia.org/wiki/2018 "wikilink") | 딩고 뮤직                                                         | 《딩고 뮤직》                                                | 2018.07.29                |
+| [2019](https://ko.wikipedia.org/wiki/2019 "wikilink") | [M.net](https://ko.wikipedia.org/wiki/M.net "wikilink")       | 《M2 - ASMR live》                                       | 2019.01.11                |
+| [2019](https://ko.wikipedia.org/wiki/2019 "wikilink") | 딩고 뮤직                                                         | 《딩고 뮤직》                                                | 2019.01.04, 2019.04.17    |
+| [2019](https://ko.wikipedia.org/wiki/2019 "wikilink") | 글랜스TV                                                         | 《행아웃 / 글랜스TV》                                          | 2019.05.22 \~ 2019.06.19  |
+| [2018](https://ko.wikipedia.org/wiki/2018 "wikilink") | [아리랑 TV](../Page/아리랑_TV.md "wikilink")                        | 《[Pops in Seoul](../Page/Pops_in_Seoul.md "wikilink")》 | 2018.07.02                |
+| [2019](https://ko.wikipedia.org/wiki/2019 "wikilink") | [MBC 에브리원](../Page/MBC_에브리원.md "wikilink")                    | 《[주간 아이돌](../Page/주간_아이돌.md "wikilink")》               | 2019.07.10                |
+| [2019](https://ko.wikipedia.org/wiki/2019 "wikilink") | CAKE POP                                                      | 《소확행 LIVE》                                             | 2019.07.18                |
+| [2019](https://ko.wikipedia.org/wiki/2019 "wikilink") | hello82                                                       | 《hello82》                                              | 2019.07.19                |
+| [2019](https://ko.wikipedia.org/wiki/2019 "wikilink") | [M.net](https://ko.wikipedia.org/wiki/M.net "wikilink") Mwave | 《MEET\&GREET》                                          | 2019.07.23                |
+|                                                       |                                                               |                                                        |                           |
 
 ## 참여 목록
 
@@ -1131,8 +1131,8 @@
 <td><p>2018.11.08</p></td>
 <td><p>DAY6</p></td>
 <td><p>〈Chocolate〉</p></td>
-<td><p>《<a href="https://ko.wikipedia.org/wiki/하지_말라면_더_하고_19" title="wikilink">하지 말라면 더 하고 19</a> Part.1》</p></td>
-<td><p>작사 : <a href="../Page/Jae.md" title="wikilink">Jae</a>, <a href="../Page/원필.md" title="wikilink">원필</a>, <a href="https://ko.wikipedia.org/wiki/박진영" title="wikilink">박진영</a><br />
+<td><p>《<a href="../Page/하지_말라면_더_하고_19.md" title="wikilink">하지 말라면 더 하고 19</a> Part.1》</p></td>
+<td><p>작사 : <a href="../Page/Jae.md" title="wikilink">Jae</a>, <a href="../Page/원필.md" title="wikilink">원필</a>, <a href="../Page/박진영.md" title="wikilink">박진영</a><br />
 작곡 : <a href="../Page/Jae.md" title="wikilink">Jae</a>, <a href="../Page/원필.md" title="wikilink">원필</a>, MAJORCODE, 문상선</p></td>
 </tr>
 <tr class="even">
@@ -1140,7 +1140,7 @@
 <td><p>DAY6 x 차일훈</p></td>
 <td><p>〈너는 지금쯤〉</p></td>
 <td><p>《친구와 우정을 지키는 방법<br />
-- <a href="https://ko.wikipedia.org/wiki/봄여름가을겨울" title="wikilink">봄여름가을겨울</a> 트리뷰트 Vol.4》</p></td>
+- <a href="../Page/봄여름가을겨울.md" title="wikilink">봄여름가을겨울</a> 트리뷰트 Vol.4》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1172,13 +1172,13 @@
 <td><p>DAY6</p></td>
 <td><p><a href="https://tv.naver.com/v/8771673">DAY6 〈Up &amp; Down〉</a></p>
 <ul>
-<li>원곡 : <a href="https://ko.wikipedia.org/wiki/디바_(음악_그룹)" title="wikilink">디바</a></li>
+<li>원곡 : <a href="../Page/디바_(음악_그룹).md" title="wikilink">디바</a></li>
 </ul></td>
 <td><ul>
 <li>편곡 : 차일훈, DAY6</li>
 </ul></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/불후의_명곡_-_전설을_노래하다" title="wikilink">불후의 명곡 - 전설을 노래하다</a><br />
-*전설 : 스타 메이커 <a href="https://ko.wikipedia.org/wiki/이상민_(가수)" title="wikilink">이상민</a> 편</p></td>
+<td><p><a href="../Page/불후의_명곡_-_전설을_노래하다.md" title="wikilink">불후의 명곡 - 전설을 노래하다</a><br />
+*전설 : 스타 메이커 <a href="../Page/이상민_(가수).md" title="wikilink">이상민</a> 편</p></td>
 <td><p>2019.06.15</p></td>
 </tr>
 <tr class="even">
@@ -1211,8 +1211,8 @@
 <td><p>음반</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=zSUa0xPJ5_g">DAY6 〈Chocolate〉</a><br />
 </p></td>
-<td><p>《<a href="https://ko.wikipedia.org/wiki/하지_말라면_더_하고_19" title="wikilink">하지 말라면 더 하고 19</a> Part.1》</p></td>
-<td><p>작사 : <a href="../Page/Jae.md" title="wikilink">Jae</a>, <a href="../Page/원필.md" title="wikilink">원필</a>, <a href="https://ko.wikipedia.org/wiki/박진영" title="wikilink">박진영</a><br />
+<td><p>《<a href="../Page/하지_말라면_더_하고_19.md" title="wikilink">하지 말라면 더 하고 19</a> Part.1》</p></td>
+<td><p>작사 : <a href="../Page/Jae.md" title="wikilink">Jae</a>, <a href="../Page/원필.md" title="wikilink">원필</a>, <a href="../Page/박진영.md" title="wikilink">박진영</a><br />
 작곡 : <a href="../Page/Jae.md" title="wikilink">Jae</a>, <a href="../Page/원필.md" title="wikilink">원필</a>,<br />
 MAJORCODE, 문상선</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/원더케이" title="wikilink">원더케이</a></p></td>
@@ -1223,7 +1223,7 @@ MAJORCODE, 문상선</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=PvPrBD7TfGo">봄여름가을겨울 &amp; 친구들 〈Thank You Song〉</a><br />
 </p></td>
 <td><p>《친구와 우정을 지키는 방법 -<br />
-<a href="https://ko.wikipedia.org/wiki/봄여름가을겨울" title="wikilink">봄여름가을겨울</a> 트리뷰트 Vol.4 》</p></td>
+<a href="../Page/봄여름가을겨울.md" title="wikilink">봄여름가을겨울</a> 트리뷰트 Vol.4 》</p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/원더케이" title="wikilink">원더케이</a></p></td>
 </tr>
@@ -1260,20 +1260,20 @@ MAJORCODE, 문상선</p></td>
 <li><a href="https://www.youtube.com/watch?v=RUVABnW0yj4&amp;feature=youtu.be&amp;t=664">1328회 : DAY6 1.</a></li>
 <li><a href="https://www.youtube.com/watch?v=CIVv4GyoGv8">1328회 : DAY6 2.</a></li>
 </ul></td>
-<td><p>《<a href="https://ko.wikipedia.org/wiki/EBS_스페이스_공감" title="wikilink">EBS 스페이스 공감</a>》</p></td>
+<td><p>《<a href="../Page/EBS_스페이스_공감.md" title="wikilink">EBS 스페이스 공감</a>》</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/EBS" title="wikilink">EBS</a></p></td>
 <td><p>2017.09.21</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/EBS_스페이스_공감" title="wikilink">EBS 스페이스 공감</a></p></td>
+<td><p><a href="../Page/EBS_스페이스_공감.md" title="wikilink">EBS 스페이스 공감</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/2018" title="wikilink">2018</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=zMdpRYS6c54">1396회 : DAY6(데이식스)</a></li>
 </ul></td>
-<td><p>《<a href="https://ko.wikipedia.org/wiki/EBS_스페이스_공감" title="wikilink">EBS 스페이스 공감</a>》</p></td>
+<td><p>《<a href="../Page/EBS_스페이스_공감.md" title="wikilink">EBS 스페이스 공감</a>》</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/EBS" title="wikilink">EBS</a></p></td>
 <td><p>2018.10.23</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/EBS_스페이스_공감" title="wikilink">EBS 스페이스 공감</a></p></td>
+<td><p><a href="../Page/EBS_스페이스_공감.md" title="wikilink">EBS 스페이스 공감</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/2016" title="wikilink">2016</a></p></td>
@@ -1286,10 +1286,10 @@ MAJORCODE, 문상선</p></td>
 <li><a href="https://www.youtube.com/watch?v=gqX1MvV3vQE">DAY6 〈태양처럼〉</a></li>
 <li><a href="https://www.youtube.com/watch?v=-S1mKeH3zpM">DAY6 〈Hunt〉</a></li>
 </ul></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/벅스_(웹사이트)" title="wikilink">벅스</a> TV</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/벅스_(웹사이트)" title="wikilink">벅스</a></p></td>
+<td><p><a href="../Page/벅스_(웹사이트).md" title="wikilink">벅스</a> TV</p></td>
+<td><p><a href="../Page/벅스_(웹사이트).md" title="wikilink">벅스</a></p></td>
 <td><p>2016.04.15</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/벅스_(웹사이트)" title="wikilink">벅스</a></p></td>
+<td><p><a href="../Page/벅스_(웹사이트).md" title="wikilink">벅스</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/2017" title="wikilink">2017</a></p></td>
@@ -1340,7 +1340,7 @@ MAJORCODE, 문상선</p></td>
 <li><a href="https://www.youtube.com/watch?v=_uexVZuiX-k">DAY6 〈좋아합니다〉</a></li>
 <li><a href="https://www.youtube.com/watch?v=VmhKszDYrtc">DAY6 〈DANCE DANCE〉</a></li>
 </ul></td>
-<td><p>《<a href="https://ko.wikipedia.org/wiki/올댓뮤직" title="wikilink">올댓뮤직</a>》</p></td>
+<td><p>《<a href="../Page/올댓뮤직.md" title="wikilink">올댓뮤직</a>》</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p>2018.03.15</p></td>
 <td><p>KBS Kpop</p></td>
@@ -1395,11 +1395,11 @@ MAJORCODE, 문상선</p></td>
 <td><p>2017.04.09<br />
 2016.06.28</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS" title="wikilink">KBS</a><br />
-<a href="https://ko.wikipedia.org/wiki/KBS_제2FM" title="wikilink">KBS 제2FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유희열의_스케치북" title="wikilink">유희열의 스케치북</a><br />
-<a href="https://ko.wikipedia.org/wiki/옥탑방_라디오" title="wikilink">옥탑방 라디오</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/네이버" title="wikilink">네이버</a> TV<br />
-<a href="https://ko.wikipedia.org/wiki/KBS_제2FM" title="wikilink">KBS 제2FM</a></p></td>
+<a href="../Page/KBS_제2FM.md" title="wikilink">KBS 제2FM</a></p></td>
+<td><p><a href="../Page/유희열의_스케치북.md" title="wikilink">유희열의 스케치북</a><br />
+<a href="../Page/옥탑방_라디오.md" title="wikilink">옥탑방 라디오</a></p></td>
+<td><p><a href="../Page/네이버.md" title="wikilink">네이버</a> TV<br />
+<a href="../Page/KBS_제2FM.md" title="wikilink">KBS 제2FM</a></p></td>
 </tr>
 <tr class="even">
 <td><ul>
@@ -1407,7 +1407,7 @@ MAJORCODE, 문상선</p></td>
 </li>
 </ul></td>
 <td><p>2016.12.27</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아리랑_TV" title="wikilink">아리랑 TV</a></p></td>
+<td><p><a href="../Page/아리랑_TV.md" title="wikilink">아리랑 TV</a></p></td>
 <td><p>After School Club</p></td>
 <td><p>ARIRANG K-POP</p></td>
 <td></td>
@@ -1421,11 +1421,11 @@ MAJORCODE, 문상선</p></td>
 <td><p>2016.12.24<br />
 2016.12.27</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a><br />
-<a href="https://ko.wikipedia.org/wiki/아리랑_TV" title="wikilink">아리랑 TV</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/키스_더_라디오" title="wikilink">키스 더 라디오</a><br />
+<a href="../Page/아리랑_TV.md" title="wikilink">아리랑 TV</a></p></td>
+<td><p><a href="../Page/키스_더_라디오.md" title="wikilink">키스 더 라디오</a><br />
 After School Club</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a><br />
-<a href="https://ko.wikipedia.org/wiki/아리랑_TV" title="wikilink">아리랑 TV</a></p></td>
+<a href="../Page/아리랑_TV.md" title="wikilink">아리랑 TV</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1435,9 +1435,9 @@ After School Club</p></td>
 </li>
 </ul></td>
 <td><p>2016.04.15</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/벅스_(웹사이트)" title="wikilink">벅스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/벅스_(웹사이트)" title="wikilink">벅스</a> TV</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/벅스_(웹사이트)" title="wikilink">벅스</a></p></td>
+<td><p><a href="../Page/벅스_(웹사이트).md" title="wikilink">벅스</a></p></td>
+<td><p><a href="../Page/벅스_(웹사이트).md" title="wikilink">벅스</a> TV</p></td>
+<td><p><a href="../Page/벅스_(웹사이트).md" title="wikilink">벅스</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1452,12 +1452,12 @@ After School Club</p></td>
 </ul></td>
 <td><p>2016.04.07<br />
 2016.12.27</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/JYP_엔터테인먼트" title="wikilink">JYP Ent.</a><br />
-<a href="https://ko.wikipedia.org/wiki/아리랑_TV" title="wikilink">아리랑 TV</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/JYP_엔터테인먼트" title="wikilink">JYP Ent.</a><br />
+<td><p><a href="../Page/JYP_엔터테인먼트.md" title="wikilink">JYP Ent.</a><br />
+<a href="../Page/아리랑_TV.md" title="wikilink">아리랑 TV</a></p></td>
+<td><p><a href="../Page/JYP_엔터테인먼트.md" title="wikilink">JYP Ent.</a><br />
 After School Club</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/JYP_엔터테인먼트" title="wikilink">JYP Ent.</a><br />
-<a href="https://ko.wikipedia.org/wiki/아리랑_TV" title="wikilink">아리랑 TV</a></p></td>
+<td><p><a href="../Page/JYP_엔터테인먼트.md" title="wikilink">JYP Ent.</a><br />
+<a href="../Page/아리랑_TV.md" title="wikilink">아리랑 TV</a></p></td>
 </tr>
 <tr class="even">
 <td><ul>
@@ -1465,9 +1465,9 @@ After School Club</p></td>
 </li>
 </ul></td>
 <td><p>2016.04.15</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/벅스_(웹사이트)" title="wikilink">벅스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/벅스_(웹사이트)" title="wikilink">벅스</a> TV</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/벅스_(웹사이트)" title="wikilink">벅스</a></p></td>
+<td><p><a href="../Page/벅스_(웹사이트).md" title="wikilink">벅스</a></p></td>
+<td><p><a href="../Page/벅스_(웹사이트).md" title="wikilink">벅스</a> TV</p></td>
+<td><p><a href="../Page/벅스_(웹사이트).md" title="wikilink">벅스</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1478,7 +1478,7 @@ After School Club</p></td>
 </ul></td>
 <td><p>2016.04.12</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/키스_더_라디오" title="wikilink">키스 더 라디오</a></p></td>
+<td><p><a href="../Page/키스_더_라디오.md" title="wikilink">키스 더 라디오</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
 <td></td>
 <td></td>
@@ -1489,9 +1489,9 @@ After School Club</p></td>
 </li>
 </ul></td>
 <td><p>2017.07.13</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/MBC_뮤직" title="wikilink">MBC 뮤직</a></p></td>
+<td><p><a href="../Page/MBC_뮤직.md" title="wikilink">MBC 뮤직</a></p></td>
 <td><p><a href="../Page/피크닉_라이브_소풍.md" title="wikilink">피크닉 라이브 소풍</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/네이버" title="wikilink">네이버</a> TV</p></td>
+<td><p><a href="../Page/네이버.md" title="wikilink">네이버</a> TV</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1502,7 +1502,7 @@ After School Club</p></td>
 </ul></td>
 <td><p>2016.12.01</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/키스_더_라디오" title="wikilink">키스 더 라디오</a></p></td>
+<td><p><a href="../Page/키스_더_라디오.md" title="wikilink">키스 더 라디오</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
 <td></td>
 <td></td>
@@ -1516,8 +1516,8 @@ After School Club</p></td>
 </ul></td>
 <td><p>2017.05.09</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/EBS" title="wikilink">EBS</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/EBS_스페이스_공감" title="wikilink">EBS 스페이스 공감</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/EBS_스페이스_공감" title="wikilink">EBS 스페이스 공감</a></p></td>
+<td><p><a href="../Page/EBS_스페이스_공감.md" title="wikilink">EBS 스페이스 공감</a></p></td>
+<td><p><a href="../Page/EBS_스페이스_공감.md" title="wikilink">EBS 스페이스 공감</a></p></td>
 </tr>
 <tr class="odd">
 <td><ul>
@@ -1526,8 +1526,8 @@ After School Club</p></td>
 </ul></td>
 <td><p>2017.05.09</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/EBS" title="wikilink">EBS</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/EBS_스페이스_공감" title="wikilink">EBS 스페이스 공감</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/EBS_스페이스_공감" title="wikilink">EBS 스페이스 공감</a></p></td>
+<td><p><a href="../Page/EBS_스페이스_공감.md" title="wikilink">EBS 스페이스 공감</a></p></td>
+<td><p><a href="../Page/EBS_스페이스_공감.md" title="wikilink">EBS 스페이스 공감</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1544,7 +1544,7 @@ After School Club</p></td>
 딩고 뮤직</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a><br />
 딩고 뮤직</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/네이버" title="wikilink">네이버</a> TV<br />
+<td><p><a href="../Page/네이버.md" title="wikilink">네이버</a> TV<br />
 딩고 뮤직</p></td>
 <td></td>
 <td></td>
@@ -1555,7 +1555,7 @@ After School Club</p></td>
 </ul></td>
 <td><p>2017.02.10</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/키스_더_라디오" title="wikilink">키스 더 라디오</a></p></td>
+<td><p><a href="../Page/키스_더_라디오.md" title="wikilink">키스 더 라디오</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
 <td></td>
 <td></td>
@@ -1567,7 +1567,7 @@ After School Club</p></td>
 </ul></td>
 <td><p>2017.08.04</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/키스_더_라디오" title="wikilink">키스 더 라디오</a></p></td>
+<td><p><a href="../Page/키스_더_라디오.md" title="wikilink">키스 더 라디오</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
 <td></td>
 <td></td>
@@ -1584,8 +1584,8 @@ After School Club</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a><br />
 <a href="https://ko.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p>MEET&amp;STAGE<br />
-<a href="https://ko.wikipedia.org/wiki/유희열의_스케치북" title="wikilink">유희열의 스케치북</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/네이버" title="wikilink">네이버</a> TV<br />
+<a href="../Page/유희열의_스케치북.md" title="wikilink">유희열의 스케치북</a></p></td>
+<td><p><a href="../Page/네이버.md" title="wikilink">네이버</a> TV<br />
 Mwave</p></td>
 <td></td>
 <td></td>
@@ -1597,7 +1597,7 @@ Mwave</p></td>
 </ul></td>
 <td><p>2017.05.12</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/키스_더_라디오" title="wikilink">키스 더 라디오</a></p></td>
+<td><p><a href="../Page/키스_더_라디오.md" title="wikilink">키스 더 라디오</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
 <td></td>
 <td></td>
@@ -1609,7 +1609,7 @@ Mwave</p></td>
 </ul></td>
 <td><p>2017.06.02</p></td>
 <td><p>KBS 쿨FM</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/키스_더_라디오" title="wikilink">키스 더 라디오</a></p></td>
+<td><p><a href="../Page/키스_더_라디오.md" title="wikilink">키스 더 라디오</a></p></td>
 <td><p>KBS 쿨FM</p></td>
 <td></td>
 <td></td>
@@ -1625,8 +1625,8 @@ Mwave</p></td>
 2017.03.08</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS" title="wikilink">KBS</a><br />
 <a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뮤직뱅크" title="wikilink">뮤직뱅크</a><br />
-<a href="https://ko.wikipedia.org/wiki/키스_더_라디오" title="wikilink">키스 더 라디오</a></p></td>
+<td><p><a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a><br />
+<a href="../Page/키스_더_라디오.md" title="wikilink">키스 더 라디오</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
 <td></td>
 <td></td>
@@ -1640,16 +1640,16 @@ Mwave</p></td>
 <td><p>2018.01.28</p></td>
 <td><p>ubc울산방송</p></td>
 <td><p>열린예술무대 뒤란</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/네이버" title="wikilink">네이버</a> TV</p></td>
+<td><p><a href="../Page/네이버.md" title="wikilink">네이버</a> TV</p></td>
 </tr>
 <tr class="even">
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=j-TcFt2OVSw">DAY6 〈누군가 필요해〉</a></li>
 </ul></td>
 <td><p>2018.01.30</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/JYP_엔터테인먼트" title="wikilink">JYP Ent.</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/JYP_엔터테인먼트" title="wikilink">JYP Ent.</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/JYP_엔터테인먼트" title="wikilink">JYP Ent.</a></p></td>
+<td><p><a href="../Page/JYP_엔터테인먼트.md" title="wikilink">JYP Ent.</a></p></td>
+<td><p><a href="../Page/JYP_엔터테인먼트.md" title="wikilink">JYP Ent.</a></p></td>
+<td><p><a href="../Page/JYP_엔터테인먼트.md" title="wikilink">JYP Ent.</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1660,7 +1660,7 @@ Mwave</p></td>
 </ul></td>
 <td><p>2017.07.14</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/키스_더_라디오" title="wikilink">키스 더 라디오</a></p></td>
+<td><p><a href="../Page/키스_더_라디오.md" title="wikilink">키스 더 라디오</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
 <td></td>
 <td></td>
@@ -1672,7 +1672,7 @@ Mwave</p></td>
 </ul></td>
 <td><p>2017.09.12</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/키스_더_라디오" title="wikilink">키스 더 라디오</a></p></td>
+<td><p><a href="../Page/키스_더_라디오.md" title="wikilink">키스 더 라디오</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
 <td></td>
 <td></td>
@@ -1684,7 +1684,7 @@ Mwave</p></td>
 </ul></td>
 <td><p>2017.09.12</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/키스_더_라디오" title="wikilink">키스 더 라디오</a></p></td>
+<td><p><a href="../Page/키스_더_라디오.md" title="wikilink">키스 더 라디오</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
 <td></td>
 <td></td>
@@ -1696,7 +1696,7 @@ Mwave</p></td>
 </ul></td>
 <td><p>2018.02.07</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/키스_더_라디오" title="wikilink">키스 더 라디오</a></p></td>
+<td><p><a href="../Page/키스_더_라디오.md" title="wikilink">키스 더 라디오</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
 <td></td>
 <td></td>
@@ -1708,7 +1708,7 @@ Mwave</p></td>
 <td><p>2018.01.26</p></td>
 <td><p>ubc울산방송</p></td>
 <td><p>열린예술무대 뒤란</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/네이버" title="wikilink">네이버</a> TV</p></td>
+<td><p><a href="../Page/네이버.md" title="wikilink">네이버</a> TV</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1717,9 +1717,9 @@ Mwave</p></td>
 <li><a href="https://www.youtube.com/watch?v=Mi5LSZods3Y">DAY6 〈Better Better〉</a></li>
 </ul></td>
 <td><p>2017.12.29</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/JYP_엔터테인먼트" title="wikilink">JYP Ent.</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/JYP_엔터테인먼트" title="wikilink">JYP Ent.</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/JYP_엔터테인먼트" title="wikilink">JYP Ent.</a></p></td>
+<td><p><a href="../Page/JYP_엔터테인먼트.md" title="wikilink">JYP Ent.</a></p></td>
+<td><p><a href="../Page/JYP_엔터테인먼트.md" title="wikilink">JYP Ent.</a></p></td>
+<td><p><a href="../Page/JYP_엔터테인먼트.md" title="wikilink">JYP Ent.</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1730,11 +1730,11 @@ Mwave</p></td>
 </ul></td>
 <td><p>2017.12.31<br />
 2018.02.07</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/JYP_엔터테인먼트" title="wikilink">JYP Ent.</a><br />
+<td><p><a href="../Page/JYP_엔터테인먼트.md" title="wikilink">JYP Ent.</a><br />
 <a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/JYP_엔터테인먼트" title="wikilink">JYP Ent.</a><br />
-<a href="https://ko.wikipedia.org/wiki/키스_더_라디오" title="wikilink">키스 더 라디오</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/JYP_엔터테인먼트" title="wikilink">JYP Ent.</a><br />
+<td><p><a href="../Page/JYP_엔터테인먼트.md" title="wikilink">JYP Ent.</a><br />
+<a href="../Page/키스_더_라디오.md" title="wikilink">키스 더 라디오</a></p></td>
+<td><p><a href="../Page/JYP_엔터테인먼트.md" title="wikilink">JYP Ent.</a><br />
 <a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
 <td></td>
 <td></td>
@@ -1762,9 +1762,9 @@ Mwave</p></td>
 <li><a href="https://www.youtube.com/watch?v=okKTpSnwpQA">DAY6 〈행복했던 날들이었다〉</a></li>
 </ul></td>
 <td><p>2018.12.30</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/JYP_엔터테인먼트" title="wikilink">JYP Ent.</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/JYP_엔터테인먼트" title="wikilink">JYP Ent.</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/JYP_엔터테인먼트" title="wikilink">JYP Ent.</a></p></td>
+<td><p><a href="../Page/JYP_엔터테인먼트.md" title="wikilink">JYP Ent.</a></p></td>
+<td><p><a href="../Page/JYP_엔터테인먼트.md" title="wikilink">JYP Ent.</a></p></td>
+<td><p><a href="../Page/JYP_엔터테인먼트.md" title="wikilink">JYP Ent.</a></p></td>
 </tr>
 <tr class="even">
 <td><ul>
@@ -1795,10 +1795,10 @@ Mwave</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS" title="wikilink">KBS</a><br />
 뮤플리<br />
 CAKE POP</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뮤직뱅크" title="wikilink">뮤직뱅크</a><br />
+<td><p><a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a><br />
 뮤플리<br />
 소확행 LIVE</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/네이버" title="wikilink">네이버</a> TV<br />
+<td><p><a href="../Page/네이버.md" title="wikilink">네이버</a> TV<br />
 뮤플리<br />
 CAKE POP</p></td>
 </tr>
@@ -1815,9 +1815,9 @@ CAKE POP</p></td>
 2019.11.09</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS" title="wikilink">KBS</a><br />
 M2</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뮤직뱅크" title="wikilink">뮤직뱅크</a><br />
+<td><p><a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a><br />
 M2 LIVE</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/네이버" title="wikilink">네이버</a> TV<br />
+<td><p><a href="../Page/네이버.md" title="wikilink">네이버</a> TV<br />
 M2</p></td>
 </tr>
 <tr class="odd">
@@ -1851,7 +1851,7 @@ M2</p></td>
 </ul></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/네이버" title="wikilink">네이버</a> TV</p></td>
+<td><p><a href="../Page/네이버.md" title="wikilink">네이버</a> TV</p></td>
 </tr>
 <tr class="even">
 <td><p>2016.07.21</p></td>
@@ -1859,7 +1859,7 @@ M2</p></td>
 <li><a href="https://www.youtube.com/watch?v=_XV8lZKvtwk">DAY6 〈Congratulations〉(with 지민)</a><br />
 </li>
 </ul></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아리랑_TV" title="wikilink">아리랑 TV</a></p></td>
+<td><p><a href="../Page/아리랑_TV.md" title="wikilink">아리랑 TV</a></p></td>
 <td><p>After School Club</p></td>
 <td><p>ARIRANG K-POP</p></td>
 </tr>
@@ -1879,8 +1879,8 @@ M2</p></td>
 <li><a href="https://www.youtube.com/watch?v=tWpuQsHWsJk">DAY6 〈데이식스의 명곡 메들리〉</a><br />
 </li>
 </ul></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/MBC_에브리원" title="wikilink">MBC 에브리원</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/주간_아이돌" title="wikilink">주간 아이돌</a></p></td>
+<td><p><a href="../Page/MBC_에브리원.md" title="wikilink">MBC 에브리원</a></p></td>
+<td><p><a href="../Page/주간_아이돌.md" title="wikilink">주간 아이돌</a></p></td>
 <td><p>ALL THE K-POP</p></td>
 </tr>
 <tr class="odd">
@@ -1935,9 +1935,9 @@ M2</p></td>
 <li><a href="https://tv.naver.com/v/1565674">DAY6 〈예뻤어〉</a></li>
 </ul></td>
 <td><p>원곡 : DAY6</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
+<td><p><a href="../Page/SBS.md" title="wikilink">SBS</a></p></td>
 <td><p><a href="../Page/K팝스타_6_더_라스트_찬스.md" title="wikilink">K팝스타 시즌6</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/네이버" title="wikilink">네이버</a> TV</p></td>
+<td><p><a href="../Page/네이버.md" title="wikilink">네이버</a> TV</p></td>
 </tr>
 <tr class="odd">
 <td><p>2018.01.27</p></td>
@@ -1946,9 +1946,9 @@ M2</p></td>
 <li><a href="https://www.youtube.com/watch?v=8xJn9xvigCY">DAY6 〈이젠〉</a><br />
 </li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/이상우_(가수)" title="wikilink">이상우</a></p></td>
+<td><p>원곡 : <a href="../Page/이상우_(가수).md" title="wikilink">이상우</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/불후의_명곡_-_전설을_노래하다" title="wikilink">불후의 명곡</a></p></td>
+<td><p><a href="../Page/불후의_명곡_-_전설을_노래하다.md" title="wikilink">불후의 명곡</a></p></td>
 <td><p>KBS Kpop</p></td>
 </tr>
 <tr class="even">
@@ -1958,9 +1958,9 @@ M2</p></td>
 <li><a href="https://www.youtube.com/watch?v=1IWrhZFAo-Q">DAY6 〈Up &amp; Down〉</a><br />
 </li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/디바_(음악_그룹)" title="wikilink">디바</a></p></td>
+<td><p>원곡 : <a href="../Page/디바_(음악_그룹).md" title="wikilink">디바</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/불후의_명곡_-_전설을_노래하다" title="wikilink">불후의 명곡</a></p></td>
+<td><p><a href="../Page/불후의_명곡_-_전설을_노래하다.md" title="wikilink">불후의 명곡</a></p></td>
 <td><p>KBS Kpop</p></td>
 </tr>
 <tr class="odd">
@@ -1972,7 +1972,7 @@ M2</p></td>
 </ul></td>
 <td><p>원곡 : DAY6</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/열린음악회" title="wikilink">열린음악회</a></p></td>
+<td><p><a href="../Page/열린음악회.md" title="wikilink">열린음악회</a></p></td>
 <td><p>KBS Kpop</p></td>
 </tr>
 <tr class="even">
@@ -1984,7 +1984,7 @@ M2</p></td>
 </ul></td>
 <td><p>원곡 : DAY6</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/열린음악회" title="wikilink">열린음악회</a></p></td>
+<td><p><a href="../Page/열린음악회.md" title="wikilink">열린음악회</a></p></td>
 <td><p>KBS Kpop</p></td>
 </tr>
 <tr class="odd">
@@ -1994,7 +1994,7 @@ M2</p></td>
 <li><a href="https://www.youtube.com/watch?v=RwuBJp1alMo">DAY6 〈Despacito〉</a><br />
 </li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/루이스_폰시" title="wikilink">루이스 폰시</a></p></td>
+<td><p>원곡 : <a href="../Page/루이스_폰시.md" title="wikilink">루이스 폰시</a></p></td>
 <td><p>ZANY TV</p></td>
 <td><p>ZANY TV</p></td>
 <td><p>ZANY TV</p></td>
@@ -2017,7 +2017,7 @@ M2</p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=33jS0xLJFAM">DAY6 〈Well Done Again My Friend〉(수고했어, 오늘도)</a></li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/옥상달빛" title="wikilink">옥상달빛</a></p></td>
+<td><p>원곡 : <a href="../Page/옥상달빛.md" title="wikilink">옥상달빛</a></p></td>
 <td><p>KCON TV</p></td>
 <td><p>DAY6 SoundTrack</p></td>
 <td><p>KSTYLE TV</p></td>
@@ -2041,7 +2041,7 @@ M2</p></td>
 <li><a href="https://www.youtube.com/watch?v=LprRyxfWMtc">DAY6 〈Like This〉</a><br />
 </li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/원더걸스" title="wikilink">원더걸스</a></p></td>
+<td><p>원곡 : <a href="../Page/원더걸스.md" title="wikilink">원더걸스</a></p></td>
 <td><p>KCON TV</p></td>
 <td><p>DAY6 SoundTrack</p></td>
 <td><p>KSTYLE TV</p></td>
@@ -2053,7 +2053,7 @@ M2</p></td>
 <li><a href="https://www.youtube.com/watch?v=dDK3uFsXAfE">DAY6 〈Bad Boy〉</a><br />
 </li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/빅뱅_(음악_그룹)" title="wikilink">빅뱅</a></p></td>
+<td><p>원곡 : <a href="../Page/빅뱅_(음악_그룹).md" title="wikilink">빅뱅</a></p></td>
 <td><p>KCON TV</p></td>
 <td><p>DAY6 SoundTrack</p></td>
 <td><p>KSTYLE TV</p></td>
@@ -2068,7 +2068,7 @@ M2</p></td>
 <td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/트와이스" title="wikilink">트와이스</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS" title="wikilink">KBS</a><br />
 </p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뮤직뱅크" title="wikilink">뮤직뱅크</a></p></td>
+<td><p><a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a></p></td>
 <td><p>KBS Kpop</p></td>
 </tr>
 <tr class="even">
@@ -2082,7 +2082,7 @@ M2</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a><br />
 </p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/엠넷_아시안_뮤직_어워드" title="wikilink">2017 MAMA</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/네이버" title="wikilink">네이버</a> TV</p></td>
+<td><p><a href="../Page/네이버.md" title="wikilink">네이버</a> TV</p></td>
 </tr>
 <tr class="odd">
 <td><p>2017.04.05</p></td>
@@ -2091,10 +2091,10 @@ M2</p></td>
 <li><a href="https://www.youtube.com/watch?v=df24eqSHXZs">DAY6 〈'100초'로 듣는 JYP LIVE〉</a><br />
 </li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/JYP_엔터테인먼트" title="wikilink">JYP Ent.</a></p></td>
+<td><p>원곡 : <a href="../Page/JYP_엔터테인먼트.md" title="wikilink">JYP Ent.</a></p></td>
 <td><p>딩고 뮤직</p></td>
 <td><p>딩고 뮤직</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/네이버" title="wikilink">네이버</a> TV</p></td>
+<td><p><a href="../Page/네이버.md" title="wikilink">네이버</a> TV</p></td>
 </tr>
 <tr class="even">
 <td><p>2019.07.10</p></td>
@@ -2104,8 +2104,8 @@ M2</p></td>
 </li>
 </ul></td>
 <td><p>원곡 : 조남지대 외</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/MBC_에브리원" title="wikilink">MBC 에브리원</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/주간_아이돌" title="wikilink">주간 아이돌</a></p></td>
+<td><p><a href="../Page/MBC_에브리원.md" title="wikilink">MBC 에브리원</a></p></td>
+<td><p><a href="../Page/주간_아이돌.md" title="wikilink">주간 아이돌</a></p></td>
 <td><p>ALL THE K-POP</p></td>
 </tr>
 <tr class="odd">
@@ -2115,10 +2115,10 @@ M2</p></td>
 <li><a href="https://tv.naver.com/v/1407242">신효범 &amp; 성진(DAY6) 난 널 사랑해〉</a><br />
 </li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/신효범" title="wikilink">신효범</a></p></td>
+<td><p>원곡 : <a href="../Page/신효범.md" title="wikilink">신효범</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/듀엣_가요제" title="wikilink">듀엣 가요제</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/네이버" title="wikilink">네이버</a> TV</p></td>
+<td><p><a href="../Page/네이버.md" title="wikilink">네이버</a> TV</p></td>
 </tr>
 <tr class="even">
 <td><p>2017.02.03</p></td>
@@ -2127,10 +2127,10 @@ M2</p></td>
 <li><a href="https://tv.naver.com/v/1422308">신효범 &amp; 성진(DAY6) 〈그녈 위해〉</a><br />
 </li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/JK_김동욱" title="wikilink">JK 김동욱</a></p></td>
+<td><p>원곡 : <a href="../Page/JK_김동욱.md" title="wikilink">JK 김동욱</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/듀엣_가요제" title="wikilink">듀엣 가요제</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/네이버" title="wikilink">네이버</a> TV</p></td>
+<td><p><a href="../Page/네이버.md" title="wikilink">네이버</a> TV</p></td>
 </tr>
 <tr class="odd">
 <td><p>2019.05.26<br />
@@ -2142,10 +2142,10 @@ M2</p></td>
 </li>
 <li><a href="https://tv.naver.com/v/8605814">청춘을 노래하는 '일각고래'의 정체는 데이식스 영케이!</a></li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/패닉_(음악_그룹)" title="wikilink">패닉</a>, <a href="../Page/뱅크_(음악_그룹).md" title="wikilink">뱅크</a></p></td>
+<td><p>원곡 : <a href="../Page/패닉_(음악_그룹).md" title="wikilink">패닉</a>, <a href="../Page/뱅크_(음악_그룹).md" title="wikilink">뱅크</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/복면가왕" title="wikilink">복면가왕</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/네이버" title="wikilink">네이버</a> TV</p></td>
+<td><p><a href="../Page/네이버.md" title="wikilink">네이버</a> TV</p></td>
 </tr>
 <tr class="even">
 <td><p>2019.11.03<br />
@@ -2156,10 +2156,10 @@ M2</p></td>
 <li><a href="https://tv.naver.com/v/10843779">삐삐(원필) 〈그대라는 시〉</a></li>
 <li><a href="https://tv.naver.com/v/10843939">매력적인 음색을 가진 '삐삐'의 정체는 데이식스 원필!</a></li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/김범수_(가수)" title="wikilink">김범수</a>, <a href="https://ko.wikipedia.org/wiki/태연" title="wikilink">태연</a></p></td>
+<td><p>원곡 : <a href="../Page/김범수_(가수).md" title="wikilink">김범수</a>, <a href="../Page/태연.md" title="wikilink">태연</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/복면가왕" title="wikilink">복면가왕</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/네이버" title="wikilink">네이버</a> TV</p></td>
+<td><p><a href="../Page/네이버.md" title="wikilink">네이버</a> TV</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -2194,8 +2194,8 @@ M2</p></td>
 <td><ul>
 <li><a href="https://tv.naver.com/v/436482">백아연 〈이럴거면 그러지 말지〉 (Feat. Young K)</a></li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/백아연" title="wikilink">백아연</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/네이버" title="wikilink">네이버</a> TV</p></td>
+<td><p>원곡 : <a href="../Page/백아연.md" title="wikilink">백아연</a></p></td>
+<td><p><a href="../Page/네이버.md" title="wikilink">네이버</a> TV</p></td>
 </tr>
 <tr class="even">
 <td><p>2017.05.27</p></td>
@@ -2205,7 +2205,7 @@ M2</p></td>
 <li><a href="https://www.youtube.com/watch?v=Q4wrhCjAPJs">백아연 X 데이식스(Young K, 도운)</a><br />
 </li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/백아연" title="wikilink">백아연</a></p></td>
+<td><p>원곡 : <a href="../Page/백아연.md" title="wikilink">백아연</a></p></td>
 <td><p>딩고 뮤직</p></td>
 </tr>
 <tr class="odd">
@@ -2241,9 +2241,9 @@ M2</p></td>
 <li><a href="https://www.youtube.com/watch?v=Vqjl-XLNAoQ">DAY6 〈Stop And Stare〉</a><br />
 </li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/원리퍼블릭" title="wikilink">원리퍼블릭</a></p></td>
+<td><p>원곡 : <a href="../Page/원리퍼블릭.md" title="wikilink">원리퍼블릭</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/옥탑방_라디오" title="wikilink">옥탑방 라디오</a></p></td>
+<td><p><a href="../Page/옥탑방_라디오.md" title="wikilink">옥탑방 라디오</a></p></td>
 <td><p>KBS CoolFM</p></td>
 </tr>
 <tr class="even">
@@ -2253,9 +2253,9 @@ M2</p></td>
 <li><a href="https://www.youtube.com/watch?v=iO63J7-B_mM">DAY6 〈Stop And Stare〉</a><br />
 </li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/원리퍼블릭" title="wikilink">원리퍼블릭</a></p></td>
+<td><p>원곡 : <a href="../Page/원리퍼블릭.md" title="wikilink">원리퍼블릭</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/키스_더_라디오" title="wikilink">키스 더 라디오</a></p></td>
+<td><p><a href="../Page/키스_더_라디오.md" title="wikilink">키스 더 라디오</a></p></td>
 <td><p>KBS CoolFM</p></td>
 </tr>
 <tr class="odd">
@@ -2265,9 +2265,9 @@ M2</p></td>
 <li><a href="https://www.youtube.com/watch?v=MupeqEa4x1s">DAY6 〈Shape of you〉</a><br />
 </li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/에드_시런" title="wikilink">에드 시런</a></p></td>
+<td><p>원곡 : <a href="../Page/에드_시런.md" title="wikilink">에드 시런</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/키스_더_라디오" title="wikilink">키스 더 라디오</a></p></td>
+<td><p><a href="../Page/키스_더_라디오.md" title="wikilink">키스 더 라디오</a></p></td>
 <td><p>KBS CoolFM</p></td>
 </tr>
 <tr class="even">
@@ -2277,9 +2277,9 @@ M2</p></td>
 <li><a href="https://www.youtube.com/watch?v=wnD5JFp2UY4">DAY6 〈High And Dry〉</a><br />
 </li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/라디오헤드" title="wikilink">라디오헤드</a></p></td>
+<td><p>원곡 : <a href="../Page/라디오헤드.md" title="wikilink">라디오헤드</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/키스_더_라디오" title="wikilink">키스 더 라디오</a></p></td>
+<td><p><a href="../Page/키스_더_라디오.md" title="wikilink">키스 더 라디오</a></p></td>
 <td><p>KBS CoolFM</p></td>
 </tr>
 <tr class="odd">
@@ -2291,7 +2291,7 @@ M2</p></td>
 </ul></td>
 <td><p>원곡 : <a href="../Page/크러쉬_(음악가).md" title="wikilink">크러쉬</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/키스_더_라디오" title="wikilink">키스 더 라디오</a></p></td>
+<td><p><a href="../Page/키스_더_라디오.md" title="wikilink">키스 더 라디오</a></p></td>
 <td><p>KBS CoolFM</p></td>
 </tr>
 <tr class="even">
@@ -2301,9 +2301,9 @@ M2</p></td>
 <li><a href="https://www.youtube.com/watch?v=ahTBHdCaFR8">DAY6 〈잠 못 드는 밤 비는 내리고〉</a><br />
 </li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/김건모" title="wikilink">김건모</a></p></td>
+<td><p>원곡 : <a href="../Page/김건모.md" title="wikilink">김건모</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/키스_더_라디오" title="wikilink">키스 더 라디오</a></p></td>
+<td><p><a href="../Page/키스_더_라디오.md" title="wikilink">키스 더 라디오</a></p></td>
 <td><p>KBS CoolFM</p></td>
 </tr>
 <tr class="odd">
@@ -2313,9 +2313,9 @@ M2</p></td>
 <li><a href="https://www.youtube.com/watch?v=hqJmviHPdXw">DAY6 〈History〉</a><br />
 </li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/원_디렉션" title="wikilink">원 디렉션</a></p></td>
+<td><p>원곡 : <a href="../Page/원_디렉션.md" title="wikilink">원 디렉션</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/키스_더_라디오" title="wikilink">키스 더 라디오</a></p></td>
+<td><p><a href="../Page/키스_더_라디오.md" title="wikilink">키스 더 라디오</a></p></td>
 <td><p>KBS CoolFM</p></td>
 </tr>
 <tr class="even">
@@ -2327,7 +2327,7 @@ M2</p></td>
 </ul></td>
 <td><p>원곡 : <a href="../Page/크러쉬_(음악가).md" title="wikilink">크러쉬</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/키스_더_라디오" title="wikilink">키스 더 라디오</a></p></td>
+<td><p><a href="../Page/키스_더_라디오.md" title="wikilink">키스 더 라디오</a></p></td>
 <td><p>KBS CoolFM</p></td>
 </tr>
 <tr class="odd">
@@ -2337,9 +2337,9 @@ M2</p></td>
 <li><a href="https://www.youtube.com/watch?v=M_zLZ0jogC4">DAY6 〈널 생각해〉</a><br />
 </li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/원모어찬스" title="wikilink">원모어찬스</a></p></td>
+<td><p>원곡 : <a href="../Page/원모어찬스.md" title="wikilink">원모어찬스</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/키스_더_라디오" title="wikilink">키스 더 라디오</a></p></td>
+<td><p><a href="../Page/키스_더_라디오.md" title="wikilink">키스 더 라디오</a></p></td>
 <td><p>KBS CoolFM</p></td>
 </tr>
 <tr class="even">
@@ -2349,9 +2349,9 @@ M2</p></td>
 <li><a href="https://www.youtube.com/watch?v=R9c7xSVsd8cI">DAY6 〈세 단어〉</a><br />
 </li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/젝스키스" title="wikilink">젝스키스</a></p></td>
+<td><p>원곡 : <a href="../Page/젝스키스.md" title="wikilink">젝스키스</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/키스_더_라디오" title="wikilink">키스 더 라디오</a></p></td>
+<td><p><a href="../Page/키스_더_라디오.md" title="wikilink">키스 더 라디오</a></p></td>
 <td><p>KBS KONG</p></td>
 </tr>
 <tr class="odd">
@@ -2388,7 +2388,7 @@ M2</p></td>
 <li><a href="https://www.youtube.com/watch?v=R-E2KMTDv0E">성진 〈말꼬리〉</a><br />
 </li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/윤종신" title="wikilink">윤종신</a></p></td>
+<td><p>원곡 : <a href="../Page/윤종신.md" title="wikilink">윤종신</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_Happy_FM" title="wikilink">KBS Happy FM</a></p></td>
 <td><p><a href="../Page/행복한_두시_조성모입니다.md" title="wikilink">행복한 두시 조성모입니다</a></p></td>
 <td><p>KBS KONG</p></td>
@@ -2400,7 +2400,7 @@ M2</p></td>
 <li><a href="https://www.youtube.com/watch?v=ZnRF3lNIF-Y">성진 〈이등병의 편지〉</a><br />
 </li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/김광석" title="wikilink">김광석</a></p></td>
+<td><p>원곡 : <a href="../Page/김광석.md" title="wikilink">김광석</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_Happy_FM" title="wikilink">KBS Happy FM</a></p></td>
 <td><p><a href="../Page/행복한_두시_조성모입니다.md" title="wikilink">행복한 두시 조성모입니다</a></p></td>
 <td><p>KBS KONG</p></td>
@@ -2414,9 +2414,9 @@ M2</p></td>
 <li><a href="https://www.youtube.com/watch?v=KnQbylivC4A">성진, Jae, Young K 〈봄이 좋냐?〉</a><br />
 </li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/10cm_(음악_그룹)" title="wikilink">10cm</a></p></td>
+<td><p>원곡 : <a href="../Page/10cm_(음악_그룹).md" title="wikilink">10cm</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/키스_더_라디오" title="wikilink">키스 더 라디오</a></p></td>
+<td><p><a href="../Page/키스_더_라디오.md" title="wikilink">키스 더 라디오</a></p></td>
 <td><p>KBS CoolFM</p></td>
 </tr>
 <tr class="even">
@@ -2427,7 +2427,7 @@ M2</p></td>
 <li><a href="https://www.youtube.com/watch?v=bjYZ_TR3uG8">성진 &amp; 도운 〈Good Night〉</a><br />
 </li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/넬_(밴드)" title="wikilink">넬</a></p></td>
+<td><p>원곡 : <a href="../Page/넬_(밴드).md" title="wikilink">넬</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_Happy_FM" title="wikilink">KBS Happy FM</a></p></td>
 <td><p><a href="../Page/행복한_두시_조성모입니다.md" title="wikilink">행복한 두시 조성모입니다</a></p></td>
 <td><p>KBS KONG</p></td>
@@ -2454,9 +2454,9 @@ M2</p></td>
 <li><a href="https://www.youtube.com/watch?v=VbeS4SYQnPI">성진 &amp; Young K &amp; 도운 〈죽겠네〉</a><br />
 </li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/10cm_(음악_그룹)" title="wikilink">10cm</a></p></td>
+<td><p>원곡 : <a href="../Page/10cm_(음악_그룹).md" title="wikilink">10cm</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/키스_더_라디오" title="wikilink">키스 더 라디오</a></p></td>
+<td><p><a href="../Page/키스_더_라디오.md" title="wikilink">키스 더 라디오</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
 </tr>
 <tr class="odd">
@@ -2467,9 +2467,9 @@ M2</p></td>
 <li><a href="https://www.youtube.com/watch?v=OUppKbeV59U">성진 &amp; 원필 〈우주를 건너〉</a><br />
 </li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/백예린" title="wikilink">백예린</a></p></td>
+<td><p>원곡 : <a href="../Page/백예린.md" title="wikilink">백예린</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/키스_더_라디오" title="wikilink">키스 더 라디오</a></p></td>
+<td><p><a href="../Page/키스_더_라디오.md" title="wikilink">키스 더 라디오</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
 </tr>
 <tr class="even">
@@ -2481,9 +2481,9 @@ M2</p></td>
 <li><a href="https://www.youtube.com/watch?v=keR4-lSKggQ">성진, Jae, 도운 &amp; 윤현상 〈걱정말아요 그대〉</a><br />
 </li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/들국화_(밴드)" title="wikilink">들국화</a></p></td>
+<td><p>원곡 : <a href="../Page/들국화_(밴드).md" title="wikilink">들국화</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/키스_더_라디오" title="wikilink">키스 더 라디오</a></p></td>
+<td><p><a href="../Page/키스_더_라디오.md" title="wikilink">키스 더 라디오</a></p></td>
 <td><p>KBS KONG</p></td>
 </tr>
 <tr class="odd">
@@ -2495,9 +2495,9 @@ M2</p></td>
 <li><a href="https://www.youtube.com/watch?v=V3lAXs9TICU">성진 &amp; 원필 &amp; 도운 〈이게 아닌데〉</a><br />
 </li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/태양_(가수)" title="wikilink">태양</a></p></td>
+<td><p>원곡 : <a href="../Page/태양_(가수).md" title="wikilink">태양</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/키스_더_라디오" title="wikilink">키스 더 라디오</a></p></td>
+<td><p><a href="../Page/키스_더_라디오.md" title="wikilink">키스 더 라디오</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
 </tr>
 <tr class="even">
@@ -2509,9 +2509,9 @@ M2</p></td>
 <li><a href="https://www.youtube.com/watch?v=2R3fwpLZsCg">Jae, 성진, Young K〈Happy〉</a><br />
 </li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/퍼렐_윌리엄스" title="wikilink">퍼렐 윌리엄스</a></p></td>
+<td><p>원곡 : <a href="../Page/퍼렐_윌리엄스.md" title="wikilink">퍼렐 윌리엄스</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/키스_더_라디오" title="wikilink">키스 더 라디오</a></p></td>
+<td><p><a href="../Page/키스_더_라디오.md" title="wikilink">키스 더 라디오</a></p></td>
 <td><p>KBS CoolFM</p></td>
 </tr>
 <tr class="odd">
@@ -2523,9 +2523,9 @@ M2</p></td>
 <li><a href="https://www.youtube.com/watch?v=f-iv5lqVPi8">성진, Young K, 도운 〈Just The Way You Are〉</a><br />
 </li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/브루노_마스" title="wikilink">브루노 마스</a></p></td>
+<td><p>원곡 : <a href="../Page/브루노_마스.md" title="wikilink">브루노 마스</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/키스_더_라디오" title="wikilink">키스 더 라디오</a></p></td>
+<td><p><a href="../Page/키스_더_라디오.md" title="wikilink">키스 더 라디오</a></p></td>
 <td><p>KBS CoolFM</p></td>
 </tr>
 <tr class="even">
@@ -2536,7 +2536,7 @@ M2</p></td>
 <li><a href="https://www.youtube.com/watch?v=8wJFKSiepVg">성진 &amp; 도운 〈Little Star〉</a><br />
 </li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/스탠딩_에그" title="wikilink">스탠딩 에그</a></p></td>
+<td><p>원곡 : <a href="../Page/스탠딩_에그.md" title="wikilink">스탠딩 에그</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_Happy_FM" title="wikilink">KBS Happy FM</a></p></td>
 <td><p><a href="../Page/행복한_두시_조성모입니다.md" title="wikilink">행복한 두시 조성모입니다</a></p></td>
 <td><p>KBS KONG</p></td>
@@ -2549,7 +2549,7 @@ M2</p></td>
 <li><a href="https://www.youtube.com/watch?v=PqbER_hahbA">성진 &amp; 도운 〈Oh My God〉</a><br />
 </li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/15&amp;" title="wikilink">15&amp;</a></p></td>
+<td><p>원곡 : <a href="../Page/15&amp;.md" title="wikilink">15&amp;</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_Happy_FM" title="wikilink">KBS Happy FM</a></p></td>
 <td><p><a href="../Page/행복한_두시_조성모입니다.md" title="wikilink">행복한 두시 조성모입니다</a></p></td>
 <td><p>KBS KONG</p></td>
@@ -2562,7 +2562,7 @@ M2</p></td>
 <li><a href="https://www.youtube.com/watch?v=iMgrz_QaDqQ">성진 &amp; 원필 〈그대 내 품에〉</a><br />
 </li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/유재하" title="wikilink">유재하</a></p></td>
+<td><p>원곡 : <a href="../Page/유재하.md" title="wikilink">유재하</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_Happy_FM" title="wikilink">KBS Happy FM</a></p></td>
 <td><p><a href="../Page/행복한_두시_조성모입니다.md" title="wikilink">행복한 두시 조성모입니다</a></p></td>
 <td><p>KBS KONG</p></td>
@@ -2588,7 +2588,7 @@ M2</p></td>
 <li><a href="https://www.youtube.com/watch?v=to5UjmdZnLQ">성진 &amp; 원필 〈High &amp; Dry〉</a><br />
 </li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/라디오헤드" title="wikilink">라디오헤드</a></p></td>
+<td><p>원곡 : <a href="../Page/라디오헤드.md" title="wikilink">라디오헤드</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_Happy_FM" title="wikilink">KBS Happy FM</a></p></td>
 <td><p><a href="../Page/행복한_두시_조성모입니다.md" title="wikilink">행복한 두시 조성모입니다</a></p></td>
 <td><p>KBS KONG</p></td>
@@ -2614,7 +2614,7 @@ M2</p></td>
 <li><a href="https://www.youtube.com/watch?v=B2yNylp9uKc">성진 &amp; 원필 〈All Of Me〉</a><br />
 </li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/존_레전드" title="wikilink">존 레전드</a></p></td>
+<td><p>원곡 : <a href="../Page/존_레전드.md" title="wikilink">존 레전드</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_Happy_FM" title="wikilink">KBS Happy FM</a></p></td>
 <td><p><a href="../Page/행복한_두시_조성모입니다.md" title="wikilink">행복한 두시 조성모입니다</a></p></td>
 <td><p>KBS KONG</p></td>
@@ -2630,9 +2630,9 @@ M2</p></td>
 <li><a href="https://www.youtube.com/watch?v=QHOuuVcWk8Q">성진, Young K, 원필, 도운 〈Good Life〉</a><br />
 </li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/원리퍼블릭" title="wikilink">원리퍼블릭</a></p></td>
+<td><p>원곡 : <a href="../Page/원리퍼블릭.md" title="wikilink">원리퍼블릭</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/키스_더_라디오" title="wikilink">키스 더 라디오</a></p></td>
+<td><p><a href="../Page/키스_더_라디오.md" title="wikilink">키스 더 라디오</a></p></td>
 <td><p>KBS CoolFM</p></td>
 </tr>
 <tr class="even">
@@ -2642,9 +2642,9 @@ M2</p></td>
 <li><a href="https://www.youtube.com/watch?v=IgUKwxUDtjw">Jae 〈Sunday Morning〉</a><br />
 </li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/마룬_5" title="wikilink">마룬 5</a></p></td>
+<td><p>원곡 : <a href="../Page/마룬_5.md" title="wikilink">마룬 5</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/키스_더_라디오" title="wikilink">키스 더 라디오</a></p></td>
+<td><p><a href="../Page/키스_더_라디오.md" title="wikilink">키스 더 라디오</a></p></td>
 <td><p>KBS KONG</p></td>
 </tr>
 <tr class="odd">
@@ -2655,9 +2655,9 @@ M2</p></td>
 <li><a href="https://www.youtube.com/watch?v=PJc5YVxl9Bc">Jae &amp; Young K 〈Yesterday〉</a><br />
 </li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/비틀즈" title="wikilink">비틀즈</a></p></td>
+<td><p>원곡 : <a href="../Page/비틀즈.md" title="wikilink">비틀즈</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/키스_더_라디오" title="wikilink">키스 더 라디오</a></p></td>
+<td><p><a href="../Page/키스_더_라디오.md" title="wikilink">키스 더 라디오</a></p></td>
 <td><p>KBS KONG</p></td>
 </tr>
 <tr class="even">
@@ -2668,7 +2668,7 @@ M2</p></td>
 <li><a href="https://www.youtube.com/watch?v=EkrPUT_Jbms">Jae &amp; Young K 〈The Rose〉</a><br />
 </li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/벳_미들러" title="wikilink">벳 미들러</a></p></td>
+<td><p>원곡 : <a href="../Page/벳_미들러.md" title="wikilink">벳 미들러</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_Happy_FM" title="wikilink">KBS Happy FM</a></p></td>
 <td><p><a href="../Page/행복한_두시_조성모입니다.md" title="wikilink">행복한 두시 조성모입니다</a></p></td>
 <td><p>KBS KONG</p></td>
@@ -2683,9 +2683,9 @@ M2</p></td>
 <li><a href="https://www.youtube.com/watch?v=qW2fRE1NELA">Jae, Young K, 성진, 도운 〈She Will Be Loved〉</a><br />
 </li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/마룬_5" title="wikilink">마룬 5</a></p></td>
+<td><p>원곡 : <a href="../Page/마룬_5.md" title="wikilink">마룬 5</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/키스_더_라디오" title="wikilink">키스 더 라디오</a></p></td>
+<td><p><a href="../Page/키스_더_라디오.md" title="wikilink">키스 더 라디오</a></p></td>
 <td><p>KBS CoolFM</p></td>
 </tr>
 <tr class="even">
@@ -2696,7 +2696,7 @@ M2</p></td>
 <li><a href="https://www.youtube.com/watch?v=J2U1Vz-vO6E">Jae &amp; 도운 〈How Deep Is Your Love〉</a><br />
 </li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/비_지스" title="wikilink">비 지스</a></p></td>
+<td><p>원곡 : <a href="../Page/비_지스.md" title="wikilink">비 지스</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_Happy_FM" title="wikilink">KBS Happy FM</a></p></td>
 <td><p><a href="../Page/행복한_두시_조성모입니다.md" title="wikilink">행복한 두시 조성모입니다</a></p></td>
 <td><p>KBS KONG</p></td>
@@ -2709,7 +2709,7 @@ M2</p></td>
 <li><a href="https://www.youtube.com/watch?v=8f2V9cEHh9M">Jae &amp; Young K 〈Lost Stars〉</a><br />
 </li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/애덤_리바인" title="wikilink">애덤 리바인</a></p></td>
+<td><p>원곡 : <a href="../Page/애덤_리바인.md" title="wikilink">애덤 리바인</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_Happy_FM" title="wikilink">KBS Happy FM</a></p></td>
 <td><p><a href="../Page/행복한_두시_조성모입니다.md" title="wikilink">행복한 두시 조성모입니다</a></p></td>
 <td><p>KBS KONG</p></td>
@@ -2723,9 +2723,9 @@ M2</p></td>
 <li><a href="https://www.youtube.com/watch?v=PSrUHW74Yj8">Jae, Young K, 도운 〈Put Your Records On〉</a><br />
 </li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/커린_베일리_레이" title="wikilink">커린 베일리 레이</a></p></td>
+<td><p>원곡 : <a href="../Page/커린_베일리_레이.md" title="wikilink">커린 베일리 레이</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/키스_더_라디오" title="wikilink">키스 더 라디오</a></p></td>
+<td><p><a href="../Page/키스_더_라디오.md" title="wikilink">키스 더 라디오</a></p></td>
 <td><p>KBS CoolFM</p></td>
 </tr>
 <tr class="odd">
@@ -2737,9 +2737,9 @@ M2</p></td>
 <li><a href="https://www.youtube.com/watch?v=2657PBSF_4E">Jae, Young K, 성진 〈Bad Day〉</a><br />
 </li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/대니얼_파우터" title="wikilink">대니얼 파우터</a></p></td>
+<td><p>원곡 : <a href="../Page/대니얼_파우터.md" title="wikilink">대니얼 파우터</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/키스_더_라디오" title="wikilink">키스 더 라디오</a></p></td>
+<td><p><a href="../Page/키스_더_라디오.md" title="wikilink">키스 더 라디오</a></p></td>
 <td><p>KBS CoolFM</p></td>
 </tr>
 <tr class="even">
@@ -2751,9 +2751,9 @@ M2</p></td>
 <li><a href="https://www.youtube.com/watch?v=pVV0gD6JMH0">원필 &amp; Jae 〈벚꽃엔딩〉</a><br />
 </li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/버스커_버스커" title="wikilink">버스커 버스커</a></p></td>
+<td><p>원곡 : <a href="../Page/버스커_버스커.md" title="wikilink">버스커 버스커</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/키스_더_라디오" title="wikilink">키스 더 라디오</a></p></td>
+<td><p><a href="../Page/키스_더_라디오.md" title="wikilink">키스 더 라디오</a></p></td>
 <td><p>KBS CoolFM</p></td>
 </tr>
 <tr class="odd">
@@ -2767,7 +2767,7 @@ M2</p></td>
 </ul></td>
 <td><p>원곡 : <a href="../Page/딘_(가수).md" title="wikilink">딘</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/키스_더_라디오" title="wikilink">키스 더 라디오</a></p></td>
+<td><p><a href="../Page/키스_더_라디오.md" title="wikilink">키스 더 라디오</a></p></td>
 <td><p>KBS CoolFM</p></td>
 </tr>
 <tr class="even">
@@ -2778,9 +2778,9 @@ M2</p></td>
 <li><a href="https://www.youtube.com/watch?v=UN0SXm9Ryzk">Young K &amp; 원필 〈Love Yourself〉</a><br />
 </li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/저스틴_비버" title="wikilink">저스틴 비버</a></p></td>
+<td><p>원곡 : <a href="../Page/저스틴_비버.md" title="wikilink">저스틴 비버</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/키스_더_라디오" title="wikilink">키스 더 라디오</a></p></td>
+<td><p><a href="../Page/키스_더_라디오.md" title="wikilink">키스 더 라디오</a></p></td>
 <td><p>KBS CoolFM</p></td>
 </tr>
 <tr class="odd">
@@ -2793,7 +2793,7 @@ M2</p></td>
 </ul></td>
 <td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/전람회" title="wikilink">전람회</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/키스_더_라디오" title="wikilink">키스 더 라디오</a></p></td>
+<td><p><a href="../Page/키스_더_라디오.md" title="wikilink">키스 더 라디오</a></p></td>
 <td><p>KBS CoolFM</p></td>
 </tr>
 <tr class="even">
@@ -2804,7 +2804,7 @@ M2</p></td>
 <li><a href="https://www.youtube.com/watch?v=8GigwMdpMK0">Young K &amp; 도운 〈Hey Jude〉</a><br />
 </li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/비틀즈" title="wikilink">비틀즈</a></p></td>
+<td><p>원곡 : <a href="../Page/비틀즈.md" title="wikilink">비틀즈</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_Happy_FM" title="wikilink">KBS Happy FM</a></p></td>
 <td><p><a href="../Page/행복한_두시_조성모입니다.md" title="wikilink">행복한 두시 조성모입니다</a></p></td>
 <td><p>KBS KONG</p></td>
@@ -2830,7 +2830,7 @@ M2</p></td>
 <li><a href="https://www.youtube.com/watch?v=TNtvyqp1Epg">원필 &amp; 도운 〈기억을 걷는 시간〉</a><br />
 </li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/넬_(밴드)" title="wikilink">넬</a></p></td>
+<td><p>원곡 : <a href="../Page/넬_(밴드).md" title="wikilink">넬</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_Happy_FM" title="wikilink">KBS Happy FM</a></p></td>
 <td><p><a href="../Page/행복한_두시_조성모입니다.md" title="wikilink">행복한 두시 조성모입니다</a></p></td>
 <td><p>KBS KONG</p></td>
@@ -2843,9 +2843,9 @@ M2</p></td>
 <li><a href="https://www.youtube.com/watch?v=cgKkUgmrEMg">원필 &amp; Young K 〈그대와 영원히〉</a><br />
 </li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/이문세" title="wikilink">이문세</a></p></td>
+<td><p>원곡 : <a href="../Page/이문세.md" title="wikilink">이문세</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/키스_더_라디오" title="wikilink">키스 더 라디오</a></p></td>
+<td><p><a href="../Page/키스_더_라디오.md" title="wikilink">키스 더 라디오</a></p></td>
 <td><p>KBS CoolFM</p></td>
 </tr>
 <tr class="even">
@@ -2870,9 +2870,9 @@ M2</p></td>
 <li><a href="https://www.youtube.com/watch?v=zQrBsjkp-SI">원필 〈If You〉</a><br />
 </li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/빅뱅_(음악_그룹)" title="wikilink">빅뱅</a></p></td>
+<td><p>원곡 : <a href="../Page/빅뱅_(음악_그룹).md" title="wikilink">빅뱅</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_쿨FM" title="wikilink">KBS 쿨FM</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/키스_더_라디오" title="wikilink">키스 더 라디오</a></p></td>
+<td><p><a href="../Page/키스_더_라디오.md" title="wikilink">키스 더 라디오</a></p></td>
 <td><p>KBS KONG</p></td>
 </tr>
 <tr class="even">
@@ -2880,12 +2880,12 @@ M2</p></td>
 <td><p><a href="../Page/Young_K.md" title="wikilink">Young K</a></p></td>
 <td><ul>
 <li><a href="https://tv.naver.com/v/1132737">〈Love Yourself〉</a><br />
-(<a href="https://ko.wikipedia.org/wiki/헨리_(가수)" title="wikilink">헨리</a> x 벤지 x 김재현 x <a href="../Page/Young_K.md" title="wikilink">Young K</a> x <a href="https://ko.wikipedia.org/wiki/차은우" title="wikilink">차은우</a>)</li>
+(<a href="../Page/헨리_(가수).md" title="wikilink">헨리</a> x 벤지 x 김재현 x <a href="../Page/Young_K.md" title="wikilink">Young K</a> x <a href="https://ko.wikipedia.org/wiki/차은우" title="wikilink">차은우</a>)</li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/저스틴_비버" title="wikilink">저스틴 비버</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
+<td><p>원곡 : <a href="../Page/저스틴_비버.md" title="wikilink">저스틴 비버</a></p></td>
+<td><p><a href="../Page/SBS.md" title="wikilink">SBS</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/네이버" title="wikilink">네이버</a> TV</p></td>
+<td><p><a href="../Page/네이버.md" title="wikilink">네이버</a> TV</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -2926,8 +2926,8 @@ M2</p></td>
 <td><ul>
 <li><strong>한 페이지가 될 수 있게</strong> (총 2회)
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/7월_24일" title="wikilink">7월 24일</a> <a href="https://ko.wikipedia.org/wiki/MBC_MUSIC" title="wikilink">MBC MUSIC</a> 《<a href="https://ko.wikipedia.org/wiki/쇼_챔피언" title="wikilink">쇼 챔피언</a>》 1위</li>
-<li><a href="https://ko.wikipedia.org/wiki/7월_25일" title="wikilink">7월 25일</a> <a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》 1위</li>
+<li><a href="../Page/7월_24일.md" title="wikilink">7월 24일</a> <a href="https://ko.wikipedia.org/wiki/MBC_MUSIC" title="wikilink">MBC MUSIC</a> 《<a href="https://ko.wikipedia.org/wiki/쇼_챔피언" title="wikilink">쇼 챔피언</a>》 1위</li>
+<li><a href="../Page/7월_25일.md" title="wikilink">7월 25일</a> <a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》 1위</li>
 </ul></li>
 </ul></td>
 </tr>
@@ -2942,9 +2942,9 @@ M2</p></td>
   -
   -
   -
-  - [DAY6](https://www.youtube.com/channel/UCp-pqXsizklX3ZHvLxXyhxw/videos?view=0&sort=dd&shelf_id=0) - [유튜브](https://ko.wikipedia.org/wiki/유튜브 "wikilink")
+  - [DAY6](https://www.youtube.com/channel/UCp-pqXsizklX3ZHvLxXyhxw/videos?view=0&sort=dd&shelf_id=0) - [유튜브](../Page/유튜브.md "wikilink")
 
-  - [JYP 엔터테인먼트](https://www.youtube.com/user/jypentertainment/videos) - [유튜브](https://ko.wikipedia.org/wiki/유튜브 "wikilink")
+  - [JYP 엔터테인먼트](https://www.youtube.com/user/jypentertainment/videos) - [유튜브](../Page/유튜브.md "wikilink")
 
   - (일본)
 

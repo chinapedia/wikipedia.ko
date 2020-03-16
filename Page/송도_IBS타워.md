@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [ IBS](https://ko.wikipedia.org/wiki/_IBS).
 
 
-**송도 IBS타워**()는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink") [연수구](https://ko.wikipedia.org/wiki/연수구 "wikilink") [송도국제도시](https://ko.wikipedia.org/wiki/송도국제도시 "wikilink")에 위치한 오피스 빌딩이다. 이 건물은 지상 35층, 155m의 높이는 판매동과 업무동으로 구성되어 있으며 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink")에 착공하여 [2011년 8월](https://ko.wikipedia.org/wiki/2011년_8월 "wikilink") 완공 및 개장했다.
+**송도 IBS타워**()는 [대한민국](../Page/대한민국.md "wikilink") [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink") [연수구](../Page/연수구.md "wikilink") [송도국제도시](../Page/송도국제도시.md "wikilink")에 위치한 오피스 빌딩이다. 이 건물은 지상 35층, 155m의 높이는 판매동과 업무동으로 구성되어 있으며 [2008년](../Page/2008년.md "wikilink")에 착공하여 [2011년 8월](../Page/2011년_8월.md "wikilink") 완공 및 개장했다.
 
 ## 역사
 
-[2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [11월 3일에](https://ko.wikipedia.org/wiki/11월_3일 "wikilink") 기공식을 개최하고 착공하여 [2011년 8월에](https://ko.wikipedia.org/wiki/2011년_8월 "wikilink") 완공되었으며 개장하였다. [2015년 12월에](../Page/2015년_12월.md "wikilink") 대우건설 해외플랜트 프로젝트팀이 이 건물으로 이전하였다.\[1\]
+[2008년](../Page/2008년.md "wikilink") [11월 3일에](../Page/11월_3일.md "wikilink") 기공식을 개최하고 착공하여 [2011년 8월에](../Page/2011년_8월.md "wikilink") 완공되었으며 개장하였다. [2015년 12월에](../Page/2015년_12월.md "wikilink") 대우건설 해외플랜트 프로젝트팀이 이 건물으로 이전하였다.\[1\]
 
 ## 엘리베이터
 
@@ -57,11 +57,11 @@
 
 ## 사건 및 사고
 
-[2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [5월 11일에](https://ko.wikipedia.org/wiki/5월_11일 "wikilink") 드론이 이 건물에 충돌하여 35층에 부딪히는 사고가 발생하였고 30층에 위치한 유리창 1개가 깨지는 사고가 있었다.\[2\]
+[2016년](../Page/2016년.md "wikilink") [5월 11일에](../Page/5월_11일.md "wikilink") 드론이 이 건물에 충돌하여 35층에 부딪히는 사고가 발생하였고 30층에 위치한 유리창 1개가 깨지는 사고가 있었다.\[2\]
 
 ## 대중문화
 
-복수를 소재로 한 MBC 드라마 [돈꽃에](https://ko.wikipedia.org/wiki/돈꽃_\(2017년_드라마\) "wikilink") 나온다.
+복수를 소재로 한 MBC 드라마 [돈꽃에](../Page/돈꽃_\(2017년_드라마\).md "wikilink") 나온다.
 
 ## 같이 보기
 

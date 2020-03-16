@@ -1,21 +1,21 @@
 > This article is converted from Wikipedia: [C](https://ko.wikipedia.org/wiki/C).
 
 
-**오로나민C**(Oronamin C, )는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") 의 [오츠카 제약이](https://ko.wikipedia.org/wiki/오츠카_제약 "wikilink") 1965년 생산하기 시작하여 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink")부터 [동아오츠카](https://ko.wikipedia.org/wiki/동아오츠카 "wikilink")의 라이센스로 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서 판매되고 있는 [비타민](https://ko.wikipedia.org/wiki/비타민 "wikilink") [드링크](https://ko.wikipedia.org/wiki/드링크 "wikilink")이다. 다른 비타민 드링크와는 달리 [탄산](https://ko.wikipedia.org/wiki/탄산 "wikilink")이 함유된 것 역시 특징이다.
+**오로나민C**(Oronamin C, )는 [일본](../Page/일본.md "wikilink") 의 [오츠카 제약이](https://ko.wikipedia.org/wiki/오츠카_제약 "wikilink") 1965년 생산하기 시작하여 [2015년](../Page/2015년.md "wikilink")부터 [동아오츠카](../Page/동아오츠카.md "wikilink")의 라이센스로 [대한민국](../Page/대한민국.md "wikilink")에서 판매되고 있는 [비타민](../Page/비타민.md "wikilink") [드링크](https://ko.wikipedia.org/wiki/드링크 "wikilink")이다. 다른 비타민 드링크와는 달리 [탄산](../Page/탄산.md "wikilink")이 함유된 것 역시 특징이다.
 
 ## 특징
 
 오로나민C의 맥시캡(Maxi-Cap)은 국내 최초로 도입된 3세대 안전마개로, 지렛대의 원리를 적용한 새로운 방식의 안전마개로 한 번에 분리되는 원터치 캡이라는 특징을 가지고 있어 비교적 안전하게 개봉할 수 있다.
 
-병뚜껑의 역사는 1965\~1970년까지는 맥주, 사이다, 콜라병처럼 병따개로 따는 형태 였다가 1971년부터는 가스활명수나 비타 500같은 금속제 뚜껑을썼고, 1985년 [파라콰트 연쇄독살사건으로](https://ko.wikipedia.org/wiki/파라콰트_연쇄독살사건 "wikilink") 인해 이듬해인 1986년부터는 따는 형태로 바뀌었다.
+병뚜껑의 역사는 1965\~1970년까지는 맥주, 사이다, 콜라병처럼 병따개로 따는 형태 였다가 1971년부터는 가스활명수나 비타 500같은 금속제 뚜껑을썼고, 1985년 [파라콰트 연쇄독살사건으로](../Page/파라콰트_연쇄독살사건.md "wikilink") 인해 이듬해인 1986년부터는 따는 형태로 바뀌었다.
 
 ## 발매
 
-[동아오츠카](https://ko.wikipedia.org/wiki/동아오츠카 "wikilink")가 일본의 오츠카 제약과 만든 비타민이 들어있는 [에너지 음료이다](https://ko.wikipedia.org/wiki/에너지_음료 "wikilink"). 일본세서는 1965년부터 판매되었으며 한국에서는 2015년 2월 2일에 판매 시작하였다.\[1\] 대한민국 공장은 충북 청주시 흥덕구에있다.
+[동아오츠카](../Page/동아오츠카.md "wikilink")가 일본의 오츠카 제약과 만든 비타민이 들어있는 [에너지 음료이다](https://ko.wikipedia.org/wiki/에너지_음료 "wikilink"). 일본세서는 1965년부터 판매되었으며 한국에서는 2015년 2월 2일에 판매 시작하였다.\[1\] 대한민국 공장은 충북 청주시 흥덕구에있다.
 
 ## 제조 과정
 
-  - 오로나민C 공장에 도착한 빈 병들은 팔레트 단위로 운반되는데, [비타민 B](https://ko.wikipedia.org/wiki/비타민_B "wikilink")2, [비타민 C](https://ko.wikipedia.org/wiki/비타민_C "wikilink") 등이 빛에 약하거나 빛에 의해 파괴될 수 있어 이를 방지하지 위해 갈색 병을 사용한다. 또한, 다이아몬드 커팅을 새겨 손으로 잡고 마실 때 미끄러지지 않도록 했다.
+  - 오로나민C 공장에 도착한 빈 병들은 팔레트 단위로 운반되는데, [비타민 B](https://ko.wikipedia.org/wiki/비타민_B "wikilink")2, [비타민 C](../Page/비타민_C.md "wikilink") 등이 빛에 약하거나 빛에 의해 파괴될 수 있어 이를 방지하지 위해 갈색 병을 사용한다. 또한, 다이아몬드 커팅을 새겨 손으로 잡고 마실 때 미끄러지지 않도록 했다.
 
 <!-- end list -->
 
@@ -23,7 +23,7 @@
 
 <!-- end list -->
 
-  - 공정 2단계는 원료의 [측량](https://ko.wikipedia.org/wiki/측량 "wikilink"), 조합 등의 자동제어로 진행되는 곳에서 공급된 원료를 대형 탱크에서 조합하여 섞는다. 여기에서 오로나민C의 성분인 [비타민](https://ko.wikipedia.org/wiki/비타민 "wikilink"), [아미노산](https://ko.wikipedia.org/wiki/아미노산 "wikilink") 등을 컴퓨터에 세팅된 배합률에 따라 섞는다. 영양소와 맛이 손상되지 않도록 탱크에 온도를 설정해준다.
+  - 공정 2단계는 원료의 [측량](../Page/측량.md "wikilink"), 조합 등의 자동제어로 진행되는 곳에서 공급된 원료를 대형 탱크에서 조합하여 섞는다. 여기에서 오로나민C의 성분인 [비타민](../Page/비타민.md "wikilink"), [아미노산](../Page/아미노산.md "wikilink") 등을 컴퓨터에 세팅된 배합률에 따라 섞는다. 영양소와 맛이 손상되지 않도록 탱크에 온도를 설정해준다.
 
 <!-- end list -->
 
@@ -43,18 +43,18 @@
 
 ### 광고 모델
 
-  - 2015년 [전현무](https://ko.wikipedia.org/wiki/전현무 "wikilink"), [강민경](https://ko.wikipedia.org/wiki/강민경 "wikilink")
-  - 2016년 [전현무](https://ko.wikipedia.org/wiki/전현무 "wikilink"), [홍진영](https://ko.wikipedia.org/wiki/홍진영 "wikilink")
-  - 2017년 [전현무](https://ko.wikipedia.org/wiki/전현무 "wikilink"), [나라](https://ko.wikipedia.org/wiki/나라_\(가수\) "wikilink")([헬로비너스](https://ko.wikipedia.org/wiki/헬로비너스 "wikilink"))
-  - 2018년 [전현무](https://ko.wikipedia.org/wiki/전현무 "wikilink"), [경리](https://ko.wikipedia.org/wiki/경리_\(가수\) "wikilink")([나인뮤지스](https://ko.wikipedia.org/wiki/나인뮤지스 "wikilink")), [황제성](https://ko.wikipedia.org/wiki/황제성 "wikilink")
-  - 2019년 [헨리](https://ko.wikipedia.org/wiki/헨리_\(가수\) "wikilink")
+  - 2015년 [전현무](../Page/전현무.md "wikilink"), [강민경](../Page/강민경.md "wikilink")
+  - 2016년 [전현무](../Page/전현무.md "wikilink"), [홍진영](../Page/홍진영.md "wikilink")
+  - 2017년 [전현무](../Page/전현무.md "wikilink"), [나라](https://ko.wikipedia.org/wiki/나라_\(가수\) "wikilink")([헬로비너스](../Page/헬로비너스.md "wikilink"))
+  - 2018년 [전현무](../Page/전현무.md "wikilink"), [경리](../Page/경리_\(가수\).md "wikilink")([나인뮤지스](../Page/나인뮤지스.md "wikilink")), [황제성](../Page/황제성.md "wikilink")
+  - 2019년 [헨리](../Page/헨리_\(가수\).md "wikilink")
 
 ## 참조
 
 ## 같이 보기
 
   - 컨피던스
-  - [포카리 스웨트](https://ko.wikipedia.org/wiki/포카리_스웨트 "wikilink")
+  - [포카리 스웨트](../Page/포카리_스웨트.md "wikilink")
 
 [분류:에너지 음료](https://ko.wikipedia.org/wiki/분류:에너지_음료 "wikilink") [분류:1965년 도입](https://ko.wikipedia.org/wiki/분류:1965년_도입 "wikilink") [분류:일본의 음료](https://ko.wikipedia.org/wiki/분류:일본의_음료 "wikilink")
 

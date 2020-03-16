@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Anchor](https://ko.wikipedia.org/wiki/The_Anchor).
 
 
-《**The Anchor**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [음악가](https://ko.wikipedia.org/wiki/음악가 "wikilink") [셔틀루프](https://ko.wikipedia.org/wiki/셔틀루프 "wikilink")의 첫 번째 정규 음반이다.\[1\] 수록곡은 총 여덟 곡으로 구성되어 있으며, [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [9월 9일](https://ko.wikipedia.org/wiki/9월_9일 "wikilink") 발매되었다.\[2\]
+《**The Anchor**》는 [대한민국](../Page/대한민국.md "wikilink")의 [음악가](https://ko.wikipedia.org/wiki/음악가 "wikilink") [셔틀루프](../Page/셔틀루프.md "wikilink")의 첫 번째 정규 음반이다.\[1\] 수록곡은 총 여덟 곡으로 구성되어 있으며, [2015년](../Page/2015년.md "wikilink") [9월 9일](../Page/9월_9일.md "wikilink") 발매되었다.\[2\]
 
 ## 수록곡
 

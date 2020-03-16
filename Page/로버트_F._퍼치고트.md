@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ F. ](https://ko.wikipedia.org/wiki/_F._).
 
 
-**로버트 프랜시스 퍼치고트**(, [1916년](https://ko.wikipedia.org/wiki/1916년 "wikilink") [6월 4일](https://ko.wikipedia.org/wiki/6월_4일 "wikilink") \~ [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [5월 19일](https://ko.wikipedia.org/wiki/5월_19일 "wikilink"))는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [생화학](https://ko.wikipedia.org/wiki/생화학 "wikilink")자이다. 1998년에 [포유류](https://ko.wikipedia.org/wiki/포유류 "wikilink")계에서 일시적인 세포 신호로서의 [일산화 질소를](https://ko.wikipedia.org/wiki/일산화_질소 "wikilink") 발견한 공로로 [루이스 이그나로](https://ko.wikipedia.org/wiki/루이스_이그나로 "wikilink"), [페리드 뮤라드와](https://ko.wikipedia.org/wiki/페리드_뮤라드 "wikilink") 함께 [노벨 생리학·의학상을](https://ko.wikipedia.org/wiki/노벨_생리학·의학상 "wikilink") 수상했다.
+**로버트 프랜시스 퍼치고트**(, [1916년](../Page/1916년.md "wikilink") [6월 4일](../Page/6월_4일.md "wikilink") \~ [2009년](../Page/2009년.md "wikilink") [5월 19일](../Page/5월_19일.md "wikilink"))는 [미국](../Page/미국.md "wikilink")의 [생화학](https://ko.wikipedia.org/wiki/생화학 "wikilink")자이다. 1998년에 [포유류](../Page/포유류.md "wikilink")계에서 일시적인 세포 신호로서의 [일산화 질소를](../Page/일산화_질소.md "wikilink") 발견한 공로로 [루이스 이그나로](../Page/루이스_이그나로.md "wikilink"), [페리드 뮤라드와](../Page/페리드_뮤라드.md "wikilink") 함께 [노벨 생리학·의학상을](../Page/노벨_생리학·의학상.md "wikilink") 수상했다.
 
 ## 학력
 
