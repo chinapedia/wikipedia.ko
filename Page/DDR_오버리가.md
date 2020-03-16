@@ -12,13 +12,13 @@
 <td><p><strong>설립연도</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/1948년" title="wikilink">1948년</a></p></td>
+<td><p><a href="../Page/1948년.md" title="wikilink">1948년</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>폐지연도</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/1991년" title="wikilink">1991년</a></p></td>
+<td><p><a href="../Page/1991년.md" title="wikilink">1991년</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>하위리그</strong></p></td>
@@ -74,15 +74,15 @@
 </tbody>
 </table>
 
-**DDR 오버리가**()는 [독일](https://ko.wikipedia.org/wiki/독일 "wikilink")의 통일 이전 [동독](https://ko.wikipedia.org/wiki/동독 "wikilink")의 축구 리그였다.
+**DDR 오버리가**()는 [독일](../Page/독일.md "wikilink")의 통일 이전 [동독](../Page/동독.md "wikilink")의 축구 리그였다.
 
 ## 개요
 
-[제2차 세계 대전이](https://ko.wikipedia.org/wiki/제2차_세계_대전 "wikilink") 끝난 후, [독일](https://ko.wikipedia.org/wiki/독일 "wikilink")은 [동독](https://ko.wikipedia.org/wiki/동독 "wikilink")과 [서독](https://ko.wikipedia.org/wiki/서독 "wikilink")으로 분할되었다. 그러면서 동시에 [나치 독일](https://ko.wikipedia.org/wiki/나치_독일 "wikilink") 당시 있었던 프로 축구 리그 [가울리가](../Page/가울리가.md "wikilink")가 폐지되었고, [동독](https://ko.wikipedia.org/wiki/동독 "wikilink")과 [서독](https://ko.wikipedia.org/wiki/서독 "wikilink")에 독립된 2개의 프로 축구 리그가 생겨나게 된다. 이 중 [동독](https://ko.wikipedia.org/wiki/동독 "wikilink")에 출범한 프로 축구 리그가 바로 **DDR 오버리가**이다. 1948년 **DS 오버리가**라는 명칭으로 출범한 후 1958년 **DDR 오버리가**로 명칭이 바뀌었다. 첫 4시즌 동안에는 17개에서 19개의 팀이 3개 또는 4개로 나뉜 리그에 참가하였다. [1949-50](https://ko.wikipedia.org/wiki/1949-50_DDR_오버리가 "wikilink") 시즌에는 14개의 팀이 2개로 나뉜 리그에 참가했다. 그리고 [1954-55](https://ko.wikipedia.org/wiki/1954-55_DDR_오버리가 "wikilink") 시즌부터는 14개의 팀이 2개로 나뉜 리그에 참가하였다.
+[제2차 세계 대전이](../Page/제2차_세계_대전.md "wikilink") 끝난 후, [독일](../Page/독일.md "wikilink")은 [동독](../Page/동독.md "wikilink")과 [서독](../Page/서독.md "wikilink")으로 분할되었다. 그러면서 동시에 [나치 독일](../Page/나치_독일.md "wikilink") 당시 있었던 프로 축구 리그 [가울리가](../Page/가울리가.md "wikilink")가 폐지되었고, [동독](../Page/동독.md "wikilink")과 [서독](../Page/서독.md "wikilink")에 독립된 2개의 프로 축구 리그가 생겨나게 된다. 이 중 [동독](../Page/동독.md "wikilink")에 출범한 프로 축구 리그가 바로 **DDR 오버리가**이다. 1948년 **DS 오버리가**라는 명칭으로 출범한 후 1958년 **DDR 오버리가**로 명칭이 바뀌었다. 첫 4시즌 동안에는 17개에서 19개의 팀이 3개 또는 4개로 나뉜 리그에 참가하였다. [1949-50](https://ko.wikipedia.org/wiki/1949-50_DDR_오버리가 "wikilink") 시즌에는 14개의 팀이 2개로 나뉜 리그에 참가했다. 그리고 [1954-55](https://ko.wikipedia.org/wiki/1954-55_DDR_오버리가 "wikilink") 시즌부터는 14개의 팀이 2개로 나뉜 리그에 참가하였다.
 
-DDR 오버리가는 전통적으로 가을-봄 시즌으로 나뉘어 행해졌다. 1956년부터 1960년까지는 [소련](https://ko.wikipedia.org/wiki/소련 "wikilink")의 영향을 받아 봄-가을 시즌이 행해졌는데, 1961-62시즌부터 다시 가을-봄 시즌으로 돌아갔다. 시즌 진행 경기 수는 26경기에서 39경기로 늘어났고, 클럽들은 홈, 어웨이와 중립지역에서 총 3번 만나 경기를 했다.
+DDR 오버리가는 전통적으로 가을-봄 시즌으로 나뉘어 행해졌다. 1956년부터 1960년까지는 [소련](../Page/소련.md "wikilink")의 영향을 받아 봄-가을 시즌이 행해졌는데, 1961-62시즌부터 다시 가을-봄 시즌으로 돌아갔다. 시즌 진행 경기 수는 26경기에서 39경기로 늘어났고, 클럽들은 홈, 어웨이와 중립지역에서 총 3번 만나 경기를 했다.
 
-DDR 오버리가의 마지막 시즌은 [1990-91](https://ko.wikipedia.org/wiki/1990-91_DDR_오버리가 "wikilink") 시즌이었는데, [독일의 통일](https://ko.wikipedia.org/wiki/독일의_재통일 "wikilink") 때문이었다. 때문에 DDR 오버리가 클럽들은 서독 축구 리그에 편입되어 참가하게 되었다. 이 중 서독 최상위 리그였던 [푸스발-분데스리가](https://ko.wikipedia.org/wiki/푸스발-분데스리가 "wikilink")에 참가한 클럽은 마지막 시즌 우승팀 [한자 로스토크와](https://ko.wikipedia.org/wiki/한자_로스토크 "wikilink") 준우승 [디나모 드레스덴이었다](https://ko.wikipedia.org/wiki/디나모_드레스덴 "wikilink").
+DDR 오버리가의 마지막 시즌은 [1990-91](https://ko.wikipedia.org/wiki/1990-91_DDR_오버리가 "wikilink") 시즌이었는데, [독일의 통일](../Page/독일의_재통일.md "wikilink") 때문이었다. 때문에 DDR 오버리가 클럽들은 서독 축구 리그에 편입되어 참가하게 되었다. 이 중 서독 최상위 리그였던 [푸스발-분데스리가](https://ko.wikipedia.org/wiki/푸스발-분데스리가 "wikilink")에 참가한 클럽은 마지막 시즌 우승팀 [한자 로스토크와](https://ko.wikipedia.org/wiki/한자_로스토크 "wikilink") 준우승 [디나모 드레스덴이었다](https://ko.wikipedia.org/wiki/디나모_드레스덴 "wikilink").
 
 ## DDR 오버리가 역대 우승 팀
 
@@ -281,7 +281,7 @@ DDR 오버리가의 마지막 시즌은 [1990-91](https://ko.wikipedia.org/wiki/
 
 ## 분리 및 편입
 
-1990년의 [통독](https://ko.wikipedia.org/wiki/통독 "wikilink")으로 인해 1991년 'DDR 오버리가'가 폐지되면서 [동독의](https://ko.wikipedia.org/wiki/독일민주공화국 "wikilink") 축구 팀들은 [서독](https://ko.wikipedia.org/wiki/서독 "wikilink")의 리그에 편입되어 참가하여야 하는 상황이 발생했다. 이로 인해 [동독의](https://ko.wikipedia.org/wiki/독일민주공화국 "wikilink") 팀들은 서독 리그에 참가하게 된다. 편입되어 참가하는 리그는 [1990-91 DDR 오버리가](https://ko.wikipedia.org/wiki/1990-91_DDR_오버리가 "wikilink") 순위 및 성적에 의해 결정된다. [1990-91 DDR 오버리가](https://ko.wikipedia.org/wiki/1990-91_DDR_오버리가 "wikilink") 우승팀이었던 [한자 로스토크와](https://ko.wikipedia.org/wiki/한자_로스토크 "wikilink") 준우승 팀 [디나모 드레스덴이](https://ko.wikipedia.org/wiki/디나모_드레스덴 "wikilink") [서독 분데스리가로](https://ko.wikipedia.org/wiki/푸스발-분데스리가 "wikilink") 넘어가 참가하게 되었다.
+1990년의 [통독](https://ko.wikipedia.org/wiki/통독 "wikilink")으로 인해 1991년 'DDR 오버리가'가 폐지되면서 [동독의](https://ko.wikipedia.org/wiki/독일민주공화국 "wikilink") 축구 팀들은 [서독](../Page/서독.md "wikilink")의 리그에 편입되어 참가하여야 하는 상황이 발생했다. 이로 인해 [동독의](https://ko.wikipedia.org/wiki/독일민주공화국 "wikilink") 팀들은 서독 리그에 참가하게 된다. 편입되어 참가하는 리그는 [1990-91 DDR 오버리가](https://ko.wikipedia.org/wiki/1990-91_DDR_오버리가 "wikilink") 순위 및 성적에 의해 결정된다. [1990-91 DDR 오버리가](https://ko.wikipedia.org/wiki/1990-91_DDR_오버리가 "wikilink") 우승팀이었던 [한자 로스토크와](https://ko.wikipedia.org/wiki/한자_로스토크 "wikilink") 준우승 팀 [디나모 드레스덴이](https://ko.wikipedia.org/wiki/디나모_드레스덴 "wikilink") [서독 분데스리가로](https://ko.wikipedia.org/wiki/푸스발-분데스리가 "wikilink") 넘어가 참가하게 되었다.
 
 | 편입 리그                                                                        | 팀                                                                                                                                                                                                                                                                                                                                                                   |
 | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

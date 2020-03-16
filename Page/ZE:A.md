@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ZE:A](https://ko.wikipedia.org/wiki/ZE:A).
 
 
-**ZE:A**(제국의 아이들)은 [스타제국](https://ko.wikipedia.org/wiki/스타제국 "wikilink") 소속의 9인조 남성 그룹이다. 2009년 10월부터 전국 각지를 돌며 50곳에서 게릴라 콘서트를 하고, 2010년 1월 7일에 첫 번째 싱글 《Nativity》을 발매하였다. 2010년 1월 13일 쇼케이스를 열었으며, 2010년 1월 15일에 [KBS 2TV](../Page/KBS_2TV.md "wikilink") [뮤직뱅크](../Page/뮤직뱅크.md "wikilink")로 데뷔를 하였다.
+**ZE:A**(제국의 아이들)은 [스타제국](../Page/스타제국.md "wikilink") 소속의 9인조 남성 그룹이다. 2009년 10월부터 전국 각지를 돌며 50곳에서 게릴라 콘서트를 하고, 2010년 1월 7일에 첫 번째 싱글 《Nativity》을 발매하였다. 2010년 1월 13일 쇼케이스를 열었으며, 2010년 1월 15일에 [KBS 2TV](../Page/KBS_2TV.md "wikilink") [뮤직뱅크](../Page/뮤직뱅크.md "wikilink")로 데뷔를 하였다.
 
 2017년 4월 12일 스타제국과 계약 만료 후 모든 멤버들이 재계약하지 않으면서 해체했다. 멤버들 중 [문준영](../Page/문준영.md "wikilink")은 공연기획자로 전향했으며, [김동준](../Page/김동준_\(가수\).md "wikilink"), [임시완](../Page/임시완.md "wikilink"), [박형식](../Page/박형식.md "wikilink")은 배우로 전향했다.
 
@@ -268,7 +268,7 @@
   - [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") [영도다리를 건너다](../Page/영도다리를_건너다.md "wikilink") (2011년 2월 4일) - 오지훈 역 (김동준 출연)
   - [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") [강력반](../Page/강력반_\(2011년_드라마\).md "wikilink") (2011년 3월 9일) - 천상현수 역 (황광희 출연)
   - [CGV](https://ko.wikipedia.org/wiki/CGV "wikilink") [소녀K](https://ko.wikipedia.org/wiki/소녀K "wikilink") (2011년 8월 27일) - 고영민 역 (김동준 출연)
-  - [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") [포세이돈](https://ko.wikipedia.org/wiki/포세이돈 "wikilink") (2011년 9월 19일) - 차현승 역 (문준영 출연)
+  - [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") [포세이돈](../Page/포세이돈.md "wikilink") (2011년 9월 19일) - 차현승 역 (문준영 출연)
   - [MBN](https://ko.wikipedia.org/wiki/MBN "wikilink") [뱀파이어 아이돌](../Page/뱀파이어_아이돌.md "wikilink") (2011년 12월 5일) - 광희 역 (황광희 출연)
   - [SBS](../Page/SBS.md "wikilink") [널 기억해](https://ko.wikipedia.org/wiki/널_기억해 "wikilink") (2012년 1월 20일) - 태성 역 (박형식 출연)
   - [SBS](../Page/SBS.md "wikilink") [도롱뇽도사와 그림자 조작단](../Page/도롱뇽도사와_그림자_조작단.md "wikilink") (2012년 2월 10일) - 취업준비생 역(광희 카메오 출연)
@@ -308,7 +308,7 @@
 
 ## 논란
 
-  - '제국의 아이들'은 데뷔 당시 그룹명을 '제아'로 정하였다. 하지만 이 사실이 온라인상에 알려지자 [브라운 아이드 걸스의](../Page/브라운_아이드_걸스.md "wikilink") 리더 [제아](../Page/제아.md "wikilink")랑 이름이 같다는 이유로 네티즌들은 [스타제국](https://ko.wikipedia.org/wiki/스타제국 "wikilink")에 항의하는 논란이 일었다.\[1\] 그 후, 2010년 1월 8일 [스타제국](https://ko.wikipedia.org/wiki/스타제국 "wikilink")은 결국 'ZE:A'란 명칭은 유지하되, '제국의아이들' 이라고 읽는다고 공식 발표했다.\[2\] 하지만, 'ZE:A'는 발음상 누가봐도 '제아'로 읽는다며 논란은 식히지 않고 있다. 그 후, 2010년 1월 25일 [브라운 아이드 걸스의](../Page/브라운_아이드_걸스.md "wikilink") 소속사인 [내가 네트워크과](https://ko.wikipedia.org/wiki/내가_네트워크 "wikilink") [스타제국](https://ko.wikipedia.org/wiki/스타제국 "wikilink")에서는 이러한 혼선을 방지하고자 그룹명 표기를 '제국의아이들'로 표기하기로 [내가 네트워크와](https://ko.wikipedia.org/wiki/내가_네트워크 "wikilink") 이미 합의가 된 상태라고 발표되었다.\[3\]
+  - '제국의 아이들'은 데뷔 당시 그룹명을 '제아'로 정하였다. 하지만 이 사실이 온라인상에 알려지자 [브라운 아이드 걸스의](../Page/브라운_아이드_걸스.md "wikilink") 리더 [제아](../Page/제아.md "wikilink")랑 이름이 같다는 이유로 네티즌들은 [스타제국](../Page/스타제국.md "wikilink")에 항의하는 논란이 일었다.\[1\] 그 후, 2010년 1월 8일 [스타제국](../Page/스타제국.md "wikilink")은 결국 'ZE:A'란 명칭은 유지하되, '제국의아이들' 이라고 읽는다고 공식 발표했다.\[2\] 하지만, 'ZE:A'는 발음상 누가봐도 '제아'로 읽는다며 논란은 식히지 않고 있다. 그 후, 2010년 1월 25일 [브라운 아이드 걸스의](../Page/브라운_아이드_걸스.md "wikilink") 소속사인 [내가 네트워크과](https://ko.wikipedia.org/wiki/내가_네트워크 "wikilink") [스타제국](../Page/스타제국.md "wikilink")에서는 이러한 혼선을 방지하고자 그룹명 표기를 '제국의아이들'로 표기하기로 [내가 네트워크와](https://ko.wikipedia.org/wiki/내가_네트워크 "wikilink") 이미 합의가 된 상태라고 발표되었다.\[3\]
 
 ## 각주
 

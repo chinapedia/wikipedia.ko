@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FIFA 10](https://ko.wikipedia.org/wiki/FIFA_10).
 
 
-**FIFA 10**(FIFA 10)는 [일렉트로닉 아츠가](https://ko.wikipedia.org/wiki/일렉트로닉_아츠 "wikilink") [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")에 출시한 스포츠 게임 소프트웨어이다. 발매된 기종으로는 [PS3](https://ko.wikipedia.org/wiki/PS3 "wikilink"), [Xbox 360](https://ko.wikipedia.org/wiki/Xbox_360 "wikilink"), [Wii](https://ko.wikipedia.org/wiki/Wii "wikilink"), [PC](https://ko.wikipedia.org/wiki/개인용_컴퓨터 "wikilink"), [PS2](https://ko.wikipedia.org/wiki/PS2 "wikilink"), [닌텐도 DS](https://ko.wikipedia.org/wiki/닌텐도_DS "wikilink"), [PSP](https://ko.wikipedia.org/wiki/플레이스테이션_포터블 "wikilink"), [아이폰 OS](https://ko.wikipedia.org/wiki/아이폰_OS "wikilink") 앱, [안드로이드 OS](../Page/안드로이드_\(운영_체제\).md "wikilink") 앱이 있다.
+**FIFA 10**(FIFA 10)는 [일렉트로닉 아츠가](../Page/일렉트로닉_아츠.md "wikilink") [2009년](../Page/2009년.md "wikilink")에 출시한 스포츠 게임 소프트웨어이다. 발매된 기종으로는 [PS3](https://ko.wikipedia.org/wiki/PS3 "wikilink"), [Xbox 360](https://ko.wikipedia.org/wiki/Xbox_360 "wikilink"), [Wii](../Page/Wii.md "wikilink"), [PC](../Page/개인용_컴퓨터.md "wikilink"), [PS2](https://ko.wikipedia.org/wiki/PS2 "wikilink"), [닌텐도 DS](../Page/닌텐도_DS.md "wikilink"), [PSP](../Page/플레이스테이션_포터블.md "wikilink"), [아이폰 OS](https://ko.wikipedia.org/wiki/아이폰_OS "wikilink") 앱, [안드로이드 OS](../Page/안드로이드_\(운영_체제\).md "wikilink") 앱이 있다.
 
 ## 같이 보기
 

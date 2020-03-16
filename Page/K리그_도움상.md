@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [K ](https://ko.wikipedia.org/wiki/K_).
 
 
-역대 [K리그](../Page/K리그.md "wikilink")와 [리그컵](../Page/리그컵_\(대한민국\).md "wikilink"), [R리그](https://ko.wikipedia.org/wiki/R리그 "wikilink")에서 도움상을 수상한 선수들의 명단이다.
+역대 [K리그](../Page/K리그.md "wikilink")와 [리그컵](../Page/리그컵_\(대한민국\).md "wikilink"), [R리그](../Page/R리그.md "wikilink")에서 도움상을 수상한 선수들의 명단이다.
 
 ## [K리그1](https://ko.wikipedia.org/wiki/K리그1 "wikilink") 수상자 (1983–현재)
 
@@ -19,7 +19,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_1983" title="wikilink">1983</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/박창선" title="wikilink">박창선</a></p></td>
+<td><p><a href="../Page/박창선.md" title="wikilink">박창선</a></p></td>
 <td><p><a href="../Page/할렐루야_축구단.md" title="wikilink">할렐루야 독수리</a></p></td>
 <td><div style="text-align: center;">
 <p>6</p></td>
@@ -31,7 +31,7 @@
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_1984" title="wikilink">1984</a></p></td>
 <td><p><a href="../Page/로프_란스베르헌.md" title="wikilink">렌스베르겐</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/울산_현대_축구단" title="wikilink">현대 호랑이</a></p></td>
+<td><p><a href="../Page/울산_현대_축구단.md" title="wikilink">현대 호랑이</a></p></td>
 <td><div style="text-align: center;">
 <p>9</p></td>
 <td><div style="text-align: center;">
@@ -52,7 +52,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_1986" title="wikilink">1986</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/강득수" title="wikilink">강득수</a></p></td>
+<td><p><a href="../Page/강득수.md" title="wikilink">강득수</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">럭키금성 황소</a></p></td>
 <td><div style="text-align: center;">
 <p>8</p></td>
@@ -64,7 +64,7 @@
 <tr class="odd">
 <td><p><a href="../Page/K리그_1987.md" title="wikilink">1987</a></p></td>
 <td><p><a href="../Page/최상국.md" title="wikilink">최상국</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/포항_스틸러스" title="wikilink">포항제철 아톰즈</a></p></td>
+<td><p><a href="../Page/포항_스틸러스.md" title="wikilink">포항제철 아톰즈</a></p></td>
 <td><div style="text-align: center;">
 <p>8</p></td>
 <td><div style="text-align: center;">
@@ -75,7 +75,7 @@
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_1988" title="wikilink">1988</a></p></td>
 <td><p><a href="../Page/김종부_(축구인).md" title="wikilink">김종부</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/포항_스틸러스" title="wikilink">포항제철 아톰즈</a></p></td>
+<td><p><a href="../Page/포항_스틸러스.md" title="wikilink">포항제철 아톰즈</a></p></td>
 <td><div style="text-align: center;">
 <p>5</p></td>
 <td><div style="text-align: center;">
@@ -86,7 +86,7 @@
 <tr class="odd">
 <td><p><a href="../Page/K리그_1989.md" title="wikilink">1989</a></p></td>
 <td><p><a href="../Page/이흥실.md" title="wikilink">이흥실</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/포항_스틸러스" title="wikilink">포항제철 아톰즈</a></p></td>
+<td><p><a href="../Page/포항_스틸러스.md" title="wikilink">포항제철 아톰즈</a></p></td>
 <td><div style="text-align: center;">
 <p>11</p></td>
 <td><div style="text-align: center;">
@@ -96,7 +96,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_1990" title="wikilink">1990</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/최대식" title="wikilink">최대식</a><sup>1</sup></p></td>
+<td><p><a href="../Page/최대식.md" title="wikilink">최대식</a><sup>1</sup></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">럭키금성 황소</a></p></td>
 <td><div style="text-align: center;">
 <p>7</p></td>
@@ -108,7 +108,7 @@
 <tr class="odd">
 <td><p><a href="../Page/K리그_1991.md" title="wikilink">1991</a></p></td>
 <td><p><a href="../Page/김준현_(축구인).md" title="wikilink">김준현</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/제주_유나이티드_FC" title="wikilink">유공 코끼리</a></p></td>
+<td><p><a href="../Page/제주_유나이티드_FC.md" title="wikilink">유공 코끼리</a></p></td>
 <td><div style="text-align: center;">
 <p>8</p></td>
 <td><div style="text-align: center;">
@@ -119,7 +119,7 @@
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_1992" title="wikilink">1992</a></p></td>
 <td><p><a href="../Page/신동철.md" title="wikilink">신동철</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/제주_유나이티드_FC" title="wikilink">유공 코끼리</a></p></td>
+<td><p><a href="../Page/제주_유나이티드_FC.md" title="wikilink">유공 코끼리</a></p></td>
 <td><div style="text-align: center;">
 <p>8</p></td>
 <td><div style="text-align: center;">
@@ -152,7 +152,7 @@
 <tr class="odd">
 <td><p><a href="../Page/K리그_1995.md" title="wikilink">1995</a></p></td>
 <td><p><a href="../Page/아미르_텔리고비치.md" title="wikilink">아미르</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/부산_아이파크" title="wikilink">대우 로얄즈</a></p></td>
+<td><p><a href="../Page/부산_아이파크.md" title="wikilink">대우 로얄즈</a></p></td>
 <td><div style="text-align: center;">
 <p>7</p></td>
 <td><div style="text-align: center;">
@@ -163,7 +163,7 @@
 <tr class="even">
 <td><p><a href="../Page/K리그_1996.md" title="wikilink">1996</a></p></td>
 <td><p><a href="../Page/라데_보그다노비치.md" title="wikilink">라데</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/포항_스틸러스" title="wikilink">포항 아톰즈</a></p></td>
+<td><p><a href="../Page/포항_스틸러스.md" title="wikilink">포항 아톰즈</a></p></td>
 <td><div style="text-align: center;">
 <p>14</p></td>
 <td><div style="text-align: center;">
@@ -174,7 +174,7 @@
 <tr class="odd">
 <td><p><a href="../Page/K리그_1997.md" title="wikilink">1997</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/데니스_락티오노프" title="wikilink">데니스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/수원_삼성_블루윙즈" title="wikilink">수원 삼성 블루윙즈</a></p></td>
+<td><p><a href="../Page/수원_삼성_블루윙즈.md" title="wikilink">수원 삼성 블루윙즈</a></p></td>
 <td><div style="text-align: center;">
 <p>5</p></td>
 <td><div style="text-align: center;">
@@ -185,7 +185,7 @@
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_1998" title="wikilink">1998</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/정정수" title="wikilink">정정수</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/울산_현대_축구단" title="wikilink">울산 현대 호랑이</a></p></td>
+<td><p><a href="../Page/울산_현대_축구단.md" title="wikilink">울산 현대 호랑이</a></p></td>
 <td><div style="text-align: center;">
 <p>9</p></td>
 <td><div style="text-align: center;">
@@ -217,8 +217,8 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_2001" title="wikilink">2001</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/조란_우루모브" title="wikilink">우르모브</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/부산_아이파크" title="wikilink">부산 아이콘스</a></p></td>
+<td><p><a href="../Page/조란_우루모브.md" title="wikilink">우르모브</a></p></td>
+<td><p><a href="../Page/부산_아이파크.md" title="wikilink">부산 아이콘스</a></p></td>
 <td><div style="text-align: center;">
 <p>10</p></td>
 <td><div style="text-align: center;">
@@ -228,8 +228,8 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_2002" title="wikilink">2002</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이천수" title="wikilink">이천수</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/울산_현대_축구단" title="wikilink">울산 현대 호랑이</a></p></td>
+<td><p><a href="../Page/이천수.md" title="wikilink">이천수</a></p></td>
+<td><p><a href="../Page/울산_현대_축구단.md" title="wikilink">울산 현대 호랑이</a></p></td>
 <td><div style="text-align: center;">
 <p>9</p></td>
 <td><div style="text-align: center;">
@@ -284,7 +284,7 @@
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_2007" title="wikilink">2007</a></p></td>
 <td><p><a href="../Page/안드레_루이스_타바레스.md" title="wikilink">따바레즈</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/포항_스틸러스" title="wikilink">포항 스틸러스</a></p></td>
+<td><p><a href="../Page/포항_스틸러스.md" title="wikilink">포항 스틸러스</a></p></td>
 <td><div style="text-align: center;">
 <p>11</p></td>
 <td><div style="text-align: center;">
@@ -295,7 +295,7 @@
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_2008" title="wikilink">2008</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/크리스티아누_페헤이라_지_소자" title="wikilink">브라질리아</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/울산_현대_축구단" title="wikilink">울산 현대</a></p></td>
+<td><p><a href="../Page/울산_현대_축구단.md" title="wikilink">울산 현대</a></p></td>
 <td><div style="text-align: center;">
 <p>6</p></td>
 <td><div style="text-align: center;">
@@ -305,7 +305,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_2009" title="wikilink">2009</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/루이스_엔리케_다_시우바_아우베스" title="wikilink">루이스</a></p></td>
+<td><p><a href="../Page/루이스_엔리케_다_시우바_아우베스.md" title="wikilink">루이스</a></p></td>
 <td><p><a href="../Page/전북_현대_모터스.md" title="wikilink">전북 현대 모터스</a></p></td>
 <td><div style="text-align: center;">
 <p>12</p></td>
@@ -317,7 +317,7 @@
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_2010" title="wikilink">2010</a></p></td>
 <td><p><a href="../Page/구자철.md" title="wikilink">구자철</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/제주_유나이티드_FC" title="wikilink">제주 유나이티드</a></p></td>
+<td><p><a href="../Page/제주_유나이티드_FC.md" title="wikilink">제주 유나이티드</a></p></td>
 <td><div style="text-align: center;">
 <p>11</p></td>
 <td><div style="text-align: center;">
@@ -372,7 +372,7 @@
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_클래식_2015" title="wikilink">2015</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/염기훈" title="wikilink">염기훈</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/수원_삼성_블루윙즈" title="wikilink">수원 삼성 블루윙즈</a></p></td>
+<td><p><a href="../Page/수원_삼성_블루윙즈.md" title="wikilink">수원 삼성 블루윙즈</a></p></td>
 <td><div style="text-align: center;">
 <p>17</p></td>
 <td><div style="text-align: center;">
@@ -383,7 +383,7 @@
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_클래식_2016" title="wikilink">2016</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/염기훈" title="wikilink">염기훈</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/수원_삼성_블루윙즈" title="wikilink">수원 삼성 블루윙즈</a></p></td>
+<td><p><a href="../Page/수원_삼성_블루윙즈.md" title="wikilink">수원 삼성 블루윙즈</a></p></td>
 <td><div style="text-align: center;">
 <p>15</p></td>
 <td><div style="text-align: center;">
@@ -394,7 +394,7 @@
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_클래식_2017" title="wikilink">2017</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/손준호_(축구_선수)" title="wikilink">손준호</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/포항_스틸러스" title="wikilink">포항 스틸러스</a></p></td>
+<td><p><a href="../Page/포항_스틸러스.md" title="wikilink">포항 스틸러스</a></p></td>
 <td><div style="text-align: center;">
 <p>14</p></td>
 <td><div style="text-align: center;">
@@ -431,7 +431,7 @@
   - 1983 시즌부터 1996 시즌까지의 [챔피언결정전의](../Page/K리그_챔피언십.md "wikilink") 도움수는 당시 대회들이 번외처리가 되어 합산되지 않았으며 1998 시즌부터 2006 시즌까지는 기존 정규리그에 포스트시즌인 [플레이오프를](../Page/K리그_챔피언십.md "wikilink") 포함한 도움수로 도움상 수상자를 결정하였다.
   - [6강 플레이오프 제도가](../Page/K리그_챔피언십.md "wikilink") 시작된 2007 시즌부터는 포스트시즌인 [플레이오프를](../Page/K리그_챔피언십.md "wikilink") 제외한 순수한 정규리그 도움수로만 도움상 수상자를 결정하고 있다.
 
-<sup>1</sup> [1990](https://ko.wikipedia.org/wiki/K리그_1990 "wikilink") 시즌은 [최대식](https://ko.wikipedia.org/wiki/최대식 "wikilink")과 [송주석](../Page/송주석.md "wikilink")이 도움수와 경기수까지 동일했지만 당시 골을 더 많이 넣은 선수가 도움상을 받는 규정에 의거해 최대식이 도움상을 수상했다.
+<sup>1</sup> [1990](https://ko.wikipedia.org/wiki/K리그_1990 "wikilink") 시즌은 [최대식](../Page/최대식.md "wikilink")과 [송주석](../Page/송주석.md "wikilink")이 도움수와 경기수까지 동일했지만 당시 골을 더 많이 넣은 선수가 도움상을 받는 규정에 의거해 최대식이 도움상을 수상했다.
 
 ## [K리그2](../Page/K리그2.md "wikilink") 수상자 (2013–현재)
 
@@ -483,7 +483,7 @@
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_챌린지_2016" title="wikilink">2016</a></p></td>
 <td><p><a href="../Page/이호석_(축구_선수).md" title="wikilink">이호석</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/경남_FC" title="wikilink">경남 FC</a></p></td>
+<td><p><a href="../Page/경남_FC.md" title="wikilink">경남 FC</a></p></td>
 <td><div style="text-align: center;">
 <p>10</p></td>
 <td><div style="text-align: center;">
@@ -505,7 +505,7 @@
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_챌린지_2018" title="wikilink">2018</a></p></td>
 <td><p><a href="../Page/호물루_조제_파셰쿠_다_시우바.md" title="wikilink">호물로</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/부산_아이파크" title="wikilink">부산 아이파크</a></p></td>
+<td><p><a href="../Page/부산_아이파크.md" title="wikilink">부산 아이파크</a></p></td>
 <td><div style="text-align: center;">
 <p>9</p></td>
 <td><div style="text-align: center;">
@@ -546,7 +546,7 @@
 <tr class="odd">
 <td><p><a href="../Page/프로축구선수권대회.md" title="wikilink">1986</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/전영수_(축구인)" title="wikilink">전영수</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/울산_현대_축구단" title="wikilink">현대 호랑이</a></p></td>
+<td><p><a href="../Page/울산_현대_축구단.md" title="wikilink">현대 호랑이</a></p></td>
 <td><div style="text-align: center;">
 <p>4</p></td>
 <td><div style="text-align: center;">
@@ -557,7 +557,7 @@
 <tr class="even">
 <td><p><a href="../Page/리그컵_1992.md" title="wikilink">1992</a></p></td>
 <td><p><a href="../Page/이기근.md" title="wikilink">이기근</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/포항_스틸러스" title="wikilink">포항제철 아톰즈</a></p></td>
+<td><p><a href="../Page/포항_스틸러스.md" title="wikilink">포항제철 아톰즈</a></p></td>
 <td><div style="text-align: center;">
 <p>3</p></td>
 <td><div style="text-align: center;">
@@ -568,7 +568,7 @@
 <tr class="odd">
 <td><p><a href="../Page/리그컵_1993.md" title="wikilink">1993</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/루벤_베르넌시오" title="wikilink">루벤</a><sup>1</sup></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/부산_아이파크" title="wikilink">대우 로얄즈</a></p></td>
+<td><p><a href="../Page/부산_아이파크.md" title="wikilink">대우 로얄즈</a></p></td>
 <td><div style="text-align: center;">
 <p>2</p></td>
 <td><div style="text-align: center;">
@@ -579,7 +579,7 @@
 <tr class="even">
 <td><p><a href="../Page/리그컵_1994.md" title="wikilink">1994</a></p></td>
 <td><p><a href="../Page/조정현_(축구인).md" title="wikilink">조정현</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/제주_유나이티드_FC" title="wikilink">유공 코끼리</a></p></td>
+<td><p><a href="../Page/제주_유나이티드_FC.md" title="wikilink">유공 코끼리</a></p></td>
 <td><div style="text-align: center;">
 <p>4</p></td>
 <td><div style="text-align: center;">
@@ -590,7 +590,7 @@
 <tr class="odd">
 <td><p><a href="../Page/리그컵_1995.md" title="wikilink">1995</a></p></td>
 <td><p><a href="../Page/윤정환.md" title="wikilink">윤정환</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/제주_유나이티드_FC" title="wikilink">유공 코끼리</a></p></td>
+<td><p><a href="../Page/제주_유나이티드_FC.md" title="wikilink">유공 코끼리</a></p></td>
 <td><div style="text-align: center;">
 <p>3</p></td>
 <td><div style="text-align: center;">
@@ -601,7 +601,7 @@
 <tr class="even">
 <td><p><a href="../Page/리그컵_1996.md" title="wikilink">1996</a></p></td>
 <td><p><a href="../Page/윤정환.md" title="wikilink">윤정환</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/제주_유나이티드_FC" title="wikilink">부천 유공</a></p></td>
+<td><p><a href="../Page/제주_유나이티드_FC.md" title="wikilink">부천 유공</a></p></td>
 <td><div style="text-align: center;">
 <p>3</p></td>
 <td><div style="text-align: center;">
@@ -612,7 +612,7 @@
 <tr class="odd">
 <td><p><a href="../Page/리그컵_1997.md" title="wikilink">1997</a></p></td>
 <td><p><a href="../Page/고종수.md" title="wikilink">고종수</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/수원_삼성_블루윙즈" title="wikilink">수원 삼성 블루윙즈</a></p></td>
+<td><p><a href="../Page/수원_삼성_블루윙즈.md" title="wikilink">수원 삼성 블루윙즈</a></p></td>
 <td><div style="text-align: center;">
 <p>4</p></td>
 <td><div style="text-align: center;">
@@ -634,7 +634,7 @@
 <tr class="odd">
 <td><p><a href="../Page/리그컵_1998.md" title="wikilink">1998</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/장철민" title="wikilink">장철민</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/울산_현대_축구단" title="wikilink">울산 현대 호랑이</a></p></td>
+<td><p><a href="../Page/울산_현대_축구단.md" title="wikilink">울산 현대 호랑이</a></p></td>
 <td><div style="text-align: center;">
 <p>3</p></td>
 <td><div style="text-align: center;">
@@ -645,7 +645,7 @@
 <tr class="even">
 <td><p><a href="../Page/리그컵_1998.md" title="wikilink">1998필</a></p></td>
 <td><p><a href="../Page/윤정환.md" title="wikilink">윤정환</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/제주_유나이티드_FC" title="wikilink">부천 SK</a></p></td>
+<td><p><a href="../Page/제주_유나이티드_FC.md" title="wikilink">부천 SK</a></p></td>
 <td><div style="text-align: center;">
 <p>4</p></td>
 <td><div style="text-align: center;">
@@ -656,7 +656,7 @@
 <tr class="odd">
 <td><p><a href="../Page/리그컵_1999.md" title="wikilink">1999</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/데니스_락티오노프" title="wikilink">데니스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/수원_삼성_블루윙즈" title="wikilink">수원 삼성 블루윙즈</a></p></td>
+<td><p><a href="../Page/수원_삼성_블루윙즈.md" title="wikilink">수원 삼성 블루윙즈</a></p></td>
 <td><div style="text-align: center;">
 <p>3</p></td>
 <td><div style="text-align: center;">
@@ -667,7 +667,7 @@
 <tr class="even">
 <td><p><a href="../Page/리그컵_1999.md" title="wikilink">1999대</a></p></td>
 <td><p><a href="../Page/조성환_(1970년).md" title="wikilink">조성환</a><sup>2</sup></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/제주_유나이티드_FC" title="wikilink">부천 SK</a></p></td>
+<td><p><a href="../Page/제주_유나이티드_FC.md" title="wikilink">부천 SK</a></p></td>
 <td><div style="text-align: center;">
 <p>4</p></td>
 <td><div style="text-align: center;">
@@ -678,7 +678,7 @@
 <tr class="odd">
 <td><p><a href="../Page/리그컵_2000.md" title="wikilink">2000</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/데니스_락티오노프" title="wikilink">데니스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/수원_삼성_블루윙즈" title="wikilink">수원 삼성 블루윙즈</a></p></td>
+<td><p><a href="../Page/수원_삼성_블루윙즈.md" title="wikilink">수원 삼성 블루윙즈</a></p></td>
 <td><div style="text-align: center;">
 <p>4</p></td>
 <td><div style="text-align: center;">
@@ -689,7 +689,7 @@
 <tr class="even">
 <td><p><a href="../Page/리그컵_2000.md" title="wikilink">2000대</a></p></td>
 <td><p><a href="../Page/전경준.md" title="wikilink">전경준</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/제주_유나이티드_FC" title="wikilink">부천 SK</a></p></td>
+<td><p><a href="../Page/제주_유나이티드_FC.md" title="wikilink">부천 SK</a></p></td>
 <td><div style="text-align: center;">
 <p>4</p></td>
 <td><div style="text-align: center;">
@@ -700,7 +700,7 @@
 <tr class="odd">
 <td><p><a href="../Page/리그컵_2001.md" title="wikilink">2001</a></p></td>
 <td><p><a href="../Page/라디보예_마니치.md" title="wikilink">마니치</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/부산_아이파크" title="wikilink">부산 아이콘스</a></p></td>
+<td><p><a href="../Page/부산_아이파크.md" title="wikilink">부산 아이콘스</a></p></td>
 <td><div style="text-align: center;">
 <p>5</p></td>
 <td><div style="text-align: center;">
@@ -731,7 +731,7 @@
 <tr class="even">
 <td><p><a href="../Page/리그컵_2004.md" title="wikilink">2004</a></p></td>
 <td><p><a href="../Page/안드레_루이스_타바레스.md" title="wikilink">따바레즈</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/포항_스틸러스" title="wikilink">포항 스틸러스</a></p></td>
+<td><p><a href="../Page/포항_스틸러스.md" title="wikilink">포항 스틸러스</a></p></td>
 <td><div style="text-align: center;">
 <p>5</p></td>
 <td><div style="text-align: center;">
@@ -774,8 +774,8 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/리그컵_2008.md" title="wikilink">2008</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/변성환" title="wikilink">변성환</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/제주_유나이티드_FC" title="wikilink">제주 유나이티드</a></p></td>
+<td><p><a href="../Page/변성환.md" title="wikilink">변성환</a></p></td>
+<td><p><a href="../Page/제주_유나이티드_FC.md" title="wikilink">제주 유나이티드</a></p></td>
 <td><div style="text-align: center;">
 <p>3</p></td>
 <td><div style="text-align: center;">
@@ -786,7 +786,7 @@
 <tr class="odd">
 <td><p><a href="../Page/리그컵_2009.md" title="wikilink">2009</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/조찬호" title="wikilink">조찬호</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/포항_스틸러스" title="wikilink">포항 스틸러스</a></p></td>
+<td><p><a href="../Page/포항_스틸러스.md" title="wikilink">포항 스틸러스</a></p></td>
 <td><div style="text-align: center;">
 <p>3</p></td>
 <td><div style="text-align: center;">
@@ -795,7 +795,7 @@
 <p>0.75</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/리그컵_2010" title="wikilink">2010</a></p></td>
+<td><p><a href="../Page/리그컵_2010.md" title="wikilink">2010</a></p></td>
 <td><p><a href="../Page/장남석.md" title="wikilink">장남석</a></p></td>
 <td><p><a href="../Page/대구_FC.md" title="wikilink">대구 FC</a></p></td>
 <td><div style="text-align: center;">
@@ -808,7 +808,7 @@
 <tr class="odd">
 <td><p><a href="../Page/리그컵_2011.md" title="wikilink">2011</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/최재수" title="wikilink">최재수</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/울산_현대_축구단" title="wikilink">울산 현대</a></p></td>
+<td><p><a href="../Page/울산_현대_축구단.md" title="wikilink">울산 현대</a></p></td>
 <td><div style="text-align: center;">
 <p>4</p></td>
 <td><div style="text-align: center;">
@@ -833,7 +833,7 @@
 <sup>1</sup> [1993 아디다스컵에는](https://ko.wikipedia.org/wiki/K리그컵_1993 "wikilink") 총 4명이 2도움 5경기로 동일하였지만 루벤이 이영진, 강재순, 노태경보다 출전 시간이 적어 도움상을 수상했다.
 <sup>2</sup> [1999 대한화재컵은](https://ko.wikipedia.org/wiki/K리그컵_1999 "wikilink") 조성환과 서혁수가 도움수와 경기수까지 동일했지만 연장전까지 뛰었던 서혁수보다 조성환이 출전 시간이 적어 도움상을 수상했다.
 
-## [R리그](https://ko.wikipedia.org/wiki/R리그 "wikilink") 수상자 (1990, 2000–2012)
+## [R리그](../Page/R리그.md "wikilink") 수상자 (1990, 2000–2012)
 
 <table>
 <thead>
@@ -861,7 +861,7 @@
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/R리그_2000" title="wikilink">2000</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/신종혁" title="wikilink">신종혁</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/포항_스틸러스" title="wikilink">포항 스틸러스</a></p></td>
+<td><p><a href="../Page/포항_스틸러스.md" title="wikilink">포항 스틸러스</a></p></td>
 <td><div style="text-align: center;">
 <p>6</p></td>
 <td><div style="text-align: center;">
@@ -872,7 +872,7 @@
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/R리그_2001" title="wikilink">2001</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/이정운_(1978년)" title="wikilink">이정운</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/포항_스틸러스" title="wikilink">포항 스틸러스</a></p></td>
+<td><p><a href="../Page/포항_스틸러스.md" title="wikilink">포항 스틸러스</a></p></td>
 <td><div style="text-align: center;">
 <p>5</p></td>
 <td><div style="text-align: center;">
@@ -894,7 +894,7 @@
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/R리그_2003" title="wikilink">2003</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/박원재" title="wikilink">박원재</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/포항_스틸러스" title="wikilink">포항 스틸러스</a></p></td>
+<td><p><a href="../Page/포항_스틸러스.md" title="wikilink">포항 스틸러스</a></p></td>
 <td><div style="text-align: center;">
 <p>4</p></td>
 <td><div style="text-align: center;">
@@ -916,7 +916,7 @@
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/R리그_2005" title="wikilink">2005</a></p></td>
 <td><p><a href="../Page/유현구.md" title="wikilink">유현구</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/제주_유나이티드_FC" title="wikilink">제주 유나이티드</a></p></td>
+<td><p><a href="../Page/제주_유나이티드_FC.md" title="wikilink">제주 유나이티드</a></p></td>
 <td><div style="text-align: center;">
 <p>8</p></td>
 <td><div style="text-align: center;">
@@ -938,7 +938,7 @@
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/R리그_2007" title="wikilink">2007</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/황진성_(축구_선수)" title="wikilink">황진성</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/포항_스틸러스" title="wikilink">포항 스틸러스</a></p></td>
+<td><p><a href="../Page/포항_스틸러스.md" title="wikilink">포항 스틸러스</a></p></td>
 <td><div style="text-align: center;">
 <p>5</p></td>
 <td><div style="text-align: center;">
@@ -949,7 +949,7 @@
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/R리그_2008" title="wikilink">2008</a></p></td>
 <td><p><a href="../Page/이태영_(축구_선수).md" title="wikilink">이태영</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/포항_스틸러스" title="wikilink">포항 스틸러스</a></p></td>
+<td><p><a href="../Page/포항_스틸러스.md" title="wikilink">포항 스틸러스</a></p></td>
 <td><div style="text-align: center;">
 <p>7</p></td>
 <td><div style="text-align: center;">
@@ -960,7 +960,7 @@
 <tr class="odd">
 <td><p><a href="../Page/R리그_2009.md" title="wikilink">2009</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/최성현_(축구_선수)" title="wikilink">최성현</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/수원_삼성_블루윙즈" title="wikilink">수원 삼성 블루윙즈</a></p></td>
+<td><p><a href="../Page/수원_삼성_블루윙즈.md" title="wikilink">수원 삼성 블루윙즈</a></p></td>
 <td><div style="text-align: center;">
 <p>5</p></td>
 <td><div style="text-align: center;">
@@ -982,7 +982,7 @@
 <tr class="odd">
 <td><p><a href="../Page/R리그_2011.md" title="wikilink">2011</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/신진호" title="wikilink">신진호</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/포항_스틸러스" title="wikilink">포항 스틸러스</a></p></td>
+<td><p><a href="../Page/포항_스틸러스.md" title="wikilink">포항 스틸러스</a></p></td>
 <td><div style="text-align: center;">
 <p>7</p></td>
 <td><div style="text-align: center;">
@@ -993,7 +993,7 @@
 <tr class="even">
 <td><p><a href="../Page/R리그_2012.md" title="wikilink">2012</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/최진수" title="wikilink">최진수</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/울산_현대_축구단" title="wikilink">울산 현대</a></p></td>
+<td><p><a href="../Page/울산_현대_축구단.md" title="wikilink">울산 현대</a></p></td>
 <td><div style="text-align: center;">
 <p>5</p></td>
 <td><div style="text-align: center;">
@@ -1023,7 +1023,7 @@
   - [K리그 영플레이어상](../Page/K리그_영플레이어상.md "wikilink")
   - [K리그 득점상](../Page/K리그_득점상.md "wikilink")
   - [K리그 베스트 11](../Page/K리그_베스트_11.md "wikilink")
-  - [K리그 감독상](https://ko.wikipedia.org/wiki/K리그_감독상 "wikilink")
+  - [K리그 감독상](../Page/K리그_감독상.md "wikilink")
   - [K리그 개인 수상 기록](https://ko.wikipedia.org/wiki/K리그_개인_수상_기록 "wikilink")
   - [K리그 구단 수상 기록](https://ko.wikipedia.org/wiki/K리그_구단_수상_기록 "wikilink")
 

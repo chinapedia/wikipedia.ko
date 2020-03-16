@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [The Precious History](https://ko.wikipedia.org/wiki/The_Precious_History).
 
 
-《**The Precious History**》는 [SG 워너비의](https://ko.wikipedia.org/wiki/SG_워너비 "wikilink") [베스트 음반이자](https://ko.wikipedia.org/wiki/베스트_음반 "wikilink") 3.5집이다.
+《**The Precious History**》는 [SG 워너비의](../Page/SG_워너비.md "wikilink") [베스트 음반이자](https://ko.wikipedia.org/wiki/베스트_음반 "wikilink") 3.5집이다.
 
 ## 구성
 
-1집부터 3집 리메이크 앨범까지 다시 듣고 싶은 그들의 히트곡과 3곡의 미공개 신곡이 함께 실렸다. [바이브](https://ko.wikipedia.org/wiki/바이브 "wikilink"), [장혜진](https://ko.wikipedia.org/wiki/장혜진 "wikilink"), [버즈](https://ko.wikipedia.org/wiki/버즈_\(대한민국의_밴드\) "wikilink"), [다이나믹 듀오가](https://ko.wikipedia.org/wiki/다이나믹_듀오 "wikilink") 함께 참여하였다. 참여한 가수들의 비중이 멤버들보다 더 높아서 일부 팬들의 원성을 사기도 했다.
+1집부터 3집 리메이크 앨범까지 다시 듣고 싶은 그들의 히트곡과 3곡의 미공개 신곡이 함께 실렸다. [바이브](https://ko.wikipedia.org/wiki/바이브 "wikilink"), [장혜진](https://ko.wikipedia.org/wiki/장혜진 "wikilink"), [버즈](https://ko.wikipedia.org/wiki/버즈_\(대한민국의_밴드\) "wikilink"), [다이나믹 듀오가](../Page/다이나믹_듀오.md "wikilink") 함께 참여하였다. 참여한 가수들의 비중이 멤버들보다 더 높아서 일부 팬들의 원성을 사기도 했다.
 
 ## 뮤직비디오
 
@@ -19,7 +19,7 @@
 
 ### ordinary people
 
-경쾌한 락 느낌의 곡으로 곡의 첫 부분과 끝 부분에 랩이 들어가 있다. [민경훈](https://ko.wikipedia.org/wiki/민경훈 "wikilink")이 피쳐링했고 timeless,죽을만큼 사랑했어요,우습지,사랑하고 싶어(이상 1집 수록곡), 느림보(3집)등의 곡들처럼 **[김용준의](../Page/김용준_\(가수\).md "wikilink") 파트가 아예 없다.**
+경쾌한 락 느낌의 곡으로 곡의 첫 부분과 끝 부분에 랩이 들어가 있다. [민경훈](../Page/민경훈.md "wikilink")이 피쳐링했고 timeless,죽을만큼 사랑했어요,우습지,사랑하고 싶어(이상 1집 수록곡), 느림보(3집)등의 곡들처럼 **[김용준의](../Page/김용준_\(가수\).md "wikilink") 파트가 아예 없다.**
 
 ## 트랙리스트
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [QR ](https://ko.wikipedia.org/wiki/QR_).
 
 
-[선형대수학](https://ko.wikipedia.org/wiki/선형대수학 "wikilink")에서, **QR 분해**()는 [실수](https://ko.wikipedia.org/wiki/실수 "wikilink") [행렬](https://ko.wikipedia.org/wiki/행렬 "wikilink")을 [직교 행렬과](https://ko.wikipedia.org/wiki/직교_행렬 "wikilink") [상삼각 행렬의](https://ko.wikipedia.org/wiki/상삼각_행렬 "wikilink") 곱으로 나타내는 [행렬 분해이다](../Page/행렬_분해.md "wikilink").\[1\] [그람-슈미트 과정이나](../Page/그람-슈미트_과정.md "wikilink") [하우스홀더 행렬이나](https://ko.wikipedia.org/wiki/하우스홀더_행렬 "wikilink") [기븐스 회전을](../Page/기븐스_회전.md "wikilink") 통해 얻을 수 있으며, [선형 최소 제곱법이나](https://ko.wikipedia.org/wiki/선형_최소_제곱법 "wikilink") [QR 알고리즘에서](https://ko.wikipedia.org/wiki/QR_알고리즘 "wikilink") 쓰인다.
+[선형대수학](../Page/선형대수학.md "wikilink")에서, **QR 분해**()는 [실수](https://ko.wikipedia.org/wiki/실수 "wikilink") [행렬](../Page/행렬.md "wikilink")을 [직교 행렬과](https://ko.wikipedia.org/wiki/직교_행렬 "wikilink") [상삼각 행렬의](https://ko.wikipedia.org/wiki/상삼각_행렬 "wikilink") 곱으로 나타내는 [행렬 분해이다](../Page/행렬_분해.md "wikilink").\[1\] [그람-슈미트 과정이나](../Page/그람-슈미트_과정.md "wikilink") [하우스홀더 행렬이나](https://ko.wikipedia.org/wiki/하우스홀더_행렬 "wikilink") [기븐스 회전을](../Page/기븐스_회전.md "wikilink") 통해 얻을 수 있으며, [선형 최소 제곱법이나](https://ko.wikipedia.org/wiki/선형_최소_제곱법 "wikilink") [QR 알고리즘에서](https://ko.wikipedia.org/wiki/QR_알고리즘 "wikilink") 쓰인다.
 
 ## 정의
 
@@ -113,7 +113,7 @@
 
 \[QR\]분해 된다. 그러나,
 
-[분수](https://ko.wikipedia.org/wiki/분수 "wikilink")에의한 [부동소수점](https://ko.wikipedia.org/wiki/부동소수점 "wikilink")연산이 관계함으로 오차가 발생할 수 있다.
+[분수](https://ko.wikipedia.org/wiki/분수 "wikilink")에의한 [부동소수점](../Page/부동소수점.md "wikilink")연산이 관계함으로 오차가 발생할 수 있다.
 
 #### RQ 분해와의 관계
 
@@ -129,7 +129,7 @@
 
 ### 하우스홀더 방법
 
-[하우스홀더 리플렉터](../Page/하우스홀더_변환.md "wikilink")(하우스홀더 변환,Householder reflection)를 이용하여 한 열씩을 [상삼각행렬](https://ko.wikipedia.org/wiki/상삼각행렬 "wikilink")로 바꾸어감으로써 \(Q\)와\(R\)을 구할 수 있다. 이 방법은 \(Q\)행렬을 하우스홀더 행렬의 곱으로 구해주기 때문에, 직접 \(Q\)를 구할 필요가 없을 때 유용하다. 또, 그람-슈미트 방법과는 달리, [부동소수점](https://ko.wikipedia.org/wiki/부동소수점 "wikilink") 연산에서도 오차가 누적되지 않기 때문에, 실제로 더 많이 활용된다.
+[하우스홀더 리플렉터](../Page/하우스홀더_변환.md "wikilink")(하우스홀더 변환,Householder reflection)를 이용하여 한 열씩을 [상삼각행렬](https://ko.wikipedia.org/wiki/상삼각행렬 "wikilink")로 바꾸어감으로써 \(Q\)와\(R\)을 구할 수 있다. 이 방법은 \(Q\)행렬을 하우스홀더 행렬의 곱으로 구해주기 때문에, 직접 \(Q\)를 구할 필요가 없을 때 유용하다. 또, 그람-슈미트 방법과는 달리, [부동소수점](../Page/부동소수점.md "wikilink") 연산에서도 오차가 누적되지 않기 때문에, 실제로 더 많이 활용된다.
 
 #### 예
 
@@ -198,7 +198,7 @@
 0 & -7/25 & 24/25 \\
 0 & 24/25 & 7/25 \end{pmatrix}\]
 
-\[Q_1 , Q_2\]에서 각각 [전치행렬](https://ko.wikipedia.org/wiki/전치행렬 "wikilink")을 수행한 후 프로세스가 올바르게 작동하는지 확인해보고, \(Q_1 = Q_1^T ,  Q_2 = Q_2^T\) 그리고나서,
+\[Q_1 , Q_2\]에서 각각 [전치행렬](../Page/전치행렬.md "wikilink")을 수행한 후 프로세스가 올바르게 작동하는지 확인해보고, \(Q_1 = Q_1^T ,  Q_2 = Q_2^T\) 그리고나서,
 
 \[Q=Q_1^T Q_2^T=\begin{pmatrix}
 6/7 & -69/175 & 58/175 \\

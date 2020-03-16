@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [IDENTITY \( \)](https://ko.wikipedia.org/wiki/IDENTITY_\(_\)).
 
 
-《**IDENTITY**》(아이덴티티)는 가수 [보아](https://ko.wikipedia.org/wiki/보아 "wikilink")가 2010년 2월 10일 일본에서 발매한 일곱 번째 정규 음반이다.
+《**IDENTITY**》(아이덴티티)는 가수 [보아](../Page/보아.md "wikilink")가 2010년 2월 10일 일본에서 발매한 일곱 번째 정규 음반이다.
 
 ## 정보
 
@@ -22,10 +22,10 @@ BEST\&USA에 수록되었던 永遠/UNIVERSE feat.Crystal Kay & VERBAL(m-flo) /B
 
 1.  This Is Who I Am
       - (2:52) 작사 : BoA / 작곡 : BoA / 편곡 : 가쿠시
-          - **This Is Who I Am**은 [보아](https://ko.wikipedia.org/wiki/보아 "wikilink")의 자작곡이다. 자서전같은 가사의 인트로격의 곡입니다.
+          - **This Is Who I Am**은 [보아](../Page/보아.md "wikilink")의 자작곡이다. 자서전같은 가사의 인트로격의 곡입니다.
 2.  EASY
       - (3:23) 작사 : BoA / 작곡 : BoA / 편곡 : 가쿠시
-          - **EASY**는 [보아](https://ko.wikipedia.org/wiki/보아 "wikilink")의 자작곡이다. 세상의 젊은이들에게 '자신의 일은 자신이 책임져라.' 또는 '세상을 향해 당당하게 나아가자.'라는 메시지를 담은 락 풍의 일렉트로닉 팝 댄스다.
+          - **EASY**는 [보아](../Page/보아.md "wikilink")의 자작곡이다. 세상의 젊은이들에게 '자신의 일은 자신이 책임져라.' 또는 '세상을 향해 당당하게 나아가자.'라는 메시지를 담은 락 풍의 일렉트로닉 팝 댄스다.
 3.  BUMP BUMP\! feat.VERBAL(m-flo)
       - (4:01) 작사 : VERBAL / 작곡：VERBAL, 에이전트 코젤, 미나미 / 편곡：나와타 히사시
           - [BUMP BUMP\!](../Page/BUMP_BUMP!.md "wikilink") 참조.
@@ -44,7 +44,7 @@ BEST\&USA에 수록되었던 永遠/UNIVERSE feat.Crystal Kay & VERBAL(m-flo) /B
       - (0:04)
 9.  ネコラブ
       - (3:34) 작사：BoA / 작곡：U-Key zone / 편곡：가쿠시
-          - [보아](https://ko.wikipedia.org/wiki/보아 "wikilink")가 작사에 참여한 **ネコラブ**는 연예인들의 고충을 담은 노래다. 일반인들은 모자를 쓰고 다니지 않지만 연예인들은 공인이기 때문에 모든 연예인들의 불편함과 고민의 가사이다.
+          - [보아](../Page/보아.md "wikilink")가 작사에 참여한 **ネコラブ**는 연예인들의 고충을 담은 노래다. 일반인들은 모자를 쓰고 다니지 않지만 연예인들은 공인이기 때문에 모든 연예인들의 불편함과 고민의 가사이다.
 10. THE END そして and... (album ver.)
       - (7:10) 작사：BoA / 작곡：BoA / 편곡：가쿠시
           - [まもりたい ～White Wishes～](../Page/마모리타이_~White_Wishes~.md "wikilink") 참조.
@@ -53,10 +53,10 @@ BEST\&USA에 수록되었던 永遠/UNIVERSE feat.Crystal Kay & VERBAL(m-flo) /B
           - 보아와 미우라 다이치의 듀엣곡인 **Possibility**는 실연을 앞둔 남녀를 노래하고 있다.
 12. Fallin'
       - (5:14) 작사：BoA　작곡：BoA　편곡：가쿠시
-          - **Fallin**'은 [보아](https://ko.wikipedia.org/wiki/보아 "wikilink")의 자작곡으로 실연을 노래한 댄스곡이다.
+          - **Fallin**'은 [보아](../Page/보아.md "wikilink")의 자작곡으로 실연을 노래한 댄스곡이다.
 13. my all
       - (5:38) 작사：BoA / 작곡：가와구치 다이스케 / 편곡：가와구치 다이스케
-          - [보아](https://ko.wikipedia.org/wiki/보아 "wikilink")의 인생을 얘기한다. "誰にも理解されないと 一人で泣いた夜もある. (누구도 이해해주지 않는다고 혼자서 울었던 밤도 있어.)"라는 가사를 들으면 보아가 데뷔 시절 때 많이 힘들었다는 것을 알 수 있다.
+          - [보아](../Page/보아.md "wikilink")의 인생을 얘기한다. "誰にも理解されないと 一人で泣いた夜もある. (누구도 이해해주지 않는다고 혼자서 울었던 밤도 있어.)"라는 가사를 들으면 보아가 데뷔 시절 때 많이 힘들었다는 것을 알 수 있다.
 
 **DVD**
 

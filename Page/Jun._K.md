@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Jun. K](https://ko.wikipedia.org/wiki/Jun._K).
 
 
-**Jun. K**(, [1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink") [1월 15일](https://ko.wikipedia.org/wiki/1월_15일 "wikilink") \~ )는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [보이 그룹](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink") [2PM](https://ko.wikipedia.org/wiki/2PM "wikilink")의\[1\]\[2\], 메인보컬이다.
+**Jun. K**(, [1988년](../Page/1988년.md "wikilink") [1월 15일](../Page/1월_15일.md "wikilink") \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 [보이 그룹](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink") [2PM](https://ko.wikipedia.org/wiki/2PM "wikilink")의\[1\]\[2\], 메인보컬이다.
 
 ## 생애
 
-[1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink") [1월 15일](https://ko.wikipedia.org/wiki/1월_15일 "wikilink"), [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") [대구광역시](https://ko.wikipedia.org/wiki/대구광역시 "wikilink") [수성구](https://ko.wikipedia.org/wiki/수성구 "wikilink") [범어동에서](../Page/범어동_\(대구\).md "wikilink") 2남 중 첫째로 태어났다. 대구 출신으로 초등학생 때 시 쓰기 부문에서 70여개 상을 수상하는 등 소질을 보였다. 중학생 때 [스티비 원더의](../Page/스티비_원더.md "wikilink") 라이브 영상을 보고 가수의 꿈을 키웠으며 경신고등학교 재학 시절 동성로가요제에서 금상을 수상하는 등 두각을 드러내기 시작했다.\[3\] [YG엔터테인먼트](https://ko.wikipedia.org/wiki/YG엔터테인먼트 "wikilink")와 [JYP엔터테인먼트](https://ko.wikipedia.org/wiki/JYP엔터테인먼트 "wikilink")에 동시 합격했으나 현재 소속사인 [JYP](https://ko.wikipedia.org/wiki/JYP "wikilink")를 선택했다.\[4\]\[5\] 이후 4년여 간의 연습생활을 거쳐 2008년 [2PM](https://ko.wikipedia.org/wiki/2PM "wikilink") 싱글앨범 "HOTTEST TIME OF THE DAY"로 데뷔했다.\[6\]\[7\]
+[1988년](../Page/1988년.md "wikilink") [1월 15일](../Page/1월_15일.md "wikilink"), [대한민국](../Page/대한민국.md "wikilink") [대구광역시](../Page/대구광역시.md "wikilink") [수성구](../Page/수성구.md "wikilink") [범어동에서](../Page/범어동_\(대구\).md "wikilink") 2남 중 첫째로 태어났다. 대구 출신으로 초등학생 때 시 쓰기 부문에서 70여개 상을 수상하는 등 소질을 보였다. 중학생 때 [스티비 원더의](../Page/스티비_원더.md "wikilink") 라이브 영상을 보고 가수의 꿈을 키웠으며 경신고등학교 재학 시절 동성로가요제에서 금상을 수상하는 등 두각을 드러내기 시작했다.\[3\] [YG엔터테인먼트](https://ko.wikipedia.org/wiki/YG엔터테인먼트 "wikilink")와 [JYP엔터테인먼트](https://ko.wikipedia.org/wiki/JYP엔터테인먼트 "wikilink")에 동시 합격했으나 현재 소속사인 [JYP](https://ko.wikipedia.org/wiki/JYP "wikilink")를 선택했다.\[4\]\[5\] 이후 4년여 간의 연습생활을 거쳐 2008년 [2PM](https://ko.wikipedia.org/wiki/2PM "wikilink") 싱글앨범 "HOTTEST TIME OF THE DAY"로 데뷔했다.\[6\]\[7\]
 
 작곡가로서는 2011년 [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 드라마 《'드림하이'》 OST '가지마'를 통해 데뷔, 간미연 'Sunshine', 2PM 'Hot'과 '離れていても(헤어져있어도)', Jun. K 'Alive', 백아연 'Always' 등을 작곡하는 등 싱어송라이터로서의 커리어를 쌓아가고 있다.
 
@@ -1466,7 +1466,7 @@ SECRET WEAPON, RYAN KIM</li>
 <tbody>
 <tr class="odd">
 <td><p>2010.08.20</p></td>
-<td><p>Jun. K, <a href="https://ko.wikipedia.org/wiki/정우" title="wikilink">정우</a></p></td>
+<td><p>Jun. K, <a href="../Page/정우.md" title="wikilink">정우</a></p></td>
 <td><p>〈뚝뚝뚝〉</p></td>
 <td><p>《소울 프로젝트.1》</p></td>
 <td></td>
@@ -1662,16 +1662,16 @@ SECRET WEAPON, RYAN KIM</li>
 </tr>
 <tr class="odd">
 <td><p>2016.07.20</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/준호" title="wikilink">준호</a></p></td>
+<td><p><a href="../Page/준호.md" title="wikilink">준호</a></p></td>
 <td><p>〈HYPER (FEAT. Jun. K)〉<br />
 (JAPANESE VERSION)</p></td>
 <td><p>《<a href="../Page/DSMN.md" title="wikilink">DSMN</a>》</p></td>
 <td><ul>
-<li>작사 : <a href="https://ko.wikipedia.org/wiki/준호" title="wikilink">준호</a>, 이우민, Jun. K, MICHAEL YANO<br />
+<li>작사 : <a href="../Page/준호.md" title="wikilink">준호</a>, 이우민, Jun. K, MICHAEL YANO<br />
 </li>
-<li>작곡 : <a href="https://ko.wikipedia.org/wiki/준호" title="wikilink">준호</a>, 이우민<br />
+<li>작곡 : <a href="../Page/준호.md" title="wikilink">준호</a>, 이우민<br />
 </li>
-<li>편곡 : <a href="https://ko.wikipedia.org/wiki/준호" title="wikilink">준호</a>, 이우민<br />
+<li>편곡 : <a href="../Page/준호.md" title="wikilink">준호</a>, 이우민<br />
 </li>
 </ul></td>
 </tr>
@@ -1685,14 +1685,14 @@ SECRET WEAPON, RYAN KIM</li>
 </tr>
 <tr class="odd">
 <td><p>2016.07.20</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/준호" title="wikilink">준호</a></p></td>
+<td><p><a href="../Page/준호.md" title="wikilink">준호</a></p></td>
 <td><p>〈HYPER (FEAT. Jun. K)〉<br />
 (JAPANESE VERSION)</p></td>
 <td><p>《<a href="../Page/DSMN.md" title="wikilink">DSMN</a>》</p></td>
 <td><ul>
-<li>작사 : <a href="https://ko.wikipedia.org/wiki/준호" title="wikilink">준호</a>, 이우민, MICHAEL YANO, Jun. K<br />
+<li>작사 : <a href="../Page/준호.md" title="wikilink">준호</a>, 이우민, MICHAEL YANO, Jun. K<br />
 </li>
-<li>작곡 : <a href="https://ko.wikipedia.org/wiki/준호" title="wikilink">준호</a>, 이우민<br />
+<li>작곡 : <a href="../Page/준호.md" title="wikilink">준호</a>, 이우민<br />
 </li>
 </ul></td>
 </tr>
@@ -1889,49 +1889,49 @@ ENTERTAINMENT</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2008년" title="wikilink">2008년</a></p></td>
+<td><p><a href="../Page/2008년.md" title="wikilink">2008년</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a></p></td>
 <td><p>《열혈남아》</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2008년" title="wikilink">2008년</a>~<a href="https://ko.wikipedia.org/wiki/2009년" title="wikilink">2009년</a></p></td>
+<td><p><a href="../Page/2008년.md" title="wikilink">2008년</a>~<a href="../Page/2009년.md" title="wikilink">2009년</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/MBC_every1" title="wikilink">MBC every1</a></p></td>
 <td><p>《아이돌 군단의 떴다! 그녀 시즌3》</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2009년" title="wikilink">2009년</a>~<a href="https://ko.wikipedia.org/wiki/2010년" title="wikilink">2010년</a></p></td>
+<td><p><a href="../Page/2009년.md" title="wikilink">2009년</a>~<a href="../Page/2010년.md" title="wikilink">2010년</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a></p></td>
 <td><p>《와일드바니》</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2011년" title="wikilink">2011년</a></p></td>
+<td><p><a href="../Page/2011년.md" title="wikilink">2011년</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/SBS_Plus" title="wikilink">SBS Plus</a></p></td>
 <td><p>《2PM SHOW》</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2011년" title="wikilink">2011년</a></p></td>
+<td><p><a href="../Page/2011년.md" title="wikilink">2011년</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a></p></td>
 <td><p>《<a href="../Page/불후의_명곡_-_전설을_노래하다.md" title="wikilink">불후의 명곡 - 전설을 노래하다</a>》<br />
-* <a href="https://ko.wikipedia.org/wiki/민해경" title="wikilink">민해경</a> <보고싶은 얼굴> - Jun. K<br />
-* <a href="https://ko.wikipedia.org/wiki/현진영" title="wikilink">현진영</a> <흐린기억 속에 그대> - Jun. K<br />
+* <a href="../Page/민해경.md" title="wikilink">민해경</a> <보고싶은 얼굴> - Jun. K<br />
+* <a href="../Page/현진영.md" title="wikilink">현진영</a> <흐린기억 속에 그대> - Jun. K<br />
 * <a href="https://ko.wikipedia.org/wiki/주영훈" title="wikilink">주영훈</a> <우리 사랑 이대로> (Duet With 이혜진) - Jun. K &amp; <a href="https://ko.wikipedia.org/wiki/이영현" title="wikilink">이영현</a><br />
 * <a href="../Page/주현미.md" title="wikilink">주현미</a> <잠깐만> - Jun. K<br />
 </p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2012년" title="wikilink">2012년</a></p></td>
+<td><p><a href="../Page/2012년.md" title="wikilink">2012년</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a></p></td>
 <td><p>《<a href="../Page/불후의_명곡_-_전설을_노래하다.md" title="wikilink">불후의 명곡 - 전설을 노래하다</a>》<br />
 * <a href="../Page/R.ef.md" title="wikilink">R.ef</a> <이별공식> - Jun. K<br />
 </p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2012년" title="wikilink">2012년</a></p></td>
+<td><p><a href="../Page/2012년.md" title="wikilink">2012년</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/tvN" title="wikilink">tvN</a></p></td>
 <td><p>《더 로맨틱&amp;아이돌》</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2014년" title="wikilink">2014년</a></p></td>
+<td><p><a href="../Page/2014년.md" title="wikilink">2014년</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a></p></td>
 <td><p>《<a href="../Page/불후의_명곡_-_전설을_노래하다.md" title="wikilink">불후의 명곡 - 전설을 노래하다</a>》</p>
 <ul>
@@ -1942,52 +1942,52 @@ ENTERTAINMENT</p></td>
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2014년" title="wikilink">2014년</a></p></td>
+<td><p><a href="../Page/2014년.md" title="wikilink">2014년</a></p></td>
 <td><p><a href="../Page/CJ_E&amp;M.md" title="wikilink">CJ E&amp;M</a></p></td>
 <td><p>《MEET&amp;GREET》: JUN. K "NO LOVE" Necklace</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2016년" title="wikilink">2016년</a></p></td>
+<td><p><a href="../Page/2016년.md" title="wikilink">2016년</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/tvN" title="wikilink">tvN</a></p></td>
 <td><p>《<a href="https://ko.wikipedia.org/wiki/문제적_남자" title="wikilink">문제적 남자</a>》[44]<br />
 </p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2016년" title="wikilink">2016년</a></p></td>
+<td><p><a href="../Page/2016년.md" title="wikilink">2016년</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p>《<a href="../Page/대국민_토크쇼_안녕하세요.md" title="wikilink">대국민 토크쇼 안녕하세요</a>》</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2016년" title="wikilink">2016년</a></p></td>
+<td><p><a href="../Page/2016년.md" title="wikilink">2016년</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p>《<a href="https://ko.wikipedia.org/wiki/듀엣_가요제" title="wikilink">듀엣 가요제</a>》</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2016년" title="wikilink">2016년</a></p></td>
+<td><p><a href="../Page/2016년.md" title="wikilink">2016년</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p>《<a href="https://ko.wikipedia.org/wiki/복면가왕" title="wikilink">복면가왕</a>》<br />
 * <a href="https://ko.wikipedia.org/wiki/김승진" title="wikilink">김승진</a> <유리창에 그린 안녕> - Jun. K &amp; <a href="../Page/박남정.md" title="wikilink">박남정</a><br />
-* <a href="https://ko.wikipedia.org/wiki/이적_(가수)" title="wikilink">이적</a> <Rain> - Jun. K<br />
+* <a href="../Page/이적_(가수).md" title="wikilink">이적</a> <Rain> - Jun. K<br />
 * <a href="https://ko.wikipedia.org/wiki/Ra.D" title="wikilink">Ra.D</a> <엄마> - Jun. K<br />
 </p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2016년" title="wikilink">2016년</a></p></td>
+<td><p><a href="../Page/2016년.md" title="wikilink">2016년</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
 <td><p>《<a href="../Page/너의_목소리가_보여.md" title="wikilink">너의 목소리가 보여</a>》: <a href="../Page/우영.md" title="wikilink">우영</a>, <a href="../Page/닉쿤.md" title="wikilink">닉쿤</a>, Jun. K</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2016년" title="wikilink">2016년</a></p></td>
+<td><p><a href="../Page/2016년.md" title="wikilink">2016년</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p>《<a href="../Page/미스터리_음악쇼_복면가왕.md" title="wikilink">미스터리 음악쇼 복면가왕</a> - 각진 인생 네모의 꿈》</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2017년" title="wikilink">2017년</a></p></td>
+<td><p><a href="../Page/2017년.md" title="wikilink">2017년</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/tvN" title="wikilink">tvN</a></p></td>
 <td><p>《리얼트립 태국》: <a href="../Page/닉쿤.md" title="wikilink">닉쿤</a>, Jun. K</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2017년" title="wikilink">2017년</a></p></td>
+<td><p><a href="../Page/2017년.md" title="wikilink">2017년</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/THE_E&amp;M" title="wikilink">THE E&amp;M</a></p></td>
 <td><p>웹예능 《셀럽티비 (Celuv.TV)》: <a href="http://www.vlive.tv/video/51593?channelCode=EF7F">Jun. K</a></p></td>
 </tr>
@@ -2037,7 +2037,7 @@ ENTERTAINMENT</p></td>
 <tr class="odd">
 <td><p>Jun. K<br />
 <a href="../Page/우영.md" title="wikilink">우영</a><br />
-<a href="https://ko.wikipedia.org/wiki/준호" title="wikilink">준호</a></p></td>
+<a href="../Page/준호.md" title="wikilink">준호</a></p></td>
 <td><p>2017</p></td>
 <td><p>《닛테레(니혼TV) X LIVE presents From <a href="https://ko.wikipedia.org/wiki/2PM" title="wikilink">2PM</a> To You》 : 2017.11.03 (<a href="https://ko.wikipedia.org/wiki/요코하마" title="wikilink">요코하마</a> <a href="https://ko.wikipedia.org/wiki/아레나" title="wikilink">아레나</a>)</p></td>
 </tr>
@@ -2091,21 +2091,21 @@ ENTERTAINMENT</p></td>
 <td><p>2016</p></td>
 <td><p>Jun. K</p></td>
 <td><ul>
-<li><a href="http://www.vlive.tv/video/11912?channelCode=EF7F">Jun. K 《Mr. NO♡》LIVE PREMIERE</a> (<a href="https://ko.wikipedia.org/wiki/네이버" title="wikilink">네이버</a> V LIVE)</li>
+<li><a href="http://www.vlive.tv/video/11912?channelCode=EF7F">Jun. K 《Mr. NO♡》LIVE PREMIERE</a> (<a href="../Page/네이버.md" title="wikilink">네이버</a> V LIVE)</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td><p>2017</p></td>
 <td><p>Jun. K</p></td>
 <td><ul>
-<li><a href="http://www.vlive.tv/video/20598?channelCode=EF7F">Jun. K SOLO CONCERT 《Mr. NO♡》(Opening Live)</a> (<a href="https://ko.wikipedia.org/wiki/네이버" title="wikilink">네이버</a> V LIVE)</li>
+<li><a href="http://www.vlive.tv/video/20598?channelCode=EF7F">Jun. K SOLO CONCERT 《Mr. NO♡》(Opening Live)</a> (<a href="../Page/네이버.md" title="wikilink">네이버</a> V LIVE)</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td><p>2018</p></td>
 <td><p>Jun. K</p></td>
 <td><ul>
-<li><a href="http://www.vlive.tv/video/49423?channelCode=EF7F">《준케이​의 루프탑라이브》(JUN. K X Rooftop Live)</a> (<a href="https://ko.wikipedia.org/wiki/네이버" title="wikilink">네이버</a> V LIVE)<br />
+<li><a href="http://www.vlive.tv/video/49423?channelCode=EF7F">《준케이​의 루프탑라이브》(JUN. K X Rooftop Live)</a> (<a href="../Page/네이버.md" title="wikilink">네이버</a> V LIVE)<br />
 </li>
 </ul></td>
 </tr>
@@ -2159,7 +2159,7 @@ ENTERTAINMENT</p></td>
 </ul></td>
 <td><p><a href="../Page/엠넷.md" title="wikilink">엠넷</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/네이버" title="wikilink">네이버</a> TV</p></td>
+<td><p><a href="../Page/네이버.md" title="wikilink">네이버</a> TV</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016</p></td>
@@ -2185,7 +2185,7 @@ ENTERTAINMENT</p></td>
 </ul></td>
 <td><p><a href="../Page/SBS.md" title="wikilink">SBS</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/네이버" title="wikilink">네이버</a> TV</p></td>
+<td><p><a href="../Page/네이버.md" title="wikilink">네이버</a> TV</p></td>
 </tr>
 <tr class="odd">
 <td><p>2017</p></td>
@@ -2196,7 +2196,7 @@ ENTERTAINMENT</p></td>
 <td><ul>
 <li>원곡 : Jun. K</li>
 </ul></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/네이버" title="wikilink">네이버</a></p></td>
+<td><p><a href="../Page/네이버.md" title="wikilink">네이버</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
 </tr>

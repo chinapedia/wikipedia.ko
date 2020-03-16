@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ \(Aqua Timez \)](https://ko.wikipedia.org/wiki/_\(Aqua_Timez_\)).
 
 
-〈**책갈피**〉()는 [Aqua Timez가](../Page/Aqua_Timez.md "wikilink") [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [5월 9일에](https://ko.wikipedia.org/wiki/5월_9일 "wikilink") 발매한 세 번째 싱글이다.
+〈**책갈피**〉()는 [Aqua Timez가](../Page/Aqua_Timez.md "wikilink") [2007년](../Page/2007년.md "wikilink") [5월 9일에](../Page/5월_9일.md "wikilink") 발매한 세 번째 싱글이다.
 
 ## 개요
 

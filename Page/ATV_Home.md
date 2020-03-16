@@ -1,19 +1,19 @@
 > This article is converted from Wikipedia: [ATV Home](https://ko.wikipedia.org/wiki/ATV_Home).
 
 
-**aTV Home 또는 (亞洲電視本港台)**은 [중화인민공화국](https://ko.wikipedia.org/wiki/중화인민공화국 "wikilink") [홍콩](https://ko.wikipedia.org/wiki/홍콩 "wikilink")의 방송국 [aTV의](https://ko.wikipedia.org/wiki/ATV_\(방송국\) "wikilink") 방송 채널. 원명은 본항대 (**本港台**). 부분적으로는 다국어 방송 (홍콩은 NICAM; 麗音을 채용)을 사용하여 [월어(粵語)외에도](https://ko.wikipedia.org/wiki/광둥어 "wikilink") [한국어](https://ko.wikipedia.org/wiki/한국어 "wikilink"),[영어](https://ko.wikipedia.org/wiki/영어 "wikilink"),[중국어](https://ko.wikipedia.org/wiki/중국어 "wikilink")등과 함께 방송하기도 한다.
+**aTV Home 또는 (亞洲電視本港台)**은 [중화인민공화국](../Page/중화인민공화국.md "wikilink") [홍콩](../Page/홍콩.md "wikilink")의 방송국 [aTV의](https://ko.wikipedia.org/wiki/ATV_\(방송국\) "wikilink") 방송 채널. 원명은 본항대 (**本港台**). 부분적으로는 다국어 방송 (홍콩은 NICAM; 麗音을 채용)을 사용하여 [월어(粵語)외에도](../Page/광둥어.md "wikilink") [한국어](../Page/한국어.md "wikilink"),[영어](../Page/영어.md "wikilink"),[중국어](../Page/중국어.md "wikilink")등과 함께 방송하기도 한다.
 
 ## 역사
 
-  - [1957년](https://ko.wikipedia.org/wiki/1957년 "wikilink") [5월 29일](https://ko.wikipedia.org/wiki/5월_29일 "wikilink") 방송 개시(명칭 麗的映聲)
-  - [1960년](https://ko.wikipedia.org/wiki/1960년 "wikilink") 명칭 변경 (麗的映聲→麗的電視)
-  - [1963년](https://ko.wikipedia.org/wiki/1963년 "wikilink") [9월 29일](https://ko.wikipedia.org/wiki/9월_29일 "wikilink") 명칭 변경 (麗的電視→麗的電視中文(奧語)台)
-  - [1973년](https://ko.wikipedia.org/wiki/1973년 "wikilink") [4월 6일](https://ko.wikipedia.org/wiki/4월_6일 "wikilink") 명칭 변경 (麗的電視中文(奧語)台→麗的一台)
-  - [1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink") [9월 24일](https://ko.wikipedia.org/wiki/9월_24일 "wikilink") 방송국 개칭과 동시에 명칭 변경 (麗的一台→亞洲電視中文台)
-  - [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink") [2월 2일](https://ko.wikipedia.org/wiki/2월_2일 "wikilink") 명칭 변경 (亞洲電視中文台→亞洲電視黃金台)
-  - [1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink") [2월 13일](https://ko.wikipedia.org/wiki/2월_13일 "wikilink") 명칭 변경 (亞洲電視黃金台→亞洲電視本港台)
-  - [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") 방송 개시
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [중국](https://ko.wikipedia.org/wiki/중국 "wikilink") 대륙 방송 개시
+  - [1957년](../Page/1957년.md "wikilink") [5월 29일](../Page/5월_29일.md "wikilink") 방송 개시(명칭 麗的映聲)
+  - [1960년](../Page/1960년.md "wikilink") 명칭 변경 (麗的映聲→麗的電視)
+  - [1963년](../Page/1963년.md "wikilink") [9월 29일](../Page/9월_29일.md "wikilink") 명칭 변경 (麗的電視→麗的電視中文(奧語)台)
+  - [1973년](../Page/1973년.md "wikilink") [4월 6일](../Page/4월_6일.md "wikilink") 명칭 변경 (麗的電視中文(奧語)台→麗的一台)
+  - [1982년](../Page/1982년.md "wikilink") [9월 24일](../Page/9월_24일.md "wikilink") 방송국 개칭과 동시에 명칭 변경 (麗的一台→亞洲電視中文台)
+  - [1987년](../Page/1987년.md "wikilink") [2월 2일](../Page/2월_2일.md "wikilink") 명칭 변경 (亞洲電視中文台→亞洲電視黃金台)
+  - [1989년](../Page/1989년.md "wikilink") [2월 13일](../Page/2월_13일.md "wikilink") 명칭 변경 (亞洲電視黃金台→亞洲電視本港台)
+  - [2002년](../Page/2002년.md "wikilink") [미국](../Page/미국.md "wikilink") 방송 개시
+  - [2007년](../Page/2007년.md "wikilink") [중국](../Page/중국.md "wikilink") 대륙 방송 개시
 
 ## 방송 중인 프로그램 (2010년 2월 10일 기준)
 
@@ -34,7 +34,7 @@
 
 ### 드라마
 
-  - [하늘이시여](https://ko.wikipedia.org/wiki/하늘이시여 "wikilink")(錯愛仍是愛) 월-금 20:00-21:30
+  - [하늘이시여](../Page/하늘이시여.md "wikilink")(錯愛仍是愛) 월-금 20:00-21:30
   - [아줌마가 간다](../Page/아줌마가_간다.md "wikilink")(正印出頭天) 월-금 21:30-22:45
   - 馬場風雲 (재) 화-토 02:50-03:45
   - 鹹魚豆腐白菜仔 (재) 화-토 04:40-05:35

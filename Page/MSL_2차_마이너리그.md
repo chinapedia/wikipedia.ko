@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [MSL 2 ](https://ko.wikipedia.org/wiki/MSL_2_).
 
 
-**MSL 2차 마이너리그**는 [하나포스 센게임 MSL 2004의](https://ko.wikipedia.org/wiki/하나포스_센게임_MSL_2004 "wikilink") 진출자를 가리기 위한 대회이다.
+**MSL 2차 마이너리그**는 [하나포스 센게임 MSL 2004의](../Page/하나포스_센게임_MSL_2004.md "wikilink") 진출자를 가리기 위한 대회이다.
 
 ## 리그기간
 
-  - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [9월 1일](https://ko.wikipedia.org/wiki/9월_1일 "wikilink") \~ [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [11월 24일](https://ko.wikipedia.org/wiki/11월_24일 "wikilink")
+  - [2003년](../Page/2003년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink") \~ [2003년](../Page/2003년.md "wikilink") [11월 24일](../Page/11월_24일.md "wikilink")
 
 ## 리그방식
 
@@ -24,7 +24,7 @@
 
 ### 본선
 
-  - **일정** : [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [8월 10일](https://ko.wikipedia.org/wiki/8월_10일 "wikilink") *(오프라인 예선 포함)*
+  - **일정** : [2003년](../Page/2003년.md "wikilink") [8월 10일](../Page/8월_10일.md "wikilink") *(오프라인 예선 포함)*
 
 |            |                                                         |        |                                                                   |
 | ---------- | ------------------------------------------------------- | ------ | ----------------------------------------------------------------- |
@@ -42,7 +42,7 @@
 
 ## 마이너리그
 
-  - **일정** : [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [9월 1일](https://ko.wikipedia.org/wiki/9월_1일 "wikilink") \~ [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [10월 6일](https://ko.wikipedia.org/wiki/10월_6일 "wikilink")
+  - **일정** : [2003년](../Page/2003년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink") \~ [2003년](../Page/2003년.md "wikilink") [10월 6일](../Page/10월_6일.md "wikilink")
 
 | A조                                                      | B조    | C조                                                                | D조    |
 | ------------------------------------------------------- | ----- | ----------------------------------------------------------------- | ----- |
@@ -60,8 +60,8 @@
 
 ### 16강 \~ 8강
 
-  - **16강** : [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [10월 13일](https://ko.wikipedia.org/wiki/10월_13일 "wikilink") \~ [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [11월 3일](https://ko.wikipedia.org/wiki/11월_3일 "wikilink")
-  - **8강** : [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [11월 10일](https://ko.wikipedia.org/wiki/11월_10일 "wikilink"), [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [11월 13일](https://ko.wikipedia.org/wiki/11월_13일 "wikilink")
+  - **16강** : [2003년](../Page/2003년.md "wikilink") [10월 13일](../Page/10월_13일.md "wikilink") \~ [2003년](../Page/2003년.md "wikilink") [11월 3일](../Page/11월_3일.md "wikilink")
+  - **8강** : [2003년](../Page/2003년.md "wikilink") [11월 10일](../Page/11월_10일.md "wikilink"), [2003년](../Page/2003년.md "wikilink") [11월 13일](../Page/11월_13일.md "wikilink")
 
 |    |                                                |       |
 | -- | ---------------------------------------------- | ----- |
@@ -73,8 +73,8 @@
 
 ## 리그결정전
 
-  - **1라운드** : [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [11월 17일](https://ko.wikipedia.org/wiki/11월_17일 "wikilink")
-  - **2라운드** : [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [11월 20일](https://ko.wikipedia.org/wiki/11월_20일 "wikilink"), [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [11월 24일](https://ko.wikipedia.org/wiki/11월_24일 "wikilink")
+  - **1라운드** : [2003년](../Page/2003년.md "wikilink") [11월 17일](../Page/11월_17일.md "wikilink")
+  - **2라운드** : [2003년](../Page/2003년.md "wikilink") [11월 20일](../Page/11월_20일.md "wikilink"), [2003년](../Page/2003년.md "wikilink") [11월 24일](../Page/11월_24일.md "wikilink")
 
 |    |                                                                   |                                  |
 | -- | ----------------------------------------------------------------- | -------------------------------- |

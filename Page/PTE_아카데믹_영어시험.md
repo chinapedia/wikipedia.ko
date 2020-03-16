@@ -5,13 +5,13 @@
 
 시험은 총 3시간에 걸쳐 진행되며, 말하기와 쓰기, 읽기, 듣기 능력을 정확하고 과학적으로 측정한다. 성적은 응시 날짜로부터 5일 후 인터넷으로 확인 가능하며, 원하는 대학 및 교육기관으로 무료 전송할 수 있다.
 
-이 시험은 현재 미국, 영국, 중화민국, 홍콩, 인도, 중국, 캐나다, 호주 등 전 세계 21여개국에서 시행 중이며, 영국의 런던 비즈니스 스쿨, 미국의 [예일대](https://ko.wikipedia.org/wiki/예일대 "wikilink"), [캘리포니아 대학교](https://ko.wikipedia.org/wiki/캘리포니아_대학교 "wikilink"), 프랑스의 [INSEAD](https://ko.wikipedia.org/wiki/:en:INSEAD "wikilink"), 스페인의 [IESE](https://ko.wikipedia.org/wiki/:en:IESE "wikilink") 등의 대학과 경영 대학원으로부터 인정받고 있다.\[2\]
+이 시험은 현재 미국, 영국, 중화민국, 홍콩, 인도, 중국, 캐나다, 호주 등 전 세계 21여개국에서 시행 중이며, 영국의 런던 비즈니스 스쿨, 미국의 [예일대](https://ko.wikipedia.org/wiki/예일대 "wikilink"), [캘리포니아 대학교](../Page/캘리포니아_대학교.md "wikilink"), 프랑스의 [INSEAD](https://ko.wikipedia.org/wiki/:en:INSEAD "wikilink"), 스페인의 [IESE](https://ko.wikipedia.org/wiki/:en:IESE "wikilink") 등의 대학과 경영 대학원으로부터 인정받고 있다.\[2\]
 
 PTE 아카데믹 영어시험은 PLT (Pearson Language Tests)가 [GMAT](https://ko.wikipedia.org/wiki/GMAT "wikilink")를 주관하고 있는 GMAC(Graduate Management Admission Council)과의 협조 하에 개발하였으며, 모 회사인 Pearson은 교육, 시험, 비즈니스 정보, 출판 등의 분야의 미디어 회사이다.\[3\]
 
 ## 제이슨 PTE 시험
 
-최초의 한국인 PTE 시험 커뮤니티가 [제이슨](https://ko.wikipedia.org/wiki/제이슨_\(유튜버\) "wikilink") ([한국어](https://ko.wikipedia.org/wiki/한국어 "wikilink"): 김우탁) 에 의해서 만들어 졌다.
+최초의 한국인 PTE 시험 커뮤니티가 [제이슨](https://ko.wikipedia.org/wiki/제이슨_\(유튜버\) "wikilink") ([한국어](../Page/한국어.md "wikilink"): 김우탁) 에 의해서 만들어 졌다.
 
 2016년 7월에 블로그에 [시험 후기](https://dojason.com/28)가 작성 된 이후 2017년 1월에 [PTE-A.com](http://pte-a.com/)이 생성 되었고, 현재는 2018년 1월에 생긴 네이버 카페 [제이슨의 PTE 시험](https://cafe.naver.com/jasonpte)이 있다.
 

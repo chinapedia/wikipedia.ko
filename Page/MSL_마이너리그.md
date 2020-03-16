@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MSL ](https://ko.wikipedia.org/wiki/MSL_).
 
 
-**MSL 마이너리그**(MSL Minor League)는 [MBC게임](https://ko.wikipedia.org/wiki/MBC게임 "wikilink")이 주최하는 [스타크래프트](https://ko.wikipedia.org/wiki/스타크래프트 "wikilink") 개인리그중 하나로, [MSL진출자를](../Page/MBC게임_스타리그.md "wikilink") 가리기 위해 개최된 리그이다. [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink")에 개최하여 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink")까지 진행되어 총 5차까지 치러졌고, 2005년부터는 [MSL 서바이버리그로](https://ko.wikipedia.org/wiki/MSL_서바이버_토너먼트 "wikilink") 변경되면서, 완전히 폐지되었다.
+**MSL 마이너리그**(MSL Minor League)는 [MBC게임](https://ko.wikipedia.org/wiki/MBC게임 "wikilink")이 주최하는 [스타크래프트](../Page/스타크래프트.md "wikilink") 개인리그중 하나로, [MSL진출자를](../Page/MBC게임_스타리그.md "wikilink") 가리기 위해 개최된 리그이다. [2003년](../Page/2003년.md "wikilink")에 개최하여 [2004년](../Page/2004년.md "wikilink")까지 진행되어 총 5차까지 치러졌고, 2005년부터는 [MSL 서바이버리그로](../Page/MSL_서바이버_토너먼트.md "wikilink") 변경되면서, 완전히 폐지되었다.
 
 ## 역대 MSL 마이너리그 리그 방식
 

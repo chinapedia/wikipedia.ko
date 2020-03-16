@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [By the Way](https://ko.wikipedia.org/wiki/By_the_Way).
 
 
-《**By the Way**》은 [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink")에 발매된 미국 록 밴드 [레드 핫 칠리 페퍼스의](../Page/레드_핫_칠리_페퍼스.md "wikilink") 여덟 번째 정규 음반이다.
+《**By the Way**》은 [2002년](../Page/2002년.md "wikilink")에 발매된 미국 록 밴드 [레드 핫 칠리 페퍼스의](../Page/레드_핫_칠리_페퍼스.md "wikilink") 여덟 번째 정규 음반이다.
 
 2002년 7월 9일에 발매되었으며 발매 첫 주 만에 282,000장 이상을 판매하였고 빌보드 차트 200에 2번째로 뽑혔으며 전 세계적으로 약 600여만장 이상의 판매고를 올렸다.
 
@@ -53,8 +53,8 @@
 
 <!-- end list -->
 
-  - [플리](../Page/플리.md "wikilink") – [베이스](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink"), [백킹 보컬](https://ko.wikipedia.org/wiki/백킹_보컬 "wikilink")
-  - [존 프루시안테](../Page/존_프루시안테.md "wikilink") – [기타](https://ko.wikipedia.org/wiki/기타 "wikilink"), [백킹 보컬](https://ko.wikipedia.org/wiki/백킹_보컬 "wikilink"), [키보드](https://ko.wikipedia.org/wiki/키보드 "wikilink"), [모듈러 신시사이저](https://ko.wikipedia.org/wiki/모듈러_신시사이저 "wikilink")
+  - [플리](../Page/플리.md "wikilink") – [베이스](../Page/베이스_기타.md "wikilink"), [백킹 보컬](https://ko.wikipedia.org/wiki/백킹_보컬 "wikilink")
+  - [존 프루시안테](../Page/존_프루시안테.md "wikilink") – [기타](../Page/기타.md "wikilink"), [백킹 보컬](https://ko.wikipedia.org/wiki/백킹_보컬 "wikilink"), [키보드](https://ko.wikipedia.org/wiki/키보드 "wikilink"), [모듈러 신시사이저](https://ko.wikipedia.org/wiki/모듈러_신시사이저 "wikilink")
   - [앤소니 키디스](https://ko.wikipedia.org/wiki/앤소니_키디스 "wikilink") – [리드 보컬](https://ko.wikipedia.org/wiki/리드_보컬 "wikilink")
   - [채드 스미스](../Page/채드_스미스.md "wikilink") – [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink")
 

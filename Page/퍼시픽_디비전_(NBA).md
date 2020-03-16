@@ -18,13 +18,13 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/체이스_센터.md" title="wikilink">체이스 센터</a><br />
-(<a href="https://ko.wikipedia.org/wiki/캘리포니아주" title="wikilink">캘리포니아주</a> <a href="https://ko.wikipedia.org/wiki/샌프란시스코" title="wikilink">샌프란시스코</a>)</p></td>
+(<a href="../Page/캘리포니아주.md" title="wikilink">캘리포니아주</a> <a href="../Page/샌프란시스코.md" title="wikilink">샌프란시스코</a>)</p></td>
 <td><p><a href="../Page/스테이플스_센터.md" title="wikilink">스테이플스 센터</a><br />
-(<a href="https://ko.wikipedia.org/wiki/캘리포니아주" title="wikilink">캘리포니아주</a> <a href="https://ko.wikipedia.org/wiki/로스앤젤레스" title="wikilink">로스앤젤레스</a>)</p></td>
+(<a href="../Page/캘리포니아주.md" title="wikilink">캘리포니아주</a> <a href="https://ko.wikipedia.org/wiki/로스앤젤레스" title="wikilink">로스앤젤레스</a>)</p></td>
 <td><p><a href="../Page/토킹_스틱_리조트_아레나.md" title="wikilink">토킹 스틱 리조트 아레나</a><br />
-(<a href="https://ko.wikipedia.org/wiki/애리조나주" title="wikilink">애리조나주</a> <a href="https://ko.wikipedia.org/wiki/피닉스" title="wikilink">피닉스</a>)</p></td>
+(<a href="../Page/애리조나주.md" title="wikilink">애리조나주</a> <a href="https://ko.wikipedia.org/wiki/피닉스" title="wikilink">피닉스</a>)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/골든_1_센터" title="wikilink">골든 1 센터</a><br />
-(<a href="https://ko.wikipedia.org/wiki/캘리포니아주" title="wikilink">캘리포니아주</a> <a href="../Page/새크라멘토.md" title="wikilink">새크라멘토</a>)</p></td>
+(<a href="../Page/캘리포니아주.md" title="wikilink">캘리포니아주</a> <a href="../Page/새크라멘토.md" title="wikilink">새크라멘토</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p>수용인원: <strong>18,064명</strong></p></td>
@@ -59,7 +59,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/휴스턴_로키츠.md" title="wikilink">샌디에이고 로키츠</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/캘리포니아주" title="wikilink">캘리포니아주</a> <a href="https://ko.wikipedia.org/wiki/샌디에이고" title="wikilink">샌디에이고</a></p></td>
+<td><p><a href="../Page/캘리포니아주.md" title="wikilink">캘리포니아주</a> <a href="https://ko.wikipedia.org/wiki/샌디에이고" title="wikilink">샌디에이고</a></p></td>
 <td><p>1970년~1971년</p></td>
 <td><p><a href="../Page/밸리뷰_카지노_센터.md" title="wikilink">샌디에이고 스포츠 아레나</a></p></td>
 <td><p>14,500명</p></td>
@@ -67,15 +67,15 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/휴스턴_로키츠.md" title="wikilink">휴스턴 로키츠</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/텍사스주" title="wikilink">텍사스주</a> <a href="../Page/휴스턴.md" title="wikilink">휴스턴</a></p></td>
+<td><p><a href="../Page/텍사스주.md" title="wikilink">텍사스주</a> <a href="../Page/휴스턴.md" title="wikilink">휴스턴</a></p></td>
 <td><p>1971년~1972년</p></td>
 <td><p><a href="../Page/호프하인츠_파빌리온.md" title="wikilink">호프하인츠 파빌리온</a></p></td>
 <td><p>8,479명</p></td>
-<td><p>현 <a href="https://ko.wikipedia.org/wiki/사우스웨스트_디비전_(NBA)" title="wikilink">사우스웨스트 디비전</a> 소속</p></td>
+<td><p>현 <a href="../Page/사우스웨스트_디비전_(NBA).md" title="wikilink">사우스웨스트 디비전</a> 소속</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/포틀랜드_트레일블레이저스.md" title="wikilink">포틀랜드 트레일블레이저스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오리건주" title="wikilink">오리건주</a> <a href="https://ko.wikipedia.org/wiki/포틀랜드_(오리건주)" title="wikilink">포틀랜드</a></p></td>
+<td><p><a href="../Page/오리건주.md" title="wikilink">오리건주</a> <a href="../Page/포틀랜드_(오리건주).md" title="wikilink">포틀랜드</a></p></td>
 <td><p>1970년~2004년</p></td>
 <td><p><a href="../Page/모다_센터.md" title="wikilink">로즈 가든</a></p></td>
 <td><p>19,441명</p></td>
@@ -83,7 +83,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/시애틀_슈퍼소닉스_(1967년).md" title="wikilink">시애틀 슈퍼소닉스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/워싱턴주" title="wikilink">워싱턴주</a> <a href="https://ko.wikipedia.org/wiki/시애틀" title="wikilink">시애틀</a></p></td>
+<td><p><a href="../Page/워싱턴주.md" title="wikilink">워싱턴주</a> <a href="../Page/시애틀.md" title="wikilink">시애틀</a></p></td>
 <td><p><a href="../Page/키_아레나.md" title="wikilink">키 아레나</a></p></td>
 <td><p>17,072명</p></td>
 <td></td>

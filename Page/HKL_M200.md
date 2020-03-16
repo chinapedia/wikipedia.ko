@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [HKL M200](https://ko.wikipedia.org/wiki/HKL_M200).
 
 
-*' HKL M200*' 전동차는 [헬싱키 메트로에](https://ko.wikipedia.org/wiki/헬싱키_메트로 "wikilink") 사용되는 차량이다. 부오사리 지선이 개통된 후 추가 수요에 맞추기 위해 생산되었다.
+*' HKL M200*' 전동차는 [헬싱키 메트로에](../Page/헬싱키_메트로.md "wikilink") 사용되는 차량이다. 부오사리 지선이 개통된 후 추가 수요에 맞추기 위해 생산되었다.
 
 ## 제작
 
@@ -16,6 +16,6 @@
 ## 같이 보기
 
   - [HKL M100](../Page/HKL_M100.md "wikilink")
-  - [헬싱키 메트로](https://ko.wikipedia.org/wiki/헬싱키_메트로 "wikilink")
+  - [헬싱키 메트로](../Page/헬싱키_메트로.md "wikilink")
 
 [M200](https://ko.wikipedia.org/wiki/분류:핀란드의_철도_차량 "wikilink")

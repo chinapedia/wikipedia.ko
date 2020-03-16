@@ -24,13 +24,13 @@
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/대한민국_FA컵_1996" title="wikilink">1996</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/데니스_락티오노프" title="wikilink">데니스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/수원_삼성_블루윙즈" title="wikilink">수원 삼성 블루윙즈</a></p></td>
+<td><p><a href="../Page/수원_삼성_블루윙즈.md" title="wikilink">수원 삼성 블루윙즈</a></p></td>
 <td><div style="text-align: center;">
 <p>4</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/대한민국_FA컵_1997" title="wikilink">1997</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/노상래" title="wikilink">노상래</a></p></td>
+<td><p><a href="../Page/노상래.md" title="wikilink">노상래</a></p></td>
 <td><p><a href="../Page/전남_드래곤즈.md" title="wikilink">전남 드래곤즈</a></p></td>
 <td><div style="text-align: center;">
 <p>6</p></td>
@@ -123,14 +123,14 @@
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/대한민국_FA컵_2008" title="wikilink">2008</a></p></td>
 <td><p><a href="../Page/김동찬.md" title="wikilink">김동찬</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/경남_FC" title="wikilink">경남 FC</a></p></td>
+<td><p><a href="../Page/경남_FC.md" title="wikilink">경남 FC</a></p></td>
 <td><div style="text-align: center;">
 <p>6</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/대한민국_FA컵_2009" title="wikilink">2009</a></p></td>
 <td><p><a href="../Page/스테비차_리스티치.md" title="wikilink">스테보</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/포항_스틸러스" title="wikilink">포항 스틸러스</a></p></td>
+<td><p><a href="../Page/포항_스틸러스.md" title="wikilink">포항 스틸러스</a></p></td>
 <td><div style="text-align: center;">
 <p>5</p></td>
 </tr>
@@ -150,7 +150,7 @@
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/대한민국_FA컵_2011" title="wikilink">2011</a></p></td>
 <td><p><a href="../Page/고슬기.md" title="wikilink">고슬기</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/울산_현대_축구단" title="wikilink">울산 현대 축구단</a></p></td>
+<td><p><a href="../Page/울산_현대_축구단.md" title="wikilink">울산 현대 축구단</a></p></td>
 <td><div style="text-align: center;">
 <p>4</p></td>
 </tr>
@@ -209,9 +209,9 @@
 </div></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/FA컵_2019" title="wikilink">2019</a></p></td>
+<td><p><a href="../Page/FA컵_2019.md" title="wikilink">2019</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/염기훈" title="wikilink">염기훈</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/수원_삼성_블루윙즈" title="wikilink">수원 삼성 블루윙즈</a></p></td>
+<td><p><a href="../Page/수원_삼성_블루윙즈.md" title="wikilink">수원 삼성 블루윙즈</a></p></td>
 <td><div style="text-align: center;">
 <p>5</p>
 </div></td>
@@ -224,7 +224,7 @@
   - [FA컵](https://ko.wikipedia.org/wiki/FA컵_\(대한민국\) "wikilink")
   - [대한민국 FA컵 최우수선수상](https://ko.wikipedia.org/wiki/대한민국_FA컵_최우수선수상 "wikilink")
   - [K리그 득점상](../Page/K리그_득점상.md "wikilink")
-  - [대한축구협회](https://ko.wikipedia.org/wiki/대한축구협회 "wikilink")
+  - [대한축구협회](../Page/대한축구협회.md "wikilink")
 
 ## 참고 자료
 

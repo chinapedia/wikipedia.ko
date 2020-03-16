@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [ BMG  ](https://ko.wikipedia.org/wiki/_BMG__).
 
 
-**소니 BMG 루트킷 사건**은 복사 방지 기술이 채용된 소니 BMG(현재의 [소니 뮤직 엔터테인먼트](../Page/소니_뮤직_엔터테인먼트.md "wikilink"))의 [CD를](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink") 통해 사용자의 컴퓨터에 [루트킷](../Page/루트킷.md "wikilink")이 설치되었던 문제를 가리킨다. 사용자의 [컴퓨터 보안을](../Page/컴퓨터_보안.md "wikilink") 취약하게 만드는 소프트웨어가 사용자의 동의 없이 설치된 점이 문제가 되었다.
+**소니 BMG 루트킷 사건**은 복사 방지 기술이 채용된 소니 BMG(현재의 [소니 뮤직 엔터테인먼트](../Page/소니_뮤직_엔터테인먼트.md "wikilink"))의 [CD를](../Page/콤팩트_디스크.md "wikilink") 통해 사용자의 컴퓨터에 [루트킷](../Page/루트킷.md "wikilink")이 설치되었던 문제를 가리킨다. 사용자의 [컴퓨터 보안을](../Page/컴퓨터_보안.md "wikilink") 취약하게 만드는 소프트웨어가 사용자의 동의 없이 설치된 점이 문제가 되었다.
 
 ## 개요
 
-소니 BMG는 자사에서 발매한 음반 CD에 복사 방지 기술인 Extended Copy Protection (XCP)와 MediaMax CD-3을 채용하였다. 이 소프트웨어는 사용자가 CD를 컴퓨터로 재생하려 할 때 자동으로 시스템에 설치되었다. 소프트웨어는 루트킷을 설치함으로써 [마이크로소프트 윈도가](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") CD를 재생하는 통상적인 방법을 통제하는데, 문제는 루트킷이 시스템을 다른 [악성 코드들의](https://ko.wikipedia.org/wiki/악성_코드 "wikilink") 침투로부터 취약하게 만든다는 것이었다. 이 문제점은 마이크로소프트의 소프트웨어 엔지니어인 [마크 러시노비치가](https://ko.wikipedia.org/wiki/마크_러시노비치 "wikilink") 처음 발견하고 공개하였다. 윈도 이외의 다른 운영체제는 영향을 받지 않았다.
+소니 BMG는 자사에서 발매한 음반 CD에 복사 방지 기술인 Extended Copy Protection (XCP)와 MediaMax CD-3을 채용하였다. 이 소프트웨어는 사용자가 CD를 컴퓨터로 재생하려 할 때 자동으로 시스템에 설치되었다. 소프트웨어는 루트킷을 설치함으로써 [마이크로소프트 윈도가](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") CD를 재생하는 통상적인 방법을 통제하는데, 문제는 루트킷이 시스템을 다른 [악성 코드들의](https://ko.wikipedia.org/wiki/악성_코드 "wikilink") 침투로부터 취약하게 만든다는 것이었다. 이 문제점은 마이크로소프트의 소프트웨어 엔지니어인 [마크 러시노비치가](../Page/마크_러시노비치.md "wikilink") 처음 발견하고 공개하였다. 윈도 이외의 다른 운영체제는 영향을 받지 않았다.
 
-이에 따라 여러 단체들이 소니 BMG를 상대로 피해배상 소송을 청구했으며, 소니 BMG는 문제가 된 CD들을 리콜하였다. 또한 이 사건을 통해 소니가 저작권 보호 프로그램에 쓰인 [LAME](https://ko.wikipedia.org/wiki/LAME "wikilink") 코드를 사용하는 과정에서 [GNU 일반 공중 사용 허가서를](https://ko.wikipedia.org/wiki/GNU_일반_공중_사용_허가서 "wikilink") 위반하였다는 사실도 밝혀졌다.
+이에 따라 여러 단체들이 소니 BMG를 상대로 피해배상 소송을 청구했으며, 소니 BMG는 문제가 된 CD들을 리콜하였다. 또한 이 사건을 통해 소니가 저작권 보호 프로그램에 쓰인 [LAME](../Page/LAME.md "wikilink") 코드를 사용하는 과정에서 [GNU 일반 공중 사용 허가서를](../Page/GNU_일반_공중_사용_허가서.md "wikilink") 위반하였다는 사실도 밝혀졌다.
 
 ## 전개
 
@@ -17,7 +17,7 @@
 
 ### 문제화
 
-2005년 10월 31일, [마크 러시노비치가](https://ko.wikipedia.org/wiki/마크_러시노비치 "wikilink") 자신의 블로그에 소니 BMG의 음악 CD에 탑재된 XCP 소프트웨어에 대한 분석을 포스팅하였다.\[3\] 러시노비치는 이 프로그램이 [웜](https://ko.wikipedia.org/wiki/웜 "wikilink")이나 [바이러스](https://ko.wikipedia.org/wiki/바이러스 "wikilink")가 침투할 수 있는 보안 취약점을 만든다고 주장하였다. 또한 XCP 소프트웨어가 [소프트웨어 라이선스 동의](https://ko.wikipedia.org/wiki/소프트웨어_라이선스_동의 "wikilink") 이전에 동의 없이 설치되며, 제거 프로그램 또한 없다고 덧붙였다.
+2005년 10월 31일, [마크 러시노비치가](../Page/마크_러시노비치.md "wikilink") 자신의 블로그에 소니 BMG의 음악 CD에 탑재된 XCP 소프트웨어에 대한 분석을 포스팅하였다.\[3\] 러시노비치는 이 프로그램이 [웜](../Page/웜.md "wikilink")이나 [바이러스](../Page/바이러스.md "wikilink")가 침투할 수 있는 보안 취약점을 만든다고 주장하였다. 또한 XCP 소프트웨어가 [소프트웨어 라이선스 동의](https://ko.wikipedia.org/wiki/소프트웨어_라이선스_동의 "wikilink") 이전에 동의 없이 설치되며, 제거 프로그램 또한 없다고 덧붙였다.
 
 앤티 바이러스 회사인 [F-Secure](https://ko.wikipedia.org/wiki/F-Secure "wikilink")는 "이 소프트웨어가 직접적으로 해를 입히지는 않지만, 기술을 숨기는 데 사용된 루트킷은 악성 소프트웨어가 자신들을 숨기기 위해 사용하는 것과 똑같다. DRM 소프트웨어가 앤티 바이러스 소프트웨어들의 오진을 일으킬 것이다. 그러므로 상용 소프트웨어가 이런 기술을 사용하는 것은 매우 부적합하다."라고 발표하였다.\[4\]
 
@@ -61,7 +61,7 @@
 
 1.  Anastasi, M. A. ["Sony Exec: We Will Beat Napster,"](http://www.nyfairuse.org/sony.xhtml)  New Yorkers For Fair Use web site, August 17, 2000,
 2.  Rohde, Laura (2001-09-27). [Sony: Downbeat for a new online music battle](http://archives.cnn.com/2001/TECH/industry/09/27/sony.music.battle.idg/index.html), IDG.
-3.  [마크 러시노비치](https://ko.wikipedia.org/wiki/마크_러시노비치 "wikilink") (2005-10-31). [1](http://blogs.technet.com/markrussinovich/archive/2005/10/31/sony-rootkits-and-digital-rights-management-gone-too-far.aspx) Mark's Blog. Microsoft MSDN.
+3.  [마크 러시노비치](../Page/마크_러시노비치.md "wikilink") (2005-10-31). [1](http://blogs.technet.com/markrussinovich/archive/2005/10/31/sony-rootkits-and-digital-rights-management-gone-too-far.aspx) Mark's Blog. Microsoft MSDN.
 4.  Larvala, Samuli. ["F-Secure Rootkit Information : XCP DRM Software"](http://www.f-secure.com/v-descs/xcp_drm.shtml)  F-secure Computer Rootkit Information Pages, November 29, 2005.
 5.  vnunet (2005-11-15), ["Sony backs out of rootkit anti-piracy scheme"](https://web.archive.org/web/20051124115346/http://www.vnunet.com/vnunet/news/2146053/sony-backs-root-kit-anti-piracy)
 6.  ["First 4 Internet XCP DRM Vulnerabilities"](http://www.us-cert.gov/current/archive/2005/11/17/archive.html#xcpdrm) , US-CERT Activity Archive, November 15, 2005.

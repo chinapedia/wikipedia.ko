@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Lost and Found \(EP\)](https://ko.wikipedia.org/wiki/Lost_and_Found_\(EP\)).
 
 
-***Lost and Found***는 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [9월 23일에](https://ko.wikipedia.org/wiki/9월_23일 "wikilink") 발매된 [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink")의 첫 번째 데뷔 [미니앨범이다](../Page/익스텐디드_플레이.md "wikilink").
+***Lost and Found***는 [2008년](../Page/2008년.md "wikilink") [9월 23일에](../Page/9월_23일.md "wikilink") 발매된 [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink")의 첫 번째 데뷔 [미니앨범이다](../Page/익스텐디드_플레이.md "wikilink").
 
-타이틀곡 〈미아〉로 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [9월 18일](https://ko.wikipedia.org/wiki/9월_18일 "wikilink") 케이블 방송 [엠넷](../Page/엠넷.md "wikilink") 《[M Countdown](https://ko.wikipedia.org/wiki/엠_카운트다운 "wikilink")》에서 데뷔 무대를 가졌고, 공중파 첫 데뷔 무대는 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [9월 20일](https://ko.wikipedia.org/wiki/9월_20일 "wikilink"), [MBC](../Page/MBC_TV.md "wikilink") 《[쇼\! 음악중심](https://ko.wikipedia.org/wiki/쇼!_음악중심 "wikilink")》에서 열었다.
+타이틀곡 〈미아〉로 [2008년](../Page/2008년.md "wikilink") [9월 18일](../Page/9월_18일.md "wikilink") 케이블 방송 [엠넷](../Page/엠넷.md "wikilink") 《[M Countdown](https://ko.wikipedia.org/wiki/엠_카운트다운 "wikilink")》에서 데뷔 무대를 가졌고, 공중파 첫 데뷔 무대는 [2008년](../Page/2008년.md "wikilink") [9월 20일](../Page/9월_20일.md "wikilink"), [MBC](../Page/MBC_TV.md "wikilink") 《[쇼\! 음악중심](https://ko.wikipedia.org/wiki/쇼!_음악중심 "wikilink")》에서 열었다.
 
 [2008년 11월에는](../Page/2008년_11월.md "wikilink") [문화체육관광부](https://ko.wikipedia.org/wiki/문화체육관광부 "wikilink")에서 이달의 우수 신인음반으로 선정되기도 했다.\[1\]
 

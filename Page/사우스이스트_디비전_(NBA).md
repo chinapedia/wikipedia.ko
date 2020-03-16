@@ -18,15 +18,15 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/스테이트팜_아레나_(애틀랜타).md" title="wikilink">스테이트팜 아레나</a><br />
-(<a href="https://ko.wikipedia.org/wiki/조지아주" title="wikilink">조지아주</a> <a href="https://ko.wikipedia.org/wiki/애틀랜타" title="wikilink">애틀랜타</a>)</p></td>
+(<a href="../Page/조지아주.md" title="wikilink">조지아주</a> <a href="../Page/애틀랜타.md" title="wikilink">애틀랜타</a>)</p></td>
 <td><p><a href="../Page/스펙트럼_센터.md" title="wikilink">스펙트럼 센터</a><br />
-(<a href="https://ko.wikipedia.org/wiki/노스캐롤라이나주" title="wikilink">노스캐롤라이나주</a> <a href="../Page/샬럿.md" title="wikilink">샬럿</a>)</p></td>
+(<a href="../Page/노스캐롤라이나주.md" title="wikilink">노스캐롤라이나주</a> <a href="../Page/샬럿.md" title="wikilink">샬럿</a>)</p></td>
 <td><p><a href="../Page/아메리칸_에어라인스_아레나.md" title="wikilink">아메리칸 에어라인스 아레나</a><br />
-(<a href="https://ko.wikipedia.org/wiki/플로리다주" title="wikilink">플로리다주</a> <a href="https://ko.wikipedia.org/wiki/마이애미" title="wikilink">마이애미</a>)</p></td>
+(<a href="../Page/플로리다주.md" title="wikilink">플로리다주</a> <a href="../Page/마이애미.md" title="wikilink">마이애미</a>)</p></td>
 <td><p><a href="../Page/암웨이_센터.md" title="wikilink">암웨이 센터</a><br />
-(<a href="https://ko.wikipedia.org/wiki/플로리다주" title="wikilink">플로리다주</a> <a href="../Page/올랜도.md" title="wikilink">올랜도</a>)</p></td>
+(<a href="../Page/플로리다주.md" title="wikilink">플로리다주</a> <a href="../Page/올랜도.md" title="wikilink">올랜도</a>)</p></td>
 <td><p><a href="../Page/캐피털_원_아레나.md" title="wikilink">캐피털 원 아레나</a><br />
-(<a href="https://ko.wikipedia.org/wiki/워싱턴_D.C." title="wikilink">워싱턴 D.C.</a>)</p></td>
+(<a href="../Page/워싱턴_D.C..md" title="wikilink">워싱턴 D.C.</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p>수용인원: <strong>18,238명</strong></p></td>

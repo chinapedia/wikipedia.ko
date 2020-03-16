@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NBA  50 ](https://ko.wikipedia.org/wiki/NBA__50_).
 
 
-**NBA 위대한 50인 선수**(The 50 Greatest Players in National Basketball Association History)는 1996년 [NBA](https://ko.wikipedia.org/wiki/전미_농구_협회 "wikilink") 설립 50주년을 기념하여 선정되었다.
+**NBA 위대한 50인 선수**(The 50 Greatest Players in National Basketball Association History)는 1996년 [NBA](../Page/전미_농구_협회.md "wikilink") 설립 50주년을 기념하여 선정되었다.
 
 이 50명의 선수는 방송인, 전직 선수들과 코치들, 전,현직 감독들로 구성된 위원회의 투표로 결정되었다.
 
@@ -158,7 +158,7 @@
 <a href="../Page/워싱턴_위저즈.md" title="wikilink">워싱턴 불리츠</a> (1974년~1981년)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/매직_존슨" title="wikilink">매직 존슨</a></p></td>
+<td><p><a href="../Page/매직_존슨.md" title="wikilink">매직 존슨</a></p></td>
 <td><p>가드/포워드</p></td>
 <td><p><a href="../Page/로스앤젤레스_레이커스.md" title="wikilink">로스앤젤레스 레이커스</a> (1979년~1991년, 1995년~1996년)</p></td>
 </tr>

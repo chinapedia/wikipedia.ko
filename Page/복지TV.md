@@ -1,12 +1,12 @@
 > This article is converted from Wikipedia: [TV](https://ko.wikipedia.org/wiki/TV).
 
 
-**복지TV**(福祉TV, WBC, **W**elfare **B**rodcasting **C**hannel)는 [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink")에 개국한 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [사회적 약자](../Page/장애인.md "wikilink") 대상 [유료방송](../Page/대한민국의_케이블TV_방송.md "wikilink") [채널이다](https://ko.wikipedia.org/wiki/채널_\(통신\) "wikilink"). [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink")에 [의무채널로](../Page/공익채널.md "wikilink") 지정되었다.
+**복지TV**(福祉TV, WBC, **W**elfare **B**rodcasting **C**hannel)는 [2005년](../Page/2005년.md "wikilink") [2월](../Page/2월.md "wikilink")에 개국한 [대한민국](../Page/대한민국.md "wikilink")의 [사회적 약자](../Page/장애인.md "wikilink") 대상 [유료방송](../Page/대한민국의_케이블TV_방송.md "wikilink") [채널이다](https://ko.wikipedia.org/wiki/채널_\(통신\) "wikilink"). [2013년](../Page/2013년.md "wikilink")에 [의무채널로](../Page/공익채널.md "wikilink") 지정되었다.
 
 ## 로고송
 
-  - 희망을 나누어요 우리 모두 사랑해요 WBC 복지TV [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [12월](https://ko.wikipedia.org/wiki/12월 "wikilink") \~ [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink")
-  - 사랑이 넘치는 세상 복지TV [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") \~
+  - 희망을 나누어요 우리 모두 사랑해요 WBC 복지TV [2005년](../Page/2005년.md "wikilink") [12월](../Page/12월.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink")
+  - 사랑이 넘치는 세상 복지TV [2013년](../Page/2013년.md "wikilink") \~
 
 ## 프로그램
 
@@ -30,7 +30,7 @@
   - 옴니버스 다큐 처음
   - 건강 버라이어티 올리브
   - 아름다운 이야기 보석상자(이상 [OBS경인TV](../Page/OBS경인TV.md "wikilink") 제작)
-  - [사랑의 가족](https://ko.wikipedia.org/wiki/사랑의_가족 "wikilink")
+  - [사랑의 가족](../Page/사랑의_가족.md "wikilink")
   - [아름다운 사람들](../Page/아름다운_사람들.md "wikilink")
   - [왕과 비](../Page/왕과_비.md "wikilink")
   - [꽃밭에서](../Page/꽃밭에서.md "wikilink")(이상 [한국방송공사](../Page/한국방송공사.md "wikilink") 제작)

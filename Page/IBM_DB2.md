@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [IBM DB2](https://ko.wikipedia.org/wiki/IBM_DB2).
 
 
-**IBM DB2**는 [IBM](https://ko.wikipedia.org/wiki/IBM "wikilink")에서 1983년에 발표된 상업용 관계 [데이터베이스](https://ko.wikipedia.org/wiki/데이터베이스 "wikilink") 관리 시스템이다. MVS/XA와 MVS/370 운영체제에서 사용되며 [SQL](../Page/SQL.md "wikilink")을 데이터 언어로 사용하여 다수의 사용자들이 여러 개의 관계 데이터베이스를 동시에 접근할 수 있는 대형 데이터베이스를 위한 시스템이다.
+**IBM DB2**는 [IBM](../Page/IBM.md "wikilink")에서 1983년에 발표된 상업용 관계 [데이터베이스](../Page/데이터베이스.md "wikilink") 관리 시스템이다. MVS/XA와 MVS/370 운영체제에서 사용되며 [SQL](../Page/SQL.md "wikilink")을 데이터 언어로 사용하여 다수의 사용자들이 여러 개의 관계 데이터베이스를 동시에 접근할 수 있는 대형 데이터베이스를 위한 시스템이다.
 
 ## 역사
 
@@ -37,7 +37,7 @@ SQL 반환 코드 값은 다음과 같다:
 
 ## 같이 보기
 
-  - [IBM](https://ko.wikipedia.org/wiki/IBM "wikilink")
+  - [IBM](../Page/IBM.md "wikilink")
   - [관계형 데이터베이스 관리 시스템](../Page/관계형_데이터베이스_관리_시스템.md "wikilink")(RDBMS)
 
 ## 참조

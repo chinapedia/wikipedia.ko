@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SAP SE](https://ko.wikipedia.org/wiki/SAP_SE).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Sap-wdf.jpg "wikilink") **SAP**(Systems, Applications, and Products in Data Processing)은 [1972년](https://ko.wikipedia.org/wiki/1972년 "wikilink") [독일](https://ko.wikipedia.org/wiki/독일 "wikilink") 바인하임에서 다섯 명의 전직 [IBM](https://ko.wikipedia.org/wiki/IBM "wikilink") 출신 엔지니어가 설립한 회사이다. SAP의 업무용 애플리케이션 소프트웨어 분야 시장 점유율은 전 세계에서 가장 크다.\[1\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:Sap-wdf.jpg "wikilink") **SAP**(Systems, Applications, and Products in Data Processing)은 [1972년](../Page/1972년.md "wikilink") [독일](../Page/독일.md "wikilink") 바인하임에서 다섯 명의 전직 [IBM](../Page/IBM.md "wikilink") 출신 엔지니어가 설립한 회사이다. SAP의 업무용 애플리케이션 소프트웨어 분야 시장 점유율은 전 세계에서 가장 크다.\[1\]
 
 SAP은 데이터베이스를 이용하여 통합된 업무용 애플리케이션을 개발하였으며, 오늘날 IBM 이나 마이크로소프트 등과 같은 많은 기업들이 SAP 제품을 사용한다. SAP의 [전사적 자원 관리는](https://ko.wikipedia.org/wiki/전사적_자원_관리 "wikilink") 재무, 인사, 제조, 영업, 물류/유통, 설비 및 공사관리 기능뿐만 아니라 문서들이 자동적으로 사용자들에게 전달되는 워크플로우 기능도 제공한다. 또한 기술적으로 클라이언트/서버 모델을 채용하였으며, 윈도 NT부터 IBM 메인프레임에 이르는 대부분의 운영체계 플랫폼을 지원한다. 현재 SAP은 산업별 솔루션, 비즈니스 웨어하우스(Business Warehouse), 고객관계관리(CRM)와 같은 특성화된 제품 개발과 비즈니스 파트너와의 업무협조를 통해 ERP 및 기업용 정보시스템을 공급하면서 고객을 위한 성공적이고 효율적인 비즈니스 프로세서 리엔지니어링을 실현하고 있다.
 

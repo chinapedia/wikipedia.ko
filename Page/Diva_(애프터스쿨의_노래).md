@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Diva \( \)](https://ko.wikipedia.org/wiki/Diva_\(_\)).
 
 
-**"Diva"**는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [애프터스쿨](../Page/애프터스쿨.md "wikilink")이 2009년 4월 9일에 발표한 [디지털 싱글 앨범이다](../Page/싱글_\(음악\).md "wikilink"). 프로듀서로는 [용감한 형제가](../Page/용감한_형제.md "wikilink") 참여 하였으며, 작곡과 작사 모두 용감한 형제가 맡았다. 2011년 11월 23일에는 일본에서 애프터스쿨의 두 번째 싱글로 발매되었다.
+**"Diva"**는 [대한민국](../Page/대한민국.md "wikilink")의 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [애프터스쿨](../Page/애프터스쿨.md "wikilink")이 2009년 4월 9일에 발표한 [디지털 싱글 앨범이다](../Page/싱글_\(음악\).md "wikilink"). 프로듀서로는 [용감한 형제가](../Page/용감한_형제.md "wikilink") 참여 하였으며, 작곡과 작사 모두 용감한 형제가 맡았다. 2011년 11월 23일에는 일본에서 애프터스쿨의 두 번째 싱글로 발매되었다.
 
 ## 특징
 
@@ -13,7 +13,7 @@
 
 ## 차트
 
-### [가온 차트](https://ko.wikipedia.org/wiki/가온_차트 "wikilink")
+### [가온 차트](../Page/가온_차트.md "wikilink")
 
   - 앨범 차트: Diva \[Digital Single\] 9위 (2009년 5월)
   - 디지털 종합차트:

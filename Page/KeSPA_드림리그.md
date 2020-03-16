@@ -13,9 +13,9 @@
 
 ### 2008 1차 2군 평가전
 
-  - 리그기간 : [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [12월 10일](https://ko.wikipedia.org/wiki/12월_10일 "wikilink") \~ [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [1월 10일](https://ko.wikipedia.org/wiki/1월_10일 "wikilink")
+  - 리그기간 : [2007년](../Page/2007년.md "wikilink") [12월 10일](../Page/12월_10일.md "wikilink") \~ [2008년](../Page/2008년.md "wikilink") [1월 10일](../Page/1월_10일.md "wikilink")
   - STX SouL 불참
-  - 2008 1차 2군평가전 다승왕 - [정명훈](https://ko.wikipedia.org/wiki/정명훈 "wikilink")
+  - 2008 1차 2군평가전 다승왕 - [정명훈](../Page/정명훈.md "wikilink")
 
 | 순위 | 팀                                                             | 승패   | 승점   |
 | -- | ------------------------------------------------------------- | ---- | ---- |
@@ -34,7 +34,7 @@
 
 ### 2008 2차 2군 평가전
 
-  - 리그기간 : [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [5월 1일](https://ko.wikipedia.org/wiki/5월_1일 "wikilink") \~ [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [7월 3일](https://ko.wikipedia.org/wiki/7월_3일 "wikilink")
+  - 리그기간 : [2008년](../Page/2008년.md "wikilink") [5월 1일](../Page/5월_1일.md "wikilink") \~ [2008년](../Page/2008년.md "wikilink") [7월 3일](../Page/7월_3일.md "wikilink")
   - 로스터는 최소 4명에서 최대 10명까지 가능
   - 프로리그 1군 로스터에 포함된 1군 선수 중 최대 5명까지 로스터에 포함될 수 있다
   - 2008 2차 2군평가전 다승왕 - [노영훈](https://ko.wikipedia.org/wiki/노영훈 "wikilink")
@@ -57,10 +57,10 @@
 
 ### 2009 3차 2군 평가전
 
-  - 리그기간 : [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [4월 16일](https://ko.wikipedia.org/wiki/4월_16일 "wikilink") \~ [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [6월 18일](https://ko.wikipedia.org/wiki/6월_18일 "wikilink")
+  - 리그기간 : [2009년](../Page/2009년.md "wikilink") [4월 16일](../Page/4월_16일.md "wikilink") \~ [2009년](../Page/2009년.md "wikilink") [6월 18일](../Page/6월_18일.md "wikilink")
   - 경기 승패와 상관없이 5세트까지 진행
   - STX SouL 불참
-  - 2009 3차 2군평가전 다승왕 - [김성대](https://ko.wikipedia.org/wiki/김성대 "wikilink"), [최호선](https://ko.wikipedia.org/wiki/최호선 "wikilink")
+  - 2009 3차 2군평가전 다승왕 - [김성대](https://ko.wikipedia.org/wiki/김성대 "wikilink"), [최호선](../Page/최호선.md "wikilink")
 
 | 순위 | 팀                                                             | 승패    | 승점   |
 | -- | ------------------------------------------------------------- | ----- | ---- |
@@ -79,7 +79,7 @@
 
 ### 09-10 시즌
 
-  - 리그기간 : [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [11월 26일](https://ko.wikipedia.org/wiki/11월_26일 "wikilink") \~ [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [6월 17일](https://ko.wikipedia.org/wiki/6월_17일 "wikilink")
+  - 리그기간 : [2009년](../Page/2009년.md "wikilink") [11월 26일](../Page/11월_26일.md "wikilink") \~ [2010년](../Page/2010년.md "wikilink") [6월 17일](../Page/6월_17일.md "wikilink")
   - 진행 방식은 1, 2라운드 풀리그로 진행되며, 팀 당 16경기씩 총 110경기가 진행된다. 공식맵은 신한은행 프로리그 09-10시즌 1라운드 공식맵과 동일한 6개 맵을 사용한다.
   - 경기 방식은 5전 3선승제로 진행되고 로스터 유효기간은 프로리그 1군 로스터 유효기간과 동일하다. 엔트리는 종족별 의무 출전제가 적용되며 매주 목요일 오후 1시에 협회 홈페이지를 통해 공지된다.
   - KeSPA 드림리그 09-10시즌 다승왕 - [김민철](https://ko.wikipedia.org/wiki/김민철 "wikilink")
@@ -105,11 +105,11 @@
 
 | 순위 | 이름                                                            | 종족      | 팀                                                             | 출전수 | 승  | 패 | 승률   |
 | -- | ------------------------------------------------------------- | ------- | ------------------------------------------------------------- | --- | -- | - | ---- |
-| 1  | [김민철](https://ko.wikipedia.org/wiki/김민철_\(프로게이머\) "wikilink") | Zerg    | [웅진 스타즈](../Page/웅진_스타즈.md "wikilink")                        | 14  | 12 | 2 | 86%  |
-| 2  | [장윤철](https://ko.wikipedia.org/wiki/장윤철 "wikilink")           | Protoss | [CJ 엔투스](https://ko.wikipedia.org/wiki/CJ_엔투스 "wikilink")     | 11  | 11 | 0 | 100% |
+| 1  | [김민철](../Page/김민철_\(프로게이머\).md "wikilink")                    | Zerg    | [웅진 스타즈](../Page/웅진_스타즈.md "wikilink")                        | 14  | 12 | 2 | 86%  |
+| 2  | [장윤철](../Page/장윤철.md "wikilink")                              | Protoss | [CJ 엔투스](https://ko.wikipedia.org/wiki/CJ_엔투스 "wikilink")     | 11  | 11 | 0 | 100% |
 | 3  | [장민철](../Page/장민철.md "wikilink")                              | Protoss | [MBC게임 히어로](../Page/MBC게임_히어로.md "wikilink")                  | 11  | 10 | 1 | 91%  |
 | 3  | [정우용](https://ko.wikipedia.org/wiki/정우용_\(프로게이머\) "wikilink") | Terran  | [CJ 엔투스](https://ko.wikipedia.org/wiki/CJ_엔투스 "wikilink")     | 14  | 10 | 4 | 71%  |
-| 5  | [최호선](https://ko.wikipedia.org/wiki/최호선 "wikilink")           | Terran  | [SK텔레콤 T1](https://ko.wikipedia.org/wiki/SK텔레콤_T1 "wikilink") | 12  | 9  | 3 | 75%  |
+| 5  | [최호선](../Page/최호선.md "wikilink")                              | Terran  | [SK텔레콤 T1](https://ko.wikipedia.org/wiki/SK텔레콤_T1 "wikilink") | 12  | 9  | 3 | 75%  |
 | 6  | [황병영](https://ko.wikipedia.org/wiki/황병영 "wikilink")           | Terran  | [KT 롤스터](https://ko.wikipedia.org/wiki/KT_롤스터 "wikilink")     | 16  | 9  | 7 | 56%  |
 | 7  | [이승석](../Page/이승석.md "wikilink")                              | Zerg    | [SK텔레콤 T1](https://ko.wikipedia.org/wiki/SK텔레콤_T1 "wikilink") | 10  | 8  | 2 | 80%  |
 | 8  | [유영진](https://ko.wikipedia.org/wiki/유영진 "wikilink")           | Terran  | [CJ 엔투스](https://ko.wikipedia.org/wiki/CJ_엔투스 "wikilink")     | 11  | 8  | 3 | 73%  |
@@ -118,11 +118,11 @@
 
 #### 포스트시즌
 
-|- \!colspan="3"|준플레이오프 - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [6월 24일](https://ko.wikipedia.org/wiki/6월_24일 "wikilink") [목요일](https://ko.wikipedia.org/wiki/목요일 "wikilink")  |- \!colspan="3"|플레이오프 - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [7월 1일](https://ko.wikipedia.org/wiki/7월_1일 "wikilink") [목요일](https://ko.wikipedia.org/wiki/목요일 "wikilink")  |- \!colspan="3"|결승전 - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [7월 8일](https://ko.wikipedia.org/wiki/7월_8일 "wikilink") [목요일](https://ko.wikipedia.org/wiki/목요일 "wikilink")  |}
+|- \!colspan="3"|준플레이오프 - [2010년](../Page/2010년.md "wikilink") [6월 24일](../Page/6월_24일.md "wikilink") [목요일](../Page/목요일.md "wikilink")  |- \!colspan="3"|플레이오프 - [2010년](../Page/2010년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") [목요일](../Page/목요일.md "wikilink")  |- \!colspan="3"|결승전 - [2010년](../Page/2010년.md "wikilink") [7월 8일](../Page/7월_8일.md "wikilink") [목요일](../Page/목요일.md "wikilink")  |}
 
 ### 10-11 시즌
 
-  - 리그기간 : [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [12월 23일](https://ko.wikipedia.org/wiki/12월_23일 "wikilink") \~ [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [6월 2일](https://ko.wikipedia.org/wiki/6월_2일 "wikilink")
+  - 리그기간 : [2010년](../Page/2010년.md "wikilink") [12월 23일](../Page/12월_23일.md "wikilink") \~ [2011년](../Page/2011년.md "wikilink") [6월 2일](../Page/6월_2일.md "wikilink")
   - 진행 방식은 1, 2라운드 풀리그로 진행되며, 팀 당 14경기씩 총 56경기가 진행된다. 공식맵은 신한은행 프로리그 10-11시즌 2라운드 공식맵과 동일한 8개 맵을 사용한다.
   - 기존 5전 3선승제에서(5세트 ACE 결정전)에서 5세트 동시 진행 후(ACE결정전 없는 프로리그 방식) 각 팀 승자간의 승자연전방식으로 변경되었다.
   - 로스터 유효기간은 프로리그 1군 로스터 유효기간과 동일하다. 엔트리는 종족별 의무 출전제가 적용되며 매주 목요일 오후 1시에 협회 홈페이지를 통해 공지된다.
@@ -161,7 +161,7 @@
 
 #### 포스트시즌
 
-|- \!colspan="3"|준플레이오프 - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [5월 19일](https://ko.wikipedia.org/wiki/5월_19일 "wikilink") [목요일](https://ko.wikipedia.org/wiki/목요일 "wikilink")  |- \!colspan="3"|플레이오프 - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [5월 26일](https://ko.wikipedia.org/wiki/5월_26일 "wikilink") [목요일](https://ko.wikipedia.org/wiki/목요일 "wikilink")  |- \!colspan="3"|결승전 - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [6월 2일](https://ko.wikipedia.org/wiki/6월_2일 "wikilink") [목요일](https://ko.wikipedia.org/wiki/목요일 "wikilink")  |}
+|- \!colspan="3"|준플레이오프 - [2011년](../Page/2011년.md "wikilink") [5월 19일](../Page/5월_19일.md "wikilink") [목요일](../Page/목요일.md "wikilink")  |- \!colspan="3"|플레이오프 - [2011년](../Page/2011년.md "wikilink") [5월 26일](../Page/5월_26일.md "wikilink") [목요일](../Page/목요일.md "wikilink")  |- \!colspan="3"|결승전 - [2011년](../Page/2011년.md "wikilink") [6월 2일](../Page/6월_2일.md "wikilink") [목요일](../Page/목요일.md "wikilink")  |}
 
 ## 각주
 

@@ -1,14 +1,14 @@
 > This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
 
 
-**영광 FC**()는 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink")부터 [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink")까지 [K3리그에](../Page/K3리그_\(아마추어\).md "wikilink") 참가한 축구단으로, [전라남도](https://ko.wikipedia.org/wiki/전라남도 "wikilink") [영광군을](https://ko.wikipedia.org/wiki/영광군_\(전라남도\) "wikilink") 연고로 한다.\[1\] 홈 구장은 [영광스포티움](../Page/영광스포티움.md "wikilink")이고, 초대 감독으로 [정평열](https://ko.wikipedia.org/wiki/정평열 "wikilink") 감독이 선임되었다. 현재는 [K5리그](https://ko.wikipedia.org/wiki/K5리그 "wikilink")의 광주/전남리그에 참가하고 있다.
+**영광 FC**()는 [2010년](../Page/2010년.md "wikilink")부터 [2016년](../Page/2016년.md "wikilink")까지 [K3리그에](../Page/K3리그_\(아마추어\).md "wikilink") 참가한 축구단으로, [전라남도](https://ko.wikipedia.org/wiki/전라남도 "wikilink") [영광군을](../Page/영광군_\(전라남도\).md "wikilink") 연고로 한다.\[1\] 홈 구장은 [영광스포티움](../Page/영광스포티움.md "wikilink")이고, 초대 감독으로 [정평열](https://ko.wikipedia.org/wiki/정평열 "wikilink") 감독이 선임되었다. 현재는 [K5리그](../Page/K5리그.md "wikilink")의 광주/전남리그에 참가하고 있다.
 
 ## 연혁
 
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [12월 1일](https://ko.wikipedia.org/wiki/12월_1일 "wikilink") [K3리그](https://ko.wikipedia.org/wiki/K3리그 "wikilink") 참가 승인
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [1월 28일](https://ko.wikipedia.org/wiki/1월_28일 "wikilink") 창단
+  - [2009년](../Page/2009년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") [K3리그](https://ko.wikipedia.org/wiki/K3리그 "wikilink") 참가 승인
+  - [2010년](../Page/2010년.md "wikilink") [1월 28일](../Page/1월_28일.md "wikilink") 창단
   - 2017시즌 불참
-  - [2020년](https://ko.wikipedia.org/wiki/2020년 "wikilink") [K5리그](https://ko.wikipedia.org/wiki/K5리그 "wikilink") 광주/전남 리그 편입
+  - [2020년](../Page/2020년.md "wikilink") [K5리그](../Page/K5리그.md "wikilink") 광주/전남 리그 편입
 
 ## 시즌결과
 

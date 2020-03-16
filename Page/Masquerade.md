@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Masquerade](https://ko.wikipedia.org/wiki/Masquerade).
 
 
-***Masquerade*** (매스퀘레이드, 가장)은 2인조 힙합그룹 [TBNY](../Page/TBNY.md "wikilink")의 첫 번째 정규 음반이다. [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [4월 11일에](https://ko.wikipedia.org/wiki/4월_11일 "wikilink") 발매되었다.
+***Masquerade*** (매스퀘레이드, 가장)은 2인조 힙합그룹 [TBNY](../Page/TBNY.md "wikilink")의 첫 번째 정규 음반이다. [2006년](../Page/2006년.md "wikilink") [4월 11일에](../Page/4월_11일.md "wikilink") 발매되었다.
 
 ## 수록곡
 
@@ -15,7 +15,7 @@
 8.  차렷\! \[ feat.[Dynamic Duo](https://ko.wikipedia.org/wiki/Dynamic_Duo "wikilink"),[Tablo](https://ko.wikipedia.org/wiki/Tablo "wikilink") \]
 9.  경극 \[ feat. UnknownDJs \]
 10. 기도 \[ feat. [태완](../Page/태완.md "wikilink") a.k.a C-Luv \]
-11. 양면성 \[ feat. [YDG (양동근)](https://ko.wikipedia.org/wiki/양동근 "wikilink") \]
+11. 양면성 \[ feat. [YDG (양동근)](../Page/양동근.md "wikilink") \]
 12. **왜 서있어 \[ feat. 현준 \]**
 13. Natural
 14. 투루먼쇼 \[ feat. [Sean2Slow](https://ko.wikipedia.org/wiki/Sean2Slow "wikilink"), DJ Bamboo \]

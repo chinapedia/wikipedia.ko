@@ -18,15 +18,15 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/아메리칸_에어라인스_센터.md" title="wikilink">아메리칸 에어라인스 센터</a><br />
-(<a href="https://ko.wikipedia.org/wiki/텍사스주" title="wikilink">텍사스주</a> <a href="../Page/댈러스.md" title="wikilink">댈러스</a>)</p></td>
+(<a href="../Page/텍사스주.md" title="wikilink">텍사스주</a> <a href="../Page/댈러스.md" title="wikilink">댈러스</a>)</p></td>
 <td><p><a href="../Page/도요타_센터.md" title="wikilink">도요타 센터</a><br />
-(<a href="https://ko.wikipedia.org/wiki/텍사스주" title="wikilink">텍사스주</a> <a href="../Page/휴스턴.md" title="wikilink">휴스턴</a>)</p></td>
+(<a href="../Page/텍사스주.md" title="wikilink">텍사스주</a> <a href="../Page/휴스턴.md" title="wikilink">휴스턴</a>)</p></td>
 <td><p><a href="../Page/페덱스_포럼.md" title="wikilink">페덱스 포럼</a><br />
-(<a href="https://ko.wikipedia.org/wiki/테네시주" title="wikilink">테네시주</a> <a href="../Page/멤피스_(테네시주).md" title="wikilink">멤피스</a>)</p></td>
+(<a href="../Page/테네시주.md" title="wikilink">테네시주</a> <a href="../Page/멤피스_(테네시주).md" title="wikilink">멤피스</a>)</p></td>
 <td><p><a href="../Page/스무디킹_센터.md" title="wikilink">스무디킹 센터</a><br />
-(<a href="https://ko.wikipedia.org/wiki/루이지애나주" title="wikilink">루이지애나주</a> <a href="https://ko.wikipedia.org/wiki/뉴올리언스" title="wikilink">뉴올리언스</a>)</p></td>
+(<a href="../Page/루이지애나주.md" title="wikilink">루이지애나주</a> <a href="../Page/뉴올리언스.md" title="wikilink">뉴올리언스</a>)</p></td>
 <td><p><a href="../Page/AT&amp;T_센터.md" title="wikilink">AT&amp;T 센터</a><br />
-(<a href="https://ko.wikipedia.org/wiki/텍사스주" title="wikilink">텍사스주</a> <a href="../Page/샌안토니오.md" title="wikilink">샌안토니오</a>)</p></td>
+(<a href="../Page/텍사스주.md" title="wikilink">텍사스주</a> <a href="../Page/샌안토니오.md" title="wikilink">샌안토니오</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p>수용인원: <strong>19,200명</strong></p></td>

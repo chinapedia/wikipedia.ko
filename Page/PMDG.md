@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [PMDG](https://ko.wikipedia.org/wiki/PMDG).
 
 
-**PMDG**()는 《[플라이트 시뮬레이터](https://ko.wikipedia.org/wiki/플라이트_시뮬레이터 "wikilink")》 시리즈의 상용 애드온 개발 회사이다. 실제 항공기와 최대한 흡사하게 게임 속의 [항공기](https://ko.wikipedia.org/wiki/항공기 "wikilink")를 디자인한다는 점에서, 이 회사는 《플라이트 시뮬레이터》 애드온 및 개발자 커뮤니티의 리더로 언급되고 있다.\[1\]\[2\] 현재 종업원은 8명이며, 항공 전문가를 포함한 몇 명의 [베타 테스터도](https://ko.wikipedia.org/wiki/베타_테스터 "wikilink") 있다.\[3\]
+**PMDG**()는 《[플라이트 시뮬레이터](https://ko.wikipedia.org/wiki/플라이트_시뮬레이터 "wikilink")》 시리즈의 상용 애드온 개발 회사이다. 실제 항공기와 최대한 흡사하게 게임 속의 [항공기](../Page/항공기.md "wikilink")를 디자인한다는 점에서, 이 회사는 《플라이트 시뮬레이터》 애드온 및 개발자 커뮤니티의 리더로 언급되고 있다.\[1\]\[2\] 현재 종업원은 8명이며, 항공 전문가를 포함한 몇 명의 [베타 테스터도](https://ko.wikipedia.org/wiki/베타_테스터 "wikilink") 있다.\[3\]
 
 ## 역사
 
-PMDG는 《플라이트 시뮬레이터》 시리즈의 자세한 설명서를 제작하는 것에서 시작하였으며, 회사명은 그에서 유래한다.\[4\] 그러나, 플라이트 시뮬레이터의 [보잉 747과](../Page/보잉_747.md "wikilink") [보잉 757에](https://ko.wikipedia.org/wiki/보잉_757 "wikilink") 대한 설명서 2개만을 제작한 이후, 회사는 곧 《플라이트 시뮬레이터》의 애드온 항공기를 제작하기 시작하였다. PMDG의 첫 작품은 flight Simulater용으로 제작된 [보잉 757과](https://ko.wikipedia.org/wiki/보잉_757 "wikilink") [보잉 767](https://ko.wikipedia.org/wiki/보잉_767 "wikilink") 패키지였으며, 이 애드온은 매킨토시 또는 PC에서 플레이할 수 있었다. \[5\]
+PMDG는 《플라이트 시뮬레이터》 시리즈의 자세한 설명서를 제작하는 것에서 시작하였으며, 회사명은 그에서 유래한다.\[4\] 그러나, 플라이트 시뮬레이터의 [보잉 747과](../Page/보잉_747.md "wikilink") [보잉 757에](../Page/보잉_757.md "wikilink") 대한 설명서 2개만을 제작한 이후, 회사는 곧 《플라이트 시뮬레이터》의 애드온 항공기를 제작하기 시작하였다. PMDG의 첫 작품은 flight Simulater용으로 제작된 [보잉 757과](../Page/보잉_757.md "wikilink") [보잉 767](../Page/보잉_767.md "wikilink") 패키지였으며, 이 애드온은 매킨토시 또는 PC에서 플레이할 수 있었다. \[5\]
 
 ## 항공기
 
@@ -21,23 +21,23 @@ PMDG는 각각의 변형 모델을 포함하여, 《플라이트 시뮬레이터
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/보잉_737" title="wikilink">737-600</a></p></td>
+<td><p><a href="../Page/보잉_737.md" title="wikilink">737-600</a></p></td>
 <td><p><a href="../Page/보잉_747.md" title="wikilink">747-400X</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/보잉_757" title="wikilink">757</a></p></td>
+<td><p><a href="../Page/보잉_757.md" title="wikilink">757</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/보잉_737" title="wikilink">737-700</a></p></td>
+<td><p><a href="../Page/보잉_737.md" title="wikilink">737-700</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/맥도넬더글러스_MD-11" title="wikilink">MD-11</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/보잉_767" title="wikilink">767</a></p></td>
+<td><p><a href="../Page/보잉_767.md" title="wikilink">767</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/보잉_737" title="wikilink">737-800</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/보잉_737" title="wikilink">737 NGX</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/보잉_777" title="wikilink">777</a></p>
+<td><p><a href="../Page/보잉_737.md" title="wikilink">737-800</a></p></td>
+<td><p><a href="../Page/보잉_737.md" title="wikilink">737 NGX</a></p></td>
+<td><p><a href="../Page/보잉_777.md" title="wikilink">777</a></p>
 <p><code>보잉 777-300er</code></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/보잉_737" title="wikilink">737-900</a></p></td>
+<td><p><a href="../Page/보잉_737.md" title="wikilink">737-900</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/BAe_제트스트림_41" title="wikilink">JS4100</a></p></td>
 <td></td>
 </tr>
@@ -48,7 +48,7 @@ PMDG는 각각의 변형 모델을 포함하여, 《플라이트 시뮬레이터
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/비치크래프트_1900" title="wikilink">비치크래프트 1900D</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/보잉_777" title="wikilink">보잉 777</a></p></td>
+<td><p><a href="../Page/보잉_777.md" title="wikilink">보잉 777</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

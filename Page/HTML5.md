@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [HTML5](https://ko.wikipedia.org/wiki/HTML5).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:HTML5-logo.svg "wikilink")  **HTML5**는 [HTML](https://ko.wikipedia.org/wiki/HTML "wikilink")의 완전한 5번째 버전으로 월드 와이드 웹 (World Wide Web)의 핵심 [마크업 언어이다](https://ko.wikipedia.org/wiki/마크업_언어 "wikilink"). 2004년 7월 Web Hypertext Application Technology Working Group(WHATWG)에서 웹 애플리케이션 1.0이라는 이름으로 세부 명세 작업을 시작하였다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:HTML5-logo.svg "wikilink")  **HTML5**는 [HTML](../Page/HTML.md "wikilink")의 완전한 5번째 버전으로 월드 와이드 웹 (World Wide Web)의 핵심 [마크업 언어이다](../Page/마크업_언어.md "wikilink"). 2004년 7월 Web Hypertext Application Technology Working Group(WHATWG)에서 웹 애플리케이션 1.0이라는 이름으로 세부 명세 작업을 시작하였다.
 
-HTML5는 [HTML 4.01](https://ko.wikipedia.org/wiki/HTML_4.01 "wikilink"), [XHTML](https://ko.wikipedia.org/wiki/XHTML "wikilink") 1.0, DOM 레벨 2 HTML에 대한 차기 표준 제안이다. 비디오, 오디오 등 다양한 부가기능과 최신 멀티미디어 콘텐츠를 [액티브X](../Page/액티브X.md "wikilink") 없이 브라우저에서 쉽게 볼 수 있게 하는 것을 목적으로 한다.
+HTML5는 [HTML 4.01](https://ko.wikipedia.org/wiki/HTML_4.01 "wikilink"), [XHTML](../Page/XHTML.md "wikilink") 1.0, DOM 레벨 2 HTML에 대한 차기 표준 제안이다. 비디오, 오디오 등 다양한 부가기능과 최신 멀티미디어 콘텐츠를 [액티브X](../Page/액티브X.md "wikilink") 없이 브라우저에서 쉽게 볼 수 있게 하는 것을 목적으로 한다.
 
-[W3C](https://ko.wikipedia.org/wiki/W3C "wikilink")는 2014년 10월 28일 HTML5 표준안을 확정했다고 발표했다.
+[W3C](../Page/W3C.md "wikilink")는 2014년 10월 28일 HTML5 표준안을 확정했다고 발표했다.
 
 이후 2016년 11월 1일 HTML5의 마이너 업데이트 버전인 HTML5.1 표준안을 확정, 2017년 12월 14일 HTML5.2 표준안을 확정했다. HTML5.3 표준안은 현재 작업 초안 단계로 진행 중이다.
 
@@ -97,7 +97,7 @@ HTML5.1 개발 일정
 <td><p>463</p></td>
 </tr>
 <tr class="even">
-<td><p>| <a href="https://ko.wikipedia.org/wiki/모질라_파이어폭스" title="wikilink">파이어폭스</a></p></td>
+<td><p>| <a href="../Page/모질라_파이어폭스.md" title="wikilink">파이어폭스</a></p></td>
 <td><p>10.0</p></td>
 <td><p>332/475</p></td>
 <td><p>12</p></td>
@@ -110,7 +110,7 @@ HTML5.1 개발 일정
 <td><p>410</p></td>
 </tr>
 <tr class="odd">
-<td><p>| <a href="https://ko.wikipedia.org/wiki/오페라_(웹_브라우저)" title="wikilink">오페라</a></p></td>
+<td><p>| <a href="../Page/오페라_(웹_브라우저).md" title="wikilink">오페라</a></p></td>
 <td><p>11.60</p></td>
 <td><p>329/475</p></td>
 <td><p>11.60</p></td>
@@ -123,7 +123,7 @@ HTML5.1 개발 일정
 <td><p>423</p></td>
 </tr>
 <tr class="even">
-<td><p>| <a href="https://ko.wikipedia.org/wiki/오페라_(웹_브라우저)" title="wikilink">오페라</a></p></td>
+<td><p>| <a href="../Page/오페라_(웹_브라우저).md" title="wikilink">오페라</a></p></td>
 <td><p>12 알파</p></td>
 <td><p>344/475</p></td>
 <td><p>12.00</p></td>
@@ -149,7 +149,7 @@ HTML5.1 개발 일정
 <td><p>378</p></td>
 </tr>
 <tr class="even">
-<td><p>| <a href="https://ko.wikipedia.org/wiki/인터넷_익스플로러" title="wikilink">인터넷 익스플로러</a></p></td>
+<td><p>| <a href="../Page/인터넷_익스플로러.md" title="wikilink">인터넷 익스플로러</a></p></td>
 <td><p>9</p></td>
 <td><p>141/475</p></td>
 <td><p>9</p></td>
@@ -162,7 +162,7 @@ HTML5.1 개발 일정
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>| <a href="https://ko.wikipedia.org/wiki/인터넷_익스플로러" title="wikilink">인터넷 익스플로러</a></p></td>
+<td><p>| <a href="../Page/인터넷_익스플로러.md" title="wikilink">인터넷 익스플로러</a></p></td>
 <td><p>10</p></td>
 <td><p>306/475</p></td>
 <td><p>10</p></td>
@@ -175,7 +175,7 @@ HTML5.1 개발 일정
 <td><p>320</p></td>
 </tr>
 <tr class="even">
-<td><p>| <a href="https://ko.wikipedia.org/wiki/맥스톤" title="wikilink">맥스톤</a></p></td>
+<td><p>| <a href="../Page/맥스톤.md" title="wikilink">맥스톤</a></p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>3.3.7</p></td>
@@ -214,7 +214,7 @@ HTML5.1 개발 일정
 <td><p>417</p></td>
 </tr>
 <tr class="odd">
-<td><p>| <a href="https://ko.wikipedia.org/wiki/블랙베리_OS" title="wikilink">블랙베리 (모바일)</a></p></td>
+<td><p>| <a href="../Page/블랙베리_OS.md" title="wikilink">블랙베리 (모바일)</a></p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
@@ -270,7 +270,7 @@ HTML5.1 개발 일정
 
 ## HTML5 기반 암호화 표준화 진행
 
-모질라한국커뮤니티는 웹 표준 기반 HTML5 암호화 및 대한민국의 공인인증서등에 사용가능한 [W3C](https://ko.wikipedia.org/wiki/W3C "wikilink") [웹 크립토그래피 API](https://www.w3.org/TR/WebCryptoAPI/)를 제안하였다.\[6\]\[7\]\[8\] 2014년 버전 이후로 W3C는 공식적으로 웹크립토그래피를 지원한다.\[9\]\[10\]
+모질라한국커뮤니티는 웹 표준 기반 HTML5 암호화 및 대한민국의 공인인증서등에 사용가능한 [W3C](../Page/W3C.md "wikilink") [웹 크립토그래피 API](https://www.w3.org/TR/WebCryptoAPI/)를 제안하였다.\[6\]\[7\]\[8\] 2014년 버전 이후로 W3C는 공식적으로 웹크립토그래피를 지원한다.\[9\]\[10\]
 
 ## 같이 보기
 
@@ -278,11 +278,11 @@ HTML5.1 개발 일정
 
   - [HTML5 레이아웃 엔진의 비교](https://ko.wikipedia.org/wiki/:en:Comparison_of_layout_engines_\(HTML5\) "wikilink")
 
-  - [HTML5 비디오](https://ko.wikipedia.org/wiki/HTML5_비디오 "wikilink")
+  - [HTML5 비디오](../Page/HTML5_비디오.md "wikilink")
 
-  - [HTML](https://ko.wikipedia.org/wiki/HTML "wikilink")
+  - [HTML](../Page/HTML.md "wikilink")
 
-  - [XHTML](https://ko.wikipedia.org/wiki/XHTML "wikilink")
+  - [XHTML](../Page/XHTML.md "wikilink")
 
   - [CSS3](https://ko.wikipedia.org/wiki/CSS3 "wikilink")
 

@@ -18,13 +18,13 @@
 
 ### 대회 일정
 
-  - **오프라인 예선**: [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [2월 5일](https://ko.wikipedia.org/wiki/2월_5일 "wikilink")
-  - **36강**: [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [2월 10일](https://ko.wikipedia.org/wiki/2월_10일 "wikilink") \~ [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [3월 19일](https://ko.wikipedia.org/wiki/3월_19일 "wikilink")
-  - **16강 조 지명식**: [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [3월 26일](https://ko.wikipedia.org/wiki/3월_26일 "wikilink")
-  - **16강**: [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [3월 31일](https://ko.wikipedia.org/wiki/3월_31일 "wikilink") \~ [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [4월 18일](https://ko.wikipedia.org/wiki/4월_18일 "wikilink")
-  - **8강**: [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [4월 23일](https://ko.wikipedia.org/wiki/4월_23일 "wikilink"), [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [4월 30일](https://ko.wikipedia.org/wiki/4월_30일 "wikilink")
-  - **4강**: [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [5월 7일](https://ko.wikipedia.org/wiki/5월_7일 "wikilink"), [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [5월 14일](https://ko.wikipedia.org/wiki/5월_14일 "wikilink")
-  - **결승**: [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [5월 22일](https://ko.wikipedia.org/wiki/5월_22일 "wikilink")
+  - **오프라인 예선**: [2010년](../Page/2010년.md "wikilink") [2월 5일](../Page/2월_5일.md "wikilink")
+  - **36강**: [2010년](../Page/2010년.md "wikilink") [2월 10일](../Page/2월_10일.md "wikilink") \~ [2010년](../Page/2010년.md "wikilink") [3월 19일](../Page/3월_19일.md "wikilink")
+  - **16강 조 지명식**: [2010년](../Page/2010년.md "wikilink") [3월 26일](../Page/3월_26일.md "wikilink")
+  - **16강**: [2010년](../Page/2010년.md "wikilink") [3월 31일](../Page/3월_31일.md "wikilink") \~ [2010년](../Page/2010년.md "wikilink") [4월 18일](../Page/4월_18일.md "wikilink")
+  - **8강**: [2010년](../Page/2010년.md "wikilink") [4월 23일](../Page/4월_23일.md "wikilink"), [2010년](../Page/2010년.md "wikilink") [4월 30일](../Page/4월_30일.md "wikilink")
+  - **4강**: [2010년](../Page/2010년.md "wikilink") [5월 7일](../Page/5월_7일.md "wikilink"), [2010년](../Page/2010년.md "wikilink") [5월 14일](../Page/5월_14일.md "wikilink")
+  - **결승**: [2010년](../Page/2010년.md "wikilink") [5월 22일](../Page/5월_22일.md "wikilink")
 
 ### 상금
 
@@ -41,9 +41,9 @@
 
 ### 경기장
 
-  - **예선** - [용산](https://ko.wikipedia.org/wiki/용산역 "wikilink") 이스포츠 보조 경기장
+  - **예선** - [용산](../Page/용산역.md "wikilink") 이스포츠 보조 경기장
   - **본선** - 용산 이스포츠 상설 경기장\[2\]
-  - **8강 투어** - [울산 문수축구경기장](https://ko.wikipedia.org/wiki/울산_문수축구경기장 "wikilink") (프로축구 [울산 현대 축구단의](https://ko.wikipedia.org/wiki/울산_현대_축구단 "wikilink") 홈 경기장) 호반 광장
+  - **8강 투어** - [울산 문수축구경기장](https://ko.wikipedia.org/wiki/울산_문수축구경기장 "wikilink") (프로축구 [울산 현대 축구단의](../Page/울산_현대_축구단.md "wikilink") 홈 경기장) 호반 광장
   - **결승전** - [서울특별시 강서구](https://ko.wikipedia.org/wiki/강서구_\(서울특별시\) "wikilink") [김포공항](https://ko.wikipedia.org/wiki/김포공항 "wikilink")내의 대한항공 본사 격납고 특설 무대\[3\]\[4\]
 
 ## 맵
@@ -74,7 +74,7 @@
 
 ## 리그 BGM
 
-  - 예선전 예고 - [U2](https://ko.wikipedia.org/wiki/U2 "wikilink") - With Or Without You
+  - 예선전 예고 - [U2](../Page/U2.md "wikilink") - With Or Without You
   - 오프닝 멘트 - Forever The Sickest Kids - Phone Call
   - 예선전 조별 경기 현황 -
   - 경기 전후 - The Almost- Get Through

@@ -19,7 +19,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/동부_콘퍼런스_(NBA)" title="wikilink"><span style="color:#ffffff">동부 콘퍼런스</span></a></p></td>
+<td><p><a href="../Page/동부_콘퍼런스_(NBA).md" title="wikilink"><span style="color:#ffffff">동부 콘퍼런스</span></a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -28,9 +28,9 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/애틀랜틱_디비전_(NBA)" title="wikilink">애틀랜틱</a></p></td>
+<td><p><a href="../Page/애틀랜틱_디비전_(NBA).md" title="wikilink">애틀랜틱</a></p></td>
 <td><p><a href="../Page/보스턴_셀틱스.md" title="wikilink">보스턴 셀틱스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/매사추세츠주" title="wikilink">매사추세츠주</a> <a href="https://ko.wikipedia.org/wiki/보스턴" title="wikilink">보스턴</a></p></td>
+<td><p><a href="../Page/매사추세츠주.md" title="wikilink">매사추세츠주</a> <a href="../Page/보스턴.md" title="wikilink">보스턴</a></p></td>
 <td><p><a href="../Page/TD_가든.md" title="wikilink">TD 가든</a></p></td>
 <td><p>18,624명</p></td>
 <td><p>1946년</p></td>
@@ -38,7 +38,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/브루클린_네츠.md" title="wikilink">브루클린 네츠</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴욕주" title="wikilink">뉴욕주</a> <a href="../Page/브루클린.md" title="wikilink">브루클린</a></p></td>
+<td><p><a href="../Page/뉴욕주.md" title="wikilink">뉴욕주</a> <a href="../Page/브루클린.md" title="wikilink">브루클린</a></p></td>
 <td><p><a href="../Page/바클레이스_센터.md" title="wikilink">바클레이스 센터</a></p></td>
 <td><p>17,732명</p></td>
 <td><p>1967년</p></td>
@@ -47,7 +47,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/뉴욕_닉스.md" title="wikilink">뉴욕 닉스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴욕주" title="wikilink">뉴욕주</a> <a href="https://ko.wikipedia.org/wiki/뉴욕" title="wikilink">뉴욕</a></p></td>
+<td><p><a href="../Page/뉴욕주.md" title="wikilink">뉴욕주</a> <a href="../Page/뉴욕.md" title="wikilink">뉴욕</a></p></td>
 <td><p><a href="../Page/매디슨_스퀘어_가든.md" title="wikilink">매디슨 스퀘어 가든</a></p></td>
 <td><p>19,033명</p></td>
 <td><p>1946년</p></td>
@@ -56,7 +56,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/필라델피아_세븐티식서스.md" title="wikilink">필라델피아 세븐티식서스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/펜실베이니아주" title="wikilink">펜실베이니아주</a> <a href="https://ko.wikipedia.org/wiki/필라델피아" title="wikilink">필라델피아</a></p></td>
+<td><p><a href="../Page/펜실베이니아주.md" title="wikilink">펜실베이니아주</a> <a href="../Page/필라델피아.md" title="wikilink">필라델피아</a></p></td>
 <td><p><a href="../Page/웰스_파고_센터.md" title="wikilink">웰스 파고 센터</a></p></td>
 <td><p>20,328명</p></td>
 <td><p>1946년</p></td>
@@ -65,7 +65,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/토론토_랩터스.md" title="wikilink">토론토 랩터스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/온타리오주" title="wikilink">온타리오주</a> <a href="https://ko.wikipedia.org/wiki/토론토" title="wikilink">토론토</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/온타리오주" title="wikilink">온타리오주</a> <a href="../Page/토론토.md" title="wikilink">토론토</a></p></td>
 <td><p><a href="../Page/스코샤_뱅크_아레나.md" title="wikilink">스코샤 뱅크 아레나</a></p></td>
 <td><p>19,800명</p></td>
 <td><p>1995년</p></td>
@@ -73,9 +73,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/센트럴_디비전_(NBA)" title="wikilink">센트럴</a></p></td>
+<td><p><a href="../Page/센트럴_디비전_(NBA).md" title="wikilink">센트럴</a></p></td>
 <td><p><a href="../Page/시카고_불스.md" title="wikilink">시카고 불스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/일리노이주" title="wikilink">일리노이주</a> <a href="https://ko.wikipedia.org/wiki/시카고" title="wikilink">시카고</a></p></td>
+<td><p><a href="../Page/일리노이주.md" title="wikilink">일리노이주</a> <a href="../Page/시카고.md" title="wikilink">시카고</a></p></td>
 <td><p><a href="../Page/유나이티드_센터.md" title="wikilink">유나이티드 센터</a></p></td>
 <td><p>20,917명</p></td>
 <td><p>1966년</p></td>
@@ -83,7 +83,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/클리블랜드_캐벌리어스.md" title="wikilink">클리블랜드 캐벌리어스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오하이오주" title="wikilink">오하이오주</a> <a href="../Page/클리블랜드.md" title="wikilink">클리블랜드</a></p></td>
+<td><p><a href="../Page/오하이오주.md" title="wikilink">오하이오주</a> <a href="../Page/클리블랜드.md" title="wikilink">클리블랜드</a></p></td>
 <td><p><a href="../Page/로키_모기지_필드하우스.md" title="wikilink">로키 모기지 필드하우스</a></p></td>
 <td><p>20,562명</p></td>
 <td><p>1970년</p></td>
@@ -92,7 +92,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/디트로이트_피스턴스.md" title="wikilink">디트로이트 피스턴스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미시간주" title="wikilink">미시간주</a> <a href="../Page/디트로이트.md" title="wikilink">디트로이트</a></p></td>
+<td><p><a href="../Page/미시간주.md" title="wikilink">미시간주</a> <a href="../Page/디트로이트.md" title="wikilink">디트로이트</a></p></td>
 <td><p><a href="../Page/리틀시저스_아레나.md" title="wikilink">리틀시저스 아레나</a></p></td>
 <td><p>21,000명</p></td>
 <td><p>1941년</p></td>
@@ -101,7 +101,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/인디애나_페이서스.md" title="wikilink">인디애나 페이서스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/인디애나주" title="wikilink">인디애나주</a> <a href="../Page/인디애나폴리스.md" title="wikilink">인디애나폴리스</a></p></td>
+<td><p><a href="../Page/인디애나주.md" title="wikilink">인디애나주</a> <a href="../Page/인디애나폴리스.md" title="wikilink">인디애나폴리스</a></p></td>
 <td><p><a href="../Page/뱅커스_라이프_필드하우스.md" title="wikilink">뱅커스 라이프 필드하우스</a></p></td>
 <td><p>18,165명</p></td>
 <td><p>1967년</p></td>
@@ -110,7 +110,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/밀워키_벅스.md" title="wikilink">밀워키 벅스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/위스콘신주" title="wikilink">위스콘신주</a> <a href="../Page/밀워키.md" title="wikilink">밀워키</a></p></td>
+<td><p><a href="../Page/위스콘신주.md" title="wikilink">위스콘신주</a> <a href="../Page/밀워키.md" title="wikilink">밀워키</a></p></td>
 <td><p><a href="../Page/파이서브_포럼.md" title="wikilink">파이서브 포럼</a></p></td>
 <td><p>17,500명</p></td>
 <td><p>1968년</p></td>
@@ -118,9 +118,9 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/사우스이스트_디비전_(NBA)" title="wikilink">사우스이스트</a></p></td>
+<td><p><a href="../Page/사우스이스트_디비전_(NBA).md" title="wikilink">사우스이스트</a></p></td>
 <td><p><a href="../Page/애틀랜타_호크스.md" title="wikilink">애틀랜타 호크스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/조지아주" title="wikilink">조지아주</a> <a href="https://ko.wikipedia.org/wiki/애틀랜타" title="wikilink">애틀랜타</a></p></td>
+<td><p><a href="../Page/조지아주.md" title="wikilink">조지아주</a> <a href="../Page/애틀랜타.md" title="wikilink">애틀랜타</a></p></td>
 <td><p><a href="../Page/스테이트팜_아레나_(애틀랜타).md" title="wikilink">스테이트팜 아레나</a></p></td>
 <td><p>18,238명</p></td>
 <td><p>1946년</p></td>
@@ -128,7 +128,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/샬럿_호니츠.md" title="wikilink">샬럿 호니츠</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/노스캐롤라이나주" title="wikilink">노스캐롤라이나주</a> <a href="../Page/샬럿.md" title="wikilink">샬럿</a></p></td>
+<td><p><a href="../Page/노스캐롤라이나주.md" title="wikilink">노스캐롤라이나주</a> <a href="../Page/샬럿.md" title="wikilink">샬럿</a></p></td>
 <td><p><a href="../Page/스펙트럼_센터.md" title="wikilink">스펙트럼 센터</a></p></td>
 <td><p>19,077명</p></td>
 <td><p>1988년</p></td>
@@ -137,7 +137,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/마이애미_히트.md" title="wikilink">마이애미 히트</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/플로리다주" title="wikilink">플로리다주</a> <a href="https://ko.wikipedia.org/wiki/마이애미" title="wikilink">마이애미</a></p></td>
+<td><p><a href="../Page/플로리다주.md" title="wikilink">플로리다주</a> <a href="../Page/마이애미.md" title="wikilink">마이애미</a></p></td>
 <td><p><a href="../Page/아메리칸_에어라인스_아레나.md" title="wikilink">아메리칸 에어라인스 아레나</a></p></td>
 <td><p>19,600명</p></td>
 <td><p>1988년</p></td>
@@ -146,7 +146,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/올랜도_매직.md" title="wikilink">올랜도 매직</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/플로리다주" title="wikilink">플로리다주</a> <a href="../Page/올랜도.md" title="wikilink">올랜도</a></p></td>
+<td><p><a href="../Page/플로리다주.md" title="wikilink">플로리다주</a> <a href="../Page/올랜도.md" title="wikilink">올랜도</a></p></td>
 <td><p><a href="../Page/암웨이_센터.md" title="wikilink">암웨이 센터</a></p></td>
 <td><p>18,846명</p></td>
 <td><p>1989년</p></td>
@@ -155,7 +155,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/워싱턴_위저즈.md" title="wikilink">워싱턴 위저즈</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/워싱턴_D.C." title="wikilink">워싱턴 D.C.</a></p></td>
+<td><p><a href="../Page/워싱턴_D.C..md" title="wikilink">워싱턴 D.C.</a></p></td>
 <td><p><a href="../Page/캐피털_원_아레나.md" title="wikilink">캐피털 원 아레나</a></p></td>
 <td><p>20,308명</p></td>
 <td><p>1961년</p></td>
@@ -181,7 +181,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/볼티모어_불리츠.md" title="wikilink">볼티모어 불리츠</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/메릴랜드주" title="wikilink">메릴랜드주</a> <a href="https://ko.wikipedia.org/wiki/볼티모어" title="wikilink">볼티모어</a></p></td>
+<td><p><a href="../Page/메릴랜드주.md" title="wikilink">메릴랜드주</a> <a href="../Page/볼티모어.md" title="wikilink">볼티모어</a></p></td>
 <td><p>1948년~1955년</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/볼티모어_콜리시엄" title="wikilink">볼티모어 콜리시엄</a></p></td>
 <td><p>4,500명</p></td>
@@ -189,7 +189,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/프로비던스_스팀롤러스.md" title="wikilink">프로비던스 스팀롤러스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/로드아일랜드주" title="wikilink">로드아일랜드주</a> <a href="../Page/프로비던스.md" title="wikilink">프로비던스</a></p></td>
+<td><p><a href="../Page/로드아일랜드주.md" title="wikilink">로드아일랜드주</a> <a href="../Page/프로비던스.md" title="wikilink">프로비던스</a></p></td>
 <td><p>1946년~1949년</p></td>
 <td><p><a href="../Page/로드아일랜드_오디토리움.md" title="wikilink">로드아일랜드 오디토리움</a></p></td>
 <td><p>5,300명</p></td>
@@ -197,7 +197,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/토론토_허스키스.md" title="wikilink">토론토 허스키스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/온타리오주" title="wikilink">온타리오주</a> <a href="https://ko.wikipedia.org/wiki/토론토" title="wikilink">토론토</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/온타리오주" title="wikilink">온타리오주</a> <a href="../Page/토론토.md" title="wikilink">토론토</a></p></td>
 <td><p>1946년~1947년</p></td>
 <td><p><a href="../Page/메이플_리프_가든.md" title="wikilink">메이플 리프 가든</a></p></td>
 <td><p>2,796명</p></td>
@@ -205,7 +205,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/워싱턴_캐피털스_(1946년).md" title="wikilink">워싱턴 캐피털스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/워싱턴_D.C." title="wikilink">워싱턴 D.C.</a></p></td>
+<td><p><a href="../Page/워싱턴_D.C..md" title="wikilink">워싱턴 D.C.</a></p></td>
 <td><p>1946년<br />
 1948년~1951년</p></td>
 <td><p><a href="../Page/워싱턴_콜리시엄.md" title="wikilink">울린 아레나</a></p></td>
@@ -231,7 +231,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/버펄로_브레이브스.md" title="wikilink">버펄로 브레이브스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴욕주" title="wikilink">뉴욕주</a> <a href="../Page/버펄로_(뉴욕주).md" title="wikilink">버펄로</a></p></td>
+<td><p><a href="../Page/뉴욕주.md" title="wikilink">뉴욕주</a> <a href="../Page/버펄로_(뉴욕주).md" title="wikilink">버펄로</a></p></td>
 <td><p>1970년~1978년</p></td>
 <td><p><a href="../Page/버펄로_메모리얼_오디토리움.md" title="wikilink">버펄로 메모리얼 오디토리움</a></p></td>
 <td><p>14,337명</p></td>
@@ -239,7 +239,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/새크라멘토_킹스.md" title="wikilink">신시내티 로열스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오하이오주" title="wikilink">오하이오주</a> <a href="../Page/신시내티.md" title="wikilink">신시내티</a></p></td>
+<td><p><a href="../Page/오하이오주.md" title="wikilink">오하이오주</a> <a href="../Page/신시내티.md" title="wikilink">신시내티</a></p></td>
 <td><p>1957년~1972년</p></td>
 <td><p><a href="../Page/신시내티_가든.md" title="wikilink">신시내티 가든</a></p></td>
 <td><p>8,016명</p></td>
@@ -247,7 +247,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/골든스테이트_워리어스.md" title="wikilink">필라델피아 워리어스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/펜실베이니아주" title="wikilink">펜실베이니아주</a> <a href="https://ko.wikipedia.org/wiki/필라델피아" title="wikilink">필라델피아</a></p></td>
+<td><p><a href="../Page/펜실베이니아주.md" title="wikilink">펜실베이니아주</a> <a href="../Page/필라델피아.md" title="wikilink">필라델피아</a></p></td>
 <td><p>1946년~1962년</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/필라델피아_컨벤션_홀_앤_시빅_센터" title="wikilink">필라델피아 컨벤션 홀</a></p></td>
 <td><p>9,600명</p></td>
@@ -255,7 +255,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/휴스턴_로키츠.md" title="wikilink">휴스턴 로키츠</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/텍사스주" title="wikilink">텍사스주</a> <a href="../Page/휴스턴.md" title="wikilink">휴스턴</a></p></td>
+<td><p><a href="../Page/텍사스주.md" title="wikilink">텍사스주</a> <a href="../Page/휴스턴.md" title="wikilink">휴스턴</a></p></td>
 <td><p>1972년~1980년</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/레이크우드_교회_중앙_캠퍼스" title="wikilink">컴팩 센터</a></p></td>
 <td><p>16,285명</p></td>
@@ -263,7 +263,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/뉴올리언스_펠리컨스.md" title="wikilink">뉴올리언즈 호니츠</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/루이지애나주" title="wikilink">루이지애나주</a> <a href="https://ko.wikipedia.org/wiki/뉴올리언스" title="wikilink">뉴올리언스</a></p></td>
+<td><p><a href="../Page/루이지애나주.md" title="wikilink">루이지애나주</a> <a href="../Page/뉴올리언스.md" title="wikilink">뉴올리언스</a></p></td>
 <td><p>2002년~2004년</p></td>
 <td><p><a href="../Page/스무디킹_센터.md" title="wikilink">뉴올리언스 아레나</a></p></td>
 <td><p>16,867명</p></td>
@@ -279,7 +279,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/샌안토니오_스퍼스.md" title="wikilink">샌안토니오 스퍼스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/텍사스주" title="wikilink">텍사스주</a> <a href="../Page/샌안토니오.md" title="wikilink">샌안토니오</a></p></td>
+<td><p><a href="../Page/텍사스주.md" title="wikilink">텍사스주</a> <a href="../Page/샌안토니오.md" title="wikilink">샌안토니오</a></p></td>
 <td><p>1976년~1980년</p></td>
 <td><p><a href="../Page/헤미스페어_아레나.md" title="wikilink">헤미스페어 아레나</a></p></td>
 <td><p>16,057명</p></td>

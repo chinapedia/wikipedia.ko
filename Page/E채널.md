@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [E](https://ko.wikipedia.org/wiki/E).
 
 
-**E채널**()은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [방송채널 사용사업자인](https://ko.wikipedia.org/wiki/대한민국_방송법 "wikilink") [티캐스트](../Page/티캐스트.md "wikilink")가 운영하는 [케이블 텔레비전](../Page/대한민국의_케이블TV_방송.md "wikilink") [채널이다](https://ko.wikipedia.org/wiki/채널_\(통신\) "wikilink").
+**E채널**()은 [대한민국](../Page/대한민국.md "wikilink")의 [방송채널 사용사업자인](https://ko.wikipedia.org/wiki/대한민국_방송법 "wikilink") [티캐스트](../Page/티캐스트.md "wikilink")가 운영하는 [케이블 텔레비전](../Page/대한민국의_케이블TV_방송.md "wikilink") [채널이다](https://ko.wikipedia.org/wiki/채널_\(통신\) "wikilink").
 
 ## 개요
 
-[2000년 10월에](https://ko.wikipedia.org/wiki/2000년_10월 "wikilink") 정보통신채널로 개국하였으며, [2005년 10월에](https://ko.wikipedia.org/wiki/2005년_10월 "wikilink") [드라마](../Page/텔레비전_드라마.md "wikilink") · [버라이어티](../Page/버라이어티_쇼.md "wikilink") 전문 채널로 전환해 오늘에 이르고 있다.
+[2000년 10월에](https://ko.wikipedia.org/wiki/2000년_10월 "wikilink") 정보통신채널로 개국하였으며, [2005년 10월에](../Page/2005년_10월.md "wikilink") [드라마](../Page/텔레비전_드라마.md "wikilink") · [버라이어티](../Page/버라이어티_쇼.md "wikilink") 전문 채널로 전환해 오늘에 이르고 있다.
 
 ## 특이 사항
 
-애국가 송출 시 [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink")부터 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")까지 사용한 [SBS의](https://ko.wikipedia.org/wiki/SBS_\(대한민국의_방송사\) "wikilink") 애국가 멘트를 사용한다.
+애국가 송출 시 [1991년](../Page/1991년.md "wikilink")부터 [2009년](../Page/2009년.md "wikilink")까지 사용한 [SBS의](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 애국가 멘트를 사용한다.
 
 ## 프로그램
 

@@ -5,11 +5,11 @@
 
 ## 개요
 
-삼성의 공익 캠페인이다. [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [10월](https://ko.wikipedia.org/wiki/10월 "wikilink") 중순 시작되어 약 2달 보름간 진행되었고, [4 Tomorrow의](../Page/4_Tomorrow.md "wikilink") 노래, 뮤직비디오, 뮤직드라마 등을 발표하였고, [강남역](https://ko.wikipedia.org/wiki/강남역 "wikilink")에는 카페 Cafe 두근두근 Tomorrow를 개설하여 운영하였다.
+삼성의 공익 캠페인이다. [2009년](../Page/2009년.md "wikilink") [10월](../Page/10월.md "wikilink") 중순 시작되어 약 2달 보름간 진행되었고, [4 Tomorrow의](../Page/4_Tomorrow.md "wikilink") 노래, 뮤직비디오, 뮤직드라마 등을 발표하였고, [강남역](../Page/강남역.md "wikilink")에는 카페 Cafe 두근두근 Tomorrow를 개설하여 운영하였다.
 
 ## [4 Tomorrow](../Page/4_Tomorrow.md "wikilink")
 
-[브라운 아이드 걸스의](../Page/브라운_아이드_걸스.md "wikilink") [가인](../Page/가인.md "wikilink"), [카라의](../Page/카라_\(음악_그룹\).md "wikilink") [한승연](../Page/한승연.md "wikilink"), [애프터스쿨](../Page/애프터스쿨.md "wikilink")의 [유이](https://ko.wikipedia.org/wiki/유이_\(가수\) "wikilink"), [포미닛](../Page/포미닛.md "wikilink")의 [현아](../Page/현아.md "wikilink")로 구성된 프로젝트 [걸 그룹](https://ko.wikipedia.org/wiki/걸_그룹 "wikilink"). 뮤직비디오의 티저 론칭에는 국내 최초로 Interactive Multi-Angle Video를 활용하여\[1\] 실시간으로 각 개인별 카메라를 클릭하여 감상할 수 있고, 메인 론칭에는 멤버들의 Tomorrow이야기를 매주 하나씩 공개하였다.
+[브라운 아이드 걸스의](../Page/브라운_아이드_걸스.md "wikilink") [가인](../Page/가인.md "wikilink"), [카라의](../Page/카라_\(음악_그룹\).md "wikilink") [한승연](../Page/한승연.md "wikilink"), [애프터스쿨](../Page/애프터스쿨.md "wikilink")의 [유이](https://ko.wikipedia.org/wiki/유이_\(가수\) "wikilink"), [포미닛](../Page/포미닛.md "wikilink")의 [현아](../Page/현아.md "wikilink")로 구성된 프로젝트 [걸 그룹](../Page/걸_그룹.md "wikilink"). 뮤직비디오의 티저 론칭에는 국내 최초로 Interactive Multi-Angle Video를 활용하여\[1\] 실시간으로 각 개인별 카메라를 클릭하여 감상할 수 있고, 메인 론칭에는 멤버들의 Tomorrow이야기를 매주 하나씩 공개하였다.
 
   -   - [가인](../Page/가인.md "wikilink")의 도전 이야기
       - [승연의](../Page/한승연.md "wikilink") 꿈 이야기
@@ -36,7 +36,7 @@
   - 제일모직 추재호 과장의 스타일링 클래스
   - [아이리쉬](https://ko.wikipedia.org/wiki/아이리쉬 "wikilink")/[루싸이트 토끼의](../Page/루싸이트_토끼.md "wikilink") 라이브 콘서트
   - [퍼니레인](https://ko.wikipedia.org/wiki/퍼니레인 "wikilink")/[몽니](../Page/몽니.md "wikilink")의 라이브 콘서트
-  - [노리플라이](https://ko.wikipedia.org/wiki/노리플라이 "wikilink")/[Squall OB](https://ko.wikipedia.org/wiki/Squall_OB "wikilink")/[Eys](https://ko.wikipedia.org/wiki/Eys "wikilink")의 라이브 콘서트
+  - [노리플라이](../Page/노리플라이.md "wikilink")/[Squall OB](https://ko.wikipedia.org/wiki/Squall_OB "wikilink")/[Eys](https://ko.wikipedia.org/wiki/Eys "wikilink")의 라이브 콘서트
   - [바닐라어쿠스틱](https://ko.wikipedia.org/wiki/바닐라어쿠스틱 "wikilink")의 라이브 콘서트
   - 개그맨 [변기수](../Page/변기수.md "wikilink")의 개그 미학 스마일 Box
   - 칼럼리스트 [김태훈의](https://ko.wikipedia.org/wiki/김태훈_\(칼럼리스트\) "wikilink") 가을 자유 연애 두근두근 Box
@@ -44,13 +44,13 @@
   - Tomorrow Gallery
   - 뮤지컬 배우 [최정원의](../Page/최정원_\(1969년\).md "wikilink") 클로징 이벤트 멘토링 클래스
 
-## [네이버](https://ko.wikipedia.org/wiki/네이버 "wikilink") [웹툰](https://ko.wikipedia.org/wiki/웹툰 "wikilink")
+## [네이버](../Page/네이버.md "wikilink") [웹툰](../Page/웹툰.md "wikilink")
 
-  - [네이버](https://ko.wikipedia.org/wiki/네이버 "wikilink") [웹툰](https://ko.wikipedia.org/wiki/웹툰 "wikilink") 만화에 두근두근 Tomorrow와 제휴를 맺은 《내일을 준비하는 우리들의 이야기》 라는 제목으로 [김규삼](../Page/김규삼.md "wikilink"), [김양수](https://ko.wikipedia.org/wiki/김양수_\(만화가\) "wikilink"), [신의철](https://ko.wikipedia.org/wiki/신의철 "wikilink"), [조석](../Page/조석_\(만화가\).md "wikilink"), [지강민](https://ko.wikipedia.org/wiki/지강민 "wikilink"), [홍승표](https://ko.wikipedia.org/wiki/홍승표_\(만화가\) "wikilink") 작가들이 그린 만화가 있다.
+  - [네이버](../Page/네이버.md "wikilink") [웹툰](../Page/웹툰.md "wikilink") 만화에 두근두근 Tomorrow와 제휴를 맺은 《내일을 준비하는 우리들의 이야기》 라는 제목으로 [김규삼](../Page/김규삼.md "wikilink"), [김양수](https://ko.wikipedia.org/wiki/김양수_\(만화가\) "wikilink"), [신의철](https://ko.wikipedia.org/wiki/신의철 "wikilink"), [조석](../Page/조석_\(만화가\).md "wikilink"), [지강민](https://ko.wikipedia.org/wiki/지강민 "wikilink"), [홍승표](https://ko.wikipedia.org/wiki/홍승표_\(만화가\) "wikilink") 작가들이 그린 만화가 있다.
 
 ## 노래와 뮤직비디오
 
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [10월 12일](https://ko.wikipedia.org/wiki/10월_12일 "wikilink") 뮤직비디오를 공개
+  - [2009년](../Page/2009년.md "wikilink") [10월 12일](../Page/10월_12일.md "wikilink") 뮤직비디오를 공개
   - Interactive Multi-Angle Video 방식으로 원본, [승연Cut](../Page/한승연.md "wikilink"), [가인](../Page/가인.md "wikilink")Cut, [유이Cut](https://ko.wikipedia.org/wiki/유이_\(가수\) "wikilink"), [현아](../Page/현아.md "wikilink")Cut 의 5가지 버전
   - 도심 한복판에서 깜짝 게릴라 콘서트를 여는 내용\[2\].
   - 무료로 배포
@@ -68,13 +68,13 @@
 
 ## 시상
 
-| 연도                                                                   | 날짜                                                          | 시상식                                                            | 수상 |
-| -------------------------------------------------------------------- | ----------------------------------------------------------- | -------------------------------------------------------------- | -- |
-| [2009](https://ko.wikipedia.org/wiki/2009년 "wikilink")               | [11월 17일](https://ko.wikipedia.org/wiki/11월_17일 "wikilink") | 제10회 [국민광고대상](https://ko.wikipedia.org/wiki/국민광고대상 "wikilink") | 대상 |
-| 제36회 [매일경제 광고대상](https://ko.wikipedia.org/wiki/매일경제_광고대상 "wikilink") | 대상                                                          |                                                                |    |
-| 제16회 [서울광고대상](https://ko.wikipedia.org/wiki/서울광고대상 "wikilink")       | 대상                                                          |                                                                |    |
-| 제10회 [fn광고대상](https://ko.wikipedia.org/wiki/fn광고대상 "wikilink")       | 대상                                                          |                                                                |    |
-|                                                                      |                                                             |                                                                |    |
+| 연도                                                                   | 날짜                                       | 시상식                                                            | 수상 |
+| -------------------------------------------------------------------- | ---------------------------------------- | -------------------------------------------------------------- | -- |
+| [2009](../Page/2009년.md "wikilink")                                  | [11월 17일](../Page/11월_17일.md "wikilink") | 제10회 [국민광고대상](https://ko.wikipedia.org/wiki/국민광고대상 "wikilink") | 대상 |
+| 제36회 [매일경제 광고대상](https://ko.wikipedia.org/wiki/매일경제_광고대상 "wikilink") | 대상                                       |                                                                |    |
+| 제16회 [서울광고대상](https://ko.wikipedia.org/wiki/서울광고대상 "wikilink")       | 대상                                       |                                                                |    |
+| 제10회 [fn광고대상](https://ko.wikipedia.org/wiki/fn광고대상 "wikilink")       | 대상                                       |                                                                |    |
+|                                                                      |                                          |                                                                |    |
 
 ## 각주
 

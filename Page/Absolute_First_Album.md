@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Absolute First Album](https://ko.wikipedia.org/wiki/Absolute_First_Album).
 
 
-***Absolute First Album***은 대한민국의 음악 그룹 [티아라의](../Page/티아라_\(음악_그룹\).md "wikilink") 첫 번째 정규 음반이다. [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [11월 27일](https://ko.wikipedia.org/wiki/11월_27일 "wikilink") 음원이 선공개된 후 [12월 4일](https://ko.wikipedia.org/wiki/12월_4일 "wikilink") 오프라인에 발매되었다. 타이틀곡은 "[Bo Peep Bo Peep](https://ko.wikipedia.org/wiki/Absolute_First_Album "wikilink")"이며 후속곡은 "처음처럼"이다.
+***Absolute First Album***은 대한민국의 음악 그룹 [티아라의](../Page/티아라_\(음악_그룹\).md "wikilink") 첫 번째 정규 음반이다. [2009년](../Page/2009년.md "wikilink") [11월 27일](../Page/11월_27일.md "wikilink") 음원이 선공개된 후 [12월 4일](../Page/12월_4일.md "wikilink") 오프라인에 발매되었다. 타이틀곡은 "[Bo Peep Bo Peep](../Page/Absolute_First_Album.md "wikilink")"이며 후속곡은 "처음처럼"이다.
 
 ## 발매
 
@@ -9,7 +9,7 @@
 
 앨범 발매 전, 소속사는 처음처럼과 Bo Peep Bo Peep을 선공개를 해서 둘 중에 어느 곡을 타이틀 곡으로 정할 지 결정하기로 했다. '처음처럼'이 53%의 지지를 받았으나 소속사는 티아라의 변신을 위해 'Bo Peep Bo Peep'을 타이틀 곡으로 하기로 결정했다.
 
-한편, 타이틀곡 "Bo Pepp Bo Peep"은 당초 [이정현이](https://ko.wikipedia.org/wiki/이정현_\(1980년\) "wikilink") 부를 예정이었지만\[1\] 중화권 활동 등의 이유로 고사했다.
+한편, 타이틀곡 "Bo Pepp Bo Peep"은 당초 [이정현이](../Page/이정현_\(1980년\).md "wikilink") 부를 예정이었지만\[1\] 중화권 활동 등의 이유로 고사했다.
 
 ## 트랙 리스트
 
@@ -33,7 +33,7 @@
 
 ## 성과
 
-'Bo Peep Bo Peep' 공개 한 달 뒤, **티아라**는 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [1월 1일](https://ko.wikipedia.org/wiki/1월_1일 "wikilink") 방송된 [뮤직뱅크](../Page/뮤직뱅크.md "wikilink")에서 데뷔 5개월만에 첫 1위를 하게되었다.\[6\] 이후 [1월 3일부터](https://ko.wikipedia.org/wiki/1월_3일 "wikilink") 3주 동안 [SBS 인기가요에서](../Page/SBS_인기가요.md "wikilink") 뮤티즌송을 수상하면서 트리플 크라운을 달성하게되었고, [1월 8일에는](https://ko.wikipedia.org/wiki/1월_8일 "wikilink") 또 다시 [뮤직뱅크](../Page/뮤직뱅크.md "wikilink") K-Chart 1위를 차지하면서 2주 연속 1위라는 성과도 거두게 되었다.
+'Bo Peep Bo Peep' 공개 한 달 뒤, **티아라**는 [2010년](../Page/2010년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") 방송된 [뮤직뱅크](../Page/뮤직뱅크.md "wikilink")에서 데뷔 5개월만에 첫 1위를 하게되었다.\[6\] 이후 [1월 3일부터](../Page/1월_3일.md "wikilink") 3주 동안 [SBS 인기가요에서](../Page/SBS_인기가요.md "wikilink") 뮤티즌송을 수상하면서 트리플 크라운을 달성하게되었고, [1월 8일에는](../Page/1월_8일.md "wikilink") 또 다시 [뮤직뱅크](../Page/뮤직뱅크.md "wikilink") K-Chart 1위를 차지하면서 2주 연속 1위라는 성과도 거두게 되었다.
 
 ## Apple Is A
 

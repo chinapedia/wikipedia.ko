@@ -5,7 +5,7 @@
 
 ## 리그본문
 
-  - **리그기간** : [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [5월 20일](https://ko.wikipedia.org/wiki/5월_20일 "wikilink") \~ [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [8월 29일](https://ko.wikipedia.org/wiki/8월_29일 "wikilink")
+  - **리그기간** : [2004년](../Page/2004년.md "wikilink") [5월 20일](../Page/5월_20일.md "wikilink") \~ [2004년](../Page/2004년.md "wikilink") [8월 29일](../Page/8월_29일.md "wikilink")
 
 <!-- end list -->
 
@@ -22,7 +22,7 @@
 
   - **특이사항**
       - 맵 제작자 송기범이 Into the Darkness로 데뷔한 대회
-      - 결승전 장소 : [서울](https://ko.wikipedia.org/wiki/서울특별시 "wikilink") [장충체육관](../Page/장충체육관.md "wikilink")
+      - 결승전 장소 : [서울](../Page/서울특별시.md "wikilink") [장충체육관](../Page/장충체육관.md "wikilink")
       - [최연성](../Page/최연성.md "wikilink"), MSL 3회 우승
       - [최연성](../Page/최연성.md "wikilink"), MSL 세종족(저그-테란-프로토스)상대로 3연속 우승
       - [최연성](../Page/최연성.md "wikilink"), [이윤열](../Page/이윤열.md "wikilink") 이후, 두 번째로 3회 우승자, 3연속 우승자가 됨

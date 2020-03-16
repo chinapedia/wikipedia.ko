@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [HKL M100](https://ko.wikipedia.org/wiki/HKL_M100).
 
 
-*' HKL M100*' 전동차는 [헬싱키 메트로에](https://ko.wikipedia.org/wiki/헬싱키_메트로 "wikilink") 사용되는 차량이다. 차량 개발은 1974년부터 진행되었으며, 1977년부터 1984년까지 제작되었다.
+*' HKL M100*' 전동차는 [헬싱키 메트로에](../Page/헬싱키_메트로.md "wikilink") 사용되는 차량이다. 차량 개발은 1974년부터 진행되었으며, 1977년부터 1984년까지 제작되었다.
 
 ## 제작
 
@@ -21,8 +21,8 @@
 
 ## 같이 보기
 
-  - [HKL M200](https://ko.wikipedia.org/wiki/HKL_M200 "wikilink")
-  - [헬싱키 메트로](https://ko.wikipedia.org/wiki/헬싱키_메트로 "wikilink")
+  - [HKL M200](../Page/HKL_M200.md "wikilink")
+  - [헬싱키 메트로](../Page/헬싱키_메트로.md "wikilink")
 
 ## 외부 링크
 

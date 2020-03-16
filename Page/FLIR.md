@@ -3,19 +3,19 @@
 
 [섬네일의](https://ko.wikipedia.org/wiki/파일:NAVFLIR_DAMOCLES_P1220870.jpg "wikilink") 항법 적외선 포드(NAVFLIR)\]\]
 
-**전방 감시 적외선 장치**() 또는 **적외선 전방 감시 장치**는 적외선 복사를 감지하는 영상 기술이다. 전방의 적외선 화상을 비디오 카메라로 촬영하는 시스템으로 특정한 시스템의 명칭이 아니고, 이런 종류의 시스템에 대한 일반 명사이다. FLIR는 [비디오](../Page/비디오.md "wikilink") 출력을 위해 조립되는 "사진"을 창조하기 위해 [열 에너지](https://ko.wikipedia.org/wiki/열_에너지 "wikilink") 감지를 사용하기 때문에, 조종사나 운전사가 구름이 끼거나 달빛이 없는 야간과 같은 완전한 어둠일 때 추운 배경에서 따뜻한 목표물을 탐지하고, 야간 및 안개에서도 그들의 탈 것을 조종하는 것을 돕는데 사용될 수 있다. FLIR가 탐지하는 적외선의 파장 길이는 가시광선 및 근적외선 범위(0.4 \~ 1.0 [µm](https://ko.wikipedia.org/wiki/마이크로미터 "wikilink"))에서 작동하는 [야시경](https://ko.wikipedia.org/wiki/야시경 "wikilink")과는 다르다.
+**전방 감시 적외선 장치**() 또는 **적외선 전방 감시 장치**는 적외선 복사를 감지하는 영상 기술이다. 전방의 적외선 화상을 비디오 카메라로 촬영하는 시스템으로 특정한 시스템의 명칭이 아니고, 이런 종류의 시스템에 대한 일반 명사이다. FLIR는 [비디오](../Page/비디오.md "wikilink") 출력을 위해 조립되는 "사진"을 창조하기 위해 [열 에너지](https://ko.wikipedia.org/wiki/열_에너지 "wikilink") 감지를 사용하기 때문에, 조종사나 운전사가 구름이 끼거나 달빛이 없는 야간과 같은 완전한 어둠일 때 추운 배경에서 따뜻한 목표물을 탐지하고, 야간 및 안개에서도 그들의 탈 것을 조종하는 것을 돕는데 사용될 수 있다. FLIR가 탐지하는 적외선의 파장 길이는 가시광선 및 근적외선 범위(0.4 \~ 1.0 [µm](../Page/마이크로미터.md "wikilink"))에서 작동하는 [야시경](https://ko.wikipedia.org/wiki/야시경 "wikilink")과는 다르다.
 
 ## 설계
 
-[적외선](../Page/적외선.md "wikilink")은 범위에 따라 기본적으로 장파장 적외선과 중파장 적외선의 두 가지로 나눌 수 있다. 때때로 "원적외선"이라고 불리는 장파장 적외선(LWIR) 카메라는 8 \~ 12 µm에서 작동하며 몇 마일 밖에 있는 뜨거운 엔진 부분이나 인간 [체온](https://ko.wikipedia.org/wiki/체온 "wikilink")의 열을 볼 수 있지만, 적외선 빛이 공기나 수증기에 의해 [흡수](https://ko.wikipedia.org/wiki/흡수 "wikilink")되고, [산란](../Page/산란.md "wikilink")하고, [굴절](../Page/굴절.md "wikilink")되기 때문에 중파장 적외선 카메라에 비해 장거리 시야 확보가 어려운 편이다. 몇몇 장파장 FLIR는 그들의 탐지기에 [극저온](https://ko.wikipedia.org/wiki/극저온 "wikilink")의 냉각이 필요하지만, 적당히 민감한 FLIR는 극저온의 냉각이 필요하지 않은 것이 생산되고 있다.
+[적외선](../Page/적외선.md "wikilink")은 범위에 따라 기본적으로 장파장 적외선과 중파장 적외선의 두 가지로 나눌 수 있다. 때때로 "원적외선"이라고 불리는 장파장 적외선(LWIR) 카메라는 8 \~ 12 µm에서 작동하며 몇 마일 밖에 있는 뜨거운 엔진 부분이나 인간 [체온](../Page/체온.md "wikilink")의 열을 볼 수 있지만, 적외선 빛이 공기나 수증기에 의해 [흡수](https://ko.wikipedia.org/wiki/흡수 "wikilink")되고, [산란](../Page/산란.md "wikilink")하고, [굴절](../Page/굴절.md "wikilink")되기 때문에 중파장 적외선 카메라에 비해 장거리 시야 확보가 어려운 편이다. 몇몇 장파장 FLIR는 그들의 탐지기에 [극저온](https://ko.wikipedia.org/wiki/극저온 "wikilink")의 냉각이 필요하지만, 적당히 민감한 FLIR는 극저온의 냉각이 필요하지 않은 것이 생산되고 있다.
 
 3 \~ 5 µm 범위에서 작동하는 카메라는 중파장 적외선(MWIR)이라 불린다. 중파장 적외선 카메라는 수증기 흡수로부터 영향을 덜 받기 때문에 장파장 적외선 카메라와 다르게 장거리 시야 확보가 용이한 편이지만, 일반적으로 더욱 비싼 감지기 배열과 극저온 냉각이 필요하다.
 
-많은 FLIR 시스템은 영상 품질을 향상시키기 위해 [디지털 화상 처리를](https://ko.wikipedia.org/wiki/디지털_화상_처리 "wikilink") 사용한다. 제조 공정에서 제한 때문에, FLIR 센서 배열은 종종 [픽셀](https://ko.wikipedia.org/wiki/픽셀 "wikilink")로부터 픽셀로 거칠게 불일치하는 감광도를 가진다. 이것을 개선하기 위해, 각 픽셀의 반응이 공장에서 측정되고, 대부분 선형인 변형물은 측정된 입력 신호를 출력 수준으로 측량한다.
+많은 FLIR 시스템은 영상 품질을 향상시키기 위해 [디지털 화상 처리를](../Page/디지털_화상_처리.md "wikilink") 사용한다. 제조 공정에서 제한 때문에, FLIR 센서 배열은 종종 [픽셀](https://ko.wikipedia.org/wiki/픽셀 "wikilink")로부터 픽셀로 거칠게 불일치하는 감광도를 가진다. 이것을 개선하기 위해, 각 픽셀의 반응이 공장에서 측정되고, 대부분 선형인 변형물은 측정된 입력 신호를 출력 수준으로 측량한다.
 
 ## 특징
 
-[AN/AAQ-26](https://ko.wikipedia.org/wiki/AN/AAQ-26 "wikilink")과 같은 FLIR는 종종 해군 [함정](https://ko.wikipedia.org/wiki/함정 "wikilink"), 고정익 [항공기](https://ko.wikipedia.org/wiki/항공기 "wikilink"), [헬기](https://ko.wikipedia.org/wiki/헬기 "wikilink") 그리고 [장갑 전투 차량에](https://ko.wikipedia.org/wiki/장갑_전투_차량 "wikilink") 사용된다. 전시에, 그것은 세 가지 큰 이점이 있다. 첫째, FLIR가 탐지하는 에너지는 이미 거기 있는 것이고, FLIR는 자신의 어떠한 에너지도 방출할 필요가 없기 때문에 영상 장치 그 자체는 적에게 발견이 거의 불가능하다. 둘째, FLIR는 [위장](https://ko.wikipedia.org/wiki/위장 "wikilink")하기 어려운 열을 감지한다. 셋째, FLIR 시스템은 연기, 안개, 연무 그리고 다른 대기 중의 방해물을 통과하여 [가시광선](https://ko.wikipedia.org/wiki/가시광선 "wikilink") 카메라가 볼 수 있는 것보다 더 많은 것을 볼 수 있다. 그러나 FLIR를 사용하면 적군과 아군을 구별하기 어렵기 때문에, 아군에 오인 발포하는 사건이 발생할 수도 있다.
+[AN/AAQ-26](https://ko.wikipedia.org/wiki/AN/AAQ-26 "wikilink")과 같은 FLIR는 종종 해군 [함정](https://ko.wikipedia.org/wiki/함정 "wikilink"), 고정익 [항공기](../Page/항공기.md "wikilink"), [헬기](https://ko.wikipedia.org/wiki/헬기 "wikilink") 그리고 [장갑 전투 차량에](https://ko.wikipedia.org/wiki/장갑_전투_차량 "wikilink") 사용된다. 전시에, 그것은 세 가지 큰 이점이 있다. 첫째, FLIR가 탐지하는 에너지는 이미 거기 있는 것이고, FLIR는 자신의 어떠한 에너지도 방출할 필요가 없기 때문에 영상 장치 그 자체는 적에게 발견이 거의 불가능하다. 둘째, FLIR는 [위장](https://ko.wikipedia.org/wiki/위장 "wikilink")하기 어려운 열을 감지한다. 셋째, FLIR 시스템은 연기, 안개, 연무 그리고 다른 대기 중의 방해물을 통과하여 [가시광선](../Page/가시광선.md "wikilink") 카메라가 볼 수 있는 것보다 더 많은 것을 볼 수 있다. 그러나 FLIR를 사용하면 적군과 아군을 구별하기 어렵기 때문에, 아군에 오인 발포하는 사건이 발생할 수도 있다.
 
 ## FLIR 용어의 어원
 
@@ -24,12 +24,12 @@
 ## FLIR의 용도
 
   - 사람들 [감시](https://ko.wikipedia.org/wiki/감시 "wikilink")
-  - [유역](https://ko.wikipedia.org/wiki/유역 "wikilink") 온도와 야생의 사냥감 서식지 감시
+  - [유역](../Page/유역.md "wikilink") 온도와 야생의 사냥감 서식지 감시
   - [HVAC](https://ko.wikipedia.org/wiki/HVAC "wikilink") 에너지 소비 감소를 위해 건물내 [단열](https://ko.wikipedia.org/wiki/단열 "wikilink") 결함 또는 에너지 손실 감지
   - 군용 항공기의 목표물 포착 및 추적
   - 저시정低視程([계기비행](https://ko.wikipedia.org/wiki/계기비행 "wikilink")) 상황에서 항공기 조종
-  - 도로에서 [사슴](https://ko.wikipedia.org/wiki/사슴 "wikilink")이나 다른 동물들을 운전자에게 경고
-  - [소방](https://ko.wikipedia.org/wiki/소방 "wikilink") 작전중 점화의 원인을 찾아내고 생존자(연기와 벽을 통과해) 위치 찾기
+  - 도로에서 [사슴](../Page/사슴.md "wikilink")이나 다른 동물들을 운전자에게 경고
+  - [소방](../Page/소방.md "wikilink") 작전중 점화의 원인을 찾아내고 생존자(연기와 벽을 통과해) 위치 찾기
   - 특히 숲이 우거진 지역이나 수중에서 행방불명된 사람을 [탐색 구조하는](../Page/탐색_구조.md "wikilink") 작전
   - 천연 가스나 다른 가스 누출 탐지
   - 활화산 감시

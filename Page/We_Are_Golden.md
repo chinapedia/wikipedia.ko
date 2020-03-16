@@ -5,7 +5,7 @@
 
 ## 발매
 
-이 싱글은 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")에서 2009년 7월 20일 BBC 라디오로 방송되며 데뷔했다.\[3\]
+이 싱글은 [영국](../Page/영국.md "wikilink")에서 2009년 7월 20일 BBC 라디오로 방송되며 데뷔했다.\[3\]
 
 ## 설명
 
@@ -19,7 +19,7 @@ Warner Bros과 Cherrytree Records를 녹음한 아티스트 Adam Bertrand가 리
 
 ## 뮤직비디오
 
-"We Are Golden"의 [뮤직비디오](https://ko.wikipedia.org/wiki/뮤직비디오 "wikilink")는 [엘스트리 스튜디오에서](https://ko.wikipedia.org/wiki/:en:Elstree_Studios "wikilink") 2009년 7월 9,10일에 촬영되었고, 스웨덴 영화 감독 [Jonas Åkerlund이](https://ko.wikipedia.org/wiki/Jonas_Åkerlund "wikilink") 감독했다.\[4\] 2009년 8월 4일 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 [채널 4에서](https://ko.wikipedia.org/wiki/:en:Channel_4 "wikilink") 처음으로 방영되었다.\[5\] 뮤직비디오에서 미카는 마치 청소년기의 자신의 방을 재현해 놓은 것과 같은 방에서 트렁크만 입은채 춤을 추며 자유롭고 열정적이었던 청소년기를 음악과 영상으로 표현해 많은 사랑을 받고 있다. \[6\] {{-}}
+"We Are Golden"의 [뮤직비디오](https://ko.wikipedia.org/wiki/뮤직비디오 "wikilink")는 [엘스트리 스튜디오에서](https://ko.wikipedia.org/wiki/:en:Elstree_Studios "wikilink") 2009년 7월 9,10일에 촬영되었고, 스웨덴 영화 감독 [Jonas Åkerlund이](https://ko.wikipedia.org/wiki/Jonas_Åkerlund "wikilink") 감독했다.\[4\] 2009년 8월 4일 [영국](../Page/영국.md "wikilink")의 [채널 4에서](https://ko.wikipedia.org/wiki/:en:Channel_4 "wikilink") 처음으로 방영되었다.\[5\] 뮤직비디오에서 미카는 마치 청소년기의 자신의 방을 재현해 놓은 것과 같은 방에서 트렁크만 입은채 춤을 추며 자유롭고 열정적이었던 청소년기를 음악과 영상으로 표현해 많은 사랑을 받고 있다. \[6\] {{-}}
 
 ## 포맷과 곡 목록
 
@@ -95,7 +95,7 @@ Warner Bros과 Cherrytree Records를 녹음한 아티스트 Adam Bertrand가 리
 <td><p>29</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/헝가리" title="wikilink">헝가리 싱글 차트</a>[16]</p></td>
+<td><p><a href="../Page/헝가리.md" title="wikilink">헝가리 싱글 차트</a>[16]</p></td>
 <td><p>10</p></td>
 </tr>
 <tr class="odd">

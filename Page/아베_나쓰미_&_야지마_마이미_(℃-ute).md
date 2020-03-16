@@ -19,34 +19,34 @@
 
 ## 활동
 
-### [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink")
+### [2007년](../Page/2007년.md "wikilink")
 
-  - [11월 27일](https://ko.wikipedia.org/wiki/11월_27일 "wikilink"), 데뷔 싱글을 팬의 투표로 결정하는 것이 고지된다.
-  - [11월 28일](https://ko.wikipedia.org/wiki/11월_28일 "wikilink"), 투표 접수 개시.
-  - [12월 6일](https://ko.wikipedia.org/wiki/12월_6일 "wikilink"), 데뷔 싱글이「16歳の恋なんて」으로 결정.
+  - [11월 27일](../Page/11월_27일.md "wikilink"), 데뷔 싱글을 팬의 투표로 결정하는 것이 고지된다.
+  - [11월 28일](../Page/11월_28일.md "wikilink"), 투표 접수 개시.
+  - [12월 6일](../Page/12월_6일.md "wikilink"), 데뷔 싱글이「16歳の恋なんて」으로 결정.
 
-### [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink")
+### [2008년](../Page/2008년.md "wikilink")
 
-  - [1월 16일](https://ko.wikipedia.org/wiki/1월_16일 "wikilink"), 1st 싱글「16歳の恋なんて」에서 데뷔.
+  - [1월 16일](../Page/1월_16일.md "wikilink"), 1st 싱글「16歳の恋なんて」에서 데뷔.
 
-### [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")
+### [2009년](../Page/2009년.md "wikilink")
 
-  - [4월](https://ko.wikipedia.org/wiki/4월 "wikilink") 중순, 헬로\! 프로젝트의 공식 사이트로부터 상세한 프로필이 소멸했다.
+  - [4월](../Page/4월.md "wikilink") 중순, 헬로\! 프로젝트의 공식 사이트로부터 상세한 프로필이 소멸했다.
 
 ## 음악
 
 ### 싱글
 
-1.  16歳の恋なんて (2008년 [1월 16일](https://ko.wikipedia.org/wiki/1월_16일 "wikilink"), 초회한정한정반：HKCN-50061／통상반：HKCN-50062)
+1.  16歳の恋なんて (2008년 [1월 16일](../Page/1월_16일.md "wikilink"), 초회한정한정반：HKCN-50061／통상반：HKCN-50062)
       - 커플링 : 私の恋人なのに
 
 ### 앨범
 
-1.  ハロー！プロジェクト スペシャルユニット メガベスト (2008년 [12월 10일](https://ko.wikipedia.org/wiki/12월_10일 "wikilink"))
+1.  ハロー！プロジェクト スペシャルユニット メガベスト (2008년 [12월 10일](../Page/12월_10일.md "wikilink"))
 
 ### 싱글V
 
-1.  16歳の恋なんて (Hachama, 2008년 [2월 6일](https://ko.wikipedia.org/wiki/2월_6일 "wikilink"))
+1.  16歳の恋なんて (Hachama, 2008년 [2월 6일](../Page/2월_6일.md "wikilink"))
 
 ## 관련 항목
 

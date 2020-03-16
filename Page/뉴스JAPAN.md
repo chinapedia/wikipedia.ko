@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JAPAN](https://ko.wikipedia.org/wiki/JAPAN).
 
 
-《**뉴스JAPAN**》(, )은 [일본](../Page/일본.md "wikilink")의 [후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink")(CX·FNN) 계열이 제작·방영한 [뉴스](../Page/뉴스.md "wikilink") 정보 프로그램이다.
+《**뉴스JAPAN**》(, )은 [일본](../Page/일본.md "wikilink")의 [후지 TV](../Page/후지_TV.md "wikilink")(CX·FNN) 계열이 제작·방영한 [뉴스](../Page/뉴스.md "wikilink") 정보 프로그램이다.
 
 ## 앵커
 
@@ -25,9 +25,9 @@
 
 ## 역대타이틀
 
-  - [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink")부터 [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink")까지 [서기](../Page/서력기원.md "wikilink") [2](https://ko.wikipedia.org/wiki/2 "wikilink")자리 수로 표기(예:**LIVE '9X 뉴스JAPAN**)
-  - [2000년대](https://ko.wikipedia.org/wiki/2000년대 "wikilink")부터 서기 [4](https://ko.wikipedia.org/wiki/4 "wikilink")자리 수로 표기된다.(예:**LIVE 20XX 뉴스JAPAN**)
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink")[3월](https://ko.wikipedia.org/wiki/3월 "wikilink")부터 LIVE 20XX란 자막을 없앴다.(현재:뉴스JAPAN FNN)
+  - [1994년](../Page/1994년.md "wikilink")부터 [1999년](../Page/1999년.md "wikilink")까지 [서기](../Page/서력기원.md "wikilink") [2](../Page/2.md "wikilink")자리 수로 표기(예:**LIVE '9X 뉴스JAPAN**)
+  - [2000년대](../Page/2000년대.md "wikilink")부터 서기 [4](../Page/4.md "wikilink")자리 수로 표기된다.(예:**LIVE 20XX 뉴스JAPAN**)
+  - [2013년](../Page/2013년.md "wikilink")[3월](../Page/3월.md "wikilink")부터 LIVE 20XX란 자막을 없앴다.(현재:뉴스JAPAN FNN)
 
 ## 방송 시간
 
@@ -55,7 +55,7 @@
 ### 일요일
 
   - 1994년 4월 \~ 1995년 3월 00:35 \~ 00:45
-      - *단, [토요일](https://ko.wikipedia.org/wiki/토요일 "wikilink"), [일요일](https://ko.wikipedia.org/wiki/일요일 "wikilink")은 **스포츠 WAVE**의 내포.*
+      - *단, [토요일](../Page/토요일.md "wikilink"), [일요일](../Page/일요일.md "wikilink")은 **스포츠 WAVE**의 내포.*
 
 ## 그 외 뉴스 프로그램
 

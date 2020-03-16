@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [NBA ](https://ko.wikipedia.org/wiki/NBA_).
 
 
-**NBA 파이널(NBA Finals)**는 **[전미 농구 협회](https://ko.wikipedia.org/wiki/전미_농구_협회 "wikilink")(NBA)**의 챔피언십 시리즈로 [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink")까지는 **NBA 월드 챔피언십 시리즈**라고 불렀다.
+**NBA 파이널(NBA Finals)**는 **[전미 농구 협회](../Page/전미_농구_협회.md "wikilink")(NBA)**의 챔피언십 시리즈로 [1986년](../Page/1986년.md "wikilink")까지는 **NBA 월드 챔피언십 시리즈**라고 불렀다.
 
-[동부 컨퍼런스 결승과](https://ko.wikipedia.org/wiki/동부_콘퍼런스_\(NBA\) "wikilink") [서부 컨퍼런스 결승의](https://ko.wikipedia.org/wiki/서부_콘퍼런스_\(NBA\) "wikilink") 승자가 맞붙게 되며 먼저 4경기를 승리하는 팀이(7전 4선승제) 우승 트로피인 **[래리 오브라이언 챔피언십 트로피](https://ko.wikipedia.org/wiki/래리_오브라이언_챔피언십_트로피 "wikilink")**를 차지하게 된다. ([1946년](https://ko.wikipedia.org/wiki/1946년 "wikilink")부터 [1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink")까지는 월터 A.브라운 트로피를 수여했다.) NBA 파이널은 처음 열린 1947년 이후 늘 NBA와 미국 농구 시즌의 마지막을 장식해왔다.
+[동부 컨퍼런스 결승과](../Page/동부_콘퍼런스_\(NBA\).md "wikilink") [서부 컨퍼런스 결승의](../Page/서부_콘퍼런스_\(NBA\).md "wikilink") 승자가 맞붙게 되며 먼저 4경기를 승리하는 팀이(7전 4선승제) 우승 트로피인 **[래리 오브라이언 챔피언십 트로피](https://ko.wikipedia.org/wiki/래리_오브라이언_챔피언십_트로피 "wikilink")**를 차지하게 된다. ([1946년](../Page/1946년.md "wikilink")부터 [1983년](../Page/1983년.md "wikilink")까지는 월터 A.브라운 트로피를 수여했다.) NBA 파이널은 처음 열린 1947년 이후 늘 NBA와 미국 농구 시즌의 마지막을 장식해왔다.
 
-[1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink") 이후 2-3-2 구조로 진행됐다. 첫 2경기와 마지막 2경기를 좀 더 정규시즌 성적이 나은 팀의 홈구장에서 여는 구조다. [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink")부터 다시 2-2-1-1-1 구조로 변경된다.
+[1985년](../Page/1985년.md "wikilink") 이후 2-3-2 구조로 진행됐다. 첫 2경기와 마지막 2경기를 좀 더 정규시즌 성적이 나은 팀의 홈구장에서 여는 구조다. [2014년](../Page/2014년.md "wikilink")부터 다시 2-2-1-1-1 구조로 변경된다.
 
 2-3-2 구조는 높은 성적의 팀이 1,2,6,7차전을 홈 경기로 하고, 낮은 성적의 팀이 3,4,5차전을 홈 경기로 하는 구조이고, 2-2-1-1-1 구조는 높은 성적의 팀이 1,2,5,7차전을 홈 경기로 하고, 낮은 성적의 팀이 3,4,6차전을 홈 경기로 하는 구조이다.
 

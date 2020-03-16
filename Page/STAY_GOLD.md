@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [STAY GOLD](https://ko.wikipedia.org/wiki/STAY_GOLD).
 
 
-〈**STAY GOLD**〉(스테이 골드)는 [Aqua Timez가](../Page/Aqua_Timez.md "wikilink") [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [3월 4일에](https://ko.wikipedia.org/wiki/3월_4일 "wikilink") 발매한 아홉 번째 싱글이다.
+〈**STAY GOLD**〉(스테이 골드)는 [Aqua Timez가](../Page/Aqua_Timez.md "wikilink") [2009년](../Page/2009년.md "wikilink") [3월 4일에](../Page/3월_4일.md "wikilink") 발매한 아홉 번째 싱글이다.
 
 ## 개요
 

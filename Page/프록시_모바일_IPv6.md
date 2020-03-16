@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  IPv6](https://ko.wikipedia.org/wiki/__IPv6).
 
 
-**Proxy Mobile IP**(**PMIP** 또는 **Proxy Mobile IPv6**)는 [IETF](https://ko.wikipedia.org/wiki/IETF "wikilink")에서 정의한 [네트워크](https://ko.wikipedia.org/wiki/네트워크 "wikilink") [프로토콜](https://ko.wikipedia.org/wiki/프로토콜 "wikilink")이다. Proxy Mobile IP는 [Mobile IP와](https://ko.wikipedia.org/wiki/Mobile_IP "wikilink") 유사하게 동작하지만 [단말](https://ko.wikipedia.org/wiki/단말 "wikilink")에 이동성에 대한 어떠한 처리도 요구하지 않는다는 차이점이 있다. Proxy Mobile IP와 같이 단말의 이동과 관련하여 단말에게 어떠한 특별한 동작을 요구하지 않는 기법을 통칭하여 [망 기반 이동성 관리](https://ko.wikipedia.org/wiki/망_기반_이동성_관리 "wikilink")(network-based mobility management)라고 한다. Proxy Mobile IP를 사용할 경우, 단말의 [TCP/IP 프로토콜 스택에는](https://ko.wikipedia.org/wiki/인터넷_프로토콜_스위트 "wikilink") 어떠한 수정도 가해지지 않으며 단말은 자신의 [IP](https://ko.wikipedia.org/wiki/인터넷_프로토콜 "wikilink") 주소를 바꾸지 않고 접속 위치를 바꿀 수 있다.
+**Proxy Mobile IP**(**PMIP** 또는 **Proxy Mobile IPv6**)는 [IETF](https://ko.wikipedia.org/wiki/IETF "wikilink")에서 정의한 [네트워크](https://ko.wikipedia.org/wiki/네트워크 "wikilink") [프로토콜](https://ko.wikipedia.org/wiki/프로토콜 "wikilink")이다. Proxy Mobile IP는 [Mobile IP와](https://ko.wikipedia.org/wiki/Mobile_IP "wikilink") 유사하게 동작하지만 [단말](https://ko.wikipedia.org/wiki/단말 "wikilink")에 이동성에 대한 어떠한 처리도 요구하지 않는다는 차이점이 있다. Proxy Mobile IP와 같이 단말의 이동과 관련하여 단말에게 어떠한 특별한 동작을 요구하지 않는 기법을 통칭하여 [망 기반 이동성 관리](https://ko.wikipedia.org/wiki/망_기반_이동성_관리 "wikilink")(network-based mobility management)라고 한다. Proxy Mobile IP를 사용할 경우, 단말의 [TCP/IP 프로토콜 스택에는](../Page/인터넷_프로토콜_스위트.md "wikilink") 어떠한 수정도 가해지지 않으며 단말은 자신의 [IP](../Page/인터넷_프로토콜.md "wikilink") 주소를 바꾸지 않고 접속 위치를 바꿀 수 있다.
 
 ## 동작 원리
 

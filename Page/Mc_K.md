@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Mc K](https://ko.wikipedia.org/wiki/Mc_K).
 
 
-**mc K**([1979년](https://ko.wikipedia.org/wiki/1979년 "wikilink") [9월 21일](https://ko.wikipedia.org/wiki/9월_21일 "wikilink") \~ )는 대한민국의 가수이다. 1998년에 **김화랑**이라는 이름으로 R\&B 가수로 데뷔하였으며, 현재 우연석과 함께 메인스트림의 멤버로 활동하고 있다.
+**mc K**([1979년](../Page/1979년.md "wikilink") [9월 21일](../Page/9월_21일.md "wikilink") \~ )는 대한민국의 가수이다. 1998년에 **김화랑**이라는 이름으로 R\&B 가수로 데뷔하였으며, 현재 우연석과 함께 메인스트림의 멤버로 활동하고 있다.
 
 ## 음반
 

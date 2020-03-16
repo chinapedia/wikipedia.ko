@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Great 2008 Seotaiji Symphony](https://ko.wikipedia.org/wiki/The_Great_2008_Seotaiji_Symphony).
 
 
-《'''The Great 2008 Seotaiji Symphony '''》는 2008년 9월 27일 상암 경기장에서 개최되었던 [서태지](https://ko.wikipedia.org/wiki/서태지 "wikilink")와 로열 필하모닉의 《The Great 2008 Seotaiji Symphony》\[1\] 협연 실황 음반이다.
+《'''The Great 2008 Seotaiji Symphony '''》는 2008년 9월 27일 상암 경기장에서 개최되었던 [서태지](../Page/서태지.md "wikilink")와 로열 필하모닉의 《The Great 2008 Seotaiji Symphony》\[1\] 협연 실황 음반이다.
 
 ## 공연
 
@@ -27,9 +27,9 @@
 
 </dl>
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/서태지" title="wikilink">서태지</a>: <a href="https://ko.wikipedia.org/wiki/보컬" title="wikilink">보컬</a></li>
-<li><a href="../Page/안성훈.md" title="wikilink">TOP</a>: <a href="https://ko.wikipedia.org/wiki/기타" title="wikilink">기타</a></li>
-<li>강준형: <a href="https://ko.wikipedia.org/wiki/베이스_기타" title="wikilink">베이스 기타</a></li>
+<li><a href="../Page/서태지.md" title="wikilink">서태지</a>: <a href="https://ko.wikipedia.org/wiki/보컬" title="wikilink">보컬</a></li>
+<li><a href="../Page/안성훈.md" title="wikilink">TOP</a>: <a href="../Page/기타.md" title="wikilink">기타</a></li>
+<li>강준형: <a href="../Page/베이스_기타.md" title="wikilink">베이스 기타</a></li>
 <li>김석중: <a href="https://ko.wikipedia.org/wiki/건반_악기" title="wikilink">키보드</a></li>
 <li>최현진: <a href="https://ko.wikipedia.org/wiki/드럼" title="wikilink">드럼</a></li>
 </ul>
@@ -57,7 +57,7 @@
 </ul></li>
 <li>곽호재·주병조(Rui Sound), Simon Honywill, Simon Hanhart, Chris Ekers, Steven Carr: 무대 사운드, 녹음</li>
 <li>오형석: 믹싱, 마스터링</li>
-<li>Day-z: <a href="https://ko.wikipedia.org/wiki/아트_디렉터" title="wikilink">아트 디렉터</a>, <a href="https://ko.wikipedia.org/wiki/디자인" title="wikilink">디자인</a></li>
+<li>Day-z: <a href="https://ko.wikipedia.org/wiki/아트_디렉터" title="wikilink">아트 디렉터</a>, <a href="../Page/디자인.md" title="wikilink">디자인</a></li>
 </ul></td>
 </tr>
 </tbody>

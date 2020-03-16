@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Peace@Pieces](https://ko.wikipedia.org/wiki/Peace@Pieces).
 
 
-《**Peace@Pieces**》(피스 어 피시즈)는 《[일곱빛깔★드롭스](../Page/일곱빛깔★드롭스.md "wikilink")》 등을 제작한 [유니존시프트](https://ko.wikipedia.org/wiki/유니존시프트 "wikilink")에서 발매한 '학원 연애 달콤한 코미디 모에 시츄에이션 H 어드벤처' 미소녀 게임이다. 캐릭터 디자인과 원화는 《[스즈미야 하루히 시리즈](https://ko.wikipedia.org/wiki/스즈미야_하루히_시리즈 "wikilink")》와 《[작안의 샤나](../Page/작안의_샤나.md "wikilink")》 등으로 유명한 [이토 노이지가](../Page/이토_노이지.md "wikilink") 맡았다. 2007년에는 본작과 팬디스크의 어나더 스토리 일부분을 추가한 염가판을 《**Peace@Pieces+원 모어@피시즈 Special Memorial Edition**》이라는 이름으로 발매하고 있다. 사신 후보생과 그에 관련된 모든 사람의 이름에는 '아' 행의 글자가 한 글자씩 포함되어 있으며, 그들의 이름을 영어로 표기할 때는 'A'를 '@'로 표기한다(예: HIK@RU, N@GI 등).
+《**Peace@Pieces**》(피스 어 피시즈)는 《[일곱빛깔★드롭스](../Page/일곱빛깔★드롭스.md "wikilink")》 등을 제작한 [유니존시프트](https://ko.wikipedia.org/wiki/유니존시프트 "wikilink")에서 발매한 '학원 연애 달콤한 코미디 모에 시츄에이션 H 어드벤처' 미소녀 게임이다. 캐릭터 디자인과 원화는 《[스즈미야 하루히 시리즈](../Page/스즈미야_하루히_시리즈.md "wikilink")》와 《[작안의 샤나](../Page/작안의_샤나.md "wikilink")》 등으로 유명한 [이토 노이지가](../Page/이토_노이지.md "wikilink") 맡았다. 2007년에는 본작과 팬디스크의 어나더 스토리 일부분을 추가한 염가판을 《**Peace@Pieces+원 모어@피시즈 Special Memorial Edition**》이라는 이름으로 발매하고 있다. 사신 후보생과 그에 관련된 모든 사람의 이름에는 '아' 행의 글자가 한 글자씩 포함되어 있으며, 그들의 이름을 영어로 표기할 때는 'A'를 '@'로 표기한다(예: HIK@RU, N@GI 등).
 
 ## 줄거리
 
@@ -140,7 +140,7 @@
 <!-- end list -->
 
   -
-    [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [8월 29일](https://ko.wikipedia.org/wiki/8월_29일 "wikilink"), 패미통 문고(엔터브레인) 발매（）
+    [2005년](../Page/2005년.md "wikilink") [8월 29일](../Page/8월_29일.md "wikilink"), 패미통 문고(엔터브레인) 발매（）
     저 : 코바야시 마사치카, 일러스트 : [이토 노이지](../Page/이토_노이지.md "wikilink")
 
 ### 일러스트・설정집
@@ -150,7 +150,7 @@
 <!-- end list -->
 
   -
-    [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [3월 30일](https://ko.wikipedia.org/wiki/3월_30일 "wikilink"), [미디어웍스](https://ko.wikipedia.org/wiki/미디어웍스 "wikilink") 발매（）
+    [2005년](../Page/2005년.md "wikilink") [3월 30일](../Page/3월_30일.md "wikilink"), [미디어웍스](https://ko.wikipedia.org/wiki/미디어웍스 "wikilink") 발매（）
     저 : 전격 히메 편집부
 
 ### CD
@@ -160,7 +160,7 @@
 <!-- end list -->
 
   -
-    [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [3월 25일](https://ko.wikipedia.org/wiki/3월_25일 "wikilink") 발매
+    [2005년](../Page/2005년.md "wikilink") [3월 25일](../Page/3월_25일.md "wikilink") 발매
     게임 내에서 쓰인 BGM과 OST를 수록한 사운드트랙.
 
 ## 외부 링크

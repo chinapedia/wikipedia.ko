@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [Live Forever](https://ko.wikipedia.org/wiki/Live_Forever).
 
 
-〈**Live Forever**〉는 기타리스트 [노엘 갤러거에](../Page/노엘_갤러거.md "wikilink") 의해 쓰인 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 록 밴드 [오아시스의](https://ko.wikipedia.org/wiki/오아시스_\(밴드\) "wikilink") 곡으로, 1994년 8월 8일 오아시스의 데뷔 음반 《[Definitely Maybe](../Page/Definitely_Maybe.md "wikilink")》이 발매되기 바로 전 그 음반의 세 번째 싱글로 발매되었다. 노엘 갤러거는 이 곡을 오아시스에 가입하기 전인 1991년에 작곡했다. [롤링 스톤스의](https://ko.wikipedia.org/wiki/롤링_스톤스 "wikilink") 〈Shine a Light〉에서 영감 받은 이 곡은 당시 만연해 있었던 [그런지](https://ko.wikipedia.org/wiki/그런지 "wikilink") 장르의 정신과 대립하는 낙관주의적 가사를 보여주었고, 곧 비평가들의 호평을 받으며 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink") 차트 10위권 안에 들어간 오아시스의 첫 번째 싱글이 되었다.
+〈**Live Forever**〉는 기타리스트 [노엘 갤러거에](../Page/노엘_갤러거.md "wikilink") 의해 쓰인 [영국](../Page/영국.md "wikilink")의 록 밴드 [오아시스의](../Page/오아시스_\(밴드\).md "wikilink") 곡으로, 1994년 8월 8일 오아시스의 데뷔 음반 《[Definitely Maybe](../Page/Definitely_Maybe.md "wikilink")》이 발매되기 바로 전 그 음반의 세 번째 싱글로 발매되었다. 노엘 갤러거는 이 곡을 오아시스에 가입하기 전인 1991년에 작곡했다. [롤링 스톤스의](../Page/롤링_스톤스.md "wikilink") 〈Shine a Light〉에서 영감 받은 이 곡은 당시 만연해 있었던 [그런지](https://ko.wikipedia.org/wiki/그런지 "wikilink") 장르의 정신과 대립하는 낙관주의적 가사를 보여주었고, 곧 비평가들의 호평을 받으며 [영국](../Page/영국.md "wikilink") 차트 10위권 안에 들어간 오아시스의 첫 번째 싱글이 되었다.
 
 ## 배경설명과 녹음
 
-[노엘 갤러거는](../Page/노엘_갤러거.md "wikilink") 1991년 그의 고향인 [맨체스터](../Page/맨체스터.md "wikilink")의 건축 회사에서 일하는 동안 〈Live Forever〉를 썼다. 파이프 사고로 인해 그의 발이 부러진 후에, 그는 창고에서 덜 분주한 일을 맡았고 이는 그에게 작곡하기 위한 시간을 더 많이 가져다 주었다. 어느 날 밤에 그는 [롤링 스톤스의](https://ko.wikipedia.org/wiki/롤링_스톤스 "wikilink") 《[Exile on Main St.](https://ko.wikipedia.org/wiki/Exile_on_Main_St. "wikilink")》을 듣고 있었다. 그가 그의 첫 번째 코드 진행을 연주하는 동안, 노엘은 이것이 그 앨범의 보컬 멜로디들에 저항하는 좋은 사운드임을 알아차렸다. "이건 〈[Shine a Light](../Page/Shine_a_Light.md "wikilink")〉의 'May the good lord shine a light on you,'라는 부분에서 나왔어." 노엘은 회상했다. 노엘은 그 멜로디를 "아마도 나는 정말 알길 원하지 않는가봐 (Maybe I don't really wanna know)"라는 새로운 가사와 합체시켰다. 그 후에도 이 부분이 유일하게 노엘이 이 노래에서 완성시킨 부분이었다.\[1\]
+[노엘 갤러거는](../Page/노엘_갤러거.md "wikilink") 1991년 그의 고향인 [맨체스터](../Page/맨체스터.md "wikilink")의 건축 회사에서 일하는 동안 〈Live Forever〉를 썼다. 파이프 사고로 인해 그의 발이 부러진 후에, 그는 창고에서 덜 분주한 일을 맡았고 이는 그에게 작곡하기 위한 시간을 더 많이 가져다 주었다. 어느 날 밤에 그는 [롤링 스톤스의](../Page/롤링_스톤스.md "wikilink") 《[Exile on Main St.](../Page/Exile_on_Main_St..md "wikilink")》을 듣고 있었다. 그가 그의 첫 번째 코드 진행을 연주하는 동안, 노엘은 이것이 그 앨범의 보컬 멜로디들에 저항하는 좋은 사운드임을 알아차렸다. "이건 〈[Shine a Light](../Page/Shine_a_Light.md "wikilink")〉의 'May the good lord shine a light on you,'라는 부분에서 나왔어." 노엘은 회상했다. 노엘은 그 멜로디를 "아마도 나는 정말 알길 원하지 않는가봐 (Maybe I don't really wanna know)"라는 새로운 가사와 합체시켰다. 그 후에도 이 부분이 유일하게 노엘이 이 노래에서 완성시킨 부분이었다.\[1\]
 
-노엘은 이 곡을 그의 동생인 [리암의](../Page/리암_갤러거.md "wikilink") 앞에서 연주했고, 리암은 감명을 받아 노엘에게 그의 밴드인 더 레인(The Rain, 훗날의 [오아시스](https://ko.wikipedia.org/wiki/오아시스_\(밴드\) "wikilink"))에 들어와 달라고 요청했다. 이 곡은 훗날 밴드가 [크리에이션 레코드와의](https://ko.wikipedia.org/wiki/크리에이션_레코드 "wikilink") 음반 계약을 확실히 하게 하는 데 도움을 주었다. 그가 처음으로 이 곡을 들었을 때를 회상하며, 크리에이션의 [알란 맥기는](https://ko.wikipedia.org/wiki/알란_맥기 "wikilink") "그건 아마도 내가 그들과 함께 경험했던 것들 중에 단 하나의 최고로 훌륭한 순간이었어."라고 회상했다.\[2\]
+노엘은 이 곡을 그의 동생인 [리암의](../Page/리암_갤러거.md "wikilink") 앞에서 연주했고, 리암은 감명을 받아 노엘에게 그의 밴드인 더 레인(The Rain, 훗날의 [오아시스](../Page/오아시스_\(밴드\).md "wikilink"))에 들어와 달라고 요청했다. 이 곡은 훗날 밴드가 [크리에이션 레코드와의](https://ko.wikipedia.org/wiki/크리에이션_레코드 "wikilink") 음반 계약을 확실히 하게 하는 데 도움을 주었다. 그가 처음으로 이 곡을 들었을 때를 회상하며, 크리에이션의 [알란 맥기는](https://ko.wikipedia.org/wiki/알란_맥기 "wikilink") "그건 아마도 내가 그들과 함께 경험했던 것들 중에 단 하나의 최고로 훌륭한 순간이었어."라고 회상했다.\[2\]
 
-〈Live Forever〉의 데모 버전은 어쿠스틱 기타 솔로로 시작한다. 반면, 음반 버전은 프로듀서인 [오웬 모리스가](https://ko.wikipedia.org/wiki/오웬_모리스 "wikilink") 이 인트로 부분을 잘라내고 [토니 맥캐롤의](https://ko.wikipedia.org/wiki/토니_맥캐롤 "wikilink") 드럼 연주로 인트로를 대체하였다. 모리스는 더 나아가 노엘의 기타 솔로 중 두 번째 섹션도 잘라내었다. 노엘이 화가 났음에도 불구하고, 모리스는 그 파트가 "시발 마치 [건즈 앤 로지스의](https://ko.wikipedia.org/wiki/건즈_앤_로지스 "wikilink") [슬래시](../Page/슬래시_\(음악가\).md "wikilink")" 같은 소리가 난다고 느꼈다.\[3\]
+〈Live Forever〉의 데모 버전은 어쿠스틱 기타 솔로로 시작한다. 반면, 음반 버전은 프로듀서인 [오웬 모리스가](https://ko.wikipedia.org/wiki/오웬_모리스 "wikilink") 이 인트로 부분을 잘라내고 [토니 맥캐롤의](https://ko.wikipedia.org/wiki/토니_맥캐롤 "wikilink") 드럼 연주로 인트로를 대체하였다. 모리스는 더 나아가 노엘의 기타 솔로 중 두 번째 섹션도 잘라내었다. 노엘이 화가 났음에도 불구하고, 모리스는 그 파트가 "시발 마치 [건즈 앤 로지스의](../Page/건즈_앤_로지스.md "wikilink") [슬래시](../Page/슬래시_\(음악가\).md "wikilink")" 같은 소리가 난다고 느꼈다.\[3\]
 
 ## 작곡
 
@@ -25,19 +25,19 @@
 >
 > — [Dominic King](https://ko.wikipedia.org/wiki/Dominic_King "wikilink") on *Live Forever*\[11\]
 
-〈Live Forever〉는 [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") [8월 8일](https://ko.wikipedia.org/wiki/8월_8일 "wikilink") 밴드의 세 번째 싱글이며, 그들의 데뷔 앨범인 《[Definitely Maybe](../Page/Definitely_Maybe.md "wikilink")》가 발매되기 한 달 전에 발매되었다. 이 곡은 그 당시 밴드의 곡들 중에서 일 년도 넘었던 곡들 중 하나이며, 오아시스에 관한 리뷰들 중에서 너무나 많은 언급을 지닌 곡이다. "그것의 (싱글로서의) 발매는 오랫동안 당연히 그렇게 되어야 할 것처럼 보였다."\[12\]이 싱글에 관한 리뷰에서 NME는 〈Live Forever〉가 오아시스의 이전 싱글들에서 진보했음을 찾아내었다. "실은, 맨체스터식의 미울 정도의 오만함으로 보였던 것이 갑자기 완전히 무심한듯한 것으로 보이기까지 한다. 굉장히 훌륭한 곡이다."\[13\]
+〈Live Forever〉는 [1994년](../Page/1994년.md "wikilink") [8월 8일](../Page/8월_8일.md "wikilink") 밴드의 세 번째 싱글이며, 그들의 데뷔 앨범인 《[Definitely Maybe](../Page/Definitely_Maybe.md "wikilink")》가 발매되기 한 달 전에 발매되었다. 이 곡은 그 당시 밴드의 곡들 중에서 일 년도 넘었던 곡들 중 하나이며, 오아시스에 관한 리뷰들 중에서 너무나 많은 언급을 지닌 곡이다. "그것의 (싱글로서의) 발매는 오랫동안 당연히 그렇게 되어야 할 것처럼 보였다."\[12\]이 싱글에 관한 리뷰에서 NME는 〈Live Forever〉가 오아시스의 이전 싱글들에서 진보했음을 찾아내었다. "실은, 맨체스터식의 미울 정도의 오만함으로 보였던 것이 갑자기 완전히 무심한듯한 것으로 보이기까지 한다. 굉장히 훌륭한 곡이다."\[13\]
 
-오아시스의 첫 두 싱글인 〈[Supersonic](https://ko.wikipedia.org/wiki/Supersonic "wikilink")〉과 〈[Shakermaker](../Page/Shakermaker.md "wikilink")〉가 적당한 관심을 받은 반면, 〈Live Forever〉는 "전 세계의 관심을 받았다."\[14\] 〈Live Forever〉는 오아시스의 첫 번째 10위권 히트가 되었으며, [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") 영국 싱글 차트에서 10위까지 치솟았다.\[15\] [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink"), 이 곡은 미국에서 밴드의 첫 번째 차트 성공작이 되었으며, [빌보드](https://ko.wikipedia.org/wiki/빌보드 "wikilink") 모던 락 트랙에서 2위를, 주류 락 트랙 차트에서 10위를 기록하였다.\[16\] [노엘 갤러거는](../Page/노엘_갤러거.md "wikilink") 이 곡에 바쳐진 찬사들에 관해 "사람들은 내게 'Live Forever'이후에 '당신은 어디서 그런 걸 얻으신 거예요?'라고 묻는다. 그럼 난, '난 그게 '그 정도'로 좋다고 생각하지 않아. 나는 그게 존나 좋은 노래라고 생각하지. 하지만 난 그것보다 더 잘할 수 있다고 생각해'." 라고 이야기하였다.\[17\]
+오아시스의 첫 두 싱글인 〈[Supersonic](https://ko.wikipedia.org/wiki/Supersonic "wikilink")〉과 〈[Shakermaker](../Page/Shakermaker.md "wikilink")〉가 적당한 관심을 받은 반면, 〈Live Forever〉는 "전 세계의 관심을 받았다."\[14\] 〈Live Forever〉는 오아시스의 첫 번째 10위권 히트가 되었으며, [1994년](../Page/1994년.md "wikilink") 영국 싱글 차트에서 10위까지 치솟았다.\[15\] [1995년](../Page/1995년.md "wikilink"), 이 곡은 미국에서 밴드의 첫 번째 차트 성공작이 되었으며, [빌보드](../Page/빌보드.md "wikilink") 모던 락 트랙에서 2위를, 주류 락 트랙 차트에서 10위를 기록하였다.\[16\] [노엘 갤러거는](../Page/노엘_갤러거.md "wikilink") 이 곡에 바쳐진 찬사들에 관해 "사람들은 내게 'Live Forever'이후에 '당신은 어디서 그런 걸 얻으신 거예요?'라고 묻는다. 그럼 난, '난 그게 '그 정도'로 좋다고 생각하지 않아. 나는 그게 존나 좋은 노래라고 생각하지. 하지만 난 그것보다 더 잘할 수 있다고 생각해'." 라고 이야기하였다.\[17\]
 
-〈Live Forever〉는 그것이 발매되고 수 년이 지난 이후에도 계속해서 찬사를 받고 있다. [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink"), 〈Live Forever〉는 Q매거진에서 투표를 실시한 가장 훌륭한 노래 1위로 명명되었다; 이 곡은 3년 전 이와 비슷한 Q매거진의 투표에서 9위에 랭크되었다.\[18\] [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink"), 〈Live Forever〉는 NME와 [XFM](https://ko.wikipedia.org/wiki/XFM "wikilink")이 실시한 "가장 훌륭한 인디 밴드 찬가 50위" 투표에서 1위를 차지했다.\[19\] 이 곡은 노엘 갤러거에 의해 선택되어 2006년 오아시스의 컴필레이션 앨범인 《[Stop the Clocks](https://ko.wikipedia.org/wiki/Stop_the_Clocks "wikilink")》에도 포함되었다. [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink"), XFM이 다른 전 세계적인 방송과 함께 실시한 '전 시대의 가장 훌륭한 곡 100위' 조사에서 〈Live Forever〉는 1위를 기록했다.
+〈Live Forever〉는 그것이 발매되고 수 년이 지난 이후에도 계속해서 찬사를 받고 있다. [2006년](../Page/2006년.md "wikilink"), 〈Live Forever〉는 Q매거진에서 투표를 실시한 가장 훌륭한 노래 1위로 명명되었다; 이 곡은 3년 전 이와 비슷한 Q매거진의 투표에서 9위에 랭크되었다.\[18\] [2007년](../Page/2007년.md "wikilink"), 〈Live Forever〉는 NME와 [XFM](https://ko.wikipedia.org/wiki/XFM "wikilink")이 실시한 "가장 훌륭한 인디 밴드 찬가 50위" 투표에서 1위를 차지했다.\[19\] 이 곡은 노엘 갤러거에 의해 선택되어 2006년 오아시스의 컴필레이션 앨범인 《[Stop the Clocks](../Page/Stop_the_Clocks.md "wikilink")》에도 포함되었다. [2009년](../Page/2009년.md "wikilink"), XFM이 다른 전 세계적인 방송과 함께 실시한 '전 시대의 가장 훌륭한 곡 100위' 조사에서 〈Live Forever〉는 1위를 기록했다.
 
 ## 뮤직 비디오
 
-영국과 미국 방송을 위해 〈Live Forever〉는 두 개의 뮤직비디오가 제작되었다.\[20\] 카를로스 그라소가 감독한 오리지널 뮤직 비디오는 예를 들면 [리암 갤러거가](../Page/리암_갤러거.md "wikilink") 벽에 고정된 의자 위에 앉아있는다든가, 굉장히 많은 씬이 밴드의 드러머인 [토니 맥캐롤을](https://ko.wikipedia.org/wiki/토니_맥캐롤 "wikilink") 생매장하는 장면을 위해 쓰여졌다든가 하는 별난 모습들이 많이 나온다. 영국 버전의 몇몇 프로모션 비디오는 [존 레논에게](https://ko.wikipedia.org/wiki/존_레논 "wikilink") 헌정된 뉴욕 [센트럴 파크의](../Page/센트럴_파크.md "wikilink") [스트로베리 필즈 공동묘지에서](https://ko.wikipedia.org/wiki/스트로베리_필즈_공동묘지 "wikilink") 촬영되었다. 이 싱글의 표지에는 존 레논의 어린 시절 집이었던 [251 Menlove Avenue가](https://ko.wikipedia.org/wiki/251_Menlove_Avenue "wikilink") 등장한다.\[21\]
+영국과 미국 방송을 위해 〈Live Forever〉는 두 개의 뮤직비디오가 제작되었다.\[20\] 카를로스 그라소가 감독한 오리지널 뮤직 비디오는 예를 들면 [리암 갤러거가](../Page/리암_갤러거.md "wikilink") 벽에 고정된 의자 위에 앉아있는다든가, 굉장히 많은 씬이 밴드의 드러머인 [토니 맥캐롤을](https://ko.wikipedia.org/wiki/토니_맥캐롤 "wikilink") 생매장하는 장면을 위해 쓰여졌다든가 하는 별난 모습들이 많이 나온다. 영국 버전의 몇몇 프로모션 비디오는 [존 레논에게](../Page/존_레논.md "wikilink") 헌정된 뉴욕 [센트럴 파크의](../Page/센트럴_파크.md "wikilink") [스트로베리 필즈 공동묘지에서](https://ko.wikipedia.org/wiki/스트로베리_필즈_공동묘지 "wikilink") 촬영되었다. 이 싱글의 표지에는 존 레논의 어린 시절 집이었던 [251 Menlove Avenue가](https://ko.wikipedia.org/wiki/251_Menlove_Avenue "wikilink") 등장한다.\[21\]
 
-닉 에간이 감독한 미국 버전의 뮤직비디오는 1970년 [믹 재거가](../Page/믹_재거.md "wikilink") [시드 비셔스](https://ko.wikipedia.org/wiki/시드_비셔스 "wikilink"), [커트 코베인](../Page/커트_코베인.md "wikilink"), [짐 모리슨](../Page/짐_모리슨.md "wikilink"), [존 레논](https://ko.wikipedia.org/wiki/존_레논 "wikilink"), [브라이언 존스](../Page/브라이언_존스.md "wikilink"), [지미 헨드릭스](../Page/지미_헨드릭스.md "wikilink"), [마크 볼란](../Page/마크_볼란.md "wikilink"), 그리고 [보비 무어의](https://ko.wikipedia.org/wiki/보비_무어 "wikilink") 사진을 벽에 걸어놓은 사무실에서 밴드가 연주했던 "PERFORMANCE"의 연속으로, '터너로부터의 메모'에 관한 감사인 것처럼 보인다.
+닉 에간이 감독한 미국 버전의 뮤직비디오는 1970년 [믹 재거가](../Page/믹_재거.md "wikilink") [시드 비셔스](../Page/시드_비셔스.md "wikilink"), [커트 코베인](../Page/커트_코베인.md "wikilink"), [짐 모리슨](../Page/짐_모리슨.md "wikilink"), [존 레논](../Page/존_레논.md "wikilink"), [브라이언 존스](../Page/브라이언_존스.md "wikilink"), [지미 헨드릭스](../Page/지미_헨드릭스.md "wikilink"), [마크 볼란](../Page/마크_볼란.md "wikilink"), 그리고 [보비 무어의](../Page/보비_무어.md "wikilink") 사진을 벽에 걸어놓은 사무실에서 밴드가 연주했던 "PERFORMANCE"의 연속으로, '터너로부터의 메모'에 관한 감사인 것처럼 보인다.
 
-이 두 뮤직비디오 모두 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") "[Definitely Maybe - The DVD](https://ko.wikipedia.org/wiki/Definitely_Maybe#DVD "wikilink")"에 실렸다.
+이 두 뮤직비디오 모두 [2004년](../Page/2004년.md "wikilink") "[Definitely Maybe - The DVD](https://ko.wikipedia.org/wiki/Definitely_Maybe#DVD "wikilink")"에 실렸다.
 
 ## 트랙 목록
 
@@ -98,13 +98,13 @@
 
 ## 차트 순위
 
-| 차트 (1994년)                                                                          | 순위 |
-| ----------------------------------------------------------------------------------- | -- |
-| UK 싱글 차트\[22\]                                                                      | 10 |
-| 차트 (1994년)                                                                          | 순위 |
-| US [빌보드](https://ko.wikipedia.org/wiki/빌보드 "wikilink") Mainstream Rock Tracks\[23\] | 10 |
-| US [빌보드](https://ko.wikipedia.org/wiki/빌보드 "wikilink") Modern Rock Tracks\[24\]     | 2  |
-|                                                                                     |    |
+| 차트 (1994년)                                                       | 순위 |
+| ---------------------------------------------------------------- | -- |
+| UK 싱글 차트\[22\]                                                   | 10 |
+| 차트 (1994년)                                                       | 순위 |
+| US [빌보드](../Page/빌보드.md "wikilink") Mainstream Rock Tracks\[23\] | 10 |
+| US [빌보드](../Page/빌보드.md "wikilink") Modern Rock Tracks\[24\]     | 2  |
+|                                                                  |    |
 
 ## 참고자료
 

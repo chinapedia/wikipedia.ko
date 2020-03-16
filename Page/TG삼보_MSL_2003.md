@@ -5,7 +5,7 @@
 
 ## 리그 본문
 
-  - **리그기간** : [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [9월 4일](https://ko.wikipedia.org/wiki/9월_4일 "wikilink") \~ [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [11월 30일](https://ko.wikipedia.org/wiki/11월_30일 "wikilink")
+  - **리그기간** : [2003년](../Page/2003년.md "wikilink") [9월 4일](../Page/9월_4일.md "wikilink") \~ [2003년](../Page/2003년.md "wikilink") [11월 30일](../Page/11월_30일.md "wikilink")
 
 <!-- end list -->
 
@@ -26,7 +26,7 @@
 
 ### 예선전
 
-  - MSL 예선전의 폐지로 하부리그 방식의 [TG삼보 MSL - 메이저진출전에서](https://ko.wikipedia.org/wiki/MSL_1차_마이너리그 "wikilink") 진출하였다.
+  - MSL 예선전의 폐지로 하부리그 방식의 [TG삼보 MSL - 메이저진출전에서](../Page/MSL_1차_마이너리그.md "wikilink") 진출하였다.
 
 | 1조  | 2조  | 3조   | 4조  | 5조  | 6조  | 7조  | 8조  | 9조  | 10조 | 11조      | 12조 |
 | --- | --- | ---- | --- | --- | --- | --- | --- | --- | --- | -------- | --- |

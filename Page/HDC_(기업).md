@@ -13,7 +13,7 @@
   - [HDC현대산업개발](../Page/HDC현대산업개발.md "wikilink")
   - [해운대 아이파크](https://ko.wikipedia.org/wiki/해운대_아이파크 "wikilink")
   - [삼성동 아이파크](../Page/삼성동_아이파크.md "wikilink")
-  - [부산 아이파크](https://ko.wikipedia.org/wiki/부산_아이파크 "wikilink")
+  - [부산 아이파크](../Page/부산_아이파크.md "wikilink")
   - [정몽규](../Page/정몽규.md "wikilink")
 
 ## 각주

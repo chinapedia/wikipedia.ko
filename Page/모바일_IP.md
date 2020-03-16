@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ IP](https://ko.wikipedia.org/wiki/_IP).
 
 
-**모바일 IP**(Mobile IP)는 [IETF](https://ko.wikipedia.org/wiki/IETF "wikilink") 표준 [통신](https://ko.wikipedia.org/wiki/통신 "wikilink") [프로토콜](https://ko.wikipedia.org/wiki/프로토콜 "wikilink")로, 이동 기기 사용자로 하여금 한 네트워크에서 다른 네트워크로 이동하면서 IP 주소를 유지하도록 하기 위해 고안되었다. 모바일 [IPv4](https://ko.wikipedia.org/wiki/IPv4 "wikilink")는 IETF RFC 3344(RFC 3220과 RFC 2002의 진화된 문서)에 기술되어 있고 최신의 내용은 IETF RFC 4721에 추가되었다. 모바일 [IPv6](https://ko.wikipedia.org/wiki/IPv6 "wikilink")는 IETF RFC 3775에 기술되어 있다.
+**모바일 IP**(Mobile IP)는 [IETF](https://ko.wikipedia.org/wiki/IETF "wikilink") 표준 [통신](../Page/통신.md "wikilink") [프로토콜](https://ko.wikipedia.org/wiki/프로토콜 "wikilink")로, 이동 기기 사용자로 하여금 한 네트워크에서 다른 네트워크로 이동하면서 IP 주소를 유지하도록 하기 위해 고안되었다. 모바일 [IPv4](../Page/IPv4.md "wikilink")는 IETF RFC 3344(RFC 3220과 RFC 2002의 진화된 문서)에 기술되어 있고 최신의 내용은 IETF RFC 4721에 추가되었다. 모바일 [IPv6](../Page/IPv6.md "wikilink")는 IETF RFC 3775에 기술되어 있다.
 
 ## 개요
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WASP-19b](https://ko.wikipedia.org/wiki/WASP-19b).
 
 
-**WASP-19b**는 [돛자리](https://ko.wikipedia.org/wiki/돛자리 "wikilink") 방향으로 지구로부터 815광년 떨어진 곳에 있는 [G형 주계열성](../Page/G형_주계열성.md "wikilink") [WASP-19](https://ko.wikipedia.org/wiki/WASP-19 "wikilink") 주위를 도는 [외계 행성이다](https://ko.wikipedia.org/wiki/외계_행성 "wikilink"). WASP-19b는 항성에 매우 가까이 붙어 돌고 있으며 항성을 1회 도는 시간 또한 1일이 채 되지 않는다. 구체적인 1 공전주기는 0.788388일(18.932시간)에 불과하다. b의 질량은 [목성](../Page/목성.md "wikilink")의 1.15배이나 반지름은 목성보다 31퍼센트 더 큰데, 이는 항성으로부터 받는 열로 상층 대기가 부풀어 올랐기 때문이다.\[1\]
+**WASP-19b**는 [돛자리](../Page/돛자리.md "wikilink") 방향으로 지구로부터 815광년 떨어진 곳에 있는 [G형 주계열성](../Page/G형_주계열성.md "wikilink") [WASP-19](../Page/WASP-19.md "wikilink") 주위를 도는 [외계 행성이다](../Page/외계_행성.md "wikilink"). WASP-19b는 항성에 매우 가까이 붙어 돌고 있으며 항성을 1회 도는 시간 또한 1일이 채 되지 않는다. 구체적인 1 공전주기는 0.788388일(18.932시간)에 불과하다. b의 질량은 [목성](../Page/목성.md "wikilink")의 1.15배이나 반지름은 목성보다 31퍼센트 더 큰데, 이는 항성으로부터 받는 열로 상층 대기가 부풀어 올랐기 때문이다.\[1\]
 
 ## 대기
 

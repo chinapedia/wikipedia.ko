@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Bluetory](https://ko.wikipedia.org/wiki/Bluetory).
 
 
-***Bluetory***는 그룹 [씨엔블루](../Page/씨엔블루.md "wikilink")(CNBLUE)의 데뷔 미니앨범으로, [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [1월 14일](https://ko.wikipedia.org/wiki/1월_14일 "wikilink") 발매되었다. 앨범 타이틀 ‘블루토리’는 파랑을 뜻하는 ‘블루’와 순수 한국말 '토리'를 따온 말이다.\[1\]
+***Bluetory***는 그룹 [씨엔블루](../Page/씨엔블루.md "wikilink")(CNBLUE)의 데뷔 미니앨범으로, [2010년](../Page/2010년.md "wikilink") [1월 14일](../Page/1월_14일.md "wikilink") 발매되었다. 앨범 타이틀 ‘블루토리’는 파랑을 뜻하는 ‘블루’와 순수 한국말 '토리'를 따온 말이다.\[1\]
 
 씨엔블루는 이 앨범의 타이틀곡 〈외톨이야〉로 2010년 1월 15일 KBS 2TV [뮤직뱅크](../Page/뮤직뱅크.md "wikilink")에서 데뷔하였다. 같은 달 29일 [뮤직뱅크](../Page/뮤직뱅크.md "wikilink")에서 데뷔한 지 15일 만에 데뷔 첫 1위에 올랐으며, 1월 31일 SBS [인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink")에서도 뮤티즌 송을 수상하였다.\[2\] 현재까지 이 앨범은 92,966장 판매되었다. (2010년\~2011년 상반기)
 

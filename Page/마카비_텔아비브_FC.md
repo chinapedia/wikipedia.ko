@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
 
 
-**마카비 텔아비브 FC**(, )는 [이스라엘](https://ko.wikipedia.org/wiki/이스라엘 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로 [텔아비브](../Page/텔아비브.md "wikilink")를 연고지로 하며, [이스라엘 슈퍼리그의](https://ko.wikipedia.org/wiki/이스라엘_슈퍼리그 "wikilink") 최다 우승 팀이다.
+**마카비 텔아비브 FC**(, )는 [이스라엘](../Page/이스라엘.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [텔아비브](../Page/텔아비브.md "wikilink")를 연고지로 하며, [이스라엘 슈퍼리그의](https://ko.wikipedia.org/wiki/이스라엘_슈퍼리그 "wikilink") 최다 우승 팀이다.
 
 ## 역대 성적
 

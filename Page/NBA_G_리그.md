@@ -67,7 +67,7 @@
 <tr class="even">
 <td><p>애틀랜틱</p></td>
 <td><p><a href="../Page/델라웨어_블루코츠.md" title="wikilink">델라웨어 블루코츠</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/델라웨어주" title="wikilink">델라웨어주</a> <a href="../Page/윌밍턴_(델라웨어주).md" title="wikilink">윌밍턴</a></p></td>
+<td><p><a href="../Page/델라웨어주.md" title="wikilink">델라웨어주</a> <a href="../Page/윌밍턴_(델라웨어주).md" title="wikilink">윌밍턴</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/세븐티식서스_필드하우스" title="wikilink">세븐티식서스 필드하우스</a></p></td>
 <td><p>2,500명</p></td>
 <td><p>2007년</p></td>
@@ -76,7 +76,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/롱아일랜드_네츠.md" title="wikilink">롱아일랜드 네츠</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴욕주" title="wikilink">뉴욕주</a> <a href="https://ko.wikipedia.org/wiki/유니언데일_(뉴욕주)" title="wikilink">유니언데일</a></p></td>
+<td><p><a href="../Page/뉴욕주.md" title="wikilink">뉴욕주</a> <a href="https://ko.wikipedia.org/wiki/유니언데일_(뉴욕주)" title="wikilink">유니언데일</a></p></td>
 <td><p><a href="../Page/나소_베터런스_메모리얼_콜리시엄.md" title="wikilink">나소 베터런스 메모리얼 콜리시엄</a></p></td>
 <td><p>17,260명</p></td>
 <td><p>2016년</p></td>
@@ -86,7 +86,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/메인_레드_클로스.md" title="wikilink">메인 레드 클로스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/메인주" title="wikilink">메인주</a> <a href="../Page/포틀랜드_(메인주).md" title="wikilink">포틀랜드</a></p></td>
+<td><p><a href="../Page/메인주.md" title="wikilink">메인주</a> <a href="../Page/포틀랜드_(메인주).md" title="wikilink">포틀랜드</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/포틀랜드_엑스퍼지션_빌딩" title="wikilink">포틀랜드 엑스퍼지션 빌딩</a></p></td>
 <td><p>3,100명</p></td>
 <td><p>2009년</p></td>
@@ -106,7 +106,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/웨스트체스터_닉스.md" title="wikilink">웨스트체스터 닉스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴욕주" title="wikilink">뉴욕주</a> <a href="../Page/화이트플레인스_(뉴욕주).md" title="wikilink">화이트플레인스</a></p></td>
+<td><p><a href="../Page/뉴욕주.md" title="wikilink">뉴욕주</a> <a href="../Page/화이트플레인스_(뉴욕주).md" title="wikilink">화이트플레인스</a></p></td>
 <td><p><a href="../Page/웨스트체스터_카운티_센터.md" title="wikilink">웨스트체스터 카운티 센터</a></p></td>
 <td><p>5,000명</p></td>
 <td><p>2014년</p></td>
@@ -117,7 +117,7 @@
 <tr class="odd">
 <td><p>센트럴</p></td>
 <td><p><a href="../Page/캔턴_차지.md" title="wikilink">캔턴 차지</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오하이오주" title="wikilink">오하이오주</a> <a href="https://ko.wikipedia.org/wiki/캔턴" title="wikilink">캔턴</a></p></td>
+<td><p><a href="../Page/오하이오주.md" title="wikilink">오하이오주</a> <a href="https://ko.wikipedia.org/wiki/캔턴" title="wikilink">캔턴</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/캔턴_메모리얼_시빅_센터" title="wikilink">캔턴 메모리얼 시빅 센터</a></p></td>
 <td><p>5,200명</p></td>
 <td><p>2001년</p></td>
@@ -126,7 +126,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/포트웨인_매드_앤츠.md" title="wikilink">포트웨인 매드 앤츠</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/인디애나주" title="wikilink">인디애나주</a> <a href="../Page/포트웨인.md" title="wikilink">포트웨인</a></p></td>
+<td><p><a href="../Page/인디애나주.md" title="wikilink">인디애나주</a> <a href="../Page/포트웨인.md" title="wikilink">포트웨인</a></p></td>
 <td><p><a href="../Page/앨런_카운티_워_메모리얼_콜리시엄.md" title="wikilink">앨런 카운티 워 메모리얼 콜리시엄</a></p></td>
 <td><p>13,000명</p></td>
 <td><p>2007년</p></td>
@@ -136,7 +136,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/그랜드래피즈_드라이브.md" title="wikilink">그랜드래피즈 드라이브</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미시간주" title="wikilink">미시간주</a> <a href="https://ko.wikipedia.org/wiki/워커" title="wikilink">워커</a></p></td>
+<td><p><a href="../Page/미시간주.md" title="wikilink">미시간주</a> <a href="https://ko.wikipedia.org/wiki/워커" title="wikilink">워커</a></p></td>
 <td><p><a href="../Page/델타플렉스_아레나.md" title="wikilink">델타플렉스 아레나</a></p></td>
 <td><p>4,500명</p></td>
 <td><p>2006년</p></td>
@@ -146,7 +146,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/윈디_시티_불스.md" title="wikilink">윈디 시티 불스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/일리노이주" title="wikilink">일리노이주</a> <a href="https://ko.wikipedia.org/wiki/호프만_에스테이츠" title="wikilink">호프만 에스테이츠</a></p></td>
+<td><p><a href="../Page/일리노이주.md" title="wikilink">일리노이주</a> <a href="https://ko.wikipedia.org/wiki/호프만_에스테이츠" title="wikilink">호프만 에스테이츠</a></p></td>
 <td><p><a href="../Page/시어스_센터.md" title="wikilink">시어스 센터</a></p></td>
 <td><p>10,000명</p></td>
 <td><p>2015년</p></td>
@@ -156,7 +156,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/위스콘신_허드.md" title="wikilink">위스콘신 허드</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/위스콘신주" title="wikilink">위스콘신주</a> <a href="https://ko.wikipedia.org/wiki/오시코시" title="wikilink">오시코시</a></p></td>
+<td><p><a href="../Page/위스콘신주.md" title="wikilink">위스콘신주</a> <a href="https://ko.wikipedia.org/wiki/오시코시" title="wikilink">오시코시</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/메노미니_네이션_아레나" title="wikilink">메노미니 네이션 아레나</a></p></td>
 <td><p>3,500명</p></td>
 <td><p>2017년</p></td>
@@ -167,7 +167,7 @@
 <tr class="even">
 <td><p>사우스이스트</p></td>
 <td><p><a href="../Page/캐피털_시티_Go-Go.md" title="wikilink">캐피털 시티 Go-Go</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/워싱턴_D.C." title="wikilink">워싱턴 D.C.</a></p></td>
+<td><p><a href="../Page/워싱턴_D.C..md" title="wikilink">워싱턴 D.C.</a></p></td>
 <td><p><a href="../Page/세인트_엘리자베트_이스트_엔터테인먼트_앤_스포츠_아레나.md" title="wikilink">세인트 엘리자베트 이스트 엔터테인먼트 앤 스포츠 아레나</a></p></td>
 <td><p>4,200명</p></td>
 <td><p>2018년</p></td>
@@ -175,8 +175,8 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/칼리지파크_스카이호크스" title="wikilink">칼리지파크 스카이호크스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/조지아주" title="wikilink">조지아주</a> <a href="https://ko.wikipedia.org/wiki/칼리지파크_(조지아주)" title="wikilink">칼리지파크</a></p></td>
+<td><p><a href="../Page/칼리지파크_스카이호크스.md" title="wikilink">칼리지파크 스카이호크스</a></p></td>
+<td><p><a href="../Page/조지아주.md" title="wikilink">조지아주</a> <a href="https://ko.wikipedia.org/wiki/칼리지파크_(조지아주)" title="wikilink">칼리지파크</a></p></td>
 <td><p><a href="../Page/게이트웨이_센터_아레나.md" title="wikilink">게이트웨이 센터 아레나</a></p></td>
 <td><p>3,500명</p></td>
 <td><p>2017년</p></td>
@@ -186,7 +186,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/이리_베이호크스_(2019년).md" title="wikilink">이리 베이호크스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/펜실베이니아주" title="wikilink">펜실베이니아주</a> <a href="../Page/이리_(펜실베이니아주).md" title="wikilink">이리</a></p></td>
+<td><p><a href="../Page/펜실베이니아주.md" title="wikilink">펜실베이니아주</a> <a href="../Page/이리_(펜실베이니아주).md" title="wikilink">이리</a></p></td>
 <td><p><a href="../Page/이리_인슈런스_아레나.md" title="wikilink">이리 인슈런스 아레나</a></p></td>
 <td><p>6,750명명</p></td>
 <td><p>2019년</p></td>
@@ -196,7 +196,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/그린즈버러_스웜.md" title="wikilink">그린즈버러 스웜</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/노스캐롤라이나주" title="wikilink">노스캐롤라이나주</a> <a href="../Page/그린즈버러.md" title="wikilink">그린즈버러</a></p></td>
+<td><p><a href="../Page/노스캐롤라이나주.md" title="wikilink">노스캐롤라이나주</a> <a href="../Page/그린즈버러.md" title="wikilink">그린즈버러</a></p></td>
 <td><p><a href="../Page/그린즈버러_콜리시엄_콤플렉스.md" title="wikilink">그린즈버러 콜리시엄 필드 하우스</a></p></td>
 <td><p>2,500명</p></td>
 <td><p>2015년</p></td>
@@ -206,7 +206,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/레이클랜드_매직.md" title="wikilink">레이클랜드 매직</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/플로리다주" title="wikilink">플로리다주</a> <a href="../Page/레이클랜드_(플로리다주).md" title="wikilink">레이클랜드</a></p></td>
+<td><p><a href="../Page/플로리다주.md" title="wikilink">플로리다주</a> <a href="../Page/레이클랜드_(플로리다주).md" title="wikilink">레이클랜드</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/RP_펀딩_센터" title="wikilink">RP 펀딩 센터</a></p></td>
 <td><p>8,178명</p></td>
 <td><p>2008년</p></td>
@@ -227,7 +227,7 @@
 <tr class="even">
 <td><p>미드웨스트</p></td>
 <td><p><a href="../Page/아이오와_울브스.md" title="wikilink">아이오와 울브스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아이오와주" title="wikilink">아이오와주</a> <a href="../Page/디모인.md" title="wikilink">디모인</a></p></td>
+<td><p><a href="../Page/아이오와주.md" title="wikilink">아이오와주</a> <a href="../Page/디모인.md" title="wikilink">디모인</a></p></td>
 <td><p><a href="../Page/웰스_파고_아레나_(디모인).md" title="wikilink">웰스 파고 아레나</a></p></td>
 <td><p>16,110명</p></td>
 <td><p>2007년</p></td>
@@ -236,7 +236,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/멤피스_허슬.md" title="wikilink">멤피스 허슬</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미시시피주" title="wikilink">미시시피주</a> <a href="https://ko.wikipedia.org/wiki/사우스에이븐" title="wikilink">사우스에이븐</a></p></td>
+<td><p><a href="../Page/미시시피주.md" title="wikilink">미시시피주</a> <a href="https://ko.wikipedia.org/wiki/사우스에이븐" title="wikilink">사우스에이븐</a></p></td>
 <td><p><a href="../Page/랜더스_센터.md" title="wikilink">랜더스 센터</a></p></td>
 <td><p>8,362명</p></td>
 <td><p>2017년</p></td>
@@ -246,7 +246,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/오클라호마시티_블루.md" title="wikilink">오클라호마시티 블루</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오클라호마주" title="wikilink">오클라호마주</a> <a href="../Page/오클라호마시티.md" title="wikilink">오클라호마시티</a></p></td>
+<td><p><a href="../Page/오클라호마주.md" title="wikilink">오클라호마주</a> <a href="../Page/오클라호마시티.md" title="wikilink">오클라호마시티</a></p></td>
 <td><p><a href="../Page/콕스_컨벤션_센터.md" title="wikilink">콕스 컨벤션 센터</a></p></td>
 <td><p>13,846명</p></td>
 <td><p>2001년</p></td>
@@ -267,7 +267,7 @@
 <tr class="even">
 <td><p>사우스웨스트</p></td>
 <td><p><a href="../Page/오스틴_스퍼스.md" title="wikilink">오스틴 스퍼스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/텍사스주" title="wikilink">텍사스주</a> <a href="../Page/오스틴_(텍사스주).md" title="wikilink">오스틴</a></p></td>
+<td><p><a href="../Page/텍사스주.md" title="wikilink">텍사스주</a> <a href="../Page/오스틴_(텍사스주).md" title="wikilink">오스틴</a></p></td>
 <td><p><a href="../Page/H-E-B_센터_앳_시더_파크.md" title="wikilink">H-E-B 센터 앳 시더 파크</a></p></td>
 <td><p>7,200명</p></td>
 <td><p>2001년</p></td>
@@ -276,7 +276,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/리오그란데밸리_바이퍼스.md" title="wikilink">리오그란데밸리 바이퍼스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/텍사스주" title="wikilink">텍사스주</a> <a href="https://ko.wikipedia.org/wiki/에딘버그" title="wikilink">에딘버그</a></p></td>
+<td><p><a href="../Page/텍사스주.md" title="wikilink">텍사스주</a> <a href="https://ko.wikipedia.org/wiki/에딘버그" title="wikilink">에딘버그</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/버트_오그던_아레나" title="wikilink">버트 오그던 아레나</a></p></td>
 <td><p>7,688명</p></td>
 <td><p>2007년</p></td>
@@ -286,7 +286,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/솔트레이크시티_스타스.md" title="wikilink">솔트레이크시티 스타스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유타주" title="wikilink">유타주</a> <a href="https://ko.wikipedia.org/wiki/테일러스빌_(유타주)" title="wikilink">테일러스빌</a></p></td>
+<td><p><a href="../Page/유타주.md" title="wikilink">유타주</a> <a href="https://ko.wikipedia.org/wiki/테일러스빌_(유타주)" title="wikilink">테일러스빌</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/라이프타임_액티버티스_센터" title="wikilink">라이프타임 액티버티스 센터-브루인 아레나</a></p></td>
 <td><p>5,000명</p></td>
 <td><p>1997년</p></td>
@@ -296,7 +296,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/텍사스_레전즈.md" title="wikilink">텍사스 레전즈</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/텍사스주" title="wikilink">텍사스주</a> <a href="https://ko.wikipedia.org/wiki/프리스코_(텍사스주)" title="wikilink">프리스코</a></p></td>
+<td><p><a href="../Page/텍사스주.md" title="wikilink">텍사스주</a> <a href="https://ko.wikipedia.org/wiki/프리스코_(텍사스주)" title="wikilink">프리스코</a></p></td>
 <td><p><a href="../Page/코메리카_센터.md" title="wikilink">코메리카 센터</a></p></td>
 <td><p>4,500명</p></td>
 <td><p>2006년</p></td>
@@ -316,7 +316,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/아구아_칼리엔테_클리퍼스.md" title="wikilink">아구아 칼리엔테 클리퍼스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/캘리포니아주" title="wikilink">캘리포니아주</a> <a href="../Page/온타리오_(캘리포니아주).md" title="wikilink">온타리오</a></p></td>
+<td><p><a href="../Page/캘리포니아주.md" title="wikilink">캘리포니아주</a> <a href="../Page/온타리오_(캘리포니아주).md" title="wikilink">온타리오</a></p></td>
 <td><p><a href="../Page/도요타_아레나.md" title="wikilink">도요타 아레나</a></p></td>
 <td><p>10,832명</p></td>
 <td><p>2017년</p></td>
@@ -326,7 +326,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/노던_애리조나_선스.md" title="wikilink">노던 애리조나 선스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/애리조나주" title="wikilink">애리조나주</a> <a href="https://ko.wikipedia.org/wiki/프레스콧_밸리" title="wikilink">프레스콧 밸리</a></p></td>
+<td><p><a href="../Page/애리조나주.md" title="wikilink">애리조나주</a> <a href="https://ko.wikipedia.org/wiki/프레스콧_밸리" title="wikilink">프레스콧 밸리</a></p></td>
 <td><p><a href="../Page/핀들리_도요타_센터.md" title="wikilink">핀들리 도요타 센터</a></p></td>
 <td><p>5,100명</p></td>
 <td><p>2006년</p></td>
@@ -336,7 +336,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/샌타크루즈_워리어스.md" title="wikilink">샌타크루즈 워리어스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/캘리포니아주" title="wikilink">캘리포니아주</a> <a href="../Page/샌타크루즈.md" title="wikilink">샌타크루즈</a></p></td>
+<td><p><a href="../Page/캘리포니아주.md" title="wikilink">캘리포니아주</a> <a href="../Page/샌타크루즈.md" title="wikilink">샌타크루즈</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/카이저_퍼머넌트_아레나" title="wikilink">카이저 퍼머넌트 아레나</a></p></td>
 <td><p>2,505명</p></td>
 <td><p>1995년</p></td>
@@ -346,7 +346,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/사우스베이_레이커스.md" title="wikilink">사우스베이 레이커스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/캘리포니아주" title="wikilink">캘리포니아주</a> <a href="https://ko.wikipedia.org/wiki/엘세건도" title="wikilink">엘세건도</a></p></td>
+<td><p><a href="../Page/캘리포니아주.md" title="wikilink">캘리포니아주</a> <a href="https://ko.wikipedia.org/wiki/엘세건도" title="wikilink">엘세건도</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/UCLA_헬스_트레이닝_센터" title="wikilink">UCLA 헬스 트레이닝 센터</a></p></td>
 <td><p>750명</p></td>
 <td><p>2006년</p></td>
@@ -356,7 +356,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/스톡턴_킹스.md" title="wikilink">스톡턴 킹스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/캘리포니아주" title="wikilink">캘리포니아주</a> <a href="../Page/스톡턴_(캘리포니아주).md" title="wikilink">스톡턴</a></p></td>
+<td><p><a href="../Page/캘리포니아주.md" title="wikilink">캘리포니아주</a> <a href="../Page/스톡턴_(캘리포니아주).md" title="wikilink">스톡턴</a></p></td>
 <td><p><a href="../Page/스톡턴_아레나.md" title="wikilink">스톡턴 아레나</a></p></td>
 <td><p>11,193명</p></td>
 <td><p>2008년</p></td>
@@ -384,7 +384,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/이리_베이호크스_(2019년).md" title="wikilink">버밍햄 NBA G 리그 팀</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/앨라배마주" title="wikilink">앨라배마주</a> <a href="../Page/버밍햄_(앨라배마주).md" title="wikilink">버밍햄</a></p></td>
+<td><p><a href="../Page/앨라배마주.md" title="wikilink">앨라배마주</a> <a href="../Page/버밍햄_(앨라배마주).md" title="wikilink">버밍햄</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/레거시_아레나" title="wikilink">레거시 아레나</a></p></td>
 <td><p>17,654명</p></td>
 <td><p>2019년</p></td>
@@ -393,7 +393,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/카피타네스_데_시우다드데멕시코" title="wikilink">카피타네스 데 시우다드데멕시코</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/멕시코시티" title="wikilink">멕시코시티</a></p></td>
+<td><p><a href="../Page/멕시코시티.md" title="wikilink">멕시코시티</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/힘나시오_올림피코_후안_데_라_바레라" title="wikilink">힘나시오 올림피코 후안 데 라 바레라</a></p></td>
 <td><p>5,242명</p></td>
 <td><p>2017년</p></td>
@@ -426,7 +426,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/헌츠빌_플라이트.md" title="wikilink">헌츠빌 플라이트</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/앨라배마주" title="wikilink">앨라배마주</a> <a href="https://ko.wikipedia.org/wiki/헌츠빌_(앨라배마주)" title="wikilink">헌츠빌</a></p></td>
+<td><p><a href="../Page/앨라배마주.md" title="wikilink">앨라배마주</a> <a href="../Page/헌츠빌_(앨라배마주).md" title="wikilink">헌츠빌</a></p></td>
 <td><p><a href="../Page/본_브라운_센터.md" title="wikilink">본 브라운 센터</a></p></td>
 <td><p>7,198명</p></td>
 <td><p>2001년~2005년</p></td>
@@ -437,7 +437,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/뉴멕시코_선더버즈.md" title="wikilink">앨버커키 선더버즈</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴멕시코주" title="wikilink">뉴멕시코주</a> <a href="../Page/앨버커키.md" title="wikilink">앨버커키</a></p></td>
+<td><p><a href="../Page/뉴멕시코주.md" title="wikilink">뉴멕시코주</a> <a href="../Page/앨버커키.md" title="wikilink">앨버커키</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/팅글리_콜리시엄" title="wikilink">팅글리 콜리시엄</a></p></td>
 <td><p>11,571명</p></td>
 <td><p>2005년~2010년</p></td>
@@ -458,7 +458,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/뉴멕시코_선더버즈.md" title="wikilink">뉴멕시코 선더버즈</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴멕시코주" title="wikilink">뉴멕시코주</a> <a href="../Page/리오랜초.md" title="wikilink">리오랜초</a></p></td>
+<td><p><a href="../Page/뉴멕시코주.md" title="wikilink">뉴멕시코주</a> <a href="../Page/리오랜초.md" title="wikilink">리오랜초</a></p></td>
 <td><p><a href="../Page/산타아나_스타_센터.md" title="wikilink">산타아나 스타 센터</a></p></td>
 <td><p>7,000명</p></td>
 <td><p>2010년~2011년</p></td>
@@ -469,7 +469,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/애너하임_아스널.md" title="wikilink">애너하임 아스널</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/캘리포니아주" title="wikilink">캘리포니아주</a> <a href="../Page/애너하임.md" title="wikilink">애너하임</a></p></td>
+<td><p><a href="../Page/캘리포니아주.md" title="wikilink">캘리포니아주</a> <a href="../Page/애너하임.md" title="wikilink">애너하임</a></p></td>
 <td><p><a href="../Page/애너하임_컨벤션_센터.md" title="wikilink">애너하임 컨벤션 센터</a></p></td>
 <td><p>7,500명</p></td>
 <td><p>2006년~2009년</p></td>
@@ -483,7 +483,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/스프링필드_아머_(2009년).md" title="wikilink">스프링필드 아머</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/매사추세츠주" title="wikilink">매사추세츠주</a> <a href="https://ko.wikipedia.org/wiki/스프링필드_(매사추세츠주)" title="wikilink">스프링필드</a></p></td>
+<td><p><a href="../Page/매사추세츠주.md" title="wikilink">매사추세츠주</a> <a href="https://ko.wikipedia.org/wiki/스프링필드_(매사추세츠주)" title="wikilink">스프링필드</a></p></td>
 <td><p><a href="../Page/매스뮤추얼_센터.md" title="wikilink">매스뮤추얼 센터</a></p></td>
 <td><p>7,331명</p></td>
 <td><p>2009년~2014년</p></td>
@@ -496,7 +496,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/아칸소_림로커스.md" title="wikilink">아칸소 림로커스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아칸소주" title="wikilink">아칸소주</a> <a href="../Page/리틀록.md" title="wikilink">리틀록</a></p></td>
+<td><p><a href="../Page/아칸소주.md" title="wikilink">아칸소주</a> <a href="../Page/리틀록.md" title="wikilink">리틀록</a></p></td>
 <td><p><a href="../Page/버라이즌_아레나.md" title="wikilink">올텔 아레나</a></p></td>
 <td><p>18,000명</p></td>
 <td><p>2004년~2007년</p></td>
@@ -511,7 +511,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/포트워스_플라이어스.md" title="wikilink">포트워스 플라이어스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/텍사스주" title="wikilink">텍사스주</a> <a href="../Page/포트워스.md" title="wikilink">포트워스</a></p></td>
+<td><p><a href="../Page/텍사스주.md" title="wikilink">텍사스주</a> <a href="../Page/포트워스.md" title="wikilink">포트워스</a></p></td>
 <td><p><a href="../Page/포트워스_컨벤션_센터.md" title="wikilink">포트워스 컨벤션 센터</a></p></td>
 <td><p>13,500명</p></td>
 <td><p>2005년~2007년</p></td>
@@ -527,7 +527,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/콜로라도_포티너스.md" title="wikilink">콜로라도 포티너스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/콜로라도주" title="wikilink">콜로라도주</a> <a href="https://ko.wikipedia.org/wiki/브룸필드" title="wikilink">브룸필드</a></p></td>
+<td><p><a href="../Page/콜로라도주.md" title="wikilink">콜로라도주</a> <a href="https://ko.wikipedia.org/wiki/브룸필드" title="wikilink">브룸필드</a></p></td>
 <td><p><a href="../Page/퍼스트뱅크_센터.md" title="wikilink">브룸필드 이벤트 센터</a></p></td>
 <td><p>7,500명</p></td>
 <td><p>2006년~2009년</p></td>
@@ -540,7 +540,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/플로리다_플레임.md" title="wikilink">노스 찰스턴 로우게이터스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/사우스캐롤라이나주" title="wikilink">사우스캐롤라이나주</a> <a href="https://ko.wikipedia.org/wiki/노스_찰스턴" title="wikilink">노스 찰스턴</a></p></td>
+<td><p><a href="../Page/사우스캐롤라이나주.md" title="wikilink">사우스캐롤라이나주</a> <a href="https://ko.wikipedia.org/wiki/노스_찰스턴" title="wikilink">노스 찰스턴</a></p></td>
 <td><p><a href="../Page/노스_찰스턴_콜리시엄.md" title="wikilink">노스 찰스턴 콜리시엄</a></p></td>
 <td><p>11,475명</p></td>
 <td><p>2001년~2003년</p></td>
@@ -562,7 +562,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/플로리다_플레임.md" title="wikilink">플로리다 플레임</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/플로리다주" title="wikilink">플로리다주</a> <a href="../Page/포트마이어스.md" title="wikilink">포트마이어스</a></p></td>
+<td><p><a href="../Page/플로리다주.md" title="wikilink">플로리다주</a> <a href="../Page/포트마이어스.md" title="wikilink">포트마이어스</a></p></td>
 <td><p><a href="../Page/저메인_아레나.md" title="wikilink">저메인 아레나</a></p></td>
 <td><p>8,284명</p></td>
 <td><p>2001년~2007년</p></td>
@@ -576,7 +576,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/로어노크_대즐.md" title="wikilink">로어노크 대즐</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/버지니아주" title="wikilink">버지니아주</a> <a href="https://ko.wikipedia.org/wiki/로어노크" title="wikilink">로어노크</a></p></td>
+<td><p><a href="../Page/버지니아주.md" title="wikilink">버지니아주</a> <a href="https://ko.wikipedia.org/wiki/로어노크" title="wikilink">로어노크</a></p></td>
 <td><p><a href="../Page/버글런드_센터.md" title="wikilink">로어노크 시빅 센터</a></p></td>
 <td><p>9,828명</p></td>
 <td><p>2001년~2006년</p></td>
@@ -589,7 +589,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/페이엣빌_패트리어츠.md" title="wikilink">페이엣빌 패트리어츠</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/노스캐롤라이나주" title="wikilink">노스캐롤라이나주</a> <a href="../Page/페이엣빌_(노스캐롤라이나주).md" title="wikilink">페이엣빌</a></p></td>
+<td><p><a href="../Page/노스캐롤라이나주.md" title="wikilink">노스캐롤라이나주</a> <a href="../Page/페이엣빌_(노스캐롤라이나주).md" title="wikilink">페이엣빌</a></p></td>
 <td><p><a href="../Page/크라운_콜리시엄.md" title="wikilink">컴벌랜드 카운티 크라운 콜리시엄</a></p></td>
 <td><p>9,564명</p></td>
 <td><p>107승 141패 .431</p></td>
@@ -602,7 +602,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/그린빌_그루브.md" title="wikilink">그린빌 그루브</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/사우스캐롤라이나주" title="wikilink">사우스캐롤라이나주</a> <a href="../Page/그린빌_(사우스캐롤라이나주).md" title="wikilink">그린빌</a></p></td>
+<td><p><a href="../Page/사우스캐롤라이나주.md" title="wikilink">사우스캐롤라이나주</a> <a href="../Page/그린빌_(사우스캐롤라이나주).md" title="wikilink">그린빌</a></p></td>
 <td><p><a href="../Page/본_스쿠_웰니스_아레나.md" title="wikilink">BI-LO 센터</a></p></td>
 <td><p>14,897명</p></td>
 <td><p>2001년~2003년</p></td>
@@ -613,7 +613,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/모빌_레블러스.md" title="wikilink">모빌 레블러스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/앨라배마주" title="wikilink">앨라배마주</a> <a href="../Page/모빌_(앨라배마주).md" title="wikilink">모빌</a></p></td>
+<td><p><a href="../Page/앨라배마주.md" title="wikilink">앨라배마주</a> <a href="../Page/모빌_(앨라배마주).md" title="wikilink">모빌</a></p></td>
 <td><p><a href="../Page/모빌_시빅_센터.md" title="wikilink">모빌 시빅 센터</a></p></td>
 <td><p>10,112명</p></td>
 <td><p>56승 50패 .514</p></td>
@@ -624,7 +624,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/델라웨어_블루코츠.md" title="wikilink">유타 플래시</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유타주" title="wikilink">유타주</a> <a href="https://ko.wikipedia.org/wiki/오렘" title="wikilink">오렘</a></p></td>
+<td><p><a href="../Page/유타주.md" title="wikilink">유타주</a> <a href="https://ko.wikipedia.org/wiki/오렘" title="wikilink">오렘</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/UCCU_센터" title="wikilink">멕케이 이벤트 센터</a></p></td>
 <td><p>8,500명</p></td>
 <td><p>2007년~2011년</p></td>
@@ -637,7 +637,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/다코타_위저즈.md" title="wikilink">다코타 위저즈</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/노스다코타주" title="wikilink">노스다코타주</a> <a href="https://ko.wikipedia.org/wiki/비즈마크" title="wikilink">비즈마크</a></p></td>
+<td><p><a href="../Page/노스다코타주.md" title="wikilink">노스다코타주</a> <a href="https://ko.wikipedia.org/wiki/비즈마크" title="wikilink">비즈마크</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/비즈마크_시빅_센터" title="wikilink">비즈마크 시빅 센터</a></p></td>
 <td><p>10,100명</p></td>
 <td><p>2005년~2012년</p></td>
@@ -651,7 +651,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/오클라호마시티_블루.md" title="wikilink">애슈빌 앨티튜드</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/노스캐롤라이나주" title="wikilink">노스캐롤라이나주</a> <a href="../Page/애슈빌.md" title="wikilink">애슈빌</a></p></td>
+<td><p><a href="../Page/노스캐롤라이나주.md" title="wikilink">노스캐롤라이나주</a> <a href="../Page/애슈빌.md" title="wikilink">애슈빌</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/U.S._셀룰러_센터" title="wikilink">애슈빌 시빅 센터</a></p></td>
 <td><p>7,654명</p></td>
 <td><p>2001년~2005년</p></td>
@@ -662,7 +662,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/오클라호마시티_블루.md" title="wikilink">털사 식스티식서스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오클라호마주" title="wikilink">오클라호마주</a> <a href="https://ko.wikipedia.org/wiki/빅스비" title="wikilink">빅스비</a></p></td>
+<td><p><a href="../Page/오클라호마주.md" title="wikilink">오클라호마주</a> <a href="https://ko.wikipedia.org/wiki/빅스비" title="wikilink">빅스비</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/스피릿뱅크_이벤트_센터" title="wikilink">스피릿뱅크 이벤트 센터</a></p></td>
 <td><p>4,500명</p></td>
 <td><p>2005년~2014년</p></td>
@@ -679,7 +679,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/오스틴_스퍼스.md" title="wikilink">콜럼버스 리버드래건즈</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/조지아주" title="wikilink">조지아주</a> <a href="../Page/콜럼버스_(조지아주).md" title="wikilink">콜럼버스</a></p></td>
+<td><p><a href="../Page/조지아주.md" title="wikilink">조지아주</a> <a href="../Page/콜럼버스_(조지아주).md" title="wikilink">콜럼버스</a></p></td>
 <td><p><a href="../Page/콜럼버스_시빅_센터.md" title="wikilink">콜럼버스 시빅 센터</a></p></td>
 <td><p>7,671명</p></td>
 <td><p>2001년~2005년</p></td>
@@ -690,7 +690,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/오스틴_스퍼스.md" title="wikilink">오스틴 토로스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/텍사스주" title="wikilink">텍사스주</a> <a href="../Page/오스틴_(텍사스주).md" title="wikilink">오스틴</a></p></td>
+<td><p><a href="../Page/텍사스주.md" title="wikilink">텍사스주</a> <a href="../Page/오스틴_(텍사스주).md" title="wikilink">오스틴</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/오스틴_컨벤션_센터" title="wikilink">오스틴 컨벤션 센터</a></p></td>
 <td><p>5,285명</p></td>
 <td><p>2005년~2010년</p></td>
@@ -705,7 +705,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/아이다호_스탬피드.md" title="wikilink">아이다호 스탬피드</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아이다호주" title="wikilink">아이다호주</a> <a href="../Page/보이시.md" title="wikilink">보이시</a></p></td>
+<td><p><a href="../Page/아이다호주.md" title="wikilink">아이다호주</a> <a href="../Page/보이시.md" title="wikilink">보이시</a></p></td>
 <td><p><a href="../Page/센추리링크_아레나.md" title="wikilink">센추리링크 아레나</a></p></td>
 <td><p>5,732명</p></td>
 <td><p>2006년~2016년</p></td>
@@ -720,7 +720,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/노던_애리조나_선스.md" title="wikilink">베이커즈필드 잼</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/캘리포니아주" title="wikilink">캘리포니아주</a> <a href="../Page/베이커즈필드.md" title="wikilink">베이커즈필드</a></p></td>
+<td><p><a href="../Page/캘리포니아주.md" title="wikilink">캘리포니아주</a> <a href="../Page/베이커즈필드.md" title="wikilink">베이커즈필드</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/디그너티_헬스_이벤트_센터" title="wikilink">디그너티 헬스 이벤트 센터</a></p></td>
 <td><p>500명</p></td>
 <td><p>246승 254패 .492</p></td>
@@ -979,7 +979,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/이리_베이호크스_(2017년).md" title="wikilink">이리 베이호크스</a> →  <a href="https://ko.wikipedia.org/wiki/칼리지파크_스카이호크스" title="wikilink">칼리지파크 스카이호크스</a></p></td>
+<td><p><a href="../Page/이리_베이호크스_(2017년).md" title="wikilink">이리 베이호크스</a> →  <a href="../Page/칼리지파크_스카이호크스.md" title="wikilink">칼리지파크 스카이호크스</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2020~2021</p></td>
@@ -1018,7 +1018,7 @@
 
 ## NBA G 리그 쇼케이스
 
-2005년부터 현재까지 스카우팅 이벤트로 4일동안 한곳(하루에 2경기씩)에서 모든 경기가 열린다. [NBA](https://ko.wikipedia.org/wiki/전미_농구_협회 "wikilink") 제너럴 매니저와 스카우트들이 G 리그 선수들을 볼 수 있는 기회있다.
+2005년부터 현재까지 스카우팅 이벤트로 4일동안 한곳(하루에 2경기씩)에서 모든 경기가 열린다. [NBA](../Page/전미_농구_협회.md "wikilink") 제너럴 매니저와 스카우트들이 G 리그 선수들을 볼 수 있는 기회있다.
 
 ## NBA G리그 인터내셔널 챌린지
 

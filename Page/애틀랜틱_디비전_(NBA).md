@@ -18,15 +18,15 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/TD_가든.md" title="wikilink">TD 가든</a><br />
-(<a href="https://ko.wikipedia.org/wiki/매사추세츠주" title="wikilink">매사추세츠주</a> <a href="https://ko.wikipedia.org/wiki/보스턴" title="wikilink">보스턴</a>)</p></td>
+(<a href="../Page/매사추세츠주.md" title="wikilink">매사추세츠주</a> <a href="../Page/보스턴.md" title="wikilink">보스턴</a>)</p></td>
 <td><p><a href="../Page/바클레이스_센터.md" title="wikilink">바클레이스 센터</a><br />
-(<a href="https://ko.wikipedia.org/wiki/뉴욕주" title="wikilink">뉴욕주</a> <a href="../Page/브루클린.md" title="wikilink">브루클린</a>)</p></td>
+(<a href="../Page/뉴욕주.md" title="wikilink">뉴욕주</a> <a href="../Page/브루클린.md" title="wikilink">브루클린</a>)</p></td>
 <td><p><a href="../Page/매디슨_스퀘어_가든.md" title="wikilink">매디슨 스퀘어 가든</a><br />
-(<a href="https://ko.wikipedia.org/wiki/뉴욕주" title="wikilink">뉴욕주</a> <a href="https://ko.wikipedia.org/wiki/뉴욕" title="wikilink">뉴욕</a>)</p></td>
+(<a href="../Page/뉴욕주.md" title="wikilink">뉴욕주</a> <a href="../Page/뉴욕.md" title="wikilink">뉴욕</a>)</p></td>
 <td><p><a href="../Page/웰스_파고_센터.md" title="wikilink">웰스 파고 센터</a><br />
-(<a href="https://ko.wikipedia.org/wiki/펜실베이니아주" title="wikilink">펜실베이니아주</a> <a href="https://ko.wikipedia.org/wiki/필라델피아" title="wikilink">필라델피아</a>)</p></td>
+(<a href="../Page/펜실베이니아주.md" title="wikilink">펜실베이니아주</a> <a href="../Page/필라델피아.md" title="wikilink">필라델피아</a>)</p></td>
 <td><p><a href="../Page/스코샤_뱅크_아레나.md" title="wikilink">스코샤 뱅크 아레나</a><br />
-(<a href="https://ko.wikipedia.org/wiki/온타리오주" title="wikilink">온타리오주</a> <a href="https://ko.wikipedia.org/wiki/토론토" title="wikilink">토론토</a>)</p></td>
+(<a href="https://ko.wikipedia.org/wiki/온타리오주" title="wikilink">온타리오주</a> <a href="../Page/토론토.md" title="wikilink">토론토</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p>수용인원: <strong>18,624명</strong></p></td>
@@ -61,7 +61,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/버펄로_브레이브스.md" title="wikilink">버펄로 브레이브스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴욕주" title="wikilink">뉴욕주</a> <a href="../Page/버펄로_(뉴욕주).md" title="wikilink">버펄로</a></p></td>
+<td><p><a href="../Page/뉴욕주.md" title="wikilink">뉴욕주</a> <a href="../Page/버펄로_(뉴욕주).md" title="wikilink">버펄로</a></p></td>
 <td><p>1970년~1978년</p></td>
 <td><p><a href="../Page/버펄로_메모리얼_오디토리움.md" title="wikilink">버펄로 메모리얼 오디토리움</a></p></td>
 <td><p>14,337명</p></td>
@@ -69,15 +69,15 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/샬럿_호니츠.md" title="wikilink">샬럿 호니츠</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/노스캐롤라이나주" title="wikilink">노스캐롤라이나주</a> <a href="../Page/샬럿.md" title="wikilink">샬럿</a></p></td>
+<td><p><a href="../Page/노스캐롤라이나주.md" title="wikilink">노스캐롤라이나주</a> <a href="../Page/샬럿.md" title="wikilink">샬럿</a></p></td>
 <td><p>1988년~1989년</p></td>
 <td><p><a href="../Page/샬럿_콜리시엄.md" title="wikilink">샬럿 콜리시엄</a></p></td>
 <td><p>20,042명</p></td>
-<td><p>현 <a href="https://ko.wikipedia.org/wiki/사우스이스트_디비전_(NBA)" title="wikilink">사우스이스트 디비전</a> 소속</p></td>
+<td><p>현 <a href="../Page/사우스이스트_디비전_(NBA).md" title="wikilink">사우스이스트 디비전</a> 소속</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/마이애미_히트.md" title="wikilink">마이애미 히트</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/플로리다주" title="wikilink">플로리다주</a> <a href="https://ko.wikipedia.org/wiki/마이애미" title="wikilink">마이애미</a></p></td>
+<td><p><a href="../Page/플로리다주.md" title="wikilink">플로리다주</a> <a href="../Page/마이애미.md" title="wikilink">마이애미</a></p></td>
 <td><p>1989년~2004년</p></td>
 <td><p><a href="../Page/아메리칸_에어라인스_아레나.md" title="wikilink">아메리칸 에어라인스 아레나</a></p></td>
 <td><p>19,600명</p></td>
@@ -85,7 +85,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/올랜도_매직.md" title="wikilink">올랜도 매직</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/플로리다주" title="wikilink">플로리다주</a> <a href="../Page/올랜도.md" title="wikilink">올랜도</a></p></td>
+<td><p><a href="../Page/플로리다주.md" title="wikilink">플로리다주</a> <a href="../Page/올랜도.md" title="wikilink">올랜도</a></p></td>
 <td><p>1991년~2004년</p></td>
 <td><p><a href="../Page/암웨이_아레나.md" title="wikilink">TD 워터하우스센터</a></p></td>
 <td><p>17,461명</p></td>
@@ -93,7 +93,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/워싱턴_위저즈.md" title="wikilink">워싱턴 위저즈</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/워싱턴_D.C." title="wikilink">워싱턴 D.C.</a></p></td>
+<td><p><a href="../Page/워싱턴_D.C..md" title="wikilink">워싱턴 D.C.</a></p></td>
 <td><p>1978년~2004년</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/버라이즌_센터" title="wikilink">MCI 센터</a></p></td>
 <td><p>20,356명</p></td>

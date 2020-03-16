@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [J. J. ](https://ko.wikipedia.org/wiki/J._J._).
 
 
-**제프리 제이컵 "J. J." 에이브럼스**(Jeffrey Jacob "J. J." Abrams, [1966년](https://ko.wikipedia.org/wiki/1966년 "wikilink") [6월 27일](https://ko.wikipedia.org/wiki/6월_27일 "wikilink") 출생)은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 영화 및 텔레비전 드라마 제작자, 영화 각본 작가, 감독, 배우, 작곡가, [배드로봇 프로덕션의](https://ko.wikipedia.org/wiki/배드로봇_프로덕션 "wikilink") 설립자이다. [에미상](https://ko.wikipedia.org/wiki/에미상 "wikilink")과 [골든 글로브상을](../Page/골든_글로브상.md "wikilink") 수상했으며, [텔레비전 시리즈](https://ko.wikipedia.org/wiki/텔레비전_시리즈 "wikilink") [펠리시티](https://ko.wikipedia.org/wiki/펠리시티 "wikilink"), [앨리어스](https://ko.wikipedia.org/wiki/앨리어스 "wikilink"), [로스트](../Page/로스트.md "wikilink"), [프린지](https://ko.wikipedia.org/wiki/프린지 "wikilink")의 창조자이자 영화 [미션 임파서블 3](../Page/미션_임파서블_3.md "wikilink"), [스타 트렉: 더 비기닝의](../Page/스타_트렉:_더_비기닝.md "wikilink") 감독으로 알려져 있다.
+**제프리 제이컵 "J. J." 에이브럼스**(Jeffrey Jacob "J. J." Abrams, [1966년](../Page/1966년.md "wikilink") [6월 27일](../Page/6월_27일.md "wikilink") 출생)은 [미국](../Page/미국.md "wikilink")의 영화 및 텔레비전 드라마 제작자, 영화 각본 작가, 감독, 배우, 작곡가, [배드로봇 프로덕션의](https://ko.wikipedia.org/wiki/배드로봇_프로덕션 "wikilink") 설립자이다. [에미상](https://ko.wikipedia.org/wiki/에미상 "wikilink")과 [골든 글로브상을](../Page/골든_글로브상.md "wikilink") 수상했으며, [텔레비전 시리즈](https://ko.wikipedia.org/wiki/텔레비전_시리즈 "wikilink") [펠리시티](https://ko.wikipedia.org/wiki/펠리시티 "wikilink"), [앨리어스](https://ko.wikipedia.org/wiki/앨리어스 "wikilink"), [로스트](../Page/로스트.md "wikilink"), [프린지](https://ko.wikipedia.org/wiki/프린지 "wikilink")의 창조자이자 영화 [미션 임파서블 3](../Page/미션_임파서블_3.md "wikilink"), [스타 트렉: 더 비기닝의](../Page/스타_트렉:_더_비기닝.md "wikilink") 감독으로 알려져 있다.
 
 ## 작품 목록
 

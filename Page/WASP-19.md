@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [WASP-19](https://ko.wikipedia.org/wiki/WASP-19).
 
 
-**WASP-19**는 [돛자리](https://ko.wikipedia.org/wiki/돛자리 "wikilink") 방향으로 지구로부터 약 815광년 떨어진 곳에 있는 [G형 주계열성이다](../Page/G형_주계열성.md "wikilink"). 멀리 떨어져 있기 때문에 겉보기 등급은 12.3으로 맨눈으로는 볼 수 없다. 이 별은 우리 [태양](https://ko.wikipedia.org/wiki/태양 "wikilink")과 비슷한 [분광형](https://ko.wikipedia.org/wiki/분광형 "wikilink")을 보여주나, 모든 면에서 태양보다 조금 더 가볍고, 덜 밝고, 크기 또한 작다.\[1\]
+**WASP-19**는 [돛자리](../Page/돛자리.md "wikilink") 방향으로 지구로부터 약 815광년 떨어진 곳에 있는 [G형 주계열성이다](../Page/G형_주계열성.md "wikilink"). 멀리 떨어져 있기 때문에 겉보기 등급은 12.3으로 맨눈으로는 볼 수 없다. 이 별은 우리 [태양](../Page/태양.md "wikilink")과 비슷한 [분광형](https://ko.wikipedia.org/wiki/분광형 "wikilink")을 보여주나, 모든 면에서 태양보다 조금 더 가볍고, 덜 밝고, 크기 또한 작다.\[1\]
 
 ## 행성계
 
-2009년 12월 10일 SuperWASP 프로젝트는 WASP-19를 도는 [외계 행성](https://ko.wikipedia.org/wiki/외계_행성 "wikilink") [WASP-19b](../Page/WASP-19b.md "wikilink")의 존재를 공식적으로 발표했다. b는 지금까지 발견된 외계 행성들 중에서도 이례적으로 별에 가까이 붙어 돌고 있었다.\[2\]
+2009년 12월 10일 SuperWASP 프로젝트는 WASP-19를 도는 [외계 행성](../Page/외계_행성.md "wikilink") [WASP-19b](../Page/WASP-19b.md "wikilink")의 존재를 공식적으로 발표했다. b는 지금까지 발견된 외계 행성들 중에서도 이례적으로 별에 가까이 붙어 돌고 있었다.\[2\]
 
 <table>
 <thead>

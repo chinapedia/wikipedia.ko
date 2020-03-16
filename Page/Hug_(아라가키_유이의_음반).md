@@ -5,7 +5,7 @@
 
 ## 개요
 
-[2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [6월 17일](https://ko.wikipedia.org/wiki/6월_17일 "wikilink"), 초회한정반 A, 초회한정반 B, 통상반 등 3종류로 발매되었다. 초회한정반 A의 자켓은 아라가키 유이가 그린 오리지널 [일러스트](https://ko.wikipedia.org/wiki/일러스트 "wikilink").
+[2009년](../Page/2009년.md "wikilink") [6월 17일](../Page/6월_17일.md "wikilink"), 초회한정반 A, 초회한정반 B, 통상반 등 3종류로 발매되었다. 초회한정반 A의 자켓은 아라가키 유이가 그린 오리지널 [일러스트](https://ko.wikipedia.org/wiki/일러스트 "wikilink").
 
 이 앨범에는 싱글 [Make my day](https://ko.wikipedia.org/wiki/Make_my_day "wikilink"), [붉은 실](../Page/아카이이토.md "wikilink"), [piece](https://ko.wikipedia.org/wiki/piece_\(아라가키_유이의_노래\) "wikilink"), [사생화](../Page/우쓰시에.md "wikilink") 4곡 외에도, 이시와타리 준지, 가와에 미나코, 기시다 시게루([쿠루리](../Page/쿠루리.md "wikilink")), [Chara](https://ko.wikipedia.org/wiki/차라 "wikilink"), 야노 마키 등의 뮤지션이 제공한 노래를 포함해 총13곡이 수록되어있다.
 

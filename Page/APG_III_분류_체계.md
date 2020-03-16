@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [APG III  ](https://ko.wikipedia.org/wiki/APG_III__).
 
 
-**APG III 분류 체계**는 [속씨식물](https://ko.wikipedia.org/wiki/속씨식물 "wikilink")을 분류하는 현대 [식물 분류 체계이다](https://ko.wikipedia.org/wiki/식물_분류_체계_목록 "wikilink"). 2009년에 [속씨식물 계통연구 그룹](https://ko.wikipedia.org/wiki/속씨식물_계통연구_그룹 "wikilink")(APG, Angiosperm Phylogeny Group)이 출판했다.\[1\]\[2\]\[3\] 2009년 10월, 린네 학회의 회원들이 APG III 분류 체계와 호환되고 부합하는, 모든 육상식물들의 공식적인 계통학적 분류를 제안했다.\[4\] 2016년 발표된 [APG IV 분류 체계로](https://ko.wikipedia.org/wiki/APG_IV_분류_체계 "wikilink") 대체하였다.
+**APG III 분류 체계**는 [속씨식물](../Page/속씨식물.md "wikilink")을 분류하는 현대 [식물 분류 체계이다](https://ko.wikipedia.org/wiki/식물_분류_체계_목록 "wikilink"). 2009년에 [속씨식물 계통연구 그룹](https://ko.wikipedia.org/wiki/속씨식물_계통연구_그룹 "wikilink")(APG, Angiosperm Phylogeny Group)이 출판했다.\[1\]\[2\]\[3\] 2009년 10월, 린네 학회의 회원들이 APG III 분류 체계와 호환되고 부합하는, 모든 육상식물들의 공식적인 계통학적 분류를 제안했다.\[4\] 2016년 발표된 [APG IV 분류 체계로](https://ko.wikipedia.org/wiki/APG_IV_분류_체계 "wikilink") 대체하였다.
 
 아래에 나열된 분류는 목(目)들과 목으로 분류되지 않은 과(科)들이다. 분류에서 같은 레벨의 목들은 알파벳순으로 배치되었다. 목들이 이전 버전의 APG 분류 체계([APG 분류 체계](../Page/APG_분류_체계.md "wikilink"), [APG II 분류 체계](../Page/APG_II_분류_체계.md "wikilink"))에서 포함하고 있는 과들과 다를 수 있으므로 주의해야 한다.
 
@@ -26,7 +26,7 @@
                 [목련목](../Page/목련목.md "wikilink") (Magnoliales)
                 [후추목](../Page/후추목.md "wikilink") (Piperales)
 
-        **[외떡잎식물](https://ko.wikipedia.org/wiki/외떡잎식물 "wikilink")군** (monocots)
+        **[외떡잎식물](../Page/외떡잎식물.md "wikilink")군** (monocots)
 
           -
 
@@ -44,7 +44,7 @@
               -
 
                   -
-                    [다시포곤과](https://ko.wikipedia.org/wiki/다시포곤과 "wikilink") (Dasypogonaceae) -- 목으로 분류되지 않음.
+                    [다시포곤과](../Page/다시포곤과.md "wikilink") (Dasypogonaceae) -- 목으로 분류되지 않음.
 
                 <!-- end list -->
 
@@ -121,7 +121,7 @@
                             [후에르테아목](../Page/후에르테아목.md "wikilink") (Huerteales)
                             [아욱목](https://ko.wikipedia.org/wiki/아욱목 "wikilink") (Malvales)
                             [도금양목](../Page/도금양목.md "wikilink") (Myrtales)
-                            [피크람니아목](https://ko.wikipedia.org/wiki/피크람니아목 "wikilink") (Picramniales)
+                            [피크람니아목](../Page/피크람니아목.md "wikilink") (Picramniales)
                             [무환자나무목](../Page/무환자나무목.md "wikilink") (Sapindales)
 
             (back to core eudicots)
@@ -139,7 +139,7 @@
 
                       -
                         [층층나무목](https://ko.wikipedia.org/wiki/층층나무목 "wikilink") (Cornales)
-                        [진달래목](https://ko.wikipedia.org/wiki/진달래목 "wikilink") (Ericales)
+                        [진달래목](../Page/진달래목.md "wikilink") (Ericales)
 
                     **[꿀풀군](https://ko.wikipedia.org/wiki/꿀풀군 "wikilink")** (lamiids) - ([진정국화군 I](https://ko.wikipedia.org/wiki/진정국화군_I "wikilink"))
 
@@ -153,7 +153,7 @@
                           -
                             [가리아목](../Page/가리아목.md "wikilink") (Garryales)
                             [용담목](../Page/용담목.md "wikilink") (Gentianales)
-                            [꿀풀목](https://ko.wikipedia.org/wiki/꿀풀목 "wikilink") (Lamiales)
+                            [꿀풀목](../Page/꿀풀목.md "wikilink") (Lamiales)
                             [가지목](../Page/가지목.md "wikilink") (Solanales)
 
                     **[초롱꽃군](https://ko.wikipedia.org/wiki/초롱꽃군 "wikilink")** (campanulids) - ([진정국화군 II](https://ko.wikipedia.org/wiki/진정국화군_II "wikilink"))

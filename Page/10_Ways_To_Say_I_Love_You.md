@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [10 Ways To Say I Love You](https://ko.wikipedia.org/wiki/10_Ways_To_Say_I_Love_You).
 
 
-《**10 Ways To Say I Love You**》는 [박정현](https://ko.wikipedia.org/wiki/박정현 "wikilink")의 7번째 한국 정규 음반이다.
+《**10 Ways To Say I Love You**》는 [박정현](../Page/박정현.md "wikilink")의 7번째 한국 정규 음반이다.
 
 ## 개요
 

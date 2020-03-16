@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [ \(Aqua Timez \)](https://ko.wikipedia.org/wiki/_\(Aqua_Timez_\)).
 
 
-〈**무지개**〉()는 [Aqua Timez가](../Page/Aqua_Timez.md "wikilink") [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [5월 8일에](https://ko.wikipedia.org/wiki/5월_8일 "wikilink") 발매한 여섯 번째 싱글이다.
+〈**무지개**〉()는 [Aqua Timez가](../Page/Aqua_Timez.md "wikilink") [2008년](../Page/2008년.md "wikilink") [5월 8일에](../Page/5월_8일.md "wikilink") 발매한 여섯 번째 싱글이다.
 
 ## 개요
 
-  - 보통 [CD가](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink") 발매되는 [수요일](https://ko.wikipedia.org/wiki/수요일 "wikilink")이 아닌 [목요일](https://ko.wikipedia.org/wiki/목요일 "wikilink")에 발매되었다.
+  - 보통 [CD가](../Page/콤팩트_디스크.md "wikilink") 발매되는 [수요일](../Page/수요일.md "wikilink")이 아닌 [목요일](../Page/목요일.md "wikilink")에 발매되었다.
 
 <!-- end list -->
 
-  - [NTV](../Page/닛폰_TV_방송망.md "wikilink") [드라마](../Page/텔레비전_드라마.md "wikilink") 《[고쿠센 시즌3](https://ko.wikipedia.org/wiki/고쿠센_#고쿠센_3 "wikilink")》의 주제가이다. 전작 "[작은 손](../Page/작은_손.md "wikilink")"에 이어 드라마 주제가로 기용되었으며, 모두 [나카마 유키에의](https://ko.wikipedia.org/wiki/나카마_유키에 "wikilink") 주연 작품이기도 하다.
+  - [NTV](../Page/닛폰_TV_방송망.md "wikilink") [드라마](../Page/텔레비전_드라마.md "wikilink") 《[고쿠센 시즌3](https://ko.wikipedia.org/wiki/고쿠센_#고쿠센_3 "wikilink")》의 주제가이다. 전작 "[작은 손](../Page/작은_손.md "wikilink")"에 이어 드라마 주제가로 기용되었으며, 모두 [나카마 유키에의](../Page/나카마_유키에.md "wikilink") 주연 작품이기도 하다.
 
 <!-- end list -->
 
@@ -50,7 +50,7 @@
 ## 차트
 
   - 주간최고순위 2위 (2주 연속, [오리콘 차트](https://ko.wikipedia.org/wiki/오리콘_차트 "wikilink"))
-  - 2위 ([빌보드 재팬](https://ko.wikipedia.org/wiki/빌보드 "wikilink") 핫100)
+  - 2위 ([빌보드 재팬](../Page/빌보드.md "wikilink") 핫100)
   - 2위 (빌보드 재팬 핫 싱글 세일즈)
   - 2008년 5월 월간순위 5위 (오리콘 차트)
   - 2008년 6월 월간순위 9위 (오리콘 차트)

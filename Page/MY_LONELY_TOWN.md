@@ -3,7 +3,7 @@
 
 〈**MY LONELY TOWN**〉은 일본의 록 밴드 [비즈의](../Page/B'z.md "wikilink") 47번째 싱글이다. 2009년 10월 18일에 발매됐으며 싱글에는 신곡과 이전 싱글의 발라드 버전이 [커플링곡](https://ko.wikipedia.org/wiki/커플링곡 "wikilink")으로 수록돼 있다. 첫회 한정판에는 〈My Lonely Town〉의 뮤직 비디오가 수록된 DVD가 포함되어 있다.
 
-뮤직 비디오는 1974년에 출입이 금지되고 2009년, 약 35년 만에 상륙이 허용된 [나가사키현](https://ko.wikipedia.org/wiki/나가사키현 "wikilink")의 [하시마 섬에서](https://ko.wikipedia.org/wiki/하시마_섬 "wikilink") 촬영됐다\[1\].
+뮤직 비디오는 1974년에 출입이 금지되고 2009년, 약 35년 만에 상륙이 허용된 [나가사키현](../Page/나가사키현.md "wikilink")의 [하시마 섬에서](https://ko.wikipedia.org/wiki/하시마_섬 "wikilink") 촬영됐다\[1\].
 
 [오리콘](../Page/오리콘.md "wikilink") 차트에선 발매 첫 날 약 6만 5천 장을 팔며, 일간 차트 1위를 차지했다\[2\]. 주간 차트에서도 약 18만 1천 장을 팔아 발매 첫 주 1위를 차지하며 그들의 싱글 43작품 연속 1위 기록을 이어갔다\[3\].
 

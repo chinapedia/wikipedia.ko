@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [In Through the Out Door](https://ko.wikipedia.org/wiki/In_Through_the_Out_Door).
 
 
-《**In Through the Out Door**》는 [1979년](https://ko.wikipedia.org/wiki/1979년 "wikilink")에 발표된 [레드 제플린의](https://ko.wikipedia.org/wiki/레드_제플린 "wikilink") 여덟 번째 정규 음반이다. 이것은 1978년 11월과 12월 3주간에 걸쳐서 [스웨덴](https://ko.wikipedia.org/wiki/스웨덴 "wikilink")의 [스톡홀름](https://ko.wikipedia.org/wiki/스톡홀름 "wikilink")에 있는 [ABBA](https://ko.wikipedia.org/wiki/ABBA "wikilink")의 폴라 스튜디오에서 녹음되었고, [스완 송에](https://ko.wikipedia.org/wiki/스완_송 "wikilink") 의해 1979년 8월 15일 발매되었다. 《**In Through the Out Door**》는 밴드의 여섯 번째이자 마지막으로 미국 차트에 1위를 한 앨범이며, 밴드의 드러머 [존 본햄이](https://ko.wikipedia.org/wiki/존_본햄 "wikilink") 1980년에 죽기 전 마지막으로 녹음한 앨범이다.
+《**In Through the Out Door**》는 [1979년](../Page/1979년.md "wikilink")에 발표된 [레드 제플린의](../Page/레드_제플린.md "wikilink") 여덟 번째 정규 음반이다. 이것은 1978년 11월과 12월 3주간에 걸쳐서 [스웨덴](../Page/스웨덴.md "wikilink")의 [스톡홀름](../Page/스톡홀름.md "wikilink")에 있는 [ABBA](../Page/ABBA.md "wikilink")의 폴라 스튜디오에서 녹음되었고, [스완 송에](https://ko.wikipedia.org/wiki/스완_송 "wikilink") 의해 1979년 8월 15일 발매되었다. 《**In Through the Out Door**》는 밴드의 여섯 번째이자 마지막으로 미국 차트에 1위를 한 앨범이며, 밴드의 드러머 [존 본햄이](https://ko.wikipedia.org/wiki/존_본햄 "wikilink") 1980년에 죽기 전 마지막으로 녹음한 앨범이다.
 
 ## 수록곡
 

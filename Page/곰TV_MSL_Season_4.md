@@ -5,7 +5,7 @@
 
 ## 리그기간
 
-[2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [1월 3일](https://ko.wikipedia.org/wiki/1월_3일 "wikilink") \~ [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [3월 8일](https://ko.wikipedia.org/wiki/3월_8일 "wikilink")
+[2008년](../Page/2008년.md "wikilink") [1월 3일](../Page/1월_3일.md "wikilink") \~ [2008년](../Page/2008년.md "wikilink") [3월 8일](../Page/3월_8일.md "wikilink")
 
 ## 개요
 

@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ J. ](https://ko.wikipedia.org/wiki/_J._).
 
 
-**토마스 J. 힉스** ( [1875년](https://ko.wikipedia.org/wiki/1875년 "wikilink") [7월 7일](https://ko.wikipedia.org/wiki/7월_7일 "wikilink") \~ [1963년](https://ko.wikipedia.org/wiki/1963년 "wikilink") [12월 2일](https://ko.wikipedia.org/wiki/12월_2일 "wikilink"))은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [육상](https://ko.wikipedia.org/wiki/육상 "wikilink") 선수였으며 1904년에 [올림픽](https://ko.wikipedia.org/wiki/올림픽 "wikilink") [마라톤](https://ko.wikipedia.org/wiki/마라톤 "wikilink") 종목에서 금메달을 따냈다.
+**토마스 J. 힉스** ( [1875년](../Page/1875년.md "wikilink") [7월 7일](../Page/7월_7일.md "wikilink") \~ [1963년](../Page/1963년.md "wikilink") [12월 2일](../Page/12월_2일.md "wikilink"))은 [미국](../Page/미국.md "wikilink")의 [육상](https://ko.wikipedia.org/wiki/육상 "wikilink") 선수였으며 1904년에 [올림픽](https://ko.wikipedia.org/wiki/올림픽 "wikilink") [마라톤](../Page/마라톤.md "wikilink") 종목에서 금메달을 따냈다.
 
-힉스는 [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink")에서 태어나서 [매사추세츠주](https://ko.wikipedia.org/wiki/매사추세츠주 "wikilink")의 [케임브리지에서](https://ko.wikipedia.org/wiki/케임브리지_\(매사추세츠주\) "wikilink") 살았으며 1904년에 열린 [보스턴 마라톤에서](https://ko.wikipedia.org/wiki/보스턴_마라톤 "wikilink") 2위를 차지했으며 [미주리주](https://ko.wikipedia.org/wiki/미주리주 "wikilink")의 [세인트 루이스에서](https://ko.wikipedia.org/wiki/세인트_루이스 "wikilink") 열린 EXPO의 한 부분으로 열린 [1904년 하계 올림픽에서](https://ko.wikipedia.org/wiki/1904년_하계_올림픽 "wikilink") 주목할 만한 경주를 펼치며 우승했다.
+힉스는 [잉글랜드](../Page/잉글랜드.md "wikilink")에서 태어나서 [매사추세츠주](../Page/매사추세츠주.md "wikilink")의 [케임브리지에서](../Page/케임브리지_\(매사추세츠주\).md "wikilink") 살았으며 1904년에 열린 [보스턴 마라톤에서](../Page/보스턴_마라톤.md "wikilink") 2위를 차지했으며 [미주리주](../Page/미주리주.md "wikilink")의 [세인트 루이스에서](https://ko.wikipedia.org/wiki/세인트_루이스 "wikilink") 열린 EXPO의 한 부분으로 열린 [1904년 하계 올림픽에서](../Page/1904년_하계_올림픽.md "wikilink") 주목할 만한 경주를 펼치며 우승했다.
 
 상태는 나빴다. 코스는 교통수단이 일으킨 먼지투성이 때문에 더러웠다. 힉스는 원래 1위로 결승선을 통과하지 않았으며 [프레드 로즈](https://ko.wikipedia.org/wiki/프레드_로즈 "wikilink") 다음으로 통과했다. 하지만 로즈는 9마일을 달린 후에 경주를 포기했다. 차로 코스의 대부분을 달린 후에 그는 결승선 5마일 전에 다시 경주를 시작했다. 이런 행위는 이것을 단지 농담이라고 주장한 심판에게 발각되어서 로즈는 실격되었다.
 

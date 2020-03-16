@@ -3,7 +3,7 @@
 
 **주식회사 포스코 ICT**는 1989년 11월에 설립된 [포스코](../Page/포스코.md "wikilink") 계열의 IT & 엔지니어링 전문기업이다. 엔지니어링, 프로세스 오토메이션, IT 서비스, [스마트 그리드](../Page/스마트_그리드.md "wikilink") 등을 주요 사업으로 하고 있다.
 
-본사는 [경상북도](https://ko.wikipedia.org/wiki/경상북도 "wikilink") [포항시](https://ko.wikipedia.org/wiki/포항시 "wikilink") [남구](https://ko.wikipedia.org/wiki/남구_\(포항시\) "wikilink") 호동로 68 (호동)에 위치해 있으며, [서울특별시](https://ko.wikipedia.org/wiki/서울특별시 "wikilink") [강남구](https://ko.wikipedia.org/wiki/강남구 "wikilink"), [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [성남시](https://ko.wikipedia.org/wiki/성남시 "wikilink") [분당구](https://ko.wikipedia.org/wiki/분당구 "wikilink"), [전라남도](https://ko.wikipedia.org/wiki/전라남도 "wikilink") [광양시](https://ko.wikipedia.org/wiki/광양시 "wikilink") 등지에 사업장이 있다. 해외에는 [중국](https://ko.wikipedia.org/wiki/중국 "wikilink"), [인도](https://ko.wikipedia.org/wiki/인도 "wikilink"), [베트남](https://ko.wikipedia.org/wiki/베트남 "wikilink"), [인도네시아](https://ko.wikipedia.org/wiki/인도네시아 "wikilink"), [브라질](https://ko.wikipedia.org/wiki/브라질 "wikilink") 등에 사업장이 있다.
+본사는 [경상북도](https://ko.wikipedia.org/wiki/경상북도 "wikilink") [포항시](https://ko.wikipedia.org/wiki/포항시 "wikilink") [남구](../Page/남구_\(포항시\).md "wikilink") 호동로 68 (호동)에 위치해 있으며, [서울특별시](../Page/서울특별시.md "wikilink") [강남구](https://ko.wikipedia.org/wiki/강남구 "wikilink"), [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [성남시](../Page/성남시.md "wikilink") [분당구](../Page/분당구.md "wikilink"), [전라남도](https://ko.wikipedia.org/wiki/전라남도 "wikilink") [광양시](../Page/광양시.md "wikilink") 등지에 사업장이 있다. 해외에는 [중국](../Page/중국.md "wikilink"), [인도](../Page/인도.md "wikilink"), [베트남](../Page/베트남.md "wikilink"), [인도네시아](../Page/인도네시아.md "wikilink"), [브라질](../Page/브라질.md "wikilink") 등에 사업장이 있다.
 
 ## 개요
 
@@ -57,7 +57,7 @@
 
 <!-- end list -->
 
-  - 2011\. 7 [한화S\&C](https://ko.wikipedia.org/wiki/한화S&C "wikilink")와 사업협력 협약 체결<ref>
+  - 2011\. 7 [한화S\&C](../Page/한화S&C.md "wikilink")와 사업협력 협약 체결<ref>
 
 </ref>
 

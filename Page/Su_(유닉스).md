@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Su \(\)](https://ko.wikipedia.org/wiki/Su_\(\)).
 
 
-**su**(*substitute user*\[1\] 의 줄임말)는 [유닉스](https://ko.wikipedia.org/wiki/유닉스 "wikilink") 명령을 로그아웃하지 않고 다른 사용자의 권한으로 [셸](https://ko.wikipedia.org/wiki/셸 "wikilink")을 실행하는 데 사용된다.일반적으로 관리 작업을 위해 다시 로그오프하지 않고 [사용자의](../Page/사용자_\(컴퓨팅\).md "wikilink") 권한을 [루트로](https://ko.wikipedia.org/wiki/슈퍼_사용자 "wikilink") 변경하는 데 사용된다. 같은 방법으로 다른 사용자로 전환하는 데 사용된다. [KDE](../Page/KDE.md "wikilink")와 [그놈](https://ko.wikipedia.org/wiki/그놈 "wikilink")과 같은 [데스크톱 환경은](../Page/데스크톱_환경.md "wikilink") 사용자가 이러한 액세스를 필요로 하는 명령들을 실행할 수 있도록 하기 위하여 비밀 번호를 입력할 수 있는 상자를 보여주는 프로그램들이 있다.
+**su**(*substitute user*\[1\] 의 줄임말)는 [유닉스](../Page/유닉스.md "wikilink") 명령을 로그아웃하지 않고 다른 사용자의 권한으로 [셸](../Page/셸.md "wikilink")을 실행하는 데 사용된다.일반적으로 관리 작업을 위해 다시 로그오프하지 않고 [사용자의](../Page/사용자_\(컴퓨팅\).md "wikilink") 권한을 [루트로](https://ko.wikipedia.org/wiki/슈퍼_사용자 "wikilink") 변경하는 데 사용된다. 같은 방법으로 다른 사용자로 전환하는 데 사용된다. [KDE](../Page/KDE.md "wikilink")와 [그놈](../Page/그놈.md "wikilink")과 같은 [데스크톱 환경은](../Page/데스크톱_환경.md "wikilink") 사용자가 이러한 액세스를 필요로 하는 명령들을 실행할 수 있도록 하기 위하여 비밀 번호를 입력할 수 있는 상자를 보여주는 프로그램들이 있다.
 
 어떤 사용자의 권한으로 실행할지 정하지 않고 실행한 경우에는, 루트 사용자로 간주된다(`su root)`와 동일).
 
@@ -43,7 +43,7 @@ jane@localhost:~$
 
 ## 외부 링크
 
-  - [su](https://web.archive.org/web/20130807001725/http://www.gnu.org/software/coreutils/manual/html_node/su-invocation.html) - 매뉴얼 페이지 ([GNU](https://ko.wikipedia.org/wiki/GNU "wikilink") [coreutils](https://ko.wikipedia.org/wiki/coreutils "wikilink"))
+  - [su](https://web.archive.org/web/20130807001725/http://www.gnu.org/software/coreutils/manual/html_node/su-invocation.html) - 매뉴얼 페이지 ([GNU](../Page/GNU.md "wikilink") [coreutils](https://ko.wikipedia.org/wiki/coreutils "wikilink"))
   - [su 명령](http://www.linfo.org/su.html) - 리눅스 정보 프로젝트 (LINFO)
   - [su의 정의](https://web.archive.org/web/20080611162545/http://dictionary.die.net/su) - dictionary.die.net
   - [runas](https://web.archive.org/web/20091211222740/http://www.microsoft.com/resources/documentation/windows/xp/all/proddocs/en-us/runas.mspx) - Windows XP에 있는 유사한 명령

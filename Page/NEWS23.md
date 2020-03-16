@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NEWS23](https://ko.wikipedia.org/wiki/NEWS23).
 
 
-**NEWS23**은 [일본](../Page/일본.md "wikilink")의 [도쿄 방송](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink")(TBS·JNN) 계열이 제작·방영한 [뉴스](../Page/뉴스.md "wikilink") 정보 프로그램이다. 프로그램 개시 당초에는 진행자인 [지쿠시 데쓰야의](../Page/지쿠시_데쓰야.md "wikilink") 이름을 걸고서 **지쿠시 데쓰야 NEWS23**()이라는 타이틀로 방송되었으나, [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [3월 31일에](https://ko.wikipedia.org/wiki/3월_31일 "wikilink") [지쿠시 데쓰야의](../Page/지쿠시_데쓰야.md "wikilink") 하차로 **NEWS23**이란 프로그램이 일부 변형되었다. 2010년 3월 29일부터 2013년 3월 29일까지 이 프로그램은 [NEWS23 크로스로](https://ko.wikipedia.org/wiki/NEWS23_크로스 "wikilink") 개편되었다가 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [4월 1일](https://ko.wikipedia.org/wiki/4월_1일 "wikilink") 부활했다.
+**NEWS23**은 [일본](../Page/일본.md "wikilink")의 [도쿄 방송](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink")(TBS·JNN) 계열이 제작·방영한 [뉴스](../Page/뉴스.md "wikilink") 정보 프로그램이다. 프로그램 개시 당초에는 진행자인 [지쿠시 데쓰야의](../Page/지쿠시_데쓰야.md "wikilink") 이름을 걸고서 **지쿠시 데쓰야 NEWS23**()이라는 타이틀로 방송되었으나, [2008년](../Page/2008년.md "wikilink") [3월 31일에](../Page/3월_31일.md "wikilink") [지쿠시 데쓰야의](../Page/지쿠시_데쓰야.md "wikilink") 하차로 **NEWS23**이란 프로그램이 일부 변형되었다. 2010년 3월 29일부터 2013년 3월 29일까지 이 프로그램은 [NEWS23 크로스로](https://ko.wikipedia.org/wiki/NEWS23_크로스 "wikilink") 개편되었다가 [2013년](../Page/2013년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") 부활했다.
 
 ## 앵커
 
@@ -82,7 +82,7 @@
 ## 그 외 뉴스 프로그램
 
   - [뉴스 제로](../Page/뉴스_제로.md "wikilink") ([닛폰 TV 방송망](../Page/닛폰_TV_방송망.md "wikilink") 계열국)
-  - [뉴스JAPAN](https://ko.wikipedia.org/wiki/뉴스JAPAN "wikilink") ([후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 계열국)
+  - [뉴스JAPAN](../Page/뉴스JAPAN.md "wikilink") ([후지 TV](../Page/후지_TV.md "wikilink") 계열국)
   - [보도 스테이션](../Page/보도_스테이션.md "wikilink") ([TV 아사히](../Page/TV_아사히.md "wikilink") 계열국)
 
 ## 외부 링크

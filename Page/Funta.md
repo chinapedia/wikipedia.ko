@@ -24,7 +24,7 @@
 
   - [진·여신 전생 데비틸](https://ko.wikipedia.org/wiki/진·여신_전생_데비틸 "wikilink")
   - [이니셜 D](../Page/이니셜_D.md "wikilink")
-  - [피타텐](https://ko.wikipedia.org/wiki/피타텐 "wikilink")
+  - [피타텐](../Page/피타텐.md "wikilink")
   - [망상 과학 시리즈 원 다바스타일](https://ko.wikipedia.org/wiki/망상_과학_시리즈_원_다바스타일 "wikilink")
   - [그라비테이션](https://ko.wikipedia.org/wiki/그라비테이션 "wikilink")
   - [선생님의 시간](../Page/선생님의_시간.md "wikilink")
@@ -41,7 +41,7 @@
   - [니노미야 군에게 애도를](../Page/니노미야_군에게_애도를.md "wikilink")
   - [우리 집의 곡신 신님](https://ko.wikipedia.org/wiki/우리_집의_곡신_신님 "wikilink")
   - [토라도라\!](../Page/토라도라!.md "wikilink")
-  - [연희무쌍](https://ko.wikipedia.org/wiki/연희무쌍 "wikilink")
+  - [연희무쌍](../Page/연희무쌍.md "wikilink")
   - [유루유리](../Page/유루유리.md "wikilink")
 
 ### 게임

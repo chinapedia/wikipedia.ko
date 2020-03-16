@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Velonica](https://ko.wikipedia.org/wiki/Velonica).
 
 
-〈**Velonica**〉(베로니카)는 [Aqua Timez가](../Page/Aqua_Timez.md "wikilink") [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [1월 14일에](https://ko.wikipedia.org/wiki/1월_14일 "wikilink") 발매한 여덟 번째 싱글이다.
+〈**Velonica**〉(베로니카)는 [Aqua Timez가](../Page/Aqua_Timez.md "wikilink") [2009년](../Page/2009년.md "wikilink") [1월 14일에](../Page/1월_14일.md "wikilink") 발매한 여덟 번째 싱글이다.
 
 ## 개요
 
@@ -13,7 +13,7 @@
 
 <!-- end list -->
 
-  - 〈[ALONES](https://ko.wikipedia.org/wiki/ALONES "wikilink")〉에 이은 [TV 도쿄](../Page/TV_도쿄.md "wikilink") [애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink") 《[블리치](../Page/블리치.md "wikilink")》의 오프닝 테마 (2008년 10월 14일 \~ 2009년 4월 7일)이다. 《블리치》 오프닝 테마를 같은 아티스트가 두 번 담당하는 것은 Aqua Timez가 처음이다. 극장판 《[블리치: MEMORIES OF NOBODY](https://ko.wikipedia.org/wiki/블리치:_Memories_Of_Nobody "wikilink")》 주제가인 〈[천 번의 밤을 넘어서](https://ko.wikipedia.org/wiki/천_번의_밤을_넘어서 "wikilink")〉까지 포함하면 《블리치》 타이업은 세 번째이다.)
+  - 〈[ALONES](https://ko.wikipedia.org/wiki/ALONES "wikilink")〉에 이은 [TV 도쿄](../Page/TV_도쿄.md "wikilink") [애니메이션](../Page/애니메이션.md "wikilink") 《[블리치](../Page/블리치.md "wikilink")》의 오프닝 테마 (2008년 10월 14일 \~ 2009년 4월 7일)이다. 《블리치》 오프닝 테마를 같은 아티스트가 두 번 담당하는 것은 Aqua Timez가 처음이다. 극장판 《[블리치: MEMORIES OF NOBODY](https://ko.wikipedia.org/wiki/블리치:_Memories_Of_Nobody "wikilink")》 주제가인 〈[천 번의 밤을 넘어서](https://ko.wikipedia.org/wiki/천_번의_밤을_넘어서 "wikilink")〉까지 포함하면 《블리치》 타이업은 세 번째이다.)
 
 <!-- end list -->
 

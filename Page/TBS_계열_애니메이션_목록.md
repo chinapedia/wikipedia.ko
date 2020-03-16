@@ -3,7 +3,7 @@
 
 __NOTOC__
 
-《**TBS 계열 애니메이션**》은 [도쿄방송](https://ko.wikipedia.org/wiki/도쿄방송 "wikilink")([JNN](https://ko.wikipedia.org/wiki/JNN "wikilink")) 가맹국에 방송되는 텔레비전 [애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink")이다.
+《**TBS 계열 애니메이션**》은 [도쿄방송](https://ko.wikipedia.org/wiki/도쿄방송 "wikilink")([JNN](https://ko.wikipedia.org/wiki/JNN "wikilink")) 가맹국에 방송되는 텔레비전 [애니메이션](../Page/애니메이션.md "wikilink")이다.
 
 ## 제작·방영형태
 
@@ -20,11 +20,11 @@ __NOTOC__
   - [건담 G의 레콘기스타](https://ko.wikipedia.org/wiki/건담_G의_레콘기스타 "wikilink") ▼◆◇ (機動戦士ガンダム /2014\~2015년)
   - [기동전사 건담 철혈의 오펀스](../Page/기동전사_건담_철혈의_오펀스.md "wikilink") ◆◇ (機動戦士ガンダム / 2015\~2016년)
   - [꿈을 이뤄주는 코끼리](https://ko.wikipedia.org/wiki/꿈을_이뤄주는_코끼리 "wikilink") (夢をかなえるゾウ / 2009년)
-  - [강철의 연금술사](https://ko.wikipedia.org/wiki/강철의_연금술사 "wikilink") (鋼の錬金術師/ 2003\~2004년, 리메이크:2009\~2010년)
+  - [강철의 연금술사](../Page/강철의_연금술사.md "wikilink") (鋼の錬金術師/ 2003\~2004년, 리메이크:2009\~2010년)
 
 ## ㄴ
 
-  - [나는 친구가 적다](https://ko.wikipedia.org/wiki/나는_친구가_적다 "wikilink") ▼◆ (僕は友達が少ない / 2011년)
+  - [나는 친구가 적다](../Page/나는_친구가_적다.md "wikilink") ▼◆ (僕は友達が少ない / 2011년)
   - [내일의 요이치\!](https://ko.wikipedia.org/wiki/내일의_요이치! "wikilink") ▼◆ (明日のよいち\! / 2009년)
   - [냥코이\!](../Page/냥코이!.md "wikilink") ▼◆ (にゃんこい\! / 2009년)
 
@@ -32,7 +32,7 @@ __NOTOC__
 
   - [다이쇼 야구소녀](https://ko.wikipedia.org/wiki/다이쇼_야구소녀 "wikilink") ▼◆ (大正野球娘 / 2009년)
   - [더 울트라맨](https://ko.wikipedia.org/wiki/더_울트라맨 "wikilink") (ザ☆ウルトラマン / 1979년)
-  - [딸기 마시마로](https://ko.wikipedia.org/wiki/딸기_마시마로 "wikilink") ▼◆ (苺ましまろ / 2005년)
+  - [딸기 마시마로](../Page/딸기_마시마로.md "wikilink") ▼◆ (苺ましまろ / 2005년)
   - [다가시카시](../Page/다가시카시.md "wikilink") ▼◆ (2016년)
   - [단간론파](https://ko.wikipedia.org/wiki/단간론파 "wikilink") ▼◆ (2013년, 2016년)
   - [듀라라라\!](https://ko.wikipedia.org/wiki/듀라라라! "wikilink") ▼◆(2010년, 2015년, 2016년)
@@ -57,7 +57,7 @@ __NOTOC__
   - [바이스·사바이브](https://ko.wikipedia.org/wiki/바이스·사바이브 "wikilink") (ヴァイス・サヴァイヴ / 2009년)
   - [바스캇슈\!](https://ko.wikipedia.org/wiki/바스캇슈! "wikilink") (バスカッシュ\! / 2009년, MBS)
   - [별의 커비](../Page/별의_커비_\(애니메이션\).md "wikilink") (星のカービィ / 2001\~2003년, CBC)
-  - [비탄의 아리아](https://ko.wikipedia.org/wiki/비탄의_아리아 "wikilink") ▼◆(2011년)
+  - [비탄의 아리아](../Page/비탄의_아리아.md "wikilink") ▼◆(2011년)
   - [블레이드 앤 소울](../Page/블레이드_앤_소울.md "wikilink") ▼◆(2013년)
 
 ## ㅅ
@@ -73,7 +73,7 @@ __NOTOC__
 
   - [에이토만](https://ko.wikipedia.org/wiki/에이토만 "wikilink") (エイトマン / 1963년)
   - [여름색 기적](../Page/여름색_기적.md "wikilink") ▼(夏色キセキ / 2012년)
-  - [오\! 나의 여신님](https://ko.wikipedia.org/wiki/오!_나의_여신님 "wikilink") (ああっ女神さまっ / 1993년\~1994년 (OVA), 2005년(TV시리즈))
+  - [오\! 나의 여신님](../Page/오!_나의_여신님.md "wikilink") (ああっ女神さまっ / 1993년\~1994년 (OVA), 2005년(TV시리즈))
   - [아인](../Page/아인.md "wikilink") ▼◆(2016년)
   - [역시 내 청춘 러브코미디는 잘못됐다](https://ko.wikipedia.org/wiki/역시_내_청춘_러브코미디는_잘못됐다 "wikilink") ▼◆(2013년, 2015년)
   - [인피니티 스트라토스](https://ko.wikipedia.org/wiki/인피니티_스트라토스 "wikilink") ▼◆(2011년, 2013년)
@@ -118,7 +118,7 @@ __NOTOC__
 ## ㅎ
 
   - [흑의 계약자 2기 유성의 쌍둥이](https://ko.wikipedia.org/wiki/흑의_계약자_2기_유성의_쌍둥이 "wikilink") ▼ (DARKER THAN BLACK -流星の双子- / 2009년, MBS)
-  - [흑집사](https://ko.wikipedia.org/wiki/흑집사 "wikilink") ▼ (黒執事 / 2008년, MBS)
+  - [흑집사](../Page/흑집사.md "wikilink") ▼ (黒執事 / 2008년, MBS)
   - [히다마리 스케치](https://ko.wikipedia.org/wiki/히다마리_스케치 "wikilink") ▼◆◇ (ひだまりスケッチ / 2007년)
       - [히다마리 스케치 x365](https://ko.wikipedia.org/wiki/히다마리_스케치#2기_\(2008년\)_-_x365 "wikilink") ▼◆◇ (ひだまりスケッチ×365 / 2008년)
       - [히다마리 스케치 ☆☆☆](https://ko.wikipedia.org/wiki/히다마리_스케치#3기_\(2010년\)_-_☆☆☆ "wikilink") ▼◆◇ (ひだまりスケッチ☆☆☆ / 2010년)
@@ -130,12 +130,12 @@ __NOTOC__
 
   - [To LOVE루 -트러블-](https://ko.wikipedia.org/wiki/To_LOVE루_-트러블- "wikilink") ▼◆ (To LOVEる -とらぶる- / 2008년)
   - [THE IDOLM@STER](../Page/THE_IDOLM@STER.md "wikilink") ▼◆ (2011년)
-  - [K](https://ko.wikipedia.org/wiki/K "wikilink") ▼◆ (2012년, 2015년)
+  - [K](../Page/K.md "wikilink") ▼◆ (2012년, 2015년)
   - [TIGER & BUNNY](../Page/TIGER_&_BUNNY.md "wikilink") ▼◆(2011년)
 
 ## 함께 보기
 
-  - [일본의 애니메이션](https://ko.wikipedia.org/wiki/일본의_애니메이션 "wikilink")
+  - [일본의 애니메이션](../Page/일본의_애니메이션.md "wikilink")
   - [도쿄 방송](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink")
   - [마이니치 방송](../Page/마이니치_방송.md "wikilink")
   - [주부닛폰 방송](../Page/주부닛폰_방송.md "wikilink")

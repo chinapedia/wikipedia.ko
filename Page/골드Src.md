@@ -11,13 +11,13 @@
 
 그 전에 소스엔진을 만들기 시작한다. 밸브는 [하프라이프](https://ko.wikipedia.org/wiki/하프라이프 "wikilink")의 엔진을 포크로 재수정하여 소스엔진을 만들었다.
 
-밸브 코퍼레이션은 2013년에 [OS X](https://ko.wikipedia.org/wiki/OS_X "wikilink"), [리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink") 버전으로 골드 소스를 냈다.
+밸브 코퍼레이션은 2013년에 [OS X](https://ko.wikipedia.org/wiki/OS_X "wikilink"), [리눅스](../Page/리눅스.md "wikilink") 버전으로 골드 소스를 냈다.
 
 ## 골드 소스가 쓰여진 게임
 
 ### 하프라이프 시리즈
 
-하프 라이프는 골드 소스, 밸브 코퍼레이션과 같이 나란히 데뷔하였다. 엄청난 호평을 받으며, 올해의 게임상을 수상하였다.게임의 후속작인 확장팩도 나왔는데, [하프라이프: 어포징 포스와](../Page/하프라이프:_어포징_포스.md "wikilink") [하프라이프: 블루 쉬프트가](https://ko.wikipedia.org/wiki/하프라이프:_블루_쉬프트 "wikilink") 있다. 이 둘 역시 골드 소스로 돌아가며, [기어박스](https://ko.wikipedia.org/wiki/기어박스 "wikilink")가 개발하였다. [하프라이프: 디케이는](../Page/하프라이프:_디케이.md "wikilink") [플레이스테이션 2에서만](https://ko.wikipedia.org/wiki/플레이스테이션_2 "wikilink") 발매한 하프라이프의 확장팩이다.2001년 플레이스테이션 2 하프라이프와 나란히 데뷔하였다. 다른 게임 시리즈와는 다르게도, [마이크로소프트 윈도우로는](https://ko.wikipedia.org/wiki/마이크로소프트_윈도우 "wikilink") 하프라이프: 디케이가 나오지 않았고, 골드소스로 돌아가는 하프라이프의 마지막 제품이었다. 그리고 하프라이프 2와 확장팩은 [소스엔진](https://ko.wikipedia.org/wiki/소스엔진 "wikilink")에서 돌아가게 만드는 것이 성공했다.
+하프 라이프는 골드 소스, 밸브 코퍼레이션과 같이 나란히 데뷔하였다. 엄청난 호평을 받으며, 올해의 게임상을 수상하였다.게임의 후속작인 확장팩도 나왔는데, [하프라이프: 어포징 포스와](../Page/하프라이프:_어포징_포스.md "wikilink") [하프라이프: 블루 쉬프트가](../Page/하프라이프:_블루_쉬프트.md "wikilink") 있다. 이 둘 역시 골드 소스로 돌아가며, [기어박스](https://ko.wikipedia.org/wiki/기어박스 "wikilink")가 개발하였다. [하프라이프: 디케이는](../Page/하프라이프:_디케이.md "wikilink") [플레이스테이션 2에서만](../Page/플레이스테이션_2.md "wikilink") 발매한 하프라이프의 확장팩이다.2001년 플레이스테이션 2 하프라이프와 나란히 데뷔하였다. 다른 게임 시리즈와는 다르게도, [마이크로소프트 윈도우로는](../Page/마이크로소프트_윈도우.md "wikilink") 하프라이프: 디케이가 나오지 않았고, 골드소스로 돌아가는 하프라이프의 마지막 제품이었다. 그리고 하프라이프 2와 확장팩은 [소스엔진](https://ko.wikipedia.org/wiki/소스엔진 "wikilink")에서 돌아가게 만드는 것이 성공했다.
 
 ### 밸브 코퍼레이션의 또다른 게임
 
@@ -32,11 +32,11 @@
   - [건맨 크로니클스](https://ko.wikipedia.org/wiki/건맨_크로니클스 "wikilink") ([리울프 소프트웨어](https://ko.wikipedia.org/wiki/리울프_소프트웨어 "wikilink"), 2000)
   - [리코쳇](../Page/리코쳇.md "wikilink") ([밸브 코퍼레이션](../Page/밸브_코퍼레이션.md "wikilink"), 2000)
   - [데스매치 클래식](https://ko.wikipedia.org/wiki/데스매치_클래식 "wikilink") ([밸브 코퍼레이션](../Page/밸브_코퍼레이션.md "wikilink"), 2001)
-  - [하프라이프: 블루 쉬프트](https://ko.wikipedia.org/wiki/하프라이프:_블루_쉬프트 "wikilink") ([기어박스](https://ko.wikipedia.org/wiki/기어박스 "wikilink"), 2001)
+  - [하프라이프: 블루 쉬프트](../Page/하프라이프:_블루_쉬프트.md "wikilink") ([기어박스](https://ko.wikipedia.org/wiki/기어박스 "wikilink"), 2001)
   - [제임스 본드: 007 나이트 파이어](https://ko.wikipedia.org/wiki/제임스_본드:_007_나이트_파이어 "wikilink") ([EuroCom](https://ko.wikipedia.org/wiki/EuroCom "wikilink"), [기어박스](https://ko.wikipedia.org/wiki/기어박스 "wikilink"), [에스피르](https://ko.wikipedia.org/wiki/에스피르 "wikilink"), [JV 게임스](https://ko.wikipedia.org/wiki/JV_게임스 "wikilink"), 2002)
   - [데이 오브 디피트](../Page/데이_오브_디피트.md "wikilink") ([밸브 코퍼레이션](../Page/밸브_코퍼레이션.md "wikilink"), 2003)
   - [카운터 스트라이크: 네오](https://ko.wikipedia.org/wiki/카운터_스트라이크:_네오 "wikilink") ([밸브 코퍼레이션](../Page/밸브_코퍼레이션.md "wikilink") 2003)
   - [카운터 스트라이크: 컨디션 제로](https://ko.wikipedia.org/wiki/카운터_스트라이크:_컨디션_제로 "wikilink") ([밸브 코퍼레이션](../Page/밸브_코퍼레이션.md "wikilink"), [리추얼 엔터테인먼트](https://ko.wikipedia.org/wiki/리추얼_엔터테인먼트 "wikilink"), 기어박스 소프트웨어, [터틀 락 스튜디어스](https://ko.wikipedia.org/wiki/터틀_락_스튜디어스 "wikilink"), 2004)
-  - [카운터 스트라이크: 온라인](https://ko.wikipedia.org/wiki/카운터_스트라이크:_온라인 "wikilink") ([밸브 코퍼레이션](../Page/밸브_코퍼레이션.md "wikilink"), [넥슨](https://ko.wikipedia.org/wiki/넥슨 "wikilink"), 2008)
+  - [카운터 스트라이크: 온라인](https://ko.wikipedia.org/wiki/카운터_스트라이크:_온라인 "wikilink") ([밸브 코퍼레이션](../Page/밸브_코퍼레이션.md "wikilink"), [넥슨](../Page/넥슨.md "wikilink"), 2008)
 
 [분류:밸브 코퍼레이션](https://ko.wikipedia.org/wiki/분류:밸브_코퍼레이션 "wikilink") [분류:게임 엔진](https://ko.wikipedia.org/wiki/분류:게임_엔진 "wikilink") [분류:1998년 소프트웨어](https://ko.wikipedia.org/wiki/분류:1998년_소프트웨어 "wikilink")

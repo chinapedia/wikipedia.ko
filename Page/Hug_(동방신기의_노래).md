@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Hug \( \)](https://ko.wikipedia.org/wiki/Hug_\(_\)).
 
 
-'' **Hug** ''(허그)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악 그룹 [동방신기](../Page/동방신기.md "wikilink")의 데뷔 싱글 앨범이다.
+'' **Hug** ''(허그)는 [대한민국](../Page/대한민국.md "wikilink")의 음악 그룹 [동방신기](../Page/동방신기.md "wikilink")의 데뷔 싱글 앨범이다.
 
 ## 수록곡
 
@@ -213,10 +213,10 @@
 
 ### 가요프로그램 차트
 
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink")
-      - [3월 6일](https://ko.wikipedia.org/wiki/3월_6일 "wikilink") [KMTV](https://ko.wikipedia.org/wiki/KMTV "wikilink") 결정인기가요 43 1위
-      - [3월 28일](https://ko.wikipedia.org/wiki/3월_28일 "wikilink"), [4월 4일](https://ko.wikipedia.org/wiki/4월_4일 "wikilink"), [4월 11일](https://ko.wikipedia.org/wiki/4월_11일 "wikilink") [SBS 인기가요](../Page/SBS_인기가요.md "wikilink") '뮤티즌송'
-      - [4월 3일](https://ko.wikipedia.org/wiki/4월_3일 "wikilink"), [4월 10일](https://ko.wikipedia.org/wiki/4월_10일 "wikilink"), [4월 17일](https://ko.wikipedia.org/wiki/4월_17일 "wikilink") [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink") [생방송 음악캠프](../Page/생방송_음악캠프.md "wikilink") 1위
+  - [2004년](../Page/2004년.md "wikilink")
+      - [3월 6일](../Page/3월_6일.md "wikilink") [KMTV](https://ko.wikipedia.org/wiki/KMTV "wikilink") 결정인기가요 43 1위
+      - [3월 28일](../Page/3월_28일.md "wikilink"), [4월 4일](../Page/4월_4일.md "wikilink"), [4월 11일](../Page/4월_11일.md "wikilink") [SBS 인기가요](../Page/SBS_인기가요.md "wikilink") '뮤티즌송'
+      - [4월 3일](../Page/4월_3일.md "wikilink"), [4월 10일](../Page/4월_10일.md "wikilink"), [4월 17일](../Page/4월_17일.md "wikilink") [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink") [생방송 음악캠프](../Page/생방송_음악캠프.md "wikilink") 1위
 
 ## 외부 링크
 

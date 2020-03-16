@@ -18,15 +18,15 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/펩시_센터.md" title="wikilink">펩시 센터</a><br />
-(<a href="https://ko.wikipedia.org/wiki/콜로라도주" title="wikilink">콜로라도주</a> <a href="https://ko.wikipedia.org/wiki/덴버" title="wikilink">덴버</a>)</p></td>
+(<a href="../Page/콜로라도주.md" title="wikilink">콜로라도주</a> <a href="../Page/덴버.md" title="wikilink">덴버</a>)</p></td>
 <td><p><a href="../Page/타깃_센터.md" title="wikilink">타깃 센터</a><br />
-(<a href="https://ko.wikipedia.org/wiki/미네소타주" title="wikilink">미네소타주</a> <a href="../Page/미니애폴리스.md" title="wikilink">미니애폴리스</a>)</p></td>
+(<a href="../Page/미네소타주.md" title="wikilink">미네소타주</a> <a href="../Page/미니애폴리스.md" title="wikilink">미니애폴리스</a>)</p></td>
 <td><p><a href="../Page/체서피크_에너지_아레나.md" title="wikilink">체서피크 에너지 아레나</a><br />
-(<a href="https://ko.wikipedia.org/wiki/오클라호마주" title="wikilink">오클라호마주</a> <a href="../Page/오클라호마시티.md" title="wikilink">오클라호마시티</a>)</p></td>
+(<a href="../Page/오클라호마주.md" title="wikilink">오클라호마주</a> <a href="../Page/오클라호마시티.md" title="wikilink">오클라호마시티</a>)</p></td>
 <td><p><a href="../Page/모다_센터.md" title="wikilink">모다 센터</a><br />
-(<a href="https://ko.wikipedia.org/wiki/오리건주" title="wikilink">오리건주</a> <a href="https://ko.wikipedia.org/wiki/포틀랜드_(오리건주)" title="wikilink">포틀랜드</a>)</p></td>
+(<a href="../Page/오리건주.md" title="wikilink">오리건주</a> <a href="../Page/포틀랜드_(오리건주).md" title="wikilink">포틀랜드</a>)</p></td>
 <td><p><a href="../Page/비빈트_스마트홈_아레나.md" title="wikilink">비빈트 스마트홈 아레나</a><br />
-(<a href="https://ko.wikipedia.org/wiki/유타주" title="wikilink">유타주</a> <a href="https://ko.wikipedia.org/wiki/솔트레이크시티" title="wikilink">솔트레이크시티</a>)</p></td>
+(<a href="../Page/유타주.md" title="wikilink">유타주</a> <a href="../Page/솔트레이크시티.md" title="wikilink">솔트레이크시티</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p>수용인원: <strong>19,155명</strong></p></td>

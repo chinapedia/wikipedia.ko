@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [HSL 4](https://ko.wikipedia.org/wiki/HSL_4).
 
 
-**HSL 4**()는 [벨기에](https://ko.wikipedia.org/wiki/벨기에 "wikilink") 브뤼셀과 [네덜란드](https://ko.wikipedia.org/wiki/네덜란드 "wikilink") 국경을 잇는 고속 철도이다. [안트베르펀](https://ko.wikipedia.org/wiki/안트베르펀 "wikilink")부터 네덜란드 국경까지 40km는 별도의 고속선이 설치되어 있고, 브뤼셀과 안트베르펀 사이 47km는 기존선을 개량해서 사용하고 있다. [탈리스](../Page/탈리스.md "wikilink"), 인터시티, NS 하이스피드 열차가 사용하고 있다. 네덜란드 구간 [HSL 자위트와](../Page/HSL_자위트.md "wikilink") 함께 [스히폴-안트베르펀 고속선을](https://ko.wikipedia.org/wiki/스히폴-안트베르펀_고속선 "wikilink") 이룬다.
+**HSL 4**()는 [벨기에](../Page/벨기에.md "wikilink") 브뤼셀과 [네덜란드](../Page/네덜란드.md "wikilink") 국경을 잇는 고속 철도이다. [안트베르펀](https://ko.wikipedia.org/wiki/안트베르펀 "wikilink")부터 네덜란드 국경까지 40km는 별도의 고속선이 설치되어 있고, 브뤼셀과 안트베르펀 사이 47km는 기존선을 개량해서 사용하고 있다. [탈리스](../Page/탈리스.md "wikilink"), 인터시티, NS 하이스피드 열차가 사용하고 있다. 네덜란드 구간 [HSL 자위트와](../Page/HSL_자위트.md "wikilink") 함께 [스히폴-안트베르펀 고속선을](https://ko.wikipedia.org/wiki/스히폴-안트베르펀_고속선 "wikilink") 이룬다.
 
 ## 노선
 

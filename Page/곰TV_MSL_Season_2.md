@@ -5,7 +5,7 @@
 
 ## 리그기간
 
-[2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [5월 3일](https://ko.wikipedia.org/wiki/5월_3일 "wikilink") \~ [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [7월 14일](https://ko.wikipedia.org/wiki/7월_14일 "wikilink")
+[2007년](../Page/2007년.md "wikilink") [5월 3일](../Page/5월_3일.md "wikilink") \~ [2007년](../Page/2007년.md "wikilink") [7월 14일](../Page/7월_14일.md "wikilink")
 
 ## 개요
 
@@ -71,8 +71,8 @@ Desperado - 4인용 자원중심형 힘싸움맵이고 MSL 최초의 본진 2가
 | 조  | 1경기                                                 | 2경기                                                     | 승자전                                                 | 패자전                                                     | 최종전                                                     |
 | A조 | **[김택용](../Page/김택용.md "wikilink")**                | [김남기](../Page/김남기_\(프로게이머\).md "wikilink")              | **[이주영](../Page/이주영_\(프로게이머\).md "wikilink")**      | [장용석](../Page/장용석.md "wikilink")                        | [김택용](../Page/김택용.md "wikilink")                        |
 | B조 | [마재윤](../Page/마재윤.md "wikilink")                    | **[박태민](https://ko.wikipedia.org/wiki/박태민 "wikilink")** | [허영무](../Page/허영무.md "wikilink")                    | **[안상원](https://ko.wikipedia.org/wiki/안상원 "wikilink")** | **[박태민](https://ko.wikipedia.org/wiki/박태민 "wikilink")** |
-| C조 | **[진영수](../Page/진영수.md "wikilink")**                | [임동혁](https://ko.wikipedia.org/wiki/임동혁 "wikilink")     | **[강구열](../Page/강구열.md "wikilink")**                | [김창희](../Page/김창희_\(프로게이머\).md "wikilink")              | **[진영수](../Page/진영수.md "wikilink")**                    |
-| D조 | [강민](../Page/강민_\(프로게이머\).md "wikilink")            | **[임요환](https://ko.wikipedia.org/wiki/임요환 "wikilink")** | [고인규](../Page/고인규.md "wikilink")                    | **[이성은](https://ko.wikipedia.org/wiki/이성은 "wikilink")** | [임요환](https://ko.wikipedia.org/wiki/임요환 "wikilink")     |
+| C조 | **[진영수](../Page/진영수.md "wikilink")**                | [임동혁](../Page/임동혁.md "wikilink")                        | **[강구열](../Page/강구열.md "wikilink")**                | [김창희](../Page/김창희_\(프로게이머\).md "wikilink")              | **[진영수](../Page/진영수.md "wikilink")**                    |
+| D조 | [강민](../Page/강민_\(프로게이머\).md "wikilink")            | **[임요환](../Page/임요환.md "wikilink")**                    | [고인규](../Page/고인규.md "wikilink")                    | **[이성은](https://ko.wikipedia.org/wiki/이성은 "wikilink")** | [임요환](../Page/임요환.md "wikilink")                        |
 | E조 | [원종서](../Page/원종서.md "wikilink")                    | **[염보성](https://ko.wikipedia.org/wiki/염보성 "wikilink")** | [박영민](https://ko.wikipedia.org/wiki/박영민 "wikilink") | **[송병구](../Page/송병구.md "wikilink")**                    | [염보성](https://ko.wikipedia.org/wiki/염보성 "wikilink")     |
 | F조 | [전상욱](https://ko.wikipedia.org/wiki/전상욱 "wikilink") | **[이재호](https://ko.wikipedia.org/wiki/이재호 "wikilink")** | [윤용태](../Page/윤용태.md "wikilink")                    | **[박성훈](../Page/박성훈_\(프로게이머\).md "wikilink")**          | **[이재호](https://ko.wikipedia.org/wiki/이재호 "wikilink")** |
 | G조 | [이윤열](../Page/이윤열.md "wikilink")                    | **[이승훈](../Page/이승훈_\(프로게이머\).md "wikilink")**          | **[박성준](../Page/박성준_\(1986년\).md "wikilink")**      | [최연성](../Page/최연성.md "wikilink")                        | [이승훈](../Page/이승훈_\(프로게이머\).md "wikilink")              |
@@ -106,7 +106,7 @@ Desperado - 4인용 자원중심형 힘싸움맵이고 MSL 최초의 본진 2가
   - 김택용 MSL 최초의 프프전 결승이자 최초의 2연속 프로토스 우승
   - 김택용-송병구 흔히 택뱅록 결승전
   - 오프닝이 '2008 BDA 월드 골드 어워즈(2008 BDA World Gold Awards)'에서 스포츠-오픈 부분 동상수상
-  - 결승전 축하 공연으로 가수 [윤하](https://ko.wikipedia.org/wiki/윤하 "wikilink") 초빙
+  - 결승전 축하 공연으로 가수 [윤하](../Page/윤하.md "wikilink") 초빙
   - 우승 상금을 5000만원으로 확대
   - 하부리그 주의 사항 : 'MBCMovies SurvivorLeague 3rd' 대회와 '11st SurvivorTournament' 대회가 연속으로 치러진 다음에서야 'GomTV SeasonII' 대회가 열림. MSL 역사상 유일의 하부리그 2회 후, 본선 돌입. (이유 : 32강 개편으로 인한 16명의 선수 필요)
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [14 Diamonds](https://ko.wikipedia.org/wiki/14_Diamonds).
 
 
-《**14 Diamonds** 》는 [핀란드](https://ko.wikipedia.org/wiki/핀란드 "wikilink")의 [파워 메탈](https://ko.wikipedia.org/wiki/파워_메탈 "wikilink") 밴드 [스트라토바리우스](../Page/스트라토바리우스.md "wikilink")가 발매한 세 번째 베스트 앨범이다. [일본](../Page/일본.md "wikilink")에서만 발매되었다.
+《**14 Diamonds** 》는 [핀란드](../Page/핀란드.md "wikilink")의 [파워 메탈](../Page/파워_메탈.md "wikilink") 밴드 [스트라토바리우스](../Page/스트라토바리우스.md "wikilink")가 발매한 세 번째 베스트 앨범이다. [일본](../Page/일본.md "wikilink")에서만 발매되었다.
 
 ## 수록곡
 

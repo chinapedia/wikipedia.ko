@@ -3,17 +3,17 @@
 
 [right](https://ko.wikipedia.org/wiki/파일:TED_wordmark.svg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Dan_Dennett_at_TED.jpg "wikilink").\]\]
 
-**TED**(Technology, Entertainment, Design)는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 비영리 재단에서 운영하는 강연회이다. 정기적으로 [기술](https://ko.wikipedia.org/wiki/기술 "wikilink"), [오락](https://ko.wikipedia.org/wiki/엔터테인먼트 "wikilink"), [디자인](https://ko.wikipedia.org/wiki/디자인 "wikilink") 등과 관련된 강연회를 개최한다. 최근에는 과학에서 국제적인 이슈까지 다양한 분야와 관련된 강연회를 개최한다. 강연회에서의 강연은 18분 이내에 이루어진다. 이 강연 하나하나를 'TED TALKS'라 한다. "알릴 가치가 있는 아이디어"(Ideas worth spreading)가 모토이다.
+**TED**(Technology, Entertainment, Design)는 [미국](../Page/미국.md "wikilink")의 비영리 재단에서 운영하는 강연회이다. 정기적으로 [기술](../Page/기술.md "wikilink"), [오락](https://ko.wikipedia.org/wiki/엔터테인먼트 "wikilink"), [디자인](../Page/디자인.md "wikilink") 등과 관련된 강연회를 개최한다. 최근에는 과학에서 국제적인 이슈까지 다양한 분야와 관련된 강연회를 개최한다. 강연회에서의 강연은 18분 이내에 이루어진다. 이 강연 하나하나를 'TED TALKS'라 한다. "알릴 가치가 있는 아이디어"(Ideas worth spreading)가 모토이다.
 
-TED는 미국뿐만 아니라 유럽, 아시아 등에서도 개최하고 있으며 TEDx란 형식으로 각 지역에서 약 20분 정도의 독자적인 강연회를 개최하기도 한다. [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink")에 TED가 창립된 이후 [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink")부터 매년 개최되었으며 특히 TED 강연회와 기타 다른 강연회의 동영상 자료를 2006년부터 [웹사이트](https://ko.wikipedia.org/wiki/웹사이트 "wikilink")에 올려 많은 인기를 끌었다.
+TED는 미국뿐만 아니라 유럽, 아시아 등에서도 개최하고 있으며 TEDx란 형식으로 각 지역에서 약 20분 정도의 독자적인 강연회를 개최하기도 한다. [1984년](../Page/1984년.md "wikilink")에 TED가 창립된 이후 [1990년](../Page/1990년.md "wikilink")부터 매년 개최되었으며 특히 TED 강연회와 기타 다른 강연회의 동영상 자료를 2006년부터 [웹사이트](../Page/웹사이트.md "wikilink")에 올려 많은 인기를 끌었다.
 
-초대되는 강연자들은 각 분야의 저명 인사와 괄목할 만한 업적을 이룬 사람들이 대부분인데 이중에는 [빌 클린턴](https://ko.wikipedia.org/wiki/빌_클린턴 "wikilink"), [앨 고어](https://ko.wikipedia.org/wiki/앨_고어 "wikilink") 등 유명 인사와 [노벨상](../Page/노벨상.md "wikilink") 수상자도 많이 있다.
+초대되는 강연자들은 각 분야의 저명 인사와 괄목할 만한 업적을 이룬 사람들이 대부분인데 이중에는 [빌 클린턴](../Page/빌_클린턴.md "wikilink"), [앨 고어](../Page/앨_고어.md "wikilink") 등 유명 인사와 [노벨상](../Page/노벨상.md "wikilink") 수상자도 많이 있다.
 
-현재 TED를 이끄는 기획자는 크리스 앤더슨으로 전직 컴퓨터 저널리스트이자 잡지 발행자였으며 새플링 재단에 속해 있다. [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink")부터는 매년 3명의 TED상이 수여되는데 '세상을 바꾸는 소망'을 가진 이들에게 수여된다.(2010년 부터는 1명에게 수여)
+현재 TED를 이끄는 기획자는 크리스 앤더슨으로 전직 컴퓨터 저널리스트이자 잡지 발행자였으며 새플링 재단에 속해 있다. [2005년](../Page/2005년.md "wikilink")부터는 매년 3명의 TED상이 수여되는데 '세상을 바꾸는 소망'을 가진 이들에게 수여된다.(2010년 부터는 1명에게 수여)
 
 ## 배경
 
-TED의 운영조직은 뉴욕과 밴쿠버에 있으며 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")까지는 캘리포니아 주의 몬트레이에서 매년 TED를 개최하였다. [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink")부터는 급격히 늘어난 참가자 수로 인해 TED는 롱비치에서 열리게 된다. 다른 지역에서 개최되는 강연회로는 TEDGlobal이 있으며 2009년에는 영국 옥스포드에서 열렸다. 이외 TEDIndia가 2009년 인도 미소레에서 개최되었다. TED의 강연회에서 논의되는 주제는 태도와 삶, 그리고 궁극적으로는 세상을 바꾸는 힘을 가진 아이디어를 발표하고 나누기 위해 선정된다.
+TED의 운영조직은 뉴욕과 밴쿠버에 있으며 [2009년](../Page/2009년.md "wikilink")까지는 캘리포니아 주의 몬트레이에서 매년 TED를 개최하였다. [2010년](../Page/2010년.md "wikilink")부터는 급격히 늘어난 참가자 수로 인해 TED는 롱비치에서 열리게 된다. 다른 지역에서 개최되는 강연회로는 TEDGlobal이 있으며 2009년에는 영국 옥스포드에서 열렸다. 이외 TEDIndia가 2009년 인도 미소레에서 개최되었다. TED의 강연회에서 논의되는 주제는 태도와 삶, 그리고 궁극적으로는 세상을 바꾸는 힘을 가진 아이디어를 발표하고 나누기 위해 선정된다.
 
 ## 웹사이트
 
@@ -29,7 +29,7 @@ TED의 웹사이트에는 2200건이 넘는 강연이 무료로 공개되어 있
 
   - 2005년 : [보노](../Page/보노.md "wikilink"), [에드워드 버틴스키](https://ko.wikipedia.org/wiki/에드워드_버틴스키 "wikilink"), [로버트 피쉘](https://ko.wikipedia.org/wiki/로버트_피쉘 "wikilink")
   - 2006년 : [래리 브릴리언트](https://ko.wikipedia.org/wiki/래리_브릴리언트 "wikilink"), [예한 노야임](https://ko.wikipedia.org/wiki/예한_노야임 "wikilink"), [카메론 싱클레어](https://ko.wikipedia.org/wiki/카메론_싱클레어 "wikilink")
-  - 2007년 : [빌 클린턴](https://ko.wikipedia.org/wiki/빌_클린턴 "wikilink"), [에드워드 오스본 윌슨](https://ko.wikipedia.org/wiki/에드워드_오스본_윌슨 "wikilink"), [제임스 나흐웨이](https://ko.wikipedia.org/wiki/제임스_나흐웨이 "wikilink")
+  - 2007년 : [빌 클린턴](../Page/빌_클린턴.md "wikilink"), [에드워드 오스본 윌슨](https://ko.wikipedia.org/wiki/에드워드_오스본_윌슨 "wikilink"), [제임스 나흐웨이](https://ko.wikipedia.org/wiki/제임스_나흐웨이 "wikilink")
   - 2008년 : [닐 투록](https://ko.wikipedia.org/wiki/닐_투록 "wikilink"), [데이브 에거스](https://ko.wikipedia.org/wiki/데이브_에거스 "wikilink"), [카렌 암스트롱](https://ko.wikipedia.org/wiki/카렌_암스트롱 "wikilink")
   - 2009년 : [실비아 얼리](https://ko.wikipedia.org/wiki/실비아_얼리 "wikilink"), [질 타르터](https://ko.wikipedia.org/wiki/질_타르터 "wikilink"), [호세 안토니오 아브레우](https://ko.wikipedia.org/wiki/호세_안토니오_아브레우 "wikilink")
   - 2010년 : [제이미 올리버](../Page/제이미_올리버.md "wikilink")

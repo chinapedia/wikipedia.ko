@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [2009 CONCACAF ](https://ko.wikipedia.org/wiki/2009_CONCACAF_).
 
 
-**2009년 CONCACAF 골드컵**()은 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [7월 3일부터](https://ko.wikipedia.org/wiki/7월_3일 "wikilink") [7월 26일까지](https://ko.wikipedia.org/wiki/7월_26일 "wikilink") [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")에서 개최된 10번째 [골드컵으로](../Page/CONCACAF_골드컵.md "wikilink"), [북중미카리브 축구 연맹](../Page/북중미카리브_축구_연맹.md "wikilink") 소속의 북아메리카와 중앙 아메리카 그리고 [카리브 해의](https://ko.wikipedia.org/wiki/카리브_해 "wikilink") 회원국들이 서로의 실력을 겨루는 축구 대회이다.
+**2009년 CONCACAF 골드컵**()은 [2009년](../Page/2009년.md "wikilink") [7월 3일부터](../Page/7월_3일.md "wikilink") [7월 26일까지](../Page/7월_26일.md "wikilink") [미국](../Page/미국.md "wikilink")에서 개최된 10번째 [골드컵으로](../Page/CONCACAF_골드컵.md "wikilink"), [북중미카리브 축구 연맹](../Page/북중미카리브_축구_연맹.md "wikilink") 소속의 북아메리카와 중앙 아메리카 그리고 [카리브 해의](https://ko.wikipedia.org/wiki/카리브_해 "wikilink") 회원국들이 서로의 실력을 겨루는 축구 대회이다.
 
-이번 대회도 [2007년 CONCACAF 골드컵과](../Page/2007년_CONCACAF_골드컵.md "wikilink") 마찬가지로 다른 대륙 국가를 초청하지 않고, 3개의 조로 나뉘어 치러졌다. 결승전에서는 [멕시코가](https://ko.wikipedia.org/wiki/멕시코_축구_국가대표팀 "wikilink") [미국을](https://ko.wikipedia.org/wiki/미국_축구_국가대표팀 "wikilink") 5 – 0으로 크게 누르고 우승하였다.
+이번 대회도 [2007년 CONCACAF 골드컵과](../Page/2007년_CONCACAF_골드컵.md "wikilink") 마찬가지로 다른 대륙 국가를 초청하지 않고, 3개의 조로 나뉘어 치러졌다. 결승전에서는 [멕시코가](../Page/멕시코_축구_국가대표팀.md "wikilink") [미국을](../Page/미국_축구_국가대표팀.md "wikilink") 5 – 0으로 크게 누르고 우승하였다.
 
 ## 예선
 
@@ -123,16 +123,16 @@
 <tr class="header">
 <th><p><a href="https://ko.wikipedia.org/wiki/카슨_(캘리포니아주)" title="wikilink">카슨</a><br />
 (<a href="https://ko.wikipedia.org/wiki/로스앤젤레스" title="wikilink">로스앤젤레스</a>)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/시애틀" title="wikilink">시애틀</a></p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/콜럼버스_(오하이오주)" title="wikilink">콜럼버스</a></p></th>
+<th><p><a href="../Page/시애틀.md" title="wikilink">시애틀</a></p></th>
+<th><p><a href="../Page/콜럼버스_(오하이오주).md" title="wikilink">콜럼버스</a></p></th>
 <th><p><a href="../Page/오클랜드_(캘리포니아주).md" title="wikilink">오클랜드</a></p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/워싱턴_D.C." title="wikilink">워싱턴 D.C.</a></p></th>
+<th><p><a href="../Page/워싱턴_D.C..md" title="wikilink">워싱턴 D.C.</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/홈_디포_센터" title="wikilink">홈 디포 센터</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/센추리링크_필드" title="wikilink">퀘스트 필드</a></p></td>
+<td><p><a href="../Page/센추리링크_필드.md" title="wikilink">퀘스트 필드</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/콜럼버스_크루_경기장" title="wikilink">콜럼버스 크루 경기장</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/오클랜드–알라메다_카운티_콜리시엄" title="wikilink">오클랜드–알라메다 카운티 콜리시엄</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/RFK_스타디움" title="wikilink">RFK 스타디움</a></p></td>
@@ -153,12 +153,12 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/휴스턴.md" title="wikilink">휴스턴</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/마이애미" title="wikilink">마이애미</a></p></td>
+<td><p><a href="../Page/마이애미.md" title="wikilink">마이애미</a></p></td>
 <td><p><a href="../Page/폭스버러.md" title="wikilink">폭스버러</a><br />
-(<a href="https://ko.wikipedia.org/wiki/보스턴" title="wikilink">보스턴</a>)</p></td>
+(<a href="../Page/보스턴.md" title="wikilink">보스턴</a>)</p></td>
 <td><p><a href="../Page/글렌데일_(애리조나주).md" title="wikilink">글렌데일</a><br />
 (<a href="../Page/피닉스_(애리조나주).md" title="wikilink">피닉스</a>)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/필라델피아" title="wikilink">필라델피아</a></p></td>
+<td><p><a href="../Page/필라델피아.md" title="wikilink">필라델피아</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/릴라이언트_경기장" title="wikilink">릴라이언트 경기장</a></p></td>
@@ -184,9 +184,9 @@
 <tr class="even">
 <td><p><a href="../Page/알링턴_(텍사스주).md" title="wikilink">알링턴</a><br />
 (<a href="../Page/댈러스.md" title="wikilink">댈러스</a>)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/시카고" title="wikilink">시카고</a></p></td>
+<td><p><a href="../Page/시카고.md" title="wikilink">시카고</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/이스트러더퍼드" title="wikilink">이스트러더퍼드</a><br />
-(<a href="https://ko.wikipedia.org/wiki/뉴욕" title="wikilink">뉴욕</a>)</p></td>
+(<a href="../Page/뉴욕.md" title="wikilink">뉴욕</a>)</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -563,7 +563,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Mexico.svg" title="wikilink">100px</a><br />
-<strong><a href="https://ko.wikipedia.org/wiki/멕시코_축구_국가대표팀" title="wikilink">멕시코</a></strong><br />
+<strong><a href="../Page/멕시코_축구_국가대표팀.md" title="wikilink">멕시코</a></strong><br />
 <strong>5번째 우승</strong></p></td>
 </tr>
 </tbody>
@@ -585,7 +585,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/미겔_사바" title="wikilink">미겔 사바</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/히오바니_도스_산토스" title="wikilink">히오바니 도스 산토스</a></p></td>
 <td><p><a href="../Page/케일러_나바스.md" title="wikilink">케일러 나바스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미국_축구_국가대표팀" title="wikilink">미국</a></p></td>
+<td><p><a href="../Page/미국_축구_국가대표팀.md" title="wikilink">미국</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -645,7 +645,7 @@
 
   - [왈테르 마르티네스](https://ko.wikipedia.org/wiki/왈테르_훌리안_마르티네스 "wikilink")
 
-  - [헤라르도 토라도](https://ko.wikipedia.org/wiki/헤라르도_토라도 "wikilink")
+  - [헤라르도 토라도](../Page/헤라르도_토라도.md "wikilink")
 
   - [히오바니 도스 산토스](https://ko.wikipedia.org/wiki/히오바니_도스_산토스 "wikilink")
 

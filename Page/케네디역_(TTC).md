@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ \(TTC\)](https://ko.wikipedia.org/wiki/_\(TTC\)).
 
 
-**케네디역**(Kennedy Station)은 [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink") [온타리오주](https://ko.wikipedia.org/wiki/온타리오주 "wikilink") [토론토](https://ko.wikipedia.org/wiki/토론토 "wikilink")의 지하철인 [블루어-댄포스 선의](https://ko.wikipedia.org/wiki/블루어-댄포스_선 "wikilink") 동부 종착역이자 [스카버러 RT의](../Page/스카버러_RT.md "wikilink") 서부 종착역이다. 이 역에는 두 개의 도시 철도 노선과 14개 버스 노선 뿐만 아니라 [GO 트랜싯의](../Page/GO_트랜싯.md "wikilink") 스토우빌 선 열차도 같은 이름의 통근 열차 역에서 정차한다. 이에 따라 케네디역은 TTC에서 다섯 번째로 가장 바쁜 역이며, 하루 평균 10만 5880명을 수송한다.\[1\]
+**케네디역**(Kennedy Station)은 [캐나다](../Page/캐나다.md "wikilink") [온타리오주](https://ko.wikipedia.org/wiki/온타리오주 "wikilink") [토론토](../Page/토론토.md "wikilink")의 지하철인 [블루어-댄포스 선의](https://ko.wikipedia.org/wiki/블루어-댄포스_선 "wikilink") 동부 종착역이자 [스카버러 RT의](../Page/스카버러_RT.md "wikilink") 서부 종착역이다. 이 역에는 두 개의 도시 철도 노선과 14개 버스 노선 뿐만 아니라 [GO 트랜싯의](../Page/GO_트랜싯.md "wikilink") 스토우빌 선 열차도 같은 이름의 통근 열차 역에서 정차한다. 이에 따라 케네디역은 TTC에서 다섯 번째로 가장 바쁜 역이며, 하루 평균 10만 5880명을 수송한다.\[1\]
 
 케네디역은 4개의 층이 있는 역으로, 스카버러 RT 승강장이 가장 위에 있으며, 그 다음 버스 승강장, 그 다음이 GO 철도역과 주차장, 그리고 블루어-댄포스 선 승강장이 제일 밑에 있다. 케네디역에서 지하철과 RT 승강장은 평행하다. 모든 TTC 층에는 엘리베이터가 설치되었으며, 네 곳의 주차장이 있으며, 총 1138대의 주차 공간이 있다.
 
@@ -93,13 +93,13 @@
 <td><p>21A</p></td>
 <td><p>브림리</p></td>
 <td><p>Brimley</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/스카버러센터역" title="wikilink">스카버러센터역</a></p></td>
+<td><p><a href="../Page/스카버러센터역.md" title="wikilink">스카버러센터역</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>21C</p></td>
 <td><p>브림리 / 스틸즈</p></td>
 <td><p><span style="font-size:140%;">↔︎</span></p></td>
-<td><p> 케네디역</br> 브림리 / 에글린턴</br> 브림리 / 로렌스</br> 브림리 / 엘즈미어</br>   <a href="https://ko.wikipedia.org/wiki/스카버러센터역" title="wikilink">스카버러센터역</a></br> 브림리 / 셰퍼드</br> 브림리 / 헌팅우드</br> 브림리 / 핀치</br> 브림리 / 맥니콜</br> 브림리 / 스틸즈</br> </p></td>
+<td><p> 케네디역</br> 브림리 / 에글린턴</br> 브림리 / 로렌스</br> 브림리 / 엘즈미어</br>   <a href="../Page/스카버러센터역.md" title="wikilink">스카버러센터역</a></br> 브림리 / 셰퍼드</br> 브림리 / 헌팅우드</br> 브림리 / 핀치</br> 브림리 / 맥니콜</br> 브림리 / 스틸즈</br> </p></td>
 </tr>
 <tr class="even">
 <td><p>34A</p></td>
@@ -121,9 +121,9 @@
 </tr>
 <tr class="odd">
 <td><p>43B</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/스카버러센터역" title="wikilink">스카버러센터역</a></p></td>
+<td><p><a href="../Page/스카버러센터역.md" title="wikilink">스카버러센터역</a></p></td>
 <td><p><span style="font-size:140%;">↔︎</span></p></td>
-<td><p>  케네디역</br>  케네디 / 로렌스 (<a href="https://ko.wikipedia.org/wiki/로렌스_이스트역" title="wikilink">로렌스 이스트역</a>)</br>  케네디 / 엘즈미어 (<a href="https://ko.wikipedia.org/wiki/엘즈미어역" title="wikilink">엘즈미어역</a>)</br> 프로그레스 / 미들랜드</br>   <a href="https://ko.wikipedia.org/wiki/스카버러센터역" title="wikilink">스카버러센터역</a> </p></td>
+<td><p>  케네디역</br>  케네디 / 로렌스 (<a href="../Page/로렌스_이스트역.md" title="wikilink">로렌스 이스트역</a>)</br>  케네디 / 엘즈미어 (<a href="../Page/엘즈미어역.md" title="wikilink">엘즈미어역</a>)</br> 프로그레스 / 미들랜드</br>   <a href="../Page/스카버러센터역.md" title="wikilink">스카버러센터역</a> </p></td>
 </tr>
 <tr class="even">
 <td><p>57</p></td>
@@ -213,7 +213,7 @@
 <td><p>903</p></td>
 <td><p>케네디-스카버러센터 급행</p></td>
 <td><p>Kennedy-Scarborough Centre Express</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/스카버러센터역" title="wikilink">스카버러센터역</a></p></td>
+<td><p><a href="../Page/스카버러센터역.md" title="wikilink">스카버러센터역</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>905</p></td>

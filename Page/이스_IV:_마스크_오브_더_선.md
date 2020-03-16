@@ -3,9 +3,9 @@
 
 《**이스 IV: 마스크 오브 더 선**》(, )는 [니혼 팔콤의](../Page/니혼_팔콤.md "wikilink") [액션 롤플레잉 게임이다](https://ko.wikipedia.org/wiki/액션_롤플레잉_게임 "wikilink"). [이스](../Page/이스_\(시리즈\).md "wikilink") 시리즈의 네번째 작품이나, 개발인원 부족에 시달리던 니혼 팔콤이 개발사 [톤킨 하우스에](https://ko.wikipedia.org/wiki/톤킨_하우스 "wikilink") 원안을 제공해 공동개발했다.\[1\] 《[이스 II](https://ko.wikipedia.org/wiki/이스_II "wikilink")》로부터 2년 후, 아돌의 3대 모험 중 두 번째 이야기인 '셀세타의 수해' 편을 다뤘다.
 
-1993년 [슈퍼 패미컴으로](https://ko.wikipedia.org/wiki/슈퍼_패미컴 "wikilink") 출시된 《이스 IV: 마스크 오브 더 선》은 '이스 IV'라는 제목을 달고 발매된 두 작품 중 하나로, 다른 하나는 니혼 팔콤에게 똑같이 원안을 제공받은 [허드슨 소프트가](../Page/허드슨_소프트.md "wikilink") [PC 엔진으로](https://ko.wikipedia.org/wiki/PC_엔진 "wikilink") 독자적으로 개발한 《[이스 IV: 더 던 오브 이스](../Page/이스_IV:_더_던_오브_이스.md "wikilink")》가 있다. 두 게임에 담겨있는 기본적인 이야기 골자는 같지만, 《더 던 오브 이스》는 팔콤의 원안에서 상당히 벗어났다는 이유로 이후 이를 외전으로 취급하고 톤킨 하우스의 《마스크 오브 더 선》을 공식 줄거리로 받아들였다. 이후 2012년 니혼 팔콤이 직접 [플레이스테이션 비타로](https://ko.wikipedia.org/wiki/플레이스테이션_비타 "wikilink") 제작한 《[이스: 셀세타의 수해](https://ko.wikipedia.org/wiki/이스:_셀세타의_수해 "wikilink")》가 공식 《이스 IV》로 대체됐다.
+1993년 [슈퍼 패미컴으로](../Page/슈퍼_패미컴.md "wikilink") 출시된 《이스 IV: 마스크 오브 더 선》은 '이스 IV'라는 제목을 달고 발매된 두 작품 중 하나로, 다른 하나는 니혼 팔콤에게 똑같이 원안을 제공받은 [허드슨 소프트가](../Page/허드슨_소프트.md "wikilink") [PC 엔진으로](https://ko.wikipedia.org/wiki/PC_엔진 "wikilink") 독자적으로 개발한 《[이스 IV: 더 던 오브 이스](../Page/이스_IV:_더_던_오브_이스.md "wikilink")》가 있다. 두 게임에 담겨있는 기본적인 이야기 골자는 같지만, 《더 던 오브 이스》는 팔콤의 원안에서 상당히 벗어났다는 이유로 이후 이를 외전으로 취급하고 톤킨 하우스의 《마스크 오브 더 선》을 공식 줄거리로 받아들였다. 이후 2012년 니혼 팔콤이 직접 [플레이스테이션 비타로](https://ko.wikipedia.org/wiki/플레이스테이션_비타 "wikilink") 제작한 《[이스: 셀세타의 수해](https://ko.wikipedia.org/wiki/이스:_셀세타의_수해 "wikilink")》가 공식 《이스 IV》로 대체됐다.
 
-2005년 슈퍼 패미컴판에 기반한 리메이크 《이스 IV: 마스크 오브 더 선 - 어 뉴 시어리》()가 [타이토](https://ko.wikipedia.org/wiki/타이토 "wikilink")에서 [플레이스테이션 2로](https://ko.wikipedia.org/wiki/플레이스테이션_2 "wikilink") 발매됐다.\[2\]
+2005년 슈퍼 패미컴판에 기반한 리메이크 《이스 IV: 마스크 오브 더 선 - 어 뉴 시어리》()가 [타이토](https://ko.wikipedia.org/wiki/타이토 "wikilink")에서 [플레이스테이션 2로](../Page/플레이스테이션_2.md "wikilink") 발매됐다.\[2\]
 
 ## 줄거리
 

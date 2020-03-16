@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [   \~Prelude\~](https://ko.wikipedia.org/wiki/___\~Prelude\~).
 
 
-**우리들에게 날개는 없다 \~Prelude\~**()는 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [6월 28일에](https://ko.wikipedia.org/wiki/6월_28일 "wikilink") 발매된 [일본](../Page/일본.md "wikilink")의 게임회사 [Navel의](../Page/네이블.md "wikilink") 작품이다. 당시 제작중이던 「[우리들에게 날개는 없다](../Page/우리들에게_날개는_없다.md "wikilink")」의 세계관을 보기 위한 전주곡으로 볼 수 있다.
+**우리들에게 날개는 없다 \~Prelude\~**()는 [2008년](../Page/2008년.md "wikilink") [6월 28일에](../Page/6월_28일.md "wikilink") 발매된 [일본](../Page/일본.md "wikilink")의 게임회사 [Navel의](../Page/네이블.md "wikilink") 작품이다. 당시 제작중이던 「[우리들에게 날개는 없다](../Page/우리들에게_날개는_없다.md "wikilink")」의 세계관을 보기 위한 전주곡으로 볼 수 있다.
 
 ## 개요
 
-당초, 「[우리들에게 날개는 없다](../Page/우리들에게_날개는_없다.md "wikilink")」가 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [6월 28일에](https://ko.wikipedia.org/wiki/6월_28일 "wikilink") 발매 예정이었지만, 제작의 완성도를 높이기 위해 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [1월 30일로](https://ko.wikipedia.org/wiki/1월_30일 "wikilink") 발매일이 연기되었기 때문에, 그 대신 이 작품이 발매되었다.
+당초, 「[우리들에게 날개는 없다](../Page/우리들에게_날개는_없다.md "wikilink")」가 [2008년](../Page/2008년.md "wikilink") [6월 28일에](../Page/6월_28일.md "wikilink") 발매 예정이었지만, 제작의 완성도를 높이기 위해 [2009년](../Page/2009년.md "wikilink") [1월 30일로](../Page/1월_30일.md "wikilink") 발매일이 연기되었기 때문에, 그 대신 이 작품이 발매되었다.
 
-[6월 28일을](https://ko.wikipedia.org/wiki/6월_28일 "wikilink") 발매일로 정한 이유는 , 본작품의 메인 스탭인 [오쟈쿠손](https://ko.wikipedia.org/wiki/오쟈쿠손 "wikilink"), [니시마타 아오이](https://ko.wikipedia.org/wiki/니시마타_아오이 "wikilink"), [앗쵸리케](https://ko.wikipedia.org/wiki/앗쵸리케 "wikilink") 등이 일찍이 제작에 참여한 「[그것은 흩날리는 벚꽃처럼](https://ko.wikipedia.org/wiki/그것은_흩날리는_벚꽃처럼 "wikilink")」([BasiL](https://ko.wikipedia.org/wiki/BasiL "wikilink"))의 발매일에 맞추었기 때문이라고 한다.
+[6월 28일을](../Page/6월_28일.md "wikilink") 발매일로 정한 이유는 , 본작품의 메인 스탭인 [오쟈쿠손](../Page/오쟈쿠손.md "wikilink"), [니시마타 아오이](../Page/니시마타_아오이.md "wikilink"), [앗쵸리케](https://ko.wikipedia.org/wiki/앗쵸리케 "wikilink") 등이 일찍이 제작에 참여한 「[그것은 흩날리는 벚꽃처럼](../Page/그것은_흩날리는_벚꽃처럼.md "wikilink")」([BasiL](../Page/BasiL.md "wikilink"))의 발매일에 맞추었기 때문이라고 한다.
 
 본편의 1년전을 무대로 한 Prelude 시나리오는 모두 하루에 일어난 사건이며, 본편에는 수록되어 있지 않다.
 

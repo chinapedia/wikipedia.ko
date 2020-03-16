@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Libjpeg](https://ko.wikipedia.org/wiki/Libjpeg).
 
 
-**libjpeg**은 [C언어로](https://ko.wikipedia.org/wiki/C_\(프로그래밍_언어\) "wikilink") 작성되었으며, 전 세계적으로 널리 쓰이는 JPEG 파일의 디코딩, 인코딩이 구현된 [라이브러리](https://ko.wikipedia.org/wiki/라이브러리 "wikilink")이다. 이 라이브러리는 Independent JPEG Group 에서 개발하였다.
+**libjpeg**은 [C언어로](../Page/C_\(프로그래밍_언어\).md "wikilink") 작성되었으며, 전 세계적으로 널리 쓰이는 JPEG 파일의 디코딩, 인코딩이 구현된 [라이브러리](https://ko.wikipedia.org/wiki/라이브러리 "wikilink")이다. 이 라이브러리는 Independent JPEG Group 에서 개발하였다.
 
 ## 유틸리티
 
@@ -13,7 +13,7 @@ libjpeg은 다음과 같은 유틸리티들을 포함하고 있다.
 
 ## 참조
 
-  - [JPEG](https://ko.wikipedia.org/wiki/JPEG "wikilink")
+  - [JPEG](../Page/JPEG.md "wikilink")
 
 ## 외부 링크
 
