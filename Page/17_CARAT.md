@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [17 CARAT](https://ko.wikipedia.org/wiki/17_CARAT).
 
 
-《**17 CARAT**》(17캐럿)은 보이그룹 [세븐틴의](../Page/세븐틴_\(음악_그룹\).md "wikilink") 데뷔 음반이자 첫 번째 [미니 음반이다](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink"). 타이틀곡은 〈아낀다〉로, 2015년 5월 29일 [로엔 엔터테인먼트에서](https://ko.wikipedia.org/wiki/로엔_엔터테인먼트 "wikilink") 발매되었다.
+《**17 CARAT**》(17캐럿)은 보이그룹 [세븐틴의](../Page/세븐틴_\(음악_그룹\).md "wikilink") 데뷔 음반이자 첫 번째 [미니 음반이다](../Page/익스텐디드_플레이.md "wikilink"). 타이틀곡은 〈아낀다〉로, 2015년 5월 29일 [로엔 엔터테인먼트에서](https://ko.wikipedia.org/wiki/로엔_엔터테인먼트 "wikilink") 발매되었다.
 
 ## 개요
 
@@ -42,7 +42,7 @@
 
 ## 외부 링크
 
-  - [17 CARAT](http://music.naver.com/album/index.nhn?albumId=548445) - [네이버](https://ko.wikipedia.org/wiki/네이버 "wikilink") 뮤직
+  - [17 CARAT](http://music.naver.com/album/index.nhn?albumId=548445) - [네이버](../Page/네이버.md "wikilink") 뮤직
 
   -
 [분류:세븐틴의 음반](https://ko.wikipedia.org/wiki/분류:세븐틴의_음반 "wikilink") [분류:한국어 EP](https://ko.wikipedia.org/wiki/분류:한국어_EP "wikilink") [분류:2015년 EP](https://ko.wikipedia.org/wiki/분류:2015년_EP "wikilink") [분류:카카오엠 음반](https://ko.wikipedia.org/wiki/분류:카카오엠_음반 "wikilink")

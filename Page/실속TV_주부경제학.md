@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
 
 
-《**실속TV 주부경제학**》은 [KBS 1TV의](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방영하는 경제학 전문 프로그램이며 [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [7월 15일부터](https://ko.wikipedia.org/wiki/7월_15일 "wikilink") [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [10월 28일까지](https://ko.wikipedia.org/wiki/10월_28일 "wikilink") 방영되었다.
+《**실속TV 주부경제학**》은 [KBS 1TV의](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방영하는 경제학 전문 프로그램이며 [2002년](../Page/2002년.md "wikilink") [7월 15일부터](../Page/7월_15일.md "wikilink") [2005년](../Page/2005년.md "wikilink") [10월 28일까지](../Page/10월_28일.md "wikilink") 방영되었다.
 
 ## 기획 의도
 
@@ -9,8 +9,8 @@
 
 ## 방송 시간
 
-| 방송 채널                                                       | 방송 기간                                                                                                                                                                                                                                    | 방송 시간                           |
-| ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
-| [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") | [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [7월 15일](https://ko.wikipedia.org/wiki/7월_15일 "wikilink") \~ [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [10월 28일](https://ko.wikipedia.org/wiki/10월_28일 "wikilink") | 매주 월요일 \~ 금요일 오전 10시 45분 \~ 11시 |
+| 방송 채널                                                       | 방송 기간                                                                                                                                                        | 방송 시간                           |
+| ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------- |
+| [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") | [2002년](../Page/2002년.md "wikilink") [7월 15일](../Page/7월_15일.md "wikilink") \~ [2005년](../Page/2005년.md "wikilink") [10월 28일](../Page/10월_28일.md "wikilink") | 매주 월요일 \~ 금요일 오전 10시 45분 \~ 11시 |
 
 [분류:한국방송공사의 시사교양 프로그램](https://ko.wikipedia.org/wiki/분류:한국방송공사의_시사교양_프로그램 "wikilink")

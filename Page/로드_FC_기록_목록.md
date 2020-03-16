@@ -80,13 +80,13 @@
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/강경호_(격투기_선수)" title="wikilink">강경호</a></p></td>
+<td><p><a href="../Page/강경호_(격투기_선수).md" title="wikilink">강경호</a></p></td>
 <td><p>24 살 (24 년 281 일)</p></td>
 <td><p>2012년 06월 16일 (<a href="https://ko.wikipedia.org/wiki/Road_FC_008" title="wikilink">Road FC 008</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p>6</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김수철_(종합격투기_선수)" title="wikilink">김수철</a></p></td>
+<td><p><a href="../Page/김수철_(종합격투기_선수).md" title="wikilink">김수철</a></p></td>
 <td><p>25 살 (25 년 126 일)</p></td>
 <td><p>2017년 04월 15일 (<a href="https://ko.wikipedia.org/wiki/Road_FC_038" title="wikilink">Road FC 038</a>)</p></td>
 </tr>
@@ -218,7 +218,7 @@
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/박정은" title="wikilink">박정은</a></p></td>
+<td><p><a href="../Page/박정은.md" title="wikilink">박정은</a></p></td>
 <td><p>18 살 (18 년 227 일)</p></td>
 <td><p>2015년 05월 02일 (<a href="https://ko.wikipedia.org/wiki/Road_FC_023" title="wikilink">Road FC 023</a>)</p></td>
 </tr>
@@ -287,7 +287,7 @@
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김수철_(종합격투기_선수)" title="wikilink">김수철</a></p></td>
+<td><p><a href="../Page/김수철_(종합격투기_선수).md" title="wikilink">김수철</a></p></td>
 <td><p>14 회</p></td>
 <td><p>[<a href="https://www.tapology.com/fightcenter/fighters/13862-soo-chul-kim">https://www.tapology.com/fightcenter/fighters/13862-soo-chul-kim</a> 김수철 | <a href="https://www.tapology.com/fightcenter/fighters/13862-soo-chul-kim">김수철 | Tapology</a></p></td>
 </tr>
@@ -404,7 +404,7 @@
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/권아솔" title="wikilink">권아솔</a></p></td>
+<td><p><a href="../Page/권아솔.md" title="wikilink">권아솔</a></p></td>
 <td><p>3 회</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/로드_FC_라이트급_챔피언십" title="wikilink">로드 FC 라이트급 챔피언십</a></p></td>
 </tr>
@@ -521,7 +521,7 @@
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/권아솔" title="wikilink">권아솔</a></p></td>
+<td><p><a href="../Page/권아솔.md" title="wikilink">권아솔</a></p></td>
 <td><p>3 회</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/로드_FC_라이트급_챔피언십" title="wikilink">로드 FC 라이트급 챔피언십</a></p></td>
 </tr>
@@ -608,7 +608,7 @@
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/권아솔" title="wikilink">권아솔</a></p></td>
+<td><p><a href="../Page/권아솔.md" title="wikilink">권아솔</a></p></td>
 <td><p>2 회</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/로드_FC_라이트급_챔피언십" title="wikilink">로드 FC 라이트급 챔피언십</a></p></td>
 </tr>
@@ -800,7 +800,7 @@
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김수철_(종합격투기_선수)" title="wikilink">김수철</a></p></td>
+<td><p><a href="../Page/김수철_(종합격투기_선수).md" title="wikilink">김수철</a></p></td>
 <td><p>4 회</p></td>
 <td><p>[<a href="https://www.tapology.com">https://www.tapology.com</a> fightcenter fighters 13862-soo-chul-kim 김수철 | <a href="https://www.tapology.com/fightcenter/fighters/13862-soo-chul-kim">김수철 | Tapology</a></p></td>
 </tr>

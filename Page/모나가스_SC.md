@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [ SC](https://ko.wikipedia.org/wiki/_SC).
 
 
-**모나가스 스포르트 클루브**()는 [베네수엘라](https://ko.wikipedia.org/wiki/베네수엘라 "wikilink") [마투린](https://ko.wikipedia.org/wiki/마투린 "wikilink")에 위치한 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로, [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink") [9월 23일에](https://ko.wikipedia.org/wiki/9월_23일 "wikilink") 창단되었다. 51,796석의 에스타디오 모누멘탈 데 마투린을 홈 구장으로 사용하고 있으며, 구단의 별칭은 과라피체의 용사들()이다. [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") 현재 [베네수엘라 프리메라 디비시온에](../Page/베네수엘라_프리메라_디비시온.md "wikilink") 참가하고 있다. 2017 시즌 구단 역사상 최초로 프리메라 디비시온에서 우승을 차지하였다.
+**모나가스 스포르트 클루브**()는 [베네수엘라](../Page/베네수엘라.md "wikilink") [마투린](https://ko.wikipedia.org/wiki/마투린 "wikilink")에 위치한 [축구](../Page/축구.md "wikilink") 클럽으로, [1987년](../Page/1987년.md "wikilink") [9월 23일에](../Page/9월_23일.md "wikilink") 창단되었다. 51,796석의 에스타디오 모누멘탈 데 마투린을 홈 구장으로 사용하고 있으며, 구단의 별칭은 과라피체의 용사들()이다. [2018년](../Page/2018년.md "wikilink") 현재 [베네수엘라 프리메라 디비시온에](../Page/베네수엘라_프리메라_디비시온.md "wikilink") 참가하고 있다. 2017 시즌 구단 역사상 최초로 프리메라 디비시온에서 우승을 차지하였다.
 
 ## 역사
 
-[1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink") [5월 22일](https://ko.wikipedia.org/wiki/5월_22일 "wikilink") [우니온 데포르티보 푸에르토라크루스와](https://ko.wikipedia.org/wiki/우니온_데포르티보_푸에르토라크루스 "wikilink") 첫 공식 경기를 가졌으며, 모나가스의 4-0 대승으로 끝이 났다. [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink") 모나가스는 1부 리그로 승격하는 데에 성공하였다.
+[1988년](../Page/1988년.md "wikilink") [5월 22일](../Page/5월_22일.md "wikilink") [우니온 데포르티보 푸에르토라크루스와](https://ko.wikipedia.org/wiki/우니온_데포르티보_푸에르토라크루스 "wikilink") 첫 공식 경기를 가졌으며, 모나가스의 4-0 대승으로 끝이 났다. [1990년](../Page/1990년.md "wikilink") 모나가스는 1부 리그로 승격하는 데에 성공하였다.
 
 2006-07 시즌에 모나가스는 저조한 성적을 기록하며, 강등을 당할 위기에 처해있었다. 그러나 다행히도 베네수엘라 축구 연맹이 프리메라 디비시온 참가팀을 10개 팀에서 18개 팀으로 확대시키기로 결정하면서, 모나가스는 가까스로 강등을 모면할 수 있었다.
 
-2017 시즌 전기 리그 6위를 차지한 모나가스는, 플레이오프 8강전에서 [사모라 FC를](https://ko.wikipedia.org/wiki/사모라_FC "wikilink") 종합 6-2로 꺾고 다음 라운드에 진출하였다. 4강전에서는 [카라보보 FC를](https://ko.wikipedia.org/wiki/카라보보_FC "wikilink") 만났으며, 종합 1-1로 종료되었으나 [원정 다득점](https://ko.wikipedia.org/wiki/원정_다득점 "wikilink") 규칙에 따라 모나가스가 결승전에 진출하게 되었다. 결승전에서 [카라카스 FC와](../Page/카라카스_FC.md "wikilink") 맞붙게 되었으며, 6월 25일 마투린에서의 홈 경기에서 1-0 승리를 따냈다. 7월 2일 [카라카스](https://ko.wikipedia.org/wiki/카라카스 "wikilink")에서 열린 2차전에서 2-1로 패하였으나, 원정 다득점 규칙에 따라 모나가스가 구단 역사상 최초의 정규 리그 우승 타이틀을 거머쥐게 되었다. 이에 따라 모나가스는 또한 최초로 [코파 리베르타도레스에](https://ko.wikipedia.org/wiki/코파_리베르타도레스 "wikilink") 진출할 수 있게 되었다.
+2017 시즌 전기 리그 6위를 차지한 모나가스는, 플레이오프 8강전에서 [사모라 FC를](https://ko.wikipedia.org/wiki/사모라_FC "wikilink") 종합 6-2로 꺾고 다음 라운드에 진출하였다. 4강전에서는 [카라보보 FC를](https://ko.wikipedia.org/wiki/카라보보_FC "wikilink") 만났으며, 종합 1-1로 종료되었으나 [원정 다득점](../Page/원정_다득점.md "wikilink") 규칙에 따라 모나가스가 결승전에 진출하게 되었다. 결승전에서 [카라카스 FC와](../Page/카라카스_FC.md "wikilink") 맞붙게 되었으며, 6월 25일 마투린에서의 홈 경기에서 1-0 승리를 따냈다. 7월 2일 [카라카스](../Page/카라카스.md "wikilink")에서 열린 2차전에서 2-1로 패하였으나, 원정 다득점 규칙에 따라 모나가스가 구단 역사상 최초의 정규 리그 우승 타이틀을 거머쥐게 되었다. 이에 따라 모나가스는 또한 최초로 [코파 리베르타도레스에](../Page/코파_리베르타도레스.md "wikilink") 진출할 수 있게 되었다.
 
 후기 리그 챔피언 [데포르티보 라라와의](../Page/데포르티보_라라.md "wikilink") 경기에서 1차전 1-0 패, 2차전 2-0 승리를 거두며 구단 역사상 최초로 베네수엘라 프리메라 디비시온 최종 우승 타이틀을 거머쥐었다.
 

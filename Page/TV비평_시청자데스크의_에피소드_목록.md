@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TV   ](https://ko.wikipedia.org/wiki/TV___).
 
 
-아래는 [KBS 1TV의](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 시청자 의견을 전달하는 TV비평 옴부즈맨 프로그램인 **《[TV비평 시청자데스크](https://ko.wikipedia.org/wiki/TV비평_시청자데스크 "wikilink")》**의 방영 목록이다.
+아래는 [KBS 1TV의](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 시청자 의견을 전달하는 TV비평 옴부즈맨 프로그램인 **《[TV비평 시청자데스크](../Page/TV비평_시청자데스크.md "wikilink")》**의 방영 목록이다.
 
 ## 방송 회차
 
@@ -80,9 +80,9 @@
 <td><p>707회</p></td>
 <td><p>1월 6일</p></td>
 <td><p>1. <시청자의 눈></p></td>
-<td><p>'월화드라마 <a href="https://ko.wikipedia.org/wiki/화랑" title="wikilink">화랑</a>',<br />
-'<a href="https://ko.wikipedia.org/wiki/인간극장" title="wikilink">인간극장</a>' 등</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/전주리" title="wikilink">전주리</a> / 아나운서<br />
+<td><p>'월화드라마 <a href="../Page/화랑.md" title="wikilink">화랑</a>',<br />
+'<a href="../Page/인간극장.md" title="wikilink">인간극장</a>' 등</p></td>
+<td><p><a href="../Page/전주리.md" title="wikilink">전주리</a> / 아나운서<br />
 <a href="https://ko.wikipedia.org/wiki/조항리" title="wikilink">조항리</a> / 아나운서</p></td>
 <td></td>
 <td></td>
@@ -121,7 +121,7 @@
 <td><p>1. <시청자의 눈></p></td>
 <td><p>'마음의 소리',<br />
 '<a href="https://ko.wikipedia.org/wiki/해피선데이" title="wikilink">해피선데이</a> <a href="../Page/슈퍼맨이_돌아왔다.md" title="wikilink">슈퍼맨이 돌아왔다</a>' 등</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/전주리" title="wikilink">전주리</a> / 아나운서<br />
+<td><p><a href="../Page/전주리.md" title="wikilink">전주리</a> / 아나운서<br />
 <a href="https://ko.wikipedia.org/wiki/조항리" title="wikilink">조항리</a> / 아나운서</p></td>
 <td></td>
 <td></td>
@@ -148,7 +148,7 @@
 </tr>
 <tr class="even">
 <td><p>4. <TV를 말한다></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/해피선데이" title="wikilink">해피선데이</a> <a href="https://ko.wikipedia.org/wiki/1박_2일" title="wikilink">1박 2일</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/해피선데이" title="wikilink">해피선데이</a> <a href="../Page/1박_2일.md" title="wikilink">1박 2일</a></p></td>
 <td><p>진민정 평가원</p></td>
 <td></td>
 <td></td>
@@ -196,10 +196,10 @@
 <td><p>710회</p></td>
 <td><p>1월 26일 목요일</p></td>
 <td><p>1. <시청자의 눈></p></td>
-<td><p>'<a href="https://ko.wikipedia.org/wiki/해피선데이" title="wikilink">해피선데이</a> <a href="https://ko.wikipedia.org/wiki/1박_2일" title="wikilink">1박 2일</a>',<br />
+<td><p>'<a href="https://ko.wikipedia.org/wiki/해피선데이" title="wikilink">해피선데이</a> <a href="../Page/1박_2일.md" title="wikilink">1박 2일</a>',<br />
 '수목드라마 <a href="https://ko.wikipedia.org/wiki/맨몸의_소방관" title="wikilink">맨몸의 소방관</a>',<br />
-'<a href="https://ko.wikipedia.org/wiki/여유만만" title="wikilink">여유만만</a>'</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/전주리" title="wikilink">전주리</a> / 아나운서<br />
+'<a href="../Page/여유만만.md" title="wikilink">여유만만</a>'</p></td>
+<td><p><a href="../Page/전주리.md" title="wikilink">전주리</a> / 아나운서<br />
 <a href="https://ko.wikipedia.org/wiki/조항리" title="wikilink">조항리</a> / 아나운서</p></td>
 <td></td>
 <td></td>
@@ -224,7 +224,7 @@
 </tr>
 <tr class="even">
 <td><p>4. <TV를 말한다></p></td>
-<td><p>월화드라마 <a href="https://ko.wikipedia.org/wiki/화랑" title="wikilink">화랑</a></p></td>
+<td><p>월화드라마 <a href="../Page/화랑.md" title="wikilink">화랑</a></p></td>
 <td><p>이숙환 평가원</p></td>
 <td></td>
 <td></td>
@@ -237,17 +237,17 @@
 <td><p>1. <시청자의 눈></p></td>
 <td><p>'수목드라마 <a href="https://ko.wikipedia.org/wiki/김과장" title="wikilink">김과장</a>',<br />
 '설 특집 엄마의 소개팅' 등</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/전주리" title="wikilink">전주리</a> / 아나운서<br />
+<td><p><a href="../Page/전주리.md" title="wikilink">전주리</a> / 아나운서<br />
 <a href="https://ko.wikipedia.org/wiki/조항리" title="wikilink">조항리</a> / 아나운서</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2. <클로즈업 TV></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/시사기획_창" title="wikilink">시사기획 창</a> - 신년기획 2부작 마지막 진화</p></td>
+<td><p><a href="../Page/시사기획_창.md" title="wikilink">시사기획 창</a> - 신년기획 2부작 마지막 진화</p></td>
 <td><p>윤성옥 / 경기대학교 언론미디어학과 교수<br />
 이강환 / 서대문자연사박물관 관장<br />
-이소정 / KBS프로덕션2 시사데스크 기자 ㆍ&lt;<a href="https://ko.wikipedia.org/wiki/시사기획_창" title="wikilink">시사기획 창</a>&gt; 제작</p></td>
+이소정 / KBS프로덕션2 시사데스크 기자 ㆍ&lt;<a href="../Page/시사기획_창.md" title="wikilink">시사기획 창</a>&gt; 제작</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -275,10 +275,10 @@
 <td><p>712회</p></td>
 <td><p>2월 10일</p></td>
 <td><p>1. <시청자의 눈></p></td>
-<td><p>'월화드라마 <a href="https://ko.wikipedia.org/wiki/화랑" title="wikilink">화랑</a>',<br />
+<td><p>'월화드라마 <a href="../Page/화랑.md" title="wikilink">화랑</a>',<br />
 '설 특집 신드롬맨',<br />
 '<a href="https://ko.wikipedia.org/wiki/미제사건_전담반_끝까지_간다" title="wikilink">미제사건 전담반 끝까지 간다</a>' 등</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/전주리" title="wikilink">전주리</a> / 아나운서<br />
+<td><p><a href="../Page/전주리.md" title="wikilink">전주리</a> / 아나운서<br />
 <a href="https://ko.wikipedia.org/wiki/조항리" title="wikilink">조항리</a> / 아나운서</p></td>
 <td></td>
 <td></td>
@@ -356,7 +356,7 @@
 <td><p>'<a href="https://ko.wikipedia.org/wiki/하숙집_딸들" title="wikilink">하숙집 딸들</a>',<br />
 '주말드라마 <a href="https://ko.wikipedia.org/wiki/월계수_양복점_신사들" title="wikilink">월계수 양복점 신사들</a>',<br />
 '책번개'</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/전주리" title="wikilink">전주리</a> / 아나운서<br />
+<td><p><a href="../Page/전주리.md" title="wikilink">전주리</a> / 아나운서<br />
 <a href="../Page/강승화.md" title="wikilink">강승화</a> / 아나운서</p></td>
 <td></td>
 <td></td>
@@ -372,7 +372,7 @@
 </tr>
 <tr class="odd">
 <td><p>3. <제작 현장 속으로></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/누가누가_잘하나" title="wikilink">누가누가 잘하나</a></p></td>
+<td><p><a href="../Page/누가누가_잘하나.md" title="wikilink">누가누가 잘하나</a></p></td>
 <td><p>유미경 / 주부</p></td>
 <td></td>
 <td></td>
@@ -394,7 +394,7 @@
 <td><p>1. <시청자의 눈></p></td>
 <td><p>'주말드라마 <a href="https://ko.wikipedia.org/wiki/월계수_양복점_신사들" title="wikilink">월계수 양복점 신사들</a>',<br />
 '<a href="https://ko.wikipedia.org/wiki/미제사건_전담반_끝까지_간다" title="wikilink">미제사건 전담반 끝까지 간다</a>' 등</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/전주리" title="wikilink">전주리</a> / 아나운서<br />
+<td><p><a href="../Page/전주리.md" title="wikilink">전주리</a> / 아나운서<br />
 <a href="https://ko.wikipedia.org/wiki/조항리" title="wikilink">조항리</a> / 아나운서</p></td>
 <td></td>
 <td></td>
@@ -435,7 +435,7 @@
 <td><p>1. <시청자의 눈></p></td>
 <td><p>'주말연속극 <a href="https://ko.wikipedia.org/wiki/아버지가_이상해" title="wikilink">아버지가 이상해</a>',<br />
 '<a href="https://ko.wikipedia.org/wiki/해피선데이" title="wikilink">해피선데이</a> <a href="../Page/슈퍼맨이_돌아왔다.md" title="wikilink">슈퍼맨이 돌아왔다</a>' 등</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/전주리" title="wikilink">전주리</a> / 아나운서<br />
+<td><p><a href="../Page/전주리.md" title="wikilink">전주리</a> / 아나운서<br />
 <a href="https://ko.wikipedia.org/wiki/조항리" title="wikilink">조항리</a> / 아나운서</p></td>
 <td></td>
 <td></td>
@@ -513,8 +513,8 @@
 <td><p>1. <시청자의 눈></p></td>
 <td><p>'<a href="https://ko.wikipedia.org/wiki/불후의_명곡_전설을_노래하다" title="wikilink">불후의 명곡 전설을 노래하다</a>',<br />
 '자랑방 손님',<br />
-'<a href="https://ko.wikipedia.org/wiki/독립영화관" title="wikilink">독립영화관</a>'</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/전주리" title="wikilink">전주리</a> / 아나운서<br />
+'<a href="../Page/독립영화관.md" title="wikilink">독립영화관</a>'</p></td>
+<td><p><a href="../Page/전주리.md" title="wikilink">전주리</a> / 아나운서<br />
 <a href="https://ko.wikipedia.org/wiki/조항리" title="wikilink">조항리</a> / 아나운서</p></td>
 <td></td>
 <td></td>
@@ -551,9 +551,9 @@
 <td><p>3월 31일</p></td>
 <td><p>1. <시청자의 눈></p></td>
 <td><p>'<a href="../Page/천상의_컬렉션.md" title="wikilink">천상의 컬렉션</a>',<br />
-'<a href="https://ko.wikipedia.org/wiki/해피선데이" title="wikilink">해피선데이</a> <a href="https://ko.wikipedia.org/wiki/1박_2일" title="wikilink">1박 2일</a>',<br />
+'<a href="https://ko.wikipedia.org/wiki/해피선데이" title="wikilink">해피선데이</a> <a href="../Page/1박_2일.md" title="wikilink">1박 2일</a>',<br />
 '<a href="../Page/살림하는_남자들.md" title="wikilink">살림하는 남자들</a>' 등</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/전주리" title="wikilink">전주리</a> / 아나운서<br />
+<td><p><a href="../Page/전주리.md" title="wikilink">전주리</a> / 아나운서<br />
 <a href="../Page/김선근.md" title="wikilink">김선근</a> / 아나운서</p></td>
 <td></td>
 <td></td>
@@ -593,7 +593,7 @@
 <td><p>'대국민 여론탐사 정신 이슈',<br />
 '<a href="https://ko.wikipedia.org/wiki/하숙집_딸들" title="wikilink">하숙집 딸들</a>',<br />
 '독한 일꾼들' 등</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/전주리" title="wikilink">전주리</a> / 아나운서<br />
+<td><p><a href="../Page/전주리.md" title="wikilink">전주리</a> / 아나운서<br />
 <a href="https://ko.wikipedia.org/wiki/조항리" title="wikilink">조항리</a> / 아나운서</p></td>
 <td></td>
 <td></td>
@@ -610,7 +610,7 @@
 </tr>
 <tr class="odd">
 <td><p>3. <제작 현장 속으로></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/여유만만" title="wikilink">여유만만</a></p></td>
+<td><p><a href="../Page/여유만만.md" title="wikilink">여유만만</a></p></td>
 <td><p>양페이 / 중국인, 경희대학교 테크노경영대학원 글로벌경영학과 재학</p></td>
 <td></td>
 <td></td>
@@ -632,8 +632,8 @@
 <td><p>1. <시청자의 눈></p></td>
 <td><p>'수목드라마 <a href="../Page/추리의_여왕.md" title="wikilink">추리의 여왕</a>',<br />
 '트루밥쇼',<br />
-'<a href="https://ko.wikipedia.org/wiki/생로병사의_비밀" title="wikilink">생로병사의 비밀</a>' 등</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/전주리" title="wikilink">전주리</a> / 아나운서<br />
+'<a href="../Page/생로병사의_비밀.md" title="wikilink">생로병사의 비밀</a>' 등</p></td>
+<td><p><a href="../Page/전주리.md" title="wikilink">전주리</a> / 아나운서<br />
 <a href="https://ko.wikipedia.org/wiki/조항리" title="wikilink">조항리</a> / 아나운서</p></td>
 <td></td>
 <td></td>
@@ -660,7 +660,7 @@
 </tr>
 <tr class="even">
 <td><p>4. <TV를 말한다></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/시사기획_창" title="wikilink">시사기획 창</a> - 취업만리</p></td>
+<td><p><a href="../Page/시사기획_창.md" title="wikilink">시사기획 창</a> - 취업만리</p></td>
 <td><p>이범준 평가원</p></td>
 <td></td>
 <td></td>
@@ -711,7 +711,7 @@
 <td><p>'속보이는TV 인사이드',<br />
 '<a href="../Page/다시,_첫사랑.md" title="wikilink">다시, 첫사랑</a>',<br />
 '장애 이해 드라마 비바앙상블'</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/전주리" title="wikilink">전주리</a> / 아나운서<br />
+<td><p><a href="../Page/전주리.md" title="wikilink">전주리</a> / 아나운서<br />
 <a href="https://ko.wikipedia.org/wiki/조항리" title="wikilink">조항리</a> / 아나운서</p></td>
 <td></td>
 <td></td>
@@ -750,7 +750,7 @@
 <td><p>'주말연속극 <a href="https://ko.wikipedia.org/wiki/아버지가_이상해" title="wikilink">아버지가 이상해</a>',<br />
 '<a href="https://ko.wikipedia.org/wiki/하숙집_딸들" title="wikilink">하숙집 딸들</a>',<br />
 '<a href="../Page/명견만리.md" title="wikilink">명견만리</a>' 등</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/전주리" title="wikilink">전주리</a> / 아나운서<br />
+<td><p><a href="../Page/전주리.md" title="wikilink">전주리</a> / 아나운서<br />
 <a href="https://ko.wikipedia.org/wiki/조항리" title="wikilink">조항리</a> / 아나운서</p></td>
 <td></td>
 <td></td>
@@ -869,7 +869,7 @@
 <td><p>'<a href="https://ko.wikipedia.org/wiki/노래싸움_승부" title="wikilink">노래싸움 승부</a>',<br />
 '<a href="../Page/구석구석_대한민국_행복한_지도.md" title="wikilink">구석구석 대한민국 행복한 지도</a>',<br />
 '이미자 빅쇼'</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/전주리" title="wikilink">전주리</a> / 아나운서<br />
+<td><p><a href="../Page/전주리.md" title="wikilink">전주리</a> / 아나운서<br />
 <a href="https://ko.wikipedia.org/wiki/조항리" title="wikilink">조항리</a> / 아나운서</p></td>
 <td></td>
 <td></td>
@@ -885,7 +885,7 @@
 </tr>
 <tr class="odd">
 <td><p>3. <제작 현장 속으로></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유희열의_스케치북" title="wikilink">유희열의 스케치북</a></p></td>
+<td><p><a href="../Page/유희열의_스케치북.md" title="wikilink">유희열의 스케치북</a></p></td>
 <td><p>정윤우 / 뉴욕대학교 미디어컬쳐커뮤니케이션학과 3학년</p></td>
 <td></td>
 <td></td>
@@ -908,7 +908,7 @@
 <td><p>'월화드라마 <a href="https://ko.wikipedia.org/wiki/쌈,_마이웨이" title="wikilink">쌈, 마이웨이</a>',<br />
 '장사의 신',<br />
 '<a href="https://ko.wikipedia.org/wiki/언니들의_슬램덩크" title="wikilink">언니들의 슬램덩크</a> 시즌2' 등</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/전주리" title="wikilink">전주리</a> / 아나운서<br />
+<td><p><a href="../Page/전주리.md" title="wikilink">전주리</a> / 아나운서<br />
 <a href="https://ko.wikipedia.org/wiki/조항리" title="wikilink">조항리</a> / 아나운서</p></td>
 <td></td>
 <td></td>
@@ -948,7 +948,7 @@
 <td><p>'금토드라마 <a href="../Page/최고의_한방.md" title="wikilink">최고의 한방</a>',<br />
 '<a href="../Page/서가식당.md" title="wikilink">서가식당</a>',<br />
 '저녁일일극 <a href="https://ko.wikipedia.org/wiki/무궁화_꽃이_피었습니다" title="wikilink">무궁화 꽃이 피었습니다</a>' 등</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/전주리" title="wikilink">전주리</a> / 아나운서<br />
+<td><p><a href="../Page/전주리.md" title="wikilink">전주리</a> / 아나운서<br />
 <a href="https://ko.wikipedia.org/wiki/조항리" title="wikilink">조항리</a> / 아나운서</p></td>
 <td></td>
 <td></td>
@@ -991,10 +991,10 @@
 </tr>
 <tr class="even">
 <td><p>2. <클로즈업 TV></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뮤직뱅크" title="wikilink">뮤직뱅크</a></p></td>
+<td><p><a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a></p></td>
 <td><p>강명석 / 대중문화평론가 ㆍ웹메거진 아이즈 편집장<br />
 이종임 / 성균관대학교 문화융합대학원 겸임교수<br />
-원승연 / KBS TV프로덕션8 ㆍ&lt;<a href="https://ko.wikipedia.org/wiki/뮤직뱅크" title="wikilink">뮤직뱅크</a>&gt; PD</p></td>
+원승연 / KBS TV프로덕션8 ㆍ&lt;<a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a>&gt; PD</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1024,7 +1024,7 @@
 <td><p>1. <시청자의 눈></p></td>
 <td><p>'<a href="../Page/냄비받침.md" title="wikilink">냄비받침</a>',<br />
 '<a href="../Page/월요기획.md" title="wikilink">월요기획</a>',<br />
-'<a href="https://ko.wikipedia.org/wiki/1박_2일" title="wikilink">1박 2일</a> 시즌3'</p></td>
+'<a href="../Page/1박_2일.md" title="wikilink">1박 2일</a> 시즌3'</p></td>
 <td><p><a href="../Page/강서은.md" title="wikilink">강서은</a> / 아나운서<br />
 <a href="https://ko.wikipedia.org/wiki/조항리" title="wikilink">조항리</a> / 아나운서</p></td>
 <td></td>
@@ -1071,9 +1071,9 @@
 </tr>
 <tr class="even">
 <td><p>2. <클로즈업 TV></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/걸어서_세계속으로" title="wikilink">걸어서 세계속으로</a> UHD 특집 10부작 걸어서 세계 한바퀴</p></td>
+<td><p><a href="../Page/걸어서_세계속으로.md" title="wikilink">걸어서 세계속으로</a> UHD 특집 10부작 걸어서 세계 한바퀴</p></td>
 <td><p>정용국 / 동국대학교 신문방송학과 교수<br />
-김가람 / &lt;<a href="https://ko.wikipedia.org/wiki/걸어서_세계속으로" title="wikilink">걸어서 세계속으로</a>&gt; PD</p></td>
+김가람 / &lt;<a href="../Page/걸어서_세계속으로.md" title="wikilink">걸어서 세계속으로</a>&gt; PD</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1081,7 +1081,7 @@
 </tr>
 <tr class="odd">
 <td><p>3. <제작 현장 속으로></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/열린음악회" title="wikilink">열린음악회</a></p></td>
+<td><p><a href="../Page/열린음악회.md" title="wikilink">열린음악회</a></p></td>
 <td><p>오승아 / 서울여자대학교 방송영상학과</p></td>
 <td></td>
 <td></td>
@@ -1102,7 +1102,7 @@
 <td><p>7월 7일</p></td>
 <td><p>1. <시청자의 눈></p></td>
 <td><p>'저녁일일극 <a href="https://ko.wikipedia.org/wiki/무궁화_꽃이_피었습니다" title="wikilink">무궁화 꽃이 피었습니다</a>',<br />
-'<a href="https://ko.wikipedia.org/wiki/뮤직뱅크" title="wikilink">뮤직뱅크</a>',<br />
+'<a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a>',<br />
 '<a href="https://ko.wikipedia.org/wiki/VJ_특공대" title="wikilink">VJ 특공대</a>' 등</p></td>
 <td><p><a href="../Page/강서은.md" title="wikilink">강서은</a> / 아나운서<br />
 <a href="https://ko.wikipedia.org/wiki/조항리" title="wikilink">조항리</a> / 아나운서</p></td>
@@ -1143,7 +1143,7 @@
 <td><p>7월 14일</p></td>
 <td><p>1. <시청자의 눈></p></td>
 <td><p>'<a href="https://ko.wikipedia.org/wiki/해피투게더_3" title="wikilink">해피투게더 3</a>',<br />
-'<a href="https://ko.wikipedia.org/wiki/시사기획_창" title="wikilink">시사기획 창</a>',<br />
+'<a href="../Page/시사기획_창.md" title="wikilink">시사기획 창</a>',<br />
 '<a href="../Page/타오르지마_버스터.md" title="wikilink">타오르지마 버스터</a>' 등</p></td>
 <td><p><a href="../Page/강서은.md" title="wikilink">강서은</a> / 아나운서<br />
 <a href="https://ko.wikipedia.org/wiki/조항리" title="wikilink">조항리</a> / 아나운서</p></td>
@@ -1318,7 +1318,7 @@
 </tr>
 <tr class="odd">
 <td><p>3. <제작 현장 속으로></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/영화가_좋다" title="wikilink">영화가 좋다</a></p></td>
+<td><p><a href="../Page/영화가_좋다.md" title="wikilink">영화가 좋다</a></p></td>
 <td><p>이수빈 / 한국외국어대학교 지식콘텐츠학부 1학년</p></td>
 <td></td>
 <td></td>
@@ -1327,7 +1327,7 @@
 </tr>
 <tr class="even">
 <td><p>4. <TV를 말한다></p></td>
-<td><p>'<a href="https://ko.wikipedia.org/wiki/시사기획_창" title="wikilink">시사기획 창</a> - "아가야, 미안해" 그 후'</p></td>
+<td><p>'<a href="../Page/시사기획_창.md" title="wikilink">시사기획 창</a> - "아가야, 미안해" 그 후'</p></td>
 <td><p>이숙환 평가원</p></td>
 <td></td>
 <td></td>
@@ -1418,7 +1418,7 @@
 <td><p>1. <시청자의 눈></p></td>
 <td><p>'친절의 신',<br />
 '주말드라마 <a href="https://ko.wikipedia.org/wiki/아버지가_이상해" title="wikilink">아버지가 이상해</a>',<br />
-'<a href="https://ko.wikipedia.org/wiki/KBS_스페셜" title="wikilink">KBS 스페셜</a> - 전쟁과 여성' 등</p></td>
+'<a href="../Page/KBS_스페셜.md" title="wikilink">KBS 스페셜</a> - 전쟁과 여성' 등</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/김지원" title="wikilink">김지원</a> / 아나운서<br />
 <a href="https://ko.wikipedia.org/wiki/조항리" title="wikilink">조항리</a> / 아나운서</p></td>
 <td></td>
@@ -1574,7 +1574,7 @@
 <td><p>1. <시청자의 눈></p></td>
 <td><p>'저녁일일드라마 <a href="../Page/내_남자의_비밀.md" title="wikilink">내 남자의 비밀</a>',<br />
 '금토드라마 <a href="../Page/최강_배달꾼.md" title="wikilink">최강 배달꾼</a>',<br />
-'<a href="https://ko.wikipedia.org/wiki/뮤직뱅크" title="wikilink">뮤직뱅크</a>' 등</p></td>
+'<a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a>' 등</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1652,7 +1652,7 @@
 <td><p>1. <시청자의 눈></p></td>
 <td><p>'<a href="../Page/1%의_우정.md" title="wikilink">1%의 우정</a>',<br />
 '<a href="https://ko.wikipedia.org/wiki/발레교습소_백조클럽" title="wikilink">발레교습소 백조클럽</a>',<br />
-'<a href="https://ko.wikipedia.org/wiki/건반_위의_하이에나" title="wikilink">건반 위의 하이에나</a>' 등</p></td>
+'<a href="../Page/건반_위의_하이에나.md" title="wikilink">건반 위의 하이에나</a>' 등</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1766,7 +1766,7 @@
 <td><p>1. <시청자의 눈></p></td>
 <td><p>'<a href="../Page/아이돌_리부팅_프로젝트_더_유닛.md" title="wikilink">아이돌 리부팅 프로젝트 더 유닛</a>',<br />
 '금토드라마 <a href="../Page/고백부부.md" title="wikilink">고백부부</a>',<br />
-'<a href="https://ko.wikipedia.org/wiki/시사기획_창" title="wikilink">시사기획 창</a>' 등</p></td>
+'<a href="../Page/시사기획_창.md" title="wikilink">시사기획 창</a>' 등</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1792,7 +1792,7 @@
 </tr>
 <tr class="even">
 <td><p>4. <TV를 말한다></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/무엇이든_물어보세요" title="wikilink">무엇이든 물어보세요</a></p></td>
+<td><p><a href="../Page/무엇이든_물어보세요.md" title="wikilink">무엇이든 물어보세요</a></p></td>
 <td><p>이숙환 평가원</p></td>
 <td></td>
 <td></td>
@@ -1805,7 +1805,7 @@
 <td><p>1. <시청자의 눈></p></td>
 <td><p>'한국-베트남 수교 25주년 우정슈퍼쇼',<br />
 '평창동계올림픽 G-100 특별생방송 하나 된 열정, 이제는 평창',<br />
-'<a href="https://ko.wikipedia.org/wiki/해피선데이" title="wikilink">해피선데이</a> <a href="https://ko.wikipedia.org/wiki/1박_2일" title="wikilink">1박 2일</a>' 등</p></td>
+'<a href="https://ko.wikipedia.org/wiki/해피선데이" title="wikilink">해피선데이</a> <a href="../Page/1박_2일.md" title="wikilink">1박 2일</a>' 등</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1883,7 +1883,7 @@
 <td><p>1. <시청자의 눈></p></td>
 <td><p>'예능드라마 <a href="../Page/고백부부.md" title="wikilink">고백부부</a>',<br />
 '<a href="../Page/건강혁명.md" title="wikilink">건강혁명</a>',<br />
-'<a href="https://ko.wikipedia.org/wiki/열린음악회" title="wikilink">열린음악회</a>'</p></td>
+'<a href="../Page/열린음악회.md" title="wikilink">열린음악회</a>'</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1899,7 +1899,7 @@
 </tr>
 <tr class="odd">
 <td><p>3. &lt;어떻게 생각하세요?&gt;</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/무엇이든_물어보세요" title="wikilink">무엇이든 물어보세요</a></p></td>
+<td><p><a href="../Page/무엇이든_물어보세요.md" title="wikilink">무엇이든 물어보세요</a></p></td>
 <td><p>김중곤, 유하연, 김연서, 김현진 / 세종대학교 신문방송학과 소모임 필통</p></td>
 <td></td>
 <td></td>
@@ -1938,7 +1938,7 @@
 </tr>
 <tr class="odd">
 <td><p>3. &lt;어떻게 생각하세요?&gt;</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/하룻밤만_재워줘" title="wikilink">하룻밤만 재워줘</a></p></td>
+<td><p><a href="../Page/하룻밤만_재워줘.md" title="wikilink">하룻밤만 재워줘</a></p></td>
 <td><p>권희지,최다함,김정진,전봄 / <a href="https://ko.wikipedia.org/wiki/서강대학교" title="wikilink">서강대학교</a> 신문방송학과</p></td>
 <td></td>
 <td></td>
@@ -1979,7 +1979,7 @@
 <td><p>3. &lt;어떻게 생각하세요?&gt;</p></td>
 <td><p>주말연속극 <a href="https://ko.wikipedia.org/wiki/황금빛_내_인생" title="wikilink">황금빛 내 인생</a></p></td>
 <td><p>민경천 / <a href="https://ko.wikipedia.org/wiki/연세대학교" title="wikilink">연세대학교</a> 정치외교학과<br />
-곽경남 / <a href="https://ko.wikipedia.org/wiki/상명대학교" title="wikilink">상명대학교</a> 사범대학 교육학과<br />
+곽경남 / <a href="../Page/상명대학교.md" title="wikilink">상명대학교</a> 사범대학 교육학과<br />
 우수빈 / 독서토론 동아리 사암<br />
 김윤호 / 독서토론 동아리 사암</p></td>
 <td></td>
@@ -2008,7 +2008,7 @@
 <tr class="even">
 <td><p>2. <클로즈업 TV></p></td>
 <td><p>월화드라마 <a href="../Page/마녀의_법정.md" title="wikilink">마녀의 법정</a></p></td>
-<td><p>배진아 / <a href="https://ko.wikipedia.org/wiki/공주대학교" title="wikilink">공주대학교</a> 영상학과 교수<br />
+<td><p>배진아 / <a href="../Page/공주대학교.md" title="wikilink">공주대학교</a> 영상학과 교수<br />
 김헌식 / 대중문화평론가</p></td>
 <td></td>
 <td></td>
@@ -2048,7 +2048,7 @@
 <td><p>2. <클로즈업 TV></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/발레교습소_백조클럽" title="wikilink">발레교습소 백조클럽</a></p></td>
 <td><p>정덕현 / 대중문화평론가<br />
-최은경 / <a href="https://ko.wikipedia.org/wiki/성공회대학교" title="wikilink">성공회대학교</a> 신문방송학과 교수</p></td>
+최은경 / <a href="../Page/성공회대학교.md" title="wikilink">성공회대학교</a> 신문방송학과 교수</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2093,7 +2093,7 @@
 <tr class="odd">
 <td><p>2. <클로즈업 TV></p></td>
 <td><p>‘KBS 시청자위원회 12 정례회의'</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/박태원_(아나운서)" title="wikilink">박태원</a> / 아나운서</p></td>
+<td><p><a href="../Page/박태원_(아나운서).md" title="wikilink">박태원</a> / 아나운서</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2101,7 +2101,7 @@
 </tr>
 <tr class="even">
 <td><p>3. <TV를 말한다></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/한국인의_밥상" title="wikilink">한국인의 밥상</a></p></td>
+<td><p><a href="../Page/한국인의_밥상.md" title="wikilink">한국인의 밥상</a></p></td>
 <td><p>이숙환 평가원</p></td>
 <td></td>
 <td></td>
@@ -2142,8 +2142,8 @@
 <td><p>759회(신년특집)</p></td>
 <td><p>1월 5일</p></td>
 <td><p>1. <시청자의 눈></p></td>
-<td><p>'2017 <a href="https://ko.wikipedia.org/wiki/KBS_가요대축제" title="wikilink">KBS 가요대축제</a>',<br />
-'2017 <a href="https://ko.wikipedia.org/wiki/KBS_연기대상" title="wikilink">KBS 연기대상</a>',<br />
+<td><p>'2017 <a href="../Page/KBS_가요대축제.md" title="wikilink">KBS 가요대축제</a>',<br />
+'2017 <a href="../Page/KBS_연기대상.md" title="wikilink">KBS 연기대상</a>',<br />
 '특별생방송 가는 해 오는 해' 등</p></td>
 <td></td>
 <td><p>58:27</p></td>
@@ -2161,7 +2161,7 @@
 </tr>
 <tr class="odd">
 <td><p>3. &lt;어떻게 생각하세요?&gt;</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/대국민_토크쇼_안녕하세요" title="wikilink">대국민 토크쇼 안녕하세요</a></p></td>
+<td><p><a href="../Page/대국민_토크쇼_안녕하세요.md" title="wikilink">대국민 토크쇼 안녕하세요</a></p></td>
 <td><p>강유진,김수화,박진수,박상욱 / <a href="https://ko.wikipedia.org/wiki/서울대학교" title="wikilink">서울대학교</a> 사회과학대학</p></td>
 <td></td>
 <td></td>
@@ -2275,7 +2275,7 @@
 </tr>
 <tr class="odd">
 <td><p>3. &lt;어떻게 생각하세요?&gt;</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/무엇이든_물어보세요" title="wikilink">무엇이든 물어보세요</a></p></td>
+<td><p><a href="../Page/무엇이든_물어보세요.md" title="wikilink">무엇이든 물어보세요</a></p></td>
 <td><p>박성수,한박소연,김기혁,이동환 / <a href="https://ko.wikipedia.org/wiki/고려대학교" title="wikilink">고려대학교</a> 토론동아리 코기토</p></td>
 <td></td>
 <td></td>
@@ -2381,7 +2381,7 @@
 <tr class="even">
 <td><p>2. <클로즈업 TV></p></td>
 <td><p>주말드라마 <a href="https://ko.wikipedia.org/wiki/황금빛_내_인생" title="wikilink">황금빛 내 인생</a></p></td>
-<td><p>윤석진 / <a href="https://ko.wikipedia.org/wiki/충북대학교" title="wikilink">충북대학교</a> 국어국문학과 교수<br />
+<td><p>윤석진 / <a href="../Page/충북대학교.md" title="wikilink">충북대학교</a> 국어국문학과 교수<br />
 김원 / 드라마 평</p></td>
 <td></td>
 <td></td>
@@ -2451,9 +2451,9 @@
 <td><p>767회</p></td>
 <td><p>3월 2일</p></td>
 <td><p>1. <시청자의 눈></p></td>
-<td><p>'<a href="https://ko.wikipedia.org/wiki/해피선데이" title="wikilink">해피선데이</a> <a href="https://ko.wikipedia.org/wiki/1박_2일" title="wikilink">1박 2일</a>',<br />
-'<a href="https://ko.wikipedia.org/wiki/시사기획_창" title="wikilink">시사기획 창</a>',<br />
-'<a href="https://ko.wikipedia.org/wiki/한국인의_밥상" title="wikilink">한국인의 밥상</a>'</p></td>
+<td><p>'<a href="https://ko.wikipedia.org/wiki/해피선데이" title="wikilink">해피선데이</a> <a href="../Page/1박_2일.md" title="wikilink">1박 2일</a>',<br />
+'<a href="../Page/시사기획_창.md" title="wikilink">시사기획 창</a>',<br />
+'<a href="../Page/한국인의_밥상.md" title="wikilink">한국인의 밥상</a>'</p></td>
 <td><p><a href="../Page/강서은.md" title="wikilink">강서은</a> / 아나운서<br />
 <a href="https://ko.wikipedia.org/wiki/조항리" title="wikilink">조항리</a> / 아나운서</p></td>
 <td><p>:</p></td>
@@ -2490,8 +2490,8 @@
 <td><p>768회</p></td>
 <td><p>3월 9일</p></td>
 <td><p>1. <시청자의 눈></p></td>
-<td><p>'저녁 일일드라마 <a href="https://ko.wikipedia.org/wiki/인형의_집" title="wikilink">인형의 집</a>',<br />
-'<a href="https://ko.wikipedia.org/wiki/하룻밤만_재워줘" title="wikilink">하룻밤만 재워줘</a>',<br />
+<td><p>'저녁 일일드라마 <a href="../Page/인형의_집.md" title="wikilink">인형의 집</a>',<br />
+'<a href="../Page/하룻밤만_재워줘.md" title="wikilink">하룻밤만 재워줘</a>',<br />
 '<a href="../Page/1%의_우정.md" title="wikilink">1%의 우정</a>'</p></td>
 <td><p><a href="../Page/강서은.md" title="wikilink">강서은</a> / 아나운서<br />
 <a href="https://ko.wikipedia.org/wiki/조항리" title="wikilink">조항리</a> / 아나운서</p></td>
@@ -2510,7 +2510,7 @@
 </tr>
 <tr class="odd">
 <td><p>3. <제작 현장 속으로></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/콘서트_7080" title="wikilink">콘서트 7080</a></p></td>
+<td><p><a href="../Page/콘서트_7080.md" title="wikilink">콘서트 7080</a></p></td>
 <td><p>박소영 / 취업준비생</p></td>
 <td></td>
 <td></td>
@@ -2569,7 +2569,7 @@
 <td><p>1. <시청자의 눈></p></td>
 <td><p>'<a href="https://ko.wikipedia.org/wiki/해피선데이" title="wikilink">해피선데이</a> <a href="../Page/슈퍼맨이_돌아왔다.md" title="wikilink">슈퍼맨이 돌아왔다</a>',<br />
 '주말드라마 <a href="https://ko.wikipedia.org/wiki/같이_살래요" title="wikilink">같이 살래요</a>',<br />
-'공사창립특집 <a href="https://ko.wikipedia.org/wiki/KBS_스페셜" title="wikilink">KBS 스페셜</a> 가야'</p></td>
+'공사창립특집 <a href="../Page/KBS_스페셜.md" title="wikilink">KBS 스페셜</a> 가야'</p></td>
 <td><p><a href="../Page/강서은.md" title="wikilink">강서은</a> / 아나운서<br />
 <a href="https://ko.wikipedia.org/wiki/조항리" title="wikilink">조항리</a> / 아나운서</p></td>
 <td><p>:</p></td>
@@ -2598,7 +2598,7 @@
 <td><p>3월 30일</p></td>
 <td><p>1. <시청자의 눈></p></td>
 <td><p>'<a href="https://ko.wikipedia.org/wiki/배틀_트립" title="wikilink">배틀 트립</a>',<br />
-'<a href="https://ko.wikipedia.org/wiki/하룻밤만_재워줘" title="wikilink">하룻밤만 재워줘</a>',<br />
+'<a href="../Page/하룻밤만_재워줘.md" title="wikilink">하룻밤만 재워줘</a>',<br />
 '<a href="../Page/김생민의_영수증.md" title="wikilink">김생민의 영수증</a> 시즌2'</p></td>
 <td><p><a href="../Page/강서은.md" title="wikilink">강서은</a> / 아나운서<br />
 <a href="https://ko.wikipedia.org/wiki/조항리" title="wikilink">조항리</a> / 아나운서</p></td>
@@ -2637,7 +2637,7 @@
 <td><p>772회</p></td>
 <td><p>4월 6일</p></td>
 <td><p>1. <시청자의 눈></p></td>
-<td><p>'<a href="https://ko.wikipedia.org/wiki/시사기획_창" title="wikilink">시사기획 창</a>',<br />
+<td><p>'<a href="../Page/시사기획_창.md" title="wikilink">시사기획 창</a>',<br />
 '<a href="https://ko.wikipedia.org/wiki/박원숙의_같이_삽시다" title="wikilink">박원숙의 같이 삽시다</a>',<br />
 '특집다큐 우리가 태어난 곳'</p></td>
 <td><p><a href="../Page/강서은.md" title="wikilink">강서은</a> / 아나운서<br />
@@ -2666,7 +2666,7 @@
 </tr>
 <tr class="odd">
 <td><p>4. <TV를 말한다></p></td>
-<td><p>'<a href="https://ko.wikipedia.org/wiki/하룻밤만_재워줘" title="wikilink">하룻밤만 재워줘</a>'</p></td>
+<td><p>'<a href="../Page/하룻밤만_재워줘.md" title="wikilink">하룻밤만 재워줘</a>'</p></td>
 <td><p>진민정 평가원</p></td>
 <td></td>
 <td></td>
@@ -2706,7 +2706,7 @@
 </tr>
 <tr class="odd">
 <td><p>4. <TV를 말한다></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/똑똑한_소비자_리포트" title="wikilink">똑똑한 소비자 리포트</a></p></td>
+<td><p><a href="../Page/똑똑한_소비자_리포트.md" title="wikilink">똑똑한 소비자 리포트</a></p></td>
 <td><p>이범준 평가원</p></td>
 <td></td>
 <td></td>
@@ -2724,7 +2724,7 @@
 </tr>
 <tr class="odd">
 <td><p>2. <클로즈업 TV></p></td>
-<td><p>'<a href="https://ko.wikipedia.org/wiki/하룻밤만_재워줘" title="wikilink">하룻밤만 재워줘</a>'</p></td>
+<td><p>'<a href="../Page/하룻밤만_재워줘.md" title="wikilink">하룻밤만 재워줘</a>'</p></td>
 <td><p>최은경 / 성공회대학교 신문방송학과 교수<br />
 김헌식 / 대중문화평론가</p></td>
 <td></td>
@@ -2744,7 +2744,7 @@
 </tr>
 <tr class="odd">
 <td><p>4. <TV를 말한다></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/TV쇼_진품명품" title="wikilink">TV쇼 진품명품</a></p></td>
+<td><p><a href="../Page/TV쇼_진품명품.md" title="wikilink">TV쇼 진품명품</a></p></td>
 <td><p>이숙환 평가원</p></td>
 <td></td>
 <td></td>
@@ -2795,8 +2795,8 @@
 <td><p>776회</p></td>
 <td><p>5월 4일</p></td>
 <td><p>1. <시청자의 눈></p></td>
-<td><p>'수목드라마 <a href="https://ko.wikipedia.org/wiki/슈츠" title="wikilink">슈츠</a>',<br />
-'<a href="https://ko.wikipedia.org/wiki/시사기획_창" title="wikilink">시사기획 창</a>',<br />
+<td><p>'수목드라마 <a href="../Page/슈츠.md" title="wikilink">슈츠</a>',<br />
+'<a href="../Page/시사기획_창.md" title="wikilink">시사기획 창</a>',<br />
 'KBS 뉴스특보 2018 남북정상회담'</p></td>
 <td><p><a href="../Page/강서은.md" title="wikilink">강서은</a> / 아나운서<br />
 <a href="https://ko.wikipedia.org/wiki/조항리" title="wikilink">조항리</a> / 아나운서</p></td>
@@ -2887,8 +2887,8 @@
 
 [분류:대한민국의 텔레비전 에피소드 목록](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_에피소드_목록 "wikilink")
 
-1.  [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [1월 22일](https://ko.wikipedia.org/wiki/1월_22일 "wikilink") 757회 방송분은 《평창동계올림픽 G-50 축하콘서트》의 방송 시간 2시 30분부터 4시까지 방송되어 특집 방송 편성 관계로 12월 22일 금요일 오후 2시부터 2시 30분의 《[열린채널](https://ko.wikipedia.org/wiki/열린채널 "wikilink")》 방송 관계로 1시부터 2시까지 1시간 동안 방송되어 방송 시간이 30분 앞당겨 변경되었다.
-2.  [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [2월 9일](https://ko.wikipedia.org/wiki/2월_9일 "wikilink") 764회 방송분은 [KBS 뉴스특보](../Page/KBS_뉴스특보.md "wikilink")<김여정 등 北 대표단 도착>가 1시 45분부터 방송되어 2시 30분부터 3시 30분까지 방송 시간이 변경되었다.
-3.  [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [2월 16일](https://ko.wikipedia.org/wiki/2월_16일 "wikilink") 방송될 예정이었으나 설 특집 편성 관계로 2월 14일 수요일 낮 12시 35분부터 1시 35분까지 방송 시간이 변경되었다.
+1.  [2017년](../Page/2017년.md "wikilink") [1월 22일](../Page/1월_22일.md "wikilink") 757회 방송분은 《평창동계올림픽 G-50 축하콘서트》의 방송 시간 2시 30분부터 4시까지 방송되어 특집 방송 편성 관계로 12월 22일 금요일 오후 2시부터 2시 30분의 《[열린채널](../Page/열린채널.md "wikilink")》 방송 관계로 1시부터 2시까지 1시간 동안 방송되어 방송 시간이 30분 앞당겨 변경되었다.
+2.  [2018년](../Page/2018년.md "wikilink") [2월 9일](../Page/2월_9일.md "wikilink") 764회 방송분은 [KBS 뉴스특보](../Page/KBS_뉴스특보.md "wikilink")<김여정 등 北 대표단 도착>가 1시 45분부터 방송되어 2시 30분부터 3시 30분까지 방송 시간이 변경되었다.
+3.  [2018년](../Page/2018년.md "wikilink") [2월 16일](../Page/2월_16일.md "wikilink") 방송될 예정이었으나 설 특집 편성 관계로 2월 14일 수요일 낮 12시 35분부터 1시 35분까지 방송 시간이 변경되었다.
 4.  2018년 3월 2일 767회 방송분은 낮 12시 30분부터 오후 1시 30분까지 방송되었다.
 5.  2018년 3월 9일 768회 방송분은 낮 12시 30분부터 오후 1시 30분까지 방송된다.

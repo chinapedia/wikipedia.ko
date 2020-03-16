@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ FC   ](https://ko.wikipedia.org/wiki/_FC___).
 
 
-[로드 FC에는](https://ko.wikipedia.org/wiki/로드_FC "wikilink") 많은 대한민국 선수들이 활동하고 있으며 일본, 브라질, 중국, 미국 등 다양한 국적의 국외 선수들이 활동하고 있다. 또한 글로벌화를 시작한 2015년 부터는 [UFC](https://ko.wikipedia.org/wiki/Ufc "wikilink"), [벨라토르 MMA](https://ko.wikipedia.org/wiki/벨라토르_MMA "wikilink") 등 유명 단체 출신 선수들과의 계약도 속속 체결하고 있다.
+[로드 FC에는](https://ko.wikipedia.org/wiki/로드_FC "wikilink") 많은 대한민국 선수들이 활동하고 있으며 일본, 브라질, 중국, 미국 등 다양한 국적의 국외 선수들이 활동하고 있다. 또한 글로벌화를 시작한 2015년 부터는 [UFC](https://ko.wikipedia.org/wiki/Ufc "wikilink"), [벨라토르 MMA](../Page/벨라토르_MMA.md "wikilink") 등 유명 단체 출신 선수들과의 계약도 속속 체결하고 있다.
 
 ## 챔피언
 
@@ -11,9 +11,9 @@
 
   - [차정환](https://ko.wikipedia.org/wiki/차정환 "wikilink") (미들급 4대 챔피언)
 
-  - [최영](https://ko.wikipedia.org/wiki/최영_\(종합격투기_선수\) "wikilink") (미들급 잠정 챔피언)
+  - [최영](../Page/최영_\(종합격투기_선수\).md "wikilink") (미들급 잠정 챔피언)
 
-  - [권아솔](https://ko.wikipedia.org/wiki/권아솔 "wikilink") (라이트급 2대 챔피언)
+  - [권아솔](../Page/권아솔.md "wikilink") (라이트급 2대 챔피언)
 
   - [최무겸](../Page/최무겸.md "wikilink") (페더급 초대 챔피언)
 
@@ -22,7 +22,7 @@
   - [함서희](https://ko.wikipedia.org/wiki/함서희 "wikilink") (여성 아톰급 초대 챔피언)
 
 파일:A Sol Kwon, Road FC 035 Lightweight Championship.jpg|로드 FC 라이트급
-[권아솔](https://ko.wikipedia.org/wiki/권아솔 "wikilink") 파일:Mighty Mo.jpg|로드 FC 무제한급
+[권아솔](../Page/권아솔.md "wikilink") 파일:Mighty Mo.jpg|로드 FC 무제한급
 [마이티 모](https://ko.wikipedia.org/wiki/마이티_모 "wikilink")
 
 ### 전 챔피언
@@ -35,20 +35,20 @@
 
   - [남의철](../Page/남의철.md "wikilink") (라이트급 초대 챔피언)
 
-  - [김수철](https://ko.wikipedia.org/wiki/김수철_\(종합격투기_선수\) "wikilink") (밴텀급 4대 챔피언)
+  - [김수철](../Page/김수철_\(종합격투기_선수\).md "wikilink") (밴텀급 4대 챔피언)
 
   - [이윤준](https://ko.wikipedia.org/wiki/이윤준 "wikilink") (밴텀급 3대 챔피언)
 
   - 이길우 (밴텀급 2대 챔피언)
 
-  - [강경호](https://ko.wikipedia.org/wiki/강경호_\(격투기_선수\) "wikilink") (밴텀급 초대 챔피언)
+  - [강경호](../Page/강경호_\(격투기_선수\).md "wikilink") (밴텀급 초대 챔피언)
 
   - [조남진](https://ko.wikipedia.org/wiki/조남진_\(종합격투기_선수\) "wikilink") (플라이급 초대 챔피언)
 
 
 
 파일:Soo Chul Kim.jpg|로드 FC 밴텀급
-[김수철](https://ko.wikipedia.org/wiki/김수철_\(종합격투기_선수\) "wikilink") 파일:Kang Kyung-Ho from acrofan.jpg|로드 FC 밴텀급
+[김수철](../Page/김수철_\(종합격투기_선수\).md "wikilink") 파일:Kang Kyung-Ho from acrofan.jpg|로드 FC 밴텀급
 강경호
 
 ## 한국인 선수
@@ -372,7 +372,7 @@
 
   - 난딘에르덴
 
-  - [데니스 강](https://ko.wikipedia.org/wiki/데니스_강 "wikilink")
+  - [데니스 강](../Page/데니스_강.md "wikilink")
 
   - 라파엘 피지에프
 
@@ -415,7 +415,7 @@
   - [로드 FC 챔피언 목록](https://ko.wikipedia.org/wiki/로드_FC_챔피언_목록 "wikilink")
   - [로드 FC 대회 목록](../Page/로드_FC_대회_목록.md "wikilink")
   - [현 로드 FC 선수 목록](../Page/현_로드_FC_선수_목록.md "wikilink")
-  - [로드 FC 기록 목록](https://ko.wikipedia.org/wiki/로드_FC_기록_목록 "wikilink")
+  - [로드 FC 기록 목록](../Page/로드_FC_기록_목록.md "wikilink")
   - [로드 FC 어워즈](../Page/로드_FC_어워즈.md "wikilink")
 
 ## 외부 링크

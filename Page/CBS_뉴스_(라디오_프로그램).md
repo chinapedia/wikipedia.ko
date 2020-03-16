@@ -19,8 +19,8 @@
   - [이봉규](https://ko.wikipedia.org/wiki/이봉규 "wikilink")
   - [박재홍](https://ko.wikipedia.org/wiki/박재홍 "wikilink")
   - [송정훈](https://ko.wikipedia.org/wiki/송정훈 "wikilink")
-  - [김덕기](https://ko.wikipedia.org/wiki/김덕기 "wikilink")
-  - [이강민](https://ko.wikipedia.org/wiki/이강민 "wikilink")
+  - [김덕기](../Page/김덕기.md "wikilink")
+  - [이강민](../Page/이강민.md "wikilink")
 
 #### 여자 아나운서
 
@@ -58,7 +58,7 @@
 
 ## 같이 보기
 
-  - [CBS](https://ko.wikipedia.org/wiki/CBS_\(대한민국의_방송사\) "wikilink")
-  - [CBS 표준FM](https://ko.wikipedia.org/wiki/CBS_표준FM "wikilink")
+  - [CBS](../Page/CBS_\(대한민국의_방송사\).md "wikilink")
+  - [CBS 표준FM](../Page/CBS_표준FM.md "wikilink")
 
 [분류:기독교방송의 뉴스 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:기독교방송의_뉴스_라디오_프로그램 "wikilink")

@@ -16,8 +16,8 @@
 
 ## 역대 진행자
 
-  - 1대: [이형걸](https://ko.wikipedia.org/wiki/이형걸 "wikilink")
-  - 2대: [김재원](https://ko.wikipedia.org/wiki/김재원_\(아나운서\) "wikilink")
+  - 1대: [이형걸](../Page/이형걸.md "wikilink")
+  - 2대: [김재원](../Page/김재원_\(아나운서\).md "wikilink")
 
 ## 외부 링크
 

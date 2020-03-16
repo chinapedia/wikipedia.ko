@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ EC \(\)](https://ko.wikipedia.org/wiki/_EC_\(\)).
 
 
-**상하이문두 이스포르치 클루비**() 또는 **상하이문두**는 [브라질](https://ko.wikipedia.org/wiki/브라질 "wikilink") [호라이마주](https://ko.wikipedia.org/wiki/호라이마주 "wikilink") [보아비스타를](https://ko.wikipedia.org/wiki/보아비스타_\(호라이마주\) "wikilink") 연고로 하는 축구 클럽이다. 연고지 호라이마 주의 약어를 따 **상하이문두-RR**이라고도 표기된다. [1963년](https://ko.wikipedia.org/wiki/1963년 "wikilink") [1월 3일](https://ko.wikipedia.org/wiki/1월_3일 "wikilink") 창단하였으며, 호라이마 주리그에서 8회 우승을 기록하며 세번째로 많은 우승을 차지하였다.
+**상하이문두 이스포르치 클루비**() 또는 **상하이문두**는 [브라질](../Page/브라질.md "wikilink") [호라이마주](https://ko.wikipedia.org/wiki/호라이마주 "wikilink") [보아비스타를](https://ko.wikipedia.org/wiki/보아비스타_\(호라이마주\) "wikilink") 연고로 하는 축구 클럽이다. 연고지 호라이마 주의 약어를 따 **상하이문두-RR**이라고도 표기된다. [1963년](../Page/1963년.md "wikilink") [1월 3일](../Page/1월_3일.md "wikilink") 창단하였으며, 호라이마 주리그에서 8회 우승을 기록하며 세번째로 많은 우승을 차지하였다.
 
 ## 수상
 

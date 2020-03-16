@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FIFA  ](https://ko.wikipedia.org/wiki/FIFA__).
 
 
-**FIFA 월드컵 참가국**은 [1930년 우루과이 월드컵부터](https://ko.wikipedia.org/wiki/1930년_FIFA_월드컵 "wikilink") 지금까지 모든 월드컵 본선에 진출한 팀들이다. 현재 [남미 팀](https://ko.wikipedia.org/wiki/남미_축구_연맹 "wikilink") 같은 경우에는 [베네수엘라가](https://ko.wikipedia.org/wiki/베네수엘라_축구_국가대표팀 "wikilink") 유일하게 단 한 번도 월드컵 본선에 진출하지 못했으며 나머지 팀들은 3회 이상 진출했다. 특히 [브라질은](https://ko.wikipedia.org/wiki/브라질_축구_국가대표팀 "wikilink") 전 세계에서 유일하게 모든 월드컵 진출을 성공했다. [북아프리카 팀](https://ko.wikipedia.org/wiki/북아프리카_축구_연맹 "wikilink") 같은 경우에는 [리비아가](https://ko.wikipedia.org/wiki/리비아_축구_국가대표팀 "wikilink") 유일하게 월드컵 본선에 진출한 경험이 없다.
+**FIFA 월드컵 참가국**은 [1930년 우루과이 월드컵부터](https://ko.wikipedia.org/wiki/1930년_FIFA_월드컵 "wikilink") 지금까지 모든 월드컵 본선에 진출한 팀들이다. 현재 [남미 팀](../Page/남미_축구_연맹.md "wikilink") 같은 경우에는 [베네수엘라가](../Page/베네수엘라_축구_국가대표팀.md "wikilink") 유일하게 단 한 번도 월드컵 본선에 진출하지 못했으며 나머지 팀들은 3회 이상 진출했다. 특히 [브라질은](../Page/브라질_축구_국가대표팀.md "wikilink") 전 세계에서 유일하게 모든 월드컵 진출을 성공했다. [북아프리카 팀](../Page/북아프리카_축구_연맹.md "wikilink") 같은 경우에는 [리비아가](../Page/리비아_축구_국가대표팀.md "wikilink") 유일하게 월드컵 본선에 진출한 경험이 없다.
 
 ## 국가별 본선 진출국
 
@@ -76,7 +76,7 @@
 <td><p>17</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_East_Germany.svg" title="wikilink">21px</a> <a href="https://ko.wikipedia.org/wiki/동독_축구_국가대표팀" title="wikilink">동독</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_East_Germany.svg" title="wikilink">21px</a> <a href="../Page/동독_축구_국가대표팀.md" title="wikilink">동독</a></p></td>
 <td><p>1</p></td>
 <td><p>1974</p></td>
 <td><p>1</p></td>
@@ -501,9 +501,9 @@
   -
     \* = *개최국*
     × = *본선 진출은 성공했으나 대회 도중 기권*
-    \! = *[인도네시아는](https://ko.wikipedia.org/wiki/인도네시아_축구_국가대표팀 "wikilink") '네덜란드령 동인도'로 본선 진출*
-    & = *[유고슬라비아](https://ko.wikipedia.org/wiki/유고슬라비아_축구_국가대표팀 "wikilink") 해체 이후 [세르비아 몬테네그로](https://ko.wikipedia.org/wiki/세르비아_몬테네그로_축구_국가대표팀 "wikilink")→[세르비아로](https://ko.wikipedia.org/wiki/세르비아_축구_국가대표팀 "wikilink") 출전*
-    \# = *[서독](https://ko.wikipedia.org/wiki/독일_축구_국가대표팀 "wikilink") 성적 포함*
+    \! = *[인도네시아는](../Page/인도네시아_축구_국가대표팀.md "wikilink") '네덜란드령 동인도'로 본선 진출*
+    & = *[유고슬라비아](../Page/유고슬라비아_축구_국가대표팀.md "wikilink") 해체 이후 [세르비아 몬테네그로](../Page/세르비아_몬테네그로_축구_국가대표팀.md "wikilink")→[세르비아로](../Page/세르비아_축구_국가대표팀.md "wikilink") 출전*
+    \# = *[서독](../Page/독일_축구_국가대표팀.md "wikilink") 성적 포함*
     † = *[소련](https://ko.wikipedia.org/wiki/소련_축구_국가대표팀 "wikilink") 성적 포함*
     % = *[소련](https://ko.wikipedia.org/wiki/소련_축구_국가대표팀 "wikilink") 성적 포함*
     ^ = *현재 여러 국가로 분단 및 다른 나라로 합쳐진 국가*

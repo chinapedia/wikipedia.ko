@@ -1267,7 +1267,7 @@
 
 ## 2013년 순위
 
-다음은 2013년 [주니퍼 네트웍스가](https://ko.wikipedia.org/wiki/주니퍼_네트웍스 "wikilink") 측정하고 [블룸버그가](https://ko.wikipedia.org/wiki/블룸버그_L.P. "wikilink") 출판한 4G LTE 커버리지에 따른 나라 목록이다.\[5\]\[6\]
+다음은 2013년 [주니퍼 네트웍스가](../Page/주니퍼_네트웍스.md "wikilink") 측정하고 [블룸버그가](../Page/블룸버그_L.P..md "wikilink") 출판한 4G LTE 커버리지에 따른 나라 목록이다.\[5\]\[6\]
 
 <table>
 <thead>
@@ -1343,8 +1343,8 @@
 
 ## 같이 보기
 
-  - [인터넷 접속 속도에 따른 나라 목록](https://ko.wikipedia.org/wiki/인터넷_접속_속도에_따른_나라_목록 "wikilink")
-  - [스마트폰 침투율에 따른 나라 목록](https://ko.wikipedia.org/wiki/스마트폰_침투율에_따른_나라_목록 "wikilink")
+  - [인터넷 접속 속도에 따른 나라 목록](../Page/인터넷_접속_속도에_따른_나라_목록.md "wikilink")
+  - [스마트폰 침투율에 따른 나라 목록](../Page/스마트폰_침투율에_따른_나라_목록.md "wikilink")
   - [이용 휴대 전화 대수에 따른 나라 목록](https://ko.wikipedia.org/wiki/이용_휴대_전화_대수에_따른_나라_목록 "wikilink")
   - [인터넷 사용자 수에 따른 나라 목록](../Page/인터넷_사용자_수에_따른_나라_목록.md "wikilink")
 

@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [K.K.  ](https://ko.wikipedia.org/wiki/K.K.__).
 
 
-《**K.K 훼미리 리스트**》는 [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink")에 개봉한 [대한민국의](https://ko.wikipedia.org/wiki/대한민국_영화 "wikilink") 영화이다.
+《**K.K 훼미리 리스트**》는 [1997년](../Page/1997년.md "wikilink")에 개봉한 [대한민국의](https://ko.wikipedia.org/wiki/대한민국_영화 "wikilink") 영화이다.
 
 ## 캐스팅
 
-  - [신현준](https://ko.wikipedia.org/wiki/신현준_\(배우\) "wikilink") : 태웅 역
+  - [신현준](../Page/신현준_\(배우\).md "wikilink") : 태웅 역
   - 태준 리 : 준 역
   - 바비 킴 : 리상춘 역
   - 카렌 킴 : 린다 역
-  - [정준](https://ko.wikipedia.org/wiki/정준_\(배우\) "wikilink") : 준정 역
+  - [정준](../Page/정준_\(배우\).md "wikilink") : 준정 역
   - 스티브 박 : 킨 역
   - 에디 무이 : 로이 역
   - 진오 : 용팔이 역

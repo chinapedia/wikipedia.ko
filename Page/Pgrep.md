@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Pgrep](https://ko.wikipedia.org/wiki/Pgrep).
 
 
-**pgrep**은 처음에 [마이크 샤피로가](https://ko.wikipedia.org/wiki/마이크_샤피로 "wikilink") [솔라리스 7](https://ko.wikipedia.org/wiki/솔라리스_\(운영_체제\) "wikilink") 운영 체제에 사용할 목적으로 개발된 [명령 줄](https://ko.wikipedia.org/wiki/명령_줄_인터페이스 "wikilink") 유틸리티이다. 그 뒤로 [일루모스](../Page/일루모스.md "wikilink")에서 이용이 가능하게 되었으며, [리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink"), [BSD](https://ko.wikipedia.org/wiki/BSD "wikilink")([DragonFly BSD](https://ko.wikipedia.org/wiki/DragonFly_BSD "wikilink"), [FreeBSD](https://ko.wikipedia.org/wiki/FreeBSD "wikilink"), [NetBSD](https://ko.wikipedia.org/wiki/NetBSD "wikilink"), [OpenBSD](https://ko.wikipedia.org/wiki/OpenBSD "wikilink"))로 재구현되었다. 확장 [정규 표현식](https://ko.wikipedia.org/wiki/정규_표현식 "wikilink") 패턴으로 모든 [프로세스](https://ko.wikipedia.org/wiki/프로세스 "wikilink")의 이름을 검색할 수 있으며 기본적으로 프로세스 ID를 반환한다.
+**pgrep**은 처음에 [마이크 샤피로가](https://ko.wikipedia.org/wiki/마이크_샤피로 "wikilink") [솔라리스 7](../Page/솔라리스_\(운영_체제\).md "wikilink") 운영 체제에 사용할 목적으로 개발된 [명령 줄](../Page/명령_줄_인터페이스.md "wikilink") 유틸리티이다. 그 뒤로 [일루모스](../Page/일루모스.md "wikilink")에서 이용이 가능하게 되었으며, [리눅스](../Page/리눅스.md "wikilink"), [BSD](../Page/BSD.md "wikilink")([DragonFly BSD](../Page/DragonFly_BSD.md "wikilink"), [FreeBSD](../Page/FreeBSD.md "wikilink"), [NetBSD](../Page/NetBSD.md "wikilink"), [OpenBSD](../Page/OpenBSD.md "wikilink"))로 재구현되었다. 확장 [정규 표현식](https://ko.wikipedia.org/wiki/정규_표현식 "wikilink") 패턴으로 모든 [프로세스](../Page/프로세스.md "wikilink")의 이름을 검색할 수 있으며 기본적으로 프로세스 ID를 반환한다.
 
 대안으로 `pidof`(프로그램 이름으로 프로세스 ID를 찾는다)와 [`ps`](https://ko.wikipedia.org/wiki/ps_\(유닉스\) "wikilink")가 있다.
 
@@ -35,8 +35,8 @@ $ pgrep -n -u alice emacs # The most recent `emacs` process started by user `ali
   - [유닉스 명령어 목록](../Page/유닉스_명령어_목록.md "wikilink")
   - [`pidof`](https://ko.wikipedia.org/wiki/pidof "wikilink")
   - [`Pkill`](../Page/Pkill.md "wikilink")
-  - [`ps`](https://ko.wikipedia.org/wiki/Ps_\(유닉스\) "wikilink")
-  - [`Grep`](https://ko.wikipedia.org/wiki/Grep "wikilink")
+  - [`ps`](../Page/Ps_\(유닉스\).md "wikilink")
+  - [`Grep`](../Page/Grep.md "wikilink")
 
 ## 각주
 

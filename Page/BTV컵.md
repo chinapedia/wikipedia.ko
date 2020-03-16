@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BTV](https://ko.wikipedia.org/wiki/BTV).
 
 
-**빈즈엉 텔레비전컵**( Television Cup)은 [베트남](https://ko.wikipedia.org/wiki/베트남 "wikilink")의 축구단 [빈즈엉 FC가](https://ko.wikipedia.org/wiki/빈즈엉_FC "wikilink") 주최하는 국제 친선 축구 대회로, [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink")부터 지금까지 진행되고 있다. 경기는 빈즈엉의 홈 구장인 [고더우 경기장에서](https://ko.wikipedia.org/wiki/고더우_경기장 "wikilink") 펼쳐진다. [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink")부터 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 축구단도 참여를 시작했으며, 초기에는 [실업축구](https://ko.wikipedia.org/wiki/대한민국의_실업_축구 "wikilink") 팀들이 참여하였으나, 최근에는 대학선발팀이 참여하고 있다.
+**빈즈엉 텔레비전컵**( Television Cup)은 [베트남](../Page/베트남.md "wikilink")의 축구단 [빈즈엉 FC가](../Page/빈즈엉_FC.md "wikilink") 주최하는 국제 친선 축구 대회로, [2000년](../Page/2000년.md "wikilink")부터 지금까지 진행되고 있다. 경기는 빈즈엉의 홈 구장인 [고더우 경기장에서](https://ko.wikipedia.org/wiki/고더우_경기장 "wikilink") 펼쳐진다. [2004년](../Page/2004년.md "wikilink")부터 [대한민국](../Page/대한민국.md "wikilink")의 축구단도 참여를 시작했으며, 초기에는 [실업축구](../Page/대한민국의_실업_축구.md "wikilink") 팀들이 참여하였으나, 최근에는 대학선발팀이 참여하고 있다.
 
 ## 역대 우승 팀
 
@@ -60,7 +60,7 @@
 </tr>
 <tr class="even">
 <td><p>2002</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/빈즈엉_FC" title="wikilink">빈즈엉</a></strong></p></td>
+<td><p><strong><a href="../Page/빈즈엉_FC.md" title="wikilink">빈즈엉</a></strong></p></td>
 <td><p><small><strong>2-0</strong></small></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/똥아_은행" title="wikilink">똥아 은행</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/동떰_롱안_FC" title="wikilink">동떰 롱안</a></p></td>
@@ -74,10 +74,10 @@
 </tr>
 <tr class="even">
 <td><p>2003</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/빈즈엉_FC" title="wikilink">빈즈엉</a></strong></p></td>
+<td><p><strong><a href="../Page/빈즈엉_FC.md" title="wikilink">빈즈엉</a></strong></p></td>
 <td><p><small><strong>1-0</strong></small></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/동떰_롱안_FC" title="wikilink">동떰 롱안</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/끄룽타이은행_FC" title="wikilink">끄룽타이은행</a></p></td>
+<td><p><a href="../Page/끄룽타이은행_FC.md" title="wikilink">끄룽타이은행</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -90,8 +90,8 @@
 <td><p>2004</p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/동떰_롱안_FC" title="wikilink">동떰 롱안</a></strong></p></td>
 <td><p><small><strong>3-1</strong></small></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/수원_FC" title="wikilink">수원시청</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/빈즈엉_FC" title="wikilink">빈즈엉</a><br />
+<td><p><a href="../Page/수원_FC.md" title="wikilink">수원시청</a></p></td>
+<td><p><a href="../Page/빈즈엉_FC.md" title="wikilink">빈즈엉</a><br />
 <br />
 </p></td>
 </tr>
@@ -104,7 +104,7 @@
 </tr>
 <tr class="even">
 <td><p>2005</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/빈즈엉_FC" title="wikilink">빈즈엉</a></strong></p></td>
+<td><p><strong><a href="../Page/빈즈엉_FC.md" title="wikilink">빈즈엉</a></strong></p></td>
 <td><p><small><strong>1-0</strong></small></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/동떰_롱안_FC" title="wikilink">동떰 롱안</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/탬피니스_로버스_FC" title="wikilink">탬피니스 로버스</a></p></td>
@@ -118,9 +118,9 @@
 </tr>
 <tr class="even">
 <td><p>2006</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/부산교통공사_축구단" title="wikilink">부산교통공사</a></strong></p></td>
+<td><p><strong><a href="../Page/부산교통공사_축구단.md" title="wikilink">부산교통공사</a></strong></p></td>
 <td><p><small><strong>3-2</strong></small></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/빈즈엉_FC" title="wikilink">빈즈엉</a></p></td>
+<td><p><a href="../Page/빈즈엉_FC.md" title="wikilink">빈즈엉</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/빈딘_FC" title="wikilink">빈딘</a></p></td>
 </tr>
 <tr class="odd">
@@ -146,9 +146,9 @@
 </tr>
 <tr class="even">
 <td><p>2008</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/다낭_FC" title="wikilink">다낭</a></strong></p></td>
+<td><p><strong><a href="../Page/다낭_FC.md" title="wikilink">다낭</a></strong></p></td>
 <td><p><small><strong>3-3 a.e.t (pen. 4-2)</strong></small></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/빈즈엉_FC" title="wikilink">빈즈엉</a></p></td>
+<td><p><a href="../Page/빈즈엉_FC.md" title="wikilink">빈즈엉</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/SE_마쓰바라" title="wikilink">마쓰바라</a></p></td>
 </tr>
 <tr class="odd">
@@ -177,7 +177,7 @@
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/동떰_롱안_FC" title="wikilink">동떰 롱안</a></strong></p></td>
 <td><p><small><strong>1-0 a.e.t</strong></small></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/SE_마쓰바라" title="wikilink">마쓰바라</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/빈즈엉_FC" title="wikilink">빈즈엉</a></p></td>
+<td><p><a href="../Page/빈즈엉_FC.md" title="wikilink">빈즈엉</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -190,7 +190,7 @@
 <td><p>2011</p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/SE_마쓰바라" title="wikilink">마쓰바라</a></strong></p></td>
 <td><p><small>'''2-0 '''</small></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/빈즈엉_FC" title="wikilink">빈즈엉</a></p></td>
+<td><p><a href="../Page/빈즈엉_FC.md" title="wikilink">빈즈엉</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/사이공_쑤언타인_FC" title="wikilink">사이공 쑤언타인</a></p></td>
 </tr>
 <tr class="odd">
@@ -202,7 +202,7 @@
 </tr>
 <tr class="even">
 <td><p>2012</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/빈즈엉_FC" title="wikilink">빈즈엉</a></strong></p></td>
+<td><p><strong><a href="../Page/빈즈엉_FC.md" title="wikilink">빈즈엉</a></strong></p></td>
 <td><p><small>'''2-0 '''</small></p></td>
 <td><p><a href="../Page/베트남_U-23_축구_국가대표팀.md" title="wikilink">베트남 U-22</a></p></td>
 <td><p><a href="../Page/그레미우_바루에리.md" title="wikilink">그레미우 바루에리</a></p></td>
@@ -216,10 +216,10 @@
 </tr>
 <tr class="even">
 <td><p>2013</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/빈즈엉_FC" title="wikilink">빈즈엉</a></strong></p></td>
+<td><p><strong><a href="../Page/빈즈엉_FC.md" title="wikilink">빈즈엉</a></strong></p></td>
 <td><p><small>'''1-0 '''</small></p></td>
 <td><p><a href="../Page/베트남_U-23_축구_국가대표팀.md" title="wikilink">베트남 U-23</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/방구_AC" title="wikilink">방구</a></p></td>
+<td><p><a href="../Page/방구_AC.md" title="wikilink">방구</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -237,7 +237,7 @@
 </tr>
 <tr class="odd">
 <td><p>2015</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/방구_AC" title="wikilink">방구</a></strong></p></td>
+<td><p><strong><a href="../Page/방구_AC.md" title="wikilink">방구</a></strong></p></td>
 <td><p><small><strong>3-2</strong></small></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/대한민국_대학선발팀" title="wikilink">대한민국 대학선발팀</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/동떰_롱안_FC" title="wikilink">동떰 롱안</a></p></td>
@@ -251,9 +251,9 @@
 </tr>
 <tr class="odd">
 <td><p>2016</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/쇼난_벨마레" title="wikilink">쇼난 벨마레</a></strong></p></td>
+<td><p><strong><a href="../Page/쇼난_벨마레.md" title="wikilink">쇼난 벨마레</a></strong></p></td>
 <td><p><small><strong>2-1</strong></small></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/다낭_FC" title="wikilink">SHB 다낭</a></p></td>
+<td><p><a href="../Page/다낭_FC.md" title="wikilink">SHB 다낭</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/대한민국_대학선발팀" title="wikilink">대한민국 대학선발팀</a></p></td>
 </tr>
 <tr class="even">
@@ -268,11 +268,11 @@
 
 ## 역대 참가 팀
 
-  - **[빈즈엉](https://ko.wikipedia.org/wiki/빈즈엉_FC "wikilink")** *(주최)*
+  - **[빈즈엉](../Page/빈즈엉_FC.md "wikilink")** *(주최)*
 
   - **[동떰 롱안](https://ko.wikipedia.org/wiki/동떰_롱안_FC "wikilink")** 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2013, 2014, 2015
 
-  - **[다낭](https://ko.wikipedia.org/wiki/다낭_FC "wikilink")** 2005, 2006, 2007, 2008, 2009, 2011, 2012, 2014
+  - **[다낭](../Page/다낭_FC.md "wikilink")** 2005, 2006, 2007, 2008, 2009, 2011, 2012, 2014
 
   - **[하이퐁](https://ko.wikipedia.org/wiki/하이퐁_FC "wikilink")** 2003, 2008, 2009, 2010, 2011, 2016
 
@@ -312,17 +312,17 @@
 
   - **[대전 시티즌](https://ko.wikipedia.org/wiki/대전_시티즌 "wikilink")** 2007
 
-  - **[수원시청](https://ko.wikipedia.org/wiki/수원_FC "wikilink")** 2004
+  - **[수원시청](../Page/수원_FC.md "wikilink")** 2004
 
-  - **[울산 현대미포조선 돌고래](https://ko.wikipedia.org/wiki/울산_현대미포조선_돌고래 "wikilink")** 2005
+  - **[울산 현대미포조선 돌고래](../Page/울산_현대미포조선_돌고래.md "wikilink")** 2005
 
-  - **[부산교통공사 축구단](https://ko.wikipedia.org/wiki/부산교통공사_축구단 "wikilink")** 2006
+  - **[부산교통공사 축구단](../Page/부산교통공사_축구단.md "wikilink")** 2006
 
 <!-- end list -->
 
   - **[마쓰바라](https://ko.wikipedia.org/wiki/SE_마쓰바라 "wikilink")** 2004, 2006, 2007, 2008, 2010, 2011
 
-  - **[방구](https://ko.wikipedia.org/wiki/방구_AC "wikilink")** 2013, 2015, 2016
+  - **[방구](../Page/방구_AC.md "wikilink")** 2013, 2015, 2016
 
   - **[그레미우 바루에리](../Page/그레미우_바루에리.md "wikilink")** 2012
 
@@ -332,31 +332,31 @@
 
 <!-- end list -->
 
-  - **[촌부리](https://ko.wikipedia.org/wiki/촌부리_FC "wikilink")** 2007, 2010, 2012
+  - **[촌부리](../Page/촌부리_FC.md "wikilink")** 2007, 2010, 2012
 
-  - **[PEA](https://ko.wikipedia.org/wiki/부리람_유나이티드_FC "wikilink")** 2005
+  - **[PEA](../Page/부리람_유나이티드_FC.md "wikilink")** 2005
 
-  - **[BEC 테로 사사나](https://ko.wikipedia.org/wiki/폴리스_테로_FC "wikilink")** 2014
+  - **[BEC 테로 사사나](../Page/폴리스_테로_FC.md "wikilink")** 2014
 
-  - **[오솟스파 FC](https://ko.wikipedia.org/wiki/줌빠스리_유나이티드_FC "wikilink")** 2004
+  - **[오솟스파 FC](../Page/줌빠스리_유나이티드_FC.md "wikilink")** 2004
 
-  - **[끄룽타이은행](https://ko.wikipedia.org/wiki/끄룽타이은행_FC "wikilink")** 2003
-
-<!-- end list -->
-
-  - **[충칭 리판](https://ko.wikipedia.org/wiki/충칭_당다이_리판 "wikilink")** 2009
-
-  - **[다롄 스더](https://ko.wikipedia.org/wiki/다롄_스더 "wikilink")** 2007
-
-  - **[우한 광구](https://ko.wikipedia.org/wiki/우한_광구 "wikilink")** 2006
-
-  - **[샤먼 란스](https://ko.wikipedia.org/wiki/샤먼_란스 "wikilink")** 2005
+  - **[끄룽타이은행](../Page/끄룽타이은행_FC.md "wikilink")** 2003
 
 <!-- end list -->
 
-  - **[쇼난 벨마레](https://ko.wikipedia.org/wiki/쇼난_벨마레 "wikilink")** 2016
+  - **[충칭 리판](../Page/충칭_당다이_리판.md "wikilink")** 2009
 
-  - **[아비스파 후쿠오카](https://ko.wikipedia.org/wiki/아비스파_후쿠오카 "wikilink")** 2012
+  - **[다롄 스더](../Page/다롄_스더.md "wikilink")** 2007
+
+  - **[우한 광구](../Page/우한_광구.md "wikilink")** 2006
+
+  - **[샤먼 란스](../Page/샤먼_란스.md "wikilink")** 2005
+
+<!-- end list -->
+
+  - **[쇼난 벨마레](../Page/쇼난_벨마레.md "wikilink")** 2016
+
+  - **[아비스파 후쿠오카](../Page/아비스파_후쿠오카.md "wikilink")** 2012
 
   - **[일본 대학선발팀](https://ko.wikipedia.org/wiki/일본_대학선발팀 "wikilink")** 2015
 
@@ -370,7 +370,7 @@
 
 <!-- end list -->
 
-  - **[MŠK 질리나](https://ko.wikipedia.org/wiki/MŠK_질리나 "wikilink")** 2011
+  - **[MŠK 질리나](../Page/MŠK_질리나.md "wikilink")** 2011
 
   - **[아르트메디아](https://ko.wikipedia.org/wiki/FC_페트르잘카_아카데미아 "wikilink")** 2009
 
@@ -394,7 +394,7 @@
 
 <!-- end list -->
 
-  - **[라오스](https://ko.wikipedia.org/wiki/라오스_축구_국가대표팀 "wikilink")** 2003
+  - **[라오스](../Page/라오스_축구_국가대표팀.md "wikilink")** 2003
 
   - **[MCTPC](https://ko.wikipedia.org/wiki/MCTPC "wikilink")** 2004
 

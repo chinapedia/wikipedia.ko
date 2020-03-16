@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [5D Glass disk](https://ko.wikipedia.org/wiki/5D_Glass_disk).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:5D_Glass_disk.jpg "wikilink") **5차원 저장매체**라고도 불리는 **5D Glass disk**는 [사우샘프턴 대학교의](https://ko.wikipedia.org/wiki/사우샘프턴_대학교 "wikilink") 과학자팀이 만들어내 차세대 저장매체이다. 해당 저장매체는 360[테라바이트](https://ko.wikipedia.org/wiki/테라바이트 "wikilink")에 해당하는 [저장용량](https://ko.wikipedia.org/wiki/저장용량 "wikilink")을 가지고 있으며, [우주의 나이와](https://ko.wikipedia.org/wiki/우주의_나이 "wikilink") 비슷한 138억 년 정도의 저장 기간을 가진다. 또한, 1,000°C의 온도에서도 안정성을 유지한다. 현재는 이러한 특성들을 바탕으로 다양한 역사적 문서들이 기록 및 저장되고 있다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:5D_Glass_disk.jpg "wikilink") **5차원 저장매체**라고도 불리는 **5D Glass disk**는 [사우샘프턴 대학교의](../Page/사우샘프턴_대학교.md "wikilink") 과학자팀이 만들어내 차세대 저장매체이다. 해당 저장매체는 360[테라바이트](https://ko.wikipedia.org/wiki/테라바이트 "wikilink")에 해당하는 [저장용량](https://ko.wikipedia.org/wiki/저장용량 "wikilink")을 가지고 있으며, [우주의 나이와](../Page/우주의_나이.md "wikilink") 비슷한 138억 년 정도의 저장 기간을 가진다. 또한, 1,000°C의 온도에서도 안정성을 유지한다. 현재는 이러한 특성들을 바탕으로 다양한 역사적 문서들이 기록 및 저장되고 있다.
 
 ## 저장 원리
 

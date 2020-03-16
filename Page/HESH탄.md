@@ -3,7 +3,7 @@
 
 **Hesh(High-explosive squash head)** 또는 **접착유탄**(粘着榴彈)은 미국에서는 HEP(High-explosive plastic)라 불리는 폭탄이다.
 
-  - [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 전차가 주로 쓰는 탄. 실전투입은 걸프전때 [챌린저1](https://ko.wikipedia.org/wiki/챌린저1 "wikilink") [전차](https://ko.wikipedia.org/wiki/전차 "wikilink")가 사용했다.
+  - [영국](../Page/영국.md "wikilink")의 전차가 주로 쓰는 탄. 실전투입은 걸프전때 [챌린저1](https://ko.wikipedia.org/wiki/챌린저1 "wikilink") [전차](../Page/전차.md "wikilink")가 사용했다.
   - 플라스틱 [작약](https://ko.wikipedia.org/wiki/작약 "wikilink")이 목표에 명중하면 장갑에 달라 붙으며 포탄의 뒷부분의 신관이 작동해 폭발하여 장갑의 내부에 강력한 응력을 발생시킨다. 그때 장갑의 내벽부를 떨어져 나가게 하여 그 파편으로 내부를 파괴하는 일종의 대전차 탄.
     하지만 이 탄의 경우 구세대\~2세대 전차에게 꽤나 효과적이나 3세대부터의 복합장갑에게는 효과가 떨어진다. 그래서 지금은 대전차 용도로 별로 쓰이고 있지 않고 건물등을 공격할때 많이 쓰인다.
 
@@ -17,7 +17,7 @@ Hesh가 2세대전차의 이하의 단일장갑에 꽤나 효과가 있는것을
 
 2.실전사용
 
-Hesh의 첫 실전은 [걸프전](https://ko.wikipedia.org/wiki/걸프전 "wikilink")때 [챌린저 1전차에](https://ko.wikipedia.org/wiki/챌린저_1 "wikilink") 의해 이루어 졌다. 이때 사용된 전차는 단일 장갑을 가진 2세대 이하였기 떼문에 300여대의 경장갑/전차를 격파하는등 꽤나 좋은 성능을 보여주었다. [이라크전](https://ko.wikipedia.org/wiki/이라크전 "wikilink")때도 [챌린저 2가](https://ko.wikipedia.org/wiki/챌린저_2 "wikilink") 쓰는 Hesh에 의해 [이라크 군의](https://ko.wikipedia.org/wiki/이라크_군 "wikilink") 전차 10 여대를 격파했다. 하지만 현 3세대 전차나 [파편 방지대](https://ko.wikipedia.org/wiki/파편_방지대 "wikilink") 또는 [반응장갑](https://ko.wikipedia.org/wiki/반응장갑 "wikilink")을 장착한 전차에게는 대전차 성능이 꽤나 떨어지기 때문에 대인이나 대 콘크리트용으로 쓰이고 있다.
+Hesh의 첫 실전은 [걸프전](https://ko.wikipedia.org/wiki/걸프전 "wikilink")때 [챌린저 1전차에](https://ko.wikipedia.org/wiki/챌린저_1 "wikilink") 의해 이루어 졌다. 이때 사용된 전차는 단일 장갑을 가진 2세대 이하였기 떼문에 300여대의 경장갑/전차를 격파하는등 꽤나 좋은 성능을 보여주었다. [이라크전](https://ko.wikipedia.org/wiki/이라크전 "wikilink")때도 [챌린저 2가](../Page/챌린저_2.md "wikilink") 쓰는 Hesh에 의해 [이라크 군의](https://ko.wikipedia.org/wiki/이라크_군 "wikilink") 전차 10 여대를 격파했다. 하지만 현 3세대 전차나 [파편 방지대](https://ko.wikipedia.org/wiki/파편_방지대 "wikilink") 또는 [반응장갑](https://ko.wikipedia.org/wiki/반응장갑 "wikilink")을 장착한 전차에게는 대전차 성능이 꽤나 떨어지기 때문에 대인이나 대 콘크리트용으로 쓰이고 있다.
 
 3\. 원리
 

@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ II:  ](https://ko.wikipedia.org/wiki/_II:__).
 
 
-《**캐슬바니아 II: 사이먼의 원정**》()은 [코나미](https://ko.wikipedia.org/wiki/코나미 "wikilink")가 제작한 [액션 어드벤처 게임이다](https://ko.wikipedia.org/wiki/액션_어드벤처_게임 "wikilink"). [패미컴](https://ko.wikipedia.org/wiki/패미컴 "wikilink")으로 제작된 두번째 [캐슬바니아](https://ko.wikipedia.org/wiki/캐슬바니아 "wikilink") 게임으로, 1986년 출시된 [오리지널 캐슬바니아의](https://ko.wikipedia.org/wiki/캐슬바니아_\(1986년_비디오_게임\) "wikilink") 후속작이다. 주인공 사이먼 벨몬트가 원작에서 있었던 일 이후 드라큘라의 저주로 목숨을 잃을 위기에 처하자, 드라큘라가 잠든 봉인을 풀어 다시 무찌를 심산으로 각 지역에 흩어진 그의 시체조각들을 수집하는 이야기를 다뤘다.
+《**캐슬바니아 II: 사이먼의 원정**》()은 [코나미](../Page/코나미.md "wikilink")가 제작한 [액션 어드벤처 게임이다](https://ko.wikipedia.org/wiki/액션_어드벤처_게임 "wikilink"). [패미컴](https://ko.wikipedia.org/wiki/패미컴 "wikilink")으로 제작된 두번째 [캐슬바니아](https://ko.wikipedia.org/wiki/캐슬바니아 "wikilink") 게임으로, 1986년 출시된 [오리지널 캐슬바니아의](../Page/캐슬바니아_\(1986년_비디오_게임\).md "wikilink") 후속작이다. 주인공 사이먼 벨몬트가 원작에서 있었던 일 이후 드라큘라의 저주로 목숨을 잃을 위기에 처하자, 드라큘라가 잠든 봉인을 풀어 다시 무찌를 심산으로 각 지역에 흩어진 그의 시체조각들을 수집하는 이야기를 다뤘다.
 
-1987년 8월 28일 일본서 《**드라큘라 II: 저주의 봉인**》()이라는 제목으로 [패미컴 디스크 시스템에](https://ko.wikipedia.org/wiki/패미컴_디스크_시스템 "wikilink") 처음 출시됐으며, 북미 및 유럽 지역에선 [패미컴](https://ko.wikipedia.org/wiki/패미컴 "wikilink") 롬 카트리지 형태로 출시됐다.
+1987년 8월 28일 일본서 《**드라큘라 II: 저주의 봉인**》()이라는 제목으로 [패미컴 디스크 시스템에](../Page/패미컴_디스크_시스템.md "wikilink") 처음 출시됐으며, 북미 및 유럽 지역에선 [패미컴](https://ko.wikipedia.org/wiki/패미컴 "wikilink") 롬 카트리지 형태로 출시됐다.
 
 ## 각주
 

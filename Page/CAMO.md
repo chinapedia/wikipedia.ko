@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CAMO](https://ko.wikipedia.org/wiki/CAMO).
 
 
-〈**CAMO**〉는 가수 [보아](https://ko.wikipedia.org/wiki/보아 "wikilink")가 [한국](https://ko.wikipedia.org/wiki/한국 "wikilink")에서 발매한 디지털 싱글이다.
+〈**CAMO**〉는 가수 [보아](../Page/보아.md "wikilink")가 [한국](../Page/한국.md "wikilink")에서 발매한 디지털 싱글이다.
 
 〈CAMO〉는 묵직한 베이스와 신디사이저 사운드에 섹시하면서도 파워풀한 보아의 보컬이 더해진 강렬한 댄스 곡으로, 세계적인 프로듀싱팀 더 언더독스(The Underdogs)가 참여해 완성도를 높였다. 보아의 ‘CAMO’ 프로젝트는 보아의 화려한 퍼포먼스를 극대화해 표현함은 물론 색다른 변신을 선보이기 위해 기획된 것으로 더욱 강렬해진 음악과 뮤직비디오를 선사, 전 세계 음악 팬들의 이목을 사로잡을 전망이다.
 

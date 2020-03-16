@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DNA \( \)](https://ko.wikipedia.org/wiki/DNA_\(_\)).
 
 
-〈**DNA**〉(디엔에이)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [보이 그룹](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink") [방탄소년단](../Page/방탄소년단.md "wikilink")의 다섯 번째 미니 음반 《[LOVE YOURSELF 承 'Her'](https://ko.wikipedia.org/wiki/LOVE_YOURSELF_承_'Her' "wikilink")》의 타이틀 곡으로, 2017년 9월 18일에 발표되었다.
+〈**DNA**〉(디엔에이)는 [대한민국](../Page/대한민국.md "wikilink")의 [보이 그룹](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink") [방탄소년단](../Page/방탄소년단.md "wikilink")의 다섯 번째 미니 음반 《[LOVE YOURSELF 承 'Her'](https://ko.wikipedia.org/wiki/LOVE_YOURSELF_承_'Her' "wikilink")》의 타이틀 곡으로, 2017년 9월 18일에 발표되었다.
 
 ## 뮤직 비디오
 
@@ -9,21 +9,21 @@
 
 ## 차트
 
-| 차트                                                           | 최고순위 |
-| ------------------------------------------------------------ | ---- |
-| [호주](https://ko.wikipedia.org/wiki/호주 "wikilink")\[1\]       | 99   |
-| [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink")\[2\]     | 47   |
-| [프랑스](https://ko.wikipedia.org/wiki/프랑스 "wikilink")\[3\]     | 76   |
-| [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")\[4\]       | 6    |
-| [말레이시아](https://ko.wikipedia.org/wiki/말레이시아 "wikilink")\[5\] | 6    |
-| [뉴질랜드](https://ko.wikipedia.org/wiki/뉴질랜드 "wikilink")\[6\]   | 2    |
-| [필리핀](https://ko.wikipedia.org/wiki/필리핀 "wikilink")\[7\]     | 8    |
-| [필리핀](https://ko.wikipedia.org/wiki/필리핀 "wikilink")\[8\]     | 1    |
-| [스코틀랜드](https://ko.wikipedia.org/wiki/스코틀랜드 "wikilink")\[9\] | 63   |
-| [한국](https://ko.wikipedia.org/wiki/한국 "wikilink")\[10\]      | 2    |
-| [스웨덴](https://ko.wikipedia.org/wiki/스웨덴 "wikilink")\[11\]    | 2    |
-| [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")\[12\]      | 67   |
-|                                                              |      |
+| 차트                                                     | 최고순위 |
+| ------------------------------------------------------ | ---- |
+| [호주](https://ko.wikipedia.org/wiki/호주 "wikilink")\[1\] | 99   |
+| [캐나다](../Page/캐나다.md "wikilink")\[2\]                  | 47   |
+| [프랑스](../Page/프랑스.md "wikilink")\[3\]                  | 76   |
+| [일본](../Page/일본.md "wikilink")\[4\]                    | 6    |
+| [말레이시아](../Page/말레이시아.md "wikilink")\[5\]              | 6    |
+| [뉴질랜드](../Page/뉴질랜드.md "wikilink")\[6\]                | 2    |
+| [필리핀](../Page/필리핀.md "wikilink")\[7\]                  | 8    |
+| [필리핀](../Page/필리핀.md "wikilink")\[8\]                  | 1    |
+| [스코틀랜드](../Page/스코틀랜드.md "wikilink")\[9\]              | 63   |
+| [한국](../Page/한국.md "wikilink")\[10\]                   | 2    |
+| [스웨덴](../Page/스웨덴.md "wikilink")\[11\]                 | 2    |
+| [미국](../Page/미국.md "wikilink")\[12\]                   | 67   |
+|                                                        |      |
 
 ## 각주
 

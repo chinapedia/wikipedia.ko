@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
 
 
-《**TV 생활법정**》은 대한민국의 지상파 방송사 [KBS에서](https://ko.wikipedia.org/wiki/한국방송공사 "wikilink") 제작한 시사교양 프로그램이며 첫 회부터 1TV에서 토요일 오전 10시에 편성됐지만 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") 가을개편부터 채널을 2TV로 옮겨 화요일 오후 7시에 편성됐는데 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 가을개편 때 <시추에이션 콩트 방방>(월\~목 6:50) [무한지대 큐](https://ko.wikipedia.org/wiki/무한지대_큐 "wikilink")(월\~목 7:20)의 신설에 따라\[1\] 막을 내려야 했다.
+《**TV 생활법정**》은 대한민국의 지상파 방송사 [KBS에서](../Page/한국방송공사.md "wikilink") 제작한 시사교양 프로그램이며 첫 회부터 1TV에서 토요일 오전 10시에 편성됐지만 [2003년](../Page/2003년.md "wikilink") 가을개편부터 채널을 2TV로 옮겨 화요일 오후 7시에 편성됐는데 [2004년](../Page/2004년.md "wikilink") 가을개편 때 <시추에이션 콩트 방방>(월\~목 6:50) [무한지대 큐](../Page/무한지대_큐.md "wikilink")(월\~목 7:20)의 신설에 따라\[1\] 막을 내려야 했다.
 
 ## 기획 의도
 
@@ -14,10 +14,10 @@
 
 ## 방송 시간
 
-| 방송 채널                                                       | 방송 기간                                                                                                                                                                                                                                      | 방송 시간                                                                    | 방송 분량 |
-| ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------ | ----- |
-| [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") | [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [11월 2일](https://ko.wikipedia.org/wiki/11월_2일 "wikilink") \~ [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [11월 1일](https://ko.wikipedia.org/wiki/11월_1일 "wikilink")     | 매주 [토요일](https://ko.wikipedia.org/wiki/토요일 "wikilink") 오전 10:00 \~ 11:00 | 1시간   |
-| [KBS 2TV](https://ko.wikipedia.org/wiki/KBS_2TV "wikilink") | [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [11월 11일](https://ko.wikipedia.org/wiki/11월_11일 "wikilink") \~ [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [10월 26일](https://ko.wikipedia.org/wiki/10월_26일 "wikilink") | 매주 [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink") 저녁 7:00 \~ 8:00   |       |
+| 방송 채널                                                       | 방송 기간                                                                                                                                                          | 방송 시간                                                                  | 방송 분량 |
+| ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ----- |
+| [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") | [2002년](../Page/2002년.md "wikilink") [11월 2일](../Page/11월_2일.md "wikilink") \~ [2003년](../Page/2003년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink")     | 매주 [토요일](../Page/토요일.md "wikilink") 오전 10:00 \~ 11:00                  | 1시간   |
+| [KBS 2TV](../Page/KBS_2TV.md "wikilink")                    | [2003년](../Page/2003년.md "wikilink") [11월 11일](../Page/11월_11일.md "wikilink") \~ [2004년](../Page/2004년.md "wikilink") [10월 26일](../Page/10월_26일.md "wikilink") | 매주 [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink") 저녁 7:00 \~ 8:00 |       |
 
 ## 재판장
 
@@ -31,13 +31,13 @@
 
 ## 역대 재판장
 
-  - [황산성](https://ko.wikipedia.org/wiki/황산성 "wikilink") 변호사
+  - [황산성](../Page/황산성.md "wikilink") 변호사
 
 ## 역대 진행자
 
-  - [신성원](https://ko.wikipedia.org/wiki/신성원 "wikilink")
-  - [정은승](https://ko.wikipedia.org/wiki/정은승 "wikilink")
-  - [최윤경](https://ko.wikipedia.org/wiki/최윤경 "wikilink")
+  - [신성원](../Page/신성원.md "wikilink")
+  - [정은승](../Page/정은승.md "wikilink")
+  - [최윤경](../Page/최윤경.md "wikilink")
 
 ## 각주
 

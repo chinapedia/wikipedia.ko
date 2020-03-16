@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [  UC](https://ko.wikipedia.org/wiki/__UC).
 
 
-《**기동전사 건담 UC**》((유니콘))은 [후쿠이 하루토시가](https://ko.wikipedia.org/wiki/후쿠이_하루토시 "wikilink") 원작한 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [소설](https://ko.wikipedia.org/wiki/소설 "wikilink")이다.
+《**기동전사 건담 UC**》((유니콘))은 [후쿠이 하루토시가](https://ko.wikipedia.org/wiki/후쿠이_하루토시 "wikilink") 원작한 [일본](../Page/일본.md "wikilink")의 [소설](../Page/소설.md "wikilink")이다.
 
 ## 개요
 
-「[기동전사 건담](../Page/기동전사_건담.md "wikilink")」(이하 1st) 등의 우주세기 작품과는 다른 세계관을 무대로 삼아 [건담 시리즈](https://ko.wikipedia.org/wiki/건담_시리즈 "wikilink") 작품의 하나. 테마는 우주시대 0096년을 배경으로 한 작품이다.
+「[기동전사 건담](../Page/기동전사_건담.md "wikilink")」(이하 1st) 등의 우주세기 작품과는 다른 세계관을 무대로 삼아 [건담 시리즈](../Page/건담_시리즈.md "wikilink") 작품의 하나. 테마는 우주시대 0096년을 배경으로 한 작품이다.
 
 ## 외부 링크
 

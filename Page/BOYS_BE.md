@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BOYS BE](https://ko.wikipedia.org/wiki/BOYS_BE).
 
 
-《**BOYS BE**》(보이스 비)는 보이그룹 [세븐틴의](../Page/세븐틴_\(음악_그룹\).md "wikilink") 두 번째 [미니 음반이다](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink"). 타이틀곡은 〈만세〉로, 2015년 9월 10일 [로엔 엔터테인먼트에서](https://ko.wikipedia.org/wiki/로엔_엔터테인먼트 "wikilink") 발매되었다.
+《**BOYS BE**》(보이스 비)는 보이그룹 [세븐틴의](../Page/세븐틴_\(음악_그룹\).md "wikilink") 두 번째 [미니 음반이다](../Page/익스텐디드_플레이.md "wikilink"). 타이틀곡은 〈만세〉로, 2015년 9월 10일 [로엔 엔터테인먼트에서](https://ko.wikipedia.org/wiki/로엔_엔터테인먼트 "wikilink") 발매되었다.
 
 ## 개요
 
@@ -43,7 +43,7 @@
 
 ## 외부 링크
 
-  - [BOYS BE](http://music.naver.com/album/index.nhn?albumId=582908) - [네이버](https://ko.wikipedia.org/wiki/네이버 "wikilink") 뮤직
+  - [BOYS BE](http://music.naver.com/album/index.nhn?albumId=582908) - [네이버](../Page/네이버.md "wikilink") 뮤직
 
   -
 [분류:세븐틴의 음반](https://ko.wikipedia.org/wiki/분류:세븐틴의_음반 "wikilink") [분류:한국어 EP](https://ko.wikipedia.org/wiki/분류:한국어_EP "wikilink") [분류:2015년 EP](https://ko.wikipedia.org/wiki/분류:2015년_EP "wikilink") [분류:카카오엠 음반](https://ko.wikipedia.org/wiki/분류:카카오엠_음반 "wikilink")

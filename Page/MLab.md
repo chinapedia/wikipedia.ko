@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MLab](https://ko.wikipedia.org/wiki/MLab).
 
 
-**mLab**은 [몽고DB](../Page/몽고DB.md "wikilink") 데이터베이스를 호스팅하는 매니지드 클라우드 데이터베이스 서비스이다. mLab은 [아마존](https://ko.wikipedia.org/wiki/아마존닷컴 "wikilink"), [구글](https://ko.wikipedia.org/wiki/구글 "wikilink"), [마이크로소프트 애저](../Page/마이크로소프트_애저.md "wikilink") 등의 클라우드 제공자에서 실행되며 [PaaS](https://ko.wikipedia.org/wiki/서비스로서의_플랫폼 "wikilink") 제공자들과 파트너십을 맺고 있다.
+**mLab**은 [몽고DB](../Page/몽고DB.md "wikilink") 데이터베이스를 호스팅하는 매니지드 클라우드 데이터베이스 서비스이다. mLab은 [아마존](https://ko.wikipedia.org/wiki/아마존닷컴 "wikilink"), [구글](../Page/구글.md "wikilink"), [마이크로소프트 애저](../Page/마이크로소프트_애저.md "wikilink") 등의 클라우드 제공자에서 실행되며 [PaaS](../Page/서비스로서의_플랫폼.md "wikilink") 제공자들과 파트너십을 맺고 있다.
 
 2011년 5월, mLab은 1차 펀딩에서 파운드리 그룹 [Baseline Ventures](https://ko.wikipedia.org/wiki/Baseline_Ventures "wikilink"), Upfront Ventures, Freestyle Capital, [David Cohen으로부터](https://ko.wikipedia.org/wiki/David_Cohen "wikilink") 300만 달러를 확보했다.\[1\]
 
@@ -15,7 +15,7 @@
 
 ### IaaS 파트너
 
-  - [아마존 웹 서비스](https://ko.wikipedia.org/wiki/아마존_웹_서비스 "wikilink") (AWS)
+  - [아마존 웹 서비스](../Page/아마존_웹_서비스.md "wikilink") (AWS)
   - [구글 클라우드 플랫폼](../Page/구글_클라우드_플랫폼.md "wikilink")
   - [마이크로소프트 애저](../Page/마이크로소프트_애저.md "wikilink")
 

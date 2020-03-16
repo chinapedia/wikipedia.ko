@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [HAPPY PARTY TRAIN](https://ko.wikipedia.org/wiki/HAPPY_PARTY_TRAIN).
 
 
-〈**HAPPY PARTY TRAIN**〉(, )은 [Aqours](../Page/Aqours.md "wikilink")(아쿠아)의 악곡 및 3번째 정규 싱글이다. [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [4월 5일에](https://ko.wikipedia.org/wiki/4월_5일 "wikilink") [란티스](https://ko.wikipedia.org/wiki/란티스 "wikilink")에서 발매되었다.
+〈**HAPPY PARTY TRAIN**〉(, )은 [Aqours](../Page/Aqours.md "wikilink")(아쿠아)의 악곡 및 3번째 정규 싱글이다. [2017년](../Page/2017년.md "wikilink") [4월 5일에](../Page/4월_5일.md "wikilink") [란티스](../Page/란티스.md "wikilink")에서 발매되었다.
 
 ## 수록곡
 

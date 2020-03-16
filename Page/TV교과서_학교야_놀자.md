@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TV  ](https://ko.wikipedia.org/wiki/TV__).
 
 
-《**TV교과서 학교야 놀자**》는 [KBS 2TV의](https://ko.wikipedia.org/wiki/KBS_2TV "wikilink") 방영하는 교양 전문 프로그램이며 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [11월 3일부터](https://ko.wikipedia.org/wiki/11월_3일 "wikilink") [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [4월 26일까지](https://ko.wikipedia.org/wiki/4월_26일 "wikilink") 방영되었다. 한편, 이 프로그램은 교과서에서 우리가 미처 발견하지 못한 새로운 지식과 정보를 발견하자는 취지로 만는 동시에 학생과 교사 중심이었으나 신구 세대를 대변하는 연예인과 국어강사 [서한샘](https://ko.wikipedia.org/wiki/서한샘 "wikilink") 등 연예인급 유명인을 패널로 등장시켰다는 지적을\[1\] 샀으며 결국 1년을 넘기지 못했다.
+《**TV교과서 학교야 놀자**》는 [KBS 2TV의](../Page/KBS_2TV.md "wikilink") 방영하는 교양 전문 프로그램이며 [2003년](../Page/2003년.md "wikilink") [11월 3일부터](../Page/11월_3일.md "wikilink") [2004년](../Page/2004년.md "wikilink") [4월 26일까지](../Page/4월_26일.md "wikilink") 방영되었다. 한편, 이 프로그램은 교과서에서 우리가 미처 발견하지 못한 새로운 지식과 정보를 발견하자는 취지로 만는 동시에 학생과 교사 중심이었으나 신구 세대를 대변하는 연예인과 국어강사 [서한샘](../Page/서한샘.md "wikilink") 등 연예인급 유명인을 패널로 등장시켰다는 지적을\[1\] 샀으며 결국 1년을 넘기지 못했다.
 
 ## 기획의도
 
@@ -18,22 +18,22 @@
 
 ## 방송 시간
 
-| 방송 채널                                                       | 방송 기간                                                                                                                                                                                                                                  | 방송 시간              |
-| ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [KBS 2TV](https://ko.wikipedia.org/wiki/KBS_2TV "wikilink") | [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [11월 3일](https://ko.wikipedia.org/wiki/11월_3일 "wikilink") \~ [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [4월 26일](https://ko.wikipedia.org/wiki/4월_26일 "wikilink") | 매주 월요일 저녁 7시 \~ 8시 |
+| 방송 채널                                    | 방송 기간                                                                                                                                                      | 방송 시간              |
+| ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [KBS 2TV](../Page/KBS_2TV.md "wikilink") | [2003년](../Page/2003년.md "wikilink") [11월 3일](../Page/11월_3일.md "wikilink") \~ [2004년](../Page/2004년.md "wikilink") [4월 26일](../Page/4월_26일.md "wikilink") | 매주 월요일 저녁 7시 \~ 8시 |
 
 ## 진행자
 
-  - [정은아](https://ko.wikipedia.org/wiki/정은아 "wikilink"), [이창명](https://ko.wikipedia.org/wiki/이창명 "wikilink"), [김경식](https://ko.wikipedia.org/wiki/김경식_\(희극인\) "wikilink")
+  - [정은아](../Page/정은아.md "wikilink"), [이창명](../Page/이창명.md "wikilink"), [김경식](../Page/김경식_\(희극인\).md "wikilink")
 
 ## 결방
 
   - 2004년 3월 1일 - 6시부터 2부작 특집드라마 《[바람의 노래](https://ko.wikipedia.org/wiki/바람의_노래_\(2004년_드라마\) "wikilink")》 편성\[2\]으로 결방
-  - 2004년 3월 29일 - 6시부터 한국프로농구 2003-04 챔피언결정전 《 [전주 KCC 이지스](https://ko.wikipedia.org/wiki/전주_KCC_이지스 "wikilink") VS [원주 TG삼보 엑써스](https://ko.wikipedia.org/wiki/원주_DB_프로미 "wikilink") 》중계 편성으로 결방
+  - 2004년 3월 29일 - 6시부터 한국프로농구 2003-04 챔피언결정전 《 [전주 KCC 이지스](../Page/전주_KCC_이지스.md "wikilink") VS [원주 TG삼보 엑써스](https://ko.wikipedia.org/wiki/원주_DB_프로미 "wikilink") 》중계 편성으로 결방
 
 ## 참고 사항
 
-  - 해당 프로그램이 신설되면서 [주주클럽은](https://ko.wikipedia.org/wiki/주주클럽_\(텔레비전_프로그램\) "wikilink") [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [11월 8일부터](https://ko.wikipedia.org/wiki/11월_8일 "wikilink") [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [10월 30일까지](https://ko.wikipedia.org/wiki/10월_30일 "wikilink") 1TV에서 토요일 오후 5시 10분에 방영됐는데 당시 이 프로그램과 경쟁한 KBS 2TV [쇼 파워 비디오](../Page/쇼_파워_비디오.md "wikilink") 공동 MC였던\[3\] [김경식은](https://ko.wikipedia.org/wiki/김경식_\(희극인\) "wikilink") <TV 교과서 학교야 놀자> 공동 진행자\[4\]였다.
+  - 해당 프로그램이 신설되면서 [주주클럽은](../Page/주주클럽_\(텔레비전_프로그램\).md "wikilink") [2003년](../Page/2003년.md "wikilink") [11월 8일부터](../Page/11월_8일.md "wikilink") [2004년](../Page/2004년.md "wikilink") [10월 30일까지](../Page/10월_30일.md "wikilink") 1TV에서 토요일 오후 5시 10분에 방영됐는데 당시 이 프로그램과 경쟁한 KBS 2TV [쇼 파워 비디오](../Page/쇼_파워_비디오.md "wikilink") 공동 MC였던\[3\] [김경식은](../Page/김경식_\(희극인\).md "wikilink") <TV 교과서 학교야 놀자> 공동 진행자\[4\]였다.
 
 ## 각주
 

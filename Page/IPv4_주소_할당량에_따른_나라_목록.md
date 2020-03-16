@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [IPv4     ](https://ko.wikipedia.org/wiki/IPv4_____).
 
 
-아래는 IPv4 주소 할당량에 따른 나라 목록이다. (2012년 4월 2일 기준) 전체 [유엔 회원국](https://ko.wikipedia.org/wiki/유엔_회원국 "wikilink"), [성좌](https://ko.wikipedia.org/wiki/성좌_\(가톨릭\) "wikilink"), \[ bloo mobile.com georigia 45 638...09\[Kosovo\]\], 그리고 [타이완을](https://ko.wikipedia.org/wiki/중화민국 "wikilink") 포함하여 252개국이 포함된다.
+아래는 IPv4 주소 할당량에 따른 나라 목록이다. (2012년 4월 2일 기준) 전체 [유엔 회원국](../Page/유엔_회원국.md "wikilink"), [성좌](https://ko.wikipedia.org/wiki/성좌_\(가톨릭\) "wikilink"), \[ bloo mobile.com georigia 45 638...09\[Kosovo\]\], 그리고 [타이완을](../Page/중화민국.md "wikilink") 포함하여 252개국이 포함된다.
 
-2<sup>32</sup>(40억 이상)개의 [IP 주소가](https://ko.wikipedia.org/wiki/IP_주소 "wikilink") [IPv4](https://ko.wikipedia.org/wiki/IPv4 "wikilink") 프로토콜로 존재한다. 이 가운데 약 600,000,000개가 예약되어 있으며 공용 라우팅으로 사용할 수 없다.\[1\] 나머지는 [대륙별 인터넷 레지스트리](../Page/대륙별_인터넷_레지스트리.md "wikilink")(RIR)를 통해 [IANA](https://ko.wikipedia.org/wiki/IANA "wikilink")에 의해 국가들에 할당된다.\[2\]
+2<sup>32</sup>(40억 이상)개의 [IP 주소가](../Page/IP_주소.md "wikilink") [IPv4](../Page/IPv4.md "wikilink") 프로토콜로 존재한다. 이 가운데 약 600,000,000개가 예약되어 있으며 공용 라우팅으로 사용할 수 없다.\[1\] 나머지는 [대륙별 인터넷 레지스트리](../Page/대륙별_인터넷_레지스트리.md "wikilink")(RIR)를 통해 [IANA](https://ko.wikipedia.org/wiki/IANA "wikilink")에 의해 국가들에 할당된다.\[2\]
 
 <table>
 <thead>
@@ -21,7 +21,7 @@ IP 주소 수</p></th>
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="https://ko.wikipedia.org/wiki/세계" title="wikilink">세계</a></em></p></td>
+<td><p><em><a href="../Page/세계.md" title="wikilink">세계</a></em></p></td>
 <td><p>4,294,967,296</p></td>
 <td><p>100.0</p></td>
 <td><p>7,021,836,029</p></td>
@@ -1901,7 +1901,7 @@ IP 주소 수</p></th>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="https://ko.wikipedia.org/wiki/아시아_태평양" title="wikilink">아시아 태평양</a></em></p></td>
+<td><p><em><a href="../Page/아시아_태평양.md" title="wikilink">아시아 태평양</a></em></p></td>
 <td><p>0</p></td>
 <td><p>0.0</p></td>
 <td></td>
@@ -2060,7 +2060,7 @@ IP 주소 수</p></th>
 
 ## 같이 보기
 
-  - [IP 주소](https://ko.wikipedia.org/wiki/IP_주소 "wikilink")
+  - [IP 주소](../Page/IP_주소.md "wikilink")
 
 ## 각주
 
@@ -2069,4 +2069,4 @@ IP 주소 수</p></th>
 1.  ["IANA IPv4 Address Space Registry"](http://www.iana.org/assignments/ipv4-address-space/ipv4-address-space.xhtml), Internet Assigned Numbers Authority (IANA). Retrieved 12 July 2014.
 2.  ["Number Resources"](http://www.iana.org/numbers), Internet Assigned Numbers Authority (IANA). Retrieved 12 July 2014.
 3.  ["Allocation of IP addresses by Country"](https://www.countryipblocks.net/allocation-of-ip-addresses-by-country.php) , Country IP Blocks. Accessed on 2 April 2012. Note: Site is said to be updated daily.
-4.  [Population](https://www.cia.gov/library/publications/the-world-factbook/fields/2119.html), [월드 팩트북](https://ko.wikipedia.org/wiki/월드_팩트북 "wikilink"), [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [중앙정보국](https://ko.wikipedia.org/wiki/중앙정보국 "wikilink"). Accessed on 2 April 2012. Note: Data are mostly for 1 July 2012.
+4.  [Population](https://www.cia.gov/library/publications/the-world-factbook/fields/2119.html), [월드 팩트북](../Page/월드_팩트북.md "wikilink"), [미국](../Page/미국.md "wikilink") [중앙정보국](../Page/중앙정보국.md "wikilink"). Accessed on 2 April 2012. Note: Data are mostly for 1 July 2012.

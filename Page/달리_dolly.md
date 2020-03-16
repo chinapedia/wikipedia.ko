@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ dolly](https://ko.wikipedia.org/wiki/_dolly).
 
 
-**달리 (Dolly)**([1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink") [6월 20일](https://ko.wikipedia.org/wiki/6월_20일 "wikilink") - )는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악가이다.
+**달리 (Dolly)**([1978년](../Page/1978년.md "wikilink") [6월 20일](../Page/6월_20일.md "wikilink") - )는 [대한민국](../Page/대한민국.md "wikilink")의 음악가이다.
 
-1996년 펑크 록 밴드 [노브레인](https://ko.wikipedia.org/wiki/노브레인 "wikilink") 결성 이래 현재까지 드러머로 활동 중이며, 그 외에 TV애니메이션, 게임, 단편 영화, 무용극 등 다양한 분야의 음악감독, 작곡가로 활동하고 있다.
+1996년 펑크 록 밴드 [노브레인](../Page/노브레인.md "wikilink") 결성 이래 현재까지 드러머로 활동 중이며, 그 외에 TV애니메이션, 게임, 단편 영화, 무용극 등 다양한 분야의 음악감독, 작곡가로 활동하고 있다.
 
 2017년 '달리'라는 활동명으로 첫 싱글 '소년이 돌아왔다'를 발표했으며, 지속적인 싱글 음원 및 앨범 활동을 예고하고 있다.
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Choosey Lover](https://ko.wikipedia.org/wiki/Choosey_Lover).
 
 
-〈**Choosey Lover**〉(츄시 러버)는 [동방신기](https://ko.wikipedia.org/wiki/동방신기 "wikilink")의 일본 10번째 싱글이다.
+〈**Choosey Lover**〉(츄시 러버)는 [동방신기](../Page/동방신기.md "wikilink")의 일본 10번째 싱글이다.
 
 ## 개요
 

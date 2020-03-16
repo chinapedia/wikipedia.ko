@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ONE SHOT, TWO SHOT](https://ko.wikipedia.org/wiki/ONE_SHOT,_TWO_SHOT).
 
 
-《***ONE SHOT, TWO SHOT***》(원 샷, 투 샷)는 가수 [보아](https://ko.wikipedia.org/wiki/보아 "wikilink")의 대한민국 첫 번째 미니 음반으로, 온라인을 통하여 2018년 2월 20일 발매되었고, 다음날인 21일 [아이리버](https://ko.wikipedia.org/wiki/아이리버 "wikilink")를 통해 발매되었다. 앨범의 타이틀곡은 〈ONE SHOT, TWO SHOT〉이며, 1월 31일 선공개된 〈[내가 돌아 (NEGA DOLA)](../Page/내가_돌아_\(NEGA_DOLA\).md "wikilink")〉가 수록되었다.
+《***ONE SHOT, TWO SHOT***》(원 샷, 투 샷)는 가수 [보아](../Page/보아.md "wikilink")의 대한민국 첫 번째 미니 음반으로, 온라인을 통하여 2018년 2월 20일 발매되었고, 다음날인 21일 [아이리버](../Page/아이리버.md "wikilink")를 통해 발매되었다. 앨범의 타이틀곡은 〈ONE SHOT, TWO SHOT〉이며, 1월 31일 선공개된 〈[내가 돌아 (NEGA DOLA)](../Page/내가_돌아_\(NEGA_DOLA\).md "wikilink")〉가 수록되었다.
 
 ## 작업 및 발매
 

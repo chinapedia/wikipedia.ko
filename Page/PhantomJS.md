@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [PhantomJS](https://ko.wikipedia.org/wiki/PhantomJS).
 
 
-**PhantomJS**(팬텀JS)는 웹 페이지 상호작용을 자동화하기 위해 사용되는 [헤드리스 브라우저이다](https://ko.wikipedia.org/wiki/헤드리스_브라우저 "wikilink"). PhantomJS는 자동화된 탐색, 스크린샷, 사용자 동작, [어서션](https://ko.wikipedia.org/wiki/어서션 "wikilink")을 가능케 하므로 [지속적 통합](https://ko.wikipedia.org/wiki/지속적_통합 "wikilink") 환경과 같은 [헤드리스 시스템](https://ko.wikipedia.org/wiki/헤드리스_시스템 "wikilink") 내에서 브라우저 기반 유닛 테스트를 수행하기 위한 도구로 이용이 가능하다.
+**PhantomJS**(팬텀JS)는 웹 페이지 상호작용을 자동화하기 위해 사용되는 [헤드리스 브라우저이다](https://ko.wikipedia.org/wiki/헤드리스_브라우저 "wikilink"). PhantomJS는 자동화된 탐색, 스크린샷, 사용자 동작, [어서션](https://ko.wikipedia.org/wiki/어서션 "wikilink")을 가능케 하므로 [지속적 통합](../Page/지속적_통합.md "wikilink") 환경과 같은 [헤드리스 시스템](https://ko.wikipedia.org/wiki/헤드리스_시스템 "wikilink") 내에서 브라우저 기반 유닛 테스트를 수행하기 위한 도구로 이용이 가능하다.
 
-PhantomJS는 [사파리와](https://ko.wikipedia.org/wiki/사파리_\(웹_브라우저\) "wikilink") [구글 크롬과](https://ko.wikipedia.org/wiki/구글_크롬 "wikilink") 유사한 브라우징 환경을 갖춘 [웹킷](https://ko.wikipedia.org/wiki/웹킷 "wikilink") 기반이다. [BSD 허가서로](https://ko.wikipedia.org/wiki/BSD_허가서 "wikilink") 출시된 [오픈 소스 소프트웨어이다](https://ko.wikipedia.org/wiki/오픈_소스_소프트웨어 "wikilink").\[1\]
+PhantomJS는 [사파리와](../Page/사파리_\(웹_브라우저\).md "wikilink") [구글 크롬과](https://ko.wikipedia.org/wiki/구글_크롬 "wikilink") 유사한 브라우징 환경을 갖춘 [웹킷](../Page/웹킷.md "wikilink") 기반이다. [BSD 허가서로](../Page/BSD_허가서.md "wikilink") 출시된 [오픈 소스 소프트웨어이다](../Page/오픈_소스_소프트웨어.md "wikilink").\[1\]
 
 ## 역사
 
@@ -28,11 +28,11 @@ page.open(url, function (status) {
 
 ## 같이 보기
 
-  - [모질라 파이어폭스](https://ko.wikipedia.org/wiki/모질라_파이어폭스 "wikilink")
+  - [모질라 파이어폭스](../Page/모질라_파이어폭스.md "wikilink")
   - [구글 크롬](https://ko.wikipedia.org/wiki/구글_크롬 "wikilink")
   - [SlimerJS](https://ko.wikipedia.org/wiki/SlimerJS "wikilink")
   - [TrifleJS](https://ko.wikipedia.org/wiki/TrifleJS "wikilink")
-  - [WebKit](https://ko.wikipedia.org/wiki/웹킷 "wikilink")
+  - [WebKit](../Page/웹킷.md "wikilink")
 
 ## 각주
 

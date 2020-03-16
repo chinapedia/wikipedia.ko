@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Red Diary Page.1](https://ko.wikipedia.org/wiki/Red_Diary_Page.1).
 
 
-***Red Diary Page.1***은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악 그룹 [볼빨간사춘기](../Page/볼빨간사춘기.md "wikilink")의 두 번째 EP 음반이다. 2017년 9월 28일 [카카오M에](https://ko.wikipedia.org/wiki/카카오엠 "wikilink") 의해 발매되었다.
+***Red Diary Page.1***은 [대한민국](../Page/대한민국.md "wikilink")의 음악 그룹 [볼빨간사춘기](../Page/볼빨간사춘기.md "wikilink")의 두 번째 EP 음반이다. 2017년 9월 28일 [카카오M에](../Page/카카오엠.md "wikilink") 의해 발매되었다.
 
 ## 트랙 리스트
 

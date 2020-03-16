@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KARI 7 ](https://ko.wikipedia.org/wiki/KARI_7_).
 
 
-**KRE-007**은 한국 [한국항공우주연구원](https://ko.wikipedia.org/wiki/한국항공우주연구원 "wikilink")(KARI)이 개발한 [우주발사체](https://ko.wikipedia.org/wiki/우주발사체 "wikilink")용 액체연료 로켓 엔진이다. 등유를 연료로 사용하며, 산화제는 액체산소를 사용한다.
+**KRE-007**은 한국 [한국항공우주연구원](../Page/한국항공우주연구원.md "wikilink")(KARI)이 개발한 [우주발사체](../Page/우주발사체.md "wikilink")용 액체연료 로켓 엔진이다. 등유를 연료로 사용하며, 산화제는 액체산소를 사용한다.
 
 ## 설명
 
@@ -9,14 +9,14 @@
 
 2014년 3월 18일, [미래창조과학부](https://ko.wikipedia.org/wiki/미래창조과학부 "wikilink")는 한국형발사체 3단 엔진에 적용될 7톤 액체엔진 연소기 지상연소시험을 성공적으로 마쳤다고 밝혔다. 설계점 10초, 20초, 60초, 180초, 230초 총 5회 시험으로 누적시간으로 해당 엔진의 실제 사용 시간인 500초를 달성했다. 5회 시험 모두 안정적인 연소를 나타냈다.\[2\]
 
-[우주발사체](https://ko.wikipedia.org/wiki/우주발사체 "wikilink")는 보통 2단, 3단 로켓으로 구성된다. 1단 로켓은 지상에서 고도 50 km 까지, 대기권을 뚫고 올라가는 역할을 한다. 2단 로켓은 대기권을 벗어나 공기밀도가 매우 낮은 곳에서 [외기권](https://ko.wikipedia.org/wiki/외기권 "wikilink")까지 상승시킨다. 3단로켓은 지구와 평행하게 궤도를 변경하여 인공위성을 궤도에 안착시킨다. 요즘은 [재점화](https://ko.wikipedia.org/wiki/재점화 "wikilink")가 가능한 엔진을 사용해, 3단이 아니라 2단으로 해결하는 것이 추세이며, 인공위성을 최종적으로 지구 궤도에 올려놓는 로켓을 킥모터(고체연료), 킥엔진(액체연료)라고 한다. KARI 7톤급 로켓엔진은 킥엔진이다. 재점화 기능은 없다.
+[우주발사체](../Page/우주발사체.md "wikilink")는 보통 2단, 3단 로켓으로 구성된다. 1단 로켓은 지상에서 고도 50 km 까지, 대기권을 뚫고 올라가는 역할을 한다. 2단 로켓은 대기권을 벗어나 공기밀도가 매우 낮은 곳에서 [외기권](../Page/외기권.md "wikilink")까지 상승시킨다. 3단로켓은 지구와 평행하게 궤도를 변경하여 인공위성을 궤도에 안착시킨다. 요즘은 [재점화](https://ko.wikipedia.org/wiki/재점화 "wikilink")가 가능한 엔진을 사용해, 3단이 아니라 2단으로 해결하는 것이 추세이며, 인공위성을 최종적으로 지구 궤도에 올려놓는 로켓을 킥모터(고체연료), 킥엔진(액체연료)라고 한다. KARI 7톤급 로켓엔진은 킥엔진이다. 재점화 기능은 없다.
 
 ## RD-8
 
 [한국형 발사체](https://ko.wikipedia.org/wiki/한국형_발사체 "wikilink") 개발을 기획할 당시, 3단에 우크라이나제 [RD-8](../Page/RD-8.md "wikilink") 엔진을 사용할 것을 검토했었다가, 최종적으로는 선택되지 못했다.
 
   - KARI 7톤급 로켓엔진, 진공추력 7톤, [가스발생기 사이클](../Page/가스발생기_사이클.md "wikilink"), 재점화 기능 없음
-  - [RD-8](../Page/RD-8.md "wikilink"), 진공추력 8톤, [단계식 연소 사이클](https://ko.wikipedia.org/wiki/단계식_연소_사이클 "wikilink"), 재점화 기능 있음
+  - [RD-8](../Page/RD-8.md "wikilink"), 진공추력 8톤, [단계식 연소 사이클](../Page/단계식_연소_사이클.md "wikilink"), 재점화 기능 있음
 
 그런데 최근 보도에서는, [항우연](https://ko.wikipedia.org/wiki/항우연 "wikilink")이 2010년부터 RD-8의 연구를 시작해, 2017년 6월 현재 8톤 추력의 연소시험까지 완료했다고 한다.\[3\]
 
@@ -29,8 +29,8 @@
 
 ## 더 보기
 
-  - [KARI 30톤급 로켓엔진](https://ko.wikipedia.org/wiki/KARI_30톤급_로켓엔진 "wikilink")
-  - [KARI 75톤급 로켓엔진](https://ko.wikipedia.org/wiki/KARI_75톤급_로켓엔진 "wikilink")
+  - [KARI 30톤급 로켓엔진](../Page/KARI_30톤급_로켓엔진.md "wikilink")
+  - [KARI 75톤급 로켓엔진](../Page/KARI_75톤급_로켓엔진.md "wikilink")
   - [RD-8](../Page/RD-8.md "wikilink")
 
 ## 각주

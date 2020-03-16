@@ -117,7 +117,7 @@ end
 `   if options.format == 'flash' then`
 `       ret[#ret + 1] = mw.getCurrentFrame():expandTemplate{`
 `           title = 'Link note',`
-`           args = {note = '`[`어도비``   ``플래시``   ``플레이어`](https://ko.wikipedia.org/wiki/어도비_플래시_플레이어 "wikilink")` 필요'}`
+`           args = {note = '`[`어도비``   ``플래시``   ``플레이어`](../Page/어도비_플래시_플레이어.md "wikilink")` 필요'}`
 `       }`
 `   end`
 `   if options.mobile then`

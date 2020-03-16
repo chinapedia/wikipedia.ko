@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Princeton Theological Review](https://ko.wikipedia.org/wiki/The_Princeton_Theological_Review).
 
 
-***The Princeton Theological Review*** 는 [프린스턴 신학교의](https://ko.wikipedia.org/wiki/프린스턴_신학교 "wikilink") 학생들에 의해서 발행되는 신학저널이다. 1825년 프린스턴 신학교를 졸업하고 [교수](https://ko.wikipedia.org/wiki/교수 "wikilink")가 된 [찰스 핫지가](../Page/찰스_핫지.md "wikilink") 성경 레퍼토리라는 명칭으로 처음으로 발행하었다.\[1\] 1903년 현재의 이름으로 개명되었다.\[2\] 1929년 이사회가  중단시켰는데 1990 년대 중반에 다시 출판되었다.\[3\]
+***The Princeton Theological Review*** 는 [프린스턴 신학교의](../Page/프린스턴_신학교.md "wikilink") 학생들에 의해서 발행되는 신학저널이다. 1825년 프린스턴 신학교를 졸업하고 [교수](../Page/교수.md "wikilink")가 된 [찰스 핫지가](../Page/찰스_핫지.md "wikilink") 성경 레퍼토리라는 명칭으로 처음으로 발행하었다.\[1\] 1903년 현재의 이름으로 개명되었다.\[2\] 1929년 이사회가  중단시켰는데 1990 년대 중반에 다시 출판되었다.\[3\]
 
 ## 각주
 

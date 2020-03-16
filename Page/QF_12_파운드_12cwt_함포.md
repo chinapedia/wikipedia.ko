@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [QF 12  12cwt ](https://ko.wikipedia.org/wiki/QF_12__12cwt_).
 
 
-**QF 12 파운드 12cwt 함포**(QF 12 pounder 12 cwt naval gun)는 영국에서 개발된 함포이다. 초창기의 속사포 중 하나이며, [구축함](https://ko.wikipedia.org/wiki/구축함 "wikilink")의 주포와 대형함의 [어뢰](https://ko.wikipedia.org/wiki/어뢰 "wikilink")를 방어하는 포로 널리 사용되었다. 또한 [해안포](../Page/해안포.md "wikilink")와 [고사포](https://ko.wikipedia.org/wiki/고사포 "wikilink")로 전용되기도 했다.
+**QF 12 파운드 12cwt 함포**(QF 12 pounder 12 cwt naval gun)는 영국에서 개발된 함포이다. 초창기의 속사포 중 하나이며, [구축함](../Page/구축함.md "wikilink")의 주포와 대형함의 [어뢰](../Page/어뢰.md "wikilink")를 방어하는 포로 널리 사용되었다. 또한 [해안포](../Page/해안포.md "wikilink")와 [고사포](https://ko.wikipedia.org/wiki/고사포 "wikilink")로 전용되기도 했다.
 
 ## 내력
 
@@ -13,11 +13,11 @@
 
 포신은 A 튜브, B 튜브, 외통과 C 후프(테)로 구성되어 있다. 강선은 2617mm 길이 16조, 회전도는 120구경 길이로 한 회전이었지만, 이후 30구경 길이로 한 회전으로 변경되었다. 유압 주퇴 복좌 장치를 갖춘 고각식 또는 중심축식의 포가에 올려둘 수 있었다. 나사못식의 꼬리 마개를 갖추었고, 숙련된 포병이면 분당 12발의 발사 속도를 발휘할 수 있다.
 
-약실의 길이는 393.12mm, 용적율은 1.994 입방 데시미터, 강압은 2,520 [kgf/cm²](https://ko.wikipedia.org/wiki/공학_기압 "wikilink") (247 [MPa](https://ko.wikipedia.org/wiki/파스칼_\(단위\) "wikilink")), 초속은 681m/s였다. 최대 사거리는 앙각 40도에서 10,740m 사거리를 가졌고, 최대 발사 높이는 앙각 70도에서 5,790m 사거리였다.
+약실의 길이는 393.12mm, 용적율은 1.994 입방 데시미터, 강압은 2,520 [kgf/cm²](https://ko.wikipedia.org/wiki/공학_기압 "wikilink") (247 [MPa](../Page/파스칼_\(단위\).md "wikilink")), 초속은 681m/s였다. 최대 사거리는 앙각 40도에서 10,740m 사거리를 가졌고, 최대 발사 높이는 앙각 70도에서 5,790m 사거리였다.
 
 ## 운용
 
-본포는 초기 영국 [구축함](https://ko.wikipedia.org/wiki/구축함 "wikilink")의 표준 함포로 널리 탑재되었다. 최초의 A급부터 주포로 장착된 대구경 40구경 10.2cm 포(BL 4인치포 Mk.VIII)를 채용한 F급 이상에서도 부포로 유지되었다. 그러나 외국 구축함이 대형화됨에 따라, 이 함포로는 구축함과의 교전에서 위력이 부족한 것을 절감하게 되었다.
+본포는 초기 영국 [구축함](../Page/구축함.md "wikilink")의 표준 함포로 널리 탑재되었다. 최초의 A급부터 주포로 장착된 대구경 40구경 10.2cm 포(BL 4인치포 Mk.VIII)를 채용한 F급 이상에서도 부포로 유지되었다. 그러나 외국 구축함이 대형화됨에 따라, 이 함포로는 구축함과의 교전에서 위력이 부족한 것을 절감하게 되었다.
 
 ## 참고문헌
 

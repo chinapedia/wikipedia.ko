@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  vs.  ](https://ko.wikipedia.org/wiki/__vs.__).
 
 
-《**쾌도전대 루팡레인저 vs. 경찰전대 패트레인저**》()는 [슈퍼 전대 시리즈](https://ko.wikipedia.org/wiki/슈퍼_전대_시리즈 "wikilink") 42번째 작품으로, 2018년 2월 11일에 [TV 아사히](https://ko.wikipedia.org/wiki/TV_아사히 "wikilink") 계열에서 방송했던 [특촬물](https://ko.wikipedia.org/wiki/특촬물 "wikilink") [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/텔레비전_드라마 "wikilink").
+《**쾌도전대 루팡레인저 vs. 경찰전대 패트레인저**》()는 [슈퍼 전대 시리즈](../Page/슈퍼_전대_시리즈.md "wikilink") 42번째 작품으로, 2018년 2월 11일에 [TV 아사히](../Page/TV_아사히.md "wikilink") 계열에서 방송했던 [특촬물](https://ko.wikipedia.org/wiki/특촬물 "wikilink") [텔레비전 드라마이다](../Page/텔레비전_드라마.md "wikilink").
 
 ## 줄거리
 
@@ -23,7 +23,7 @@
 
 <!-- end list -->
 
-  - 하야미 우미카 - [쿠도 하루카](https://ko.wikipedia.org/wiki/쿠도_하루카 "wikilink") (루팡 옐로)
+  - 하야미 우미카 - [쿠도 하루카](../Page/쿠도_하루카.md "wikilink") (루팡 옐로)
 
 ### 패트레인저 캐스팅
 
