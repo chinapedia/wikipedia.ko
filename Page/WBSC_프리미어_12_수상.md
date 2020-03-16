@@ -64,7 +64,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2015</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김현수_(1988년)" title="wikilink">김현수</a></p></td>
+<td><p><a href="../Page/김현수_(1988년).md" title="wikilink">김현수</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -81,7 +81,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2015</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/사카모토_하야토" title="wikilink">사카모토 하야토</a></p></td>
+<td><p><a href="../Page/사카모토_하야토.md" title="wikilink">사카모토 하야토</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -120,7 +120,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2015</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/나카타_쇼" title="wikilink">나카타 쇼</a></p></td>
+<td><p><a href="../Page/나카타_쇼.md" title="wikilink">나카타 쇼</a></p></td>
 <td><p>13</p></td>
 </tr>
 </tbody>
@@ -246,11 +246,11 @@
 <td><p><a href="../Page/오타니_쇼헤이.md" title="wikilink">오타니</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/더스틴_뮬러캔" title="wikilink">뮬러캔</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/움베르토_소사" title="wikilink">소사</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/나카타_쇼" title="wikilink">나카타</a></p></td>
+<td><p><a href="../Page/나카타_쇼.md" title="wikilink">나카타</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/아담_프레이저" title="wikilink">프레이저</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/황재균" title="wikilink">황재균</a></p></td>
+<td><p><a href="../Page/황재균.md" title="wikilink">황재균</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/커든_칼" title="wikilink">칼</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김현수_(1988년)" title="wikilink">김현수</a></p></td>
+<td><p><a href="../Page/김현수_(1988년).md" title="wikilink">김현수</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/맷_맥브라이드" title="wikilink">맥브라이드</a></p></td>
 </tr>
 </tbody>

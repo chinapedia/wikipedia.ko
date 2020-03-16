@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Blanky Munn\'s Unknown Verses](https://ko.wikipedia.org/wiki/Blanky_Munn\'s_Unknown_Verses).
 
 
-***Blanky Munn's Unknown Verses***은 [이센스](https://ko.wikipedia.org/wiki/이센스 "wikilink")가 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [9월 13일에](https://ko.wikipedia.org/wiki/9월_13일 "wikilink") 발매한 믹스테이프이다.
+***Blanky Munn's Unknown Verses***은 [이센스](../Page/이센스.md "wikilink")가 [2007년](../Page/2007년.md "wikilink") [9월 13일에](../Page/9월_13일.md "wikilink") 발매한 믹스테이프이다.
 
 ## 수록곡
 

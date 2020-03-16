@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ Be My Baby](https://ko.wikipedia.org/wiki/_Be_My_Baby).
 
 
-〈**입술에 Be My Baby**〉()는, [AKB48](https://ko.wikipedia.org/wiki/AKB48 "wikilink")의 42번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink").
+〈**입술에 Be My Baby**〉()는, [AKB48](../Page/AKB48.md "wikilink")의 42번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 
@@ -20,7 +20,7 @@
 1.  **** / <small>**입술에 Be My Baby**</small>
 
       -
-        (작사: [아키모토 야스시](https://ko.wikipedia.org/wiki/아키모토_야스시 "wikilink") / 작곡: 코우치 요시후미 / 편곡: 사사키 히로시)
+        (작사: [아키모토 야스시](../Page/아키모토_야스시.md "wikilink") / 작곡: 코우치 요시후미 / 편곡: 사사키 히로시)
 
 2.  **** / <small>**365일의 종이비행기**</small>
 
@@ -204,13 +204,13 @@
 
 (센터:타카하시 미나미)
 
-  - [이리야마 안나](https://ko.wikipedia.org/wiki/이리야마_안나 "wikilink"), [카시와기 유키](https://ko.wikipedia.org/wiki/카시와기_유키 "wikilink"), [카토 레나](https://ko.wikipedia.org/wiki/카토_레나 "wikilink"), [키자키 유리아](https://ko.wikipedia.org/wiki/키자키_유리아 "wikilink"), [키타하라 리에](https://ko.wikipedia.org/wiki/키타하라_리에 "wikilink"), [코지마 하루나](https://ko.wikipedia.org/wiki/코지마_하루나 "wikilink"), [사시하라 리노](https://ko.wikipedia.org/wiki/사시하라_리노 "wikilink"), [시마자키 하루카](https://ko.wikipedia.org/wiki/시마자키_하루카 "wikilink"), [타카하시 미나미](https://ko.wikipedia.org/wiki/다카하시_미나미 "wikilink"), [마츠이 쥬리나](https://ko.wikipedia.org/wiki/마츠이_쥬리나 "wikilink"), [미네기시 미나미](https://ko.wikipedia.org/wiki/미네기시_미나미 "wikilink"), [미야자와 사에](https://ko.wikipedia.org/wiki/미야자와_사에 "wikilink"), [미야와키 사쿠라](https://ko.wikipedia.org/wiki/미야와키_사쿠라 "wikilink"), [야마모토 사야카](https://ko.wikipedia.org/wiki/야마모토_사야카_\(NMB48\) "wikilink"), [요코야마 유이](https://ko.wikipedia.org/wiki/요코야마_유이 "wikilink"), [와타나베 마유](https://ko.wikipedia.org/wiki/와타나베_마유 "wikilink")
+  - [이리야마 안나](../Page/이리야마_안나.md "wikilink"), [카시와기 유키](../Page/카시와기_유키.md "wikilink"), [카토 레나](../Page/카토_레나.md "wikilink"), [키자키 유리아](https://ko.wikipedia.org/wiki/키자키_유리아 "wikilink"), [키타하라 리에](../Page/키타하라_리에.md "wikilink"), [코지마 하루나](../Page/코지마_하루나.md "wikilink"), [사시하라 리노](../Page/사시하라_리노.md "wikilink"), [시마자키 하루카](../Page/시마자키_하루카.md "wikilink"), [타카하시 미나미](https://ko.wikipedia.org/wiki/다카하시_미나미 "wikilink"), [마츠이 쥬리나](../Page/마츠이_쥬리나.md "wikilink"), [미네기시 미나미](../Page/미네기시_미나미.md "wikilink"), [미야자와 사에](../Page/미야자와_사에.md "wikilink"), [미야와키 사쿠라](../Page/미야와키_사쿠라.md "wikilink"), [야마모토 사야카](https://ko.wikipedia.org/wiki/야마모토_사야카_\(NMB48\) "wikilink"), [요코야마 유이](../Page/요코야마_유이.md "wikilink"), [와타나베 마유](../Page/와타나베_마유.md "wikilink")
 
 ### 365일의 종이비행기
 
 (센터:야마모토 사야카)
 
-  - 이리야마 안나, 카시와기 유키, 카토 레나, 키자키 유리아, 키타하라 리에, 코지마 하루나, [코다마 하루카](https://ko.wikipedia.org/wiki/코다마_하루카 "wikilink"), 사시하라 리노, 시마자키 하루카, 타카하시 미나미, 마츠이 쥬리나, 미야와키 사쿠라, 야마모토 사야카, 요코야마 유이, 와타나베 마유, [와타나베 미유키](https://ko.wikipedia.org/wiki/와타나베_미유키 "wikilink")
+  - 이리야마 안나, 카시와기 유키, 카토 레나, 키자키 유리아, 키타하라 리에, 코지마 하루나, [코다마 하루카](https://ko.wikipedia.org/wiki/코다마_하루카 "wikilink"), 사시하라 리노, 시마자키 하루카, 타카하시 미나미, 마츠이 쥬리나, 미야와키 사쿠라, 야마모토 사야카, 요코야마 유이, 와타나베 마유, [와타나베 미유키](../Page/와타나베_미유키.md "wikilink")
 
 ### 너를 너를 너를…
 
@@ -218,7 +218,7 @@
 
 (센터:코다마 하루카)
 
-  - [오오시마 료카](../Page/오오시마_료카.md "wikilink"), [오오와다 나나](../Page/오오와다_나나.md "wikilink"), [오카다 나나](../Page/오카다_나나.md "wikilink"), [카와모토 사야](../Page/카와모토_사야.md "wikilink"), [코지마 마코](../Page/코지마_마코.md "wikilink"), 코다마 하루카, [코미야마 하루카](https://ko.wikipedia.org/wiki/코미야마_하루카 "wikilink"), [사카구치 나기사](https://ko.wikipedia.org/wiki/사카구치_나기사 "wikilink"), [타카하시 쥬리](https://ko.wikipedia.org/wiki/타카하시_쥬리 "wikilink"), [타니구치 메구](https://ko.wikipedia.org/wiki/타니구치_메구 "wikilink"), [타노 유카](https://ko.wikipedia.org/wiki/타노_유카 "wikilink"), [니시노 미키](../Page/니시노_미키.md "wikilink"), [무카이치 미온](../Page/무카이치_미온.md "wikilink"), [무토 토무](../Page/무토_토무.md "wikilink"), [무라야마 유이리](https://ko.wikipedia.org/wiki/무라야마_유이리 "wikilink"), [와타나베 미유키](https://ko.wikipedia.org/wiki/와타나베_미유키 "wikilink")
+  - [오오시마 료카](../Page/오오시마_료카.md "wikilink"), [오오와다 나나](../Page/오오와다_나나.md "wikilink"), [오카다 나나](../Page/오카다_나나.md "wikilink"), [카와모토 사야](../Page/카와모토_사야.md "wikilink"), [코지마 마코](../Page/코지마_마코.md "wikilink"), 코다마 하루카, [코미야마 하루카](../Page/코미야마_하루카.md "wikilink"), [사카구치 나기사](../Page/사카구치_나기사.md "wikilink"), [타카하시 쥬리](https://ko.wikipedia.org/wiki/타카하시_쥬리 "wikilink"), [타니구치 메구](../Page/타니구치_메구.md "wikilink"), [타노 유카](../Page/타노_유카.md "wikilink"), [니시노 미키](../Page/니시노_미키.md "wikilink"), [무카이치 미온](../Page/무카이치_미온.md "wikilink"), [무토 토무](../Page/무토_토무.md "wikilink"), [무라야마 유이리](../Page/무라야마_유이리.md "wikilink"), [와타나베 미유키](../Page/와타나베_미유키.md "wikilink")
 
 ### 마돈나의 선택
 
@@ -226,7 +226,7 @@
 
 (센터:타나카 나츠미)
 
-  - 이리야마 안나, 오오시마 료카, 카토 레나, [코지나 유이](https://ko.wikipedia.org/wiki/코지나_유이 "wikilink"), [사토 스미레](https://ko.wikipedia.org/wiki/사토_스미레 "wikilink"), [사토 나나미](https://ko.wikipedia.org/wiki/사토_나나미 "wikilink"), 시마자키 하루카, [시로마 미루](https://ko.wikipedia.org/wiki/시로마_미루 "wikilink"), [타나카 나츠미](https://ko.wikipedia.org/wiki/타나카_나츠미 "wikilink"), 타노 유카, [마에다 아미](https://ko.wikipedia.org/wiki/마에다_아미 "wikilink"), [마츠오카 나츠미](https://ko.wikipedia.org/wiki/마츠오카_나츠미 "wikilink"), 무카이치 미온, [무라시게 안나](https://ko.wikipedia.org/wiki/무라시게_안나 "wikilink"), [모기 시노부](../Page/모기_시노부.md "wikilink"), 야마모토 사야카
+  - 이리야마 안나, 오오시마 료카, 카토 레나, [코지나 유이](https://ko.wikipedia.org/wiki/코지나_유이 "wikilink"), [사토 스미레](../Page/사토_스미레.md "wikilink"), [사토 나나미](https://ko.wikipedia.org/wiki/사토_나나미 "wikilink"), 시마자키 하루카, [시로마 미루](../Page/시로마_미루.md "wikilink"), [타나카 나츠미](https://ko.wikipedia.org/wiki/타나카_나츠미 "wikilink"), 타노 유카, [마에다 아미](https://ko.wikipedia.org/wiki/마에다_아미 "wikilink"), [마츠오카 나츠미](../Page/마츠오카_나츠미.md "wikilink"), 무카이치 미온, [무라시게 안나](../Page/무라시게_안나.md "wikilink"), [모기 시노부](../Page/모기_시노부.md "wikilink"), 야마모토 사야카
 
 ## 외부 링크
 

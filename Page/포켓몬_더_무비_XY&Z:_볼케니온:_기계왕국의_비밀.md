@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [   XY\&Z: :  ](https://ko.wikipedia.org/wiki/___XY\&Z:_:__).
 
 
-《**포켓몬 더 무비 XY\&Z 볼케니온: 기계왕국의 비밀**》()는 [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [7월 16일](https://ko.wikipedia.org/wiki/7월_16일 "wikilink") 개봉하는 [극장판 포켓몬스터의](https://ko.wikipedia.org/wiki/극장판_포켓몬스터 "wikilink") 제19기 영화이다.
+《**포켓몬 더 무비 XY\&Z 볼케니온: 기계왕국의 비밀**》()는 [2016년](../Page/2016년.md "wikilink") [7월 16일](../Page/7월_16일.md "wikilink") 개봉하는 [극장판 포켓몬스터의](https://ko.wikipedia.org/wiki/극장판_포켓몬스터 "wikilink") 제19기 영화이다.
 
 ## 개요
 
@@ -9,14 +9,14 @@
 
 ## 등장 인물
 
-  - [한지우](https://ko.wikipedia.org/wiki/한지우_\(포켓몬스터\) "wikilink")
+  - [한지우](../Page/한지우_\(포켓몬스터\).md "wikilink")
   - [세레나](https://ko.wikipedia.org/wiki/세레나 "wikilink")
   - [시트론](../Page/시트론.md "wikilink")
   - [유리카](https://ko.wikipedia.org/wiki/유리카_\(포켓몬스터\) "wikilink")
 
 ### 활약 포켓몬
 
-  - [피카츄](https://ko.wikipedia.org/wiki/피카츄 "wikilink")
+  - [피카츄](../Page/피카츄.md "wikilink")
   - [개굴닌자](../Page/개굴닌자.md "wikilink")
   - [테르나](https://ko.wikipedia.org/wiki/테르나 "wikilink")
   - [도치마론](https://ko.wikipedia.org/wiki/도치마론 "wikilink")
@@ -53,7 +53,7 @@
 
   -
     겉모습은 아조트 왕국의 대신, 그러나 다른 면에서는 왕국의 지배를 계획하는 마술사. 포켓몬을 강제로 메가진화 시키는 기술을 발명하고 있다. 본작의 악당.
-      - 사용 포켓몬 : [얼음귀신](https://ko.wikipedia.org/wiki/얼음귀신 "wikilink"), [후딘](https://ko.wikipedia.org/wiki/후딘 "wikilink"), [팬텀](https://ko.wikipedia.org/wiki/팬텀 "wikilink"), [보만다](https://ko.wikipedia.org/wiki/보만다 "wikilink"), [독침붕](https://ko.wikipedia.org/wiki/독침붕 "wikilink"). [다크펫](https://ko.wikipedia.org/wiki/다크펫 "wikilink"), [깜까미](https://ko.wikipedia.org/wiki/깜까미 "wikilink"), [마기라스](https://ko.wikipedia.org/wiki/마기라스 "wikilink"), [대짱이](https://ko.wikipedia.org/wiki/대짱이 "wikilink")
+      - 사용 포켓몬 : [얼음귀신](https://ko.wikipedia.org/wiki/얼음귀신 "wikilink"), [후딘](https://ko.wikipedia.org/wiki/후딘 "wikilink"), [팬텀](https://ko.wikipedia.org/wiki/팬텀 "wikilink"), [보만다](../Page/보만다.md "wikilink"), [독침붕](https://ko.wikipedia.org/wiki/독침붕 "wikilink"). [다크펫](https://ko.wikipedia.org/wiki/다크펫 "wikilink"), [깜까미](https://ko.wikipedia.org/wiki/깜까미 "wikilink"), [마기라스](https://ko.wikipedia.org/wiki/마기라스 "wikilink"), [대짱이](https://ko.wikipedia.org/wiki/대짱이 "wikilink")
 
 <!-- end list -->
 
@@ -94,19 +94,19 @@
 ## 주제가
 
   - 여는 곡 〈XY\&Z -movie ver.-〉
-    노래 - [사토시](https://ko.wikipedia.org/wiki/한지우_\(포켓몬스터\) "wikilink")(성우: [마츠모토 리카](https://ko.wikipedia.org/wiki/마츠모토_리카 "wikilink"))([SME 레코드](https://ko.wikipedia.org/wiki/SME_레코드 "wikilink"))
+    노래 - [사토시](../Page/한지우_\(포켓몬스터\).md "wikilink")(성우: [마츠모토 리카](../Page/마츠모토_리카.md "wikilink"))([SME 레코드](https://ko.wikipedia.org/wiki/SME_레코드 "wikilink"))
     작사 · 작곡 - 사코 토모히사 / 편곡: 사코 토모히사, Saku /
   - 한국어 더빙판 여는 곡 〈Remember times〉
     노래 - 최강호
   - 닫는 곡\[2\] 〈우체통에 목소리를 던져 넣어〉()
-    노래 - [YUKI](https://ko.wikipedia.org/wiki/YUKI "wikilink")([에픽 레코드 재팬](https://ko.wikipedia.org/wiki/에픽_레코드_재팬 "wikilink"))
+    노래 - [YUKI](../Page/YUKI.md "wikilink")([에픽 레코드 재팬](../Page/에픽_레코드_재팬.md "wikilink"))
     작사 - YUKI / 작곡: 요코야마 히로아키 / 편곡: YUKI, 타마이 켄지, 모모타 루이
   - 한국어 더빙판 닫는 곡 〈주머니 속 편지〉
     노래 - [여자친구](../Page/여자친구_\(음악_그룹\).md "wikilink")
 
 ## 같이 보기
 
-  - [포켓몬스터](https://ko.wikipedia.org/wiki/포켓몬스터 "wikilink")
+  - [포켓몬스터](../Page/포켓몬스터.md "wikilink")
   - [포켓몬스터 XY](https://ko.wikipedia.org/wiki/포켓몬스터_XY "wikilink")
 
 ## 각주

@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [TG1](https://ko.wikipedia.org/wiki/TG1).
 
 
-《**TG1**》()는 [이탈리아](https://ko.wikipedia.org/wiki/이탈리아 "wikilink")의 국영TV 채널 [Rai 1에서](../Page/Rai_1.md "wikilink") 방송되는 [뉴스 프로그램이다](https://ko.wikipedia.org/wiki/뉴스_프로그램 "wikilink"). Rai 1과 [국제 방송인](https://ko.wikipedia.org/wiki/국제_방송 "wikilink") [Rai 이탈리아에서](https://ko.wikipedia.org/wiki/Rai_이탈리아 "wikilink") 하루에 여러 번 방송된다. 현재 국장은 언론인인 마리오 오르페오(Mario Orfeo)이다. 1952년 첫 방송 당시 “텔레조르날레(Telegiornale)”란 이름으로 시작되었으나, 1975\~1976년에 TG1란 명칭을 사용하기 시작하였다. 1992\~1993년 사이에 잠시 Telegiornale Uno란 명칭으로 사용하되기도 하였다가 1993년 이후 TG1란 이름으로 돌아갔다.
+《**TG1**》()는 [이탈리아](../Page/이탈리아.md "wikilink")의 국영TV 채널 [Rai 1에서](../Page/Rai_1.md "wikilink") 방송되는 [뉴스 프로그램이다](https://ko.wikipedia.org/wiki/뉴스_프로그램 "wikilink"). Rai 1과 [국제 방송인](https://ko.wikipedia.org/wiki/국제_방송 "wikilink") [Rai 이탈리아에서](https://ko.wikipedia.org/wiki/Rai_이탈리아 "wikilink") 하루에 여러 번 방송된다. 현재 국장은 언론인인 마리오 오르페오(Mario Orfeo)이다. 1952년 첫 방송 당시 “텔레조르날레(Telegiornale)”란 이름으로 시작되었으나, 1975\~1976년에 TG1란 명칭을 사용하기 시작하였다. 1992\~1993년 사이에 잠시 Telegiornale Uno란 명칭으로 사용하되기도 하였다가 1993년 이후 TG1란 이름으로 돌아갔다.
 
 ## 성향
 
 [자유의 인민](../Page/자유의_인민.md "wikilink") 소속 파올로 로마니([:it:Paolo Romani](https://ko.wikipedia.org/wiki/:it:Paolo_Romani "wikilink"))는 [일 템포](https://ko.wikipedia.org/wiki/템포_\(신문\) "wikilink")([Il Tempo](https://ko.wikipedia.org/wiki/:it:Il_Tempo "wikilink")) 신문사의 인터뷰에서 TG1은 "정치적으로 중도좌파 성향을 가지고 있다."고 한다.
 
-한편 [라 레푸블리카](../Page/라_레푸블리카.md "wikilink") 신문사에서는 이 발언을 [실비오 베를루스코니와](https://ko.wikipedia.org/wiki/실비오_베를루스코니 "wikilink") [자유의 인민](../Page/자유의_인민.md "wikilink") 소속 당원들이 가지는 정치적 편견으로, 정치인 안토니오 디 피에트로(Antonio Di Pietro)가, [실비오 베를루스코니](https://ko.wikipedia.org/wiki/실비오_베를루스코니 "wikilink") 소유의 텔레비전 채널의 뉴스캐스트 편집장의 에밀리오 페데([Emilio Fede](https://ko.wikipedia.org/wiki/Emilio_Fede "wikilink"))를 비교하며, TG1의 편집장인 Augusto Minzolini의 해고를 요청한 것에 대해 비판하였다.\[1\]
+한편 [라 레푸블리카](../Page/라_레푸블리카.md "wikilink") 신문사에서는 이 발언을 [실비오 베를루스코니와](../Page/실비오_베를루스코니.md "wikilink") [자유의 인민](../Page/자유의_인민.md "wikilink") 소속 당원들이 가지는 정치적 편견으로, 정치인 안토니오 디 피에트로(Antonio Di Pietro)가, [실비오 베를루스코니](../Page/실비오_베를루스코니.md "wikilink") 소유의 텔레비전 채널의 뉴스캐스트 편집장의 에밀리오 페데([Emilio Fede](https://ko.wikipedia.org/wiki/Emilio_Fede "wikilink"))를 비교하며, TG1의 편집장인 Augusto Minzolini의 해고를 요청한 것에 대해 비판하였다.\[1\]
 
 ## 오프닝 테마
 

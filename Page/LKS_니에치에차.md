@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [LKS ](https://ko.wikipedia.org/wiki/LKS_).
 
 
-**LKS 니에치에차**(LKS Nieciecza)는 [폴란드](https://ko.wikipedia.org/wiki/폴란드 "wikilink")에 위치한 [자브노](https://ko.wikipedia.org/wiki/자브노 "wikilink")(Żabno)의 니에치에차(Nieciecza) 마을을 연고로 하는 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink")팀이다. 이 팀은 [1922년](https://ko.wikipedia.org/wiki/1922년 "wikilink")에 창단하였다.
+**LKS 니에치에차**(LKS Nieciecza)는 [폴란드](../Page/폴란드.md "wikilink")에 위치한 [자브노](https://ko.wikipedia.org/wiki/자브노 "wikilink")(Żabno)의 니에치에차(Nieciecza) 마을을 연고로 하는 [축구](../Page/축구.md "wikilink")팀이다. 이 팀은 [1922년](../Page/1922년.md "wikilink")에 창단하였다.
 
 ## 선수단
 
 ### 현재 소속 선수
 
-[2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [4월 6일](https://ko.wikipedia.org/wiki/4월_6일 "wikilink") 기준
+[2016년](../Page/2016년.md "wikilink") [4월 6일](../Page/4월_6일.md "wikilink") 기준
 
   - [LKS 니에치에차](http://www.90minut.pl/kadra.php?id_sezon=87&wiosna=1&id_klub=14974)
 

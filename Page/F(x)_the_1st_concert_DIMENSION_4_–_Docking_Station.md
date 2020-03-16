@@ -5,7 +5,7 @@
 
 ## 개요
 
-2015년 10월 28일, SM 엔터테인먼트는 공식 홈페이지를 통해 [f(x)](https://ko.wikipedia.org/wiki/f\(x\) "wikilink")의 첫 번째 단독 콘서트 일정을 공개하였고,\[1\] 뒤이어 12월 3일, 콘서트 포스터 이미지와 예매 일정이 공개되었다. 예매는 12월 10일 [YES24](https://ko.wikipedia.org/wiki/YES24 "wikilink")에서 진행되었고 이후 전석 매진을 기록하여 티켓을 구하지 못한 팬들의 추가 공연 요청이 쇄도할 만큼 호응이 좋아 29일의 공연 일정이 추가되었다.\[2\]
+2015년 10월 28일, SM 엔터테인먼트는 공식 홈페이지를 통해 [f(x)](https://ko.wikipedia.org/wiki/f\(x\) "wikilink")의 첫 번째 단독 콘서트 일정을 공개하였고,\[1\] 뒤이어 12월 3일, 콘서트 포스터 이미지와 예매 일정이 공개되었다. 예매는 12월 10일 [YES24](../Page/YES24.md "wikilink")에서 진행되었고 이후 전석 매진을 기록하여 티켓을 구하지 못한 팬들의 추가 공연 요청이 쇄도할 만큼 호응이 좋아 29일의 공연 일정이 추가되었다.\[2\]
 
 ## 투어 일정
 
@@ -43,7 +43,7 @@
 </tr>
 <tr class="even">
 <td><p>2016년 2월 20일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/도쿄도" title="wikilink">도쿄</a></p></td>
+<td><p><a href="../Page/도쿄도.md" title="wikilink">도쿄</a></p></td>
 <td></td>
 <td><p>아리아케 콜로세움</p></td>
 <td><p>통산 20,000명</p></td>
@@ -104,10 +104,10 @@
 
 ## 제작
 
-  - [f(x)](https://ko.wikipedia.org/wiki/f\(x\) "wikilink") ([빅토리아](https://ko.wikipedia.org/wiki/빅토리아_\(가수\) "wikilink"), [엠버](https://ko.wikipedia.org/wiki/엠버_\(가수\) "wikilink"), [루나](https://ko.wikipedia.org/wiki/루나_\(가수\) "wikilink"), [크리스탈](https://ko.wikipedia.org/wiki/크리스탈_\(가수\) "wikilink"))
+  - [f(x)](https://ko.wikipedia.org/wiki/f\(x\) "wikilink") ([빅토리아](../Page/빅토리아_\(가수\).md "wikilink"), [엠버](../Page/엠버_\(가수\).md "wikilink"), [루나](../Page/루나_\(가수\).md "wikilink"), [크리스탈](../Page/크리스탈_\(가수\).md "wikilink"))
   - 주최 : [SM엔터테인먼트](https://ko.wikipedia.org/wiki/SM엔터테인먼트 "wikilink")
   - 주관 : 드림메이커
-  - 후원 : [YES24](https://ko.wikipedia.org/wiki/YES24 "wikilink")
+  - 후원 : [YES24](../Page/YES24.md "wikilink")
   - 총연출 : [심재원](https://ko.wikipedia.org/wiki/심재원_\(가수\) "wikilink")
 
 ## 외부 링크

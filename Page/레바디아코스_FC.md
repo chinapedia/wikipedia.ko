@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
 
 
-**리바디아코스 FC**()는 [리바디아](https://ko.wikipedia.org/wiki/리바디아 "wikilink")를 연고지로 하는 [그리스](https://ko.wikipedia.org/wiki/그리스 "wikilink")의 프로 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 현재 [수페르리가 엘라다에](https://ko.wikipedia.org/wiki/수페르리가_엘라다 "wikilink") 소속되어 있다.
+**리바디아코스 FC**()는 [리바디아](https://ko.wikipedia.org/wiki/리바디아 "wikilink")를 연고지로 하는 [그리스](../Page/그리스.md "wikilink")의 프로 [축구](../Page/축구.md "wikilink") 클럽이다. 현재 [수페르리가 엘라다에](../Page/수페르리가_엘라다.md "wikilink") 소속되어 있다.
 
 1961년 지역 클럽인 토로 포니오스와 파레우아디아키가 합병해 창단되었다.
 

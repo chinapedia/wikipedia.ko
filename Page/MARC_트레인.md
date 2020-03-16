@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [MARC ](https://ko.wikipedia.org/wiki/MARC_).
 
 
-**MARC 트레인**(, 이하 줄여서 **MARC**)는 미국 [메릴랜드주](https://ko.wikipedia.org/wiki/메릴랜드주 "wikilink") 지역에 여객 철도 운송업을 하는 준공영 기업이다. [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink")에 설립되었으며 [암트랙](https://ko.wikipedia.org/wiki/암트랙 "wikilink")이 [메릴랜드 트랜짓 어드미니스트레이션과](https://ko.wikipedia.org/wiki/메릴랜드_트랜짓_어드미니스트레이션 "wikilink") 계약을 맺고 [봄바디어 트랜스포테이숀이](https://ko.wikipedia.org/wiki/봄바디어_트랜스포테이숀 "wikilink") 공동으로 관리한다. [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 교외 철도 기업 중에서 속도가 가장 빠른 201km로 운행하고 있다.\[1\]
+**MARC 트레인**(, 이하 줄여서 **MARC**)는 미국 [메릴랜드주](../Page/메릴랜드주.md "wikilink") 지역에 여객 철도 운송업을 하는 준공영 기업이다. [1984년](../Page/1984년.md "wikilink")에 설립되었으며 [암트랙](../Page/암트랙.md "wikilink")이 [메릴랜드 트랜짓 어드미니스트레이션과](https://ko.wikipedia.org/wiki/메릴랜드_트랜짓_어드미니스트레이션 "wikilink") 계약을 맺고 [봄바디어 트랜스포테이숀이](../Page/봄바디어_트랜스포테이숀.md "wikilink") 공동으로 관리한다. [미국](../Page/미국.md "wikilink")의 교외 철도 기업 중에서 속도가 가장 빠른 201km로 운행하고 있다.\[1\]
 
-[2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") 기준으로 운행하고 있는 노선은 [브런즈윅 선](https://ko.wikipedia.org/wiki/브런즈윅_선 "wikilink"), [캠든 선](https://ko.wikipedia.org/wiki/캠든_선 "wikilink"), [펜 선이](https://ko.wikipedia.org/wiki/펜_선 "wikilink") 운행하고 있다.\[2\]\[3\]\[4\]\[5\]
+[2015년](../Page/2015년.md "wikilink") 기준으로 운행하고 있는 노선은 [브런즈윅 선](https://ko.wikipedia.org/wiki/브런즈윅_선 "wikilink"), [캠든 선](https://ko.wikipedia.org/wiki/캠든_선 "wikilink"), [펜 선이](https://ko.wikipedia.org/wiki/펜_선 "wikilink") 운행하고 있다.\[2\]\[3\]\[4\]\[5\]
 
 ## 운행 노선
 
@@ -32,24 +32,24 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:EMD_AEM-7_MARC_4902_at_Union_Station.jpg" title="wikilink">150px</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/일렉트로_모티브_디젤" title="wikilink">EMD</a>/<a href="https://ko.wikipedia.org/wiki/ASEA" title="wikilink">ASEA</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/EMD_AEM-7" title="wikilink">EMD AEM-7</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/일렉트로_모티브_디젤" title="wikilink">EMD</a>/<a href="../Page/ASEA.md" title="wikilink">ASEA</a></p></td>
+<td><p><a href="../Page/EMD_AEM-7.md" title="wikilink">EMD AEM-7</a></p></td>
 <td><p>4</p></td>
 <td><p>4900 ~ 4903</p></td>
 <td><ul>
-<li>AEM-7 4901의 경우 퇴역 후 <a href="https://ko.wikipedia.org/wiki/볼티모어" title="wikilink">볼티모어</a>에서 리버사이드 야드로 이전</li>
-<li><a href="https://ko.wikipedia.org/wiki/2017년" title="wikilink">2017년</a>부터 <a href="https://ko.wikipedia.org/wiki/2018년" title="wikilink">2018년</a>까지 순차별로 퇴역될 예정<br />
+<li>AEM-7 4901의 경우 퇴역 후 <a href="../Page/볼티모어.md" title="wikilink">볼티모어</a>에서 리버사이드 야드로 이전</li>
+<li><a href="../Page/2017년.md" title="wikilink">2017년</a>부터 <a href="../Page/2018년.md" title="wikilink">2018년</a>까지 순차별로 퇴역될 예정<br />
 대체 차량: <a href="../Page/지멘스_차저.md" title="wikilink">지멘스 차저</a></li>
 </ul></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:MARC_Locomotive_4912.jpg" title="wikilink">150px</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/봄바디어_트랜스포테이숀" title="wikilink">봄바디어</a>-<a href="https://ko.wikipedia.org/wiki/알스톰" title="wikilink">알스톰</a></p></td>
+<td><p><a href="../Page/봄바디어_트랜스포테이숀.md" title="wikilink">봄바디어</a>-<a href="../Page/알스톰.md" title="wikilink">알스톰</a></p></td>
 <td><p><a href="../Page/봄바디어_알스톰_HHP-8.md" title="wikilink">봄바디어 알스톰 HHP-8</a></p></td>
 <td><p>6</p></td>
 <td><p>4910 ~ 4915</p></td>
 <td><ul>
-<li><a href="https://ko.wikipedia.org/wiki/2017년" title="wikilink">2017년</a>부터 <a href="https://ko.wikipedia.org/wiki/2018년" title="wikilink">2018년</a>까지 순차별로 퇴역될 예정<br />
+<li><a href="../Page/2017년.md" title="wikilink">2017년</a>부터 <a href="../Page/2018년.md" title="wikilink">2018년</a>까지 순차별로 퇴역될 예정<br />
 대체 차량: <a href="../Page/지멘스_차저.md" title="wikilink">지멘스 차저</a></li>
 </ul></td>
 </tr>
@@ -157,7 +157,7 @@ MARC 갤러리</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/봄바디어_트랜스포테이숀" title="wikilink">봄바디어</a><br />
+<td><p><a href="../Page/봄바디어_트랜스포테이숀.md" title="wikilink">봄바디어</a><br />
 MARC IV</p></td>
 <td><p>54</p></td>
 <td><ul>
@@ -172,8 +172,8 @@ MARC IV</p></td>
 
 ## 같이 보기
 
-  - [암트랙](https://ko.wikipedia.org/wiki/암트랙 "wikilink")
-  - [봄바디어 트랜스포테이숀](https://ko.wikipedia.org/wiki/봄바디어_트랜스포테이숀 "wikilink")
+  - [암트랙](../Page/암트랙.md "wikilink")
+  - [봄바디어 트랜스포테이숀](../Page/봄바디어_트랜스포테이숀.md "wikilink")
 
 ## 각주
 

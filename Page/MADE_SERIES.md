@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MADE SERIES](https://ko.wikipedia.org/wiki/MADE_SERIES).
 
 
-《**MADE SERIES**》()는 대한민국의 음악 그룹 [빅뱅의](https://ko.wikipedia.org/wiki/빅뱅_\(음악_그룹\) "wikilink") 일본에서 발표한 다섯 번째 정규 음반이다. 2015년 한국에서 발매 된 *[동명의 한국 정규 음반](../Page/MADE_\(빅뱅의_음반\).md "wikilink")*에서 공개된 오리지널 버전 8곡과 일본어 버전 3곡까지 총 11곡이 수록 되었다.\[1\] 빅뱅이 일본어 버전 곡을 발표하는 것은 2012년 6월 20일 발매 된 *[ALIVE -MONSTER EDITION-](../Page/ALIVE_\(빅뱅의_음반\).md "wikilink")* 이후 3년 8개월 만이다.\[2\] 이 음반은 해외 아티스트 사상 최초로 3년 연속 일본 돔 투어인 《BIGBANG WORLD TOUR 2015\~2016 'MADE' IN JAPAN》를 개최한 빅뱅의 일본 돔 투어 콘서트를 기념하는 음반이기도 하다.
+《**MADE SERIES**》()는 대한민국의 음악 그룹 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") 일본에서 발표한 다섯 번째 정규 음반이다. 2015년 한국에서 발매 된 *[동명의 한국 정규 음반](../Page/MADE_\(빅뱅의_음반\).md "wikilink")*에서 공개된 오리지널 버전 8곡과 일본어 버전 3곡까지 총 11곡이 수록 되었다.\[1\] 빅뱅이 일본어 버전 곡을 발표하는 것은 2012년 6월 20일 발매 된 *[ALIVE -MONSTER EDITION-](../Page/ALIVE_\(빅뱅의_음반\).md "wikilink")* 이후 3년 8개월 만이다.\[2\] 이 음반은 해외 아티스트 사상 최초로 3년 연속 일본 돔 투어인 《BIGBANG WORLD TOUR 2015\~2016 'MADE' IN JAPAN》를 개최한 빅뱅의 일본 돔 투어 콘서트를 기념하는 음반이기도 하다.
 
 ## 발매
 

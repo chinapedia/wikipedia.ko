@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [R.U.R.](https://ko.wikipedia.org/wiki/R.U.R.).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:R.U.R._by_Karel_Čapek_1939.jpg "wikilink") **R.U.R.**은 1920년에 [체코](https://ko.wikipedia.org/wiki/체코 "wikilink")의 작가 [카렐 차페크가](https://ko.wikipedia.org/wiki/카렐_차페크 "wikilink") 쓴 [SF](https://ko.wikipedia.org/wiki/SF "wikilink") [희곡](https://ko.wikipedia.org/wiki/희곡 "wikilink")이다. R.U.R.은 Rossumovi Univerzální Roboti (Rossum’s Universal Robots)의 약자이다.\[1\] 그러나, 체코어 원본에 부제를 영문인 Rossum’s Universal Robots로 달아두었다.\[2\] 1921년 1월 25일에 초연되었고, 영어와 SF세계에 robot라는 단어를 처음으로 등장시켰다.\[3\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:R.U.R._by_Karel_Čapek_1939.jpg "wikilink") **R.U.R.**은 1920년에 [체코](../Page/체코.md "wikilink")의 작가 [카렐 차페크가](../Page/카렐_차페크.md "wikilink") 쓴 [SF](https://ko.wikipedia.org/wiki/SF "wikilink") [희곡](https://ko.wikipedia.org/wiki/희곡 "wikilink")이다. R.U.R.은 Rossumovi Univerzální Roboti (Rossum’s Universal Robots)의 약자이다.\[1\] 그러나, 체코어 원본에 부제를 영문인 Rossum’s Universal Robots로 달아두었다.\[2\] 1921년 1월 25일에 초연되었고, 영어와 SF세계에 robot라는 단어를 처음으로 등장시켰다.\[3\]
 
 출판된 뒤에는 매우 빠르게 유명해져서\[4\]\[5\]\[6\] 1923년에는 30개 나라 언어로 번역되었다.\[7\]\[8\]
 

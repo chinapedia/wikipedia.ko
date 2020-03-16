@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  \(SPHL\)](https://ko.wikipedia.org/wiki/__\(SPHL\)).
 
 
-**루이지애나 아이스게이터스**(Louisiana IceGators)는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [루이지애나주](https://ko.wikipedia.org/wiki/루이지애나주 "wikilink") [라피엣를](https://ko.wikipedia.org/wiki/라피엣_\(루이지애나주\) "wikilink") 연고지로 하는 2009년부터 2016년까지 SPHL 소속되었던 아이스 하키팀이다.
+**루이지애나 아이스게이터스**(Louisiana IceGators)는 [미국](../Page/미국.md "wikilink") [루이지애나주](../Page/루이지애나주.md "wikilink") [라피엣를](../Page/라피엣_\(루이지애나주\).md "wikilink") 연고지로 하는 2009년부터 2016년까지 SPHL 소속되었던 아이스 하키팀이다.
 
 ## 역대 홈경기장
 
@@ -27,7 +27,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/블랙햄_콜리시엄" title="wikilink">블랙햄 콜리시엄</a></p></td>
 <td><p>2009년~2010년</p></td>
 <td><p>9,800명</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/루이지애나주" title="wikilink">루이지애나주</a> <a href="https://ko.wikipedia.org/wiki/라피엣_(루이지애나주)" title="wikilink">라피엣</a></p></td>
+<td><p><a href="../Page/루이지애나주.md" title="wikilink">루이지애나주</a> <a href="../Page/라피엣_(루이지애나주).md" title="wikilink">라피엣</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

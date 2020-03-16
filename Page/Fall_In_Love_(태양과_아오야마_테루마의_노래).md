@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Fall In Love \(   \)](https://ko.wikipedia.org/wiki/Fall_In_Love_\(___\)).
 
 
-**Fall in Love**()는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 여성 가수 [아오야마 텔마의](https://ko.wikipedia.org/wiki/아오야마_텔마 "wikilink") 여덟 번째 싱글이다. 대한민국의 음악 그룹 [빅뱅의](https://ko.wikipedia.org/wiki/빅뱅_\(음악_그룹\) "wikilink") [태양이](https://ko.wikipedia.org/wiki/태양_\(가수\) "wikilink") 피처링에 참여했다. 일본에서는 아오야마 텔마 × SOL from BIGBANG 명의로 발매 되었다. 2010년 1월 27일 발매 되었다. [테레비 도쿄의](https://ko.wikipedia.org/wiki/테레비_도쿄 "wikilink") 제21회 [밴쿠버 동계 올림픽](https://ko.wikipedia.org/wiki/밴쿠버_동계_올림픽 "wikilink") 테마곡으로 기용되었다.\[1\]
+**Fall in Love**()는 [일본](../Page/일본.md "wikilink")의 여성 가수 [아오야마 텔마의](../Page/아오야마_텔마.md "wikilink") 여덟 번째 싱글이다. 대한민국의 음악 그룹 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") [태양이](../Page/태양_\(가수\).md "wikilink") 피처링에 참여했다. 일본에서는 아오야마 텔마 × SOL from BIGBANG 명의로 발매 되었다. 2010년 1월 27일 발매 되었다. [테레비 도쿄의](https://ko.wikipedia.org/wiki/테레비_도쿄 "wikilink") 제21회 [밴쿠버 동계 올림픽](https://ko.wikipedia.org/wiki/밴쿠버_동계_올림픽 "wikilink") 테마곡으로 기용되었다.\[1\]
 
 ## 트랙 리스트
 

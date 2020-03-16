@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  TV](https://ko.wikipedia.org/wiki/__TV).
 
 
-**레알 마드리드 TV**는 제한적인 [레알 마드리드](https://ko.wikipedia.org/wiki/레알_마드리드 "wikilink") 전용 [디지털 텔레비전](https://ko.wikipedia.org/wiki/디지털_텔레비전 "wikilink") 채널이다. 채널은 [스페인어](https://ko.wikipedia.org/wiki/스페인어 "wikilink")와 [영어](https://ko.wikipedia.org/wiki/영어 "wikilink")로 제공된다. 레알 마드리드 채널의 메인 리포터는 노하 모스타파 아담이다. 레알 마드리드의 훈련장인 [발데베바스](https://ko.wikipedia.org/wiki/발데베바스 "wikilink")의 [시우다드 레알 마드리드에](https://ko.wikipedia.org/wiki/시우다드_레알_마드리드 "wikilink") 위치해 있다.
+**레알 마드리드 TV**는 제한적인 [레알 마드리드](https://ko.wikipedia.org/wiki/레알_마드리드 "wikilink") 전용 [디지털 텔레비전](../Page/디지털_텔레비전.md "wikilink") 채널이다. 채널은 [스페인어](../Page/스페인어.md "wikilink")와 [영어](../Page/영어.md "wikilink")로 제공된다. 레알 마드리드 채널의 메인 리포터는 노하 모스타파 아담이다. 레알 마드리드의 훈련장인 [발데베바스](https://ko.wikipedia.org/wiki/발데베바스 "wikilink")의 [시우다드 레알 마드리드에](../Page/시우다드_레알_마드리드.md "wikilink") 위치해 있다.
 
 ## 콘텐츠
 

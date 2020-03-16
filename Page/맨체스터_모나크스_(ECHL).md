@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  \(ECHL\)](https://ko.wikipedia.org/wiki/__\(ECHL\)).
 
 
-**맨체스터 모나크스**(Manchester Monarchs)는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [뉴햄프셔주](https://ko.wikipedia.org/wiki/뉴햄프셔주 "wikilink") [맨체스터를](https://ko.wikipedia.org/wiki/맨체스터_\(뉴햄프셔주\) "wikilink") 연고지로 하는 [ECHL](../Page/ECHL.md "wikilink")의 동부 콘퍼런스 노스 디비전 소속 아이스 하키팀이다.
+**맨체스터 모나크스**(Manchester Monarchs)는 [미국](../Page/미국.md "wikilink") [뉴햄프셔주](../Page/뉴햄프셔주.md "wikilink") [맨체스터를](../Page/맨체스터_\(뉴햄프셔주\).md "wikilink") 연고지로 하는 [ECHL](../Page/ECHL.md "wikilink")의 동부 콘퍼런스 노스 디비전 소속 아이스 하키팀이다.
 
 ## 역대 홈경기장
 

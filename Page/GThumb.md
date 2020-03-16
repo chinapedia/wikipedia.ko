@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [GThumb](https://ko.wikipedia.org/wiki/GThumb).
 
 
-**gThumb**는 이미지를 보여주고 관리하는 그놈 데스크탑의 프로그램이다. [자유 소프트웨어로](https://ko.wikipedia.org/wiki/자유_소프트웨어 "wikilink") 제공된다.
+**gThumb**는 이미지를 보여주고 관리하는 그놈 데스크탑의 프로그램이다. [자유 소프트웨어로](../Page/자유_소프트웨어.md "wikilink") 제공된다.
 
 ## 특징
 
@@ -23,7 +23,7 @@
 ## 같이 보기
 
   - [그놈의 눈](../Page/그놈의_눈.md "wikilink") - 그놈 데스크탑의 기본 이미지 뷰어
-  - [김프](https://ko.wikipedia.org/wiki/김프 "wikilink") - 그놈 데스크탑의 그래픽 소프트웨어
+  - [김프](../Page/김프.md "wikilink") - 그놈 데스크탑의 그래픽 소프트웨어
 
 ## 외부 링크
 

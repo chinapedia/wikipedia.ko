@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Dear Santa](https://ko.wikipedia.org/wiki/Dear_Santa).
 
 
-《**Dear Santa**》는 대한민국의 음악 그룹 [소녀시대-태티서](https://ko.wikipedia.org/wiki/소녀시대-태티서 "wikilink")의 세 번째 미니 앨범이자 크리스마스 스페셜 앨범이다. 2015년 12월 4일 [KT 뮤직을](https://ko.wikipedia.org/wiki/KT_뮤직 "wikilink") 통해 발매되었다.
+《**Dear Santa**》는 대한민국의 음악 그룹 [소녀시대-태티서](../Page/소녀시대-태티서.md "wikilink")의 세 번째 미니 앨범이자 크리스마스 스페셜 앨범이다. 2015년 12월 4일 [KT 뮤직을](https://ko.wikipedia.org/wiki/KT_뮤직 "wikilink") 통해 발매되었다.
 
 ## 수록곡
 

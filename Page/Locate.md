@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Locate](https://ko.wikipedia.org/wiki/Locate).
 
 
-**`locate`**은 [파일 시스템에서](https://ko.wikipedia.org/wiki/파일_시스템 "wikilink") [파일을](https://ko.wikipedia.org/wiki/컴퓨터_파일 "wikilink") 찾기 위해서 1983년에 만들어진 [유닉스](https://ko.wikipedia.org/wiki/유닉스 "wikilink") 유틸리티이다.\[1\] 이것은 **`updatedb`** 에 의해서 생성된 미리 빌드된 파일들의 데이터베이스를 통해 검색한다.  `find`에 비해서 매우 빠르지만 데이터베이스의 정기적인 업데이트를 필요로 한다. 이것은 속도 향상을 위해 전체적인 효율성과 절대적인 정확성을 희생하였다.
+**`locate`**은 [파일 시스템에서](../Page/파일_시스템.md "wikilink") [파일을](../Page/컴퓨터_파일.md "wikilink") 찾기 위해서 1983년에 만들어진 [유닉스](../Page/유닉스.md "wikilink") 유틸리티이다.\[1\] 이것은 **`updatedb`** 에 의해서 생성된 미리 빌드된 파일들의 데이터베이스를 통해 검색한다.  `find`에 비해서 매우 빠르지만 데이터베이스의 정기적인 업데이트를 필요로 한다. 이것은 속도 향상을 위해 전체적인 효율성과 절대적인 정확성을 희생하였다.
 
 몇몇 버전은 네트워크 파일시스템도 색인화할 수 있다.
 

@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Sysfs](https://ko.wikipedia.org/wiki/Sysfs).
 
 
-**sysfs**는 [리눅스 커널이](https://ko.wikipedia.org/wiki/리눅스_커널 "wikilink") 제공하는 [가상 파일 시스템의](https://ko.wikipedia.org/wiki/가상_파일_시스템 "wikilink") 하나로서, [가상 파일을](https://ko.wikipedia.org/wiki/가상_파일 "wikilink") 통해 다양한 커널 하위 시스템, 하드웨어 장치, 또 커널 장치 모델에서 [사용자 공간에](https://ko.wikipedia.org/wiki/사용자_공간 "wikilink") 이르는 관련 [장치 드라이버에](https://ko.wikipedia.org/wiki/장치_드라이버 "wikilink") 대한 정보를 내보낸다. 다양한 장치와 커널 하위 시스템의 정보를 제공하는 일뿐 아니라, 내보낸 가상 파일들은 이들의 구성에도 사용된다.
+**sysfs**는 [리눅스 커널이](../Page/리눅스_커널.md "wikilink") 제공하는 [가상 파일 시스템의](https://ko.wikipedia.org/wiki/가상_파일_시스템 "wikilink") 하나로서, [가상 파일을](https://ko.wikipedia.org/wiki/가상_파일 "wikilink") 통해 다양한 커널 하위 시스템, 하드웨어 장치, 또 커널 장치 모델에서 [사용자 공간에](../Page/사용자_공간.md "wikilink") 이르는 관련 [장치 드라이버에](../Page/장치_드라이버.md "wikilink") 대한 정보를 내보낸다. 다양한 장치와 커널 하위 시스템의 정보를 제공하는 일뿐 아니라, 내보낸 가상 파일들은 이들의 구성에도 사용된다.
 
-sysfs는 [BSD](https://ko.wikipedia.org/wiki/BSD "wikilink") [운영 체제에서](https://ko.wikipedia.org/wiki/운영_체제 "wikilink") 볼 수 있는 [sysctl](https://ko.wikipedia.org/wiki/sysctl "wikilink") 구조와 비슷한 기능을 제공하며, 차이점으로는 sysfs가 목적에 따라 만들어진 커널 매커니즘이 아닌 가상 파일 시스템으로 구현되어 있다는 것이다.
+sysfs는 [BSD](../Page/BSD.md "wikilink") [운영 체제에서](../Page/운영_체제.md "wikilink") 볼 수 있는 [sysctl](https://ko.wikipedia.org/wiki/sysctl "wikilink") 구조와 비슷한 기능을 제공하며, 차이점으로는 sysfs가 목적에 따라 만들어진 커널 매커니즘이 아닌 가상 파일 시스템으로 구현되어 있다는 것이다.
 
 ## 역사
 
@@ -22,9 +22,9 @@ sysfs는 `/sys`라는 마운트 지점 아래에 마운트된다.
 ## 지원 버스
 
   - PCI
-    [PCI](https://ko.wikipedia.org/wiki/PCI_버스 "wikilink") 장치의 정보를 내보낸다.
+    [PCI](../Page/PCI_버스.md "wikilink") 장치의 정보를 내보낸다.
   - USB
-    [USB](https://ko.wikipedia.org/wiki/USB "wikilink") 장치와 USB 호스트를 둘 다 포함한다.
+    [USB](../Page/USB.md "wikilink") 장치와 USB 호스트를 둘 다 포함한다.
   - S/390 버스
     [S/390](https://ko.wikipedia.org/wiki/S/390 "wikilink") 구조는 어느 곳에서도 볼 수 없는 장치를 포함하고 있어서 특수 버스가 만들어졌다:
       - *css*: 하위 채널들을 포함한다. (현재 제공되는 유일한 드라이버는 입출력 하위 채널을 위해 존재함)

@@ -6,7 +6,7 @@
 ## 2010년대
 
   - 2011년 9월 20일 [소울스타](../Page/소울스타.md "wikilink") - **Rebirth**
-  - 2011년 10월 12일 [씨리얼](https://ko.wikipedia.org/wiki/씨리얼_\(음악_그룹\) "wikilink") - **[Round 1](https://ko.wikipedia.org/wiki/Round_1 "wikilink")**
+  - 2011년 10월 12일 [씨리얼](../Page/씨리얼_\(음악_그룹\).md "wikilink") - **[Round 1](https://ko.wikipedia.org/wiki/Round_1 "wikilink")**
   - 2011년 10월 14일 소울스타 - **더뮤지컬 OST Part.3**\[1\]
   - 2011년 12월 6일 씨리얼 - **꽃미남 라면가게 OST Part.4**
   - 2012년 3월 7일 씨리얼 - **[Love Diary](https://ko.wikipedia.org/wiki/Love_Diary "wikilink")**
@@ -56,8 +56,8 @@
 
 1.  최초의 OST 앨범.
 2.  [휘성](https://ko.wikipedia.org/wiki/휘성 "wikilink")도 앨범 참여.
-3.  [버블시스터즈](https://ko.wikipedia.org/wiki/버블시스터즈 "wikilink")의 멤버 [영지도](../Page/영지_\(가수\).md "wikilink") 앨범 참여.
+3.  [버블시스터즈](../Page/버블시스터즈.md "wikilink")의 멤버 [영지도](../Page/영지_\(가수\).md "wikilink") 앨범 참여.
 4.  [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink")도 앨범 참여.그리고 HIGH4 미니 1집의 첫번째 선공개곡.
-5.  [투개월](https://ko.wikipedia.org/wiki/투개월 "wikilink")의 멤버 [김예림](https://ko.wikipedia.org/wiki/김예림 "wikilink")도 앨범 참여.그리고 HIGH4 미니 1집의 두번째 선공개곡.
+5.  [투개월](../Page/투개월.md "wikilink")의 멤버 [김예림](../Page/김예림.md "wikilink")도 앨범 참여.그리고 HIGH4 미니 1집의 두번째 선공개곡.
 6.  [휘성](https://ko.wikipedia.org/wiki/휘성 "wikilink")도 앨범 참여.
 7.  [민지](https://ko.wikipedia.org/wiki/민지 "wikilink")도 앨범 참여.

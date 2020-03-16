@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Patch](https://ko.wikipedia.org/wiki/Patch).
 
 
-**patch** 컴퓨터 도구는 패치 파일로 불리는 별도의 [파일](https://ko.wikipedia.org/wiki/파일 "wikilink")에 포함된 지시에 따라 텍스트 파일을 업데이트하는 [유닉스](https://ko.wikipedia.org/wiki/유닉스 "wikilink") [프로그램이다](https://ko.wikipedia.org/wiki/컴퓨터_프로그램 "wikilink"). 이 패치 파일은 줄여서 간단히 패치라고도 하며, 일련의 차이를 구성하고 있는 텍스트 파일인데 이 파일은 원래의 파일과 업데이트된 파일을 변수로 받아 관련 [diff](https://ko.wikipedia.org/wiki/diff "wikilink") 프로그램을 실행하여 만들어진다. patch로 파일을 업데이트하는 일을 "패치를 적용한다"고 표현한다.
+**patch** 컴퓨터 도구는 패치 파일로 불리는 별도의 [파일](https://ko.wikipedia.org/wiki/파일 "wikilink")에 포함된 지시에 따라 텍스트 파일을 업데이트하는 [유닉스](../Page/유닉스.md "wikilink") [프로그램이다](../Page/컴퓨터_프로그램.md "wikilink"). 이 패치 파일은 줄여서 간단히 패치라고도 하며, 일련의 차이를 구성하고 있는 텍스트 파일인데 이 파일은 원래의 파일과 업데이트된 파일을 변수로 받아 관련 [diff](https://ko.wikipedia.org/wiki/diff "wikilink") 프로그램을 실행하여 만들어진다. patch로 파일을 업데이트하는 일을 "패치를 적용한다"고 표현한다.
 
 ## 역사
 
-최초의 patch 프로그램은 [펄](https://ko.wikipedia.org/wiki/펄 "wikilink") 프로그래밍 언어를 창시한 [래리 월이](https://ko.wikipedia.org/wiki/래리_월 "wikilink") 작성하여 `mod.sources`\[1\](나중의 comp.source.unix)에 1985년 5월에 게시한 것이다. 프로그램 변종들 중 하나\[2\]\[3\]\[4\]는 [GNU 프로젝트의](https://ko.wikipedia.org/wiki/GNU_프로젝트 "wikilink") 일부로서 [FSF에](https://ko.wikipedia.org/wiki/자유_소프트웨어_재단 "wikilink") 의해 유지보수되고 있다.
+최초의 patch 프로그램은 [펄](../Page/펄.md "wikilink") 프로그래밍 언어를 창시한 [래리 월이](../Page/래리_월.md "wikilink") 작성하여 `mod.sources`\[1\](나중의 comp.source.unix)에 1985년 5월에 게시한 것이다. 프로그램 변종들 중 하나\[2\]\[3\]\[4\]는 [GNU 프로젝트의](../Page/GNU_프로젝트.md "wikilink") 일부로서 [FSF에](../Page/자유_소프트웨어_재단.md "wikilink") 의해 유지보수되고 있다.
 
 ## 사용 예
 
@@ -33,7 +33,7 @@
 
 ## 같이 보기
 
-  - [패치 (컴퓨팅)](https://ko.wikipedia.org/wiki/패치_\(컴퓨팅\) "wikilink")
+  - [패치 (컴퓨팅)](../Page/패치_\(컴퓨팅\).md "wikilink")
   - [diff](https://ko.wikipedia.org/wiki/diff "wikilink")
 
 ## 각주

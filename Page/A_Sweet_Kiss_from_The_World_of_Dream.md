@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [A Sweet Kiss from The World of Dream](https://ko.wikipedia.org/wiki/A_Sweet_Kiss_from_The_World_of_Dream).
 
 
-《***A Sweet Kiss from The World of Dream***》은 [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [3월 19일](https://ko.wikipedia.org/wiki/3월_19일 "wikilink") 개최 된 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 3인조 [걸 그룹](https://ko.wikipedia.org/wiki/걸_그룹 "wikilink") [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") 《***[S.E.S.](https://ko.wikipedia.org/wiki/S.E.S. "wikilink")***》의 첫 번째 단독 [콘서트이다](https://ko.wikipedia.org/wiki/공연장 "wikilink").
+《***A Sweet Kiss from The World of Dream***》은 [2000년](../Page/2000년.md "wikilink") [3월 19일](../Page/3월_19일.md "wikilink") 개최 된 [대한민국](../Page/대한민국.md "wikilink")의 3인조 [걸 그룹](../Page/걸_그룹.md "wikilink") [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") 《***[S.E.S.](https://ko.wikipedia.org/wiki/S.E.S. "wikilink")***》의 첫 번째 단독 [콘서트이다](https://ko.wikipedia.org/wiki/공연장 "wikilink").
 
 ## 설명
 
@@ -31,7 +31,7 @@
 <td><p>2000년 3월 19일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/서울" title="wikilink">서울</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/올림픽체조경기장" title="wikilink">올림픽체조경기장</a></p></td>
+<td><p><a href="../Page/올림픽체조경기장.md" title="wikilink">올림픽체조경기장</a></p></td>
 <td><p>10,000명</p></td>
 </tr>
 </tbody>
@@ -59,7 +59,7 @@
 <td style="text-align: left;"><p>비디오</p></td>
 <td style="text-align: left;"><p>《2000 S.E.S. First Concert》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2000년" title="wikilink">2000년</a> <a href="https://ko.wikipedia.org/wiki/6월_16일" title="wikilink">6월 16일</a></li>
+<li>발매일 : <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/6월_16일.md" title="wikilink">6월 16일</a></li>
 <li>유통사 : Sego Entertainment</li>
 </ul></td>
 </tr>
@@ -84,7 +84,7 @@
 <td style="text-align: left;"><p>VCD</p></td>
 <td style="text-align: left;"><p>《2000 S.E.S. First Concert》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2000년" title="wikilink">2000년</a> <a href="https://ko.wikipedia.org/wiki/6월_23일" title="wikilink">6월 23일</a></li>
+<li>발매일 : <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/6월_23일.md" title="wikilink">6월 23일</a></li>
 <li>유통사 : Sego Entertainment</li>
 </ul></td>
 </tr>

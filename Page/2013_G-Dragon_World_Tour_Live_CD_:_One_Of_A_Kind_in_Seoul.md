@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [2013 G-Dragon World Tour Live CD : One Of A Kind in Seoul](https://ko.wikipedia.org/wiki/2013_G-Dragon_World_Tour_Live_CD_:_One_Of_A_Kind_in_Seoul).
 
 
-《**2013 G-Dragon World Tour Live CD : One Of A Kind in Seoul**》는 대한민국의 음악 그룹 [빅뱅의](https://ko.wikipedia.org/wiki/빅뱅_\(음악_그룹\) "wikilink") 리더 [지드래곤](https://ko.wikipedia.org/wiki/지드래곤 "wikilink")의 두 번째 라이브 음반이다. 2013년 3월 30일과 31일 이틀간 서울 올림픽공원 체조경기장에서 열린 지드래곤의 첫 번째 월드 투어의 서울 공연 실황이 수록 되어 있다.\[1\]
+《**2013 G-Dragon World Tour Live CD : One Of A Kind in Seoul**》는 대한민국의 음악 그룹 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") 리더 [지드래곤](../Page/지드래곤.md "wikilink")의 두 번째 라이브 음반이다. 2013년 3월 30일과 31일 이틀간 서울 올림픽공원 체조경기장에서 열린 지드래곤의 첫 번째 월드 투어의 서울 공연 실황이 수록 되어 있다.\[1\]
 
 ## 트랙 리스트
 

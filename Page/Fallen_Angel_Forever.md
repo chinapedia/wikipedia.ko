@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Fallen Angel Forever](https://ko.wikipedia.org/wiki/Fallen_Angel_Forever).
 
 
-**《Fallen Angel Forever》**는 [김종서의](https://ko.wikipedia.org/wiki/김종서_\(가수\) "wikilink") 5집 정규 앨범이다.
+**《Fallen Angel Forever》**는 [김종서의](../Page/김종서_\(가수\).md "wikilink") 5집 정규 앨범이다.
 
 ## 수록곡
 

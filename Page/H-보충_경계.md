@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [H- ](https://ko.wikipedia.org/wiki/H-_).
 
 
-[위상수학](https://ko.wikipedia.org/wiki/위상수학 "wikilink")에서 **h-보충 경계**(h-補充境界, )는 양끝과 [호모토피 동치](https://ko.wikipedia.org/wiki/호모토피_동치 "wikilink") 관계에 있는 보충 경계이다. 5차원 이상의 다양체를 분류하는 도구로 쓰인다.
+[위상수학](../Page/위상수학.md "wikilink")에서 **h-보충 경계**(h-補充境界, )는 양끝과 [호모토피 동치](../Page/호모토피_동치.md "wikilink") 관계에 있는 보충 경계이다. 5차원 이상의 다양체를 분류하는 도구로 쓰인다.
 
 ## 정의
 
-\(\mathcal C\)가 (위상) [다양체](https://ko.wikipedia.org/wiki/다양체 "wikilink") · [조각적 선형 다양체](https://ko.wikipedia.org/wiki/조각적_선형_다양체 "wikilink") · [매끄러운 다양체의](https://ko.wikipedia.org/wiki/매끄러운_다양체 "wikilink") 범주 가운데 하나라고 하자.
+\(\mathcal C\)가 (위상) [다양체](../Page/다양체.md "wikilink") · [조각적 선형 다양체](https://ko.wikipedia.org/wiki/조각적_선형_다양체 "wikilink") · [매끄러운 다양체의](../Page/매끄러운_다양체.md "wikilink") 범주 가운데 하나라고 하자.
 
 두 \(n\)차원 \(\mathcal C\)-다양체 \(M\), \(N\) 사이의 [보충 경계](../Page/보충_경계.md "wikilink") \((W,\iota_M,\iota_N)\)이 주어졌다고 하자.
 
 \[\iota_M\colon M\hookrightarrow W\]
 
-\[\iota_N\colon N\hookrightarrow W\] 만약 \(\iota_M\)과 \(\iota_N\) 각각이 [호모토피 동치일](https://ko.wikipedia.org/wiki/호모토피_동치 "wikilink") 경우, \((W,\iota_M,\iota_N)\)을 **h-보충 경계**라고 한다.
+\[\iota_N\colon N\hookrightarrow W\] 만약 \(\iota_M\)과 \(\iota_N\) 각각이 [호모토피 동치일](../Page/호모토피_동치.md "wikilink") 경우, \((W,\iota_M,\iota_N)\)을 **h-보충 경계**라고 한다.
 
 ## h-보충 경계 정리
 
@@ -51,9 +51,9 @@ h-보충 경계는 다음과 같은 **h-보충 경계 정리**(h-補充境界定
 
 저차원의 다양체의 h-보충 경계 정리에 대해서는 다음이 알려져 있다.
 
-  - 4차원 h-보충 경계 정리: 위상 다양체의 경우 성립하지만, 조각적 선형 또는 [매끄러운 다양체의](https://ko.wikipedia.org/wiki/매끄러운_다양체 "wikilink") 경우 성립하지 않는다. 한편 3차원 이하에서는 위상 · 조각적 선형 · 매끄러운 다양체 범주 각각이 서로 동치이므로 이런 구분이 필요하지 않는다.
-  - 3차원 h-보충 경계 정리: 4차원 [초구](https://ko.wikipedia.org/wiki/초구 "wikilink")가 비표준 매끄러운 구조를 갖는지 여부와 동치이며, 이는 유명한 난제이다.
-  - 2차원 h-보충 경계 정리: \(M\)과 \(N\)이 모두 구면(\(S^2\))인 경우만 보이면 충분하다. [그리고리 페렐만이](https://ko.wikipedia.org/wiki/그리고리_페렐만 "wikilink") 증명한 3차원 [푸앵카레 추측에](https://ko.wikipedia.org/wiki/푸앵카레_추측 "wikilink") 따라 참이다.
+  - 4차원 h-보충 경계 정리: 위상 다양체의 경우 성립하지만, 조각적 선형 또는 [매끄러운 다양체의](../Page/매끄러운_다양체.md "wikilink") 경우 성립하지 않는다. 한편 3차원 이하에서는 위상 · 조각적 선형 · 매끄러운 다양체 범주 각각이 서로 동치이므로 이런 구분이 필요하지 않는다.
+  - 3차원 h-보충 경계 정리: 4차원 [초구](../Page/초구.md "wikilink")가 비표준 매끄러운 구조를 갖는지 여부와 동치이며, 이는 유명한 난제이다.
+  - 2차원 h-보충 경계 정리: \(M\)과 \(N\)이 모두 구면(\(S^2\))인 경우만 보이면 충분하다. [그리고리 페렐만이](../Page/그리고리_페렐만.md "wikilink") 증명한 3차원 [푸앵카레 추측에](../Page/푸앵카레_추측.md "wikilink") 따라 참이다.
   - 1차원 h-보충 경계 정리: h-보충 경계가 존재하지 않으므로 참이다.
   - 0차원 h-보충 경계 정리: h-보충 경계는 닫힌 선분이 유일하므로 자명하게 참이다.
 
@@ -66,22 +66,22 @@ h-보충 경계는 다음과 같은 **h-보충 경계 정리**(h-補充境界定
   -
     \(M^n\)이 구 \(S^n\)과 호모토피 동형이라면, 서로 [위상 동형이다](https://ko.wikipedia.org/wiki/위상_동형 "wikilink").
 
-[스티븐 스메일은](https://ko.wikipedia.org/wiki/스티븐_스메일 "wikilink") 5차원 이상의 h-보충 경계 정리를 이용해 6차원 이상의 푸앵카레 추측을 증명하였고, 약간의 보조정리를 추가해서 5차원의 푸앵카레 추측도 증명하였다.
+[스티븐 스메일은](../Page/스티븐_스메일.md "wikilink") 5차원 이상의 h-보충 경계 정리를 이용해 6차원 이상의 푸앵카레 추측을 증명하였고, 약간의 보조정리를 추가해서 5차원의 푸앵카레 추측도 증명하였다.
 
 ### s-보충 경계 정리
 
-[단일 연결이](https://ko.wikipedia.org/wiki/단일_연결 "wikilink") 아닌 경우, 다음과 같은 **s-보충 경계 정리**(s-補充境界定理, )가 성립한다. \(n\ge5\)차원의 \(\mathcal C\)-다양체 \(M\), \(N\) 사이의 h-보충 경계 \((W,\iota_M,\iota_N)\)가 주어졌다고 하자. **s-보충 경계 정리**에 따르면, 다음 두 조건이 서로 [동치](https://ko.wikipedia.org/wiki/동치 "wikilink")이다.
+[단일 연결이](https://ko.wikipedia.org/wiki/단일_연결 "wikilink") 아닌 경우, 다음과 같은 **s-보충 경계 정리**(s-補充境界定理, )가 성립한다. \(n\ge5\)차원의 \(\mathcal C\)-다양체 \(M\), \(N\) 사이의 h-보충 경계 \((W,\iota_M,\iota_N)\)가 주어졌다고 하자. **s-보충 경계 정리**에 따르면, 다음 두 조건이 서로 [동치](../Page/동치.md "wikilink")이다.
 
   - \(\iota_M\)이 [단순 호모토피 동치이다](https://ko.wikipedia.org/wiki/단순_호모토피_동치 "wikilink"). 즉, 그 [화이트헤드 꼬임](https://ko.wikipedia.org/wiki/화이트헤드_꼬임 "wikilink")()이 0이다.
-  - \(W\)는 \(M\times[0,1]\)과 \(\mathcal C\)-[동치](https://ko.wikipedia.org/wiki/동치 "wikilink")이다.
+  - \(W\)는 \(M\times[0,1]\)과 \(\mathcal C\)-[동치](../Page/동치.md "wikilink")이다.
 
 ## 역사
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Stephen_Smale_2008_\(re-scanned\).jpg "wikilink")\]\] 역사적으로 1차원과 2차원 다양체의 분류는 간단했지만, 3차원과 4차원 다양체의 분류는 매우 어렵다는 것이 밝혀졌다. 이후 수학자들은 5차원 이상의 다양체는 이보다 더 복잡할 것으로 생각하고, 3·4차원의 분류에 주력하였다.
 
-1960년대 초에 [스티븐 스메일은](https://ko.wikipedia.org/wiki/스티븐_스메일 "wikilink") h-보충 경계의 개념 및 h-보충 경계 정리를 발표하였고, 이를 사용하여 5차원 이상에서의 [푸앵카레 추측을](https://ko.wikipedia.org/wiki/푸앵카레_추측 "wikilink") 증명하였다.\[1\]\[2\] 이로서 5차원 이상의 다양체는 [수술 이론으로](https://ko.wikipedia.org/wiki/수술_이론 "wikilink") 비교적 간단하게 다룰 수 있다는 것이 밝혀졌고, "중간 차원"인 3·4차원이 다양체 이론에서 가장 어렵다는 사실이 알려졌다. 이 공로로 스메일은 1966년 [필즈상](https://ko.wikipedia.org/wiki/필즈상 "wikilink")을 수상하였다. ‘h-보충 경계’라는 이름에서 ‘h’는 [호모토피](https://ko.wikipedia.org/wiki/호모토피 "wikilink")()의 영명의 머릿글자이다.
+1960년대 초에 [스티븐 스메일은](../Page/스티븐_스메일.md "wikilink") h-보충 경계의 개념 및 h-보충 경계 정리를 발표하였고, 이를 사용하여 5차원 이상에서의 [푸앵카레 추측을](../Page/푸앵카레_추측.md "wikilink") 증명하였다.\[1\]\[2\] 이로서 5차원 이상의 다양체는 [수술 이론으로](https://ko.wikipedia.org/wiki/수술_이론 "wikilink") 비교적 간단하게 다룰 수 있다는 것이 밝혀졌고, "중간 차원"인 3·4차원이 다양체 이론에서 가장 어렵다는 사실이 알려졌다. 이 공로로 스메일은 1966년 [필즈상](../Page/필즈상.md "wikilink")을 수상하였다. ‘h-보충 경계’라는 이름에서 ‘h’는 [호모토피](../Page/호모토피.md "wikilink")()의 영명의 머릿글자이다.
 
-1982년 [마이클 프리드먼이](https://ko.wikipedia.org/wiki/마이클_프리드먼 "wikilink") [카슨 손잡이를](https://ko.wikipedia.org/wiki/카슨_손잡이 "wikilink") 이용해 4차원 h-보충 경계 정리를 증명했다.\[3\] 한편 [사이먼 도널드슨은](https://ko.wikipedia.org/wiki/사이먼_도널드슨 "wikilink") h-보충 경계 정리가 4차원 [매끄러운 다양체](https://ko.wikipedia.org/wiki/매끄러운_다양체 "wikilink") 사이에서는 실패한다는 것을 밝혔다.\[4\]
+1982년 [마이클 프리드먼이](../Page/마이클_프리드먼.md "wikilink") [카슨 손잡이를](https://ko.wikipedia.org/wiki/카슨_손잡이 "wikilink") 이용해 4차원 h-보충 경계 정리를 증명했다.\[3\] 한편 [사이먼 도널드슨은](../Page/사이먼_도널드슨.md "wikilink") h-보충 경계 정리가 4차원 [매끄러운 다양체](../Page/매끄러운_다양체.md "wikilink") 사이에서는 실패한다는 것을 밝혔다.\[4\]
 
 s-보충 경계 정리는 [배리 메이저](../Page/배리_메이저.md "wikilink") · 존 로버트 스톨링스 2세() · 데니스 바든()이 독자적으로 증명하였다. ‘s-보충 경계 정리’라는 이름에서 "‘s’"는 [단순 호모토피 동치](https://ko.wikipedia.org/wiki/단순_호모토피_동치 "wikilink")()의 영명의 머릿글자이다.
 

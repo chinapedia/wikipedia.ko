@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Ultimate -International Best-](https://ko.wikipedia.org/wiki/The_Ultimate_-International_Best-).
 
 
-《**The Ultimate -International Best-**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악 그룹 [빅뱅의](https://ko.wikipedia.org/wiki/빅뱅_\(음악_그룹\) "wikilink") [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서 발매 된 두 번째 베스트 앨범이다.
+《**The Ultimate -International Best-**》는 [대한민국](../Page/대한민국.md "wikilink")의 음악 그룹 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") [일본](../Page/일본.md "wikilink")에서 발매 된 두 번째 베스트 앨범이다.
 
 ## 트랙 리스트
 

@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Forever \(  \)](https://ko.wikipedia.org/wiki/Forever_\(__\)).
 
 
-***Forever***는 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 여성 음악 그룹 [스파이스 걸스의](https://ko.wikipedia.org/wiki/스파이스_걸스 "wikilink") 세 번째 정규 음반이다. [버진 레코드에](https://ko.wikipedia.org/wiki/버진_레코드 "wikilink") 의해 2000년 11월 6일 발매되었다.
+***Forever***는 [영국](../Page/영국.md "wikilink")의 여성 음악 그룹 [스파이스 걸스의](../Page/스파이스_걸스.md "wikilink") 세 번째 정규 음반이다. [버진 레코드에](https://ko.wikipedia.org/wiki/버진_레코드 "wikilink") 의해 2000년 11월 6일 발매되었다.
 
 ## 앨범 설명
 
-[게리 할리웰이](https://ko.wikipedia.org/wiki/게리_할리웰 "wikilink") 탈퇴한 후 4명의 멤버가 만든 스파이스 걸스의 3번째 정규 앨범이다. 앞서 1998년 12월 8일 발매된 싱글 〈Goodbye〉은 그 해 [크리스마스](https://ko.wikipedia.org/wiki/크리스마스 "wikilink") 차트 넘버원을 차지했다. 이로써 3년 연속 [크리스마스](https://ko.wikipedia.org/wiki/크리스마스 "wikilink") 차트 넘버원을 차지하게 되는데 이는 [비틀즈](https://ko.wikipedia.org/wiki/비틀즈 "wikilink")와 동률이다. 하지만, 앨범 발매일이 [웨스트라이프](https://ko.wikipedia.org/wiki/웨스트라이프 "wikilink")의 2집 발매일과 겹쳐 두 그룹간 설전이 있었던 정도로 경쟁이 치열했는데, 스파이스 걸스의 공백기도 길었고 멤버 탈퇴 등 인기가 예전만 하지 못했던 상황이라 결국 첫주 2위에 그치고 말았다. 더블 싱글로 발매된 첫싱글이 1위를 차지하였다. 예상보다 낮은 차트 성적 때문인지, 다른 싱글들을 발매하지 않고 스파이스 걸스 또한 무기한 활동중단을 하면서 〈If you wanna have some fun〉, 〈Tell Me Why〉등과 같은 싱글들은 정식 발매되지 못하였다.
+[게리 할리웰이](https://ko.wikipedia.org/wiki/게리_할리웰 "wikilink") 탈퇴한 후 4명의 멤버가 만든 스파이스 걸스의 3번째 정규 앨범이다. 앞서 1998년 12월 8일 발매된 싱글 〈Goodbye〉은 그 해 [크리스마스](../Page/크리스마스.md "wikilink") 차트 넘버원을 차지했다. 이로써 3년 연속 [크리스마스](../Page/크리스마스.md "wikilink") 차트 넘버원을 차지하게 되는데 이는 [비틀즈](../Page/비틀즈.md "wikilink")와 동률이다. 하지만, 앨범 발매일이 [웨스트라이프](https://ko.wikipedia.org/wiki/웨스트라이프 "wikilink")의 2집 발매일과 겹쳐 두 그룹간 설전이 있었던 정도로 경쟁이 치열했는데, 스파이스 걸스의 공백기도 길었고 멤버 탈퇴 등 인기가 예전만 하지 못했던 상황이라 결국 첫주 2위에 그치고 말았다. 더블 싱글로 발매된 첫싱글이 1위를 차지하였다. 예상보다 낮은 차트 성적 때문인지, 다른 싱글들을 발매하지 않고 스파이스 걸스 또한 무기한 활동중단을 하면서 〈If you wanna have some fun〉, 〈Tell Me Why〉등과 같은 싱글들은 정식 발매되지 못하였다.
 
 ## 트랙 리스트
 
@@ -39,7 +39,7 @@
 <td><p>39</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/캐나디안_핫_100" title="wikilink">캐나다 앨범 차트</a></p></td>
+<td><p><a href="../Page/캐나디안_핫_100.md" title="wikilink">캐나다 앨범 차트</a></p></td>
 <td><p>6</p></td>
 </tr>
 <tr class="even">

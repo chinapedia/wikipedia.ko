@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Hello Bitches](https://ko.wikipedia.org/wiki/Hello_Bitches).
 
 
-〈**Hello Bitches**〉는 대한민국의 가수 [CL의](https://ko.wikipedia.org/wiki/CL_\(가수\) "wikilink") 노래이다. 2015년 11월 21일 발매되었다. 노래의 작곡에는 [테디와](https://ko.wikipedia.org/wiki/테디_\(가수\) "wikilink") [장 밥티스트가](https://ko.wikipedia.org/wiki/장_밥티스트 "wikilink") 참여했고, 작사에는 CL을 비롯해 테디, 장 밥티스트, 대니 청이 참여했다.
+〈**Hello Bitches**〉는 대한민국의 가수 [CL의](../Page/CL_\(가수\).md "wikilink") 노래이다. 2015년 11월 21일 발매되었다. 노래의 작곡에는 [테디와](https://ko.wikipedia.org/wiki/테디_\(가수\) "wikilink") [장 밥티스트가](https://ko.wikipedia.org/wiki/장_밥티스트 "wikilink") 참여했고, 작사에는 CL을 비롯해 테디, 장 밥티스트, 대니 청이 참여했다.
 
 ## 배경
 
-CL은 싸이의 미국 진출을 도왔던 프로듀서 [스쿠터 브라운과](https://ko.wikipedia.org/wiki/스쿠터_브라운 "wikilink") 함께 1년 전부터 미국 진출을 준비하고 있었다. 완성된 앨범을 공개하기에 앞서 〈Hello Bitches〉를 사전 프로모션 곡으로 공개하기로 결정했다. 이 노래는 [사운드클라우드](https://ko.wikipedia.org/wiki/사운드클라우드 "wikilink")를 통해 2015년 11월 21일 무료로 공개되었다.\[1\] 무료로 공개한것에 대해 [양현석](https://ko.wikipedia.org/wiki/양현석 "wikilink")은 "사실 CL은 아직 미국에서 아무 것도 이룬 게 없는 초짜 신인에 불과해요. 미국 시장에서 지명도가 거의 없기 때문에 앨범이 나오기 전에 프로모션을 진행할 생각이 들었고 바로 추진했다"고 말했다.\[2\] 12월 6일에는 [아이튠즈 스토어에서도](https://ko.wikipedia.org/wiki/아이튠즈_스토어 "wikilink") 발매되었으며, 12월 5일에는 대한민국에서 발매되었다.\[3\]
+CL은 싸이의 미국 진출을 도왔던 프로듀서 [스쿠터 브라운과](https://ko.wikipedia.org/wiki/스쿠터_브라운 "wikilink") 함께 1년 전부터 미국 진출을 준비하고 있었다. 완성된 앨범을 공개하기에 앞서 〈Hello Bitches〉를 사전 프로모션 곡으로 공개하기로 결정했다. 이 노래는 [사운드클라우드](../Page/사운드클라우드.md "wikilink")를 통해 2015년 11월 21일 무료로 공개되었다.\[1\] 무료로 공개한것에 대해 [양현석](../Page/양현석.md "wikilink")은 "사실 CL은 아직 미국에서 아무 것도 이룬 게 없는 초짜 신인에 불과해요. 미국 시장에서 지명도가 거의 없기 때문에 앨범이 나오기 전에 프로모션을 진행할 생각이 들었고 바로 추진했다"고 말했다.\[2\] 12월 6일에는 [아이튠즈 스토어에서도](https://ko.wikipedia.org/wiki/아이튠즈_스토어 "wikilink") 발매되었으며, 12월 5일에는 대한민국에서 발매되었다.\[3\]
 
 ## 뮤직비디오
 
@@ -27,7 +27,7 @@ CL은 싸이의 미국 진출을 도왔던 프로듀서 [스쿠터 브라운과]
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>대한민국 (<a href="https://ko.wikipedia.org/wiki/가온_디지털_차트" title="wikilink">가온 디지털 차트</a>)[9]</p></td>
+<td><p>대한민국 (<a href="../Page/가온_디지털_차트.md" title="wikilink">가온 디지털 차트</a>)[9]</p></td>
 <td><p>21</p></td>
 </tr>
 <tr class="even">
@@ -47,11 +47,11 @@ CL은 싸이의 미국 진출을 도왔던 프로듀서 [스쿠터 브라운과]
 
 ## 발매일
 
-| 국가   | 날짜            | 포맷                                                        | 레이블                                                             | 출처     |
-| ---- | ------------- | --------------------------------------------------------- | --------------------------------------------------------------- | ------ |
-| 세계   | 2015년 11월 21일 | [디지털 음원](https://ko.wikipedia.org/wiki/디지털_음원 "wikilink") | [YG 엔터테인먼트](https://ko.wikipedia.org/wiki/YG_엔터테인먼트 "wikilink") | \[12\] |
-| 대한민국 | 2015년 12월 5일  | [KT 뮤직](https://ko.wikipedia.org/wiki/KT_뮤직 "wikilink")   |                                                                 |        |
-|      |               |                                                           |                                                                 |        |
+| 국가   | 날짜            | 포맷                                                        | 레이블                                          | 출처     |
+| ---- | ------------- | --------------------------------------------------------- | -------------------------------------------- | ------ |
+| 세계   | 2015년 11월 21일 | [디지털 음원](https://ko.wikipedia.org/wiki/디지털_음원 "wikilink") | [YG 엔터테인먼트](../Page/YG_엔터테인먼트.md "wikilink") | \[12\] |
+| 대한민국 | 2015년 12월 5일  | [KT 뮤직](https://ko.wikipedia.org/wiki/KT_뮤직 "wikilink")   |                                              |        |
+|      |               |                                                           |                                              |        |
 
 ## 각주
 

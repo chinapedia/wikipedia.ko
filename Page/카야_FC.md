@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
 
 
-**카야 풋볼 클럽**()은 [마카티](https://ko.wikipedia.org/wiki/마카티 "wikilink")를 연고지로 하는 [필리핀](https://ko.wikipedia.org/wiki/필리핀 "wikilink")의 프로 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink")에 창단하였고, 현재 [유나이티드 풋볼리그 디비전 1에](https://ko.wikipedia.org/wiki/유나이티드_풋볼리그_디비전_1 "wikilink") 참여 중이다.
+**카야 풋볼 클럽**()은 [마카티](../Page/마카티.md "wikilink")를 연고지로 하는 [필리핀](../Page/필리핀.md "wikilink")의 프로 [축구](../Page/축구.md "wikilink") 클럽이다. [1996년](../Page/1996년.md "wikilink")에 창단하였고, 현재 [유나이티드 풋볼리그 디비전 1에](https://ko.wikipedia.org/wiki/유나이티드_풋볼리그_디비전_1 "wikilink") 참여 중이다.
 
 ## 수상
 

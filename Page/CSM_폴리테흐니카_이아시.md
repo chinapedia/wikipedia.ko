@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CSM  ](https://ko.wikipedia.org/wiki/CSM__).
 
 
-**CSM 폴리테흐니카 이아시**(Clubul Sportiv Municipal Politehnica Iași)는 [이아시](https://ko.wikipedia.org/wiki/이아시 "wikilink")를 연고로 하는 [루마니아](https://ko.wikipedia.org/wiki/루마니아 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 흔히 **폴리테흐니카 이아시**로 알려져 있으며 2010년 *ACSMU 폴리테흐니카 이아시* 라는 명칭으로 창단되었다. 현재 [루마니아 리가 I에](https://ko.wikipedia.org/wiki/리가_I "wikilink") 속해 있다.
+**CSM 폴리테흐니카 이아시**(Clubul Sportiv Municipal Politehnica Iași)는 [이아시](../Page/이아시.md "wikilink")를 연고로 하는 [루마니아](../Page/루마니아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 흔히 **폴리테흐니카 이아시**로 알려져 있으며 2010년 *ACSMU 폴리테흐니카 이아시* 라는 명칭으로 창단되었다. 현재 [루마니아 리가 I에](../Page/리가_I.md "wikilink") 속해 있다.
 
 ## 역사
 

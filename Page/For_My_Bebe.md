@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [For My Bebe](https://ko.wikipedia.org/wiki/For_My_Bebe).
 
 
-《**For My Bebe**》 는 [정흠밴드](https://ko.wikipedia.org/wiki/정흠밴드 "wikilink") 원곡으로 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [블루스](https://ko.wikipedia.org/wiki/블루스 "wikilink") 밴드 [하 수상의](../Page/하_수상.md "wikilink") 세번째 싱글이다. 이 싱글 음원은 같은 소속사인 [정흠밴드](https://ko.wikipedia.org/wiki/정흠밴드 "wikilink")와 콜라보 프로젝트이며, 두 팀의 버전으로 각각 발매되었다.
+《**For My Bebe**》 는 [정흠밴드](https://ko.wikipedia.org/wiki/정흠밴드 "wikilink") 원곡으로 [대한민국](../Page/대한민국.md "wikilink")의 [블루스](../Page/블루스.md "wikilink") 밴드 [하 수상의](../Page/하_수상.md "wikilink") 세번째 싱글이다. 이 싱글 음원은 같은 소속사인 [정흠밴드](https://ko.wikipedia.org/wiki/정흠밴드 "wikilink")와 콜라보 프로젝트이며, 두 팀의 버전으로 각각 발매되었다.
 
 ## 수록곡
 

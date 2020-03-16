@@ -12,11 +12,11 @@
 #### CD 음반
 
 1.  AGAINST THE WIND ([Stratovarius](https://ko.wikipedia.org/wiki/Stratovarius "wikilink"))
-2.  ROCK YOU LIKE A HURRICANE ([스콜피언스](https://ko.wikipedia.org/wiki/스콜피언스 "wikilink"))
+2.  ROCK YOU LIKE A HURRICANE ([스콜피언스](../Page/스콜피언스.md "wikilink"))
 3.  SECRET LOSER ([오지 오스본](https://ko.wikipedia.org/wiki/오지_오스본 "wikilink"))
 4.  1789 ([실버 마운틴](https://ko.wikipedia.org/wiki/실버_마운틴 "wikilink"))
-5.  KISS OF DEATH ([도켄](https://ko.wikipedia.org/wiki/도켄 "wikilink"))
-6.  NEVER DIE ([잉베이 말름스틴](https://ko.wikipedia.org/wiki/잉베이_말름스틴 "wikilink"))
+5.  KISS OF DEATH ([도켄](../Page/도켄.md "wikilink"))
+6.  NEVER DIE ([잉베이 말름스틴](../Page/잉베이_말름스틴.md "wikilink"))
 7.  STREET LETHAL ([레이서 엑스](https://ko.wikipedia.org/wiki/레이서_엑스 "wikilink"))
 
 #### DVD 음반 (초회 한정판)
@@ -28,10 +28,10 @@
 
 ## 구성원
 
-  - [슈](../Page/슈_\(1980년\).md "wikilink") ([기타](https://ko.wikipedia.org/wiki/기타 "wikilink"), [코러스](https://ko.wikipedia.org/wiki/코러스_\(대중음악\) "wikilink"), 리더)
-  - 유키 ([키보드](https://ko.wikipedia.org/wiki/건반_악기 "wikilink"), [해먼드 오르간](https://ko.wikipedia.org/wiki/해먼드_오르간 "wikilink"), [숄더 키보드](https://ko.wikipedia.org/wiki/숄더_키보드 "wikilink"), [코러스](https://ko.wikipedia.org/wiki/코러스_\(대중음악\) "wikilink"))
+  - [슈](../Page/슈_\(1980년\).md "wikilink") ([기타](../Page/기타.md "wikilink"), [코러스](https://ko.wikipedia.org/wiki/코러스_\(대중음악\) "wikilink"), 리더)
+  - 유키 ([키보드](https://ko.wikipedia.org/wiki/건반_악기 "wikilink"), [해먼드 오르간](https://ko.wikipedia.org/wiki/해먼드_오르간 "wikilink"), [숄더 키보드](../Page/숄더_키보드.md "wikilink"), [코러스](https://ko.wikipedia.org/wiki/코러스_\(대중음악\) "wikilink"))
   - [마사토시 오노](https://ko.wikipedia.org/wiki/마사토시_오노 "wikilink") ([보컬](https://ko.wikipedia.org/wiki/가창 "wikilink"))
-  - 타카 ([베이스](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink"))
+  - 타카 ([베이스](../Page/베이스_기타.md "wikilink"))
   - 주니치 사토 ([드럼](https://ko.wikipedia.org/wiki/드럼셋 "wikilink"))
 
 ## 차트 성적

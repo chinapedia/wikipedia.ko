@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ TV](https://ko.wikipedia.org/wiki/_TV).
 
 
-《**오래된 TV**》는 매주 [토요일](https://ko.wikipedia.org/wiki/토요일 "wikilink") 밤 11시에 [KBS 1TV로](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방송되었던 [한국방송공사의 텔레비전 프로그램이다](https://ko.wikipedia.org/wiki/한국방송공사의_텔레비전_프로그램 "wikilink").
+《**오래된 TV**》는 매주 [토요일](../Page/토요일.md "wikilink") 밤 11시에 [KBS 1TV로](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방송되었던 [한국방송공사의 텔레비전 프로그램이다](https://ko.wikipedia.org/wiki/한국방송공사의_텔레비전_프로그램 "wikilink").
 
 ## 기획 의도
 
@@ -9,15 +9,15 @@
 
 ## 방송 시간
 
-| 방송 채널                                                                                                                                                                                                                                    | 방송 기간                                                                                                                                                                                                                                    | 방송 시간                                                                         |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink")                                                                                                                                                                              | [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [10월 31일](https://ko.wikipedia.org/wiki/10월_31일 "wikilink") \~ [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [7월 10일](https://ko.wikipedia.org/wiki/7월_10일 "wikilink") | 매주 [월요일](https://ko.wikipedia.org/wiki/월요일 "wikilink") 밤 11시 40분 \~ 12시 (20분) |
-| [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [7월 22일](https://ko.wikipedia.org/wiki/7월_22일 "wikilink") \~ [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [11월 18일](https://ko.wikipedia.org/wiki/11월_18일 "wikilink") | 매주 [토요일](https://ko.wikipedia.org/wiki/토요일 "wikilink") 밤 11시 \~ 11시 20분 (20분)                                                                                                                                                            |                                                                               |
-|                                                                                                                                                                                                                                          |                                                                                                                                                                                                                                          |                                                                               |
+| 방송 채널                                                                                                                                                        | 방송 기간                                                                                                                                                        | 방송 시간                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+| [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink")                                                                                                  | [2005년](../Page/2005년.md "wikilink") [10월 31일](../Page/10월_31일.md "wikilink") \~ [2006년](../Page/2006년.md "wikilink") [7월 10일](../Page/7월_10일.md "wikilink") | 매주 [월요일](../Page/월요일.md "wikilink") 밤 11시 40분 \~ 12시 (20분) |
+| [2006년](../Page/2006년.md "wikilink") [7월 22일](../Page/7월_22일.md "wikilink") \~ [2006년](../Page/2006년.md "wikilink") [11월 18일](../Page/11월_18일.md "wikilink") | 매주 [토요일](../Page/토요일.md "wikilink") 밤 11시 \~ 11시 20분 (20분)                                                                                                   |                                                            |
+|                                                                                                                                                              |                                                                                                                                                              |                                                            |
 
 ## 내레이션
 
-  - [김상현](https://ko.wikipedia.org/wiki/김상현_\(성우\) "wikilink")
+  - [김상현](../Page/김상현_\(성우\).md "wikilink")
 
 ## 방영 목록
 

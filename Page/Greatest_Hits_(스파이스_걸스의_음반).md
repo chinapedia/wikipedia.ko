@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Greatest Hits \(  \)](https://ko.wikipedia.org/wiki/Greatest_Hits_\(__\)).
 
 
-***Greatest Hits***는 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 여성 음악 그룹 [스파이스 걸스의](https://ko.wikipedia.org/wiki/스파이스_걸스 "wikilink") 베스트 음반이다. [버진 레코드에](https://ko.wikipedia.org/wiki/버진_레코드 "wikilink") 의해 2007년 11월 9일 발매되었다.\[1\]
+***Greatest Hits***는 [영국](../Page/영국.md "wikilink")의 여성 음악 그룹 [스파이스 걸스의](../Page/스파이스_걸스.md "wikilink") 베스트 음반이다. [버진 레코드에](https://ko.wikipedia.org/wiki/버진_레코드 "wikilink") 의해 2007년 11월 9일 발매되었다.\[1\]
 
 ## 앨범 설명
 
-다섯 멤버가 모두 다시 뭉친 스파이스 걸스의 첫 베스트앨범이다. 그동안 싱글로 발매되었던 모든 곡들과 2집 앨범 《Spice World》에 수록되어 있던 〈Move Over〉와 새로운 싱글인 〈Headlines(Friendship Never Ends)〉,〈Voodoo〉를 포함한 총 15곡을 수록하고 있다. [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")에서는 발매 첫 주 2위에 그치는 등 예상보다는 낮은 차트 성적을 거두었다.〈Headlines(Friendship Never Ends)〉은 당초 알려져 있던 〈W.O.M.A.N〉이라는 곡과는 전혀 다른 분위기로, 잔잔하고 조용한 곡이다.
+다섯 멤버가 모두 다시 뭉친 스파이스 걸스의 첫 베스트앨범이다. 그동안 싱글로 발매되었던 모든 곡들과 2집 앨범 《Spice World》에 수록되어 있던 〈Move Over〉와 새로운 싱글인 〈Headlines(Friendship Never Ends)〉,〈Voodoo〉를 포함한 총 15곡을 수록하고 있다. [영국](../Page/영국.md "wikilink")에서는 발매 첫 주 2위에 그치는 등 예상보다는 낮은 차트 성적을 거두었다.〈Headlines(Friendship Never Ends)〉은 당초 알려져 있던 〈W.O.M.A.N〉이라는 곡과는 전혀 다른 분위기로, 잔잔하고 조용한 곡이다.
 
 ## 트랙 리스트
 
@@ -39,7 +39,7 @@
 <td><p>2</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/캐나디안_핫_100" title="wikilink">캐나다 앨범 차트</a>[5]</p></td>
+<td><p><a href="../Page/캐나디안_핫_100.md" title="wikilink">캐나다 앨범 차트</a>[5]</p></td>
 <td><p>11</p></td>
 </tr>
 <tr class="even">
@@ -99,7 +99,7 @@
 <td><p>2</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/빌보드_200" title="wikilink">미국 앨범 차트</a></p></td>
+<td><p><a href="../Page/빌보드_200.md" title="wikilink">미국 앨범 차트</a></p></td>
 <td><p>93</p></td>
 </tr>
 </tbody>

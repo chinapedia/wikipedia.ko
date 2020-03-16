@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SUNDAY MONDAY](https://ko.wikipedia.org/wiki/SUNDAY_MONDAY).
 
 
-〈**SUNDAY MONDAY**〉(선데이 먼데이)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [걸 그룹](https://ko.wikipedia.org/wiki/걸_그룹 "wikilink") [에이핑크](https://ko.wikipedia.org/wiki/에이핑크 "wikilink")의 4번째 미니앨범 《[Pink Blossom](../Page/Pink_Blossom.md "wikilink")》의 수록곡이며, [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서의 4번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink"). [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서는 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [12월 9일에](https://ko.wikipedia.org/wiki/12월_9일 "wikilink") [유니버설 뮤직 재팬에서](https://ko.wikipedia.org/wiki/유니버설_뮤직_재팬 "wikilink") 발매되었다.
+〈**SUNDAY MONDAY**〉(선데이 먼데이)는 [대한민국](../Page/대한민국.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") [에이핑크](../Page/에이핑크.md "wikilink")의 4번째 미니앨범 《[Pink Blossom](../Page/Pink_Blossom.md "wikilink")》의 수록곡이며, [일본](../Page/일본.md "wikilink")에서의 4번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). [일본](../Page/일본.md "wikilink")에서는 [2015년](../Page/2015년.md "wikilink") [12월 9일에](../Page/12월_9일.md "wikilink") [유니버설 뮤직 재팬에서](https://ko.wikipedia.org/wiki/유니버설_뮤직_재팬 "wikilink") 발매되었다.
 
 ## 수록곡
 

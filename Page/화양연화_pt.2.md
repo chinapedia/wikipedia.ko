@@ -12,12 +12,12 @@
 | 차트                                                                           | 최고순위 |
 | ---------------------------------------------------------------------------- | ---- |
 | 대한민국 ([가온 앨범 차트](https://ko.wikipedia.org/wiki/가온_앨범_차트 "wikilink"))\[2\]    | 1    |
-| 미국 ([빌보드 200 차트](https://ko.wikipedia.org/wiki/빌보드_200 "wikilink"))\[3\]     | 171  |
+| 미국 ([빌보드 200 차트](../Page/빌보드_200.md "wikilink"))\[3\]                        | 171  |
 | 미국 ([빌보드 월드 앨범 차트](https://ko.wikipedia.org/wiki/빌보드_차트 "wikilink"))\[4\]    | 1    |
 | 미국 ([빌보드 탑 히트시커스 차트](https://ko.wikipedia.org/wiki/빌보드_차트 "wikilink"))\[5\]  | 1    |
 | 미국 ([빌보드 인디펜던트 앨범 차트](https://ko.wikipedia.org/wiki/빌보드_차트 "wikilink"))\[6\] | 9    |
 | 미국 ([빌보드 커런트 앨범 차트](https://ko.wikipedia.org/wiki/빌보드_차트 "wikilink"))        | 98   |
-| 일본 ([오리콘 앨범 차트](https://ko.wikipedia.org/wiki/오리콘 "wikilink"))\[7\]          | 15   |
+| 일본 ([오리콘 앨범 차트](../Page/오리콘.md "wikilink"))\[7\]                             | 15   |
 |                                                                              |      |
 
 ### 월간 차트
@@ -37,7 +37,7 @@
 | 차트                                                                   | 판매량      |
 | -------------------------------------------------------------------- | -------- |
 | 대한민국 ([가온 앨범 차트](https://ko.wikipedia.org/wiki/가온_앨범_차트 "wikilink")) | 896,252+ |
-| 일본 ([오리콘 앨범 차트](https://ko.wikipedia.org/wiki/오리콘 "wikilink"))       | 453,358+ |
+| 일본 ([오리콘 앨범 차트](../Page/오리콘.md "wikilink"))                          | 453,358+ |
 | 미국 ([빌보드 차트](https://ko.wikipedia.org/wiki/빌보드_차트 "wikilink"))       | 20,000+  |
 
 ## 각주

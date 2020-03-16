@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Dig](https://ko.wikipedia.org/wiki/Dig).
 
 
-**dig** (domain information groper)는 [도메인 네임 시스템](https://ko.wikipedia.org/wiki/도메인_네임_시스템 "wikilink") (DNS) [네임서버](https://ko.wikipedia.org/wiki/네임서버 "wikilink")에 질의하기 위한 네트워크 관리 [명령 줄 인터페이스](https://ko.wikipedia.org/wiki/명령_줄_인터페이스 "wikilink") 툴이다.
+**dig** (domain information groper)는 [도메인 네임 시스템](../Page/도메인_네임_시스템.md "wikilink") (DNS) [네임서버](https://ko.wikipedia.org/wiki/네임서버 "wikilink")에 질의하기 위한 네트워크 관리 [명령 줄 인터페이스](../Page/명령_줄_인터페이스.md "wikilink") 툴이다.
 
 dig는 네트워크 트러블슈팅과 교육적인 목적에 유용하다. dig는 반복적인 명령 줄 모드 또는 배치 모드에서 작동할 수 있다. 특정한 네임 서버가 명령에 명시되지 않으면, 이것은 [resolv.conf](https://ko.wikipedia.org/wiki/resolv.conf "wikilink") 파일에 설정된 운영 체제 기본 resolver를 사용한다. 쿼리에 매개변수가 없으면 DNS 루트 존에 질의한다.
 
@@ -36,7 +36,7 @@ example.com.            172719  IN      SOA     dns1.icann.org. hostmaster.icann
 ;; MSG SIZE  rcvd: 154
 ```
 
-숫자 172719는 [Time to live](https://ko.wikipedia.org/wiki/Time_to_live "wikilink") 값을 보여준다.
+숫자 172719는 [Time to live](../Page/Time_to_live.md "wikilink") 값을 보여준다.
 
 질의들은 특정한 레코드를 위해 지정된 DNS 서버로 보내질 수 있다; 여기서는, MX records:
 

@@ -21,7 +21,7 @@
 | 음악 프로그램                                                                                                      | 순위   |
 | [THE SHOW: All About K-POP 시즌 4](https://ko.wikipedia.org/wiki/THE_SHOW:_All_About_K-POP "wikilink") 더 쇼 초이스 | 1    |
 | [쇼 챔피언](https://ko.wikipedia.org/wiki/쇼_챔피언 "wikilink")                                                      | 1    |
-| [뮤직뱅크](https://ko.wikipedia.org/wiki/뮤직뱅크 "wikilink") K-Chart                                                | 1    |
+| [뮤직뱅크](../Page/뮤직뱅크.md "wikilink") K-Chart                                                                   | 1    |
 |                                                                                                              |      |
 
 ## 각주

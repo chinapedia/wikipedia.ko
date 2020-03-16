@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [EMD F59PH](https://ko.wikipedia.org/wiki/EMD_F59PH).
 
 
-**EMD F59PH**는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [기관차](https://ko.wikipedia.org/wiki/기관차 "wikilink") 제조사인 [제너럴 일렉트릭과](https://ko.wikipedia.org/wiki/제너럴_일렉트릭 "wikilink") [일렉트로 모티브 디젤에서](https://ko.wikipedia.org/wiki/일렉트로_모티브_디젤 "wikilink") 제작한 열차로, 모델은 아래과 같다.
+**EMD F59PH**는 [미국](../Page/미국.md "wikilink")의 [기관차](../Page/기관차.md "wikilink") 제조사인 [제너럴 일렉트릭과](../Page/제너럴_일렉트릭.md "wikilink") [일렉트로 모티브 디젤에서](https://ko.wikipedia.org/wiki/일렉트로_모티브_디젤 "wikilink") 제작한 열차로, 모델은 아래과 같다.
 
 ## F59PH
 
-**F59PH**()는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [제너럴 일렉트릭과](https://ko.wikipedia.org/wiki/제너럴_일렉트릭 "wikilink") [일렉트로 모티브 디젤에서](https://ko.wikipedia.org/wiki/일렉트로_모티브_디젤 "wikilink") 개발한 [디젤](https://ko.wikipedia.org/wiki/디젤 "wikilink") 및 [전기](https://ko.wikipedia.org/wiki/전기 "wikilink") [기관차](https://ko.wikipedia.org/wiki/기관차 "wikilink")로, [1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink")부터 [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink")까지 83대가 생산되었다.
+**F59PH**()는 [미국](../Page/미국.md "wikilink") [제너럴 일렉트릭과](../Page/제너럴_일렉트릭.md "wikilink") [일렉트로 모티브 디젤에서](https://ko.wikipedia.org/wiki/일렉트로_모티브_디젤 "wikilink") 개발한 [디젤](https://ko.wikipedia.org/wiki/디젤 "wikilink") 및 [전기](../Page/전기.md "wikilink") [기관차](../Page/기관차.md "wikilink")로, [1988년](../Page/1988년.md "wikilink")부터 [1994년](../Page/1994년.md "wikilink")까지 83대가 생산되었다.
 
 ## 운용 업체
 
@@ -21,7 +21,7 @@
 
 ## F59PHI
 
-**F59PHI**()는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [제너럴 일렉트릭과](https://ko.wikipedia.org/wiki/제너럴_일렉트릭 "wikilink") [일렉트로 모티브 디젤에서](https://ko.wikipedia.org/wiki/일렉트로_모티브_디젤 "wikilink") 개발한 [디젤](https://ko.wikipedia.org/wiki/디젤 "wikilink") 및 [전기](https://ko.wikipedia.org/wiki/전기 "wikilink") [기관차](https://ko.wikipedia.org/wiki/기관차 "wikilink")로, EMD F59PH 후속 기종으로 [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink")부터 [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink")까지 생산되었다.
+**F59PHI**()는 [미국](../Page/미국.md "wikilink") [제너럴 일렉트릭과](../Page/제너럴_일렉트릭.md "wikilink") [일렉트로 모티브 디젤에서](https://ko.wikipedia.org/wiki/일렉트로_모티브_디젤 "wikilink") 개발한 [디젤](https://ko.wikipedia.org/wiki/디젤 "wikilink") 및 [전기](../Page/전기.md "wikilink") [기관차](../Page/기관차.md "wikilink")로, EMD F59PH 후속 기종으로 [1994년](../Page/1994년.md "wikilink")부터 [2001년](../Page/2001년.md "wikilink")까지 생산되었다.
 
 ## 운용 업체
 
@@ -29,7 +29,7 @@
   - [노스 카운티 트랜짓 디스트릭트](https://ko.wikipedia.org/wiki/노스_카운티_트랜짓_디스트릭트 "wikilink")
   - [사운드 트랜짓](https://ko.wikipedia.org/wiki/사운드_트랜짓 "wikilink")
   - [웨스트 코스트 익스프레스](../Page/웨스트_코스트_익스프레스.md "wikilink")
-  - [암트랙](https://ko.wikipedia.org/wiki/암트랙 "wikilink")
+  - [암트랙](../Page/암트랙.md "wikilink")
       - [암트랙 캘리포니아](../Page/암트랙_캘리포니아.md "wikilink")
   - [아바스 메트호뽈리딴 드 트랜스포트](https://ko.wikipedia.org/wiki/아바스_메트호뽈리딴_드_트랜스포트 "wikilink")
 

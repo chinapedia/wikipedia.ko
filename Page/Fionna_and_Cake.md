@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Fionna and Cake](https://ko.wikipedia.org/wiki/Fionna_and_Cake).
 
 
-〈**Fionna and Cake**〉는 [카툰 네트워크의](https://ko.wikipedia.org/wiki/카툰_네트워크 "wikilink") 애니메이션 시리즈 《[핀과 제이크의 어드벤처 타임](https://ko.wikipedia.org/wiki/핀과_제이크의_어드벤처_타임 "wikilink")》의 [세 번째 시즌](../Page/핀과_제이크의_어드벤처_타임_\(시즌_3\).md "wikilink") 아홉 번째 에피소드이다. [대한민국](https://ko.wikipedia.org/wiki/카툰_네트워크_\(대한민국\) "wikilink") 방영 명칭은 〈피오나와 케이크〉이다. 이 에피소드는 [애덤 무토와](https://ko.wikipedia.org/wiki/애덤_무토 "wikilink") [리베카 슈거가](../Page/리베카_슈거.md "wikilink") 스토리보드 작가로 참여했으며 마크 뱅커, [켄트 오즈본](../Page/켄트_오즈본.md "wikilink"), 패트릭 맥헤일, [펜들턴 워드가](../Page/펜들턴_워드.md "wikilink") 각본을 담당했다. 이 편은 얼음대왕이 핀과 제이크에게 둘의 성별이 여자로 뒤바뀐 이야기를 만들어 내 들려주는 스토리를 담고 있다. 얼음대왕의 이야기 속에서 피오나는 검볼 왕자와 데이트를 즐기고, 사악한 얼음여왕과 결투를 벌인다.
+〈**Fionna and Cake**〉는 [카툰 네트워크의](../Page/카툰_네트워크.md "wikilink") 애니메이션 시리즈 《[핀과 제이크의 어드벤처 타임](../Page/핀과_제이크의_어드벤처_타임.md "wikilink")》의 [세 번째 시즌](../Page/핀과_제이크의_어드벤처_타임_\(시즌_3\).md "wikilink") 아홉 번째 에피소드이다. [대한민국](../Page/카툰_네트워크_\(대한민국\).md "wikilink") 방영 명칭은 〈피오나와 케이크〉이다. 이 에피소드는 [애덤 무토와](https://ko.wikipedia.org/wiki/애덤_무토 "wikilink") [리베카 슈거가](../Page/리베카_슈거.md "wikilink") 스토리보드 작가로 참여했으며 마크 뱅커, [켄트 오즈본](../Page/켄트_오즈본.md "wikilink"), 패트릭 맥헤일, [펜들턴 워드가](../Page/펜들턴_워드.md "wikilink") 각본을 담당했다. 이 편은 얼음대왕이 핀과 제이크에게 둘의 성별이 여자로 뒤바뀐 이야기를 만들어 내 들려주는 스토리를 담고 있다. 얼음대왕의 이야기 속에서 피오나는 검볼 왕자와 데이트를 즐기고, 사악한 얼음여왕과 결투를 벌인다.
 
 피오나와 케이크의 콘셉트는 캐릭터 디자이너이자 스토리보드 수정가인 [나타샤 알레그리의](https://ko.wikipedia.org/wiki/나타샤_알레그리 "wikilink") 스케치에서 따왔다. 스케치가 마음에 든 펜들턴 워드는 실제 에피소드로 이야기를 만들기로 결정하였다. 이 에피소드는 331만 5천 명이 시청하여 역대 방영된 《어드벤처 타임》 에피소드 중 최고 시청자 수를 기록하고 있다. 또한 평론가들에게서 전반적으로 긍정적인 평가를 받았다. 이 에피소드의 속편인 〈Bad Little Boy〉와 〈The Prince Who Wanted Everything〉가 각각 다섯 번째 시즌과 여섯 번째 시즌에 방영되기도 하였다.
 
@@ -11,7 +11,7 @@
 
 그 뒤 피오나와 케이크는 무도회장에 도착하고, 검볼은 자신의 침실로 피오나를 부른 뒤 문을 걸어 잠근다. 피오나는 천장에서 물기가 떨어지는 것을 느껴 위를 쳐다보고, 검볼 왕자가 고드름 속에 갇혀 있는 것을 발견한다. 방으로 피오나를 부른 검볼은 사실 얼음여왕이었고, 얼음여왕은 피오나를 공격한다. 피오나는 검볼에게서 받은 크리스털 검을 꺼내지만, 이 또한 얼음여왕의 속임수였고 피오나의 손이 얼음에 묶이게 된다. 피오나는 손을 묶은 얼음 덩어리를 이용해 검볼을 구해내고, 피오나는 얼음여왕의 왕관을 친 후 그녀의 힘을 빼앗는다. 감동한 진짜 검볼 왕자는 피오나에게 데이트를 신청하지만, 피오나는 더 이상 남자 친구는 필요 없다면서 거절한다.
 
-에피소드 마지막에는 이 이야기가 결국 얼음대왕이 핀과 제이크를 붙잡아다 들려주는 [팬 픽션이라는](https://ko.wikipedia.org/wiki/팬_픽션 "wikilink") 사실이 밝혀진다. 얼음대왕은 이야기가 어땠냐고 핀에게 묻고, 핀이 망설이자 얼음 마법으로 위협을 해 억지로 좋다는 대답을 받아낸다.
+에피소드 마지막에는 이 이야기가 결국 얼음대왕이 핀과 제이크를 붙잡아다 들려주는 [팬 픽션이라는](../Page/팬_픽션.md "wikilink") 사실이 밝혀진다. 얼음대왕은 이야기가 어땠냐고 핀에게 묻고, 핀이 망설이자 얼음 마법으로 위협을 해 억지로 좋다는 대답을 받아낸다.
 
 ## 등장인물
 
@@ -19,9 +19,9 @@
 
   - 피오나(, 성우: [매들린 마틴](https://ko.wikipedia.org/wiki/매들린_마틴 "wikilink")\[1\]) – 핀의 성이 뒤바뀐 모습으로, 용감하고 모험을 즐기지만 한편으로는 로맨스와 관련된 문제에 대해 고민을 하는 소녀이다.\[2\]
   - 케이크(, 성우: [로즈 라이언](https://ko.wikipedia.org/wiki/로즈_라이언 "wikilink")\[3\]) – 제이크의 성이 뒤바뀐 모습이며, 개인 제이크 대신 고양이이다. 활기차면서도 빈정대지만 피오나의 베스트 프렌드이다. 제이크와 마찬가지로 몸을 자유자재로 늘이거나 변형시킬 수 있다.\[4\]
-  - 검볼 왕자(, 성우: [닐 패트릭 해리스](https://ko.wikipedia.org/wiki/닐_패트릭_해리스 "wikilink")\[5\]) – 버블검 공주의 성이 뒤바뀐 모습이다. 얼음여왕에 의해 자주 납치당하며, 피오나에게 약간의 호감을 갖고 있다.\[6\]
+  - 검볼 왕자(, 성우: [닐 패트릭 해리스](../Page/닐_패트릭_해리스.md "wikilink")\[5\]) – 버블검 공주의 성이 뒤바뀐 모습이다. 얼음여왕에 의해 자주 납치당하며, 피오나에게 약간의 호감을 갖고 있다.\[6\]
   - 얼음여왕(, 성우: [그레이 딜라일](https://ko.wikipedia.org/wiki/그레이_딜라일 "wikilink")\[7\]) – 얼음대왕의 성이 뒤바뀐 모습으로, 얼음대왕과 마찬가지로 배우자를 찾기 위해 남자들을 자주 납치한다.\[8\]
-  - 흑백콘 경() – 무지개콘의 성이 뒤바뀐 모습으로, [한국어](https://ko.wikipedia.org/wiki/한국어 "wikilink")를 말하는 무지개콘과는 달리 [모스 부호를](https://ko.wikipedia.org/wiki/모스_부호 "wikilink") 이용하여 대화한다.\[9\]\[10\] 케이크와는 서로 사귀는 사이이다.\[11\]
+  - 흑백콘 경() – 무지개콘의 성이 뒤바뀐 모습으로, [한국어](../Page/한국어.md "wikilink")를 말하는 무지개콘과는 달리 [모스 부호를](../Page/모스_부호.md "wikilink") 이용하여 대화한다.\[9\]\[10\] 케이크와는 서로 사귀는 사이이다.\[11\]
 
 ## 제작
 
@@ -29,7 +29,7 @@
 
 슈거와 무토는 초기에 만든 개요와는 다른 방식으로 이야기를 구성하였다. 첫 제작 당시에는 얼음여왕과 무도회장, 크리스털 검과 같은 것들이 등장하지 않았다. 제작 중간에는 검볼과 피오나가 함께 모험을 떠나는 것이 아니라 식당에 데이트를 가는 이야기가 포함되어 있었다. 슈거는 마르셀린의 남성 버전인 마셜 리(Marshall Lee)의 대사를 일부 만들었지만, 최종 결과물에서는 삭제되었다. 슈거는 워드에게 마셜 리가 어떤 식으로든 등장하도록 부탁을 했지만, 결국 대사 없는 카메오로 등장하는데 그쳤다.\[15\] 또한 슈거는 원래 마셜 리의 성우로 [단테 바스코가](https://ko.wikipedia.org/wiki/단테_바스코 "wikilink") 맡기를 원했다고 밝혔다. 하지만 다섯 번째 시즌 〈Bad Little Boy〉에서 마셜 리의 성우는 [도날드 글로버가](https://ko.wikipedia.org/wiki/도날드_글로버 "wikilink") 맡게 된다.\[16\]\[17\]
 
-검볼 왕자의 성우인 닐 패트릭 해리스는 슈거가 그 역할에 적격이라고 맨 처음 생각한 인물이었다. 그 이유로 슈거는 자신의 남동생인 스티븐(Steven)이 《[배트맨 더 브레이브](https://ko.wikipedia.org/wiki/배트맨_더_브레이브 "wikilink")》에서 해리스가 맡은 악당인 뮤직 마이스터(Music Meister)에 푹 빠져 있었기 때문이라고 설명했다.\[18\] 슈거는 노래 〈Oh Fionna〉가 등장한 장면이 영화 《[알라딘](https://ko.wikipedia.org/wiki/알라딘_\(1992년_디즈니_영화\) "wikilink")》의 곡 〈[A Whole New World](https://ko.wikipedia.org/wiki/A_Whole_New_World "wikilink")〉와 《[젤다의 전설: 무주라의 가면](https://ko.wikipedia.org/wiki/젤다의_전설:_무주라의_가면 "wikilink")》의 로마니 목장의 장면의 설정을 섞은 것이라고 밝혔다.\[19\]
+검볼 왕자의 성우인 닐 패트릭 해리스는 슈거가 그 역할에 적격이라고 맨 처음 생각한 인물이었다. 그 이유로 슈거는 자신의 남동생인 스티븐(Steven)이 《[배트맨 더 브레이브](../Page/배트맨_더_브레이브.md "wikilink")》에서 해리스가 맡은 악당인 뮤직 마이스터(Music Meister)에 푹 빠져 있었기 때문이라고 설명했다.\[18\] 슈거는 노래 〈Oh Fionna〉가 등장한 장면이 영화 《[알라딘](https://ko.wikipedia.org/wiki/알라딘_\(1992년_디즈니_영화\) "wikilink")》의 곡 〈[A Whole New World](../Page/A_Whole_New_World.md "wikilink")〉와 《[젤다의 전설: 무주라의 가면](https://ko.wikipedia.org/wiki/젤다의_전설:_무주라의_가면 "wikilink")》의 로마니 목장의 장면의 설정을 섞은 것이라고 밝혔다.\[19\]
 
 ## 평가
 
@@ -55,7 +55,7 @@
 [분류:2011년 텔레비전 에피소드](https://ko.wikipedia.org/wiki/분류:2011년_텔레비전_에피소드 "wikilink") [분류:핀과 제이크의 어드벤처 타임의 에피소드](https://ko.wikipedia.org/wiki/분류:핀과_제이크의_어드벤처_타임의_에피소드 "wikilink")
 
 1.
-2.   Characters|url=[http://www.cartoonnetwork.com/tv_shows/adventuretime/characters/index.html|출판사=](http://www.cartoonnetwork.com/tv_shows/adventuretime/characters/index.html%7C출판사=)[카툰 네트워크](https://ko.wikipedia.org/wiki/카툰_네트워크 "wikilink")|확인날짜=2013-09-08}}
+2.   Characters|url=[http://www.cartoonnetwork.com/tv_shows/adventuretime/characters/index.html|출판사=](http://www.cartoonnetwork.com/tv_shows/adventuretime/characters/index.html%7C출판사=)[카툰 네트워크](../Page/카툰_네트워크.md "wikilink")|확인날짜=2013-09-08}}
 3.
 4.
 5.

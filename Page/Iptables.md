@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Iptables](https://ko.wikipedia.org/wiki/Iptables).
 
 
-**iptables**는 [시스템 관리자가](https://ko.wikipedia.org/wiki/시스템_관리자 "wikilink") [리눅스 커널](https://ko.wikipedia.org/wiki/리눅스_커널 "wikilink") [방화벽](https://ko.wikipedia.org/wiki/방화벽_\(네트워킹\) "wikilink")(다른 [넷필터](../Page/넷필터.md "wikilink") 모듈로 구현됨)이 제공하는 테이블들과 그것을 저장하는 체인, 규칙들을 구성할 수 있게 해주는 [사용자 공간](https://ko.wikipedia.org/wiki/사용자_공간 "wikilink") 응용 프로그램이다. 각기 다른 커널 모듈과 프로그램들은 현재 다른 프로토콜을 위해 사용되는데, iptables는 IPv4에, ip6tables는 IPv6에, arptables는 [ARP에](https://ko.wikipedia.org/wiki/주소_결정_프로토콜 "wikilink"), ebtables는 [이더넷 프레임에](https://ko.wikipedia.org/wiki/이더넷_프레임 "wikilink") 적용된다.
+**iptables**는 [시스템 관리자가](https://ko.wikipedia.org/wiki/시스템_관리자 "wikilink") [리눅스 커널](../Page/리눅스_커널.md "wikilink") [방화벽](../Page/방화벽_\(네트워킹\).md "wikilink")(다른 [넷필터](../Page/넷필터.md "wikilink") 모듈로 구현됨)이 제공하는 테이블들과 그것을 저장하는 체인, 규칙들을 구성할 수 있게 해주는 [사용자 공간](../Page/사용자_공간.md "wikilink") 응용 프로그램이다. 각기 다른 커널 모듈과 프로그램들은 현재 다른 프로토콜을 위해 사용되는데, iptables는 IPv4에, ip6tables는 IPv6에, arptables는 [ARP에](../Page/주소_결정_프로토콜.md "wikilink"), ebtables는 [이더넷 프레임에](https://ko.wikipedia.org/wiki/이더넷_프레임 "wikilink") 적용된다.
 
 iptables는 동작을 위해 상승된 권한을 요구하며 사용자 [루트가](https://ko.wikipedia.org/wiki/슈퍼_유저 "wikilink") 실행하여야 하는데, 그렇지 않으면 작동하지 않는다. 리눅스 시스템에서 iptables는 /usr/sbin/iptables에 설치되며, man iptables를 이용하여 열면 표시되는 [man page에](https://ko.wikipedia.org/wiki/man_page "wikilink") 문서화되어 있다. /sbin/iptables에서도 볼 수 있지만 iptables는 필수적인 이진 파일이라기 보다는 서비스에 더 가깝기 때문에 선호되는 위치는 /usr/sbin이다.
 

@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Spiceworld \(  \)](https://ko.wikipedia.org/wiki/Spiceworld_\(__\)).
 
 
-***Spiceworld***는 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 여성 음악 그룹 [스파이스 걸스의](https://ko.wikipedia.org/wiki/스파이스_걸스 "wikilink") 두 번째 정규 음반이다. [버진 레코드에](https://ko.wikipedia.org/wiki/버진_레코드 "wikilink") 의해 1997년 11월 1일 발매 되었다.
+***Spiceworld***는 [영국](../Page/영국.md "wikilink")의 여성 음악 그룹 [스파이스 걸스의](../Page/스파이스_걸스.md "wikilink") 두 번째 정규 음반이다. [버진 레코드에](https://ko.wikipedia.org/wiki/버진_레코드 "wikilink") 의해 1997년 11월 1일 발매 되었다.
 
 ## 앨범 설명
 
-스파이스 걸스의 2번째 정규앨범. 첫싱글 〈Spice Up Your Life〉은 [엘튼존](https://ko.wikipedia.org/wiki/엘튼존 "wikilink")의 [다이애나 왕세자비](https://ko.wikipedia.org/wiki/웨일스_공작_부인_다이애나 "wikilink") 추모곡 〈Candle In The Wind〉이 엄청난 인기를 끌자, 당초 예정된 날짜에서 발매가 한주 미뤄지게 되었다. 그러나 스파이스 걸스는 그 엄청난 기세를 누르고 앨범과 싱글 모두 발매 첫주 1위를 기록했으며, 〈Too Much〉는 〈2 Become 1〉에 이은 스파이스 걸스의 두 번째 [크리스마스](https://ko.wikipedia.org/wiki/크리스마스 "wikilink") 넘버원 곡으로 기록됐다. 하지만 아쉽게도 〈Stop〉은 UK챠트 2위를 기록하여 스파이스 걸스의 1위 행진을 멈추게 한 곡이다. 이를 안타까워 한 팬들이 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink")에 이 곡을 1위를 만들어 주려고 온라인 다운로드를 하는 등 노력하지만 싱글과 라디오 플레이가 뒷받침이 안된 터라 56위에 그치고 만다. 〈Viva Forever〉는 〈Never Give Up On The Good Time〉과 더블 싱글로 발매될 예정이였는데, 2집 활동 도중 [게리 할리웰이](https://ko.wikipedia.org/wiki/게리_할리웰 "wikilink") 탈퇴를 발표해 게리의 파트가 담긴 〈Never Give Up On The Good Time〉의 발매가 불가능해지자 〈Viva Forever〉만 발매하였다. 또한 스파이스 걸스는 [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") [걸 그룹](https://ko.wikipedia.org/wiki/걸_그룹 "wikilink") 역사상 연간 최고 수입을 달성하며 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink") (2천 9백만 파운드), [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") (4천 9백만 달러)를 기록했다.
+스파이스 걸스의 2번째 정규앨범. 첫싱글 〈Spice Up Your Life〉은 [엘튼존](https://ko.wikipedia.org/wiki/엘튼존 "wikilink")의 [다이애나 왕세자비](https://ko.wikipedia.org/wiki/웨일스_공작_부인_다이애나 "wikilink") 추모곡 〈Candle In The Wind〉이 엄청난 인기를 끌자, 당초 예정된 날짜에서 발매가 한주 미뤄지게 되었다. 그러나 스파이스 걸스는 그 엄청난 기세를 누르고 앨범과 싱글 모두 발매 첫주 1위를 기록했으며, 〈Too Much〉는 〈2 Become 1〉에 이은 스파이스 걸스의 두 번째 [크리스마스](../Page/크리스마스.md "wikilink") 넘버원 곡으로 기록됐다. 하지만 아쉽게도 〈Stop〉은 UK챠트 2위를 기록하여 스파이스 걸스의 1위 행진을 멈추게 한 곡이다. 이를 안타까워 한 팬들이 [2007년](../Page/2007년.md "wikilink")에 이 곡을 1위를 만들어 주려고 온라인 다운로드를 하는 등 노력하지만 싱글과 라디오 플레이가 뒷받침이 안된 터라 56위에 그치고 만다. 〈Viva Forever〉는 〈Never Give Up On The Good Time〉과 더블 싱글로 발매될 예정이였는데, 2집 활동 도중 [게리 할리웰이](https://ko.wikipedia.org/wiki/게리_할리웰 "wikilink") 탈퇴를 발표해 게리의 파트가 담긴 〈Never Give Up On The Good Time〉의 발매가 불가능해지자 〈Viva Forever〉만 발매하였다. 또한 스파이스 걸스는 [1998년](../Page/1998년.md "wikilink") [걸 그룹](../Page/걸_그룹.md "wikilink") 역사상 연간 최고 수입을 달성하며 [영국](../Page/영국.md "wikilink") (2천 9백만 파운드), [미국](../Page/미국.md "wikilink") (4천 9백만 달러)를 기록했다.
 
 ## 트랙 리스트
 
@@ -39,7 +39,7 @@
 <td><p>4</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/캐나디안_핫_100" title="wikilink">캐나다 앨범 차트</a>[5]</p></td>
+<td><p><a href="../Page/캐나디안_핫_100.md" title="wikilink">캐나다 앨범 차트</a>[5]</p></td>
 <td><p>2</p></td>
 </tr>
 <tr class="even">
@@ -79,7 +79,7 @@
 <td><p>2</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/오리콘" title="wikilink">일본 오리콘 앨범 차트</a>[15]</p></td>
+<td><p><a href="../Page/오리콘.md" title="wikilink">일본 오리콘 앨범 차트</a>[15]</p></td>
 <td><p>6</p></td>
 </tr>
 <tr class="even">
@@ -115,7 +115,7 @@
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/빌보드_200" title="wikilink">미국 빌보드 앨범 차트</a>[24]</p></td>
+<td><p><a href="../Page/빌보드_200.md" title="wikilink">미국 빌보드 앨범 차트</a>[24]</p></td>
 <td><p>3</p></td>
 </tr>
 </tbody>

@@ -7,9 +7,9 @@
 
   - 2008년 창립 - 전신은 K플러스(K PLUS)로, 고은경이 2008년 설립했다. 이후, 전문패션쇼 기획, 방송 광고 잡지 출연, 해외 진출 등 모델 매니지먼트, 프로 모델 양성 등을 주요 업무로 하고 있다.
   - 2014년 2월 - [YG엔터테인먼트](https://ko.wikipedia.org/wiki/YG엔터테인먼트 "wikilink")는 모델 컴퍼니 K플러스와 전략적 제휴 및 지분 투자계약을 체결했다.\[1\]
-  - 2014년 6월 - [YG엔터테인먼트](https://ko.wikipedia.org/wiki/YG엔터테인먼트 "wikilink")의 소속 배우 [차승원](https://ko.wikipedia.org/wiki/차승원 "wikilink")은 케이플러스와 함께 모델 출신의 후배 양성을 위해, 2014년 7월 25일 오픈한 YG케이플러스 액터스쿨의 연기반을 총괄 담당하고 있다.\[2\] YG케이플러스 액터스쿨은 연기 외에 워킹, 포즈, 댄스, 뮤지컬 보컬 등의 프로그램으로 운영하고 있다.
+  - 2014년 6월 - [YG엔터테인먼트](https://ko.wikipedia.org/wiki/YG엔터테인먼트 "wikilink")의 소속 배우 [차승원](../Page/차승원.md "wikilink")은 케이플러스와 함께 모델 출신의 후배 양성을 위해, 2014년 7월 25일 오픈한 YG케이플러스 액터스쿨의 연기반을 총괄 담당하고 있다.\[2\] YG케이플러스 액터스쿨은 연기 외에 워킹, 포즈, 댄스, 뮤지컬 보컬 등의 프로그램으로 운영하고 있다.
   - 2014년 9월 - 케이플러스는 [YG엔터테인먼트](https://ko.wikipedia.org/wiki/YG엔터테인먼트 "wikilink")와 합병, **YG케이플러스**로 상호를 변경하고 대중적인 모델 사업과 토탈이벤트 컴퍼니 사업을 진행할 것이라고 발표했다.\[3\]\[4\]
-  - 2015년 7월 - 서울 [압구정동](https://ko.wikipedia.org/wiki/압구정동 "wikilink")에 위치한 YG케이플러스 모델 아카데미에 이어 부산, 경남 지역을 대상으로 한 'YG케이플러스 모델 아카데미 인 부산' 오픈하였다.\[5\]
+  - 2015년 7월 - 서울 [압구정동](../Page/압구정동.md "wikilink")에 위치한 YG케이플러스 모델 아카데미에 이어 부산, 경남 지역을 대상으로 한 'YG케이플러스 모델 아카데미 인 부산' 오픈하였다.\[5\]
 
 ## 소속 모델
 
@@ -29,12 +29,12 @@
 <li><a href="https://ko.wikipedia.org/wiki/한혜연_(모델)" title="wikilink">한혜연</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/이루영" title="wikilink">이루영</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/오혜지" title="wikilink">오혜지</a></li>
-<li><a href="https://ko.wikipedia.org/wiki/강승현" title="wikilink">강승현</a></li>
+<li><a href="../Page/강승현.md" title="wikilink">강승현</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/박예운" title="wikilink">박예운</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/지호진" title="wikilink">지호진</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/정유진" title="wikilink">정유진</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/김현희_(모델)" title="wikilink">김현희</a></li>
-<li><a href="https://ko.wikipedia.org/wiki/이승미" title="wikilink">이승미</a></li>
+<li><a href="../Page/이승미.md" title="wikilink">이승미</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/정지영" title="wikilink">정지영</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/이수진" title="wikilink">이수진</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/최영지" title="wikilink">최영지</a></li>
@@ -52,8 +52,8 @@
 <li><a href="https://ko.wikipedia.org/wiki/이호정_(모델)" title="wikilink">이호정</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/신현지" title="wikilink">신현지</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/김효정" title="wikilink">김효정</a></li>
-<li><a href="https://ko.wikipedia.org/wiki/김상원" title="wikilink">김상원</a></li>
-<li><a href="https://ko.wikipedia.org/wiki/주희정" title="wikilink">주희정</a></li>
+<li><a href="../Page/김상원.md" title="wikilink">김상원</a></li>
+<li><a href="../Page/주희정.md" title="wikilink">주희정</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/이정현_(모델)" title="wikilink">이정현</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/이재이" title="wikilink">이재이</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/엄유정" title="wikilink">엄유정</a></li>
@@ -68,7 +68,7 @@
 <li><a href="https://ko.wikipedia.org/wiki/홍효" title="wikilink">홍효</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/엄예진" title="wikilink">엄예진</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/배윤영" title="wikilink">배윤영</a></li>
-<li><a href="https://ko.wikipedia.org/wiki/엘리스" title="wikilink">엘리스</a></li>
+<li><a href="../Page/엘리스.md" title="wikilink">엘리스</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/나딘" title="wikilink">나딘</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/박선하" title="wikilink">박선하</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/이다정" title="wikilink">이다정</a></li>
@@ -82,7 +82,7 @@
 <li><a href="https://ko.wikipedia.org/wiki/최하림" title="wikilink">최하림</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/신예민" title="wikilink">신예민</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/이연주" title="wikilink">이연주</a></li>
-<li><a href="https://ko.wikipedia.org/wiki/김예림" title="wikilink">김예림</a></li>
+<li><a href="../Page/김예림.md" title="wikilink">김예림</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/박세진" title="wikilink">박세진</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/신혜진" title="wikilink">신혜진</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/박정민" title="wikilink">박정민</a></li>
@@ -90,7 +90,7 @@
 <li><a href="https://ko.wikipedia.org/wiki/전민옥" title="wikilink">전민옥</a></li>
 <li><a href="../Page/김세인.md" title="wikilink">김세인</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/윤은화" title="wikilink">윤은화</a></li>
-<li><a href="https://ko.wikipedia.org/wiki/심소영" title="wikilink">심소영</a></li>
+<li><a href="../Page/심소영.md" title="wikilink">심소영</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/안예원" title="wikilink">안예원</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/박효린" title="wikilink">박효린</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/김설희" title="wikilink">김설희</a></li>
@@ -127,8 +127,8 @@
 <li><a href="https://ko.wikipedia.org/wiki/임후석" title="wikilink">임후석</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/김종훈" title="wikilink">김종훈</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/이봄찬" title="wikilink">이봄찬</a></li>
-<li><a href="https://ko.wikipedia.org/wiki/조환" title="wikilink">조환</a></li>
-<li><a href="https://ko.wikipedia.org/wiki/서홍석" title="wikilink">서홍석</a></li>
+<li><a href="../Page/조환.md" title="wikilink">조환</a></li>
+<li><a href="../Page/서홍석.md" title="wikilink">서홍석</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/맹주호" title="wikilink">맹주호</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/김태완" title="wikilink">김태완</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/김기범" title="wikilink">김기범</a></li>
@@ -139,8 +139,8 @@
 <li><a href="https://ko.wikipedia.org/wiki/김태우_(모델)" title="wikilink">김태우</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/이석찬" title="wikilink">이석찬</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/정용수" title="wikilink">정용수</a></li>
-<li><a href="https://ko.wikipedia.org/wiki/강희" title="wikilink">강희</a></li>
-<li><a href="https://ko.wikipedia.org/wiki/박기태" title="wikilink">박기태</a></li>
+<li><a href="../Page/강희.md" title="wikilink">강희</a></li>
+<li><a href="../Page/박기태.md" title="wikilink">박기태</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/서수원" title="wikilink">서수원</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/신재혁" title="wikilink">신재혁</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/이현준" title="wikilink">이현준</a></li>
@@ -151,7 +151,7 @@
 <li><a href="https://ko.wikipedia.org/wiki/데이비드" title="wikilink">데이비드</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/다니엘_스눅스" title="wikilink">다니엘 스눅스</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/최태용" title="wikilink">최태용</a></li>
-<li><a href="https://ko.wikipedia.org/wiki/권현빈" title="wikilink">권현빈</a></li>
+<li><a href="../Page/권현빈.md" title="wikilink">권현빈</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/정의성" title="wikilink">정의성</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/김정식_(모델)" title="wikilink">김정식</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/김민종_(모델)" title="wikilink">김민종</a></li>
@@ -193,7 +193,7 @@
 <tr class="odd">
 <td><ul>
 <li>이후림</li>
-<li><a href="https://ko.wikipedia.org/wiki/변우석" title="wikilink">변우석</a></li>
+<li><a href="../Page/변우석.md" title="wikilink">변우석</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -203,7 +203,7 @@
 ## 기획·제작
 
   - 2015년 [네이버 캐스트](https://ko.wikipedia.org/wiki/네이버_캐스트 "wikilink") 《우리 헤어졌어요》 - CJ E\&M 디지털 스튜디오와 YG케이플러스, [메가몬스터](https://ko.wikipedia.org/wiki/메가몬스터 "wikilink") (구)스토리플랜트가 공동 기획한 웹드라마.
-  - 2015년 [JTBC](https://ko.wikipedia.org/wiki/JTBC "wikilink") 《스테파니리의 컬러풀 라이프》 - YG케이플러스, JTBC가 공동 제작한 썸머 리얼리티 프로그램.(YGK+TV(유튜브)와 네이버 TV 캐스트를 통해 공개)
+  - 2015년 [JTBC](../Page/JTBC.md "wikilink") 《스테파니리의 컬러풀 라이프》 - YG케이플러스, JTBC가 공동 제작한 썸머 리얼리티 프로그램.(YGK+TV(유튜브)와 네이버 TV 캐스트를 통해 공개)
 
 ## 각주
 

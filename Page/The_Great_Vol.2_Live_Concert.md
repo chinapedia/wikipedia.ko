@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Great Vol.2 Live Concert](https://ko.wikipedia.org/wiki/The_Great_Vol.2_Live_Concert).
 
 
-《**The Great Vol.2 Live Concert**》는 대한민국의 음악 그룹 [빅뱅의](https://ko.wikipedia.org/wiki/빅뱅_\(음악_그룹\) "wikilink") 두 번째 라이브 음반이다. 2007년 12월 28일부터 30일까지 3일간 서울 올림픽 공원 펜싱경기장에서 열린 빅뱅의 세 번째 단독콘서트의 공연 실황이 수록 되었다.\[1\]
+《**The Great Vol.2 Live Concert**》는 대한민국의 음악 그룹 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") 두 번째 라이브 음반이다. 2007년 12월 28일부터 30일까지 3일간 서울 올림픽 공원 펜싱경기장에서 열린 빅뱅의 세 번째 단독콘서트의 공연 실황이 수록 되었다.\[1\]
 
 ## 트랙 리스트
 

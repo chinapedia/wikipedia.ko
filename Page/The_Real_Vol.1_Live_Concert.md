@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Real Vol.1 Live Concert](https://ko.wikipedia.org/wiki/The_Real_Vol.1_Live_Concert).
 
 
-《**The Real Vol.1 Live Concert**》는 대한민국의 음악 그룹 [빅뱅의](https://ko.wikipedia.org/wiki/빅뱅_\(음악_그룹\) "wikilink") 첫 번째 라이브 음반이다. 2006년 12월 30일 서울 올림픽공원 체조경기장에서 열린 빅뱅의 단독 콘서트의 공연 실황이 수록 되었다.\[1\]
+《**The Real Vol.1 Live Concert**》는 대한민국의 음악 그룹 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") 첫 번째 라이브 음반이다. 2006년 12월 30일 서울 올림픽공원 체조경기장에서 열린 빅뱅의 단독 콘서트의 공연 실황이 수록 되었다.\[1\]
 
 ## 트랙 리스트
 

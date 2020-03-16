@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Crazy \(EP\)](https://ko.wikipedia.org/wiki/Crazy_\(EP\)).
 
 
-***Crazy***는 대한민국의 음악 그룹 [포미닛](https://ko.wikipedia.org/wiki/포미닛 "wikilink")의 여섯 번째 미니 음반이다.
+***Crazy***는 대한민국의 음악 그룹 [포미닛](../Page/포미닛.md "wikilink")의 여섯 번째 미니 음반이다.
 
 ## 수록곡
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [M2M \(\)](https://ko.wikipedia.org/wiki/M2M_\(\)).
 
 
-**M2M**는 1998년부터 2002년까지 활동한 [노르웨이](https://ko.wikipedia.org/wiki/노르웨이 "wikilink")의 여성 듀오이다. [오슬로](https://ko.wikipedia.org/wiki/오슬로 "wikilink") 동부 교외에 위치한 [뢰렌스코그](https://ko.wikipedia.org/wiki/뢰렌스코그 "wikilink") 출신 가수, 작곡가인 [마리트 라르센](https://ko.wikipedia.org/wiki/마리트_라르센 "wikilink"), [마리온 라븐으로](https://ko.wikipedia.org/wiki/마리온_라븐 "wikilink") 구성되었다. 자신들이 직접 노래를 작곡하고 악기를 연주한 것으로 유명하다.
+**M2M**는 1998년부터 2002년까지 활동한 [노르웨이](../Page/노르웨이.md "wikilink")의 여성 듀오이다. [오슬로](../Page/오슬로.md "wikilink") 동부 교외에 위치한 [뢰렌스코그](https://ko.wikipedia.org/wiki/뢰렌스코그 "wikilink") 출신 가수, 작곡가인 [마리트 라르센](https://ko.wikipedia.org/wiki/마리트_라르센 "wikilink"), [마리온 라븐으로](https://ko.wikipedia.org/wiki/마리온_라븐 "wikilink") 구성되었다. 자신들이 직접 노래를 작곡하고 악기를 연주한 것으로 유명하다.
 
 ## 디스코그래피
 
@@ -13,7 +13,7 @@
 <th><p>연도</p></th>
 <th><p>정보</p></th>
 <th><p>순위</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/음반_판매량_인증" title="wikilink">음반 판매량 인증</a></p></th>
+<th><p><a href="../Page/음반_판매량_인증.md" title="wikilink">음반 판매량 인증</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -22,9 +22,9 @@
 [1]</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/ARIA_차트" title="wikilink">AUS</a><br />
 [2]</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/빌보드_200" title="wikilink">US</a><br />
+<td><p><a href="../Page/빌보드_200.md" title="wikilink">US</a><br />
 </p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오리콘" title="wikilink">JPN</a><br />
+<td><p><a href="../Page/오리콘.md" title="wikilink">JPN</a><br />
 [3]</p></td>
 </tr>
 <tr class="even">
@@ -32,7 +32,7 @@
 <td><p><strong><em><a href="https://ko.wikipedia.org/wiki/Shades_of_Purple" title="wikilink">Shades of Purple</a></em></strong><small></p>
 <ul>
 <li>발매일: 2000년 3월 7일</li>
-<li>레이블: <a href="https://ko.wikipedia.org/wiki/애틀랜틱_레코드" title="wikilink">애틀랜틱 레코드</a></li>
+<li>레이블: <a href="../Page/애틀랜틱_레코드.md" title="wikilink">애틀랜틱 레코드</a></li>
 </ul></td>
 <td><p>7</p></td>
 <td><p>63</p></td>
@@ -89,7 +89,7 @@
 <th><p>연도</p></th>
 <th><p>싱글</p></th>
 <th><p>순위</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/음반_판매량_인증" title="wikilink">음반 판매량 인증</a></p></th>
+<th><p><a href="../Page/음반_판매량_인증.md" title="wikilink">음반 판매량 인증</a></p></th>
 <th><p>앨범</p></th>
 </tr>
 </thead>

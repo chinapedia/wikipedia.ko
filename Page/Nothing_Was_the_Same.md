@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Nothing Was the Same](https://ko.wikipedia.org/wiki/Nothing_Was_the_Same).
 
 
-***Nothing Was the Same***은 [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink")의 [힙합](https://ko.wikipedia.org/wiki/힙합 "wikilink") 가수 [드레이크](https://ko.wikipedia.org/wiki/드레이크 "wikilink")의 앨범이다. 2013년 9월 24일에 발매되었다.
+***Nothing Was the Same***은 [캐나다](../Page/캐나다.md "wikilink")의 [힙합](../Page/힙합.md "wikilink") 가수 [드레이크](https://ko.wikipedia.org/wiki/드레이크 "wikilink")의 앨범이다. 2013년 9월 24일에 발매되었다.
 
 ## 수록곡
 

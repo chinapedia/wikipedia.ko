@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DJ ](https://ko.wikipedia.org/wiki/DJ_).
 
 
-**타이어 싱크 시몬스 주니어**(Tyree Cinque Simmons, Jr., [1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink") [4월 22일](https://ko.wikipedia.org/wiki/4월_22일 "wikilink") \~ )는 흔히 **DJ 드라마 (DJ Drama)**로 불리는 미국의 [DJ이다](https://ko.wikipedia.org/wiki/디스크_자키 "wikilink").
+**타이어 싱크 시몬스 주니어**(Tyree Cinque Simmons, Jr., [1978년](../Page/1978년.md "wikilink") [4월 22일](../Page/4월_22일.md "wikilink") \~ )는 흔히 **DJ 드라마 (DJ Drama)**로 불리는 미국의 [DJ이다](../Page/디스크_자키.md "wikilink").
 
 ## 음반
 

@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ KZ ](https://ko.wikipedia.org/wiki/_KZ_).
 
 
-**탐정팀 KZ 사건노트**()은 [후지모토 히토미](https://ko.wikipedia.org/wiki/후지모토_히토미 "wikilink")(그림), 스미타키 료(글)에 의한 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [아동 문학이다](https://ko.wikipedia.org/wiki/아동_문학 "wikilink"). 『[파랑새문고](https://ko.wikipedia.org/wiki/파랑새문고 "wikilink")』([고단샤](https://ko.wikipedia.org/wiki/고단샤 "wikilink"))의 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink")부터 연재되고 있으며, [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [10월](https://ko.wikipedia.org/wiki/10월 "wikilink")부터 [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [1월](https://ko.wikipedia.org/wiki/1월 "wikilink")까지 [NHK 교육 텔레비전에서](https://ko.wikipedia.org/wiki/NHK_교육_텔레비전 "wikilink") TV 애니메이션화되어 방영 중이다.
+**탐정팀 KZ 사건노트**()은 [후지모토 히토미](https://ko.wikipedia.org/wiki/후지모토_히토미 "wikilink")(그림), 스미타키 료(글)에 의한 [일본](../Page/일본.md "wikilink")의 [아동 문학이다](../Page/아동_문학.md "wikilink"). 『[파랑새문고](https://ko.wikipedia.org/wiki/파랑새문고 "wikilink")』([고단샤](../Page/고단샤.md "wikilink"))의 [2011년](../Page/2011년.md "wikilink")부터 연재되고 있으며, [2015년](../Page/2015년.md "wikilink") [10월](../Page/10월.md "wikilink")부터 [2016년](../Page/2016년.md "wikilink") [1월](../Page/1월.md "wikilink")까지 [NHK 교육 텔레비전에서](../Page/NHK_교육_텔레비전.md "wikilink") TV 애니메이션화되어 방영 중이다.
 
-스핀오프 작품 『**탐정팀 G 사건노트**()』가 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink")부터 출판되고 있다.
+스핀오프 작품 『**탐정팀 G 사건노트**()』가 [2014년](../Page/2014년.md "wikilink")부터 출판되고 있다.
 
 ## 주요 내용
 
@@ -16,13 +16,13 @@
   - 와카타케 카즈오미 ()
     성우 : [사이토 소우마](https://ko.wikipedia.org/wiki/사이토_소우마 "wikilink")
   - 다카카즈 쿠로키 ()
-    성우 : [테라시마 타쿠마](https://ko.wikipedia.org/wiki/테라시마_타쿠마 "wikilink")
+    성우 : [테라시마 타쿠마](../Page/테라시마_타쿠마.md "wikilink")
   - 우에스기 카즈노리 ()
     성우 : [니시야마 코타로](https://ko.wikipedia.org/wiki/니시야마_코타로 "wikilink")
   - 코즈카 카즈히로 ()
     성우 : [이치키 미츠히로](https://ko.wikipedia.org/wiki/이치키_미츠히로 "wikilink")
   - 스나하라 카케루 ()
-    성우 : [카지 유우키](https://ko.wikipedia.org/wiki/카지_유우키 "wikilink")
+    성우 : [카지 유우키](../Page/카지_유우키.md "wikilink")
 
 ## 외부 링크
 
