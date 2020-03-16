@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Whiteeeen](https://ko.wikipedia.org/wiki/Whiteeeen).
 
 
-**whiteeeen**()는 일본의 4인조 음악 그룹이다. [유니버셜 뮤직 재팬](https://ko.wikipedia.org/wiki/유니버설_뮤직_\(일본\) "wikilink") 소속으로 같은 소속사의 [GReeeeN](https://ko.wikipedia.org/wiki/GReeeeN "wikilink")의 자매그룹으로써 데뷔했다.
+**whiteeeen**()는 일본의 4인조 음악 그룹이다. [유니버셜 뮤직 재팬](https://ko.wikipedia.org/wiki/유니버설_뮤직_\(일본\) "wikilink") 소속으로 같은 소속사의 [GReeeeN](../Page/GReeeeN.md "wikilink")의 자매그룹으로써 데뷔했다.
 
 ## 멤버
 
@@ -12,11 +12,11 @@
 
 ## 데뷔
 
-2014년 10월에 음악 그룹 GReeeeN이 [라인에](https://ko.wikipedia.org/wiki/라인_\(소프트웨어\) "wikilink") 오디션을 개최하여 그 중 4명을 선택해 자매그룹으로써 whiteeeen을 결성했다. 2015년 3월 11일 싱글 [애창\~since 2007\~](https://ko.wikipedia.org/wiki/애창~since_2007~ "wikilink")\[1\]을 통해 데뷔했다.
+2014년 10월에 음악 그룹 GReeeeN이 [라인에](../Page/라인_\(소프트웨어\).md "wikilink") 오디션을 개최하여 그 중 4명을 선택해 자매그룹으로써 whiteeeen을 결성했다. 2015년 3월 11일 싱글 [애창\~since 2007\~](https://ko.wikipedia.org/wiki/애창~since_2007~ "wikilink")\[1\]을 통해 데뷔했다.
 
 ## 수상
 
-  - 2015년 제30회 [일본 골드 디스크 대상](https://ko.wikipedia.org/wiki/일본_골드_디스크_대상 "wikilink") 「베스트5 뉴아티스트」\[2\]
+  - 2015년 제30회 [일본 골드 디스크 대상](../Page/일본_골드_디스크_대상.md "wikilink") 「베스트5 뉴아티스트」\[2\]
 
 ## 음반 목록
 
@@ -80,7 +80,7 @@ UPCH-2072 (통상판)</p></td>
 <tr class="odd">
 <td><p><strong>애창〜since 2007〜</strong></p></td>
 <td><ul>
-<li>전국 <a href="https://ko.wikipedia.org/wiki/도호" title="wikilink">도호</a>계 영화 『<a href="https://ko.wikipedia.org/wiki/스트롭_에지#영화" title="wikilink">스트롭 에지</a>』 주제가[3]</li>
+<li>전국 <a href="../Page/도호.md" title="wikilink">도호</a>계 영화 『<a href="https://ko.wikipedia.org/wiki/스트롭_에지#영화" title="wikilink">스트롭 에지</a>』 주제가[3]</li>
 </ul></td>
 </tr>
 <tr class="even">

@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [C.P.U !\?](https://ko.wikipedia.org/wiki/C.P.U_!\?).
 
 
-〈**C.P.U \!?**〉(시피유\!?)는 [치키 퍼레이드의](https://ko.wikipedia.org/wiki/치키_퍼레이드 "wikilink") 두 번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink"). [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [4월 10일에](https://ko.wikipedia.org/wiki/4월_10일 "wikilink") [아이돌 스트리트에서](https://ko.wikipedia.org/wiki/아이돌_스트리트 "wikilink") 발매됐다.
+〈**C.P.U \!?**〉(시피유\!?)는 [치키 퍼레이드의](https://ko.wikipedia.org/wiki/치키_퍼레이드 "wikilink") 두 번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). [2013년](../Page/2013년.md "wikilink") [4월 10일에](../Page/4월_10일.md "wikilink") [아이돌 스트리트에서](https://ko.wikipedia.org/wiki/아이돌_스트리트 "wikilink") 발매됐다.
 
 ## 개요
 
 ‘CD+DVD반’, ‘CD반’, ‘[로손](../Page/로손.md "wikilink") · [HMV한정반](https://ko.wikipedia.org/wiki/로손_HMV_엔터테인먼트 "wikilink")’, ‘이벤트 회장 · [mu-mo](https://ko.wikipedia.org/wiki/mu-mo "wikilink") 샵 한정반’의 네가지 형태로 발매. ‘이벤트 회장 mi-mo 샵 한정반’을 제외한 세가지 형태에는 초회특전으로 악수회 이벤트 참가권이 봉입되어 있다.
 
-곡명은 [컴퓨터](https://ko.wikipedia.org/wiki/컴퓨터 "wikilink") 등의 [CPU](https://ko.wikipedia.org/wiki/CPU "wikilink")에서 ‘치키퍼의 뇌 속’()이라는 뜻에 ‘**C**heeky **P**arade **U**nderstand \!?’라는 의미가 포함되어있다\[1\].
+곡명은 [컴퓨터](../Page/컴퓨터.md "wikilink") 등의 [CPU](https://ko.wikipedia.org/wiki/CPU "wikilink")에서 ‘치키퍼의 뇌 속’()이라는 뜻에 ‘**C**heeky **P**arade **U**nderstand \!?’라는 의미가 포함되어있다\[1\].
 
 〈C.P.U \!?〉의 [MV는](https://ko.wikipedia.org/wiki/뮤직비디오 "wikilink") 전작에 이어서 [모리타 료가](https://ko.wikipedia.org/wiki/로봇_\(기업\) "wikilink") 맡았다\[2\]\[3\]. 동명의 곡 안무는 개그맨 콤비 및 댄스팀 [미균 가진 비둘기에](https://ko.wikipedia.org/wiki/B.M.H. "wikilink") 의한 것이며\[4\], ‘시건방대죠? ’()의 포즈는 피스의 [아야베 유지의](https://ko.wikipedia.org/wiki/아야베_유지 "wikilink") 개그를 본인 공증의 아래 넣었다고 한다\[5\]\[6\]. 또, [커플링곡인](https://ko.wikipedia.org/wiki/A-사이드와_B-사이드 "wikilink") 〈짝사랑 팩토리〉는 멤버 자신이 안무를 행하고 있다\[7\].
 
@@ -44,7 +44,7 @@ MV 〈C.P.U \!?〉의 ‘**UNEDITED Ver.**’이 2013년 4월 6일에 행해진 
 <td><p>2013년</p></td>
 <td><p>2월 12일</p></td>
 <td><p><strong>C.P.U !?</strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유튜브" title="wikilink">유튜브</a></p></td>
+<td><p><a href="../Page/유튜브.md" title="wikilink">유튜브</a></p></td>
 <td><p>유튜브</p></td>
 <td><p>-</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=RXm9m57X4o0"><strong>〈C.P.U !?〉 (PANORAMA Ver.)</strong></a></p></td>

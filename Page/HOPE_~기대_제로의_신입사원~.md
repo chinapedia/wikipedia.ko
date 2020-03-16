@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [HOPE \~  \~](https://ko.wikipedia.org/wiki/HOPE_\~__\~).
 
 
-《**HOPE \~기대 제로의 신입사원\~**》()은, [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [7월 17일부터](https://ko.wikipedia.org/wiki/7월_17일 "wikilink") [9월 18일까지](https://ko.wikipedia.org/wiki/9월_18일 "wikilink") 매주 [일요일](https://ko.wikipedia.org/wiki/일요일 "wikilink") 21:00 \~ 21:54에 [후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink") [계열에서](https://ko.wikipedia.org/wiki/후지_네트워크 "wikilink") 방송된 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink"). 주연은 [나카지마 유토](https://ko.wikipedia.org/wiki/나카지마_유토 "wikilink").
+《**HOPE \~기대 제로의 신입사원\~**》()은, [2016년](../Page/2016년.md "wikilink") [7월 17일부터](../Page/7월_17일.md "wikilink") [9월 18일까지](../Page/9월_18일.md "wikilink") 매주 [일요일](../Page/일요일.md "wikilink") 21:00 \~ 21:54에 [후지 TV](../Page/후지_TV.md "wikilink") [계열에서](../Page/후지_네트워크.md "wikilink") 방송된 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink"). 주연은 [나카지마 유토](../Page/나카지마_유토.md "wikilink").
 
 ## 개요
 
-[바둑](https://ko.wikipedia.org/wiki/바둑 "wikilink") 프로 기사의 꿈에 좌절한 주인공이, 종합 상사에서 일하게 되어, 제대로 된 사회 경험도 학력도 없는 상태에서, 조직의 일원으로 인정받도록, 전력으로 일을 마주하는 모습을 그린 감동 휴먼 드라마.
+[바둑](../Page/바둑.md "wikilink") 프로 기사의 꿈에 좌절한 주인공이, 종합 상사에서 일하게 되어, 제대로 된 사회 경험도 학력도 없는 상태에서, 조직의 일원으로 인정받도록, 전력으로 일을 마주하는 모습을 그린 감동 휴먼 드라마.
 
 ## 캐스트
 
-  - 이치노세 아유무 - [나카지마 유토](https://ko.wikipedia.org/wiki/나카지마_유토 "wikilink") ([Hey\! Say\! JUMP](https://ko.wikipedia.org/wiki/헤이!_세이!_점프 "wikilink"))
+  - 이치노세 아유무 - [나카지마 유토](../Page/나카지마_유토.md "wikilink") ([Hey\! Say\! JUMP](https://ko.wikipedia.org/wiki/헤이!_세이!_점프 "wikilink"))
   - 오다 이사히토 - 엔도 켄이치
   - 키리아케 신지 - [세토 코지](../Page/세토_코지.md "wikilink")
   - 카즈키 아카네 - [야마모토 미즈키](../Page/야마모토_미즈키.md "wikilink")
@@ -18,14 +18,14 @@
 
 ## 스태프
 
-  - 원작 - 제작 [CJ E\&M](https://ko.wikipedia.org/wiki/CJ_E&M "wikilink")·각본 정윤정·연출 김원석 《[미생](../Page/미생_\(드라마\).md "wikilink")》 (드라마) 및 [윤태호](https://ko.wikipedia.org/wiki/윤태호 "wikilink") 〈[미생](https://ko.wikipedia.org/wiki/미생_\(만화\) "wikilink")〉 (웹툰)
+  - 원작 - 제작 [CJ E\&M](../Page/CJ_E&M.md "wikilink")·각본 정윤정·연출 김원석 《[미생](../Page/미생_\(드라마\).md "wikilink")》 (드라마) 및 [윤태호](https://ko.wikipedia.org/wiki/윤태호 "wikilink") 〈[미생](../Page/미생_\(만화\).md "wikilink")〉 (웹툰)
   - 각본 - 토쿠나가 유이치
   - 음악 - 마나베 아키히로, MAYUKO
-  - 주제가 - [스피츠](https://ko.wikipedia.org/wiki/스피츠_\(밴드\) "wikilink") 〈코멧〉 ([유니버설 J](https://ko.wikipedia.org/wiki/유니버설_뮤직_\(일본\) "wikilink"))
+  - 주제가 - [스피츠](../Page/스피츠_\(밴드\).md "wikilink") 〈코멧〉 ([유니버설 J](https://ko.wikipedia.org/wiki/유니버설_뮤직_\(일본\) "wikilink"))
   - 편성 기획 - 와타나베 츠네야
   - 프로듀스 - 타카마루 마사타카
   - 연출 - 코노 케이타, 죠호 히데노리, 후치가미 마사토
-  - 제작 - [후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink"), 쿄도 TV
+  - 제작 - [후지 TV](../Page/후지_TV.md "wikilink"), 쿄도 TV
 
 ## 방송 일자
 
@@ -149,7 +149,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>(시청률은 <a href="https://ko.wikipedia.org/wiki/간토_지방" title="wikilink">칸토 지구</a>·<a href="https://ko.wikipedia.org/wiki/비디오_리서치" title="wikilink">비디오 리서치사</a> 조사)</p></td>
+<td><p>(시청률은 <a href="../Page/간토_지방.md" title="wikilink">칸토 지구</a>·<a href="../Page/비디오_리서치.md" title="wikilink">비디오 리서치사</a> 조사)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -170,7 +170,7 @@
 ## 관련 항목
 
   - [미생 (드라마)](../Page/미생_\(드라마\).md "wikilink")
-  - [미생 (만화)](https://ko.wikipedia.org/wiki/미생_\(만화\) "wikilink")
+  - [미생 (만화)](../Page/미생_\(만화\).md "wikilink")
 
 ## 각주
 

@@ -5,11 +5,11 @@
 
 ## 개요
 
-당시 전성기 [아케이드 게임](https://ko.wikipedia.org/wiki/아케이드_게임 "wikilink") '서커스'와 '[스페이스 인베이더](https://ko.wikipedia.org/wiki/스페이스_인베이더 "wikilink")'의 음향을 모사한 'COMPUTER GAME', 영화 [스타워즈](https://ko.wikipedia.org/wiki/스타워즈 "wikilink")에서 사막 가운데를 [C-3PO](https://ko.wikipedia.org/wiki/C-3PO "wikilink")와 [R2-D2](https://ko.wikipedia.org/wiki/R2-D2 "wikilink")가 걸어가는 모습의 'SIMOON'\[1\], 마크 데니의 원곡을 '외국인이 본 오해된 동양 인상'이라는 YMO 결성 당시 개념에 따라 [조르조 모로더풍](https://ko.wikipedia.org/wiki/조르조_모로더 "wikilink") 디스코 버전으로 편곡한 'FIRECRACKER', 텔레비전에서 봤던 베이징 중앙 악단을 이미지로 [문화 대혁명](https://ko.wikipedia.org/wiki/문화_대혁명 "wikilink") 이후 [마오쩌둥](https://ko.wikipedia.org/wiki/마오쩌둥 "wikilink") 시에 작곡한 중국 레코드를 구입하여 한 곡을 참고한 '동풍'\[2\], 게이오 대학 불문과 출신의 알파 레코드 사장 비서가 프랑스어로 노래한 '중국 여자'\[3\], '미친 피에로', 호소노 하루오미 · 야마시타 다쓰로 · 스즈키 시게루의 기획 앨범 《Pacific》에 수록한 「COSMIC SURFIN'」의 YMO 버전이 포함되었다. 앨범 분위기상 맞지 않아 미수록된, '인도'라는 곡은 2000년 《Pre YMO》라는 명의로 발매된다.\[4\] 앨범 제작비는 당시 두 배에 해당하는 800만 엔이 들어갔다.\[5\]2003년 복각반은 사카모토 류이치, 다카하시 유키히로의 최신 'YMO 회고하는 인터뷰', 호소노 하루오미의 [도시바반](https://ko.wikipedia.org/wiki/EMI_뮤직_재팬 "wikilink")(1999년) 인터뷰도 실려 있다.\[6\]
+당시 전성기 [아케이드 게임](../Page/아케이드_게임.md "wikilink") '서커스'와 '[스페이스 인베이더](../Page/스페이스_인베이더.md "wikilink")'의 음향을 모사한 'COMPUTER GAME', 영화 [스타워즈](../Page/스타워즈.md "wikilink")에서 사막 가운데를 [C-3PO](../Page/C-3PO.md "wikilink")와 [R2-D2](../Page/R2-D2.md "wikilink")가 걸어가는 모습의 'SIMOON'\[1\], 마크 데니의 원곡을 '외국인이 본 오해된 동양 인상'이라는 YMO 결성 당시 개념에 따라 [조르조 모로더풍](../Page/조르조_모로더.md "wikilink") 디스코 버전으로 편곡한 'FIRECRACKER', 텔레비전에서 봤던 베이징 중앙 악단을 이미지로 [문화 대혁명](../Page/문화_대혁명.md "wikilink") 이후 [마오쩌둥](../Page/마오쩌둥.md "wikilink") 시에 작곡한 중국 레코드를 구입하여 한 곡을 참고한 '동풍'\[2\], 게이오 대학 불문과 출신의 알파 레코드 사장 비서가 프랑스어로 노래한 '중국 여자'\[3\], '미친 피에로', 호소노 하루오미 · 야마시타 다쓰로 · 스즈키 시게루의 기획 앨범 《Pacific》에 수록한 「COSMIC SURFIN'」의 YMO 버전이 포함되었다. 앨범 분위기상 맞지 않아 미수록된, '인도'라는 곡은 2000년 《Pre YMO》라는 명의로 발매된다.\[4\] 앨범 제작비는 당시 두 배에 해당하는 800만 엔이 들어갔다.\[5\]2003년 복각반은 사카모토 류이치, 다카하시 유키히로의 최신 'YMO 회고하는 인터뷰', 호소노 하루오미의 [도시바반](../Page/EMI_뮤직_재팬.md "wikilink")(1999년) 인터뷰도 실려 있다.\[6\]
 
 ### 미국판
 
-1978년 12월 5일 기노쿠니야 홀에서 열린 '알파 퓨전 페스티벌'에 출연할 당시 그것을 본 A & M 프로듀서 토미 리푸마가 해외 발매를 즉결하고 이듬해 LA의 [캐피틀 레코드에서](https://ko.wikipedia.org/wiki/캐피틀_레코드 "wikilink") 이 앨범의 리믹스가 이루어졌다. 그 결과, 음질이 전반적으로 원만해진 인상이지만, 호소노는 일본판 믹스가 마음에 든다고 발언하였다.\[7\] 표지는 머리에서 코드가 난 선글라스 게이샤로 변경되어 "전선 게이샤"라는 별명이 있다.\[8\]
+1978년 12월 5일 기노쿠니야 홀에서 열린 '알파 퓨전 페스티벌'에 출연할 당시 그것을 본 A & M 프로듀서 토미 리푸마가 해외 발매를 즉결하고 이듬해 LA의 [캐피틀 레코드에서](../Page/캐피틀_레코드.md "wikilink") 이 앨범의 리믹스가 이루어졌다. 그 결과, 음질이 전반적으로 원만해진 인상이지만, 호소노는 일본판 믹스가 마음에 든다고 발언하였다.\[7\] 표지는 머리에서 코드가 난 선글라스 게이샤로 변경되어 "전선 게이샤"라는 별명이 있다.\[8\]
 
 ## 수록곡
 
@@ -67,17 +67,17 @@
 <tbody>
 <tr class="odd">
 <td><p>1978</p></td>
-<td><p>일본 (<a href="https://ko.wikipedia.org/wiki/오리콘" title="wikilink">오리콘</a>)[9]</p></td>
+<td><p>일본 (<a href="../Page/오리콘.md" title="wikilink">오리콘</a>)[9]</p></td>
 <td><p>20</p></td>
 </tr>
 <tr class="even">
 <td><p>1980</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/빌보드_200" title="wikilink">빌보드 200</a>[10]</p></td>
+<td><p><a href="../Page/빌보드_200.md" title="wikilink">빌보드 200</a>[10]</p></td>
 <td><p>81</p></td>
 </tr>
 <tr class="odd">
 <td><p>1980</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/빌보드" title="wikilink">빌보드</a> R&amp;B 앨범[11]</p></td>
+<td><p><a href="../Page/빌보드.md" title="wikilink">빌보드</a> R&amp;B 앨범[11]</p></td>
 <td><p>37</p></td>
 </tr>
 </tbody>
@@ -96,7 +96,7 @@
 | 1984 | 재판     | CD  | 일본 | 알파                                                                                | 38XA-20    | 미국 리믹스판 첫 일본 CD 프레싱                                                         |
 | 1992 | 재판     | CD  | 일본 | 알파                                                                                | ALCA-287   | 미국 리믹스판 세 번째 일본 CD 프레싱, 첫 리마스터링                                             |
 | 1992 | 재판     | CD  | 미국 | 레스틀리스 레코드                                                                         | 7 72700-2  | 미국 리믹스판 CD 프레싱, 뒷표지는 캐나다 인쇄                                                 |
-| 1999 | 재판     | CD  | 일본 | [도시바 EMI Ltd](https://ko.wikipedia.org/wiki/EMI_뮤직_재팬 "wikilink")                 | TOCT-24233 | 미국 리믹스판 일본 CD 프레싱, 호소노 하루오미 리마스터링, 2000년에 재발매(TOCT-24246)                   |
+| 1999 | 재판     | CD  | 일본 | [도시바 EMI Ltd](../Page/EMI_뮤직_재팬.md "wikilink")                                    | TOCT-24233 | 미국 리믹스판 일본 CD 프레싱, 호소노 하루오미 리마스터링, 2000년에 재발매(TOCT-24246)                   |
 | 2003 | 재판     | CD  | 일본 | [소니 뮤직 엔터테인먼트 (일본)](https://ko.wikipedia.org/wiki/소니_뮤직_엔터테인먼트_\(일본\) "wikilink") | MHCL-203   | 초판 CD 프레싱, 호소노 하루오미 리마스터링, 99년 도시바반 인터뷰 복각 게재, 종이 재킷(초회반)                   |
 | 2003 | 재판     | CD  | 일본 | 소니 뮤직 엔터테인먼트 (일본)                                                                 | MHCL-204   | 미국 리믹스판 CD 프레싱, 호소노 하루오미 리마스터링, 사카모토 류이치 감수, 99년 도시바반 인터뷰 복각 게재, 종이 재킷(초회반) |
 | 2004 | 재판     | CD  | 영국 | 에픽                                                                                | 513445 2   | 일본판과 미국판의 컴필레이션 음반, 리마스터링 2CD                                               |

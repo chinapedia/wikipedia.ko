@@ -11,7 +11,7 @@
 
 ## 세계 역사상 7대 군함
 
-2016년 4월 6일 [미국 해군연구소](https://ko.wikipedia.org/wiki/미국_해군연구소 "wikilink")([:en:United States Naval Institute](https://ko.wikipedia.org/wiki/:en:United_States_Naval_Institute "wikilink")) 설문조사에서, [제1차 세계대전](https://ko.wikipedia.org/wiki/제1차_세계대전 "wikilink") 당시 [인도양](https://ko.wikipedia.org/wiki/인도양 "wikilink")을 마비시킨 독일 엠덴 순양함이 세계 역사상 7대 군함의 하나로 선정되었다.\[1\]
+2016년 4월 6일 [미국 해군연구소](https://ko.wikipedia.org/wiki/미국_해군연구소 "wikilink")([:en:United States Naval Institute](https://ko.wikipedia.org/wiki/:en:United_States_Naval_Institute "wikilink")) 설문조사에서, [제1차 세계대전](https://ko.wikipedia.org/wiki/제1차_세계대전 "wikilink") 당시 [인도양](../Page/인도양.md "wikilink")을 마비시킨 독일 엠덴 순양함이 세계 역사상 7대 군함의 하나로 선정되었다.\[1\]
 
 ## 제원
 

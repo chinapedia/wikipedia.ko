@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [W \(\)](https://ko.wikipedia.org/wiki/W_\(\)).
 
 
-《**W**》()는 [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [7월 20일부터](https://ko.wikipedia.org/wiki/7월_20일 "wikilink") [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [9월 14일까지](https://ko.wikipedia.org/wiki/9월_14일 "wikilink") [MBC에서](https://ko.wikipedia.org/wiki/MBC_TV "wikilink") 방영된 [수목드라마이다](https://ko.wikipedia.org/wiki/문화방송_수목_미니시리즈 "wikilink").
+《**W**》()는 [2016년](../Page/2016년.md "wikilink") [7월 20일부터](../Page/7월_20일.md "wikilink") [2016년](../Page/2016년.md "wikilink") [9월 14일까지](../Page/9월_14일.md "wikilink") [MBC에서](../Page/MBC_TV.md "wikilink") 방영된 [수목드라마이다](../Page/문화방송_수목_미니시리즈.md "wikilink").
 
 ## 줄거리
 
@@ -11,21 +11,21 @@
 
 ### 주요 인물
 
-  - [이종석](https://ko.wikipedia.org/wiki/이종석_\(배우\) "wikilink") : 강철(30세) 역 - JN 글로벌 공동대표, 방송국 채널 W의 소유주
-  - [한효주](https://ko.wikipedia.org/wiki/한효주 "wikilink") : 오연주(30세) 역 (아역 : [박민하](https://ko.wikipedia.org/wiki/박민하_\(2007년\) "wikilink"), [현승민](https://ko.wikipedia.org/wiki/현승민_\(배우\) "wikilink")) - 명세병원 흉부외과 레지던트 2년차
+  - [이종석](../Page/이종석_\(배우\).md "wikilink") : 강철(30세) 역 - JN 글로벌 공동대표, 방송국 채널 W의 소유주
+  - [한효주](../Page/한효주.md "wikilink") : 오연주(30세) 역 (아역 : [박민하](../Page/박민하_\(2007년\).md "wikilink"), [현승민](https://ko.wikipedia.org/wiki/현승민_\(배우\) "wikilink")) - 명세병원 흉부외과 레지던트 2년차
 
 ### 강철의 세계
 
   - [정유진](https://ko.wikipedia.org/wiki/정유진_\(배우\) "wikilink") : 윤소희(30세) 역 - 강철의 비서, 친구
   - [이태환](../Page/이태환.md "wikilink") : 서도윤(31세) 역 - 강철의 경호원, 격투기 사범
-  - [박원상](https://ko.wikipedia.org/wiki/박원상 "wikilink") : 한철호(55세) 역 - 검사 출신 국회의원, 신민당 차기 대선 유력 후보
-  - [차광수](https://ko.wikipedia.org/wiki/차광수 "wikilink") : 손현석(58세) 역 - 범죄수사 프로그램 전문 연출자, 현재 채널 W의 총책임자
-  - [김의성](https://ko.wikipedia.org/wiki/김의성 "wikilink") : 한상훈(61세) 역 - 강철 일가족 살인사건의 진범.
+  - [박원상](../Page/박원상.md "wikilink") : 한철호(55세) 역 - 검사 출신 국회의원, 신민당 차기 대선 유력 후보
+  - [차광수](../Page/차광수.md "wikilink") : 손현석(58세) 역 - 범죄수사 프로그램 전문 연출자, 현재 채널 W의 총책임자
+  - [김의성](../Page/김의성.md "wikilink") : 한상훈(61세) 역 - 강철 일가족 살인사건의 진범.
 
 ### 오연주의 세계
 
-  - [김의성](https://ko.wikipedia.org/wiki/김의성 "wikilink") : 오성무(62세) 역 - 연주의 아버지, 인기 웹툰 'W' 연재, 유명 만화가
-  - [이시언](https://ko.wikipedia.org/wiki/이시언_\(배우\) "wikilink") : 박수봉(27세) 역 - 성무의 문하생
+  - [김의성](../Page/김의성.md "wikilink") : 오성무(62세) 역 - 연주의 아버지, 인기 웹툰 'W' 연재, 유명 만화가
+  - [이시언](../Page/이시언_\(배우\).md "wikilink") : 박수봉(27세) 역 - 성무의 문하생
   - [남기애](../Page/남기애.md "wikilink") : 길수선(54세) 역 - 연주의 어머니
   - [허정도](../Page/허정도.md "wikilink") : 박민수(42세) 역 - 명세병원 흉부외과 전문의, 교수
   - [강기영](../Page/강기영_\(배우\).md "wikilink") : 강석범(30세) 역 - 명세병원 흉부외과 레지던트 2년차
@@ -35,10 +35,10 @@
 
 ### 그 외 인물
 
-  - [김익태](https://ko.wikipedia.org/wiki/김익태 "wikilink") : 의원 역 - 강철의 세계
+  - [김익태](../Page/김익태.md "wikilink") : 의원 역 - 강철의 세계
   - [노행하](../Page/노행하.md "wikilink") : 김유리 역 - 오연주의 세계, 명세병원 흉부외과 간호사
-  - [리민](https://ko.wikipedia.org/wiki/리민_\(배우\) "wikilink") : 박 팀장 역 - 오연주의 세계
-  - [서광재](https://ko.wikipedia.org/wiki/서광재 "wikilink")
+  - [리민](../Page/리민_\(배우\).md "wikilink") : 박 팀장 역 - 오연주의 세계
+  - [서광재](../Page/서광재.md "wikilink")
   - [양승걸](../Page/양승걸.md "wikilink")
   - [설지윤](../Page/설지윤.md "wikilink")
   - [박건률](https://ko.wikipedia.org/wiki/박건률 "wikilink")
@@ -47,9 +47,9 @@
   - [강찬양](https://ko.wikipedia.org/wiki/강찬양 "wikilink")
   - [박성택](../Page/박성택.md "wikilink") : 박형사 역 - 강철의 세계
   - [동윤석](https://ko.wikipedia.org/wiki/동윤석 "wikilink")
-  - [황윤걸](https://ko.wikipedia.org/wiki/황윤걸 "wikilink")
+  - [황윤걸](../Page/황윤걸.md "wikilink")
   - [김광현](../Page/김광현_\(1971년\).md "wikilink")
-  - [민준호](https://ko.wikipedia.org/wiki/민준호 "wikilink")
+  - [민준호](../Page/민준호.md "wikilink")
   - [유필란](https://ko.wikipedia.org/wiki/유필란 "wikilink")
   - [박선웅](../Page/박선웅.md "wikilink")
   - [장문석](../Page/장문석_\(배우\).md "wikilink")
@@ -63,74 +63,74 @@
   - [신태건](https://ko.wikipedia.org/wiki/신태건_\(배우\) "wikilink")
   - [정현석](../Page/정현석_\(배우\).md "wikilink")
   - [진현광](../Page/진현광.md "wikilink") : 경찰 역
-  - [서진욱](https://ko.wikipedia.org/wiki/서진욱 "wikilink")
+  - [서진욱](../Page/서진욱.md "wikilink")
   - [이현기](https://ko.wikipedia.org/wiki/이현기_\(배우\) "wikilink")
   - [황주호](https://ko.wikipedia.org/wiki/황주호 "wikilink")
   - [조수혁](https://ko.wikipedia.org/wiki/조수혁_\(배우\) "wikilink")
   - [남진복](https://ko.wikipedia.org/wiki/남진복 "wikilink")
-  - [미석](https://ko.wikipedia.org/wiki/미석_\(배우\) "wikilink")
-  - [이채경](https://ko.wikipedia.org/wiki/이채경 "wikilink") : 정간호사 역
+  - [미석](../Page/미석_\(배우\).md "wikilink")
+  - [이채경](../Page/이채경.md "wikilink") : 정간호사 역
 
 ### 특별 출연
 
-  - [박충선](https://ko.wikipedia.org/wiki/박충선 "wikilink") : 강윤 역 - 강철의 아버지 (1회)
-  - [김나운](https://ko.wikipedia.org/wiki/김나운 "wikilink") : 윤미호 역 - 강철의 어머니 (1회)
-  - [서신애](https://ko.wikipedia.org/wiki/서신애 "wikilink") : 강수연 역 - 강철의 여동생 (1회)
+  - [박충선](../Page/박충선.md "wikilink") : 강윤 역 - 강철의 아버지 (1회)
+  - [김나운](../Page/김나운.md "wikilink") : 윤미호 역 - 강철의 어머니 (1회)
+  - [서신애](../Page/서신애.md "wikilink") : 강수연 역 - 강철의 여동생 (1회)
   - [최민영](../Page/최민영.md "wikilink") : 강준석 역 - 강철의 남동생 (1회)
   - [황석정](../Page/황석정.md "wikilink") : 웹툰 작가 역 (6회)
   - [안세하](../Page/안세하.md "wikilink") : 김풍호 역 - 오연주의 소개팅남 (6회)
-  - [김정근](https://ko.wikipedia.org/wiki/김정근_\(아나운서\) "wikilink") : 앵커 역 (1회, 4회)
-  - [허일후](https://ko.wikipedia.org/wiki/허일후 "wikilink")
+  - [김정근](../Page/김정근_\(아나운서\).md "wikilink") : 앵커 역 (1회, 4회)
+  - [허일후](../Page/허일후.md "wikilink")
 
 ## 수상
 
-  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") 제5회 [에이판 스타 어워즈](https://ko.wikipedia.org/wiki/에이판_스타_어워즈 "wikilink")
-      - 중편드라마부문 여자 최우수연기상 : [한효주](https://ko.wikipedia.org/wiki/한효주 "wikilink")
-      - 남자 연기상 : [김의성](https://ko.wikipedia.org/wiki/김의성 "wikilink")
-  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") 대한민국 콘텐츠 대상
-      - 방송영상산업발전부문 문화체육관광부 장관 표창 : [송재정](https://ko.wikipedia.org/wiki/송재정 "wikilink")
-  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [MBC 연기대상](https://ko.wikipedia.org/wiki/MBC_연기대상 "wikilink")
-      - 대상 : [이종석](https://ko.wikipedia.org/wiki/이종석_\(배우\) "wikilink")
-      - 미니시리즈부문 남자 최우수 연기상 : [이종석](https://ko.wikipedia.org/wiki/이종석_\(배우\) "wikilink")
-      - 미니시리즈부문 여자 최우수 연기상 : [한효주](https://ko.wikipedia.org/wiki/한효주 "wikilink")
-      - 미니시리즈부문 남자 황금 연기상 : [김의성](https://ko.wikipedia.org/wiki/김의성 "wikilink")
-      - 베스트 커플상 : [이종석](https://ko.wikipedia.org/wiki/이종석_\(배우\) "wikilink") & [한효주](https://ko.wikipedia.org/wiki/한효주 "wikilink")
-      - 올해의 작가상 : [송재정](https://ko.wikipedia.org/wiki/송재정 "wikilink")
+  - [2016년](../Page/2016년.md "wikilink") 제5회 [에이판 스타 어워즈](https://ko.wikipedia.org/wiki/에이판_스타_어워즈 "wikilink")
+      - 중편드라마부문 여자 최우수연기상 : [한효주](../Page/한효주.md "wikilink")
+      - 남자 연기상 : [김의성](../Page/김의성.md "wikilink")
+  - [2016년](../Page/2016년.md "wikilink") 대한민국 콘텐츠 대상
+      - 방송영상산업발전부문 문화체육관광부 장관 표창 : [송재정](../Page/송재정.md "wikilink")
+  - [2016년](../Page/2016년.md "wikilink") [MBC 연기대상](../Page/MBC_연기대상.md "wikilink")
+      - 대상 : [이종석](../Page/이종석_\(배우\).md "wikilink")
+      - 미니시리즈부문 남자 최우수 연기상 : [이종석](../Page/이종석_\(배우\).md "wikilink")
+      - 미니시리즈부문 여자 최우수 연기상 : [한효주](../Page/한효주.md "wikilink")
+      - 미니시리즈부문 남자 황금 연기상 : [김의성](../Page/김의성.md "wikilink")
+      - 베스트 커플상 : [이종석](../Page/이종석_\(배우\).md "wikilink") & [한효주](../Page/한효주.md "wikilink")
+      - 올해의 작가상 : [송재정](../Page/송재정.md "wikilink")
       - 올해의 드라마상
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [방송통신위원회](https://ko.wikipedia.org/wiki/대한민국_방송통신위원회 "wikilink") 방송대상
+  - [2017년](../Page/2017년.md "wikilink") [방송통신위원회](../Page/대한민국_방송통신위원회.md "wikilink") 방송대상
       - 한류부문 우수상\[1\]
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") 제50회 휴스턴 국제 영화제
+  - [2017년](../Page/2017년.md "wikilink") 제50회 휴스턴 국제 영화제
       - 심사위원 특별상\[2\]
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") 제12회 [서울 드라마 어워즈](https://ko.wikipedia.org/wiki/서울_드라마_어워즈 "wikilink")
+  - [2017년](../Page/2017년.md "wikilink") 제12회 [서울 드라마 어워즈](https://ko.wikipedia.org/wiki/서울_드라마_어워즈 "wikilink")
       - 한류 드라마 우수 작품상
 
 ## 시청률
 
-| [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") |
-| ------------------------------------------------------- |
-| 회차                                                      |
-| 대한민국(전국)                                                |
-| 제1회                                                     |
-| 제2회                                                     |
-| 제3회                                                     |
-| 제4회                                                     |
-| 제5회                                                     |
-| 제6회                                                     |
-| 제7회                                                     |
-| 제8회                                                     |
-| 제9회                                                     |
-| 제10회                                                    |
-| 제11회                                                    |
-| 제12회                                                    |
-| 제13회                                                    |
-| 제14회                                                    |
-| 제15회                                                    |
-| 제16회                                                    |
-| 평균 시청률                                                  |
+| [2016년](../Page/2016년.md "wikilink") |
+| ------------------------------------ |
+| 회차                                   |
+| 대한민국(전국)                             |
+| 제1회                                  |
+| 제2회                                  |
+| 제3회                                  |
+| 제4회                                  |
+| 제5회                                  |
+| 제6회                                  |
+| 제7회                                  |
+| 제8회                                  |
+| 제9회                                  |
+| 제10회                                 |
+| 제11회                                 |
+| 제12회                                 |
+| 제13회                                 |
+| 제14회                                 |
+| 제15회                                 |
+| 제16회                                 |
+| 평균 시청률                               |
 
 ## 결방 및 사유
 
-  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [8월 11일](https://ko.wikipedia.org/wiki/8월_11일 "wikilink") : 제31회 [리우데 자네이루 하계 올림픽대회](https://ko.wikipedia.org/wiki/2016년_하계_올림픽 "wikilink") 중계 방송으로 인해 결방
+  - [2016년](../Page/2016년.md "wikilink") [8월 11일](../Page/8월_11일.md "wikilink") : 제31회 [리우데 자네이루 하계 올림픽대회](https://ko.wikipedia.org/wiki/2016년_하계_올림픽 "wikilink") 중계 방송으로 인해 결방
 
 ## OST
 
@@ -160,13 +160,13 @@
 
 ## 참고 사항
 
-  - 방송분에서는 자살([한강](https://ko.wikipedia.org/wiki/한강 "wikilink") 투신 사고) 묘사하는 장면에 문제 논란 없이 사용되었다.
+  - 방송분에서는 자살([한강](../Page/한강.md "wikilink") 투신 사고) 묘사하는 장면에 문제 논란 없이 사용되었다.
 
 ## 동시간대 드라마
 
   - [KBS 수목드라마](https://ko.wikipedia.org/wiki/KBS_수목드라마 "wikilink")
       - 《[함부로 애틋하게](../Page/함부로_애틋하게.md "wikilink")》 : (2016년 7월 6일 \~ 2016년 9월 8일)
-  - [SBS 드라마 스페셜](https://ko.wikipedia.org/wiki/SBS_드라마_스페셜 "wikilink")
+  - [SBS 드라마 스페셜](../Page/SBS_드라마_스페셜.md "wikilink")
       - 《[원티드](https://ko.wikipedia.org/wiki/원티드_\(드라마\) "wikilink")》 : (2016년 6월 22일 \~ 2016년 8월 18일)
       - 《[질투의 화신](../Page/질투의_화신.md "wikilink")》 : (2016년 8월 24일 \~ 2016년 11월 10일)
 

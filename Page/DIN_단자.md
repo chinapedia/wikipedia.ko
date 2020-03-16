@@ -5,7 +5,7 @@
 
   - DIN 41524: 소리 신호에 주로 쓰이는 원형 단자
   - [DIN 41612](https://ko.wikipedia.org/wiki/DIN_41612 "wikilink"): 뒷면이나 메인보드의 플러그인 카드 연결에 쓰이는 직사각형 단자
-  - DIN 41652: 컴퓨터 데이터 및 비디오를 위한 [D-sub](https://ko.wikipedia.org/wiki/D-sub "wikilink") 단자
+  - DIN 41652: 컴퓨터 데이터 및 비디오를 위한 [D-sub](../Page/D-sub.md "wikilink") 단자
 
 ## 원형 단자
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Hop! Step! ](https://ko.wikipedia.org/wiki/Hop!_Step!_).
 
 
-〈**Hop\! Step\! 댄스↑↑**〉(, )는 [Dream5](https://ko.wikipedia.org/wiki/Dream5 "wikilink")의 10번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink"). [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [5월 15일에](https://ko.wikipedia.org/wiki/5월_15일 "wikilink") [에이벡스 트랙스에서](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") 발매됐다.
+〈**Hop\! Step\! 댄스↑↑**〉(, )는 [Dream5](https://ko.wikipedia.org/wiki/Dream5 "wikilink")의 10번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). [2013년](../Page/2013년.md "wikilink") [5월 15일에](../Page/5월_15일.md "wikilink") [에이벡스 트랙스에서](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") 발매됐다.
 
 ## 개요
 

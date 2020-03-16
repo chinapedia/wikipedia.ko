@@ -1,32 +1,32 @@
 > This article is converted from Wikipedia: [ W](https://ko.wikipedia.org/wiki/_W).
 
 
-《**터닝메카드 W**》는 장난감 [터닝메카드](../Page/터닝메카드.md "wikilink")를 소재로 하여, 초이락컨텐츠팩토리와 희원엔터테인먼트에서 제작하고 [KBS 2TV에서](https://ko.wikipedia.org/wiki/KBS_2TV "wikilink") 방송하는 [메카](https://ko.wikipedia.org/wiki/메카_\(장르\) "wikilink") [어드벤처](https://ko.wikipedia.org/wiki/모험 "wikilink") [애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink")으로 첫 시리즈인 《[터닝메카드](https://ko.wikipedia.org/wiki/터닝메카드_\(TV_프로그램\) "wikilink")》의 속편. W는 Wing의 약칭으로, 비행기 형태의 신종 메카니멀이 등장할 예정.
+《**터닝메카드 W**》는 장난감 [터닝메카드](../Page/터닝메카드.md "wikilink")를 소재로 하여, 초이락컨텐츠팩토리와 희원엔터테인먼트에서 제작하고 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") 방송하는 [메카](https://ko.wikipedia.org/wiki/메카_\(장르\) "wikilink") [어드벤처](https://ko.wikipedia.org/wiki/모험 "wikilink") [애니메이션](../Page/애니메이션.md "wikilink")으로 첫 시리즈인 《[터닝메카드](https://ko.wikipedia.org/wiki/터닝메카드_\(TV_프로그램\) "wikilink")》의 속편. W는 Wing의 약칭으로, 비행기 형태의 신종 메카니멀이 등장할 예정.
 
 ## 방송 시간
 
-| 방송 채널                                                                                                                                                                                                                                  | 방송 기간                                                                                                                                                                                                                                  | 방송 시간                                                                           |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| [KBS 2TV](https://ko.wikipedia.org/wiki/KBS_2TV "wikilink")                                                                                                                                                                            | [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [5월 19일](https://ko.wikipedia.org/wiki/5월_19일 "wikilink") \~ [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [8월 25일](https://ko.wikipedia.org/wiki/8월_25일 "wikilink") | 매주 [목요일](https://ko.wikipedia.org/wiki/목요일 "wikilink") 오후 5:30 \~ 저녁 6:00 (30분) |
-| [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [9월 1일](https://ko.wikipedia.org/wiki/9월_1일 "wikilink") \~ [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [11월 17일](https://ko.wikipedia.org/wiki/11월_17일 "wikilink") | 매주 [목요일](https://ko.wikipedia.org/wiki/목요일 "wikilink") 오후 5:00 \~ 5:30 (30분)                                                                                                                                                           |                                                                                 |
+| 방송 채널                                                                                                                                                      | 방송 기간                                                                                                                                                      | 방송 시간                                                        |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| [KBS 2TV](../Page/KBS_2TV.md "wikilink")                                                                                                                   | [2016년](../Page/2016년.md "wikilink") [5월 19일](../Page/5월_19일.md "wikilink") \~ [2016년](../Page/2016년.md "wikilink") [8월 25일](../Page/8월_25일.md "wikilink") | 매주 [목요일](../Page/목요일.md "wikilink") 오후 5:30 \~ 저녁 6:00 (30분) |
+| [2016년](../Page/2016년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink") \~ [2016년](../Page/2016년.md "wikilink") [11월 17일](../Page/11월_17일.md "wikilink") | 매주 [목요일](../Page/목요일.md "wikilink") 오후 5:00 \~ 5:30 (30분)                                                                                                  |                                                              |
 
 시즌 1
 
-| 방송 채널                                                 | 방송 기간                                                                                                                                                                                                                                    | 방송 시간                                                                           |
-| ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| [투니버스](https://ko.wikipedia.org/wiki/투니버스 "wikilink") | [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [12월 25일](https://ko.wikipedia.org/wiki/12월_25일 "wikilink") \~ [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [2월 19일](https://ko.wikipedia.org/wiki/2월_19일 "wikilink") | 매주 [일요일](https://ko.wikipedia.org/wiki/일요일 "wikilink") 오후 5:00 \~ 저녁 5:30 (30분) |
+| 방송 채널                              | 방송 기간                                                                                                                                                        | 방송 시간                                                        |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------ |
+| [투니버스](../Page/투니버스.md "wikilink") | [2016년](../Page/2016년.md "wikilink") [12월 25일](../Page/12월_25일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [2월 19일](../Page/2월_19일.md "wikilink") | 매주 [일요일](../Page/일요일.md "wikilink") 오후 5:00 \~ 저녁 5:30 (30분) |
 
 메카니멀 Go
 
-| 방송 채널                                                       | 방송 기간                                                                                                                                                                                                                              | 방송 시간                                                                           |
-| ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| [KBS 2TV](https://ko.wikipedia.org/wiki/KBS_2TV "wikilink") | [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [3월 2일](https://ko.wikipedia.org/wiki/3월_2일 "wikilink") \~ [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [9월 7일](https://ko.wikipedia.org/wiki/9월_7일 "wikilink") | 매주 [목요일](https://ko.wikipedia.org/wiki/목요일 "wikilink") 오후 5:00 \~ 저녁 5:30 (30분) |
+| 방송 채널                                    | 방송 기간                                                                                                                                                  | 방송 시간                                                        |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------ |
+| [KBS 2TV](../Page/KBS_2TV.md "wikilink") | [2017년](../Page/2017년.md "wikilink") [3월 2일](../Page/3월_2일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [9월 7일](../Page/9월_7일.md "wikilink") | 매주 [목요일](../Page/목요일.md "wikilink") 오후 5:00 \~ 저녁 5:30 (30분) |
 
 시즌 2
 
-| 방송 채널                                                 | 방송 기간                                                                                                                                                                                                                                      | 방송 시간                                                                           |
-| ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------- |
-| [투니버스](https://ko.wikipedia.org/wiki/투니버스 "wikilink") | [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [10월 15일](https://ko.wikipedia.org/wiki/10월_15일 "wikilink") \~ [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [11월 19일](https://ko.wikipedia.org/wiki/11월_19일 "wikilink") | 매주 [일요일](https://ko.wikipedia.org/wiki/일요일 "wikilink") 오전 8:00 \~ 오전 8:30 (30분) |
+| 방송 채널                              | 방송 기간                                                                                                                                                          | 방송 시간                                                        |
+| ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| [투니버스](../Page/투니버스.md "wikilink") | [2017년](../Page/2017년.md "wikilink") [10월 15일](../Page/10월_15일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [11월 19일](../Page/11월_19일.md "wikilink") | 매주 [일요일](../Page/일요일.md "wikilink") 오전 8:00 \~ 오전 8:30 (30분) |
 
 반다인의 비밀
 
@@ -671,40 +671,40 @@
 
 ## 종합녹음제작
 
-  - [소연](https://ko.wikipedia.org/wiki/소연_\(성우\) "wikilink"): 나찬
-  - [이현진](https://ko.wikipedia.org/wiki/이현진_\(성우\) "wikilink"): 반다인/김지훈, 블루랜드의 여왕, 손나영, 김산
-  - [윤미나](https://ko.wikipedia.org/wiki/윤미나 "wikilink"): 이소벨, 나찬의 어머니, 윙톡
-  - [김율](https://ko.wikipedia.org/wiki/김율 "wikilink"): 리안, 도깨비단의 엄마, 만타리, 마리
-  - [이지현](https://ko.wikipedia.org/wiki/이지현_\(성우\) "wikilink"): 다비, 공주희, 미리내, 손나영의 엄마
-  - [이재현](https://ko.wikipedia.org/wiki/이재현_\(성우\) "wikilink"): 다나, 천재형, 야롱이, 타돌, 가고토스G
+  - [소연](../Page/소연_\(성우\).md "wikilink"): 나찬
+  - [이현진](../Page/이현진_\(성우\).md "wikilink"): 반다인/김지훈, 블루랜드의 여왕, 손나영, 김산
+  - [윤미나](../Page/윤미나.md "wikilink"): 이소벨, 나찬의 어머니, 윙톡
+  - [김율](../Page/김율.md "wikilink"): 리안, 도깨비단의 엄마, 만타리, 마리
+  - [이지현](../Page/이지현_\(성우\).md "wikilink"): 다비, 공주희, 미리내, 손나영의 엄마
+  - [이재현](../Page/이재현_\(성우\).md "wikilink"): 다나, 천재형, 야롱이, 타돌, 가고토스G
   - [윤아영](../Page/윤아영.md "wikilink"): 류
   - [양정화](../Page/양정화_\(성우\).md "wikilink"): 데미안, 피코
   - [강시현](../Page/강시현.md "wikilink"): 카밀라, 카이온
-  - [김채하](https://ko.wikipedia.org/wiki/김채하 "wikilink"): 나로
-  - [조현정](https://ko.wikipedia.org/wiki/조현정_\(성우\) "wikilink"): 로키, 주작
-  - [정혜원](https://ko.wikipedia.org/wiki/정혜원 "wikilink"): 데이지
-  - [김영은](https://ko.wikipedia.org/wiki/김영은_\(성우\) "wikilink"): 서준, 마루
-  - [홍범기](https://ko.wikipedia.org/wiki/홍범기 "wikilink"): 기운찬, 테로, 모스톤, 손나영의 아빠, 카울, 도라, 치르매미, 백호
-  - [최한](https://ko.wikipedia.org/wiki/최한 "wikilink"): 미스터 K, 센뿔, 프린스콩, 아머, 에반킹, 윙레오
-  - [현경수](https://ko.wikipedia.org/wiki/현경수 "wikilink"): 도깨비단 아빠, 게리온
-  - [정재헌](https://ko.wikipedia.org/wiki/정재헌_\(성우\) "wikilink"): 프랭클린 박사, 슈마, 나백작, 엑스, 볼카, 윙나이트
-  - [이상범](https://ko.wikipedia.org/wiki/이상범_\(성우\) "wikilink"): 레드홀의 국왕, 안드로매지션, 스핑크스, 데스퍼, 마스터
-  - [박성태](https://ko.wikipedia.org/wiki/박성태 "wikilink"): 레온, 베노사, 크랑, 투스코, 푸킨, 윙피닉스
-  - [이호산](https://ko.wikipedia.org/wiki/이호산 "wikilink"): 그리폰, 강집사, 다이크
-  - [엄상현](https://ko.wikipedia.org/wiki/엄상현 "wikilink"): 피닉스, 캉시, 타이탄, 프로페서C, 하이드론, 트렘B, 뎅뎅
-  - [신용우](https://ko.wikipedia.org/wiki/신용우_\(성우\) "wikilink"): 에반, 킹죠스, 메가에반, 닥터 X, 피트, 아라게, 청룡
-  - [권혁수](https://ko.wikipedia.org/wiki/권혁수_\(성우\) "wikilink"): 메가드래곤
-  - [강호철](https://ko.wikipedia.org/wiki/강호철 "wikilink"): 디스크캐논, 버키, 스콘, 하이테로
-  - [위훈](https://ko.wikipedia.org/wiki/위훈 "wikilink"): 코카트
-  - [전태열](https://ko.wikipedia.org/wiki/전태열 "wikilink"): 무간, 크로키, 트렘A
-  - [남도형](https://ko.wikipedia.org/wiki/남도형 "wikilink"): 타나토스, 알타, 옥타, 쿠루기, 윙라이온, 제트
-  - [이주창](https://ko.wikipedia.org/wiki/이주창 "wikilink"): 네오
-  - [김영찬](https://ko.wikipedia.org/wiki/김영찬_\(성우\) "wikilink"): 파이온
-  - [장광](https://ko.wikipedia.org/wiki/장광 "wikilink"): 메가
-  - [전숙경](https://ko.wikipedia.org/wiki/전숙경 "wikilink"): 요타, 크라켄
-  - [최낙윤](https://ko.wikipedia.org/wiki/최낙윤 "wikilink"): 가고토스R, 고브, 켄타, 현무
-  - [류승곤](https://ko.wikipedia.org/wiki/류승곤 "wikilink"): 독꼬리
-  - [최정호](https://ko.wikipedia.org/wiki/최정호_\(성우\) "wikilink"): 우르스, 바벨
+  - [김채하](../Page/김채하.md "wikilink"): 나로
+  - [조현정](../Page/조현정_\(성우\).md "wikilink"): 로키, 주작
+  - [정혜원](../Page/정혜원.md "wikilink"): 데이지
+  - [김영은](../Page/김영은_\(성우\).md "wikilink"): 서준, 마루
+  - [홍범기](../Page/홍범기.md "wikilink"): 기운찬, 테로, 모스톤, 손나영의 아빠, 카울, 도라, 치르매미, 백호
+  - [최한](../Page/최한.md "wikilink"): 미스터 K, 센뿔, 프린스콩, 아머, 에반킹, 윙레오
+  - [현경수](../Page/현경수.md "wikilink"): 도깨비단 아빠, 게리온
+  - [정재헌](../Page/정재헌_\(성우\).md "wikilink"): 프랭클린 박사, 슈마, 나백작, 엑스, 볼카, 윙나이트
+  - [이상범](../Page/이상범_\(성우\).md "wikilink"): 레드홀의 국왕, 안드로매지션, 스핑크스, 데스퍼, 마스터
+  - [박성태](../Page/박성태.md "wikilink"): 레온, 베노사, 크랑, 투스코, 푸킨, 윙피닉스
+  - [이호산](../Page/이호산.md "wikilink"): 그리폰, 강집사, 다이크
+  - [엄상현](../Page/엄상현.md "wikilink"): 피닉스, 캉시, 타이탄, 프로페서C, 하이드론, 트렘B, 뎅뎅
+  - [신용우](../Page/신용우_\(성우\).md "wikilink"): 에반, 킹죠스, 메가에반, 닥터 X, 피트, 아라게, 청룡
+  - [권혁수](../Page/권혁수_\(성우\).md "wikilink"): 메가드래곤
+  - [강호철](../Page/강호철.md "wikilink"): 디스크캐논, 버키, 스콘, 하이테로
+  - [위훈](../Page/위훈.md "wikilink"): 코카트
+  - [전태열](../Page/전태열.md "wikilink"): 무간, 크로키, 트렘A
+  - [남도형](../Page/남도형.md "wikilink"): 타나토스, 알타, 옥타, 쿠루기, 윙라이온, 제트
+  - [이주창](../Page/이주창.md "wikilink"): 네오
+  - [김영찬](../Page/김영찬_\(성우\).md "wikilink"): 파이온
+  - [장광](../Page/장광.md "wikilink"): 메가
+  - [전숙경](../Page/전숙경.md "wikilink"): 요타, 크라켄
+  - [최낙윤](../Page/최낙윤.md "wikilink"): 가고토스R, 고브, 켄타, 현무
+  - [류승곤](../Page/류승곤.md "wikilink"): 독꼬리
+  - [최정호](../Page/최정호_\(성우\).md "wikilink"): 우르스, 바벨
 
 ## 외부 링크
 

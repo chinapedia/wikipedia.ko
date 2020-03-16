@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DNA ](https://ko.wikipedia.org/wiki/DNA_).
 
 
-**DNA 클로닝**(DNA Cloning)은 [유전 공학의](https://ko.wikipedia.org/wiki/유전_공학 "wikilink") 기법 중 하나이다. 조작한 [DNA](https://ko.wikipedia.org/wiki/DNA "wikilink")를 [세포](https://ko.wikipedia.org/wiki/세포 "wikilink")에 도입하고 복제하는 과정을 거쳐, 무수히 많은 DNA 사본을 얻어내는 기법이다.\[1\]
+**DNA 클로닝**(DNA Cloning)은 [유전 공학의](https://ko.wikipedia.org/wiki/유전_공학 "wikilink") 기법 중 하나이다. 조작한 [DNA](../Page/DNA.md "wikilink")를 [세포](../Page/세포.md "wikilink")에 도입하고 복제하는 과정을 거쳐, 무수히 많은 DNA 사본을 얻어내는 기법이다.\[1\]
 
 ## 개요
 
@@ -17,7 +17,7 @@
 
 ## 같이 보기
 
-  - [DNA 복제](https://ko.wikipedia.org/wiki/DNA_복제 "wikilink")
+  - [DNA 복제](../Page/DNA_복제.md "wikilink")
 
 [분류:DNA 복제](https://ko.wikipedia.org/wiki/분류:DNA_복제 "wikilink")
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ Peace!](https://ko.wikipedia.org/wiki/_Peace!).
 
 
-《**빵으로 Peace\!**》(パンでPeace\!)는 emily가 그린 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [4컷 만화](https://ko.wikipedia.org/wiki/네_컷_만화 "wikilink") 작품이다.
+《**빵으로 Peace\!**》(パンでPeace\!)는 emily가 그린 [일본](../Page/일본.md "wikilink")의 [4컷 만화](../Page/네_컷_만화.md "wikilink") 작품이다.
 
 ## 줄거리
 

@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [IOCCC](https://ko.wikipedia.org/wiki/IOCCC).
 
 
-**IOCCC**(International Obfuscated C Code Contest, 국제 난독화 C 코드 대회)는 가장 창의적으로 [난독화](https://ko.wikipedia.org/wiki/난독화 "wikilink")된 [C](https://ko.wikipedia.org/wiki/C_\(프로그래밍_언어\) "wikilink") [코드를](https://ko.wikipedia.org/wiki/소스_코드 "wikilink") 공모하는 [컴퓨터 프로그래밍](https://ko.wikipedia.org/wiki/컴퓨터_프로그래밍 "wikilink") 대회이다. 1984-1996, 1998, 2000, 2001, 2004-2006년까지는 해마다 개최되었으며, 2011년부터는 "celebrating \[C's\] syntactical opaqueness"로 기술된다.\[1\] 2013년에 개최된 22번째 콘테스트를 위한 코드는 2014년 1월에 공개되었다.\[2\]
+**IOCCC**(International Obfuscated C Code Contest, 국제 난독화 C 코드 대회)는 가장 창의적으로 [난독화](../Page/난독화.md "wikilink")된 [C](../Page/C_\(프로그래밍_언어\).md "wikilink") [코드를](../Page/소스_코드.md "wikilink") 공모하는 [컴퓨터 프로그래밍](../Page/컴퓨터_프로그래밍.md "wikilink") 대회이다. 1984-1996, 1998, 2000, 2001, 2004-2006년까지는 해마다 개최되었으며, 2011년부터는 "celebrating \[C's\] syntactical opaqueness"로 기술된다.\[1\] 2013년에 개최된 22번째 콘테스트를 위한 코드는 2014년 1월에 공개되었다.\[2\]
 
 2004년 이전에는 제출은 전자메일로만 받았다.\[3\] 2004년, 제17회 IOCCC에서는 웹 기반 제출 프로세스를 이용하는 방식으로 전환되었다.\[4\]
 
 ## 예
 
-1988년에 제출된 것으로, 자신의 [넓이](https://ko.wikipedia.org/wiki/넓이 "wikilink")를 살피며 [원주율](https://ko.wikipedia.org/wiki/원주율 "wikilink")을 계산한다.:\[5\]
+1988년에 제출된 것으로, 자신의 [넓이](../Page/넓이.md "wikilink")를 살피며 [원주율](https://ko.wikipedia.org/wiki/원주율 "wikilink")을 계산한다.:\[5\]
 
 ``` c
 #define _ -F<00||--F-OO--;

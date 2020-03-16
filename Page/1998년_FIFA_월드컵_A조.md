@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [1998 FIFA  A](https://ko.wikipedia.org/wiki/1998_FIFA__A).
 
 
-**1998년 FIFA 월드컵 A조**는 [프랑스](https://ko.wikipedia.org/wiki/프랑스 "wikilink")에서 열린 [1998년 FIFA 월드컵의](https://ko.wikipedia.org/wiki/1998년_FIFA_월드컵 "wikilink") 4팀씩 편성된 8개의 조들 중 하나였다. 첫 경기는 1998년 6월 10일에 열렸고, 마지막 경기는 1998년 6월 23일에 동시에 열렸다.
+**1998년 FIFA 월드컵 A조**는 [프랑스](../Page/프랑스.md "wikilink")에서 열린 [1998년 FIFA 월드컵의](https://ko.wikipedia.org/wiki/1998년_FIFA_월드컵 "wikilink") 4팀씩 편성된 8개의 조들 중 하나였다. 첫 경기는 1998년 6월 10일에 열렸고, 마지막 경기는 1998년 6월 23일에 동시에 열렸다.
 
-이 조는 [브라질](https://ko.wikipedia.org/wiki/브라질_축구_국가대표팀 "wikilink"), [노르웨이](https://ko.wikipedia.org/wiki/노르웨이_축구_국가대표팀 "wikilink"), [스코틀랜드](https://ko.wikipedia.org/wiki/스코틀랜드_축구_국가대표팀 "wikilink"), 그리고 [모로코로](https://ko.wikipedia.org/wiki/모로코_축구_국가대표팀 "wikilink") 구성되어 있었다. 경기는 프랑스의 6개의 다른 경기장에서 펼쳐졌다.
+이 조는 [브라질](../Page/브라질_축구_국가대표팀.md "wikilink"), [노르웨이](../Page/노르웨이_축구_국가대표팀.md "wikilink"), [스코틀랜드](../Page/스코틀랜드_축구_국가대표팀.md "wikilink"), 그리고 [모로코로](../Page/모로코_축구_국가대표팀.md "wikilink") 구성되어 있었다. 경기는 프랑스의 6개의 다른 경기장에서 펼쳐졌다.
 
 브라질은 스코틀랜드와 모로코를 꺾는 와중에 노르웨이가 모로코와 스코틀랜드에 비겼고, 브라질은 1경기를 남기고 다음 라운드 진출을 확정지었다. 동시에 벌어진 조별 리그 최종전 두 경기에서, 모로코는 10분을 남겨놓고 스코틀랜드를 압도하고 브라질이 노르웨이를 상대로 우위를 점해 2위를 거의 확정지은 것으로 보였다. 그러나, 노르웨이는 막판에 내리 2골을 집어넣어 역전승을 거두고 모로코를 밀어내며 사상 처음으로 16강에 진출하였다. 1986년 6월 11일 이래 12년만에 처음으로 거둔 모로코의 FIFA 월드컵 두번째 승리는 노르웨이에게 16강 진출권을 내주면서 빛이 바랬다.
 

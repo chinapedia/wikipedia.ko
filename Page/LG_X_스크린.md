@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LG X ](https://ko.wikipedia.org/wiki/LG_X_).
 
 
-**LG X 스크린**(LG X Screen)은 [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")가 [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink") [모바일 월드 그레스](https://ko.wikipedia.org/wiki/모바일_월드_그레스 "wikilink") 2016에서 공개하고, [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [3월 23일](https://ko.wikipedia.org/wiki/3월_23일 "wikilink") 출시한 보급형 스마트폰이다.\[1\]\[2\] [LG X](https://ko.wikipedia.org/wiki/LG_X "wikilink") 시리즈의 모델이며, 세컨드 스크린과 120도 광각 전면 카메라가 특징이다.\[3\]
+**LG X 스크린**(LG X Screen)은 [LG전자](../Page/LG전자.md "wikilink")가 [2016년](../Page/2016년.md "wikilink") [2월](../Page/2월.md "wikilink") [모바일 월드 그레스](https://ko.wikipedia.org/wiki/모바일_월드_그레스 "wikilink") 2016에서 공개하고, [2016년](../Page/2016년.md "wikilink") [3월 23일](../Page/3월_23일.md "wikilink") 출시한 보급형 스마트폰이다.\[1\]\[2\] [LG X](https://ko.wikipedia.org/wiki/LG_X "wikilink") 시리즈의 모델이며, 세컨드 스크린과 120도 광각 전면 카메라가 특징이다.\[3\]
 
 ## 운영체제 / 소프트웨어
 
@@ -11,7 +11,7 @@ LG X 스크린은 [안드로이드 7.0 누가를](https://ko.wikipedia.org/wiki/
 
 ### 안드로이드 9.0 파이
 
-[2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [7월1일](https://ko.wikipedia.org/wiki/7월1일 "wikilink"), [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") 9.0 [파이](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업데이트를 시행했다.
+[2019년](../Page/2019년.md "wikilink") [7월1일](https://ko.wikipedia.org/wiki/7월1일 "wikilink"), [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") 9.0 [파이](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업데이트를 시행했다.
 
 LG UX 7.0이 적용되었다. 마찬가지로 LG Bridge 또는 OTP를 통해 업데이트가 가능하다.
 
@@ -19,7 +19,7 @@ LG UX 7.0이 적용되었다. 마찬가지로 LG Bridge 또는 OTP를 통해 업
 
 ## 재질
 
-겉으로 보기에는 후면 [유리](https://ko.wikipedia.org/wiki/유리 "wikilink")처럼 보일 수 있으나, 실제로는 유리가 아닌 글래스 파이버 (유리 섬유)이다.
+겉으로 보기에는 후면 [유리](../Page/유리.md "wikilink")처럼 보일 수 있으나, 실제로는 유리가 아닌 글래스 파이버 (유리 섬유)이다.
 
 ## 특수 기능
 
@@ -33,7 +33,7 @@ LG UX 7.0이 적용되었다. 마찬가지로 LG Bridge 또는 OTP를 통해 업
 
 ### 전면 광각 카메라
 
-전면에 광각 120도의 카메라를 넣어서 보다 넓은 [화각으로](https://ko.wikipedia.org/wiki/화각_\(사진술\) "wikilink") 사진을 촬영할 수 있다. 다만 전면에 일반 카메라와 광각 카메라를 모두 넣었던 [LG V10과는](../Page/LG_V10.md "wikilink") 다르게 전면에 일반 카메라가 없고 오직 광각 120도 카메라만 탑재되어 있다. 다시말해 전면 카메라 사용 시 일반 모드와 [광각](../Page/광각_렌즈.md "wikilink") 모드를 선택할 수 있었던 [LG V10과는](../Page/LG_V10.md "wikilink") 다르게 모드를 선택할 수 없고 오직 광각 모드로만 쓸 수 있다.
+전면에 광각 120도의 카메라를 넣어서 보다 넓은 [화각으로](../Page/화각_\(사진술\).md "wikilink") 사진을 촬영할 수 있다. 다만 전면에 일반 카메라와 광각 카메라를 모두 넣었던 [LG V10과는](../Page/LG_V10.md "wikilink") 다르게 전면에 일반 카메라가 없고 오직 광각 120도 카메라만 탑재되어 있다. 다시말해 전면 카메라 사용 시 일반 모드와 [광각](../Page/광각_렌즈.md "wikilink") 모드를 선택할 수 있었던 [LG V10과는](../Page/LG_V10.md "wikilink") 다르게 모드를 선택할 수 없고 오직 광각 모드로만 쓸 수 있다.
 
 ## 문제점
 
@@ -48,8 +48,8 @@ LG UX 7.0이 적용되었다. 마찬가지로 LG Bridge 또는 OTP를 통해 업
 ## 색상
 
   - [블랙](https://ko.wikipedia.org/wiki/검정 "wikilink")
-  - [화이트](https://ko.wikipedia.org/wiki/하양 "wikilink")
-  - [핑크골드](https://ko.wikipedia.org/wiki/분홍 "wikilink")
+  - [화이트](../Page/하양.md "wikilink")
+  - [핑크골드](../Page/분홍.md "wikilink")
 
 ## 같이 보기
 
@@ -57,10 +57,10 @@ LG UX 7.0이 적용되었다. 마찬가지로 LG Bridge 또는 OTP를 통해 업
   - [LG V20](../Page/LG_V20.md "wikilink")
   - [LG X](https://ko.wikipedia.org/wiki/LG_X "wikilink")
   - [LG X 캠](../Page/LG_X_캠.md "wikilink")
-  - [LG X 스킨](https://ko.wikipedia.org/wiki/LG_X_스킨 "wikilink")
-  - [LG X 파워](https://ko.wikipedia.org/wiki/LG_X_파워 "wikilink")
-  - [LG X5 (X 맥스)](https://ko.wikipedia.org/wiki/LG_X5 "wikilink")
-  - [LG X 마하](https://ko.wikipedia.org/wiki/LG_X_마하 "wikilink")
+  - [LG X 스킨](../Page/LG_X_스킨.md "wikilink")
+  - [LG X 파워](../Page/LG_X_파워.md "wikilink")
+  - [LG X5 (X 맥스)](../Page/LG_X5.md "wikilink")
+  - [LG X 마하](../Page/LG_X_마하.md "wikilink")
 
 ## 각주
 

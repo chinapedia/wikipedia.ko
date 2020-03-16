@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [This Kiss](https://ko.wikipedia.org/wiki/This_Kiss).
 
 
-"**This Kiss**" 는 [Carly Rae Jepsen의](https://ko.wikipedia.org/wiki/칼리_레이_젭슨 "wikilink") 두번째 정규 앨범 *[Kiss](../Page/Kiss_\(칼리_레이_젭슨의_음반\).md "wikilink")* (2012)에 수록된 곡이다. 이 곡은 Carly Ray Jepsen, Matthew Koma, Kelly Covell 그리고 [LMFAO](https://ko.wikipedia.org/wiki/LMFAO "wikilink")의 멤버인 Redfoo가 작곡하였다. "This Kiss"는 2012년 9월 10일 앨범의 세번째 싱글로 발매되었다.
+"**This Kiss**" 는 [Carly Rae Jepsen의](../Page/칼리_레이_젭슨.md "wikilink") 두번째 정규 앨범 *[Kiss](../Page/Kiss_\(칼리_레이_젭슨의_음반\).md "wikilink")* (2012)에 수록된 곡이다. 이 곡은 Carly Ray Jepsen, Matthew Koma, Kelly Covell 그리고 [LMFAO](../Page/LMFAO.md "wikilink")의 멤버인 Redfoo가 작곡하였다. "This Kiss"는 2012년 9월 10일 앨범의 세번째 싱글로 발매되었다.
 
 ## 평론가들의 평가
 
@@ -39,13 +39,13 @@
 
 ## 발매 기록
 
-| Region   | Date                                                                     | Format                                                               | Label              |
-| -------- | ------------------------------------------------------------------------ | -------------------------------------------------------------------- | ------------------ |
-| 캐나다\[5\] | 2012 9월 10일                                                              | 디지털 다운로드                                                             | 604 Records        |
-| 미국\[6\]  | [Interscope Records](https://ko.wikipedia.org/wiki/인터스코프_레코드 "wikilink") |                                                                      |                    |
-| 일본\[7\]  | 2012년 9월 12일                                                             | School Boy Records/Interscope Records                                |                    |
-| 영국\[8\]  | 2012년 12월 7일                                                             | [Polydor Records](https://ko.wikipedia.org/wiki/폴리도르_레코드 "wikilink") |                    |
-| 미국\[9\]  | 2012년 12월 11일                                                            | 디지털 다운로드 — 리믹스                                                       | Interscope Records |
+| Region   | Date                                                  | Format                                            | Label              |
+| -------- | ----------------------------------------------------- | ------------------------------------------------- | ------------------ |
+| 캐나다\[5\] | 2012 9월 10일                                           | 디지털 다운로드                                          | 604 Records        |
+| 미국\[6\]  | [Interscope Records](../Page/인터스코프_레코드.md "wikilink") |                                                   |                    |
+| 일본\[7\]  | 2012년 9월 12일                                          | School Boy Records/Interscope Records             |                    |
+| 영국\[8\]  | 2012년 12월 7일                                          | [Polydor Records](../Page/폴리도르_레코드.md "wikilink") |                    |
+| 미국\[9\]  | 2012년 12월 11일                                         | 디지털 다운로드 — 리믹스                                    | Interscope Records |
 
 ## 각주
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ SE](https://ko.wikipedia.org/wiki/_SE).
 
 
-**애플 아이폰 SE**(iPhone SE, Apple iPhone Special Edition)는 [페가트론](https://ko.wikipedia.org/wiki/페가트론 "wikilink")과 [폭스콘](https://ko.wikipedia.org/wiki/폭스콘 "wikilink")이 제조하고, [애플이](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 설계, 판매 중인 [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink") [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")으로, 2016년 3월 21일(미국시간 기준) [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [샌프란시스코](https://ko.wikipedia.org/wiki/샌프란시스코 "wikilink") 빌 그라햄 시민 오디토리엄에서 발표되었고, [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [3월 31일](https://ko.wikipedia.org/wiki/3월_31일 "wikilink") 출시되었다.
+**애플 아이폰 SE**(iPhone SE, Apple iPhone Special Edition)는 [페가트론](https://ko.wikipedia.org/wiki/페가트론 "wikilink")과 [폭스콘](../Page/폭스콘.md "wikilink")이 제조하고, [애플이](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 설계, 판매 중인 [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")으로, 2016년 3월 21일(미국시간 기준) [미국](../Page/미국.md "wikilink") [샌프란시스코](../Page/샌프란시스코.md "wikilink") 빌 그라햄 시민 오디토리엄에서 발표되었고, [2016년](../Page/2016년.md "wikilink") [3월 31일](../Page/3월_31일.md "wikilink") 출시되었다.
 
 [아이폰 5s와](../Page/아이폰_5s.md "wikilink") [아이폰 5c](https://ko.wikipedia.org/wiki/아이폰_5c "wikilink") 이후 [애플이](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 3년 만에 다시 출시하는 4인치 아이폰이다. 아이폰 SE는 [아이폰 5s와](../Page/아이폰_5s.md "wikilink") 동일한 디자인을 채택했으며, A9 프로세서, 2GB 램, 후면 카메라는 [아이폰 6S와](https://ko.wikipedia.org/wiki/아이폰_6S "wikilink") 동일하며 그 외 모든 사항은 아이폰 5s와 같다.
 

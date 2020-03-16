@@ -15,11 +15,11 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/이나바_히카루" title="wikilink">이나바 히카루</a> (稲葉光)</p></td>
-<td><p>, <a href="https://ko.wikipedia.org/wiki/이바라키현" title="wikilink">이바라키현</a> 출신, O형</p></td>
+<td><p>, <a href="../Page/이바라키현.md" title="wikilink">이바라키현</a> 출신, O형</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/후쿠시_노부키" title="wikilink">후쿠시 노부키</a> (福士申樹)</p></td>
-<td><p>, <a href="https://ko.wikipedia.org/wiki/도쿄도" title="wikilink">도쿄도</a> 출신, O형</p></td>
+<td><p>, <a href="../Page/도쿄도.md" title="wikilink">도쿄도</a> 출신, O형</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/아키야마_타이가" title="wikilink">아키야마 타이가</a> (秋山大河)</p></td>
@@ -34,8 +34,8 @@
 
 ## 관련 항목
 
-  - [쟈니즈 사무소](https://ko.wikipedia.org/wiki/자니스_사무소 "wikilink")
-  - [쟈니즈 Jr.](https://ko.wikipedia.org/wiki/자니스_주니어 "wikilink")
+  - [쟈니즈 사무소](../Page/자니스_사무소.md "wikilink")
+  - [쟈니즈 Jr.](../Page/자니스_주니어.md "wikilink")
 
 ## 각주
 

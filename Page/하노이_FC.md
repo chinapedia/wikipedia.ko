@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
 
 
-**하노이 FC**()는 [베트남](https://ko.wikipedia.org/wiki/베트남 "wikilink") 수도 [하노이](https://ko.wikipedia.org/wiki/하노이 "wikilink")를 연고로 하는 축구 클럽이다. [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")에 창단되었으며, 현재 베트남 축구 최상위 리그 [V리그 1에](https://ko.wikipedia.org/wiki/V리그_1 "wikilink") 소속되어 있다. 과거에는 **하노이 T\&T FC**라 불렸다.
+**하노이 FC**()는 [베트남](../Page/베트남.md "wikilink") 수도 [하노이](https://ko.wikipedia.org/wiki/하노이 "wikilink")를 연고로 하는 축구 클럽이다. [2006년](../Page/2006년.md "wikilink")에 창단되었으며, 현재 베트남 축구 최상위 리그 [V리그 1에](../Page/V리그_1.md "wikilink") 소속되어 있다. 과거에는 **하노이 T\&T FC**라 불렸다.
 
 ## 현재 선수단
 
@@ -27,13 +27,13 @@
 
 ### 국제 대회 성적
 
-  - **[AFC컵](https://ko.wikipedia.org/wiki/AFC컵 "wikilink"): 2회 출전**
+  - **[AFC컵](../Page/AFC컵.md "wikilink"): 2회 출전**
       - [2011](https://ko.wikipedia.org/wiki/AFC컵_2011 "wikilink"): 조별 리그
       - [2014](https://ko.wikipedia.org/wiki/AFC컵_2014 "wikilink"): 8강
 
 ## 수상 기록
 
-  - **[V리그 1](https://ko.wikipedia.org/wiki/V리그_1 "wikilink")**
+  - **[V리그 1](../Page/V리그_1.md "wikilink")**
       - **우승 5회**: [2010](https://ko.wikipedia.org/wiki/2010_V-리그 "wikilink"), [2013](https://ko.wikipedia.org/wiki/2013_V리그_1 "wikilink"), [2016](https://ko.wikipedia.org/wiki/2016_V리그_1 "wikilink"), 2018, 2019
       - 준우승 4회: [2011](https://ko.wikipedia.org/wiki/2011_V-리그 "wikilink"), [2012](https://ko.wikipedia.org/wiki/2012_V-리그 "wikilink"), [2014](https://ko.wikipedia.org/wiki/2014_V리그_1 "wikilink"), [2015](https://ko.wikipedia.org/wiki/2015_V리그_1 "wikilink")
   - **[베트남 슈퍼컵](https://ko.wikipedia.org/wiki/베트남_슈퍼컵 "wikilink")**

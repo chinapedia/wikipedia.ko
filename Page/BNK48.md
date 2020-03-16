@@ -1,19 +1,19 @@
 > This article is converted from Wikipedia: [BNK48](https://ko.wikipedia.org/wiki/BNK48).
 
 
-**BNK48**(비엔케이포티에이트)는 [태국](https://ko.wikipedia.org/wiki/태국 "wikilink")의 [방콕](https://ko.wikipedia.org/wiki/방콕 "wikilink")을 중심으로 활동하는 [여성](https://ko.wikipedia.org/wiki/여성 "wikilink") [아이돌 그룹이다](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink").
+**BNK48**(비엔케이포티에이트)는 [태국](../Page/태국.md "wikilink")의 [방콕](../Page/방콕.md "wikilink")을 중심으로 활동하는 [여성](../Page/여성.md "wikilink") [아이돌 그룹이다](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink").
 
 ## 개요
 
-[AKB48](https://ko.wikipedia.org/wiki/AKB48 "wikilink")의 자매 그룹의 하나이다. 종합 프로듀스는 AKB48와 함께 [아키모토 야스시가](https://ko.wikipedia.org/wiki/아키모토_야스시 "wikilink") 맡았다.
+[AKB48](../Page/AKB48.md "wikilink")의 자매 그룹의 하나이다. 종합 프로듀스는 AKB48와 함께 [아키모토 야스시가](../Page/아키모토_야스시.md "wikilink") 맡았다.
 
 ## 내력
 
-[2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [3월 26일](https://ko.wikipedia.org/wiki/3월_26일 "wikilink"), [요코하마 스타디움에서](https://ko.wikipedia.org/wiki/요코하마_스타디움 "wikilink") 열린 [다카하시 미나미](https://ko.wikipedia.org/wiki/다카하시_미나미 "wikilink") 졸업 관련 AKB48 단독 콘서트 석상에서 [중화민국](https://ko.wikipedia.org/wiki/중화민국 "wikilink")의 [타이베이 시에](https://ko.wikipedia.org/wiki/타이베이_시 "wikilink") 본사를 둔 [TPE48](https://ko.wikipedia.org/wiki/TPE48 "wikilink"), [필리핀](https://ko.wikipedia.org/wiki/필리핀 "wikilink")의 [마닐라](https://ko.wikipedia.org/wiki/마닐라 "wikilink")에 본사를 둔 [MNL48](../Page/MNL48.md "wikilink")와 함께 공식 활동을 개시하는 일이 발표됐다. 공식 사이트에서는 그룹 칼라에 대해서 특산의 [망고](https://ko.wikipedia.org/wiki/망고 "wikilink")를 기조로 한 그라데이션을 채용했다\[1\]\[2\].
+[2016년](../Page/2016년.md "wikilink") [3월 26일](../Page/3월_26일.md "wikilink"), [요코하마 스타디움에서](../Page/요코하마_스타디움.md "wikilink") 열린 [다카하시 미나미](https://ko.wikipedia.org/wiki/다카하시_미나미 "wikilink") 졸업 관련 AKB48 단독 콘서트 석상에서 [중화민국](../Page/중화민국.md "wikilink")의 [타이베이 시에](https://ko.wikipedia.org/wiki/타이베이_시 "wikilink") 본사를 둔 [TPE48](https://ko.wikipedia.org/wiki/TPE48 "wikilink"), [필리핀](../Page/필리핀.md "wikilink")의 [마닐라](../Page/마닐라.md "wikilink")에 본사를 둔 [MNL48](../Page/MNL48.md "wikilink")와 함께 공식 활동을 개시하는 일이 발표됐다. 공식 사이트에서는 그룹 칼라에 대해서 특산의 [망고](../Page/망고.md "wikilink")를 기조로 한 그라데이션을 채용했다\[1\]\[2\].
 
-[2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [2월 12일](https://ko.wikipedia.org/wiki/2월_12일 "wikilink"), [방콕](https://ko.wikipedia.org/wiki/방콕 "wikilink")에서 행해진 〈JAPAN EXPO THAILAND 2017〉의 석상에서 1기생 29명 피로연.
+[2017년](../Page/2017년.md "wikilink") [2월 12일](../Page/2월_12일.md "wikilink"), [방콕](../Page/방콕.md "wikilink")에서 행해진 〈JAPAN EXPO THAILAND 2017〉의 석상에서 1기생 29명 피로연.
 
-동년 [4월 13일](https://ko.wikipedia.org/wiki/4월_13일 "wikilink"), AKB48의 [이즈타 리나가](../Page/이즈타_리나.md "wikilink") 이적 가입하는 것을 발표하였다\[3\].
+동년 [4월 13일](../Page/4월_13일.md "wikilink"), AKB48의 [이즈타 리나가](../Page/이즈타_리나.md "wikilink") 이적 가입하는 것을 발표하였다\[3\].
 
 ## 멤버
 
@@ -81,17 +81,17 @@
 
 ### 전 멤버
 
-  - [왓사몬 퐁와닛](https://ko.wikipedia.org/wiki/왓사몬_퐁와닛 "wikilink") (킷캣) (วรรษมณฑ์ พงษ์วานิช; คิตแคต) 1기생. [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [9월 23일](https://ko.wikipedia.org/wiki/9월_23일 "wikilink") 졸업.
-  - [아이라다 타왓퐁시](https://ko.wikipedia.org/wiki/아이라다_타왓퐁시 "wikilink") (신신) (ไอรดา ธวัชผ่องศรี; ซินซิน) 1기생. [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [11월 18일](https://ko.wikipedia.org/wiki/11월_18일 "wikilink") 졸업.
-  - [크리스틴 라센](https://ko.wikipedia.org/wiki/크리스틴_라센 "wikilink") (남홈) (คริสติน ลาร์เซ่น; น้ำหอม) 1기생. [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [2월 12일](https://ko.wikipedia.org/wiki/2월_12일 "wikilink") 졸업.
-  - [쩻수파 크르아땡](https://ko.wikipedia.org/wiki/쩻수파_크르아땡 "wikilink") (짼) (เจตสุภา เครือแตง; แจน) 1기생. 팀BIII. [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [2월 28일](https://ko.wikipedia.org/wiki/2월_28일 "wikilink") 졸업.
-  - [나이까 시니안](https://ko.wikipedia.org/wiki/나이까_시니안 "wikilink") (캔) (นายิกา ศรีเนียน; แคน) 1기생. 팀BIII. [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [8월 26일](https://ko.wikipedia.org/wiki/8월_26일 "wikilink") 졸업.
-  - [메사 찌나위짜라나](https://ko.wikipedia.org/wiki/메사_찌나위짜라나 "wikilink") (메사) (เมษา จีนะวิจารณะ; เมษา) 1기생. 연구생. [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [10월 31일](https://ko.wikipedia.org/wiki/10월_31일 "wikilink") 졸업.
-  - [핌니파 땅사꾼](https://ko.wikipedia.org/wiki/핌니파_땅사꾼 "wikilink") (디니) (พิมพ์นิภา ตั้งสกุล; ดีนี่) - 2기생. 연구생. [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [8월 11일](https://ko.wikipedia.org/wiki/8월_11일 "wikilink") 졸업.
-  - [뿐야위 쯩짜른](https://ko.wikipedia.org/wiki/뿐야위_쯩짜른 "wikilink") (옴) (ปุณยวีร์ จึงเจริญ; ออม) - 2기생. 연구생. [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [8월 27일](https://ko.wikipedia.org/wiki/8월_27일 "wikilink") [CGM48](https://ko.wikipedia.org/wiki/CGM48 "wikilink") 캡틴 이적.
-  - [이즈타 리나](../Page/이즈타_리나.md "wikilink") (이즈리나) (รินะ อิซึตะ; อิซึรินะ) - 팀BIII. 유일한 일본인 멤버. [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [8월 27일](https://ko.wikipedia.org/wiki/8월_27일 "wikilink") [CGM48](https://ko.wikipedia.org/wiki/CGM48 "wikilink") 극장 지배인 이적. 전 [AKB48](https://ko.wikipedia.org/wiki/AKB48 "wikilink") 팀A→B.
-  - [나와폰 짠숙](https://ko.wikipedia.org/wiki/나와폰_짠숙 "wikilink") (케이크) (นวพร จันทร์สุข; เค้ก) 2기생. 연구생. [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [9월 27일](https://ko.wikipedia.org/wiki/9월_27일 "wikilink") 졸업.
-  - [마이라 쿠야마](https://ko.wikipedia.org/wiki/마이라_쿠야마 "wikilink") (마이라) (มะอิระ คูยามา; มัยร่า) 2기생. 연구생. [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [12월 7일](https://ko.wikipedia.org/wiki/12월_7일 "wikilink") 졸업.
+  - [왓사몬 퐁와닛](https://ko.wikipedia.org/wiki/왓사몬_퐁와닛 "wikilink") (킷캣) (วรรษมณฑ์ พงษ์วานิช; คิตแคต) 1기생. [2017년](../Page/2017년.md "wikilink") [9월 23일](../Page/9월_23일.md "wikilink") 졸업.
+  - [아이라다 타왓퐁시](https://ko.wikipedia.org/wiki/아이라다_타왓퐁시 "wikilink") (신신) (ไอรดา ธวัชผ่องศรี; ซินซิน) 1기생. [2017년](../Page/2017년.md "wikilink") [11월 18일](../Page/11월_18일.md "wikilink") 졸업.
+  - [크리스틴 라센](https://ko.wikipedia.org/wiki/크리스틴_라센 "wikilink") (남홈) (คริสติน ลาร์เซ่น; น้ำหอม) 1기생. [2018년](../Page/2018년.md "wikilink") [2월 12일](../Page/2월_12일.md "wikilink") 졸업.
+  - [쩻수파 크르아땡](https://ko.wikipedia.org/wiki/쩻수파_크르아땡 "wikilink") (짼) (เจตสุภา เครือแตง; แจน) 1기생. 팀BIII. [2018년](../Page/2018년.md "wikilink") [2월 28일](../Page/2월_28일.md "wikilink") 졸업.
+  - [나이까 시니안](https://ko.wikipedia.org/wiki/나이까_시니안 "wikilink") (캔) (นายิกา ศรีเนียน; แคน) 1기생. 팀BIII. [2018년](../Page/2018년.md "wikilink") [8월 26일](../Page/8월_26일.md "wikilink") 졸업.
+  - [메사 찌나위짜라나](https://ko.wikipedia.org/wiki/메사_찌나위짜라나 "wikilink") (메사) (เมษา จีนะวิจารณะ; เมษา) 1기생. 연구생. [2018년](../Page/2018년.md "wikilink") [10월 31일](../Page/10월_31일.md "wikilink") 졸업.
+  - [핌니파 땅사꾼](https://ko.wikipedia.org/wiki/핌니파_땅사꾼 "wikilink") (디니) (พิมพ์นิภา ตั้งสกุล; ดีนี่) - 2기생. 연구생. [2019년](../Page/2019년.md "wikilink") [8월 11일](../Page/8월_11일.md "wikilink") 졸업.
+  - [뿐야위 쯩짜른](https://ko.wikipedia.org/wiki/뿐야위_쯩짜른 "wikilink") (옴) (ปุณยวีร์ จึงเจริญ; ออม) - 2기생. 연구생. [2019년](../Page/2019년.md "wikilink") [8월 27일](../Page/8월_27일.md "wikilink") [CGM48](https://ko.wikipedia.org/wiki/CGM48 "wikilink") 캡틴 이적.
+  - [이즈타 리나](../Page/이즈타_리나.md "wikilink") (이즈리나) (รินะ อิซึตะ; อิซึรินะ) - 팀BIII. 유일한 일본인 멤버. [2019년](../Page/2019년.md "wikilink") [8월 27일](../Page/8월_27일.md "wikilink") [CGM48](https://ko.wikipedia.org/wiki/CGM48 "wikilink") 극장 지배인 이적. 전 [AKB48](../Page/AKB48.md "wikilink") 팀A→B.
+  - [나와폰 짠숙](https://ko.wikipedia.org/wiki/나와폰_짠숙 "wikilink") (케이크) (นวพร จันทร์สุข; เค้ก) 2기생. 연구생. [2019년](../Page/2019년.md "wikilink") [9월 27일](../Page/9월_27일.md "wikilink") 졸업.
+  - [마이라 쿠야마](https://ko.wikipedia.org/wiki/마이라_쿠야마 "wikilink") (마이라) (มะอิระ คูยามา; มัยร่า) 2기생. 연구생. [2019년](../Page/2019년.md "wikilink") [12월 7일](../Page/12월_7일.md "wikilink") 졸업.
 
 ## 디스코그래피
 
@@ -322,12 +322,12 @@ Digital Download</p></td>
 
 <!-- end list -->
 
-  - [AKB48](https://ko.wikipedia.org/wiki/AKB48 "wikilink")
-  - [SKE48](https://ko.wikipedia.org/wiki/SKE48 "wikilink")
-  - [NMB48](https://ko.wikipedia.org/wiki/NMB48 "wikilink")
-  - [HKT48](https://ko.wikipedia.org/wiki/HKT48 "wikilink")
+  - [AKB48](../Page/AKB48.md "wikilink")
+  - [SKE48](../Page/SKE48.md "wikilink")
+  - [NMB48](../Page/NMB48.md "wikilink")
+  - [HKT48](../Page/HKT48.md "wikilink")
   - [NGT48](https://ko.wikipedia.org/wiki/NGT48 "wikilink")
-  - [STU48](https://ko.wikipedia.org/wiki/STU48 "wikilink")
+  - [STU48](../Page/STU48.md "wikilink")
 
 <!-- end list -->
 
@@ -335,14 +335,14 @@ Digital Download</p></td>
 
 <!-- end list -->
 
-  - [JKT48](https://ko.wikipedia.org/wiki/JKT48 "wikilink")
+  - [JKT48](../Page/JKT48.md "wikilink")
   - [MNL48](../Page/MNL48.md "wikilink")
-  - [AKB48 Team SH](https://ko.wikipedia.org/wiki/AKB48_Team_SH "wikilink")
-  - [AKB48 Team TP](https://ko.wikipedia.org/wiki/AKB48_Team_TP "wikilink")
-  - [SGO48](https://ko.wikipedia.org/wiki/SGO48 "wikilink")
+  - [AKB48 Team SH](../Page/AKB48_Team_SH.md "wikilink")
+  - [AKB48 Team TP](../Page/AKB48_Team_TP.md "wikilink")
+  - [SGO48](../Page/SGO48.md "wikilink")
   - [CGM48](https://ko.wikipedia.org/wiki/CGM48 "wikilink")
   - [DEL48](https://ko.wikipedia.org/wiki/DEL48 "wikilink")
-  - [MUB48](https://ko.wikipedia.org/wiki/MUB48 "wikilink")
+  - [MUB48](../Page/MUB48.md "wikilink")
 
 ## 각주
 

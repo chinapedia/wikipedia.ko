@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
 
 
-《**열린TV 열린세상**》은 매주 [금요일](https://ko.wikipedia.org/wiki/금요일 "wikilink") 오전 6시 \~ 7시에 방송되는 [MBN](https://ko.wikipedia.org/wiki/MBN "wikilink")의 옴부즈맨 프로그램이다.
+《**열린TV 열린세상**》은 매주 [금요일](../Page/금요일.md "wikilink") 오전 6시 \~ 7시에 방송되는 [MBN](https://ko.wikipedia.org/wiki/MBN "wikilink")의 옴부즈맨 프로그램이다.
 
 ## 기획 의도
 
@@ -9,15 +9,15 @@
 
 ## 방송 시간
 
-  - 매주 [금요일](https://ko.wikipedia.org/wiki/금요일 "wikilink") 오전 6시 \~ 7시
+  - 매주 [금요일](../Page/금요일.md "wikilink") 오전 6시 \~ 7시
 
 ## 방영 목록
 
 ## 함께 보기
 
-  - [탐나는 TV](https://ko.wikipedia.org/wiki/탐나는_TV "wikilink") (MBC)
-  - [열린 TV 시청자 세상](https://ko.wikipedia.org/wiki/열린_TV_시청자_세상 "wikilink") (SBS)
-  - [TV비평 시청자데스크](https://ko.wikipedia.org/wiki/TV비평_시청자데스크 "wikilink") (KBS)
+  - [탐나는 TV](../Page/탐나는_TV.md "wikilink") (MBC)
+  - [열린 TV 시청자 세상](../Page/열린_TV_시청자_세상.md "wikilink") (SBS)
+  - [TV비평 시청자데스크](../Page/TV비평_시청자데스크.md "wikilink") (KBS)
   - [채널A 시청자 마당](../Page/채널A_시청자_마당.md "wikilink") (채널A)
   - [열린비평 TV를 말하다](../Page/열린비평_TV를_말하다.md "wikilink") (TV조선)
   - [시청자 의회](../Page/시청자_의회.md "wikilink") (JTBC)
@@ -25,8 +25,8 @@
   - [미디어 공감 좋은TV](https://ko.wikipedia.org/wiki/미디어_공감_좋은TV "wikilink") (OBS경인TV)
   - [바로보는TV 옴부즈맨](https://ko.wikipedia.org/wiki/바로보는TV_옴부즈맨 "wikilink") (연합뉴스TV)
   - [클릭 KNN 시청자 세상](https://ko.wikipedia.org/wiki/클릭_KNN_시청자_세상 "wikilink") (KNN)
-  - [열린TBC](https://ko.wikipedia.org/wiki/열린TBC "wikilink") (TBC 대구방송)
-  - [kbc 열린 TV 시청자세상](https://ko.wikipedia.org/wiki/열린_TV_시청자세상_\(텔레비전_프로그램\) "wikilink") (kbc 광주방송)
+  - [열린TBC](../Page/열린TBC.md "wikilink") (TBC 대구방송)
+  - [kbc 열린 TV 시청자세상](../Page/열린_TV_시청자세상_\(텔레비전_프로그램\).md "wikilink") (kbc 광주방송)
 
 ## 외부 링크
 

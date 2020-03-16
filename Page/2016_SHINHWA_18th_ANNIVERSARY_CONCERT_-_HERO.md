@@ -24,7 +24,7 @@
 <td><p>2016년 3월 26일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/서울" title="wikilink">서울</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/올림픽체조경기장" title="wikilink">올림픽체조경기장</a>[2]</p></td>
+<td><p><a href="../Page/올림픽체조경기장.md" title="wikilink">올림픽체조경기장</a>[2]</p></td>
 <td><p>통산 22,000명</p></td>
 </tr>
 <tr class="even">
@@ -64,7 +64,7 @@
 <td style="text-align: left;"><p>LP</p></td>
 <td style="text-align: left;"><p>2016 SHINHWA 18th ANNIVERSARY CONCERT 《HERO》 LIVE LP</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2016년" title="wikilink">2016년</a> <a href="https://ko.wikipedia.org/wiki/12월_13일" title="wikilink">12월 13일</a></li>
+<li>발매일 : <a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/12월_13일.md" title="wikilink">12월 13일</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -88,7 +88,7 @@
 <td style="text-align: left;"><p>DVD</p></td>
 <td style="text-align: left;"><p>2016 SHINHWA 18th ANNIVERSARY CONCERT 《HERO》 DVD</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2016년" title="wikilink">2016년</a> <a href="https://ko.wikipedia.org/wiki/12월_19일" title="wikilink">12월 19일</a></li>
+<li>발매일 : <a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/12월_19일.md" title="wikilink">12월 19일</a></li>
 </ul></td>
 </tr>
 </tbody>

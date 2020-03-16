@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WARRIOR \(B.A.P \)](https://ko.wikipedia.org/wiki/WARRIOR_\(B.A.P_\)).
 
 
-***WARRIOR***는 대한민국의 남성 그룹 [B.A.P](https://ko.wikipedia.org/wiki/B.A.P "wikilink")의 첫 번째 한국 싱글 음반이다.\[1\] 2012년 1월 26일 디지털 싱글로 발매되었고, 이후 2월 2일 로엔 엔터테인먼트를 통해 CD로 발매되었다.
+***WARRIOR***는 대한민국의 남성 그룹 [B.A.P](../Page/B.A.P.md "wikilink")의 첫 번째 한국 싱글 음반이다.\[1\] 2012년 1월 26일 디지털 싱글로 발매되었고, 이후 2월 2일 로엔 엔터테인먼트를 통해 CD로 발매되었다.
 
 ## 수록곡
 
@@ -47,7 +47,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/대한민국" title="wikilink">대한민국</a></p></td>
+<td><p><a href="../Page/대한민국.md" title="wikilink">대한민국</a></p></td>
 <td><p>2012년 1월 26일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/로엔_엔터테인먼트" title="wikilink">로엔 엔터테인먼트</a></p></td>
@@ -59,7 +59,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/대한민국" title="wikilink">대한민국</a></p></td>
+<td><p><a href="../Page/대한민국.md" title="wikilink">대한민국</a></p></td>
 <td><p>2012년 2월 2일</p></td>
 <td><div style="text-align: center;">
 <p><a href="https://ko.wikipedia.org/wiki/CD" title="wikilink">CD</a></p></td>

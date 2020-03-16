@@ -26,7 +26,7 @@
 
 ## 뮤직비디오
 
-  - [Vroom Vroom](https://www.youtube.com/watch?v=qfAqtFuGjWM) - [유튜브](https://ko.wikipedia.org/wiki/유튜브 "wikilink")
+  - [Vroom Vroom](https://www.youtube.com/watch?v=qfAqtFuGjWM) - [유튜브](../Page/유튜브.md "wikilink")
 
 [분류:2016년 EP](https://ko.wikipedia.org/wiki/분류:2016년_EP "wikilink") [분류:찰리 XCX의 음반](https://ko.wikipedia.org/wiki/분류:찰리_XCX의_음반 "wikilink")
 

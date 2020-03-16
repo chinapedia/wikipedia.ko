@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ Jr.](https://ko.wikipedia.org/wiki/_Jr.).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Donkey_Kong_Jr._Game&watch.jpg "wikilink") 《**동키콩 Jr.**》(Donkey Kong Jr., ドンキーコングJR.)는 [1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink") [닌텐도](https://ko.wikipedia.org/wiki/닌텐도 "wikilink")에서 만들어진 [아케이드](https://ko.wikipedia.org/wiki/아케이드 "wikilink") 게임이다. 아케이드에 처음 등장했으며 이후 1980년대 동안 특히 [닌텐도 엔터테인먼트 시스템을](https://ko.wikipedia.org/wiki/닌텐도_엔터테인먼트_시스템 "wikilink") 포함하여 여러 플랫폼용으로 출시되었다. [점프맨에게](https://ko.wikipedia.org/wiki/마리오 "wikilink") 붙잡힌 [동키콩](https://ko.wikipedia.org/wiki/동키콩 "wikilink")을 '동키콩 주니어'가 구하는 내용이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Donkey_Kong_Jr._Game&watch.jpg "wikilink") 《**동키콩 Jr.**》(Donkey Kong Jr., ドンキーコングJR.)는 [1982년](../Page/1982년.md "wikilink") [닌텐도](../Page/닌텐도.md "wikilink")에서 만들어진 [아케이드](https://ko.wikipedia.org/wiki/아케이드 "wikilink") 게임이다. 아케이드에 처음 등장했으며 이후 1980년대 동안 특히 [닌텐도 엔터테인먼트 시스템을](../Page/닌텐도_엔터테인먼트_시스템.md "wikilink") 포함하여 여러 플랫폼용으로 출시되었다. [점프맨에게](../Page/마리오.md "wikilink") 붙잡힌 [동키콩](../Page/동키콩.md "wikilink")을 '동키콩 주니어'가 구하는 내용이다.
 
 ## 각주
 

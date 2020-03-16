@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  JOKER](https://ko.wikipedia.org/wiki/__JOKER).
 
 
-「**월간 강강 JOKER**」(월간 강강 조커)는 [스퀘어 에닉스가](https://ko.wikipedia.org/wiki/스퀘어_에닉스 "wikilink") 발행하는 일본의 월간 만화 잡지이다. 2009년 4월 22일에 창간 하였으며, 간행주기는 매월 22일에 발매된다.
+「**월간 강강 JOKER**」(월간 강강 조커)는 [스퀘어 에닉스가](../Page/스퀘어_에닉스.md "wikilink") 발행하는 일본의 월간 만화 잡지이다. 2009년 4월 22일에 창간 하였으며, 간행주기는 매월 22일에 발매된다.
 
 ## 개요
 
@@ -11,20 +11,20 @@
 
 창간 초기에는 「강강 파워드」 후기의 노선을 계승해, 동인 게임을 원작으로 하는 만화화 작품에 주력하고 있었지만 최근에는 TV애니메이션이나 라이트노벨의 코미컬라이즈도 실시하고 있다. 또한 강강 파워드 편집부가 담당했던 강강 코믹스 앤솔로지 편집 작업을 계승하고 있다. (여성용 앤솔로지만 월간 G판타지 편집부가 담당).
 
-분류상 소년지이기 때문에 게재 작품에 [후리가나](https://ko.wikipedia.org/wiki/후리가나 "wikilink")가 붙여져 있다. 또한 자매지인 「[월간 G판타지](https://ko.wikipedia.org/wiki/월간_G판타지 "wikilink")」 처럼 본편에 들어가기 전 첫 페이지에 줄거리나, 인물 소개가 실리는 프리페이지도 마련되어 있다. 작가들의 코멘트는 월간 강강 JOKER 공식 사이트 "[JOKER 집필진 코멘트](https://web.archive.org/web/20160402010132/http://www.jp.square-enix.com/magazine/joker/special/comment/)"에 게재된다.
+분류상 소년지이기 때문에 게재 작품에 [후리가나](../Page/후리가나.md "wikilink")가 붙여져 있다. 또한 자매지인 「[월간 G판타지](https://ko.wikipedia.org/wiki/월간_G판타지 "wikilink")」 처럼 본편에 들어가기 전 첫 페이지에 줄거리나, 인물 소개가 실리는 프리페이지도 마련되어 있다. 작가들의 코멘트는 월간 강강 JOKER 공식 사이트 "[JOKER 집필진 코멘트](https://web.archive.org/web/20160402010132/http://www.jp.square-enix.com/magazine/joker/special/comment/)"에 게재된다.
 
 ## 연재 작품
 
   - 연재 중인 작품에 대해서는 **굵은 글씨**로 표기하고 배경에 색을 붙였다.
-  - 작품명의 순서에 관해서는 연재 시작 순서대로, 그 다음에 [오십음](https://ko.wikipedia.org/wiki/오십음 "wikilink") 순서대로.
+  - 작품명의 순서에 관해서는 연재 시작 순서대로, 그 다음에 [오십음](../Page/오십음.md "wikilink") 순서대로.
 
 <!-- end list -->
 
   - 이적 전 에 대해서는, 비고란에 「← 『이적 전 의 잡지명』」 의 형태로 표기.
 
-|  |                                                                                                                    |  |            |
-|  | ------------------------------------------------------------------------------------------------------------------ |  | ---------- |
-|  | 연재중（[2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [1월](https://ko.wikipedia.org/wiki/1월 "wikilink") \~ ） |  | 제목 (비 데이터) |
+|  |                                                                              |  |            |
+|  | ---------------------------------------------------------------------------- |  | ---------- |
+|  | 연재중（[2016년](../Page/2016년.md "wikilink") [1월](../Page/1월.md "wikilink") \~ ） |  | 제목 (비 데이터) |
 
 <table>
 <thead>
@@ -95,7 +95,7 @@
 </tr>
 <tr class="odd">
 <td><p>06</p></td>
-<td><p><span style="display:none">なつのあらし</span> <a href="https://ko.wikipedia.org/wiki/여름의_폭풍!" title="wikilink">여름의 폭풍!</a></p></td>
+<td><p><span style="display:none">なつのあらし</span> <a href="../Page/여름의_폭풍!.md" title="wikilink">여름의 폭풍!</a></p></td>
 <td><p><span style="display:none">こはやし しん</span> <a href="https://ko.wikipedia.org/wiki/코바야시_진" title="wikilink">코바야시 진</a></p></td>
 <td><p>－</p></td>
 <td><p>2009.05</p></td>
@@ -123,7 +123,7 @@
 </tr>
 <tr class="even">
 <td><p>09</p></td>
-<td><p><span style="display:none">ふんかくしようしよとしにたかりのひえろ</span> <a href="https://ko.wikipedia.org/wiki/문학소녀_시리즈" title="wikilink">문학소녀 시리즈</a></p></td>
+<td><p><span style="display:none">ふんかくしようしよとしにたかりのひえろ</span> <a href="../Page/문학소녀_시리즈.md" title="wikilink">문학소녀 시리즈</a></p></td>
 <td><p><span style="display:none">こうさか りと</span> <a href="https://ko.wikipedia.org/wiki/코우사키_리토" title="wikilink">코우사키 리토</a><span style="font-size:90%;">（작화）</span></p></td>
 <td><p><span style="display:none">のむら みつき</span> <a href="https://ko.wikipedia.org/wiki/노무라_미츠키" title="wikilink">노무라 미츠키</a><span style="font-size:90%;">（원작）</span><br />
 <span style="display:none">たけおか みほ</span> <a href="https://ko.wikipedia.org/wiki/다케오카_미호" title="wikilink">타케오카 미호</a><span style="font-size:90%;">（캐릭터 원안）</span></p></td>
@@ -134,7 +134,7 @@
 <tr class="odd">
 <td><p>10</p></td>
 <td><p><span style="display:none">まなひや</span> <a href="https://ko.wikipedia.org/wiki/마나비야" title="wikilink">마나비야</a></p></td>
-<td><p><span style="display:none">こしま あきら</span> <a href="https://ko.wikipedia.org/wiki/코지마_아키라" title="wikilink">코지마 아키라</a></p></td>
+<td><p><span style="display:none">こしま あきら</span> <a href="../Page/코지마_아키라.md" title="wikilink">코지마 아키라</a></p></td>
 <td><p>－</p></td>
 <td><p>2009.05</p></td>
 <td><p><span style="display:none">8000.00</span>휴재중</p></td>
@@ -162,7 +162,7 @@
 <td><p>13</p></td>
 <td><p><span style="display:none">うみねこのなくころにえひそおと1れしえんとおふさこおるてんういつち</span> <a href="https://ko.wikipedia.org/wiki/괭이_갈매기_울_적에_Episode1:Legend_of_the_golden_witch" title="wikilink">괭이 갈매기 울 적에 Episode1:Legend of the golden witch</a></p></td>
 <td><p><span style="display:none">なつみ けい</span> <a href="https://ko.wikipedia.org/wiki/나츠미_케이" title="wikilink">나츠미 케이</a><span style="font-size:90%;">（작화）</span></p></td>
-<td><p><span style="display:none">りゆうきしせろなな</span> <a href="https://ko.wikipedia.org/wiki/용기사07" title="wikilink">용기사07</a><span style="font-size:90%;">（원작・감수）</span></p></td>
+<td><p><span style="display:none">りゆうきしせろなな</span> <a href="../Page/용기사07.md" title="wikilink">용기사07</a><span style="font-size:90%;">（원작・감수）</span></p></td>
 <td><p>2009.05[1]</p></td>
 <td><p>2009.09</p></td>
 <td><p>←『<a href="https://ko.wikipedia.org/wiki/강강_파워드" title="wikilink">강강 파워드</a>』</p></td>
@@ -171,7 +171,7 @@
 <td><p>14</p></td>
 <td><p><span style="display:none">ひくらしのなくころにかいまつりはやしへん</span> <a href="https://ko.wikipedia.org/wiki/쓰르라미_울_적에_해_마츠리바야시_편" title="wikilink">쓰르라미 울 적에 해 마츠리바야시 편</a></p></td>
 <td><p><span style="display:none">すすらき かりん</span> <a href="https://ko.wikipedia.org/wiki/스즈라키_카린" title="wikilink">스즈라키 카린</a><span style="font-size:90%;">（작화）</span></p></td>
-<td><p><span style="display:none">りゆうきしせろなな</span> <a href="https://ko.wikipedia.org/wiki/용기사07" title="wikilink">용기사07</a><span style="font-size:90%;">（원작・감수）</span></p></td>
+<td><p><span style="display:none">りゆうきしせろなな</span> <a href="../Page/용기사07.md" title="wikilink">용기사07</a><span style="font-size:90%;">（원작・감수）</span></p></td>
 <td><p>2009.05[2]</p></td>
 <td><p>2011.05</p></td>
 <td><p>←『<a href="https://ko.wikipedia.org/wiki/강강_파워드" title="wikilink">강강 파워드</a>』</p></td>
@@ -225,7 +225,7 @@
 <td><p>20</p></td>
 <td><p><span style="display:none">うみねこのなくころにえひそおと3はんけつとおふさこおるてんういつち</span> <a href="https://ko.wikipedia.org/wiki/괭이_갈매기_울_적에_Episode3:Banquet_of_the_golden_witch" title="wikilink">괭이 갈매기 울 적에 Episode3:Banquet of the golden witch</a></p></td>
 <td><p><span style="display:none">なつみ けい</span> <a href="https://ko.wikipedia.org/wiki/나츠미_케이" title="wikilink">나츠미 케이</a><span style="font-size:90%;">（작화）</span></p></td>
-<td><p><span style="display:none">りゆうきしせろなな</span> <a href="https://ko.wikipedia.org/wiki/용기사07" title="wikilink">용기사07</a><span style="font-size:90%;">（원작・감수）</span></p></td>
+<td><p><span style="display:none">りゆうきしせろなな</span> <a href="../Page/용기사07.md" title="wikilink">용기사07</a><span style="font-size:90%;">（원작・감수）</span></p></td>
 <td><p>2009.10</p></td>
 <td><p>2011.07</p></td>
 <td></td>
@@ -297,7 +297,7 @@
 <td><p>27</p></td>
 <td><p><span style="display:none">あかめかきる</span> <a href="../Page/아카메가_벤다!.md" title="wikilink">아카메가 벤다!</a></p></td>
 <td><p><span style="display:none">たしろ てつや</span> <a href="https://ko.wikipedia.org/wiki/타시로_테우야" title="wikilink">타시로 테우야</a><span style="font-size:90%;">（작화）</span></p></td>
-<td><p><span style="display:none">たかひろ</span> <a href="https://ko.wikipedia.org/wiki/타카히로" title="wikilink">타카히로</a><span style="font-size:90%;">（원작）</span></p></td>
+<td><p><span style="display:none">たかひろ</span> <a href="../Page/타카히로.md" title="wikilink">타카히로</a><span style="font-size:90%;">（원작）</span></p></td>
 <td><p>2010.04</p></td>
 <td><p><span style="display:none">6000.00</span>2017.01</p></td>
 <td></td>
@@ -325,7 +325,7 @@
 </tr>
 <tr class="even">
 <td><p>30</p></td>
-<td><p><span style="display:none">せとのはなよめ</span> <a href="https://ko.wikipedia.org/wiki/세토의_신부" title="wikilink">세토의 신부</a></p></td>
+<td><p><span style="display:none">せとのはなよめ</span> <a href="../Page/세토의_신부.md" title="wikilink">세토의 신부</a></p></td>
 <td><p><span style="display:none">きむら たひこ</span> <a href="https://ko.wikipedia.org/wiki/키무라_타히코" title="wikilink">키무라 타히코</a></p></td>
 <td><p>－</p></td>
 <td><p>2010.06</p></td>
@@ -336,14 +336,14 @@
 <td><p>31</p></td>
 <td><p><span style="display:none">うみねこのなくころにちるえひそおと5えんとおふさこおるてんういつち</span> <a href="https://ko.wikipedia.org/wiki/괭이_갈매기_울_적에_Episode5:End_of_the_golden_witch" title="wikilink">괭이 갈매기 울 적에 Episode5:End of the golden witch</a></p></td>
 <td><p><span style="display:none">あきたか</span> 아키타카<span style="font-size:90%;">（작화）</span></p></td>
-<td><p><span style="display:none">りゆうきしせろなな</span> <a href="https://ko.wikipedia.org/wiki/용기사07" title="wikilink">용기사07</a><span style="font-size:90%;">（원작・감수）</span></p></td>
+<td><p><span style="display:none">りゆうきしせろなな</span> <a href="../Page/용기사07.md" title="wikilink">용기사07</a><span style="font-size:90%;">（원작・감수）</span></p></td>
 <td><p>2010.11</p></td>
 <td><p>2012.12</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>32</p></td>
-<td><p><span style="display:none">はなさくいろは</span> <a href="https://ko.wikipedia.org/wiki/꽃이_피는_첫걸음" title="wikilink">꽃이 피는 첫걸음</a></p></td>
+<td><p><span style="display:none">はなさくいろは</span> <a href="../Page/꽃이_피는_첫걸음.md" title="wikilink">꽃이 피는 첫걸음</a></p></td>
 <td><p><span style="display:none">ちた えいと</span> <a href="https://ko.wikipedia.org/wiki/치타_에이토" title="wikilink">치타 에이토</a><span style="font-size:90%;">（작화）</span></p></td>
 <td><p><span style="display:none">ひい ええ わあくす</span> <a href="../Page/P.A._웍스.md" title="wikilink">P.A. 웍스</a><span style="font-size:90%;">（원작）</span></p></td>
 <td><p>2010.12</p></td>
@@ -399,7 +399,7 @@
 </tr>
 <tr class="even">
 <td><p>37</p></td>
-<td><p><span style="display:none">おれのかのしよとおさななしみかしゆらはすきる</span> <a href="https://ko.wikipedia.org/wiki/내_여자친구와_소꿉친구가_완전_수라장" title="wikilink">내 여자친구와 소꿉친구가 완전 수라장</a></p></td>
+<td><p><span style="display:none">おれのかのしよとおさななしみかしゆらはすきる</span> <a href="../Page/내_여자친구와_소꿉친구가_완전_수라장.md" title="wikilink">내 여자친구와 소꿉친구가 완전 수라장</a></p></td>
 <td><p><span style="display:none">ななすけ</span> <a href="https://ko.wikipedia.org/wiki/나나스케" title="wikilink">나나스케</a><span style="font-size:90%;">（작화）</span></p></td>
 <td><p><span style="display:none">ゆうし ゆうし</span> <a href="https://ko.wikipedia.org/wiki/유우지_유우지" title="wikilink">유우지 유우지</a><span style="font-size:90%;">（원작）</span><br />
 <span style="display:none">るろお</span> <a href="https://ko.wikipedia.org/wiki/루로오" title="wikilink">루로오</a><span style="font-size:90%;">（캐릭터 원안）</span></p></td>
@@ -411,7 +411,7 @@
 <td><p>38</p></td>
 <td><p><span style="display:none">ひくらしのなくころにれいさいころしへん</span> <a href="https://ko.wikipedia.org/wiki/쓰르라미_울_적에_례_사이코로시_편" title="wikilink">쓰르라미 울 적에 례 사이코로시 편</a></p></td>
 <td><p><span style="display:none">すすらき かりん</span> <a href="https://ko.wikipedia.org/wiki/스즈라키_카린" title="wikilink">스즈라키 카린</a><span style="font-size:90%;">（작화）</span></p></td>
-<td><p><span style="display:none">りゆうきしせろなな</span> <a href="https://ko.wikipedia.org/wiki/용기사07" title="wikilink">용기사07</a><span style="font-size:90%;">（원작・감수）</span></p></td>
+<td><p><span style="display:none">りゆうきしせろなな</span> <a href="../Page/용기사07.md" title="wikilink">용기사07</a><span style="font-size:90%;">（원작・감수）</span></p></td>
 <td><p>2011.07</p></td>
 <td><p>2011.12</p></td>
 <td></td>
@@ -474,14 +474,14 @@
 <td><p>44</p></td>
 <td><p><span style="display:none">うみねこのなくころにちるえひそおと8とわいらいとおふさこおるてんういつち</span> <a href="https://ko.wikipedia.org/wiki/괭이_갈매기_울_적에_산_Episode8:Twilight_of_the_golden_witch" title="wikilink">괭이 갈매기 울 적에 산 Episode8:Twilight of the golden witch</a></p></td>
 <td><p><span style="display:none">なつみ けい</span> <a href="https://ko.wikipedia.org/wiki/나츠미_케이" title="wikilink">나츠미 케이</a><span style="font-size:90%;">（작화）</span></p></td>
-<td><p><span style="display:none">りゆうきしせろなな</span> <a href="https://ko.wikipedia.org/wiki/용기사07" title="wikilink">용기사07</a><span style="font-size:90%;">（원작・감수）</span></p></td>
+<td><p><span style="display:none">りゆうきしせろなな</span> <a href="../Page/용기사07.md" title="wikilink">용기사07</a><span style="font-size:90%;">（원작・감수）</span></p></td>
 <td><p>2012.02</p></td>
 <td><p>2015.07</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>45</p></td>
-<td><p><span style="display:none">たりたり</span> <a href="https://ko.wikipedia.org/wiki/타리_타리" title="wikilink">TARI TARI</a></p></td>
+<td><p><span style="display:none">たりたり</span> <a href="../Page/타리_타리.md" title="wikilink">TARI TARI</a></p></td>
 <td><p><span style="display:none">かきそら とみやき</span> <a href="https://ko.wikipedia.org/wiki/카키소라_토미야키" title="wikilink">카키소라 토미야키</a><span style="font-size:90%;">（작화）</span></p></td>
 <td><p><span style="display:none">えはあくりいん</span> EVERGREEN<span style="font-size:90%;">（원작）</span><br />
 <span style="display:none">たぬ</span> tanu<span style="font-size:90%;">（캐릭터 원안）</span><br />
@@ -494,7 +494,7 @@
 <td><p>46</p></td>
 <td><p><span style="display:none">ろおすかんすていすしいすん1</span> <a href="https://ko.wikipedia.org/wiki/ROSE_GUNS_DAYS_Season1" title="wikilink">ROSE GUNS DAYS Season1</a></p></td>
 <td><p><span style="display:none">そういちろう</span> <a href="https://ko.wikipedia.org/wiki/소이치로" title="wikilink">소이치로</a><span style="font-size:90%;">（작화）</span></p></td>
-<td><p><span style="display:none">りゆうきしせろなな</span> <a href="https://ko.wikipedia.org/wiki/용기사07" title="wikilink">용기사07</a><span style="font-size:90%;">（원작・감수）</span></p></td>
+<td><p><span style="display:none">りゆうきしせろなな</span> <a href="../Page/용기사07.md" title="wikilink">용기사07</a><span style="font-size:90%;">（원작・감수）</span></p></td>
 <td><p>2012.09</p></td>
 <td><p>2014.03</p></td>
 <td></td>
@@ -729,7 +729,7 @@
 </tr>
 <tr class="even">
 <td><p>69</p></td>
-<td><p><span style="display:none">はつひいしゆかあらいふ</span> <strong><a href="https://ko.wikipedia.org/wiki/해피_슈가_라이프" title="wikilink">해피 슈가 라이프</a></strong></p></td>
+<td><p><span style="display:none">はつひいしゆかあらいふ</span> <strong><a href="../Page/해피_슈가_라이프.md" title="wikilink">해피 슈가 라이프</a></strong></p></td>
 <td><p><span style="display:none">かきそら とみやき</span> <a href="https://ko.wikipedia.org/wiki/카키소라_토미야키" title="wikilink">카키소라 토미야키</a></p></td>
 <td><p>－</p></td>
 <td><p>2015.06</p></td>
@@ -802,7 +802,7 @@
 <tr class="even">
 <td><p>76</p></td>
 <td><p><span style="display:none">うあにたすのかるて</span> <strong><a href="../Page/바니타스의_카르테.md" title="wikilink">바니타스의 카르테</a></strong></p></td>
-<td><p><span style="display:none">もちつき しゆん</span> <a href="https://ko.wikipedia.org/wiki/모치즈키_준" title="wikilink">모치즈키 준</a></p></td>
+<td><p><span style="display:none">もちつき しゆん</span> <a href="../Page/모치즈키_준.md" title="wikilink">모치즈키 준</a></p></td>
 <td><p>－</p></td>
 <td><p>2016.01</p></td>
 <td><p><span style="display:none">6000.00</span>연재중</p></td>
@@ -931,4 +931,4 @@
 
 1.  부록 「별책 리틀 JOKER」 게재
 2.
-3.  『월간 강강 윙』 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 5월부터 휴재까지 창간과 동시의 이적이 없었음
+3.  『월간 강강 윙』 [2008년](../Page/2008년.md "wikilink") 5월부터 휴재까지 창간과 동시의 이적이 없었음

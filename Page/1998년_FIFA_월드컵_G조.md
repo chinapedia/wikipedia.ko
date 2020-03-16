@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [1998 FIFA  G](https://ko.wikipedia.org/wiki/1998_FIFA__G).
 
 
-**1998년 FIFA 월드컵 G조**는 [프랑스](https://ko.wikipedia.org/wiki/프랑스 "wikilink")에서 열린 [1998년 FIFA 월드컵의](https://ko.wikipedia.org/wiki/1998년_FIFA_월드컵 "wikilink") 4팀씩 편성된 8개의 조들 중 하나였다. 첫 경기는 1998년 6월 15일에 열렸고, 마지막 경기는 1998년 6월 26일에 동시에 열렸다.
+**1998년 FIFA 월드컵 G조**는 [프랑스](../Page/프랑스.md "wikilink")에서 열린 [1998년 FIFA 월드컵의](https://ko.wikipedia.org/wiki/1998년_FIFA_월드컵 "wikilink") 4팀씩 편성된 8개의 조들 중 하나였다. 첫 경기는 1998년 6월 15일에 열렸고, 마지막 경기는 1998년 6월 26일에 동시에 열렸다.
 
-이 조는 [UEFA](https://ko.wikipedia.org/wiki/유럽_축구_연맹 "wikilink") 소속의 [루마니아와](https://ko.wikipedia.org/wiki/루마니아_축구_국가대표팀 "wikilink") [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드_축구_국가대표팀 "wikilink"), [CAF](https://ko.wikipedia.org/wiki/아프리카_축구_연맹 "wikilink") 대표의 [튀니지](https://ko.wikipedia.org/wiki/튀니지_축구_국가대표팀 "wikilink"), 그리고 [CONMEBOL](https://ko.wikipedia.org/wiki/남아메리카_축구_연맹 "wikilink") 소속의 [콜롬비아가](https://ko.wikipedia.org/wiki/콜롬비아_축구_국가대표팀 "wikilink") 편성되었다. 경기는 프랑스의 6개의 다른 경기장에서 펼쳐졌다.
+이 조는 [UEFA](../Page/유럽_축구_연맹.md "wikilink") 소속의 [루마니아와](../Page/루마니아_축구_국가대표팀.md "wikilink") [잉글랜드](../Page/잉글랜드_축구_국가대표팀.md "wikilink"), [CAF](../Page/아프리카_축구_연맹.md "wikilink") 대표의 [튀니지](../Page/튀니지_축구_국가대표팀.md "wikilink"), 그리고 [CONMEBOL](https://ko.wikipedia.org/wiki/남아메리카_축구_연맹 "wikilink") 소속의 [콜롬비아가](../Page/콜롬비아_축구_국가대표팀.md "wikilink") 편성되었다. 경기는 프랑스의 6개의 다른 경기장에서 펼쳐졌다.
 
 루마니아는 콜롬비아 (1-0) 와 잉글랜드 (2-1) 를 연파하고 한 경기를 남겨놓고 16강 진출을 확정지었다. 한편 튀니지는 잉글랜드 (0-2) 와 콜롬비아 (0-1) 에 연달아 패해 조기 탈락과 조 최하위가 확정되었다. 이 여파로 튀니지 감독이 교체되었고, 최종전에서는 이 극과 극의 행보를 보인 두 팀이 맞붙어 승부가 나지 않았다. 나란히 루마니아에 패하고 튀니지에 승리를 거둔 잉글랜드와 콜롬비아가 남은 16강 진출권을 가지고 격돌하였는데, 잉글랜드가 골득실에서 우위를 점해 무승부만 거두어도 다음 라운드 진출이 가능했다. 결국 이 경기에서 승리를 거둔 잉글랜드가 조 2위를 차지해 한장 밖에 남지 않은 다음 라운드 진출권을 손에 넣었다. G조는 8개 조들 중 가장 늦게 모든 일정이 마무리되었다. G조의 최종전 종료와 함께 루마니아가 G조 1위 자리를, 잉글랜드가 G조 2위 자리를 채우면서 토너먼트전의 대진표가 완성되었다.
 
@@ -170,7 +170,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/부심" title="wikilink">부심</a>:</strong><br />
-점용현 (<a href="https://ko.wikipedia.org/wiki/대한축구협회" title="wikilink">대한민국</a>)<br />
+점용현 (<a href="../Page/대한축구협회.md" title="wikilink">대한민국</a>)<br />
 드라만 단테 (<a href="https://ko.wikipedia.org/wiki/말리_축구_협회" title="wikilink">말리</a>)<br />
 <strong><a href="https://ko.wikipedia.org/wiki/부심" title="wikilink">대기심</a>:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/킴_밀톤_닐센" title="wikilink">킴 밀톤 닐센</a> (<a href="https://ko.wikipedia.org/wiki/덴마크_축구_협회" title="wikilink">덴마크</a>)</p></td>
@@ -1038,7 +1038,7 @@
 <tr class="odd">
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/부심" title="wikilink">부심</a>:</strong><br />
 로랑 로시 (<a href="https://ko.wikipedia.org/wiki/스위스_축구_협회" title="wikilink">스위스</a>)<br />
-레이날도 살리나스 (<a href="https://ko.wikipedia.org/wiki/온두라스_축구_연맹" title="wikilink">온두라스</a>)<br />
+레이날도 살리나스 (<a href="../Page/온두라스_축구_연맹.md" title="wikilink">온두라스</a>)<br />
 <strong><a href="https://ko.wikipedia.org/wiki/부심" title="wikilink">대기심</a>:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/리샤르트_부이치크" title="wikilink">리샤르트 부이치크</a> (<a href="https://ko.wikipedia.org/wiki/폴란드_축구_협회" title="wikilink">폴란드</a>)</p></td>
 </tr>

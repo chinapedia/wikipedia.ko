@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Like \& Peace!](https://ko.wikipedia.org/wiki/Like_\&_Peace!).
 
 
-〈**Like & Peace\!**〉(라이크 앤드 피스, )는 [Dream5](https://ko.wikipedia.org/wiki/Dream5 "wikilink")의 4번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink"). [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [7월 20일에](https://ko.wikipedia.org/wiki/7월_20일 "wikilink") [에이벡스 트랙스에서](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") 발매됐다.
+〈**Like & Peace\!**〉(라이크 앤드 피스, )는 [Dream5](https://ko.wikipedia.org/wiki/Dream5 "wikilink")의 4번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). [2011년](../Page/2011년.md "wikilink") [7월 20일에](../Page/7월_20일.md "wikilink") [에이벡스 트랙스에서](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") 발매됐다.
 
 ## 해설
 
-  - 타이틀곡 〈Like & Peace\!〉는 [TV 도쿄계](https://ko.wikipedia.org/wiki/TV_도쿄 "wikilink") 애니메이션 《[다마고치\!](https://ko.wikipedia.org/wiki/다마고치! "wikilink")》의 여는 곡.
+  - 타이틀곡 〈Like & Peace\!〉는 [TV 도쿄계](../Page/TV_도쿄.md "wikilink") 애니메이션 《[다마고치\!](../Page/다마고치!.md "wikilink")》의 여는 곡.
   - 수록곡인 〈오픈세서미〉는 ‘열려라 참깨’라는 뜻이며, TV 도쿄계 《[타케시의 일본 미카타\!](https://ko.wikipedia.org/wiki/타케시의_일본_미카타! "wikilink")》의 7월 닫는 곡.
-  - [뮤직비디오](https://ko.wikipedia.org/wiki/뮤직비디오 "wikilink")에는 [FISHBOY](https://ko.wikipedia.org/wiki/FISHBOY "wikilink")나 에이벡스 댄스마스터 수강생으로부터 선발된 ‘Dream5 댄서들’이 출연하고 있다. 이 MV 촬영의 모습은 7월 5일 방송한 [닛폰 TV](https://ko.wikipedia.org/wiki/닛폰_TV_방송망 "wikilink")[계열](https://ko.wikipedia.org/wiki/닛폰TV_네트워크_협의회 "wikilink") 《[스타☆드래프트 회의](https://ko.wikipedia.org/wiki/스타☆드래프트_회의 "wikilink")》에서 받아들였다.
+  - [뮤직비디오](https://ko.wikipedia.org/wiki/뮤직비디오 "wikilink")에는 [FISHBOY](https://ko.wikipedia.org/wiki/FISHBOY "wikilink")나 에이벡스 댄스마스터 수강생으로부터 선발된 ‘Dream5 댄서들’이 출연하고 있다. 이 MV 촬영의 모습은 7월 5일 방송한 [닛폰 TV](../Page/닛폰_TV_방송망.md "wikilink")[계열](https://ko.wikipedia.org/wiki/닛폰TV_네트워크_협의회 "wikilink") 《[스타☆드래프트 회의](https://ko.wikipedia.org/wiki/스타☆드래프트_회의 "wikilink")》에서 받아들였다.
 
 ## 수록곡
 

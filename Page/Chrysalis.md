@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Chrysalis](https://ko.wikipedia.org/wiki/Chrysalis).
 
 
-《**Chrysalis**》(크리설리스)는 대한민국 걸그룹 [아이오아이](../Page/아이오아이.md "wikilink")의 첫 번째 [미니 음반이다](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink").
+《**Chrysalis**》(크리설리스)는 대한민국 걸그룹 [아이오아이](../Page/아이오아이.md "wikilink")의 첫 번째 [미니 음반이다](../Page/익스텐디드_플레이.md "wikilink").
 
 ## 개요
 

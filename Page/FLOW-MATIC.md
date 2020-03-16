@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FLOW-MATIC](https://ko.wikipedia.org/wiki/FLOW-MATIC).
 
 
-**FLOW-MATIC**(본래 이름: B-0 (Business Language version 0))은 영어와 비슷한 최초의 데이터 처리 언어이다. 1955년부터 1959년까지의 기간 동안 [그레이스 호퍼](https://ko.wikipedia.org/wiki/그레이스_호퍼 "wikilink") 하의 [레밍턴 랜드의](https://ko.wikipedia.org/wiki/레밍턴_랜드 "wikilink") [유니박 I용으로](https://ko.wikipedia.org/wiki/유니박_I "wikilink") 개발되었다. [코볼](https://ko.wikipedia.org/wiki/코볼 "wikilink") 개발에 중대한 영향을 미쳤다.
+**FLOW-MATIC**(본래 이름: B-0 (Business Language version 0))은 영어와 비슷한 최초의 데이터 처리 언어이다. 1955년부터 1959년까지의 기간 동안 [그레이스 호퍼](../Page/그레이스_호퍼.md "wikilink") 하의 [레밍턴 랜드의](../Page/레밍턴_랜드.md "wikilink") [유니박 I용으로](../Page/유니박_I.md "wikilink") 개발되었다. [코볼](../Page/코볼.md "wikilink") 개발에 중대한 영향을 미쳤다.
 
 ## 개발
 

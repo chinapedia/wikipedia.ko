@@ -1,19 +1,19 @@
 > This article is converted from Wikipedia: [MNL48](https://ko.wikipedia.org/wiki/MNL48).
 
 
-**MNL48**(엠엔엘포티에이트)는 [필리핀](https://ko.wikipedia.org/wiki/필리핀 "wikilink")의 [마닐라](https://ko.wikipedia.org/wiki/마닐라 "wikilink")를 중심으로 활동하는 [여성](https://ko.wikipedia.org/wiki/여성 "wikilink") [아이돌 그룹이다](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink").
+**MNL48**(엠엔엘포티에이트)는 [필리핀](../Page/필리핀.md "wikilink")의 [마닐라](../Page/마닐라.md "wikilink")를 중심으로 활동하는 [여성](../Page/여성.md "wikilink") [아이돌 그룹이다](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink").
 
 ## 개요
 
-[AKB48](https://ko.wikipedia.org/wiki/AKB48 "wikilink")의 자매 그룹의 하나이다. 종합 프로듀스는 AKB48와 함께 [아키모토 야스시가](https://ko.wikipedia.org/wiki/아키모토_야스시 "wikilink") 맡았다.
+[AKB48](../Page/AKB48.md "wikilink")의 자매 그룹의 하나이다. 종합 프로듀스는 AKB48와 함께 [아키모토 야스시가](../Page/아키모토_야스시.md "wikilink") 맡았다.
 
 ## 내력
 
-[2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [3월 26일](https://ko.wikipedia.org/wiki/3월_26일 "wikilink"), [요코하마 스타디움에서](https://ko.wikipedia.org/wiki/요코하마_스타디움 "wikilink") 열린 [다카하시 미나미](https://ko.wikipedia.org/wiki/다카하시_미나미 "wikilink") 졸업 관련 AKB48 단독 콘서트 석상에서 [중화민국](https://ko.wikipedia.org/wiki/중화민국 "wikilink")의 [타이베이 시에](https://ko.wikipedia.org/wiki/타이베이_시 "wikilink") 본사를 둔 [TPE48](https://ko.wikipedia.org/wiki/TPE48 "wikilink"), [태국](https://ko.wikipedia.org/wiki/태국 "wikilink")의 [방콕](https://ko.wikipedia.org/wiki/방콕 "wikilink")에 본사를 둔 [BNK48](../Page/BNK48.md "wikilink")와 함께 공식 활동을 개시하는 일이 발표됐다. 공식 사이트에서는 그룹 칼라에 대해서 특산의 [망고](https://ko.wikipedia.org/wiki/망고 "wikilink")를 기조로 한 그라데이션을 채용했다\[1\]\[2\].
+[2016년](../Page/2016년.md "wikilink") [3월 26일](../Page/3월_26일.md "wikilink"), [요코하마 스타디움에서](../Page/요코하마_스타디움.md "wikilink") 열린 [다카하시 미나미](https://ko.wikipedia.org/wiki/다카하시_미나미 "wikilink") 졸업 관련 AKB48 단독 콘서트 석상에서 [중화민국](../Page/중화민국.md "wikilink")의 [타이베이 시에](https://ko.wikipedia.org/wiki/타이베이_시 "wikilink") 본사를 둔 [TPE48](https://ko.wikipedia.org/wiki/TPE48 "wikilink"), [태국](../Page/태국.md "wikilink")의 [방콕](../Page/방콕.md "wikilink")에 본사를 둔 [BNK48](../Page/BNK48.md "wikilink")와 함께 공식 활동을 개시하는 일이 발표됐다. 공식 사이트에서는 그룹 칼라에 대해서 특산의 [망고](../Page/망고.md "wikilink")를 기조로 한 그라데이션을 채용했다\[1\]\[2\].
 
-운영은 AKS와 파트너십 계약한 하로하로 그룹인 하로하로 엔터테인먼트가 담당한다. [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [12월 3일](https://ko.wikipedia.org/wiki/12월_3일 "wikilink"), AKB48 팀8 멤버를 초빙한 팬미팅 자리에서 멤버 오디션의 개시가 선언되었다. 첫 응모는 Web 중 스마트 폰에서는 전용 앱에서\[3\], PC · 태블릿부터 공식 사이트상에서 지원하는 시스템이다.
+운영은 AKS와 파트너십 계약한 하로하로 그룹인 하로하로 엔터테인먼트가 담당한다. [2016년](../Page/2016년.md "wikilink") [12월 3일](../Page/12월_3일.md "wikilink"), AKB48 팀8 멤버를 초빙한 팬미팅 자리에서 멤버 오디션의 개시가 선언되었다. 첫 응모는 Web 중 스마트 폰에서는 전용 앱에서\[3\], PC · 태블릿부터 공식 사이트상에서 지원하는 시스템이다.
 
-[2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [4월 28일](https://ko.wikipedia.org/wiki/4월_28일 "wikilink"), 제1기생 선발 총선거의 개표 이벤트에서 제1기생 64명이 발표하였다.
+[2018년](../Page/2018년.md "wikilink") [4월 28일](../Page/4월_28일.md "wikilink"), 제1기생 선발 총선거의 개표 이벤트에서 제1기생 64명이 발표하였다.
 
 ## 멤버
 
@@ -995,12 +995,12 @@ MNL48 캡틴</p></td>
 
 <!-- end list -->
 
-  - [AKB48](https://ko.wikipedia.org/wiki/AKB48 "wikilink")
-  - [SKE48](https://ko.wikipedia.org/wiki/SKE48 "wikilink")
-  - [NMB48](https://ko.wikipedia.org/wiki/NMB48 "wikilink")
-  - [HKT48](https://ko.wikipedia.org/wiki/HKT48 "wikilink")
+  - [AKB48](../Page/AKB48.md "wikilink")
+  - [SKE48](../Page/SKE48.md "wikilink")
+  - [NMB48](../Page/NMB48.md "wikilink")
+  - [HKT48](../Page/HKT48.md "wikilink")
   - [NGT48](https://ko.wikipedia.org/wiki/NGT48 "wikilink")
-  - [STU48](https://ko.wikipedia.org/wiki/STU48 "wikilink")
+  - [STU48](../Page/STU48.md "wikilink")
 
 <!-- end list -->
 
@@ -1008,14 +1008,14 @@ MNL48 캡틴</p></td>
 
 <!-- end list -->
 
-  - [JKT48](https://ko.wikipedia.org/wiki/JKT48 "wikilink")
+  - [JKT48](../Page/JKT48.md "wikilink")
   - [BNK48](../Page/BNK48.md "wikilink")
-  - [AKB48 Team SH](https://ko.wikipedia.org/wiki/AKB48_Team_SH "wikilink")
-  - [AKB48 Team TP](https://ko.wikipedia.org/wiki/AKB48_Team_TP "wikilink")
-  - [SGO48](https://ko.wikipedia.org/wiki/SGO48 "wikilink")
+  - [AKB48 Team SH](../Page/AKB48_Team_SH.md "wikilink")
+  - [AKB48 Team TP](../Page/AKB48_Team_TP.md "wikilink")
+  - [SGO48](../Page/SGO48.md "wikilink")
   - [CGM48](https://ko.wikipedia.org/wiki/CGM48 "wikilink")
   - [DEL48](https://ko.wikipedia.org/wiki/DEL48 "wikilink")
-  - [MUB48](https://ko.wikipedia.org/wiki/MUB48 "wikilink")
+  - [MUB48](../Page/MUB48.md "wikilink")
 
 ## 각주
 

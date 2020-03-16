@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Mr.Platonic](https://ko.wikipedia.org/wiki/Mr.Platonic).
 
 
-〈**Mr.Platonic**〉(미스터.플라토닉)은 2015년 11월 18일에 발매된 [페어리즈](https://ko.wikipedia.org/wiki/페어리즈 "wikilink")의 메이저 데뷔 12번째 싱글이다.
+〈**Mr.Platonic**〉(미스터.플라토닉)은 2015년 11월 18일에 발매된 [페어리즈](../Page/페어리즈.md "wikilink")의 메이저 데뷔 12번째 싱글이다.
 
 ## 트랙 리스트
 

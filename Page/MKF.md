@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MKF](https://ko.wikipedia.org/wiki/MKF).
 
 
-**MKF**(Moovi Kyeoktooki Fight)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") 입식격투기 프로모션이다. [KBS N 스포츠를](https://ko.wikipedia.org/wiki/KBS_N_스포츠 "wikilink") 통해 중계방송되고 있다.\[1\] 현재 존재하는 대한민국 프로격투기 단체 중 가장 오래되었으며 출범 10년차인 2017년 글로벌 입식격투기 [K-1](https://ko.wikipedia.org/wiki/K-1 "wikilink")을 유치계약했다.\[2\]\[3\] 최근 대중화를 선언하며 다양한 시도로 기존 단체와는 차별화하겠다는 전략을 펼치고 있다.
+**MKF**(Moovi Kyeoktooki Fight)는 [대한민국](../Page/대한민국.md "wikilink") 입식격투기 프로모션이다. [KBS N 스포츠를](../Page/KBS_N_스포츠.md "wikilink") 통해 중계방송되고 있다.\[1\] 현재 존재하는 대한민국 프로격투기 단체 중 가장 오래되었으며 출범 10년차인 2017년 글로벌 입식격투기 [K-1](../Page/K-1.md "wikilink")을 유치계약했다.\[2\]\[3\] 최근 대중화를 선언하며 다양한 시도로 기존 단체와는 차별화하겠다는 전략을 펼치고 있다.
 
 ## 대회 개최 이력
 
@@ -32,7 +32,7 @@
 
 ## 같이 보기
 
-  - [K-1](https://ko.wikipedia.org/wiki/K-1 "wikilink")
+  - [K-1](../Page/K-1.md "wikilink")
   - [GLORY](../Page/글로리_\(킥복싱\).md "wikilink")
   - [맥스 FC](../Page/맥스_FC.md "wikilink")
   - [TAS](../Page/TAS_\(격투기\).md "wikilink")

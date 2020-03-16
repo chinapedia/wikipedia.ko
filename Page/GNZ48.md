@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [GNZ48](https://ko.wikipedia.org/wiki/GNZ48).
 
 
-**GNZ48**(지엔제트포티에이트)는 [중화인민공화국](https://ko.wikipedia.org/wiki/중화인민공화국 "wikilink")의 [광둥 성](https://ko.wikipedia.org/wiki/광둥_성 "wikilink") [광저우](https://ko.wikipedia.org/wiki/광저우 "wikilink")를 중심으로 활동하는 [여성](https://ko.wikipedia.org/wiki/여성 "wikilink") [아이돌 그룹이다](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink").
+**GNZ48**(지엔제트포티에이트)는 [중화인민공화국](../Page/중화인민공화국.md "wikilink")의 [광둥 성](https://ko.wikipedia.org/wiki/광둥_성 "wikilink") [광저우](https://ko.wikipedia.org/wiki/광저우 "wikilink")를 중심으로 활동하는 [여성](../Page/여성.md "wikilink") [아이돌 그룹이다](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink").
 
 ## 개요
 
-[SNH48](https://ko.wikipedia.org/wiki/SNH48 "wikilink")의 자매 그룹의 하나이다. 「GNZ」라는 이름은 [광저우](https://ko.wikipedia.org/wiki/광저우 "wikilink")(**G**ua**n**g**z**hou)에서 유래했다. 본 그룹의 팀은 [AKB48](https://ko.wikipedia.org/wiki/AKB48 "wikilink") 그룹의 팀명이 아닌, **팀G**와 **팀NIII**로 표기되었다.
+[SNH48](../Page/SNH48.md "wikilink")의 자매 그룹의 하나이다. 「GNZ」라는 이름은 [광저우](https://ko.wikipedia.org/wiki/광저우 "wikilink")(**G**ua**n**g**z**hou)에서 유래했다. 본 그룹의 팀은 [AKB48](../Page/AKB48.md "wikilink") 그룹의 팀명이 아닌, **팀G**와 **팀NIII**로 표기되었다.
 
 ## 약력
 
@@ -210,7 +210,7 @@
 <td></td>
 <td><p>SNH48 6기</p></td>
 <td><p>광저우 구상 연예 경기 유한공사</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/SNH48" title="wikilink">SNH48</a> 팀X 멤버</p></td>
+<td><p><a href="../Page/SNH48.md" title="wikilink">SNH48</a> 팀X 멤버</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -286,7 +286,7 @@
 </tr>
 <tr class="even">
 <td><p><strong></strong></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/류리페이" title="wikilink">류리페이</a></strong></p></td>
+<td><p><strong><a href="../Page/류리페이.md" title="wikilink">류리페이</a></strong></p></td>
 <td><p><strong>Liú Lìfēi</strong></p></td>
 <td><p><strong></strong></p></td>
 <td><p>SNH48 6기</p></td>
@@ -1123,7 +1123,7 @@
 <tr class="even">
 <td><p>1</p></td>
 <td><p>2016년 9월 19일</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/그대가_모르는_나" title="wikilink">니소부지도적아(你所不知道的我)</a></strong></p></td>
+<td><p><strong><a href="../Page/그대가_모르는_나.md" title="wikilink">니소부지도적아(你所不知道的我)</a></strong></p></td>
 <td><p>CD</p></td>
 <td><p>GNZ55100105</p></td>
 <td><p>표준판</p></td>
@@ -1131,7 +1131,7 @@
 <tr class="odd">
 <td><p>2</p></td>
 <td><p>2017년 1월 16일</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/BOOM!_BOOM!_BOOM!" title="wikilink">BOOM! BOOM! BOOM!</a></strong></p></td>
+<td><p><strong><a href="../Page/BOOM!_BOOM!_BOOM!.md" title="wikilink">BOOM! BOOM! BOOM!</a></strong></p></td>
 <td><p>CD</p></td>
 <td><p>GNZ55100199</p></td>
 <td><p>표준판</p></td>
@@ -1139,7 +1139,7 @@
 <tr class="even">
 <td><p>3</p></td>
 <td><p>2017년 4월 13일</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/I.F_(GNZ48의_음반)" title="wikilink">I.F</a></strong></p></td>
+<td><p><strong><a href="../Page/I.F_(GNZ48의_음반).md" title="wikilink">I.F</a></strong></p></td>
 <td><p>CD</p></td>
 <td><p>GNZ55100284</p></td>
 <td><p>표준판</p></td>
@@ -1148,7 +1148,7 @@
 <td><p>4</p></td>
 <td><p>2017년 9월 11일<br />
 2017년 9월 23일</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/SAY_NO" title="wikilink">SAY NO</a></strong></p></td>
+<td><p><strong><a href="../Page/SAY_NO.md" title="wikilink">SAY NO</a></strong></p></td>
 <td><p>CD<br />
 CD</p></td>
 <td><p>GNZ55100473<br />
@@ -1214,10 +1214,10 @@ GNZ55101266</p></td>
 
 ## 관련 항목
 
-  - [SNH48](https://ko.wikipedia.org/wiki/SNH48 "wikilink")
+  - [SNH48](../Page/SNH48.md "wikilink")
   - [BEJ48](https://ko.wikipedia.org/wiki/BEJ48 "wikilink")
   - [SHY48](../Page/SHY48.md "wikilink")
-  - [CKG48](https://ko.wikipedia.org/wiki/CKG48 "wikilink")
+  - [CKG48](../Page/CKG48.md "wikilink")
   - [CGT48](https://ko.wikipedia.org/wiki/CGT48 "wikilink")
 
 ## 각주
@@ -1235,7 +1235,7 @@ GNZ55101266</p></td>
   -
   - [GNZ48 공식 블로그](http://weibo.com/gnz48cn) - [웨이보](https://ko.wikipedia.org/wiki/웨이보 "wikilink")
 
-  - [GNZ48 공식 블로그](http://e.t.qq.com/gnz48cn) - [텐센트](https://ko.wikipedia.org/wiki/텐센트 "wikilink")
+  - [GNZ48 공식 블로그](http://e.t.qq.com/gnz48cn) - [텐센트](../Page/텐센트.md "wikilink")
 
 [\*](https://ko.wikipedia.org/wiki/분류:GNZ48 "wikilink") [분류:중국의 음악 그룹](https://ko.wikipedia.org/wiki/분류:중국의_음악_그룹 "wikilink") [분류:중국의 걸 그룹](https://ko.wikipedia.org/wiki/분류:중국의_걸_그룹 "wikilink") [분류:2016년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2016년_결성된_음악_그룹 "wikilink") [분류:2016년 데뷔](https://ko.wikipedia.org/wiki/분류:2016년_데뷔 "wikilink") [분류:10인조 이상 음악 그룹](https://ko.wikipedia.org/wiki/분류:10인조_이상_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink")
 

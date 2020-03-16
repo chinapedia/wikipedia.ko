@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [ Every day](https://ko.wikipedia.org/wiki/_Every_day).
 
 
-〈**반짝반짝 Every day**〉()는 [Dream5](https://ko.wikipedia.org/wiki/Dream5 "wikilink")의 5번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink"). [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [1월 4일에](https://ko.wikipedia.org/wiki/1월_4일 "wikilink") [에이벡스 트랙스에서](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") 발매됐다.
+〈**반짝반짝 Every day**〉()는 [Dream5](https://ko.wikipedia.org/wiki/Dream5 "wikilink")의 5번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). [2012년](../Page/2012년.md "wikilink") [1월 4일에](../Page/1월_4일.md "wikilink") [에이벡스 트랙스에서](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") 발매됐다.
 
 ## 해설
 
-  - 타이틀 곡은 전작에 이어서 [TV 도쿄계](https://ko.wikipedia.org/wiki/TV_도쿄 "wikilink") 애니메이션 《[다마고치\!](https://ko.wikipedia.org/wiki/다마고치! "wikilink")》의 여는 곡으로 사용되고 있다.
+  - 타이틀 곡은 전작에 이어서 [TV 도쿄계](../Page/TV_도쿄.md "wikilink") 애니메이션 《[다마고치\!](../Page/다마고치!.md "wikilink")》의 여는 곡으로 사용되고 있다.
   - 커플링곡 〈일요일〉은 JITTERIN'JINN의 동일한 제목의 곡의 커버.
   - 의상은 [드리5학원의](https://ko.wikipedia.org/wiki/Dream5#드리5학원 "wikilink") 교복 설정으로 되어있다.
 

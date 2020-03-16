@@ -20,7 +20,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/카와시마_노에루" title="wikilink">카와시마 노에루</a><br />
 <small></small></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/도쿄도" title="wikilink">도쿄도</a></p></td>
+<td><p><a href="../Page/도쿄도.md" title="wikilink">도쿄도</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/O형" title="wikilink">O형</a></p></td>
 <td><p>형조, 빨강[1]</p></td>
 </tr>
@@ -28,7 +28,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/시메카케_류야" title="wikilink">시메카케 류야</a><br />
 <small></small></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이바라키현" title="wikilink">이바라키현</a></p></td>
+<td><p><a href="../Page/이바라키현.md" title="wikilink">이바라키현</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/AB형" title="wikilink">AB형</a></p></td>
 <td><p>형조, 분홍[2]</p></td>
 </tr>
@@ -36,7 +36,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/요시자와_시즈야" title="wikilink">요시자와 시즈야</a><br />
 <small></small>&gt;</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/가나가와현" title="wikilink">가나가와현</a></p></td>
+<td><p><a href="../Page/가나가와현.md" title="wikilink">가나가와현</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/A형" title="wikilink">A형</a></p></td>
 <td><p>동생조, 파랑[3]</p></td>
 </tr>
@@ -57,7 +57,7 @@
 <td><p>동생조, 주황[5]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/마츠쿠라_카이토" title="wikilink">마츠쿠라 카이토</a><br />
+<td><p><a href="../Page/마츠쿠라_카이토.md" title="wikilink">마츠쿠라 카이토</a><br />
 <small></small></p></td>
 <td></td>
 <td><p>가나가와 현</p></td>
@@ -65,7 +65,7 @@
 <td><p>- 2017年11月加入[6][7]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/마츠다_겐타" title="wikilink">마츠다 겐타</a><br />
+<td><p><a href="../Page/마츠다_겐타.md" title="wikilink">마츠다 겐타</a><br />
 <small></small></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/사이타마현" title="wikilink">사이타마현</a></p></td>
@@ -89,7 +89,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/아베_아란" title="wikilink">아베 아란</a> (阿部顕嵐)</p></td>
+<td><p><a href="../Page/아베_아란.md" title="wikilink">아베 아란</a> (阿部顕嵐)</p></td>
 <td></td>
 <td><p>도쿄 도</p></td>
 <td><p>A型</p></td>
@@ -98,7 +98,7 @@
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/나카다_히로키" title="wikilink">나카다 히로키</a> (仲田拡輝)</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오키나와현" title="wikilink">오키나와현</a></p></td>
+<td><p><a href="../Page/오키나와현.md" title="wikilink">오키나와현</a></p></td>
 <td><p>O형</p></td>
 <td><p>형조[12]</p></td>
 </tr>
@@ -112,7 +112,7 @@
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/카지야마_아사히" title="wikilink">카지야마 아사히</a> (梶山朝日)</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오카야마현" title="wikilink">오카야마현</a></p></td>
+<td><p><a href="../Page/오카야마현.md" title="wikilink">오카야마현</a></p></td>
 <td><p>A형</p></td>
 <td><p>동생조[16],  보라[17]</p></td>
 </tr>
@@ -128,8 +128,8 @@
 
 ## 관련 항목
 
-  - [쟈니즈 사무소](https://ko.wikipedia.org/wiki/자니스_사무소 "wikilink")
-  - [쟈니즈 Jr.](https://ko.wikipedia.org/wiki/자니스_주니어 "wikilink")
+  - [쟈니즈 사무소](../Page/자니스_사무소.md "wikilink")
+  - [쟈니즈 Jr.](../Page/자니스_주니어.md "wikilink")
 
 ## 각주
 

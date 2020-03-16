@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  Z ](https://ko.wikipedia.org/wiki/__Z_).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Xperia_Logo.svg "wikilink") **소니 엑스페리아 Z 시리즈**는 [소니 모바일](https://ko.wikipedia.org/wiki/소니_모바일_커뮤니케이션스 "wikilink") 제조 소니 엑스페리아 시리즈의 주력 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")과 [태블릿을](https://ko.wikipedia.org/wiki/태블릿_컴퓨터 "wikilink") 의미한다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Xperia_Logo.svg "wikilink") **소니 엑스페리아 Z 시리즈**는 [소니 모바일](../Page/소니_모바일_커뮤니케이션스.md "wikilink") 제조 소니 엑스페리아 시리즈의 주력 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")과 [태블릿을](../Page/태블릿_컴퓨터.md "wikilink") 의미한다.
 
 2016년 2월 25일, 소니 엑스페리아 Z 시리즈는 소니 엑스페리아 X 시리즈를 위해 중단되었다.\[1\]
 
@@ -23,7 +23,7 @@
 
 #### 엑스페리아 Z1/Z1s
 
-먼저 베를린 [IFA 2013에서](https://ko.wikipedia.org/wiki/IFA_2013 "wikilink") 발표된, 소니 엑스페리아 Z1은 [소니 모바일 커뮤니케이션스 AB에](https://ko.wikipedia.org/wiki/소니_모바일_커뮤니케이션스_AB "wikilink") 의해 생성된 [하이엔드](https://ko.wikipedia.org/wiki/사치품 "wikilink") [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")이다. 엑스페리아 Z1은 [IP55와 58의](https://ko.wikipedia.org/wiki/IP_코드 "wikilink") 평가와 방진 및 방수 전화이다. 장치의 주요 특징은 소니 실내 [G 렌즈와](https://ko.wikipedia.org/wiki/렌즈 "wikilink") 호출의 화상 처리 알고리즘 BIONZ와 쌍을 이루는 20.7 메가 픽셀 카메라이다. 이전 모델과 마찬가지로, 소니 엑스페리아 Z는, 한 조각의 알루미늄 프레임에 의해 함께 개최된 앞면과 뒷면에 비산 방지 필름으로 덮여 휴대 전화 기능 강화 유리. [퀄컴](https://ko.wikipedia.org/wiki/퀄컴 "wikilink")의 최신 쿼드코어 [스냅드래곤](https://ko.wikipedia.org/wiki/스냅드래곤 "wikilink") S800 프로세서는 2.2GHz의 클럭과 2GB의 RAM, 그것은 또한 더 나은 이미지 및 동영상 감상을 위한 5.0 인치 소니의 Triluminos와 X-현실 엔진이 포함되어 있다. 소니는 CES 2014, [T모바일 US에](https://ko.wikipedia.org/wiki/T모바일_US "wikilink") 독점 소니 엑스페리아 Z1의 수정된 버전에서 소니 **엑스페리아 Z1s**을 발표, 미국에서 출시되었다.
+먼저 베를린 [IFA 2013에서](https://ko.wikipedia.org/wiki/IFA_2013 "wikilink") 발표된, 소니 엑스페리아 Z1은 [소니 모바일 커뮤니케이션스 AB에](https://ko.wikipedia.org/wiki/소니_모바일_커뮤니케이션스_AB "wikilink") 의해 생성된 [하이엔드](../Page/사치품.md "wikilink") [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다. 엑스페리아 Z1은 [IP55와 58의](https://ko.wikipedia.org/wiki/IP_코드 "wikilink") 평가와 방진 및 방수 전화이다. 장치의 주요 특징은 소니 실내 [G 렌즈와](../Page/렌즈.md "wikilink") 호출의 화상 처리 알고리즘 BIONZ와 쌍을 이루는 20.7 메가 픽셀 카메라이다. 이전 모델과 마찬가지로, 소니 엑스페리아 Z는, 한 조각의 알루미늄 프레임에 의해 함께 개최된 앞면과 뒷면에 비산 방지 필름으로 덮여 휴대 전화 기능 강화 유리. [퀄컴](../Page/퀄컴.md "wikilink")의 최신 쿼드코어 [스냅드래곤](../Page/스냅드래곤.md "wikilink") S800 프로세서는 2.2GHz의 클럭과 2GB의 RAM, 그것은 또한 더 나은 이미지 및 동영상 감상을 위한 5.0 인치 소니의 Triluminos와 X-현실 엔진이 포함되어 있다. 소니는 CES 2014, [T모바일 US에](https://ko.wikipedia.org/wiki/T모바일_US "wikilink") 독점 소니 엑스페리아 Z1의 수정된 버전에서 소니 **엑스페리아 Z1s**을 발표, 미국에서 출시되었다.
 
 #### 엑스페리아 Z1 컴팩트
 
@@ -35,7 +35,7 @@
 
 #### 엑스페리아 Z3
 
-엑스페리아 Z3는 베를린에서 IFA 2014에서 발표되었다. 그것의 전임처럼, 그것은 스냅드래곤 801 및 4K 비디오 녹화 기능을 한다. 이 장치는 사용자가 [플레이스테이션 4](https://ko.wikipedia.org/wiki/플레이스테이션_4 "wikilink") 게임을 즐길 수 있도록 [원격 플레이가](https://ko.wikipedia.org/wiki/원격_플레이 "wikilink") 있다. 엑스 페리아 Z2와 달리, 152g 무게와 128 GB 마이크로 지원을 가지고 있다 - 새로운 IP 등급, IP65와 68과 함께 32 GB 버전도 사용할 수 있다. 엑스페리아 Z3는 2014년 9월 발매되었다.
+엑스페리아 Z3는 베를린에서 IFA 2014에서 발표되었다. 그것의 전임처럼, 그것은 스냅드래곤 801 및 4K 비디오 녹화 기능을 한다. 이 장치는 사용자가 [플레이스테이션 4](../Page/플레이스테이션_4.md "wikilink") 게임을 즐길 수 있도록 [원격 플레이가](https://ko.wikipedia.org/wiki/원격_플레이 "wikilink") 있다. 엑스 페리아 Z2와 달리, 152g 무게와 128 GB 마이크로 지원을 가지고 있다 - 새로운 IP 등급, IP65와 68과 함께 32 GB 버전도 사용할 수 있다. 엑스페리아 Z3는 2014년 9월 발매되었다.
 
 *엑스페리아 Z3 D6633*로도 알려진, **엑스 페리아 Z3 듀얼**은 듀얼 SIM을 지원한다.
 
@@ -61,7 +61,7 @@
 
 #### 엑스페리아 태블릿 Z
 
-소니 엑스페리아 태블릿 Z는 소니가 제조한 10.1 인치 태블릿이다. 먼저 일본에서 발표된, 태블릿은 세계에서 가장 얇고 가벼운 10 인치 태블릿이며, 두께 1.09그램의 무게와 단지 0.27mm 두께로 2013년 2월 25일 [바르셀로나](https://ko.wikipedia.org/wiki/바르셀로나 "wikilink") [모바일 월드 콩그레스에서](https://ko.wikipedia.org/wiki/모바일_월드_콩그레스 "wikilink") 전 세계적으로 발표되었다. [엑스페리아 태블릿 S를](https://ko.wikipedia.org/wiki/엑스페리아_태블릿_S "wikilink") 계승한, 엑스페리아 테이블 Z는 빠른 프로세서, 더 나은 전면 카메라, 고해상도 화면과 IP55 및 IP57의 [침투 보호 등급](https://ko.wikipedia.org/wiki/침투_보호_등급 "wikilink"), 먼지 보호, 워터 제트에 대한 보호, 1m 수심에서 최대 30분 방수와 함께 제공되었다. 태블릿은 2013년 5월 발매되었다.
+소니 엑스페리아 태블릿 Z는 소니가 제조한 10.1 인치 태블릿이다. 먼저 일본에서 발표된, 태블릿은 세계에서 가장 얇고 가벼운 10 인치 태블릿이며, 두께 1.09그램의 무게와 단지 0.27mm 두께로 2013년 2월 25일 [바르셀로나](https://ko.wikipedia.org/wiki/바르셀로나 "wikilink") [모바일 월드 콩그레스에서](../Page/모바일_월드_콩그레스.md "wikilink") 전 세계적으로 발표되었다. [엑스페리아 태블릿 S를](https://ko.wikipedia.org/wiki/엑스페리아_태블릿_S "wikilink") 계승한, 엑스페리아 테이블 Z는 빠른 프로세서, 더 나은 전면 카메라, 고해상도 화면과 IP55 및 IP57의 [침투 보호 등급](https://ko.wikipedia.org/wiki/침투_보호_등급 "wikilink"), 먼지 보호, 워터 제트에 대한 보호, 1m 수심에서 최대 30분 방수와 함께 제공되었다. 태블릿은 2013년 5월 발매되었다.
 
 #### 엑스페리아 Z2 태블릿
 
@@ -87,18 +87,18 @@
 <th><p>암호명</p></th>
 <th><p>판매명</p></th>
 <th><p>발매일</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/안드로이드_(운영_체제)" title="wikilink">안드로이드<br />
+<th><p><a href="../Page/안드로이드_(운영_체제).md" title="wikilink">안드로이드<br />
 버전</a></p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/단일_칩_체제" title="wikilink">단일 칩 체제</a></p></th>
+<th><p><a href="../Page/단일_칩_체제.md" title="wikilink">단일 칩 체제</a></p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/RAM" title="wikilink">RAM</a></p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/고정_기억_장치" title="wikilink">ROM</a></p></th>
+<th><p><a href="../Page/고정_기억_장치.md" title="wikilink">ROM</a></p></th>
 <th><p>디스플레이</p></th>
 <th><p>무게</p></th>
 <th><p>전지<br />
-(<a href="https://ko.wikipedia.org/wiki/암페어시" title="wikilink">mAh</a>)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/블루투스" title="wikilink">블루투스</a></p></th>
+(<a href="../Page/암페어시.md" title="wikilink">mAh</a>)</p></th>
+<th><p><a href="../Page/블루투스.md" title="wikilink">블루투스</a></p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/Wi-Fi" title="wikilink">Wi-Fi</a></p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/근거리_무선_통신" title="wikilink">NFC</a></p></th>
+<th><p><a href="../Page/근거리_무선_통신.md" title="wikilink">NFC</a></p></th>
 <th><p>카메라</p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/통신_네트워크" title="wikilink">네트워크</a></p></th>
 <th><p>방수와 방진 (IP)</p></th>
@@ -122,7 +122,7 @@ dual-band</p></td>
 <td></td>
 <td><p>Rear: 13.1 MP<br />
 Front: 2.2 MP</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GSM" title="wikilink">GSM</a> / <a href="https://ko.wikipedia.org/wiki/Evolved_HSPA" title="wikilink">HSPA+</a> / <a href="https://ko.wikipedia.org/wiki/LTE_(telecommunication)" title="wikilink">LTE</a></p></td>
+<td><p><a href="../Page/GSM.md" title="wikilink">GSM</a> / <a href="https://ko.wikipedia.org/wiki/Evolved_HSPA" title="wikilink">HSPA+</a> / <a href="https://ko.wikipedia.org/wiki/LTE_(telecommunication)" title="wikilink">LTE</a></p></td>
 <td><p>(IP57)</p></td>
 </tr>
 <tr class="even">
@@ -142,7 +142,7 @@ dual-band</p></td>
 <td></td>
 <td><p>Rear: 13 MP<br />
 Front: 2 MP</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GSM" title="wikilink">GSM</a> / <a href="https://ko.wikipedia.org/wiki/Evolved_HSPA" title="wikilink">HSPA+</a> / <a href="https://ko.wikipedia.org/wiki/LTE_(telecommunication)" title="wikilink">LTE</a></p></td>
+<td><p><a href="../Page/GSM.md" title="wikilink">GSM</a> / <a href="https://ko.wikipedia.org/wiki/Evolved_HSPA" title="wikilink">HSPA+</a> / <a href="https://ko.wikipedia.org/wiki/LTE_(telecommunication)" title="wikilink">LTE</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -164,7 +164,7 @@ dual-band</p></td>
 <td></td>
 <td><p>Rear: 13 MP<br />
 Front: 0.3 MP</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GSM" title="wikilink">GSM</a> / <a href="https://ko.wikipedia.org/wiki/Evolved_HSPA" title="wikilink">HSPA+</a> / <a href="https://ko.wikipedia.org/wiki/LTE_(telecommunication)" title="wikilink">LTE</a></p></td>
+<td><p><a href="../Page/GSM.md" title="wikilink">GSM</a> / <a href="https://ko.wikipedia.org/wiki/Evolved_HSPA" title="wikilink">HSPA+</a> / <a href="https://ko.wikipedia.org/wiki/LTE_(telecommunication)" title="wikilink">LTE</a></p></td>
 <td><p>(IP58)</p></td>
 </tr>
 <tr class="even">
@@ -185,7 +185,7 @@ dual-band</p></td>
 <td></td>
 <td><p>Rear: 20.7 MP<br />
 Front: 2 MP</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GSM" title="wikilink">GSM</a> / <a href="https://ko.wikipedia.org/wiki/Evolved_HSPA" title="wikilink">HSPA+</a> / <a href="https://ko.wikipedia.org/wiki/LTE_(telecommunication)" title="wikilink">LTE</a></p></td>
+<td><p><a href="../Page/GSM.md" title="wikilink">GSM</a> / <a href="https://ko.wikipedia.org/wiki/Evolved_HSPA" title="wikilink">HSPA+</a> / <a href="https://ko.wikipedia.org/wiki/LTE_(telecommunication)" title="wikilink">LTE</a></p></td>
 <td><p>(IP58)</p></td>
 </tr>
 <tr class="odd">
@@ -205,7 +205,7 @@ dual-band</p></td>
 <td></td>
 <td><p>Rear: 20.7 MP<br />
 Front: 2 MP</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GSM" title="wikilink">GSM</a> / <a href="https://ko.wikipedia.org/wiki/Evolved_HSPA" title="wikilink">HSPA+</a> / <a href="https://ko.wikipedia.org/wiki/LTE_(telecommunication)" title="wikilink">LTE</a></p></td>
+<td><p><a href="../Page/GSM.md" title="wikilink">GSM</a> / <a href="https://ko.wikipedia.org/wiki/Evolved_HSPA" title="wikilink">HSPA+</a> / <a href="https://ko.wikipedia.org/wiki/LTE_(telecommunication)" title="wikilink">LTE</a></p></td>
 <td><p>(IP58)</p></td>
 </tr>
 <tr class="even">
@@ -226,7 +226,7 @@ dual-band</p></td>
 <td></td>
 <td><p>Rear: 20.7 MP<br />
 Front: 2.2 MP</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GSM" title="wikilink">GSM</a> / <a href="https://ko.wikipedia.org/wiki/Evolved_HSPA" title="wikilink">HSPA+</a> / <a href="https://ko.wikipedia.org/wiki/LTE_(telecommunication)" title="wikilink">LTE</a></p></td>
+<td><p><a href="../Page/GSM.md" title="wikilink">GSM</a> / <a href="https://ko.wikipedia.org/wiki/Evolved_HSPA" title="wikilink">HSPA+</a> / <a href="https://ko.wikipedia.org/wiki/LTE_(telecommunication)" title="wikilink">LTE</a></p></td>
 <td><p>(IP58)</p></td>
 </tr>
 <tr class="odd">
@@ -248,7 +248,7 @@ dual-band</p></td>
 <td></td>
 <td><p>Rear: 20.7 MP<br />
 Front: 2.2 MP</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GSM" title="wikilink">GSM</a> / <a href="https://ko.wikipedia.org/wiki/Evolved_HSPA" title="wikilink">HSPA+</a> / <a href="https://ko.wikipedia.org/wiki/LTE_(telecommunication)" title="wikilink">LTE</a></p></td>
+<td><p><a href="../Page/GSM.md" title="wikilink">GSM</a> / <a href="https://ko.wikipedia.org/wiki/Evolved_HSPA" title="wikilink">HSPA+</a> / <a href="https://ko.wikipedia.org/wiki/LTE_(telecommunication)" title="wikilink">LTE</a></p></td>
 <td><p>(IP65 and 68)</p></td>
 </tr>
 <tr class="even">
@@ -269,7 +269,7 @@ dual-band</p></td>
 <td></td>
 <td><p>Rear: 20.7 MP<br />
 Front: 2.2 MP</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GSM" title="wikilink">GSM</a> / <a href="https://ko.wikipedia.org/wiki/Evolved_HSPA" title="wikilink">HSPA+</a> / <a href="https://ko.wikipedia.org/wiki/LTE_(telecommunication)" title="wikilink">LTE</a></p></td>
+<td><p><a href="../Page/GSM.md" title="wikilink">GSM</a> / <a href="https://ko.wikipedia.org/wiki/Evolved_HSPA" title="wikilink">HSPA+</a> / <a href="https://ko.wikipedia.org/wiki/LTE_(telecommunication)" title="wikilink">LTE</a></p></td>
 <td><p>(IP65 and 68)</p></td>
 </tr>
 <tr class="odd">
@@ -290,7 +290,7 @@ dual-band</p></td>
 <td></td>
 <td><p>Rear: 23 MP<br />
 Front: 5 MP</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GSM" title="wikilink">GSM</a> / <a href="https://ko.wikipedia.org/wiki/Evolved_HSPA" title="wikilink">HSPA+</a> / <a href="https://ko.wikipedia.org/wiki/LTE_(telecommunication)" title="wikilink">LTE</a></p></td>
+<td><p><a href="../Page/GSM.md" title="wikilink">GSM</a> / <a href="https://ko.wikipedia.org/wiki/Evolved_HSPA" title="wikilink">HSPA+</a> / <a href="https://ko.wikipedia.org/wiki/LTE_(telecommunication)" title="wikilink">LTE</a></p></td>
 <td><p>(IP65 and IP68)</p></td>
 </tr>
 </tbody>
@@ -304,18 +304,18 @@ Front: 5 MP</p></td>
 <th><p>암호명</p></th>
 <th><p>판매명</p></th>
 <th><p>발매일</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/안드로이드_(운영_체제)" title="wikilink">안드로이드<br />
+<th><p><a href="../Page/안드로이드_(운영_체제).md" title="wikilink">안드로이드<br />
 버전</a></p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/단일_칩_체제" title="wikilink">단일 칩 체제</a></p></th>
+<th><p><a href="../Page/단일_칩_체제.md" title="wikilink">단일 칩 체제</a></p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/RAM" title="wikilink">RAM</a></p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/고정_기억_장치" title="wikilink">ROM</a></p></th>
+<th><p><a href="../Page/고정_기억_장치.md" title="wikilink">ROM</a></p></th>
 <th><p>디스플레이</p></th>
 <th><p>무게</p></th>
 <th><p>전지<br />
-(<a href="https://ko.wikipedia.org/wiki/암페어시" title="wikilink">mAh</a>)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/블루투스" title="wikilink">블루투스</a></p></th>
+(<a href="../Page/암페어시.md" title="wikilink">mAh</a>)</p></th>
+<th><p><a href="../Page/블루투스.md" title="wikilink">블루투스</a></p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/Wi-Fi" title="wikilink">Wi-Fi</a></p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/근거리_무선_통신" title="wikilink">NFC</a></p></th>
+<th><p><a href="../Page/근거리_무선_통신.md" title="wikilink">NFC</a></p></th>
 <th><p>카메라</p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/통신_네트워크" title="wikilink">네트워크</a></p></th>
 <th><p>방수와 방진 (IP)</p></th>
@@ -340,7 +340,7 @@ dual-band</p></td>
 <td></td>
 <td><p>Rear: 8 MP<br />
 Front: 2 MP</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GSM" title="wikilink">GSM</a> / <a href="https://ko.wikipedia.org/wiki/Evolved_HSPA" title="wikilink">HSPA+</a> / <a href="https://ko.wikipedia.org/wiki/LTE_(telecommunication)" title="wikilink">LTE</a></p></td>
+<td><p><a href="../Page/GSM.md" title="wikilink">GSM</a> / <a href="https://ko.wikipedia.org/wiki/Evolved_HSPA" title="wikilink">HSPA+</a> / <a href="https://ko.wikipedia.org/wiki/LTE_(telecommunication)" title="wikilink">LTE</a></p></td>
 <td><p>(IP58)</p></td>
 </tr>
 </tbody>
@@ -354,16 +354,16 @@ Front: 2 MP</p></td>
 <th><p>암호명</p></th>
 <th><p>판매명</p></th>
 <th><p>발매일</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/안드로이드_(운영_체제)" title="wikilink">안드로이드<br />
+<th><p><a href="../Page/안드로이드_(운영_체제).md" title="wikilink">안드로이드<br />
 버전</a></p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/단일_칩_체제" title="wikilink">단일 칩 체제</a></p></th>
+<th><p><a href="../Page/단일_칩_체제.md" title="wikilink">단일 칩 체제</a></p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/RAM" title="wikilink">RAM</a></p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/고정_기억_장치" title="wikilink">ROM</a></p></th>
+<th><p><a href="../Page/고정_기억_장치.md" title="wikilink">ROM</a></p></th>
 <th><p>디스플레이</p></th>
 <th><p>무게</p></th>
 <th><p>전지<br />
-(<a href="https://ko.wikipedia.org/wiki/암페어시" title="wikilink">mAh</a>)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/블루투스" title="wikilink">블루투스</a></p></th>
+(<a href="../Page/암페어시.md" title="wikilink">mAh</a>)</p></th>
+<th><p><a href="../Page/블루투스.md" title="wikilink">블루투스</a></p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/Wi-Fi" title="wikilink">Wi-Fi</a></p></th>
 <th><p>카메라</p></th>
 <th><p>방수와 방진 (IP)</p></th>
@@ -450,7 +450,7 @@ Front: 5.1 MP</p></td>
 
 ## 같이 보기
 
-  - [소니 엑스페리아](https://ko.wikipedia.org/wiki/소니_엑스페리아 "wikilink")
+  - [소니 엑스페리아](../Page/소니_엑스페리아.md "wikilink")
 
 ## 각주
 

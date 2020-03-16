@@ -15,7 +15,7 @@
 #### 1978년
 
   - 《[천사들의 노래](https://ko.wikipedia.org/wiki/천사들의_노래 "wikilink")》 : 1978년 1월 1일 (신년 특집 드라마)
-  - 《[6.25](https://ko.wikipedia.org/wiki/6.25_\(드라마\) "wikilink")》 : 1978년 6월 24일 \~ 1978년 6월 30일 (6.25 특집 드라마)
+  - 《[6.25](../Page/6.25_\(드라마\).md "wikilink")》 : 1978년 6월 24일 \~ 1978년 6월 30일 (6.25 특집 드라마)
   - 《[높은 갈](https://ko.wikipedia.org/wiki/높은_갈 "wikilink")》 : 1978년 8월 14일 \~ 1978년 8월 16일 (8.15 특집 드라마)
   - 《[팔베개](https://ko.wikipedia.org/wiki/팔베개 "wikilink")》 : 1978년 9월 17일 (추석 특집 드라마)
   - 《[성녀 쥬리아](https://ko.wikipedia.org/wiki/성녀_쥬리아 "wikilink")》 : 1978년 12월 31일 \~ 1979년 1월 7일 (신년 특집 드라마)
@@ -74,7 +74,7 @@
   - 《[탈선 춘향전](https://ko.wikipedia.org/wiki/탈선_춘향전 "wikilink")》 : 1984년 1월 1일 (신년 특집 드라마)
   - 《[비객](https://ko.wikipedia.org/wiki/비객 "wikilink")》 : 1984년 1월 2일 (신년 특집 드라마)
   - 《[딸의 미소](https://ko.wikipedia.org/wiki/딸의_미소 "wikilink")》 : 1984년 1월 3일 (신춘 특집 드라마)
-  - 《[불타는 바다](https://ko.wikipedia.org/wiki/불타는_바다 "wikilink")》 : 1984년 2월 16일 \~ 1984년 2월 17일 (특집 미니시리즈)
+  - 《[불타는 바다](../Page/불타는_바다.md "wikilink")》 : 1984년 2월 16일 \~ 1984년 2월 17일 (특집 미니시리즈)
   - 《[객사](https://ko.wikipedia.org/wiki/객사 "wikilink")》 : 1984년 3월 1일 \~ 1984년 3월 2일 (3.1절 특집 드라마)
   - 《[꽃피는 봄이 오면](https://ko.wikipedia.org/wiki/꽃피는_봄이_오면_\(1984년_드라마\) "wikilink")》 : 1984년 4월 5일
   - 《[함정](https://ko.wikipedia.org/wiki/함정_\(드라마\) "wikilink")》 : 1984년 6월 19일 (반공 드라마)
@@ -141,7 +141,7 @@
   - 《[서울에서 제일 비싼 미소](https://ko.wikipedia.org/wiki/서울에서_제일_비싼_미소 "wikilink")》 : 1988년 1월 5일 (신춘 특집 드라마)
   - 《[따뜻한 남쪽 나라](https://ko.wikipedia.org/wiki/따뜻한_남쪽_나라 "wikilink")》 : 1988년 2월 10일 \~ 1988년 2월 11일 (특집 다큐멘터리 드라마)
   - 《[마음](https://ko.wikipedia.org/wiki/마음_\(드라마\) "wikilink")》 : 1988년 3월 1일 (3.1절 특집 드라마)
-  - 《[사로잡힌 영혼](https://ko.wikipedia.org/wiki/사로잡힌_영혼 "wikilink")》 : 1988년 3월 5일 \~ 1988년 3월 6일 (창사 기념 특집 드라마)
+  - 《[사로잡힌 영혼](../Page/사로잡힌_영혼.md "wikilink")》 : 1988년 3월 5일 \~ 1988년 3월 6일 (창사 기념 특집 드라마)
   - 《[13세의 봄](https://ko.wikipedia.org/wiki/13세의_봄 "wikilink")》 : 1988년 5월 7일 (청소년 특집 드라마)
   - 《[바라밀](https://ko.wikipedia.org/wiki/바라밀_\(드라마\) "wikilink")》 : 1988년 5월 23일 (부처님 오신 날 특집 드라마)
   - 《[물 뿌리기](https://ko.wikipedia.org/wiki/물_뿌리기 "wikilink")》 : 1988년 5월 28일
@@ -205,7 +205,7 @@
   - 《[너의 이름은 효자](https://ko.wikipedia.org/wiki/너의_이름은_효자 "wikilink")》 : 1992년 2월 4일 (설 특집 드라마)
   - 《[아버지](https://ko.wikipedia.org/wiki/아버지_\(1992년_드라마\) "wikilink")》 : 1992년 5월 11일 (가정의 달 특집 드라마)
   - 《[어머니](https://ko.wikipedia.org/wiki/어머니_\(1992년_드라마\) "wikilink")》 : 1992년 5월 13일 (가정의 달 특집 드라마)
-  - 《[시간과 눈물](https://ko.wikipedia.org/wiki/시간과_눈물 "wikilink")》 : 1992년 6월 25일 (6.25 특집 드라마)
+  - 《[시간과 눈물](../Page/시간과_눈물.md "wikilink")》 : 1992년 6월 25일 (6.25 특집 드라마)
   - 《[대리인](https://ko.wikipedia.org/wiki/대리인_\(드라마\) "wikilink")》 : 1992년 8월 14일 (8.15 특집 드라마)
   - 《[오유란전](https://ko.wikipedia.org/wiki/오유란전 "wikilink")》 : 1992년 9월 11일 (추석 특집 드라마)
   - 《[제 탓입니다](https://ko.wikipedia.org/wiki/제_탓입니다 "wikilink")》 : 1992년 10월 24일 (저축의 날 특집 드라마)
@@ -265,7 +265,7 @@
 #### 1999년
 
   - 《[인연이란](https://ko.wikipedia.org/wiki/인연이란 "wikilink")》 : 1999년 1월 2일 (앙코르 신년 특집 드라마)
-  - 《[셔터맨, 슈퍼맨, 비디오맨](https://ko.wikipedia.org/wiki/셔터맨,_슈퍼맨,_비디오맨 "wikilink")》 : 1999년 2월 14일 (앙코르 설 특집 드라마)(1995년 12월 24일 [KBS 드라마게임으로](https://ko.wikipedia.org/wiki/KBS_드라마게임 "wikilink") 방영된 작품의 앙코르)
+  - 《[셔터맨, 슈퍼맨, 비디오맨](https://ko.wikipedia.org/wiki/셔터맨,_슈퍼맨,_비디오맨 "wikilink")》 : 1999년 2월 14일 (앙코르 설 특집 드라마)(1995년 12월 24일 [KBS 드라마게임으로](../Page/KBS_드라마게임.md "wikilink") 방영된 작품의 앙코르)
   - 《[춘향전](https://ko.wikipedia.org/wiki/춘향전_\(1994년_드라마\) "wikilink")》 : 1999년 2월 15일 (앙코르 설 특집 드라마)
   - 《[마음이 하는 일](https://ko.wikipedia.org/wiki/마음이_하는_일 "wikilink")》 : 1999년 9월 23일 (추석 특집 드라마)
 
@@ -294,7 +294,7 @@
   - 《[고마워 웃게해줘서](https://ko.wikipedia.org/wiki/고마워_웃게해줘서 "wikilink")》 : 2010년 12월 25일 (성탄 특집 드라마)
   - 《[눈길](../Page/눈길.md "wikilink")》 : 2015년 2월 28일 \~ 2015년 3월 1일 (광복 70주년 특집 드라마)
   - 《[언제나 해피엔딩](https://ko.wikipedia.org/wiki/언제나_해피엔딩 "wikilink")》 : 2017년 10월 8일 (추석 특집 드라마)
-  - 《[조선미인별전](https://ko.wikipedia.org/wiki/조선미인별전 "wikilink")》 : 2018년 1월 6일 \~ 2018년 1월 7일 (신년특집 뮤지컬 드라마)
+  - 《[조선미인별전](../Page/조선미인별전.md "wikilink")》 : 2018년 1월 6일 \~ 2018년 1월 7일 (신년특집 뮤지컬 드라마)
   - 《[그날이 오면](https://ko.wikipedia.org/wiki/그날이_오면_\(2019년_드라마\) "wikilink")》 : 2019년 3월 1일 (3.1절 특집 드라마)
 
 ## 같이 보기

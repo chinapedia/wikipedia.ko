@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [SHOW](https://ko.wikipedia.org/wiki/SHOW).
 
 
-《**어서옵SHOW**》는 [KBS 2TV에서](https://ko.wikipedia.org/wiki/KBS_2TV "wikilink") 방영된 [한국방송공사의 텔레비전 프로그램이며](https://ko.wikipedia.org/wiki/한국방송공사의_텔레비전_프로그램 "wikilink") 2016년 5월 6일부터 2016년 10월 7일까지 방송되었다.
+《**어서옵SHOW**》는 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") 방영된 [한국방송공사의 텔레비전 프로그램이며](https://ko.wikipedia.org/wiki/한국방송공사의_텔레비전_프로그램 "wikilink") 2016년 5월 6일부터 2016년 10월 7일까지 방송되었다.
 
 ## 기획 의도
 
-운동인, 예술인, 과학자 등 각계각층 스타들의 재능을 판매하는 형식으로 이뤄지는 스타 재능 기부 홈쇼핑 [프로그램이다](https://ko.wikipedia.org/wiki/텔레비전_프로그램 "wikilink").
+운동인, 예술인, 과학자 등 각계각층 스타들의 재능을 판매하는 형식으로 이뤄지는 스타 재능 기부 홈쇼핑 [프로그램이다](../Page/텔레비전_프로그램.md "wikilink").
 
 ## 방송 시간
 
@@ -15,16 +15,16 @@
 
 ## 출연자
 
-  - [이서진](https://ko.wikipedia.org/wiki/이서진 "wikilink")
-  - [김종국](https://ko.wikipedia.org/wiki/김종국_\(가수\) "wikilink")
-  - [노홍철](https://ko.wikipedia.org/wiki/노홍철 "wikilink")
+  - [이서진](../Page/이서진.md "wikilink")
+  - [김종국](../Page/김종국_\(가수\).md "wikilink")
+  - [노홍철](../Page/노홍철.md "wikilink")
   - [세정](../Page/세정_\(가수\).md "wikilink")
 
 ## 에피소드 목록
 
 ## 논란
 
-[MBC의](https://ko.wikipedia.org/wiki/MBC_TV "wikilink") [마이 리틀 텔레비전과](../Page/마이_리틀_텔레비전.md "wikilink") 비슷한 포맷으로 인터넷 생방송(녹화)도 동시간대에 진행되어서 표절 논란이 있었다.
+[MBC의](../Page/MBC_TV.md "wikilink") [마이 리틀 텔레비전과](../Page/마이_리틀_텔레비전.md "wikilink") 비슷한 포맷으로 인터넷 생방송(녹화)도 동시간대에 진행되어서 표절 논란이 있었다.
 
 ## 시청률
 

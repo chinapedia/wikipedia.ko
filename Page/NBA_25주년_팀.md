@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NBA 25 ](https://ko.wikipedia.org/wiki/NBA_25_).
 
 
-**NBA 25주년 팀**(NBA 25th Anniversary Team)는 [1971년](https://ko.wikipedia.org/wiki/1971년 "wikilink")에 [NBA](https://ko.wikipedia.org/wiki/전미_농구_협회 "wikilink") 출범 25주년을 기념하여 선정한 [올스타](../Page/올스타.md "wikilink")이며, 선수는 센터 2명, 포워드 4명, 가드 4명으로 선정했다.
+**NBA 25주년 팀**(NBA 25th Anniversary Team)는 [1971년](../Page/1971년.md "wikilink")에 [NBA](../Page/전미_농구_협회.md "wikilink") 출범 25주년을 기념하여 선정한 [올스타](../Page/올스타.md "wikilink")이며, 선수는 센터 2명, 포워드 4명, 가드 4명으로 선정했다.
 
 ## 후보
 
@@ -56,6 +56,6 @@
 ## 함께 보기
 
   - [NBA 35주년 팀](https://ko.wikipedia.org/wiki/NBA_35주년_팀 "wikilink")
-  - [NBA 위대한 50인 선수](https://ko.wikipedia.org/wiki/NBA_위대한_50인_선수 "wikilink")
+  - [NBA 위대한 50인 선수](../Page/NBA_위대한_50인_선수.md "wikilink")
 
 [분류:전미 농구 협회](https://ko.wikipedia.org/wiki/분류:전미_농구_협회 "wikilink") [분류:1971년 12월](https://ko.wikipedia.org/wiki/분류:1971년_12월 "wikilink") [분류:1971년 농구](https://ko.wikipedia.org/wiki/분류:1971년_농구 "wikilink")

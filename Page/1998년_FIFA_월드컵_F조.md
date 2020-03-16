@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [1998 FIFA  F](https://ko.wikipedia.org/wiki/1998_FIFA__F).
 
 
-**1998년 FIFA 월드컵 F조**는 [프랑스](https://ko.wikipedia.org/wiki/프랑스 "wikilink")에서 열린 [1998년 FIFA 월드컵의](https://ko.wikipedia.org/wiki/1998년_FIFA_월드컵 "wikilink") 4팀씩 편성된 8개의 조들 중 하나였다. 첫 경기는 1998년 6월 14일에 열렸고, 마지막 경기는 1998년 6월 25일에 동시에 열렸다.
+**1998년 FIFA 월드컵 F조**는 [프랑스](../Page/프랑스.md "wikilink")에서 열린 [1998년 FIFA 월드컵의](https://ko.wikipedia.org/wiki/1998년_FIFA_월드컵 "wikilink") 4팀씩 편성된 8개의 조들 중 하나였다. 첫 경기는 1998년 6월 14일에 열렸고, 마지막 경기는 1998년 6월 25일에 동시에 열렸다.
 
-이 조는 [UEFA](https://ko.wikipedia.org/wiki/유럽_축구_연맹 "wikilink") 소속의 [독일과](https://ko.wikipedia.org/wiki/독일_축구_국가대표팀 "wikilink") [유고슬라비아](https://ko.wikipedia.org/wiki/세르비아_몬테네그로_축구_국가대표팀 "wikilink"), [AFC](https://ko.wikipedia.org/wiki/아시아_축구_연맹 "wikilink") 대표의 [이란](https://ko.wikipedia.org/wiki/이란_축구_국가대표팀 "wikilink"), 그리고 [CONCACAF](https://ko.wikipedia.org/wiki/북중미카리브_축구_연맹 "wikilink") 출신의 [미국이](https://ko.wikipedia.org/wiki/미국_축구_국가대표팀 "wikilink") 편성되었다. 경기는 프랑스의 6개의 다른 경기장에서 펼쳐졌다.
+이 조는 [UEFA](../Page/유럽_축구_연맹.md "wikilink") 소속의 [독일과](../Page/독일_축구_국가대표팀.md "wikilink") [유고슬라비아](../Page/세르비아_몬테네그로_축구_국가대표팀.md "wikilink"), [AFC](../Page/아시아_축구_연맹.md "wikilink") 대표의 [이란](../Page/이란_축구_국가대표팀.md "wikilink"), 그리고 [CONCACAF](../Page/북중미카리브_축구_연맹.md "wikilink") 출신의 [미국이](../Page/미국_축구_국가대표팀.md "wikilink") 편성되었다. 경기는 프랑스의 6개의 다른 경기장에서 펼쳐졌다.
 
 독일과 유고슬라비아는 각각 미국과 이란과의 1차전에서 나란히 승리를 거두며 산뜻하게 출발하였다. 한편 독일과의 1차전에서 패한 미국은 2차전에서도 이란에게 패하며 조기에 탈락을 확정지었고, 독일과 유고슬라비아는 서로 비겼다. 2차전에서의 승리로 16강 진출에 실날같은 희망을 잡은 이란은 독일을 상대하였으나, 0-2로 패하였다. 그에 따라 미국과의 경기에서 유고슬라비아의 승리가 절실치 않아도 또다시 승점을 3점 추가해 독일과 승점에서 동률을 이루었다. 그러나, 독일이 골득실에서 2골이나 앞서면서 조 1위를 차지하였다. 3전 전패를 당한 미국은 이 대회를 꼴찌로 마무리했다.
 
@@ -92,7 +92,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/슬로보단_산트라치" title="wikilink">슬로보단 산트라치</a></p></td>
+<td><p><a href="../Page/슬로보단_산트라치.md" title="wikilink">슬로보단 산트라치</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -259,7 +259,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/베르티_포크츠" title="wikilink">베르티 포크츠</a></p></td>
+<td><p><a href="../Page/베르티_포크츠.md" title="wikilink">베르티 포크츠</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -503,7 +503,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/슬로보단_산트라치" title="wikilink">슬로보단 산트라치</a></p></td>
+<td><p><a href="../Page/슬로보단_산트라치.md" title="wikilink">슬로보단 산트라치</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -780,7 +780,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/베르티_포크츠" title="wikilink">베르티 포크츠</a></p></td>
+<td><p><a href="../Page/베르티_포크츠.md" title="wikilink">베르티 포크츠</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -861,7 +861,7 @@
 셀레스티노 갈반 (<a href="https://ko.wikipedia.org/wiki/파라과이_축구_협회" title="wikilink">파라과이</a>)<br />
 호르헤 디아스 갈베스 (<a href="https://ko.wikipedia.org/wiki/칠레_축구_협회" title="wikilink">칠레</a>)<br />
 <strong><a href="https://ko.wikipedia.org/wiki/부심" title="wikilink">대기심</a>:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/하비에르_카스트릴리" title="wikilink">하비에르 카스트릴리</a> (<a href="https://ko.wikipedia.org/wiki/아르헨티나_축구_협회" title="wikilink">아르헨티나</a>)</p></td>
+<a href="https://ko.wikipedia.org/wiki/하비에르_카스트릴리" title="wikilink">하비에르 카스트릴리</a> (<a href="../Page/아르헨티나_축구_협회.md" title="wikilink">아르헨티나</a>)</p></td>
 </tr>
 </tbody>
 </table>
@@ -1020,7 +1020,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/슬로보단_산트라치" title="wikilink">슬로보단 산트라치</a></p></td>
+<td><p><a href="../Page/슬로보단_산트라치.md" title="wikilink">슬로보단 산트라치</a></p></td>
 <td></td>
 </tr>
 </tbody>

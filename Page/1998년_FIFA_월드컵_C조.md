@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [1998 FIFA  C](https://ko.wikipedia.org/wiki/1998_FIFA__C).
 
 
-**1998년 FIFA 월드컵 C조**는 [프랑스](https://ko.wikipedia.org/wiki/프랑스 "wikilink")에서 열린 [1998년 FIFA 월드컵의](https://ko.wikipedia.org/wiki/1998년_FIFA_월드컵 "wikilink") 4팀씩 편성된 8개의 조들 중 하나였다. 첫 경기는 1998년 6월 12일에 열렸고, 마지막 경기는 1998년 6월 24일에 동시에 열렸다.
+**1998년 FIFA 월드컵 C조**는 [프랑스](../Page/프랑스.md "wikilink")에서 열린 [1998년 FIFA 월드컵의](https://ko.wikipedia.org/wiki/1998년_FIFA_월드컵 "wikilink") 4팀씩 편성된 8개의 조들 중 하나였다. 첫 경기는 1998년 6월 12일에 열렸고, 마지막 경기는 1998년 6월 24일에 동시에 열렸다.
 
-이 조는 개최국 [프랑스](https://ko.wikipedia.org/wiki/프랑스_축구_국가대표팀 "wikilink"), 같이 [UEFA에](https://ko.wikipedia.org/wiki/유럽_축구_연맹 "wikilink") 소속된 [덴마크](https://ko.wikipedia.org/wiki/덴마크_축구_국가대표팀 "wikilink"), [CAF](https://ko.wikipedia.org/wiki/아프리카_축구_연맹 "wikilink") 소속의 [남아프리카 공화국](https://ko.wikipedia.org/wiki/남아프리카_공화국_축구_국가대표팀 "wikilink"), 그리고 [AFC](https://ko.wikipedia.org/wiki/아시아_축구_연맹 "wikilink") 대표의 [사우디아라비아로](https://ko.wikipedia.org/wiki/사우디아라비아_축구_국가대표팀 "wikilink") 구성되었다. 경기는 프랑스의 6개의 다른 경기장에서 펼쳐졌다.
+이 조는 개최국 [프랑스](https://ko.wikipedia.org/wiki/프랑스_축구_국가대표팀 "wikilink"), 같이 [UEFA에](../Page/유럽_축구_연맹.md "wikilink") 소속된 [덴마크](../Page/덴마크_축구_국가대표팀.md "wikilink"), [CAF](../Page/아프리카_축구_연맹.md "wikilink") 소속의 [남아프리카 공화국](../Page/남아프리카_공화국_축구_국가대표팀.md "wikilink"), 그리고 [AFC](../Page/아시아_축구_연맹.md "wikilink") 대표의 [사우디아라비아로](../Page/사우디아라비아_축구_국가대표팀.md "wikilink") 구성되었다. 경기는 프랑스의 6개의 다른 경기장에서 펼쳐졌다.
 
-1차전에서는 덴마크와 프랑스가 각각 사우디아라비아와 남아프리카 공화국을 제압하는 것으로 시작되었다. 그 다음 라운드에서 프랑스는 사우디아라비아를 조기 탈락시키며 다음 라운드 진출권을 확보하였으나 [모하메드 알힐라이위가](https://ko.wikipedia.org/wiki/모하메드_알힐라이위 "wikilink") 19분 [빅상트 리자라쥐를](https://ko.wikipedia.org/wiki/빅상트_리자라쥐 "wikilink") 뒤에서 넘어뜨려 퇴장하면서 수적 우위를 점하다가 [지네딘 지단이](https://ko.wikipedia.org/wiki/지네딘_지단 "wikilink") 71분에 공을 경합하기 위해 스터드를 들고 사우디아라비아 주장 [푸아드 안왈을](https://ko.wikipedia.org/wiki/푸아드_아민 "wikilink") 덮친 것으로 인해 퇴장당했다.\[1\] 한편, 덴마크는 남아프리카 공화국에 덜미를 잡혀 비겼다. 최종전에서 승리가 절실한 남아프리카 공화국은 감독까지 교체하는 초강수를 둔 사우디아라비아에게 페널티킥을 두번 얻어맞고 비겼다. 따라서 덴마크는 프랑스와의 최종전에서 패하고도 다음 라운드에 진출할 수 있었다.
+1차전에서는 덴마크와 프랑스가 각각 사우디아라비아와 남아프리카 공화국을 제압하는 것으로 시작되었다. 그 다음 라운드에서 프랑스는 사우디아라비아를 조기 탈락시키며 다음 라운드 진출권을 확보하였으나 [모하메드 알힐라이위가](https://ko.wikipedia.org/wiki/모하메드_알힐라이위 "wikilink") 19분 [빅상트 리자라쥐를](../Page/빅상트_리자라쥐.md "wikilink") 뒤에서 넘어뜨려 퇴장하면서 수적 우위를 점하다가 [지네딘 지단이](https://ko.wikipedia.org/wiki/지네딘_지단 "wikilink") 71분에 공을 경합하기 위해 스터드를 들고 사우디아라비아 주장 [푸아드 안왈을](https://ko.wikipedia.org/wiki/푸아드_아민 "wikilink") 덮친 것으로 인해 퇴장당했다.\[1\] 한편, 덴마크는 남아프리카 공화국에 덜미를 잡혀 비겼다. 최종전에서 승리가 절실한 남아프리카 공화국은 감독까지 교체하는 초강수를 둔 사우디아라비아에게 페널티킥을 두번 얻어맞고 비겼다. 따라서 덴마크는 프랑스와의 최종전에서 패하고도 다음 라운드에 진출할 수 있었다.
 
 ## 순위
 
@@ -92,7 +92,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/카를루스_아우베르투_파헤이라" title="wikilink">카를루스 아우베르투 파헤이라</a></p></td>
+<td><p><a href="../Page/카를루스_아우베르투_파헤이라.md" title="wikilink">카를루스 아우베르투 파헤이라</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -178,7 +178,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/부심" title="wikilink">부심</a>:</strong><br />
-클라우디오 로시 (<a href="https://ko.wikipedia.org/wiki/아르헨티나_축구_협회" title="wikilink">아르헨티나</a>)<br />
+클라우디오 로시 (<a href="../Page/아르헨티나_축구_협회.md" title="wikilink">아르헨티나</a>)<br />
 호르헤 디아스 가르시아 (<a href="https://ko.wikipedia.org/wiki/칠레_축구_협회" title="wikilink">칠레</a>)<br />
 <strong><a href="https://ko.wikipedia.org/wiki/부심" title="wikilink">대기심</a>:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/휴_댈러스" title="wikilink">휴 댈러스</a> (<a href="https://ko.wikipedia.org/wiki/스코틀랜드_축구_협회" title="wikilink">스코틀랜드</a>)</p></td>
@@ -267,7 +267,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/에메_자케" title="wikilink">에메 자케</a></p></td>
+<td><p><a href="../Page/에메_자케.md" title="wikilink">에메 자케</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -336,7 +336,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/필리프_트루시에" title="wikilink">필리프 트루시에</a></p></td>
+<td><p><a href="../Page/필리프_트루시에.md" title="wikilink">필리프 트루시에</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -438,7 +438,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/필리프_트루시에" title="wikilink">필리프 트루시에</a></p></td>
+<td><p><a href="../Page/필리프_트루시에.md" title="wikilink">필리프 트루시에</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -613,7 +613,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/에메_자케" title="wikilink">에메 자케</a></p></td>
+<td><p><a href="../Page/에메_자케.md" title="wikilink">에메 자케</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -686,7 +686,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/카를루스_아우베르투_파헤이라" title="wikilink">카를루스 아우베르투 파헤이라</a></p></td>
+<td><p><a href="../Page/카를루스_아우베르투_파헤이라.md" title="wikilink">카를루스 아우베르투 파헤이라</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -788,7 +788,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/에메_자케" title="wikilink">에메 자케</a></p></td>
+<td><p><a href="../Page/에메_자케.md" title="wikilink">에메 자케</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -963,7 +963,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/필리프_트루시에" title="wikilink">필리프 트루시에</a></p></td>
+<td><p><a href="../Page/필리프_트루시에.md" title="wikilink">필리프 트루시에</a></p></td>
 <td></td>
 </tr>
 </tbody>

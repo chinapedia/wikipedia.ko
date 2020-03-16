@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SNL   ](https://ko.wikipedia.org/wiki/SNL___).
 
 
-다음은 《**[SNL 코리아](https://ko.wikipedia.org/wiki/SNL_코리아 "wikilink")**》에 출연해 온 크루들을 배열한 목록이다.
+다음은 《**[SNL 코리아](../Page/SNL_코리아.md "wikilink")**》에 출연해 온 크루들을 배열한 목록이다.
 
 ## 전체 크루 구성원 목록
 
@@ -30,7 +30,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/이한위" title="wikilink">이한위</a></p></td>
+<td><p><a href="../Page/이한위.md" title="wikilink">이한위</a></p></td>
 <td><p>2011~2012</p></td>
 <td><p>2</p></td>
 <td></td>
@@ -48,7 +48,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/정웅인" title="wikilink">정웅인</a></p></td>
+<td><p><a href="../Page/정웅인.md" title="wikilink">정웅인</a></p></td>
 <td><p>2011~2012</p></td>
 <td><p>1</p></td>
 <td></td>
@@ -57,7 +57,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/장영남" title="wikilink">장영남</a></p></td>
+<td><p><a href="../Page/장영남.md" title="wikilink">장영남</a></p></td>
 <td><p>2011~2012</p></td>
 <td><p>2</p></td>
 <td></td>
@@ -66,7 +66,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/이철민" title="wikilink">이철민</a></p></td>
+<td><p><a href="../Page/이철민.md" title="wikilink">이철민</a></p></td>
 <td><p>2011~2012</p></td>
 <td><p>1</p></td>
 <td></td>
@@ -75,7 +75,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/이상훈_(성우)" title="wikilink">이상훈</a></p></td>
+<td><p><a href="../Page/이상훈_(성우).md" title="wikilink">이상훈</a></p></td>
 <td><p>2011~2013</p></td>
 <td><p>4</p></td>
 <td></td>
@@ -84,7 +84,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/박준서_(배우)" title="wikilink">박준서</a></p></td>
+<td><p><a href="../Page/박준서_(배우).md" title="wikilink">박준서</a></p></td>
 <td><p>2011~2012</p></td>
 <td><p>1</p></td>
 <td></td>
@@ -93,7 +93,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/김빈우" title="wikilink">김빈우</a></p></td>
+<td><p><a href="../Page/김빈우.md" title="wikilink">김빈우</a></p></td>
 <td><p>2011~2012</p></td>
 <td><p>1</p></td>
 <td></td>
@@ -111,7 +111,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/안영미_(희극인)" title="wikilink">안영미</a></p></td>
+<td><p><a href="../Page/안영미_(희극인).md" title="wikilink">안영미</a></p></td>
 <td><p>2011~2017</p></td>
 <td><p>8</p></td>
 <td></td>
@@ -120,7 +120,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/민서현" title="wikilink">민서현</a></p></td>
+<td><p><a href="../Page/민서현.md" title="wikilink">민서현</a></p></td>
 <td><p>2011~2012</p></td>
 <td><p>1</p></td>
 <td></td>
@@ -147,7 +147,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/박은지_(방송인)" title="wikilink">박은지</a></p></td>
+<td><p><a href="../Page/박은지_(방송인).md" title="wikilink">박은지</a></p></td>
 <td><p>2013</p></td>
 <td><p>1</p></td>
 <td></td>
@@ -156,7 +156,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/이병진_(희극인)" title="wikilink">이병진</a></p></td>
+<td><p><a href="../Page/이병진_(희극인).md" title="wikilink">이병진</a></p></td>
 <td><p>2013</p></td>
 <td><p>1</p></td>
 <td></td>
@@ -165,7 +165,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/최일구" title="wikilink">최일구</a></p></td>
+<td><p><a href="../Page/최일구.md" title="wikilink">최일구</a></p></td>
 <td><p>2013</p></td>
 <td><p>1</p></td>
 <td></td>
@@ -174,7 +174,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/김슬기_(배우)" title="wikilink">김슬기</a></p></td>
+<td><p><a href="../Page/김슬기_(배우).md" title="wikilink">김슬기</a></p></td>
 <td><p>2011~2013</p></td>
 <td><p>4</p></td>
 <td></td>
@@ -183,7 +183,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/강성진_(배우)" title="wikilink">강성진</a></p></td>
+<td><p><a href="../Page/강성진_(배우).md" title="wikilink">강성진</a></p></td>
 <td><p>2012</p></td>
 <td><p>1</p></td>
 <td></td>
@@ -192,7 +192,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/이윤석_(희극인)" title="wikilink">이윤석</a></p></td>
+<td><p><a href="../Page/이윤석_(희극인).md" title="wikilink">이윤석</a></p></td>
 <td><p>2013</p></td>
 <td><p>1</p></td>
 <td></td>
@@ -210,7 +210,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/정성호_(희극인)" title="wikilink">정성호</a></p></td>
+<td><p><a href="../Page/정성호_(희극인).md" title="wikilink">정성호</a></p></td>
 <td><p>2012~2017</p></td>
 <td><p>8</p></td>
 <td></td>
@@ -219,7 +219,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/김민교_(배우)" title="wikilink">김민교</a></p></td>
+<td><p><a href="../Page/김민교_(배우).md" title="wikilink">김민교</a></p></td>
 <td><p>2012~2017</p></td>
 <td><p>7</p></td>
 <td></td>
@@ -237,7 +237,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/강유미" title="wikilink">강유미</a></p></td>
+<td><p><a href="../Page/강유미.md" title="wikilink">강유미</a></p></td>
 <td><p>2012/2014~2016</p></td>
 <td><p>4</p></td>
 <td></td>
@@ -246,7 +246,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/임혜영" title="wikilink">임혜영</a></p></td>
+<td><p><a href="../Page/임혜영.md" title="wikilink">임혜영</a></p></td>
 <td><p>2012</p></td>
 <td><p>1</p></td>
 <td></td>
@@ -273,7 +273,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/신동엽_(희극인)" title="wikilink">신동엽</a></p></td>
+<td><p><a href="../Page/신동엽_(희극인).md" title="wikilink">신동엽</a></p></td>
 <td><p>2012~2017</p></td>
 <td><p>7</p></td>
 <td></td>
@@ -282,7 +282,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/오초희" title="wikilink">오초희</a></p></td>
+<td><p><a href="../Page/오초희.md" title="wikilink">오초희</a></p></td>
 <td><p>2012</p></td>
 <td><p>1</p></td>
 <td></td>
@@ -291,7 +291,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/장윤서" title="wikilink">장윤서</a></p></td>
+<td><p><a href="../Page/장윤서.md" title="wikilink">장윤서</a></p></td>
 <td><p>2012</p></td>
 <td><p>1</p></td>
 <td></td>
@@ -300,7 +300,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/서유리" title="wikilink">서유리</a></p></td>
+<td><p><a href="../Page/서유리.md" title="wikilink">서유리</a></p></td>
 <td><p>2012~2014</p></td>
 <td><p>3</p></td>
 <td></td>
@@ -309,7 +309,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/유세윤" title="wikilink">유세윤</a></p></td>
+<td><p><a href="../Page/유세윤.md" title="wikilink">유세윤</a></p></td>
 <td><p>2013~2017</p></td>
 <td><p>6</p></td>
 <td></td>
@@ -318,7 +318,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/박재범" title="wikilink">박재범</a></p></td>
+<td><p><a href="../Page/박재범.md" title="wikilink">박재범</a></p></td>
 <td><p>2013~2015</p></td>
 <td><p>3</p></td>
 <td></td>
@@ -327,7 +327,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/클라라_(배우)" title="wikilink">클라라</a></p></td>
+<td><p><a href="../Page/클라라_(배우).md" title="wikilink">클라라</a></p></td>
 <td><p>2013</p></td>
 <td><p>1</p></td>
 <td></td>
@@ -363,7 +363,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/나르샤" title="wikilink">나르샤</a></p></td>
+<td><p><a href="../Page/나르샤.md" title="wikilink">나르샤</a></p></td>
 <td><p>2014~2015</p></td>
 <td><p>2</p></td>
 <td></td>
@@ -408,7 +408,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/김준현_(희극인)" title="wikilink">김준현</a></p></td>
+<td><p><a href="../Page/김준현_(희극인).md" title="wikilink">김준현</a></p></td>
 <td><p>2015~2017</p></td>
 <td><p>4</p></td>
 <td></td>
@@ -426,7 +426,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/정연주_(배우)" title="wikilink">정연주</a></p></td>
+<td><p><a href="../Page/정연주_(배우).md" title="wikilink">정연주</a></p></td>
 <td><p>2015~2016</p></td>
 <td><p>2</p></td>
 <td></td>
@@ -507,7 +507,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/탁재훈" title="wikilink">탁재훈</a></p></td>
+<td><p><a href="../Page/탁재훈.md" title="wikilink">탁재훈</a></p></td>
 <td><p>2016</p></td>
 <td><p>1</p></td>
 <td></td>
@@ -516,7 +516,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/이수민_(1984년)" title="wikilink">이수민</a></p></td>
+<td><p><a href="../Page/이수민_(1984년).md" title="wikilink">이수민</a></p></td>
 <td><p>2016</p></td>
 <td><p>1</p></td>
 <td></td>
@@ -534,7 +534,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/장도윤" title="wikilink">장도윤</a></p></td>
+<td><p><a href="../Page/장도윤.md" title="wikilink">장도윤</a></p></td>
 <td><p>2016~2017</p></td>
 <td><p>2</p></td>
 <td></td>
@@ -588,7 +588,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/장도연" title="wikilink">장도연</a></p></td>
+<td><p><a href="../Page/장도연.md" title="wikilink">장도연</a></p></td>
 <td><p>2017</p></td>
 <td><p>1</p></td>
 <td></td>

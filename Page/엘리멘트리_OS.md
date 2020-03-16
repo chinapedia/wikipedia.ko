@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ OS](https://ko.wikipedia.org/wiki/_OS).
 
 
-**엘리멘트리 OS**()는 컴퓨터 [운영 체제](https://ko.wikipedia.org/wiki/운영_체제 "wikilink") 중 하나이다. Pantheon 데스크톱 환경을 도입하는 수단으로, 이는 마치 시나몬이 다른 리눅스 배포판에 이용이 가능할 때까지 [리눅스 민트가](https://ko.wikipedia.org/wiki/리눅스_민트 "wikilink") [시나몬 데스크톱 환경을](../Page/시나몬_\(소프트웨어\).md "wikilink") 도입하는 수단으로 사용되었던 것과 비슷하다.
+**엘리멘트리 OS**()는 컴퓨터 [운영 체제](../Page/운영_체제.md "wikilink") 중 하나이다. Pantheon 데스크톱 환경을 도입하는 수단으로, 이는 마치 시나몬이 다른 리눅스 배포판에 이용이 가능할 때까지 [리눅스 민트가](../Page/리눅스_민트.md "wikilink") [시나몬 데스크톱 환경을](../Page/시나몬_\(소프트웨어\).md "wikilink") 도입하는 수단으로 사용되었던 것과 비슷하다.
 
 ## 역사
 
@@ -23,7 +23,7 @@
 
   -
   -
-  - \- [Launchpad.net](https://ko.wikipedia.org/wiki/런치패드 "wikilink")
+  - \- [Launchpad.net](../Page/런치패드.md "wikilink")
 
   -
 [분류:리눅스 배포판](https://ko.wikipedia.org/wiki/분류:리눅스_배포판 "wikilink")

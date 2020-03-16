@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TV    ](https://ko.wikipedia.org/wiki/TV____).
 
 
-《**TV 아사히 · ABC 금요일 밤 드라마**》는 [TV 아사히](https://ko.wikipedia.org/wiki/TV_아사히 "wikilink") 계열 전국 넷으로 매주 [금요일](https://ko.wikipedia.org/wiki/금요일 "wikilink") 21:00에서 방송된 [아사히 방송제작](https://ko.wikipedia.org/wiki/아사히_방송 "wikilink") 드라마 정원의 일람이다. 여기에서는 주로 《더 교수형》 시리즈나 《적카브 검사 분전》 시리즈가 인기를 모았던 [1977년](https://ko.wikipedia.org/wiki/1977년 "wikilink") [10월](https://ko.wikipedia.org/wiki/10월 "wikilink")부터 [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink") [9월](https://ko.wikipedia.org/wiki/9월 "wikilink")까지 10년간 혹은 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink")부터 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink") 방송 아사히와의 공동 제작 드라마 틀(이 테두리는 《김 9(균형)신기》이란 호칭이 있었다)을 중심으로 다룬다.
+《**TV 아사히 · ABC 금요일 밤 드라마**》는 [TV 아사히](../Page/TV_아사히.md "wikilink") 계열 전국 넷으로 매주 [금요일](../Page/금요일.md "wikilink") 21:00에서 방송된 [아사히 방송제작](../Page/아사히_방송.md "wikilink") 드라마 정원의 일람이다. 여기에서는 주로 《더 교수형》 시리즈나 《적카브 검사 분전》 시리즈가 인기를 모았던 [1977년](../Page/1977년.md "wikilink") [10월](../Page/10월.md "wikilink")부터 [1987년](../Page/1987년.md "wikilink") [9월](../Page/9월.md "wikilink")까지 10년간 혹은 [2006년](../Page/2006년.md "wikilink") [4월](../Page/4월.md "wikilink")부터 [2011년](../Page/2011년.md "wikilink") [3월](../Page/3월.md "wikilink") 방송 아사히와의 공동 제작 드라마 틀(이 테두리는 《김 9(균형)신기》이란 호칭이 있었다)을 중심으로 다룬다.
 
 ## 개요
 
@@ -12,23 +12,23 @@
 
 ### 1977년
 
-  - 《오쿠도한》 [1977년](https://ko.wikipedia.org/wiki/1977년 "wikilink") [10월 4일](https://ko.wikipedia.org/wiki/10월_4일 "wikilink") \~ [1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink") [4월 7일](https://ko.wikipedia.org/wiki/4월_7일 "wikilink")
+  - 《오쿠도한》 [1977년](../Page/1977년.md "wikilink") [10월 4일](../Page/10월_4일.md "wikilink") \~ [1978년](../Page/1978년.md "wikilink") [4월 7일](../Page/4월_7일.md "wikilink")
 
 ### 1978년
 
-  - 《도쿄 메그레 경찰 시리즈》 [1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink") [4월 14일](https://ko.wikipedia.org/wiki/4월_14일 "wikilink") \~ [1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink") [9월 29일](https://ko.wikipedia.org/wiki/9월_29일 "wikilink")
-  - 《체크메이트 24》[1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink") [10월 6일](https://ko.wikipedia.org/wiki/10월_6일 "wikilink") \~ [1979년](https://ko.wikipedia.org/wiki/1979년 "wikilink") [3월 9일](https://ko.wikipedia.org/wiki/3월_9일 "wikilink")
+  - 《도쿄 메그레 경찰 시리즈》 [1978년](../Page/1978년.md "wikilink") [4월 14일](../Page/4월_14일.md "wikilink") \~ [1978년](../Page/1978년.md "wikilink") [9월 29일](../Page/9월_29일.md "wikilink")
+  - 《체크메이트 24》[1978년](../Page/1978년.md "wikilink") [10월 6일](../Page/10월_6일.md "wikilink") \~ [1979년](../Page/1979년.md "wikilink") [3월 9일](../Page/3월_9일.md "wikilink")
 
 ### 1979년
 
-  - 《속 오쿠도한》 [1979년](https://ko.wikipedia.org/wiki/1979년 "wikilink") [3월 23일](https://ko.wikipedia.org/wiki/3월_23일 "wikilink") \~ [9월 28일](https://ko.wikipedia.org/wiki/9월_28일 "wikilink")
-  - 《낯선 연인》 [1979년](https://ko.wikipedia.org/wiki/1979년 "wikilink") [10월 5일](https://ko.wikipedia.org/wiki/10월_5일 "wikilink") \~ [1980년](https://ko.wikipedia.org/wiki/1980년 "wikilink") [3월 7일](https://ko.wikipedia.org/wiki/3월_7일 "wikilink")
+  - 《속 오쿠도한》 [1979년](../Page/1979년.md "wikilink") [3월 23일](../Page/3월_23일.md "wikilink") \~ [9월 28일](../Page/9월_28일.md "wikilink")
+  - 《낯선 연인》 [1979년](../Page/1979년.md "wikilink") [10월 5일](../Page/10월_5일.md "wikilink") \~ [1980년](../Page/1980년.md "wikilink") [3월 7일](../Page/3월_7일.md "wikilink")
 
 ### 1980년
 
-  - 《동정 사카 여관》 [1980년](https://ko.wikipedia.org/wiki/1980년 "wikilink") [3월 14일](https://ko.wikipedia.org/wiki/3월_14일 "wikilink") \~ [9월 19일](https://ko.wikipedia.org/wiki/9월_19일 "wikilink")
-  - 《적카브 검사 분전기》 [1980년](https://ko.wikipedia.org/wiki/1980년 "wikilink") [10월 3일](https://ko.wikipedia.org/wiki/10월_3일 "wikilink") \~ [10월 31일](https://ko.wikipedia.org/wiki/10월_31일 "wikilink")
-  - 《더 교수형》 [1980년](https://ko.wikipedia.org/wiki/1980년 "wikilink") [11월 14일](https://ko.wikipedia.org/wiki/11월_14일 "wikilink") \~ [1981년](https://ko.wikipedia.org/wiki/1981년 "wikilink") [11월 6일](https://ko.wikipedia.org/wiki/11월_6일 "wikilink")
+  - 《동정 사카 여관》 [1980년](../Page/1980년.md "wikilink") [3월 14일](../Page/3월_14일.md "wikilink") \~ [9월 19일](../Page/9월_19일.md "wikilink")
+  - 《적카브 검사 분전기》 [1980년](../Page/1980년.md "wikilink") [10월 3일](../Page/10월_3일.md "wikilink") \~ [10월 31일](../Page/10월_31일.md "wikilink")
+  - 《더 교수형》 [1980년](../Page/1980년.md "wikilink") [11월 14일](../Page/11월_14일.md "wikilink") \~ [1981년](../Page/1981년.md "wikilink") [11월 6일](../Page/11월_6일.md "wikilink")
 
 ## 같이 보기
 

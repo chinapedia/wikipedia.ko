@@ -3,7 +3,7 @@
 
 **EAR**(Enterprise ARchive)은 하나 이상의 모듈들은 하나의 아카이브로 묶어서 여러 [모듈이](https://ko.wikipedia.org/wiki/자바_EE_애플리케이션 "wikilink") [애플리케이션 서버에](https://ko.wikipedia.org/wiki/애플리케이션_서버 "wikilink") 동시에 일관성 있게 배치될 수 있도록 하기 위한 [자바 EE에](https://ko.wikipedia.org/wiki/자바_EE "wikilink") 쓰이는 [파일 형식이다](https://ko.wikipedia.org/wiki/파일_형식 "wikilink").
 
-[앤트](https://ko.wikipedia.org/wiki/아파치_앤트 "wikilink"), [메이븐](../Page/아파치_메이븐.md "wikilink"), [Gradle](../Page/Gradle.md "wikilink")이 EAR 파일을 빌드하는데 사용될 수 있다.
+[앤트](../Page/아파치_앤트.md "wikilink"), [메이븐](../Page/아파치_메이븐.md "wikilink"), [Gradle](../Page/Gradle.md "wikilink")이 EAR 파일을 빌드하는데 사용될 수 있다.
 
 ## 파일 구조
 
@@ -12,8 +12,8 @@ EAR 파일은 .ear 확장자를 가진 표준 [JAR 파일](../Page/JAR_\(파일_
 ### 모듈
 
   - 웹 모듈은 [.war](../Page/WAR_\(파일_포맷\).md "wikilink") 확장자를 지닌다.
-  - [POJO](https://ko.wikipedia.org/wiki/POJO "wikilink") 자바 클래스는 [.jar](https://ko.wikipedia.org/wiki/.jar "wikilink") 파일 안에 배치될 수 있다. 하나 이상의 웹 구성 요소, 다른 리소스, [웹 애플리케이션](https://ko.wikipedia.org/wiki/웹_애플리케이션 "wikilink") [배치 서술자로](https://ko.wikipedia.org/wiki/배치_서술자 "wikilink") 이루어진 배치 가능한 단위이다. 이 웹 모듈은 표준 웹 애플리케이션 포맷 내의 디렉터리, 파일 [계층](https://ko.wikipedia.org/wiki/계층 "wikilink") 안에 포함된다.
-  - [엔터프라이즈 자바빈즈](https://ko.wikipedia.org/wiki/엔터프라이즈_자바빈즈 "wikilink") 모듈은 [.jar](https://ko.wikipedia.org/wiki/.jar "wikilink") 확장자를 지니며 영구적으로 배치된 클래스를 기술하는 자신만의 META-INF 디렉터리 서술자가 있다.
+  - [POJO](https://ko.wikipedia.org/wiki/POJO "wikilink") 자바 클래스는 [.jar](https://ko.wikipedia.org/wiki/.jar "wikilink") 파일 안에 배치될 수 있다. 하나 이상의 웹 구성 요소, 다른 리소스, [웹 애플리케이션](../Page/웹_애플리케이션.md "wikilink") [배치 서술자로](https://ko.wikipedia.org/wiki/배치_서술자 "wikilink") 이루어진 배치 가능한 단위이다. 이 웹 모듈은 표준 웹 애플리케이션 포맷 내의 디렉터리, 파일 [계층](../Page/계층.md "wikilink") 안에 포함된다.
+  - [엔터프라이즈 자바빈즈](../Page/엔터프라이즈_자바빈즈.md "wikilink") 모듈은 [.jar](https://ko.wikipedia.org/wiki/.jar "wikilink") 확장자를 지니며 영구적으로 배치된 클래스를 기술하는 자신만의 META-INF 디렉터리 서술자가 있다.
   - [리소스 어댑터](https://ko.wikipedia.org/wiki/JCA "wikilink") 모듈은 .rar 확장자를 지닌다.
 
 ### META-INF 디렉터리

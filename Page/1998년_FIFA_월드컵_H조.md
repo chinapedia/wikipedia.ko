@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [1998 FIFA  H](https://ko.wikipedia.org/wiki/1998_FIFA__H).
 
 
-**1998년 FIFA 월드컵 H조**는 [프랑스](https://ko.wikipedia.org/wiki/프랑스 "wikilink")에서 열린 [1998년 FIFA 월드컵의](https://ko.wikipedia.org/wiki/1998년_FIFA_월드컵 "wikilink") 4팀씩 편성된 8개의 조들 중 하나였다. 첫 경기는 1998년 6월 14일에 열렸고, 마지막 경기는 1998년 6월 26일에 동시에 열렸다.
+**1998년 FIFA 월드컵 H조**는 [프랑스](../Page/프랑스.md "wikilink")에서 열린 [1998년 FIFA 월드컵의](https://ko.wikipedia.org/wiki/1998년_FIFA_월드컵 "wikilink") 4팀씩 편성된 8개의 조들 중 하나였다. 첫 경기는 1998년 6월 14일에 열렸고, 마지막 경기는 1998년 6월 26일에 동시에 열렸다.
 
-이 조는 [CONMEBOL](https://ko.wikipedia.org/wiki/남아메리카_축구_연맹 "wikilink") 대표의 [아르헨티나와](https://ko.wikipedia.org/wiki/아르헨티나_축구_국가대표팀 "wikilink") 이 대회에 첫출전한 4개국 중 3국가인 [일본](https://ko.wikipedia.org/wiki/일본_축구_국가대표팀 "wikilink"), [자메이카](https://ko.wikipedia.org/wiki/자메이카_축구_국가대표팀 "wikilink"), 그리고 [크로아티아가](https://ko.wikipedia.org/wiki/크로아티아_축구_국가대표팀 "wikilink") 함께 편성되었다. [일본은](https://ko.wikipedia.org/wiki/일본_축구_국가대표팀 "wikilink") [AFC](https://ko.wikipedia.org/wiki/아시아_축구_연맹 "wikilink") 대표로, [자메이카는](https://ko.wikipedia.org/wiki/자메이카_축구_국가대표팀 "wikilink") [CONCACAF](https://ko.wikipedia.org/wiki/북중미카리브_축구_연맹 "wikilink") 소속으로, 그리고 [크로아티아는](https://ko.wikipedia.org/wiki/크로아티아_축구_국가대표팀 "wikilink") [UEFA의](https://ko.wikipedia.org/wiki/유럽_축구_연맹 "wikilink") 일원이다.
+이 조는 [CONMEBOL](https://ko.wikipedia.org/wiki/남아메리카_축구_연맹 "wikilink") 대표의 [아르헨티나와](https://ko.wikipedia.org/wiki/아르헨티나_축구_국가대표팀 "wikilink") 이 대회에 첫출전한 4개국 중 3국가인 [일본](https://ko.wikipedia.org/wiki/일본_축구_국가대표팀 "wikilink"), [자메이카](../Page/자메이카_축구_국가대표팀.md "wikilink"), 그리고 [크로아티아가](../Page/크로아티아_축구_국가대표팀.md "wikilink") 함께 편성되었다. [일본은](https://ko.wikipedia.org/wiki/일본_축구_국가대표팀 "wikilink") [AFC](../Page/아시아_축구_연맹.md "wikilink") 대표로, [자메이카는](../Page/자메이카_축구_국가대표팀.md "wikilink") [CONCACAF](../Page/북중미카리브_축구_연맹.md "wikilink") 소속으로, 그리고 [크로아티아는](../Page/크로아티아_축구_국가대표팀.md "wikilink") [UEFA의](../Page/유럽_축구_연맹.md "wikilink") 일원이다.
 
-아르헨티나는 자국의 주포인 [가브리엘 바티스투타를](https://ko.wikipedia.org/wiki/가브리엘_바티스투타 "wikilink") 앞세워 일본전 (1-0) 과 자메이카전 (5-0) 에서 모두 승리를 거두어 다음 라운드 진출을 확정지었다. 바티스투타는 두 경기에서 모두 결승골을 뽑았으며, 자메이카전 해트트릭으로 FIFA 월드컵 두 대회 연속 해트트릭의 기록을 세웠다. 크로아티아도 이와 마찬가지로 주포인 [다보르 슈케르를](https://ko.wikipedia.org/wiki/다보르_슈케르 "wikilink") 앞세워 자메이카전 (3-1) 과 일본전 (1-0) 에서 연달아 승리를 거두고 마찬가지로 1경기를 남겨놓고 16강 진출을 확정지었다. 최종전에서는 아르헨티나와 크로아티아가 조 1위를 놓고 경합하였으며, 여기서 1-0으로 승리한 아르헨티나가 3전전승으로 조별 리그를 1위로 마무리했다. 이 대회의 32개 참가국 들 중 아르헨티나는 조별리그에서 유일하게 실점을 기록하지 않았다. 이미 탈락을 확정지은 자메이카와 일본도 서로 맞대결을 펼쳤고, 여기에서 2-1로 승리한 자메이카가 웃었다. 자메이카는 1938년 대회에 쿠바 이후로 FIFA 월드컵 본선에서 승리를 거둔 카리브해 국가가 되었다. 이 대회 또한 프랑스에서 개최했다. 일본은 세 경기를 모두 한골차 (아르헨티나전 0-1, 크로아티아전 0-1, 자메이카전 1-2) 로 패하였으나, 자메이카와의 최종전에서 첫 득점에 성공하는 성과를 거두었다.
+아르헨티나는 자국의 주포인 [가브리엘 바티스투타를](../Page/가브리엘_바티스투타.md "wikilink") 앞세워 일본전 (1-0) 과 자메이카전 (5-0) 에서 모두 승리를 거두어 다음 라운드 진출을 확정지었다. 바티스투타는 두 경기에서 모두 결승골을 뽑았으며, 자메이카전 해트트릭으로 FIFA 월드컵 두 대회 연속 해트트릭의 기록을 세웠다. 크로아티아도 이와 마찬가지로 주포인 [다보르 슈케르를](../Page/다보르_슈케르.md "wikilink") 앞세워 자메이카전 (3-1) 과 일본전 (1-0) 에서 연달아 승리를 거두고 마찬가지로 1경기를 남겨놓고 16강 진출을 확정지었다. 최종전에서는 아르헨티나와 크로아티아가 조 1위를 놓고 경합하였으며, 여기서 1-0으로 승리한 아르헨티나가 3전전승으로 조별 리그를 1위로 마무리했다. 이 대회의 32개 참가국 들 중 아르헨티나는 조별리그에서 유일하게 실점을 기록하지 않았다. 이미 탈락을 확정지은 자메이카와 일본도 서로 맞대결을 펼쳤고, 여기에서 2-1로 승리한 자메이카가 웃었다. 자메이카는 1938년 대회에 쿠바 이후로 FIFA 월드컵 본선에서 승리를 거둔 카리브해 국가가 되었다. 이 대회 또한 프랑스에서 개최했다. 일본은 세 경기를 모두 한골차 (아르헨티나전 0-1, 크로아티아전 0-1, 자메이카전 1-2) 로 패하였으나, 자메이카와의 최종전에서 첫 득점에 성공하는 성과를 거두었다.
 
 ## 순위
 
@@ -88,7 +88,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/다니엘_파사레야" title="wikilink">다니엘 파사레야</a></p></td>
+<td><p><a href="../Page/다니엘_파사레야.md" title="wikilink">다니엘 파사레야</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -157,7 +157,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/오카다_다케시" title="wikilink">오카다 다케시</a></p></td>
+<td><p><a href="../Page/오카다_다케시.md" title="wikilink">오카다 다케시</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -426,7 +426,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/오카다_다케시" title="wikilink">오카다 다케시</a></p></td>
+<td><p><a href="../Page/오카다_다케시.md" title="wikilink">오카다 다케시</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -601,7 +601,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/다니엘_파사레야" title="wikilink">다니엘 파사레야</a></p></td>
+<td><p><a href="../Page/다니엘_파사레야.md" title="wikilink">다니엘 파사레야</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -690,7 +690,7 @@
 미카엘 닐손 (<a href="https://ko.wikipedia.org/wiki/스웨덴_축구_협회" title="wikilink">스웨덴</a>)<br />
 젠나로 마체이 (<a href="../Page/이탈리아_축구_연맹.md" title="wikilink">이탈리아</a>)<br />
 <strong><a href="https://ko.wikipedia.org/wiki/부심" title="wikilink">대기심</a>:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/피에를루이지_콜리나" title="wikilink">피에를루이지 콜리나</a> (<a href="../Page/이탈리아_축구_연맹.md" title="wikilink">이탈리아</a>)</p></td>
+<a href="../Page/피에를루이지_콜리나.md" title="wikilink">피에를루이지 콜리나</a> (<a href="../Page/이탈리아_축구_연맹.md" title="wikilink">이탈리아</a>)</p></td>
 </tr>
 </tbody>
 </table>
@@ -776,7 +776,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/다니엘_파사레야" title="wikilink">다니엘 파사레야</a></p></td>
+<td><p><a href="../Page/다니엘_파사레야.md" title="wikilink">다니엘 파사레야</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -947,7 +947,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/오카다_다케시" title="wikilink">오카다 다케시</a></p></td>
+<td><p><a href="../Page/오카다_다케시.md" title="wikilink">오카다 다케시</a></p></td>
 <td></td>
 </tr>
 </tbody>

@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [1998 FIFA  D](https://ko.wikipedia.org/wiki/1998_FIFA__D).
 
 
-**1998년 FIFA 월드컵 D조**는 [프랑스](https://ko.wikipedia.org/wiki/프랑스 "wikilink")에서 열린 [1998년 FIFA 월드컵의](https://ko.wikipedia.org/wiki/1998년_FIFA_월드컵 "wikilink") 4팀씩 편성된 8개의 조들 중 하나였다. 첫 경기는 1998년 6월 12일에 열렸고, 마지막 경기는 1998년 6월 24일에 동시에 열렸다.
+**1998년 FIFA 월드컵 D조**는 [프랑스](../Page/프랑스.md "wikilink")에서 열린 [1998년 FIFA 월드컵의](https://ko.wikipedia.org/wiki/1998년_FIFA_월드컵 "wikilink") 4팀씩 편성된 8개의 조들 중 하나였다. 첫 경기는 1998년 6월 12일에 열렸고, 마지막 경기는 1998년 6월 24일에 동시에 열렸다.
 
-이 조는 [스페인](https://ko.wikipedia.org/wiki/스페인_축구_국가대표팀 "wikilink"), [나이지리아](https://ko.wikipedia.org/wiki/나이지리아_축구_국가대표팀 "wikilink"), [파라과이](https://ko.wikipedia.org/wiki/파라과이_축구_국가대표팀 "wikilink"), 그리고 [불가리아로](https://ko.wikipedia.org/wiki/불가리아_축구_국가대표팀 "wikilink") 구성되어 있었다. 경기는 프랑스의 6개의 다른 경기장에서 펼쳐졌다.
+이 조는 [스페인](../Page/스페인_축구_국가대표팀.md "wikilink"), [나이지리아](../Page/나이지리아_축구_국가대표팀.md "wikilink"), [파라과이](../Page/파라과이_축구_국가대표팀.md "wikilink"), 그리고 [불가리아로](../Page/불가리아_축구_국가대표팀.md "wikilink") 구성되어 있었다. 경기는 프랑스의 6개의 다른 경기장에서 펼쳐졌다.
 
-D조 1차전에서 이 대회에 참가하는 팀들 중 [FIFA 랭킹이](https://ko.wikipedia.org/wiki/FIFA_랭킹 "wikilink") 가장 낮은 나이지리아가 톱시드국들 중 하나로 선정된 스페인을 3-2로 역전 격침시켰다. 나이지리아는 이어서 불가리아에 1-0으로 승리하며 조 1위로 16강 진출을 확정하는 파란을 일으켰다. 처음 두 경기를 모두 득점 없이 비긴 파라과이는 최종전에서 이미 16강 진출을 확정시킨 나이지리아를 3-1로 꺾고 조 2위로 16강에 합류하였다. 스페인은 최종전에서 불가리아에 6골이나 퍼부으며 첫 승을 신고했으나, 승점 4점으로는 다음 라운드로 진출하기에 부족했다. 스페인은 이 대회의 톱시드국들 중 유일하게 16강 진출에 실패하였다. 전 대회 4위의 성적을 낸 불가리아는 그 업적이 무색하게 파라과이와의 첫 경기를 0-0으로 비긴 것을 제외하고는 실망스러운 모습만을 보이며 승점 1점, 조 최하위로 탈락하였다.
+D조 1차전에서 이 대회에 참가하는 팀들 중 [FIFA 랭킹이](../Page/FIFA_랭킹.md "wikilink") 가장 낮은 나이지리아가 톱시드국들 중 하나로 선정된 스페인을 3-2로 역전 격침시켰다. 나이지리아는 이어서 불가리아에 1-0으로 승리하며 조 1위로 16강 진출을 확정하는 파란을 일으켰다. 처음 두 경기를 모두 득점 없이 비긴 파라과이는 최종전에서 이미 16강 진출을 확정시킨 나이지리아를 3-1로 꺾고 조 2위로 16강에 합류하였다. 스페인은 최종전에서 불가리아에 6골이나 퍼부으며 첫 승을 신고했으나, 승점 4점으로는 다음 라운드로 진출하기에 부족했다. 스페인은 이 대회의 톱시드국들 중 유일하게 16강 진출에 실패하였다. 전 대회 4위의 성적을 낸 불가리아는 그 업적이 무색하게 파라과이와의 첫 경기를 0-0으로 비긴 것을 제외하고는 실망스러운 모습만을 보이며 승점 1점, 조 최하위로 탈락하였다.
 
 ## 순위
 
@@ -263,7 +263,7 @@ D조 1차전에서 이 대회에 참가하는 팀들 중 [FIFA 랭킹이](https:
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/하비에르_클레멘테" title="wikilink">하비에르 클레멘테</a></p></td>
+<td><p><a href="../Page/하비에르_클레멘테.md" title="wikilink">하비에르 클레멘테</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -336,7 +336,7 @@ D조 1차전에서 이 대회에 참가하는 팀들 중 [FIFA 랭킹이](https:
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/보라_밀루티노비치" title="wikilink">보라 밀루티노비치</a></p></td>
+<td><p><a href="../Page/보라_밀루티노비치.md" title="wikilink">보라 밀루티노비치</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -438,7 +438,7 @@ D조 1차전에서 이 대회에 참가하는 팀들 중 [FIFA 랭킹이](https:
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/보라_밀루티노비치" title="wikilink">보라 밀루티노비치</a></p></td>
+<td><p><a href="../Page/보라_밀루티노비치.md" title="wikilink">보라 밀루티노비치</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -613,7 +613,7 @@ D조 1차전에서 이 대회에 참가하는 팀들 중 [FIFA 랭킹이](https:
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/하비에르_클레멘테" title="wikilink">하비에르 클레멘테</a></p></td>
+<td><p><a href="../Page/하비에르_클레멘테.md" title="wikilink">하비에르 클레멘테</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -788,7 +788,7 @@ D조 1차전에서 이 대회에 참가하는 팀들 중 [FIFA 랭킹이](https:
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/하비에르_클레멘테" title="wikilink">하비에르 클레멘테</a></p></td>
+<td><p><a href="../Page/하비에르_클레멘테.md" title="wikilink">하비에르 클레멘테</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -875,7 +875,7 @@ D조 1차전에서 이 대회에 참가하는 팀들 중 [FIFA 랭킹이](https:
 <tr class="odd">
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/부심" title="wikilink">부심</a>:</strong><br />
 니콜라에 그리고레스쿠 (<a href="https://ko.wikipedia.org/wiki/루마니아_축구_협회" title="wikilink">루마니아</a>)<br />
-클라우디오 로시 (<a href="https://ko.wikipedia.org/wiki/아르헨티나_축구_협회" title="wikilink">아르헨티나</a>)<br />
+클라우디오 로시 (<a href="../Page/아르헨티나_축구_협회.md" title="wikilink">아르헨티나</a>)<br />
 <strong><a href="https://ko.wikipedia.org/wiki/부심" title="wikilink">대기심</a>:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/니콜라이_레브니코프" title="wikilink">니콜라이 레브니코프</a> (<a href="https://ko.wikipedia.org/wiki/러시아_축구_협회" title="wikilink">러시아</a>)</p></td>
 </tr>
@@ -959,7 +959,7 @@ D조 1차전에서 이 대회에 참가하는 팀들 중 [FIFA 랭킹이](https:
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/보라_밀루티노비치" title="wikilink">보라 밀루티노비치</a></p></td>
+<td><p><a href="../Page/보라_밀루티노비치.md" title="wikilink">보라 밀루티노비치</a></p></td>
 <td></td>
 </tr>
 </tbody>

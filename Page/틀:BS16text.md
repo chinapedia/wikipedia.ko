@@ -30,4 +30,4 @@
 
   - 파라미터 키워드 PX: 폭 (예 PX=50px). 기본값은 .
 
-[위키백과:철도 노선도 틀도](https://ko.wikipedia.org/wiki/위키백과:철도_노선도_틀 "wikilink") 참고하세요. [분류:위키백과:철도 노선도 틀](https://ko.wikipedia.org/wiki/분류:위키백과:철도_노선도_틀 "wikilink") </noinclude>
+[위키백과:철도 노선도 틀도](../Page/위키백과:철도_노선도_틀.md "wikilink") 참고하세요. [분류:위키백과:철도 노선도 틀](https://ko.wikipedia.org/wiki/분류:위키백과:철도_노선도_틀 "wikilink") </noinclude>

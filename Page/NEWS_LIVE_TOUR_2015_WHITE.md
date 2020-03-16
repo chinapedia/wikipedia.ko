@@ -5,7 +5,7 @@
 
 ## 개요
 
-[2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink")에 개최된 전국 투어 내에서, 투어 파이널이 된 [6월 14일의](https://ko.wikipedia.org/wiki/6월_14일 "wikilink") [도쿄 돔](https://ko.wikipedia.org/wiki/도쿄_돔 "wikilink") 모습을 수록했다.
+[2015년](../Page/2015년.md "wikilink")에 개최된 전국 투어 내에서, 투어 파이널이 된 [6월 14일의](../Page/6월_14일.md "wikilink") [도쿄 돔](../Page/도쿄_돔.md "wikilink") 모습을 수록했다.
 
 ## 수록 내용
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [RUN TO THE FUTURE](https://ko.wikipedia.org/wiki/RUN_TO_THE_FUTURE).
 
 
-〈**RUN TO THE FUTURE**〉(런 투 더 푸처, )는 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [3월 10일에](https://ko.wikipedia.org/wiki/3월_10일 "wikilink") [에이벡스 트랙스에서](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") 발매된 [Dream5](https://ko.wikipedia.org/wiki/Dream5 "wikilink")의 첫 [미니음반이다](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink").
+〈**RUN TO THE FUTURE**〉(런 투 더 푸처, )는 [2010년](../Page/2010년.md "wikilink") [3월 10일에](../Page/3월_10일.md "wikilink") [에이벡스 트랙스에서](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") 발매된 [Dream5](https://ko.wikipedia.org/wiki/Dream5 "wikilink")의 첫 [미니음반이다](../Page/익스텐디드_플레이.md "wikilink").
 
 ## 개요
 

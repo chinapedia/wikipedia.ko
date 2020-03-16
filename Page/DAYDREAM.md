@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DAYDREAM](https://ko.wikipedia.org/wiki/DAYDREAM).
 
 
-《**DAYDREAM**》은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [보이 밴드](https://ko.wikipedia.org/wiki/보이_밴드 "wikilink") DAY6의 두 번째 EP이다. 타이틀곡은 〈**놓아 놓아 놓아**〉이며, [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [3월 30일](https://ko.wikipedia.org/wiki/3월_30일 "wikilink") 지니뮤직에서 발매되었다.
+《**DAYDREAM**》은 [대한민국](../Page/대한민국.md "wikilink")의 [보이 밴드](https://ko.wikipedia.org/wiki/보이_밴드 "wikilink") DAY6의 두 번째 EP이다. 타이틀곡은 〈**놓아 놓아 놓아**〉이며, [2016년](../Page/2016년.md "wikilink") [3월 30일](../Page/3월_30일.md "wikilink") 지니뮤직에서 발매되었다.
 
 ## 수록곡
 

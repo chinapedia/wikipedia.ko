@@ -5,7 +5,7 @@
 
 ## Hella
 
-Hella는 [캘리포니아주](https://ko.wikipedia.org/wiki/캘리포니아주 "wikilink") 일부에서 쓰이는 속어이다. [캘리포니아 대학교 데이비스](https://ko.wikipedia.org/wiki/캘리포니아_대학교_데이비스 "wikilink") 학생은 hella를 10의 27제곱을 가리키는 말로 쓰자고 제안했다.\[1\]
+Hella는 [캘리포니아주](../Page/캘리포니아주.md "wikilink") 일부에서 쓰이는 속어이다. [캘리포니아 대학교 데이비스](../Page/캘리포니아_대학교_데이비스.md "wikilink") 학생은 hella를 10의 27제곱을 가리키는 말로 쓰자고 제안했다.\[1\]
 
 ## Brian C. Lacki의 제안
 
@@ -33,7 +33,7 @@ Hella는 [캘리포니아주](https://ko.wikipedia.org/wiki/캘리포니아주 "
 
 <references/>
 
-[미발견 원자 명명법](https://ko.wikipedia.org/wiki/체계적_원소_이름 "wikilink")
+[미발견 원자 명명법](../Page/체계적_원소_이름.md "wikilink")
 [분류:SI 단위계](https://ko.wikipedia.org/wiki/분류:SI_단위계 "wikilink") [분류:단위](https://ko.wikipedia.org/wiki/분류:단위 "wikilink")
 
 1.  [1](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=103&oid=001&aid=0003155384)
