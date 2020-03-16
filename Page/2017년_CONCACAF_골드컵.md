@@ -1,34 +1,34 @@
 > This article is converted from Wikipedia: [2017 CONCACAF ](https://ko.wikipedia.org/wiki/2017_CONCACAF_).
 
 
-**2017년 CONCACAF 골드컵**(2017 CONCACAF Gold Cup)은 [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [7월 7일부터](https://ko.wikipedia.org/wiki/7월_7일 "wikilink") [7월 26일까지](https://ko.wikipedia.org/wiki/7월_26일 "wikilink") [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")에서 개최된 14번째 [CONCACAF 골드컵이다](https://ko.wikipedia.org/wiki/CONCACAF_골드컵 "wikilink").
+**2017년 CONCACAF 골드컵**(2017 CONCACAF Gold Cup)은 [2017년](../Page/2017년.md "wikilink") [7월 7일부터](../Page/7월_7일.md "wikilink") [7월 26일까지](../Page/7월_26일.md "wikilink") [미국](../Page/미국.md "wikilink")에서 개최된 14번째 [CONCACAF 골드컵이다](../Page/CONCACAF_골드컵.md "wikilink").
 
 ## 개최 도시 및 경기장
 
 개최 도시 및 경기장은 다음과 같다.
 
-| 도시                                                                                                                              | 경기장                                                                               | 수용인원    |
-| ------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ------- |
-| [클리블랜드](https://ko.wikipedia.org/wiki/클리블랜드 "wikilink")                                                                         | [퍼스트에너지 스타디움](../Page/퍼스트에너지_스타디움.md "wikilink")                                  | 67,431  |
-| [덴버](https://ko.wikipedia.org/wiki/덴버 "wikilink")                                                                               | [스포츠 어서리티 필드 앳 마일하이](https://ko.wikipedia.org/wiki/스포츠_어서리티_필드_앳_마일하이 "wikilink") | 76,125  |
-| [프리스코](https://ko.wikipedia.org/wiki/프리스코_\(텍사스주\) "wikilink") ([댈러스](https://ko.wikipedia.org/wiki/댈러스 "wikilink"))            | [도요타 스타디움](https://ko.wikipedia.org/wiki/도요타_스타디움_\(텍사스주\) "wikilink")            | 16,000  |
-| [알링턴](https://ko.wikipedia.org/wiki/알링턴_\(텍사스주\) "wikilink") ([댈러스](https://ko.wikipedia.org/wiki/댈러스 "wikilink"))              | [AT\&T 스타디움](https://ko.wikipedia.org/wiki/AT&T_스타디움 "wikilink")                  | 100,000 |
-| [해리슨](https://ko.wikipedia.org/wiki/해리슨_\(뉴저지주\) "wikilink") ([뉴욕](https://ko.wikipedia.org/wiki/뉴욕 "wikilink"))                | [레드불 아레나](https://ko.wikipedia.org/wiki/레드불_아레나_\(뉴저지주\) "wikilink")              | 25,000  |
-| [휴스턴](https://ko.wikipedia.org/wiki/휴스턴 "wikilink")                                                                             | [BBVA 컴패스 스타디움](../Page/BBVA_컴패스_스타디움.md "wikilink")                              | 22,000  |
-| [내슈빌](https://ko.wikipedia.org/wiki/내슈빌 "wikilink")                                                                             | [닛산 스타디움](https://ko.wikipedia.org/wiki/닛산_스타디움_\(내슈빌\) "wikilink")               | 69,000  |
-| [샌안토니오](https://ko.wikipedia.org/wiki/샌안토니오 "wikilink")                                                                         | [알라모돔](../Page/알라모돔.md "wikilink")                                                | 65,000  |
-| [샌디에이고](https://ko.wikipedia.org/wiki/샌디에이고 "wikilink")                                                                         | [퀄컴 스타디움](https://ko.wikipedia.org/wiki/퀄컴_스타디움 "wikilink")                       | 70,561  |
-| [탬파](https://ko.wikipedia.org/wiki/탬파 "wikilink")                                                                               | [레이먼드 제임스 스타디움](https://ko.wikipedia.org/wiki/레이먼드_제임스_스타디움 "wikilink")           | 65,890  |
-| [글렌데일](https://ko.wikipedia.org/wiki/글렌데일_\(애리조나주\) "wikilink") ([피닉스](https://ko.wikipedia.org/wiki/피닉스_\(애리조나주\) "wikilink")) | [유니버시티 오브 피닉스 스타디움](https://ko.wikipedia.org/wiki/유니버시티_오브_피닉스_스타디움 "wikilink")   | 63,400  |
-| [패서디나](https://ko.wikipedia.org/wiki/패서디나_\(캘리포니아주\) "wikilink") ([로스엔젤레스](https://ko.wikipedia.org/wiki/로스엔젤레스 "wikilink"))    | [로즈 볼](https://ko.wikipedia.org/wiki/로즈_볼_\(경기장\) "wikilink")                     | 90,000  |
-| [필라델피아](https://ko.wikipedia.org/wiki/필라델피아 "wikilink")                                                                         | [링컨 파이낸셜 필드](https://ko.wikipedia.org/wiki/링컨_파이낸셜_필드 "wikilink")                 | 69,596  |
-| [샌타클래라](https://ko.wikipedia.org/wiki/샌타클래라_\(캘리포니아주\) "wikilink") ([샌프란시스코](https://ko.wikipedia.org/wiki/샌프란시스코 "wikilink"))  | [리바이스 스타디움](../Page/리바이스_스타디움.md "wikilink")                                      | 68,500  |
+| 도시                                                                                                                           | 경기장                                                                               | 수용인원    |
+| ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ------- |
+| [클리블랜드](../Page/클리블랜드.md "wikilink")                                                                                         | [퍼스트에너지 스타디움](../Page/퍼스트에너지_스타디움.md "wikilink")                                  | 67,431  |
+| [덴버](../Page/덴버.md "wikilink")                                                                                               | [스포츠 어서리티 필드 앳 마일하이](https://ko.wikipedia.org/wiki/스포츠_어서리티_필드_앳_마일하이 "wikilink") | 76,125  |
+| [프리스코](https://ko.wikipedia.org/wiki/프리스코_\(텍사스주\) "wikilink") ([댈러스](../Page/댈러스.md "wikilink"))                            | [도요타 스타디움](../Page/도요타_스타디움_\(텍사스주\).md "wikilink")                               | 16,000  |
+| [알링턴](../Page/알링턴_\(텍사스주\).md "wikilink") ([댈러스](../Page/댈러스.md "wikilink"))                                                 | [AT\&T 스타디움](../Page/AT&T_스타디움.md "wikilink")                                     | 100,000 |
+| [해리슨](https://ko.wikipedia.org/wiki/해리슨_\(뉴저지주\) "wikilink") ([뉴욕](../Page/뉴욕.md "wikilink"))                                | [레드불 아레나](../Page/레드불_아레나_\(뉴저지주\).md "wikilink")                                 | 25,000  |
+| [휴스턴](../Page/휴스턴.md "wikilink")                                                                                             | [BBVA 컴패스 스타디움](../Page/BBVA_컴패스_스타디움.md "wikilink")                              | 22,000  |
+| [내슈빌](../Page/내슈빌.md "wikilink")                                                                                             | [닛산 스타디움](../Page/닛산_스타디움_\(내슈빌\).md "wikilink")                                  | 69,000  |
+| [샌안토니오](../Page/샌안토니오.md "wikilink")                                                                                         | [알라모돔](../Page/알라모돔.md "wikilink")                                                | 65,000  |
+| [샌디에이고](https://ko.wikipedia.org/wiki/샌디에이고 "wikilink")                                                                      | [퀄컴 스타디움](https://ko.wikipedia.org/wiki/퀄컴_스타디움 "wikilink")                       | 70,561  |
+| [탬파](../Page/탬파.md "wikilink")                                                                                               | [레이먼드 제임스 스타디움](../Page/레이먼드_제임스_스타디움.md "wikilink")                              | 65,890  |
+| [글렌데일](../Page/글렌데일_\(애리조나주\).md "wikilink") ([피닉스](../Page/피닉스_\(애리조나주\).md "wikilink"))                                    | [유니버시티 오브 피닉스 스타디움](https://ko.wikipedia.org/wiki/유니버시티_오브_피닉스_스타디움 "wikilink")   | 63,400  |
+| [패서디나](https://ko.wikipedia.org/wiki/패서디나_\(캘리포니아주\) "wikilink") ([로스엔젤레스](https://ko.wikipedia.org/wiki/로스엔젤레스 "wikilink")) | [로즈 볼](https://ko.wikipedia.org/wiki/로즈_볼_\(경기장\) "wikilink")                     | 90,000  |
+| [필라델피아](../Page/필라델피아.md "wikilink")                                                                                         | [링컨 파이낸셜 필드](../Page/링컨_파이낸셜_필드.md "wikilink")                                    | 69,596  |
+| [샌타클래라](../Page/샌타클래라_\(캘리포니아주\).md "wikilink") ([샌프란시스코](../Page/샌프란시스코.md "wikilink"))                                     | [리바이스 스타디움](../Page/리바이스_스타디움.md "wikilink")                                      | 68,500  |
 
 ## 예선
 
 ### 중앙아메리카-카리브 제도 플레이오프
 
-[2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink")에 열린 [카리브컵](../Page/카리브컵.md "wikilink")과 [코파 센트로아메리카나에서](https://ko.wikipedia.org/wiki/코파_센트로아메리카나 "wikilink") 각각 5위를 차지한 팀이 홈 앤 어웨이 방식의 플레이오프를 치른다. 경기에서 이긴 팀이 본선에 진출한다.   |}
+[2017년](../Page/2017년.md "wikilink")에 열린 [카리브컵](../Page/카리브컵.md "wikilink")과 [코파 센트로아메리카나에서](https://ko.wikipedia.org/wiki/코파_센트로아메리카나 "wikilink") 각각 5위를 차지한 팀이 홈 앤 어웨이 방식의 플레이오프를 치른다. 경기에서 이긴 팀이 본선에 진출한다.   |}
 
 -----
 
@@ -75,7 +75,7 @@
 <td><p>13번째</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/중앙아메리카_축구_연맹" title="wikilink">중앙아메리카</a> (<a href="https://ko.wikipedia.org/wiki/2017년_코파_센트로아메리카나" title="wikilink">2017년 코파 센트로아메리카나</a>)</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/중앙아메리카_축구_연맹" title="wikilink">중앙아메리카</a> (<a href="../Page/2017년_코파_센트로아메리카나.md" title="wikilink">2017년 코파 센트로아메리카나</a>)</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -100,7 +100,7 @@
 <td><p>13번째</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/카리브_축구_연맹.md" title="wikilink">카리브 제도</a> (<a href="https://ko.wikipedia.org/wiki/2017년_카리브컵" title="wikilink">2017년 카리브컵</a>)</p></td>
+<td><p><a href="../Page/카리브_축구_연맹.md" title="wikilink">카리브 제도</a> (<a href="../Page/2017년_카리브컵.md" title="wikilink">2017년 카리브컵</a>)</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -141,7 +141,7 @@
 
 ## 시드 배정
 
-[북중미카리브 축구 연맹](https://ko.wikipedia.org/wiki/북중미카리브_축구_연맹 "wikilink")(CONCACAF)은 [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [12월 19일에](https://ko.wikipedia.org/wiki/12월_19일 "wikilink") 미국을 B조 시드 팀으로, 멕시코를 C조 시드 팀으로 각각 배정했다. [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [2월 14일에는](https://ko.wikipedia.org/wiki/2월_14일 "wikilink") [2017년 코파 센트로아메리카나](https://ko.wikipedia.org/wiki/2017년_코파_센트로아메리카나 "wikilink") 우승 팀인 온두라스가 CONCACAF로부터 A조 시드 팀으로 배정되었다. 2017년 CONCACAF 골드컵 본선 조 추첨은 [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [3월 7일](https://ko.wikipedia.org/wiki/3월_7일 "wikilink") [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [캘리포니아주](https://ko.wikipedia.org/wiki/캘리포니아주 "wikilink") [샌타클래라에서](https://ko.wikipedia.org/wiki/샌타클래라_\(캘리포니아주\) "wikilink") 진행되었다.
+[북중미카리브 축구 연맹](../Page/북중미카리브_축구_연맹.md "wikilink")(CONCACAF)은 [2016년](../Page/2016년.md "wikilink") [12월 19일에](../Page/12월_19일.md "wikilink") 미국을 B조 시드 팀으로, 멕시코를 C조 시드 팀으로 각각 배정했다. [2017년](../Page/2017년.md "wikilink") [2월 14일에는](../Page/2월_14일.md "wikilink") [2017년 코파 센트로아메리카나](../Page/2017년_코파_센트로아메리카나.md "wikilink") 우승 팀인 온두라스가 CONCACAF로부터 A조 시드 팀으로 배정되었다. 2017년 CONCACAF 골드컵 본선 조 추첨은 [2017년](../Page/2017년.md "wikilink") [3월 7일](../Page/3월_7일.md "wikilink") [미국](../Page/미국.md "wikilink") [캘리포니아주](../Page/캘리포니아주.md "wikilink") [샌타클래라에서](../Page/샌타클래라_\(캘리포니아주\).md "wikilink") 진행되었다.
 
 <table>
 <colgroup>
@@ -510,7 +510,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_the_United_States.svg" title="wikilink">100px</a><br />
-<strong><a href="https://ko.wikipedia.org/wiki/미국_축구_국가대표팀" title="wikilink">미국</a></strong><br />
+<strong><a href="../Page/미국_축구_국가대표팀.md" title="wikilink">미국</a></strong><br />
 <strong>6번째 우승</strong></p></td>
 </tr>
 </tbody>
@@ -544,7 +544,7 @@
 
   - [오마 곤잘러스](../Page/오마_곤잘러스.md "wikilink")
 
-  - [조지 앨티도어](https://ko.wikipedia.org/wiki/조지_앨티도어 "wikilink")
+  - [조지 앨티도어](../Page/조지_앨티도어.md "wikilink")
 
 <!-- end list -->
 
@@ -556,7 +556,7 @@
 
   - [스콧 아필드](https://ko.wikipedia.org/wiki/스콧_아필드 "wikilink")
 
-  - [주니어 호일렛](https://ko.wikipedia.org/wiki/주니어_호일렛 "wikilink")
+  - [주니어 호일렛](../Page/주니어_호일렛.md "wikilink")
 
   - [마르코 우레냐](../Page/마르코_우레냐.md "wikilink")
 
@@ -586,7 +586,7 @@
 
   - [앙헬 세풀베다](https://ko.wikipedia.org/wiki/앙헬_세풀베다 "wikilink")
 
-  - [에드손 알바레스](https://ko.wikipedia.org/wiki/에드손_알바레스 "wikilink")
+  - [에드손 알바레스](../Page/에드손_알바레스.md "wikilink")
 
   - [로돌포 피사로](https://ko.wikipedia.org/wiki/로돌포_피사로 "wikilink")
 
@@ -616,7 +616,7 @@
 
   - [에릭 리하이](https://ko.wikipedia.org/wiki/에릭_리하이 "wikilink")
 
-  - [클린트 뎀프시](https://ko.wikipedia.org/wiki/클린트_뎀프시 "wikilink")
+  - [클린트 뎀프시](../Page/클린트_뎀프시.md "wikilink")
 
 <!-- end list -->
 

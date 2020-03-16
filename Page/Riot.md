@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Riot](https://ko.wikipedia.org/wiki/Riot).
 
 
-"**Riot**"는 미국의 [배우](https://ko.wikipedia.org/wiki/배우 "wikilink"),[가수](https://ko.wikipedia.org/wiki/가수 "wikilink") 맨디 레인의 두번째 싱글이다. Riot은 [맨디 레인](../Page/맨디_레인.md "wikilink"), Abram Dean, Brandyn Burnette, Danny “DJ” Score,[Isaac Hasson의해](https://ko.wikipedia.org/wiki/Isaac_Hasson "wikilink") 만들어졌다.\[1\] Riot은 [아이튠즈](https://ko.wikipedia.org/wiki/아이튠즈 "wikilink")에 2014년 1월 23일 발매되었다.\[2\] 그리고 다른 음반 매체에는 2014년 1월 31일에 발매되었다.\[3\]\[4\]
+"**Riot**"는 미국의 [배우](../Page/배우.md "wikilink"),[가수](https://ko.wikipedia.org/wiki/가수 "wikilink") 맨디 레인의 두번째 싱글이다. Riot은 [맨디 레인](../Page/맨디_레인.md "wikilink"), Abram Dean, Brandyn Burnette, Danny “DJ” Score,[Isaac Hasson의해](https://ko.wikipedia.org/wiki/Isaac_Hasson "wikilink") 만들어졌다.\[1\] Riot은 [아이튠즈](../Page/아이튠즈.md "wikilink")에 2014년 1월 23일 발매되었다.\[2\] 그리고 다른 음반 매체에는 2014년 1월 31일에 발매되었다.\[3\]\[4\]
 
 ## 배경 및 개발
 

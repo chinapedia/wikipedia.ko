@@ -1,12 +1,12 @@
 > This article is converted from Wikipedia: [ S ](https://ko.wikipedia.org/wiki/_S_).
 
 
-《**캠퍼스 S 커플**》은 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink")에 개봉한 [대한민국의](https://ko.wikipedia.org/wiki/대한민국_영화 "wikilink") 영화이다.
+《**캠퍼스 S 커플**》은 [2014년](../Page/2014년.md "wikilink")에 개봉한 [대한민국의](https://ko.wikipedia.org/wiki/대한민국_영화 "wikilink") 영화이다.
 
 ## 캐스팅
 
-  - [최필립](https://ko.wikipedia.org/wiki/최필립_\(배우\) "wikilink") : 찬승 역
-  - [문보령](https://ko.wikipedia.org/wiki/문보령 "wikilink") : 아영 역
+  - [최필립](../Page/최필립_\(배우\).md "wikilink") : 찬승 역
+  - [문보령](../Page/문보령.md "wikilink") : 아영 역
   - [서효명](https://ko.wikipedia.org/wiki/서효명 "wikilink") : 유진 역
   - 박란 : 민조 역
   - [문원주](../Page/문원주.md "wikilink") : 승규 역
@@ -14,7 +14,7 @@
   - 김예진 : 은설 역
   - 서설희 : 은혜 역
   - 이새별 : 미경 역
-  - [문혁](https://ko.wikipedia.org/wiki/문혁_\(배우\) "wikilink") : 복학생 1 역
+  - [문혁](../Page/문혁_\(배우\).md "wikilink") : 복학생 1 역
   - 한경석 : 복학생 2 역
   - 배한용 : 복학생 3 역
   - [이의정](https://ko.wikipedia.org/wiki/이의정 "wikilink") : 사서 역 (특별출연)

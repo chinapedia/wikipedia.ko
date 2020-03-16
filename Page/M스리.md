@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [M](https://ko.wikipedia.org/wiki/M).
 
 
-**M쓰리**(M Three)는 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink")에 결성된 [페어리즈](https://ko.wikipedia.org/wiki/페어리즈 "wikilink")의 멤버 3명이 결성한 유닛이다. 소속 사무소는 [라이징 프로덕션](https://ko.wikipedia.org/wiki/라이징_프로덕션 "wikilink"), 레이블은 [SONIC GROOVE](https://ko.wikipedia.org/wiki/에이벡스 "wikilink").
+**M쓰리**(M Three)는 [2013년](../Page/2013년.md "wikilink")에 결성된 [페어리즈](../Page/페어리즈.md "wikilink")의 멤버 3명이 결성한 유닛이다. 소속 사무소는 [라이징 프로덕션](../Page/라이징_프로덕션.md "wikilink"), 레이블은 [SONIC GROOVE](https://ko.wikipedia.org/wiki/에이벡스 "wikilink").
 
 ## 구성원
 
@@ -17,10 +17,10 @@
 
 ### 싱글
 
-| 순서 | 타이틀                                                             | 발매일                                                                                                               | 최고 순위 |
-| -- | --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ----- |
-| 1  | [유메미루 댄싱 돌](../Page/유메미루_댄싱_돌.md "wikilink")                    | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [3월 27일](https://ko.wikipedia.org/wiki/3월_27일 "wikilink") | 8위    |
-| 2  | [Your Love](https://ko.wikipedia.org/wiki/Your_Love "wikilink") | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [7월 30일](https://ko.wikipedia.org/wiki/7월_30일 "wikilink") | 16위   |
+| 순서 | 타이틀                                                             | 발매일                                                                         | 최고 순위 |
+| -- | --------------------------------------------------------------- | --------------------------------------------------------------------------- | ----- |
+| 1  | [유메미루 댄싱 돌](../Page/유메미루_댄싱_돌.md "wikilink")                    | [2013년](../Page/2013년.md "wikilink") [3월 27일](../Page/3월_27일.md "wikilink") | 8위    |
+| 2  | [Your Love](https://ko.wikipedia.org/wiki/Your_Love "wikilink") | [2014년](../Page/2014년.md "wikilink") [7월 30일](../Page/7월_30일.md "wikilink") | 16위   |
 
 ## 외부 링크
 

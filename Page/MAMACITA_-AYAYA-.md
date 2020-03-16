@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MAMACITA -AYAYA-](https://ko.wikipedia.org/wiki/MAMACITA_-AYAYA-).
 
 
-《**MAMACITA -AYAYA-**》는 그룹 [슈퍼주니어](https://ko.wikipedia.org/wiki/슈퍼주니어 "wikilink")가 일본에서 발매한 6번째 싱글이다.
+《**MAMACITA -AYAYA-**》는 그룹 [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")가 일본에서 발매한 6번째 싱글이다.
 
 ## 개요
 

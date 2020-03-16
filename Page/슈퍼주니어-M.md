@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [-M](https://ko.wikipedia.org/wiki/-M).
 
 
-**슈퍼주니어-M** () 은 대한민국 의 아이돌 그룹 [슈퍼주니어](https://ko.wikipedia.org/wiki/슈퍼주니어 "wikilink") 의 유닛 그룹 이다. 2008년 *迷 (Me)* 로 데뷔 하였다.
+**슈퍼주니어-M** () 은 대한민국 의 아이돌 그룹 [슈퍼주니어](../Page/슈퍼주니어.md "wikilink") 의 유닛 그룹 이다. 2008년 *迷 (Me)* 로 데뷔 하였다.
 
 ## 구성원
 
@@ -15,47 +15,47 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/성민_(1986년)" title="wikilink">성민</a></strong></p></td>
+<td><p><strong><a href="../Page/성민_(1986년).md" title="wikilink">성민</a></strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Lee_Sungmin.jpg" title="wikilink">100px</a></p></td>
 <td><ul>
 <li>본명 : 이성민 (李晟敏)</li>
 <li>생년월일 : </li>
 <li>출생지 :  <a href="https://ko.wikipedia.org/wiki/경기도" title="wikilink">경기도</a> <a href="https://ko.wikipedia.org/wiki/고양시" title="wikilink">고양시</a></li>
-<li>유닛그룹 : <a href="../Page/슈퍼주니어-M.md" title="wikilink">슈퍼주니어-M</a>, <a href="https://ko.wikipedia.org/wiki/슈퍼주니어-T" title="wikilink">슈퍼주니어-T</a>, <a href="https://ko.wikipedia.org/wiki/슈퍼주니어-Happy" title="wikilink">슈퍼주니어-Happy</a></li>
-<li>활동기간 : <a href="https://ko.wikipedia.org/wiki/2005년" title="wikilink">2005년</a> <a href="https://ko.wikipedia.org/wiki/11월_6일" title="wikilink">11월 6일</a> ~ (활동 중단)[1]</li>
+<li>유닛그룹 : <a href="../Page/슈퍼주니어-M.md" title="wikilink">슈퍼주니어-M</a>, <a href="../Page/슈퍼주니어-T.md" title="wikilink">슈퍼주니어-T</a>, <a href="../Page/슈퍼주니어-Happy.md" title="wikilink">슈퍼주니어-Happy</a></li>
+<li>활동기간 : <a href="../Page/2005년.md" title="wikilink">2005년</a> <a href="../Page/11월_6일.md" title="wikilink">11월 6일</a> ~ (활동 중단)[1]</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/은혁" title="wikilink">은혁</a></strong></p></td>
+<td><p><strong><a href="../Page/은혁.md" title="wikilink">은혁</a></strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:WHYNOT-더_댄서_제작발표회_은혁.jpg" title="wikilink">100px</a></p></td>
 <td><ul>
 <li>본명 : 이혁재 (李赫宰)</li>
 <li>생년월일 : </li>
 <li>출생지 :  <a href="https://ko.wikipedia.org/wiki/경기도" title="wikilink">경기도</a> <a href="https://ko.wikipedia.org/wiki/고양시" title="wikilink">고양시</a></li>
-<li>유닛그룹 : <a href="../Page/슈퍼주니어-D&amp;E.md" title="wikilink">슈퍼주니어-D&amp;E</a>, <a href="https://ko.wikipedia.org/wiki/슈퍼주니어-T" title="wikilink">슈퍼주니어-T</a>, <a href="../Page/슈퍼주니어-M.md" title="wikilink">슈퍼주니어-M</a>, <a href="https://ko.wikipedia.org/wiki/슈퍼주니어-Happy" title="wikilink">슈퍼주니어-Happy</a></li>
-<li>활동기간 : <a href="https://ko.wikipedia.org/wiki/2005년" title="wikilink">2005년</a> <a href="https://ko.wikipedia.org/wiki/11월_6일" title="wikilink">11월 6일</a> ~ <strong>현재</strong></li>
+<li>유닛그룹 : <a href="../Page/슈퍼주니어-D&amp;E.md" title="wikilink">슈퍼주니어-D&amp;E</a>, <a href="../Page/슈퍼주니어-T.md" title="wikilink">슈퍼주니어-T</a>, <a href="../Page/슈퍼주니어-M.md" title="wikilink">슈퍼주니어-M</a>, <a href="../Page/슈퍼주니어-Happy.md" title="wikilink">슈퍼주니어-Happy</a></li>
+<li>활동기간 : <a href="../Page/2005년.md" title="wikilink">2005년</a> <a href="../Page/11월_6일.md" title="wikilink">11월 6일</a> ~ <strong>현재</strong></li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/조미_(가수)" title="wikilink">조미</a></strong></p></td>
+<td><p><strong><a href="../Page/조미_(가수).md" title="wikilink">조미</a></strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Zhou_Mi_from_Acrofan_(cropped).jpg" title="wikilink">100px</a></p></td>
 <td><ul>
 <li>본명 : 조미 ()</li>
 <li>생년월일 : </li>
-<li>출생지 :  <a href="https://ko.wikipedia.org/wiki/후베이성" title="wikilink">후베이 성</a> <a href="https://ko.wikipedia.org/wiki/우한시" title="wikilink">우한 시</a></li>
+<li>출생지 :  <a href="../Page/후베이성.md" title="wikilink">후베이 성</a> <a href="../Page/우한시.md" title="wikilink">우한 시</a></li>
 <li>유닛그룹 : <a href="../Page/슈퍼주니어-M.md" title="wikilink">슈퍼주니어-M</a></li>
-<li>활동기간 : <a href="https://ko.wikipedia.org/wiki/2008년" title="wikilink">2008년</a> <a href="https://ko.wikipedia.org/wiki/4월_8일" title="wikilink">4월 8일</a> ~ <strong>현재</strong></li>
+<li>활동기간 : <a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/4월_8일.md" title="wikilink">4월 8일</a> ~ <strong>현재</strong></li>
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/동해_(가수)" title="wikilink">동해</a></strong></p></td>
+<td><p><strong><a href="../Page/동해_(가수).md" title="wikilink">동해</a></strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:171115_슈퍼주니어_동해.jpg" title="wikilink">100px</a></p></td>
 <td><ul>
 <li>본명 : 이동해 (李東海)</li>
 <li>생년월일 : </li>
 <li>출생지 :  <a href="https://ko.wikipedia.org/wiki/전라남도" title="wikilink">전라남도</a> <a href="https://ko.wikipedia.org/wiki/목포시" title="wikilink">목포시</a></li>
 <li>유닛그룹 : <a href="../Page/슈퍼주니어-D&amp;E.md" title="wikilink">슈퍼주니어-D&amp;E</a>, <a href="../Page/슈퍼주니어-M.md" title="wikilink">슈퍼주니어-M</a></li>
-<li>활동기간 : <a href="https://ko.wikipedia.org/wiki/2005년" title="wikilink">2005년</a> <a href="https://ko.wikipedia.org/wiki/11월_6일" title="wikilink">11월 6일</a> ~ <strong>현재</strong></li>
+<li>활동기간 : <a href="../Page/2005년.md" title="wikilink">2005년</a> <a href="../Page/11월_6일.md" title="wikilink">11월 6일</a> ~ <strong>현재</strong></li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -64,31 +64,31 @@
 <td><ul>
 <li>본명 : 최시원 (崔始源)</li>
 <li>생년월일 : </li>
-<li>출생지 :  <a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울특별시</a></li>
+<li>출생지 :  <a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></li>
 <li>유닛그룹 : <a href="../Page/슈퍼주니어-M.md" title="wikilink">슈퍼주니어-M</a></li>
-<li>활동기간 : <a href="https://ko.wikipedia.org/wiki/2005년" title="wikilink">2005년</a> <a href="https://ko.wikipedia.org/wiki/11월_6일" title="wikilink">11월 6일</a> ~ <strong>현재</strong></li>
+<li>활동기간 : <a href="../Page/2005년.md" title="wikilink">2005년</a> <a href="../Page/11월_6일.md" title="wikilink">11월 6일</a> ~ <strong>현재</strong></li>
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/려욱" title="wikilink">려욱</a></strong></p></td>
+<td><p><strong><a href="../Page/려욱.md" title="wikilink">려욱</a></strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:190709_슈퍼주니어_려욱_(1).jpg" title="wikilink">100px</a></p></td>
 <td><ul>
 <li>본명 : 김려욱 (金厲旭)</li>
 <li>생년월일 : </li>
 <li>출생지 :  <a href="https://ko.wikipedia.org/wiki/인천광역시" title="wikilink">인천광역시</a></li>
 <li>유닛그룹 : <a href="https://ko.wikipedia.org/wiki/슈퍼주니어-K.R.Y" title="wikilink">슈퍼주니어-K.R.Y</a>, <a href="../Page/슈퍼주니어-M.md" title="wikilink">슈퍼주니어-M</a></li>
-<li>활동기간 : <a href="https://ko.wikipedia.org/wiki/2005년" title="wikilink">2005년</a> <a href="https://ko.wikipedia.org/wiki/11월_6일" title="wikilink">11월 6일</a> ~ <strong>현재</strong></li>
+<li>활동기간 : <a href="../Page/2005년.md" title="wikilink">2005년</a> <a href="../Page/11월_6일.md" title="wikilink">11월 6일</a> ~ <strong>현재</strong></li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/규현" title="wikilink">규현</a></strong></p></td>
+<td><p><strong><a href="../Page/규현.md" title="wikilink">규현</a></strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Cho_Kyuhyun_20161120_01.png" title="wikilink">100px</a></p></td>
 <td><ul>
 <li>본명 : 조규현 (曺圭賢)</li>
 <li>생년월일 : </li>
-<li>출생지 :  <a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울특별시</a></li>
+<li>출생지 :  <a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></li>
 <li>유닛그룹 : <a href="https://ko.wikipedia.org/wiki/슈퍼주니어-K.R.Y" title="wikilink">슈퍼주니어-K.R.Y</a>, <a href="../Page/슈퍼주니어-M.md" title="wikilink">슈퍼주니어-M</a></li>
-<li>활동기간 : <a href="https://ko.wikipedia.org/wiki/2006년" title="wikilink">2006년</a> <a href="https://ko.wikipedia.org/wiki/5월_27일" title="wikilink">5월 27일</a> ~ <strong>현재</strong></li>
+<li>활동기간 : <a href="../Page/2006년.md" title="wikilink">2006년</a> <a href="../Page/5월_27일.md" title="wikilink">5월 27일</a> ~ <strong>현재</strong></li>
 </ul></td>
 </tr>
 </tbody>
@@ -106,25 +106,25 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/한경" title="wikilink">한경</a></p></td>
+<td><p><a href="../Page/한경.md" title="wikilink">한경</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Hangeng.JPG" title="wikilink">100px</a></p></td>
 <td><ul>
 <li>본명 : 한긍 ()</li>
 <li>생년월일 : </li>
-<li>출생지 :  <a href="https://ko.wikipedia.org/wiki/헤이룽장성" title="wikilink">헤이룽장 성</a> <a href="https://ko.wikipedia.org/wiki/무단장시" title="wikilink">무단장 시</a></li>
+<li>출생지 :  <a href="../Page/헤이룽장성.md" title="wikilink">헤이룽장 성</a> <a href="../Page/무단장시.md" title="wikilink">무단장 시</a></li>
 <li>유닛그룹 : <a href="../Page/슈퍼주니어-M.md" title="wikilink">슈퍼주니어-M</a></li>
-<li>활동기간 : <a href="https://ko.wikipedia.org/wiki/2005년" title="wikilink">2005년</a> <a href="https://ko.wikipedia.org/wiki/11월_6일" title="wikilink">11월 6일</a> ~ <a href="https://ko.wikipedia.org/wiki/2009년" title="wikilink">2009년</a> <a href="https://ko.wikipedia.org/wiki/12월_22일" title="wikilink">12월 22일</a>[2]</li>
+<li>활동기간 : <a href="../Page/2005년.md" title="wikilink">2005년</a> <a href="../Page/11월_6일.md" title="wikilink">11월 6일</a> ~ <a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/12월_22일.md" title="wikilink">12월 22일</a>[2]</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/헨리_(가수)" title="wikilink">헨리</a></p></td>
+<td><p><a href="../Page/헨리_(가수).md" title="wikilink">헨리</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:헨리(Henry),_스윗한_미소_(현장)_2.png" title="wikilink">100px</a></p></td>
 <td><ul>
 <li>본명 : 류셴화 ()</li>
 <li>생년월일 : </li>
-<li>출생지 :  <a href="https://ko.wikipedia.org/wiki/온타리오주" title="wikilink">온타리오 주</a> <a href="https://ko.wikipedia.org/wiki/토론토" title="wikilink">토론토</a></li>
+<li>출생지 :  <a href="https://ko.wikipedia.org/wiki/온타리오주" title="wikilink">온타리오 주</a> <a href="../Page/토론토.md" title="wikilink">토론토</a></li>
 <li>유닛그룹 : <a href="../Page/슈퍼주니어-M.md" title="wikilink">슈퍼주니어-M</a></li>
-<li>활동기간 : <a href="https://ko.wikipedia.org/wiki/2008년" title="wikilink">2008년</a> <a href="https://ko.wikipedia.org/wiki/4월_8일" title="wikilink">4월 8일</a> ~ <a href="https://ko.wikipedia.org/wiki/2018년" title="wikilink">2018년</a> <a href="https://ko.wikipedia.org/wiki/4월_29일" title="wikilink">4월 29일</a>[3]</li>
+<li>활동기간 : <a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/4월_8일.md" title="wikilink">4월 8일</a> ~ <a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/4월_29일.md" title="wikilink">4월 29일</a>[3]</li>
 </ul></td>
 </tr>
 </tbody>
@@ -170,34 +170,34 @@
 
 ### 2011 Super Junior-M Fan Party "Perfection"
 
-| <font size=2>|개최일          | <font size=2>|도시                                                     | <font size=2>|국가 | <font size=2>|개최지     |
-| -------------------------- | -------------------------------------------------------------------- | ---------------- | --------------------- |
-| <font size=2>|2011년 6월 6일  | <font size=2>|[타이베이](https://ko.wikipedia.org/wiki/타이베이시 "wikilink") | <font size=2>|   | <font size=2>|국제회의중심  |
-| <font size=2>|2011년 8월 16일 | <font size=2>|[베이징](https://ko.wikipedia.org/wiki/베이징시 "wikilink")   | <font size=2>|   | <font size=2>|우커송 체육관 |
+| <font size=2>|개최일          | <font size=2>|도시                                  | <font size=2>|국가 | <font size=2>|개최지     |
+| -------------------------- | ------------------------------------------------- | ---------------- | --------------------- |
+| <font size=2>|2011년 6월 6일  | <font size=2>|[타이베이](../Page/타이베이시.md "wikilink") | <font size=2>|   | <font size=2>|국제회의중심  |
+| <font size=2>|2011년 8월 16일 | <font size=2>|[베이징](../Page/베이징시.md "wikilink")   | <font size=2>|   | <font size=2>|우커송 체육관 |
 
 ### 2013 Super Junior-M Fan Party "Break Down"
 
-| <font size=2>|개최일          | <font size=2>|도시                                                                | <font size=2>|국가           | <font size=2>|개최지                     |
-| -------------------------- | ------------------------------------------------------------------------------- | -------------------------- | ------------------------------------- |
-| <font size=2>|2013년 1월 19일 | <font size=2>|[난징](https://ko.wikipedia.org/wiki/난징시 "wikilink")                | <font size=2>|             | <font size=2>|난징 올림픽 스포츠 센터           |
-| <font size=2>|2013년 2월 16일 | <font size=2>|[방콕](https://ko.wikipedia.org/wiki/방콕 "wikilink")                 | <font size=2>|             | <font size=2>|썬더 돔                    |
-| <font size=2>|2013년 2월 21일 | <font size=2> rowspan=3 |[타이베이](https://ko.wikipedia.org/wiki/타이베이시 "wikilink") | <font size=2> rowspan=3 |  | <font size=2> rowspan=3 |타이완국립대학교 체육관 |
-| <font size=2>|2013년 2월 22일 |                                                                                 |                            |                                       |
-| <font size=2>|2013년 2월 23일 |                                                                                 |                            |                                       |
-| <font size=2>|2013년 2월 24일 | <font size=2>|[청두](https://ko.wikipedia.org/wiki/청두시 "wikilink")                | <font size=2> rowspan=3|   | <font size=2>|사천성 체육관\[4\]            |
-| <font size=2>|2013년 3월 2일  | <font size=2>|[상하이](https://ko.wikipedia.org/wiki/상하이시 "wikilink")              | <font size=2>|상하이 대무대      |                                       |
-| <font size=2>|2013년 4월 14일 | <font size=2>|[베이징](https://ko.wikipedia.org/wiki/베이징시 "wikilink")              | <font size=2>|캐피탈 인도어 스타디움 |                                       |
+| <font size=2>|개최일          | <font size=2>|도시                                             | <font size=2>|국가           | <font size=2>|개최지                     |
+| -------------------------- | ------------------------------------------------------------ | -------------------------- | ------------------------------------- |
+| <font size=2>|2013년 1월 19일 | <font size=2>|[난징](../Page/난징시.md "wikilink")                | <font size=2>|             | <font size=2>|난징 올림픽 스포츠 센터           |
+| <font size=2>|2013년 2월 16일 | <font size=2>|[방콕](../Page/방콕.md "wikilink")                 | <font size=2>|             | <font size=2>|썬더 돔                    |
+| <font size=2>|2013년 2월 21일 | <font size=2> rowspan=3 |[타이베이](../Page/타이베이시.md "wikilink") | <font size=2> rowspan=3 |  | <font size=2> rowspan=3 |타이완국립대학교 체육관 |
+| <font size=2>|2013년 2월 22일 |                                                              |                            |                                       |
+| <font size=2>|2013년 2월 23일 |                                                              |                            |                                       |
+| <font size=2>|2013년 2월 24일 | <font size=2>|[청두](../Page/청두시.md "wikilink")                | <font size=2> rowspan=3|   | <font size=2>|사천성 체육관\[4\]            |
+| <font size=2>|2013년 3월 2일  | <font size=2>|[상하이](../Page/상하이시.md "wikilink")              | <font size=2>|상하이 대무대      |                                       |
+| <font size=2>|2013년 4월 14일 | <font size=2>|[베이징](../Page/베이징시.md "wikilink")              | <font size=2>|캐피탈 인도어 스타디움 |                                       |
 
 ## 같이 보기
 
-  - [슈퍼주니어](https://ko.wikipedia.org/wiki/슈퍼주니어 "wikilink")
-  - [SM 엔터테인먼트](https://ko.wikipedia.org/wiki/SM_엔터테인먼트 "wikilink")
+  - [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")
+  - [SM 엔터테인먼트](../Page/SM_엔터테인먼트.md "wikilink")
 
 ## 각주
 
 [분류:슈퍼주니어](https://ko.wikipedia.org/wiki/분류:슈퍼주니어 "wikilink") [분류:K-pop 음악 그룹](https://ko.wikipedia.org/wiki/분류:K-pop_음악_그룹 "wikilink") [분류:대한민국의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_음악_그룹 "wikilink") [분류:대한민국의 댄스 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_댄스_음악_그룹 "wikilink") [분류:대한민국의 보이 밴드](https://ko.wikipedia.org/wiki/분류:대한민국의_보이_밴드 "wikilink") [분류:2008년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2008년_결성된_음악_그룹 "wikilink") [분류:2000년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2000년대_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:유닛 음악 그룹](https://ko.wikipedia.org/wiki/분류:유닛_음악_그룹 "wikilink")
 
 1.  팬 기만 논란으로 인해 그룹 활동을 중단했지만 아직 탈퇴하지 않았다.
-2.  [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [12월 22일에](https://ko.wikipedia.org/wiki/12월_22일 "wikilink") SM을 상대로 전속 계약 소송을 제기하여 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [9월](https://ko.wikipedia.org/wiki/9월 "wikilink")에 소송에서 승소하면서 전속 계약이 해지, 앞으로의 슈퍼주니어의 앨범 활동에 참여할 가능성은 없다.
-3.  [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink")에 계약 기간이 만료되면서 재계약하지 않았다.
+2.  [2009년](../Page/2009년.md "wikilink") [12월 22일에](../Page/12월_22일.md "wikilink") SM을 상대로 전속 계약 소송을 제기하여 [2011년](../Page/2011년.md "wikilink") [9월](../Page/9월.md "wikilink")에 소송에서 승소하면서 전속 계약이 해지, 앞으로의 슈퍼주니어의 앨범 활동에 참여할 가능성은 없다.
+3.  [2018년](../Page/2018년.md "wikilink") [4월](../Page/4월.md "wikilink")에 계약 기간이 만료되면서 재계약하지 않았다.
 4.

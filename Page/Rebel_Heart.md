@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Rebel Heart](https://ko.wikipedia.org/wiki/Rebel_Heart).
 
 
-《**Rebel Heart**》는 미국의 가수 [마돈나](https://ko.wikipedia.org/wiki/마돈나 "wikilink")가 2015년 3월에 발매한 열세 번째 정규 앨범이다. 발매 전, 일부 트랙의 유출로 12월 30일 총 5곡이 공개되었다. 두번째 선공개 트랙이자 "Rebel Heart"의 6번째 트랙인 "Bitch I'm Madonna"는 미국의 래퍼 [니키 미나즈가](https://ko.wikipedia.org/wiki/니키_미나즈 "wikilink") 피쳐링에 참여했다.
+《**Rebel Heart**》는 미국의 가수 [마돈나](../Page/마돈나.md "wikilink")가 2015년 3월에 발매한 열세 번째 정규 앨범이다. 발매 전, 일부 트랙의 유출로 12월 30일 총 5곡이 공개되었다. 두번째 선공개 트랙이자 "Rebel Heart"의 6번째 트랙인 "Bitch I'm Madonna"는 미국의 래퍼 [니키 미나즈가](../Page/니키_미나즈.md "wikilink") 피쳐링에 참여했다.
 
 ## 수록곡
 

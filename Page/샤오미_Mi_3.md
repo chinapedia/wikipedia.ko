@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ Mi 3](https://ko.wikipedia.org/wiki/_Mi_3).
 
 
-**샤오미 미쓰리**(Xiaomi Mi 3, )은 [중국의](https://ko.wikipedia.org/wiki/중화인민공화국 "wikilink") [샤오미](../Page/샤오미.md "wikilink")가 제작한 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") 기반의 MIUI 레퍼런스 [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")이다.\[1\]
+**샤오미 미쓰리**(Xiaomi Mi 3, )은 [중국의](../Page/중화인민공화국.md "wikilink") [샤오미](../Page/샤오미.md "wikilink")가 제작한 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") 기반의 MIUI 레퍼런스 [스마트폰](../Page/스마트폰.md "wikilink")이다.\[1\]
 
 ## 출시 국가
 

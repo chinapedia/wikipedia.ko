@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ FC ](https://ko.wikipedia.org/wiki/_FC_).
 
 
-**첼시 FC 위민**()는 [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink") [풀럼](https://ko.wikipedia.org/wiki/풀럼 "wikilink")에 연고를 두고 있는 [첼시 FC](https://ko.wikipedia.org/wiki/첼시_FC "wikilink") 산하 [여자 축구](https://ko.wikipedia.org/wiki/여자_축구 "wikilink") 클럽이다. 현재는 [FA 여자 슈퍼리그에](https://ko.wikipedia.org/wiki/FA_여자_슈퍼리그 "wikilink") 참가하고 있다. 이 팀은 [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink")에 **첼시 레이디스 FC**(Chelsea Ladies Football Club)라는 이름으로 창단되었으며, [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [5월 23일에](https://ko.wikipedia.org/wiki/5월_23일 "wikilink") 지금과 같은 이름으로 바뀌었다.
+**첼시 FC 위민**()는 [잉글랜드](../Page/잉글랜드.md "wikilink") [풀럼](../Page/풀럼.md "wikilink")에 연고를 두고 있는 [첼시 FC](../Page/첼시_FC.md "wikilink") 산하 [여자 축구](../Page/여자_축구.md "wikilink") 클럽이다. 현재는 [FA 여자 슈퍼리그에](https://ko.wikipedia.org/wiki/FA_여자_슈퍼리그 "wikilink") 참가하고 있다. 이 팀은 [1992년](../Page/1992년.md "wikilink")에 **첼시 레이디스 FC**(Chelsea Ladies Football Club)라는 이름으로 창단되었으며, [2018년](../Page/2018년.md "wikilink") [5월 23일에](../Page/5월_23일.md "wikilink") 지금과 같은 이름으로 바뀌었다.
 
 ## 선수
 
@@ -26,7 +26,7 @@
 
 ## 같이 보기
 
-  - [첼시 FC](https://ko.wikipedia.org/wiki/첼시_FC "wikilink")
+  - [첼시 FC](../Page/첼시_FC.md "wikilink")
 
 ## 각주
 

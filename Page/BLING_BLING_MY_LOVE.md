@@ -3,7 +3,7 @@
 
 〈**BLING BLING MY LOVE**〉(브링 브링 마이러브)는
 
-2014년 9월 3일에 발매 된 [페어리즈](https://ko.wikipedia.org/wiki/페어리즈 "wikilink")의 메이저 데뷔 9번째 싱글이다.
+2014년 9월 3일에 발매 된 [페어리즈](../Page/페어리즈.md "wikilink")의 메이저 데뷔 9번째 싱글이다.
 
 ## 트랙 리스트
 

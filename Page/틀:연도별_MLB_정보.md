@@ -5,7 +5,7 @@
 
 | 제목 = }}</includeonly>}}}
 
-| 항목1 = 리그 | 내용1 = [메이저 리그 베이스볼](https://ko.wikipedia.org/wiki/메이저_리그_베이스볼 "wikilink")
+| 항목1 = 리그 | 내용1 = [메이저 리그 베이스볼](../Page/메이저_리그_베이스볼.md "wikilink")
 
 | 항목2 = 기간 | 내용2 =
 

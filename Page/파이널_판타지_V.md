@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  V](https://ko.wikipedia.org/wiki/__V).
 
 
-《**파이널 판타지 V**》(Final Fantasy V, **FFV**, **FF5**, )는 [파이널 판타지 시리즈의](https://ko.wikipedia.org/wiki/파이널_판타지_\(시리즈\) "wikilink") 다섯 번째 게임이다. 1992년에 출시되었다. 이 게임은 처음에는 [닌텐도](https://ko.wikipedia.org/wiki/닌텐도 "wikilink")의 [슈퍼 패미컴을](https://ko.wikipedia.org/wiki/슈퍼_패미컴 "wikilink") 대상으로 일본에만 출시되었다. 이후 약간의 차이점과 함께 [소니](https://ko.wikipedia.org/wiki/소니 "wikilink")의 [플레이스테이션](https://ko.wikipedia.org/wiki/플레이스테이션 "wikilink")과 [닌텐도](https://ko.wikipedia.org/wiki/닌텐도 "wikilink")의 [게임보이 어드밴스에도](https://ko.wikipedia.org/wiki/게임보이_어드밴스 "wikilink") 포팅되었다.
+《**파이널 판타지 V**》(Final Fantasy V, **FFV**, **FF5**, )는 [파이널 판타지 시리즈의](https://ko.wikipedia.org/wiki/파이널_판타지_\(시리즈\) "wikilink") 다섯 번째 게임이다. 1992년에 출시되었다. 이 게임은 처음에는 [닌텐도](../Page/닌텐도.md "wikilink")의 [슈퍼 패미컴을](../Page/슈퍼_패미컴.md "wikilink") 대상으로 일본에만 출시되었다. 이후 약간의 차이점과 함께 [소니](../Page/소니.md "wikilink")의 [플레이스테이션](https://ko.wikipedia.org/wiki/플레이스테이션 "wikilink")과 [닌텐도](../Page/닌텐도.md "wikilink")의 [게임보이 어드밴스에도](../Page/게임보이_어드밴스.md "wikilink") 포팅되었다.
 
 ## 각주
 

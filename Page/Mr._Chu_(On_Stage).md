@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Mr. Chu \(On Stage\)](https://ko.wikipedia.org/wiki/Mr._Chu_\(On_Stage\)).
 
 
-〈**Mr. Chu (On Stage)**〉(미스터 츄 (온 스테이지))는 대한민국의 [걸 그룹](https://ko.wikipedia.org/wiki/걸_그룹 "wikilink") [에이핑크](https://ko.wikipedia.org/wiki/에이핑크 "wikilink")의 노래이다. 한국에서는 네 번째 미니앨범 《[Pink Blossom](../Page/Pink_Blossom.md "wikilink")》의 타이틀 곡으로 2014년 3월 31일에 발매되었으며, 일본에서는 2015년 2월 18일 발매됐다. 이단옆차기의 작품이며, 발랄하지만 조금은 과감하게 사랑을 고백하고 수줍지만 당돌하게 마음을 표현하는 귀여운 느낌의 팝 댄스곡이다.
+〈**Mr. Chu (On Stage)**〉(미스터 츄 (온 스테이지))는 대한민국의 [걸 그룹](../Page/걸_그룹.md "wikilink") [에이핑크](../Page/에이핑크.md "wikilink")의 노래이다. 한국에서는 네 번째 미니앨범 《[Pink Blossom](../Page/Pink_Blossom.md "wikilink")》의 타이틀 곡으로 2014년 3월 31일에 발매되었으며, 일본에서는 2015년 2월 18일 발매됐다. 이단옆차기의 작품이며, 발랄하지만 조금은 과감하게 사랑을 고백하고 수줍지만 당돌하게 마음을 표현하는 귀여운 느낌의 팝 댄스곡이다.
 
 ## 개요
 

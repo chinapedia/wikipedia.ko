@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [THE IDOLM@STER  ](https://ko.wikipedia.org/wiki/THE_IDOLM@STER__).
 
 
-**THE IDOLM@STER의 악곡 목록**은 게임 '[THE IDOLM@STER](https://ko.wikipedia.org/wiki/THE_IDOLM@STER "wikilink")' 및, 그에 파생한 [미디어 믹스](https://ko.wikipedia.org/wiki/미디어_믹스 "wikilink") 프로젝트 '[PROJECT IM@S](https://ko.wikipedia.org/wiki/PROJECT_IM@S "wikilink")'에서 작성, 혹은 [커버](https://ko.wikipedia.org/wiki/커버 "wikilink")된 악곡의 목록이다. 덧붙여 등장 캐릭터의 성우에 관해서는 특히 기술이 없으면, 원작 게임 준거로 한다(다만 하기와라 유키호는 도중에 성우가 변경되고 있기 때문에, 별도 기재한다).
+**THE IDOLM@STER의 악곡 목록**은 게임 '[THE IDOLM@STER](../Page/THE_IDOLM@STER.md "wikilink")' 및, 그에 파생한 [미디어 믹스](https://ko.wikipedia.org/wiki/미디어_믹스 "wikilink") 프로젝트 '[PROJECT IM@S](https://ko.wikipedia.org/wiki/PROJECT_IM@S "wikilink")'에서 작성, 혹은 [커버](https://ko.wikipedia.org/wiki/커버 "wikilink")된 악곡의 목록이다. 덧붙여 등장 캐릭터의 성우에 관해서는 특히 기술이 없으면, 원작 게임 준거로 한다(다만 하기와라 유키호는 도중에 성우가 변경되고 있기 때문에, 별도 기재한다).
 
 ## 게임 관련악곡
 
@@ -41,7 +41,7 @@
     <div class="NavContent" style="text-align:left; font-size:100%;">
       - M@STER VERSION
           - THE IDOLM@STER MASTERPIECE 01
-              - THE IDOLM@STER(HYR VERSION) 노래:아마미 하루카·하기와라 유키호([하세 유리나](https://ko.wikipedia.org/wiki/하세_유리나 "wikilink"))·아키즈키 리츠코
+              - THE IDOLM@STER(HYR VERSION) 노래:아마미 하루카·하기와라 유키호([하세 유리나](../Page/하세_유리나.md "wikilink"))·아키즈키 리츠코
           - THE IDOLM@STER MASTERPIECE 02
               - THE IDOLM@STER(ACM VERSION) 노래:미우라 아즈사·키사라기 치하야·키쿠치 마코토
           - THE IDOLM@STER MASTERPIECE 03

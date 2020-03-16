@@ -18,7 +18,7 @@
 
 ## Yutube 영상
 
-  - [써니힐 (SunnyHill)_Midnight Circus Teaser - [가인](https://ko.wikipedia.org/wiki/가인 "wikilink")](https://www.youtube.com/watch?v=BsY21_lnL6E)
+  - [써니힐 (SunnyHill)_Midnight Circus Teaser - [가인](../Page/가인.md "wikilink")](https://www.youtube.com/watch?v=BsY21_lnL6E)
   - [써니힐 (SunnyHill)_Midnight Circus Teaser 2 - [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink")](https://www.youtube.com/watch?v=JqMdaLju9WQ)
   - [써니힐 (SunnyHill)_Midnight Circus - MV](https://www.youtube.com/watch?v=vjBHPvYW3Gk)
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LG G3 ](https://ko.wikipedia.org/wiki/LG_G3_).
 
 
-**LG G3 스크린**(LG G3 Screen)은 LG전자에서 만든 [LG G3의](https://ko.wikipedia.org/wiki/LG_G3 "wikilink") 파생 모델이다. [LG G3보다](https://ko.wikipedia.org/wiki/LG_G3 "wikilink") 화면이 0.4 [인치](https://ko.wikipedia.org/wiki/인치 "wikilink") 커지고, 램 용량이 줄고 광대역 LTE-A를 적용하게 되었다. LG전자 최초로 자체 개발 AP **뉴클런**을 적용하였다. 카메라는 레이저 오토포커스와 듀얼플래시를 지원한다.
+**LG G3 스크린**(LG G3 Screen)은 LG전자에서 만든 [LG G3의](../Page/LG_G3.md "wikilink") 파생 모델이다. [LG G3보다](../Page/LG_G3.md "wikilink") 화면이 0.4 [인치](https://ko.wikipedia.org/wiki/인치 "wikilink") 커지고, 램 용량이 줄고 광대역 LTE-A를 적용하게 되었다. LG전자 최초로 자체 개발 AP **뉴클런**을 적용하였다. 카메라는 레이저 오토포커스와 듀얼플래시를 지원한다.
 
 ## 특수 기능
 
@@ -17,7 +17,7 @@ G3 스크린은 [4.4.2 킷캣을](https://ko.wikipedia.org/wiki/안드로이드_
 
 ### 안드로이드 5.0.2 롤리팝
 
-G3 스크린은 [롤리팝으로](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [4월 7일](https://ko.wikipedia.org/wiki/4월_7일 "wikilink") 업데이트 되었다.\[1\] 기존 [4.4.2 킷캣과](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 크게 변한 점은 없지만 UI가 개선되고 스마트 락 기능을 지원하고 절전 모드 기능이 변경되었다.
+G3 스크린은 [롤리팝으로](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") [2015년](../Page/2015년.md "wikilink") [4월 7일](../Page/4월_7일.md "wikilink") 업데이트 되었다.\[1\] 기존 [4.4.2 킷캣과](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 크게 변한 점은 없지만 UI가 개선되고 스마트 락 기능을 지원하고 절전 모드 기능이 변경되었다.
 
 ## 변형 기종
 
@@ -28,11 +28,11 @@ G3 스크린은 [롤리팝으로](https://ko.wikipedia.org/wiki/안드로이드_
 ## 색상
 
   - [블랙](https://ko.wikipedia.org/wiki/검정 "wikilink")
-  - [화이트](https://ko.wikipedia.org/wiki/하양 "wikilink")
+  - [화이트](../Page/하양.md "wikilink")
 
 ## 같이 보기
 
-  - [LG G3](https://ko.wikipedia.org/wiki/LG_G3 "wikilink")
+  - [LG G3](../Page/LG_G3.md "wikilink")
   - [LG G3 비트](../Page/LG_G3_비트.md "wikilink")
   - [LG G3 A](../Page/LG_G3_A.md "wikilink")
   - [LG G3 Cat.6](../Page/LG_G3_카테고리_6.md "wikilink")

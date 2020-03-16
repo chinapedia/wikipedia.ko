@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Winter Bells](https://ko.wikipedia.org/wiki/Winter_Bells).
 
 
-{{싱글 정보 | 곡명 = Winter Bells | 그림 = | 설명 = | 음악가 = [쿠라키 마이](https://ko.wikipedia.org/wiki/쿠라키_마이 "wikilink") | 음반 = [FAIRY TALE](https://ko.wikipedia.org/wiki/FAIRY_TALE "wikilink") | A 사이드 = | B 사이드 = thankful | 발매일 =  | 포맷 = | 녹음 = [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") | 장르 = [J-POP](https://ko.wikipedia.org/wiki/J-POP "wikilink") | 언어 = 일본어 | 길이 = 4분 39초 | 레이블 = [기자 스튜디오](https://ko.wikipedia.org/wiki/기자_스튜디오 "wikilink") | 작사가 = | 작곡가 = | 작사·작곡 = 쿠라키 마이, 토쿠나가 아키히토 | 프로듀서 = KANONJI | 오디오 샘플 = | 판매량 = | 연표 = | 이전싱글 = \[\[Can't_forget_your_love/PERFECT_CRIME_-Single_Edit-| 〈**Winter Bells**〉(윈터 벨즈, )는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [쿠라키 마이의](https://ko.wikipedia.org/wiki/쿠라키_마이 "wikilink") 열한 번째 [CD 싱글로](../Page/CD_싱글.md "wikilink") [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [1월 17일에](https://ko.wikipedia.org/wiki/1월_17일 "wikilink") [기자 스튜디오에서](https://ko.wikipedia.org/wiki/기자_스튜디오 "wikilink") 발매됐다.
+{{싱글 정보 | 곡명 = Winter Bells | 그림 = | 설명 = | 음악가 = [쿠라키 마이](../Page/쿠라키_마이.md "wikilink") | 음반 = [FAIRY TALE](https://ko.wikipedia.org/wiki/FAIRY_TALE "wikilink") | A 사이드 = | B 사이드 = thankful | 발매일 =  | 포맷 = | 녹음 = [2001년](../Page/2001년.md "wikilink") | 장르 = [J-POP](https://ko.wikipedia.org/wiki/J-POP "wikilink") | 언어 = 일본어 | 길이 = 4분 39초 | 레이블 = [기자 스튜디오](https://ko.wikipedia.org/wiki/기자_스튜디오 "wikilink") | 작사가 = | 작곡가 = | 작사·작곡 = 쿠라키 마이, 토쿠나가 아키히토 | 프로듀서 = KANONJI | 오디오 샘플 = | 판매량 = | 연표 = | 이전싱글 = \[\[Can't_forget_your_love/PERFECT_CRIME_-Single_Edit-| 〈**Winter Bells**〉(윈터 벨즈, )는 [일본](../Page/일본.md "wikilink") [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [쿠라키 마이의](../Page/쿠라키_마이.md "wikilink") 열한 번째 [CD 싱글로](../Page/CD_싱글.md "wikilink") [2002년](../Page/2002년.md "wikilink") [1월 17일에](../Page/1월_17일.md "wikilink") [기자 스튜디오에서](https://ko.wikipedia.org/wiki/기자_스튜디오 "wikilink") 발매됐다.
 
-노래는 [YTV](https://ko.wikipedia.org/wiki/요미우리_TV_방송 "wikilink") [NTV계](https://ko.wikipedia.org/wiki/닛폰_TV_방송망 "wikilink") 애니메이션 《[명탐정 코난](https://ko.wikipedia.org/wiki/명탐정_코난_\(애니메이션\) "wikilink")》 오프닝 테마 및 [쇼가쿠칸](https://ko.wikipedia.org/wiki/쇼가쿠칸 "wikilink") [소년 선데이](https://ko.wikipedia.org/wiki/소년_선데이 "wikilink") 전원 응모 서비스 OVA 〈명탐정 코난 16인의 용의자〉 엔딩 테마. 쿠라키 마이 첫 [크리스마스 노래이지만](https://ko.wikipedia.org/wiki/크리스마스_노래 "wikilink"), 발매된 것은 크리스마스가 지나서이다.
+노래는 [YTV](../Page/요미우리_TV_방송.md "wikilink") [NTV계](../Page/닛폰_TV_방송망.md "wikilink") 애니메이션 《[명탐정 코난](../Page/명탐정_코난_\(애니메이션\).md "wikilink")》 오프닝 테마 및 [쇼가쿠칸](../Page/쇼가쿠칸.md "wikilink") [소년 선데이](https://ko.wikipedia.org/wiki/소년_선데이 "wikilink") 전원 응모 서비스 OVA 〈명탐정 코난 16인의 용의자〉 엔딩 테마. 쿠라키 마이 첫 [크리스마스 노래이지만](https://ko.wikipedia.org/wiki/크리스마스_노래 "wikilink"), 발매된 것은 크리스마스가 지나서이다.
 
 초회한정반에는 《명탐정 코난》 사양의 "Mai-K 스페셜 코난 카드"가 봉입되어있다.
 
@@ -23,7 +23,7 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/일본의_애니메이션" title="wikilink"><span style="color:#fff">TV 애니메이션</span></a> 《<a href="https://ko.wikipedia.org/wiki/명탐정_코난_(애니메이션)" title="wikilink"><span style="color:#fff"><strong>명탐정 코난</strong></span></a>》 여는 곡<br />
+<td><p><a href="../Page/일본의_애니메이션.md" title="wikilink"><span style="color:#fff">TV 애니메이션</span></a> 《<a href="../Page/명탐정_코난_(애니메이션).md" title="wikilink"><span style="color:#fff"><strong>명탐정 코난</strong></span></a>》 여는 곡<br />
 <small>2001년 11월 26일 (259화) ~ 2002년 3월 4일 (270화)</small></p></td>
 </tr>
 <tr class="even">

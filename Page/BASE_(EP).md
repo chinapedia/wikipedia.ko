@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BASE \(EP\)](https://ko.wikipedia.org/wiki/BASE_\(EP\)).
 
 
-《**BASE**》는 [종현](https://ko.wikipedia.org/wiki/종현 "wikilink")의 첫 번째 솔로 음반이자 EP 음반이다. 2015년 1월 12일에 KT 뮤직을 통해 발매되었다.
+《**BASE**》는 [종현](../Page/종현.md "wikilink")의 첫 번째 솔로 음반이자 EP 음반이다. 2015년 1월 12일에 KT 뮤직을 통해 발매되었다.
 
 ## 수록곡
 

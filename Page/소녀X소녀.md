@@ -1,19 +1,19 @@
 > This article is converted from Wikipedia: [X](https://ko.wikipedia.org/wiki/X).
 
 
-《**소녀X소녀**》(소녀바이소녀)는 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink")에 개봉한 [대한민국의](https://ko.wikipedia.org/wiki/대한민국_영화 "wikilink") 영화이다.
+《**소녀X소녀**》(소녀바이소녀)는 [2007년](../Page/2007년.md "wikilink")에 개봉한 [대한민국의](https://ko.wikipedia.org/wiki/대한민국_영화 "wikilink") 영화이다.
 
 ## 캐스팅
 
-  - [임성언](https://ko.wikipedia.org/wiki/임성언 "wikilink") : 엄윤미 역
-  - [곽지민](https://ko.wikipedia.org/wiki/곽지민 "wikilink") : 오세리 역
+  - [임성언](../Page/임성언.md "wikilink") : 엄윤미 역
+  - [곽지민](../Page/곽지민.md "wikilink") : 오세리 역
   - [김광민](https://ko.wikipedia.org/wiki/김광민_\(1982년\) "wikilink") : 기찬 역
   - [김종엽](../Page/차엽.md "wikilink") : 영남 역
   - [최윤주](https://ko.wikipedia.org/wiki/최윤주_\(배우\) "wikilink") : 희정 역
-  - [함효주](https://ko.wikipedia.org/wiki/함효주 "wikilink") : 흑장미 3 역
-  - [권진영](https://ko.wikipedia.org/wiki/권진영 "wikilink") : 최지혜 역
+  - [함효주](../Page/함효주.md "wikilink") : 흑장미 3 역
+  - [권진영](../Page/권진영.md "wikilink") : 최지혜 역
   - [배용근](../Page/배용근.md "wikilink") : 학원 영어강사 역
-  - [손병욱](https://ko.wikipedia.org/wiki/손병욱 "wikilink") : 피씨방 직원 역
+  - [손병욱](../Page/손병욱.md "wikilink") : 피씨방 직원 역
   - [박동훈](https://ko.wikipedia.org/wiki/박동훈_\(영화_감독\) "wikilink") : 세탁소 주인 역
 
 ## 외부 링크

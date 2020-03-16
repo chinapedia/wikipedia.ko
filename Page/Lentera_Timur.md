@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Lentera Timur](https://ko.wikipedia.org/wiki/Lentera_Timur).
 
 
-**Lentera Timur**는 [말레이시아](https://ko.wikipedia.org/wiki/말레이시아 "wikilink")의 팝 가수 시티 누르할리자의 열세번 째 정규 앨범이자 네 번째 전통 음악 앨범이다. 2008년 12월 26일 시티 누르할리자 프로덕션 및 수리아 레코드를 통해 발매되었다.
+**Lentera Timur**는 [말레이시아](../Page/말레이시아.md "wikilink")의 팝 가수 시티 누르할리자의 열세번 째 정규 앨범이자 네 번째 전통 음악 앨범이다. 2008년 12월 26일 시티 누르할리자 프로덕션 및 수리아 레코드를 통해 발매되었다.
 
 ## 개요
 
@@ -30,6 +30,6 @@
 
   - 3번 트랙 <Cinta Ini>, 4번 트랙 <Ada Masa Mata>, 11번 트랙 <Di Taman Teman>은 싱글로 발매되었다.
   - 라디의 <Langit Masih Cerah>와, 아이딧 알피안의 한 곡(제목 불명)은 수록되지 않았다.
-  - 이 앨범은 수리아 레코드를 통해 발매된 마지막 정규 앨범이다(마지막 앨범은 2009년 [인도네시아](https://ko.wikipedia.org/wiki/인도네시아 "wikilink") 가수 크리스다얀티와의 듀엣 앨범 <CTKD>).
+  - 이 앨범은 수리아 레코드를 통해 발매된 마지막 정규 앨범이다(마지막 앨범은 2009년 [인도네시아](../Page/인도네시아.md "wikilink") 가수 크리스다얀티와의 듀엣 앨범 <CTKD>).
 
 [분류:시티 누르할리자의 음반](https://ko.wikipedia.org/wiki/분류:시티_누르할리자의_음반 "wikilink") [분류:2008년 음반](https://ko.wikipedia.org/wiki/분류:2008년_음반 "wikilink")

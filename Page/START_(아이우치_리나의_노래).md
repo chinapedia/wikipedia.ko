@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [START \(  \)](https://ko.wikipedia.org/wiki/START_\(__\)).
 
 
-〈**START**〉(스타트, )는 가수 [아이우치 리나의](https://ko.wikipedia.org/wiki/아이우치_리나 "wikilink") 열일곱 번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink").
+〈**START**〉(스타트, )는 가수 [아이우치 리나의](../Page/아이우치_리나.md "wikilink") 열일곱 번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 
@@ -10,7 +10,7 @@
 ## 수록곡
 
 1.  **START**
-      - 작사: [아이우치 리나](https://ko.wikipedia.org/wiki/아이우치_리나 "wikilink"), 작곡: [오노 아이카](https://ko.wikipedia.org/wiki/오노_아이카 "wikilink"), 편곡: corin.
+      - 작사: [아이우치 리나](../Page/아이우치_리나.md "wikilink"), 작곡: [오노 아이카](https://ko.wikipedia.org/wiki/오노_아이카 "wikilink"), 편곡: corin.
 2.  **Lavender Rain**
       - 작사: 아이우치 리나, 작곡: 테루카도, 편곡: 코바야시 사토루
 3.  **반짝반짝** ()
@@ -19,12 +19,12 @@
 
 ## 타이업
 
-  - [요미우리 TV](https://ko.wikipedia.org/wiki/요미우리_TV_방송 "wikilink") 애니메이션 《[명탐정 코난](https://ko.wikipedia.org/wiki/명탐정_코난_\(애니메이션\) "wikilink")》 열네 번째 여는 곡 (\#1)
+  - [요미우리 TV](../Page/요미우리_TV_방송.md "wikilink") 애니메이션 《[명탐정 코난](../Page/명탐정_코난_\(애니메이션\).md "wikilink")》 열네 번째 여는 곡 (\#1)
 
 <table>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/일본의_애니메이션" title="wikilink"><span style="color:#fff">TV 애니메이션</span></a> 《<a href="https://ko.wikipedia.org/wiki/명탐정_코난_(애니메이션)" title="wikilink"><span style="color:#fff"><strong>명탐정 코난</strong></span></a>》 오프닝 테마<br />
+<td><p><a href="../Page/일본의_애니메이션.md" title="wikilink"><span style="color:#fff">TV 애니메이션</span></a> 《<a href="../Page/명탐정_코난_(애니메이션).md" title="wikilink"><span style="color:#fff"><strong>명탐정 코난</strong></span></a>》 오프닝 테마<br />
 <small>2004년 4월 12일 (356회) ~ 2005년 3월 21일 (393회)</small></p></td>
 </tr>
 <tr class="even">

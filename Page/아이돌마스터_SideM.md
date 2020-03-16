@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [ SideM](https://ko.wikipedia.org/wiki/_SideM).
 
 
-**'아이돌마스터 SideM**' (아이돌마스터 사이드 엠)은 '[THE IDOLM@STER](https://ko.wikipedia.org/wiki/THE_IDOLM@STER "wikilink")'의 세계관을 모티브로 하는 [모바일 장치](https://ko.wikipedia.org/wiki/모바일_장치 "wikilink") 전용의 [소셜 게임](https://ko.wikipedia.org/wiki/소셜_게임 "wikilink"). 주식회사 [DeNA](https://ko.wikipedia.org/wiki/DeNA "wikilink")가 운영·제공하는, [Mobage](https://ko.wikipedia.org/wiki/Mobage "wikilink")의 컨텐츠의 하나.
+**'아이돌마스터 SideM**' (아이돌마스터 사이드 엠)은 '[THE IDOLM@STER](../Page/THE_IDOLM@STER.md "wikilink")'의 세계관을 모티브로 하는 [모바일 장치](https://ko.wikipedia.org/wiki/모바일_장치 "wikilink") 전용의 [소셜 게임](https://ko.wikipedia.org/wiki/소셜_게임 "wikilink"). 주식회사 [DeNA](https://ko.wikipedia.org/wiki/DeNA "wikilink")가 운영·제공하는, [Mobage](https://ko.wikipedia.org/wiki/Mobage "wikilink")의 컨텐츠의 하나.
 
 ## 등장 캐릭터
 
-오리지널 캐릭터 37명 외, [THE IDOLM@STER](https://ko.wikipedia.org/wiki/THE_IDOLM@STER "wikilink") 시리즈에 등장하는 961 프로 소속 아이돌 '[Jupiter](https://ko.wikipedia.org/wiki/THE_IDOLM@STER의_등장인물#Jupiter "wikilink")'의 3명이나, 전 961 프로 소속 아이돌로서 등장한다.
+오리지널 캐릭터 37명 외, [THE IDOLM@STER](../Page/THE_IDOLM@STER.md "wikilink") 시리즈에 등장하는 961 프로 소속 아이돌 '[Jupiter](https://ko.wikipedia.org/wiki/THE_IDOLM@STER의_등장인물#Jupiter "wikilink")'의 3명이나, 전 961 프로 소속 아이돌로서 등장한다.
 
 각 아이돌은, 각각 피지컬, 인텔리, 멘탈의 3종의 속성으로 나뉘어 있다. 아이돌 잡지의 표지에는 각 아이돌의 특정의 편성에 의한 유닛명이 기재되어 있다.
 
@@ -16,7 +16,7 @@
 전 961 프로 소속 아이돌 그룹. 961 프로로 유명 아이돌로서 활동하고 있었다. 그 때문에, 다른 아이돌들에게서는 연예계의 선배로서 다루어지고 있어 몇 명의 아이돌은 그들이 계기로 아이돌에 전신하고 있다.
 
   - [아마가세 토마 (天ヶ瀬 冬馬)](https://ko.wikipedia.org/wiki/THE_IDOLM@STER의_등장_인물#아마가세_토마_\(天ヶ瀬_冬馬\) "wikilink")
-    [소리](https://ko.wikipedia.org/wiki/성우 "wikilink") - [테라시마 타쿠마](https://ko.wikipedia.org/wiki/테라시마_타쿠마 "wikilink")
+    [소리](../Page/성우.md "wikilink") - [테라시마 타쿠마](../Page/테라시마_타쿠마.md "wikilink")
     생일- 3월 3일/연령- 17세/별자리-물고기자리/혈액형- B형/쓰는 손- 오른쪽/출신지-가나가와/신장- 175 cm /체중- 57 kg /신발 사이즈- 25.5 cm /취미-축구, 요리, 피겨 모음/특기-스파이스 카레 만들기/속성-피지컬
     전 961 프로 소속 아이돌. 오디션 후, 961 프로 사장의 [쿠로이 타카오에게](https://ko.wikipedia.org/wiki/THE_IDOLM@STER의_등장인물#쿠로이_타카오\(黒井_崇男\) "wikilink") 스카우트 되어 961 프로 소속 아이돌이 되었다. 하지만, 뒤공작 등을 실시하는 961 프로의 방침으로 정나미가 떨어져, 쇼타·호쿠토와 함께 961 프로를 그만두고 315 프로로 이적했다.
     입은 나쁘지만, 솔직하고 곧은 성격. 로봇 피겨를 모으는 것이 취미.
@@ -406,13 +406,13 @@
 ### 그 외의 등장인물
 
   - 사이토 타카시 (齋藤 孝司)
-    소리- [타치키 후미히코](https://ko.wikipedia.org/wiki/타치키_후미히코 "wikilink")
+    소리- [타치키 후미히코](../Page/타치키_후미히코.md "wikilink")
     315 프로 대표이사. 아이돌마스터 시리즈의 각 대표이사와 같이 검은 칠의 실루엣으로 등장. 모든 남녀층에게 인기가 있는, 힘 넘치는 아이돌을 요구하고 있다. 뜨거운 성격을 느끼게 하는 언동으로 PR를 실시하고 있다.
 
 <!-- end list -->
 
   - 야마무라 켄 (山村 賢)
-    소리- [카와니시 켄고](https://ko.wikipedia.org/wiki/카와니시_켄고 "wikilink")
+    소리- [카와니시 켄고](../Page/카와니시_켄고.md "wikilink")
     315 프로의 사무원. 안경을 이마에 쓰고 있다. '신데렐라 걸즈'에서의 센카와 치히로, 'MILLION LIVE\!'에서의 오토나시 코토리에 해당하는 캐릭터.
 
 <!-- end list -->
@@ -424,17 +424,17 @@
 
 ## LIVE ON ST@GE\!
 
-**'아이돌마스터 SideM LIVE ON ST@GE\!**' (아이돌마스터 라이브 온 스테이지\!)는 [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [8월 20일에](https://ko.wikipedia.org/wiki/8월_20일 "wikilink") 개시되는 모바일 장치 전용의 소셜 게임.
+**'아이돌마스터 SideM LIVE ON ST@GE\!**' (아이돌마스터 라이브 온 스테이지\!)는 [2017년](../Page/2017년.md "wikilink") [8월 20일에](../Page/8월_20일.md "wikilink") 개시되는 모바일 장치 전용의 소셜 게임.
 
 ## 애니메이션
 
 ### 아이돌마스터 SideM
 
-[2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [2월 12일에](https://ko.wikipedia.org/wiki/2월_12일 "wikilink") 행해진 「THE IDOLM@STER SideM 2nd STAGE \~ORIGIN@L STARS\~」2일째의 공연 내에서 애니메이션 제작 결정을 발표하였다\[3\]\[4\]. 동년 [10월](https://ko.wikipedia.org/wiki/10월 "wikilink")부터 [12월](https://ko.wikipedia.org/wiki/12월 "wikilink")까지 [도쿄 MX](https://ko.wikipedia.org/wiki/도쿄_MX "wikilink"), [마이니치 방송](https://ko.wikipedia.org/wiki/마이니치_방송 "wikilink"), [나고야 TV 방송](https://ko.wikipedia.org/wiki/나고야_TV_방송 "wikilink"), [BS11에서](https://ko.wikipedia.org/wiki/닛폰BS방송 "wikilink") 방영되었다.
+[2017년](../Page/2017년.md "wikilink") [2월 12일에](../Page/2월_12일.md "wikilink") 행해진 「THE IDOLM@STER SideM 2nd STAGE \~ORIGIN@L STARS\~」2일째의 공연 내에서 애니메이션 제작 결정을 발표하였다\[3\]\[4\]. 동년 [10월](../Page/10월.md "wikilink")부터 [12월](../Page/12월.md "wikilink")까지 [도쿄 MX](https://ko.wikipedia.org/wiki/도쿄_MX "wikilink"), [마이니치 방송](../Page/마이니치_방송.md "wikilink"), [나고야 TV 방송](../Page/나고야_TV_방송.md "wikilink"), [BS11에서](../Page/닛폰BS방송.md "wikilink") 방영되었다.
 
 ### 아이돌마스터 SideM 이유있어 Mini\!
 
-[2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [8월 20일에](https://ko.wikipedia.org/wiki/8월_20일 "wikilink") [니코니코 생방송의](https://ko.wikipedia.org/wiki/니코니코_생방송 "wikilink") 「아이돌마스터 SideM 4주년\!\!\!\! 축제다 어기영차 니코니코 생방송」중에서 [덴키 마오우의](https://ko.wikipedia.org/wiki/덴키_마오우 "wikilink") **'아이돌마스터 SideM 이유있어 Mini\!**'의 애니메이션화가 결정되었다\[5\]\[6\]\[7\]. 동년 10월부터 12월까지 도쿄 MX, BS11에서 방영되었다\[8\]\[9\]\[10\].
+[2018년](../Page/2018년.md "wikilink") [8월 20일에](../Page/8월_20일.md "wikilink") [니코니코 생방송의](https://ko.wikipedia.org/wiki/니코니코_생방송 "wikilink") 「아이돌마스터 SideM 4주년\!\!\!\! 축제다 어기영차 니코니코 생방송」중에서 [덴키 마오우의](https://ko.wikipedia.org/wiki/덴키_마오우 "wikilink") **'아이돌마스터 SideM 이유있어 Mini\!**'의 애니메이션화가 결정되었다\[5\]\[6\]\[7\]. 동년 10월부터 12월까지 도쿄 MX, BS11에서 방영되었다\[8\]\[9\]\[10\].
 
 ## 각주
 

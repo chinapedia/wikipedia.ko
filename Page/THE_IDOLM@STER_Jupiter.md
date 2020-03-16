@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [THE IDOLM@STER Jupiter](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_Jupiter).
 
 
-**'THE IDOLM@STER Jupiter**' (아이돌마스터 주피터)는 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [11월 23일에](https://ko.wikipedia.org/wiki/11월_23일 "wikilink") [일본 컬럼비아에서](../Page/일본_컬럼비아.md "wikilink") 발매된 [음반](https://ko.wikipedia.org/wiki/컨필레이션_음반 "wikilink").
+**'THE IDOLM@STER Jupiter**' (아이돌마스터 주피터)는 [2011년](../Page/2011년.md "wikilink") [11월 23일에](../Page/11월_23일.md "wikilink") [일본 컬럼비아에서](../Page/일본_컬럼비아.md "wikilink") 발매된 [음반](https://ko.wikipedia.org/wiki/컨필레이션_음반 "wikilink").
 
 ## 개요
 
@@ -15,7 +15,7 @@
 
 1.  '''Alice or Guilty(M@STER VERSION) '''
       -
-        가: Jupiter([테라시마 타쿠마](https://ko.wikipedia.org/wiki/테라시마_타쿠마 "wikilink") ,[칸바라 다이치](https://ko.wikipedia.org/wiki/칸바라_다이치 "wikilink") ,[마츠오카 요시츠구](../Page/마츠오카_요시츠구.md "wikilink"))
+        가: Jupiter([테라시마 타쿠마](../Page/테라시마_타쿠마.md "wikilink") ,[칸바라 다이치](https://ko.wikipedia.org/wiki/칸바라_다이치 "wikilink") ,[마츠오카 요시츠구](../Page/마츠오카_요시츠구.md "wikilink"))
         작사: 우에스 마코토, 작곡·편곡: NBGI(빈본리앙)
 2.  BANG×BANG
       -

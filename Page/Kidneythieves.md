@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Kidneythieves](https://ko.wikipedia.org/wiki/Kidneythieves).
 
 
-**키드니시브스**(**Kidneythieves**)는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [인더스트리얼 록](https://ko.wikipedia.org/wiki/인더스트리얼_록 "wikilink") 밴드이다. 보컬 파트의 프리 도밍구즈([Free Dominguez](https://ko.wikipedia.org/wiki/Free_Dominguez "wikilink"))와 기타/엔지니어링 파트의 브루스 소머스([Bruce Somers](https://ko.wikipedia.org/wiki/Bruce_Somers "wikilink"))가 현재 구성원이다.
+**키드니시브스**(**Kidneythieves**)는 [미국](../Page/미국.md "wikilink")의 [인더스트리얼 록](https://ko.wikipedia.org/wiki/인더스트리얼_록 "wikilink") 밴드이다. 보컬 파트의 프리 도밍구즈([Free Dominguez](https://ko.wikipedia.org/wiki/Free_Dominguez "wikilink"))와 기타/엔지니어링 파트의 브루스 소머스([Bruce Somers](https://ko.wikipedia.org/wiki/Bruce_Somers "wikilink"))가 현재 구성원이다.
 
 ## 역사
 

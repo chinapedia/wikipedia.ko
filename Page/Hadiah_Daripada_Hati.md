@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Hadiah Daripada Hati](https://ko.wikipedia.org/wiki/Hadiah_Daripada_Hati).
 
 
-**Hadiah Daripada Hati**는 [말레이시아](https://ko.wikipedia.org/wiki/말레이시아 "wikilink")의 팝 가수 [시티 누르할리자의](../Page/시티_누르할리자.md "wikilink") 열두번 째 정규 앨범이다. 2007년 12월 10일 시티 누르할리자 프로덕션을 통해 발매되었다.
+**Hadiah Daripada Hati**는 [말레이시아](../Page/말레이시아.md "wikilink")의 팝 가수 [시티 누르할리자의](../Page/시티_누르할리자.md "wikilink") 열두번 째 정규 앨범이다. 2007년 12월 10일 시티 누르할리자 프로덕션을 통해 발매되었다.
 
 ## 개요
 

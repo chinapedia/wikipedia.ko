@@ -7,29 +7,29 @@
 
 ## 2014 SBS 어워즈 페스티벌
 
-  - 일정 : [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [12월 20일](https://ko.wikipedia.org/wiki/12월_20일 "wikilink") \~ [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [12월 31일](https://ko.wikipedia.org/wiki/12월_31일 "wikilink")
-      - [12월 21일](https://ko.wikipedia.org/wiki/12월_21일 "wikilink") [SBS 가요대전](https://ko.wikipedia.org/wiki/SBS_가요대전 "wikilink")
-      - [12월 30일](https://ko.wikipedia.org/wiki/12월_30일 "wikilink") [SBS 연예대상](https://ko.wikipedia.org/wiki/SBS_연예대상 "wikilink")
-      - [12월 31일](https://ko.wikipedia.org/wiki/12월_31일 "wikilink") [SBS 연기대상](https://ko.wikipedia.org/wiki/SBS_연기대상 "wikilink")
+  - 일정 : [2014년](../Page/2014년.md "wikilink") [12월 20일](../Page/12월_20일.md "wikilink") \~ [2014년](../Page/2014년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink")
+      - [12월 21일](../Page/12월_21일.md "wikilink") [SBS 가요대전](../Page/SBS_가요대전.md "wikilink")
+      - [12월 30일](../Page/12월_30일.md "wikilink") [SBS 연예대상](../Page/SBS_연예대상.md "wikilink")
+      - [12월 31일](../Page/12월_31일.md "wikilink") [SBS 연기대상](../Page/SBS_연기대상.md "wikilink")
 
 ## 2015 SBS 어워즈 페스티벌
 
-  - 일정 : [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [12월 25일](https://ko.wikipedia.org/wiki/12월_25일 "wikilink") \~ [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [12월 31일](https://ko.wikipedia.org/wiki/12월_31일 "wikilink")
-      - [12월 27일](https://ko.wikipedia.org/wiki/12월_27일 "wikilink") [SBS 가요대전](https://ko.wikipedia.org/wiki/SBS_가요대전 "wikilink") (장소 : 삼성동 코엑스 D홀)
-      - [12월 28일](https://ko.wikipedia.org/wiki/12월_28일 "wikilink") [슈퍼모델 선발대회](../Page/슈퍼모델_선발대회.md "wikilink") (장소 : SBS 등촌동 공개홀)
-      - [12월 30일](https://ko.wikipedia.org/wiki/12월_30일 "wikilink") [SBS 연예대상](https://ko.wikipedia.org/wiki/SBS_연예대상 "wikilink") (장소 : 삼성동 코엑스 D홀)
-      - [12월 31일](https://ko.wikipedia.org/wiki/12월_31일 "wikilink") [SBS 연기대상](https://ko.wikipedia.org/wiki/SBS_연기대상 "wikilink") (장소 : 삼성동 코엑스 D홀)
+  - 일정 : [2015년](../Page/2015년.md "wikilink") [12월 25일](../Page/12월_25일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink")
+      - [12월 27일](../Page/12월_27일.md "wikilink") [SBS 가요대전](../Page/SBS_가요대전.md "wikilink") (장소 : 삼성동 코엑스 D홀)
+      - [12월 28일](../Page/12월_28일.md "wikilink") [슈퍼모델 선발대회](../Page/슈퍼모델_선발대회.md "wikilink") (장소 : SBS 등촌동 공개홀)
+      - [12월 30일](../Page/12월_30일.md "wikilink") [SBS 연예대상](../Page/SBS_연예대상.md "wikilink") (장소 : 삼성동 코엑스 D홀)
+      - [12월 31일](../Page/12월_31일.md "wikilink") [SBS 연기대상](../Page/SBS_연기대상.md "wikilink") (장소 : 삼성동 코엑스 D홀)
 
 ## 2016 SBS 어워즈 페스티벌
 
-  - 일정 : [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [12월 20일](https://ko.wikipedia.org/wiki/12월_20일 "wikilink") \~ [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [12월 26일](https://ko.wikipedia.org/wiki/12월_26일 "wikilink")
-      - [12월 25일](https://ko.wikipedia.org/wiki/12월_25일 "wikilink") [SBS 연예대상](https://ko.wikipedia.org/wiki/SBS_연예대상 "wikilink") (장소 : 상암동 SBS 프리즘타워)
-      - [12월 26일](https://ko.wikipedia.org/wiki/12월_26일 "wikilink") [SBS 가요대전](https://ko.wikipedia.org/wiki/SBS_가요대전 "wikilink") (장소 : 삼성동 코엑스 D홀)
-      - [12월 31일](https://ko.wikipedia.org/wiki/12월_31일 "wikilink") [SBS 연기대상](https://ko.wikipedia.org/wiki/SBS_연기대상 "wikilink") (장소 : 상암동 SBS 프리즘타워)
+  - 일정 : [2016년](../Page/2016년.md "wikilink") [12월 20일](../Page/12월_20일.md "wikilink") \~ [2016년](../Page/2016년.md "wikilink") [12월 26일](../Page/12월_26일.md "wikilink")
+      - [12월 25일](../Page/12월_25일.md "wikilink") [SBS 연예대상](../Page/SBS_연예대상.md "wikilink") (장소 : 상암동 SBS 프리즘타워)
+      - [12월 26일](../Page/12월_26일.md "wikilink") [SBS 가요대전](../Page/SBS_가요대전.md "wikilink") (장소 : 삼성동 코엑스 D홀)
+      - [12월 31일](../Page/12월_31일.md "wikilink") [SBS 연기대상](../Page/SBS_연기대상.md "wikilink") (장소 : 상암동 SBS 프리즘타워)
 
 ## 관련 방송 축제
 
   - [서울 드라마 어워즈](https://ko.wikipedia.org/wiki/서울_드라마_어워즈 "wikilink")
-  - [코리아 드라마 어워즈](https://ko.wikipedia.org/wiki/코리아_드라마_어워즈 "wikilink")
+  - [코리아 드라마 어워즈](../Page/코리아_드라마_어워즈.md "wikilink")
 
 [분류:2014년 설립](https://ko.wikipedia.org/wiki/분류:2014년_설립 "wikilink") [분류:대한민국의 방송상](https://ko.wikipedia.org/wiki/분류:대한민국의_방송상 "wikilink")

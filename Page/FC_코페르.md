@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
 
 
-**풋볼 클럽 코페르**(Football Club Koper)는 [코페르](https://ko.wikipedia.org/wiki/코페르 "wikilink")를 연고로 하는 슬로베니아의 프로 축구팀이다. 보통 **FC 코페르** 또는 줄여서 **코페르**라고 부른다. [마리보르](https://ko.wikipedia.org/wiki/NK_마리보르 "wikilink"), [고리차](../Page/ND_고리차.md "wikilink"), [둠잘레](https://ko.wikipedia.org/wiki/NK_돔잘레 "wikilink") 그리고 지금은 해체된 [올림피야와](https://ko.wikipedia.org/wiki/NK_올림피야_류블랴나_\(과거\) "wikilink") 함께 슬로베니아의 3개의 축구 대회([리그](https://ko.wikipedia.org/wiki/슬로베니아_프르바리가 "wikilink"), [컵](https://ko.wikipedia.org/wiki/슬로베니아_풋볼_컵 "wikilink"), [슈퍼컵](https://ko.wikipedia.org/wiki/슬로베니아_슈퍼컵 "wikilink"))를 모두 우승한 5개의 클럽중 하나이다. 홈경기는 2010년에 재보수된 [보니피카 스타디움에서](https://ko.wikipedia.org/wiki/보니피카_스타디움 "wikilink") 치루며, 수용 인원은 4,047석이다. 최근에는 [루카 코페르](https://ko.wikipedia.org/wiki/루카_코페르 "wikilink") 사와 스폰서쉽 계약을 맺어, **FC 루카 코페르**(FC Luka Koper)라는 이름으로 참가하고 있다.
+**풋볼 클럽 코페르**(Football Club Koper)는 [코페르](../Page/코페르.md "wikilink")를 연고로 하는 슬로베니아의 프로 축구팀이다. 보통 **FC 코페르** 또는 줄여서 **코페르**라고 부른다. [마리보르](../Page/NK_마리보르.md "wikilink"), [고리차](../Page/ND_고리차.md "wikilink"), [둠잘레](../Page/NK_돔잘레.md "wikilink") 그리고 지금은 해체된 [올림피야와](https://ko.wikipedia.org/wiki/NK_올림피야_류블랴나_\(과거\) "wikilink") 함께 슬로베니아의 3개의 축구 대회([리그](../Page/슬로베니아_프르바리가.md "wikilink"), [컵](https://ko.wikipedia.org/wiki/슬로베니아_풋볼_컵 "wikilink"), [슈퍼컵](https://ko.wikipedia.org/wiki/슬로베니아_슈퍼컵 "wikilink"))를 모두 우승한 5개의 클럽중 하나이다. 홈경기는 2010년에 재보수된 [보니피카 스타디움에서](https://ko.wikipedia.org/wiki/보니피카_스타디움 "wikilink") 치루며, 수용 인원은 4,047석이다. 최근에는 [루카 코페르](https://ko.wikipedia.org/wiki/루카_코페르 "wikilink") 사와 스폰서쉽 계약을 맺어, **FC 루카 코페르**(FC Luka Koper)라는 이름으로 참가하고 있다.
 
 ## 역대 성적
 
@@ -19,7 +19,7 @@
 
 <!-- end list -->
 
-  - **[슬로베니아 1부 리그](https://ko.wikipedia.org/wiki/슬로베니아_프르바리가 "wikilink"):**
+  - **[슬로베니아 1부 리그](../Page/슬로베니아_프르바리가.md "wikilink"):**
 
 <!-- end list -->
 

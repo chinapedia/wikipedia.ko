@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [PETIT IDOLM@STER Twelve Campaigns!](https://ko.wikipedia.org/wiki/PETIT_IDOLM@STER_Twelve_Campaigns!).
 
 
-**'PETIT IDOLM@STER Twelve Campaigns\!**'(프티 아이돌마스터 트웰브 캠페인즈)는 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [5월 28일부터](https://ko.wikipedia.org/wiki/5월_28일 "wikilink") [프런티어 워크스](https://ko.wikipedia.org/wiki/프런티어_워크스 "wikilink") (발매원)·[KADOKAWA](https://ko.wikipedia.org/wiki/KADOKAWA "wikilink") [미디어 팩토리](https://ko.wikipedia.org/wiki/미디어_팩토리 "wikilink") (판매원)에서 발매되고 있는, Web 애니메이션 '[프티마스\!\! - 프티프티 아이돌마스터-](https://ko.wikipedia.org/wiki/프티마스!_-PETIT_IDOLM@STER-#애니메이션 "wikilink")'의 [캐릭터 송](https://ko.wikipedia.org/wiki/캐릭터_송 "wikilink") 시리즈. 모두 6매.
+**'PETIT IDOLM@STER Twelve Campaigns\!**'(프티 아이돌마스터 트웰브 캠페인즈)는 [2014년](../Page/2014년.md "wikilink") [5월 28일부터](../Page/5월_28일.md "wikilink") [프런티어 워크스](https://ko.wikipedia.org/wiki/프런티어_워크스 "wikilink") (발매원)·[KADOKAWA](https://ko.wikipedia.org/wiki/KADOKAWA "wikilink") [미디어 팩토리](https://ko.wikipedia.org/wiki/미디어_팩토리 "wikilink") (판매원)에서 발매되고 있는, Web 애니메이션 '[프티마스\!\! - 프티프티 아이돌마스터-](https://ko.wikipedia.org/wiki/프티마스!_-PETIT_IDOLM@STER-#애니메이션 "wikilink")'의 [캐릭터 송](https://ko.wikipedia.org/wiki/캐릭터_송 "wikilink") 시리즈. 모두 6매.
 
 ## 개요
 
 애니메이션 '프티마스\!\! - 프티프티 아이돌마스터-'의 캐릭터 송 시리즈.
 
-각 CD 마다 2쌍씩 참가해, 각각 캠페인 송을 테마로 한 솔로 신곡과 그 가라오케 버전, 담당한 달교체 ED곡의 솔로 믹스, 프티돌·코토리·프로듀서를 섞은 드라마 파트 '아침의 연속프티드라마' ([NHK](https://ko.wikipedia.org/wiki/NHK "wikilink") [연속 TV 소설의](https://ko.wikipedia.org/wiki/연속_TV_소설 "wikilink") 패러디)가 수록되고 있다.
+각 CD 마다 2쌍씩 참가해, 각각 캠페인 송을 테마로 한 솔로 신곡과 그 가라오케 버전, 담당한 달교체 ED곡의 솔로 믹스, 프티돌·코토리·프로듀서를 섞은 드라마 파트 '아침의 연속프티드라마' ([NHK](https://ko.wikipedia.org/wiki/NHK "wikilink") [연속 TV 소설의](../Page/연속_TV_소설.md "wikilink") 패러디)가 수록되고 있다.
 
 쟈켓 일러스트는 [타마도 장대](https://ko.wikipedia.org/wiki/타마도_장대 "wikilink"). 신곡 타이틀은 '[PETIT IDOLM@STER Twelve Seasons\!](../Page/PETIT_IDOLM@STER_Twelve_Seasons!.md "wikilink")' 같이, 머리 한 글자를 연결하면 문장이 된다.
 
@@ -28,7 +28,7 @@
 2.  아침의 연속프티드라마 모두 꺄편-야요이와 야요 편—
 3.  **에피소드 러브**
       -
-        가: 미나세 이오리([쿠기미야 리에](https://ko.wikipedia.org/wiki/쿠기미야_리에 "wikilink"))
+        가: 미나세 이오리([쿠기미야 리에](../Page/쿠기미야_리에.md "wikilink"))
         작사: yura, 작곡: el, 편곡: [manzo](https://ko.wikipedia.org/wiki/manzo "wikilink")
 4.  아침의 연속프티드라마 모두 꺄편-이오리와 이오 편—
 5.  감격 해피 이콜로지 off vocal
@@ -54,12 +54,12 @@
 
 1.  **달의 벚꽃**
       -
-        가: 시죠 타카네([하라 유미](https://ko.wikipedia.org/wiki/하라_유미 "wikilink"))
+        가: 시죠 타카네([하라 유미](../Page/하라_유미.md "wikilink"))
         작사: yura, 작곡·편곡: [야마구치 아키라언](https://ko.wikipedia.org/wiki/야마구치_아키라언 "wikilink")
 2.  아침의 연속프티드라마 모두 꺄편-타카네와 타카냐 편—
 3.  **하늘과 바다의 섬**
       -
-        가: 가나하 히비키([누마쿠라 마나미](https://ko.wikipedia.org/wiki/누마쿠라_마나미 "wikilink"))
+        가: 가나하 히비키([누마쿠라 마나미](../Page/누마쿠라_마나미.md "wikilink"))
         작사: yura, 작곡: 소노다 토모야, 편곡: [모모이시원](https://ko.wikipedia.org/wiki/모모이시원 "wikilink")
 4.  아침의 연속프티드라마 모두 꺄편-히비키와 치비키 편—
 5.  달의 벚꽃 off vocal
@@ -90,7 +90,7 @@
 2.  아침의 연속프티드라마 모두 꺄편-리츠코와 칫쨩 편—
 3.  **적극적으로 가자♪**
       -
-        가: 아마미 하루카([나카무라 에리코](https://ko.wikipedia.org/wiki/나카무라_에리코 "wikilink"))
+        가: 아마미 하루카([나카무라 에리코](../Page/나카무라_에리코.md "wikilink"))
         작사: yura, 작곡: 모리야 타카시 맑음, 편곡: 야자 오지 않아
 4.  아침의 연속프티드라마 모두 꺄편-하루카과 하루카 씨 편—
 5.  Q\&A off vocal
@@ -116,7 +116,7 @@
 
 1.  **잘천천히**
       -
-        가: 키사라기 치하야([이마이 아사미](https://ko.wikipedia.org/wiki/이마이_아사미 "wikilink"))
+        가: 키사라기 치하야([이마이 아사미](../Page/이마이_아사미.md "wikilink"))
         작사: yura, 작곡·편곡: 이시즈카령의
 2.  아침의 연속프티드라마 모두 꺄편-치하야와 치햐 편—
 3.  **중요한 사람**
@@ -148,7 +148,7 @@
 2.  아침의 연속프티드라마 모두 꺄편-유키호와 유키포 편—
 3.  **챔피언**
       -
-        가: 호시이 미키([하세가와 아키코](https://ko.wikipedia.org/wiki/하세가와_아키코 "wikilink"))
+        가: 호시이 미키([하세가와 아키코](../Page/하세가와_아키코.md "wikilink"))
         작사: yura, 작곡·편곡: 이시즈카령의
 4.  아침의 연속프티드라마 모두 꺄편-미키와 아후 편—
 5.  Pu-Ru-Ru off vocal
@@ -170,12 +170,12 @@
 
 1.  **덜컥☆하피바**
       -
-        가: 후타미 아미/마미([시모다 아사미](https://ko.wikipedia.org/wiki/시모다_아사미 "wikilink"))
+        가: 후타미 아미/마미([시모다 아사미](../Page/시모다_아사미.md "wikilink"))
         작사: yura, 작곡: 와카바야시 타카트그, 편곡: 후쿠토미 마사유키
 2.  아침의 연속프티드라마 모두 꺄편-아미·마미와 코아미·코마미 편—
 3.  **LOOK THE SKY**
       -
-        가: 미우라 아즈사([타카하시 치아키](https://ko.wikipedia.org/wiki/타카하시_치아키 "wikilink"))
+        가: 미우라 아즈사([타카하시 치아키](../Page/타카하시_치아키.md "wikilink"))
         작사: yura, 작곡: [후지모토기자](https://ko.wikipedia.org/wiki/후지모토기자 "wikilink") , 편곡: 후쿠토미 마사유키
 4.  아침의 연속프티드라마 모두 꺄편-아즈사와 미우라씨 편—
 5.  덜컥☆하피바off vocal

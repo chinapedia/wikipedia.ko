@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SWEET \& SOUR](https://ko.wikipedia.org/wiki/SWEET_\&_SOUR).
 
 
-《**SWEET & SOUR**》는 대한민국의 여성 4인조 댄스 그룹 [씨스타](https://ko.wikipedia.org/wiki/씨스타 "wikilink")의 스페셜 음반이다. 타이틀곡은 〈I Swear〉이다. [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [7월 21일부터](https://ko.wikipedia.org/wiki/7월_21일 "wikilink") [TOUCH N MOVE의](../Page/TOUCH_N_MOVE.md "wikilink") 타이틀곡 [Touch My Body로](https://ko.wikipedia.org/wiki/Touch_My_Body "wikilink") 활동을 한후 공백기 없이 바로 [엠카운트다운](https://ko.wikipedia.org/wiki/엠카운트다운 "wikilink")으로 컴백하였다.
+《**SWEET & SOUR**》는 대한민국의 여성 4인조 댄스 그룹 [씨스타](../Page/씨스타.md "wikilink")의 스페셜 음반이다. 타이틀곡은 〈I Swear〉이다. [2014년](../Page/2014년.md "wikilink") [7월 21일부터](../Page/7월_21일.md "wikilink") [TOUCH N MOVE의](../Page/TOUCH_N_MOVE.md "wikilink") 타이틀곡 [Touch My Body로](https://ko.wikipedia.org/wiki/Touch_My_Body "wikilink") 활동을 한후 공백기 없이 바로 [엠카운트다운](https://ko.wikipedia.org/wiki/엠카운트다운 "wikilink")으로 컴백하였다.
 
 ## 수록곡
 

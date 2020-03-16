@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [White \(NEWS \)](https://ko.wikipedia.org/wiki/White_\(NEWS_\)).
 
 
-《**White**》(화이트)는, [NEWS](https://ko.wikipedia.org/wiki/NEWS "wikilink")의 6번째 [정규 음반이다](https://ko.wikipedia.org/wiki/정규_음반 "wikilink").
+《**White**》(화이트)는, [NEWS](https://ko.wikipedia.org/wiki/NEWS "wikilink")의 6번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
 
 ## 개요
 
@@ -66,16 +66,16 @@
 9.  **ONE -for the win-**
 10. **White Love Story**
 11. ****
-12. ** 2015** / <small>**로미오 2015**</small> \[Vocal:[코야마 케이치로](https://ko.wikipedia.org/wiki/코야마_케이치로 "wikilink")\]
+12. ** 2015** / <small>**로미오 2015**</small> \[Vocal:[코야마 케이치로](../Page/코야마_케이치로.md "wikilink")\]
       -
         작사·작곡: 오오야기 히로오 / 편곡: 타카하시 료, 오오야기 히로오, 스야마 준
-13. **Skye Beautiful** \[Vocal:[마스다 타카히사](https://ko.wikipedia.org/wiki/마스다_타카히사 "wikilink")\]
+13. **Skye Beautiful** \[Vocal:[마스다 타카히사](../Page/마스다_타카히사.md "wikilink")\]
       -
         작사·작곡: Ryohei Yamamoto / 편곡: TRAKSTA
-14. **** / <small>**당신**</small> \[Vocal:[테고시 유야](https://ko.wikipedia.org/wiki/테고시_유야 "wikilink")\]
+14. **** / <small>**당신**</small> \[Vocal:[테고시 유야](../Page/테고시_유야.md "wikilink")\]
       -
         작사: kafka / 작곡: einosuke / 편곡: Junji Chiba
-15. **ESCORT** \[Vocal:[카토 시게아키](https://ko.wikipedia.org/wiki/카토_시게아키 "wikilink")\]
+15. **ESCORT** \[Vocal:[카토 시게아키](../Page/카토_시게아키.md "wikilink")\]
       -
         작사·작곡: 카토 시게아키 / 편곡: Ryosuke Nakanishi
 

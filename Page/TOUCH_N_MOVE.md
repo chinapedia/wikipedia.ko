@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TOUCH N MOVE](https://ko.wikipedia.org/wiki/TOUCH_N_MOVE).
 
 
-《**TOUCH N MOVE**》는 대한민국의 걸 그룹 [씨스타](https://ko.wikipedia.org/wiki/씨스타 "wikilink")의 EP 앨범이다. 2014년 7월 21일에 로엔엔터테인먼트를 통해 발매하였다.
+《**TOUCH N MOVE**》는 대한민국의 걸 그룹 [씨스타](../Page/씨스타.md "wikilink")의 EP 앨범이다. 2014년 7월 21일에 로엔엔터테인먼트를 통해 발매하였다.
 
 ## 수록곡
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LUV \(\)](https://ko.wikipedia.org/wiki/LUV_\(\)).
 
 
-〈**LUV**〉(러브)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [에이핑크](https://ko.wikipedia.org/wiki/에이핑크 "wikilink")의 [노래](https://ko.wikipedia.org/wiki/노래 "wikilink")이다. 다섯 번째 미니 음반 《[Pink LUV](../Page/Pink_LUV.md "wikilink")》 타이틀곡으로서 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [11월 24일](https://ko.wikipedia.org/wiki/11월_24일 "wikilink") 발매되었으며, 일본에서는 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [5월 20일에](https://ko.wikipedia.org/wiki/5월_20일 "wikilink") 싱글로 발매됐다. 누구나 한번쯤 겪어봤을 첫사랑의 기억을 담은 노래이며, 톡톡 튀는 기존의 노래와는 달리 이별을 노래했다는 것이 특징이다.
+〈**LUV**〉(러브)는 [대한민국](../Page/대한민국.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [에이핑크](../Page/에이핑크.md "wikilink")의 [노래](https://ko.wikipedia.org/wiki/노래 "wikilink")이다. 다섯 번째 미니 음반 《[Pink LUV](../Page/Pink_LUV.md "wikilink")》 타이틀곡으로서 [2014년](../Page/2014년.md "wikilink") [11월 24일](../Page/11월_24일.md "wikilink") 발매되었으며, 일본에서는 [2015년](../Page/2015년.md "wikilink") [5월 20일에](../Page/5월_20일.md "wikilink") 싱글로 발매됐다. 누구나 한번쯤 겪어봤을 첫사랑의 기억을 담은 노래이며, 톡톡 튀는 기존의 노래와는 달리 이별을 노래했다는 것이 특징이다.
 
 ## 개요
 
@@ -51,11 +51,11 @@
 
 ## 발매일
 
-| 국가 | 일정            | 포맷                                                                                                                    | 레이블                                                               |
-| -- | ------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| 한국 | 2014년 11월 24일 | [디지털 다운로드](https://ko.wikipedia.org/wiki/디지털_다운로드 "wikilink"), [CD](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink") | [플랜에이 엔터테인먼트](../Page/플랜에이_엔터테인먼트.md "wikilink")                  |
-| 일본 | 2015년 5월 20일  | 디지털 다운로드, CD                                                                                                          | [유니버설 뮤직 재팬](https://ko.wikipedia.org/wiki/유니버설_뮤직_재팬 "wikilink") |
-|    |               |                                                                                                                       |                                                                   |
+| 국가 | 일정            | 포맷                                                                                                 | 레이블                                                               |
+| -- | ------------- | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| 한국 | 2014년 11월 24일 | [디지털 다운로드](https://ko.wikipedia.org/wiki/디지털_다운로드 "wikilink"), [CD](../Page/콤팩트_디스크.md "wikilink") | [플랜에이 엔터테인먼트](../Page/플랜에이_엔터테인먼트.md "wikilink")                  |
+| 일본 | 2015년 5월 20일  | 디지털 다운로드, CD                                                                                       | [유니버설 뮤직 재팬](https://ko.wikipedia.org/wiki/유니버설_뮤직_재팬 "wikilink") |
+|    |               |                                                                                                    |                                                                   |
 
 ## 각주
 

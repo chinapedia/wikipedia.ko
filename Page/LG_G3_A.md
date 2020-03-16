@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LG G3 A](https://ko.wikipedia.org/wiki/LG_G3_A).
 
 
-**LG G3 A**는 [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")가 [SK텔레콤](https://ko.wikipedia.org/wiki/SK텔레콤 "wikilink")의 요청으로 [SK텔레콤](https://ko.wikipedia.org/wiki/SK텔레콤 "wikilink")을 통해 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [8월 8일](https://ko.wikipedia.org/wiki/8월_8일 "wikilink") 출시한 [LG G3의](https://ko.wikipedia.org/wiki/LG_G3 "wikilink") 파생 모델이다.\[1\] 스펙은 [LG G2와](../Page/LG_G2.md "wikilink") 같지만 디자인은 [LG G3와](https://ko.wikipedia.org/wiki/LG_G3 "wikilink") 비슷하다. 디자인은 [G3와](https://ko.wikipedia.org/wiki/LG_G3 "wikilink") 거의 동일하지만 배터리 커버에 헤어라인이 아닌 3D 메탈릭 프린팅 기법을 사용하여 다른 느낌을 주었다.
+**LG G3 A**는 [LG전자](../Page/LG전자.md "wikilink")가 [SK텔레콤](../Page/SK텔레콤.md "wikilink")의 요청으로 [SK텔레콤](../Page/SK텔레콤.md "wikilink")을 통해 [2014년](../Page/2014년.md "wikilink") [8월 8일](../Page/8월_8일.md "wikilink") 출시한 [LG G3의](../Page/LG_G3.md "wikilink") 파생 모델이다.\[1\] 스펙은 [LG G2와](../Page/LG_G2.md "wikilink") 같지만 디자인은 [LG G3와](../Page/LG_G3.md "wikilink") 비슷하다. 디자인은 [G3와](../Page/LG_G3.md "wikilink") 거의 동일하지만 배터리 커버에 헤어라인이 아닌 3D 메탈릭 프린팅 기법을 사용하여 다른 느낌을 주었다.
 
 ## 운영체제/소프트웨어
 
@@ -11,7 +11,7 @@ G3 A는 [4.4 킷캣을](https://ko.wikipedia.org/wiki/안드로이드_버전_역
 
 ### 안드로이드 5.0.2 롤리팝
 
-[2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [3월 31일](https://ko.wikipedia.org/wiki/3월_31일 "wikilink") [5.0.2 롤리팝](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 오픈소스가 공개되었고 업데이트는 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [4월 7일에](https://ko.wikipedia.org/wiki/4월_7일 "wikilink") 시행되었다.\[2\] 업데이트로 UI가 개선되고 램 누수 문제와 배터리 소모 문제를 개선하였다.
+[2015년](../Page/2015년.md "wikilink") [3월 31일](../Page/3월_31일.md "wikilink") [5.0.2 롤리팝](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 오픈소스가 공개되었고 업데이트는 [2015년](../Page/2015년.md "wikilink") [4월 7일에](../Page/4월_7일.md "wikilink") 시행되었다.\[2\] 업데이트로 UI가 개선되고 램 누수 문제와 배터리 소모 문제를 개선하였다.
 
 ## 특수 기능
 
@@ -25,17 +25,17 @@ G3 A는 [4.4 킷캣을](https://ko.wikipedia.org/wiki/안드로이드_버전_역
 
 ### 레이저 오토 포커스
 
-레이저를 이용해서 사진의 초점을 빠르게 잡는 기능이다. 야간 촬영 시 피사체의 위치를 찾기 어려울 때 유용하며, [LG G3에서](https://ko.wikipedia.org/wiki/LG_G3 "wikilink") 처음 시작되었다.
+레이저를 이용해서 사진의 초점을 빠르게 잡는 기능이다. 야간 촬영 시 피사체의 위치를 찾기 어려울 때 유용하며, [LG G3에서](../Page/LG_G3.md "wikilink") 처음 시작되었다.
 
 ## 색상
 
   - [티탄](https://ko.wikipedia.org/wiki/검정 "wikilink")
-  - [화이트](https://ko.wikipedia.org/wiki/하양 "wikilink")
+  - [화이트](../Page/하양.md "wikilink")
 
 ## 같이 보기
 
   - [LG G2](../Page/LG_G2.md "wikilink")
-  - [LG G3](https://ko.wikipedia.org/wiki/LG_G3 "wikilink")
+  - [LG G3](../Page/LG_G3.md "wikilink")
   - [LG G3 비트](../Page/LG_G3_비트.md "wikilink")
   - [LG G3 Cat.6](../Page/LG_G3_카테고리_6.md "wikilink")
   - [LG Gx2](../Page/LG_Gx2.md "wikilink")

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LG ](https://ko.wikipedia.org/wiki/LG_).
 
 
-**LG 아카 (LG AKA)**는 한중 최초 페르소나 [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")이다. 우키, 에기, 소울, 요요 이렇게 네 개의 캐릭터가 있으며, 각 컬러마다 UI가 다르다. 출시 초기에는 아카를 구입하면 다른 색상의 케이스를 추가 증정하기도 했다.\[1\]
+**LG 아카 (LG AKA)**는 한중 최초 페르소나 [스마트폰](../Page/스마트폰.md "wikilink")이다. 우키, 에기, 소울, 요요 이렇게 네 개의 캐릭터가 있으며, 각 컬러마다 UI가 다르다. 출시 초기에는 아카를 구입하면 다른 색상의 케이스를 추가 증정하기도 했다.\[1\]
 
 ## 운영체제/소프트웨어
 
@@ -11,7 +11,7 @@
 
 ### 안드로이드 5.0.2 롤리팝
 
-[2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [4월 30일](https://ko.wikipedia.org/wiki/4월_30일 "wikilink") 아카에 [5.0.2 롤리팝이](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 배포되었다.\[2\] 이 업그레이드로 [LG G3와](https://ko.wikipedia.org/wiki/LG_G3 "wikilink") UI가 비슷해지고, 상단바가 [롤리팝](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 스타일로 바뀌었다. 그리고 커버를 덮으면 나오는 눈 모양을 마음대로 바꿀 수 있다.
+[2015년](../Page/2015년.md "wikilink") [4월 30일](../Page/4월_30일.md "wikilink") 아카에 [5.0.2 롤리팝이](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 배포되었다.\[2\] 이 업그레이드로 [LG G3와](../Page/LG_G3.md "wikilink") UI가 비슷해지고, 상단바가 [롤리팝](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 스타일로 바뀌었다. 그리고 커버를 덮으면 나오는 눈 모양을 마음대로 바꿀 수 있다.
 
 ## 특수 기능
 
@@ -34,9 +34,9 @@
 ## 색상
 
   - [네이비](https://ko.wikipedia.org/wiki/남색 "wikilink") (소울)
-  - [화이트](https://ko.wikipedia.org/wiki/하양 "wikilink") (우키)
-  - [핑크](https://ko.wikipedia.org/wiki/분홍 "wikilink") (요요)
-  - [옐로우](https://ko.wikipedia.org/wiki/노랑 "wikilink") (에기)
+  - [화이트](../Page/하양.md "wikilink") (우키)
+  - [핑크](../Page/분홍.md "wikilink") (요요)
+  - [옐로우](../Page/노랑.md "wikilink") (에기)
 
 ## 같이 보기
 

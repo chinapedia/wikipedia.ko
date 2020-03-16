@@ -11,7 +11,7 @@
 
 ## 애니메이션
 
-[2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [4월 14일부터](https://ko.wikipedia.org/wiki/4월_14일 "wikilink") [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [3월 30일까지](https://ko.wikipedia.org/wiki/3월_30일 "wikilink") 일본 [TBS](https://ko.wikipedia.org/wiki/TBS "wikilink")에서 저녁 애니메이션으로 방영되었다. [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 [투니버스](https://ko.wikipedia.org/wiki/투니버스 "wikilink")에서 [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink")에 더빙하여 26개의 에피소드를 1기로, [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink")에 더빙햐여 18개의 에피소드를 2기로 구분하여 방영하였다. 그렇지만, 나머지 6개의 에피소드는 왜색이 막강한 방송규제관계로 방영되지 못하였다.
+[2001년](../Page/2001년.md "wikilink") [4월 14일부터](../Page/4월_14일.md "wikilink") [2002년](../Page/2002년.md "wikilink") [3월 30일까지](../Page/3월_30일.md "wikilink") 일본 [TBS](https://ko.wikipedia.org/wiki/TBS "wikilink")에서 저녁 애니메이션으로 방영되었다. [대한민국](../Page/대한민국.md "wikilink")에서는 [투니버스](../Page/투니버스.md "wikilink")에서 [2001년](../Page/2001년.md "wikilink")에 더빙하여 26개의 에피소드를 1기로, [2003년](../Page/2003년.md "wikilink")에 더빙햐여 18개의 에피소드를 2기로 구분하여 방영하였다. 그렇지만, 나머지 6개의 에피소드는 왜색이 막강한 방송규제관계로 방영되지 못하였다.
 
 ### 방영 목록
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [UEFA U-19   ](https://ko.wikipedia.org/wiki/UEFA_U-19___).
 
 
-**UEFA U-19 축구 선수권 대회**(UEFA European Under-19 Championship)는 [유럽 축구 연맹](https://ko.wikipedia.org/wiki/유럽_축구_연맹 "wikilink")(UEFA)이 주관하는 19세 이하 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 국가대표팀 간의 국가대항전이다. 짝수 해에 열리는 대회는 [FIFA U-20 월드컵의](https://ko.wikipedia.org/wiki/FIFA_U-20_월드컵 "wikilink") 유럽 지역 예선을 겸한다.
+**UEFA U-19 축구 선수권 대회**(UEFA European Under-19 Championship)는 [유럽 축구 연맹](../Page/유럽_축구_연맹.md "wikilink")(UEFA)이 주관하는 19세 이하 [축구](../Page/축구.md "wikilink") 국가대표팀 간의 국가대항전이다. 짝수 해에 열리는 대회는 [FIFA U-20 월드컵의](../Page/FIFA_U-20_월드컵.md "wikilink") 유럽 지역 예선을 겸한다.
 
 ## 역대 대회
 
@@ -77,7 +77,7 @@
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>0 : 0</strong><br />
-<small>(<a href="https://ko.wikipedia.org/wiki/연장전" title="wikilink">연장전</a>)</small><br />
+<small>(<a href="../Page/연장전.md" title="wikilink">연장전</a>)</small><br />
 <small><strong>골득실에서 앞선 스페인이 승리함</strong></small></p></td>
 <td></td>
 <td></td>
@@ -97,7 +97,7 @@
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>2 : 2</strong><br />
-<small>(<a href="https://ko.wikipedia.org/wiki/연장전" title="wikilink">연장전</a>)</small><br />
+<small>(<a href="../Page/연장전.md" title="wikilink">연장전</a>)</small><br />
 <small><strong>골득실에서 앞선 스페인이 승리함</strong></small></p></td>
 <td></td>
 <td></td>
@@ -250,7 +250,7 @@
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>1 : 1</strong><br />
-<small>(<a href="https://ko.wikipedia.org/wiki/연장전" title="wikilink">연장전</a>)</small><br />
+<small>(<a href="../Page/연장전.md" title="wikilink">연장전</a>)</small><br />
 <small><strong>불가리아가 동전 던지기에서 승리함</strong></small></p></td>
 <td></td>
 <td></td>
@@ -261,7 +261,7 @@
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>1 : 1</strong><br />
-<small>(<a href="https://ko.wikipedia.org/wiki/연장전" title="wikilink">연장전</a>)</small><br />
+<small>(<a href="../Page/연장전.md" title="wikilink">연장전</a>)</small><br />
 <small><strong>동독이 동전 던지기에서 승리함</strong></small></p></td>
 <td></td>
 <td></td>
@@ -290,7 +290,7 @@
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>3 : 2</strong><br />
-<small>(<a href="https://ko.wikipedia.org/wiki/연장전" title="wikilink">연장전</a>)</small></p></td>
+<small>(<a href="../Page/연장전.md" title="wikilink">연장전</a>)</small></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -426,7 +426,7 @@
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>0 : 0<br />
-<small>(<a href="https://ko.wikipedia.org/wiki/승부차기" title="wikilink">승부차기</a> 3 : 2)</small></strong></p></td>
+<small>(<a href="../Page/승부차기.md" title="wikilink">승부차기</a> 3 : 2)</small></strong></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -445,7 +445,7 @@
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>3 : 1</strong><br />
-<small>(<a href="https://ko.wikipedia.org/wiki/연장전" title="wikilink">연장전</a>)</small></p></td>
+<small>(<a href="../Page/연장전.md" title="wikilink">연장전</a>)</small></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -455,7 +455,7 @@
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>0 : 0<br />
-<small>(<a href="https://ko.wikipedia.org/wiki/승부차기" title="wikilink">승부차기</a> 4 : 2)</small></strong></p></td>
+<small>(<a href="../Page/승부차기.md" title="wikilink">승부차기</a> 4 : 2)</small></strong></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -484,7 +484,7 @@
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>1 : 1<br />
-<small>(<a href="https://ko.wikipedia.org/wiki/승부차기" title="wikilink">승부차기</a> 4 : 1)</small></strong></p></td>
+<small>(<a href="../Page/승부차기.md" title="wikilink">승부차기</a> 4 : 1)</small></strong></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -522,7 +522,7 @@
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>1 : 1<br />
-<small>(<a href="https://ko.wikipedia.org/wiki/승부차기" title="wikilink">승부차기</a> 4 : 3)</small></strong></p></td>
+<small>(<a href="../Page/승부차기.md" title="wikilink">승부차기</a> 4 : 3)</small></strong></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -689,7 +689,7 @@
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>3 : 2</strong><br />
-<small>(<a href="https://ko.wikipedia.org/wiki/연장전" title="wikilink">연장전</a>)</small></p></td>
+<small>(<a href="../Page/연장전.md" title="wikilink">연장전</a>)</small></p></td>
 <td></td>
 <td><p>, </p></td>
 </tr>
@@ -753,7 +753,7 @@
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>4 : 3</strong><br />
-<small>(<a href="https://ko.wikipedia.org/wiki/연장전" title="wikilink">연장전</a>)</small></p></td>
+<small>(<a href="../Page/연장전.md" title="wikilink">연장전</a>)</small></p></td>
 <td></td>
 <td><p>, </p></td>
 </tr>
@@ -763,7 +763,7 @@
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>2 : 0</strong><br />
-<small>(<a href="https://ko.wikipedia.org/wiki/연장전" title="wikilink">연장전</a>)</small></p></td>
+<small>(<a href="../Page/연장전.md" title="wikilink">연장전</a>)</small></p></td>
 <td></td>
 <td><p>, </p></td>
 </tr>
@@ -781,6 +781,6 @@
 
 ## 같이 보기
 
-  - [UEFA U-19 여자 축구 선수권 대회](https://ko.wikipedia.org/wiki/UEFA_U-19_여자_축구_선수권_대회 "wikilink")
+  - [UEFA U-19 여자 축구 선수권 대회](../Page/UEFA_U-19_여자_축구_선수권_대회.md "wikilink")
 
 [UEFA_U-19_축구_선수권_대회](https://ko.wikipedia.org/wiki/분류:UEFA_U-19_축구_선수권_대회 "wikilink")

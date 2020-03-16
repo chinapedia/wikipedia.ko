@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Part.A Sunny Blues](https://ko.wikipedia.org/wiki/Part.A_Sunny_Blues).
 
 
-Part A, SunnyBlues 는 [써니힐](https://ko.wikipedia.org/wiki/써니힐 "wikilink")의 정규 1집 앨범이다. 2014년 8월 1일 수록곡 "그 해 여름"을 선공개 하였으며\[1\] 8월 19일 타이틀곡인 "Monday Blues" 뮤직비디오 티저가 공개\[2\] 되었고 8월 21일 Part A, SunnyBlues 앨범이 발매하였다\[3\]
+Part A, SunnyBlues 는 [써니힐](../Page/써니힐.md "wikilink")의 정규 1집 앨범이다. 2014년 8월 1일 수록곡 "그 해 여름"을 선공개 하였으며\[1\] 8월 19일 타이틀곡인 "Monday Blues" 뮤직비디오 티저가 공개\[2\] 되었고 8월 21일 Part A, SunnyBlues 앨범이 발매하였다\[3\]
 
 ## 특징
 
-  - 7월 27일 [써니힐](https://ko.wikipedia.org/wiki/써니힐 "wikilink") 멤버 [주비는](https://ko.wikipedia.org/wiki/주비_\(가수\) "wikilink") 자신의 트위터 계정에 "여름," 이라는 멘트와 "절대 잊지 못하는 한 여름 꿈같은 얘기"라고 쓰여진 다이어리 사진을 공개하며 본격적인 컴백을 알린다\[4\]
+  - 7월 27일 [써니힐](../Page/써니힐.md "wikilink") 멤버 [주비는](https://ko.wikipedia.org/wiki/주비_\(가수\) "wikilink") 자신의 트위터 계정에 "여름," 이라는 멘트와 "절대 잊지 못하는 한 여름 꿈같은 얘기"라고 쓰여진 다이어리 사진을 공개하며 본격적인 컴백을 알린다\[4\]
   - 선공개 곡인 "그 해 여름"은 순수했던 어린시절 첫사랑을 회상하는 노래이다.
   - 타이틀 곡은 **Monday Blues** 이다 일렉트로닉 레게리듬의 스트링이 조화를 이룬 곡으로 직장인들의 월요병과 사무실 내의 고충을 이야기 하고있다\[5\]
   - 파트A.B로 나뉘어져 있으며 파트B는 2015년 1월 29일 타이틀곡 **'교복을 벗고**'로 발매되었다.

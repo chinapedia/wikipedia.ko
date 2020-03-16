@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [NHK  ](https://ko.wikipedia.org/wiki/NHK__).
 
 
-**NHK 특집 실크로드**()는 1980년대에 [일본방송협회](https://ko.wikipedia.org/wiki/일본방송협회 "wikilink")(NHK)에서 제작·방영한 [다큐멘터리](https://ko.wikipedia.org/wiki/다큐멘터리 "wikilink")이다. 10년이 넘는 기간의 준비로 1980년 초부터 총 3부로 나뉘어 월 1회로 방송을 시작하였고, 마지막 편이 1989년 3월에 방송되었다.\[1\]\[2\] 1984년에 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [한국방송공사](https://ko.wikipedia.org/wiki/한국방송공사 "wikilink")에서 1부와 2부가 방송되었다.\[3\]
+**NHK 특집 실크로드**()는 1980년대에 [일본방송협회](../Page/일본방송협회.md "wikilink")(NHK)에서 제작·방영한 [다큐멘터리](https://ko.wikipedia.org/wiki/다큐멘터리 "wikilink")이다. 10년이 넘는 기간의 준비로 1980년 초부터 총 3부로 나뉘어 월 1회로 방송을 시작하였고, 마지막 편이 1989년 3월에 방송되었다.\[1\]\[2\] 1984년에 [대한민국](../Page/대한민국.md "wikilink")의 [한국방송공사](../Page/한국방송공사.md "wikilink")에서 1부와 2부가 방송되었다.\[3\]
 
 ## 기획 및 제작
 
-일본방송협회의 설명에 의하면, 1972년 9월, 일본의 총리가 [중국](https://ko.wikipedia.org/wiki/중국 "wikilink")을 방문하였을 때, 당시 중국의 총리였던 [주은래가](https://ko.wikipedia.org/wiki/저우언라이 "wikilink") 취재진을 초청한 자리에서 중국을 외부에 소개해 줄 것을 요청했고, 당시 취재차 총리를 수행했던 NHK의 임원이 실크 로드의 TV 프로그램을 구상하게 되었는데, 해당 지역의 출입이 허가되지 않다가 1978년 10월 중국의 당부주석겸 부수상인 [등소평이](https://ko.wikipedia.org/wiki/덩샤오핑 "wikilink") 일본을 방문했을 때에 촬영을 요청하여 중국과 일본의 공동 프로젝트가 시작되었다고 한다.\[4\]\[5\]
+일본방송협회의 설명에 의하면, 1972년 9월, 일본의 총리가 [중국](../Page/중국.md "wikilink")을 방문하였을 때, 당시 중국의 총리였던 [주은래가](../Page/저우언라이.md "wikilink") 취재진을 초청한 자리에서 중국을 외부에 소개해 줄 것을 요청했고, 당시 취재차 총리를 수행했던 NHK의 임원이 실크 로드의 TV 프로그램을 구상하게 되었는데, 해당 지역의 출입이 허가되지 않다가 1978년 10월 중국의 당부주석겸 부수상인 [등소평이](../Page/덩샤오핑.md "wikilink") 일본을 방문했을 때에 촬영을 요청하여 중국과 일본의 공동 프로젝트가 시작되었다고 한다.\[4\]\[5\]
 
-[장안](https://ko.wikipedia.org/wiki/장안 "wikilink")에서부터 [파미르 고원에까지의](https://ko.wikipedia.org/wiki/파미르_고원 "wikilink") 여정을 담은 1부의 방영은 20%의 시청률을 기록하였고, 취재를 [로마](https://ko.wikipedia.org/wiki/로마 "wikilink")까지의 실크 로드로 연장해달라는 요청에 따라 후속편이 제작되었다.\[6\] 2부는 [소련](https://ko.wikipedia.org/wiki/소련 "wikilink")의 협조를 얻어 중국과 소련의 접경 지역인 [톈산 산맥에서부터](https://ko.wikipedia.org/wiki/톈산_산맥 "wikilink") 소련의 9개 공화국에 이르는 지역을 거쳐 터키에 이르는 여정을 취재하기도 하였다.\[7\]
+[장안](../Page/장안.md "wikilink")에서부터 [파미르 고원에까지의](https://ko.wikipedia.org/wiki/파미르_고원 "wikilink") 여정을 담은 1부의 방영은 20%의 시청률을 기록하였고, 취재를 [로마](../Page/로마.md "wikilink")까지의 실크 로드로 연장해달라는 요청에 따라 후속편이 제작되었다.\[6\] 2부는 [소련](../Page/소련.md "wikilink")의 협조를 얻어 중국과 소련의 접경 지역인 [톈산 산맥에서부터](https://ko.wikipedia.org/wiki/톈산_산맥 "wikilink") 소련의 9개 공화국에 이르는 지역을 거쳐 터키에 이르는 여정을 취재하기도 하였다.\[7\]
 
 ## 방송
 
@@ -97,7 +97,7 @@ KBS 방영 프로그램 / 해설:우제근 아니운서(1938\~)
 2.  [The Silk Road](https://www.nhk.or.jp/digitalmuseum/nhk50years_en/history/p20/index.html), NHK
 3.  日本 NHK제작 「실크로드秘境」안방서 본다, 《동아일보》, 1984.4.13
 4.
-5.  취재 지역에 포함되었던 [누란](https://ko.wikipedia.org/wiki/누란 "wikilink") 일대에는 중국의 핵실험 지역이 포함되어 있었다고도 한다. [［21세기 실크로드］ (18)황사 진원지](http://www.imaeil.com/sub_news/sub_news_view.php?news_id=23278&yy=2011#axzz3NWveHEED), 《매일신문》, 2008.5.22 참고.
+5.  취재 지역에 포함되었던 [누란](../Page/누란.md "wikilink") 일대에는 중국의 핵실험 지역이 포함되어 있었다고도 한다. [［21세기 실크로드］ (18)황사 진원지](http://www.imaeil.com/sub_news/sub_news_view.php?news_id=23278&yy=2011#axzz3NWveHEED), 《매일신문》, 2008.5.22 참고.
 6.
 7.  水中「실크로드 古都」를 畵面에, 《경향신문》, 1983.11.17 - 《요미우리 신문》 보도 인용.
 8.

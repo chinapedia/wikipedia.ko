@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ SC \(\)](https://ko.wikipedia.org/wiki/_SC_\(\)).
 
 
-**알아흘리 스포츠 클럽**()은 [카타르](https://ko.wikipedia.org/wiki/카타르 "wikilink")의 [도하](https://ko.wikipedia.org/wiki/도하 "wikilink")를 연고로 하는 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다.
+**알아흘리 스포츠 클럽**()은 [카타르](../Page/카타르.md "wikilink")의 [도하](../Page/도하.md "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽이다.
 
 ## 역대 성적
 

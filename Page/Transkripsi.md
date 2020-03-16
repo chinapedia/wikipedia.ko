@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Transkripsi](https://ko.wikipedia.org/wiki/Transkripsi).
 
 
-**Transkripsi**는 [말레이시아](https://ko.wikipedia.org/wiki/말레이시아 "wikilink")의 팝 가수 시티 누르할리자의 열한번 째 정규 앨범이다. 2006년 4월 23일 [말레이시아](https://ko.wikipedia.org/wiki/말레이시아 "wikilink"), [싱가포르](https://ko.wikipedia.org/wiki/싱가포르 "wikilink"), [브루나이](https://ko.wikipedia.org/wiki/브루나이 "wikilink")에서 수리아 레코드 및 시티 누르할리자 프로덕션을 통해 발매되었으며, [인도네시아](https://ko.wikipedia.org/wiki/인도네시아 "wikilink")에서는 그 후에 발매되었다. 동년 '올해의 최고 앨범'으로 선정되었다.
+**Transkripsi**는 [말레이시아](../Page/말레이시아.md "wikilink")의 팝 가수 시티 누르할리자의 열한번 째 정규 앨범이다. 2006년 4월 23일 [말레이시아](../Page/말레이시아.md "wikilink"), [싱가포르](../Page/싱가포르.md "wikilink"), [브루나이](../Page/브루나이.md "wikilink")에서 수리아 레코드 및 시티 누르할리자 프로덕션을 통해 발매되었으며, [인도네시아](../Page/인도네시아.md "wikilink")에서는 그 후에 발매되었다. 동년 '올해의 최고 앨범'으로 선정되었다.
 
 ## 개요
 

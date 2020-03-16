@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SNOW DOME  IN TOKYO DOME 2013.11.16](https://ko.wikipedia.org/wiki/SNOW_DOME__IN_TOKYO_DOME_2013.11.16).
 
 
-《**SNOW DOME의 약속 IN TOKYO DOME 2013.11.16**》은, [Kis-My-Ft2](https://ko.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")의 5번째 [DVD](https://ko.wikipedia.org/wiki/DVD "wikilink")이다.
+《**SNOW DOME의 약속 IN TOKYO DOME 2013.11.16**》은, [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")의 5번째 [DVD](../Page/DVD.md "wikilink")이다.
 
 ## 개요
 
@@ -89,11 +89,11 @@ DISC1：본편 DVD 수록 내용
 
 ## 블루레이반
 
-SNOW DOMEの約束 IN TOKYO DOME 2013.11.16은, [Kis-My-Ft2](https://ko.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")의 [Blu-ray](https://ko.wikipedia.org/wiki/Blu-ray "wikilink")이다.
+SNOW DOMEの約束 IN TOKYO DOME 2013.11.16은, [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")의 [Blu-ray](https://ko.wikipedia.org/wiki/Blu-ray "wikilink")이다.
 
 ## 개요
 
-[DVD](https://ko.wikipedia.org/wiki/DVD "wikilink")에서 특전 영상이 추가되어 [Blu-ray](https://ko.wikipedia.org/wiki/Blu-ray "wikilink")로 재 발매되었다.
+[DVD](../Page/DVD.md "wikilink")에서 특전 영상이 추가되어 [Blu-ray](https://ko.wikipedia.org/wiki/Blu-ray "wikilink")로 재 발매되었다.
 
 ## 수록 내용
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Tahajjud Cinta](https://ko.wikipedia.org/wiki/Tahajjud_Cinta).
 
 
-**Tahajjud Cinta**는 [말레이시아](https://ko.wikipedia.org/wiki/말레이시아 "wikilink")의 팝 가수 시티 누르할리자의 열네번 째 정규 앨범이자, 첫 번째 이슬람 앨범이다. 2009년 9월 9일 시티 누르할리자 프로덕션을 통해 발매되었다.
+**Tahajjud Cinta**는 [말레이시아](../Page/말레이시아.md "wikilink")의 팝 가수 시티 누르할리자의 열네번 째 정규 앨범이자, 첫 번째 이슬람 앨범이다. 2009년 9월 9일 시티 누르할리자 프로덕션을 통해 발매되었다.
 
 ## 개요
 

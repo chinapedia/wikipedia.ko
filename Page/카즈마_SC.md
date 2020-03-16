@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [ SC](https://ko.wikipedia.org/wiki/_SC).
 
 
-**카즈마 SC**()는 [쿠웨이트](https://ko.wikipedia.org/wiki/쿠웨이트 "wikilink") [쿠웨이트 시를](https://ko.wikipedia.org/wiki/쿠웨이트_시 "wikilink") 연고로 하는 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 이 팀은 [1964년](https://ko.wikipedia.org/wiki/1964년 "wikilink")에 창단되었으며 현재는 [쿠웨이트 프리미어리그에](https://ko.wikipedia.org/wiki/쿠웨이트_프리미어리그 "wikilink") 참가하고 있다. 축구 외에 [핸드볼](https://ko.wikipedia.org/wiki/핸드볼 "wikilink"), [농구](https://ko.wikipedia.org/wiki/농구 "wikilink") 팀도 운영한다.
+**카즈마 SC**()는 [쿠웨이트](../Page/쿠웨이트.md "wikilink") [쿠웨이트 시를](../Page/쿠웨이트_시.md "wikilink") 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. 이 팀은 [1964년](../Page/1964년.md "wikilink")에 창단되었으며 현재는 [쿠웨이트 프리미어리그에](../Page/쿠웨이트_프리미어리그.md "wikilink") 참가하고 있다. 축구 외에 [핸드볼](../Page/핸드볼.md "wikilink"), [농구](../Page/농구.md "wikilink") 팀도 운영한다.
 
 ## 성적
 
-  - [쿠웨이트 프리미어리그](https://ko.wikipedia.org/wiki/쿠웨이트_프리미어리그 "wikilink") 4회 우승 (1986, 1987, 1994, 1996)
+  - [쿠웨이트 프리미어리그](../Page/쿠웨이트_프리미어리그.md "wikilink") 4회 우승 (1986, 1987, 1994, 1996)
   - 쿠웨이트 아미르컵 7회 우승 (1982, 1984, 1990, 1995, 1997, 1998, 2011)
   - 쿠웨이트 크라운 프린스 컵 1회 우승 (1995)
   - 알쿠라피컵 2회 우승 (2004, 2007)
@@ -14,7 +14,7 @@
 
 ## 유명 선수
 
-  - [파하드 알에네지](https://ko.wikipedia.org/wiki/파하드_알에네지 "wikilink")
+  - [파하드 알에네지](../Page/파하드_알에네지.md "wikilink")
 
   - [유세프 나세르](../Page/유세프_나세르.md "wikilink")
 

@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [THE IDOLM@STER BEST ALBUM \~MASTER OF MASTER\~](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_BEST_ALBUM_\~MASTER_OF_MASTER\~).
 
 
-**'THE IDOLM@STER BEST ALBUM\~MASTER OF MASTER\~**' (아이돌마스터 베스트 앨범 마스터 오브 마스터)는 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [11월 19일부터](https://ko.wikipedia.org/wiki/11월_19일 "wikilink") [일본 컬럼비아에서](../Page/일본_컬럼비아.md "wikilink") 발매된 [베스트 앨범](https://ko.wikipedia.org/wiki/베스트_앨범 "wikilink").
+**'THE IDOLM@STER BEST ALBUM\~MASTER OF MASTER\~**' (아이돌마스터 베스트 앨범 마스터 오브 마스터)는 [2008년](../Page/2008년.md "wikilink") [11월 19일부터](../Page/11월_19일.md "wikilink") [일본 컬럼비아에서](../Page/일본_컬럼비아.md "wikilink") 발매된 [베스트 앨범](https://ko.wikipedia.org/wiki/베스트_앨범 "wikilink").
 
 ## 개요
 
-게임 '[THE IDOLM@STER](https://ko.wikipedia.org/wiki/THE_IDOLM@STER "wikilink")' 및, 그에서 파생한 [미디어 믹스](https://ko.wikipedia.org/wiki/미디어_믹스 "wikilink") 프로젝트 '[PROJECT IM@S](https://ko.wikipedia.org/wiki/PROJECT_IM@S "wikilink")' 관련 악곡을, CD에 이미 수록된 음원· 신록판·리믹스판으로 수록. [베스트 음반인](https://ko.wikipedia.org/wiki/베스트_음반 "wikilink") 것에도 불구하고 신록부분이 많은 것은 THE IDOLM@STER 관계자 전원이 '지금 할 수 있는 최선을 다한' 베스트반이기 때문\[1\]. CD2 매 셋트. 덧붙여 이 작품은 발매원이 발매일에 제고품절을 일으키고 있다\[2\].
+게임 '[THE IDOLM@STER](../Page/THE_IDOLM@STER.md "wikilink")' 및, 그에서 파생한 [미디어 믹스](https://ko.wikipedia.org/wiki/미디어_믹스 "wikilink") 프로젝트 '[PROJECT IM@S](https://ko.wikipedia.org/wiki/PROJECT_IM@S "wikilink")' 관련 악곡을, CD에 이미 수록된 음원· 신록판·리믹스판으로 수록. [베스트 음반인](https://ko.wikipedia.org/wiki/베스트_음반 "wikilink") 것에도 불구하고 신록부분이 많은 것은 THE IDOLM@STER 관계자 전원이 '지금 할 수 있는 최선을 다한' 베스트반이기 때문\[1\]. CD2 매 셋트. 덧붙여 이 작품은 발매원이 발매일에 제고품절을 일으키고 있다\[2\].
 
 ## 수록곡
 
@@ -13,7 +13,7 @@
 
 1.  GO MY WAY\!\! \*
       -
-        가: IM@S ALLSTARS\[아마미 하루카([나카무라 에리코](https://ko.wikipedia.org/wiki/나카무라_에리코 "wikilink")) · 키사라기 치하야([이마이 아사미](https://ko.wikipedia.org/wiki/이마이_아사미 "wikilink")) · 하기와라 유키호([오치아이 유리카](https://ko.wikipedia.org/wiki/하세_유리나 "wikilink")) · 타카츠키 야요이([니고 마야코](https://ko.wikipedia.org/wiki/니고_마야코 "wikilink")) · 아키즈키 리츠코([와카바야시 나오미](https://ko.wikipedia.org/wiki/와카바야시_나오미 "wikilink")) · 미우라 아즈사([타카하시 치아키](https://ko.wikipedia.org/wiki/타카하시_치아키 "wikilink")) · 미나세 이오리([쿠기미야 리에](https://ko.wikipedia.org/wiki/쿠기미야_리에 "wikilink")) · 키쿠치 마코토([히라타 히로미](https://ko.wikipedia.org/wiki/히라타_히로미 "wikilink")) · 후타미 아미/마미([시모다 아사미](https://ko.wikipedia.org/wiki/시모다_아사미 "wikilink")) · 호시이 미키([하세가와 아키코](https://ko.wikipedia.org/wiki/하세가와_아키코 "wikilink"))\]
+        가: IM@S ALLSTARS\[아마미 하루카([나카무라 에리코](../Page/나카무라_에리코.md "wikilink")) · 키사라기 치하야([이마이 아사미](../Page/이마이_아사미.md "wikilink")) · 하기와라 유키호([오치아이 유리카](../Page/하세_유리나.md "wikilink")) · 타카츠키 야요이([니고 마야코](https://ko.wikipedia.org/wiki/니고_마야코 "wikilink")) · 아키즈키 리츠코([와카바야시 나오미](https://ko.wikipedia.org/wiki/와카바야시_나오미 "wikilink")) · 미우라 아즈사([타카하시 치아키](../Page/타카하시_치아키.md "wikilink")) · 미나세 이오리([쿠기미야 리에](../Page/쿠기미야_리에.md "wikilink")) · 키쿠치 마코토([히라타 히로미](https://ko.wikipedia.org/wiki/히라타_히로미 "wikilink")) · 후타미 아미/마미([시모다 아사미](../Page/시모다_아사미.md "wikilink")) · 호시이 미키([하세가와 아키코](../Page/하세가와_아키코.md "wikilink"))\]
         작사: yura, 작곡·편곡: NBGI(고사키 사토루)
 2.  개막의 인사
 3.  Do-Dai(M@STER VERSION)\*

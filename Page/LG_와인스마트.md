@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LG ](https://ko.wikipedia.org/wiki/LG_).
 
 
-**LG 와인스마트**는 [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")에서 한국과 대만에 출시한 폴더형 스마트폰이다. 한국 내수용은 메신저인 [카카오톡](https://ko.wikipedia.org/wiki/카카오톡 "wikilink")을 쉽게 실행할 수 있는 카카오톡 전용 키가 내장되어 있으며, 대만 내수용은 카카오톡 버튼 대신에 ★모양의 핫 키가 내장되어 있다. 천지인 버전과 나랏글 버전, 대만 내수용 버전 세 가지가 있다. 먼저 발매한 나랏글 버전은 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [9월 29일](https://ko.wikipedia.org/wiki/9월_29일 "wikilink")\[1\] 에 천지인 버전은 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [10월 28일에](https://ko.wikipedia.org/wiki/10월_28일 "wikilink") 출시했다.\[2\] [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink")에는 자급제용으로 **와인스마트 3G**가 출시되었으며, 이는 천지인만 지원한다. [대만](https://ko.wikipedia.org/wiki/대만 "wikilink")에도 출시되었는데 대만 내수용의 경우에는 현지 언어로 변경된다.
+**LG 와인스마트**는 [LG전자](../Page/LG전자.md "wikilink")에서 한국과 대만에 출시한 폴더형 스마트폰이다. 한국 내수용은 메신저인 [카카오톡](../Page/카카오톡.md "wikilink")을 쉽게 실행할 수 있는 카카오톡 전용 키가 내장되어 있으며, 대만 내수용은 카카오톡 버튼 대신에 ★모양의 핫 키가 내장되어 있다. 천지인 버전과 나랏글 버전, 대만 내수용 버전 세 가지가 있다. 먼저 발매한 나랏글 버전은 [2014년](../Page/2014년.md "wikilink") [9월 29일](../Page/9월_29일.md "wikilink")\[1\] 에 천지인 버전은 [2014년](../Page/2014년.md "wikilink") [10월 28일에](../Page/10월_28일.md "wikilink") 출시했다.\[2\] [2015년](../Page/2015년.md "wikilink") [3월](../Page/3월.md "wikilink")에는 자급제용으로 **와인스마트 3G**가 출시되었으며, 이는 천지인만 지원한다. [대만](https://ko.wikipedia.org/wiki/대만 "wikilink")에도 출시되었는데 대만 내수용의 경우에는 현지 언어로 변경된다.
 
 ## 운영체제/소프트웨어
 
@@ -21,7 +21,7 @@
 
 ## 논란
 
-[LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")에서 사용자들의 편의를 위해 와인스마트와 같은 폴더형 스마트폰은 OS 업그레이드를 지원하지 않는다고 밝혀 논란이 되었다.\[3\]
+[LG전자](../Page/LG전자.md "wikilink")에서 사용자들의 편의를 위해 와인스마트와 같은 폴더형 스마트폰은 OS 업그레이드를 지원하지 않는다고 밝혀 논란이 되었다.\[3\]
 
 ## 색상
 

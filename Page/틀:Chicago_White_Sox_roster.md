@@ -19,7 +19,7 @@
   - 52 [제이트 페트리카](https://ko.wikipedia.org/wiki/제이트_페트리카 "wikilink") ([Jake Petricka](https://ko.wikipedia.org/wiki/w:en:Jake_Petricka "wikilink"))
   - 57 [잭 푸트넘](https://ko.wikipedia.org/wiki/잭_푸트넘 "wikilink") ([Zach Putnam](https://ko.wikipedia.org/wiki/w:en:Zach_Putnam "wikilink"))
   - 62 [호세 퀸타나](../Page/호세_퀸타나.md "wikilink") ([Jose Quintana](https://ko.wikipedia.org/wiki/w:en:Jose_Quintana "wikilink"))
-  - \-- [데이비드 로버트슨](https://ko.wikipedia.org/wiki/데이비드_로버트슨_\(야구_선수\) "wikilink") ([David Robertson](https://ko.wikipedia.org/wiki/w:en:David_Robertson_\(baseball\) "wikilink"))
+  - \-- [데이비드 로버트슨](../Page/데이비드_로버트슨_\(야구_선수\).md "wikilink") ([David Robertson](https://ko.wikipedia.org/wiki/w:en:David_Robertson_\(baseball\) "wikilink"))
   - 49 [크리스 세일](../Page/크리스_세일.md "wikilink") ([Chris Sale](https://ko.wikipedia.org/wiki/w:en:Chris_Sale "wikilink"))
   - \-- [제프 사마자](https://ko.wikipedia.org/wiki/제프_사마자 "wikilink") ([Jeff Samardzija](https://ko.wikipedia.org/wiki/w:en:Jeff_Samardzija "wikilink"))
   - 53 [에릭 서캠프](../Page/에릭_서캠프.md "wikilink") ([Eric Surkamp](https://ko.wikipedia.org/wiki/w:en:Eric_Surkamp "wikilink"))
@@ -59,7 +59,7 @@
 
 <!-- end list -->
 
-  - \-- [멜키 카브레라](https://ko.wikipedia.org/wiki/멜키_카브레라 "wikilink") ([Melky Cabrera](https://ko.wikipedia.org/wiki/w:en:Melky_Cabrera "wikilink"))
+  - \-- [멜키 카브레라](../Page/멜키_카브레라.md "wikilink") ([Melky Cabrera](https://ko.wikipedia.org/wiki/w:en:Melky_Cabrera "wikilink"))
   - 20 [조던 댕크스](https://ko.wikipedia.org/wiki/조던_댕크스 "wikilink") ([Jordan Danks](https://ko.wikipedia.org/wiki/w:en:Jordan_Danks "wikilink"))
   - 1 [애덤 이턴](../Page/애덤_이턴.md "wikilink") ([Adam Eaton](https://ko.wikipedia.org/wiki/w:en:Adam_Eaton_\(outfielder\) "wikilink"))
   - 26 [아비세일 가르시아](https://ko.wikipedia.org/wiki/아비세일_가르시아 "wikilink") ([Avisail Garcia](https://ko.wikipedia.org/wiki/w:en:Avisail_Garcia "wikilink"))
@@ -67,6 +67,6 @@
   - 75 [트레이스 톰슨](https://ko.wikipedia.org/wiki/트레이스_톰슨 "wikilink") ([Trayce Thompson](https://ko.wikipedia.org/wiki/w:en:Trayce_Thompson "wikilink"))
   - 24 [다얀 비시에도](https://ko.wikipedia.org/wiki/다얀_비시에도 "wikilink") ([Dayan Viciedo](https://ko.wikipedia.org/wiki/w:en:Dayan_Viciedo "wikilink"))
 
-40인 로스터([2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [12월 21일](https://ko.wikipedia.org/wiki/12월_21일 "wikilink") 기준)
+40인 로스터([2014년](../Page/2014년.md "wikilink") [12월 21일](../Page/12월_21일.md "wikilink") 기준)
 
 공식사이트(영어): [40인 로스터](http://chicago.whitesox.mlb.com/team/roster_40man.jsp?c_id=cws), [선수이적·부상정보](http://mlb.mlb.com/team/transactions.jsp?c_id=cws#month=12&year=2014&team_id=145), [예상라인업](http://mlb.mlb.com/team/transactions.jsp?c_id=cws#month=12&year=2014&team_id=145) <noinclude>[분류:시카고 화이트삭스](https://ko.wikipedia.org/wiki/분류:시카고_화이트삭스 "wikilink")</noinclude>

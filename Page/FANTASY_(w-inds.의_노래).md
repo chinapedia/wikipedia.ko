@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FANTASY \(w-inds. \)](https://ko.wikipedia.org/wiki/FANTASY_\(w-inds._\)).
 
 
-**Fantasy**는 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [1월 21일에](https://ko.wikipedia.org/wiki/1월_21일 "wikilink") 발매된 [w-inds.](https://ko.wikipedia.org/wiki/w-inds. "wikilink")의 34번째 싱글이다.
+**Fantasy**는 [2015년](../Page/2015년.md "wikilink") [1월 21일에](../Page/1월_21일.md "wikilink") 발매된 [w-inds.](https://ko.wikipedia.org/wiki/w-inds. "wikilink")의 34번째 싱글이다.
 
 ## 앨범 종류
 

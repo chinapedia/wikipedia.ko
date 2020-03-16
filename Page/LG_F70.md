@@ -19,7 +19,7 @@ F70는 [4.4.2](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wiki
 
 ### 이지홈 2.0
 
-홈 화면을 피처폰과 비슷하게 바꿔주는 기능이다. [SK텔레콤](https://ko.wikipedia.org/wiki/SK텔레콤 "wikilink")의 T간편모드와 비슷하다.
+홈 화면을 피처폰과 비슷하게 바꿔주는 기능이다. [SK텔레콤](../Page/SK텔레콤.md "wikilink")의 T간편모드와 비슷하다.
 
 ### 플러그 앤 팝
 
@@ -28,7 +28,7 @@ F70는 [4.4.2](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wiki
 ## 색상
 
   - [블랙](https://ko.wikipedia.org/wiki/검정 "wikilink")
-  - [화이트](https://ko.wikipedia.org/wiki/하양 "wikilink")
+  - [화이트](../Page/하양.md "wikilink")
 
 ## 배터리 시간
 
